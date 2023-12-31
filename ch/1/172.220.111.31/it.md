@@ -4,11 +4,11 @@ title: "Ordinanza del DFF del 6 dicembre 2001 concernente l'ordinanza sul person
 short: O-OPers
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/485"
 language: it
-version: 2023-01-01
+version: 2024-01-01
 adopted: 2001-12-06
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/485/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2001-485-20230101-it-xml-11.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/485/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/485/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2001-485-20240101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/485/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/485/20230101/it"
 
 (O-OPers)
 
-del 6 dicembre 2001 (Stato 1° gennaio 2023)
+del 6 dicembre 2001 (Stato 1° gennaio 2024)
 
 Il Dipartimento federale delle finanze (DFF),[^ingress-1]
 
@@ -126,15 +126,20 @@ I collaboratori e i loro diretti superiori attestano con la propria firma sul mo
 
 #### Art. 6
 
-**Eliminazione delle divergenze**
+**Riesame[^6-1]**
 
 ### (art. 15 e 16 OPers)
 
-<sup>1</sup> Gli impiegati che non concordano con la valutazione del personale possono chiedere per iscritto, entro 14 giorni dalla firma del modulo di valutazione, un riesame da parte della persona alla quale il loro superiore è direttamente subordinato. Essa effettua un colloquio con le parti in conflitto e prende una decisione entro 14 giorni.
+<sup>1</sup> Gli impiegati che non concordano con la valutazione del personale possono chiedere per iscritto, entro 14 giorni dalla firma del modulo di valutazione, un riesame da parte della persona alla quale il loro superiore è direttamente subordinato. Essa effettua un colloquio con le parti in conflitto e prende per iscritto una decisione sulla valutazione entro 14 giorni.[^6-2]
 
-<sup>2</sup> Se non è raggiunto un accordo, gli Uffici federali prevedono un altro servizio interno all’ufficio al quale può essere richiesto per iscritto un ulteriore riesame colloquiale. Si applicano le medesime scadenze.
+<sup>2</sup> Se gli impiegati non concordano con la decisione, gli Uffici federali prevedono un servizio interno all’ufficio al quale può essere richiesto per iscritto un ulteriore riesame colloquiale. Gli impiegati possono chiedere per iscritto, entro 14 giorni, un riesame a tale servizio. Il servizio decide per iscritto in modo definitivo sulla valutazione entro 20 giorni dal colloquio.[^6-3]
 
-<sup>3</sup> Nel procedimento di eliminazione delle divergenze i collaboratori possono chiedere la partecipazione di una persona di loro fiducia e consentirle la consultazione dell’incarto.
+<sup>3</sup> Gli impiegati possono chiedere la partecipazione di una persona di loro fiducia e consentirle la consultazione dell’incarto.[^6-4]
+
+[^6-1]: Nuovo testo giusta il n. I dell’O del DFF del 30 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 755](https://fedlex.data.admin.ch/eli/oc/2023/755)).
+[^6-2]: Nuovo testo del per. giusta il n. I dell’O del DFF del 30 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 755](https://fedlex.data.admin.ch/eli/oc/2023/755)).
+[^6-3]: Nuovo testo giusta il n. I dell’O del DFF del 30 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 755](https://fedlex.data.admin.ch/eli/oc/2023/755)).
+[^6-4]: Nuovo testo giusta il n. I dell’O del DFF del 30 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 755](https://fedlex.data.admin.ch/eli/oc/2023/755)).
 
 #### Art. 7
 
@@ -496,15 +501,18 @@ Le prestazioni della Confederazione possono essere temporaneamente o durevolment
 
 <sup>2</sup> Il saldo attivo che alla fine dell’anno civile eccede il limite superiore della fascia decade senza indennità.
 
+<sup>2bis</sup> Se alla fine dell’anno civile il saldo orario si situa al di sotto del limite inferiore della fascia, occorre concordare con l’impiegato se e fino a quando il saldo negativo al di sotto del limite inferiore della fascia deve essere recuperato o se può essere compensato con altri saldi. Se non può essere raggiunto alcun accordo o se il saldo negativo non può essere recuperato, il corrispondente importo calcolato in funzione dello stipendio orario di cui all’articolo 19 capoverso 1 viene dedotto dallo stipendio mensile successivo.[^30-2]
+
 <sup>3</sup> D’intesa con il superiore la durata annua del lavoro convenuta può essere portata a termine in meno di 12 mesi. In tal caso lo stipendio mensile rimane invariato.
 
-<sup>4</sup> Se alla fine del rapporto di lavoro il saldo orario dell’impiegato è negativo, il corrispondente importo calcolato in funzione dello stipendio orario di cui all’articolo 19 capoverso 1 viene dedotto dall’ultimo stipendio mensile oppure ne viene chiesta la restituzione.[^30-2]
+<sup>4</sup> Se alla fine del rapporto di lavoro il saldo orario dell’impiegato è negativo, il corrispondente importo calcolato in funzione dello stipendio orario di cui all’articolo 19 capoverso 1 viene dedotto dall’ultimo stipendio mensile oppure ne viene chiesta la restituzione.[^30-3]
 
-<sup>5</sup> Se alla fine del rapporto di lavoro il saldo orario dell’impiegato è positivo, viene versato il corrispondente importo calcolato in funzione dello stipendio orario di cui all’articolo 19 capoverso 1.[^30-3]
+<sup>5</sup> Se alla fine del rapporto di lavoro il saldo orario dell’impiegato è positivo, viene versato il corrispondente importo calcolato in funzione dello stipendio orario di cui all’articolo 19 capoverso 1.[^30-4]
 
 [^30-1]: Nuovo testo giusta il n. I dell’O del DFF del 31 mag. 2013, in vigore dal 1° gen. 2014 ([RU 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
-[^30-2]: Introdotto dal n. I dell’O del DFF del 25 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4013](https://fedlex.data.admin.ch/eli/oc/2018/648)).
+[^30-2]: Introdotto dal n. I dell’O del DFF del 30 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 755](https://fedlex.data.admin.ch/eli/oc/2023/755)).
 [^30-3]: Introdotto dal n. I dell’O del DFF del 25 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4013](https://fedlex.data.admin.ch/eli/oc/2018/648)).
+[^30-4]: Introdotto dal n. I dell’O del DFF del 25 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4013](https://fedlex.data.admin.ch/eli/oc/2018/648)).
 
 #### Art. 31
 
@@ -516,13 +524,16 @@ Le prestazioni della Confederazione possono essere temporaneamente o durevolment
 
 <sup>2</sup> Il saldo attivo che alla fine del mese eccede il limite superiore della fascia decade senza indennità.
 
-<sup>3</sup> Se alla fine del rapporto di lavoro il saldo orario dell’impiegato è negativo, il corrispondente importo calcolato in funzione dello stipendio orario di cui all’articolo 19 capoverso 1 viene dedotto dall’ultimo stipendio mensile oppure ne viene chiesta la restituzione.[^31-2]
+<sup>2bis</sup> Se alla fine del mese il saldo orario si situa al di sotto del limite inferiore della fascia, occorre concordare con l’impiegato se e fino a quando il saldo negativo al di sotto del limite inferiore della fascia deve essere recuperato o se può essere compensato con altri saldi. Se non può essere raggiunto alcun accordo o se il saldo negativo non può essere recuperato, il corrispondente importo calcolato in funzione dello stipendio orario di cui all’articolo 19 capoverso 1 viene dedotto dallo stipendio mensile successivo.[^31-2]
 
-<sup>4</sup> Se alla fine del rapporto di lavoro il saldo orario dell’impiegato è positivo, viene versato il corrispondente importo calcolato in funzione dello stipendio orario di cui all’articolo 19 capoverso 1.[^31-3]
+<sup>3</sup> Se alla fine del rapporto di lavoro il saldo orario dell’impiegato è negativo, il corrispondente importo calcolato in funzione dello stipendio orario di cui all’articolo 19 capoverso 1 viene dedotto dall’ultimo stipendio mensile oppure ne viene chiesta la restituzione.[^31-3]
+
+<sup>4</sup> Se alla fine del rapporto di lavoro il saldo orario dell’impiegato è positivo, viene versato il corrispondente importo calcolato in funzione dello stipendio orario di cui all’articolo 19 capoverso 1.[^31-4]
 
 [^31-1]: Nuovo testo giusta il n. I dell’O del DFF del 31 mag. 2013, in vigore dal 1° gen. 2014 ([RU 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
-[^31-2]: Introdotto dal n. I dell’O del DFF del 25 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4013](https://fedlex.data.admin.ch/eli/oc/2018/648)).
+[^31-2]: Introdotto dal n. I dell’O del DFF del 30 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 755](https://fedlex.data.admin.ch/eli/oc/2023/755)).
 [^31-3]: Introdotto dal n. I dell’O del DFF del 25 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4013](https://fedlex.data.admin.ch/eli/oc/2018/648)).
+[^31-4]: Introdotto dal n. I dell’O del DFF del 25 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4013](https://fedlex.data.admin.ch/eli/oc/2018/648)).
 
 #### Art. 32
 
@@ -683,7 +694,7 @@ Un congedo pagato può essere concesso in particolare per le seguenti attività:
 - d. perfezionamento, specialmente di natura sindacale: il tempo necessario fino a un massimo di sei giorni lavorativi in due anni;
 - e. operazioni all’estero in corpi volontari in caso di catastrofe nonché nell’ambito di azioni di preservazione della pace e di buoni uffici: il tempo necessario fino a un massimo di sei mesi in due anni;
 - f. partecipazione a gare sportive internazionali: il tempo necessario fino a un massimo di 30 giorni lavorativi all’anno;
-- g.[^40-1] partecipazione a manifestazioni Gioventù e Sport in una funzione dirigenziale: il tempo necessario fino a un massimo di sei giorni lavorativi all’anno.
+- g.[^40-1] partecipazione a offerte di Gioventù e Sport (G+S) in una funzione dirigenziale e partecipazione a corsi per monitori di G+S nonché a corsi per monitori dei partner di G+S: il tempo necessario fino a un massimo di sei giorni lavorativi all’anno.
 
 <sup>3</sup>
 
@@ -691,7 +702,7 @@ Un congedo pagato viene concesso all’impiegato per i seguenti eventi:
 
 - a.[^40-2] matrimonio, compreso il matrimonio civile: 1 giorno lavorativo;
 - b.[^40-3] ...
-- c.[^40-4] assistenza a un familiare o al partner in caso di malattia o infortunio: il tempo necessario fino a un massimo di tre giorni lavorativi per ogni evento;
+- c.[^40-4] assistenza a un familiare o al partner in caso di malattia o infortunio, se l’assistenza da parte dell’impiegato è necessaria: il tempo necessario fino a un massimo di tre giorni lavorativi per ogni evento;
 - d. decesso del coniuge, del convivente, di un genitore o di un figlio: tre giorni lavorativi;
 - e. decesso di un altro parente o di un terzo per consentire la partecipazione al rito funebre: il tempo necessario fino a un massimo di 1 giorno lavorativo;
 - f. trasloco: il tempo necessario fino a un massimo di 1 giorno lavorativo;
@@ -699,7 +710,9 @@ Un congedo pagato viene concesso all’impiegato per i seguenti eventi:
 - h.[^40-5] brevi assenze per consultazione del medico o del dentista: il tempo necessario per la visita e al massimo un’ora per il viaggio di andata e ritorno, ma l’assenza sommata alle ore di lavoro effettuate non deve superare la durata giornaliera del lavoro convenuta; il congedo può essere negato se gli appuntamenti pianificabili per consultazione del medico o del dentista non sono fissati in orari marginali o nei giorni di libero senza ragioni plausibili;
 - i.[^40-6] partecipazione all’assemblea dei delegati di PUBLICA.
 
-<sup>4</sup> I congedi previsti dai capoversi 2 e 3 sono computati sulla durata dell’impiego.
+<sup>4</sup> I giorni di congedo presi di cui ai capoversi 2 e 3 sono computati sulla durata dell’impiego.[^40-7]
+
+<sup>4bis</sup> I giorni di congedo non presi di cui ai capoversi 2 e 3 decadono senza indennità in caso di cessazione del rapporto di lavoro.[^40-8]
 
 <sup>5</sup>
 
@@ -709,15 +722,17 @@ In caso di concessione di congedi, in particolare di quelli di più lunga durata
 - b. il computo o meno del congedo sulla durata dell’impiego;
 - c. la continuazione o meno della previdenza professionale nonché in particolare l’obbligo di versare i contributi.
 
-<sup>6</sup> In caso di modifica del tasso di occupazione, i restanti giorni di congedo vengono riportati nel nuovo rapporto di lavoro.[^40-7]
+<sup>6</sup> In caso di modifica del tasso di occupazione, i restanti giorni di congedo vengono riportati nel nuovo rapporto di lavoro.[^40-9]
 
-[^40-1]: Introdotta dal n. I dell’O del DFF del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5399](https://fedlex.data.admin.ch/eli/oc/2020/937)).
+[^40-1]: Introdotta dal n. I dell’O del DFF del 18 nov. 2020 ([RU 2020 5399](https://fedlex.data.admin.ch/eli/oc/2020/937)). Nuovo testo giusta il n. I dell’O del DFF del 30 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 755](https://fedlex.data.admin.ch/eli/oc/2023/755)).
 [^40-2]: Nuovo testo giusta il n. I dell’O del DFF del 20 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 618](https://fedlex.data.admin.ch/eli/oc/2022/618)).
 [^40-3]: Abrogata dal n. I dell’O del DFF del 14 mag. 2021, con effetto dal 1° gen. 2022 ([RU 2021 301](https://fedlex.data.admin.ch/eli/oc/2021/301)).
-[^40-4]: Nuovo testo giusta il n. I dell’O del DFF del 14 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 301](https://fedlex.data.admin.ch/eli/oc/2021/301)).
+[^40-4]: Nuovo testo giusta il n. I dell’O del DFF del 30 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 755](https://fedlex.data.admin.ch/eli/oc/2023/755)).
 [^40-5]: Nuovo testo giusta il n. I dell’O del DFF del 5 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4515](https://fedlex.data.admin.ch/eli/oc/2016/735)).
 [^40-6]: Introdotta dal n. I dell’O del DFF del 13 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3811](https://fedlex.data.admin.ch/eli/oc/2019/694)).
-[^40-7]: Introdotto dal n. I dell’O del DFF del 25 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4013](https://fedlex.data.admin.ch/eli/oc/2018/648)).
+[^40-7]: Nuovo testo giusta il n. I dell’O del DFF del 30 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 755](https://fedlex.data.admin.ch/eli/oc/2023/755)).
+[^40-8]: Introdotto dal n. I dell’O del DFF del 30 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 755](https://fedlex.data.admin.ch/eli/oc/2023/755)).
+[^40-9]: Introdotto dal n. I dell’O del DFF del 25 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4013](https://fedlex.data.admin.ch/eli/oc/2018/648)).
 
 #### Art. 40a
 
@@ -793,30 +808,27 @@ I viaggi in aereo possono essere autorizzati se la loro durata è inferiore a qu
 
 <sup>1</sup>
 
-Le spese per i pasti fuori del luogo di lavoro o di domicilio sono rimborsate con i seguenti importi forfettari:[^43-1]
+Le spese per i pasti fuori del luogo di lavoro o di domicilio sono rimborsate con i seguenti importi forfettari:
 
-- a. 14 franchi per la colazione;
-- b. 27.50 franchi per il pranzo o la cena.[^43-2]
+- a. 15 franchi per la colazione;
+- b. 30 franchi per il pranzo o la cena.[^43-1]
 
 <sup>2</sup> Il servizio competente può rimborsare con questi importi forfettari le spese per pasti nel luogo di lavoro resi necessari da ragioni di servizio.
 
-<sup>3</sup> In casi giustificati al posto degli importi forfettari si possono rimborsare le spese effettive.[^43-3]
+<sup>3</sup> In casi giustificati al posto degli importi forfettari si possono rimborsare le spese effettive.[^43-2]
 
-[^43-1]: Nuovo testo giusta il n. I dell’O del DFF del 12 giu. 2015, in vigore dal 1° ago. 2015 ([RU 2015 2249](https://fedlex.data.admin.ch/eli/oc/2015/418)).
-[^43-2]: Nuovo testo giusta il n. I dell’O del DFF del 16 dic. 2008, in vigore dal 1° gen. 2009 ([RU 2008 6413](https://fedlex.data.admin.ch/eli/oc/2008/862)).
-[^43-3]: Nuovo testo giusta il n. I dell’O del DFF del 12 giu. 2015, in vigore dal 1° ago. 2015 ([RU 2015 2249](https://fedlex.data.admin.ch/eli/oc/2015/418)).
+[^43-1]: Nuovo testo giusta il n. I dell’O del DFF del 30 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 755](https://fedlex.data.admin.ch/eli/oc/2023/755)).
+[^43-2]: Nuovo testo giusta il n. I dell’O del DFF del 12 giu. 2015, in vigore dal 1° ago. 2015 ([RU 2015 2249](https://fedlex.data.admin.ch/eli/oc/2015/418)).
 
 #### Art. 44
 
 **Rimborso dei pernottamenti**[^44-1]
 
-### (art. 72 cpv. 2 lett. a OPers)
+<sup>1</sup> Per pernottamenti con colazione in un albergo sono rimborsate le spese effettive, fino a un massimo di 200 franchi per notte; in casi eccezionali e giustificati, tali spese possono essere rimborsate fino a un massimo di 275 franchi per notte.
 
-<sup>1</sup> Per pernottamenti con colazione in un albergo sono rimborsate le spese effettive, fino a un massimo di 180 franchi; in casi eccezionali e giustificati, tali spese possono essere rimborsate fino a un massimo di 250 franchi.
+<sup>2</sup> Per pernottamenti in alloggi messi a disposizione da locatori privati o commerciali sono rimborsate le spese effettive, fino a un massimo di 150 franchi per notte.
 
-<sup>2</sup> Per pernottamenti in alloggi messi a disposizione da locatori privati o commerciali sono rimborsate le spese effettive, fino a un massimo di 150 franchi.
-
-[^44-1]: Nuovo testo giusta il n. I dell’O del DFF del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5399](https://fedlex.data.admin.ch/eli/oc/2020/937)).
+[^44-1]: Nuovo testo giusta il n. I dell’O del DFF del 30 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 755](https://fedlex.data.admin.ch/eli/oc/2023/755)).
 
 #### Art. 45
 
@@ -1024,32 +1036,38 @@ Se al momento del versamento del premio di fedeltà il tasso di occupazione dell
 
 <sup>1</sup>
 
-A partire da una durata contrattuale dell’impiego di almeno tre mesi gli impiegati hanno diritto a:[^53-2]
+Gli impiegati hanno diritto a:[^53-2]
 
 - a. un abbonamento metà-prezzo gratuito delle FFS; oppure
 - b. un abbonamento generale «adulti» a prezzo ridotto delle FFS.
 
 <sup>2</sup>
 
-Le riduzioni per l’abbonamento generale «adulti» ammontano alle seguenti percentuali per gli impiegati che con questo abbonamento:
+Il datore di lavoro determina le riduzioni per l’abbonamento generale. Ammontano alle seguenti percentuali per gli impiegati che con questo abbonamento:
 
 - a. effettuano fino a 59 viaggi di servizio all’anno: 25 per cento;
 - b. effettuano 60 o più viaggi di servizio all’anno: 100 per cento.[^53-3]
 
-<sup>2bis</sup> Sono considerati viaggi di servizio ai sensi del capoverso 2 gli impieghi professionali al di fuori di un raggio di dieci chilometri in linea d’aria dal luogo di lavoro e di quello di domicilio degli impiegati.[^53-4]
+<sup>2bis</sup> Per i viaggi di servizio deve essere utilizzato l’abbonamento. Sono considerati viaggi di servizio ai sensi del capoverso 2 gli impieghi professionali al di fuori di un raggio di dieci chilometri in linea d’aria dal luogo di lavoro e di quello di domicilio degli impiegati..[^53-4]
 
 <sup>3</sup> In luogo di abbonamenti generali ai sensi del capoverso 2 lettera b, possono essere rilasciati eccezionalmente abbonamenti di percorso oppure altri titoli di trasporto se ciò è più vantaggioso per la Confederazione.[^53-5]
 
-<sup>4</sup> Per i viaggi di servizio deve essere utilizzato l’abbonamento.
+<sup>4</sup>
 
-<sup>5</sup> Agli impiegati che acquistano privatamente un abbonamento generale viene rimborsato il 15 per cento del prezzo dell’abbonamento generale «adulti».[^53-6]
+L’abbonamento generale ricevuto con una riduzione di cui al capoverso 2 lettera b deve essere restituito al datore di lavoro:
+
+- a. in caso di cessazione del rapporto di lavoro;
+- b. a seguito del venir meno delle condizioni di cui al capoverso 2.[^53-6]
+
+<sup>5</sup> Agli impiegati che acquistano privatamente un abbonamento generale viene rimborsato il 15 per cento del prezzo dell’abbonamento generale «adulti».[^53-7]
 
 [^53-1]: Nuovo testo giusta il n. I dell’O del DFF dell’11 dic. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6575](https://fedlex.data.admin.ch/eli/oc/2009/812)).
-[^53-2]: Nuovo testo giusta il n. I dell’O del DFF del 5 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4515](https://fedlex.data.admin.ch/eli/oc/2016/735)).
-[^53-3]: Nuovo testo giusta il n. I dell’O del DFF del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5399](https://fedlex.data.admin.ch/eli/oc/2020/937)).
-[^53-4]: Introdotto dal n. I dell’O del DFF del 31 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
+[^53-2]: Nuovo testo giusta il n. I dell’O del DFF del 30 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 755](https://fedlex.data.admin.ch/eli/oc/2023/755)).
+[^53-3]: Nuovo testo giusta il n. I dell’O del DFF del 30 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 755](https://fedlex.data.admin.ch/eli/oc/2023/755)).
+[^53-4]: Introdotto dal n. I dell’O del DFF del 31 mag. 2013 ([RU 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)). Nuovo testo giusta il n. I dell’O del DFF del 30 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 755](https://fedlex.data.admin.ch/eli/oc/2023/755)).
 [^53-5]: Nuovo testo giusta il n. I dell’O del DFF del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5399](https://fedlex.data.admin.ch/eli/oc/2020/937)). La correzione dell’8 giu. 2021 concerne soltanto il testo francese ([RU 2021 326](https://fedlex.data.admin.ch/eli/oc/2021/326)).
-[^53-6]: Introdotto dal n. I dell’O del DFF del 31 mag. 2013 ([RU 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)). Nuovo testo giusta il n. I dell’O del DFF del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5399](https://fedlex.data.admin.ch/eli/oc/2020/937)).
+[^53-6]: Nuovo testo giusta il n. I dell’O del DFF del 30 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 755](https://fedlex.data.admin.ch/eli/oc/2023/755)).
+[^53-7]: Introdotto dal n. I dell’O del DFF del 31 mag. 2013 ([RU 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)). Nuovo testo giusta il n. I dell’O del DFF del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5399](https://fedlex.data.admin.ch/eli/oc/2020/937)).
 
 #### Art. 54
 

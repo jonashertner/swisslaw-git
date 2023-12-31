@@ -4,11 +4,11 @@ title: "Ordonnance du DFF du 6 décembre 2001 concernant l'ordonnance sur le per
 short: O-OPers
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/485"
 language: fr
-version: 2023-01-01
+version: 2024-01-01
 adopted: 2001-12-06
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/485/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2001-485-20230101-fr-xml-11.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/485/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/485/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2001-485-20240101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/485/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/485/20230101/fr"
 
 (O-OPers)
 
-du 6 décembre 2001 (État le 1<sup>er</sup> janvier 2023)
+du 6 décembre 2001 (État le 1<sup>er</sup> janvier 2024)
 
 Le Département fédéral des finances (DFF),[^ingress-1]
 
@@ -40,7 +40,7 @@ arrête:
 
 <sup>2</sup> Dans la présente ordonnance, la compétence de l’employeur de prendre des décisions est réglée par l’art. 2 OPers.
 
-<sup>3</sup> ...[^1-2]
+<sup>3</sup> …[^1-2]
 
 <sup>4</sup> Dans la présente ordonnance, le terme de «département» désigne les départements et la Chancellerie fédérale.
 
@@ -126,15 +126,20 @@ En signant le formulaire d’évaluation, les collaborateurs et les supérieurs 
 
 #### Art. 6
 
-**Élimination des divergences d’appréciation**
+**Réévaluation[^6-1]**
 
 ### (art. 15 et 16 OPers)
 
-<sup>1</sup> Les employés qui ne sont pas d’accord avec l’évaluation qui est faite d’eux peuvent, dans les quatorze jours qui suivent la signature du formulaire d’évaluation, demander par écrit une réévaluation au supérieur direct de leur supérieur. Après un entretien avec le collaborateur et son supérieur direct, cette personne statue sur l’évaluation dans les quatorze jours.
+<sup>1</sup> Les employés qui ne sont pas d’accord avec l’évaluation qui est faite d’eux peuvent, dans les quatorze jours qui suivent la signature du formulaire d’évaluation, demander par écrit une réévaluation au supérieur direct de leur supérieur. Après un entretien avec le collaborateur et son supérieur direct, cette personne statue par écrit sur l’évaluation dans les quatorze jours.[^6-2]
 
-<sup>2</sup> Au cas où aucun accord ne se dégage, l’office fédéral prévoit une autre instance en son sein à laquelle une nouvelle réévaluation sous la forme d’un entretien peut être demandée par écrit. Les mêmes délais sont applicables.
+<sup>2</sup> Au cas où les employés ne sont pas d’accord avec cette décision, l’office fédéral prévoit une instance en son sein à laquelle une réévaluation sous la forme d’un entretien peut être demandée par écrit. Les employés peuvent, dans les quatorze jours, demander par écrit une réévaluation à cette instance. L’instance statue par écrit de manière définitive sur l’évaluation dans les vingt jours suivant l’entretien.[^6-3]
 
-<sup>3</sup> Tout collaborateur peut associer une personne de son choix au processus d’élimination des divergences et lui permettre de consulter son dossier.
+<sup>3</sup> Les employés peuvent associer une personne de leur choix au processus et lui permettre de consulter le dossier.[^6-4]
+
+[^6-1]: Nouvelle teneur selon le ch. I de l’O du DFF du 30 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 755](https://fedlex.data.admin.ch/eli/oc/2023/755)).
+[^6-2]: Nouvelle teneur de la phrase selon le ch. I de l’O du DFF du 30 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 755](https://fedlex.data.admin.ch/eli/oc/2023/755)).
+[^6-3]: Nouvelle teneur selon le ch. I de l’O du DFF du 30 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 755](https://fedlex.data.admin.ch/eli/oc/2023/755)).
+[^6-4]: Nouvelle teneur selon le ch. I de l’O du DFF du 30 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 755](https://fedlex.data.admin.ch/eli/oc/2023/755)).
 
 #### Art. 7
 
@@ -150,7 +155,7 @@ En signant le formulaire d’évaluation, les collaborateurs et les supérieurs 
 
 #### Art. 8
 
-**...[^8-2]**[^8-1]
+**…[^8-2]**[^8-1]
 
 Les rapports de travail prennent fin:
 
@@ -351,9 +356,9 @@ L’indemnité remplaçant les vacances s’élève à:
 
 <sup>2</sup> L’évaluation se fait sur la base des exigences liées à la fonction, visées à l’art. 52, al. 3, OPers, et en comparaison avec d’autres postes.
 
-<sup>3</sup> ...[^20-1]
+<sup>3</sup> …[^20-1]
 
-<sup>4</sup> ...[^20-2]
+<sup>4</sup> …[^20-2]
 
 [^20-1]: Abrogé par le ch. I de l’O du DFF du 25 oct. 2018, avec effet au 1<sup>er</sup> janv. 2019 ([RO 2018 4013](https://fedlex.data.admin.ch/eli/oc/2018/648)).
 [^20-2]: Abrogé par le ch. I de l’O du DFF du 31 mai 2013, avec effet au 1<sup>er</sup> juil. 2013 ([RO 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
@@ -420,7 +425,7 @@ Est réputé gain déterminant:
 
 - b.
 
-  pour le conjoint ou le partenaire survivant :
+  pour le conjoint ou le partenaire survivant:
 
   - 1\. ayant droit à une rente de survivant en vertu de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants (LAVS)[^26-4] et de la SUVA et ayant un ou plusieurs enfants: 100 % du gain déterminant en vertu de la let. a,
   - 2\. ayant droit à une rente de survivant en vertu de la LAVS et de la SUVA et n’ayant pas d’enfant: 85 % du gain déterminant en vertu de la let. a,
@@ -500,15 +505,18 @@ La Confédération peut réduire temporairement ou durablement ses prestations, 
 
 <sup>2</sup> Le solde horaire positif dépassant à la fin de l’année civile la limite supérieure de la fourchette est perdu sans donner droit à un dédommagement.
 
+<sup>2bis</sup> Si, à la fin de l’année civile, le solde horaire se situe en dessous de la limite inférieure de la fourchette, il convient de déterminer avec l’employé si et jusqu’à quand les heures négatives situées en dessous de la limite inférieure de la fourchette doivent être rattrapées ou si elles peuvent être compensées au moyen d’autres soldes. Si aucun accord ne peut être trouvé ou si les heures négatives ne sont pas rattrapées, le montant correspondant aux heures négatives est déduit du salaire du mois suivant conformément au salaire horaire selon l’art. 19, al. 1.[^30-2]
+
 <sup>3</sup> En accord avec leur supérieur hiérarchique, les employés peuvent fournir le nombre d’heures de travail dues dans l’année en moins de douze mois. Le salaire mensuel reste inchangé.
 
-<sup>4</sup> Si, à la fin des rapports de travail, le solde horaire de l’employé est négatif, le montant correspondant au nombre d’heures négatives est imputé sur le dernier salaire mensuel ou remboursé par l’employé conformément au salaire horaire selon l’art. 19, al. 1.[^30-2]
+<sup>4</sup> Si, à la fin des rapports de travail, le solde horaire de l’employé est négatif, le montant correspondant au nombre d’heures négatives est imputé sur le dernier salaire mensuel ou remboursé par l’employé conformément au salaire horaire selon l’art. 19, al. 1.[^30-3]
 
-<sup>5</sup> Si, à la fin des rapports de travail, le solde horaire de l’employé est positif, le montant correspondant au nombre d’heures positives lui est versé conformément au salaire horaire selon l’art. 19, al. 1.[^30-3]
+<sup>5</sup> Si, à la fin des rapports de travail, le solde horaire de l’employé est positif, le montant correspondant au nombre d’heures positives lui est versé conformément au salaire horaire selon l’art. 19, al. 1.[^30-4]
 
 [^30-1]: Nouvelle teneur selon le ch. I de l’O du DFF du 31 mai 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
-[^30-2]: Introduit par le ch. I de l’O du DFF du 25 oct. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4013](https://fedlex.data.admin.ch/eli/oc/2018/648)).
+[^30-2]: Introduit par le ch. I de l’O du DFF du 30 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 755](https://fedlex.data.admin.ch/eli/oc/2023/755)).
 [^30-3]: Introduit par le ch. I de l’O du DFF du 25 oct. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4013](https://fedlex.data.admin.ch/eli/oc/2018/648)).
+[^30-4]: Introduit par le ch. I de l’O du DFF du 25 oct. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4013](https://fedlex.data.admin.ch/eli/oc/2018/648)).
 
 #### Art. 31
 
@@ -520,13 +528,16 @@ La Confédération peut réduire temporairement ou durablement ses prestations, 
 
 <sup>2</sup> Le solde horaire positif dépassant à la fin du mois la limite supérieure de la fourchette est perdu sans donner droit à un dédommagement.
 
-<sup>3</sup> Si, à la fin des rapports de travail, le solde horaire de l’employé est négatif, le montant correspondant au nombre d’heures négatives est imputé sur le dernier salaire mensuel ou remboursé par l’employé conformément au salaire horaire selon l’art. 19, al. 1.[^31-2]
+<sup>2bis</sup> Si, à la fin du mois, le solde horaire se situe en dessous de la limite inférieure de la fourchette, il convient de déterminer avec l’employé si et jusqu’à quand les heures négatives situées en dessous de la limite inférieure de la fourchette doivent être rattrapées ou si elles peuvent être compensées au moyen d’autres soldes. Si aucun accord ne peut être trouvé ou si les heures négatives ne sont pas rattrapées, le montant correspondant aux heures négatives est déduit du salaire du mois suivant conformément au salaire horaire selon l’art. 19, al. 1.[^31-2]
 
-<sup>4</sup> Si, à la fin des rapports de travail, le solde horaire de l’employé est positif, le montant correspondant au nombre d’heures positives lui est versé conformément au salaire horaire selon l’art. 19, al. 1.[^31-3]
+<sup>3</sup> Si, à la fin des rapports de travail, le solde horaire de l’employé est négatif, le montant correspondant au nombre d’heures négatives est imputé sur le dernier salaire mensuel ou remboursé par l’employé conformément au salaire horaire selon l’art. 19, al. 1.[^31-3]
+
+<sup>4</sup> Si, à la fin des rapports de travail, le solde horaire de l’employé est positif, le montant correspondant au nombre d’heures positives lui est versé conformément au salaire horaire selon l’art. 19, al. 1.[^31-4]
 
 [^31-1]: Nouvelle teneur selon le ch. I de l’O du DFF du 31 mai 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
-[^31-2]: Introduit par le ch. I de l’O du DFF du 25 oct. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4013](https://fedlex.data.admin.ch/eli/oc/2018/648)).
+[^31-2]: Introduit par le ch. I de l’O du DFF du 30 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 755](https://fedlex.data.admin.ch/eli/oc/2023/755)).
 [^31-3]: Introduit par le ch. I de l’O du DFF du 25 oct. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4013](https://fedlex.data.admin.ch/eli/oc/2018/648)).
+[^31-4]: Introduit par le ch. I de l’O du DFF du 25 oct. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4013](https://fedlex.data.admin.ch/eli/oc/2018/648)).
 
 #### Art. 32
 
@@ -568,7 +579,7 @@ La Confédération peut réduire temporairement ou durablement ses prestations, 
 
 <sup>4</sup> Les soldes horaires positifs sont perdus cinq ans après leur mise en compte pour le congé sabbatique. Ce délai peut être prolongé pour des motifs importants.
 
-<sup>5</sup> ...[^34-5]
+<sup>5</sup> …[^34-5]
 
 [^34-1]: Nouvelle teneur selon le ch. I de l’O du DFF du 5 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4515](https://fedlex.data.admin.ch/eli/oc/2016/735)).
 [^34-2]: Nouvelle teneur selon le ch. I de l’O du DFF du 31 mai 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
@@ -690,15 +701,15 @@ Un congé payé peut être accordé en particulier pour les activités suivantes
 - d. perfectionnement, en particulier de nature syndicale: le temps nécessaire, mais 6 jours de travail en deux ans au maximum;
 - e. intervention à l’étranger dans le corps des volontaires en cas de catastrophe ou dans le cadre d’actions de maintien de la paix et de bons offices: le temps nécessaire, mais 6 mois en deux ans au maximum;
 - f. participation à des compétitions sportives internationales: le temps nécessaire, 30 jours de travail par an au maximum;
-- g.[^40-1] participation à des manifestations «Jeunesse et sport» dans une fonction dirigeante: le temps nécessaire, mais 6 jours de travail par an au maximum.
+- g.[^40-1] participation à des offres «Jeunesse et sport» (J+S) dans une fonction dirigeante et participation aux cours pour moniteurs J+S et aux cours pour moniteurs des partenaires J+S: le temps nécessaire, mais 6 jours de travail par an au maximum.
 
 <sup>3</sup>
 
 Un congé payé est accordé à l’employé lors des événements suivants:
 
 - a.[^40-2] son mariage, y compris le mariage civil: 1 jour de travail;
-- b.[^40-3] ...
-- c.[^40-4] prise en charge d’un membre de la famille ou du partenaire tombé malade ou victime d’un accident: le temps nécessaire, jusqu’à 3 jours de travail par événement;
+- b.[^40-3] …
+- c.[^40-4] prise en charge d’un membre de la famille ou du partenaire tombé malade ou victime d’un accident si la prise en charge par l’employé est nécessaire: le temps nécessaire, jusqu’à 3 jours de travail par événement;
 - d. décès de son conjoint, de son partenaire, de l’un de ses parents ou d’un de ses enfants: 3 jours de travail;
 - e. décès d’un autre parent ou d’un tiers et participation aux obsèques: le temps nécessaire, mais 1 jour de travail au maximum;
 - f. son déménagement: le temps nécessaire, mais 1 jour de travail au maximum;
@@ -706,7 +717,9 @@ Un congé payé est accordé à l’employé lors des événements suivants:
 - h.[^40-5] courte absence en cas de rendez-vous chez le médecin ou le dentiste: le temps nécessaire à la visite plus une heure de trajet aller et retour au maximum; le temps de travail effectué et la courte absence ne doivent pas dépasser ensemble le temps de travail quotidien réglementaire. Si des rendez-vous prévisibles chez le médecin ou le dentiste ne sont pas pris en début ou en fin de matinée ou d’après-midi ou pendant les jours de congé, et cela sans raison plausible, le congé peut être refusé;
 - i.[^40-6] participation à l’assemblée des délégués de PUBLICA.
 
-<sup>4</sup> Les congés prévus par les al. 2 et 3 sont pris en compte dans la durée de l’engagement.
+<sup>4</sup> Les jours de congé prévus par les al. 2 et 3 accordés à l’employé sont pris en compte dans la durée de l’engagement.[^40-7]
+
+<sup>4bis</sup> Les jours de congé prévus par les al. 2 et 3 non pris par l’employé à la fin des rapports de travail sont perdus sans donner droit à un dédommagement.[^40-8]
 
 <sup>5</sup>
 
@@ -716,15 +729,17 @@ Lorsqu’un congé est accordé, et notamment un congé non payé de longue dur�
 - b. de la prise en compte ou non du congé dans la durée de l’engagement;
 - c. de la poursuite ou non de la prévoyance professionnelle et si oui à quelles conditions, notamment en ce qui concerne l’obligation de cotiser.
 
-<sup>6</sup> En cas de modification du taux d’occupation, les jours de congé non pris sont transférés dans les nouveaux rapports de travail.[^40-7]
+<sup>6</sup> En cas de modification du taux d’occupation, les jours de congé non pris sont transférés dans les nouveaux rapports de travail.[^40-9]
 
-[^40-1]: Introduite par le ch. I de l’O du DFF du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5399](https://fedlex.data.admin.ch/eli/oc/2020/937)).
+[^40-1]: Introduite par le ch. I de l’O du DFF du 18 nov. 2020 ([RO 2020 5399](https://fedlex.data.admin.ch/eli/oc/2020/937)). Nouvelle teneur selon le ch. I de l’O du DFF du 30 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 755](https://fedlex.data.admin.ch/eli/oc/2023/755)).
 [^40-2]: Nouvelle teneur selon le ch. I de l’O du DFF du 20 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 618](https://fedlex.data.admin.ch/eli/oc/2022/618)).
 [^40-3]: Abrogée par le ch. I de l’O du DFF du 14 mai 2021, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 301](https://fedlex.data.admin.ch/eli/oc/2021/301)).
-[^40-4]: Nouvelle teneur selon le ch. I de l’O du DFF du 14 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 301](https://fedlex.data.admin.ch/eli/oc/2021/301)).
+[^40-4]: Nouvelle teneur selon le ch. I de l’O du DFF du 30 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 755](https://fedlex.data.admin.ch/eli/oc/2023/755)).
 [^40-5]: Nouvelle teneur selon le ch. I de l’O du DFF du 5 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4515](https://fedlex.data.admin.ch/eli/oc/2016/735)).
 [^40-6]: Introduite par le ch. I de l’O du DFF du 13 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3811](https://fedlex.data.admin.ch/eli/oc/2019/694)).
-[^40-7]: Introduit par le ch. I de l’O du DFF du 25 oct. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4013](https://fedlex.data.admin.ch/eli/oc/2018/648)).
+[^40-7]: Nouvelle teneur selon le ch. I de l’O du DFF du 30 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 755](https://fedlex.data.admin.ch/eli/oc/2023/755)).
+[^40-8]: Introduit par le ch. I de l’O du DFF du 30 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 755](https://fedlex.data.admin.ch/eli/oc/2023/755)).
+[^40-9]: Introduit par le ch. I de l’O du DFF du 25 oct. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4013](https://fedlex.data.admin.ch/eli/oc/2018/648)).
 
 #### Art. 40a
 
@@ -800,30 +815,27 @@ Des voyages en avion peuvent être autorisés si la durée du voyage en avion es
 
 <sup>1</sup>
 
-Les frais déboursés pour les repas pris en dehors du lieu de domicile ou du lieu de travail donnent lieu au versement des forfaits suivants:[^43-1]
+Les frais déboursés pour les repas pris en dehors du lieu de domicile ou du lieu de travail donnent lieu au versement des forfaits suivants:
 
-- a. 14 francs pour le petit-déjeuner;
-- b. 27 fr. 50 pour le repas de midi ou celui du soir.[^43-2]
+- a. 15 francs pour le petit-déjeuner;
+- b. 30 francs pour le repas de midi ou celui du soir.[^43-1]
 
 <sup>2</sup> L’instance compétente peut rembourser les frais déboursés pour des repas pris au lieu de travail pour des raisons de service sur la base de ces forfaits
 
-<sup>3</sup> Dans certains cas justifiés, le forfait peut être remplacé par le montant effectif des frais déboursés.[^43-3]
+<sup>3</sup> Dans certains cas justifiés, le forfait peut être remplacé par le montant effectif des frais déboursés.[^43-2]
 
-[^43-1]: Nouvelle teneur selon le ch. I de l’O du DFF du 12 juin 2015, en vigueur depuis le 1<sup>er</sup> août 2015 ([RO 2015 2249](https://fedlex.data.admin.ch/eli/oc/2015/418)).
-[^43-2]: Nouvelle teneur selon le ch. I de l’O du DFF du 16 déc. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 6413](https://fedlex.data.admin.ch/eli/oc/2008/862)).
-[^43-3]: Nouvelle teneur selon le ch. I de l’O du DFF du 12 juin 2015, en vigueur depuis le 1<sup>er</sup> août 2015 ([RO 2015 2249](https://fedlex.data.admin.ch/eli/oc/2015/418)).
+[^43-1]: Nouvelle teneur selon le ch. I de l’O du DFF du 30 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 755](https://fedlex.data.admin.ch/eli/oc/2023/755)).
+[^43-2]: Nouvelle teneur selon le ch. I de l’O du DFF du 12 juin 2015, en vigueur depuis le 1<sup>er</sup> août 2015 ([RO 2015 2249](https://fedlex.data.admin.ch/eli/oc/2015/418)).
 
 #### Art. 44
 
 **Remboursement des nuitées**[^44-1]
 
-### (art. 72, al. 2, let. a, OPers)
+<sup>1</sup> Pour les nuits passées à l’hôtel et comprenant le petit-déjeuner, les employés se font rembourser leurs dépenses effectives jusqu’à un maximum de 200 francs par nuit, ou de 275 francs par nuit dans des cas exceptionnels justifiés.
 
-<sup>1</sup> Pour les nuits passées à l’hôtel et comprenant le petit-déjeuner, les employés se font rembourser leurs dépenses effectives jusqu’à un maximum de 180 francs, ou de 250 francs dans des cas exceptionnels justifiés.
+<sup>2</sup> Pour les nuits passées dans un hébergement mis à disposition par un bailleur privé ou professionnel, les employés se font rembourser leurs dépenses effectives jusqu’à un maximum de 150 francs par nuit.
 
-<sup>2</sup> Pour les nuits passées dans un hébergement mis à disposition par un bailleur privé ou professionnel, les employés se font rembourser leurs dépenses effectives jusqu’à un maximum de 150 francs.
-
-[^44-1]: Nouvelle teneur selon le ch. I de l’O du DFF du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5399](https://fedlex.data.admin.ch/eli/oc/2020/937)).
+[^44-1]: Nouvelle teneur selon le ch. I de l’O du DFF du 30 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 755](https://fedlex.data.admin.ch/eli/oc/2023/755)).
 
 #### Art. 45
 
@@ -950,7 +962,7 @@ Les départements règlent dans leur domaine le remboursement:
 
 Les départements peuvent:
 
-- a.[^51a-4] ...
+- a.[^51a-4] …
 - b. financer des places de crèche dans des structures externes et les réserver aux enfants de leurs employés.
 
 [^51a-1]: Introduit par le ch. I de l’O du DFF du 8 déc. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5967](https://fedlex.data.admin.ch/eli/oc/2010/857)).
@@ -1005,7 +1017,7 @@ Les départements peuvent:
 
 Si, au moment du versement de la prime de fidélité, l’employé a un taux d’occupation inférieur à la moyenne des taux d’occupation des cinq dernières années, au maximum les jours de congé payé suivants lui sont accordés:
 
-- a.[^52-3] ...
+- a.[^52-3] …
 - b. 11 jours après dix ou quinze années de travail;
 - c. 22 jours après chaque nouvelle tranche de cinq années de travail;[^52-4]
 
@@ -1028,32 +1040,38 @@ Si, au moment du versement de la prime de fidélité, l’employé a un taux d�
 
 <sup>1</sup>
 
-À partir d’une durée d’engagement contractuelle d’au moins trois mois, les employés ont droit à:[^53-2]
+Les employés ont droit à:[^53-2]
 
 - a. un abonnement demi-tarif des CFF remis gratuitement, ou
 - b. un abonnement général «Adulte» des CFF à un prix réduit.
 
 <sup>2</sup>
 
-Les réductions pour l’abonnement général «Adulte» suivantes sont accordées aux employés qui, avec cet abonnement, effectuent:
+L’employeur détermine les réductions sur l’abonnement général. Pour l’abonnement général «Adulte», les réductions suivantes sont accordées aux employés qui, avec cet abonnement, effectueront:
 
 - a. jusqu’à 59 voyages de service par an: 25 %;
 - b. 60 voyages de service ou plus par an: 100 %.[^53-3]
 
-<sup>2bis</sup> Est considéré comme voyage de service selon l’al. 2 l’exercice de l’activité professionnelle hors d’un rayon de 10 kilomètres à vol d’oiseau du lieu de travail et du lieu de domicile de l’employé.[^53-4]
+<sup>2bis</sup> L’abonnement doit être utilisé pour les voyages de service. Est considéré comme voyage de service selon l’al. 2 l’exercice de l’activité professionnelle hors d’un rayon de 10 kilomètres à vol d’oiseau du lieu de travail et du lieu de domicile de l’employé.[^53-4]
 
 <sup>3</sup> Exceptionnellement, un abonnement de parcours ou un autre titre de transport peut être délivré en lieu et place de l’abonnement général selon l’al. 2, let. b, si cette solution est meilleur marché pour la Confédération.[^53-5]
 
-<sup>4</sup> L’abonnement doit être utilisé pour les voyages de service.
+<sup>4</sup>
 
-<sup>5</sup> Les employés qui acquièrent un abonnement général à titre privé se voient rembourser 15 % du prix de l’abonnement général «Adulte».[^53-6]
+L’abonnement général obtenu à prix réduit en vertu de l’al. 2, let. b, doit être retourné à l’employeur:
+
+- a. à la fin des rapports de travail;
+- b. lorsque les conditions visées à l’al. 2 ne sont plus remplies.[^53-6]
+
+<sup>5</sup> Les employés qui acquièrent un abonnement général à titre privé se voient rembourser 15 % du prix de l’abonnement général «Adulte».[^53-7]
 
 [^53-1]: Nouvelle teneur selon le ch. I de l’O du DFF du 11 déc. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 6575](https://fedlex.data.admin.ch/eli/oc/2009/812)).
-[^53-2]: Nouvelle teneur selon le ch. I de l’O du DFF du 5 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4515](https://fedlex.data.admin.ch/eli/oc/2016/735)).
-[^53-3]: Nouvelle teneur selon le ch. I de l’O du DFF du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5399](https://fedlex.data.admin.ch/eli/oc/2020/937)).
-[^53-4]: Introduit par le ch. I de l’O du DFF du 31 mai 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
+[^53-2]: Nouvelle teneur selon le ch. I de l’O du DFF du 30 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 755](https://fedlex.data.admin.ch/eli/oc/2023/755)).
+[^53-3]: Nouvelle teneur selon le ch. I de l’O du DFF du 30 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 755](https://fedlex.data.admin.ch/eli/oc/2023/755)).
+[^53-4]: Introduit par le ch. I de l’O du DFF du 31 mai 2013 ([RO 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)). Nouvelle teneur selon le ch. I de l’O du DFF du 30 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 755](https://fedlex.data.admin.ch/eli/oc/2023/755)).
 [^53-5]: Nouvelle teneur selon le ch. I de l’O du DFF du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5399](https://fedlex.data.admin.ch/eli/oc/2020/937)). Erratum du 8 juin 2021 ([RO 2021 326](https://fedlex.data.admin.ch/eli/oc/2021/326)).
-[^53-6]: Introduit par le ch. I de l’O du DFF du 31 mai 2013 ([RO 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)). Nouvelle teneur selon le ch. I de l’O du DFF du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5399](https://fedlex.data.admin.ch/eli/oc/2020/937)).
+[^53-6]: Nouvelle teneur selon le ch. I de l’O du DFF du 30 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 755](https://fedlex.data.admin.ch/eli/oc/2023/755)).
+[^53-7]: Introduit par le ch. I de l’O du DFF du 31 mai 2013 ([RO 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)). Nouvelle teneur selon le ch. I de l’O du DFF du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5399](https://fedlex.data.admin.ch/eli/oc/2020/937)).
 
 #### Art. 54
 

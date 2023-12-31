@@ -4,11 +4,11 @@ title: Verordnung des EFD vom 6. Dezember 2001 zur Bundespersonalverordnung (VBP
 short: VBPV
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/485"
 language: de
-version: 2023-01-01
+version: 2024-01-01
 adopted: 2001-12-06
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/485/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2001-485-20230101-de-xml-11.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/485/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/485/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2001-485-20240101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/485/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/485/20230101/de"
 
 (VBPV)
 
-vom 6. Dezember 2001 (Stand am 1. Januar 2023)
+vom 6. Dezember 2001 (Stand am 1. Januar 2024)
 
 Das Eidgenössische Finanzdepartement (EFD),[^ingress-1]
 
@@ -125,15 +125,20 @@ Die Mitarbeiterinnen und Mitarbeiter und die direkten Vorgesetzten bestätigen m
 
 #### Art. 6
 
-**Differenzbereinigung**
+**Überprüfung[^6-1]**
 
 ### (Art. 15 und 16 BPV)
 
-<sup>1</sup> Angestellte, die mit der Personalbeurteilung nicht einverstanden sind, können innerhalb von vierzehn Tagen seit der Unterzeichnung des Beurteilungsformulars bei der Person, denen ihre Vorgesetzte oder ihr Vorgesetzter direkt unterstellt ist, schriftlich eine Überprüfung verlangen. Diese führt mit beiden am strittigen Mitarbeitergespräch Beteiligten ein Gespräch und entscheidet innerhalb von vierzehn Tagen.
+<sup>1</sup> Angestellte, die mit der Personalbeurteilung nicht einverstanden sind, können innerhalb von vierzehn Tagen seit der Unterzeichnung des Beurteilungsformulars bei der Person, denen ihre Vorgesetzte oder ihr Vorgesetzter direkt unterstellt ist, schriftlich eine Überprüfung verlangen. Diese führt mit beiden am strittigen Mitarbeitergespräch Beteiligten ein Gespräch und entscheidet innerhalb von vierzehn Tagen schriftlich über die Personalbeurteilung.[^6-2]
 
-<sup>2</sup> Für den Fall, dass keine Einigung erzielt wird, sehen die Bundesämter eine weitere Stelle innerhalb des Amtes vor, bei der schriftlich eine weitere gesprächsweise Überprüfung verlangt werden kann. Es gelten die gleichen Fristen.
+<sup>2</sup> Für den Fall, dass die Angestellten mit dem Entscheid nicht einverstanden sind, sehen die Bundesämter eine Stelle innerhalb des Amtes vor, bei der schriftlich eine weitere gesprächsweise Überprüfung verlangt werden kann. Angestellte können innerhalb von vierzehn Tagen bei dieser Stelle schriftlich eine Überprüfung verlangen. Die Stelle entscheidet innerhalb von zwanzig Tagen nach dem Gespräch schriftlich endgültig über die Personalbeurteilung.[^6-3]
 
-<sup>3</sup> Im Differenzbereinigungsverfahren kann die Mitarbeiterin oder der Mitarbeiter eine Person ihres Vertrauens beiziehen und dieser Einsicht in die Unterlagen gewähren.
+<sup>3</sup> Die Angestellten können eine Person ihres Vertrauens beiziehen und dieser Einsicht in die Unterlagen gewähren.[^6-4]
+
+[^6-1]: Fassung gemäss Ziff. I der V des EFD vom 30. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 755](https://fedlex.data.admin.ch/eli/oc/2023/755)).
+[^6-2]: Fassung des zweiten Satzes gemäss Ziff. I der V des EFD vom 30. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 755](https://fedlex.data.admin.ch/eli/oc/2023/755)).
+[^6-3]: Fassung gemäss Ziff. I der V des EFD vom 30. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 755](https://fedlex.data.admin.ch/eli/oc/2023/755)).
+[^6-4]: Fassung gemäss Ziff. I der V des EFD vom 30. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 755](https://fedlex.data.admin.ch/eli/oc/2023/755)).
 
 #### Art. 7
 
@@ -499,15 +504,18 @@ Die Leistungen des Bundes können vorübergehend oder dauernd gekürzt oder in s
 
 <sup>2</sup> Guthaben, die am Ende des Kalenderjahres die obere Begrenzung der Bandbreite übersteigen, verfallen ohne Entschädigung.
 
+<sup>2bis</sup> Ist die untere Begrenzung der Bandbreite Ende des Kalenderjahrs unterschritten, so ist mit der angestellten Person zu vereinbaren, ob und bis wann die Minusstunden ausserhalb der unteren Begrenzung der Bandbreite nachzuleisten sind oder ob diese mit anderen Guthaben verrechnet werden. Kann keine Vereinbarung abgeschlossen werden oder werden die Minusstunden nicht nachgeleistet, so werden diese entsprechend dem Stundenlohn gemäss Artikel 19 Absatz 1 mit dem nächsten Monatslohn verrechnet.[^30-2]
+
 <sup>3</sup> Die jährliche Sollarbeitszeit kann im Einvernehmen mit den Vorgesetzten in weniger als zwölf Monaten erbracht werden. Der Monatslohn bleibt dabei unverändert.
 
-<sup>4</sup> Ist der Zeitsaldo der angestellten Person am Ende des Arbeitsverhältnisses negativ, so wird die Anzahl der Minusstunden entsprechend dem Stundenlohn gemäss Artikel 19 Absatz 1 mit dem letzten Monatslohn verrechnet oder zurückgefordert.[^30-2]
+<sup>4</sup> Ist der Zeitsaldo der angestellten Person am Ende des Arbeitsverhältnisses negativ, so wird die Anzahl der Minusstunden entsprechend dem Stundenlohn gemäss Artikel 19 Absatz 1 mit dem letzten Monatslohn verrechnet oder zurückgefordert.[^30-3]
 
-<sup>5</sup> Ist der Zeitsaldo der angestellten Person am Ende des Arbeitsverhältnisses positiv, so wird ihr die Anzahl der Plusstunden entsprechend dem Stundenlohn gemäss Artikel 19 Absatz 1 ausbezahlt.[^30-3]
+<sup>5</sup> Ist der Zeitsaldo der angestellten Person am Ende des Arbeitsverhältnisses positiv, so wird ihr die Anzahl der Plusstunden entsprechend dem Stundenlohn gemäss Artikel 19 Absatz 1 ausbezahlt.[^30-4]
 
 [^30-1]: Fassung gemäss Ziff. I der V des EFD vom 31. Mai 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
-[^30-2]: Eingefügt durch Ziff. I der V des EFD vom 25. Okt. 2018, in Kraft seit 1. Jan 2019 ([AS 2018 4013](https://fedlex.data.admin.ch/eli/oc/2018/648)).
+[^30-2]: Eingefügt durch Ziff. I der V des EFD vom 30. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 755](https://fedlex.data.admin.ch/eli/oc/2023/755)).
 [^30-3]: Eingefügt durch Ziff. I der V des EFD vom 25. Okt. 2018, in Kraft seit 1. Jan 2019 ([AS 2018 4013](https://fedlex.data.admin.ch/eli/oc/2018/648)).
+[^30-4]: Eingefügt durch Ziff. I der V des EFD vom 25. Okt. 2018, in Kraft seit 1. Jan 2019 ([AS 2018 4013](https://fedlex.data.admin.ch/eli/oc/2018/648)).
 
 #### Art. 31
 
@@ -519,13 +527,16 @@ Die Leistungen des Bundes können vorübergehend oder dauernd gekürzt oder in s
 
 <sup>2</sup> Guthaben, die am Ende des Monats die obere Begrenzung der Bandbreite übersteigen, verfallen ohne Entschädigung.
 
-<sup>3</sup> Ist der Zeitsaldo der angestellten Person am Ende des Arbeitsverhältnisses negativ, so wird die Anzahl der Minusstunden entsprechend dem Stundenlohn gemäss Artikel 19 Absatz 1 mit dem letzten Monatslohn verrechnet oder zurückgefordert.[^31-2]
+<sup>2bis</sup> Ist die untere Begrenzung der Bandbreite Ende des Monats unterschritten, so ist mit der angestellten Person zu vereinbaren, ob und bis wann die Minusstunden ausserhalb der unteren Begrenzung der Bandbreite nachzuleisten sind oder ob diese mit anderen Guthaben verrechnet werden. Kann keine Vereinbarung abgeschlossen werden oder werden die Minusstunden nicht nachgeleistet, so werden diese entsprechend dem Stundenlohn gemäss Artikel 19 Absatz 1 mit dem nächsten Monatslohn verrechnet.[^31-2]
 
-<sup>4</sup> Ist der Zeitsaldo der angestellten Person am Ende des Arbeitsverhältnisses positiv, so wird ihr die Anzahl der Plusstunden entsprechend dem Stundenlohn gemäss Artikel 19 Absatz 1 ausbezahlt.[^31-3]
+<sup>3</sup> Ist der Zeitsaldo der angestellten Person am Ende des Arbeitsverhältnisses negativ, so wird die Anzahl der Minusstunden entsprechend dem Stundenlohn gemäss Artikel 19 Absatz 1 mit dem letzten Monatslohn verrechnet oder zurückgefordert.[^31-3]
+
+<sup>4</sup> Ist der Zeitsaldo der angestellten Person am Ende des Arbeitsverhältnisses positiv, so wird ihr die Anzahl der Plusstunden entsprechend dem Stundenlohn gemäss Artikel 19 Absatz 1 ausbezahlt.[^31-4]
 
 [^31-1]: Fassung gemäss Ziff. I der V des EFD vom 31. Mai 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
-[^31-2]: Eingefügt durch Ziff. I der V des EFD vom 25. Okt. 2018, in Kraft seit 1. Jan 2019 ([AS 2018 4013](https://fedlex.data.admin.ch/eli/oc/2018/648)).
+[^31-2]: Eingefügt durch Ziff. I der V des EFD vom 30. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 755](https://fedlex.data.admin.ch/eli/oc/2023/755)).
 [^31-3]: Eingefügt durch Ziff. I der V des EFD vom 25. Okt. 2018, in Kraft seit 1. Jan 2019 ([AS 2018 4013](https://fedlex.data.admin.ch/eli/oc/2018/648)).
+[^31-4]: Eingefügt durch Ziff. I der V des EFD vom 25. Okt. 2018, in Kraft seit 1. Jan 2019 ([AS 2018 4013](https://fedlex.data.admin.ch/eli/oc/2018/648)).
 
 #### Art. 32
 
@@ -689,7 +700,7 @@ Bezahlter Urlaub kann insbesondere für die folgenden Aktivitäten gewährt werd
 - d. Weiterbildung, insbesondere gewerkschaftlicher Natur: die erforderliche Zeit, bis 6 Arbeitstage innerhalb von 2 Jahren;
 - e. Auslandeinsätze im Freiwilligenkorps für Katastrophenhilfe sowie im Rahmen friedenserhaltender Aktionen und Guter Dienste: die erforderliche Zeit, bis 6 Monate innerhalb von 2 Jahren;
 - f. Teilnahme an internationalen Sportwettkämpfen: die erforderliche Zeit, bis 30 Arbeitstage pro Jahr;
-- g.[^40-1] Teilnahme an Jugend-und-Sport-Anlässen in einer Leitungsfunktion: die erforderliche Zeit, bis 6 Arbeitstage pro Jahr.
+- g.[^40-1] Teilnahme an Angeboten von «Jugend-und-Sport» (J+S) in einer Leitungsfunktion und Teilnahme an J+S-Kaderkursen sowie an Kaderkursen von Partnerverbänden von J+S: die erforderliche Zeit, bis 6 Arbeitstage pro Jahr.
 
 <sup>3</sup>
 
@@ -697,7 +708,7 @@ Für die folgenden Ereignisse wird bezahlter Urlaub gewährt:
 
 - a.[^40-2] bei der eigenen Heirat, einschliesslich ziviler Trauung: 1 Arbeitstag;
 - b.[^40-3] …
-- c.[^40-4] für die Betreuung eines Familienmitglieds, des Lebenspartners oder der Lebenspartnerin im Fall einer Erkrankung oder eines Unfalls: die erforderliche Zeit, bis 3 Arbeitstage pro Ereignis;
+- c.[^40-4] für die Betreuung eines Familienmitglieds, des Lebenspartners oder der Lebenspartnerin im Fall einer Erkrankung oder eines Unfalls, wenn die Betreuung durch die angestellte Person notwendig ist: die erforderliche Zeit, bis drei Arbeitstage pro Ereignis;
 - d. beim Tod des Ehegatten oder der Ehegattin, des Lebenspartners oder der Lebenspartnerin, eines Elternteils oder Kindes: 3 Arbeitstage;
 - e. beim Tod anderer Verwandter oder von Dritten zur Teilnahme an der Trauerfeier: die erforderliche Zeit, bis 1 Arbeitstag;
 - f. bei Wohnungswechsel: die erforderliche Zeit, bis 1 Arbeitstag;
@@ -705,7 +716,9 @@ Für die folgenden Ereignisse wird bezahlter Urlaub gewährt:
 - h.[^40-5] für Kurzabsenzen wegen Arzt- oder Zahnarztbesuchen: die erforderliche Zeit für den Besuch und höchstens eine Stunde Reisezeit für Hin- und Rückweg, wobei die geleistete Arbeitszeit zusammen mit der Kurzabsenz die tägliche Sollarbeitszeit nicht überschreiten darf; werden planbare Arzt- oder Zahnarztbesuche ohne plausiblen Grund nicht auf Randzeiten oder freie Arbeitstage gelegt, so kann der Urlaub verweigert werden;
 - i.[^40-6] Teilnahme an der Delegiertenversammlung von PUBLICA.
 
-<sup>4</sup> Die Urlaube nach den Absätzen 2 und 3 werden an die Anstellungsdauer angerechnet.
+<sup>4</sup> Die bezogenen Urlaubstage nach den Absätzen 2 und 3 werden an die Anstellungsdauer angerechnet.[^40-7]
+
+<sup>4bis</sup> Nicht bezogene Urlaubstage nach den Absätzen 2 und 3 verfallen bei Beendigung des Arbeitsverhältnisses entschädigungslos.[^40-8]
 
 <sup>5</sup>
 
@@ -715,15 +728,17 @@ Bei der Gewährung von Urlauben, insbesondere bei längeren unbezahlten Urlauben
 - b. ob der Urlaub an die Anstellungsdauer angerechnet wird;
 - c. ob und wie die berufliche Vorsorge sowie insbesondere die Beitragspflicht weitergeführt wird.
 
-<sup>6</sup> Bei einer Änderung des Beschäftigungsgrads wird die Zahl der nicht bezogenen Urlaubstage auf das neue Arbeitsverhältnis übertragen.[^40-7]
+<sup>6</sup> Bei einer Änderung des Beschäftigungsgrads wird die Zahl der nicht bezogenen Urlaubstage auf das neue Arbeitsverhältnis übertragen.[^40-9]
 
-[^40-1]: Eingefügt durch Ziff. I der V des EFD vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5399](https://fedlex.data.admin.ch/eli/oc/2020/937)).
+[^40-1]: Eingefügt durch Ziff. I der V des EFD vom 18. Nov. 2020 ([AS 2020 5399](https://fedlex.data.admin.ch/eli/oc/2020/937)). Fassung gemäss Ziff. I der V des EFD vom 30. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 755](https://fedlex.data.admin.ch/eli/oc/2023/755)).
 [^40-2]: Fassung gemäss Ziff. I der V des EFD vom 20. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 618](https://fedlex.data.admin.ch/eli/oc/2022/618)).
 [^40-3]: Aufgehoben durch Ziff. I der V des EFD vom 14. Mai 2021, mit Wirkung seit 1. Jan. 2022 ([AS 2021 301](https://fedlex.data.admin.ch/eli/oc/2021/301)).
-[^40-4]: Fassung gemäss Ziff. I der V des EFD vom 14. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 301](https://fedlex.data.admin.ch/eli/oc/2021/301)).
+[^40-4]: Fassung gemäss Ziff. I der V des EFD vom 30. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 755](https://fedlex.data.admin.ch/eli/oc/2023/755)).
 [^40-5]: Fassung gemäss Ziff. I der V des EFD vom 5. Dez. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4515](https://fedlex.data.admin.ch/eli/oc/2016/735)).
 [^40-6]: Eingefügt durch Ziff. I der V des EFD vom 13. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 3811](https://fedlex.data.admin.ch/eli/oc/2019/694)).
-[^40-7]: Eingefügt durch Ziff. I der V des EFD vom 25. Okt. 2018, in Kraft seit 1. Jan 2019 ([AS 2018 4013](https://fedlex.data.admin.ch/eli/oc/2018/648)).
+[^40-7]: Fassung gemäss Ziff. I der V des EFD vom 30. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 755](https://fedlex.data.admin.ch/eli/oc/2023/755)).
+[^40-8]: Eingefügt durch Ziff. I der V des EFD vom 30. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 755](https://fedlex.data.admin.ch/eli/oc/2023/755)).
+[^40-9]: Eingefügt durch Ziff. I der V des EFD vom 25. Okt. 2018, in Kraft seit 1. Jan 2019 ([AS 2018 4013](https://fedlex.data.admin.ch/eli/oc/2018/648)).
 
 #### Art. 40a
 
@@ -799,18 +814,17 @@ Flugreisen können bewilligt werden, wenn die Reisezeit mit dem Flugzeug kürzer
 
 <sup>1</sup>
 
-Auslagen für Mahlzeiten ausserhalb des Arbeits- oder Wohnortes werden mit folgenden Pauschalbeträgen vergütet:[^43-1]
+Auslagen für Mahlzeiten ausserhalb des Arbeits- oder Wohnortes werden mit folgenden Pauschalbeträgen vergütet:
 
-- a. 14.00 Franken für das Frühstück;
-- b. 27.50 Franken für das Mittag- oder das Nachtessen.[^43-2]
+- a. 15 Franken für das Frühstück;
+- b. 30 Franken für das Mittag- oder das Nachtessen.[^43-1]
 
 <sup>2</sup> Die zuständige Stelle kann mit diesen Pauschalbeträgen ebenfalls Auslagen für betrieblich notwendige Mahlzeiten am Arbeitsort vergüten.
 
-<sup>3</sup> In begründeten Fällen können anstelle eines Pauschalbetrages die effektiven Auslagen vergütet werden.[^43-3]
+<sup>3</sup> In begründeten Fällen können anstelle eines Pauschalbetrages die effektiven Auslagen vergütet werden.[^43-2]
 
-[^43-1]: Fassung gemäss Ziff. I der V des EFD vom 12. Juni 2015, in Kraft seit 1. Aug. 2015 ([AS 2015 2249](https://fedlex.data.admin.ch/eli/oc/2015/418)).
-[^43-2]: Fassung gemäss Ziff. I der V des EFD vom 16. Dez. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 6413](https://fedlex.data.admin.ch/eli/oc/2008/862)).
-[^43-3]: Fassung gemäss Ziff. I der V des EFD vom 12. Juni 2015, in Kraft seit 1. Aug. 2015 ([AS 2015 2249](https://fedlex.data.admin.ch/eli/oc/2015/418)).
+[^43-1]: Fassung gemäss Ziff. I der V des EFD vom 30. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 755](https://fedlex.data.admin.ch/eli/oc/2023/755)).
+[^43-2]: Fassung gemäss Ziff. I der V des EFD vom 12. Juni 2015, in Kraft seit 1. Aug. 2015 ([AS 2015 2249](https://fedlex.data.admin.ch/eli/oc/2015/418)).
 
 #### Art. 44
 
@@ -818,11 +832,11 @@ Auslagen für Mahlzeiten ausserhalb des Arbeits- oder Wohnortes werden mit folge
 
 ### (Art. 72 Abs. 2 Bst. a BPV)
 
-<sup>1</sup> Für auswärtiges Übernachten mit Frühstück in Hotels werden die tatsächlichen Auslagen bis maximal 180 Franken vergütet; in begründeten Ausnahmefällen können bis maximal 250 Franken vergütet werden.
+<sup>1</sup> Für auswärtiges Übernachten mit Frühstück in Hotels werden die tatsächlichen Auslagen bis maximal 200 Franken pro Nacht vergütet; in begründeten Ausnahmefällen können bis maximal 275 Franken pro Nacht vergütet werden.
 
-<sup>2</sup> Für auswärtiges Übernachten in Unterkünften privater oder gewerblicher Vermieterinnen oder Vermieter werden die tatsächlichen Auslagen bis maximal 150 Franken vergütet.
+<sup>2</sup> Für auswärtiges Übernachten in Unterkünften privater oder gewerblicher Vermieterinnen oder Vermieter werden die tatsächlichen Auslagen bis maximal 150 Franken pro Nacht vergütet.
 
-[^44-1]: Fassung gemäss Ziff. I der V des EFD vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5399](https://fedlex.data.admin.ch/eli/oc/2020/937)).
+[^44-1]: Fassung gemäss Ziff. I der V des EFD vom 30. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 755](https://fedlex.data.admin.ch/eli/oc/2023/755)).
 
 #### Art. 45
 
@@ -1030,32 +1044,38 @@ Liegt der Beschäftigungsgrad der angestellten Personen zum Zeitpunkt der Ausric
 
 <sup>1</sup>
 
-Ab einer vertraglichen Anstellungsdauer von mindestens drei Monaten haben die Angestellten Anspruch auf:[^53-2]
+Angestellte haben Anspruch auf:[^53-2]
 
 - a. ein kostenloses Halbtaxabonnement der SBB; oder
 - b. ein vergünstigtes Generalabonnement «Erwachsene» der SBB.
 
 <sup>2</sup>
 
-Die Vergünstigungen für das Generalabonnement «Erwachsene» betragen für Angestellte, die damit:
+Der Arbeitgeber bestimmt die Vergünstigungen für das Generalabonnement. Sie betragen für das Generalabonnement «Erwachsene» für Angestellte, die damit:
 
 - a. bis zu 59 Dienstreisen pro Jahr absolvieren: 25 Prozent;
 - b. 60 oder mehr Dienstreisen pro Jahr absolvieren: 100 Prozent.[^53-3]
 
-<sup>2bis</sup> Als Dienstreisen gemäss Absatz 2 gelten berufliche Einsätze ausserhalb eines Umkreises von zehn Kilometer Luftdistanz vom Arbeits- und Wohnort der Angestellten.[^53-4]
+<sup>2bis</sup> Das Abonnement ist bei Dienstreisen zu benützen. Als Dienstreisen gemäss Absatz 2 gelten berufliche Einsätze ausserhalb eines Umkreises von zehn Kilometer Luftdistanz vom Arbeits- und Wohnort der Angestellten.[^53-4]
 
 <sup>3</sup> Ausnahmsweise können anstelle von Generalabonnementen nach Absatz 2 Buchstabe b Streckenabonnemente oder andere Fahrausweise abgegeben werden, wenn dies für den Bund günstiger ist.[^53-5]
 
-<sup>4</sup> Das Abonnement ist bei Dienstreisen zu benützen.
+<sup>4</sup>
 
-<sup>5</sup> Angestellte, die privat ein Generalabonnement erwerben, erhalten eine Gutschrift von 15 Prozent des Preises des Generalabonnements «Erwachsene».[^53-6]
+Das Generalabonnement mit einer Vergünstigung nach Absatz 2 Buchstabe b muss dem Arbeitgeber zurückgegeben werden:
+
+- a. bei der Beendigung des Arbeitsverhältnisses;
+- b. wenn die Voraussetzungen von Absatz 2 weggefallen sind.[^53-6]
+
+<sup>5</sup> Angestellte, die privat ein Generalabonnement erwerben, erhalten eine Gutschrift von 15 Prozent des Preises des Generalabonnements «Erwachsene».[^53-7]
 
 [^53-1]: Fassung gemäss Ziff. I der V des EFD vom 11. Dez. 2009, in Kraft seit 1. Jan. 2010 ([AS 2009 6575](https://fedlex.data.admin.ch/eli/oc/2009/812)).
-[^53-2]: Fassung gemäss Ziff. I der V des EFD vom 5. Dez. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4515](https://fedlex.data.admin.ch/eli/oc/2016/735)).
-[^53-3]: Fassung gemäss Ziff. I der V des EFD vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5399](https://fedlex.data.admin.ch/eli/oc/2020/937)).
-[^53-4]: Eingefügt durch Ziff. I der V des EFD vom 31. Mai 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
+[^53-2]: Fassung gemäss Ziff. I der V des EFD vom 30. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 755](https://fedlex.data.admin.ch/eli/oc/2023/755)).
+[^53-3]: Fassung gemäss Ziff. I der V des EFD vom 30. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 755](https://fedlex.data.admin.ch/eli/oc/2023/755)).
+[^53-4]: Eingefügt durch Ziff. I der V des EFD vom 31. Mai 2013 ([AS 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)). Fassung gemäss Ziff. I der V des EFD vom 30. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 755](https://fedlex.data.admin.ch/eli/oc/2023/755)).
 [^53-5]: Fassung gemäss Ziff. I der V des EFD vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5399](https://fedlex.data.admin.ch/eli/oc/2020/937)).
-[^53-6]: Eingefügt durch Ziff. I der V des EFD vom 31. Mai 2013 ([AS 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)). Fassung gemäss Ziff. I der V des EFD vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5399](https://fedlex.data.admin.ch/eli/oc/2020/937)).
+[^53-6]: Fassung gemäss Ziff. I der V des EFD vom 30. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 755](https://fedlex.data.admin.ch/eli/oc/2023/755)).
+[^53-7]: Eingefügt durch Ziff. I der V des EFD vom 31. Mai 2013 ([AS 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)). Fassung gemäss Ziff. I der V des EFD vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5399](https://fedlex.data.admin.ch/eli/oc/2020/937)).
 
 #### Art. 54
 
