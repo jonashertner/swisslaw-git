@@ -4,11 +4,11 @@ title: "Verordnung vom 14. November 2018 über den Notfallschutz in der Umgebung
 short: NFSV
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/780"
 language: de
-version: 2023-01-01
+version: 2024-01-01
 adopted: 2018-11-14
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/780/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2018-780-20230101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/780/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/780/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2018-780-20240101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/780/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/780/20230101/de"
 
 (Notfallschutzverordnung, NFSV)
 
-vom 14. November 2018 (Stand am 1. Januar 2023)
+vom 14. November 2018 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -355,7 +355,7 @@ Anhang 2
 
 Die Notfallschutzzone 2 ist in sechs sich überlappende Gefahrensektoren von je 120° eingeteilt. Sofern es die Windverhältnisse eindeutig zulassen, kann damit eine angepasste Alarmierung durchgeführt werden.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/780/20230101/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/780/20240101/de/xml/image/image1.png)
 
 Anhang 3[^t-1]
 
@@ -363,13 +363,13 @@ Anhang 3[^t-1]
 
 ## Den Notfallschutzzonen 1 und 2 zugeordnete Gemeinden und Gemeindeteile sowie spezielle Gefährdungszone PSI/ZWILAG (Zone 1)
 
-[^t-1]: Fassung gemäss Ziff. I der V des ENSI vom 21. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 730](https://fedlex.data.admin.ch/eli/oc/2022/730)).
+[^t-1]: Fassung gemäss Ziff. I der V des ENSI vom 17. Okt. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 597](https://fedlex.data.admin.ch/eli/oc/2023/597)).
 
 ### 1. Gemeinden der Notfallschutzzonen 1 und 2 inklusive der Gefahrensektoren
 
 [^annex3-lvlu1-lvl1-1]
 
-[^annex3-lvlu1-lvl1-1]: Die Zuordnung der Gemeinden zu den Zonen ist einsehbar unter www.ensi.ch/de &gt; Notfallschutz &gt; Notfallschutz und Zonenpläne.
+[^annex3-lvlu1-lvl1-1]: Die Zuordnung der Gemeinden zu den Zonen ist einsehbar unter [www.ensi.ch/de](https://www.ensi.ch/de/) &gt; Notfallschutz &gt; Notfallschutz und Zonenpläne.
 
 Bezeichnungen der Kernkraftwerke:
 
@@ -392,7 +392,7 @@ Bezeichnungen der Kernkraftwerke:
 <tr><td>Auenstein</td><td>Brugg</td><td>AG</td><td>G</td><td></td><td>X</td><td>X</td><td></td><td colspan="2"></td><td colspan="3"></td><td colspan="3"></td></tr>
 <tr><td>Avenches</td><td>La Broye-Vully</td><td>VD</td><td>M</td><td></td><td></td><td></td><td>X</td><td colspan="2">X</td><td colspan="3"></td><td colspan="3"></td></tr>
 <tr><td>Bachs</td><td>Dielsdorf</td><td>ZH</td><td>B/L</td><td></td><td>X</td><td>X</td><td></td><td colspan="2"></td><td colspan="3"></td><td colspan="3"></td></tr>
-<tr><td>Baden</td><td>Baden</td><td>AG</td><td>B/L</td><td></td><td></td><td>X</td><td>X</td><td colspan="2"></td><td colspan="3"></td><td colspan="3"></td></tr>
+<tr><td>Baden[^annex3-lvlu1-lvl1-lvlu1-1]</td><td>Baden</td><td>AG</td><td>B/L</td><td></td><td></td><td>X</td><td>X</td><td colspan="2"></td><td colspan="3"></td><td colspan="3"></td></tr>
 <tr><td>Bargen (BE)</td><td>Seeland</td><td>BE</td><td>M</td><td></td><td></td><td></td><td></td><td colspan="2">X</td><td colspan="3">X</td><td colspan="3">X</td></tr>
 <tr><td>Belfaux (nur Cutterwil)</td><td>La Sarine</td><td>FR</td><td>M</td><td></td><td></td><td></td><td>X</td><td colspan="2">X</td><td colspan="3"></td><td colspan="3"></td></tr>
 <tr><td>Bellmund</td><td>Biel/Bienne</td><td>BE</td><td>M</td><td></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="3">X</td><td colspan="3">X</td></tr>
@@ -421,7 +421,7 @@ Bezeichnungen der Kernkraftwerke:
 <tr><td>Böztal</td><td>Laufenburg</td><td>AG</td><td>G</td><td></td><td>X</td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td colspan="3">X</td></tr>
 <tr><td>Bremgarten bei Bern</td><td>Bern-Mittelland</td><td>BE</td><td>M</td><td></td><td>X</td><td>X</td><td></td><td colspan="2"></td><td colspan="3"></td><td colspan="3">X</td></tr>
 <tr><td>Brittnau</td><td>Zofingen</td><td>AG</td><td>G</td><td></td><td></td><td>X</td><td>X</td><td colspan="2">X</td><td colspan="3"></td><td colspan="3"></td></tr>
-<tr><td>Brugg[^annex3-lvlu1-lvl1-lvlu1-1]</td><td>Brugg</td><td>AG</td><td>B/L</td><td></td><td></td><td>X</td><td>X</td><td colspan="2">X</td><td colspan="3"></td><td colspan="3"></td></tr>
+<tr><td>Brugg[^annex3-lvlu1-lvl1-lvlu1-2]</td><td>Brugg</td><td>AG</td><td>B/L</td><td></td><td></td><td>X</td><td>X</td><td colspan="2">X</td><td colspan="3"></td><td colspan="3"></td></tr>
 <tr><td>Brugg (nur ehem. Gde. Schinznach-Bad)</td><td>Brugg</td><td>AG</td><td>G</td><td></td><td>X</td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td colspan="3">X</td></tr>
 <tr><td>Brügg</td><td>Biel/Bienne</td><td>BE</td><td>M</td><td></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="3">X</td><td colspan="3">X</td></tr>
 <tr><td>Brunegg</td><td>Lenzburg</td><td>AG</td><td>B/L</td><td></td><td></td><td>X</td><td>X</td><td colspan="2">X</td><td colspan="3"></td><td colspan="3"></td></tr>
@@ -514,8 +514,8 @@ Bezeichnungen der Kernkraftwerke:
 <tr><td>Hendschiken</td><td>Lenzburg</td><td>AG</td><td>G</td><td></td><td>X</td><td>X</td><td></td><td colspan="2"></td><td colspan="3"></td><td colspan="3"></td></tr>
 <tr><td>Hermrigen</td><td>Seeland</td><td>BE</td><td>M</td><td></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="3">X</td><td colspan="3">X</td></tr>
 <tr><td>Hersberg</td><td>Liestal</td><td>BL</td><td>G</td><td></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="3">X</td><td colspan="3">X</td></tr>
-<tr><td>Herznach-Ueken[^annex3-lvlu1-lvl1-lvlu1-2]</td><td>Laufenburg</td><td>AG</td><td>B/L</td><td></td><td></td><td></td><td>X</td><td colspan="2">X</td><td colspan="3"></td><td colspan="3"></td></tr>
-<tr><td>Herznach-Ueken[^annex3-lvlu1-lvl1-lvlu1-3]</td><td>Laufenburg</td><td>AG</td><td>G</td><td></td><td>X</td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td colspan="3">X</td></tr>
+<tr><td>Herznach-Ueken</td><td>Laufenburg</td><td>AG</td><td>B/L</td><td></td><td></td><td></td><td>X</td><td colspan="2">X</td><td colspan="3"></td><td colspan="3"></td></tr>
+<tr><td>Herznach-Ueken</td><td>Laufenburg</td><td>AG</td><td>G</td><td></td><td>X</td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td colspan="3">X</td></tr>
 <tr><td>Hirschthal</td><td>Aarau</td><td>AG</td><td>G</td><td></td><td>X</td><td>X</td><td>X</td><td colspan="2"></td><td colspan="3"></td><td colspan="3"></td></tr>
 <tr><td>Holderbank (AG)</td><td>Lenzburg</td><td>AG</td><td>B/L</td><td></td><td></td><td></td><td>X</td><td colspan="2">X</td><td colspan="3"></td><td colspan="3"></td></tr>
 <tr><td>Holderbank (AG)</td><td>Lenzburg</td><td>AG</td><td>G</td><td></td><td>X</td><td>X</td><td></td><td colspan="2"></td><td colspan="3"></td><td colspan="3"></td></tr>
@@ -602,7 +602,7 @@ Bezeichnungen der Kernkraftwerke:
 <tr><td>Mühleberg (nördlich der Bahnlinie)</td><td>Bern-Mittelland</td><td>BE</td><td>M</td><td>X</td><td></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td colspan="3"></td></tr>
 <tr><td>Mühleberg (südlich der Bahnlinie)</td><td>Bern-Mittelland</td><td>BE</td><td>M</td><td></td><td>X</td><td>X</td><td>X</td><td colspan="2">X</td><td colspan="3"></td><td colspan="3"></td></tr>
 <tr><td>Mülligen</td><td>Brugg</td><td>AG</td><td>B/L</td><td></td><td></td><td>X</td><td>X</td><td colspan="2"></td><td colspan="3"></td><td colspan="3"></td></tr>
-<tr><td>Münchenbuchsee[^annex3-lvlu1-lvl1-lvlu1-4]</td><td>Bern-Mittelland</td><td>BE</td><td>M</td><td></td><td>X</td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td colspan="3">X</td></tr>
+<tr><td>Münchenbuchsee</td><td>Bern-Mittelland</td><td>BE</td><td>M</td><td></td><td>X</td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td colspan="3">X</td></tr>
 <tr><td>Münchenwiler</td><td>Bern-Mittelland</td><td>BE</td><td>M</td><td></td><td></td><td></td><td>X</td><td colspan="2">X</td><td colspan="3"></td><td colspan="3"></td></tr>
 <tr><td>Münchwilen (AG)</td><td>Laufenburg</td><td>AG</td><td>B/L</td><td></td><td></td><td></td><td></td><td colspan="2">X</td><td colspan="3">X</td><td colspan="3"></td></tr>
 <tr><td>Münchwilen (AG)</td><td>Laufenburg</td><td>AG</td><td>G</td><td></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="3">X</td><td colspan="3">X</td></tr>
@@ -732,7 +732,6 @@ Bezeichnungen der Kernkraftwerke:
 <tr><td>Triengen</td><td>Sursee</td><td>LU</td><td>G</td><td></td><td></td><td>X</td><td>X</td><td colspan="2"></td><td colspan="3"></td><td colspan="3"></td></tr>
 <tr><td>Trimbach</td><td>Gösgen</td><td>SO</td><td>G</td><td></td><td></td><td></td><td>X</td><td colspan="2">X</td><td colspan="3">X</td><td colspan="3"></td></tr>
 <tr><td>Tschugg</td><td>Seeland</td><td>BE</td><td>M</td><td></td><td></td><td></td><td></td><td colspan="2">X</td><td colspan="3">X</td><td colspan="3"></td></tr>
-<tr><td>Turgi</td><td>Baden</td><td>AG</td><td>B/L</td><td></td><td></td><td>X</td><td>X</td><td colspan="2"></td><td colspan="3"></td><td colspan="3"></td></tr>
 <tr><td>Twann-Tüscherz</td><td>Biel/Bienne</td><td>BE</td><td>M</td><td></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="3">X</td><td colspan="3">X</td></tr>
 <tr><td>Ueberstorf</td><td>Sense</td><td>FR</td><td>M</td><td></td><td></td><td>X</td><td>X</td><td colspan="2"></td><td colspan="3"></td><td colspan="3"></td></tr>
 <tr><td>Uerkheim</td><td>Zofingen</td><td>AG</td><td>G</td><td></td><td></td><td>X</td><td>X</td><td colspan="2"></td><td colspan="3"></td><td colspan="3"></td></tr>
@@ -770,8 +769,8 @@ Bezeichnungen der Kernkraftwerke:
 <tr><td>Wittinsburg</td><td>Sissach</td><td>BL</td><td>G</td><td></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="3">X</td><td colspan="3">X</td></tr>
 <tr><td>Wittnau</td><td>Laufenburg</td><td>AG</td><td>B/L</td><td></td><td></td><td></td><td></td><td colspan="2">X</td><td colspan="3">X</td><td colspan="3"></td></tr>
 <tr><td>Wittnau</td><td>Laufenburg</td><td>AG</td><td>G</td><td></td><td>X</td><td></td><td></td><td colspan="2"></td><td colspan="3">X</td><td colspan="3">X</td></tr>
-<tr><td>Wohlen bei Bern (teilweise)[^annex3-lvlu1-lvl1-lvlu1-5]</td><td>Bern-Mittelland</td><td>BE</td><td>M</td><td>X</td><td></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td colspan="3"></td></tr>
-<tr><td>Wohlen bei Bern (teilweise)[^annex3-lvlu1-lvl1-lvlu1-6]</td><td>Bern-Mittelland</td><td>BE</td><td>M</td><td></td><td>X</td><td>X</td><td></td><td colspan="2"></td><td colspan="3"></td><td colspan="3">X</td></tr>
+<tr><td>Wohlen bei Bern (teilweise)[^annex3-lvlu1-lvl1-lvlu1-3]</td><td>Bern-Mittelland</td><td>BE</td><td>M</td><td>X</td><td></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td colspan="3"></td></tr>
+<tr><td>Wohlen bei Bern (teilweise)[^annex3-lvlu1-lvl1-lvlu1-4]</td><td>Bern-Mittelland</td><td>BE</td><td>M</td><td></td><td>X</td><td>X</td><td></td><td colspan="2"></td><td colspan="3"></td><td colspan="3">X</td></tr>
 <tr><td>Wohlenschwil</td><td>Baden</td><td>AG</td><td>B/L</td><td></td><td></td><td>X</td><td>X</td><td colspan="2"></td><td colspan="3"></td><td colspan="3"></td></tr>
 <tr><td>Wölflinswil</td><td>Laufenburg</td><td>AG</td><td>B/L</td><td></td><td></td><td></td><td>X</td><td colspan="2">X</td><td colspan="3"></td><td colspan="3"></td></tr>
 <tr><td>Wölflinswil</td><td>Laufenburg</td><td>AG</td><td>G</td><td></td><td>X</td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td colspan="3">X</td></tr>
@@ -788,28 +787,25 @@ Bezeichnungen der Kernkraftwerke:
 <tr><td>Zofingen</td><td>Zofingen</td><td>AG</td><td>G</td><td></td><td></td><td>X</td><td>X</td><td colspan="2">X</td><td colspan="3"></td><td colspan="3"></td></tr>
 <tr><td>Zollikofen</td><td>Bern-Mittelland</td><td>BE</td><td>M</td><td></td><td>X</td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td colspan="3">X</td></tr>
 <tr><td>Zunzgen</td><td>Sissach</td><td>BL</td><td>G</td><td></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="3">X</td><td colspan="3">X</td></tr>
-<tr><td>Zurzach[^annex3-lvlu1-lvl1-lvlu1-7]</td><td>Zurzach</td><td>AG</td><td>B/L</td><td></td><td>X</td><td>X</td><td>X</td><td colspan="2"></td><td colspan="3"></td><td colspan="3"></td></tr>
+<tr><td>Zurzach[^annex3-lvlu1-lvl1-lvlu1-5]</td><td>Zurzach</td><td>AG</td><td>B/L</td><td></td><td>X</td><td>X</td><td>X</td><td colspan="2"></td><td colspan="3"></td><td colspan="3"></td></tr>
 <tr><td>Zuzgen</td><td>Rheinfelden</td><td>AG</td><td>G</td><td></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="3">X</td><td colspan="3">X</td></tr>
 <tr><td>Zuzwil (BE)</td><td>Bern-Mittelland</td><td>BE</td><td>M</td><td></td><td>X</td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td colspan="3">X</td></tr>
 </table>
 
-[^annex3-lvlu1-lvl1-lvlu1-1]: Die ehemalige Gemeinde Schinznach-Bad ist nur den Sektoren 3 und 4 zugeordnet.
-[^annex3-lvlu1-lvl1-lvlu1-2]: Fusion der Gemeinden Herznach und Ueken.
-[^annex3-lvlu1-lvl1-lvlu1-3]: Fusion der Gemeinden Herznach und Ueken.
-[^annex3-lvlu1-lvl1-lvlu1-4]: Fusion der Gemeinden Diemerswil und Münchenbuchsee.
-[^annex3-lvlu1-lvl1-lvlu1-5]: Nur Eymatt, Hostetmatt, Salvisberg, Schulhaus Matzwil, Ussermülital, Wickacher.
-[^annex3-lvlu1-lvl1-lvlu1-6]: Ohne Eymatt, Hostetmatt, Salvisberg, Schulhaus Matzwil, Ussermülital, Wickacher.
-[^annex3-lvlu1-lvl1-lvlu1-7]: Die ehemaligen Gemeinden Kaiserstuhl, Rekingen, Rümikon und Wislikofen sind nur den Sektoren 1 und 2 zugeordnet.
+[^annex3-lvlu1-lvl1-lvlu1-1]: Fusion der Gemeinden Baden und Turgi.
+[^annex3-lvlu1-lvl1-lvlu1-2]: Die ehemalige Gemeinde Schinznach-Bad ist nur den Sektoren 3 und 4 zugeordnet.
+[^annex3-lvlu1-lvl1-lvlu1-3]: Nur Eymatt, Hostetmatt, Salvisberg, Schulhaus Matzwil, Ussermülital, Wickacher.
+[^annex3-lvlu1-lvl1-lvlu1-4]: Ohne Eymatt, Hostetmatt, Salvisberg, Schulhaus Matzwil, Ussermülital, Wickacher.
+[^annex3-lvlu1-lvl1-lvlu1-5]: Die ehemaligen Gemeinden Kaiserstuhl, Rekingen, Rümikon und Wislikofen sind nur den Sektoren 1 und 2 zugeordnet.
 
 ### 2. Spezielle Gefährdungszone PSI/ZWILAG (Zone 1)
 
 [^annex3-lvlu1-lvl2-1]
 
-[^annex3-lvlu1-lvl2-1]: Die spezielle Gefährdungszone PSI/ZWILAG ist einsehbar unter www.ensi.ch/de &gt; Notfallschutz &gt; Notfallschutz und Zonenpläne.
+[^annex3-lvlu1-lvl2-1]: Die spezielle Gefährdungszone PSI/ZWILAG ist einsehbar unter [www.ensi.ch/de](https://www.ensi.ch/de/) &gt; Notfallschutz &gt; Notfallschutz und Zonenpläne.
 
-2.1 Die spezielle Gefährdungszone PSI/ZWILAG umfasst die Gemeinden Döttingen Gebiet südlich der Surb, Böttstein ohne Ortsteile Kleindöttingen und Burlen, Untersiggenthal Gebiet Siggenthal Station, Villigen und Würenlingen.
-
-2.2 Die Gebiete werden gemäss der Geoinformationsverordnung vom 21. Mai 2008[^annex3-lvlu1-lvl2-2] vom ENSI erhoben, nachgeführt und verwaltet.
+- 2\.1 Die spezielle Gefährdungszone PSI/ZWILAG umfasst die Gemeinden Döttingen Gebiet südlich der Surb, Böttstein ohne Ortsteile Kleindöttingen und Burlen, Untersiggenthal Gebiet Siggenthal Station, Villigen und Würenlingen.
+- 2\.2 Die Gebiete werden gemäss der Geoinformationsverordnung vom 21. Mai 2008[^annex3-lvlu1-lvl2-2] vom ENSI erhoben, nachgeführt und verwaltet.
 
 [^annex3-lvlu1-lvl2-2]: [SR 510.620](https://fedlex.data.admin.ch/eli/cc/2008/389)
 
