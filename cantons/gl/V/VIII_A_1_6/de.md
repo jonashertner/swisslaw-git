@@ -4,13 +4,13 @@ number: VIII A/1/6
 title: Pflege- und Betreuungsverordnung
 short: PBV
 language: de
-version: 2023-01-01
-valid_until: 2023-12-31
-version_adopted: 2022-11-29
+version: 2024-01-01
+valid_until: 2025-04-30
+version_adopted: 2023-11-21
 adopted: 2022-11-29
 in_force: 2023-01-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/VIII-A.1.6"
-pdf: "https://gesetze.gl.ch/api/de/versions/2381/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2453/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2381/pdf_file"
 
 (PBV)
 
-Vom 29.11.2022 (Stand 01.01.2023)
+Vom 29.11.2022 (Stand 01.01.2024)
 
 Der Regierungsrat,
 
@@ -419,9 +419,9 @@ erlässt:
 - a. bei der ambulanten Krankenpflege nach der Art der Leistung gemäss Artikel 7 Absatz 2 KLV;
 - b. bei der Krankenpflege im Pflegeheim linear nach den Pflegebedarfsstufen gemäss Artikel 7a Absatz 3 KLV.
 
-<sup>3</sup> Bei Leistungserbringern ohne Versorgungspflicht, welche die Anforderungen gemäss Artikel 29 Absatz 2 und Artikel 38 erfüllen, entsprechen die Restfinanzierungsbeiträge den ausgewiesenen Kosten, jedoch maximal 85 Prozent der Kosten des gemäss Artikel 29 Absatz 3 gewichteten Mittelwerts der Leistungserbringer mit Versorgungspflicht.
+<sup>3</sup> Bei Leistungserbringern ohne Versorgungspflicht entsprechen die Restfinanzierungsbeiträge 80 Prozent der Kosten des gemäss Artikel 29 Absatz 3 gewichteten Mittelwerts der Leistungserbringer mit Versorgungspflicht.
 
-<sup>4</sup> Bei Leistungserbringern ohne Versorgungspflicht, welche die Anforderungen gemäss Artikel 29 Absatz 2 und Artikel 38 nicht erfüllen, entsprechen die Restfinanzierungsbeiträge 75 Prozent der Kosten des gemäss Artikel 29 Absatz 3 gewichteten Mittelwerts der Leistungserbringer mit Versorgungspflicht.
+<sup>4</sup> …
 
 <sup>5</sup> Das Departement legt für spezialisierte Pflegeleistungen Zuschläge gemäss Artikel 23 Absatz 1a EG KVG fest. Es definiert die Voraussetzungen für die Zuschläge und deren Höhe.
 
