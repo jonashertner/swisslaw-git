@@ -3,11 +3,11 @@ sr: "531.215.25"
 title: Verordnung vom 10. Mai 2017 über die Pflichtlagerhaltung von Dünger (Düngerpflichtlagerverordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/311"
 language: de
-version: 2022-01-01
+version: 2024-01-01
 adopted: 2017-05-10
 in_force: 2017-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/311/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2017-311-20220101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/311/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/311/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2017-311-20240101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/311/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/311/20220101/de"
 
 (Düngerpflichtlagerverordnung)
 
-vom 10. Mai 2017 (Stand am 1. Januar 2022)
+vom 10. Mai 2017 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -124,11 +124,13 @@ Die Düngerpflichtlagerverordnung vom 4. April 2007[^9-1] wird aufgehoben.
 
 Diese Verordnung tritt am 1. Juni 2017 in Kraft.
 
-Anhang
+Anhang[^t-1]
 
 (Art. 1 und 2 Abs. 3 Bst. b)
 
 ## Dünger
+
+[^t-1]: Bereinigt gemäss Anhang 2 Ziff. II 2 der V vom 15. Febr. 2023 über die Änderung des Zolltarifs, in Kraft seit 1. Jan. 2024 ([AS 2023 86](https://fedlex.data.admin.ch/eli/oc/2023/86)).
 
 ### 1 Düngerarten, die der Pflichtlagerhaltung unterstellt sind
 
@@ -138,7 +140,7 @@ Anhang
 <tr><td>ex 2827.1000</td><td>Ammoniumchlorid zu Düngzwecken</td></tr>
 <tr><td>ex 2834.2100</td><td>Kaliumnitrat zu Düngzwecken</td></tr>
 <tr><td>ex 2834.2900</td><td>Magnesiumnitrat und Calciumnitrat zu Düngzwecken</td></tr>
-<tr><td>3102.1000/9090</td><td>Stickstoffdüngemittel</td></tr>
+<tr><td>3102.1000/9000</td><td>Stickstoffdüngemittel</td></tr>
 <tr><td>ex 3105.2000/5900, 9000</td><td>Stickstoff-, phosphat- und kalihaltige Produkte</td></tr>
 </table>
 

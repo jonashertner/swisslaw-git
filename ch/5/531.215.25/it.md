@@ -3,18 +3,18 @@ sr: "531.215.25"
 title: Ordinanza del 10 maggio 2017 concernente la costituzione di scorte obbligatorie di concimi
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/311"
 language: it
-version: 2022-01-01
+version: 2024-01-01
 adopted: 2017-05-10
 in_force: 2017-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/311/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2017-311-20220101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/311/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/311/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2017-311-20240101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/311/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza concernente la costituzione di scorte obbligatorie di concimi
 
-del 10 maggio 2017 (Stato 1° gennaio 2022)
+del 10 maggio 2017 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -122,11 +122,13 @@ L’ordinanza del 4 aprile 2007[^9-1] concernente la costituzione di scorte obbl
 
 La presente ordinanza entra in vigore il 1° giugno 2017.
 
-Allegato
+Allegato[^t-1]
 
 (art. 1 e 2 cpv. 3 lett. b)
 
 ## Concimi
+
+[^t-1]: Aggiornato dall’all. 2 n. II 2 dell’O del 15 feb. 2023 concernente la modifica della tariffa doganale, in vigore dal 1° gen. 2024 ([RU 2023 86](https://fedlex.data.admin.ch/eli/oc/2023/86)).
 
 ### 1 Tipi di concimi che sottostanno all’obbligo di costituire scorte
 
@@ -136,7 +138,7 @@ Allegato
 <tr><td colspan="2">ex 2827.1000</td><td>Cloruro di ammonio, per concimazione</td></tr>
 <tr><td colspan="2">ex 2834.2100</td><td>Nitrato di potassio, per concimazione</td></tr>
 <tr><td colspan="2">ex 2834.2900</td><td>Nitrato di magnesio e nitrato di calcio, per concimazione</td></tr>
-<tr><td colspan="2">3102.1000/9090</td><td>Concimi azotati</td></tr>
+<tr><td colspan="2">3102.1000/9000</td><td>Concimi azotati</td></tr>
 <tr><td colspan="2">ex 3105.2000/5900, 9000</td><td>Prodotti contenenti azoto, fosfati e potassio</td></tr>
 </table>
 

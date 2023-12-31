@@ -3,18 +3,18 @@ sr: "531.215.25"
 title: "Ordonnance du 10 mai 2017 sur le stockage obligatoire d'engrais"
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/311"
 language: fr
-version: 2022-01-01
+version: 2024-01-01
 adopted: 2017-05-10
 in_force: 2017-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/311/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-311-20220101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/311/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/311/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-311-20240101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/311/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance sur le stockage obligatoire d’engrais
 
-du 10 mai 2017 (Etat le 1<sup>er</sup> janvier 2022)
+du 10 mai 2017 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -122,11 +122,13 @@ L’ordonnance du 4 avril 2007 sur le stockage obligatoire d’engrais est abrog
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> juin 2017.
 
-Annexe
+Annexe[^t-1]
 
 (art. 1 et 2, al. 3, let. b)
 
 ## Engrais
+
+[^t-1]: Mise à jour par l’annexe 2 ch. II 2 de l’O du 15 fév. 2023 modifiant le tarif des douanes, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 86](https://fedlex.data.admin.ch/eli/oc/2023/86)).
 
 ### 1 Types d’engrais soumis au stockage obligatoire
 
@@ -136,7 +138,7 @@ Annexe
 <tr><td>ex 2827.1000</td><td>chlorure d’ammonium utilisé comme engrais</td></tr>
 <tr><td>ex 2834.2100</td><td>nitrate de potassium utilisé comme engrais</td></tr>
 <tr><td>ex 2834.2900</td><td>nitrate de magnésium et nitrate de calcium utilisés comme engrais</td></tr>
-<tr><td>3102.1000/9090</td><td>engrais azotés</td></tr>
+<tr><td>3102.1000/9000</td><td>engrais azotés</td></tr>
 <tr><td>ex 3105.2000/5900, 9000</td><td>produits azotés, phosphatés et potassiques</td></tr>
 </table>
 
