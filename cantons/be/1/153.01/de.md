@@ -4,13 +4,13 @@ number: "153.01"
 title: Personalgesetz
 short: PG
 language: de
-version: 2023-03-01
-valid_until: 2023-12-31
-version_adopted: 2022-03-07
+version: 2024-01-01
+valid_until: 2026-08-31
+version_adopted: 2022-06-14
 adopted: 2004-09-16
 in_force: 2005-07-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/153.01"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/3023/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3024/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/3023/pdf_file"
 
 (PG)
 
-vom 16.09.2004 (Stand 01.03.2023)
+vom 16.09.2004 (Stand 01.01.2024)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -121,7 +121,7 @@ beschliesst:
 
 **Steuerungsinstrumente**
 
-<sup>1</sup> Der Regierungsrat und die Justizleitung schaffen Instrumente zur Überwachung und Steuerung der Personalkosten und der Stellenentwicklung und stimmen diese aufeinander ab.
+<sup>1</sup> Der Regierungsrat und die Justizverwaltungsleitung schaffen Instrumente zur Überwachung und Steuerung der Personalkosten und der Stellenentwicklung und stimmen diese aufeinander ab.
 
 #### Art. 7a
 
@@ -129,7 +129,7 @@ beschliesst:
 
 <sup>1</sup> Zur Steuerung und Überwachung des Personalbestandes und des Personalaufwandes in den Direktionen und der Staatskanzlei wird ein Stellenplan geführt.
 
-<sup>2</sup> Er wird dem Grossen Rat jährlich vom Regierungsrat zusammen mit dem Voranschlag zur Kenntnis gebracht.
+<sup>2</sup> Er wird dem Grossen Rat jährlich vom Regierungsrat zusammen mit dem Budget zur Kenntnis gebracht.
 
 <sup>3</sup> Im Rahmen des jährlichen HR-Reportings publiziert die zuständige Stelle der Finanzdirektion detaillierte statistische Personalkennzahlen bis auf Stufe Amt und Gehaltsklasse.
 
@@ -139,11 +139,11 @@ beschliesst:
 
 **Personalverbände**
 
-<sup>1</sup> Der Regierungsrat oder die von ihm bestimmten Organisationseinheiten sowie die Justizleitung informieren die Personalverbände rechtzeitig über alle wichtigen Personalangelegenheiten, insbesondere über Pläne für umfassende Reorganisationen und die Aufhebung von Stellen in grösserem Umfang.
+<sup>1</sup> Der Regierungsrat oder die von ihm bestimmten Organisationseinheiten sowie die Justizverwaltungsleitung informieren die Personalverbände rechtzeitig über alle wichtigen Personalangelegenheiten, insbesondere über Pläne für umfassende Reorganisationen und die Aufhebung von Stellen in grösserem Umfang.
 
 <sup>2</sup> Der Regierungsrat oder seine Delegation hört die Personalverbände an, bevor er wesentliche Bestimmungen über das Arbeitsverhältnis erlässt, ändert oder aufhebt sowie bevor er die jährlichen Gehaltsmassnahmen beschliesst.
 
-<sup>3</sup> Eine Delegation des Regierungsrates oder der Justizleitung führt nach Bedarf Gespräche mit den Personalverbänden.
+<sup>3</sup> Eine Delegation des Regierungsrates oder der Justizverwaltungsleitung führt nach Bedarf Gespräche mit den Personalverbänden.
 
 #### Art. 9
 
@@ -386,17 +386,17 @@ beschliesst:
 
 <sup>3</sup> Soweit nicht der Regierungsrat als Anstellungsbehörde für den Abschluss des Arbeitsvertrags zuständig ist, sind es die Direktionen oder die Staatskanzlei sowie die diesem Gesetz unterstellten Anstalten mit eigener Rechtspersönlichkeit im Einvernehmen mit der zuständigen Stelle der Finanzdirektion. Der Arbeitsvertrag wird im Einvernehmen mit der Direktion für Inneres und Justiz abgeschlossen, wenn die Finanzdirektion betroffen ist.
 
-<sup>4</sup> Die Justizleitung, das Obergericht, das Verwaltungsgericht, die übrigen verwaltungsunabhängigen Verwaltungsjustizbehörden und die Generalstaatsanwaltschaft sind in ihrem jeweiligen Bereich zuständig für den Abschluss punktuell abweichender Arbeitsverträge. Die zuständige Stelle der Finanzdirektion nimmt vorgängig dazu Stellung.
+<sup>4</sup> Die Justizverwaltungsleitung, das Obergericht, das Verwaltungsgericht, die übrigen verwaltungsunabhängigen Verwaltungsjustizbehörden und die Generalstaatsanwaltschaft sind in ihrem jeweiligen Bereich zuständig für den Abschluss punktuell abweichender Arbeitsverträge. Die zuständige Stelle der Finanzdirektion nimmt vorgängig dazu Stellung.
 
 #### Art. 19
 
 **Anstellungsbehörde**
 
-<sup>1</sup> Anstellungsbehörden sind der Regierungsrat, die Justizleitung, das Obergericht, das Verwaltungsgericht, die übrigen verwaltungsunabhängigen Verwaltungsjustizbehörden und die Generalstaatsanwaltschaft sowie die diesem Gesetz unterstellten Anstalten mit eigener Rechtspersönlichkeit.
+<sup>1</sup> Anstellungsbehörden sind der Regierungsrat, die Justizverwaltungsleitung, das Obergericht, das Verwaltungsgericht, die übrigen verwaltungsunabhängigen Verwaltungsjustizbehörden und die Generalstaatsanwaltschaft sowie die diesem Gesetz unterstellten Anstalten mit eigener Rechtspersönlichkeit.
 
 <sup>2</sup> Der Regierungsrat kann seine Befugnis auf die Direktionen und die Staatskanzlei übertragen. Diese können die Befugnis durch Verordnung an ihnen unterstellte Organisationseinheiten übertragen.
 
-<sup>2a</sup> Die Justizleitung kann ihre Befugnis auf die Stabsstelle für Ressourcen übertragen.
+<sup>2a</sup> Die Justizverwaltungsleitung kann ihre Befugnis auf die Stabsstelle für Ressourcen übertragen.
 
 <sup>3</sup> Das Obergericht kann seine Befugnis auf die erstinstanzlichen Gerichtsbehörden übertragen.
 
@@ -489,7 +489,7 @@ beschliesst:
 
 <sup>3</sup> Soweit nicht der Regierungsrat als Anstellungsbehörde für den Abschluss der Austrittsvereinbarung zuständig ist, sind es die Direktionen oder die Staatskanzlei sowie für ihren jeweiligen Bereich die diesem Gesetz unterstellten Anstalten mit eigener Rechtspersönlichkeit im Einvernehmen mit der zuständigen Stelle der Finanzdirektion. Die Austrittsvereinbarung wird im Einvernehmen mit der Direktion für Inneres und Justiz abgeschlossen, wenn die Finanzdirektion betroffen ist.
 
-<sup>4</sup> Die Justizleitung, das Obergericht, das Verwaltungsgericht, die übrigen verwaltungsunabhängigen Verwaltungsjustizbehörden und die Generalstaatsanwaltschaft sind für ihren jeweiligen Bereich zuständig für den Abschluss von Austrittsvereinbarungen. Die zuständige Stelle der Finanzdirektion nimmt vorgängig dazu Stellung.
+<sup>4</sup> Die Justizverwaltungsleitung, das Obergericht, das Verwaltungsgericht, die übrigen verwaltungsunabhängigen Verwaltungsjustizbehörden und die Generalstaatsanwaltschaft sind für ihren jeweiligen Bereich zuständig für den Abschluss von Austrittsvereinbarungen. Die zuständige Stelle der Finanzdirektion nimmt vorgängig dazu Stellung.
 
 #### Art. 28
 
@@ -586,7 +586,7 @@ beschliesst:
 
 <sup>3</sup> Der Regierungsrat stellt das Verschulden fest, wenn er Anstellungsbehörde ist. Die zuständige Behörde gemäss Absatz 2 kann den Entscheid der Verschuldensfeststellung an den Regierungsrat überweisen, wenn das Verschulden verwaltungsintern umstritten ist.
 
-<sup>4</sup> Die diesem Gesetz unterstellten Anstalten mit eigener Rechtspersönlichkeit stellen, wenn sie Anstellungsbehörde gemäss Artikel 19 sind, das Verschulden im Einvernehmen mit der Finanzdirektion fest. Die Justizleitung, das Obergericht, das Verwaltungsgericht, die übrigen verwaltungsunabhängigen Verwaltungsjustizbehörden und die Generalstaatsanwaltschaft holen, wenn sie Anstellungsbehörde gemäss Artikel 19 sind, vorgängig zur vorsorgerechtlichen Verschuldensfeststellung eine Stellungnahme der zuständigen Stelle der Finanzdirektion ein.
+<sup>4</sup> Die diesem Gesetz unterstellten Anstalten mit eigener Rechtspersönlichkeit stellen, wenn sie Anstellungsbehörde gemäss Artikel 19 sind, das Verschulden im Einvernehmen mit der Finanzdirektion fest. Die Justizverwaltungsleitung, das Obergericht, das Verwaltungsgericht, die übrigen verwaltungsunabhängigen Verwaltungsjustizbehörden und die Generalstaatsanwaltschaft holen, wenn sie Anstellungsbehörde gemäss Artikel 19 sind, vorgängig zur vorsorgerechtlichen Verschuldensfeststellung eine Stellungnahme der zuständigen Stelle der Finanzdirektion ein.
 
 #### Art. 36
 
@@ -744,7 +744,7 @@ beschliesst:
 
 <sup>1</sup> Die Mitarbeiterinnen und Mitarbeiter sind berechtigt, öffentliche Ämter auszuüben, soweit diese mit ihrer beruflichen Tätigkeit vereinbar sind.
 
-<sup>2</sup> Für die Ausübung öffentlicher Ämter können je nach Bedeutung des auszuübenden Amtes maximal 15 Arbeitstage pro Jahr in Anspruch genommen werden, ohne dass damit eine Gehaltskürzung oder eine Abgabepflicht verbunden ist. Erfordert die Ausübung des Amtes eine länger dauernde Abwesenheit, ist der Regierungsrat bzw. die Justizleitung zur Regelung des Einzelfalles ermächtigt. Sie können in diesem Fall eine angemessene Gehaltskürzung oder eine Pflicht zur Abgabe der für die Ausübung des öffentlichen Amtes bezogenen Entschädigung festlegen.
+<sup>2</sup> Für die Ausübung öffentlicher Ämter können je nach Bedeutung des auszuübenden Amtes maximal 15 Arbeitstage pro Jahr in Anspruch genommen werden, ohne dass damit eine Gehaltskürzung oder eine Abgabepflicht verbunden ist. Erfordert die Ausübung des Amtes eine länger dauernde Abwesenheit, ist der Regierungsrat bzw. die Justizverwaltungsleitung zur Regelung des Einzelfalles ermächtigt. Sie können in diesem Fall eine angemessene Gehaltskürzung oder eine Pflicht zur Abgabe der für die Ausübung des öffentlichen Amtes bezogenen Entschädigung festlegen.
 
 <sup>3</sup> Der Regierungsrat regelt die Einzelheiten durch Verordnung.
 
@@ -1000,7 +1000,7 @@ beschliesst:
 
 <sup>2</sup> Der Anteil für den individuellen Gehaltsaufstieg wird so festgelegt, dass die Ziele des Gehaltssystems erreicht werden können.
 
-<sup>3</sup> In ausserordentlichen Finanzlagen kann der Anteil reduziert werden. Zumindest der Gehaltsaufstieg, der sich innerhalb der im genehmigten Voranschlag eingestellten Lohnsumme finanzieren lässt, ist jedoch zu gewähren.
+<sup>3</sup> In ausserordentlichen Finanzlagen kann der Anteil reduziert werden. Zumindest der Gehaltsaufstieg, der sich innerhalb der im genehmigten Budget eingestellten Lohnsumme finanzieren lässt, ist jedoch zu gewähren.
 
 <sup>4</sup> Der Regierungsrat kann zur Aufhebung von Gehaltsrückständen zusätzlich Mittel zur Verfügung stellen.
 
@@ -1059,7 +1059,7 @@ beschliesst:
 
 <sup>1</sup> Die Mitglieder des Obergerichts, des Verwaltungsgerichts, die Präsidentin oder der Präsident sowie die Vizepräsidentin oder der Vizepräsident der Steuerrekurskommission, die Generalstaatsanwältin oder der Generalstaatsanwalt sind in der höchsten Gehaltsklasse eingereiht.
 
-<sup>2</sup> Die Mitglieder der Justizleitung erhalten eine jährliche Zulage von 4000 Franken. Der Regierungsrat kann diesen Betrag der Teuerung anpassen.
+<sup>2</sup> Die Mitglieder der Justizverwaltungsleitung erhalten eine jährliche Zulage von 4000 Franken. Der Regierungsrat kann diesen Betrag der Teuerung anpassen.
 
 #### Art. 82
 
@@ -1299,7 +1299,9 @@ beschliesst:
 
 <sup>1</sup> Über streitige Ansprüche gegen den Kanton auf Schadenersatz oder Genugtuung erlässt die Direktion, in deren Aufgabenbereich sich der anspruchsbegründende Sachverhalt ereignet hat, eine Verfügung.
 
-<sup>2</sup> Die Begehren auf Schadenersatz oder Genugtuung sind der zuständigen Direktion schriftlich, begründet und im Doppel einzureichen.
+<sup>1a</sup> Soweit es sich bei der für den Schaden verantwortlichen Person um eine Mitarbeiterin oder einen Mitarbeiter der Gerichtsbehörden oder der Staatsanwaltschaft handelt, verfügt die jeweils zuständige Geschäftsleitung des Obergerichts oder des Verwaltungsgerichts bzw. die Generalstaatsanwaltschaft über den streitigen Anspruch. Bei Mitarbeiterinnen und Mitarbeitern der Stabsstelle für Ressourcen verfügt die Justizverwaltungsleitung.
+
+<sup>2</sup> Die Begehren auf Schadenersatz oder Genugtuung sind der zuständigen Behörde schriftlich, begründet und im Doppel einzureichen.
 
 <sup>3</sup> Im Übrigen richten sich das Verfahren und die Rechtspflege nach den Bestimmungen des VRPG.
 
@@ -1352,7 +1354,7 @@ beschliesst:
 <sup>2</sup> Soweit dieses Gesetz nichts anderes bestimmt, verfügt
 
 - a die zuständige Stelle der Finanzdirektion, wenn Gehaltsansprüche umstritten sind,
-- b die zuständige Stelle der Finanzdirektion bzw. die Justizleitung, wenn über Rückgriffsansprüche nach Artikel 102 oder über Haftungsansprüche nach Artikel 103 zu entscheiden ist,
+- b die zuständige Stelle der Finanzdirektion bzw. die Justizverwaltungsleitung, wenn über Rückgriffsansprüche nach Artikel 102 oder über Haftungsansprüche nach Artikel 103 zu entscheiden ist,
 - c die Anstellungsbehörde, die zuständige Stelle der Direktion für Inneres und Justiz oder die am Vertragsverhältnis für den Kanton beteiligte Organisationseinheit in den übrigen Fällen sowie bei Streitigkeiten über den Gehaltsaufstieg nach Artikel 72.
 
 <sup>3</sup> Das Verfahren ist kostenlos.

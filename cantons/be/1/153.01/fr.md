@@ -4,13 +4,13 @@ number: "153.01"
 title: Loi sur le personnel
 short: LPers
 language: fr
-version: 2023-03-01
-valid_until: 2023-12-31
-version_adopted: 2022-03-07
+version: 2024-01-01
+valid_until: 2026-08-31
+version_adopted: 2022-06-14
 adopted: 2004-09-16
 in_force: 2005-07-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/153.01"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/3023/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3024/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/3023/pdf_file"
 
 (LPers)
 
-du 16.09.2004 (état au 01.03.2023)
+du 16.09.2004 (état au 01.01.2024)
 
 Le Grand Conseil du canton de Berne,
 
@@ -121,7 +121,7 @@ arrête:
 
 **Instruments de pilotage**
 
-<sup>1</sup> Le Conseil-exécutif et la Direction de la magistrature créent des instruments qui permettent de surveiller et de piloter le développement des frais de personnel et des postes, et les coordonnent entre eux.
+<sup>1</sup> Le Conseil-exécutif et la Direction administrative de la magistrature créent des instruments qui permettent de surveiller et de piloter le développement des frais de personnel et des postes, et les coordonnent entre eux.
 
 #### Art. 7a
 
@@ -139,11 +139,11 @@ arrête:
 
 **Associations de personnel**
 
-<sup>1</sup> Le Conseil-exécutif ou les unités administratives par lui désignées ainsi que la Direction de la magistrature informent en temps utile les associations de personnel de toutes les questions importantes en matière de personnel, en particulier des projets de réorganisations globales et de suppressions de postes de grande ampleur.
+<sup>1</sup> Le Conseil-exécutif ou les unités administratives par lui désignées ainsi que la Direction administrative de la magistrature informent en temps utile les associations de personnel de toutes les questions importantes en matière de personnel, en particulier des projets de réorganisations globales et de suppressions de postes de grande ampleur.
 
 <sup>2</sup> Le Conseil-exécutif ou sa délégation consulte les associations de personnel avant d’édicter, de modifier ou d’abroger des dispositions importantes sur les rapports de travail, et avant d’arrêter les mesures salariales annuelles.
 
-<sup>3</sup> Une délégation du Conseil-exécutif ou de la Direction de la magistrature entretient, en fonction des besoins, un dialogue avec les associations de personnel.
+<sup>3</sup> Une délégation du Conseil-exécutif ou de la Direction administrative de la magistrature entretient, en fonction des besoins, un dialogue avec les associations de personnel.
 
 #### Art. 9
 
@@ -386,17 +386,17 @@ arrête:
 
 <sup>3</sup> A moins que le Conseil-exécutif ne soit, en qualité d’autorité d’engagement, compétent pour conclure le contrat de travail, la compétence en incombe aux Directions ou à la Chancellerie d’Etat ainsi qu’aux établissements dotés de la personnalité juridique soumis à la présente loi, d’entente avec le service compétent de la Direction des finances. Le contrat de travail est conclu d’entente avec la Direction de l’intérieur et de la justice lorsque la Direction des finances est concernée.
 
-<sup>4</sup> La Direction de la magistrature, la Cour suprême, le Tribunal administratif, les autres autorités de justice administrative indépendantes de l’administration et le Parquet général sont compétents pour conclure, dans leurs domaines respectifs, des contrats de travail dérogeant ponctuellement aux dispositions de la législation sur le personnel. Le service compétent de la Direction des finances prend position au préalable.
+<sup>4</sup> La Direction administrative de la magistrature, la Cour suprême, le Tribunal administratif, les autres autorités de justice administrative indépendantes de l’administration et le Parquet général sont compétents pour conclure, dans leurs domaines respectifs, des contrats de travail dérogeant ponctuellement aux dispositions de la législation sur le personnel. Le service compétent de la Direction des finances prend position au préalable.
 
 #### Art. 19
 
 **Autorité d’engagement**
 
-<sup>1</sup> Le Conseil-exécutif, la Direction de la magistrature, la Cour suprême, le Tribunal administratif, les autres autorités de justice administrative indépendantes de l’administration et le Parquet général ainsi que les établissements dotés de la personnalité juridique régis par la présente loi sont des autorités d’engagement.
+<sup>1</sup> Le Conseil-exécutif, la Direction administrative de la magistrature, la Cour suprême, le Tribunal administratif, les autres autorités de justice administrative indépendantes de l’administration et le Parquet général ainsi que les établissements dotés de la personnalité juridique régis par la présente loi sont des autorités d’engagement.
 
 <sup>2</sup> Le Conseil-exécutif peut déléguer sa compétence aux Directions et à la Chancellerie d’Etat. Celles-ci peuvent, par voie d’ordonnance, déléguer cette compétence aux unités administratives qui leur sont subordonnées.
 
-<sup>2a</sup> La Direction de la magistrature peut déléguer sa compétence à l'état-major des ressources.
+<sup>2a</sup> La Direction administrative de la magistrature peut déléguer sa compétence à l'état-major des ressources.
 
 <sup>3</sup> La Cour suprême peut déléguer sa compétence aux autorités judiciaires de première instance.
 
@@ -489,7 +489,7 @@ arrête:
 
 <sup>3</sup> A moins que le Conseil-exécutif ne soit, en qualité d’autorité d’engagement, compétent pour conclure la convention de départ, la compétence en incombe aux Directions ou à la Chancellerie d’Etat ainsi que, pour leurs domaines respectifs, aux établissements dotés de la personnalité juridique soumis à la présente loi, d’entente avec le service compétent de la Direction des finances. La convention de départ est conclue d’entente avec la Direction de l’intérieur et de la justice lorsque la Direction des finances est concernée.
 
-<sup>4</sup> La Direction de la magistrature, la Cour suprême, le Tribunal administratif, les autres autorités de justice administrative indépendantes de l’administration et le Parquet général sont compétents pour conclure les conventions de départ dans leurs domaines respectifs. Le service compétent de la Direction des finances prend position au préalable.
+<sup>4</sup> La Direction administrative de la magistrature, la Cour suprême, le Tribunal administratif, les autres autorités de justice administrative indépendantes de l’administration et le Parquet général sont compétents pour conclure les conventions de départ dans leurs domaines respectifs. Le service compétent de la Direction des finances prend position au préalable.
 
 #### Art. 28
 
@@ -586,7 +586,7 @@ arrête:
 
 <sup>3</sup> La détermination de la faute incombe au Conseil-exécutif lorsqu’il est lui-même l’autorité d'engagement. L’autorité compétente conformément à l’alinéa 2 peut déférer la détermination de la faute au Conseil-exécutif si la faute prête à contestation à l’intérieur de l’administration.
 
-<sup>4</sup> Les établissements dotés de la personnalité juridique soumis à la présente loi qui ont le statut d’autorité d’engagement au sens de l’article 19 déterminent la faute d’entente avec la Direction des finances. La Direction de la magistrature, la Cour suprême, le Tribunal administratif, les autres autorités de justice administrative indépendantes de l’administration et le Parquet général, dans la mesure où ils sont l’autorité d’engagement au sens de l’article 19, sollicitent une prise de position du service compétent de la Direction des finances avant la détermination de la faute en matière de prévoyance.
+<sup>4</sup> Les établissements dotés de la personnalité juridique soumis à la présente loi qui ont le statut d’autorité d’engagement au sens de l’article 19 déterminent la faute d’entente avec la Direction des finances. La Direction administrative de la magistrature, la Cour suprême, le Tribunal administratif, les autres autorités de justice administrative indépendantes de l’administration et le Parquet général, dans la mesure où ils sont l’autorité d’engagement au sens de l’article 19, sollicitent une prise de position du service compétent de la Direction des finances avant la détermination de la faute en matière de prévoyance.
 
 #### Art. 36
 
@@ -744,7 +744,7 @@ arrête:
 
 <sup>1</sup> Les agents et les agentes ont le droit d’exercer une charge publique pour autant qu’elle soit compatible avec leur fonction.
 
-<sup>2</sup> Selon l’importance de la charge publique, l’agent ou l’agente peut lui consacrer au maximum 15 jours de travail par an sans réduction de traitement ni contribution. Si l’exercice de la charge exige une absence supérieure, le Conseil-exécutif ou la Direction de la magistrature sont habilités à statuer de cas en cas. Ils peuvent dans ce cas fixer une réduction appropriée du traitement ou une obligation de verser une contribution sur l’indemnité perçue pour l’exercice de la charge publique.
+<sup>2</sup> Selon l’importance de la charge publique, l’agent ou l’agente peut lui consacrer au maximum 15 jours de travail par an sans réduction de traitement ni contribution. Si l’exercice de la charge exige une absence supérieure, le Conseil-exécutif ou la Direction administrative de la magistrature sont habilités à statuer de cas en cas. Ils peuvent dans ce cas fixer une réduction appropriée du traitement ou une obligation de verser une contribution sur l’indemnité perçue pour l’exercice de la charge publique.
 
 <sup>3</sup> Le Conseil-exécutif règle les modalités de détail par voie d’ordonnance.
 
@@ -1059,7 +1059,7 @@ arrête:
 
 <sup>1</sup> Les membres de la Cour suprême et du Tribunal administratif, le président ou la présidente et le vice-président ou la vice-présidente de la Commission des recours en matière fiscale ainsi que le procureur général ou la procureure générale sont placés dans la classe de traitement la plus élevée.
 
-<sup>2</sup> Les membres de la Direction de la magistrature touchent un supplément annuel de 4000 francs. Le Conseil-exécutif peut adapter ce montant en fonction du renchérissement.
+<sup>2</sup> Les membres de la Direction administrative de la magistrature touchent un supplément annuel de 4000 francs. Le Conseil-exécutif peut adapter ce montant en fonction du renchérissement.
 
 #### Art. 82
 
@@ -1299,7 +1299,9 @@ arrête:
 
 <sup>1</sup> La Direction chargée du domaine dont relèvent les faits motivant les prétentions statue par voie de décision sur les prétentions contestées qui sont dirigées contre le canton et concernent des dommages-intérêts ou une indemnité à titre de réparation morale.
 
-<sup>2</sup> La demande de dommages-intérêts ou d’indemnité à titre de réparation morale dûment motivée doit être adressée par écrit et en double exemplaire à la Direction compétente.
+<sup>1a</sup> Si le dommage a été occasionné par un collaborateur ou une collaboratrice des autorités judiciaires ou du Ministère public, le directoire de la Cour suprême ou du Tribunal administratif, ou le Parquet général, statue sur les prétentions contestées. S'il l'a été par un collaborateur ou une collaboratrice de l'état-major des ressources, la Direction administrative de la magistrature statue.
+
+<sup>2</sup> La demande de dommages-intérêts ou d’indemnité à titre de réparation morale dûment motivée doit être adressée par écrit et en double exemplaire à l'autorité compétente.
 
 <sup>3</sup> Au surplus, la procédure et les voies de droit sont régies par les dispositions de la loi sur la procédure et la juridiction administratives (LPJA)[^104-1].
 
@@ -1354,7 +1356,7 @@ arrête:
 <sup>2</sup> A moins que la présente loi n’en dispose autrement, l’autorité de l’employeur habilitée à prononcer la décision est
 
 - a le service compétent de la Direction des finances lorsque le litige porte sur des prétentions salariales;
-- b le service compétent de la Direction des finances ou la Direction de la magistrature lorsque le litige porte sur des prétentions récursoires en vertu de l’article 102 ou des prétentions en responsabilité en vertu de l’article 103;
+- b le service compétent de la Direction des finances ou la Direction administrative de la magistrature lorsque le litige porte sur des prétentions récursoires en vertu de l’article 102 ou des prétentions en responsabilité en vertu de l’article 103;
 - c l’autorité d'engagement, le service compétent de la Direction de l'intérieur et de la justice ou l’unité administrative qui est partie au contrat pour le canton dans les autres cas de litiges, y compris les litiges portant sur la progression du traitement conformément à l’article 72.
 
 <sup>3</sup> La procédure est gratuite.
