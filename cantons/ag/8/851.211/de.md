@@ -4,13 +4,13 @@ number: "851.211"
 title: Sozialhilfe- und Präventionsverordnung
 short: SPV
 language: de
-version: 2023-05-01
-valid_until: 2023-12-31
-version_adopted: 2023-02-15
+version: 2024-01-01
+valid_until: 2024-02-29
+version_adopted: 2023-10-18
 adopted: 2002-08-28
 in_force: 2003-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/851.211"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3308/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3364/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,11 +19,11 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3308/pdf_file"
 
 (SPV)
 
-Vom 28.08.2002 (Stand 01.05.2023)
+Vom 28.08.2002 (Stand 01.01.2024)
 
 Der Regierungsrat des Kantons Aargau,
 
-gestützt auf die §§ 10, 11 Abs. 2, 17 Abs. 2, 18 Abs. 1<sup>bis</sup> und 4, 19 Abs. 1 und 5, 19b Abs. 1, 20 Abs. 2, 24, 27 Abs. 1 lit. d, 31 Abs. 3, 33 lit. d, 41b, 51 Abs. 4 und 63 des Gesetzes über die öffentliche Sozialhilfe und die soziale Prävention (Sozialhilfe- und Präventionsgesetz, SPG) vom 6. März 2001[^ingress-1] und § 13 Abs. 2 des Gesetzes über die Organisation des Regierungsrates und der kantonalen Verwaltung (Organisationsgesetz) vom 26. März 1985[^ingress-2],
+gestützt auf die §§ 10, 11 Abs. 2, 17 Abs. 2, 18 Abs. 1<sup>bis</sup> und 4, 19b Abs. 1, 19c Abs. 2, 19d Abs. 1, 19e Abs. 1, 20 Abs. 2, 24, 27 Abs. 1 lit. d, 31 Abs. 3 lit. b, 31 Abs. 3<sup>bis</sup>, 33 lit. d, 41b, 47 Abs. 3<sup>bis</sup>, 51 Abs. 4 und 5 sowie § 63 des Gesetzes über die öffentliche Sozialhilfe und die soziale Prävention (Sozialhilfe- und Präventionsgesetz, SPG) vom 6. März 2001[^ingress-1] und § 13 Abs. 2 des Gesetzes über die Organisation des Regierungsrates und der kantonalen Verwaltung (Organisationsgesetz) vom 26. März 1985[^ingress-2],
 
 beschliesst:
 
@@ -458,6 +458,114 @@ beschliesst:
 
 <sup>2</sup> Der Kantonale Sozialdienst, das MIKA und die Polizei sind befugt, die für die Erhebungen des Bundesamtes für Migration notwendigen Daten zu erheben und dorthin weiterzuleiten. Sie können gestützt auf die Daten Auswertungen zum Zweck der Planung und Prüfung ihrer Tätigkeiten vornehmen.
 
+#### § 19f
+
+**Observation; Anordnung (§ 19c SPG)**
+
+<sup>1</sup> Die Anordnung einer Observation erfolgt schriftlich.
+
+<sup>2</sup> Sie hält die im betroffenen Einzelfall vorliegenden konkreten Anhaltspunkte gemäss § 19c Abs. 1 lit. a SPG fest und führt aus, ob die Voraussetzung gemäss § 19c Abs. 1 lit. b SPG im konkreten Einzelfall erfüllt ist.
+
+#### § 19g
+
+**Eignung der durchführenden Person (§ 19c SPG)**
+
+<sup>1</sup> Die für die Durchführung der Observation zuständige Person ist geeignet, wenn sie
+
+- a) die persönlichen und fachlichen Anforderungen gemäss Absatz 2 und 3 erfüllt, oder
+- b) über die Bewilligung des Bundesamts für Sozialversicherungen (BSV) gemäss Art. 7a ff. der Verordnung über den Allgemeinen Teil des Sozialversicherungsrechts (ATSV) vom 11. September 2002[^19g-1] zur Durchführung von Observationen verfügt und Absatz 4 erfüllt.
+
+<sup>2</sup> Die persönlichen Anforderungen sind erfüllt, wenn
+
+- a) im Privatauszug der durchführenden Person gemäss Art. 41 des Bundesgesetzes über das Strafregister-Informationssystem VOSTRA (Strafregistergesetz, StReG) vom 17. Juni 2016[^19g-2] kein Delikt aufgeführt ist, das einen Bezug zur Tätigkeit (Durchführung der Observation) erkennen lässt; die durchführende Person weist dies mit Vorlage des Privatauszugs nach, und
+- b) gegen die durchführende Person keine hängigen Strafverfahren und keine hängigen oder in den letzten zehn Jahren abgeschlossenen Zivilverfahren wegen einer Persönlichkeitsverletzung gemäss den Art. 28–28b des schweizerischen Zivilgesetzbuchs vom 10. Dezember 1907[^19g-3] vorliegen, die einen Bezug zur Tätigkeit (Durchführung der Observation) erkennen lassen und die Gewähr für eine einwandfreie Ausübung dieser Tätigkeit und den guten Ruf beeinträchtigen können; die durchführende Person legt eine entsprechende schriftliche Erklärung vor, und
+- c) gegen die durchführende Person keine Verlustscheine bestehen; die durchführende Person weist dies mit Registerauszügen des Betreibungs- und Konkursamts aller Wohnorte der letzten zehn Jahre nach.
+
+<sup>3</sup> Die fachlichen Anforderungen sind mit Vorlage des entsprechenden Nachweises erfüllt, wenn die durchführende Person in Kenntnis über die Observationsbestimmungen des kantonalen Sozialhilferechts ist und
+
+- a) eine polizeiliche Ausbildung oder eine andere gleichwertige Observationsaus- oder -weiterbildung erfolgreich absolviert hat und dabei auch die für die rechtskonforme Durchführung der Observation erforderlichen Rechtskenntnisse erworben hat, und
+- b) in den letzten fünf Jahren mindestens zwölf sozialversicherungsrechtliche und/oder sozialhilferechtliche Observationen durchgeführt hat.
+
+<sup>4</sup> Die Inhaberin oder der Inhaber der Bewilligung gemäss Absatz 1 lit. b ist in Kenntnis über die Observationsbestimmungen des kantonalen Sozialhilferechts. Zudem bestätigt die Inhaberin oder der Inhaber, dass bezüglich der eigenen Bewilligung kein Verfahren gemäss Art. 7e ATSV (Meldung wesentlicher Änderungen und Bewilligungsentzug) hängig ist.
+
+<sup>5</sup> Die Sozialbehörde stellt sicher, dass die durchführende Person die Anforderungen in persönlicher und fachlicher Hinsicht erfüllt. Dies gilt auch für den Fall, dass sie geeignete Dritte mit der Observation beauftragt.
+
+[^19g-1]: SR [830.11](https://db.clex.ch/link/Bund/830.11/de)
+[^19g-2]: SR [330](https://db.clex.ch/link/Bund/330/de)
+[^19g-3]: SR [210](https://db.clex.ch/link/Bund/210/de)
+
+#### § 19h
+
+**Ort der Observation (§ 19c SPG)**
+
+<sup>1</sup> Als allgemein zugänglicher Ort gilt öffentlicher oder privater Grund und Boden, bei dem in der Regel geduldet wird, dass die Allgemeinheit ihn betritt.
+
+<sup>2</sup> Ein Ort gilt als nicht von einem allgemein zugänglichen Ort aus frei einsehbar, wenn er zur geschützten Privatsphäre der zu observierenden Person gehört, insbesondere
+
+- a) das Innere eines Wohnhauses, einschliesslich die von aussen durch ein Fenster einsehbaren Räume,
+- b) unmittelbar zu einem Haus gehörende umfriedete Plätze, Höfe und Gärten, die üblicherweise Blicken von aussen entzogen sind.
+
+#### § 19i
+
+**Mittel der Observation (§ 19c SPG)**
+
+<sup>1</sup> Für Bildaufzeichnungen dürfen keine Instrumente eingesetzt werden, die das natürliche menschliche Wahrnehmungsvermögen wesentlich erweitern, namentlich keine Nachtsichtgeräte.
+
+<sup>2</sup> Für Tonaufzeichnungen dürfen keine Instrumente eingesetzt werden, die das natürliche menschliche Hörvermögen erweitern, namentlich keine Wanzen, Richtmikrofone und Tonverstärkungsgeräte.
+
+<sup>3</sup> Tonaufzeichnungen des nicht öffentlich gesprochenen Wortes dürfen nicht verwertet werden; sind diese Aufzeichnungen in Bildaufzeichnungen enthalten, sind die Bildaufzeichnungen ohne die Tonaufzeichnungen dennoch verwertbar.
+
+<sup>4</sup> Der Einsatz von Fluggeräten wie zum Beispiel Drohnen ist nicht erlaubt.
+
+#### § 19j
+
+**Verlängerung der Observationsdauer (§ 19c SPG)**
+
+<sup>1</sup> Soll die Observationsdauer verlängert werden, reicht die Gemeinde beim Kantonalen Sozialdienst ein Gesuch ein mit Antrag auf Genehmigung der Verlängerung samt
+
+- a) Angaben zu der von der Observation betroffenen Person,
+- b) erfolgter schriftlicher Anordnung gemäss § 19f Abs. 1,
+- c) Angaben zu der durchführenden Person der bereits erfolgten und der künftigen Observation sowie der Eignung der Person,
+- d) Angaben zum Ort der bereits erfolgten Observation,
+- e) Angaben zu den bereits eingesetzten Mitteln der Observation,
+- f) Angabe der Anzahl Verlängerungstage und
+- g) Begründung, weshalb die Observation zu verlängern ist.
+
+<sup>2</sup> Das vollständige Gesuch hat spätestens fünf Arbeitstage vor Ablauf der 30-tägigen Observationsdauer beim Kantonalen Sozialdienst einzutreffen. Auf verspätet oder unvollständig eingereichte Gesuche wird nicht eingetreten.
+
+<sup>3</sup> Der Kantonale Sozialdienst genehmigt die Verlängerung, wenn die bereits erfolgte und die künftige Observation die Zulässigkeitsvoraussetzungen erfüllen und die Begründung gemäss Absatz 1 lit. g die Verlängerung rechtfertigt.
+
+<sup>4</sup> Er kann weniger als die beantragten Verlängerungstage genehmigen.
+
+#### § 19k
+
+**Mitteilung an betroffene Person (§ 19c SPG)**
+
+<sup>1</sup> Die Mitteilung an die betroffene Person gemäss § 19c Abs. 7 SPG erfolgt innerhalb von 30 Tagen nach Abschluss der durchgeführten Observation.
+
+#### § 19l
+
+**Aufbewahrung und Vernichtung des Observationsmaterials (§ 19d SPG)**
+
+<sup>1</sup> Sind im Observationsmaterial Personendaten unbeteiligter Dritter erfasst, sind diese zu löschen oder zu anonymisieren.
+
+<sup>2</sup> Das Observationsmaterial ist innerhalb von 100 Tagen nach Rechtskraft des Entscheids (§ 19c Abs. 6 SPG) beziehungsweise nach Versand der schriftlichen Mitteilung (§ 19c Abs. 7 SPG) zu löschen, soweit es nicht weiterhin für ein Verwaltungs-, Straf- oder Zivilverfahren benötigt wird.
+
+#### § 19m
+
+**Berichterstattung (§ 19e SPG)**
+
+<sup>1</sup> Die schriftliche Berichterstattung erfolgt jährlich und ist jeweils elektronisch bis zum 31. März des Folgejahres einzureichen. Der Kantonale Sozialdienst stellt den Gemeinden ein entsprechendes Formular zur Verfügung.
+
+<sup>2</sup> Sie enthält folgende Angaben:
+
+- a) Anzahl der angeordneten Observationen,
+- b) Anzahl der durchgeführten Observationen,
+- c) Grund, eingesetzte Mittel, Dauer und allfällige Verlängerung jeder durchgeführten Observation sowie die dabei gemachten Feststellungen und die getroffenen Konsequenzen für die Sozialhilfeleistungen,
+- d) für jede durchgeführte Observation Name der Dritten, sofern diese von der Gemeinde für die Durchführung beauftragt wurden,
+- e) erhobene Rechtsmittel gegen die Observation, Stand und, sofern bereits bekannt, Ausgang des Verfahrens und
+- f) für jede durchgeführte Observation die Kosten der Observation sowie die Einsparungen bei den Sozialhilfeleistungen, welche die Gemeinde aufgrund der Observation erzielt hat.
+
 ## 3. Rückerstattung
 
 #### § 20
@@ -580,16 +688,28 @@ beschliesst:
 
 ### 4.3. Inkassohilfe
 
+#### § 25a
+
+**Notwendige Fachkenntnisse (§ 31 SPG)**
+
+<sup>1</sup> Fachkenntnisse gemäss § 31 Abs. 2<sup>bis</sup> und 2<sup>ter</sup> lit. a SPG liegen namentlich vor, wenn die Inkassohilfe leistende Person
+
+- a) eine Aus- oder Weiterbildung im Bereich Inkassohilfe absolviert hat oder berufsbegleitend absolviert, oder
+- b) seit mindestens zwei Jahren mit einem Pensum von mindestens 50 Stellenprozent im Bereich Inkassohilfe tätig ist, oder
+- c) über eine gleichwertige Qualifikation verfügt.
+
 #### § 26
 
-**Kostenbeteiligung und Gebühr (§ 31 SPG)**
+**Erforderliche Mittel für Kostenbeteiligung und Kostentragung (§ 31 SPG)**
 
-<sup>1</sup> Gute finanzielle Verhältnisse liegen vor, wenn die zur Bevorschussung von Unterhaltsbeiträgen berechtigenden Grenzbeträge gemäss § 27 dieser Verordnung überschritten werden in Bezug auf
+<sup>1</sup> Die erforderlichen Mittel gemäss § 31 Abs. 3 lit. b und Abs. 3<sup>bis</sup> SPG liegen vor, wenn die Grenzbeträge gemäss § 27 überschritten werden in Bezug auf
 
 - a) das Reinvermögen,
 - b) die Einkünfte um 20 %.
 
-<sup>2</sup> Die Gebühr beträgt Fr. 800.– für das ganze Jahr. Ist der Aufwand im Einzelfall nur geringfügig, kann die Gebühr angemessen reduziert werden.
+<sup>1<sup>bis</sup></sup> Die Grenzbeträge gemäss § 27 sind sinngemäss auf alle unterhaltsberechtigten Personen anwendbar. Im Übrigen gilt Absatz 1.
+
+<sup>2</sup> Die Kostenbeteiligung gemäss § 31 Abs. 3 lit. b SPG beträgt Fr. 800.– für das ganze Jahr. Ist der Bearbeitungsaufwand im Einzelfall nur geringfügig, kann die Kostenbeteiligung angemessen reduziert werden.
 
 <sup>3</sup> …
 
@@ -660,7 +780,7 @@ beschliesst:
 <sup>1</sup> Das Gesuch um Bevorschussung erfolgt schriftlich und muss sämtliche zur Bemessung der Leistungen erforderlichen Angaben über die persönlichen und wirtschaftlichen Verhältnisse samt den dazu gehörigen Unterlagen enthalten. Der Kantonale Sozialdienst stellt den Gemeinden hierzu ein entsprechendes Formular zur Verfügung. Dem Gesuch sind zwingend beizulegen:
 
 - a) der Rechtstitel mit einer Vollstreckbarkeitsbescheinigung der zuständigen Stelle;
-- b) eine auf Kosten der gesuchstellenden Person beglaubigte Übersetzung des ausländischen Rechtstitels;
+- b) …
 - c) eine Aufstellung über die ausstehenden Unterhaltsbeiträge;
 - d) Unterlagen über die Einkommens- und Vermögensverhältnisse;
 - e) die Adresse des unterhaltsbeitragspflichtigen Elternteils, sofern diese bekannt ist.
@@ -731,7 +851,7 @@ beschliesst:
 
 <sup>1</sup> Als Fall gemäss § 47 Abs. 3 SPG (kostenintensiver Sozialhilfefall) gilt die Ausrichtung von Leistungen gemäss § 47 Abs. 1 lit. a, b und e SPG an eine Person beziehungsweise eine Unterstützungseinheit innerhalb eines Kalenderjahres.
 
-<sup>2</sup> Als Nettokosten gemäss § 47 Abs. 3 SPG gelten die innerhalb eines Kalenderjahres ausgerichteten Leistungen gemäss § 47 Abs. 1 lit. a, b und e SPG abzüglich der im gleichen Zeitraum eingegangenen Zahlungen, insbesondere Rückerstattungen, Rückzahlungen oder Kostenersatz.
+<sup>2</sup> Als Nettokosten gemäss § 47 Abs. 3 SPG gelten die innerhalb eines Kalenderjahres ausgerichteten Leistungen gemäss § 47 Abs. 1 lit. a, b und e SPG abzüglich der dieselben Leistungen betreffenden Einnahmen, insbesondere Rückerstattungen, Rückzahlungen oder Kostenersatz. Massgebend für die Zuordnung von erbrachten Leistungen zu einem Kalenderjahr ist deren Fälligkeit.
 
 <sup>3</sup> Als Unterstützungseinheit gelten Einzelpersonen, Ehepaare sowie Familien im gleichen Haushalt. In Bezug auf einen kostenintensiven Sozialhilfefall gemäss Absatz 1 sind Eltern und deren fremdplatzierte minderjährige Kinder einer Unterstützungseinheit gleichgestellt, sofern deren Unterstützungswohnsitze in derselben Gemeinde liegen. Nicht zur Unterstützungseinheit gehören insbesondere volljährige Kinder mit eigenem Unterstützungsbudget, Personen in einer Wohn- und Lebensgemeinschaft sowie Einzelpersonen im Haushalt einer Unterstützungseinheit.
 
@@ -739,7 +859,7 @@ beschliesst:
 
 **Kostenintensive Sozialhilfefälle; Verfahren**
 
-<sup>1</sup> Die Gemeinde meldet Fälle gemäss § 47 Abs. 3 SPG spätestens bis zum 31. März des Folgejahres dem Kantonalen Sozialdienst auf dem von diesem zur Verfügung gestellten Formular.
+<sup>1</sup> Die Gemeinde meldet Fälle unter Angabe der Nettokosten gemäss § 32 Abs. 2 spätestens bis zum 31. März des Folgejahres dem Kantonalen Sozialdienst auf dem von diesem zur Verfügung gestellten Formular.
 
 <sup>2</sup> Die Gemeinde meldet nachträgliche Rückerstattungen gemäss § 47 Abs. 4 SPG umgehend, jedoch spätestens bis zum 31. März des Folgejahres, dem Kantonalen Sozialdienst auf dem von diesem zur Verfügung gestellten Formular.
 
@@ -753,14 +873,15 @@ beschliesst:
 
 **Kostentragung durch den Kanton; Verfahren (§ 51 SPG)**
 
-<sup>1</sup> Für Flüchtlinge gilt § 47 Abs. 2 SPG sinngemäss, solange der Bund dem Kanton Abgeltungen leistet.
+<sup>1</sup> Für Flüchtlinge gelten die §§ 47 Abs. 2 und 51 Abs. 5 SPG sinngemäss, solange der Bund dem Kanton Abgeltungen leistet.
 
-<sup>2</sup> Für die vom Kanton gemäss § 51 Abs. 1 lit. b, c und d SPG voll zu vergütenden Sozialhilfekosten stellen die Gemeinden dem Kantonalen Sozialdienst vierteljährlich innert 60 Tagen nach Quartalsende Rechnung.
+<sup>2</sup> Die Gemeinde stellt dem Kantonalen Sozialdienst für Flüchtlinge sowie für die vom Kanton gemäss § 51 Abs. 1 lit. b, c und d SPG voll zu vergütenden Sozialhilfekosten innert drei Monaten nach Quartalsende Rechnung. Massgebend für die Zuordnung der erbrachten Leistungen zu einem Quartal ist deren Fälligkeit.
 
-<sup>3</sup> Die Gemeinde ist verpflichtet, jene Fälle, in denen der Kanton die Kosten trägt, dem Kantonalen Sozialdienst umgehend zu melden. Dieser stellt für die Meldung ein entsprechendes Formular zur Verfügung. Meldepflichtig sind insbesondere geleistete Unterstützungen an:
+<sup>2<sup>bis</sup></sup> In Fällen, in denen der Anspruch auf Kostenersatz noch nicht feststeht, beginnt die Verwirkungsfrist gemäss Absatz 2 erst mit Vorliegen eines vollstreckbaren Entscheids zu laufen. Dies gilt insbesondere bei ungeklärtem Unterstützungswohnsitz oder ungeklärtem aufenthaltsrechtlichen Status der betroffenen Person.
 
-- a) Personen ohne Unterstützungswohnsitz;
-- b) Personen, die in den Anwendungsbereich internationaler Abkommen fallen.
+<sup>2<sup>ter</sup></sup> In Fällen, in denen eine sozialhilfebeziehende Person gemäss Absatz 2 eine Rechnung erst nach Eintritt der Fälligkeit bei der Gemeinde einreicht, ist das Zahlungsdatum der Gemeinde massgebend für die Zuordnung der erbrachten Leistung zu einem Quartal.
+
+<sup>3</sup> …
 
 #### § 35
 
@@ -830,17 +951,11 @@ beschliesst:
 
 #### § 41
 
-**Übergangsrecht (§ 60 SPG)**
-
-<sup>1</sup> Die Geltendmachung von Ansprüchen auf Rückerstattung, Unterhalt und Verwandtenunterstützung im Sinne von § 60 Absatz 4 SPG richtet sich materiell nach den §§ 7 beziehungsweise 20 ff. SPG. Die Zuständigkeit liegt beim Kantonalen Sozialdienst. Die Gemeinde, welche Zahlungen erhält, auf die der Kanton Anspruch hat, meldet diese dem Kanton.
-
-<sup>2</sup> Nach Ablauf der Übergangsfrist von 5 Jahren übergibt der Kantonale Sozialdienst die Akten der jeweils zuständigen Gemeinde. Verfahren, in denen der Kantonale Sozialdienst im Zeitpunkt des Übergangs bereits verfügt hat beziehungsweise die prozessual rechtshängig, aber noch nicht rechtskräftig sind, werden vom Kantonalen Sozialdienst zu Ende betreut.
+**…**
 
 #### § 41a
 
-**Übergangsrecht der Änderung vom 4. August 2004**
-
-<sup>1</sup> Die §§ 19a–19e gelten auch für die Nothilfe an Personen, auf deren Asylgesuch vor dem Inkrafttreten dieser Bestimmungen nicht eingetreten wurde.
+**…**
 
 #### § 41b
 
@@ -850,9 +965,7 @@ beschliesst:
 
 #### § 41c
 
-**Übergangsrecht der Änderung vom 26. Oktober 2016**
-
-<sup>1</sup> Die Gemeinden sind verpflichtet, die SKOS-Richtlinien in der Fassung vom 1. Januar 2017 ab 1. April 2017 anzuwenden.
+**…**
 
 #### § 42
 
