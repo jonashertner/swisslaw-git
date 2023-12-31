@@ -3,20 +3,20 @@ canton: FR
 number: "124.21"
 title: Ordonnance concernant la Feuille officielle
 language: fr
-version: 2023-01-01
-valid_until: 2023-12-31
-version_adopted: 2022-11-14
+version: 2024-01-01
+valid_until: 2025-03-31
+version_adopted: 2023-12-12
 adopted: 2010-12-21
 in_force: 2011-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/124.21"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7640/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7982/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
 
 # Ordonnance concernant la Feuille officielle
 
-du 21.12.2010 (version entrée en vigueur le 01.01.2023)
+du 21.12.2010 (version entrée en vigueur le 01.01.2024)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -34,7 +34,11 @@ Arrête:
 
 **Forme**
 
-<sup>1</sup> La Feuille officielle fait l'objet d'une publication sur papier ainsi que d'une publication sous forme électronique.
+<sup>1</sup> La Feuille officielle est publiée sous les formes suivantes:
+
+- a) en ligne sur internet;
+- b) au format PDF sur internet également;
+- c) sur papier.
 
 #### Art. 2
 
@@ -42,7 +46,7 @@ Arrête:
 
 <sup>1</sup> La Feuille officielle contient la publication des décisions et communications des autorités cantonales ainsi que des actes ou communications des autres autorités prescrits par la loi ou justifiés par un intérêt général suffisant; elle contient également de la publicité.
 
-<sup>2</sup> Sous réserve des limites fixées par la législation sur la protection des données, le contenu de la publication sous forme électronique est identique à celui de la publication sur papier.
+<sup>2</sup> Le contenu de la publication sur papier est identique à celui de la publication au format électronique.
 
 #### Art. 3
 
@@ -53,6 +57,8 @@ Arrête:
 - a) touchant le domaine politique, qu'il s'agisse d'élections, de votations ou de toute autre question;
 - b) contraires aux lois et règlements en vigueur;
 - c) contraires aux bonnes mœurs, à la décence ou à l'ordre public.
+
+<sup>2</sup> Les annonces publicitaires ne peuvent être publiées que dans la version imprimée et dans la version PDF.
 
 #### Art. 4
 
@@ -73,34 +79,49 @@ Arrête:
 <sup>1</sup> Les prix pour la Feuille officielle sont les suivants:
 
 - a) Abonnement annuel papier: Fr. 97
-- b) Abonnement annuel numérique (version électronique + version e-paper): Fr. 78
-- c) Abonnement annuel combiné (papier + numérique): Fr. 97
-- d) Vente au numéro individuel de la version papier: Fr. 2
+- b) …
+- c) …
+- d) …
 
 <sup>2</sup> Le prix à payer pour les insertions dans la Feuille officielle est fixé en accord avec la Chancellerie d'Etat.
 
-<sup>3</sup> Le prix de vente des autres publications officielles est fixé par la Chancellerie d'Etat. Pour le Bulletin officiel des séances du Grand Conseil, il l'est sur la proposition du Secrétariat du Grand Conseil.
+<sup>3</sup> Le prix de vente des autres publications officielles est fixé par la Chancellerie d'Etat.
 
 #### Art. 4c
 
 **Gratuité**
 
-<sup>1</sup> Obtiennent d'office un abonnement gratuit à la Feuille officielle:
+<sup>1</sup> Obtiennent, sur demande, un abonnement gratuit à la Feuille officielle sous forme imprimée:
 
-- a) les communes du canton ainsi que l'Association des communes fribourgeoises;
-- b) les préfectures et l'Autorité cantonale de la transparence, de la protection des données et de la médiation;
-- c) les autorités judiciaires du canton.
+- a) les autorités judiciaires du canton;
+- b) les préfectures;
+- c) les communes.
 
-<sup>2</sup> Obtiennent, sur demande, un abonnement gratuit à la Feuille officielle:
+#### Art. 4d
 
-- a) les membres du Conseil d'Etat et du Grand Conseil;
-- b) le Secrétariat du Grand Conseil;
-- c) les personnes du canton élues aux Chambres fédérales;
-- d) les associations de communes et les agglomérations;
-- e) la Chancellerie fédérale, les tribunaux fédéraux et les offices fédéraux intéressés;
-- f) les universités suisses.
+**Protection des données**
 
-<sup>3</sup> Les Directions et leurs unités administratives reçoivent, sur demande, un abonnement numérique gratuit.
+<sup>1</sup> Une publication contenant des données personnelles ne doit pas être accessible en ligne au delà du délai défini par l'organe qui l'a effectuée.
+
+<sup>2</sup> Chaque édition de la Feuille officielle au format PDF est accessible sur internet durant les 3 mois qui suivent sa parution; elle en est ensuite retirée. La fonction de recherche du site de la Feuille officielle ne doit pas s'étendre au contenu du fichier PDF.
+
+<sup>3</sup> Les requêtes ou contestations relatives au traitement de données personnelles dans la Feuille officielle doivent être adressées à l'organe qui a fait procéder à leur publication ou, à défaut, à la Chancellerie d'Etat.
+
+#### Art. 4e
+
+**Mesures de sécurité**
+
+<sup>1</sup> La Chancellerie d'Etat détermine quels organes sont habilités à effectuer des publications dans la Feuille officielle en ligne et ont ainsi un accès au système de rédaction et de gestion des publications.
+
+<sup>2</sup> L'intégrité et l'authenticité de la Feuille officielle électronique sont assurées notamment par:
+
+- a) l'utilisation d'un protocole de transfert hypertexte sécurisé (https);
+- b) la sécurisation de l'accès au système de rédaction et de gestion des publications dans la Feuille officielle par une procédure de contrôle des accès.
+
+<sup>3</sup> Les données publiées dans la Feuille officielle doivent:
+
+- a) être hébergées exclusivement en Suisse;
+- b) être copiées sur des supports de données appartenant à l'Etat dans un format permettant leur réutilisation et leur versement aux archives historiques.
 
 #### Art. 5
 

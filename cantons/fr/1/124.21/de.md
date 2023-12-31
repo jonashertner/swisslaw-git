@@ -3,20 +3,20 @@ canton: FR
 number: "124.21"
 title: Verordnung über das Amtsblatt
 language: de
-version: 2023-01-01
-valid_until: 2023-12-31
-version_adopted: 2022-11-14
+version: 2024-01-01
+valid_until: 2025-03-31
+version_adopted: 2023-12-12
 adopted: 2010-12-21
 in_force: 2011-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/124.21"
-pdf: "https://bdlf.fr.ch/api/de/versions/7640/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7982/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über das Amtsblatt
 
-vom 21.12.2010 (Fassung in Kraft getreten am 01.01.2023)
+vom 21.12.2010 (Fassung in Kraft getreten am 01.01.2024)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -34,7 +34,11 @@ beschliesst:
 
 **Form**
 
-<sup>1</sup> Das Amtsblatt wird auf Papier und in elektronischer Form herausgegeben.
+<sup>1</sup> Das Amtsblatt wird in den folgenden Formen veröffentlicht:
+
+- a) online im Internet;
+- b) im PDF-Format ebenfalls im Internet;
+- c) auf Papier.
 
 #### Art. 2
 
@@ -42,7 +46,7 @@ beschliesst:
 
 <sup>1</sup> Im Amtsblatt werden Entscheide und Mitteilungen der Kantonsbehörden und Erlasse und Mitteilungen weiterer Behörden veröffentlicht, soweit dies vom Gesetz vorgeschrieben oder durch ein genügendes allgemeines Interesse gerechtfertigt ist; es enthält auch Werbung.
 
-<sup>2</sup> Die Veröffentlichung in elektronischer Form und die Papierversion sind identisch; Einschränkungen gemäss der Gesetzgebung über den Datenschutz bleiben vorbehalten.
+<sup>2</sup> Die Veröffentlichung in elektronischer Form und die Papierversion sind identisch.
 
 #### Art. 3
 
@@ -53,6 +57,8 @@ beschliesst:
 - a) zum Politikbereich gehören, unabhängig davon, ob es um Wahlen, Abstimmungen oder irgendeine andere Frage geht;
 - b) gegen die geltenden Gesetze und Reglemente verstossen;
 - c) gegen die Sitten, den Anstand und die öffentliche Ordnung verstossen.
+
+<sup>2</sup> Werbeanzeigen können nur in der gedruckten und in der PDF-Version veröffentlicht werden.
 
 #### Art. 4
 
@@ -73,34 +79,49 @@ beschliesst:
 <sup>1</sup> Die Preise für das Amtsblatt sind:
 
 - a) Jahresabonnement Papier: 97 Franken
-- b) Jahresabonnement digital (elektronische Version + E-Paper): 78 Franken
-- c) kombiniertes Jahresabonnement (Papier + digital): 97 Franken
-- d) Einzelnummer Papier: 2 Franken
+- b) …
+- c) …
+- d) …
 
 <sup>2</sup> Der Preis für die Veröffentlichung von Texten im Amtsblatt wird mit der Zustimmung der Staatskanzlei festgelegt.
 
-<sup>3</sup> Die Staatskanzlei legt den Preis der übrigen amtlichen Veröffentlichungen fest. Für das Amtliche Tagblatt der Sitzungen des Grossen Rates wird er auf Antrag des Sekretariats des Grossen Rates festgelegt.
+<sup>3</sup> Die Staatskanzlei legt den Preis der übrigen amtlichen Veröffentlichungen fest.
 
 #### Art. 4c
 
 **Unentgeltlichkeit**
 
-<sup>1</sup> Ein Gratisabonnement des Amtsblatts erhalten von Amts wegen:
+<sup>1</sup> Ein Gratisabonnement des Amtsblatts in gedruckter Form erhalten auf Verlangen:
 
-- a) die Gemeinden des Kantons und der Freiburger Gemeindeverband;
-- b) die Oberämter und die kantonale Behörde für Öffentlichkeit, Datenschutz und Mediation;
-- c) die Gerichtsbehörden des Kantons.
+- a) die Gerichtsbehörden des Kantons;
+- b) die Oberämter;
+- c) die Gemeinden.
 
-<sup>2</sup> Ein Gratisabonnement des Amtsblatts erhalten auf Verlangen:
+#### Art. 4d
 
-- a) die Mitglieder des Staatsrats und des Grossen Rates;
-- b) das Sekretariat des Grossen Rates;
-- c) die freiburgischen National‑ und Ständerätinnen und ‑räte;
-- d) die Gemeindeverbände und die Agglomerationen;
-- e) die Bundeskanzlei, die eidgenössischen Gerichte und die interessierten Bundesämter;
-- f) die schweizerischen Universitäten.
+**Datenschutz**
 
-<sup>3</sup> Die Direktionen und ihre Verwaltungseinheiten erhalten auf Verlangen ein kostenloses digitales Jahresabonnement.
+<sup>1</sup> Eine Veröffentlichung, die Personendaten enthält, darf nicht länger online zugänglich sein, als bis zum Ablauf der Frist, die vom Organ, das die Veröffentlichung vorgenommen hat, festgelegt wurde.
+
+<sup>2</sup> Jede Ausgabe des Amtsblattes im PDF-Format ist während drei Monaten nach ihrem Erscheinen im Internet zugänglich und wird danach aus dem Internet entfernt. Die Suchfunktion der Website des Amtsblatts darf nicht auf die PDF-Datei ausgedehnt werden.
+
+<sup>3</sup> Gesuche oder Streitigkeiten, welche die Bearbeitung von Personendaten im Amtsblatt betreffen, müssen an das Organ, das die Veröffentlichung veranlasst hat, oder ansonsten an die Staatskanzlei gerichtet werden.
+
+#### Art. 4e
+
+**Sicherheitsmassnahmen**
+
+<sup>1</sup> Die Staatskanzlei legt fest, welche Organe berechtigt sind, Veröffentlichungen im Online-Amtsblatt zu veranlassen, und somit Zugang zum Redaktions- und Verwaltungssystem für Veröffentlichungen haben.
+
+<sup>2</sup> Die Integrität und Authentizität des elektronischen Amtsblatts wird insbesondere gewährleistet durch:
+
+- a) die Verwendung eines gesicherten Hypertext-Übertragungsprotokolls (https);
+- b) die Sicherung des Zugriffs auf das Redaktions- und Verwaltungssystem für die Veröffentlichungen im Amtsblatt über ein Zugangskontrollverfahren.
+
+<sup>3</sup> Die im Amtsblatt veröffentlichten Daten müssen:
+
+- a) ausschliesslich in der Schweiz gehostet werden;
+- b) in einem Format, mit dem sie wiederverwendet und an das historische Archiv abgeliefert werden können, auf Datenträger, die dem Staat gehören, kopiert werden.
 
 #### Art. 5
 
