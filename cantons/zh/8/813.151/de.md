@@ -4,10 +4,9 @@ number: "813.151"
 title: Statut des Universitätsspitals Zürich (USZ-Statut)
 short: USZ-Statut
 language: de
-nachtrag: "105"
-valid_until: 2024-01-01
+nachtrag: "124"
 adopted: 2023-08-23
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-813_151-2018_11_07-2019_05_01-105.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-813_151-2023_08_23-2024_01_01-124.html"
 text: pdf
 ---
 
@@ -15,17 +14,16 @@ text: pdf
 
 # Statut des Universitätsspitals Zürich (USZ-Statut)
 
-(vom 7. November 2018)[^t-1],[^t-2]
+(vom 23. August 2023)[^t-1]
 
 Der Spitalrat des Universitätsspitals Zürich,
 
-gestützt auf § 11 Abs. 3 Ziff. 7 des Gesetzes über das Universitätsspital Zürich (USZG) vom 19. September 2005[^t-3],
+gestützt auf § 11 e Abs. 1 des Gesetzes über das Universitätsspital Zürich (USZG) vom 19. September 2005[^t-2],
 
 beschliesst:
 
-[^t-1]: OS 74, 190; Begründung siehe ABl 2018-12-07.
-[^t-2]: Inkrafttreten: 1. Mai 2019.
-[^t-3]: LS 813.15.
+[^t-1]: OS 78, 499; ABl 2023-10-27. Vom Regierungsrat genehmigt am 25. Oktober 2023.
+[^t-2]: LS 813.15.
 
 ### A. Allgemeine Bestimmungen
 
@@ -33,21 +31,31 @@ beschliesst:
 
 **Gegenstand**
 
-Dieses Statut regelt die Organisation des Universitätsspitals Zürich und legt die Aufgaben und Befugnisse der verschiedenen Organe sowie die Leitungsstrukturen des Universitätsspitals fest.
+Dieses Statut regelt Zweck, Aufgaben und Organisation des Universitätsspitals Zürich und legt die Aufgaben und Befugnisse seiner Organe, deren Leitungsstruktur sowie die Vertretung des Universitätsspitals nach aussen fest.
 
 #### § 2
 
-**Zweck und Aufgaben des Universitätsspitals**
+**Zweck und Aufgaben**
 
-Das Universitätsspital a. dient der überregionalen medizinischen Versorgung mit Schwergewicht auf der spezialisierten und hochspezialisierten Medizin,
+<sup>1</sup> Das Universitätsspital a. dient der überregionalen medizinischen Versorgung seiner Patientinnen und Patienten mit Schwergewicht auf der spezialisierten und hochspezialisierten Medizin,
 
-- b. unterstützt die Forschung und Lehre der Hochschulen, namentlich der Universität Zürich,
+- b. unterstützt die Forschung und Lehre an den Hochschulen, namentlich der Universität Zürich, und betreibt eigene Forschung und Lehre,
 
-- c. macht Ergebnisse der Forschung und der Entwicklung für die Behandlung der Patientinnen und Patienten nutzbar,
+- c. macht Ergebnisse von Forschung und Entwicklung für die Behandlung der Patientinnen und Patienten nutzbar,
 
-- d. unterstützt die Aus-, Weiter- und Fortbildung in Berufen des Gesundheitswesens,
+- d. erbringt und unterstützt Aus-, Weiter- und Fortbildungsleistungen in Berufen des Gesundheitswesens,
 
-- e. kann eigene Schulen im Gesundheitswesen gemäss § 2 der Verordnung über die Schulen im Gesundheitswesen vom 30. Januar 2002[^2-1] selber oder gemeinsam mit Dritten betreiben.
+- e. kann eigene Schulen im Gesundheitswesen gemäss § 2 der Verordnung über die Schulen im Gesundheitswesen vom 30. Januar 2002[^2-1] selbst oder gemeinsam mit Dritten betreiben,
+
+- f. erfüllt die medizinischen Leistungsaufträge des Kantons Zürich und weiterer Kantone sowie vom Regierungsrat festgelegte weitere Leistungsaufträge,
+
+- g. kann weitere, aus unternehmerischer Sicht sinnvolle und seiner Zweckbestimmung entsprechende Leistungen erbringen, Kooperationen eingehen und spezialgesetzliche Aufgaben übernehmen, sofern dadurch die Erfüllung des kantonalen Leistungsauftrags nicht beeinträchtigt wird.
+
+**1**
+
+- 1\. 4. 24 - 124
+
+<sup>2</sup> Es erbringt seine medizinischen Dienstleistungen stationär und ambulant im Bereich der obligatorischen Sozialversicherung, im Bereich der freiwilligen Zusatzversicherung und für Selbstzahlerinnen und Selbstzahler.
 
 [^2-1]: LS 413.51.
 
@@ -55,293 +63,240 @@ Das Universitätsspital a. dient der überregionalen medizinischen Versorgung mi
 
 **Zusammenarbeit mit Hochschulen**
 
-<sup>1</sup> Das Universitätsspital schafft ein optimales Umfeld für die Ausübung von universitärer Forschung, Lehre und Dienstleistung im Gesundheitsbereich.
+<sup>1</sup> Das Universitätsspital strebt ein optimales Umfeld für die Ausübung von universitärer Forschung und Lehre im Gesundheitsbereich an.
 
-<sup>2</sup> Die Zusammenarbeit mit der Universität Zürich stützt sich auf die Verordnung über die Forschung und Lehre der Universität im Gesundheitsbereich vom 16. April 2003[^3-1] sowie auf den gemäss § 6 Abs. 1 USZG abzuschliessenden Vertrag über Forschungs- und Lehrleistungen des Universitätsspitals.
+<sup>2</sup> Die Zusammenarbeit mit der Universität Zürich stützt sich auf die Verordnung über die Forschung und Lehre der Universität im Gesundheitsbereich vom 16. April 2003[^3-1] und auf den gemäss § 6 Abs. 1 USZG abzuschliessenden Vertrag über Forschungs- und Lehrleistungen des Universitätsspitals.
 
-<sup>3</sup> Das Universitätsspital kann mit der ETH Zürich sowie anderen Universitäten und Fachhochschulen Verträge über die Erbringung von Forschungs- und Lehrleistungen im Gesundheitsbereich abschliessen.
-
-**1**
-
-- 1\. 7. 19 - 105 § 4. <sup>1</sup> Das Dotationskapital und die freien Reserven bilden das Eigenkapital des USZ. Ausgaben können im Rahmen des gesetzlichen Zwecks getätigt werden.
-
-**Dotationskapital und eigene Mittel**
-
-<sup>2</sup> Gemäss § 8 Abs. 3 USZG genehmigt der Kantonsrat die Gewinnverwendung. Bei der Planung der Liquidität geht das USZ von einer Gewinnausschüttung in der Höhe der Selbstkosten des Kantons auf dem Dotationskapital aus.
+<sup>3</sup> Das Universitätsspital kann mit den Eidgenössischen Technischen Hochschulen, anderen Universitäten und Fachhochschulen sowie weiteren Kompetenzzentren Kooperationen eingehen und Verträge über Forschungs- und Lehrkooperationen abschliessen.
 
 [^3-1]: LS 415.16.
 
-### B. Organe und Gremien des Spitals
+#### § 4
+
+**Eigenkapital**
+
+Das Dotationskapital gemäss § 16 Abs. 1 USZG und die freien Reserven bilden das Eigenkapital des Universitätsspitals.
+
+### B. Organe des Universitätsspitals
 
 #### § 5
 
-**Spitalrat a. Allgemein**
+**Spitalrat a. Allgemeines**
 
-<sup>1</sup> Der Spitalrat ist das oberste Führungsorgan des Universitätsspitals. Er ist verantwortlich für die Erfüllung der staatlichen Leistungsaufträge und die strategische Ausrichtung des Universitätsspitals (§ 11 Abs. 1 und 2 USZG).
+<sup>1</sup> Der Spitalrat ist das oberste Führungsorgan des Universitätsspitals.
 
-<sup>2</sup> Die Struktur, die Arbeitsabläufe und die interne Kompetenzordnung des Spitalrates richten sich nach seinem Organisationsreglement.
+<sup>2</sup> Er ist gemäss § 11 USZG verantwortlich für die Erfüllung der Leistungsaufträge, die strategische Ausrichtung des Universitätsspitals und die Umsetzung der Eigentümerstrategie.
+
+<sup>3</sup> Neben den in §§ 11 a–11 e USZG genannten Aufgaben ist der Spitalrat insbesondere zuständig für:
+
+- a. Abschluss von wichtigen Verträgen über die Zusammenarbeit mit Dritten,
+
+- b. Schaffung und Aufhebung von eigenen Schulen im Gesundheitsbereich sowie Abschluss von Verträgen über deren gemeinsamen Betrieb mit Dritten,
+
+- c. Schaffung, Aufhebung und Zusammenzug von Organisationseinheiten, sofern dafür das Einvernehmen mit der Universität Zürich erforderlich ist,
+
+- d. Erlass des Reglements über die Personal- und Finanzkompetenzen am Universitätsspital,
+
+- e. Genehmigung der Geschäftsordnung des Universitätsspitals und des Organisationsreglements der Spitaldirektion,
+
+- f. Erlass des Organisationsreglements des Spitalrates,
+
+- g. Genehmigung einer Regelung über die Organisation des Rechnungswesens,
+
+- h. Genehmigung der Hausordnung,
+
+- i. Genehmigung von weiteren Ausführungsbestimmungen der Spitaldirektion, wo dies ausdrücklich vorgesehen ist,
+
+- j. Behandlung von Begehren auf Feststellung, Schadenersatz oder Genugtuung gegenüber dem Universitätsspital gemäss § 22 Abs. 1 lit. c des Haftungsgesetzes vom 14. September 1969[^5-1],
+
+- k. Geltendmachung von Schadenersatz- und Rückgriffsansprüchen gegen Mitarbeitende des Universitätsspitals gemäss § 18 lit. f des Haftungsgesetzes,
+
+- l. Vertretung des Universitätsspitals nach aussen in politischen und strategischen Angelegenheiten,
+
+- m. Beschlussfassung über den Entwicklungs- und Finanzplan gemäss § 11 a lit. b USZG und über das Budget,
+
+- n. Bewilligung von Ausgaben, die nicht an unterstellte Einheiten delegiert sind,
+
+- o. Entscheid über die Aufnahme von Fremdmitteln,
+
+- p. Bestimmung der Personalpolitik und Beschlussfassung in Personalgeschäften gemäss § 11 c USZG und gemäss Personalreglement USZ[^5-2].
+
+[^5-1]: LS 170.1.
+[^5-2]: LS 813.152.
 
 #### § 6
 
-**b. Aufgaben**
+**b. Organisation**
 
-<sup>1</sup> Der Spitalrat nimmt insbesondere folgende Aufgaben wahr:
+<sup>1</sup> Der Spitalrat kann Ausschüsse bilden. Diese informieren den Spitalrat regelmässig über ihre Tätigkeiten.
 
-- a. im Bereich der Leistungserbringung:
+<sup>2</sup> Er kann Aufgaben an einzelne seiner Mitglieder, seine Ausschüsse und die Spitaldirektion zur selbstständigen Erledigung übertragen und dabei Weisungen erteilen. Vorbehalten bleiben die im Gesetz über das Universitätsspital Zürich genannten nicht delegierbaren Aufgaben des Spitalrates.
 
-- 1\. Abschluss von Leistungsvereinbarungen mit den zuständigen Direktionen des Regierungsrates (§ 11 Abs. 3 Ziff. 1 USZG),
-
-- 2\. Abschluss von Verträgen gemäss § 6 USZG über die Zusammenarbeit mit Hochschulen im Bereich der Forschung und Lehre (§ 11 Abs. 3 Ziff. 2 USZG),
-
-- 3\. Abschluss von Verträgen von strategischer Bedeutung über die Zusammenarbeit mit Dritten im Bereich der klinischen Dienstleistung,
-
-- 4\. Schaffung und Aufhebung von eigenen Schulen im Gesundheitsbereich sowie Abschluss von Verträgen über deren gemeinsamen Betrieb mit Dritten,
-
-- 5\. Festlegen von weiteren Leistungen gemäss § 3 Abs. 3 USZG (§ 11 Abs. 3 Ziff. 9 USZG),
-
-- 6\. Beschluss über Beteiligungen und Auslagerungen sowie Antragstellung zuhanden des Regierungsrates gemäss § 7 USZG,
-
-- 7\. Berichterstattung über die Umsetzung der Eigentümerstrategie (§ 11 Abs. 3 Ziff. 3 USZG),
-
-- 8\. Verabschiedung des Berichts über die Geschäftstätigkeit zuhanden des Regierungsrates und zur Veröffentlichung (§ 11 Abs. 3 Ziff. 5 USZG),
-
-- 9\. Erstellung des Entschädigungsberichts zuhanden des Regierungsrates (§ 9 Ziff. 8 lit. e USZG),
-
-- 10\. Festlegung der Unternehmensstrategie (§ 11 Abs. 3 Ziff. 8 USZG),
-
-- 11\. Genehmigung der Jahresziele der Spitaldirektion,
-
-- 12\. Aufsicht über die mit der Geschäftsführung betrauten Personen (§ 11 Abs. 3 Ziff. 12 USZG),
-
-- 13\. Schaffung eines angemessenen Risikomanagements und eines internen Kontrollsystems (§ 11 Abs. 3 Ziff. 15 USZG),
-
-- 14\. Genehmigung der Investitions- und Immobilienplanung einschliesslich An- und Vermietungen (§ 22 a USZG),
-
-- 15\. Beschlussfassung über die Schaffung, die Aufhebung und den Zusammenzug von Leistungseinheiten, soweit notwendig im Einvernehmen mit der Universität Zürich, im Bereich der Finanzen:
-
-**b.**
-
-- 1\. Erlass des Reglements über die Personal- und Finanzkompetenzen am USZ (PFK),
-
-- 2\. Erlass der Regelung betreffend Organisation des Rechnungswesens am USZ und des Finanzreglements des Universitätsspitals Zürich gemäss § 11 Abs. 3 Ziff. 7 USZG (Handbuch für Rechnungslegung USZ),
-
-- 3\. Genehmigung der Annahme, Ablehnung und Verwendung von Zuwendungen,
-
-- 4\. Antragstellung zuhanden des Regierungsrates für die Erhöhung oder Senkung des Dotationskapitals sowie für die finanziellen Beträge nach § 16 Abs. 2 USZG (§ 11 Abs. 3 Ziff. 4 USZG),
-
-- 5\. Verabschiedung der Jahresrechnung und des Antrags zur Gewinnverwendung oder Verlustdeckung zuhanden des Regierungsrates (§ 11 Abs. 3 Ziff. 5 USZG),
-
-- 6\. Entscheidfassung über die Aufnahme von Fremdmitteln im Rahmen der Eigentümerstrategie (§ 24 USZG), im Bereich des Personalwesens: Aufgaben gemäss Personalreglement des Universitätsspitals Zürich[^6-1];
-
-**c.**
-
-**d.**
-
-im Bereich der Rechtsetzung:
-
-- 1\. Erlass des Spitalstatuts, des Personalreglements und des Finanzreglements (§ 11 Abs. 3 Ziff. 7 USZG),
-
-- 2\. Erlass seines Organisationsreglements (§ 11 Abs. 3 Ziff. 6 USZG),
-
-- 3\. weitere Rechtsetzungsaufgaben,
-
-**3**
-
-- 1\. 7. 19 - 105
-
-- e. im Bereich der Rechtspflege:
-
-- 1\. Überprüfen von Poolreglementen auf Verlangen der Bewilligungsinhaberinnen und -inhaber gemäss § 5 Abs. 4 sowie § 6 Abs. 3 des Gesetzes über die ärztlichen Zusatzhonorare vom 12. Juni 2006[^6-2],
-
-- 2\. Behandlung von Begehren Dritter auf Feststellung, Schadenersatz oder Genugtuung gegenüber dem Universitätsspital gemäss § 22 Abs. 2 des Haftungsgesetzes vom 14. September 1969[^6-3],
-
-- 3\. Geltendmachung von Schadenersatz- und Rückgriffsansprüchen gegen Angestellte des Universitätsspitals (§ 18 lit. f Haftungsgesetz[^6-3],
-
-- 4\. weitere Rechtspflegeaufgaben gemäss diesem Statut.
-
-<sup>2</sup> Der Spitalrat kann unter Vorbehalt der ihm vom Gesetz übertragenen Aufgaben:
-
-- a. Aufgaben an Spitalratsmitglieder oder Ausschüsse des Spitalrates delegieren,
-
-- b. einzelne Geschäfte aus seinem Zuständigkeitsbereich an ihm nachgeordnete Stellen oder einzelne Personen delegieren.
-
-[^6-1]: LS 813.152.
-[^6-2]: LS 813.14.
-[^6-3]: LS 170.1.
+<sup>3</sup> Im Übrigen regelt der Spitalrat seine Organisation, seine Strukturen und die Arbeitsabläufe in einem Organisationsreglement.
 
 #### § 7
 
 **c. Generalsekretariat des Spitalrates**
 
-Der Spitalrat kann ein Generalsekretariat als Geschäftsstelle einsetzen. Diese untersteht direkt der Spitalratspräsidentin oder dem Spitalratspräsidenten.
+Das Generalsekretariat ist die Geschäftsstelle des Spitalrates. Es untersteht der Präsidentin oder dem Präsidenten des Spitalrates.
 
 #### § 8
 
-**Spitaldirektion a. Allgemein**
+**Spitaldirektion a. Allgemeines**
 
-<sup>1</sup> Die Spitaldirektion ist das operative Führungsorgan des Universitätsspitals. Sie wahrt die Ziele und Interessen des Gesamtspitals und ist insbesondere für die Umsetzung der übergeordneten Vorgaben sowie für die Leistungs- und Ressourcenplanung, -steuerung und -kontrolle verantwortlich.
+<sup>1</sup> Die Spitaldirektion ist das oberste operative Führungsorgan des Universitätsspitals. Sie wird vom Spitalrat gemäss § 11 c Abs.1 USZG auf unbestimmte Zeit ernannt.
 
-<sup>2</sup> Der Spitalrat ernennt die Mitglieder der Spitaldirektion auf unbestimmte Zeit. Er bezeichnet unter ihnen die Vorsitzende oder den Vorsitzenden sowie deren oder dessen Stellvertretung.
+**3**
 
-<sup>3</sup> Die Spitaldirektion legt die Organisation, ihre Arbeitsabläufe und ihre interne Kompetenzordnung in einem Organisationsreglement fest. Dieses untersteht der Genehmigung des Spitalrates.
+- 1\. 4. 24 - 124
+
+<sup>2</sup> Sie erfüllt die Ziele und wahrt die Interessen des Gesamtspitals. Insbesondere ist sie für die Umsetzung der übergeordneten Vorgaben sowie die Leistungs- und Ressourcenplanung, -steuerung und -kontrolle verantwortlich.
+
+<sup>3</sup> Der Spitalrat entscheidet, welche weiteren Bereiche neben den in § 12 Abs. 2 USZG genannten in der Spitaldirektion vertreten sind.
 
 #### § 9
 
 **b. Aufgaben**
 
-<sup>1</sup> Die Spitaldirektion nimmt folgende Aufgaben wahr:
+<sup>1</sup> Neben den in § 12 a Abs. 2–4 USZG genannten Aufgaben ist die Spitaldirektion zuständig für:
 
-- a. im Bereich der operativen Führung:
+- a. Sicherstellung der einwandfreien Führung des Spitalbetriebs mit Blick auf die medizinische Versorgungsqualität, die Wirtschaftlichkeit, die Forschung und Lehre sowie die Erfüllung des kantonalen Leistungsauftrags,
 
-- 1\. Sicherstellung einer wirtschaftlichen Betriebsführung (§ 12 Abs. 3 Ziff. 1 USZG),
+- b. Vertretung des Universitätsspitals nach aussen in medizinischen und operativen Angelegenheiten,
 
-- 2\. jährliche Erstellung einer mittelfristigen Planerfolgsrechnung, einer Planbilanz, einer Geldflussrechnung und einer Finanzbedarfsplanung (§ 26 USZG),
+- c. Erlass der Geschäftsordnung des Universitätsspitals und des Organisationsreglements der Spitaldirektion, die vom Spitalrat zu genehmigen sind,
 
-- 3\. jährliche Information des Regierungsrates über die mittelfristige Planerfolgsrechnung und Planbilanz (§ 26 USZG),
+- d. Erlass von weiteren Ausführungsbestimmungen, wobei der Spitalrat sich eine Genehmigung vorbehalten kann,
 
-- 4\. Erstellung einer Investitions- und Immobilienplanung einschliesslich An- und Vermietung sowie Koordination der Immobilien-
+- e. Ernennung und Entlassung der obersten Leiterinnen und Leiter der zentralen Organisationseinheiten,
 
-planung mit jener des Regierungsrates (§ 22 a USZG),
+- f. Vollzug der Spitalratsbeschlüsse, soweit der Spitalrat keine andere Stelle damit betraut hat,
 
-- 5\. Rechnungsführung nach anerkannten, vom Regierungsrat festgelegten Standards (§ 25 USZG),
+- g. Festsetzung der Planerfolgsrechnung und Planbilanz sowie Mitteilung an die Gesundheitsdirektion, soweit hierfür nicht der Spitalrat zuständig ist,
 
-- 6\. Lieferung der Unterlagen für die konsolidierte Jahresrechnung an den Regierungsrat (§ 28 Abs. 1 USZG),
+- h. Festsetzung einer Geldflussrechnung und einer Finanzbedarfsplanung, soweit hierfür nicht der Spitalrat zuständig ist,
 
-- 7\. Erlass einer USZ-Geschäftsordnung, welche die interne Aufbau- und Ablauforganisation sowie die Aufgaben und Kompetenzen innerhalb des Universitätsspitals regelt; die USZ-Geschäftsordnung untersteht der Genehmigung des Spitalrates,
+- i. Festsetzung einer Investitions- und Immobilienplanung in Abstimmung mit der Immobilienplanung des Regierungsrates, soweit hierfür nicht der Spitalrat zuständig ist,
 
-- 8\. interne und externe Kommunikation,
+- j. Aufbereitung der Unterlagen für die konsolidierte Jahresrechnung des Kantons.
 
-- b. Vorbereitung und Antragstellung zu allen Geschäften des Spitalrates, ausgenommen:
+<sup>2</sup> Sie bereitet alle Geschäfte des Spitalrates vor und stellt dazu Antrag, ausgenommen:
 
-- 1\. die Aufsicht über die mit der Geschäftsführung betrauten Personen,
+- a. Personalgeschäfte gemäss § 11 c USZG,
 
-- 2\. die Ernennung des Vorsitzes sowie der weiteren Mitglieder der Spitaldirektion,
+- b. Geschäfte der unmittelbaren Aufsicht gemäss § 11 d Abs. 1 USZG,
 
-- 3\. die Behandlung von Rekursen gegen Anordnungen und Rekursentscheide der Spitaldirektion,
+- c. interne Geschäfte des Spitalrates und Geschäfte, die der Spitalrat gemäss § 12 a Abs. 3 USZG selbst an die Hand genommen hat.
 
-- 4\. die Überprüfung von Poolreglementen,
-
-- 5\. die spitalratsinternen Geschäfte,
-
-- c. Vollzug der Spitalratsbeschlüsse, soweit diese keine anderen Vollzugsstellen bezeichnen,
-
-- d. weitere Aufgaben und Geschäfte, die keinem anderen Organ zugewiesen sind.
-
-<sup>2</sup> Sie kann Teilaufgaben an einzelne Spitaldirektionsmitglieder sowie an ihr nachgeordnete Stellen oder einzelne Personen delegieren. Vorbehalten bleiben die ihr vom Gesetz übertragenen Aufgaben.
-
-<sup>3</sup> Sie kann die Klinik- und Institutsdirektorinnen und -direktoren sowie andere interne oder externe Fachkräfte bei wesentlichen Fragen zur Meinungsbildung beiziehen.
+<sup>3</sup> Sie ist für alle weiteren Geschäfte zuständig, die weder dem Spitalrat noch einer anderen Organisationseinheit übertragen sind.
 
 #### § 10
 
-**Konferenz der Klinik- und Institutsdirektorinnen und -direktoren**
+**c. Vorsitz**
 
-<sup>1</sup> Die Klinik- und Institutsdirektorinnen und -direktoren bilden eine Konferenz (KIDK).
+<sup>1</sup> Die Spitaldirektion wird von einer oder einem Vorsitzenden (CEO) geleitet.
 
-<sup>2</sup> Die KIDK konstituiert sich selbst und gibt sich ein Organisationsreglement. Dieses untersteht der Genehmigung der Spitaldirektion. Mitglieder der Spitaldirektion können weder in den Vorstand noch als Vorsitzende oder Vorsitzender der KIDK gewählt werden.
+<sup>2</sup> Die oder der CEO ist die oder der direkte Vorgesetzte der anderen Mitglieder der Spitaldirektion.
 
-**5**
-
-- 1\. 7. 19 - 105
-
-<sup>3</sup> Die Mitglieder der Spitaldirektion können an den Sitzungen der KIDK teilnehmen.
-
-<sup>4</sup> Die KIDK dient insbesondere der Meinungsbildung der Klinik- und Institutsdirektorinnen und -direktoren und der Findung und Festlegung gemeinsamer Standpunkte in den die Kliniken und Institute übergreifenden Belangen in ihrem Zuständigkeitsbereich.
+<sup>3</sup> Sie oder er vertritt die Spitaldirektion gegenüber dem Spitalrat und nimmt an dessen Sitzungen mit beratender Stimme und Antragsrecht teil.
 
 #### § 11
 
-**Weitere Konferenzen**
+**d. Organisation**
 
-Andere spitalinterne Berufsgruppen können mit Genehmigung der Spitaldirektion ebenfalls Konferenzen bilden. Voraussetzung ist die Schaffung eines Organisationsreglements, das die Spitaldirektion genehmigt.
+<sup>1</sup> Die Spitaldirektion kann Ausschüsse bilden. Diese informieren die Spitaldirektion regelmässig über ihre Tätigkeiten.
+
+<sup>2</sup> Sie kann Aufgaben an einzelne ihrer Mitglieder und Ausschüsse zur selbstständigen Erledigung übertragen. Vorbehalten bleiben die im Gesetz über das Universitätsspital Zürich genannten nicht delegierbaren Aufgaben der Spitaldirektion.
+
+<sup>3</sup> Sie regelt ihre Organisation, Strukturen, Arbeitsabläufe und Kompetenzen in einem Organisationsreglement, das vom Spitalrat zu genehmigen ist.
+
+### C. Organisationsstruktur des Universitätsspitals
 
 #### § 12
 
-**Ombudskommission**
+**Organisationseinheiten**
 
-<sup>1</sup> Der Spitalrat setzt eine Ombudskommission ein mit dem Auftrag, in Konflikten am Universitätsspital zu vermitteln. Sie kann von Mitarbeitenden oder Patientinnen und Patienten angerufen werden.
+<sup>1</sup> Zentrale Organisationseinheiten des Universitätsspitals sind die Direktionsbereiche der Spitaldirektion, die Medizinbereiche, die Kliniken und die Institute. Sie können zu Departementen, Kompetenzzentren oder Plattformen zusammengeschlossen oder in Sektionen und Abteilungen aufgegliedert werden.
 
-<sup>2</sup> Das Recht, die Ombudsperson des Kantons Zürich anzurufen sowie den ordentlichen Rechtsweg zu beschreiten, bleibt gewahrt.
+<sup>2</sup> Die Geschäftsordnung USZ regelt die Struktur, die Aufgaben, die Kompetenzen und die Leitung der zentralen Organisationseinheiten.
 
-<sup>3</sup> Der Spitalrat erlässt ein Reglement über die Ombudskommission.
+<sup>3</sup> Es können weitere Organisationseinheiten gebildet werden.
+
+<sup>4</sup> Jede Organisationseinheit verfügt über ein Organisationsreglement.
+
+<sup>5</sup> Hierarchieübergreifende Doppelfunktionen sind ausgeschlossen.
 
 #### § 13
 
-**Gremien der Spitaldirektion**
+**Leitung a. durch eine Einzelperson**
 
-<sup>1</sup> Die Spitaldirektion kann ständige Gremien wie Kommissionen oder Ausschüsse einsetzen.
+<sup>1</sup> Die Organisationseinheiten des Universitätsspitals werden in der Regel von einer Leiterin oder einem Leiter geführt.
 
-<sup>2</sup> Sie legt deren Organisation, Aufträge und Kompetenzen fest.
+<sup>2</sup> Die Leiterin oder der Leiter ist Vorgesetzte oder Vorgesetzter aller Mitarbeitenden einer Organisationseinheit, einschliesslich der Mitglieder des Leitungsgremiums.
 
-### C. Leistungseinheiten
+<sup>3</sup> Sie oder er untersteht der Leiterin oder dem Leiter der unmittelbar übergeordneten Organisationseinheit.
 
-#### § 14
+**5**
 
-**Kliniken und Institute a. Bestand**
+- 1\. 4. 24 - 124 § 14. <sup>1</sup> Die Geschäftsordnung USZ bezeichnet Organisationseinheiten, die von einem Gremium geleitet werden können, und bestimmt dessen Mitgliederzahl.
 
-<sup>1</sup> Leistungseinheiten des Universitätsspitals im medizinischen Bereich sind die Kliniken und Institute. Diese erbringen diagnostische und therapeutische Leistungen sowie Forschungs- und Lehrleistungen durch verschiedene Berufsgruppen.
+**b. durch ein Gremium**
 
-<sup>2</sup> Mehrere Kliniken und Institute können zu einem Medizinbereich zusammengefasst werden.
+<sup>2</sup> In einem Gremium können auch Angehörige anderer Organisationseinheiten Einsitz nehmen.
 
-<sup>3</sup> Die Kliniken und Institute und ihr Grundauftrag werden durch den Spitalrat bestimmt. Ihre Schaffung und Aufhebung erfolgt dabei im Einvernehmen mit der Universität Zürich.
+### D. Weitere Gremien
 
 #### § 15
 
-**b. Organisation**
+**Berufs- und Standesorganisationen**
 
-Die Grundsätze der Organisation der Kliniken und Institute werden in der USZ-Geschäftsordnung festgelegt. Gestützt darauf erlassen die Kliniken und Institute je eine Klinik- oder Instituts-Geschäftsordnung. Diese unterstehen der Genehmigung der Spitaldirektion.
+<sup>1</sup> Die Angehörigen einer Berufs- oder einer Funktionsgruppe können sich zu einer Berufs- oder Standesorganisation zusammenschliessen.
+
+<sup>2</sup> Die Spitaldirektion kann diese als Organisation am Universitätsspital anerkennen, wenn sie über ein von der Spitaldirektion genehmigtes Organisationsreglement verfügt.
+
+<sup>3</sup> Die Spitaldirektion kann den anerkannten Organisationen ihrem Zweck dienliche Informationen zukommen lassen, sie bei Bedarf zum Austausch und zur Meinungsbildung beiziehen, ihnen finanzielle Beiträge ausrichten und ihnen Räumlichkeiten zur Verfügung stellen.
 
 #### § 16
 
-**c. Klinik- und Institutsdirektorinnen und -direktoren**
+**Personalausschuss a. Allgemeines**
 
-<sup>1</sup> Die Direktorinnen und Direktoren der Kliniken und Institute sind unter Beachtung der Gesetze, Verordnungen, Reglemente und Weisungen insbesondere verantwortlich für:
+<sup>1</sup> Das Universitätsspital verfügt über einen Personalausschuss von 10 bis 15 Mitgliedern.
 
-- a. die wirtschaftliche Betriebsführung der Klinik bzw. des Instituts,
-
-- b. die personelle Führung der ihnen unterstellten Mitarbeitenden,
-
-- c. die Definition und Sicherstellung von adäquaten Behandlungspfaden,
-
-- d. die Forschung und Lehre in ihrem Führungsbereich, einschliesslich der universitären und klinischen Weiter- und Fortbildung, insbesondere gemäss dem Vertrag des Universitätsspitals mit der Universität Zürich.
-
-<sup>2</sup> Sie entscheiden über die Aufnahme und Entlassung der Patientinnen und Patienten. In besonderen Fällen bleibt die Entscheidung der Spitaldirektion vorbehalten.
-
-<sup>3</sup> Sie sind verantwortlich für die ärztliche Untersuchung, Behandlung und Betreuung der in ihrer Verantwortung stehenden Patientinnen und Patienten. Sie entscheiden über die anzuwendenden diagnostischen und therapeutischen Methoden. Sie sind in fachspezifischen Belangen weisungsbefugt gegenüber dem am Behandlungsprozess beteiligten Personal.
+<sup>2</sup> Die Spitaldirektion regelt in einem Reglement die Aufgaben, Rechte und Pflichten des Ausschusses und die Verteilung der Sitze auf die Personalkategorien.
 
 #### § 17
 
-**Leistungseinheiten im nicht medizinischen Bereich**
+**b. Wahl und Konstituierung**
 
-<sup>1</sup> Leistungseinheiten im nicht medizinischen Bereich sind die Verwaltungsdienste und die betrieblich-technischen Dienste. Sie werden durch die Spitaldirektion bestimmt.
+<sup>1</sup> Die Mitarbeitenden wählen die Mitglieder des Personalausschusses in geheimer Wahl auf eine Amtsdauer von vier Jahren.
 
-<sup>2</sup> Sie werden durch ein Mitglied der Spitaldirektion oder eine diesem direkt unterstellte Person geführt.
-
-<sup>3</sup> Ihre Organisation, Aufgaben und Kompetenzen werden in Geschäftsordnungen geregelt. Diese unterstehen der Genehmigung der Spitaldirektion.
-
-### D. Medizinische Dienstleistungen
+<sup>2</sup> Im Übrigen konstituiert sich der Ausschuss selbst.
 
 #### § 18
 
-**Medizinische Tätigkeitsbereiche**
+**c. Aufgaben**
 
-<sup>1</sup> Die medizinischen Tätigkeitsbereiche des Universitätsspitals bestimmen sich nach den Leistungsaufträgen des Kantons und den Festlegungen von § 2 USZG.
+<sup>1</sup> Die Organe, zentralen Organisationseinheiten und Gremien des Universitätsspitals können den Personalausschuss in Personalangelegenheiten beratend beiziehen.
 
-<sup>2</sup> Über das Angebot einzelner diagnostischer oder therapeutischer Dienstleistungen entscheidet die Direktorin oder der Direktor einer Klinik oder eines Instituts. Die Spitaldirektion kann die Erbringung von Leistungen untersagen oder verlangen.
+<sup>2</sup> Der Personalausschuss erfüllt weitere Aufgaben gemäss seinem Reglement und dem kantonalen Personalrecht.
 
-**7**
+#### § 19
 
-- 1\. 7. 19 - 105 § 19. <sup>1</sup> Das Universitätsspital erbringt seine medizinischen Dienstleistungen stationär und ambulant für Patientinnen und Patienten im Bereiche der obligatorischen Sozialversicherungsgesetzgebung des Bundes und der freiwilligen Zusatzversicherungen sowie für Selbstzahlerinnen und Selbstzahler.
+**Ombudskommission**
 
-**Angebot und Abgeltung der Dienstleistungen**
+<sup>1</sup> Der Spitalrat kann eine Ombudskommission einsetzen, die in Konflikten am Universitätsspital vermittelt, und erlässt ihr Reglement.
 
-<sup>2</sup> Der Spitalrat erlässt eine Taxordnung als Rahmenordnung. Die Spitaldirektion vollzieht die Taxordnung und bestimmt insbesondere die Einzelheiten bei der Berechnung der Taxen.
+<sup>2</sup> Die Ombudskommission kann von den Organen des Universitätsspitals, Mitarbeitenden sowie Patientinnen und Patienten beigezogen werden.
 
-### E. Angehörige sowie Benutzerinnen und Benutzer des Universitäts-
+<sup>3</sup> Das Recht, die Ombudsperson des Kantons Zürich beizuziehen und den ordentlichen Rechtsweg zu beschreiten, bleibt gewahrt.
 
-spitals
+### E. Hausordnung
 
-**Hausordnung**
+[^hEHausordnung-1]: LS 813.151.5.
 
-§ 20. <sup>1</sup> Die Spitaldirektion erlässt für das Universitätsspital eine Hausordnung. Diese untersteht der Genehmigung des Spitalrates.
+#### § 20
+
+<sup>1</sup> Die Spitaldirektion erlässt für das Universitätsspital eine Hausordnung[^hEHausordnung-1], die vom Spitalrat zu genehmigen ist.
 
 <sup>2</sup> Die Hausordnung bezweckt insbesondere:
 
@@ -351,97 +306,52 @@ spitals
 
 - c. Wahrung der Geheim- und Privatsphäre der Patientinnen und Patienten.
 
-<sup>3</sup> Sie ist für alle Personen verbindlich, die sich im Universitätsspital aufhalten, namentlich Patientinnen und Patienten, Besucherinnen und Besucher, Studierende, das Personal sowie Drittmittelangestellte.
+<sup>3</sup> Sie gilt für alle Personen, die sich im Universitätsspital aufhalten, namentlich für Patientinnen und Patienten, deren Angehörige, Besucherinnen und Besucher, Studierende, Mitarbeitende, Lieferantinnen und Lieferanten sowie Drittmittelangestellte.
 
-<sup>4</sup> Sie gilt in allen Räumen des Universitätsspitals, auch in solchen des Unterrichts und der Forschung, in Personalunterkünften und -restaurants sowie im gesamten zum Universitätsspital gehörenden Umgelände.
+<sup>4</sup> Sie gilt an allen Standorten des Universitätsspitals einschliesslich denjenigen des Unterrichts und der Forschung, in den Personalunterkünften und -restaurants und auf dem gesamten zum Universitätsspital gehörenden Areal.
 
-#### § 21
-
-**Personalausschuss**
-
-<sup>1</sup> Das Universitätsspital verfügt über einen Personalausschuss mit 10 bis 15 Mitgliedern. Das Personal wählt diese in geheimer Wahl auf eine Amtsdauer von vier Jahren. Der Ausschuss konstituiert sich selbst.
-
-<sup>2</sup> Die Organe und Gremien des Universitätsspitals können den Personalausschuss in Personalangelegenheiten beratend beiziehen. Er erfüllt weitere Aufgaben gemäss Reglement und kantonalem Personalrecht.
-
-<sup>3</sup> Die Spitaldirektion erlässt ein Reglement mit Aufgaben, Rechten und Pflichten des Ausschusses sowie der Verteilung der Sitze auf die Personalkategorien.
-
-#### § 22
-
-**Organisationen der Mitarbeitenden**
-
-<sup>1</sup> Die Mitarbeitenden können Standesorganisationen und andere Organisationen bilden.
-
-<sup>2</sup> Die Spitaldirektion kann Organisationen aus dem Umfeld des Universitätsspitals, als «Organisation am Universitätsspital Zürich» anerkennen, wenn die Aktivmitgliedschaft nur von Mitarbeitenden des Universitätsspitals sowie von dort tätigen Drittmittelangestellten erworben werden kann und die Organe durch die Aktivmitglieder bestellt werden.
-
-<sup>3</sup> Anerkannte Organisationen haben die jeweils geltenden Statuten und ein aktuelles Verzeichnis der Vorstandsmitglieder bei der Spitaldirektion zu hinterlegen.
-
-<sup>4</sup> Anerkannte Organisationen haben folgende Rechte:
-
-- a. Sie werden mit ihrer Kontaktadresse im Adressverzeichnis des Universitätsspitals aufgeführt.
-
-- b. Sie können den Zusatz «Organisation am Universitätsspital Zürich» verwenden.
-
-- c. Sie haben Vorrang bei der Benützung von Räumlichkeiten des Universitätsspitals.
-
-<sup>5</sup> Die Spitaldirektion kann den anerkannten Organisationen:
-
-- a. ihrem Organisationszweck dienliche Informationen zukommen lassen,
-
-- b. finanzielle Beiträge leisten,
-
-- c. Räumlichkeiten zur Verfügung stellen.
+<sup>5</sup> Bei Verstössen gegen die Hausordnung kann eine Wegweisung und in schwerwiegenden Fällen ein Hausverbot ausgesprochen werden.
 
 ### F. Rechtspflege
 
+#### § 21
+
+<sup>1</sup> Die Organe treffen Anordnungen für das Universitätsspital. Ihre erstinstanzlichen Entscheidbefugnisse richten sich nach den ihnen durch das Gesetz oder dieses Statut übertragenen Aufgaben.
+
+<sup>2</sup> Die Organisationseinheiten des Universitätsspitals handeln gestützt auf die Organisationsreglemente oder gestützt auf einzelfallbezogene Anweisungen eines Organs.
+
+<sup>3</sup> Anordnungen des Spitalrates und der Spitaldirektion können gemäss § 30 USZG mit Beschwerde beim Verwaltungsgericht angefochten werden.
+
+<sup>4</sup> In Rechtsmittelverfahren wird das anordnende Organ durch seine Leitung vertreten. Das Organ kann sich vom Generalsekretariat des Spitalrates oder vom Rechtsdienst der Spitaldirektion unterstützen lassen.
+
+**7**
+
+- 1\. 4. 24 - 124
+
+### G. Schlussbestimmungen
+
+#### § 22
+
+**Aufhebung bisherigen Rechts**
+
+Das Statut des Universitätsspitals Zürich vom 7. November 2018 wird aufgehoben.
+
 #### § 23
-
-**Rekursverfahren a. Rekursinstanzen**
-
-<sup>1</sup> Der Spitalrat ist Rekursinstanz für Rekurse gegen:
-
-- a. Anordnungen der Spitaldirektion,
-
-- b. Rekursentscheide der Spitaldirektion, sofern der Weiterzug an das Verwaltungsgericht ausgeschlossen ist,
-
-- c. Anordnungen, die Organe, Organisationseinheiten oder Personen gestützt auf eine Kompetenzdelegation des Spitalrates im eigenen Namen getroffen haben.
-
-<sup>2</sup> Die Spitaldirektion ist Rekursinstanz für Rekurse gegen alle übrigen Anordnungen ausser jenen des Spitalrates.
-
-**9**
-
-- 1\. 7. 19 - 105 § 24. <sup>1</sup> Die Präsidentin oder der Präsident des Spitalrates bzw. die oder der Vorsitzende der Spitaldirektion ist in Rekursverfahren vor diesen Organen abschliessend zuständig zum Entscheid über:
-
-**b. Zuständigkeit des Vorsitzes**
-
-- a. vorsorgliche und superprovisorische Massnahmen,
-
-- b. den Entzug und die Wiederherstellung der aufschiebenden Wirkung,
-
-- c. die Bewilligung der unentgeltlichen Rechtspflege,
-
-- d. die Festsetzung der Entschädigung des unentgeltlichen Rechtsbeistandes,
-
-- e. die Erledigung von Rekursverfahren, soweit allein über die Zusprechung einer Parteientschädigung zu entscheiden ist.
-
-<sup>2</sup> Die Präsidentin oder der Präsident bzw. die oder der Vorsitzende vertritt den Spitalrat bzw. die Spitaldirektion in Rechtsmittelverfahren gegen Entscheide dieser Organe.
-
-#### § 25
-
-**c. Zuständigkeit Generalsekretär und Rechtsdienst Spitaldirektion**
-
-<sup>1</sup> Die Generalsekretärin bzw. der Generalsekretär leitet das Rekursverfahren vor dem Spitalrat. Sie oder er trifft prozessleitende Anordnungen, unter Vorbehalt der Zuständigkeit gemäss § 24 Abs. 1.
-
-<sup>2</sup> Sie oder er entscheidet über die Erledigung des Rekursverfahrens bei Rückzug oder Gegenstandslosigkeit eines Rekurses und im Fall einer Wiedererwägung durch die Vorinstanz.
-
-<sup>3</sup> Ist die Spitaldirektion Rekursinstanz, ist der Rechtsdienst der Spitaldirektion zuständig.
-
-### G. Schlussbestimmung
-
-[^hGSchlussbestimmung-1]: Vom Regierungsrat genehmigt am 13. März 2019.
-[^hGSchlussbestimmung-2]: Inkrafttreten: 1. Mai 2019.
-
-#### § 26
 
 **Inkrafttreten**
 
-Dieses Statut tritt am ersten Tag des zweiten Monats nach seiner Genehmigung durch den Regierungsrat[^hGSchlussbestimmung-1] in Kraft[^hGSchlussbestimmung-2].
+Dieses Statut tritt am 1. Januar 2024 in Kraft.
+
+#### § 24
+
+**Anerkannte Berufs- und Standesorganisationen**
+
+Beim Inkrafttreten dieses Statuts gelten die folgenden Berufs- und Standesorganisationen als anerkannt gemäss § 15 Abs. 2:
+
+- a. Konferenz der Klinik- und Institutsdirektorinnen und -direktoren (KIDK),
+
+- b. Konferenz der Leitenden Ärztinnen und Ärzte (KLA),
+
+- c. Konferenz der Oberärztinnen und Oberärzte mit erweiterter Verantwortung (KOAmeV),
+
+- d. Konferenz der Oberärztinnen und Oberärzte (KOA).
