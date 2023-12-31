@@ -3,20 +3,19 @@ canton: BL
 number: "833"
 title: Ergänzungsleistungsgesetz zur AHV und IV
 language: de
-version: 2021-01-01
-valid_until: 2023-12-31
-version_adopted: 2020-12-03
+version: 2024-01-01
+version_adopted: 2022-12-01
 adopted: 1973-02-15
 in_force: 1973-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/833"
-pdf: "https://bl.clex.ch/api/de/versions/2911/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3603/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Ergänzungsleistungsgesetz zur AHV und IV
 
-Vom 15.02.1973 (Stand 01.01.2021)
+Vom 15.02.1973 (Stand 01.01.2024)
 
 Der Landrat des Kantons Basel-Landschaft,
 
@@ -203,6 +202,20 @@ beschliesst:[^ingress-2]
 - b. der Kanton trägt die übrigen Ergänzungsleistungen.
 
 <sup>2</sup> Der einzelne Gemeindeanteil richtet sich nach der Einwohnerzahl.
+
+#### § 13a
+
+**Betreutes Wohnen**
+
+<sup>1</sup> Solange in der Bundesgesetzgebung über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung das betreute Wohnen nicht geregelt ist, kann die Gemeinde Beiträge an das betreute Wohnen leisten.
+
+<sup>2</sup> Anspruchsberechtigt sind Beziehende von Ergänzungsleistungen sowie Personen, welche bei einem Eintritt in ein Alters- und Pflegeheim Anspruch auf Ergänzungsleistungen oder Zusatzbeiträge hätten.
+
+<sup>3</sup> Die Gemeinde regelt die Voraussetzungen und den Umfang in einem Reglement. Sie orientiert sich dabei am Altersbetreuungs- und Pflegegesetz vom 16. November 2017[^13a-1].
+
+<sup>4</sup> Zuständig für die Prüfung der Anspruchsvoraussetzung und die Vergütung ist die Gemeinde.
+
+[^13a-1]: [SGS 941](https://bl.clex.ch/data/941/de)
 
 ## 5 Schlussbestimmungen
 
