@@ -4,11 +4,11 @@ title: "Loi du 18 mars 2016 sur les amendes d'ordre (LAO)"
 short: LAO
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/725"
 language: fr
-version: 2023-10-01
+version: 2024-01-01
 adopted: 2016-03-18
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/725/20231001/fr/xml/fedlex-data-admin-ch-eli-cc-2017-725-20231001-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/725/20231001/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/725/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-725-20240101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/725/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/725/20231001/fr"
 
 (LAO)[^t-1]
 
-du 18 mars 2016 (État le 1<sup>er</sup> octobre 2023)
+du 18 mars 2016 (État le 1<sup>er</sup> janvier 2024)
 
 [^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -201,7 +201,7 @@ La quittance de l’amende d’ordre contient les indications suivantes:
 - d. le montant de l’amende;
 - e. le cas échéant, la description des objets et valeurs patrimoniales confisqués;
 - f. le lieu et la date de l’établissement de la quittance;
-- g. le nom et le prénom de la personne ayant établi la quittance.
+- g.[^9-1] l’information indiquant qui a établi la quittance.
 
 <sup>2</sup>
 
@@ -217,9 +217,12 @@ Le formulaire prévoyant un délai de réflexion contient les indications suivan
 - h. le montant de l’amende;
 - i. le cas échéant, la description des objets et valeurs patrimoniales confisqués;
 - j. le lieu et la date de l’établissement du formulaire;
-- k. le nom et le prénom de la personne ayant établi le formulaire.
+- k.[^9-2] l’information indiquant qui a établi le formulaire.
 
 <sup>3</sup> Dans les cas visés à l’art. 7, le formulaire prévoyant un délai de réflexion peut être placé directement sur le véhicule à l’intention du conducteur. Il contient l’immatriculation du véhicule au lieu des indications prévues à l’al. 2, let. a.
+
+[^9-1]: Nouvelle teneur selon l’annexe 1 ch. 8 de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^9-2]: Nouvelle teneur selon l’annexe 1 ch. 8 de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 10
 

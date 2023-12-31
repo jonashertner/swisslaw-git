@@ -4,11 +4,11 @@ title: Ordnungsbussengesetz vom 18. März 2016 (OBG)
 short: OBG
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/725"
 language: de
-version: 2023-10-01
+version: 2024-01-01
 adopted: 2016-03-18
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/725/20231001/de/xml/fedlex-data-admin-ch-eli-cc-2017-725-20231001-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/725/20231001/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/725/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2017-725-20240101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/725/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/725/20231001/de"
 
 (OBG)
 
-vom 18. März 2016 (Stand am 1. Oktober 2023)
+vom 18. März 2016 (Stand am 1. Januar 2024)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -200,7 +200,7 @@ Die Quittung für die Ordnungsbusse enthält folgende Angaben:
 - d. den Bussenbetrag;
 - e. die Beschreibung der allenfalls eingezogenen Gegenstände und Vermögenswerte;
 - f. Ort und Datum der Ausstellung;
-- g. Name und Vorname der Person, welche die Quittung ausstellt.
+- g.[^9-1] die Information, aus der sich ergibt, wer die Quittung ausstellt.
 
 <sup>2</sup>
 
@@ -216,9 +216,12 @@ Das Bedenkfristformular enthält folgende Angaben:
 - h. den Bussenbetrag;
 - i. die Beschreibung der allenfalls sichergestellten Gegenstände und Vermögenswerte;
 - j. Ort und Datum der Ausstellung;
-- k. Name und Vorname der Person, die das Formular ausstellt.
+- k.[^9-2] die Information, aus der sich ergibt, wer das Formular ausstellt.
 
 <sup>3</sup> In Fällen nach Artikel 7 kann das Bedenkfristformular als Steckzettel verwendet werden. Das Bedenkfristformular enthält anstelle der Personalien nach Absatz 2 Buchstabe a das Fahrzeugkennzeichen.
+
+[^9-1]: Fassung gemäss Anhang 1 Ziff. 8 des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); BBl **20****19** 6697).
+[^9-2]: Fassung gemäss Anhang 1 Ziff. 8 des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 10
 

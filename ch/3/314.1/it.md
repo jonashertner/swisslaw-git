@@ -4,11 +4,11 @@ title: Legge del 18 marzo 2016 sulle multe disciplinari (LMD)
 short: LMD
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/725"
 language: it
-version: 2023-10-01
+version: 2024-01-01
 adopted: 2016-03-18
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/725/20231001/it/xml/fedlex-data-admin-ch-eli-cc-2017-725-20231001-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/725/20231001/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/725/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2017-725-20240101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/725/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/725/20231001/it"
 
 (LMD)
 
-del 18 marzo 2016 (Stato 1° ottobre 2023)
+del 18 marzo 2016 (Stato 1° gennaio 2024)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -199,7 +199,7 @@ La ricevuta per la multa disciplinare contiene le indicazioni seguenti:
 - d. l’importo della multa;
 - e. la descrizione degli oggetti e dei valori patrimoniali eventualmente confiscati;
 - f. il luogo e la data dell’emissione;
-- g. il cognome e il nome della persona che rilascia la ricevuta.
+- g.[^9-1] le informazioni che permettono di stabilire chi rilascia la ricevuta.
 
 <sup>2</sup>
 
@@ -215,9 +215,12 @@ Il modulo concernente il termine di riflessione contiene le indicazioni seguenti
 - h. l’importo della multa;
 - i. la descrizione degli oggetti e dei valori patrimoniali eventualmente messi al sicuro;
 - j. il luogo e la data dell’emissione;
-- k. il cognome e il nome della persona che rilascia il modulo.
+- k.[^9-2] le informazioni che permettono di stabilire chi rilascia il modulo.
 
 <sup>3</sup> Nei casi di cui all’articolo 7, il modulo concernente il termine di riflessione può essere apposto sul parabrezza. Al posto dei dati personali secondo il capoverso 2 lettera a è indicata la targa del veicolo.
+
+[^9-1]: Nuovo testo giusta l’all. 1 n. 8 della LF del 17 giu. 2022, in vigore dal 1° gen. 2024 ([RU 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 5523](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^9-2]: Nuovo testo giusta l’all. 1 n. 8 della LF del 17 giu. 2022, in vigore dal 1° gen. 2024 ([RU 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 5523](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 10
 
