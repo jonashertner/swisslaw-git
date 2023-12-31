@@ -4,11 +4,11 @@ title: Ordinanza del 24 giugno 2009 sui contatti militari internazionali (OCMI)
 short: OCMI
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/425"
 language: it
-version: 2009-08-01
+version: 2024-01-01
 adopted: 2009-06-24
 in_force: 2009-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/425/20090801/it/xml/fedlex-data-admin-ch-eli-cc-2009-425-20090801-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/425/20090801/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/425/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2009-425-20240101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/425/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/425/20090801/it"
 
 (OCMI)
 
-del 24 giugno 2009 (Stato 1° agosto 2009)
+del 24 giugno 2009 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -70,11 +70,13 @@ I servizi seguenti possono, nel loro settore di compiti, allacciare formalmente 
 
 - a. i servizi d’informazione del Dipartimento federale della difesa, della protezione della popolazione e dello sport (DDPS);
 - b. l’organo del DDPS competente per la politica di sicurezza;
-- c. la Protezione delle informazioni e delle opere del DDPS;
+- c.[^4-1] il servizio specializzato della Confederazione per la sicurezza delle informazioni;
 - d. l’Ufficio dell’uditore in capo e la Giustizia militare;
 - e. l’Aggruppamento armasuisse e le imprese d’armamento della Confederazione, sempre che non siano coinvolti militari svizzeri o uffici, organizzazioni, esercitazioni, manifestazioni, stati maggiori, truppe, scuole, corsi o impianti militari;
 - f. l’organo dell’Aggruppamento Difesa competente per le relazioni internazionali;
 - g. il Centro di competenza SWISSINT, nel quadro degli impieghi autorizzati.
+
+[^4-1]: Nuovo testo giusta l’all. 2 n. II 30 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
 
 #### Art. 5
 
@@ -84,10 +86,10 @@ I servizi seguenti possono, nel loro settore di compiti, allacciare formalmente 
 
 La consegna di informazioni classificate a persone e organi stranieri nonché l’accesso da parte di visitatori stranieri a informazioni militari classificate, a materiale classificato o a impianti militari in Svizzera si fondano sulle corrispondenti prescrizioni in materia di protezione delle informazioni, segnatamente:
 
-- a. le convenzioni internazionali sulla protezione delle informazioni applicabili nel caso concreto;
-- b. l’ordinanza del 19 dicembre 2001[^5-1] sui controlli di sicurezza relativi alle persone;
-- c. l’ordinanza del 4 luglio 2007[^5-2] sulla protezione delle informazioni della Confederazione;
-- d. l’ordinanza del 29 agosto 1990[^5-3] sulla procedura di tutela del segreto in occasione di mandati con contenuto classificato dal punto di vista militare.
+- a. il trattato internazionale secondo l’articolo 87 della legge del 18 dicembre 2020[^5-1] sulla sicurezza delle informazioni applicabile nel caso concreto;
+- b. l’ordinanza dell’8 novembre 2023[^5-2] sui controlli di sicurezza relativi alle persone;
+- c. l’ordinanza dell’8 novembre 2023[^5-3] sulla sicurezza delle informazioni;
+- d. l’ordinanza dell’8 novembre 2023[^5-4] sulla procedura di sicurezza relativa alle aziende.[^5-5]
 
 <sup>2</sup> Il Protocollo militare rilascia le autorizzazioni di cui all’articolo 3 capoverso 1 unicamente se la persona che intende allacciare contatti militari internazionali presenta le autorizzazioni o attestazioni necessarie sulla base delle prescrizioni di cui al capoverso 1.
 
@@ -97,9 +99,11 @@ La consegna di informazioni classificate a persone e organi stranieri nonché l�
 
 <sup>5</sup> Chi organizza contatti militari internazionali deve istruire tutte le persone che avranno contatti con i visitatori stranieri in merito a quali informazioni militari possono fornire.
 
-[^5-1]: [RS 120.4](https://fedlex.data.admin.ch/eli/cc/2011/155)
-[^5-2]: [RS 510.411](https://fedlex.data.admin.ch/eli/cc/2007/414)
-[^5-3]: [RS 510.413](https://fedlex.data.admin.ch/eli/cc/1990/1774_1774_1774)
+[^5-1]: [RS 128](https://fedlex.data.admin.ch/eli/cc/2022/232)
+[^5-2]: [RS 128.31](https://fedlex.data.admin.ch/eli/cc/2023/736)
+[^5-3]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^5-4]: [RS 128.41](https://fedlex.data.admin.ch/eli/cc/2023/737)
+[^5-5]: Nuovo testo giusta l’all. 2 n. II 30 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
 
 #### Art. 6
 

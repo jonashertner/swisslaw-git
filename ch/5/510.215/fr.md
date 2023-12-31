@@ -4,11 +4,11 @@ title: Ordonnance du 24 juin 2009 concernant les relations militaires internatio
 short: ORMI
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/425"
 language: fr
-version: 2009-08-01
+version: 2024-01-01
 adopted: 2009-06-24
 in_force: 2009-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/425/20090801/fr/xml/fedlex-data-admin-ch-eli-cc-2009-425-20090801-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/425/20090801/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/425/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2009-425-20240101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/425/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/425/20090801/fr"
 
 (ORMI)
 
-du 24 juin 2009 (Etat le 1<sup>er</sup> août 2009)
+du 24 juin 2009 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -70,11 +70,13 @@ Les services suivants peuvent établir formellement des relations militaires int
 
 - a. les services de renseignement du Département fédéral de la défense, de la protection de la population et des sports (DDPS);
 - b. le service du DDPS qui est responsable de la politique de sécurité;
-- c. la Protection des informations et des objets du DDPS;
+- c.[^4-1] le service spécialisé de la Confédération pour la sécurité de l’information;
 - d. l’Office de l’auditeur en chef et la justice militaire;
 - e. le Groupement armasuisse et les entreprises d’armement de la Confédération, pour autant que les relations ne concernent ni des militaires suisses, ni des services ou organisations militaires suisses, ni des états-majors, des troupes, des écoles, des cours ou des installations militaires suisses, ni des exercices ou des manifestations militaires suisses;
 - f. le service du Groupement Défense qui est responsable des relations internationales;
 - g. le Centre de compétences SWISSINT dans le cadre des engagements autorisés.
+
+[^4-1]: Nouvelle teneur selon l’annexe 2 ch. II 30 de l’O du 8 nov. 2023 sur la sécurité de l’information, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
 
 #### Art. 5
 
@@ -84,10 +86,10 @@ Les services suivants peuvent établir formellement des relations militaires int
 
 La remise d’informations classifiées à des personnes ou à des organes étrangers et l’accès à des informations militaires classifiées, à du matériel classifié ou à des installations militaires en Suisse par des personnes étrangères sont soumis aux dispositions régissant la protection de l’information, notamment:
 
-- a. l’accord international sur la protection des informations applicable dans le cas concret;
-- b. l’ordonnance du 19 décembre 2001 sur les contrôles de sécurité relatifs aux personnes[^5-1];
-- c. l’ordonnance du 4 juillet 2007 concernant la protection des informations[^5-2];
-- d. l’ordonnance du 29 août 1990 concernant la sauvegarde du secret[^5-3].
+- a. le traité international applicable dans le cas concret visé à l’art. 87 de la loi du 18 décembre 2020 sur la sécurité de l’information[^5-1];
+- b. l’ordonnance du 8 novembre 2023sur les contrôles de sécurité relatifs aux personnes[^5-2];
+- c. l’ordonnance du 8 novembre 2023 sur la sécurité de l’information[^5-3];
+- d. l’ordonnance du 8 novembre 2023 sur la procédure de sécurité relative aux entreprises[^5-4].[^5-5]
 
 <sup>2</sup> Le Protocole militaire ne délivre une autorisation d’établissement de relations militaires internationales que sur présentation des autorisations ou attestations requises.
 
@@ -97,9 +99,11 @@ La remise d’informations classifiées à des personnes ou à des organes étra
 
 <sup>5</sup> Quiconque organise l’établissement de relations militaires internationales doit indiquer à toutes les personnes entrant en contact avec les personnes ou autorités étrangères quelles informations peuvent être remises.
 
-[^5-1]: [RS 120.4](https://fedlex.data.admin.ch/eli/cc/2011/155)
-[^5-2]: [RS 510.411](https://fedlex.data.admin.ch/eli/cc/2007/414)
-[^5-3]: [RS 510.413](https://fedlex.data.admin.ch/eli/cc/1990/1774_1774_1774)
+[^5-1]: [RS 128](https://fedlex.data.admin.ch/eli/cc/2022/232)
+[^5-2]: [RS 128.31](https://fedlex.data.admin.ch/eli/cc/2023/736)
+[^5-3]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^5-4]: [RS 128.41](https://fedlex.data.admin.ch/eli/cc/2023/737)
+[^5-5]: Nouvelle teneur selon l’annexe 2 ch. II 30 de l’O du 8 nov. 2023 sur la sécurité de l’information, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
 
 #### Art. 6
 

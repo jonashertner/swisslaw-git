@@ -4,11 +4,11 @@ title: Verordnung vom 24. Juni 2009 über internationale militärische Kontakte 
 short: VIMK
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/425"
 language: de
-version: 2009-08-01
+version: 2024-01-01
 adopted: 2009-06-24
 in_force: 2009-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/425/20090801/de/xml/fedlex-data-admin-ch-eli-cc-2009-425-20090801-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/425/20090801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/425/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2009-425-20240101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/425/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/425/20090801/de"
 
 (VIMK)
 
-vom 24. Juni 2009 (Stand am 1. August 2009)
+vom 24. Juni 2009 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -70,11 +70,13 @@ Die folgenden Stellen dürfen in ihrem Aufgabenbereich ohne Bewilligung des Mili
 
 - a. die Nachrichtendienste des Eidgenössischen Departements für Verteidigung, Bevölkerungsschutz und Sport (VBS);
 - b. die für Sicherheitspolitik zuständige Stelle des VBS;
-- c. die Informations- und Objektsicherheit des VBS;
+- c.[^4-1] die Fachstelle des Bundes für Informationssicherheit;
 - d. das Oberauditorat und die Militärjustiz;
 - e. die Gruppe armasuisse sowie die Rüstungsunternehmen des Bundes, sofern keine schweizerischen Militärpersonen, militärischen Stellen und Organisationen, militärischen Übungen, Veranstaltungen, Stäbe, Truppen, Schulen, Kurse oder Anlagen betroffen sind;
 - f. die für internationale Beziehungen zuständige Stelle der Gruppe Verteidigung;
 - g. das Kompetenzzentrum SWISSINT im Rahmen der bewilligten Einsätze.
+
+[^4-1]: Fassung gemäss Anhang 2 Ziff. II 30 der Informationssicherheitsverordnung vom 8. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
 
 #### Art. 5
 
@@ -82,12 +84,12 @@ Die folgenden Stellen dürfen in ihrem Aufgabenbereich ohne Bewilligung des Mili
 
 <sup>1</sup>
 
-Die Abgabe von klassifizierten Informationen an ausländische Personen und Stellen sowie der Zugang ausländischer Besucher und Besucherinnen zu klassifizierten militärischen Informationen, zu klassifiziertem Material oder zu militärischen Anlagen in der Schweiz richtet sich nach den entsprechenden Informationsschutzvorschriften, insbesondere:
+Die Abgabe von klassifizierten Informationen an ausländische Personen und Stellen sowie der Zugang ausländischer Besucher und Besucherinnen zu klassifizierten militärischen Informationen, zu klassifiziertem Material oder zu militärischen Anlagen in der Schweiz richten sich nach den entsprechenden Informationsschutzvorschriften, insbesondere:
 
-- a. dem im konkreten Fall anwendbaren internationalen Informationsschutzabkommen;
-- b. der Verordnung vom 19. Dezember 2001[^5-1] über die Personensicherheitsprüfungen;
-- c. der Informationsschutzverordnung vom 4. Juli 2007[^5-2];
-- d. der Geheimschutzverordnung vom 29. August 1990[^5-3].
+- a. dem im konkreten Fall anwendbaren völkerrechtlichen Vertrag nach Artikel 87 des Informationssicherheitsgesetzes von 18. Dezember 2020[^5-1];
+- b. der Verordnung vom 8. November 2023[^5-2] über die Personensicherheitsprüfungen;
+- c. der Informationssicherheitsverordnung vom 8. November 2023[^5-3];
+- d. der Verordnung vom 8. November 2023[^5-4] über das Betriebssicherheitsverfahren.[^5-5]
 
 <sup>2</sup> Das Militärprotokoll erteilt Bewilligungen nach Artikel 3 Absatz 1 nur, wenn die Person, die den internationalen militärischen Kontakt aufnehmen will, die aufgrund der Vorschriften nach Absatz 1 erforderlichen Bewilligungen oder Bescheinigungen vorlegt.
 
@@ -97,9 +99,11 @@ Die Abgabe von klassifizierten Informationen an ausländische Personen und Stell
 
 <sup>5</sup> Wer einen internationalen militärischen Kontakt organisiert, muss alle mit ausländischen Personen in Kontakt kommenden Personen darüber instruieren, welche militärischen Informationen sie abgeben dürfen.
 
-[^5-1]: [SR 120.4](https://fedlex.data.admin.ch/eli/cc/2011/155)
-[^5-2]: [SR 510.411](https://fedlex.data.admin.ch/eli/cc/2007/414)
-[^5-3]: [SR 510.413](https://fedlex.data.admin.ch/eli/cc/1990/1774_1774_1774)
+[^5-1]: [SR 128](https://fedlex.data.admin.ch/eli/cc/2022/232)
+[^5-2]: [SR 128.31](https://fedlex.data.admin.ch/eli/cc/2023/736)
+[^5-3]: [SR 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^5-4]: [SR 128.41](https://fedlex.data.admin.ch/eli/cc/2023/737)
+[^5-5]: Fassung gemäss Anhang 2 Ziff. II 30 der Informationssicherheitsverordnung vom 8. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
 
 #### Art. 6
 
