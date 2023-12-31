@@ -4,39 +4,44 @@ number: "313.13"
 title: Vollzugsverordnung über die Berufsmaturität
 short: "Kantonale Berufsmaturitätsverordnung, kBMV"
 language: de
-version: 2018-03-01
-corrected: 2021-09-08
-version_adopted: 2017-12-12
+version: 2024-01-01
+valid_until: 2024-07-31
+version_adopted: 2023-09-26
 adopted: 2014-11-11
 in_force: 2015-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/313.13"
-pdf: "https://gesetze.nw.ch/api/de/versions/141/pdf_file"
-text: pdf
+pdf: "https://gesetze.nw.ch/api/de/versions/1192/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Vollzugsverordnung über die Berufsmaturität (Kantonale Berufsmaturitätsverordnung, kBMV)
+# Vollzugsverordnung über die Berufsmaturität
 
-vom 11. November 2014[^t-1]
+(Kantonale Berufsmaturitätsverordnung, kBMV)
+
+vom 11.11.2014 (Stand 01.01.2024)
 
 Der Regierungsrat von Nidwalden,
 
-gestützt auf Art. 64 Abs. 1 Ziff. 1 der Kantonsverfassung, in Ausführung von Art. 39 des Einführungsgesetzes vom 23. Januar 2008 zur Bundesgesetzgebung über die Berufsbildung (Kantonales Berufsbildungsgesetz, kBBG)[^t-2] und der Verordnung vom 24. Juni 2009 über die eidgenössische Berufsmaturität (Berufsmaturitätsverordnung, BMV)[^t-3],
+gestützt auf Art. 64 Abs. 1 Ziff. 1 der Kantonsverfassung, in Ausführung von Art. 39 des Einführungsgesetzes vom 23. Januar 2008 zur Bundesgesetzgebung über die Berufsbildung (Kantonales Berufsbildungsgesetz, kBBG)[^ingress-1] und der Verordnung vom 24. Juni 2009 über die eidgenössische Berufsmaturität (Berufsmaturitätsverordnung, BMV)[^ingress-2],
 
 beschliesst:
 
-[^t-1]: A 2014, 2019
-[^t-2]: NG 313.1
-[^t-3]: SR 412.103.1
+[^ingress-1]: NG 313.1
+[^ingress-2]: SR 412.103.1
 
-### I. ALLGEMEINE BESTIMMUNGEN
+## 1 Allgemeine Bestimmungen
 
 #### § 1
 
 **Geltungsbereich**
 
-Diese Verordnung gilt für alle Berufsmaturitätslehrgänge der Berufsfachschule Nidwalden.
+<sup>1</sup> Diese Verordnung gilt:
+
+- 1\. für Personen mit Wohnsitz im Kanton Nidwalden, die einen Berufsmaturitätslehrgang im Sinne der Verordnung über die eidgenössische Berufsmaturität (Berufsmaturitätsverordnung, BMV)[^1-1] absolvieren wollen;
+- 2\. für die Berufsmaturitätslehrgänge der Berufsfachschule Nidwalden.
+
+[^1-1]: SR 412.103.1
 
 #### § 2
 
@@ -48,15 +53,13 @@ Diese Verordnung gilt für alle Berufsmaturitätslehrgänge der Berufsfachschule
 
 <sup>3</sup> Im Grundlagenbereich werden folgende Sprachen bestimmt:
 
-- 1\. erste Landessprache: Deutsch;
-
-- 2\. zweite Landessprache: Französisch;
-
-- 3\. dritte Sprache: Englisch.
+- 1\. erste Landessprache: — Deutsch;
+- 2\. zweite Landessprache: — Französisch;
+- 3\. dritte Sprache: — Englisch.
 
 [^2-1]: SR 412.103.1
 
-### II. ORGANISATION
+## 2 Organisation
 
 #### § 3
 
@@ -67,37 +70,29 @@ Diese Verordnung gilt für alle Berufsmaturitätslehrgänge der Berufsfachschule
 <sup>2</sup> Es ist für alle Entscheide zuständig, die nicht ausdrücklich einer anderen Instanz übertragen sind; insbesondere für:
 
 - 1\. die Sicherstellung der Verbindung zu den eidgenössischen und regionalen Berufsmaturitätsgremien;
-
 - 2\. die Überwachung der Aufnahmeverfahren und der Berufsmaturitätsprüfungen;
-
 - 3\. den Erlass der Prüfungsbestimmungen in Zusammenarbeit mit der Schulleitung;
-
-- 4\. die Anrechnung bereits erbrachter Leistungen gemäss Art. 15 Abs. 2 BMV[^3-1].
-
-5.[^3-2] Entscheide betreffend Unregelmässigkeiten gemäss § 10.
+- 4\. die Anrechnung bereits erbrachter Leistungen gemäss Art. 15 Abs. 2 BMV[^3-1];.
+- 5\. Entscheide betreffend Unregelmässigkeiten gemäss § 10.
 
 [^3-1]: SR 412.103.1
-[^3-2]: Fassung gemäss Regierungsratsbeschluss vom 3. November 2015; A 2015, 1771, in Kraft seit 1. Januar 2016
 
 #### § 4
 
 **Schulleitung**
 
-Die Schulleitung ist zuständig für:
+<sup>1</sup> Die Schulleitung ist zuständig für:
 
 - 1\. die Durchführung der Aufnahmeverfahren;
-
-2.[^4-1] den Entscheid über das Bestehen der Aufnahmeprüfung und über die definitive Zulassung zu den Berufsmaturitätslehrgängen;
-
-- 3\. die Organisation der Berufsmaturitätslehrgänge und -prüfungen; 4.[^4-1] den Entscheid über die Promotion in das nächste Semester.
-
-[^4-1]: Fassung gemäss Regierungsratsbeschluss vom 3. November 2015; A 2015, 1771, in Kraft seit 1. Januar 2016
+- 2\. den Entscheid über das Bestehen der Aufnahmeprüfung und über die definitive Zulassung zu den Berufsmaturitätslehrgängen;
+- 3\. die Organisation der Berufsmaturitätslehrgänge und ‑prüfungen;
+- 4\. den Entscheid über die Promotion in das nächste Semester.
 
 #### § 5
 
-**…[^4-1]**
+**…**
 
-### III. ZULASSUNG UND AUFNAHMEVERFAHREN
+## 3 Zulassung und Aufnahmeverfahren
 
 #### § 6
 
@@ -106,18 +101,16 @@ Die Schulleitung ist zuständig für:
 <sup>1</sup> Zu lehrbegleitenden Berufsmaturitätslehrgängen wird zugelassen, wer:
 
 - 1\. über einen genehmigten Lehrvertrag für eine mindestens dreijährige berufliche Grundbildung verfügt; und
-
 - 2\. das Aufnahmeverfahren besteht.
 
 <sup>2</sup> Zu Berufsmaturitätslehrgängen für gelernte Berufsleute wird zugelassen, wer:
 
 - 1\. über ein eidgenössisches Fähigkeitszeugnis verfügt; und
-
 - 2\. das Aufnahmeverfahren besteht.
 
 #### § 7
 
-**Aufnahmeprüfung**
+**Aufnahmeverfahren 1. Aufnahmeprüfung**
 
 <sup>1</sup> Das Aufnahmeverfahren besteht in einer schriftlichen Aufnahmeprüfung in den Fächern Deutsch, Französisch, Englisch und Mathematik.
 
@@ -126,38 +119,47 @@ Die Schulleitung ist zuständig für:
 <sup>3</sup> Das Prüfungsergebnis entspricht dem Durchschnitt der folgenden Positionsnoten:
 
 - 1\. Prüfungsnote Deutsch;
-
 - 2\. Prüfungsnote Mathematik (doppelt gewichtet);
-
 - 3\. Durchschnitt aus den Prüfungsnoten Französisch und Englisch.
 
 <sup>4</sup> Die Aufnahmeprüfung ist bestanden, wenn ein Durchschnitt von mindestens 4.0 erreicht wird und nicht mehr als eine Positionsnote unter 4.0 liegt.
 
-<sup>5</sup> Mit der Anmeldung zur Aufnahmeprüfung ist eine Prüfungsgebühr gemäss der Gebührengesetzgebung[^7-1] zu entrichten.[^7-2]
+<sup>4a</sup> Die Gültigkeit der Aufnahmeprüfung ist befristet auf das Prüfungsjahr und die zwei darauffolgenden Jahre.
+
+<sup>5</sup> Mit der Anmeldung zur Aufnahmeprüfung ist eine Prüfungsgebühr gemäss der Gebührengesetzgebung[^7-1] zu entrichten.
 
 [^7-1]: NG 265.5
-[^7-2]: Fassung gemäss Regierungsratsbeschluss vom 12. Dezember 2017, A 2018, 16; in Kraft seit 1. März 2018
 
 #### § 8
 
-**Prüfungsfreie Aufnahme**
+**2. Prüfungsfreie Aufnahme**
 
-<sup>1</sup> Die prüfungsfreie Aufnahme in lehrbegleitende Berufsmaturitätslehrgänge richtet sich nach der Vollzugsverordnung über die prüfungsfreie Aufnahme in lehrbegleitende Berufsmittelschulen sowie in Fach-, Handels- und Wirtschaftsmittelschulen (Aufnahmeverordnung Berufsmittelschulen)[^8-1].
+<sup>1</sup> Die prüfungsfreie Aufnahme in lehrbegleitende Berufsmaturitätslehrgänge richtet sich nach der Aufnahmeverordnung Berufsmittelschulen[^8-1].
 
-<sup>2</sup> Die prüfungsfreie Aufnahme in Berufsmaturitätslehrgänge für gelernte Berufsleute erfolgt, wenn die berufliche Grundbildung vor höchstens zwei Jahren mit einer Gesamtnote von mindestens 5.0 abgeschlossen wurde.
+<sup>2</sup> Die prüfungsfreie Aufnahme in Berufsmaturitätslehrgänge für gelernte Berufsleute erfolgt:
+
+- 1\. im Abschlussjahr der beruflichen Grundbildung und den zwei darauffolgenden Jahren: wenn das eidgenössische Fähigkeitszeugnis mit einer Gesamtnote von mindestens 5.0 erlangt wurde; oder
+- 2\. falls das eidgenössische Fähigkeitszeugnis noch nicht vorliegt: wenn eine Zulassungsnote gemäss Abs. 3 von mindestens 5.0 erreicht wurde.
+
+<sup>3</sup> Die Zulassungsnote ist das auf eine Dezimalstelle gerundete Mittel der ungewichteten schulischen Erfahrungsnoten bis und mit dem ersten Semester des Abschlussjahres, welche für das Qualifikationsverfahren gemäss der Verordnung des Staatssekretariats für Bildung, Forschung und Innovation (SBFI) über die jeweilige berufliche Grundbildung beigezogen werden.
 
 [^8-1]: NG 313.113
 
-### IV. BERUFSMATURITÄTSPRÜFUNG
+#### § 8a
+
+**3. Berufsmaturitätslehrgänge Gestaltung und Kunst**
+
+<sup>1</sup> Berufsmaturitätslehrgänge mit der Ausrichtung Gestaltung und Kunst setzen in jedem Fall zusätzlich eine bestandene gestalterische Eignungsprüfung voraus.
+
+## 4 Berufsmaturitätsprüfung
 
 #### § 9
 
 **Zulassung zur Prüfung**
 
-Zu den Berufsmaturitätsprüfungen wird zugelassen, wer:
+<sup>1</sup> Zu den Berufsmaturitätsprüfungen wird zugelassen, wer:
 
 - 1\. einen Berufsmaturitätslehrgang an der Berufsfachschule Nidwalden besucht; und
-
 - 2\. zum Zeitpunkt der Berufsmaturitätsprüfung über ein eidgenössisches Fähigkeitszeugnis verfügt oder spätestens im Jahr der Berufsmaturitätsprüfung zum Qualifikationsverfahren zugelassen ist.
 
 #### § 10
@@ -172,13 +174,13 @@ Zu den Berufsmaturitätsprüfungen wird zugelassen, wer:
 
 <sup>4</sup> Die Lernenden sind vor der Prüfung auf diese Bestimmungen aufmerksam zu machen.
 
-### V. ÜBERGANGS- UND SCHLUSSBESTIMMUNGEN
+## 5 Übergangs- und Schlussbestimmungen
 
 #### § 11
 
 **Übergangsbestimmung**
 
-Für Berufsmaturandinnen und Berufsmaturanden, die ihre Berufsmaturitätsausbildung vor dem 1. Januar 2015 begonnen haben, gilt das bisherige Recht[^11-1].
+<sup>1</sup> Für Berufsmaturandinnen und Berufsmaturanden, die ihre Berufsmaturitätsausbildung vor dem 1. Januar 2015 begonnen haben, gilt das bisherige Recht[^11-1].
 
 [^11-1]: A 2004, 66
 
@@ -186,7 +188,7 @@ Für Berufsmaturandinnen und Berufsmaturanden, die ihre Berufsmaturitätsausbild
 
 **Aufhebung bisherigen Rechts**
 
-Das Reglement vom 19. November 2003 über die kaufmännische Berufsmaturität (Berufsmaturitätsreglement)[^12-1] wird aufgehoben.
+<sup>1</sup> Das Reglement vom 19. November 2003 über die kaufmännische Berufsmaturität (Berufsmaturitätsreglement)[^12-1] wird aufgehoben.
 
 [^12-1]: A 2004, 66
 
@@ -194,4 +196,6 @@ Das Reglement vom 19. November 2003 über die kaufmännische Berufsmaturität (B
 
 **Inkrafttreten**
 
-Diese Verordnung tritt am 1. Januar 2015 in Kraft.
+<sup>1</sup> Diese Verordnung tritt am 1. Januar 2015 in Kraft.
+
+A 2014, 2019
