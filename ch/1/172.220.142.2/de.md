@@ -4,11 +4,11 @@ title: Vorsorgereglement vom 3. Dezember 2007 des Vorsorgewerks ETH-Bereich für
 short: VR-ETH 2
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/192"
 language: de
-version: 2022-07-01
+version: 2024-01-01
 adopted: 2007-12-03
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/192/20220701/de/xml/fedlex-data-admin-ch-eli-cc-2012-192-20220701-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/192/20220701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/192/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2012-192-20240101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/192/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/192/20220701/de"
 
 (VR-ETH 2)
 
-vom 3. Dezember 2007 (Stand am 1. Juli 2022)
+vom 3. Dezember 2007 (Stand am 1. Januar 2024)
 
 Das paritätische Organ des Vorsorgewerks ETH-Bereich (PO ETH),
 
@@ -33,11 +33,12 @@ beschliesst:
 
 **Gegenstand**
 
-<sup>1</sup> Das vorliegende Reglement bildet Bestandteil des Anschlussvertrages vom 19. Oktober 2007[^1-1] für das Vorsorgewerk ETH-Bereich.
+<sup>1</sup> Das vorliegende Reglement bildet Bestandteil des Anschlussvertrages vom 29. November 2023[^1-1] für das Vorsorgewerk ETH-Bereich.[^1-2]
 
 <sup>2</sup> Es regelt die Versicherung gegen die wirtschaftlichen Folgen von Alter, Tod und Invalidität im Rahmen des Vorsorgewerks ETH-Bereich.
 
-[^1-1]: [BBl 2008 6004](https://fedlex.data.admin.ch/eli/fga/2008/1055)
+[^1-1]: [BBl 2023 2829](https://fedlex.data.admin.ch/eli/fga/2023/2829)
+[^1-2]: Fassung gemäss Ziff. I des Beschlusses des PO ETH vom 13. Juni und 1. Nov. 2023, vom BR genehmigt am 29. Nov. 2023 und in Kraft seit 1. Jan. 2024 ([AS 2023 777](https://fedlex.data.admin.ch/eli/oc/2023/777)).
 
 #### Art. 2
 
@@ -62,9 +63,12 @@ beschliesst:
 
 #### Art. 4
 
-**Leistungsziel**
+**Leistungsziel und Referenzalter**[^4-1]
 
-Die dem vorliegenden Reglement zugrunde liegenden Modellrechnungen basieren auf dem Rücktrittsalter 65.
+Die dem vorliegenden Reglement zugrunde liegenden Modellrechnungen basieren auf dem Referenzalter gemäss Artikel 13 des Bundesgesetzes vom 25. Juni 1982[^4-2] über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge (BVG).
+
+[^4-1]: Fassung gemäss Ziff. I des Beschlusses des PO ETH vom 13. Juni und 1. Nov. 2023, vom BR genehmigt am 29. Nov. 2023 und in Kraft seit 1. Jan. 2024 ([AS 2023 777](https://fedlex.data.admin.ch/eli/oc/2023/777)).
+[^4-2]: [SR 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
 
 #### Art. 5
 
@@ -157,7 +161,11 @@ Versicherte und Rentenbeziehende, die Anspruch auf Leistungen von PUBLICA haben,
 
 **Voraussetzungen für die Aufnahme in die Versicherung**
 
-Angestellte Personen werden ab dem 1. Januar nach Vollendung des 21. Altersjahres gegen die Risiken Tod und Invalidität versichert.
+<sup>1</sup> Angestellte Personen werden ab dem 1. Januar nach Vollendung des 21. Altersjahres gegen die Risiken Tod und Invalidität versichert.
+
+<sup>2</sup> Personen, die bei einem Arbeitgeber des Vorsorgewerk ETH-Bereich nebenberuflich angestellt sind und die bereits für eine hauptberufliche Erwerbstätigkeit obligatorisch versichert sind oder im Hauptberuf eine selbständige Erwerbstätigkeit ausüben, werden ebenfalls versichert.[^14-1]
+
+[^14-1]: Eingefügt durch Ziff. I des Beschlusses des PO ETH vom 13. Juni und 1. Nov. 2023, vom BR genehmigt am 29. Nov. 2023 und in Kraft seit 1. Jan. 2024 ([AS 2023 777](https://fedlex.data.admin.ch/eli/oc/2023/777)).
 
 #### Art. 15 und 16
 
@@ -167,17 +175,19 @@ Angestellte Personen werden ab dem 1. Januar nach Vollendung des 21. Altersjahre
 
 #### Art. 17
 
-**Nicht zu versichernde Personen**
+**Nicht zu versichernde Personen**[^17-1]
 
 Nicht in die Versicherung bei PUBLICA aufgenommen werden angestellte Personen:
 
-- a. die bei einem Arbeitgeber des Vorsorgewerks ETH-Bereich lediglich nebenberuflich tätig sind und bereits für eine hauptberufliche Erwerbstätigkeit obligatorisch versichert sind oder im Hauptberuf eine selbständige Erwerbstätigkeit ausüben;
-- b. die im Sinne des IVG zu mindestens 70 Prozent invalid sind;
-- b<sup>bis</sup>.[^17-1] die nach Artikel 26*a* BVG bei der leistungspflichtigen Vorsorgeeinrichtung provisorisch weiterversichert werden;
-- c. die das 65. Altersjahr vollendet haben; oder
-- d. die nicht oder voraussichtlich nicht dauernd in der Schweiz tätig sind und im Ausland über einen genügenden Versicherungsschutz verfügen, auf deren Gesuch hin.
+- a. die im Sinne des Bundesgesetzes vom 19. Juni 1959[^17-2] über die Invalidenversicherung (IVG) zu mindestens 70 Prozent invalid sind;
+- b die nach Artikel 26*a* BVG[^17-3] bei der leistungspflichtigen Vorsorgeeinrichtung provisorisch weiterversichert werden;
+- c. die das Referenzalter erreicht haben;
+- d. die nicht oder voraussichtlich nicht dauernd in der Schweiz tätig sind und im Ausland über einen genügenden Versicherungsschutz verfügen, auf deren Gesuch hin;
+- e. die beim Arbeitgeber als gewähltes Leitungsorgan nebenberuflich tätig sind und die bereits für eine hauptberufliche Erwerbstätigkeit obligatorisch versichert sind oder im Hauptberuf eine selbständige Erwerbstätigkeit ausüben.
 
-[^17-1]: Eingefügt durch Ziff. I des Beschlusses des PO ETH vom 24. März 2012, vom BR genehmigt am 15. März 2013 und in Kraft seit 1. Jan. 2013 ([AS 2013 999](https://fedlex.data.admin.ch/eli/oc/2013/211)).
+[^17-1]: Fassung gemäss Ziff. I des Beschlusses des PO ETH vom 13. Juni und 1. Nov. 2023, vom BR genehmigt am 29. Nov. 2023 und in Kraft seit 1. Jan. 2024 ([AS 2023 777](https://fedlex.data.admin.ch/eli/oc/2023/777)).
+[^17-2]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^17-3]: [SR 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
 
 #### Art. 18
 
@@ -188,14 +198,15 @@ Nicht in die Versicherung bei PUBLICA aufgenommen werden angestellte Personen:
 Die Versicherung endet:
 
 - a.[^18-1] mit der Beendigung des Arbeitsverhältnisses, sofern in diesem Zeitpunkt kein Anspruch auf Alters- oder Invalidenleistungen fällig wird und die Versicherung nicht nach Artikel 18*d* weitergeführt wird;
-- b.[^18-2] bei Vollendung des 65. Altersjahres, unter Vorbehalt von Artikel 18*b.*
-- c.[^18-3] …
+- b.[^18-2] bei Erreichen des Referenzalters[^18-3], unter Vorbehalt von Artikel 18*b.*
+- c.[^18-4] …
 
 <sup>2</sup> Für die Risiken Tod und Invalidität bleibt die betreffende Person während eines Monats nach Beendigung des Arbeitsverhältnisses bei PUBLICA versichert. Die Leistungen entsprechen jenen, die bei Beendigung des Arbeitsverhältnisses versichert waren. Wird vorher ein neues Vorsorgeverhältnis begründet, so ist die neue Vorsorgeeinrichtung zuständig.
 
 [^18-1]: Fassung gemäss Ziff. I der Beschlüsse des PO ETH vom 26. März/20. Nov. 2020, vom BR genehmigt am 26. Jan. 2022 und in Kraft seit 1. Jan. 2021 ([AS 2022 75](https://fedlex.data.admin.ch/eli/oc/2022/75)).
 [^18-2]: Fassung gemäss Ziff. I der Beschlüsse des PO ETH vom 31. März/10. Mai 2011, vom ETH-Rat genehmigt am 6./7. Juli 2011 und vom BR genehmigt am 19. Okt. 2011 und in Kraft seit 1. Juli 2012 ([AS 2012 2119](https://fedlex.data.admin.ch/eli/oc/2012/277)).
-[^18-3]: Aufgehoben durch Ziff. I der Beschlüsse des PO ETH vom 31. März/10. Mai 2011, vom ETH-Rat genehmigt am 6./7. Juli 2011 und vom BR genehmigt am 19. Okt. 2011, mit Wirkung seit 1. Juli 2012 ([AS 2012 2119](https://fedlex.data.admin.ch/eli/oc/2012/277)).
+[^18-3]: Ausdruck gemäss Ziff. I Abs. 1 des Beschlusses des PO ETH vom 13. Juni und 1. Nov. 2023, vom BR genehmigt am 29. Nov. 2023 und in Kraft seit 1. Jan. 2024 ([AS 2023 777](https://fedlex.data.admin.ch/eli/oc/2023/777)). Diese Änd. wurde im ganzen Erlass vorgenommen.
+[^18-4]: Aufgehoben durch Ziff. I der Beschlüsse des PO ETH vom 31. März/10. Mai 2011, vom ETH-Rat genehmigt am 6./7. Juli 2011 und vom BR genehmigt am 19. Okt. 2011, mit Wirkung seit 1. Juli 2012 ([AS 2012 2119](https://fedlex.data.admin.ch/eli/oc/2012/277)).
 
 #### Art. 18a
 
@@ -207,11 +218,17 @@ Während eines unbezahlten oder teilweise bezahlten Urlaubs kann die versicherte
 
 #### Art. 18b
 
-**Weiterführung der Altersvorsorge nach Vollendung des 65. Altersjahres**[^18b-1]
+**Weiterführung der Altersvorsorge nach Erreichen der Altersgrenze**[^18b-1]
 
-Bei Fortsetzung des Arbeitsverhältnisses nach dem vollendeten 65. Altersjahr wird die Altersvorsorge der versicherten Person bis zur Beendigung des Arbeitsverhältnisses, höchstens aber bis zur Vollendung des 70. Altersjahres weitergeführt. Auf Verlangen der versicherten Person kann auf die Weiterführung der Altersvorsorge verzichtet werden.
+<sup>1</sup> Bei Fortsetzung des öffentlich-rechtlichen Arbeitsverhältnisses nach Erreichen der Altersgrenze gemäss Artikel 21 des Bundesgesetzes vom 20. Dezember 1946[^18b-2] über die Alters- und Hinterlassenenversicherung (AHVG) wird die Altersvorsorge der versicherten Person bis zur Beendigung des Arbeitsverhältnisses, höchstens aber bis zur Vollendung des 70. Altersjahres weitergeführt oder die Altersleistung nach Artikel 13*b* BVG[^18b-3] aufgeschoben. Auf Verlangen der versicherten Person kann auf die Weiterführung der Altersvorsorge verzichtet werden.
 
-[^18b-1]: Eingefügt durch Ziff. I der Beschlüsse des PO ETH vom 31. März/10. Mai 2011, vom ETH-Rat genehmigt am 6./7. Juli 2011 und vom BR genehmigt am 19. Okt. 2011 und in Kraft seit 1. Juli 2012 ([AS 2012 2119](https://fedlex.data.admin.ch/eli/oc/2012/277)).
+<sup>2</sup> Bei Fortsetzung des Arbeitsverhältnisses als privatrechtliche Anstellung nach dem Erreichen der Altersgrenze nach Artikel 21 AHVG wird die Altersvorsorge nicht weitergeführt. Auf Verlangen der versicherten Person kann der Bezug der Altersleistung bis zur Beendigung des Arbeitsverhältnisses, höchstens aber bis zur Vollendung des 70. Altersjahres aufgeschoben werden.
+
+<sup>3</sup> Beim Aufschub des Bezuges der Altersleistung wird das Altersguthaben gemäss Artikel 36 Absatz 8 verzinst.
+
+[^18b-1]: Eingefügt durch Ziff. I der Beschlüsse des PO ETH vom 31. März/10. Mai 2011, vom ETH-Rat genehmigt am 6./7. Juli 2011 und vom BR genehmigt am 19. Okt. 2011 ([AS 2012 2119](https://fedlex.data.admin.ch/eli/oc/2012/277)). Fassung gemäss Ziff. I des Beschlusses des PO ETH vom 13. Juni und 1. Nov. 2023, vom BR genehmigt am 29. Nov. 2023 und in Kraft seit 1. Jan. 2024 ([AS 2023 777](https://fedlex.data.admin.ch/eli/oc/2023/777)).
+[^18b-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^18b-3]: [SR 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
 
 #### Art. 18c
 
@@ -219,7 +236,7 @@ Bei Fortsetzung des Arbeitsverhältnisses nach dem vollendeten 65. Altersjahr wi
 
 <sup>1</sup> Wird der massgebende Jahreslohn einer versicherten Person nach Vollendung des 58. Altersjahres um maximal die Hälfte reduziert, so kann auf Verlangen der versicherten Person die Vorsorge für den bisherigen versicherten Verdienst ganz oder teilweise weitergeführt werden.
 
-<sup>2</sup> Die Weiterversicherung des bisherigen versicherten Verdienstes dauert höchstens bis zum Ende des Arbeitsverhältnisses. Sie endet in jedem Fall spätestens mit Vollendung des 65. Altersjahres.
+<sup>2</sup> Die Weiterversicherung des bisherigen versicherten Verdienstes dauert höchstens bis zum Ende des Arbeitsverhältnisses. Sie endet in jedem Fall spätestens mit Erreichen des Referenzalters.
 
 [^18c-1]: Eingefügt durch Ziff. I der Beschlüsse des PO ETH vom 31. März/10. Mai 2011, vom ETH-Rat genehmigt am 6./7. Juli 2011 und vom BR genehmigt am 19. Okt. 2011 und in Kraft seit 1. Juli 2012 ([AS 2012 2119](https://fedlex.data.admin.ch/eli/oc/2012/277)).
 
@@ -227,13 +244,13 @@ Bei Fortsetzung des Arbeitsverhältnisses nach dem vollendeten 65. Altersjahr wi
 
 **Weiterführung der Versicherung bei Auflösung des Arbeitsverhältnisses durch den Arbeitgeber oder in gegenseitigem Einvernehmen**[^18d-1]
 
-<sup>1</sup> Wird das Arbeitsverhältnis einer versicherten Person nach Vollendung des 58. Altersjahres und vor Vollendung des 65. Altersjahres vom Arbeitgeber oder in gegenseitigem Einvernehmen, aber auf Veranlassung des Arbeitgebers aufgelöst, so wird auf Verlangen der versicherten Person die Versicherung nach Artikel 47*a* Absätze 2–6 BVG weitergeführt. Die Anmeldung zur Weiterführung der Versicherung muss innerhalb von drei Monaten nach Auflösung des Arbeitsverhältnisses in schriftlicher Form bei PUBLICA eingehen.
+<sup>1</sup> Wird das Arbeitsverhältnis einer versicherten Person nach Vollendung des 58. Altersjahres und vor Erreichen des Referenzalters vom Arbeitgeber oder in gegenseitigem Einvernehmen, aber auf Veranlassung des Arbeitgebers aufgelöst, so wird auf Verlangen der versicherten Person die Versicherung nach Artikel 47*a* Absätze 2–6 BVG weitergeführt. Die Anmeldung zur Weiterführung der Versicherung muss innerhalb von drei Monaten nach Auflösung des Arbeitsverhältnisses in schriftlicher Form bei PUBLICA eingehen.
 
 <sup>2</sup> Die versicherte Person schuldet die Verwaltungskosten gemäss Kostenreglement und die Risikoprämie für die Versicherung der Risiken Tod und Invalidität. Führt sie auch die Altersvorsorge weiter, so schuldet sie zudem nebst den eigenen Sparbeiträgen auch die Sparbeiträge des Arbeitgebers; sie kann freiwillige Sparbeiträge leisten. Massgebend für die Berechnung der Sparbeiträge und der Risikoprämie ist der versicherte Verdienst im Zeitpunkt der Auflösung des Arbeitsverhältnisses. Die versicherte Person kann diesen ganz oder halb weiterversichern. Während der Weiterführung der Versicherung werden das Altersguthaben und die freiwilligen Sparbeiträge verzinst.
 
-<sup>3</sup> Die Weiterführung der Versicherung endet bei Eintritt der Risiken Tod oder Invalidität oder bei Vollendung des 65. Altersjahres. Bei Teilinvalidität wird der versicherte Verdienst entsprechend dem Anspruch auf Invalidenrente gekürzt.
+<sup>3</sup> Die Weiterführung der Versicherung endet bei Eintritt der Risiken Tod oder Invalidität oder bei Erreichen des Referenzalters. Bei Teilinvalidität wird der versicherte Verdienst entsprechend dem Anspruch auf Invalidenrente gekürzt.
 
-<sup>4</sup> Tritt die versicherte Person vor Vollendung des 65. Altersjahres in eine neue Vorsorgeeinrichtung ein, so wird die Austrittsleistung mindestens in dem Umfang überwiesen, der für den Einkauf in die vollen reglementarischen Leistungen der neuen Vorsorgeeinrichtung verwendet werden kann.
+<sup>4</sup> Tritt die versicherte Person vor Erreichen des Referenzalters in eine neue Vorsorgeeinrichtung ein, so wird die Austrittsleistung mindestens in dem Umfang überwiesen, der für den Einkauf in die vollen reglementarischen Leistungen der neuen Vorsorgeeinrichtung verwendet werden kann.
 
 <sup>5</sup> Verbleibt nach dieser Überweisung mindestens ein Drittel der Austrittsleistung bei PUBLICA, so wird die Versicherung weitergeführt. Der versicherte Verdienst wird entsprechend der überwiesenen Austrittsleistung gekürzt.
 
@@ -265,7 +282,10 @@ Endet die Versicherung infolge Kündigung durch die versicherte Person oder Kün
 
 <sup>3</sup> Der massgebende Jahreslohn darf das AHV-pflichtige Einkommen der versicherten Person nicht übersteigen. Vorbehalten bleiben die Artikel 18*a* und 18*c*.[^19-1]
 
+<sup>4</sup> Verfügt eine versicherte Person über mehrere Beschäftigungen im ETH-Bereich, so wird bei der Ermittlung des massgebenden Jahreslohnes der gesamte erzielte Lohn berücksichtigt.[^19-2]
+
 [^19-1]: Fassung gemäss Ziff. I der Beschlüsse des PO ETH vom 31. März/10. Mai 2011, vom ETH-Rat genehmigt am 6./7. Juli 2011 und vom BR genehmigt am 19. Okt. 2011 und in Kraft seit 1. Juli 2012 ([AS 2012 2119](https://fedlex.data.admin.ch/eli/oc/2012/277)).
+[^19-2]: Eingefügt durch Ziff. I des Beschlusses des PO ETH vom 13. Juni und 1. Nov. 2023, vom BR genehmigt am 29. Nov. 2023 und in Kraft seit 1. Jan. 2024 ([AS 2023 777](https://fedlex.data.admin.ch/eli/oc/2023/777)).
 
 #### Art. 20
 
@@ -385,7 +405,7 @@ Sie endet:
 - b. bei Invalidität nach Artikel 53;
 - c. mit Beendigung des Arbeitsverhältnisses;
 - c<sup>bis</sup>.[^27-2] mit Beendigung der Weiterführung der Versicherung nach Artikel 18*d*;
-- d. spätestens aber mit Vollendung des 65. Altersjahres der versicherten Person für die Risikoprämie und spätestens mit Vollendung des 70. Altersjahres der versicherten Person für die Sparbeiträge (Art. 24 und Art. 25);
+- d. spätestens aber mit Erreichen des Referenzalters der versicherten Person für die Risikoprämie und spätestens mit Vollendung des 70. Altersjahres der versicherten Person für die Sparbeiträge (Art. 24 und Art. 25);
 
 <sup>5</sup> Artikel 28 bleibt vorbehalten.
 
@@ -459,7 +479,7 @@ Austrittsleistungen anderer Vorsorgeeinrichtungen und Guthaben bei Freizügigkei
 
 #### Art. 32a
 
-**Einkauf mit Einmaleinlage bis zur Vollendung des 65. Altersjahres**[^32a-1]
+**Einkauf mit Einmaleinlage bis zum Erreichen des Referenzalters**[^32a-1]
 
 Die versicherte Person kann im Rahmen von Artikel 32 innerhalb von 90 Tagen ab Aufnahme in die Versicherung die Höhe des ersten Einkaufs frei bestimmen. Nach Ablauf dieser Frist beträgt der Mindestbetrag für einen Einkauf 5000 Franken. Ist die verbleibende mögliche Einkaufssumme geringer als 5000 Franken, so ist die gesamte Summe in einer Zahlung zu entrichten.
 
@@ -467,24 +487,26 @@ Die versicherte Person kann im Rahmen von Artikel 32 innerhalb von 90 Tagen ab A
 
 #### Art. 32b
 
-**Einkauf mit Einmaleinlage nach Vollendung des 65. Altersjahres**[^32b-1]
+**Einkauf mit Einmaleinlage nach Erreichen des Referenzalters**[^32b-1]
 
 <sup>1</sup>
 
-Ein Einkauf nach Vollendung des 65. Altersjahres ist im Rahmen von Artikel 32 möglich, wenn die versicherte Person:
+Ein Einkauf nach Erreichen des Referenzalters ist im Rahmen von Artikel 32 möglich, wenn die versicherte Person:[^32b-2]
 
-- a. sich bei Vollendung des 65. Altersjahres nicht vollständig eingekauft hat; und
-- b. seit Vollendung des 65. Altersjahres die Altersvorsorge nach Artikel 18*b* weitergeführt hat.
+- a. sich bei Erreichen des Referenzalters nicht vollständig eingekauft hat; und
+- b.[^32b-3] bei Erreichen des Referenzalters die Altersvorsorge weitergeführt oder den Bezug der Altersleistung aufgeschoben hat; beides nach Artikel 18*b*.
 
 <sup>2</sup>
 
 Massgebend für die Berechnung der Einkaufssumme sind:
 
-- a. der versicherte Verdienst bei Vollendung des 65. Altersjahres;
+- a. der versicherte Verdienst bei Erreichen des Referenzalters;
 - b. der Faktor (in Prozent des versicherten Verdienstes) für Alter 65 gemäss Anhang 3; und
 - c. das im Zeitpunkt des Einkaufs vorhandene Altersguthaben.
 
 [^32b-1]: Eingefügt durch Ziff. I der Beschlüsse des PO ETH vom 31. März/10. Mai 2011, vom ETH-Rat genehmigt am 6./7. Juli 2011 und vom BR genehmigt am 19. Okt. 2011 und in Kraft seit 1. Juli 2012 ([AS 2012 2119](https://fedlex.data.admin.ch/eli/oc/2012/277)).
+[^32b-2]: Fassung gemäss Ziff. I des Beschlusses des PO ETH vom 13. Juni und 1. Nov. 2023, vom BR genehmigt am 29. Nov. 2023 und in Kraft seit 1. Jan. 2024 ([AS 2023 777](https://fedlex.data.admin.ch/eli/oc/2023/777)).
+[^32b-3]: Fassung gemäss Ziff. I des Beschlusses des PO ETH vom 13. Juni und 1. Nov. 2023, vom BR genehmigt am 29. Nov. 2023 und in Kraft seit 1. Jan. 2024 ([AS 2023 777](https://fedlex.data.admin.ch/eli/oc/2023/777)).
 
 #### Art. 32c
 
@@ -494,9 +516,9 @@ Massgebend für die Berechnung der Einkaufssumme sind:
 
 #### Art. 33
 
-**Erhöhung der Altersrente bei Rücktritt vor Vollendung des 65. Altersjahres**
+**Erhöhung der Altersrente bei Rücktritt vor Erreichen des Referenzalters**
 
-<sup>1</sup> Frühestens mit der Anmeldung zum Rentenbezug vor Vollendung des 65. Altersjahres kann die versicherte Person durch einen Einkauf ihre Altersrente maximal bis zur Höhe ihrer versicherten Invalidenrente erhöhen. Für diese Berechnung der Altersrente bleibt ein allfälliges ZP-Konto unberücksichtigt. Erfolgt die Meldung dieses Einkaufs weniger als drei Monate vor dem Rücktritt, werden der versicherten Person die Verwaltungskosten gemäss Kostenreglement in Rechnung gestellt.
+<sup>1</sup> Frühestens mit der Anmeldung zum Rentenbezug vor Erreichen des Referenzalters kann die versicherte Person durch einen Einkauf ihre Altersrente maximal bis zur Höhe ihrer versicherten Invalidenrente erhöhen. Für diese Berechnung der Altersrente bleibt ein allfälliges ZP-Konto unberücksichtigt. Erfolgt die Meldung dieses Einkaufs weniger als drei Monate vor dem Rücktritt, werden der versicherten Person die Verwaltungskosten gemäss Kostenreglement in Rechnung gestellt.
 
 <sup>2</sup> Diese Erhöhung der Altersrente kann nur mittels einer einmaligen Direktzahlung erfolgen.
 
@@ -544,9 +566,9 @@ Der Abzug des Beitragsanteils erfolgt:
 - a. bei den versicherten Personen monatlich vom Lohn;
 - b. bei den Rentenbeziehenden monatlich von der Rente.
 
-<sup>3</sup> Bei einer Weiterführung der Versicherung nach Artikel 18*d* schuldet die versicherte Person ihren Sanierungsbeitrag. Dieser wird ihr in Rechnung gestellt.[^35-1]
+<sup>3</sup> Beim Aufschub des Leistungsbezuges nach Artikel 18*b* oder einer Weiterführung der Versicherung nach Artikel 18*d* schuldet die versicherte Person ihren Sanierungsbeitrag. Dieser wird ihr in Rechnung gestellt.[^35-1]
 
-[^35-1]: Eingefügt durch Ziff. I der Beschlüsse des PO ETH vom 26. März/20. Nov. 2020, vom BR genehmigt am 26. Jan. 2022 und in Kraft seit 1. Jan. 2021 ([AS 2022 75](https://fedlex.data.admin.ch/eli/oc/2022/75)).
+[^35-1]: Eingefügt durch Ziff. I der Beschlüsse des PO ETH vom 26. März/20. Nov. 2020, vom BR genehmigt am 26. Jan. 2022 ([AS 2022 75](https://fedlex.data.admin.ch/eli/oc/2022/75)). Fassung gemäss Ziff. I des Beschlusses des PO ETH vom 13. Juni und 1. Nov. 2023, vom BR genehmigt am 29. Nov. 2023 und in Kraft seit 1. Jan. 2024 ([AS 2023 777](https://fedlex.data.admin.ch/eli/oc/2023/777)).
 
 ## 6. Kapitel: Leistungen
 
@@ -607,27 +629,28 @@ Vom Altersguthaben werden abgezogen:
 
 <sup>2</sup> Er erlischt am Ende des Monats, in dessen Verlauf die rentenbeziehende Person stirbt.
 
-<sup>3</sup> Hat eine versicherte Person bei Beendigung des Arbeitsverhältnisses Anspruch auf eine Altersrente und hat sie das 70. Altersjahr noch nicht vollendet, so kann sie statt der Altersrente verlangen, dass ihr die Austrittsleistung an die Vorsorgeeinrichtung des neuen Arbeitgebers überwiesen wird. Wenn sie das 65. Altersjahr noch nicht vollendet hat und als arbeitslos gemeldet ist oder eine selbstständige Erwerbstätigkeit aufnimmt, kann sie statt der Altersrente die Überweisung der Austrittsleistung an eine Freizügigkeitseinrichtung verlangen (Art. 84).[^37-1]
+<sup>3</sup> Hat eine versicherte Person bei Beendigung des Arbeitsverhältnisses Anspruch auf eine Altersrente und hat sie das 70. Altersjahr noch nicht vollendet, so kann sie statt der Altersrente verlangen, dass ihr die Austrittsleistung an die Vorsorgeeinrichtung des neuen Arbeitgebers überwiesen wird. Wenn sie das Referenzalter noch nicht erreicht hat und als arbeitslos gemeldet ist oder eine selbstständige Erwerbstätigkeit aufnimmt, kann sie statt der Altersrente die Überweisung der Austrittsleistung an eine Freizügigkeitseinrichtung verlangen (Art. 84).[^37-1]
 
 <sup>4</sup> Die versicherte Person muss die Überweisung der Austrittsleistung spätestens 30 Tage vor der Beendigung des Arbeitsverhältnisses schriftlich PUBLICA beantragen. Erfolgt der Antrag weniger als 30 Tage vor Beendigung des Arbeitsverhältnisses oder nach dessen Beendigung, so können der versicherten Person die dafür vorgesehenen Verwaltungskosten in Rechnung gestellt werden, sofern das Kostenreglement dies vorsieht.
 
-[^37-1]: Fassung gemäss Ziff. I der Beschlüsse des PO ETH vom 31. März/10. Mai 2011, vom ETH-Rat genehmigt am 6./7. Juli 2011 und vom BR genehmigt am 19. Okt. 2011 und in Kraft seit 1. Juli 2012 ([AS 2012 2119](https://fedlex.data.admin.ch/eli/oc/2012/277)).
+[^37-1]: Fassung gemäss Ziff. I des Beschlusses des PO ETH vom 13. Juni und 1. Nov. 2023, vom BR genehmigt am 29. Nov. 2023 und in Kraft seit 1. Jan. 2024 ([AS 2023 777](https://fedlex.data.admin.ch/eli/oc/2023/777)).
 
 #### Art. 38
 
 **Teilpensionierung**
 
-<sup>1</sup> Reduziert die versicherte Person nach dem vollendeten 60. Altersjahr ihren Beschäftigungsgrad, so hat sie Anspruch auf eine Teilaltersleistung entsprechend der Reduktion des Beschäftigungsgrads. Der Teilpensionierungsgrad entspricht der Reduktion des Beschäftigungsgrades.
+<sup>1</sup> Wird der Lohn der versicherten Person nach dem vollendeten 60. Altersjahr reduziert, so hat sie Anspruch auf eine Teilaltersleistung. Der Anteil der vorbezogenen Altersleistung darf den Anteil der Lohnreduktion jeweils nicht übersteigen.[^38-1]
 
-<sup>2</sup> Die versicherte Person kann nach dem vollendeten 60. Altersjahr ein oder mehrere Male eine Teilaltersleistung verlangen.[^38-1]
+<sup>2</sup> Die versicherte Person kann nach dem vollendeten 60. Altersjahr ein oder mehrere Male eine Teilaltersleistung verlangen.[^38-2]
 
-<sup>3</sup> Das Altersguthaben sowie ein allfälliges Guthaben auf einem ZP-Konto (Art. 25) werden bei Teilpensionierung anteilmässig in eine Teilaltersleistung nach Artikel 39 umgewandelt. Die verbleibenden Teile des Altersguthabens und des Guthabens auf dem ZP-Konto werden weitergeführt. Der verbleibende versicherte Verdienst wird gemäss den Bestimmungen für die Teilzeitbeschäftigung (Art. 21) berechnet.[^38-2]
+<sup>3</sup> Das Altersguthaben sowie ein allfälliges Guthaben auf einem ZP-Konto (Art. 25) werden bei Teilpensionierung anteilmässig in eine Teilaltersleistung nach Artikel 39 umgewandelt. Die verbleibenden Teile des Altersguthabens und des Guthabens auf dem ZP-Konto werden weitergeführt. Der verbleibende versicherte Verdienst wird gemäss den Bestimmungen für die Teilzeitbeschäftigung (Art. 21) berechnet.[^38-3]
 
-<sup>4</sup> Hat eine versicherte Person bei Beendigung des Arbeitsverhältnisses Anspruch auf eine Teilaltersrente und hat sie das 70. Altersjahr noch nicht vollendet, so gilt Artikel 37 Absätze 3 und 4 sinngemäss. Vorbehalten bleibt die Weiterführung der Vorsorge nach Artikel 18*c*.[^38-3]
+<sup>4</sup> Hat eine versicherte Person bei Beendigung des Arbeitsverhältnisses Anspruch auf eine Teilaltersrente und hat sie das 70. Altersjahr noch nicht vollendet, so gilt Artikel 37 Absätze 3 und 4 sinngemäss. Vorbehalten bleibt die Weiterführung der Vorsorge nach Artikel 18*c*.[^38-4]
 
-[^38-1]: Fassung gemäss Ziff. I der Beschlüsse des PO ETH vom 31. März/10. Mai 2011, vom ETH-Rat genehmigt am 6./7. Juli 2011 und vom BR genehmigt am 19. Okt. 2011 und in Kraft seit 1. Juli 2012 ([AS 2012 2119](https://fedlex.data.admin.ch/eli/oc/2012/277)).
+[^38-1]: Fassung gemäss Ziff. I des Beschlusses des PO ETH vom 13. Juni und 1. Nov. 2023, vom BR genehmigt am 29. Nov. 2023 und in Kraft seit 1. Jan. 2024 ([AS 2023 777](https://fedlex.data.admin.ch/eli/oc/2023/777)).
 [^38-2]: Fassung gemäss Ziff. I der Beschlüsse des PO ETH vom 31. März/10. Mai 2011, vom ETH-Rat genehmigt am 6./7. Juli 2011 und vom BR genehmigt am 19. Okt. 2011 und in Kraft seit 1. Juli 2012 ([AS 2012 2119](https://fedlex.data.admin.ch/eli/oc/2012/277)).
 [^38-3]: Fassung gemäss Ziff. I der Beschlüsse des PO ETH vom 31. März/10. Mai 2011, vom ETH-Rat genehmigt am 6./7. Juli 2011 und vom BR genehmigt am 19. Okt. 2011 und in Kraft seit 1. Juli 2012 ([AS 2012 2119](https://fedlex.data.admin.ch/eli/oc/2012/277)).
+[^38-4]: Fassung gemäss Ziff. I der Beschlüsse des PO ETH vom 31. März/10. Mai 2011, vom ETH-Rat genehmigt am 6./7. Juli 2011 und vom BR genehmigt am 19. Okt. 2011 und in Kraft seit 1. Juli 2012 ([AS 2012 2119](https://fedlex.data.admin.ch/eli/oc/2012/277)).
 
 #### Art. 39
 
@@ -647,23 +670,26 @@ Vom Altersguthaben werden abgezogen:
 
 <sup>1</sup> Bei Altersrücktritt können bis zu 100 Prozent der Summe aus dem Altersguthaben nach Artikel 36 sowie aus einem allfälligen Guthaben aus dem ZP-Konto (Art. 25), als einmalige Kapitalabfindung bezogen werden. Erfolgt die Meldung des Kapitalbezugs weniger als drei Monate vor dem Rücktritt, so werden der versicherten Person die Verwaltungskosten gemäss Kostenreglement in Rechnung gestellt. Die Überweisung der Kapitalabfindung erfolgt nach Bezahlung des Verwaltungskostenbeitrages.[^40-1]
 
-<sup>2</sup> …[^40-2]
+<sup>1bis</sup> Der Bezug der Altersleistung in Kapitalform ist in höchstens drei Schritten zulässig. Ein Schritt umfasst sämtliche Bezüge von Altersleistungen in Kapitalform innerhalb eines Kalenderjahres.[^40-2]
 
-<sup>2bis</sup> Wird das Arbeitsverhältnis einer versicherten Person, die eine Kapitalabfindung beziehen kann, ohne deren Verschulden durch den Arbeitgeber aufgelöst, so kann die versicherte Person den Kapitalbezug oder die einmalige Änderung eines bereits gemeldeten Kapitalbezugs bis zum Altersrücktritt melden. Für die Bezahlung der Verwaltungskosten gilt Absatz 1 sinngemäss.[^40-3]
+<sup>2</sup> …[^40-3]
+
+<sup>2bis</sup> …[^40-4]
 
 <sup>3</sup> Bei verheirateten versicherten Personen setzt der Bezug einer Kapitalabfindung die schriftliche Zustimmung des Ehegatten oder der Ehegattin mittels beglaubigter Unterschrift voraus. Statt die Unterschrift beglaubigen zu lassen, kann der Ehegatte oder die Ehegattin bei PUBLICA die Zustimmungserklärung persönlich unter Vorlage eines amtlichen Personalausweises unterschreiben.
 
 <sup>4</sup> Im Umfang des Bezugs einer Kapitalabfindung werden die Altersrente und die damit versicherten übrigen Leistungen mit Ausnahme der Überbrückungsrente gekürzt.
 
-<sup>5</sup> Wurden Einkäufe (Art. 32, 32*a*, 32*b* und 33) getätigt, so dürfen die daraus resultierenden Leistungen innerhalb der nächsten drei Jahre nicht in Kapitalform aus der Vorsorge zurückgezogen werden. Von der Begrenzung ausgenommen sind die Wiedereinkäufe im Fall der Scheidung nach Artikel 22d FZG.[^40-4]
+<sup>5</sup> Wurden Einkäufe (Art. 32, 32*a*, 32*b* und 33) getätigt, so dürfen die daraus resultierenden Leistungen innerhalb der nächsten drei Jahre nicht in Kapitalform aus der Vorsorge zurückgezogen werden. Von der Begrenzung ausgenommen sind die Wiedereinkäufe im Fall der Scheidung nach Artikel 22d FZG.[^40-5]
 
-<sup>6</sup> Der Kapitalbezug ist ausgeschlossen, wenn die Weiterführung der Versicherung nach Artikel 18*d* mehr als zwei Jahre gedauert hat.[^40-5]
+<sup>6</sup> Der Kapitalbezug ist ausgeschlossen, wenn die Weiterführung der Versicherung nach Artikel 18*d* mehr als zwei Jahre gedauert hat.[^40-6]
 
 [^40-1]: Fassung gemäss Ziff. I der Beschlüsse des PO ETH vom 26. März/20. Nov. 2020, vom BR genehmigt am 26. Jan. 2022 und in Kraft seit 1. Jan. 2021 ([AS 2022 75](https://fedlex.data.admin.ch/eli/oc/2022/75)).
-[^40-2]: Aufgehoben durch Ziff. I der Beschlüsse des PO ETH vom 26. März/20. Nov. 2020, vom BR genehmigt am 26. Jan. 2022, mit Wirkung seit 1. Jan. 2021 ([AS 2022 75](https://fedlex.data.admin.ch/eli/oc/2022/75)).
-[^40-3]: Eingefügt durch Ziff. I des Beschlusses des PO ETH vom 24. März 2012, vom BR genehmigt am 15. März 2013 und in Kraft seit 1. Jan. 2013 ([AS 2013 999](https://fedlex.data.admin.ch/eli/oc/2013/211)).
-[^40-4]: Fassung gemäss Ziff. I des Beschlusses des PO ETH vom 30. Nov. 2017, vom ETH-Rat genehmigt am 13./14. Dez. 2017 und vom BR genehmigt am 25. April 2018 und in Kraft seit 1. Mai 2018 ([AS 2018 2485](https://fedlex.data.admin.ch/eli/oc/2018/355)).
-[^40-5]: Eingefügt durch Ziff. I der Beschlüsse des PO ETH vom 26. März/20. Nov. 2020, vom BR genehmigt am 26. Jan. 2022 und in Kraft seit 1. Jan. 2021 ([AS 2022 75](https://fedlex.data.admin.ch/eli/oc/2022/75)).
+[^40-2]: Eingefügt durch Ziff. I des Beschlusses des PO ETH vom 13. Juni und 1. Nov. 2023, vom BR genehmigt am 29. Nov. 2023 und in Kraft seit 1. Jan. 2024 ([AS 2023 777](https://fedlex.data.admin.ch/eli/oc/2023/777)).
+[^40-3]: Aufgehoben durch Ziff. I der Beschlüsse des PO ETH vom 26. März/20. Nov. 2020, vom BR genehmigt am 26. Jan. 2022, mit Wirkung seit 1. Jan. 2021 ([AS 2022 75](https://fedlex.data.admin.ch/eli/oc/2022/75)).
+[^40-4]: Eingefügt durch Ziff. I des Beschlusses des PO ETH vom 24. März 2012, vom BR genehmigt am 15. März 2013 ([AS 2013 999](https://fedlex.data.admin.ch/eli/oc/2013/211)). Aufgehoben durch Ziff. I des Beschlusses des PO ETH vom 13. Juni und 1. Nov. 2023, vom BR genehmigt am 29. Nov. 2023 und mit Wirkung seit 1. Jan. 2024 ([AS 2023 777](https://fedlex.data.admin.ch/eli/oc/2023/777)).
+[^40-5]: Fassung gemäss Ziff. I des Beschlusses des PO ETH vom 30. Nov. 2017, vom ETH-Rat genehmigt am 13./14. Dez. 2017 und vom BR genehmigt am 25. April 2018 und in Kraft seit 1. Mai 2018 ([AS 2018 2485](https://fedlex.data.admin.ch/eli/oc/2018/355)).
+[^40-6]: Eingefügt durch Ziff. I der Beschlüsse des PO ETH vom 26. März/20. Nov. 2020, vom BR genehmigt am 26. Jan. 2022 und in Kraft seit 1. Jan. 2021 ([AS 2022 75](https://fedlex.data.admin.ch/eli/oc/2022/75)).
 
 #### Art. 41
 
@@ -677,9 +703,10 @@ Vom Altersguthaben werden abgezogen:
 
 **Höhe der Alters-Kinderrente**[^42-1]
 
-Die Alters-Kinderrente beträgt einen Sechstel der laufenden Altersrente; bei Scheidung vorbehalten ist Artikel 99 Absatz 6 erster Satz.
+Die Alters-Kinderrente entspricht dem Betrag der Alters-Kinderrente gemäss BVG[^42-2]; bei Scheidung vorbehalten ist Artikel 99 Absatz 6 erster Satz.
 
-[^42-1]: Fassung gemäss Ziff. I des Beschlusses des PO ETH vom 1. Dez. 2016, vom ETH-Rat genehmigt am 7. Dez. 2016 und vom BR genehmigt am 10. Mai 2017 und in Kraft seit 1. Jan. 2017 ([AS 2017 3301](https://fedlex.data.admin.ch/eli/oc/2017/345)).
+[^42-1]: Fassung gemäss Ziff. I des Beschlusses des PO ETH vom 13. Juni und 1. Nov. 2023, vom BR genehmigt am 29. Nov. 2023 und in Kraft seit 1. Jan. 2024 ([AS 2023 777](https://fedlex.data.admin.ch/eli/oc/2023/777)).
+[^42-2]: [SR 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
 
 ### 2. Abschnitt: Hinterlassenenleistungen
 
@@ -798,17 +825,18 @@ Der Anspruch erlischt:
 
 Die Ehegatten- und die Lebenspartnerrente betragen:
 
-- a. beim Tod einer versicherten Person, die das 65. Altersjahr noch nicht erreicht hat: zwei Drittel der versicherten Invalidenrente;
+- a. beim Tod einer versicherten Person, die das Referenzalter noch nicht erreicht hat: zwei Drittel der versicherten Invalidenrente;
 - b. beim Tod einer Person, die eine Alters- oder Invalidenrente bezieht: zwei Drittel der laufenden Altersrente oder der versicherten Invalidenrente;
-- c. beim Tod einer versicherten Person, die das 65. Altersjahr vollendet hat: zwei Drittel der im Zeitpunkt des Todes von der versicherten Person erworbenen Altersrente, berechnet auf der Grundlage des Altersguthabens nach Artikel 36.
+- c. beim Tod einer versicherten Person, die das Referenzalter erreicht hat: zwei Drittel der im Zeitpunkt des Todes von der versicherten Person erworbenen Altersrente, berechnet auf der Grundlage des Altersguthabens nach Artikel 36.[^46-1]
 
 <sup>2</sup> Ist der überlebende Ehegatte beziehungsweise Lebenspartner oder die überlebende Ehegattin beziehungsweise Lebenspartnerin mehr als 15 Jahre jünger als die verstorbene versicherte Person und hat die Ehe beziehungsweise die Lebenspartnerschaft weniger als 5 Jahre gedauert und muss die überlebende Person nicht für den Unterhalt von wenigstens einem Kind aufkommen, so wird die Rente um zwei Prozent ihres vollen Betrages für jedes ganze oder angebrochene Jahr gekürzt, um das die überlebende anspruchsberechtigte Person mehr als 15 Jahre jünger ist als die versicherte Person.
 
 <sup>3</sup> Die Ehegattenrente nach Artikel 44 Absatz 5 entspricht dem Betrag der Ehegattenrente gemäss BVG (BVG-Minimalleistung).
 
-<sup>4</sup> Sie wird um jenen Betrag gekürzt, um den sie zusammen mit den Hinterlassenenleistungen der AHV den Anspruch aus dem Scheidungsurteil übersteigt. Hinterlassenenrenten der AHV werden dabei nur so weit angerechnet, als sie höher sind als ein eigener Anspruch auf eine Invalidenrente der IV oder eine Altersrente der AHV.[^46-1]
+<sup>4</sup> Sie wird um jenen Betrag gekürzt, um den sie zusammen mit den Hinterlassenenleistungen der AHV den Anspruch aus dem Scheidungsurteil übersteigt. Hinterlassenenrenten der AHV werden dabei nur so weit angerechnet, als sie höher sind als ein eigener Anspruch auf eine Invalidenrente der IV oder eine Altersrente der AHV.[^46-2]
 
-[^46-1]: Fassung gemäss Ziff. I des Beschlusses des PO ETH vom 1. Dez. 2016, vom ETH-Rat genehmigt am 7. Dez. 2016 und vom BR genehmigt am 10. Mai 2017 und in Kraft seit 1. Jan. 2017 ([AS 2017 3301](https://fedlex.data.admin.ch/eli/oc/2017/345)).
+[^46-1]: Fassung gemäss Ziff. I des Beschlusses des PO ETH vom 13. Juni und 1. Nov. 2023, vom BR genehmigt am 29. Nov. 2023 und in Kraft seit 1. Jan. 2024 ([AS 2023 777](https://fedlex.data.admin.ch/eli/oc/2023/777)).
+[^46-2]: Fassung gemäss Ziff. I des Beschlusses des PO ETH vom 1. Dez. 2016, vom ETH-Rat genehmigt am 7. Dez. 2016 und vom BR genehmigt am 10. Mai 2017 und in Kraft seit 1. Jan. 2017 ([AS 2017 3301](https://fedlex.data.admin.ch/eli/oc/2017/345)).
 
 #### Art. 47
 
@@ -837,13 +865,13 @@ Der Anspruch auf eine Waisenrente erlischt mit dem Tod des Waisen oder der Waise
 
 Die Waisenrente beträgt:
 
-- a. beim Tod einer versicherten Person, die das 65. Altersjahr noch nicht erreicht hat: einen Sechstel der versicherten Invalidenrente;
-- b.[^48-1] beim Tod einer Person, die eine Alters- oder Invalidenrente bezieht: einen Sechstel der laufenden Altersrente oder der versicherten Invalidenrente; bei Scheidung vorbehalten ist Artikel 99 Absatz 6 zweiter Satz;
-- c. beim Tod einer versicherten Person, die das 65. Altersjahr vollendet hat: einen Sechstel der im Zeitpunkt des Todes der versicherten Person erworbenen Altersrente, berechnet auf der Grundlage des Altersguthabens nach Artikel 36.
+- a. beim Tod einer versicherten Person, die das Referenzalter noch nicht erreicht hat: einen Sechstel der versicherten Invalidenrente;
+- b. beim Tod einer Person, die eine Alters- oder Invalidenrente bezieht: einen Sechstel der laufenden Altersrente oder der versicherten Invalidenrente; bei Scheidung vorbehalten ist Artikel 99 Absatz 6 zweiter Satz;
+- c. beim Tod einer versicherten Person, die das Referenzalter erreicht hat: einen Sechstel der im Zeitpunkt des Todes der versicherten Person erworbenen Altersrente, berechnet auf der Grundlage des Altersguthabens nach Artikel 36.[^48-1]
 
 <sup>2</sup> Vollwaisen erhalten die doppelte Waisenrente.
 
-[^48-1]: Fassung gemäss Ziff. I des Beschlusses des PO ETH vom 1. Dez. 2016, vom ETH-Rat genehmigt am 7. Dez. 2016 und vom BR genehmigt am 10. Mai 2017 und in Kraft seit 1. Jan. 2017 ([AS 2017 3301](https://fedlex.data.admin.ch/eli/oc/2017/345)).
+[^48-1]: Fassung gemäss Ziff. I des Beschlusses des PO ETH vom 13. Juni und 1. Nov. 2023, vom BR genehmigt am 29. Nov. 2023 und in Kraft seit 1. Jan. 2024 ([AS 2023 777](https://fedlex.data.admin.ch/eli/oc/2023/777)).
 
 #### Art. 49
 
@@ -851,26 +879,42 @@ Die Waisenrente beträgt:
 
 <sup>1</sup>
 
-Stirbt eine versicherte Person und entsteht kein Anspruch nach den Artikeln 44 und 45, so zahlt PUBLICA ein Todesfallkapital aus. Anspruchsberechtigt sind, unabhängig vom Erbrecht, in nachstehender Reihenfolge:
+Stirbt eine versicherte Person und entsteht kein Anspruch nach den Artikeln 44 Absätze 1 und 2 und 45, so zahlt PUBLICA ein Todesfallkapital aus. Nicht ausgeschlossen ist der Anspruch auf ein Todesfallkapital bei Ausrichtung einer Ehegattenrente an den geschiedenen Ehegatten oder die geschiedene Ehegattin (Art. 44 Abs. 5). Anspruchsberechtigt sind, unabhängig vom Erbrecht, in nachstehender Reihenfolge:[^49-1]
 
 - a. natürliche Personen, die von der versicherten Person in erheblichem Masse unterstützt worden sind;
-- b.[^49-1] die Person, die mit der versicherten Person in den letzten fünf Jahren vor dem Tod ununterbrochen eine Lebenspartnerschaft geführt hat oder die für den Unterhalt eines oder mehrerer gemeinsamer Kinder aufkommen muss, sofern die Anspruchsvoraussetzungen nach Artikel 45 Absätze 2 und 3 erfüllt sind;
+- b.[^49-2] die Person, die mit der versicherten Person in den letzten fünf Jahren vor dem Tod ununterbrochen eine Lebenspartnerschaft geführt hat oder die für den Unterhalt eines oder mehrerer gemeinsamer Kinder aufkommen muss, sofern die Anspruchsvoraussetzungen nach Artikel 45 Absätze 2 und 3 erfüllt sind;
 - c. die Kinder der versicherten Person;
-- d. die Eltern.
+- d. die Eltern;
+- e.[^49-3] die Geschwister.
 
 <sup>2</sup> Nicht anspruchsberechtigt sind Personen nach Absatz 1 Buchstaben a und b, die von einer anderen Vorsorgeeinrichtung eine Ehegatten- oder Lebenspartnerrente beziehen.
+
+<sup>2bis</sup> Die versicherte Person kann die Rangfolge der anspruchsberechtigten Gruppe zwischen Absatz 1 Buchstaben d und e ändern. Die entsprechende Erklärung ist PUBLICA innert 3 Monaten nach dem Tod einzureichen. Wird innert dieser Frist keine Erklärung eingereicht, so wird das Todesfallkapital entsprechend der Rangordnung gemäss Absatz 1 ausbezahlt.[^49-4]
 
 <sup>3</sup> Das Todesfallkapital steht mehreren Anspruchsberechtigten derselben Begünstigtengruppe zu gleichen Teilen zu.
 
 <sup>4</sup> Werden innerhalb eines Jahres seit dem Tod der versicherten Person keine Ansprüche geltend gemacht, verfällt das Todesfallkapital an PUBLICA.
 
-[^49-1]: Fassung gemäss Ziff. I der Beschlüsse des PO ETH vom 31. März/10. Mai 2011, vom ETH-Rat genehmigt am 6./7. Juli 2011 und vom BR genehmigt am 19. Okt. 2011 und in Kraft seit 1. Juli 2012 ([AS 2012 2119](https://fedlex.data.admin.ch/eli/oc/2012/277)).
+[^49-1]: Fassung gemäss Ziff. I des Beschlusses des PO ETH vom 13. Juni und 1. Nov. 2023, vom BR genehmigt am 29. Nov. 2023 und in Kraft seit 1. Jan. 2024 ([AS 2023 777](https://fedlex.data.admin.ch/eli/oc/2023/777)).
+[^49-2]: Fassung gemäss Ziff. I der Beschlüsse des PO ETH vom 31. März/10. Mai 2011, vom ETH-Rat genehmigt am 6./7. Juli 2011 und vom BR genehmigt am 19. Okt. 2011 und in Kraft seit 1. Juli 2012 ([AS 2012 2119](https://fedlex.data.admin.ch/eli/oc/2012/277)).
+[^49-3]: Eingefügt durch Ziff. I des Beschlusses des PO ETH vom 13. Juni und 1. Nov. 2023, vom BR genehmigt am 29. Nov. 2023 und in Kraft seit 1. Jan. 2024 ([AS 2023 777](https://fedlex.data.admin.ch/eli/oc/2023/777)).
+[^49-4]: Eingefügt durch Ziff. I des Beschlusses des PO ETH vom 13. Juni und 1. Nov. 2023, vom BR genehmigt am 29. Nov. 2023 und in Kraft seit 1. Jan. 2024 ([AS 2023 777](https://fedlex.data.admin.ch/eli/oc/2023/777)).
+
+#### Art. 49a
+
+**Zusätzliches Todesfallkapital**[^49a-1]
+
+Besteht ein Anspruch auf eine Rente nach den Artikeln 44 und 45 und übersteigt das Altersguthaben im Zeitpunkt des Todes der versicherten Person den Barwert der Hinterlassenenleistungen, so wird der übersteigende Teil als einmalige Kapitalabfindung an die gemäss Artikel 44 Absatz 1 oder Artikel 45 anspruchsberechtigte Person ausbezahlt.
+
+[^49a-1]: Eingefügt durch Ziff. I des Beschlusses des PO ETH vom 13. Juni und 1. Nov. 2023, vom BR genehmigt am 29. Nov. 2023 und in Kraft seit 1. Jan. 2024 ([AS 2023 777](https://fedlex.data.admin.ch/eli/oc/2023/777)).
 
 #### Art. 50
 
-**Höhe des Todesfallkapitals**
+**Höhe des Todesfallkapitals**[^50-1]
 
-Das Todesfallkapital für die nach Artikel 49 Absatz 1 Anspruchsberechtigten entspricht der Hälfte des Altersguthabens im Zeitpunkt des Todes der versicherten Person, mindestens aber dem Betrag von zwei Ehegattenjahresrenten gemäss Artikel 46 Absatz 1. Das Todesfallkapital wird um den Barwert einer allfälligen Waisenrente (Art. 47 f.) reduziert.
+Das Todesfallkapital für die nach Artikel 49 Absatz 1 Anspruchsberechtigten entspricht einer Kapitalabfindung in der Höhe von 100 Prozent des Altersguthabens im Zeitpunkt des Todes, mindestens aber dem Betrag von zwei Ehegattenrenten gemäss Artikel 46 Absatz 1. Das Todesfallkapital wird um den Barwert einer Waisenrente (Art. 47 und 48) oder einer Rente an einen geschiedenen Ehegatten oder einer geschiedenen Ehegattin (Art. 44 Abs. 5) reduziert.
+
+[^50-1]: Fassung gemäss Ziff. I des Beschlusses des PO ETH vom 13. Juni und 1. Nov. 2023, vom BR genehmigt am 29. Nov. 2023 und in Kraft seit 1. Jan. 2024 ([AS 2023 777](https://fedlex.data.admin.ch/eli/oc/2023/777)).
 
 ### 3. Abschnitt: Invalidenleistungen
 
@@ -890,9 +934,10 @@ Anspruch auf Invalidenleistungen hat die versicherte Person, die:
 
 <sup>3</sup> Arbeitsunfähigkeit ist die durch eine Beeinträchtigung der körperlichen, geistigen oder psychischen Gesundheit bedingte, volle oder teilweise Unfähigkeit, im bisherigen Beruf oder Aufgabenbereich zumutbare Arbeit zu leisten. Bei langer Dauer wird auch die zumutbare Tätigkeit in einem anderen Beruf oder Aufgabenbereich berücksichtigt (Art. 6 ATSG).
 
-<sup>4</sup> Bei Rücktritt vor vollendetem 65. Altersjahr kann der Anspruch auf Invalidenrente nur entstehen, wenn die Arbeitsunfähigkeit, die zur Invalidität geführt hat, vor der Pensionierung eingetreten ist.
+<sup>4</sup> Bei Rücktritt vor Erreichen des Referenzalters kann der Anspruch auf Invalidenrente nur entstehen, wenn die Arbeitsunfähigkeit, die zur Invalidität geführt hat, vor der Pensionierung eingetreten ist.[^51-2]
 
 [^51-1]: Aufgehoben durch Ziff. I des Beschlusses des PO ETH vom 24. März 2012, vom BR genehmigt am 15. März 2013 und mit Wirkung seit 1. Jan. 2013 ([AS 2013 999](https://fedlex.data.admin.ch/eli/oc/2013/211)).
+[^51-2]: Fassung gemäss Ziff. I des Beschlusses des PO ETH vom 13. Juni und 1. Nov. 2023, vom BR genehmigt am 29. Nov. 2023 und in Kraft seit 1. Jan. 2024 ([AS 2023 777](https://fedlex.data.admin.ch/eli/oc/2023/777)).
 
 #### Art. 52
 
@@ -966,14 +1011,32 @@ Bei Teilinvalidität kann die anspruchsberechtigte Person das geäufnete Guthabe
 
 #### Art. 56
 
-**Umfang des Anspruchs auf eine Invalidenrente**
+**Umfang des Anspruchs auf eine Invalidenrente**[^56-1]
 
-Die invalide Person hat Anspruch auf:
+<sup>1</sup> Der Umfang der Invalidenrente ist abhängig vom Invaliditätsgrad im Sinne des IVG[^56-2] und entspricht einem prozentualen Anteil der ganzen Invalidenrente:
 
-- a. eine Viertelsrente bei einer Invalidität im Sinne des IVG von mindestens 40 Prozent;
-- b. eine halbe Rente bei einer Invalidität im Sinne des IVG von mindestens 50 Prozent;
-- c. eine Dreiviertelsrente bei einer Invalidität im Sinne des IVG von mindestens 60 Prozent;
-- d. eine ganze Invalidenrente, bei einer Invalidität im Sinne des IVG von mindestens 70 Prozent.
+<table>
+<tr><th>Invaliditätsgrad im Sinne des IVG</th><th>Umfang der Invalidenrente</th></tr>
+<tr><td>0–39 %</td><td>0,0 %</td></tr>
+<tr><td>40 %</td><td>25,0 %</td></tr>
+<tr><td>41 %</td><td>27,5 %</td></tr>
+<tr><td>42 %</td><td>30,0 %</td></tr>
+<tr><td>43 %</td><td>32,5 %</td></tr>
+<tr><td>44 %</td><td>35,0 %</td></tr>
+<tr><td>45 %</td><td>37,5 %</td></tr>
+<tr><td>46 %</td><td>40,0 %</td></tr>
+<tr><td>47 %</td><td>42,5 %</td></tr>
+<tr><td>48 %</td><td>45,0 %</td></tr>
+<tr><td>49 %</td><td>47,5 %</td></tr>
+<tr><td>50–69 %</td><td>entspricht dem Invaliditätsgrad 50–69 %</td></tr>
+<tr><td>70–100 %</td><td>100,0 %</td></tr>
+</table>
+
+<sup>2</sup> Die Anpassung des Umfangs der Invalidenrente setzt eine Änderung des Invaliditätsgrades im Sinne des IVG von mindestens 5 Prozentpunkten voraus (Art. 17 Abs. 1 Bst. a ATSG[^56-3]); vorbehalten ist Artikel 52*b* Absätze 1 und 2.
+
+[^56-1]: Fassung gemäss Ziff. I des Beschlusses des PO ETH vom 13. Juni und 1. Nov. 2023, vom BR genehmigt am 29. Nov. 2023 und in Kraft seit 1. Jan. 2024 ([AS 2023 777](https://fedlex.data.admin.ch/eli/oc/2023/777)).
+[^56-2]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^56-3]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 
 #### Art. 57
 
@@ -981,10 +1044,10 @@ Die invalide Person hat Anspruch auf:
 
 <sup>1</sup>
 
-Die ganze Invalidenrente wird nach dem für das ordentliche AHV-Rentenalter geltenden Umwandlungssatz (Anhang 4) berechnet. Als Altersguthaben werden dabei, bei Scheidung unter Vorbehalt von Artikel 99 Absatz 3, angerechnet:[^57-1]
+Die ganze Invalidenrente wird nach dem für das Referenzalter geltenden Umwandlungssatz (Anhang 4) berechnet. Als Altersguthaben werden dabei, bei Scheidung unter Vorbehalt von Artikel 99 Absatz 3, angerechnet:[^57-1]
 
 - a. das Altersguthaben nach Artikel 36, das die versicherte Person bis zum Beginn des Anspruchs auf die Invalidenleistung erworben hat;
-- b.[^57-2] die Summe der Altersgutschriften nach Artikel 24 vom Beginn des Anspruchs auf die Invalidenleistung bis zur Vollendung des 65. Altersjahres; massgebend für die Höhe der Altersgutschriften ist der versicherte Verdienst bei Eintritt der Arbeitsunfähigkeit, die zur Invalidität geführt hat. Allfällige Teuerungsausgleiche bis zum Beginn des Anspruchs auf die Invalidenrente werden nicht berücksichtigt; und
+- b.[^57-2] die Summe der Altersgutschriften nach Artikel 24 vom Beginn des Anspruchs auf die Invalidenleistung bis zum Erreichen des Referenzalters; massgebend für die Höhe der Altersgutschriften ist der versicherte Verdienst bei Eintritt der Arbeitsunfähigkeit, die zur Invalidität geführt hat. Allfällige Teuerungsausgleiche bis zum Beginn des Anspruchs auf die Invalidenrente werden nicht berücksichtigt; und
 - c. der Zins von zwei Prozent pro Jahr ab dem Alter 53 auf den jeweiligen Beiträgen gemäss Buchstaben a und b für die Zeit zwischen Beginn des Anspruchs auf die Invalidenleistung und dem Ende des Kalenderjahres, in dem die versicherte Person das 64. Altersjahr vollendet hat.
 
 <sup>2</sup> Das Alter für die Festlegung der Verzinsung entspricht bei der Hochrechnung (Projektion) gemäss Absatz 1 Buchstabe c der Differenz zwischen dem laufenden Kalenderjahr und dem Geburtsjahr der versicherten Person. Artikel 36 Absätze 4 und 5 wird angewendet.
@@ -995,7 +1058,7 @@ Die ganze Invalidenrente wird nach dem für das ordentliche AHV-Rentenalter gelt
 
 <sup>5</sup> Für die Berechnung der Hinterlassenenrenten nach Artikel 46 Absatz 1 Buchstabe a und Artikel 48 Absatz 1 Buchstabe a sind der versicherte Verdienst und das Altersguthaben im Zeitpunkt des Todes oder bei Beginn der Arbeitsunfähigkeit, deren Ursache zum Tode geführt hat, massgebend.
 
-[^57-1]: Fassung gemäss Ziff. I des Beschlusses des PO ETH vom 1. Dez. 2016, vom ETH-Rat genehmigt am 7. Dez. 2016 und vom BR genehmigt am 10. Mai 2017 und in Kraft seit 1. Jan. 2017 ([AS 2017 3301](https://fedlex.data.admin.ch/eli/oc/2017/345)).
+[^57-1]: Fassung gemäss Ziff. I des Beschlusses des PO ETH vom 13. Juni und 1. Nov. 2023, vom BR genehmigt am 29. Nov. 2023 und in Kraft seit 1. Jan. 2024 ([AS 2023 777](https://fedlex.data.admin.ch/eli/oc/2023/777)).
 [^57-2]: Fassung gemäss Ziff. I des Beschlusses des PO ETH vom 24. Sept. 2018, vom BR genehmigt am 30. Nov. 2018 und in Kraft seit 1. Jan. 2019 ([AS 2018 4753](https://fedlex.data.admin.ch/eli/oc/2018/756)).
 [^57-3]: Fassung gemäss Ziff. I des Beschlusses des PO ETH vom 24. Sept. 2018, vom BR genehmigt am 30. Nov. 2018 und in Kraft seit 1. Jan. 2019 ([AS 2018 4753](https://fedlex.data.admin.ch/eli/oc/2018/756)).
 
@@ -1027,7 +1090,7 @@ Die Invaliden-Kinderrente beträgt einen Sechstel der Invalidenrente; bei Scheid
 
 **Anspruch**
 
-<sup>1</sup> Bezügerinnen und Bezüger einer Altersrente haben vom Beginn des Bezugs der Altersrente bis zum ordentlichen AHV-Alter Anspruch auf eine Überbrückungsrente.
+<sup>1</sup> Bezügerinnen und Bezüger einer Altersrente haben vom Beginn des Bezugs der Altersrente bis zum Referenzalter[^60-1] Anspruch auf eine Überbrückungsrente.
 
 <sup>2</sup> Die versicherte Person muss PUBLICA spätestens drei Monate vor dem Beginn des Bezugs der Altersrente mitteilen, ob sie eine volle, eine halbe oder gar keine Überbrückungsrente beziehen will.
 
@@ -1035,20 +1098,25 @@ Die Invaliden-Kinderrente beträgt einen Sechstel der Invalidenrente; bei Scheid
 
 <sup>4</sup>
 
-Die versicherte Person teilt PUBLICA spätestens drei Monate vor dem Bezug der Überbrückungsrente mit, nach welchem der folgenden Berechnungsgrundsätze sie ihren Anteil finanzieren will:[^60-1]
+Die versicherte Person teilt PUBLICA spätestens drei Monate vor dem Bezug der Überbrückungsrente mit, nach welchem der folgenden Berechnungsgrundsätze sie ihren Anteil finanzieren will:[^60-2]
 
-- a. mit einer sofort beginnenden lebenslänglichen Kürzung der Altersrente, auf die sie gemäss Artikel 39 Anspruch hat (Anhang 5, Tabelle 1); oder
-- b. mit einer bei Erreichen des AHV-Alters beginnenden, lebenslänglichen Kürzung der Altersrente und der damit verbundenen Leistungen, auf die sie gemäss Artikel 39 Anspruch hat (Anhang 6, Ziffer I. Tabelle); oder
-- c. mit einem Auskauf der Kürzung (Anhang 5, Tabelle 2).
+- a.[^60-3] mit einer sofort beginnenden lebenslänglichen Kürzung der Altersrente, auf die sie gemäss Artikel 39 Anspruch hat (Anhang 5, Tabellen 1 und 2);
+- b.[^60-4] mit einer bei Erreichen des Referenzalters beginnenden, lebenslänglichen Kürzung der Altersrente und der damit verbundenen Leistungen, auf die sie gemäss Artikel 39 Anspruch hat (Anhang 6, Tabellen 1 und 2); oder
+- c.[^60-5] mit einem Auskauf der Kürzung (Anhang 5, Tabelle 3).
 
-<sup>4bis</sup> Trifft die Mitteilung der versicherten Person weniger als drei Monate vor dem Bezug der Überbrückungsrente bei PUBLICA ein, so werden ihr die Verwaltungskosten gemäss Kostenreglement in Rechnung gestellt.[^60-2]
+<sup>4bis</sup> Trifft die Mitteilung der versicherten Person weniger als drei Monate vor dem Bezug der Überbrückungsrente bei PUBLICA ein, so werden ihr die Verwaltungskosten gemäss Kostenreglement in Rechnung gestellt.[^60-6]
 
-<sup>5</sup> Stirbt die rentenbeziehende Person, die sich für die Finanzierung nach Absatz 4 Buchstabe b entschieden hat, vor Erreichen des AHV-Alters, so werden die Hinterlassenenleistungen versicherungstechnisch gekürzt (Anhang 6, Ziffer II).
+<sup>5</sup> Stirbt die rentenbeziehende Person, die sich für die Finanzierung nach Absatz 4 Buchstabe b entschieden hat, vor Erreichen des Referenzalters[^60-7], so werden die Hinterlassenenleistungen versicherungstechnisch gekürzt (Anhang 6, Ziffer II).
 
 <sup>6</sup> Wer die Altersrente als Kapital bezieht, kann die Überbrückungsrente nur beanspruchen, wenn er oder sie die Kürzung nach Absatz 4 Buchstabe c auskauft.
 
-[^60-1]: Fassung gemäss Ziff. I des Beschlusses des PO ETH vom 24. März 2012, vom BR genehmigt am 15. März 2013 und in Kraft seit 1. Jan. 2013 ([AS 2013 999](https://fedlex.data.admin.ch/eli/oc/2013/211)).
-[^60-2]: Eingefügt durch Ziff. I des Beschlusses des PO ETH vom 24. März 2012, vom BR genehmigt am 15. März 2013 und in Kraft seit 1. Jan. 2013 ([AS 2013 999](https://fedlex.data.admin.ch/eli/oc/2013/211)).
+[^60-1]: Ausdruck gemäss Ziff. I Abs. 2 des Beschlusses des PO ETH vom 13. Juni und 1. Nov. 2023, vom BR genehmigt am 29. Nov. 2023 und in Kraft seit 1. Jan. 2024 ([AS 2023 777](https://fedlex.data.admin.ch/eli/oc/2023/777)). Diese Änd. wurde in den in der AS genannten Bestimmungen vorgenommen.
+[^60-2]: Fassung gemäss Ziff. I des Beschlusses des PO ETH vom 24. März 2012, vom BR genehmigt am 15. März 2013 und in Kraft seit 1. Jan. 2013 ([AS 2013 999](https://fedlex.data.admin.ch/eli/oc/2013/211)).
+[^60-3]: Fassung gemäss Ziff. I des Beschlusses des PO ETH vom 13. Juni und 1. Nov. 2023, vom BR genehmigt am 29. Nov. 2023 und in Kraft seit 1. Jan. 2024 ([AS 2023 777](https://fedlex.data.admin.ch/eli/oc/2023/777)).
+[^60-4]: Fassung gemäss Ziff. I des Beschlusses des PO ETH vom 13. Juni und 1. Nov. 2023, vom BR genehmigt am 29. Nov. 2023 und in Kraft seit 1. Jan. 2024 ([AS 2023 777](https://fedlex.data.admin.ch/eli/oc/2023/777)).
+[^60-5]: Fassung gemäss Ziff. I des Beschlusses des PO ETH vom 13. Juni und 1. Nov. 2023, vom BR genehmigt am 29. Nov. 2023 und in Kraft seit 1. Jan. 2024 ([AS 2023 777](https://fedlex.data.admin.ch/eli/oc/2023/777)).
+[^60-6]: Eingefügt durch Ziff. I des Beschlusses des PO ETH vom 24. März 2012, vom BR genehmigt am 15. März 2013 und in Kraft seit 1. Jan. 2013 ([AS 2013 999](https://fedlex.data.admin.ch/eli/oc/2013/211)).
+[^60-7]: Ausdruck gemäss Ziff. I Abs. 3 des Beschlusses des PO ETH vom 13. Juni und 1. Nov. 2023, vom BR genehmigt am 29. Nov. 2023 und in Kraft seit 1. Jan. 2024 ([AS 2023 777](https://fedlex.data.admin.ch/eli/oc/2023/777)). Diese Änd. wurde in den in der AS genannten Bestimmungen vorgenommen.
 
 #### Art. 61
 
@@ -1284,17 +1352,18 @@ Die austretende Person hat den Nachweis für das Bestehen eines Barauszahlungsgr
 
 <sup>1</sup>
 
-Wird das Arbeitsverhältnis einer versicherten Person nach Vollendung des 60. und vor Vollendung des 65. Altersjahres aus anderen Gründen als infolge Tod oder Invalidität ganz oder teilweise beendet (Art. 37 Abs. 3 und 38 Abs. 4), so kann sie wählen zwischen:
+Wird das Arbeitsverhältnis einer versicherten Person nach Vollendung des 60. und vor Erreichen des Referenzalters aus anderen Gründen als infolge Tod oder Invalidität ganz oder teilweise beendet (Art. 37 Abs. 3 und 38 Abs. 4), so kann sie wählen zwischen:
 
 - a. der Überweisung der Austrittsleistung an die Vorsorgeeinrichtung des neuen Arbeitgebers; oder
 - a<sup>bis</sup>.[^84-2] der Überweisung der Austrittsleitung an eine Freizügigkeitseinrichtung, wenn sie als arbeitslos gemeldet ist oder eine selbständige Erwerbstätigkeit aufnimmt; oder
 - b. dem Bezug der Altersleistungen.
 
-<sup>2</sup> Versicherte Personen, die das 65. Altersjahr vollendet haben, können die Überweisung der Austrittsleistung nach Absatz 1 Buchstabe a nur verlangen, wenn sie nach dem Reglement der Vorsorgeeinrichtung des neuen Arbeitgebers in die Versicherung aufgenommen werden und ihre Vorsorge nach Artikel 33*b* BVG weiterführen.[^84-3]
+<sup>2</sup> Versicherte Personen, die das Referenzalter erreicht haben, können die Überweisung der Austrittsleistung nach Absatz 1 Buchstabe a nur verlangen, wenn sie nach dem Reglement der Vorsorgeeinrichtung des neuen Arbeitgebers in die Versicherung aufgenommen werden und ihre Vorsorge nach Artikel 33*b* BVG[^84-3] weiterführen oder den Bezug der Altersleistung nach Artikel 13*b* BVG aufschieben.[^84-4]
 
 [^84-1]: Fassung gemäss Ziff. I der Beschlüsse des PO ETH vom 31. März/10. Mai 2011, vom ETH-Rat genehmigt am 6./7. Juli 2011 und vom BR genehmigt am 19. Okt. 2011 und in Kraft seit 1. Juli 2012 ([AS 2012 2119](https://fedlex.data.admin.ch/eli/oc/2012/277)).
 [^84-2]: Eingefügt durch Ziff. I der Beschlüsse des PO ETH vom 31. März/10. Mai 2011, vom ETH-Rat genehmigt am 6./7. Juli 2011 und vom BR genehmigt am 19. Okt. 2011 und in Kraft seit 1. Juli 2012 ([AS 2012 2119](https://fedlex.data.admin.ch/eli/oc/2012/277)).
-[^84-3]: Fassung gemäss Ziff. I der Beschlüsse des PO ETH vom 31. März/10. Mai 2011, vom ETH-Rat genehmigt am 6./7. Juli 2011 und vom BR genehmigt am 19. Okt. 2011 und in Kraft seit 1. Juli 2012 ([AS 2012 2119](https://fedlex.data.admin.ch/eli/oc/2012/277)).
+[^84-3]: [SR 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^84-4]: Fassung gemäss Ziff. I des Beschlusses des PO ETH vom 13. Juni und 1. Nov. 2023, vom BR genehmigt am 29. Nov. 2023 und in Kraft seit 1. Jan. 2024 ([AS 2023 777](https://fedlex.data.admin.ch/eli/oc/2023/777)).
 
 #### Art. 84a
 
@@ -1364,11 +1433,19 @@ Die versicherte Person und die neue Vorsorgeeinrichtung beziehungsweise die Frei
 - e. Informationen betreffend die Verpfändung des Anspruchs auf Vorsorgeleistungen gemäss den Artikeln 91 und 94;
 - f.[^88-2] gegebenenfalls die Höhe des Altersguthabens bei Vollendung des 50. Altersjahres;
 - g. gegebenenfalls die Höhe des Altersguthabens bei Heirat beziehungsweise am 1. Januar 1995;
-- h.[^88-3] Informationen betreffend Beträge, die nach Artikel 99 Absatz 1 infolge Scheidung übertragen worden sind.
+- h.[^88-3] Informationen betreffend Beträge, die nach Artikel 99 Absatz 1 infolge Scheidung übertragen worden sind;
+- i.[^88-4]
+
+  bei der versicherten Person, die eine Altersleistung bezieht oder bezogen hat oder eine Rente infolge Teilinvalidität bezieht, die Information über den Bezug der Alters- und Invalidenleistung, die notwendig sind für die:
+
+  - 1\. Berechnung der Einkaufsmöglichkeit,
+  - 2\. Berechnung des obligatorisch zu versichernden Verdienstes,
+  - 3\. Beachtung der Höchstzahl der drei Bezüge bei Kapitalform.
 
 [^88-1]: Fassung gemäss Ziff. I des Beschlusses des PO ETH vom 1. Dez. 2016, vom ETH-Rat genehmigt am 7. Dez. 2016 und vom BR genehmigt am 10. Mai 2017 und in Kraft seit 1. Jan. 2017 ([AS 2017 3301](https://fedlex.data.admin.ch/eli/oc/2017/345)).
 [^88-2]: Fassung gemäss Ziff. I des Beschlusses des PO ETH vom 1. Dez. 2016, vom ETH-Rat genehmigt am 7. Dez. 2016 und vom BR genehmigt am 10. Mai 2017 und in Kraft seit 1. Jan. 2017 ([AS 2017 3301](https://fedlex.data.admin.ch/eli/oc/2017/345)).
 [^88-3]: Fassung gemäss Ziff. I des Beschlusses des PO ETH vom 1. Dez. 2016, vom ETH-Rat genehmigt am 7. Dez. 2016 und vom BR genehmigt am 10. Mai 2017 und in Kraft seit 1. Jan. 2017 ([AS 2017 3301](https://fedlex.data.admin.ch/eli/oc/2017/345)).
+[^88-4]: Eingefügt durch Ziff. I des Beschlusses des PO ETH vom 13. Juni und 1. Nov. 2023, vom BR genehmigt am 29. Nov. 2023 und in Kraft seit 1. Jan. 2024 ([AS 2023 777](https://fedlex.data.admin.ch/eli/oc/2023/777)).
 
 #### Art. 89
 
@@ -1439,7 +1516,7 @@ Der vorbezogene Betrag muss zurückbezahlt werden, wenn:
 
 Der vorbezogene Betrag kann zurückbezahlt werden, bis:[^93-1]
 
-- a.[^93-2] zur Vollendung des 65. Altersjahres;
+- a.[^93-2] zum Erreichen des Referenzalters;
 - b. zum Eintritt eines anderen Vorsorgefalles; oder
 - c. zur Barauszahlung der Austrittsleistung.
 
@@ -1525,12 +1602,14 @@ Für den Vorsorgeausgleich bei Scheidung gelten die entsprechenden Bestimmungen 
 
 <sup>4</sup> Wird infolge Scheidung ein Rentenanteil als lebenslange Rente beziehungsweise in Kapitalform zugunsten des berechtigten Ehegatten oder der berechtigten Ehegattin übertragen, so führt dies zu einer Reduktion der Leistungen von PUBLICA an die verpflichtete Person. Ein übertragener Rentenanteil gehört nicht zur laufenden Altersrente beziehungsweise wird von der versicherten Invalidenrente nach Artikel 46 Absatz 1 Buchstabe b oder Artikel 48 Absatz 1 Buchstabe b abgezogen. Er löst keinen Anspruch der berechtigten Person auf weitere Leistungen von PUBLICA aus. Spätestens vor der ersten jährlichen Rentenübertragung an die Vorsorge- oder Freizügigkeitseinrichtung der berechtigten Person kann diese mit PUBLICA vereinbaren, dass der Rentenanteil in Kapitalform überwiesen wird.
 
-<sup>5</sup> Tritt während des Scheidungsverfahrens der Vorsorgefall Alter ein, so nimmt PUBLICA eine Kürzung der Leistungen nach Artikel 19*g* FZV vor.
+<sup>5</sup> Tritt während des Scheidungsverfahrens der Vorsorgefall Alter ein oder erreicht eine invalide oder berufsinvalide Person während des Scheidungsverfahrens das Referenzalter, so nimmt PUBLICA eine Kürzung der Leistungen nach Artikel 19*g* FZV[^99-3] vor.[^99-4]
 
 <sup>6</sup> Der Anspruch auf eine Alters- oder Invaliden-Kinderrente oder auf eine Kinderrente zur Berufsinvalidenleistung, der im Zeitpunkt der Einleitung des Scheidungsverfahrens besteht, wird vom Vorsorgeausgleich nicht berührt. Wurde eine Kinderrente nicht berührt, so wird die Waisenrente auf den gleichen Grundlagen berechnet.
 
 [^99-1]: Fassung gemäss Ziff. I des Beschlusses des PO ETH vom 1. Dez. 2016, vom ETH-Rat genehmigt am 7. Dez. 2016 und vom BR genehmigt am 10. Mai 2017 und in Kraft seit 1. Jan. 2017 ([AS 2017 3301](https://fedlex.data.admin.ch/eli/oc/2017/345)).
 [^99-2]: Fassung gemäss Ziff. I des Beschlusses des PO ETH vom 30. Nov. 2017, vom ETH-Rat genehmigt am 13./14. Dez. 2017 und vom BR genehmigt am 25. April 2018 und in Kraft seit 1. Mai 2018 ([AS 2018 2485](https://fedlex.data.admin.ch/eli/oc/2018/355)).
+[^99-3]: [SR 831.425](https://fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399)
+[^99-4]: Fassung gemäss Ziff. I des Beschlusses des PO ETH vom 13. Juni und 1. Nov. 2023, vom BR genehmigt am 29. Nov. 2023 und in Kraft seit 1. Jan. 2024 ([AS 2023 777](https://fedlex.data.admin.ch/eli/oc/2023/777)).
 
 ## 12. Kapitel: Rechtspflege
 
@@ -1764,6 +1843,50 @@ Versicherte, die vor dem 1. Dezember 2020 das 62. Altersjahr vollendet und vor d
 
 [^107h-1]: Eingefügt durch Ziff. I der Beschlüsse des PO ETH vom 26. März/20. Nov. 2020, vom BR genehmigt am 26. Jan. 2022 und in Kraft seit 1. Jan. 2021 ([AS 2022 75](https://fedlex.data.admin.ch/eli/oc/2022/75)).
 
+#### Art. 107i
+
+**Übergangsbestimmung zur Änderung vom 13. Juni 2023: stufenloses Rentensystem**[^107i-1]
+
+<sup>1</sup> Der Anspruch von Personen mit Geburtsjahr 1966 oder älter, deren Anspruch auf eine Invalidenrente vor dem 1. Januar 2022 entstanden ist, richtet sich nach den bis am 31. Dezember 2023 gültig gewesenen reglementarischen Bestimmungen.
+
+<sup>2</sup>
+
+Der Anspruch von Personen mit Geburtsjahr 1967 und jünger, deren Anspruch auf eine Invalidenrente vor dem 1. Januar 2022 entstanden ist, richtet sich unter Vorbehalt von Absatz 4 und Artikel 52*b* Absätze 1 und 2 und unter den folgenden Voraussetzungen nach den bis am 31. Dezember 2023 geltenden reglementarischen Bestimmungen:
+
+- a. Der Invaliditätsgrad im Sinne des IVG[^107i-2] verändert sich um weniger als fünf Prozentpunkte (Art. 17 Abs. 1 Bst. a ATSG[^107i-3]).
+- b.
+
+  Der Invaliditätsgrad im Sinne des IVG verändert sich um mindestens fünf Prozentpunkte und führt bei der Berechnung nach neuem Recht:
+
+  - 1\. im Fall einer Erhöhung zu einer Reduktion des Umfangs der Invalidenrente,
+  - 2\. im Fall einer Verminderung zu einer Erhöhung des Umfangs der Invalidenrente.
+
+<sup>3</sup> Absatz 2 gilt auch für alle Personen, deren Anspruch auf eine Invalidenrente in der Zeit vom 1. Januar 2022 bis am 31. Dezember 2023 entstanden ist.
+
+<sup>4</sup> Der Umfang der Invalidenrente von Personen mit Geburtsjahr 1992 und jünger, deren Anspruch auf eine Invalidenrente vor dem 1. Januar 2024 entstanden ist, richtet sich längstens bis am 31. Dezember 2031 nach den bis am 31. Dezember 2023 geltenden reglementarischen Bestimmungen. Sinkt der Umfang der Invalidenrente bei der Berechnung nach neuem Recht, so bleibt der bisherige Umfang so lange unverändert, bis sich der Invaliditätsgrad im Sinne des IVG um mindestens fünf Prozentpunkte verändert (Art. 17 Abs. 1 Bst. a ATSG); vorbehalten ist Artikel 52*b* Absätze 1 und 2.
+
+[^107i-1]: Eingefügt durch Ziff. I des Beschlusses des PO ETH vom 13. Juni und 1. Nov. 2023, vom BR genehmigt am 29. Nov. 2023 und in Kraft seit 1. Jan. 2024 ([AS 2023 777](https://fedlex.data.admin.ch/eli/oc/2023/777)).
+[^107i-2]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^107i-3]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+
+#### Art. 107j
+
+**Übergangsbestimmung zur Änderung vom 13. Juni 2023: Referenzalter der Übergangsgeneration**[^107j-1]
+
+<sup>1</sup>
+
+Für den Anspruch und die Berechnung der Überbrückungsrente nach Artikel 60 gilt für Frauen der Übergangsgeneration das folgende Referenzalter:
+
+- a. 64 Jahre für Frauen bis und mit Jahrgang 1960;
+- b. 64 Jahre und drei Monaten für Frauen mit Jahrgang 1961;
+- c. 64 Jahre und sechs Monaten für Frauen mit Jahrgang 1962;
+- d. 64 Jahre und neun Monaten für Frauen mit Jahrgang1963;
+- e. 65 Jahre für Frauen ab Jahrgang 1964.
+
+<sup>2</sup> Für die restlichen Bestimmungen gilt für Frauen das Referenzalter 65.
+
+[^107j-1]: Eingefügt durch Ziff. I des Beschlusses des PO ETH vom 13. Juni und 1. Nov. 2023, vom BR genehmigt am 29. Nov. 2023 und in Kraft seit 1. Jan. 2024 ([AS 2023 777](https://fedlex.data.admin.ch/eli/oc/2023/777)).
+
 ### 2. Abschnitt: Inkrafttreten
 
 #### Art. 108
@@ -1809,16 +1932,17 @@ Anhang 2[^t-3]
 
 ## Sparbeitrag (Art. 24) und Risikoprämie (Art. 26), Anteil der versicherten Person
 
-[^t-3]: Fassung gemäss Ziff. II Abs. 2 des Beschlusses des PO ETH vom 30. Nov. 2017, vom ETH-Rat genehmigt am 13./14. Dez. 2017 und vom BR genehmigt am 25. April 2018 und in Kraft seit 1. Jan. 2019 ([AS 2018 2485](https://fedlex.data.admin.ch/eli/oc/2018/355)).
+[^t-3]: Fassung gemäss Ziff. II des Beschlusses des PO ETH vom 13. Juni und 1. Nov. 2023, vom BR genehmigt am 29. Nov. 2023 und in Kraft seit 1. Jan. 2024 ([AS 2023 777](https://fedlex.data.admin.ch/eli/oc/2023/777)).
 
 Plan für angestellte Personen ab Funktionsstufe 13:
 
 <table>
-<tr><th>Altersstaffelung (Beitragsklasse)</th><th>**Sparbeitrag der angestellten Person (%)**</th><th>**Risikoprämie (Art. 26) der angestellten Person (%)**</th><th>**Total**</th><th>**Sparbeitrag (Art. 24) des Arbeitgebers (%)**</th><th>**zuzüglich Risikoprämie des Arbeit****gebers (%)**</th></tr>
-<tr><td>22–34</td><td>5,80</td><td>0,55</td><td>6,35</td><td>10,30</td><td>(mind. 0,55 %)</td></tr>
+<tr><th>Altersstaffelung (Beitragsklasse)</th><th>**Sparbeitrag der angestellten Person (%)**</th><th>**Risikoprämie (Art. 26)** **der angestellten** **Person (%)**</th><th>**Total**</th><th>**Sparbeitrag (Art. 24)** **des Arbeit****gebers** **(%)**</th><th>**zuzüglich** **Risikoprämie** **des** **Arbeit****gebers** **(%)**</th></tr>
+<tr><td>22–34</td><td>5,80</td><td>0,55</td><td>6,35</td><td>10,30</td><td>**(mind. 0,55 %)**</td></tr>
 <tr><td>35–44</td><td>7,05</td><td>0,55</td><td>7,60</td><td>12,50</td><td></td></tr>
 <tr><td>45–54</td><td>11,50</td><td>0,55</td><td>12,05</td><td>20,50</td><td></td></tr>
-<tr><td>55–70</td><td>14,25</td><td>0,55</td><td>14,80</td><td>25,30</td><td></td></tr>
+<tr><td>55–65</td><td>14,25</td><td>0,55</td><td>14,80</td><td>25,30</td><td></td></tr>
+<tr><td>66–70</td><td>5,80</td><td></td><td>5,80</td><td>10,30</td><td></td></tr>
 </table>
 
 Anhang 3[^t-4]
@@ -1917,97 +2041,72 @@ Anhang 5[^t-6]
 
 ## Überbrückungsrente
 
-[^t-6]: Fassung gemäss Ziff. II Abs. 2 des Beschlusses des PO ETH vom 30. Nov. 2017, vom ETH-Rat genehmigt am 13./14. Dez. 2017 und vom BR genehmigt am 25. April 2018 und in Kraft seit 1. Jan. 2019 ([AS 2018 2485](https://fedlex.data.admin.ch/eli/oc/2018/355)).
+[^t-6]: Fassung gemäss Ziff. II des Beschlusses des PO ETH vom 13. Juni und 1. Nov. 2023, vom BR genehmigt am 29. Nov. 2023 und in Kraft seit 1. Jan. 2024 ([AS 2023 777](https://fedlex.data.admin.ch/eli/oc/2023/777)).
 
-**Kürzung der monatlichen Altersrente beim Bezug der Überbrückungsrente (ÜR) und Auskauf der Rentenkürzung – sofort beginnende lebenslängliche Kürzung**
+### Kürzung der monatlichen Altersrente beim Bezug der Überbrückungsrente (ÜR) und Auskauf der Rentenkürzung – sofort beginnende lebenslängliche Kürzung
 
-Tabelle 1:
+### Sofort beginnende lebenslängliche Kürzung der Altersrente (Art. 60 Abs. 4 Bst. a)
 
-**Sofort beginnende lebenslängliche Kürzung der Altersrente**
-
-**(Art. 60 Abs. 4 Bst. a)**
-
-a) AHV-Alter 65
+Tabelle 1: Männer
 
 <table>
-<tr><th colspan="2"></th><th colspan="6">Monat</th></tr>
-<tr><th></th><th></th><th>**0**</th><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th></tr>
-<tr><td>Alter bei Bezugsbeginn</td><td>60</td><td>**208.50**</td><td>205.50</td><td>202.50</td><td>199.55</td><td>196.55</td><td>193.55</td></tr>
-<tr><td></td><td>**61**</td><td>**172.60**</td><td>169.40</td><td>166.20</td><td>163.00</td><td>159.80</td><td>156.60</td></tr>
-<tr><td></td><td>**62**</td><td>**134.15**</td><td>130.70</td><td>127.25</td><td>123.80</td><td>120.35</td><td>116.90</td></tr>
-<tr><td></td><td>**63**</td><td>**92.80**</td><td>89.10</td><td>85.35</td><td>81.65</td><td>77.95</td><td>74.20</td></tr>
-<tr><td></td><td>**64**</td><td>**48.20**</td><td>44.20</td><td>40.15</td><td>36.15</td><td>32.15</td><td>28.10</td></tr>
-<tr><td></td><td>**65**</td><td>**0.00**</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td></tr>
+<tr><td>Alter bei Bezugsbeginn</td><td>60</td><td>208.55</td></tr>
+<tr><td></td><td>**61**</td><td>172.65</td></tr>
+<tr><td></td><td>**62**</td><td>134.20</td></tr>
+<tr><td></td><td>**63**</td><td>92.80</td></tr>
+<tr><td></td><td>**64**</td><td>48.20</td></tr>
+<tr><td></td><td>**65**</td><td>0.00</td></tr>
 </table>
+
+Tabelle 2: Frauen (abhängig vom Jahrgang)
 
 <table>
-<tr><th colspan="2"></th><th colspan="6">Monat</th></tr>
-<tr><th></th><th></th><th>6</th><th>7</th><th>8</th><th>9</th><th>10</th><th>11</th></tr>
-<tr><td>Alter bei Bezugsbeginn</td><td>60</td><td>190.55</td><td>187.55</td><td>184.55</td><td>181.60</td><td>178.60</td><td>175.60</td></tr>
-<tr><td></td><td>**61**</td><td>153.40</td><td>150.15</td><td>146.95</td><td>143.75</td><td>140.55</td><td>137.35</td></tr>
-<tr><td></td><td>**62**</td><td>113.50</td><td>110.05</td><td>106.60</td><td>103.15</td><td>99.70</td><td>96.25</td></tr>
-<tr><td></td><td>**63**</td><td>70.50</td><td>66.80</td><td>63.05</td><td>59.35</td><td>55.65</td><td>51.90</td></tr>
-<tr><td></td><td>**64**</td><td>24.10</td><td>20.10</td><td>16.05</td><td>12.05</td><td>8.05</td><td>4.00</td></tr>
-<tr><td></td><td>**65**</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td></tr>
+<tr><th></th><th></th><th>1960 und älter</th><th>1961</th><th>1962</th><th>1963</th><th>1964 und jünger</th></tr>
+<tr><td>Alter bei Bezugsbeginn</td><td>60</td><td>179.20</td><td>189.80</td><td>200.35</td><td>210.90</td><td>221.45</td></tr>
+<tr><td></td><td>**61**</td><td>139.45</td><td>150.50</td><td>161.60</td><td>172.65</td><td>183.75</td></tr>
+<tr><td></td><td>**62**</td><td>96.55</td><td>108.20</td><td>119.85</td><td>131.45</td><td>143.10</td></tr>
+<tr><td></td><td>**63**</td><td>50.20</td><td>62.45</td><td>74.70</td><td>86.95</td><td>99.20</td></tr>
+<tr><td></td><td>**64**</td><td>0.00</td><td>12.90</td><td>25.85</td><td>38.75</td><td>51.65</td></tr>
+<tr><td></td><td>**65**</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td></tr>
 </table>
 
-b) AHV-Alter 64
+Die Kürzung wird auf den Monat genau ermittelt.
 
-<table>
-<tr><th colspan="2"></th><th colspan="6">Monat</th></tr>
-<tr><th></th><th></th><th>**0**</th><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th></tr>
-<tr><td>Alter bei Bezugsbeginn</td><td>60</td><td>**179.20**</td><td>175.90</td><td>172.60</td><td>169.25</td><td>165.95</td><td>162.65</td></tr>
-<tr><td></td><td>**61**</td><td>**139.45**</td><td>135.90</td><td>132.30</td><td>128.75</td><td>125.15</td><td>121.60</td></tr>
-<tr><td></td><td>**62**</td><td>**96.55**</td><td>92.70</td><td>88.85</td><td>84.95</td><td>81.10</td><td>77.25</td></tr>
-<tr><td></td><td>**63**</td><td>**50.20**</td><td>46.00</td><td>41.85</td><td>37.65</td><td>33.45</td><td>29.30</td></tr>
-<tr><td></td><td>**64**</td><td>**0.00**</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td></tr>
-</table>
-
-<table>
-<tr><th colspan="2"></th><th colspan="6">Monat</th></tr>
-<tr><th></th><th></th><th>6</th><th>7</th><th>8</th><th>9</th><th>10</th><th>11</th></tr>
-<tr><td>Alter bei Bezugsbeginn</td><td>60</td><td>159.35</td><td>156.00</td><td>152.70</td><td>149.40</td><td>146.10</td><td>142.75</td></tr>
-<tr><td></td><td>**61**</td><td>118.00</td><td>114.45</td><td>110.85</td><td>107.30</td><td>103.70</td><td>100.15</td></tr>
-<tr><td></td><td>**62**</td><td>73.40</td><td>69.50</td><td>65.65</td><td>61.80</td><td>57.95</td><td>54.05</td></tr>
-<tr><td></td><td>**63**</td><td>25.10</td><td>20.90</td><td>16.75</td><td>12.55</td><td>8.35</td><td>4.20</td></tr>
-<tr><td></td><td>**64**</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td></tr>
-</table>
-
-Erklärung:
+**Erklärung:**
 
 \1. Die Beträge in den Tabellen entsprechen der Rentenkürzung pro 1000 Franken bezogener Überbrückungsrente, wenn die Bezügerin oder der Bezüger die Überbrückungsrente voll selbst finanziert.
 
-\2. Wird nach Massgabe der arbeitsrechtlichen Bestimmungen der Personalverordnung ETH-Bereich (SR *172.220.113*) eine Beteiligung des Arbeitgebers an der Finanzierung vorgesehen, so sind die Beträge in den Tabellen mit dem prozentualen Anteil der versicherten Person an der Finanzierung zu gewichten.
+\2. Wird nach Massgabe der arbeitsrechtlichen Bestimmungen der Professorenverordnung ETH vom 18. September 2003[^annex5-lvlu1-lvlu1-lvlu1-1] (eine Beteiligung des Arbeitgebers an der Finanzierung vorgesehen, so sind die Beträge in den Tabellen mit dem prozentualen Anteil der versicherten Person an der Finanzierung zu gewichten.
 
-Beispiel 1:
+**Beispiel 1:**
 
-Die Überbrückungsrente beträgt Fr. 27 840.– pro Jahr (Fr. 2320.– pro Monat). Sie wird ab dem 60. Altersjahr bis zum 65. Altersjahr beansprucht. Der Arbeitgeber finanziert 50 Prozent der gesamten Kosten.
+Die Überbrückungsrente beträgt Fr. 27 840.– pro Jahr (Fr. 2320.– pro Monat). Sie wird ab dem Alter 62 Jahre und 3 Monate (bspw. Jahrgang 1962) beansprucht. Der Arbeitgeber finanziert 50 Prozent der Kosten.
 
 Berechnung:
 
-Betrag gemäss Tabelle 1a oder b × Anteil des Arbeitnehmers × (ÜR pro Monat/1000) = lebenslängliche Kürzung der Altersrente pro Monat.
+Betrag gemäss Tabelle 1 oder 2 × Anteil des Arbeitnehmers × (ÜR pro Monat / 1000) = lebenslängliche Kürzung der Altersrente pro Monat
 
-- a. AHV-Alter 65: 208.50 × 0.5 × 2.32 = **Fr. 241.85**
-- b. AHV-Alter 64: 179.20 × 0.5 × 2.32 = **Fr. 207.85**
+- a. Männer: Kürzung im Alter 62 Jahre und 3 Monate: 134.20 + (92.80 – 134.20) / 12 × 3 = 123.85 123.85 × 0,5 × 2.32 = **Fr. 143.65**
+- b. Frauen (Jahrgang 1962): Kürzung im Alter 62 Jahre und 3 Monate: 119.85 + (74.70 – 119.85) / 12 × 3 = 108.55 108.55 × 0,5 × 2.32 = **Fr. 125.95**
 
-Tabelle 2:
+Tabelle 3:
 
-Auskauf der Kürzung der monatlichen Altersrente bei sofort beginnender lebenslänglicher Kürzung (Art. 60 Abs. 4 Bst. c)
+**Auskauf der Kürzung der monatlichen Altersrente bei sofort beginnender** **lebenslänglicher** **Kürzung (Art. 60 Abs. 4 Bst. c)**
 
 <table>
-<tr><th colspan="3">Barwerte für den Auskauf der Rentenkürzung</th></tr>
-<tr><th>Alter</th><th>Männer</th><th>Frauen</th></tr>
-<tr><td>60</td><td>22.579</td><td>21.346</td></tr>
-<tr><td>61</td><td>22.067</td><td>20.807</td></tr>
-<tr><td>62</td><td>21.550</td><td>20.261</td></tr>
-<tr><td>63</td><td>21.026</td><td>19.707</td></tr>
-<tr><td>64</td><td>20.497</td><td>19.147</td></tr>
-<tr><td>65</td><td>19.960</td><td>18.581</td></tr>
+<tr><th colspan="3">**Barwerte für den Auskauf der Rentenkürzung**</th></tr>
+<tr><td>Alter</td><td>Männer</td><td>Frauen</td></tr>
+<tr><td>60</td><td>22 571</td><td>21 346</td></tr>
+<tr><td>61</td><td>22 060</td><td>20 807</td></tr>
+<tr><td>62</td><td>21 543</td><td>20 261</td></tr>
+<tr><td>63</td><td>21 019</td><td>19 707</td></tr>
+<tr><td>64</td><td>20 490</td><td>19 147</td></tr>
+<tr><td>65</td><td>19 954</td><td>18 581</td></tr>
 </table>
 
-Beispiel 2:
+**Beispiel 2:**
 
-Die versicherte Person geht mit 60 Jahren in Pension und bezieht die Überbrückungsrente.
+Die versicherte Person (Jahrgang 1962) geht mit Alter 62 Jahre und 3 Monate in Pension und bezieht die Überbrückungsrente.
 
 Der Arbeitgeber beteiligt sich an der Finanzierung zu 50 Prozent.
 
@@ -2015,11 +2114,13 @@ Die versicherte Person möchte die lebenslängliche Kürzung der Altersrente ver
 
 Berechnung:
 
-(Faktor gemäss Tabelle 2 × monatliche Kürzung [gem. Bsp. 1] × 12) = Anteil des Arbeitnehmers = Einmaleinlage
+(Faktor gemäss Ziffer II × monatliche Kürzung [gem. Bsp. 1] × 12) = Anteil des Arbeitnehmers = Einmaleinlage
 
-- a. AHV-Alter 65: 22.579 × 241.85 × 12 = **Fr. 65 528.75**
-- b. AHV-Alter 64: 21.346 × 207.85 × 12 = **Fr. 53 241.20**
+- a. Männer: Barwert im Alter 62 Jahre und 3 Monate: 21 543 + (21 019 – 21 543) / 12 × 3) = 21 412 21 412 × 143.65 × 12 = **Fr. 36 909.75**
+- b. Frauen (gemäss Beispiel mit Jahrgang 1962): Barwert im Alter 62 Jahre und 3 Monate: 20 261 + (19 707 – 20 261) / 12 × 3) = 20 122 20 122 × 125.95 × 12 = **Fr. 30 412.80**
 - [tab]
+
+[^annex5-lvlu1-lvlu1-lvlu1-1]: [SR 172.220.113](https://fedlex.data.admin.ch/eli/cc/2001/279)**.** **40**
 
 Anhang 6[^t-7]
 
@@ -2027,101 +2128,92 @@ Anhang 6[^t-7]
 
 ## Überbrückungsrente
 
-[^t-7]: Fassung gemäss Ziff. II Abs. 2 des Beschlusses des PO ETH vom 30. Nov. 2017, vom ETH-Rat genehmigt am 13./14. Dez. 2017 und vom BR genehmigt am 25. April 2018 und in Kraft seit 1. Jan. 2019 ([AS 2018 2485](https://fedlex.data.admin.ch/eli/oc/2018/355)).
+[^t-7]: Fassung gemäss Ziff. II des Beschlusses des PO ETH vom 13. Juni und 1. Nov. 2023, vom BR genehmigt am 29. Nov. 2023 und in Kraft seit 1. Jan. 2024 ([AS 2023 777](https://fedlex.data.admin.ch/eli/oc/2023/777)).
 
-**Kürzung der monatlichen Altersrente beim Bezug der Überbrückungsrente (ÜR) und Auskauf der Rentenkürzung – lebenslängliche Kürzung nach Erreichen des AHV-Alters**
+### Kürzung der monatlichen Altersrente beim Bezug der Überbrückungsrente (ÜR) und Auskauf der Rentenkürzung – lebenslängliche Kürzung nach Erreichen des Referenzalters
 
-### I. Lebenslängliche Kürzung nach Erreichen des AHV-Alters (Art. 60 Abs. 4 Bst. b)
+### I. Lebenslängliche Kürzung nach Erreichen des Referenzalters (Art. 60 Abs. 4 Bst. b)
 
-Tabelle:
-
-a) AHV-Alter 65
+Tabelle 1: Männer
 
 <table>
-<tr><th colspan="2"></th><th colspan="6">Monat</th></tr>
-<tr><th></th><th></th><th>**0**</th><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th></tr>
-<tr><td>Alter bei Bezugsbeginn</td><td>60</td><td>**267.65**</td><td>262.95</td><td>258.30</td><td>253.60</td><td>248.90</td><td>244.20</td></tr>
-<tr><td></td><td>**61**</td><td>**211.40**</td><td>206.85</td><td>202.25</td><td>197.70</td><td>193.10</td><td>188.55</td></tr>
-<tr><td></td><td>**62**</td><td>**156.55**</td><td>152.10</td><td>147.65</td><td>143.15</td><td>138.70</td><td>134.25</td></tr>
-<tr><td></td><td>**63**</td><td>**103.00**</td><td>98.65</td><td>94.30</td><td>89.95</td><td>85.60</td><td>81.25</td></tr>
-<tr><td></td><td>**64**</td><td>**50.85**</td><td>46.60</td><td>42.40</td><td>38.15</td><td>33.90</td><td>29.65</td></tr>
-<tr><td></td><td>**65**</td><td>**0.00**</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td></tr>
+<tr><td>Alter bei Bezugsbeginn</td><td>60</td><td>267.75</td></tr>
+<tr><td></td><td>**61**</td><td>211.50</td></tr>
+<tr><td></td><td>**62**</td><td>156.60</td></tr>
+<tr><td></td><td>**63**</td><td>103.05</td></tr>
+<tr><td></td><td>**64**</td><td>50.85</td></tr>
+<tr><td></td><td>**65**</td><td>0.00</td></tr>
 </table>
+
+Tabelle 2: Frauen (abhängig vom Jahrgang)
 
 <table>
-<tr><th colspan="2"></th><th colspan="6">Monat</th></tr>
-<tr><th></th><th></th><th>6</th><th>7</th><th>8</th><th>9</th><th>10</th><th>11</th></tr>
-<tr><td>Alter bei Bezugsbeginn</td><td>60</td><td>239.55</td><td>234.85</td><td>230.15</td><td>225.45</td><td>220.80</td><td>216.10</td></tr>
-<tr><td></td><td>**61**</td><td>184.00</td><td>179.40</td><td>174.85</td><td>170.25</td><td>165.70</td><td>161.10</td></tr>
-<tr><td></td><td>**62**</td><td>129.80</td><td>125.30</td><td>120.85</td><td>116.40</td><td>111.95</td><td>107.45</td></tr>
-<tr><td></td><td>**63**</td><td>76.95</td><td>72.60</td><td>68.25</td><td>63.90</td><td>59.55</td><td>55.20</td></tr>
-<tr><td></td><td>**64**</td><td>25.45</td><td>21.20</td><td>16.95</td><td>12.70</td><td>8.50</td><td>4.25</td></tr>
-<tr><td></td><td>**65**</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td></tr>
+<tr><th></th><th></th><th>1960 und älter</th><th>1961</th><th>1962</th><th>1963</th><th>1964 und jünger</th></tr>
+<tr><td>Alter bei Bezugsbeginn</td><td>60</td><td>219.20</td><td>235.25</td><td>251.70</td><td>268.60</td><td>285.90</td></tr>
+<tr><td></td><td>**61**</td><td>162.50</td><td>177.75</td><td>193.45</td><td>209.55</td><td>226.05</td></tr>
+<tr><td></td><td>**62**</td><td>107.05</td><td>121.60</td><td>136.50</td><td>151.80</td><td>167.55</td></tr>
+<tr><td></td><td>**63**</td><td>52.90</td><td>66.70</td><td>80.90</td><td>95.45</td><td>110.35</td></tr>
+<tr><td></td><td>**64**</td><td>0.00</td><td>13.10</td><td>26.55</td><td>40.35</td><td>54.55</td></tr>
 </table>
 
-b) AHV-Alter 64
+Die Kürzung wird auf den Monat genau ermittelt.
 
-<table>
-<tr><th colspan="2"></th><th colspan="6">Monat</th></tr>
-<tr><th></th><th></th><th>**0**</th><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th></tr>
-<tr><td>Alter bei Bezugsbeginn</td><td>60</td><td>**219.20**</td><td>214.50</td><td>209.75</td><td>205.05</td><td>200.30</td><td>195.60</td></tr>
-<tr><td></td><td>**61**</td><td>**162.50**</td><td>157.90</td><td>153.25</td><td>148.65</td><td>144.00</td><td>139.40</td></tr>
-<tr><td></td><td>**62**</td><td>**107.05**</td><td>102.55</td><td>98.05</td><td>93.50</td><td>89.00</td><td>84.50</td></tr>
-<tr><td></td><td>**63**</td><td>**52.90**</td><td>48.50</td><td>44.10</td><td>39.70</td><td>35.25</td><td>30.85</td></tr>
-<tr><td></td><td>**64**</td><td>**0.00**</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td></tr>
-</table>
-
-<table>
-<tr><th colspan="2"></th><th colspan="6">Monat</th></tr>
-<tr><th></th><th></th><th>6</th><th>7</th><th>8</th><th>9</th><th>10</th><th>11</th></tr>
-<tr><td>Alter bei Bezugsbeginn</td><td>60</td><td>190.85</td><td>186.15</td><td>181.40</td><td>176.70</td><td>171.95</td><td>167.25</td></tr>
-<tr><td></td><td>**61**</td><td>134.80</td><td>130.15</td><td>125.55</td><td>120.90</td><td>116.30</td><td>111.65</td></tr>
-<tr><td></td><td>**62**</td><td>80.00</td><td>75.45</td><td>70.95</td><td>66.45</td><td>61.95</td><td>57.40</td></tr>
-<tr><td></td><td>**63**</td><td>26.45</td><td>22.05</td><td>17.65</td><td>13.25</td><td>8.80</td><td>4.40</td></tr>
-<tr><td></td><td>**64**</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td></tr>
-</table>
-
-Erklärung:
+**Erklärung:**
 
 \1. Die Beträge in den Tabellen entsprechen der Rentenkürzung pro 1000 Franken bezogener Überbrückungsrente, wenn die Bezügerin oder der Bezüger die Überbrückungsrente voll selbst finanziert.
 
-\2. Wird nach Massgabe der arbeitsrechtlichen Bestimmungen der Personalverordnung ETH-Bereich (SR *172.220.113*) eine Beteiligung des Arbeitgebers an der Finanzierung vorgesehen, so sind die Beträge in den Tabellen mit dem prozentualen Anteil der versicherten Person an der Finanzierung zu gewichten.
+\2. Wird nach Massgabe der arbeitsrechtlichen Bestimmungen der Professorenverordnung ETH vom 18. September 2003[^annex6-lvlu1-lvlu1-lvlI-1] eine Beteiligung des Arbeitgebers an der Finanzierung vorgesehen, so sind die Beträge in den Tabellen mit dem prozentualen Anteil der versicherten Person an der Finanzierung zu gewichten.
 
-Beispiel:
+**Beispiel 1:**
 
-Die Überbrückungsrente beträgt Fr. 27 840.– pro Jahr (Fr. 2320.– pro Monat). Sie wird ab dem 60. Altersjahr beansprucht. Der Arbeitgeber finanziert 50 Prozent der Kosten.
+Die Überbrückungsrente beträgt Fr. 27 840.– pro Jahr (Fr. 2320.– pro Monat). Sie wird ab dem Alter 62 Jahre und 3 Monate (bspw. Jahrgang 1962) beansprucht. Der Arbeitgeber finanziert 50 Prozent der Kosten.
 
 Berechnung:
 
-Betrag gemäss Tabelle a oder b × Anteil des Arbeitnehmers × (ÜR pro Monat/1000) = lebenslängliche Kürzung der Altersrente pro Monat.
+Betrag gemäss Tabelle 1 oder 2 × Anteil des Arbeitnehmers × (ÜR pro Monat/ 1000) = lebenslängliche Kürzung der Altersrente pro Monat
 
-- a. AHV-Alter 65: 267.65 × 0.5 × 2.32 = **Fr. 310.45**
-- b. AHV-Alter 64: 219.20 × 0.5 × 2.32 = **Fr. 254.25**
+- a. Männer: Kürzung im Alter 62 Jahre und 3 Monate: 156.60 + (103.05 – 156.60) / 12 × 3 = 143.20 143.20 × 0,5 × 2.32 = **Fr. 166.10**
+- b. Frauen (gemäss Beispiel mit Jahrgang 1962): Kürzung im Alter 62 Jahre und 3 Monate: 136.50 + (80.90 – 136.50) / 12 × 3 = 122.60 122.60 × 0,5 × 2.32 = **Fr. 142.20**
+
+[^annex6-lvlu1-lvlu1-lvlI-1]: [SR 172.220.113](https://fedlex.data.admin.ch/eli/cc/2001/279)**.** **40**
 
 ### II. Kürzung der Hinterlassenenrenten (Art. 60 Abs. 5)
 
+Reduktion der aufgeschobenen Kürzung pro Jahr (für die Differenz zwischen dem Erreichen des Referenzalters und dem Alter bei Tod)
+
+a. Männer
+
 <table>
-<tr><th></th><th colspan="2">Reduktion der aufgeschobenen Kürzung pro Jahr (für die Differenz zwischen dem ordentlichen AHV‑Rentenalter und dem Alter bei Tod)</th></tr>
-<tr><th>Alter bei Rentenbeginn</th><th>a. AHV-Alter 65</th><th>b. AHV-Alter 64</th></tr>
-<tr><td>60</td><td>4,42 %</td><td>4,56 %</td></tr>
-<tr><td>61</td><td>4,59 %</td><td>4,73 %</td></tr>
-<tr><td>62</td><td>4,77 %</td><td>4,90 %</td></tr>
-<tr><td>63</td><td>4,95 %</td><td>5,10 %</td></tr>
-<tr><td>64</td><td>5,21 %</td><td>0,0 %</td></tr>
-<tr><td>65</td><td>0,0 %</td><td></td></tr>
+<tr><td>Alter bei Bezugsbeginn der Altersrente</td><td>60</td><td>4,42 %</td></tr>
+<tr><td></td><td>**61**</td><td>4,59 %</td></tr>
+<tr><td></td><td>**62**</td><td>4,77 %</td></tr>
+<tr><td></td><td>**63**</td><td>4,97 %</td></tr>
+<tr><td></td><td>**64**</td><td>5,21 %</td></tr>
+<tr><td></td><td>**65**</td><td>0,00 %</td></tr>
 </table>
 
-Berechnungsbeispiel:
+b. Frauen (abhängig vom Jahrgang)
 
-Ein Versicherter geht mit Alter 60 in Pension und hat Anspruch auf eine Altersrente von Fr. 6000.– pro Monat. Er bezieht eine Überbrückungsrente von monatlich Fr. 2320.–. Im Alter von 63 Jahren stirbt er.
+<table>
+<tr><th></th><th></th><th>1960 und älter</th><th>1961</th><th>1962</th><th>1963</th><th>1964 und jünger</th></tr>
+<tr><td>Alter bei Bezugsbeginn</td><td>60</td><td>4,56 %</td><td>4,55 %</td><td>4,53 %</td><td>4,52 %</td><td>4,51 %</td></tr>
+<tr><td></td><td>**61**</td><td>4,73 %</td><td>4,72 %</td><td>4,71 %</td><td>4,69 %</td><td>4,68 %</td></tr>
+<tr><td></td><td>**62**</td><td>4,90 %</td><td>4,90 %</td><td>4,89 %</td><td>4,87 %</td><td>4,86 %</td></tr>
+<tr><td></td><td>**63**</td><td>5,10 %</td><td>5,10 %</td><td>5,09 %</td><td>5,07 %</td><td>5,06 %</td></tr>
+<tr><td></td><td>**64**</td><td>0,00 %</td><td>5,32 %</td><td>5,30 %</td><td>5,28 %</td><td>5,27 %</td></tr>
+</table>
 
-A. Berechnung/Kürzung der Ehegatten-, Lebenspartnerrente:
+**Berechnungsbeispiel:**
 
-Die Reduktion der aufgeschobenen Kürzung beträgt 2 × 4,42 % = 8,84 %. Die ursprünglich vorgesehene Kürzung von Fr. 310.45 wird um Fr. 27.45 reduziert und beträgt neu Fr. 283.00; somit die gekürzte Altersrente neu Fr. 5717.00. Die Hinterlassenenrente beträgt lebenslänglich zwei Drittel der gekürzten Altersrente, also Fr. 3811.35.
+Ein Versicherter geht mit Alter 62 Jahre und 3 Monate in Pension und hat Anspruch auf eine Altersrente von Fr. 6000.– pro Monat. Er bezieht eine Überbrückungsrente von monatlich Fr. 2320.–. Im Alter von 63 stirbt er.
 
-B. Berechnung/Kürzung der Waisenrente:
+Berechnung/Kürzung der Ehegatten-, Lebenspartnerrente:
 
-Die Waisenrente beträgt einen Sechstel der gekürzten Altersrente, also Fr. 952.85.
+- 1\. Das Pensionierungsalter legt den lebenslänglichen Kürzungssatz fest. 🡪 Für das Alter 62 Jahre und 3 Monate bei Männern beträgt er 4,82 %.
+- 2\. Dieser Satz ist mit der Anzahl Jahre, die zwischen dem Tod und dem Referenzalter liegen, zu multiplizieren. 🡪 Der Versicherte ist im Alter von 63 Jahren verstorben, die Differenz zwischen dem Alter bei Tod und dem Referenzalter beträgt 2 Jahre. 🡪 Der Kürzungssatz auf der lebenslänglichen Kürzung der monatlichen Altersrente bei Erreichen des Referenzalters beträgt 2 × 4,82 % = 9,64 %.
+- 3\. Der Betrag der lebenslänglichen Kürzung der monatlichen Altersrente bei Erreichen des Referenzalters ist um diesem Satz zu kürzen. 🡪 Die monatliche Kürzung im Referenzalter bei Pensionierung im Alter 62 Jahre und 3 Monate beträgt Fr. 166.10 (gemäss Anhang 6 Ziffer I Beispiel 1 Bst. a) und wird um Fr. 16.00 (9,64 % von 166.10) reduziert. Die definitive Kürzung beträgt somit Fr. 150.10.
+
+\4. Die gekürzte Altersrente beträgt Fr. 5849.90 (Fr. 6000.– minus Fr. 150.10), die Hinterlassenenrente Fr. 3899.95 (⅔ der gekürzten Altersrente).
 
 Anhang 7[^t-8]
 
