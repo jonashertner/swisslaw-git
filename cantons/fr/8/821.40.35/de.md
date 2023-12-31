@@ -3,13 +3,13 @@ canton: FR
 number: "821.40.35"
 title: "Verordnung über die Massnahmen des Wiederankurbelungsplans zur Bewältigung der Auswirkungen der COVID-19-Epidemie im Zuständigkeitsbereich der Direktion für Bildung und kulturelle Angelegenheiten und der Sicherheits-, Justiz- und Sportdirektion"
 language: de
-version: 2022-01-01
-valid_until: 2023-12-31
-version_adopted: 2022-02-08
+version: 2024-01-01
+valid_until: 2026-04-30
+version_adopted: 2023-12-05
 adopted: 2020-11-24
 in_force: 2020-11-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/821.40.35"
-pdf: "https://bdlf.fr.ch/api/de/versions/7142/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7899/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/7142/pdf_file"
 
 COVID-19, Wiederankurbelungsplan – EKSD-Massnahmen – V
 
-vom 24.11.2020 (Fassung in Kraft getreten am 01.01.2022)
+vom 24.11.2020 (Fassung in Kraft getreten am 01.01.2024)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -131,303 +131,115 @@ beschliesst:
 
 <sup>1</sup> Die einmalige Finanzhilfe und die bedingt rückzahlbaren Darlehen werden aus dem Wiederankurbelungsfonds und innerhalb der Schranken der im Dekret für den Kulturgüterschutz vorgesehenen 6'000'000 Franken finanziert.
 
-## 3 Massnahme im Bereich der Ausbildungsbeiträge
+## 3
 
 #### Art. 11
 
-**Ziel und Form der Massnahme**
-
-<sup>1</sup> Die Massnahme zugunsten des Bildungsbereichs erfolgt in Form eines Sonderstipendiums zur Unterstützung einer 2021 oder 2022 aufgenommenen Grundausbildung für Personen im Alter zwischen 25 und 55 Jahren:
-
-- a) die keine Grundausbildung abgeschlossen haben oder
-- b) deren Ausbildung aus strukturellen und/oder konjunkturellen Gründen nicht mehr arbeitsmarktkonform ist, insbesondere wenn die Person seit mehr als 18 Monaten auf Arbeitssuche ist (Umschulungsstipendium).
+**…**
 
 #### Art. 12
 
-**Abweichung vom Gesetz über die Stipendien und Studiendarlehen (StiG)**
-
-<sup>1</sup> Für die Gewährung des Sonderstipendiums kann von den folgenden Artikeln des StiG abgewichen werden:
-
-- a) Artikel 6: Subsidiaritätsprinzip;
-- b) Artikel 9 Abs. 5: Altersgrenze.
+**…**
 
 #### Art. 13
 
-**Subsidiarität des Sonderstipendiums**
-
-<sup>1</sup> Sind die Bedingungen für ein ordentliches Stipendium nicht erfüllt, so kann das Amt für Ausbildungsbeiträge den Anspruch auf ein Sonderstipendium prüfen.
-
-<sup>2</sup> In besonderen Fällen kann ein ordentliches Stipendium mit einem Sonderstipendium ergänzt werden. Der einer oder einem Begünstigten gewährte Gesamtbetrag darf jedoch den Betrag nach Artikel 14 Abs. 1 Bst. a nicht überschreiten.
+**…**
 
 #### Art. 14
 
-**Berechnung**
-
-<sup>1</sup> Für die Berechnung des Sonderstipendiums wird in folgenden Punkten von der Gesetzgebung über die Stipendien und Studiendarlehen abgewichen:
-
-- a) Der jährliche Höchstbetrag eines Stipendiums beträgt in Abweichung von Artikel 9 Abs. 2 StiR 35'000 Franken.
-- b) Die berücksichtigten Unterhaltskosten der Person in Ausbildung entsprechen, in Abweichung von Artikel 5 Abs. 2 Bst. a StiR, höchstens den Ansätzen, die für die Berechnung von Ergänzungsleistungen gelten.
-- c) Abweichend von Artikel 5 Abs. 2 Bst. b StiR wird für die Wohnkosten der tatsächliche Mietzins bis höchstens zu dem vom Bundesamt für Statistik zuletzt veröffentlichten durchschnittlichen Mietzins für den Kanton Freiburg angerechnet.
-- d) Die Krankenkassenprämien werden in der Regel angerechnet. Sie entsprechen der durchschnittlichen kantonalen Monatsprämie der obligatorischen Krankenpflegeversicherung im betreffenden Ausbildungsjahr (1. Semester).
-- e) Hat die Person in Ausbildung ein oder mehrere Kinder und lebt sie mit dem anderen Elternteil zusammen, werden dessen Einkommen und Vermögen gemäss der Richtlinie F.5.3 der Schweizerischen Konferenz für Sozialhilfe zu 65 % angerechnet (Art. 17 Abs. 6 StiR).
-- f) Abweichend von Artikel 29 Abs. 1 StiR wird keine Integrationszulage gewährt.
+**…**
 
 #### Art. 15
 
-**Eingabefristen für die Gesuche:**
-
-<sup>1</sup> In Ergänzung zu Artikel 10 Abs. 1 StiR werden nur Stipendiengesuche berücksichtigt, die vor dem 30. Juni 2022 eingereicht werden.
+**…**
 
 #### Art. 16
 
-**Einschränkung**
+**…**
 
-<sup>1</sup> Für berufliche Umschulungen, die nicht Artikel 11 Abs. 1 Bst. b entsprechen (sogenannte Wunsch-Umschulungen), werden keine Stipendien gewährt.
-
-<sup>2</sup> Für die Vorbereitung auf eine Ausbildung oder für eine Zusatzausbildung, die zu einem höheren Ausbildungsabschluss führt, kann kein Sonderstipendium gewährt werden (Art. 3 Abs. 1 Bst. a und d StiR).
-
-<sup>3</sup> Die Sonderstipendien werden in den Schranken der im Dekret vorgesehenen 1'600'000 Franken finanziert.
-
-## 4 Massnahmen im Bereich der Kultur
+## 4
 
 #### Art. 17
 
-**Zielsetzung und Form der Massnahmen**
-
-<sup>1</sup> Die Massnahmen zugunsten des Kultursektors haben die Form von Finanzhilfen für Kulturunternehmen und für Kulturschaffende zur Entschädigung finanzieller Einbussen im Zusammenhang mit der COVID-19-Epidemie (Ausfallentschädigungen) und von Beiträgen an Transformationsprojekte von Kulturunternehmen im Sinne von Artikel 3 Abs. 1 Bst. a und b der COVID-19-Kulturverordnung des Bundes.
+**…**
 
 #### Art. 18
 
-**Erweiterung des Kulturbegriffs**
-
-<sup>1</sup> Der Begriff des Kulturbereichs im Sinne von Artikel 2 Bst. a der COVID-19-Kulturverordnung des Bundes wird wie folgt erweitert:
-
-- a) darstellende Künste und Musik: umfasst auch Musiklabels und die Veröffentlichung von Tonträgern;
-- b) visuelle Kunst: umfasst auch Projekte und Veranstaltungen zur Kulturvermittlung und kulturellen Teilhabe von Galerien;
-- c) Literatur: umfasst auch Buchveröffentlichungen (Verlage) sowie Projekte und Veranstaltungen zur Kulturvermittlung und kulturellen Teilhabe von Buchhandlungen und Bibliotheken.
+**…**
 
 #### Art. 19
 
-**Kriterien**
-
-<sup>1</sup> Bei der Festlegung der Höhe der Finanzhilfen im Sinne der Artikel 4 ff. und 7 ff. sowie in den Schranken von Artikel 5 Abs. 2 und Artikel 9 der COVID-19-Kulturverordnung des Bundes berücksichtigt das Amt für Kultur insbesondere Folgendes:
-
-- a) die mittelfristige Überlebensfähigkeit der Kulturunternehmen;
-- b) die Aufgaben des Staates gemäss Artikel 79 Abs. 1 der Verfassung des Kantons Freiburg vom 16. Mai 2004;
-- c) die Erhaltung der im professionellen Kultur- und Kunstschaffen bestehenden Kompetenzen, die für das kulturelle Leben des Kantons wesentlich und/oder charakteristisch sind;
-- d) die Kulturpolitik des Staates;
-- e) die Verpflichtungen, welche die Kulturunternehmen bei ihren Aktivitäten und ihrer Programmgestaltung während der Dauer der Pandemie eingegangen sind;
-- f) die Vergütung der Kulturschaffenden für die geplanten Leistungen; diese richtet sich nach den von den Branchenverbänden empfohlenen Mindesthonoraren.
-
-<sup>2</sup> Das Amt für Kultur gewichtet dabei das Kulturschaffen und die Innovation stärker als Unterhaltungs- und Freizeitangebote.
-
-<sup>3</sup> Bei der Präzisierung seiner Kriterien, die es auf seiner Website veröffentlicht, spricht sich das Amt für Kultur zudem mit der Konferenz der kantonalen Kulturbeauftragten (KBK) der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren (EDK) und dem Bundesamt für Kultur (BAK) ab.
-
-<sup>4</sup> Der Artikel 4 Abs. 5 der COVID-19-Kulturverordnung des Bundes gilt im Falle einer vollständigen Aufhebung der Massnahmen des Bundes und des Staates zur Bekämpfung von COVID-19, mit Ausnahme von Artikel 22b Abs. 2<sup>ter</sup>.
+**…**
 
 #### Art. 20
 
-**Verfahren und Frist für das Einreichen der Gesuche**
-
-<sup>1</sup> Die Gesuche müssen innerhalb der Zwischenfristen nach Artikel 6 Abs. 1 der COVID-19-Kulturverordnung des Bundes über das Internetportal des Amts für Kultur eingereicht werden.
-
-<sup>2</sup> Zur finanziellen Unterstützung von Transformationsprojekten kann das Amt für Kultur über Projektausschreibungen tätig werden. Als Fristen für die Ausschreibungen werden der 27. Februar, der 15. Mai, der 14. August und der 23. Oktober 2022 festgelegt.
-
-<sup>3</sup> Zur Bearbeitung und Prüfung der Gesuche kann das Amt für Kultur externe Expertinnen und Experten hinzuziehen. Die damit verbundenen Kosten werden in den Schranken und mit den Mitteln nach Artikel 23 gedeckt.
-
-<sup>4</sup> Die Gesuche werden von einer Ad-hoc-Kommission vorberaten, die sich aus dem Vorsteher des Amts für Kultur, der den Vorsitz innehat, und mindestens zwei anderen Mitgliedern der Kommission für kulturelle Angelegenheiten zusammensetzt (Art. 15 des Gesetzes vom 24. Mai 1991 über die kulturellen Angelegenheiten). Die Gesamtzahl der Mitglieder muss ungerade sein.
+**…**
 
 #### Art. 21
 
-**Inhalt der Gesuche**
-
-<sup>1</sup> Den Gesuchen müssen folgende Unterlagen beigefügt werden: Kopien aller anderen Unterstützungsgesuche und -entscheide (falls solche hängig sind), eine Berechnung und Belege, mit denen die Verluste im Zusammenhang mit den Massnahmen des Bundes oder des Staates zur Bekämpfung der Coronavirus-Epidemie (COVID-19) plausibel erklärt werden, ein Nachweis darüber, ob die Tätigkeit der Gesuchstellerin oder des Gesuchstellers gewinnorientiert ist oder nicht, sowie eine eidesstattliche Erklärung, in der bestätigt wird, dass die vorgelegten Informationen vollständig und wahrheitsgetreu sind.
-
-<sup>2</sup> Ausserdem müssen die Kulturunternehmen ihre letzte geprüfte oder genehmigte Jahresrechnung beilegen. Auf Verlangen des Amts für Kultur sind darüber hinaus die Jahresrechnungen der letzten vier Jahre einzureichen.
-
-<sup>3</sup> Auf Verlangen des Amts für Kultur müssen die Kulturschaffenden ihre Steuerveranlagungen der letzten zwei oder vier Jahre vorlegen.
+**…**
 
 #### Art. 22
 
-**Entscheidbehörde**
-
-<sup>1</sup> Folgende Behörde entscheidet, gestützt auf die Stellungnahme der Ad-hoc-Kommission (Art. 20 Abs. 4), über das Gesuch:
-
-- a) das Amt für Kultur für die Gewährung eines Betrags bis höchstens 50'000 Franken;
-- b) die Direktion für Bildung und kulturelle Angelegenheiten für die Gewährung eines Betrags zwischen 50'001 und 100'000 Franken;
-- c) der Staatsrat für die Gewährung eines Betrags von über 100'000 Franken.
-
-<sup>2</sup> …
+**…**
 
 #### Art. 22a
 
-**Höchstbeträge**
-
-<sup>1</sup> In besonderen Fällen kann eine Finanzhilfe von über 100'000 Franken nicht gewährt werden wegen des Vorbehalts, dass nach Bearbeitung sämtlicher Gesuche genügend finanzielle Mittel verbleiben.
-
-<sup>2</sup> Eine Finanzhilfe in Form einer Ausfallentschädigung darf bei gewinnorientierten Kulturunternehmen 1'500'000 Franken nicht übersteigen.
+**…**
 
 #### Art. 22b
 
-**Zusätzliche kantonale Unterstützung**
-
-<sup>1</sup> …
-
-<sup>2</sup> Ausnahmsweise kann der Staat, gemäss den Kriterien in Artikel 19, Kulturunternehmen oder Kulturschaffende, welche die Anforderungen der COVID-19-Kulturverordnung des Bundes nicht erfüllen und keine Finanzhilfe nach Artikel 10 Abs. 1 der Verordnung vom 16. November 2020 über wirtschaftliche Massnahmen zur Abfederung der Auswirkungen des Coronavirus durch Beiträge für Härtefälle erhalten, unterstützen.
-
-<sup>2<sup>bis</sup></sup> Diese zusätzlichen kantonalen Unterstützungsbeiträge werden aus dem Fonds nach Artikel 23 Abs. 1 Bst. b finanziert.
-
-<sup>2<sup>ter</sup></sup> Für die Bezirksverbände des Freiburger Kantonal Musikverbands kann der Staat die durch die öffentlichen Massnahmen zur Bekämpfung von COVID-19 verursachten Mehrkosten, insbesondere für Personal, Infrastruktur, Organisation und Kommunikation, unterstützen.
-
-<sup>3</sup> Diese zusätzlichen kantonalen Unterstützungsbeiträge werden aus dem Fonds nach Artikel 23 Abs. 1 Bst. c finanziert.
+**…**
 
 #### Art. 23
 
-**Fonds**
+**…**
 
-<sup>1</sup> Für den Vollzug dieser Verordnung werden vier Fonds geschaffen:
-
-- a) ein Fonds von 8'748'000 Franken für die Finanzhilfen der Jahre 2020 und 2021, der zur Hälfte vom Bund (Art. 11 Abs. 3 des COVID-19-Gesetzes des Bundes) und zur Hälfte vom Staat gespiesen wird;
-- a<sup>bis</sup>) ein Fonds von 6'528'000 Franken für die Finanzhilfen des Jahres 2022, der zur Hälfte vom Bund (Art. 11 Abs. 3 des COVID-19-Gesetzes des Bundes) und zur Hälfte vom Staat gespiesen wird;
-- b) ein Fonds für die zusätzliche kantonale Unterstützung (Art. 22b Abs. 2), zu dem der Staat 25'000 Franken und die kantonale Kommission der Loterie Romande 175'000 Franken beisteuern, wobei ein allfälliger Restbetrag an diese zurückfliesst.
-- c) ein Fonds für zusätzliche kantonale Unterstützungen für die Bezirksverbände des Freiburger Kantonal Musikverbands (Art. 22b Abs. 2<sup>ter</sup>), der vom Staat mit 100'000 Franken gespiesen wird. Die finanzielle Unterstützung beläuft sich auf höchstens 15'000 Franken pro Bezirksverband.
-
-<sup>2</sup> Der Anteil des Staates an diesen Fonds wird aus dem Wiederankurbelungsfonds, mit dem Betrag von 4'400'000 Franken für den Kulturbereich gemäss Dekret, finanziert.
-
-## 5 Massnahmen im Bereich des Sports
+## 5
 
 #### Art. 24
 
-**Zielsetzung und Form der Massnahmen**
-
-<sup>1</sup> Die Massnahmen zugunsten des Sports werden in Form von Finanzhilfen zur Linderung der Verluste infolge der COVID-19-Pandemie und zur Unterstützung von Sportförderungsprojekten sowie in Form von Individualbeiträgen für junge Nachwuchssportlerinnen und Nachwuchssportler geleistet.
+**…**
 
 #### Art. 25
 
-**Finanzhilfe zugunsten von Sportvereinen und -klubs**
-
-<sup>1</sup> Kantonale Sportvereine und alleinige Sportklubs im Kanton können unter folgenden kumulativen Bedingungen für die Saisons 2020/21 und 2021/22 eine Finanzhilfe zur Wiederankurbelung ihrer Aktivitäten beantragen:
-
-- a) sie sind einem nationalen Sportdachverband angeschlossen;
-- b) sie verfolgen keine gewinnorientierten Ziele;
-- c) sie fördern den Nachwuchs im Bereich des Freizeit- und Leistungssports.
-
-<sup>2</sup> Zur Festlegung der Höhe der Finanzhilfe werden folgende Kriterien berücksichtigt:
-
-- a) die Anzahl der Teilnehmenden der für das Sportförderprogramm Jugend+Sport gemeldeten Aktivitäten sowie die Anzahl der dem Dachverband gemeldeten Beitragszahlenden;
-- b) der Betrag der Verluste im Zusammenhang mit der COVID-19-Epidemie;
-- c) das öffentliche Interesse des Kantons an der Sportart sowie deren Anerkennung;
-- d) die Sportpolitik sowie das Sportkonzept des Kantons.
-
-<sup>3</sup> Sportarten, in denen sich die Athletinnen und Athleten sowie Trainerinnen und Trainer auf höchstem nationalem Niveau bewegen, werden bevorzugt behandelt.
-
-<sup>4</sup> Die Finanzhilfe deckt maximal 80 % der Verluste im Zusammenhang mit der COVID-19-Epidemie und ist auf maximal 400'000 Franken pro Saison und Sportverein oder ‑klub beschränkt.
-
-<sup>5</sup> Keine Finanzhilfe wird gewährt, wenn der Verlust der Saison weniger als 5000 Franken beträgt.
+**…**
 
 #### Art. 26
 
-**Individualbeitrag an junge Nachwuchssportlerinnen und Nachwuchssportler**
-
-<sup>1</sup> Zum Förderprogramm «Sport-Kultur-Ausbildung» des Kantons Freiburg zugelassene junge Nachwuchssportlerinnen und Nachwuchssportler sowie Inhaberinnen und Inhaber einer Swiss Olympic Card unter 25 Jahren, die im Kanton Wohnsitz haben und nicht unter Profivertrag stehen, können zur Abfederung ihrer Verluste im Zusammenhang mit der COVID-19-Epidemie für die Saisons 2020/21 und 2021/22 einen Individualbeitrag beantragen.
-
-<sup>2</sup> Der Individualbeitrag deckt maximal 80 % der Verluste im Zusammenhang mit der COVID-19-Epidemie und ist auf maximal 20'000 Franken pro Saison und Nachwuchssportlerin oder Nachwuchssportler beschränkt.
-
-<sup>3</sup> Kein Individualbeitrag wird gewährt, wenn der Verlust der Saison weniger als 500 Franken beträgt.
+**…**
 
 #### Art. 27
 
-**Individueller Ausbildungsbeitrag für junge Nachwuchssportlerinnen und Nachwuchssportler**
-
-<sup>1</sup> Zum Förderprogramm «Sport-Kultur-Ausbildung» des Kantons Freiburg zugelassene junge Nachwuchssportlerinnen und Nachwuchssportler sowie Inhaberinnen und Inhaber einer Swiss Olympic Card unter 25 Jahren, die im Kanton Wohnsitz haben und nicht unter Profivertrag stehen, können einen individuellen Beitrag an ihre Ausbildungskosten (Schulgelder, Einschreibegebühren, Lehrmittel) für eine berufliche oder sportliche Umschulung beantragen.
-
-<sup>2</sup> Der individuelle Ausbildungsbeitrag beläuft sich maximal auf 20'000 Franken pro Nachwuchssportlerin oder Nachwuchssportler und Ausbildungsjahr.
+**…**
 
 #### Art. 28
 
-**Finanzhilfe zugunsten von Organisatorinnen und Organisatoren von Sportveranstaltungen**
-
-<sup>1</sup> Organisatorinnen und Organisatoren von Sportveranstaltungen können zur Abfederung ihrer Verluste, die ihnen wegen Absage oder Verschiebung von wichtigen Sportveranstaltungen im Sinne von Artikel 9 Abs. 2 SportG auf Freiburger Gebiet während der Saison 2020/21 und 2021/22 entstanden sind, eine Finanzhilfe beantragen. Ausgeschlossen davon sind Organisatorinnen und Organisatoren, die einen ausschliesslich oder hauptsächlich kommerziellen und/oder touristischen Zweck verfolgen.
-
-<sup>2</sup> Zur Festlegung der Höhe der Finanzhilfe werden die Kriterien nach Artikel 23 Abs. 2 SportR und der Betrag der mit der COVID-19-Epidemie verbundenen Verluste berücksichtigt.
-
-<sup>3</sup> Sportveranstaltungen, die zusätzlich zum Lizenzsport ein Jugend- oder Freizeitsportprogramm beinhalten, werden bevorzugt behandelt.
-
-<sup>4</sup> Die Finanzhilfe deckt maximal 50 % der Verluste im Zusammenhang mit der COVID-19-Epidemie und ist auf maximal 100'000 Franken pro Sportveranstaltung beschränkt. Ein allfällig entgangener Gewinn wird nicht berücksichtigt.
-
-<sup>5</sup> Keine Finanzhilfe wird gewährt, wenn der Verlust der Sportveranstaltung weniger als 5000 Franken beträgt.
+**…**
 
 #### Art. 29
 
-**Finanzhilfe zugunsten von Eigentümerinnen und Eigentümern nichtkommerzieller Sportanlagen**
-
-<sup>1</sup> Eigentümerinnen und Eigentümer von Sportanlagen können für die Verluste, die ihnen wegen Absage oder Verschiebung von Sportveranstaltungen in ihren Anlagen während der Saison 2020/21 und 2021/22 entstanden sind, eine Finanzhilfe beantragen. Ausgeschlossen davon sind Eigentümerinnen und Eigentümer, die einen ausschliesslich oder hauptsächlich kommerziellen und/oder touristischen Zweck verfolgen, sowie Gemeinden und Gemeindeverbände.
-
-<sup>2</sup> Zur Festlegung der Höhe der Finanzhilfe werden die Kriterien nach Artikel 20 des Sportreglements (SportR) und der Betrag der mit der COVID-19-Epidemie verbundenen Verluste berücksichtigt.
-
-<sup>3</sup> Sportanlagen, die zusätzlich zum Lizenzsport ein Jugend- oder Freizeitsportprogramm anbieten, werden bevorzugt behandelt.
-
-<sup>4</sup> Die Finanzhilfe deckt maximal 50 % der Verluste im Zusammenhang mit der COVID-19-Epidemie und ist auf maximal 80'000 Franken pro Sportanlage und Saison beschränkt. Ein allfällig entgangener Gewinn wird nicht berücksichtigt.
-
-<sup>5</sup> Keine Finanzhilfe wird gewährt, wenn der Verlust der Saison weniger als 5000 Franken beträgt.
+**…**
 
 #### Art. 30
 
-**Finanzhilfe zugunsten von Sportförderungsprojekten**
-
-<sup>1</sup> Kantonale Sportvereine und alleinige Sportklubs im Kanton können unter folgenden kumulativen Bedingungen für die Saison 2020/21 und 2021/22 eine Finanzhilfe für Sportförderungsprojekte beantragen:
-
-- a) sie sind einem nationalen Sportdachverband angeschlossen;
-- b) sie verfolgen keine gewinnorientierten Ziele;
-- c) sie fördern den Nachwuchs im Bereich des Freizeit- und Leistungssports;
-- d) sie unterbreiten ein Projekt auf Freiburger Gebiet, dessen mittel- und langfristige Nachhaltigkeit garantiert ist.
-
-<sup>2</sup> Zur Festlegung der Höhe der Finanzhilfe werden namentlich folgende Kriterien berücksichtigt:
-
-- a) die Anzahl der teilnehmenden Nutzniessenden des Projekts;
-- b) die Valorisierung der Freiwilligentätigkeit im Rahmen des Projekts;
-- c) das öffentliche Interesse des Kantons an der Sportart sowie deren Anerkennung;
-- d) die Sportpolitik sowie das Sportkonzept des Kantons.
-
-<sup>3</sup> Innovative Projekte und solche, die den Jugendsport fördern, werden bevorzugt behandelt.
-
-<sup>4</sup> Die Finanzhilfe deckt maximal 50 % des Projektbudgets und ist auf maximal 100'000 Franken pro Sportverein oder -klub und Saison beschränkt.
+**…**
 
 #### Art. 31
 
-**Verfahren und Fristen**
-
-<sup>1</sup> Die Gesuche müssen über das Internetportal des Amts für Sport spätestens bis zum 30. Juni 2021 für die Saison 2020/21 und bis zum 30. Juni 2022 für die Saison 2021/22 eingereicht werden.
-
-<sup>2</sup> Sie werden von einer Ad-hoc-Kommission vorberaten, die sich aus dem Vorsteher des Amts für Sport, der den Vorsitz innehat, und mindestens zwei anderen Mitgliedern der kantonalen Sportkommission (Art. 15 SportG), wovon eines eine Vertreterin oder ein Vertreter des Freiburgischen Verbands für Sport (FVS) ist, zusammensetzt. Die Gesamtzahl der Mitglieder muss ungerade sein.
+**…**
 
 #### Art. 32
 
-**Inhalt der Gesuche**
-
-<sup>1</sup> Den Gesuchen müssen folgende Unterlagen beigefügt werden: Kopien aller anderen Unterstützungsgesuche und -entscheide (falls solche hängig sind), eine Berechnung und Belege, mit denen die Verluste im Zusammenhang mit den Massnahmen des Bundes oder des Staates zur Bekämpfung der Coronavirus-Epidemie (COVID-19) plausibel erklärt werden, ein Nachweis darüber, ob die Tätigkeit der Gesuchstellerin oder des Gesuchstellers gewinnorientiert ist oder nicht, sowie eine eidesstattliche Erklärung, in der bestätigt wird, dass die vorgelegten Informationen vollständig und wahrheitsgetreu sind.
-
-<sup>2</sup> Ausserdem müssen die Sportvereine und -klubs, die Organisatorinnen und Organisatoren von Sportveranstaltungen sowie die Eigentümerinnen und Eigentümer von Sportanlagen ihre letzte geprüfte oder genehmigte Jahresrechnung und die jungen Nachwuchssportlerinnen und Nachwuchssportler die Abrechnung ihrer Aufwendungen und Unterstützungsbeiträge für die letzten beiden Jahre beilegen. Auf Verlangen des Amts für Sport müssen die Vorgenannten diese Belege für die letzten 4 Jahre vorlegen.
-
-<sup>3</sup> Für den individuellen Ausbildungsbeitrag (Art. 27) müssen dem Gesuch ein Beschrieb der angestrebten Ausbildung, die Belege der Ausbildungskosten und die Einschreibebestätigung der Ausbildungsstätte beigelegt werden.
+**…**
 
 #### Art. 33
 
-**Entscheidbehörde**
-
-<sup>1</sup> Folgende Behörde entscheidet, gestützt auf die Stellungnahme der Ad-hoc-Kommission (Art. 31 Abs. 2), über das Gesuch:
-
-- a) das Amt für Sport für die Gewährung eines Betrags bis höchstens 50'000 Franken;
-- b) die Sicherheits-, Justiz- und Sportdirektion für die Gewährung eines Betrags zwischen 50'001 und 100'000 Franken;
-- c) der Staatsrat für die Gewährung eines Betrags von über 100'000 Franken.
-
-<sup>2</sup> Eine Finanzhilfe von über 100'000 Franken für die Saison 2020/21 wird nur gewährt, wenn nach Bearbeitung sämtlicher Gesuche für diese Periode mindestens die Hälfte der vom Dekret zugesprochenen Mittel übrig bleiben,und für die Saison 2021/22 unter Vorbehalt übrigbleibender Mittel nach Bearbeitung sämtlicher Gesuche für diese Periode.
+**…**
 
 #### Art. 34
 
-**Finanzierung**
-
-<sup>1</sup> Die Finanzhilfen und Individualbeiträge werden aus dem Wiederankurbelungsfonds, in den Schranken der im Dekret für den Bereich des Sports vorgesehenen 4'400'000 Franken, finanziert.
+**…**
 
 ## 6 Schlussbestimmungen
 
