@@ -4,11 +4,11 @@ title: "Ordinanza dell'UFCOM del 18 novembre 2020 sull'utilizzazione dello spett
 short: OUUS
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/914"
 language: it
-version: 2023-01-01
+version: 2024-01-01
 adopted: 2020-11-18
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/914/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2020-914-20230101-it-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/914/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/914/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2020-914-20240101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/914/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/914/20230101/it"
 
 (OUUS)
 
-del 18 novembre 2020 (Stato 1° gennaio 2023)
+del 18 novembre 2020 (Stato 1° gennaio 2024)
 
 L’Ufficio federale delle comunicazioni (UFCOM),
 
@@ -187,10 +187,10 @@ Allegato 1[^t-1]
 
 [^annex1-lvlu1-1]
 
-[^t-1]: Nuovo testo giusta il n. I cpv. 1 dell’O dell’UFCOM dell’8 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 671](https://fedlex.data.admin.ch/eli/oc/2022/671)).
-[^annex1-lvlu1-1]: Il contenuto del presente allegato è pubblicato nella RU e nella RS unicamente sotto forma di rinvio. È possibile consultarlo su: [https://fedlex.data.admin.ch/eli/oc/2022/671](https://fedlex.data.admin.ch/eli/oc/2022/671) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di un testo sotto forma di rinvio. Una copia stampata è ottenibile a pagamento presso l’Ufficio federale delle costruzioni e della logistica (UFCL), Vendita di pubblicazioni federali, 3003 Berna (www.pubblicazionifederali.admin.ch).
+[^t-1]: Nuovo testo giusta il n. I dell’O dell’UFCOM del 6 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 666](https://fedlex.data.admin.ch/eli/oc/2023/666)).
+[^annex1-lvlu1-1]: Il contenuto del presente allegato è pubblicato nella RU e nella RS soltanto mediante rimando. È possibile consultarlo su [https://fedlex.data.admin.ch/eli/oc/2023/666](https://fedlex.data.admin.ch/eli/oc/2023/666) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando. Una copia stampata è ottenibile a pagamento presso l’Ufficio federale delle costruzioni e della logistica (UFCL), Vendita di pubblicazioni federali, 3003 Berna ([www.pubblicazionifederali.admin.ch](https://www.bundespublikationen.admin.ch/cshop_bbl/b2c/start/(layout=7.01-13_131_69_135_6_133&carea=%24ROOT&rdb=0&uiarea=0)/.do)).
 
-Versione 5 dell’8 novembre 2022
+Versione 6 del 6 novembre 2023
 
 Allegato 2
 
@@ -317,7 +317,7 @@ Allegato 5
 
 [^annex4-lvlu2-1]
 
-[^annex4-lvlu2-1]: Il testo delle prescrizioni d’esame è ottenibile presso l’UFCOM, Rue de l’Avenir 44, casella postale, 2501 Bienne, oppure all’indirizzo www.ufcom.admin.ch &gt; Frequenze e antenne &gt; Esami di radiocomunicazione.
+[^annex4-lvlu2-1]: Il testo delle prescrizioni d’esame è ottenibile presso l’UFCOM, Rue de l’Avenir 44, casella postale, 2501 Bienne, oppure all’indirizzo: [www.ufcom.admin.ch](http://www.ufcom.admin.ch) &gt; Frequenze e antenne &gt; Esami di radiocomunicazione.
 
 <table>
 <tr><th></th><th>Certificato di capacità</th><th>Edizione delle prescrizioni per l’esame</th></tr>

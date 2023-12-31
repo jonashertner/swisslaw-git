@@ -4,11 +4,11 @@ title: "Ordonnance de l'OFCOM du 18 novembre 2020 sur l'utilisation du spectre d
 short: OOUS
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/914"
 language: fr
-version: 2023-01-01
+version: 2024-01-01
 adopted: 2020-11-18
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/914/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-914-20230101-fr-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/914/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/914/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-914-20240101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/914/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/914/20230101/fr"
 
 (OOUS)
 
-du 18 novembre 2020 (État le 1<sup>er</sup> janvier 2023)
+du 18 novembre 2020 (État le 1<sup>er</sup> janvier 2024)
 
 L’Office fédéral de la communication (OFCOM),
 
@@ -187,10 +187,10 @@ Annexe 1[^t-1]
 
 [^annex1-lvlu1-1]
 
-[^t-1]: Nouvelle teneur selon le ch. I al. 1 de l’O de l’OFCOM du 8 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 671](https://fedlex.data.admin.ch/eli/oc/2022/671)).
-[^annex1-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante : [https://fedlex.data.admin.ch/eli/oc/2022/671](https://fedlex.data.admin.ch/eli/oc/2022/671) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi. Des tirés à part peuvent être obtenus contre paiement auprès de l’OFCL, Vente des publications fédérales, 3003 Berne (www.publicationsfederales.admin.ch).
+[^t-1]: Nouvelle teneur selon le ch. I de l’O de l’OFCOM du 6 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 666](https://fedlex.data.admin.ch/eli/oc/2023/666)).
+[^annex1-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2023/666](https://fedlex.data.admin.ch/eli/oc/2023/666) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi. Des tirés à part peuvent être obtenus contre paiement auprès de l’OFCL, Vente des publications fédérales, 3003 Berne ([www.publicationsfederales.admin.ch](http://www.publicationsfederales.admin.ch)).
 
-Version 5 du 8 novembre 2022
+Version 6 du 6 novembre 2023
 
 Annexe 2
 
@@ -317,7 +317,7 @@ Annexe 5
 
 [^annex5-lvlu1-1]
 
-[^annex5-lvlu1-1]: Le texte des prescriptions d’examen peut être obtenu auprès de l’Office fédéral de la communication, rue de l’Avenir 44, case postale, 2501 Bienne, ou à l’adresse Internet www.ofcom.admin.ch &gt; Fréquences et antennes &gt; Examens de radiocommunication.
+[^annex5-lvlu1-1]: Le texte des prescriptions d’examen peut être obtenu auprès de l’Office fédéral de la communication, rue de l’Avenir 44, case postale, 2501 Bienne, ou à l’adresse Internet [www.ofcom.admin.ch](http://www.ofcom.admin.ch) &gt; Fréquences et antennes &gt; Examens de radiocommunication.
 
 <table>
 <tr><th></th><th>Certificat de capacité</th><th>Edition des prescriptions d’examen:</th></tr>

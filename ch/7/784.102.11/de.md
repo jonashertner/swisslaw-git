@@ -4,11 +4,11 @@ title: Verordnung des BAKOM vom 18. November 2020 über die Nutzung des Funkfreq
 short: VVNF
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/914"
 language: de
-version: 2023-01-01
+version: 2024-01-01
 adopted: 2020-11-18
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/914/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2020-914-20230101-de-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/914/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/914/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2020-914-20240101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/914/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/914/20230101/de"
 
 (VVNF)
 
-vom 18. November 2020 (Stand am 1. Januar 2023)
+vom 18. November 2020 (Stand am 1. Januar 2024)
 
 Das Bundesamt für Kommunikation (BAKOM),
 
@@ -187,10 +187,10 @@ Anhang 1[^t-1]
 
 [^annex1-lvlu1-1]
 
-[^t-1]: Fassung gemäss Ziff. I Abs. 1 der V des BAKOM vom 8. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 671](https://fedlex.data.admin.ch/eli/oc/2022/671)).
-[^annex1-lvlu1-1]: Der Inhalt des Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2022/671](https://fedlex.data.admin.ch/eli/oc/2022/671) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis. Separatdrucke können beim Bundesamt für Bauten und Logistik (BBL), Verkauf Bundespublikationen, 3003 Bern ([www.bundespublikationen.admin.ch](http://www.bundespublikationen.admin.ch)), gegen Bezahlung bezogen werden.
+[^t-1]: Fassung gemäss Ziff. I der V des BAKOM vom 6. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 666](https://fedlex.data.admin.ch/eli/oc/2023/666)).
+[^annex1-lvlu1-1]: Der Inhalt des Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2023/666](https://fedlex.data.admin.ch/eli/oc/2023/666) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis. Separatdrucke können gegen Bezahlung bezogen werden beim Bundesamt für Bauten und Logistik (BBL), Verkauf Bundespublikationen, 3003 Bern ([www.bundespublikationen.admin.ch](http://www.bundespublikationen.admin.ch)).
 
-Fassung 5 vom 8. November 2022
+Fassung 6 vom 6. November 2023
 
 Anhang 2
 
@@ -317,7 +317,7 @@ Anhang 5
 
 [^annex5-lvlu1-1]
 
-[^annex5-lvlu1-1]: Der Text der Prüfungsvorschriften kann beim Bundesamt für Kommunikation, Zukunftstrasse 44, Postfach, 2501 Biel oder unter www.bakom.admin.ch &gt; Frequenzen und Antennen &gt; Funkerprüfungen bezogen werden.
+[^annex5-lvlu1-1]: Der Text der Prüfungsvorschriften kann beim Bundesamt für Kommunikation, Zukunftstrasse 44, Postfach, 2501 Biel oder unter [www.bakom.admin.ch](https://www.bakom.admin.ch) &gt; Frequenzen und Antennen &gt; Funkerprüfungen bezogen werden.
 
 <table>
 <tr><th></th><th>Fähigkeitszeugnis</th><th>Ausgabe der Prüfungsvorschriften</th></tr>
