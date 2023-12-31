@@ -4,13 +4,12 @@ number: "162"
 title: Gesetz über die Information und den Datenschutz
 short: "Informations- und Datenschutzgesetz, IDG"
 language: de
-version: 2022-01-01
-valid_until: 2023-12-31
-version_adopted: 2021-01-14
+version: 2024-01-01
+version_adopted: 2023-01-26
 adopted: 2011-02-10
 in_force: 2013-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/162"
-pdf: "https://bl.clex.ch/api/de/versions/3797/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3803/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3797/pdf_file"
 
 (Informations- und Datenschutzgesetz, IDG)
 
-Vom 10.02.2011 (Stand 01.01.2022)
+Vom 10.02.2011 (Stand 01.01.2024)
 
 Der Landrat des Kantons Basel-Landschaft,
 
@@ -101,6 +100,10 @@ beschliesst:[^ingress-2]
 **Transparenzprinzip**
 
 <sup>1</sup> Das öffentliche Organ gestaltet den Umgang mit Informationen so, dass es rasch, umfassend und sachlich informieren kann.
+
+<sup>2</sup> Dabei beachtet es die Anforderungen des Behindertenrechtegesetzes BL[^4-1].
+
+[^4-1]: [SGS 109](https://bl.clex.ch/data/109/de)
 
 #### § 5
 
