@@ -4,11 +4,11 @@ title: "Ordinanza del 19 ottobre 2022 sul casellario giudiziale informatizzato V
 short: OCaGi
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/698"
 language: it
-version: 2023-01-23
+version: 2024-01-01
 adopted: 2022-10-19
 in_force: 2023-01-23
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/698/20230123/it/xml/fedlex-data-admin-ch-eli-cc-2022-698-20230123-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/698/20230123/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/698/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2022-698-20240101-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/698/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/698/20230123/it"
 
 (Ordinanza sul casellario giudiziale, OCaGi)
 
-del 19 ottobre 2022 (Stato 23 gennaio 2023)
+del 19 ottobre 2022 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -214,14 +214,15 @@ Il collegamento di un’applicazione specializzata esterna a un’interfaccia st
 Per garantire la sicurezza dei dati si applicano in particolare:
 
 - a. l’ordinanza del 31 agosto 2022[^11-1] sulla protezione dei dati (OPDa);
-- b. l’ordinanza del 27 maggio 2020[^11-2] sui ciber-rischi.
+- b.[^11-2] l’ordinanza dell’8 novembre 2023[^11-3] sulla sicurezza delle informazioni.
 
 <sup>2</sup> Le autorità collegate prendono, nel proprio settore, provvedimenti adeguati di ordine organizzativo e tecnico a garanzia della sicurezza dei dati. Segnatamente, le autorità cantonali collegate provvedono affinché nel loro settore di competenza siano attuati requisiti minimi per la sicurezza delle informazioni (protezione di base delle TIC) equivalenti a quelli dell’Amministrazione federale.
 
 <sup>3</sup> Il Servizio del casellario giudiziale provvede affinché i requisiti per la sicurezza dei dati siano rispettati.
 
 [^11-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568). Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° set. 2023.
-[^11-2]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^11-2]: Nuovo testo giusta l’all. 2 n. II 15 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^11-3]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
 
 #### Art. 12
 

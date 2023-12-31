@@ -4,11 +4,11 @@ title: "Ordonnance du 19 octobre 2022 sur le casier judiciaire informatique VOST
 short: OCJ
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/698"
 language: fr
-version: 2023-01-23
+version: 2024-01-01
 adopted: 2022-10-19
 in_force: 2023-01-23
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/698/20230123/fr/xml/fedlex-data-admin-ch-eli-cc-2022-698-20230123-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/698/20230123/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/698/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2022-698-20240101-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/698/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/698/20230123/fr"
 
 (Ordonnance sur le casier judiciaire, OCJ)
 
-du 19 octobre 2022 (État le 23 janvier 2023)
+du 19 octobre 2022 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -214,14 +214,15 @@ L’application externe est reliée à une interface de VOSTRA si les conditions
 La sécurité des données est régie notamment par:
 
 - a. l’ordonnance du 31 août 2022 sur la protection des données (OPDo)[^11-1];
-- b. l’ordonnance du 27 mai 2020 sur les cyberrisques[^11-2].
+- b.[^11-2] l’ordonnance du 8 novembre 2023 sur la sécurité de l’information[^11-3].
 
 <sup>2</sup> Les autorités raccordées prennent dans leur domaine des mesures organisationnelles et techniques appropriées pour garantir la sécurité des données. Les autorités cantonales raccordées veillent notamment à la mise en œuvre, dans leur domaine de compétence, de prescriptions minimales en matière de sécurité informatique (protection informatique de base) équivalentes à celles de l’administration fédérale.
 
 <sup>3</sup> Le Service du casier judiciaire veille au respect des prescriptions en matière de sécurité des données.
 
 [^11-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568). Le renvoi a été adapté au 1<sup>er</sup> sept. 2023 en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
-[^11-2]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^11-2]: Nouvelle teneur selon l’annexe 2 ch. II 15 de l’O du 8 nov. 2023 sur la sécurité de l’information, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^11-3]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
 
 #### Art. 12
 

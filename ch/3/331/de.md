@@ -4,11 +4,11 @@ title: "Verordnung vom 19. Oktober 2022 über das Strafregister-Informationssyst
 short: StReV
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/698"
 language: de
-version: 2023-01-23
+version: 2024-01-01
 adopted: 2022-10-19
 in_force: 2023-01-23
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/698/20230123/de/xml/fedlex-data-admin-ch-eli-cc-2022-698-20230123-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/698/20230123/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/698/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2022-698-20240101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/698/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/698/20230123/de"
 
 (Strafregisterverordnung, StReV)
 
-vom 19. Oktober 2022 (Stand am 23. Januar 2023)
+vom 19. Oktober 2022 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -214,14 +214,15 @@ Die Anbindung einer externen Fachanwendung an eine VOSTRA-Standardschnittstelle 
 Für die Gewährleistung der Datensicherheit gelten namentlich:
 
 - a. die Datenschutzverordnung vom 31. August 2022[^11-1] (DSV);
-- b. die Cyberrisikenverordnung vom 27. Mai 2020[^11-2].
+- b.[^11-2] die Informationssicherheitsverordnung vom 8. November 2023[^11-3].
 
 <sup>2</sup> Die angeschlossenen Behörden treffen in ihrem Bereich angemessene organisatorische und technische Massnahmen zur Gewährleistung der Datensicherheit. Die angeschlossenen kantonalen Behörden sorgen namentlich dafür, dass in ihrem Zuständigkeitsbereich minimale Vorgaben für die Informatiksicherheit (IKT-Grundschutz) umgesetzt sind, welche mit jenen in der Bundesverwaltung gleichwertig sind.
 
 <sup>3</sup> Die registerführende Stelle sorgt dafür, dass die Vorgaben der Datensicherheit eingehalten werden.
 
 [^11-1]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568). Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. Sept. 2023 angepasst.
-[^11-2]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^11-2]: Fassung gemäss Anhang 2 Ziff. II 15 der Informationssicherheitsverordnung vom 8. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^11-3]: [SR 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
 
 #### Art. 12
 
