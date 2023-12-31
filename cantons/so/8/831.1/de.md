@@ -4,13 +4,13 @@ number: "831.1"
 title: Sozialgesetz
 short: SG
 language: de
-version: 2023-08-01
-valid_until: 2023-12-31
-version_adopted: 2022-01-26
+version: 2024-01-01
+valid_until: 2024-06-30
+version_adopted: 2023-09-06
 adopted: 2007-01-31
 in_force: 2008-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/831.1"
-pdf: "https://bgs.so.ch/api/de/versions/5338/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5423/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.so.ch/api/de/versions/5338/pdf_file"
 
 (SG)
 
-Vom 31.01.2007 (Stand 01.08.2023)
+Vom 31.01.2007 (Stand 01.01.2024)
 
 Der Kantonsrat von Solothurn
 
@@ -501,6 +501,12 @@ beschliesst:
 <sup>3</sup> Er kann konkrete soziale Projekte unterstützen.
 
 <sup>4</sup> Wenn es das öffentliche Interesse erfordert und geeignete Institutionen fehlen, kann der Kanton eigene Institutionen schaffen.
+
+#### § 25bis
+
+**Kantonale Zuständigkeit**
+
+<sup>1</sup> Das Departement nimmt alle Aufgaben des Kantons im Regelungsbereich dieses Gesetzes wahr, soweit diese nicht ausdrücklich anderen Behörden oder Organen übertragen sind.
 
 #### § 26
 
@@ -1305,7 +1311,7 @@ beschliesst:
 
 <sup>1<sup>bis</sup></sup> Bei den Prämien für die obligatorische Krankenpflegeversicherung werden die Prämien der Grundversicherung berücksichtigt, maximal jedoch die kantonale Durchschnittsprämie für die obligatorische Krankenpflegeversicherung. Diese Leistungen gelten als Prämienverbilligung und werden direkt dem Krankenversicherer ausbezahlt.
 
-<sup>1<sup>ter</sup></sup> Zusätzlich berücksichtigt werden die nachgewiesenen Kosten für die externe Betreuung von Kindern unter 6 Jahren bis maximal 6'000 Franken je Kind.
+<sup>1<sup>ter</sup></sup> …
 
 <sup>2</sup> Der Regierungsrat kann den Betrag für den Lebensbedarf und den Betrag für die Mietzinsausgaben jeweils um maximal 20 Prozent vermindern.
 
@@ -1329,7 +1335,7 @@ beschliesst:
 - a) 10'000 Franken bei Familien mit einer erwachsenen Person;
 - b) 20'000 Franken bei Familien mit zwei erwachsenen Personen.
 
-<sup>3</sup> Vom gesamten Reinvermögen der Familie wird ein Zehntel angerechnet, soweit es 40‘000 Franken übersteigt; bewohnt die Familie ein Eigenheim, kommen die Bestimmungen der EL zur AHV/IV zur Anwendung.
+<sup>3</sup> Vom gesamten Reinvermögen der Familie wird ein Zehntel angerechnet, soweit es 40‘000 Franken übersteigt; verfügt die Familie über Grundeigentum, kommen die Bestimmungen der EL zur AHV/IV zur Anwendung.
 
 <sup>4</sup> Im Übrigen ist Artikel 11 ELG anwendbar.
 
@@ -1337,7 +1343,11 @@ beschliesst:
 
 **Anmeldung und Verfahren**
 
-<sup>1</sup> Der Regierungsrat bestimmt, wo die Anmeldung zum Bezug von Ergänzungsleistungen für Familien einzureichen ist und wer den Vollzug leistet. Das Verfahren richtet sich sinngemäss nach § 84 dieses Gesetzes.
+<sup>1</sup> Die Anmeldung zum Bezug von Ergänzungsleistungen für Familien ist beim Departement einzureichen. Dieses ist auch für den Vollzug zuständig.
+
+<sup>2</sup> Das Verfahren richtet sich sinngemäss nach den Artikeln 34 ff. des Gesetzes über den Allgemeinen Teil des Sozialversicherungsrechts (ATSG)[^85septies-1]. Die Ergänzungsleistungen für Familien werden in der Regel monatlich ausbezahlt.
+
+[^85septies-1]: SR [830.1](https://db.clex.ch/link/Bund/830.1/de).
 
 #### § 85octies
 
@@ -2154,15 +2164,15 @@ beschliesst:
 
 **Kontrolle und Auszahlung der Beiträge**
 
-<sup>1</sup> Die ambulanten Dienstleister stellen dem Departement regelmässig eine Abrechnung über die erbrachten Leistungen zu. Sie legen dabei offen, bei welchen Personen welche Leistungen erbracht worden sind.
+<sup>1</sup> Ambulante Dienstleister und Heime stellen dem Departement monatlich bis Ende des jeweils folgenden Monats eine Abrechnung über die erbrachten Leistungen zu. Sie legen dabei offen, bei welchen Personen welche Leistungen erbracht worden sind.
 
 <sup>2</sup> Das Departement kontrolliert die Abrechnungen und zahlt die Beiträge im Auftrag der zuständigen Einwohnergemeinde aus.
 
 <sup>3</sup> Wird von einem ambulanten Dienstleister ein Aufenthalt mit Pflegeversorgung ausserhalb des zivilrechtlichen Wohnsitzes für eine Person organisiert, ist dies der Einwohnergemeinde und dem Departement unverzüglich mitzuteilen. Die Einwohnergemeinde kann Ferienaufenthalte auf 6 Wochen pro Kalenderjahr beschränken.
 
-<sup>4</sup> Der Regierungsrat regelt in einer Verordnung, welche Daten ambulante Dienstleister bei den Abrechnungen und bei Mitteilungen über Aufenthalte mit Pflegeversorgung ausserhalb des zivilrechtlichen Wohnsitzes offenzulegen haben.
+<sup>4</sup> Der Regierungsrat regelt in einer Verordnung, welche Daten ambulante Dienstleister und Heime bei den Abrechnungen und welche Daten ambulante Dienstleister bei Mitteilungen über Aufenthalte mit Pflegeversorgung ausserhalb des zivilrechtlichen Wohnsitzes offenzulegen haben.
 
-<sup>5</sup> Die Einwohnergemeinden leisten dem Departement Vorschusszahlungen zur Deckung der Beiträge an die ambulante Pflege. Sie vergüten dem Kanton die Vollzugsaufwendungen in Abhängigkeit der Anzahl Personen, die ambulante Pflegeleistungen bezogen haben.
+<sup>5</sup> Die Einwohnergemeinden vergüten dem Kanton die Vollzugsaufwendungen im ambulanten Bereich in Abhängigkeit der Anzahl Personen, die ambulante Pflegeleistungen bezogen haben, und im stationären Bereich nach der Einwohnerzahl.
 
 ### 4.9. Bestattung
 
@@ -2352,7 +2362,7 @@ beschliesst:
 
 <sup>1</sup> Gegen Verfügungen der Sozialversicherungsträger, die gestützt auf das Sozialversicherungsrecht des Bundes und das ELG ergehen, kann nach den Vorschriften des Bundesgesetzes über den allgemeinen Teil des Sozialversicherungsrechts (ATSG)[^160-1] und der Spezialgesetzgebung des Bundes ein Rechtsmittel erhoben werden; davon ausgenommen sind prozess- und verfahrensleitende Verfügungen.
 
-<sup>2</sup> Auf Verfügungen der Sozialversicherungsträger über die Kinderzulagen nach kantonalem Recht und über die Prämienverbilligungen nach KVG sind die Bestimmungen des ATSG[^160-2] sinngemäss anwendbar.
+<sup>2</sup> Auf Verfügungen der Sozialversicherungsträger über die Kinderzulagen nach kantonalem Recht, Verfügungen über Ergänzungsleistungen für einkommensschwache Familien und über die Prämienverbilligungen nach KVG sind die Bestimmungen des ATSG[^160-2] sinngemäss anwendbar.
 
 <sup>3</sup> Gegen Einspracheentscheide und verfahrensleitende Verfügungen der Sozialversicherungsträger kann beim Versicherungsgericht Beschwerde geführt werden.
 
@@ -2394,7 +2404,7 @@ beschliesst:
 
 <sup>2<sup>ter</sup></sup> Unrechtmässig bezogene Geldleistungen der Sozialhilfe und unrechtmässig bezogene Ergänzungsleistungen für einkommensschwache Familien gemäss den Absätzen 1 und 2
 
-- a) sind ab dem Zeitpunkt des Bezugs unter Heranziehung der Ansätze der kantonalen Steuergesetzgebung zu verzinsen, und
+- a) sind ab dem Zeitpunkt des Bezugs unter Heranziehung der Ansätze der kantonalen Steuergesetzgebung zu verzinsen, wobei die Pflicht zur Verzinsung bei den Ergänzungsleistungen für einkommensschwache Familien nur in besonders schwerwiegenden Fällen gilt, und
 - b) können bei laufender Unterstützung zeitlich befristet mit dieser verrechnet werden, wobei
   - 1\. bei Geldleistungen der Sozialhilfe der Verrechnungsbetrag 30 Prozent des Grundbedarfs nicht überschreiten darf,
   - 2\. bei Ergänzungsleistungen für einkommensschwache Familien der Verrechnungsbetrag 20 Prozent des allgemeinen Lebensbedarfs gemäss Artikel 10 Absatz 1 Buchstabe a ELG[^164-2] nicht überschreiten darf.
