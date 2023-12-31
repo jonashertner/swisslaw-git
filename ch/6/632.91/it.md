@@ -3,22 +3,22 @@ sr: "632.91"
 title: Legge federale del 9 ottobre 1981 sulla concessione di preferenze tariffali a favore dei Paesi in sviluppo (Legge sulle preferenze tariffali)
 eli: "https://fedlex.data.admin.ch/eli/cc/1982/164_164_164"
 language: it
-version: 2007-03-01
+version: 2024-01-01
 adopted: 1981-10-09
 in_force: 1982-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/164_164_164/20070301/it/xml/fedlex-data-admin-ch-eli-cc-1982-164_164_164-20070301-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1982/164_164_164/20070301/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/164_164_164/20240101/it/xml/fedlex-data-admin-ch-eli-cc-1982-164_164_164-20240101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1982/164_164_164/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Legge federale sulla concessione di preferenze tariffali a favore dei Paesi in sviluppo
 
-(Legge sulle preferenze tariffali)**[^t-1]**
+(Legge sulle preferenze tariffali)[^t-1]
 
-del 9 ottobre 1981 (Stato 1° marzo 2007)
+del 9 ottobre 1981 (Stato 1° gennaio 2024)
 
-[^t-1]: N**uovo** testo giusta il n. I della LF del 6 ott. 2006, in vigore dal 1° mar. 2007 (RU 2007 391; FF 2006 2759).
+[^t-1]: Nuovotesto giusta il n. I della LF del 6 ott. 2006, in vigore dal 1° mar. 2007 ([RU 2007 391](https://fedlex.data.admin.ch/eli/oc/2007/77); [FF 2006 2759](https://fedlex.data.admin.ch/eli/fga/2006/305)).
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -26,7 +26,7 @@ visto l’articolo 28[^ingress-1] della Costituzione federale;[^ingress-2] visto
 
 decreta:
 
-[^ingress-1]: [CS **1** 3]. Questa disp. corrisponde all’art. 133 della Costituzione federale del 18 apr. 1999 ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
+[^ingress-1]: [CS **1** 3]. Questa disp. corrisponde all’art. 133 della Costituzione federale del18 apr. 1999 ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
 [^ingress-2]: Nuovo testo giusta il n. I della LF del 6 ott. 2006, in vigore dal 1° mar. 2007 ([RU 2007 391](https://fedlex.data.admin.ch/eli/oc/2007/77); [FF 2006 2759](https://fedlex.data.admin.ch/eli/fga/2006/305)).
 [^ingress-3]: [FF 1981 II 1](https://fedlex.data.admin.ch/eli/fga/1981/2_1_1_1)
 
@@ -62,11 +62,12 @@ Il Consiglio federale esamina periodicamente se, e ove occorra in qual misura, l
 
 **Consultazione e rapporto**
 
-<sup>1</sup> Prima di adottare i provvedimenti, il Consiglio federale consulta la Commissione di periti doganali.
+<sup>1</sup> Prima di adottare i provvedimenti, il Consiglio federale consulta la Commissione per la politica economica.[^4-1]
 
-<sup>2</sup> Il Consiglio federale presenta annualmente all’Assemblea federale un rapporto sui provvedimenti adottati.[^4-1] L’Assemblea federale decide circa il loro mantenimento.
+<sup>2</sup> Il Consiglio federale presenta annualmente all’Assemblea federale un rapporto sui provvedimenti adottati.[^4-2] L’Assemblea federale decide circa il loro mantenimento.
 
-[^4-1]: Nuovo testo giusta il n. I 3 della LF del 24 mar. 2006 sul nuovo dispositivo normativo concernente il rapporto sulla politica economica esterna, in vigore dal 1° gen. 2007 ([RU 2006 4097](https://fedlex.data.admin.ch/eli/oc/2006/599); [FF 2006 1709](https://fedlex.data.admin.ch/eli/fga/2006/162)).
+[^4-1]: Nuovo testo giusta il n. I 3 dell’O del 9 dic. 2022 sull’adeguamento di leggi in seguito alla verifica del 2022 delle commissioni extraparlamentari, in vigore dal 1° gen. 2024 ([RU 2022 843](https://fedlex.data.admin.ch/eli/oc/2022/843)).
+[^4-2]: Nuovo testo giusta il n. I 3 della LF del 24 mar. 2006 sul nuovo dispositivo normativo concernente il rapporto sulla politica economica esterna, in vigore dal 1° gen. 2007 ([RU 2006 4097](https://fedlex.data.admin.ch/eli/oc/2006/599); [FF 2006 1709](https://fedlex.data.admin.ch/eli/fga/2006/162)).
 
 #### Art. 5
 

@@ -3,20 +3,20 @@ sr: "632.91"
 title: Bundesgesetz vom 9. Oktober 1981 über die Gewährung von Zollpräferenzen zugunsten der Entwicklungsländer (Zollpräferenzengesetz)
 eli: "https://fedlex.data.admin.ch/eli/cc/1982/164_164_164"
 language: de
-version: 2007-03-01
+version: 2024-01-01
 adopted: 1981-10-09
 in_force: 1982-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/164_164_164/20070301/de/xml/fedlex-data-admin-ch-eli-cc-1982-164_164_164-20070301-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1982/164_164_164/20070301/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/164_164_164/20240101/de/xml/fedlex-data-admin-ch-eli-cc-1982-164_164_164-20240101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1982/164_164_164/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Bundesgesetz über die Gewährung von Zollpräferenzen zugunsten der Entwicklungsländer
 
-(Zollpräferenzengesetz)**[^t-1]**
+(Zollpräferenzengesetz)[^t-1]
 
-vom 9. Oktober 1981 (Stand am 1. März 2007)
+vom 9. Oktober 1981 (Stand am 1. Januar 2024)
 
 [^t-1]: Fassung gemäss Ziff. I des BG vom 6. Okt. 2006, in Kraft seit 1. März 2007 ([AS 2007 391](https://fedlex.data.admin.ch/eli/oc/2007/77); [BBl 2006 2963](https://fedlex.data.admin.ch/eli/fga/2006/305)).
 
@@ -62,11 +62,12 @@ Der Bundesrat überprüft periodisch, ob und gegebenenfalls in welchem Ausmass Z
 
 **Anhörung und Berichterstattung**
 
-<sup>1</sup> Bevor der Bundesrat Massnahmen trifft, hört er die Zollexpertenkommission an.
+<sup>1</sup> Bevor der Bundesrat Massnahmen trifft, hört er die Kommission für Wirtschaftspolitik an.[^4-1]
 
-<sup>2</sup> Er erstattet der Bundesversammlung jährlich Bericht über die getroffenen Massnahmen.[^4-1] Die Bundesversammlung beschliesst, ob sie in Kraft bleiben sollen.
+<sup>2</sup> Er erstattet der Bundesversammlung jährlich Bericht über die getroffenen Massnahmen.[^4-2] Die Bundesversammlung beschliesst, ob sie in Kraft bleiben sollen.
 
-[^4-1]: Fassung gemäss Ziff. I 3 des BG vom 24. März 2006 über die Neuregelung der Berichterstattung auf dem Gebiet der Aussenwirtschaftspolitik, in Kraft seit 1. Jan. 2007 ([AS 2006 4097](https://fedlex.data.admin.ch/eli/oc/2006/599); [BBl 2006 1831](https://fedlex.data.admin.ch/eli/fga/2006/162)).
+[^4-1]: Fassung gemäss Ziff. I 3 der V vom 9. Dez. 2022 über die Anpassung von Gesetzen infolge der Überprüfung 2022 der ausserparlamentarischen Kommissionen, in Kraft seit 1. Jan. 2024 ([AS 2022 843](https://fedlex.data.admin.ch/eli/oc/2022/843)).
+[^4-2]: Fassung gemäss Ziff. I 3 des BG vom 24. März 2006 über die Neuregelung der Berichterstattung auf dem Gebiet der Aussenwirtschaftspolitik, in Kraft seit 1. Jan. 2007 ([AS 2006 4097](https://fedlex.data.admin.ch/eli/oc/2006/599); [BBl 2006 1831](https://fedlex.data.admin.ch/eli/fga/2006/162)).
 
 #### Art. 5
 

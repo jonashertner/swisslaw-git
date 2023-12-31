@@ -3,27 +3,22 @@ sr: "632.91"
 title: "Loi fédérale du 9 octobre 1981 sur l'octroi de préférences tarifaires en faveur des pays en développement (Loi sur les préférences tarifaires)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1982/164_164_164"
 language: fr
-version: 2007-03-01
+version: 2024-01-01
 adopted: 1981-10-09
 in_force: 1982-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/164_164_164/20070301/fr/xml/fedlex-data-admin-ch-eli-cc-1982-164_164_164-20070301-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1982/164_164_164/20070301/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/164_164_164/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-1982-164_164_164-20240101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1982/164_164_164/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Loi fédérale sur l’octroi de préférences tarifaires en faveur des pays en développement
 
-(Etat le 20 février 2007)[^t-1]RO
+(Loi sur les préférences tarifaires)[^t-1]
 
-632.91
+du 9 octobre 1981 (État le 1<sup>er</sup> janvier 2024)
 
-(Loi sur les préférences tarifaires)**[^t-2]**
-
-du 9 octobre 1981 (Etat le 20 février 2007)
-
-[^t-1]: [RO 1982 164](https://fedlex.data.admin.ch/eli/oc/1982/164_164_164)
-[^t-2]: Nouvelle teneur selon le ch. I de la LF du 6 oct. 2006, en vigueur depuis le 1<sup>er</sup> mars 2007 ([RO 2007 391](https://fedlex.data.admin.ch/eli/oc/2007/77); [FF 2006 2875](https://fedlex.data.admin.ch/eli/fga/2006/305)).
+[^t-1]: Nouvelle teneur selon le ch. I de la LF du 6 oct. 2006, en vigueur depuis le 1<sup>er</sup> mars 2007 ([RO 2007 391](https://fedlex.data.admin.ch/eli/oc/2007/77); [FF 2006 2875](https://fedlex.data.admin.ch/eli/fga/2006/305)).
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -31,7 +26,7 @@ vu l’art. 28 de la constitution[^ingress-1],[^ingress-2] vu le message du Cons
 
 arrête:
 
-[^ingress-1]: [RS **1** 3]. A la disposition mentionnée correspond actuellement l’art. 133 de la Constitution du 18 avril 1999 ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
+[^ingress-1]: [RS **1** 3]. À la disposition mentionnée correspond actuellement l’art. 133 de la Constitution du 18 avril 1999 ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
 [^ingress-2]: Nouvelle teneur selon le ch. I de la LF du 6 oct. 2006, en vigueur depuis le 1<sup>er</sup> mars 2007 ([RO 2007 391](https://fedlex.data.admin.ch/eli/oc/2007/77); [FF 2006 2875](https://fedlex.data.admin.ch/eli/fga/2006/305)).
 [^ingress-3]: [FF 1981 II 1](https://fedlex.data.admin.ch/eli/fga/1981/2_1_1_1)
 
@@ -67,11 +62,12 @@ Le Conseil fédéral examine périodiquement si, et, le cas échéant, dans quel
 
 **Consultation et rapport**
 
-<sup>1</sup> Avant de prendre des mesures, le Conseil fédéral consulte la Commission d’experts douaniers.
+<sup>1</sup> Avant de prendre des mesures, le Conseil fédéral consulte la Commission de la politique économique.[^4-1]
 
-<sup>2</sup> Le Conseil fédéral présente à l’Assemblée fédérale un rapport annuel sur les mesures qu’il a prises.[^4-1] L’Assemblée fédérale décide si elles doivent être maintenues.
+<sup>2</sup> Le Conseil fédéral présente à l’Assemblée fédérale un rapport annuel sur les mesures qu’il a prises.[^4-2] L’Assemblée fédérale décide si elles doivent être maintenues.
 
-[^4-1]: Nouvelle teneur selon le ch. I 3 de la LF du 24 mars 2006 relative à la nouvelle réglementation concernant le rapport sur la politique économique extérieure, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 4097](https://fedlex.data.admin.ch/eli/oc/2006/599); [FF 2006 1797](https://fedlex.data.admin.ch/eli/fga/2006/162)).
+[^4-1]: Nouvelle teneur selon le ch. I 3 de l’O du 9 déc. 2022 portant adaptation de lois à la suite du réexamen de 2022 des commissions extraparlementaires, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 843](https://fedlex.data.admin.ch/eli/oc/2022/843)).
+[^4-2]: Nouvelle teneur selon le ch. I 3 de la LF du 24 mars 2006 relative à la nouvelle réglementation concernant le rapport sur la politique économique extérieure, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 4097](https://fedlex.data.admin.ch/eli/oc/2006/599); [FF 2006 1797](https://fedlex.data.admin.ch/eli/fga/2006/162)).
 
 #### Art. 5
 
