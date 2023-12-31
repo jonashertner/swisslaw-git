@@ -4,11 +4,11 @@ title: "Ordinanza del 5 giugno 2015 sulla protezione contro le sostanze e i prep
 short: OPChim
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/366"
 language: it
-version: 2023-10-01
+version: 2024-01-01
 adopted: 2015-06-05
 in_force: 2015-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20231001/it/xml/fedlex-data-admin-ch-eli-cc-2015-366-20231001-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/366/20231001/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2015-366-20240101-it-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/366/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/366/20231001/it"
 
 (Ordinanza sui prodotti chimici, OPChim)
 
-del 5 giugno 2015 (Stato 1° ottobre 2023)
+del 5 giugno 2015 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -164,11 +164,11 @@ Nella presente ordinanza si intende inoltre per:
 
 <sup>4</sup> Si applicano le equivalenze terminologiche tra il regolamento UE-REACH, il regolamento (CE) n. 1272/2008 (regolamento UE-CLP)[^2-7], la direttiva 75/324/CEE[^2-8] e la presente ordinanza conformemente all’allegato 1 numero 1.[^2-9]
 
-<sup>5</sup> Là dove la presente ordinanza rinvia a disposizioni del regolamento UE-REACH, del regolamento UE-CLP o della direttiva 75/324/CEE che, a loro volta, rinviano ad altre disposizioni dei suddetti atti normativi, si applicano anche queste altre disposizioni; in tal caso si applica la versione stabilita nella nota a piè di pagina del capoverso 4 dell’atto normativo UE interessato o, in caso di rimando agli allegati del regolamento UE-CLP o del regolamento UE-REACH, si applica la versione stabilita nell’allegato 2 numero 1 rispettivamente nell’allegato 4 numero 3. Fanno eccezione i rinvii successivi alle disposizioni del regolamento UE-REACH e del regolamento UE-CLP secondo l’allegato 1 numero 2; in questo caso si applicano le disposizioni svizzere menzionate nell’allegato 1 numero 2.
+<sup>5</sup> Là dove la presente ordinanza rinvia a disposizioni del regolamento UE-REACH, del regolamento UE-CLP o della direttiva 75/324/CEE che, a loro volta, rinviano ad altre disposizioni dei suddetti atti normativi, si applicano anche queste altre disposizioni; in tal caso si applica la versione stabilita nella nota a piè di pagina del capoverso 2 lettera f rispettivamente del capoverso 4 dell’atto normativo UE interessato o, in caso di rimando agli allegati del regolamento UE-CLP o del regolamento UE-REACH, si applica la versione stabilita nell’allegato 2 numero 1 rispettivamente nell’allegato 4 numero 3. Fanno eccezione i rinvii successivi alle disposizioni del regolamento UE-REACH e del regolamento UE-CLP secondo l’allegato 1 numero 2; in questo caso si applicano le disposizioni svizzere menzionate nell’allegato 1 numero 2.[^2-10]
 
 <sup>6</sup> Là dove la presente ordinanza rinvia a disposizioni del regolamento UE-REACH o del regolamento UE-CLP che, a loro volta, rinviano ad altre disposizioni del diritto dell’UE, al posto di queste disposizioni del diritto dell’UE si applica il diritto svizzero menzionato nell’allegato 1 numero 3 si applica.
 
-<sup>7</sup> Per l’immissione sul mercato di sostanze e preparati il cui sviluppo si basa sull’utilizzazione di risorse genetiche o sulle conoscenze tradizionali a esse associate, sono fatte salve le disposizioni dell’ordinanza di Nagoya dell’11 dicembre 2015[^2-10].[^2-11]
+<sup>7</sup> Per l’immissione sul mercato di sostanze e preparati il cui sviluppo si basa sull’utilizzazione di risorse genetiche o sulle conoscenze tradizionali a esse associate, sono fatte salve le disposizioni dell’ordinanza di Nagoya dell’11 dicembre 2015[^2-11].[^2-12]
 
 [^2-1]: Nuovo testo giusta il n. I dell’O dell’11 mar. 2022, in vigore dal 1° mag. 2022 ([RU 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
 [^2-2]: Nuovo testo giusta il n. I dell’O del 31 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 801](https://fedlex.data.admin.ch/eli/oc/2018/102)).
@@ -179,8 +179,9 @@ Nella presente ordinanza si intende inoltre per:
 [^2-7]: Regolamento (CE) n. 1272/2008 del Parlamento europeo e del Consiglio, del 16 dicembre 2008, relativo alla classificazione, all’etichettatura e all’imballaggio delle sostanze e delle miscele, che modifica e abroga le direttive 67/548/CEE e 1999/45/CE e che reca modifica al regolamento (CE) n. 1907/2006, GU L 353 del 31.12.2008, pag. 1; modificato da ultimo dal regolamento delegato (UE) 2021/1962, GU L 400 del 12.11.2021, pag. 16.
 [^2-8]: Direttiva 75/324/CEE del Consiglio, del 20 maggio 1975, per il ravvicinamento delle legislazioni degli Stati membri relative agli aerosol, GU L 147 del 9.6.1975, pag. 40; modificata da ultimo dalla direttiva (UE) 2016/2037, GU L 314 del 22.11.2016, pag. 11.
 [^2-9]: Nuovo testo giusta il n. I dell’O dell’11 mar. 2022, in vigore dal 1° mag. 2022 ([RU 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
-[^2-10]: [RS 451.61](https://fedlex.data.admin.ch/eli/cc/2016/39)
-[^2-11]: Introdotto dall’all. n. 2 dell’O di Nagoya dell’11 dic. 2015, in vigore dal 1° feb. 2016 ([RU 2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)).
+[^2-10]: Nuovo testo giusta l’all. n. 1 dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 709](https://fedlex.data.admin.ch/eli/oc/2023/709)).
+[^2-11]: [RS 451.61](https://fedlex.data.admin.ch/eli/cc/2016/39)
+[^2-12]: Introdotto dall’all. n. 2 dell’O di Nagoya dell’11 dic. 2015, in vigore dal 1° feb. 2016 ([RU 2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)).
 
 #### Art. 3
 
@@ -196,7 +197,7 @@ Le sostanze e i preparati sono considerati pericolosi se soddisfano i criteri di
 
 <sup>2</sup> Sono considerate *molto* *persistenti e molto bioaccumulabili (vPvB)* le sostanze che soddisfano i criteri definiti nell’allegato XIII punti 1.2.1–1.2.2 del regolamento UE-REACH.
 
-[^4-1]: Cfr. nota a piè di pagina relativa all’art. 2 cpv. 4.
+[^4-1]: Cfr. nota a piè di pagina relativa all’art. 2 cpv. 2 lett. f. Nuova espressione giusta l’all. 5 n. II 1 dell’O del 1° nov. 2023 sui concimi, in vigore dal 1° gen. 2024 ([RU 2023 711](https://fedlex.data.admin.ch/eli/oc/2023/711)). Di questa mod. è tenuto conto unicamente nelle disp. menzionate nella RU.
 
 ## Titolo secondo: Presupposti per l’immissione sul mercato
 
@@ -305,7 +306,7 @@ Qualora le sostanze o i preparati siano importati da uno Stato membro dello SEE,
 [^10-4]: Nuovo testo giusta il n. I dell’O del 31 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 801](https://fedlex.data.admin.ch/eli/oc/2018/102)).
 [^10-5]: Nuovo testo giusta il n. I dell’O dell’11 mar. 2022, in vigore dal 1° mag. 2022 ([RU 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
 [^10-6]: Introdotto dal n. I dell’O del 31 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 801](https://fedlex.data.admin.ch/eli/oc/2018/102)).
-[^10-7]: Sistema di denominazione delle sostanze chimiche secondo l’Unione internazionale di chimica pura e applicata (IUPAC): www.iupac.org
+[^10-7]: Sistema di denominazione delle sostanze chimiche secondo l’Unione internazionale di chimica pura e applicata (IUPAC): [https://iupac.org](https://iupac.org/)
 
 #### Art. 10a
 
@@ -364,7 +365,14 @@ Il fabbricante di un preparato può impiegare un nome chimico alternativo per un
 
 <sup>2</sup> Il nome chimico alternativo è un nome che designa i principali gruppi funzionali o un nome sostitutivo.
 
-<sup>3</sup> Il fabbricante che intende impiegare un nome chimico alternativo deve presentare una domanda scritta all’organo di notifica.
+<sup>3</sup>
+
+Qualora l’Agenzia europea per le sostanze chimiche abbia autorizzato una denominazione chimica alternativa secondo l’articolo 24 del regolamento UE-CLP, il suo impiego è considerato autorizzato in Svizzera dal momento in cui l’organo di notifica ha preso atto dei seguenti documenti e dati:
+
+- a. decisione dell’Agenzia europea per le sostanze chimiche;
+- b. dati relativi all’identità della sostanza conformemente all’articolo 49 lettera c numeri 1–3.[^14-1]
+
+<sup>3bis</sup> Qualora nell’uso della denominazione chimica vengano utilizzati secondo l’articolo 18 paragrafo 2 lettera b del regolamento UE-CLP la denominazione e il numero di identificazione che figurano nell’inventario delle classificazioni e delle etichettature secondo l’articolo 42 del regolamento UE-CLP deve essere presentata, su richiesta dell’organo di notifica, l’identità della sostanza conformemente all’allegato VI sezioni 2.1–2.3 del regolamento UE-REACH[^14-2].[^14-3]
 
 <sup>4</sup>
 
@@ -376,10 +384,20 @@ L’impiego di un nome chimico alternativo di una sostanza può essere richiesta
 
 <sup>5</sup> L’autorizzazione per l’impiego di un nome chimico alternativo è rilasciata al fabbricante; non è trasferibile.
 
-<sup>6</sup> Durante i primi sei anni successivi all’annuncio, alla comunicazione o alla notifica di una nuova sostanza, il fabbricante e gli utilizzatori professionali della stessa catena di distribuzione non necessitano dell’autorizzazione per l’impiego di un nome chimico alternativo. Dopodiché deve essere utilizzata la denominazione chimica di cui all’articolo 18 paragrafo 2 del regolamento UE-CLP[^14-1] oppure presentata una domanda per l’impiego di un nome chimico alternativo.[^14-2]
+<sup>6</sup>
 
-[^14-1]: Cfr. nota a piè di pagina relativa all’art. 2 cpv. 4.
-[^14-2]: Nuovo testo giusta il n. I dell’O del 31 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 801](https://fedlex.data.admin.ch/eli/oc/2018/102)).
+Il fabbricante e gli utilizzatori professionali della stessa catena di distribuzione possono impiegare senza autorizzazione un nome chimico alternativo durante i primi sei anni successivi:
+
+- a. all’annuncio, alla comunicazione o alla notifica di una nuova sostanza;
+- b. alla registrazione di una sostanza che rientra nel disciplinamento dell’articolo 119 paragrafo 2 lettera f del regolamento UE-REACH e per la quale all’organo di notifica vengono presentati la prova dell’avvenuta registrazione e i dati relativi all’identità della sostanza conformemente all’articolo 49 lettera c numeri 1–3.[^14-4]
+
+<sup>7</sup> Se entro il periodo di cui al capoverso 6 non è stata presentata una domanda per l’impiego di un nome chimico alternativo, né una decisione dell’Agenzia europea per le sostanze chimiche e i dati di cui al capoverso 3, dopo la scadenza di tale periodo deve essere utilizzata la denominazione chimica di cui all’articolo 18 paragrafo 2 del regolamento UE-CLP.[^14-5]
+
+[^14-1]: Nuovo testo giusta l’all. n. 1 dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 709](https://fedlex.data.admin.ch/eli/oc/2023/709)).
+[^14-2]: Cfr. nota a piè di pagina relativa all’art. 2 cpv. 2 lett. f.
+[^14-3]: Introdotto dall’all. n. 1 dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 709](https://fedlex.data.admin.ch/eli/oc/2023/709)).
+[^14-4]: Nuovo testo giusta l’all. n. 1 dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 709](https://fedlex.data.admin.ch/eli/oc/2023/709)).
+[^14-5]: Introdotto dall’all. n. 1 dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 709](https://fedlex.data.admin.ch/eli/oc/2023/709)).
 
 #### Art. 15
 
@@ -455,7 +473,7 @@ Il capoverso 2 non si applica se:
 - c. la sostanza è impiegata per scopi di ricerca e sviluppo orientati ai prodotti e ai processi.
 
 [^16-1]: Nuova espressione giusta il n. I dell’O del 31 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 801](https://fedlex.data.admin.ch/eli/oc/2018/102)). Di detta mod. è tenuto conto in tutto il testo.
-[^16-2]: Cfr. nota a piè di pagina relativa all’art. 2 cpv. 4.
+[^16-2]: Cfr. nota a piè di pagina relativa all’art. 2 cpv. 2 lett. f.
 
 #### Art. 17
 
@@ -463,7 +481,7 @@ Il capoverso 2 non si applica se:
 
 Gli scenari d’esposizione devono essere elaborati secondo le disposizioni dell’allegato I sezione 5.1 del regolamento UE-REACH[^17-1].
 
-[^17-1]: Cfr. nota a piè di pagina relativa all’art. 2 cpv. 4.
+[^17-1]: Cfr. nota a piè di pagina relativa all’art. 2 cpv. 2 lett. f.
 
 #### Art. 18
 
@@ -679,7 +697,7 @@ La relazione sulla sicurezza chimica contiene la valutazione della sicurezza chi
   - 1\. una valutazione dell’esposizione per tutti gli impieghi identificati,
   - 2\. una descrizione dei rischi per tutti gli impieghi identificati.
 
-[^28-1]: Cfr. nota a piè di pagina relativa all’art. 2 cpv. 4.
+[^28-1]: Cfr. nota a piè di pagina relativa all’art. 2 cpv. 2 lett. f.
 
 ### Sezione 2: Impiego di dati di precedenti notificanti e durata di protezione dei dati
 
@@ -908,7 +926,7 @@ Se applica altri metodi di prova, il fabbricante deve comprovare che tali metodi
 
 <sup>5</sup> Se in alcuni esami non sono rispettati i principi della BPL o lo sono solo parzialmente, la persona che presenta i rapporti d’esame deve darne una motivazione. L’organo di notifica decide, d’intesa con i servizi di valutazione, se accettare i risultati degli esami.
 
-[^43-1]: Cfr. nota a piè di pagina relativa all’art. 2 cpv. 4.
+[^43-1]: Cfr. nota a piè di pagina relativa all’art. 2 cpv. 2 lett. f.
 [^43-2]: [RS 813.112.1](https://fedlex.data.admin.ch/eli/cc/2005/467)
 
 ## Titolo terzo: Obblighi del fabbricante dopo l’immissione sul mercato
@@ -1039,7 +1057,7 @@ L’annuncio deve contenere i seguenti dati:
   - 4\. gli impieghi previsti,
   - 5\. lo stato dell’aggregato,
   - 6\. per i preparati pericolosi per l’ambiente: la prevista quantità annuale immessa sul mercato secondo le categorie seguenti: meno di 1 tonnellata, tra 1 e 10 tonnellate, tra 10 e 100 tonnellate, oltre 100 tonnellate,
-  - 7*.*[^49-4] per i preparati che contengono nanomateriali che devono essere indicati nella scheda di dati di sicurezza: la composizione dei nanomateriali, la forma delle particelle e la grandezza media dei granuli, nonché, se disponibili, la distribuzione dimensionale numerica, il rapporto superficie specifica-volume, la struttura cristallina, lo stato di aggregazione, il rivestimento e la funzionalizzazione di superficie.
+  - 7*.*[^49-4] per i preparati che contengono nanomateriali: i seguenti dati, se sono indicati nella scheda di dati di sicurezza: la composizione dei nanomateriali, la forma delle particelle e la grandezza media dei granuli, nonché la distribuzione dimensionale numerica, il rapporto superficie specifica-volume, la struttura cristallina, lo stato di aggregazione, il rivestimento e la funzionalizzazione di superficie.
 
 <sup>2</sup>
 
@@ -1057,7 +1075,7 @@ Se le sostanze contenute conformemente al capoverso 1 lettera d numero 2 che son
 [^49-1]: Cfr. nota a piè di pagina relativa all’art. 2 cpv. 4.
 [^49-2]: Nuovo testo giusta il n. I dell’O del 31 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 801](https://fedlex.data.admin.ch/eli/oc/2018/102)).
 [^49-3]: Introdotto dal n. I dell’O del 31 gen. 2018 ([RU 2018 801](https://fedlex.data.admin.ch/eli/oc/2018/102)). Nuovo testo giusta l’all. n. 1 dell’O del 18 nov. 2020, in vigore dal 1° gen. 2022 ([RU 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
-[^49-4]: Nuovo testo giusta il n. I dell’O del 31 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 801](https://fedlex.data.admin.ch/eli/oc/2018/102)).
+[^49-4]: Nuovo testo giusta l’all. n. 1 dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 709](https://fedlex.data.admin.ch/eli/oc/2023/709)).
 [^49-5]: Introdotto dal n. I dell’O dell’11 mar. 2022, in vigore dal 1° mag. 2022 ([RU 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
 
 #### Art. 50
@@ -1114,7 +1132,7 @@ Sono esentati dall’obbligo di annuncio secondo il presente capitolo:
 - b.[^54-2] le sostanze e i preparati immessi sul mercato esclusivamente per scopi di analisi, ricerca o sviluppo;
 - [tab] b<sup>bis</sup>.[^54-3] le sostanze immesse sul mercato esclusivamente per scopi di formazione;
 - c. le sostanze e i preparati impiegati esclusivamente nelle derrate alimentari, negli agenti terapeutici e negli alimenti per animali;
-- d. i concimi che secondo l’ordinanza del 10 gennaio 2001[^54-4] sui concimi necessitano di un’autorizzazione dell’Ufficio federale dell’agricoltura (UFAG) o devono essere notificati all’UFAG;
+- d.[^54-4] ...
 - e. gli esplosivi e i pezzi pirotecnici che sottostanno all’obbligo d’autorizzazione secondo l’ordinanza del 27 novembre 2000[^54-5] sugli esplosivi;
 - f. le sostanze acquistate in Svizzera;
 - g.
@@ -1133,26 +1151,21 @@ Sono esentati dall’obbligo di annuncio secondo il presente capitolo:
   - 1\. sono rispettati i requisiti di cui all’articolo 25 paragrafo 8 del regolamento UE-CLP[^54-10], oppure se
   - 2\. le possibili sostanze coloranti pericolose per la salute nella concentrazione massima nella quale sono aggiunte alla miscela sono indicate nell’annuncio del colore di base; in questo caso il prodotto va etichettato con l’UFI del colore di base;
 
-- m.[^54-11] il calcestruzzo, il gesso e il cemento conformi alle formulazioni standard di cui all’allegato VIII parte D del regolamento UE-CLP e provvisti dell’UFI prescritto dall’organo di notifica.
-
-<sup>2</sup>
-
-Non sono esentati dall’obbligo di annuncio secondo il presente capitolo:
-
+- m.[^54-11] il calcestruzzo fresco e preconfezionato, il gesso e il cemento conformi alle formule standard di cui all’allegato VIII parte D del regolamento UE-CLP e provvisti dell’UFI prescritto dall’organo di notifica. <sup>2</sup> Non sono esentati dall’obbligo di annuncio secondo il presente capitolo:
 - a. i prodotti intermedi di cui al capoverso 1 lettera a che si presentano sotto forma di monomeri e sono sostanze nuove;
 - b. i preparati di cui al capoverso 1 lettere b, c, h, i e j provvisti di un UFI.[^54-12]
 
 [^54-1]: Nuovo testo giusta il n. I dell’O del 31 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 801](https://fedlex.data.admin.ch/eli/oc/2018/102)).
 [^54-2]: Nuovo testo giusta il n. I dell’O dell’11 mar. 2022, in vigore dal 1° mag. 2022 ([RU 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
 [^54-3]: Introdotta dal n. I dell’O dell’11 mar. 2022, in vigore dal 1° mag. 2022 ([RU 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
-[^54-4]: [RS 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)
+[^54-4]: Abrogata dall’all. 5 n. II 1 dell’O del 1° nov. 2023 sui concimi, con effetto dal 1° gen. 2024 ([RU 2023 711](https://fedlex.data.admin.ch/eli/oc/2023/711)).
 [^54-5]: [RS 941.411](https://fedlex.data.admin.ch/eli/cc/2001/78)
 [^54-6]: Nuovo testo giusta l’all. n. 1 dell’O del 18 nov. 2020, in vigore dal 15 dic. 2020 ([RU 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
 [^54-7]: Introdotta dal n. I dell’O dell’11 mar. 2022, in vigore dal 1° mag. 2022 ([RU 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
 [^54-8]: Introdotta dal n. I dell’O del 31 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 801](https://fedlex.data.admin.ch/eli/oc/2018/102)).
 [^54-9]: Introdotta dal n. I dell’O dell’11 mar. 2022, in vigore dal 1° mag. 2022 ([RU 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
 [^54-10]: Cfr. nota a piè di pagina relativa all’art. 2 cpv. 4.
-[^54-11]: Introdotta dal n. I dell’O dell’11 mar. 2022, in vigore dal 1° mag. 2022 ([RU 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
+[^54-11]: Introdotta dal n. I dell’O dell’11 mar. 2022 ([RU 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)). Nuovo testo giusta l’all. n. 1 dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 709](https://fedlex.data.admin.ch/eli/oc/2023/709)).
 [^54-12]: Introdotto dal n. I dell’O del 31 gen. 2018 ([RU 2018 801](https://fedlex.data.admin.ch/eli/oc/2018/102)). Nuovo testo giusta l’all. n. 1 dell’O del 18 nov. 2020, in vigore dal 15 dic. 2020 ([RU 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
 
 ## Titolo quarto: Regole di comportamento per l’utilizzazione di sostanze, preparati e oggetti
@@ -1375,7 +1388,7 @@ Le sostanze e i preparati dei gruppi 1 e 2 possono essere forniti a scopi pubbli
 
 <sup>2</sup> L’Ufficio federale dell’ambiente (UFAM) decide, d’intesa con l’Ufficio federale della sanità pubblica (UFSP) e la Segreteria di Stato dell’economia (SECO), se una sostanza dell’elenco delle sostanze candidate che figura nell’allegato XIV del regolamento UE-REACH deve essere inserita nell’allegato 1.17 dell’ORRPChim[^70-2].
 
-[^70-1]: Cfr. nota a piè di pagina relativa all’art. 2 cpv. 4.
+[^70-1]: Cfr. nota a piè di pagina relativa all’art. 2 cpv. 2 lett. f.
 [^70-2]: [RS 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
 
 #### Art. 71
@@ -1409,7 +1422,8 @@ L’organo di notifica tiene un registro delle sostanze e dei preparati che rien
 - a. la presente ordinanza;
 - b. l’ORRPChim[^72-1];
 - c. l’ordinanza del 18 maggio 2005[^72-2] sui biocidi;
-- d. l’ordinanza del 12 maggio 2010[^72-3] sui prodotti fitosanitari.
+- d. l’ordinanza del 12 maggio 2010[^72-3] sui prodotti fitosanitari;
+- e.[^72-4] l’ordinanza del 1° novembre 2023[^72-5] sui concimi.
 
 <sup>2</sup>
 
@@ -1421,6 +1435,8 @@ Il registro è allestito sulla base di dati:
 [^72-1]: [RS 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
 [^72-2]: [RS 813.12](https://fedlex.data.admin.ch/eli/cc/2005/468)
 [^72-3]: [RS 916.161](https://fedlex.data.admin.ch/eli/cc/2010/340)
+[^72-4]: Introdotta dall’all. 5 n. II 1 dell’O del 1° nov. 2023 sui concimi, in vigore dal 1° gen. 2024 ([RU 2023 711](https://fedlex.data.admin.ch/eli/oc/2023/711)).
+[^72-5]: [RS 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)
 
 #### Art. 73
 
@@ -1511,15 +1527,20 @@ Possono, mediante una procedura di richiamo, trasmettere alle autorità menziona
 
 <sup>5</sup>
 
-La trasmissione secondo i capoversi 2, 3 e 4 di dati confidenziali concernenti la composizione di preparati è ammessa soltanto se:
+Sempre che si tratti di dati confidenziali concernenti la composizione di preparati, si applica quanto segue:
 
-- a. è richiesta da un’autorità preposta al perseguimento penale;
-- b. serve a rispondere a quesiti di carattere medico, in particolare nei casi d’urgenza; oppure
-- c. serve a far fronte a un pericolo che minaccia direttamente la vita o la salute dell’essere umano o l’ambiente.[^75-1]
+- a. nella procedura di richiamo i dati possono essere resi accessibili solo alle autorità cantonali di cui al capoverso 2 e solo ai fini della verifica dell’UFI;
+- b.
+
+  la trasmissione alle autorità e ai servizi di cui ai capoversi 2, 3 e 4 è ammessa soltanto se:
+
+  - 1\. è richiesta da un’autorità preposta al perseguimento penale,
+  - 2\. serve a rispondere a quesiti di carattere medico, in particolare nei casi d’urgenza, oppure
+  - 3\. serve a far fronte a un pericolo che minaccia direttamente la vita o la salute dell’essere umano o l’ambiente.[^75-1]
 
 <sup>6</sup> I Cantoni informano l’UFSP circa i risultati di rilevamenti e chiarimenti relativi alla qualità dell’aria all’interno di locali e gli trasmettono i dati pertinenti a loro disposizione.
 
-[^75-1]: Nuovo testo giusta il n. I dell’O del 31 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 801](https://fedlex.data.admin.ch/eli/oc/2018/102)).
+[^75-1]: Nuovo testo giusta l’all. n. 1 dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 709](https://fedlex.data.admin.ch/eli/oc/2023/709)).
 
 #### Art. 76
 
@@ -1692,7 +1713,7 @@ D’intesa con l’UFAM e la SECO, l’UFSP adegua i seguenti allegati:
 [^84-2]: Nuovo testo giusta l’all. n. 1 dell’O del 18 nov. 2020, in vigore dal 15 dic. 2020 ([RU 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
 [^84-3]: Regolamento (CE) n. 440/2008 della Commissione, del 30 maggio 2008, che istituisce dei metodi di prova ai sensi del regolamento (CE) n. 1907/2006 del Parlamento europeo e del Consiglio concernente la registrazione, la valutazione, l’autorizzazione e la restrizione delle sostanze chimiche (REACH), GU L 142 del 31.5.2008, pag. 1.
 [^84-4]: Il manuale può essere consultato gratuitamente sul sito Internet dell’ONU all’indirizzo Internet: www.unece.org &gt; Our work &gt; Transport &gt; Dangerous Goods &gt; Legal Instruments and Recommendations &gt; UN Manual of Tests and Criteria.
-[^84-5]: Cfr. nota a piè di pagina relativa all’art. 2 cpv. 4.
+[^84-5]: Cfr. nota a piè di pagina relativa all’art. 2 cpv. 2 lett. f.
 [^84-6]: Introdotta dal n. I dell’O dell’11 mar. 2022, in vigore dal 1° mag. 2022 ([RU 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
 
 ### Sezione 5: Delega di compiti e competenze a terzi
@@ -1855,12 +1876,14 @@ Fino al 31 dicembre 2025 al più tardi, i fabbricanti possono immettere sul merc
 
 <sup>4</sup>
 
-Alle vecchie sostanze, già notificate prima dell’entrata in vigore della presente modifica, si applicano le seguenti disposizioni:
+Alle vecchie sostanze notificate prima dell’entrata in vigore della presente modifica si applica quanto segue:[^93c-2]
 
-- a. il notificante è esonerato dall’obbligo di fornire informazioni ulteriori secondo gli articoli 46 e 47;
+- a.[^93c-3] il notificante è esonerato dagli obblighi di cui agli articoli 46 e 47, il rappresentante esclusivo e l’importatore sono esonerati dall’obbligo di cui all’articolo 46;
 - b. la deroga di cui all’articolo 54 capoverso 1 lettera k non si applica.
 
 [^93c-1]: Introdotto dal n. I dell’O dell’11 mar. 2022, in vigore dal 1° mag. 2022 ([RU 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
+[^93c-2]: Nuovo testo giusta l’all. n. 1 dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 709](https://fedlex.data.admin.ch/eli/oc/2023/709)).
+[^93c-3]: Nuovo testo giusta l’all. n. 1 dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 709](https://fedlex.data.admin.ch/eli/oc/2023/709)).
 
 ### Capitolo 3: Entrata in vigore
 
@@ -1909,7 +1932,7 @@ Ai fini della corretta interpretazione delle espressioni che figurano nel regola
 </table>
 
 [^annex1-lvlu1-lvl1-1]: Cfr. nota a piè di pagina relativa all’art. 2 cpv. 4.
-[^annex1-lvlu1-lvl1-2]: Cfr. nota a piè di pagina relativa all’art. 2 cpv. 4.
+[^annex1-lvlu1-lvl1-2]: Cfr. nota a piè di pagina relativa all’art. 2 cpv. 2 lett. f.
 [^annex1-lvlu1-lvl1-3]: Cfr. nota a piè di pagina relativa all’art. 2 cpv. 4.
 
 ### 2
@@ -1969,7 +1992,7 @@ Allegato 2[^t-2]
 
 ## Elenco delle prescrizioni tecniche determinanti
 
-[^t-2]: Nuovo testo giusta il n. I cpv. 1 dell’O dell’UFSP del 1° nov. 2016 ([RU 2016 4041](https://fedlex.data.admin.ch/eli/oc/2016/670)). Aggiornato dai n. I delle O dell’UFSP del 5 feb. 2018 ([RU 2018 707](https://fedlex.data.admin.ch/eli/oc/2018/85)), del 31 ott. 2018 ([RU 2018 4063](https://fedlex.data.admin.ch/eli/oc/2018/657)), del 23 mag. 2019 ([RU 2019 1923](https://fedlex.data.admin.ch/eli/oc/2019/353)), del 21 feb. 2020 ([RU 2020 727](https://fedlex.data.admin.ch/eli/oc/2020/134)), dall’all. n. 1 dell’O del 18 nov. 2020 ([RU 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)), dai n. I delle O dell’UFSP del 19 nov. 2020 ([RU 2020 5293](https://fedlex.data.admin.ch/eli/oc/2020/915)), del 4 ago. 2021 ([RU 2021 487](https://fedlex.data.admin.ch/eli/oc/2021/487)) del 9 ago. 2022 ([RU 2022 444](https://fedlex.data.admin.ch/eli/oc/2022/444)) e del 5 set. 2023, in vigore dal 1° ott. 2023 (RU **202****3** 517).
+[^t-2]: Nuovo testo giusta il n. I cpv. 1 dell’O dell’UFSP del 1° nov. 2016 ([RU 2016 4041](https://fedlex.data.admin.ch/eli/oc/2016/670)). Aggiornato dai n. I delle O dell’UFSP del 5 feb. 2018 ([RU 2018 707](https://fedlex.data.admin.ch/eli/oc/2018/85)), del 31 ott. 2018 ([RU 2018 4063](https://fedlex.data.admin.ch/eli/oc/2018/657)), del 23 mag. 2019 ([RU 2019 1923](https://fedlex.data.admin.ch/eli/oc/2019/353)), del 21 feb. 2020 ([RU 2020 727](https://fedlex.data.admin.ch/eli/oc/2020/134)), dall’all. n. 1 dell’O del 18 nov. 2020 ([RU 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)), dai n. I delle O dell’UFSP del 19 nov. 2020 ([RU 2020 5293](https://fedlex.data.admin.ch/eli/oc/2020/915)), del 4 ago. 2021 ([RU 2021 487](https://fedlex.data.admin.ch/eli/oc/2021/487)) del 9 ago. 2022 ([RU 2022 444](https://fedlex.data.admin.ch/eli/oc/2022/444)) e del 5 set. 2023, in vigore dal 1° ott. 2023 ([RU 2023 517](https://fedlex.data.admin.ch/eli/oc/2023/517)).
 
 ### [1](https://www.fedlex.admin.ch/eli/cc/2015/366/it) [Prescrizioni tecniche per la classificazione, l’etichettatura e l’imballaggio di sostanze e preparati](https://www.fedlex.admin.ch/eli/cc/2015/366/it)
 
@@ -2248,10 +2271,10 @@ Allegato 5[^t-5]
 ### 1.1 Gruppo 1
 
 <table>
-<tr><td>a.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20231001/it/xml/image/image1.png) in combinazione con</td><td>H300[^annex5-lvlu1-lvl1-lvl11-1]: Letale se ingerito, o H310: Letale a contatto con la pelle, o H330: Letale se inalato, o combinazioni delle suddette indicazioni di pericolo</td></tr>
-<tr><td>b.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20231001/it/xml/image/image2.png)</td><td></td></tr>
+<tr><td>a.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20240101/it/xml/image/image1.png) in combinazione con</td><td>H300[^annex5-lvlu1-lvl1-lvl11-1]: Letale se ingerito, o H310: Letale a contatto con la pelle, o H330: Letale se inalato, o combinazioni delle suddette indicazioni di pericolo</td></tr>
+<tr><td>b.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20240101/it/xml/image/image2.png)</td><td></td></tr>
 <tr><td>c.</td><td colspan="2">Sostanze e preparati secondo l’allegato 1.10 ORRPChim[^annex5-lvlu1-lvl1-lvl11-2] etichettati con:</td></tr>
-<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20231001/it/xml/image/image3.png) in combinazione con</td><td>H340: Può provocare alterazioni genetiche, o H350: Può provocare il cancro (*se inalato*), o H360: Può nuocere alla fertilità / al feto</td></tr>
+<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20240101/it/xml/image/image3.png) in combinazione con</td><td>H340: Può provocare alterazioni genetiche, o H350: Può provocare il cancro (*se inalato*), o H360: Può nuocere alla fertilità / al feto</td></tr>
 </table>
 
 [^annex5-lvlu1-lvl1-lvl11-1]: Il numero della frase H non deve figurare nell’etichettatura.
@@ -2260,12 +2283,12 @@ Allegato 5[^t-5]
 ### 1.2 Gruppo 2
 
 <table>
-<tr><td>a.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20231001/it/xml/image/image1.png) in combinazione con</td><td>H301: Tossico se ingerito, o H311: Tossico a contatto con la pelle, o H331: Tossico se inalato, o combinazioni delle suddette indicazioni di pericolo</td></tr>
-<tr><td>b.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20231001/it/xml/image/image3.png) in combinazione con</td><td>H370: Provoca danni agli organi, o H372: Provoca danni agli organi in caso di esposizione prolungata o ripetuta</td></tr>
-<tr><td>c.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20231001/it/xml/image/image4.png) in combinazione con</td><td>H314: Provoca gravi ustioni cutanee e gravi lesioni oculari. (Non sono considerati preparati del gruppo 2 quelli classificati come «Skin Corr. 1C» unicamente per il loro tenore di acido lattico [n. CAS 79-33-4] e sulla cui etichetta figura obbligatoriamente il codice H314.)</td></tr>
+<tr><td>a.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20240101/it/xml/image/image1.png) in combinazione con</td><td>H301: Tossico se ingerito, o H311: Tossico a contatto con la pelle, o H331: Tossico se inalato, o combinazioni delle suddette indicazioni di pericolo</td></tr>
+<tr><td>b.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20240101/it/xml/image/image3.png) in combinazione con</td><td>H370: Provoca danni agli organi, o H372: Provoca danni agli organi in caso di esposizione prolungata o ripetuta</td></tr>
+<tr><td>c.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20240101/it/xml/image/image4.png) in combinazione con</td><td>H314: Provoca gravi ustioni cutanee e gravi lesioni oculari. (Non sono considerati preparati del gruppo 2 quelli classificati come «Skin Corr. 1C» unicamente per il loro tenore di acido lattico [n. CAS 79-33-4] e sulla cui etichetta figura obbligatoriamente il codice H314.)</td></tr>
 <tr><td>d.</td><td colspan="2">Recipiente con una capacità superiore a 1 kg etichettato con:</td></tr>
-<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20231001/it/xml/image/image5.png) in combinazione con</td><td>soltanto per le sostanze e i preparati che essendo classificati come «Aquatic Chronic 1» devono recare sull’etichetta la frase H410: «Molto tossico per gli organismi acquatici con effetti di lunga durata»</td></tr>
-<tr><td>e.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20231001/it/xml/image/image6.png) in combinazione con</td><td>H250: Spontaneamente infiammabile all’aria, o H260: A contatto con l’acqua libera gas infiammabili che possono infiammarsi spontaneamente, o H261: A contatto con l’acqua libera gas infiammabili</td></tr>
+<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20240101/it/xml/image/image5.png) in combinazione con</td><td>soltanto per le sostanze e i preparati che essendo classificati come «Aquatic Chronic 1» devono recare sull’etichetta la frase H410: «Molto tossico per gli organismi acquatici con effetti di lunga durata»</td></tr>
+<tr><td>e.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20240101/it/xml/image/image6.png) in combinazione con</td><td>H250: Spontaneamente infiammabile all’aria, o H260: A contatto con l’acqua libera gas infiammabili che possono infiammarsi spontaneamente, o H261: A contatto con l’acqua libera gas infiammabili</td></tr>
 <tr><td>f.</td><td></td><td>H230: Esplosivo anche in assenza di aria, o H231: Esplosivo anche in assenza di aria in caso di alta pressione e/o alta temperatura, o EUH019: Può formare perossidi esplosivi, o EUH029: A contatto con l’acqua libera un gas tossico, o EUH031: A contatto con acidi libera un gas tossico, o EUH032: A contatto con acidi libera un gas altamente tossico</td></tr>
 </table>
 
@@ -2274,10 +2297,10 @@ Allegato 5[^t-5]
 ### 2.1 Gruppo 1
 
 <table>
-<tr><td>a.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20231001/it/xml/image/image7.png) in combinazione con</td><td>R28[^annex5-lvlu1-lvl2-lvl21-1]: Molto tossico per ingestione, o R27: Molto tossico a contatto con la pelle, o R26: Molto tossico per inalazione, o combinazioni delle suddette frasi R.</td></tr>
-<tr><td>b.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20231001/it/xml/image/image8.png)</td><td></td></tr>
+<tr><td>a.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20240101/it/xml/image/image7.png) in combinazione con</td><td>R28[^annex5-lvlu1-lvl2-lvl21-1]: Molto tossico per ingestione, o R27: Molto tossico a contatto con la pelle, o R26: Molto tossico per inalazione, o combinazioni delle suddette frasi R.</td></tr>
+<tr><td>b.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20240101/it/xml/image/image8.png)</td><td></td></tr>
 <tr><td>c.</td><td colspan="2">Sostanze e preparati secondo l’allegato 1.10 ORRPChim etichettati con:</td></tr>
-<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20231001/it/xml/image/image7.png) in combinazione con</td><td>R46: Può provocare alterazioni genetiche ereditarie, o R45: Può provocare il cancro, o R49: Può provocare il cancro per inalazione, o R60: Può nuocere alla fertilità, o R61: Può nuocere al feto</td></tr>
+<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20240101/it/xml/image/image7.png) in combinazione con</td><td>R46: Può provocare alterazioni genetiche ereditarie, o R45: Può provocare il cancro, o R49: Può provocare il cancro per inalazione, o R60: Può nuocere alla fertilità, o R61: Può nuocere al feto</td></tr>
 </table>
 
 [^annex5-lvlu1-lvl2-lvl21-1]: Il numero della frase R non deve figurare nell’etichettatura.
@@ -2285,12 +2308,12 @@ Allegato 5[^t-5]
 ### 2.2 Gruppo 2
 
 <table>
-<tr><td>a.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20231001/it/xml/image/image7.png) in combinazione con</td><td>R25: Tossico per ingestione, o R24: Tossico a contatto con la pelle, o R23: Tossico per inalazione, o combinazioni delle suddette frasi R</td></tr>
-<tr><td>b.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20231001/it/xml/image/image7.png) in combinazione con</td><td>R39: Pericolo di effetti irreversibili molto gravi, o R48: Pericolo di gravi danni per la salute in caso di esposizione prolungata</td></tr>
-<tr><td>c.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20231001/it/xml/image/image9.png) in combinazione con</td><td>R35: Provoca gravi ustioni, o R34: Provoca ustioni</td></tr>
+<tr><td>a.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20240101/it/xml/image/image7.png) in combinazione con</td><td>R25: Tossico per ingestione, o R24: Tossico a contatto con la pelle, o R23: Tossico per inalazione, o combinazioni delle suddette frasi R</td></tr>
+<tr><td>b.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20240101/it/xml/image/image7.png) in combinazione con</td><td>R39: Pericolo di effetti irreversibili molto gravi, o R48: Pericolo di gravi danni per la salute in caso di esposizione prolungata</td></tr>
+<tr><td>c.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20240101/it/xml/image/image9.png) in combinazione con</td><td>R35: Provoca gravi ustioni, o R34: Provoca ustioni</td></tr>
 <tr><td>d.</td><td colspan="2">Recipiente con una capacità superiore a 1 kg etichettato con:</td></tr>
-<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20231001/it/xml/image/image10.png) in combinazione con</td><td>R50/53: Molto tossico per gli organismi acquatici, a lungo termine può provocare effetti negativi per l’ambiente acquatico</td></tr>
-<tr><td>e.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20231001/it/xml/image/image11.png) in combinazione con</td><td>R17: Spontaneamente infiammabile all’aria, o R15: A contatto con l’acqua libera gas estremamente infiammabili</td></tr>
+<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20240101/it/xml/image/image10.png) in combinazione con</td><td>R50/53: Molto tossico per gli organismi acquatici, a lungo termine può provocare effetti negativi per l’ambiente acquatico</td></tr>
+<tr><td>e.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20240101/it/xml/image/image11.png) in combinazione con</td><td>R17: Spontaneamente infiammabile all’aria, o R15: A contatto con l’acqua libera gas estremamente infiammabili</td></tr>
 <tr><td>f.</td><td></td><td>R6: Esplosivo a contatto o senza contatto con l’aria, o R19: Può formare perossidi esplosivi, o R29: A contatto con l’acqua libera gas tossici, o R31: A contatto con acidi libera gas tossici, o R32: A contatto con acidi libera gas molto tossici</td></tr>
 </table>
 

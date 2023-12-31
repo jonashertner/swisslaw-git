@@ -4,11 +4,11 @@ title: "Ordinance of 5 June 2015 on Protection against Dangerous Substances and 
 short: ChemO
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/366"
 language: en
-version: 2023-10-01
+version: 2024-01-01
 adopted: 2015-06-05
 in_force: 2015-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20231001/en/xml/fedlex-data-admin-ch-eli-cc-2015-366-20231001-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/366/20231001/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20240101/en/xml/fedlex-data-admin-ch-eli-cc-2015-366-20240101-en-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/366/20240101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,11 +19,11 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Chemicals Ordinance, ChemO)
 
-of 5 June 2015 (Status as of 1 October 2023)
+of 5 June 2015 (Status as of 1 January 2024)
 
 The Swiss Federal Council,
 
-based on Article 19 paragraphs 2 and 3 of the Animal Protection Act of 16 December 2005[^ingress-1], on the Chemicals Act of 15 December 2000[^ingress-2] (ChemA), on Article 26 paragraph 3, 29, 30*a*–30*d*, 38 paragraph 3, 39 paragraph 1, 41 paragraph 3, 44 paragraphs 2 and 3, 46 paragraphs 2 and 3 and 48 paragraph 2 of the Federal Act of 7 October 1983[^ingress-3] on the Protection of the Environment (EPA), and on Article 9 paragraph 2 letter c, 27 paragraph 2 and 48 paragraph 2 of the Waters Protection Act of 24 January 1991[^ingress-4], and in implementation of the Federal Act of 6 October 1995[^ingress-5] on Technical Barriers to Trade,[^ingress-6]
+based on Article 19 paragraphs 2 and 3 of the Animal Welfare Act of 16 December 2005[^ingress-1], on the Chemicals Act of 15 December 2000[^ingress-2] (ChemA), on Article 26 paragraph 3, 29, 30*a*–30*d*, 38 paragraph 3, 39 paragraph 1, 41 paragraph 3, 44 paragraphs 2 and 3, 46 paragraphs 2 and 3 and 48 paragraph 2 of the Federal Act of 7 October 1983[^ingress-3] on the Protection of the Environment (EPA), and on Article 9 paragraph 2 letter c, 27 paragraph 2 and 48 paragraph 2 of the Waters Protection Act of 24 January 1991[^ingress-4], and in implementation of the Federal Act of 6 October 1995[^ingress-5] on Technical Barriers to Trade,[^ingress-6]
 
 ordains:
 
@@ -134,7 +134,7 @@ In addition, in this Ordinance:
 
 - b. *private user* means any natural person who obtains or uses substances, preparations or objects for non-professional purposes;
 - c. *trader* means any natural or legal person who obtains substances, preparations or objects in Switzerland and supplies them unchanged on a commercial basis;
-- d. *only representative* means any natural or legal person that is authorised by a manufacturer whose domicile or registered office is located abroad to notify a substance in Switzerland and represents several importers designated by that manufacturer;
+- d. *exclusive representative* means any natural or legal person that is authorised by a manufacturer whose domicile or registered office is located abroad to notify a substance in Switzerland and represents several importers designated by that manufacturer;
 - e. *object* means an article, consisting of one or more substances or preparations, which during production is given a special shape, surface or design which determines its end use function to a greater degree than does its chemical composition;
 - f.[^2-3]
 
@@ -155,10 +155,10 @@ In addition, in this Ordinance:
 - j. *intermediate* means a substance manufactured and used solely for chemical processing during which it is transformed into one or more other substances;
 - k. *secondary product* means any substance formed by chemical or biochemical transformation during the storage, use or disposal of a substance or preparation;
 - l. *scientific research and development* means any scientific experimentation, analysis or chemical research carried out under controlled conditions and involving quantities of less than 1 tonne per year;
-- m. *product and process-orientated research and development* means any scientific development related to product development or the further development of a substance on its own, in preparations or in objects in the course of which pilot plant or production trials are used to define the production process or test the fields of application of the substance;
+- m. *product and* *process-orientated research and development* means any scientific development related to product development or the further development of a substance on its own, in preparations or in objects in the course of which pilot plant or production trials are used to define the production process or test the fields of application of the substance;
 - n. *robust study summary* means a detailed summary of the objectives, methods, results and conclusions of a full study report providing sufficient information to make an independent assessment of the study, minimising the need to consult the full study report;
 - o. *exposure scenario* means the set of conditions, including operational conditions and risk management measures, that describe how the substance is manufactured or used during its life-cycle and how the manufacturer controls, or recommends customers to control, exposures of humans and the environment. These exposure scenarios may cover one specific process or use or several processes or uses as appropriate;
-- p. *hazard class* means the nature of the physical, health or environmental hazard;
+- p. *hazard c**lass* means the nature of the physical, health or environmental hazard;
 - q. *nanomaterial* means a material containing particles in an unbound state or as an aggregate or as an agglomerate, where one or more external dimensions is in the size range 1–100 nm, or a material where the specific surface area by volume is greater than 60 m<sup>2</sup>/cm<sup>3</sup>. A material is only considered to be a nanomaterial if it is deliberately produced to utilise the properties arising from the defined external dimensions of the particles it contains, or from the defined surface area by volume of the material. Fullerenes, graphene flakes and single-wall carbon nanotubes with one or more external dimensions below 1 nm are considered to be nanomaterials;
 - r.[^2-6] *colorants* means substances and preparations that primarily contain colouring agents, colour pigments and effect-producing pigments which are added solely for the purpose of colouring or producing effects.
 
@@ -166,11 +166,11 @@ In addition, in this Ordinance:
 
 <sup>4</sup> The equivalence of expressions between the REACH Regulation, Regulation (EC) No 1272/2008 (CLP Regulation)[^2-7] and Directive 75/324/EEC[^2-8], and this Ordinance as specified in Annex 1 number 1 applies.[^2-9]
 
-<sup>5</sup> If in this Ordinance reference is made to provisions of the REACH Regulation, the CLP Regulation or Directive 75/324/EEC which in turn refer to other provisions of these acts, these other provisions shall also apply; the applicable version of the act in question is that specified in the footnote to paragraph 4 or, in the case of references to annexes to the CLP Regulation or the REACH Regulation, the version specified in Annex 2 number 1 or Annex 4 number 3. An exception are provisions referred to in provisions of the REACH Regulation and the CLP Regulation, as specified in Annex 1 number 2; here, the provisions of the Swiss legislation listed in Annex 1 number 2 shall apply instead.
+<sup>5</sup> If in this Ordinance reference is made to provisions of the REACH Regulation, the CLP Regulation or Directive 75/324/EEC which in turn refer to other provisions of these acts, these other provisions also apply; the applicable version of the act in question is that specified in the footnote to paragraph 2 letter f or, as applicable, paragraph 4 or, in the case of references to annexes to the CLP Regulation or the REACH Regulation, the version specified in Annex 2 number 1 or, as applicable, Annex 4 number 3. An exception are provisions referred to in provisions of the REACH Regulation and the CLP Regulation, as specified in Annex 1 number 2; here, the provisions of the Swiss legislation listed in Annex 1 number 2 apply instead.[^2-10]
 
-<sup>6</sup> If in this Ordinance reference is made to provisions of the REACH Regulation or the CLP Regulation which in turn refer to other EU legislation, the Swiss legislation specified in Annex 1 number 3 shall apply instead of the EU legislation.
+<sup>6</sup> If in this Ordinance reference is made to provisions of the REACH Regulation or the CLP Regulation which in turn refer to other EU legislation, the Swiss legislation specified in Annex 1 number 3 applies instead of the EU legislation.
 
-<sup>7</sup> The provisions of the Nagoya Ordinance of 11 December 2015[^2-10] are reserved with respect to the placing on the market of substances and preparations the development of which is based on the use of genetic resources or on traditional knowledge associated therewith.[^2-11]
+<sup>7</sup> The provisions of the Nagoya Ordinance of 11 December 2015[^2-11] are reserved with respect to the placing on the market of substances and preparations the development of which is based on the use of genetic resources or on traditional knowledge associated therewith.[^2-12]
 
 [^2-1]: Amended by No I of the O of 11 March 2022, in force since 1 May 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
 [^2-2]: Amended by No I of the O of 31 Jan. 2018, in force since 1 March 2018 ([AS 2018 801](https://fedlex.data.admin.ch/eli/oc/2018/102)).
@@ -181,8 +181,9 @@ In addition, in this Ordinance:
 [^2-7]: Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives 67/548/EEC and 1999/45/EC and amending Regulation (EC) No 1907/2006, OJ L 353 of 31.12.2008, p. 1; last amended by Delegated Regulation (EU) No 2021/1962, OJ L 400 of 12.11.2021, p. 16.
 [^2-8]: Council Directive 75/324/EEC of 20 May 1975 on the approximation of the laws of the Member States relating to aerosol dispensers, OJ L 147 of 9.6.1975, p. 40; last amended by Directive (EU) 2016/2037, OJ L 314 of 22.11.2016, p. 11.
 [^2-9]: Amended by No I of the O of 11 March 2022, in force since 1 May 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
-[^2-10]: [SR 451.61](https://fedlex.data.admin.ch/eli/cc/2016/39)
-[^2-11]: Inserted by Annex No 2 of the Nagoya Ordinance of 11 Dec. 2015, in force since 1 Feb. 2016 ([AS 2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)).
+[^2-10]: Amended by Annex No 1 of the O of 15 Nov. 2023, in force since 1 Jan. 2024 ([AS 2023 709](https://fedlex.data.admin.ch/eli/oc/2023/709)).
+[^2-11]: [SR 451.61](https://fedlex.data.admin.ch/eli/cc/2016/39)
+[^2-12]: Inserted by Annex No 2 of the Nagoya Ordinance of 11 Dec. 2015, in force since 1 Feb. 2016 ([AS 2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)).
 
 #### Art. 3
 
@@ -194,11 +195,12 @@ Substances and preparations are dangerous if they fulfil the criteria for classi
 
 **Persistence, bioaccumulation and toxicity**
 
-<sup>1</sup> Substances are considered *persistent, bioaccumulative and toxic* *(PBT)* if they fulfil the criteria defined in Sections 1.1.1–1.1.3 of Annex XIII to the REACH Regulation[^4-1].
+<sup>1</sup> Substances are considered *persistent,* *bioaccumulative* *and toxic* *(PBT)* if they fulfil the criteria defined in Sections 1.1.1–1.1.3 of Annex XIII to the REACH Regulation[^4-1].
 
-<sup>2</sup> Substances are considered *very persistent and very bioaccumulative (vPvB)* if they fulfil the criteria defined in Sections 1.2.1 and 1.2.2 of Annex XIII to the REACH Regulation.
+<sup>2</sup> Substances are considered *very persistent and very* *bioaccumulative* *(**vPvB**)* if they fulfil the criteria defined in Sections 1.2.1 and 1.2.2 of Annex XIII to the REACH Regulation[^4-2].
 
 [^4-1]: See footnote to Art. 2 para. 4.
+[^4-2]: See footnote to Art. 2 para. 2 let. f. Name in accordance with Annex No1 of the O of 15 Nov. 2023, in force since 1 Jan. 2024; this amendment has been made in the provisions mentioned in the AS.
 
 ## Title 2 Marketing Requirements
 
@@ -366,7 +368,14 @@ Manufacturers of preparations may use an alternative chemical name for a substan
 
 <sup>2</sup> The alternative chemical name shall be a name that identifies the most important functional groups or serves as an alternative designation.
 
-<sup>3</sup> Manufacturers wishing to use an alternative chemical name must make a request in writing to the Notification Authority.
+<sup>3</sup>
+
+If the European Chemicals Agency has approved the use of an alternative chemical name in accordance with Article 24 of the CLP Regulation, the use of the name is deemed approved in Switzerland from the date on which the Notification Authority acknowledges the following documents and data:
+
+- a. the decision of the European Chemicals Agency;
+- b. details of the substance identity in accordance with Article 49 letter c numbers 1–3.[^14-1]
+
+<sup>3bis</sup> Where the name and identification number in the classification and labelling inventory in accordance with Article 42 of the CLP Regulation is used when the chemical name in accordance with Article 18 paragraph 2 letter b of the CLP Regulation is used, if the Notification Authority so requests, the substance identity in accordance with Annex VI Sections 2.1–2.3 of the REACH Regulation[^14-2] must be provided.[^14-3]
 
 <sup>4</sup>
 
@@ -378,10 +387,20 @@ The use of an alternative chemical name may be requested for a preparation:
 
 <sup>5</sup> Authorisation to use an alternative chemical name is granted to the manufacturer and is non-transferable.
 
-<sup>6</sup> In the first six years after the reporting, declaration or notification of a new substance, authorisation is not required for the manufacturer and professional users to use an alternative chemical name. Thereafter, the chemical name as specified in Article 18 paragraph 2 of the CLP Regulation[^14-1] must be used, or a request to use an alternative chemical name must be submitted.[^14-2]
+<sup>6</sup>
 
-[^14-1]: See footnote to Art. 2 para. 4.
-[^14-2]: Amended by No I of the O of 31 Jan. 2018, in force since 1 March 2018 ([AS 2018 801](https://fedlex.data.admin.ch/eli/oc/2018/102)).
+The use of an alternative chemical name by the manufacturer and professional users in the same supply chain is permitted without authorisation for the first six years after:
+
+- a. the reporting, declaration or notification of a new substance;
+- b. the registration of a substance that falls under Article 119 paragraph 2 letter f of the REACH Regulation and in respect of which proof of registration and details of the substance identity in accordance with Article 49 letter c numbers 1–3 are submitted to the Notification Authority.[^14-4]
+
+<sup>7</sup> If no request to use an alternative chemical name and no decision from the European Chemicals Agency nor the information in accordance with paragraph 3 are submitted within the period specified in paragraph 6, on expiry of the period the chemical name in accordance with Article 18 paragraph 2 of the CLP Regulation must be used.[^14-5]
+
+[^14-1]: Amended by Annex No 1 of the O of 15 Nov. 2023, in force since 1 Jan. 2024 ([AS 2023 709](https://fedlex.data.admin.ch/eli/oc/2023/709)).
+[^14-2]: See footnote to Art. 2 para. 2 let. f.
+[^14-3]: Inserted by Annex No 1 of the O of 15 Nov. 2023, in force since 1 Jan. 2024 ([AS 2023 709](https://fedlex.data.admin.ch/eli/oc/2023/709)).
+[^14-4]: Amended by Annex No 1 of the O of 15 Nov. 2023, in force since 1 Jan. 2024 ([AS 2023 709](https://fedlex.data.admin.ch/eli/oc/2023/709)).
+[^14-5]: Inserted by Annex No 1 of the O of 15 Nov. 2023, in force since 1 Jan. 2024 ([AS 2023 709](https://fedlex.data.admin.ch/eli/oc/2023/709)).
 
 #### Art. 15
 
@@ -556,7 +575,7 @@ Professional users or traders are required to retain the safety data sheet for a
 
 <sup>1</sup>
 
-Manufacturers of a new substance or their only representative must notify the new substance to the Notification Authority before placing it on the market for the first time:
+Manufacturers of a new substance or their exclusive representative must notify the new substance to the Notification Authority before placing it on the market for the first time:
 
 - a. on its own;
 - b. in a preparation; or
@@ -781,7 +800,7 @@ The Notification Authority shall use data from previous tests on vertebrates for
 
 **Obligation to make a declaration**
 
-If the substance quantity placed on the market is 1 tonne per year or more and if the new substance is exempt from notification under Article 26 paragraph 1 letter d, the manufacturer or his only representative must declare the new substance to the Notification Authority before placing it on the market for the first time either on its own or as a constituent in a preparation or object from which the substance is intended to be released under normal or reasonably foreseeable conditions of use.
+If the substance quantity placed on the market is 1 tonne per year or more and if the new substance is exempt from notification under Article 26 paragraph 1 letter d, the manufacturer or his exclusive representative must declare the new substance to the Notification Authority before placing it on the market for the first time either on its own or as a constituent in a preparation or object from which the substance is intended to be released under normal or reasonably foreseeable conditions of use.
 
 #### Art. 35
 
@@ -802,7 +821,7 @@ The declaration must contain the following information and documents:
 - g. the research programme and a list of the people to whom the substance is to be supplied;
 - h. in the case of dangerous substances or PBT or vPvB substances: a proposed safety data sheet.
 
-<sup>3</sup> The Notification Authority may request the manufacturer or only representative to furnish test reports that are relevant for the assessment of the substance, provided that they are available and can be obtained with reasonable effort.
+<sup>3</sup> The Notification Authority may request the manufacturer or exclusive representative to furnish test reports that are relevant for the assessment of the substance, provided that they are available and can be obtained with reasonable effort.
 
 ### Section 4 Procedure for Notification and Declaration
 
@@ -810,7 +829,7 @@ The declaration must contain the following information and documents:
 
 **Confirmation of receipt and forwarding of the documents**
 
-<sup>1</sup> The Notification Authority shall confirm to the manufacturer or the only representative the date on which the notification or declaration was received.
+<sup>1</sup> The Notification Authority shall confirm to the manufacturer or the exclusive representative the date on which the notification or declaration was received.
 
 <sup>2</sup> If the documents are not obviously incomplete, the Notification Authority shall forward them to the assessment authorities.
 
@@ -834,13 +853,13 @@ The assessment authorities, within their area of competence, shall assess whethe
 
 **Additions to the documents**
 
-<sup>1</sup> If the Notification Authority determines that the documents are obviously incomplete, it shall inform the manufacturer or only representative accordingly without delay.
+<sup>1</sup> If the Notification Authority determines that the documents are obviously incomplete, it shall inform the manufacturer or exclusive representative accordingly without delay.
 
-<sup>2</sup> If an assessment authority determines that the documents are incomplete or inaccurate, or that further data or tests are required for an assessment of the hazards and risks associated with the substance, it shall inform the Notification Authority accordingly. The Notification Authority shall request the manufacturer or only representative to submit additions or corrections.
+<sup>2</sup> If an assessment authority determines that the documents are incomplete or inaccurate, or that further data or tests are required for an assessment of the hazards and risks associated with the substance, it shall inform the Notification Authority accordingly. The Notification Authority shall request the manufacturer or exclusive representative to submit additions or corrections.
 
 <sup>3</sup> If a robust study summary in accordance with Article 27 paragraph 2 letter b numbers 7–9 does not permit an independent assessment of a specific test, the Notification Authority may request the full study report.
 
-<sup>4</sup> The Notification Authority shall confirm to the manufacturer or only representative the date of receipt of additions and corrections.
+<sup>4</sup> The Notification Authority shall confirm to the manufacturer or exclusive representative the date of receipt of additions and corrections.
 
 #### Art. 39
 
@@ -958,7 +977,7 @@ Notifiers must inform the Notification Authority in writing without delay if:
 
 <sup>3</sup> Only representatives must ensure that they have access to updated data, particularly as regards the quantities of substances imported annually by the importers they represent.
 
-<sup>4</sup> Importers represented by an only representative in the notification of a new substance must inform the representative annually of the quantities of the substance imported.
+<sup>4</sup> Importers represented by an exclusive representative in the notification of a new substance must inform the representative annually of the quantities of the substance imported.
 
 #### Art. 47
 
@@ -1040,7 +1059,7 @@ The report must include the following information:
   - 4\. the intended uses,
   - 5\. the physical state,
   - 6\. in the case of preparations dangerous to the environment: the quantity likely to be placed on the market annually, according to one of the following categories: less than 1 tonne, 1–10 tonnes, 10–100 tonnes, more than 100 tonnes,
-  - 7\.[^49-4] in the case of preparations containing nanomaterials that must be specified in the safety data sheet: the composition of the nanomaterials, their particle form and mean particle size and, where available, the number size distribution, specific surface area by volume, crystal structure, aggregation status, surface coating and surface functionalisation.
+  - 7\.[^49-4] in the case of preparations containing nanomaterials: the following data, provided they are specified in the safety data sheet: the composition of the nanomaterials, their particle form and mean particle size and, where available, the number size distribution, specific surface area by volume, crystal structure, aggregation status, surface coating and surface functionalisation.
 
 <sup>2</sup>
 
@@ -1058,7 +1077,7 @@ If the constituents in terms of paragraph 1 letter d number 2 that are added to 
 [^49-1]: See footnote to Art. 2 para. 4.
 [^49-2]: Amended by No I of the O of 31 Jan. 2018, in force since 1 March 2018 ([AS 2018 801](https://fedlex.data.admin.ch/eli/oc/2018/102)).
 [^49-3]: Inserted by No I of the O of 31 Jan. 2018 ([AS 2018 801](https://fedlex.data.admin.ch/eli/oc/2018/102)). Amended by Annex No 1 of the O of 18 Nov. 2020, in force since 1 Jan. 2022 ([AS 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
-[^49-4]: Amended by No I of the O of 31 Jan. 2018, in force since 1 March 2018 ([AS 2018 801](https://fedlex.data.admin.ch/eli/oc/2018/102)).
+[^49-4]: Amended by Annex No 1 of the O of 15 Nov. 2023, in force since 1 Jan 2024 ([AS 2023 709](https://fedlex.data.admin.ch/eli/oc/2023/709)).
 [^49-5]: Inserted by No I of the O of 11 March 2022, in force since 1 May 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
 
 #### Art. 50
@@ -1115,7 +1134,7 @@ The reporting requirements specified in this Chapter do not apply to:
 - b.[^54-2] substances and preparations which are placed on the market solely for the purposes of analysis, research or development;
 - [tab] b<sup>bis</sup>.[^54-3] substances that are placed on the market solely for training purposes;
 - c. substances and preparations used exclusively for foodstuffs, therapeutic products or animal feedingstuffs;
-- d. fertilisers which require authorisation from the Federal Office for Agriculture (FOAG) or have to be notified to the FOAG under the Fertiliser Ordinance of 10 January 2001[^54-4];
+- d.[^54-4] …
 - e. explosives and pyrotechnic devices which require authorisation under the Explosives Ordinance of 27 November 2000[^54-5];
 - f. substances obtained in Switzerland;
 - g.
@@ -1137,7 +1156,7 @@ The reporting requirements specified in this Chapter do not apply to:
   - 1\. the requirements of Article 25 paragraph 8 of the CLP Regulation[^54-10] are complied with, or
   - 2\. the potentially hazardous colorants are indicated in the notification of the base colour in the maximum concentration in which they are added; in this case, the product must be labelled with the UFI of the base colour;
 
-- m.[^54-11] concrete, plaster and cement that correspond to the standard formulations in Annex VIII Part D of the CLP Regulation and that bear the UFI required by the Notification Authority.
+- m.[^54-11] fresh and ready-mix concrete, plaster and cement that correspond to the standard formulations in Annex VIII Part D of the CLP Regulation and that bear the UFI required by the Notification Authority.
 
 <sup>2</sup>
 
@@ -1149,14 +1168,14 @@ Not exempted from the reporting requirements of this chapter are:
 [^54-1]: Amended by No I of the O of 31 Jan. 2018, in force since 1 March 2018 ([AS 2018 801](https://fedlex.data.admin.ch/eli/oc/2018/102)).
 [^54-2]: Amended by No I of the O of 11 March 2022, in force since 1 May 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
 [^54-3]: Inserted by No I of the O of 11 March 2022, in force since 1 May 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
-[^54-4]: [SR 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)
+[^54-4]: Repealed by Annex 5 No II 1 of the O of 1 Nov. 2023 on Placing Fertilisers on the Market, with effect from 1 Jan. 2024 (AS **202****3** 711).
 [^54-5]: [SR 941.411](https://fedlex.data.admin.ch/eli/cc/2001/78)
 [^54-6]: Amended by Annex No 1 of the O of 18 Nov. 2020, in force since 15 Dec. 2020 ([AS 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
 [^54-7]: Inserted by No I of the O of 11 March 2022, in force since 1 May 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
 [^54-8]: Inserted by No I of the O of 31 Jan. 2018, in force since 1 March 2018 ([AS 2018 801](https://fedlex.data.admin.ch/eli/oc/2018/102)).
 [^54-9]: Inserted by No I of the O of 11 March 2022, in force since 1 May 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
 [^54-10]: See footnote to Art. 2 para. 4.
-[^54-11]: Inserted by No I of the O of 11 March 2022, in force since 1 May 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
+[^54-11]: Inserted by No I of the O of 11 March 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)). Amended by No 1 of the O of 15 Nov. 2023, in force since 1 Jan. 2024 ([AS 2023 709](https://fedlex.data.admin.ch/eli/oc/2023/709)).
 [^54-12]: Inserted by No I of the O of 31 Jan. 2018 ([AS 2018 801](https://fedlex.data.admin.ch/eli/oc/2018/102)). Amended by Annex No 1 of the O of 18 Nov. 2020, in force since 15 Dec. 2020 ([AS 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
 
 ## Title 4 Rules for Handling of Substances, Preparations and Objects
@@ -1409,7 +1428,8 @@ The Notification Authority shall maintain a register of substances and preparati
 - a. this Ordinance;
 - b. the ORRChem[^72-1];
 - c. the Biocidal Products Ordinance of 18 May 2005[^72-2];
-- d. the Plant Protection Products Ordinance of 12 May 2010[^72-3].
+- d. the Plant Protection Products Ordinance of 12 May 2010[^72-3];
+- e.[^72-4] Fertilisers Ordinance of 1 November 2023[^72-5].
 
 <sup>2</sup>
 
@@ -1421,6 +1441,8 @@ The register shall be compiled on the basis of data:
 [^72-1]: [SR 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
 [^72-2]: [SR 813.12](https://fedlex.data.admin.ch/eli/cc/2005/468)
 [^72-3]: [SR 916.161](https://fedlex.data.admin.ch/eli/cc/2010/340)
+[^72-4]: Inserted by Annex 5 No II 1 of the O of 15 Nov. 2023 on Placing Fertilisers on the Market, in force since 1 Jan. 2024 ([AS 2023 711](https://fedlex.data.admin.ch/eli/oc/2023/711)).
+[^72-5]: [SR 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)
 
 #### Art. 73
 
@@ -1457,7 +1479,7 @@ The following are not deemed confidential under any circumstances:
 
 <sup>6</sup> The Notification Authority and assessment authorities may publish data in the register of products which is not deemed confidential under any circumstances.
 
-[^73-1]: The reference was adapted in application of Art. 12 para. 2 of the Publications Act of 18 June 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) on 1 May 2022.
+[^73-1]: The reference was adapted in application of Art. 12 para. 2 of the Publications Act of 18 June 2004 (SR **170****.****512**) on 1 May 2022.
 [^73-2]: Amended by No I of the O of 31 Jan. 2018, in force since 1 March 2018 ([AS 2018 801](https://fedlex.data.admin.ch/eli/oc/2018/102)).
 [^73-3]: Amended by No I of the O of 31 Jan. 2018, in force since 1 March 2018 ([AS 2018 801](https://fedlex.data.admin.ch/eli/oc/2018/102)).
 
@@ -1511,15 +1533,20 @@ They may make data concerning manufacturers and the substances or preparations t
 
 <sup>5</sup>
 
-Confidential data relating to the composition of preparations may only be passed on under paragraphs 2, 3 and 4 if this data:
+With regard to confidential data relating to the composition of preparations, the following applies:
 
-- a. is required by a criminal prosecution authority;
-- b. serves to answer medical queries, particularly in cases of emergency; or
-- c. serves to answer medical queries, particularly in cases of emergency or to prevent an imminent danger to human life or health or to the environment.[^75-1]
+- a. In the retrieval procedure, the data may only be made available to the cantonal authorities in accordance with paragraph 2 and only for the purpose of verifying the UFI.
+- b.
+
+  Disclosure to the authorities and bodies in accordance with paragraphs 2, 3 and 4 is only permitted if:
+
+  - 1\. it is required by a criminal prosecution authority;
+  - 2\. it serves to answer medical queries, particularly in cases of emergency; or
+  - 3\. it serves to answer medical queries, particularly in cases of emergency or to prevent an imminent danger to human life or health or to the environment.[^75-1]
 
 <sup>6</sup> The cantons shall inform the FOPH of the results of surveys and analyses regarding the quality of indoor air and pass on available data on indoor air to the FOPH.
 
-[^75-1]: Amended by No I of the O of 31 Jan. 2018, in force since 1 March 2018 ([AS 2018 801](https://fedlex.data.admin.ch/eli/oc/2018/102)).
+[^75-1]: Amended by Annex 5 No II 1 of the O of 15 Nov. 2023 on Placing Fertilisers on the Market, in force since 1 Jan. 2024 ([AS 2023 711](https://fedlex.data.admin.ch/eli/oc/2023/711)).
 
 #### Art. 76
 
@@ -1854,12 +1881,14 @@ Manufacturers may continue to place the following preparations on the market unt
 
 <sup>4</sup>
 
-The following provisions apply to existing substances for which notification was given before this amendment comes into force:
+The following applies to existing substances for which notification was given before this amendment comes into force:[^93c-2]
 
-- a. The notifier is not subject to the obligation to update information in accordance with Article 46 and 47.
+- a. [^93c-3] The notifier is not bound by the obligations in Articles 46 and 47, and the exclusive representative and the importer are not bound by obligation in Article 46.
 - b. The exemption in Article 54 paragraph 1 letter k does not apply.
 
 [^93c-1]: Inserted by No I of the O of 11 March 2022, in force since 1 May 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
+[^93c-2]: Amended by Annex 5 No II 1 of the O of 15 Nov. 2023 on Placing Fertilisers on the Market, in force since 1 Jan. 2024 ([AS 2023 711](https://fedlex.data.admin.ch/eli/oc/2023/711)).
+[^93c-3]: Amended by Annex 5 No II 1 of the O of 15 Nov. 2023 on Placing Fertilisers on the Market, in force since 1 Jan. 2024 ([AS 2023 711](https://fedlex.data.admin.ch/eli/oc/2023/711)).
 
 ### Chapter 3 Commencement
 
@@ -1882,11 +1911,11 @@ The following expressions of the REACH Regulation[^annex1-lvlu1-lvl1-1], the CLP
 <table>
 <tr><th>EU</th><th>Switzerland</th></tr>
 <tr><td>a. German expressions:</td><td></td></tr>
-<tr><td>Hersteller, Lieferant, Importeur, nachgeschalteter Anwender</td><td>Herstellerin nach Artikel 2 Absatz 1 Buchstabe b</td></tr>
-<tr><td>Inverkehrbringen</td><td>Inverkehrbringen nach nach Artikel 4 Absatz 1 Buchstabe i ChemG</td></tr>
+<tr><td>Hersteller, Lieferant, Importeur, nachgeschalteter Anwender</td><td>Herstellerin in accordance with Article 2 paragraph 1 letter b</td></tr>
+<tr><td>Inverkehrbringen</td><td>Inverkehrbringen nach in accordance with Article 4 paragraph 1 letter i ChemG</td></tr>
 <tr><td>Gemisch</td><td>Zubereitung</td></tr>
 <tr><td>Erzeugnis</td><td>Gegenstand</td></tr>
-<tr><td>Zwischenprodukt</td><td>Zwischenprodukt nach Artikel 2 Absatz 2 Buchstabe j</td></tr>
+<tr><td>Zwischenprodukt</td><td>Zwischenprodukt in accordance with Article 2 paragraph 2 letter j</td></tr>
 <tr><td>Verbraucher, Endverbraucher</td><td>private Verwenderin</td></tr>
 <tr><td>Öffentliche Beratungsstelle</td><td>Tox Info Suisse (Art. 79)</td></tr>
 <tr><td>b. French expressions:</td><td></td></tr>
@@ -2082,7 +2111,7 @@ Substances that are listed in Regulation (EU) 2022/692[^annex2-lvlu1-lvl13-1] (1
 
 Substances that are listed in Delegated Regulation (EU) 2023/1435[^annex2-lvlu1-lvl14-1] (20th ATP) and preparations that contain such substances may be supplied until 31 January 2025 if their classification and labelling do not meet the requirements of the said Regulation.
 
-[^annex2-lvlu1-lvl14-1]: Delegierte Verordnung (EU) 2023/1435 der Kommission vom 2. Mai 2023 zur Änderung der Verordnung (EG) Nr. 1272/2008 des Europäischen Parlaments und des Rates über die Einstufung, Kennzeichnung und Verpackung von Stoffen und Gemischen hinsichtlich der Änderung von Anhang VI Teil 3 in Bezug auf die Einträge für 2-Ehtylhexansäure und ihre Salze, Borsäure, Dibortrioxid, Tetrabordinatriumheptaoxid Hydrat, Dinatriumtetraborat wasserfrei, Orthoborsäure Natriumsalz, Dinatriumtetraborat-Decahydrat und Dinatriumtetraborat-Pentahydrat, Fassung gemäss ABl. L 176 vom 11.7.2023, S. 6.
+[^annex2-lvlu1-lvl14-1]: Delegierte Verordnung (EU) 2023/1435 der Kommission vom 2. Mai 2023 zur Änderung der Verordnung (EG) Nr. 1272/2008 des Europäischen Parlaments und des Rates über die Einstufung, Kennzeichnung und Verpackung von Stoffen und Gemischen hinsichtlich der Änderung von Annex VI Teil 3 in Bezug auf die Einträge für 2-Ehtylhexansäure und ihre Salze, Borsäure, Dibortrioxid, Tetrabordinatriumheptaoxid Hydrat, Dinatriumtetraborat wasserfrei, Orthoborsäure Natriumsalz, Dinatriumtetraborat-Decahydrat und Dinatriumtetraborat-Pentahydrat, Amended by ABl. L 176 vom 11.7.2023, S. 6.
 
 Annex 3[^t-3]
 
@@ -2121,11 +2150,11 @@ Annex 4[^t-4]
 - b. Contact person;
 - c. Location of the notifier’s production site(s), as appropriate.
 
-2.2 If the notifier is an only representative, the following information is to be additionally provided:
+2.2 If the notifier is an exclusive representative, the following information is to be additionally provided:
 
 - a. Name and address of the foreign manufacturer;
 - b. Location of the production site(s);
-- c. Authorisation from the foreign manufacturer stating that it has designated the notifier as its only representative;
+- c. Authorisation from the foreign manufacturer stating that it has designated the notifier as its exclusive representative;
 - d. Names and addresses of the importers represented;
 - e. the substance quantities that each importer expects to import annually.
 
@@ -2255,10 +2284,10 @@ Annex 5[^t-5]
 ### 1.1 Group 1
 
 <table>
-<tr><td>a.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20231001/en/xml/image/image1.png) in conjunction with</td><td>H300[^annex5-lvlu1-lvl1-lvl11-1]: Fatal if swallowed, or H310: Fatal in contact with skin, or H330: Fatal if inhaled, or combinations of the above hazard statements</td></tr>
-<tr><td>b.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20231001/en/xml/image/image2.png)</td><td></td></tr>
+<tr><td>a.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20240101/en/xml/image/image1.png) in conjunction with</td><td>H300[^annex5-lvlu1-lvl1-lvl11-1]: Fatal if swallowed, or H310: Fatal in contact with skin, or H330: Fatal if inhaled, or combinations of the above hazard statements</td></tr>
+<tr><td>b.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20240101/en/xml/image/image2.png)</td><td></td></tr>
 <tr><td>c.</td><td colspan="2">Substances and preparations labelled as follows in accordance with Annex 1.10 to the ORRChem[^annex5-lvlu1-lvl1-lvl11-2]:</td></tr>
-<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20231001/en/xml/image/image3.png) in conjunction with</td><td>H340: May cause genetic defects, or H350: May (*if inhaled*) cause cancer, or H360: May damage fertility or the unborn child</td></tr>
+<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20240101/en/xml/image/image3.png) in conjunction with</td><td>H340: May cause genetic defects, or H350: May (*if inhaled*) cause cancer, or H360: May damage fertility or the unborn child</td></tr>
 </table>
 
 [^annex5-lvlu1-lvl1-lvl11-1]: The number of the hazard statement need not appear in the labelling.
@@ -2267,12 +2296,12 @@ Annex 5[^t-5]
 ### 1.2 Group 2
 
 <table>
-<tr><td>a.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20231001/en/xml/image/image1.png) in conjunction with</td><td>H301: Toxic if swallowed, or H311: Toxic in contact with skin, or H331: Toxic if inhaled, or combinations of the above hazard statements</td></tr>
-<tr><td>b.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20231001/en/xml/image/image3.png) in conjunction with</td><td>H370: Causes damage to organs, or H372: Causes damage to organs through prolonged or repeated exposure</td></tr>
-<tr><td>c.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20231001/en/xml/image/image4.png) in conjunction with</td><td>H314: Causes severe skin burns and eye damage. (Preparations that must be classified as "Skin Corr. 1C" and labelled H314 solely because of their lactic acid content [CAS No 79-33-4] are not deemed to be Group 2 preparations)</td></tr>
+<tr><td>a.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20240101/en/xml/image/image1.png) in conjunction with</td><td>H301: Toxic if swallowed, or H311: Toxic in contact with skin, or H331: Toxic if inhaled, or combinations of the above hazard statements</td></tr>
+<tr><td>b.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20240101/en/xml/image/image3.png) in conjunction with</td><td>H370: Causes damage to organs, or H372: Causes damage to organs through prolonged or repeated exposure</td></tr>
+<tr><td>c.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20240101/en/xml/image/image4.png) in conjunction with</td><td>H314: Causes severe skin burns and eye damage. (Preparations that must be classified as "Skin Corr. 1C" and labelled H314 solely because of their lactic acid content [CAS No 79-33-4] are not deemed to be Group 2 preparations)</td></tr>
 <tr><td>d.</td><td colspan="2">Containers with a content of more than 1 kg labelled as follows:</td></tr>
-<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20231001/en/xml/image/image5.png) in conjunction with</td><td>H410: Very toxic to aquatic life with long lasting effects. (Substances and preparations in Group 2 are those that must be labelled H410, because they are classified as «Aquatic Chronic 1».)</td></tr>
-<tr><td>e.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20231001/en/xml/image/image6.png) in conjunction with</td><td>H250: Catches fire spontaneously if exposed to air, or H260: In contact with water releases flammable gases which may ignite spontaneously, or H261: In contact with water releases flammable gases</td></tr>
+<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20240101/en/xml/image/image5.png) in conjunction with</td><td>H410: Very toxic to aquatic life with long lasting effects. (Substances and preparations in Group 2 are those that must be labelled H410, because they are classified as «Aquatic Chronic 1».)</td></tr>
+<tr><td>e.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20240101/en/xml/image/image6.png) in conjunction with</td><td>H250: Catches fire spontaneously if exposed to air, or H260: In contact with water releases flammable gases which may ignite spontaneously, or H261: In contact with water releases flammable gases</td></tr>
 <tr><td>f.</td><td></td><td>H230: May react explosively even in the absence of air, or H231: May react explosively even in the absence of air at elevated pressure and/or temperature, or EUH019: May form explosive peroxides, or EUH029: Contact with water liberates toxic gas, or EUH031: Contact with acids liberates toxic gas, or EUH032: Contact with acids liberates very toxic gas</td></tr>
 </table>
 
@@ -2281,10 +2310,10 @@ Annex 5[^t-5]
 ### 2.1 Group 1
 
 <table>
-<tr><td>a.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20231001/en/xml/image/image7.png) in conjunction with</td><td>R28[^annex5-lvlu1-lvl2-lvl21-1]: Very toxic if swallowed, or R27: Very toxic in contact with skin, or R26: Very toxic by inhalation, or combinations of the above R phrases</td></tr>
-<tr><td>b.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20231001/en/xml/image/image8.png)</td><td></td></tr>
+<tr><td>a.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20240101/en/xml/image/image7.png) in conjunction with</td><td>R28[^annex5-lvlu1-lvl2-lvl21-1]: Very toxic if swallowed, or R27: Very toxic in contact with skin, or R26: Very toxic by inhalation, or combinations of the above R phrases</td></tr>
+<tr><td>b.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20240101/en/xml/image/image8.png)</td><td></td></tr>
 <tr><td>c.</td><td colspan="2">Substances and preparations labelled as follows in accordance with Annex 1.10 to the ORRChem:</td></tr>
-<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20231001/en/xml/image/image7.png) in conjunction with</td><td>R46: May cause heritable genetic damage, or R45: May cause cancer, or R49: May cause cancer by inhalation, or R60: May impair fertility, or R61: May cause harm to the unborn child</td></tr>
+<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20240101/en/xml/image/image7.png) in conjunction with</td><td>R46: May cause heritable genetic damage, or R45: May cause cancer, or R49: May cause cancer by inhalation, or R60: May impair fertility, or R61: May cause harm to the unborn child</td></tr>
 </table>
 
 [^annex5-lvlu1-lvl2-lvl21-1]: The number of the R phrase need not appear in the labelling.
@@ -2292,12 +2321,12 @@ Annex 5[^t-5]
 ### 2.2 Group 2
 
 <table>
-<tr><td>a.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20231001/en/xml/image/image7.png) in conjunction with</td><td>R25: Toxic if swallowed, or R24: Toxic in contact with skin, or R23: Toxic by inhalation, or combinations of the above R phrases</td></tr>
-<tr><td>b.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20231001/en/xml/image/image7.png) in conjunction with</td><td>R39: Danger of very serious irreversible effects, or R48: Danger of serious damage to health by prolonged exposure</td></tr>
-<tr><td>c.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20231001/en/xml/image/image9.png) in conjunction with</td><td>R35: Causes severe burns, or R34: Causes burns</td></tr>
+<tr><td>a.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20240101/en/xml/image/image7.png) in conjunction with</td><td>R25: Toxic if swallowed, or R24: Toxic in contact with skin, or R23: Toxic by inhalation, or combinations of the above R phrases</td></tr>
+<tr><td>b.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20240101/en/xml/image/image7.png) in conjunction with</td><td>R39: Danger of very serious irreversible effects, or R48: Danger of serious damage to health by prolonged exposure</td></tr>
+<tr><td>c.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20240101/en/xml/image/image9.png) in conjunction with</td><td>R35: Causes severe burns, or R34: Causes burns</td></tr>
 <tr><td>d.</td><td colspan="2">Containers with a content of more than 1 kg labelled as follows:</td></tr>
-<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20231001/en/xml/image/image10.png) in conjunction with</td><td>R50/53: Very toxic to aquatic organisms, may cause long-term adverse effects in the aquatic environment.</td></tr>
-<tr><td>e.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20231001/en/xml/image/image11.png) in conjunction with</td><td>R17: Spontaneously flammable in air, or R15: Contact with water liberates extremely flammable gases</td></tr>
+<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20240101/en/xml/image/image10.png) in conjunction with</td><td>R50/53: Very toxic to aquatic organisms, may cause long-term adverse effects in the aquatic environment.</td></tr>
+<tr><td>e.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20240101/en/xml/image/image11.png) in conjunction with</td><td>R17: Spontaneously flammable in air, or R15: Contact with water liberates extremely flammable gases</td></tr>
 <tr><td>f.</td><td></td><td>R6: Explosive with or without contact with air, or R19: May form explosive peroxides, or R29: Contact with water liberates toxic gas, or R31: Contact with acids liberates toxic gas, or R32: Contact with acids liberates very toxic gas.</td></tr>
 </table>
 
