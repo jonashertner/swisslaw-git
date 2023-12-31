@@ -4,11 +4,11 @@ title: "Legge federale del 13 ottobre 1965 sull'imposta preventiva (LIP)"
 short: LIP
 eli: "https://fedlex.data.admin.ch/eli/cc/1966/371_385_384"
 language: it
-version: 2023-02-01
+version: 2024-01-01
 adopted: 1965-10-13
 in_force: 1967-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/371_385_384/20230201/it/xml/fedlex-data-admin-ch-eli-cc-1966-371_385_384-20230201-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/20230201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/371_385_384/20240101/it/xml/fedlex-data-admin-ch-eli-cc-1966-371_385_384-20240101-it-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/20230201/it"
 
 (LIP)[^t-1]
 
-del 13 ottobre 1965 (Stato 1° febbraio 2023)
+del 13 ottobre 1965 (Stato 1° gennaio 2024)
 
 [^t-1]: Abbreviazione introdotta dal n. I 4 della LF del 10 ott. 1997 sulla riforma 1997 dell’imposizione delle imprese, in vigore dal 1° gen. 1998 ([RU 1998 669](https://fedlex.data.admin.ch/eli/oc/1998/669_669_669); [FF 1997 II 963](https://fedlex.data.admin.ch/eli/fga/1997/2_1164_1058_963)).
 
@@ -650,6 +650,20 @@ I portatori, domiciliati all’estero, di quote di investimenti collettivi di ca
 
 [^35-1]: Espr. mod. dal n. III della LF del 15 dic. 1989 conc. l’approvazione di atti legislativi dei Cantoni da parte della Confederazione, in vigore dal 1° feb. 1991 ([RU 1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362); [FF 1988 II 1149](https://fedlex.data.admin.ch/eli/fga/1988/2_1333_1293_1149)).
 
+### 2*a*. Procedure elettroniche a livello cantonale
+
+#### Art. 35a
+
+[^35a-1]
+
+<sup>1</sup> I Cantoni prevedono la possibilità di svolgere procedure per via elettronica. Garantiscono conformemente al diritto cantonale l’autenticità e l’integrità dei dati trasmessi.
+
+<sup>2</sup> In caso di presentazione per via elettronica di atti scritti per i quali la legge prescrive la firma, i Cantoni prevedono, invece della firma, la possibilità per l’istante di confermare i dati per via elettronica.
+
+<sup>3</sup> I Cantoni prevedono che l’autorità fiscale notifichi all’istante, previo suo assenso, documenti in formato elettronico.
+
+[^35a-1]: Introdotto dal n. I 5 della LF del 18 giu. 2021 sulle procedure elettroniche in ambito fiscale, in vigore dal 1° gen. 2024 ([RU 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [FF 2020 4215](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
+
 ### II. Assistenza fra le autorità
 
 #### Art. 36
@@ -681,7 +695,7 @@ I portatori, domiciliati all’estero, di quote di investimenti collettivi di ca
 <sup>5</sup> Il Consiglio federale può emanare disposizioni d’esecuzione, concernenti in particolare l’organizzazione e la gestione del sistema d’informazione, le categorie di dati da rilevare, il diritto d’accesso e di trattamento, la durata di conservazione, l’archiviazione e la distruzione dei dati.
 
 [^36a-1]: Introdotto dal n. VI 2 della LF del 24 mar. 2000 concernente l’istituzione e l’adeguamento di basi legali per il trattamento di dati personali, in vigore dal 1° set. 2000 ([RU 2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293); [FF 1999 7979](https://fedlex.data.admin.ch/eli/fga/1999/1_9005_8381_7979)).
-[^36a-2]: Privo di oggetto ([RU 2021 67](https://fedlex.data.admin.ch/eli/oc/2021/67)n. II; [FF 2020 4215](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
+[^36a-2]: Terzo per privo di oggetto ([RU 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673)n. II; [FF 2020 4215](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
 
 ### III. Obbligo del segreto
 

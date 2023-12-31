@@ -4,11 +4,11 @@ title: "Loi fédérale du 13 octobre 1965 sur l'impôt anticipé (LIA)"
 short: LIA
 eli: "https://fedlex.data.admin.ch/eli/cc/1966/371_385_384"
 language: fr
-version: 2023-02-01
+version: 2024-01-01
 adopted: 1965-10-13
 in_force: 1967-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/371_385_384/20230201/fr/xml/fedlex-data-admin-ch-eli-cc-1966-371_385_384-20230201-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/20230201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/371_385_384/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-1966-371_385_384-20240101-fr-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/20230201/fr"
 
 (LIA[^t-1])
 
-du 13 octobre 1965 (Etat le 1<sup>er</sup> février 2023)
+du 13 octobre 1965 (État le 1<sup>er</sup> janvier 2024)
 
 [^t-1]: Abréviation introduite par le ch. I 4 de la LF du 10 oct. 1997 sur la réforme 1997 de l’imposition des sociétés, en vigueur depuis le 1<sup>er</sup> janv. 1998 ([RO 1998 669](https://fedlex.data.admin.ch/eli/oc/1998/669_669_669); [FF 1997 II 1058](https://fedlex.data.admin.ch/eli/fga/1997/2_1164_1058_963)).
 
@@ -128,7 +128,7 @@ Ne sont pas soumis à l’impôt anticipé:
 - b.[^5-4] les bénéfices en capital réalisés dans un placement collectif de capitaux au sens de la LPCC[^5-5] et le rendement de ses immeubles détenus en propriété directe, ainsi que les capitaux versés par les investisseurs, si la distribution est faite au moyen d’un coupon distinct;
 - c.[^5-6] les intérêts des avoirs de clients, si le montant de l’intérêt n’excède pas 200 francs pour une année civile;
 - d. les intérêts des dépôts destinés à constituer et alimenter un avoir en cas de survie ou de décès auprès d’établissements, caisses et autres institutions servant à l’assurance-vieillesse, invalidité ou survivants, ou à la prévoyance sociale;
-- e.[^5-7] ...
+- e.[^5-7] …
 - f.[^5-8] Les prestations bénévoles d’une société anonyme, d’une société à responsabilité limitée ou d’une société coopérative, pour autant que ces prestations constituent des charges justifiées par l’usage commercial au sens de l’art. 59, al. 1, let. c, LIFD;
 - g.[^5-9] les intérêts des banques ou des sociétés affiliées à des groupes financiers pour les instruments d’emprunt visés à l’art. 11, al. 4, et 30*b*, al. 6, de la loi du 8 novembre 1934 sur les banques (LB)[^5-10] et approuvés par l’Autorité fédérale de surveillance des marchés financiers (FINMA) pour répondre aux exigences réglementaires, si la date d’émission de l’instrument d’emprunt est comprise entre le 1<sup>er</sup> janvier 2013 et le 31 décembre 2026;
 - h.[^5-11] les intérêts versés par des participants à une contrepartie centrale au sens de la loi du 19 juin 2015 sur l’infrastructure des marchés financiers[^5-12] et ceux versés par une contrepartie centrale à ses participants;
@@ -346,7 +346,7 @@ Sont responsables solidairement avec le contribuable:
 L’impôt anticipé échoit:
 
 - a. sur les intérêts des obligations de caisse et des avoirs de clients auprès de banques ou de caisses d’épargne suisses: trente jours après l’expiration de chaque trimestre commercial, pour les intérêts échus pendant ce trimestre;
-- b.[^16-1] ...
+- b.[^16-1] …
 - c.[^16-2] sur les autres revenus de capitaux mobiliers, sur les gains provenant de jeux d’argent qui ne sont pas exonérés de l’impôt selon l’art. 24, let. i à i<sup>ter</sup>, LIFD[^16-3] et sur les gains provenant de jeux d’adresse ou de loteries destinés à promouvoir les ventes qui ne sont pas exonérés de l’impôt selon l’art. 24, let. j, LIFD: trente jours après la naissance de la créance fiscale (art. 12);
 - d. sur les prestations d’assurances: trente jours après l’expiration de chaque mois, pour les prestations exécutées pendant ce mois.
 
@@ -561,7 +561,7 @@ Les porteurs de parts d’un placement collectif au sens de la LPCC[^27-2] qui s
 
 <sup>3</sup> La demande peut être présentée auparavant lorsqu’il existe de justes motifs (fin de l’assujettissement, dissolution d’une personne morale, faillite, etc.) ou que des conséquences particulièrement rigoureuses le justifient.[^29-1]
 
-<sup>4</sup> ...[^29-2]
+<sup>4</sup> …[^29-2]
 
 [^29-1]: Nouvelle teneur selon le ch. I 3 de la LF du 22 mars 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 2397](https://fedlex.data.admin.ch/eli/oc/2013/504); [FF 2011 3381](https://fedlex.data.admin.ch/eli/fga/2011/525)).
 [^29-2]: Abrogé par le ch. I 3 de la LF du 22 mars 2013 sur la mise à jour formelle du calcul dans le temps de l’impôt direct dû par les personnes physiques, avec effet au 1<sup>er</sup> janv. 2014 ([RO 2013 2397](https://fedlex.data.admin.ch/eli/oc/2013/504); [FF 2011 3381](https://fedlex.data.admin.ch/eli/fga/2011/525)).
@@ -650,6 +650,20 @@ Les porteurs de parts d’un placement collectif au sens de la LPCC[^27-2] qui s
 
 [^35-1]: Modifié par le ch. III de la LF du 15 déc. 1989 relative à l’approbation d’actes législatifs des cantons par la Confédération, en vigueur depuis le 1<sup>er</sup> fév. 1991 ([RO 1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362); [FF 1988 II 1293](https://fedlex.data.admin.ch/eli/fga/1988/2_1333_1293_1149)).
 
+### 2*a*. Procédures électroniques prévues par les cantons
+
+#### Art. 35a
+
+[^35a-1]
+
+<sup>1</sup> Les cantons prévoient la possibilité de recourir à des procédures électroniques. Dans ce cadre, ils assurent conformément au droit cantonal l’authenticité et l’intégrité des données transmises.
+
+<sup>2</sup> Lorsqu’un écrit dont la signature est prescrite par la loi est déposé par voie électronique, les cantons prévoient, en lieu et place de la signature, la possibilité d’une confirmation électronique des données par le requérant.
+
+<sup>3</sup> Ils prévoient que l’autorité fiscale remet des documents au requérant sous forme électronique avec l’accord de ce dernier.
+
+[^35a-1]: Introduit par le ch. I 5 de la LF du 18 juin 2021 sur les procédures électroniques en matière d’impôts, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [FF 2020 4579](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
+
 ### II. Assistance administrative
 
 #### Art. 36
@@ -672,7 +686,7 @@ Les porteurs de parts d’un placement collectif au sens de la LPCC[^27-2] qui s
 
 <sup>1</sup> L’AFC gère, pour l’accomplissement des tâches qui lui incombent en vertu de la présente loi, un système d’information. Celui-ci peut contenir des données sensibles portant sur des sanctions administratives ou pénales importantes en matière fiscale.
 
-<sup>2</sup> L’AFC et les autorités citées à l’art. 36, al. 1, échangent les données qui peuvent être utiles à l’accomplissement de leurs tâches. Les autorités citées à l’art. 36, al. 2 et 4, communiquent à l’AFC les données qui peuvent être importantes pour l’exécution de la présente loi. ...[^36a-2]
+<sup>2</sup> L’AFC et les autorités citées à l’art. 36, al. 1, échangent les données qui peuvent être utiles à l’accomplissement de leurs tâches. Les autorités citées à l’art. 36, al. 2 et 4, communiquent à l’AFC les données qui peuvent être importantes pour l’exécution de la présente loi. …[^36a-2]
 
 <sup>3</sup> Les données sont communiquées dans des cas d’espèce ou sous forme de listes ou encore sur des supports de données électroniques. Elles peuvent également être rendues accessibles au moyen d’une procédure d’appel. Cette assistance administrative est gratuite.
 
@@ -822,7 +836,7 @@ L’AFC rend toutes les décisions qui sont nécessaires pour la perception de l
 
 <sup>1</sup> Si un contribuable qui n’a pas encore exécuté son obligation de mettre l’impôt à la charge du bénéficiaire est déclaré en faillite ou si, dans une poursuite engagée contre lui, la saisie est requise, ses droits de recours passent à la Confédération jusqu’à concurrence de l’impôt non encore payé.
 
-<sup>2</sup> ...[^46-1]
+<sup>2</sup> …[^46-1]
 
 [^46-1]: Abrogé par l’annexe ch. 12 de la LF du 16 déc. 1994, avec effet au 1<sup>er</sup> janv. 1997 ([RO 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
@@ -844,7 +858,7 @@ L’AFC peut demander des sûretés pour les impôts, intérêts et frais, même
 
 <sup>4</sup> Le recours contre de telles décisions n’a pas d’effet suspensif.[^47-4]
 
-<sup>5</sup> ...[^47-5]
+<sup>5</sup> …[^47-5]
 
 [^47-1]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
 [^47-2]: Nouvelle teneur selon l’annexe ch. 12 de la LF du 16 déc. 1994, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
@@ -999,9 +1013,9 @@ La décision de la commission cantonale de recours peut faire l’objet d’un r
 
 <sup>1</sup> Les art. 66 à 69 de la loi fédérale du 20 décembre 1968 sur la procédure administrative[^59-1] sont applicables par analogie à la revision et à l’interprétation des décisions de l’AFC et des autorités cantonales.[^59-2]
 
-<sup>2</sup> ...[^59-3]
+<sup>2</sup> …[^59-3]
 
-<sup>3</sup> ...[^59-4]
+<sup>3</sup> …[^59-4]
 
 [^59-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
 [^59-2]: Nouvelle teneur selon l’art. 52 de la LF du 27 juin 1973 sur les droits de timbre, en vigueur depuis le 1<sup>er</sup> juil. 1974 ([RO 1974 11](https://fedlex.data.admin.ch/eli/oc/1974/11_11_11); [FF 1972 II 1275](https://fedlex.data.admin.ch/eli/fga/1972/2_1278_1275_1068)).
@@ -1119,7 +1133,7 @@ Est puni d’une amende de 5000 francs au plus quiconque:
 
 #### Art. 68
 
-...[^68-1]
+…[^68-1]
 
 [^68-1]: Les mod. peuvent être consultées au [RO 1966 385](https://fedlex.data.admin.ch/eli/oc/1966/371_385_384).
 
@@ -1131,11 +1145,11 @@ Est puni d’une amende de 5000 francs au plus quiconque:
 
 <sup>1</sup> Les porteurs, domiciliés à l’étranger, d’obligations émises avant le 10 octobre 1921 par une collectivité de droit public suisse, avec la promesse que les intérêts en seront versés sans aucune déduction d’impôt, ont droit au remboursement de l’impôt anticipé déduit de ces intérêts.
 
-<sup>2</sup> ... [^69-1]
+<sup>2</sup> … [^69-1]
 
 [^69-1]: Abrogé par l’annexe ch. II 8 de la L du 23 juin 2006 sur les placements collectifs, avec effet au 1<sup>er</sup> janv. 2007 ([RO 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822); [FF 2005 5993](https://fedlex.data.admin.ch/eli/fga/2005/1000)).
 
-### II. ...
+### II. …
 
 #### Art. 70
 

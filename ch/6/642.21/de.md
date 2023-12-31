@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 13. Oktober 1965 über die Verrechnungssteuer (Verrechn
 short: VStG
 eli: "https://fedlex.data.admin.ch/eli/cc/1966/371_385_384"
 language: de
-version: 2023-02-01
+version: 2024-01-01
 adopted: 1965-10-13
 in_force: 1967-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/371_385_384/20230201/de/xml/fedlex-data-admin-ch-eli-cc-1966-371_385_384-20230201-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/20230201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/371_385_384/20240101/de/xml/fedlex-data-admin-ch-eli-cc-1966-371_385_384-20240101-de-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/20230201/de"
 
 (Verrechnungssteuergesetz, VStG)[^t-1]
 
-vom 13. Oktober 1965 (Stand am 1. Februar 2023)
+vom 13. Oktober 1965 (Stand am 1. Januar 2024)
 
 [^t-1]: Fassung gemäss Ziff. I des BG vom 15. Juni 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 5981](https://fedlex.data.admin.ch/eli/oc/2012/701); [BBl 2011 6615](https://fedlex.data.admin.ch/eli/fga/2011/1054)).
 
@@ -650,6 +650,20 @@ Ausländische Inhaber von Anteilen an einer kollektiven Kapitalanlage gemäss KA
 
 [^35-1]: Ausdruck gemäss Ziff. III des BG vom 15. Dez. 1989 über die Genehmigung kantonaler Erlasse durch den Bund, in Kraft seit 1. Febr. 1991 ([AS 1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362); [BBl 1988 II 1333](https://fedlex.data.admin.ch/eli/fga/1988/2_1333_1293_1149)).
 
+### 2*a*. Elektronische Verfahren im Kanton
+
+#### Art. 35a
+
+[^35a-1]
+
+<sup>1</sup> Die Kantone sehen die Möglichkeit elektronischer Verfahren vor. Dabei stellen sie die Authentizität und Integrität der übermittelten Daten nach kantonalem Recht sicher.
+
+<sup>2</sup> Sie sehen bei der elektronischen Einreichung von Eingaben, deren Unterzeichnung gesetzlich vorgeschrieben ist, anstelle der Unterzeichnung die Möglichkeit einer elektronischen Bestätigung der Angaben durch die antragstellende Person vor.
+
+<sup>3</sup> Sie sehen vor, dass die Steuerbehörde der antragstellenden Person mit deren Einverständnis Dokumente in elektronischer Form zustellt.
+
+[^35a-1]: Eingefügt durch Ziff. I 5 des BG vom 18. Juni 2021 über elektronische Verfahren im Steuerbereich, in Kraft seit 1. Jan. 2024 ([AS 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [BBl 2020 4705](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
+
 ### II. Amtshilfe
 
 #### Art. 36
@@ -1027,9 +1041,9 @@ Der Entscheid der kantonalen Rekurskommission kann durch Beschwerde beim Bundesg
 
 [^61-1]
 
-Wer vorsätzlich oder fahrlässig, zum eigenen oder zum Vorteil eines andern
-
 wird, sofern nicht die Strafbestimmung von Artikel 14 des Verwaltungsstrafrechtsgesetzes vom 22. März 1974[^61-2] zutrifft, wegen Hinterziehung mit Busse bis zu 30 000 Franken oder, sofern dies einen höheren Betrag ergibt, bis zum Dreifachen der hinterzogenen Steuer oder des unrechtmässigen Vorteils bestraft.
+
+Wer vorsätzlich oder fahrlässig, zum eigenen oder zum Vorteil eines andern:
 
 - a. dem Bunde Verrechnungssteuern vorenthält,
 - b. die Pflicht zur Meldung einer steuerbaren Leistung (Art. 19 und 20) nicht erfüllt oder eine unwahre Meldung erstattet,
