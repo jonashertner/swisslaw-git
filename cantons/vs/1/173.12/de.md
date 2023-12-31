@@ -3,33 +3,31 @@ canton: VS
 number: "173.12"
 title: Gesetz betreffend die Gehälter der Gerichtsbehörden und der Vertreter der Staatsanwaltschaft
 language: de
-version: 2013-01-01
-corrected: 2017-09-04
-version_adopted: 2012-09-13
+version: 2024-01-01
+version_adopted: 2023-09-07
 adopted: 2010-09-10
 in_force: 2011-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/173.12"
-pdf: "https://lex.vs.ch/api/de/versions/637/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/de/versions/3264/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Gesetz betreffend die Gehälter der Gerichtsbehörden und der Vertreter der Staatsanwaltschaft
 
-vom 10. September 2010
+vom 10.09.2010 (Stand 01.01.2024)
 
 Der Grosse Rat des Kantons Wallis
 
-eingesehen die Artikel 31 Absatz 1 Ziffer 1, 41 Ziffer 4, 42 Absatz 1 und 60ff. der Kantonsverfassung;
+eingesehen die Artikel 31 Absatz 1 Buchstabe a, 41 Absatz 1 Buchstabe d, 42 Absatz 1 und 60 und folgende der Kantonsverfassung;
 
 eingesehen das Gesetz über die Rechtspflege vom 11. Februar 2009;
 
 auf Antrag des Staatsrates,
 
-verordnet:[^t-1]
+verordnet:[^ingress-1]
 
-[^t-1]: Im vorliegenden Gesetz gilt jede Bezeichnung der Person, des Status oder der Funktion in gleicher Weise für Mann oder Frau.
+[^ingress-1]: Im vorliegenden Gesetz gilt jede Bezeichnung der Person, des Status oder der Funktion in gleicher Weise für Mann oder Frau.
 
 #### Art. 1
 
@@ -38,16 +36,14 @@ verordnet:[^t-1]
 <sup>1</sup> Das vorliegende Gesetz setzt die Gehälter fest:
 
 - a) der Gerichtsbehörden gemäss dem Gesetz über die Rechtspflege;
-
 - b) der Gerichtsschreiber;
-
-- c) der Vertreter der Staatsanwaltschaft gemäss dem Gesetz über die Rechtspflege;
+- c) der Vertreter der Staatsanwaltschaft gemäss dem Gesetz über die Rechtspflege.
 
 <sup>2</sup> Die Gehälter des administrativen Personals und der Hilfsangestellten werden gestützt auf die Besoldungstabelle für das Personal der kantonalen Verwaltung festgelegt, auf Vorschlag der Klassifikationskommission im Sinne des Artikels 7 des Gesetzes betreffend die Besoldung der Beamten und Angestellten des Staates Wallis, deren Zusammensetzung durch einen Vertreter des Kantonsgerichts und der Staatsanwaltschaft vervollständigt wird.
 
 <sup>3</sup> Diese Gehälter werden durch die Staatskasse bezahlt.
 
-<sup>4</sup> Die Entschädigung der Gemeinderichter und der Gerichtsschreiber dieser Behörde werden vom Gemeinderat festgelegt; sie geht zu Lasten der Gemeinde. <sup>2</sup>
+<sup>4</sup> Die Entschädigung der Gemeinderichter und der Gerichtsschreiber dieser Behörde werden vom Gemeinderat festgelegt; sie geht zu Lasten der Gemeinde.
 
 #### Art. 2
 
@@ -71,9 +67,7 @@ verordnet:[^t-1]
 
 <sup>4</sup> Bei der Ernennung eines erstinstanzlichen Richters setzt die Ernennungsbehörde die Anzahl Erfahrungsanteile unter Berücksichtigung der Art und der Dauer der bisherigen beruflichen Tätigkeit fest.
 
-**eine jährliche**
-
-<sup>5</sup> Erstinstanzliche Richter erhalten Repräsentationsentschädigung von 1'000 Franken.
+<sup>5</sup> Erstinstanzliche Richter erhalten eine jährliche Repräsentationsentschädigung von 1'000 Franken.
 
 <sup>6</sup> Die ausserhalb der normalen Arbeitszeiten zu Pikettdienst verpflichteten Magistraten erhalten eine Pauschalentschädigung von 150 Franken pro Woche.
 
@@ -81,7 +75,7 @@ verordnet:[^t-1]
 
 **Doyens der erstinstanzlichen Gerichte**
 
-Die Doyens der erstinstanzlichen Gerichte beziehen das Jahresgehalt eines erstinstanzlichen Richters zuzüglich einer indexierten jährlichen Pauschalentschädigung von 5'000 Franken.
+<sup>1</sup> Die Doyens der erstinstanzlichen Gerichte beziehen das Jahresgehalt eines erstinstanzlichen Richters zuzüglich einer indexierten jährlichen Pauschalentschädigung von 5'000 Franken.
 
 #### Art. 5
 
@@ -123,6 +117,8 @@ Die Doyens der erstinstanzlichen Gerichte beziehen das Jahresgehalt eines erstin
 
 <sup>5</sup> Das Jahresgehalt der Substituten I und II wird gemäss Artikel 5 festgelegt.
 
+<sup>6</sup> Das Jahresgehalt der Gerichtsschreiber I und II wird gemäss Artikel 6 festgelegt.
+
 #### Art. 8
 
 **Ersatzrichter am Kantonsgericht**
@@ -130,9 +126,7 @@ Die Doyens der erstinstanzlichen Gerichte beziehen das Jahresgehalt eines erstin
 <sup>1</sup> Ersatzrichter am Kantonsgericht beziehen nebst Spesenentschädigung folgende Entschädigungen:
 
 - a) 700 Franken pro Tag;
-
 - b) 350 Franken pro Halbtag;
-
 - c) 80 Franken pro Stunde, bis zu drei Stunden.
 
 <sup>2</sup> Zusätzlich wird dem Ersatzrichter, der den Rapport verfasst, eine Entschädigung von 700 Franken bis 2'700 Franken zugesprochen.
@@ -143,14 +137,12 @@ Die Doyens der erstinstanzlichen Gerichte beziehen das Jahresgehalt eines erstin
 
 #### Art. 9
 
-Ersatzrichter an erstinstanzlichen Gerichten und ausserordentliche Staatsanwälte
+**Ersatzrichter an erstinstanzlichen Gerichten, ausserordentliche Staatsanwälte und Beisitzer**
 
-<sup>1</sup> Ersatzrichter sowie Beisitzer an erstinstanzlichen Gerichten und ausserordentliche Staatsanwälte beziehen nebst Spesenentschädigung folgende Entschädigungen:
+<sup>1</sup> Ersatzrichter an erstinstanzlichen Gerichten sowie ausserordentliche Staatsanwälte und Beisitzer beziehen nebst Spesenentschädigung folgende Entschädigungen:
 
 - a) 500 Franken pro Tag;
-
 - b) 300 Franken pro Halbtag;
-
 - c) 70 Franken pro Stunde, bis zu drei Stunden.
 
 <sup>2</sup> Zusätzlich wird für das Verfassen des Rapports oder des Urteils eine Entschädigung von 200 Franken bis 1'400 Franken zugesprochen.
@@ -163,7 +155,7 @@ Ersatzrichter an erstinstanzlichen Gerichten und ausserordentliche Staatsanwält
 
 **Aushilfsgerichtsschreiber**
 
-Das Kantonsgericht setzt den Lohn der Aushilfsgerichtsschreiber aufgrund ihrer Fähigkeiten und ihrer Erfahrung fest, wobei dieser die Besoldungsklasse eines Gerichtsschreibers I des Kantonsgerichts nicht übersteigen darf.
+<sup>1</sup> Das Kantonsgericht setzt den Lohn der Aushilfsgerichtsschreiber aufgrund ihrer Fähigkeiten und ihrer Erfahrung fest, wobei dieser die Besoldungsklasse eines Gerichtsschreibers I des Kantonsgerichts nicht übersteigen darf.
 
 #### Art. 11
 
@@ -174,14 +166,13 @@ Das Kantonsgericht setzt den Lohn der Aushilfsgerichtsschreiber aufgrund ihrer F
 <sup>2</sup> Der Betrag der monatlichen Entschädigung wird festgelegt:
 
 - a) vom Kantonsgericht, gegebenenfalls auf Vorschlag des Doyens des erstinstanzlichen Gerichts;
-
 - b) vom Generalstaatsanwalt, gegebenenfalls auf Vorschlag des Oberstaatsanwalts.
 
 #### Art. 12
 
 **Reiseentschädigungen**
 
-Die Gerichtsbehörden, die Gerichtsschreiber und die Vertreter der Staatsanwaltschaft beziehen dieselben Reiseentschädigungen wie das Personal der kantonalen Verwaltung.
+<sup>1</sup> Die Gerichtsbehörden, die Gerichtsschreiber und die Vertreter der Staatsanwaltschaft beziehen dieselben Reiseentschädigungen wie das Personal der kantonalen Verwaltung.
 
 #### Art. 13
 
@@ -192,7 +183,6 @@ Die Gerichtsbehörden, die Gerichtsschreiber und die Vertreter der Staatsanwalts
 <sup>2</sup> Die Spesenabrechnung ist in zweifacher Ausfertigung zu richten an:
 
 - a) das Kantonsgericht für alle Gerichte;
-
 - b) den Generalstaatsanwalt für alle Ämter der Staatsanwaltschaft.
 
 #### Art. 14
@@ -201,9 +191,9 @@ Die Gerichtsbehörden, die Gerichtsschreiber und die Vertreter der Staatsanwalts
 
 <sup>1</sup> Die jährliche Besoldung wird in zwölf monatlichen Zahlungen überwiesen. Dazu kommt ein 13. Monatslohn, der einem Monatsgehalt entspricht und im Monat Dezember ausbezahlt wird.
 
-<sup>2</sup> Die im vorliegenden Gesetz festgesetzten Gehälter entsprechen 103,6 Punkten des Schweizer Landesindexes der Konsumentenpreise vom 1. Januar 2010.
+<sup>2</sup> Die im vorliegenden Gesetz festgesetzten Gehälter entsprechen 103.6 Punkten des Schweizer Landesindexes der Konsumentenpreise vom 1. Januar 2010.
 
-<sup>3</sup> Die in den Artikeln 3 Absatz 6, 8, 9 und 11 vorgesehenen Entschädigungen werden jeweils dem Schweizerischen Landesindex der Konsumentenpreise angepasst, sobald sich dieser um 5 Punkte erhöht hat (Basis Index 2010: 103,6).
+<sup>3</sup> Die in den Artikeln 3 Absatz 6, 8, 9 und 11 vorgesehenen Entschädigungen werden jeweils dem Schweizerischen Landesindex der Konsumentenpreise angepasst, sobald sich dieser um 5 Punkte erhöht hat (Basis Index 2010: 103.6).
 
 <sup>4</sup> Die Gerichtsbehörden, die Gerichtsschreiber und die Vertreter der Staatsanwaltschaft erhalten zusätzlich zum Grundgehalt die Sozial- und Teuerungszulagen sowie die Gehaltsansprüche im Krankheitsfall entsprechend den für das Personal der kantonalen Verwaltung geltenden Bestimmungen.
 
@@ -218,7 +208,6 @@ Die Gerichtsbehörden, die Gerichtsschreiber und die Vertreter der Staatsanwalts
 <sup>2</sup> Ab dem Inkrafttreten des vorliegenden Gesetzes beziehen:
 
 - a) der Generalstaatsanwalt das Jahresgehalt eines Kantonsrichters;
-
 - b) der Doyen eines erstinstanzlichen Gerichts, der Generalstaatsanwalt-Stellvertreter und die Oberstaatsanwälte die im vorliegenden Gesetz festgelegten jährlichen Pauschalentschädigungen.
 
 <sup>3</sup> Das Gehalt der vor dem Inkrafttreten des vorliegenden Gesetzes amtierenden Gerichtsschreiber I des Kantonsgerichts wird durch die bisherigen Bestimmungen geregelt.
@@ -229,43 +218,9 @@ Die Gerichtsbehörden, die Gerichtsschreiber und die Vertreter der Staatsanwalts
 
 **Änderung bisherigen Rechts - Berufliche Vorsorge**
 
-- 1\. Das Gesetz über die berufliche Vorsorge der Magistraten der Exekutive, der Justiz und der Staatsanwaltschaft vom 23. Juni 1999 wird wie folgt geändert:
+<sup>1</sup> Das Gesetz über die berufliche Vorsorge der Magistraten der Exekutive, der Justiz und der Staatsanwaltschaft vom 23. Juni 1999 wird geändert.
 
-#### Art. 2
-
-**Abs. 3 Magistraten der Gerichte und der Staatsanwaltschaft und**
-
-Staatskanzler
-
-<sup>3</sup> Weil das Besoldungssystem für bestimmte Kategorien von Magistraten keine Lohnentwicklung vorsieht, wird für diese im Vergleich zu den übrigen Versicherten eine angemessene Ermässigung auf den Beitragssatz gewährt.
-
-- 2\. Das Gesetz über die staatlichen Vorsorgeeinrichtungen vom 1 Oktober 2006 wird wie folgt geändert:
-
-#### Art. 15
-
-**Abs. 1 Ordentliches Rücktrittsalter**
-
-<sup>1</sup> Das ordentliche Rücktrittsalter wird für alle Versicherten auf 62 Jahre festgelegt. Davon ausgenommen bleibt das Personal der Strafanstalten und der Kantonspolizei, für welches das Rücktrittsalter auf 60 Jahre festgelegt wird.
-
-#### Art. 17
-
-**Abs. 1 Beiträge der Arbeitgeber**
-
-<sup>1</sup> Die ordentlichen Beitragssätze der Arbeitgeber werden wie folgt festgelegt:
-
-- a) ordentliches Rücktrittsalter von 62 Jahren: 11.7 Prozent bzw. 11.1 Prozent für die Kantonsrichter und den Generalstaatsanwalt;
-
-- b) ordentliches Rücktrittsalter von 60 Jahren: 13.3 Prozent.
-
-#### Art. 18
-
-**Beiträge der Versicherten**
-
-Die Beitragssätze der Versicherten werden wie folgt festgelegt:
-
-- a) ordentliches Rücktrittsalter von 62 Jahren: 8.8 Prozent bzw. 8.4 Prozent für die Kantonsrichter und den Generalstaatsanwalt;
-
-- b) ordentliches Rücktrittsalter von 60 Jahren: 9.8 Prozent.
+<sup>2</sup> Das Gesetz über die staatlichen Vorsorgeeinrichtungen vom 1 Oktober 2006 wird geändert.
 
 #### Art. 17
 
@@ -275,9 +230,8 @@ Die Beitragssätze der Versicherten werden wie folgt festgelegt:
 
 <sup>2</sup> Für die Gerichtsbehörden und die Vertreter der Staatsanwaltschaft, die nach dem System des pauschalen Jahresgehalts entschädigt werden, werden folgende Beiträge zur beruflichen Vorsorge festgelegt:
 
-- a) ordentliches Rücktrittsalter von 62 Jahren: 11,1 Prozent Arbeitgeberbeiträge und 8,4 Prozent Arbeitnehmerbeiträge;
-
-- b) ordentliches Rücktrittsalter von 60 Jahren: 12,7 Prozent Arbeitgeberbeiträge und 9.4 Prozent Arbeitnehmerbeiträge.
+- a) ordentliches Rücktrittsalter von 62 Jahren: 11.1 Prozent Arbeitgeberbeiträge und 8.4 Prozent Arbeitnehmerbeiträge;
+- b) ordentliches Rücktrittsalter von 60 Jahren: 12.7 Prozent Arbeitgeberbeiträge und 9.4 Prozent Arbeitnehmerbeiträge.
 
 #### Art. 18
 
@@ -289,72 +243,52 @@ Die Beitragssätze der Versicherten werden wie folgt festgelegt:
 
 <sup>3</sup> Der Staatsrat bestimmt den Zeitpunkt seines Inkrafttretens.
 
-So angenommen in einziger Lesung (Art. 101 RGR) im Grossen Rat in Sitten, den 10. September 2010.
+## A1 Anhang 1 zu Artikel 2 Absatz 1
 
-Der Präsident des Grossen Rates: Jean-François Copt Der Chef des Parlamentsdienstes: Claude Bumann
+#### Art. A1-1
 
-### Titel und Änderungen Veröffentlichung Inkrafftreten
+**Lohntabelle der Gerichtsbehörden und der Vertreter der Staatsanwaltschaft**
 
-**1.01.2011**
+<sup>1</sup> Basis Index 2010: 103.6 Punkte
 
-Abl. Nr. 52/2012
+<table>
+<tr><th>Funktion</th><th>Jahresgehalt (inklusive 13. Monatslohn)</th></tr>
+<tr><td>Präsident Kantonsgericht\*\*</td><td>Fr. 201'158.75</td></tr>
+<tr><td>Kantonsrichter</td><td>Fr. 201'158.75</td></tr>
+<tr><td>Generalstaatsanwalt\*\*</td><td>Fr. 201'158.75</td></tr>
+<tr><td>\*\*Zusätzliche Pauschale</td><td>Der Inhaber dieses Amtes bezieht eine zusätzliche jährliche Pauschalentschädigung von Fr. 5'000.- die indexiert wird</td></tr>
+</table>
 
-## Anhang 1
+## A2 Anhang 2 zu den Artikeln 3 Absatz 1, 5 Absatz 1 und 6 Absatz 1
 
-### Lohntabelle der Gerichtsbehörden und der Vertreter der Staatsanwaltschaft
+#### Art. A2-1
 
-Basis Index 2010: 103.6 Punkte
+**Lohntabelle der Gerichtsbehörden und der Vertreter der Staatsanwaltschaft**
 
-### Funktion Jahresgehalt (inklusive 13. Monatslohn)
+<sup>1</sup> Basis Index 2010: 103.6 Punkte
 
-**201'158.75 201'158.75 201'158.75**
+<table>
+<tr><th>Funktion</th><th>Minimum Jahresgehalt (inklusive 13. Monatslohn)</th><th>Maximum Jahresgehalt (inklusive 13. Monatslohn)</th></tr>
+<tr><td>1. Kantonsgericht:</td><td></td><td></td></tr>
+<tr><td>Gerichtsschreiber I (Klasse 2)</td><td>Fr. 123'483.10</td><td>Fr. 172'876.35</td></tr>
+<tr><td>Gerichtsschreiber II (Klasse 3)</td><td>Fr. 119'423.85</td><td>Fr. 167'193.40</td></tr>
+<tr><td>2. Erstinstanzliche Gerichte:</td><td></td><td></td></tr>
+<tr><td>Doyen eines erstinstanzlichen Gerichts\*\*</td><td>Fr. 135'344.40</td><td>Fr. 189'481.90</td></tr>
+<tr><td>Bezirksrichter</td><td>Fr. 135'344.40</td><td>Fr. 189'481.90</td></tr>
+<tr><td>Jugendrichter</td><td>Fr. 135'344.40</td><td>Fr. 189'481.90</td></tr>
+<tr><td>Zwangsmassnahmenrichter</td><td>Fr. 135'344.40</td><td>Fr. 189'481.90</td></tr>
+<tr><td>Straf- und Massnahmenvollzugsrichter</td><td>Fr. 135'344.40</td><td>Fr. 189'481.90</td></tr>
+<tr><td>Gerichtsschreiber I (Klasse 4)</td><td>Fr. 115'499.15</td><td>Fr. 161'698.80</td></tr>
+<tr><td>Gerichtsschreiber II (Klasse 5)</td><td>Fr. 111'699.90</td><td>Fr. 156'379.85</td></tr>
+<tr><td>3. Staatsanwaltschaft:</td><td></td><td></td></tr>
+<tr><td>Generalstaatsanwalt- Stellvertreter\*\*</td><td>Fr. 135'344.40</td><td>Fr. 189'481.90</td></tr>
+<tr><td>Oberstaatsanwalt\*\*</td><td>Fr. 135'344.40</td><td>Fr. 189'481.90</td></tr>
+<tr><td>Staatsanwalt</td><td>Fr. 135'344.40</td><td>Fr. 189'481.90</td></tr>
+<tr><td>Substitut I (Klasse 2)</td><td>Fr. 123'483.10</td><td>Fr. 172'876.35</td></tr>
+<tr><td>Substitut II (Klasse 3)</td><td>Fr. 119'423.85</td><td>Fr. 167'193.40</td></tr>
+<tr><td>Gerichtsschreiber I (Klasse 4)</td><td>Fr. 115'499.15</td><td>Fr. 161'698.80</td></tr>
+<tr><td>Gerichtsschreiber II (Klasse 5)</td><td>Fr. 111'699.90</td><td>Fr. 156'379.85</td></tr>
+<tr><td>\*\*Zusätzliche Pauschale</td><td>Der Inhaber dieses Amtes bezieht eine zusätzliche jährliche Pauschalentschädigung von Fr. 5'000.-, die indexiert wird.</td><td>Der Inhaber dieses Amtes bezieht eine zusätzliche jährliche Pauschalentschädigung von Fr. 5'000.-, die indexiert wird.</td></tr>
+</table>
 
-Präsident Kantonsgericht \* Kantonsrichter Generalstaatsanwalt \* \* Zusätzliche Pauschale Der Inhaber dieses Amtes bezieht eine zusätzliche jährliche Pauschalentschädigung von Fr. 5'000.- die indexiert wird
-
-## Anhang 2
-
-### Lohntabelle der Gerichtsbehörden und der Vertreter der Staatsanwaltschaft
-
-Basis Index 2010: 103.6 Punkte
-
-### Funktion Jahresgehalt (inklusive 13. Monatslohn)
-
-**maximum**
-
-minimum
-
-### Kantonsgericht
-
-**172'876.35**
-
-Gerichtsschreiber I 123'483.10 (Klasse 2) Gerichtsschreiber II 119'423.85 (Klasse 3)
-
-**167'193.40**
-
-### Erstinstanzliche Gerichte
-
-**189'481.90**
-
-Doyen eines 135'344.40 erstinstanzlichen Gericht s \* Bezirksrichter 135'344.40 Jugendrichter 135'344.40 Zwangsmassnahmenricht 135'344.40 er Straf- und Massnahmenv 135'344.40 ollzugsrichter Gerichtsschreiber I 115'499.15 (Klasse 4) Gerichtsschreiber II 111'699.90 (Klasse 5)
-
-**189'481.90 189'481.90 189'481.90**
-
-**189'481.90**
-
-**161'698.80**
-
-**156'379.85**
-
-### Staatsanwaltschaft
-
-**189'481.90**
-
-Generalstaatsanwalt-Stell 135'344.40 vertreter \* Oberstaatsanwalt \* 135'344.40 Staatsanwalt 135'344.40 Substitut I (Klasse 2) 123'483.10 Substitut II (Klasse 3) 119'423.85 \* Zusätzliche Pauschale Der Inhaber dieses Amtes bezieht eine zusätzliche jährliche Pauschalent-schädigung von Fr. 5'000.-,
-
-**189'481.90 189'481.90 172'876.35 167'193.40**
-
-die indexiert wird.
-
-## Weitere Fussnoten
-
-- [2] Fassung gemäss Ziff. I des Gesetzes zur Abl. Nr. 39/2012 1.01.2013 Änderung des geltenden Rechts betreffend die Verfolgung und Beurteilung von Übertretungen des kantonalen und kommunalen Rechts und die Verhängung von Ordnungsbussen vom 13.09.2012
+CSW BO/Abl. 38/2010, 52/2010
