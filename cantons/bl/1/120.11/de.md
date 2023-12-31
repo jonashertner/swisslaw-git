@@ -4,13 +4,12 @@ number: "120.11"
 title: Verordnung zum Gesetz über die politischen Rechte
 short: Vo GpR
 language: de
-version: 2023-01-01
-valid_until: 2023-12-31
-version_adopted: 2022-10-18
+version: 2024-01-01
+version_adopted: 2023-11-28
 adopted: 1991-12-17
 in_force: 1992-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/120.11"
-pdf: "https://bl.clex.ch/api/de/versions/3725/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3830/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3725/pdf_file"
 
 (Vo GpR)
 
-Vom 17.12.1991 (Stand 01.01.2023)
+Vom 17.12.1991 (Stand 01.01.2024)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -150,6 +149,12 @@ beschliesst:
 **Einreichung von Unterschriftenlisten**
 
 <sup>1</sup> Die Unterschriftenlisten für kantonale Initiativen und Referenden sind getrennt nach Gemeinden gesamthaft der Landeskanzlei einzureichen. Nachlieferungen sind unzulässig.
+
+#### § 9a
+
+**Unterzeichnung für schreibunfähige Stimmberechtigte**
+
+<sup>1</sup> Stimmberechtigte, die eine Initiative oder ein Referendum für andere, schreibunfähige Stimmberechtigte unterzeichnen, tragen deren Personalien vollständig in die Unterschriftenliste ein. In der Rubrik «eigenhändige Unterschrift» tragen sie in Blockschrift samt dem Hinweis «im Auftrag / i. A.» ihre eigenen Namen und Vornamen ein und fügen ihre eigene Unterschrift bei.
 
 #### § 10
 
