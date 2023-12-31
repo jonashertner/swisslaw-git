@@ -3,11 +3,11 @@ sr: "631.014"
 title: Verordnung des EFD vom 25. Juni 2021 über die Verzugs- und die Vergütungszinssätze auf Abgaben und Steuern (Zinssatzverordnung EFD)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/432"
 language: de
-version: 2022-01-01
+version: 2024-01-01
 adopted: 2021-06-25
 in_force: 2022-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/432/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2021-432-20220101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/432/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/432/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2021-432-20240101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/432/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/432/20220101/de"
 
 (Zinssatzverordnung EFD)
 
-vom 25. Juni 2021 (Stand am 1. Januar 2022)
+vom 25. Juni 2021 (Stand am 1. Januar 2024)
 
 Das Eidgenössische Finanzdepartement (EFD),
 
@@ -82,50 +82,72 @@ Die folgenden Erlasse werden aufgehoben:
 
 #### Art. 3
 
-…*[^3-1]*
+…[^3-1]
 
-[^3-1]: Die Änderung kann unter [AS 2021 432](https://fedlex.data.admin.ch/eli/oc/2021/432)konsultiert wird.
+[^3-1]: Die Änderung kann unter [AS 2021 432](https://fedlex.data.admin.ch/eli/oc/2021/432)konsultiert werden.
 
 #### Art. 4
+
+[^4-1]
 
 <sup>1</sup>
 
 Für den Zoll, die Mehrwertsteuer, die Mineralölsteuer, die leistungsabhängige Schwerverkehrsabgabe und die Steuer auf gebrannten Wassern betragen die Zinssätze pro Jahr:
 
-- a. 4,0 % für den Vergütungs- und den Verzugszins vom 1. Januar 2012 bis zum 31. Dezember 2021;
-- b. 4,5 % für den Vergütungs- und den Verzugszins vom 1. Januar 2010 bis zum 31. Dezember 2011;
-- c. 5 % für den Vergütungs- und den Verzugszins vom 1. Januar 1995 bis zum 31. Dezember 2009;
-- d. 6 % für den Verzugszins vom 1. Juli 1990 bis zum 31. Dezember 1994;
-- e. 5 % für den Verzugszins bis zum 30. Juni 1990.
+- a. 4,0 Prozent für den Vergütungs- und den Verzugszins vom 1. Januar 2012 bis zum 31. Dezember 2023;
+- b. 4,5 Prozent für den Vergütungs- und den Verzugszins vom 1. Januar 2010 bis zum 31. Dezember 2011;
+- c. 5,0 Prozent für den Vergütungs- und den Verzugszins vom 1. Januar 1995 bis zum 31. Dezember 2009;
+- d. 6,0 Prozent für den Verzugszins vom 1. Juli 1990 bis zum 31. Dezember 1994;
+- e. 5,0 Prozent für den Verzugszins bis zum 30. Juni 1990.
 
-<sup>2</sup> Für die Stempelabgabe und die Verrechnungssteuer, die vor dem 1. Januar 2022 fällig geworden sind, ist für die Zeit bis zum 31. Dezember 2021 der Verzugszinssatz von 5 % anwendbar.
+<sup>2</sup>
+
+Für die Stempelabgabe und die Verrechnungssteuer betragen die Verzugszinssätze pro Jahr:
+
+- a. 4,0 Prozent vom 1. Januar 2022 bis zum 31. Dezember 2023;
+- b. 5,0 Prozent bis zum 31. Dezember 2021.
 
 <sup>3</sup>
 
 Für die direkte Bundessteuer betragen die Verzugs- und die Rückerstattungszinssätze sowie die Vergütungszinssätze für Vorauszahlungen pro Jahr:
 
-- a. 3,0 % für den Verzugs- und den Rückerstattungszins sowie 0 % für den Vergütungszins vom 1. Januar 2017 bis zum 31. Dezember 2021;
-- b. 3,0 % für den Verzugs- und den Rückerstattungszins sowie 0,25 % für den Vergütungszins vom 1. Januar 2013 bis zum 31. Dezember 2016;
-- c. 3,0 % für den Verzugs- und den Rückerstattungszins sowie 1,0 % für den Vergütungszins im Jahr 2012;
-- d. 3,5 % für den Verzugs- und den Rückerstattungszins sowie 1,0 % für den Vergütungszins im Jahr 2011.
+- a. 4,0 Prozent für den Verzugs- und den Rückerstattungszins sowie 0 Prozent für den Vergütungszins vom 1. Januar 2022 bis zum 31. Dezember 2023;
+- b. 3,0 Prozent für den Verzugs- und den Rückerstattungszins sowie 0 Prozent für den Vergütungszins vom 1. Januar 2017 bis zum 31. Dezember 2021;
+- c. 3,0 Prozent für den Verzugs- und den Rückerstattungszins sowie 0,25 Prozent für den Vergütungszins vom 1. Januar 2013 bis zum 31. Dezember 2016;
+- d. 3,0 Prozent für den Verzugs- und den Rückerstattungszins sowie 1,0 Prozent für den Vergütungszins im Jahr 2012;
+- e. 3,5 Prozent für den Verzugs- und den Rückerstattungszins sowie 1,0 Prozent für den Vergütungszins im Jahr 2011.
 
-<sup>4</sup> Für die Tabaksteuer und die Biersteuer ist für die Zeit bis zum 31. Dezember 2021 der Vergütungs- und der Verzugszinssatz von 5 % anwendbar.
+<sup>4</sup>
 
-<sup>5</sup> Für die Automobilsteuer ist für die Zeit bis zum 31. Dezember 2021 der Verzugszinssatz von 5 % anwendbar.
+Für die Tabaksteuer und die Biersteuer betragen die Vergütungs- und die Verzugszinssätze pro Jahr:
+
+- a. 4,0 Prozent vom 1. Januar 2022 bis zum 31. Dezember 2023;
+- b. 5,0 Prozent bis zum 31. Dezember 2021.
+
+<sup>5</sup>
+
+Für die Automobilsteuer betragen die Verzugszinssätze pro Jahr:
+
+- a. 4,0 Prozent vom 1. Januar 2022 bis zum 31. Dezember 2023;
+- b. 5,0 Prozent bis zum 31. Dezember 2021.
+
+[^4-1]: Fassung gemäss Ziff. I der V des EFD vom 11. Sept. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 534](https://fedlex.data.admin.ch/eli/oc/2023/534)).
 
 #### Art. 5
 
 Diese Verordnung tritt am 1. Januar 2022 in Kraft.
 
-Anhang
+Anhang[^t-1]
 
 (Art. 1 Abs. 2)
 
 ## Verzugs- und Vergütungszinssätze
 
-Für die Kalenderjahre ab 2022 gelten folgende Zinssätze:
+[^t-1]: Fassung gemäss Ziff. II der V des EFD vom 11. Sept. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 534](https://fedlex.data.admin.ch/eli/oc/2023/534)).
+
+Für die Kalenderjahre ab 2024 gelten folgende Zinssätze:
 
 <table>
 <tr><th>Gültig für (Kalenderjahr ab)</th><th>Verzugszins (in Prozenten)</th><th>Vergütungszins auf Rückerstattungen (in Prozenten)</th><th>Vergütungszins auf freiwilligen Vorauszahlungen (in Prozenten)</th></tr>
-<tr><td>2022</td><td>4,0</td><td>4,0</td><td>0,0</td></tr>
+<tr><td>2024</td><td>4,75</td><td>4,75</td><td>1,25</td></tr>
 </table>

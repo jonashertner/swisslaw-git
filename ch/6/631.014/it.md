@@ -3,11 +3,11 @@ sr: "631.014"
 title: Ordinanza del DFF del 25 giugno 2021 concernente gli interessi moratori e rimuneratori su tasse e imposte (Ordinanza del DFF sui tassi d’interesse)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/432"
 language: it
-version: 2022-01-01
+version: 2024-01-01
 adopted: 2021-06-25
 in_force: 2022-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/432/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2021-432-20220101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/432/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/432/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2021-432-20240101-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/432/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/432/20220101/it"
 
 (Ordinanza del DFF sui tassi d’interesse)
 
-del 25 giugno 2021 (Stato 1° gennaio 2022)
+del 25 giugno 2021 (Stato 1° gennaio 2024)
 
 Il Dipartimento federale delle finanze (DFF),
 
@@ -75,8 +75,8 @@ I seguenti atti normativi sono abrogati:
 - 5\. l’ordinanza del 29 novembre 1996[^2-5] concernente l’interesse di mora in materia d’imposta preventiva.
 
 [^2-1]: [[RU 1996 3370](https://fedlex.data.admin.ch/eli/oc/1996/3370_3370_3370)]
-[^2-2]: [[RU 2009 6835](https://fedlex.data.admin.ch/eli/oc/2009/834), [2011 6203](https://fedlex.data.admin.ch/eli/oc/2011/869), [2013 4489](https://fedlex.data.admin.ch/eli/oc/2013/793)art. 13, [2016 3573](https://fedlex.data.admin.ch/eli/oc/2016/602), [2017 5161](https://fedlex.data.admin.ch/eli/oc/2017/568)all. 2 n. II 8, [2018 1519](https://fedlex.data.admin.ch/eli/oc/2018/229)]
-[^2-3]: [[RU 2007 6823](https://fedlex.data.admin.ch/eli/oc/2007/875), [2009 5595](https://fedlex.data.admin.ch/eli/oc/2009/678)]
+[^2-2]: [[RU 2009 6835](https://fedlex.data.admin.ch/eli/oc/2009/834); [2011 6203](https://fedlex.data.admin.ch/eli/oc/2011/869); [2013 4489](https://fedlex.data.admin.ch/eli/oc/2013/793)art. 13; [2016 3573](https://fedlex.data.admin.ch/eli/oc/2016/602); [2017 5161](https://fedlex.data.admin.ch/eli/oc/2017/568)all. 2 n. II 8; [2018 1519](https://fedlex.data.admin.ch/eli/oc/2018/229)]
+[^2-3]: [[RU 2007 6823](https://fedlex.data.admin.ch/eli/oc/2007/875); [2009 5595](https://fedlex.data.admin.ch/eli/oc/2009/678)]
 [^2-4]: [[RU 2001 3382](https://fedlex.data.admin.ch/eli/oc/2001/506)]
 [^2-5]: [[RU 1996 3432](https://fedlex.data.admin.ch/eli/oc/1996/3432_3432_3432)]
 
@@ -88,44 +88,66 @@ I seguenti atti normativi sono abrogati:
 
 #### Art. 4
 
+[^4-1]
+
 <sup>1</sup>
 
 Nel caso dei dazi, dell’imposta sul valore aggiunto, dell’imposta sugli oli minerali, della tassa sul traffico pesante commisurata alle prestazioni e dell’imposta sulle bevande distillate i tassi d’interesse annui ammontano al:
 
-- a. 4,0 per cento per l’interesse rimuneratorio e l’interesse moratorio dal 1° gennaio 2012 al 31 dicembre 2021;
+- a. 4,0 per cento per l’interesse rimuneratorio e l’interesse moratorio dal 1° gennaio 2012 al 31 dicembre 2023;
 - b. 4,5 per cento per l’interesse rimuneratorio e l’interesse moratorio dal 1° gennaio 2010 al 31 dicembre 2011;
-- c. 5 per cento per l’interesse rimuneratorio e l’interesse moratorio dal 1° gennaio 1995 al 31 dicembre 2009;
-- d. 6 per cento per l’interesse moratorio dal 1° luglio 1990 al 31 dicembre 1994;
-- e. 5 per cento per l’interesse moratorio fino al 30 giugno 1990.
+- c. 5,0 per cento per l’interesse rimuneratorio e l’interesse moratorio dal 1° gennaio 1995 al 31 dicembre 2009;
+- d. 6,0 per cento per l’interesse moratorio dal 1° luglio 1990 al 31 dicembre 1994;
+- e. 5,0 per cento per l’interesse moratorio fino al 30 giugno 1990.
 
-<sup>2</sup> Nel caso delle tasse di bollo e dell’imposta preventiva divenute esigibili prima del 1° gennaio 2022, il tasso dell’interesse moratorio ammonta al 5 per cento fino al 31 dicembre 2021.
+<sup>2</sup>
+
+Nel caso delle tasse di bollo e dell’imposta preventiva i tassi annui dell’interesse moratorio ammontano al:
+
+- a. 4,0 per cento dal 1° gennaio 2022 al 31 dicembre 2023;
+- b. 5,0 per cento fino al 31 dicembre 2021.
 
 <sup>3</sup>
 
 Nel caso dell’imposta federale diretta i tassi annui dell’interesse moratorio e dell’interesse sulle eccedenze d’imposta da restituire nonché i tassi annui dell’interesse rimuneratorio sui pagamenti anticipati ammontano:
 
-- a. dal 1° gennaio 2017 al 31 dicembre 2021, al 3,0 per cento per l’interesse moratorio e l’interesse sulle eccedenze d’imposta da restituire e allo 0 per cento per l’interesse rimuneratorio;
-- b. dal 1° gennaio 2013 al 31 dicembre 2016, al 3,0 per cento per l’interesse moratorio e l’interesse sulle eccedenze d’imposta da restituire e allo 0,25 per cento per l’interesse rimuneratorio;
-- c. nel 2012, al 3,0 per cento per l’interesse moratorio e l’interesse sulle eccedenze d’imposta da restituire e all’1,0 per cento per l’interesse rimuneratorio;
-- d. nel 2011, al 3,5 per cento per l’interesse moratorio e l’interesse sulle eccedenze d’imposta da restituire e all’1,0 per cento per l’interesse rimuneratorio.
+- a. dal 1° gennaio 2022 al 31 dicembre 2023, al 4,0 per cento per l’interesse moratorio e l’interesse sulle eccedenze d’imposta da restituire e allo 0 per cento per l’interesse rimuneratorio;
+- b. dal 1° gennaio 2017 al 31 dicembre 2021, al 3,0 per cento per l’interesse moratorio e l’interesse sulle eccedenze d’imposta da restituire e allo 0 per cento per l’interesse rimuneratorio;
+- c. dal 1° gennaio 2013 al 31 dicembre 2016, al 3,0 per cento per l’interesse moratorio e l’interesse sulle eccedenze d’imposta da restituire e allo 0,25 per cento per l’interesse rimuneratorio;
+- d. nel 2012, al 3,0 per cento per l’interesse moratorio e l’interesse sulle eccedenze d’imposta da restituire e all’1,0 per cento per l’interesse rimuneratorio;
+- e. nel 2011, al 3,5 per cento per l’interesse moratorio e l’interesse sulle eccedenze d’imposta da restituire e all’1,0 per cento per l’interesse rimuneratorio.
 
-<sup>4</sup> Nel caso dell’imposta sul tabacco e dell’imposta sulla birra il tasso dell’interesse rimuneratorio e dell’interesse moratorio ammonta al 5 per cento fino al 31 dicembre 2021.
+<sup>4</sup>
 
-<sup>5</sup> Nel caso dell’imposta sugli autoveicoli il tasso dell’interesse moratorio ammonta al 5 per cento fino al 31 dicembre 2021.
+Nel caso dell’imposta sul tabacco e dell’imposta sulla birra i tassi annui dell’interesse rimuneratorio e dell’interesse moratorio ammontano al:
+
+- a. 4,0 per cento dal 1° gennaio 2022 al 31 dicembre 2023;
+- b. 5,0 per cento fino al 31 dicembre 2021.
+
+<sup>5</sup>
+
+Nel caso dell’imposta sugli autoveicoli i tassi annui dell’interesse moratorio ammontano al:
+
+- a. 4,0 per cento dal 1° gennaio 2022 al 31 dicembre 2023;
+- b. 5,0 per cento fino al 31 dicembre 2021.
+
+[^4-1]: Nuovo testo giusta il n. I dell’O del DFF dell’11 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 534](https://fedlex.data.admin.ch/eli/oc/2023/534)).
 
 #### Art. 5
 
 La presente ordinanza entra in vigore il 1° gennaio 2022.
 
-Allegato
+Allegato[^t-1]
 
 (art. 1 cpv. 2)
 
 ## Interessi moratori e rimuneratori
 
-Per gli anni civili dal 2022 si applicano i seguenti tassi d’interesse:
+[^t-1]: Nuovo testo giusta il n. II dell’O del DFF dell’11 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 534](https://fedlex.data.admin.ch/eli/oc/2023/534)).
+
+Per gli anni civili dal 2024 si applicano i seguenti tassi d’interesse:
 
 <table>
 <tr><th>In vigore per (dall’anno civile)</th><th>Interesse moratorio (in percento)</th><th>Interesse rimuneratorio sulle eccedenze d’imposta da restituire (in percento)</th><th>Interesse rimuneratorio sui pagamenti anticipati volontari (in percento)</th></tr>
-<tr><td>2022</td><td>4,0</td><td>4,0</td><td>0,0</td></tr>
+<tr><td>2024</td><td>4,75</td><td>4,75</td><td>1,25</td></tr>
 </table>
