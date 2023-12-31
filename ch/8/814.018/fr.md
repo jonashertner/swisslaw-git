@@ -4,11 +4,11 @@ title: "Ordonnance du 12 novembre 1997 sur la taxe d'incitation sur les composé
 short: OCOV
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/2972_2972_2972"
 language: fr
-version: 2023-01-01
+version: 2024-01-01
 adopted: 1997-11-12
 in_force: 1998-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2972_2972_2972/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-1997-2972_2972_2972-20230101-fr-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/2972_2972_2972/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2972_2972_2972/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-1997-2972_2972_2972-20240101-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/2972_2972_2972/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1997/2972_2972_2972/20230101/fr"
 
 (OCOV)
 
-du 12 novembre 1997 (État le 1<sup>er</sup> janvier 2023)
+du 12 novembre 1997 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -635,23 +635,23 @@ Annexe 1[^t-1]
 
 ## Liste positive des substances (composés organiques volatils [COV] soumis à la taxe)
 
-[^t-1]: Nouvelle teneur selon le ch. II al. 1 de l’O du 25 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5953](https://fedlex.data.admin.ch/eli/oc/2017/651)[7643](https://fedlex.data.admin.ch/eli/oc/2017/830)).
+[^t-1]: Nouvelle teneur selon le ch. II al. 1 de l’O du 25 oct. 2017 ([RO 2017 5953](https://fedlex.data.admin.ch/eli/oc/2017/651)[7643](https://fedlex.data.admin.ch/eli/oc/2017/830)). Mise à jour par l’annexe ch. II 7 de l’O du 15 fév. 2023 modifiant le tarif des douanes, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 86](https://fedlex.data.admin.ch/eli/oc/2023/86)).
 
 ### 1 Substances
 
 <table>
 <tr><td>N<sup>o</sup> de tarif[^annex1-lvlu1-lvl1-1]</td><td>Substance(s)</td><td>N<sup>o</sup> CAS</td></tr>
 <tr><td>2915.2100</td><td>**acide acétique**</td><td>64-19-7</td></tr>
-<tr><td>ex[^annex1-lvlu1-lvl1-2] 2915.3980</td><td>acétate de benzyle</td><td>140-11-4</td></tr>
-<tr><td>ex 2915.3980</td><td>**acétate de 2-n-butoxyéthyle**</td><td>112-07-2</td></tr>
+<tr><td>ex[^annex1-lvlu1-lvl1-2] 2915.3900</td><td>acétate de benzyle</td><td>140-11-4</td></tr>
+<tr><td>ex 2915.3900</td><td>**acétate de 2-n-butoxyéthyle**</td><td>112-07-2</td></tr>
 <tr><td>2915.3100</td><td>**acétate d’éthyle**</td><td>141-78-6</td></tr>
-<tr><td>ex 2915.3980</td><td>**acétate d’isobutyle**</td><td>110-19-0</td></tr>
-<tr><td>ex 2915.3980</td><td>**acétate d’isopropyle**</td><td>108-21-4</td></tr>
-<tr><td>ex 2915.3980</td><td>**acétate de 1-méthoxy-2-propyle**</td><td>108-65-6</td></tr>
-<tr><td>ex 2915.3980</td><td>**acétate de 2-méthoxyéthyle**</td><td>110-49-6</td></tr>
-<tr><td>ex 2915.3980</td><td>**acétate de méthyle**</td><td>79-20-9</td></tr>
+<tr><td>ex 2915.3900</td><td>**acétate d’isobutyle**</td><td>110-19-0</td></tr>
+<tr><td>ex 2915.3900</td><td>**acétate d’isopropyle**</td><td>108-21-4</td></tr>
+<tr><td>ex 2915.3900</td><td>**acétate de 1-méthoxy-2-propyle**</td><td>108-65-6</td></tr>
+<tr><td>ex 2915.3900</td><td>**acétate de 2-méthoxyéthyle**</td><td>110-49-6</td></tr>
+<tr><td>ex 2915.3900</td><td>**acétate de méthyle**</td><td>79-20-9</td></tr>
 <tr><td>2915.3300</td><td>**acétate de n-butyle**</td><td>123-86-4</td></tr>
-<tr><td>ex 2915.3980</td><td>**acétate de n-propyle**</td><td>109-60-4</td></tr>
+<tr><td>ex 2915.3900</td><td>**acétate de n-propyle**</td><td>109-60-4</td></tr>
 <tr><td>2914.1100</td><td>**acétone**</td><td>67-64-1</td></tr>
 <tr><td>2906.2100</td><td>**alcool benzylique (phénylméthanol)**</td><td>100-51-6</td></tr>
 <tr><td>2915.2400</td><td>**anhydride acétique**</td><td>108-24-7</td></tr>
@@ -662,30 +662,30 @@ Annexe 1[^t-1]
 <tr><td>2914.1200</td><td>**butanone** (méthyléthylcétone)</td><td>78-93-3</td></tr>
 <tr><td>ex 2909.4390</td><td>**2-n-butoxyéthanol**</td><td>111-76-2</td></tr>
 <tr><td>ex 2909.4390</td><td>**2-(2-n-butoxyéthoxy)éthanol** (éther monobutylique de diéthylèneglycol)</td><td>112-34-5</td></tr>
-<tr><td>ex 2909.4999</td><td>**1-n-butoxypropane-2-ol**</td><td>5131-66-8</td></tr>
-<tr><td>ex 2909.4999</td><td>**1-tert-butoxypropane-2-ol**</td><td>57018-52-7</td></tr>
+<tr><td>ex 2909.4990</td><td>**1-n-butoxypropane-2-ol**</td><td>5131-66-8</td></tr>
+<tr><td>ex 2909.4990</td><td>**1-tert-butoxypropane-2-ol**</td><td>57018-52-7</td></tr>
 <tr><td>ex 2932.2000</td><td>**4-butyrolactone** (tetrahydro-2-furanone)</td><td>96-48-0</td></tr>
 <tr><td>2902.7090</td><td>**cumène** (isopropylbenzène)</td><td>98-82-8</td></tr>
 <tr><td>2902.1190</td><td>**cyclohexane**</td><td>110-82-7</td></tr>
 <tr><td>ex 2914.2200</td><td>**cyclohexanone**</td><td>108-94-1</td></tr>
-<tr><td>ex 2902.1999</td><td>**cyclopentane**</td><td>287-92-3</td></tr>
-<tr><td>ex 2902.9099 + ex 3805.9000</td><td>**p-cymène**</td><td>99-87-6</td></tr>
+<tr><td>ex 2902.1990</td><td>**cyclopentane**</td><td>287-92-3</td></tr>
 </table>
 
 <table>
 <tr><th>N<sup>o</sup> de tarif</th><th>COV</th><th>N<sup>o</sup> CAS</th></tr>
+<tr><td>ex 2902.9090 + ex 3805.9000</td><td>**p-cymène**</td><td>99-87-6</td></tr>
 <tr><td>2903.1200</td><td>**dichlorométhane** (dichlorure de méthylène, chlorure de méthylène)</td><td>75-09-2</td></tr>
-<tr><td>ex 2909.1999</td><td>**1,2-diéthoxyéthane** (éther diéthylique d’éthylèneglycol)</td><td>629-14-1</td></tr>
-<tr><td>ex 2909.1999</td><td>**1,2-diméthoxyéthane**</td><td>110-71-4</td></tr>
-<tr><td>ex 2932.9980</td><td>**1,4-dioxanne** (dioxyde de diéthylène)</td><td>123-91-1</td></tr>
+<tr><td>ex 2909.1990</td><td>**1,2-diéthoxyéthane** (éther diéthylique d’éthylèneglycol)</td><td>629-14-1</td></tr>
+<tr><td>ex 2909.1990</td><td>**1,2-diméthoxyéthane**</td><td>110-71-4</td></tr>
+<tr><td>ex 2932.9900</td><td>**1,4-dioxanne** (dioxyde de diéthylène)</td><td>123-91-1</td></tr>
 <tr><td></td><td>**éthanol,** seulement s’il s’agit d’alcools impropres à la consommation (art. 31 de la loi fédérale sur l’alcool)</td><td>64-17-5</td></tr>
-<tr><td>ex 2909.1999</td><td>**éther de bis** **(2-éthoxyéthyle)** (éther diéthylique de diéthylèneglycol)</td><td>112-36-7</td></tr>
-<tr><td>ex 2909.1999</td><td>**éther de bis (2-méthoxyéthyle)** (éther diméthylique de diéthylèneglycol)</td><td>111-96-6</td></tr>
+<tr><td>ex 2909.1990</td><td>**éther de bis** **(2-éthoxyéthyle)** (éther diéthylique de diéthylèneglycol)</td><td>112-36-7</td></tr>
+<tr><td>ex 2909.1990</td><td>**éther de bis (2-méthoxyéthyle)** (éther diméthylique de diéthylèneglycol)</td><td>111-96-6</td></tr>
 <tr><td>2909.1100</td><td>**éther éthylique** (oxyde de diéthyle, éther)</td><td>60-29-7</td></tr>
-<tr><td>ex 2909.1999</td><td>**éther diméthylique** (oxyde de diméthyle)</td><td>115-10-6</td></tr>
-<tr><td>ex 2909.1999</td><td>**éther diisopropylique** (oxyde de diisopropyle)</td><td>108-20-3</td></tr>
-<tr><td>ex 2909.1999</td><td>**éther di-n-propylique** (oxyde de dipropyle)</td><td>111-43-3</td></tr>
-<tr><td>ex 2909.4999</td><td>**1-éthoxypropane-2-ol** (éther 1-éthylique d’alpha-propylèneglycol)</td><td>1569-02-4</td></tr>
+<tr><td>ex 2909.1990</td><td>**éther diméthylique** (oxyde de diméthyle)</td><td>115-10-6</td></tr>
+<tr><td>ex 2909.1990</td><td>**éther diisopropylique** (oxyde de diisopropyle)</td><td>108-20-3</td></tr>
+<tr><td>ex 2909.1990</td><td>**éther di-n-propylique** (oxyde de dipropyle)</td><td>111-43-3</td></tr>
+<tr><td>ex 2909.4990</td><td>**1-éthoxypropane-2-ol** (éther 1-éthylique d’alpha-propylèneglycol)</td><td>1569-02-4</td></tr>
 <tr><td>ex 2909.4480</td><td>**2-éthoxyéthanol** (éther monoéthylique d’éthylèneglycol, éthylglycol)</td><td>110-80-5</td></tr>
 <tr><td>2902.6090</td><td>**éthylbenzène**</td><td>100-41-4</td></tr>
 <tr><td>2912.1100</td><td>**formaldehyde (méthanal)**</td><td>50-00-0</td></tr>
@@ -694,15 +694,15 @@ Annexe 1[^t-1]
 <tr><td>ex 2901.1099</td><td>**heptane**</td><td>142-82-5</td></tr>
 <tr><td>ex 2901.1099</td><td>**hexane**</td><td>110-54-3</td></tr>
 <tr><td>ex 2905.1980</td><td>**hexane-1-ol**</td><td>111-27-3</td></tr>
-<tr><td>ex 2914.4090</td><td>**4-hydroxy-4-méthylpentane-2-one** (diacétonealcool)</td><td>123-42-2</td></tr>
-<tr><td>ex 2902.1999</td><td>**D-limonène** ([R]-p-mentha-1,8-diene)</td><td>5989-27-5</td></tr>
-<tr><td>ex 2902.1999 + ex 3805.9000</td><td>**DL-limonène** ([RS]-p-mentha-1,8-diene)</td><td>138-86-3</td></tr>
-<tr><td>ex 2902.1999</td><td>**L-limonène** ([S]-p-mentha-1,8-diene, di‑penthène) D-, DL- et L-limonène d’essences terpéniques (p. ex. terpènes d’orange, dipentène)</td><td>5989-54-8</td></tr>
+<tr><td>ex 2914.4000</td><td>**4-hydroxy-4-méthylpentane-2-one** (diacétonealcool)</td><td>123-42-2</td></tr>
+<tr><td>ex 2902.1990</td><td>**D-limonène** ([R]-p-mentha-1,8-diene)</td><td>5989-27-5</td></tr>
+<tr><td>ex 2902.1990 + ex 3805.9000</td><td>**DL-limonène** ([RS]-p-mentha-1,8-diene)</td><td>138-86-3</td></tr>
+<tr><td>ex 2902.1990</td><td>**L-limonène** ([S]-p-mentha-1,8-diene, di‑penthène) D-, DL- et L-limonène d’essences terpéniques (p. ex. terpènes d’orange, dipentène)</td><td>5989-54-8</td></tr>
 <tr><td>2905.1190</td><td>**méthanol** (alcool méthylique)</td><td>67-56-1</td></tr>
-<tr><td>ex 2909.4999</td><td>**1-méthoxypropane-2-ol** (éther 1-méthylique d’alpha-propylèneglycol)</td><td>107-98-2</td></tr>
+<tr><td>ex 2909.4990</td><td>**1-méthoxypropane-2-ol** (éther 1-méthylique d’alpha-propylèneglycol)</td><td>107-98-2</td></tr>
 <tr><td>ex 2909.4480</td><td>**2-méthoxyéthanol** (méthylglycol, méthyloxitol)</td><td>109-86-4</td></tr>
 <tr><td>ex 2901.1099</td><td>**2-méthylbutane** (isopentane)</td><td>78-78-4</td></tr>
-<tr><td>ex 2902.1999</td><td>**méthylcyclohexane**</td><td>108-87-2</td></tr>
+<tr><td>ex 2902.1990</td><td>**méthylcyclohexane**</td><td>108-87-2</td></tr>
 <tr><td>ex 2901.1099</td><td>**2-méthylpentane** (isohexane)</td><td>107-83-5</td></tr>
 <tr><td>2914.1300</td><td>**4-méthylpentane-2-one** (méthyl isobutylcétone)</td><td>108-10-1</td></tr>
 <tr><td>ex 2905.1490</td><td>**2-méthylpropane-1-ol** (isobutanol)</td><td>78-83-1</td></tr>
@@ -719,7 +719,7 @@ Annexe 1[^t-1]
 <tr><td>2707.2090 + 2902.3090</td><td>**toluène**</td><td>108-88-3</td></tr>
 <tr><td>2903.2200</td><td>**trichloroéthylène**</td><td>79-01-6</td></tr>
 <tr><td>2932.1100</td><td>**tétrahydrofuranne** (oxolanne)</td><td>109-99-9</td></tr>
-<tr><td>ex 2902.9099</td><td>**triméthylbenzènes** (1,2,3‑, 1,2,4‑ et 1,3,5‑ triméthylbenzène)</td><td>526-73-8 95-63-6 108-67-8</td></tr>
+<tr><td>ex 2902.9090</td><td>**triméthylbenzènes** (1,2,3‑, 1,2,4‑ et 1,3,5‑ triméthylbenzène)</td><td>526-73-8 95-63-6 108-67-8</td></tr>
 <tr><td>2902.4190</td><td>**o-xylène**</td><td>95-47-6</td></tr>
 <tr><td>2902.4290</td><td>**m-xylène**</td><td>108-38-3</td></tr>
 <tr><td>2902.4390</td><td>p-xylène</td><td>106-42-3</td></tr>
@@ -732,11 +732,11 @@ Annexe 1[^t-1]
 
 <table>
 <tr><th>N<sup>o</sup> de tarif[^annex1-lvlu1-lvl2-1]</th><th>Groupe(s) de substances</th><th>N<sup>o</sup> CAS</th></tr>
-<tr><td>ex 2909.4999</td><td>**butoxypropanols** (mélanges d’isomères)</td><td>divers</td></tr>
+<tr><td>ex 2909.4990</td><td>**butoxypropanols** (mélanges d’isomères)</td><td>divers</td></tr>
 <tr><td>2710.1291</td><td>**éther de pétrole ainsi que essence et ses fractions** (mélanges d’hydrocarbures essentiellement non aromatiques)</td><td>divers</td></tr>
 <tr><td>2710.1299</td><td>**huiles légères et préparations**\*</td><td>divers</td></tr>
 <tr><td>2707.5090</td><td>**mélanges d’hydrocarbures aromatiques** (entre autres solvant Naphta)\*</td><td>divers</td></tr>
-<tr><td>ex 2909.4999</td><td>**monométhyléther de dipropylènglycol** (DPM) (isomères individuels et mélanges d’isomères)</td><td>divers</td></tr>
+<tr><td>ex 2909.4990</td><td>**monométhyléther de dipropylènglycol** (DPM) (isomères individuels et mélanges d’isomères)</td><td>divers</td></tr>
 <tr><td>ex 2905.1980</td><td>**pentanols** (mélanges d’isomères)</td><td>divers</td></tr>
 <tr><td>2710.1991</td><td>**pétrole** (mélanges d’hydrocarbures essentiellement non aromatiques)\*</td><td>divers</td></tr>
 <tr><td>2710.1292</td><td>**white-spirits** (mélanges d’hydrocarbures essentiellement non aromatiques)\*</td><td>divers</td></tr>
@@ -752,7 +752,7 @@ Annexe 2[^t-2]
 
 ## Liste positive des produits (mélanges et objets importés contenant des COV soumis à la taxe)
 
-[^t-2]: Nouvelle teneur selon le ch. II de l’O du 2 avr. 2008 ([RO 2008 1765](https://fedlex.data.admin.ch/eli/oc/2008/262)). Mise à jour par l’annexe 3 ch. 16 de l’O du 22 juin 2011 modifiant le tarif des douanes ([RO 2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)), le ch. II al. 2 de l’O du 27 juin 2012 ([RO 2012 3785](https://fedlex.data.admin.ch/eli/oc/2012/436)), l’annexe 3 ch. 10 de l’O du 10 juin 2016 modifiant le tarif des douanes ([RO 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)), l’annexe 2 ch. 6 de l’O du 29 juin 2016 modifiant le tarif des douanes concernant les droits de douane pour certains produits des technologies de l’information ([RO 2016 2647](https://fedlex.data.admin.ch/eli/oc/2016/424)), le ch. II al. 2 de l’O du 25 oct. 2017 ([RO 2017 5953](https://fedlex.data.admin.ch/eli/oc/2017/651)) et l’annexe 3 ch. 13 de l’O du 30 juin 2021 modifiant le tarif des douanes, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)).
+[^t-2]: Nouvelle teneur selon le ch. II de l’O du 2 avr. 2008 ([RO 2008 1765](https://fedlex.data.admin.ch/eli/oc/2008/262)). Mise à jour par l’annexe 3 ch. 16 de l’O du 22 juin 2011 modifiant le tarif des douanes ([RO 2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)), le ch. II al. 2 de l’O du 27 juin 2012 ([RO 2012 3785](https://fedlex.data.admin.ch/eli/oc/2012/436)), l’annexe 3 ch. 10 de l’O du 10 juin 2016 modifiant le tarif des douanes ([RO 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)), l’annexe 2 ch. 6 de l’O du 29 juin 2016 modifiant le tarif des douanes concernant les droits de douane pour certains produits des technologies de l’information ([RO 2016 2647](https://fedlex.data.admin.ch/eli/oc/2016/424)), le ch. II al. 2 de l’O du 25 oct. 2017 ([RO 2017 5953](https://fedlex.data.admin.ch/eli/oc/2017/651)), l’annexe 3 ch. 13 de l’O du 30 juin 2021 modifiant le tarif des douanes ([RO 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)) et l’annexe ch. II 7 de l’O du 15 fév. 2023 modifiant le tarif des douanes, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 86](https://fedlex.data.admin.ch/eli/oc/2023/86)).
 
 <table>
 <tr><td>N<sup>o</sup> de tarif[^annex2-lvlu1-1]</td><td>Produit(s)/groupe(s) de produits</td></tr>
@@ -787,30 +787,20 @@ Annexe 2[^t-2]
 <tr><td>3202.</td><td>Produits tannants organiques synthétiques; produits tannants inorganiques; préparations tannantes, même contenant des produits tannants naturels; préparations enzymatiques pour le pré-tannage:</td></tr>
 <tr><td>1000</td><td>[tab] – produits tannants organiques synthétiques</td></tr>
 <tr><td>9000</td><td>[tab] – autres</td></tr>
-<tr><td>3203.</td><td>Matières colorantes d’origine végétale ou animale (y compris les extraits tinctoriaux mais à l’exclusion des noirs d’origine animale), même de constitution chimique définie; préparations visées à la note 3 du présent chapitre, à base de matières colorantes d’origine végétale ou animale:</td></tr>
-<tr><td>0010</td><td>[tab] – produits selon listes dans la partie 1b</td></tr>
-<tr><td>0090</td><td>[tab] – autres</td></tr>
+<tr><td>3203.0000</td><td>Matières colorantes d’origine végétale ou animale (y compris les extraits tinctoriaux mais à l’exclusion des noirs d’origine animale), même de constitution chimique définie; préparations visées à la note 3 du présent chapitre, à base de matières colorantes d’origine végétale ou animale</td></tr>
 <tr><td>3204.</td><td>Matières colorantes organiques synthétiques, même de constitution chimique définie; préparations visées à la note 3 du présent chapitre, à base de matières colorantes organiques synthétiques; produits organiques synthétiques des types utilisés comme agents d’avivage fluorescents ou comme luminophores, même de constitution chimique définie:</td></tr>
 <tr><td></td><td>[tab] – matières colorantes organiques synthétiques et préparations visées à la note 3 du présent chapitre, à base de ces matières colorantes:</td></tr>
 <tr><td>1100</td><td>[tab] – – colorants dispersés et préparations à base de ces colorants</td></tr>
-<tr><td></td><td>[tab] – – colorants acides, même métallisés, et préparations à base de ces colorants; colorants mordants et préparations à base de ces colorants:</td></tr>
-<tr><td>1210</td><td>[tab] – – – produits selon listes dans la partie 1b</td></tr>
-<tr><td>1290</td><td>[tab] – – – autres</td></tr>
-<tr><td></td><td>[tab] – – colorants basiques et préparations à base de ces colorants:</td></tr>
-<tr><td>1310</td><td>[tab] – – – produits selon listes dans la partie 1b</td></tr>
-<tr><td>1390</td><td>[tab] – – – autres</td></tr>
+<tr><td>1200</td><td>[tab] – – colorants acides, même métallisés, et préparations à base de ces colorants; colorants à mordants et préparations à base de ces colorants</td></tr>
+<tr><td>1300</td><td>[tab] – – colorants basiques et préparations à base de ces colorants</td></tr>
 <tr><td>1400</td><td>[tab] – – colorants directs et préparations à base de ces colorants</td></tr>
 <tr><td>1500</td><td>[tab] – – colorants de cuve (y compris ceux utilisables en l’état comme colorants pigmentaires) et préparations à base de ces colorants</td></tr>
 <tr><td>1600</td><td>[tab] – – colorants réactifs et préparations à base de ces colorants</td></tr>
 <tr><td>1700</td><td>[tab] – – colorants pigmentaires et préparations à base de ces colorants</td></tr>
-<tr><td>1800</td><td>[tab] – matières colorantes caroténoïdes et préparations à base de ces matières</td></tr>
-<tr><td></td><td>[tab] – – autres, y compris les mélanges de matières colorantes d’au moins deux des n<sup>os</sup> 3204.11 à 3204.19:</td></tr>
-<tr><td>1910</td><td>[tab] – – – produits selon listes dans la partie 1b</td></tr>
-<tr><td>1990</td><td>[tab] – – – autres</td></tr>
+<tr><td>1800</td><td>[tab] – – matières colorantes caroténoïdes et préparations à base de ces matières</td></tr>
+<tr><td>1900</td><td>[tab] – – autres, y compris les mélanges de matières colorantes d’au moins deux des n<sup>os</sup> 3204.11 à 3204.19</td></tr>
 <tr><td>2000</td><td>[tab] – produits organiques synthétiques des types utilisés comme agents d’avivage fluorescents</td></tr>
-<tr><td></td><td>– autres:</td></tr>
-<tr><td>9010</td><td>[tab] – – produits selon listes dans la partie 1b</td></tr>
-<tr><td>9090</td><td>[tab] – – autres</td></tr>
+<tr><td>9000</td><td>– autres</td></tr>
 <tr><td>3205. 0000</td><td>Laques colorantes; préparations visées à la note 3 du présent chapitre, à base de laques colorantes</td></tr>
 <tr><td>3206.</td><td>Autres matières colorantes; préparations visées à la note 3 du présent chapitre, autres que celles des n<sup>os</sup> 3203, 3204 ou 3205; produits inorganiques des types utilisés comme luminophores, même de constitution chimique définie:</td></tr>
 <tr><td></td><td>[tab] – pigments et préparations à base de dioxyde de titane:</td></tr>
@@ -846,27 +836,21 @@ Annexe 2[^t-2]
 <tr><td>3214.</td><td>Mastic de vitrier, ciments de résine et autres mastics; enduits utilisés en peinture; enduits non réfractaires des types utilisés en maçonnerie:</td></tr>
 <tr><td>1000</td><td>[tab] – mastic de vitrier, ciments de résine et autres mastics; enduits utilisés en peinture</td></tr>
 <tr><td>9000</td><td>[tab] – autres</td></tr>
-<tr><td>3215.</td><td>Encres d’imprimerie, encres à écrire ou à dessiner et autres encres, même concentrées ou sous forme solides:</td></tr>
+<tr><td>3215.</td><td>Encres d’imprimerie, encres à écrire ou à dessiner et autres encres, même concentrées ou sous formes solides:</td></tr>
 <tr><td></td><td>[tab] – encres d’imprimerie:</td></tr>
 <tr><td>1100</td><td>[tab] – – noires</td></tr>
 <tr><td>1900</td><td>[tab] – – autres</td></tr>
-<tr><td></td><td>[tab] – autres:</td></tr>
-<tr><td>9010</td><td>[tab] – – cartouches d’encre (avec ou sans tête d’impression intégrée) destinées à être insérées dans les appareils relevant des n<sup>os</sup> 8443.31, 8443.32 ou 8443.39 et incluant des composants mécaniques ou électriques; encre solide sous forme de blocs ouvrés pour appareils relevant des n<sup>os</sup> 8443.31, 8443.32 ou 8443.39</td></tr>
-<tr><td>9090</td><td>[tab] – – autres</td></tr>
-<tr><td>3301.</td><td>Huiles essentielles (déterpénées ou non), y compris celles dites «concrètes» ou «absolues»; résinoïdes; oléorésines d’extraction; solutions concentrées d’huiles essentielles dans les graisses, les huiles fixes, les cires ou matières analogues, obtenues par enfleurage ou macération; sous-produits terpéniques résiduaires de la déterpénation des huiles essentielles; eaux distillées aromatiques et solutions aqueuses d’huiles essentielles:</td></tr>
+<tr><td>9000</td><td>[tab] – autres</td></tr>
+<tr><td>ex 3301.</td><td>Huiles essentielles (déterpénées ou non), y compris celles dites «concrètes» ou «absolues»; résinoïdes; oléorésines d’extraction; solutions concentrées d’huiles essentielles dans les graisses, les huiles fixes, les cires ou matières analogues, obtenues par enfleurage ou macération; sous-produits terpéniques résiduaires de la déterpénation des huiles essentielles; eaux distillées aromatiques et solutions aqueuses d’huiles essentielles:</td></tr>
 <tr><td></td><td>[tab] – huiles essentielles d’agrumes:</td></tr>
 <tr><td>1200</td><td>[tab] – – d’orange</td></tr>
 <tr><td>1300</td><td>[tab] – – de citron</td></tr>
 <tr><td>1900</td><td>[tab] – – autres</td></tr>
-<tr><td></td><td>[tab] – huiles essentielles, autre que d’agrumes:</td></tr>
+<tr><td></td><td>[tab] – huiles essentielles autre que d’agrumes:</td></tr>
 <tr><td>2400</td><td>[tab] – – de menthe poivrée (Mentha piperita)</td></tr>
 <tr><td>2500</td><td>[tab] – – d’autres menthes</td></tr>
-<tr><td></td><td>[tab] – – autres:</td></tr>
-<tr><td>2910</td><td>[tab] – – – huile d’eucalyptus et huile de santal</td></tr>
-<tr><td>2930</td><td>[tab] – – – huiles d’absinthe, d’aiguilles de pin, d’anis, d’aspic, de badiane, de baume de gurjun, de bay, de bois de cabreuva, de bois de cèdre, de bois de gaïac, de bois de rose (y compris de linaloé du Mexique), de camphre, de cananga, de cannelle, de carvi, de citronnelle, de genévrier, de géranium, de girofle, de lavande ou de lavandin, de lemongrass, de litsea cubeba, de palmarosa, de patchouli, de petit-grain, de romarin, de rue, de sassafras, de shiu (de ho), de thym, de vétivier</td></tr>
-<tr><td>2980</td><td>[tab] – – – autres</td></tr>
-<tr><td></td><td>[tab] – – autres:</td></tr>
-<tr><td>9090</td><td>[tab] – – – autres</td></tr>
+<tr><td>2900</td><td>[tab] – – autres</td></tr>
+<tr><td>9000</td><td>[tab] – autres (que solutions concentrées d’huiles essentielles)</td></tr>
 <tr><td>3302.</td><td>Mélanges de substances odoriférantes et mélanges (y compris les solutions alcooliques) à base d’une ou de plusieurs de ces substances, utilisés comme matières de base pour l’industrie; autres préparations à base de substances odoriférantes, des types utilisés pour la fabrication de boissons:</td></tr>
 <tr><td>9000</td><td>[tab] – autres</td></tr>
 <tr><td>3303. 0000</td><td>Parfums et eaux de toilette</td></tr>
@@ -882,37 +866,29 @@ Annexe 2[^t-2]
 <tr><td>2000</td><td>[tab] – préparations pour l’ondulation ou le défrisage permanents</td></tr>
 <tr><td>3000</td><td>[tab] – laques pour cheveux</td></tr>
 <tr><td>9000</td><td>[tab] – autres</td></tr>
-<tr><td>3306.</td><td>Préparations pour l’hygiène buccale ou dentaire, y compris les poudres et crèmes pour faciliter l’adhérence des dentiers; fils utilisés pour nettoyer les espaces interdentaires (fils dentaires), emballés pour la vente aux particuliers:</td></tr>
+<tr><td>3306.</td><td>Préparations pour l’hygiène buccale ou dentaire, y compris les poudres et crèmes pour faciliter l’adhérence des dentiers; fils utilisés pour nettoyer les espaces interdentaires (fils dentaires), en emballages individuels de détail:</td></tr>
 <tr><td>1000</td><td>[tab] – dentifrices</td></tr>
 <tr><td>2000</td><td>[tab] – fils utilisés pour nettoyer les espaces interdentaires (fils dentaires)</td></tr>
-<tr><td></td><td>[tab] – autres:</td></tr>
-<tr><td>9010</td><td>[tab] – – produits adhésifs pour dentiers</td></tr>
-<tr><td>9090</td><td>[tab] – – autres</td></tr>
+<tr><td>9000</td><td>[tab] – autres</td></tr>
 <tr><td>3307.</td><td>Préparations pour le prérasage, le rasage ou l’après-rasage, désodorisants corporels, préparations pour bains, dépilatoires, autres produits de parfumerie ou de toilette préparés et autres préparations cosmétiques, non dénommés ni compris ailleurs; désodorisants de locaux, préparés, même non parfumés, ayant ou non des propriétés désinfectantes:</td></tr>
 <tr><td>1000</td><td>[tab] – préparations pour le prérasage, le rasage ou l’après-rasage</td></tr>
 <tr><td>2000</td><td>[tab] – désodorisants corporels et antisudoraux</td></tr>
 <tr><td>3000</td><td>[tab] – sels parfumés et autres préparations pour bains</td></tr>
 <tr><td></td><td>[tab] – préparations pour parfumer ou pour désodoriser les locaux, y compris les préparations odoriférantes pour cérémonies religieuses:</td></tr>
-<tr><td>4100</td><td>[tab] – – agarbatti» et autres préparations odoriférantes agissant par combustion</td></tr>
+<tr><td>4100</td><td>[tab] – – «agarbatti» et autres préparations odoriférantes agissant par combustion</td></tr>
 <tr><td>4900</td><td>[tab] – – autres</td></tr>
-<tr><td></td><td>[tab] – autres:</td></tr>
-<tr><td>9010</td><td>[tab] – – solutions liquides pour verres de contact ou pour yeux artificiels</td></tr>
-<tr><td>9090</td><td>[tab] – – autres</td></tr>
-<tr><td>ex 3401.</td><td>Savons; produits et préparations organiques tensio-actifs à usage de savon, en barres, en pains, en morceaux ou en sujets frappés, même contenant du savon; produits et préparations organiques tensio-actifs destinés au lavage de la peau, sous forme de liquide ou de crème, conditionnés pour la vente au détail, même contenant du savon; papier, ouate, feutres ou non-tissés, imprégnés, enduits ou recouverts de savon ou de détergent: [tab] – savons, produits et préparations organiques tensio-actifs en barres, en pains, en morceaux ou en sujets frappés, papier, ouate, feutres ou non-tissés, imprégnés, enduits ou recouverts de savon ou de détergent:</td></tr>
-<tr><td>1100</td><td>[tab] – – de toilette (y compris ceux à usages médicaux) [tab] – – autres:</td></tr>
-<tr><td>1990</td><td>[tab] – autres (que savons ordinaires)</td></tr>
+<tr><td>9000</td><td>[tab] – autres</td></tr>
+<tr><td>ex 3401.</td><td>Savons; produits et préparations organiques tensio-actifs à usage de savon, en barres, en pains, en morceaux ou en sujets frappés, même contenant du savon; produits et préparations organiques tensio-actifs destinés au lavage de la peau, sous forme de liquide ou de crème, conditionnés pour la vente au détail, même contenant du savon; papier, ouate, feutres ou nontissés, imprégnés, enduits ou recouverts de savon ou de détergent: [tab] – savons, produits et préparations organiques tensio-actifs en barres, en pains, en morceaux ou en sujets frappés, et papier, ouate, feutres ou nontissés, imprégnés, enduits ou recouverts de savon ou de détergent:</td></tr>
+<tr><td>1100</td><td>[tab] – – de toilette (y compris ceux à usages médicaux)</td></tr>
+<tr><td>1900</td><td>[tab] – – autres (que savons ordinaires)</td></tr>
 <tr><td>3000</td><td>[tab] – produits et préparations organiques tensio-actifs destinés au lavage de la peau, sous forme de liquide ou de crème, conditionnés pour la vente au détail, même contenant du savon</td></tr>
-<tr><td>ex 3402.</td><td>Agents de surface organiques (autres que les savons); préparations tensio-actives, préparations pour lessives (y compris les préparations auxiliaires de lavage) et préparations de nettoyage, même contenant du savon, autres que celles du n<sup>o</sup> 3401; à l’exception des lessives prêtes à l’emploi portant les numéros de tarif 3402.5000/9000</td></tr>
+<tr><td>ex 3402.</td><td>Agents de surface organiques (autres que les savons); préparations tensio-actives, préparations pour lessives (y compris les préparations auxiliaires de lavage) et préparations de nettoyage, même contenant du savon, autres que celles du n<sup>o</sup> 3401; à l’exception des lessives prêtes à l’emploi portant les numéros de tarif 3402.5000/9000:</td></tr>
 <tr><td></td><td>[tab] – agents de surface organiques anioniques, même conditionnés pour la vente au détail:</td></tr>
 <tr><td>3100</td><td>[tab] – – acides sulfoniques d’alkylbenzènes linéaires et leurs sels</td></tr>
 <tr><td>3900</td><td>[tab] – – autres</td></tr>
 <tr><td></td><td>[tab] – autres agents de surface organiques, même conditionnés pour la vente au détail:</td></tr>
-<tr><td></td><td>[tab] – – cationiques:</td></tr>
-<tr><td>4110</td><td>[tab] – – – produits selon listes dans la Partie 1 b</td></tr>
-<tr><td>4190</td><td>[tab] – – – autres</td></tr>
-<tr><td></td><td>[tab] – – non-ioniques:</td></tr>
-<tr><td>4210</td><td>[tab] – – – produits selon listes dans la Partie 1 b</td></tr>
-<tr><td>4290</td><td>[tab] – – – autres</td></tr>
+<tr><td>4100</td><td>[tab] – – cationiques</td></tr>
+<tr><td>4200</td><td>[tab] – – non-ioniques</td></tr>
 <tr><td>4900</td><td>[tab] – – autres</td></tr>
 <tr><td>5000</td><td>[tab] – préparations conditionnées pour la vente au détail</td></tr>
 <tr><td>9000</td><td>[tab] – autres</td></tr>
@@ -932,9 +908,7 @@ Annexe 2[^t-2]
 <tr><td>3506.</td><td>Colles et autres adhésifs préparés, non dénommés ni compris ailleurs; produits de toute espèce à usage de colles ou d’adhésifs, conditionnés pour la vente au détail comme colles ou adhésifs, d’un poids net n’excédant pas 1 kg:</td></tr>
 <tr><td>1000</td><td>[tab] – produits de toute espèce à usage de colles ou d’adhésifs, conditionnés pour la vente au détail comme colles ou adhésifs, d’un poids net n’excédant pas 1 kg</td></tr>
 <tr><td></td><td>[tab] – autres:</td></tr>
-<tr><td></td><td>[tab] – – adhésifs à base de polymères des n<sup>os</sup> 3901 à 3913 ou de caoutchouc:</td></tr>
-<tr><td>9130</td><td>[tab] – – – pellicules transparentes adhésives et adhésifs liquides transparents durcissables des types utilisés exclusivement ou principalement pour la fabrication d’écrans plats ou d’écrans tactiles</td></tr>
-<tr><td>9180</td><td>[tab] – – – autres</td></tr>
+<tr><td>9100</td><td>[tab] – – adhésifs à base de polymères des n<sup>os</sup> 3901 à 3913 ou de caoutchouc</td></tr>
 <tr><td></td><td>[tab] – – autres:</td></tr>
 <tr><td>9910</td><td>[tab] – – – pour l’alimentation des animaux</td></tr>
 <tr><td>9990</td><td>[tab] – – – autres</td></tr>
@@ -948,24 +922,17 @@ Annexe 2[^t-2]
 <tr><td></td><td>[tab] – marchandises mentionnées dans la note 1 de sous-positions du présent chapitre:</td></tr>
 <tr><td>5200</td><td>[tab] – – DDT (ISO) (clofénotane (DCI)), conditionné dans des emballages d’un contenu en poids net n’excédant pas 300 g</td></tr>
 <tr><td>5900</td><td>[tab] – – autres</td></tr>
-<tr><td>6100</td><td>[tab] – marchandises mentionnées dans la note 2 de sous-positions du présent chapitre:</td></tr>
-<tr><td>6200</td><td>[tab] – – conditionnées dans des emballages d’un contenu en poids net n’excédant pas 300 g</td></tr>
-<tr><td>6900</td><td>[tab] – – conditionnées dans des emballages d’un contenu en poids net excédant 300 g mais n’excédant pas 7,5 kg</td></tr>
-<tr><td></td><td>[tab] – – autres</td></tr>
+<tr><td></td><td>[tab] – marchandises mentionnées dans la note 2 de sous-positions du présent chapitre:</td></tr>
+<tr><td>6100</td><td>[tab] – – conditionnées dans des emballages d’un contenu en poids net n’excédant pas 300 g</td></tr>
+<tr><td>6200</td><td>[tab] – – conditionnées dans des emballages d’un contenu en poids net excédant 300 g mais n’excédant pas 7,5 kg</td></tr>
+<tr><td>6900</td><td>[tab] – – autres</td></tr>
 <tr><td></td><td>[tab] – autres:</td></tr>
-<tr><td>9120</td><td>[tab] – – insecticides:</td></tr>
-<tr><td>9180</td><td>[tab] – – – à base de soufre ou de composés cupriques</td></tr>
-<tr><td></td><td>[tab] – – – autres</td></tr>
-<tr><td>9220</td><td>[tab] – – fongicides:</td></tr>
-<tr><td>9280</td><td>[tab] – – – à base de soufre ou de composés cupriques</td></tr>
-<tr><td></td><td>[tab] – – – autres</td></tr>
-<tr><td>9320</td><td>[tab] – – herbicides, inhibiteurs de germination et régulateurs de croissance pour plantes:</td></tr>
-<tr><td>9380</td><td>[tab] – – – à base de soufre ou de composés cupriques</td></tr>
-<tr><td></td><td>[tab] – – – autres</td></tr>
-<tr><td>9410</td><td>[tab] – – désinfectants:</td></tr>
-<tr><td>9480</td><td>[tab] – – – produits selon listes dans la partie 1b</td></tr>
-<tr><td>9900</td><td>[tab] – – – autres</td></tr>
-<tr><td>3809.</td><td>– – autres</td></tr>
+<tr><td>9100</td><td>[tab] – – insecticides</td></tr>
+<tr><td>9200</td><td>[tab] – – fongicides</td></tr>
+<tr><td>9300</td><td>[tab] – – herbicides, inhibiteurs de germination et régulateurs de croissance pour plantes</td></tr>
+<tr><td>9400</td><td>[tab] – – désinfectants</td></tr>
+<tr><td>9900</td><td>[tab] – – autres</td></tr>
+<tr><td>3809.</td><td>Agents d’apprêt ou de finissage, accélérateurs de teinture ou de fixation de matières colorantes et autres produits et préparations (parements préparés et préparations pour le mordançage, par exemple), des types utilisés dans l’industrie textile, l’industrie du papier, l’industrie du cuir ou les industries similaires, non dénommés ni compris ailleurs:</td></tr>
 <tr><td></td><td>[tab] – à base de matières amylacées:</td></tr>
 <tr><td>1010</td><td>[tab] – – pour l’alimentation des animaux</td></tr>
 <tr><td>1090</td><td>[tab] – – autres</td></tr>
@@ -1008,10 +975,6 @@ Annexe 2[^t-2]
 <tr><td></td><td>[tab] – autres:</td></tr>
 <tr><td>9100</td><td>[tab] – – mélanges et préparations constitués essentiellement de méthylphosphonate de (5-éthyl-2-méthyl-2-oxido-1,3,2-dioxaphosphinan-5-yl)méthyle et de méthyle et de méthylphosphonate de bis[(5-éthyl-2-méthyl-2-oxido-1,3,2-dioxaphosphinan-5-yl)méthyle]</td></tr>
 <tr><td>9200</td><td>[tab] – – esters de polyglycol d’acide méthylphosphonique</td></tr>
-<tr><td></td><td>[tab] – – autres:</td></tr>
-<tr><td></td><td>[tab] – – – préparations à usages pharmaceutiques, préparations pour les industries alimentaires:</td></tr>
-<tr><td>9911</td><td>[tab] – – – – produits selon listes dans la Partie 1 b</td></tr>
-<tr><td>9919</td><td>[tab] – – – – autres</td></tr>
 <tr><td></td><td>[tab] – – – autres:</td></tr>
 <tr><td>9991</td><td>[tab] – – – – pour l’alimentation des animaux</td></tr>
 <tr><td>9999</td><td>[tab] – – – – autres</td></tr>
@@ -1060,16 +1023,12 @@ Annexe 2[^t-2]
 <tr><td>2000</td><td>[tab] – polyéthylène d’une densité égale ou supérieure à 0,94</td></tr>
 <tr><td>3000</td><td>[tab] – copolymères d’éthylène et d’acétate de vinyle</td></tr>
 <tr><td>4000</td><td>[tab] – copolymères d’éthylène et d’alpha-oléfine d’une densité inférieure à 0,94</td></tr>
-<tr><td></td><td>[tab] – autres:</td></tr>
-<tr><td>9010</td><td>[tab] – – produits selon listes dans la partie 1b</td></tr>
-<tr><td>9080</td><td>[tab] – – autres</td></tr>
+<tr><td>9000</td><td>[tab] – autres</td></tr>
 <tr><td>3902.</td><td>Polymères de propylène ou d’autres oléfines, sous formes primaires:</td></tr>
 <tr><td>1000</td><td>[tab] – polypropylène</td></tr>
 <tr><td>2000</td><td>[tab] – polyisobutylène</td></tr>
 <tr><td>3000</td><td>[tab] – copolymères de propylène</td></tr>
-<tr><td></td><td>[tab] – autres:</td></tr>
-<tr><td>9010</td><td>[tab] – – produits selon listes dans la partie 1b</td></tr>
-<tr><td>9090</td><td>[tab] – – autres</td></tr>
+<tr><td>9000</td><td>[tab] – autres</td></tr>
 <tr><td>3903.</td><td>Polymères du styrène, sous formes primaires:</td></tr>
 <tr><td></td><td>[tab] – polystyrène:</td></tr>
 <tr><td>1100</td><td>– – expansible</td></tr>
@@ -1099,83 +1058,54 @@ Annexe 2[^t-2]
 <tr><td>3000</td><td>[tab] – poly(alcool vinylique), même contenant des groupes acétate non hydrolysés</td></tr>
 <tr><td></td><td>[tab] – autres:</td></tr>
 <tr><td>9100</td><td>[tab] – – copolymères</td></tr>
-<tr><td></td><td>[tab] – – autres:</td></tr>
-<tr><td>9910</td><td>[tab] – – – produits selon listes dans la partie 1b</td></tr>
-<tr><td>9990</td><td>[tab] – – – autres</td></tr>
+<tr><td>9900</td><td>[tab] – – autres</td></tr>
 <tr><td>3906.</td><td>Polymères acryliques sous formes primaires:</td></tr>
 <tr><td>1000</td><td>[tab] – poly(méthacrylate de méthyle)</td></tr>
-<tr><td></td><td>[tab] – autres:</td></tr>
-<tr><td>9010</td><td>[tab] – – produits selon listes dans la partie 1b</td></tr>
-<tr><td>9090</td><td>[tab] – – autres</td></tr>
+<tr><td>9000</td><td>[tab] – autres</td></tr>
 <tr><td>3907.</td><td>Polyacétals, autres polyéthers et résines époxydes, sous formes primaires; polycarbonates, résines alkydes, polyesters allyliques et autres polyesters, sous formes primaires:</td></tr>
-<tr><td></td><td>[tab] – polyacétals:</td></tr>
-<tr><td>1010</td><td>[tab] – – produits selon listes dans la partie 1b</td></tr>
-<tr><td>1090</td><td>[tab] – – autres</td></tr>
+<tr><td>1000</td><td>[tab] – polyacétals</td></tr>
 <tr><td></td><td>[tab] – autres polyéthers:</td></tr>
 <tr><td>2100</td><td>[tab] – – méthylphosphonate de bis(polyoxyéthylène)</td></tr>
-<tr><td></td><td>[tab] – – autres:</td></tr>
-<tr><td>2910</td><td>[tab] – – – produits selon listes dans la Partie 1 b</td></tr>
-<tr><td>2990</td><td>[tab] – – – autres</td></tr>
-<tr><td></td><td>[tab] – résines époxydes:</td></tr>
-<tr><td>3010</td><td>[tab] – – produits selon listes dans la partie 1b</td></tr>
-<tr><td>3090</td><td>[tab] – – autres</td></tr>
+<tr><td>2900</td><td>[tab] – – autres</td></tr>
+<tr><td>3000</td><td>[tab] – résines époxydes</td></tr>
 <tr><td>4000</td><td>[tab] – polycarbonates</td></tr>
 <tr><td>5000</td><td>[tab] – résines alkydes</td></tr>
+<tr><td></td><td>[tab] – poly(éthylène téréphtalate):</td></tr>
 <tr><td>6100</td><td>[tab] – – d’un indice de viscosité de 78 ml/g ou plus</td></tr>
 <tr><td>6900</td><td>[tab] – – autres</td></tr>
 <tr><td>7000</td><td>[tab] – poly(acide lactique)</td></tr>
 <tr><td></td><td>[tab] – autres polyesters:</td></tr>
 <tr><td>9100</td><td>[tab] – – non saturés</td></tr>
-<tr><td></td><td>[tab] – – autres:</td></tr>
-<tr><td>9910</td><td>[tab] – – – produits selon listes dans la partie 1b</td></tr>
-<tr><td>9920</td><td>[tab] – – – copolymères thermoplastiques à base de polyester aromatique à cristaux liquides</td></tr>
-<tr><td>9970</td><td>[tab] – – – autres</td></tr>
+<tr><td>9900</td><td>[tab] – – autres</td></tr>
 <tr><td>3908.</td><td>Polyamides sous formes primaires:</td></tr>
 <tr><td>1000</td><td>[tab] – polyamide-6, ‑11, ‑12, ‑6,6, ‑6,9, ‑6,10 ou ‑6,12</td></tr>
 <tr><td>9000</td><td>[tab] – autres</td></tr>
 <tr><td>3909.</td><td>Résines aminiques, résines phénoliques et polyuréthannes, sous formes primaires:</td></tr>
-<tr><td></td><td>[tab] – résines uréiques; résines de thiourée:</td></tr>
-<tr><td>1010</td><td>[tab] – – produits selon listes dans la partie 1b</td></tr>
-<tr><td>1090</td><td>[tab] – – autres</td></tr>
+<tr><td>1000</td><td>[tab] – résines uréiques; résines de thiourée</td></tr>
 <tr><td>2000</td><td>[tab] – résines mélaminiques</td></tr>
-<tr><td></td><td>[tab] – autres résines aminiques</td></tr>
+<tr><td></td><td>[tab] – autres résines aminiques:</td></tr>
 <tr><td>3100</td><td>[tab] – – poly(méthylène phényl isocyanate) (MDI brut, MDI polymérique)</td></tr>
 <tr><td>3900</td><td>[tab] – – autres</td></tr>
-<tr><td>4010</td><td>[tab] – – produits selon listes dans la partie 1b</td></tr>
-<tr><td>4090</td><td>[tab] – – autres</td></tr>
+<tr><td>4000</td><td>[tab] – résines phénoliques</td></tr>
 <tr><td>5000</td><td>[tab] – polyuréthannes</td></tr>
 <tr><td>3910. 0000</td><td>Silicones sous formes primaires</td></tr>
 <tr><td>3911.</td><td>Résines de pétrole, résines de coumarone-indène, polyterpènes, polysulfures, polysulfones et autres produits mentionnés dans la note 3 du présent chapitre, non dénommés ni compris ailleurs, sous formes primaires:</td></tr>
-<tr><td></td><td>[tab] – résines de pétrole, résines de coumarone, résines d’indène, résines de coumarone-indène et polyterpènes:</td></tr>
-<tr><td>1010</td><td>[tab] – – dispersés ou dissous dans un milieu non aqueux</td></tr>
-<tr><td>1090</td><td>[tab] – – autres</td></tr>
+<tr><td>1000</td><td>[tab] – résines de pétrole, résines de coumarone, résines d’indène, résines de coumarone-indène et polyterpènes</td></tr>
 <tr><td>2000</td><td>[tab] – poly(1,3-phénylène méthylphosphonate)</td></tr>
-<tr><td></td><td>[tab] – autres:</td></tr>
-<tr><td>9010</td><td>[tab] – – produits selon listes dans la partie 1b</td></tr>
-<tr><td>9090</td><td>[tab] – – autres</td></tr>
+<tr><td>9000</td><td>[tab] – autres</td></tr>
 <tr><td>3912.</td><td>Cellulose et ses dérivés chimiques, non dénommés ni compris ailleurs, sous formes primaires:</td></tr>
 <tr><td></td><td>[tab] – acétates de cellulose:</td></tr>
 <tr><td>1100</td><td>[tab] – – non plastifiés</td></tr>
 <tr><td>1200</td><td>[tab] – – plastifiés</td></tr>
 <tr><td>2000</td><td>[tab] – nitrates de cellulose (y compris les collodions)</td></tr>
 <tr><td></td><td>– éthers de cellulose:</td></tr>
-<tr><td></td><td>[tab] – – carboxyméthylcellulose et ses sels:</td></tr>
-<tr><td>3110</td><td>[tab] – – – produits selon listes dans la partie 1b</td></tr>
-<tr><td>3190</td><td>[tab] – – – autres</td></tr>
-<tr><td></td><td>[tab] – – autres:</td></tr>
-<tr><td>3910</td><td>[tab] – – – produits selon listes dans la partie 1b</td></tr>
-<tr><td>3990</td><td>[tab] – – – autres</td></tr>
-<tr><td></td><td>[tab] – autres:</td></tr>
-<tr><td>9010</td><td>[tab] – – produits selon listes dans la partie 1b</td></tr>
-<tr><td>9090</td><td>[tab] – – autres</td></tr>
+<tr><td>3100</td><td>[tab] – – carboxyméthylcellulose et ses sels</td></tr>
+<tr><td>3900</td><td>[tab] – – autres</td></tr>
+<tr><td>9000</td><td>[tab] – autres</td></tr>
 <tr><td>3913.</td><td>Polymères naturels (acide alginique, par exemple) et polymères naturels modifiés (protéines durcies, dérivés chimiques du caoutchouc naturel, par exemple), non dénommés ni compris ailleurs, sous formes primaires:</td></tr>
 <tr><td>1000</td><td>[tab] – acide alginique, ses sels et ses esters</td></tr>
-<tr><td></td><td>[tab] – autres:</td></tr>
-<tr><td>9010</td><td>[tab] – – produits selon listes dans la partie 1b</td></tr>
-<tr><td>9090</td><td>[tab] – – autres</td></tr>
-<tr><td>3914.</td><td>Échangeurs d’ions à base de polymères des n<sup>os</sup> 3901 à 3913, sous formes primaires:</td></tr>
-<tr><td>0010</td><td>[tab] – produits selon listes dans la partie 1b</td></tr>
-<tr><td>0090</td><td>[tab] – autres</td></tr>
+<tr><td>9000</td><td>[tab] – autres</td></tr>
+<tr><td>3914.0000</td><td>Échangeurs d’ions à base de polymères des n<sup>os</sup> 3901 à 3913, sous formes primaires</td></tr>
 </table>
 
 [^annex2-lvlu1-1]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)annexe
