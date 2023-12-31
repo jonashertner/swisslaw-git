@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 6. Oktober 2006 über Ergänzungsleistungen zur Alters-
 short: ELG
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/804"
 language: de
-version: 2023-01-01
+version: 2024-01-01
 adopted: 2006-10-06
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/804/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2007-804-20230101-de-xml-11.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/804/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/804/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2007-804-20240101-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/804/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/804/20230101/de"
 
 (ELG)
 
-vom 6. Oktober 2006 (Stand am 1. Januar 2023)
+vom 6. Oktober 2006 (Stand am 1. Januar 2024)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -76,17 +76,18 @@ Die Ergänzungsleistungen bestehen aus:
 Personen mit Wohnsitz und gewöhnlichem Aufenthalt (Art. 13 ATSG[^4-1]) in der Schweiz haben Anspruch auf Ergänzungsleistungen, wenn sie:
 
 - a.[^4-2] eine Altersrente der Alters- und Hinterlassenenversicherung (AHV) beziehen;
-- a<sup>bis</sup>.[^4-3] Anspruch auf eine Witwen- oder Witwerrente der AHV haben, solange sie das Rentenalter nach Artikel 21 des Bundesgesetzes vom 20. Dezember 1946[^4-4] über die Alters- und Hinterlassenenversicherung (AHVG) noch nicht erreicht haben, oder Anspruch auf eine Waisenrente der AHV haben;
+- a<sup>bis</sup>.[^4-3] Anspruch auf eine Witwen- oder Witwerrente der AHV haben, solange sie das Referenzalter nach Artikel 21 Absatz 1 des Bundesgesetzes vom 20. Dezember 1946[^4-4] über die Alters- und Hinterlassenenversicherung (AHVG) noch nicht erreicht haben;
 - a<sup>ter</sup>.[^4-5] gestützt auf Artikel 24*b* AHVG anstelle einer Altersrente eine Witwen- oder Witwerrente beziehen;
-- b.[^4-6]
+- a<sup>quater</sup>.[^4-6] Anspruch auf eine Waisenrente der AHV haben;
+- b.[^4-7]
 
   Anspruch hätten auf eine Rente der AHV, wenn:
 
   - 1\. sie die Mindestbeitragsdauer nach Artikel 29 Absatz 1 AHVG erfüllen würden, oder
-  - 2\. die verstorbene Person diese Mindestbeitragsdauer erfüllt hätte und die verwitweten oder verwaisten Personen das Rentenalter nach Artikel 21 AHVG noch nicht erreicht haben;
+  - 2\.[^4-8] die verstorbene Person diese Mindestbeitragsdauer erfüllt hätte und die verwitwete Person das Referenzalter nach Artikel 21 AHVG noch nicht erreicht hat;
 
 - c. Anspruch haben auf eine Rente oder eine Hilflosenentschädigung der Invalidenversicherung (IV) oder ununterbrochen während mindestens sechs Monaten ein Taggeld der IV beziehen; oder
-- d.[^4-7] Anspruch hätten auf eine Rente der IV, wenn sie die Mindestbeitragsdauer nach Artikel 36 Absatz 1 des Bundesgesetzes vom 19. Juni 1959[^4-8] über die Invalidenversicherung erfüllen würden.
+- d.[^4-9] Anspruch hätten auf eine Rente der IV, wenn sie die Mindestbeitragsdauer nach Artikel 36 Absatz 1 des Bundesgesetzes vom 19. Juni 1959[^4-10] über die Invalidenversicherung erfüllen würden.
 
 <sup>2</sup> Anspruch auf Ergänzungsleistungen haben auch getrennte Ehegatten und geschiedene Personen mit Wohnsitz und gewöhnlichem Aufenthalt (Art. 13 ATSG) in der Schweiz, wenn sie eine Zusatzrente der AHV oder IV beziehen.
 
@@ -95,20 +96,22 @@ Personen mit Wohnsitz und gewöhnlichem Aufenthalt (Art. 13 ATSG[^4-1]) in der S
 Der gewöhnliche Aufenthalt in der Schweiz nach Absatz 1 gilt als unterbrochen, wenn eine Person:
 
 - a. sich ununterbrochen mehr als drei Monate im Ausland aufhält; oder
-- b. sich in einem Kalenderjahr insgesamt mehr als drei Monate im Ausland aufhält.[^4-9]
+- b. sich in einem Kalenderjahr insgesamt mehr als drei Monate im Ausland aufhält.[^4-11]
 
-<sup>4</sup> Der Bundesrat bestimmt den Zeitpunkt der Sistierung und der Wiederausrichtung der Leistungen sowie die Fälle, in denen der gewöhnliche Aufenthalt in der Schweiz bei einem Auslandaufenthalt bis zu einem Jahr ausnahmsweise nicht unterbrochen wird.[^4-10]
+<sup>4</sup> Der Bundesrat bestimmt den Zeitpunkt der Sistierung und der Wiederausrichtung der Leistungen sowie die Fälle, in denen der gewöhnliche Aufenthalt in der Schweiz bei einem Auslandaufenthalt bis zu einem Jahr ausnahmsweise nicht unterbrochen wird.[^4-12]
 
 [^4-1]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^4-2]: Fassung gemäss Anhang Ziff. 3 des BG vom 17. Juni 2011 (Verbesserung der Durchführung), in Kraft seit 1. Jan. 2012 ([AS 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [BBl 2011 543](https://fedlex.data.admin.ch/eli/fga/2011/61)).
-[^4-3]: Eingefügt durch Anhang Ziff. 3 des BG vom 17. Juni 2011 (Verbesserung der Durchführung), in Kraft seit 1. Jan. 2012 ([AS 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [BBl 2011 543](https://fedlex.data.admin.ch/eli/fga/2011/61)).
+[^4-3]: Eingefügt durch Anhang Ziff. 3 des BG vom 17. Juni 2011 (Verbesserung der Durchführung) ([AS 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [BBl 2011 543](https://fedlex.data.admin.ch/eli/fga/2011/61)). Fassung gemäss Anhang Ziff. 3 des BG vom 17. Dez. 2021 (AHV 21), in Kraft seit 1. Jan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 [^4-4]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 [^4-5]: Eingefügt durch Anhang Ziff. 3 des BG vom 17. Juni 2011 (Verbesserung der Durchführung), in Kraft seit 1. Jan. 2012 ([AS 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [BBl 2011 543](https://fedlex.data.admin.ch/eli/fga/2011/61)).
-[^4-6]: Fassung gemäss Anhang Ziff. 3 des BG vom 17. Juni 2011 (Verbesserung der Durchführung), in Kraft seit 1. Jan. 2012 ([AS 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [BBl 2011 543](https://fedlex.data.admin.ch/eli/fga/2011/61)).
-[^4-7]: Fassung gemäss Ziff. IV des BG vom 6. Okt. 2006, in Kraft seit 1. Jan. 2008 ([AS 2007 5129](https://fedlex.data.admin.ch/eli/oc/2007/722); [BBl 2005 4459](https://fedlex.data.admin.ch/eli/fga/2005/719)).
-[^4-8]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
-[^4-9]: Eingefügt durch Ziff. I des BG vom 22. März 2019 (EL-Reform), in Kraft seit 1. Jan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^4-10]: Eingefügt durch Ziff. I des BG vom 22. März 2019 (EL-Reform), in Kraft seit 1. Jan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^4-6]: Eingefügt durch Anhang Ziff. 3 des BG vom 17. Dez. 2021 (AHV 21), in Kraft seit 1. Jan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^4-7]: Fassung gemäss Anhang Ziff. 3 des BG vom 17. Juni 2011 (Verbesserung der Durchführung), in Kraft seit 1. Jan. 2012 ([AS 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [BBl 2011 543](https://fedlex.data.admin.ch/eli/fga/2011/61)).
+[^4-8]: Fassung gemäss Anhang Ziff. 3 des BG vom 17. Dez. 2021 (AHV 21), in Kraft seit 1. Jan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^4-9]: Fassung gemäss Ziff. IV des BG vom 6. Okt. 2006, in Kraft seit 1. Jan. 2008 ([AS 2007 5129](https://fedlex.data.admin.ch/eli/oc/2007/722); [BBl 2005 4459](https://fedlex.data.admin.ch/eli/fga/2005/719)).
+[^4-10]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^4-11]: Eingefügt durch Ziff. I des BG vom 22. März 2019 (EL-Reform), in Kraft seit 1. Jan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^4-12]: Eingefügt durch Ziff. I des BG vom 22. März 2019 (EL-Reform), in Kraft seit 1. Jan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 
 #### Art. 5
 
@@ -123,23 +126,26 @@ Der gewöhnliche Aufenthalt in der Schweiz nach Absatz 1 gilt als unterbrochen, 
 Für Ausländerinnen und Ausländer, die gestützt auf ein Sozialversicherungsabkommen Anspruch auf ausserordentliche Renten der AHV oder IV hätten, beträgt die Karenzfrist:
 
 - a. fünf Jahre für Personen, die Anspruch auf eine Rente der IV haben oder hätten, wenn sie die Mindestbeitragsdauer nach Artikel 36 Absatz 1 des Bundesgesetzes vom 19. Juni 1959[^5-2] über die Invalidenversicherung erfüllen würden;
-- b. fünf Jahre für Personen, die, solange sie das ordentliche Rentenalter nach Artikel 21 AHVG[^5-3] noch nicht erreicht haben, Anspruch auf eine Hinterlassenenrente der AHV haben oder hätten, wenn die verstorbene Person zum Zeitpunkt ihres Todes die Mindestbeitragsdauer nach Artikel 29 Absatz 1 AHVG erfüllt hätte;
-- c. fünf Jahre für Personen, die eine Altersrente der AHV beziehen oder das ordentliche Rentenalter nach Artikel 21 AHVG erreicht haben und deren Altersrente eine Hinterlassenenrente der AHV oder eine Rente der IV ablöst oder ablösen würde;
-- d. zehn Jahre für Personen, die eine Altersrente der AHV beziehen oder das ordentliche Rentenalter nach Artikel 21 AHVG erreicht haben und deren Altersrente keine Hinterlassenenrente der AHV oder Rente der IV ablöst oder ablösen würde.[^5-4]
+- b.[^5-3] fünf Jahre für Personen, die, solange sie das Referenzalter nach Artikel 21 Absatz 1 AHVG[^5-4] noch nicht erreicht haben, Anspruch auf eine Hinterlassenenrente der AHV haben oder hätten, wenn die verstorbene Person zum Zeitpunkt ihres Todes die Mindestbeitragsdauer nach Artikel 29 Absatz 1 AHVG erfüllt hätte;
+- c.[^5-5] fünf Jahre für Personen, die eine Altersrente der AHV beziehen oder das Referenzalter nach Artikel 21 Absatz 1 AHVG erreicht haben und deren Altersrente eine Hinterlassenenrente der AHV oder eine Rente der IV ablöst oder ablösen würde;
+- d.[^5-6] zehn Jahre für Personen, die eine Altersrente der AHV beziehen oder das Referenzalter nach Artikel 21 Absatz 1 AHVG erreicht haben und deren Altersrente keine Hinterlassenenrente der AHV oder Rente der IV ablöst oder ablösen würde.[^5-7]
 
-<sup>4</sup> Ausländerinnen und Ausländer, die weder Flüchtlinge noch staatenlos sind noch unter Absatz 3 fallen, haben nur Anspruch auf Ergänzungsleistungen, wenn sie neben der Karenzfrist nach Absatz 1 eine der Voraussetzungen nach Artikel 4 Absatz 1 Buchstabe a, a<sup>bis</sup>, a<sup>ter</sup>, b Ziffer 2 oder c oder die Voraussetzungen nach Artikel 4 Absatz 2 erfüllen.[^5-5]
+<sup>4</sup> Ausländerinnen und Ausländer, die weder Flüchtlinge noch staatenlos sind noch unter Absatz 3 fallen, haben nur Anspruch auf Ergänzungsleistungen, wenn sie neben der Karenzfrist nach Absatz 1 eine der Voraussetzungen nach Artikel 4 Absatz 1 Buchstabe a, a<sup>bis</sup>, a<sup>ter</sup>, b Ziffer 2 oder c oder die Voraussetzungen nach Artikel 4 Absatz 2 erfüllen.[^5-8]
 
-<sup>5</sup> Hält sich eine Ausländerin oder ein Ausländer ununterbrochen während mehr als drei Monaten oder in einem Kalenderjahr insgesamt mehr als drei Monate im Ausland auf, so beginnt die Karenzfrist mit der Rückkehr in die Schweiz neu zu laufen.[^5-6]
+<sup>5</sup> Hält sich eine Ausländerin oder ein Ausländer ununterbrochen während mehr als drei Monaten oder in einem Kalenderjahr insgesamt mehr als drei Monate im Ausland auf, so beginnt die Karenzfrist mit der Rückkehr in die Schweiz neu zu laufen.[^5-9]
 
-<sup>6</sup> Der Bundesrat bestimmt die Fälle, in denen die Karenzfrist bei einem Auslandaufenthalt bis zu einem Jahr ausnahmsweise nicht unterbrochen wird.[^5-7]
+<sup>6</sup> Der Bundesrat bestimmt die Fälle, in denen die Karenzfrist bei einem Auslandaufenthalt bis zu einem Jahr ausnahmsweise nicht unterbrochen wird.[^5-10]
 
 [^5-1]: Fassung gemäss Anhang Ziff. 1 des BG vom 16. Dez. 2016 (Steuerung der Zuwanderung und Vollzugsverbesserungen bei den Freizügigkeitsabkommen), in Kraft seit 1. Juli 2018 ([AS 2018 733](https://fedlex.data.admin.ch/eli/oc/2018/93); [BBl 2016 3007](https://fedlex.data.admin.ch/eli/fga/2016/574)).
 [^5-2]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
-[^5-3]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^5-4]: Fassung gemäss Ziff. I des BG vom 22. März 2019 (EL-Reform), in Kraft seit 1. Jan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^5-5]: Fassung gemäss Anhang Ziff. 3 des BG vom 17. Juni 2011 (Verbesserung der Durchführung), in Kraft seit 1. Jan. 2012 ([AS 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [BBl 2011 543](https://fedlex.data.admin.ch/eli/fga/2011/61)).
-[^5-6]: Eingefügt durch Ziff. I des BG vom 22. März 2019 (EL-Reform), in Kraft seit 1. Jan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^5-7]: Eingefügt durch Ziff. I des BG vom 22. März 2019 (EL-Reform), in Kraft seit 1. Jan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^5-3]: Fassung gemäss Anhang Ziff. 3 des BG vom 17. Dez. 2021 (AHV 21), in Kraft seit 1. Jan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^5-4]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^5-5]: Fassung gemäss Anhang Ziff. 3 des BG vom 17. Dez. 2021 (AHV 21), in Kraft seit 1. Jan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^5-6]: Fassung gemäss Anhang Ziff. 3 des BG vom 17. Dez. 2021 (AHV 21), in Kraft seit 1. Jan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^5-7]: Fassung gemäss Ziff. I des BG vom 22. März 2019 (EL-Reform), in Kraft seit 1. Jan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^5-8]: Fassung gemäss Anhang Ziff. 3 des BG vom 17. Juni 2011 (Verbesserung der Durchführung), in Kraft seit 1. Jan. 2012 ([AS 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [BBl 2011 543](https://fedlex.data.admin.ch/eli/fga/2011/61)).
+[^5-9]: Eingefügt durch Ziff. I des BG vom 22. März 2019 (EL-Reform), in Kraft seit 1. Jan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^5-10]: Eingefügt durch Ziff. I des BG vom 22. März 2019 (EL-Reform), in Kraft seit 1. Jan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 
 #### Art. 6
 
@@ -326,18 +332,21 @@ Als Einnahmen werden angerechnet:
 - b.[^11-2] Einkünfte aus beweglichem und unbeweglichem Vermögen einschliesslich des Jahreswerts einer Nutzniessung oder eines Wohnrechts oder des Jahresmietwerts einer Liegenschaft, an der die Bezügerin oder der Bezüger oder eine andere Person, die in die Berechnung der Ergänzungsleistungen eingeschlossen ist, Eigentum hat und von mindestens einer dieser Personen bewohnt wird;
 - c.[^11-3] ein Fünfzehntel, bei Altersrentnerinnen und Altersrentnern ein Zehntel des Reinvermögens, soweit es bei alleinstehenden Personen 30 000 Franken, bei Ehepaaren 50 000 Franken und bei rentenberechtigten Waisen sowie bei Kindern, die einen Anspruch auf eine Kinderrente der AHV oder IV begründen, 15 000 Franken übersteigt; hat die Bezügerin oder der Bezüger oder eine Person, die in die Berechnung der Ergänzungsleistungen eingeschlossen ist, Eigentum an einer Liegenschaft, die mindestens von einer dieser Personen bewohnt wird, so ist nur der 112 500 Franken übersteigende Wert der Liegenschaft beim Vermögen zu berücksichtigen;
 - d. Renten, Pensionen und andere wiederkehrende Leistungen, einschliesslich der Renten der AHV und der IV;
+- d<sup>bis</sup>.[^11-4] die ganze Rente, auch wenn nur ein Teil davon nach Artikel 39 Absatz 1 AHVG[^11-5] aufgeschoben oder nach Artikel 40 Absatz 1 AHVG vorbezogen wird;
 - e. Leistungen aus Verpfründungsvertrag und ähnlichen Vereinbarungen;
 - f. Familienzulagen;
-- g.[^11-4] …
+- g.[^11-6] …
 - h. familienrechtliche Unterhaltsbeiträge;
-- i.[^11-5] die Prämienverbilligung für die Zeitspanne, für die rückwirkend eine Ergänzungsleistung ausgerichtet wird.
+- i.[^11-7] die Prämienverbilligung für die Zeitspanne, für die rückwirkend eine Ergänzungsleistung ausgerichtet wird.
 
 <sup>1bis</sup>
 
 In Abweichung von Absatz 1 Buchstabe c ist nur der 300 000 Franken übersteigende Wert der Liegenschaft beim Vermögen zu berücksichtigen:
 
 - a. wenn ein Ehepaar oder einer der Ehegatten Eigentum an einer Liegenschaft hat, die von einem der Ehegatten bewohnt wird, während der andere im Heim oder Spital lebt; oder
-- b. wenn eine Person Bezügerin einer Hilflosenentschädigung der AHV, IV, Unfallversicherung oder Militärversicherung ist und eine Liegenschaft bewohnt, an der sie oder ihr Ehegatte Eigentum hat.[^11-6]
+- b. wenn eine Person Bezügerin einer Hilflosenentschädigung der AHV, IV, Unfallversicherung oder Militärversicherung ist und eine Liegenschaft bewohnt, an der sie oder ihr Ehegatte Eigentum hat.[^11-8]
+
+<sup>1ter</sup> Personen, die einen Teil der Rente nach Artikel 40 Absatz 1 AHVG vorbeziehen und gleichzeitig Anspruch auf Leistungen der IV nach den Artikeln 10 und 22 des Bundesgesetzes vom 19. Juni 1959[^11-9] über die Invalidenversicherung haben, gelten für die Anrechnung des Reinvermögens nach Absatz 1 Buchstabe c nicht als Altersrentnerinnen oder Altersrentner.[^11-10]
 
 <sup>2</sup> Für in Heimen oder Spitälern lebende Personen können die Kantone den Vermögensverzehr abweichend von Absatz 1 Buchstabe c festlegen. Die Kantone können den Vermögensverzehr auf höchstens einen Fünftel erhöhen.
 
@@ -345,26 +354,32 @@ In Abweichung von Absatz 1 Buchstabe c ist nur der 300 000 Franken übersteigend
 
 Nicht angerechnet werden:
 
-- a. Verwandtenunterstützungen nach den Artikeln 328–330 des Zivilgesetzbuches[^11-7];
+- a. Verwandtenunterstützungen nach den Artikeln 328–330 des Zivilgesetzbuches[^11-11];
 - b. Unterstützungen der öffentlichen Sozialhilfe;
 - c. öffentliche oder private Leistungen mit ausgesprochenem Fürsorgecharakter;
 - d. Hilflosenentschädigungen der Sozialversicherungen;
 - e. Stipendien und andere Ausbildungsbeihilfen;
-- f.[^11-8] Assistenzbeiträge der AHV oder der IV;
-- g.[^11-9] Beiträge der obligatorischen Krankenpflegeversicherung an die Pflegeleistungen in einem Heim, wenn in der Tagestaxe keine Pflegekosten nach dem KVG[^11-10] berücksichtigt werden.
+- f.[^11-12] Assistenzbeiträge der AHV oder der IV;
+- g.[^11-13] Beiträge der obligatorischen Krankenpflegeversicherung an die Pflegeleistungen in einem Heim, wenn in der Tagestaxe keine Pflegekosten nach dem KVG[^11-14] berücksichtigt werden;
+- h.[^11-15] der Rentenzuschlag nach Artikel 34<sup>bis</sup> AHVG.
 
 <sup>4</sup> Der Bundesrat bestimmt die Fälle, in denen die Hilflosenentschädigungen der Sozialversicherungen als Einnahmen angerechnet werden.
 
 [^11-1]: Fassung gemäss Ziff. I des BG vom 22. März 2019 (EL-Reform), in Kraft seit 1. Jan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 [^11-2]: Fassung gemäss Ziff. I des BG vom 22. März 2019 (EL-Reform), in Kraft seit 1. Jan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 [^11-3]: Fassung gemäss Ziff. I des BG vom 22. März 2019 (EL-Reform), in Kraft seit 1. Jan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^11-4]: Aufgehoben durch Ziff. I des BG vom 22. März 2019 (EL-Reform), mit Wirkung seit 1. Jan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^11-5]: Eingefügt durch Ziff. I des BG vom 22. März 2019 (EL-Reform), in Kraft seit 1. Jan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^11-6]: Eingefügt durch Ziff. I 2 des BG vom 13. Juni 2008 über die Neuordnung der Pflegefinanzierung ([AS 2009 3517](https://fedlex.data.admin.ch/eli/oc/2009/432); [BBl 2005 2033](https://fedlex.data.admin.ch/eli/fga/2005/237)). Fassung gemäss Ziff. I des BG vom 22. März 2019 (EL-Reform), in Kraft seit 1. Jan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^11-7]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^11-8]: Eingefügt durch Anhang Ziff. 5 des BG vom 18. März 2011 (6. IV-Revision, erstes Massnahmenpaket), in Kraft seit 1. Jan. 2012 ([AS 2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799); [BBl 2010 1817](https://fedlex.data.admin.ch/eli/fga/2010/340)).
-[^11-9]: Eingefügt durch Ziff. I des BG vom 22. März 2019 (EL-Reform), in Kraft seit 1. Jan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^11-10]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^11-4]: Eingefügt durch Anhang Ziff. 3 des BG vom 17. Dez. 2021 (AHV 21), in Kraft seit 1. Jan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^11-5]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^11-6]: Aufgehoben durch Ziff. I des BG vom 22. März 2019 (EL-Reform), mit Wirkung seit 1. Jan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^11-7]: Eingefügt durch Ziff. I des BG vom 22. März 2019 (EL-Reform), in Kraft seit 1. Jan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^11-8]: Eingefügt durch Ziff. I 2 des BG vom 13. Juni 2008 über die Neuordnung der Pflegefinanzierung ([AS 2009 3517](https://fedlex.data.admin.ch/eli/oc/2009/432); [BBl 2005 2033](https://fedlex.data.admin.ch/eli/fga/2005/237)). Fassung gemäss Ziff. I des BG vom 22. März 2019 (EL-Reform), in Kraft seit 1. Jan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^11-9]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^11-10]: Eingefügt durch Anhang Ziff. 3 des BG vom 17. Dez. 2021 (AHV 21), in Kraft seit 1. Jan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^11-11]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^11-12]: Eingefügt durch Anhang Ziff. 5 des BG vom 18. März 2011 (6. IV-Revision, erstes Massnahmenpaket), in Kraft seit 1. Jan. 2012 ([AS 2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799); [BBl 2010 1817](https://fedlex.data.admin.ch/eli/fga/2010/340)).
+[^11-13]: Eingefügt durch Ziff. I des BG vom 22. März 2019 (EL-Reform), in Kraft seit 1. Jan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^11-14]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^11-15]: Eingefügt durch Anhang Ziff. 3 des BG vom 17. Dez. 2021 (AHV 21), in Kraft seit 1. Jan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 
 #### Art. 11a
 
@@ -402,12 +417,12 @@ Nicht angerechnet werden:
 
 <sup>2</sup> Bei in Heimen oder Spitälern lebenden Personen übernimmt der Bund fünf Achtel der jährlichen Ergänzungsleistungen, soweit die Summe des Betrags für den allgemeinen Lebensbedarf nach Artikel 10 Absatz 1 Buchstabe a Ziffer 1, des Betrags von 13 200 Franken für den Mietzins und der Beträge für die anerkannten Ausgaben nach Artikel 10 Absatz 3 nicht durch die anrechenbaren Einnahmen gedeckt sind; die mit dem Heim- oder Spitalaufenthalt in direktem Zusammenhang stehenden Einnahmen werden dabei nicht berücksichtigt. Den Rest tragen die Kantone.[^13-1]
 
-<sup>3</sup> Die Beiträge des Bundes werden aus allgemeinen Mitteln finanziert, soweit sie nicht der Rückstellung nach Artikel 111 AHVG[^13-2] entnommen werden können.
+<sup>3</sup> Der Bundesbeitrag wird zuerst aus den zweckgebundenen Erträgen aus der Belastung des Tabaks und der gebrannten Wasser finanziert. Der fehlende Betrag wird mit allgemeinen Mitteln gedeckt.[^13-2]
 
 <sup>4</sup> Der Bundesrat kann Regelungen für eine einfachere Berechnung des Bundesanteils erlassen; er regelt das Verfahren für dessen Ausrichtung.
 
 [^13-1]: Fassung gemäss Ziff. I des BG vom 22. März 2019 (EL-Reform), in Kraft seit 1. Jan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^13-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^13-2]: Fassung gemäss Anhang Ziff. 3 des BG vom 17. Dez. 2021 (AHV 21), in Kraft seit 1. Jan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 
 ### 4. Abschnitt: Vergütung der Krankheits- und Behinderungskosten durch die Kantone
 
@@ -615,16 +630,17 @@ Der Bundesrat erlässt die erforderlichen Buchführungsvorschriften für die Org
 
 **Revision**
 
-<sup>1</sup> Bei den Stellen, die Ergänzungsleistungen festsetzen und auszahlen, ist jährlich mindestens einmal eine Revision durchzuführen. Die Revision hat sich auf die materielle Rechtsanwendung, die Buchhaltung und die Geschäftsführung zu erstrecken.
+<sup>1</sup> Bei den Stellen, die Ergänzungsleistungen festsetzen und auszahlen, ist jährlich mindestens einmal eine Revision durchzuführen. Die Revision hat sich auf die Einhaltung der gesetzlichen Vorschriften, die Buchführung, die Jahresrechnung und die Geschäftsführung zu erstrecken.[^23-1]
 
-<sup>2</sup> Für die Revision einer Ausgleichskasse, die Ergänzungsleistungen festsetzt und auszahlt, ist die Revisionsstelle zuständig, welche die Ausgleichskasse nach Artikel 68 AHVG[^23-1] revidiert.
+<sup>2</sup> Für die Revision einer Ausgleichskasse, die Ergänzungsleistungen festsetzt und auszahlt, ist die Revisionsstelle zuständig, welche die Ausgleichskasse nach Artikel 68 AHVG[^23-2] revidiert.
 
 <sup>3</sup> Für die Revision anderer Durchführungsstellen bezeichnet der Kanton die Revisionsstelle. Er kann die Aufgabe einer für die Revision von Ausgleichskassen zugelassenen Revisionsstelle oder einer geeigneten kantonalen Kontrollstelle übertragen.
 
-<sup>4</sup> Das Bundesamt für Sozialversicherungen (BSV)[^23-2] ist befugt, wenn nötig ergänzende Revisionen selber vorzunehmen oder durch andere Stellen durchführen zu lassen.
+<sup>4</sup> Artikel 72*b* Buchstabe e AHVG findet sinngemäss Anwendung.[^23-3]
 
-[^23-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^23-2]: Ausdruck gemäss Ziff. I des BG vom 22. März 2019 (EL-Reform), in Kraft seit 1. Jan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
+[^23-1]: Fassung des zweiten Satzes gemäss Anhang Ziff. 4 des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^23-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^23-3]: Fassung gemäss Anhang Ziff. 4 des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 
 #### Art. 24
 
@@ -632,7 +648,7 @@ Der Bundesrat erlässt die erforderlichen Buchführungsvorschriften für die Org
 
 <sup>1</sup> Die Verwaltungskosten für die Festsetzung und die Auszahlung der jährlichen Ergänzungsleistungen werden zwischen Bund und Kantonen im Verhältnis ihrer Anteile an den Kosten für Ergänzungsleistungen nach Artikel 13 Absätze 1 und 2 aufgeteilt.
 
-<sup>2</sup> Der Bundesrat regelt die Einzelheiten der Festsetzung und das Verfahren. Er kann Fallpauschalen festlegen und vorsehen, dass die Beteiligung des Bundes an den Verwaltungskosten angemessen gekürzt wird, wenn die Vorschriften dieses Gesetzes, der darauf gestützten Verordnungen oder der Weisungen des BSV wiederholt nicht beachtet werden.[^24-1]
+<sup>2</sup> Der Bundesrat regelt die Einzelheiten der Festsetzung und das Verfahren. Er kann Fallpauschalen festlegen und vorsehen, dass die Beteiligung des Bundes an den Verwaltungskosten angemessen gekürzt wird, wenn die Vorschriften dieses Gesetzes, der darauf gestützten Verordnungen oder der Weisungen des Bundesamt für Sozialversicherungen (BSV) wiederholt nicht beachtet werden.[^24-1]
 
 [^24-1]: Fassung des zweiten Satzes gemäss Ziff. I des BG vom 22. März 2019 (EL-Reform), in Kraft seit 1. Jan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 
@@ -646,27 +662,21 @@ Die Haftung der Organe nach Artikel 21 Absatz 2 richtet sich, in Abweichung von 
 
 #### Art. 26
 
-**Anwendbarkeit der Bestimmungen des AHVG**[^26-1]
+**Anwendbare Bestimmungen des AHVG**[^26-1]
 
 <sup>1</sup>
 
-Die folgenden Bestimmungen des AHVG[^26-2] mit ihren allfälligen Abweichungen vom ATSG[^26-3] gelten sinngemäss:
+Es gelten sinngemäss die folgenden Bestimmungen des AHVG[^26-2] über:
 
-- a. das Bearbeiten von Personendaten (Art. 49*a* AHVG[^26-4]);
-- b. die Datenbekanntgabe (Art. 50*a* AHVG);
-- c.[^26-5] die AHV-Nummer (Art. 50*c* AHVG);
-- d.[^26-6] die systematische Verwendung der AHV-Nummer (Art. 153*b*–153*i* AHVG);
-- e. und f.[^26-7] …
+- a. die Informationssysteme (Art. 49*a*, 49*b* und 72*a* Abs. 2 Bst. b AHVG);
+- b. das Bearbeiten von Personendaten (Art. 49*f* AHVG);
+- c. die Datenbekanntgabe (Art. 50*a* AHVG);
+- d. die systematische Verwendung der AHV-Nummer (Art. 50*c* und 153*b*–153*i* AHVG).
 
-<sup>2</sup> Die Organe nach Artikel 21 Absatz 2 haben durch Abrufverfahren Zugriff auf das zentrale Register der laufenden Leistungen der Zentralen Ausgleichsstelle (Art. 50*b* AHVG).
+<sup>2</sup> Die Organe nach Artikel 21 Absatz 2 haben durch Abrufverfahren Zugriff auf das zentrale Register der laufenden Geldleistungen der Zentralen Ausgleichsstelle (Art. 50*b* AHVG).
 
-[^26-1]: Fassung gemäss Ziff. I des BG vom 22. März 2019 (EL-Reform), in Kraft seit 1. Jan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^26-1]: Fassung gemäss Anhang Ziff. 4 des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 [^26-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^26-3]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^26-4]: Siehe heute: Art. 49*b*.
-[^26-5]: Fassung gemäss Anhang Ziff. 28 des BG vom 18. Dez. 2020 (Systematische Verwendung der AHV-Nummer durch Behörden), in Kraft seit 1. Jan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
-[^26-6]: Fassung gemäss Anhang Ziff. 28 des BG vom 18. Dez. 2020 (Systematische Verwendung der AHV-Nummer durch Behörden), in Kraft seit 1. Jan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
-[^26-7]: Aufgehoben durch Anhang Ziff. 28 des BG vom 18. Dez. 2020 (Systematische Verwendung der AHV-Nummer durch Behörden), mit Wirkung seit 1. Jan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 
 #### Art. 26a
 
@@ -711,11 +721,14 @@ Mittels Abrufverfahren haben Zugriff auf das EL-Informationssystem:
 
 #### Art. 28
 
-**Aufsicht des Bundes**
+**Aufsicht des Bundes**[^28-1]
 
-<sup>1</sup> Der Bundesrat übt die Aufsicht über die Durchführung dieses Gesetzes aus. Er kann das BSV beauftragen, den mit der Durchführung betrauten Stellen Weisungen für den einheitlichen Vollzug zu erteilen.
+<sup>1</sup> Der Bundesrat übt die Aufsicht über die Durchführung dieses Gesetzes aus.
 
-<sup>2</sup> Die Kantone und die gemeinnützigen Institutionen haben den vom Bundesrat bezeichneten Stellen alle Auskünfte zu geben und alle Akten zu unterbreiten, die diese für die Aufsicht brauchen. Sie haben zudem dem Bundesrat jeweils Jahresbericht und Jahresrechnung mit den verlangten statistischen Angaben einzureichen.
+<sup>2</sup> Für die Aufsicht finden die Artikel 72, 72*a* und 72*b* Buchstaben a–c und i AHVG[^28-2] sinngemäss Anwendung.
+
+[^28-1]: Fassung gemäss Anhang Ziff. 4 des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^28-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
 #### Art. 29
 
@@ -723,7 +736,9 @@ Mittels Abrufverfahren haben Zugriff auf das EL-Informationssystem:
 
 <sup>1</sup> Die von den Kantonen erlassenen Vollzugsbestimmungen sind dem Bund zur Genehmigung zu unterbreiten.
 
-<sup>2</sup> Die Grundsätze der gemeinnützigen Institutionen sind dem BSV zur Genehmigung zu unterbreiten und sind für die Organe der Institutionen verbindlich.
+<sup>2</sup> Die Grundsätze der gemeinnützigen Institutionen sind dem BSV[^29-1] zur Genehmigung zu unterbreiten und sind für die Organe der Institutionen verbindlich.
+
+[^29-1]: Ausdruck gemäss Ziff. I des BG vom 22. März 2019 (EL-Reform), in Kraft seit 1. Jan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 
 #### Art. 30
 

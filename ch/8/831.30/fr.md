@@ -4,11 +4,11 @@ title: "Loi fédérale du 6 octobre 2006 sur les prestations complémentaires à
 short: LPC
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/804"
 language: fr
-version: 2023-01-01
+version: 2024-01-01
 adopted: 2006-10-06
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/804/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-804-20230101-fr-xml-11.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/804/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/804/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-804-20240101-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/804/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/804/20230101/fr"
 
 (Loi sur les prestations complémentaires, LPC)[^t-1]
 
-du 6 octobre 2006[^t-2] (État le 1<sup>er</sup> janvier 2023)
+du 6 octobre 2006[^t-2] (État le 1<sup>er</sup> janvier 2024)
 
 [^t-1]: <sup>∗</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 [^t-2]: Ch. I 3 de la LF concernant l’adoption et la modification d’actes dans le cadre de la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons (RPT; [RO 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787)).
@@ -79,17 +79,18 @@ Les prestations complémentaires se composent:
 Les personnes qui ont leur domicile et leur résidence habituelle (art. 13 LPGA[^4-1]) en Suisse ont droit à des prestations complémentaires dès lors qu’elles:
 
 - a.[^4-2] perçoivent une rente de vieillesse de l’assurance-vieillesse et survivants (AVS);
-- a<sup>bis</sup>.[^4-3] ont droit à une rente de veuve ou de veuf de l’AVS tant qu’elles n’ont pas atteint l’âge de la retraite au sens de l’art. 21 de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants (LAVS)[^4-4] ou ont droit à une rente d’orphelin de l’AVS;
+- a<sup>bis</sup>.[^4-3] ont droit à une rente de veuve ou de veuf de l’AVS, tant qu’elles n’ont pas atteint l’âge de référence fixé à l’art. 21, al. 1, de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants (LAVS)[^4-4];
 - a<sup>ter</sup>.[^4-5] perçoivent, en vertu de l’art. 24*b* LAVS, une rente de veuve ou de veuf en lieu et place d’une rente de vieillesse;
-- b.[^4-6]
+- a<sup>quater</sup>.[^4-6] ont droit à une rente d’orphelin de l’AVS;
+- b.[^4-7]
 
   auraient droit à une rente de l’AVS:
 
   - 1\. si elles justifiaient de la durée de cotisation minimale requise à l’art. 29, al. 1, LAVS,
-  - 2\. si la personne décédée justifiait de cette durée de cotisation, pour autant que la personne veuve ou orpheline n’ait pas atteint l’âge de la retraite prévu à l’art. 21 LAVS;
+  - 2\.[^4-8] si la personne décédée justifiait de cette durée de cotisation minimale, pour autant que la personne veuve n’ait pas atteint l’âge de référence fixé à l’art. 21, al. 1, LAVS;
 
 - c. ont droit à une rente ou à une allocation pour impotent de l’assurance-invalidité (AI) ou perçoivent des indemnités journalières de l’AI sans interruption pendant six mois au moins;
-- d.[^4-7] auraient droit à une rente de l’AI si elles justifiaient de la durée de cotisation minimale requise à l’art. 36, al. 1, de la loi du 19 juin 1959 sur l’assurance-invalidité[^4-8].
+- d.[^4-9] auraient droit à une rente de l’AI si elles justifiaient de la durée de cotisation minimale requise à l’art. 36, al. 1, de la loi du 19 juin 1959 sur l’assurance-invalidité[^4-10].
 
 <sup>2</sup> Ont aussi droit à des prestations complémentaires les époux séparés et les personnes divorcées qui ont leur domicile et leur résidence habituelle (art. 13 LPGA) en Suisse, s’ils perçoivent une rente complémentaire de l’AVS ou de l’AI.
 
@@ -98,20 +99,22 @@ Les personnes qui ont leur domicile et leur résidence habituelle (art. 13 LPGA[
 La résidence habituelle en Suisse au sens de l’al. 1 est considérée comme interrompue lorsqu’une personne:
 
 - a. séjourne à l’étranger pendant plus de trois mois de manière ininterrompue, ou
-- b. séjourne à l’étranger pendant plus de trois mois au total au cours d’une même année civile.[^4-9]
+- b. séjourne à l’étranger pendant plus de trois mois au total au cours d’une même année civile.[^4-11]
 
-<sup>4</sup> Le Conseil fédéral détermine le moment de la suspension et de la reprise du versement des prestations, ainsi que les cas dans lesquels la résidence habituelle en Suisse est exceptionnellement considérée comme n’étant pas interrompue lorsque le séjour à l’étranger dure un an au plus.[^4-10]
+<sup>4</sup> Le Conseil fédéral détermine le moment de la suspension et de la reprise du versement des prestations, ainsi que les cas dans lesquels la résidence habituelle en Suisse est exceptionnellement considérée comme n’étant pas interrompue lorsque le séjour à l’étranger dure un an au plus.[^4-12]
 
 [^4-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^4-2]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 17 juin 2011 (Amélioration de la mise en oeuvre), en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 519](https://fedlex.data.admin.ch/eli/fga/2011/61)).
-[^4-3]: Introduite par l’annexe ch. 3 de la LF du 17 juin 2011 (Amélioration de la mise en oeuvre), en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 519](https://fedlex.data.admin.ch/eli/fga/2011/61)).
+[^4-2]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 17 juin 2011 (Amélioration de la mise en œuvre), en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 519](https://fedlex.data.admin.ch/eli/fga/2011/61)).
+[^4-3]: Introduite par l’annexe ch. 3 de la LF du 17 juin 2011 (Amélioration de la mise en œuvre) ([RO 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 519](https://fedlex.data.admin.ch/eli/fga/2011/61)). Nouvelle teneur selon l’annexe ch. 3 de la LF du 17 déc. 2021 (AVS 21), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5979](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 [^4-4]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^4-5]: Introduite par l’annexe ch. 3 de la LF du 17 juin 2011 (Amélioration de la mise en oeuvre), en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 519](https://fedlex.data.admin.ch/eli/fga/2011/61)).
-[^4-6]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 17 juin 2011 (Amélioration de la mise en oeuvre), en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 519](https://fedlex.data.admin.ch/eli/fga/2011/61)).
-[^4-7]: Nouvelle teneur selon le ch. IV de la loi du 6 oct. 2006, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5129](https://fedlex.data.admin.ch/eli/oc/2007/722); [FF 2005 4215](https://fedlex.data.admin.ch/eli/fga/2005/719)).
-[^4-8]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
-[^4-9]: Introduit par le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^4-10]: Introduit par le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^4-5]: Introduite par l’annexe ch. 3 de la LF du 17 juin 2011 (Amélioration de la mise en œuvre), en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 519](https://fedlex.data.admin.ch/eli/fga/2011/61)).
+[^4-6]: Introduite par l’annexe ch. 3 de la LF du 17 déc. 2021 (AVS 21), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5979](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^4-7]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 17 juin 2011 (Amélioration de la mise en œuvre), en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 519](https://fedlex.data.admin.ch/eli/fga/2011/61)).
+[^4-8]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 17 déc. 2021 (AVS 21), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5979](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^4-9]: Nouvelle teneur selon le ch. IV de la loi du 6 oct. 2006, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5129](https://fedlex.data.admin.ch/eli/oc/2007/722); [FF 2005 4215](https://fedlex.data.admin.ch/eli/fga/2005/719)).
+[^4-10]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^4-11]: Introduit par le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^4-12]: Introduit par le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 
 #### Art. 5
 
@@ -126,23 +129,26 @@ La résidence habituelle en Suisse au sens de l’al. 1 est considérée comme i
 Pour les étrangers qui auraient droit à une rente extraordinaire de l’AVS ou de l’AI en vertu d’une convention de sécurité sociale, le délai de carence est de:
 
 - a. cinq ans s’ils ont droit à une rente de l’AI ou qu’ils y auraient droit s’ils justifiaient de la durée de cotisation minimale requise à l’art. 36, al. 1, de la loi fédérale du 19 juin 1959 sur l’assurance-invalidité[^5-2];
-- b. cinq ans s’ils ont droit à une rente de survivants de l’AVS et n’ont pas atteint l’âge ordinaire de la retraite au sens de l’art. 21 LAVS[^5-3] ou qu’ils y auraient droit si la personne décédée justifiait, au moment de son décès, de la durée de cotisation minimale requise à l’art. 29, al. 1, LAVS;
-- c. cinq ans s’ils perçoivent une rente de vieillesse de l’AVS ou s’ils ont atteint l’âge ordinaire de la retraite au sens de l’art. 21 LAVS, et que la rente de vieillesse remplace ou remplacerait une rente de survivants de l’AVS ou une rente de l’AI;
-- d. dix ans s’ils perçoivent une rente de vieillesse de l’AVS ou s’ils ont atteint l’âge ordinaire de la retraite au sens de l’art. 21 LAVS, et que la rente de vieillesse ne remplace pas ou ne remplacerait pas une rente de survivants de l’AVS ni une rente de l’AI.[^5-4]
+- b.[^5-3] cinq ans s’ils ont droit à une rente de survivants de l’AVS et n’ont pas atteint l’âge de référence fixé à l’art. 21, al. 1, LAVS[^5-4] ou qu’ils y auraient droit si la personne décédée justifiait, au moment de son décès, de la durée de cotisation minimale requise à l’art. 29, al. 1, LAVS;
+- c.[^5-5] cinq ans s’ils perçoivent une rente de vieillesse de l’AVS ou s’ils ont atteint l’âge de référence fixé à l’art. 21, al. 1, LAVS, et que la rente de vieillesse remplace ou remplacerait une rente de survivants de l’AVS ou une rente de l’AI;
+- d.[^5-6] dix ans s’ils perçoivent une rente de vieillesse de l’AVS ou s’ils ont atteint l’âge de référence fixé à l’art. 21, al. 1, LAVS, et que la rente de vieillesse ne remplace pas ou ne remplacerait pas une rente de survivants de l’AVS ni une rente de l’AI.[^5-7]
 
-<sup>4</sup> Les étrangers qui ne sont ni des réfugiés ni des apatrides et qui ne sont pas visés à l’al. 3 ont droit aux prestations complémentaires s’ils satisfont au délai de carence visé à l’al. 1 et remplissent une des conditions fixées à l’art. 4, al. 1, let. a, a<sup>bis</sup>, a<sup>ter</sup>, b, ch. 2, et c, ou les conditions prévues à l’art. 4, al. 2.[^5-5]
+<sup>4</sup> Les étrangers qui ne sont ni des réfugiés ni des apatrides et qui ne sont pas visés à l’al. 3 ont droit aux prestations complémentaires s’ils satisfont au délai de carence visé à l’al. 1 et remplissent une des conditions fixées à l’art. 4, al. 1, let. a, a<sup>bis</sup>, a<sup>ter</sup>, b, ch. 2, et c, ou les conditions prévues à l’art. 4, al. 2.[^5-8]
 
-<sup>5</sup> Si un étranger séjourne à l’étranger pendant plus de trois mois de manière ininterrompue ou pendant plus de trois mois au total au cours d’une même année civile, un nouveau délai de carence commence à courir après son retour en Suisse.[^5-6]
+<sup>5</sup> Si un étranger séjourne à l’étranger pendant plus de trois mois de manière ininterrompue ou pendant plus de trois mois au total au cours d’une même année civile, un nouveau délai de carence commence à courir après son retour en Suisse.[^5-9]
 
-<sup>6</sup> Le Conseil fédéral détermine les cas dans lesquels le délai de carence est exceptionnellement considéré comme n’étant pas interrompu lorsque le séjour à l’étranger dure un an au plus.[^5-7]
+<sup>6</sup> Le Conseil fédéral détermine les cas dans lesquels le délai de carence est exceptionnellement considéré comme n’étant pas interrompu lorsque le séjour à l’étranger dure un an au plus.[^5-10]
 
 [^5-1]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 16 déc. 2016 (Gestion de l’immigration et amélioration de la mise en œuvre des accords sur la libre circulation des personnes), en vigueur depuis le 1<sup>er</sup> juil. 2018 ([RO 2018 733](https://fedlex.data.admin.ch/eli/oc/2018/93); [FF 2016 2835](https://fedlex.data.admin.ch/eli/fga/2016/574)).
 [^5-2]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
-[^5-3]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^5-4]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^5-5]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 17 juin 2011 (Amélioration de la mise en oeuvre), en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 519](https://fedlex.data.admin.ch/eli/fga/2011/61)).
-[^5-6]: Introduit par le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^5-7]: Introduit par le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^5-3]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 17 déc. 2021 (AVS 21), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5979](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^5-4]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^5-5]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 17 déc. 2021 (AVS 21), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5979](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^5-6]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 17 déc. 2021 (AVS 21), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5979](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^5-7]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^5-8]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 17 juin 2011 (Amélioration de la mise en œuvre), en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 519](https://fedlex.data.admin.ch/eli/fga/2011/61)).
+[^5-9]: Introduit par le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^5-10]: Introduit par le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 
 #### Art. 6
 
@@ -205,7 +211,7 @@ Le Conseil fédéral édicte des dispositions sur:
 - g. la coordination avec la réduction des primes prévues par la loi fédérale du 18 mars 1994 sur l’assurance-maladie (LAMal)[^9-5];
 - h. la définition de la notion de home.
 
-[^9-1]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur de-puis le 1<sup>er</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^9-1]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 [^9-2]: Introduit par le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 [^9-3]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 [^9-4]: Introduite par le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
@@ -329,18 +335,21 @@ Les revenus déterminants comprennent:
 - b.[^11-2] le produit de la fortune mobilière et immobilière, y compris la valeur annuelle d’un usufruit ou d’un droit d’habitation ou la valeur locative annuelle d’un immeuble dont le bénéficiaire de prestations complémentaires ou une autre personne comprise dans le calcul de ces prestations est propriétaire, et qui sert d’habitation à l’une de ces personnes au moins;
 - c.[^11-3] un quinzième de la fortune nette, un dixième pour les bénéficiaires de rentes de vieillesse, dans la mesure où elle dépasse 30 000 francs pour les personnes seules, 50 000 francs pour les couples et 15 000 francs pour les orphelins et les enfants donnant droit à des rentes pour enfant de l’AVS ou de l’AI; si le bénéficiaire de prestations complémentaires ou une autre personne comprise dans le calcul de ces prestations est propriétaire d’un immeuble qui sert d’habitation à l’une de ces personnes au moins, seule la valeur de l’immeuble supérieure à 112 500 francs entre en considération au titre de la fortune;
 - d. les rentes, pensions et autres prestations périodiques, y compris les rentes de l’AVS et de l’AI;
+- d<sup>bis</sup>.[^11-4] la rente entière, même si seul un pourcentage de la rente est ajourné en vertu de l’art. 39, al. 1, LAVS[^11-5] ou perçu de manière anticipée en vertu de l’art. 40, al. 1, LAVS;
 - e. les prestations touchées en vertu d’un contrat d’entretien viager ou de toute autre convention analogue;
 - f. les allocations familiales;
-- g.[^11-4] …
+- g.[^11-6] ...
 - h. les pensions alimentaires prévues par le droit de la famille;
-- i.[^11-5] la réduction des primes accordée pour une période pour laquelle des prestations complémentaires sont attribuées avec effet rétroactif.
+- i.[^11-7] la réduction des primes accordée pour une période pour laquelle des prestations complémentaires sont attribuées avec effet rétroactif.
 
 <sup>1bis</sup>
 
 En dérogation à l’al. 1, let. c, seule la valeur de l’immeuble supérieure à 300 000 francs entre en considération au titre de la fortune lorsque l’une des conditions suivantes est remplie:
 
 - a. un couple ou un des conjoints est propriétaire d’un immeuble qui sert d’habitation à l’un des conjoints tandis que l’autre vit dans un home ou dans un hôpital;
-- b. le bénéficiaire d’une allocation pour impotent de l’AVS, de l’AI, de l’assurance-accidents ou de l’assurance militaire vit dans un immeuble dont lui-même ou son conjoint est propriétaire.[^11-6]
+- b. le bénéficiaire d’une allocation pour impotent de l’AVS, de l’AI, de l’assurance-accidents ou de l’assurance militaire vit dans un immeuble dont lui-même ou son conjoint est propriétaire.[^11-8]
+
+<sup>1ter</sup> Les personnes ayant droit à des prestations de l’AI en vertu des art. 10 et 22 de la loi fédérale du 19 juin 1959 sur l’assurance-invalidité[^11-9] qui perçoivent un pourcentage de leur rente de manière anticipée en vertu de l’art. 40, al. 1, LAVS ne sont pas considérées comme des bénéficiaires d’une rente de vieillesse pour la prise en compte de la fortune nette en vertu de l’al. 1, let. c.[^11-10]
 
 <sup>2</sup> Pour les personnes vivant dans un home ou dans un hôpital, les cantons peuvent fixer le montant de la fortune qui sera pris en compte en dérogeant à l’al. 1, let. c. Les cantons sont autorisés à augmenter, jusqu’à concurrence d’un cinquième, ce montant.
 
@@ -348,26 +357,32 @@ En dérogation à l’al. 1, let. c, seule la valeur de l’immeuble supérieure
 
 Ne sont pas pris en compte:
 
-- a. les aliments fournis par les proches en vertu des art. 328 à 330 du code civil[^11-7];
+- a. les aliments fournis par les proches en vertu des art. 328 à 330 du code civil[^11-11];
 - b. les prestations d’aide sociale;
 - c. les prestations provenant de personnes et d’institutions publiques ou privées ayant un caractère d’assistance manifeste;
 - d. les allocations pour impotents des assurances sociales;
 - e. les bourses d’études et autres aides financières destinées à l’instruction;
-- f.[^11-8] la contribution d’assistance versée par l’AVS ou par l’AI;
-- g.[^11-9] les contributions de l’assurance obligatoire des soins aux coûts des soins dispensés dans un home, lorsque la taxe journalière ne comprend pas les coûts des soins au sens de la LAMal[^11-10].
+- f.[^11-12] la contribution d’assistance versée par l’AVS ou par l’AI;
+- g.[^11-13] les contributions de l’assurance obligatoire des soins aux coûts des soins dispensés dans un home, lorsque la taxe journalière ne comprend pas les coûts des soins au sens de la LAMal[^11-14];
+- h.[^11-15] le supplément de rente selon l’art. 34<sup>bis</sup> LAVS.
 
 <sup>4</sup> Le Conseil fédéral détermine les cas dans lesquels les allocations pour impotents des assurances sociales doivent être prises en compte dans les revenus déterminants.
 
 [^11-1]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 [^11-2]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 [^11-3]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^11-4]: Abrogée par le ch. I de la LF du 22 mars 2019 (Réforme des PC), avec effet au 1<sup>er</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^11-5]: Introduite par le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^11-6]: Introduit par le ch. I 2 de la LF du 13 juin 2008 sur le nouveau régime de financement des soins ([RO 2009 3517](https://fedlex.data.admin.ch/eli/oc/2009/432); [FF 2005 1911](https://fedlex.data.admin.ch/eli/fga/2005/237)). Nouvelle teneur selon le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^11-7]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^11-8]: Introduite par l’annexe ch. 5 de la LF du 18 mars 2011 (6<sup>e</sup> révision de l’AI, premier volet), en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799); [FF 2010 1647](https://fedlex.data.admin.ch/eli/fga/2010/340)).
-[^11-9]: Introduite par le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^11-10]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^11-4]: Introduite par l’annexe ch. 3 de la LF du 17 déc. 2021 (AVS 21), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5979](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^11-5]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^11-6]: Abrogée par le ch. I de la LF du 22 mars 2019 (Réforme des PC), avec effet au 1<sup>er</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^11-7]: Introduite par le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^11-8]: Introduit par le ch. I 2 de la LF du 13 juin 2008 sur le nouveau régime de financement des soins ([RO 2009 3517](https://fedlex.data.admin.ch/eli/oc/2009/432); [FF 2005 1911](https://fedlex.data.admin.ch/eli/fga/2005/237)). Nouvelle teneur selon le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^11-9]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^11-10]: Introduit par l’annexe ch. 3 de la LF du 17 déc. 2021 (AVS 21), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5979](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^11-11]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^11-12]: Introduite par l’annexe ch. 5 de la LF du 18 mars 2011 (6<sup>e</sup> révision de l’AI, premier volet), en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799); [FF 2010 1647](https://fedlex.data.admin.ch/eli/fga/2010/340)).
+[^11-13]: Introduite par le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^11-14]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^11-15]: Introduite par l’annexe ch. 3 de la LF du 17 déc. 2021 (AVS 21), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5979](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 
 #### Art. 11a
 
@@ -405,12 +420,12 @@ Ne sont pas pris en compte:
 
 <sup>2</sup> Pour les personnes vivant dans un home ou un hôpital, la Confédération prend à sa charge cinq huitièmes des prestations complémentaires annuelles, si la somme du montant destiné à la couverture des besoins vitaux au sens de l’art. 10, al. 1, let. a, ch. 1, du montant de 13 200 francs pour le loyer et des montants pour les dépenses reconnues au sens de l’art. 10, al. 3, n’est pas couverte par les revenus déterminants; les revenus en rapport direct avec le séjour dans un home ou dans un hôpital ne sont pas pris en compte. Le solde est à la charge des cantons.[^13-1]
 
-<sup>3</sup> Les subventions allouées par la Confédération sont prélevées sur les ressources générales, à moins qu’elles ne puissent l’être sur la réserve prévue à l’art. 111 LAVS[^13-2].
+<sup>3</sup> La contribution de la Confédération est financée en premier lieu par le produit de l’impôt sur le tabac et les boissons distillées. Le montant manquant est couvert au moyen des ressources générales.[^13-2]
 
 <sup>4</sup> Le Conseil fédéral peut prévoir des procédures simplifiées pour déterminer la part fédérale et fixe la procédure à suivre pour son versement.
 
 [^13-1]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^13-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^13-2]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 17 déc. 2021 (AVS 21), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5979](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 
 ### Section 4 Remboursement des frais de maladie et d’invalidité par les cantons
 
@@ -616,16 +631,17 @@ Le Conseil fédéral édicte les dispositions nécessaires concernant la comptab
 
 **Révision**
 
-<sup>1</sup> Les services qui fixent et versent les prestations complémentaires doivent être révisés au moins une fois par an. La révision doit s’étendre à l’application des dispositions légales quant au fond, à la comptabilité et à la gestion en général.
+<sup>1</sup> Les services qui fixent et versent les prestations complémentaires doivent être révisés au moins une fois par an. La révision doit s’étendre au respect des dispositions légales, à la comptabilité, aux comptes annuels et à la gestion en général.[^23-1]
 
-<sup>2</sup> La révision d’une caisse de compensation qui fixe et verse les prestations complémentaires incombe au bureau de révision compétent en vertu de l’art. 68 LAVS[^23-1].
+<sup>2</sup> La révision d’une caisse de compensation qui fixe et verse les prestations complémentaires incombe au bureau de révision compétent en vertu de l’art. 68 LAVS[^23-2].
 
 <sup>3</sup> Le canton désigne le bureau de révision chargé de la révision des autres organes d’exécution. Il peut confier cette tâche à un bureau de révision reconnu comme organe de révision des caisses de compensation ou à un service de contrôle cantonal approprié.
 
-<sup>4</sup> L’Office fédéral des assurances sociales (OFAS)[^23-2] est autorisé à procéder si nécessaire lui-même à des révisions complémentaires ou à confier ces révisions à d’autres services.
+<sup>4</sup> L’art. 72b, let. e, LAVS est applicable par analogie.[^23-3]
 
-[^23-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^23-2]: Nouvelle expression selon le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)). Il n’a été tenu compte de cette mod. que dans les disp. mentionnées au RO.
+[^23-1]: Nouvelle teneur de la phrase selon l’annexe ch. 4 de la LF du 17 juin 2022 (Modernisation de la surveillance), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^23-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^23-3]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 17 juin 2022 (Modernisation de la surveillance), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 
 #### Art. 24
 
@@ -633,7 +649,7 @@ Le Conseil fédéral édicte les dispositions nécessaires concernant la comptab
 
 <sup>1</sup> Les frais administratifs afférents à la fixation et au versement des prestations complémentaires annuelles sont répartis entre la Confédération et les cantons en proportion de leur quote-part aux dépenses consacrées aux prestations complémentaires au sens de l’art. 13, al. 1 et 2.
 
-<sup>2</sup> Le Conseil fédéral règle les modalités du calcul des frais et la procédure. Il peut établir un forfait par cas et prévoir une réduction adéquate de la participation de la Confédération aux frais administratifs en cas d’infractions répétées aux dispositions de la présente loi, des ordonnances afférentes ou des directives établies par l’OFAS.[^24-1]
+<sup>2</sup> Le Conseil fédéral règle les modalités du calcul des frais et la procédure. Il peut établir un forfait par cas et prévoir une réduction adéquate de la participation de la Confédération aux frais administratifs en cas d’infractions répétées aux dispositions de la présente loi, des ordonnances afférentes ou des directives établies par l’Office fédéral des assurances sociales (OFAS).[^24-1]
 
 [^24-1]: Nouvelle teneur de la phrase selon le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 
@@ -647,26 +663,21 @@ En dérogation à l’art. 78 LPGA[^25-1], la responsabilité en cas de dommage 
 
 #### Art. 26
 
-**Application des dispositions de la LAVS**[^26-1]
+**Dispositions applicables de la LAVS**[^26-1]
 
 <sup>1</sup>
 
-Sont applicables par analogie les dispositions de la LAVS[^26-2], y compris lorsqu’elles dérogent à la LPGA[^26-3], qui régissent:
+Sont applicables par analogie les dispositions suivantes de la LAVS[^26-2] qui concernent:
 
-- a. le traitement de données personnelles (art. 49*a* LAVS[^26-4]);
-- b. la communication de données (art. 50*a* LAVS);
-- c. le numéro AVS (art. 50*c* LAVS);
-- d.[^26-5] l’utilisation systématique du numéro AVS (art. 153*b* à 153*i* LAVS);
-- e. et f.[^26-6] …
+- a. les systèmes d’information (art. 49*a*, 49*b* et 72*a*, al. 2, let. b, LAVS);
+- b. le traitement de données personnelles (art. 49*f* LAVS);
+- c. la communication de données (art. 50*a* LAVS);
+- d. l’utilisation systématique du numéro AVS (art. 50*c* et 153*b* à 153*i* LAVS).
 
-<sup>2</sup> Les organes visés à l’art. 21, al. 2, ont accès en ligne au registre central des prestations en cours de la Centrale de compensation (art. 50*b* LAVS).
+<sup>2</sup> Les organes visés à l’art. 21, al. 2, ont accès en ligne au registre central des prestations courantes en espèces de la Centrale de compensation (art. 50*b* LAVS).
 
-[^26-1]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^26-1]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 17 juin 2022 (Modernisation de la surveillance), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 [^26-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^26-3]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^26-4]: Voir actuellement l’art. 49*b*.
-[^26-5]: Nouvelle teneur selon l’annexe ch. 28 de la LF du 18 déc. 2020 (Utilisation systématique du numéro AVS par les autorités), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6955](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
-[^26-6]: Abrogées par l’annexe ch. 28 de la LF du 18 déc. 2020 (Utilisation systématique du numéro AVS par les autorités), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6955](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 
 #### Art. 26a
 
@@ -684,7 +695,7 @@ Aux fins de vérification des conditions du regroupement familial en Suisse et d
 
 La Centrale de compensation régie par l’art. 71 LAVS[^26b-2] gère un système d’information pour le traitement des données du domaine des prestations complémentaires (système d’information PC), en particulier pour assurer la transparence sur les prestations complémentaires perçues et soutenir les organes visés à l’art. 21, al. 2, dans l’exécution de la présente loi.
 
-[^26b-1]: Anciennement art. 26*a*. Introduit par l’annexe ch. 3 de la LF du 17 juin 2011 (Amélioration de la mise en oeuvre ([RO 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 519](https://fedlex.data.admin.ch/eli/fga/2011/61)). Nouvelle teneur selon le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^26b-1]: Anciennement art. 26*a*. Introduit par l’annexe ch. 3 de la LF du 17 juin 2011 (Amélioration de la mise en œuvre ([RO 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 519](https://fedlex.data.admin.ch/eli/fga/2011/61)). Nouvelle teneur selon le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 [^26b-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
 #### Art. 26c
@@ -711,11 +722,14 @@ Peuvent accéder en ligne au système d’information PC:
 
 #### Art. 28
 
-**Surveillance de la Confédération**
+**Surveillance de la Confédération**[^28-1]
 
-<sup>1</sup> Le Conseil fédéral surveille l’exécution de la présente loi. Il peut charger l’OFAS de donner aux services chargés d’appliquer la législation sur les prestations complémentaires des instructions garantissant une pratique uniforme.
+<sup>1</sup> Le Conseil fédéral surveille l’exécution de la présente loi.
 
-<sup>2</sup> Les cantons et les institutions d’utilité publique doivent fournir tous les renseignements utiles aux autorités désignées par le Conseil fédéral et leur soumettre toutes les pièces dont elles ont besoin pour leur contrôle. En outre, ils sont tenus de présenter chaque année au Conseil fédéral leur rapport et leurs comptes, et d’y joindre les données statistiques requises.
+<sup>2</sup> Les art. 72, 72*a* et 72*b*, let. a à c et i, LAVS[^28-2] s’appliquent par analogie à la surveillance.
+
+[^28-1]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 17 juin 2022 (Modernisation de la surveillance), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^28-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
 #### Art. 29
 
@@ -723,7 +737,9 @@ Peuvent accéder en ligne au système d’information PC:
 
 <sup>1</sup> Les dispositions d’exécution édictées par les cantons sont soumises à l’approbation de la Confédération.
 
-<sup>2</sup> Les principes définis par les institutions d’utilité publique sont soumis à l’approbation de l’OFAS; ils sont contraignants pour leurs organes.
+<sup>2</sup> Les principes définis par les institutions d’utilité publique sont soumis à l’approbation de l’OFAS[^29-1]; ils sont contraignants pour leurs organes.
+
+[^29-1]: Nouvelle expression selon le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 
 #### Art. 30
 
@@ -786,7 +802,7 @@ Pour les personnes qui sont ou qui ont été soumises à la législation sur la 
 
 <sup>3</sup> Le Conseil fédéral adapte les renvois aux actes de l’Union européenne visés aux al. 1 et 2 chaque fois qu’une modification de l’annexe II de l’accord sur la libre circulation des personnes et de l’appendice 2 de l’annexe K de la convention AELE est adoptée.
 
-<sup>4</sup> Les expressions «États membres de l’Union européenne», «États membres de la Communauté européenne», «États de l’Union européenne» et «États de la Commu-nauté européenne» figurant dans la présente loi les États auxquels s’applique l’accord sur la libre circulation des personnes.
+<sup>4</sup> Les expressions «États membres de l’Union européenne», «États membres de la Communauté européenne», «États de l’Union européenne» et «États de la Communauté européenne» figurant dans la présente loi les États auxquels s’applique l’accord sur la libre circulation des personnes.
 
 [^32-1]: Nouvelle teneur selon l’annexe ch. 3 de l’AF du 17 juin 2016 (Extension de l’Ac. sur la libre circulation des personnes à la Croatie), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 5233](https://fedlex.data.admin.ch/eli/oc/2016/828); [FF 2016 2059](https://fedlex.data.admin.ch/eli/fga/2016/467)).
 [^32-2]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)

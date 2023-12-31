@@ -4,11 +4,11 @@ title: "Lescha federala dals 6 d’october 2006 davart las prestaziuns supplemen
 short: LPS
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/804"
 language: rm
-version: 2023-01-01
+version: 2024-01-01
 adopted: 2006-10-06
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/804/20230101/rm/xml/fedlex-data-admin-ch-eli-cc-2007-804-20230101-rm-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/804/20230101/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/804/20240101/rm/xml/fedlex-data-admin-ch-eli-cc-2007-804-20240101-rm-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/804/20240101/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (LPS)
 
-dals 6 d’october 2006 (versiun dal 1. da schaner 2023)
+dals 6 d’october 2006 (versiun dal 1. da schaner 2024)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -78,17 +78,18 @@ Las prestaziuns supplementaras sa cumponan:
 Persunas che han lur domicil e lur dimora usitada (art. 13 LPGA[^4-1]) en Svizra han il dretg da prestaziuns supplementaras, sch’ellas:
 
 - a.[^4-2] retiran ina renta da vegliadetgna da l’assicuranza per vegls e survivents (AVS);
-- a<sup>bis</sup>.[^4-3] han il dretg d’ina renta per vaivs da la AVS, uschenavant ch’ellas n’han anc betg cuntanschì la vegliadetgna da renta tenor l’artitgel 21 da la Lescha federala dals 20 da december 1946[^4-4] davart l’assicuranza per vegls e survivents (LAVS);
+- a<sup>bis</sup>.[^4-3] han il dretg d’ina renta per vaivs da la AVS, uschenavant ch’ellas n’han anc betg cuntanschì la vegliadetgna da referenza tenor l’artitgel 21 alinea 1 da la Lescha federala dals 20 da december 1946[^4-4] davart l’assicuranza per vegls e survivents (LAVS);
 - a<sup>ter</sup>.[^4-5] retiran – sin basa da l’artitgel 24*b* LAVS – ina renta per vaivs empè d’ina renta da vegliadetgna;
-- b.[^4-6]
+- a<sup>quater</sup>.[^4-6] han il dretg d’ina renta per orfens da la AVS;
+- b.[^4-7]
 
   avessan il dretg d’ina renta da la AVS, sche:
 
   - 1\. ellas ademplissan la durada minimala da contribuziun tenor l’artitgel 29 alinea 1 LAVS, u
-  - 2\. la persuna defuncta avess ademplì questa durada minimala da contribuziun e las persunas vaivas u orfnas n’han anc betg cuntanschì la vegliadetgna da renta tenor l’artitgel 21 LAVS;
+  - 2\.[^4-8] la persuna defuncta avess ademplì questa durada minimala da contribuziun e la persuna vaiva n’ha anc betg cuntanschì la vegliadetgna da referenza tenor l’artitgel 21 LAVS;
 
 - c. han il dretg d’ina renta u d’ina indemnisaziun a persunas dependentas d’agid da l’assicuranza d’invaliditad (AI) u retiran senza interrupziun durant almain 6 mais ina diaria da l’AI; u
-- d.[^4-7] avessan il dretg d’ina renta da la AI, en cas ch’ellas ademplissan la durada minimala da contribuziun tenor l’artitgel 36 alinea 1 da la Lescha federala dals 19 da zercladur 1959[^4-8] davart l’assicuranza d’invaliditad.
+- d.[^4-9] avessan il dretg d’ina renta da la AI, en cas ch’ellas ademplissan la durada minimala da contribuziun tenor l’artitgel 36 alinea 1 da la Lescha federala dals 19 da zercladur 1959[^4-10] davart l’assicuranza d’invaliditad.
 
 <sup>2</sup> Il dretg da contribuziuns supplementaras han er conjugals separads e persunas divorziadas che han lur domicil e lur dimora usitada (art. 13 LPGA) en Svizra, sch’els retiran ina renta supplementara da la AVS u da la AI.
 
@@ -97,20 +98,22 @@ Persunas che han lur domicil e lur dimora usitada (art. 13 LPGA[^4-1]) en Svizra
 La dimora usitada en Svizra tenor l’alinea 1 vala sco interrutta, sch’ina persuna:
 
 - a. sa trategna senza interrupziun durant passa 3 mais a l’exteriur; u
-- b. sa trategna durant 1 onn chalendar tut en tut passa 3 mais a l’exteriur.[^4-9]
+- b. sa trategna durant 1 onn chalendar tut en tut passa 3 mais a l’exteriur.[^4-11]
 
-<sup>4</sup> Il Cussegl federal fixescha il mument da la sistida e da la redistribuziun da las prestaziuns sco er davart ils cas, per ils quals la dimora usitada en Svizra na vegn excepziunalmain betg interrutta en cas d’ina dimora a l’exteriur da fin 1 onn.[^4-10]
+<sup>4</sup> Il Cussegl federal fixescha il mument da la sistida e da la redistribuziun da las prestaziuns sco er davart ils cas, per ils quals la dimora usitada en Svizra na vegn excepziunalmain betg interrutta en cas d’ina dimora a l’exteriur da fin 1 onn.[^4-12]
 
 [^4-1]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^4-2]: Versiun tenor la cifra 3 da l’agiunta da la LF dals 17 da zer. 2011 (meglieraziun da la realisaziun), en vigur dapi il 1. da schan. 2012 ([AS 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [BBl 2011 543](https://fedlex.data.admin.ch/eli/fga/2011/61)).
-[^4-3]: Integrà tras la cifra 3 da l’agiunta da la LF dals 17 da zer. 2011 (meglieraziun da la realisaziun), en vigur dapi il 1. da schan. 2012 ([AS 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [BBl 2011 543](https://fedlex.data.admin.ch/eli/fga/2011/61)).
+[^4-3]: Integrà tras la cifra 3 da l’agiunta da la LF dals 17 da zer. 2011 (meglieraziun da la realisaziun) ([AS 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [BBl 2011 543](https://fedlex.data.admin.ch/eli/fga/2011/61)). Versiun tenor la cifra 3 da l’agiunta da la LF dals 17 da dec. 2021 (AVS 21), en vigur dapi il 1. da schan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 [^4-4]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 [^4-5]: Integrà tras la cifra 3 da l’agiunta da la LF dals 17 da zer. 2011 (meglieraziun da la realisaziun), en vigur dapi il 1. da schan. 2012 ([AS 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [BBl 2011 543](https://fedlex.data.admin.ch/eli/fga/2011/61)).
-[^4-6]: Versiun tenor la cifra 3 da l’agiunta da la LF dals 17 da zer. 2011 (meglieraziun da la realisaziun), en vigur dapi il 1. da schan. 2012 ([AS 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [BBl 2011 543](https://fedlex.data.admin.ch/eli/fga/2011/61)).
-[^4-7]: Versiun tenor la cifra IV da la LF dals 6 d’oct. 2006, en vigur dapi il 1. da schan. 2008 ([AS 2007 5129](https://fedlex.data.admin.ch/eli/oc/2007/722); [BBl 2005 4459](https://fedlex.data.admin.ch/eli/fga/2005/719)).
-[^4-8]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
-[^4-9]: Integrà tras la cifra I da la LF dals 22 da mars 2019 (refurma da las prestaziuns supplementaras), en vigur dapi il 1. da schan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^4-10]: Integrà tras la cifra I da la LF dals 22 da mars 2019 (refurma da las prestaziuns supplementaras), en vigur dapi il 1. da schan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^4-6]: Integrà tras la cifra 3 da l’agiunta da la LF dals 17 da dec. 2021 (AVS 21), en vigur dapi il 1. da schan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^4-7]: Versiun tenor la cifra 3 da l’agiunta da la LF dals 17 da zer. 2011 (meglieraziun da la realisaziun), en vigur dapi il 1. da schan. 2012 ([AS 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [BBl 2011 543](https://fedlex.data.admin.ch/eli/fga/2011/61)).
+[^4-8]: Versiun tenor la cifra 3 da l’agiunta da la LF dals 17 da dec. 2021 (AVS 21), en vigur dapi il 1. da schan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^4-9]: Versiun tenor la cifra IV da la LF dals 6 d’oct. 2006, en vigur dapi il 1. da schan. 2008 ([AS 2007 5129](https://fedlex.data.admin.ch/eli/oc/2007/722); [BBl 2005 4459](https://fedlex.data.admin.ch/eli/fga/2005/719)).
+[^4-10]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^4-11]: Integrà tras la cifra I da la LF dals 22 da mars 2019 (refurma da las prestaziuns supplementaras), en vigur dapi il 1. da schan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^4-12]: Integrà tras la cifra I da la LF dals 22 da mars 2019 (refurma da las prestaziuns supplementaras), en vigur dapi il 1. da schan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 
 #### Art. 5
 
@@ -125,23 +128,26 @@ La dimora usitada en Svizra tenor l’alinea 1 vala sco interrutta, sch’ina pe
 Per las persunas estras che avessan il dretg da rentas extraordinarias da la AVS u da la AI sin basa d’ina cunvegna davart las assicuranzas socialas, importa il termin da carenza:
 
 - a. 5 onns per persunas che avessan il dretg d’ina renta da la AI, en cas ch’ellas ademplissan la durada minimala da contribuziun tenor l’artitgel 36 alinea 1 da la Lescha federala dals 19 da zercladur 1959[^5-2] davart l’assicuranza d’invaliditad;
-- b. 5 onns per persunas che n’han anc betg cuntanschì la vegliadetgna ordinaria da renta tenor l’artitgel 21 LAVS[^5-3], ma che han u avessan il dretg d’ina renta per survivents da la AVS, sche la persuna defuncta avess ademplì la durada minimala da contribuziun tenor l’artitgel 29 alinea 1 LAVS il mument da sia mort;
-- c. 5 onns per persunas che retiran ina renta da vegliadetgna da la AVS u che han cuntanschì la vegliadetgna ordinaria da renta tenor l’artitgel 21 LAVS, sche lur renta da vegliadetgna remplazza u remplazzass ina renta per survivents da la AVS u ina renta da la AI;
-- d. 10 onns per persunas che retiran ina renta da vegliadetgna da la AVS u che han cuntanschì la vegliadetgna ordinaria da renta tenor l’artitgel 21 LAVS, sche lur renta da vegliadetgna na remplazza betg u na remplazzass betg ina renta per survivents da la AVS u ina renta da la AI.[^5-4]
+- b.[^5-3] 5 onns per persunas che n’han anc betg cuntanschì la vegliadetgna da referenza tenor l’artitgel 21 alinea 1 LAVS[^5-4], ma che han u avessan il dretg d’ina renta per survivents da la AVS, sche la persuna defuncta avess ademplì la durada minimala da contribuziun tenor l’artitgel 29 alinea 1 LAVS il mument da sia mort;
+- c.[^5-5] 5 onns per persunas che retiran ina renta da vegliadetgna da la AVS u che han cuntanschì la vegliadetgna da referenza tenor l’artitgel 21 alinea 1 LAVS, sche lur renta da vegliadetgna remplazza u remplazzass ina renta per survivents da la AVS u ina renta da la AI;
+- d.[^5-6] 10 onns per persunas che retiran ina renta da vegliadetgna da la AVS u che han cuntanschì la vegliadetgna da referenza tenor l’artitgel 21 alinea 1 LAVS, sche lur renta da vegliadetgna na remplazza betg u na remplazzass betg ina renta per survivents da la AVS u ina renta da la AI.[^5-7]
 
-<sup>4</sup> Persunas estras che n’èn ni fugitivs ni persunas senza naziunalitad e che n’èn betg suttamessas a l’alinea 3, han il dretg da prestaziuns supplementaras mo, sch’ellas adempleschan ultra dal termin da carenza tenor l’alinea 1 ina da las premissas tenor l’artitgel 4 alinea 1 literas a, a<sup>bis</sup>, a<sup>ter</sup>, b cifra 2 u c u la premissa tenor l’artitgel 4 alinea 2.[^5-5]
+<sup>4</sup> Persunas estras che n’èn ni fugitivs ni persunas senza naziunalitad e che n’èn betg suttamessas a l’alinea 3, han il dretg da prestaziuns supplementaras mo, sch’ellas adempleschan ultra dal termin da carenza tenor l’alinea 1 ina da las premissas tenor l’artitgel 4 alinea 1 literas a, a<sup>bis</sup>, a<sup>ter</sup>, b cifra 2 u c u la premissa tenor l’artitgel 4 alinea 2.[^5-8]
 
-<sup>5</sup> Sch’ina persuna estra sa trategna senza interrupziun durant passa 3 mais u entaifer 1 onn chalendar tut en tut passa 3 mais a l’exteriur, cumenza il termin da carenza a currer danovamain a partir dal return en Svizra.[^5-6]
+<sup>5</sup> Sch’ina persuna estra sa trategna senza interrupziun durant passa 3 mais u entaifer 1 onn chalendar tut en tut passa 3 mais a l’exteriur, cumenza il termin da carenza a currer danovamain a partir dal return en Svizra.[^5-9]
 
-<sup>6</sup> Il Cussegl federal fixescha ils cas, per ils quals il termin da carenza na vegn excepziunalmain betg interrut en cas d’ina dimora a l’exteriur da fin 1 onn.[^5-7]
+<sup>6</sup> Il Cussegl federal fixescha ils cas, per ils quals il termin da carenza na vegn excepziunalmain betg interrut en cas d’ina dimora a l’exteriur da fin 1 onn.[^5-10]
 
 [^5-1]: Versiun tenor la cifra 1 da l’agiunta da la LF dals 16 da dec. 2016 (regulaziun da l’immigraziun e meglieraziuns da l’execuziun tar las cunvegnas davart la libra circulaziun da persunas), en vigur dapi il 1. da fan. 2018 ([AS 2018 733](https://fedlex.data.admin.ch/eli/oc/2018/93); [BBl 2016 3007](https://fedlex.data.admin.ch/eli/fga/2016/574)).
 [^5-2]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
-[^5-3]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^5-4]: Versiun tenor la cifra I da la LF dals 22 da mars 2019 (refurma da las prestaziuns supplementaras), en vigur dapi il 1. da schan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^5-5]: Versiun tenor la cifra 3 da l’agiunta da la LF dals 17 da zer. 2011 (meglieraziun da la realisaziun), en vigur dapi il 1. da schan. 2012 ([AS 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [BBl 2011 543](https://fedlex.data.admin.ch/eli/fga/2011/61)).
-[^5-6]: Integrà tras la cifra I da la LF dals 22 da mars 2019 (refurma da las prestaziuns supplementaras), en vigur dapi il 1. da schan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^5-7]: Integrà tras la cifra I da la LF dals 22 da mars 2019 (refurma da las prestaziuns supplementaras), en vigur dapi il 1. da schan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^5-3]: Versiun tenor la cifra 3 da l’agiunta da la LF dals 17 da dec. 2021 (AVS 21), en vigur dapi il 1. da schan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^5-4]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^5-5]: Versiun tenor la cifra 3 da l’agiunta da la LF dals 17 da dec. 2021 (AVS 21), en vigur dapi il 1. da schan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^5-6]: Versiun tenor la cifra 3 da l’agiunta da la LF dals 17 da dec. 2021 (AVS 21), en vigur dapi il 1. da schan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^5-7]: Versiun tenor la cifra I da la LF dals 22 da mars 2019 (refurma da las prestaziuns supplementaras), en vigur dapi il 1. da schan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^5-8]: Versiun tenor la cifra 3 da l’agiunta da la LF dals 17 da zer. 2011 (meglieraziun da la realisaziun), en vigur dapi il 1. da schan. 2012 ([AS 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [BBl 2011 543](https://fedlex.data.admin.ch/eli/fga/2011/61)).
+[^5-9]: Integrà tras la cifra I da la LF dals 22 da mars 2019 (refurma da las prestaziuns supplementaras), en vigur dapi il 1. da schan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^5-10]: Integrà tras la cifra I da la LF dals 22 da mars 2019 (refurma da las prestaziuns supplementaras), en vigur dapi il 1. da schan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 
 #### Art. 6
 
@@ -328,18 +334,21 @@ Sco entradas vegnan quintadas:
 - b.[^11-2] las entradas da la facultad movibla ed immovibla, inclusiv la valur annuala d’ina giudida u d’in dretg d’abitar ubain da la valur da locaziun annuala d’ina immobiglia, sin la quala la persuna che retira prestaziuns supplementaras u in’autra persuna ch’è inclusa en la calculaziun da las prestaziuns transitoricas, ha in dretg da proprietad, e la quala vegn abitada d’almain ina da questas persunas;
 - c.[^11-3] in quindeschavel da la facultad netta, ubain in dieschavel da la facultad netta en cas da titulars d’ina renta da vegliadetgna, uschenavant che quella surpassa 30 000 francs per persunas che vivan sulettas, 50 000 francs per conjugals e 15 000 francs per orfens che han il dretg d’ina renta, sco er per uffants che han il dretg d’ina renta per uffants da la AVS u da la AI; sche la persuna che retira las prestaziuns supplementaras u ina persuna ch’è inclusa en la calculaziun è proprietaria d’ina immobiglia che vegn abitada almain d’ina da questas persunas, vegn resguardada per la facultad mo la valur da l’immobiglia che surpassa 112 500 francs;
 - d. rentas, pensiuns ed autras prestaziuns periodicas inclusiv las rentas da la AVS e da la AI;
+- d<sup>bis</sup>.[^11-4] l’entira renta, er sche mo ina part da tala vegn suspendida tenor l’artitgel 39 alinea 1 LAVS[^11-5] u retratga anticipadamain tenor l’artitgel 40 alinea 1 LAVS;
 - e. prestaziuns che resultan d’in contract da vitalizi e da cunvegnas sumegliantas;
 - f. supplements da famiglia;
-- g.[^11-4] ...
+- g.[^11-6] ...
 - h. contribuziuns da mantegniment previsas tenor il dretg da famiglia;
-- i.[^11-5] la reducziun da las premias per la perioda, per la quala ina prestaziun supplementara vegn pajada retroactivamain.
+- i.[^11-7] la reducziun da las premias per la perioda, per la quala ina prestaziun supplementara vegn pajada retroactivamain.
 
 <sup>1bis</sup>
 
 En divergenza da l’alinea 1 litera c sto vegnir resguardada per la facultad mo la valur da l’immobiglia che surpassa 300 000 francs:
 
 - a. sch’in u omadus conjugals èn proprietaris d’ina immobiglia che vegn abitada d’in dals conjugals, entant che l’auter conjugal viva en ina chasa da dimora u en in ospital; u
-- b. sch’ina persuna retira ina indemnisaziun a persunas dependentas d’agid da la AVS, da la AI, da l’assicuranza cunter accidents u da l’assicuranza militara ed abita en ina immobiglia ch’è en sia proprietad u en la proprietad da ses conjugal.[^11-6]
+- b. sch’ina persuna retira ina indemnisaziun a persunas dependentas d’agid da la AVS, da la AI, da l’assicuranza cunter accidents u da l’assicuranza militara ed abita en ina immobiglia ch’è en sia proprietad u en la proprietad da ses conjugal.[^11-8]
+
+<sup>1ter</sup> Persunas che retiran anticipadamain ina part da la renta tenor l’artitgel 40 alinea 1 LAVS e che han a medem temp il dretg da prestaziuns da la AI tenor ils artitgels 10 e 22 da la Lescha federala dals 19 da zercladur 1959[^11-9] davart l’assicuranza d’invaliditad, na valan – per l’imputaziun da la facultad netta tenor l’alinea 1 litera c – betg sco titularas e titulars d’ina renta da vegliadetgna.[^11-10]
 
 <sup>2</sup> Per persunas che vivan en chasas da dimora u en ospitals pon ils chantuns fixar in consum da facultad che divergescha da l’alinea 1 litera c. Ils chantuns pon augmentar il consum da facultad per maximalmain in tschintgavel.
 
@@ -347,26 +356,32 @@ En divergenza da l’alinea 1 litera c sto vegnir resguardada per la facultad mo
 
 Betg quintà na vegn il suandant:
 
-- a. sustegns da parents tenor ils artitgels 328–330 dal Cudesch civil[^11-7];
+- a. sustegns da parents tenor ils artitgels 328–330 dal Cudesch civil[^11-11];
 - b. sustegns da l’agid social public;
 - c. prestaziuns publicas u privatas cun in caracter d’agid evident;
 - d. indemnisaziuns da las assicuranzas socialas a persunas dependentas d’agid;
 - e. stipendis ed auters agids da scolaziun;
-- f.[^11-8] contribuziuns d’assistenza da la AVS u da la AI;
-- g.[^11-9] contribuziuns da l’assicuranza obligatorica per la tgira da malsauns a las prestaziuns da tgira en ina chasa da dimora, sch’i na vegnan resguardads nagins custs da tgira tenor la LAMal[^11-10] en la taxa da di.
+- f.[^11-12] contribuziuns d’assistenza da la AVS u da la AI;
+- g.[^11-13] contribuziuns da l’assicuranza obligatorica per la tgira da malsauns a las prestaziuns da tgira en ina chasa da dimora, sch’i na vegnan resguardads nagins custs da tgira tenor la LAMal[^11-14] en la taxa da di;
+- h.[^11-15] il supplement da renta tenor l’artitgel 34<sup>bis</sup> LAVS.
 
 <sup>4</sup> Il Cussegl federal determinescha ils cas, per ils quals las indemnisaziuns da las assicuranzas socialas a persunas dependentas d’agid vegnan quintadas sco entradas.
 
 [^11-1]: Versiun tenor la cifra I da la LF dals 22 da mars 2019 (refurma da las prestaziuns supplementaras), en vigur dapi il 1. da schan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 [^11-2]: Versiun tenor la cifra I da la LF dals 22 da mars 2019 (refurma da las prestaziuns supplementaras), en vigur dapi il 1. da schan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 [^11-3]: Versiun tenor la cifra I da la LF dals 22 da mars 2019 (refurma da las prestaziuns supplementaras), en vigur dapi il 1. da schan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^11-4]: Abolì tras la cifra I da la LF dals 22 da mars 2019 (refurma da las prestaziuns supplementaras), cun effect dapi il 1. da schan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^11-5]: Integrà tras la cifra I da la LF dals 22 da mars 2019 (refurma da las prestaziuns supplementaras), en vigur dapi il 1. da schan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^11-6]: Integrà tras la cifra I 2 da la LF dals 13 da zer. 2008 davart la reordinaziun da la finanziaziun da la tgira ([AS 2009 3517](https://fedlex.data.admin.ch/eli/oc/2009/432); [BBl 2005 2033](https://fedlex.data.admin.ch/eli/fga/2005/237)). Versiun tenor la cifra I da la LF dals 22 da mars 2019 (refurma da las prestaziuns supplementaras), en vigur dapi il 1. da schan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^11-7]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^11-8]: Integrà tras la cifra 5 da l’agiunta da la LF dals 18 da mars 2011 (6. revisiun da la AI, emprim pachet da mesiras), en vigur dapi il 1. da schan. 2012 ([AS 2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799); [BBl 2010 1817](https://fedlex.data.admin.ch/eli/fga/2010/340)).
-[^11-9]: Integrà tras la cifra I da la LF dals 22 da mars 2019 (refurma da las prestaziuns supplementaras), en vigur dapi il 1. da schan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^11-10]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^11-4]: Integrà tras la cifra 3 da l’agiunta da la LF dals 17 da dec. 2021 (AVS 21), en vigur dapi il 1. da schan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^11-5]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^11-6]: Abolì tras la cifra I da la LF dals 22 da mars 2019 (refurma da las prestaziuns supplementaras), cun effect dapi il 1. da schan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^11-7]: Integrà tras la cifra I da la LF dals 22 da mars 2019 (refurma da las prestaziuns supplementaras), en vigur dapi il 1. da schan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^11-8]: Integrà tras la cifra I 2 da la LF dals 13 da zer. 2008 davart la reordinaziun da la finanziaziun da la tgira ([AS 2009 3517](https://fedlex.data.admin.ch/eli/oc/2009/432); [BBl 2005 2033](https://fedlex.data.admin.ch/eli/fga/2005/237)). Versiun tenor la cifra I da la LF dals 22 da mars 2019 (refurma da las prestaziuns supplementaras), en vigur dapi il 1. da schan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^11-9]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^11-10]: Integrà tras la cifra 3 da l’agiunta da la LF dals 17 da dec. 2021 (AVS 21), en vigur dapi il 1. da schan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^11-11]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^11-12]: Integrà tras la cifra 5 da l’agiunta da la LF dals 18 da mars 2011 (6. revisiun da la AI, emprim pachet da mesiras), en vigur dapi il 1. da schan. 2012 ([AS 2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799); [BBl 2010 1817](https://fedlex.data.admin.ch/eli/fga/2010/340)).
+[^11-13]: Integrà tras la cifra I da la LF dals 22 da mars 2019 (refurma da las prestaziuns supplementaras), en vigur dapi il 1. da schan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^11-14]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^11-15]: Integrà tras la cifra 3 da l’agiunta da la LF dals 17 da dec. 2021 (AVS 21), en vigur dapi il 1. da schan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 
 #### Art. 11a
 
@@ -404,12 +419,12 @@ Betg quintà na vegn il suandant:
 
 <sup>2</sup> En cas da persunas che vivan en ina chasa da dimora u en in ospital surpiglia la Confederaziun tschintg otgavels da las prestaziuns supplementaras annualas, uschenavant che la summa da l’import per ils bains necessaris per viver generals tenor l’artitgel 10 alinea 1 litera a cifra 1, da l’import da 13 200 francs per il tschains da locaziun e dals imports per las expensas renconuschidas tenor l’artitgel 10 alinea 3 n’è betg cuvrida tras las entradas imputablas; las entradas che han in connex direct cun la dimora en la chasa da dimora u en l’ospital na vegnan betg resguardadas en quest connex. Il rest vegn finanzià dals chantuns.[^13-1]
 
-<sup>3</sup> Las contribuziuns da la Confederaziun vegnan finanziadas cun meds generals, uschenavant ch’ellas na pon betg vegnir retratgas da la retenziun tenor l’artitgel 111 LAVS[^13-2].
+<sup>3</sup> La contribuziun federala vegn finanziada l’emprim tras ils retgavs da las taglias sin il tubac e sin las bavrondas destilladas. La contribuziun mancanta vegn cuvrida tras meds finanzials generals.[^13-2]
 
 <sup>4</sup> Il Cussegl federal po relaschar regulaziuns per ina calculaziun pli simpla da la cumpart da la Confederaziun; el regla la procedura per il pajament.
 
 [^13-1]: Versiun tenor la cifra I da la LF dals 22 da mars 2019 (refurma da las prestaziuns supplementaras), en vigur dapi il 1. da schan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^13-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^13-2]: Versiun tenor la cifra 3 da l’agiunta da la LF dals 17 da dec. 2021 (AVS 21), en vigur dapi il 1. da schan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 
 ### 4. secziun Indemnisaziun dals custs da malsogna e d’impediment tras ils chantuns
 
@@ -617,16 +632,17 @@ Il Cussegl federal decretescha las prescripziuns da contabilitad necessarias per
 
 **Revisiun**
 
-<sup>1</sup> Tar ils posts che fixeschan e pajan prestaziuns supplementaras stoi vegnir fatg mintga onn almain ina giada ina revisiun. La revisiun sto cumpigliar l’applicaziun materiala dal dretg, la contabilitad e la gestiun.
+<sup>1</sup> Tar ils posts che fixeschan e pajan prestaziuns supplementaras stoi vegnir fatg mintga onn almain ina giada ina revisiun. La revisiun sto cumpigliar l’observanza da las prescripziuns legalas, la contabilitad, il quint annual e la gestiun.[^23-1]
 
-<sup>2</sup> Per la revisiun d’ina cassa da cumpensaziun, che fixescha e paja prestaziuns supplementaras, è cumpetent il post da revisiun che reveda la cassa da cumpensaziun tenor l’artitgel 68 LAVS[^23-1].
+<sup>2</sup> Per la revisiun d’ina cassa da cumpensaziun, che fixescha e paja prestaziuns supplementaras, è cumpetent il post da revisiun che reveda la cassa da cumpensaziun tenor l’artitgel 68 LAVS[^23-2].
 
 <sup>3</sup> Per la revisiun d’auters posts executivs designescha il chantun il post da revisiun. El po surdar l’incumbensa ad in post da revisiun admess per la revisiun da cassas da cumpensaziun u ad in post da controlla chantunal adattà.
 
-<sup>4</sup> L’Uffizi federal d’assicuranzas socialas (UFAS)[^23-2] è autorisà da far, sche necessari, sez revisiuns cumplementaras u d’incumbensar auters posts cun revisiuns cumplementaras.
+<sup>4</sup> L’artitgel 72*b* litera e LAVS vegn applitgà analogamain.[^23-3]
 
-[^23-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^23-2]: Expressiun tenor la cifra I da la LF dals 22 da mars 2019 (refurma da las prestaziuns supplementaras), en vigur dapi il 1. da schan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)). Questa midada è vegnida resguardada en l’entir decret.
+[^23-1]: Versiun da la segunda frasa tenor la cifra 4 da la LF dals 17 da zer. 2022 (modernisaziun da la surveglianza), en vigur dapi il 1. da schan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^23-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^23-3]: Versiun tenor la cifra 4 da l’agiunta da la LF dals 17 da zer. 2022 (modernisaziun da la surveglianza), en vigur dapi il 1. da schan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 
 #### Art. 24
 
@@ -634,7 +650,7 @@ Il Cussegl federal decretescha las prescripziuns da contabilitad necessarias per
 
 <sup>1</sup> Ils custs administrativs per fixar e per pajar las prestaziuns supplementaras annualas vegnan repartids tranter la Confederaziun ed ils chantuns en proporziun da lur cumparts als custs per las prestaziuns supplementaras tenor l’artitgel 13 alineas 1 e 2.
 
-<sup>2</sup> Il Cussegl federal regla ils detagls da la fixaziun e la procedura. El po fixar pauschalas pro cas e prevair che la participaziun da la Confederaziun als custs administrativs vegnia reducida en moda commensurada, sche las prescripziuns da questa lescha, da las ordinaziuns che sa basan sin tala u da las directivas dal UFAS na vegnan repetidamain betg observadas.[^24-1]
+<sup>2</sup> Il Cussegl federal regla ils detagls da la fixaziun e la procedura. El po fixar pauschalas pro cas e prevair che la participaziun da la Confederaziun als custs administrativs vegnia reducida en moda commensurada, sche las prescripziuns da questa lescha, da las ordinaziuns che sa basan sin tala u da las directivas da l’Uffizi federal d’assicuranzas socialas (UFAS) na vegnan repetidamain betg observadas.[^24-1]
 
 [^24-1]: Versiun da la segunda frasa tenor la cifra I da la LF dals 22 da mars 2019 (refurma da las prestaziuns supplementaras), en vigur dapi il 1. da schan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 
@@ -648,27 +664,21 @@ En divergenza da l’artitgel 78 LPGA[^25-1] sa drizza la responsabladad dals or
 
 #### Art. 26
 
-**Applitgabladad da las disposiziuns da la LAVS**[^26-1]
+**Disposiziuns applitgablas da la LAVS**[^26-1]
 
 <sup>1</sup>
 
-Las suandantas disposiziuns da la LAVS[^26-2] cun lur eventualas divergenzas da la LPGA[^26-3] valan tenor il senn per:
+Tenor il senn èn applitgablas las suandantas disposiziuns da la LAVS[^26-2], che pertutgan:
 
-- a. elavurar datas persunalas (art. 49*a* LAVS[^26-4]);
-- b. communitgar las datas (art. 50*a* LAVS);
-- c.[^26-5] il numer da la AVS (art. 50*c* LAVS);
-- d.[^26-6] l’applicaziun sistematica dal numer da la AVS (art. 153*b*–153*i* LAVS);
-- e. ed f.[^26-7] ...
+- a. ils sistems d’infurmaziun (art. 49*a*, 49*b* e 72*a* al. 2 lit. b LAVS);
+- b. l’elavuraziun da datas persunalas (art. 49*f* LAVS);
+- c. la communicaziun da datas (art. 50*a* LAVS);
+- d. l’applicaziun sistematica dal numer da la AVS (art. 50*c* e 153*b*–153*i* LAVS).
 
-<sup>2</sup> Ils organs tenor l’artitgel 21 alinea 2 han access al register central da las prestaziuns currentas da l’Uffizi central da cumpensaziun (art. 50*b* LAVS) tras ina procedura d’invista.
+<sup>2</sup> Ils organs tenor l’artitgel 21 alinea 2 han access al register central da las prestaziuns finanzialas currentas da l’Uffizi central da cumpensaziun (art. 50*b* LAVS) tras ina procedura d’invista.
 
-[^26-1]: Versiun tenor la cifra I da la LF dals 22 da mars 2019 (refurma da las prestaziuns supplementaras), en vigur dapi il 1. da schan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^26-1]: Versiun tenor la cifra 4 da l’agiunta da la LF dals 17 da zer. 2022 (modernisaziun da la surveglianza), en vigur dapi il 1. da schan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 [^26-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^26-3]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^26-4]: Guardar actualmain: art. 49*b*.
-[^26-5]: Versiun tenor la cifra 28 da l’agiunta da la LF dals 18 da dec. 2020 (diever sistematic dal numer da la AVS tras las autoritads), en vigur dapi il 1. da schan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
-[^26-6]: Versiun tenor la cifra 28 da l’agiunta da la LF dals 18 da dec. 2020 (diever sistematic dal numer da la AVS tras las autoritads), en vigur dapi il 1. da schan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
-[^26-7]: Abolì tras la cifra 28 da l’agiunta da la LF dals 18 da dec. 2020 (diever sistematic dal numer da la AVS tras las autoritads), cun effect dapi il 1. da schan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 
 #### Art. 26a
 
@@ -713,11 +723,14 @@ Cun agid d’ina procedura d’invista han ils suandants organs access al sistem
 
 #### Art. 28
 
-**Surveglianza da la Confederaziun**
+**Surveglianza da la Confederaziun**[^28-1]
 
-<sup>1</sup> Il Cussegl federal surveglia l’execuziun da questa lescha. Per garantir in’execuziun unitara po el incumbensar il UFAS da dar directivas als posts ch’èn incaricads cun l’execuziun.
+<sup>1</sup> Il Cussegl federal surveglia l’execuziun da questa lescha.
 
-<sup>2</sup> Ils chantuns e las instituziuns d’utilitad publica ston dar als posts designads dal Cussegl federal tut las infurmaziuns e suttametter tut las actas che quels dovran per la surveglianza. Ultra da quai ston els mintgamai inoltrar al Cussegl federal il rapport annual ed il quint annual cun las indicaziuns statisticas pretendidas.
+<sup>2</sup> Per la surveglianza vegnan applitgads analogamain ils artitgels 72, 72*a* e 72*b* literas a–c ed i LAVS[^28-2].
+
+[^28-1]: Versiun tenor la cifra 4 da l’agiunta da la LF dals 17 da zer. 2022 (modernisaziun da la surveglianza), en vigur dapi il 1. da schan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^28-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
 #### Art. 29
 
@@ -725,7 +738,9 @@ Cun agid d’ina procedura d’invista han ils suandants organs access al sistem
 
 <sup>1</sup> Las disposiziuns executivas decretadas dals chantuns ston vegnir suttamessas a la Confederaziun per l’approvaziun.
 
-<sup>2</sup> Ils princips da las instituziuns d’utilitad publica ston vegnir suttamess al UFAS per l’approvaziun ed èn liants per ils organs da las instituziuns.
+<sup>2</sup> Ils princips da las instituziuns d’utilitad publica ston vegnir suttamess al UFAS[^29-1] per l’approvaziun ed èn liants per ils organs da las instituziuns.
+
+[^29-1]: Expressiun tenor la cifra I da la LF dals 22 da mars 2019 (refurma da las prestaziuns supplementaras), en vigur dapi il 1. da schan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 
 #### Art. 30
 
