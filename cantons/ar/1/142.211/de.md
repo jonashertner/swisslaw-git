@@ -4,13 +4,13 @@ number: "142.211"
 title: Besoldungsverordnung
 short: BVO
 language: de
-version: 2023-08-01
-valid_until: 2023-12-31
-version_adopted: 2023-03-27
+version: 2024-01-01
+valid_until: 2025-12-31
+version_adopted: 2023-12-12
 adopted: 2006-10-30
 in_force: 2008-01-01
 url: "https://ar.clex.ch/app/de/texts_of_law/142.211"
-pdf: "https://ar.clex.ch/api/de/versions/1503/pdf_file"
+pdf: "https://ar.clex.ch/api/de/versions/1514/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://ar.clex.ch/api/de/versions/1503/pdf_file"
 
 (BVO)
 
-vom 30.10.2006 (Stand 01.08.2023)
+vom 30.10.2006 (Stand 01.01.2024)
 
 Der Kantonsrat von Appenzell Ausserrhoden,
 
