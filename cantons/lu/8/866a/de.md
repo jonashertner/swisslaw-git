@@ -4,13 +4,13 @@ number: 866a
 title: Verordnung zum Gesetz über die Verbilligung von Prämien der Krankenversicherung
 short: Prämienverbilligungsverordnung
 language: de
-version: 2023-01-01
-valid_until: 2023-12-31
-version_adopted: 2022-11-08
+version: 2024-01-01
+valid_until: 2024-12-31
+version_adopted: 2023-11-07
 adopted: 1995-12-12
 in_force: 1996-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/866a"
-pdf: "https://srl.lu.ch/api/de/versions/3989/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4137/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3989/pdf_file"
 
 (Prämienverbilligungsverordnung)
 
-vom 12.12.1995 (Stand 01.01.2023)
+vom 12.12.1995 (Stand 01.01.2024)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -43,9 +43,9 @@ beschliesst:
 
 #### § 2
 
-**Genereller Anspruch für das Jahr 2023**
+**Genereller Anspruch für das Jahr 2024**
 
-<sup>1</sup> Ein Anspruch auf Prämienverbilligung nach § 7 Absatz 1 des Gesetzes über die Verbilligung von Prämien der Krankenversicherung (Prämienverbilligungsgesetz) vom 24. Januar 1995 besteht für das Jahr 2023, soweit die anrechenbaren Prämien das massgebende Einkommen um einen bestimmten Prozentsatz übersteigen. Dieser Prozentsatz beträgt für das Jahr 2023 mindestens 10 Prozent. Für jeden Franken des massgebenden Einkommens steigt er um 0,00007 Prozentpunkte an.
+<sup>1</sup> Ein Anspruch auf Prämienverbilligung nach § 7 Absatz 1 des Gesetzes über die Verbilligung von Prämien der Krankenversicherung (Prämienverbilligungsgesetz) vom 24. Januar 1995 besteht für das Jahr 2024, soweit die anrechenbaren Prämien das massgebende Einkommen um einen bestimmten Prozentsatz übersteigen. Dieser Prozentsatz beträgt für das Jahr 2024 mindestens 10 Prozent. Für jeden Franken des massgebenden Einkommens steigt er um 0,00006 Prozentpunkte an.
 
 - a. …
 - b. …
@@ -56,14 +56,14 @@ beschliesst:
 
 #### § 2a
 
-**Anspruch auf Prämienverbilligung für Kinder und junge Erwachsene für das Jahr 2023**
+**Anspruch auf Prämienverbilligung für Kinder und junge Erwachsene für das Jahr 2024**
 
-<sup>1</sup> Eltern oder Elternteile, unter deren Obhut Kinder bis zum vollendeten 18. Lebensjahr leben, haben für das Jahr 2023 Anspruch auf die Verbilligung der anrechenbaren Prämien für Kinder um 80 Prozent, sofern die persönlichen Voraussetzungen gemäss § 5 des Prämienverbilligungsgesetzes erfüllt sind und ihr massgebendes Einkommen im Sinn von § 7 Absätze 2–6 des Prämienverbilligungsgesetzes eine bestimmte Einkommensgrenze nicht überschreitet. Diese Einkommensgrenze beträgt für das Jahr 2023
+<sup>1</sup> Eltern oder Elternteile, unter deren Obhut Kinder bis zum vollendeten 18. Lebensjahr leben, haben für das Jahr 2024 Anspruch auf die Verbilligung der anrechenbaren Prämien für Kinder um 80 Prozent, sofern die persönlichen Voraussetzungen gemäss § 5 des Prämienverbilligungsgesetzes erfüllt sind und ihr massgebendes Einkommen im Sinn von § 7 Absätze 2–6 des Prämienverbilligungsgesetzes eine bestimmte Einkommensgrenze nicht überschreitet. Diese Einkommensgrenze beträgt für das Jahr 2024
 
 - a. bei Eltern — Fr. 89 346.–
 - b. bei einem Elternteil — Fr. 71 477.–
 
-<sup>2</sup> Die Prämien von jungen Erwachsenen bis zum vollendeten 25. Altersjahr werden für das Jahr 2023 um die Hälfte verbilligt, sofern diese die persönlichen Voraussetzungen gemäss § 5 des Prämienverbilligungsgesetzes erfüllen und eine mindestens sechs Monate dauernde Ausbildung absolvieren, welche einen Anspruch auf eine Ausbildungszulage gemäss dem Bundesgesetz über die Familienzulagen vom 24. März 2006[^2a-1] begründet. Bei jungen Erwachsenen in Ausbildung, die bei ihren unterhaltspflichtigen Eltern oder einem unterhaltspflichtigen Elternteil wohnen, besteht der Anspruch auf eine hälftige Verbilligung der anrechenbaren Prämien für das Jahr 2023 zudem nur, wenn das gemeinsame massgebende Einkommen im Sinn von § 7 Absätze 2–6 des Prämienverbilligungsgesetzes eine bestimmte Einkommensgrenze nicht überschreitet. Diese Einkommensgrenze beträgt für das Jahr 2023
+<sup>2</sup> Die Prämien von jungen Erwachsenen bis zum vollendeten 25. Altersjahr werden für das Jahr 2024 um die Hälfte verbilligt, sofern diese die persönlichen Voraussetzungen gemäss § 5 des Prämienverbilligungsgesetzes erfüllen und eine mindestens sechs Monate dauernde Ausbildung absolvieren, welche einen Anspruch auf eine Ausbildungszulage gemäss dem Bundesgesetz über die Familienzulagen vom 24. März 2006[^2a-1] begründet. Bei jungen Erwachsenen in Ausbildung, die bei ihren unterhaltspflichtigen Eltern oder einem unterhaltspflichtigen Elternteil wohnen, besteht der Anspruch auf eine hälftige Verbilligung der anrechenbaren Prämien für das Jahr 2024 zudem nur, wenn das gemeinsame massgebende Einkommen im Sinn von § 7 Absätze 2–6 des Prämienverbilligungsgesetzes eine bestimmte Einkommensgrenze nicht überschreitet. Diese Einkommensgrenze beträgt für das Jahr 2024
 
 - a. bei Eltern — Fr. 89 346.–
 - b. bei einem Elternteil — Fr. 71 477.–
@@ -90,20 +90,20 @@ beschliesst:
 
 **Anrechenbare Prämien**
 
-<sup>1</sup> Zur Berechnung des Anspruchs auf Prämienverbilligung für das Jahr 2023 gelten in den einzelnen Prämienregionen die folgenden Richtprämien pro Jahr in Franken:
+<sup>1</sup> Zur Berechnung des Anspruchs auf Prämienverbilligung für das Jahr 2024 gelten in den einzelnen Prämienregionen die folgenden Richtprämien pro Jahr in Franken:
 
 - a. Prämienregion 1:
-  - 1\. Erwachsene — 4860.–
-  - 2\. junge Erwachsene — 3624.–
-  - 3\. Kinder — 1140.–
+  - 1\. Erwachsene — 5160.–
+  - 2\. junge Erwachsene — 3852.–
+  - 3\. Kinder — 1200.–
 - b. Prämienregion 2:
-  - 1\. Erwachsene — 4512.–
-  - 2\. junge Erwachsene — 3360.–
-  - 3\. Kinder — 1044.–
+  - 1\. Erwachsene — 4824.–
+  - 2\. junge Erwachsene — 3588.–
+  - 3\. Kinder — 1116.–
 - c. Prämienregion 3:
-  - 1\. Erwachsene — 4344.–
-  - 2\. junge Erwachsene — 3240.–
-  - 3\. Kinder — 1008.–
+  - 1\. Erwachsene — 4620.–
+  - 2\. junge Erwachsene — 3444.–
+  - 3\. Kinder — 1068.–
 
 <sup>2</sup> Für Personen, die Ergänzungsleistungen zur AHV/IV beziehen, gelten die vom Bund für die Berechnung der Ergänzungsleistungen festgelegten Durchschnittsprämien für die obligatorische Krankenpflegeversicherung.
 
