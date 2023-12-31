@@ -3,20 +3,20 @@ canton: ZG
 number: "154.26"
 title: Regierungsratsbeschluss über die Ausrichtung einer Teuerungszulage an das Staatspersonal
 language: de
-version: 2023-01-01
-valid_until: 2023-12-31
-version_adopted: 2022-10-19
+version: 2024-01-01
+valid_until: 2024-12-31
+version_adopted: 2023-10-24
 adopted: 2025-10-21
 in_force: 2026-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/154.26"
-pdf: "https://bgs.zg.ch/api/de/versions/2382/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2501/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Regierungsratsbeschluss über die Ausrichtung einer Teuerungszulage an das Staatspersonal
 
-Vom 19. Oktober 2022 (Stand 1. Januar 2023)
+Vom 24. Oktober 2023 (Stand 1. Januar 2024)
 
 Der Regierungsrat des Kantons Zug,
 
@@ -31,7 +31,7 @@ beschliesst:
 
 #### § 1
 
-<sup>1</sup> Ab 1. Januar 2023 wird auf die Jahresgehälter gemäss Personalgesetz vom 1. September 1994[^1-1] eine Teuerungszulage von 2,19% ausgerichtet.
+<sup>1</sup> Ab 1. Januar 2024 wird auf die Jahresgehälter gemäss Personalgesetz vom 1. September 1994[^1-1] eine Teuerungszulage von 1,66% ausgerichtet.
 
 <sup>2</sup> Eine analog zu Abs. 1 angepasste Teuerungszulage wird zudem ausgerichtet auf:
 
@@ -47,14 +47,6 @@ beschliesst:
 
 #### § 2
 
-<sup>1</sup> Mit der Ausrichtung dieser Teuerungszulage auf die seit dem 1. Januar 2009 geltenden Jahresgehälter und Entschädigungen, welche auf einem Landesindex der Konsumentenpreise von 100.4 Punkten basieren, ist ein Stand von 102.6 Indexpunkten (September 2022) ausgeglichen (Dezember 2010 = 100).
+<sup>1</sup> Mit der Ausrichtung dieser Teuerungszulage auf die seit dem 1. Januar 2023 geltenden Jahresgehälter und Entschädigungen, welche auf einem Landesindex der Konsumentenpreise von 102.6 Punkten basieren, ist ein Stand von 104.3 Indexpunkten (September 2023) ausgeglichen (Dezember 2010 = 100).
 
-#### § 3
-
-<sup>1</sup> Dieser Beschluss tritt vorbehältlich der Genehmigung des Budgets durch den Kantonsrat[^3-1] am 1. Januar 2023 in Kraft. Gleichzeitig werden die Regierungsratsbeschlüsse über die Ausrichtung einer Teuerungszulage an das Staatspersonal vom 12. November 2008[^3-2] sowie vom 22. Oktober 2013 (Stand 1. Januar 2022)[^3-3] aufgehoben.
-
-[^3-1]: Vom Kantonsrat genehmigt am 24. November 2022
-[^3-2]: GS 29, 219
-[^3-3]: BGS [154.261](https://bgs.zg.ch/data/154.261/de)
-
-GS 2022/055
+GS 2023/068
