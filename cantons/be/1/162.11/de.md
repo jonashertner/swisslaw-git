@@ -4,13 +4,13 @@ number: "162.11"
 title: Organisationsreglement des Obergerichts
 short: OrR OG
 language: de
-version: 2018-09-01
-valid_until: 2023-12-31
-version_adopted: 2018-07-02
+version: 2024-01-01
+valid_until: 2024-12-31
+version_adopted: 2023-11-17
 adopted: 2010-12-23
 in_force: 2011-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/162.11"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1494/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2925/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1494/pdf_file"
 
 (OrR OG)
 
-vom 23.12.2010 (Stand 01.09.2018)
+vom 23.12.2010 (Stand 01.01.2024)
 
 Das Obergericht des Kantons Bern,
 
@@ -35,13 +35,13 @@ beschliesst:
 
 <sup>1</sup> Das Obergericht ist in der Rechtsprechung unabhängig und nur dem Recht verpflichtet.
 
-<sup>2</sup> Im Rahmen der gesetzlichen Vorgaben und unter Vorbehalt der Aufgaben und Befugnisse der Justizleitung verwaltet es sich und die unter seiner Aufsicht stehenden Gerichtsbehörden selbst. Dabei beachten seine Leitungsorgane sinngemäss die Grundsätze der Führungs-, Leistungs- und Kostenorientierung gemäss Artikel 3 Absatz 2, 4 und 5 des Gesetzes vom 26. März 2002 über die Steuerung von Finanzen und Leistungen (FLG)[^1-1].
+<sup>2</sup> Im Rahmen der gesetzlichen Vorgaben und unter Vorbehalt der Aufgaben und Befugnisse der Justizverwaltungsleitung verwaltet es sich und die unter seiner Aufsicht stehenden Gerichtsbehörden selbst. Dabei beachten seine Leitungsorgane sinngemäss die allgemeinen Grundsätze der Steuerung von Finanzen und Leistungen gemäss Artikel 3 des Finanzhaushaltsgesetzes vom 15. Juni 2022 (FHG)[^1-1].
 
 <sup>3</sup> Die Leitungsorgane des Obergerichts sprechen sich bei Bedarf mit denjenigen des Verwaltungsgerichts und der Generalstaatsanwaltschaft ab.
 
 <sup>4</sup> Das Obergericht bekennt sich gegen innen und aussen zum Grundsatz der Transparenz und zum Recht auf Information, unter Beachtung des Amtsgeheimnisses und des Datenschutzes.
 
-[^1-1]: BSG 620.0
+[^1-1]: BSG [620.0](https://www.belex.sites.be.ch/data/620.0/de)
 
 ## 2 Organe der Gerichtsleitung
 
@@ -53,8 +53,8 @@ beschliesst:
 
 <sup>1</sup> Die Präsidentin oder der Präsident nimmt die Aufgaben gemäss Artikel 37 GSOG wahr, insbesondere
 
-- a vertritt sie oder er die Zivil-, Straf- und Jugendgerichtsbarkeit des Kantons Bern nach aussen,
-- b vertritt sie oder er die Zivil-, Straf- und Jugendgerichtsbarkeit des Kantons Bern in der Justizleitung und informiert über deren Beschlüsse,
+- a vertritt sie oder er die Zivil- und Strafgerichtsbarkeit des Kantons Bern nach aussen,
+- b vertritt sie oder er die Zivil- und Strafgerichtsbarkeit des Kantons Bern in der Justizverwaltungsleitung und informiert über deren Beschlüsse,
 - c beruft sie oder er die Sitzungen des Plenums, der Geschäftsleitung und der Erweiterten Geschäftsleitung ein und leitet diese,
 - d führt sie oder er die Generalsekretärin oder den Generalsekretär sowie die Gerichtsinspektorin oder den Gerichtsinspektor.
 
@@ -66,11 +66,11 @@ beschliesst:
 
 #### Art. 3
 
-**Vizepräsidentin oder Vizepräsident**
+**Vizepräsidentinnen und Vizepräsidenten**
 
-<sup>1</sup> Die Vizepräsidentinnen oder die Vizepräsidenten vertreten und unterstützen die Präsidentin oder den Präsidenten bei der Aufgabenerfüllung.
+<sup>1</sup> Die Vizepräsidentinnen und die Vizepräsidenten vertreten und unterstützen die Präsidentin oder den Präsidenten bei der Aufgabenerfüllung.
 
-<sup>2</sup> Sie oder er wird im Umfang ihrer oder seiner Leitungsfunktionen von den Aufgaben in der Rechtsprechung entlastet.
+<sup>2</sup> Sie werden im Umfang ihrer Leitungsfunktionen von den Aufgaben in der Rechtsprechung entlastet.
 
 ### 2.2 Plenum
 
@@ -86,7 +86,7 @@ beschliesst:
 
 <sup>4</sup> Es entscheidet über Geschäfte, die ihm von den Abteilungen oder der Geschäftsleitung unterbreitet werden.
 
-<sup>5</sup> Es kann der Justizleitung Anliegen unterbreiten.
+<sup>5</sup> Es kann der Justizverwaltungsleitung Anliegen unterbreiten.
 
 #### Art. 5
 
@@ -146,7 +146,7 @@ beschliesst:
 
 **Aufgaben**
 
-<sup>1</sup> Die Geschäftsleitung ist verantwortlich für die Gerichtsverwaltung und zuständig für alle Angelegenheiten, die nicht einem andern Organ zugewiesen sind, insbesondere für die Geschäfte gemäss Artikel 39 Absatz 2 GSOG. Weiter obliegt ihr:
+<sup>1</sup> Die Geschäftsleitung ist verantwortlich für die Gerichtsverwaltung und zuständig für alle Angelegenheiten, die nicht einem anderen Organ zugewiesen sind, insbesondere für die Geschäfte gemäss Artikel 39 Absatz 2 GSOG. Weiter obliegt ihr:
 
 - a die Festlegung der Aufgaben der Vizepräsidien,
 - b die Genehmigung von Reglementen der unter der Aufsicht des Obergerichts stehenden Gerichtsbehörden,
@@ -155,11 +155,15 @@ beschliesst:
 - e die Verabschiedung der Strategie des Obergerichts und des Konzepts über die Aufsicht und das Controlling zuhanden des Plenums,
 - f die Zuteilung von Gerichtsschreiberinnen und Gerichtsschreibern auf die Abteilungen,
 - g die Festlegung der Grundsätze betreffend Registratur, Dossierführung und Archivierung,
-- h die Umsetzung der Beschlüsse der Justizleitung betreffend Finanzen und Rechnungswesen,
+- h die Umsetzung der Beschlüsse der Justizverwaltungsleitung betreffend Finanzen und Rechnungswesen,
 - i die Gewährleistung einer den Bedürfnissen angepassten Weiterbildung,
-- k die Verabschiedung eines Sicherheitskonzepts und der Hausordnung.
+- k die Verabschiedung eines Sicherheitskonzepts und der Hausordnung,
+- l der Entscheid über die Aushilfe von erstinstanzlichen Richterinnen und Richtern sowie von Vorsitzenden der Schlichtungsbehörden an den erstinstanzlichen Gerichten und an den Schlichtungsbehörden in Absprache mit den betroffenen Gerichtsbehörden und nach Anhörung der betroffenen Richterinnen und Richter bzw. der betroffenen Vorsitzenden der Schlichtungsbehörden,
+- m die Durchführung von Verfahren über streitige Ansprüche gegen Mitarbeiterinnen und Mitarbeiter der Zivil- und Strafgerichtsbarkeit auf Schadenersatz oder Genugtuung (Art. 104 Abs. 1a des Personalgesetzes vom 16.09.2004 [PG][^9-1]).
 
 <sup>2</sup> Sie kann die Erledigung von Geschäften und Aufgaben an das Generalsekretariat und an besondere Kommissionen übertragen.
+
+[^9-1]: BSG [153.01](https://www.belex.sites.be.ch/data/153.01/de)
 
 #### Art. 10
 
@@ -173,9 +177,9 @@ beschliesst:
 
 <sup>4</sup> Zu den Sitzungen der Geschäftsleitung können bei Bedarf weitere interne oder externe Personen mit beratender Stimme beigezogen werden.
 
-<sup>5</sup> Die Geschäftsleitung trifft ihre Entscheide, Beschlüsse und Wahlen nach Massgabe von Artikel 46 GSOG. Artikel 7 und 8 sind sinngemäss anwendbar.
+<sup>5</sup> Die Geschäftsleitung trifft ihre Entscheide, Beschlüsse und Wahlen nach Massgabe von Artikel 39 Absatz 1a und Artikel 46 GSOG. Artikel 7 und 8 sind sinngemäss anwendbar.
 
-<sup>6</sup> In Belangen der Fachaufsicht sind ausschliesslich die Präsidentin oder der Präsident sowie die Abteilungspräsidentinnen und Abteilungspräsidenten stimmberechtigt.
+<sup>6</sup> …
 
 ### 2.4 Erweiterte Geschäftsleitung
 
@@ -183,7 +187,7 @@ beschliesst:
 
 **Aufgaben**
 
-<sup>1</sup> Die Erweiterte Geschäftsleitung ist das instanzenübergreifende Koordinationsorgan der Zivil-, Straf- und Jugendgerichtsbarkeit.
+<sup>1</sup> Die Erweiterte Geschäftsleitung ist das instanzenübergreifende Koordinationsorgan der Zivil- und Strafgerichtsbarkeit.
 
 <sup>2</sup> Sie sorgt für den Informationsfluss und die Abstimmung der Interessen zwischen dem Obergericht und den unter seiner Aufsicht stehenden Gerichtsbehörden.
 
@@ -203,7 +207,7 @@ beschliesst:
 
 <sup>4</sup> Zu den Sitzungen können bei Bedarf weitere interne oder externe Personen mit beratender Stimme beigezogen werden.
 
-<sup>5</sup> Die Erweiterte Geschäftsleitung fasst ihre Beschlüsse nach Massgabe von Artikel 46 GSOG und Artikel 8. Über die Anwendung des Zirkulationsverfahrens entscheidet das Präsidium.
+<sup>5</sup> Die Erweiterte Geschäftsleitung fasst ihre Beschlüsse nach Massgabe von Artikel 39 Absatz 1a und Artikel 46 GSOG sowie Artikel 8. Über die Anwendung des Zirkulationsverfahrens entscheidet das Präsidium.
 
 ### 2.5 Generalsekretariat
 
@@ -213,32 +217,32 @@ beschliesst:
 
 <sup>1</sup> Die Generalsekretärin oder der Generalsekretär organisiert und leitet das Generalsekretariat.
 
-<sup>2</sup> Sie oder er unterstützt mit ihren oder seinen Mitarbeiterinnen und Mitarbeitern die übrigen Organe der Gerichtsleitung bei der Aufgabenerfüllung. Sie oder er bereitet die Geschäfte des Präsidiums, des Plenums, der Geschäftsleitung und der Erweiterten Geschäftsleitung vor und setzt deren Beschlüsse um.
+<sup>2</sup> Sie oder er unterstützt mit ihren oder seinen Mitarbeiterinnen und Mitarbeitern die übrigen Organe der Gerichtsleitung bei der Aufgabenerfüllung. Sie oder er bereitet die Geschäfte des Präsidiums, des Plenums, der Geschäftsleitung und der Erweiterten Geschäftsleitung vor und setzt deren Beschlüsse um. Vorbehalten bleibt die Zuständigkeit der Gerichtsinspektorin oder des Gerichtsinspektors in Aufsichtsbelangen.
 
-<sup>3</sup> Sie oder er ist im Rahmen der Vorgaben der Stabsstelle für Ressourcen der Justizleitung verantwortlich für das Personal, die Personalentwicklung, das Finanz- und Rechnungswesen, die Infrastruktur sowie die Sicherheit in der Zivil-, Straf- und Jugendgerichtsbarkeit.
+<sup>3</sup> Sie oder er ist im Rahmen der Vorgaben der Stabsstelle für Ressourcen der Justizverwaltungsleitung verantwortlich für das Personal, die Personalentwicklung, das Finanz- und Rechnungswesen, die Infrastruktur sowie die Sicherheit in der Zivil- und Strafgerichtsbarkeit.
 
 <sup>4</sup> Sie oder er
 
 - a erledigt das administrative Tagesgeschäft der Leitungsorgane und führt deren Sekretariat,
 - b ist verantwortlich für das Protokoll der Sitzungen des Plenums, der Geschäftsleitung und der Erweiterten Geschäftsleitung,
-- c koordiniert die Berichterstattung über die Zivil-, Straf- und Jugendgerichtsbarkeit,
+- c koordiniert die Berichterstattung über die Zivil- und Strafgerichtsbarkeit,
 - d erstellt den Tätigkeitsbericht,
 - e verfasst die Vernehmlassungen, Mitberichte und Stellungnahmen, soweit dafür nicht die Abteilungen zuständig sind,
-- f führt und überwacht Projekte der Zivil-, Straf- und Jugendgerichtsbarkeit,
+- f führt und überwacht Projekte der Zivil- und Strafgerichtsbarkeit,
 - g redigiert Kreisschreiben und Weisungen, soweit dafür nicht die Abteilungen zuständig sind, und verantwortet deren Übersetzung und Bekanntmachung,
 - h koordiniert und besorgt die Kommunikation gegen innen und aussen,
 - i unterstützt die Richterinnen und Richter bei der fallspezifischen Kommunikation,
 - k wirkt mit bei der Umsetzung von Massnahmen der Aufsicht und des Controllings,
-- l ist verantwortlich für das Bibliothekswesen sowie die Dokumentation der Rechtsprechung der Zivil-, Straf- und Jugendgerichtsbarkeit,
+- l ist verantwortlich für das Bibliothekswesen sowie die Dokumentation der Rechtsprechung der Zivil- und Strafgerichtsbarkeit,
 - m ist verantwortlich für das Sekretariat der Anwaltsaufsichtsbehörde und der Anwaltsprüfungskommission,
 - n führt ein Register über bewilligte Nebenbeschäftigungen und öffentliche Ämter von Richterinnen und Richtern,
 - o ist verantwortlich für die Aufsicht über das Personal, soweit die Aufsicht nicht durch die Abteilungspräsidien wahrgenommen wird,
 - p berät die beaufsichtigten Gerichtsbehörden in administrativen Belangen und sorgt für die Koordination und den Informationsfluss,
 - q erfüllt Sonderaufgaben im Auftrag des Präsidiums, des Plenums, der Geschäftsleitung und der Erweiterten Geschäftsleitung.
 
-<sup>5</sup> Sie oder er kann das Obergericht in gesamtstaatlichen Gremien und gegenüber Institutionen und Behörden vertreten.[^13-1]
+<sup>5</sup> Sie oder er kann das Obergericht in gesamtstaatlichen Gremien und gegenüber Institutionen und Behörden vertreten.
 
-[^13-1]: bisherige Absatz 4
+<sup>6</sup> Sie oder er wird durch die stellvertretende Generalsekretärin oder den stellvertretenden Generalsekretär vertreten. Sie oder er kann an diese oder diesen die fachliche Zuständigkeit für einzelne Aufgaben und Bereiche delegieren.
 
 #### Art. 14
 
@@ -272,11 +276,40 @@ beschliesst:
 
 #### Art. 20
 
-**Finanzkompetenzen**
+**Finanzkompetenzen für Verwaltungsaufgaben**
 
-<sup>1</sup> Die Präsidentin oder der Präsident entscheidet über Ausgaben bis zu einer Höhe von 10 000 Franken in eigener Kompetenz.
+<sup>1</sup> Die Präsidentin oder der Präsident und die Generalsekretärin oder der Generalsekretär bewilligen Ausgaben für Verwaltungsaufgaben des Obergerichts bis zu einer Höhe von 30'000 Franken in je eigener Kompetenz. Eine Delegation an die jeweiligen Stellvertreterinnen oder Stellvertreter ist möglich.
 
-<sup>2</sup> Die Generalsekretärin oder der Generalsekretär entscheidet über Ausgaben bis zu einer Höhe von 5 000 Franken in eigener Kompetenz.
+<sup>2</sup> Ausgaben des Obergerichts und der erstinstanzlichen Gerichte über 30'000 Franken bedürfen einer Ausgabenbewilligung durch die Geschäftsleitung des Obergerichts. Die finanzielle Belegfreigabe erfolgt durch die Generalsekretärin oder den Generalsekretär.
+
+<sup>3</sup> Die Finanzkompetenzen der Justizverwaltungsleitung bleiben vorbehalten.
+
+#### Art. 20a
+
+**Finanzkompetenzen für Verfahren in Zivil- und Strafsachen**
+
+<sup>1</sup> Für die Ausgaben in Zusammenhang mit Verfahren in Zivil- und Strafsachen gilt die finanzielle Belegfreigabe unabhängig von der Höhe als Ausgabenbewilligung (Art. 31 Abs. 1 Bst. e der Finanzhaushaltsverordnung vom 16.11.2022 [FHaV][^20a-1]).
+
+<sup>2</sup> Die Verfahrensleitung ist für die materielle Prüfung der Ausgaben zuständig. Obliegt ihr bei einer Ausgabe die finanzielle Belegfreigabe, übernimmt die im betroffenen Verfahren zuständige Gerichtsschreiberin oder der zuständige Gerichtsschreiber die materielle Prüfung.
+
+<sup>3</sup> Die finanzielle Belegfreigabe erfolgt
+
+- a bei Ausgaben bis zu einer Höhe von 30'000 Franken in Verfahren der ersten und zweiten Zivilkammer, der Aufsichtsbehörde in Betreibungs- und Konkurssachen und des Kindes- und Erwachsenenschutzgerichts durch die Abteilungspräsidentin oder den Abteilungspräsidenten der Zivilabteilung,
+- b bei Ausgaben bis zu einer Höhe von 30'000 Franken in Verfahren des Handelsgerichts durch die Präsidentin oder den Präsidenten des Handelsgerichts,
+- c bei Ausgaben bis zu einer Höhe von 30'000 Franken in Verfahren der ersten, zweiten und dritten Strafkammer sowie der Beschwerdekammer durch die Abteilungspräsidentin oder den Abteilungspräsidenten der Strafabteilung,
+- d bei Ausgaben über 30'000 Franken in allen Verfahren in Zivil- und Strafsachen des Obergerichts durch die Präsidentin oder den Präsidenten des Obergerichts oder durch deren oder dessen Stellvertreterin oder Stellvertreter.
+
+[^20a-1]: BSG [621.1](https://www.belex.sites.be.ch/data/621.1/de)
+
+#### Art. 20b
+
+**Finanzkompetenzen Anwaltsprüfungskommission und Anwaltsaufsicht**
+
+<sup>1</sup> Die Präsidentin oder der Präsident der Anwaltsprüfungskommission bewilligt Ausgaben der Anwaltsprüfungskommission bis zu einer Höhe von 30'000 Franken in eigener Kompetenz.
+
+<sup>2</sup> Die Präsidentin oder der Präsident der Anwaltsaufsichtsbehörde bewilligt Ausgaben der Anwaltsaufsichtsbehörde bis zu einer Höhe von 30'000 Franken in eigener Kompetenz.
+
+<sup>3</sup> Ausgaben der Anwaltsprüfungskommission und der Anwaltsaufsichtsbehörde über 30'000 Franken bedürfen einer Ausgabenbewilligung durch die Geschäftsleitung des Obergerichts. Die finanzielle Belegfreigabe erfolgt durch die Generalsekretärin oder den Generalsekretär.
 
 ### 2.9 Information
 
@@ -342,7 +375,7 @@ beschliesst:
 <sup>3</sup> Die Abteilungskonferenz beschliesst über gerichtsorganisatorische Belange der Abteilung. Sie ist zuständig für
 
 - a die Wahl der stellvertretenden Abteilungspräsidentin oder des stellvertretenden Abteilungspräsidenten,
-- b die Bestimmung der geschäftsleitenden Gerichtsschreiberin oder des geschäftsleitenden Gerichtsschreibers auf Antrag der Abteilungspräsidentin oder des Abteilungspräsidenten,
+- b die Bestimmung der leitenden Gerichtsschreiberin oder des leitenden Gerichtsschreibers auf Antrag der Abteilungspräsidentin oder des Abteilungspräsidenten,
 - c die Übertragung weiterer dauernder Aufgaben auf die Gerichtsschreiberinnen und Gerichtsschreiber.
 
 <sup>4</sup> Sie stellt der Geschäftsleitung in folgenden Fällen Antrag:
@@ -351,7 +384,7 @@ beschliesst:
 - b Wahl der Abteilungspräsidentin oder des Abteilungspräsidenten zuhanden des Plenums,
 - c Bezeichnung der Richterinnen und Richter, die in anderen Abteilungen oder in externen Arbeitsgruppen mitwirken.
 
-<sup>5</sup> Sie kann die zur Gewährleistung einer einheitlichen Rechtssprechung in ihrem Fachbereich erforderlichen Praxisfestlegungen treffen und Kreisschreiben zuhanden der erstinstanzlichen Gerichte erlassen.
+<sup>5</sup> Sie kann die zur Gewährleistung einer einheitlichen Rechtsprechung in ihrem Fachbereich erforderlichen Praxisfestlegungen treffen und Kreisschreiben zuhanden der erstinstanzlichen Gerichte erlassen.
 
 <sup>6</sup> Sie beschliesst über Vernehmlassungsentwürfe zu gesetzgeberischen Vorlagen in ihrem Fachbereich.
 
@@ -375,7 +408,7 @@ beschliesst:
 <sup>1</sup> Die Spruchbehörden der Strafabteilung sind:
 
 - a die Beschwerdekammer in Strafsachen,
-- b die erste und die zweite Strafkammer.
+- b die erste, die zweite und die dritte Strafkammer.
 
 #### Art. 27a
 
@@ -426,17 +459,17 @@ beschliesst:
 
 **Zuständigkeiten in der Strafabteilung**
 
-<sup>1</sup> Die erste und die zweite Strafkammer behandeln:
+<sup>1</sup> Die erste, die zweite und die dritte Strafkammer behandeln:
 
-- a die mit Berufung gemäss Artikel 398 ff. der Schweizerischen Strafprozessordnung vom 5. Oktober 2007 (StPO)[^29-1] weitergezogenen Urteile der Regionalgerichte und des Wirtschaftsstrafgerichts,
+- a die mit Berufung gemäss Artikel 398 ff. der Schweizerischen Strafprozessordnung vom 5. Oktober 2007 (StPO)[^29-1] weitergezogenen Urteile, selbständigen nachträglichen Entscheide und selbständigen Einziehungsentscheide der Regionalgerichte und des Wirtschaftsstrafgerichts,
 - b Revisionsgesuche gemäss Artikel 410 ff. StPO,
-- c Beschwerden gemäss Artikel 81a des Gesetzes vom 25. Juni 2003 über den Straf- und Massnahmenvollzug (SMVG)[^29-2] und Artikel 69 Absatz 4 EG ZSJ,
+- c Beschwerden gemäss Artikel 52 des Gesetzes vom 23. Januar 2018 über den Justizvollzug (JVG)[^29-2] und Artikel 69 Absatz 4 EG ZSJ,
 - d Berufungen gemäss Artikel 40 der Schweizerischen Jugendstrafprozessordnung vom 20. März 2009 (Jugendstrafprozessordnung, JStPO)[^29-3].
 
 <sup>2</sup> Die Beschwerdekammer in Strafsachen ist Beschwerdeinstanz gemäss StPO und JStPO.
 
-[^29-1]: SR 312.0; BBl 2007 6977
-[^29-2]: BSG 341.1
+[^29-1]: SR [312.0](https://db.clex.ch/link/Bund/312.0/de); BBl 2007 6977
+[^29-2]: BSG [341.1](https://www.belex.sites.be.ch/data/341.1/de)
 [^29-3]: SR 312.1; BBl 2009 1993
 
 #### Art. 30
@@ -493,7 +526,7 @@ beschliesst:
 
 **Nebenbeschäftigungen und öffentliche Ämter**
 
-<sup>1</sup> Das Bewilligungsgesuch zur Ausübung einer Nebenbeschäftigung oder eines öffentlichen Amtes ist bei der Geschäftsleitung einzureichen. Diese leitet das Gesuch mit einem Antrag zuhanden der Justizkommission an die Justizleitung weiter.
+<sup>1</sup> Das Bewilligungsgesuch zur Ausübung einer Nebenbeschäftigung oder eines öffentlichen Amtes ist bei der Geschäftsleitung einzureichen. Diese leitet das Gesuch mit einem Antrag an die Justizkommission weiter.
 
 <sup>2</sup> Das Bewilligungsgesuch enthält die notwendigen Angaben über Art und Umfang der Nebenbeschäftigung oder des öffentlichen Amtes sowie über den Zeitaufwand, der voraussichtlich damit verbunden sein wird.
 
@@ -530,7 +563,7 @@ beschliesst:
 
 #### Art. 38
 
-<sup>1</sup> Das Obergericht regelt die Zuständigkeiten für Personalangelegenheiten und Weiterbildung nach den Vorgaben der Justizleitung.
+<sup>1</sup> Das Obergericht regelt die Zuständigkeiten für Personalangelegenheiten und Weiterbildung nach den Vorgaben der Justizverwaltungsleitung.
 
 <sup>2</sup> Für die Behandlung betrieblicher Personalangelegenheiten kann die Geschäftsleitung durch Reglement eine Betriebskommission einsetzen. Sie wird auch eingesetzt, wenn es mindestens die Hälfte aller Mitarbeiterinnen und Mitarbeiter verlangt.
 
@@ -576,9 +609,9 @@ beschliesst:
 
 <sup>2</sup> Die Beteiligten sind verpflichtet, zunächst das Gespräch unter sich und dann innerhalb der betroffenen Abteilung zu suchen.
 
-<sup>3</sup> Führen diese Gespräche nicht zu einer Einigung, wird die Angelegenheit der Präsidentin oder dem Präsidenten des Obergerichts unterbreitet. Sie oder er zieht bei Bedarf die Geschäftsleitung bei. Diese trifft geeignete Massnahmen. Sie kann die Justizleitung einbeziehen.
+<sup>3</sup> Führen diese Gespräche nicht zu einer Einigung, wird die Angelegenheit der Präsidentin oder dem Präsidenten des Obergerichts unterbreitet. Sie oder er zieht bei Bedarf die Geschäftsleitung bei. Diese trifft geeignete Massnahmen. Sie kann die Justizverwaltungsleitung einbeziehen.
 
-<sup>4</sup> Scheitern sämtliche internen Versuche zur Beilegung des Konflikts und handelt es sich um eine wesentliche Angelegenheit, die im Rahmen der Oberaufsicht von Bedeutung sein kann, so informiert die Geschäftsleitung die Justizleitung zuhanden der Justizkommission.
+<sup>4</sup> Scheitern sämtliche internen Versuche zur Beilegung des Konflikts und handelt es sich um eine wesentliche Angelegenheit, die im Rahmen der Oberaufsicht von Bedeutung sein kann, so informiert die Geschäftsleitung die Justizkommission.
 
 ## 9 Schlussbestimmungen
 
