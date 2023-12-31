@@ -1,25 +1,25 @@
 ---
 canton: BE
 number: "162.13"
-title: "Règlement sur l’information par les autorités judiciaires civiles, pénales et des mineurs"
-short: RI CPM
+title: "Règlement sur l’information par les juridictions civile et pénale *"
+short: RI JCP
 language: fr
-version: 2016-04-01
-valid_until: 2023-12-31
-version_adopted: 2015-11-20
+version: 2024-01-01
+valid_until: 2025-12-31
+version_adopted: 2023-11-17
 adopted: 2010-11-12
 in_force: 2011-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/162.13"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/966/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2929/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
 
-# Règlement sur l’information par les autorités judiciaires civiles, pénales et des mineurs
+# Règlement sur l’information par les juridictions civile et pénale
 
-(RI CPM)
+(RI JCP)
 
-du 12.11.2010 (état au 01.04.2016)
+du 12.11.2010 (état au 01.01.2024)
 
 La Cour suprême du canton de Berne,
 
@@ -38,7 +38,7 @@ arrête:
 
 **Objet et domaine d’application**
 
-<sup>1</sup> Le présent règlement régit l’information du public sur l’activité des autorités judiciaires civiles, pénales et des mineurs.
+<sup>1</sup> Le présent règlement régit l’information du public sur l’activité des juridictions civile et pénale.
 
 <sup>2</sup> Il s’applique à la Cour suprême, au Tribunal cantonal des mesures de contrainte, au Tribunal pénal économique, au Tribunal des mineurs, aux tribunaux régionaux, aux tribunaux régionaux des mesures de contrainte, ainsi qu’aux autorités de conciliation.
 
@@ -46,7 +46,7 @@ arrête:
 
 **Principes**
 
-<sup>1</sup> Les autorités judiciaires civiles, pénales et des mineurs donnent des informations dans les procédures pendantes, en se fondant sur la législation concernant la procédure et d’autres dispositions légales applicables.
+<sup>1</sup> Les autorités judiciaires civiles et pénales donnent des informations dans les procédures pendantes, en se fondant sur la législation concernant la procédure et d’autres dispositions légales applicables.
 
 <sup>2</sup> Pour ce faire, elles prennent en considération les intérêts dignes de protection des personnes participant à la procédure, en particulier leur sphère privée.
 
@@ -83,13 +83,13 @@ arrête:
 
 <sup>1</sup> Les autorités judiciaires fournissent ouvertement, de manière transparente et dans les limites des dispositions légales des informations concernant les principaux changements organisationnels et de personnel.
 
-<sup>2</sup> Le rapport d’activité annuel de la Cour suprême est publié. Il renseigne sur la marche des affaires des autorités judiciaires civiles, pénales et des mineurs, sur leurs activités administratives, ainsi que sur l’activité de surveillance de la Cour suprême.
+<sup>2</sup> Le rapport d’activité annuel de la Cour suprême est publié. Il renseigne sur la marche des affaires des juridictions civile et pénale, sur leurs activités administratives, ainsi que sur l’activité de surveillance de la Cour suprême.
 
 #### Art. 6
 
 **Canaux d’information**
 
-<sup>1</sup> Les autorités judiciaires informent via leurs sites internet, ainsi que par les professionnels des médias accrédités.
+<sup>1</sup> Les autorités judiciaires informent via leur site internet, ainsi que par les professionnels des médias accrédités.
 
 <sup>2</sup> Lorsque l’intérêt public l’exige, les médias sont informés par l’Office de la communication du canton de Berne (ComBE), indépendamment des accréditations existantes.
 
@@ -115,7 +115,7 @@ arrête:
 
 #### Art. 9
 
-**Communication à d’autres autorités**
+**Communication à d’autres tribunaux ou autorités**
 
 <sup>1</sup> La direction de la procédure est responsable des communications prévues par la loi, devant être faites aux autres tribunaux ou autorités.
 
@@ -152,20 +152,30 @@ arrête:
 
 <sup>1</sup> La page de garde et le dispositif de toutes les décisions mettant fin à l’instance du mois précédent peuvent être consultés par le public à partir du quinzième jour du mois, pendant 15 jours ouvrables, au secrétariat du tribunal, à moins que des dispositions légales contraires ou des intérêts prépondérants ne s’y opposent. Les documents peuvent exceptionnellement être disponibles sous une forme anonymisée.
 
-<sup>2</sup> Les décisions rendues dans le cadre de procédures de conciliation, de procédures sommaires écrites, de procédures du droit de la famille, ainsi que celles rendues par l’Autorité de surveillance en matière de poursuite pour dettes et de faillite et par le Tribunal de la protection de l’enfant et de l’adulte ne sont pas rendues accessibles au public.
+<sup>2</sup> Ne sont pas rendues accessibles au public
+
+- a les décisions rendues dans le cadre de procédures de conciliation,
+- b les décisions rendues dans le cadre de procédures sommaires écrites, à l’exception des procédures en cas clairs selon l’article 257 du Code de procédure civile du 19 décembre 2008 (CPC)[^11-1],
+- c les décisions en procédure du droit de la famille,
+- d les décisions rendues par l’Autorité de surveillance en matière de poursuite et de faillite,
+- e les décisions rendues par le Tribunal de la protection de l’enfant et de l’adulte.
 
 <sup>3</sup> Sur demande et contre émoluments, les considérants élaborés dans le cadre de décisions qui ne sont pas publiées dans la banque de données des décisions peuvent être remis sous forme anonymisée. La direction de la procédure statue sur la demande.
+
+[^11-1]: RS [272](https://db.clex.ch/link/Bund/272/fr)
 
 #### Art. 12
 
 **Communication des décisions de droit pénal**
 
-<sup>1</sup> La page de garde et le dispositif de toutes les décisions mettant fin à l'instance du mois précédent et qui n'ont pas été rendues en audience publique peuvent être consultés par le public à partir du quinzième jour du mois, pendant 15 jours ouvrables, au secrétariat du tribunal, à moins que des dispositions contraires du code de procédure pénale suisse du 5 octobre 2007 (code de procédure pénale, CPP)[^12-1], notamment l’article 69, alinéa 3, de la loi fédérale du 20 mars 2009 sur la procédure applicable aux mineurs (procédure pénale applicable aux mineurs, PPMin)[^12-2], la protection des victimes, d'autres dispositions légales ou des intérêts prépondérants ne s'y opposent. Les documents peuvent exceptionnellement être disponibles sous une forme anonymisée.
+<sup>1</sup> Les décisions en matière pénale de la Cour suprême sont en principe publiées sous forme anonymisée dans la base de données des décisions.
 
-<sup>2</sup> Sur demande et contre émoluments, les considérants élaborés dans le cadre de décisions qui ne sont pas publiées dans la banque de données des décisions peuvent être remis sous forme anonymisée. La direction de la procédure statue sur la demande.
+<sup>2</sup> La page de garde et le dispositif de toutes les décisions mettant fin à l'instance du mois précédent et qui n'ont pas été rendues en audience publique peuvent être consultés par le public à partir du quinzième jour du mois, pendant 15 jours ouvrables, au secrétariat du tribunal, à moins que des dispositions du code de procédure pénale suisse du 5 octobre 2007 (code de procédure pénale, CPP)[^12-1], notamment l’article 69, alinéa 3, de la loi fédérale du 20 mars 2009 sur la procédure applicable aux mineurs (procédure pénale applicable aux mineurs, PPMin)[^12-2], la protection des victimes, d'autres dispositions légales ou des intérêts prépondérants ne s'y opposent. Les documents peuvent exceptionnellement être disponibles sous une forme anonymisée.
 
-[^12-1]: RS 312.0
-[^12-2]: RS 312.1
+<sup>3</sup> Sur demande et contre émoluments, les considérants élaborés dans le cadre de décisions qui ne sont pas publiées dans la banque de données des décisions peuvent être remis sous forme anonymisée. La direction de la procédure statue sur la demande.
+
+[^12-1]: RS [312.0](https://db.clex.ch/link/Bund/312.0/fr)
+[^12-2]: RS [312.1](https://db.clex.ch/link/Bund/312.1/fr)
 
 ## 3 Demandes en relation avec la procédure
 
@@ -201,7 +211,7 @@ arrête:
 
 **Conditions**
 
-<sup>1</sup> Les professionnels des médias qui entendent tenir régulièrement la chronique de l’activité judiciaire des autorités judiciaires civiles, pénales et des mineurs pour les médias paraissant ou établis en Suisse doivent demander leur accréditation par écrit à la Cour suprême.
+<sup>1</sup> Les professionnels des médias qui entendent tenir régulièrement la chronique de l’activité judiciaire des autorités judiciaires civiles et pénales pour les médias paraissant ou établis en Suisse doivent demander leur accréditation par écrit à la Cour suprême.
 
 <sup>2</sup> Le directoire accorde l’autorisation si le requérant ou la requérante remplit les conditions d’inscription au registre professionnel; la demande doit être accompagnée d’un curriculum vitae, d’une photo, de l’adresse électronique, ainsi que d’un dossier contenant la carte de presse, une attestation de l’employeur ou tout autre document équivalent.
 
@@ -227,7 +237,7 @@ arrête:
 
 **Principes**
 
-<sup>1</sup> Quiconque rédige un compte rendu de la jurisprudence des autorités judiciaires civiles, pénales et des mineurs est tenu de veiller au respect des intérêts dignes de protection des parties à la procédure, en particulier de leur sphère privée.
+<sup>1</sup> Quiconque rédige un compte rendu de la jurisprudence des autorités judiciaires civiles et pénales est tenu de veiller au respect des intérêts dignes de protection des parties à la procédure, en particulier de leur sphère privée.
 
 <sup>2</sup> Les noms ne peuvent être cités que si la direction de la procédure compétente l’a autorisé ou si les personnes concernées ont donné leur accord.
 
@@ -238,9 +248,9 @@ arrête:
 <sup>1</sup> Les professionnels des médias accrédités bénéficient des prestations de service suivantes:
 
 - a information concernant les dates et les objets, ainsi que les parties à la procédure des audiences publiques par courriel (souhait à déposer auprès de l’autorité judiciaire concernée),
-- b remise de documents (acte d’accusation, présentation de l’état de fait, jugement de première instance, etc.) dans les audiences publiques de procédures complexes,
-- c sur demande individuelle, remise des considérants du jugement non anonymisés selon l’article 11, alinéa 1 et article 12, alinéa 1,
-- d envoi du rapport d’activité de la Justice du canton de Berne,
+- b remise de l’acte d’accusation ou de l’ordonnance pénale ainsi que, en instance supérieure, des considérants de la décision de première instance dans les audiences publiques,
+- c sur demande individuelle, remise des considérants de la décision non anonymisés selon l’article 11 et l’article 12,
+- d envoi du rapport d’activité des autorités judiciaires et du Ministère public du canton de Berne,
 - e envoi direct des communiqués de presse par courriel.
 
 <sup>2</sup> Les informations et les envois sont effectuées si possible par voie électronique.
@@ -251,7 +261,7 @@ arrête:
 
 **Durée et révocation de l’accréditation, sanctions**
 
-<sup>1</sup> L’accréditation vaut pour une durée de quatre ans ou pour le solde des quatre ans si elle est octroyée en cours de période. Les professionnels des médias doivent présenter leur requête de renouvellement de l’accréditation en temps utile.
+<sup>1</sup> L’accréditation vaut pour une durée de quatre ans. Les professionnels des médias doivent présenter leur requête de renouvellement de l’accréditation en temps utile.
 
 <sup>2</sup> Le directoire révoque l’accréditation si les conditions posées à son octroi ne sont plus réunies.
 
@@ -263,7 +273,10 @@ arrête:
 
 **Autorisation dans un cas particulier**
 
-<sup>1</sup> La direction de la procédure peut autoriser, pour une procédure déterminée, des professionnels des médias qui s’identifient au moyen d’une carte de presse et d’une attestation de l’employeur et leur fournir pour cette procédure les mêmes prestations de service que celles mentionnées à l’article 20.
+<sup>1</sup> La direction de la procédure peut autoriser, pour une procédure déterminée, des professionnels des médias et leur fournir pour cette procédure les mêmes prestations de service que celles mentionnées à l’article 20
+
+- a s'ils s’identifient au moyen d’une carte de presse et d’une attestation de l’employeur ou
+- b s'ils présentent une copie de l’accréditation et une confirmation écrite d’un ou d’une professionnel des médias accrédité sous la surveillance et la responsabilité professionnelles duquel ou de laquelle le compte-rendu de la jurisprudence des autorités judiciaires civiles et pénales est effectué. Les stagiaires sont exclus de cette règle.
 
 <sup>2</sup> Les professionnels des médias qui n’ont pas d’accréditation doivent respecter les mêmes obligations que les professionnels des médias au bénéfice d’une accréditation, notamment les principes de l’article 19.
 

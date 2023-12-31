@@ -1,25 +1,25 @@
 ---
 canton: BE
 number: "162.13"
-title: "Informationsreglement der Zivil-, Straf- und Jugendgerichtsbehörden"
-short: IR ZSJ
+title: Informationsreglement der Zivil- und Strafgerichtsbarkeit
+short: IR ZSG
 language: de
-version: 2016-04-01
-valid_until: 2023-12-31
-version_adopted: 2015-11-20
+version: 2024-01-01
+valid_until: 2025-12-31
+version_adopted: 2023-11-17
 adopted: 2010-11-12
 in_force: 2011-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/162.13"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/966/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2929/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Informationsreglement der Zivil-, Straf- und Jugendgerichtsbehörden
+# Informationsreglement der Zivil- und Strafgerichtsbarkeit
 
-(IR ZSJ)
+(IR ZSG)
 
-vom 12.11.2010 (Stand 01.04.2016)
+vom 12.11.2010 (Stand 01.01.2024)
 
 Das Obergericht des Kantons Bern,
 
@@ -38,7 +38,7 @@ beschliesst:
 
 **Gegenstand und Anwendungsbereich**
 
-<sup>1</sup> Dieses Reglement regelt die Information der Öffentlichkeit über die Tätigkeit der Zivil-, Straf- und Jugendgerichtsbehörden.
+<sup>1</sup> Dieses Reglement regelt die Information der Öffentlichkeit über die Tätigkeit der Zivil- und Strafgerichtsbarkeit.
 
 <sup>2</sup> Es findet Anwendung auf das Obergericht, das kantonale Zwangsmassnahmengericht, das Wirtschaftsstrafgericht, das Jugendgericht, die Regionalgerichte, die regionalen Zwangsmassnahmengerichte sowie die regionalen Schlichtungsbehörden.
 
@@ -46,7 +46,7 @@ beschliesst:
 
 **Grundsätze**
 
-<sup>1</sup> Die Zivil-, Straf- und Jugendgerichtsbehörden informieren in hängigen Verfahren gestützt auf die Prozessgesetzgebung und andere anwendbare gesetzliche Bestimmungen.
+<sup>1</sup> Die Zivil- und Strafgerichtsbehörden informieren in hängigen Verfahren gestützt auf die Prozessgesetzgebung und andere anwendbare gesetzliche Bestimmungen.
 
 <sup>2</sup> Sie nehmen dabei Rücksicht auf die schutzwürdigen Interessen der an den Verfahren Beteiligten, insbesondere auf deren Privatsphäre.
 
@@ -83,13 +83,13 @@ beschliesst:
 
 <sup>1</sup> Die Gerichtsbehörden informieren über wesentliche organisatorische und personelle Veränderungen im Rahmen der gesetzlichen Bestimmungen offen und transparent.
 
-<sup>2</sup> Der jährliche Tätigkeitsbericht des Obergerichts wird publiziert. Er gibt Auskunft über den Geschäftsgang der Zivil-, Straf- und Jugendgerichtsbehörden, deren administrative Tätigkeiten sowie über die Aufsichtstätigkeit des Obergerichts.
+<sup>2</sup> Der jährliche Tätigkeitsbericht des Obergerichts wird publiziert. Er gibt Auskunft über den Geschäftsgang der Zivil- und Strafgerichtsbarkeit, deren administrative Tätigkeiten sowie über die Aufsichtstätigkeit des Obergerichts.
 
 #### Art. 6
 
 **Informationskanäle**
 
-<sup>1</sup> Die Gerichtsbehörden informieren auf ihren Webseiten sowie gegenüber den akkreditierten Medienschaffenden.
+<sup>1</sup> Die Zivil- und Strafgerichtsbarkeit informiert auf ihrer Website sowie gegenüber den akkreditierten Medienschaffenden.
 
 <sup>2</sup> Wo es das öffentliche Interesse gebietet, werden die Medien unabhängig von den bestehenden Akkreditierungen durch das Amt für Kommunikation (KomBE) informiert.
 
@@ -115,7 +115,7 @@ beschliesst:
 
 #### Art. 9
 
-**Mitteilung an andere Behörden**
+**Mitteilung an andere Gerichte oder Behörden**
 
 <sup>1</sup> Die Verfahrensleitung ist verantwortlich für die gesetzlich vorgesehenen Mitteilungen an andere Gerichte oder Behörden.
 
@@ -152,20 +152,30 @@ beschliesst:
 
 <sup>1</sup> Rubrum und Dispositiv aller verfahrensabschliessenden Entscheide des Vormonats stehen der Öffentlichkeit ab dem fünfzehnten Tag eines jeden Monats während 15 Arbeitstagen auf dem jeweiligen Gerichtssekretariat zur Einsichtnahme offen, sofern nicht gesetzliche Bestimmungen oder überwiegende Interessen entgegenstehen. Die Dokumente können ausnahmsweise anonymisiert werden.
 
-<sup>2</sup> Entscheide in Schlichtungsverfahren, schriftlichen Summarverfahren, familienrechtlichen Verfahren sowie der Aufsichtsbehörde in Betreibungs- und Konkurssachen und des Kindes- und Erwachsenenschutzgerichts werden der Öffentlichkeit nicht zugänglich gemacht.
+<sup>2</sup> Nicht der Öffentlichkeit zugänglich gemacht werden
+
+- a Entscheide in Schlichtungsverfahren,
+- b Entscheide in schriftlichen Summarverfahren mit Ausnahme von Verfahren um Rechtsschutz in klaren Fällen gemäss Artikel 257 der Schweizerischen Zivilprozessordnung vom 19. Dezember 2008 (Zivilprozessordnung, ZPO)[^11-1],
+- c Entscheide in familienrechtlichen Verfahren,
+- d Entscheide der Aufsichtsbehörde in Betreibungs- und Konkurssachen,
+- e Entscheide des Kindes- und Erwachsenenschutzgerichts
 
 <sup>3</sup> Auf Gesuch hin und gegen Gebühr können erstellte Erwägungen von Entscheiden, die nicht in der Entscheiddatenbank veröffentlicht werden, in anonymisierter Form abgegeben werden. Über das Gesuch entscheidet die Verfahrensleitung.
+
+[^11-1]: SR [272](https://db.clex.ch/link/Bund/272/de)
 
 #### Art. 12
 
 **Bekanntmachung der strafrechtlichen Entscheide**
 
-<sup>1</sup> Rubrum und Dispositiv aller nicht öffentlich verkündeten, verfahrensabschliessenden Entscheide des Vormonats stehen der Öffentlichkeit ab dem fünfzehnten Tag eines jeden Monats während 15 Arbeitstagen auf dem jeweiligen Gerichtssekretariat zur Einsichtnahme offen, sofern dem nicht die Schweizerische Strafprozessordnung vom 5. Oktober 2007 (Strafprozessordnung, StPO)[^12-1], insbesondere Artikel 69 Absatz 3, die Schweizerische Jugendstrafprozessordnung vom 20. März 2009 (Jugendstrafprozessordnung, JStPO)[^12-2], der Opferschutz, andere gesetzliche Bestimmungen oder überwiegende Interessen entgegenstehen. Die Dokumente können ausnahmsweise anonymisiert werden.
+<sup>1</sup> Die strafrechtlichen Entscheide des Obergerichts werden grundsätzlich in anonymisierter Form in der Entscheiddatenbank veröffentlicht.
 
-<sup>2</sup> Auf Gesuch hin und gegen Gebühr können erstellte Erwägungen von Entscheiden, die nicht in der Entscheiddatenbank veröffentlicht werden, in anonymisierter Form abgegeben werden. Über das Gesuch entscheidet die Verfahrensleitung.
+<sup>2</sup> Rubrum und Dispositiv aller nicht öffentlich verkündeten, verfahrensabschliessenden Entscheide des Vormonats stehen der Öffentlichkeit ab dem fünfzehnten Tag eines jeden Monats während 15 Arbeitstagen auf dem jeweiligen Gerichtssekretariat zur Einsichtnahme offen, sofern dem nicht die Schweizerische Strafprozessordnung vom 5. Oktober 2007 (Strafprozessordnung, StPO)[^12-1], insbesondere Artikel 69 Absatz 3, die Schweizerische Jugendstrafprozessordnung vom 20. März 2009 (Jugendstrafprozessordnung, JStPO)[^12-2], der Opferschutz, andere gesetzliche Bestimmungen oder überwiegende Interessen entgegenstehen. Die Dokumente können ausnahmsweise anonymisiert werden.
 
-[^12-1]: SR 312.0
-[^12-2]: SR 312.1
+<sup>3</sup> Auf Gesuch hin und gegen Gebühr können erstellte Erwägungen von Entscheiden, die nicht in der Entscheiddatenbank veröffentlicht werden, in anonymisierter Form abgegeben werden. Über das Gesuch entscheidet die Verfahrensleitung.
+
+[^12-1]: SR [312.0](https://db.clex.ch/link/Bund/312.0/de)
+[^12-2]: SR [312.1](https://db.clex.ch/link/Bund/312.1/de)
 
 ## 3 Verfahrensbezogene Anfragen
 
@@ -201,7 +211,7 @@ beschliesst:
 
 **Voraussetzungen**
 
-<sup>1</sup> Medienschaffende, die regelmässig für in der Schweiz erscheinende oder niedergelassene Medien über die Rechtsprechung der Zivil-, Straf- und Jugendgerichtsbehörden Bericht erstatten wollen, können beim Obergericht ein schriftliches Gesuch um Akkreditierung einreichen.
+<sup>1</sup> Medienschaffende, die regelmässig für in der Schweiz erscheinende oder niedergelassene Medien über die Rechtsprechung der Zivil- und Strafgerichtsbehörden Bericht erstatten wollen, können beim Obergericht ein schriftliches Gesuch um Akkreditierung einreichen.
 
 <sup>2</sup> Die Geschäftsleitung erteilt die Akkreditierung, wenn die Gesuchstellerin oder der Gesuchsteller die Voraussetzungen für die Eintragung in das Berufsregister erfüllt; dem Gesuch sind nebst Lebenslauf, Foto und E-Mail-Adresse die entsprechenden Unterlagen wie Presseausweis und Bestätigung der Arbeitgeberin oder des Arbeitgebers oder dergleichen beizulegen.
 
@@ -227,7 +237,7 @@ beschliesst:
 
 **Grundsätze**
 
-<sup>1</sup> Wer über die Rechtsprechung der Zivil-, Straf- und Jugendgerichtsbehörden Bericht erstattet, hat auf die schutzwürdigen Interessen der am Verfahren Beteiligten, insbesondere auf deren Privatsphäre, Rücksicht zu nehmen.
+<sup>1</sup> Wer über die Rechtsprechung der Zivil- und Strafgerichtsbehörden Bericht erstattet, hat auf die schutzwürdigen Interessen der am Verfahren Beteiligten, insbesondere auf deren Privatsphäre, Rücksicht zu nehmen.
 
 <sup>2</sup> Namen dürfen genannt werden, wenn sie von der zuständigen Verfahrensleitung freigegeben worden sind oder die Betroffenen damit einverstanden sind.
 
@@ -238,9 +248,9 @@ beschliesst:
 <sup>1</sup> Die akkreditierten Medienschaffenden erhalten folgende Dienstleistungen:
 
 - a Orientierung über Termine, Gegenstände sowie Verfahrensparteien der öffentlichen Verhandlungen per E-Mail (auf bei der betreffenden Gerichtsbehörde zu deponierenden Wunsch hin),
-- b Abgabe von Unterlagen (Anklage, Sachverhaltsdarstellungen, erstinstanzliches Urteil usw.) in öffentlichen Verhandlungen von komplexen Verfahren,
-- c auf Einzelanfrage hin Abgabe der nicht anonymisierten Urteilsbegründungen gemäss Artikel 11 Absatz 1 und Artikel 12 Absatz 1,
-- d Zustellung des Tätigkeitsberichts der Justiz des Kantons Bern,
+- b in öffentlichen Verhandlungen Abgabe von Anklageschrift bzw. Strafbefehl sowie in oberer Instanz zusätzlich die erstinstanzliche Entscheidbegründung,
+- c auf Einzelanfrage hin Abgabe der nicht anonymisierten Entscheidbegründungen gemäss Artikel 11 und Artikel 12,
+- d Zustellung des Tätigkeitsberichts der Gerichtsbehörden und der Staatsanwaltschaft des Kantons Bern,
 - e direkte Zustellung der Medienmitteilungen per E-Mail.
 
 <sup>2</sup> Die Orientierungen und Zustellungen erfolgen, soweit möglich, elektronisch.
@@ -251,7 +261,7 @@ beschliesst:
 
 **Dauer und Aufhebung der Akkreditierung, Sanktionen**
 
-<sup>1</sup> Die Akkreditierung erfolgt für eine Dauer von vier Jahren oder während einer laufenden Vierjahresperiode für deren Rest. Die Medienschaffenden haben rechtzeitig um Erneuerung der Akkreditierung nachzusuchen.
+<sup>1</sup> Die Akkreditierung erfolgt für eine Dauer von vier Jahren. Die Medienschaffenden haben rechtzeitig um Erneuerung der Akkreditierung nachzusuchen.
 
 <sup>2</sup> Die Geschäftsleitung hebt die Akkreditierung auf, wenn die Voraussetzungen für deren Erteilung nicht mehr gegeben sind.
 
@@ -263,7 +273,10 @@ beschliesst:
 
 **Zulassung im Einzelfall**
 
-<sup>1</sup> Die Verfahrensleitung ist befugt, Medienschaffende, die sich mit einem Presseausweis und einer Redaktionsbestätigung ausweisen, für ein einzelnes Verfahren zuzulassen und diesen für dieses Verfahren sinngemäss die Dienstleistungen gemäss Artikel 20 zukommen zu lassen.
+<sup>1</sup> Die Verfahrensleitung ist befugt, Medienschaffende für ein einzelnes Verfahren zuzulassen und diesen für dieses Verfahren sinngemäss die Dienstleistungen gemäss Artikel 20 zukommen zu lassen, wenn sie
+
+- a sich mit einem Presseausweis und einer Redaktionsbestätigung ausweisen, oder
+- b eine Kopie der Akkreditierung und eine schriftliche Bestätigung von einer oder einem akkreditierten Medienschaffenden vorweisen, unter derer oder dessen fachlichen Aufsicht und Verantwortung die Berichterstattung über die Rechtsprechung der Zivil- und Strafgerichtsbehörden erfolgt. Praktikantinnen und Praktikanten sind von dieser Regelung ausgeschlossen.
 
 <sup>2</sup> Für die Medienschaffenden ohne Akkreditierung gelten die gleichen Pflichten wie für die akkreditierten Medienschaffenden, insbesondere die Grundsätze gemäss Artikel 19.
 
