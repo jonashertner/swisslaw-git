@@ -4,11 +4,11 @@ title: Verordnung vom 22. Juni 1998 über den Sicherheitsfonds BVG (SFV)
 short: SFV
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/1662_1662_1662"
 language: de
-version: 2012-01-01
+version: 2024-01-01
 adopted: 1998-06-22
 in_force: 1998-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/1662_1662_1662/20120101/de/xml/fedlex-data-admin-ch-eli-cc-1998-1662_1662_1662-20120101-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/1662_1662_1662/20120101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/1662_1662_1662/20240101/de/xml/fedlex-data-admin-ch-eli-cc-1998-1662_1662_1662-20240101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/1662_1662_1662/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,15 +17,16 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/1662_1662_1662/20120101/de"
 
 (SFV)
 
-vom 22. Juni 1998 (Stand am 1. Januar 2012)
+vom 22. Juni 1998 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
-gestützt auf die Artikel 56 Absätze 3 und 4, 59 Absatz 2 und 97 Absatz 1 des Bundesgesetzes vom 25. Juni 1982[^ingress-1] über die berufliche Alters‑, Hinterlassenen- und Invalidenvorsorge (BVG),
+gestützt auf die Artikel 56 Absätze 3 und 4, 59 Absätze 2 und 3, 59a und 97 Absatz 1 des Bundesgesetzes vom 25. Juni 1982[^ingress-1] über die berufliche Alters‑, Hinterlassenen- und Invalidenvorsorge (BVG),[^ingress-2]
 
 verordnet:
 
 [^ingress-1]: [SR 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^ingress-2]: Fassung gemäss Anhang Ziff. 4 der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 ## 1. Kapitel: Organisation
 
@@ -168,13 +169,12 @@ Durch Beiträge der registrierten Vorsorgeeinrichtungen finanziert werden:
 - b. die Entschädigungen an die Auffangeinrichtung für die Kontrolle des Wiederanschlusses an eine Vorsorgeeinrichtung (Art. 56 Abs. 1 Bst. d BVG);
 - c. die Entschädigungen an die AHV-Ausgleichskassen (Art. 56 Abs. 1 Bst. h BVG).[^14-1]
 
-<sup>1bis</sup> Die anderen Leistungen (Art. 56 Abs. 1 Bst. b, c, e, f und g BVG) werden durch Beiträge aller Vorsorgeeinrichtungen, die dem FZG[^14-2] unterstellt sind, finanziert.[^14-3]
+<sup>1bis</sup> Die anderen Leistungen (Art. 56 Abs. 1 Bst. b, c, d, e, f, g und i BVG) werden durch Beiträge aller Vorsorgeeinrichtungen, die dem FZG unterstellt sind, finanziert.[^14-2]
 
 <sup>2</sup> Die Berechnungsgrundlagen für die Beiträge sind für das Kalenderjahr zu ermitteln, für welches die Beiträge geschuldet werden.
 
 [^14-1]: Fassung gemäss Anhang Ziff. 1 der V vom 10. und 22. Juni 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
-[^14-2]: [SR 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
-[^14-3]: Eingefügt durch Anhang Ziff. 1 der V vom 10. und 22. Juni 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
+[^14-2]: Eingefügt durch Anhang Ziff. 1 der V vom 10. und 22. Juni 2011 ([AS 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)). Fassung gemäss Anhang Ziff. 4 der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 #### Art. 15
 

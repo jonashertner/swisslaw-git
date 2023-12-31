@@ -4,11 +4,11 @@ title: Ordinanza del 22 giugno 1998 sul «Fondo di garanzia LPP» (OFG)
 short: OFG
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/1662_1662_1662"
 language: it
-version: 2012-01-01
+version: 2024-01-01
 adopted: 1998-06-22
 in_force: 1998-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/1662_1662_1662/20120101/it/xml/fedlex-data-admin-ch-eli-cc-1998-1662_1662_1662-20120101-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/1662_1662_1662/20120101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/1662_1662_1662/20240101/it/xml/fedlex-data-admin-ch-eli-cc-1998-1662_1662_1662-20240101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/1662_1662_1662/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,15 +17,16 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/1662_1662_1662/20120101/it"
 
 (OFG)
 
-del 22 giugno 1998 (Stato 1° gennaio 2012)
+del 22 giugno 1998 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
-visti gli articoli 56 capoversi 3 e 4, 59 capoverso 2 e 97 capoverso 1 della legge federale del 25 giugno 1982[^ingress-1] sulla previdenza professionale per la vecchiaia, i superstiti e l’invalidità (LPP),
+visti gli articoli 56 capoversi 3 e 4, 59 capoversi 2 e 3, 59*a* e 97 capoverso 1 della legge federale del 25 giugno 1982[^ingress-1] sulla previdenza professionale per la vecchiaia, i superstiti e l’invalidità (LPP),[^ingress-2]
 
 ordina:
 
 [^ingress-1]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^ingress-2]: Nuovo testo giusta l’all. n. 4 dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 ## Capitolo 1: Organizzazione
 
@@ -51,7 +52,7 @@ ordina:
 
 La fondazione è sottoposta alla vigilanza della Commissione di alta vigilanza.
 
-[^3-1]: Nuovo testo giusta il n. 1 dell’all. all’O del 10 e 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
+[^3-1]: Nuovo testo giusta l’all. n. 1 dell’O del 10 e 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
 
 #### Art. 4
 
@@ -77,7 +78,7 @@ Il Consiglio di fondazione è l’organo superiore della fondazione. Si compone 
 
 <sup>3</sup> L’organo di direzione comunica la propria organizzazione alle autorità di vigilanza, all’istituto collettore e agli istituti di previdenza sottoposti alla legge del 17 dicembre 1993[^6-2] sul libero passaggio (LFLP) come pure la procedura da seguire per riscuotere i contributi e per far valere le domande di prestazioni.
 
-[^6-1]: Nuovo testo giusta il n. 1 dell’all. all’O del 10 e 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
+[^6-1]: Nuovo testo giusta l’all. n. 1 dell’O del 10 e 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
 [^6-2]: [RS 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
 
 #### Art. 7
@@ -88,7 +89,7 @@ Il Consiglio di fondazione è l’organo superiore della fondazione. Si compone 
 
 <sup>2</sup> Qualora il fondo di garanzia si assuma rischi attuariali, il perito in materia di previdenza professionale verifica periodicamente se il fondo di garanzia offre garanzia di poter adempiere i propri impegni.
 
-[^7-1]: Nuovo testo giusta il n. 1 dell’all. all’O del 10 e 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
+[^7-1]: Nuovo testo giusta l’all. n. 1 dell’O del 10 e 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
 
 #### Art. 8
 
@@ -96,7 +97,7 @@ Il Consiglio di fondazione è l’organo superiore della fondazione. Si compone 
 
 Il Consiglio di fondazione trasmette il rapporto dell’ufficio di revisione alla Commissione di alta vigilanza e al perito in materia di previdenza professionale.
 
-[^8-1]: Nuovo testo giusta il n. 1 dell’all. all’O del 10 e 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
+[^8-1]: Nuovo testo giusta l’all. n. 1 dell’O del 10 e 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
 
 #### Art. 9
 
@@ -109,7 +110,7 @@ Il Consiglio di fondazione trasmette il rapporto dell’ufficio di revisione all
 <sup>3</sup> Le autorità di vigilanza e la Commissione di alta vigilanza hanno accesso all’elenco.[^9-2]
 
 [^9-1]: [RS 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
-[^9-2]: Nuovo testo giusta il n. 1 dell’all. all’O del 10 e 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
+[^9-2]: Nuovo testo giusta l’all. n. 1 dell’O del 10 e 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
 
 #### Art. 10
 
@@ -143,7 +144,7 @@ Il fondo di garanzia è finanziato mediante i contributi annui degli istituti di
 
 <sup>2</sup> Se questi averi non sono sufficienti, il finanziamento avviene secondo l’articolo 12.
 
-[^12a-1]: Introdotto dal n. 2 dell’all. all’O del 18 ago. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644), [4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
+[^12a-1]: Introdotto dall’all. n. 2 dell’O del 18 ago. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644), [4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
 [^12a-2]: [RS 831.425](https://fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399)
 
 #### Art. 13
@@ -166,13 +167,12 @@ Sono finanziati mediante contributi degli istituti di previdenza registrati:
 - b. gli indennizzi all’istituto collettore per il controllo della riaffiliazione a un istituto di previdenza (art. 56 cpv. 1 lett. d LPP);
 - c. gli indennizzi alle casse di compensazione AVS (art. 56 cpv. 1 lett. h LPP).[^14-1]
 
-<sup>1bis</sup> Le altre prestazioni (art. 56 cpv. 1 lett. b, c, e, f e g LPP) sono finanziate mediante contributi di tutti gli istituti di previdenza assoggettati alla LFLP[^14-2].[^14-3]
+<sup>1bis</sup> Le altre prestazioni (art. 56 cpv. 1 lett. b, c, d, e, f, g e i LPP) sono finanziate mediante contributi di tutti gli istituti di previdenza assoggettati alla LFLP.[^14-2]
 
 <sup>2</sup> Le basi di calcolo dei contributi sono fissati per l’anno civile per il quale i contributi sono dovuti.
 
-[^14-1]: Nuovo testo giusta il n. 1 dell’all. all’O del 10 e 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
-[^14-2]: [RS 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
-[^14-3]: Introdotto dal n. 1 dell’all. all’O del 10 e 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
+[^14-1]: Nuovo testo giusta l’all. n. 1 dell’O del 10 e 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
+[^14-2]: Introdotto dall’all. n. 1 dell’O del 10 e 22 giu. 2011 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)). Nuovo testo giusta l’all. n. 4 dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 #### Art. 15
 
@@ -182,8 +182,8 @@ Sono finanziati mediante contributi degli istituti di previdenza registrati:
 
 <sup>2</sup> In caso d’entrata o d’uscita durante l’anno civile, il salario coordinato di un assicurato è calcolato *pro rata temporis*.
 
-[^15-1]: Nuovo testo giusta il n. 1 dell’all. all’O del 10 e 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
-[^15-2]: Nuovo testo giusta il n. 1 dell’all. all’O del 10 e 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
+[^15-1]: Nuovo testo giusta l’all. n. 1 dell’O del 10 e 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
+[^15-2]: Nuovo testo giusta l’all. n. 1 dell’O del 10 e 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
 
 #### Art. 16
 
@@ -231,8 +231,8 @@ Per la determinazione delle aliquote di contribuzione, l’organo di direzione d
 - c. l’entità del tasso d’interesse tecnico.[^17-3]
 
 [^17-1]: [RS 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
-[^17-2]: Nuovo testo giusta il n. 1 dell’all. all’O del 10 e 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
-[^17-3]: Introdotto dal n. 1 dell’all. all’O del 10 e 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
+[^17-2]: Nuovo testo giusta l’all. n. 1 dell’O del 10 e 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
+[^17-3]: Introdotto dall’all. n. 1 dell’O del 10 e 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
 
 #### Art. 18
 
@@ -242,7 +242,7 @@ Per la determinazione delle aliquote di contribuzione, l’organo di direzione d
 
 <sup>2</sup> Esso comunica, entro il 31 ottobre, le aliquote di contribuzione per l’anno civile seguente agli istituti di previdenza.
 
-[^18-1]: Nuovo testo giusta il n. 1 dell’all. all’O del 10 e 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
+[^18-1]: Nuovo testo giusta l’all. n. 1 dell’O del 10 e 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
 
 #### Art. 19
 
@@ -274,7 +274,7 @@ Per la determinazione delle aliquote di contribuzione, l’organo di direzione d
 
 <sup>2</sup> L’organo di direzione del fondo di garanzia compensa le sovvenzioni con i contributi e versa l’eventuale saldo attivo.
 
-[^21-1]: Nuovo testo giusta il n. 1 dell’all. all’O del 10 e 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
+[^21-1]: Nuovo testo giusta l’all. n. 1 dell’O del 10 e 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
 
 #### Art. 22
 
@@ -298,7 +298,7 @@ Per la determinazione delle aliquote di contribuzione, l’organo di direzione d
 
 <sup>5</sup> L’organo di direzione del fondo di garanzia assegna le sovvenzioni direttamente agli istituti di previdenza interessati.
 
-[^23-1]: Nuovo testo giusta il n. 1 dell’all. all’O del 10 e 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
+[^23-1]: Nuovo testo giusta l’all. n. 1 dell’O del 10 e 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
 
 ### Sezione 3: Garanzia per insolvenza di un istituto di previdenza
 
@@ -325,7 +325,7 @@ Il risanamento non è più possibile quando:
 
 <sup>3</sup> L’autorità di vigilanza informa l’organo di direzione del fondo di garanzia se contro un istituto di previdenza è stata aperta una procedura di liquidazione o di fallimento o una procedura analoga.
 
-[^25-1]: Nuovo testo giusta il n. 1 dell’all. all’O del 10 e 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
+[^25-1]: Nuovo testo giusta l’all. n. 1 dell’O del 10 e 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
 
 #### Art. 26
 

@@ -4,11 +4,11 @@ title: Ordonnance du 22 juin 1998 sur le «fonds de garantie LPP» (OFG)
 short: OFG
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/1662_1662_1662"
 language: fr
-version: 2012-01-01
+version: 2024-01-01
 adopted: 1998-06-22
 in_force: 1998-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/1662_1662_1662/20120101/fr/xml/fedlex-data-admin-ch-eli-cc-1998-1662_1662_1662-20120101-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/1662_1662_1662/20120101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/1662_1662_1662/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-1998-1662_1662_1662-20240101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/1662_1662_1662/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,15 +17,16 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/1662_1662_1662/20120101/fr"
 
 (OFG)
 
-du 22 juin 1998 (État le 1<sup>er</sup> janvier 2012)
+du 22 juin 1998 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
-vu les art. 56, al. 3 et 4, 59, al. 2, et 97, al. 1, de la loi fédérale du 25 juin 1982 sur la prévoyance professionnelle vieillesse, survivants et invalidité (LPP)[^ingress-1],
+vu les art. 56, al. 3 et 4, 59, al. 2 et 3, 59*a* et 97, al. 1, de la loi fédérale du 25 juin 1982 sur la prévoyance professionnelle vieillesse, survivants et invalidité (LPP)[^ingress-1],[^ingress-2]
 
 arrête:
 
 [^ingress-1]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^ingress-2]: Nouvelle teneur selon l’annexe ch. 4 de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 ## Chapitre 1 Organisation
 
@@ -51,7 +52,7 @@ arrête:
 
 La fondation est soumise à la surveillance de la Commission de haute surveillance.[^3-1]
 
-[^3-1]: Nouvelle teneur selon le ch. 1 de l’annexe à l’O des 10 et 22 juin 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
+[^3-1]: Nouvelle teneur selon l’annexe ch. 1 de l’O des 10 et 22 juin 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
 
 #### Art. 4
 
@@ -77,7 +78,7 @@ Le conseil de fondation est l’organe supérieur de la fondation. Il se compose
 
 <sup>3</sup> La direction communique son organisation aux autorités de surveillance, à l’institution supplétive et aux institutions de prévoyance soumises à la loi du 17 décembre 1993 sur le libre passage (LFLP)[^6-2] ainsi que la procédure à suivre pour percevoir les cotisations et prétendre des prestations.
 
-[^6-1]: Nouvelle teneur selon le ch. 1 de l’annexe à l’O des 10 et 22 juin 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
+[^6-1]: Nouvelle teneur selon l’annexe ch. 1 de l’O des 10 et 22 juin 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
 [^6-2]: [RS 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
 
 #### Art. 7
@@ -88,7 +89,7 @@ Le conseil de fondation est l’organe supérieur de la fondation. Il se compose
 
 <sup>2</sup> Lorsque le fonds de garantie assume lui-même des risques de nature actuarielle, l’expert en matière de prévoyance professionnelle examine périodiquement si le fonds offre la garantie de remplir ses engagements.
 
-[^7-1]: Nouvelle teneur selon le ch. 1 de l’annexe à l’O des 10 et 22 juin 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
+[^7-1]: Nouvelle teneur selon l’annexe ch. 1 de l’O des 10 et 22 juin 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
 
 #### Art. 8
 
@@ -96,7 +97,7 @@ Le conseil de fondation est l’organe supérieur de la fondation. Il se compose
 
 Le conseil de fondation remet le rapport de l’organe de révision à la Commission de haute surveillance et à l’expert en matière de prévoyance professionnelle.
 
-[^8-1]: Nouvelle teneur selon le ch. 1 de l’annexe à l’O des 10 et 22 juin 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
+[^8-1]: Nouvelle teneur selon l’annexe ch. 1 de l’O des 10 et 22 juin 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
 
 #### Art. 9
 
@@ -109,7 +110,7 @@ Le conseil de fondation remet le rapport de l’organe de révision à la Commis
 <sup>3</sup> Les autorités de surveillance et la Commission de haute surveillance ont accès à cette liste.[^9-2]
 
 [^9-1]: [RS 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
-[^9-2]: Nouvelle teneur selon le ch. 1 de l’annexe à l’O des 10 et 22 juin 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
+[^9-2]: Nouvelle teneur selon l’annexe ch. 1 de l’O des 10 et 22 juin 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
 
 #### Art. 10
 
@@ -145,7 +146,7 @@ Le fonds de garantie est financé par les cotisations annuelles des institutions
 
 <sup>2</sup> Si ces avoirs ne suffisent pas, le financement s’effectue selon l’art. 12.
 
-[^12a-1]: Introduit par le ch. 2 de l’annexe à l’O du 18 août 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644), [4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
+[^12a-1]: Introduit par l’annexe ch. 2 de l’O du 18 août 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644), [4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
 [^12a-2]: [RS 831.425](https://fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399)
 
 #### Art. 13
@@ -168,13 +169,12 @@ Sont financés par les cotisations des institutions de prévoyance enregistrées
 - b. les indemnités versées à l’institution supplétive pour le contrôle de la réaffiliation à une institution de prévoyance (art. 56, al. 1, let. d, LPP);
 - c. les indemnités versées aux caisses de compensation AVS (art. 56, al. 1, let. h, LPP).
 
-<sup>1bis</sup> Les autres prestations (art. 56, al. 1, let. b, c, e, f et g, LPP) sont financées par les cotisations de l’ensemble des institutions de prévoyance soumises à la LFLP[^14-2].[^14-3]
+<sup>1bis</sup> Les autres prestations (art. 56, al. 1, let. b, c, d, e, f, g et i, LPP) sont financées par les cotisations de l’ensemble des institutions de prévoyance soumises à la LFLP.[^14-2]
 
 <sup>2</sup> Les bases de calcul des cotisations sont fixées pour l’année civile pour laquelle celles-ci sont effectivement dues.
 
-[^14-1]: Nouvelle teneur selon le ch. 1 de l’annexe à l’O des 10 et 22 juin 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
-[^14-2]: [RS 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
-[^14-3]: Introduit par le ch. 1 de l’annexe à l’O des 10 et 22 juin 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
+[^14-1]: Nouvelle teneur selon l’annexe ch. 1 de l’O des 10 et 22 juin 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
+[^14-2]: Introduit par l’annexe ch. 1 de l’O des 10 et 22 juin 2011 ([RO 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)). Nouvelle teneur selon l’annexe ch. 4 de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 #### Art. 15
 
@@ -184,8 +184,8 @@ Sont financés par les cotisations des institutions de prévoyance enregistrées
 
 <sup>2</sup> En cas d’entrée ou de sortie en cours d’année civile, le salaire coordonné d’un assuré est calculé au prorata.
 
-[^15-1]: Nouvelle teneur selon le ch. 1 de l’annexe à l’O des 10 et 22 juin 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
-[^15-2]: Nouvelle teneur selon le ch. 1 de l’annexe à l’O des 10 et 22 juin 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
+[^15-1]: Nouvelle teneur selon l’annexe ch. 1 de l’O des 10 et 22 juin 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
+[^15-2]: Nouvelle teneur selon l’annexe ch. 1 de l’O des 10 et 22 juin 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
 
 #### Art. 16
 
@@ -233,8 +233,8 @@ L’organe de direction du fonds de garantie peut demander aux institutions de p
 - c. le taux d’intérêt technique.[^17-3]
 
 [^17-1]: [RS 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
-[^17-2]: Nouvelle teneur selon le ch. 1 de l’annexe à l’O des 10 et 22 juin 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
-[^17-3]: Introduit par le ch. 1 de l’annexe à l’O des 10 et 22 juin 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
+[^17-2]: Nouvelle teneur selon l’annexe ch. 1 de l’O des 10 et 22 juin 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
+[^17-3]: Introduit par l’annexe ch. 1 de l’O des 10 et 22 juin 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
 
 #### Art. 18
 
@@ -244,11 +244,11 @@ L’organe de direction du fonds de garantie peut demander aux institutions de p
 
 <sup>2</sup> Le conseil de fondation communique jusqu’au 31 octobre aux institutions de prévoyance les taux applicables pour l’année civile suivante.
 
-[^18-1]: Nouvelle teneur selon le ch. 1 de l’annexe à l’O des 10 et 22 juin 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
+[^18-1]: Nouvelle teneur selon l’annexe ch. 1 de l’O des 10 et 22 juin 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
 
 #### Art. 19
 
-**Echéance des cotisations**
+**Échéance des cotisations**
 
 <sup>1</sup> Les cotisations de l’année civile arrivent à échéance le 30 juin de l’année suivante. Elles sont débitées à cette date ou payables jusqu’à cette échéance.
 
@@ -276,7 +276,7 @@ L’organe de direction du fonds de garantie peut demander aux institutions de p
 
 <sup>2</sup> La direction du fonds de garantie décompte les subsides avec les cotisations et rétrocède les éventuels soldes créditeurs.
 
-[^21-1]: Nouvelle teneur selon le ch. 1 de l’annexe à l’O des 10 et 22 juin 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
+[^21-1]: Nouvelle teneur selon l’annexe ch. 1 de l’O des 10 et 22 juin 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
 
 #### Art. 22
 
@@ -300,7 +300,7 @@ L’organe de direction du fonds de garantie peut demander aux institutions de p
 
 <sup>5</sup> La direction du fonds de garantie verse les subsides directement aux institutions de prévoyance concernées.
 
-[^23-1]: Nouvelle teneur selon le ch. 1 de l’annexe à l’O des 10 et 22 juin 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
+[^23-1]: Nouvelle teneur selon l’annexe ch. 1 de l’O des 10 et 22 juin 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
 
 ### Section 3 Garantie au titre d’insolvabilité d’une institution de prévoyance
 
@@ -327,7 +327,7 @@ Un assainissement est réputé impossible lorsque:
 
 <sup>3</sup> Si une procédure de liquidation, une procédure de faillite ou une procédure analogue a été ouverte contre une institution de prévoyance, l’autorité de surveillance en informe la direction du fonds de garantie.
 
-[^25-1]: Nouvelle teneur selon le ch. 1 de l’annexe à l’O des 10 et 22 juin 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
+[^25-1]: Nouvelle teneur selon l’annexe ch. 1 de l’O des 10 et 22 juin 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
 
 #### Art. 26
 
@@ -342,7 +342,7 @@ Un assainissement est réputé impossible lorsque:
 <sup>4</sup> Le fonds de garantie peut reprendre à son compte les cas de prestations gérés par des institutions de prévoyance insolvables. Le conseil de fondation peut édicter un règlement à cette fin; celui-ci doit être soumis à la Commission de haute surveillance pour approbation.[^26-2]
 
 [^26-1]: [RS 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
-[^26-2]: Introduit par le ch. 1 de l’annexe à l’O des 10 et 22 juin 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
+[^26-2]: Introduit par l’annexe ch. 1 de l’O des 10 et 22 juin 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
 
 #### Art. 26a
 
