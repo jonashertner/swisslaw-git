@@ -4,13 +4,12 @@ number: "114.1.1"
 title: Loi sur le droit de cité fribourgeois
 short: LDCF
 language: fr
-version: 2018-01-01
-valid_until: 2023-12-31
-version_adopted: 2017-12-14
+version: 2024-01-01
+version_adopted: 2023-10-10
 adopted: 2017-12-14
 in_force: 2018-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/114.1.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/4967/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8104/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Droit de cité fribourgeois - L
 
 (LDCF)
 
-du 14.12.2017 (version entrée en vigueur le 01.01.2018)
+du 14.12.2017 (version entrée en vigueur le 01.01.2024)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -82,9 +81,9 @@ Décrète:
 
 <sup>1</sup> L'enfant obtient les droits de cité communal et cantonal conformément au droit fédéral.
 
-<sup>2</sup> Les décisions de changement du droit de cité liées à un changement de nom de famille sont rendues conformément au code de procédure et de juridiction administrative. Le service chargé des affaires institutionnelles, des naturalisations et de l'état civil [^5-1] (ci-après: le Service) est compétent pour statuer.
+<sup>2</sup> Les décisions de changement du droit de cité liées à un changement de nom de famille sont rendues conformément au code de procédure et de juridiction administrative. Le service chargé des naturalisations et de l'état civil [^5-1] (ci-après: le Service) est compétent pour statuer.
 
-[^5-1]: Actuellement: Service des affaires institutionnelles, des naturalisations et de l'état civil.
+[^5-1]: Actuellement: Service de l'état civil et des naturalisations.
 
 #### Art. 6
 
@@ -248,7 +247,7 @@ Décrète:
 
 **Procédure ordinaire – Publication du décret**
 
-<sup>1</sup> Le décret de naturalisation du Grand Conseil est publié dans la Feuille officielle. Il ne fait pas l'objet d'une publication électronique.
+<sup>1</sup> Le décret de naturalisation du Grand Conseil est publié dans la Feuille officielle sous une forme simplifiée, sans la liste des personnes concernées.
 
 <sup>2</sup> La réglementation relative à la publication des actes officiels est pour le surplus applicable.
 
@@ -258,7 +257,7 @@ Décrète:
 
 <sup>1</sup> Pour les personnes étrangères de la deuxième génération, la procédure ordinaire est applicable. La Commission des naturalisations du Grand Conseil peut toutefois renoncer à les entendre.
 
-<sup>2</sup> La décision de naturalisation est publiée dans la Feuille officielle; elle ne fait pas l'objet d'une publication électronique; la réglementation relative à la publication des actes officiels est pour le surplus applicable.
+<sup>2</sup> …
 
 #### Art. 23
 
@@ -269,8 +268,8 @@ Décrète:
 - a) la délivrance de l'autorisation fédérale de naturalisation n'est pas requise;
 - b) la personne requérante n'est pas auditionnée par la Commission des naturalisations du Grand Conseil;
 - c) en principe, il n'y a pas de rapport d'enquête;
-- d) la naturalisation est décidée par le Conseil d'Etat;
-- e) la décision de naturalisation est publiée dans la Feuille officielle; elle ne fait pas l'objet d'une publication électronique; la réglementation relative à la publication des actes officiels est pour le surplus applicable.
+- d) la naturalisation est décidée par le Conseil d'Etat.
+- e) …
 
 #### Art. 24
 

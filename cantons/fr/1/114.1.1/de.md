@@ -4,13 +4,12 @@ number: "114.1.1"
 title: Gesetz über das freiburgische Bürgerrecht
 short: BRG
 language: de
-version: 2018-01-01
-valid_until: 2023-12-31
-version_adopted: 2017-12-14
+version: 2024-01-01
+version_adopted: 2023-10-10
 adopted: 2017-12-14
 in_force: 2018-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/114.1.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/4967/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8104/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Freiburgisches Bürgerrecht - G
 
 (BRG)
 
-vom 14.12.2017 (Fassung in Kraft getreten am 01.01.2018)
+vom 14.12.2017 (Fassung in Kraft getreten am 01.01.2024)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -248,7 +247,7 @@ beschliesst:
 
 **Ordentliches Verfahren – Veröffentlichung des Dekrets**
 
-<sup>1</sup> Das Einbürgerungsdekret des Grossen Rates wird im Amtsblatt veröffentlicht. Es wird nicht elektronisch veröffentlicht.
+<sup>1</sup> Das Einbürgerungsdekret des Grossen Rates wird in vereinfachter Form und ohne die Liste der betroffenen Personen im Amtsblatt veröffentlicht.
 
 <sup>2</sup> Im Übrigen gelten die Regeln über die Veröffentlichung der Erlasse.
 
@@ -258,7 +257,7 @@ beschliesst:
 
 <sup>1</sup> Bei ausländischen Personen der zweiten Generation kommt das ordentliche Verfahren zur Anwendung. Die Einbürgerungskommission des Grossen Rates kann jedoch darauf verzichten, sie anzuhören.
 
-<sup>2</sup> Der Einbürgerungsentscheid wird im Amtsblatt veröffentlicht; er wird nicht elektronisch veröffentlicht; im Übrigen gelten die Regeln über die Veröffentlichung der Erlasse.
+<sup>2</sup> …
 
 #### Art. 23
 
@@ -270,7 +269,7 @@ beschliesst:
 - b) Die Bewerberin oder der Bewerber wird nicht von der Einbürgerungskommission des Grossen Rates angehört.
 - c) Es gibt grundsätzlich keinen Erhebungsbericht.
 - d) Der Staatsrat entscheidet über die Einbürgerung.
-- e) Der Einbürgerungsentscheid wird im Amtsblatt veröffentlicht; er wird nicht elektronisch veröffentlicht; im Übrigen gelten die Regeln über die Veröffentlichung der Erlasse.
+- e) …
 
 #### Art. 24
 
