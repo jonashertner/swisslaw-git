@@ -4,11 +4,11 @@ title: "Loi fédérale du 18 décembre 2020 sur la sécurité de l’information
 short: LSI
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/232"
 language: fr
-version: 2022-05-01
+version: 2024-01-01
 adopted: 2020-12-18
 in_force: 2022-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/232/20220501/fr/xml/fedlex-data-admin-ch-eli-cc-2022-232-20220501-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/232/20220501/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/232/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2022-232-20240101-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/232/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/232/20220501/fr"
 
 (Loi sur la sécurité de l’information, LSI)
 
-du 18 décembre 2020 (Etat le 1<sup>er</sup> mai 2022)
+du 18 décembre 2020 (État le 1<sup>er</sup> janvier 2024)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -28,35 +28,1262 @@ arrête:
 [^ingress-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes. RS **101**
 [^ingress-2]: [FF 2017 2765](https://fedlex.data.admin.ch/eli/fga/2017/647)
 
-## Chapitre 1 …
+## Chapitre 1 Dispositions générales
 
-#### Art. 1 à 5
+#### Art. 1
 
-## Chapitre 2 …
+**But**
 
-#### Art. 6 à 26
+<sup>1</sup> La présente loi vise à garantir la sécurité du traitement des informations relevant de la compétence de la Confédération et la sécurité de ses moyens informatiques.
 
-## Chapitre 3 …
+<sup>2</sup>
 
-#### Art. 27 à 48
+Elle vise ainsi à protéger les intérêts publics suivants:
 
-## Chapitre 4 …
+- a. la capacité de décision et d’action des autorités et organisations de la Confédération;
+- b. la sécurité intérieure et extérieure de la Suisse;
+- c. les intérêts de la politique extérieure de la Suisse;
+- d. les intérêts économiques, financiers et monétaires de la Suisse;
+- e. l’accomplissement des obligations légales et contractuelles des autorités et organisations de la Confédération en matière de protection des informations.
 
-#### Art. 49 à 73
+#### Art. 2
 
-## Chapitre 5 …
+**Autorités et organisations concernées**
 
-#### Art. 74 à 80
+<sup>1</sup>
+
+La présente loi s’applique aux autorités suivantes:
+
+- a. l’Assemblée fédérale;
+- b. le Conseil fédéral;
+- c. les tribunaux de la Confédération;
+- d. le Ministère public de la Confédération et son autorité de surveillance;
+- e. la Banque nationale suisse.
+
+<sup>2</sup>
+
+Elle s’applique également aux organisations suivantes:
+
+- a. les Services du Parlement;
+- b. l’administration fédérale;
+- c. les services administratifs des tribunaux de la Confédération;
+- d. l’armée;
+- e. les organisations visées à l’art. 2, al. 4, de la loi du 21 mars 1997 sur l’organisation du gouvernement et de l’administration (LOGA)[^2-1], pour leurs tâches administratives.
+
+<sup>3</sup>
+
+Le Conseil fédéral peut restreindre le champ d’application de la présente loi pour les organisations au sens de l’art. 2, al. 3 et 4, LOGA à celles qui:
+
+- a. exercent des activités sensibles, ou
+- b. recourent ou accèdent à des moyens informatiques de la Confédération dans l’accomplissement de leurs tâches.
+
+<sup>4</sup> Il peut limiter à certaines dispositions de la présente loi le champ d’application au sens de l’al. 3. Il tient compte à cet égard de l’autonomie d’exécution des organisations concernées selon les actes organisationnels qui les régissent.
+
+<sup>5</sup> Les organisations de droit public ou privé qui exploitent des infrastructures critiques sans être visées par les al. 1 à 3 sont soumises aux art. 74 à 80. La législation spéciale peut prévoir que d’autres dispositions de la présente loi leur sont applicables.
+
+[^2-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+
+#### Art. 3
+
+**Application de la loi aux cantons**
+
+<sup>1</sup>
+
+Ne s’appliquent aux cantons que les dispositions relatives:
+
+- a. aux informations classifiées, lorsque les cantons traitent des informations classifiées de la Confédération, et
+- b. à la sécurité des moyens informatiques, lorsque les cantons accèdent à des moyens informatiques de la Confédération.
+
+<sup>2</sup> Ces dispositions ne s’appliquent pas lorsque les cantons garantissent une sécurité au moins équivalente de l’information.
+
+#### Art. 4
+
+**Rapport avec d’autres lois fédérales**
+
+<sup>1</sup> La loi du 17 décembre 2004 sur la transparence[^4-1] prime la présente loi.
+
+<sup>2</sup> Lorsque la protection d’informations est également réglée dans d’autres lois fédérales, les dispositions de la présente loi s’appliquent à titre complémentaire.
+
+[^4-1]: [RS 152.3](https://fedlex.data.admin.ch/eli/cc/2006/355)
+
+#### Art. 5
+
+**Définitions**
+
+On entend par:
+
+- a. *moyen informatique:* moyen relevant des techniques de l’information et de la communication, notamment les applications, les systèmes d’information et les fichiers, ainsi que les installations, les produits et les services servant au traitement électronique des informations;
+- b.
+
+  *activité sensible:*
+
+  - 1\. le traitement d’informations classifiées «confidentiel» ou «secret»,
+  - 2\. l’administration, l’exploitation, la maintenance et le contrôle de moyens informatiques relevant des catégories de sécurité «protection élevée» ou «protection très élevée»,
+  - 3\. l’accès à des zones de sécurité, en particulier aux zones de protection 2 ou 3 d’un ouvrage au sens de la législation sur la protection des ouvrages militaires;
+
+- c. *infrastructure critique:* l’approvisionnement en eau potable et en énergie, les infrastructures d’information, de communication et de transports ainsi que d’autres installations, processus et systèmes essentiels au fonctionnement de l’économie et au bien-être de la population.
+
+## Chapitre 2 Mesures générales
+
+### Section 1 Principes
+
+#### Art. 6
+
+**Sécurité de l’information**
+
+<sup>1</sup> Les autorités et organisations soumises à la présente loi veillent à ce que le besoin de protection des informations relevant de leur compétence soit évalué en fonction de l’atteinte potentielle aux intérêts définis à l’art. 1, al. 2.
+
+<sup>2</sup>
+
+Elles veillent à ce que les informations, en fonction de leur besoin de protection:
+
+- a. ne soient accessibles qu’aux personnes autorisées (confidentialité);
+- b. soient disponibles en cas de besoin (disponibilité);
+- c. ne puissent être modifiées sans droit ou par mégarde (intégrité);
+- d. soient traitées de manière à être traçables (traçabilité).
+
+<sup>3</sup> Elles veillent à ce que les moyens informatiques auxquels elles recourent pour accomplir leurs tâches légales soient protégés contre les utilisations abusives et les perturbations.
+
+<sup>4</sup> Elles tiennent compte à cet égard des principes de la proportionnalité, de l’économicité et de la simplicité d’emploi.
+
+#### Art. 7
+
+**Responsabilité des autorités soumises à la présente loi**
+
+<sup>1</sup> Les autorités soumises à la présente loi veillent, chacune dans son domaine de compétence, à ce que la sécurité de l’information soit organisée, mise en œuvre et contrôlée conformément à l’état des connaissances scientifiques et techniques.
+
+<sup>2</sup>
+
+Elles fixent:
+
+- a. leurs objectifs en matière de sécurité de l’information;
+- b. les principes de gestion des risques;
+- c. les conséquences d’une violation des prescriptions.
+
+#### Art. 8
+
+**Gestion des risques**
+
+<sup>1</sup> Les autorités et organisations soumises à la présente loi veillent, chacune dans son domaine de compétence, à ce que les risques en matière de sécurité de l’information soient constamment évalués.
+
+<sup>2</sup> Elles prennent les mesures nécessaires pour éliminer les risques ou les ramener à un niveau acceptable.
+
+<sup>3</sup> Les risques jugés acceptables doivent être formellement acceptés.
+
+#### Art. 9
+
+**Collaboration avec les tiers**
+
+<sup>1</sup> Lorsque les autorités et organisations soumises à la présente loi collaborent avec des tiers, elles veillent à ce que les exigences et mesures prévues par la présente loi soient reprises dans les accords et les contrats qu’elles concluent à cet effet.
+
+<sup>2</sup> Elles veillent à ce que la mise en œuvre des mesures soit contrôlée de manière adéquate.
+
+#### Art. 10
+
+**Procédure en cas de violation de la sécurité de l’information**
+
+<sup>1</sup> Les autorités et organisations soumises à la présente loi veillent à ce que les violations de la sécurité de l’information soient décelées rapidement, leurs causes clarifiées et leurs conséquences limitées au maximum.
+
+<sup>2</sup> Les autorités soumises à la présente loi veillent à établir des plans d’action dans l’éventualité de graves violations de la sécurité de l’information susceptibles de menacer l’accomplissement de tâches indispensables de la Confédération; elles organisent des exercices à cet effet.
+
+### Section 2 Classification des informations
+
+#### Art. 11
+
+**Principes régissant la classification**
+
+<sup>1</sup> Les autorités et organisations soumises à la présente loi veillent à ce que les informations qui remplissent les critères définis à l’art. 13 soient classifiées.
+
+<sup>2</sup> La classification doit se limiter au strict nécessaire et être si possible temporaire.
+
+#### Art. 12
+
+**Compétences**
+
+<sup>1</sup> Les autorités soumises à la présente loi désignent les personnes et services compétents pour classifier les informations (auteurs de la classification).
+
+<sup>2</sup> Seuls l’auteur de la classification ou le service auquel il est subordonné peuvent modifier ou supprimer une classification.
+
+<sup>3</sup> Le Conseil fédéral règle la déclassification des archives.
+
+#### Art. 13
+
+**Échelons de classification**
+
+<sup>1</sup> Les informations susceptibles de nuire aux intérêts définis à l’art. 1, al. 2, let. a à d, si elles sont portées à la connaissance d’une personne non autorisée sont classifiées «interne».
+
+<sup>2</sup> Les informations susceptibles de nuire considérablement aux intérêts définis à l’art. 1, al. 2, let. a à d, si elles sont portées à la connaissance d’une personne non autorisée sont classifiées «confidentiel».
+
+<sup>3</sup> Les informations susceptibles de nuire gravement aux intérêts définis à l’art. 1, al. 2, let. a à d, si elles sont portées à la connaissance d’une personne non autorisée sont classifiées «secret».
+
+#### Art. 14
+
+**Accès aux informations classifiées**
+
+<sup>1</sup>
+
+Seules peuvent accéder aux informations classifiées les personnes qui offrent toutes les garanties qu’elles les traiteront correctement et qui remplissent l’une des conditions suivantes:
+
+- a. elles ont besoin des informations en question pour accomplir une tâche légale;
+- b. elles disposent d’une autorisation d’accès qui leur a été conférée contractuellement et ont besoin des informations en question pour accomplir les tâches qui leur ont été confiées.
+
+<sup>2</sup> L’accès aux archives classifiées est réglé par la législation sur l’archivage.
+
+<sup>3</sup> Les limitations d’accès prévues dans des traités internationaux au sens de l’art. 87 sont réservées.
+
+#### Art. 15
+
+**Accès à des informations classifiées dans le cadre de procédures spéciales**
+
+<sup>1</sup> L’accès à des informations classifiées relevant de l’Assemblée fédérale, des Services du Parlement, des tribunaux et des ministères publics est régi par le droit de procédure applicable.
+
+<sup>2</sup> Avant toute décision donnant accès à une information au sens de l’al. 1, l’organe parlementaire ou le tribunal compétent peut consulter l’auteur de la classification.
+
+### Section 3 Sécurité des moyens informatiques
+
+#### Art. 16
+
+**Procédure de sécurité**
+
+<sup>1</sup> Pour garantir la sécurité de l’information lors de l’utilisation de moyens informatiques, les autorités soumises à la présente loi élaborent une procédure de sécurité.
+
+<sup>2</sup>
+
+La procédure de sécurité définit en particulier:
+
+- a. les critères permettant d’évaluer le besoin de protection des informations avant la mise en service des moyens informatiques;
+- b. les modalités de mise en œuvre des mesures de sécurité et leur contrôle;
+- c. la compétence d’autoriser les moyens informatiques;
+- d. la procédure à suivre en cas de modification des risques.
+
+<sup>3</sup> L’exécution de la procédure de sécurité incombe aux autorités et organisations soumises à la présente loi qui décident de l’utilisation de moyens informatiques.
+
+#### Art. 17
+
+**Catégories de sécurité**
+
+<sup>1</sup> Les moyens informatiques relèvent de la catégorie de sécurité «protection de base», à moins qu’ils relèvent d’une catégorie de sécurité supérieure.
+
+<sup>2</sup>
+
+Ils relèvent de la catégorie de sécurité «protection élevée» dans les cas suivants:
+
+- a. une violation de la confidentialité, de la disponibilité, de l’intégrité ou de la traçabilité des informations qu’ils traitent risque de nuire considérablement aux intérêts définis à l’art. 1, al. 2;
+- b. leur utilisation abusive ou leur perturbation sont susceptibles de nuire considérablement aux intérêts définis à l’art. 1, al. 2.
+
+<sup>3</sup>
+
+Ils relèvent de la catégorie de sécurité «protection très élevée» dans les cas suivants:
+
+- a. une violation de la confidentialité, de la disponibilité, de l’intégrité ou de la traçabilité des informations qu’ils traitent risque de nuire gravement aux intérêts définis à l’art. 1, al. 2;
+- b. leur utilisation abusive ou leur perturbation sont susceptibles de nuire gravement aux intérêts définis à l’art. 1, al. 2.
+
+#### Art. 18
+
+**Mesures de sécurité**
+
+<sup>1</sup> Les autorités soumises à la présente loi fixent les exigences de sécurité minimales applicables aux catégories de sécurité définies à l’art. 17.
+
+<sup>2</sup> Tous les moyens informatiques doivent satisfaire aux exigences minimales de la catégorie de sécurité «protection de base».
+
+<sup>3</sup> L’efficacité des mesures applicables aux moyens informatiques de la catégorie de sécurité «protection très élevée» doit faire l’objet de contrôles périodiques.
+
+#### Art. 19
+
+**Sécurité de l’exploitation**
+
+<sup>1</sup> Les autorités et organisations soumises à la présente loi garantissent la sécurité des moyens informatiques qu’elles exploitent pour elles-mêmes ou sur mandat d’une autre autorité ou organisation.
+
+<sup>2</sup> Les art. 57*i* à 57*q* LOGA[^19-1] s’appliquent par analogie au traitement des données personnelles dans le cadre de la surveillance des réseaux.
+
+[^19-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+
+### Section 4 Mesures relatives aux personnes
+
+#### Art. 20
+
+**Conditions d’accès aux informations et aux moyens informatiques de la Confédération**
+
+<sup>1</sup>
+
+Les autorités et organisations soumises à la présente loi veillent à ce que les personnes qui accèdent à des informations, des moyens informatiques, des locaux et d’autres infrastructures de la Confédération:
+
+- a. soient choisies avec soin;
+- b. soient identifiées en fonction de la sensibilité de l’activité concernée;
+- c. reçoivent une formation et une formation continue adaptées à leur niveau de responsabilité;
+- d. soient le cas échéant tenues au maintien du secret.
+
+<sup>2</sup> Elles peuvent recourir à des méthodes biométriques de vérification pour identifier les personnes, si la sensibilité de l’activité concernée le requiert. Les données biométriques sont détruites à l’échéance de l’autorisation d’accès.
+
+<sup>3</sup> Elles peuvent en outre utiliser systématiquement le numéro AVS au sens de l’art. 50*c* de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants[^20-1] comme identificateur de personnes.
+
+[^20-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+
+#### Art. 21
+
+**Délivrance restrictive des autorisations**
+
+<sup>1</sup> Les autorités et organisations soumises à la présente loi veillent à ce que des autorisations d’accès à des informations, des moyens informatiques, des locaux ou d’autres infrastructures de la Confédération ne soient délivrées qu’aux personnes qui en ont besoin pour accomplir leurs tâches.
+
+<sup>2</sup> Les autorisations sont retirées à la fin de l’engagement ou du contrat ou dès que la tâche concernée a été exécutée. Elles peuvent être bloquées ou retirées sans préavis lorsque des indices concrets donnent à penser que la sécurité est menacée.
+
+### Section 5 Protection physique
+
+#### Art. 22
+
+**Principe**
+
+Les autorités et organisations soumises à la présente loi veillent à assurer une protection physique adéquate des informations et moyens informatiques dont elles sont responsables contre les utilisations abusives et les perturbations.
+
+#### Art. 23
+
+**Zones de sécurité**
+
+<sup>1</sup>
+
+Les autorités et organisations soumises à la présente loi peuvent instituer des zones de sécurité dans des locaux ou des espaces dans lesquels:
+
+- a. des informations classifiées «confidentiel» ou «secret» sont fréquemment traitées, ou
+- b. des moyens informatiques des catégories de sécurité «protection élevée» ou «protection très élevée» sont exploités.
+
+<sup>2</sup>
+
+Elles peuvent prendre les mesures suivantes:
+
+- a. interdire certains objets, en particulier les appareils de prises de vue et de son;
+- b. surveiller les secteurs sensibles avec des appareils de prises de vue et de son;
+- c. procéder à des fouilles;
+- d. procéder à des contrôles des locaux inopinés, même en l’absence des employés.
+
+<sup>3</sup> Elles peuvent exploiter, conformément à l’art. 34, al. 1<sup>ter</sup>, de la loi du 30 avril 1997 sur les télécommunications[^23-1], une installation perturbatrice dans les zones de sécurité où des informations classifiées «secret» sont fréquemment traitées ou des moyens informatiques de la catégorie de sécurité «protection très élevée» sont exploités.
+
+<sup>4</sup> Les dispositions particulières relatives aux zones de sécurité établies en vertu des traités internationaux au sens de l’art. 87 et les dispositions applicables aux zones de protection des ouvrages au sens de la législation sur la protection des ouvrages militaires sont réservées.
+
+[^23-1]: [RS 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
+
+### Section 6 Systèmes de gestion des données d’identification
+
+#### Art. 24
+
+**Exploitation de systèmes de gestion des données d’identification**
+
+<sup>1</sup> Les autorités soumises à la présente loi peuvent exploiter des systèmes permettant une gestion centralisée des données servant à identifier les personnes qui ont accès aux informations, aux moyens informatiques, aux locaux et à d’autres infrastructures (systèmes de gestion des données d’identification).
+
+<sup>2</sup> Les systèmes de gestion des données d’identification vérifient l’identité et les profils d’accès des personne, des machines et des systèmes. Ils transmettent le résultat aux systèmes d’information raccordés pour la vérification des autorisations.
+
+<sup>3</sup> Les autorités soumises à la présente loi désignent un service responsable pour chaque système de gestion des données d’identification.
+
+#### Art. 25
+
+**Échange et harmonisation des données**
+
+<sup>1</sup> Les systèmes de gestion des données d’identification permettent d’échanger des données et de les harmoniser avec les systèmes d’information raccordés, avec les répertoires de personnes et d’utilisateurs et avec d’autres systèmes de gestion des données d’identification exploités par des autorités soumises à la présente loi.
+
+<sup>2</sup> L’échange et l’harmonisation sont limités aux données dont le traitement est autorisé dans le système concerné.
+
+#### Art. 26
+
+**Dispositions d’exécution**
+
+Les autorités soumises à la présente loi édictent des dispositions d’exécution notamment dans les domaines suivants:
+
+- a. la protection et la sécurité des données;
+- b. les données personnelles traitées;
+- c. l’échange et l’harmonisation des données avec d’autres systèmes;
+- d. la journalisation et la transmission des données de journalisation aux systèmes d’information raccordés;
+- e. le contrôle périodique, réalisé par un organe externe, du traitement des données personnelles.
+
+## Chapitre 3 Contrôle de sécurité relatif aux personnes
+
+### Section 1 Dispositions générales
+
+#### Art. 27
+
+**But et objet du contrôle**
+
+<sup>1</sup> Le contrôle de sécurité relatif aux personnes vise à déterminer si l’exercice d’une activité sensible par une personne dans le cadre de sa fonction ou d’un mandat présente un risque pour la sécurité de l’information.
+
+<sup>2</sup> À cette fin, les services compétents collectent les données pertinentes pour la sécurité touchant au mode de vie de la personne concernée, notamment à ses relations personnelles étroites et familiales, à sa situation financière et à ses rapports avec l’étranger.
+
+<sup>3</sup> Les données sur l’exercice des droits constitutionnels ne peuvent être traitées que s’il existe un soupçon concret que la personne soumise au contrôle exerce ces droits pour préparer ou accomplir des actes susceptibles de nuire considérablement aux intérêts définis à l’art. 1, al. 2.
+
+#### Art. 28
+
+**Liste des fonctions**
+
+<sup>1</sup> Les autorités soumises à la présente loi édictent, chacune dans son domaine de compétence, une liste des fonctions qui impliquent l’exercice d’une activité sensible.
+
+<sup>2</sup> Elles contrôlent périodiquement l’exactitude de la liste et y apportent les corrections nécessaires.
+
+#### Art. 29
+
+**Personnes soumises au contrôle**
+
+<sup>1</sup>
+
+Sont soumis à un contrôle de sécurité:
+
+- a. les employés de la Confédération, les collaborateurs externes et les militaires qui exercent une fonction figurant sur l’une des listes visées à l’art. 28;
+- b. les employés cantonaux qui exercent une activité sensible;
+- c. les tiers qui exécutent pour une autorité ou une organisation soumise à la présente loi un mandat qui implique l’exercice d’une activité sensible;
+- d. les personnes soumises à un contrôle de sécurité en vertu d’un traité international au sens de l’art. 87.
+
+<sup>2</sup> Toute personne appelée à exercer une activité sensible pour le compte d’une autorité étrangère ou d’une organisation internationale est soumise à un contrôle de sécurité pour autant que la Suisse ait conclu un traité international au sens de l’art. 87 avec l’État ou l’organisation internationale en question.
+
+<sup>3</sup> Les personnes qui exercent une fonction qui ne figure pas encore sur l’une des listes visées à l’art. 28 peuvent exceptionnellement, sur approbation de l’autorité concernée, être soumises à un contrôle de sécurité. La liste des fonctions doit être complétée dès que possible.
+
+<sup>4</sup>
+
+Les candidats aux fonctions suivantes ne sont pas soumis à un contrôle de sécurité:
+
+- a. membre de l’Assemblée fédérale;
+- b. membre du Conseil fédéral et chancelier de la Confédération;
+- c. juge auprès d’un tribunal de la Confédération;
+- d. procureur général de la Confédération;
+- e. membre de l’Autorité de surveillance du Ministère public de la Confédération;
+- e<sup>bis</sup>.[^29-1] chef du Préposé fédéral à la protection des données et à la transparence;
+- f. général;
+- g. magistrat cantonal élu par le peuple ou par le parlement du canton concerné.
+
+[^29-1]: Introduite par le ch. I de la LF du 17 juin 2022 (Chef du Préposé fédéral à la protection des données et à la transparence), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 734](https://fedlex.data.admin.ch/eli/oc/2023/734); [FF 2022 345](https://fedlex.data.admin.ch/eli/fga/2022/345), [432](https://fedlex.data.admin.ch/eli/fga/2022/432)).
+
+#### Art. 30
+
+**Degrés de contrôle**
+
+Les autorités soumises à la présente loi attribuent les degrés de contrôle suivants aux activités sensibles définies ci-après:
+
+- a. contrôle de sécurité de base: activités sensibles dont l’exercice inadéquat ou contraire aux prescriptions est susceptible de nuire considérablement aux intérêts définis à l’art. 1, al. 2;
+- b. contrôle de sécurité élargi: activités sensibles dont l’exercice inadéquat ou contraire aux prescriptions est susceptible de nuire gravement aux intérêts définis à l’art. 1, al. 2.
+
+### Section 2 Procédure
+
+#### Art. 31
+
+**Services compétents**
+
+<sup>1</sup>
+
+Les autorités soumises à la présente loi et les cantons désignent les services qui ont les compétences suivantes:
+
+- a. ouvrir la procédure du contrôle de sécurité (services qui demandent le contrôle);
+- b. décider de confier l’activité sensible (instances décisionnelles).
+
+<sup>2</sup> Le Conseil fédéral désigne un ou plusieurs services spécialisés chargés de réaliser les contrôles de sécurité relatifs aux personnes (services spécialisés CSP). Ces services réalisent l’évaluation sans aucune instruction.
+
+#### Art. 32
+
+**Consentement et collaboration**
+
+<sup>1</sup> Aucun contrôle de sécurité ne peut être réalisé sans le consentement de la personne soumise au contrôle.
+
+<sup>2</sup> Les conscrits, les militaires et les membres de la protection civile peuvent être soumis à un contrôle de sécurité sans leur consentement.
+
+<sup>3</sup> La personne soumise au contrôle est tenue de collaborer à l’établissement des faits.
+
+#### Art. 33
+
+**Moment du contrôle**
+
+<sup>1</sup> Pour les personnes visées à l’art. 29, al. 1, let. a et b, la procédure de contrôle de sécurité doit être ouverte avant l’attribution de la fonction.
+
+<sup>2</sup> Pour les personnes visées à l’art. 29, al. 1, let. a, qui doivent être nommées par le Conseil fédéral, le contrôle de sécurité doit être achevé avant le dépôt de la proposition de nomination.
+
+<sup>3</sup> Pour les personnes visées à l’art. 29, al. 1, let. c, le contrôle de sécurité doit être achevé avant que l’activité sensible ne leur soit confiée.
+
+<sup>4</sup> Pour les personnes visées à l’art. 29, al. 1, let. d, le contrôle de sécurité a lieu au moment prévu par le traité applicable.
+
+#### Art. 34
+
+**Collecte des données**
+
+<sup>1</sup>
+
+Les services spécialisés CSP peuvent collecter les données suivantes relatives à une personne pour réaliser un contrôle de sécurité de base:
+
+- a. données du casier judiciaire;
+- b. données sur des procédures pénales en cours, classées ou suspendues, en demandant des renseignements ou des dossiers auprès des autorités pénales;
+- c. données nécessaires à l’évaluation du risque, auprès des organes de sécurité de la Confédération, du Service de renseignement de la Confédération (SRC), des organes de l’armée et d’autres organes de la Confédération;
+- d. données des registres et dossiers des organes de sécurité des cantons et des organes de police;
+- e. données des registres des offices des poursuites et des faillites;
+- f. données des dossiers établis lors de contrôles de sécurité antérieurs;
+- g. données de sources d’information publiques.
+
+<sup>2</sup>
+
+Ils peuvent au surplus collecter les données suivantes relatives à une personne pour réaliser un contrôle de sécurité élargi:
+
+- a. données détenues par les autorités fiscales fédérales et cantonales;
+- b. données du registre du contrôle des habitants;
+- c. données détenues par les établissements financiers et banques entretenant des relations d’affaires avec la personne concernée;
+- d. données fournies par la personne concernée au cours d’une audition.
+
+<sup>3</sup> Lorsque des indices concrets fondés sur les données collectées donnent à penser qu’il existe un risque pour la sécurité ou lorsque les données collectées sont insuffisantes ou ne s’étendent pas sur une période suffisante pour réaliser le contrôle, les services spécialisés CSP peuvent auditionner la personne concernée. Ils peuvent également interroger des tiers moyennant le consentement de la personne soumise au contrôle de sécurité; ils indiquent aux tiers concernés qu’ils sont libres de donner des renseignements ou non.
+
+<sup>4</sup> Les données relatives à des tiers qui sont indissociables des données relatives à la personne soumise au contrôle de sécurité peuvent être traitées si elles sont indispensables pour réaliser le contrôle. Les services spécialisés CSP informent les tiers concernés du traitement de leurs données.
+
+#### Art. 35
+
+**Assistance administrative**
+
+<sup>1</sup> L’autorité ou l’organisation concernée au sens de l’art. 34 collecte les données détenues par une autorité étrangère ou une organisation internationale.
+
+<sup>2</sup> Lorsque les données collectées fournissent des indices concrets de crime organisé ou de criminalité internationale, le service spécialisé CSP consulte les offices centraux de police criminelle de la Confédération. Les offices centraux ne communiquent au service spécialisé CSP que les données personnelles pertinentes pour la sécurité.
+
+#### Art. 36
+
+**Prise en charge des coûts**
+
+<sup>1</sup> Les autorités et organisations de droit public auprès desquelles les services spécialisés CSP peuvent collecter des données ou qui sont tenues de participer à la procédure prêtent leur concours gratuitement.
+
+<sup>2</sup> Les tiers auxquels la procédure occasionne une charge considérable sont indemnisés.
+
+<sup>3</sup> La Confédération supporte les coûts du contrôle pour les employés cantonaux visés à l’art. 29, al. 1, let. b.
+
+#### Art. 37
+
+**Classement de la procédure**
+
+<sup>1</sup> Les services spécialisés CSP classent la procédure lorsque la personne concernée revient sur son consentement ou qu’elle n’entre plus en considération pour exercer la fonction prévue ou pour exécuter le mandat.
+
+<sup>2</sup> Ils communiquent le classement de la procédure à la personne concernée et au service qui a demandé son ouverture. La personne concernée est réputée ne pas avoir été contrôlée.
+
+### Section 3 Évaluation du risque pour la sécurité
+
+#### Art. 38
+
+**Risque pour la sécurité**
+
+<sup>1</sup> Il existe un risque pour la sécurité lorsque des indices concrets fondés sur les données collectées laissent supposer avec une probabilité élevée que la personne contrôlée exécutera l’activité sensible de manière inadéquate ou contraire aux prescriptions.
+
+<sup>2</sup>
+
+La probabilité d’un exercice inadéquat ou contraire aux prescriptions d’une activité sensible peut notamment être jugée élevée lorsque des indices concrets donnent à penser que la personne présente l’une des caractéristiques suivantes:
+
+- a. elle manque d’intégrité ou de loyauté;
+- b. elle est susceptible de céder au chantage ou à la corruption;
+- c. elle ne dispose pas d’une pleine capacité de jugement ou de décision.
+
+<sup>3</sup> L’évaluation doit se fonder sur des faits concernant la situation personnelle de la personne soumise au contrôle, indépendamment de toute faute commise.
+
+#### Art. 39
+
+**Résultat de l’évaluation**
+
+<sup>1</sup>
+
+Les services spécialisés CSP rendent l’une des déclarations suivantes, qui a la signification indiquée ci-après:
+
+- a. déclaration de sécurité: il n’existe aucun risque pour la sécurité;
+- b. déclaration de sécurité sous réserve: il existe un risque pour la sécurité, mais celui-ci peut être ramené à un niveau acceptable en respectant certaines conditions; les services spécialisés CSP recommandent les conditions à fixer;
+- c. déclaration de risque: il existe un risque pour la sécurité;
+- d. constatation: les données sont insuffisantes ou ne s’étendent pas sur une période suffisante pour évaluer le risque pour la sécurité.
+
+<sup>2</sup> Dans les cas visés à l’al. 1, let. b à d, ils donnent au préalable la possibilité à la personne soumise au contrôle de donner son avis.
+
+#### Art. 40
+
+**Communication**
+
+<sup>1</sup> Les services spécialisés CSP communiquent par écrit à la personne concernée et à l’instance décisionnelle la déclaration qu’ils ont rendue.
+
+<sup>2</sup> Pour les nominations par le Conseil fédéral, les services spécialisés CSP communiquent leur déclaration au département qui propose la nomination.
+
+<sup>3</sup>
+
+Ils peuvent communiquer la déclaration à une autre instance décisionnelle dans les cas suivants:
+
+- a. la personne soumise au contrôle est appelée à exercer une autre activité sensible au sens de la présente loi qui requiert un contrôle de sécurité;
+- b. la personne est soumise à un contrôle de loyauté en vertu d’une autre loi fédérale;
+- c. la personne est soumise à une évaluation en vertu de l’art. 113 de la loi du 3 février 1995 sur l’armée[^40-1].
+
+<sup>4</sup> Si les services spécialisés CSP disposent, avant la clôture de l’évaluation, d’indices concrets d’un risque pour la sécurité, ils peuvent communiquer leurs constatations intermédiaires par écrit aux autorités et instances visées aux al. 1 à 3 et à la personne contrôlée.
+
+[^40-1]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+
+### Section 4 Conséquences de la déclaration
+
+#### Art. 41
+
+**Exercice de l’activité sensible**
+
+<sup>1</sup> Les déclarations des services spécialisés CSP ont valeur de recommandation.
+
+<sup>2</sup> Le service visé à l’art. 31, al. 1, let. b décide, après avoir pris connaissance de la déclaration, si la personne contrôlée peut exercer l’activité sensible en question.
+
+<sup>3</sup> Il peut fixer des conditions à l’exercice de l’activité.
+
+<sup>4</sup> Il communique sa décision au service spécialisé CSP.
+
+#### Art. 42
+
+**Utilisation de la déclaration pour d’autres activités sensibles**
+
+Il n’est pas nécessaire de réaliser un nouveau contrôle de sécurité lorsque la personne concernée a déjà obtenu une déclaration pour un degré de contrôle au moins équivalent:
+
+- a. en vue d’une autre activité sensible au sens de la présente loi;
+- b. dans le cadre d’un contrôle de loyauté en vertu d’une autre loi fédérale.
+
+#### Art. 43
+
+**Répétition du contrôle**
+
+<sup>1</sup>
+
+Le contrôle de sécurité relatif aux personnes est répété comme suit:
+
+- a. contrôle de sécurité de base: au plus tôt après cinq ans, au plus tard après dix ans;
+- b. contrôle de sécurité élargi: au plus tôt après trois ans, au plus tard après cinq ans.
+
+<sup>2</sup> Le Conseil fédéral peut prévoir qu’il n’est pas nécessaire de répéter le contrôle de sécurité de base pour les personnes exerçant certaines fonctions au sein de l’armée ou de la protection civile.
+
+<sup>3</sup> Lorsque le service qui demande le contrôle ou l’instance décisionnelle ont des raisons de penser que de nouveaux risques sont apparus depuis le dernier contrôle, ils peuvent demander la répétition du contrôle de sécurité au service spécialisé CSP; ils motivent leur demande par écrit.
+
+#### Art. 44
+
+**Voies de droit**
+
+<sup>1</sup>
+
+La personne contrôlée dispose d’un délai de 30 jours à compter de la réception d’une déclaration au sens de l’art. 39, al. 1, pour:
+
+- a. consulter le dossier du contrôle;
+- b. demander la rectification des données erronées ou la destruction des données obsolètes;
+- c. demander que l’on ajoute à une donnée la mention de son caractère litigieux.
+
+<sup>2</sup> Les restrictions à la communication de renseignements sont régies par l’art. 26 de la loi fédérale du 25 septembre 2020 sur la protection des données (LPD)[^44-1].[^44-2]
+
+<sup>3</sup> La déclaration constitue un acte matériel au sens de l’art. 25*a* de la loi fédérale du 20 décembre 1968 sur la procédure administrative[^44-3]. La personne contrôlée peut recourir contre une déclaration au sens de l’art. 39, al. 1, let. b à d, auprès du Tribunal administratif fédéral dans un délai de 30 jours à compter de sa réception.
+
+<sup>4</sup> Si l’instance décisionnelle est le Tribunal fédéral ou le Tribunal administratif fédéral, l’art. 36, al. 2 et 4, de la loi du 24 mars 2000 sur le personnel de la Confédération[^44-4] s’applique par analogie.
+
+<sup>5</sup> La procédure de recours est régie au surplus par les dispositions générales de la procédure fédérale.
+
+[^44-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^44-2]: Nouvelle teneur selon l’annexe 2 ch. 5, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232), [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); FF **2017** 2465).
+[^44-3]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^44-4]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+
+### Section 5 Traitement des données personnelles
+
+#### Art. 45
+
+**Système d’information sur le contrôle de sécurité relatif aux personnes**
+
+<sup>1</sup>
+
+Les services spécialisés CSP exploitent un système d’information. Celui-ci sert à l’exécution:
+
+- a. des contrôles de sécurité relatifs aux personnes;
+- b. des évaluations du potentiel d’abus ou de dangerosité en ce qui concerne l’arme personnelle;
+- c. des contrôles de fiabilité;
+- d. des contrôles de loyauté.[^45-1]
+
+<sup>2</sup> Chaque service spécialisé CSP est responsable de la licéité du traitement des données personnelles qu’il effectue dans le système d’information.
+
+<sup>3</sup> Les données sensibles au sens de l’art. 5, let. c, LPD[^45-2] peuvent être traités dans le système d’information dans la mesure où elles sont nécessaires à l’évaluation du risque pour la sécurité.[^45-3]
+
+<sup>3bis</sup>
+
+Un profilage au sens de la LPD, y compris un profilage à risque élevé, peut être effectué à l’aide des données contenues dans le système d’information pour analyser, évaluer, apprécier ou prédire les aspects personnels ci-après relatifs à une personne physique dans les buts visés à l’al. 1:
+
+- a. risque pour la sécurité;
+- b. potentiel d’abus et de dangerosité en ce qui concerne l’arme personnelle.[^45-4]
+
+<sup>4</sup>
+
+Le système d’information contient les données suivantes:
+
+- a. les données d’identité des personnes à contrôler ou des personnes qui ont été contrôlées, y compris le numéro AVS et le numéro de passeport;
+- b. les données visées aux art. 34 et 35;
+- c. les données relatives à l’évaluation du risque pour la sécurité;
+- d. le résultat de l’évaluation visé à l’art. 39, al. 1;
+- e. la décision de l’instance décisionnelle;
+- f. les données et les dossiers relatifs aux procédures de recours;
+- g. des listes et statistiques contenant les données visées aux let. a à f.
+
+<sup>5</sup> Le traitement des données visées à l’al. 4 en dehors du système d’information doit être mentionné dans le système.
+
+<sup>6</sup>
+
+Les données visées à l’al. 4 peuvent être collectées automatiquement et systématiquement en ligne dans les systèmes d’information suivants:
+
+- a.[^45-5] casier judiciaire informatique au sens de la loi du 17 juin 2016 sur le casier judiciaire[^45-6];
+- b. index national de police au sens de l’art. 17 de la loi fédérale du 13 juin 2008 sur les systèmes d’information de police de la Confédération[^45-7];
+- c. système d’indexation des données du SRC au sens de l’art. 51 de la loi fédérale du 25 septembre 2015 sur le renseignement[^45-8];
+- d.[^45-9] banques de données de l’Office central des armes visées à l’art. 32*a*, al. 1, de la loi du 20 juin 1997 sur les armes[^45-10].
+
+[^45-1]: Nouvelle teneur selon le ch. II 2 de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117), [650](https://fedlex.data.admin.ch/eli/oc/2023/650); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^45-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^45-3]: Nouvelle teneur selon l’annexe 2 ch. 5, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232), [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); FF **2017** 2465).
+[^45-4]: Introduit par le ch. II 2 de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117), [650](https://fedlex.data.admin.ch/eli/oc/2023/650); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^45-5]: Nouvelle teneur selon l’annexe 2 ch. 4, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232), [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); FF **2017** 2465).
+[^45-6]: [RS 330](https://fedlex.data.admin.ch/eli/cc/2022/600)
+[^45-7]: [RS 361](https://fedlex.data.admin.ch/eli/cc/2008/698)
+[^45-8]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^45-9]: Introduite par le ch. II 2 de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117), [650](https://fedlex.data.admin.ch/eli/oc/2023/650); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^45-10]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+
+#### Art. 46
+
+**Consultation et communication des données**
+
+<sup>1</sup>
+
+Les organes suivants peuvent consulter en ligne les données ci-après contenues dans le système d’information:
+
+- a. les services qui demandent le contrôle: les données visées à l’art. 45, al. 4, let. b, qu’ils ont saisies eux-mêmes lors de l’ouverture de la procédure de contrôle, ainsi que les données visées à l’art. 45, al. 4, let. a, d et e;
+- b. les instances décisionnelles: les données visées à l’art. 45, al. 4, let. a, d et e;
+- c. les préposés à la sécurité de l’information au sens de l’art. 81, pour l’exécution de leurs tâches de contrôle: les données visées à l’art. 45, al. 4, let. a, d et e;
+- d. les services de la Confédération et des cantons auprès desquels les données visées à l’art. 37 sont collectées: les données visées à l’art. 45, al. 4, let. a.
+
+<sup>2</sup>
+
+Les organes suivants peuvent consulter les données ci-après contenues dans le système d’information:
+
+- a. le service spécialisé chargé de mener la procédure de sécurité relative aux entreprises (service spécialisé PSE) au sens de l’art. 51, al. 2, par une interface liée au système d’information visé à l’art. 70, pour mener la procédure de sécurité relative aux entreprises au sens des art. 49 à 73: les données visées à l’art. 45, al. 4, let. a, d et e;
+- b.
+
+  le Groupement Défense:
+
+  - 1\. par une interface liée au système d’information visé à l’art. 12 de la loi fédérale du 3 octobre 2008 sur les systèmes d’information de l’armée (LSIA)[^46-1], dans les buts définis à l’art. 13 LSIA: les données visées à l’art. 45, al. 4, let. a, d et e,
+  - 2\. par une interface liée au système d’information visé à l’art. 18 LSIA, dans les buts définis à l’art. 19 LSIA: les données visées à l’art. 45, al. 4, let. a et e;
+  - 3\. par une interface liée au système d’information visé à l’art. 156 LSIA, dans le but visé à l’art. 157 LSIA: les données visées à l’art. 45, al. 4, let. a et e,
+  - 4\. par une interface liée au système d’information visé à l’art. 162 LSIA, dans le but visé à l’art. 163 LSIA: les données visées à l’art. 45, al. 4, let. a et e;
+
+- c. le service compétent pour délivrer des certificats internationaux de sécurité au sens de l’art. 48, let. c, par une interface: les données visées à l’art. 45, al. 4, let. a, d et e.
+
+<sup>3</sup> Les services spécialisés CSP peuvent au surplus communiquer électroniquement les données visées à l’art. 45, al. 4, let. a et e, à d’autres services de la Confédération dans la mesure où ces données sont nécessaires pour contrôler l’accès aux zones de sécurité.
+
+<sup>4</sup> Ils peuvent communiquer aux autorités et organisations soumises à la présente loi les listes et statistiques visées à l’art. 45, al. 1, let. g, dans la mesure où elles en ont besoin pour exécuter les tâches de contrôle prévues par la présente loi.
+
+[^46-1]: [RS 510.91](https://fedlex.data.admin.ch/eli/cc/2009/823)
+
+#### Art. 47
+
+**Conservation, archivage et destruction des données**
+
+<sup>1</sup> Les services spécialisés CSP peuvent enregistrer les auditions visées à l’art. 34, al. 2, let. d, et 3, et conserver les enregistrements sur des supports.
+
+<sup>2</sup> Ils conservent les données aussi longtemps que la personne concernée exerce l’activité sensible, mais dix ans au plus.
+
+<sup>3</sup> L’archivage des données est régi par les dispositions de la législation relative à l’archivage.
+
+<sup>4</sup> Lorsque la procédure est classée ou que les services spécialisés CSP apprennent qu’une personne contrôlée n’occupe pas la fonction prévue ou a refusé d’exécuter le mandat prévu, ces services détruisent l’ensemble des données et dossiers relatifs à la procédure dans les trois mois.
+
+### Section 6 Dispositions édictées par le Conseil fédéral
+
+#### Art. 48
+
+Le Conseil fédéral règle:
+
+- a. les modalités de la procédure du contrôle de sécurité relatif aux personnes;
+- b. l’organisation des services spécialisés CSP;
+- c. les modalités de délivrance des certificats internationaux de sécurité;
+- d. les responsabilités en matière de protection des données traitées dans le système d’information visé à l’art. 45 et la sécurité des données;
+- e. les modalités du contrôle périodique réalisé par un organe externe du traitement des données personnelles.
+
+## Chapitre 4 Procédure de sécurité relative aux entreprises
+
+### Section 1 Dispositions générales
+
+#### Art. 49
+
+**But de la procédure**
+
+La procédure de sécurité relative aux entreprises vise à préserver la sécurité de l’information lors de l’exécution de mandats publics par des entreprises, des parties d’entre elles ou des sous-contractants (entreprises), dans la mesure où ces mandats impliquent l’exercice d’une activité sensible (mandats sensibles).
+
+#### Art. 50
+
+**Entreprises concernées**
+
+<sup>1</sup>
+
+Les entreprises suivantes peuvent être soumises à la procédure de sécurité:
+
+- a. entreprises appelées à exécuter un mandat sensible pour le compte d’une autorité ou d’une organisation soumise à la présente loi;
+- b. entreprises dont le siège est en Suisse et qui soumissionnent pour des mandats dont l’exécution requiert un certificat international de sécurité au sens de l’art. 66.
+
+<sup>2</sup> La procédure ne peut être menée sans le consentement de l’entreprise concernée.
+
+<sup>3</sup> Les entreprises visées à l’al. 1, let. b, supportent les coûts de la procédure.
+
+#### Art. 51
+
+**Classement de la procédure**
+
+<sup>1</sup>
+
+La procédure de sécurité est classée dans les cas suivants:
+
+- a. l’entreprise concernée revient sur son consentement ou ne collabore pas à la procédure;
+- b. l’entreprise concernée retire son offre;
+- c. l’entreprise concernée n’entre plus en considération pour l’exécution du mandat.
+
+<sup>2</sup> Le service spécialisé chargé de mener la procédure de sécurité relative aux entreprises (service spécialisé PSE) communique le classement de la procédure à l’entreprise et à l’autorité ou l’organisation qui attribue le mandat (adjudicateur).
+
+### Section 2 Ouverture de la procédure
+
+#### Art. 52
+
+**Demande d’ouverture de la procédure**
+
+<sup>1</sup> Lorsque les autorités et organisations soumises à la présente loi envisagent d’attribuer un mandat sensible, elles adressent au service spécialisé PSE une demande d’ouverture de la procédure.
+
+<sup>2</sup> Les autorités soumises à la présente loi désignent les services compétents pour demander l’ouverture de la procédure.
+
+<sup>3</sup> Les autorités étrangères ou organisations internationales doivent déposer elles-mêmes une demande pour les entreprises visées à l’art. 50, al. 1, let. b.
+
+#### Art. 53
+
+**Examen de la demande**
+
+<sup>1</sup> Le service spécialisé PSE examine la demande et ouvre la procédure.
+
+<sup>2</sup> Il peut renoncer, en accord avec l’adjudicateur, à ouvrir une procédure lorsque d’autres mesures permettent de ramener le risque pour la sécurité à un niveau acceptable. Il recommande les mesures à prendre.
+
+#### Art. 54
+
+**Définition des exigences en matière de sécurité**
+
+Le service spécialisé PSE fixe, en accord avec l’adjudicateur, les exigences en matière de sécurité de l’information pour la procédure d’adjudication et la phase d’exécution du mandat.
+
+### Section 3 Évaluation des entreprises
+
+#### Art. 55
+
+**Qualification**
+
+<sup>1</sup> L’adjudicateur indique au service spécialisé PSE quelles entreprises entrent en considération pour l’exécution du mandat sensible.
+
+<sup>2</sup> Le service spécialisé PSE évalue si les entreprises concernées présentent les qualifications requises sous l’angle de la sécurité pour exécuter le mandat sensible ou s’il existe un risque pour la sécurité.
+
+<sup>3</sup> Il réalise l’évaluation sans aucune instruction.
+
+#### Art. 56
+
+**Collecte des données**
+
+<sup>1</sup>
+
+Pour évaluer la qualification d’une entreprise, le service spécialisé PSE peut collecter des données auprès des sources suivantes:
+
+- a. l’entreprise concernée;
+- b. le SRC;
+- c. toute source d’information publique.
+
+<sup>2</sup> Il peut demander à des services étrangers ou internationaux de lui transmettre des données. La demande est adressée par l’intermédiaire du SRC.
+
+#### Art. 57
+
+**Évaluation du risque pour la sécurité**
+
+<sup>1</sup> Il existe un risque pour la sécurité lorsque des indices concrets fondés sur les données collectées laissent supposer avec une probabilité élevée que l’entreprise exécutera le mandat sensible de manière inadéquate ou contraire aux prescriptions.
+
+<sup>2</sup>
+
+La probabilité d’une exécution inadéquate ou contraire aux prescriptions du mandat sensible peut être jugée élevée dans les cas suivants notamment:
+
+- a. l’entreprise manque d’intégrité ou de loyauté;
+- b. l’entreprise est contrôlée par des États étrangers ou des organisations étrangères de droit public ou privé ou se trouve sous leur influence, lorsque ce contrôle ou cette influence sont incompatibles avec les intérêts définis à l’art. 1, al. 2;
+- c. un service spécialisé CSP a rendu une déclaration de risque pour un membre du personnel de l’entreprise et cette personne est indispensable pour l’exécution du mandat.
+
+<sup>3</sup> L’évaluation doit se fonder sur des faits concernant la situation de l’entreprise, indépendamment de toute faute commise.
+
+#### Art. 58
+
+**Notification de l’évaluation et exclusion de la procédure d’adjudication**
+
+<sup>1</sup> Le service spécialisé PSE communique son évaluation à l’adjudicateur et la notifie formellement à l’entreprise.
+
+<sup>2</sup> Si le service spécialisé PSE conclut que l’exécution du mandat sensible par l’entreprise concernée pose un risque pour la sécurité, l’adjudicateur exclut l’entreprise de la procédure d’adjudication.
+
+<sup>3</sup> Si toutes les entreprises qui entrent en considération posent un risque pour la sécurité, l’adjudicateur peut néanmoins confier le mandat à l’une d’entre elles. Le service spécialisé PSE classe la procédure. L’adjudicateur applique par analogie les mesures visées aux art. 59, 60, 63 et 64.
+
+### Section 4 Plan de sécurité
+
+#### Art. 59
+
+**Adjudication et plan de sécurité**
+
+<sup>1</sup> L’adjudicateur indique au service spécialisé PSE quelle est l’entreprise adjudicataire.
+
+<sup>2</sup> L’entreprise établit un plan de sécurité en suivant les directives du service spécialisé PSE.
+
+<sup>3</sup> Le plan de sécurité est soumis au contrôle du service spécialisé PSE. Ce dernier peut collecter les données nécessaires par écrit ou inspecter les locaux de l’entreprise.
+
+#### Art. 60
+
+**Contrôles de sécurité relatifs aux personnes**
+
+<sup>1</sup> Les collaborateurs de l’entreprise qui sont appelés à exercer une activité sensible sont soumis à un contrôle de sécurité.
+
+<sup>2</sup> Le service spécialisé PSE est compétent pour la décision au sens de l’art. 41, al. 2. Si la procédure de sécurité relative aux entreprises est classée conformément à l’art. 58, al. 3, parce qu’aucune entreprise ne présente les qualifications requises pour exécuter le mandat, l’adjudicateur prend la décision.
+
+### Section 5 Déclaration de sécurité relative aux entreprises
+
+#### Art. 61
+
+**Établissement de la déclaration de sécurité relative aux entreprises**
+
+<sup>1</sup> Le service spécialisé PSE rend formellement une déclaration de sécurité lorsque l’entreprise apporte la preuve qu’elle a mis en œuvre le plan de sécurité.
+
+<sup>2</sup> Il refuse à l’entreprise la déclaration de sécurité et classe la procédure si l’entreprise ne met pas en œuvre le plan de sécurité. Il rend formellement une décision en conséquence.
+
+<sup>3</sup> Les décisions visées aux al. 1 et 2 sont communiquées à l’adjudicateur.
+
+<sup>4</sup> L’adjudicateur est lié par la décision du service spécialisé PSE, sous réserve de l’art. 58, al. 3.
+
+<sup>5</sup> La déclaration de sécurité est valable cinq ans.
+
+#### Art. 62
+
+**Exécution d’un mandat sensible**
+
+L’adjudicateur ne peut laisser une entreprise exécuter un mandat sensible qu’une fois que celle-ci a obtenu une déclaration de sécurité.
+
+#### Art. 63
+
+**Obligations de l’entreprise**
+
+<sup>1</sup> Les entreprises qui ont obtenu une déclaration de sécurité doivent constamment appliquer les mesures prévues par le plan de sécurité.
+
+<sup>2</sup> Elles informent immédiatement le service spécialisé PSE et l’adjudicateur de tout changement et de tout incident dans le domaine de la sécurité.
+
+#### Art. 64
+
+**Contrôles et mesures de protection**
+
+<sup>1</sup>
+
+Le service spécialisé PSE peut:
+
+- a. inspecter inopinément les secteurs où le mandat sensible est exécuté;
+- b. consulter les documents relatifs au mandat.
+
+<sup>2</sup> Lorsque des indices concrets donnent à penser que la sécurité de l’information est menacée dans une entreprise, le service spécialisé PSE peut prendre immédiatement les mesures de protection qui s’imposent, notamment mettre les documents et le matériel en lieu sûr.
+
+#### Art. 65
+
+**Procédure simplifiée en cas d’adjudication d’autres mandats sensibles**
+
+Les entreprises qui ont obtenu une déclaration de sécurité sont réputées qualifiées en cas d’adjudication d’autres mandats sensibles. Le service spécialisé PSE examine la nécessité d’adapter le plan de sécurité.
+
+#### Art. 66
+
+**Certificat international de sécurité**
+
+Le service spécialisé PSE établit à la demande de l’entreprise un certificat international de sécurité.
+
+#### Art. 67
+
+**Révocation de la déclaration de sécurité**
+
+<sup>1</sup>
+
+Le service spécialisé PSE révoque la déclaration de sécurité dans les cas suivants:
+
+- a. l’entreprise n’a pas rempli ses obligations au sens de l’art. 63;
+- b. une répétition de la procédure a permis d’identifier un risque pour la sécurité.
+
+<sup>2</sup> Il notifie sa décision à l’entreprise et à l’adjudicateur.
+
+<sup>3</sup> En cas de révocation de la déclaration de sécurité, l’adjudicateur retire immédiatement le mandat à l’entreprise, sous réserve de l’art. 58, al. 3. L’entreprise n’a droit à aucune indemnisation.
+
+### Section 6 Répétition de la procédure et voies de droit
+
+#### Art. 68
+
+**Répétition de la procédure**
+
+La procédure de sécurité est répétée dans les cas suivants:
+
+- a. la déclaration de sécurité de l’entreprise échoit alors que l’entreprise exécute un mandat sensible;
+- b. des changements importants sont intervenus au sein de l’entreprise et des indices concrets donnent à penser que ces changements ont fait apparaître de nouveaux risques pour la sécurité.
+
+#### Art. 69
+
+**Voies de droit**
+
+<sup>1</sup>
+
+L’entreprise a 30 jours à compter de la notification de la décision du service spécialisé PSE pour:
+
+- a. consulter le dossier du contrôle;
+- b. demander la rectification des données erronées ou la destruction des données obsolètes;
+- c. demander que l’on ajoute à une donnée la mention de son caractère litigieux;
+- d. faire recours devant le Tribunal administratif fédéral.
+
+<sup>2</sup> Les restrictions à la communication de renseignements sont régies par l’art. 26 LPD[^69-1].[^69-2]
+
+[^69-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^69-2]: Nouvelle teneur selon l’annexe 2 ch. 5, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232), [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); FF **2017** 2465).
+
+### Section 7 Traitement des données personnelles
+
+#### Art. 70
+
+**Système d’information sur la procédure de sécurité relative aux entreprises**
+
+<sup>1</sup> Le service spécialisé PSE exploite un système d’information pour réaliser et gérer les procédures de sécurité relatives aux entreprises.
+
+<sup>2</sup> Les données sensibles et au sens de l’art. 5, let. c, LPD[^70-1] peuvent être traitées dans le système d’information dans la mesure où elles sont nécessaires à l’exécution de la procédure.[^70-2]
+
+<sup>3</sup>
+
+Le système d’information contient les données suivantes:
+
+- a. les données visées aux art. 56 et 59, al. 3;
+- b. le résultat de l’évaluation visée à l’art. 55, al. 2;
+- c. le résultat des contrôles de sécurité relatifs aux personnes visés à l’art. 60, al. 1;
+- d. la décision du service spécialisé PSE visée à l’art. 60, al. 2;
+- e. la raison sociale des entreprises qui ont obtenu une déclaration de sécurité;
+- f. les mesures de protection visées à l’art. 64;
+- g. les données et les dossiers relatifs aux procédures de recours.
+
+<sup>4</sup> Le service spécialisé PSE est responsable de la sécurité du système d’information et de la licéité du traitement des données personnelles.
+
+[^70-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^70-2]: Nouvelle teneur selon l’annexe 2 ch. 5, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232), [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); FF **2017** 2465).
+
+#### Art. 71
+
+**Consultation et communication des données**
+
+<sup>1</sup>
+
+Les organes suivants peuvent consulter en ligne les données ci-après:
+
+- a. les adjudicateurs: les données visées à l’art. 70, al. 3, let. b et d à g;
+- b. les entreprises qui sont habilitées par le Conseil fédéral, en vertu de l’art. 31, al. 1, let. a, à ouvrir des procédures de contrôle de sécurité relatifs aux personnes dans leur domaine de compétence: les données visées à l’art. 70, al. 3, let. d.
+
+<sup>2</sup> Le service spécialisé PSE peut au surplus communiquer les données visées à l’art. 70, al. 3, let. b à d, à d’autres services de la Confédération dans la mesure où ces données sont nécessaires à la sécurité de l’information.
+
+#### Art. 72
+
+**Conservation, archivage et destruction des données**
+
+<sup>1</sup> Le service spécialisé PSE conserve les données aussi longtemps que l’entreprise concernée dispose d’une déclaration de sécurité, mais dix ans au plus.
+
+<sup>2</sup> L’archivage des données est régi par les dispositions de la législation relative à l’archivage.
+
+<sup>3</sup> Lorsque la procédure est classée, le service spécialisé PSE détruit l’ensemble des données et dossiers relatifs à la procédure dans les trois mois.
+
+### Section 8 Dispositions édictées par le Conseil fédéral
+
+#### Art. 73
+
+Le Conseil fédéral règle:
+
+- a. les modalités de la procédure de sécurité relative aux entreprises;
+- b. l’application aux sous-contractants de la procédure de sécurité relative aux entreprises;
+- c. l’organisation du service spécialisé PSE;
+- d. les mesures nécessaires pour garantir la sécurité des données du système visé à l’art. 70;
+- e. les modalités du contrôle périodique réalisé par un organe externe du traitement des données personnelles.
+
+## Chapitre 5 Infrastructures critiques
+
+#### Art. 74
+
+**Tâches de la Confédération**
+
+<sup>1</sup> La Confédération apporte un soutien aux exploitants d’infrastructures critiques pour garantir que les interruptions de réseau et de système et que les utilisations abusives soient rares, de courte durée, maîtrisables et peu dommageables.
+
+<sup>2</sup>
+
+Le soutien apporté par la Confédération en matière de sécurité de l’information prend les formes suivantes:
+
+- a. identification et évaluation précoces des menaces, dangers, vulnérabilités et failles de sécurité;
+- b. identification des incidents;
+- c. maintien et rétablissement de la sécurité de l’information après un incident;
+- d. suivi des incidents.
+
+<sup>3</sup> La Confédération gère un service national d’alerte et un service d’assistance pour la mise en place de mesures techniques de sécurité à titre préventif ou après un incident.
+
+<sup>4</sup> Elle veille à ce que les exploitants d’infrastructures critiques puissent échanger des informations en toute sécurité, entre elles et avec les services compétents de la Confédération.
+
+<sup>5</sup> Le Conseil fédéral désigne les services fédéraux chargés d’accomplir ces tâches.
+
+#### Art. 75
+
+**Traitement des données personnelles**
+
+<sup>1</sup> Les services visés à l’art. 74, al. 5, peuvent traiter des ressources d’adressage au sens de l’art. 3, let. f, de la loi du 30 avril 1997 sur les télécommunications[^75-1] et les données personnelles qui s’y rapportent dans la mesure où elles en ont besoin pour accomplir leurs tâches.
+
+<sup>2</sup>
+
+Ils peuvent également traiter les données visées à l’al. 1 lorsque ces dernières comportent des informations concernant:
+
+- a. des opinions religieuses, philosophiques ou politiques; le traitement des données n’est admissible que dans la mesure où elles sont nécessaires à l’évaluation de menaces et dangers concrets en matière de sécurité de l’information;
+- b. des poursuites ou sanctions pénales ou administratives.
+
+<sup>3</sup> Les données personnelles peuvent être traitées à l’insu de la personne concernée.
+
+<sup>4</sup> En cas de soupçon fondé d’usurpation d’identité ou d’utilisation abusive de ressources d’adressage, les services visés à l’art. 74, al. 5, informent la personne concernée. L’art. 20 LPD[^75-2] est réservé.[^75-3]
+
+[^75-1]: [RS 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
+[^75-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^75-3]: Nouvelle teneur de la phrase selon l’annexe 2 ch. 5, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232), [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); FF **2017** 2465).
+
+#### Art. 76
+
+**Coopération sur le plan national**
+
+<sup>1</sup> Les services visés à l’art. 74, al. 5, peuvent communiquer aux exploitants d’infrastructures critiques des données personnelles au sens de l’art 75 dans la mesure où elles sont utiles à la sécurité de l’information.
+
+<sup>2</sup> Ils peuvent communiquer aux fournisseurs et exploitants de services informatiques et de communication des données personnelles au sens de l’art. 75 dans la mesure où elles sont nécessaires à la sécurité de l’information d’infrastructures critiques.
+
+<sup>3</sup> Les exploitants d’infrastructures critiques de même que les fournisseurs et les exploitants de services informatiques et de communication peuvent communiquer aux services visés à l’art. 74, al. 5, des données liées à des incidents, y compris des données personnelles. Les services visés à l’art. 74, al. 5, ne peuvent transmettre ces données à des fins de poursuite pénale qu’avec l’autorisation expresse du fournisseur des données.
+
+#### Art. 77
+
+**Coopération internationale**
+
+<sup>1</sup> Les services visés à l’art. 74, al. 5, peuvent échanger avec des services étrangers ou internationaux chargés de la protection d’infrastructures critiques des données au sens de l’art. 75 lorsqu’elles sont nécessaires pour accomplir des tâches correspondant à celles définies à l’art. 74.
+
+<sup>2</sup> L’échange de données au sens de l’al. 1 n’est autorisé que si les services étrangers ou internationaux garantissent que les données seront utilisées exclusivement aux fins prévues à l’al. 1.
+
+<sup>3</sup> Si les données sont nécessaires à l’exécution d’une procédure à l’étranger, les dispositions régissant l’assistance administrative et l’entraide judiciaire sont applicables.
+
+#### Art. 78
+
+**Système d’information pour le soutien aux infrastructures critiques**
+
+<sup>1</sup> Les services visés à l’art. 74, al. 5, exploitent un système d’information permettant d’échanger en toute sécurité des informations avec les exploitants des infrastructures critiques.
+
+<sup>2</sup>
+
+Le système contient les informations suivantes:
+
+- a. description et évaluation des menaces et dangers;
+- b. consignes sur l’identification et la résolution techniques des incidents;
+- c. analyses des incidents et recommandations pour la sécurité;
+- d. analyses des vulnérabilités que présentent les moyens informatiques;
+- e. correspondance.
+
+<sup>3</sup> Les informations visées à l’al. 2 peuvent contenir des données personnelles au sens de l’art. 75.
+
+#### Art. 79
+
+**Conservation et archivage des données**
+
+<sup>1</sup> Les services visés à l’art. 74, al. 5, conservent les données personnelles aussi longtemps que celles-ci sont utiles pour prévenir des dangers ou pour identifier des incidents, mais cinq ans au plus.
+
+<sup>2</sup> L’archivage des données est régi par les dispositions de la législation relative à l’archivage.
+
+#### Art. 80
+
+**Dispositions édictées par le Conseil fédéral**
+
+Le Conseil fédéral règle:
+
+- a. la répartition des tâches, la collaboration et les échanges entre les services visés à l’art. 74, al. 5, et le SRC;
+- b. les modalités de la communication d’informations aux exploitants d’infrastructures critiques, à des tiers et aux services étrangers et internationaux;
+- c. les responsabilités en matière de protection des données traitées dans le système d’information visé à l’art. 78 et la sécurité des données;
+- d. les modalités du contrôle périodique réalisé par un organe externe du traitement des données personnelles dans le système d’information visé à l’art. 78.
 
 ## Chapitre 6 Organisation et exécution
 
-### Section 1 …
+### Section 1 Organisation
 
-#### Art. 81 à 83
+#### Art. 81
+
+**Préposés à la sécurité de l’information**
+
+<sup>1</sup>
+
+Les autorités et organisations suivantes désignent, chacune dans son domaine de compétence, un préposé à la sécurité de l’information et un suppléant:
+
+- a. le Conseil fédéral;
+- b. la Délégation administrative de l’Assemblée fédérale;
+- c. les tribunaux de la Confédération;
+- d. le Ministère public de la Confédération;
+- e. la Banque nationale suisse;
+- f. les départements et la Chancellerie fédérale.
+
+<sup>2</sup>
+
+Les préposés à la sécurité de l’information accomplissent les tâches suivantes:
+
+- a. conseiller et aider dans leur domaine les services compétents dans l’accomplissement des tâches et l’exécution des obligations qui leur incombent en vertu de la présente loi;
+- b. diriger, sur mandat de l’autorité ou de l’organisation à laquelle ils sont subordonnés, l’organisation spécialisée chargée de la sécurité de l’information et la gestion des risques;
+- c. vérifier, sur mandat de l’autorité ou de l’organisation à laquelle ils sont subordonnés, le respect des prescriptions relatives à la sécurité de l’information, en rendre compte et proposer les mesures qui s’imposent;
+- d. signaler, sur une base volontaire, les incidents dans le domaine de la sécurité de l’information au service spécialisé de la Confédération pour la sécurité de l’information et aux services visés à l’art. 74, al. 5.
+
+<sup>3</sup> Aucune tâche susceptible d’entrer en conflit avec l’une des tâches visées à l’al. 2 ne peut être confiée aux préposés à la sécurité de l’information.
+
+#### Art. 82
+
+**Conférence des préposés à la sécurité de l’information**
+
+<sup>1</sup> La Conférence des préposés à la sécurité de l’information se compose des préposés à la sécurité de l’information au sens de l’art. 81, al. 1, de deux représentants des cantons et du Préposé fédéral à la protection des données et à la transparence.
+
+<sup>2</sup>
+
+Elle accomplit les tâches suivantes:
+
+- a. promouvoir l’exécution uniforme de la présente loi;
+- b. contribuer à la normalisation des exigences et mesures visées à l’art. 85;
+- c. conseiller le service spécialisé de la Confédération pour la sécurité de l’information sur tous les aspects de la coordination de l’exécution et sur tous les points d’importance stratégique;
+- d. veiller à l’échange d’informations, notamment sur la gestion des risques et sur les problèmes et les incidents dans le domaine de la sécurité de l’information;
+- e. assurer la coordination avec les autres services qui accomplissent des tâches dans le domaine de la sécurité de l’information.
+
+<sup>3</sup> Elle édicte son règlement interne.
+
+#### Art. 83
+
+**Service spécialisé de la Confédération pour la sécurité de l’information**
+
+<sup>1</sup>
+
+Le service spécialisé de la Confédération pour la sécurité de l’information:
+
+- a. conseille et soutient les autorités soumises à la présente loi, leurs préposés à la sécurité de l’information et les cantons dans l’exécution de la présente loi;
+- b. peut recommander des mesures si la sécurité de l’information de la Confédération est menacée;
+- c. peut mener des contrôles à la demande des autorités soumises à la présente loi;
+- d. peut évaluer, à la demande des autorités soumises à la présente loi, les risques liés à l’utilisation de nouvelles technologies;
+- e. peut examiner, à la demande des autorités et organisations soumises à la présente loi, l’adéquation de leurs processus, moyens, installations, objets et prestations par rapport aux exigences en matière de sécurité de l’information;
+- f. peut gérer et coordonner, à la demande des autorités soumises à la présente loi, les questions liées à la sécurité de l’information lorsque des projets importants impliquent plusieurs autorités;
+- g. sert d’interlocuteur pour les contacts spécialisés avec des services nationaux, étrangers ou internationaux;
+- h. rend compte chaque année au Conseil fédéral de la situation en matière de sécurité de l’information au sein de la Confédération.
+
+<sup>2</sup> Le préposé du Conseil fédéral à la sécurité de l’information dirige le service spécialisé de la Confédération pour la sécurité de l’information.
+
+<sup>3</sup> Le Conseil fédéral règle l’organisation du service spécialisé de la Confédération pour la sécurité de l’information. Il peut le charger d’autres tâches pour le compte de l’administration fédérale ou de l’armée.
 
 ### Section 2 Exécution
 
-#### Art. 84 à 86
+#### Art. 84
+
+**Dispositions d’exécution**
+
+<sup>1</sup> Les autorités soumises à la présente loi édictent les dispositions d’exécution. Le Conseil fédéral peut charger la Chancellerie fédérale d’édicter des dispositions d’exécution pour les affaires du Conseil fédéral.
+
+<sup>2</sup> Les compétences que la présente loi donne aux autorités soumises à la présente loi sont exercées, pour l’Assemblée fédérale, par la Délégation administrative de l’Assemblée fédérale.
+
+<sup>3</sup> Les dispositions d’exécution du Conseil fédéral s’appliquent par analogie aux autorités soumises à la présente loi si elles n’édictent pas leurs propres dispositions d’exécution.
+
+#### Art. 85
+
+**Exigences et mesures standard**
+
+<sup>1</sup> Le Conseil fédéral fixe des exigences standard en matière de sécurité et définit des mesures standard en matière d’organisation, de personnel et de construction, de même que sur le plan technique, pour assurer la sécurité de l’information; il suit à cet effet l’avancement des connaissances et de la technique.
+
+<sup>2</sup> Il peut déléguer cette tâche.
+
+<sup>3</sup> Les exigences et mesures standard du Conseil fédéral ont valeur de recommandations, sauf si les autorités soumises à la présente loi les déclarent obligatoires.
+
+#### Art. 86
+
+**Cantons**
+
+<sup>1</sup> Les cantons veillent au contrôle périodique de la mise en œuvre et de l’efficacité de la sécurité de l’information visée à l’art. 3.
+
+<sup>2</sup> Ils informent le service spécialisé de la Confédération pour la sécurité de l’information des résultats des contrôles visés à l’al. 1.
+
+<sup>3</sup> Ils désignent le service qui est l’interlocuteur des autorités soumises à la présente loi en matière de sécurité de l’information.
+
+<sup>4</sup> Le Conseil fédéral définit les cas dans lesquels les cantons peuvent recourir aux prestations des services spécialisés visés par la présente loi afin d’assurer leur propre sécurité de l’information. Ces prestations sont soumises à des émoluments. Leur montant est fixé par le Conseil fédéral.
 
 #### Art. 87
 
@@ -72,13 +1299,48 @@ Le Conseil fédéral peut conclure des traités internationaux en matière de s�
 
 #### Art. 88
 
-## Chapitre 7 …
+**Évaluation**
 
-#### Art. 89 à 92
+<sup>1</sup> Le Conseil fédéral veille à ce que l’exécution, l’adéquation, l’efficacité et l’économicité de la présente loi soient contrôlés périodiquement par un service indépendant, en particulier par le Contrôle fédéral des finances.
 
-Date de l’entrée en vigueur:[^8992-1] Art. 87: 1<sup>er</sup> mai 2022 Autres dispositions: entrent en vigueur ultérieurement
+<sup>2</sup> Il en rend compte régulièrement aux commissions compétentes de l’Assemblée fédérale.
 
-[^8992-1]: ACF du 6 avr. 2022
+## Chapitre 7 Dispositions finales
+
+#### Art. 89
+
+**Modification d’autres actes**
+
+La modification d’autres actes est réglée en annexe 1.
+
+#### Art. 90
+
+**Dispositions transitoires**
+
+<sup>1</sup> Les informations classifiées selon l’ancien droit sont adaptées aux règles de classification du nouveau droit dès leur premier traitement faisant suite à l’entrée en vigueur de la présente loi.
+
+<sup>2</sup> Les moyens informatiques doivent être classés dans un délai de deux ans à compter de l’entrée en vigueur de la présente loi. Les mesures techniques visant à assurer la sécurité de l’information doivent être mises en place dans un délai de six ans à compter de l’entrée en vigueur de la présente loi.
+
+<sup>3</sup> Les déclarations relatives à la sécurité des personnes et les déclarations relatives à la sécurité des entreprises rendues selon l’ancien droit sont valables cinq ans à compter de leur établissement.
+
+#### Art. 91
+
+**Dispositions de coordination**
+
+La coordination de la présente loi avec d’autres actes est réglée dans l’annexe 2.
+
+#### Art. 92
+
+**Référendum et entrée en vigueur**
+
+<sup>1</sup> La présente loi est sujette au référendum.
+
+<sup>2</sup> Le Conseil fédéral fixe la date de l’entrée en vigueur.
+
+Date de l’entrée en vigueur: Art. 87: 1<sup>er</sup> mai 2022[^92-1] Autres dispositions: 1<sup>er</sup> janvier 2024[^92-2]
+
+[^92-1]: ACF du 6 avr. 2022
+[^92-2]: O du 8 nov. 2023 ([RO 2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650))
 
 Annexe 1
 
@@ -98,26 +1360,6 @@ Annexe 2
 
 ## Dispositions de coordination
 
-### 1. Loi fédérale du 21 mars 1997 instituant des mesures visant au maintien de la sûreté intérieure (LMSI)
+…[^annex2-lvlu1-1]
 
-...
-
-### 2. Loi du 24 mars 2000 sur le personnel de la Confédération (LPers)
-
-...
-
-### 3. Code pénal (CP)
-
-...
-
-### 4. Loi du 17 juin 2016 sur le casier judiciaire (LCJ)
-
-...
-
-### 5. Loi du 25 septembre 2020 sur la protection des données (LPD)
-
-...
-
-### 6. Loi fédérale du 13 juin 2008 sur les systèmes d’information de police de la Confédération (LSIP)
-
-...
+[^annex2-lvlu1-1]: Les disp. de coordination peuvent être consultées au [RO 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232).

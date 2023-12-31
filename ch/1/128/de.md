@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 18. Dezember 2020 über die Informationssicherheit (Inf
 short: ISG
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/232"
 language: de
-version: 2022-05-01
+version: 2024-01-01
 adopted: 2020-12-18
 in_force: 2022-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/232/20220501/de/xml/fedlex-data-admin-ch-eli-cc-2022-232-20220501-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/232/20220501/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/232/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2022-232-20240101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/232/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/232/20220501/de"
 
 (Informationssicherheitsgesetz, ISG)
 
-vom 18. Dezember 2020 (Stand am 1. Mai 2022)
+vom 18. Dezember 2020 (Stand am 1. Januar 2024)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -28,35 +28,1264 @@ beschliesst:
 [^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
 [^ingress-2]: [BBl 2017 2953](https://fedlex.data.admin.ch/eli/fga/2017/647)
 
-## 1. Kapitel: …
+## 1. Kapitel: Allgemeine Bestimmungen
 
-#### Art. 1–5
+#### Art. 1
 
-## 2. Kapitel: …
+**Zweck**
 
-#### Art. 6–26
+<sup>1</sup> Dieses Gesetz soll die sichere Bearbeitung der Informationen, für die der Bund zuständig ist, sowie den sicheren Einsatz der Informatikmittel des Bundes gewährleisten.
 
-## 3. Kapitel: …
+<sup>2</sup>
 
-#### Art. 27–48
+Dadurch sollen die folgenden öffentlichen Interessen geschützt werden:
 
-## 4. Kapitel: …
+- a. die Entscheidungs- und Handlungsfähigkeit der Behörden und Organisationen des Bundes;
+- b. die innere und äussere Sicherheit der Schweiz;
+- c. die aussenpolitischen Interessen der Schweiz;
+- d. die wirtschafts-, finanz- und währungspolitischen Interessen der Schweiz;
+- e. die Erfüllung der gesetzlichen und vertraglichen Verpflichtungen der Behörden und Organisationen des Bundes zum Schutz von Informationen.
 
-#### Art. 49–73
+#### Art. 2
 
-## 5. Kapitel: …
+**Verpflichtete Behörden und Organisationen**
 
-#### Art. 74–80
+<sup>1</sup>
+
+Dieses Gesetz gilt für die nachstehenden Behörden (verpflichtete Behörden):
+
+- a. die Bundesversammlung;
+- b. den Bundesrat;
+- c. die eidgenössischen Gerichte;
+- d. die Bundesanwaltschaft und die Aufsichtsbehörde über die Bundesanwaltschaft;
+- e. die Schweizerische Nationalbank.
+
+<sup>2</sup>
+
+Es gilt für die nachstehenden Organisationen (verpflichtete Organisationen):
+
+- a. die Parlamentsdienste;
+- b. die Bundesverwaltung;
+- c. die Verwaltungen der eidgenössischen Gerichte;
+- d. die Armee;
+- e. Organisationen nach Artikel 2 Absatz 4 des Regierungs- und Verwaltungsorganisationsgesetzes vom 21. März 1997[^2-1] (RVOG) für ihre Verwaltungsaufgaben.
+
+<sup>3</sup>
+
+Der Bundesrat kann für Organisationen nach Artikel 2 Absätze 3 und 4 RVOG die Geltung des Gesetzes auf diejenigen Organisationen einschränken, die:
+
+- a. sicherheitsempfindliche Tätigkeiten ausüben; oder
+- b. zur Erfüllung ihrer Aufgaben Informatikmittel des Bundes einsetzen oder darauf zugreifen.
+
+<sup>4</sup> Er kann die Geltung nach Absatz 3 auf Teile des Gesetzes beschränken. Er berücksichtigt dabei die Vollzugsautonomie der betreffenden Organisationen nach Massgabe ihrer Organisationserlasse.
+
+<sup>5</sup> Für Organisationen des öffentlichen und privaten Rechts, die kritische Infrastrukturen betreiben, die aber nicht unter die Absätze 1–3 fallen, gelten die Artikel 74–80. Die Spezialgesetzgebung kann weitere Teile dieses Gesetzes für anwendbar erklären.
+
+[^2-1]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+
+#### Art. 3
+
+**Geltung für die Kantone**
+
+<sup>1</sup>
+
+Für die Kantone gelten nur die Bestimmungen:
+
+- a. über klassifizierte Informationen, soweit sie klassifizierte Informationen des Bundes bearbeiten; und
+- b. über die Sicherheit beim Einsatz von Informatikmitteln, soweit sie auf Informatikmittel des Bundes zugreifen.
+
+<sup>2</sup> Diese Bestimmungen gelten nicht, wenn die Kantone eine mindestens gleichwertige Informationssicherheit gewährleisten.
+
+#### Art. 4
+
+**Verhältnis zu anderen Erlassen des Bundes**
+
+<sup>1</sup> Das Öffentlichkeitsgesetz vom 17. Dezember 2004[^4-1] geht diesem Gesetz vor.
+
+<sup>2</sup> Für Informationen, deren Schutz auch in anderen Bundesgesetzen geregelt ist, finden die Bestimmungen dieses Gesetzes ergänzend Anwendung.
+
+[^4-1]: [SR 152.3](https://fedlex.data.admin.ch/eli/cc/2006/355)
+
+#### Art. 5
+
+**Begriffe**
+
+In diesem Gesetz bedeuten:
+
+- a. *Informatikmittel:* Mittel der Informations- und Kommunikationstechnik, namentlich Anwendungen, Informationssysteme und Datensammlungen sowie Einrichtungen, Produkte und Dienste, die zur elektronischen Verarbeitung von Informationen dienen;
+- b.
+
+  *sicherheitsempfindliche Tätigkeit:*
+
+  - 1\. die Bearbeitung von «vertraulich» oder «geheim» klassifizierten Informationen,
+  - 2\. die Verwaltung, der Betrieb, die Wartung und die Überprüfung von Informatikmitteln der Sicherheitsstufe «hoher Schutz» oder «sehr hoher Schutz»,
+  - 3\. der Zugang zu Sicherheitszonen, insbesondere zu Schutzzone 2 oder 3 einer Anlage nach der Gesetzgebung über den Schutz militärischer Anlagen;
+
+- c. *kritische Infrastrukturen:* Trinkwasser- und Energieversorgung, Informations-, Kommunikations- und Transportinfrastrukturen sowie weitere Prozesse, Systeme und Einrichtungen, die essenziell für das Funktionieren der Wirtschaft beziehungsweise das Wohlergehen der Bevölkerung sind.
+
+## 2. Kapitel: Allgemeine Massnahmen
+
+### 1. Abschnitt: Grundsätze
+
+#### Art. 6
+
+**Informationssicherheit**
+
+<sup>1</sup> Die verpflichteten Behörden und Organisationen sorgen dafür, dass der Schutzbedarf der Informationen, für die sie zuständig sind, hinsichtlich einer allfälligen Beeinträchtigung der Interessen nach Artikel 1 Absatz 2 beurteilt wird.
+
+<sup>2</sup>
+
+Sie sorgen dafür, dass diese Informationen, ihrem Schutzbedarf entsprechend:
+
+- a. nur Berechtigten zugänglich sind (Vertraulichkeit);
+- b. verfügbar sind, wenn sie benötigt werden (Verfügbarkeit);
+- c. nicht unberechtigt oder unbeabsichtigt verändert werden (Integrität);
+- d. nachvollziehbar bearbeitet werden (Nachvollziehbarkeit).
+
+<sup>3</sup> Sie sorgen dafür, dass die Informatikmittel, die sie zur Erfüllung ihrer gesetzlichen Aufgaben einsetzen, vor Missbrauch und Störung geschützt werden.
+
+<sup>4</sup> Sie tragen dabei den Grundsätzen der Zweckmässigkeit, der Wirtschaftlichkeit und der Benutzerfreundlichkeit Rechnung.
+
+#### Art. 7
+
+**Oberste Führungsverantwortung**
+
+<sup>1</sup> Die verpflichteten Behörden sorgen in ihrem Zuständigkeitsbereich dafür, dass die Informationssicherheit nach dem Stand von Wissenschaft und Technik organisiert, umgesetzt und überprüft wird.
+
+<sup>2</sup>
+
+Sie legen fest:
+
+- a. ihre Ziele für die Informationssicherheit;
+- b. die Eckwerte für den Umgang mit Risiken;
+- c. die Folgen bei Missachtung der Vorschriften.
+
+#### Art. 8
+
+**Risikomanagement**
+
+<sup>1</sup> Die verpflichteten Behörden und Organisationen sorgen in ihrem Zuständigkeitsbereich dafür, dass die Risiken für die Informationssicherheit laufend beurteilt werden.
+
+<sup>2</sup> Sie treffen die erforderlichen Massnahmen, um die Risiken zu vermeiden oder auf ein tragbares Mass zu reduzieren.
+
+<sup>3</sup> Risiken, die getragen werden sollen, müssen nachweislich akzeptiert werden.
+
+#### Art. 9
+
+**Zusammenarbeit mit Dritten**
+
+<sup>1</sup> Arbeiten die verpflichteten Behörden und Organisationen mit Dritten zusammen, so sorgen sie dafür, dass die Anforderungen und Massnahmen nach diesem Gesetz in den entsprechenden Vereinbarungen und Verträgen festgehalten werden.
+
+<sup>2</sup> Sie sorgen für eine angemessene Überprüfung der Umsetzung der Massnahmen.
+
+#### Art. 10
+
+**Vorgehen bei Verletzungen der Informationssicherheit**
+
+<sup>1</sup> Die verpflichteten Behörden und Organisationen sorgen dafür, dass Verletzungen der Informationssicherheit rasch erkannt, deren Ursachen abgeklärt und allfällige Auswirkungen minimiert werden.
+
+<sup>2</sup> Die verpflichteten Behörden sorgen dafür, dass für allfällige schwerwiegende Verletzungen der Informationssicherheit, welche die Erfüllung unverzichtbarer Aufgaben des Bundes gefährden können, Vorsorgeplanungen erstellt und entsprechende Übungen durchgeführt werden.
+
+### 2. Abschnitt: Klassifizierung von Informationen
+
+#### Art. 11
+
+**Grundsätze der Klassifizierung**
+
+<sup>1</sup> Die verpflichteten Behörden und Organisationen sorgen dafür, dass Informationen, welche die Kriterien nach Artikel 13 erfüllen, klassifiziert werden.
+
+<sup>2</sup> Die Klassifizierung ist auf das erforderliche Mindestmass zu beschränken und nach Möglichkeit zeitlich zu begrenzen.
+
+#### Art. 12
+
+**Zuständigkeiten**
+
+<sup>1</sup> Die verpflichteten Behörden legen fest, welche Personen und Stellen für das Klassifizieren der Informationen zuständig sind (klassifizierende Stellen).
+
+<sup>2</sup> Klassifizierungen dürfen nur von der klassifizierenden Stelle oder von der Stelle, die dieser übergeordnet ist, geändert oder aufgehoben werden.
+
+<sup>3</sup> Der Bundesrat regelt die Entklassifizierung von Archivgut.
+
+#### Art. 13
+
+**Klassifizierungsstufen**
+
+<sup>1</sup> Als «intern» werden Informationen klassifiziert, deren Kenntnisnahme durch Unberechtigte die Interessen nach Artikel 1 Absatz 2 Buchstaben a–d beeinträchtigen kann.
+
+<sup>2</sup> Als «vertraulich» werden Informationen klassifiziert, deren Kenntnisnahme durch Unberechtigte die Interessen nach Artikel 1 Absatz 2 Buchstaben a–d erheblich beeinträchtigen kann.
+
+<sup>3</sup> Als «geheim» werden Informationen klassifiziert, deren Kenntnisnahme durch Unberechtigte die Interessen nach Artikel 1 Absatz 2 Buchstaben a–d schwerwiegend beeinträchtigen kann.
+
+#### Art. 14
+
+**Zugang zu klassifizierten Informationen**
+
+<sup>1</sup>
+
+Zugang zu klassifizierten Informationen erhalten nur Personen, die Gewähr dafür bieten, dass sie damit sachgerecht umgehen, und:
+
+- a. die Informationen zur Erfüllung einer gesetzlichen Aufgabe benötigen; oder
+- b. über eine vertraglich vereinbarte Zugangsberechtigung verfügen und die Informationen zur Erfüllung der ihnen übertragenen Aufgaben benötigen.
+
+<sup>2</sup> Der Zugang zu klassifiziertem Archivgut richtet sich nach den Bestimmungen der Archivierungsgesetzgebung.
+
+<sup>3</sup> Vorbehalten bleiben durch völkerrechtliche Verträge nach Artikel 87 geregelte Zugangsbeschränkungen.
+
+#### Art. 15
+
+**Zugang zu klassifizierten Informationen in besonderen Verfahren**
+
+<sup>1</sup> Der Zugang zu klassifizierten Informationen in der Bundesversammlung, in den Parlamentsdiensten sowie in den Gerichten und Staatsanwaltschaften richtet sich nach dem jeweils anwendbaren Verfahrensrecht.
+
+<sup>2</sup> Vor dem Entscheid, den Zugang zu einer Information nach Absatz 1 zu ermöglichen, kann das zuständige parlamentarische Organ oder das zuständige Gericht die klassifizierende Stelle anhören.
+
+### 3. Abschnitt: Sicherheit beim Einsatz von Informatikmitteln
+
+#### Art. 16
+
+**Sicherheitsverfahren**
+
+<sup>1</sup> Die verpflichteten Behörden legen ein Verfahren zur Gewährleistung der Informationssicherheit beim Einsatz von Informatikmitteln fest (Sicherheitsverfahren).
+
+<sup>2</sup>
+
+Das Sicherheitsverfahren umfasst insbesondere:
+
+- a. die Beurteilung des Schutzbedarfs der Informationen vor dem Einsatz von Informatikmitteln;
+- b. die Umsetzung von Sicherheitsmassnahmen und deren Überprüfung;
+- c. die Zuständigkeit für die Sicherheitsfreigabe von Informatikmitteln;
+- d. das Vorgehen bei Veränderung der Risiken.
+
+<sup>3</sup> Für die Durchführung des Sicherheitsverfahrens ist die verpflichtete Behörde oder Organisation zuständig, die den Einsatz der Informatikmittel beschliesst.
+
+#### Art. 17
+
+**Sicherheitsstufen**
+
+<sup>1</sup> Die Sicherheitsstufe «Grundschutz» gilt für sämtliche Informatikmittel, sofern diese nicht höher eingestuft werden müssen.
+
+<sup>2</sup>
+
+Die Sicherheitsstufe «hoher Schutz» gilt für Informatikmittel, wenn:
+
+- a. eine Verletzung der Vertraulichkeit, Verfügbarkeit, Integrität oder Nachvollziehbarkeit der Informationen, die damit bearbeitet werden, die Interessen nach Artikel 1 Absatz 2 erheblich beeinträchtigen kann;
+- b. ein Missbrauch oder eine Störung des Informatikmittels die Interessen nach Artikel 1 Absatz 2 erheblich beeinträchtigen kann.
+
+<sup>3</sup>
+
+Die Sicherheitsstufe «sehr hoher Schutz» gilt für Informatikmittel, wenn:
+
+- a. eine Verletzung der Vertraulichkeit, Verfügbarkeit, Integrität oder Nachvollziehbarkeit der Informationen, die damit bearbeitet werden, die Interessen nach Artikel 1 Absatz 2 schwerwiegend beeinträchtigen kann;
+- b. ein Missbrauch oder eine Störung des Informatikmittels die Interessen nach Artikel 1 Absatz 2 schwerwiegend beeinträchtigen kann.
+
+#### Art. 18
+
+**Sicherheitsmassnahmen**
+
+<sup>1</sup> Die verpflichteten Behörden legen die Mindestanforderungen für die Sicherheitsstufen nach Artikel 17 fest.
+
+<sup>2</sup> Die Mindestanforderungen der Sicherheitsstufe «Grundschutz» müssen sämtliche Informatikmittel erfüllen.
+
+<sup>3</sup> Bei Informatikmitteln der Sicherheitsstufe «sehr hoher Schutz» muss die Wirksamkeit der Massnahmen periodisch geprüft werden.
+
+#### Art. 19
+
+**Sicherheit beim Betrieb**
+
+<sup>1</sup> Die verpflichteten Behörden und Organisationen gewährleisten die Sicherheit der Informatikmittel, die sie für sich selbst oder im Auftrag einer anderen Behörde oder Organisation betreiben.
+
+<sup>2</sup> Die Bearbeitung von Personendaten im Rahmen der Netzwerküberwachung richtet sich sinngemäss nach den Artikeln 57*i*–57*q* RVOG[^19-1].
+
+[^19-1]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+
+### 4. Abschnitt: Personelle Massnahmen
+
+#### Art. 20
+
+**Voraussetzungen für den Zugang zu Informationen und Informatikmitteln des Bundes**
+
+<sup>1</sup>
+
+Die verpflichteten Behörden und Organisationen sorgen dafür, dass Personen, die Zugang zu Informationen, Informatikmitteln, Räumlichkeiten und anderen Infrastrukturen des Bundes haben:
+
+- a. sorgfältig ausgewählt werden;
+- b. risikogerecht identifiziert werden;
+- c. stufengerecht aus- und weitergebildet werden;
+- d. gegebenenfalls zur Geheimhaltung verpflichtet werden.
+
+<sup>2</sup> Sie können biometrische Verifikationsmethoden verwenden, wenn dies zur risikogerechten Identifizierung von Personen erforderlich ist. Die biometrischen Daten werden nach dem Wegfall der Zugangsberechtigung vernichtet.
+
+<sup>3</sup> Sie können zudem die AHV-Nummer nach Artikel 50*c* des Bundesgesetzes vom 20. Dezember 1946[^20-1] über die Alters- und Hinterlassenenversicherung (AHV-Nummer) systematisch als Personenidentifikator verwenden.[^20-2]
+
+[^20-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^20-2]: Fassung gemäss Anhang Ziff. 40 des BG vom 18. Dez. 2020 (Systematische Verwendung der AHV-Nummer durch Behörden), in Kraft seit 1. Jan. 2024 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
+
+#### Art. 21
+
+**Restriktive Erteilung von Berechtigungen**
+
+<sup>1</sup> Die verpflichteten Behörden und Organisationen sorgen dafür, dass nur diejenigen Berechtigungen für den Zugang zu Informationen, Informatikmitteln, Räumlichkeiten und anderen Infrastrukturen des Bundes erteilt werden, welche die betreffenden Personen zur Erfüllung ihrer Aufgaben benötigen.
+
+<sup>2</sup> Die Berechtigungen werden entzogen, sobald die Anstellung oder der Vertrag endet oder die Aufgabe erfüllt ist. Sie dürfen ohne Vorankündigung gesperrt oder entzogen werden, wenn konkrete Anhaltspunkte für eine Gefährdung der Sicherheit vorliegen.
+
+### 5. Abschnitt: Physischer Schutz
+
+#### Art. 22
+
+**Grundsatz**
+
+Die verpflichteten Behörden und Organisationen sorgen für einen angemessenen physischen Schutz der Informationen und Informatikmittel, für die sie zuständig sind, vor Missbrauch und Störung.
+
+#### Art. 23
+
+**Sicherheitszonen**
+
+<sup>1</sup>
+
+Die verpflichteten Behörden und Organisationen können Räumlichkeiten und Bereiche als Sicherheitszone bezeichnen, in denen:
+
+- a. häufig «vertraulich» oder «geheim» klassifizierte Informationen bearbeitet werden; oder
+- b. Informatikmittel der Sicherheitsstufe «hoher Schutz» oder «sehr hoher Schutz» betrieben werden.
+
+<sup>2</sup>
+
+Sie sind befugt:
+
+- a. das Mitführen bestimmter Gegenstände, insbesondere von Aufnahmegeräten, zu verbieten;
+- b. sicherheitsempfindliche Bereiche mit Aufnahmegeräten zu überwachen;
+- c. Taschen- und Personenkontrollen durchzuführen;
+- d. unangemeldet Raumkontrollen, auch in Abwesenheit der Angestellten, durchzuführen.
+
+<sup>3</sup> Sie können in Sicherheitszonen, in denen «geheim» klassifizierte Informationen häufig bearbeitet oder Informatikmittel der Sicherheitsstufe «sehr hoher Schutz» betrieben werden, störende Fernmeldeanlagen nach Artikel 34 Absatz 1<sup>ter</sup> des Fernmeldegesetzes vom 30. April 1997[^23-1] (FMG) betreiben.
+
+<sup>4</sup> Vorbehalten bleiben die besonderen Vorschriften für Sicherheitszonen gemäss völkerrechtlichen Verträgen nach Artikel 87 sowie für Schutzzonen von Anlagen nach der Gesetzgebung über den Schutz militärischer Anlagen.
+
+[^23-1]: [SR 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
+
+### 6. Abschnitt: Identitätsverwaltungs-Systeme
+
+#### Art. 24
+
+**Einsatz von Identitätsverwaltungs-Systemen**
+
+<sup>1</sup> Die verpflichteten Behörden können zur zentralen Verwaltung der Daten zur Identifizierung von Personen, die Zugang zu Informationen, Informatikmitteln, Räumlichkeiten und anderen Infrastrukturen haben, Informationssysteme betreiben (Identitätsverwaltungs-Systeme).
+
+<sup>2</sup> Die Identitätsverwaltungs-Systeme prüfen die Identität und berechtigungsbezogene Eigenschaften von Personen, Maschinen und Systemen. Sie übermitteln das Resultat an die angeschlossenen Informationssysteme, damit diese die Berechtigungen ermitteln können.
+
+<sup>3</sup> Die verpflichteten Behörden bezeichnen für jedes Identitätsverwaltungs-System eine verantwortliche Stelle.
+
+#### Art. 25
+
+**Datenaustausch und -abgleich**
+
+<sup>1</sup> Die Identitätsverwaltungs-Systeme können mit den angeschlossenen Informationssystemen, mit Personal- und Benutzerverzeichnissen und mit anderen Identitätsverwaltungs-Systemen von verpflichteten Behörden Daten austauschen und abgleichen.
+
+<sup>2</sup> Der Austausch und Abgleich ist auf die Daten zu begrenzen, die im jeweiligen System bearbeitet werden dürfen.
+
+#### Art. 26
+
+**Ausführungsbestimmungen**
+
+Die verpflichteten Behörden erlassen Ausführungsbestimmungen insbesondere über:
+
+- a. den Datenschutz und die Datensicherheit;
+- b. die bearbeiteten Personendaten;
+- c. den Datenaustausch und -abgleich mit anderen Systemen;
+- d. die Protokollierung und die Weitergabe von Protokolldaten an die angeschlossenen Informationssysteme;
+- e. die periodische Kontrolle der Bearbeitung von Personendaten durch eine externe Stelle.
+
+## 3. Kapitel: Personensicherheitsprüfung
+
+### 1. Abschnitt: Allgemeine Bestimmungen
+
+#### Art. 27
+
+**Prüfzweck und Prüfungsinhalt**
+
+<sup>1</sup> Die Personensicherheitsprüfung dient zur Beurteilung, ob ein Risiko für die Informationssicherheit bestehen könnte, wenn eine Person im Rahmen ihrer Funktion oder eines Auftrags eine sicherheitsempfindliche Tätigkeit ausübt.
+
+<sup>2</sup> Zu diesem Zweck werden sicherheitsrelevante Daten über die Lebensführung der zu prüfenden Person, insbesondere über ihre engen persönlichen Beziehungen und familiären Verhältnisse, ihre finanzielle Lage und ihre Beziehungen zum Ausland, bearbeitet.
+
+<sup>3</sup> Daten über die Ausübung verfassungsmässiger Rechte dürfen nur dann bearbeitet werden, wenn ein konkreter Verdacht besteht, dass die zu prüfende Person diese Rechte ausübt, um Tätigkeiten vorzubereiten oder auszuüben, welche die Interessen nach Artikel 1 Absatz 2 erheblich beeinträchtigen können.
+
+#### Art. 28
+
+**Funktionenliste**
+
+<sup>1</sup> Die verpflichteten Behörden erlassen für ihren Zuständigkeitsbereich eine Liste der Funktionen, welche die Ausübung einer sicherheitsempfindlichen Tätigkeit erfordern.
+
+<sup>2</sup> Sie prüfen periodisch die Richtigkeit der Liste und passen sie an.
+
+#### Art. 29
+
+**Zu prüfende Personen**
+
+<sup>1</sup>
+
+Eine Personensicherheitsprüfung wird durchgeführt bei:
+
+- a. Angestellten des Bundes, externen Mitarbeitenden und Angehörigen der Armee, die eine Funktion ausüben, die in einer Liste nach Artikel 28 enthalten ist;
+- b. Angestellten eines Kantons, die eine sicherheitsempfindliche Tätigkeit ausüben;
+- c. Dritten, die für eine verpflichtete Behörde oder Organisation einen Auftrag ausführen, der die Ausübung einer sicherheitsempfindlichen Tätigkeit einschliesst;
+- d. Personen, die aufgrund eines völkerrechtlichen Vertrags nach Artikel 87 einer Personensicherheitsprüfung unterzogen werden müssen.
+
+<sup>2</sup> Soll eine Person von einer ausländischen Behörde oder internationalen Organisation mit der Ausübung einer sicherheitsempfindlichen Tätigkeit betraut werden, so wird die Personensicherheitsprüfung durchgeführt, sofern die Schweiz mit dem betreffenden Staat oder der betreffenden internationalen Organisation einen völkerrechtlichen Vertrag nach Artikel 87 abgeschlossen hat.
+
+<sup>3</sup> Personen, die eine Funktion ausüben, die noch nicht in einer Liste nach Artikel 28 enthalten ist, können mit Zustimmung der verpflichteten Behörde ausnahmsweise einer Personensicherheitsprüfung unterzogen werden. Die betreffende Liste muss bei nächster Gelegenheit angepasst werden.
+
+<sup>4</sup>
+
+Nicht durchgeführt wird die Personensicherheitsprüfung bei Anwärterinnen und Anwärtern auf folgende Funktionen:
+
+- a. Mitglied der Bundesversammlung;
+- b. Mitglied des Bundesrates, Bundeskanzlerin oder Bundeskanzler;
+- c. Richterin oder Richter eines eidgenössischen Gerichts;
+- d. Bundesanwältin oder Bundesanwalt;
+- e. Mitglied der Aufsichtsbehörde über die Bundesanwaltschaft;
+- e<sup>bis</sup>.[^29-1] Leiterin oder Leiter des Eidgenössischen Datenschutz- und Öffentlichkeitsbeauftragten;
+- f. General;
+- g. kantonale Magistratsperson, die vom Volk oder vom kantonalen Parlament gewählt wird.
+
+[^29-1]: Eingefügt durch Ziff. I der BG vom 17. Juni 2022 (Leiterin oder Leiter des Eidgenössischen Datenschutz- und Öffentlichkeitsbeauftragten), in Kraft seit 1. Jan. 2024 ([AS 2023 734](https://fedlex.data.admin.ch/eli/oc/2023/734); [BBl 2022 345](https://fedlex.data.admin.ch/eli/fga/2022/345), [432](https://fedlex.data.admin.ch/eli/fga/2022/432)).
+
+#### Art. 30
+
+**Prüfstufen**
+
+Die verpflichteten Behörden ordnen den sicherheitsempfindlichen Tätigkeiten eine der folgenden Prüfstufen zu:
+
+- a. Grundsicherheitsprüfung: für sicherheitsempfindliche Tätigkeiten, bei deren vorschriftswidriger oder unsachgemässer Ausübung die Interessen nach Artikel 1 Absatz 2 erheblich beeinträchtigt werden können;
+- b. erweiterte Personensicherheitsprüfung: für sicherheitsempfindliche Tätigkeiten, bei deren vorschriftswidriger oder unsachgemässer Ausübung die Interessen nach Artikel 1 Absatz 2 schwerwiegend beeinträchtigt werden können.
+
+### 2. Abschnitt: Durchführung
+
+#### Art. 31
+
+**Zuständige Stellen**
+
+<sup>1</sup>
+
+Die verpflichteten Behörden und die Kantone legen fest, welche Stellen zuständig sind für:
+
+- a. die Einleitung der Personensicherheitsprüfungen (einleitende Stellen);
+- b. den Entscheid über die Ausübung der sicherheitsempfindlichen Tätigkeit (entscheidende Stellen).
+
+<sup>2</sup> Der Bundesrat setzt für die Durchführung der Personensicherheitsprüfungen eine oder mehrere Fachstellen ein (Fachstellen PSP). Diese sind in ihrer Beurteilung weisungsungebunden.
+
+#### Art. 32
+
+**Einwilligung und Mitwirkung**
+
+<sup>1</sup> Personensicherheitsprüfungen dürfen nur mit der Einwilligung der zu prüfenden Person durchgeführt werden.
+
+<sup>2</sup> Stellungspflichtige sowie Angehörige der Armee und des Zivilschutzes dürfen ohne deren Einwilligung geprüft werden.
+
+<sup>3</sup> Die zu prüfende Person ist verpflichtet, an der Feststellung des Sachverhalts mitzuwirken.
+
+#### Art. 33
+
+**Zeitpunkt der Personensicherheitsprüfung**
+
+<sup>1</sup> Bei Personen nach Artikel 29 Absatz 1 Buchstaben a und b muss die Personensicherheitsprüfung eingeleitet werden, bevor die Funktion übertragen wird.
+
+<sup>2</sup> Bei Personen nach Artikel 29 Absatz 1 Buchstabe a, die dem Bundesrat zur Wahl vorgeschlagen werden sollen, muss die Personensicherheitsprüfung abgeschlossen sein, bevor die Person zur Wahl vorgeschlagen wird.
+
+<sup>3</sup> Bei Personen nach Artikel 29 Absatz 1 Buchstabe c muss die Personensicherheitsprüfung abgeschlossen sein, bevor sie mit der Ausübung der sicherheitsempfindlichen Tätigkeit beauftragt wird.
+
+<sup>4</sup> Bei Personen nach Artikel 29 Absatz 1 Buchstabe d richtet sich der Zeitpunkt der Personensicherheitsprüfung nach den Bestimmungen des entsprechenden Vertrags.
+
+#### Art. 34
+
+**Datenerhebung**
+
+<sup>1</sup>
+
+Die Fachstelle PSP kann für die Grundsicherheitsprüfung aus folgenden Quellen Daten über die zu prüfende Person erheben:
+
+- a. aus dem Strafregister;
+- b. bei den Strafbehörden durch Einholen von Auskünften und Akten über laufende, abgeschlossene oder eingestellte Strafverfahren;
+- c. bei den Sicherheitsorganen des Bundes, dem Nachrichtendienst des Bundes (NDB), den Organen der Armee sowie weiteren Organen des Bundes, sofern diese Daten bearbeiten, die für die Beurteilung des Sicherheitsrisikos erforderlich sind;
+- d. aus den Registern und Akten der Sicherheitsorgane der Kantone sowie der Polizei;
+- e. aus den Registern der Betreibungs- und Konkursbehörden;
+- f. aus den Akten bisheriger Personensicherheitsprüfungen;
+- g. aus öffentlich zugänglichen Quellen.
+
+<sup>2</sup>
+
+Sie kann für die erweiterte Personensicherheitsprüfung zudem aus folgenden Quellen Daten erheben:
+
+- a. bei den eidgenössischen und kantonalen Steuerbehörden;
+- b. aus den Registern der Einwohnerkontrollen;
+- c. bei Finanzinstituten und Banken, mit welchen die zu prüfende Person Geschäftsbeziehungen unterhält;
+- d. durch Befragung der zu prüfenden Person.
+
+<sup>3</sup> Ergeben sich gestützt auf die erhobenen Daten konkrete Hinweise auf ein Sicherheitsrisiko oder sind für die Beurteilung nicht genügend Daten über einen hinreichenden Zeitraum vorhanden, so kann die Fachstelle PSP die zu prüfende Person befragen. Sie kann mit der Einwilligung der zu prüfenden Person auch Dritte befragen; sie macht die Drittperson darauf aufmerksam, dass die Auskunft freiwillig ist.
+
+<sup>4</sup> Daten über Dritte, die untrennbar mit Daten über die zu prüfende Person verbunden sind, dürfen nur bearbeitet werden, wenn dies für die Beurteilung des Sicherheitsrisikos unerlässlich ist. Die Fachstelle PSP informiert die betroffenen Dritten über die Bearbeitung.
+
+#### Art. 35
+
+**Amtshilfe**
+
+<sup>1</sup> Müssen die Daten bei einer ausländischen Behörde oder internationalen Organisation erhoben werden, so erfolgt dies über die zuständige Behörde oder Organisation nach Artikel 34.
+
+<sup>2</sup> Ergibt die Datenerhebung konkrete Hinweise auf das organisierte oder internationale Verbrechen, so konsultiert die Fachstelle PSP die kriminalpolizeilichen Zentralstellen des Bundes. Die Zentralstellen geben der Fachstelle PSP nur sicherheitsrelevante Personendaten bekannt.
+
+#### Art. 36
+
+**Kostentragung**
+
+<sup>1</sup> Behörden und Organisationen des öffentlichen Rechts, bei denen Daten erhoben werden dürfen oder die am Verfahren mitwirken müssen, sind verpflichtet, unentgeltlich mitzuwirken.
+
+<sup>2</sup> Entsteht für Dritte durch die Mitwirkung ein erheblicher Aufwand, so werden sie dafür entschädigt.
+
+<sup>3</sup> Der Bund trägt die Kosten der Personensicherheitsprüfungen von Angestellten der Kantone nach Artikel 29 Absatz 1 Buchstabe b.
+
+#### Art. 37
+
+**Einstellung**
+
+<sup>1</sup> Die Fachstelle PSP stellt das Prüfverfahren ein, wenn die zu prüfende Person ihre Einwilligung zurückzieht oder für die Funktion oder für den Auftrag nicht mehr in Frage kommt.
+
+<sup>2</sup> Sie teilt die Einstellung des Prüfverfahrens der betreffenden Person und der einleitenden Stelle mit. Die betreffende Person gilt damit als nicht geprüft.
+
+### 3. Abschnitt: Beurteilung des Sicherheitsrisikos
+
+#### Art. 38
+
+**Sicherheitsrisiko**
+
+<sup>1</sup> Ein Sicherheitsrisiko besteht, wenn aufgrund der erhobenen Daten konkrete Anhaltspunkte vorliegen, dass die geprüfte Person die sicherheitsempfindliche Tätigkeit mit hoher Wahrscheinlichkeit vorschriftswidrig oder unsachgemäss ausüben wird.
+
+<sup>2</sup>
+
+Die Wahrscheinlichkeit einer vorschriftswidrigen oder unsachgemässen Ausübung der sicherheitsempfindlichen Tätigkeit kann insbesondere dann als hoch gelten, wenn konkrete Anhaltspunkte für folgende persönliche Eigenschaften vorliegen:
+
+- a. mangelnde persönliche Integrität oder Vertrauenswürdigkeit;
+- b. Erpressbarkeit oder Bestechlichkeit; oder
+- c. beeinträchtigtes Urteils- oder Entscheidungsvermögen.
+
+<sup>3</sup> Das Sicherheitsrisiko muss ungeachtet des Verschuldens der geprüften Person aufgrund der tatsächlichen Umstände ihrer persönlichen Verhältnisse festgestellt werden.
+
+#### Art. 39
+
+**Ergebnis der Beurteilung**
+
+<sup>1</sup>
+
+Die Fachstelle PSP stellt das Ergebnis der Beurteilung als eine der folgenden Erklärungen mit der nachstehenden Bedeutung aus:
+
+- a. Sicherheitserklärung: Es besteht kein Sicherheitsrisiko.
+- b. Sicherheitserklärung mit Vorbehalt: Es besteht ein Sicherheitsrisiko, das mit Auflagen auf ein tragbares Mass reduziert werden kann. Die Fachstelle PSP empfiehlt entsprechende Auflagen.
+- c. Risikoerklärung: Es besteht ein Sicherheitsrisiko.
+- d. Feststellungserklärung: Für die Beurteilung des Sicherheitsrisikos sind nicht genügend Daten über einen hinreichenden Zeitraum vorhanden.
+
+<sup>2</sup> Bevor die Fachstelle PSP eine Erklärung nach Absatz 1 Buchstaben b–d ausstellt, gibt sie der geprüften Person die Möglichkeit zur Stellungnahme.
+
+#### Art. 40
+
+**Mitteilung**
+
+<sup>1</sup> Die Fachstelle PSP teilt ihre Erklärung der geprüften Person sowie der entscheidenden Stelle schriftlich mit.
+
+<sup>2</sup> Bei den vom Bundesrat zu wählenden Personen teilt die Fachstelle PSP ihre Erklärung dem antragstellenden Departement mit.
+
+<sup>3</sup>
+
+Sie kann einer anderen entscheidenden Stelle die Erklärung mitteilen, wenn die geprüfte Person:
+
+- a. für eine andere sicherheitsempfindliche Tätigkeit nach diesem Gesetz einer Personensicherheitsprüfung untersteht;
+- b. einer Prüfung der Vertrauenswürdigkeit nach einem anderen Bundesgesetz untersteht;
+- c. als Angehörige der Armee einer Prüfung nach Artikel 113 des Militärgesetzes vom 3. Februar 1995[^40-1] untersteht.
+
+<sup>4</sup> Liegen der Fachstelle PSP bereits vor Abschluss der Beurteilung konkrete Anhaltspunkte vor, dass ein Sicherheitsrisiko bestehen könnte, so kann sie den Stellen nach den Absätzen 1–3 sowie der zu prüfenden Person die vorläufigen Erkenntnisse schriftlich mitteilen.
+
+[^40-1]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+
+### 4. Abschnitt: Folgen der Erklärung
+
+#### Art. 41
+
+**Ausübung der sicherheitsempfindlichen Tätigkeit**
+
+<sup>1</sup> Die Erklärungen der Fachstellen PSP haben empfehlenden Charakter.
+
+<sup>2</sup> Die Stelle nach Artikel 31 Absatz 1 Buchstabe b entscheidet nach Kenntnisnahme der Erklärung ob die geprüfte Person die sicherheitsempfindliche Tätigkeit ausüben darf.
+
+<sup>3</sup> Sie kann die Ausübung der sicherheitsempfindlichen Tätigkeit mit Auflagen verbinden.
+
+<sup>4</sup> Sie teilt ihren Entscheid der Fachstelle PSP mit.
+
+#### Art. 42
+
+**Mehrmalige Verwendung einer Erklärung**
+
+Auf die Durchführung der Personensicherheitsprüfung kann verzichtet werden, wenn für die betreffende Person bereits eine Erklärung derselben oder der höheren Prüfstufe ausgestellt wurde:
+
+- a. für eine andere sicherheitsempfindliche Tätigkeit nach diesem Gesetz;
+- b. im Rahmen einer Prüfung der Vertrauenswürdigkeit nach einem anderen Bundesgesetz.
+
+#### Art. 43
+
+**Wiederholung**
+
+<sup>1</sup>
+
+Die Personensicherheitsprüfung wird wie folgt wiederholt:
+
+- a. Grundsicherheitsprüfung: frühestens nach fünf, spätestens aber nach zehn Jahren;
+- b. erweiterte Personensicherheitsprüfung: frühestens nach drei, spätestens aber nach fünf Jahren.
+
+<sup>2</sup> Der Bundesrat kann für Funktionen der Armee und des Zivilschutzes von der Wiederholung der Grundsicherheitsprüfung absehen.
+
+<sup>3</sup> Hat die einleitende oder die entscheidende Stelle Grund anzunehmen, dass seit der letzten Prüfung neue Risiken entstanden sind, so kann sie bei der Fachstelle PSP mit schriftlicher Begründung eine Wiederholung der Personensicherheitsprüfung verlangen.
+
+#### Art. 44
+
+**Rechtsschutz**
+
+<sup>1</sup>
+
+Die geprüfte Person hat nach Erhalt der Erklärung nach Artikel 39 Absatz 1 30 Tage Zeit, um:
+
+- a. Einsicht in die Prüfungsunterlagen zu nehmen;
+- b. die Berichtigung falscher Daten oder die Vernichtung nicht mehr aktueller Daten zu verlangen;
+- c. einen Bestreitungsvermerk anbringen zu lassen.
+
+<sup>2</sup> Die Einschränkung des Auskunftsrechts richtet sich nach Artikel 26 des Datenschutzgesetzes vom 25. September 2020[^44-1] (DSG).[^44-2]
+
+<sup>3</sup> Die Erklärung stellt einen Realakt nach Artikel 25*a* des Verwaltungsverfahrensgesetzes vom 20. Dezember 1968[^44-3] dar. Die geprüfte Person kann gegen eine Erklärung nach Artikel 39 Absatz 1 Buchstaben b–d innerhalb von 30 Tagen nach deren Erhalt beim Bundesverwaltungsgericht Beschwerde führen.
+
+<sup>4</sup> Ist das Bundesgericht oder das Bundesverwaltungsgericht die entscheidende Stelle, so gilt Artikel 36 Absätze 2 und 4 des Bundespersonalgesetzes vom 24. März 2000[^44-4] sinngemäss.
+
+<sup>5</sup> Das Beschwerdeverfahren richtet sich im Übrigen nach den allgemeinen Bestimmungen über die Bundesrechtspflege.
+
+[^44-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^44-2]: Fassung gemäss Anhang 2 Ziff. 5, in Kraft seit 1. Jan. 2024 ([AS 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [BBl 2017 2953](https://fedlex.data.admin.ch/eli/fga/2017/647)).
+[^44-3]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^44-4]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+
+### 5. Abschnitt: Bearbeitung von Personendaten
+
+#### Art. 45
+
+**Informationssystem zur Personensicherheitsprüfung**
+
+<sup>1</sup>
+
+Die Fachstellen PSP betreiben ein Informationssystem. Dieses dient der Durchführung von:
+
+- a. Personensicherheitsprüfungen;
+- b. Beurteilungen des Gefährdungs- oder Missbrauchspotenzials bezüglich der persönlichen Waffe;
+- c. Zuverlässigkeitskontrollen;
+- d. Prüfungen der Vertrauenswürdigkeit.[^45-1]
+
+<sup>2</sup> Jede Fachstelle PSP ist für die rechtmässige Bearbeitung der Personendaten im Informationssystem verantwortlich.
+
+<sup>3</sup> Im Informationssystem können besonders schützenswerte Personendaten nach Artikel 5 Buchstabe c DSG[^45-2] bearbeitet werden, sofern dies zur Beurteilung des Sicherheitsrisikos erforderlich ist.[^45-3]
+
+<sup>3bis</sup>
+
+Anhand der Daten des Informationssystems darf ein Profiling, einschliesslich eines Profilings mit hohem Risiko, nach DSG durchgeführt werden, um die nachfolgenden persönlichen Aspekte einer natürlichen Person zu den Bearbeitungszwecken nach Absatz 1 zu analysieren, zu bewerten, zu beurteilen oder vorherzusagen:
+
+- a. Sicherheitsrisiko;
+- b. Gefährdungs- und Missbrauchspotenzial bezüglich der persönlichen Waffe.[^45-4]
+
+<sup>4</sup>
+
+Das Informationssystem enthält folgende Daten:
+
+- a.[^45-5] Daten zur Identität der zu prüfenden oder geprüften Personen, einschliesslich der AHV-Nummer und der Passnummer;
+- b. die Daten nach den Artikeln 34 und 35;
+- c. die Beurteilung des Sicherheitsrisikos;
+- d. die Erklärung nach Artikel 39 Absatz 1;
+- e. den Entscheid der entscheidenden Stelle;
+- f. Daten und Akten aus Beschwerdeverfahren;
+- g. Listen und Statistiken, die Daten nach den Buchstaben a–f enthalten.
+
+<sup>5</sup> Werden Daten nach Absatz 4 ausserhalb des Informationssystems bearbeitet, so muss dies im Informationssystem vermerkt werden.
+
+<sup>6</sup>
+
+Die Daten nach Absatz 4 können automatisch und systematisch durch Abfrage der folgenden Informationssysteme erhoben werden:
+
+- a.[^45-6] Strafregister-Informationssystem VOSTRA nach dem Strafregistergesetz vom 17. Juni 2016[^45-7];
+- b. nationaler Polizeiindex nach Artikel 17 des Bundesgesetzes vom 13. Juni 2008[^45-8] über die polizeilichen Informationssysteme des Bundes;
+- c. INDEX NDB nach Artikel 51 des Nachrichtendienstgesetzes vom 25. September 2015[^45-9];
+- d.[^45-10] die Datenbanken der Zentralstelle Waffen nach Artikel 32*a* Absatz 1 des Waffengesetzes vom 20. Juni 1997[^45-11].
+
+[^45-1]: Fassung gemäss Ziff. II 2 des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117), [650](https://fedlex.data.admin.ch/eli/oc/2023/650); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^45-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^45-3]: Fassung gemäss Anhang 2 Ziff. 5, in Kraft seit 1. Jan. 2024 ([AS 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [BBl 2017 2953](https://fedlex.data.admin.ch/eli/fga/2017/647)).
+[^45-4]: Eingefügt durch Ziff. II 2 des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117), [650](https://fedlex.data.admin.ch/eli/oc/2023/650); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^45-5]: Fassung gemäss Anhang Ziff. 40 des BG vom 18. Dez. 2020 (Systematische Verwendung der AHV-Nummer durch Behörden), in Kraft seit 1. Jan. 2024 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
+[^45-6]: Fassung gemäss Anhang 2 Ziff. 4, in Kraft seit 1. Jan. 2024 ([AS 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [BBl 2017 2953](https://fedlex.data.admin.ch/eli/fga/2017/647)).
+[^45-7]: [SR 330](https://fedlex.data.admin.ch/eli/cc/2022/600)
+[^45-8]: [SR 361](https://fedlex.data.admin.ch/eli/cc/2008/698)
+[^45-9]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^45-10]: Eingefügt durch Ziff. II 2 des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117), [650](https://fedlex.data.admin.ch/eli/oc/2023/650); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^45-11]: [SR 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+
+#### Art. 46
+
+**Zugriffsrechte und Datenbekanntgabe**
+
+<sup>1</sup>
+
+Die folgenden Stellen haben im Abrufverfahren Zugriff auf die nachstehenden Daten im Informationssystem:
+
+- a. einleitende Stellen: auf die Daten nach Artikel 45 Absatz 4 Buchstabe b, die sie anlässlich der Einleitung der Prüfung selber erfasst haben, sowie die Daten nach Artikel 45 Absatz 4 Buchstaben a, d und e;
+- b. entscheidende Stellen: auf die Daten nach Artikel 45 Absatz 4 Buchstaben a, d und e;
+- c. Informationssicherheitsbeauftragte nach Artikel 81 zur Erfüllung ihrer Kontrollaufgaben: auf die Daten nach Artikel 45 Absatz 4 Buchstaben a, d und e;
+- d. Stellen des Bundes und der Kantone, bei denen Daten nach Artikel 37 erhoben werden: auf die Daten nach Artikel 45 Absatz 4 Buchstabe a.
+
+<sup>2</sup>
+
+Die folgenden Stellen haben über eine Schnittstelle Zugriff auf die nachstehenden Daten im Informationssystem:
+
+- a. die Fachstelle nach Artikel 51 Absatz 2 zur Durchführung des Betriebssicherheitsverfahrens nach den Artikeln 49–73 über das Informationssystem nach Artikel 70: auf die Daten nach Artikel 45 Absatz 4 Buchstaben a, d und e;
+- b.
+
+  die Gruppe Verteidigung:
+
+  - 1\. zur Erfüllung ihrer Aufgaben nach Artikel 13 des Bundesgesetzes vom 3. Oktober 2008[^46-1] über die militärischen Informationssysteme (MIG) über das Personalinformationssystem der Armee nach Artikel 12 MIG: auf die Daten nach Artikel 45 Absatz 4 Buchstaben a, d und e,
+  - 2\. zur Erfüllung ihrer Aufgaben nach Artikel 19 MIG über das Informationssystem Rekrutierung nach Artikel 18 MIG: auf die Daten nach Artikel 45 Absatz 4 Buchstaben a und e,
+  - 3\. zur Erfüllung ihrer Aufgaben nach Artikel 157 MIG über das Informationssystem Besuchsanträge nach Artikel 156 MIG: auf die Daten nach Artikel 45 Absatz 4 Buchstaben a und e,
+  - 4\. zur Erfüllung ihrer Aufgaben nach Artikel 163 MIG über das Informationssystem Zutrittskontrolle nach Artikel 162 MIG: auf die Daten nach Artikel 45 Absatz 4 Buchstaben a und e;
+
+- c. die Stelle, die für die Sicherheitsbescheinigung im internationalen Verhältnis nach Artikel 48 Buchstabe c zuständig ist: auf die Daten nach Artikel 45 Absatz 4 Buchstaben a, d und e.
+
+<sup>3</sup> Die Fachstellen PSP können zudem Daten nach Artikel 45 Absatz 4 Buchstaben a und e weiteren Stellen des Bundes bekanntgeben, sofern dies zur Kontrolle des Zutritts zu einer Sicherheitszone erforderlich ist.
+
+<sup>4</sup> Sie können den verpflichteten Behörden und Organisationen Listen und Statistiken nach Artikel 45 Absatz 1 Buchstabe g bekanntgeben, sofern dies zur Erfüllung von deren Kontrollaufgaben nach diesem Gesetz erforderlich ist.
+
+[^46-1]: [SR 510.91](https://fedlex.data.admin.ch/eli/cc/2009/823)
+
+#### Art. 47
+
+**Datenaufbewahrung, -archivierung und -vernichtung**
+
+<sup>1</sup> Die Fachstellen PSP können Befragungen nach Artikel 34 Absätze 2 Buchstabe d und 3 mit technischen Geräten aufnehmen und auf Datenträgern aufbewahren.
+
+<sup>2</sup> Sie bewahren die Daten so lange auf, wie die betreffende Person die sicherheitsempfindliche Tätigkeit ausübt, längstens jedoch zehn Jahre.
+
+<sup>3</sup> Die Archivierung der Daten richtet sich nach den Vorschriften der Archivierungsgesetzgebung.
+
+<sup>4</sup> Wird das Prüfverfahren eingestellt, tritt eine geprüfte Person die vorgesehene Funktion nicht an oder lehnt sie den Auftrag ab, so werden alle mit der Personensicherheitsprüfung zusammenhängenden Daten und Akten spätestens nach drei Monaten vernichtet.
+
+### 6. Abschnitt: Bestimmungen des Bundesrats
+
+#### Art. 48
+
+Der Bundesrat regelt:
+
+- a. das Verfahren der Personensicherheitsprüfung;
+- b. die Organisation der Fachstellen PSP;
+- c. die Sicherheitsbescheinigung für Personen im internationalen Verhältnis;
+- d. die Verantwortung für den Datenschutz in Zusammenhang mit dem Informationssystem nach Artikel 45 sowie die Datensicherheit;
+- e. die periodische Kontrolle der Bearbeitung von Personendaten durch eine externe Stelle.
+
+## 4. Kapitel: Betriebssicherheitsverfahren
+
+### 1. Abschnitt: Allgemeine Bestimmungen
+
+#### Art. 49
+
+**Verfahrenszweck**
+
+Das Betriebssicherheitsverfahren dient zur Gewährleistung der Informationssicherheit bei der Erfüllung von öffentlichen Aufträgen durch Unternehmen und Subunternehmen oder Teile davon (Betriebe), sofern die Aufträge die Ausübung einer sicherheitsempfindlichen Tätigkeit einschliessen (sicherheitsempfindliche Aufträge).
+
+#### Art. 50
+
+**Betroffene Betriebe**
+
+<sup>1</sup>
+
+Das Betriebssicherheitsverfahren kann durchgeführt werden bei Betrieben:
+
+- a. die einen sicherheitsempfindlichen Auftrag einer verpflichteten Behörde oder Organisation ausführen sollen;
+- b. mit Sitz in der Schweiz, die sich um einen Auftrag bewerben, für den sie eine Betriebssicherheitsbescheinigung nach Artikel 66 benötigen.
+
+<sup>2</sup> Das Verfahren darf nur mit Einwilligung des Betriebs durchgeführt werden.
+
+<sup>3</sup> Die Betriebe nach Absatz 1 Buchstabe b tragen die Kosten des Verfahrens.
+
+#### Art. 51
+
+**Einstellung des Verfahrens**
+
+<sup>1</sup>
+
+Das Betriebssicherheitsverfahren wird eingestellt, wenn der Betrieb:
+
+- a. seine Einwilligung zurückzieht oder am Verfahren nicht mitwirkt;
+- b. sein Angebot zurückzieht;
+- c. für den Auftrag nicht mehr in Frage kommt.
+
+<sup>2</sup> Die für die Durchführung des Betriebssicherheitsverfahrens zuständige Fachstelle (Fachstelle BS) teilt dem Betrieb und der den Auftrag vergebenden Behörde oder Organisation (Auftraggeberin) die Einstellung des Verfahrens mit.
+
+### 2. Abschnitt: Einleitung des Betriebssicherheitsverfahrens
+
+#### Art. 52
+
+**Antrag auf Einleitung**
+
+<sup>1</sup> Verpflichtete Behörden und Organisationen beantragen der Fachstelle BS die Einleitung des Verfahrens, wenn sie beabsichtigen, einen sicherheitsempfindlichen Auftrag zu vergeben.
+
+<sup>2</sup> Die verpflichteten Behörden legen fest, welche Stellen für die Antragstellung zuständig sind.
+
+<sup>3</sup> Für Betriebe nach Artikel 50 Absatz 1 Buchstabe b stellt die zuständige ausländische Behörde oder internationale Organisation den Antrag.
+
+#### Art. 53
+
+**Prüfung des Antrags**
+
+<sup>1</sup> Die Fachstelle BS prüft den Antrag und leitet das Verfahren ein.
+
+<sup>2</sup> Sie kann im Einvernehmen mit der Auftraggeberin auf die Einleitung verzichten, wenn das Sicherheitsrisiko mit anderen Massnahmen auf ein tragbares Mass reduziert werden kann. Sie empfiehlt entsprechende Massnahmen.
+
+#### Art. 54
+
+**Festlegung der Sicherheitsanforderungen**
+
+Die Fachstelle BS legt in Absprache mit der Auftraggeberin die Anforderungen an die Informationssicherheit für das Vergabeverfahren und die Auftragserfüllung fest.
+
+### 3. Abschnitt: Beurteilung der Betriebe
+
+#### Art. 55
+
+**Eignung**
+
+<sup>1</sup> Die Auftraggeberin teilt der Fachstelle BS mit, welche Betriebe für die Ausführung des sicherheitsempfindlichen Auftrags in Frage kommen.
+
+<sup>2</sup> Die Fachstelle BS beurteilt, ob diese Betriebe zur Ausführung des sicherheitsempfindlichen Auftrags geeignet sind oder ob ein Sicherheitsrisiko besteht.
+
+<sup>3</sup> Sie ist in ihrer Beurteilung weisungsungebunden.
+
+#### Art. 56
+
+**Datenerhebung**
+
+<sup>1</sup>
+
+Die Fachstelle BS kann zur Beurteilung der Eignung Daten erheben:
+
+- a. beim Betrieb;
+- b. beim NDB;
+- c. aus öffentlich zugänglichen Quellen.
+
+<sup>2</sup> Sie kann ausländische und internationale Dienststellen um die Zustellung entsprechender Daten ersuchen. Anfragen an ausländische Nachrichtendienste erfolgen über den NDB.
+
+#### Art. 57
+
+**Sicherheitsrisiko**
+
+<sup>1</sup> Ein Sicherheitsrisiko besteht, wenn aufgrund der erhobenen Daten konkrete Anhaltspunkte vorliegen, dass der Betrieb den sicherheitsempfindlichen Auftrag mit hoher Wahrscheinlichkeit vorschriftswidrig oder unsachgemäss ausführen wird.
+
+<sup>2</sup>
+
+Die Wahrscheinlichkeit einer vorschriftswidrigen oder unsachgemässen Ausführung des sicherheitsempfindlichen Auftrags kann insbesondere dann als hoch gelten, wenn:
+
+- a. der Betrieb mangelnde Integrität oder Vertrauenswürdigkeit aufweist;
+- b. der Betrieb von ausländischen Staaten oder Organisationen des öffentlichen oder privaten Rechts kontrolliert oder beeinflusst wird und diese Kontrolle oder dieser Einfluss nicht mit dem Schutz der Interessen nach Artikel 1 Absatz 2 vereinbar ist;
+- c. für Personen des Betriebs, die für die Ausführung des sicherheitsempfindlichen Auftrags unentbehrlich sind, eine Risikoerklärung ausgestellt wurde.
+
+<sup>3</sup> Das Sicherheitsrisiko muss ungeachtet eines Verschuldens aufgrund der tatsächlichen Umstände und Verhältnisse des betroffenen Betriebs festgestellt werden.
+
+#### Art. 58
+
+**Eröffnung der Beurteilung und Ausschluss aus dem Vergabeverfahren**
+
+<sup>1</sup> Die Fachstelle BS teilt ihre Beurteilung der Auftraggeberin mit und eröffnet sie dem Betrieb durch Verfügung.
+
+<sup>2</sup> Kommt die Fachstelle BS zum Schluss, dass die Ausführung des sicherheitsempfindlichen Auftrags mit einem Sicherheitsrisiko verbunden ist, so schliesst die Auftraggeberin den Betrieb vom Vergabeverfahren aus.
+
+<sup>3</sup> Ist die Ausführung des sicherheitsempfindlichen Auftrags bei allen in Frage kommenden Betrieben mit einem Sicherheitsrisiko verbunden, so kann die Auftraggeberin trotzdem einem dieser Betriebe den Auftrag erteilen. Die Fachstelle BS stellt das Betriebssicherheitsverfahren ein. Die Auftraggeberin wendet die Massnahmen nach den Artikeln 59, 60, 63 und 64 sinngemäss an.
+
+### 4. Abschnitt: Sicherheitskonzept
+
+#### Art. 59
+
+**Zuschlag und Sicherheitskonzept**
+
+<sup>1</sup> Die Auftraggeberin teilt der Fachstelle BS mit, welcher Betrieb den Zuschlag erhält.
+
+<sup>2</sup> Der Betrieb erstellt nach den Vorgaben der Fachstelle BS ein Sicherheitskonzept.
+
+<sup>3</sup> Die Fachstelle BS prüft das Sicherheitskonzept. Sie kann die dazu erforderlichen Daten schriftlich erheben oder den Betrieb inspizieren.
+
+#### Art. 60
+
+**Personensicherheitsprüfungen**
+
+<sup>1</sup> Personen des Betriebs, die für eine sicherheitsempfindliche Tätigkeit vorgesehen sind, werden einer Personensicherheitsprüfung unterzogen.
+
+<sup>2</sup> Die Fachstelle BS ist für den Entscheid nach Artikel 41 Absatz 2 zuständig. Wird das Verfahren eingestellt, weil sich kein Betrieb für die Ausführung des Auftrags eignet (Art. 58 Abs. 3), so ist die Auftraggeberin für den Entscheid zuständig.
+
+### 5. Abschnitt: Betriebssicherheitserklärung
+
+#### Art. 61
+
+**Ausstellung der Betriebssicherheitserklärung**
+
+<sup>1</sup> Die Fachstelle BS stellt dem Betrieb eine Betriebssicherheitserklärung in Form einer Verfügung aus, sobald dieser das Sicherheitskonzept nachweislich umgesetzt hat.
+
+<sup>2</sup> Sie verweigert dem Betrieb die Betriebssicherheitserklärung und stellt das Betriebssicherheitsverfahren ein, wenn er das Sicherheitskonzept nicht umsetzt. Sie erlässt eine entsprechende Verfügung.
+
+<sup>3</sup> Die Verfügungen nach den Absätzen 1 und 2 werden der Auftraggeberin mitgeteilt.
+
+<sup>4</sup> Die Auftraggeberin ist an die Verfügung der Fachstelle BS gebunden; vorbehalten bleibt Artikel 58 Absatz 3.
+
+<sup>5</sup> Die Gültigkeit der Betriebssicherheitserklärung beträgt fünf Jahre.
+
+#### Art. 62
+
+**Ausführung des sicherheitsempfindlichen Auftrags**
+
+Die Auftraggeberin darf den sicherheitsempfindlichen Auftrag erst ausführen lassen, wenn die Fachstelle BS die Betriebssicherheitserklärung ausgestellt hat.
+
+#### Art. 63
+
+**Pflichten des Betriebs**
+
+<sup>1</sup> Betriebe, die über eine Betriebssicherheitserklärung verfügen, müssen die Massnahmen des Sicherheitskonzepts laufend umsetzen.
+
+<sup>2</sup> Sie melden der Fachstelle BS und der Auftraggeberin unverzüglich alle sicherheitsrelevanten Änderungen und Vorfälle.
+
+#### Art. 64
+
+**Kontrollen und Schutzmassnahmen**
+
+<sup>1</sup>
+
+Die Fachstelle BS ist befugt:
+
+- a. Bereiche, in denen der sicherheitsempfindliche Auftrag ausgeführt wird, ohne Vorankündigung zu inspizieren;
+- b. auftragsrelevante Unterlagen einzusehen.
+
+<sup>2</sup> Liegen konkrete Anhaltspunkte vor, dass die Informationssicherheit in einem Betrieb gefährdet ist, so kann die Fachstelle BS umgehend die erforderlichen Schutzmassnahmen treffen und insbesondere Unterlagen und Material sicherstellen.
+
+#### Art. 65
+
+**Vereinfachtes Verfahren bei der Vergabe weiterer sicherheitsempfindlicher Aufträge**
+
+Betriebe, die über eine Betriebssicherheitserklärung verfügen, gelten für weitere sicherheitsempfindliche Aufträge als geeignet. Die Fachstelle BS prüft, ob das Sicherheitskonzept angepasst werden muss.
+
+#### Art. 66
+
+**Internationale Betriebssicherheitsbescheinigung**
+
+Die Fachstelle BS stellt dem Betrieb auf dessen Antrag hin eine internationale Betriebssicherheitsbescheinigung aus.
+
+#### Art. 67
+
+**Widerruf der Betriebssicherheitserklärung**
+
+<sup>1</sup>
+
+Die Fachstelle BS widerruft die Betriebssicherheitserklärung, wenn:
+
+- a. der Betrieb seine Pflichten nach Artikel 63 nicht erfüllt;
+- b. sich im Rahmen einer Wiederholung des Verfahrens ein Sicherheitsrisiko ergibt.
+
+<sup>2</sup> Sie teilt den Widerruf mittels Verfügung dem Betrieb und der Auftraggeberin mit.
+
+<sup>3</sup> Wird die Betriebssicherheitserklärung widerrufen, so zieht die Auftraggeberin den Auftrag umgehend zurück; vorbehalten bleibt Artikel 58 Absatz 3. Der Betrieb hat keinen Anspruch auf Entschädigung.
+
+### 6. Abschnitt: Wiederholung des Verfahrens und Rechtsschutz
+
+#### Art. 68
+
+**Wiederholung des Verfahrens**
+
+Das Betriebssicherheitsverfahren wird wiederholt, wenn:
+
+- a. im Zeitpunkt des Ablaufs der Gültigkeit der Betriebssicherheitserklärung ein sicherheitsempfindlicher Auftrag hängig ist;
+- b. konkrete Anhaltspunkte vorliegen, dass in Folge wesentlicher Änderungen im Betrieb neue Sicherheitsrisiken entstanden sind.
+
+#### Art. 69
+
+**Rechtsschutz**
+
+<sup>1</sup>
+
+Der Betrieb hat nach Eröffnung einer Verfügung der Fachstelle BS 30 Tage Zeit, um:
+
+- a. Einsicht in die Unterlagen zu nehmen;
+- b. die Berichtigung falscher Daten oder die Vernichtung nicht mehr aktueller Daten zu verlangen;
+- c. einen Bestreitungsvermerk anbringen zu lassen;
+- d. beim Bundesverwaltungsgericht Beschwerde zu führen.
+
+<sup>2</sup> Die Einschränkung des Auskunftsrechts richtet sich nach Artikel 26 DSG[^69-1].[^69-2]
+
+[^69-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^69-2]: Fassung gemäss Anhang 2 Ziff. 5, in Kraft seit 1. Jan. 2024 ([AS 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [BBl 2017 2953](https://fedlex.data.admin.ch/eli/fga/2017/647)).
+
+### 7. Abschnitt: Bearbeitung von Personendaten
+
+#### Art. 70
+
+**Informationssystem zum Betriebssicherheitsverfahren**
+
+<sup>1</sup> Die Fachstelle BS betreibt zur Durchführung und Bewirtschaftung des Betriebssicherheitsverfahrens ein Informationssystem.
+
+<sup>2</sup> Im Informationssystem können besonders schützenswerte Personendaten nach Artikel 5 Buchstabe c DSG[^70-1] bearbeitet werden, sofern dies zur Durchführung des Betriebssicherheitsverfahrens erforderlich ist.[^70-2]
+
+<sup>3</sup>
+
+Das Informationssystem enthält folgende Daten:
+
+- a. die Daten nach den Artikeln 56 und 59 Absatz 3;
+- b. das Ergebnis der Beurteilung nach Artikel 55 Absatz 2;
+- c. die Ergebnisse der für das Betriebssicherheitsverfahren erforderlichen Personensicherheitsprüfungen nach Artikel 60 Absatz 1;
+- d. den Entscheid der Fachstelle BS nach Artikel 60 Absatz 2;
+- e. die Namen aller Betriebe mit einer Betriebssicherheitserklärung;
+- f. die Massnahmen allfälliger Kontrollen nach Artikel 64;
+- g. Daten und Akten aus Beschwerdeverfahren.
+
+<sup>4</sup> Die Fachstelle BS ist für die Sicherheit des Informationssystems sowie die rechtmässige Bearbeitung der Personendaten verantwortlich.
+
+[^70-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^70-2]: Fassung gemäss Anhang 2 Ziff. 5, in Kraft seit 1. Jan. 2024 ([AS 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [BBl 2017 2953](https://fedlex.data.admin.ch/eli/fga/2017/647)).
+
+#### Art. 71
+
+**Zugriffsrechte und Datenbekanntgabe**
+
+<sup>1</sup>
+
+Die folgenden Stellen haben im Abrufverfahren Zugriff auf die nachstehenden Daten:
+
+- a. Auftraggeberinnen: auf die Daten nach Artikel 70 Absatz 3 Buchstaben b und d–g;
+- b. betroffene Betriebe, sofern sie vom Bundesrat gestützt auf Artikel 31 Absatz 1 Buchstabe a ermächtigt worden sind, in ihrem Zuständigkeitsbereich Personensicherheitsprüfungen einzuleiten: auf die Daten nach Artikel 70 Absatz 3 Buchstabe d.
+
+<sup>2</sup> Die Fachstelle BS kann zudem Daten nach Artikel 70 Absatz 3 Buchstaben b–d weiteren Stellen des Bundes bekanntgeben, sofern dies zur Gewährleistung der Informationssicherheit erforderlich ist.
+
+#### Art. 72
+
+**Datenaufbewahrung, -archivierung und -vernichtung**
+
+<sup>1</sup> Die Fachstelle BS bewahrt die Daten so lange auf, wie der betroffene Betrieb im Besitz einer Betriebssicherheitserklärung ist, längstens jedoch zehn Jahre.
+
+<sup>2</sup> Die Archivierung der Daten richtet sich nach den Vorschriften der Archivierungsgesetzgebung.
+
+<sup>3</sup> Wird das Betriebssicherheitsverfahren eingestellt, so werden alle damit zusammenhängenden Daten und Akten spätestens nach drei Monaten vernichtet.
+
+### 8. Abschnitt: Bestimmungen des Bundesrats
+
+#### Art. 73
+
+Der Bundesrat regelt:
+
+- a. das Betriebssicherheitsverfahren im Einzelnen;
+- b. die Anwendung des Betriebssicherheitsverfahrens auf Subunternehmen;
+- c. die Organisation der Fachstelle BS;
+- d. die Datensicherheit im Informationssystem nach Artikel 70;
+- e. die periodische Kontrolle der Bearbeitung von Personendaten durch eine externe Stelle.
+
+## 5. Kapitel: Kritische Infrastrukturen
+
+#### Art. 74
+
+**Aufgaben des Bundes**
+
+<sup>1</sup> Der Bund unterstützt die Betreiberinnen von kritischen Infrastrukturen, um zu gewährleisten, dass Netz- und Systemunterbrechungen sowie Missbräuche selten, von kurzer Dauer und beherrschbar sind und das Schadensausmass gering ist.
+
+<sup>2</sup>
+
+Die Unterstützung im Bereich der Informationssicherheit umfasst:
+
+- a. die frühzeitige Identifizierung und Bewertung von Bedrohungen, Gefahren, Schwachstellen und Sicherheitslücken;
+- b. die Erkennung von Vorfällen;
+- c. die Erhaltung und Wiederherstellung der Informationssicherheit nach einem Vorfall;
+- d. die Nachbearbeitung von Vorfällen.
+
+<sup>3</sup> Der Bund führt einen nationalen Frühwarndienst und eine Anlaufstelle für präventive und reaktive Massnahmen im Bereich der technischen Informationssicherheit.
+
+<sup>4</sup> Er sorgt dafür, dass die Betreiberinnen von kritischen Infrastrukturen mit den zuständigen Stellen des Bundes sowie gegenseitig Informationen sicher austauschen können.
+
+<sup>5</sup> Der Bundesrat bezeichnet die für diese Aufgaben zuständigen Stellen des Bundes.
+
+#### Art. 75
+
+**Bearbeitung von Personendaten**
+
+<sup>1</sup> Die Stellen nach Artikel 74 Absatz 5 können zur Erfüllung ihrer Aufgaben Adressierungselemente nach Artikel 3 Buchstabe f FMG[^75-1] und damit zusammenhängende Personendaten bearbeiten.
+
+<sup>2</sup>
+
+Sie können die Daten nach Absatz 1 auch bearbeiten, wenn diese:
+
+- a. Informationen über religiöse, weltanschauliche oder politische Ansichten enthalten; die Bearbeitung ist nur zulässig, wenn sie für die Bewertung von konkreten Bedrohungen und Gefahren im Bereich der Informationssicherheit erforderlich ist;
+- b. Informationen über administrative oder strafrechtliche Verfolgungen und Sanktionen enthalten.
+
+<sup>3</sup> Die Personendaten können bearbeitet werden, ohne dass dies für die betroffenen Personen ersichtlich ist.
+
+<sup>4</sup> Liegen konkrete Hinweise auf den Missbrauch einer Identität oder auf die unberechtigte Verwendung von Adressierungselementen vor, so sind die betroffenen Personen zu informieren. Vorbehalten bleibt Artikel 20 DSG[^75-2].[^75-3]
+
+[^75-1]: [SR 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
+[^75-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^75-3]: Fassung des zweiten Satzes gemäss Anhang 2 Ziff. 5, in Kraft seit 1. Jan. 2024 ([AS 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [BBl 2017 2953](https://fedlex.data.admin.ch/eli/fga/2017/647)).
+
+#### Art. 76
+
+**Zusammenarbeit im Inland**
+
+<sup>1</sup> Die Stellen nach Artikel 74 Absatz 5 können den Betreiberinnen von kritischen Infrastrukturen Personendaten nach Artikel 75 bekanntgeben, sofern dies zur Gewährleistung der Informationssicherheit zweckmässig ist.
+
+<sup>2</sup> Sie können den Anbieterinnen und Betreiberinnen von Informatik- und Kommunikationsdiensten Personendaten nach Artikel 75 bekanntgeben, sofern dies zur Gewährleistung der Informationssicherheit von kritischen Infrastrukturen erforderlich ist.
+
+<sup>3</sup> Die Betreiberinnen von kritischen Infrastrukturen sowie die Anbieterinnen und Betreiberinnen von Informatik- und Kommunikationsdiensten können den Stellen nach Artikel 74 Absatz 5 Daten, einschliesslich Personendaten, die sich auf einen bestimmten Vorfall beziehen, bekanntgeben. Die Stellen nach Artikel 74 Absatz 5 dürfen diese Daten nur mit ausdrücklicher Einwilligung der Datenlieferantinnen zu Strafverfolgungszwecken weitergeben.
+
+#### Art. 77
+
+**Internationale Zusammenarbeit**
+
+<sup>1</sup> Die Stellen nach Artikel 74 Absatz 5 können mit ausländischen und internationalen Stellen, die für den Schutz kritischer Infrastrukturen zuständig sind, Daten nach Artikel 75 austauschen, wenn sie diese Daten für die Erfüllung von Aufgaben benötigen, die den Aufgaben nach Artikel 74 entsprechen.
+
+<sup>2</sup> Der Datenaustausch nach Absatz 1 ist nur dann zulässig, wenn die ausländischen und internationalen Stellen die bestimmungsgemässe Verwendung gewährleisten.
+
+<sup>3</sup> Werden die Daten für ein rechtliches Verfahren im Ausland benötigt, so gelten die Bestimmungen über die Amts- und Rechtshilfe.
+
+#### Art. 78
+
+**Informationssystem zur Unterstützung von kritischen Infrastrukturen**
+
+<sup>1</sup> Die Stellen nach Artikel 74 Absatz 5 betreiben ein Informationssystem, um den sicheren Austausch von Informationen mit den Betreiberinnen von kritischen Infrastrukturen zu gewährleisten.
+
+<sup>2</sup>
+
+Das Informationssystem enthält folgende Informationen:
+
+- a. Beschreibungen und Einschätzungen von Bedrohungen und Gefahren;
+- b. Anweisungen zur technischen Erkennung und Behebung von Vorfällen;
+- c. Vorfallanalysen und Sicherheitsempfehlungen;
+- d. Analysen betreffend Schwachstellen von Informatikmitteln;
+- e. Korrespondenz.
+
+<sup>3</sup> Die Informationen nach Absatz 2 können auch Personendaten nach Artikel 75 enthalten.
+
+#### Art. 79
+
+**Datenaufbewahrung und -archivierung**
+
+<sup>1</sup> Die Stellen nach Artikel 74 Absatz 5 bewahren Personendaten nur so lange auf, wie dies zur Abwehr von Gefahren oder zur Erkennung von Vorfällen zweckmässig ist, höchstens jedoch fünf Jahre.
+
+<sup>2</sup> Die Archivierung der Daten richtet sich nach den Vorschriften der Archivierungsgesetzgebung.
+
+#### Art. 80
+
+**Bestimmungen des Bundesrats**
+
+Der Bundesrat regelt:
+
+- a. die Aufgabenteilung, die Zusammenarbeit und den Austausch von Informationen zwischen den Stellen nach Artikel 74 Absatz 5 und dem NDB;
+- b. die Bekanntgabe von Informationen an Betreiberinnen von kritischen Infrastrukturen, Dritte sowie ausländische und internationale Stellen;
+- c. die Verantwortung für den Datenschutz in Zusammenhang mit dem Informationssystem nach Artikel 78 sowie die Datensicherheit;
+- d. die periodische Kontrolle der Bearbeitung von Personendaten im Informationssystem nach Artikel 78 durch eine externe Stelle.
 
 ## 6. Kapitel: Organisation und Vollzug
 
-### 1. Abschnitt: …
+### 1. Abschnitt: Organisation
 
-#### Art. 81–83
+#### Art. 81
+
+**Informationssicherheitsbeauftragte**
+
+<sup>1</sup>
+
+Die folgenden Behörden und Organisationen bezeichnen für ihren Zuständigkeitsbereich eine Informationssicherheitsbeauftragte oder einen Informationssicherheitsbeauftragten sowie eine Stellvertreterin oder einen Stellvertreter:
+
+- a. Bundesrat;
+- b. Verwaltungsdelegation der Bundesversammlung;
+- c. eidgenössische Gerichte;
+- d. Bundesanwaltschaft;
+- e. Schweizerische Nationalbank;
+- f. Departemente und Bundeskanzlei.
+
+<sup>2</sup>
+
+Die Informationssicherheitsbeauftragten haben folgende Aufgaben:
+
+- a. Sie beraten und unterstützen die zuständigen Stellen in ihrem Bereich bei der Erfüllung ihrer Aufgaben und Pflichten nach diesem Gesetz.
+- b. Sie steuern im Auftrag ihrer Behörde oder Organisation die Fachorganisation der Informationssicherheit sowie das entsprechende Risikomanagement.
+- c. Sie überprüfen im Auftrag ihrer Behörde oder Organisation die Einhaltung der Vorgaben der Informationssicherheit, erstatten Bericht und beantragen die erforderlichen Massnahmen.
+- d. Sie können der Fachstelle des Bundes für Informationssicherheit sowie den Stellen nach Artikel 74 Absatz 5 sicherheitsrelevante Vorfälle melden.
+
+<sup>3</sup> Den Informationssicherheitsbeauftragten werden keine Aufgaben übertragen, die einen Interessenkonflikt mit Aufgaben nach Absatz 2 zur Folge haben können.
+
+#### Art. 82
+
+**Konferenz der Informationssicherheitsbeauftragten**
+
+<sup>1</sup> Die Konferenz der Informationssicherheitsbeauftragten wird aus den Informationssicherheitsbeauftragten nach Artikel 81 Absatz 1 sowie zwei Vertreterinnen oder Vertretern der Kantone und der oder dem Eidgenössischen Datenschutz- und Öffentlichkeitsbeauftragten gebildet.
+
+<sup>2</sup>
+
+Sie hat folgende Aufgaben:
+
+- a. Sie fördert den einheitlichen Vollzug dieses Gesetzes.
+- b. Sie wirkt bei der Standardisierung der Anforderungen und Massnahmen nach Artikel 85 mit.
+- c. Sie berät die Fachstelle des Bundes für Informationssicherheit in allen Fragen der Vollzugskoordination und in Belangen von strategischer Bedeutung.
+- d. Sie sorgt für den Informationsaustausch insbesondere in Zusammenhang mit dem Risikomanagement sowie mit Problemen und Vorfällen im Bereich der Informationssicherheit.
+- e. Sie sorgt für die Koordination mit den anderen Stellen, die Aufgaben im Bereich der Informationssicherheit erfüllen.
+
+<sup>3</sup> Die Konferenz gibt sich ein Geschäftsreglement.
+
+#### Art. 83
+
+**Fachstelle des Bundes für Informationssicherheit**
+
+<sup>1</sup>
+
+Die Fachstelle des Bundes für Informationssicherheit hat folgende Aufgaben:
+
+- a. Sie berät und unterstützt die verpflichteten Behörden, deren Informationssicherheitsbeauftragte und die Kantone beim Vollzug dieses Gesetzes.
+- b. Sie kann bei Gefährdungen der Informationssicherheit des Bundes Empfehlungen abgeben.
+- c. Sie kann auf Antrag der verpflichteten Behörden Überprüfungen durchführen.
+- d. Sie kann auf Antrag der verpflichteten Behörden die Risiken für die Informationssicherheit beim Einsatz neuartiger Technologien beurteilen.
+- e. Sie kann auf Antrag der verpflichteten Behörden und Organisationen prüfen, ob deren Prozesse, Mittel, Einrichtungen, Gegenstände und Dienstleistungen den Anforderungen an die Informationssicherheit entsprechen.
+- f. Sie kann auf Antrag der verpflichteten Behörden die Informationssicherheit bei wichtigen behördenübergreifenden Projekten steuern und koordinieren.
+- g. Sie ist Ansprechstelle für Fachkontakte mit inländischen, ausländischen und internationalen Stellen.
+- h. Sie erstattet dem Bundesrat jährlich Bericht über den Stand der Informationssicherheit des Bundes.
+
+<sup>2</sup> Die oder der Informationssicherheitsbeauftragte des Bundesrats ist gleichzeitig die Leiterin oder der Leiter der Fachstelle des Bundes für Informationssicherheit.
+
+<sup>3</sup> Der Bundesrat regelt die Organisation der Fachstelle des Bundes für Informationssicherheit. Er kann ihr weitere Aufgaben für die Bundesverwaltung und die Armee zuweisen.
 
 ### 2. Abschnitt: Vollzug
 
-#### Art. 84–86
+#### Art. 84
+
+**Ausführungsbestimmungen**
+
+<sup>1</sup> Die verpflichteten Behörden erlassen die für den Vollzug dieses Gesetzes erforderlichen Ausführungsbestimmungen. Der Bundesrat kann den Erlass von Ausführungsbestimmungen für Bundesratsgeschäfte der Bundeskanzlei übertragen.
+
+<sup>2</sup> Zuständigkeiten, die das vorliegende Gesetz den verpflichteten Behörden zuweist, werden für die Bundesversammlung durch die Verwaltungsdelegation der Bundesversammlung wahrgenommen.
+
+<sup>3</sup> Die Ausführungsbestimmungen des Bundesrats gelten für die verpflichteten Behörden sinngemäss, sofern diese keine eigenen Ausführungsbestimmungen erlassen.
+
+#### Art. 85
+
+**Standardanforderungen und -massnahmen**
+
+<sup>1</sup> Der Bundesrat legt standardisierte Sicherheitsanforderungen sowie standardisierte organisatorische, personelle, technische und bauliche Massnahmen zur Gewährleistung der Informationssicherheit nach dem Stand von Wissenschaft und Technik fest.
+
+<sup>2</sup> Er kann diese Aufgabe delegieren.
+
+<sup>3</sup> Die Standardanforderungen und -massnahmen haben empfehlenden Charakter, sofern sie von den verpflichteten Behörden nicht für verbindlich erklärt werden.
+
+#### Art. 86
+
+**Kantone**
+
+<sup>1</sup> Die Kantone sorgen für die periodische Überprüfung der Umsetzung und Wirksamkeit der Informationssicherheit nach Artikel 3.
+
+<sup>2</sup> Sie informieren die Fachstelle des Bundes für Informationssicherheit über die Ergebnisse der Überprüfungen nach Absatz 1.
+
+<sup>3</sup> Sie bezeichnen für Fragen der Informationssicherheit je eine Dienststelle als Ansprechpartnerin für die verpflichteten Behörden.
+
+<sup>4</sup> Der Bundesrat legt fest, in welchen Fällen die Kantone die Leistungen der Fachstellen nach diesem Gesetz für ihre eigene Informationssicherheit in Anspruch nehmen können. Die Leistungen sind gebührenpflichtig. Der Bundesrat legt die Höhe der Gebühren fest.
 
 #### Art. 87
 
@@ -72,13 +1301,48 @@ Der Bundesrat ist ermächtigt, völkerrechtliche Verträge im Bereich der Inform
 
 #### Art. 88
 
-## 7. Kapitel: …
+**Evaluation**
 
-#### Art. 89–92
+<sup>1</sup> Der Bundesrat sorgt dafür, dass die Umsetzung, die Zweckmässigkeit, die Wirksamkeit und die Wirtschaftlichkeit dieses Gesetzes periodisch durch eine unabhängige Stelle, wie die Eidgenössische Finanzkontrolle, überprüft werden.
 
-Datum des Inkrafttretens: [^8992-1] Artikel 87: 1. Mai 2022 Die übrigen Bestimmungen werden zu einem späteren Zeitpunkt in Kraft gesetzt.
+<sup>2</sup> Er erstattet den zuständigen Kommissionen der Bundesversammlung regelmässig Bericht.
 
-[^8992-1]: BRB vom 6. April 2022
+## 7. Kapitel: Schlussbestimmungen
+
+#### Art. 89
+
+**Änderung anderer Erlasse**
+
+Die Änderung anderer Erlasse wird im Anhang 1 geregelt.
+
+#### Art. 90
+
+**Übergangsbestimmungen**
+
+<sup>1</sup> Nach bisherigem Recht klassifizierte Informationen werden an die Bestimmungen dieses Gesetzes angepasst, sobald sie nach Inkrafttreten dieses Gesetzes zum ersten Mal bearbeitet werden.
+
+<sup>2</sup> Informatikmittel müssen innerhalb von zwei Jahren nach Inkrafttreten dieses Gesetzes eingestuft werden. Technische Massnahmen zur Gewährleistung der Informationssicherheit müssen innerhalb von sechs Jahren nach Inkrafttreten dieses Gesetzes umgesetzt werden.
+
+<sup>3</sup> Nach bisherigem Recht im Rahmen von Personensicherheitsprüfungen ausgestellte Sicherheits- und Risikoerklärungen sowie nach bisherigem Recht ausgestellte Betriebssicherheitserklärungen sind fünf Jahre ab deren Ausstellung gültig.
+
+#### Art. 91
+
+**Koordination mit anderen Erlassen**
+
+Die Koordination mit anderen Erlassen wird im Anhang 2 geregelt.
+
+#### Art. 92
+
+**Referendum und Inkrafttreten**
+
+<sup>1</sup> Dieses Gesetz untersteht dem fakultativen Referendum.
+
+<sup>2</sup> Der Bundesrat bestimmt das Inkrafttreten.
+
+Datum des Inkrafttretens: Artikel 87: 1. Mai 2022[^92-1] Die übrigen Bestimmungen: 1. Januar 2024[^92-2]
+
+[^92-1]: BRB vom 6. April 2022
+[^92-2]: V vom 8. Nov. 2023 ([AS 2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650))
 
 Anhang 1
 
@@ -98,26 +1362,6 @@ Anhang 2
 
 ## Koordination anderer Erlasse
 
-### 1. Bundesgesetzes vom 21. März 1997 über Massnahmen zur Wahrung der inneren Sicherheit (BWIS)
+…[^annex2-lvlu1-1]
 
-…
-
-### 2. Bundespersonalgesetz vom 24. März 2000 (BPG)
-
-…
-
-### 3. Strafgesetzbuch
-
-…
-
-### 4. Strafregistergesetzes vom 17. Juni 2016 (StReG)
-
-…
-
-### 5. Datenschutzgesetz vom 25. September 2020 (DSG)
-
-*…*
-
-### 6. Bundesgesetz vom 13. Juni 2008 über die polizeilichen Informationssysteme des Bundes (BPI)
-
-…
+[^annex2-lvlu1-1]: Die Koordinationbestimmungen können unter [AS 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232)konsultiert werden.
