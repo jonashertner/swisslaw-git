@@ -4,13 +4,12 @@ number: "351.5"
 title: Ergänzungsleistungsgesetz
 short: ELG
 language: de
-version: 2021-01-01
-corrected: 2021-01-11
+version: 2024-01-01
 version_adopted: 2015-04-28
 adopted: 1991-09-22
 in_force: 1992-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/351.5"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3063/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3927/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3063/pdf_file"
 
 (ELG)
 
-vom 22.09.1991 (Stand 01.01.2021)
+vom 22.09.1991 (Stand 01.01.2024)
 
 Der Grosse Rat des Kantons St.Gallen
 
@@ -32,7 +31,7 @@ in Anwendung der Bundesgesetzgebung über Ergänzungsleistungen zur Alters-, Hin
 als Gesetz:[^ingress-3]
 
 [^ingress-1]: ABl 1991, 305.
-[^ingress-2]: Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung, SR [831.3](https://db.clex.ch/link/Bund/831.3/de).
+[^ingress-2]: SR [831.3](https://www.fedlex.admin.ch/de/cc/internal-law/83#831.3).
 [^ingress-3]: Abgekürzt ELG. nGS 34–30. Vom Grossen Rat erlassen am 8. Mai 1991; in der Volksabstimmung angenommen worden und rechtsgültig geworden am 22. September 1991; vom Bundesrat genehmigt am 29. November 1991; in Vollzug ab 1. Januar 1992.
 
 ## I. Ordentliche Ergänzungsleistungen
@@ -43,7 +42,7 @@ als Gesetz:[^ingress-3]
 
 <sup>1</sup> Der Anspruch auf ordentliche Ergänzungsleistungen richtet sich nach der Bundesgesetzgebung.[^1-1]
 
-[^1-1]: Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung, SR [831.3](https://db.clex.ch/link/Bund/831.3/de).
+[^1-1]: Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung, SR [831.3](https://www.fedlex.admin.ch/de/cc/internal-law/83#831.3).
 
 #### Art. 2
 
@@ -166,11 +165,7 @@ als Gesetz:[^ingress-3]
 
 #### Art. 12
 
-**c) Rückerstattung[^12-1]**
-
-<sup>1</sup> Die in den letzten fünf Jahren an Alleinstehende oder an Ehepaare ausgerichteten ausserordentlichen Ergänzungsleistungen werden aus dem Nachlass des Bezügers zurückerstattet, soweit der Nachlass nach Abzug der Todesfallkosten den halben Betrag des für Alleinstehende und für Ehepaare massgebenden Reinvermögens nach Art. 5 lit. b dieses Gesetzes übersteigt.
-
-[^12-1]: Die Aufhebung von Art. 15 Abs. 3 durch den VIII. Nachtrag zum Ergänzungsleistungsgesetz vom 28. April 2015, nGS 2015-086, wird ab der Erhöhung der anrechenbaren Mietzinsmaxima durch den Bund angewendet, jene von Art. 12 drei Jahre später.
+**…**
 
 #### Art. 13
 
@@ -214,9 +209,7 @@ als Gesetz:[^ingress-3]
 
 <sup>2</sup> Die Gemeindezweigstelle leitet die Mitteilung und eigene Wahrnehmungen an die Sozialversicherungsanstalt des Kantons St.Gallen.
 
-<sup>3</sup> Die Sozialversicherungsanstalt des Kantons St.Gallen meldet der kantonalen Steuerverwaltung jährlich die Bezüger von ausserordentlichen Ergänzungsleistungen.[^15-1]
-
-[^15-1]: Die Aufhebung von Art. 15 Abs. 3 durch den VIII. Nachtrag zum Ergänzungsleistungsgesetz vom 28. April 2015, nGS 2015-086, wird ab der Erhöhung der anrechenbaren Mietzinsmaxima durch den Bund angewendet, jene von Art. 12 drei Jahre später.
+<sup>3</sup> …
 
 #### Art. 15a
 
