@@ -4,13 +4,13 @@ number: "850.19"
 title: Kantonale Asylverordnung
 short: kAV
 language: de
-version: 2023-04-01
-valid_until: 2023-12-31
-version_adopted: 2022-11-29
+version: 2024-01-01
+valid_until: 2024-12-31
+version_adopted: 2023-12-12
 adopted: 2007-10-16
 in_force: 2008-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/850.19"
-pdf: "https://bl.clex.ch/api/de/versions/3461/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4015/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,16 +19,16 @@ pdf: "https://bl.clex.ch/api/de/versions/3461/pdf_file"
 
 (kAV)
 
-Vom 16.10.2007 (Stand 01.04.2023)
+Vom 16.10.2007 (Stand 01.01.2024)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
-gestützt auf § 74 Abs. 2 der Verfassung des Kantons Basel-Landschaft vom 17. Mai 1984[^ingress-1] sowie auf die §§ 6 Abs. 3 und 32 Abs. 3 des Gesetzes über die Sozial- und die Jugendhilfe (Sozialhilfegesetz, SHG) vom 21. Juni 2001[^ingress-2],
+gestützt auf § 74 Abs. 2 der Verfassung des Kantons Basel-Landschaft vom 17. Mai 1984[^ingress-1] und das Gesetz über die Sozial- und die Jugendhilfe (Sozialhilfegesetz, SHG) vom 21. Juni 2001[^ingress-2],
 
 beschliesst:
 
 [^ingress-1]: [SGS 100](https://bl.clex.ch/data/100/de/art74)
-[^ingress-2]: [SGS 850](https://bl.clex.ch/data/850/de/art6)
+[^ingress-2]: [SGS 850](https://bl.clex.ch/data/850/de)
 
 ## 1 Allgemeine Bestimmungen
 
@@ -84,22 +84,26 @@ beschliesst:
 
 **Eingliederung**
 
-<sup>1</sup> Die Gemeinden vollziehen gegenüber den Personen gemäss § 1 Bst. b und c die Integrationsmassnahmen gemäss § 16 des Sozialhilfegesetzes.
+<sup>1</sup> Die Gemeinden vollziehen gegenüber den Personen gemäss § 1 Abs. 1 Bst. b und c die Integrationsmassnahmen gemäss § 16 des Sozialhilfegesetzes.
 
 - a. …
 - b. …
 
-<sup>2</sup> Die Gemeinden vollziehen gegenüber den Personen gemäss § 1 Bst. a, d und e die Beschäftigungsprogramme gemäss § 16 Abs. 2 Bst. d des Sozialhilfegesetzes.
+<sup>2</sup> Die Gemeinden vollziehen gegenüber den Personen gemäss § 1 Abs. 1 Bst. a, d und e die Beschäftigungsprogramme gemäss § 16 Abs. 2 Bst. d des Sozialhilfegesetzes.
 
 <sup>3</sup> Die Entschädigungen des Kantons an die Gemeinden richten sich in Abweichung von § 34 SHG nach § 18 Abs. 3 Bst. a und a<sup>bis</sup>.
 
+<sup>4</sup> Der Kanton kann zur Umsetzung der bundesrechtlichen Programme Leistungsvereinbarungen mit Dritten abschliessen.
+
 #### § 4a
 
-**Assessmentcenter**
+**Zentrum Integrationsförderung (ZIF)**
 
-<sup>1</sup> Für vorläufig Aufgenommene, vorläufig aufgenommene Flüchtlinge und Personen mit einem positiven Asylentscheid stellt der Kanton Assessmentcenter zur Verfügung.
+<sup>1</sup> Für vorläufig Aufgenommene, vorläufig aufgenommene Flüchtlinge und Personen mit einem positiven Asylentscheid stellt der Kanton ein Zentrum Integrationsförderung (ZIF) zur Verfügung. Das ZIF kann auch weiteren Personengruppen zur Verfügung stehen.
 
-<sup>2</sup> Die Gemeinden sind verpflichtet, die Personen gemäss Abs. 1 den Assessmentcentern zuzuweisen und die entsprechenden Empfehlungen zu berücksichtigen.
+<sup>2</sup> Die Gemeinden sind verpflichtet, die Personen gemäss Abs. 1 dem ZIF zuzuweisen und die entsprechenden Empfehlungen zu berücksichtigen.
+
+<sup>3</sup> In Einzelfällen kann der Kanton spezifische Integrationsmassnahmen direkt finanzieren.
 
 #### § 5
 
@@ -129,7 +133,7 @@ beschliesst:
 
 **Mass des Grundbedarfs in einer Individualunterkunft**
 
-<sup>1</sup> Die Unterstützungen an bedürftige Personen gemäss § 1 Bst. a, b und c in Individualunterkünften betragen pro Haushalt und Monat bei:
+<sup>1</sup> Die Unterstützungen an bedürftige Personen gemäss § 1 Abs. 1 Bst. a, b und c in Individualunterkünften betragen pro Haushalt und Monat bei:
 
 - a. 1 Person CHF 609.–;
 - b. 2 Personen CHF 993.–;
@@ -150,7 +154,7 @@ beschliesst:
 
 **Mass des Grundbedarfs in einer Kollektivunterkunft**
 
-<sup>1</sup> Die Unterstützung an bedürftige Personen gemäss § 1 Bst. a, b und c in Kollektivunterkünften beträgt pro Person und Monat CHF 426.–, jedoch höchstens die Beträge gemäss § 8 Abs. 1.
+<sup>1</sup> Die Unterstützung an bedürftige Personen gemäss § 1 Abs. 1 Bst. a, b und c in Kollektivunterkünften beträgt pro Person und Monat CHF 426.–, jedoch höchstens die Beträge gemäss § 8 Abs. 1.
 
 <sup>2</sup> Sie deckt pauschal alle Aufwendungen ab, so insbesondere für Nahrung, Kleidung, persönliche Auslagen, Post, Telefon und Transportkosten.
 
@@ -164,7 +168,7 @@ beschliesst:
 
 **Mass des Grundbedarfs für Personen gemäss § 1 Bst. d und e**
 
-<sup>1</sup> Die Unterstützung an bedürftige Personen gemäss § 1 Bst. d und e beträgt pro Person und Tag CHF 8.30.
+<sup>1</sup> Die Unterstützung an bedürftige Personen gemäss § 1 Abs. 1 Bst. d und e beträgt pro Person und Tag CHF 8.30.
 
 <sup>2</sup> Sie deckt pauschal alle Aufwendungen für den Lebensunterhalt ab und ist nach Möglichkeit in Form von Sachleistungen abzugeben.
 
@@ -176,7 +180,7 @@ beschliesst:
 
 <sup>1</sup> Bei Personen in einer Pflegefamilie, in einem Heim, in einer Klinik oder in einer ähnlichen Einrichtung richtet sich das Mass der Unterstützung an die Aufwendungen für den Grundbedarf nach den aktuellen Bedürfnissen.
 
-<sup>2</sup> Das Mass der Unterstützung beträgt monatlich höchstens CHF 207.– für Personen gemäss § 1 Bst. a, b und c und monatlich höchstens CHF 83.– für Personen gemäss § 1 Bst. d und e.
+<sup>2</sup> Das Mass der Unterstützung beträgt monatlich höchstens CHF 207.– für Personen gemäss § 1 Abs. 1 Bst. a, b und c und monatlich höchstens CHF 83.– für Personen gemäss § 1 Abs. 1 Bst. d und e.
 
 <sup>3</sup> Das Mass der Unterstützung deckt pauschal alle Aufwendungen ab, so insbesondere für Kleidung, persönliche Auslagen, Post, Telefon und Transportkosten.
 
@@ -198,7 +202,7 @@ beschliesst:
 
 <sup>1</sup> Der Kanton gewährt in Ausnahmefällen bedürftigen Personen gemäss § 1 Unterstützungen an die Aufwendungen für absolut unerlässliche medizinische Behandlung und Pflege, die durch die obligatorische Kranken- und Unfallversicherung nicht gedeckt sind. Vorbehalten bleibt Abs. 2.
 
-<sup>2</sup> Bei bedürftigen Personen gemäss § 1 Bst. b, die länger als 7 Jahre seit der Einreise in der Schweiz sind, tragen die Gemeinden die Kosten gemäss Abs. 1.
+<sup>2</sup> Bei bedürftigen Personen gemäss § 1 Abs. 1 Bst. b, die länger als 7 Jahre seit der Einreise in der Schweiz sind, tragen die Gemeinden die Kosten gemäss Abs. 1.
 
 #### § 13
 
@@ -212,35 +216,23 @@ beschliesst:
 
 #### § 14
 
-**Zahnbehandlungen, Kostenvoranschlag**
+**Zahnbehandlungen**
 
 <sup>1</sup> Die Gemeinden gewähren bedürftigen Personen gemäss § 1 Unterstützungen an die Aufwendungen für schmerzstillende Zahnbehandlungen.
 
 <sup>2</sup> Sie gewähren bedürftigen Personen gemäss § 1 Bst. b Unterstützungen für einfache, wirtschaftliche und zweckmässige Zahnsanierungen im Rahmen des Sozialversicherungstarifs.
 
-<sup>3</sup> Die gesuchstellende Person hat vor Durchführung einer Behandlung einen Kostenvoranschlag einzureichen. Ausgenommen sind die Fälle notfallmässig vorzunehmender, schmerzstillender Zahnbehandlungen.
+<sup>3</sup> …
 
 #### § 15
 
-**Verfahren bei Zahnbehandlungen**
-
-<sup>1</sup> Gesuche um Unterstützung gemäss § 14 sind der Sozialhilfebehörde einzureichen.
-
-<sup>2</sup> Die Sozialhilfebehörde entscheidet über die Gesuche bis CHF 300.– direkt. Höhere Gesuche leitet sie an das Amt weiter.
-
-<sup>3</sup> Das Amt unterbreitet die Gesuche der zuständigen zahnärztlichen Person gemäss § 14 Abs. 3 der Sozialhilfeverordnung[^15-1]. Die zahnärztliche Person erstattet dem Amt Bericht nach Massgabe des Vertrags gemäss § 14 Abs. 3 der Sozialhilfeverordnung.
-
-<sup>4</sup> Das Amt kann von der gesuchstellenden Person eine Überprüfung durch den Vertrauenszahnarzt seiner Wahl verlangen. Die Kosten der Überprüfung trägt der Kanton.
-
-<sup>5</sup> Das Amt leitet den Bericht der zahnärztlichen Person sowie gegebenenfalls des Vertrauenszahnarztes an die Sozialhilfebehörde zum Entscheid über das Gesuch weiter.
-
-[^15-1]: [SGS 850.11](https://bl.clex.ch/data/850.11/de/art14)
+**…**
 
 #### § 15a
 
 **Zuschüsse und Abzüge (§ 6<sup>bis</sup> und 6<sup>ter</sup> SHG)**
 
-<sup>1</sup> Personen gemäss § 1 Bst. d und e haben keinen Anspruch auf Einkommensfreibeträge.
+<sup>1</sup> Personen gemäss § 1 Abs. 1 Bst. d und e haben keinen Anspruch auf Einkommensfreibeträge.
 
 <sup>2</sup> Personen gemäss § 1 erhalten keine pauschale Minderung.
 
@@ -274,8 +266,8 @@ beschliesst:
 
 <sup>1</sup> Der Kanton entschädigt die Gemeinden für die Kosten für die Betreuung, Unterbringung, Unterstützung und Verwaltung:
 
-- a. der bedürftigen Personen gemäss § 1 Bst. a, b und c pauschal mit CHF 37.50 pro Person und Tag,
-- b. der bedürftigen Personen gemäss § 1 Bst. d und e pauschal mit CHF 26.– pro Person und Tag.
+- a. der bedürftigen Personen gemäss § 1 Abs. 1 Bst. a, b und c pauschal mit CHF 37.50 pro Person und Tag,
+- b. der bedürftigen Personen gemäss § 1 Abs. 1 Bst. d und e pauschal mit CHF 26.– pro Person und Tag.
 
 <sup>1 <sup>bis</sup></sup> Er entschädigt die Gemeinden für die Kosten der obligatorischen Kranken- und Unfallversicherung der bedürftigen Personen gemäss § 1
 
@@ -304,10 +296,10 @@ beschliesst:
 
 <sup>1</sup> Der Kanton richtet die Entschädigungen wie folgt aus:
 
-- a. für Personen gemäss § 1 Bst. a längstens bis zum Tag der Wegweisung,
-- b. für Personen gemäss § 1 Bst. b diejenigen gemäss § 18 Abs. 1 Bst. a, Abs. 1<sup>bis</sup> sowie Abs. 3 Bst. b und c längstens während 7 Jahren seit Einreise in die Schweiz,
-- c. für Personen gemäss § 1 Bst. b diejenige gemäss § 4 Abs. 2 längstens bis zur Erteilung einer kantonalen Aufenthaltsbewilligung,
-- d. für Personen gemäss § 1 Bst. c längstens bis zur Erteilung einer kantonalen Aufenthaltsbewilligung und danach die Hälfte längstens bis zur Erteilung einer Niederlassungsbewilligung,
+- a. für Personen gemäss § 1 Abs. 1 Bst. a längstens bis zum Tag der Wegweisung,
+- b. für Personen gemäss § 1 Abs. 1 Bst. b diejenigen gemäss § 18 Abs. 1 Bst. a, Abs. 1<sup>bis</sup> sowie Abs. 3 Bst. b und c längstens während 7 Jahren seit Einreise in die Schweiz,
+- c. für Personen gemäss § 1 Abs. 1 Bst. b diejenige gemäss § 4 Abs. 2 längstens bis zur Erteilung einer kantonalen Aufenthaltsbewilligung,
+- d. für Personen gemäss § 1 Abs. 1 Bst. c längstens bis zur Erteilung einer kantonalen Aufenthaltsbewilligung und danach die Hälfte längstens bis zur Erteilung einer Niederlassungsbewilligung,
 - e. für Personen gemäss § 1 Bst. d und e für die Dauer der erfolgten Unterstützung.
 
 #### § 19bis
