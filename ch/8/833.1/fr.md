@@ -4,11 +4,11 @@ title: "Loi fédérale du 19 juin 1992 sur l'assurance militaire (LAM)"
 short: LAM
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043"
 language: fr
-version: 2023-09-01
+version: 2024-01-01
 adopted: 1992-06-19
 in_force: 1994-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-1993-3043_3043_3043-20230901-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/3043_3043_3043/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-1993-3043_3043_3043-20240101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/3043_3043_3043/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/3043_3043_3043/20230901/fr"
 
 (LAM)
 
-du 19 juin 1992 (État le 1<sup>er</sup> septembre 2023)
+du 19 juin 1992 (État le 1<sup>er</sup> janvier 2024)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -464,7 +464,7 @@ Le fournisseur de prestations remet à l’assurance militaire une facture déta
 
 **Collaboration et tarifs**
 
-<sup>1</sup> L’assurance militaire peut passer des conventions avec les personnes exerçant une activité dans le domaine médical, le personnel paramédical, les hôpitaux, les centres de dépistage, les laboratoires, les établissements de cure et les entreprises de transport ou de sauvetage afin de régler leur collaboration et de fixer les tarifs.[^26-1] Elle peut confier le traitement des assurés aux seuls signataires de ces conventions. Quiconque remplit les conditions posées dans le secteur ambulatoire peut adhérer à ces conventions.[^26-2]
+<sup>1</sup> L’assurance militaire peut passer des conventions avec les personnes exerçant une activité dans le domaine médical, le personnel paramédical, les hôpitaux, les centres de dépistage, les laboratoires, les établissements de cure et les entreprises de transport ou de sauvetage afin de régler leur collaboration, de fixer les tarifs et de définir les mesures de gestion des prestations d’assurance ou des coûts de celles-ci.[^26-1] Elle peut confier le traitement des assurés aux seuls signataires de ces conventions. Quiconque remplit les conditions posées dans le secteur ambulatoire peut adhérer à ces conventions.[^26-2]
 
 <sup>2</sup> Le Conseil fédéral veille, par voie d’ordonnance, à la coordination avec les réglementations tarifaires d’autres assurances sociales et peut les déclarer applicables. Il règle le remboursement dû aux assurés qui se rendent dans un hôpital non conventionné.[^26-3]
 
@@ -481,7 +481,7 @@ En cas de manquement à l’obligation de communiquer les données prévue à l�
 
 <sup>4</sup> Les taxes doivent être égales pour tous les assurés de l’assurance militaire.
 
-[^26-1]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 25 sept. 2015 (Assurance-accidents et prévention des accidents), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4877](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 7691](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
+[^26-1]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 30 sept. 2022 (Mesures visant à freiner la hausse des coûts, volet 1*b*), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 630](https://fedlex.data.admin.ch/eli/oc/2023/630); [FF 2019 5765](https://fedlex.data.admin.ch/eli/fga/2019/2216)).
 [^26-2]: Nouvelle teneur de la phrase selon l’annexe ch. 3 de la LF du 25 sept. 2015 (Assurance-accidents et prévention des accidents), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4877](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 7691](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
 [^26-3]: Nouvelle teneur de la phrase selon l’annexe ch. 3 de la LF du 25 sept. 2015 (Assurance-accidents et prévention des accidents), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4877](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 7691](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
 [^26-4]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
@@ -703,20 +703,21 @@ Une aide en capital peut être allouée à l’assuré susceptible d’être ré
 
 **Fixation**
 
-<sup>1</sup> La rente est allouée pour une durée déterminée ou indéterminée. Le Conseil fédéral désigne, par voie d’ordonnance, les cas dans lesquels l’octroi d’une rente permanente est exclu, notamment lorsque l’assuré a atteint l’âge de la retraite fixé à l’art. 21 de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants (LAVS)[^41-1].[^41-2]
+<sup>1</sup> La rente est allouée pour une durée déterminée ou indéterminée. Le Conseil fédéral définit, par voie d’ordonnance, les cas dans lesquels aucune rente permanente ne peut être octroyée, notamment lorsque l’assuré a atteint l’âge de référence fixé à l’art. 21, al. 1, de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants (LAVS)[^41-1].[^41-2] [^41-3]
 
 <sup>2</sup> Pour l’assuré qui, lorsqu’il commence à percevoir sa rente, n’a pas encore atteint le gain d’un travailleur pleinement compétent de la même catégorie professionnelle, la rente se calcule sur ce gain plus élevé dès l’époque où il l’aurait probablement obtenu s’il n’avait pas été victime de son affection.
 
 <sup>3</sup> Lorsque la rente est fixée rétroactivement, les conditions de gain durant cette période intermédiaire sont déterminantes.
 
-<sup>4</sup> Sous réserve de l’adaptation à l’évolution des salaires et des prix (art. 43), la rente reste, jusqu’à expiration, fondée sur le montant du gain annuel présumable dont l’assuré se trouve privé. De nouvelles possibilités de gain ne peuvent être prises en considération dans le cadre d’une révision de la rente (art. 17 LPGA[^41-3]) que si elles sont établies avec un haut degré de vraisemblance.[^41-4]
+<sup>4</sup> Sous réserve de l’adaptation à l’évolution des salaires et des prix (art. 43), la rente reste, jusqu’à expiration, fondée sur le montant du gain annuel présumable dont l’assuré se trouve privé. De nouvelles possibilités de gain ne peuvent être prises en considération dans le cadre d’une révision de la rente (art. 17 LPGA[^41-4]) que si elles sont établies avec un haut degré de vraisemblance.[^41-5]
 
 <sup>5</sup> Lorsque l’assuré est logé et nourri aux frais de l’assurance militaire, une déduction, conformément à l’art. 31, peut être opérée sur la rente.
 
 [^41-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^41-2]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 17 juin 2011 (Amélioration de la mise en oeuvre), en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 519](https://fedlex.data.admin.ch/eli/fga/2011/61)).
-[^41-3]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^41-4]: Nouvelle teneur de la phrase selon l’annexe ch. 13 de la LF du 6 oct. 2000 sur la LPGA, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [FF 1991 II 181](https://fedlex.data.admin.ch/eli/fga/1991/2__181_)888, [1994 V 897](https://fedlex.data.admin.ch/eli/fga/1994/5__897_), **1999** 4168).
+[^41-2]: Nouvelle teneur de la 2<sup>e</sup> phrase selon l’annexe ch. 7 de la LF du 17 déc. 2021 (AVS 21), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5979](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^41-3]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 17 juin 2011 (Amélioration de la mise en oeuvre), en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 519](https://fedlex.data.admin.ch/eli/fga/2011/61)).
+[^41-4]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^41-5]: Nouvelle teneur de la phrase selon l’annexe ch. 13 de la LF du 6 oct. 2000 sur la LPGA, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [FF 1991 II 181](https://fedlex.data.admin.ch/eli/fga/1991/2__181_)888, [1994 V 897](https://fedlex.data.admin.ch/eli/fga/1994/5__897_), **1999** 4168).
 
 #### Art. 42
 
@@ -728,7 +729,12 @@ Si la reprise du traitement médical entraîne une incapacité de travail suppl�
 
 **Adaptation à l’évolution des salaires et des prix**
 
-<sup>1</sup> Par voie d’ordonnance, le Conseil fédéral est tenu d’adapter pleinement à l’indice des salaires nominaux établi par l’Office fédéral de la statistique les rentes de durée indéterminée des assurés qui n’ont pas atteint l’âge de la retraite fixé à l’art. 21 LAVS[^43-1] et les rentes du conjoint et des orphelins des assurés décédés qui, au moment de l’adaptation, n’auraient pas atteint cet âge.[^43-2]
+<sup>1</sup>
+
+Par voie d’ordonnance, le Conseil fédéral adapte intégralement à l’indice des salaires nominaux établi par l’Office fédéral de la statistique:
+
+- a. les rentes de durée indéterminée des assurés qui n’ont pas atteint l’âge de référence fixé à l’art. 21, al. 1, LAVS[^43-1];
+- b. les rentes du conjoint et des orphelins des assurés décédés qui, au moment de l’adaptation, n’auraient pas atteint l’âge de référence fixé à l’art. 21, al. 1, LAVS.[^43-2]
 
 <sup>2</sup> Toutes les autres rentes allouées pour une durée indéterminée doivent être adaptées pleinement à l’indice suisse des prix à la consommation.
 
@@ -737,7 +743,7 @@ Si la reprise du traitement médical entraîne une incapacité de travail suppl�
 <sup>4</sup> Le Conseil fédéral édicte, par voie d’ordonnance, des prescriptions plus détaillées, en particulier sur l’année déterminante et sur l’adaptation des rentes temporaires et des nouvelles rentes.
 
 [^43-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^43-2]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 17 juin 2011 (Amélioration de la mise en oeuvre), en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 519](https://fedlex.data.admin.ch/eli/fga/2011/61)).
+[^43-2]: Nouvelle teneur selon l’annexe ch. 7 de la LF du 17 déc. 2021 (AVS 21), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5979](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 
 #### Art. 44 et 45
 
@@ -763,12 +769,12 @@ Si la reprise du traitement médical entraîne une incapacité de travail suppl�
 
 **Rente de vieillesse pour assurés invalides**
 
-<sup>1</sup> Lorsque l’assuré invalide atteint l’âge de la retraite fixé à l’art. 21 LAVS[^47-1], la rente d’invalidité qui lui était allouée pour une période indéterminée est transformée en rente de vieillesse calculée sur la base de la moitié du gain annuel déterminant pour le calcul de la rente (art. 28, al. 4).[^47-2]
+<sup>1</sup> Lorsque l’assuré perçoit de manière anticipée la totalité de sa rente de vieillesse en vertu de l’art. 40, al. 1, LAVS[^47-1], mais au plus tard lorsqu’il atteint l’âge de référence fixé à l’art. 21, al. 1, LAVS, la rente d’invalidité qui lui était allouée pour une durée indéterminée est transformée en rente de vieillesse calculée sur la base de la moitié du gain annuel déterminant pour le calcul de la rente (art. 28, al. 4).[^47-2]
 
 <sup>2</sup> En dérogation à l’art. 17, al. 1, LPGA[^47-3], la révision de la rente de vieillesse en raison d’une modification du taux d’invalidité est exclue.[^47-4]
 
 [^47-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^47-2]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 17 juin 2011 (Amélioration de la mise en oeuvre), en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 519](https://fedlex.data.admin.ch/eli/fga/2011/61)).
+[^47-2]: Nouvelle teneur selon l’annexe ch. 7 de la LF du 17 déc. 2021 (AVS 21), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5979](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 [^47-3]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^47-4]: Nouvelle teneur selon l’annexe ch. 13 de la LF du 6 oct. 2000 sur la LPGA, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [FF 1991 II 181](https://fedlex.data.admin.ch/eli/fga/1991/2__181_)888, [1994 V 897](https://fedlex.data.admin.ch/eli/fga/1994/5__897_), **1999** 4168).
 
@@ -816,12 +822,12 @@ En cas d’augmentation ultérieure notable de l’atteinte à l’intégrité, 
 
 <sup>3</sup> Si le défunt n’avait pas pu atteindre le gain d’un travailleur pleinement compétent de la même catégorie professionnelle, la rente se calcule dès le début sur ce gain plus élevé.
 
-<sup>4</sup> Si l’assuré décède après avoir atteint l’âge de la retraite fixé à l’art. 21 LAVS[^51-1] et qu’il bénéficiait d’une rente d’invalidité ou de vieillesse de l’assurance militaire, le gain annuel qui servait de base au calcul de la rente d’invalidité est déterminant pour le calcul de la rente de survivant. Si l’assuré décède après avoir atteint l’âge de la retraite fixé à l’art. 21 LAVS et qu’il ne bénéficiait pas d’une rente d’invalidité ou de vieillesse de l’assurance militaire, il n’y a pas de droit à une rente de survivant.[^51-2]
+<sup>4</sup> Si l’assuré décède après avoir atteint l’âge de référence fixé à l’art. 21, al. 1, LAVS[^51-1] et qu’il bénéficiait d’une rente d’invalidité ou de vieillesse de l’assurance militaire, le gain annuel qui servait de base au calcul de la rente d’invalidité est déterminant pour le calcul de la rente de survivant. Si l’assuré décède après avoir atteint l’âge de référence et qu’il ne bénéficiait pas d’une rente d’invalidité ou de vieillesse de l’assurance militaire, il n’y a pas de droit à une rente de survivant.[^51-2]
 
 <sup>5</sup> Sous réserve de l’adaptation à l’évolution des salaires et des prix (art. 43), la rente reste, jusqu’à expiration, calculée sur le montant du gain annuel présumable de l’assuré.
 
 [^51-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^51-2]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 17 juin 2011 (Amélioration de la mise en oeuvre), en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 519](https://fedlex.data.admin.ch/eli/fga/2011/61)).
+[^51-2]: Nouvelle teneur selon l’annexe ch. 7 de la LF du 17 déc. 2021 (AVS 21), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5979](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 
 #### Art. 52
 

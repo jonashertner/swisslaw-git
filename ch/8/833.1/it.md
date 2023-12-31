@@ -4,11 +4,11 @@ title: "Legge federale del 19 giugno 1992 sull'assicurazione militare (LAM)"
 short: LAM
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043"
 language: it
-version: 2023-09-01
+version: 2024-01-01
 adopted: 1992-06-19
 in_force: 1994-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043/20230901/it/xml/fedlex-data-admin-ch-eli-cc-1993-3043_3043_3043-20230901-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/3043_3043_3043/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043/20240101/it/xml/fedlex-data-admin-ch-eli-cc-1993-3043_3043_3043-20240101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/3043_3043_3043/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/3043_3043_3043/20230901/it"
 
 (LAM)
 
-del 19 giugno 1992 (Stato 1° settembre 2023)
+del 19 giugno 1992 (Stato 1° gennaio 2024)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -467,7 +467,7 @@ Il fornitore di prestazioni deve consegnare all’assicurazione militare una fat
 
 **Collaborazione e tariffe**
 
-<sup>1</sup> L’assicurazione militare può stipulare convenzioni con le persone esercitanti una professione sanitaria, con il personale paramedico, con gli ospedali, con i centri d’accertamento, con i laboratori, con gli stabilimenti di cura nonché con le imprese di trasporto e di salvataggio al fine di regolare la collaborazione e fissare le tariffe.[^26-1] Essa può affidare la cura dei propri assicurati esclusivamente ai convenzionati. L’adesione alla convenzione è aperta a chiunque soddisfi le condizioni richieste nell’ambito ambulatorio.[^26-2]
+<sup>1</sup> L’assicurazione militare può stipulare convenzioni con le persone esercitanti una professione sanitaria, con il personale paramedico, con gli ospedali, con i centri d’accertamento, con i laboratori, con gli stabilimenti di cura nonché con le imprese di trasporto e di salvataggio al fine di regolare la collaborazione e fissare le tariffe e le misure di gestione strategica delle prestazioni assicurative o dei relativi costi .[^26-1] Essa può affidare la cura dei propri assicurati esclusivamente ai convenzionati. L’adesione alla convenzione è aperta a chiunque soddisfi le condizioni richieste nell’ambito ambulatorio.[^26-2]
 
 <sup>2</sup> Mediante ordinanza, il Consiglio federale regola il coordinamento con gli ordinamenti tariffali di altri rami delle assicurazioni sociali e può dichiararli applicabili. Analogamente dispone la rimunerazione per gli assicurati che si ricoverano in un ospedale senza convenzione tariffale.[^26-3]
 
@@ -484,7 +484,7 @@ In caso di violazione dell’obbligo di comunicare i dati di cui al capoverso 3<
 
 <sup>4</sup> Le tasse sono uguali per tutti gli assicurati dell’assicurazione militare.
 
-[^26-1]: Nuovo testo giusta l’all. n. 3 della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
+[^26-1]: Nuovo testo giusta l’all. n. 4 della LF del 30 set. 2022 (Misure di contenimento dei costi – Pacchetto 1*b*), in vigore dal 1° gen. 2024 ([RU 2023 630](https://fedlex.data.admin.ch/eli/oc/2023/630); [FF 2019 4981](https://fedlex.data.admin.ch/eli/fga/2019/2216)).
 [^26-2]: Nuovo testo del per. giusta l’all. n. 3 della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
 [^26-3]: Nuovo testo del per. giusta l’all. n. 3 della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
 [^26-4]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
@@ -705,20 +705,21 @@ All’assicurato invalido idoneo all’integrazione può essere assegnato un aiu
 
 **Determinazione**
 
-<sup>1</sup> La rendita è assegnata per una durata determinata o indeterminata. Il Consiglio federale designa nell’ordinanza i casi in cui è esclusa l’assegnazione di una rendita permanente, segnatamente quando l’assicurato ha raggiunto l’età di pensionamento secondo l’articolo 21 della legge federale del 20 dicembre 1946[^41-1] sull’assicurazione per la vecchiaia e per i superstiti (LAVS).[^41-2]
+<sup>1</sup> La rendita è assegnata per una durata determinata o indeterminata. Il Consiglio federale designa nell’ordinanza i casi in cui non può essere assegnata una rendita permanente, segnatamente quando l’assicurato ha raggiunto l’età di riferimento secondo l’articolo 21 capoverso 1 della legge federale del 20 dicembre 1946[^41-1] sull’assicurazione per la vecchiaia e per i superstiti (LAVS).[^41-2] [^41-3]
 
 <sup>2</sup> Se l’assicurato, quando inizia a riscuotere una rendita, non ha ancora raggiunto il guadagno di un lavoratore a pieno rendimento della stessa categoria professionale, la rendita è calcolata in base a tale guadagno più elevato a contare dal momento in cui l’avrebbe presumibilmente conseguito se non fosse stato colpito dall’affezione.
 
 <sup>3</sup> Se la rendita è stabilita retroattivamente, sono determinanti, per questo periodo intermedio, le condizioni di guadagno corrispondenti.
 
-<sup>4</sup> Con riserva dell’adeguamento all’evoluzione dei prezzi e dei salari (art. 43), la rendita continua ad essere calcolata, sino all’estinzione, sul guadagno annuo presumibile di cui l’assicurato è stato privato. Solo se le probabilità di realizzazione sono elevate, le nuove ipotesi di guadagno nell’ambito di una revisione della rendita (art. 17 LPGA[^41-3]) possono essere considerate.[^41-4]
+<sup>4</sup> Con riserva dell’adeguamento all’evoluzione dei prezzi e dei salari (art. 43), la rendita continua ad essere calcolata, sino all’estinzione, sul guadagno annuo presumibile di cui l’assicurato è stato privato. Solo se le probabilità di realizzazione sono elevate, le nuove ipotesi di guadagno nell’ambito di una revisione della rendita (art. 17 LPGA[^41-4]) possono essere considerate.[^41-5]
 
 <sup>5</sup> Se le spese di vitto e di alloggio sono a carico dell’assicurazione militare, è ammissibile una deduzione giusta l’articolo 31.
 
 [^41-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^41-2]: Nuovo testo giusta l’all. n. 5 della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), in vigore dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).
-[^41-3]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^41-4]: Nuovo testo giusta l’all. n. 13 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
+[^41-2]: Nuovo testo del per. giusta l’all. n. 7 della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^41-3]: Nuovo testo giusta l’all. n. 5 della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), in vigore dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).
+[^41-4]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^41-5]: Nuovo testo giusta l’all. n. 13 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
 
 #### Art. 42
 
@@ -730,7 +731,12 @@ Se la ripresa delle cure mediche provoca una incapacità supplementare al lavoro
 
 **Adeguamento all’evoluzione dei prezzi e dei salari**
 
-<sup>1</sup> Mediante ordinanza, il Consiglio federale adegua integralmente all’indice dei salari nominali determinato dall’Ufficio federale di statistica le rendite accordate per una durata indeterminata agli assicurati che non hanno ancora raggiunto l’età di pensionamento secondo l’articolo 21 LAVS[^43-1], nonché le rendite dei coniugi e degli orfani degli assicurati deceduti che, al momento dell’adeguamento, non avrebbero ancora raggiunto tale età.[^43-2]
+<sup>1</sup>
+
+Mediante ordinanza, il Consiglio federale adegua integralmente all’indice dei salari nominali determinato dall’Ufficio federale di statistica:
+
+- a. le rendite accordate per una durata indeterminata agli assicurati che non hanno ancora raggiunto l’età di riferimento secondo l’articolo 21 capoverso 1 LAVS[^43-1];
+- b. le rendite dei coniugi e degli orfani degli assicurati deceduti che, al momento dell’adeguamento, non avrebbero ancora raggiunto l’età di riferimento secondo l’articolo 21 capoverso 1 LAVS.[^43-2]
 
 <sup>2</sup> Tutte le altre rendite concesse per una durata indeterminata devono essere adeguate integralmente all’indice nazionale dei prezzi al consumo.
 
@@ -739,7 +745,7 @@ Se la ripresa delle cure mediche provoca una incapacità supplementare al lavoro
 <sup>4</sup> Il Consiglio federale emana in via di ordinanza disposizioni più particolareggiate, segnatamente sull’anno determinante e sull’adeguamento delle rendite temporanee e delle nuove rendite.
 
 [^43-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^43-2]: Nuovo testo giusta l’all. n. 5 della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), in vigore dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).
+[^43-2]: Nuovo testo giusta l’all. n. 7 della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 
 #### Art. 44 e 45
 
@@ -765,12 +771,12 @@ Se la ripresa delle cure mediche provoca una incapacità supplementare al lavoro
 
 **Rendita di vecchiaia per gli assicurati invalidi**
 
-<sup>1</sup> Dal momento in cui l’assicurato invalido ha raggiunto l’età di pensionamento secondo l’articolo 21 LAVS[^47-1], la rendita d’invalidità accordatagli per una durata indeterminata è pagata come rendita di vecchiaia ed è calcolata in base alla metà del guadagno annuo determinante la rendita (art. 28 cpv. 4).[^47-2]
+<sup>1</sup> Dal momento in cui l’assicurato anticipa la riscossione della totalità della rendita di vecchiaia in virtù dell’articolo 40 capoverso 1 LAVS[^47-1], ma al più tardi dal raggiungimento dell’età di riferimento secondo l’articolo 21 capoverso 1 LAVS, la rendita d’invalidità accordatagli per una durata indeterminata è pagata come rendita di vecchiaia ed è calcolata in base alla metà del guadagno annuo determinante la rendita (art. 28 cpv. 4).[^47-2]
 
 <sup>2</sup> In deroga all’articolo 17 capoverso 1 LPGA[^47-3], è esclusa la revisione della rendita di vecchiaia in seguito a una modifica del grado d’invalidità.[^47-4]
 
 [^47-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^47-2]: Nuovo testo giusta l’all. n. 5 della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), in vigore dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).
+[^47-2]: Nuovo testo giusta l’all. n. 7 della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 [^47-3]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^47-4]: Nuovo testo giusta l’all. n. 13 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
 
@@ -818,12 +824,12 @@ Nel caso di un successivo rilevante aumento della menomazione dell’integrità,
 
 <sup>3</sup> Se il defunto non aveva ancora raggiunto il guadagno di un lavoratore a pieno rendimento della stessa categoria professionale, la rendita è calcolata fin dall’inizio in base a tale guadagno più elevato.
 
-<sup>4</sup> Se un assicurato che beneficiava di una rendita d’invalidità o di vecchiaia dell’assicurazione militare muore dopo aver raggiunto l’età di pensionamento secondo l’articolo 21 LAVS[^51-1], per il calcolo della rendita per superstiti è determinante il guadagno annuo che serviva da base al calcolo della rendita d’invalidità. Se un assicurato che non beneficiava di una rendita d’invalidità o di vecchiaia dell’assicurazione militare muore dopo aver raggiunto l’età di pensionamento secondo l’articolo 21 LAVS, non sussiste nessun diritto a una rendita per superstiti.[^51-2]
+<sup>4</sup> Se un assicurato che beneficiava di una rendita d’invalidità o di vecchiaia dell’assicurazione militare muore dopo aver raggiunto l’età di riferimento secondo l’articolo 21 capoverso 1 LAVS[^51-1], per il calcolo della rendita per superstiti è determinante il guadagno annuo che serviva da base al calcolo della rendita d’invalidità. Se un assicurato che non beneficiava di una rendita d’invalidità o di vecchiaia dell’assicurazione militare muore dopo aver raggiunto l’età di riferimento, non sussiste nessun diritto a una rendita per superstiti.[^51-2]
 
 <sup>5</sup> Con riserva dell’adeguamento all’evoluzione dei prezzi e dei salari (art. 43), la rendita continua ad essere calcolata, sino all’estinzione, sul guadagno annuo presumibile di cui l’assicurato è stato privato.
 
 [^51-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^51-2]: Nuovo testo giusta l’all. n. 5 della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), in vigore dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).
+[^51-2]: Nuovo testo giusta l’all. n. 7 della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 
 #### Art. 52
 

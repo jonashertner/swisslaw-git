@@ -4,11 +4,11 @@ title: Bundesgesetz vom 19. Juni 1992 über die Militärversicherung (MVG)
 short: MVG
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043"
 language: de
-version: 2023-09-01
+version: 2024-01-01
 adopted: 1992-06-19
 in_force: 1994-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043/20230901/de/xml/fedlex-data-admin-ch-eli-cc-1993-3043_3043_3043-20230901-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/3043_3043_3043/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043/20240101/de/xml/fedlex-data-admin-ch-eli-cc-1993-3043_3043_3043-20240101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/3043_3043_3043/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/3043_3043_3043/20230901/de"
 
 (MVG)
 
-vom 19. Juni 1992 (Stand am 1. September 2023)
+vom 19. Juni 1992 (Stand am 1. Januar 2024)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -465,7 +465,7 @@ Der Leistungserbringer muss der Militärversicherung eine detaillierte und verst
 
 **Zusammenarbeit und Tarife**
 
-<sup>1</sup> Die Militärversicherung kann mit den Medizinalpersonen, den medizinischen Hilfspersonen, den Spitälern, den Abklärungsstellen, den Laboratorien, den Kuranstalten sowie den Transport- und Rettungsunternehmen vertraglich die Zusammenarbeit regeln und die Tarife festlegen.[^26-1] Sie kann die Behandlung der Versicherten ausschliesslich den am Vertrag Beteiligten anvertrauen. Wer im ambulanten Bereich die Bedingungen erfüllt, kann dem Vertrag beitreten.[^26-2]
+<sup>1</sup> Die Militärversicherung kann mit den Medizinalpersonen, den medizinischen Hilfspersonen, den Spitälern, den Abklärungsstellen, den Laboratorien, den Kuranstalten sowie den Transport- und Rettungsunternehmen vertraglich die Zusammenarbeit regeln und die Tarife und Massnahmen zur Steuerung der Versicherungsleistungen oder ihrer Kosten festlegen.[^26-1] Sie kann die Behandlung der Versicherten ausschliesslich den am Vertrag Beteiligten anvertrauen. Wer im ambulanten Bereich die Bedingungen erfüllt, kann dem Vertrag beitreten.[^26-2]
 
 <sup>2</sup> Der Bundesrat regelt durch Verordnung die Koordination mit den Tarifordnungen anderer Sozialversicherungen, die er für anwendbar erklären kann. In gleicher Weise ordnet er die Vergütung für Versicherte, die sich in ein Spital ohne Tarifvereinbarung begeben.[^26-3]
 
@@ -482,7 +482,7 @@ Bei einem Verstoss gegen die Pflicht zur Datenbekanntgabe nach Absatz 3bis kann 
 
 <sup>4</sup> Für alle Versicherten der Militärversicherung sind die gleichen Taxen zu berechnen.
 
-[^26-1]: Fassung gemäss Anhang Ziff. 3 des BG vom 25. Sept. 2015 (Unfallversicherung und Unfallverhütung), in Kraft seit 1. Jan. 2017 ([AS 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [BBl 2008 5395](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 7911](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
+[^26-1]: Fassung des ersten Satzes gemäss Anhang Ziff. 4 des BG vom 30. Sept. 2022 (Massnahmen zur Kostendämpfung – Paket 1*b*), in Kraft seit 1. Jan. 2024 ([AS 2023 630](https://fedlex.data.admin.ch/eli/oc/2023/630); [BBl 2019 6071](https://fedlex.data.admin.ch/eli/fga/2019/2216)).
 [^26-2]: Fassung des dritten Satzes gemäss Anhang Ziff. 3 des BG vom 25. Sept. 2015 (Unfallversicherung und Unfallverhütung), in Kraft seit 1. Jan. 2017 ([AS 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [BBl 2008 5395](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 7911](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
 [^26-3]: Fassung des zweiten Satzes gemäss Anhang Ziff. 3 des BG vom 25. Sept. 2015 (Unfallversicherung und Unfallverhütung), in Kraft seit 1. Jan. 2017 ([AS 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [BBl 2008 5395](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 7911](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
 [^26-4]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
@@ -698,20 +698,21 @@ Einem eingliederungsfähigen Versicherten kann eine Kapitalhilfe zur Aufnahme od
 
 **Festsetzung**
 
-<sup>1</sup> Die Rente wird auf bestimmte oder unbestimmte Zeit festgesetzt. Der Bundesrat bezeichnet in der Verordnung die Fälle, in denen die Zusprechung von Dauerrenten ausgeschlossen ist, namentlich nach Erreichen des Rentenalters nach Artikel 21 des Bundesgesetzes vom 20. Dezember 1946[^41-1] über die Alters- und Hinterlassenenversicherung (AHVG).[^41-2]
+<sup>1</sup> Die Rente wird auf bestimmte oder unbestimmte Zeit festgesetzt. Der Bundesrat bezeichnet in der Verordnung die Fälle, in denen keine Dauerrenten zugesprochen werden können, namentlich nach Erreichen des Referenzalters nach Artikel 21 Absatz 1 des Bundesgesetzes vom 20. Dezember 1946[^41-1] über die Alters- und Hinterlassenenversicherung (AHVG).[^41-2] [^41-3]
 
 <sup>2</sup> Verdient der Versicherte zur Zeit des Rentenbeginns noch nicht soviel wie ein voll leistungsfähiger Angehöriger seiner Berufsart, so wird die Rente von dem Zeitpunkt an, in dem er ohne die Gesundheitsschädigung vermutlich soviel verdient hätte, nach diesem höheren Verdienst berechnet.
 
 <sup>3</sup> Erfolgt die Rentenfestsetzung rückwirkend, so sind für die Zwischenzeit die entsprechenden Verdienstverhältnisse massgebend.
 
-<sup>4</sup> Der einmal festgesetzte, entgehende mutmassliche Jahresverdienst ist unter Vorbehalt der Anpassung an die Lohn- und Preisentwicklung (Art. 43) für die ganze Rentendauer massgebend. Nur bei hoher Wahrscheinlichkeit können neue Verdiensthypothesen im Rahmen einer Rentenrevision (Art. 17 ATSG[^41-3]) berücksichtigt werden.[^41-4]
+<sup>4</sup> Der einmal festgesetzte, entgehende mutmassliche Jahresverdienst ist unter Vorbehalt der Anpassung an die Lohn- und Preisentwicklung (Art. 43) für die ganze Rentendauer massgebend. Nur bei hoher Wahrscheinlichkeit können neue Verdiensthypothesen im Rahmen einer Rentenrevision (Art. 17 ATSG[^41-4]) berücksichtigt werden.[^41-5]
 
 <sup>5</sup> Bei Unterkunft und Verpflegung auf Kosten der Militärversicherung ist ein Abzug im Sinne von Artikel 31 zulässig.
 
 [^41-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^41-2]: Fassung gemäss Anhang Ziff. 5 des BG vom 17. Juni 2011 (Verbesserung der Durchführung), in Kraft seit 1. Jan. 2012 ([AS 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [BBl 2011 543](https://fedlex.data.admin.ch/eli/fga/2011/61)).
-[^41-3]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^41-4]: Fassung des zweiten Satzes gemäss Anhang Ziff. 13 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
+[^41-2]: Fassung des zweiten Satzes gemäss Anhang Ziff. 7 des BG vom 17. Dez. 2021 (AHV 21), in Kraft seit 1. Jan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^41-3]: Fassung gemäss Anhang Ziff. 5 des BG vom 17. Juni 2011 (Verbesserung der Durchführung), in Kraft seit 1. Jan. 2012 ([AS 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [BBl 2011 543](https://fedlex.data.admin.ch/eli/fga/2011/61)).
+[^41-4]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^41-5]: Fassung des zweiten Satzes gemäss Anhang Ziff. 13 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
 
 #### Art. 42
 
@@ -723,7 +724,12 @@ Hat die Wiederaufnahme der Heilbehandlung eine zusätzliche Arbeitsunfähigkeit 
 
 **Anpassung an die Lohn- und Preisentwicklung**
 
-<sup>1</sup> Der Bundesrat hat durch Verordnung die auf unbestimmte Zeit festgesetzten Renten der Versicherten, die das Rentenalter nach Artikel 21 AHVG[^43-1] noch nicht erreicht haben, sowie die Renten der Ehegatten und Waisen der Verstorbenen, die im Zeitpunkt der Anpassung dieses Alter noch nicht erreicht hätten, dem vom Bundesamt für Statistik ermittelten Nominallohnindex vollständig anzupassen.[^43-2]
+<sup>1</sup>
+
+Der Bundesrat passt durch Verordnung die folgenden Renten dem vom Bundesamt für Statistik ermittelten Nominallohnindex vollständig an:
+
+- a. die auf unbestimmte Zeit festgesetzten Renten der Versicherten, die das Referenzalter nach Artikel 21 Absatz 1 AHVG[^43-1] noch nicht erreicht haben;
+- b. die Renten der Ehegatten und Waisen der Verstorbenen, die im Zeitpunkt der Anpassung das Referenzalter nach Artikel 21 Absatz 1 AHVG noch nicht erreicht hätten.[^43-2]
 
 <sup>2</sup> Alle übrigen auf unbestimmte Zeit festgesetzten Renten sind dem Stand des Landesindexes der Konsumentenpreise vollständig anzupassen.
 
@@ -732,7 +738,7 @@ Hat die Wiederaufnahme der Heilbehandlung eine zusätzliche Arbeitsunfähigkeit 
 <sup>4</sup> Der Bundesrat erlässt durch Verordnung die näheren Bestimmungen, insbesondere über das zu berücksichtigende Spruchjahr und über die Anpassung von Zeitrenten und Neurenten.
 
 [^43-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^43-2]: Fassung gemäss Anhang Ziff. 5 des BG vom 17. Juni 2011 (Verbesserung der Durchführung), in Kraft seit 1. Jan. 2012 ([AS 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [BBl 2011 543](https://fedlex.data.admin.ch/eli/fga/2011/61)).
+[^43-2]: Fassung gemäss Anhang Ziff. 7 des BG vom 17. Dez. 2021 (AHV 21), in Kraft seit 1. Jan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 
 #### Art. 44–45
 
@@ -758,12 +764,12 @@ Hat die Wiederaufnahme der Heilbehandlung eine zusätzliche Arbeitsunfähigkeit 
 
 **Altersrente für invalide Versicherte**
 
-<sup>1</sup> Sobald der invalide Versicherte das Rentenalter nach Artikel 21 AHVG[^47-1] erreicht hat, wird die auf unbestimmte Zeit zugesprochene Invalidenrente als Altersrente auf der Hälfte des Jahresverdienstes ausgerichtet, welcher der Rente zugrunde liegt (Art. 28 Abs. 4).[^47-2]
+<sup>1</sup> Sobald eine versicherte Person eine ganze Altersrente nach Artikel 40 Absatz 1 AHVG[^47-1] vorbezieht, spätestens jedoch ab Erreichen des Referenzalters nach Artikel 21 Absatz 1 AHVG, wird die auf unbestimmte Zeit zugesprochene Invalidenrente als Altersrente auf der Hälfte des Jahresverdienstes ausgerichtet, welcher der Rente zugrunde liegt (Art. 28 Abs. 4).[^47-2]
 
 <sup>2</sup> Eine Revision der Altersrente infolge Änderung des Invaliditätsgrades ist in Abweichung von Artikel 17 Absatz 1 ATSG[^47-3] ausgeschlossen.[^47-4]
 
 [^47-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^47-2]: Fassung gemäss Anhang Ziff. 5 des BG vom 17. Juni 2011 (Verbesserung der Durchführung), in Kraft seit 1. Jan. 2012 ([AS 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [BBl 2011 543](https://fedlex.data.admin.ch/eli/fga/2011/61)).
+[^47-2]: Fassung gemäss Anhang Ziff. 7 des BG vom 17. Dez. 2021 (AHV 21), in Kraft seit 1. Jan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 [^47-3]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^47-4]: Fassung gemäss Anhang Ziff. 13 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
 
@@ -811,12 +817,12 @@ Bei nachträglicher erheblicher Zunahme des Integritätsschadens kann der Versic
 
 <sup>3</sup> Verdiente der Verstorbene noch nicht soviel wie ein voll leistungsfähiger Angehöriger seiner Berufsart, so wird die Rente vom Beginn weg nach diesem höheren Verdienst berechnet.
 
-<sup>4</sup> Stirbt ein Versicherter, der eine Invaliden- oder Altersrente der Militärversicherung bezog, nach Erreichen des Rentenalters nach Artikel 21 AHVG[^51-1], so wird für die Berechnung der Hinterlassenenrenten vom Jahresverdienst ausgegangen, welcher der Invalidenrente zugrunde lag. Stirbt ein Versicherter, der keine Invaliden- oder Altersrente der Militärversicherung bezog, nach Erreichen des Rentenalters nach Artikel 21 AHVG, so besteht kein Anspruch auf eine Hinterlassenenrente.[^51-2]
+<sup>4</sup> Stirbt eine versicherte Person, die eine Invaliden- oder Altersrente der Militärversicherung bezog, nach Erreichen des Referenzalters nach Artikel 21 Absatz 1 AHVG[^51-1], so wird für die Berechnung der Hinterlassenenrenten vom Jahresverdienst ausgegangen, welcher der Invalidenrente zugrunde lag. Stirbt eine versicherte Person, die keine Invaliden- oder Altersrente der Militärversicherung bezog, nach Erreichen des Referenzalters, so besteht kein Anspruch auf eine Hinterlassenenrente.[^51-2]
 
 <sup>5</sup> Der einmal festgesetzte, entgehende mutmassliche Jahresverdienst ist unter Vorbehalt der Anpassung an die Lohn- und Preisentwicklung (Art. 43) für die ganze Rentendauer massgebend.
 
 [^51-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^51-2]: Fassung gemäss Anhang Ziff. 5 des BG vom 17. Juni 2011 (Verbesserung der Durchführung), in Kraft seit 1. Jan. 2012 ([AS 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [BBl 2011 543](https://fedlex.data.admin.ch/eli/fga/2011/61)).
+[^51-2]: Fassung gemäss Anhang Ziff. 7 des BG vom 17. Dez. 2021 (AHV 21), in Kraft seit 1. Jan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 
 #### Art. 52
 
