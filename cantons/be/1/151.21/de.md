@@ -4,13 +4,13 @@ number: "151.21"
 title: Gesetz über den Grossen Rat
 short: "Grossratsgesetz, GRG"
 language: de
-version: 2022-06-01
-valid_until: 2023-12-31
-version_adopted: 2021-11-29
+version: 2024-01-01
+valid_until: 2024-03-31
+version_adopted: 2022-06-14
 adopted: 2013-06-04
 in_force: 2014-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/151.21"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2602/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2878/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2602/pdf_file"
 
 (Grossratsgesetz, GRG)
 
-vom 04.06.2013 (Stand 01.06.2022)
+vom 04.06.2013 (Stand 01.01.2024)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -47,7 +47,7 @@ beschliesst:
 
 - a die Rechte und Pflichten der Mitglieder des Grossen Rates (Ratsmitglieder),
 - b die Organisation und die Aufgaben des Grossen Rates,
-- c die Beziehungen zwischen dem Grossen Rat und dem Regierungsrat sowie zwischen dem Grossen Rat und den obersten Gerichtsbehörden, der Generalstaatsanwaltschaft und der Justizleitung,
+- c die Beziehungen zwischen dem Grossen Rat und dem Regierungsrat sowie zwischen dem Grossen Rat und den obersten Gerichtsbehörden, der Generalstaatsanwaltschaft und der Justizverwaltungsleitung,
 - d das Verfahren im Grossen Rat.
 
 <sup>2</sup> Es schafft die Rahmenbedingungen für einen effizienten Ratsbetrieb.
@@ -62,7 +62,7 @@ beschliesst:
 
 #### Art. 4
 
-<sup>1</sup> Der Grosse Rat übt die Oberaufsicht über den Regierungsrat, die Geschäftsführung der obersten Gerichte, der Generalstaatsanwaltschaft und der Justizleitung sowie über die Verwaltung und die anderen Träger öffentlicher Aufgaben aus.
+<sup>1</sup> Der Grosse Rat übt die Oberaufsicht über den Regierungsrat, die Geschäftsführung der obersten Gerichte, der Generalstaatsanwaltschaft und der Justizverwaltungsleitung sowie über die Verwaltung und die anderen Träger öffentlicher Aufgaben aus.
 
 <sup>2</sup> Die Oberaufsicht bezweckt die politische Kontrolle der Staatstätigkeit durch den Grossen Rat.
 
@@ -467,7 +467,7 @@ beschliesst:
 
 <sup>1</sup> Der Unabhängigkeit der kantonalen Gerichtsbehörden und der Staatsanwaltschaft ist besonders Rechnung zu tragen.
 
-<sup>2</sup> Informationsanfragen laufen grundsätzlich über die Justizleitung.
+<sup>2</sup> Informationsanfragen laufen grundsätzlich über die Justizverwaltungsleitung.
 
 <sup>3</sup> Aufsichtskommissionen können direkt verkehren
 
@@ -509,7 +509,7 @@ beschliesst:
 
 **Entbindung**
 
-<sup>1</sup> Zuständig für die Entbindung vom Amtsgeheimnis gegenüber Ratsorganen ist der Regierungsrat oder die Justizleitung.
+<sup>1</sup> Zuständig für die Entbindung vom Amtsgeheimnis gegenüber Ratsorganen ist der Regierungsrat oder die Justizverwaltungsleitung.
 
 <sup>2</sup> Aufsichtskommissionen gegenüber kann das Amtsgeheimnis nicht geltend gemacht werden.
 
@@ -549,25 +549,25 @@ beschliesst:
 
 #### Art. 48
 
-**Voranschlag**
+**Budget**
 
-<sup>1</sup> Der Grosse Rat beschliesst jährlich den Voranschlag, welcher der kurzfristigen Steuerung von Finanzen und Leistungen dient.
+<sup>1</sup> Der Grosse Rat beschliesst jährlich das Budget, welches der kurzfristigen Steuerung von Finanzen und Leistungen dient.
 
-<sup>2</sup> Er berät den Voranschlag spätestens im November des vorangehenden Jahres.
+<sup>2</sup> Er berät das Budget spätestens im November des vorangehenden Jahres.
 
-<sup>3</sup> Die mit der Vorberatung beauftragten Kommissionen erhalten den Voranschlag spätestens zweieinhalb Monate und der Grosse Rat spätestens einen Monat vor Beginn der Session.
+<sup>3</sup> Die mit der Vorberatung beauftragten Kommissionen erhalten das Budget spätestens zweieinhalb Monate und der Grosse Rat spätestens einen Monat vor Beginn der Session.
 
-<sup>4</sup> Der Voranschlag ist ein Bericht. Die Finanzseite des Voranschlags gilt als Beschlussantrag des Regierungsrates oder der Justizleitung.
+<sup>4</sup> Das Budget ist ein Bericht. Die Finanzseite des Budgets gilt als Beschlussantrag des Regierungsrates oder der Justizverwaltungsleitung.
 
 #### Art. 49
 
 **Aufgaben- und Finanzplan**
 
-<sup>1</sup> Der Regierungsrat und die Justizleitung unterbreiten dem Grossen Rat jährlich den auf vier Jahre ausgerichteten Aufgaben- und Finanzplan einschliesslich der Investitionsplanung, welcher der mittelfristigen Steuerung von Finanzen und Leistungen dient.
+<sup>1</sup> Der Regierungsrat und die Justizverwaltungsleitung unterbreiten dem Grossen Rat jährlich den auf vier Jahre ausgerichteten Aufgaben- und Finanzplan einschliesslich der Investitionsplanung, welcher der mittelfristigen Steuerung von Finanzen und Leistungen dient.
 
 <sup>2</sup> Der Aufgaben- und Finanzplan verknüpft im Sinne einer Gesamtschau Aufgaben und Finanzen und wird als rollende Planung jährlich überarbeitet.
 
-<sup>3</sup> Er wird den mit der Vorberatung beauftragten Kommissionen und dem Grossen Rat gleichzeitig mit dem Voranschlag unterbreitet.
+<sup>3</sup> Er wird den mit der Vorberatung beauftragten Kommissionen und dem Grossen Rat gleichzeitig mit dem Budget unterbreitet.
 
 <sup>4</sup> Er wird dem Grossen Rat zur Genehmigung unterbreitet. Nicht genehmigte Teile des Aufgaben- und Finanzplans gehen mit Auflagen des Grossen Rates an den Regierungsrat zurück, welcher den Aufgaben- und Finanzplan dem Grossen Rat innert vier Monaten erneut zur Genehmigung unterbreitet.
 
@@ -675,13 +675,13 @@ beschliesst:
 
 <sup>2</sup> Dem Regierungsrat steht das gleiche Recht zu.
 
-### 5.2 Geschäftsverkehr mit den obersten Gerichten, der Generalstaatsanwaltschaft und der Justizleitung
+### 5.2 Geschäftsverkehr mit den obersten Gerichten, der Generalstaatsanwaltschaft und der Justizverwaltungsleitung
 
 #### Art. 60
 
-<sup>1</sup> Für den Verkehr zwischen dem Grossen Rat und den obersten Gerichten, der Generalstaatsanwaltschaft und der Justizleitung gelten die Bestimmungen des Gesetzes vom 11. Juni 2009 über die Organisation der Gerichtsbehörden und der Staatsanwaltschaft (GSOG)[^60-1] ergänzend.
+<sup>1</sup> Für den Verkehr zwischen dem Grossen Rat und den obersten Gerichten, der Generalstaatsanwaltschaft und der Justizverwaltungsleitung gelten die Bestimmungen des Gesetzes vom 11. Juni 2009 über die Organisation der Gerichtsbehörden und der Staatsanwaltschaft (GSOG)[^60-1] ergänzend.
 
-[^60-1]: BSG 161.1
+[^60-1]: BSG [161.1](https://www.belex.sites.be.ch/data/161.1/de)
 
 ## 6 Parlamentarische Instrumente
 
@@ -701,9 +701,9 @@ beschliesst:
 
 - a in der Regel an den Regierungsrat,
 - b an das Büro des Grossen Rates, wenn sie sich auf ein ratseigenes Geschäft beziehen,
-- c an die Justizleitung, wenn sie sich auf die Geschäftsführung oder Finanzhaushaltsführung der Gerichtsbehörden oder der Staatsanwaltschaft beziehen, wobei Motionen, ausser Finanzmotionen, ausgeschlossen sind.
+- c an die Justizverwaltungsleitung, wenn sie sich auf die Geschäftsführung oder Finanzhaushaltsführung der Gerichtsbehörden oder der Staatsanwaltschaft beziehen, wobei nur Finanzmotionen, Interpellationen und Anfragen zulässig sind.
 
-<sup>3</sup> Bei Vorstössen an das Büro des Grossen Rates und an die Justizleitung gelten die nachfolgenden Bestimmungen sowie die Ausführungsvorschriften in der Geschäftsordnung des Grossen Rates sinngemäss.
+<sup>3</sup> Bei Vorstössen an das Büro des Grossen Rates und an die Justizverwaltungsleitung gelten die nachfolgenden Bestimmungen sowie die Ausführungsvorschriften in der Geschäftsordnung des Grossen Rates sinngemäss.
 
 ### 6.2 Parlamentarische Initiative
 
@@ -729,21 +729,21 @@ beschliesst:
 
 **Finanzmotion**
 
-<sup>1</sup> Die Finanzmotion beauftragt den Regierungsrat oder die Justizleitung, eine finanzseitig geforderte Massnahme im nächsten Voranschlag oder im nächsten Aufgaben- und Finanzplan zu ergreifen.
+<sup>1</sup> Die Finanzmotion beauftragt den Regierungsrat oder die Justizverwaltungsleitung, eine finanzseitig geforderte Massnahme im nächsten Budget oder im nächsten Aufgaben- und Finanzplan zu ergreifen.
 
-<sup>2</sup> Beschliesst der Grosse Rat eine Finanzmotion zum Aufgaben- und Finanzplan, haben Regierungsrat oder Justizleitung mit dem folgenden Aufgaben- und Finanzplan zu berichten, wie sie die Motion umgesetzt haben. Weichen sie davon ab, haben sie dies in diesem folgenden Aufgaben- und Finanzplan einlässlich zu begründen.
+<sup>2</sup> Beschliesst der Grosse Rat eine Finanzmotion zum Aufgaben- und Finanzplan, haben Regierungsrat oder Justizverwaltungsleitung mit dem folgenden Aufgaben- und Finanzplan zu berichten, wie sie die Motion umgesetzt haben. Weichen sie davon ab, haben sie dies in diesem folgenden Aufgaben- und Finanzplan einlässlich zu begründen.
 
 #### Art. 65
 
 **Postulat**
 
-<sup>1</sup> Das Postulat beauftragt den Regierungsrat oder die Justizleitung abzuklären, Bericht zu erstatten und Antrag zu stellen, ob ein Erlass oder ein Beschluss ausgearbeitet, eine Massnahme ergriffen oder ein Bericht vorgelegt werden soll.
+<sup>1</sup> Das Postulat beauftragt den Regierungsrat abzuklären, Bericht zu erstatten und Antrag zu stellen, ob ein Erlass oder ein Beschluss ausgearbeitet, eine Massnahme ergriffen oder ein Bericht vorgelegt werden soll.
 
 #### Art. 66
 
 **Interpellation und Anfrage**
 
-<sup>1</sup> Die Interpellation und die Anfrage verlangen vom Regierungsrat oder von der Justizleitung Auskunft über Angelegenheiten des Kantons.
+<sup>1</sup> Die Interpellation und die Anfrage verlangen vom Regierungsrat oder von der Justizverwaltungsleitung Auskunft über Angelegenheiten des Kantons.
 
 <sup>2</sup> Anfragen sind knapp zu halten und knapp und innert kurzer Frist zu beantworten.
 
@@ -815,7 +815,7 @@ beschliesst:
 
 **Beratungsgegenstände**
 
-<sup>1</sup> Der Grosse Rat behandelt die ihm mit dem Sessionsprogramm auf Antrag von Ratsorganen, dem Regierungsrat oder der Justizleitung unterbreiteten Gegenstände, insbesondere Erlass- und Beschlussentwürfe, Berichte, parlamentarische Vorstösse, Anträge sowie Wahlvorschläge.
+<sup>1</sup> Der Grosse Rat behandelt die ihm mit dem Sessionsprogramm auf Antrag von Ratsorganen, dem Regierungsrat oder der Justizverwaltungsleitung unterbreiteten Gegenstände, insbesondere Erlass- und Beschlussentwürfe, Berichte, parlamentarische Vorstösse, Anträge sowie Wahlvorschläge.
 
 #### Art. 74
 
@@ -1047,7 +1047,7 @@ beschliesst:
 
 **Besondere Rechnung des Grossen Rates**
 
-<sup>1</sup> Der Grosse Rat verfügt im Voranschlag des Kantons zur Erfüllung seiner Aufgaben über eigene finanzielle Mittel.
+<sup>1</sup> Der Grosse Rat verfügt im Budget des Kantons zur Erfüllung seiner Aufgaben über eigene finanzielle Mittel.
 
 <sup>2</sup> Er führt eine Besondere Rechnung.
 
@@ -1168,7 +1168,7 @@ beschliesst:
 
 **Aufgabe, Einsetzung und Organisation**
 
-<sup>1</sup> Bedürfen Vorkommnisse von grosser Tragweite der Klärung, kann der Grosse Rat nach Anhören des Regierungsrates, der obersten Gerichte, der Generalstaatsanwaltschaft, der Justizleitung oder der anderen Träger öffentlicher Aufgaben eine parlamentarische Untersuchungskommission (PUK) einsetzen. Der Untersuchungskommission obliegt hauptsächlich die politische Wertung der Vorkommnisse.
+<sup>1</sup> Bedürfen Vorkommnisse von grosser Tragweite der Klärung, kann der Grosse Rat nach Anhören des Regierungsrates, der obersten Gerichte, der Generalstaatsanwaltschaft, der Justizverwaltungsleitung oder der anderen Träger öffentlicher Aufgaben eine parlamentarische Untersuchungskommission (PUK) einsetzen. Der Untersuchungskommission obliegt hauptsächlich die politische Wertung der Vorkommnisse.
 
 <sup>2</sup> Die Einsetzung erfolgt durch Grossratsbeschluss. Darin werden der Auftrag, die Grösse und Zusammensetzung, das Sekretariat und die finanziellen Mittel der parlamentarischen Untersuchungskommission sowie eine Bestimmung hinsichtlich deren Auflösung festgelegt. Der Grosse Rat wählt anschliessend die Mitglieder sowie die Präsidentin oder den Präsidenten der parlamentarischen Untersuchungskommission.
 
@@ -1219,7 +1219,7 @@ beschliesst:
 
 #### Art. 104
 
-**Stellung des Regierungsrates, der Justizleitung und der anderen Träger öffentlicher Aufgaben**
+**Stellung des Regierungsrates, der Justizverwaltungsleitung und der anderen Träger öffentlicher Aufgaben**
 
 <sup>1</sup> Der Regierungsrat hat das Recht, den Beweisaufnahmen gemäss Artikel 102 Absatz 2 Buchstaben b bis f beizuwohnen und Ergänzungsfragen zu stellen sowie in die herausgegebenen Akten und in die Gutachten, Berichte und Einvernahmeprotokolle der Untersuchungskommission Einsicht zu nehmen.
 
@@ -1229,7 +1229,7 @@ beschliesst:
 
 <sup>4</sup> Er bezeichnet ein Mitglied aus seiner Mitte, das ihn gegenüber der parlamentarischen Untersuchungskommission vertritt. Dieses kann seinerseits für die Wahrnehmung der Rechte des Regierungsrates gemäss Absatz 1 eine geeignete Person beauftragen.
 
-<sup>5</sup> Für die Justizleitung gelten die Bestimmungen dieses Artikels sinngemäss.
+<sup>5</sup> Für die Justizverwaltungsleitung gelten die Bestimmungen dieses Artikels sinngemäss.
 
 #### Art. 105
 

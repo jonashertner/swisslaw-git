@@ -4,13 +4,13 @@ number: "151.21"
 title: Loi sur le Grand Conseil
 short: LGC
 language: fr
-version: 2022-06-01
-valid_until: 2023-12-31
-version_adopted: 2021-11-29
+version: 2024-01-01
+valid_until: 2024-03-31
+version_adopted: 2022-06-14
 adopted: 2013-06-04
 in_force: 2014-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/151.21"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2602/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2878/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2602/pdf_file"
 
 (LGC)
 
-du 04.06.2013 (état au 01.06.2022)
+du 04.06.2013 (état au 01.01.2024)
 
 Le Grand Conseil du canton de Berne,
 
@@ -47,7 +47,7 @@ arrête:
 
 - a les droits et les obligations des membres du Grand Conseil,
 - b l’organisation et les tâches du Grand Conseil,
-- c les rapports entre le Grand Conseil et le Conseil-exécutif ainsi qu’entre le Grand Conseil et les autorités judiciaires cantonales suprêmes, le Parquet général et la Direction de la magistrature,
+- c les rapports entre le Grand Conseil et le Conseil-exécutif ainsi qu’entre le Grand Conseil et les autorités judiciaires cantonales suprêmes, le Parquet général et la Direction administrative de la magistrature,
 - d la procédure au Grand Conseil.
 
 <sup>2</sup> Elle crée les conditions générales favorisant l’efficience de fonctionnement du Grand Conseil.
@@ -62,7 +62,7 @@ arrête:
 
 #### Art. 4
 
-<sup>1</sup> Le Grand Conseil exerce la haute surveillance sur le Conseil-exécutif, sur la gestion des tribunaux suprêmes, du Parquet général et de la Direction de la magistrature ainsi que sur l’administration et les autres organisations chargées de tâches publiques.
+<sup>1</sup> Le Grand Conseil exerce la haute surveillance sur le Conseil-exécutif, sur la gestion des tribunaux suprêmes, du Parquet général et de la Direction administrative de la magistrature ainsi que sur l’administration et les autres organisations chargées de tâches publiques.
 
 <sup>2</sup> La haute surveillance permet au Grand Conseil d’exercer un contrôle politique sur les activités du canton.
 
@@ -467,7 +467,7 @@ arrête:
 
 <sup>1</sup> Le respect de l’indépendance des autorités judiciaires cantonales et du Ministère public doit faire l’objet d’une attention particulière.
 
-<sup>2</sup> Les demandes d’information sont en principe adressées à la Direction de la magistrature.
+<sup>2</sup> Les demandes d’information sont en principe adressées à la Direction administrative de la magistrature.
 
 <sup>3</sup> Les commissions de surveillance peuvent traiter directement
 
@@ -509,7 +509,7 @@ arrête:
 
 **Libération**
 
-<sup>1</sup> La libération du secret de fonction vis-à-vis des organes du Grand Conseil ressortit au Conseil-exécutif ou à la Direction de la magistrature.
+<sup>1</sup> La libération du secret de fonction vis-à-vis des organes du Grand Conseil ressortit au Conseil-exécutif ou à la Direction administrative de la magistrature.
 
 <sup>2</sup> La garantie du secret de fonction ne peut pas être opposée aux commissions de surveillance.
 
@@ -557,13 +557,13 @@ arrête:
 
 <sup>3</sup> Le budget est soumis aux commissions chargées de le préaviser deux mois et demi et au Grand Conseil un mois au plus tard avant le début de la session.
 
-<sup>4</sup> Il est assimilé à un rapport. Son volet financier est assimilé à une proposition d’arrêté émanant du Conseil-exécutif ou de la Direction de la magistrature.
+<sup>4</sup> Il est assimilé à un rapport. Son volet financier est assimilé à une proposition d’arrêté émanant du Conseil-exécutif ou de la Direction administrative de la magistrature.
 
 #### Art. 49
 
 **Plan intégré mission-financement**
 
-<sup>1</sup> Le Conseil-exécutif et la Direction de la magistrature soumettent chaque année au Grand Conseil le plan intégré mission-financement quadriennal, plan des investissements compris, qui sert à piloter les finances et les prestations à moyen terme.
+<sup>1</sup> Le Conseil-exécutif et la Direction administrative de la magistrature soumettent chaque année au Grand Conseil le plan intégré mission-financement quadriennal, plan des investissements compris, qui sert à piloter les finances et les prestations à moyen terme.
 
 <sup>2</sup> Le plan intégré mission-financement donne une vue d’ensemble des prestations et des ressources financières. Il est conçu comme une planification évolutive, adaptée chaque année.
 
@@ -675,13 +675,13 @@ arrête:
 
 <sup>2</sup> Le Conseil-exécutif jouit du même droit.
 
-### 5.2 Rapports avec les tribunaux cantonaux suprêmes, le Parquet général et la Direction de la magistrature
+### 5.2 Rapports avec les tribunaux cantonaux suprêmes, le Parquet général et la Direction administrative de la magistrature
 
 #### Art. 60
 
-<sup>1</sup> Les dispositions de la loi du 11 juin 2009 sur l’organisation des autorités judiciaires et du Ministère public (LOJM)[^60-1] sont applicables à titre supplétif aux rapports entre le Grand Conseil et les tribunaux cantonaux suprêmes, le Parquet général et la Direction de la magistrature.
+<sup>1</sup> Les dispositions de la loi du 11 juin 2009 sur l’organisation des autorités judiciaires et du Ministère public (LOJM)[^60-1] sont applicables à titre supplétif aux rapports entre le Grand Conseil et les tribunaux cantonaux suprêmes, le Parquet général et la Direction administrative de la magistrature.
 
-[^60-1]: RSB 161.1
+[^60-1]: RSB [161.1](https://www.belex.sites.be.ch/data/161.1/fr)
 
 ## 6 Outils parlementaires
 
@@ -701,9 +701,9 @@ arrête:
 
 - a en règle générale au Conseil-exécutif;
 - b au Bureau lorsqu’elles concernent une affaire interne du Grand Conseil;
-- c à la Direction de la magistrature lorsqu’elles concernent la gestion ou la gestion financière des autorités judiciaires ou du Ministère public, la motion étant dans ce cas exclue, sauf la motion financière.
+- c à la Direction administrative de la magistrature lorsqu’elles concernent la gestion ou la gestion financière des autorités judiciaires ou du Ministère public, seules les motions financières, les interpellations et les questions étant admissibles.
 
-<sup>3</sup> Les dispositions ci-après et le règlement du Grand Conseil sont applicables par analogie aux interventions adressées au Bureau et à la Direction de la magistrature.
+<sup>3</sup> Les dispositions ci-après et le règlement du Grand Conseil sont applicables par analogie aux interventions adressées au Bureau et à la Direction administrative de la magistrature.
 
 ### 6.2 Initiative parlementaire
 
@@ -729,21 +729,21 @@ arrête:
 
 **Motion financière**
 
-<sup>1</sup> La motion financière charge le Conseil-exécutif ou la Direction de la magistrature de prendre des mesures concernant le volet financier du prochain budget ou du prochain plan intégré mission-financement.
+<sup>1</sup> La motion financière charge le Conseil-exécutif ou la Direction administrative de la magistrature de prendre des mesures concernant le volet financier du prochain budget ou du prochain plan intégré mission-financement.
 
-<sup>2</sup> Si le Grand Conseil adopte une motion financière concernant le plan intégré mission-financement, le Conseil-exécutif ou la Direction de la magistrature doivent, dans le plan intégré mission-financement suivant, rendre compte des modalités de mise en oeuvre de la motion. En cas de défaut de mise en oeuvre, ils doivent en exposer les motifs en détail.
+<sup>2</sup> Si le Grand Conseil adopte une motion financière concernant le plan intégré mission-financement, le Conseil-exécutif ou la Direction administrative de la magistrature doivent, dans le plan intégré mission-financement suivant, rendre compte des modalités de mise en oeuvre de la motion. En cas de défaut de mise en oeuvre, ils doivent en exposer les motifs en détail.
 
 #### Art. 65
 
 **Postulat**
 
-<sup>1</sup> Le postulat charge le Conseil-exécutif ou la Direction de la magistrature d’étudier si un acte législatif ou un arrêté doivent être élaborés, une mesure prise ou un rapport rédigé et de soumettre une proposition au Grand Conseil à ce sujet.
+<sup>1</sup> Le postulat charge le Conseil-exécutif d’étudier si un acte législatif ou un arrêté doivent être élaborés, une mesure prise ou un rapport rédigé et de soumettre une proposition au Grand Conseil à ce sujet.
 
 #### Art. 66
 
 **Interpellation et question**
 
-<sup>1</sup> L’interpellation et la question demandent au Conseil-exécutif ou à la Direction de la magistrature de donner des renseignements sur toute affaire relative au canton.
+<sup>1</sup> L’interpellation et la question demandent au Conseil-exécutif ou à la Direction administrative de la magistrature de donner des renseignements sur toute affaire relative au canton.
 
 <sup>2</sup> Les questions sont rédigées brièvement. Il y est répondu brièvement et rapidement.
 
@@ -815,7 +815,7 @@ arrête:
 
 **Objets soumis à délibération**
 
-<sup>1</sup> Le Grand Conseil délibère les objets inscrits au programme de la session sur proposition des organes du Grand Conseil, du Conseil-exécutif ou de la Direction de la magistrature, en particulier les projets législatifs et les projets d’arrêté, les rapports, les interventions parlementaires, les propositions et les candidatures proposées pour les élections.
+<sup>1</sup> Le Grand Conseil délibère les objets inscrits au programme de la session sur proposition des organes du Grand Conseil, du Conseil-exécutif ou de la Direction administrative de la magistrature, en particulier les projets législatifs et les projets d’arrêté, les rapports, les interventions parlementaires, les propositions et les candidatures proposées pour les élections.
 
 #### Art. 74
 
@@ -1170,7 +1170,7 @@ arrête:
 
 **Attributions, institution et organisation**
 
-<sup>1</sup> Si des événements d’une grande portée demandent à être clarifiés, le Grand Conseil peut instituer une commission d’enquête parlementaire (CEP) après avoir entendu le Conseil-exécutif, les tribunaux suprêmes, le Parquet général, la Direction de la magistrature ou les autres organisations chargées de tâches publiques. Il incombe principalement à la commission d’enquête de porter une appréciation politique.
+<sup>1</sup> Si des événements d’une grande portée demandent à être clarifiés, le Grand Conseil peut instituer une commission d’enquête parlementaire (CEP) après avoir entendu le Conseil-exécutif, les tribunaux suprêmes, le Parquet général, la Direction administrative de la magistrature ou les autres organisations chargées de tâches publiques. Il incombe principalement à la commission d’enquête de porter une appréciation politique.
 
 <sup>2</sup> La commission d’enquête parlementaire est instituée par un arrêté du Grand Conseil. Celui-ci définit la taille, la composition, le mandat, le secrétariat, les moyens financiers et les modalités de dissolution de la commission d’enquête parlementaire. Le Grand Conseil en élit ensuite les membres et le président ou la présidente.
 
@@ -1221,7 +1221,7 @@ arrête:
 
 #### Art. 104
 
-**Droits du Conseil-exécutif, de la Direction de la magistrature et d’autres organisations chargées de tâches publiques**
+**Droits du Conseil-exécutif, de la Direction administrative de la magistrature et d’autres organisations chargées de tâches publiques**
 
 <sup>1</sup> Le Conseil-exécutif a également le droit d’assister à l’administration des preuves au sens de l’article 102, alinéa 2, lettres b à f et de poser des questions complémentaires, ainsi que de consulter les dossiers, expertises, rapports et procès-verbaux d’audition de la commission d’enquête.
 
@@ -1231,7 +1231,7 @@ arrête:
 
 <sup>4</sup> Le Conseil-exécutif charge l’un de ses membres de le représenter devant la commission d’enquête parlementaire. Celui-ci peut à son tour charger une autre personne d’exercer les droits conférés au Conseil-exécutif en vertu de l’alinéa 1.
 
-<sup>5</sup> Les présentes dispositions sont applicables par analogie à la Direction de la magistrature.
+<sup>5</sup> Les présentes dispositions sont applicables par analogie à la Direction administrative de la magistrature.
 
 #### Art. 105
 
