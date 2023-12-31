@@ -4,13 +4,13 @@ number: "131.1"
 title: Dekret zum Gesetz über die Organisation und die Geschäftsführung des Landrats
 short: Geschäftsordnung des Landrats
 language: de
-version: 2022-04-01
-valid_until: 2023-12-31
-version_adopted: 2022-01-13
+version: 2024-01-01
+valid_until: 2024-05-31
+version_adopted: 2023-12-14
 adopted: 1994-11-21
 in_force: 1995-07-01
 url: "https://bl.clex.ch/app/de/texts_of_law/131.1"
-pdf: "https://bl.clex.ch/api/de/versions/3222/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3839/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3222/pdf_file"
 
 (Geschäftsordnung des Landrats)
 
-Vom 21.11.1994 (Stand 01.04.2022)
+Vom 21.11.1994 (Stand 01.01.2024)
 
 Der Landrat des Kantons Basel-Landschaft,
 
@@ -103,7 +103,7 @@ beschliesst:
 
 **Zusammensetzung und Höhe der Entschädigung**
 
-<sup>1</sup> Die Entschädigung setzt sich zusammen aus einem jährlichen Grundbetrag von CHF 4'400.–, einem Sitzungsgeld von CHF 50.– pro Stunde und einer Wegentschädigung von CHF 0.70 pro Kilometer.
+<sup>1</sup> Die Entschädigung setzt sich zusammen aus einem jährlichen Grundbetrag von CHF 4'700.–, einem Sitzungsgeld von CHF 55.– pro Stunde und einer Wegentschädigung von CHF 0.70 pro Kilometer.
 
 <sup>2</sup> Mit dem jährlichen Grundbetrag werden die Aufwendungen für Aktenstudium, Partei- und Öffentlichkeitsarbeit, Verpflegung, Erwerbsausfall, Betreuungsaufgaben, sonstige Inkonvenienzen, Vorsorgeaufwand, Versicherung und dergleichen abgegolten.
 
@@ -119,7 +119,7 @@ beschliesst:
 
 <sup>2</sup> Das Landratspräsidium bezieht zusätzlich eine jährliche Repräsentationsentschädigung von CHF 6‘000.–.
 
-<sup>3</sup> Die Fraktionspräsidien erhalten eine zusätzliche Entschädigung von CHF 2‘000.– jährlich.
+<sup>3</sup> Die Fraktionspräsidien erhalten eine zusätzliche Entschädigung von CHF 2‘150.– jährlich.
 
 <sup>4</sup> Über Entschädigungen für andere ausserordentliche Beanspruchungen entscheidet die Geschäftsleitung.
 
@@ -129,8 +129,8 @@ beschliesst:
 
 <sup>1</sup> Den Fraktionen werden folgende Beiträge ausgerichtet:
 
-- a. Grundbetrag pro Fraktion und Jahr — CHF 15'000.–;
-- b. Zusatzbetrag pro Mitglied und Jahr — CHF 500.–.
+- a. Grundbetrag pro Fraktion und Jahr — CHF 16'000.–;
+- b. Zusatzbetrag pro Mitglied und Jahr — CHF 700.–.
 
 #### § 11a
 
@@ -693,8 +693,9 @@ beschliesst:
 - e. Ausführungen über die finanziellen, volkswirtschaftlichen, gesellschaftlichen, ökologischen und wesentlichen regionalen Auswirkungen der Vorlage;
 - e<sup>bis</sup>. Ausführungen über die finanziellen und die übrigen Auswirkungen der Vorlage auf die Gemeinden;
 - f. einen Hinweis auf die Übereinstimmung oder Nichtübereinstimmung mit dem Regierungsprogramm oder mit dem Jahresprogramm;
-- g. Ausführungen über die Behandlung parlamentarischer Vorstösse.
-- h. Ausführungen über allfällige Auswirkungen im Informatikbereich.
+- g. Ausführungen über die Behandlung parlamentarischer Vorstösse;
+- h. Ausführungen über allfällige Auswirkungen im Informatikbereich;
+- i. Ausführungen über allfällige Auswirkungen auf die Verwirklichung der Behindertengleichstellung.
 
 <sup>2</sup> Vorlagen zu Informatikprojekten müssen Auskunft geben über:
 
