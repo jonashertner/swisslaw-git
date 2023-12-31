@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 25. Juni 1982 über die berufliche Alters-, Hinterlasse
 short: BVG
 eli: "https://fedlex.data.admin.ch/eli/cc/1983/797_797_797"
 language: de
-version: 2023-09-26
+version: 2024-01-01
 adopted: 1982-06-25
 in_force: 1985-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/797_797_797/20230926/de/xml/fedlex-data-admin-ch-eli-cc-1983-797_797_797-20230926-de-xml-13.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1983/797_797_797/20230926/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/797_797_797/20240101/de/xml/fedlex-data-admin-ch-eli-cc-1983-797_797_797-20240101-de-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1983/797_797_797/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1983/797_797_797/20230926/de"
 
 (BVG)
 
-vom 25. Juni 1982 (Stand am 26. September 2023)
+vom 25. Juni 1982 (Stand am 1. Januar 2024)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -85,11 +85,11 @@ Berufsgruppen von Selbstständigerwerbenden können vom Bundesrat auf Antrag ihr
 
 <sup>1</sup> Dieses Gesetz gilt nur für Personen, die bei der eidgenössischen Alters- und Hinterlassenenversicherung (AHV) versichert sind.[^5-1]
 
-<sup>2</sup> Es gilt für die registrierten Vorsorgeeinrichtungen nach Artikel 48. Die Artikel 56 Absatz 1 Buchstaben c und d und 59 Absatz 2 sowie die Bestimmungen über die finanzielle Sicherheit (Art. 65 Abs. 1, 2 und 2<sup>bis</sup>, 65*c*, 65*d* Abs. 1, 2 und 3 Bst. a zweiter Satz und b, Art. 65*e*, 67, 71 und 72*a*–72*g*) gelten auch für die nicht registrierten Vorsorgeeinrichtungen, die dem Freizügigkeitsgesetz vom 17. Dezember 1993[^5-2] (FZG) unterstellt sind.[^5-3]
+<sup>2</sup> Es gilt für die registrierten Vorsorgeeinrichtungen nach Artikel 48. Die Artikel 56 Absatz 1 Buchstaben c, d und i und 59 Absatz 2 sowie die Bestimmungen über die finanzielle Sicherheit (Art. 65 Abs. 1, 2 und 2<sup>bis</sup>, 65*c*, 65*d* Abs. 1, 2 und 3 Bst. a zweiter Satz und b, 65*e*, 67, 71 und 72*a*–72*g*) gelten auch für die nicht registrierten Vorsorgeeinrichtungen, die dem Freizügigkeitsgesetz vom 17. Dezember 1993[^5-2] (FZG) unterstellt sind.[^5-3]
 
 [^5-1]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2003 (1. BVG-Revision), in Kraft seit 1. Jan. 2005 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 [^5-2]: [SR 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
-[^5-3]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2010 (Finanzierung von Vorsorgeeinrichtungen öffentlich-rechtlicher Körperschaften), in Kraft seit 1. Jan. 2012 ([AS 2011 3385](https://fedlex.data.admin.ch/eli/oc/2011/457); [BBl 2008 8411](https://fedlex.data.admin.ch/eli/fga/2008/1439)).
+[^5-3]: Fassung gemäss Anhang Ziff. 5 des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 
 #### Art. 6
 
@@ -123,14 +123,14 @@ Der zweite Teil dieses Gesetzes enthält Mindestvorschriften.
 
 <sup>2</sup> Beträgt der koordinierte Lohn weniger als 3675 Franken[^8-3] im Jahr, so muss er auf diesen Betrag aufgerundet werden.[^8-4]
 
-<sup>3</sup> Sinkt der Jahreslohn vorübergehend wegen Krankheit, Unfall, Arbeitslosigkeit, Mutterschaft, Vaterschaft, Adoption oder aus ähnlichen Gründen, so behält der bisherige koordinierte Lohn mindestens so lange Gültigkeit, als die Lohnfortzahlungspflicht des Arbeitgebers nach Artikel 324*a* des Obligationenrechts (OR)[^8-5] bestehen würde oder ein Mutterschaftsurlaub nach Artikel 329*f* OR, ein Vaterschaftsurlaub nach Artikel 329*g* OR, ein Betreuungsurlaub nach Artikel 329*i* OR oder ein Adoptionsurlaub nach Artikel 329*j* OR dauert.[^8-6] Die versicherte Person kann jedoch die Herabsetzung des koordinierten Lohnes verlangen.[^8-7]
+<sup>3</sup> Sinkt der Jahreslohn vorübergehend wegen Krankheit, Unfall, Arbeitslosigkeit, Elternschaft, Adoption oder aus ähnlichen Gründen, so behält der bisherige koordinierte Lohn mindestens so lange Gültigkeit, als die Lohnfortzahlungspflicht des Arbeitgebers nach Artikel 324*a* des Obligationenrechts (OR)[^8-5] bestehen würde oder ein Mutterschaftsurlaub nach Artikel 329*f* OR, ein Urlaub des andern Elternteils nach den Artikeln 329*g* und 329*g*<sup>bis</sup> OR, ein Betreuungsurlaub nach Artikel 329*i* OR oder ein Adoptionsurlaub nach Artikel 329*j* OR dauert.[^8-6] Die versicherte Person kann jedoch die Herabsetzung des koordinierten Lohnes verlangen.[^8-7]
 
 [^8-1]: Betrag gemäss Art. 5 der V vom 18. April 1984 über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge in der Fassung der Änd. vom 12. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 609](https://fedlex.data.admin.ch/eli/oc/2022/609)).
 [^8-2]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2003 (1. BVG-Revision), in Kraft seit 1. Jan. 2005 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 [^8-3]: Betrag gemäss Art. 5 der V vom 18. April 1984 über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge in der Fassung der Änd. vom 12. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 609](https://fedlex.data.admin.ch/eli/oc/2022/609)).
 [^8-4]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2003 (1. BVG-Revision), in Kraft seit 1. Jan. 2005 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 [^8-5]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^8-6]: Fassung gemäss Anhang Ziff. 2 des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2023 ([AS 2022 468](https://fedlex.data.admin.ch/eli/oc/2022/468); [BBl 2019 7095](https://fedlex.data.admin.ch/eli/fga/2019/2553), [7303](https://fedlex.data.admin.ch/eli/fga/2019/2640)).
+[^8-6]: Fassung gemäss Anhang Ziff. 2 des BG vom 17. März 2023 (Taggelder für den hinterlassenen Elternteil), in Kraft seit 1. Jan. 2024 ([AS 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [BBl 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
 [^8-7]: Fassung gemäss Anhang Ziff. 2 des BG vom 3. Okt. 2003, in Kraft seit 1. Juli 2005 ([AS 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [BBl 2002 7522](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1112](https://fedlex.data.admin.ch/eli/fga/2003/169)[2923](https://fedlex.data.admin.ch/eli/fga/2003/381)).
 
 #### Art. 9
@@ -149,18 +149,19 @@ Der Bundesrat kann die in den Artikeln 2, 7, 8 und 46 erwähnten Grenzbeträge d
 
 Unter Vorbehalt von Artikel 8 Absatz 3 endet die Versicherungspflicht, wenn:
 
-- a. das ordentliche Rentenalter erreicht wird (Art. 13);
+- a. das Referenzalter[^10-2] erreicht wird (Art. 13);
 - b. das Arbeitsverhältnis aufgelöst wird;
 - c. der Mindestlohn unterschritten wird;
-- d.[^10-2] der Anspruch auf Taggelder der Arbeitslosenversicherung endet.[^10-3]
+- d.[^10-3] der Anspruch auf Taggelder der Arbeitslosenversicherung endet.[^10-4]
 
-<sup>3</sup> Für die Risiken Tod und Invalidität bleibt der Arbeitnehmer während eines Monats nach Auflösung des Vorsorgeverhältnisses bei der bisherigen Vorsorgeeinrichtung versichert.[^10-4] Wird vorher ein neues Vorsorgeverhältnis begründet, so ist die neue Vorsorgeeinrichtung zuständig.[^10-5]
+<sup>3</sup> Für die Risiken Tod und Invalidität bleibt der Arbeitnehmer während eines Monats nach Auflösung des Vorsorgeverhältnisses bei der bisherigen Vorsorgeeinrichtung versichert.[^10-5] Wird vorher ein neues Vorsorgeverhältnis begründet, so ist die neue Vorsorgeeinrichtung zuständig.[^10-6]
 
 [^10-1]: Fassung gemäss Art. 117*a* des Arbeitslosenversicherungsgesetzes vom 26. Juni 1982, in Kraft seit 1. Juli 1997 ([AS 1982 2184](https://fedlex.data.admin.ch/eli/oc/1982/2184_2184_2184); [BBl 1980 III 489](https://fedlex.data.admin.ch/eli/fga/1980/3_489_485_469)).
-[^10-2]: Fassung gemäss Ziff. I des BG vom 19. März 2010 (Strukturreform), in Kraft seit 1. Jan. 2012 ([AS 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
-[^10-3]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2003 (1. BVG-Revision), in Kraft seit 1. Jan. 2005 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
-[^10-4]: Fassung gemäss Anhang Ziff. 3 des Freizügigkeitsgesetzes vom 17. Dez. 1993, in Kraft seit 1. Jan. 1995 ([AS 1994 2386](https://fedlex.data.admin.ch/eli/oc/1994/2386_2386_2386); [BBl 1992 III 533](https://fedlex.data.admin.ch/eli/fga/1992/3_533_529_477)).
-[^10-5]: Fassung des Satzes gemäss Art. 117*a* des Arbeitslosenversicherungsgesetzes vom 26. Juni 1982, in Kraft seit 1. Juli 1997 ([AS 1982 2184](https://fedlex.data.admin.ch/eli/oc/1982/2184_2184_2184); [BBl 1980 III 489](https://fedlex.data.admin.ch/eli/fga/1980/3_489_485_469)).
+[^10-2]: Ausdruck gemäss Anhang Ziff. 4 des BG vom 17. Dez. 2021 (AHV 21), in Kraft seit 1. Jan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)). Diese Änd. wurde in den in der AS genannten Bestimmungen vorgenommen.
+[^10-3]: Fassung gemäss Ziff. I des BG vom 19. März 2010 (Strukturreform), in Kraft seit 1. Jan. 2012 ([AS 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+[^10-4]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2003 (1. BVG-Revision), in Kraft seit 1. Jan. 2005 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^10-5]: Fassung gemäss Anhang Ziff. 3 des Freizügigkeitsgesetzes vom 17. Dez. 1993, in Kraft seit 1. Jan. 1995 ([AS 1994 2386](https://fedlex.data.admin.ch/eli/oc/1994/2386_2386_2386); [BBl 1992 III 533](https://fedlex.data.admin.ch/eli/fga/1992/3_533_529_477)).
+[^10-6]: Fassung des Satzes gemäss Art. 117*a* des Arbeitslosenversicherungsgesetzes vom 26. Juni 1982, in Kraft seit 1. Juli 1997 ([AS 1982 2184](https://fedlex.data.admin.ch/eli/oc/1982/2184_2184_2184); [BBl 1980 III 489](https://fedlex.data.admin.ch/eli/fga/1980/3_489_485_469)).
 
 ### 2. Kapitel: Vorsorgepflicht des Arbeitgebers
 
@@ -209,32 +210,54 @@ Unter Vorbehalt von Artikel 8 Absatz 3 endet die Versicherungspflicht, wenn:
 
 #### Art. 13
 
-**Leistungsanspruch**[^13-1]
+**Referenzalter, Alter für den Vorbezug und den Aufschub**[^13-1]
 
-<sup>1</sup>
+<sup>1</sup> Das Referenzalter der beruflichen Vorsorge entspricht dem Referenzalter nach Artikel 21 Absatz 1 AHVG[^13-2].
 
-Anspruch auf Altersleistungen haben:
+<sup>2</sup> Die versicherte Person kann die Altersleistung ab dem vollendeten 63. Altersjahr vorbeziehen und bis zur Vollendung des 70. Altersjahres aufschieben.
 
-- a. Männer, die das 65. Altersjahr zurückgelegt haben;
-- b. Frauen, die das 62. Altersjahr[^13-2] zurückgelegt haben.
+<sup>3</sup> Die Vorsorgeeinrichtungen können innerhalb der in Artikel 1 Absatz 3 festgelegten Grenzen ein tieferes Alter für den Leistungsbezug vorsehen.
 
-<sup>2</sup> Die reglementarischen Bestimmungen der Vorsorgeeinrichtung können abweichend davon vorsehen, dass der Anspruch auf Altersleistungen mit der Beendigung der Erwerbstätigkeit entsteht. In diesem Fall ist der Umwandlungssatz (Art. 14) entsprechend anzupassen.
+[^13-1]: Fassung gemäss Anhang Ziff. 4 des BG vom 17. Dez. 2021 (AHV 21), in Kraft seit 1. Jan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^13-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
-[^13-1]: Siehe auch die UeB der Änd. vom 3. Okt. 2003 am Ende dieses Erlasses.
-[^13-2]: Seit 1. Jan. 2005: 64. Altersjahr (Art. 62*a* Abs. 1 der V vom 18. April 1984 über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge in der Fassung der Änd. vom 18. Aug. 2004 – [AS 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644)[4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
+#### Art. 13a
+
+**Teilbezug der Altersleistung**[^13a-1]
+
+<sup>1</sup> Die versicherte Person kann die Altersleistung als Rente abgestuft in bis zu drei Schritten beziehen. Die Vorsorgeeinrichtung kann mehr als drei Schritte zulassen.
+
+<sup>2</sup> Der Bezug der Altersleistung in Kapitalform ist in höchstens drei Schritten zulässig. Dies gilt auch, wenn der bei einem Arbeitgeber erzielte Lohn bei mehreren Vorsorgeeinrichtungen versichert ist. Ein Schritt umfasst sämtliche Bezüge von Altersleistungen in Kapitalform innerhalb eines Kalenderjahres.
+
+<sup>3</sup> Der erste Teilbezug muss mindestens 20 Prozent der Altersleistung betragen. Die Vorsorgeeinrichtung kann einen tieferen Mindestanteil zulassen.
+
+<sup>4</sup> Die Vorsorgeeinrichtung kann im Reglement vorsehen, dass die ganze Altersleistung bezogen werden muss, wenn der verbleibende Jahreslohn unter den Betrag fällt, der nach ihrem Reglement für die Versicherung notwendig ist.
+
+[^13a-1]: Eingefügt durch Anhang Ziff. 4 des BG vom 17. Dez. 2021 (AHV 21), in Kraft seit 1. Jan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+
+#### Art. 13b
+
+**Bedingungen für den Vorbezug und den Aufschub der Altersleistung**[^13b-1]
+
+<sup>1</sup> Der Anteil der vor dem reglementarischen Referenzalter bezogenen Altersleistung darf den Anteil der Lohnreduktion nicht übersteigen.
+
+<sup>2</sup> Die versicherte Person kann den Bezug ihrer Altersleistung nur bis zum Ende der Erwerbstätigkeit aufschieben, höchstens jedoch bis zur Vollendung des 70. Altersjahres.
+
+[^13b-1]: Eingefügt durch Anhang Ziff. 4 des BG vom 17. Dez. 2021 (AHV 21), in Kraft seit 1. Jan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 
 #### Art. 14
 
 **Höhe der Altersrente**[^14-1]
 
-<sup>1</sup> Die Altersrente wird in Prozenten des Altersguthabens (Umwandlungssatz) berechnet, das der Versicherte bei Erreichen des Rentenalters erworben hat.
+<sup>1</sup> Die Altersrente wird in Prozenten des Altersguthabens (Umwandlungssatz) berechnet, das der Versicherte bei Erreichen des Referenzalters[^14-2] erworben hat.
 
-<sup>2</sup> Der Mindestumwandlungssatz beträgt 6,8 Prozent für das ordentliche Rentenalter 65 von Frau[^14-2] und Mann.
+<sup>2</sup> Der Mindestumwandlungssatz beträgt 6,8 Prozent für das Referenzalter 65 von Frau[^14-3] und Mann.
 
 <sup>3</sup> Der Bundesrat unterbreitet ab 2011 mindestens alle zehn Jahre einen Bericht über die Festlegung des Umwandlungssatzes in den nachfolgenden Jahren.
 
 [^14-1]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2003 (1. BVG-Revision), in Kraft seit 1. Jan. 2005 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)). Siehe auch die UeB der Änd. vom 3. Okt. 2003 am Ende dieses Erlasses.
-[^14-2]: Seit 1. Jan. 2005: Rentenalter 64 für Frauen (Art. 62*a* Abs. 2 Bst. a der V vom 18. April 1984 über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge in der Fassung der Änd. vom 18. Aug. 2004 – [AS 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644)[4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
+[^14-2]: Ausdruck gemäss Anhang Ziff. 4 des BG vom 17. Dez. 2021 (AHV 21), in Kraft seit 1. Jan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)). Diese Änd. wurde in den in der AS genannten Bestimmungen vorgenommen.
+[^14-3]: Seit 1. Jan. 2005: Rentenalter 64 für Frauen (Art. 62*a* Abs. 2 Bst. a der V vom 18. April 1984 über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge in der Fassung der Änd. vom 18. Aug. 2004 – [AS 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644)[4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
 
 #### Art. 15
 
@@ -244,7 +267,7 @@ Anspruch auf Altersleistungen haben:
 
 Das Altersguthaben besteht aus:
 
-- a. den Altersgutschriften samt Zinsen für die Zeit, während der der Versicherte der Vorsorgeeinrichtung angehört hat, oder längstens bis zum Erreichen des ordentlichen Rentenalters;
+- a. den Altersgutschriften samt Zinsen für die Zeit, während der der Versicherte der Vorsorgeeinrichtung angehört hat, oder längstens bis zum Erreichen des Referenzalters;
 - b. den Altersguthaben samt Zinsen, die von den vorhergehenden Einrichtungen überwiesen und dem Versicherten gutgeschrieben worden sind;
 - c.[^15-2] den Rückzahlungen von Vorbezügen nach Artikel 30*d* Absatz 6;
 - d.[^15-3] den Beträgen, die im Rahmen eines Vorsorgeausgleichs nach Artikel 22*c* Absatz 2 FZG[^15-4] überwiesen und gutgeschrieben worden sind;
@@ -285,12 +308,13 @@ Die Altersgutschriften werden jährlich in Prozenten des koordinierten Lohnes be
 
 **Kinderrente**
 
-<sup>1</sup> Versicherte, denen eine Altersrente zusteht, haben für jedes Kind, das im Falle ihres Todes eine Waisenrente beanspruchen könnte, Anspruch auf eine Kinderrente in Höhe der Waisenrente.
+<sup>1</sup> Versicherte, denen eine Altersrente zusteht, haben für jedes Kind, das im Falle ihres Todes eine Waisenrente beanspruchen könnte, Anspruch auf eine Kinderrente in Höhe der Waisenrente. Für die Kinderrente gelten die gleichen Berechnungsregeln wie für die Altersrente.[^17-1]
 
-<sup>2</sup> Der Anspruch auf eine Kinderrente, der im Zeitpunkt der Einleitung eines Scheidungsverfahrens besteht, wird vom Vorsorgeausgleich nach Artikel 124*a* des Zivilgesetzbuches (ZGB)[^17-1] nicht berührt.[^17-2]
+<sup>2</sup> Der Anspruch auf eine Kinderrente, der im Zeitpunkt der Einleitung eines Scheidungsverfahrens besteht, wird vom Vorsorgeausgleich nach Artikel 124*a* des Zivilgesetzbuches (ZGB)[^17-2] nicht berührt.[^17-3]
 
-[^17-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^17-2]: Eingefügt durch Anhang Ziff. 4 des BG vom 19. Juni 2015 (Vorsorgeausgleich bei Scheidung), in Kraft seit 1. Jan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
+[^17-1]: Zweiter Satz eingefügt durch Anhang Ziff. 4 des BG vom 17. Dez. 2021 (AHV 21), in Kraft seit 1. Jan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^17-2]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^17-3]: Eingefügt durch Anhang Ziff. 4 des BG vom 19. Juni 2015 (Vorsorgeausgleich bei Scheidung), in Kraft seit 1. Jan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
 
 ### 2. Abschnitt: Hinterlassenenleistungen
 
@@ -365,7 +389,7 @@ Die Vorsorgeeinrichtung kann in ihrem Reglement neben den Anspruchsberechtigten 
 
 **Höhe der Rente**[^21-1]
 
-<sup>1</sup> Beim Tod eines Versicherten beträgt die Witwen- oder Witwerrente 60 Prozent, die Waisenrente 20 Prozent der ganzen Invalidenrente, auf die der Versicherte Anspruch gehabt hätte.[^21-2]
+<sup>1</sup> Beim Tod einer versicherten Person beträgt die Witwen- oder Witwerrente 60 Prozent, die Waisenrente 20 Prozent der ganzen Invalidenrente oder, während dem Aufschub des Bezugs der Altersleistung, der Altersrente, auf welche die versicherte Person Anspruch gehabt hätte.[^21-2]
 
 <sup>2</sup> Beim Tod einer Person, die eine Alters- oder Invalidenrente bezogen hat, beträgt die Witwen- oder Witwerrente 60 Prozent, die Waisenrente 20 Prozent der zuletzt ausgerichteten Alters- oder Invalidenrente.
 
@@ -374,7 +398,7 @@ Die Vorsorgeeinrichtung kann in ihrem Reglement neben den Anspruchsberechtigten 
 <sup>4</sup> Wurde eine Kinderrente von einem Vorsorgeausgleich nach Artikel 124 oder 124*a* ZGB nicht berührt, so wird die Waisenrente auf den gleichen Grundlagen berechnet.[^21-5]
 
 [^21-1]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2003 (1. BVG-Revision), in Kraft seit 1. Jan. 2005 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)). Siehe auch die UeB der Änd. vom 3. Okt. 2003 am Ende dieses Erlasses.
-[^21-2]: Fassung gemäss Anhang Ziff. 3 des BG vom 19. Juni 2020 (Weiterentwicklung der IV), in Kraft seit 1. Jan. 2022 ([AS 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [BBl 2017 2535](https://fedlex.data.admin.ch/eli/fga/2017/544)).
+[^21-2]: Fassung gemäss Anhang Ziff. 4 des BG vom 17. Dez. 2021 (AHV 21), in Kraft seit 1. Jan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 [^21-3]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 [^21-4]: Eingefügt durch Anhang Ziff. 4 des BG vom 19. Juni 2015 (Vorsorgeausgleich bei Scheidung), in Kraft seit 1. Jan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
 [^21-5]: Eingefügt durch Anhang Ziff. 4 des BG vom 19. Juni 2015 (Vorsorgeausgleich bei Scheidung), in Kraft seit 1. Jan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
@@ -428,7 +452,7 @@ Anspruch auf Invalidenleistungen haben Personen, die:
 Das der Berechnung zu Grunde liegende Altersguthaben besteht aus:
 
 - a. dem Altersguthaben, das der Versicherte bis zum Beginn des Anspruches auf die Invalidenrente erworben hat;
-- b. der Summe der Altersgutschriften für die bis zum ordentlichen Rentenalter fehlenden Jahre, ohne Zinsen.
+- b. der Summe der Altersgutschriften für die bis zum Referenzalter fehlenden Jahre, ohne Zinsen.
 
 <sup>4</sup> Diese Altersgutschriften werden auf dem koordinierten Lohn des Versicherten während seines letzten Versicherungsjahres in der Vorsorgeeinrichtung berechnet.
 
@@ -690,7 +714,7 @@ Der Bundesrat bestimmt:
 
 **Grundsatz**
 
-Der Eintrittsgeneration gehören die Personen an, die bei Inkrafttreten dieses Gesetzes das 25. Altersjahr vollendet und das Rentenalter noch nicht erreicht haben.
+Der Eintrittsgeneration gehören die Personen an, die bei Inkrafttreten dieses Gesetzes das 25. Altersjahr vollendet und das Referenzalter noch nicht erreicht haben.
 
 #### Art. 32
 
@@ -718,15 +742,16 @@ Der Eintrittsgeneration gehören die Personen an, die bei Inkrafttreten dieses G
 
 <sup>1</sup> Die Vorsorgeeinrichtung kann in ihrem Reglement vorsehen, dass für Versicherte, deren Lohn sich nach dem 58. Altersjahr um höchstens die Hälfte reduziert, auf Verlangen der versicherten Person die Vorsorge für den bisherigen versicherten Verdienst weitergeführt wird.
 
-<sup>2</sup> Die Weiterversicherung des bisherigen versicherten Verdienstes kann höchstens bis zum ordentlichen reglementarischen Rentenalter erfolgen.
+<sup>2</sup> Die Weiterversicherung des bisherigen versicherten Verdienstes kann höchstens bis zum reglementarischen Referenzalter[^33a-1] erfolgen.
 
-<sup>3</sup> Die Beiträge zur Weiterversicherung des bisherigen versicherten Verdienstes sind von der Beitragsparität nach den Artikeln 66 Absatz 1 dieses Gesetzes und 331 Ab-satz 3 OR[^33a-1] ausgenommen. Das Reglement kann Beiträge des Arbeitgebers für diese Weiterversicherung nur mit dessen Zustimmung vorsehen.
+<sup>3</sup> Die Beiträge zur Weiterversicherung des bisherigen versicherten Verdienstes sind von der Beitragsparität nach den Artikeln 66 Absatz 1 dieses Gesetzes und 331 Ab-satz 3 OR[^33a-2] ausgenommen. Das Reglement kann Beiträge des Arbeitgebers für diese Weiterversicherung nur mit dessen Zustimmung vorsehen.
 
-[^33a-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^33a-1]: Ausdruck gemäss Anhang Ziff. 4 des BG vom 17. Dez. 2021 (AHV 21), in Kraft seit 1. Jan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^33a-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
 #### Art. 33b
 
-**Erwerbstätigkeit nach dem ordentlichen Rentenalter**
+**Erwerbstätigkeit nach dem Referenzalter**
 
 Die Vorsorgeeinrichtung kann in ihrem Reglement vorsehen, dass auf Verlangen der versicherten Person deren Vorsorge bis zum Ende der Erwerbstätigkeit, höchstens jedoch bis zur Vollendung des 70. Altersjahres, weitergeführt wird.
 
@@ -758,7 +783,7 @@ Der Bundesrat regelt die Berechnung der Leistungen in besonderen Fällen, nament
 
 <sup>3</sup> Für die Vorleistung gelten die Artikel 70 und 71 ATSG.
 
-<sup>4</sup> Die Kürzung anderer Leistungen, die beim Erreichen des ordentlichen Rentenalters vorgenommen wird, sowie die Kürzung oder Verweigerung anderer Leistungen aufgrund von Verschulden müssen nicht ausgeglichen werden.[^34a-5]
+<sup>4</sup> Die Kürzung anderer Leistungen, die beim Erreichen des Referenzalters vorgenommen wird, sowie die Kürzung oder Verweigerung anderer Leistungen aufgrund von Verschulden müssen nicht ausgeglichen werden.[^34a-5]
 
 <sup>5</sup>
 
@@ -804,7 +829,7 @@ Die Vorsorgeeinrichtung kann ihre Leistungen im entsprechenden Umfang kürzen, w
 
 **Anpassung an die Preisentwicklung**[^36-1]
 
-<sup>1</sup> Hinterlassenen- und Invalidenrenten, deren Laufzeit drei Jahre überschritten hat, werden bis zum Erreichen des ordentlichen Rentenalters nach Anordnung des Bundesrates der Preisentwicklung angepasst.
+<sup>1</sup> Hinterlassenen- und Invalidenrenten, deren Laufzeit drei Jahre überschritten hat, werden bis zum Erreichen des Referenzalters nach Anordnung des Bundesrates der Preisentwicklung angepasst.
 
 <sup>2</sup> Die Hinterlassenen- und Invalidenrenten, die nicht nach Absatz 1 der Preisentwicklung angepasst werden müssen, sowie die Altersrenten werden entsprechend den finanziellen Möglichkeiten der Vorsorgeeinrichtung der Preisentwicklung angepasst. Das paritätische oder das oberste Organ der Vorsorgeeinrichtung entscheidet jährlich darüber, ob und in welchem Ausmass die Renten angepasst werden.
 
@@ -821,7 +846,7 @@ Die Vorsorgeeinrichtung kann ihre Leistungen im entsprechenden Umfang kürzen, w
 
 <sup>1</sup> Alters-, Hinterlassenen- und Invalidenleistungen werden in der Regel als Rente ausgerichtet.
 
-<sup>2</sup> Der Versicherte kann verlangen, dass ihm ein Viertel seines Altersguthabens, das für die Berechnung der tatsächlich bezogenen Altersleistungen (Art. 13 und Art. 13*a*[^37-2]) massgebend ist, als einmalige Kapitalabfindung ausgerichtet wird.
+<sup>2</sup> Die versicherte Person kann verlangen, dass ihr ein Viertel ihres Altersguthabens, das für die Berechnung der tatsächlich bezogenen Altersleistungen (Art. 13–13*b*) massgebend ist, als einmalige Kapitalabfindung ausgerichtet wird.[^37-2]
 
 <sup>3</sup> Die Vorsorgeeinrichtung kann an Stelle der Rente eine Kapitalabfindung ausrichten, wenn die Alters- oder die Invalidenrente weniger als 10 Prozent, die Witwen- oder Witwerrente weniger als 6 Prozent oder die Waisenrente weniger als 2 Prozent der Mindestaltersrente der AHV beträgt.
 
@@ -835,7 +860,7 @@ Die Vorsorgeeinrichtung kann in ihrem Reglement vorsehen, dass:
 <sup>5</sup> …[^37-3]
 
 [^37-1]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2003 (1. BVG-Revision), in Kraft seit 1. Jan. 2005 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
-[^37-2]: Art. 13*a* war in der 11. AHV-Revision vom 3. Okt. 2003 vorgesehen, die in der [Volksabstimmung vom 16. Mai 2004](http://www.admin.ch/ch/d/pore/va/20040516/index.html)abgelehnt wurde (siehe [BBl 2004 3943](https://fedlex.data.admin.ch/eli/fga/2004/664)).
+[^37-2]: Fassung gemäss Anhang Ziff. 4 des BG vom 17. Dez. 2021 (AHV 21), in Kraft seit 1. Jan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 [^37-3]: Aufgehoben durch Anhang Ziff. 4 des BG vom 19. Juni 2015 (Vorsorgeausgleich bei Scheidung), mit Wirkung seit 1. Jan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
 
 #### Art. 37a
@@ -901,7 +926,7 @@ Die Vorsorgeeinrichtung muss der Fachstelle den Eintritt der Fälligkeit folgend
 
 <sup>2</sup> Forderungen auf periodische Beiträge und Leistungen verjähren nach fünf, andere nach zehn Jahren. Die Artikel 129–142 OR[^41-2] sind anwendbar.
 
-<sup>3</sup> Guthaben, welche auf Freizügigkeitskonten oder -policen nach Artikel 10 der Freizügigkeitsverordnung vom 3. Oktober 1994[^41-3] angelegt sind, werden nach Ablauf von zehn Jahren ab dem ordentlichen Rücktrittsalter (Art. 13) an den Sicherheitsfonds überwiesen; dieser verwendet sie zur Finanzierung der Zentralstelle 2. Säule.
+<sup>3</sup> Guthaben, welche auf Freizügigkeitskonten oder -policen nach Artikel 10 der Freizügigkeitsverordnung vom 3. Oktober 1994[^41-3] angelegt sind, werden nach Ablauf von zehn Jahren ab dem Referenzalter (Art. 13) an den Sicherheitsfonds überwiesen; dieser verwendet sie zur Finanzierung der Zentralstelle 2. Säule.
 
 <sup>4</sup> Wenn es nicht möglich ist, das genaue Geburtsdatum des Versicherten zu ermitteln, werden diejenigen Freizügigkeitsguthaben, für welche bei den Einrichtungen, die sie verwalten, während zehn Jahren keine Nachrichten des Versicherten oder von dessen Erben eingegangen sind, bis ins Jahr 2010 von diesen Einrichtungen weiter verwaltet. Danach werden sie ebenfalls an den Sicherheitsfonds überwiesen; dieser verwendet sie entsprechend Absatz 3.
 
@@ -991,7 +1016,7 @@ Sind die Selbstständigerwerbenden obligatorisch für Alter, Tod und Invaliditä
 
 <sup>3</sup> Die versicherte Person bezahlt Beiträge zur Deckung der Risiken Tod und Invalidität und an die Verwaltungskosten. Falls sie die Altersvorsorge weiter aufbaut, bezahlt sie zusätzlich die entsprechenden Beiträge.
 
-<sup>4</sup> Die Versicherung endet bei Eintritt des Risikos Tod oder Invalidität oder bei Erreichen des reglementarischen ordentlichen Rentenalters. Bei Eintritt in eine neue Vorsorgeeinrichtung endet sie, wenn in der neuen Einrichtung mehr als zwei Drittel der Austrittsleistung für den Einkauf in die vollen reglementarischen Leistungen benötigt werden. Die Versicherung kann durch die versicherte Person jederzeit und durch die Vorsorgeeinrichtung bei Vorliegen von Beitragsausständen gekündigt werden.
+<sup>4</sup> Die Versicherung endet bei Eintritt des Risikos Tod oder Invalidität oder bei Erreichen des reglementarischen Referenzalters.[^47a-2] Bei Eintritt in eine neue Vorsorgeeinrichtung endet sie, wenn in der neuen Einrichtung mehr als zwei Drittel der Austrittsleistung für den Einkauf in die vollen reglementarischen Leistungen benötigt werden. Die Versicherung kann durch die versicherte Person jederzeit und durch die Vorsorgeeinrichtung bei Vorliegen von Beitragsausständen gekündigt werden.
 
 <sup>5</sup> Versicherte, die die Versicherung nach diesem Artikel weiterführen, sind gleichberechtigt wie die im gleichen Kollektiv aufgrund eines bestehenden Arbeitsverhältnisses Versicherten, insbesondere in Bezug auf den Zins, den Umwandlungssatz sowie auf Zahlungen durch den früheren Arbeitgeber oder einen Dritten.
 
@@ -1000,6 +1025,7 @@ Sind die Selbstständigerwerbenden obligatorisch für Alter, Tod und Invaliditä
 <sup>7</sup> Die Vorsorgeeinrichtung kann im Reglement die Weiterführung der Versicherung nach diesem Artikel bereits ab dem vollendeten 55. Altersjahr vorsehen. Sie kann im Reglement vorsehen, dass auf Verlangen der versicherten Person für die gesamte Vorsorge oder nur für die Altersvorsorge ein tieferer als der bisherige Lohn versichert wird.
 
 [^47a-1]: Eingefügt durch Ziff. II 2 des BG vom 22. März 2019 (EL-Reform), in Kraft seit 1. Jan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^47a-2]: Fassung gemäss Anhang Ziff. 4 des BG vom 17. Dez. 2021 (AHV 21), in Kraft seit 1. Jan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 
 ## Dritter Teil: Organisation
 
@@ -1033,14 +1059,14 @@ Eine Vorsorgeeinrichtung wird aus dem Register gestrichen, wenn sie:
 
 **Selbstständigkeitsbereich**[^49-1]
 
-<sup>1</sup> Die Vorsorgeeinrichtungen sind im Rahmen dieses Gesetzes in der Gestaltung ihrer Leistungen, in deren Finanzierung und in ihrer Organisation frei. Sie können im Reglement vorsehen, dass Leistungen, die über die gesetzlichen Mindestbestimmungen hinausgehen, nur bis zum Erreichen des Rentenalters ausgerichtet werden.
+<sup>1</sup> Die Vorsorgeeinrichtungen sind im Rahmen dieses Gesetzes in der Gestaltung ihrer Leistungen, in deren Finanzierung und in ihrer Organisation frei. Sie können im Reglement vorsehen, dass Leistungen, die über die gesetzlichen Mindestbestimmungen hinausgehen, nur bis zum Erreichen des Referenzalters ausgerichtet werden.
 
 <sup>2</sup>
 
 Gewährt eine Vorsorgeeinrichtung mehr als die Mindestleistungen, so gelten für die weiter gehende Vorsorge nur die Vorschriften über:[^49-2]
 
 - 1\.[^49-3] die Definition und Grundsätze der beruflichen Vorsorge sowie des versicherbaren Lohnes oder des versicherbaren Einkommens (Art. 1, 33*a* und 33*b*);
-- 2\.[^49-4] die zusätzlichen Einkäufe für den Vorbezug der Altersleistung (Art. 13*a* Abs. 8);
+- 2\.[^49-4] den Bezug der Altersleistung (Art. 13 Abs. 2, 13*a* und 13*b*);
 - 3\. die Begünstigten bei Hinterlassenenleistungen (Art. 20*a*);
 - 3*a*.[^49-5] die Anpassung der Invalidenrente nach dem Vorsorgeausgleich (Art. 24 Abs. 5);
 - 3*b*.[^49-6] die provisorische Weiterversicherung und Aufrechterhaltung des Leistungsanspruchs bei Herabsetzung oder Aufhebung der Rente der Invalidenversicherung (Art. 26*a*);
@@ -1056,28 +1082,28 @@ Gewährt eine Vorsorgeeinrichtung mehr als die Mindestleistungen, so gelten für
 - 9\.[^49-13] die Zulassung und die Aufgaben der Kontrollorgane (Art. 52*a*–52*e*);
 - 10\.[^49-14] die Integrität und Loyalität der Verantwortlichen, die Rechtsgeschäfte mit Nahestehenden und die Interessenkonflikte (Art. 51*b*, 51*c* und 53*a*);
 - 11\. die Teil- oder Gesamtliquidation (Art. 53*b*–53*d*);
-- 12\.[^49-15] die Auflösung von Verträgen (Art. 53*e* und 53*f*);
-- 13\. den Sicherheitsfonds (Art. 56 Abs. 1 Bst. c und Abs. 2–5, Art. 56*a*, 57 und 59);
-- 14\.[^49-16] die Aufsicht und die Oberaufsicht (Art. 61–62*a* und 64–64*c*);
-- 15\.[^49-17] …
-- 16\.[^49-18] die finanzielle Sicherheit (Art. 65, 65*c*, 65*d* Abs. 1, 2 und 3 Bst. a zweiter Satz und b, Art. 65*e*, 66 Abs. 4, 67 und 72*a*–72*g*);
+- 12\.[^49-15] die Auflösung von Verträgen (Art. 53*e*–53*f*);
+- 13\.[^49-16] den Sicherheitsfonds (Art. 56 Abs. 1 Bst. c und i und Abs. 2–5, 56*a*, 57 und 59);
+- 14\.[^49-17] die Aufsicht und die Oberaufsicht (Art. 61–62*a* und 64–64*c*);
+- 15\.[^49-18] …
+- 16\.[^49-19] die finanzielle Sicherheit (Art. 65, 65*c*, 65*d* Abs. 1, 2 und 3 Bst. a zweiter Satz und b, Art. 65*e*, 66 Abs. 4, 67 und 72*a*–72*g*);
 - 17\. die Transparenz (Art. 65*a*);
-- 18\. die Rückstellungen (Art. 65*b*);
+- 18\.[^49-20] die Rückstellungen und die Wertschwankungsreserven (Art. 65*b*);
 - 19\. die Versicherungsverträge zwischen Vorsorgeeinrichtungen und Versicherungseinrichtungen (Art. 68 Abs. 3 und 4);
 - 20\. die Überschussbeteiligungen aus Versicherungsverträgen (Art. 68*a*);
-- 21\.[^49-19] die Vermögensverwaltung (Art. 71) und die Stimmpflicht als Aktionärin (Art. 71*a* und 71*b*);
+- 21\.[^49-21] die Vermögensverwaltung (Art. 71) und die Stimmpflicht als Aktionärin (Art. 71*a* und 71*b*);
 - 22\. die Rechtspflege (Art. 73 und 74);
 - 23\. die Strafbestimmungen (Art. 75–79);
 - 24\. den Einkauf (Art. 79*b*);
 - 25\. den versicherbaren Lohn und das versicherbare Einkommen (Art. 79*c*);
-- [tab] 25*a*.[^49-20] die Datenbearbeitung für die Zuweisung oder Verifizierung der AHV-Nummer (Art. 85*a* Bst. f);
-- [tab] 25*b*.[^49-21] die Datenbekanntgabe für die Zuweisung oder Verifizierung der AHV-Nummer (Art. 86*a* Abs. 2 Bst. b<sup>bis</sup>);
+- [tab] 25*a*.[^49-22] die Datenbearbeitung für die Zuweisung oder Verifizierung der AHV-Nummer (Art. 85*a* Bst. f);
+- [tab] 25*b*.[^49-23] die Datenbekanntgabe für die Zuweisung oder Verifizierung der AHV-Nummer (Art. 86*a* Abs. 2 Bst. b<sup>bis</sup>);
 - 26\. die Information der Versicherten (Art. 86*b*).
 
 [^49-1]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2003 (1. BVG-Revision), Abs. 2 Ziff. 7–9, 12–14, 16 (mit Ausnahme von Art. 66 Abs. 4), 17, 19-23 und 26 in Kraft seit 1. April 2004, Abs. 1 und 2 Ziff. 3–6, 10, 11, 15, 16 (Art. 66 Abs. 4) und 18 in Kraft seit 1. Jan. 2005, Abs. 2 Ziff. 1, 24 und 25 in Kraft seit 1. Jan. 2006 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 [^49-2]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2010 (Finanzierung von Vorsorgeeinrichtungen öffentlich-rechtlicher Körperschaften), in Kraft seit 1. Jan. 2012 ([AS 2011 3385](https://fedlex.data.admin.ch/eli/oc/2011/457); [BBl 2008 8411](https://fedlex.data.admin.ch/eli/fga/2008/1439)).
 [^49-3]: Fassung gemäss Ziff. I des BG vom 11. Dez. 2009 (Massnahmen zur Erleichterung der Arbeitsmarktbeteiligung älterer Arbeitnehmender), in Kraft seit 1. Jan. 2011 ([AS 2010 4427](https://fedlex.data.admin.ch/eli/oc/2010/622); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
-[^49-4]: Ziff. 2 ist infolge Scheiterns der 11. AHV-Revision vom 3. Okt. 2003 ([BBl 2004 3943](https://fedlex.data.admin.ch/eli/fga/2004/664)) gegenstandslos.
+[^49-4]: Fassung gemäss Anhang Ziff. 4 des BG vom 17. Dez. 2021 (AHV 21), in Kraft seit 1. Jan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 [^49-5]: Eingefügt durch Anhang Ziff. 4 des BG vom 19. Juni 2015 (Vorsorgeausgleich bei Scheidung), in Kraft seit 1. Jan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
 [^49-6]: Ursprünglich Ziff. 3*a*. Eingefügt durch Anhang Ziff. 6 des BG vom 18. März 2011 (6. IV-Revision, erstes Massnahmenpaket) ([AS 2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799); [BBl 2010 1817](https://fedlex.data.admin.ch/eli/fga/2010/340)).
 [^49-7]: Fassung gemäss Ziff. I des BG vom 18. Juni 2004, in Kraft seit 1. Jan. 2005 ([AS 2004 4635](https://fedlex.data.admin.ch/eli/oc/2004/711); [BBl 2003 6399](https://fedlex.data.admin.ch/eli/fga/2003/1054)).
@@ -1088,13 +1114,15 @@ Gewährt eine Vorsorgeeinrichtung mehr als die Mindestleistungen, so gelten für
 [^49-12]: Fassung gemäss Ziff. I des BG vom 19. März 2010 (Strukturreform), in Kraft seit 1. Jan. 2012 ([AS 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
 [^49-13]: Fassung gemäss Ziff. I des BG vom 19. März 2010 (Strukturreform), in Kraft seit 1. Jan. 2012 ([AS 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
 [^49-14]: Fassung gemäss Ziff. I des BG vom 19. März 2010 (Strukturreform), in Kraft seit 1. Jan. 2012 ([AS 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
-[^49-15]: Fassung gemäss Ziff. I des BG vom 20. Dez. 2006 (Wechsel der Vorsorgeeinrichtung), in Kraft seit 1. Mai 2007 ([AS 2007 1803](https://fedlex.data.admin.ch/eli/oc/2007/263); [BBl 2005 5941](https://fedlex.data.admin.ch/eli/fga/2005/954)[5953](https://fedlex.data.admin.ch/eli/fga/2005/956)).
-[^49-16]: Fassung gemäss Ziff. I des BG vom 19. März 2010 (Strukturreform), in Kraft seit 1. Jan. 2012 ([AS 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
-[^49-17]: Aufgehoben durch Ziff. I des BG vom 19. März 2010 (Strukturreform), mit Wirkung seit 1. Jan. 2012 ([AS 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
-[^49-18]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2010 (Finanzierung von Vorsorgeeinrichtungen öffentlich-rechtlicher Körperschaften), in Kraft seit 1. Jan. 2012 ([AS 2011 3385](https://fedlex.data.admin.ch/eli/oc/2011/457); [BBl 2008 8411](https://fedlex.data.admin.ch/eli/fga/2008/1439)).
-[^49-19]: Fassung gemäss Anhang Ziff. 10 des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
-[^49-20]: Eingefügt durch Anhang Ziff. 9 des BG vom 23. Juni 2006 (Neue AHV-Versichertennummer), in Kraft seit 1. Dez. 2007 ([AS 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [BBl 2006 501](https://fedlex.data.admin.ch/eli/fga/2006/52)).
-[^49-21]: Eingefügt durch Anhang Ziff. 9 des BG vom 23. Juni 2006 (Neue AHV-Versichertennummer), in Kraft seit 1. Dez. 2007 ([AS 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [BBl 2006 501](https://fedlex.data.admin.ch/eli/fga/2006/52)).
+[^49-15]: Fassung gemäss Anhang Ziff. 5 des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^49-16]: Fassung gemäss Anhang Ziff. 5 des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^49-17]: Fassung gemäss Ziff. I des BG vom 19. März 2010 (Strukturreform), in Kraft seit 1. Jan. 2012 ([AS 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+[^49-18]: Aufgehoben durch Ziff. I des BG vom 19. März 2010 (Strukturreform), mit Wirkung seit 1. Jan. 2012 ([AS 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+[^49-19]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2010 (Finanzierung von Vorsorgeeinrichtungen öffentlich-rechtlicher Körperschaften), in Kraft seit 1. Jan. 2012 ([AS 2011 3385](https://fedlex.data.admin.ch/eli/oc/2011/457); [BBl 2008 8411](https://fedlex.data.admin.ch/eli/fga/2008/1439)).
+[^49-20]: Fassung gemäss Anhang Ziff. 5 des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^49-21]: Fassung gemäss Anhang Ziff. 10 des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^49-22]: Eingefügt durch Anhang Ziff. 9 des BG vom 23. Juni 2006 (Neue AHV-Versichertennummer), in Kraft seit 1. Dez. 2007 ([AS 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [BBl 2006 501](https://fedlex.data.admin.ch/eli/fga/2006/52)).
+[^49-23]: Eingefügt durch Anhang Ziff. 9 des BG vom 23. Juni 2006 (Neue AHV-Versichertennummer), in Kraft seit 1. Dez. 2007 ([AS 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [BBl 2006 501](https://fedlex.data.admin.ch/eli/fga/2006/52)).
 
 #### Art. 50
 
@@ -1289,22 +1317,32 @@ Voraussetzungen für die Zulassung sind:
 
 <sup>1</sup>
 
-Der Experte für berufliche Vorsorge prüft periodisch, ob:
+Der Experte für berufliche Vorsorge prüft aus versicherungstechnischer Sicht, ob die Vorsorgeeinrichtung Sicherheit dafür bietet, dass sie ihre Verpflichtungen erfüllen kann, indem er:
 
-- a. die Vorsorgeeinrichtung Sicherheit dafür bietet, dass sie ihre Verpflichtungen erfüllen kann;
-- b. die reglementarischen versicherungstechnischen Bestimmungen über die Leistungen und die Finanzierung den gesetzlichen Vorschriften entsprechen.
+- a. jährlich die Vorsorgekapitalien und die technischen Rückstellungen der Vorsorgeeinrichtung berechnet;
+- b. periodisch, mindestens jedoch alle drei Jahre, ein versicherungstechnisches Gutachten erstellt.[^52e-2]
+
+<sup>1bis</sup> Er prüft zudem periodisch, ob die reglementarischen versicherungstechnischen Bestimmungen über die Leistungen und die Finanzierung den gesetzlichen Vorschriften entsprechen.[^52e-3]
 
 <sup>2</sup>
 
 Er unterbreitet dem obersten Organ der Vorsorgeeinrichtung Empfehlungen insbesondere über:
 
-- a.[^52e-2] den technischen Zinssatz und die übrigen technischen Grundlagen;
+- a.[^52e-4] den technischen Zinssatz und die übrigen technischen Grundlagen;
 - b. die Massnahmen, die im Falle einer Unterdeckung einzuleiten sind.
+
+<sup>2bis</sup> Das oberste Organ hat dem Experten für berufliche Vorsorge die erforderlichen Angaben für die Prüfung zu machen und die benötigten Unterlagen zur Verfügung zu stellen.[^52e-5]
 
 <sup>3</sup> Werden die Empfehlungen des Experten für berufliche Vorsorge vom obersten Organ nicht befolgt und erscheint dadurch die Sicherheit der Vorsorgeeinrichtung gefährdet, meldet er dies der Aufsichtsbehörde.
 
+<sup>4</sup> Im Zusammenhang mit der Übernahme von Rentnerbeständen (Art. 53*e*<sup>bis</sup>) gibt der Experte für berufliche Vorsorge der Aufsichtsbehörde von sich aus die erforderliche Bestätigung (Art. 53*e*<sup>bis</sup> Abs. 1) und auf deren Verlangen den Bericht (Art. 53*e*<sup>bis</sup> Abs. 3) ab.[^52e-6]
+
 [^52e-1]: Eingefügt durch Ziff. I des BG vom 19. März 2010 (Strukturreform), in Kraft seit 1. Jan. 2012 ([AS 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
-[^52e-2]: Berichtigt von der Redaktionskommission der BVers (Art. 58 Abs. 1 ParlG – [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^52e-2]: Fassung gemäss Anhang Ziff. 5 des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^52e-3]: Eingefügt durch Anhang Ziff. 5 des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^52e-4]: Berichtigt von der Redaktionskommission der BVers (Art. 58 Abs. 1 ParlG – [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^52e-5]: Eingefügt durch Anhang Ziff. 5 des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^52e-6]: Eingefügt durch Anhang Ziff. 5 des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 
 #### Art. 53
 
@@ -1399,6 +1437,28 @@ Das paritätisch besetzte Organ oder das zuständige Organ legt im Rahmen der ge
 [^53e-1]: Eingefügt durch Ziff. I des BG vom 3. Okt. 2003 (1. BVG-Revision), in Kraft seit 1. April 2004 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 [^53e-2]: [SR 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
 [^53e-3]: Eingefügt durch Ziff. I des BG vom 20. Dez. 2006 (Wechsel der Vorsorgeeinrichtung), in Kraft seit 1. Mai 2007 ([AS 2007 1803](https://fedlex.data.admin.ch/eli/oc/2007/263); [BBl 2005 5941](https://fedlex.data.admin.ch/eli/fga/2005/954)[5953](https://fedlex.data.admin.ch/eli/fga/2005/956)).
+
+#### Art. 53e<sup>bis</sup>
+
+**Übernahme von Rentnerbeständen**[^53ebis-1]
+
+<sup>1</sup> Vorsorgeeinrichtungen dürfen Rentnerbestände und rentnerlastige Bestände zur Weiterführung nur übernehmen, sofern die entsprechenden Verpflichtungen ausreichend finanziert sind, insbesondere die notwendigen technischen Rückstellungen und Wertschwankungsreserven vorhanden sind, und der Experte für berufliche Vorsorge dies bestätigt.
+
+<sup>2</sup> Die Aufsichtsbehörde der übernehmenden Vorsorgeeinrichtung prüft, ob die Bedingungen für die Übernahme erfüllt sind, und genehmigt die Übernahme mit einer Verfügung. Sie bringt die Verfügung der bisher zuständigen Aufsichtsbehörde zur Kenntnis. Die Übernahme darf vollzogen werden, wenn die Genehmigungsverfügung der Aufsichtsbehörde in Rechtskraft erwachsen ist.
+
+<sup>3</sup> Die Aufsichtsbehörde wacht nach der Übernahme insbesondere darüber, dass die für den übernommenen Rentnerbestand gebildeten Vorsorgekapitalien und technischen Rückstellungen nur in begründeten Fällen angepasst werden. Sie kann dafür jährlich einen Bericht des Experten für berufliche Vorsorge verlangen und die erforderlichen Massnahmen anordnen.
+
+<sup>4</sup> Auf die Bildung von technischen Rückstellungen im Sinne von Absatz 3 kann verzichtet werden, wenn die Rentenleistungen des übernommenen Rentnerbestandes vollumfänglich und unwiderruflich bei einem Versicherungsunternehmen nach Artikel 2 Absatz 1 Buchstaben a und b des Versicherungsaufsichtsgesetzes vom 17. Dezember 2004[^53ebis-2] versichert sind.
+
+<sup>5</sup>
+
+Der Bundesrat regelt die Einzelheiten für die Übernahme von Rentnerbeständen und kann Bestimmungen über die aufsichtsrechtliche Genehmigung erlassen. Er regelt insbesondere:
+
+- a. was als rentnerlastiger Bestand gilt;
+- b. die Anforderungen an die Finanzierung der Rentenverpflichtungen.
+
+[^53ebis-1]: Eingefügt durch Anhang Ziff. 5 des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^53ebis-2]: [SR 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
 
 #### Art. 53f
 
@@ -1548,11 +1608,12 @@ Der Sicherheitsfonds:
 - e. schliesst den Vorsorgeeinrichtungen im Falle einer Teil- oder Gesamtliquidation, die innerhalb von fünf Jahren seit Inkrafttreten des FZG erfolgt, eine durch die Anwendung dieses Gesetzes entstandene Deckungslücke;
 - f.[^56-5] fungiert als Zentralstelle 2. Säule für die Koordination, die Übermittlung und die Aufbewahrung der Angaben nach den Artikeln 24*a*–24*f* des FZG;
 - g.[^56-6] ist für die Anwendung von Artikel 89*a* Verbindungsstelle zu den Mitgliedstaaten der Europäischen Gemeinschaft[^56-7] oder der Europäischen Freihandelsassoziation. Der Bundesrat erlässt die Ausführungsbestimmungen;
-- h.[^56-8] entschädigt die Ausgleichskasse der AHV für die Kosten, die ihr auf Grund ihrer Tätigkeit nach Artikel 11 entstehen und nicht auf den Verursacher überwälzt werden können.
+- h.[^56-8] entschädigt die Ausgleichskasse der AHV für die Kosten, die ihr auf Grund ihrer Tätigkeit nach Artikel 11 entstehen und nicht auf den Verursacher überwälzt werden können;
+- i.[^56-9] erhebt bei den Vorsorgeeinrichtungen die jährliche Aufsichtsabgabe nach Artikel 64*c* Absatz 1 Buchstabe a für die System- und Oberaufsicht über die Aufsichtsbehörden und überweist sie nach Abzug für seinen Aufwand an die Oberaufsichtskommission.
 
-<sup>2</sup> Die Sicherstellung nach Absatz 1 Buchstabe c umfasst höchstens die Leistungen, die sich aufgrund eines massgebenden Lohnes nach dem AHVG[^56-9] in der anderthalbfachen Höhe des oberen Grenzbetrages nach Artikel 8 Absatz 1 dieses Gesetzes ergeben.
+<sup>2</sup> Die Sicherstellung nach Absatz 1 Buchstabe c umfasst höchstens die Leistungen, die sich aufgrund eines massgebenden Lohnes nach dem AHVG[^56-10] in der anderthalbfachen Höhe des oberen Grenzbetrages nach Artikel 8 Absatz 1 dieses Gesetzes ergeben.
 
-<sup>3</sup> Sind einer Vorsorgeeinrichtung mehrere wirtschaftlich oder finanziell nicht eng miteinander verbundene Arbeitgeber oder mehrere Verbände angeschlossen, so ist das zahlungsunfähige Vorsorgewerk jedes einzelnen Arbeitgebers oder Verbandes den zahlungsunfähigen Vorsorgeeinrichtungen grundsätzlich gleichgestellt. Die Zahlungsunfähigkeit der Vorsorgewerke ist getrennt zu beurteilen. Der Bundesrat regelt die Einzelheiten.[^56-10]
+<sup>3</sup> Sind einer Vorsorgeeinrichtung mehrere wirtschaftlich oder finanziell nicht eng miteinander verbundene Arbeitgeber oder mehrere Verbände angeschlossen, so ist das zahlungsunfähige Vorsorgewerk jedes einzelnen Arbeitgebers oder Verbandes den zahlungsunfähigen Vorsorgeeinrichtungen grundsätzlich gleichgestellt. Die Zahlungsunfähigkeit der Vorsorgewerke ist getrennt zu beurteilen. Der Bundesrat regelt die Einzelheiten.[^56-11]
 
 <sup>4</sup> Der Bundesrat regelt die Leistungsvoraussetzungen.
 
@@ -1568,8 +1629,9 @@ Der Sicherheitsfonds:
 [^56-6]: Eingefügt durch Ziff. I 7 des BG vom 8. Okt. 1999 zum Abk. zwischen der Schweizerischen Eidgenossenschaft einerseits und der EG sowie ihren Mitgliedstaaten andererseits über die Freizügigkeit ([AS 2002 701](https://fedlex.data.admin.ch/eli/oc/2002/140); [BBl 1999 6128](https://fedlex.data.admin.ch/eli/fga/1999/1_6128_5440_5092)). Fassung gemäss Ziff. I 6 des BG vom 14. Dez. 2001 betreffend die Bestimmungen über die Personenfreizügigkeit im Abk. zur Änd. des Übereink. zur Errichtung der EFTA, in Kraft seit 1. Juni 2002 ([AS 2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139); [BBl 2001 4963](https://fedlex.data.admin.ch/eli/fga/2001/845)).
 [^56-7]: Heute: Europäische Union.
 [^56-8]: Eingefügt durch Ziff. I des BG vom 3. Okt. 2003 (1. BVG-Revision), in Kraft seit 1. Jan. 2005 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
-[^56-9]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^56-10]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2010 (Finanzierung von Vorsorgeeinrichtungen öffentlich-rechtlicher Körperschaften), in Kraft seit 1. Jan. 2012 ([AS 2011 3385](https://fedlex.data.admin.ch/eli/oc/2011/457); [BBl 2008 8411](https://fedlex.data.admin.ch/eli/fga/2008/1439)).
+[^56-9]: Eingefügt durch Anhang Ziff. 5 des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^56-10]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^56-11]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2010 (Finanzierung von Vorsorgeeinrichtungen öffentlich-rechtlicher Körperschaften), in Kraft seit 1. Jan. 2012 ([AS 2011 3385](https://fedlex.data.admin.ch/eli/oc/2011/457); [BBl 2008 8411](https://fedlex.data.admin.ch/eli/fga/2008/1439)).
 
 #### Art. 56a
 
@@ -1672,7 +1734,7 @@ Sie ist verpflichtet:
 
 <sup>1</sup> Wurde einer Person infolge Scheidung eine Austrittsleistung oder eine lebenslange Rente zugesprochen und kann sie diese Austrittsleistung oder lebenslange Rente nicht in eine Vorsorgeeinrichtung einbringen, so kann sie diese an die Auffangeinrichtung überweisen lassen.
 
-<sup>2</sup> Die Auffangeinrichtung wandelt das dadurch geäufnete Guthaben samt Zins auf Verlangen der berechtigten Person in eine Rente um. Diese kann frühestens bei Erreichen des Mindestalters gemäss Reglement der Auffangeinrichtung bezogen werden. Andernfalls wird sie mit Erreichen des Rentenalters nach Artikel 13 Absatz 1 fällig. Der Bezug kann um höchstens fünf Jahre aufgeschoben werden, wenn die Erwerbstätigkeit weitergeführt wird. Es besteht kein Anspruch auf Hinterlassenenleistungen nach dem Tod der berechtigten Person.
+<sup>2</sup> Die Auffangeinrichtung wandelt das dadurch geäufnete Guthaben samt Zins auf Verlangen der berechtigten Person in eine Rente um. Diese kann frühestens bei Erreichen des Mindestalters gemäss Reglement der Auffangeinrichtung bezogen werden. Andernfalls wird sie mit Erreichen des Referenzalters nach Artikel 13 Absatz 1 fällig. Der Bezug kann um höchstens fünf Jahre aufgeschoben werden, wenn die Erwerbstätigkeit weitergeführt wird. Es besteht kein Anspruch auf Hinterlassenenleistungen nach dem Tod der berechtigten Person.
 
 <sup>3</sup> Die Auffangeinrichtung berechnet die Rente aufgrund ihres Reglements.
 
@@ -1712,11 +1774,12 @@ Sie ist verpflichtet:
 
 <sup>2</sup> Die Kantone können gemeinsame Aufsichtsregionen bilden und dafür eine Aufsichtsbehörde bezeichnen.
 
-<sup>3</sup> Die Aufsichtsbehörde ist eine öffentlich-rechtliche Anstalt mit eigener Rechtspersönlichkeit. Sie unterliegt in ihrer Tätigkeit keinen Weisungen.[^61-3]
+<sup>3</sup> Die Aufsichtsbehörde ist eine öffentlich-rechtliche Anstalt mit eigener Rechtspersönlichkeit. Sie unterliegt in ihrer Tätigkeit keinen Weisungen. Ihre Mitglieder dürfen nicht aus dem kantonalen Departement stammen, das mit Fragen der beruflichen Vorsorge betraut ist.[^61-3] [^61-4]
 
 [^61-1]: Fassung gemäss Ziff. I des BG vom 19. März 2010 (Strukturreform), in Kraft seit 1. Jan. 2012 ([AS 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
 [^61-2]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2010 (Finanzierung von Vorsorgeeinrichtungen öffentlich-rechtlicher Körperschaften), in Kraft seit 1. Jan. 2012 ([AS 2011 3385](https://fedlex.data.admin.ch/eli/oc/2011/457); [BBl 2008 8411](https://fedlex.data.admin.ch/eli/fga/2008/1439)).
-[^61-3]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2010 (Finanzierung von Vorsorgeeinrichtungen öffentlich-rechtlicher Körperschaften), in Kraft seit 1. Jan. 2012 ([AS 2011 3385](https://fedlex.data.admin.ch/eli/oc/2011/457); [BBl 2008 8411](https://fedlex.data.admin.ch/eli/fga/2008/1439)).
+[^61-3]: Dritter Satz eingefügt durch Anhang Ziff. 5 des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)). Siehe auch die SchlB dieser Änd. am Schluss dieses Textes.
+[^61-4]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2010 (Finanzierung von Vorsorgeeinrichtungen öffentlich-rechtlicher Körperschaften), in Kraft seit 1. Jan. 2012 ([AS 2011 3385](https://fedlex.data.admin.ch/eli/oc/2011/457); [BBl 2008 8411](https://fedlex.data.admin.ch/eli/fga/2008/1439)).
 
 #### Art. 62
 
@@ -1839,7 +1902,7 @@ Die Oberaufsichtskommission beaufsichtigt die Aufsichtsbehörden. Sie hat folgen
 
 <sup>1</sup>
 
-Die Kosten der Kommission und des Sekretariats werden gedeckt durch:
+Die Kosten der Oberaufsichtskommission und des Sekretariats sowie die Erhebungskosten des Sicherheitsfonds werden gedeckt durch:[^64c-2]
 
 - a. eine jährliche Aufsichtsabgabe;
 - b. Gebühren für Verfügungen und Dienstleistungen.
@@ -1848,16 +1911,18 @@ Die Kosten der Kommission und des Sekretariats werden gedeckt durch:
 
 Die jährliche Aufsichtsabgabe bemisst sich:
 
-- a.[^64c-2] bei den Aufsichtsbehörden nach der Zahl der beaufsichtigten Vorsorgeeinrichtungen sowie nach der Anzahl der aktiven Versicherten und der Anzahl der ausbezahlten Renten;
+- a.[^64c-3] für die System- und Oberaufsicht über die Aufsichtsbehörden nach der Höhe der Austrittsleistungen aller Versicherten und der Renten der dem FZG[^64c-4] unterstellten Vorsorgeeinrichtungen, wie sie aus der Betriebsrechnung hervorgehen;
 - b. beim Sicherheitsfonds, bei der Auffangeinrichtung und bei den Anlagestiftungen nach dem Vermögen und gegebenenfalls der Anzahl Sondervermögen.
 
 <sup>3</sup> Der Bundesrat bestimmt die anrechenbaren Aufsichtskosten und legt das Berechnungsverfahren im Einzelnen sowie den Gebührentarif fest.
 
-<sup>4</sup> Die Aufsichtsbehörden überwälzen die nach Absatz 2 Buchstabe a geschuldete Abgabe auf die von ihnen beaufsichtigten Vorsorgeeinrichtungen.[^64c-3]
+<sup>4</sup> …[^64c-5]
 
 [^64c-1]: Eingefügt durch Ziff. I des BG vom 19. März 2010 (Strukturreform), in Kraft seit 1. Jan. 2012 ([AS 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
-[^64c-2]: Fassung gemäss Ziff. I des BG vom 17. März 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6337](https://fedlex.data.admin.ch/eli/oc/2017/702); [BBl 2016 6845](https://fedlex.data.admin.ch/eli/fga/2016/1427)[8193](https://fedlex.data.admin.ch/eli/fga/2016/1880)).
-[^64c-3]: Eingefügt durch Ziff. I des BG vom 17. März 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6337](https://fedlex.data.admin.ch/eli/oc/2017/702); [BBl 2016 6845](https://fedlex.data.admin.ch/eli/fga/2016/1427)[8193](https://fedlex.data.admin.ch/eli/fga/2016/1880)).
+[^64c-2]: Fassung gemäss Anhang Ziff. 5 des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^64c-3]: Fassung gemäss Anhang Ziff. 5 des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^64c-4]: [SR 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
+[^64c-5]: Eingefügt durch Ziff. I des BG vom 17. März 2017 ([AS 2017 6337](https://fedlex.data.admin.ch/eli/oc/2017/702); [BBl 2016 6845](https://fedlex.data.admin.ch/eli/fga/2016/1427)[8193](https://fedlex.data.admin.ch/eli/fga/2016/1880)). Aufgehoben durch Anhang Ziff. 5 des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), mit Wirkung seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 
 ## Vierter Teil: Finanzierung der Vorsorgeeinrichtungen
 
@@ -1919,9 +1984,10 @@ Der Bundesrat erlässt Mindestvorschriften über die Errichtung:
 
 - a. der Rückstellungen für die versicherungstechnischen Risiken;
 - b. anderer Rückstellungen, die der Sicherung der Finanzierung dienen;
-- c. der Schwankungsreserven.
+- c.[^65b-2] der Wertschwankungsreserven.
 
 [^65b-1]: Eingefügt durch Ziff. I des BG vom 3. Okt. 2003 (1. BVG-Revision), in Kraft seit 1. Jan. 2005 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^65b-2]: Fassung gemäss Anhang Ziff. 5 des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 
 #### Art. 65c
 
@@ -2318,15 +2384,21 @@ Die Bestimmungen dieses Titels gelten für alle Vorsorgeverhältnisse, unabhäng
 
 <sup>1</sup> Die Vorsorgeeinrichtung darf den Einkauf höchstens bis zur Höhe der reglementarischen Leistungen ermöglichen.
 
-<sup>2</sup> Der Bundesrat regelt die Fälle der Personen, die im Zeitpunkt, in dem sie den Einkauf verlangt haben, noch nie einer Vorsorgeeinrichtung angehört haben.
+<sup>2</sup>
+
+Der Bundesrat regelt den Einkauf von Personen, die:
+
+- a. bis zum Zeitpunkt, in dem sie den Einkauf verlangen, noch nie einer Vorsorgeeinrichtung angehört haben;
+- b. eine Leistung der beruflichen Vorsorge beziehen oder bezogen haben.[^79b-2]
 
 <sup>3</sup> Wurden Einkäufe getätigt, so dürfen die daraus resultierenden Leistungen innerhalb der nächsten drei Jahre nicht in Kapitalform aus der Vorsorge zurückgezogen werden. Wurden Vorbezüge für die Wohneigentumsförderung getätigt, so dürfen freiwillige Einkäufe erst vorgenommen werden, wenn die Vorbezüge zurückbezahlt sind.
 
-<sup>4</sup> Von der Begrenzung ausgenommen sind die Wiedereinkäufe im Falle der Ehescheidung oder gerichtlichen Auflösung einer eingetragenen Partnerschaft nach Artikel 22*c* FZG[^79b-2].[^79b-3]
+<sup>4</sup> Von der Begrenzung ausgenommen sind die Wiedereinkäufe im Falle der Ehescheidung oder gerichtlichen Auflösung einer eingetragenen Partnerschaft nach Artikel 22*c* FZG[^79b-3].[^79b-4]
 
 [^79b-1]: Eingefügt durch Ziff. I des BG vom 3. Okt. 2003 (1. BVG-Revision), in Kraft seit 1. Jan. 2006 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
-[^79b-2]: [SR 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386). Heute: Art. 22*d* FZG.
-[^79b-3]: Eingefügt durch Art. 37 Ziff. 3 des Partnerschaftsgesetzes vom 18. Juni 2004, in Kraft seit 1. Jan. 2007 ([AS 2005 5269](https://fedlex.data.admin.ch/eli/oc/2005/734); [BBl 2003 3789](https://fedlex.data.admin.ch/eli/fga/2003/577)).
+[^79b-2]: Fassung gemäss Anhang Ziff. 4 des BG vom 17. Dez. 2021 (AHV 21), in Kraft seit 1. Jan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^79b-3]: [SR 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386). Heute: Art. 22*d* FZG.
+[^79b-4]: Eingefügt durch Art. 37 Ziff. 3 des Partnerschaftsgesetzes vom 18. Juni 2004, in Kraft seit 1. Jan. 2007 ([AS 2005 5269](https://fedlex.data.admin.ch/eli/oc/2005/734); [BBl 2003 3789](https://fedlex.data.admin.ch/eli/fga/2003/577)).
 
 #### Art. 79c
 
@@ -2924,6 +2996,14 @@ b. Nichtanpassung laufender Renten von Rentenbezügerinnen und -bezügern, die d
 Für Rentenbezügerinnen und -bezüger, deren Rentenanspruch vor Inkrafttreten dieser Änderung entstanden ist und die bei Inkrafttreten dieser Änderung das 55. Altersjahr vollendet haben, gilt das bisherige Recht.
 
 [^u8-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+
+## Schlussbestimmung zur Änderung vom 17. Juni 2022 (Modernisierung der Aufsicht)
+
+[^u9-1]
+
+[^u9-1]: [AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)
+
+Die Kantone nehmen die Anpassungen, die sich für sie aus Artikel 61 Absatz 3 dritter Satz ergeben, innert zwei Jahren nach Inkrafttreten der Änderung vom 17. Juni 2022 vor.
 
 Anhang
 
