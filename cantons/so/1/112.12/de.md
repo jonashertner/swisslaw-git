@@ -4,13 +4,13 @@ number: "112.12"
 title: Vollzugsverordnung zum Gesetz über das Kantons- und Gemeindebürgerrecht
 short: Bürgerrechtsverordnung
 language: de
-version: 2018-01-01
-valid_until: 2023-12-31
-version_adopted: 2017-10-23
+version: 2024-01-01
+valid_until: 2024-06-30
+version_adopted: 2023-01-10
 adopted: 2006-12-04
 in_force: 2006-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/112.12"
-pdf: "https://bgs.so.ch/api/de/versions/4680/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5308/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.so.ch/api/de/versions/4680/pdf_file"
 
 (Bürgerrechtsverordnung)
 
-Vom 04.12.2006 (Stand 01.01.2018)
+Vom 04.12.2006 (Stand 01.01.2024)
 
 Der Regierungsrat des Kantons Solothurn
 
@@ -93,8 +93,8 @@ beschliesst:
 <sup>1</sup> Dem Einbürgerungsgesuch müssen folgende Ausweise beigelegt werden:
 
 - a) Zivilstandsdokumente im Original (Familienausweis bzw. Ausweis über den registrierten Familienstand oder Personenstandsausweis), nicht älter als 6 Monate, sowie sofern vorhanden, das Familienbüchlein und den Familienschein;
-- b) Bescheinigung über die Dauer des Wohnsitzes in der Einbürgerungsgemeinde, Auszug aus dem Zentralstrafregister sowie aus dem Betreibungs- und Konkursregister, alle nicht älter als 2 Monate;
-- c) Bescheinigung über frühere Wohnsitze im Kanton;
+- b) Bescheinigung über die Dauer der Niederlassung in der Einbürgerungsgemeinde, Auszug aus dem Zentralstrafregister sowie aus dem Betreibungs- und Konkursregister, alle nicht älter als 2 Monate;
+- c) Bescheinigung über frühere Niederlassungen im Kanton;
 - d) Ausweise über Einkommen und Vermögen.
 
 <sup>2</sup> Ausländische Staatsangehörige müssen überdies vorlegen:
@@ -158,21 +158,15 @@ beschliesst:
 
 #### § 10
 
-**Hinterlegung, Änderungen**
-
-<sup>1</sup> Der Heimatschein ist bei der Einwohnergemeinde des Wohnsitzes zu hinterlegen.
-
-<sup>2</sup> Ändern Zivilstand, Bürgerrecht oder der Name des Inhabers oder der Inhaberin, so veranlasst die den Heimatschein aufbewahrende Behörde, dass ein neuer Heimatschein ausgestellt wird.
+**…**
 
 #### § 11
 
-**Rückgabe, Annullation**
-
-<sup>1</sup> Bei der Abmeldung aus der Wohnsitzgemeinde ist dem Inhaber oder der Inhaberin der Heimatschein zurückzugeben. Verlässt eine Person die Wohnsitzgemeinde ohne sich abzumelden, ist der Heimatschein von der betreffenden Wohnsitzgemeinde aufzubewahren.
-
-<sup>2</sup> Gegenstandslos gewordene Heimatscheine sind von der Einwohnerkontrolle der betreffenden Einwohnergemeinde zu vernichten.
+**…**
 
 ## 3. Schlussbestimmungen
+
+### 3.1. Bisheriges Recht
 
 #### § 12
 
@@ -181,6 +175,20 @@ beschliesst:
 <sup>1</sup> Die Vollzugsverordnung zum Gesetz über das Kantons- und Gemeindebürgerrecht (Bürgerrechtsverordnung) vom 28. September 1993[^12-1] wird rückwirkend per 31. Dezember 2005 aufgehoben.
 
 [^12-1]: GS 92,924 (BGS 112.12).
+
+### 3.2. Übergangsbestimmungen zur Teilrevision vom 10. Januar 2023
+
+#### § 12bis
+
+**Noch hinterlegte Heimatscheine**
+
+<sup>1</sup> Nach bisherigem Recht noch bei der Niederlassungsgemeinde hinterlegte Heimatscheine sind den Inhabern oder den Inhaberinnen auf deren Verlangen, spätestens jedoch bei der Abmeldung aus der Niederlassungsgemeinde, zurückzugeben.
+
+<sup>2</sup> Verlässt eine Person die Niederlassungsgemeinde ohne sich abzumelden, ist der Heimatschein von der betreffenden Niederlassungsgemeinde für sechs Monate aufzubewahren und anschliessend zu vernichten.
+
+<sup>3</sup> Gegenstandslos gewordene Heimatscheine sind von der Einwohnerkontrolle der betreffenden Niederlassungsgemeinde zu vernichten.
+
+### 3.3. Inkrafttreten
 
 #### § 13
 
