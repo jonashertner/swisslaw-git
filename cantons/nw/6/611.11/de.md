@@ -4,13 +4,13 @@ number: "611.11"
 title: Vollzugsverordnung zum Planungs- und Baugesetz
 short: "Planungs- und Bauverordnung, PBV"
 language: de
-version: 2020-11-01
-corrected: 2023-10-02
-version_adopted: 2020-10-13
+version: 2024-01-01
+valid_until: 2024-09-30
+version_adopted: 2023-12-12
 adopted: 2014-11-25
 in_force: 2015-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/611.11"
-pdf: "https://gesetze.nw.ch/api/de/versions/1177/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1223/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.nw.ch/api/de/versions/1177/pdf_file"
 
 (Planungs- und Bauverordnung, PBV)[^t-1]
 
-vom 25.11.2014 (Stand 01.11.2020)
+vom 25.11.2014 (Stand 01.01.2024)
 
 Der Regierungsrat von Nidwalden,
 
@@ -254,14 +254,14 @@ beschliesst:
 
 <sup>1</sup> In der Gefahrenzone 1 ist die Errichtung neuer Bauten und Anlagen verboten.
 
-Die massvolle Erweiterung, die teilweise Änderung sowie der Wiederaufbau von Bauten und Anlagen kann bewilligt werden, wenn:
+<sup>2</sup> Die massvolle Erweiterung, die teilweise Änderung sowie der Wiederaufbau von Bauten und Anlagen kann bewilligt werden, wenn:
 
-- 1\. mit baulichen Massnahmen das Schadenrisiko auf ein Minimum reduziert wird; und
+- 1 mit baulichen Massnahmen das Schadenrisiko auf ein Minimum reduziert wird; und
 - 2\. die Anzahl der gefährdeten Personen nicht erhöht wird.
 
-<sup>2</sup> Standortgebundene Bauten und Anlagen wie Wasserkraftwerke können bewilligt werden, wenn sie mit sichernden Massnahmen vor Zerstörung oder Beschädigung geschützt werden.
+<sup>3</sup> Standortgebundene Bauten und Anlagen wie Wasserkraftwerke können bewilligt werden, wenn sie mit sichernden Massnahmen vor Zerstörung oder Beschädigung geschützt werden.
 
-<sup>3</sup> Für die massvolle Erweiterung, die teilweise Änderung und den Wiederaufbau von Bauten und Anlagen sowie für standortgebundene Bauten und Anlagen gelten zusätzlich die Bestimmungen für die Gefahrenzone 2.
+<sup>4</sup> Für die massvolle Erweiterung, die teilweise Änderung und den Wiederaufbau von Bauten und Anlagen sowie für standortgebundene Bauten und Anlagen gelten zusätzlich die Bestimmungen für die Gefahrenzone 2.
 
 #### § 21
 
@@ -838,6 +838,42 @@ Die massvolle Erweiterung, die teilweise Änderung sowie der Wiederaufbau von Ba
 [^62a-1]: Abs. 2 und 3 bereits in Kraft
 [^62a-2]: NG 611.1
 [^62a-3]: NG 611.1
+
+#### § 62b
+
+**Übergangsbestimmungen zur Änderung vom 12. Dezember 2023 betreffend die Bewilligung für Photovoltaik-Grossanlagen 1. Gegenstand**
+
+<sup>1</sup> Diese Übergangsbestimmungen regeln die Zuständigkeit und das Verfahren für die Bewilligung von Photovoltaik-Grossanlagen gemäss Art. 71a des eidgenössischen Energiegesetzes (EnG)[^62b-1]. Nicht erfasst sind Anschlussleitungen und Anlagenteile, die eine Genehmigung des Bundes bedürfen.
+
+[^62b-1]: SR 730.0
+
+#### § 62c
+
+**2. Zuständigkeit**
+
+<sup>1</sup> Der Regierungsrat ist Bewilligungsinstanz für Photovoltaik-Grossanlagen gemäss Art. 9g der eidgenössischen Energieverordnung (EnV)[^62c-1].
+
+<sup>2</sup> Die Direktion führt das Bewilligungsverfahren durch.
+
+[^62c-1]: SR 730.01
+
+#### § 62d
+
+**3. Verfahren**
+
+<sup>1</sup> Das Baugesuch ist bei der Direktion einzureichen.
+
+<sup>2</sup> Neben den Unterlagen gemäss § 42 f. muss das Baugesuch zusätzlich enthalten:
+
+- 1\. die Angaben gemäss Art. 9h Abs. 2 EnV[^62d-1];
+- 2\. ein Konzept einschliesslich einer Kostenschätzung zum vollständigen Rückbau und zur Wiederherstellung der Ausgangslage.
+
+<sup>3</sup> Die Direktion veröffentlicht das Baugesuch und legt es sowohl auf der Direktion als auch in den Standortgemeinden öffentlich auf.
+
+<sup>4</sup> Sie holt die Zustimmung der Standortgemeinde gemäss Art. 71a Abs. 3 EnG[^62d-2] ein.
+
+[^62d-1]: SR 730.01
+[^62d-2]: SR 730.0
 
 #### § 63
 
