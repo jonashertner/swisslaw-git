@@ -3,11 +3,11 @@ sr: "0.425.44"
 title: "Accord du 9 avril 2010 portant création du groupement d'intérêt économique EUMETNET (avec annexe)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/421"
 language: fr
-version: 2018-11-21
+version: 2024-01-01
 adopted: 2009-09-17
 in_force: 2010-04-09
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/421/20181121/fr/xml/fedlex-data-admin-ch-eli-cc-2013-421-20181121-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/421/20181121/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/421/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2013-421-20240101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/421/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -22,47 +22,53 @@ Conclu à Bruxelles le 17 septembre 2009
 
 Adhésion de la Suisse le 9 avril 2010
 
-Entré en vigueur pour la Suisse le 9 avril 2010
+Amendé par l’accord du 6 décembre 2023[^t-1]
 
-(État le 21 novembre 2018)
+Entré en vigueur pour la Suisse le 1<sup>er</sup> janvier 2024
+
+(État le 1<sup>er</sup> janvier 2024)
+
+[^t-1]: [RO 2024 108](https://fedlex.data.admin.ch/eli/oc/2024/108)
 
 Accord portant création du groupement d’intérêt économique (EUMETNET)
 
 entre les Services Météorologiques ou Hydrométéorologiques Nationaux («SMN»):
 
-- 1\. SMN d’Autriche, Zentralanstalt für Meteorologie und Geodynamik (ZAMG), établi par décret impérial le 23 Juillet 1851 et qui fut amendé par la loi sur les organismes de recherche Forschungsorganisationsgesetz BGBL Nr. 341/ 1981, représentant la République d’Autriche, ayant son siège social à Hohe Warte 38, A-1190, Vienne, Autriche;
-- 2\. SMN de Belgique, Institut Royal Météorologique de Belgique (Koninklijk Meteorologisch Instituut), service de l’État à gestion séparée, créé par décret Royal le 31 Juillet 1913 et modifié par décret Royal le 31 Décembre 1986, immatriculé à la TVA sous le numéro BE0349.294.822, ayant son siège social à Avenue Circulaire 3, 1180 Bruxelles, Belgique;
-- 3\. SMN de Croatie, Državni Hidrometeorološki Zavod (”DHMZ”), un organisme public technique de recherche, établi par un décret du Gouvernement de la République de Croatie le 27 Août 1947, immatriculé à la TVA sous le numéro HR 74660437164, ayant son siège social à Grič 3, 10000 Zagreb, Croatie;
-- 4\. SMN de Chypre, Cyprus Department of Meteorology, un département du gouvernement sous tutelle du Ministère de l’Agriculture, des Ressources Rurales et de l’Environnement, créé par décision du Conseil des Ministres le 11 Novembre 1975, immatriculé à la TVA sous le numéro CY 90001625M, ayant son siège social à Nikis Ave., 28 1086 Nicosie, Chypre;
-- 5\. SMN de la Republique Tchèque, Institut Hydrométéorologique Tchèque («Český hydrometeorologický ústav»), organization parteillement financée par l’État agissant en tant qu’institution d’État, établi par Décret Gouvernemental No. 96/1953 du 27 Novembre 1953, ayant sa charte publiée et amendée par le Ministère de l’Environnement, ayant son siège social à Na Šabatce 2050/17, 143 06 Praha 4 – Komořany, Republique Tchèque;
-- 6\. SMN du Danemark, Institut Météorologique Danois («Danmarks Meteorologiske Institut»), institution d’état créée par une décision parlementaire de décembre 1989, immatriculé sous le numéro 1815 9104, ayant son siège social à Lyngbyvej 100, 2100 Copenhague, Danemark;
-- 7\. SMN d’Estonie, Agence Estonienne de l’Environnement, une entité de droit public sous tutelle du Ministère de l’Environnement, créé par la directive No 509 du Ministre de l’Environnement le 21.05.2013, immatriculé à la TVA sous le numéro EE101646790, ayant son siège social à Mustamäe tee 33, EST-10616, Tallinn, Estonie;
-- 8\. SMN de Finlande, Institut Météorologique Finlandais (Ilmatieteen laitos, FMI), institut créé par la loi Laki ilmatieteen laitoksesta 22.12.1967/585, immatriculé à la TVA sous le numéro FI02446647, ayant son siège social à Erik Palménin aukio 1, FI-00560 Helsinki, Finlande;
-- 9\. SMN de France, Météo-France, Établissement Public à caractère Administratif créé par le décret n<sup>o</sup> 93-861 et modifié par le décret n<sup>o</sup> 2016-765, immatriculé à la TVA sous le numéro FR03180060030, ayant son siège social à 73, avenue de Paris, 94165 Saint-Mandé Cedex, France;
-- 10\. SMN d’Allemagne, Deutscher Wetterdienst («DWD»), institution de droit public jouissant d’une personnalité juridique partielle et relevant du Ministère fédéral des Transports et de l’Infrastructure Numérique, établie par la Loi relative au «Deutscher Wetterdienst» du 10 septembre 1998, amendée par l’art. 1 de la Première Loi Modificative du 17 Juillet 2017, immatriculée à la TVA sous le numéro DE221793973, ayant son siège social à Frankfurter Strasse 135, 63067 Offenbach, Allemagne;
-- 11\. SMN de la Grèce, Service National Météorologique Hellénique, un service d’État relevant du Ministère de la Défense, établi par la Loi 5258 du 8 août 1931 et exerçant ses activités conformément à la Loi 2292 du 15 février 1995 et au Décret présidentiel 161 du 3 juillet 1997, ayant son siège social à El. Venizelou 14, 16777 Helliniko, Athènes, Grèce;
-- 12\. SMN de Hongrie, Service Météorologique Hongrois («OMSZ»), une institution centrale indépendante relevant du ministère de l’Agriculture gouverné par le décret gouvernemental n<sup>o</sup> 277/2005. (XII. 20.), immatriculée à la TVA sous le numéro HU 15311760, ayant son siège social à H-1024 Budapest, Kitaibel Pál utca 1, Hongrie;
-- 13\. SMN d’Islande, Bureau de Météorologie Islandais («IMO»), une institution d’État créée par la décision parlementaire du 11 juin 2008, immatriculée sous le numéro 99733, ayant son siège social à Bustadavegur 9, IS-150 Reykjavik, Islande;
-- 14\. SMN d’Irlande, «Met Éireann», une division du Département en charge du Logement, de la Planification et des Collectivités Territoriales, immatriculé à la TVA sous le numéro 4000068T, créée par l’Arrêté des Services Météorologiques (Redistribution des services publics) de 1936, conformément aux dispositions du «Ministers and Secretaries Act» de 1924, ayant son siège social à Glasnevin Hill, Dublin 9, Ireland;
-- 15\. SMN d’Italie, Armée de l’Air – Commandement des Forces Opérationnelles – Département de Météorologie (ReMET), ayant son siège social à Viale dell’Università 4 – 00185 Rome, Italy;
-- 16\. SMN de Lettonie, Centre Letton de l’Environnement, de la Géologie et de la Météorologie («LEGMC»), établi par ordonnance du Conseil des Ministres Nr. 448, en date du 01/07/2009, immatriculé à la TVA sous le numéro LV50103237791, ayant son siège social à 165 Maskavas Str. Riga, LV‑1019, Latvia;
-- 17\. SMN du Luxembourg, MeteoLux, service d’État de l’Administration de la Navigation Aérienne, établi par la loi du 21 Décembre 2007, immatriculé à la TVA sous le numéro LU22209540, ayant son siège social à 4, route de Trêves L-2632 Luxembourg;
-- 18\. SMN de Malte, MAMO, géré par Malta International Airport plc en vertu d’un accord daté du 25 Janvier 2002 avec le Gouvernement de Malte, immatriculé à la TVA sous le numéro MT12357210, ayant son siège social à Malta International Airport plc, Aviation Avenue Gudja, Malte LQA 4000;
-- 19\. SMN du Monténégro, Institut Hydrométéorologique et séismologique du Monténégro (IHMS), entité publique constituée par le Gouvernement du Monténégro via le Décret du 23 Janvier 2012 portant sur l’organisation du travail de l’Administration Publique et par fusion de deux institutions (Institut Hydrométéorologique et Observatoire Séismologique), ayant son siège social à IV Proleterske 19, 81 000 Podgorica, Monténégro;
-- 20\. SMN des Pays-Bas, Institut Royal Météorologique Néerlandais («Koninklijk Nederlands Meteorologisch Instituut», KNMI), une agence gouvernementale relevant du Ministère de Infrastructures et de l’Environnement, établie par le décret royal du 31 janvier 1854, immatriculée à la TVA sous le numéro NL8216.93.992B01, ayant son siège social sis à Utrechtseweg 297, NL-3731 GA De Bilt, Pays-Bas;
-- 21\. SMN de Norvège, Institut Météorologique Norvégien («Meteorologisk Institutt»; MET Norway), une institution gouvernementale relevant du gouvernement norvégien, dont le statut et le mandat sont définis par le décret royal du 9 décembre 2005, immatriculée sous le numéro NO971274042MVA, ayant son siège social à P.O. Box 43 Blindern, Henrik Mohns plass 1, N-0313 Oslo, Norvège;
-- 22\. SMN de Pologne, Institut de la Météorologie et de la Gestion de l’Eau («IMGW») – une institution de recherche et de développement, établi sur base du décret du Conseil des Ministres n<sup>o</sup> 338/72 du 30 décembre 1972, immatriculée sous le numéro 0000062756, ayant pour numéro d’identification fiscal n<sup>o</sup> 525 000 88 09, ayant son siège social à ul. Podleśna 61, 01-673 Varsovie, Pologne;
-- 23\. SMN du Portugal, Institut Portugais de la Mer et de l’Atmosphère (Instituto Português do Mar e da Atmosfera, IPMA), une institution publique administrative de l’État créée par DL No 68/2012 du 20 Mars 2012, immatriculé sous le numéro fiscal 510 265 600, ayant son siège social à Rua C ao Aeroporto de Lisboa, 1749-077 Lisbonne, Portugal;
-- 24\. SMN de Serbie, Service Hydrométéorologique de la République de Serbie (RHMSS), une institution spécialisée, établie par la Loi sur les Ministères (Journal Officiel de la RS No. 44/2014, 14/2015 et 54/2015), immatriculée sous le numéro fiscal 102217008, ayant son siège social à Kneza Višeslava 66, 11030 Belgrade, Serbie;
-- 25\. SMN de Slovaquie, Institut Hydrométéorologique de Slovaquie («Slovenský hydrometeorologický ústav – SHMÚ»), un organisme subventionné établi par Décision No. 23/2006 – 1.6 du Ministre de l’Environnement de la République Slovaque en date du 12 Juin, 2006 amendant et complétant le texte fondateur de l’Institut Hydrométéorologique de Slovaquie, immatriculé sous le numéro 156 884, ayant son siège social à Jeséniova 17, 833 15 Bratislava, Slovaquie;
-- 26\. SMN de Slovénie, Agence de l’Environnement de la République de Slovénie («Agencija Republike Slovenije za okolje, ARSO»), un organisme relevant du Ministère de l’Environnement et de l’Aménagement du Territoire, créé par la loi modificative sur l’organisation et les compétences des Ministères, Ur.l. RS, n<sup>o</sup> 30/2001 du 26 avril 2001, ayant son siège social à Vojkova 1B, SI-1000 Ljubljana, Slovénie;
-- 27\. SMN d’Espagne, Agencia Estatal de Meteorología del Reino de España («AEMET»), agence d’État conforme au Décret Royal 186 / 2008 du 8 Février publié Journal Officiel (BOE) du 14 février 2008, immatriculé sous le numéro Q-2801668-A, ayant son siège social à Leonardo Prieto Castro, 8, 28040 Madrid, Espagne;
-- 28\. SMN de Suède, l’Institut Météorologique et Hydrologique («SMHI»), une agence gouvernementale, créée par l’Ordonnance SFS 1918:903 du 29 octobre 1918, immatriculée à la TVA sous le numéro SE202100069601, ayant son siège social à SE-601 76 Norrköping, Suède;
-- 29\. SMN de Suisse, Office Fédéral de la Météorologie et de la Climatologie (MétéoSuisse) du Département Fédéral de l’Intérieur, ayant son siège social à Operation Center 1, P.O. Box 257, CH-8058 Zurich-Airport, Suisse;
-- 30\. SMN de l’ancienne République Yougoslave de Macédoine, Service Hydrométéorologique (HMS), établi par 5732131/Gazette 58/2000 du 27 Juillet 2000, ayant son siège social à Skupi 28, Skopje – 1000, ancienne République Yougoslave de Macédoine, et
-- 31\. SMN du Royaume-Uni, Met Office, un Fonds de Commerce Gouvernemental, créé en 1996 par le Statutory Instrument Ref No SI1996/774, immatriculé à la TVA sous le numéro UK888 8053 62, ayant son siège social à FitzRoy Road, Exeter, EX1 3PB, Royaume-Uni.[^ingress-1]
+- 1\. SMN d’Autriche, GeoSphere Austria – Bundesanstalt für Geologie, Geophysik, Klimatologie und Meteorologie (GeoSphere Austria), établi par GeoSphere Austria Errichtungsgesetz BGBl. I Nr. 60/2022, représentant la République d’Autriche, ayant son siège social à Hohe Warte 38, A-1190, Vienne, Autriche;
+- 2\. SMN de Belgique, Institut Royal Météorologique de Belgique (Koninklijk Meteorologisch Instituut), service de l’Etat à gestion séparée, créé par décret Royal le 31 juillet 1913 et modifié par décret Royal le 31 décembre 1986, immatriculé à la TVA sous le numéro BE0349.294.822, ayant son siège social à Avenue Circulaire 3, 1180 Bruxelles, Belgique;
+- 3\. SMN de Croatie, Državni Hidrometeorološki Zavod (DHMZ), un organisme public technique de recherche, établi par un décret du Gouvernement de la République de Croatie le 27 août 1947, immatriculé à la TVA sous le numéro HR 74660437164, ayant son siège social à Ravnice 48, 10000 Zagreb, Croatie;
+- 4\. SMN de Chypre, Cyprus Department of Meteorology, un department du gouvernement sous tutelle du Ministère de l’Agriculture, des Ressources Rurales et de l’Environnement, créé par décision du Conseil des Ministres le 11 Novembre 1975, immatriculé à la TVA sous le numéro CY 90001625M, ayant son siège social à Nikis Ave., 28 1418 Nicosie, Chypre;
+- 5\. SMN de la Republique Tchèque, Institut Hydrométéorologique Tchèque (Český hydrometeorologický ústav), organization parteillement financée par l’Etat agissant en tant qu’institution d’Etat, établi par Décret Gouvernemental N<sup>o</sup> 96/1953 du 27 novembre 1953, ayant sa charte publiée et amendée par le Ministère de l’Environnement, ayant son siège social à Na Šabatce 2050/17, 143 06 Praha 4 – Komořany, Czech Republic;
+- 6\. SMN du Danemark, Institut Météorologique Danois (Danmarks Meteorologiske Institut), institution d’état créée par une décision parlementaire de décembre 1989, immatriculé sous le numéro 1815 9104, ayant son siège social à Sankt Kjels Plads 11, 2100 Copenhague, Danemark;
+- 7\. SMN d’Estonie, Agence Estonienne de l’Environnement, une entité de droit public sous tutelle du Ministère du Climat, créé par la directive N<sup>o</sup> 36 du Ministre de l’Environnement le 19 juin 2015, immatriculé à la TVA sous le numéro EE101646790, ayant son siège social à Mustamäe tee 33, EST-10616, Tallinn, Estonie;
+- 8\. SMN de Finlande, Institut Météorologique Finlandais (Ilmatieteen laitos, FMI), institut avec statut et mandat créé par la loi Laki ilmatieteen laitoksesta 06.04. 2018/212, immatriculé à la TVA sous le numéro FI02446647, ayant son siège social à Erik Palménin aukio 1, P.O Box 503, FI – 00101 Helsinki, Finlande;
+- 9\. SMN de France, Météo-France, Etablissement Public à caractère Administratif créé par le décret n<sup>o</sup> 93-861 et modifié par le décret n<sup>o</sup> 2016–765, immatriculé à la TVA sous le numéro FR03180060030, ayant son siège social à 73, avenue de Paris, 94165 Saint-Mandé Cedex, France;
+- 10\. SMN d’Allemagne, Deutscher Wetterdienst (DWD), institution de droit public jouissant d’une personnalité juridique partielle et relevant du Ministère fédéral du Numérique et des Transports, établie par la Loi relative au «Deutscher Wetterdienst» du 10 septembre 1998, immatriculée à la TVA sous le numéro DE221793973, ayant son siège social à Frankfurter Strasse 135, 63067 Offenbach, Allemagne;
+- 11\. SMN de la Grèce, Service National Météorologique Hellénique, un service d’État relevant du Ministère de la Défense, établi par la Loi 5258 du 8 août 1931 et exerçant ses activités conformément à la Loi 2292 du 15 février 1995 et au Décret présidentiel 161 du 3 juillet 1997, immatriculée à la TVA sous le numéro EL 090153025, ayant son siège social à El. Venizelou 14, 16777 Hellinikon, Athènes, Grèce;
+- 12\. SMN de Hongrie, Service Météorologique Hongrois (OMSZ), une institution centrale indépendante relevant du ministère de l’Enérgie gouverné par le décret gouvernemental n<sup>o</sup> 355/2021 (VI.24.), immatriculée à la TVA sous le numéro HU 15311760, ayant son siège social à H-1024 Budapest, Kitaibel Pál utca 1, Hongrie;
+- 13\. SMN d’Islande, Bureau de Météorologie Islandais (IMO), une institution d’État créée par la décision parlementaire du 11 juin 2008, immatriculée sous le numéro 99733, ayant son siège social à Bustadavegur 9, IS-150 Reykjavik, Islande;
+- 14\. SMN d’Irlande, Met Éireann, une division du Département en charge du Logement, du Gouvernement Local et Patrimoine, , immatriculé à la TVA sous le numéro 4000068T, créée par l’Arrêté des Services Météorologiques (Redistribution des services publics) de 1936, conformément aux dispositions du «Ministers and Secretaries Act» de 1924, ayant son siège social à Glasnevin Hill, Dublin 9, Ireland;
+- 15\. SMN d’Italie, ITAF MET Service, division de l’aviation militaire et de la météorologie (AVIAMM), état-major de l’armée de l’air, ayant son siège social à Viale dell’Università 4 – 00185 Rome, Italie;
+- 16\. SMN de Lettonie, Centre Letton de l’Environnement, de la Géologie et de la Météorologie (LEGMC), établi par ordonnance du Conseil des Ministres Nr. 448, en date du 01/07/2009, immatriculé à la TVA sous le numéro LV50103237791, ayant son siège social à 165 Maskavas Str. Riga, LV-1019, Lettonie;
+- 17\. SMN de la Lituanie, le Service Hydrométéorologique de Lituanie (LHMT), une institution budgétaire de l’État sous la tutelle du ministère de l’environnement, enregistrée dans le registre des personnes morales de la République de Lituanie depuis le 14 août 1997 avec un code d’enregistrement 290743240, immatriculé à la TVA sous le numéro LT907432416, ayant son siège social à Oršos str. 8, LT-09300, Vilnius, Lituanie;
+- 18\. SMN du Luxembourg, Administration de la Navigation Aérienne (MeteoLux), établi par la loi du 21 décembre 2007, immatriculée à la TVA sous le numéro LU22209641, ayant son siège social à 4, route de Trèves, L-2632 Findel, Luxembourg;
+- 19\. SMN de Malte, MAMO, géré par Malta International Airport plc en vertu d’un accord daté du 25 janvier 2002 avec le Gouvernement de Malte, immatriculé à la TVA sous le numéro MT12357210, ayant son siège social à Malta International Airport plc, Aviation Avenue Gudja, Luqa, Malte LQA 4000;
+- 20\. SMN du Monténégro, Institut Hydrométéorologique et séismologique du Monténégro (IHMS), entité publique constituée par le Gouvernement du Monténégro via le Décret du 23 janvier 2012 portant sur l’organisation du travail de l’Administration Publique et par fusion de deux institutions (Institut Hydrométéorologique et Observatoire Séismologique), ayant son siège social à IV Proleterske 19, 81 000 Podgorica, Monténégro;
+- 21\. SMN des Pays-Bas, Institut Royal Météorologique Néerlandais (Koninklijk Nederlands Meteorologisch Instituut, KNMI), une agence gouvernementale relevant du Ministère de Infrastructures et de la Gestion de l’Eau, établie par le décret royal du 31 janvier 1854, immatriculée à la TVA sous le numéro NL8216.93.992B01, ayant son siège social sis à Utrechtseweg 297, NL-3731 GA De Bilt, Pays-Bas;
+- 22\. SMN de Norvège, Institut Météorologique Norvégien (Meteorologisk Institutt, MET Norway), une institution gouvernementale relevant du gouvernement norvégien, dont le statut et le mandat sont définis par le décret royal du 9 décembre 2005, immatriculée sous le numéro NO971274042MVA, ayant son siège social à P.O. Box 43 Blindern, Henrik Mohns plass 1, N-0313 Oslo, Norvège;
+- 23\. SMN de Pologne, Institut de la Météorologie et de la Gestion de l’Eau – Institut National de Recherche (IMGW-PIB), établi sur base du décret du Conseil des Ministres n<sup>o</sup> 338/72 du 30 décembre 1972, immatriculée sous le numéro 0000062756, ayant pour numéro d’identification fiscal n<sup>o</sup> 525 000 88 09, ayant son siège social à ul. Podleśna 61, 01-673 Varsovie, Pologne;
+- 24\. SMN du Portugal, Institut Portugais de la Mer et de l’Atmosphère (Instituto Português do Mar e da Atmosfera, IPMA), une institution publique administrative de l’État créée par DL N<sup>o</sup> 68/2012 du 20 mars 2012, immatriculé sous le numéro fiscal 510 265 600, ayant son siège social à Rua C ao Aeroporto de Lisboa, 1749-077 Lisbonne, Portugal;
+- 25\. SMN de la Roumanie, Administration Météorologique Nationale de la Roumanie (Administrația Națională de Meteorologie, ANM), une institution d’intérêt public national sous l’autorité du Ministère de l’Environnement, des Eaux et Forêts, établie par la Loi n<sup>o</sup> 216/2004 – concernant l’établissement de l’Administration Météorologique Nationale de la Roumanie, immatriculée à la TVA sous le numéro RO11672708, ayant son siège social à Sos. Bucuresti-Ploiesti. Nr. 97, secteur 1, Bucarest, Roumanie;
+- 26\. SMN de la République de Serbie, Service hydrométéorologique de la République de Serbie (RHMSS), fondé en 1947 en tant qu’organisation spéciale au sein de l’administration publique de la République de Serbie, succédant au Service météorologique du Royaume de Serbie établi en 1888, dont les compétences sont définies par la loi sur les ministères, avec le numéro d’identification fiscale 102217008, et dont le siège social se trouve à Kneza Višeslava 66, 11030 Belgrade, Serbie;
+- 27\. SMN de Slovaquie, Institut Hydrométéorologique de Slovaquie (Slovenský hydrometeorologický ústav – SHMÚ), un organisme subventionné établi par Décision N<sup>o</sup> 23/2006 -1.6 du Ministre de l’Environnement de la République Slovaque en date du 12 Juin, 2006 amendant et complétant le texte fondateur de l’Institut Hydrométéorologique de Slovaquie, immatriculé sous le numéro 156 884, ayant son siège social à Jeséniova 17, 833 15 Bratislava, Slovaquie;
+- 28\. SMN de Slovénie, Agence de la République de Slovénie pour l’environnement (Agencija Republike Slovenije za okolje, ARSO), organisme relevant du Ministère de l’Environnement, du Climat et de l’Énergie, créé par le Décret modifiant le Décret sur les organes au sein des ministères (Journal officiel de la République de Slovénie, n<sup>o</sup> 25/23), dont le siège social est situé à Vojkova 1B, SI-1000 Ljubljana, Slovénie;
+- 29\. SMN d’Espagne, Agencia Estatal de Meteorología del Reino de España (AEMET), agence d’Etat conforme au Décret Royal 186 / 2008 du 8 Février publié Journal Officiel (BOE) du 14 février 2008, immatriculé sous le numéro ES-Q-2801668-A, ayant son siège social à Leonardo Prieto Castro, 8, 28071 Madrid, Espagne;
+- 30\. SMN de Suède, l’Institut Météorologique et Hydrologique (SMHI), une agence gouvernementale, créée par l’Ordonnance SFS 1918:903 du 29 octobre 1918, immatriculée à la TVA sous le numéro SE202100069601, ayant son siège social à SE-601 76 Norrköping, Suède;
+- 31\. SMN de Suisse, Office Fédéral de la Météorologie et de la Climatologie (MétéoSuisse) du Département Fédéral de l’Intérieur, immatriculé à la TVA sous le numéro CHE-116.066.488, ayant son siège social à Operation Center 1, P.O. Box 257, CH-8058 Zurich-Airport, Suisse;
+- 32\. SMN de la République de Macédoine du Nord, Service Hydrométéorologique (HMS), établi par 5732131/Gazette 58/2000 du 27 juillet 2000 et l’art. 21 du 7 janvier 1947, ayant son siège social à Skupi 28, Skopje – 1000, République de Macédoine du nord, et
+- 33**.** SMN du Royaume-Uni, Met Office, pour et au nom du Secrétaire d’Etat aux Sciences, à l’Innovation et à la Technologie du Royaume Uni de Grande-Bretagne et d’Irlande du Nord, un Fonds de Commerce Gouvernemental, créé en 1996 par le Statutory Instrument Ref N<sup>o</sup> SI1996/774, immatriculé à la TVA sous le numéro UK888 8053 62, ayant son siège social à FitzRoy Road, Exeter, EX1 3PB, Royaume-Uni.
 
-Ci-après désignés individuellement par «Membre» et collectivement par «Membres»;[^ingress-2]
+Ci-après désignés individuellement par «Membre» et collectivement par «Membres».
 
 En l’absence de dispositions contraires dans cet Accord, les mots commençant par une lettre majuscule auront la signification décrite dans l’Annexe 1 de cet Accord.
 
@@ -84,16 +90,13 @@ souhaitant optimiser la contribution collective des membres aux programmes, proj
 
 dès lors, pour ces motifs, les soussignés ont accepté de créer un Groupement d’Intérêt Économique assujetti au droit belge, en particulier aux art. 839 à 873 du Code des Sociétés belges, et au présent Accord, comme suit:
 
-[^ingress-1]: Nouvelle teneur selon l’Accord d’Amendement du 21 nov. 2018, en vigueur pour la Suisse depuis le 21 nov. 2018 ([RO 2023 170](https://fedlex.data.admin.ch/eli/oc/2023/170)).
-[^ingress-2]: Nouvelle teneur selon l’Accord d’Amendement du 21 nov. 2018, en vigueur pour la Suisse depuis le 21 nov. 2018 ([RO 2023 170](https://fedlex.data.admin.ch/eli/oc/2023/170)).
-
 #### Art. 1
 
 **Dénomination**
 
-<sup>1.</sup> Le groupement a pour dénomination «EUMETNET» (ci-après, le «Groupement»). EUMETNET est légalement constitué sous la forme d’un Groupement d’Intérêt Économique (ci-après, «GIE») en vertu du droit belge.
+<sup>1.</sup> La Société a pour dénomination «EUMETNET» (ci-après, la «Société»). La Société a la personnalité juridique et prend la forme d’une société en nom collectif (en abrégé «*SNC*») en vertu du droit belge.
 
-<sup>2.</sup> La dénomination EUMETNET sera toujours précédée, soit par l’expression «Groupement d’Intérêt Économique», soit par son acronyme «GIE» sur tout document émanant du Groupement.
+<sup>2.</sup> La forme juridique de la Société sera toujours mentionnée sur tout document émanant de la Société.
 
 #### Art. 2
 
@@ -101,107 +104,103 @@ dès lors, pour ces motifs, les soussignés ont accepté de créer un Groupement
 
 <sup>1.</sup>
 
-L’objet du Groupement est, dans l’intérêt collectif de ses membres, de soutenir la responsabilité officielle ou l’activité principale de ses membres et d’organiser la coopération entre ses membres, travaillant ensemble en réseau, afin de les aider à proposer:
+L’objet de la Société est, dans l’intérêt collectif de ses membres, de soutenir les Devoirs Officiels et les Activités de ses Membres et d’organiser la coopération entre ses Membres, travaillant ensemble en réseau, afin de les aider à proposer:
 
 - a) une expertise de premier ordre en matière de météorologie, de climat, d’environnement et dans les activités y afférentes;
 - b) une assistance technique à la communauté scientifique correspondante;
-- c) des données[^2-1] et des produits de haute qualité;
-- d) une communication efficace avec l’UE et la CE en ce qui concerne les affaires relatives à la collectivité des membres.
+- c) des données, produits et services de haute qualité;
+- d) une communication efficace avec l’UE en ce qui concerne les affaires relatives à la collectivité des Membres.
 
 <sup>2.</sup>
 
-L’étendue des activités de coopération au sein du Groupement s’étend aux activités principales de ses membres, en ce compris des domaines – sans pour autant se limiter à ces domaines – tels que:[^2-2]
+L’étendue des activités de coopération au sein de la Société s’étend aux Devoirs Officiels et aux Activités de ses Membres, en ce compris, sans pour autant se limiter à, des domaines tels que:
 
 - a) les systèmes d’observation;
-- b) les bases de données;
-- c) les systèmes de traitement des données et de communication des données;
-- d) les produits de prévision[^2-3];
+- b) la gestion de données;
+- c) les services de prévision;
+- d) les services climatiques;
 - e) la recherche et développement;
 - f) la formation;
 - g) la coordination de l’assistance technique.
 
-<sup>3.</sup> Afin de remplir ses objectifs, le Groupement met en place des Programmes et des Groupes de Travail en ayant recours à l’expertise et aux installations de ses membres grâce à un partage équitable des tâches et des ressources.
+<sup>3.</sup> Afin de remplir ses objectifs, la Société met en place les Programmes et les organismes compétents en ayant recours à l’expertise et aux installations de ses Membres grâce à un partage équitable des tâches et des ressources.
 
-<sup>4.</sup> L’objet du Groupement est également de représenter ses membres, dans leur intérêt collectif, vis-à-vis des tiers compétents, en ce compris les autorités publiques ou les organismes publics tels que les institutions de l’Union Européenne concernées (y compris, sans que ceci soit limitatif, la Commission Européenne). Dans le cadre de cette mission, le Groupement agit, entre autres, en qualité d’interface entre ses membres et des tiers dans les domaines d’intérêt collectif de ses membres afin de permettre (i) la participation, au bénéfice collectif de ses membres, à des appels à proposition au regard de projets (financés de manière externe); et (ii) la signature d’accords ou de contrats avec les organismes tiers concernés, au bénéfice collectif de ses membres, y compris le financement externe d’activités; et (iii) l’amélioration de la coordination et de la coopération au sein de ses membres dans ces domaines.
+<sup>4.</sup> L’objet de la Société est également de représenter ses Membres, dans leur intérêt collectif, vis-à-vis des Tiers compétents, en ce compris les autorités publiques ou les organismes publics tels que les institutions de l’UE concernées (y compris, sans que ceci soit limitatif, la Commission Européenne). Dans le cadre de cette mission, la Société agit, entre autres, en qualité d’interface entre ses Membres et des Tiers dans les domaines d’intérêt collectif de ses Membres afin de permettre (i) la participation, au bénéfice collectif de ses Membres, à des appels à proposition au regard de projets (financés de manière externe); et (ii) la signature d’accords ou de contrats avec les Tiers concernés, au bénéfice collectif de ses Membres, y compris le financement externe d’activités; (iii) l’amélioration de la coordination et de la coopération entre ses Membres dans ces domaines.
 
-<sup>5.</sup> Le Groupement coordonne ses activités avec celles d’organisations européennes existantes en matière de météorologie, telles que le Centre européen pour les prévisions météorologiques à moyen terme (CEPMMT) et l’Organisation européenne pour l’exploitation de satellites météorologiques (EUMETSAT).
+<sup>5.</sup> La Société coordonne ses activités avec celles d’organisations européennes existantes en matière de météorologie, telles que CEPMMT et EUMETSAT.
 
-<sup>6.</sup> Le Groupement respecte les missions de ses membres.
+<sup>6.</sup> La Société respecte les missions de ses Membres.
 
-<sup>7.</sup> Les activités effectuées au sein du Groupement n’empêchent pas que des activités similaires soient effectuées par un membre du Groupement de manière indépendante ou par une coopération bilatérale ou multilatérale.
+<sup>7.</sup> Les activités effectuées au sein de la Société n’empêchent pas que des activités similaires soient effectuées par un Membre de manière indépendante ou par une coopération bilatérale ou multilatérale.
 
-<sup>8.</sup> Dans le cadre de son objet, les activités effectuées par le Groupement doivent se rattacher à l’activité économique de ses membres, tout en conservant un caractère auxiliaire par rapport à l’activité économique en question.
+<sup>8.</sup> Dans le cadre de son objet, les activités effectuées par la Société doivent se rattacher à l’activité économique de ses Membres, tout en conservant un caractère auxiliaire par rapport à l’activité économique en question.
 
-<sup>9.</sup> Afin d’écarter tout doute, l’objet du Groupement n’est ni de faire des bénéfices, ni d’entreprendre quelque activité commerciale que ce soit.
-
-[^2-1]: Nouvelle expression selon l’art. 2 ch. 2.1 de l’Accord d’Amendement du 21 nov. 2018, en vigueur pour la Suisse depuis le 21 nov. 2018 ([RO 2023 170](https://fedlex.data.admin.ch/eli/oc/2023/170)).
-[^2-2]: Mise à jour par l’art. 2 ch. 2.1 de l’Accord d’Amendement du 21 nov. 2018, en vigueur pour la Suisse depuis le 21 nov. 2018 ([RO 2023 170](https://fedlex.data.admin.ch/eli/oc/2023/170)).
-[^2-3]: Nouvelle expression selon l’art. 2 ch. 2.1 de l’Accord d’Amendement du 21 nov. 2018, en vigueur pour la Suisse depuis le 21 nov. 2018 ([RO 2023 170](https://fedlex.data.admin.ch/eli/oc/2023/170)).
+<sup>9.</sup> Afin d’écarter tout doute, la Société ne s’engage d’aucune manière dans une activité commerciale qui générerait un profit pour lui-même ou pour ses Membres, mais peut représenter collectivement ses Membres dans une activité limitée au remboursement des coûts de la Société et de ses Membres.
 
 #### Art. 3
 
 **Programmes**
 
-<sup>1.</sup> Les Programmes sont, soit des Programmes Principaux qui sont entrepris par tous les membres, soit des Programmes Optionnels qui sont entrepris par un groupe de membres. Dans les deux cas, ces Programmes doivent être conformes aux objectifs du Groupement tels qu’exposés à l’art. 2, et doivent bénéficier à l’intérêt collectif des membres.
+<sup>1.</sup> Les Programmes sont, soit des Programmes Obligatoires qui sont entrepris par tous les Membres, soit des Programmes Optionnels qui sont entrepris par un groupe de Membres. Dans les deux cas, ces Programmes doivent être conformes aux objectifs de la Société tels qu’exposés à l’art. 2, et doivent bénéficier à l’intérêt collectif des Membres.
 
 <sup>2.</sup> Tout Programme est initié par une Décision de Programme qui spécifie les objectifs, le résultat escompté, les limites budgétaires, les exigences de ressources et les étapes principales du Programme.
 
-<sup>3.</sup> La décision portant création d’un Programme Principal est prise par l’Assemblée des Membres.
+<sup>3.</sup> La décision portant création d’un Programme Obligatoire est prise par l’Assemblée des Membres.
 
-<sup>4.</sup> La décision de principe portant création d’un Programme Optionnel est prise par l’Assemblée des Membres au cours de laquelle les membres déclarent leur intention de participer.
+<sup>4.</sup> La décision de principe portant création d’un Programme Optionnel est prise par l’Assemblée des Membres au cours de laquelle les Membres déclarent leur intention de participer.
 
-<sup>5.</sup> Chaque membre doit confirmer sa décision de participer et d’engager les ressources pour un Programme Optionnel par écrit dans les trois mois suivant la décision de l’Assemblée des Membres portant création d’un Programme Optionnel. La participation et l’engagement d’au moins deux[^3-1] des membres sont nécessaires afin que la Décision de Programme entre en vigueur. Après l’entrée en vigueur d’une Décision de Programme Optionnel, les membres ayant confirmé leur décision de participer et d’engager les ressources pour le Programme sont appelés Membres Participants à ce Programme. L’exécution du Programme débute seulement si et dès lors que les contributions combinées des membres ayant confirmé leur participation représentent au moins 80 % de la contribution totale des membres ayant déclaré leur intention de participer au Programme Optionnel. À défaut, l’Assemblée des Membres réexamine la décision.
+<sup>5.</sup> Chaque Membre doit confirmer sa décision de participer et d’engager les ressources pour un Programme Optionnel par écrit dans les trois mois suivant la décision de l’Assemblée des Membres portant création d’un Programme Optionnel. La participation et l’engagement d’au moins deux des Membres sont nécessaires afin que la Décision de Programme entre en vigueur. Après l’entrée en vigueur d’une Décision de Programme Optionnel, les Membres ayant confirmé leur décision de participer et d’engager les ressources pour le Programme sont appelés Membres Participants à ce Programme. L’exécution du Programme débute seulement si et dès lors que les Contributions combinées des Membres ayant confirmé leur participation représentent au moins 80 % de la Contribution totale des membres ayant déclaré leur intention de participer au Programme Optionnel. À défaut, l’Assemblée des Membres réexamine la décision.
 
 <sup>6.</sup> Les Membres ont le droit de devenir des Membres Participants au cours de l’exécution du Programme Optionnel. Dans ce cas, ils doivent fournir une compensation aux Membres Participants pour les frais d’ores et déjà engendrés par le Programme Optionnel jusqu’à la date de leur entrée. Le niveau de compensation est déterminé par les Membres Participants après consultation du Directeur Exécutif qui apporte assistance et conseils à cet égard.
 
-<sup>7.</sup> Le Groupement délègue à un membre, appelé Membre chargé de la Coordination du Programme, le pouvoir de gestion de l’exécution du Programme, conformément à la Décision de Programme. Toute délégation de ce type est d’une durée définie n’excédant pas cinq (5) ans, mais peut être renouvelée. La délégation peut permettre le recours à des sous-contractants extérieurs n’appartenant pas au Groupement.
+<sup>7.</sup> Les Membres qui ne sont pas des Membres Participants à un Programme Optionnel mais qui soutiennent le Programme par une contribution en nature sont appelés Membres de Soutien. Leur soutien au Programme est reconnu dans la Décision de Programme concernée.
 
-<sup>8.</sup> Le Membre chargé de la Coordination d’un Programme est sélectionné par l’Assemblée des Membres.
+<sup>8.</sup> La Société délègue à un Membre, appelé Membre chargé de la Coordination du Programme, le pouvoir de gestion de l’exécution du Programme, conformément à la Décision de Programme. Toute délégation de ce type est d’une durée définie n’excédant pas cinq (5) ans, mais peut être renouvelée. La délégation peut permettre le recours à des sous-contractants extérieurs n’appartenant pas à la Société.
 
-<sup>9.</sup> La Décision de Programme fixe les conditions spécifiques relatives au retrait d’un membre ainsi que les conditions spécifiques relatives au retrait ou à la démission de sa délégation du Membre chargé de la Coordination du Programme.
+<sup>9.</sup> Le Membre chargé de la Coordination d’un Programme est sélectionné par l’Assemblée des Membres.
 
-[^3-1]: Nouvelle expression selon l’art. 2 ch. 2.2 de l’Accord d’Amendement du 21 nov. 2018, en vigueur pour la Suisse depuis le 21 nov. 2018 ([RO 2023 170](https://fedlex.data.admin.ch/eli/oc/2023/170)).
+<sup>10.</sup> La Décision de Programme fixe les conditions spécifiques relatives au retrait d’un Membre ainsi que les conditions spécifiques relatives au retrait ou à la démission de sa délégation du Membre chargé de la Coordination du Programme.
+
+<sup>11.</sup> L’Assemblée des Membres peut déléguer le pouvoir de gestion de l’exécution d’un Programme au Secrétariat si elle l’estime plus efficace.
 
 #### Art. 4
 
 **Assemblée des Membres**
 
-<sup>1.</sup> L’Assemblée des Membres est composée d’un (1) représentant de chaque membre. Les représentants peuvent se faire assister de conseillers.
+<sup>1.</sup> L’Assemblée des Membres est composée d’un (1) représentant de chaque Membre. Les représentants peuvent se faire assister de conseillers.
 
-<sup>2.</sup> Un membre peut représenter un (1) autre membre lors d’une réunion de l’Assemblée des Membres. Une autorisation écrite est exigée à cette fin. Le membre représenté est réputé être présent.
+<sup>2.</sup> Un Membre peut représenter un (1) autre Membre lors d’une réunion de l’Assemblée des Membres. Une autorisation écrite est exigée à cette fin. Le Membre représenté est réputé être présent.
 
 <sup>3.</sup> L’Assemblée des Membres élit et désigne un président et un vice-président pour une durée de deux (2) ans, avec la possibilité d’une seule réélection.
 
-<sup>4.</sup> L’Assemblée des Membres se réunit régulièrement conformément aux Accords de Travail du Groupement. Des réunions supplémentaires de l’Assemblée des Membres ont lieu à la demande d’au moins un quart des membres du Groupement.
+<sup>4.</sup> L’Assemblée des Membres se réunit régulièrement conformément aux Accords de Travail de la Société. Des réunions supplémentaires de l’Assemblée des Membres ont lieu à la demande d’au moins un quart des membres de la Société.
 
-<sup>5.</sup> La réunion annuelle de l’Assemblée des Membres a lieu au siège du Groupement le troisième lundi de mai de chaque année ou, dans l’éventualité où le troisième lundi de mai ne serait pas un jour ouvrable en Belgique, le premier jour ouvrable suivant le troisième lundi de mai. L’Assemblée des Membres, par vote unanime, peut cependant décider d’organiser la réunion annuelle dans un lieu différent et/ou d’avancer ou de reporter la réunion annuelle, à condition que les comptes annuels soient préparés et approuvés dans les délais exigés par le droit belge.
+<sup>5.</sup> La réunion annuelle de l’Assemblée des Membres a lieu endéans les six mois à partir de la clôture de l’exercice comptable, en un lieu, une place et une heure à convenir par le Directeur Exécutif et le Président de l’Assemblée des Membres.
 
-<sup>6.</sup> ...[^4-1]
-
-[^4-1]: Abrogé par l’art. 2 ch. 2.3 de l’Accord d’Amendement du 21 nov. 2018, avec effet pour la Suisse au 21 nov. 2018 ([RO 2023 170](https://fedlex.data.admin.ch/eli/oc/2023/170)).
+<sup>6.</sup> Les détails supplémentaires sur les modalités de convocation d’une réunion de l’Assemblée des Membres sont fixés dans les Accords de Travail.
 
 #### Art. 5
 
 **Administration**
 
-<sup>1.</sup> Le Directeur Exécutif agit en qualité de gérant (*manager/zaakvoerder*) du Groupement.
+<sup>1.</sup> Le Directeur Exécutif agit en qualité de gérant de la Société.
 
 <sup>2.</sup>
 
-Le Directeur Exécutif administre le Groupement, conformément à l’objet du Groupement et aux directives de l’Assemblée des Membres. Le Directeur Exécutif se charge de la liaison avec le président et le vice-président de l’Assemblée des Membres. Le travail du Directeur Exécutif est régi, dans la mesure applicable, par une délégation de pouvoir (en ce compris des règles détaillées en matière de pouvoirs bancaires) par l’Assemblée des Membres au Directeur Exécutif. Les responsabilités du Directeur Exécutif incluent:
+Le Directeur Exécutif administre la Société, conformément à l’objet de la Société et aux directives de l’Assemblée des Membres. Le Directeur Exécutif se charge de la liaison avec le président et le vice-président de l’Assemblée des Membres. Le travail du Directeur Exécutif est régi, dans la mesure applicable, par une délégation de pouvoir (en ce compris des règles détaillées en matière de pouvoirs bancaires) par l’Assemblée des Membres au Directeur Exécutif. Les responsabilités du Directeur Exécutif incluent:
 
-- – la gestion journalière du Groupement;
+- – la gestion journalière de la Société;
 - – l’exécution des décisions prises par l’Assemblée des Membres;
-- – la tenue des livres et des comptes des opérations du Groupement et la gestion de ses actifs;
+- – la tenue des livres et des comptes des opérations de la Société et la gestion de ses actifs;
 - – la consultation de l’Assemblée des Membres au sujet de toute question importante ou extraordinaire;
 - – la préparation du plan d’activité annuel et du budget annuel;
 - – le suivi de l’exécution des Programmes;
-- – l’information de l’Assemblée des Membres tous les six mois, ou à tout autre moment lorsque cela est demandé par l’Assemblée des Membres, sur les activités, les développements et la situation financière du Groupement;
-- – en cas de demande écrite par un membre, l’information donnée à ce membre sur les activités, les développements et la situation financière du Groupement.
+- – l’information de l’Assemblée des Membres tous les six mois, ou à tout autre moment lorsque cela est demandé par l’Assemblée des Membres, sur les activités, les développements et la situation financière de la Société;
+- – en cas de demande écrite par un Membre, l’information donnée à ce Membre sur les activités, les développements et la situation financière de la Société.
 
-<sup>3.</sup> Le Directeur Exécutif peut valablement représenter le Groupement vis-à-vis des tiers et devant les autorités judiciaires.
+<sup>3.</sup> Le Directeur Exécutif peut valablement représenter la Société vis-à-vis des Tiers et devant les autorités judiciaires.
 
-<sup>4.</sup> Le Directeur Exécutif a le pouvoir, sous réserve d’une approbation préalable de l’Assemblée des Membres, de signer des contrats et des accords au nom du Groupement avec des tiers.
+<sup>4.</sup> Le Directeur Exécutif a le pouvoir, sous réserve d’une approbation préalable de l’Assemblée des Membres, de signer des contrats et des accords au nom de la Société avec des Tiers.
 
 <sup>5.</sup> Le Directeur Exécutif est assisté et soutenu par le Secrétariat.
 
@@ -209,335 +208,334 @@ Le Directeur Exécutif administre le Groupement, conformément à l’objet du G
 
 **Rôle de l’Assemblée des Membres**
 
-<sup>1.</sup> L’Assemblée des Membres est seule compétente pour prendre toutes les décisions nécessaires à l’exécution de cet Accord.
+<sup>1.</sup> L’Assemblée des Membres est compétente de manière exclusive pour prendre toutes les décisions nécessaires à l’exécution de cet Accord.
 
-<sup>2.</sup>
+<sup>2.</sup> Sous réserve des exigences en matière de vote contenues à l’art. 7, l’Assemblée des Membres est compétente de manière exclusive pour:
 
-Sous réserve des exigences en matière de vote contenues à l’art. 7, l’Assemblée des Membres est seule compétente pour:
-
-- a) décider de l’adhésion au Groupement;
+- a) décider de l’adhésion à la Société;
 - b) élire le Président et le vice-Président de l’Assemblée des Membres;
 - c) sélectionner et désigner le Directeur Exécutif;
 - d) amender cet Accord;
-- e) décider des lignes directrices stratégiques ou générales qui établiront le cadre pour l’activité du Groupement;
-- f) arrêter les Accords de Travail et les Règles de Gestion Financière du Groupement;
+- e) décider des lignes directrices stratégiques ou générales qui établiront le cadre pour l’activité du Société;
+- f) arrêter les Accords de Travail et les Règles de Gestion Financière de la Société;
 - g) approuver le budget annuel;
-- h) approuver les comptes annuels du Groupement;
+- h) approuver les comptes annuels de la Société;
 - i) donner décharge au Directeur Exécutif;
 - j) établir des Programmes conformément à l’art. 3;
 - k) décider des modifications des Décisions de Programme;
 - l) décider, en prenant appui sur les recommandations du Directeur Exécutif, des mesures correctives ou préventives dans le cadre de l’exécution de Programmes.
 
-<sup>3.</sup> L’Assemblée des Membres peut créer des organismes subsidiaires lorsque cela est opportun. En particulier, elle peut créer des Conseils de Programme pour des Programmes ou des activités déterminés afin d’aider l’Assemblée des Membres à superviser et planifier ces Programmes ou activités en question et afin de préparer les décisions de l’Assemblée des Membres à cet égard.
-
-<sup>4.</sup> L’Assemblée des Membres peut créer pour chaque Programme un ou plusieurs Comité Consultatif de Programme agissant en qualité de conseiller auprès du Membre chargé de la Coordination du Programme.
+<sup>3.</sup> L’Assemblée des Membres peut créer des organismes subsidiaires lorsque cela est opportun pour la supervision et la planification d’un Programme ou d’une activité et afin d’aider l’Assemblée des Membres dans un processus de prise de décision.
 
 #### Art. 7
 
 **Vote et Vote Hors Comité**
 
-<sup>1.</sup> Chaque membre de l’Assemblée des Membres dispose d’une voix. Lors de tout vote de l’Assemblée des Membres, les abstentions ne sont pas comptabilisées dans le décompte des voix, excepté lorsque l’unanimité ou une majorité des deux tiers sont exigées, auxquels cas les abstentions sont comptabilisées en tant que votes favorables à la proposition ou décision.
+<sup>1.</sup> Chaque Membre dispose d’une voix. Lors de tout vote de l’Assemblée des Membres, les abstentions ne sont pas comptabilisées dans le décompte des voix, excepté lorsque l’unanimité ou une majorité des deux tiers sont exigées, auxquels cas les abstentions sont comptabilisées en tant que votes favorables à la proposition ou décision.
 
-<sup>2.</sup> À défaut de dispositions contraires prévues dans cet Accord, les réunions de l’Assemblée des Membres peuvent avoir lieu seulement lorsque la majorité des membres au moins sont présents ou valablement représentés. Si ce quorum n’est pas atteint, l’Assemblée des Membres est réunie à nouveau aussitôt que les circonstances le permettent, et est considérée comme ayant été valablement réunie sans égard au quorum des membres présents ou représentés (étant entendu cependant, que les majorités de vote établies dans cet Accord demeurent inchangées).
+<sup>2.</sup> À défaut de dispositions contraires prévues dans cet Accord, les réunions de l’Assemblée des Membres peuvent avoir lieu seulement lorsque la majorité simple (i.e. 50 % + 1) des Membres au moins sont présents ou valablement représentés. Si ce quorum n’est pas atteint, la réunion de l’Assemblée des Membres, avec le même ordre du jour que la réunion initiale, est réunie à nouveau (en respectant le même délai de préavis et les mêmes formalités que la réunion initiale) à une date ultérieure, et la réunion peut avoir lieu valablement sans égard au quorum des Membres présents ou représentés (étant entendu cependant, que les majorités de vote établies dans cet Accord demeurent inchangées).
 
 <sup>3.</sup>
 
-L’Assemblée des Membres, agissant par vote unanime de tous les membres habilités à voter, décide:
+L’Assemblée des Membres, agissant par vote unanime et pour autant que tous les Membres soient présents ou représentés, décide:
 
-- a) de la création de Programmes Principaux conformément à l’art. 3;
-- b) des modifications de Décisions de Programme Principal lorsque cela est opportun;
-- c) de la durée de chaque Programme Principal et du plafond des dépenses;
-- d) du plafond de dépenses de trois ans pour le Secrétariat;
-- e) de l’acceptation de nouveaux membres;
-- f)[^7-1] de la mise en place de Projets avec Tiers lorsqu’il n’y a pas de sous-ensemble prédéfini de Membres impliqués;
-- g)[^7-2] de la mise en place de Memoranda de Coopération ou Memoranda d’Accord;
-- h)[^7-3] de tout amendement à cet Accord ou de toute extension des activités du Groupement;
-- i)[^7-4] de l’exonération de la responsabilité d’un membre quittant le Groupement pour des engagements pris avant la notification officielle de sa décision de quitter le Groupement, le membre en question étant exclu du vote en question;
-- j) de la dissolution du Groupement et, dans un tel cas, de la décision sur les accords nécessaires concernant les Programmes en cours d’exécution et les actifs communs;
-- k) de la conclusion, par le Groupement, de prêts supérieurs aux limites fixées dans les Règles de Gestion Financière;
-- l) du transfert du siège social du Groupement.
+- a) de l’acceptation de nouveaux membres;
+- b) de tout amendement à cet Accord ou de toute extension des activités de la Société;
+- c) de la dissolution de la Société et, dans un tel cas, de la décision sur les accords nécessaires concernant les Programmes en cours d’exécution et les actifs communs.
 
 <sup>4.</sup>
 
-Par un vote d’une majorité d’au moins deux tiers des membres présents et votant, représentant au moins deux tiers du montant total de l’échelle RNB des contributions financières de l’année en cours de tous les membres conformément à l’art. 9 par. 1, l’Assemblée des Membres doit:
+L’Assemblée des Membres, agissant par vote unanime des Membres présents et habilités à voter, représentant au moins deux tiers du montant total de l’échelle RNB des contributions financières de l’année en cours de tous les Membres conformément à l’art. 9.1, décide:
 
-- a) adopter ou modifier les Accords de Travail et les Règles de Gestion Financière;
-- b) sélectionner et désigner les réviseurs et, le cas échéant, les commissaires, et fixer leur rémunération;
-- c) lorsque cela est nécessaire, approuver le budget annuel des Programmes Principaux dans les limites financières arrêtées dans la Décision de Programme;
-- d) approuver le plan d’activité annuel et le budget annuel du Secrétariat dans le cadre des limites financières convenues pour la période de trois ans;
-- e) donner son accord préalable aux décisions concernant les transactions, conformément aux Règles de Gestion Financière, en ce compris les prêts inférieurs aux limites fixées par les Règles de Gestion Financière;
-- f)[^7-5] mettre en place des Projets avec Tiers lorsqu’il y a un sous-ensemble prédéfini de Membres impliqués;
-- g)[^7-6] approuver les Accords de Coopération;
-- h)[^7-7] adopter l’échelle RNB des frais d’adhésion des membres conformément à l’art. 9;
-- i)[^7-8] décider de l’exclusion d’un membre, le membre en question étant exclu du vote en question.
+- a) de l’établissement des Programmes Obligatoires conformément à l’art. 3;
+- b) des modifications des Programmes Obligatoires lorsque cela est opportun;
+- c) de la durée de chaque Programme Obligatoire et du plafond des dépenses;
+- d) du plafond de dépenses de trois ans pour le Secrétariat;
+- e) de la mise en place de Projets avec Tiers lorsqu’il n’y a pas de sous-ensemble prédéfini de Membres impliqués;
+- f) de la mise en place de Memoranda de Coopération ou Memoranda d’Accord;
+- g) de l’exonération de la responsabilité d’un Membre quittant la Société pour des engagements pris avant la notification officielle de sa décision de quitter la Société, le Membre en question étant exclu du vote en question;
+- h) de la conclusion, par la Société, de prêts supérieurs aux limites fixées dans les Règles de Gestion Financière;
+- i) du transfert du siège social de la Société.
 
 <sup>5.</sup>
 
-Par un vote nécessitant une majorité des deux tiers des membres présents et votant, l’Assemblée des Membres doit:
+Par un vote d’une majorité d’au moins deux tiers des Membres présents et habilités à voter, représentant au moins deux tiers du montant total de l’échelle RNB des contributions financières de l’année en cours de tous les Membres conformément à l’art. 9.1, l’Assemblée des Membres doit:
 
-- a) approuver les comptes annuels du Groupement;
+- a) adopter ou modifier les Accords de Travail et les Règles de Gestion Financière;
+- b) sélectionner et désigner les réviseurs et, le cas échéant, les commissaires, et fixer leur rémunération;
+- c) lorsque cela est nécessaire, approuver le budget annuel des Programmes Obligatoires dans les limites financières arrêtées dans la Décision de Programme;
+- d) approuver le plan d’activité annuel et le budget annuel du Secrétariat dans le cadre des limites financières convenues pour la période de trois ans;
+- e) donner son accord préalable aux décisions concernant les transactions, conformément aux Règles de Gestion Financière, en ce compris les prêts inférieurs aux limites fixées par les Règles de Gestion Financière;
+- f) mettre en place des Projets avec Tiers lorsqu’il y a un sous-ensemble prédéfini de Membres impliqués;
+- g) approuver les Accords de Coopération;
+- h) adopter l’échelle RNB des Frais d’Adhésion des Membres conformément à l’art. 9;
+- i) décider de l’exclusion d’un membre, le membre concerné étant exclu du vote en question;
+
+<sup>6.</sup>
+
+Par un vote nécessitant au moins une majorité des deux tiers des Membres présents et habilités à voter, l’Assemblée des Membres doit:
+
+- a) approuver les comptes annuels de la Société;
 - b) élire et désigner le Président et le vice-Président de l’Assemblée des Membres;
 - c) décider de la création d’un Programme Optionnel;
 - d) désigner ou suspendre la nomination du Directeur Exécutif.
 
-<sup>6.</sup>
+<sup>7.</sup> Par un vote nécessitant au moins une majorité simple (i.e. 50 % + 1) des Membres présents et habilités à voter, l’Assemblée des Membres sélectionne le Membre chargé de la Coordination du Programme pour chaque Programme, ou délégue la gestion d’un tel Programme au Secrétariat.
 
-Par un vote nécessitant une majorité simple des membres présents et votant, l’Assemblée des Membres doit:
+<sup>8.</sup> Lorsqu’aucune majorité spéciale n’est précisée dans cet Accord, l’Assemblée des Membres agit sur majorité simple (i.e. 50 % + 1) des Membres présents et autorisés à voter.
 
-- a) sélectionner le Membre chargé de la Coordination du Programme pour chaque Programme.
-
-<sup>7.</sup> Lorsqu’aucune majorité spéciale n’est précisée dans cet Accord, l’Assemblée des Membres agit sur majorité simple.
-
-<sup>8.</sup> Lorsqu’aucune majorité spéciale n’est spécifiée, les Membres Participants agissent sur majorité simple.
+<sup>9.</sup> Lorsqu’aucune majorité spéciale n’est spécifiée, les Membres Participants agissent sur majorité simple (i.e. 50 % + 1).
 
 Lors de décisions relatives à un Programme Optionnel, les Membres Participants doivent:
 
-- a) fixer à l’unanimité le plafond des dépenses tout au long de la durée du Programme;
-- b) par un vote nécessitant une double majorité des deux tiers (telle que spécifiée au par. 4 ci-dessus, mais limitée aux Membres Participants), approuver le budget annuel dans les limites du plafond budgétaire fixé par la Décision de Programme;
-- c) par un vote nécessitant une double majorité des deux tiers, accepter le retrait d’un Membre Participant conformément aux règles stipulées dans la Décision de Programme.
+- a) fixer, à l’unanimité de ceux présent et autorisés à voter, représentant au moins deux tiers du montant total des contributions financières de l’année en cours au Programme conformément à l’art. 9.2, le plafond des dépenses tout au long de la durée du Programme;
+- b) par un vote nécessitant au moins une majorité des deux tiers, représentant au moins deux-tiers du montant total des contributions financières de l’année en cours au Programme conformément à l’art. 9.2, approuver le budget annuel dans les limites du plafond budgétaire fixé par la Décision de Programme;
+- c) par un vote nécessitant au moins une majorité des deux tiers, représentant au moins deux tiers du montant total des contributions financières de l’année en cours au Programme conformément à l’art. 9.2, accepter le retrait d’un Membre Participant conformément aux règles stipulées dans la Décision de Programme.
 
-<sup>9.</sup> En présence de cas exceptionnels ou urgents, le Directeur Exécutif peut être autorisé par le Président de l’Assemblée des Membres à organiser un vote électronique ou un vote par correspondance conformément aux conditions fixées dans les Accords de Travail.
-
-[^7-1]: Nouvelle teneur selon l’art. 2 ch. 2.4 de l’Accord d’Amendement du 21 nov. 2018, en vigueur pour la Suisse depuis le 21 nov. 2018 ([RO 2023 170](https://fedlex.data.admin.ch/eli/oc/2023/170)).
-[^7-2]: Introduit par l’art. 2 ch. 2.4 de l’Accord d’Amendement du 21 nov. 2018, en vigueur pour la Suisse depuis le 21 nov. 2018 ([RO 2023 170](https://fedlex.data.admin.ch/eli/oc/2023/170)).
-[^7-3]: Anciennement sous-par. g).
-[^7-4]: Anciennement sous-par. h). Ancien sous-par. i abrogé part l’art. 2 ch. 2.4.
-[^7-5]: Introduit par l’art. 2 ch. 2.4 de l’Accord d’Amendement du 21 nov. 2018, en vigueur pour la Suisse depuis le 21 nov. 2018 ([RO 2023 170](https://fedlex.data.admin.ch/eli/oc/2023/170)).
-[^7-6]: Introduit par l’art. 2 ch. 2.4 de l’Accord d’Amendement du 21 nov. 2018, en vigueur pour la Suisse depuis le 21 nov. 2018 ([RO 2023 170](https://fedlex.data.admin.ch/eli/oc/2023/170)).
-[^7-7]: Anciennement sous-par. f).
-[^7-8]: Anciennement sous-par. g).
+<sup>10.</sup> En présence de cas exceptionnels ou urgents, le Directeur Exécutif peut être autorisé par le Président de l’Assemblée des Membres à organiser un vote électronique ou un vote par correspondance (en lieu et place d’une réunion) conformément aux conditions fixées dans les Accords de Travail.
 
 #### Art. 8
 
 **Siège Social**
 
-<sup>1.</sup> Le siège social du Groupement est établi dans les locaux de l’Institut Royal Météorologique de Belgique, avenue Circulaire 3, 1180 Bruxelles, Belgique.
+<sup>1.</sup> Le siège social de la Société est établi dans les locaux de l’Institut Royal Météorologique de Belgique, avenue Circulaire 3, 1180 Bruxelles, Belgique.
 
 <sup>2.</sup> Le siège social peut être transféré dans un lieu différent en Belgique par l’Assemblée des Membres, sous réserve des lois belges applicables en matière d’usage des langues.
 
-<sup>3.</sup> En tout état de cause, la mention et l’adresse du siège social sont clairement visibles sur tous les documents émanant du Groupement.
+<sup>3.</sup> En tout état de cause, la mention et l’adresse du siège social sont clairement visibles sur tous les documents émanant de la Société.
 
 #### Art. 9
 
 **Financement – Comptes Annuels**
 
-<sup>1.</sup> Les coûts du Secrétariat et des Programmes Principaux sont partagés entre tous les membres, au moyen de frais d’adhésion, sur la base d’une échelle basée sur la moyenne du revenu national brut de leur pays respectif au cours des trois dernières années civiles pour lesquelles des statistiques sont disponibles (l’«échelle RNB»). L’échelle RNB est mise à jour tous les trois ans ou de manière plus fréquente, à la discrétion de l’Assemblée des Membres.
+<sup>1.</sup> Les coûts du Secrétariat et des Programmes Obligatoires sont partagés entre tous les Membres, au moyen de Frais d’Adhésion, sur la base d’une échelle basée sur la moyenne du revenu national brut de leur pays respectif au cours des trois dernières années civiles pour lesquelles des statistiques sont disponibles (l’«échelle RNB»). L’échelle RNB est mise à jour tous les trois ans ou de manière plus fréquente, à la discrétion de l’Assemblée des Membres.
 
-<sup>2.</sup> L’échelle des contributions des membres aux Programmes Optionnels est en principe basée sur le revenu national brut. Cependant, les Membres Participants peuvent en convenir autrement.
+<sup>2.</sup> L’échelle des Contributions aux Programmes Optionnels est en principe basée sur le revenu national brut. Cependant, les Membres Participants peuvent en convenir autrement.
 
-<sup>3.</sup> Le budget des Programmes est fixé en euro. Tous les frais d’adhésion et les contributions sont fixés et payés en euro.
+<sup>3.</sup> Les Tiers coopérant avec la Société et participant aux Programmes Obligatoires et Optionnels contribuent aux Programmes et au budget du Secrétariat conformément aux règles établies par l’Assemblée des Membres.
 
-<sup>4.</sup> Le Secrétariat collecte tous les frais d’adhésion et les contributions conformément aux décisions de l’Assemblée des Membres.
+<sup>4.</sup> Le budget des Programmes est fixé en Euros. Tous les Frais d’Adhésion et les Contributions sont fixés et payés en Euros.
 
-<sup>5.</sup> Si, à tout moment, aucun fond n’est disponible afin de couvrir des paiements qui sont immédiatement exigibles du Groupement, le Directeur Exécutif peut obtenir auprès d’une banque des avances de trésorerie ou un découvert pour une période n’excédant pas trois mois. Si ceci n’est pas suffisant, il/elle peut conclure un prêt, après accord préalable de l’Assemblée des Membres, conformément et dans les limites des Règles de Gestion Financière et des exigences en matière de vote établies dans cet Accord.
+<sup>5.</sup> Le Secrétariat collecte tous les Frais d’Adhésion et les Contributions conformément aux décisions de l’Assemblée des Membres.
 
-<sup>6.</sup> En cas de retard de paiement de ses frais d’adhésion ou de ses contributions, un membre est obligé de payer une compensation conformément aux Règles de Gestion Financière.
+<sup>6.</sup> Si, à tout moment, aucun fond n’est disponible afin de couvrir des paiements qui sont immédiatement exigibles de la Société, le Directeur Exécutif peut obtenir auprès d’une banque des avances de trésorerie ou un découvert pour une période n’excédant pas trois mois. Si ceci n’est pas suffisant, il/elle peut conclure un prêt, après accord préalable de l’Assemblée des Membres, conformément et dans les limites des Règles de Gestion Financière et des exigences en matière de vote établies dans cet Accord.
 
-<sup>7.</sup> Lorsqu’un membre ne procède pas au paiement des frais d’adhésion ou des contributions qui lui sont exigés durant une période d’un an, il perd son droit de vote aux réunions de l’Assemblée des Membres jusqu’à ce qu’il soit procédé au règlement des frais d’adhésion ou des contributions impayés.
+<sup>7.</sup> En cas de retard de paiement de ses Frais d’Adhésion ou de ses Contributions, un Membre est obligé de payer une compensation conformément aux Règles de Gestion Financière.
 
-<sup>8.</sup> L’exercice comptable du Groupement débute le 1<sup>er</sup> janvier et se termine le 31 décembre. Le premier exercice comptable débute à la date du dépôt du présent Accord et s’étend jusqu’au 31 décembre 2010.
+<sup>8.</sup> Lorsqu’un Membre ne procède pas au paiement des Frais d’Adhésion ou des Contributions qui lui sont exigés durant une période d’un an, il perd son droit de vote aux réunions de l’Assemblée des Membres jusqu’à ce qu’il soit procédé au règlement des Frais d’Adhésion ou des Contributions impayés.
 
-<sup>9.</sup> Le Directeur Exécutif prépare les comptes annuels conformément à la législation comptable en vigueur et aux dispositions d’application (telles que modifiées régulièrement).[^9-1] Les comptes annuels sont présentés à l’Assemblée des Membres en vue d’obtenir leur approbation lors de la réunion annuelle.
+<sup>9.</sup> L’exercice comptable de la Société débute le 1<sup>er</sup> janvier et se termine le 31 décembre.
 
-[^9-1]: Nouvelle teneur selon l’art. 2 ch. 2.5 de l’Accord d’Amendement du 21 nov. 2018, en vigueur pour la Suisse depuis le 21 nov. 2018 ([RO 2023 170](https://fedlex.data.admin.ch/eli/oc/2023/170)).
+<sup>10.</sup> Le Directeur Exécutif prépare les comptes annuels conformément à la législation comptable en vigueur et aux dispositions d’application (telles que modifiées régulièrement). Les comptes annuels sont présentés à l’Assemblée des Membres en vue d’obtenir leur approbation lors de la réunion annuelle.
 
 #### Art. 10
 
 **Contrôle des Comptes**
 
-<sup>1.</sup> L’Assemblée des Membres sélectionne un (ou plusieurs) réviseur(s) afin de vérifier la gestion du Groupement et ses comptes. La sélection se fera en dehors des membres du Groupement. Le mandat du ou des réviseurs est d’un an et peut être renouvelé par l’Assemblée des Membres.
+<sup>1.</sup> L’Assemblée des Membres sélectionne un (ou plusieurs) réviseur(s) statutaire(s) afin de vérifier la gestion de la Société et ses comptes. Le ou les réviseurs sont indépendants des Membres. Le mandat du ou des réviseurs est de trois ans et peut être renouvelé par l’Assemblée des Membres.
 
-<sup>2.</sup> Le ou les réviseurs présentent un rapport annuel à l’Assemblée des Membres. Il/elle a accès en tout temps à tous les comptes et documents pertinents relatifs aux Groupement et/ou à ses activités.
-
-<sup>3.</sup> Si, à un moment donné, (au moins) un des membres du Groupement est dans l’obligation de désigner un commissaire, le Groupement désigne lui-même également un commissaire. Dans ce cas, le commissaire est désigné par l’Assemblée des Membres pour une durée renouvelable de 3 ans. Si un commissaire est désigné en vertu de la présente clause, les clauses 1 et 2 du présent art. 10 cessent d’être applicables.
+<sup>2.</sup> Le ou les réviseurs présentent un rapport annuel à l’Assemblée des Membres. Il/elle a accès en tout temps à tous les comptes et documents pertinents relatifs à la Société et/ou à ses activités.
 
 #### Art. 11
 
 **Responsabilité conjointe et solidaire**
 
-<sup>1.</sup> Tous les membres du Groupement sont conjointement et solidairement responsables de toutes les dettes du Groupement. Un membre rejoignant peut être exonéré des dettes encourues par le Groupement avant l’adhésion du membre en question. Un membre quittant le Groupement demeure responsable des engagements du Groupement commis avant la notification officielle par le membre en question de sa décision de quitter le Groupement, à moins qu’il n’en soit décidé autrement par l’Assemblée des Membres.
+<sup>1.</sup> Tous les Membres sont conjointement et solidairement responsables de toutes les dettes de la Société. Un Membre adhérant peut être exonéré des dettes encourues par la Société avant l’adhésion du Membre en question. Un Membre quittant la Société demeure responsable des engagements de la Société pris avant la notification officielle par le Membre en question de sa décision de quitter la Société, à moins qu’il n’en soit décidé autrement par l’Assemblée des Membres.
 
-<sup>2.</sup> Si une action en justice par un tiers est intentée de manière conjointe et solidaire à l’encontre d’un ou plusieurs membres pour une défaillance commise par le Groupement, la charge financière de celle-ci est, de manière interne, et sans aucune affectation des droits des tiers, supportée mutuellement par tous les membres; excepté lorsque la défaillance du Groupement résulte du comportement d’un ou plusieurs membres en particulier qui sont impliqués avec ledit tiers, auquel cas, seulement ce ou ces membres sont, de manière interne, ultimement responsables de la charge financière afférente à l’action en justice. Il en résulte que les Membres qui ne sont pas impliqués avec le tiers ne sont, de manière interne, pas responsables de la charge financière afférente à l’action en justice.[^11-1]
+<sup>2.</sup> Si une action en justice par un Tiers est intentée de manière conjointe et solidaire à l’encontre d’un ou plusieurs Membres pour une défaillance commise par la Société, la charge financière de celle-ci est, de manière interne, et sans aucune affectation des droits des tiers, supportée mutuellement par tous les Membres; excepté lorsque la défaillance de la Société résulte du comportement d’un ou plusieurs Membres en particulier qui sont impliqués avec ledit tiers, auquel cas, seulement ce ou ces Membres sont, de manière interne, ultimement responsables de la charge financière afférente à l’action en justice. Il en résulte que les Membres qui ne sont pas impliqués avec le Tiers ne sont, de manière interne, pas responsables de la charge financière afférente à l’action en justice.
 
-<sup>3.</sup> Les Membres sont responsables des dettes du Groupement en proportion de l’échelle de leur contribution financière au Programme concerné et/ou au Groupement conformément aux Règles de Gestion Financière.
+<sup>3.</sup> Les Membres sont responsables des dettes de la Société en proportion de l’échelle de leur Contribution financière au Programme concerné et/ou à la Société conformément aux Règles de Gestion Financière.
 
 <sup>4.</sup> Les Membres chargés de la Coordination d’un Programme sont responsables de toutes actions qui leur sont déléguées aux termes de la Décision de Programme.
 
-[^11-1]: Nouvelle teneur selon l’art. 2 ch. 2.6 de l’Accord d’Amendement du 21 nov. 2018, en vigueur pour la Suisse depuis le 21 nov. 2018 ([RO 2023 170](https://fedlex.data.admin.ch/eli/oc/2023/170)).
-
 #### Art. 12
 
-**Droit de Propriété Intellectuelle et Propriété**
+**Droits de Propriété Intellectuelle (DPI) et Savoir-faire (Know-how)**
 
-<sup>1.</sup> La Connaissance Acquise, ainsi que tous les droits de propriété intellectuelle y afférents, sont détenus et protégés par le Groupement, sans préjudice des droits de propriété intellectuelle des éléments de Connaissance Acquise pour lesquels un seul Initiateur peut être identifié et sous réserve de la sous-section 2 b) ci-dessous.
+<sup>1.</sup> Le Savoir-faire (Know-how) sur Programme et les DPI sur Programme sont détenus et protégés par la Société (étendue et territoire à définir dans la Décision de Programme concernée), sans préjudice des droits de propriété intellectuelle pour les parties de tout DPI sur Programme pour lesquelles un seul Initiateur peut être identifié et sous réserve de la sous-section 2 ci-dessous. La Décision de Programme prévoit des clauses de confidentialité, en ce compris en lien avec le Savoir-faire (Know-how).
 
 <sup>2.</sup> Droits des Membres Participants
 
-- a) Les Membres Participants bénéficient, sans frais, d’une licence non exclusive délivrée par le Groupement et, si nécessaire, par les Initiateurs de tout élément de Connaissance Acquise, de telle sorte qu’ils soient libres d’exploiter la Connaissance Acquise en question aux fins convenues à l’art. 2 ci-dessus.
-- b) Lorsque la Connaissance Acquise est susceptible d’une application industrielle ou commerciale extérieure au champ de l’art. 2, les Membres Participants déterminent les conditions d’utilisation dans la Décision de Programme concernée.
-- c) Les Membres quittant un Programme ont seulement des droits sur la Connaissance Acquise créée au cours de la période pendant laquelle ils ont contribué, excepté en présence de décision contraire de l’Assemblée des Membres.
+- a) Les Membres Participants bénéficient, sans frais, d’une licence non exclusive délivrée par la Société et, si nécessaire, par les Initiateurs de tout élément de Savoir-faire (Know-how) sur Programme et de DPI sur Programme, de telle sorte qu’ils soient libres d’exploiter le Savoir-faire (Know-how) sur Programme et les DPI sur Programme en question aux fins convenues à l’art. 2 ci-dessus.
+- b) Lorsque le Savoir-faire (Know-how) sur Programme et les DPI sur Programme sont susceptible d’une application industrielle ou commerciale extérieure au champ de l’art. 2, les Membres Participants déterminent les conditions d’utilisation dans la Décision de Programme concernée.
+- c) Les Membres quittant un Programme ont seulement droits aux DPI sur Programme développés jusqu’à la date de fin de leur participation au Programme, excepté en présence de décision contraire des Membres Participants restant. Si un Membre quitte un Programme, cela n’affecte pas l’obligation de ce Membre d’accorder l’accès à ses droits aux Membres restants.
 
-<sup>3.</sup> Droits des Membres non Participants
+<sup>3.</sup> Droits des Membres Non Participants
 
-Les Membres n’ayant pas participé à un Programme Optionnel peuvent avoir accès et utiliser la Connaissance Acquise aux fins déterminées à l’ art. 2 ci-dessus dans les conditions définies dans la Décision de Programme pertinente.
+Les Membres n’ayant pas participé à ou ayant quitté un Programme Optionnel et les Membres de Soutien (en relation avec un tel Programme Optionnel) ont un droit d’accès non exclusif, libre de toute redevance et non transférable aux et un droit d’utilisation sur le Savoir-faire (Know-how) sur Programme et les DPI sur Programme aux fins déterminées à l’art. 2, sauf si d’autres conditions sont définies dans la Décision de Programme concernée.
 
-<sup>4.</sup> Connaissance Préexistante
+<sup>4.</sup> Droits des Tiers coopérant au Programme
 
-- a) La Connaissance Préexistante utilisée pour les besoins d’un Programme convenu est listée de manière identifiable et vérifiable.
-- b) La propriété de cette Connaissance Préexistante, ainsi que tous les droits de propriété intellectuelle y afférents, ne seront pas transférés en vertu de cet Accord.
-- c) Le propriétaire de cette Connaissance Préexistante délivre une licence non exclusive aux autres Membres Participants aux fins d’usage pour les besoins de ce programme. Les conditions générales de cette licence sont déterminées par le propriétaire et les Membres Participants, étant entendu que le coût des licences est compris dans le coût total du Programme, tel que convenu par la Décision de Programme.
+Les droits des Tiers coopérant au Programme sont définis dans l’Accord de Coopération concerné entre ce Tiers et la Société, et documentés dans la Décision de Programme concernée.
 
-<sup>5.</sup> Actifs Corporels
+<sup>5.</sup> Savoir-faire (Know-how) Antérieur et DPI Antérieur.
 
-- a) Les éléments d’actif achetés ou acquis par un membre pour les besoins de sa participation à un Programme sont mis à disposition en vue de leur utilisation prévue au bénéfice des autres Membres Participants.
-- b) La propriété de ces éléments d’actif est conservée par ce membre, excepté en cas de décision contraire des Membres Participants, membre inclus.
-- c) Les Actifs Préexistants utilisés pour les besoins d’un Programme convenu sont listés de manière identifiable et vérifiable.
-- d) La propriété des Actifs Préexistants n’est pas transférée en vertu de cet Accord.
+- a) Le Savoir-faire (Know-how) Antérieur et les DPI Antérieurs utilisés pour les besoins d’un Programme convenu sont listés dans la Décision de Programme de manière identifiable et vérifiable (sauf si les exigences de confidentialité, afin de préserver le savoir-faire, ne l’exigent).
+- b) La propriété de ces Savoir-faire (Know-how) Antérieur et DPI Antérieurs ne seront pas transférés en vertu de cet Accord.
+- c) Le propriétaire de ces Savoir-faire (Know-how) Antérieur et DPI Antérieurs délivre une licence non exclusive, pour tous les modes d’exploitation et dans la mesure où la loi applicable le permet, aux autres Membres Participants dans le seul but d’effectuer des travaux dans le cadre de ce Programme, conformément aux termes de la Décision de Programme. Les conditions générales de cette licence sont déterminées par le propriétaire et les Membres Participants, étant entendu que la rémunération des licences est couverte par le coût total du Programme, tel que convenu par la Décision de Programme.
 
-<sup>6.</sup> Lorsque le personnel employé par un membre peut prétendre à des droits sur une Connaissance Acquise ou Préexistante, ce membre prend les dispositions nécessaires ou conclut un accord afin de s’assurer que ces droits puissent être exercés de manière compatible avec ses obligations résultant de cet Accord et des Décision de Programme correspondantes.
+<sup>6.</sup> Actifs Corporels
+
+- a) Les Actifs du Programme achetés ou acquis par un Membre pour les besoins de sa participation à un Programme sont mis à disposition en vue de leur utilisation prévue (telle que définie dans la Décision de Programme) au bénéfice des autres Membres Participants.
+- b) La propriété des Actifs du Programme est conservée par ce Membre Participant, mais est uniquement utilisée par ce Membre Participant dans le cadre du Programme (tel que défini dans la Décision de Programme), excepté en cas de décision contraire des Membres Participants.
+- c) Les Actifs Antérieurs utilisés pour les besoins d’un Programme convenu sont listés de manière identifiable et vérifiable dans la Décision de Programme.
+- d) La propriété des Actifs Antérieurs n’est pas transférée en vertu de cet Accord.
+
+<sup>7.</sup> Les Membres s’assurent que tous les droits sur leurs Savoir-faire (Know-how) sur Programme et DPI sur Programme et/ou Savoir-faire (Know-how) Antérieur et DPI Antérieur peuvent être exercés d’une manière compatible avec leurs obligations au titre du présent accord et des Décision de Programme concernées, y compris en prenant des mesures ou en concluant des accords appropriés à cette fin lorsqu’une personne employée par un Membre est en droit de revendiquer l’un quelconque de ces droits.
 
 #### Art. 13
 
-**Coopération avec les tiers**
+**Coopération avec les Tiers**
 
-<sup>1.</sup> Afin de réaliser son objet, et lorsque l’Assemblée des Membres confirme qu’il existe un bénéfice collectif pour les membres du Groupement, l’Assemblée des Membres peut décider de créer une coopération et de conclure des contrats avec des tiers extérieurs au Groupement. Toute coopération ou contrat de ce type est documenté de manière appropriée par écrit et précise les droits et obligations du Groupement et de l’entité coopérante dans la mise en œuvre de l’objet de la coopération.[^13-1]
+<sup>1.</sup> Afin de réaliser son objet, et lorsque l’Assemblée des Membres confirme qu’il existe un bénéfice collectif pour les Membres, l’Assemblée des Membres peut décider de créer une coopération et de conclure des contrats avec des Tiers. Toute coopération ou contrat de ce type est documenté de manière appropriée par écrit et précise les droits et obligations de la Société et de l’entité coopérante dans la mise en œuvre de l’objet de la coopération.
 
-<sup>2.</sup> ...[^13-2] Un représentant de l’entité coopérante peut être invité à participer en tant qu’observateur aux débats sur les points d’intérêt lors des réunions de l’ Assemblée des Membres.
+<sup>2.</sup> Un représentant de l’entité coopérante peut être invité à participer en tant qu’observateur aux débats sur les points d’intérêt lors des réunions de l’Assemblée des Membres.
 
-<sup>3.</sup> L’Assemblée des Membres peut, lorsqu’elle confirme qu’il existe un bénéfice pour le Groupement, choisir d’inviter une ou plusieurs entités coopérantes à participer à des réunions de l’Assemblée des Membres en qualité de partenaires (un «Partenaire»). Un Partenaire peut observer les débats à la discrétion de l’Assemblée des Membres. Un Partenaire peut être invité, à la discrétion de l’Assemblée des Membres, à devenir un nouveau membre (voir art. 18). Un Partenaire ne dispose d’aucun droit de vote.
+<sup>3.</sup> L’Assemblée des Membres peut, lorsqu’elle confirme qu’il existe un bénéfice pour la Société, choisir d’inviter une ou plusieurs entités coopérantes à participer à des réunions de l’Assemblée des Membres en qualité de partenaires. Un Partenaire peut être invité, à la discrétion de l’Assemblée des Membres, à devenir un nouveau Membre (voir art. 18). Un Partenaire ne dispose d’aucun droit de vote.
 
-<sup>4.</sup> Le Groupement est habilité, sous réserve de confirmation par l’Assemblée des Membres qu’il existe un bénéfice pour les membres du Groupement, à participer à des consortia avec des membres et/ou des tiers, ou alternativement à coopérer avec des membres et/ou des tiers, dans le contexte d’appels à proposition relatifs à des projets financés de manière externe.
-
-[^13-1]: Nouvelle teneur de la phrase selon l’art. 2 ch. 2.7 de l’Accord d’Amendement du 21 nov. 2018, en vigueur pour la Suisse depuis le 21 nov. 2018 ([RO 2023 170](https://fedlex.data.admin.ch/eli/oc/2023/170)).
-[^13-2]: Phrase abrogée par l’art. 2 ch. 2.7 de l’Accord d’Amendement du 21 nov. 2018, avec effet pour la Suisse au 21 nov. 2018 ([RO 2023 170](https://fedlex.data.admin.ch/eli/oc/2023/170)).
+<sup>4.</sup> La Société est habilitée, sous réserve de confirmation par l’Assemblée des Membres qu’il existe un bénéfice pour les Membres, à participer à des consortia avec des Membres et/ou des Tiers, ou alternativement à coopérer avec des Membres et/ou des tiers, dans le contexte d’appels à proposition relatifs à des projets financés de manière externe.
 
 #### Art. 14
 
-**Départ d’un membre**
+**Départ d’un Membre**
 
-<sup>1.</sup> Un membre peut décider de quitter le Groupement. Une notification écrite préalable est faite au moins trois moins avant le départ au Président de l’Assemblée des Membres. Son départ prend effet à la fin de l’exercice comptable au cours duquel il a notifié sa décision.
+<sup>1.</sup> Un Membre peut décider de quitter la Société. Une notification écrite préalable est faite au moins trois mois avant le départ au Président de l’Assemblée des Membres. Son départ prend effet à la fin de l’exercice comptable au cours duquel il a notifié sa décision.
 
-<sup>2.</sup> Sauf décision contraire de l’Assemblée des Membres, un membre quittant le Groupement demeure responsable des obligations du Groupement engagées avant la notification officielle de sa décision de quitter le Groupement.
+<sup>2.</sup> Sauf décision contraire de l’Assemblée des Membres, un Membre quittant la Société demeure responsable des obligations de la Société engagées avant la notification officielle de sa décision de quitter la Société.
 
-<sup>3.</sup> Lorsqu’un ou plusieurs membres quittent le Groupement, le Groupement continue avec les membres restants.
+<sup>3.</sup> Lorsqu’un ou plusieurs Membres quittent la Société, la Société continue avec les Membres restants.
 
 #### Art. 15
 
 **Exclusion**
 
-<sup>1.</sup> Lorsqu’un membre met les activités du Groupement en danger en ne respectant pas ses obligations ou engagements vis-à-vis du Groupement, y compris sans que ceci soit limitatif, toute obligation de paiement, l’Assemblée des Membres peut décider d’exclure ce membre.
+<sup>1.</sup> Lorsqu’un Membre met les activités ou la réputation de la Société en danger en ne respectant pas ses obligations ou engagements vis-à-vis de la Société, y compris sans que ceci soit limitatif, toute obligation de paiement, l’Assemblée des Membres peut décider d’exclure ce Membre de la Société.
 
-<sup>2.</sup> Un membre exclu du Groupement demeure responsable des obligations du Groupement engagées au cours de la période pendant laquelle il était membre.
+<sup>2.</sup> Un Membre exclu de la Société demeure responsable des obligations de la Société engagées au cours de la période pendant laquelle il était Membre.
 
 #### Art. 16
 
 **Litiges**
 
-En cas de litige entre les membres, un maximum d’effort doit être fait afin de le résoudre de manière amiable. Lorsque le litige ne peut pas être résolu de manière amiable, l’Assemblée des Membres lance une procédure d’arbitrage conformément aux Accords de Travail. Ce processus ne limite pas le droit d’un membre d’avoir recours à une procédure devant les tribunaux.
+En cas de litige entre les Membres, un maximum d’effort doit être fait afin de résoudre le litige de manière amiable. Lorsque le litige ne peut pas être résolu de manière amiable, l’Assemblée des Membres lance un Mode Alternatif de Résolution des Conflits (MARC) conformément aux Accords de Travail. Ce processus ne limite pas le droit d’un Membre d’engager des procédures judiciaires, mais les Membres doivent noter que la volonté de s’engager dans un MARC peut être prise en compte par les tribunaux.
 
 #### Art. 17
 
-**Entrée en vigueur**
+**Nouveaux Membres**
 
-<sup>1.</sup> Dès le moment où cet Accord est signé par les Membres Fondateurs, le présent Accord est déposé dans les plus brefs délais auprès du Tribunal de Commerce de Bruxelles, suite à quoi le Groupement est réputé être constitué.
+<sup>1.</sup> L’Assemblée des Membres peut accepter les demandes provenant de SMN désireux d’adhérer à la Société, sur demande écrite adressée au Directeur Exécutif, pour devenir membre de la Société («Nouveaux Membres»).
 
-<sup>2.</sup> Cet Accord entre en vigueur à la date de son dépôt auprès du Tribunal de Commerce de Bruxelles.
+<sup>2.</sup> L’acceptation des Nouveaux Membres est limitée aux SMN d’Etats membres ou de territoires de l’Organisation Météorologique Mondiale, qui sont aussi Etats membres du conseil de l’Europe.
+
+<sup>3.</sup> Les Nouveaux Membres adhérant à la Société deviennent des participants à tous les Programmes Obligatoires. Il ne leur est pas demandé de contribuer de manière rétroactive au coût des Programmes Obligatoires, à moins que ceux-ci n’aient engendré des investissements importants, ce qui est déterminé par l’Assemblée des Membres.
+
+<sup>4.</sup> Les Nouveaux Membres sont exonérés des dettes encourues avant leur adhésion à la Société.
 
 #### Art. 18
 
-**Nouveaux membres**
+**Durée**
 
-<sup>1.</sup> L’Assemblée des Membres peut accepter les demandes provenant de SMN désireux d’adhérer au Groupement sur demande écrite adressée au Directeur Exécutif («Nouveaux Membres»).[^18-1]
+<sup>1.</sup> La Société a une durée définie se terminant le 31 décembre, 2033. A partir du 1<sup>er</sup> janvier 2032, l’Assemblée des Membres examine l’opportunité du renouvellement de cet Accord.
 
-<sup>2.</sup> Les Nouveaux Membres adhérant au Groupement deviennent des participants à tous les Programmes Principaux. Il ne leur est pas demandé de contribuer de manière rétroactive aux Programmes Principaux, à moins que ceux-ci n’aient engendré des investissements importants, ce qui est déterminé par l’Assemblée des Membres.
+<sup>2.</sup> La dissolution d’une personne morale qui est un Membre n’entraîne pas la dissolution de la Société, excepté en présence d’une décision contraire unanime de l’Assemblée des Membres.
 
-<sup>3.</sup> Les Nouveaux Membres peuvent être exonérés des dettes encourues par le Groupement avant leur adhésion au Groupement.
-
-<sup>4.</sup> ...[^18-2]
-
-[^18-1]: Nouvelle teneur selon l’art. 2 ch. 2.8 de l’Accord d’Amendement du 21 nov. 2018, en vigueur pour la Suisse depuis le 21 nov. 2018 ([RO 2023 170](https://fedlex.data.admin.ch/eli/oc/2023/170)).
-[^18-2]: Abrogé par l’art. 2 ch. 2.8 de l’Accord d’Amendement du 21 nov. 2018, avec effet pour la Suisse au 21 nov. 2018 ([RO 2023 170](https://fedlex.data.admin.ch/eli/oc/2023/170)).
+<sup>3.</sup> L’Assemblée des Membres peut décider de mettre fin à la Société. Dans ce cas, l’Assemblée des Membres décide des dispositions nécessaires concernant les Programmes en cours et les actifs communs.
 
 #### Art. 19
 
-**Durée**
-
-<sup>1.</sup> Le Groupement a une durée définie se terminant le 31 décembre, 2028. À partir du 1<sup>er</sup> janvier 2027, l’Assemblée des Membres examine l’opportunité du renouvellement de cet Accord.[^19-1]
-
-<sup>2.</sup> La dissolution d’une personne morale qui est un membre du Groupement n’entraîne pas la dissolution du Groupement, excepté en présence d’une décision contraire unanime[^19-2] de l’Assemblée des Membres.
-
-<sup>3.</sup> L’Assemblée des Membres peut décider de mettre fin au Groupement. Dans ce cas, l’Assemblée des Membres décide des dispositions nécessaires concernant les Programmes en cours et les actifs communs.
-
-[^19-1]: Nouvelle teneur selon l’art. 2 ch. 2.9 de l’Accord d’Amendement du 21 nov. 2018, en vigueur pour la Suisse depuis le 21 nov. 2018 ([RO 2023 170](https://fedlex.data.admin.ch/eli/oc/2023/170)).
-[^19-2]: Expression introduite par l’art. 2 ch. 2.9 de l’Accord d’Amendement du 21 nov. 2018, en vigueur pour la Suisse depuis le 21 nov. 2018 ([RO 2023 170](https://fedlex.data.admin.ch/eli/oc/2023/170)).
-
-#### Art. 20
-
 **Langue**
 
-<sup>1.</sup> La langue officielle du Groupement pour les formalités légales belges est le français. L’anglais est la langue de travail.
+<sup>1.</sup> La langue officielle de la Société pour les formalités légales belges est le français. L’anglais est la langue de travail.
 
 <sup>2.</sup> Le texte original de cet Accord est rédigé en français. Une traduction en anglais est disponible, et fait également foi. En cas d’incohérences entre la traduction en langue anglaise et le document original en langue française, ce dernier prévaut.
 
-#### Art. 21
+#### Art. 20
 
 **Modification**
 
-Toute modification de cet Accord doit être faite par écrit et exiger l’accord unanime de l’Assemblée des Membres. Toute modification entre en vigueur à partir de la date arrêtée par l’Assemblée des Membres lors de la délivrance de son accord.
+Toute modification de cet Accord doit être faite par écrit et exige l’accord unanime de l’Assemblée des Membres. Toute modification entre en vigueur à partir de la date arrêtée par l’Assemblée des Membres lors de la délivrance de son accord.
 
 Signé, à Bruxelles, le 17 septembre 2009, en 21 exemplaires originaux, chaque partie reconnaissant avoir reçu un exemplaire original, un exemplaire original supplémentaire aux fins d’enregistrement et un exemplaire original supplémentaire qui sera conservé au siège social du Groupement. (Suivent les signatures)
 
-Annexe 1[^t-1]
+Annexe 1
 
 ## Terminologie
 
-[^t-1]: Mise à jour par l’art. 2 ch. 2.10 de l’Accord d’Amendement du 21 nov. 2018, en vigueur pour la Suisse depuis le 21 nov. 2018 ([RO 2023 170](https://fedlex.data.admin.ch/eli/oc/2023/170)).
+*Actifs de Programme*– Tout actif corporel acheté ou acquis dans le cadre d’un Programme, financé par un Programme et dans le cadre de ce Programme, tel que défini dans la Décision de Programme.
 
-*Accord de Coopération*– Un accord entre le Groupement et un (ou plusieurs) tiers, dans lequel le(s) tiers participe(nt) (et donc co-finance(nt)) un Programme déjà existant.
+*Accord de Coopération*– Accord entre la Société et un (ou plusieurs) Tiers, dans lequel il est convenu que le(s) Tiers participe(nt) (et donc co-finance(nt)) un Programme déjà existant.
 
-*Accords de Travail* – Les accords de travail du Groupement sont adoptés par l’Assemblée des Membres et sont détaillés dans un document spécial.
+*Accords de Travail*– Les accords de travail de la Société sont adoptés par l’Assemblée des Membres et sont détaillés dans un document spécial.
 
-*Actifs Préexistants* – Actifs corporels acquis ou financés en dehors d’un Programme, soit avant le début du Programme ou en parallèle de celui-ci.
+*Actifs Antérieurs*– Tout bien corporel acheté ou acquis en dehors d’un Programme soit avant de commencer le Programme, soit parallèlement à celui-ci, qui est la propriété d’un Membre ou d’un Tiers participant au Programme.
 
-*Comité Consultatif de Programme* – Comité crée par l’Assemblée des Membres afin d’agir en qualité de conseiller auprès du Membre chargé de la Coordination du Programme.
+*Assemblée des Membres*– L’organe suprême de décision du Partenariat tel que détaillée à l’art. 4.
 
-*Connaissance Acquise* – Résultats et information (y compris les données, logiciels et bases de données) obtenus en vertu de cet accord, financés grâce à un Programme et dans le cadre de ce Programme tel que déterminé par la Décision de Programme.
+*CEPMMT*– Centre Européen pour les Prévisions Météorologiques à Moyen Terme.
 
-*Connaissance Préexistante* – Résultats et information (y compris les données, logiciels ou bases de données) obtenus par un membre en dehors des Programmes, soit avant le début du Programme, soit en parallèle de celui-ci. En d’autres termes, la Connaissance Préexistante fait référence à ce que les participants développent et obtiennent en dehors des Programmes.
+*Contribution(s)* **–** La contribution d’un Membre Participant pour couvrir sa part des coûts des Programmes Optionnels sélectionnés, calculée sur la base du barème financier convenu par l’Assemblée des Membres.
 
-*Conseil de Programme* – Conseil mis en place par l’Assemblée des Membres afin de respecter ses responsabilités au regard d’un Programme en particulier.
+*Décision de Programme*– La décision de l’Assemblée des Membres de mettre en place un Programme tel que détaillé à l’art. 3.2 de l’Accord.
 
-*Décision de Programme* – La décision de l’Assemblée des Membres de mettre en place un Programme.
+*Devoirs Officiels et Activités*– Toutes activités qui ont lieu au sein de l’organisation d’un SMN, ainsi que les activités externes du SMN résultant d’exigences légales, gouvernementales ou intergouvernementales relatives à la défense, à l’aviation civile et à la sécurité des personnes et des biens.
 
-*Échelle RNB* – Moyenne du Revenu National Brut de l’état d’un membre du Groupement donné au cours des trois dernières années civiles pour lesquelles des statistiques OCDE sont disponibles.
+*Droits de Propriété intellectuelle ou DPI*– Tout droits de propriété intellectuelle sur les produits du travail, s’ils sont protégeables en vertu des lois des pays dans lesquels les droits de propriété intellectuelle sont recherchés ou accordés, y compris, mais sans s’y limiter, les œuvres d’auteur, les œuvres protégées ou protégeables par le droit d’auteur, les dessins et modèles, les marques, les inventions, la documentation technique et non technique, les données, les ensembles de données, les formules et les logiciels (par exemple, programmes informatiques en code objet et/ou en code source, analyse des besoins, spécifications techniques et/ou d’application, documentation, etc.).
 
-*Groupes de Travail* – Groupes informels formés à la demande d’un ou plusieurs membres et avec l’accord de l’Assemblée des Membres afin d’enquêter, de coordonner, de promouvoir ou de présenter des rapports concernant les questions d’intérêt et bénéfice commun à tous les membres. En général, les coûts d’un Groupe de Travail sont supportés par les membres y participant.
+*DPI Antérieur*– DPI détenu par un Membre ou par un Tiers qui existait déjà avant que le Programme ne commence, ou développé indépendamment du présent Accord mais parallèlement au Programme.
 
-*Initiateur* – Une personne ou entité juridique créant un élément de Connaissance Acquise.
+*DPI sur Programme*– DPI créé dans le cadre d’un Programme, en tant qu’un résultat escompté de l’Accord, dans le cadre de et financé par ce Programme, et défini dans la Décision de Programme concernée.
 
-*Membre chargé de la Coordination du Programme* – Tout membre recevant délégation du pouvoir de gestion tel que détaillé dans l’art. 3.7 de cet Accord.
+*Échelle RNB*– Moyenne du Revenu National Brut de l’Etat d’un Membre de la Société donné au cours des trois dernières années civiles pour lesquelles des statistiques OCDE sont disponibles.
 
-*Membre Participant* – Un membre ou un ancien membre ayant contribué au Programme.
+*EUMETSAT*– Organisation Européenne Pour L’exploitation Des Satellites Météorologiques.
 
-*Mémorandum d’Accord* – Un accord entre le Groupement et un ou plusieurs tiers, qui n’est pas un Accord de Coopération et qui peut inclure des échanges de fonds.
+*Frais d’Adhésion*– La contribution d’un Membre pour couvrir sa part des coûts du Secrétariat et des Programmes Obligatoires, calculée sur la base de l’Échelle RNB.
 
-*Mémorandum de Coopération* – Un accord entre le Groupement et un ou plusieurs tiers, qui n’est pas un Accord de Coopération et qui ne comporte aucun échange de fonds.
+*Initiateur*– Personne ou entité juridique créant seulement une partie significative du DPI sur Programme.
 
-*OMM* – Organisation Météorologique Mondiale
+*Membr****e***– SMN qui est Membre de la Société et qui a signé cet Accord.
 
-*Programme* – Une activité collaborative mise en place par le Groupement afin de faire usage de l’expertise et des installations de ses membres grâce au partage équitable des tâches et des ressources.
+*Membre chargé de la Coordination*– Tout membre recevant délégation du pouvoir de du Programme gestion tel que détaillé dans l’art. 3.8 de cet Accord.
 
-*Programmes Optionnels* – Programmes entrepris de manière optionnelle par des membres du Groupement.
+*Membre de Soutien*– Membre qui n’est pas un Membre Participant au Programme Optionnel mais qui soutient le Programme par une contribution en nature telle que détaillé à l’art. 3.7.
 
-*Programmes Principaux* – Programmes obligatoires qui sont entrepris par et au bénéfice de tous les membres du Groupement.
+*Membre Non Participant* – Membre qui n’a pas contribué financièrement à un Programme Optionnel et qui n’est pas un Membre de Soutien.
 
-*Projet avec Tiers* – Un projet où le Groupement, au travers d’un contrat ou autre, s’engage dans une activité de type projet avec un (ou des) tiers (par exemple l’UE) et dont le financement peut être externe ou commun. De tels projets diffèrent des Programmes car ces derniers sont lancés pour le bénéfice exclusif des Membres alors que les Projets avec des Tiers sont lancés pour le bénéfice commun du (ou des) tiers et des Membres.
+*Membre Participant* – Membre contribuant financièrement à un Programme Optionnel tel que détaillé à l’art. 3.5 de l’Accord.
 
-*Règles de Gestion Financière* – Les Règles de Gestion Financière du Groupement telles qu’adoptées par l’Assemblée des Membres et détaillées dans un document spécial.
+*Mémorandum d’Accord* – Accord entre la Société et un ou plusieurs Tiers, qui n’est pas un Accord de Coopération et qui peut inclure des échanges de fonds.
 
-*Secrétariat* – L’organe créé par l’Assemblée des Membres afin d’organiser et d’être au service des réunions de l’Assemblée des Membres et, de manière plus générale, de fournir une assistance dans l’exécution de la stratégie du Groupement. Le Secrétariat remplit également des tâches telles que lui sont assignées par cet Accord et par les décisions de l’organe dirigeant.
+*Mémorandum de Coopération*– Accord entre la Société et un ou plusieurs Tiers, qui n’est pas un Accord de Coopération et qui ne comporte aucun échange de fonds.
 
-*SMN* – Service Météorologique ou Hydrométéorologique National (au singulier ou au pluriel).
+*OMM*– Organisation Météorologique Mondiale.
+
+*Organisme subsidiaire*– Organisme créé par l’Assemblée des Membres pour superviser et planifier un Programme ou une activité, ou pour aider l’Assemblée des Membres dans un processus de prise de décision tel que détaillé à l’art. 6.3.
+
+*Programme*– Activité collaborative mise en place par la Société afin de faire usage de l’expertise et des installations de ses Membres grâce au partage équitable des tâches et des ressources et concrétiser l’objet de la Société tel qu’il est défini à l’art. 2 de l’Accord.
+
+*Programmes Optionnels* – Programmes entrepris de manière optionnelle par des Membres. Les tiers peuvent prendre part aux Programmes Optionnels après la signature d’un Accord de Coopération.
+
+*Programmes Obligatoires*– Programmes qui sont entrepris par et au bénéfice de tous les Membres. Les Tiers peuvent prendre part aux Programmes Obligatoires après la signature d’un Accord de Coopération.
+
+*Projet avec Tiers*– Un projet où la Société, au travers d’un contrat ou autre, s’engage dans un projet avec un Tiers (par exemple l’UE) et dont le financement peut être externe ou commun. De tels projets diffèrent des Programmes car ces derniers sont lancés pour le bénéfice exclusif des Membres alors que les projets avec des Tiers sont lancés pour le bénéfice commun du Tiers et des Membres.
+
+*Règles de Gestion Financière*– Les Règles de Gestion Financière de la Société telles qu’adoptées par l’Assemblée des Membres et détaillées dans un document spécial.
+
+*Savoir-faire* *(Know-How)*– Toute connaissance, documentée ou non, sur la manière d’accomplir, de fabriquer ou de faire quelque chose, mais qui ne fait pas l’objet de droits de propriété intellectuelle et qui, par conséquent, n’entre pas dans la définition des DPI. Le Savoir-faire (Know-how) peut inclure, entre autres choses, les secretscommerciaux tels que définis à l’art. 2 de la directive (UE) 2016/943, les informations confidentielles, les résultats de recherche et développement, ou toute autre donnée ou information tangible ou intangible ne relevant pas de la définition des DPI**.**
+
+*Savoir-faire (**Know-how) Antérieur*– Tout Savoir-faire (Know-how) acquis par un Membre ou un Tiers en dehors d’un Programme, soit avant que le Programme ne commence ou parallèlement à celui-ci.
+
+*Savoir-faire (**Know-how) de Programme*– Tout Savoir-faire (Know-how) acquis dans le cadre d’un programme, en tant que résultat escompté du présent accord, dans le cadre de et financé par ce Programme, et défini dans la Décision de Programme concernée.
+
+*Secrétaria****t***– L’organe créé par l’Assemblée des Membres afin d’organiser et d’être au service des réunions de l’Assemblée des Membres et, de manière plus générale, de fournir une assistance dans l’exécution de la stratégie de la Société. Le Secrétariat remplit également des tâches telles que lui sont assignées par cet Accord et par les décisions de l’organe dirigeant.
+
+*Société*– La société EUMETNET telle que détaillée à l’art. 1 de l’Accord.
+
+*SMN*– Service Météorologique ou Hydrométéorologique National (au singulier ou au pluriel).
+
+*Tiers*– Toute personne ou entité qui n’est pas la Société elle-même ou un Membre (y compris, à cette fin, tout administrateur, employé ou autre membre du personnel de la Société ou d’un Membre, à condition toutefois que les personnes susmentionnées agissent en leur qualité d’administrateur, d’employé ou de membre du personnel).
+
+*UE*– Union européenne
 
 Champ d’application le 6 juin 2013
 
