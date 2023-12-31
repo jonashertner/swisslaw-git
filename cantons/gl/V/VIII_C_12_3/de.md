@@ -1,203 +1,275 @@
 ---
 canton: GL
 number: VIII C/12/3
-title: Normalarbeitsvertrag Hauswirtschaft
+title: Kantonaler Normalarbeitsvertrag Hauswirtschaft
 short: NAV HW
 language: de
-version: 2014-09-01
-valid_until: 2023-12-31
-version_adopted: 2014-04-22
+version: 2024-01-01
+version_adopted: 2023-12-12
 adopted: 2023-12-12
 in_force: 2024-01-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/VIII-C.12.3"
-pdf: "https://gesetze.gl.ch/api/de/versions/1515/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2463/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Normalarbeitsvertrag Hauswirtschaft
+# Kantonaler Normalarbeitsvertrag Hauswirtschaft
 
 (NAV HW)
 
-Vom 26.04.1988 (Stand 01.09.2014)
+Vom 12.12.2023 (Stand 01.01.2024)
 
 Der Regierungsrat,
 
-gestützt auf die Artikel 359, 359a und 360 des Schweizerischen Obligationenrechts (OR),
+gestützt auf Artikel 359 Absatz 2 des Schweizerischen Obligationenrechts (OR)[^ingress-1],
 
-verordnet:
+erlässt:
 
-## 1. Vollbeschäftigte Arbeitnehmende
+[^ingress-1]: SR 220
+
+## 1. Allgemeine Bestimmungen
 
 #### Art. 1
 
 **Geltungsbereich**
 
-<sup>1</sup> Dieser Normalarbeitsvertrag (NAV) findet Anwendung auf alle Arbeitsverhältnisse im Kanton, die ausschliesslich oder überwiegend hauswirtschaftliche Arbeiten in einem privaten oder einem kollektiven Haushalt betreffen, insbesondere in Heimen, Pensionen und Krankenhäusern, Büros, Praxen oder Werkstätten.
+<sup>1</sup> Dieser Normalarbeitsvertrag (NAV) findet Anwendung auf Voll- und Teilzeitarbeitsverhältnisse im Kanton Glarus, die ausschliesslich oder überwiegend hauswirtschaftliche Arbeiten in einem privaten oder einem kollektiven Haushalt betreffen, insbesondere in Heimen, Pensionen und Krankenhäusern, Büros, Praxen oder Werkstätten.
 
-<sup>2</sup> Volontär- sowie Au-pair-Verhältnisse sind eingeschlossen. Der NAV gilt nicht:
+<sup>2</sup> Er gilt insbesondere auch für:
 
-- a. für landwirtschaftliche Arbeitsverhältnisse, die einem anderen NAV unterstellt sind;
-- b. für amtlich anerkannte Haushaltlehrverhältnisse;
-- c. für Arbeitsverhältnisse, die dem öffentlichen Recht des Bundes, der Kantone oder der Gemeinden, einem anderen NAV oder einem Gesamtarbeitsvertrag unterstellt sind.
+- a. Volontär- und Au-pair-Arbeitsverhältnisse;
+- b. Arbeitnehmende, die im Haushalt der zu betreuenden Person wohnen und ihre Arbeit im Rahmen einer 24-Stunden-Betreuung erbringen, wobei Jugendliche bis zum vollendeten 19. Altersjahr nicht für diese Art der Betreuung angestellt werden dürfen.
 
-<sup>3</sup> …
+<sup>3</sup> Der NAV gilt nicht für:
+
+- a. amtlich anerkannte Haushaltlehrverhältnisse;
+- b. Arbeitsverhältnisse, die dem öffentlichen Recht des Bundes, der Kantone oder der Gemeinden, einem anderen NAV oder einem Gesamtarbeitsvertrag unterstellt sind.
+
+<sup>4</sup> Für hauswirtschaftliche, einem allgemein verbindlich erklärten Gesamtarbeitsvertrag unterstellte Arbeitsverhältnisse gilt dieser NAV soweit jener keine Regelungen enthält.
 
 #### Art. 2
 
-**Wirkung**
+**Hauswirtschaftliche Arbeiten**
 
-<sup>1</sup> Er gilt als Vertragswille, soweit nicht schriftlich etwas anderes vereinbart wurde.
+<sup>1</sup> Als hauswirtschaftliche Arbeiten gelten Tätigkeiten, die der allgemeinen Pflege des Haushalts dienen, insbesondere:
 
-<sup>2</sup> Bei Abweichungen ist das zwingende Recht, insbesondere die Artikel 361 und 362 des Schweizerischen Obligationenrechtes (OR) zu beachten; vorbehalten bleibt Artikel 359 Absatz 3 OR.
+- a. Reinigungsarbeiten;
+- b. Besorgung der Wäsche;
+- c. Einkaufen;
+- d. Kochen;
+- e. Mithilfe bei der Betreuung von Kindern, Betagten und Kranken;
+- f. Unterstützung von Betagten und Kranken in der Alltagsbewältigung.
+
+<sup>2</sup> Ärztliche oder medizinische Pflege im Sinne der Krankenpflege-Leistungsverordnung[^2-1] sind keine hauswirtschaftlichen Tätigkeiten im vorliegenden Sinne.
+
+[^2-1]: SR 832.112.31
 
 #### Art. 3
 
-**Allgemeine gegenseitige Verpflichtungen**
+**Wirkung**
 
-<sup>1</sup> Die Pflichten der Parteien richten sich nach Artikel 321 ff. OR, soweit der NAV nicht etwas anderes bestimmt.
+<sup>1</sup> Soweit zwischen den Parteien im Rahmen des Gesetzes nichts anderes vereinbart wird, gelten die Bestimmungen dieses NAV unmittelbar für die ihm unterstellten Arbeitsverhältnisse (Art. 360 Abs. 1 OR).
 
-<sup>2</sup> Jugendlichen unter 19 Jahren ist nötigenfalls besondere Fürsorge entgegenzubringen.
+<sup>2</sup> Enthält der NAV keine Regelung und haben die Parteien keine Vereinbarung getroffen, gelten die Bestimmungen des OR über den Einzelarbeitsvertrag.
+
+<sup>3</sup> Für Jugendliche bis zum vollendeten 19. Altersjahr gelten die Schutzvorschriften nach Artikel 29 des Arbeitsgesetzes (ArG)[^3-1] analog.
+
+[^3-1]: SR 822.11
+
+## 2. Arbeitszeit, Weiterbildung und Ferien
 
 #### Art. 4
 
-**Haftung der Arbeitnehmenden**
+**Arbeitszeit**
 
-<sup>1</sup> Die Haftung der Arbeitnehmenden richtet sich nach Artikel 321e OR, soweit der NAV nichts anderes bestimmt.
+<sup>1</sup> Arbeitnehmende leisten ihre Arbeit durch:
 
-<sup>2</sup> Bei unbedeutenden Schäden besteht eine Ersatzpflicht nur im Wiederholungsfall. Die Ersatzpflicht ist auf die Hälfte eines monatlichen Barlohnes beschränkt. Eine Forderung darf vom Arbeitgeber nur bei der auf die Entdeckung des Schadens folgenden Lohnzahlung geltend gemacht werden.
+- a. aktive Arbeitszeit, während der sie die zu betreuende Person unterstützen oder ihr Gesellschaft leisten;
+- b. Präsenzzeit, während der sie sich im Haushalt oder in den Räumen der zu betreuenden Person aufhalten und sich der betreuenden Person zur Verfügung halten müssen, ohne dass ein aktiver Arbeitseinsatz erfolgt;
+- c. Rufbereitschaft, während der sie ausserhalb des Hauses jederzeit gewährleisten müssen, erreichbar zu sein.
+
+<sup>2</sup> Die wöchentliche Arbeitszeit beträgt höchstens 45 Stunden.
+
+<sup>3</sup> Die über die wöchentliche Höchstarbeitszeit hinausgehende, begründete Überzeit, darf elf Stunden pro Woche nicht überschreiten und nicht mehr als 170 Stunden pro Kalenderjahr betragen.
+
+<sup>4</sup> Es ist nicht zulässig, Arbeitnehmende, welche zur Erfüllung der Arbeitsleistung im Haushalt der zu betreuenden Person wohnen, nur für Präsenzzeit und Rufbereitschaft anzustellen. Derart geleistete Arbeit gilt zur Hälfte als aktive Arbeitszeit.
+
+<sup>5</sup> In dringenden Fällen sind Arbeitnehmende vorübergehend verpflichtet, Überstunden zu leisten. Diese können ausserhalb der ordentlichen Arbeitszeit angesetzt werden. Im Übrigen gilt Artikel 321c OR.
+
+<sup>6</sup> Überstundenarbeit ist mit zusätzlicher Freizeit von gleicher Dauer innerhalb eines angemessenen Zeitraumes zu kompensieren. Wird sie nicht kompensiert, richtet sich der Lohn nach Artikel 321c Absatz 3 OR.
+
+<sup>7</sup> Bei Arbeitnehmenden bis zum vollendeten 19. Altersjahr ist die Überstundenarbeit durch entsprechende Freizeit auszugleichen.
 
 #### Art. 5
 
-**Arbeitszeit und Ruhepausen**
+**Pausen**
 
-<sup>1</sup> Die tägliche Arbeitszeit, ohne Essens- und Ruhepausen, darf für ganze Arbeitstage nicht länger als neun Stunden dauern; die wöchentliche Arbeitszeit darf 50 Stunden nicht überschreiten. In der Regel darf die Arbeitszeit nicht länger als bis 19.30 Uhr dauern.
+<sup>1</sup> Den Arbeitnehmenden sind folgende Pausen zu gewähren:
 
-<sup>2</sup> Den Arbeitnehmenden sind ausreichende Mahlzeitenpausen sowie täglich eine Ruhepause von 1 1/2 Stunden zu gewähren.
-
-<sup>3</sup> In dringenden Fällen sind die Arbeitnehmenden vorübergehend verpflichtet, Überstunden zu leisten. Diese können ausserhalb der ordentlichen Arbeitszeit angesetzt werden. Im Übrigen richten sich die Voraussetzungen nach Artikel 321c OR.
-
-<sup>4</sup> Überstundenarbeit ist mit zusätzlicher Freizeit von gleicher Dauer innerhalb eines angemessenen Zeitraumes zu kompensieren. Wird sie nicht kompensiert, richtet sich der Lohn nach Artikel 321c Absatz 3 OR.
+- a. 15 Minuten bei einer täglichen Arbeitszeit von mehr als 5 1/2 Stunden;
+- b. 30 Minuten bei einer täglichen Arbeitszeit von mehr als 7 Stunden;
+- c. 60 Minuten bei einer täglichen Arbeitszeit von mehr als 9 Stunden.
 
 #### Art. 6
 
-**Freizeit**
+**Nachtarbeit, Arbeit an Sonn- und Feiertagen**
 
-<sup>1</sup> Die Arbeitnehmenden haben im Laufe einer Woche Anrecht auf mindestens 1 1/2 freie Tage, wobei der Halbtag der halben Arbeitszeit eines Arbeitstages entsprechen muss. Innerhalb von vier Wochen müssen mindestens zwei freie Tage auf einen Sonntag fallen. Die freien Tage und Halbtage müssen in der Regel zum Voraus bestimmt werden und grundsätzlich jeweils auf den gleichen Wochentag fallen.
+<sup>1</sup> Die Zeit zwischen 23.00 und 06.00 Uhr gilt als Nachtruhe. Es ist untersagt, während derselben aktive Arbeitszeit einzuplanen.
 
-<sup>2</sup> An folgenden Feiertagen ist den Arbeitnehmenden ein zusätzlicher freier Tag zu gewähren: Neujahr, Fahrtsfest, Karfreitag, Ostermontag, Auffahrt, Pfingstmontag, Allerheiligen (1. November), Weihnachten und Stefanstag (26. Dezember). Ist dies am Feiertag nicht möglich, wird die Freizeit nachgeholt.
+<sup>2</sup> In diesem Zeitraum geleistete Arbeit gilt als Nachtarbeit. Sie ist nur in Ausnahmefällen und nur mit dem Einverständnis der Arbeitnehmenden zulässig.
 
-<sup>3</sup> An freien Tagen und Halbtagen besteht keine Verpflichtung zur Arbeitsleistung am Abend. Die Arbeitnehmenden können über ihre Freizeit (Feierabend und freie Tage) nach ihrem Ermessen verfügen.
+<sup>3</sup> An Sonn- und Feiertagen ist die Arbeit auf das dringend Notwendige zu beschränken.
 
-<sup>4</sup> An Sonntagen und staatlich anerkannten Feiertagen ist die Arbeit auf das dringend Notwendige zu beschränken. Den Arbeitnehmenden ist Gelegenheit zu geben, ihre religiösen Pflichten zu erfüllen.
-
-<sup>5</sup> Für nicht beim Arbeitgeber eingenommene Mahlzeiten während der freien Tage haben die Arbeitnehmenden Anspruch auf eine Verpflegungsentschädigung, die den Ansätzen der Alters- und Hinterlassenenversicherung (AHV) entspricht.
-
-<sup>6</sup> Nach erfolgter Kündigung hat der Arbeitgeber den Arbeitnehmenden Zeit für die Stellensuche einzuräumen. Zu diesem Zweck sind diese wenn nötig bis zu drei Stunden pro Woche an einem oder zwei Nachmittagen zu beurlauben.
+<sup>4</sup> Jugendliche Arbeitnehmende bis zum vollendeten 19. Altersjahr dürfen während der Nacht und an Sonn- und Feiertagen nicht beschäftigt werden.
 
 #### Art. 7
 
-**Weiterbildung**
+**Freizeit**
 
-<sup>1</sup> Der Arbeitgeber fördert die Weiterbildung der Arbeitnehmenden. Jugendliche sind für hauswirtschaftliche Kurse und andere Weiterbildungen zu beurlauben, ohne dass ihre Freizeit gekürzt wird. Vor Beginn und nach Beendigung des Unterrichts sind sie zur Arbeit verpflichtet.
+<sup>1</sup> Die Arbeitnehmenden haben jede Woche Anspruch auf einen ganzen arbeitsfreien Tag zu 24 Stunden und auf einen halben zu 8 Stunden. Verschiebungen oder Zusammenlegungen sind nicht zulässig.
 
-#### Art. 8
+<sup>2</sup> Der arbeitsfreie Tag soll am Sonntag gewährt werden. Ist es nicht möglich, den ganzen arbeitsfreien Tag regelmässig am Sonntag zu gewähren, ist ein anderer Wochentag als wöchentlicher Ruhetag zu bestimmen.
 
-**Ferien**
+<sup>3</sup> Arbeiten Arbeitnehmende an einem gesetzlich anerkannten Feiertag, der nicht auf einen Sonntag fällt, haben sie Anspruch auf einen zusätzlichen freien Halbtag.
 
-<sup>1</sup> Der Anspruch auf bezahlte Ferien richtet sich nach Artikel 329a OR. Zusätzlich gelten folgende Ansprüche:
-
-- a. …
-- b. nach dem vollendeten 50. Altersjahr — 5 Wochen
-- c. ab 11. Dienstjahr — 5 Wochen
-- d. …
-
-<sup>2</sup> Während der Ferien besteht Anspruch auf den Barlohn sowie auf eine Entschädigung für den ausfallenden Naturallohn nach den Ansätzen der AHV.
-
-<sup>3</sup> Ist der Anspruch auf die fünfte Ferienwoche durch die Anzahl der Dienstjahre begründet (Abs. 1 Bst. c), kann der Arbeitgeber den Anspruch mit der Auszahlung eines Viertels des monatlichen Bruttolohnes abgelten.
-
-<sup>4</sup> Im Übrigen ist auf den Ferienlohn Artikel 329d OR anwendbar.
-
-<sup>5</sup> Zeitpunkt und ununterbrochene Mindestdauer der Ferien richten sich nach Artikel 329c OR.
-
-<sup>6</sup> …
-
-<sup>7</sup> Die Zeit, während welcher sich die arbeitnehmende Person mit dem Arbeitgeber auf Reisen oder in den Ferien befindet, gilt nicht als Ferienzeit, es sei denn, die Parteien haben dies verabredet und die arbeitnehmende Person ist tatsächlich nicht zur Arbeit verpflichtet.
-
-<sup>8</sup> …
-
-#### Art. 9
-
-**Urlaub**
-
-<sup>1</sup> Arbeitnehmende haben bei folgenden Ereignissen Anspruch auf bezahlte Urlaubstage, die nicht an die Ferien- oder Ruhetage angerechnet werden:
+<sup>4</sup> Arbeitnehmende haben insbesondere Anspruch auf folgende bezahlte Freitage:
 
 - a. bei Verheiratung — 2 Tage
 - b. bei Geburt eines Kindes — 1 Tag
 - c. bei eigenem Wohnungswechsel — 1 Tag
 - d. bei Tod des Ehegatten, eines Kindes oder der Eltern — 3 Tage
-- e. Todesfall in der Verwandtschaft — 1 Tag
+- e. bei einem Todesfall in der Verwandtschaft — 1 Tag
+
+#### Art. 8
+
+**Weiterbildung**
+
+<sup>1</sup> Die Arbeitgebenden fördern die Weiterbildung ihrer Arbeitnehmenden.
+
+<sup>2</sup> Arbeitnehmende bis zum vollendeten 19. Altersjahr sind für hauswirtschaftliche Kurse und andere Weiterbildungen zu beurlauben, ohne dass ihre Freizeit gekürzt wird. Vor Beginn und nach Beendigung des Unterrichts sind sie zur Arbeit verpflichtet.
+
+#### Art. 9
+
+**Ferien**
+
+<sup>1</sup> Der Ferienanspruch bestimmt sich nach den Artikeln 329a und 329c OR. Darüber hinaus beträgt er nach dem vollendeten 50. Altersjahr und ab dem 11. Dienstjahr fünf Wochen.
+
+<sup>2</sup> Die Zeit, während welcher sich Arbeitnehmende mit Arbeitgebenden auf Reisen oder in den Ferien befinden, gilt nicht als Ferienzeit, es sei denn, die Parteien haben dies verabredet und die Arbeitnehmenden sind tatsächlich nicht zur Arbeit verpflichtet.
+
+## 3. Entlöhnung
 
 #### Art. 10
 
-**Lohn, Unterkunft, Verpflegung**
+**Lohn für aktive Arbeitszeit**
 
-<sup>1</sup> Der Bruttolohn der Arbeitnehmenden soll dem Aufgabenbereich, dem Ausbildungsstand und den Fähigkeiten entsprechen und ortsüblich sein. Er ist jährlich zu überprüfen und der Leistung und Dienstdauer der Arbeitnehmenden sowie der Teuerung anzupassen.
+<sup>1</sup> Der Lohn für die aktive Arbeitszeit richtet sich nach dem NAV Hauswirtschaft[^10-1].
 
-<sup>1<sup>bis</sup></sup> Der Mindestansatz für den Bruttolohn sowie die Berechnung des Abzugs für Naturallohn (Verpflegung, Unterkunft, Besorgung der Wäsche) richtet sich nach der eidgenössischen Verordnung über den Normalarbeitsvertrag für Arbeitnehmerinnen und Arbeitnehmer in der Hauswirtschaft.
+<sup>2</sup> Der Zuschlag für aktive Arbeitsstunden während der Nachtruhe und für solche, welche die wöchentliche Höchstarbeitszeit überschreiten, beträgt 25 Prozent.
 
-<sup>2</sup> Der Termin für die Zahlung des Barlohnes samt Sozialzulagen und dem Lohn für Überstundenarbeit richtet sich nach Artikel 323 Absatz 1 OR. Mit der Auszahlung des Lohnes ist eine schriftliche Lohnabrechnung zu übergeben.
+<sup>3</sup> An aktiven Sonn- und Feiertagen ist ein Zuschlag von 50 Prozent geschuldet.
 
-<sup>3</sup> Die Verpflegung muss gesund und ausreichend sein. Arbeitnehmende haben Anspruch auf ein eigenes abschliessbares Zimmer, das angemessenen gesundheitlichen Anforderungen entspricht, wohnlich eingerichtet, gut beleuchtet und gut heizbar ist. Der Arbeitgeber hat eine ausreichende Wasch- und Dusch- oder Badegelegenheit zur Verfügung zu stellen.
-
-<sup>4</sup> Die Familien- und Kinderzulagen dürfen bei der Festsetzung des Lohnes nicht berücksichtigt werden und sind ohne Abzüge auszurichten.
-
-<sup>5</sup> Stirbt die arbeitnehme Person, hat der Arbeitgeber den Lohn für einen weiteren Monat und nach fünfjähriger Dienstdauer für zwei weitere Monate, gerechnet vom Todestag an, zu entrichten, sofern die Arbeitnehmenden Ehegatten oder minderjährige Kinder oder andere Personen hinterlassen, denen gegenüber sie Unterstützungspflichten erfüllten.
+[^10-1]: SR 221.215.329.4
 
 #### Art. 11
 
-**Ansprüche bei Verhinderung der Arbeitsleistung**
+**Lohn für Präsenzzeit und Rufbereitschaft**
 
-<sup>1</sup> Die Ansprüche auf Pflege und ärztliche Behandlung bei Hausgemeinschaft mit dem Arbeitgeber sowie die Voraussetzungen der Lohnfortzahlungspflicht richten sich nach den Artikeln 324a und 328a Absatz 2 OR. Der Arbeitgeber hat innerhalb eines Jahres während folgender Dauer den Bruttolohn zu bezahlen: Im ersten Dienstjahr für die Dauer von drei Wochen, in jedem folgenden Dienstjahr eine weitere Woche bis zur Höchstdauer von sechs Monaten.
+<sup>1</sup> Präsenzzeit und Rufbereitschaft am Tag wie während der Nachtruhe ist wie folgt zu entschädigen:
 
-<sup>2</sup> Ausnahmen richten sich nach Artikel 324b OR.
-
-<sup>3–4</sup> …
+- a. zu 25 Prozent des Stundenlohns, aber mindestens 5 Franken pro Stunde, sofern monatlich weniger als 12 Einsätze während der Nachtruhe geleistet werden müssen;
+- b. zu 35 Prozent des Stundenlohns, aber mindestens 7 Franken pro Stunde, sofern monatlich durchschnittlich 13 bis 30 Einsätze während der Nachtruhe geleistet werden müssen;
+- c. zu 50 Prozent des Stundenlohns, aber mindestens 10 Franken pro Stunde, sofern monatlich durchschnittlich mehr als 30 Einsätze während der Nachtruhe geleistet werden müssen.
 
 #### Art. 12
 
-**Krankenversicherung**
+**Ferienlohn**
 
-<sup>1</sup> Der Arbeitgeber hat dafür zu sorgen, dass Arbeitnehmende gegen die wirtschaftlichen Folgen von Krankheit versichert sind. Der Arbeitgeber bestimmt in Absprache mit der arbeitnehmenden Person den Versicherungsträger. Hat der Arbeitgeber keine oder eine ungenügende Krankenversicherung abgeschlossen, so hat er die nachfolgend aufgeführten Leistungen selbst zu erbringen.
+<sup>1</sup> Arbeitgebende haben den Arbeitnehmenden für die Ferien den gesamten darauf entfallenden Lohn zu entrichten. Die Arbeitnehmenden haben auch während der Ferien Anspruch auf den üblichen Naturallohn.
 
-<sup>2</sup> Es sind folgende Leistungen zu versichern:
+<sup>2</sup> Für Teilzeitangestellte im Stundenlohn mit sehr unregelmässiger Beschäftigung oder mit sehr kurzem Arbeitseinsatz kann der auf die Ferienzeit entfallende Lohnanspruch zusammen mit dem Stundenlohn ausbezahlt werden, wenn dies im Arbeitsvertrag sowie schriftlich in jeder einzelnen Lohnabrechnung ausgewiesen und das Feriengeld separat aufgeführt wird.
 
-- a. ärztliche Behandlung und Arznei;
-- b. Kosten der allgemeinen Abteilung öffentlicher Spitäler;
-- c. ein pro Arbeitsjahr einmal aufgeschobenes Krankentaggeld in der Höhe von 80 Prozent des bei Versicherungsbeginn vereinbarten Bar- und Naturallohnes ab 31. Krankheitstag. Die Versicherung hat das Taggeld im Maximum 720 Tage innerhalb von 900 aufeinander folgenden Tagen zu bezahlen, auch wenn das Arbeitsverhältnis vor Krankheitsende aufgelöst wird. Das Krankengeld ist der eingetretenen Lohnentwicklung anzupassen;
-- d. bei Schwangerschaft und Niederkunft hat die Versicherung die gleichen Leistungen wie bei Krankheit zu umfassen, sofern die Versicherte bis zum Tag ihrer Niederkunft während wenigstens 270 Tagen versichert gewesen ist.
+<sup>3</sup> Der Zuschlag für das Feriengeld beträgt:
 
-<sup>3</sup> Während der Aufschubzeit der Krankentaggeldversicherung sind der arbeitnehmenden Person die gleichen Leistungen wie die der Versicherung vom Arbeitgeber zu bezahlen. Die Leistungen des Arbeitgebers während der Aufschubzeit sowie diejenigen der Krankentaggeldversicherung gelten als Lohnzahlung im Sinne von Artikel 11 Absatz 1 NAV bzw. Artikel 324a OR.
-
-<sup>4</sup> Werden bei Aufnahme in die Krankenversicherung Vorbehalte angebracht, so hat der Arbeitgeber die arbeitnehmende Person während der in Artikel 11 Absatz 1 genannten Fristen zu entschädigen, auch wenn das Arbeitsverhältnis nach Ablauf der Schutzfrist gemäss Artikel 18 aufgelöst wird.
-
-<sup>5</sup> Die Prämien der Krankenversicherung gehen mindestens zur Hälfte zu Lasten des Arbeitgebers.
+- a. bei 4 Wochen Ferien 8,33 Prozent des Stundenlohns;
+- b. bei 5 Wochen Ferien 10,64 Prozent des Stundenlohns.
 
 #### Art. 13
 
-**Unfallversicherung**
+**Sozialversicherungen**
 
-<sup>1</sup> Der Arbeitgeber hat die Arbeitnehmenden gemäss Bundesgesetz über die Unfallversicherung (UVG) gegen Berufs- und Nichtberufsunfälle sowie Berufskrankheiten zu versichern. Die Prämien für die Versicherung der Berufsunfälle und -krankheiten trägt der Arbeitgeber, jene für die Nichtberufsunfallversicherung tragen die Arbeitnehmenden.
+<sup>1</sup> Die Arbeitnehmenden sind grundsätzlich den Schweizer Sozialversicherungen unterstellt und beitragspflichtig. Die geschuldeten Sozialversicherungsbeiträge sind von den Arbeitgebenden zu entrichten. Die Unterstellung und die Frage, wer als Arbeitgebende gilt, wird vom zuständigen Sozialversicherungsträger im Einzelfall geprüft.
 
 #### Art. 14
 
-**Berufliche Vorsorge**
+**Lohnfortzahlung bei Arbeitsunfähigkeit**
 
-<sup>1</sup> Die berufliche Vorsorge richtet sich nach Artikel 331 OR und nach dem Bundesgesetz über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge (BVG).
+<sup>1</sup> Die Lohnfortzahlung bei Arbeitsunfähigkeit ist unabhängig von der vereinbarten Dauer des Arbeitsvertrages ab Beginn des Arbeitsvertrages geschuldet.
 
-<sup>2</sup> …
+<sup>2</sup> Im Übrigen gelten die Artikel 324a, 324b und 328a OR.
+
+## 4. Fürsorge- und Dokumentationspflichten
 
 #### Art. 15
+
+**Gesundheitsschutz und Beschäftigung bei Mutterschaft**
+
+<sup>1</sup> Für den Gesundheitsschutz und die Beschäftigung bei Mutterschaft gelten die Regeln nach den Artikeln 6, 35, 35a und 36a ArG.
+
+#### Art. 16
+
+**Unterkunft und Verpflegung**
+
+<sup>1</sup> Arbeitnehmende, die im gleichen privaten Haushalt mit der zu betreuenden Person wohnen, haben Anspruch auf:
+
+- a. eine gesunde und ausreichende Verpflegung;
+- b. ein Einzelzimmer;
+- c. Mitbenützung der sanitären Einrichtungen und der Waschküche;
+- d. unlimitierten und kostenlosen Internetzugang, sofern der Haushalt, in dem die zu betreuende Person lebt, über einen Internetzugang verfügt.
+
+<sup>2</sup> Die Arbeitnehmenden können verlangen, dass sie ihr eigenes Essen selbst zubereiten und dazu die Küche und die Küchenutensilien mitbenützen dürfen.
+
+<sup>3</sup> Das Einzelzimmer muss:
+
+- a. abschliessbar sein;
+- b. den hygienischen Anforderungen entsprechen;
+- c. mit Tageslicht und künstlichem Licht gut beleuchtet sein;
+- d. geheizt und belüftet sein;
+- e. ausreichend gross und möbliert sein, um insbesondere die Präsenzzeit und die Freizeit darin verbringen zu können.
+
+#### Art. 17
+
+**Dokumentationspflichten**
+
+<sup>1</sup> Die Arbeitgebenden übergeben den Arbeitnehmenden vor dem Abschluss des Arbeitsvertrages ein Exemplar dieses NAV.
+
+<sup>2</sup> Die Arbeitgebenden sorgen dafür, dass sie oder die Arbeitnehmenden in der Arbeitszeitdokumentation die geleisteten aktiven Arbeitsstunden und Präsenzzeiten, die Pausen, die während der Präsenzzeiten geleisteten Arbeitseinsätze, die Arbeitsstunden in der Nacht und die Überstunden festhalten. Dieses Dokument ist wöchentlich durch alle Vertragsparteien zu visieren.
+
+<sup>3</sup> Die Arbeitgebenden erstellen monatlich eine detaillierte Lohnabrechnung und händigen diese bis zum 10. des Folgemonats den Arbeitnehmenden aus.
+
+## 5. Beendigung des Arbeitsverhältnisses
+
+#### Art. 18
+
+**Probezeit**
+
+<sup>1</sup> Der erste Monat nach Dienstantritt gilt als Probezeit.
+
+<sup>2</sup> Die Parteien können das Arbeitsverhältnis während der Probezeit unter Einhaltung einer Kündigungsfrist von drei Tagen auflösen.
+
+#### Art. 19
+
+**Kündigung und Austritt**
+
+<sup>1</sup> Ein befristetes Arbeitsverhältnis endet nach Ablauf der vereinbarten Dauer ohne Kündigung.
+
+<sup>2</sup> Die Auflösung unbefristeter Arbeitsverhältnisse richtet sich nach den Artikeln 335–335c OR.
+
+<sup>3</sup> Die Kündigung hat schriftlich zu erfolgen.
+
+<sup>4</sup> Beim Tod oder einer Heimeinweisung der zu betreuenden Person endet das angetretene Arbeitsverhältnis frühestens 30 Tage nach diesem Ereignis.
+
+#### Art. 20
 
 **Abgangsentschädigung**
 
@@ -205,41 +277,7 @@ verordnet:
 
 <sup>2</sup> Die Anrechenbarkeit von Personalfürsorgeleistungen richten sich nach Artikel 339d OR.
 
-<sup>3</sup> Für den Todesfall während des Arbeitsverhältnisses gilt Artikel 339b Absatz 2 OR.
-
-#### Art. 16
-
-**Sozialversicherungsbeiträge**
-
-<sup>1</sup> Die Beitragspflichten für die Alters- und Hinterlassenenversicherung, die Invalidenversicherung, den Erwerbsersatz für Dienstleistende und bei Mutterschaft und die Arbeitslosenversicherung richten sich nach der entsprechenden eidgenössischen und kantonalen Gesetzgebung.
-
-#### Art. 17
-
-**Vorstellung, Probezeit**
-
-<sup>1</sup> Veranlasst der Arbeitgeber vor Vertragsabschluss, dass Arbeitnehmende sich persönlich vorstellen, so haben sie Anrecht auf eine Vergütung der Fahrkosten, wenn nichts anderes vereinbart worden ist.
-
-<sup>2</sup> Der 1. Monat nach Dienstantritt gilt als Probezeit, während welcher es jeder Partei freisteht, das Arbeitsverhältnis unter Einhaltung einer Kündigungsfrist von drei Tagen aufzulösen.
-
-#### Art. 18
-
-**Kündigung, Austritt**
-
-<sup>1</sup> Nach Ablauf der Probezeit gilt eine Kündigungsfrist von einem Monat. Im ersten Dienstjahr kann auf den 15. oder den letzten Tag eines Monats gekündigt werden; ab dem zweiten Dienstjahr ausschliesslich auf den letzten Tag eines Monats.
-
-<sup>2</sup> Die arbeitnehmende Person hat die Stelle am letzten Tag der Kündigungsfrist zu verlassen; fällt dieser auf einen Sonntag oder Feiertag, so ist der Austritt auf den vorangehenden Werktag zu legen.
-
-<sup>3</sup> Die fristlose Auflösung des Arbeitsverhältnisses richtet sich nach den Artikeln 337 ff. OR. Die fristlose Entlassung eines minderjährigen oder bevormundeten Arbeitnehmenden ist der gesetzlichen Vertretung vorgängig anzuzeigen.
-
-#### Art. 19
-
-**Gesetzliche Kündigungsverbote**
-
-<sup>1</sup> Die gesetzlichen Kündigungsverbote richten sich nach Artikel 336 ff. OR.
-
-<sup>2</sup> …
-
-#### Art. 20
+#### Art. 21
 
 **Ungerechtfertigte Entlassung, Verweigerung des Stellenantritts, fristloses Verlassen der Arbeitsstelle, Verzug des Arbeitgebers**
 
@@ -249,82 +287,26 @@ verordnet:
 
 <sup>3</sup> Die Folgen eines Arbeitgeberverzugs richten sich nach Artikel 324 OR.
 
-<sup>4</sup> …
-
-#### Art. 21
-
-**…**
-
 #### Art. 22
 
 **Zeugnis**
 
 <sup>1</sup> Für das Arbeitszeugnis gelten die Artikel 330a und 346a OR.
 
-<sup>2</sup> …
-
-## 2. Für Teilzeitangestellte
+## 6. Rechtsschutz und Schlussbestimmungen
 
 #### Art. 23
 
-**Teilzeitangestellte**
+**Rechtsschutz**
 
-<sup>1</sup> Die Definition der Teilzeitangestellten richtet sich nach Artikel 319 Absatz 2 OR.
+<sup>1</sup> Der Rechtsschutz richtet sich nach der Zivilprozessordnung[^23-1].
 
-<sup>2</sup> Die Bestimmungen des 1. Abschnittes gelten sinngemäss für Teilzeitangestellte, sofern nachfolgend nicht etwas anderes bestimmt wird.
+[^23-1]: SR 272
 
 #### Art. 24
 
-**Arbeitszeit, Lohn**
+**Übergangsbestimmung**
 
-<sup>1</sup> Die Arbeitszeit richtet sich nach Vereinbarung.
+<sup>1</sup> Der NAV ist mit einer Übergangsfrist von einem Jahr ab Inkrafttreten auch auf bestehende Arbeitsverhältnisse anwendbar.
 
-<sup>2</sup> Der Lohnzuschlag für Überstunden entfällt.
-
-<sup>3</sup> …
-
-#### Art. 25
-
-**…**
-
-#### Art. 26
-
-**Ferien**
-
-<sup>1</sup> Arbeitnehmenden, die im Stundenlohn entschädigt werden, kann der auf die Ferienzeit entfallende Lohnanspruch zusammen mit dem Stundenlohn ausbezahlt werden, sofern dies schriftlich ausgewiesen und das Feriengeld separat aufgeführt wird. Der Zuschlag für das Feriengeld beträgt bei 4 Wochen Ferien 8,33 Prozent und bei 5 Wochen Ferien 10,63 Prozent des Stundenlohnes.
-
-#### Art. 27
-
-**…**
-
-## 3. Rechtsschutz
-
-#### Art. 28
-
-<sup>1</sup> Der Rechtsschutz richtet sich nach der Schweizerischen Zivilprozessordnung.
-
-## 4. Schlussbestimmungen
-
-#### Art. 29
-
-**Aushändigung eines Exemplars**
-
-<sup>1</sup> Der Arbeitgeber hat den Arbeitnehmenden ein Exemplar dieses Normalarbeitsvertrages samt Auszug aus dem OR auszuhändigen. Auf Wunsch der Parteien stellt die zuständige Behörde diese und weitere erforderliche Informationen zur Verfügung.
-
-#### Art. 30
-
-**…**
-
-#### Art. 31
-
-**Verhandlungen der Sozialpartner**
-
-<sup>1</sup> Die Vertreter der Arbeitgeber und Arbeitnehmer treffen sich auf Wunsch einer Partei einmal pro Jahr zur Besprechung von Fragen, welche die durch diesen NAV geregelten Arbeitsverhältnisse betreffen.
-
-#### Art. 32
-
-**Inkrafttreten**
-
-<sup>1</sup> Dieser Normalarbeitsvertrag tritt auf den 1. Januar 1988 in Kraft.
-
-SBE III/5 358
+SBE 2023 46
