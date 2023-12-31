@@ -4,11 +4,11 @@ title: "Legge federale del 21 marzo 2003 sull'energia nucleare (LENu)"
 short: LENu
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/723"
 language: it
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2003-03-21
 in_force: 2005-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/723/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2004-723-20230901-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/723/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/723/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2004-723-20240101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/723/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/723/20230901/it"
 
 (LENu)
 
-del 21 marzo 2003 (Stato 1° settembre 2023)
+del 21 marzo 2003 (Stato 1° gennaio 2024)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -124,9 +124,14 @@ Al fine della prevenzione occorre adottare tutti i provvedimenti che:
 
 <sup>2</sup> Per il caso in cui vengano liberate quantità pericolose di sostanze radioattive occorre preparare provvedimenti di protezione d’emergenza volti a limitare l’entità del danno.
 
-<sup>3</sup> Per impedire che la sicurezza interna di impianti nucleari e materiali nucleari sia ridotta da effetti non autorizzati o che materiali nucleari siano sottratti, vanno presi provvedimenti di sicurezza esterna. Nella misura del necessario, questi provvedimenti sono classificati.
+<sup>3</sup> Per impedire che la sicurezza interna di impianti nucleari e materiali nucleari sia ridotta da effetti non autorizzati o che materiali nucleari siano sottratti, vanno presi provvedimenti di sicurezza esterna.[^5-1]
+
+<sup>3bis</sup> La classificazione e il trattamento delle informazioni sono rette dalle disposizioni della legislazione sulla sicurezza delle informazioni in seno alla Confederazione.[^5-2]
 
 <sup>4</sup> Il Consiglio federale determina quali provvedimenti di protezione sono necessari.
+
+[^5-1]: Nuovo testo giusta l’all. 1 n. 14 della L del 18 dic. 2020 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [FF 2017 2563](https://fedlex.data.admin.ch/eli/fga/2017/647)).
+[^5-2]: Introdotto dall’all. 1 n. 14 della L del 18 dic. 2020 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [FF 2017 2563](https://fedlex.data.admin.ch/eli/fga/2017/647)).
 
 ## Capitolo 3: Beni nucleari
 

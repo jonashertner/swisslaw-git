@@ -4,11 +4,11 @@ title: Kernenergiegesetz vom 21. März 2003 (KEG)
 short: KEG
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/723"
 language: de
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2003-03-21
 in_force: 2005-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/723/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2004-723-20230901-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/723/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/723/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2004-723-20240101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/723/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/723/20230901/de"
 
 (KEG)
 
-vom 21. März 2003 (Stand am 1. September 2023)
+vom 21. März 2003 (Stand am 1. Januar 2024)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -124,9 +124,14 @@ Im Sinne der Vorsorge sind alle Vorkehren zu treffen, die:
 
 <sup>2</sup> Für den Fall, dass gefährliche Mengen radioaktiver Stoffe freigesetzt werden, sind Notfallschutzmassnahmen zur Begrenzung des Schadenausmasses vorzubereiten.
 
-<sup>3</sup> Um zu verhindern, dass die nukleare Sicherheit von Kernanlagen und Kernmaterialien durch unbefugtes Einwirken beeinträchtigt oder Kernmaterialien entwendet werden, müssen Sicherungsmassnahmen getroffen werden. Diese Massnahmen sind, soweit erforderlich, zu klassifizieren.
+<sup>3</sup> Um zu verhindern, dass die nukleare Sicherheit von Kernanlagen und Kernmaterialien durch unbefugtes Einwirken beeinträchtigt oder Kernmaterialien entwendet werden, müssen Sicherungsmassnahmen getroffen werden.[^5-1]
+
+<sup>3bis</sup> Die Klassifizierung und die Bearbeitung von Informationen richten sich nach den Vorschriften der Gesetzgebung über die Informationssicherheit beim Bund.[^5-2]
 
 <sup>4</sup> Der Bundesrat regelt, welche Schutzmassnahmen erforderlich sind.
+
+[^5-1]: Fassung gemäss Anhang 1 Ziff. 14 des Informationssicherheitsgesetzes vom 18. Dez. 2020, in Kraft seit 1. Jan. 2024 ([AS 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [BBl 2017 2953](https://fedlex.data.admin.ch/eli/fga/2017/647)).
+[^5-2]: Eingefügt durch Anhang 1 Ziff. 14 des Informationssicherheitsgesetzes vom 18. Dez. 2020, in Kraft seit 1. Jan. 2024 ([AS 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [BBl 2017 2953](https://fedlex.data.admin.ch/eli/fga/2017/647)).
 
 ## 3. Kapitel: Nukleare Güter
 

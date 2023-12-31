@@ -4,11 +4,11 @@ title: "Loi du 21 mars 2003 sur l'énergie nucléaire (LENu)"
 short: LENu
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/723"
 language: fr
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2003-03-21
 in_force: 2005-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/723/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2004-723-20230901-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/723/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/723/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2004-723-20240101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/723/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/723/20230901/fr"
 
 (LENu)
 
-du 21 mars 2003 (État le 1<sup>er</sup> septembre 2023)
+du 21 mars 2003 (État le 1<sup>er</sup> janvier 2024)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -124,9 +124,14 @@ Au titre de la prévention, on prendra:
 
 <sup>2</sup> Des mesures de protection en cas d’urgence doivent être préparées pour limiter les dégâts en cas de libération de quantités dangereuses de substances radioactives.
 
-<sup>3</sup> Des mesures de sûreté doivent être prises pour empêcher des tiers d’attenter à la sécurité des installations et des matières nucléaires ou que des matières nucléaires ne puissent être dérobées. Ces mesures seront autant que possible classifiées.
+<sup>3</sup> Des mesures de sûreté doivent être prises pour empêcher des tiers d’attenter à la sécurité des installations et des matières nucléaires et pour empêcher que des matières nucléaires puissent être dérobées.[^5-1]
+
+<sup>3bis</sup> La classification et le traitement des informations sont régis par les dispositions de la législation sur la sécurité de l’information au sein de la Confédération.[^5-2]
 
 <sup>4</sup> Le Conseil fédéral fixe les mesures nécessaires.
+
+[^5-1]: Nouvelle teneur selon l’annexe 1 ch. 14 de la L du 18 déc. 2020 sur la sécurité de l’information, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [FF 2017 2765](https://fedlex.data.admin.ch/eli/fga/2017/647)).
+[^5-2]: Introduit par l’annexe 1 ch. 14 de la L du 18 déc. 2020 sur la sécurité de l’information, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [FF 2017 2765](https://fedlex.data.admin.ch/eli/fga/2017/647)).
 
 ## Chapitre 3 Articles nucléaires
 

@@ -4,11 +4,11 @@ title: Nuclear Energy Act of 21 March 2003 (NEA)
 short: NEA
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/723"
 language: en
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2003-03-21
 in_force: 2005-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/723/20230901/en/xml/fedlex-data-admin-ch-eli-cc-2004-723-20230901-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/723/20230901/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/723/20240101/en/xml/fedlex-data-admin-ch-eli-cc-2004-723-20240101-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/723/20240101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (NEA)
 
-of 21 March 2003 (Status as of 1 September 2023)
+of 21 March 2003 (Status as of 1 January 2024)
 
 The Federal Assembly of the Swiss Confederation
 
@@ -126,9 +126,14 @@ In order to prevent harm to humans and the environment, precautionary measures m
 
 <sup>2</sup> Preparation must be made for the implementation of emergency protection measures to limit the extent of damage in the event that dangerous quantities of radioactive substances should be released into the environment.
 
-<sup>3</sup> Security measures must be taken in order to prevent any interference with the safety of nuclear installations and nuclear materials through unauthorised acts or the theft of nuclear materials. If required, such measures shall be classified.
+<sup>3</sup> Security measures must be taken in order to prevent any interference with the safety of nuclear installations and nuclear materials through unauthorised acts or the theft of nuclear materials.[^5-1]
+
+<sup>3bis</sup> The classification and processing of information are governed by the provisions of the legislation on information security in the Confederation.[^5-2]
 
 <sup>4</sup> The Federal Council shall stipulate which preventive and protective measures are required.
+
+[^5-1]: Amended by Annex 1 No 14 of the Information Security Act of 18 Dec. 2020, in force since 1 Jan. 2024 ([AS 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [BBl 2017 2953](https://fedlex.data.admin.ch/eli/fga/2017/647)).
+[^5-2]: Inserted by Annex 1 No 14 of the Information Security Act of 18 Dec. 2020, in force since 1 Jan. 2024 ([AS 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [BBl 2017 2953](https://fedlex.data.admin.ch/eli/fga/2017/647)).
 
 ## Chapter 3 Nuclear Goods
 
