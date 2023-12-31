@@ -4,13 +4,12 @@ number: "152.221.121.2"
 title: "Direktionsverordnung über die Delegation von Befugnissen der Gesundheits-, Sozial- und Integrationsdirektion"
 short: DelDV GSI
 language: de
-version: 2023-01-01
-valid_until: 2023-12-31
-version_adopted: 2023-01-16
+version: 2024-01-01
+version_adopted: 2023-11-30
 adopted: 2001-01-17
 in_force: 2001-02-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/152.221.121.2"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2778/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2962/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,11 +18,11 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2778/pdf_file"
 
 (DelDV GSI)
 
-vom 17.01.2001 (Stand 01.01.2023)
+vom 17.01.2001 (Stand 01.01.2024)
 
 Die Gesundheits-, Sozial- und Integrationsdirektion des Kantons Bern,
 
-gestützt auf Artikel 43 des Gesetzes vom 20. Juni 1995 über die Organisation des Regierungsrates und der Verwaltung (Organisationsgesetz, OrG[^ingress-1]), Artikel 5 Absatz 2 der Verordnung vom 29. November 2000 über die Organisation und die Aufgaben der Gesundheits-, Sozial- und Integrationsdirektion (Organisationsverordnung GSI, OrV GSI[^ingress-2]), Artikel 19 Absatz 2 des Personalgesetzes vom 16. September 2004 (PG[^ingress-3]), Artikel 2 Absatz 2, 8 Absatz 2, 12 Absatz 1, 84f Absatz 1, 99 Absatz 1, 113 Absatz 1, 132, 156, 157 Absatz 1, 175 Absatz 2 Buchstabe b der Personalverordnung vom 18. Mai 2005 (PV[^ingress-4]), sowie Artikel 153 Absatz 1 der Verordnung vom 3. Dezember 2003 über die Steuerung von Finanzen und Leistungen (FLV[^ingress-5]),
+gestützt auf Artikel 43 des Gesetzes vom 20. Juni 1995 über die Organisation des Regierungsrates und der Verwaltung (Organisationsgesetz, OrG)[^ingress-1], Artikel 5 Absatz 2 der Verordnung vom 30. Juni 2021 über die Organisation und die Aufgaben der Gesundheits-, Sozial- und Integrationsdirektion (Organisationsverordnung GSI, OrV GSI)[^ingress-2], Artikel 19 Absatz 2 des Personalgesetzes vom 16. September 2004 (PG)[^ingress-3], Artikel 2 Absatz 2, 8 Absatz 2, 12 Absatz 1, 84f Absatz 1, 99 Absatz 1, 113 Absatz 1, 156, 157 Absatz 1, 175 Absatz 2 Buchstabe b der Personalverordnung vom 18. Mai 2005 (PV)[^ingress-4], sowie Artikel 37 Absatz 1 der Finanzhaushaltsverordnung vom 16. November 2022 (FHaV)[^ingress-5],
 
 beschliesst:
 
@@ -113,9 +112,7 @@ beschliesst:
 
 **Gesundheits-, Sozial- und Integrationsdirektorin, Gesundheits-, Sozial- und Integrationsdirektor**
 
-<sup>1</sup> Die Gesundheits-, Sozial- und Integrationsdirektorin oder der Gesundheits-, Sozial- und Integrationsdirektor bewilligt alle Ausgaben, für deren Bewilligung die Direktion gemäss Artikel 152 Absatz 1 FLV[^9-1] oder gemäss spezialgesetzlicher Regelung zuständig ist, soweit die Ausgabenbefugnis nicht gemäss Artikel 10 delegiert worden ist.
-
-[^9-1]: BSG [621.1](https://www.belex.sites.be.ch/data/621.1/de)
+<sup>1</sup> Die Gesundheits-, Sozial- und Integrationsdirektorin oder der Gesundheits-, Sozial- und Integrationsdirektor bewilligt alle Ausgaben, für deren Bewilligung die Direktion gemäss Artikel 36 Absatz 1 FHaV oder gemäss spezialgesetzlicher Regelung zuständig ist, soweit die Ausgabenbefugnis nicht gemäss Artikel 10 delegiert worden ist.
 
 #### Art. 10
 
@@ -128,13 +125,13 @@ beschliesst:
 - c gebundene einmalige Ausgaben bis 500'000 Franken,
 - d gebundene wiederkehrende Ausgaben bis 100'000 Franken.
 
-<sup>2</sup> Sie können ihre Ausgabenbefugnisse im Organisationsreglement ihrer Organisationseinheit ganz oder teilweise an ihre Stellvertreterinnen und Stellvertreter sowie an die Leiterinnen und Leiter der ihnen unterstellten Abteilungen und Dienste delegieren.
+<sup>2</sup> Sie können ihre Ausgabenbefugnisse im Organisationsreglement ihrer Organisationseinheit ganz oder teilweise an ihre Stellvertreterinnen und Stellvertreter, an die Leiterinnen und Leiter der ihnen unterstellten Abteilungen, Dienste und Fachbereiche sowie an bestimmte Personen mit Sonderfunktion delegieren.
 
 <sup>3</sup> Unter Vorbehalt von Absatz 4 sind die Amtsvorsteherinnen und Amtsvorsteher in ihrem Zuständigkeitsbereich zuständig für die konkrete Verwendung der Rahmenkredite gemäss Artikel 129 Absatz 1 und 2 des Gesetzes vom 9. März 2021 über die sozialen Leistungsangebote (SLG)[^10-1].
 
 <sup>3a</sup> Sie bewilligen in ihrem Zuständigkeitsbereich alle Verpflichtungskredite für Betriebsbeiträge an Trägerschaften von Leistungsangeboten für erwachsene Menschen mit Behinderung, soweit ihnen die Kompetenz zum Abschluss von Leistungsverträgen oder Leistungsaufträgen mit diesen Trägerschaften übertragen worden ist. Die Bewilligung erfolgt unter Vorbehalt von Absatz 4.
 
-<sup>4</sup> Sie unterbreiten der Gesundheits-, Sozial- und Integrationsdirektorin oder dem Gesundheits-, Sozial- und Integrationsdirektor periodisch eine Liste mit den vorgesehenen konkreten Verwendungen der Rahmenkredite gemäss Artikel 129 Absatz 1 und 2 SLG sowie eine Liste mit den vorgesehenen Verpflichtungskrediten gemäss Absatz 3a. Die Gesundheits-, Sozial- und Integrationsdirektorin oder der Gesundheits-, Sozial- und Integrationsdirektor kann einzelne Verwendungen oder einzelne Verpflichtungskredite innerhalb der mit den Amtsvorsteherinnen und Amtsvorstehern vereinbarten Frist ablehnen.
+<sup>4</sup> Die Amtsvorsteherinnen und Amtsvorsteher unterbreiten der Gesundheits-, Sozial- und Integrationsdirektorin oder dem Gesundheits-, Sozial- und Integrationsdirektor periodisch eine Liste mit den vorgesehenen konkreten Verwendungen der Rahmenkredite gemäss Artikel 129 Absatz 1 und 2 SLG sowie eine Liste mit den vorgesehenen Verpflichtungskrediten gemäss Absatz 3a. Die Gesundheits-, Sozial- und Integrationsdirektorin oder der Gesundheits-, Sozial- und Integrationsdirektor kann einzelne Verwendungen oder einzelne Verpflichtungskredite innerhalb der mit den Amtsvorsteherinnen und Amtsvorstehern vereinbarten Frist ablehnen.
 
 <sup>5</sup> Die Amtsvorsteherinnen und Amtsvorsteher bewilligen in ihrem Zuständigkeitsbereich die Ausgaben gemäss Artikel 130 Absatz 1 SLG.
 
@@ -152,7 +149,7 @@ beschliesst:
 
 <sup>1</sup> Die Unterschriftenberechtigung richtet sich nach den Befugnissen im Personalbereich und den Ausgabenbefugnissen.
 
-<sup>2</sup> Im Verhinderungsfall kommt die Unterschriftsberechtigung den Stellvertreterinnen und Stellvertretern zu.
+<sup>2</sup> Im Verhinderungsfall kommt die Unterschriftenberechtigung den Stellvertreterinnen und Stellvertretern zu.
 
 #### Art. 14a
 
@@ -166,24 +163,24 @@ beschliesst:
 
 **2 Gesundheitsamt**
 
-<sup>1</sup> Sofern in der Spezialgesetzgebung das Gesundheitsamt als zuständiges Amt bezeichnet wird, ist die Vorsteherin oder der Vorsteher des Amts unterschriftenberechtigt, im Verhinderungsfall deren Stellvertreterin oder Stellvertreter.
+<sup>1</sup> Sofern in der Spezialgesetzgebung das Gesundheitsamt als zuständiges Amt bezeichnet wird, ist die Vorsteherin oder der Vorsteher des Amts unterschriftsberechtigt, im Verhinderungsfall deren Stellvertreterin oder Stellvertreter.
 
-<sup>2</sup> Diese Unterschriftenberechtigung kann in den nachfolgenden Bereichen an die betroffenen unterstellten Organisationseinheiten delegiert werden:
+<sup>2</sup> Diese Unterschriftenberechtigung kann an die betroffenen unterstellten Organisationseinheiten delegiert werden, insbesondere in den nachfolgenden Bereichen:
 
 - a Erteilung und Entzug von Berufsausübungsbewilligungen und Betriebsbewilligungen im Rahmen der Gesundheitsgesetzgebung,
 - b Anordnung aufsichtsrechtlicher Massnahmen im Rahmen der Aufsicht über die Gesundheitsberufe und Betriebe.
 
-<sup>3</sup> Das Amt regelt die Delegation der Unterschriftsberechtigung in seinem Organisations- und Geschäftsreglement.
+<sup>3</sup> Das Amt regelt die Delegation der Unterschriftenberechtigung in seinem Organisations- und Geschäftsreglement.
 
 #### Art. 14c
 
 **3 Amt für Integration und Soziales**
 
-<sup>1</sup> Sofern in der Spezialgesetzgebung das Amt für Integration und Soziales als zuständiges Amt bezeichnet wird, ist die Vorsteherin oder der Vorsteher des Amts unterschriftenberechtigt, im Verhinderungsfall deren Stellvertreterin oder Stellvertreter.
+<sup>1</sup> Sofern in der Spezialgesetzgebung das Amt für Integration und Soziales als zuständiges Amt bezeichnet wird, ist die Vorsteherin oder der Vorsteher des Amts unterschriftsberechtigt, im Verhinderungsfall deren Stellvertreterin oder Stellvertreter.
 
-<sup>2</sup> Diese Unterschriftenberechtigung kann im Bereich der Erteilung und des Entzugs von Bewilligungen für Kindertagesstätten sowie der Anordnung von Massnahmen gegen Inhaberinnen und Inhaber einer Bewilligung an die betroffenen unterstellten Organisationseinheiten delegiert werden.
+<sup>2</sup> Diese Unterschriftenberechtigung kann an die unterstellten Organisationseinheiten delegiert werden, insbesondere im Bereich der Erteilung und des Entzugs von Bewilligungen für Kindertagesstätten sowie der Anordnung von Massnahmen gegen Inhaberinnen und Inhaber einer Bewilligung.
 
-<sup>3</sup> Das Amt regelt die Delegation der Unterschriftsberechtigung in seinem Organisations- und Geschäftsreglement.
+<sup>3</sup> Das Amt regelt die Delegation der Unterschriftenberechtigung in seinem Organisations- und Geschäftsreglement.
 
 ## 5 Übergangs- und Schlussbestimmungen
 
