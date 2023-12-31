@@ -4,13 +4,13 @@ number: "173.7"
 title: Gesetz über den Justizrat
 short: GJR
 language: de
-version: 2023-01-01
-valid_until: 2023-12-31
-version_adopted: 2022-03-11
+version: 2024-01-01
+valid_until: 2026-02-28
+version_adopted: 2023-09-07
 adopted: 2019-09-13
 in_force: 2020-09-01
 url: "https://lex.vs.ch/app/de/texts_of_law/173.7"
-pdf: "https://lex.vs.ch/api/de/versions/3123/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3262/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://lex.vs.ch/api/de/versions/3123/pdf_file"
 
 (GJR)
 
-vom 13.09.2019 (Stand 01.01.2023)
+vom 13.09.2019 (Stand 01.01.2024)
 
 Der Grosse Rat des Kantons Wallis
 
@@ -71,7 +71,7 @@ beschliesst:[^ingress-1]
 <sup>1</sup> Vorbehalten bleiben die Bestimmungen der kantonalen Gesetzgebung zur:
 
 - a) Verwaltungsdirektion, der internen Organisation und der Leitung der Gerichte und Ämter der Staatsanwaltschaft;
-- b) Aufsicht über die Gerichtsschreiber und das administrative Personal der Gerichte sowie der Aufsicht über das administrative Personal der Ämter der Staatsanwaltschaft;
+- b) Aufsicht über die Gerichtsschreiber und das administrative Personal der Gerichte und der Staatsanwaltschaft;
 - c) Finanzkontrolle der Geschäftsführung und des Finanzhaushalts der Gerichte und der Ämter der Staatsanwaltschaft.
 
 ## 2 Zusammensetzung des Justizrates und Art der Bezeichnung seiner Mitglieder
@@ -88,7 +88,7 @@ beschliesst:[^ingress-1]
 
 <sup>1</sup> Von Amtes wegen Mitglied sind:
 
-- a) der Generalstaatsanwalt;
+- a) ein Mitglied des Büros der Staatsanwaltschaft, das von diesem bezeichnet wird;
 - b) ein Mitglied des Vorstands des Walliser Anwaltsverbands, das von diesem bezeichnet wird;
 - c) ein Mitglied der Verwaltungskommission des Kantonsgerichts, das von diesem bezeichnet wird.
 
@@ -264,7 +264,7 @@ beschliesst:[^ingress-1]
 
 **Grundsatz**
 
-<sup>1</sup> Gegen einen Richter oder Staatsanwalt, der seine Dienstpflichten vorsätzlich oder fahrlässig verletzt, können Disziplinarstrafen verhängt werden.
+<sup>1</sup> Gegen einen Richter, Beisitzer oder Staatsanwalt, der seine Dienstpflichten vorsätzlich oder fahrlässig verletzt, können Disziplinarstrafen verhängt werden.
 
 #### Art. 24
 
@@ -272,7 +272,7 @@ beschliesst:[^ingress-1]
 
 <sup>1</sup> Eine Disziplinarstrafe kann nur nach einer Untersuchung ausgesprochen werden. Die betroffene Person wird über die Eröffnung des Verfahrens informiert.
 
-<sup>2</sup> Die Untersuchung wird vom Präsidenten des Justizrates oder einem vom Justizrat bestimmten Mitglied durchgeführt.
+<sup>2</sup> Die Untersuchung wird vom Präsidenten des Justizrates oder von einem vom Justizrat bestimmten Mitglied durchgeführt, wobei ihm das Amtsgeheimnis nicht entgegengehalten werden kann.
 
 <sup>3</sup> Die betroffene Person wird angehört. Am Ende der Untersuchung kann sie eine Rechtsschrift einreichen und eine ergänzende Untersuchung verlangen.
 
@@ -299,17 +299,17 @@ beschliesst:[^ingress-1]
 - c) Versetzung in eine andere bzw. eine gleichwertige oder tiefer eingestufte Funktion mit einer der neuen Situation entsprechenden Besoldung;
 - d) disziplinarische Abberufung.
 
-<sup>2</sup> Die Art der Disziplinarstrafe richtet sich, unter Berücksichtigung des bisherigen Verhaltens des Richters oder Staatsanwalts, nach der Schwere der Dienstpflichtverletzung.
+<sup>2</sup> Die Art der Disziplinarstrafe richtet sich, unter Berücksichtigung des bisherigen Verhaltens des Richters, Beisitzers oder Staatsanwalts, nach der Schwere der Dienstpflichtverletzung.
 
 <sup>4</sup> Bei leichtem Verschulden kann von einer Disziplinarstrafe abgesehen werden.
 
-<sup>5</sup> Falls der betroffene Richter oder Staatsanwalt seine Kündigung einreicht, kann die zuständige Behörde auf eine Disziplinarstrafe verzichten und die Kündigung akzeptieren, wenn dies unter Berücksichtigung aller Umstände und der verschiedenen Interessen die angemessenste Lösung ist.
+<sup>5</sup> Falls der betroffene Richter, Beisitzer oder Staatsanwalt seine Kündigung einreicht, kann die zuständige Behörde auf eine Disziplinarstrafe verzichten und die Kündigung akzeptieren, wenn dies unter Berücksichtigung aller Umstände und der verschiedenen Interessen die angemessenste Lösung ist.
 
 #### Art. 27
 
 **Kompetenzen des Grossen Rates**
 
-<sup>1</sup> Wenn der Justizrat am Ende seiner Untersuchung feststellt, dass der Sachverhalt die disziplinarische Abberufung eines vom Grossen Rat gewählten Richters oder Staatsanwalts rechtfertigt, leitet er die Akte an den Grossen Rat weiter, der diese der Justizkommission zur Stellungnahme unterbreitet.
+<sup>1</sup> Wenn der Justizrat am Ende seiner Untersuchung feststellt, dass der Sachverhalt die disziplinarische Abberufung eines vom Grossen Rat gewählten Richters, Beisitzers oder Staatsanwalts rechtfertigt, leitet er die Akte an den Grossen Rat weiter, der diese der Justizkommission zur Stellungnahme unterbreitet.
 
 <sup>2</sup> Die Justizkommission prüft die Akte, hört die betroffene Person an und macht dem Plenum einen Vorschlag.
 

@@ -4,13 +4,13 @@ number: "173.7"
 title: Loi sur le Conseil de la magistrature
 short: LCDM
 language: fr
-version: 2023-01-01
-valid_until: 2023-12-31
-version_adopted: 2022-03-11
+version: 2024-01-01
+valid_until: 2026-02-28
+version_adopted: 2023-09-07
 adopted: 2019-09-13
 in_force: 2020-09-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/173.7"
-pdf: "https://lex.vs.ch/api/fr/versions/3123/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3262/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/3123/pdf_file"
 
 (LCDM)
 
-du 13.09.2019 (état 01.01.2023)
+du 13.09.2019 (état 01.01.2024)
 
 Le Grand Conseil du canton du Valais
 
@@ -71,7 +71,7 @@ ordonne:[^ingress-1]
 <sup>1</sup> Demeurent réservées les dispositions de la législation cantonale traitant:
 
 - a) de la direction administrative, de l'organisation interne et de la gestion des tribunaux et des offices du ministère public;
-- b) de la surveillance sur les greffiers et le personnel administratif des tribunaux, ainsi que de la surveillance du personnel administratif des offices du ministère public;
+- b) de la surveillance sur les greffiers et le personnel administratif des tribunaux et du ministère public;
 - c) du contrôle financier de la gestion administrative et financière des tribunaux et des offices du ministère public.
 
 ## 2 Composition du Conseil de la magistrature et mode de désignation de ses membres
@@ -88,7 +88,7 @@ ordonne:[^ingress-1]
 
 <sup>1</sup> Sont membres de droit:
 
-- a) le procureur général;
+- a) un membre du Bureau du ministère public désigné par celui-ci;
 - b) un membre du Conseil de l'Ordre des avocats valaisans désigné par celui-ci;
 - c) un membre de la commission administrative du Tribunal cantonal désigné par celle-ci.
 
@@ -264,7 +264,7 @@ ordonne:[^ingress-1]
 
 **Principe**
 
-<sup>1</sup> Le juge ou le procureur est passible de sanctions disciplinaires lorsqu'il enfreint, intentionnellement ou par négligence, ses devoirs de fonction.
+<sup>1</sup> Le juge, le juge assesseur ou le procureur est passible de sanctions disciplinaires lorsqu'il enfreint, intentionnellement ou par négligence, ses devoirs de fonction.
 
 #### Art. 24
 
@@ -272,7 +272,7 @@ ordonne:[^ingress-1]
 
 <sup>1</sup> Une sanction disciplinaire ne peut être prononcée qu'après enquête. La personne concernée est informée de l'ouverture de la procédure.
 
-<sup>2</sup> L'enquête est conduite par le président du Conseil de la magistrature ou par le membre désigné par le Conseil de la magistrature.
+<sup>2</sup> L'enquête est conduite par le président du Conseil de la magistrature ou par le membre désigné par le Conseil de la magistrature, le secret de fonction ne pouvant lui être opposé.
 
 <sup>3</sup> La personne concernée est entendue. Au terme de l'enquête, elle peut déposer un mémoire et demander un complément d'enquête.
 
@@ -299,17 +299,17 @@ ordonne:[^ingress-1]
 - c) le transfert dans une autre fonction ou à un poste, équivalent ou inférieur avec traitement correspondant à la nouvelle situation;
 - d) la révocation disciplinaire
 
-<sup>2</sup> La sanction disciplinaire est fixée selon la gravité des faits et la conduite antérieure du juge ou du procureur.
+<sup>2</sup> La sanction disciplinaire est fixée selon la gravité des faits et la conduite antérieure du juge, du juge assesseur ou du procureur.
 
 <sup>4</sup> Si la faute commise est légère, il peut être renoncé à toute sanction disciplinaire.
 
-<sup>5</sup> En cas de démission présentée par le juge ou procureur concerné, l'autorité compétente peut renoncer à une sanction disciplinaire et accepter la démission, si cette solution s'avère la plus adéquate au vu de l'ensemble des circonstances et des divers intérêts en présence.
+<sup>5</sup> En cas de démission présentée par le juge, le juge assesseur ou le procureur concerné, l'autorité compétente peut renoncer à une sanction disciplinaire et accepter la démission, si cette solution s'avère la plus adéquate au vu de l'ensemble des circonstances et des divers intérêts en présence.
 
 #### Art. 27
 
 **Compétences du Grand Conseil**
 
-<sup>1</sup> Lorsque le Conseil de la magistrature estime, au terme de son enquête, que les faits peuvent justifier la révocation disciplinaire d'un juge ou d'un procureur élu par le Grand Conseil, il transmet le dossier au Grand Conseil qui le remet à la commission de justice pour préavis.
+<sup>1</sup> Lorsque le Conseil de la magistrature estime, au terme de son enquête, que les faits peuvent justifier la révocation disciplinaire d'un juge, d'un juge assesseur ou d'un procureur élu par le Grand Conseil, il transmet le dossier au Grand Conseil qui le remet à la commission de justice pour préavis.
 
 <sup>2</sup> La commission de justice examine le dossier, entend la personne concernée et fait une proposition au plenum.
 
