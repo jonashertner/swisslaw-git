@@ -3,11 +3,11 @@ sr: "351.12"
 title: "Verordnung vom 23. September 2016 über das elektronische Personen-, Akten- und Geschäftsverwaltungssystem des Bundesamtes für Justiz (ELPAG-Verordnung)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/555"
 language: de
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2016-09-23
 in_force: 2016-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/555/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2016-555-20230901-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/555/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/555/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2016-555-20240101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/555/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/555/20230901/de"
 
 (ELPAG-Verordnung)
 
-vom 23. September 2016 (Stand am 1. September 2023)
+vom 23. September 2016 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -196,7 +196,11 @@ Die für den Vollzug des Bundesgesetzes vom 21. März 1997[^11-1] über Massnahm
 
 <sup>3</sup> Jede Form von Bekanntgabe ist im System festzuhalten.
 
-## 6. Abschnitt: Richtigkeit der Daten, Informatiksicherheit, Aufbewahrungsdauer, Archivierung und Statistik
+## 6. Abschnitt: Richtigkeit der Daten, Informationssicherheit, Aufbewahrungsdauer, Archivierung und Statistik
+
+[^sec6-1]
+
+[^sec6-1]: Fassung gemäss Anhang 2 Ziff. II 16 der Informationssicherheitsverordnung vom 8. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
 
 #### Art. 13
 
@@ -208,24 +212,26 @@ Die für den Vollzug des Bundesgesetzes vom 21. März 1997[^11-1] über Massnahm
 
 #### Art. 14
 
-**Informatiksicherheit**
+**Daten- und Informationssicherheit[^14-1]**
 
 <sup>1</sup>
 
-Die Datensicherheit richtet sich nach:
+Die Daten- und Informationssicherheit richten sich nach:[^14-2]
 
-- a.[^14-1] der Datenschutzverordnung vom 31. August 2022[^14-2];
-- b.[^14-3] der Cyberrisikenverordnung vom 27. Mai 2020[^14-4];
-- c.[^14-5] …
+- a.[^14-3] der Datenschutzverordnung vom 31. August 2022[^14-4];
+- b. [^14-5] der Informationssicherheitsverordnung vom 8. November 2023[^14-6];
+- c.[^14-7] …
 
-<sup>2</sup> Dokumente im System werden abweichend von Artikel 12 Absatz 2 der GEVER-Verordnung vom 30. November 2012[^14-6] nicht verschlüsselt; sie werden jedoch durch technische Vorkehrungen vor unbefugtem Zugriff geschützt.
+<sup>2</sup> Dokumente im System werden abweichend von Artikel 12 Absatz 2 der GEVER-Verordnung vom 30. November 2012[^14-8] nicht verschlüsselt; sie werden jedoch durch technische Vorkehrungen vor unbefugtem Zugriff geschützt.
 
-[^14-1]: Fassung gemäss Anhang 2 Ziff. II 39 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^14-2]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^14-3]: Fassung gemäss Anhang Ziff. 16 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
-[^14-4]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^14-5]: Aufgehoben durch Anhang Ziff. 16 der V vom 24. Febr. 2021, mit Wirkung seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
-[^14-6]: [[AS 2012 6669](https://fedlex.data.admin.ch/eli/oc/2012/808), [2014 723](https://fedlex.data.admin.ch/eli/oc/2014/155). [AS 2019 1311](https://fedlex.data.admin.ch/eli/oc/2019/253)Art. 19 Bst. a]. Siehe heute: die V vom 3. April 2019 ([SR 172.010.441](https://fedlex.data.admin.ch/eli/cc/2019/253)).
+[^14-1]: Fassung gemäss Anhang 2 Ziff. II 16 der Informationssicherheitsverordnung vom 8. Nov. 2023, in Kraft seit 1. Jan. 2024 (AS 2023 735).
+[^14-2]: Fassung gemäss Anhang 2 Ziff. II 16 der Informationssicherheitsverordnung vom 8. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^14-3]: Fassung gemäss Anhang 2 Ziff. II 39 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^14-4]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^14-5]: Fassung gemäss Anhang 2 Ziff. II 16 der Informationssicherheitsverordnung vom 8. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^14-6]: [SR 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^14-7]: Aufgehoben durch Anhang Ziff. 16 der V vom 24. Febr. 2021, mit Wirkung seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^14-8]: [[AS 2012 6669](https://fedlex.data.admin.ch/eli/oc/2012/808), [2014 723](https://fedlex.data.admin.ch/eli/oc/2014/155). [AS 2019 1311](https://fedlex.data.admin.ch/eli/oc/2019/253)Art. 19 Bst. a]. Siehe heute: die V vom 3. April 2019 ([SR 172.010.441](https://fedlex.data.admin.ch/eli/cc/2019/253)).
 
 #### Art. 15
 

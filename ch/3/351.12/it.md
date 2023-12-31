@@ -3,11 +3,11 @@ sr: "351.12"
 title: "Ordinanza del 23 settembre 2016 sul sistema elettronico di gestione delle persone, degli atti e delle pratiche dell'Ufficio federale di giustizia (Ordinanza EGPAP)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/555"
 language: it
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2016-09-23
 in_force: 2016-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/555/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2016-555-20230901-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/555/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/555/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2016-555-20240101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/555/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/555/20230901/it"
 
 (Ordinanza EGPAP)
 
-del 23 settembre 2016 (Stato 1° settembre 2023)
+del 23 settembre 2016 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -196,7 +196,11 @@ Le unità organizzative del Servizio delle attività informative della Confedera
 
 <sup>3</sup> Ogni forma di comunicazione va indicata nel sistema.
 
-## Sezione 6: Correttezza dei dati, sicurezza informatica, durata di conservazione, archiviazione e statistica
+## Sezione 6: Correttezza dei dati, sicurezza delle informazioni, durata di conservazione, archiviazione e statistica
+
+[^sec6-1]
+
+[^sec6-1]: Nuovo testo giusta l’all. 2 n. II 16 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
 
 #### Art. 13
 
@@ -208,24 +212,26 @@ Le unità organizzative del Servizio delle attività informative della Confedera
 
 #### Art. 14
 
-**Sicurezza informatica**
+**Sicurezza dei dati e delle informazioni[^14-1]**
 
 <sup>1</sup>
 
-La sicurezza dei dati è retta:
+La sicurezza dei dati e delle informazioni è retta:[^14-2]
 
-- a.[^14-1] dall’ordinanza del 31 agosto 2022[^14-2] sulla protezione dei dati;
-- b.[^14-3] dall’ordinanza del 27 maggio 2020[^14-4] sui ciber-rischi;
-- c.[^14-5] ...
+- a.[^14-3] dall’ordinanza del 31 agosto 2022[^14-4] sulla protezione dei dati;
+- b.[^14-5] dall’ordinanza dell’8 novembre 2023[^14-6] sulla sicurezza delle informazioni;
+- c.[^14-7] ...
 
-<sup>2</sup> In deroga all’articolo 12 capoverso 2 dell’ordinanza GEVER del 30 novembre 2012[^14-6] i documenti nel sistema non sono criptati; sono tuttavia protetti da accessi non autorizzati mediante misure tecniche.
+<sup>2</sup> In deroga all’articolo 12 capoverso 2 dell’ordinanza GEVER del 30 novembre 2012[^14-8] i documenti nel sistema non sono criptati; sono tuttavia protetti da accessi non autorizzati mediante misure tecniche.
 
-[^14-1]: Nuovo testo giusta l’all. 2 n. II 39 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^14-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^14-3]: Nuovo testo giusta l’all. n. 16 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
-[^14-4]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^14-5]: Abrogata dall’all. n. 16 dell’O del 24 feb. 2021, con effetto dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
-[^14-6]: [RU **2010** 6669; [2014 723](https://fedlex.data.admin.ch/eli/oc/2014/155). [RU 2019 1311](https://fedlex.data.admin.ch/eli/oc/2019/253)art. 19]. Vedi ora l’O del 3 apr. 2019 ([RS 172.010.441](https://fedlex.data.admin.ch/eli/cc/2019/253)).
+[^14-1]: Nuovo testo giusta l’all. 2 n. II 16 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^14-2]: Nuovo testo giusta l’all. 2 n. II 16 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^14-3]: Nuovo testo giusta l’all. 2 n. II 39 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^14-4]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^14-5]: Nuovo testo giusta l’all. 2 n. II 16 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^14-6]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^14-7]: Abrogata dall’all. n. 16 dell’O del 24 feb. 2021, con effetto dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^14-8]: [RU **2010** 6669; [2014 723](https://fedlex.data.admin.ch/eli/oc/2014/155). [RU 2019 1311](https://fedlex.data.admin.ch/eli/oc/2019/253)art. 19]. Vedi ora l’O del 3 apr. 2019 ([RS 172.010.441](https://fedlex.data.admin.ch/eli/cc/2019/253)).
 
 #### Art. 15
 
