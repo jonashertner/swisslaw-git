@@ -4,11 +4,11 @@ title: "Schweizerische Strafprozessordnung vom 5. Oktober 2007 (Strafprozessordn
 short: StPO
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/267"
 language: de
-version: 2023-08-01
+version: 2024-01-01
 adopted: 2007-10-05
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/267/20230801/de/xml/fedlex-data-admin-ch-eli-cc-2010-267-20230801-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20230801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/267/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2010-267-20240101-de-xml-12.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20230801/de"
 
 (Strafprozessordnung, StPO)
 
-vom 5. Oktober 2007 (Stand am 1. August 2023)
+vom 5. Oktober 2007 (Stand am 1. Januar 2024)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -238,9 +238,10 @@ Gerichtliche Befugnisse im Strafverfahren haben:
 Bund und Kantone können als erstinstanzliches Gericht ein Einzelgericht vorsehen für die Beurteilung von:
 
 - a. Übertretungen;
-- b. Verbrechen und Vergehen, mit Ausnahme derer, für welche die Staatsanwaltschaft eine Freiheitsstrafe von mehr als zwei Jahren, eine Verwahrung nach Artikel 64 StGB[^19-1], eine Behandlung nach Artikel 59 Absatz 3 StGB oder, bei gleichzeitig zu widerrufenden bedingten Sanktionen, einen Freiheitsentzug von mehr als zwei Jahren beantragt.
+- b.[^19-1] Verbrechen und Vergehen, mit Ausnahme derer, für welche die Staatsanwaltschaft eine Freiheitsstrafe von mehr als zwei Jahren, eine Verwahrung nach Artikel 64 StGB[^19-2], eine Behandlung nach Artikel 59 StGB oder, bei gleichzeitig zu widerrufenden bedingten Sanktionen, einen Freiheitsentzug von mehr als zwei Jahren beantragt.
 
-[^19-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^19-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^19-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
 #### Art. 20
 
@@ -488,11 +489,13 @@ Die Staatsanwaltschaft und die Gerichte können aus sachlichen Gründen Strafver
 
 **Gerichtsstandskonflikte**
 
-<sup>1</sup> Ist der Gerichtsstand unter Strafbehörden des gleichen Kantons streitig, so entscheidet die Ober- oder Generalstaatsanwaltschaft oder, wenn keine solche vorgesehen ist, die Beschwerdeinstanz dieses Kantons endgültig.
+<sup>1</sup> Ist der Gerichtsstand unter Strafbehörden des gleichen Kantons streitig, so entscheidet die Ober- oder Generalstaatsanwaltschaft oder, wenn keine solche vorgesehen ist, die Beschwerdeinstanz dieses Kantons.[^40-1]
 
 <sup>2</sup> Können sich die Strafverfolgungsbehörden verschiedener Kantone über den Gerichtsstand nicht einigen, so unterbreitet die Staatsanwaltschaft des Kantons, der zuerst mit der Sache befasst war, die Frage unverzüglich, in jedem Fall vor der Anklageerhebung, dem Bundesstrafgericht zum Entscheid.
 
 <sup>3</sup> Die zum Entscheid über den Gerichtsstand zuständige Behörde kann einen andern als den in den Artikeln 31–37 vorgesehenen Gerichtsstand festlegen, wenn der Schwerpunkt der deliktischen Tätigkeit oder die persönlichen Verhältnisse der beschuldigten Person es erfordern oder andere triftige Gründe vorliegen.
+
+[^40-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 41
 
@@ -554,7 +557,7 @@ Die Behörden des Bundes und der Kantone sind zur Rechtshilfe verpflichtet, wenn
 
 <sup>3</sup> Besteht Unklarheit darüber, welche Behörde zuständig ist, so richtet die ersuchende Behörde das Rechtshilfegesuch an die oberste Staatsanwaltschaft des ersuchten Kantons oder des Bundes. Diese leitet es an die zuständige Stelle weiter.
 
-[^46-1]: Die örtlich zuständige schweizerische Justizbehörde für Rechtshilfeersuchen kann über folgende Internetseite ermittelt werden: www.elorge.admin.ch
+[^46-1]: Die örtlich zuständige schweizerische Justizbehörde für Rechtshilfeersuchen kann über folgende Internetseite ermittelt werden: www.elorge.admin.ch.
 
 #### Art. 47
 
@@ -632,7 +635,7 @@ Die Gewährung der internationalen Rechtshilfe und das Rechtshilfeverfahren rich
 
 #### Art. 55
 
-**Zuständigkeit**
+**Zuständigkeit im Allgemeinen[^55-1]**
 
 <sup>1</sup> Ist ein Kanton mit einem Fall von internationaler Rechtshilfe befasst, so ist die Staatsanwaltschaft zuständig.
 
@@ -645,6 +648,16 @@ Die Gewährung der internationalen Rechtshilfe und das Rechtshilfeverfahren rich
 <sup>5</sup> Führt der Kanton, der mit einem ausländischen Rechtshilfeersuchen befasst ist, Verfahrenshandlungen in anderen Kantonen durch, so sind dafür die Bestimmungen über die nationale Rechtshilfe anwendbar.
 
 <sup>6</sup> Die Kantone regeln das weitere Verfahren.
+
+[^55-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+
+#### Art. 55a
+
+**Zuständigkeit des Zwangsmassnahmengerichts**[^55a-1]
+
+Stellt eine schweizerische Strafverfolgungsbehörde ein Rechtshilfeersuchen für eine Zwangsmassnahme im Ausland und verlangt der um Rechtshilfe ersuchte Staat den Entscheid eines Gerichts, so ist zur Genehmigung der Massnahme das Zwangsmassnahmengericht zuständig.
+
+[^55a-1]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 ### 6. Kapitel: Ausstand
 
@@ -681,12 +694,12 @@ Liegt bei einer in einer Strafbehörde tätigen Person ein Ausstandsgrund vor, s
 
 <sup>1</sup>
 
-Wird ein Ausstandsgrund nach Artikel 56 Buchstabe a oder f geltend gemacht oder widersetzt sich eine in einer Strafbehörde tätige Person einem Ausstandsgesuch einer Partei, das sich auf Artikel 56 Buchstaben b–e abstützt, so entscheidet ohne weiteres Beweisverfahren und endgültig:
+Wird ein Ausstandsgrund nach Artikel 56 Buchstabe a oder f geltend gemacht oder widersetzt sich eine in einer Strafbehörde tätige Person einem Ausstandsgesuch einer Partei, das sich auf Artikel 56 Buchstaben b–e abstützt, so entscheidet ohne weiteres Beweisverfahren:[^59-1]
 
 - a. die Staatsanwaltschaft, wenn die Polizei betroffen ist;
 - b. die Beschwerdeinstanz, wenn die Staatsanwaltschaft, die Übertretungsstrafbehörden oder die erstinstanzlichen Gerichte betroffen sind;
 - c. das Berufungsgericht, wenn die Beschwerdeinstanz oder einzelne Mitglieder des Berufungsgerichts betroffen sind;
-- d.[^59-1] das Bundesstrafgericht, wenn das gesamte Berufungsgericht eines Kantons betroffen ist.
+- d.[^59-2] das Bundesstrafgericht, wenn das gesamte Berufungsgericht eines Kantons betroffen ist.
 
 <sup>2</sup> Der Entscheid ergeht schriftlich und ist zu begründen.
 
@@ -694,7 +707,8 @@ Wird ein Ausstandsgrund nach Artikel 56 Buchstabe a oder f geltend gemacht oder 
 
 <sup>4</sup> Wird das Gesuch gutgeheissen, so gehen die Verfahrenskosten zu Lasten des Bundes beziehungsweise des Kantons. Wird es abgewiesen oder war es offensichtlich verspätet oder mutwillig, so gehen die Kosten zu Lasten der gesuchstellenden Person.
 
-[^59-1]: Fassung gemäss Ziff. II 3 des BG vom 17. März 2017 (Schaffung einer Berufungskammer am Bundesstrafgericht), in Kraft seit 1. Jan. 2019 ([AS 2017 5769](https://fedlex.data.admin.ch/eli/oc/2017/624); [BBl 2013 7109](https://fedlex.data.admin.ch/eli/fga/2013/1333), [2016 6199](https://fedlex.data.admin.ch/eli/fga/2016/1190)).
+[^59-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^59-2]: Fassung gemäss Ziff. II 3 des BG vom 17. März 2017 (Schaffung einer Berufungskammer am Bundesstrafgericht), in Kraft seit 1. Jan. 2019 ([AS 2017 5769](https://fedlex.data.admin.ch/eli/oc/2017/624); [BBl 2013 7109](https://fedlex.data.admin.ch/eli/fga/2013/1333), [2016 6199](https://fedlex.data.admin.ch/eli/fga/2016/1190)).
 
 #### Art. 60
 
@@ -928,7 +942,7 @@ Die Verfahrensprotokolle halten alle wesentlichen Verfahrenshandlungen fest und 
 
 #### Art. 78
 
-**Einvernahmeprotokolle**
+**Einvernahmeprotokolle im Allgemeinen[^78-1]**
 
 <sup>1</sup> Die Aussagen der Parteien, Zeuginnen, Zeugen, Auskunftspersonen und Sachverständigen werden laufend protokolliert.
 
@@ -940,14 +954,27 @@ Die Verfahrensprotokolle halten alle wesentlichen Verfahrenshandlungen fest und 
 
 <sup>5</sup> Nach Abschluss der Einvernahme wird der einvernommenen Person das Protokoll vorgelesen oder ihr zum Lesen vorgelegt. Sie hat das Protokoll nach Kenntnisnahme zu unterzeichnen und jede Seite zu visieren. Lehnt sie es ab, das Protokoll durchzulesen oder zu unterzeichnen, so werden die Weigerung und die dafür angegebenen Gründe im Protokoll vermerkt.
 
-<sup>5bis</sup> Wird die Einvernahme im Hauptverfahren mit technischen Hilfsmitteln aufgezeichnet, so kann das Gericht darauf verzichten, der einvernommenen Person das Protokoll vorzulesen oder zum Lesen vorzulegen und von dieser unterzeichnen zu lassen. Die Aufzeichnungen werden zu den Akten genommen.[^78-1]
+<sup>5bis</sup> …[^78-2]
 
 <sup>6</sup> Bei Einvernahmen mittels Videokonferenz ersetzt die mündliche Erklärung der einvernommenen Person, sie habe das Protokoll zur Kenntnis genommen, die Unterzeichnung und Visierung. Die Erklärung wird im Protokoll vermerkt.
 
-<sup>7</sup> Sind handschriftlich erstellte Protokolle nicht gut lesbar oder wurden die Aussagen stenografisch aufgezeichnet, so werden sie unverzüglich in Reinschrift übertragen. Die Notizen werden bis zum Abschluss des Verfahrens aufbewahrt.[^78-2]
+<sup>7</sup> Sind handschriftlich erstellte Protokolle nicht gut lesbar oder wurden die Aussagen stenografisch aufgezeichnet, so werden sie unverzüglich in Reinschrift übertragen. Die Notizen werden bis zum Abschluss des Verfahrens aufbewahrt.[^78-3]
 
-[^78-1]: Eingefügt durch Ziff. I 2 des BG vom 28. Sept. 2012 (Protokollierungsvorschriften), in Kraft seit 1. Mai 2013 ([AS 2013 851](https://fedlex.data.admin.ch/eli/oc/2013/178); [BBl 2012 5707](https://fedlex.data.admin.ch/eli/fga/2012/860)[5719](https://fedlex.data.admin.ch/eli/fga/2012/862)).
-[^78-2]: Fassung gemäss Ziff. I 2 des BG vom 28. Sept. 2012 (Protokollierungsvorschriften), in Kraft seit 1. Mai 2013 ([AS 2013 851](https://fedlex.data.admin.ch/eli/oc/2013/178); [BBl 2012 5707](https://fedlex.data.admin.ch/eli/fga/2012/860)[5719](https://fedlex.data.admin.ch/eli/fga/2012/862)).
+[^78-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^78-2]: Eingefügt durch Ziff. I 2 des BG vom 28. Sept. 2012 (Protokollierungsvorschriften), in Kraft seit 1. Mai 2013 ([AS 2013 851](https://fedlex.data.admin.ch/eli/oc/2013/178); [BBl 2012 5707](https://fedlex.data.admin.ch/eli/fga/2012/860)[5719](https://fedlex.data.admin.ch/eli/fga/2012/862)). Aufgehoben durch Ziff. I des BG vom 17. Juni 2022, mit Wirkung seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^78-3]: Fassung gemäss Ziff. I 2 des BG vom 28. Sept. 2012 (Protokollierungsvorschriften), in Kraft seit 1. Mai 2013 ([AS 2013 851](https://fedlex.data.admin.ch/eli/oc/2013/178); [BBl 2012 5707](https://fedlex.data.admin.ch/eli/fga/2012/860)[5719](https://fedlex.data.admin.ch/eli/fga/2012/862)).
+
+#### Art. 78a
+
+**Einvernahmeprotokolle bei Aufzeichnung der Einvernahme**[^78a-1]
+
+Wird die Einvernahme mit technischen Hilfsmitteln aufgezeichnet, so gelten gegenüber den allgemeinen Regeln (Art. 78) folgende Abweichungen:
+
+- a. Anstelle einer laufenden Protokollierung während der Einvernahme kann das Protokoll auch erst danach gestützt auf die Aufzeichnung erstellt werden, grundsätzlich jedoch innerhalb von sieben Tagen nach der Einvernahme.
+- b. Die einvernehmende Behörde kann darauf verzichten, der einvernommenen Person das Protokoll vorzulesen oder zum Lesen vorzulegen und von dieser unterzeichnen und visieren zu lassen.
+- c. Die Aufzeichnung der Einvernahme wird sofort zu den Akten genommen.
+
+[^78a-1]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 79
 
@@ -965,11 +992,13 @@ Die Verfahrensprotokolle halten alle wesentlichen Verfahrenshandlungen fest und 
 
 **Form**
 
-<sup>1</sup> Entscheide, in denen über Straf- und Zivilfragen materiell befunden wird, ergehen in Form eines Urteils. Die anderen Entscheide ergehen, wenn sie von einer Kollektivbehörde gefällt werden, in Form eines Beschlusses, wenn sie von einer Einzelperson gefällt werden, in Form einer Verfügung. Die Bestimmungen des Strafbefehlsverfahrens bleiben vorbehalten.
+<sup>1</sup> Entscheide, in denen über Straf- und Zivilfragen materiell befunden wird, sowie selbstständige nachträgliche Entscheide und selbstständige Einziehungsentscheide ergehen in Form eines Urteils. Die anderen Entscheide ergehen, wenn sie von einer Kollegialbehörde gefällt werden, in Form eines Beschlusses, wenn sie von einer Einzelperson gefällt werden, in Form einer Verfügung.[^80-1] Die Bestimmungen des Strafbefehlsverfahrens bleiben vorbehalten.
 
 <sup>2</sup> Entscheide ergehen schriftlich und werden begründet. Sie werden von der Verfahrensleitung sowie der protokollführenden Person unterzeichnet und den Parteien zugestellt.
 
 <sup>3</sup> Einfache verfahrensleitende Beschlüsse und Verfügungen brauchen weder besonders ausgefertigt noch begründet zu werden; sie werden im Protokoll vermerkt und den Parteien in geeigneter Weise eröffnet.
+
+[^80-1]: Fassung des ersten und zweiten Satzes gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 81
 
@@ -1020,7 +1049,7 @@ Das Dispositiv enthält:
 Das erstinstanzliche Gericht verzichtet auf eine schriftliche Begründung, wenn es:
 
 - a. das Urteil mündlich begründet; und
-- b. nicht eine Freiheitsstrafe von mehr als zwei Jahren, eine Verwahrung nach Artikel 64 StGB[^82-1], eine Behandlung nach Artikel 59 Absatz 3 StGB oder, bei gleichzeitig zu widerrufenden bedingten Sanktionen, einen Freiheitsentzug von mehr als zwei Jahren ausspricht.
+- b.[^82-1] nicht eine Freiheitsstrafe von mehr als zwei Jahren, eine Verwahrung nach Artikel 64 StGB[^82-2], eine Behandlung nach Artikel 59 StGB oder, bei gleichzeitig zu widerrufenden bedingten Sanktionen, einen Freiheitsentzug von mehr als zwei Jahren ausspricht.
 
 <sup>2</sup>
 
@@ -1033,7 +1062,8 @@ Das Gericht stellt den Parteien nachträglich ein begründetes Urteil zu, wenn:
 
 <sup>4</sup> Im Rechtsmittelverfahren kann das Gericht für die tatsächliche und die rechtliche Würdigung des angeklagten Sachverhalts auf die Begründung der Vorinstanz verweisen.
 
-[^82-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^82-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^82-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
 #### Art. 83
 
@@ -1223,14 +1253,18 @@ Bei der Bearbeitung von Personendaten sorgen die zuständigen Strafbehörden daf
 
 Vorbehalten bleiben:
 
-- a. die Artikel 11, 13, 14 und 20 des Bundesgesetzes vom 21. März 1997[^96-1] über Massnahmen zur Wahrung der inneren Sicherheit;
-- b. die Vorschriften des Bundesgesetzes vom 13. Juni 2008[^96-2] über die polizeilichen Informationssysteme des Bundes;
-- c. die Vorschriften des Bundesgesetzes vom 7. Oktober 1994[^96-3] über kriminalpolizeiliche Zentralstellen des Bundes.[^96-4]
+- a.[^96-1] die Artikel 14 und 20 des Bundesgesetzes vom 21. März 1997[^96-2] über Massnahmen zur Wahrung der inneren Sicherheit;
+- a<sup>bis</sup>.[^96-3] die Artikel 19 und 20 des Nachrichtendienstgesetzes vom 25. September 2015[^96-4];
+- b. die Vorschriften des Bundesgesetzes vom 13. Juni 2008[^96-5] über die polizeilichen Informationssysteme des Bundes;
+- c. die Vorschriften des Bundesgesetzes vom 7. Oktober 1994[^96-6] über kriminalpolizeiliche Zentralstellen des Bundes.[^96-7]
 
-[^96-1]: [SR 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
-[^96-2]: [SR 361](https://fedlex.data.admin.ch/eli/cc/2008/698)
-[^96-3]: [SR 360](https://fedlex.data.admin.ch/eli/cc/1995/875_875_875)
-[^96-4]: Fassung gemäss Anhang 2 Ziff. I 1 Bst. a des BG vom 13. Juni 2008 über die polizeilichen Informationssysteme, in Kraft seit 1. Jan. 2011 ([AS 2008 4989](https://fedlex.data.admin.ch/eli/oc/2008/698); [BBl 2006 5061](https://fedlex.data.admin.ch/eli/fga/2006/611)).
+[^96-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^96-2]: [SR 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
+[^96-3]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^96-4]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^96-5]: [SR 361](https://fedlex.data.admin.ch/eli/cc/2008/698)
+[^96-6]: [SR 360](https://fedlex.data.admin.ch/eli/cc/1995/875_875_875)
+[^96-7]: Fassung gemäss Anhang 2 Ziff. I 1 Bst. a des BG vom 13. Juni 2008 über die polizeilichen Informationssysteme, in Kraft seit 1. Jan. 2011 ([AS 2008 4989](https://fedlex.data.admin.ch/eli/oc/2008/698); [BBl 2006 5061](https://fedlex.data.admin.ch/eli/fga/2006/611)).
 
 #### Art. 97
 
@@ -1492,7 +1526,8 @@ Dem Opfer stehen besondere Rechte zu, namentlich:
 - c. das Recht auf Schutzmassnahmen (Art. 152–154);
 - d. das Recht auf Aussageverweigerung (Art. 169 Abs. 4);
 - e. das Recht auf Information (Art. 305 und 330 Abs. 3);
-- f. das Recht auf eine besondere Zusammensetzung des Gerichts (Art. 335 Abs. 4).
+- f. das Recht auf eine besondere Zusammensetzung des Gerichts (Art. 335 Abs. 4);
+- g.[^117-1] das Recht den Entscheid oder den Strafbefehl in der Rechtssache, in der es Opfer ist, vom Gericht oder von der Staatsanwaltschaft unentgeltlich zu erhalten, es sei denn, es verzichtet ausdrücklich darauf.
 
 <sup>2</sup>
 
@@ -1503,6 +1538,8 @@ Bei Opfern unter 18 Jahren kommen darüber hinaus die besonderen Bestimmungen zu
 - c. Einstellung des Verfahrens (Art. 319 Abs. 2).
 
 <sup>3</sup> Machen die Angehörigen des Opfers Zivilansprüche geltend, so stehen ihnen die gleichen Rechte zu wie dem Opfer.
+
+[^117-1]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 ### 3. Abschnitt: Privatklägerschaft
 
@@ -1569,7 +1606,9 @@ In der Erklärung kann die geschädigte Person kumulativ oder alternativ:
 
 <sup>1</sup> Die in der Zivilklage geltend gemachte Forderung ist nach Möglichkeit in der Erklärung nach Artikel 119 zu beziffern und, unter Angabe der angerufenen Beweismittel, kurz schriftlich zu begründen.
 
-<sup>2</sup> Bezifferung und Begründung haben spätestens im Parteivortrag zu erfolgen.
+<sup>2</sup> Bezifferung und Begründung haben innert der von der Verfahrensleitung gemäss Artikel 331 Absatz 2 angesetzten Frist zu erfolgen.[^123-1]
+
+[^123-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 124
 
@@ -1593,11 +1632,13 @@ Die Privatklägerschaft, mit Ausnahme des Opfers, hat auf Antrag der beschuldigt
 - b. sie zahlungsunfähig erscheint, namentlich wenn gegen sie der Konkurs eröffnet oder ein Nachlassverfahren im Gang ist oder Verlustscheine bestehen;
 - c. aus anderen Gründen eine erhebliche Gefährdung oder Vereitelung des Anspruchs der beschuldigten Person zu befürchten ist.
 
-<sup>2</sup> Die Verfahrensleitung des Gerichts entscheidet über den Antrag endgültig. Sie bestimmt die Höhe der Sicherheit und setzt eine Frist zur Leistung.
+<sup>2</sup> Über den Antrag entscheidet die Verfahrensleitung des Gerichts.[^125-1] Sie bestimmt die Höhe der Sicherheit und setzt eine Frist zur Leistung.
 
 <sup>3</sup> Die Sicherheit kann in bar oder durch Garantie einer in der Schweiz niedergelassenen Bank oder Versicherung geleistet werden.
 
 <sup>4</sup> Sie kann nachträglich erhöht, herabgesetzt oder aufgehoben werden.
+
+[^125-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 126
 
@@ -1614,7 +1655,8 @@ Das Gericht entscheidet über die anhängig gemachte Zivilklage, wenn es die bes
 
 Die Zivilklage wird auf den Zivilweg verwiesen, wenn:
 
-- a. das Strafverfahren eingestellt oder im Strafbefehlsverfahren erledigt wird;
+- a.[^126-1] das Strafverfahren eingestellt wird;
+- a<sup>bis</sup>.[^126-2] darüber nicht im Strafbefehlsverfahren entschieden werden kann;
 - b. die Privatklägerschaft ihre Klage nicht hinreichend begründet oder beziffert hat;
 - c. die Privatklägerschaft die Sicherheit für die Ansprüche der beschuldigten Person nicht leistet;
 - d. die beschuldigte Person freigesprochen wird, der Sachverhalt aber nicht spruchreif ist.
@@ -1622,6 +1664,9 @@ Die Zivilklage wird auf den Zivilweg verwiesen, wenn:
 <sup>3</sup> Wäre die vollständige Beurteilung des Zivilanspruchs unverhältnismässig aufwendig, so kann das Gericht die Zivilklage nur dem Grundsatz nach entscheiden und sie im Übrigen auf den Zivilweg verweisen. Ansprüche von geringer Höhe beurteilt das Gericht nach Möglichkeit selbst.
 
 <sup>4</sup> In Fällen, in denen Opfer beteiligt sind, kann das Gericht vorerst nur den Schuld- und Strafpunkt beurteilen; anschliessend beurteilt die Verfahrensleitung als Einzelgericht nach einer weiteren Parteiverhandlung die Zivilklage, ungeachtet des Streitwerts.
+
+[^126-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^126-2]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 ### 4. Kapitel: Rechtsbeistand
 
@@ -1677,9 +1722,12 @@ Die beschuldigte Person muss verteidigt werden, wenn:
 
 <sup>1</sup> Liegt ein Fall notwendiger Verteidigung vor, so achtet die Verfahrensleitung darauf, dass unverzüglich eine Verteidigung bestellt wird.
 
-<sup>2</sup> Sind die Voraussetzungen notwendiger Verteidigung bei Einleitung des Vorverfahrens erfüllt, so ist die Verteidigung nach der ersten Einvernahme durch die Staatsanwaltschaft, jedenfalls aber vor Eröffnung der Untersuchung, sicherzustellen.
+<sup>2</sup> Sind die Voraussetzungen notwendiger Verteidigung bei Einleitung des Vorverfahrens erfüllt, so ist die Verteidigung vor der ersten Einvernahme sicherzustellen, welche die Staatsanwaltschaft oder in deren Auftrag die Polizei durchführt.[^131-1]
 
-<sup>3</sup> Wurden in Fällen, in denen die Verteidigung erkennbar notwendig gewesen wäre, Beweise erhoben, bevor eine Verteidigerin oder ein Verteidiger bestellt worden ist, so ist die Beweiserhebung nur gültig, wenn die beschuldigte Person auf ihre Wiederholung verzichtet.
+<sup>3</sup> Wurden in Fällen, in denen die Verteidigung erkennbar notwendig gewesen wäre, Beweise erhoben, bevor eine Verteidigerin oder ein Verteidiger bestellt worden ist, so sind diese Beweise nur verwertbar, wenn die beschuldigte Person auf eine Wiederholung der Beweiserhebung verzichtet.[^131-2]
+
+[^131-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^131-2]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 132
 
@@ -1710,7 +1758,12 @@ Die Verfahrensleitung ordnet eine amtliche Verteidigung an, wenn:
 
 <sup>1</sup> Die amtliche Verteidigung wird von der im jeweiligen Verfahrensstadium zuständigen Verfahrensleitung bestellt.
 
-<sup>2</sup> Die Verfahrensleitung berücksichtigt bei der Bestellung der amtlichen Verteidigung nach Möglichkeit die Wünsche der beschuldigten Person.
+<sup>1bis</sup> Bund und Kantone können die Auswahl der amtlichen Verteidigung an eine andere Behörde oder an Dritte übertragen.[^133-1]
+
+<sup>2</sup> Bei der Auswahl der amtlichen Verteidigung sind deren Eignung sowie nach Möglichkeit die Wünsche der beschuldigten Person zu berücksichtigen.[^133-2]
+
+[^133-1]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^133-2]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 134
 
@@ -1726,25 +1779,23 @@ Die Verfahrensleitung ordnet eine amtliche Verteidigung an, wenn:
 
 <sup>1</sup> Die amtliche Verteidigung wird nach dem Anwaltstarif des Bundes oder desjenigen Kantons entschädigt, in dem das Strafverfahren geführt wurde.
 
-<sup>2</sup> Die Staatsanwaltschaft oder das urteilende Gericht legen die Entschädigung am Ende des Verfahrens fest.
+<sup>2</sup> Die Staatsanwaltschaft oder das urteilende Gericht legt die Entschädigung am Ende des Verfahrens fest. Erstreckt sich das Mandat über einen langen Zeitraum oder ist es aus einem anderen Grund nicht sinnvoll, das Ende des Verfahrens abzuwarten, so werden der amtlichen Verteidigung Vorschüsse gewährt, deren Höhe von der Verfahrensleitung festgelegt werden.[^135-1]
 
-<sup>3</sup>
+<sup>3</sup> Gegen den Entschädigungsentscheid kann die amtliche Verteidigung das Rechtsmittel ergreifen, das gegen den Endentscheid zulässig ist.[^135-2]
 
-Gegen den Entschädigungsentscheid kann die amtliche Verteidigung Beschwerde führen:
-
-- a. wenn der Entscheid von der Staatsanwaltschaft oder dem erstinstanzlichen Gericht gefällt wurde: bei der Beschwerdeinstanz;
-- b. wenn der Entscheid von der Beschwerdeinstanz oder dem Berufungsgericht des Kantons gefällt wurde: beim Bundesstrafgericht.
-
-<sup>4</sup>
-
-Wird die beschuldigte Person zu den Verfahrenskosten verurteilt, so ist sie, sobald es ihre wirtschaftlichen Verhältnisse erlauben, verpflichtet:
-
-- a. dem Bund oder dem Kanton die Entschädigung zurückzuzahlen;
-- b. der Verteidigung die Differenz zwischen der amtlichen Entschädigung und dem vollen Honorar zu erstatten.
+<sup>4</sup> Wird die beschuldigte Person zu den Verfahrenskosten verurteilt, so ist sie verpflichtet, dem Bund oder dem Kanton die Entschädigung zurückzuzahlen, sobald es ihre wirtschaftlichen Verhältnisse erlauben.[^135-3]
 
 <sup>5</sup> Der Anspruch des Bundes oder des Kantons verjährt in 10 Jahren nach Rechtskraft des Entscheides.
 
-### 3. Abschnitt: Unentgeltliche Rechtspflege für die Privatklägerschaft
+[^135-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^135-2]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^135-3]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+
+### 3. Abschnitt: Unentgeltliche Rechtspflege für die Privatklägerschaft und das Opfer
+
+[^tit3-chap4-sec3-1]
+
+[^tit3-chap4-sec3-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 136
 
@@ -1752,10 +1803,10 @@ Wird die beschuldigte Person zu den Verfahrenskosten verurteilt, so ist sie, sob
 
 <sup>1</sup>
 
-Die Verfahrensleitung gewährt der Privatklägerschaft für die Durchsetzung ihrer Zivilansprüche ganz oder teilweise die unentgeltliche Rechtspflege, wenn:
+Die Verfahrensleitung gewährt auf Gesuch ganz oder teilweise die unentgeltliche Rechtspflege:
 
-- a. die Privatklägerschaft nicht über die erforderlichen Mittel verfügt; und
-- b. die Zivilklage nicht aussichtslos erscheint.
+- a. der Privatklägerschaft für die Durchsetzung ihrer Zivilansprüche, wenn sie nicht über die erforderlichen Mittel verfügt und die Zivilklage nicht aussichtslos erscheint;
+- b. dem Opfer für die Durchsetzung seiner Strafklage, wenn es nicht über die erforderlichen Mittel verfügt und die Strafklage nicht aussichtslos erscheint.[^136-1]
 
 <sup>2</sup>
 
@@ -1763,7 +1814,13 @@ Die unentgeltliche Rechtspflege umfasst:
 
 - a. die Befreiung von Vorschuss- und Sicherheitsleistungen;
 - b. die Befreiung von den Verfahrenskosten;
-- c. die Bestellung eines Rechtsbeistands, wenn dies zur Wahrung der Rechte der Privatklägerschaft notwendig ist.
+- c.[^136-2] die Bestellung eines Rechtsbeistands, wenn dies zur Wahrung der Rechte der Privatklägerschaft oder des Opfers notwendig ist.
+
+<sup>3</sup> Im Rechtsmittelverfahren ist die unentgeltliche Rechtspflege neu zu beantragen.[^136-3]
+
+[^136-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^136-2]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^136-3]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 137
 
@@ -1777,7 +1834,11 @@ Bestellung, Widerruf und Wechsel der Verbeiständung richten sich sinngemäss na
 
 <sup>1</sup> Die Entschädigung des Rechtsbeistands richtet sich sinngemäss nach Artikel 135; der definitive Entscheid über die Tragung der Kosten des Rechtsbeistands und jener Verfahrenshandlungen, für die der Kostenvorschuss erlassen wurde, bleibt vorbehalten.
 
+<sup>1bis</sup> Das Opfer und seine Angehörigen sind nicht zur Rückerstattung der Kosten für die unentgeltliche Rechtspflege verpflichtet.[^138-1]
+
 <sup>2</sup> Wird der Privatklägerschaft eine Prozessentschädigung zulasten der beschuldigten Person zugesprochen, so fällt diese Entschädigung im Umfang der Aufwendungen für die unentgeltliche Rechtspflege an den Bund beziehungsweise an den Kanton.
+
+[^138-1]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 ## 4. Titel: Beweismittel
 
@@ -1811,9 +1872,11 @@ Bestellung, Widerruf und Wechsel der Verbeiständung richten sich sinngemäss na
 
 <sup>3</sup> Beweise, bei deren Erhebung Ordnungsvorschriften verletzt worden sind, sind verwertbar.
 
-<sup>4</sup> Ermöglichte ein Beweis, der nach Absatz 2 nicht verwertet werden darf, die Erhebung eines weiteren Beweises, so ist dieser nicht verwertbar, wenn er ohne die vorhergehende Beweiserhebung nicht möglich gewesen wäre.
+<sup>4</sup> Ermöglichte ein Beweis, der nach Absatz 1 oder 2 nicht verwertet werden darf, die Erhebung eines weiteren Beweises, so ist dieser nur dann verwertbar, wenn er auch ohne die vorhergehende Beweiserhebung möglich gewesen wäre.[^141-1]
 
 <sup>5</sup> Die Aufzeichnungen über unverwertbare Beweise werden aus den Strafakten entfernt, bis zum rechtskräftigen Abschluss des Verfahrens unter separatem Verschluss gehalten und danach vernichtet.
+
+[^141-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 ### 2. Abschnitt: Einvernahmen
 
@@ -1940,7 +2003,7 @@ Die Verfahrensleitung kann dazu die Verfahrensrechte der Parteien angemessen bes
 
 <sup>1</sup> Die Verfahrensleitung kann der zu schützenden Person die Wahrung ihrer Anonymität zusichern.
 
-<sup>2</sup> Die Staatsanwaltschaft unterbreitet die von ihr gemachte Zusicherung innert 30 Tagen dem Zwangsmassnahmengericht zur Genehmigung; dabei hat sie sämtliche zur Beurteilung der Rechtmässigkeit erforderlichen Einzelheiten genau anzugeben. Das Zwangsmassnahmengericht entscheidet endgültig.
+<sup>2</sup> Die Staatsanwaltschaft unterbreitet die von ihr gemachte Zusicherung innert 30 Tagen dem Zwangsmassnahmengericht zur Genehmigung; dabei hat sie sämtliche zur Beurteilung der Rechtmässigkeit erforderlichen Einzelheiten genau anzugeben. …[^150-1]
 
 <sup>3</sup> Verweigert das Zwangsmassnahmengericht die Genehmigung, so dürfen die unter Zusicherung der Anonymität bereits erhobenen Beweise nicht verwertet werden.
 
@@ -1949,6 +2012,8 @@ Die Verfahrensleitung kann dazu die Verfahrensrechte der Parteien angemessen bes
 <sup>5</sup> Die zu schützende Person kann jederzeit auf die Wahrung der Anonymität verzichten.
 
 <sup>6</sup> Die Staatsanwaltschaft und die Verfahrensleitung des Gerichts widerrufen die Zusicherung, wenn das Schutzbedürfnis offensichtlich dahingefallen ist.
+
+[^150-1]: Zweiter Satz aufgehoben durch Ziff. I des BG vom 17. Juni 2022, mit Wirkung seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 151
 
@@ -2008,6 +2073,13 @@ Ist erkennbar, dass die Einvernahme oder die Gegenüberstellung für das Kind zu
 - d. Einvernahmen werden im Beisein einer Spezialistin oder eines Spezialisten von einer zu diesem Zweck ausgebildeten Ermittlungsbeamtin oder einem entsprechenden Ermittlungsbeamten durchgeführt. Findet keine Gegenüberstellung statt, so werden die Einvernahmen mit Bild und Ton aufgezeichnet.
 - e. Die Parteien üben ihre Rechte durch die befragende Person aus.
 - f. Die befragende Person und die Spezialistin oder der Spezialist halten ihre besonderen Beobachtungen in einem Bericht fest.
+
+<sup>5</sup> Ist erkennbar, dass die Anwesenheit der beschuldigten Person bei der Einvernahme für das Kind trotz Schutzmassnahmen zu einer schweren psychischen Belastung führen könnte, so kann die beschuldigte Person von der Einvernahme ausgeschlossen werden, sofern ihr Anspruch auf rechtliches Gehör auf andere Weise gewährleistet werden kann.[^154-1]
+
+<sup>6</sup> Der Ausschluss gilt nicht für die Verteidigung; es sind jedoch geeignete Schutzmassnahmen zu treffen, um eine schwere psychische Belastung des Kindes zu vermeiden.[^154-2]
+
+[^154-1]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^154-2]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 155
 
@@ -2179,12 +2251,18 @@ Eine Person kann das Zeugnis verweigern, wenn sie sich mit ihrer Aussage selbst 
 
 <sup>1</sup> Beamtinnen und Beamte im Sinne von Artikel 110 Absatz 3 StGB[^170-1] und ihre Hilfspersonen sowie Mitglieder von Behörden und ihre Hilfspersonen können das Zeugnis über Geheimnisse verweigern, die ihnen in ihrer amtlichen Eigenschaft anvertraut worden sind oder die sie bei der Ausübung ihres Amtes oder ihrer Hilfstätigkeit wahrgenommen haben.[^170-2]
 
-<sup>2</sup> Sie haben auszusagen, wenn sie von ihrer vorgesetzten Behörde zur Aussage schriftlich ermächtigt worden sind.
+<sup>2</sup>
+
+Sie haben auszusagen, wenn sie:
+
+- a. einer Anzeigepflicht unterliegen; oder
+- b. von ihrer vorgesetzten Behörde zur Aussage schriftlich ermächtigt worden sind.[^170-3]
 
 <sup>3</sup> Die vorgesetzte Behörde erteilt die Ermächtigung zur Aussage, wenn das Interesse an der Wahrheitsfindung das Geheimhaltungsinteresse überwiegt.
 
 [^170-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^170-2]: Fassung gemäss Anhang 1 Ziff. 8 des Informationssicherheitsgesetzes vom 18. Dez. 2020, in Kraft seit 1. Jan. 2023 ([AS 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232), [750](https://fedlex.data.admin.ch/eli/oc/2022/750); [BBl 2017 2953](https://fedlex.data.admin.ch/eli/fga/2017/647)).
+[^170-3]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 171
 
@@ -2225,11 +2303,11 @@ Sie haben auszusagen, wenn:
   - 1\. Tötungsdelikte im Sinne der Artikel 111–113 StGB[^172-1],
   - 2\. Verbrechen, die mit einer Freiheitsstrafe von mindestens 3 Jahren bedroht sind,
   - 3\.[^172-2] Straftaten nach den Artikeln 187, 189, 190, 191, 197 Absatz 4, 260<sup>ter</sup>, 260<sup>quinquies</sup>, 260<sup>sexies</sup>, 305<sup>bis</sup>, 305<sup>ter</sup> und 322<sup>ter</sup>–322<sup>septies</sup> StGB,
-  - 4\.[^172-3] Straftaten nach Artikel 19 Absatz 2 des Betäubungsmittelgesetzes vom 3. Oktober 1951[^172-4].
+  - 4\.[^172-3] Straftaten nach Artikel 19 Absatz 2 des Betäubungsmittelgesetzes vom 3. Oktober 1951[^172-4] (BetmG).
 
 [^172-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^172-2]: Fassung gemäss Anhang Ziff. II 3 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Übereinkommens des Europarats zur Verhütung des Terrorismus mit dem dazugehörigen Zusatzprotokoll sowie über die Verstärkung des strafrechtlichen Instrumentariums gegen Terrorismus und organisierte Kriminalität, in Kraft seit 1. Juli 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
-[^172-3]: Berichtigung der RedK der BVers vom 19. Sept. 2011, veröffentlicht am 4. Okt. 2011 ([AS 2011 4487](https://fedlex.data.admin.ch/eli/oc/2011/619)).
+[^172-3]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 [^172-4]: [SR 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
 
 #### Art. 173
@@ -2244,7 +2322,7 @@ Wer nach einer der folgenden Bestimmungen Berufsgeheimnisse wahren muss, hat nur
 - b. Artikel 139 Absatz 3 des Zivilgesetzbuchs[^173-2];
 - c. Artikel 2 des Bundesgesetzes vom 9. Oktober 1981[^173-3] über die Schwangerschaftsberatungsstellen;
 - d.[^173-4] Artikel 11 des Opferhilfegesetzes vom 23. März 2007[^173-5];
-- e.[^173-6] Artikel 3*c* Absatz 4 des Betäubungsmittelgesetzes vom 3. Oktober 1951[^173-7];
+- e.[^173-6] Artikel 3*c* Absatz 4 BetmG[^173-7];
 - f.[^173-8] Artikel 16 Buchstabe f des Gesundheitsberufegesetzes vom 30. September 2016[^173-9].
 
 <sup>2</sup> Trägerinnen und Träger anderer gesetzlich geschützter Geheimnisse sind zur Aussage verpflichtet. Die Verfahrensleitung kann sie von der Zeugnispflicht befreien, wenn sie glaubhaft machen können, dass das Geheimhaltungsinteresse das Interesse an der Wahrheitsfindung überwiegt.
@@ -2254,7 +2332,7 @@ Wer nach einer der folgenden Bestimmungen Berufsgeheimnisse wahren muss, hat nur
 [^173-3]: [SR 857.5](https://fedlex.data.admin.ch/eli/cc/1983/2003_2003_2003)
 [^173-4]: Fassung gemäss Anhang Ziff. II 7 des Strafbehördenorganisationsgesetzes vom 19. März 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
 [^173-5]: [SR 312.5](https://fedlex.data.admin.ch/eli/cc/2008/232)
-[^173-6]: Berichtigung der RedK der BVers vom 19. Sept. 2011, veröffentlicht am 4. Okt. 2011 ([AS 2011 4487](https://fedlex.data.admin.ch/eli/oc/2011/619)).
+[^173-6]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 [^173-7]: [SR 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
 [^173-8]: Eingefügt durch Anhang Ziff. 2 des Gesundheitsberufegesetzes vom 30. Sept. 2016, in Kraft seit 1. Febr. 2020 ([AS 2020 57](https://fedlex.data.admin.ch/eli/oc/2020/16); [BBl 2015 8715](https://fedlex.data.admin.ch/eli/fga/2015/2104)).
 [^173-9]: [SR 811.21](https://fedlex.data.admin.ch/eli/cc/2020/16)
@@ -2411,13 +2489,16 @@ Sie erteilt ihr einen schriftlichen Auftrag; dieser enthält:
 
 <sup>1</sup> Staatsanwaltschaft und Gerichte können eine beschuldigte Person in ein Spital einweisen, wenn dies für die Ausarbeitung eines ärztlichen Gutachtens erforderlich ist.
 
-<sup>2</sup> Die Staatsanwaltschaft beantragt dem Zwangsmassnahmengericht die Spitaleinweisung, wenn sich die betreffende beschuldigte Person nicht bereits in Untersuchungshaft befindet. Das Zwangsmassnahmengericht entscheidet darüber in einem schriftlichen Verfahren endgültig.
+<sup>2</sup> Die Staatsanwaltschaft beantragt dem Zwangsmassnahmengericht die Spitaleinweisung, wenn sich die betreffende beschuldigte Person nicht bereits in Untersuchungshaft befindet. Das Zwangsmassnahmengericht entscheidet darüber in einem schriftlichen Verfahren.[^186-1]
 
-<sup>3</sup> Erweist sich eine stationäre Begutachtung während des gerichtlichen Verfahrens als notwendig, so entscheidet darüber das betreffende Gericht in einem schriftlichen Verfahren endgültig.
+<sup>3</sup> Erweist sich eine stationäre Begutachtung während des gerichtlichen Verfahrens als notwendig, so entscheidet darüber das betreffende Gericht in einem schriftlichen Verfahren.[^186-2]
 
 <sup>4</sup> Der Spitalaufenthalt ist auf die Strafe anzurechnen.
 
 <sup>5</sup> Im Übrigen richtet sich die stationäre Begutachtung sinngemäss nach den Vorschriften über die Untersuchungs- und die Sicherheitshaft.
+
+[^186-1]: Fassung des zweiten Satzes gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^186-2]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 187
 
@@ -2688,11 +2769,14 @@ Eine Person kann polizeilich vorgeführt werden, wenn:
 
 <sup>1</sup> Staatsanwaltschaft, Übertretungsstrafbehörden und Gerichte können Personen, deren Aufenthalt unbekannt und deren Anwesenheit im Verfahren erforderlich ist, zur Ermittlung des Aufenthaltsortes ausschreiben. In dringenden Fällen kann die Polizei eine Ausschreibung von sich aus veranlassen.
 
-<sup>2</sup> Eine beschuldigte Person kann zur Verhaftung und Zuführung ausgeschrieben werden, wenn sie eines Verbrechens oder Vergehens dringend verdächtigt wird und Haftgründe zu vermuten sind.
+<sup>2</sup> Eine beschuldigte Person kann zur Verhaftung und Zuführung ausgeschrieben werden (Haftbefehl), wenn sie eines Verbrechens oder Vergehens dringend verdächtigt wird und Haftgründe zu vermuten sind.[^210-1]
 
 <sup>3</sup> Ordnet die Staatsanwaltschaft, die Übertretungsstrafbehörde oder das Gericht nichts anderes an, so ist für die Durchführung der Ausschreibung die Polizei zuständig.
 
-<sup>4</sup> Die Absätze 1 und 3 gelten sinngemäss für die Fahndung nach Gegenständen und Vermögenswerten.
+<sup>4</sup> Für die Fahndung nach Gegenständen und Vermögenswerten gelten die Absätze 1–3 sinngemäss. Im Vorverfahren kann die Polizei die Fahndung nach Gegenständen und Vermögenswerten von sich aus veranlassen.[^210-2]
+
+[^210-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^210-2]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 211
 
@@ -2859,17 +2943,28 @@ Untersuchungs- und Sicherheitshaft sind nur zulässig, wenn die beschuldigte Per
 
 - a. sich durch Flucht dem Strafverfahren oder der zu erwartenden Sanktion entzieht;
 - b. Personen beeinflusst oder auf Beweismittel einwirkt, um so die Wahrheitsfindung zu beeinträchtigen; oder
-- c. durch schwere Verbrechen oder Vergehen die Sicherheit anderer erheblich gefährdet, nachdem sie bereits früher gleichartige Straftaten verübt hat.
+- c.[^221-1] durch Verbrechen oder schwere Vergehen die Sicherheit anderer unmittelbar erheblich gefährdet, nachdem sie bereits früher gleichartige Straftaten verübt hat.
 
-<sup>2</sup> Haft ist auch zulässig, wenn ernsthaft zu befürchten ist, eine Person werde ihre Drohung, ein schweres Verbrechen auszuführen, wahrmachen.
+<sup>1bis</sup>
+
+Untersuchungs- und Sicherheitshaft sind ausnahmsweise zulässig, wenn:
+
+- a. die beschuldigte Person dringend verdächtig ist, durch ein Verbrechen oder ein schweres Vergehen die physische, psychische oder sexuelle Integrität einer Person schwer beeinträchtigt zu haben; und
+- b. die ernsthafte und unmittelbare Gefahr besteht, die beschuldigte Person werde ein gleichartiges, schweres Verbrechen verüben.[^221-2]
+
+<sup>2</sup> Haft ist auch zulässig, wenn die ernsthafte und unmittelbare Gefahr besteht, eine Person werde ihre Drohung, ein schweres Verbrechen auszuführen, wahrmachen.[^221-3]
+
+[^221-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^221-2]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^221-3]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 222
 
 **Rechtsmittel**[^222-1]
 
-Die verhaftete Person kann Entscheide über die Anordnung, die Verlängerung und die Aufhebung der Untersuchungs- oder Sicherheitshaft bei der Beschwerdeinstanz anfechten. Vorbehalten bleibt Artikel 233.
+Einzig die verhaftete Person kann Entscheide über die Anordnung, die Verlängerung und die Aufhebung der Untersuchungs- oder Sicherheitshaft bei der Beschwerdeinstanz anfechten. Vorbehalten bleibt Artikel 233.
 
-[^222-1]: Fassung gemäss Anhang Ziff. II 7 des Strafbehördenorganisationsgesetzes vom 19. März 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
+[^222-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 223
 
@@ -2903,7 +2998,9 @@ Die verhaftete Person kann Entscheide über die Anordnung, die Verlängerung und
 
 <sup>4</sup> Das Zwangsmassnahmengericht erhebt die sofort verfügbaren Beweise, die geeignet sind, den Tatverdacht oder die Haftgründe zu erhärten oder zu entkräften.
 
-<sup>5</sup> Verzichtet die beschuldigte Person ausdrücklich auf eine Verhandlung, so entscheidet das Zwangsmassnahmengericht in einem schriftlichen Verfahren aufgrund des Antrags der Staatsanwaltschaft und der Eingaben der beschuldigten Person.
+<sup>5</sup> Verzichtet die beschuldigte Person ausdrücklich auf eine Verhandlung, so kann das Zwangsmassnahmengericht in einem schriftlichen Verfahren aufgrund des Antrags der Staatsanwaltschaft und der Eingaben der beschuldigten Person entscheiden.[^225-1]
+
+[^225-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 226
 
@@ -2999,9 +3096,17 @@ Das erstinstanzliche Gericht entscheidet mit dem Urteil, ob eine verurteilte Per
 - a. zur Sicherung des Straf- oder Massnahmenvollzuges;
 - b. im Hinblick auf das Berufungsverfahren.
 
-<sup>2</sup> Wird die inhaftierte beschuldigte Person freigesprochen und verfügt das erstinstanzliche Gericht deren Freilassung, so kann die Staatsanwaltschaft beim erstinstanzlichen Gericht zu Handen der Verfahrensleitung des Berufungsgerichts die Fortsetzung der Sicherheitshaft beantragen. In diesem Fall bleibt die betreffende Person bis zum Entscheid der Verfahrensleitung des Berufungsgerichts in Haft. Die Verfahrensleitung des Berufungsgerichts entscheidet über den Antrag der Staatsanwaltschaft innert 5 Tagen seit Antragstellung.
+<sup>2</sup>
+
+Wird die inhaftierte beschuldigte Person freigesprochen und verfügt das erstinstanzliche Gericht deren Freilassung, so kann die Staatsanwaltschaft:
+
+- a. beim erstinstanzlichen Gericht beantragen, die Freilassung mit Massnahmen zu verbinden unter Hinweis auf die Strafdrohung von Artikel 292 StGB[^231-1], um die Anwesenheit der freigesprochenen Person im Berufungsverfahren sicherzustellen. Die freigesprochene Person und die Staatsanwaltschaft können Entscheide über die Anordnung von Massnahmen bei der Beschwerdeinstanz anfechten;
+- b. beim erstinstanzlichen Gericht zu Handen der Verfahrensleitung des Berufungsgerichts die Fortsetzung der Sicherheitshaft beantragen, wenn die ernsthafte und unmittelbare Gefahr besteht, dass sie durch Verbrechen oder schwere Vergehen die Sicherheit anderer unmittelbar erheblich gefährdet. In diesem Fall bleibt die betreffende Person bis zum Entscheid der Verfahrensleitung des Berufungsgerichts in Haft. Diese entscheidet über den Antrag der Staatsanwaltschaft innert 5 Tagen seit Antragstellung.[^231-2]
 
 <sup>3</sup> Wird eine Berufung zurückgezogen, so entscheidet das erstinstanzliche Gericht über die Anrechnung der Haftdauer nach dem Urteil.
+
+[^231-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^231-2]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 232
 
@@ -3045,13 +3150,16 @@ Die Verfahrensleitung des Berufungsgerichts entscheidet über Haftentlassungsges
 
 **Vorzeitiger Straf- und Massnahmenvollzug**
 
-<sup>1</sup> Die Verfahrensleitung kann der beschuldigten Person bewilligen, Freiheitsstrafen oder freiheitsentziehende Massnahmen vorzeitig anzutreten, sofern der Stand des Verfahrens es erlaubt.
+<sup>1</sup> Die Verfahrensleitung kann der beschuldigten Person bewilligen, Freiheitsstrafen oder freiheitsentziehende Massnahmen vorzeitig anzutreten, sofern der Stand des Verfahrens es erlaubt und sofern der Zweck der Untersuchungs- oder der Sicherheitshaft dem nicht entgegensteht.[^236-1]
 
 <sup>2</sup> Ist bereits Anklage erhoben worden, so gibt die Verfahrensleitung der Staatsanwaltschaft Gelegenheit zur Stellungnahme.
 
 <sup>3</sup> Bund und Kantone können vorsehen, dass der vorzeitige Massnahmenvollzug der Zustimmung der Vollzugsbehörden bedarf.
 
-<sup>4</sup> Mit dem Eintritt in die Vollzugsanstalt tritt die beschuldigte Person ihre Strafe oder Massnahme an; sie untersteht von diesem Zeitpunkt an dem Vollzugsregime, wenn der Zweck der Untersuchungs- oder der Sicherheitshaft dem nicht entgegensteht.
+<sup>4</sup> Mit dem Eintritt in die Vollzugsanstalt tritt die beschuldigte Person ihre Strafe oder Massnahme an; sie untersteht von diesem Zeitpunkt an dem Vollzugsregime.[^236-2]
+
+[^236-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^236-2]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 ### 8. Abschnitt: Ersatzmassnahmen
 
@@ -3201,20 +3309,45 @@ Schriftstücke, Ton-, Bild- und andere Aufzeichnungen, Datenträger sowie Anlage
 
 #### Art. 248
 
-**Siegelung**
+**Siegelung**[^248-1]
 
-<sup>1</sup> Aufzeichnungen und Gegenstände, die nach Angaben der Inhaberin oder des Inhabers wegen eines Aussage- oder Zeugnisverweigerungsrechts oder aus anderen Gründen nicht durchsucht oder beschlagnahmt werden dürfen, sind zu versiegeln und dürfen von den Strafbehörden weder eingesehen noch verwendet werden.
+<sup>1</sup> Macht die Inhaberin oder der Inhaber geltend, bestimmte Aufzeichnungen oder Gegenstände dürften aufgrund von Artikel 264 nicht beschlagnahmt werden, so versiegelt die Strafbehörde diese. Die Inhaberin oder der Inhaber hat das Begehren innert drei Tagen seit der Sicherstellung vorzubringen. Während dieser Frist und nach einer allfälligen Siegelung darf die Strafbehörde die Aufzeichnungen und Gegenstände weder einsehen noch verwenden.
 
-<sup>2</sup> Stellt die Strafbehörde nicht innert 20 Tagen ein Entsiegelungsgesuch, so werden die versiegelten Aufzeichnungen und Gegenstände der berechtigten Person zurückgegeben.
+<sup>2</sup> Sobald die Strafbehörde feststellt, dass die Inhaberin oder der Inhaber nicht mit der an den Aufzeichnungen oder Gegenständen berechtigten Person identisch ist, gibt sie dieser Gelegenheit, innert drei Tagen die Siegelung zu verlangen.
 
-<sup>3</sup>
+<sup>3</sup> Stellt die Strafbehörde nicht innert 20 Tagen ein Entsiegelungsgesuch, so werden die versiegelten Aufzeichnungen und Gegenstände der Inhaberin oder dem Inhaber zurückgegeben.
 
-Stellt sie ein Entsiegelungsgesuch, so entscheidet darüber innerhalb eines Monats endgültig:
+[^248-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
-- a. im Vorverfahren: das Zwangsmassnahmengericht;
-- b. in den anderen Fällen: das Gericht, bei dem der Fall hängig ist.
+#### Art. 248a
 
-<sup>4</sup> Das Gericht kann zur Prüfung des Inhalts der Aufzeichnungen und Gegenstände eine sachverständige Person beiziehen.
+**Zuständigkeit zur Entsiegelung und Verfahren**[^248a-1]
+
+<sup>1</sup>
+
+Stellt die Strafbehörde ein Entsiegelungsgesuch, so ist für den Entscheid zuständig:
+
+- a. im Vorverfahren und im Verfahren vor dem erstinstanzlichen Gericht: das Zwangsmassnahmengericht;
+- b. in den anderen Fällen: die Verfahrensleitung des Gerichts, bei dem der Fall hängig ist.
+
+<sup>2</sup> Stellt das Gericht nach Eingang des Entsiegelungsgesuchs fest, dass die Inhaberin oder der Inhaber nicht mit der an den Aufzeichnungen oder Gegenständen berechtigten Person identisch ist, so informiert es diese über die Siegelung. Es gewährt der berechtigten Person auf Verlangen Akteneinsicht.
+
+<sup>3</sup> Das Gericht setzt der berechtigten Person eine nicht erstreckbare Frist von 10 Tagen, innert der sie Einwände gegen das Entsiegelungsgesuch vorzubringen und sich dazu zu äussern hat, in welchem Umfang sie die Siegelung aufrechterhalten will. Stillschweigen gilt als Rückzug des Siegelungsbegehrens.
+
+<sup>4</sup> Ist die Sache spruchreif, so entscheidet das Gericht innert 10 Tagen nach Eingang der Stellungnahme im schriftlichen Verfahren endgültig.
+
+<sup>5</sup> Andernfalls setzt es innert 30 Tagen seit Eingang der Stellungnahme eine nicht öffentliche Verhandlung mit der Staatsanwaltschaft und der berechtigten Person an. Die berechtige Person hat die Gründe glaubhaft zu machen, weshalb und in welchem Umfang die Aufzeichnungen oder Gegenstände nicht entsiegelt werden dürfen. Das Gericht fällt seinen Entscheid unverzüglich; dieser ist endgültig.
+
+<sup>6</sup>
+
+Das Gericht kann:
+
+- a. eine sachverständige Person beiziehen, um den Inhalt der Aufzeichnungen und Gegenstände zu prüfen, den Zugang zu diesen zu erhalten oder deren Integrität zu gewährleisten;
+- b. Angehörige der Polizei als sachverständige Personen bezeichnen, um den Zugang zum Inhalt der Aufzeichnungen und Gegenstände zu erhalten oder deren Integrität zu gewährleisten.
+
+<sup>7</sup> Bleibt die berechtigte Person der Verhandlung unentschuldigt fern und lässt sie sich auch nicht vertreten, so gilt das Siegelungsbegehren als zurückgezogen. Erscheint die Staatsanwaltschaft nicht, so entscheidet das Gericht in deren Abwesenheit.
+
+[^248a-1]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 ### 4. Abschnitt: Durchsuchung von Personen und von Gegenständen
 
@@ -3253,6 +3386,18 @@ Die beschuldigte Person kann untersucht werden, um:
 
 [^251-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^251-2]: Fassung gemäss Ziff. III des BG vom 30. Sept. 2011, in Kraft seit 1. Juli 2012 ([AS 2012 2575](https://fedlex.data.admin.ch/eli/oc/2012/310); [BBl 2010 5651](https://fedlex.data.admin.ch/eli/fga/2010/992)[5677](https://fedlex.data.admin.ch/eli/fga/2010/994)).
+
+#### Art. 251a
+
+**Atemalkoholprobe, Blut- und Urinuntersuchung**[^251a-1]
+
+Zur Feststellung der Fahrunfähigkeit kann die Polizei:
+
+- a. eine Atemalkoholprobe durchführen;
+- b. die Abnahme einer Blutprobe und deren Analyse anordnen in den Fällen, in denen das Bundesrecht eine Blutuntersuchung vorschreibt;
+- c. die Abgabe von Urin und dessen Analyse anordnen.
+
+[^251a-1]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 252
 
@@ -3294,12 +3439,14 @@ Wenn es zur Aufklärung einer Straftat nötig erscheint, kann die Ausgrabung ein
 
 <sup>1</sup>
 
-Zur Aufklärung eines Verbrechens oder eines Vergehens kann eine Probe genommen und ein DNA-Profil erstellt werden von:
+Zur Aufklärung des Verbrechens oder Vergehens, das Gegenstand des Verfahrens bildet, kann eine Probe genommen und ein DNA‑Profil erstellt werden von:[^255-1]
 
 - a. der beschuldigten Person;
 - b. anderen Personen, insbesondere Opfern oder Tatortberechtigten, soweit es notwendig ist, um von ihnen stammendes biologisches Material von jenem der beschuldigten Person zu unterscheiden;
 - c. toten Personen;
 - d. tatrelevantem biologischem Material.
+
+<sup>1bis</sup> Von der beschuldigten Person kann auch eine Probe genommen und ein DNA‑Profil erstellt werden, wenn aufgrund konkreter Anhaltspunkte anzunehmen ist, sie könnte weitere Verbrechen oder Vergehen begangen haben.[^255-2]
 
 <sup>2</sup>
 
@@ -3308,10 +3455,12 @@ Die Polizei kann anordnen:
 - a. die nicht invasive Probenahme bei Personen;
 - b. die Erstellung eines DNA-Profils von tatrelevantem biologischem Material.
 
-<sup>3</sup> Kann aus tatrelevantem biologischem Material lediglich das Y-DNA-Profil erstellt werden, so kann die Staatsanwaltschaft zur Aufklärung eines Verbrechens dessen Abgleich im Informationssystem nach Artikel 10 des DNA-Profil-Gesetzes vom 20. Juni 2003[^255-1] anordnen.[^255-2]
+<sup>3</sup> Kann aus tatrelevantem biologischem Material lediglich das Y-DNA-Profil erstellt werden, so kann die Staatsanwaltschaft zur Aufklärung eines Verbrechens dessen Abgleich im Informationssystem nach Artikel 10 des DNA-Profil-Gesetzes vom 20. Juni 2003[^255-3] anordnen.[^255-4]
 
-[^255-1]: [SR 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
-[^255-2]: Eingefügt durch Anhang 1 Ziff. 2 des BG vom 17. Dez. 2021, in Kraft seit 1. Aug. 2023 ([AS 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [BBl 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
+[^255-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^255-2]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^255-3]: [SR 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
+[^255-4]: Eingefügt durch Anhang 1 Ziff. 2 des BG vom 17. Dez. 2021, in Kraft seit 1. Aug. 2023 ([AS 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [BBl 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
 
 #### Art. 256
 
@@ -3325,13 +3474,11 @@ Die Polizei kann anordnen:
 
 #### Art. 257
 
-**Bei verurteilten Personen**
+**Bei verurteilten Personen**[^257-1]
 
-Das Gericht kann in seinem Urteil anordnen, dass eine Probe genommen und ein DNA-Profil erstellt wird von Personen:
+Das Gericht kann in seinem Urteil anordnen, dass von einer wegen eines Verbrechens oder Vergehens verurteilten Person eine Probe genommen und ein DNA‑Profil erstellt wird, wenn aufgrund konkreter Anhaltspunkte anzunehmen ist, die verurteilte Person könnte weitere Verbrechen oder Vergehen begehen.
 
-- a. die wegen eines vorsätzlich begangenen Verbrechens zu einer Freiheitsstrafe von mehr als einem Jahr verurteilt worden sind;
-- b. die wegen eines vorsätzlich begangenen Verbrechens oder Vergehens gegen Leib und Leben oder gegen die sexuelle Integrität verurteilt worden sind;
-- c. gegenüber denen eine therapeutische Massnahme oder die Verwahrung angeordnet worden ist.
+[^257-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 258
 
@@ -3427,11 +3574,15 @@ Gegenstände und Vermögenswerte einer beschuldigten Person oder einer Drittpers
 - a. als Beweismittel gebraucht werden;
 - b. zur Sicherstellung von Verfahrenskosten, Geldstrafen, Bussen und Entschädigungen gebraucht werden;
 - c. den Geschädigten zurückzugeben sind;
-- d. einzuziehen sind.
+- d. einzuziehen sind;
+- e.[^263-1] zur Deckung von Ersatzforderungen des Staates gemäss Artikel 71 StGB[^263-2] gebraucht werden.
 
 <sup>2</sup> Die Beschlagnahme ist mit einem schriftlichen, kurz begründeten Befehl anzuordnen. In dringenden Fällen kann sie mündlich angeordnet werden, ist aber nachträglich schriftlich zu bestätigen.
 
 <sup>3</sup> Ist Gefahr im Verzug, so können die Polizei oder Private Gegenstände und Vermögenswerte zuhanden der Staatsanwaltschaft oder der Gerichte vorläufig sicherstellen.
+
+[^263-1]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^263-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
 #### Art. 264
 
@@ -3448,11 +3599,12 @@ Nicht beschlagnahmt werden dürfen, ungeachtet des Ortes, wo sie sich befinden, 
 
 <sup>2</sup> Die Einschränkungen nach Absatz 1 gelten nicht für Gegenstände und Vermögenswerte, die zur Rückgabe an die geschädigte Person oder zur Einziehung beschlagnahmt werden müssen.
 
-<sup>3</sup> Macht eine berechtigte Person geltend, eine Beschlagnahme von Gegenständen und Vermögenswerten sei wegen eines Aussage- oder Zeugnisverweigerungsrechts oder aus anderen Gründen nicht zulässig, so gehen die Strafbehörden nach den Vorschriften über die Siegelung vor.
+<sup>3</sup> Macht die Inhaberin oder der Inhaber geltend, eine Beschlagnahme von Gegenständen oder Vermögenswerten sei nicht zulässig, so gehen die Strafbehörden nach den Vorschriften über die Siegelung vor.[^264-4]
 
 [^264-1]: Fassung gemäss Ziff. I 6 des BG vom 28. Sept. 2012 über die Anpassung von verfahrensrechtlichen Bestimmungen zum anwaltlichen Berufsgeheimnis, in Kraft seit 1. Mai 2013 ([AS 2013 847](https://fedlex.data.admin.ch/eli/oc/2013/177); [BBl 2011 8181](https://fedlex.data.admin.ch/eli/fga/2011/1435)).
 [^264-2]: Eingefügt durch Ziff. I 6 des BG vom 28. Sept. 2012 über die Anpassung von verfahrensrechtlichen Bestimmungen zum anwaltlichen Berufsgeheimnis, in Kraft seit 1. Mai 2013 ([AS 2013 847](https://fedlex.data.admin.ch/eli/oc/2013/177); [BBl 2011 8181](https://fedlex.data.admin.ch/eli/fga/2011/1435)).
 [^264-3]: [SR 935.61](https://fedlex.data.admin.ch/eli/cc/2002/153)
+[^264-4]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 265
 
@@ -3487,15 +3639,16 @@ Keine Herausgabepflicht haben:
 
 <sup>2</sup> Sie erstellt ein Verzeichnis und bewahrt die Gegenstände und Vermögenswerte sachgemäss auf.
 
-<sup>3</sup> Werden Liegenschaften beschlagnahmt, so wird eine Grundbuchsperre angeordnet; diese wird im Grundbuch angemerkt.
+<sup>3</sup> Werden Grundstücke beschlagnahmt, so wird eine Grundbuchsperre angeordnet; diese wird im Grundbuch angemerkt.[^266-1]
 
 <sup>4</sup> Die Beschlagnahme einer Forderung wird der Schuldnerin oder dem Schuldner angezeigt, mit dem Hinweis, dass eine Zahlung an die Gläubigerin oder den Gläubiger die Schuldverpflichtung nicht tilgt.
 
-<sup>5</sup> Gegenstände, die einer schnellen Wertverminderung unterliegen oder einen kostspieligen Unterhalt erfordern, sowie Wertpapiere oder andere Werte mit einem Börsen- oder Marktpreis können nach den Bestimmungen des Bundesgesetzes vom 11. April 1889[^266-1] über Schuldbetreibung und Konkurs (SchKG) sofort verwertet werden. Der Erlös wird mit Beschlag belegt.
+<sup>5</sup> Gegenstände, die einer schnellen Wertverminderung unterliegen oder einen kostspieligen Unterhalt erfordern, sowie Wertpapiere oder andere Werte mit einem Börsen- oder Marktpreis können nach den Bestimmungen des Bundesgesetzes vom 11. April 1889[^266-2] über Schuldbetreibung und Konkurs (SchKG) sofort verwertet werden. Der Erlös wird mit Beschlag belegt.
 
 <sup>6</sup> Der Bundesrat regelt die Anlage beschlagnahmter Vermögenswerte.
 
-[^266-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^266-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^266-2]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
 
 #### Art. 267
 
@@ -3550,48 +3703,49 @@ Die Staatsanwaltschaft kann den Post- und den Fernmeldeverkehr überwachen lasse
 
 Eine Überwachung kann zur Verfolgung der in den folgenden Artikeln aufgeführten Straftaten angeordnet werden:
 
-- a.[^269-1] StGB: Artikel 111–113, 115, 118 Absatz 2, 122, 124, 127, 129, 135, 138–140, 143, 144 Absatz 3, 144<sup>bis</sup> Ziffer 1 Absatz 2 und Ziffer 2 Absatz 2, 146–148, 156, 157 Ziffer 2, 158 Ziffer 1 Absatz 3 und Ziffer 2, 160, 163 Ziffer 1, 180–185<sup>bis</sup>, 187, 188 Ziffer 1, 189–191, 192 Absatz 1, 195–197, 220, 221 Absätze 1 und 2, 223 Ziffer 1, 224 Absatz 1, 226, 227 Ziffer 1 Absatz 1, 228 Ziffer 1 Absatz 1, 230<sup>bis</sup>, 231, 232 Ziffer 1, 233 Ziffer 1, 234 Absatz 1, 237 Ziffer 1, 240 Absatz 1, 242, 244, 251 Ziffer 1, 258, 259 Absatz 1, 260<sup>bis</sup>–260<sup>sexies</sup>, 261<sup>bis</sup>, 264–267, 271, 272 Ziffer 2, 273, 274 Ziffer 1 Absatz 2, 285, 301, 303 Ziffer 1, 305, 305<sup>bis</sup> Ziffer 2, 310, 312, 314, 317 Ziffer 1, 319, 322<sup>ter</sup>, 322<sup>quater</sup> und 322<sup>septies</sup>;
-- b.[^269-2] Ausländer- und Integrationsgesetz[^269-3] vom 16. Dezember 2005[^269-4]: Artikel 116 Absatz 3 und 118 Absatz 3;
-- c. Bundesgesetz vom 22. Juni 2001[^269-5] zum Haager Adoptionsübereinkommen und über Massnahmen zum Schutz des Kindes bei internationalen Adoptionen: Artikel 24;
-- d.[^269-6] Kriegsmaterialgesetz vom 13. Dezember 1996[^269-7]: Artikel 33 Absatz 2 und 34–35*b*;
-- e. Kernenergiegesetz vom 21. März 2003[^269-8]: Artikel 88 Absätze 1 und 2, 89 Absätze 1 und 2 und 90 Absatz 1;
-- f.[^269-9] Betäubungsmittelgesetz vom 3. Oktober 1951[^269-10]: Artikel 19 Absatz 2 sowie 20 Absatz 2;
-- g. Umweltschutzgesetz vom 7. Oktober 1983[^269-11]: Artikel 60 Absatz 1 Buchstaben g–i sowie m und o;
-- h. Güterkontrollgesetz vom 13. Dezember 1996[^269-12]: Artikel 14 Absatz 2;
-- i.[^269-13] Sportförderungsgesetz vom 17. Juni 2011[^269-14]: Artikel 22 Absatz 2 und 25*a* Absatz 3;
-- j.[^269-15] Finanzmarktinfrastrukturgesetz vom 19. Juni 2015[^269-16]: Artikel 154 und 155;
-- k.[^269-17] Waffengesetz vom 20. Juni 1997[^269-18]: Artikel 33 Absatz 3;
-- l.[^269-19] Heilmittelgesetz vom 15. Dezember 2000[^269-20]: Artikel 86 Absätze 2 und 3;
-- m.[^269-21] Geldspielgesetz vom 29. September 2017[^269-22]: Artikel 130 Absatz 2 für die Straftaten nach Artikel 130 Absatz 1 Buchstabe a;
-- n.[^269-23] Nachrichtendienstgesetz vom 25. September 2015[^269-24]: Artikel 74 Absatz 4.
+- a.[^269-1] StGB[^269-2]: Artikel 111–113, 115, 118 Absatz 2, 122, 124, 127, 129, 135, 138–140, 143, 144 Absatz 3, 144<sup>bis</sup> Ziffer 1 Absatz 2 und Ziffer 2 Absatz 2, 146–148, 156, 157 Ziffer 2, 158 Ziffer 1 Absatz 3 und Ziffer 2, 160, 163 Ziffer 1, 180–185<sup>bis</sup>, 187, 188 Ziffer 1, 189–191, 192 Absatz 1, 195–197, 220, 221 Absätze 1 und 2, 223 Ziffer 1, 224 Absatz 1, 226–226<sup>ter</sup>, 227 Ziffer 1 Absatz 1, 228 Ziffer 1 Absatz 1, 230<sup>bis</sup>, 231, 232 Ziffer 1, 233 Ziffer 1, 234 Absatz 1, 237 Ziffer 1, 240 Absatz 1, 242, 244, 251 Ziffer 1, 258, 259 Absatz 1, 260<sup>bis</sup>–260<sup>sexies</sup>, 261<sup>bis</sup>, 264–267, 271, 272 Ziffer 2, 273, 274 Ziffer 1 Absatz 2, 285, 301, 303 Ziffer 1, 305, 305<sup>bis</sup> Ziffer 2, 310, 312, 314, 317 Ziffer 1, 319, 322<sup>ter</sup>, 322<sup>quater</sup> und 322<sup>septies</sup>;
+- b.[^269-3] Ausländer- und Integrationsgesetz[^269-4] vom 16. Dezember 2005[^269-5]: Artikel 116 Absatz 3 und 118 Absatz 3;
+- c. Bundesgesetz vom 22. Juni 2001[^269-6] zum Haager Adoptionsübereinkommen und über Massnahmen zum Schutz des Kindes bei internationalen Adoptionen: Artikel 24;
+- d.[^269-7] Kriegsmaterialgesetz vom 13. Dezember 1996[^269-8]: Artikel 33 Absatz 2 und 34–35*b*;
+- e. Kernenergiegesetz vom 21. März 2003[^269-9]: Artikel 88 Absätze 1 und 2, 89 Absätze 1 und 2 und 90 Absatz 1;
+- f.[^269-10] BetmG[^269-11]: Artikel 19 Absatz 2 sowie 20 Absatz 2;
+- g. Umweltschutzgesetz vom 7. Oktober 1983[^269-12]: Artikel 60 Absatz 1 Buchstaben g–i sowie m und o;
+- h. Güterkontrollgesetz vom 13. Dezember 1996[^269-13]: Artikel 14 Absatz 2;
+- i.[^269-14] Sportförderungsgesetz vom 17. Juni 2011[^269-15]: Artikel 22 Absatz 2 und 25*a* Absatz 3;
+- j.[^269-16] Finanzmarktinfrastrukturgesetz vom 19. Juni 2015[^269-17]: Artikel 154 und 155;
+- k.[^269-18] Waffengesetz vom 20. Juni 1997[^269-19]: Artikel 33 Absatz 3;
+- l.[^269-20] Heilmittelgesetz vom 15. Dezember 2000[^269-21]: Artikel 86 Absätze 2 und 3;
+- m.[^269-22] Geldspielgesetz vom 29. September 2017[^269-23]: Artikel 130 Absatz 2 für die Straftaten nach Artikel 130 Absatz 1 Buchstabe a;
+- n.[^269-24] Nachrichtendienstgesetz vom 25. September 2015[^269-25]: Artikel 74 Absatz 4.
 
-<sup>3</sup> Wird die Beurteilung einer der militärischen Gerichtsbarkeit unterstehenden Straftat der zivilen Gerichtsbarkeit übertragen, so kann die Überwachung des Post- und Fernmeldeverkehrs auch angeordnet werden zur Verfolgung der in Artikel 70 Absatz 2 des Militärstrafprozesses vom 23. März 1979[^269-25] aufgeführten Straftaten.
+<sup>3</sup> Wird die Beurteilung einer der militärischen Gerichtsbarkeit unterstehenden Straftat der zivilen Gerichtsbarkeit übertragen, so kann die Überwachung des Post- und Fernmeldeverkehrs auch angeordnet werden zur Verfolgung der in Artikel 70 Absatz 2 des Militärstrafprozesses vom 23. März 1979[^269-26] aufgeführten Straftaten.
 
-[^269-1]: Fassung gemäss Ziff. I 12 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
-[^269-2]: Fassung gemäss Anhang Ziff. II 7 des Strafbehördenorganisationsgesetzes vom 19. März 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
-[^269-3]: Der Titel wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. Jan. 2019 angepasst. Diese Anpassung wurde im ganzen Text vorgenommen.
-[^269-4]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^269-5]: [SR 211.221.31](https://fedlex.data.admin.ch/eli/cc/2002/639)
-[^269-6]: Fassung gemäss Ziff. II des BG vom 16. März 2012, in Kraft seit 1. Febr. 2013 ([AS 2013 295](https://fedlex.data.admin.ch/eli/oc/2013/48); [BBl 2011 5905](https://fedlex.data.admin.ch/eli/fga/2011/879)).
-[^269-7]: [SR 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
-[^269-8]: [SR 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
-[^269-9]: Berichtigung der RedK der BVers vom 19. Sept. 2011, veröffentlicht am 4. Okt. 2011 ([AS 2011 4487](https://fedlex.data.admin.ch/eli/oc/2011/619)).
-[^269-10]: [SR 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
-[^269-11]: [SR 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
-[^269-12]: [SR 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
-[^269-13]: Eingefügt durch Art. 34 Ziff. 2 des Sportförderungsgesetzes vom 17. Juni 2011 ([AS 2012 3953](https://fedlex.data.admin.ch/eli/oc/2012/460); [BBl 2009 8189](https://fedlex.data.admin.ch/eli/fga/2009/1425)). Fassung gemäss Anhang Ziff. II 2 des Geldspielgesetzes vom 29. Sept. 2017, in Kraft seit 1. Jan. 2019 ([AS 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [BBl 2015 8387](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
-[^269-14]: [SR 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)
-[^269-15]: Eingefügt durch Ziff. II 4 des BG vom 28. Sept. 2012 ([AS 2013 1103](https://fedlex.data.admin.ch/eli/oc/2013/250); [BBl 2011 6873](https://fedlex.data.admin.ch/eli/fga/2011/1111)). Fassung gemäss Anhang Ziff. 4 des Finanzmarktinfrastrukturgesetzes vom 19. Juni 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [BBl 2014 7483](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
-[^269-16]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
-[^269-17]: Eingefügt durch Anhang Ziff. II 1 des BG vom 18. März 2016 betreffend die Überwachung des Post- und Fernmeldeverkehrs, in Kraft seit 1. März 2018 ([AS 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31); [BBl 2013 2683](https://fedlex.data.admin.ch/eli/fga/2013/512)).
-[^269-18]: [SR 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
-[^269-19]: Eingefügt durch Anhang Ziff. 1 des BB vom 29. Sept. 2017 (Medicrime-Konvention), in Kraft seit 1. Jan. 2019 ([AS 2018 4771](https://fedlex.data.admin.ch/eli/oc/2018/765); [BBl 2017 3135](https://fedlex.data.admin.ch/eli/fga/2017/649)).
-[^269-20]: [SR 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
-[^269-21]: Eingefügt durch Anhang Ziff. II 2 des Geldspielgesetzes vom 29. Sept. 2017, in Kraft seit 1. Jan. 2019 ([AS 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [BBl 2015 8387](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
-[^269-22]: [SR 935.51](https://fedlex.data.admin.ch/eli/cc/2018/795)
-[^269-23]: Eingefügt durch Anhang Ziff. II 3 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Übereinkommens des Europarats zur Verhütung des Terrorismus mit dem dazugehörigen Zusatzprotokoll sowie über die Verstärkung des strafrechtlichen Instrumentariums gegen Terrorismus und organisierte Kriminalität, in Kraft seit 1. Juli 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
-[^269-24]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
-[^269-25]: [SR 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
+[^269-1]: Fassung gemäss Anhang 2 Ziff. 2 des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^269-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^269-3]: Fassung gemäss Anhang Ziff. II 7 des Strafbehördenorganisationsgesetzes vom 19. März 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
+[^269-4]: Der Titel wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. Jan. 2019 angepasst. Diese Anpassung wurde im ganzen Text vorgenommen.
+[^269-5]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^269-6]: [SR 211.221.31](https://fedlex.data.admin.ch/eli/cc/2002/639)
+[^269-7]: Fassung gemäss Ziff. II des BG vom 16. März 2012, in Kraft seit 1. Febr. 2013 ([AS 2013 295](https://fedlex.data.admin.ch/eli/oc/2013/48); [BBl 2011 5905](https://fedlex.data.admin.ch/eli/fga/2011/879)).
+[^269-8]: [SR 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
+[^269-9]: [SR 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
+[^269-10]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^269-11]: [SR 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
+[^269-12]: [SR 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
+[^269-13]: [SR 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
+[^269-14]: Eingefügt durch Art. 34 Ziff. 2 des Sportförderungsgesetzes vom 17. Juni 2011 ([AS 2012 3953](https://fedlex.data.admin.ch/eli/oc/2012/460); [BBl 2009 8189](https://fedlex.data.admin.ch/eli/fga/2009/1425)). Fassung gemäss Anhang Ziff. II 2 des Geldspielgesetzes vom 29. Sept. 2017, in Kraft seit 1. Jan. 2019 ([AS 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [BBl 2015 8387](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
+[^269-15]: [SR 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)
+[^269-16]: Eingefügt durch Ziff. II 4 des BG vom 28. Sept. 2012 ([AS 2013 1103](https://fedlex.data.admin.ch/eli/oc/2013/250); [BBl 2011 6873](https://fedlex.data.admin.ch/eli/fga/2011/1111)). Fassung gemäss Anhang Ziff. 4 des Finanzmarktinfrastrukturgesetzes vom 19. Juni 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [BBl 2014 7483](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
+[^269-17]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^269-18]: Eingefügt durch Anhang Ziff. II 1 des BG vom 18. März 2016 betreffend die Überwachung des Post- und Fernmeldeverkehrs, in Kraft seit 1. März 2018 ([AS 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31); [BBl 2013 2683](https://fedlex.data.admin.ch/eli/fga/2013/512)).
+[^269-19]: [SR 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^269-20]: Eingefügt durch Anhang Ziff. 1 des BB vom 29. Sept. 2017 (Medicrime-Konvention), in Kraft seit 1. Jan. 2019 ([AS 2018 4771](https://fedlex.data.admin.ch/eli/oc/2018/765); [BBl 2017 3135](https://fedlex.data.admin.ch/eli/fga/2017/649)).
+[^269-21]: [SR 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
+[^269-22]: Eingefügt durch Anhang Ziff. II 2 des Geldspielgesetzes vom 29. Sept. 2017, in Kraft seit 1. Jan. 2019 ([AS 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [BBl 2015 8387](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
+[^269-23]: [SR 935.51](https://fedlex.data.admin.ch/eli/cc/2018/795)
+[^269-24]: Eingefügt durch Anhang Ziff. II 3 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Übereinkommens des Europarats zur Verhütung des Terrorismus mit dem dazugehörigen Zusatzprotokoll sowie über die Verstärkung des strafrechtlichen Instrumentariums gegen Terrorismus und organisierte Kriminalität, in Kraft seit 1. Juli 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^269-25]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^269-26]: [SR 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
 
 #### Art. 269<sup>bis</sup>
 
@@ -3697,15 +3851,21 @@ Informationen nach Absatz 1 müssen nicht vorgängig ausgesondert werden, wenn:
 
 **Teilnehmeridentifikation, Standortermittlung und technische Merkmale des Verkehrs**[^273-1]
 
-<sup>1</sup> Besteht der dringende Verdacht, ein Verbrechen oder ein Vergehen sei begangen worden, und sind die Voraussetzungen nach Artikel 269 Absatz 1 Buchstaben b und c dieses Gesetzes erfüllt, so kann die Staatsanwaltschaft die Randdaten des Fernmeldeverkehrs gemäss Artikel 8 Buchstabe b des Bundesgesetzes vom 18. März 2016[^273-2] betreffend die Überwachung des Post- und Fernmeldeverkehrs (BÜPF) und die Randdaten des Postverkehrs gemäss Artikel 19 Absatz 1 Buchstabe b BÜPF der überwachten Person verlangen.[^273-3]
+<sup>1</sup>
+
+Besteht der dringende Verdacht, ein Verbrechen oder Vergehen sei begangen worden, und sind die Voraussetzungen nach Artikel 269 Absatz 1 Buchstaben b und c erfüllt, so kann die Staatsanwaltschaft die folgenden Randdaten verlangen:[^273-2]
+
+- a. diejenigen des Fernmeldeverkehrs gemäss Artikel 8 Buchstabe b des Bundesgesetzes vom 18. März 2016[^273-3] betreffend die Überwachung des Post- und Fernmeldeverkehrs (BÜPF) der beschuldigten Person, einer Drittperson nach Artikel 270 Buchstabe b des vorliegenden Gesetzes oder einer geschädigten Person;
+- b. diejenigen des Postverkehrs gemäss Artikel 19 Absatz 1 Buchstabe b BÜPF der beschuldigten Person oder einer Drittperson nach Artikel 270 Buchstabe b des vorliegenden Gesetzes.[^273-4]
 
 <sup>2</sup> Die Anordnung bedarf der Genehmigung durch das Zwangsmassnahmengericht.
 
 <sup>3</sup> Auskünfte nach Absatz 1 können unabhängig von der Dauer der Überwachung und bis 6 Monate rückwirkend verlangt werden.
 
 [^273-1]: Fassung gemäss Anhang Ziff. II 1 des BG vom 18. März 2016 betreffend die Überwachung des Post- und Fernmeldeverkehrs, in Kraft seit 1. März 2018 ([AS 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31); [BBl 2013 2683](https://fedlex.data.admin.ch/eli/fga/2013/512)).
-[^273-2]: [SR 780.1](https://fedlex.data.admin.ch/eli/cc/2018/31)
-[^273-3]: Fassung gemäss Ziff. I 12 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^273-2]: Fassung gemäss Anhang 2 Ziff. 2 des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^273-3]: [SR 780.1](https://fedlex.data.admin.ch/eli/cc/2018/31)
+[^273-4]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 274
 
@@ -3918,42 +4078,43 @@ Die Staatsanwaltschaft kann eine verdeckte Ermittlung anordnen, wenn:
 
 Die verdeckte Ermittlung kann zur Verfolgung der in den folgenden Artikeln aufgeführten Straftaten eingesetzt werden:
 
-- a.[^286-1] StGB: Artikel 111–113, 122, 124, 129, 135, 138–140, 143 Absatz 1, 144 Absatz 3, 144<sup>bis</sup> Ziffer 1 Absatz 2 und Ziffer 2 Absatz 2, 146 Absätze 1 und 2, 147 Absätze 1 und 2, 148, 156, 160, 182–185<sup>bis</sup>, 187, 188 Ziffer 1, 189 Absätze 1 und 3, 190 Absätze 1 und 3, 191, 192 Absatz 1, 195, 196, 197 Absätze 3–5, 221 Absätze 1 und 2, 223 Ziffer 1, 224 Absatz 1, 227 Ziffer 1 Absatz 1, 228 Ziffer 1 Absatz 1, 230<sup>bis</sup>, 231, 232 Ziffer 1, 233 Ziffer 1, 234 Absatz 1, 237 Ziffer 1, 240 Absatz 1, 242, 244 Absatz 2, 251 Ziffer 1, 260<sup>bis</sup>–260<sup>sexies</sup>, 264–267, 271, 272 Ziffer 2, 273, 274 Ziffer 1 Absatz 2, 301, 305<sup>bis</sup> Ziffer 2, 310, 322<sup>ter</sup>, 322<sup>quater</sup> und 322<sup>septies</sup>;
-- b.[^286-2] Ausländer- und Integrationsgesetz vom 16. Dezember 2005[^286-3]: Artikel 116 Absatz 3 und 118 Absatz 3;
-- c. Bundesgesetz vom 22. Juni 2001[^286-4] zum Haager Adoptionsübereinkommen und über Massnahmen zum Schutz des Kindes bei internationalen Adoptionen: Artikel 24;
-- d.[^286-5] Kriegsmaterialgesetz vom 13. Dezember 1996[^286-6]: Artikel 33 Absatz 2 und 34–35*b*;
-- e. Kernenergiegesetz vom 21. März 2003[^286-7]: Artikel 88 Absätze 1 und 2, 89 Absätze 1 und 2 und 90 Absatz 1;
-- f.[^286-8] Betäubungsmittelgesetz vom 3. Oktober 1951[^286-9]: Artikel 19 Absatz 2 sowie 20 Absatz 2;
-- g. Güterkontrollgesetz vom 13. Dezember 1996[^286-10]: Artikel 14 Absatz 2;
-- h.[^286-11] Sportförderungsgesetz vom 17. Juni 2011[^286-12]: Artikel 22 Absatz 2 und 25*a* Absatz 3;
-- i.[^286-13] Waffengesetz vom 20. Juni 1997[^286-14]: Artikel 33 Absatz 3;
-- j.[^286-15] Heilmittelgesetz vom 15. Dezember 2000[^286-16]: Artikel 86 Absätze 2 und 3;
-- k.[^286-17] Geldspielgesetz vom 29. September 2017[^286-18]: Artikel 130 Absatz 2 für die Straftaten nach Artikel 130 Absatz 1 Buchstabe a;
-- l.[^286-19] Nachrichtendienstgesetz vom 25. September 2015[^286-20]: Artikel 74 Absatz 4.
+- a.[^286-1] StGB[^286-2]: Artikel 111–113, 122, 124, 129, 135, 138–140, 143 Absatz 1, 144 Absatz 3, 144<sup>bis</sup> Ziffer 1 Absatz 2 und Ziffer 2 Absatz 2, 146 Absätze 1 und 2, 147 Absätze 1 und 2, 148, 156, 160, 182–185<sup>bis</sup>, 187, 188 Ziffer 1, 189 Absätze 1 und 3, 190 Absätze 1 und 3, 191, 192 Absatz 1, 195, 196, 197 Absätze 3–5, 221 Absätze 1 und 2, 223 Ziffer 1, 224 Absatz 1, 226<sup>bis</sup>, 226<sup>ter</sup>, 227 Ziffer 1 Absatz 1, 228 Ziffer 1 Absatz 1, 230<sup>bis</sup>, 231, 232 Ziffer 1, 233 Ziffer 1, 234 Absatz 1, 237 Ziffer 1, 240 Absatz 1, 242, 244 Absatz 2, 251 Ziffer 1, 260<sup>bis</sup>–260<sup>sexies</sup>, 264–267, 271, 272 Ziffer 2, 273, 274 Ziffer 1 Absatz 2, 301, 305<sup>bis</sup> Ziffer 2, 310, 322<sup>ter</sup>, 322<sup>quater</sup>, 322<sup>septies</sup>;
+- b.[^286-3] Ausländer- und Integrationsgesetz vom 16. Dezember 2005[^286-4]: Artikel 116 Absatz 3 und 118 Absatz 3;
+- c. Bundesgesetz vom 22. Juni 2001[^286-5] zum Haager Adoptionsübereinkommen und über Massnahmen zum Schutz des Kindes bei internationalen Adoptionen: Artikel 24;
+- d.[^286-6] Kriegsmaterialgesetz vom 13. Dezember 1996[^286-7]: Artikel 33 Absatz 2 und 34–35*b*;
+- e. Kernenergiegesetz vom 21. März 2003[^286-8]: Artikel 88 Absätze 1 und 2, 89 Absätze 1 und 2 und 90 Absatz 1;
+- f.[^286-9] BetmG[^286-10]: Artikel 19 Absatz 2 sowie 20 Absatz 2;
+- g. Güterkontrollgesetz vom 13. Dezember 1996[^286-11]: Artikel 14 Absatz 2;
+- h.[^286-12] Sportförderungsgesetz vom 17. Juni 2011[^286-13]: Artikel 22 Absatz 2 und 25*a* Absatz 3;
+- i.[^286-14] Waffengesetz vom 20. Juni 1997[^286-15]: Artikel 33 Absatz 3;
+- j.[^286-16] Heilmittelgesetz vom 15. Dezember 2000[^286-17]: Artikel 86 Absätze 2 und 3;
+- k.[^286-18] Geldspielgesetz vom 29. September 2017[^286-19]: Artikel 130 Absatz 2 für die Straftaten nach Artikel 130 Absatz 1 Buchstabe a;
+- l.[^286-20] Nachrichtendienstgesetz vom 25. September 2015[^286-21]: Artikel 74 Absatz 4.
 
-<sup>3</sup> Wird die Beurteilung einer der militärischen Gerichtsbarkeit unterstehenden strafbaren Handlung der zivilen Gerichtsbarkeit übertragen, so kann die verdeckte Ermittlung auch zur Verfolgung der in Artikel 70 Absatz 2 des Militärstrafprozesses vom 23. März 1979[^286-21] aufgeführten Straftaten angeordnet werden.
+<sup>3</sup> Wird die Beurteilung einer der militärischen Gerichtsbarkeit unterstehenden strafbaren Handlung der zivilen Gerichtsbarkeit übertragen, so kann die verdeckte Ermittlung auch zur Verfolgung der in Artikel 70 Absatz 2 des Militärstrafprozesses vom 23. März 1979[^286-22] aufgeführten Straftaten angeordnet werden.
 
-[^286-1]: Fassung gemäss Ziff. I 12 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
-[^286-2]: Fassung gemäss Anhang Ziff. II 7 des Strafbehördenorganisationsgesetzes vom 19. März 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
-[^286-3]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^286-4]: [SR 211.221.31](https://fedlex.data.admin.ch/eli/cc/2002/639)
-[^286-5]: Fassung gemäss Ziff. II des BG vom 16. März 2012, in Kraft seit 1. Febr. 2013 ([AS 2013 295](https://fedlex.data.admin.ch/eli/oc/2013/48); [BBl 2011 5905](https://fedlex.data.admin.ch/eli/fga/2011/879)).
-[^286-6]: [SR 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
-[^286-7]: [SR 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
-[^286-8]: Berichtigung der RedK der BVers vom 19. Sept. 2011, veröffentlicht am 4. Okt. 2011 ([AS 2011 4487](https://fedlex.data.admin.ch/eli/oc/2011/619)).
-[^286-9]: [SR 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
-[^286-10]: [SR 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
-[^286-11]: Eingefügt durch Art. 34 Ziff. 2 des Sportförderungsgesetzes vom 17. Juni 2011 ([AS 2012 3953](https://fedlex.data.admin.ch/eli/oc/2012/460); [BBl 2009 8189](https://fedlex.data.admin.ch/eli/fga/2009/1425)). Fassung gemäss Anhang Ziff. II 2 des Geldspielgesetzes vom 29. Sept. 2017, in Kraft seit 1. Jan. 2019 ([AS 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [BBl 2015 8387](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
-[^286-12]: [SR 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)
-[^286-13]: Eingefügt durch Anhang Ziff. II 1 des BG vom 18. März 2016 betreffend die Überwachung des Post- und Fernmeldeverkehrs, in Kraft seit 1. März 2018 ([AS 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31); [BBl 2013 2683](https://fedlex.data.admin.ch/eli/fga/2013/512)).
-[^286-14]: [SR 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
-[^286-15]: Eingefügt durch Anhang Ziff. 1 des BB vom 29. Sept. 2017 (Medicrime-Konvention), in Kraft seit 1. Jan. 2019 ([AS 2018 4771](https://fedlex.data.admin.ch/eli/oc/2018/765); [BBl 2017 3135](https://fedlex.data.admin.ch/eli/fga/2017/649)).
-[^286-16]: [SR 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
-[^286-17]: Eingefügt durch Anhang Ziff. II 2 des Geldspielgesetzes vom 29. Sept. 2017, in Kraft seit 1. Jan. 2019 ([AS 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [BBl 2015 8387](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
-[^286-18]: [SR 935.51](https://fedlex.data.admin.ch/eli/cc/2018/795)
-[^286-19]: Eingefügt durch Anhang Ziff. II 3 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Übereinkommens des Europarats zur Verhütung des Terrorismus mit dem dazugehörigen Zusatzprotokoll sowie über die Verstärkung des strafrechtlichen Instrumentariums gegen Terrorismus und organisierte Kriminalität, in Kraft seit 1. Juli 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
-[^286-20]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
-[^286-21]: [SR 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
+[^286-1]: Fassung gemäss Anhang 2 Ziff. 2 des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^286-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^286-3]: Fassung gemäss Anhang Ziff. II 7 des Strafbehördenorganisationsgesetzes vom 19. März 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
+[^286-4]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^286-5]: [SR 211.221.31](https://fedlex.data.admin.ch/eli/cc/2002/639)
+[^286-6]: Fassung gemäss Ziff. II des BG vom 16. März 2012, in Kraft seit 1. Febr. 2013 ([AS 2013 295](https://fedlex.data.admin.ch/eli/oc/2013/48); [BBl 2011 5905](https://fedlex.data.admin.ch/eli/fga/2011/879)).
+[^286-7]: [SR 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
+[^286-8]: [SR 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
+[^286-9]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^286-10]: [SR 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
+[^286-11]: [SR 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
+[^286-12]: Eingefügt durch Art. 34 Ziff. 2 des Sportförderungsgesetzes vom 17. Juni 2011 ([AS 2012 3953](https://fedlex.data.admin.ch/eli/oc/2012/460); [BBl 2009 8189](https://fedlex.data.admin.ch/eli/fga/2009/1425)). Fassung gemäss Anhang Ziff. II 2 des Geldspielgesetzes vom 29. Sept. 2017, in Kraft seit 1. Jan. 2019 ([AS 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [BBl 2015 8387](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
+[^286-13]: [SR 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)
+[^286-14]: Eingefügt durch Anhang Ziff. II 1 des BG vom 18. März 2016 betreffend die Überwachung des Post- und Fernmeldeverkehrs, in Kraft seit 1. März 2018 ([AS 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31); [BBl 2013 2683](https://fedlex.data.admin.ch/eli/fga/2013/512)).
+[^286-15]: [SR 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^286-16]: Eingefügt durch Anhang Ziff. 1 des BB vom 29. Sept. 2017 (Medicrime-Konvention), in Kraft seit 1. Jan. 2019 ([AS 2018 4771](https://fedlex.data.admin.ch/eli/oc/2018/765); [BBl 2017 3135](https://fedlex.data.admin.ch/eli/fga/2017/649)).
+[^286-17]: [SR 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
+[^286-18]: Eingefügt durch Anhang Ziff. II 2 des Geldspielgesetzes vom 29. Sept. 2017, in Kraft seit 1. Jan. 2019 ([AS 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [BBl 2015 8387](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
+[^286-19]: [SR 935.51](https://fedlex.data.admin.ch/eli/cc/2018/795)
+[^286-20]: Eingefügt durch Anhang Ziff. II 3 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Übereinkommens des Europarats zur Verhütung des Terrorismus mit dem dazugehörigen Zusatzprotokoll sowie über die Verstärkung des strafrechtlichen Instrumentariums gegen Terrorismus und organisierte Kriminalität, in Kraft seit 1. Juli 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^286-21]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^286-22]: [SR 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
 
 #### Art. 287
 
@@ -4053,11 +4214,16 @@ Die Führungsperson hat insbesondere folgende Aufgaben:
 
 #### Art. 294
 
-**Einsatz bei der Verfolgung von Delikten gegen das Betäubungsmittelgesetz**
+**Straflosigkeit**[^294-1]
 
-Verdeckte Ermittlerinnen und Ermittler sind nicht nach den Artikeln 19 sowie 20–22 des Betäubungsmittelgesetzes vom 3. Oktober 1951[^294-1] strafbar, soweit sie im Rahmen einer genehmigten verdeckten Ermittlung handeln.
+Soweit verdeckte Ermittlerinnen und Ermittler im Rahmen einer genehmigten verdeckten Ermittlung handeln, sind sie nach den folgenden Bestimmungen nicht strafbar:
 
-[^294-1]: [SR 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
+- a. bei der Verfolgung von Pornografie mit Minderjährigen oder sexuellen Handlungen mit Minderjährigen: nach Artikel 197 Absätze 4 und 5 StGB[^294-2], soweit die Gegenstände oder Vorführungen nicht tatsächliche sexuelle Handlungen mit Minderjährigen zum Inhalt haben;
+- b. bei der Verfolgung von Delikten gegen das BetmG[^294-3]: nach den Artikeln 19 sowie 20–22 BetmG.
+
+[^294-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^294-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^294-3]: [SR 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
 
 #### Art. 295
 
@@ -4198,9 +4364,13 @@ Das Vorverfahren wird eingeleitet durch:
 
 <sup>1</sup> Jede Person ist berechtigt, Straftaten bei einer Strafverfolgungsbehörde schriftlich oder mündlich anzuzeigen.
 
+<sup>1bis</sup> Die anzeigende Person kann von der Strafverfolgungsbehörde eine Bestätigung der mündlich zu Protokoll gegebenen Anzeige verlangen.[^301-1]
+
 <sup>2</sup> Die Strafverfolgungsbehörde teilt der anzeigenden Person auf deren Anfrage mit, ob ein Strafverfahren eingeleitet und wie es erledigt wird.
 
 <sup>3</sup> Der anzeigenden Person, die weder geschädigt noch Privatklägerin oder Privatkläger ist, stehen keine weitergehenden Verfahrensrechte zu.
+
+[^301-1]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 302
 
@@ -4219,6 +4389,16 @@ Das Vorverfahren wird eingeleitet durch:
 <sup>1</sup> Bei Straftaten, die nur auf Antrag oder nach Ermächtigung verfolgt werden, wird ein Vorverfahren erst eingeleitet, wenn der Strafantrag gestellt oder die Ermächtigung erteilt wurde.
 
 <sup>2</sup> Die zuständige Behörde kann schon vorher die unaufschiebbaren sichernden Massnahmen treffen.
+
+#### Art. 303a
+
+**Sicherheitsleistung bei Ehrverletzungsdelikten**[^303a-1]
+
+<sup>1</sup> Bei Ehrverletzungsdelikten kann die Staatsanwaltschaft die antragstellende Person auffordern, innert einer Frist für allfällige Kosten und Entschädigungen eine Sicherheit zu leisten.
+
+<sup>2</sup> Wird die Sicherheit nicht fristgerecht geleistet, so gilt der Strafantrag als zurückgezogen.
+
+[^303a-1]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 304
 
@@ -4418,9 +4598,14 @@ In umfangreichen und komplizierten Vorverfahren befragt die Staatsanwaltschaft d
 
 <sup>1</sup> Erachtet die Staatsanwaltschaft die Untersuchung als vollständig, so erlässt sie einen Strafbefehl oder kündigt den Parteien mit bekanntem Wohnsitz schriftlich den bevorstehenden Abschluss an und teilt ihnen mit, ob sie Anklage erheben oder das Verfahren einstellen will. Gleichzeitig setzt sie den Parteien eine Frist, Beweisanträge zu stellen.
 
+<sup>1bis</sup> Sie teilt den geschädigten Personen mit bekanntem Wohnsitz, die noch nicht über ihre Rechte informiert wurden, schriftlich mit, dass sie einen Strafbefehl erlassen, Anklage erheben oder das Verfahren durch Einstellung abschliessen will, und setzt ihnen eine Frist, innerhalb welcher sie sich als Privatklägerschaft konstituieren und Beweisanträge stellen können.[^318-1]
+
 <sup>2</sup> Sie kann Beweisanträge nur ablehnen, wenn damit die Beweiserhebung über Tatsachen verlangt wird, die unerheblich, offenkundig, der Strafbehörde bekannt oder bereits rechtsgenügend erwiesen sind. Der Entscheid ergeht schriftlich und mit kurzer Begründung. Abgelehnte Beweisanträge können im Hauptverfahren erneut gestellt werden.
 
-<sup>3</sup> Mitteilungen nach Absatz 1 und Entscheide nach Absatz 2 sind nicht anfechtbar.
+<sup>3</sup> Mitteilungen nach den Absätzen 1 und 1<sup>bis</sup> sowie Entscheide nach Absatz 2 sind nicht anfechtbar.[^318-2]
+
+[^318-1]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^318-2]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 ### 4. Kapitel: Einstellung des Verfahrens und Anklageerhebung
 
@@ -4483,6 +4668,10 @@ Die Staatsanwaltschaft teilt die Einstellungsverfügung mit:
 <sup>1</sup> Bund und Kantone können bestimmen, dass die Einstellungsverfügung durch die Ober- oder Generalstaatsanwaltschaft zu genehmigen ist.
 
 <sup>2</sup> Die Parteien können die Einstellungsverfügung innert 10 Tagen bei der Beschwerdeinstanz anfechten.
+
+<sup>3</sup> Ergeht im Rahmen der Einstellungsverfügung ein Entscheid auf Einziehung, so kann dagegen Einsprache erhoben werden. Das Einspracheverfahren richtet sich nach den Bestimmungen über den Strafbefehl. Ein allfälliger Entscheid des Gerichts ergeht in Form eines Beschlusses oder einer Verfügung.[^322-1]
+
+[^322-1]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 323
 
@@ -4607,13 +4796,15 @@ Die Verfahrensleitung prüft, ob:
 
 <sup>1</sup> Die Verfahrensleitung bestimmt, welche Beweise in der Hauptverhandlung erhoben werden. Sie teilt den Parteien mit, in welcher Zusammensetzung das Gericht tagen wird und welche Beweise erhoben werden sollen.
 
-<sup>2</sup> Sie setzt den Parteien gleichzeitig Frist, um Beweisanträge zu stellen und zu begründen; dabei macht sie die Parteien auf die möglichen Kosten- und Entschädigungsfolgen verspäteter Beweisanträge aufmerksam.
+<sup>2</sup> Sie setzt den Parteien gleichzeitig Frist, um Beweisanträge zu stellen und zu begründen; dabei macht sie die Parteien auf die möglichen Kosten- und Entschädigungsfolgen verspäteter Beweisanträge aufmerksam. Sie setzt der Privatklägerschaft die gleiche Frist zur Bezifferung und Begründung ihrer Zivilklage.[^331-1]
 
 <sup>3</sup> Lehnt sie Beweisanträge ab, so teilt sie dies den Parteien mit kurzer Begründung mit. Die Ablehnung ist nicht anfechtbar, doch können abgelehnte Beweisanträge an der Hauptverhandlung erneut gestellt werden.
 
 <sup>4</sup> Die Verfahrensleitung setzt Datum, Zeit und Ort der Hauptverhandlung fest und lädt die Parteien sowie die Zeuginnen und Zeugen, Auskunftspersonen und Sachverständigen vor, die einvernommen werden sollen.
 
 <sup>5</sup> Sie entscheidet endgültig über Verschiebungsgesuche, die vor Beginn der Hauptverhandlung eingehen.
+
+[^331-1]: Zweiter Satz eingefügt durch Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 332
 
@@ -4761,16 +4952,28 @@ Sind allfällige Vorfragen behandelt, so hat dies zur Folge, dass:
 
 <sup>1</sup>
 
-Das Gericht kann auf Antrag der beschuldigten Person oder der Staatsanwaltschaft oder von Amtes wegen die Hauptverhandlung zweiteilen; dabei kann es bestimmen, dass:
+Auf Antrag der beschuldigten Person oder der Staatsanwaltschaft oder von Amtes wegen kann die Hauptverhandlung zweigeteilt werden; dabei kann bestimmt werden, dass:
 
 - a. in einem ersten Verfahrensteil nur die Tat- und die Schuldfrage, in einem zweiten die Folgen eines Schuld- oder Freispruchs behandelt werden; oder
 - b. in einem ersten Verfahrensteil nur die Tatfrage und in einem zweiten die Schuldfrage sowie die Folgen eines Schuld- oder Freispruchs behandelt werden.
+
+<sup>1bis</sup>
+
+Für die Entscheidung ist zuständig:
+
+- a. bis zur Eröffnung der Hauptverhandlung: die Verfahrensleitung;
+- b. nach Eröffnung der Hauptverhandlung: das Gericht.[^342-1]
+
+<sup>1ter</sup> Lehnt die Verfahrensleitung den Antrag über die Zweiteilung der Hauptverhandlung ab, so teilt sie dies den Parteien mit kurzer Begründung mit. Der Antrag kann an der Hauptverhandlung erneut gestellt werden.[^342-2]
 
 <sup>2</sup> Die Entscheidung über die Zweiteilung der Hauptverhandlung ist nicht anfechtbar.
 
 <sup>3</sup> Bei einer Zweiteilung dürfen die persönlichen Verhältnisse der beschuldigten Person nur im Falle eines Schuldspruchs zum Gegenstand der Hauptverhandlung gemacht werden, es sei denn, dass sie für die Frage des objektiven oder subjektiven Tatbestandes von Bedeutung sind.
 
 <sup>4</sup> Die Entscheide über die Tat- und die Schuldfrage werden nach ihrer Beratung eröffnet, sind jedoch erst mit dem gesamten Urteil anfechtbar.
+
+[^342-1]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^342-2]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 343
 
@@ -4871,7 +5074,7 @@ Hat die beschuldigte Person im Vorverfahren den Sachverhalt eingestanden oder is
 
 - a. eine Busse;
 - b. eine Geldstrafe von höchstens 180 Tagessätzen;
-- c.[^352-1] *…*
+- c.[^352-1] …
 - d. eine Freiheitsstrafe von höchstens 6 Monaten.
 
 <sup>2</sup> Jede dieser Strafen kann mit einer Massnahme nach den Artikeln 66 und 67*e*–73 StGB[^352-2] verbunden werden.[^352-3]
@@ -4881,6 +5084,14 @@ Hat die beschuldigte Person im Vorverfahren den Sachverhalt eingestanden oder is
 [^352-1]: Aufgehoben durch Anhang Ziff. 3 des BG vom 19. Juni 2015 (Änderungen des Sanktionenrechts), mit Wirkung seit 1. Jan. 2018 ([AS 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [BBl 2012 4721](https://fedlex.data.admin.ch/eli/fga/2012/670)).
 [^352-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^352-3]: Fassung gemäss Anhang Ziff. 5 des BG vom 20. März 2015 (Umsetzung von Art. 121 Abs. 3–6 BV über die Ausschaffung krimineller Ausländerinnen und Ausländer), in Kraft seit 1. Okt. 2016 ([AS 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [BBl 2013 5975](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
+
+#### Art. 352a
+
+**Einvernahme**[^352a-1]
+
+Ist zu erwarten, dass der Strafbefehl eine zu verbüssende Freiheitsstrafe zur Folge hat, so führt die Staatsanwaltschaft eine Einvernahme der beschuldigten Person durch.
+
+[^352a-1]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 353
 
@@ -4903,11 +5114,17 @@ Der Strafbefehl enthält:
 - j. Ort und Datum der Ausstellung;
 - k. die Unterschrift der ausstellenden Person.
 
-<sup>2</sup> Soweit die beschuldigte Person Zivilforderungen der Privatklägerschaft anerkannt hat, wird dies im Strafbefehl vorgemerkt. Nicht anerkannte Forderungen werden auf den Zivilweg verwiesen.
+<sup>2</sup>
+
+Die Staatsanwaltschaft kann im Strafbefehlsverfahren über Zivilforderungen entscheiden, soweit diese von der beschuldigten Person anerkannt sind oder sofern:
+
+- a. deren Beurteilung ohne weitere Beweiserhebungen möglich ist; und
+- b. der Streitwert 30 000 Franken nicht übersteigt.[^353-2]
 
 <sup>3</sup> Der Strafbefehl wird den Personen und Behörden, die zur Einsprache befugt sind, unverzüglich schriftlich eröffnet.
 
 [^353-1]: Eingefügt durch Anhang 1 Ziff. 2 des BG vom 17. Dez. 2021, in Kraft seit 1. Aug. 2023 ([AS 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [BBl 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
+[^353-2]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 354
 
@@ -4918,12 +5135,18 @@ Der Strafbefehl enthält:
 Gegen den Strafbefehl können bei der Staatsanwaltschaft innert 10 Tagen schriftlich Einsprache erheben:
 
 - a. die beschuldigte Person;
+- a<sup>bis</sup>.[^354-1] die Privatklägerschaft;
 - b. weitere Betroffene;
 - c. soweit vorgesehen die Ober- oder Generalstaatsanwaltschaft des Bundes oder des betreffenden Kantons im jeweiligen eidgenössischen oder kantonalen Verfahren.
+
+<sup>1bis</sup> Die Privatklägerschaft kann einen Strafbefehl hinsichtlich der ausgesprochenen Sanktion nicht anfechten.[^354-2]
 
 <sup>2</sup> Die Einsprachen sind zu begründen; ausgenommen ist die Einsprache der beschuldigten Person.
 
 <sup>3</sup> Ohne gültige Einsprache wird der Strafbefehl zum rechtskräftigen Urteil.
+
+[^354-1]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^354-2]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 355
 
@@ -5076,6 +5299,10 @@ Das Gericht befindet frei darüber, ob:
 
 <sup>4</sup> Es gibt den betroffenen Personen und Behörden Gelegenheit, sich zum vorgesehenen Entscheid zu äussern und Anträge zu stellen.
 
+<sup>5</sup> Das Verfahren vor dem Gericht (Art. 363 Abs. 1) richtet sich im Übrigen sinngemäss nach den Bestimmungen über das erstinstanzliche Hauptverfahren; für das schriftliche Verfahren gilt sinngemäss Artikel 390.[^364-1]
+
+[^364-1]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+
 #### Art. 364a
 
 **Sicherheitshaft im Hinblick auf einen selbstständigen nachträglichen Entscheid des Gerichts**[^364a-1]
@@ -5119,6 +5346,10 @@ Die Behörde, die für die Einleitung des Verfahrens auf Erlass eines selbststä
 <sup>1</sup> Das Gericht entscheidet gestützt auf die Akten. Es kann auch eine Verhandlung anordnen.
 
 <sup>2</sup> Es erlässt seinen Entscheid schriftlich und begründet ihn kurz. Hat eine Verhandlung stattgefunden, so eröffnet es seinen Entscheid sofort mündlich.
+
+<sup>3</sup> Der Entscheid des Gerichts kann mit Berufung angefochten werden.[^365-1]
+
+[^365-1]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 ### 4. Kapitel: Verfahren bei Abwesenheit der beschuldigten Person
 
@@ -5277,7 +5508,10 @@ Ein selbstständiges Einziehungsverfahren wird durchgeführt, wenn ausserhalb ei
 
 <sup>3</sup> Sind die Voraussetzungen nicht erfüllt, so verfügt sie die Einstellung des Verfahrens und gibt die Gegenstände oder Vermögenswerte der berechtigten Person zurück.
 
-<sup>4</sup> Das Einspracheverfahren richtet sich nach den Bestimmungen über den Strafbefehl. Ein allfälliger Entscheid des Gerichts ergeht in Form eines Beschlusses oder einer Verfügung.
+<sup>4</sup> Das Einspracheverfahren richtet sich nach den Bestimmungen über den Strafbefehl. Ein allfälliger Entscheid des Gerichts ergeht in Form eines Urteils.[^377-1] Der Entscheid des Gerichts kann mit Berufung angefochten werden.[^377-2]
+
+[^377-1]: Fassung des zweiten Satzes gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^377-2]: Dritter Satz eingefügt durch Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 378
 
@@ -5311,12 +5545,17 @@ Bezeichnet dieses Gesetz einen Entscheid als endgültig oder nicht anfechtbar, s
 
 <sup>3</sup> Sie regeln, welche Behörden im Übertretungsstrafverfahren Rechtsmittel ergreifen können.
 
-<sup>4</sup>
+<sup>4</sup> …[^381-1]
 
-Die Staatsanwaltschaft des Bundes kann gegen kantonale Entscheide Rechtsmittel ergreifen, wenn:
+[^381-1]: Aufgehoben durch Ziff. I des BG vom 17. Juni 2022, mit Wirkung seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
-- a. das Bundesrecht vorsieht, dass ihr oder einer anderen Bundesbehörde der Entscheid mitzuteilen ist;
-- b. sie die Strafsache den kantonalen Behörden zur Untersuchung und Beurteilung überwiesen hat.
+#### Art. 381a
+
+**Legitimation von Bundesbehörden**[^381a-1]
+
+Bundesbehörden können gegen kantonale Entscheide Rechtsmittel ergreifen, wenn das Bundesrecht vorsieht, dass ihnen der Entscheid mitzuteilen ist.
+
+[^381a-1]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368))
 
 #### Art. 382
 
@@ -5387,13 +5626,26 @@ Rechtsmittel haben keine aufschiebende Wirkung; vorbehalten bleiben abweichende 
 
 #### Art. 388
 
-**Verfahrensleitende und vorsorgliche Massnahmen**
+**Zuständigkeit der Verfahrensleitung für verfahrensleitende und vorsorgliche Massnahmen sowie Nichteintretensentscheide[^388-1]**
+
+<sup>1</sup>
 
 Die Verfahrensleitung der Rechtsmittelinstanz trifft die notwendigen und unaufschiebbaren verfahrensleitenden und vorsorglichen Massnahmen. Sie kann namentlich:
 
 - a. die Staatsanwaltschaft mit unaufschiebbaren Beweiserhebungen beauftragen;
 - b. die Haft anordnen;
 - c. eine amtliche Verteidigung bestellen.
+
+<sup>2</sup>
+
+Sie entscheidet über das Nichteintreten auf:
+
+- a. offensichtlich unzulässige Rechtsmittel;
+- b. Rechtsmittel, die offensichtlich keine hinreichende Begründung enthalten;
+- c. querulatorische oder rechtsmissbräuchliche Rechtsmittel.[^388-2]
+
+[^388-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^388-2]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 389
 
@@ -5513,6 +5765,10 @@ Ist die Beschwerdeinstanz ein Kollegialgericht, so beurteilt deren Verfahrenslei
 
 <sup>4</sup> Stellt sie eine Rechtsverweigerung oder Rechtsverzögerung fest, so kann sie der betreffenden Behörde Weisungen erteilen und für deren Einhaltung Fristen setzen.
 
+<sup>5</sup> Die Beschwerdeinstanz entscheidet innerhalb von sechs Monaten.[^397-1]
+
+[^397-1]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+
 ### 3. Kapitel: Berufung
 
 ### 1. Abschnitt: Allgemeine Bestimmungen
@@ -5521,7 +5777,7 @@ Ist die Beschwerdeinstanz ein Kollegialgericht, so beurteilt deren Verfahrenslei
 
 **Zulässigkeit und Berufungsgründe**
 
-<sup>1</sup> Die Berufung ist zulässig gegen Urteile erstinstanzlicher Gerichte, mit denen das Verfahren ganz oder teilweise abgeschlossen worden ist.
+<sup>1</sup> Die Berufung ist zulässig gegen Urteile erstinstanzlicher Gerichte, mit denen das Verfahren ganz oder teilweise abgeschlossen worden ist, sowie gegen selbstständige nachträgliche Entscheide des Gerichts und gegen selbstständige Einziehungsentscheide.[^398-1]
 
 <sup>2</sup> Das Berufungsgericht kann das Urteil in allen angefochtenen Punkten umfassend überprüfen.
 
@@ -5536,6 +5792,8 @@ Mit der Berufung können gerügt werden:
 <sup>4</sup> Bildeten ausschliesslich Übertretungen Gegenstand des erstinstanzlichen Hauptverfahrens, so kann mit der Berufung nur geltend gemacht werden, das Urteil sei rechtsfehlerhaft oder die Feststellung des Sachverhalts sei offensichtlich unrichtig oder beruhe auf einer Rechtsverletzung. Neue Behauptungen und Beweise können nicht vorgebracht werden.
 
 <sup>5</sup> Beschränkt sich die Berufung auf den Zivilpunkt, so wird das erstinstanzliche Urteil nur so weit überprüft, als es das am Gerichtsstand anwendbare Zivilprozessrecht vorsehen würde.
+
+[^398-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 399
 
@@ -5690,7 +5948,11 @@ Die Berufung oder Anschlussberufung gilt als zurückgezogen, wenn die Partei, di
 
 **Neues Urteil**
 
-Tritt das Berufungsgericht auf die Berufung ein, so fällt es ein neues Urteil, welches das erstinstanzliche Urteil ersetzt.
+<sup>1</sup> Tritt das Berufungsgericht auf die Berufung ein, so fällt es ein neues Urteil, welches das erstinstanzliche Urteil ersetzt.
+
+<sup>2</sup> Das Berufungsgericht entscheidet innerhalb von zwölf Monaten.[^408-1]
+
+[^408-1]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 409
 
@@ -5957,11 +6219,16 @@ Erwirkt eine Partei, die ein Rechtsmittel ergriffen hat, einen für sie günstig
 
 Wird die beschuldigte Person ganz oder teilweise freigesprochen oder wird das Verfahren gegen sie eingestellt, so hat sie Anspruch auf:
 
-- a. Entschädigung ihrer Aufwendungen für die angemessene Ausübung ihrer Verfahrensrechte;
+- a.[^429-1] eine nach dem Anwaltstarif festgelegte Entschädigung ihrer Aufwendungen für die angemessene Ausübung ihrer Verfahrensrechte, wobei beim Anwaltstarif nicht unterschieden wird zwischen der zugesprochenen Entschädigung und den Honoraren für die private Verteidigung;
 - b. Entschädigung der wirtschaftlichen Einbussen, die ihr aus ihrer notwendigen Beteiligung am Strafverfahren entstanden sind;
 - c. Genugtuung für besonders schwere Verletzungen ihrer persönlichen Verhältnisse, insbesondere bei Freiheitsentzug.
 
 <sup>2</sup> Die Strafbehörde prüft den Anspruch von Amtes wegen. Sie kann die beschuldigte Person auffordern, ihre Ansprüche zu beziffern und zu belegen.
+
+<sup>3</sup> Hat die beschuldigte Person eine Wahlverteidigung mit ihrer Verteidigung betraut, so steht der Anspruch auf Entschädigung nach Absatz 1 Buchstabe a ausschliesslich der Verteidigung zu unter Vorbehalt der Abrechnung mit ihrer Klientschaft. Gegen den Entschädigungsentscheid kann die Verteidigung das Rechtsmittel ergreifen, das gegen den Endentscheid zulässig ist.[^429-2]
+
+[^429-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^429-2]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 430
 
@@ -5979,7 +6246,7 @@ Die Strafbehörde kann die Entschädigung oder Genugtuung herabsetzen oder verwe
 
 #### Art. 431
 
-**Rechtswidrig angewandte Zwangsmassnahmen**
+**Entschädigung und Genugtuung wegen rechtswidrig angewandter Zwangsmassnahmen und überlanger Haft[^431-1]**
 
 <sup>1</sup> Sind gegenüber der beschuldigten Person rechtswidrig Zwangsmassnahmen angewandt worden, so spricht ihr die Strafbehörde eine angemessene Entschädigung und Genugtuung zu.
 
@@ -5991,6 +6258,8 @@ Der Anspruch nach Absatz 2 entfällt, wenn die beschuldigte Person:
 
 - a. zu einer Geldstrafe, zu gemeinnütziger Arbeit oder zu einer Busse verurteilt wird, die umgewandelt eine Freiheitsstrafe ergäbe, die nicht wesentlich kürzer wäre als die ausgestandene Untersuchungs- und Sicherheitshaft;
 - b. zu einer bedingten Freiheitsstrafe verurteilt wird, deren Dauer die ausgestandene Untersuchungs- und Sicherheitshaft überschreitet.
+
+[^431-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 432
 
@@ -6101,7 +6370,7 @@ Rechtskräftige Freiheitsstrafen und freiheitsentziehende Massnahmen sind sofort
 
 **Sicherheitshaft**
 
-<sup>1</sup> In dringenden Fällen kann die Vollzugsbehörde die verurteilte Person zur Sicherung des Vollzugs der Strafe oder der Massnahme in Sicherheitshaft setzen.
+<sup>1</sup> Die Vollzugsbehörde kann die verurteilte Person zur Sicherung des Vollzugs der Strafe oder der Massnahme in Sicherheitshaft setzen, wenn eine der Voraussetzungen nach Artikel 439 Absatz 3 erfüllt ist.[^440-1]
 
 <sup>2</sup>
 
@@ -6110,7 +6379,13 @@ Sie unterbreitet den Fall innert 5 Tagen seit der Inhaftierung:
 - a. dem Gericht, das die zu vollziehende Strafe oder Massnahme ausgesprochen hat;
 - b. bei Strafbefehlen dem Zwangsmassnahmengericht am Ort der Staatsanwaltschaft, die den Strafbefehl erlassen hat.
 
-<sup>3</sup> Das Gericht entscheidet endgültig, ob die verurteilte Person bis zum Antritt der Strafe oder Massnahme in Haft bleibt.
+<sup>3</sup> Das Gericht entscheidet, ob die verurteilte Person bis zum Antritt der Strafe oder Massnahme in Haft bleibt.[^440-2]
+
+<sup>4</sup> Zuständig für Haftentlassungsgesuche ist das Gericht, das die Sicherheitshaft angeordnet hat.[^440-3]
+
+[^440-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^440-2]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^440-3]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 441
 
@@ -6328,11 +6603,3 @@ Unabhängig davon, ob das neue OHG oder die StPO zuerst in Kraft tritt, wird mit
 Unabhängig davon, ob das neue OHG oder die StPO zuerst in Kraft tritt, werden mit Inkrafttreten des später in Kraft tretenden Gesetzes sowie bei gleichzeitigem Inkrafttreten die Artikel 84a, 104 Absatz 3 und 118 Absatz 2 von Ziffer 12 des Anhangs 1 der StPO wie folgt geändert:
 
 …
-
-### 4. Koordination von Art. 269 Abs. 2 Bst. a mit dem BB vom 18. Dezember 2015 über die Genehmigung und die Umsetzung des Internationalen Übereinkommens zum Schutz aller Personen vor dem Verschwindenlassen
-
-Unabhängig davon, ob zuerst die vorliegende Änderung der Strafprozessordnung oder die Änderung vom 18. Dezember 2015[^annex2-lvlu1-lvl4-1] in Kraft tritt, lautet mit Inkrafttreten des später in Kraft tretenden Gesetzes sowie bei gleichzeitigem Inkrafttreten die nachfolgende Bestimmung wie folgt:
-
-…
-
-[^annex2-lvlu1-lvl4-1]: [AS 2016 4687](https://fedlex.data.admin.ch/eli/oc/2016/756)

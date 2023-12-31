@@ -4,11 +4,11 @@ title: "Code de procédure pénale suisse du 5 octobre 2007 (Code de procédure 
 short: CPP
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/267"
 language: fr
-version: 2023-08-01
+version: 2024-01-01
 adopted: 2007-10-05
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/267/20230801/fr/xml/fedlex-data-admin-ch-eli-cc-2010-267-20230801-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20230801/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/267/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2010-267-20240101-fr-xml-12.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20230801/fr"
 
 (Code de procédure pénale, CPP)
 
-du 5 octobre 2007 (État le 1<sup>er</sup> août 2023)
+du 5 octobre 2007 (État le 1<sup>er</sup> janvier 2024)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -238,9 +238,10 @@ Ont des attributions judiciaires dans le cadre de la procédure pénale:
 La Confédération et les cantons peuvent prévoir un juge unique qui statue en première instance sur:
 
 - a. les contraventions;
-- b. les crimes et les délits, à l’exception de ceux pour lesquels le ministère public requiert une peine privative de liberté supérieure à deux ans, un internement au sens de l’art. 64 CP[^19-1], un traitement au sens de l’art. 59, al. 3, CP, ou une privation de liberté de plus de deux ans lors de la révocation d’un sursis.
+- b.[^19-1] les crimes et les délits, à l’exception de ceux pour lesquels le ministère public requiert une peine privative de liberté supérieure à deux ans, un internement au sens de l’art. 64 CP[^19-2], un traitement au sens de l’art. 59 CP, ou une privation de liberté de plus de deux ans lors de la révocation d’un sursis.
 
-[^19-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^19-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^19-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
 #### Art. 20
 
@@ -489,11 +490,13 @@ Si des raisons objectives le justifient, le ministère public et les tribunaux p
 
 **Conflits de fors**
 
-<sup>1</sup> Les conflits de fors entre autorités pénales d’un même canton sont tranchés définitivement par le premier procureur ou le procureur général, ou, s’ils n’ont pas été institués, par l’autorité de recours de ce canton.
+<sup>1</sup> Les conflits de for entre autorités pénales d’un même canton sont tranchés par le premier procureur ou le procureur général, ou, s’ils n’ont pas été institués, par l’autorité de recours de ce canton.[^40-1]
 
 <sup>2</sup> Lorsque les autorités de poursuite pénale de différents cantons ne peuvent s’entendre sur le for, le ministère public du canton saisi en premier de la cause soumet la question sans retard, et, en tout cas, avant la mise en accusation, au Tribunal pénal fédéral, qui tranche.
 
 <sup>3</sup> L’autorité compétente en matière de for peut convenir d’un autre for que celui prévu aux art. 31 à 37 lorsque la part prépondérante de l’activité délictueuse, la situation personnelle du prévenu ou d’autres motifs pertinents l’exigent.
+
+[^40-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 41
 
@@ -555,7 +558,7 @@ Les autorités fédérales et cantonales sont tenues de s’accorder l’entraid
 
 <sup>3</sup> Si l’autorité requérante ne sait pas quelle est l’autorité compétente, elle adresse la demande d’entraide judiciaire à la plus haute instance du ministère public du canton requis ou de la Confédération. Celui-ci la transmet à l’autorité compétente.
 
-[^46-1]: L’autorité judiciaire suisse territorialement compétente en matière de commissions rogatoires se trouve en ligne à l’adresse suivante: www.elorge.admin.ch.
+[^46-1]: L’autorité judiciaire suisse territorialement compétente en matière de commissions rogatoires se trouve en ligne à l’adresse suivante: [www.elorge.admin.ch](https://www.elorge.admin.ch).
 
 #### Art. 47
 
@@ -633,7 +636,7 @@ Le présent code ne règle l’octroi de l’entraide judiciaire internationale 
 
 #### Art. 55
 
-**Compétence**
+**Compétence en général[^55-1]**
 
 <sup>1</sup> Lorsqu’un canton est saisi d’une demande d’entraide judiciaire internationale, le ministère public du canton concerné est compétent.
 
@@ -646,6 +649,16 @@ Le présent code ne règle l’octroi de l’entraide judiciaire internationale 
 <sup>5</sup> Les dispositions sur l’entraide judiciaire nationale sont applicables aux cas dans lesquels le canton en charge de l’exécution d’une demande d’entraide judiciaire étrangère accomplit des actes de procédure dans d’autres cantons.
 
 <sup>6</sup> Les cantons règlent les modalités de la procédure.
+
+[^55-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+
+#### Art. 55a
+
+**Compétence du tribunal des mesures de contrainte**[^55a-1]
+
+Lorsqu’une autorité de poursuite pénale suisse formule une demande d’entraide judiciaire pour une mesure de contrainte devant être exécutée à l’étranger et que l’État requis exige la décision d’un tribunal, le tribunal des mesures de contrainte est compétent pour approuver la mesure.
+
+[^55a-1]: Introduit par le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 ### Chapitre 6 Récusation
 
@@ -682,12 +695,12 @@ Lorsqu’une personne qui exerce une fonction au sein d’une autorité pénale 
 
 <sup>1</sup>
 
-Lorsqu’un motif de récusation au sens de l’art. 56, let. a ou f, est invoqué ou qu’une personne exerçant une fonction au sein d’une autorité pénale s’oppose à la demande de récusation d’une partie qui se fonde sur l’un des motifs énumérés à l’art. 56, let. b à e, le litige est tranché sans administration supplémentaire de preuves et définitivement:
+Lorsqu’un motif de récusation au sens de l’art. 56, let. a ou f, est invoqué ou qu’une personne exerçant une fonction au sein d’une autorité pénale s’oppose à la demande de récusation d’une partie qui se fonde sur l’un des motifs énumérés à l’art. 56, let. b à e, le litige est tranché sans administration supplémentaire de preuves:[^59-1]
 
 - a. par le ministère public, lorsque la police est concernée;
 - b. par l’autorité de recours, lorsque le ministère public, les autorités pénales compétentes en matière de contraventions et les tribunaux de première instance sont concernés;
 - c. par la juridiction d’appel, lorsque l’autorité de recours et des membres de la juridiction d’appel sont concernés;
-- d.[^59-1] par le Tribunal pénal fédéral lorsque l’ensemble de la juridiction d’appel d’un canton est concerné.
+- d.[^59-2] par le Tribunal pénal fédéral lorsque l’ensemble de la juridiction d’appel d’un canton est concerné.
 
 <sup>2</sup> La décision est rendue par écrit et doit être motivée.
 
@@ -695,17 +708,20 @@ Lorsqu’un motif de récusation au sens de l’art. 56, let. a ou f, est invoqu
 
 <sup>4</sup> Si la demande est admise, les frais de procédure sont mis à la charge de la Confédération ou du canton. Si elle est rejetée ou qu’elle est manifestement tardive ou téméraire, les frais sont mis à la charge du requérant.
 
-[^59-1]: Nouvelle teneur selon le ch. II 3 de la L du 17 mars 2017 (Création d’une cour d’appel au TPF), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 5769](https://fedlex.data.admin.ch/eli/oc/2017/624); [FF 2013 6375](https://fedlex.data.admin.ch/eli/fga/2013/1333), [2016 5983](https://fedlex.data.admin.ch/eli/fga/2016/1190)).
+[^59-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^59-2]: Nouvelle teneur selon le ch. II 3 de la L du 17 mars 2017 (Création d’une cour d’appel au TPF), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 5769](https://fedlex.data.admin.ch/eli/oc/2017/624); [FF 2013 6375](https://fedlex.data.admin.ch/eli/fga/2013/1333), [2016 5983](https://fedlex.data.admin.ch/eli/fga/2016/1190)).
 
 #### Art. 60
 
 **Conséquences de la violation des dispositions sur la récusation**
 
-<sup>1</sup> Les actes de procédure auxquels a participé une personne tenue de se récuser sont annulés et répétés si une partie le demande au plus tard cinq jours après qu’elle a eu connaissance du motif de la récusation.
+<sup>1</sup> Les actes de procédure auxquels a participé une personne tenue de se récuser sont annulés et répétés si une partie le demande au plus tard cinq jours après qu’elle a eu connaissance de la décision de récusation.[^60-1]
 
 <sup>2</sup> Les mesures probatoires non renouvelables peuvent être prises en considération par l’autorité pénale.
 
 <sup>3</sup> Si un motif de récusation n’est découvert qu’après la clôture de la procédure, les dispositions sur la révision sont applicables.
+
+[^60-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 ### Chapitre 7 Direction de la procédure
 
@@ -925,7 +941,7 @@ Les procès-verbaux de procédure relatent tous les actes essentiels de procédu
 
 #### Art. 78
 
-**Procès-verbaux des auditions**
+**Procès-verbaux des auditions en général[^78-1]**
 
 <sup>1</sup> Les dépositions des parties, des témoins, des personnes appelées à donner des renseignements et des experts sont consignées au procès-verbal séance tenante.
 
@@ -937,14 +953,27 @@ Les procès-verbaux de procédure relatent tous les actes essentiels de procédu
 
 <sup>5</sup> À l’issue de l’audition, le procès-verbal est lu ou remis pour lecture à la personne entendue. Après en avoir pris connaissance, la personne entendue appose sa signature au bas du procès-verbal et en paraphe chaque page. Si elle refuse de lire intégralement ou de signer le procès-verbal, le refus et les motifs invoqués sont consignés au procès-verbal.
 
-<sup>5bis</sup> Si, durant les débats, une audition est enregistrée par des moyens techniques, le tribunal peut renoncer à lire le procès-verbal à la personne entendue ou à le lui remettre pour lecture et à le lui faire signer. Les enregistrements doivent être versés au dossier.[^78-1]
+<sup>5bis</sup> …[^78-2]
 
 <sup>6</sup> Si l’autorité pénale a procédé à une audition par vidéoconférence, la déclaration orale de la personne entendue, selon laquelle elle a pris acte du procès-verbal, vaut signature et paraphe de celui-ci. La déclaration est consignée au procès-verbal.
 
-<sup>7</sup> Si la lisibilité d’un procès-verbal manuscrit se révèle insuffisante ou si les dépositions ont été enregistrées en sténographie, le texte en est mis au net sans délai. Les notes doivent être conservées jusqu’à la clôture de la procédure.[^78-2]
+<sup>7</sup> Si la lisibilité d’un procès-verbal manuscrit se révèle insuffisante ou si les dépositions ont été enregistrées en sténographie, le texte en est mis au net sans délai. Les notes doivent être conservées jusqu’à la clôture de la procédure.[^78-3]
 
-[^78-1]: Introduit par le ch. I 2 de la LF du 28 sept. 2012 (Disp. relatives à la rédaction des procès-verbaux), en vigueur depuis le 1<sup>er</sup> mai 2013 ([RO 2013 851](https://fedlex.data.admin.ch/eli/oc/2013/178); [FF 2012 5281](https://fedlex.data.admin.ch/eli/fga/2012/860)[5293](https://fedlex.data.admin.ch/eli/fga/2012/862)).
-[^78-2]: Nouvelle teneur selon le ch. I 2 de la LF du 28 sept. 2012 (Disp. relatives à la rédaction des procès-verbaux), en vigueur depuis le 1<sup>er</sup> mai 2013 ([RO 2013 851](https://fedlex.data.admin.ch/eli/oc/2013/178); [FF 2012 5281](https://fedlex.data.admin.ch/eli/fga/2012/860)[5293](https://fedlex.data.admin.ch/eli/fga/2012/862)).
+[^78-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^78-2]: Introduit par le ch. I 2 de la LF du 28 sept. 2012 (Disp. relatives à la rédaction des procès-verbaux) ([RO 2013 851](https://fedlex.data.admin.ch/eli/oc/2013/178); [FF 2012 5281](https://fedlex.data.admin.ch/eli/fga/2012/860)[5293](https://fedlex.data.admin.ch/eli/fga/2012/862)). Abrogé par le ch. I de la LF du 17 juin 2022, avec effet au 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^78-3]: Nouvelle teneur selon le ch. I 2 de la LF du 28 sept. 2012 (Disp. relatives à la rédaction des procès-verbaux), en vigueur depuis le 1<sup>er</sup> mai 2013 ([RO 2013 851](https://fedlex.data.admin.ch/eli/oc/2013/178); [FF 2012 5281](https://fedlex.data.admin.ch/eli/fga/2012/860)[5293](https://fedlex.data.admin.ch/eli/fga/2012/862)).
+
+#### Art. 78a
+
+**Procès-verbaux des auditions en cas d’enregistrement**[^78a-1]
+
+Si une audition est enregistrée par des moyens techniques, les dérogations suivantes s’appliquent en dérogation aux règles générales (art. 78):
+
+- a. le procès-verbal peut être établi à l’issue de l’audition, sur la base de l’enregistrement; le délai de rédaction ne doit en principe pas dépasser sept jours;
+- b. l’autorité qui procède à l’audition peut renoncer à lire le procès-verbal à la personne entendue ou à le lui remettre pour lecture et à le lui faire signer et parapher;
+- c. l’enregistrement est immédiatement versé au dossier.
+
+[^78a-1]: Introduit par le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 79
 
@@ -962,11 +991,13 @@ Les procès-verbaux de procédure relatent tous les actes essentiels de procédu
 
 **Forme**
 
-<sup>1</sup> Les prononcés qui tranchent des questions civiles ou pénales sur le fond revêtent la forme de jugements. Les autres prononcés revêtent la forme de décisions, lorsqu’ils émanent d’une autorité collégiale, ou d’ordonnances, lorsqu’ils sont rendus par une seule personne. Les dispositions régissant la procédure de l’ordonnance pénale sont réservées.
+<sup>1</sup> Les prononcés qui tranchent des questions civiles ou pénales sur le fond ainsi que les décisions judiciaires ultérieures indépendantes et les décisions de confiscation indépendantes revêtent la forme de jugements.[^80-1] Les autres prononcés revêtent la forme de décisions, lorsqu’ils émanent d’une autorité collégiale, ou d’ordonnances, lorsqu’ils sont rendus par une seule personne. Les dispositions régissant la procédure de l’ordonnance pénale sont réservées.
 
 <sup>2</sup> Les prononcés sont rendus par écrit et motivés. Ils sont signés par la direction de la procédure et par le préposé au procès-verbal et sont notifiés aux parties.
 
 <sup>3</sup> Les décisions et ordonnances simples d’instruction ne doivent pas nécessairement être rédigées séparément ni être motivées; elles sont consignées au procès-verbal et notifiées aux parties de manière appropriée.
+
+[^80-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 81
 
@@ -1017,7 +1048,7 @@ Le dispositif contient:
 Le tribunal de première instance renonce à une motivation écrite du jugement aux conditions suivantes:
 
 - a. il motive le jugement oralement;
-- b. il ne prononce pas de peine privative de liberté supérieure à deux ans, d’internement au sens de l’art. 64 CP[^82-1], de traitement au sens de l’art. 59, al. 3, CP ou de privation de liberté de plus de deux ans lors de la révocation d’un sursis.
+- b.[^82-1] il ne prononce pas de peine privative de liberté supérieure à deux ans, d’internement au sens de l’art. 64 CP[^82-2], de traitement au sens de l’art. 59 CP ou, lors de la révocation d’un sursis, de privation de liberté de plus de deux ans.
 
 <sup>2</sup>
 
@@ -1030,7 +1061,8 @@ Le tribunal notifie ultérieurement aux parties un jugement motivé dans les cas
 
 <sup>4</sup> Lors de la procédure de recours, le tribunal peut, s’agissant de l’appréciation en fait et en droit des faits faisant l’objet de l’accusation, renvoyer à l’exposé des motifs de l’autorité inférieure.
 
-[^82-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^82-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^82-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
 #### Art. 83
 
@@ -1220,14 +1252,18 @@ Lorsque les autorités pénales compétentes traitent des données personnelles,
 
 Sont réservés:
 
-- a. les art. 11, 13, 14 et 20 de la loi fédérale du 21 mars 1997 instituant des mesures visant au maintien de la sûreté intérieure[^96-1];
-- b. les dispositions de la loi fédérale du 13 juin 2008 sur les systèmes d’information de police de la Confédération[^96-2];
-- c. les dispositions de la loi fédérale du 7 octobre 1994 sur les Offices centraux de police criminelle de la Confédération[^96-3].[^96-4]
+- a.[^96-1] les art. 14 et 20 de la loi fédérale du 21 mars 1997 instituant des mesures visant au maintien de la sûreté intérieure[^96-2];
+- a<sup>bis</sup>.[^96-3] les art. 19 et 20 de la loi fédérale du 25 septembre 2015 sur le renseignement[^96-4];
+- b. les dispositions de la loi fédérale du 13 juin 2008 sur les systèmes d’information de police de la Confédération[^96-5];
+- c. les dispositions de la loi fédérale du 7 octobre 1994 sur les Offices centraux de police criminelle de la Confédération[^96-6].[^96-7]
 
-[^96-1]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
-[^96-2]: [RS 361](https://fedlex.data.admin.ch/eli/cc/2008/698)
-[^96-3]: [RS 360](https://fedlex.data.admin.ch/eli/cc/1995/875_875_875)
-[^96-4]: Nouvelle teneur selon l’annexe 2 ch. I 1 let. a de la LF du 13 juin 2008 sur les systèmes d’information de police de la Confédération, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2008 4989](https://fedlex.data.admin.ch/eli/oc/2008/698); [FF 2006 4819](https://fedlex.data.admin.ch/eli/fga/2006/611)).
+[^96-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^96-2]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
+[^96-3]: Introduite par le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^96-4]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^96-5]: [RS 361](https://fedlex.data.admin.ch/eli/cc/2008/698)
+[^96-6]: [RS 360](https://fedlex.data.admin.ch/eli/cc/1995/875_875_875)
+[^96-7]: Nouvelle teneur selon l’annexe 2 ch. I 1 let. a de la LF du 13 juin 2008 sur les systèmes d’information de police de la Confédération, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2008 4989](https://fedlex.data.admin.ch/eli/oc/2008/698); [FF 2006 4819](https://fedlex.data.admin.ch/eli/fga/2006/611)).
 
 #### Art. 97
 
@@ -1489,7 +1525,8 @@ La victime jouit de droits particuliers, notamment:
 - c. le droit à des mesures de protection (art. 152 à 154);
 - d. le droit de refuser de témoigner (art. 169, al. 4);
 - e. le droit à l’information (art. 305 et 330, al. 3);
-- f. le droit à une composition particulière du tribunal (art. 335, al. 4).
+- f. le droit à une composition particulière du tribunal (art. 335, al. 4);
+- g.[^117-1] le droit de recevoir gratuitement du tribunal ou du ministère public le jugement ou l’ordonnance pénale dans l’affaire où elle est victime, sauf renonciation explicite.
 
 <sup>2</sup>
 
@@ -1500,6 +1537,8 @@ Lorsque la victime est âgée de moins de 18 ans, des dispositions spéciales vi
 - c. permettent le classement de la procédure (art. 319, al. 2).
 
 <sup>3</sup> Lorsque les proches de la victime se portent parties civiles contre les prévenus, ils jouissent des mêmes droits que la victime.
+
+[^117-1]: Introduite par le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 ### Section 3 Partie plaignante
 
@@ -1525,8 +1564,10 @@ Lorsque la victime est âgée de moins de 18 ans, des dispositions spéciales vi
 
 Dans la déclaration, le lésé peut, cumulativement ou alternativement:
 
-- a. demander la poursuite et la condamnation de la personne pénalement responsable de l’infraction (plainte pénale);
+- a.[^119-1] demander la poursuite et la condamnation de la personne pénalement responsable de l’infraction (action pénale);
 - b. faire valoir des conclusions civiles déduites de l’infraction (action civile) par adhésion à la procédure pénale.
+
+[^119-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 120
 
@@ -1534,7 +1575,9 @@ Dans la déclaration, le lésé peut, cumulativement ou alternativement:
 
 <sup>1</sup> Le lésé peut en tout temps déclarer par écrit ou par oral qu’il renonce à user des droits qui sont les siens; la déclaration orale est consignée au procès-verbal. La renonciation est définitive.
 
-<sup>2</sup> Si la renonciation n’a pas été expressément restreinte à l’aspect pénal ou à l’aspect civil, elle vaut tant pour la plainte pénale que pour l’action civile.
+<sup>2</sup> Si la renonciation n’a pas été expressément restreinte à l’aspect pénal ou à l’aspect civil, elle vaut tant pour l’action pénale que pour l’action civile.[^120-1]
+
+[^120-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 121
 
@@ -1566,7 +1609,9 @@ Dans la déclaration, le lésé peut, cumulativement ou alternativement:
 
 <sup>1</sup> Dans la mesure du possible, la partie plaignante chiffre ses conclusions civiles dans sa déclaration en vertu de l’art. 119 et les motive par écrit; elle cite les moyens de preuves qu’elle entend invoquer.
 
-<sup>2</sup> Le calcul et la motivation des conclusions civiles doivent être présentés au plus tard durant les plaidoiries.
+<sup>2</sup> Le calcul et la motivation des conclusions civiles doivent être présentés dans le délai fixé par la direction de la procédure conformément à l’art. 331, al. 2.[^123-1]
+
+[^123-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 124
 
@@ -1590,11 +1635,13 @@ La partie plaignante, sauf s’il s’agit d’une victime, doit fournir au pré
 - b. elle paraît insolvable, notamment lorsqu’elle a été déclarée en faillite, qu’un sursis concordataire est en cours ou qu’il existe un acte de défaut de biens;
 - c. il y a lieu pour d’autres raisons de craindre que la créance du prévenu soit considérablement mise en péril ou perdue.
 
-<sup>2</sup> La direction de la procédure du tribunal statue définitivement sur la requête. Elle arrête le montant des sûretés et fixe le délai dans lequel elles doivent être fournies.
+<sup>2</sup> La direction de la procédure du tribunal statue sur la requête.[^125-1] Elle arrête le montant des sûretés et fixe le délai dans lequel elles doivent être fournies.
 
 <sup>3</sup> Les sûretés peuvent consister en un dépôt d’espèces ou en une garantie fournie par une banque ou une compagnie d’assurance établie en Suisse.
 
 <sup>4</sup> Elles peuvent être ultérieurement augmentées, diminuées ou annulées.
+
+[^125-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 126
 
@@ -1611,7 +1658,8 @@ Le tribunal statue également sur les conclusions civiles présentées:
 
 Il renvoie la partie plaignante à agir par la voie civile:
 
-- a. lorsque la procédure pénale est classée ou close par la procédure de l’ordonnance pénale;
+- a.[^126-1] lorsque la procédure pénale est classée;
+- a<sup>bis</sup>.[^126-2] lorsqu’une décision sur les conclusions civiles ne peut être prise par voie d’ordonnance pénale;
 - b. lorsque la partie plaignante n’a pas chiffré ses conclusions de manière suffisamment précise ou ne les a pas suffisamment motivées;
 - c. lorsque la partie plaignante ne fournit pas les sûretés en couverture des prétentions du prévenu;
 - d. lorsque le prévenu est acquitté alors que l’état de fait n’a pas été suffisamment établi.
@@ -1619,6 +1667,9 @@ Il renvoie la partie plaignante à agir par la voie civile:
 <sup>3</sup> Dans le cas où le jugement complet des conclusions civiles exigerait un travail disproportionné, le tribunal peut traiter celles-ci seulement dans leur principe et, pour le surplus, renvoyer la partie plaignante à agir par la voie civile. Les prétentions de faible valeur sont, dans la mesure du possible, jugées par le tribunal lui-même.
 
 <sup>4</sup> Dans les causes impliquant des victimes, le tribunal peut juger en premier lieu la question de la culpabilité et l’aspect pénal; la direction de la procédure statuant en qualité de juge unique statue ensuite sur les conclusions civiles indépendamment de leur valeur litigieuse, après de nouveaux débats entre les parties.
+
+[^126-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^126-2]: Introduite par le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 ### Chapitre 4 Conseil juridique
 
@@ -1674,9 +1725,11 @@ Le prévenu doit avoir un défenseur dans les cas suivants:
 
 <sup>1</sup> En cas de défense obligatoire, la direction de la procédure pourvoit à ce que le prévenu soit assisté aussitôt d’un défenseur.
 
-<sup>2</sup> Si les conditions requises pour la défense obligatoire sont remplies lors de l’ouverture de la procédure préliminaire, la défense doit être mise en œuvre après la première audition par le ministère public et, en tout état de cause, avant l’ouverture de l’instruction.
+<sup>2</sup> Si les conditions requises pour la défense obligatoire sont remplies lors de l’ouverture de la procédure préliminaire, la défense doit être mise en œuvre avant la première audition exécutée par le ministère public ou, en son nom, par la police.[^131-1]
 
 <sup>3</sup> Les preuves administrées avant qu’un défenseur ait été désigné, alors même que la nécessité d’une défense aurait dû être reconnue, ne sont exploitables qu’à condition que le prévenu renonce à en répéter l’administration.
+
+[^131-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 132
 
@@ -1707,7 +1760,12 @@ La direction de la procédure ordonne une défense d’office:
 
 <sup>1</sup> Le défenseur d’office est désigné par la direction de la procédure compétente au stade considéré.
 
-<sup>2</sup> Lorsqu’elle nomme le défenseur d’office, la direction de la procédure prend en considération les souhaits du prévenu dans la mesure du possible.
+<sup>1bis</sup> La Confédération et les cantons peuvent déléguer le choix du défenseur d’office à une autre autorité ou à un tiers.[^133-1]
+
+<sup>2</sup> Le choix du défenseur d’office tient compte des aptitudes de celui-ci et, dans la mesure du possible, des souhaits du prévenu.[^133-2]
+
+[^133-1]: Introduit par le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^133-2]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 134
 
@@ -1723,25 +1781,23 @@ La direction de la procédure ordonne une défense d’office:
 
 <sup>1</sup> Le défenseur d’office est indemnisé conformément au tarif des avocats de la Confédération ou du canton du for du procès.
 
-<sup>2</sup> Le ministère public ou le tribunal qui statue au fond fixent l’indemnité à la fin de la procédure.
+<sup>2</sup> Le ministère public ou le tribunal qui statue au fond fixe l’indemnité à la fin de la procédure. Si le mandat d’office se prolonge sur une longue durée ou s’il n’est pas raisonnable d’attendre la fin de la procédure pour une autre raison, des avances dont le montant est arrêté par la direction de la procédure sont versées au défenseur d’office.[^135-1]
 
-<sup>3</sup>
+<sup>3</sup> Le défenseur d’office peut contester la décision fixant l’indemnité en usant du moyen de droit permettant d’attaquer la décision finale.[^135-2]
 
-Le défenseur d’office peut recourir:
-
-- a. devant l’autorité de recours, contre la décision du ministère public et du tribunal de première instance fixant l’indemnité;
-- b. devant le Tribunal pénal fédéral, contre la décision de l’autorité de recours ou de la juridiction d’appel du canton fixant l’indemnité.
-
-<sup>4</sup>
-
-Lorsque le prévenu est condamné à supporter les frais de procédure, il est tenu de rembourser dès que sa situation financière le permet:
-
-- a. à la Confédération ou au canton les frais d’honoraires;
-- b. au défenseur la différence entre son indemnité en tant que défenseur désigné et les honoraires qu’il aurait touchés comme défenseur privé.
+<sup>4</sup> Lorsque le prévenu est condamné à supporter les frais de procédure, il est tenu de rembourser l’indemnité à la Confédération ou au canton dès que sa situation financière le permet.[^135-3]
 
 <sup>5</sup> La prétention de la Confédération ou du canton se prescrit par dix ans à compter du jour où la décision est entrée en force.
 
-### Section 3 Assistance judiciaire gratuite pour la partie plaignante
+[^135-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^135-2]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^135-3]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+
+### Section 3 Assistance judiciaire gratuite pour la partie plaignante et la victime
+
+[^tit3-chap4-sec3-1]
+
+[^tit3-chap4-sec3-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 136
 
@@ -1749,10 +1805,10 @@ Lorsque le prévenu est condamné à supporter les frais de procédure, il est t
 
 <sup>1</sup>
 
-La direction de la procédure accorde entièrement ou partiellement l’assistance judiciaire à la partie plaignante pour lui permettre de faire valoir ses prétentions civiles, aux conditions suivantes:
+Sur demande, la direction de la procédure accorde entièrement ou partiellement l’assistance judiciaire gratuite:
 
-- a. la partie plaignante est indigente;
-- b. l’action civile ne paraît pas vouée à l’échec.
+- a. à la partie plaignante, pour faire valoir ses prétentions civiles, si elle ne dispose pas de ressources suffisantes et que l’action civile ne paraît pas vouée à l’échec;
+- b. à la victime, pour lui permettre de faire aboutir sa plainte pénale, si elle ne dispose pas de ressources suffisantes et que l’action pénale ne paraît pas vouée à l’échec.[^136-1]
 
 <sup>2</sup>
 
@@ -1760,7 +1816,13 @@ L’assistance judiciaire comprend:
 
 - a. l’exonération d’avances de frais et de sûretés;
 - b. l’exonération des frais de procédure;
-- c. la désignation d’un conseil juridique gratuit, lorsque la défense des intérêts de la partie plaignante l’exige.
+- c.[^136-2] la désignation d’un conseil juridique gratuit, lorsque la défense des intérêts de la partie plaignante ou de la victime l’exige.
+
+<sup>3</sup> Lors de la procédure de recours, l’assistance judiciaire gratuite doit faire l’objet d’une nouvelle demande.[^136-3]
+
+[^136-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^136-2]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^136-3]: Introduit par le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 137
 
@@ -1774,7 +1836,11 @@ Les art. 133 et 134 s’appliquent par analogie à la désignation, à la révoc
 
 <sup>1</sup> L’art. 135 s’applique par analogie à l’indemnisation du conseil juridique gratuit; la décision définitive concernant la prise en charge des honoraires du conseil juridique gratuit et des frais afférents aux actes de procédure pour lesquels la partie plaignante a été dispensée de fournir une avance est réservée.
 
+<sup>1bis</sup> La victime et ses proches ne sont pas tenus de rembourser les frais d’assistance judiciaire gratuite.[^138-1]
+
 <sup>2</sup> Lorsque le prévenu est condamné à verser des dépens à la partie plaignante, ils reviennent à la Confédération ou au canton dans la mesure des dépenses consenties pour l’assistance judiciaire gratuite.
+
+[^138-1]: Introduit par le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 ## Titre 4 Moyens de preuves
 
@@ -1808,9 +1874,11 @@ Les art. 133 et 134 s’appliquent par analogie à la désignation, à la révoc
 
 <sup>3</sup> Les preuves qui ont été administrées en violation de prescriptions d’ordre sont exploitables.
 
-<sup>4</sup> Si un moyen de preuve est recueilli grâce à une preuve non exploitable au sens de l’al. 2, il n’est pas exploitable lorsqu’il n’aurait pas pu être recueilli sans l’administration de la première preuve.
+<sup>4</sup> Si un moyen de preuve est recueilli grâce à une preuve non exploitable au sens de l’al. 1 ou 2, il n’est exploitable que s’il aurait pu être recueilli même sans l’administration de la première preuve.[^141-1]
 
 <sup>5</sup> Les pièces relatives aux moyens de preuves non exploitables doivent être retirées du dossier pénal, conservées à part jusqu’à la clôture définitive de la procédure, puis détruites.
+
+[^141-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 ### Section 2 Auditions
 
@@ -1852,7 +1920,9 @@ Au début de l’audition, le comparant, dans une langue qu’il comprend, est:
 
 <sup>1</sup> Le ministère public ou le tribunal compétent peut ordonner une audition par vidéoconférence si la personne à entendre est dans l’impossibilité de comparaître personnellement ou ne peut comparaître qu’au prix de démarches disproportionnées.
 
-<sup>2</sup> L’audition est enregistrée sur un support préservant le son et l’image.
+<sup>2</sup> L’audition est enregistrée sur un support audiovisuel.[^144-1]
+
+[^144-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 145
 
@@ -1937,7 +2007,7 @@ Lorsque l’administration de preuves a lieu à l’étranger par commission rog
 
 <sup>1</sup> La direction de la procédure peut garantir l’anonymat aux personnes à protéger.
 
-<sup>2</sup> Le ministère public doit soumettre la garantie de l’anonymat à l’approbation du tribunal des mesures de contrainte, en indiquant avec précision dans les 30 jours, tous les éléments nécessaires à l’appréciation de la légalité de la mesure. Le tribunal des mesures de contrainte statue définitivement.
+<sup>2</sup> Le ministère public doit soumettre la garantie de l’anonymat à l’approbation du tribunal des mesures de contrainte, en indiquant avec précision dans les 30 jours, tous les éléments nécessaires à l’appréciation de la légalité de la mesure. …[^150-1]
 
 <sup>3</sup> Si le tribunal des mesures de contrainte refuse son approbation, les preuves déjà administrées sous la garantie de l’anonymat ne sont pas exploitables.
 
@@ -1946,6 +2016,8 @@ Lorsque l’administration de preuves a lieu à l’étranger par commission rog
 <sup>5</sup> La personne à protéger peut renoncer en tout temps à l’anonymat.
 
 <sup>6</sup> Le ministère public et la direction de la procédure du tribunal révoquent la garantie de l’anonymat lorsque le besoin de protection a manifestement disparu.
+
+[^150-1]: Phrase abrogée par le ch. I de la LF du 17 juin 2022, avec effet au 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 151
 
@@ -2002,9 +2074,17 @@ S’il est à prévoir que l’audition ou la confrontation pourrait entraîner 
 - a. une confrontation de l’enfant avec le prévenu est exclue sauf si l’enfant demande expressément la confrontation ou que le droit du prévenu d’être entendu ne peut être garanti autrement;
 - b. l’enfant ne doit en principe pas être soumis à plus de deux auditions sur l’ensemble de la procédure;
 - c. une seconde audition est organisée si, lors de la première, les parties n’ont pas pu exercer leurs droits, ou si cela est indispensable au bon déroulement de l’enquête ou à la sauvegarde de l’intérêt de l’enfant; dans la mesure du possible, elle est menée par la personne qui a procédé à la première audition;
-- d. l’audition est menée par un enquêteur formé à cet effet, en présence d’un spécialiste; si aucune confrontation n’est organisée, l’audition est enregistrée sur un support préservant le son et l’image;
+- d.[^154-1] l’audition est menée par un enquêteur formé à cet effet, en présence d’un spécialiste; si aucune confrontation n’est organisée, l’audition est enregistrée sur un support audiovisuel;
 - e. les parties exercent leurs droits par l’intermédiaire de la personne qui mène l’audition;
 - f. l’enquêteur et le spécialiste consignent leurs observations dans un rapport.
+
+<sup>5</sup> S’il est à prévoir que la présence du prévenu à l’audition pourrait entraîner une atteinte psychique grave de l’enfant malgré les mesures de protection mises en place, le prévenu peut être exclu de l’audition pour autant que son droit d’être entendu puisse être garanti d’une autre manière.[^154-2]
+
+<sup>6</sup> Le défenseur n’est pas exclu mais des mesures de protection appropriées doivent être mises en place pour prévenir une atteinte psychique grave de l’enfant.[^154-3]
+
+[^154-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^154-2]: Introduit par le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^154-3]: Introduit par le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 155
 
@@ -2176,12 +2256,18 @@ Toute personne peut refuser de témoigner si ses déclarations sont susceptibles
 
 <sup>1</sup> Les fonctionnaires au sens de l’art. 110, al. 3, CP[^170-1] ainsi que leurs auxiliaires et les membres des autorités ainsi que leurs auxiliaires peuvent refuser de témoigner sur les secrets qui leur ont été confiés en leur qualité officielle ou dont ils ont eu connaissance dans l’exercice de leur fonction, de leur charge ou de leur activité auxiliaire.[^170-2]
 
-<sup>2</sup> Ils doivent témoigner si l’autorité à laquelle ils sont soumis les y a habilités par écrit.
+<sup>2</sup>
+
+Ils doivent témoigner:
+
+- a. lorsqu’ils sont soumis à l’obligation de dénoncer;
+- b. lorsque l’autorité à laquelle ils sont soumis les y a habilités par écrit.[^170-3]
 
 <sup>3</sup> L’autorité ordonne à la personne concernée de témoigner si l’intérêt à la manifestation de la vérité l’emporte sur l’intérêt au maintien du secret.
 
 [^170-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^170-2]: Nouvelle teneur selon l’annexe 1 ch. 8 de la L du 18 déc. 2020 sur la sécurité de l’information, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232), [750](https://fedlex.data.admin.ch/eli/oc/2022/750); [FF 2017 2765](https://fedlex.data.admin.ch/eli/fga/2017/647)).
+[^170-3]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 171
 
@@ -2222,11 +2308,11 @@ Ils doivent témoigner:
   - 1\. un homicide au sens des art. 111 à 113 CP[^172-1],
   - 2\. un crime passible d’une peine privative de liberté d’au moins trois ans,
   - 3\.[^172-2] une infraction visée aux art. 187, 189, 190, 191, 197, al. 4, 260<sup>ter</sup>, 260<sup>quinquies</sup>, 260<sup>sexies</sup>, 305<sup>bis</sup>, 305<sup>ter</sup> et 322<sup>ter</sup> à 322<sup>septies</sup> CP,
-  - 4\.[^172-3] une infraction au sens de l’art. 19, al. 2, de la loi du 3 octobre 1951 sur les stupéfiants[^172-4].
+  - 4\.[^172-3] une infraction au sens de l’art. 19, al. 2, de la loi du 3 octobre 1951 sur les stupéfiants (LStup)[^172-4].
 
 [^172-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^172-2]: Nouvelle teneur selon l’annexe ch. II 3 de l’AF du 25 sept. 2020 portant approbation et mise en œuvre de la Convention du Conseil de l’Europe pour la prévention du terrorisme et de son Protocole additionnel et concernant le renforcement des normes pénales contre le terrorisme et le crime organisé, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 6469](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
-[^172-3]: Erratum de la CdR de l’Ass. féd. du 19 sept. 2011, publié le 4 oct. 2011 ([RO 2011 4487](https://fedlex.data.admin.ch/eli/oc/2011/619)).
+[^172-3]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 [^172-4]: [RS 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
 
 #### Art. 173
@@ -2241,7 +2327,7 @@ Les personnes qui sont tenues d’observer le secret professionnel en vertu d’
 - b. art. 139, al. 3, du code civil[^173-2];
 - c. art. 2 de la loi fédérale du 9 octobre 1981 sur les centres de consultation en matière de grossesse[^173-3];
 - d.[^173-4] art. 11 de la loi du 23 mars 2007 sur l’aide aux victimes[^173-5];
-- e.[^173-6] art. 3*c*, al. 4, de la loi du 3 octobre 1951 sur les stupéfiants[^173-7];
+- e.[^173-6] art. 3*c*, al. 4, de la LStup[^173-7];
 - f.[^173-8] art. 16, let. f, de la loi fédérale du 30 septembre 2016 sur les professions de la santé[^173-9].
 
 <sup>2</sup> Les détenteurs d’autres secrets protégés par la loi sont tenus de déposer. La direction de la procédure peut les libérer de l’obligation de témoigner lorsqu’ils rendent vraisemblable que l’intérêt au maintien du secret l’emporte sur l’intérêt à la manifestation de la vérité.
@@ -2251,7 +2337,7 @@ Les personnes qui sont tenues d’observer le secret professionnel en vertu d’
 [^173-3]: [RS 857.5](https://fedlex.data.admin.ch/eli/cc/1983/2003_2003_2003)
 [^173-4]: Nouvelle teneur selon l’annexe ch. II 7 de la LF du 19 mars 2010 sur l’organisation des autorités pénales, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7371](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
 [^173-5]: [RS 312.5](https://fedlex.data.admin.ch/eli/cc/2008/232)
-[^173-6]: Erratum de la CdR de l’Ass. féd. du 19 sept. 2011, publié le 4 oct. 2011 ([RO 2011 4487](https://fedlex.data.admin.ch/eli/oc/2011/619)).
+[^173-6]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 [^173-7]: [RS 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
 [^173-8]: Introduite par l’annexe ch. 2 de la LF du 30 sept. 2016 sur les professions de la santé, en vigueur depuis le 1<sup>er</sup> fév. 2020 ([RO 2020 57](https://fedlex.data.admin.ch/eli/oc/2020/16), [FF 2015 7925](https://fedlex.data.admin.ch/eli/fga/2015/2104)).
 [^173-9]: [RS 811.21](https://fedlex.data.admin.ch/eli/cc/2020/16)
@@ -2408,13 +2494,16 @@ Elle établit un mandat écrit qui contient:
 
 <sup>1</sup> Le ministère public et les tribunaux peuvent ordonner l’hospitalisation du prévenu si cela est nécessaire pour l’établissement d’une expertise médicale.
 
-<sup>2</sup> Le ministère public requiert auprès du tribunal des mesures de contrainte l’hospitalisation du prévenu lorsque celui-ci n’est pas en détention provisoire. Le tribunal statue définitivement en procédure écrite.
+<sup>2</sup> Le ministère public requiert auprès du tribunal des mesures de contrainte l’hospitalisation du prévenu lorsque celui-ci n’est pas en détention provisoire. Le tribunal statue en procédure écrite.[^186-1]
 
-<sup>3</sup> S’il apparaît durant la procédure devant le tribunal qu’une hospitalisation s’impose en prévision d’une expertise, le tribunal saisi statue définitivement en procédure écrite.
+<sup>3</sup> S’il apparaît durant la procédure devant le tribunal qu’une hospitalisation s’impose en prévision d’une expertise, le tribunal saisi statue en procédure écrite.[^186-2]
 
 <sup>4</sup> Le séjour à l’hôpital doit être imputé sur la durée de la peine.
 
 <sup>5</sup> Au surplus, les dispositions sur la détention provisoire et la détention pour des motifs de sûreté s’appliquent par analogie à l’hospitalisation à des fins d’expertise.
+
+[^186-1]: Nouvelle teneur de la phrase selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^186-2]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 187
 
@@ -2685,11 +2774,14 @@ Peut faire l’objet d’un mandat d’amener toute personne:
 
 <sup>1</sup> Le ministère public, les autorités pénales compétentes en matière de contraventions et les tribunaux peuvent ordonner des recherches à l’encontre de personnes dont le lieu de séjour est inconnu et dont la présence est nécessaire au déroulement de la procédure. En cas d’urgence, la police peut lancer elle-même un avis de recherche.
 
-<sup>2</sup> Si le prévenu est fortement soupçonné d’avoir commis un crime ou un délit et qu’il y a lieu de présumer des motifs de détention, l’autorité peut lancer un avis de recherche pour l’arrêter et le faire amener devant l’autorité compétente.
+<sup>2</sup> Si le prévenu est fortement soupçonné d’avoir commis un crime ou un délit et qu’il y a lieu de présumer des motifs de détention, l’autorité peut lancer un avis de recherche pour l’arrêter et le faire amener devant l’autorité compétente (mandat d’arrêt).[^210-1]
 
 <sup>3</sup> À moins que le ministère public, l’autorité pénale en matière de contraventions ou le tribunal n’en décide autrement, il incombe à la police d’exécuter l’avis de recherche.
 
-<sup>4</sup> Les al. 1 et 3 s’appliquent par analogie à la recherche d’objets et de valeurs patrimoniales.
+<sup>4</sup> Les al. 1 à 3 sont applicables par analogie à la recherche d’objets et de valeurs patrimoniales. Dans le cadre de la procédure préliminaire, la police peut lancer elle-même une recherche d’objets ou de valeurs patrimoniales.[^210-2]
+
+[^210-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^210-2]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 211
 
@@ -2856,17 +2948,28 @@ La détention provisoire et la détention pour des motifs de sûreté ne peuvent
 
 - a. qu’il se soustraie à la procédure pénale ou à la sanction prévisible en prenant la fuite;
 - b. qu’il compromette la recherche de la vérité en exerçant une influence sur des personnes ou en altérant des moyens de preuves;
-- c. qu’il compromette sérieusement la sécurité d’autrui par des crimes ou des délits graves après avoir déjà commis des infractions du même genre.
+- c.[^221-1] qu’il compromette sérieusement et de manière imminente la sécurité d’autrui en commettant des crimes ou des délits graves après avoir déjà commis des infractions du même genre.
 
-<sup>2</sup> La détention peut être ordonnée s’il y a sérieusement lieu de craindre qu’une personne passe à l’acte après avoir menacé de commettre un crime grave.
+<sup>1</sup>
+
+<sup>bis</sup> La détention provisoire et la détention pour des motifs de sûreté peuvent exceptionnellement être ordonnées, aux conditions suivantes:
+
+- a. le prévenu est fortement soupçonné d’avoir porté gravement atteinte à l’intégrité physique, psychique ou sexuelle d’autrui en commettant un crime ou un délit grave;
+- b. il y a un danger sérieux et imminent qu’il commette un crime grave du même genre.[^221-2]
+
+<sup>2</sup> La détention peut aussi être ordonnée s’il y a un danger sérieux et imminent qu’une personne passe à l’acte après avoir menacé de commettre un crime grave.[^221-3]
+
+[^221-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^221-2]: Introduit par le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^221-3]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 222
 
 **Voies de droit**[^222-1]
 
-Le détenu peut attaquer devant l’autorité de recours les décisions ordonnant une mise en détention provisoire ou une mise en détention pour des motifs de sûreté ou encore la prolongation ou le terme de cette détention. L’art. 233 est réservé.
+Seul le détenu peut attaquer devant l’autorité de recours les décisions ordonnant une mise en détention provisoire ou une mise en détention pour des motifs de sûreté ou encore la prolongation ou le terme de cette détention. L’art. 233 est réservé.
 
-[^222-1]: Nouvelle teneur selon l’annexe ch. II 7 de la LF du 19 mars 2010 sur l’organisation des autorités pénales, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7371](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
+[^222-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 223
 
@@ -2900,7 +3003,9 @@ Le détenu peut attaquer devant l’autorité de recours les décisions ordonnan
 
 <sup>4</sup> Le tribunal des mesures de contrainte recueille les preuves immédiatement disponibles susceptibles de confirmer ou d’écarter les soupçons et les motifs de détention.
 
-<sup>5</sup> Si le prévenu renonce expressément à une audience orale, le tribunal des mesures de contrainte statue par écrit sur la base de la demande du ministère public et des indications du prévenu.
+<sup>5</sup> Si le prévenu renonce expressément à une audience orale, le tribunal des mesures de contrainte peut statuer par écrit sur la base de la demande du ministère public et des indications du prévenu.[^225-1]
+
+[^225-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 226
 
@@ -2996,9 +3101,17 @@ Au moment du jugement, le tribunal de première instance détermine si le préve
 - a. pour garantir l’exécution de la peine ou de la mesure prononcée;
 - b. en prévision de la procédure d’appel.
 
-<sup>2</sup> Si le prévenu en détention est acquitté et que le tribunal de première instance ordonne sa mise en liberté, le ministère public peut demander à la direction de la procédure de la juridiction d’appel, par l’entremise du tribunal de première instance, de prolonger sa détention pour des motifs de sûreté. En pareil cas, la personne concernée demeure en détention jusqu’à ce que la direction de la procédure de la juridiction d’appel ait statué. Celle-ci statue sur la demande du ministère public dans les cinq jours à compter du dépôt de la demande.
+<sup>2</sup>
+
+Si le prévenu en détention est acquitté et que le tribunal de première instance ordonne sa mise en liberté, le ministère public peut:
+
+- a. demander au tribunal de première instance d’assortir de mesures la mise en liberté de la personne acquittée, sous commination de la peine prévue à l’art. 292 CP[^231-1], afin d’assurer sa présence à la procédure d’appel. La personne acquittée et le ministère public peuvent attaquer les décisions relatives à l’imposition de mesures devant l’autorité de recours;
+- b. demander à la direction de la procédure de la juridiction d’appel, par l’entremise du tribunal de première instance, de prolonger sa détention pour des motifs de sûreté s’il existe un danger sérieux et imminent qu’il compromette de manière grave et imminente la sécurité d’autrui par des crimes ou des délits graves. En pareil cas, la personne concernée demeure en détention jusqu’à ce que la direction de la procédure de la juridiction d’appel ait statué. Celle-ci statue sur la demande du ministère public dans les cinq jours à compter du dépôt de la demande.[^231-2]
 
 <sup>3</sup> Si l’appel est retiré ultérieurement, le tribunal de première instance statue sur l’imputation de la détention subie après le jugement.
+
+[^231-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^231-2]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 232
 
@@ -3042,13 +3155,16 @@ La direction de la procédure de la juridiction d’appel statue dans les cinq j
 
 **Exécution anticipée des peines et des mesures**
 
-<sup>1</sup> La direction de la procédure peut autoriser le prévenu à exécuter de manière anticipée une peine privative de liberté ou une mesure entraînant une privation de liberté si le stade de la procédure le permet.
+<sup>1</sup> La direction de la procédure peut autoriser le prévenu à exécuter de manière anticipée une peine privative de liberté ou une mesure entraînant une privation de liberté si le stade de la procédure le permet et que le but de la détention provisoire ou de la détention pour des motifs de sûreté ne s’y oppose pas.[^236-1]
 
 <sup>2</sup> Si la mise en accusation a déjà été engagée, la direction de la procédure donne au ministère public l’occasion de se prononcer.
 
 <sup>3</sup> La Confédération et les cantons peuvent prévoir que l’exécution anticipée des mesures soit subordonnée à l’assentiment des autorités d’exécution.
 
-<sup>4</sup> Dès l’entrée du prévenu dans l’établissement, l’exécution de la peine ou de la mesure commence et le prévenu est soumis au régime de l’exécution, sauf si le but de la détention provisoire ou de la détention pour des motifs de sûreté s’y oppose.
+<sup>4</sup> Dès l’entrée du prévenu dans l’établissement, l’exécution de la peine ou de la mesure commence et le prévenu est soumis au régime de l’exécution.[^236-2]
+
+[^236-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^236-2]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 ### Section 8 Mesures de substitution
 
@@ -3198,20 +3314,45 @@ Les documents écrits, les enregistrements audio, vidéo et d’autre nature, le
 
 #### Art. 248
 
-**Mise sous scellés**
+**Mise sous scellés**[^248-1]
 
-<sup>1</sup> Les documents, enregistrements et autres objets qui ne peuvent être ni perquisitionnés ni séquestrés parce que l’intéressé fait valoir son droit de refuser de déposer ou de témoigner ou pour d’autres motifs sont mis sous scellés et ne peuvent être ni examinés, ni exploités par les autorités pénales.
+<sup>1</sup> Si le détenteur s’oppose au séquestre de certains documents, enregistrements ou autres objets en vertu de l’art. 264, l’autorité pénale les met sous scellés. Le détenteur doit requérir la mise sous scellés dans les trois jours suivant la mise en sûreté. Durant ce délai et après une éventuelle mise sous scellés, les documents, enregistrements et autres objets ne peuvent être ni examinés, ni exploités par l’autorité pénale.
 
-<sup>2</sup> Si l’autorité pénale ne demande pas la levée des scellés dans les 20 jours, les documents et les autres objets mis sous scellés sont restitués à l’ayant droit.
+<sup>2</sup> Dès que l’autorité pénale constate que le détenteur n’est pas l’ayant droit, elle donne à ce dernier la possibilité de demander, dans un délai de trois jours, la mise sous scellés des documents, enregistrements ou autres objets.
 
-<sup>3</sup>
+<sup>3</sup> Si l’autorité pénale ne demande pas la levée des scellés dans les 20 jours, les documents, enregistrements et autres objets mis sous scellés sont restitués au détenteur.
 
-Si l’autorité pénale demande la levée des scellés, les tribunaux suivants statuent définitivement sur la demande dans le mois qui suit son dépôt:
+[^248-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
-- a. le tribunal des mesures de contrainte, dans le cadre de la procédure préliminaire;
-- b. le tribunal saisi de la cause, dans les autres cas.
+#### Art. 248a
 
-<sup>4</sup> Le tribunal peut faire appel à un expert pour examiner le contenu des documents, des enregistrements et des autres objets.
+**Compétence pour lever les scellés et procédure**[^248a-1]
+
+<sup>1</sup>
+
+Si l’autorité pénale demande la levée des scellés, les autorités suivantes sont compétentes pour statuer sur la demande:
+
+- a. le tribunal des mesures de contrainte, dans le cadre de la procédure préliminaire et de la procédure devant le tribunal de première instance;
+- b. la direction de la procédure du tribunal saisi de la cause, dans les autres cas.
+
+<sup>2</sup> Si, après réception de la demande de levée des scellés, le tribunal constate que le détenteur n’est pas l’ayant droit, il informe ce dernier de la mise sous scellés des documents, enregistrements ou autres objets. Si celui-ci en fait la demande, il lui accorde le droit de consulter le dossier.
+
+<sup>3</sup> Le tribunal impartit à l’ayant droit un délai non prolongeable de dix jours pour s’opposer à la demande de levée des scellés et indiquer la mesure dans laquelle il souhaite que les scellés soient maintenus. L’absence de réponse est réputée constituer un retrait de la demande de mise sous scellés.
+
+<sup>4</sup> Lorsque l’affaire est en état d’être jugée, le tribunal statue définitivement en procédure écrite dans les dix jours qui suivent la réception de la prise de position.
+
+<sup>5</sup> Dans le cas contraire, il convoque le ministère public et l’ayant droit à une audience à huis clos dans les 30 jours qui suivent la réception de la prise de position. L’ayant droit doit rendre plausibles les motifs pour lesquels et la mesure dans laquelle les documents, enregistrements ou autres objets doivent être maintenus sous scellés. Le tribunal statue sans délai et définitivement.
+
+<sup>6</sup>
+
+Le tribunal peut:
+
+- a. recourir à un expert afin d’examiner le contenu des documents, enregistrements et autres objets, d’accéder à ceux-ci ou d’en garantir l’intégrité;
+- b. désigner des membres des corps de police comme experts afin d’accéder au contenu des documents, enregistrements et autres objets ou d’en garantir l’intégrité.
+
+<sup>7</sup> Si l’ayant droit, sans excuse, fait défaut à l’audience et ne s’y fait pas représenter, la demande de mise sous scellés est réputée retirée. Si le ministère public ne comparaît pas, le tribunal statue en son absence.
+
+[^248a-1]: Introduit par le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 ### Section 4 Fouille de personnes et d’objets
 
@@ -3250,6 +3391,18 @@ Cet examen peut avoir lieu:
 
 [^251-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^251-2]: Nouvelle teneur selon le ch. III de la LF du 30 sept. 2011, en vigueur depuis le 1<sup>er</sup> juil. 2012 ([RO 2012 2575](https://fedlex.data.admin.ch/eli/oc/2012/310); [FF 2010 5125](https://fedlex.data.admin.ch/eli/fga/2010/992)[5151](https://fedlex.data.admin.ch/eli/fga/2010/994)).
+
+#### Art. 251a
+
+**Alcootest, analyse de sang et d’urine**[^251a-1]
+
+Pour établir l’incapacité de conduire, la police peut:
+
+- a. procéder à un alcootest;
+- b. ordonner une prise de sang et l’analyse de l’échantillon dans les cas où le droit fédéral prescrit une analyse de sang;
+- c. ordonner la récolte de l’urine et l’analyse de l’échantillon.
+
+[^251a-1]: Introduit par le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 252
 
@@ -3291,12 +3444,14 @@ Lorsque cela paraît nécessaire pour élucider une infraction, l’autorité p�
 
 <sup>1</sup>
 
-Pour élucider un crime ou un délit, le prélèvement d’un échantillon et l’établissement d’un profil d’ADN peuvent être ordonnés sur:
+Pour élucider le crime ou le délit sur lequel porte la procédure, le prélèvement d’un échantillon et l’établissement d’un profil d’ADN peuvent être ordonnés sur:[^255-1]
 
 - a. le prévenu;
 - b. d’autres personnes, notamment les victimes et les personnes habilitées à se rendre sur les lieux de l’infraction si cela est nécessaire pour distinguer leur matériel biologique de celui du prévenu;
 - c. des personnes décédées;
 - d. le matériel biologique qui a un rapport avec l’infraction.
+
+<sup>1bis</sup> Le prélèvement d’un échantillon et l’établissement d’un profil d’ADN peuvent aussi être ordonnés sur le prévenu si des indices concrets laissent présumer qu’il pourrait avoir commis d’autres crimes ou délits.[^255-2]
 
 <sup>2</sup>
 
@@ -3305,10 +3460,12 @@ La police peut ordonner:
 - a. le prélèvement non invasif d’échantillons;
 - b. l’établissement d’un profil d’ADN à partir de matériel biologique ayant un rapport avec l’infraction.
 
-<sup>3</sup> Si seul le profil d’ADN du chromosome Y peut être établi à partir du matériel biologique ayant un rapport avec l’infraction, le ministère public peut, afin d’élucider un crime, ordonner la comparaison de ce profil dans le système d’information visé à l’art. 10 de la loi du 20 juin 2003 sur les profils d’ADN[^255-1].[^255-2]
+<sup>3</sup> Si seul le profil d’ADN du chromosome Y peut être établi à partir du matériel biologique ayant un rapport avec l’infraction, le ministère public peut, afin d’élucider un crime, ordonner la comparaison de ce profil dans le système d’information visé à l’art. 10 de la loi du 20 juin 2003 sur les profils d’ADN[^255-3].[^255-4]
 
-[^255-1]: [RS 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
-[^255-2]: Introduit par l’annexe 1 ch. 2 de la LF du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
+[^255-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^255-2]: Introduit par le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^255-3]: [RS 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
+[^255-4]: Introduit par l’annexe 1 ch. 2 de la LF du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
 
 #### Art. 256
 
@@ -3322,13 +3479,11 @@ La police peut ordonner:
 
 #### Art. 257
 
-**Prélèvement d’échantillons sur des personnes condamnées**
+**Prélèvement d’échantillons sur des personnes condamnées**[^257-1]
 
-Dans le jugement qu’il rend, le tribunal peut ordonner, en vue de l’établissement d’un profil d’ADN, qu’un échantillon soit prélevé sur les personnes:
+Dans le jugement qu’il rend, le tribunal peut ordonner le prélèvement d’un échantillon et l’établissement d’un profil d’ADN sur une personne condamnée pour un crime ou un délit si des indices concrets laissent présumer qu’elle pourrait commettre d’autres crimes ou délits.
 
-- a. qui ont été condamnées pour la commission intentionnelle d’un crime à une peine privative de liberté de plus d’un an;
-- b. qui ont été condamnées pour un crime ou un délit commis intentionnellement contre la vie, l’intégrité physique ou l’intégrité sexuelle;
-- c. contre lesquelles une mesure thérapeutique ou l’internement a été prononcé.
+[^257-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 258
 
@@ -3424,11 +3579,15 @@ Des objets et des valeurs patrimoniales appartenant au prévenu ou à des tiers 
 - a. qu’ils seront utilisés comme moyens de preuves;
 - b. qu’ils seront utilisés pour garantir le paiement des frais de procédure, des peines pécuniaires, des amendes et des indemnités;
 - c. qu’ils devront être restitués au lésé;
-- d. qu’ils devront être confisqués.
+- d. qu’ils devront être confisqués;
+- e.[^263-1] qu’ils seront utilisés pour couvrir les créances compensatrices de l’État selon l’art. 71 CP[^263-2].
 
 <sup>2</sup> Le séquestre est ordonné par voie d’ordonnance écrite, brièvement motivée. En cas d’urgence, il peut être ordonné oralement; toutefois, par la suite, l’ordre doit être confirmé par écrit.
 
 <sup>3</sup> Lorsqu’il y a péril en la demeure, la police ou des particuliers peuvent provisoirement mettre en sûreté des objets et des valeurs patrimoniales à l’intention du ministère public ou du tribunal.
+
+[^263-1]: Introduite par le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^263-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
 #### Art. 264
 
@@ -3445,12 +3604,13 @@ Quels que soient l’endroit où ils se trouvent et le moment où ils ont été 
 
 <sup>2</sup> Les restrictions prévues à l’al. 1 ne s’appliquent pas aux objets ni aux valeurs patrimoniales qui doivent être mis sous séquestre en vue de leur restitution au lésé ou de leur confiscation.
 
-<sup>3</sup> Si un ayant droit s’oppose au séquestre d’objets ou de valeurs patrimoniales en faisant valoir son droit de refuser de déposer ou de témoigner ou pour d’autres motifs, les autorités pénales procèdent conformément aux dispositions régissant la mise sous scellés.
+<sup>3</sup> Si le détenteur s’oppose au séquestre d’objets ou de valeurs patrimoniales, les autorités pénales procèdent conformément aux dispositions régissant la mise sous scellés.[^264-5]
 
 [^264-1]: Nouvelle teneur selon le ch. I 6 de la LF du 28 sept. 2012 sur l’adaptation de disp. de procédure relatives au secret professionnel des avocats, en vigueur depuis le 1<sup>er</sup> mai 2013 ([RO 2013 847](https://fedlex.data.admin.ch/eli/oc/2013/177); [FF 2011 7509](https://fedlex.data.admin.ch/eli/fga/2011/1435)).
 [^264-2]: Nouvelle teneur selon le ch. I 6 de la LF du 28 sept. 2012 sur l’adaptation de disp. de procédure relatives au secret professionnel des avocats, en vigueur depuis le 1<sup>er</sup> mai 2013 ([RO 2013 847](https://fedlex.data.admin.ch/eli/oc/2013/177); [FF 2011 7509](https://fedlex.data.admin.ch/eli/fga/2011/1435)).
 [^264-3]: Introduite par le ch. I 6 de la LF du 28 sept. 2012 sur l’adaptation de disp. de procédure relatives au secret professionnel des avocats, en vigueur depuis le 1<sup>er</sup> mai 2013 ([RO 2013 847](https://fedlex.data.admin.ch/eli/oc/2013/177); [FF 2011 7509](https://fedlex.data.admin.ch/eli/fga/2011/1435)).
 [^264-4]: [RS 935.61](https://fedlex.data.admin.ch/eli/cc/2002/153)
+[^264-5]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 265
 
@@ -3548,47 +3708,48 @@ Le ministère public peut ordonner la surveillance de la correspondance par post
 
 Une surveillance peut être ordonnée aux fins de poursuivre les infractions visées par les dispositions suivantes:
 
-- a.[^269-1] CP: art. 111 à 113, 115, 118, al. 2, 122, 124, 127, 129, 135, 138 à 140, 143, 144, al. 3, 144<sup>bis</sup>, ch. 1, par. 2, et ch. 2, par. 2, 146 à 148, 156, 157, ch. 2, 158, ch. 1, par. 3, et ch. 2, 160, 163, ch. 1, 180 à 185<sup>bis</sup>, 187, 188, ch. 1, 189 à 191, 192, al. 1, 195 à 197, 220, 221, al. 1 et 2, 223, ch. 1, 224, al. 1, 226, 227, ch. 1, par. 1, 228, ch. 1, par. 1, 230<sup>bis</sup>, 231, 232, ch. 1, 233, ch. 1, 234, al. 1, 237, ch. 1, 240, al. 1, 242, 244, 251, ch. 1, 258, 259, al. 1, 260<sup>bis</sup> à 260<sup>sexies</sup>, 261<sup>bis</sup>, 264 à 267, 271, 272, ch. 2, 273, 274, ch. 1, par. 2, 285, 301, 303, ch. 1, 305, 305<sup>bis</sup>, ch. 2, 310, 312, 314, 317, ch. 1, 319, 322<sup>ter</sup>, 322<sup>quater</sup> et 322<sup>septies</sup>;
-- b.[^269-2] loi fédérale du 16 décembre 2005 sur les étrangers et l’intégration[^269-3]: art. 116, al. 3, et 118, al. 3;
-- c. loi fédérale du 22 juin 2001 relative à la Convention de La Haye sur l’adoption et aux mesures de protection de l’enfant en cas d’adoption internationale[^269-4]: art. 24;
-- d.[^269-5] loi fédérale du 13 décembre 1996 sur le matériel de guerre[^269-6]: art. 33, al. 2, et 34 à 35*b*;
-- e. loi du 21 mars 2003 sur l’énergie nucléaire[^269-7]: art. 88, al. 1 et 2, 89, al. 1 et 2, et 90, al. 1;
-- f.[^269-8] loi du 3 octobre 1951 sur les stupéfiants[^269-9]: art. 19, al. 2, et 20, al. 2;
-- g. loi du 7 octobre 1983 sur la protection de l’environnement[^269-10]: art. 60, al. 1, let. g à i, m et o;
-- h. loi fédérale du 13 décembre 1996 sur le contrôle des biens[^269-11]: art. 14, al. 2;
-- i.[^269-12] loi du 17 juin 2011 sur l’encouragement du sport[^269-13]: art. 22, al. 2, et 25*a*, al. 3;
-- j.[^269-14] loi du 19 juin 2015 sur l’infrastructure des marchés financiers[^269-15]: art. 154 et 155;
-- k.[^269-16] loi du 20 juin 1997 sur les armes[^269-17]: art. 33, al. 3;
-- l.[^269-18] loi du 15 décembre 2000 sur les produits thérapeutiques[^269-19]: art. 86, al. 2 et 3;
-- m.[^269-20] loi fédérale du 29 septembre 2017 sur les jeux d’argent[^269-21]: art. 130, al. 2, pour les infractions visées à l’art. 130, al. 1, let. a;
-- n.[^269-22] loi fédérale du 25 septembre 2015 sur le renseignement[^269-23]: art. 74, al. 4.
+- a.[^269-1] CP[^269-2]: art. 111 à 113, 115, 118, al. 2, 122, 124, 127, 129, 135, 138 à 140, 143, 144, al. 3, 144<sup>bis</sup>, ch. 1, par. 2, et ch. 2, par. 2, 146 à 148, 156, 157, ch. 2, 158, ch. 1, par. 3, et ch. 2, 160, 163, ch. 1, 180 à 185<sup>bis</sup>, 187, 188, ch. 1, 189 à 191, 192, al. 1, 195 à 197, 220, 221, al. 1 et 2, 223, ch. 1, 224, al. 1, 226 à 226<sup>ter</sup>, 227, ch. 1, par. 1, 228, ch. 1, par. 1, 230<sup>bis</sup>, 231, 232, ch. 1, 233, ch. 1, 234, al. 1, 237, ch. 1, 240, al. 1, 242, 244, 251, ch. 1, 258, 259, al. 1, 260<sup>bis</sup> à 260<sup>sexies</sup>, 261<sup>bis</sup>, 264 à 267, 271, 272, ch. 2, 273, 274, ch. 1, par. 2, 285, 301, 303, ch. 1, 305, 305<sup>bis</sup>, ch. 2, 310, 312, 314, 317, ch. 1, 319, 322<sup>ter</sup>, 322<sup>quater</sup> et 322<sup>septies</sup>;
+- b.[^269-3] loi fédérale du 16 décembre 2005 sur les étrangers et l’intégration[^269-4]: art. 116, al. 3, et 118, al. 3;
+- c. loi fédérale du 22 juin 2001 relative à la Convention de La Haye sur l’adoption et aux mesures de protection de l’enfant en cas d’adoption internationale[^269-5]: art. 24;
+- d.[^269-6] loi fédérale du 13 décembre 1996 sur le matériel de guerre[^269-7]: art. 33, al. 2, et 34 à 35*b*;
+- e. loi du 21 mars 2003 sur l’énergie nucléaire[^269-8]: art. 88, al. 1 et 2, 89, al. 1 et 2, et 90, al. 1;
+- f.[^269-9] LStup[^269-10]: art. 19, al. 2, et 20, al. 2;
+- g. loi du 7 octobre 1983 sur la protection de l’environnement[^269-11]: art. 60, al. 1, let. g à i, m et o;
+- h. loi fédérale du 13 décembre 1996 sur le contrôle des biens[^269-12]: art. 14, al. 2;
+- i.[^269-13] loi du 17 juin 2011 sur l’encouragement du sport[^269-14]: art. 22, al. 2, et 25*a*, al. 3;
+- j.[^269-15] loi du 19 juin 2015 sur l’infrastructure des marchés financiers[^269-16]: art. 154 et 155;
+- k.[^269-17] loi du 20 juin 1997 sur les armes[^269-18]: art. 33, al. 3;
+- l.[^269-19] loi du 15 décembre 2000 sur les produits thérapeutiques[^269-20]: art. 86, al. 2 et 3;
+- m.[^269-21] loi fédérale du 29 septembre 2017 sur les jeux d’argent[^269-22]: art. 130, al. 2, pour les infractions visées à l’art. 130, al. 1, let. a;
+- n.[^269-23] loi fédérale du 25 septembre 2015 sur le renseignement[^269-24]: art. 74, al. 4.
 
-<sup>3</sup> Lorsque le jugement d’une infraction relevant d’une juridiction militaire est délégué à une juridiction civile, la surveillance de la correspondance par poste et télécommunication peut également être ordonnée aux fins de poursuivre les infractions énumérées à l’art. 70, al. 2, de la procédure pénale militaire du 23 mars 1979[^269-24].
+<sup>3</sup> Lorsque le jugement d’une infraction relevant d’une juridiction militaire est délégué à une juridiction civile, la surveillance de la correspondance par poste et télécommunication peut également être ordonnée aux fins de poursuivre les infractions énumérées à l’art. 70, al. 2, de la procédure pénale militaire du 23 mars 1979[^269-25].
 
-[^269-1]: Nouvelle teneur selon le ch. I 12 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
-[^269-2]: Nouvelle teneur selon l’annexe ch. II 7 de la LF du 19 mars 2010 sur l’organisation des autorités pénales, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7371](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
-[^269-3]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758).Le titre a été adapté au 1<sup>er</sup> janv. 2019 en application de l’art. 12 al. 2 de la LF du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). Il a été tenu compte de cette mod. dans tout le texte.
-[^269-4]: [RS 211.221.31](https://fedlex.data.admin.ch/eli/cc/2002/639)
-[^269-5]: Nouvelle teneur selon le ch. II de la LF du 16 mars 2012, en vigueur depuis le 1<sup>er</sup> fév. 2013 ([RO 2013 295](https://fedlex.data.admin.ch/eli/oc/2013/48); [FF 2011 5495](https://fedlex.data.admin.ch/eli/fga/2011/879)).
-[^269-6]: [RS 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
-[^269-7]: [RS 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
-[^269-8]: Erratum de la CdR de l’Ass. féd. du 19 sept. 2011, publié le 4 oct. 2011 ([RO 2011 4487](https://fedlex.data.admin.ch/eli/oc/2011/619)).
-[^269-9]: [RS 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
-[^269-10]: [RS 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
-[^269-11]: [RS 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
-[^269-12]: Introduite par l’art. 34 ch. 2 de la LF du 17 juin 2011 sur l’encouragement du sport ([RO 2012 3953](https://fedlex.data.admin.ch/eli/oc/2012/460); [FF 2009 7401](https://fedlex.data.admin.ch/eli/fga/2009/1425)). Nouvelle teneur selon l’annexe ch. II 2 de la LF du 29 sept. 2017 sur les jeux d’argent, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [FF 2015 7627](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
-[^269-13]: [RS 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)
-[^269-14]: Rectifié par la Commission de rédaction de l’Ass. féd. (art. 58, al. 1, LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)). Introduit par le ch. II 4 de la LF du 28 sept. 2012 ([RO 2013 1103](https://fedlex.data.admin.ch/eli/oc/2013/250);[FF 2011 6329](https://fedlex.data.admin.ch/eli/fga/2011/1111)). Nouvelle teneur selon l’annexe ch. 4 de la L du 19 juin 2015 sur l’infrastructure des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [FF 2014 7235](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
-[^269-15]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
-[^269-16]: Introduite par l’annexe ch. II 1 de la LF du 18 mars 2016 sur la surveillance de la correspondance par poste et télécommunication, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31); [FF 2013 2379](https://fedlex.data.admin.ch/eli/fga/2013/512)).
-[^269-17]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
-[^269-18]: Introduite par l’annexe ch. 1 de l’AF du 29 sept. 2017 (Convention Médicrime), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4771](https://fedlex.data.admin.ch/eli/oc/2018/765); [FF 2017 2945](https://fedlex.data.admin.ch/eli/fga/2017/649)).
-[^269-19]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
-[^269-20]: Introduite par l’annexe ch. II 2 de la LF du 29 sept. 2017 sur les jeux d’argent, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [FF 2015 7627](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
-[^269-21]: [RS 935.51](https://fedlex.data.admin.ch/eli/cc/2018/795)
-[^269-22]: Introduite par l’annexe ch. II 3 de l’AF du 25 sept. 2020 portant approbation et mise en œuvre de la Convention du Conseil de l’Europe pour la prévention du terrorisme et de son Protocole additionnel et concernant le renforcement des normes pénales contre le terrorisme et le crime organisé, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 6469](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
-[^269-23]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
-[^269-24]: [RS 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
+[^269-1]: Nouvelle teneur selon l’annexe 2 ch. 2 de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^269-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^269-3]: Nouvelle teneur selon l’annexe ch. II 7 de la LF du 19 mars 2010 sur l’organisation des autorités pénales, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7371](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
+[^269-4]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758).Le titre a été adapté au 1<sup>er</sup> janv. 2019 en application de l’art. 12 al. 2 de la LF du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). Il a été tenu compte de cette mod. dans tout le texte.
+[^269-5]: [RS 211.221.31](https://fedlex.data.admin.ch/eli/cc/2002/639)
+[^269-6]: Nouvelle teneur selon le ch. II de la LF du 16 mars 2012, en vigueur depuis le 1<sup>er</sup> fév. 2013 ([RO 2013 295](https://fedlex.data.admin.ch/eli/oc/2013/48); [FF 2011 5495](https://fedlex.data.admin.ch/eli/fga/2011/879)).
+[^269-7]: [RS 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
+[^269-8]: [RS 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
+[^269-9]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^269-10]: [RS 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
+[^269-11]: [RS 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
+[^269-12]: [RS 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
+[^269-13]: Introduite par l’art. 34 ch. 2 de la LF du 17 juin 2011 sur l’encouragement du sport ([RO 2012 3953](https://fedlex.data.admin.ch/eli/oc/2012/460); [FF 2009 7401](https://fedlex.data.admin.ch/eli/fga/2009/1425)). Nouvelle teneur selon l’annexe ch. II 2 de la LF du 29 sept. 2017 sur les jeux d’argent, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [FF 2015 7627](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
+[^269-14]: [RS 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)
+[^269-15]: Rectifié par la Commission de rédaction de l’Ass. féd. (art. 58, al. 1, LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)). Introduit par le ch. II 4 de la LF du 28 sept. 2012 ([RO 2013 1103](https://fedlex.data.admin.ch/eli/oc/2013/250);[FF 2011 6329](https://fedlex.data.admin.ch/eli/fga/2011/1111)). Nouvelle teneur selon l’annexe ch. 4 de la L du 19 juin 2015 sur l’infrastructure des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [FF 2014 7235](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
+[^269-16]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^269-17]: Introduite par l’annexe ch. II 1 de la LF du 18 mars 2016 sur la surveillance de la correspondance par poste et télécommunication, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31); [FF 2013 2379](https://fedlex.data.admin.ch/eli/fga/2013/512)).
+[^269-18]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^269-19]: Introduite par l’annexe ch. 1 de l’AF du 29 sept. 2017 (Convention Médicrime), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4771](https://fedlex.data.admin.ch/eli/oc/2018/765); [FF 2017 2945](https://fedlex.data.admin.ch/eli/fga/2017/649)).
+[^269-20]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
+[^269-21]: Introduite par l’annexe ch. II 2 de la LF du 29 sept. 2017 sur les jeux d’argent, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [FF 2015 7627](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
+[^269-22]: [RS 935.51](https://fedlex.data.admin.ch/eli/cc/2018/795)
+[^269-23]: Introduite par l’annexe ch. II 3 de l’AF du 25 sept. 2020 portant approbation et mise en œuvre de la Convention du Conseil de l’Europe pour la prévention du terrorisme et de son Protocole additionnel et concernant le renforcement des normes pénales contre le terrorisme et le crime organisé, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 6469](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^269-24]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^269-25]: [RS 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
 
 #### Art. 269<sup>bis</sup>
 
@@ -3694,15 +3855,21 @@ Le tri préalable des informations visé à l’al. 1 ne doit pas être effectu�
 
 **Identification des usagers, localisation et caractéristiques techniques de la correspondance**[^273-1]
 
-<sup>1</sup> Lorsque de graves soupçons laissent présumer qu’un crime ou un délit a été commis et que les conditions visées à l’art. 269, al. 1, let. b et c, du présent code sont remplies, le ministère public peut exiger que lui soient fournies les données secondaires de télécommunication au sens de l’art. 8, let. b, de la loi fédérale du 18 mars 2016 sur la surveillance de la correspondance par poste et télécommunication (LSCPT)[^273-2] et les données secondaires postales au sens de l’art. 19, al. 1, let. b, LSCPT de la personne surveillée.[^273-3]
+<sup>1</sup>
+
+Lorsque de graves soupçons laissent présumer qu’un crime ou un délit a été commis et que les conditions visées à l’art. 269, al. 1, let. b et c, sont remplies, le ministère public peut exiger que lui soient fournies:[^273-2]
+
+- a. les données secondaires de télécommunication au sens de l’art. 8, let. b, de la loi fédérale du 18 mars 2016 sur la surveillance de la correspondance par poste et télécommunication (LSCPT)[^273-3] relatives au prévenu, à un tiers au sens de l’art. 270, let. b, du présent code ou au lésé;
+- b. les données secondaires postales au sens de l’art. 19, al. 1, let. b, LSCPT relatives au prévenu ou à un tiers au sens de l’art. 270, let. b. du présent code.[^273-4]
 
 <sup>2</sup> L’ordre de surveillance est soumis à l’autorisation du tribunal des mesures de contrainte.
 
 <sup>3</sup> Les données mentionnées à l’al. 1 peuvent être demandées avec effet rétroactif sur une période de six mois au plus, indépendamment de la durée de la surveillance.
 
 [^273-1]: Nouvelle teneur selon l’annexe ch. II 1 de la LF du 18 mars 2016 sur la surveillance de la correspondance par poste et télécommunication, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31); [FF 2013 2379](https://fedlex.data.admin.ch/eli/fga/2013/512)).
-[^273-2]: [RS 780.1](https://fedlex.data.admin.ch/eli/cc/2018/31)
-[^273-3]: Nouvelle teneur selon le ch. I 12 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^273-2]: Nouvelle teneur selon l’annexe 2 ch. 2 de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^273-3]: [RS 780.1](https://fedlex.data.admin.ch/eli/cc/2018/31)
+[^273-4]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 274
 
@@ -3915,42 +4082,43 @@ Le ministère public peut ordonner une investigation secrète aux conditions sui
 
 L’investigation secrète peut être ordonnée aux fins de poursuivre les infractions visées par les dispositions suivantes:
 
-- a.[^286-1] CP: art. 111 à 113, 122, 124, 129, 135, 138 à 140, 143, al. 1, 144, al. 3, 144<sup>bis</sup>, ch. 1, par. 2, et ch. 2, par. 2, 146, al. 1 et 2, 147, al. 1 et 2, 148, 156, 160, 182 à 185<sup>bis</sup>, 187, 188, ch. 1, 189, al. 1 et 3, 190, al. 1 et 3, 191, 192, al. 1, 195, 196, 197, al. 3 à 5, 221, al. 1 et 2, 223, ch. 1, 224, al. 1, 227, ch. 1, par. 1, 228, ch. 1, par. 1, 230<sup>bis</sup>, 231, 232, ch. 1, 233, ch. 1, 234, al. 1, 237, ch. 1, 240, al. 1, 242, 244, al. 2, 251, ch. 1, 260<sup>bis</sup> à 260<sup>sexies</sup>, 264 à 267, 271, 272, ch. 2, 273, 274, ch. 1, par. 2, 301, 305<sup>bis</sup>, ch. 2, 310, 322<sup>ter</sup>, 322<sup>quater</sup> et 322<sup>septies</sup>;
-- b.[^286-2] loi fédérale du 16 décembre 2005 sur les étrangers et l’intégration[^286-3]: art. 116, al. 3, et 118, al. 3;
-- c. loi fédérale du 22 juin 2001 relative à la Convention de La Haye sur l’adoption et aux mesures de protection de l’enfant en cas d’adoption internationale[^286-4]: art. 24;
-- d.[^286-5] loi fédérale du 13 décembre 1996 sur le matériel de guerre[^286-6]: art. 33, al. 2, et 34 à 35*b*;
-- e. loi du 21 mars 2003 sur l’énergie nucléaire[^286-7]: art. 88, al. 1 et 2, 89, al. 1 et 2, et 90, al. 1;
-- f.[^286-8] loi du 3 octobre 1951 sur les stupéfiants[^286-9]: art. 19, al. 2, et 20, al. 2;
-- g. loi du 13 décembre 1996 sur le contrôle des biens[^286-10]: art. 14, al. 2;
-- h.[^286-11] loi du 17 juin 2011 sur l’encouragement du sport[^286-12]: art. 22, al. 2, et 25*a*, al. 3;
-- i.[^286-13] loi du 20 juin 1997 sur les armes[^286-14]: art. 33, al. 3;
-- j.[^286-15] loi du 15 décembre 2000 sur les produits thérapeutiques[^286-16]: art. 86, al. 2 et 3;
-- k.[^286-17] loi fédérale du 29 septembre 2017 sur les jeux d’argent[^286-18]: art. 130, al. 2, pour les infractions visées à l’art. 130, al. 1, let. a;
-- l.[^286-19] loi fédérale du 25 septembre 2015 sur le renseignement[^286-20]: art. 74, al. 4.
+- a.[^286-1] CP[^286-2]: art. 111 à 113, 122, 124, 129, 135, 138 à 140, 143, al. 1, 144, al. 3, 144<sup>bis</sup>, ch. 1, par. 2, et ch. 2, par. 2, 146, al. 1 et 2, 147, al. 1 et 2, 148, 156, 160, 182 à 185<sup>bis</sup>, 187, 188, ch. 1, 189, al. 1 et 3, 190, al. 1 et 3, 191, 192, al. 1, 195, 196, 197, al. 3 à 5, 221, al. 1 et 2, 223, ch. 1, 224, al. 1, 226<sup>bis</sup>, 226<sup>ter</sup>, 227, ch. 1, par. 1, 228, ch. 1, par. 1, 230<sup>bis</sup>, 231, 232, ch. 1, 233, ch. 1, 234, al. 1, 237, ch. 1, 240, al. 1, 242, 244, al. 2, 251, ch. 1, 260<sup>bis</sup> à 260<sup>sexies</sup>, 264 à 267, 271, 272, ch. 2, 273, 274, ch. 1, par. 2, 301, 305<sup>bis</sup>, ch. 2, 310, 322<sup>ter</sup>, 322<sup>quater</sup> et 322<sup>septies</sup>;
+- b.[^286-3] loi fédérale du 16 décembre 2005 sur les étrangers et l’intégration[^286-4]: art. 116, al. 3, et 118, al. 3;
+- c. loi fédérale du 22 juin 2001 relative à la Convention de La Haye sur l’adoption et aux mesures de protection de l’enfant en cas d’adoption internationale[^286-5]: art. 24;
+- d.[^286-6] loi fédérale du 13 décembre 1996 sur le matériel de guerre[^286-7]: art. 33, al. 2, et 34 à 35*b*;
+- e. loi du 21 mars 2003 sur l’énergie nucléaire[^286-8]: art. 88, al. 1 et 2, 89, al. 1 et 2, et 90, al. 1;
+- f.[^286-9] LStup[^286-10]: art. 19, al. 2, et 20, al. 2;
+- g. loi du 13 décembre 1996 sur le contrôle des biens[^286-11]: art. 14, al. 2;
+- h.[^286-12] loi du 17 juin 2011 sur l’encouragement du sport[^286-13]: art. 22, al. 2, et 25*a*, al. 3;
+- i.[^286-14] loi du 20 juin 1997 sur les armes[^286-15]: art. 33, al. 3;
+- j.[^286-16] loi du 15 décembre 2000 sur les produits thérapeutiques[^286-17]: art. 86, al. 2 et 3;
+- k.[^286-18] loi fédérale du 29 septembre 2017 sur les jeux d’argent[^286-19]: art. 130, al. 2, pour les infractions visées à l’art. 130, al. 1, let. a;
+- l.[^286-20] loi fédérale du 25 septembre 2015 sur le renseignement[^286-21]: art. 74, al. 4.
 
-<sup>3</sup> Lorsque le jugement d’une infraction relevant d’une juridiction militaire est délégué à une juridiction civile, l’investigation secrète peut également être ordonnée aux fins de poursuivre les infractions énumérées à l’art. 70, al. 2, de la procédure pénale militaire du 23 mars 1979[^286-21].
+<sup>3</sup> Lorsque le jugement d’une infraction relevant d’une juridiction militaire est délégué à une juridiction civile, l’investigation secrète peut également être ordonnée aux fins de poursuivre les infractions énumérées à l’art. 70, al. 2, de la procédure pénale militaire du 23 mars 1979[^286-22].
 
-[^286-1]: Nouvelle teneur selon le ch. I 12 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
-[^286-2]: Nouvelle teneur selon l’annexe ch. II 7 de la LF du 19 mars 2010 sur l’organisation des autorités pénales, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7371](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
-[^286-3]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^286-4]: [RS 211.221.31](https://fedlex.data.admin.ch/eli/cc/2002/639)
-[^286-5]: Nouvelle teneur selon le ch. II de la LF du 16 mars 2012, en vigueur depuis le 1<sup>er</sup> fév. 2013 ([RO 2013 295](https://fedlex.data.admin.ch/eli/oc/2013/48); [FF 2011 5495](https://fedlex.data.admin.ch/eli/fga/2011/879)).
-[^286-6]: [RS 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
-[^286-7]: [RS 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
-[^286-8]: Erratum de la CdR de l’Ass. féd. du 19 sept. 2011, publié le 4 oct. 2011 ([RO 2011 4487](https://fedlex.data.admin.ch/eli/oc/2011/619)).
-[^286-9]: [RS 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
-[^286-10]: [RS 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
-[^286-11]: Introduite par l’art. 34 ch. 2 de la LF du 17 juin 2011 sur l’encouragement du sport ([RO 2012 3953](https://fedlex.data.admin.ch/eli/oc/2012/460); [FF 2009 7401](https://fedlex.data.admin.ch/eli/fga/2009/1425)). Nouvelle teneur selon l’annexe ch. II 2 de la LF du 29 sept. 2017 sur les jeux d’argent, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [FF 2015 7627](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
-[^286-12]: [RS 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)
-[^286-13]: Introduite par l’annexe ch. II 1 de la LF du 18 mars 2016 sur la surveillance de la correspondance par poste et télécommunication, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31); [FF 2013 2379](https://fedlex.data.admin.ch/eli/fga/2013/512)).
-[^286-14]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
-[^286-15]: Introduite par l’annexe ch. 1 de l’AF du 29 sept. 2017 (Convention Médicrime), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4771](https://fedlex.data.admin.ch/eli/oc/2018/765); [FF 2017 2945](https://fedlex.data.admin.ch/eli/fga/2017/649)).
-[^286-16]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
-[^286-17]: Introduite par l’annexe ch. II 2 de la LF du 29 sept. 2017 sur les jeux d’argent, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [FF 2015 7627](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
-[^286-18]: [RS 935.51](https://fedlex.data.admin.ch/eli/cc/2018/795)
-[^286-19]: Introduite par l’annexe ch.II 1 de l’AF du 25 sept. 2020 portant approbation et mise en œuvre de la Convention du Conseil de l’Europe pour la prévention du terrorisme et de son Protocole additionnel et concernant le renforcement des normes pénales contre le terrorisme et le crime organisé, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 6469](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
-[^286-20]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
-[^286-21]: [RS 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
+[^286-1]: Nouvelle teneur selon l’annexe 2 ch. 2 de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^286-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^286-3]: Nouvelle teneur selon l’annexe ch. II 7 de la LF du 19 mars 2010 sur l’organisation des autorités pénales, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7371](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
+[^286-4]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^286-5]: [RS 211.221.31](https://fedlex.data.admin.ch/eli/cc/2002/639)
+[^286-6]: Nouvelle teneur selon le ch. II de la LF du 16 mars 2012, en vigueur depuis le 1<sup>er</sup> fév. 2013 ([RO 2013 295](https://fedlex.data.admin.ch/eli/oc/2013/48); [FF 2011 5495](https://fedlex.data.admin.ch/eli/fga/2011/879)).
+[^286-7]: [RS 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
+[^286-8]: [RS 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
+[^286-9]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^286-10]: [RS 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
+[^286-11]: [RS 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
+[^286-12]: Introduite par l’art. 34 ch. 2 de la LF du 17 juin 2011 sur l’encouragement du sport ([RO 2012 3953](https://fedlex.data.admin.ch/eli/oc/2012/460); [FF 2009 7401](https://fedlex.data.admin.ch/eli/fga/2009/1425)). Nouvelle teneur selon l’annexe ch. II 2 de la LF du 29 sept. 2017 sur les jeux d’argent, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [FF 2015 7627](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
+[^286-13]: [RS 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)
+[^286-14]: Introduite par l’annexe ch. II 1 de la LF du 18 mars 2016 sur la surveillance de la correspondance par poste et télécommunication, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31); [FF 2013 2379](https://fedlex.data.admin.ch/eli/fga/2013/512)).
+[^286-15]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^286-16]: Introduite par l’annexe ch. 1 de l’AF du 29 sept. 2017 (Convention Médicrime), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4771](https://fedlex.data.admin.ch/eli/oc/2018/765); [FF 2017 2945](https://fedlex.data.admin.ch/eli/fga/2017/649)).
+[^286-17]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
+[^286-18]: Introduite par l’annexe ch. II 2 de la LF du 29 sept. 2017 sur les jeux d’argent, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [FF 2015 7627](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
+[^286-19]: [RS 935.51](https://fedlex.data.admin.ch/eli/cc/2018/795)
+[^286-20]: Introduite par l’annexe ch.II 1 de l’AF du 25 sept. 2020 portant approbation et mise en œuvre de la Convention du Conseil de l’Europe pour la prévention du terrorisme et de son Protocole additionnel et concernant le renforcement des normes pénales contre le terrorisme et le crime organisé, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 6469](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^286-21]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^286-22]: [RS 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
 
 #### Art. 287
 
@@ -4050,11 +4218,16 @@ La personne de contact a notamment les tâches suivantes:
 
 #### Art. 294
 
-**Interventions lors de la poursuite de délits en matière de stupéfiants**
+**Exemption de peine**[^294-1]
 
-L’agent infiltré qui agit dans le cadre d’une investigation secrète dûment autorisée n’est pas punissable en vertu des art. 19 et 20 à 22 de la loi du 3 octobre 1951 sur les stupéfiants[^294-1].
+Dans la mesure où l’agent infiltré agit dans le cadre d’une investigation secrète dûment autorisée, il n’est pas punissable en vertu des dispositions suivantes:
 
-[^294-1]: [RS 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
+- a. lors de la poursuite de la pornographie avec des mineurs ou des actes d’ordre sexuel avec des mineurs: art. 197, al. 4 et 5, CP[^294-2], dans la mesure où les objets ou représentations ont comme contenu des actes d’ordre sexuel non effectifs avec des mineurs;
+- b. lors de la poursuite d’infractions contre la LStup[^294-3]: art. 19 et 20 à 22 LStup.
+
+[^294-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^294-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^294-3]: [RS 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
 
 #### Art. 295
 
@@ -4195,9 +4368,13 @@ La procédure préliminaire est introduite:
 
 <sup>1</sup> Chacun a le droit de dénoncer des infractions à une autorité de poursuite pénale, par écrit ou oralement.
 
+<sup>1bis</sup> Le dénonciateur peut demander à l’autorité de poursuite pénale une confirmation de la dénonciation si celle-ci a été faite oralement pour mention au procès-verbal.[^301-1]
+
 <sup>2</sup> L’autorité de poursuite pénale informe le dénonciateur, à sa demande, sur la suite qu’elle a donnée à sa dénonciation.
 
 <sup>3</sup> Le dénonciateur qui n’est ni lésé, ni partie plaignante ne jouit d’aucun autre droit en procédure.
+
+[^301-1]: Introduit par le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 302
 
@@ -4216,6 +4393,16 @@ La procédure préliminaire est introduite:
 <sup>1</sup> Dans le cas de poursuites qui ne sont engagées que sur plainte ou qui sont soumises à autorisation, la procédure préliminaire n’est introduite que lorsque la plainte pénale est déposée ou que l’autorisation a été donnée.
 
 <sup>2</sup> L’autorité compétente peut prendre, avant le dépôt de la plainte pénale ou l’octroi de l’autorisation, les mesures conservatoires qui ne souffrent aucun retard.
+
+#### Art. 303a
+
+**Fourniture de sûretés en cas de délit contre l’honneur**[^303a-1]
+
+<sup>1</sup> En cas de délit contre l’honneur, le ministère public peut astreindre le plaignant à fournir des sûretés dans un délai déterminé pour couvrir les éventuels frais et indemnités.
+
+<sup>2</sup> Si les sûretés ne sont pas fournies dans le délai imparti, la plainte pénale est réputée retirée.
+
+[^303a-1]: Introduit par le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 304
 
@@ -4390,15 +4577,16 @@ Le ministère public peut suspendre une instruction, notamment:
 
 #### Art. 316
 
-<sup>1</sup> Lorsque la procédure préliminaire porte exclusivement sur des infractions poursuivies sur plainte, le ministère public peut citer le plaignant et le prévenu à une audience dans le but d’aboutir à un arrangement à l’amiable. Si le plaignant fait défaut, la plainte est considérée comme retirée.
+<sup>1</sup> Lorsque des infractions poursuivies sur plainte font l’objet de la procédure préliminaire, le ministère public peut citer le plaignant et le prévenu à une audience dans le but d’aboutir à un arrangement à l’amiable.[^316-1] Si le plaignant fait défaut, la plainte est considérée comme retirée.
 
-<sup>2</sup> Si une exemption de peine au titre de réparation selon l’art. 53 CP[^316-1] entre en ligne de compte, le ministère public cite le lésé et le prévenu à une audience dans le but d’aboutir à une réparation.
+<sup>2</sup> Si une exemption de peine au titre de réparation selon l’art. 53 CP[^316-2] entre en ligne de compte, le ministère public cite le lésé et le prévenu à une audience dans le but d’aboutir à une réparation.
 
 <sup>3</sup> Si la conciliation aboutit, mention doit en être faite au procès-verbal signé des participants. Le ministère public classe alors la procédure.
 
 <sup>4</sup> Si le prévenu fait défaut lors d’une audience selon l’al. 1 ou 2 ou si la tentative de conciliation n’aboutit pas, le ministère public mène l’instruction sans délai. Il peut, dans les cas dûment justifiés, astreindre le plaignant à verser dans les dix jours des sûretés pour les frais et les indemnités.
 
-[^316-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^316-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^316-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
 ### Section 4 Clôture de l’instruction
 
@@ -4414,9 +4602,14 @@ Dans les procédures préliminaires importantes et complexes, le ministère publ
 
 <sup>1</sup> Lorsqu’il estime que l’instruction est complète, le ministère public rend une ordonnance pénale ou informe par écrit les parties dont le domicile est connu de la clôture prochaine de l’instruction et leur indique s’il entend rendre une ordonnance de mise en accusation ou une ordonnance de classement. En même temps, il fixe aux parties un délai pour présenter leurs réquisitions de preuves.
 
+<sup>1bis</sup> Il indique par écrit aux personnes lésées dont le domicile est connu et qui n’ont pas encore été informées de leurs droits qu’il entend rendre une ordonnance pénale, une ordonnance de mise en accusation ou une ordonnance de classement; il leur fixe un délai pour se constituer parties plaignantes et pour présenter leurs réquisitions de preuves.[^318-1]
+
 <sup>2</sup> Le ministère public ne peut écarter une réquisition de preuves que si celle-ci exige l’administration de preuves sur des faits non pertinents, notoires, connus de l’autorité pénale ou déjà suffisamment prouvés en droit. Il rend sa décision par écrit et la motive brièvement. Les réquisitions de preuves écartées peuvent être réitérées dans le cadre des débats.
 
-<sup>3</sup> Les informations visées à l’al. 1 et les décisions rendues en vertu de l’al. 2 ne sont pas sujettes à recours.
+<sup>3</sup> Les informations visées aux al. 1 et 1<sup>bis</sup> et les décisions rendues en vertu de l’al. 2 ne sont pas sujettes à recours.[^318-2]
+
+[^318-1]: Introduit par le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^318-2]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 ### Chapitre 4 Classement et mise en accusation
 
@@ -4479,6 +4672,10 @@ Le ministère public notifie l’ordonnance de classement:
 <sup>1</sup> La Confédération et les cantons peuvent disposer que les ordonnances de classement doivent être approuvées par un premier procureur ou par un procureur général.
 
 <sup>2</sup> Les parties peuvent attaquer l’ordonnance de classement dans les dix jours devant l’autorité de recours.
+
+<sup>3</sup> Il peut être formé opposition contre une décision de confiscation prononcée dans le cadre de l’ordonnance de classement. La procédure d’opposition est régie par les dispositions sur l’ordonnance pénale. Le tribunal statue sous la forme d’une décision ou d’une ordonnance.[^322-1]
+
+[^322-1]: Introduit par le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 323
 
@@ -4603,13 +4800,15 @@ La direction de la procédure examine:
 
 <sup>1</sup> La direction de la procédure détermine les preuves qui seront administrées lors des débats. Elle fait connaître aux parties la composition du tribunal et les preuves qui seront administrées.
 
-<sup>2</sup> Elle fixe en même temps un délai aux parties pour présenter et motiver leur réquisition de preuves en attirant leur attention sur les frais et indemnités qu’entraîne le non respect du délai.
+<sup>2</sup> Elle fixe en même temps un délai aux parties pour présenter et motiver leur réquisition de preuves en attirant leur attention sur les frais et indemnités qu’entraîne le non respect du délai. Elle fixe le même délai à la partie plaignante pour chiffrer et motiver ses conclusions civiles.[^331-1]
 
 <sup>3</sup> Elle informe les parties des réquisitions de preuves qu’elle a rejetées en motivant succinctement sa décision. Celle-ci n’est pas sujette à recours; les réquisitions de preuves rejetées peuvent toutefois être présentées à nouveau aux débats.
 
 <sup>4</sup> La direction de la procédure fixe la date, l’heure et le lieu des débats et cite les parties, les témoins, les personnes appelées à donner des renseignements et les experts qui doivent être entendus.
 
 <sup>5</sup> Elle se prononce de manière définitive sur les demandes d’ajournement qui lui parviennent avant le début des débats.
+
+[^331-1]: Phrase introduite par le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 332
 
@@ -4757,16 +4956,30 @@ Le fait que les questions préjudicielles ont été traitées produit les effets
 
 <sup>1</sup>
 
-D’office ou à la requête du prévenu ou du ministère public, le tribunal peut scinder les débats en deux parties et décider:
+D’office ou à la requête du prévenu ou du ministère public, les débats peuvent être scindés en deux parties; il peut être décidé que seules seront traitées:
 
-- a. que dans la première partie, il ne traitera que de la question des faits et de celle de la culpabilité et, dans la seconde, que des conséquences d’une déclaration de culpabilité ou d’un acquittement;
-- b. que dans la première partie, il ne traitera que de la question des faits et, dans la seconde, que de celle de la culpabilité et des conséquences d’une déclaration de culpabilité ou d’un acquittement.
+- a. dans la première partie, la question des faits et de la culpabilité, et dans la seconde partie, la question des conséquences d’une déclaration de culpabilité ou d’un acquittement, ou
+- b. dans la première partie, la question des faits, et dans la seconde partie, la question de la culpabilité et des conséquences d’une déclaration de culpabilité ou d’un acquittement.[^342-1]
 
-<sup>2</sup> La décision de scinder les débats n’est pas sujette à recours.
+<sup>1bis</sup>
+
+Cette décision relève:
+
+- a. jusqu’à l’ouverture des débats: de la direction de la procédure;
+- b. après l’ouverture des débats: du tribunal.[^342-2]
+
+<sup>1ter</sup> La direction de la procédure informe les parties en motivant brièvement sa décision si elle rejette la demande de scinder les débats. Une nouvelle demande peut être déposée lors des débats.[^342-3]
+
+<sup>2</sup> La décision relative à la scission des débats n’est pas sujette à recours.[^342-4]
 
 <sup>3</sup> Lorsque la procédure est scindée, la situation personnelle du prévenu ne peut faire l’objet des débats que dans le cas d’une déclaration de culpabilité, à moins qu’elle soit pertinente pour le règlement de la question des éléments constitutifs, objectifs et subjectifs, de l’infraction.
 
 <sup>4</sup> Les décisions relatives aux faits et à la culpabilité du prévenu sont notifiées après les délibérations du tribunal; elles ne peuvent toutefois faire l’objet d’un recours qu’une fois le jugement complet rendu.
+
+[^342-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^342-2]: Introduit par le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^342-3]: Introduit par le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^342-4]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 343
 
@@ -4878,6 +5091,14 @@ Le ministère public rend une ordonnance pénale si, durant la procédure préli
 [^352-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^352-3]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 20 mars 2015 (Mise en œuvre de l’art. 121, al. 3 à 6, Cst. relatif au renvoi des étrangers criminels), en vigueur depuis le 1<sup>er</sup> oct. 2016 ([RO 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [FF 2013 5373](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
 
+#### Art. 352a
+
+**Audition**[^352a-1]
+
+Le ministère public entend le prévenu s’il est probable que l’ordonnance pénale débouchera sur une peine privative de liberté à exécuter.
+
+[^352a-1]: Introduit par le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+
 #### Art. 353
 
 **Contenu et notification de l’ordonnance pénale**
@@ -4899,11 +5120,17 @@ L’ordonnance pénale contient les informations suivantes:
 - j. le lieu et la date de l’établissement de l’ordonnance;
 - k. la signature de la personne qui a établi l’ordonnance.
 
-<sup>2</sup> Si le prévenu a reconnu des prétentions civiles de la partie plaignante, mention en est faite dans l’ordonnance pénale. Les prétentions qui n’ont pas été reconnues sont renvoyées au procès civil.
+<sup>2</sup>
+
+Le ministère public peut statuer sur les prétentions civiles par ordonnance pénale, dans la mesure où celles-ci sont reconnues par le prévenu, ou lorsque les conditions suivantes sont réunies:
+
+- a. aucune administration supplémentaire des preuves n’est nécessaire;
+- b. la valeur litigieuse n’excède pas 30 000 francs.[^353-2]
 
 <sup>3</sup> L’ordonnance pénale est immédiatement notifiée par écrit aux personnes et aux autorités qui ont qualité pour former opposition.
 
 [^353-1]: Introduite par l’annexe 1 ch. 2 de la LF du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
+[^353-2]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 354
 
@@ -4914,12 +5141,18 @@ L’ordonnance pénale contient les informations suivantes:
 Peuvent former opposition contre l’ordonnance pénale devant le ministère public, par écrit et dans les dix jours:
 
 - a. le prévenu;
+- a<sup>bis</sup>.[^354-1] la partie plaignante;
 - b. les autres personnes concernées;
 - c. si cela est prévu, le premier procureur ou le procureur général de la Confédération ou du canton, dans le cadre de la procédure pénale pertinente.
+
+<sup>1</sup> <sup>bis</sup> La partie plaignante ne peut pas former opposition contre la sanction prononcée dans l’ordonnance pénale.[^354-2]
 
 <sup>2</sup> L’opposition doit être motivée, à l’exception de celle du prévenu.
 
 <sup>3</sup> Si aucune opposition n’est valablement formée, l’ordonnance pénale est assimilée à un jugement entré en force.
+
+[^354-1]: Introduite par le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^354-2]: Introduit par le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 355
 
@@ -5072,6 +5305,10 @@ Le tribunal apprécie librement:
 
 <sup>4</sup> Il donne à la personne concernée et aux autorités l’occasion de s’exprimer sur les décisions envisagées et de soumettre leurs propositions.
 
+<sup>5</sup> Au surplus, les dispositions relatives à la procédure de première instance sont applicables par analogie à la procédure devant le tribunal (art. 363, al. 1); l’art. 390 est applicable par analogie à la procédure écrite.[^364-1]
+
+[^364-1]: Introduit par le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+
 #### Art. 364a
 
 **Détention pour des motifs de sûreté ordonnée en vue d’une décision judiciaire ultérieure indépendante**[^364a-1]
@@ -5115,6 +5352,10 @@ L’autorité compétente pour l’introduction de la procédure tendant à rend
 <sup>1</sup> Le tribunal statue sur la base du dossier. Il peut aussi ordonner des débats.
 
 <sup>2</sup> Il rend sa décision par écrit et la motive brièvement. Si des débats ont eu lieu, il notifie sa décision immédiatement et oralement.
+
+<sup>3</sup> Il peut être formé appel contre sa décision.[^365-1]
+
+[^365-1]: Introduit par le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 ### Chapitre 4 Procédure par défaut
 
@@ -5273,7 +5514,10 @@ Une procédure de confiscation indépendante est introduite lorsque la confiscat
 
 <sup>3</sup> Si les conditions ne sont pas réunies, il prononce le classement de la procédure et restitue les objets ou les valeurs patrimoniales à l’ayant droit.
 
-<sup>4</sup> La procédure d’opposition est régie par les dispositions sur l’ordonnance pénale. Le prononcé du tribunal est rendu sous la forme d’une décision ou d’une ordonnance.
+<sup>4</sup> La procédure d’opposition est régie par les dispositions sur l’ordonnance pénale. Le tribunal statue sous la forme d’un jugement.[^377-1] Il peut être formé appel contre sa décision.[^377-2]
+
+[^377-1]: Nouvelle teneur de la phrase selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^377-2]: Phrase introduite par le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 378
 
@@ -5307,12 +5551,17 @@ Les décisions qualifiées de définitives ou de non sujettes à recours par le 
 
 <sup>3</sup> Ils déterminent quelles autorités peuvent interjeter recours dans la procédure pénale en matière de contraventions.
 
-<sup>4</sup>
+<sup>4</sup> …[^381-1]
 
-Le Ministère public de la Confédération peut recourir contre des décisions cantonales:
+[^381-1]: Abrogé par le ch. I de la LF du 17 juin 2022, avec effet au 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
-- a. lorsque le droit fédéral prévoit que la décision doit être communiquée à lui‑même ou à une autre autorité fédérale.
-- b. lorsqu’il a délégué l’instruction et le jugement d’une affaire pénale aux autorités cantonales.
+#### Art. 381a
+
+**Qualité pour recourir des autorités fédérales**[^381a-1]
+
+Les autorités fédérales peuvent recourir contre les décisions cantonales lorsque le droit fédéral prévoit que la décision doit leur être communiquée.
+
+[^381a-1]: Introduit par le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 382
 
@@ -5383,13 +5632,26 @@ Les voies de recours n’ont pas d’effet suspensif; les dispositions du prése
 
 #### Art. 388
 
-**Ordonnances rendues par la direction de la procédure et mesures provisionnelles**
+**Compétence de la direction de la procédure en matière d’ordonnances de procédure, de mesures provisionnelles et de décisions de non-entrée en matière[^388-1]**
+
+<sup>1</sup>
 
 La direction de la procédure de l’autorité de recours rend les ordonnances et prend les mesures provisionnelles qui s’imposent et qui ne souffrent aucun délai. Elle peut notamment:
 
 - a. charger le ministère public de l’administration des preuves lorsque celle-ci ne souffre aucun délai;
 - b. ordonner la mise en détention du prévenu;
 - c. nommer un défenseur d’office.
+
+<sup>2</sup>
+
+Elle décide de ne pas entrer en matière sur les recours:
+
+- a. manifestement irrecevables;
+- b. dont la motivation est manifestement insuffisante;
+- c. procéduriers ou abusifs.[^388-2]
+
+[^388-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^388-2]: Introduit par le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 389
 
@@ -5509,6 +5771,10 @@ Si l’autorité de recours est un tribunal collégial, sa direction de la proc�
 
 <sup>4</sup> Si elle constate un déni de justice ou un retard injustifié, elle peut donner des instructions à l’autorité concernée en lui impartissant des délais pour s’exécuter.
 
+<sup>5</sup> L’autorité de recours statue dans les six mois.[^397-1]
+
+[^397-1]: Introduit par le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+
 ### Chapitre 3 Appel
 
 ### Section 1 Dispositions générales
@@ -5517,7 +5783,7 @@ Si l’autorité de recours est un tribunal collégial, sa direction de la proc�
 
 **Recevabilité et motifs d’appel**
 
-<sup>1</sup> L’appel est recevable contre les jugements des tribunaux de première instance qui ont clos tout ou partie de la procédure.
+<sup>1</sup> L’appel est recevable contre les jugements des tribunaux de première instance qui ont clos tout ou partie de la procédure, contre les décisions judiciaires ultérieures indépendantes et contre les décisions de confiscation indépendantes.[^398-1]
 
 <sup>2</sup> La juridiction d’appel jouit d’un plein pouvoir d’examen sur tous les points attaqués du jugement.
 
@@ -5532,6 +5798,8 @@ L’appel peut être formé pour:
 <sup>4</sup> Lorsque seules des contraventions ont fait l’objet de la procédure de première instance, l’appel ne peut être formé que pour le grief que le jugement est juridiquement erroné ou que l’état de fait a été établi de manière manifestement inexacte ou en violation du droit. Aucune nouvelle allégation ou preuve ne peut être produite.
 
 <sup>5</sup> Si un appel ne porte que sur les conclusions civiles, la juridiction d’appel n’examine le jugement de première instance que dans la mesure où le droit de procédure civile applicable au for autoriserait l’appel.
+
+[^398-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 399
 
@@ -5686,7 +5954,11 @@ L’appel ou l’appel joint est réputé retiré si la partie qui l’a déclar
 
 **Nouveau jugement**
 
-Si la juridiction d’appel entre en matière, elle rend un nouveau jugement qui remplace le jugement de première instance.
+<sup>1</sup> Si la juridiction d’appel entre en matière, elle rend un nouveau jugement qui remplace le jugement de première instance.
+
+<sup>2</sup> La juridiction d’appel statue dans les douze mois.[^408-1]
+
+[^408-1]: Introduit par le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 409
 
@@ -5708,15 +5980,15 @@ Si la juridiction d’appel entre en matière, elle rend un nouveau jugement qui
 
 Toute personne lésée par un jugement entré en force, une ordonnance pénale, une décision judiciaire ultérieure ou une décision rendue dans une procédure indépendante en matière de mesures, peut en demander la révision:
 
-- a. s’il existe des faits ou des moyens de preuves qui étaient inconnus de l’autorité inférieure et qui sont de nature à motiver l’acquittement ou une condamnation sensiblement moins sévère ou plus sévère du condamné ou encore la condamnation de la personne acquittée;
+- a.[^410-1] s’il existe des faits nouveaux antérieurs au prononcé ou de nouveaux moyens de preuve qui sont de nature à motiver l’acquittement ou une condamnation sensiblement moins sévère ou plus sévère du condamné ou encore la condamnation de la personne acquittée;
 - b. si la décision est en contradiction flagrante avec une décision pénale rendue postérieurement sur les mêmes faits;
 - c. s’il est établi dans une autre procédure pénale que le résultat de la procédure a été influencé par une infraction, une condamnation n’étant pas exigée comme preuve; si la procédure pénale ne peut être exécutée, la preuve peut être apportée d’une autre manière.
 
 <sup>2</sup>
 
-La révision pour violation de la Convention du 4 novembre 1950 de sauvegarde des droits de l’homme et des libertés fondamentales (CEDH)[^410-1] peut être demandée aux conditions suivantes:
+La révision pour violation de la Convention du 4 novembre 1950 de sauvegarde des droits de l’homme et des libertés fondamentales (CEDH)[^410-2] peut être demandée aux conditions suivantes:
 
-- a.[^410-2] la Cour européenne des droits de l’homme a constaté, dans un arrêt définitif (art. 44 CEDH), une violation de la CEDH ou de ses protocoles, ou a conclu le cas par un règlement amiable (art. 39 CEDH);
+- a.[^410-3] la Cour européenne des droits de l’homme a constaté, dans un arrêt définitif (art. 44 CEDH), une violation de la CEDH ou de ses protocoles, ou a conclu le cas par un règlement amiable (art. 39 CEDH);
 - b. une indemnité n’est pas de nature à remédier aux effets de la violation;
 - c. la révision est nécessaire pour remédier aux effets de la violation.
 
@@ -5724,8 +5996,9 @@ La révision pour violation de la Convention du 4 novembre 1950 de sauvegarde de
 
 <sup>4</sup> La révision limitée aux prétentions civiles n’est recevable qu’au cas où le droit de la procédure civile applicable au for permettrait la révision.
 
-[^410-1]: [RS 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
-[^410-2]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 289](https://fedlex.data.admin.ch/eli/oc/2022/289); [FF 2021 300](https://fedlex.data.admin.ch/eli/fga/2021/300), [889](https://fedlex.data.admin.ch/eli/fga/2021/889)).
+[^410-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^410-2]: [RS 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
+[^410-3]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 289](https://fedlex.data.admin.ch/eli/oc/2022/289); [FF 2021 300](https://fedlex.data.admin.ch/eli/fga/2021/300), [889](https://fedlex.data.admin.ch/eli/fga/2021/889)).
 
 #### Art. 411
 
@@ -5913,7 +6186,7 @@ Les frais de procédure causés par les conclusions civiles de la partie plaigna
 
 <sup>2</sup>
 
-En cas d’infractions poursuivies sur plainte, les frais de procédure peuvent, aux conditions suivantes, être mis à la charge de la partie plaignante ou du plaignant qui, ayant agi de manière téméraire ou par négligence grave, a entravé le bon déroulement de la procédure ou rendu celle-ci plus difficile:
+En cas d’infractions poursuivies sur plainte, les frais de procédure peuvent, aux conditions suivantes, être mis à la charge du plaignant qui, ayant agi de manière téméraire ou par négligence grave, a provoqué l’ouverture de la procédure ou rendu plus difficile la conduite de celle-ci, ou de la partie plaignante:[^427-1] [^427-2]
 
 - a. la procédure est classée ou le prévenu acquitté;
 - b. le prévenu n’est pas astreint au paiement des frais conformément à l’art. 426, al. 2.
@@ -5921,6 +6194,9 @@ En cas d’infractions poursuivies sur plainte, les frais de procédure peuvent,
 <sup>3</sup> Si le plaignant retire sa plainte au cours d’une tentative de conciliation du ministère public, la Confédération ou le canton supportent en règle générale les frais de procédure.
 
 <sup>4</sup> Toute convention entre le plaignant et le prévenu portant sur l’imputation des frais en rapport avec un retrait de la plainte requiert l’assentiment de l’autorité qui a ordonné le classement. Elle ne doit pas avoir d’effets préjudiciables pour la Confédération ou le canton.
+
+[^427-1]: Rectifié par la Commission de rédaction de l’Ass. féd. (art. 58, al. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^427-2]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 428
 
@@ -5953,11 +6229,16 @@ Lorsqu’une partie qui interjette un recours obtient une décision qui lui est 
 
 Si le prévenu est acquitté totalement ou en partie ou s’il bénéficie d’une ordonnance de classement, il a droit à:
 
-- a. une indemnité pour les dépenses occasionnées par l’exercice raisonnable de ses droits de procédure;
+- a.[^429-1] une indemnité fixée conformément au tarif des avocats, pour les dépenses occasionnées par l’exercice raisonnable de ses droits de procédure; les tarifs des avocats n’opèrent aucune distinction entre l’indemnité allouée et les honoraires dus en cas de défense privée;
 - b. une indemnité pour le dommage économique subi au titre de sa participation obligatoire à la procédure pénale;
 - c. une réparation du tort moral subi en raison d’une atteinte particulièrement grave à sa personnalité, notamment en cas de privation de liberté.
 
 <sup>2</sup> L’autorité pénale examine d’office les prétentions du prévenu. Elle peut enjoindre à celui-ci de les chiffrer et de les justifier.
+
+<sup>3</sup> Lorsque le prévenu a chargé un défenseur privé de sa défense, celui-ci a un droit exclusif à l’indemnité prévue à l’al. 1, let. a, sous réserve de règlement de compte avec son client. Le défenseur peut contester la décision fixant l’indemnité en usant des voies de droit autorisées pour attaquer la décision finale.[^429-2]
+
+[^429-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^429-2]: Introduit par le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 430
 
@@ -5975,7 +6256,7 @@ L’autorité pénale peut réduire ou refuser l’indemnité ou la réparation 
 
 #### Art. 431
 
-**Mesures de contrainte illicites**
+**Indemnité et réparation du tort moral en cas de mesures de contrainte illicites ou de détention excédant la durée autorisée[^431-1]**
 
 <sup>1</sup> Si le prévenu a, de manière illicite, fait l’objet de mesures de contrainte, l’autorité pénale lui alloue une juste indemnité et réparation du tort moral.
 
@@ -5988,13 +6269,18 @@ Le prévenu n’a pas droit aux prestations mentionnées à l’al. 2 s’il:
 - a. est condamné à une peine pécuniaire, à un travail d’intérêt général ou à une amende, dont la conversion donnerait lieu à une peine privative de liberté qui ne serait pas notablement plus courte que la détention provisoire ou la détention pour des motifs de sûreté;
 - b. est condamné à une peine privative de liberté assortie du sursis, dont la durée dépasse celle de la détention provisoire ou de la détention pour des motifs de sûreté qu’il a subie.
 
+[^431-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+
 #### Art. 432
 
 **Prétentions à l’égard de la partie plaignante et du plaignant**
 
 <sup>1</sup> Le prévenu qui obtient gain de cause peut demander à la partie plaignante une juste indemnité pour les dépenses occasionnées par les conclusions civiles.
 
-<sup>2</sup> Lorsque le prévenu obtient gain de cause sur la question de sa culpabilité et que l’infraction est poursuivie sur plainte, la partie plaignante ou le plaignant qui, ayant agi de manière téméraire ou par négligence grave, a entravé le bon déroulement de la procédure ou a rendu celle-ci plus difficile peut être tenu d’indemniser le prévenu pour les dépenses occasionnées par l’exercice raisonnable de ses droits de procédure.
+<sup>2</sup> Lorsque le prévenu obtient gain de cause sur la question de sa culpabilité et que l’infraction est poursuivie sur plainte, le plaignant qui, ayant agi de manière téméraire ou par négligence grave, a provoqué l’ouverture de la procédure ou rendu plus difficile la conduite de celle-ci, ou la partie plaignante peuvent être tenus d’indemniser le prévenu pour les dépenses occasionnées par l’exercice raisonnable de ses droits de procédure.[^432-1] [^432-2]
+
+[^432-1]: Rectifié par la Commission de rédaction de l’Ass. féd. (art. 58, al. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^432-2]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 ### Section 2 Partie plaignante et tiers
 
@@ -6097,7 +6383,7 @@ Les décisions entrées en force fixant des peines et des mesures privatives de 
 
 **Détention pour des motifs de sûreté**
 
-<sup>1</sup> En cas d’urgence, l’autorité d’exécution peut, pour garantir l’exécution d’une peine ou d’une mesure, ordonner la détention du condamné pour des motifs de sûreté.
+<sup>1</sup> L’autorité d’exécution peut, pour garantir l’exécution d’une peine ou d’une mesure, ordonner la mise en détention du condamné pour des motifs de sûreté si l’une des conditions visées à l’art. 439, al. 3, est remplie.[^440-1]
 
 <sup>2</sup>
 
@@ -6106,7 +6392,13 @@ Elle défère le cas dans les cinq jours à compter de la mise en détention:
 - a. au tribunal qui a prononcé la peine ou la mesure à exécuter;
 - b. au tribunal des mesures de contrainte du for du ministère public qui a rendu l’ordonnance pénale.
 
-<sup>3</sup> Le tribunal décide de manière définitive si le condamné doit rester en détention jusqu’au début de l’exécution de la peine ou de la mesure.
+<sup>3</sup> Le tribunal décide si le condamné doit rester en détention jusqu’au début de l’exécution de la peine ou de la mesure.[^440-2]
+
+<sup>4</sup> Le tribunal qui a ordonné la détention pour des motifs de sûreté statue sur les demandes de mise en liberté.[^440-3]
+
+[^440-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^440-2]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^440-3]: Introduit par le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 441
 
@@ -6321,5 +6613,3 @@ Quel que soit l’ordre dans lequel le CPP et la nouvelle LAVI entrent en vigueu
 Quel que soit l’ordre dans lequel le CPP et la nouvelle LAVI entrent en vigueur, à l’entrée en vigueur de la seconde de ces lois, ou à leur entrée en vigueur simultanée, les art. 84a, 104, al. 3, et 118, al. 2 du ch. 12 de l’annexe 1 du CPP ont la teneur suivante:
 
 …
-
-## Table des matières

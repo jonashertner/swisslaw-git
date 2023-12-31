@@ -4,11 +4,11 @@ title: "Swiss Criminal Procedure Code of 5 October 2007 (Criminal Procedure Code
 short: CrimPC
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/267"
 language: en
-version: 2023-08-01
+version: 2024-01-01
 adopted: 2007-10-05
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/267/20230801/en/xml/fedlex-data-admin-ch-eli-cc-2010-267-20230801-en-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20230801/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/267/20240101/en/xml/fedlex-data-admin-ch-eli-cc-2010-267-20240101-en-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20240101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Criminal Procedure Code, CrimPC)
 
-of 5 October 2007 (Status as of 1 August 2023)
+of 5 October 2007 (Status as of 1 January 2024)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -64,7 +64,7 @@ They shall in particular comply with:
 
 - a. the principle of good faith;
 - b. the requirement not to abuse the rights of others;
-- c. the requirement to treat all persons involved in the proceedings equally and fairly and to grant them the right to be heard;
+- c. the requirement to treat all persons involved in the proceedings equally and fairly and to grant them the right to a fair hearing;
 - d. the prohibition, when taking evidence, of using methods that violate human dignity.
 
 #### Art. 4
@@ -174,7 +174,7 @@ The following bodies have judicial powers in criminal proceedings:
 
 - a. the compulsory measures court;
 - b. the court of first instance;
-- c. the objections authority;
+- c. the objections court;
 - d. the court of appeal.
 
 #### Art. 14
@@ -187,7 +187,7 @@ The following bodies have judicial powers in criminal proceedings:
 
 <sup>3</sup> They may establish the offices of a chief public prosecutor or attorney general.
 
-<sup>4</sup> They may establish two or more similar criminal justice authorities and specify the local or material jurisdiction of each; exempted therefrom are the objections authority and the court of appeal.
+<sup>4</sup> They may establish two or more similar criminal justice authorities and specify the local or material jurisdiction of each; exempted therefrom are the objections court and the court of appeal.
 
 <sup>5</sup> They shall regulate the supervision of their criminal justice authorities.
 
@@ -227,7 +227,7 @@ The following bodies have judicial powers in criminal proceedings:
 
 <sup>1</sup> The compulsory measures court is responsible for ordering the accused's remand or preventive detention and, where this Code so provides, for ordering or approving additional compulsory measures.
 
-<sup>2</sup> Members of the compulsory measures court may not sit as judge in the main hearing in the same case.
+<sup>2</sup> Members of the compulsory measures court may not sit as judge at the trial in the same case.
 
 #### Art. 19
 
@@ -240,9 +240,10 @@ The following bodies have judicial powers in criminal proceedings:
 The Confederation and the cantons may provide that the court of first instance comprise one judge sitting alone to assess:
 
 - a. contraventions;
-- b. felonies and misdemeanours, with exception of those for which the public prosecutor demands a custodial sentence of more than two years, indefinite incarceration in terms of Article 64 SCC[^19-1], treatment in terms of Article 59 paragraph 3 SCC or, in the case of suspended sanctions to be revoked simultaneously, a deprivation of liberty of more than two years.
+- b.[^19-1] felonies and misdemeanours, with exception of those for which the public prosecutor demands a custodial sentence of more than two years, indefinite incarceration in terms of Article 64 SCC[^19-2], treatment in terms of Article 59 SCC or, in the case of suspended sanctions to be revoked simultaneously, a deprivation of liberty of more than two years.
 
-[^19-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^19-1]: Amended by No I of the FA of 17 June 2022, in force since 1 Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^19-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
 #### Art. 20
 
@@ -250,13 +251,13 @@ The Confederation and the cantons may provide that the court of first instance c
 
 <sup>1</sup>
 
-The objections authority rules on objections against the procedural acts and decisions not subject to formal appeal:
+The objections court rules on objections against the procedural acts and decisions not subject to formal appeal:
 
 - a. of the courts of first instance;
 - b. of the police, the public prosecutor and the authorities responsible for prosecuting contraventions;
 - c. of the compulsory measures court in the cases provided for by this Code.
 
-<sup>2</sup> The Confederation and the cantons may assign the powers of the objections authority to the court of appeal.
+<sup>2</sup> The Confederation and the cantons may assign the powers of the objections court to the court of appeal.
 
 #### Art. 21
 
@@ -269,7 +270,7 @@ The court of appeal decides on:
 - a. appeals against judgments of the courts of first instance;
 - b. applications for the review of a case.
 
-<sup>2</sup> Any person who has acted as a member of the objections authority may not sit as a member of the court of appeal in the same case.
+<sup>2</sup> Any person who has acted as a member of the objections court may not sit as a member of the court of appeal in the same case.
 
 <sup>3</sup> Any person who has acted as a member of the court of appeal in a specific case may not act as a judge reviewing the same case.
 
@@ -474,7 +475,7 @@ The public prosecutor and the courts may separate or combine criminal proceeding
 
 <sup>1</sup> The public prosecutors may by mutual agreement establish a place of jurisdiction other than that provided for in Articles 31–37 if this is justified by the focus of the criminal activity, the personal circumstances of the accused or other just cause.
 
-<sup>2</sup> In order to safeguard the procedural rights of a party, after charges have been filed, the cantonal objections authority may on application from that party or ex officio transfer the adjudication to another court of first instance in the same canton with material jurisdiction in derogation from the rules on place of jurisdiction in this Chapter.
+<sup>2</sup> In order to safeguard the procedural rights of a party, after charges have been filed, the cantonal objections court may on application from that party or ex officio transfer the adjudication to another court of first instance in the same canton with material jurisdiction in derogation from the rules on place of jurisdiction in this Chapter.
 
 ### Section 3 Procedure for Establishing Jurisdiction
 
@@ -490,11 +491,13 @@ The public prosecutor and the courts may separate or combine criminal proceeding
 
 **Conflicts of jurisdiction**
 
-<sup>1</sup> In the event of a dispute over jurisdiction between criminal justice authorities in the same canton, the Office of the Chief Cantonal Prosecutor or Cantonal Attorney General shall make the final decision or, if there is no such office, the cantonal objections authority.
+<sup>1</sup> In the event of a dispute over jurisdiction between criminal justice authorities in the same canton, the Office of the Chief Cantonal Prosecutor or Cantonal Attorney General shall decide or, if there is no such office, the cantonal objections court.[^40-1]
 
 <sup>2</sup> In the event of a dispute over jurisdiction between criminal justice authorities in different cantons, the public prosecutor of the canton that was first to deal with the matter shall submit the issue immediately, and in every case before bringing charges, to the Federal Criminal Court for decision.
 
 <sup>3</sup> The authority competent to decide on the place of jurisdiction may specify a place of jurisdiction other than that provided for in Articles 31–37 if this is required due to the focus of the criminal activity or the personal circumstances of the accused or if there is other just cause.
+
+[^40-1]: Amended by No I of the FA of 17 June 2022, in force since 1 Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 41
 
@@ -508,7 +511,7 @@ The public prosecutor and the courts may separate or combine criminal proceeding
 
 **Common provisions**
 
-<sup>1</sup> Until a binding decision is made on the place of jurisdiction, the first authority to deal with the case shall carry out any measures that cannot be delayed. If necessary the authority responsible for the decision on the place of jurisdiction shall designate the authority that must provisionally deal with the matter.
+<sup>1</sup> Until a binding decision is made on the place of jurisdiction, the first authority to deal with the case shall carry out any measures that cannot be delayed. If necessary, the authority responsible for the decision on the place of jurisdiction shall designate the authority that must provisionally deal with the matter.
 
 <sup>2</sup> Persons who have been arrested shall only be transferred to the authorities of other cantons when a binding decision on jurisdiction has been made.
 
@@ -542,7 +545,7 @@ The federal and cantonal authorities are obliged to provide mutual assistance in
 
 **Support**
 
-<sup>1</sup> The cantons shall, to the extent that it is required and possible, provide the criminal justice authorities of the Confederation and other cantons with rooms in which to carry out their official duties and for the accommodation of persons detained pending the main hearing.
+<sup>1</sup> The cantons shall, to the extent that it is required and possible, provide the criminal justice authorities of the Confederation and other cantons with rooms in which to carry out their official duties and for the accommodation of persons detained pending trial.
 
 <sup>2</sup> At the request of the federal criminal justice authorities, the cantons shall take the measures required to guarantee the security of the official duties of these authorities.
 
@@ -568,13 +571,13 @@ The federal and cantonal authorities are obliged to provide mutual assistance in
 
 <sup>3</sup> Notice shall be given to the requesting canton or the Confederation of any costs that have arisen in order that they may be charged to the parties liable to pay costs.
 
-<sup>4</sup> The requesting canton or the Confederation shall bear any obligations to pay damages arising from mutual assistance measures.
+<sup>4</sup> The requesting canton or the Confederation shall bear any obligations to pay compensation arising from mutual assistance measures.
 
 #### Art. 48
 
 **Disputes**
 
-<sup>1</sup> The objections authority in the relevant canton shall make a final decision on any dispute over mutual assistance between authorities of the same canton.
+<sup>1</sup> The objections court in the relevant canton shall make a final decision on any dispute over mutual assistance between authorities of the same canton.
 
 <sup>2</sup> The Federal Criminal Court decides on conflicts between federal and cantonal authorities as well as between authorities of different cantons.
 
@@ -616,7 +619,7 @@ The federal and cantonal authorities are obliged to provide mutual assistance in
 
 <sup>2</sup> Prior notice shall be given to the public prosecutor of the canton in which the procedural act is to be carried out. In cases of urgency, subsequent notice is possible. No notice is required for obtaining information and for requesting the handover of files.
 
-<sup>3</sup> The costs of the procedural acts and any related obligations to pay damages shall be borne by the Confederation or the canton carrying out the act; it may charge the costs to the parties in accordance with Articles 426 and 427.
+<sup>3</sup> The costs of the procedural acts and any related obligations to pay compensation shall be borne by the Confederation or the canton carrying out the act; it may charge the costs to the parties in accordance with Articles 426 and 427.
 
 #### Art. 53
 
@@ -634,19 +637,29 @@ The provision of international mutual assistance and the mutual assistance proce
 
 #### Art. 55
 
-**Jurisdiction**
+**Jurisdiction in general[^55-1]**
 
 <sup>1</sup> Where a canton is involved in a case of international mutual assistance, the public prosecutor has jurisdiction.
 
-<sup>2</sup> During the main hearing, the courts may themselves submit requests for mutual assistance.
+<sup>2</sup> During the main proceedings, the courts may themselves submit requests for mutual assistance.
 
 <sup>3</sup> The powers of the authorities responsible for the execution of sentences and measures are reserved.
 
-<sup>4</sup> Where federal law assigns mutual assistance duties to a judicial authority, the objections authority has jurisdiction.
+<sup>4</sup> Where federal law assigns mutual assistance duties to a judicial authority, the objections court has jurisdiction.
 
 <sup>5</sup> Where a canton dealing with a request for mutual assistance from abroad carries out procedural acts in other cantons, the provisions on domestic mutual assistance apply.
 
 <sup>6</sup> The cantons shall regulate any additional procedures.
+
+[^55-1]: Amended by No I of the FA of 17 June 2022, in force since 1 Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+
+#### Art. 55a
+
+**Jurisdiction of the compulsory measures court**[^55a-1]
+
+If a Swiss prosecution authority files a request for mutual assistance in respect of a compulsory measure abroad and if the State requested for mutual assistance requires a court decision, the compulsory measures court is responsible for approving the measure.
+
+[^55a-1]: Inserted by No I of the FA of 17 June 2022, in force since 1 Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 ### Chapter 6 Recusal
 
@@ -683,12 +696,12 @@ Where a person acting for a criminal justice authority has grounds for recusal, 
 
 <sup>1</sup>
 
-If grounds for recusal in terms of Article 56 letter a or f are claimed or if a person acting for a criminal justice authority opposes a party application for recusal based on Article 56 letters b–e, the following authorities shall issue a final decision without taking additional evidence:
+If grounds for recusal in terms of Article 56 letter a or f are claimed or if a person acting for a criminal justice authority opposes a party application for recusal based on Article 56 letters b–e, the following authorities shall decide without taking additional evidence:[^59-1]
 
 - a. the public prosecutor if matter relates to the police;
-- b. the objections authority if the matter relates to the public prosecutor, the authorities responsible for prosecuting contraventions or the courts of first instance;
-- c. the court of appeal if the matter relates to the objections authority or individual members of the court of appeal;
-- d.[^59-1] the Federal Criminal Court if the matter relates to an entire cantonal court of appeal.
+- b. the objections court if the matter relates to the public prosecutor, the authorities responsible for prosecuting contraventions or the courts of first instance;
+- c. the court of appeal if the matter relates to the objections court or individual members of the court of appeal;
+- d.[^59-2] the Federal Criminal Court if the matter relates to an entire cantonal court of appeal.
 
 <sup>2</sup> The decision shall be issued in writing and with a statement of reasons.
 
@@ -696,7 +709,8 @@ If grounds for recusal in terms of Article 56 letter a or f are claimed or if a 
 
 <sup>4</sup> If the application is approved, the procedural costs are borne by the Confederation or the canton. If it is rejected or was clearly submitted too late or vexatious, the costs are borne by the applicant.
 
-[^59-1]: Amended by No II 3 of the FA of 17 March 2017 (Creation of an Appeals Chamber in the Federal Criminal Court), in force since 1 Jan. 2019 ([AS 2017 5769](https://fedlex.data.admin.ch/eli/oc/2017/624); [BBl 2013 7109](https://fedlex.data.admin.ch/eli/fga/2013/1333), [2016 6199](https://fedlex.data.admin.ch/eli/fga/2016/1190)).
+[^59-1]: Amended by No I of the FA of 17 June 2022, in force since 1 Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^59-2]: Amended by No II 3 of the FA of 17 March 2017 (Creation of an Appeals Chamber in the Federal Criminal Court), in force since 1 Jan. 2019 ([AS 2017 5769](https://fedlex.data.admin.ch/eli/oc/2017/624); [BBl 2013 7109](https://fedlex.data.admin.ch/eli/fga/2013/1333), [2016 6199](https://fedlex.data.admin.ch/eli/fga/2016/1190)).
 
 #### Art. 60
 
@@ -722,7 +736,7 @@ The persons responsible for directing the proceedings are:
 
 - a. until proceedings are abandoned or charges are brought: the public prosecutor;
 - b. in contravention proceedings: the authority responsible for prosecuting contraventions;
-- c. in court proceedings before two or more judges: the president of the court concerned;
+- c. in court proceedings before a panel of judges: the president of the court concerned;
 - d. in court proceedings before one judge sitting alone: the judge.
 
 #### Art. 62
@@ -731,7 +745,7 @@ The persons responsible for directing the proceedings are:
 
 <sup>1</sup> The director of proceedings makes the arrangements required to guarantee the lawful and orderly conduct of the proceedings.
 
-<sup>2</sup> In court proceedings before two or more judges, the director of proceedings holds all the powers that are not reserved to the court.
+<sup>2</sup> In court proceedings before a panel of judges, the director of proceedings holds all the powers that are not reserved to the court.
 
 #### Art. 63
 
@@ -751,7 +765,7 @@ The persons responsible for directing the proceedings are:
 
 <sup>1</sup> The director of proceedings may order a person who disrupts the hearings, breaches the rules of respectable behaviour or disregards orders directing proceedings to pay a fixed penalty fine of up to 1000 francs.
 
-<sup>2</sup> Fixed penalty fines imposed by the public prosecutor and the courts of first instance may be challenged before the objections authority within 10 days. Its decision is final.
+<sup>2</sup> Fixed penalty fines imposed by the public prosecutor and the courts of first instance may be challenged before the objections court within 10 days. Its decision is final.
 
 #### Art. 65
 
@@ -759,7 +773,7 @@ The persons responsible for directing the proceedings are:
 
 <sup>1</sup> Orders directing proceedings issued by the court may only be challenged when the final judgment is issued.
 
-<sup>2</sup> If the director of proceedings in a court with two or more judges has issued orders directing proceedings before the main hearing, the court may amend or revoke such orders ex officio or on request.
+<sup>2</sup> If the director of proceedings in a court with a panel of judges has issued orders directing proceedings before the trial, the court may amend or revoke such orders ex officio or on request.
 
 ### Chapter 8 General Procedural Regulations
 
@@ -809,7 +823,7 @@ The following proceedings are not conducted in public:
 
 - a. preliminary proceedings, with the exception of public announcements made by the criminal justice authorities;
 - b. proceedings before the compulsory measures court;
-- c. proceedings before the objections authority and, in cases where they are conducted in writing, before the court of appeal;
+- c. proceedings before the objections court and, in cases where they are conducted in writing, before the court of appeal;
 - d. summary penalty order proceedings.
 
 <sup>4</sup> Public hearings are open to all members of the public; however, persons under 16 years of age shall only be admitted with the permission of the director of proceedings.
@@ -930,7 +944,7 @@ The records of proceedings contain details of all the essential procedural acts 
 
 #### Art. 78
 
-**Records of hearings**
+**Records of hearings in general[^78-1]**
 
 <sup>1</sup> The statements of the parties, witnesses, persons providing information and expert witnesses shall be recorded as they are made.
 
@@ -942,14 +956,27 @@ The records of proceedings contain details of all the essential procedural acts 
 
 <sup>5</sup> On conclusion of the examination hearing, the record shall be read out to the person examined or given to him or her to read. Once aware of its content, the person examined must sign the record and initial each page. If he or she refuses to read or sign the record, the refusal and reasons given for doing so shall be noted in the record.
 
-<sup>5bis</sup> If the examination in the main hearing is recorded using technical aids, the court may dispense with reading the transcript back to the person examined and or giving that person the transcript to read and sign. The recordings are placed in the case files.[^78-1]
+<sup>5bis</sup> …[^78-2]
 
 <sup>6</sup> In the case of hearings by means of video conference, the person examined shall make an oral declaration that he or she understands the content of the record instead of signing and initialling the same. The declaration shall be noted in the record.
 
-<sup>7</sup> If records written by hand are not easily legible or if the statements have been recorded in shorthand, a legible copy shall be prepared immediately. Notes shall be preserved until the conclusion of the proceedings.[^78-2]
+<sup>7</sup> If records written by hand are not easily legible or if the statements have been recorded in shorthand, a legible copy shall be prepared immediately. Notes shall be preserved until the conclusion of the proceedings.[^78-3]
 
-[^78-1]: Inserted by No I 2 of the FA of 28 Sept. 2012 (Transcription Regulations), in force since 1 May 2013 ([AS 2013 851](https://fedlex.data.admin.ch/eli/oc/2013/178); [BBl 2012 5707](https://fedlex.data.admin.ch/eli/fga/2012/860)[5719](https://fedlex.data.admin.ch/eli/fga/2012/862)).
-[^78-2]: Amended by No I 2 of the FA of 28 Sept. 2012 (Transcription Regulations), in force since 1 May 2013 ([AS 2013 851](https://fedlex.data.admin.ch/eli/oc/2013/178); [BBl 2012 5707](https://fedlex.data.admin.ch/eli/fga/2012/860)[5719](https://fedlex.data.admin.ch/eli/fga/2012/862)).
+[^78-1]: Amended by No I of the FA of 17 June 2022, in force since 1 Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^78-2]: Inserted by No I 2 of the FA of 28 Sept. 2012 (Transcription Regulations) ([AS 2013 851](https://fedlex.data.admin.ch/eli/oc/2013/178); [BBl 2012 5707](https://fedlex.data.admin.ch/eli/fga/2012/860)[5719](https://fedlex.data.admin.ch/eli/fga/2012/862)). Repealed by No I of the FA of 17 June 2022, with effect from 1 Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^78-3]: Amended by No I 2 of the FA of 28 Sept. 2012 (Transcription Regulations), in force since 1 May 2013 ([AS 2013 851](https://fedlex.data.admin.ch/eli/oc/2013/178); [BBl 2012 5707](https://fedlex.data.admin.ch/eli/fga/2012/860)[5719](https://fedlex.data.admin.ch/eli/fga/2012/862)).
+
+#### Art. 78a
+
+**Transcripts of recordings of examination hearings**[^78a-1]
+
+If an examination hearing is recorded using technical aids, the following derogations from the general rules (Art. 78) apply:
+
+- a. Instead of making a continuous written transcript of the examination, the transcript may be made after the examination based on the recording, but in principle within seven days of the examination.
+- b. The examining authority may dispense with reading the transcript back to the person examined and or giving that person the transcript to read and sign.
+- c. The recordings of the examination shall be placed in the case files immediately.
+
+[^78a-1]: Inserted by No I of the FA of 17 June 2022, in force since 1 Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 79
 
@@ -967,11 +994,13 @@ The records of proceedings contain details of all the essential procedural acts 
 
 **Form**
 
-<sup>1</sup> Decisions that determine substantive criminal or civil issues are issued in the form of a judgment. Other decisions, if made by a judicial authority comprising two or more members, are issued in the form of a decree, or if they are made by a single person, in the form of a ruling. The provisions on summary penalty order procedures are reserved.
+<sup>1</sup> Decisions that determine substantive criminal or civil issues, together with individual subsequent decisions and individual forfeiture decisions, are issued in the form of a judgment. Other decisions, if made by an authority comprising a panel of judges, are issued in the form of a decree, or if they are made by a single person, in the form of a ruling.[^80-1] The provisions on summary penalty order procedures are reserved.
 
 <sup>2</sup> Decisions are issued in writing and contain a statement of the grounds. They are signed by the director of proceedings and the clerk of court and are served on the parties.
 
 <sup>3</sup> Simple decrees and rulings directing proceedings do not require to be issued in any specific form or to contain a statement of grounds; they are noted in the case records and notified to the parties in a suitable manner.
+
+[^80-1]: First and second sentences amended by No I of the FA of 17 June 2022, in force since 1 Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 81
 
@@ -999,7 +1028,7 @@ The introduction contains:
 
 The statement of the grounds contains:
 
-- a. in the case of judgments: an appraisal of the factual and legal issues relating to the conduct incriminating the accused, and an explanation of why any sanctions, incidental legal orders and costs or damages were imposed;
+- a. in the case of judgments: an appraisal of the factual and legal issues relating to the conduct incriminating the accused, and an explanation of why any sanctions or incidental legal orders were imposed and the decision on costs or compensation;
 - b. in the case of other decisions concluding proceedings: the reasons for concluding the proceedings.
 
 <sup>4</sup>
@@ -1007,7 +1036,7 @@ The statement of the grounds contains:
 The conclusions contain:
 
 - a. details of the statutory provisions;
-- b. in the case of judgments: the verdict and decisions on related sanctions, costs and damages and any civil claims;
+- b. in the case of judgments: the verdict and decisions on related sanctions, costs and compensation and any civil claims;
 - c. in the case of other decisions concluding proceedings: the order concluding the proceedings;
 - d. the subsequent decisions of the court;
 - e. the decision on the incidental legal orders;
@@ -1022,7 +1051,7 @@ The conclusions contain:
 The court of first instance shall dispense with a written statement of the grounds if it:
 
 - a. states the grounds for the judgment orally; and
-- b. it does not impose a custodial sentence of more than two years, indefinite incarceration under Article 64 SCC[^82-1], treatment in terms of Article 59 paragraph 3 SCC or, in the case of suspended sanctions to be revoked simultaneously, a deprivation of liberty of more than two years.
+- b.[^82-1] it does not impose a custodial sentence of more than two years, indefinite incarceration under Article 64 SCC[^82-2], treatment in terms of Article 59 SCC or, in the case of suspended sanctions to be revoked simultaneously, a deprivation of liberty of more than two years.
 
 <sup>2</sup>
 
@@ -1035,7 +1064,8 @@ The court shall provide the parties retrospectively with a written judgment stat
 
 <sup>4</sup> In the appellate proceedings, the court may refer to the grounds stated by the lower court in its appraisal of the factual and the legal issues in the case.
 
-[^82-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^82-1]: Amended by No I of the FA of 17 June 2022, in force since 1 Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^82-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
 #### Art. 83
 
@@ -1057,9 +1087,9 @@ The court shall provide the parties retrospectively with a written judgment stat
 
 <sup>1</sup> If the proceedings are public, the court shall give notice of the judgment orally on conclusion of its deliberations and state the grounds in brief.
 
-<sup>2</sup> The court shall provide the parties with a written copy of the conclusions at the end of the main hearing or serve it on the parties within 5 days.
+<sup>2</sup> The court shall provide the parties with a written copy of the conclusions at the end of the trial or serve it on the parties within 5 days.
 
-<sup>3</sup> If the court is unable to issue the judgment immediately, it shall do so as soon as possible and give notice of the judgment in rearranged main hearing. If in such an event the parties waive their right to have the judgment issued publicly, the court shall serve the conclusions of the judgment on them immediately after it has been reached.
+<sup>3</sup> If the court is unable to issue the judgment immediately, it shall do so as soon as possible and give notice of the judgment in rearranged hearing. If in such an event the parties waive their right to have the judgment issued publicly, the court shall serve the conclusions of the judgment on them immediately after it has been reached.
 
 <sup>4</sup> If the court has to state grounds for the judgment, it shall serve the judgment with a full statement of grounds on the accused and the public prosecutor within 60 days, or by way of exception 90 days. The other parties shall be served only with those parts of the judgment in which their applications are mentioned.
 
@@ -1225,14 +1255,18 @@ When processing personal data, the competent criminal justice authorities shall 
 
 The foregoing paragraph does not apply to:
 
-- a. Articles 11, 13, 14 and 20 of the Federal Act of 21 March 1997[^96-1] on Measures to Safeguard Internal Security;
-- b. the regulations of the Federal Act of 13 June 2008[^96-2] on the Federal Police Information Systems;
-- c. the regulations of the Federal Act of 7 October 1994[^96-3] on the Central Offices of the Federal Criminal Police.[^96-4]
+- a.[^96-1] articles 14 and 20 of the Federal Act of 21 March 1997[^96-2] on Measures to Safeguard Internal Security;
+- a<sup>bis</sup>.[^96-3] articles 19 and 20 of the Intelligence Service Act of 25 September 2015[^96-4];
+- b. the regulations of the Federal Act of 13 June 2008[^96-5] on the Federal Police Information Systems;
+- c. the regulations of the Federal Act of 7 October 1994[^96-6] on the Central Offices of the Federal Criminal Police.[^96-7]
 
-[^96-1]: [SR 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
-[^96-2]: [SR 361](https://fedlex.data.admin.ch/eli/cc/2008/698)
-[^96-3]: [SR 360](https://fedlex.data.admin.ch/eli/cc/1995/875_875_875)
-[^96-4]: Amended by Annex 2 No I 1 let. a of the FA of 13 June 2008 on the Federal Police Information Systems, in force since 1 Jan. 2011 ([AS 2008 4989](https://fedlex.data.admin.ch/eli/oc/2008/698); [BBl 2006 5061](https://fedlex.data.admin.ch/eli/fga/2006/611)).
+[^96-1]: Amended by No I of the FA of 17 June 2022, in force since 1 Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^96-2]: [SR 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
+[^96-3]: Inserted by No I of the FA of 17 June 2022, in force since 1 Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^96-4]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^96-5]: [SR 361](https://fedlex.data.admin.ch/eli/cc/2008/698)
+[^96-6]: [SR 360](https://fedlex.data.admin.ch/eli/cc/1995/875_875_875)
+[^96-7]: Amended by Annex 2 No I 1 let. a of the FA of 13 June 2008 on the Federal Police Information Systems, in force since 1 Jan. 2011 ([AS 2008 4989](https://fedlex.data.admin.ch/eli/oc/2008/698); [BBl 2006 5061](https://fedlex.data.admin.ch/eli/fga/2006/611)).
 
 #### Art. 97
 
@@ -1324,7 +1358,7 @@ Parties are:
 
 - a. the accused;
 - b. the private claimant;
-- c. in the main hearing and in appellate proceedings: the public prosecutor.
+- c. at the trial and in appellate proceedings: the public prosecutor.
 
 <sup>2</sup> The Confederation and the cantons may grant full or limited party rights to other authorities that are required to safeguard public interests.
 
@@ -1357,11 +1391,11 @@ Other persons involved in the proceedings are:
 
 #### Art. 107
 
-**Right to be heard**
+**Right to a fair hearing**
 
 <sup>1</sup>
 
-The parties have the right to be heard; in particular, they have the right:
+The parties have the right to a fair hearing; in particular, they have the right:
 
 - a. to inspect case documents;
 - b. to participate in procedural acts
@@ -1373,11 +1407,11 @@ The parties have the right to be heard; in particular, they have the right:
 
 #### Art. 108
 
-**Restriction of the right to be heard**
+**Restriction of the right to a fair hearing**
 
 <sup>1</sup>
 
-The criminal justice authorities may restrict the right to be heard if:
+The criminal justice authorities may restrict the right to a fair hearing if:
 
 - a. there is justified suspicion that a party is abusing his or her rights;
 - b. this is required for the safety of persons or to safeguard public or private interests in preserving confidentiality.
@@ -1388,7 +1422,7 @@ The criminal justice authorities may restrict the right to be heard if:
 
 <sup>4</sup> If the reason for imposing the restriction continues to apply, the criminal justice authorities may base their decisions on files that have not been disclosed to a party only if that party has been informed of the essential content thereof.
 
-<sup>5</sup> If the reason for the restriction has ceased to apply, the right to be heard must be granted in a suitable form retrospectively.
+<sup>5</sup> If the reason for the restriction has ceased to apply, the right to a fair hearing must be granted in a suitable form retrospectively.
 
 ### Section 2 Procedural Acts by the Parties
 
@@ -1494,7 +1528,8 @@ Victims have special rights, in particular:
 - c. the right to protective measures (Art. 152–154);
 - d. the right to remain silent (Art. 169 para. 4);
 - e. the right to information (Art. 305 and 330 para. 3);
-- f. the right to a special composition of the court (Art. 335 para. 4).
+- f. the right to a special composition of the court (Art. 335 para. 4);
+- g.[^117-1] the right to receive the decision or the summary penalty order in case in which they are the victim from the court or from the public prosecutor free of charge, unless they expressly waive this right.
 
 <sup>2</sup>
 
@@ -1505,6 +1540,8 @@ In the case of victims under the age of 18, additional special provisions protec
 - c. abandonment of the proceedings (Art. 319 para. 2).
 
 <sup>3</sup> If relatives of a victim file civil claims, they are entitled to the same rights as the victim.
+
+[^117-1]: Inserted by No I of the FA of 17 June 2022, in force since 1 Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 ### Section 3 Private Claimants
 
@@ -1563,7 +1600,7 @@ In the declaration the person suffering harm may do either or both of the follow
 
 <sup>3</sup> The civil proceedings become pending when a declaration in accordance with Article 119 paragraph 2 letter b is made.
 
-<sup>4</sup> If a private claimant withdraws the civil claim before the end of the main hearing before the court of first instance, they may file the claim again in civil proceedings.
+<sup>4</sup> If a private claimant withdraws the civil claim before the end of the trial before the court of first instance, they may file the claim again in civil proceedings.
 
 #### Art. 123
 
@@ -1571,7 +1608,9 @@ In the declaration the person suffering harm may do either or both of the follow
 
 <sup>1</sup> The civil claim must if possible be quantified in the declaration made in accordance with Article 119 and a brief statement of the grounds must be provided, detailing the relevant evidence.
 
-<sup>2</sup> The quantification and statement of the grounds must be specified in the party submissions at the latest.
+<sup>2</sup> The quantification and statement of the grounds must be provided within the period stipulated by the director of proceedings in accordance with Article 331 paragraph 2.[^123-1]
+
+[^123-1]: Amended by No I of the FA of 17 June 2022, in force since 1 Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 124
 
@@ -1595,11 +1634,13 @@ A private claimant, with the exception of the victim, must on application by the
 - b. he or she appears to be insolvent, in particular if bankruptcy proceedings have been opened or composition proceedings are ongoing or if certificates of loss have been issued;
 - c. for other reasons, there is reason to fear that the accused's claim could be seriously jeopardised or frustrated.
 
-<sup>2</sup> The director of proceedings for the court shall issue a final judgment on the application. He or she shall determine the amount of security and fix a time limit for its payment.
+<sup>2</sup> The director of proceedings for the court shall decide on the application.[^125-1] He or she shall determine the amount of security and fix a time limit for its payment.
 
 <sup>3</sup> The security may be paid in cash or take the form of a guarantee from a bank permanently established in Switzerland.
 
 <sup>4</sup> It may be retrospectively increased, reduced or revoked.
+
+[^125-1]: Amended by No I of the FA of 17 June 2022, in force since 1 Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 126
 
@@ -1616,6 +1657,8 @@ The court decides on pending civil claims in the event that it:
 
 The civil claim shall be referred for civil proceedings if:
 
+- a.[^126-1] the criminal proceedings are abandoned;
+- a<sup>bis</sup>.[^126-2] it cannot be settled under the summary penalty order procedure;
 - a. the criminal proceedings are abandoned or concluded by means of the summary penalty order procedure;
 - b. the private claimant has failed to justify or quantify the claim sufficiently;
 - c. the private claimant has failed to lodge security in respect of the claim;
@@ -1624,6 +1667,9 @@ The civil claim shall be referred for civil proceedings if:
 <sup>3</sup> If a full assessment of the civil claim would cause unreasonable expense and inconvenience, the court may make a decision in principle on the civil claim and refer it for civil proceedings. If possible, the court shall rule on minor claims itself.
 
 <sup>4</sup> In cases involving the victim, the court may firstly decide solely on guilt and the penalty; thereafter the director of proceedings shall, following a further hearing of the parties, rule as a judge sitting alone on the civil claim, irrespective of its amount.
+
+[^126-1]: Amended by No I of the FA of 17 June 2022, in force since 1 Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^126-2]: Inserted by No I of the FA of 17 June 2022, in force since 1 Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 ### Chapter 4 Legal Agents
 
@@ -1657,7 +1703,7 @@ A defence lawyer is obliged to act solely in the interests the accused, subject 
 
 <sup>1</sup> The accused is entitled, in any criminal proceedings and at any stage of the proceedings either to instruct a legal agent as defined in Article 127 paragraph 5 to conduct his or her defence (right to choose a defence lawyer) or, subject to Article 130, to conduct his or her own defence.
 
-<sup>2</sup> The accused exercises his or her right to choose a defence lawyer by executing a written power of attorney or making a declaration on record.
+<sup>2</sup> The accused shall exercise his or her right to choose a defence lawyer by executing a written power of attorney or making a declaration on record.
 
 #### Art. 130
 
@@ -1665,8 +1711,8 @@ A defence lawyer is obliged to act solely in the interests the accused, subject 
 
 A defence lawyer must be appointed to represent the accused if:
 
-- a. the period on remand including the period when under arrest has continued for more than 10 days;
-- b.[^130-1] the offence concerned carries a custodial sentence of more than a year or a custodial measure or may result in expulsion from Switzerland;
+- a. the period on remand including the period when under arrest has exceeded 10 days;
+- b.[^130-1] the offence concerned carries a custodial sentence of more than one year or a custodial measure or may result in expulsion from Switzerland;
 - c. the accused is unable to safeguard his or her interests in the proceedings adequately due to his or her physical or mental condition or for other reasons, and his or her statutory representative is unable to do so either;
 - d. the prosecuting lawyer is appearing in person before the court of first instance or the court of appeal;
 - e. accelerated proceedings (Art. 358–362) are being conducted.
@@ -1675,13 +1721,16 @@ A defence lawyer must be appointed to represent the accused if:
 
 #### Art. 131
 
-**Appointment of the mandatory defence lawyer**
+**Ensuring the mandatory appointment of the defence lawyer**
 
 <sup>1</sup> Where the mandatory appointment of a defence lawyer is required, the director of proceedings shall ensure that a defence lawyer is appointed immediately.
 
-<sup>2</sup> If the requirements for the mandatory appointment of a defence lawyer are fulfilled on commencement of the preliminary proceedings, the defence lawyer must be appointed following the first interview by the public prosecutor, or before opening the investigation at the latest.
+<sup>2</sup> If the requirements for the mandatory appointment of a defence lawyer are met on instigation of the preliminary proceedings, the defence lawyer must be appointed before the first examination by the public prosecutor or by the police on behalf of the public prosecutor.[^131-1]
 
-<sup>3</sup> In cases where the appointment of a mandatory defence lawyer is clearly required but evidence is obtained before a defence lawyer is appointed, the evidence obtained is only admissible if the accused waives the right to have the evidence taken again.
+<sup>3</sup> In cases where the mandatory appointment of a defence lawyer is clearly required but evidence is obtained before a defence lawyer is appointed, the evidence obtained is only admissible if the accused waives the right to have the evidence taken again.[^131-2]
+
+[^131-1]: Amended by No I of the FA of 17 June 2022, in force since 1 Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^131-2]: Amended by No I of the FA of 17 June 2022, in force since 1 Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 132
 
@@ -1693,7 +1742,7 @@ The director of proceedings shall appoint a duty defence lawyer if:
 
 - a.
 
-  in the event of mandatory appointment of a defence lawyer:
+  in the event of the mandatory appointment of a defence lawyer:
 
   - 1\. the accused, despite being requested to do so by the director of proceedings, fails to appoint a defence lawyer of choice, or
   - 2\. the defence lawyer of choice has been dismissed or has resigned and the accused fails to appoint a new defence lawyer of choice within the time limit set;
@@ -1712,7 +1761,12 @@ The director of proceedings shall appoint a duty defence lawyer if:
 
 <sup>1</sup> The duty defence lawyer is appointed by the person acting as director of proceedings at the relevant stage of the proceedings.
 
-<sup>2</sup> The director of proceedings shall if possible take account of the wishes of the accused when appointing the duty defence lawyer.
+<sup>1bis</sup> The Confederation and cantons may delegate the choice of the duty defence lawyer to another authority or to a third party.[^133-1]
+
+<sup>2</sup> In choosing the duty defence lawyer, the lawyer’s suitability and if possible the wishes of the accused shall be taken into account.[^133-2]
+
+[^133-1]: Inserted by No I of the FA of 17 June 2022, in force since 1 Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^133-2]: Amended by No I of the FA of 17 June 2022, in force since 1 Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 134
 
@@ -1728,25 +1782,23 @@ The director of proceedings shall appoint a duty defence lawyer if:
 
 <sup>1</sup> The duty defence lawyer shall be paid in accordance with the table of legal fees applicable in the Confederation or in the canton in which the criminal proceedings were conducted.
 
-<sup>2</sup> The public prosecutor or the court passing judgment shall determine the fees at the end of the proceedings.
+<sup>2</sup> The public prosecutor or the court passing judgment shall determine the fees at the end of the proceedings. If the mandate continues for a long period or if there is another reason why it is not appropriate to wait for the end of the proceedings, the duty defence lawyer may receive advance payments in amounts fixed by the director of proceedings.[^135-1]
 
-<sup>3</sup>
+<sup>3</sup> The duty defence lawyer may contest the decision on fees using the appellate remedy that is admissible against the final decision.[^135-2]
 
-The duty defence lawyer may file an objection against the decision on fees:
-
-- a. with the objections authority, where the decision was made by the public prosecutor or the court of first instance; or
-- b. with the Federal Criminal Court, where the decision was made by the objections authority or the cantonal court of appeal.
-
-<sup>4</sup>
-
-If the accused is ordered to pay procedural costs, as soon as his or her financial circumstances permit, he or she must:
-
-- a. repay the fees to the Confederation or the canton;
-- b. pay the defence lawyer the difference between the official fees and the full fees.
+<sup>4</sup> If the accused is ordered to pay procedural costs, he or she must repay the fees to the Confederation or the canton, as soon as his or her financial circumstances permit.[^135-3]
 
 <sup>5</sup> The rights of the Confederation or of the canton are subject to a time limit of 10 years from the time when the decision becomes legally binding.
 
-### Section 3 Legal Aid for the Private Claimant
+[^135-1]: Amended by No I of the FA of 17 June 2022, in force since 1 Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^135-2]: Amended by No I of the FA of 17 June 2022, in force since 1 Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^135-3]: Amended by No I of the FA of 17 June 2022, in force since 1 Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+
+### Section 3 Legal Aid for the Private Claimant and the Victim
+
+[^tit3-chap4-sec3-1]
+
+[^tit3-chap4-sec3-1]: Amended by No I of the FA of 17 June 2022, in force since 1 Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 136
 
@@ -1754,10 +1806,10 @@ If the accused is ordered to pay procedural costs, as soon as his or her financi
 
 <sup>1</sup>
 
-The director of proceedings shall grant the private claimant full or partial legal aid for the enforcement of their civil claims if:
+The director of proceedings shall on request grant full or partial legal aid:
 
-- a. the private claimant does not have the required financial resources; and
-- b. the civil proceedings does not appear to be without any prospect of success.
+- a. to the private claimants to assert their civil claims if they do not have the required financial resources and the civil proceedings do not appear to be without any prospect of success;
+- b. to the victim to assert his or her criminal complaint if he or she does not have the required financial resources and the criminal complaint does not appear to be without any prospect of success.[^136-1]
 
 <sup>2</sup>
 
@@ -1765,7 +1817,13 @@ Legal aid includes:
 
 - a. relief from the requirement to make an advance payment or to provide security in respect of costs;
 - b. relief from the requirement to pay procedural costs;
-- c. the appointment of a legal representative if this is necessary to safeguard the rights of the private claimant.
+- c.[^136-2] the appointment of a legal representative if this is necessary to safeguard the rights of the private claimants or the victim.
+
+<sup>3</sup> A new application must be made for legal aid in appeal proceedings.[^136-3]
+
+[^136-1]: Amended by No I of the FA of 17 June 2022, in force since 1 Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^136-2]: Amended by No I of the FA of 17 June 2022, in force since 1 Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^136-3]: Inserted by No I of the FA of 17 June 2022, in force since 1 Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 137
 
@@ -1779,7 +1837,11 @@ The appointment, dismissal and change of the legal representative are governed b
 
 <sup>1</sup> The legal representative's fees are governed by Article 135 *mutatis mutandis*; the final judgment on who must pay the costs of the legal representative and of any procedural acts in respect of which relief has been granted from making an advance payment to cover costs remains reserved.
 
-<sup>2</sup> If the private claimant is awarded procedural and legal costs to be paid by the accused, the portion of these costs covered by legal aid must be refunded to the Confederation or to the canton.
+<sup>1bis</sup> The victim and his or her relatives are not subject to any obligation to repay the costs of legal aid.[^138-1]
+
+<sup>2</sup> If the private claimants are awarded procedural and legal costs to be paid by the accused, the portion of these costs covered by legal aid must be refunded to the Confederation or to the canton.
+
+[^138-1]: Inserted by No I of the FA of 17 June 2022, in force since 1 Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 ## Title 4 Evidence
 
@@ -1813,9 +1875,11 @@ The appointment, dismissal and change of the legal representative are governed b
 
 <sup>3</sup> Evidence that has been obtained in violation of administrative regulations is admissible.
 
-<sup>4</sup> Where evidence that is inadmissible under paragraph 2 has made it possible to obtain additional evidence, such evidence is not admissible if it would have been impossible to obtain had the previous evidence not been obtained.
+<sup>4</sup> Where evidence that is inadmissible under paragraph 1or 2 has made it possible to obtain additional evidence, such evidence is only admissible if it would have been possible to obtain it even if the previous evidence not been obtained.[^141-1]
 
 <sup>5</sup> Records relating to inadmissible evidence shall be removed from the case documents, held in safekeeping until a final judgment has concluded the proceedings, and then destroyed.
+
+[^141-1]: Amended by No I of the FA of 17 June 2022, in force since 1 Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 ### Section 2 Examination Hearings
 
@@ -1892,7 +1956,7 @@ The director of proceedings may temporarily exclude a person from the hearing if
 
 <sup>2</sup> Persons exercising a right to participate do not have the right to request that the taking of evidence be postponed.
 
-<sup>3</sup> A party or his or her legal agent may request that evidence be taken again if the legal agent or the party without a legal agent is prevented from participating for good cause. Evidence need not be taken again if it would involve unreasonable trouble and expense and the right of the party to be heard, and in particular the right to ask questions, can be taken into account in another way.
+<sup>3</sup> A party or his or her legal agent may request that evidence be taken again if the legal agent or the party without a legal agent is prevented from participating for good cause. Evidence need not be taken again if it would involve unreasonable trouble and expense and the right of the party to a fair hearing, and in particular the right to ask questions, can be taken into account in another way.
 
 <sup>4</sup> Evidence obtained in violation of this Article is inadmissible against a party who was not present when it was taken.
 
@@ -1932,7 +1996,7 @@ The director of proceedings may also suitably restrict the procedural rights of 
 
 <sup>4</sup> If a person under the age of 18 is interviewed as a witness or person providing information, the director of proceedings may order further protective measures in accordance with Article 154 paragraphs 2 and 4.
 
-<sup>5</sup> The director of proceedings shall ensure in the case of all protective measures that the right of the parties to be heard is respected and in particular that the accused's rights to a proper defence are respected.
+<sup>5</sup> The director of proceedings shall ensure in the case of all protective measures that the right of the parties to a fair hearing is respected and in particular that the accused's rights to a proper defence are respected.
 
 <sup>6</sup> If the person requiring protection has been assured that his or her anonymity will be preserved, the director of proceedings shall take appropriate measures to prevent any confusion or mistaken identity.
 
@@ -1942,7 +2006,7 @@ The director of proceedings may also suitably restrict the procedural rights of 
 
 <sup>1</sup> The director of proceedings may give an assurance to the person requiring protection that his or her anonymity will be preserved.
 
-<sup>2</sup> The public prosecutor shall submit its assurance to the compulsory measures court within 30 days for approval; in doing so, it must specify all the details required to assess the legality of the measure. The decision of the compulsory measures court is final.
+<sup>2</sup> The public prosecutor shall submit its assurance to the compulsory measures court within 30 days for approval; in doing so, it must specify all the details required to assess the legality of the measure. …[^150-1]
 
 <sup>3</sup> If the compulsory measures court declines to approve the measure, any evidence already obtained subject to the assurance of anonymity shall be inadmissible.
 
@@ -1951,6 +2015,8 @@ The director of proceedings may also suitably restrict the procedural rights of 
 <sup>5</sup> The person requiring protection may waive the requirement of anonymity at any time.
 
 <sup>6</sup> The public prosecutor and the director of proceedings in the court shall revoke the assurance if there is clearly no longer a need for protection.
+
+[^150-1]: Second sentence repealed by No I of the FA of 17 June 2022, with effect from 1 Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 151
 
@@ -1973,22 +2039,22 @@ Undercover investigators who have been given an assurance that their anonymity w
 
 <sup>2</sup> The victim may be accompanied at all procedural hearings by a confidant in addition to his or her legal agent.
 
-<sup>3</sup> The criminal justice authorities shall ensure that the victim does not encounter the accused if the victim so requests. In such a case, they shall take account of the accused's right to be heard in some other way. In particular, they may question the victim while applying protective measures in accordance with Article 149 paragraph 2 letters b and d.
+<sup>3</sup> The criminal justice authorities shall ensure that the victim does not encounter the accused if the victim so requests. In such a case, they shall take account of the accused's right to a fair hearing in some other way. In particular, they may question the victim while applying protective measures in accordance with Article 149 paragraph 2 letters b and d.
 
 <sup>4</sup>
 
 A confrontation hearing may be ordered if:
 
-- a. the accused's right to be heard cannot be guaranteed in any other way; or
+- a. the accused's right to a fair hearing cannot be guaranteed in any other way; or
 - b. the hearing is essential for the purpose of the prosecution.
 
 #### Art. 153
 
-**Special measures to protect of victims sexual offences**
+**Special measures to protect victims of sexual offences**
 
 <sup>1</sup> Victims of sexual offences may ask to be questioned by a person of the same sex.
 
-<sup>2</sup> A confrontation hearing with the accused may be ordered against the wishes of the victim only if the accused's right to be heard cannot be guaranteed in any other way.
+<sup>2</sup> A confrontation hearing with the accused may be ordered against the wishes of the victim only if the accused's right to a fair hearing cannot be guaranteed in any other way.
 
 #### Art. 154
 
@@ -2004,12 +2070,19 @@ A confrontation hearing may be ordered if:
 
 If it is evident that the examination hearing or the confrontation hearing could be a serious psychological burden for the child, the following rules apply:
 
-- a. A confrontation hearing with the accused may be ordered only if the child expressly requests the confrontation hearing or the accused's right to be heard cannot be guaranteed in any other way.
+- a. A confrontation hearing with the accused may be ordered only if the child expressly requests the confrontation hearing or the accused's right to a fair hearing cannot be guaranteed in any other way.
 - b. The child may not normally be interviewed more than twice during the entire proceedings.
 - c. A second interview shall take place only if parties were unable to exercise their rights at the first interview or the examination hearing is essential in the interests of the enquiries or of the child. If possible, the child should be questioned by the same person who conducted the first interview.
 - d. Examination hearings shall be conducted in the presence of a specialist by an investigating officer specifically trained for this purpose. Unless a confrontation hearing is held, audio and video recordings shall be made of the examination hearing.
 - e. The parties shall exercise their rights through the person asking the questions.
 - f. The person asking the questions and the specialist shall record their special observations in a report.
+
+<sup>5</sup> If it is apparent that the presence of the accused at the examination hearing could cause a serious psychological burden to the child despite protective measures, the accused may be excluded from the examination hearing, provided his or her right to a fair hearing can be guaranteed in a different way.[^154-1]
+
+<sup>6</sup> Exclusion does not apply to the defence lawyer; however, suitable protective measures shall be taken to prevent a serious psychological burden to the child.[^154-2]
+
+[^154-1]: Inserted by No I of the FA of 17 June 2022, in force since 1 Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^154-2]: Inserted by No I of the FA of 17 June 2022, in force since 1 Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 155
 
@@ -2181,12 +2254,16 @@ A person may the refuse to testify if he or she would incriminate him or herself
 
 <sup>1</sup> Public officials as defined in Article 110 paragraph 3 SCC[^170-1] and their auxiliaries as well as members of authorities and their auxiliaries may refuse to testify on secret matters communicated to them in their official capacity or which have come to their knowledge in the exercise of their office or their auxiliary activity.[^170-2]
 
-<sup>2</sup> They must testify if they have been given written authorisation to do so by their superior.
+<sup>2</sup> They must testify if they
+
+- a. are subject to a duty to report; or
+- b. have been given written authorisation to do so by their superior.[^170-3]
 
 <sup>3</sup> The superior shall grant authorisation to testify if the interest in establishing the truth outweighs the interest in preserving secrecy.
 
 [^170-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^170-2]: Amended by Annex 1 No 8 of the Information Security Act of 18 Dec. 2020, in force since 1 Jan. 2023 ([AS 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232), [750](https://fedlex.data.admin.ch/eli/oc/2022/750); [BBl 2017 2953](https://fedlex.data.admin.ch/eli/fga/2017/647)).
+[^170-3]: Amended by No I of the FA of 17 June 2022, in force since 1 Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 171
 
@@ -2227,11 +2304,11 @@ They must testify if:
   - 1\. homicide offences in terms of Articles 111–113 SCC[^172-1],
   - 2\. felonies carrying a custodial sentence of at least 3 years,
   - 3\.[^172-2] offences in terms of Articles 187, 189, 190, 191, 197 paragraph 4, 260<sup>ter</sup>, 260<sup>quinquies</sup>, 260<sup>sexies</sup>, 305<sup>bis</sup>, 305<sup>ter</sup> and 322<sup>ter</sup>–322<sup>septies</sup> SCC,
-  - 4\.[^172-3] offences in terms of Article 19 number 2 of the Narcotics Act of 3 October 1951[^172-4].
+  - 4\.[^172-3] offences in terms of Article 19 number 2 of the Narcotics Act of 3 October 1951 (NarcA)[^172-4].
 
 [^172-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^172-2]: Amended by Annex No II 3 of the FedD of 25 Sept. 2020 on the Approval and Implementation of the Council of Europe Convention on the Prevention of Terrorism and its Additional Protocol and the Strengthening of Criminal Justice Instruments for combating Terrorism and Organised Crime, in force since 1 July 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
-[^172-3]: Correction by the Federal Assembly Drafting Committee dated 19 Sept. 2014, published on 4 Oct. 2014 ([AS 2011 4487](https://fedlex.data.admin.ch/eli/oc/2011/619)).
+[^172-3]: Amended by No I of the FA of 17 June 2022, in force since 1 Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 [^172-4]: [SR 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
 
 #### Art. 173
@@ -2246,7 +2323,7 @@ Any person who is required to preserve professional confidentiality in accordanc
 - b. Article 139 paragraph 3 of the Civil Code[^173-2];
 - c. Article 2 of the Federal Act of 9 October 1981[^173-3] on Pregnancy Advisory Centres;
 - d.[^173-4] Article 11 of the Victim Support Act of 23 March 2007[^173-5];
-- e.[^173-6] Article 15 paragraph 2 of the Narcotics Act of 3 October 1951[^173-7];
+- e.[^173-6] Article 3*c* paragraph 4 NarcA[^173-7];
 - f.[^173-8] Article 16 letter f of the Healthcare Occupations Act of 30 September 2016[^173-9].
 
 <sup>2</sup> Persons entrusted with other confidential information protected by law are required to testify. The director of proceedings may relieve them of the duty to testify if they are able to establish that the interest in preserving confidentiality outweighs the interest in establishing the truth.
@@ -2256,7 +2333,7 @@ Any person who is required to preserve professional confidentiality in accordanc
 [^173-3]: [SR 857.5](https://fedlex.data.admin.ch/eli/cc/1983/2003_2003_2003)
 [^173-4]: Amended by Annex No II 7 of the Criminal Justice Authorities Act of 19 March 2010, in force since 1 Jan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
 [^173-5]: [SR 312.5](https://fedlex.data.admin.ch/eli/cc/2008/232)
-[^173-6]: Correction by the Federal Assembly Drafting Committee dated 19 Sept. 2014, published on 4 Oct. 2014 ([AS 2011 4487](https://fedlex.data.admin.ch/eli/oc/2011/619)).
+[^173-6]: Amended by No I of the FA of 17 June 2022, in force since 1 Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 [^173-7]: [SR 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
 [^173-8]: Inserted by Annex No 2 of the Healthcare Occupations Act of 30 Sept. 2016, in force since 1 Feb. 2020 ([AS 2020 57](https://fedlex.data.admin.ch/eli/oc/2020/16); [BBl 2015 8715](https://fedlex.data.admin.ch/eli/fga/2015/2104)).
 [^173-9]: [SR 811.21](https://fedlex.data.admin.ch/eli/cc/2020/16)
@@ -2272,9 +2349,9 @@ The decision on whether to allow a person to refuse to testify is made by:
 - a. the authority conducting the examination hearing in the preliminary proceedings;
 - b. the court after charges have been brought.
 
-<sup>2</sup> The witness may request a review by the objections authority immediately after receiving notification of the decision.
+<sup>2</sup> The witness may request a review by the objections court immediately after receiving notification of the decision.
 
-<sup>3</sup> Until the objections authority makes its decision, the witness is entitled to refuse to testify.
+<sup>3</sup> Until the objections court makes its decision, the witness is entitled to refuse to testify.
 
 #### Art. 175
 
@@ -2288,7 +2365,7 @@ The decision on whether to allow a person to refuse to testify is made by:
 
 **Unlawful refusal to testify**
 
-<sup>1</sup> Any person who refuses to testify without having the right to do so may be liable to a fixed penalty fine and may be required to pay the costs and damages incurred as a result of such refusal.
+<sup>1</sup> Any person who refuses to testify without having the right to do so may be liable to a fixed penalty fine and may be required to pay the costs and compensation incurred as a result of such refusal.
 
 <sup>2</sup> If a person who is obliged to testify insists on refusing to do so, he or she will again be requested to testify and cautioned as to the penalties under Article 292 SCC[^176-1]. In the event of continued refusal, criminal proceedings shall be commenced.
 
@@ -2413,13 +2490,16 @@ The director of proceedings shall provide written instructions; these shall cont
 
 <sup>1</sup> The public prosecutor or courts may have an accused admitted to hospital if this is required in order to prepare a medical report.
 
-<sup>2</sup> The public prosecutor shall apply to the compulsory measures court for the accused to be admitted to hospital unless the accused is already on remand. The compulsory measures court shall issue a final judgment on the matter in written proceedings.
+<sup>2</sup> The public prosecutor shall apply to the compulsory measures court for the accused to be admitted to hospital unless the accused is already on remand. The compulsory measures court shall decide on the matter in written proceedings.[^186-1]
 
-<sup>3</sup> If an in-patient assessment proves necessary during the court proceedings, the court concerned shall issue a final decision on the matter in written proceedings.
+<sup>3</sup> If an in-patient assessment proves necessary during the court proceedings, the court concerned shall decide on the matter in written proceedings.[^186-2]
 
 <sup>4</sup> The time spent in hospital shall be taken into account in the sentence.
 
 <sup>5</sup> In addition, the in-patient assessment is governed by *mutatis mutandis* by the regulations on remand and preventive detention.
+
+[^186-1]: Second sentence amended by No I of the FA of 17 June 2022, in force since 1 Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^186-2]: Amended by No I of the FA of 17 June 2022, in force since 1 Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 187
 
@@ -2499,7 +2579,7 @@ The director of proceedings may order that:
 
 <sup>2</sup> Administrative and judicial authorities shall make their files available for inspection unless there is an overriding public or private interest in preserving confidentiality.
 
-<sup>3</sup> Conflicts between authorities of the same canton shall be decided by the objections authority of the canton concerned, and conflicts between authorities of different cantons or between cantonal and federal authorities shall be decided by the Federal Criminal Court.
+<sup>3</sup> Conflicts between authorities of the same canton shall be decided by the objections court of the canton concerned, and conflicts between authorities of different cantons or between cantonal and federal authorities shall be decided by the Federal Criminal Court.
 
 #### Art. 195
 
@@ -2690,11 +2770,14 @@ A person may be brought before an authority by the police if:
 
 <sup>1</sup> The public prosecutor, authorities responsible for prosecuting contraventions and courts may order the tracing of persons whose whereabouts are unknown and who are required to appear in the proceedings. In cases of urgency, the police may themselves order that a wanted person be traced.
 
-<sup>2</sup> A warrant may be issued for an accused person to be arrested and brought before the authorities if there is a strong suspicion that he or she has committed a felony or misdemeanour and there is reason to believe that there are grounds for the person's detention.
+<sup>2</sup> A warrant (arrest warrant) may be issued for an accused person to be arrested and brought before the authorities if there is a strong suspicion that he or she has committed a felony or misdemeanour and there is reason to believe that there are grounds for the person's detention.[^210-1]
 
 <sup>3</sup> Unless the public prosecutor, the authority responsible for prosecuting contraventions or the court orders otherwise, the police are responsible for tracing wanted persons.
 
-<sup>4</sup> Paragraphs 1 and 3 apply *mutatis mutandis* to the tracing of property.
+<sup>4</sup> Paragraphs 1 and 3 apply *mutatis mutandis* to the tracing of items and assets. In preliminary proceedings, the police may themselves order the tracing of items and assets.[^210-2]
+
+[^210-1]: Amended by No I of the FA of 17 June 2022, in force since 1 Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^210-2]: Amended by No I of the FA of 17 June 2022, in force since 1 Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 211
 
@@ -2764,7 +2847,7 @@ For the purpose of investigating an offence, the police may stop a person and if
 - a. establish the person's identity;
 - b. question the person briefly;
 - c. establish whether he or she has committed an offence;
-- d. establish whether the person or property in his or her possession is being traced.
+- d. establish whether the person or items in his or her possession are being traced.
 
 <sup>2</sup>
 
@@ -2797,14 +2880,14 @@ They may require the person they have stopped to:
 
 The police are obliged to arrest a person and bring that person to the police station if:
 
-- a. they have caught the person in the act of committing a felony or misdemeanour or they have encountered him or her immediately after committing such an offence;
+- a. they have caught the person in the act of committing a felony or misdemeanour or they have encountered the person immediately after he or she has committed such an offence;
 - b. the person is subject to an arrest warrant.
 
 <sup>2</sup> They may arrest a person and bring him or her to the police station if, based on enquiries or other reliable information, the person is suspected of committing a felony or misdemeanour.
 
 <sup>3</sup>
 
-They may arrest a person and bring him or her to the police station if they have caught the person in the act of committing a contravention or they have encountered him or her immediately after committing such an offence in the event that:
+They may arrest a person and bring him or her to the police station if they have caught the person in the act of committing a contravention or they have encountered the person immediately after he or she has committed such an offence in the event that:
 
 - a. the person refuses to provide his or her personal details;
 - b. the person does not live in Switzerland and fails to provide security for payment of the anticipated fine immediately;
@@ -2818,7 +2901,7 @@ They may arrest a person and bring him or her to the police station if they have
 
 Where there is insufficient time to obtain police assistance, members of the public have the right to arrest a person if:
 
-- a. they have caught the person in the act of committing a felony or misdemeanour or they have encountered him or her immediately after committing such an offence; or
+- a. they have caught the person in the act of committing a felony or misdemeanour or they have the person immediately after he or she has committed such an offence; or
 - b. the public have been requested to assist in tracing of the person concerned.
 
 <sup>2</sup> When making an arrest, private individuals may only use force in accordance with Article 200.
@@ -2829,7 +2912,7 @@ Where there is insufficient time to obtain police assistance, members of the pub
 
 **Police procedure**
 
-<sup>1</sup> The police shall establish the identity of the arrested person immediately after the arrest, inform him or her of the reason for the arrest in a language the person can understand and caution the person as to his or her rights within the meaning of Article 158. Thereafter, they shall inform the public prosecutor immediately of the arrest.
+<sup>1</sup> The police shall establish the identity of the arrested person immediately after the arrest, inform him or her of the reason for the arrest in a language the person can understand and caution the person as to his or her rights under Article 158. Thereafter, they shall inform the public prosecutor immediately of the arrest.
 
 <sup>2</sup> They shall then question the arrested person in accordance with Article 159 on the suspected offences and carry out appropriate investigations immediately in order to substantiate or rebut the allegations and any other grounds for detention.
 
@@ -2861,25 +2944,36 @@ Remand and preventive detention are only permitted if there is a strong suspicio
 
 - a. will evade criminal proceedings or the anticipated sanction by absconding;
 - b. will influence people or tamper with evidence in order to compromise efforts to establish the truth; or
-- c. will pose a considerable risk to the safety of others by committing serious felonies or misdemeanours as he or she has already committed similar offences.
+- c.[^221-1] will pose a considerable and immediate risk to the safety of others by committing felonies or serious misdemeanours as he or she has already committed similar offences.
 
-<sup>2</sup> Detention is also permitted if there is serious concern that a person will carry out a threat to commit a serious felony.
+<sup>1bis</sup>
+
+Remand and preventive detention are permitted by way of exception if:
+
+- a. there is a strong suspicion that the accused has committed a felony or misdemeanour that has seriously harmed a person’s physical, mental or sexual integrity; and
+- b. there is a serious and immediate risk that the accused will commit a similar serious felony.[^221-2]
+
+<sup>2</sup> Detention is also permitted if there is a serious and immediate risk that a person will carry out a threat to commit a serious felony.[^221-3]
+
+[^221-1]: Amended by No I of the FA of 17 June 2022, in force since 1 Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^221-2]: Inserted by No I of the FA of 17 June 2022, in force since 1 Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^221-3]: Amended by No I of the FA of 17 June 2022, in force since 1 Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 222
 
 **Appellate remedies**[^222-1]
 
-A detainee may contest decisions ordering, extending or ending his or her remand or preventive detention before the objections authority, subject to Article 233.
+Only the detainee may contest decisions ordering, extending or ending his or her remand or preventive detention before the objections court, subject to Article 233.
 
-[^222-1]: Amended by Annex No II 7 of the Criminal Justice Authorities Act of 19 March 2010, in force since 1 Jan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
+[^222-1]: Amended by No I of the FA of 17 June 2022, in force since 1 Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 223
 
 **Communications with the defence in detention proceedings**
 
-<sup>1</sup> The defence agent may be present in detention proceedings when the accused is interviewed or when other evidence is being gathered.
+<sup>1</sup> The defence lawyer may be present in detention proceedings when the accused is interviewed or when other evidence is being gathered.
 
-<sup>2</sup> The accused may at any time communicate privately with his or her defence agent in writing or orally in proceedings before the public prosecutor or the courts relating to detention.
+<sup>2</sup> The accused may at any time communicate privately with his or her defence lawyer in writing or orally in proceedings before the public prosecutor or the courts relating to detention.
 
 ### Section 5 Remand
 
@@ -2897,7 +2991,7 @@ A detainee may contest decisions ordering, extending or ending his or her remand
 
 **Detention proceedings before the compulsory measures court**
 
-<sup>1</sup> On receipt of the application from the public prosecutor, the compulsory measures court shall immediately arrange a private hearing with the public prosecutor, the accused and his or her defence agent; it may require the public prosecutor to participate.
+<sup>1</sup> On receipt of the application from the public prosecutor, the compulsory measures court shall immediately arrange a private hearing with the public prosecutor, the accused and his or her defence lawyer; it may require the public prosecutor to participate.
 
 <sup>2</sup> If so requested, it shall permit the accused and the defence to inspect the files in its possession before the hearing.
 
@@ -2905,7 +2999,9 @@ A detainee may contest decisions ordering, extending or ending his or her remand
 
 <sup>4</sup> The compulsory measures court shall gather all the immediately available evidence that may substantiate or rebut the suspicions or the grounds for detention.
 
-<sup>5</sup> If the accused expressly waives the right to a hearing, the compulsory measures court shall decide in written proceedings on the basis of the application made by the public prosecutor and the submissions made by the accused.
+<sup>5</sup> If the accused expressly waives the right to a hearing, the compulsory measures court may decide in written proceedings on the basis of the application made by the public prosecutor and the submissions made by the accused.[^225-1]
+
+[^225-1]: Amended by No I of the FA of 17 June 2022, in force since 1 Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 226
 
@@ -3001,15 +3097,23 @@ The court of first instance shall decide in its judgment whether a person convic
 - a. in order to ensure that a sentence or measure is duly executed;
 - b. with a view to appellate proceedings.
 
-<sup>2</sup> If an accused in detention is acquitted and the court of first instance orders his or her release, the public prosecutor may apply to the court of first instance for the director of appellate proceedings to order the continuation of preventive detention. In such a case, the person concerned shall remain in detention until the director of appellate proceedings makes a decision. The director of appellate proceedings shall decide on the application made by the public prosecutor within 5 days of the application being filed.
+<sup>2</sup>
+
+If an accused in detention is acquitted and the court of first instance orders his or her release, the public prosecutor may:
+
+- a. apply to the court of first instance for the release to be combined with measures, giving notice of the penalties under Article 292 SCC[^231-1], in order to ensure that the person released attends the appellate proceedings. The person released and the public prosecutor may contest decisions on the measures ordered before the objections court;
+- b. apply to the court of first instance for the director of appellate proceedings to order the continuation of preventive detention if there is a serious and immediate risk to the safety of others as the result of a felony or serious misdemeanour. In such a case, the person concerned shall remain in detention until the director of appellate proceedings makes a decision. The director of appellate proceedings shall decide on the application made by the public prosecutor within 5 days of the application being filed.[^231-2]
 
 <sup>3</sup> If the objections withdrawn, the court of first instance shall decide on how the period spent in detention following the judgment will be taken into account.
+
+[^231-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^231-2]: Amended by No I of the FA of 17 June 2022, in force since 1 Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 232
 
 **Preventive detention during proceedings before the court of appeal**
 
-<sup>1</sup> If grounds for detention arise only during proceedings before the court of appeal, the director of appellate proceedings shall order the person to be placed in detention to be brought before the court immediately in order to be heard.
+<sup>1</sup> If grounds for detention arise only during proceedings before the court of appeal, the director of appellate proceedings shall order the person to be placed in detention to be brought before the court immediately in order to a fair hearing.
 
 <sup>2</sup> A decision shall be made within 48 hours of the hearing; their decision is final.
 
@@ -3039,7 +3143,7 @@ The director of appellate proceedings shall decide on an application for release
 
 <sup>3</sup> The director of proceedings shall inspect incoming and outgoing post, with the exception of correspondence with the supervisory and criminal justice authorities. During preventive detention, the director of proceedings may delegate this task to the public prosecutor.
 
-<sup>4</sup> The detainee may communicate freely with his or her defence agent without the content of communications being inspected. If there is justified suspicion that this right is being abused, the director of proceedings may with approval of the compulsory measures court restrict free communication for a limited period, provided prior notice is given to the detainee and the defence agent of the restrictions.
+<sup>4</sup> The detainee may communicate freely with his or her defence lawyer without the content of communications being inspected. If there is justified suspicion that this right is being abused, the director of proceedings may with approval of the compulsory measures court restrict free communication for a limited period, provided prior notice is given to the detainee and the defence lawyer of the restrictions.
 
 <sup>5</sup> The cantons shall regulate the rights and obligations of persons in custody, their rights to legal redress, disciplinary measures and the supervision of detention centres.
 
@@ -3047,13 +3151,16 @@ The director of appellate proceedings shall decide on an application for release
 
 **Accelerated execution of sentences and measures**
 
-<sup>1</sup> The director of proceedings may authorise the accused to begin a custodial sentence or custodial measure in advance of the anticipated date, provided the status of the proceedings permit this.
+<sup>1</sup> The director of proceedings may authorise the accused to begin a custodial sentence or custodial measure in advance of the anticipated date, provided the status of the proceedings permit this and unless this conflicts with the purpose of the accused's remand or preventive detention.[^236-1]
 
 <sup>2</sup> If the charges have already been filed, the director of proceedings shall consult the public prosecutor.
 
 <sup>3</sup> The Confederation and the cantons may provide that the execution of a measure in advance of the anticipated date requires the consent of the authorities responsible for its execution.
 
-<sup>4</sup> On admission to a penal institution, the accused begins his or her sentence or measure; from this point the accused is governed by the relevant regime unless this conflicts with the purpose of the accused's remand or preventive detention.
+<sup>4</sup> On admission to a penal institution, the accused begins his or her sentence or measure; from this point the accused is governed by the relevant regime.[^236-2]
+
+[^236-1]: Amended by No I of the FA of 17 June 2022, in force since 1 Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^236-2]: Amended by No I of the FA of 17 June 2022, in force since 1 Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 ### Section 8 Alternative Measures
 
@@ -3103,7 +3210,7 @@ The bail payment shall be returned if:
 - b. the criminal proceedings are concluded by a final judgment of abandonment or acquittal;
 - c. the accused has begun a custodial sanction.
 
-<sup>2</sup> Before the bail payment made by the accused is returned, any monetary penalties, fines, costs and damages that have been imposed on the accused may be deducted from it.
+<sup>2</sup> Before the bail payment made by the accused is returned, any monetary penalties, fines, costs and compensation that have been imposed on the accused may be deducted from it.
 
 <sup>3</sup> The authority before which the case is pending or was last pending shall decide on the return of the bail payment.
 
@@ -3135,7 +3242,7 @@ The bail payment shall be returned if:
 
 The warrant shall indicate:
 
-- a. the persons, premises, property or records to be searched;
+- a. the persons, premises, items or records or recordings to be searched or searched for;
 - b. the purpose of the measure;
 - c. the authorities or persons authorised to conduct the measure.
 
@@ -3157,7 +3264,7 @@ The warrant shall indicate:
 
 <sup>1</sup> Forensic evidence or items found that are not connected with the offence under investigation but which appears to relate to a different offence shall be secured.
 
-<sup>2</sup> The property shall be handed over with a report thereon to the director of proceedings, who shall decide on the further course of action.
+<sup>2</sup> The items shall be handed over with a report thereon to the director of proceedings, who shall decide on the further course of action.
 
 ### Section 2 Searches of Premises
 
@@ -3172,7 +3279,7 @@ The warrant shall indicate:
 The proprietor's consent is not required if it is suspected that on the premises:
 
 - a. there are wanted persons;
-- b. there is forensic evidence or property or assets that must be seized;
+- b. there is forensic evidence or items or assets that must be seized;
 - c. offences are being committed.
 
 #### Art. 245
@@ -3195,28 +3302,53 @@ Documents, audio, video and other recordings, data carriers and equipment for pr
 
 **Conduct**
 
-<sup>1</sup> The proprietor may comment before a search on the content of records and recordings.
+<sup>1</sup> The holder may comment before a search on the content of records.
 
-<sup>2</sup> Experts may be called in to examine the content of records and recordings, and in particular to identify records and recordings with protected content.
+<sup>2</sup> Experts may be called in to examine the content of records, and in particular to identify records with protected content.
 
-<sup>3</sup> The proprietor may provide the criminal justice authority with copies of records and recordings and printouts of stored information if this is sufficient for the purpose of the proceedings.
+<sup>3</sup> The holder may provide the criminal justice authority with copies of records and printouts of stored information if this is sufficient for the purpose of the proceedings.
 
 #### Art. 248
 
-**Sealing of evidence**
+**Sealing of evidence**[^248-1]
 
-<sup>1</sup> Records and property that according to the proprietor may not be searched or seized due to the right to remain silent or to refuse to testify or for other reasons must be sealed and may neither be inspected nor used by the criminal justice authorities.
+<sup>1</sup> If the holder claims that, in view of Article 264, specific records or other items may not be seized, criminal justice authority shall place the same under seal. The holder must make the request within three days of the items being secured. During this period and following any sealing, the criminal justice authority shall neither inspect nor use the records or items.
 
-<sup>2</sup> Unless the criminal justice authority files a request for the removal of the seals within 20 days, the sealed records and property shall be returned to the proprietor.
+<sup>2</sup> If the criminal justice authority establishes that the holder is not the same person as the proprietor, it shall give the proprietor the opportunity to request sealing within three days.
 
-<sup>3</sup>
+<sup>3</sup> Unless the criminal justice authority files a request for the removal of the seals within 20 days, the sealed records and property shall be returned to the holder.
 
-If it files a request for the removal of the seals, the following courts shall issue a final judgment thereon within a month:
+[^248-1]: Amended by No I of the FA of 17 June 2022, in force since 1 Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
-- a. in preliminary proceedings: the compulsory measures court;
-- b. in other cases: the court before which the case is pending.
+#### Art. 248a
 
-<sup>4</sup> The court may call in an expert to examine the content of records and property.
+**Responsibility and procedure for removing seals**[^248a-1]
+
+<sup>1</sup>
+
+If the criminal justice authority files a request for the removal of the seals, the following are responsible for the decision:
+
+- a. in preliminary proceedings and in proceedings before the court of first instance: the compulsory measures court;
+- b. in other cases: the director of proceedings in the court before which the case is pending.
+
+<sup>2</sup> If, after receiving the request for the removal of seals, the court establishes that the holder is not the same person as the proprietor, it shall inform the proprietor of the sealing. On request, it shall permit the proprietor to inspect the case files.
+
+<sup>3</sup> The court shall allow the proprietor a non-extendable period of 10 days, within which to object to the request for the removal of seals and state to what extent he or she wishes to maintain the sealing. Failure to respond is deemed equivalent to the withdrawing the request for sealing.
+
+<sup>4</sup> If the matter is ready for a decision to be made, the court shall issue a final decision within 10 days of receipt of the response in written proceedings.
+
+<sup>5</sup> Otherwise, the court shall within 30 days of receipt of the response arrange a private hearing with the public prosecutor and the proprietor. The proprietor must credibly explain why and to what extent the seals should not be removed from the records or items. The court shall issue its decision immediately; the decision is final.
+
+<sup>6</sup>
+
+The court may:
+
+- a. call in an expert in order to examine the content of records and items, be granted access to the same or to guarantee their integrity;
+- b. designate police officers as experts in order that they are granted access to the content of the records and items or guarantee their integrity.
+
+<sup>7</sup> If the proprietor fails to attend the hearing without providing an excuse and if they do not arrange to be represented either, the request for sealing is deemed to have been withdrawn. If the public prosecutor fails to attend, the court shall decide in its absence.
+
+[^248a-1]: Inserted by No I of the FA of 17 June 2022, in force since 1 Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 ### Section 4 Searches of Persons and Property
 
@@ -3256,6 +3388,18 @@ The accused may be questioned in order to:
 [^251-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^251-2]: Amended by No III of the FA of 30 Sept. 2011, in force since 1 July 2012 ([AS 2012 2575](https://fedlex.data.admin.ch/eli/oc/2012/310); [BBl 2010 5651](https://fedlex.data.admin.ch/eli/fga/2010/992)[5677](https://fedlex.data.admin.ch/eli/fga/2010/994)).
 
+#### Art. 251a
+
+**Alcohol breath test, blood and urine test**[^251a-1]
+
+In order to establish fitness to drive, the police may:
+
+- a. conduct an alcohol breath test;
+- b. take a blood sample and order its analysis in cases in which federal law prescribes a blood test;
+- c. order the taking and analysis of a urine sample.
+
+[^251a-1]: Inserted by No I of the FA of 17 June 2022, in force since 1 Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+
 #### Art. 252
 
 **Conduct of physical examinations**
@@ -3268,9 +3412,9 @@ Examinations of persons and interventions in their physical integrity shall be c
 
 **Unnatural deaths**
 
-<sup>1</sup> If there are indications that a death did not occur naturally, and in particular indications of an offence, or if the body is unidentified, the public prosecutor shall order an inspection of the body to be carried out by a specialist doctor in order to establish the cause of death or to identify the body.
+<sup>1</sup> If there are indications that a death did not occur naturally, and in particular indications of an offence, or if the body is unidentified, the public prosecutor shall order an examination of the body to be carried out by a specialist doctor in order to establish the cause of death or to identify the body.
 
-<sup>2</sup> If, after the inspection of the body, there is no evidence that an offence has been committed and if identity is established, the public prosecutor shall release the body for the funeral.
+<sup>2</sup> If, after the examination of the body, there is no evidence that an offence has been committed and if identity is established, the public prosecutor shall release the body for the funeral.
 
 <sup>3</sup> The public prosecutor shall otherwise order the body to be secured and further tests, and if necessary an autopsy to be carried out by an institute for forensic medicine. It may order the body or parts thereof to be retained for as long as required for the purpose of the investigation.
 
@@ -3282,7 +3426,7 @@ Examinations of persons and interventions in their physical integrity shall be c
 
 If it appears necessary in for the proper investigation of an offence, the exhumation of a body or the opening of an urn containing its ashes may be ordered.
 
-### Chapter 5 DNA Analyses
+### Chapter 5 DNA Analysis
 
 ### Section 1 DNA Profiles
 
@@ -3296,12 +3440,14 @@ If it appears necessary in for the proper investigation of an offence, the exhum
 
 <sup>1</sup>
 
-In order to investigate a felony or a misdemeanour, a sample may be taken to create a DNA profile of:
+In order to investigate the felony or misdemeanour that is the subject of the proceedings, a sample may be taken to create a DNA profile of:[^255-1]
 
 - a. the accused;
 - b. other persons, in particular victims or persons entitled to be present at the place of commission, insofar as this is necessary to distinguish their biological material from that of the accused;
 - c. deceased persons;
 - d. biological material relevant to the offence.
+
+<sup>1bis</sup> A sample may be taken from and a DNA profile created of the accused if there are specific indications that the accused could have committed further felonies or misdemeanours.[^255-2]
 
 <sup>2</sup>
 
@@ -3310,10 +3456,12 @@ The police may order:
 - a. a sample to be taken from persons by non-invasive methods;
 - b. the creation of a DNA profile from biological material relevant to the offence.
 
-<sup>3</sup> If it is only possible to create the Y-DNA profile from biological material relevant to the offence, the public prosecutor may when investigating a felony order its comparison with data in the information system in accordance with Article 10 of the DNA Profiling Act of 20 June 2003[^255-1].[^255-2]
+<sup>3</sup> If it is only possible to create the Y-DNA profile from biological material relevant to the offence, the public prosecutor may when investigating a felony order its comparison with data in the information system in accordance with Article 10 of the DNA Profiles Act of 20 June 2003[^255-3].[^255-4]
 
-[^255-1]: [SR 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
-[^255-2]: Inserted by Annex 1 No 2 of the FA of 17 Dec. 2021, in force since 1 Aug. 2023 ([AS 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [BBl 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
+[^255-1]: Amended by No I of the FA of 17 June 2022, in force since 1 Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^255-2]: Inserted by No I of the FA of 17 June 2022, in force since 1 Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^255-3]: [SR 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
+[^255-4]: Inserted by Annex 1 No 2 of the FA of 17 Dec. 2021, in force since 1 Aug. 2023 ([AS 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [BBl 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
 
 #### Art. 256
 
@@ -3327,13 +3475,11 @@ The police may order:
 
 #### Art. 257
 
-**Convicted persons**
+**Convicted persons**[^257-1]
 
-The court may in its judgment order that a sample be taken to create a DNA profile from persons who:
+The court may in its judgment order that a sample be taken to create a DNA profile from persons convicted of a felony or a misdemeanour if there are specific indications that the convicted person could commit further felonies or misdemeanours.
 
-- a. have received a custodial sentence of more than a year on being convicted of a wilfully committed felony;
-- b. have been convicted of a wilfully committed felony or misdemeanour against life and limb or against sexual integrity;
-- c. have been ordered to undergo a therapeutic measure or the indefinite incarceration.
+[^257-1]: Amended by No I of the FA of 17 June 2022, in force since 1 Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 258
 
@@ -3345,7 +3491,7 @@ Where invasive methods are used to take samples, the sample shall be taken by a 
 
 **Familial searches**[^258a-1]
 
-In order to investigate a felony under Articles 111−113, 118 paragraph 2, 122, 124, 140, 156 numbers 2−4, 182, 184, 185, 187, 189 paragraphs 1 and 3, 190 paragraphs 1 and 3, 191, 260<sup>ter</sup> or 264−264*l* SCC[^258a-2], a familial DNA search may be ordered in accordance with Article 2*a* of the DNA Profiling Act of 20 June 2003[^258a-3], provided the investigative measures up to that point have been unsuccessful or the investigation would otherwise have no prospect of success or would be made disproportionately more difficult.
+In order to investigate a felony under Articles 111−113, 118 paragraph 2, 122, 124, 140, 156 numbers 2−4, 182, 184, 185, 187, 189 paragraphs 1 and 3, 190 paragraphs 1 and 3, 191, 260<sup>ter</sup> or 264−264*l* SCC[^258a-2], a familial DNA search may be ordered in accordance with Article 2*a* of the DNA Profiles Act of 20 June 2003[^258a-3], provided the investigative measures up to that point have been unsuccessful or the investigation would otherwise have no prospect of success or would be made disproportionately more difficult.
 
 [^258a-1]: Inserted by Annex 1 No 2 of the FA of 17 Dec. 2021, in force since 1 Aug. 2023 ([AS 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [BBl 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
 [^258a-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
@@ -3361,7 +3507,7 @@ In order to investigate a felony under Articles 111−113, 118 paragraph 2, 122,
 
 **Phenotyping**[^258b-1]
 
-Phenotyping in accordance with Article 2*b* of the DNA Profiling Act of 20 June 2003[^258b-2] may be ordered when investigating felonies under the following Articles: Articles 111−113, 118 paragraph 2, 122, 124, 140, 156 numbers 2−4, 182, 184, 185, 187, 189 paragraphs 1 and 3, 190 paragraphs 1 and 3, 191, 260<sup>ter</sup> or 264−264*l* SCC[^258b-3].
+Phenotyping in accordance with Article 2*b* of the DNA Profiles Act of 20 June 2003[^258b-2] may be ordered when investigating felonies under the following Articles: Articles 111−113, 118 paragraph 2, 122, 124, 140, 156 numbers 2−4, 182, 184, 185, 187, 189 paragraphs 1 and 3, 190 paragraphs 1 and 3, 191, 260<sup>ter</sup> or 264−264*l* SCC[^258b-3].
 
 [^258b-1]: Inserted by Annex 1 No 2 of the FA of 17 Dec. 2021, in force since 1 Aug. 2023 ([AS 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [BBl 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
 [^258b-2]: [SR 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
@@ -3369,9 +3515,9 @@ Phenotyping in accordance with Article 2*b* of the DNA Profiling Act of 20 June 
 
 #### Art. 259
 
-**Application of the DNA Profiling Act**
+**Application of the DNA Profiles Act**
 
-The DNA Profiling Act of 20 June 2003[^259-1] also applies.
+The DNA Profiles Act of 20 June 2003[^259-1] also applies.
 
 [^259-1]: [SR 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
 
@@ -3427,13 +3573,17 @@ Documents that identify the accused may be retained outside the case file and, i
 Items and assets belonging to an accused or to a third party may be seized if it is expected that the items or assets:
 
 - a. will be used as evidence;
-- b. will be used as security for procedural costs, monetary penalties, fines or damages;
+- b. will be used as security for procedural costs, monetary penalties, fines or compensation;
 - c. will have to be returned to the persons suffering harm;
-- d. will have to be forfeited.
+- d. will have to be forfeited;
+- e.[^263-1] will be used to cover compensation claims made by the State in accordance with Article 71 SCC[^263-2].
 
 <sup>2</sup> Seizure shall be ordered on the basis of a written warrant containing a brief statement of the grounds. In urgent cases, seizure may be ordered orally, but the order must thereafter be confirmed in writing.
 
 <sup>3</sup> Where there is a risk in any delay, the police or members of the public may provisionally seize items or assets on behalf of the public prosecutor or the courts.
+
+[^263-1]: Inserted by No I of the FA of 17 June 2022, in force since 1 Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^263-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
 #### Art. 264
 
@@ -3450,11 +3600,12 @@ The following items may not be seized irrespective of their location and of when
 
 <sup>2</sup> The restrictions in accordance with paragraph 1 do not apply to items and assets that must be seized with a view to their return to the person suffering harm or their forfeiture.
 
-<sup>3</sup> If an entitled person claims that a seizure of items or assets is not permitted on the grounds of a right to refuse to make a statement or testify or for other reasons, the criminal justice authorities shall proceed in accordance with the regulations on the sealing of evidence.
+<sup>3</sup> If the holder of items or assets claims that their seizure is not permitted, the criminal justice authorities shall proceed in accordance with the regulations on the sealing of evidence.[^264-4]
 
 [^264-1]: Amended by No I 6 of the FA of 28 Sept. 2012 on the Amendment of Procedural Provisions on Professional Confidentiality for Lawyers, in force since 1 May 2013 ([AS 2013 847](https://fedlex.data.admin.ch/eli/oc/2013/177); [BBl 2011 8181](https://fedlex.data.admin.ch/eli/fga/2011/1435)).
 [^264-2]: Inserted by No I 6 of the FA of 28 Sept. 2012 on the Amendment of Procedural Provisions on Professional Confidentiality for Lawyers, in force since 1 May 2013 ([AS 2013 847](https://fedlex.data.admin.ch/eli/oc/2013/177); [BBl 2011 8181](https://fedlex.data.admin.ch/eli/fga/2011/1435)).
 [^264-3]: [SR 935.61](https://fedlex.data.admin.ch/eli/cc/2002/153)
+[^264-4]: Amended by No I of the FA of 17 June 2022, in force since 1 Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 265
 
@@ -3489,15 +3640,16 @@ The following persons are not required to hand over items or assets:
 
 <sup>2</sup> It shall draw up a list and safeguard the property and assets appropriately.
 
-<sup>3</sup> If immovable property is seized, an inhibition shall be ordered; this shall be recorded in the Land Register.
+<sup>3</sup> If immovable property is seized, an inhibition shall be ordered; this shall be recorded in the Land Register.[^266-1]
 
 <sup>4</sup> The seizure of a debt shall be notified to the debtor, who shall be advised that repayment to the creditor will not settle the debt.
 
-<sup>5</sup> Property that is subject to rapid depreciation or requires expensive maintenance, as well as securities or other assets with a stock exchange or market price may be sold immediately in accordance with the Federal Act of 11 April 1889[^266-1] on Debt Enforcement and Bankruptcy (DEBA). The proceeds shall be seized.
+<sup>5</sup> Property that is subject to rapid depreciation or requires expensive maintenance, as well as securities or other assets with a stock exchange or market price may be sold immediately in accordance with the Federal Act of 11 April 1889[^266-2] on Debt Enforcement and Bankruptcy (DEBA). The proceeds shall be seized.
 
 <sup>6</sup> The Federal Council shall regulate the investment of seized assets.
 
-[^266-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^266-1]: Amended by No I of the FA of 17 June 2022, in force since 1 Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^266-2]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
 
 #### Art. 267
 
@@ -3523,7 +3675,7 @@ The following persons are not required to hand over items or assets:
 
 Assets belonging to the accused may be seized to the extent that is anticipated to be required to cover:
 
-- a. procedural costs and damages;
+- a. procedural costs and compensation;
 - b. monetary penalties and fines.
 
 <sup>2</sup> The criminal justice authority shall take account of the financial circumstances of the accused and his or her family when deciding on seizure.
@@ -3552,48 +3704,49 @@ The public prosecutor may arrange for post and telecommunications to be monitore
 
 Surveillance may be ordered in the investigation of the offences under the following Articles:
 
-- a.[^269-1] SCC: Articles 111–113, 115, 118 paragraph 2, 122, 124, 127, 129, 135, 138–140, 143, 144 paragraph 3, 144<sup>bis</sup> number 1 paragraph 2 and number 2 paragraph 2, 146–148, 156, 157 number 2, 158 number 1 paragraph 3 and number 2, 160, 163 number 1, 180, 181, 182–185, 187, 188 number 1, 189–191, 192 paragraph 1, 195–197, 220, 221 paragraphs 1 and 2, 223 number 1, 224 paragraph 1, 226, 227 number 1 paragraph 1, 228 number 1 paragraph 1, 230<sup>bis</sup>, 231 number 1, 232 number 1, 233 number 1, 234 paragraph 1, 237 number 1, 240 paragraph 1, 242, 244, 251 number 1, 258, 259 paragraph 1, 260<sup>bis</sup>–260<sup>sexies</sup>, 261<sup>bis</sup>, 264–267, 271, 272 number 2, 273, 274 number 1 paragraph 2, 285, 301, 303 number 1, 305, 305<sup>bis</sup> number 2, 310, 312, 314, 317 number 1, 319, 322<sup>ter</sup>, 322<sup>quater</sup> and 322<sup>septies</sup>;
-- b.[^269-2] Foreign Nationals and Integration Act[^269-3] of 16 December 2005[^269-4]: Articles 116 paragraph 3 and 118 paragraph 3;
-- c. Federal Act of 22 June 2001[^269-5] on the Hague Convention on Adoption and on Measures to Protect Children in International Adoption Cases: Article 24;
-- d.[^269-6] War Material Act of 13 December 1996[^269-7]: Articles 33 paragraph 2 and 34–35*b*;
-- e. Nuclear Energy Act of 21 March 2003[^269-8]: Articles 88 paragraphs 1 and 2, 89 paragraphs 1 and 2 and 90 paragraph 1;
-- f.[^269-9] Narcotics Act of 3 October 1951[^269-10]: Articles 19 number 1 second sentence and number 2, and 20 number 1 second sentence;
-- g. Environmental Protection Act of 7 October 1983[^269-11]: Article 60 paragraph 1 letters g–i as well as m and o;
-- h. Goods Control Act of 13 December 1996[^269-12]: Article 14 paragraph 2;
-- i.[^269-13] Sport Promotion Act of 17 June 2011[^269-14]: Article 22 paragraphs 2 and 25*a* paragraph 3;
-- j.[^269-15] Financial Market Infrastructure Act of 19 June 2015[^269-16]: Articles 154 and 155;
-- k.[^269-17] Weapons Act of 20 June 1997[^269-18]: Article 33 paragraph 3;
-- l.[^269-19] Medicinal Products Act of 15 December 2000[^269-20]: Article 86 paragraphs 2 and 3;
-- m.[^269-21] Gambling Act of 29 September 2017[^269-22]: Article 130 paragraph 2 for the offences under Article 130 paragraph 1 letter a;
-- n.[^269-23] Intelligence Service Act of 25 September 2015[^269-24]: Article 74 paragraph 4.
+- a.[^269-1] SCC[^269-2]: Articles 111–113, 115, 118 paragraph 2, 122, 124, 127, 129, 135, 138–140, 143, 144 paragraph 3, 144<sup>bis</sup> number 1 paragraph 2 and number 2 paragraph 2, 146–148, 156, 157 number 2, 158 number 1 paragraph 3 and number 2, 160, 163 number 1, 180, 181, 182–185, 187, 188 number 1, 189–191, 192 paragraph 1, 195–197, 220, 221 paragraphs 1 and 2, 223 number 1, 224 paragraph 1, 226–226<sup>ter</sup>, 227 number 1 paragraph 1, 228 number 1 paragraph 1, 230<sup>bis</sup>, 231 number 1, 232 number 1, 233 number 1, 234 paragraph 1, 237 number 1, 240 paragraph 1, 242, 244, 251 number 1, 258, 259 paragraph 1, 260<sup>bis</sup>–260<sup>sexies</sup>, 261<sup>bis</sup>, 264–267, 271, 272 number 2, 273, 274 number 1 paragraph 2, 285, 301, 303 number 1, 305, 305<sup>bis</sup> number 2, 310, 312, 314, 317 number 1, 319, 322<sup>ter</sup>, 322<sup>quater</sup> and 322<sup>septies</sup>;
+- b.[^269-3] Foreign Nationals and Integration Act[^269-4] of 16 December 2005[^269-5]: Articles 116 paragraph 3 and 118 paragraph 3;
+- c. Federal Act of 22 June 2001[^269-6] on the Hague Convention on Adoption and on Measures to Protect Children in International Adoption Cases: Article 24;
+- d.[^269-7] War Material Act of 13 December 1996[^269-8]: Articles 33 paragraph 2 and 34–35*b*;
+- e. Nuclear Energy Act of 21 March 2003[^269-9]: Articles 88 paragraphs 1 and 2, 89 paragraphs 1 and 2 and 90 paragraph 1;
+- f.[^269-10] NarcA[^269-11]: Articles 19 number 1 second sentence and number 2, and 20 number 1 second sentence;
+- g. Environmental Protection Act of 7 October 1983[^269-12]: Article 60 paragraph 1 letters g–i as well as m and o;
+- h. Goods Control Act of 13 December 1996[^269-13]: Article 14 paragraph 2;
+- i.[^269-14] Sport Promotion Act of 17 June 2011[^269-15]: Article 22 paragraphs 2 and 25*a* paragraph 3;
+- j.[^269-16] Financial Market Infrastructure Act of 19 June 2015[^269-17]: Articles 154 and 155;
+- k.[^269-18] Weapons Act of 20 June 1997[^269-19]: Article 33 paragraph 3;
+- l.[^269-20] Medicinal Products Act of 15 December 2000[^269-21]: Article 86 paragraphs 2 and 3;
+- m.[^269-22] Gambling Act of 29 September 2017[^269-23]: Article 130 paragraph 2 for the offences under Article 130 paragraph 1 letter a;
+- n.[^269-24] Intelligence Service Act of 25 September 2015[^269-25]: Article 74 paragraph 4.
 
-<sup>3</sup> If the adjudication an offence subject to military jurisdiction is assigned to the jurisdiction of the civil courts, the surveillance of post and telecommunications may also be ordered in the investigation of the offences under Article 70 paragraph 2 of the Military Criminal Procedure Code of 23 March 1979[^269-25].
+<sup>3</sup> If the adjudication an offence subject to military jurisdiction is assigned to the jurisdiction of the civil courts, the surveillance of post and telecommunications may also be ordered in the investigation of the offences under Article 70 paragraph 2 of the Military Criminal Procedure Code of 23 March 1979[^269-26].
 
-[^269-1]: Amended by No I 12 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
-[^269-2]: Amended by Annex No II 7 of the Criminal Justice Authorities Act of 19 March 2010, in force since 1 Jan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
-[^269-3]: Title amended on 1 Jan. 2019 in application of Art. 12 para. 2 of the Publications Act of 18 June 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). This change has been made throughout the text.
-[^269-4]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^269-5]: [SR 211.221.31](https://fedlex.data.admin.ch/eli/cc/2002/639)
-[^269-6]: Amended by No II of the FA of 16 March 2012, in force since 1 Feb. 2013 ([AS 2013 295](https://fedlex.data.admin.ch/eli/oc/2013/48); [BBl 2011 5905](https://fedlex.data.admin.ch/eli/fga/2011/879)).
-[^269-7]: [SR 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
-[^269-8]: [SR 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
-[^269-9]: Correction by the Federal Assembly Drafting Committee dated 19 Sept. 2014, published on 4 Oct. 2014 ([AS 2011 4487](https://fedlex.data.admin.ch/eli/oc/2011/619)).
-[^269-10]: [SR 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
-[^269-11]: [SR 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
-[^269-12]: [SR 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
-[^269-13]: Inserted by Art. 34 No 2 of the Sport Promotion Act of 17 June 2011 ([AS 2012 3953](https://fedlex.data.admin.ch/eli/oc/2012/460); [BBl 2009 8189](https://fedlex.data.admin.ch/eli/fga/2009/1425)). Amended by Annex No II 2 of the Gambling Act of 29 Sept. 2017, in force since 1 Jan. 2019 ([AS 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [BBl 2015 8387](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
-[^269-14]: [SR 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)
-[^269-15]: Inserted by No II 4 of the FA of 28 Sept. 2012 ([AS 2013 1103](https://fedlex.data.admin.ch/eli/oc/2013/250); [BBl 2011 6873](https://fedlex.data.admin.ch/eli/fga/2011/1111)). Amended by Annex No 4 of the Financial Market Infrastructure Act of 19 June 2015, in force since 1 Jan. 2016 ([AS 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [BBl 2014 7483](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
-[^269-16]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
-[^269-17]: Inserted by Annex No II 1 of the FA of 18 March 2016 on the Surveillance of Postal and Telecommunications Traffic, in force since 1 March 2018 ([AS 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31); [BBl 2013 2683](https://fedlex.data.admin.ch/eli/fga/2013/512)).
-[^269-18]: [SR 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
-[^269-19]: Inserted by Annex No 1 of the FD of 29 Sept. 2017 (Medicrime Convention), in force since 1 Jan. 2019 ([AS 2018 4771](https://fedlex.data.admin.ch/eli/oc/2018/765); [BBl 2017 3135](https://fedlex.data.admin.ch/eli/fga/2017/649)).
-[^269-20]: [SR 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
-[^269-21]: Inserted by Annex No II 2 of the Gambling Act of 29 Sept. 2017, in force since 1 Jan. 2019 ([AS 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [BBl 2015 8387](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
-[^269-22]: [SR 935.51](https://fedlex.data.admin.ch/eli/cc/2018/795)
-[^269-23]: Inserted by Annex No II 3 of the FedD of 25 Sept. 2020 on the Approval and Implementation of the Council of Europe Convention on the Prevention of Terrorism and its Additional Protocol and the Strengthening of Criminal Justice Instruments for combating Terrorism and Organised Crime, in force since 1 July 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
-[^269-24]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
-[^269-25]: [SR 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
+[^269-1]: Amended by Annex 2 No 2 of the FA of 17 June 2022, in force since 1 Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^269-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^269-3]: Amended by Annex No II 7 of the Criminal Justice Authorities Act of 19 March 2010, in force since 1 Jan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
+[^269-4]: Title amended on 1 Jan. 2019 in application of Art. 12 para. 2 of the Publications Act of 18 June 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). This change has been made throughout the text.
+[^269-5]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^269-6]: [SR 211.221.31](https://fedlex.data.admin.ch/eli/cc/2002/639)
+[^269-7]: Amended by No II of the FA of 16 March 2012, in force since 1 Feb. 2013 ([AS 2013 295](https://fedlex.data.admin.ch/eli/oc/2013/48); [BBl 2011 5905](https://fedlex.data.admin.ch/eli/fga/2011/879)).
+[^269-8]: [SR 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
+[^269-9]: [SR 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
+[^269-10]: Amended by No I of the FA of 17 June 2022, in force since 1 Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^269-11]: [SR 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
+[^269-12]: [SR 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
+[^269-13]: [SR 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
+[^269-14]: Inserted by Art. 34 No 2 of the Sport Promotion Act of 17 June 2011 ([AS 2012 3953](https://fedlex.data.admin.ch/eli/oc/2012/460); [BBl 2009 8189](https://fedlex.data.admin.ch/eli/fga/2009/1425)). Amended by Annex No II 2 of the Gambling Act of 29 Sept. 2017, in force since 1 Jan. 2019 ([AS 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [BBl 2015 8387](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
+[^269-15]: [SR 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)
+[^269-16]: Inserted by No II 4 of the FA of 28 Sept. 2012 ([AS 2013 1103](https://fedlex.data.admin.ch/eli/oc/2013/250); [BBl 2011 6873](https://fedlex.data.admin.ch/eli/fga/2011/1111)). Amended by Annex No 4 of the Financial Market Infrastructure Act of 19 June 2015, in force since 1 Jan. 2016 ([AS 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [BBl 2014 7483](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
+[^269-17]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^269-18]: Inserted by Annex No II 1 of the FA of 18 March 2016 on the Surveillance of Postal and Telecommunications Traffic, in force since 1 March 2018 ([AS 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31); [BBl 2013 2683](https://fedlex.data.admin.ch/eli/fga/2013/512)).
+[^269-19]: [SR 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^269-20]: Inserted by Annex No 1 of the FD of 29 Sept. 2017 (Medicrime Convention), in force since 1 Jan. 2019 ([AS 2018 4771](https://fedlex.data.admin.ch/eli/oc/2018/765); [BBl 2017 3135](https://fedlex.data.admin.ch/eli/fga/2017/649)).
+[^269-21]: [SR 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
+[^269-22]: Inserted by Annex No II 2 of the Gambling Act of 29 Sept. 2017, in force since 1 Jan. 2019 ([AS 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [BBl 2015 8387](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
+[^269-23]: [SR 935.51](https://fedlex.data.admin.ch/eli/cc/2018/795)
+[^269-24]: Inserted by Annex No II 3 of the FedD of 25 Sept. 2020 on the Approval and Implementation of the Council of Europe Convention on the Prevention of Terrorism and its Additional Protocol and the Strengthening of Criminal Justice Instruments for combating Terrorism and Organised Crime, in force since 1 July 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^269-25]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^269-26]: [SR 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
 
 #### Art. 269<sup>bis</sup>
 
@@ -3699,15 +3852,21 @@ Information under paragraph 1 need not be separated beforehand if:
 
 **Subscriber information, location identification and technical transmission features**[^273-1]
 
-<sup>1</sup> If there is a strong suspicion that a felony or misdemeanour has been committed, and if the requirements of Article 269 paragraph 1 letters b and c of this Code are met, the public prosecutor may request metadata relating to telecommunications in accordance with Article 8 letter b of the Federal Act of 18 March 2016[^273-2] on the Surveillance of Postal and Telecommunications Traffic (SPTA) and metadata relating to post in accordance with Article 19 paragraph 1 letter b SPTA relating to the person under surveillance.[^273-3]
+<sup>1</sup>
+
+If there is a strong suspicion that a felony or misdemeanour has been committed, and if the requirements of Article 269 paragraph 1 letters b and c are met, the public prosecutor may request the following metadata:[^273-2]
+
+- a. metadata relating to telecommunications in accordance with Article 8 letter b of the Federal Act of 18 March 2016[^273-3] on the Surveillance of Postal and Telecommunications Traffic (SPTA) by the accused, a third party in accordance with Article 270 letter b of this Code or a person suffering harm;
+- b. metadata relating to post in accordance with Article 19 paragraph 1 letter b SPTA to or from the accused or a third party in accordance with Article 270 letter b of this Code.[^273-4]
 
 <sup>2</sup> The order requires the approval of the compulsory measures court.
 
 <sup>3</sup> The information mentioned in paragraph 1 may be requested irrespective of the duration of surveillance and for the 6 months prior to the date of the request.
 
 [^273-1]: Amended by Annex No II 1 of the FA of 18 March 2016 on the Surveillance of Postal and Telecommunications Traffic, in force since 1 March 2018 ([AS 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31); [BBl 2013 2683](https://fedlex.data.admin.ch/eli/fga/2013/512)).
-[^273-2]: [SR 780.1](https://fedlex.data.admin.ch/eli/cc/2018/31)
-[^273-3]: Amended by No I 12 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^273-2]: Amended by Annex 2 No 2 of the FA of 17 June 2022, in force since 1 Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^273-3]: [SR 780.1](https://fedlex.data.admin.ch/eli/cc/2018/31)
+[^273-4]: Amended by No I of the FA of 17 June 2022, in force since 1 Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 274
 
@@ -3920,42 +4079,43 @@ The public prosecutor may order an undercover investigation if:
 
 An undercover investigation is permitted in respect of offences under the following Articles:
 
-- a.[^286-1] SCC: Articles 111–113, 122, 124, 129, 135, 138–140, 143 paragraph 1, 144 paragraph 3, 144<sup>bis</sup> number 1 paragraph 2 and number 2 paragraph 2, 146 paragraphs 1 and 2, 147 paragraphs 1 and 2, 148, 156, 160, 182–185, 187, 188 number 1, 189 paragraphs 1 and 3, 190 paragraphs 1 and 3, 191, 192 paragraph 1, 195, 196, 197 paragraphs 3–5, 221 paragraphs 1 and 2, 223 number 1, 224 paragraph 1, 227 number 1 paragraph 1, 228 number 1 paragraph 1, 230<sup>bis</sup>, 231 number 1, 232 number 1, 233 number 1, 234 paragraph 1, 237 number 1, 240 paragraph 1, 242, 244 paragraph 2, 251 number 1, 260<sup>bis</sup>–260<sup>sexies</sup>, 264–267, 271, 272 number 2, 273, 274 number 1 paragraph 2, 301, 305<sup>bis</sup> number 2, 310, 322<sup>ter</sup>, 322<sup>quater</sup> and 322<sup>septies</sup>;
-- b.[^286-2] Foreign Nationals and Integration Act of 16. December 2005[^286-3]: Articles 116 paragraph 3 and 118 paragraph 3;
-- c. Federal Act of 22. June 2001[^286-4] on the Hague Convention on Adoption and on Measures to Protect Children in International Adoption Cases: Article 24;
-- d.[^286-5] War Material Act of 13 December 1996[^286-6]: Articles 33 paragraph 2 and 34–35*b*;
-- e. Nuclear Energy Act of 21 March 2003[^286-7]: Articles 88 paragraphs 1 and 2, 89 paragraphs 1 and 2 and 90 paragraph 1;
-- f.[^286-8] Narcotics Act of 3 October 1951[^286-9]: Articles 19 number 1 second sentence and number 2, and 20 number 1 second sentence;
-- g. Goods Control Act of 13 December 1996[^286-10]: Article 14 paragraph 2;
-- h.[^286-11] Sport Promotion Act of 17 June 2011[^286-12]: Articles 22 paragraph 2 and 25*a* paragraph 3;
-- i.[^286-13] Weapons Act of 20 June 1997[^286-14]: Article 33 paragraph 3;
-- j.[^286-15] Medicinal Products Act of 15 December 2000[^286-16]: Article 86 paragraphs 2 and 3;
-- k.[^286-17] Gambling Act of 29 September 2017[^286-18]: Article 130 paragraph 2 for the offences under Article 130 paragraph 1 letter a;
-- l.[^286-19] Intelligence Service Act of 25 September 2015[^286-20]: Article 74 paragraph 4.
+- a.[^286-1] SCC[^286-2]: Articles 111–113, 122, 124, 129, 135, 138–140, 143 paragraph 1, 144 paragraph 3, 144<sup>bis</sup> number 1 paragraph 2 and number 2 paragraph 2, 146 paragraphs 1 and 2, 147 paragraphs 1 and 2, 148, 156, 160, 182–185, 187, 188 number 1, 189 paragraphs 1 and 3, 190 paragraphs 1 and 3, 191, 192 paragraph 1, 195, 196, 197 paragraphs 3–5, 221 paragraphs 1 and 2, 223 number 1, 224 paragraph 1, 226<sup>bis</sup>, 226<sup>ter</sup>, 227 number 1 paragraph 1, 228 number 1 paragraph 1, 230<sup>bis</sup>, 231 number 1, 232 number 1, 233 number 1, 234 paragraph 1, 237 number 1, 240 paragraph 1, 242, 244 paragraph 2, 251 number 1, 260<sup>bis</sup>–260<sup>sexies</sup>, 264–267, 271, 272 number 2, 273, 274 number 1 paragraph 2, 301, 305<sup>bis</sup> number 2, 310, 322<sup>ter</sup>, 322<sup>quater,</sup> 322<sup>septies</sup>;
+- b.[^286-3] Foreign Nationals and Integration Act of 16. December 2005[^286-4]: Articles 116 paragraph 3 and 118 paragraph 3;
+- c. Federal Act of 22. June 2001[^286-5] on the Hague Convention on Adoption and on Measures to Protect Children in International Adoption Cases: Article 24;
+- d.[^286-6] War Material Act of 13 December 1996[^286-7]: Articles 33 paragraph 2 and 34–35*b*;
+- e. Nuclear Energy Act of 21 March 2003[^286-8]: Articles 88 paragraphs 1 and 2, 89 paragraphs 1 and 2 and 90 paragraph 1;
+- f.[^286-9] NarcA[^286-10]: Articles 19 number 1 second sentence and number 2, and 20 number 1 second sentence;
+- g. Goods Control Act of 13 December 1996[^286-11]: Article 14 paragraph 2;
+- h.[^286-12] Sport Promotion Act of 17 June 2011[^286-13]: Articles 22 paragraph 2 and 25*a* paragraph 3;
+- i.[^286-14] Weapons Act of 20 June 1997[^286-15]: Article 33 paragraph 3;
+- j.[^286-16] Medicinal Products Act of 15 December 2000[^286-17]: Article 86 paragraphs 2 and 3;
+- k.[^286-18] Gambling Act of 29 September 2017[^286-19]: Article 130 paragraph 2 for the offences under Article 130 paragraph 1 letter a;
+- l.[^286-20] Intelligence Service Act of 25 September 2015[^286-21]: Article 74 paragraph 4.
 
-<sup>3</sup> If the adjudication an offence subject to military jurisdiction is assigned to the jurisdiction of the civil courts, an undercover investigation may also be ordered in respect of offences under Article 70 paragraph 2 of the Military Criminal Procedure Code of 23 March 1979[^286-21].
+<sup>3</sup> If the adjudication an offence subject to military jurisdiction is assigned to the jurisdiction of the civil courts, an undercover investigation may also be ordered in respect of offences under Article 70 paragraph 2 of the Military Criminal Procedure Code of 23 March 1979[^286-22].
 
-[^286-1]: Amended by No I 12 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
-[^286-2]: Amended by Annex No II 7 of the Criminal Justice Authorities Act of 19 March 2010, in force since 1 Jan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
-[^286-3]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^286-4]: [SR 211.221.31](https://fedlex.data.admin.ch/eli/cc/2002/639)
-[^286-5]: Amended by No II of the FA of 16 March 2012, in force since 1 Feb. 2013 ([AS 2013 295](https://fedlex.data.admin.ch/eli/oc/2013/48); [BBl 2011 5905](https://fedlex.data.admin.ch/eli/fga/2011/879)).
-[^286-6]: [SR 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
-[^286-7]: [SR 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
-[^286-8]: Correction by the Federal Assembly Drafting Committee dated 19 Sept. 2014, published on 4 Oct. 2014 ([AS 2011 4487](https://fedlex.data.admin.ch/eli/oc/2011/619)).
-[^286-9]: [SR 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
-[^286-10]: [SR 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
-[^286-11]: Inserted by Art. 34 No 2 of the Sport Promotion Act of 17 June 2012 ([AS 2012 3953](https://fedlex.data.admin.ch/eli/oc/2012/460); [BBl 2009 8189](https://fedlex.data.admin.ch/eli/fga/2009/1425)). Amended by Annex No II 2 of the Gambling Act of 29 Sept. 2017, in force since 1 Jan. 2019 ([AS 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [BBl 2015 8387](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
-[^286-12]: [SR 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)
-[^286-13]: Inserted by Annex No II 1 of the FA of 18 March 2016 on the Surveillance of Postal and Telecommunications Traffic, in force since 1 March 2018 ([AS 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31); [BBl 2013 2683](https://fedlex.data.admin.ch/eli/fga/2013/512)).
-[^286-14]: [SR 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
-[^286-15]: Inserted by Annex No 1 of the FD of 29 Sept. 2017 (Medicrime Convention), in force since 1 Jan. 2019 ([AS 2018 4771](https://fedlex.data.admin.ch/eli/oc/2018/765); [BBl 2017 3135](https://fedlex.data.admin.ch/eli/fga/2017/649)).
-[^286-16]: [SR 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
-[^286-17]: Inserted by Annex No II 2 of the Gambling Act of 29 Sept. 2017, in force since 1 Jan. 2019 ([AS 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [BBl 2015 8387](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
-[^286-18]: [SR 935.51](https://fedlex.data.admin.ch/eli/cc/2018/795)
-[^286-19]: Inserted by Annex No II 3 of the FedD of 25 Sept. 2020 on the Approval and Implementation of the Council of Europe Convention on the Prevention of Terrorism and its Additional Protocol and the Strengthening of Criminal Justice Instruments for combating Terrorism and Organised Crime, in force since 1 July 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
-[^286-20]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
-[^286-21]: [SR 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
+[^286-1]: Amended by Annex 2 No 2 of the FA of 17 June 2022, in force since 1 Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^286-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^286-3]: Amended by Annex No II 7 of the Criminal Justice Authorities Act of 19 March 2010, in force since 1 Jan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
+[^286-4]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^286-5]: [SR 211.221.31](https://fedlex.data.admin.ch/eli/cc/2002/639)
+[^286-6]: Amended by No II of the FA of 16 March 2012, in force since 1 Feb. 2013 ([AS 2013 295](https://fedlex.data.admin.ch/eli/oc/2013/48); [BBl 2011 5905](https://fedlex.data.admin.ch/eli/fga/2011/879)).
+[^286-7]: [SR 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
+[^286-8]: [SR 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
+[^286-9]: Amended by No I of the FA of 17 June 2022, in force since 1 Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^286-10]: [SR 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
+[^286-11]: [SR 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
+[^286-12]: Inserted by Art. 34 No 2 of the Sport Promotion Act of 17 June 2012 ([AS 2012 3953](https://fedlex.data.admin.ch/eli/oc/2012/460); [BBl 2009 8189](https://fedlex.data.admin.ch/eli/fga/2009/1425)). Amended by Annex No II 2 of the Gambling Act of 29 Sept. 2017, in force since 1 Jan. 2019 ([AS 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [BBl 2015 8387](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
+[^286-13]: [SR 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)
+[^286-14]: Inserted by Annex No II 1 of the FA of 18 March 2016 on the Surveillance of Postal and Telecommunications Traffic, in force since 1 March 2018 ([AS 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31); [BBl 2013 2683](https://fedlex.data.admin.ch/eli/fga/2013/512)).
+[^286-15]: [SR 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^286-16]: Inserted by Annex No 1 of the FD of 29 Sept. 2017 (Medicrime Convention), in force since 1 Jan. 2019 ([AS 2018 4771](https://fedlex.data.admin.ch/eli/oc/2018/765); [BBl 2017 3135](https://fedlex.data.admin.ch/eli/fga/2017/649)).
+[^286-17]: [SR 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
+[^286-18]: Inserted by Annex No II 2 of the Gambling Act of 29 Sept. 2017, in force since 1 Jan. 2019 ([AS 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [BBl 2015 8387](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
+[^286-19]: [SR 935.51](https://fedlex.data.admin.ch/eli/cc/2018/795)
+[^286-20]: Inserted by Annex No II 3 of the FedD of 25 Sept. 2020 on the Approval and Implementation of the Council of Europe Convention on the Prevention of Terrorism and its Additional Protocol and the Strengthening of Criminal Justice Instruments for combating Terrorism and Organised Crime, in force since 1 July 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^286-21]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^286-22]: [SR 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
 
 #### Art. 287
 
@@ -4057,11 +4217,16 @@ The commanding officer has the following duties in particular:
 
 #### Art. 294
 
-**Deployment in investigations under the Narcotics Act**
+**No criminal liability**[^294-1]
 
-Undercover investigators may not be convicted of an offence under Articles 19 and 20–22 of the Narcotics Act of 3 October 1951[^294-1] if they are acting in the course of an authorised undercover investigation.
+Provided undercover investigators are acting in the course of an authorised undercover investigation, they shall not be held criminally liable under the following provisions:
 
-[^294-1]: [SR 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
+- a. in relation to the prosecution of pornography involving minors or sexual acts with minors: under Article 197 paragraphs 4 and 5 SCC[^294-2], provided the items or performances do not contain genuine sexual acts with minors;
+- b. in relation to the prosecution of offences under the NarcA[^294-3]: under Articles 19 and 20–22 NarcA.
+
+[^294-1]: Amended by No I of the FA of 17 June 2022, in force since 1 Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^294-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^294-3]: [SR 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
 
 #### Art. 295
 
@@ -4124,7 +4289,7 @@ Notice may be deferred or dispensed with, subject to the consent of the compulso
 
 <sup>1</sup> In undercover enquiries, police officers deployed for short periods in such a way that their true identity and function remains concealed attempt to investigate felonies and misdemeanours and to do so enter into or pretend that they wish to enter into fictitious transactions.
 
-<sup>2</sup> Undercover agents are not provided with a cover within the meaning of Article 285*a*. Their true identity and function is disclosed in the case files and at hearings.
+<sup>2</sup> Undercover agents are not provided with a cover within the meaning of Article 285*a*. Their true identity and function are disclosed in the case files and at hearings.
 
 #### Art. 298b
 
@@ -4202,9 +4367,13 @@ Preliminary proceedings commence when:
 
 <sup>1</sup> Any person is entitled to report an offence to a criminal justice authority in writing or orally.
 
+<sup>1bis</sup> The person filing the report may request the criminal justice authority to provide confirmation of a report made orally on record.[^301-1]
+
 <sup>2</sup> The criminal justice authority shall if requested notify the person making the report of whether criminal proceedings are being commenced and how they are proceeding.
 
 <sup>3</sup> A person making a report who has neither suffered loss nor injury nor is a private claimant has no further procedural rights.
+
+[^301-1]: Inserted by No I of the FA of 17 June 2022, in force since 1 Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 302
 
@@ -4223,6 +4392,16 @@ Preliminary proceedings commence when:
 <sup>1</sup> In the case of offences that are prosecuted only on complaint or with official authorisation, preliminary proceedings shall be commenced only if a criminal complaint has been made or authorisation granted.
 
 <sup>2</sup> The competent authority may act to secure evidence beforehand where this cannot be delayed.
+
+#### Art. 303a
+
+**Provision of security in the case of offences against personal honour**[^303a-1]
+
+<sup>1</sup> In the case of offences against personal honour, the public prosecutor may require the complainant to provide security for possible costs and compensation with a certain period.
+
+<sup>2</sup> If security is not provided within this period, the criminal complaint is deemed to be withdrawn.
+
+[^303a-1]: Inserted by No I of the FA of 17 June 2022, in force since 1 Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 304
 
@@ -4244,8 +4423,8 @@ They shall at the same time inform the victim of:[^305-3]
 
 - a. the addresses and services provided by victim counselling services;
 - b. the possibility of claiming various victim support benefits;
-- c. the time limit for the filing claims for damages and satisfaction;
-- d.[^305-4] the right under Article 92*a* SCC to request information on the decisions and and circumstances of the execution of penalties and measure in relation to the offender.
+- c. the time limit for the filing claims for compensation and satisfaction;
+- d.[^305-4] the right under Article 92*a* SCC to request information on the decisions and circumstances of the execution of penalties and measure in relation to the offender.
 
 <sup>3</sup> If the victim agrees, they shall pass his or her name and address on to a counselling service.
 
@@ -4400,11 +4579,11 @@ The public prosecutor may suspend an investigation, in particular if:
 
 <sup>1</sup> Where the proceedings relate to an offence that is prosecuted only on complaint, the public prosecutor may summon the complainant and the accused to a hearing with the aim of achieving a settlement. If the complainant fails to attend, the complaint is deemed to have been withdrawn.
 
-<sup>2</sup> If consideration is being given to an exemption from punishment due to reparation being made in accordance with Article 53 SCC[^316-1], the public prosecutor shall invite the person suffering harm and the accused to a hearing with the aim of agreeing on reparation.
+<sup>2</sup> If consideration is being given to an exemption from any penalty because reparation has been made in accordance with Article 53 SCC[^316-1], the public prosecutor shall invite the person suffering harm and the accused to a hearing with the aim of agreeing on reparation.
 
 <sup>3</sup> If an agreement is reached, this shall be placed on record and signed by those involved. The public prosecutor shall then abandon the proceedings.
 
-<sup>4</sup> If the accused fails to attend a hearing in accordance with paragraphs 1 or 2 or if no agreement is reached, the public prosecutor shall immediately proceed with the investigation. In cases where it is justified, it may require the complainant to provide security for costs and damages within ten days.
+<sup>4</sup> If the accused fails to attend a hearing in accordance with paragraphs 1 or 2 or if no agreement is reached, the public prosecutor shall immediately proceed with the investigation. In cases where it is justified, it may require the complainant to provide security for costs and compensation within ten days.
 
 [^316-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
@@ -4422,9 +4601,14 @@ In extensive and complex preliminary proceedings, the public prosecutor shall qu
 
 <sup>1</sup> If the public prosecutor regards the investigation as completed, it shall issue a summary penalty order or give written notice to those parties whose address is known of the imminent conclusion of the investigation and inform them whether it is intended to bring charges or abandon the proceedings. At the same time, it shall allow the parties a period within which to submit requests for further evidence to be taken.
 
+<sup>1bis</sup> It shall give written notice to persons suffering harm whose address is known but who have not yet been informed of their rights that it intends to conclude the proceedings by issuing a summary penalty order, bringing charges or abandoning the proceedings, and allow them a period within which they may give notice that they wish to become a private claimant and request that evidence be taken.[^318-1]
+
 <sup>2</sup> It may reject requests for further evidence to be taken only if the evidence involves matters that are irrelevant, obvious, known to the criminal justice authority or already satisfactorily proven in legal terms. The decision shall be issued in writing and with a brief statement of the grounds. Requests for further evidence to be taken that are refused may be made again in the main proceedings.
 
-<sup>3</sup> Notice in accordance with paragraph 1 and decisions in accordance with paragraph 2 are non-contestable.
+<sup>3</sup> Notice in accordance with paragraphs 1 and 1<sup>bis</sup> and decisions in accordance with paragraph 2 are non-contestable.[^318-2]
+
+[^318-1]: Inserted by No I of the FA of 17 June 2022, in force since 1 Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^318-2]: Amended by No I of the FA of 17 June 2022, in force since 1 Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 ### Chapter 4 Abandoning Proceedings and Bringing Charges
 
@@ -4486,7 +4670,11 @@ The public prosecutor shall give notice of the ruling abandoning proceedings to:
 
 <sup>1</sup> The Confederation and the cantons may stipulate that the ruling abandoning proceedings be approved by the Office of the Chief Cantonal Prosecutor.
 
-<sup>2</sup> The parties may contest the ruling abandoning proceedings with the objections authority within 10 days.
+<sup>2</sup> The parties may contest the ruling abandoning proceedings with the objections court within 10 days.
+
+<sup>3</sup> If the ruling abandoning proceedings includes a decision on forfeiture, a rejection may be filed against that decision. The rejection procedure is governed by the provisions on summary penalty orders. A court decision shall be issued in the form of a decree or a ruling.[^322-1]
+
+[^322-1]: Inserted by No I of the FA of 17 June 2022, in force since 1 Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 323
 
@@ -4542,9 +4730,9 @@ The public prosecutor shall provide the court with the following details and mak
 - c. the seized property and assets;
 - d. the costs incurred in the investigation;
 - e. if deemed necessary, its application for preventive detention;
-- f. its applications for sanctions or notice that these applications will be made at the main hearing;
+- f. its applications for sanctions or notice that these applications will be made at the trial;
 - g. its applications for subsequent judicial decisions;
-- h. its request to receive a summons to the main hearing.
+- h. its request to receive a summons to the trial.
 
 <sup>2</sup> If the public prosecutor is not personally represented in court, it may attach a final report to the indictment that explains the circumstances of the case, which also contains comments on the assessment of evidence.
 
@@ -4565,7 +4753,7 @@ The public prosecutor shall immediately serve the indictment together with any f
 
 ## Title 7 Main Proceedings of First Instance
 
-### Chapter 1 Pending Status, Preparation for the Main Hearing, General Provisions on the Main Hearing
+### Chapter 1 Pending Status, Preparation for the Trial, General Provisions on the Trial
 
 #### Art. 328
 
@@ -4591,33 +4779,35 @@ The director of proceedings shall examine whether:
 
 <sup>3</sup> The court shall decide whether a suspended case remains pending before it.
 
-<sup>4</sup> If it is permanently impossible to issue a judgment, the court shall abandon the proceedings after granting the parties and other third parties adversely affected by abandonment the right to be heard. Article 320 applies *mutatis mutandis*.
+<sup>4</sup> If it is permanently impossible to issue a judgment, the court shall abandon the proceedings after granting the parties and other third parties adversely affected by abandonment the right to a fair hearing. Article 320 applies *mutatis mutandis*.
 
 <sup>5</sup> If the proceedings are only abandoned in relation to specific charges on the indictment abandoned, the abandonment order may be issued with the judgment.
 
 #### Art. 330
 
-**Preparation for the main hearing**
+**Preparation for the trial**
 
-<sup>1</sup> If the charges are to be considered, the director of proceedings shall immediately issue the orders required for the main hearing to be conducted.
+<sup>1</sup> If the charges are to be considered, the director of proceedings shall immediately issue the orders required for the trial to be conducted.
 
-<sup>2</sup> In the case of courts with two or more judges on the bench, the director of proceedings shall circulate the files.
+<sup>2</sup> In the case of courts with a panel of judges, the director of proceedings shall circulate the files.
 
 <sup>3</sup> The director of proceedings shall inform the victim of his or her rights, unless the prosecution authorities have already done so; Article 305 applies *mutatis mutandis*.
 
 #### Art. 331
 
-**Scheduling the main hearing**
+**Scheduling the trial**
 
-<sup>1</sup> The director of proceedings shall decide on the evidence that may be taken at the main hearing. He or she shall notify the parties of the composition of the court and what evidence is to be presented.
+<sup>1</sup> The director of proceedings shall decide on the evidence that may be taken at the trial. He or she shall notify the parties of the composition of the court and what evidence is to be presented.
 
-<sup>2</sup> The director of proceedings shall at the same time set a deadline within which the parties must submit and justify requests for further evidence to be taken; when doing so, he or she shall notify the parties of the potential effect on costs and damages of delayed requests for further evidence to be taken.
+<sup>2</sup> The director of proceedings shall at the same time set a deadline within which the parties must submit and justify requests for further evidence to be taken; when doing so, he or she shall notify the parties of the potential effect on costs and compensation of delayed requests for further evidence to be taken. He or she shall set the same deadline for the private claimants in order to quantify and justify their civil claim.[^331-1]
 
-<sup>3</sup> If the director of proceedings rejects a request for further evidence to be taken, he or she shall notify the parties of this and give a brief statement of the grounds. Rejection is non-contestable, but rejected requests for further evidence to be taken may be submitted again at the main hearing.
+<sup>3</sup> If the director of proceedings rejects a request for further evidence to be taken, he or she shall notify the parties of this and give a brief statement of the grounds. Rejection is non-contestable, but rejected requests for further evidence to be taken may be submitted again at the trial.
 
-<sup>4</sup> The director of proceedings shall fix a date, time and place for the main hearing and summon the parties, together with the witnesses, persons providing information and expert witnesses who are to be questioned.
+<sup>4</sup> The director of proceedings shall fix a date, time and place for the trial and summon the parties, together with the witnesses, persons providing information and expert witnesses who are to be questioned.
 
-<sup>5</sup> He or she shall make a final decision on applications for postponement that are submitted before the start of the main hearing.
+<sup>5</sup> He or she shall make a final decision on applications for postponement that are submitted before the start of the trial.
+
+[^331-1]: Second sentence inserted by No I of the FA of 17 June 2022, in force since 1 Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 332
 
@@ -4627,7 +4817,7 @@ The director of proceedings shall examine whether:
 
 <sup>2</sup> The director of proceedings may summon the parties to discuss a private settlement in accordance with Article 316.
 
-<sup>3</sup> If it is expected that it will not be possible to take certain evidence in the main hearing, the director of proceedings may take that evidence prior to the main hearing, entrust the task to a delegate of the court or in cases of urgency to the public prosecutor, or arrange for the evidence to be taken through mutual assistance procedures. The parties shall be given the opportunity to participate if evidence is taken in this way.
+<sup>3</sup> If it is expected that it will not be possible to take certain evidence in the trial, the director of proceedings may take that evidence prior to the trial, entrust the task to a delegate of the court or in cases of urgency to the public prosecutor, or arrange for the evidence to be taken through mutual assistance procedures. The parties shall be given the opportunity to participate if evidence is taken in this way.
 
 #### Art. 333
 
@@ -4635,11 +4825,11 @@ The director of proceedings shall examine whether:
 
 <sup>1</sup> The court shall allow the public prosecutor the opportunity to amend the charges if in its view the circumstances outlined in the indictment could constitute a different offence but the indictment does not meet the statutory requirements.
 
-<sup>2</sup> If further offences by the accused come to light during the main hearing, the court may permit the public prosecutor to add charges to the indictment.
+<sup>2</sup> If further offences by the accused come to light during the main proceedings, the court may permit the public prosecutor to add charges to the indictment.
 
 <sup>3</sup> Additions are not permitted if the proceedings would be made unduly complex or this would affect the jurisdiction of the court or if a case involves co-offending or participation. In these cases, the public prosecutor shall commence preliminary proceedings.
 
-<sup>4</sup> The court may only base its judgment on a charge that has been amended or added to if the party rights of the accused and the private claimant have been observed. If necessary, it shall adjourn the main hearing.
+<sup>4</sup> The court may only base its judgment on a charge that has been amended or added to if the party rights of the accused and the private claimant have been observed. If necessary, it shall adjourn the trial.
 
 #### Art. 334
 
@@ -4649,7 +4839,7 @@ The director of proceedings shall examine whether:
 
 <sup>2</sup> The decision to transfer the case to another court is non-contestable.
 
-### Chapter 2 Conduct of the Main Hearing
+### Chapter 2 Conduct of the Trial
 
 ### Section 1 Court and Persons involved in the Proceedings
 
@@ -4657,9 +4847,9 @@ The director of proceedings shall examine whether:
 
 **Composition of the court**
 
-<sup>1</sup> The court shall sit for the entire duration of the main hearing in the composition required by law and in the presence of a clerk of court.
+<sup>1</sup> The court shall sit for the entire duration of the trial in the composition required by law and in the presence of a clerk of court.
 
-<sup>2</sup> If a judge becomes unable to attend during the main hearing, the entire main hearing shall be held again unless the parties waive this requirement.
+<sup>2</sup> If a judge becomes unable to attend during the trial, the entire trial shall be held again unless the parties waive this requirement.
 
 <sup>3</sup> The director of proceedings may order that from the outset a substitute member of the court participates in the hearing in order to replace a member of the court if necessary.
 
@@ -4671,12 +4861,12 @@ The director of proceedings shall examine whether:
 
 <sup>1</sup>
 
-The accused must attend the main hearing in person if:
+The accused must attend the trial in person if:
 
 - a. the case involves a felony or misdemeanour; or
 - b. the director of proceedings orders a personal appearance.
 
-<sup>2</sup> Duty defence lawyers and the mandatory defence lawyers must attend the main hearing in person.
+<sup>2</sup> Duty defence lawyers and the mandatory defence lawyers must attend the trial in person.
 
 <sup>3</sup> The director of proceedings may dispense with the requirement for the accused to attend in person at the accused's request if the accused shows good cause and his or her presence is not required.
 
@@ -4696,7 +4886,7 @@ The accused must attend the main hearing in person if:
 
 <sup>4</sup> The director of proceedings may require the public prosecutor to be represented by a prosecutor in other cases if he or she regards it as necessary.
 
-<sup>5</sup> If the public prosecutor is not represented by a prosecutor at the main hearing, despite being required to be represented, the hearing shall be postponed.
+<sup>5</sup> If the public prosecutor is not present at the trial, despite being required to be represented, the trial shall be postponed.
 
 #### Art. 338
 
@@ -4708,13 +4898,13 @@ The accused must attend the main hearing in person if:
 
 <sup>3</sup> If a private claimant or a third party affected by an application for forfeiture does not appear in person, he or she may be represented or submit written applications.
 
-### Section 2 Commencement of the Main Hearing
+### Section 2 Commencement of the Trial
 
 #### Art. 339
 
 **Opening; Preliminary and supplementary issues**
 
-<sup>1</sup> The director of proceedings shall open the main hearing, announce the composition of the court and establish whether the persons summoned are present.
+<sup>1</sup> The director of proceedings shall open the trial, announce the composition of the court and establish whether the persons summoned are present.
 
 <sup>2</sup>
 
@@ -4727,11 +4917,11 @@ The court and the parties may then raise preliminary issues in particular relati
 - e. the admission of the public to the hearing;
 - f. the division of the hearing.
 
-<sup>3</sup> The court decides immediately on the preliminary issues after granting the parties present the right to be heard.
+<sup>3</sup> The court decides immediately on the preliminary issues after granting the parties present the right to a fair hearing.
 
-<sup>4</sup> If the parties raise supplementary issues during the main hearing, the court shall deal with these in the same way as preliminary issues.
+<sup>4</sup> If the parties raise supplementary issues during the trial, the court shall deal with these in the same way as preliminary issues.
 
-<sup>5</sup> The court may adjourn the main hearing at any time in order to deal with preliminary or supplementary issues, and to add to or have the public prosecutor add to the files or the evidence.
+<sup>5</sup> The court may adjourn the trial at any time in order to deal with preliminary or supplementary issues, and to add to or have the public prosecutor add to the files or the evidence.
 
 #### Art. 340
 
@@ -4741,7 +4931,7 @@ The court and the parties may then raise preliminary issues in particular relati
 
 The fact that any preliminary issues have been dealt with has the following consequences:
 
-- a. the main hearing must be conducted to its completion without unnecessary interruptions;
+- a. the trial must be conducted to its completion without unnecessary interruptions;
 - b. the charge may no longer be withdrawn and, subject to Article 333, may no longer be amended;
 - c. parties required to attend may only leave the venue for the hearing with the consent of the court; if a party leaves the venue for the hearing, the hearing shall nevertheless continue.
 
@@ -4761,20 +4951,32 @@ The fact that any preliminary issues have been dealt with has the following cons
 
 #### Art. 342
 
-**Division of the main hearing**
+**Division of the trial**
 
 <sup>1</sup>
 
-The court may at the request of the accused or the public prosecutor or ex officio divide the main hearing into two parts; in doing so, it may stipulate that:
+At the request of the accused or the public prosecutor or ex officio, the trial may be divided into two parts; in this event, it may be stipulated that:
 
 - a. in the first part of the proceedings only the offence and the issue of the accused's guilt will be considered, and that in the second the consequences of conviction or acquittal shall be considered; or
 - b. in the first part of the proceedings only the offence will be considered and in the second the issue of the accused's guilt together with the consequences of conviction or acquittal will be considered.
 
-<sup>2</sup> The decision on the division of the main hearing is non-contestable.
+<sup>1bis</sup>
 
-<sup>3</sup> In the event of the division of the proceedings, the personal circumstances of the accused may only be considered in the main hearing in the event of that the accused is found guilty, unless that the accused's personal circumstances are of significance in assessing the objective facts of the case or the state of mind of the accused.
+The following are responsible for the decision:
+
+- a. until the trial is opened: the director of proceedings;
+- b. after the trial is opened: the court.[^342-1]
+
+<sup>1ter</sup> If the director of proceedings rejects the request for the trial to be divided into two parts, he or she shall notify the parties of this and provide a brief statement of the grounds. The request may be filed again at the trial.[^342-2]
+
+<sup>2</sup> The decision on the division of the trial is non-contestable.
+
+<sup>3</sup> In the event of the division of the proceedings, the personal circumstances of the accused may only be considered in the trial in the event of that the accused is found guilty, unless that the accused's personal circumstances are of significance in assessing the objective facts of the case or the state of mind of the accused.
 
 <sup>4</sup> The verdict shall be given following the deliberations, but it may only be contested in conjunction with the entire judgment.
+
+[^342-1]: Inserted by No I of the FA of 17 June 2022, in force since 1 Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^342-2]: Inserted by No I of the FA of 17 June 2022, in force since 1 Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 343
 
@@ -4886,6 +5088,14 @@ If the accused has accepted responsibility for the offence in the preliminary pr
 [^352-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^352-3]: Amended by Annex No 5 of the FA of 20 March 2015 (Implementation of Art. 121 para. 3–6 Federal Constitution on the expulsion of foreign nationals convicted of certain criminal offences), in force since 1 Oct. 2016 ([AS 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [BBl 2013 5975](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
 
+#### Art. 352a
+
+**Examination hearing**[^352a-1]
+
+If it is anticipated that the summary penalty order will involve custodial sentence that must be served immediately, the public prosecutor shall conduct a hearing to examine the accused.
+
+[^352a-1]: Inserted by No I of the FA of 17 June 2022, in force since 1 Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+
 #### Art. 353
 
 **Content and notice of the summary penalty order**
@@ -4901,17 +5111,23 @@ The summary penalty order contains:
 - e. the sanction;
 - f. notice of the revocation of a suspended sanction or of parole with a brief statement of the reasons;
 - f<sup>bis</sup>.[^353-1] the date on which any DNA profile created must be deleted;
-- g. the costs and damages due;
+- g. the costs and compensation due;
 - h. details of any seized property or assets that are to be released or forfeited;
 - i. reference to the possibility of rejecting the order and the consequences of failing to reject the order;
 - j. place and date of issue;
 - k. the signature of the person issuing the order.
 
-<sup>2</sup> If the accused has accepted the civil claims of the private claimant, this shall also be recorded in the summary penalty order. Claims that are not accepted shall be referred for civil proceedings.
+<sup>2</sup>
+
+The public prosecutor may decide on the civil claims in the summary penalty order procedure provided the accused has accepted the claims or provided:
+
+- a. the claims may be assessed without taking further evidence; and
+- b. the amount claimed does not exceed 30 000 francs.[^353-2]
 
 <sup>3</sup> Immediate written notice of the summary penalty order shall be given to persons and authorities who are entitled to reject the order.
 
 [^353-1]: Inserted by Annex 1 No 2 of the FA of 17 Dec. 2021, in force since 1 Aug. 2023 ([AS 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [BBl 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
+[^353-2]: Amended by No I of the FA of 17 June 2022, in force since 1 Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 354
 
@@ -4922,12 +5138,18 @@ The summary penalty order contains:
 A written rejection of the summary penalty order may be filed with the public prosecutor within 10 days by:
 
 - a. the accused;
+- a<sup>bis</sup>.[^354-1] the private claimants;
 - b. other affected persons;
 - c. if so provided, the Office of the Attorney General of Switzerland or of the canton in federal or cantonal proceedings respectively.
+
+<sup>1bis</sup> A private claimant may not contest the sanction imposed in a summary penalty order.[^354-2]
 
 <sup>2</sup> A rejection other than that made by the accused must be accompanied by a statement of grounds.
 
 <sup>3</sup> Unless a valid rejection is filed, the summary penalty order becomes a final judgment.
+
+[^354-1]: Inserted by No I of the FA of 17 June 2022, in force since 1 Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^354-2]: Inserted by No I of the FA of 17 June 2022, in force since 1 Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 355
 
@@ -4950,17 +5172,17 @@ After taking the evidence, the public prosecutor shall decide to either:
 
 **Procedure before the court of first instance**
 
-<sup>1</sup> If the public prosecutor decides to stand by the summary penalty order, it shall send the files immediately to the court of first instance for the conduct of the main hearing. The summary penalty order constitutes the indictment.
+<sup>1</sup> If the public prosecutor decides to stand by the summary penalty order, it shall send the files immediately to the court of first instance for the conduct of the main proceedings. The summary penalty order constitutes the indictment.
 
 <sup>2</sup> The court of first instance shall decide on the validity of the summary penalty order and its rejection.
 
 <sup>3</sup> The rejection may be withdrawn at any time prior to the conclusion of the party submissions.
 
-<sup>4</sup> If the person filing the rejection fails to attend the main hearing without excuse or being represented, the rejection is deemed to have been withdrawn.
+<sup>4</sup> If the person filing the rejection fails to attend the trial without excuse or being represented, the rejection is deemed to have been withdrawn.
 
 <sup>5</sup> If the summary penalty order is invalid, the court shall revoke it and refer the case back to the public prosecutor for new preliminary proceedings to be conducted.
 
-<sup>6</sup> If the rejection relates only to costs and damages or other incidental legal orders, so the court shall decide in written proceedings, unless the person filing the rejection expressly requests a hearing.
+<sup>6</sup> If the rejection relates only to costs and compensation or other incidental legal orders, so the court shall decide in written proceedings, unless the person filing the rejection expressly requests a hearing.
 
 <sup>7</sup> If summary penalty orders have been issued to two or more persons in relation to the same act, Article 392 applies *mutatis mutandis*.
 
@@ -5003,17 +5225,17 @@ After taking the evidence, the public prosecutor shall decide to either:
 The indictment shall contain:
 
 - a. the details required in accordance with Articles 325 and 326;
-- b. the sentence;
-- c. any measures;
+- b. details of the sentence;
+- c. details of any measures;
 - d. instructions related to the imposition of a suspended sentence;
 - e. the revocation of suspended sentences or parole;
-- f. the ruling on the civil claims made by the private claimant;
-- g. the ruling on costs and damages;
+- f. the arrangements made with regard to the civil claims filed by the private claimant;
+- g. the details on costs and compensation;
 - h. notice to the parties that by consenting to the indictment, they waive their rights to ordinary proceedings and their rights of appeal.
 
 <sup>2</sup> The public prosecutor shall serve the indictment on the parties. The parties must declare within ten days whether they consent to the indictment or not. Consent is irrevocable.
 
-<sup>3</sup> If the private claimant fails to give written notice rejecting the indictment within the time limit, he or she is deemed to have consented to it.
+<sup>3</sup> If a private claimant fails to give written notice rejecting the indictment within the deadline set, he or she is deemed to have consented to it.
 
 <sup>4</sup> If the parties consent, the public prosecutor shall pass the indictment with the files to the court of first instance.
 
@@ -5021,13 +5243,13 @@ The indictment shall contain:
 
 #### Art. 361
 
-**Main hearing**
+**Trial**
 
-<sup>1</sup> The court of first instance shall conduct a main hearing.
+<sup>1</sup> The court of first instance shall conduct a trial.
 
 <sup>2</sup>
 
-At the main hearing, the court shall question the accused and establish whether:
+At the trial, the court shall question the accused and establish whether:
 
 - a. he or she admits the matters on which the charges are based; and
 - b. this admission corresponds to the circumstances set out in the files.
@@ -5045,7 +5267,7 @@ At the main hearing, the court shall question the accused and establish whether:
 The court shall be free to decide whether:
 
 - a. the conduct of accelerated proceedings is lawful and reasonable;
-- b. the charge corresponds to the result the main hearing and the files; and
+- b. the indictment is consistent with the outcome of the trial and with the files; and
 - c. the requested sanctions are equitable.
 
 <sup>2</sup> If the requirements for a judgment in the accelerated proceedings are fulfilled, the court shall issue a judgment that sets out the offences, sanctions and civil claims contained in the indictment, together with a brief statement of reasons for the fulfilment of the requirements for the accelerated proceedings.
@@ -5076,9 +5298,13 @@ The court shall be free to decide whether:
 
 <sup>2</sup> In all other cases, the person convicted or any other entitled persons may request proceedings be initiated by filing a written and justified application.
 
-<sup>3</sup> The court shall examine whether the requirements for the subsequent judicial decision are fulfilled, and shall if necessary add to the files or arrange for further enquiries to be carried out by the police.
+<sup>3</sup> The court shall examine whether the requirements for the subsequent judicial decision are fulfilled, and shall, if necessary, add to the files or arrange for further enquiries to be carried out by the police.
 
 <sup>4</sup> It shall give the persons and authorities concerned the opportunity to comment on the intended decision and to submit applications.
+
+<sup>5</sup> The proceedings before the court (Art. 363 para. 1) shall otherwise be governed *mutatis mutandis* by the provisions on the trial at first instance; Article 390 applies *mutatis mutandis* to the written procedure.[^364-1]
+
+[^364-1]: Inserted by No I of the FA of 17 June 2022, in force since 1 Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 364a
 
@@ -5124,6 +5350,10 @@ The authority responsible for initiating the proceedings to issue a separate dec
 
 <sup>2</sup> It shall issue its decision in writing with a brief statement of reasons. If a hearing has been held, it shall make an immediate oral announcement of its decision.
 
+<sup>3</sup> The court’s decision may be contested by appeal.[^365-1]
+
+[^365-1]: Inserted by No I of the FA of 17 June 2022, in force since 1 Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+
 ### Chapter 4 Procedure in the Absence of the Accused
 
 ### Section 1 Requirements and Conduct
@@ -5134,9 +5364,9 @@ The authority responsible for initiating the proceedings to issue a separate dec
 
 <sup>1</sup> If an accused who has been duly summoned fails to appear before the court of first instance, the court shall fix a new hearing and summon the person again or arrange for him or her to be brought before the court. It shall take evidence where this cannot be delayed.
 
-<sup>2</sup> If the accused fails to appear for the re-arranged main hearing or if it is not possible to bring him or her before the court, the main hearing may be held in the absence of the accused. The court may also suspend the proceedings.
+<sup>2</sup> If the accused fails to appear for the re-arranged trial or if it is not possible to bring him or her before the court, the trial may be held in the absence of the accused. The court may also suspend the proceedings.
 
-<sup>3</sup> If the accused is suffering from a voluntarily induced unfitness to plead or if he or she refuses to be brought from detention to the main hearing, the court may conduct proceedings immediately in absentia.
+<sup>3</sup> If the accused is suffering from a voluntarily induced unfitness to plead or if he or she refuses to be brought from detention to the trial, the court may conduct proceedings immediately in absentia.
 
 <sup>4</sup>
 
@@ -5155,7 +5385,7 @@ Proceedings in absentia may only be held if:
 
 <sup>3</sup> On conclusion of the party submissions the court may issue a judgment or suspend the proceedings until the accused appears in court in person.
 
-<sup>4</sup> Proceedings in absentia are otherwise governed by the provisions on the main proceedings in the first instance.
+<sup>4</sup> Proceedings in absentia are otherwise governed by the provisions on the main proceedings at first instance.
 
 ### Section 2 Re-assessment
 
@@ -5165,23 +5395,23 @@ Proceedings in absentia may only be held if:
 
 <sup>1</sup> If it is possible to serve the judgment in absentia personally, the person convicted shall be notified that he or she has 10 days to make a written or oral application to the court that issued the judgment for it to re-assess the case.
 
-<sup>2</sup> In the application, the person convicted must briefly explain why he or she was unable to appear at the main hearing.
+<sup>2</sup> In the application, the person convicted must briefly explain why he or she was unable to appear at the trial.
 
-<sup>3</sup> The court shall reject the application if the person convicted was duly summoned, but failed to appear at the main hearing without excuse.
+<sup>3</sup> The court shall reject the application if the person convicted was duly summoned, but failed to appear at the trial without excuse.
 
 #### Art. 369
 
 **Procedure**
 
-<sup>1</sup> If it is probable that the requirements for a re-assessment will be fulfilled, the director of proceedings shall fix a new main hearing. At this hearing, the court shall decide on the application for re-assessment and shall if applicable reach a new judgment.
+<sup>1</sup> If it is probable that the requirements for a re-assessment will be met, the director of proceedings shall fix a new trial. At this hearing, the court shall decide on the application for re-assessment and shall if applicable reach a new judgment.
 
 <sup>2</sup> The appeal courts shall suspend any appellate proceedings raised by other parties.
 
-<sup>3</sup> The director of proceedings shall decide before the main hearing on granting suspensive effect and on preventive detention.
+<sup>3</sup> The director of proceedings shall decide before the trial on granting suspensive effect and on preventive detention.
 
-<sup>4</sup> If the convicted person again fails to appear for the main hearing, the judgment in absentia shall remain valid.
+<sup>4</sup> If the convicted person again fails to appear for the trial, the judgment in absentia shall remain valid.
 
-<sup>5</sup> The application for re-assessment may be withdrawn at any time prior to the conclusion of the party hearing subject to the payment of costs and damages.
+<sup>5</sup> The application for re-assessment may be withdrawn at any time prior to the conclusion of the party hearing subject to the payment of costs and compensation.
 
 #### Art. 370
 
@@ -5219,9 +5449,9 @@ Proceedings in absentia may only be held if:
 
 **Procedure**
 
-<sup>1</sup> The public prosecutor shall question the persons involved and then pass the files to the compulsory measures court. The court shall order the measures mentioned in Article 66 SCC[^373-1]. The person concerned may file an objection against an order of detention with the objections authority.
+<sup>1</sup> The public prosecutor shall question the persons involved and then pass the files to the compulsory measures court. The court shall order the measures mentioned in Article 66 SCC[^373-1]. The person concerned may file an objection against an order of detention with the objections court.
 
-<sup>2</sup> The person threatened has the same rights as a private claimant. He or she may where this is justified be required to lodge security for the costs of the proceedings and for damages.
+<sup>2</sup> The person threatened has the same rights as a private claimant. He or she may where this is justified be required to lodge security for the costs of the proceedings and for compensation.
 
 <sup>3</sup> The person alleged to have made the threat has the rights of an accused.
 
@@ -5231,13 +5461,13 @@ Proceedings in absentia may only be held if:
 
 [^373-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
-### Section 2 Procedure where the Accused is not legally responsible due to a Mental Disorder
+### Section 2 Procedure where the Accused is not legally responsible because of a Mental Disorder
 
 #### Art. 374
 
 **Requirements andprocedure**
 
-<sup>1</sup> If an accused is not legally responsible due to a mental disorder and if the application of Article 19 paragraph 4 or 263 SCC[^374-1] is not an option, the public prosecutor shall make a written application to the court of first instance for a measure in accordance with Articles 59–61, 63, 64, 67 or 67*b* or 67*e* SCC, without abandoning the proceedings beforehand due to the accused not being legally responsible due to a mental disorder.[^374-2]
+<sup>1</sup> If an accused is not legally responsible because of a mental disorder and if the application of Article 19 paragraph 4 or 263 SCC[^374-1] is not an option, the public prosecutor shall make a written application to the court of first instance for a measure in accordance with Articles 59–61, 63, 64, 67 or 67*b* or 67*e* SCC, without abandoning the proceedings beforehand due to the accused not being legally responsible because of a mental disorder.[^374-2]
 
 <sup>2</sup>
 
@@ -5281,7 +5511,10 @@ Separate forfeiture proceedings are conducted if a decision must be made on the 
 
 <sup>3</sup> If the requirements are not fulfilled, it shall order the abandonment of the proceedings and return the property or assets to the entitled person.
 
-<sup>4</sup> The rejection procedure is governed by the provisions on summary penalty orders. Any decision made by the court shall be issued in the form of a decree or ruling.
+<sup>4</sup> The rejection procedure is governed by the provisions on summary penalty orders. Any decision made by the court shall be issued in the form of a judgment.[^377-1] The court’s decision may be contested by appeal.[^377-2]
+
+[^377-1]: Second sentence amended by No I of the FA of 17 June 2022, in force since 1 Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^377-2]: Third sentence inserted by No I of the FA of 17 June 2022, in force since 1 Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 378
 
@@ -5315,12 +5548,17 @@ Where this Code provides that a decision is final or non-contestable, there is n
 
 <sup>3</sup> They shall specify which authorities may seek an appellate remedy in contravention proceedings.
 
-<sup>4</sup>
+<sup>4</sup> …[^381-1]
 
-The Office of the Attorney General of Switzerland may seek an appellate remedy in respect of cantonal decisions if:
+[^381-1]: Repealed by No I of the FA of 17 June 2022, with effect from 1 Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
-- a. federal law provides that it or another federal authority must be notified of the decision;
-- b. it has referred the criminal case to the cantonal authorities for investigation and adjudication.
+#### Art. 381a
+
+**Rights of federal authorities**[^381a-1]
+
+Federal authorities may seek an appellate remedy in respect of cantonal decisions if federal law provides that they must be notified of the decision.
+
+[^381a-1]: Inserted by No I of the FA of 17 June 2022, in force since 1 Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 382
 
@@ -5338,7 +5576,7 @@ The Office of the Attorney General of Switzerland may seek an appellate remedy i
 
 **Payment of security**
 
-<sup>1</sup> The director of appellate proceedings may require the private claimant to lodge security within of a time limit to cover any costs and damages. Article 136 remains reserved.
+<sup>1</sup> The director of appellate proceedings may require the private claimant to lodge security within of a time limit to cover any costs and compensation. Article 136 remains reserved.
 
 <sup>2</sup> If the security is not paid in time, the appellate authority shall not consider the appellate remedy.
 
@@ -5391,13 +5629,26 @@ Appellate remedies have no suspensive effect, subject to any provisions of this 
 
 #### Art. 388
 
-**Measures directing proceedings and preliminary measures**
+**Jurisdiction of the director of proceedings over measures directing proceedings and interim measures and decisions not to consider the substance of the case[^388-1]**
 
-The director of appellate proceedings shall take the required measures directing proceedings and preliminary measures that cannot be delayed. He or she may in particular:
+<sup>1</sup>
+
+The director of appellate proceedings shall take the required measures directing proceedings and interim measures that cannot be delayed. He or she may in particular:
 
 - a. instruct the public prosecutor to take evidence where this cannot be delayed;
 - b. order detention;
 - c. appoint a duty defence lawyer.
+
+<sup>2</sup>
+
+He or she shall decide not to consider the substance of:
+
+- a. clearly inadmissible appellate remedies;
+- b. appellate remedies that are clearly based on insufficient grounds;
+- c. appellate remedies that are querulant or vexatious.[^388-2]
+
+[^388-1]: Amended by No I of the FA of 17 June 2022, in force since 1 Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^388-2]: Inserted by No I of the FA of 17 June 2022, in force since 1 Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 389
 
@@ -5419,7 +5670,7 @@ Evidence taken by the court of first instance shall only be taken again if:
 
 **Written procedure**
 
-<sup>1</sup> Any person who wishes to request an appellate remedy for which this Code stipulates a written procedure must file the relevant petition.
+<sup>1</sup> Any person who wishes to seek an appellate remedy for which this Code stipulates a written procedure must file the relevant petition.
 
 <sup>2</sup> If the appellate remedy is not obviously inadmissible or unjustified, the director of proceedings shall send the petition to the other parties and the lower court to obtain their response. If the petition cannot be sent to a party or if a party fails to respond, the proceedings shall nevertheless be continued.
 
@@ -5490,9 +5741,9 @@ An objection is not permitted:
 
 #### Art. 395
 
-**Collegial court as objections authority**
+**Objections court with a panel of judges**
 
-If the objections authority is a collegial court, the director of proceedings shall decide on the objection alone if it has the following subject matter:
+If the objections court is a court with a panel of judges, the director of proceedings shall decide on the objection alone if it has the following subject matter:
 
 - a. contraventions only;
 - b. the financial consequences of a decision where the amount in dispute is no more than 5000 francs.
@@ -5501,7 +5752,7 @@ If the objections authority is a collegial court, the director of proceedings sh
 
 **Form and time limit**
 
-<sup>1</sup> An objection against decisions issued in writing or orally must be filed within 10 days in writing and with a statement of grounds with the objections authority.
+<sup>1</sup> An objection against decisions issued in writing or orally must be filed within 10 days in writing and with a statement of grounds with the objections court.
 
 <sup>2</sup> There is no time limit for filing an objection alleging a denial of justice or unjustified delay.
 
@@ -5517,6 +5768,10 @@ If the objections authority is a collegial court, the director of proceedings sh
 
 <sup>4</sup> If it holds that there has been a denial of justice or unjustified delay, it may issue instructions to the authority concerned and set time limits for its compliance.
 
+<sup>5</sup> The objections court shall decide within six months.[^397-1]
+
+[^397-1]: Inserted by No I of the FA of 17 June 2022, in force since 1 Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+
 ### Chapter 3 Appeals
 
 ### Section 1 General Provisions
@@ -5525,7 +5780,7 @@ If the objections authority is a collegial court, the director of proceedings sh
 
 **Admissibility and grounds**
 
-<sup>1</sup> An appeal is permitted against judgments of courts of first instance that conclude the proceedings in their entirety or in part.
+<sup>1</sup> An appeal is permitted against judgments of courts of first instance that conclude the proceedings in their entirety or in part, and against individual subsequent court decisions and individual forfeiture decisions.[^398-1]
 
 <sup>2</sup> The court of appeal may review the judgment comprehensively on all contested points.
 
@@ -5537,9 +5792,11 @@ An appeal may contest:
 - b. an incomplete or incorrect assessment of the circumstances of the case;
 - c. a decision that is inequitable.
 
-<sup>4</sup> Where the main hearing before the court of first instance considered contraventions only, the appeal may only claim that the judgment contains errors in law or the assessment of the circumstances was clearly incorrect or based on an infringement of the law. New averments and evidence may not be raised.
+<sup>4</sup> Where the trial before the court of first instance considered contraventions only, the appeal may only claim that the judgment contains errors in law or that the assessment of the circumstances was clearly incorrect or based on an infringement of the law. New averments and evidence may not be raised.
 
 <sup>5</sup> If the appeal is limited to civil matters, the first instance judgment shall only be reviewed to the extent permitted by the civil procedure law applicable at the place of jurisdiction.
+
+[^398-1]: Amended by No I of the FA of 17 June 2022, in force since 1 Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 399
 
@@ -5566,7 +5823,7 @@ If a person is only contesting part of the judgment, he or she must indicate in 
 - c. the measures ordered;
 - d. the civil claim or individual civil claims;
 - e. the incidental effects of the judgment;
-- f. the award of costs, damages or satisfaction;
+- f. the award of costs, compensation or satisfaction;
 - g. the subsequent judicial decisions.
 
 #### Art. 400
@@ -5618,7 +5875,7 @@ The court of appeal shall decide in written proceedings whether it should consid
 
 <sup>3</sup> If it decides not to consider the substance of the appeal, it shall give notice of its decision and the grounds therefor to the parties.
 
-<sup>4</sup> The director of proceedings shall otherwise and without any further formalities make the required arrangements for conducting the appellate proceedings.
+<sup>4</sup> The director of proceedings shall otherwise and without any further formalities make the required arrangements for conducting the appeal proceedings.
 
 #### Art. 404
 
@@ -5632,7 +5889,7 @@ The court of appeal shall decide in written proceedings whether it should consid
 
 **Oral procedure**
 
-<sup>1</sup> The oral appeal hearing is governed by the provisions on the main hearing in the first instance.
+<sup>1</sup> The oral appeal hearing is governed by the provisions on the trial in first instance.
 
 <sup>2</sup> If the accused or the private claimant filed the appeal or cross-appeal, the director of proceedings shall summon him or her to the appeal hearing. In simple cases, he or she may, if requested, be granted dispensation not to attend and be permitted to submit and justify their applications in writing.
 
@@ -5656,7 +5913,7 @@ The court of appeal may deal with the appeal in written proceedings if:
 - a. its decision relates solely to legal issues;
 - b. only the civil aspect is being contested;
 - c. the subject matter of the judgment of the court of first instance is a contravention and the appeal does not request a conviction for a felony or misdemeanour;
-- d. only an award of costs, damages or satisfaction is being contested;
+- d. only an award of costs, compensation or satisfaction is being contested;
 - e. only measures under Article 66–73 SCC[^406-1] are being contested.
 
 <sup>2</sup>
@@ -5686,7 +5943,7 @@ The appeal or cross-appeal is deemed to have been withdrawn if the party that ha
 
 <sup>2</sup> If the public prosecutor or the private claimant has filed an appeal against the verdict or the sentence and the accused fails without excuse to attend the hearing, so proceedings in absentia shall be held.
 
-<sup>3</sup> If the private claimant has limited his or her appeal to the civil aspect and the accused fails without excuse to attend the hearing, the court of appeal shall decide as on the basis of the findings made in the main hearing before the court of first instance and the other files.
+<sup>3</sup> If the private claimant has limited his or her appeal to the civil aspect and the accused fails without excuse to attend the hearing, the court of appeal shall decide as on the basis of the findings made in the trial before the court of first instance and the other files.
 
 ### Section 3 Appeal Decision
 
@@ -5694,13 +5951,17 @@ The appeal or cross-appeal is deemed to have been withdrawn if the party that ha
 
 **New judgment**
 
-If the court of appeal decides to consider the substance of the appeal, it shall issue a new judgment which replaces the first instance judgment.
+<sup>1</sup> If the court of appeal decides to consider the substance of the appeal, it shall issue a new judgment which replaces the first instance judgment.
+
+<sup>2</sup> The court of appeal shall decide within twelve months.[^408-1]
+
+[^408-1]: Inserted by No I of the FA of 17 June 2022, in force since 1 Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 409
 
 **Quashing the judgment and remitting the case**
 
-<sup>1</sup> If the proceedings in the first instance were so seriously flawed that they cannot be rectified by the appeal proceedings, the court of appeal shall quash the contested judgment and remit the case to the court of first instance so that it may conduct a new main hearing and issue a new judgment.
+<sup>1</sup> If the proceedings in the first instance were so seriously flawed that they cannot be rectified by the appeal proceedings, the court of appeal shall quash the contested judgment and remit the case to the court of first instance so that it may conduct a re-trial and issue a new judgment.
 
 <sup>2</sup> The court of appeal shall decide which procedural acts must be repeated or carried out.
 
@@ -5725,7 +5986,7 @@ Any person who is adversely affected by a legally binding final judgment, a summ
 The review of a case due to a violation of the Convention of 4 November 1950[^410-1] for the Protection of Human Rights and Fundamental Freedoms (ECHR) may be requested if:
 
 - a.[^410-2] the European Court of Human Rights has held in a final judgment (Art. 44 ECHR) that the ECHR or its Protocols have been violated or the case has been concluded by means of a friendly settlement (Art. 39 ECHR);
-- b. the consequences the violation cannot be compensated for by the payment of damages; and
+- b. the consequences the violation cannot be compensated for by the payment of compensation; and
 - c. the review of a case is necessary in order to redress the violation.
 
 <sup>3</sup> The review of a case for the benefit of the person convicted may also be requested after the case becomes time-barred.
@@ -5753,13 +6014,13 @@ The review of a case due to a violation of the Convention of 4 November 1950[^41
 
 <sup>3</sup> The court shall otherwise request the other parties and the lower court to comment in writing.
 
-<sup>4</sup> It shall decide on the required additions to the evidence and files as well as on preliminary measures, unless this is the responsibility of the director of proceedings in accordance with Article 388.
+<sup>4</sup> It shall decide on the required additions to the evidence and files as well as on interim measures, unless this is the responsibility of the director of proceedings in accordance with Article 388.
 
 #### Art. 413
 
 **Decision**
 
-<sup>1</sup> If the court of appeal rejects the grounds for a review put forward, it shall dismiss the application for a review and cancel any preliminary measures.
+<sup>1</sup> If the court of appeal rejects the grounds for a review put forward, it shall dismiss the application for a review and cancel any interim measures.
 
 <sup>2</sup>
 
@@ -5778,7 +6039,7 @@ If the court of appeal accepts the grounds for a review put forward, it shall qu
 
 <sup>1</sup> If the court of appeal has remitted the case to the public prosecutor, the public prosecutor shall decide whether to raise a new prosecution, to issue a summary penalty order or to abandon the proceedings.
 
-<sup>2</sup> If it has remitted the case to a court, the court shall take any additional evidence required and, following a main hearing, shall issue a new judgment.
+<sup>2</sup> If it has remitted the case to a court, the court shall take any additional evidence required and, following a trial, shall issue a new judgment.
 
 #### Art. 415
 
@@ -5786,11 +6047,11 @@ If the court of appeal accepts the grounds for a review put forward, it shall qu
 
 <sup>1</sup> If the new decision imposes a higher sentence on the accused, the portion of the original sentence already served shall be taken into account.
 
-<sup>2</sup> If the accused is acquitted or a more lenient sentence is imposed or if the proceedings are abandoned, any fines or monetary penalties that have been overpaid shall be refunded. Claims made by the accused for damages or satisfaction are governed by Article 436 paragraph 4.
+<sup>2</sup> If the accused is acquitted or a more lenient sentence is imposed or if the proceedings are abandoned, any fines or monetary penalties that have been overpaid shall be refunded. Claims made by the accused for compensation or satisfaction are governed by Article 436 paragraph 4.
 
 <sup>3</sup> If a conviction is overturned and an acquittal imposed, the accused or, following his or her death, his or her next-of-kin may demand that the new decision be published.
 
-## Title 10 Procedural Costs, Damages and Satisfaction
+## Title 10 Procedural Costs, Compensation and Satisfaction
 
 ### Chapter 1 General Provisions
 
@@ -5804,7 +6065,7 @@ The provisions of this Title apply to all procedures under this Code.
 
 **Liability to pay costs for procedural default**
 
-In the event of failure to comply with procedural requirements or any other form of procedural default, the criminal justice authority may require the party responsible for the default to pay procedural costs and damages regardless of the outcome of the proceedings.
+In the event of failure to comply with procedural requirements or any other form of procedural default, the criminal justice authority may require the party responsible for the default to pay procedural costs and compensation regardless of the outcome of the proceedings.
 
 #### Art. 418
 
@@ -5812,7 +6073,7 @@ In the event of failure to comply with procedural requirements or any other form
 
 <sup>1</sup> If more than one person is liable to pay costs, the costs shall be imposed proportionately.
 
-<sup>2</sup> Where two or more persons are jointly responsible for costs being incurred, the criminal justice authority may order that persons concerned are jointly and severally liable to pay the costs.
+<sup>2</sup> Where two or more persons are jointly responsible for costs being incurred, the criminal justice authority may order that the persons concerned be held jointly and severally liable to pay the costs.
 
 <sup>3</sup> It may require third parties in accordance with the civil law principles of liability to bear the costs jointly and severally with the accused.
 
@@ -5916,7 +6177,7 @@ The accused shall not bear the procedural costs that:
 The private claimant may be ordered to pay procedural costs incurred as a result of his or her applications on civil matters if:
 
 - a. the proceedings are abandoned or the accused is acquitted;
-- b. the private claimant withdraws the civil claim before the conclusion of the main hearing before the court of first instance;
+- b. the private claimant withdraws the civil claim before the conclusion of the trial before the court of first instance;
 - c. the civil proceedings are dismissed or remitted to the civil courts.
 
 <sup>2</sup>
@@ -5949,45 +6210,50 @@ Where an appellant secures a more favourable decision, he or she may be ordered 
 
 <sup>5</sup> If an application for a review is approved, the criminal justice authority that must subsequently deal with the case shall decide at its discretion on the costs of the first proceedings.
 
-### Chapter 3 Damages and Satisfaction
+### Chapter 3 Compensation and Satisfaction
 
 ### Section 1 Accused
 
 #### Art. 429
 
-**Claims**
+**Rights**
 
 <sup>1</sup>
 
 If the accused is wholly or partly acquitted or if the proceedings against the accused are abandoned, he or she is entitled to:
 
-- a. damages for his or her expenditure incurred in the appropriate exercise of their procedural rights;
-- b. damages for the financial losses that he or she incurs due to the required participation in the criminal proceedings;
+- a.[^429-1] compensation in accordance with the table of legal fees for expenditure incurred in the appropriate exercise of his or her procedural rights, whereby the compensation awarded shall correspond to the fee in the table of legal fees for a private defence;
+- b. compensation for the financial losses that he or she incurs due to the required participation in the criminal proceedings;
 - c. satisfaction for particularly serious violations of his or her personal circumstances, in particular due to deprivation of liberty.
 
 <sup>2</sup> The criminal justice authority shall examine the claim ex officio. It may require the accused to quantify and substantiate the claim.
 
+<sup>3</sup> If the accused has appointed a defence lawyer of his or her choice, the defence lawyer shall have an exclusive right to the compensation under paragraph 1 letter a, subject to any accounts to be settled with the client. The defence lawyer may contest the decision on compensation using the appellate remedy admissible against the final decision.[^429-2]
+
+[^429-1]: Amended by No I of the FA of 17 June 2022, in force since 1 Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^429-2]: Inserted by No I of the FA of 17 June 2022, in force since 1 Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+
 #### Art. 430
 
-**Reduction or refusal of damages or satisfaction**
+**Reduction or refusal of compensation or satisfaction**
 
 <sup>1</sup>
 
-The criminal justice authority may reduce the damages or satisfaction or refuse to pay if:
+The criminal justice authority may reduce the compensation or satisfaction or refuse to pay if:
 
 - a. the accused has unlawfully and culpably brought about the proceedings or has obstructed their conduct;
-- b. the private claimant is required to pay damages to the accused; or
+- b. the private claimant is required to pay compensation to the accused; or
 - c. the accused's expenditure is negligible.
 
-<sup>2</sup> In the appellate proceedings, damages and satisfaction may be further reduced if the requirements of Article 428 paragraph 2 are fulfilled.
+<sup>2</sup> In the appellate proceedings, compensation and satisfaction may be further reduced if the requirements of Article 428 paragraph 2 are fulfilled.
 
 #### Art. 431
 
-**Unlawfully applied compulsory measures**
+**Compensation and satisfaction for unlawfully applied compulsory measures and detention for an excessive period[^431-1]**
 
-<sup>1</sup> If compulsory measures have been applied to the accused unlawfully, the criminal justice authority shall award the accused appropriate damages and satisfaction.
+<sup>1</sup> If compulsory measures have been applied to the accused unlawfully, the criminal justice authority shall award the accused appropriate compensation and satisfaction.
 
-<sup>2</sup> There is a right to damages and satisfaction in relation to remand and preventive detention if the permitted period of detention is exceeded is and the excessive deprivation of liberty cannot be not accounted for in sanctions imposed in respect of other offences.
+<sup>2</sup> There is a right to compensation and satisfaction in relation to remand and preventive detention if the permitted period of detention is exceeded and the excessive deprivation of liberty cannot be not accounted for in sanctions imposed in respect of other offences.
 
 <sup>3</sup>
 
@@ -5996,11 +6262,13 @@ The right under paragraph 2 ceases to apply if the accused:
 - a. is sentenced to a monetary penalty, community service or a fine and the equivalent alternative custodial sentence would not be substantially shorter than the time spent on remand or in preventive detention;
 - b. receives a suspended custodial sentence the length of which exceeds the time spent on remand or in preventive detention.
 
+[^431-1]: Amended by No I of the FA of 17 June 2022, in force since 1 Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+
 #### Art. 432
 
 **Rights in relation to the private claimant and the complainant**
 
-<sup>1</sup> The accused, if acquitted, is entitled to appropriate damages from the private claimant in respect of expenditure incurred in relation to the civil claim.
+<sup>1</sup> The accused, if acquitted, is entitled to appropriate compensation from the private claimant in respect of expenditure incurred in relation to the civil claim.
 
 <sup>2</sup> If the accused is acquitted of an offence prosecuted only on complaint, the complainant may be required to compensate the accused for expenditure incurred in the proper exercise of his or her procedural rights, provided the complainant has brought about the proceedings wilfully or through gross negligence or has obstructed their conduct.
 
@@ -6012,18 +6280,18 @@ The right under paragraph 2 ceases to apply if the accused:
 
 <sup>1</sup>
 
-The private claimant is entitled to appropriate damages from the accused for costs incurred in the proceedings if:
+The private claimant is entitled to appropriate compensation from the accused for costs incurred in the proceedings if:
 
 - a. the claim is successful; or
 - b. the accused is liable to pay costs in terms of Article 426 paragraph 2.
 
-<sup>2</sup> The private claimant must submit his or her damages claim to the criminal justice authority, and quantity and substantiate the same. If he or she fails to fulfil this obligation, the criminal justice authority shall not consider the claim
+<sup>2</sup> The private claimant must submit his or her compensation claim to the criminal justice authority, and quantify and substantiate the same. If he or she fails to fulfil this obligation, the criminal justice authority shall not consider the claim
 
 #### Art. 434
 
 **Third parties**
 
-<sup>1</sup> Third parties have the right to appropriate damages for losses that are not otherwise covered and to satisfaction if they have incurred losses as a result of procedural acts or in providing support to the criminal justice authorities. Article 433 paragraph 2 applies *mutatis mutandis*.
+<sup>1</sup> Third parties have the right to appropriate compensation for losses that are not otherwise covered and to satisfaction if they have incurred losses as a result of procedural acts or in providing support to the criminal justice authorities. Article 433 paragraph 2 applies *mutatis mutandis*.
 
 <sup>2</sup> A decision shall be made on the claims in the final judgment. In clear cases, the public prosecutor may issue a decision in the preliminary proceedings.
 
@@ -6033,19 +6301,19 @@ The private claimant is entitled to appropriate damages from the accused for cos
 
 **Time limits**
 
-Claims for damages and satisfaction against the Confederation or the canton must be filed within 10 years of the date on which the decision becomes legally binding.
+Claims for compensation and satisfaction against the Confederation or the canton must be filed within 10 years of the date on which the decision becomes legally binding.
 
 #### Art. 436
 
-**Damages and satisfaction in appellate proceedings**
+**Compensation and satisfaction in appellate proceedings**
 
-<sup>1</sup> Claims for damages and satisfaction in appellate proceedings are governed by Articles 429–434.
+<sup>1</sup> Claims for compensation and satisfaction in appellate proceedings are governed by Articles 429–434.
 
-<sup>2</sup> Where the accused is neither fully nor partly acquitted and the proceedings are not abandoned but the accused is successful on other points, he or she is entitled to appropriate damages for his or her expenditure.
+<sup>2</sup> Where the accused is neither fully nor partly acquitted and the proceedings are not abandoned but the accused is successful on other points, he or she is entitled to appropriate compensation for his or her expenditure.
 
-<sup>3</sup> If the appellate authority quashes a decision in accordance with Article 409, the parties are entitled to appropriate damages for their expenditure in the appellate proceedings and that part of the proceedings before the court of first instance that related to the quashed decision.
+<sup>3</sup> If the appellate authority quashes a decision in accordance with Article 409, the parties are entitled to appropriate compensation for their expenditure in the appellate proceedings and that part of the proceedings before the court of first instance that related to the quashed decision.
 
-<sup>4</sup> An accused who is acquitted or receives a reduced sentence following a review of the case is entitled to appropriate damages for his or her expenditure in the review proceedings. He or she is also entitled to satisfaction and damages for time spent in custody, provided this deprivation of liberty cannot be not accounted for in sanctions imposed in respect of other offences.
+<sup>4</sup> An accused who is acquitted or receives a reduced sentence following a review of the case is entitled to appropriate compensation for his or her expenditure in the review proceedings. He or she is also entitled to satisfaction and compensation for time spent in custody, provided this deprivation of liberty cannot be not accounted for in sanctions imposed in respect of other offences.
 
 ## Title 11 Legal Effect and Execution of Decisions in Criminal Proceedings
 
@@ -6105,7 +6373,7 @@ Legally-binding custodial sentences and custodial measures must be executed imme
 
 **Preventive detention**
 
-<sup>1</sup> In cases of urgency, the executive authority may place the person convicted in preventive detention to ensure of that the sentence or the measure is executed.
+<sup>1</sup> The executive authority may place the person convicted in preventive detention to ensure that the sentence or the measure is executed, provided any one of the requirements in Article 439 paragraph 3 is met.[^440-1]
 
 <sup>2</sup>
 
@@ -6114,7 +6382,13 @@ It shall submit the case within 5 days of the person's detention:
 - a. to the court that imposed the sentence or measure that is to be executed;
 - b. in the case of summary penalty orders, to the compulsory measures court at the place where the public prosecutor issued the summary penalty order.
 
-<sup>3</sup> The court shall make a final decision on whether the person convicted remains in detention until the commencement of the sentence or measure.
+<sup>3</sup> The court shall decide on whether the person convicted remains in detention until the commencement of the sentence or measure.[^440-2]
+
+<sup>4</sup> The court that ordered preventive detention has jurisdiction over applications for release from detention.[^440-3]
+
+[^440-1]: Amended by No I of the FA of 17 June 2022, in force since 1 Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^440-2]: Amended by No I of the FA of 17 June 2022, in force since 1 Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^440-3]: Inserted by No I of the FA of 17 June 2022, in force since 1 Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 441
 
@@ -6124,9 +6398,9 @@ It shall submit the case within 5 days of the person's detention:
 
 <sup>2</sup> The executive authority shall verify ex officio whether the sentence is time barred.
 
-<sup>3</sup> The person convicted may contest the planned execution of a time-barred sentence or measure before the objections authority of the canton of execution. This authority shall also decide on whether the appeal has suspensive effect.
+<sup>3</sup> The person convicted may contest the planned execution of a time-barred sentence or measure before the objections court of the canton of execution. This authority shall also decide on whether the appeal has suspensive effect.
 
-<sup>4</sup> If the person convicted is made to serve a time-barred custodial sanction, he or she shall be entitled to damages and satisfaction in analogous application of Article 431.
+<sup>4</sup> If the person convicted is made to serve a time-barred custodial sanction, he or she shall be entitled to compensation and satisfaction in analogous application of Article 431.
 
 #### Art. 442
 
@@ -6138,7 +6412,7 @@ It shall submit the case within 5 days of the person's detention:
 
 <sup>3</sup> The Confederation and the cantons shall determine the authorities that collect financial payments.
 
-<sup>4</sup> The criminal justice authorities may set off their claims in respect of procedural costs against the claims to damages of the party liable to pay arising from the same criminal proceedings and against seized assets.
+<sup>4</sup> The criminal justice authorities may set off their claims in respect of procedural costs against the claims to compensation of the party liable to pay arising from the same criminal proceedings and against seized assets.
 
 [^442-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
 
@@ -6198,7 +6472,7 @@ The coordination of provisions of other enactments with this Code is regulated i
 
 <sup>1</sup> Proceedings that are pending when this Code comes into force shall be continued by the competent authorities under the new law unless the following provisions provide otherwise.
 
-<sup>2</sup> Conflicts on jurisdiction between authorities of the same canton shall be decided by the objections authority of the canton concerned and conflicts between the authorities of different cantons or between cantonal and federal authorities shall be decided by the Federal Criminal Court.
+<sup>2</sup> Conflicts on jurisdiction between authorities of the same canton shall be decided by the objections court of the canton concerned and conflicts between the authorities of different cantons or between cantonal and federal authorities shall be decided by the Federal Criminal Court.
 
 ### Section 2 Main Proceedings of First Instance and Special Proceedings
 
@@ -6206,7 +6480,7 @@ The coordination of provisions of other enactments with this Code is regulated i
 
 **Main proceedings of first instance**
 
-If the main hearing has already begun when this Code comes into force, it shall be continued in accordance with the previous law in the previously competent court of first instance.
+If the trial has already begun when this Code comes into force, it shall be continued in accordance with the previous law in the previously competent court of first instance.
 
 #### Art. 451
 
@@ -6332,11 +6606,3 @@ Irrespective of whether the new VSA comes into force before or after the CPC, on
 Irrespective of whether the new VSA comes into force before or after the CPC, on commencement of whichever comes into force later or if both come into force at the same time Articles 84a, 104 paragraph 3 and 118 paragraph 2 shall be amended by number 12 of the Annex 1 the CPC as follows:
 
 …
-
-### 4. Coordination of Article 269 paragraph 2 letter a with the Federal Decree of 18 December 2015 on the Adoption and Implementation of the International Convention for the Protection of All Persons from Enforced Disappearance
-
-Irrespective of whether the present amendment to the Criminal Procedure Code or the Amendment of 18 December 2015[^annex2-lvlu1-lvl4-1] comes into force first, on commencement of whichever comes into force later or if both come into force at the same time, the following provision shall be worded as follows:
-
-…
-
-[^annex2-lvlu1-lvl4-1]: [AS 2016 4687](https://fedlex.data.admin.ch/eli/oc/2016/756)
