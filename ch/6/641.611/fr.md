@@ -4,11 +4,11 @@ title: "Ordonnance du 20 novembre 1996 sur l'imposition des huiles minérales (O
 short: Oimpmin
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/3393_3393_3393"
 language: fr
-version: 2022-01-01
+version: 2024-01-01
 adopted: 1996-11-20
 in_force: 1997-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/3393_3393_3393/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1996-3393_3393_3393-20220101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/3393_3393_3393/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/3393_3393_3393/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-1996-3393_3393_3393-20240101-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/3393_3393_3393/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1996/3393_3393_3393/20220101/fr"
 
 (Oimpmin)
 
-du 20 novembre 1996 (Etat le 1<sup>er</sup> janvier 2022)
+du 20 novembre 1996 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -189,7 +189,9 @@ La statistique sera établie sur la base des déclarations fiscales et des rappo
 
 **Désignation de la marchandise et quantité**
 
-<sup>1</sup> Dans les déclarations fiscales et les rapports périodiques,
+<sup>1</sup>
+
+Dans les déclarations fiscales et les rapports périodiques:
 
 - a. les marchandises doivent être désignées par le numéro du tarif des douanes et par le numéro statistique;
 - b. les quantités doivent être indiquées en litres à 15° C pour les marchandises mesurées en fonction du volume et en kilogrammes pour les marchandises mesurées en fonction de la masse.
@@ -234,7 +236,7 @@ La statistique sera établie sur la base des déclarations fiscales et des rappo
 
 La surtaxe sur les huiles minérales de 300 francs par 1000 l à 15° C pour le gaz naturel et les autres hydrocarbures gazeux des numéros 2711.2110 et 2910 du tarif des douanes correspond à 399 fr. 30 par 1000 kg.
 
-### Section 1*a***** Biocarburants
+### Section 1*a* Biocarburants
 
 [^chap2-sec1a-1]
 
@@ -294,29 +296,37 @@ Les surfaces présentant une grande diversité biologique sont en particulier le
 Les exigences visées à l’art. 12*b*, al. 1, let. d et e, Limpmin (exigences sociales) sont remplies:
 
 - a. si les surfaces sur lesquelles les matières premières nécessaires pour les biocarburants sont produites ont été acquises légalement, l’acquisition légale étant régie par le droit national et les obligations internationales de l’État dans lequel se trouvent les surfaces de culture ainsi que par les standards internationaux reconnus, et
-- b. si, lors de la production des matières premières et de la fabrication des biocarburants, la législation sociale applicable au lieu de culture et au lieu de production, ou au moins les conventions fondamentales de l’Organisation internationale du travail (OIT), sont respectées.
+- b.[^19d-1] si, lors de la production des matières premières et de la fabrication des biocarburants, la législation sociale applicable au lieu de culture et au lieu de production, ou au moins les principes et droits fondamentaux des travailleurs qui font l’objet des conventions fondamentales de l’Organisation internationale du travail (OIT), sont respectés.
 
 <sup>2</sup>
 
-Sont réputées conventions fondamentales de l’OIT:
+Les conventions fondamentales de l’OIT sont les suivantes:[^19d-2]
 
-- a. Convention n<sup>o</sup> 29 du 28 juin 1930 concernant le travail forcé ou obligatoire[^19d-1];
-- b. Convention n<sup>o</sup> 87 du 9 juillet 1948 concernant la liberté syndicale et la protection du droit syndical[^19d-2];
-- c. Convention n<sup>o</sup> 98 du 1<sup>er</sup> juillet 1949 concernant l’application des principes du droit d’organisation et de négociation collective[^19d-3];
-- d. Convention n<sup>o</sup> 100 du 29 juin 1951 concernant l’égalité de rémunération entre la main-d’œuvre masculine et la main-d’œuvre féminine pour un travail de valeur égale[^19d-4];
-- e. Convention n<sup>o</sup> 105 du 25 juin 1957 concernant l’abolition du travail forcé[^19d-5];
-- f. Convention n<sup>o</sup> 111 du 25 juin 1958 concernant la discrimination en matière d’emploi et de profession[^19d-6];
-- g. Convention n<sup>o</sup> 138 du 26 juin 1973 concernant l’âge minimum d’admission à l’emploi[^19d-7];
-- h. Convention n<sup>o</sup> 182 du 17 juin 1999 concernant l’interdiction des pires formes de travail des enfants et l’action immédiate en vue de leur élimination[^19d-8].
+- a. Convention n<sup>o</sup> 29 du 28 juin 1930 concernant le travail forcé ou obligatoire[^19d-3];
+- b. Convention n<sup>o</sup> 87 du 9 juillet 1948 concernant la liberté syndicale et la protection du droit syndical[^19d-4];
+- c. Convention n<sup>o</sup> 98 du 1<sup>er</sup> juillet 1949 concernant l’application des principes du droit d’organisation et de négociation collective[^19d-5];
+- d. Convention n<sup>o</sup> 100 du 29 juin 1951 concernant l’égalité de rémunération entre la main-d’œuvre masculine et la main-d’œuvre féminine pour un travail de valeur égale[^19d-6];
+- e. Convention n<sup>o</sup> 105 du 25 juin 1957 concernant l’abolition du travail forcé[^19d-7];
+- f. Convention n<sup>o</sup> 111 du 25 juin 1958 concernant la discrimination en matière d’emploi et de profession[^19d-8];
+- g. Convention n<sup>o</sup> 138 du 26 juin 1973 concernant l’âge minimum d’admission à l’emploi[^19d-9];
+- g<sup>bis</sup>.[^19d-10] Convention n<sup>o</sup> 155 du 22 juin 1981 concernant la sécurité et la santé des travailleurs[^19d-11];
+- h. Convention n<sup>o</sup> 182 du 17 juin 1999 concernant l’interdiction des pires formes de travail des enfants et l’action immédiate en vue de leur élimination[^19d-12];
+- i.[^19d-13] Convention n<sup>o</sup> 187 du 15 juin 2006 concernant le cadre promotionnel pour la sécurité et la santé au travail[^19d-14].
 
-[^19d-1]: [RS 0.822.713.9](https://fedlex.data.admin.ch/eli/cc/56/956_1002_1260)
-[^19d-2]: [RS 0.822.719.7](https://fedlex.data.admin.ch/eli/cc/1976/689_689_689)
-[^19d-3]: [RS 0.822.719.9](https://fedlex.data.admin.ch/eli/cc/2001/188)
-[^19d-4]: [RS 0.822.720.0](https://fedlex.data.admin.ch/eli/cc/1973/1602_1602_1602)
-[^19d-5]: [RS 0.822.720.5](https://fedlex.data.admin.ch/eli/cc/1958/485_507_507)
-[^19d-6]: [RS 0.822.721.1](https://fedlex.data.admin.ch/eli/cc/1961/810_824_840)
-[^19d-7]: [RS 0.822.723.8](https://fedlex.data.admin.ch/eli/cc/2001/204)
-[^19d-8]: [RS 0.822.728.2](https://fedlex.data.admin.ch/eli/cc/2003/168)
+[^19d-1]: Nouvelle teneur selon le ch. I de l’O du 25 oct. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 629](https://fedlex.data.admin.ch/eli/oc/2023/629)). Voir aussi les disp. trans de cette mod. à la fin du texte.
+[^19d-2]: Nouvelle teneur selon le ch. I de l’O du 25 oct. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 629](https://fedlex.data.admin.ch/eli/oc/2023/629)).
+[^19d-3]: [RS 0.822.713.9](https://fedlex.data.admin.ch/eli/cc/56/956_1002_1260)
+[^19d-4]: [RS 0.822.719.7](https://fedlex.data.admin.ch/eli/cc/1976/689_689_689)
+[^19d-5]: [RS 0.822.719.9](https://fedlex.data.admin.ch/eli/cc/2001/188)
+[^19d-6]: [RS 0.822.720.0](https://fedlex.data.admin.ch/eli/cc/1973/1602_1602_1602)
+[^19d-7]: [RS 0.822.720.5](https://fedlex.data.admin.ch/eli/cc/1958/485_507_507)
+[^19d-8]: [RS 0.822.721.1](https://fedlex.data.admin.ch/eli/cc/1961/810_824_840)
+[^19d-9]: [RS 0.822.723.8](https://fedlex.data.admin.ch/eli/cc/2001/204)
+[^19d-10]: Introduite par le ch. I de l’O du 25 oct. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 629](https://fedlex.data.admin.ch/eli/oc/2023/629)).
+[^19d-11]: [www.ilo.org/normlex](http://www.ilo.org/normlex) &gt; Instruments &gt; Conventions &gt; Fondamentales &gt; C155
+[^19d-12]: [RS 0.822.728.2](https://fedlex.data.admin.ch/eli/cc/2003/168)
+[^19d-13]: Introduite par le ch. I de l’O du 25 oct. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 629](https://fedlex.data.admin.ch/eli/oc/2023/629)).
+[^19d-14]: [www.ilo.org/normlex](http://www.ilo.org/normlex) &gt; Instruments &gt; Conventions &gt; Fondamentales &gt; C187
 
 #### Art. 19e
 
@@ -761,7 +771,7 @@ La déclaration fiscale périodique doit être remise sous la forme prescrite et
 
 <sup>4</sup> L’autorité fiscale statue sur la remise de l’impôt.
 
-### Section 3**** Mélanges de carburants
+### Section 3 Mélanges de carburants
 
 [^chap4-sec3-1]
 
@@ -826,7 +836,7 @@ Les parts de carburants au sens de l’art. 20*a*, al. 2, Limpmin ne doivent pas
 
 [^45d-1]: Nouvelle teneur selon le ch. I de l’O du 4 mai 2016, en vigueur depuis le 1er août 2016 (RO 2016 2667).
 
-### Section 4**** Dispositions spéciales applicables au biogaz, au biohydrogène et au gaz synthétique utilisés en tant que carburant en cas d’injection dans le réseau de gaz naturel ou de distribution directe dans une station-service
+### Section 4 Dispositions spéciales applicables au biogaz, au biohydrogène et au gaz synthétique utilisés en tant que carburant en cas d’injection dans le réseau de gaz naturel ou de distribution directe dans une station-service
 
 [^chap4-sec4-1]
 
@@ -841,11 +851,12 @@ Le biogaz, le biohydrogène et le gaz synthétique doivent être déclarés au s
 - a. lorsqu’ils correspondent aux dispositions de la directive de mars 2016[^45e-1] de la Société Suisse de l’Industrie du Gaz et des Eaux pour l’injection de gaz renouvelables (Directive G13) et qu’ils sont injectés dans le réseau de gaz naturel et mesurés par une connexion fixe, ou
 - b. lorsqu’ils sont préparés comme carburants et qu’ils sont distribués directement dans une station-service.
 
-<sup>2</sup> Les établissements de fabrication de biogaz, de biohydrogène ou de gaz synthétique doivent présenter à l’autorité fiscale via le service de clearing:
+<sup>2</sup>
 
-a. la déclaration fiscale périodique au sens de l’art. 20 Limpmin;
+Les établissements de fabrication de biogaz, de biohydrogène ou de gaz synthétique doivent présenter à l’autorité fiscale via le service de clearing:
 
-b. le rapport périodique au sens de l’art. 31 Limpmin.
+- a. la déclaration fiscale périodique au sens de l’art. 20 Limpmin;
+- b. le rapport périodique au sens de l’art. 31 Limpmin.
 
 <sup>3</sup> Les fournisseurs et les vendeurs de gaz naturel doivent présenter à l’autorité fiscale via le service de clearing les rapports selon lesquels une différence d’impôt au sens de l’art. 4, al. 2, let. a, Limpmin a pris naissance.
 
@@ -887,11 +898,20 @@ Les montants inférieurs à 100 francs ne sont pas remboursés.
 
 <sup>1</sup> Les remboursements de l’impôt en vertu de l’art. 18, al. 1<sup>bis</sup>, 1<sup>ter</sup>, 2 et 3, Limpmin sont accordés sur demande.
 
-<sup>2</sup> Il n’existe pas de droit au remboursement de l’impôt pour les marchandises ayant été consommées plus de deux ans avant la présentation de la demande.
+<sup>2</sup> Les demandes de remboursement doivent être présentées dans les six mois qui suivent la fin de l’exercice comptable au cours duquel le carburant a été consommé. Aucun remboursement de l’impôt n’est accordé lorsque les demandes sont présentées hors délai.[^48-2]
 
-<sup>3</sup> L’autorité fiscale peut, dans un cas d’espèce, prévoir le remboursement de l’impôt pour des marchandises consommées antérieurement lorsque le requérant n’a pas observé le délai pour des raisons indépendantes de sa volonté ou que le paiement de l’impôt constituerait pour lui une rigueur excessive.
+<sup>3</sup>
+
+L’année civile est réputée exercice comptable pour les remboursements suivants:
+
+- a. remboursements aux requérants qui ne sont pas assujettis à l’obligation de tenir une comptabilité visée à l’art. 957, al. 1, du code des obligations[^48-3];
+- b. remboursements pour le carburant qui a été consommé par les entreprises de transport concessionnaires de la Confédération;
+- c. remboursements pour le carburant qui a été consommé par les agriculteurs.[^48-4]
 
 [^48-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> juil. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 3355](https://fedlex.data.admin.ch/eli/oc/2020/574)).
+[^48-2]: Nouvelle teneur selon le ch. I de l’O du 25 oct. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 629](https://fedlex.data.admin.ch/eli/oc/2023/629)).
+[^48-3]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^48-4]: Nouvelle teneur selon le ch. I de l’O du 25 oct. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 629](https://fedlex.data.admin.ch/eli/oc/2023/629)).
 
 #### Art. 48a
 
@@ -933,9 +953,10 @@ Les contrôles de la consommation doivent mentionner le genre et la quantité de
 
 <sup>1</sup> Les demandes de remboursement doivent être remises à l’autorité fiscale dans la forme prescrite par cette dernière.[^51-1]
 
-<sup>2</sup> Elles peuvent porter sur la consommation de un à douze mois.
+<sup>2</sup> Elles peuvent porter sur la consommation de un à douze mois au cours d’une année civile.[^51-2]
 
 [^51-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> juil. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 3355](https://fedlex.data.admin.ch/eli/oc/2020/574)).
+[^51-2]: Nouvelle teneur selon le ch. I de l’O du 25 oct. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 629](https://fedlex.data.admin.ch/eli/oc/2023/629)).
 
 ### Section 3 Remboursement de l’impôt pour les vapeurs d’hydrocarbures
 
@@ -986,7 +1007,7 @@ L’entrepositaire agréé doit tenir un contrôle des heures de marche de l’i
 
 L’entrepositaire agréé doit demander par écrit à l’autorité fiscale le remboursement visé à l’art. 18, al. 1, let. b, Limpmin. Il joindra à sa demande les moyens de preuve, en particulier ceux qui concernent les marchandises sorties de l’entrepôt, l’imposition et le réentreposage de la marchandise dans l’entrepôt agréé.
 
-### Section 4*a***** Remboursement de l’impôt pour les dameuses de pistes
+### Section 4*a* Remboursement de l’impôt pour les dameuses de pistes
 
 [^chap5-sec4a-1]
 
@@ -1010,12 +1031,12 @@ Sont réputés dameuses de pistes les véhicules équipés de chenilles à neige
 
 <sup>1</sup> La personne bénéficiaire doit prouver les quantités de carburant qu’elle a utilisées afin d’exploiter des dameuses de pistes pour l’usage prévu à l’art. 57*b*; à cet effet, elle doit tenir des contrôles de la consommation.
 
-<sup>2</sup> Les contrôles de la consommation doivent mentionner le genre et la quantité de carburant utilisés par dameuse de pistes. Ils doivent fournir au minimum les informations suivantes:
+<sup>2</sup>
 
-l’état du compteur kilométrique ou du compteur d’heures de marche au début et à la fin de la période de remboursement;
+Les contrôles de la consommation doivent mentionner le genre et la quantité de carburant utilisés par dameuse de pistes. Ils doivent fournir au minimum les informations suivantes:
 
-le nombre de kilomètres parcourus ou d’heures de marche effectuées;
-
+- a. l’état du compteur kilométrique ou du compteur d’heures de marche au début et à la fin de la période de remboursement;
+- b. le nombre de kilomètres parcourus ou d’heures de marche effectuées;
 - c. les indications nécessaires à l’identification de la dameuse de pistes, notamment le numéro de châssis ou le numéro de série.
 
 [^57c-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> juil. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 3355](https://fedlex.data.admin.ch/eli/oc/2020/574)).
@@ -1101,7 +1122,7 @@ Le DFF fixe les normes; il tient compte ce faisant des formes d’exploitation e
 
 <sup>2</sup> Elles portent sur l’année civile écoulée ou sur l’exercice forestier écoulé; la situation de l’exploitation le dernier jour du sixième mois est déterminante.
 
-### Section 6*a***** Remboursement de l’impôt aux entreprises d’extraction de la pierre de taille naturelle
+### Section 6*a* Remboursement de l’impôt aux entreprises d’extraction de la pierre de taille naturelle
 
 [^chap5-sec6a-1]
 
@@ -1129,7 +1150,10 @@ Les contrôles de la consommation doivent mentionner le genre et la quantité de
 - b. le nombre de kilomètres parcourus ou d’heures de marche effectuées, avec mention séparée des fins donnant droit à l’allégement fiscal et des fins n’y donnant pas droit;
 - c. les indications nécessaires à l’identification du véhicule ou de la machine, notamment le numéro de châssis ou le numéro de série.
 
+<sup>3</sup> Si un véhicule ou une machine ne sont pas munis d’un compteur kilométrique ou d’un compteur d’heures de marche à leur sortie d’usine et que la mise en place d’un compteur est disproportionnée, l’autorité fiscale peut, sur demande, autoriser que les informations visées à l’al. 2, let. a, ne soient pas mentionnées dans les contrôles de la consommation.[^62b-2]
+
 [^62b-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> juil. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 3355](https://fedlex.data.admin.ch/eli/oc/2020/574)).
+[^62b-2]: Introduit par le ch. I de l’O du 25 oct. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 629](https://fedlex.data.admin.ch/eli/oc/2023/629)).
 
 #### Art. 62c
 
@@ -1202,7 +1226,10 @@ Les contrôles de la consommation doivent mentionner le genre et la quantité de
 - b. le nombre d’heures de marche effectuées, avec mention séparée des fins donnant droit à l’allégement fiscal et des fins n’y donnant pas droit ;
 - c. les indications nécessaires à l’identification de la machine ou de l’installation, notamment le numéro de série.
 
+<sup>3</sup> Si une machine ou une installation n’est pas munie d’un compteur d’heures de marche à sa sortie d’usine et que la mise en place d’un compteur est disproportionnée, l’autorité fiscale peut, sur demande, autoriser que les informations visées à l’al. 2, let. a, ne soient pas mentionnées dans les contrôles de la consommation.[^66a-2]
+
 [^66a-1]: Introduit par le ch. I de l’O du 1<sup>er</sup> juil. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 3355](https://fedlex.data.admin.ch/eli/oc/2020/574)).
+[^66a-2]: Introduit par le ch. I de l’O du 25 oct. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 629](https://fedlex.data.admin.ch/eli/oc/2023/629)).
 
 #### Art. 66b
 
@@ -1478,7 +1505,7 @@ Les rapports doivent:
 
 Les entreposeurs qui exécutent des tâches de la présente section sur ordre et sous la responsabilité d’entrepositaires agréés doivent établir séparément les comptabilités-matières et les rapports pour chaque entrepositaire agréé.
 
-### Section 6 Entrepôts de réserves obligatoires en dehors des entrepôts agréés****
+### Section 6 Entrepôts de réserves obligatoires en dehors des entrepôts agréés
 
 [^chap6-sec6-1]
 
@@ -1541,11 +1568,11 @@ Il est interdit d’exporter des marchandises non imposées qui sont entreposée
 Par 1000 litres à 15° C, l’huile de chauffage extra-légère doit contenir, uniformément répartis, au moins:
 
 - a. 4,2 g de N-éthyl-1-4(4-phénylazophénylazo)napthyl-2-amine, ou 5,5 g de N-(2-éthylhexyl)-1-[[2-méthyl-4-[(2-méthylphényl)azo]phényl]azo])naphthyl-2-amine, ou 6,3 g de N-(tridécyl)-1-[[2-méthyl-4-[(2-méthylphényl)azo]phényl]azo]naphthyl-2-amine, ou encore un mélange de ces colorants produisant un effet équivalent, et
-- b.[^90-1] 6,0 g de N-éthyl-N-[2-(1-isobutoxyéthoxy)éthyl]-4-(phénylazo)aniline.
+- b.[^90-1] 6,0 g de N-éthyl-N-[2-(1-isobutoxyéthoxy)éthyl]-4-(phénylazo)aniline (n<sup>o</sup> CAS 34432-92-3) ou 9,5 g de butoxybenzène (n<sup>o</sup> CAS 1126-79-0).
 
 <sup>2</sup> Les quantités mentionnées à l’al. 1 peuvent être dépassées de 50 % au plus.[^90-2]
 
-[^90-1]: Nouvelle teneur selon le ch. I de l’O du 3 juil. 2002, en vigueur depuis le 1<sup>er</sup> août 2002 ([RO 2002 2084](https://fedlex.data.admin.ch/eli/oc/2002/309)). Voir aussi l’al. 1 des disp. trans. de cette mod. à la fin du texte.
+[^90-1]: Nouvelle teneur selon le ch. I de l’O du 25 oct. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 629](https://fedlex.data.admin.ch/eli/oc/2023/629)).
 [^90-2]: Nouvelle teneur selon le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4479](https://fedlex.data.admin.ch/eli/oc/2013/792)).
 
 #### Art. 91
@@ -1792,7 +1819,7 @@ La procédure visée à l’al. 1:
 
 <sup>3</sup> La procédure de transport doit être achevée dans les trois mois.
 
-## Chapitre 8*a***** Intérêt rémunératoire
+## Chapitre 8*a* Intérêt rémunératoire
 
 [^chap8a-1]
 
@@ -1820,7 +1847,7 @@ La procédure visée à l’al. 1:
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 1997.
 
-## Disposition transitoire de la modification du 3 juillet 2002****
+## Disposition transitoire de la modification du 3 juillet 2002
 
 [^u1-1]
 
@@ -1830,7 +1857,7 @@ La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 1997.
 
 <sup>2</sup> Les substances colorantes et les substances de marquage qui, le 1<sup>er</sup> août 2002, sont déjà disponibles dans des entrepôts agréés peuvent continuer à être utilisées pour la coloration et le marquage.
 
-## Disposition transitoire relative à la modification du 4 mai 2016****
+## Disposition transitoire relative à la modification du 4 mai 2016
 
 [^u2-1]
 
@@ -1838,7 +1865,7 @@ La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 1997.
 
 Les allégements fiscaux pour les carburants issus de matières premières renouvelables, qui ont été octroyés restent valables jusqu’à l’expiration de leur durée de validité.
 
-## Disposition transitoire relative à la modification du 1<sup>er</sup> juillet 2020****
+## Disposition transitoire relative à la modification du 1<sup>er</sup> juillet 2020
 
 [^u3-1]
 
@@ -1846,7 +1873,17 @@ Les allégements fiscaux pour les carburants issus de matières premières renou
 
 Les allégements fiscaux pour les biocarburants qui sont valables le 30 juin 2020 conservent leur validité jusqu’au 31 décembre 2023.
 
-Annexe 1*[^t-1]*
+## Dispositions transitoires relatives à la modification du 25 octobre 2023
+
+[^u4-1]
+
+[^u4-1]: [RO 2023 629](https://fedlex.data.admin.ch/eli/oc/2023/629)
+
+<sup>1</sup> Les allégements fiscaux pour les biocarburants qui ont été octroyés sur la base d’une décision rendue entre le 1<sup>er</sup> janvier 2018 et le 31 décembre 2024 conservent leur validité jusqu’au 31 décembre 2024.
+
+<sup>2</sup> L’art. 19*d* de l’ancien droit s’applique aux demandes d’allégements fiscaux pour les biocarburants qui sont présentées avant l’entrée en vigueur de la modification du 25 octobre 2023.
+
+Annexe 1[^t-1]
 
 ## Abrogation et modification du droit en vigueur
 
@@ -1863,13 +1900,13 @@ Annexe 1*[^t-1]*
 [^annex1-lvlu1-2]: [[RO 1972 1712](https://fedlex.data.admin.ch/eli/oc/1972/1684_1712_1888); [1975 1711](https://fedlex.data.admin.ch/eli/oc/1975/1711_1711_1711); [1985 826](https://fedlex.data.admin.ch/eli/oc/1985/826_826_826); [1986 350](https://fedlex.data.admin.ch/eli/oc/1986/350_350_350); **1987** 2366]
 [^annex1-lvlu1-3]: Les mod. peuvent être consultées au [RO 1996 3393](https://fedlex.data.admin.ch/eli/oc/1996/3393_3393_3393).
 
-Annexe 2*[^t-2]*
+Annexe 2[^t-2]
 
 (art. 19*b*)
 
 ## Tarif de l’impôt sur les biocarburants
 
-[^t-2]: Introduite par le ch. II de l’O du 30 janv. 2008 ([RO 2008 583](https://fedlex.data.admin.ch/eli/oc/2008/133)). Nouvelle teneur selon le ch. II de l’O du 4 mai 2016 ([RO 2016 2667](https://fedlex.data.admin.ch/eli/oc/2016/426)). Mise à jour par l’annexe 3 ch. 9 de l’O du 10 juin 2016 modifiant le tarif des douanes ([RO 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)) et le ch. II de l’O du 1<sup>er</sup> juil. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 3355](https://fedlex.data.admin.ch/eli/oc/2020/574)).
+[^t-2]: Introduite par le ch. II de l’O du 30 janv. 2008 ([RO 2008 583](https://fedlex.data.admin.ch/eli/oc/2008/133)). Nouvelle teneur selon le ch. II de l’O du 4 mai 2016 ([RO 2016 2667](https://fedlex.data.admin.ch/eli/oc/2016/426)). Mise à jour par l’annexe 3 ch. 9 de l’O du 10 juin 2016 modifiant le tarif des douanes ([RO 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)), le ch. II des O du 1<sup>er</sup> juil. 2020 ([RO 2020 3355](https://fedlex.data.admin.ch/eli/oc/2020/574)) et du 25 oct. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 629](https://fedlex.data.admin.ch/eli/oc/2023/629)).
 
 <table>
 <tr><td>N<sup>o</sup> du tarif des douanes</td><td>Désignation de la marchandise</td><td>Taux de l’impôt</td><td>Surtaxe</td></tr>
@@ -1888,7 +1925,7 @@ Annexe 2*[^t-2]*
 <tr><td></td><td></td><td>Par 1000 l à 15 °C Fr.</td><td>Par 1000 l à 15 °C Fr.</td></tr>
 <tr><td></td><td>– liquéfié</td><td>[tab] 0.00</td><td>[tab] 0.00</td></tr>
 <tr><td></td><td>Biocarburants synthétiques:</td><td></td><td></td></tr>
-<tr><td>[tab] 2710.1912 [tab] 1919</td><td>– huiles et graisses végétales ou animales hydrogénées</td><td>[tab] 0.00</td><td>[tab] 0.00</td></tr>
+<tr><td>2710.1911 [tab] 1912 [tab] 1919</td><td>– huiles et graisses végétales ou animales hydrogénées</td><td>[tab] 0.00</td><td>[tab] 0.00</td></tr>
 <tr><td></td><td></td><td>Par 1000 kg Fr.</td><td>Par 1000 kg Fr.</td></tr>
 <tr><td>[tab] 2711.1910</td><td>– gaz synthétique, liquéfié</td><td>0.00</td><td>0.00</td></tr>
 <tr><td></td><td></td><td>Par 1000 l à 15 °C Fr.</td><td>Par 1000 l à 15 °C Fr.</td></tr>

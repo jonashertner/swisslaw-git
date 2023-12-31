@@ -4,11 +4,11 @@ title: "Ordinanza del 20 novembre 1996 sull'imposizione degli oli minerali (OIOm
 short: OIOm
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/3393_3393_3393"
 language: it
-version: 2022-01-01
+version: 2024-01-01
 adopted: 1996-11-20
 in_force: 1997-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/3393_3393_3393/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1996-3393_3393_3393-20220101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/3393_3393_3393/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/3393_3393_3393/20240101/it/xml/fedlex-data-admin-ch-eli-cc-1996-3393_3393_3393-20240101-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/3393_3393_3393/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1996/3393_3393_3393/20220101/it"
 
 (OIOm)
 
-del 20 novembre 1996 (Stato 1° gennaio 2022)
+del 20 novembre 1996 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -26,7 +26,7 @@ vista la legge federale del 21 giugno 1996[^ingress-1] sull’imposizione degli 
 ordina:
 
 [^ingress-1]: [RS 641.61](https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371)
-[^ingress-2]: Nuova espressione giusta il n. I dell’O del 4 mag. 2016, in vigore dal 1° ago. 2016 ([RU 2016 2667](https://fedlex.data.admin.ch/eli/oc/2016/426)). Di detta mod. è tenuto conto in tutto il testo.
+[^ingress-2]: Nuova espr. giusta il n. I dell’O del 4 mag. 2016, in vigore dal 1° ago. 2016 ([RU 2016 2667](https://fedlex.data.admin.ch/eli/oc/2016/426)). Di detta mod. è tenuto conto in tutto il testo.
 
 ## Capitolo 1: Disposizioni generali
 
@@ -48,7 +48,7 @@ A tenore della legislazione sull’imposizione degli oli minerali s’intende pe
 
 [^1-1]: Nuova voce giusta l’all. n. 13 dell’O del 3 lug. 2001, in vigore dal 1° gen. 2002 ([RU 2001 2091](https://fedlex.data.admin.ch/eli/oc/2001/305)).
 [^1-2]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871), All.
-[^1-3]: Il testo di tale norma può essere consultato gratuitamente od ottenuto a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^1-3]: Il testo di tale norma può essere consultato gratuitamente od ottenuto a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch
 [^1-4]: [RS 746.1](https://fedlex.data.admin.ch/eli/cc/1964/99_95_95)
 [^1-5]: Nuovo testo giusta il n. I dell’O del 30 gen. 2008, in vigore dal 1° lug. 2008 ([RU 2008 583](https://fedlex.data.admin.ch/eli/oc/2008/133)).
 
@@ -236,7 +236,7 @@ Nelle dichiarazioni fiscali e nei rapporti periodici:
 
 Il supplemento fiscale sugli oli minerali di franchi 300 per 1000 l a 15°C per il gas di petrolio e gli idrocarburi gassosi delle voci 2711.2110 e 2910 della tariffa doganale corrisponde a franchi 399,30 per 1000 kg.
 
-### Sezione 1*a*:**** Biocarburanti
+### Sezione 1*a*: Biocarburanti
 
 [^chap2-sec1a-1]
 
@@ -296,29 +296,37 @@ Le superfici con una grande biodiversità sono in particolare le superfici in zo
 Le esigenze di cui all’articolo 12*b* capoverso 1 lettere d ed e LIOm (esigenze sociali) sono adempiute se:
 
 - a. le superfici sulle quali sono coltivate le materie prime necessarie per i biocarburanti sono state acquistate legalmente, e tale acquisto a norma di legge si basa sul diritto nazionale e sugli obblighi internazionali dello Stato nel quale si trovano le superfici coltivate nonché sugli standard internazionali riconosciuti da detto Stato; e
-- b. all’atto della coltivazione delle materie prime e della produzione dei biocarburanti sono osservate la legislazione sociale applicabile nel luogo di produzione o, almeno, le convenzioni principali dell’Organizzazione internazionale del lavoro (OIL).
+- b.[^19d-1] all’atto della coltivazione delle materie prime e della produzione dei biocarburanti sono osservate la legislazione sociale applicabile nel luogo di produzione o, almeno, i principi e diritti fondamentali dei lavoratori oggetto delle convenzioni principali dell’Organizzazione internazionale del lavoro (OIL).
 
 <sup>2</sup>
 
-Si considerano convenzioni principali dell’OIL:
+Le convenzioni principali dell’OIL:[^19d-2]
 
-- a. Convenzione n. 29 del 28 giugno 1930[^19d-1] concernente il lavoro forzato od obbligatorio;
-- b. Convenzione n. 87 del 9 luglio 1948[^19d-2] concernente la libertà sindacale e la protezione del diritto sindacale;
-- c. Convenzione n. 98 del 1° luglio 1949[^19d-3] concernente l’applicazione dei principi del diritto sindacale e di negoziazione collettiva;
-- d. Convenzione n. 100 del 29 giugno 1951[^19d-4] sulla parità di rimunerazione, per lavoro uguale, tra manodopera maschile e femminile;
-- e. Convenzione n. 105 del 25 giugno 1957[^19d-5] concernente la soppressione del lavoro forzato;
-- f. Convenzione n. 111 del 25 giugno 1958[^19d-6] concernente la discriminazione nell’impiego e nella professione;
-- g. Convenzione n. 138 del 26 giugno 1973[^19d-7] concernente l’età minima di ammissione all’impiego;
-- h. Convenzione n. 182 del 17 giugno 1999[^19d-8] concernente il divieto delle forme più manifeste di sfruttamento del fanciullo sul lavoro e l’azione immediata volta alla loro abolizione.
+- a. Convenzione n. 29 del 28 giugno 1930[^19d-3] concernente il lavoro forzato od obbligatorio;
+- b. Convenzione n. 87 del 9 luglio 1948[^19d-4] concernente la libertà sindacale e la protezione del diritto sindacale;
+- c. Convenzione n. 98 del 1° luglio 1949[^19d-5] concernente l’applicazione dei principi del diritto sindacale e di negoziazione collettiva;
+- d. Convenzione n. 100 del 29 giugno 1951[^19d-6] sulla parità di rimunerazione, per lavoro uguale, tra manodopera maschile e femminile;
+- e. Convenzione n. 105 del 25 giugno 1957[^19d-7] concernente la soppressione del lavoro forzato;
+- f. Convenzione n. 111 del 25 giugno 1958[^19d-8] concernente la discriminazione nell’impiego e nella professione;
+- g. Convenzione n. 138 del 26 giugno 1973[^19d-9] concernente l’età minima di ammissione all’impiego;
+- g<sup>bis</sup>.[^19d-10] Convenzione n. 155 del 22 giugno 1981[^19d-11] sulla salute e sicurezza sul lavoro;
+- h. Convenzione n. 182 del 17 giugno 1999[^19d-12] concernente il divieto delle forme più manifeste di sfruttamento del fanciullo sul lavoro e l’azione immediata volta alla loro abolizione;
+- i.[^19d-13] Convenzione n. 187 del 15 giugno 2006[^19d-14] sul quadro promozionale per la salute e la sicurezza sul lavoro.
 
-[^19d-1]: [RS 0.822.713.9](https://fedlex.data.admin.ch/eli/cc/56/956_1002_1260)
-[^19d-2]: [RS 0.822.719.7](https://fedlex.data.admin.ch/eli/cc/1976/689_689_689)
-[^19d-3]: [RS 0.822.719.9](https://fedlex.data.admin.ch/eli/cc/2001/188)
-[^19d-4]: [RS 0.822.720.0](https://fedlex.data.admin.ch/eli/cc/1973/1602_1602_1602)
-[^19d-5]: [RS 0.822.720.5](https://fedlex.data.admin.ch/eli/cc/1958/485_507_507)
-[^19d-6]: [RS 0.822.721.1](https://fedlex.data.admin.ch/eli/cc/1961/810_824_840)
-[^19d-7]: [RS 0.822.723.8](https://fedlex.data.admin.ch/eli/cc/2001/204)
-[^19d-8]: [RS 0.822.728.2](https://fedlex.data.admin.ch/eli/cc/2003/168)
+[^19d-1]: Nuovo testo giusta il n. I dell’O del 25 ott. 2023, in vigore dal 1° gen. 2024 ([RU 2023 629](https://fedlex.data.admin.ch/eli/oc/2023/629)). Vedi anche le disp. trans. alla fine di questo testo.
+[^19d-2]: Nuovo testo giusta il n. I dell’O del 25 ott. 2023, in vigore dal 1° gen. 2024 ([RU 2023 629](https://fedlex.data.admin.ch/eli/oc/2023/629)).
+[^19d-3]: [RS 0.822.713.9](https://fedlex.data.admin.ch/eli/cc/56/956_1002_1260)
+[^19d-4]: [RS 0.822.719.7](https://fedlex.data.admin.ch/eli/cc/1976/689_689_689)
+[^19d-5]: [RS 0.822.719.9](https://fedlex.data.admin.ch/eli/cc/2001/188)
+[^19d-6]: [RS 0.822.720.0](https://fedlex.data.admin.ch/eli/cc/1973/1602_1602_1602)
+[^19d-7]: [RS 0.822.720.5](https://fedlex.data.admin.ch/eli/cc/1958/485_507_507)
+[^19d-8]: [RS 0.822.721.1](https://fedlex.data.admin.ch/eli/cc/1961/810_824_840)
+[^19d-9]: [RS 0.822.723.8](https://fedlex.data.admin.ch/eli/cc/2001/204)
+[^19d-10]: Introdotta dal n. I dell’O del 25 ott. 2023, in vigore dal 1° gen. 2024 ([RU 2023 629](https://fedlex.data.admin.ch/eli/oc/2023/629)).
+[^19d-11]: [www.ilo.org/normlex](https://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO:12100:P12100_INSTRUMENT_ID:312300:NO) &gt; Instruments &gt; Conventions &gt; Fondamentales &gt; C155
+[^19d-12]: [RS 0.822.728.2](https://fedlex.data.admin.ch/eli/cc/2003/168)
+[^19d-13]: Introdotta dal n. I dell’O del 25 ott. 2023, in vigore dal 1° gen. 2024 ([RU 2023 629](https://fedlex.data.admin.ch/eli/oc/2023/629)).
+[^19d-14]: [www.ilo.org/normlex](https://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO:12100:P12100_INSTRUMENT_ID:312332:NO) &gt; Instruments &gt; Conventions &gt; Fondamentales &gt; C187
 
 #### Art. 19e
 
@@ -582,7 +590,9 @@ I carburanti acquistati negli aerodromi doganali a tenore dell’articolo 22 del
 - d. per voli scuola o voli di prova;
 - e. per la prova al suolo di motori.
 
-<sup>2</sup> I carburanti acquistati negli aerodromi doganali per rifornire altri aeromobili sono esenti da imposta, se
+<sup>2</sup>
+
+I carburanti acquistati negli aerodromi doganali per rifornire altri aeromobili sono esenti da imposta, se:
 
 - a. sono acquistati prima del loro decollo per un volo diretto a destinazione dell’estero;
 - b.[^33-4] il volo serve, dietro controprestazione, a trasportare persone o merci oppure a fornire prestazioni di servizio; e
@@ -762,7 +772,7 @@ La dichiarazione fiscale dev’essere presentata nella forma prescritta e menzio
 
 <sup>4</sup> L’autorità fiscale statuisce in merito al condono dell’imposta.
 
-### Sezione 3:**** Miscele di carburanti
+### Sezione 3: Miscele di carburanti
 
 [^chap4-sec3-1]
 
@@ -827,7 +837,7 @@ Le quote di carburanti di cui all’articolo 20*a* capoverso 2 LIOm non devono e
 
 [^45d-1]: Nuovo testo giusta il n. I dell’O del 4 mag. 2016, in vigore dal 1° ago. 2016 ([RU 2016 2667](https://fedlex.data.admin.ch/eli/oc/2016/426)).
 
-### Sezione 4:**** Disposizioni speciali concernenti il biogas, il bioidrogeno e il gas sintetico impiegati come carburante in caso di immissione nella rete di gas naturale o di consegna diretta a una stazione di rifornimento
+### Sezione 4: Disposizioni speciali concernenti il biogas, il bioidrogeno e il gas sintetico impiegati come carburante in caso di immissione nella rete di gas naturale o di consegna diretta a una stazione di rifornimento
 
 [^chap4-sec4-1]
 
@@ -889,11 +899,20 @@ Gli importi inferiori a 100 franchi non sono restituiti.
 
 <sup>1</sup> Le restituzioni dell’imposta ai sensi dell’articolo 18 capoversi 1<sup>bis</sup>, 1<sup>ter</sup>, 2 e 3 LIOm sono accordate su domanda.
 
-<sup>2</sup> Per le merci consumate più di due anni prima dell’inoltro della domanda non esiste più nessun diritto alla restituzione dell’imposta.
+<sup>2</sup> Le domande di restituzione devono essere inoltrate entro sei mesi dalla fine dell’anno d’esercizio nel quale il carburante è stato consumato. La restituzione non è accordata in caso di domande inoltrate in ritardo.[^48-2]
 
-<sup>3</sup> In singoli casi, l’autorità fiscale può prevedere la restituzione dell’imposta anche per merci consumate anteriormente se il richiedente non ha osservato, senza sua colpa, il termine o se il pagamento dell’imposta costituisce un rigore inaccettabile.
+<sup>3</sup>
+
+Per le seguenti restituzioni l’anno civile è considerato come anno d’esercizio:
+
+- a. restituzioni a richiedenti che non devono tenere la contabilità conformemente all’articolo 957 capoverso 1 del Codice delle obbligazioni[^48-3];
+- b. restituzioni per il carburante utilizzato da imprese di trasporto concessionarie della Confederazione;
+- c. restituzioni per il carburante utilizzato per l’agricoltura.[^48-4]
 
 [^48-1]: Nuovo testo giusta il n. I dell’O del 1° lug. 2020, in vigore dal 1° gen. 2021 ([RU 2020 3355](https://fedlex.data.admin.ch/eli/oc/2020/574)).
+[^48-2]: Nuovo testo giusta il n. I dell’O del 25 ott. 2023, in vigore dal 1° gen. 2024 ([RU 2023 629](https://fedlex.data.admin.ch/eli/oc/2023/629)).
+[^48-3]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^48-4]: Nuovo testo giusta il n. I dell’O del 25 ott. 2023, in vigore dal 1° gen. 2024 ([RU 2023 629](https://fedlex.data.admin.ch/eli/oc/2023/629)).
 
 #### Art. 48a
 
@@ -935,9 +954,10 @@ I controlli del consumo devono menzionare il genere e la quantità di carburante
 
 <sup>1</sup> Le domande di restituzione devono essere inoltrate all’autorità fiscale nella forma da essa autorizzata.[^51-1]
 
-<sup>2</sup> Esse vertono sul consumo durante un periodo di un mese sino a 12 mesi.
+<sup>2</sup> Esse vertono sul consumo durante un periodo di un mese sino a 12 mesi nell’arco di un anno civile.[^51-2]
 
 [^51-1]: Nuovo testo giusta il n. I dell’O del 1° lug. 2020, in vigore dal 1° gen. 2021 ([RU 2020 3355](https://fedlex.data.admin.ch/eli/oc/2020/574)).
+[^51-2]: Nuovo testo giusta il n. I dell’O del 25 ott. 2023, in vigore dal 1° gen. 2024 ([RU 2023 629](https://fedlex.data.admin.ch/eli/oc/2023/629)).
 
 ### Sezione 3: Restituzione dell’imposta per gli idrocarburi gassosi
 
@@ -988,7 +1008,7 @@ Il depositario autorizzato tiene un controllo delle ore di funzionamento dell’
 
 Il depositario autorizzato chiede per scritto all’autorità fiscale la restituzione giusta l’articolo 18 capoverso 1 lettera b LIOm. Egli allega alla domanda i mezzi di prova, in particolare quelli concernenti l’uscita dal deposito, l’imposizione e la reimmissione della merce nel deposito autorizzato.
 
-### Sezione 4*a*:**** Restituzione dell’imposta per i veicoli adibiti alla preparazione di piste
+### Sezione 4*a*: Restituzione dell’imposta per i veicoli adibiti alla preparazione di piste
 
 [^chap5-sec4a-1]
 
@@ -1103,7 +1123,7 @@ Il DFF fissa le norme; esso tiene conto a tal fine dei seguenti tipi d’attivit
 
 <sup>2</sup> Esse vertono sull’anno civile trascorso o sull’anno forestale; fa stato la situazione aziendale dell’ultimo giorno del sesto mese.
 
-### Sezione 6*a*:**** Restituzione dell’imposta per l’estrazione della pietra da taglio naturale
+### Sezione 6*a*: Restituzione dell’imposta per l’estrazione della pietra da taglio naturale
 
 [^chap5-sec6a-1]
 
@@ -1131,7 +1151,10 @@ I controlli del consumo devono menzionare il genere e la quantità di carburante
 - b. la quantità di chilometri percorsi o di ore di funzionamento, suddivise tra scopi fruenti e scopi non fruenti dell’agevolazione fiscale;
 - c. i dati necessari per l’identificazione del veicolo o della macchina, in particolare il numero di telaio o il numero di serie.
 
+<sup>3</sup> Se un veicolo o una macchina non è dotato di serie di un contachilometri o di un contatore delle ore di funzionamento e se il suo equipaggiamento con un contatore risulta sproporzionato, l’autorità fiscale può autorizzare, su domanda, che nel controllo del consumo non siano menzionati i dati di cui al capoverso 2 lettera a.[^62b-2]
+
 [^62b-1]: Nuovo testo giusta il n. I dell’O del 1° lug. 2020, in vigore dal 1° gen. 2021 ([RU 2020 3355](https://fedlex.data.admin.ch/eli/oc/2020/574)).
+[^62b-2]: Introdotto dal n. I dell’O del 25 ott. 2023, in vigore dal 1° gen. 2024 ([RU 2023 629](https://fedlex.data.admin.ch/eli/oc/2023/629)).
 
 #### Art. 62c
 
@@ -1204,7 +1227,10 @@ I controlli del consumo devono menzionare il genere e la quantità di carburante
 - b. la quantità di ore di funzionamento, suddivise tra scopi fruenti e scopi non fruenti dell’agevolazione fiscale;
 - c. i dati necessari per l’identificazione della macchina o dell’impianto, in particolare il numero di serie.
 
+<sup>3</sup> Se una macchina o un impianto non è dotato di serie di un contatore delle ore di funzionamento e se il suo equipaggiamento con un contatore risulta sproporzionato, l’autorità fiscale può autorizzare, su domanda, che nel controllo del consumo non siano menzionati i dati di cui al capoverso 2 lettera a.[^66a-2]
+
 [^66a-1]: Introdotto dal n. I dell’O del 1° lug. 2020, in vigore dal 1° gen. 2021 ([RU 2020 3355](https://fedlex.data.admin.ch/eli/oc/2020/574)).
+[^66a-2]: Introdotto dal n. I dell’O del 25 ott. 2023, in vigore dal 1° gen. 2024 ([RU 2023 629](https://fedlex.data.admin.ch/eli/oc/2023/629)).
 
 #### Art. 66b
 
@@ -1478,9 +1504,9 @@ I rapporti devono:
 
 **Ditte depositarie**
 
-<sup>1</sup> Le ditte depositarie che per conto e sotto la responsabilità dei depositari autorizzati si assumono i compiti contemplati dalla presente sezione, redigono la contabilità merci e i rapporti separatamente per ogni depositario.
+Le ditte depositarie che per conto e sotto la responsabilità dei depositari autorizzati si assumono i compiti contemplati dalla presente sezione, redigono la contabilità merci e i rapporti separatamente per ogni depositario.
 
-### Sezione 6: Depositi di scorte obbligatorie fuori dei depositi autorizzati****
+### Sezione 6: Depositi di scorte obbligatorie fuori dei depositi autorizzati
 
 [^chap6-sec6-1]
 
@@ -1543,11 +1569,11 @@ L’esportazione di merci non imponibili depositate come scorte obbligatorie fuo
 Per 1000 litri a 15°C l’olio da riscaldamento extra leggero deve contenere, ben amalgamato, almeno:
 
 - a. 4,2 9 N-etil-1-4(4-fenilazofenilazo)naftil-2-ammina, o 5,5 g N-(2-etilesil)-1-[[2-metil-4-[(2-metilfenil)fenil]azo]fenil]azo]naftil-2-ammina, o 6,3 g N-(tridecil)-1-[[2-metil-4-[(2-metilfenil)fenil]azo]fenil]azo]naftil-2-ammina, o una miscela dal potere colorante equivalente composta di tali coloranti; e
-- b.[^90-1] 6,0 g N-etil-N-[2-(1-isobutossietossi)etil]-4-(fenilazo)anilina.
+- b.[^90-1] 6,0 g N-etil-N-[2-(1-isobutossietossi)etil]-4-(fenilazo)anilina (n. CAS 34432-92-3) o 9,5 g butossibenzene (n. CAS 1126-79-0).
 
 <sup>2</sup> Le quantità di cui al capoverso 1 possono essere superate al massimo del 50 per cento.[^90-2]
 
-[^90-1]: Nuovo testo giusta il n. I dell’O del 3 lug. 2002 ([RU 2002 2084](https://fedlex.data.admin.ch/eli/oc/2002/309)). Vedi anche le disp. trans. alla fine di questo testo.
+[^90-1]: Nuovo testo giusta il n. I dell’O del 25 ott. 2023, in vigore dal 1° gen. 2024 ([RU 2023 629](https://fedlex.data.admin.ch/eli/oc/2023/629)).
 [^90-2]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4479](https://fedlex.data.admin.ch/eli/oc/2013/792)).
 
 #### Art. 91
@@ -1794,7 +1820,7 @@ La procedura secondo il capoverso 1:
 
 <sup>3</sup> La procedura di trasporto dev’essere ultimata al più tardi dopo tre mesi.
 
-## Capitolo 8*a*:**** Interesse rimunerativo
+## Capitolo 8*a*: Interesse rimunerativo
 
 [^chap8a-1]
 
@@ -1822,7 +1848,7 @@ La procedura secondo il capoverso 1:
 
 La presente ordinanza entra in vigore il 1° gennaio 1997.
 
-## Disposizione transitoria della modifica del 3 luglio 2002****
+## Disposizione transitoria della modifica del 3 luglio 2002
 
 [^u1-1]
 
@@ -1832,7 +1858,7 @@ La presente ordinanza entra in vigore il 1° gennaio 1997.
 
 <sup>2</sup> Le sostanze per la colorazione e la marcatura già immagazzinate in un deposito autorizzato il 1° agosto 2002 possono essere utilizzate ulteriormente per la colorazione e la marcatura.
 
-## Disposizione transitoria della modifica del 4 maggio 2016****
+## Disposizione transitoria della modifica del 4 maggio 2016
 
 [^u2-1]
 
@@ -1840,13 +1866,23 @@ La presente ordinanza entra in vigore il 1° gennaio 1997.
 
 Le agevolazioni fiscali per carburanti provenienti da materie prime rinnovabili concesse prima dell’entrata in vigore della modifica del 4 maggio 2016 rimangono valide fino alla loro scadenza.
 
-## Disposizione transitoria della modifica del 1° luglio 2020****
+## Disposizione transitoria della modifica del 1° luglio 2020
 
 [^u3-1]
 
 [^u3-1]: [RU 2020 3355](https://fedlex.data.admin.ch/eli/oc/2020/574)
 
 Le agevolazioni fiscali per biocarburanti la cui durata di validità non è ancora scaduta il 30 giugno 2020 rimangono valide fino al 31 dicembre 2023.
+
+## Disposizioni transitorie della modifica del 25 ottobre 2023
+
+[^u4-1]
+
+[^u4-1]: [RU 2023 629](https://fedlex.data.admin.ch/eli/oc/2023/629)
+
+<sup>1</sup> Le agevolazioni fiscali per biocarburanti concesse con decisione datata tra il 1° gennaio 2018 e il 31 dicembre 2024 sono valide fino al 31 dicembre 2024.
+
+<sup>2</sup> Alle domande di agevolazione fiscale per biocarburanti inoltrate prima dell’entrata in vigore della modifica del 25 ottobre 2023 si applica l’articolo 19*d* secondo il diritto anteriore.
 
 Allegato 1
 
@@ -1863,39 +1899,39 @@ Allegato 1
 [^annex1-lvlu1-2]: [[RU 1972 1888](https://fedlex.data.admin.ch/eli/oc/1972/1684_1712_1888), [1975 1711](https://fedlex.data.admin.ch/eli/oc/1975/1711_1711_1711), [1985 826](https://fedlex.data.admin.ch/eli/oc/1985/826_826_826), [1986 350](https://fedlex.data.admin.ch/eli/oc/1986/350_350_350), **1987** 2366]
 [^annex1-lvlu1-3]: Le mod. possono essere consultate alla [RU 1996 3393](https://fedlex.data.admin.ch/eli/oc/1996/3393_3393_3393).
 
-Allegato 2*[^t-1]*
+Allegato 2[^t-1]
 
 (art. 19*b*)
 
 ## Tariffa d’imposta per biocarburanti
 
-[^t-1]: Introdotto dal n. II dell’O del 30 gen. 2008 ([RU 2008 583](https://fedlex.data.admin.ch/eli/oc/2008/133)). Nuovo testo giusta il n. II dell’O del 4 mag. 2016 ([RU 2016 2667](https://fedlex.data.admin.ch/eli/oc/2016/426)). Aggiornato dall’all. 3 n. 9 dell’O del 10 giu. 2016 concernente la modifica della tariffa doganale ([RU 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)) e dal n. II dell’O del 1° lug. 2020, in vigore dal 1° gen. 2021 ([RU 2020 3355](https://fedlex.data.admin.ch/eli/oc/2020/574)).
+[^t-1]: Introdotto dal n. II dell’O del 30 gen. 2008 ([RU 2008 583](https://fedlex.data.admin.ch/eli/oc/2008/133)). Nuovo testo giusta il n. II dell’O del 4 mag. 2016 ([RU 2016 2667](https://fedlex.data.admin.ch/eli/oc/2016/426)). Aggiornato dall’all. 3 n. 9 dell’O del 10 giu. 2016 concernente la modifica della tariffa doganale ([RU 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)), dal n. II delle O del 1° lug. 2020 ([RU 2020 3355](https://fedlex.data.admin.ch/eli/oc/2020/574)) e del 25 ott. 2023, in vigore dal 1° gen. 2024 ([RU 2023 629](https://fedlex.data.admin.ch/eli/oc/2023/629)).
 
 <table>
-<tr><th>Voce di tariffa</th><th colspan="2">Designazione della merce</th><th>Aliquota d’imposta</th><th>Supplemento fiscale</th></tr>
-<tr><td></td><td colspan="2"></td><td>per 1000 l a 15 °C fr.</td><td>per 1000 l a 15 °C fr.</td></tr>
-<tr><td>2207.1000 2000</td><td colspan="2">Bioetanolo</td><td>0.00</td><td>0.00</td></tr>
-<tr><td>3826.0010</td><td colspan="2">Biodiesel</td><td>0.00</td><td>0.00</td></tr>
-<tr><td></td><td colspan="2"></td><td>per 1000 kg fr.</td><td>per 1000 kg fr.</td></tr>
-<tr><td>2711.1910</td><td colspan="2">Biogas, liquefatto</td><td>0.00</td><td>0.00</td></tr>
-<tr><td>2711.2910</td><td colspan="2">Biogas, allo stato gassoso</td><td>0.00</td><td>0.00</td></tr>
-<tr><td></td><td colspan="2"></td><td>per 1000 l a 15 °C fr.</td><td>per 1000 l a 15 °C fr.</td></tr>
-<tr><td>2905.1110</td><td colspan="2">Biometanolo</td><td>0.00</td><td>0.00</td></tr>
-<tr><td>2909.1910</td><td colspan="2">Biodimetiletere</td><td>0.00</td><td>0.00</td></tr>
-<tr><td></td><td colspan="2"></td><td>per 1000 kg fr.</td><td>per 1000 kg fr.</td></tr>
-<tr><td>2804.1000</td><td colspan="2">Bioidrogeno:</td><td></td><td></td></tr>
-<tr><td></td><td colspan="2">– allo stato gassoso</td><td>0.00</td><td>0.00</td></tr>
-<tr><td></td><td colspan="2"></td><td>per 1000 l a 15 °C fr.</td><td>per 1000 l a 15 °C fr.</td></tr>
-<tr><td></td><td colspan="2">– liquefatto</td><td>0.00</td><td>0.00</td></tr>
-<tr><td></td><td colspan="2">Biocarburanti sintetici:</td><td></td><td></td></tr>
-<tr><td>2710.1912 1919</td><td colspan="2">– oli e grassi vegetali e animali idrogenati</td><td>0.00</td><td>0.00</td></tr>
-<tr><td colspan="2"></td><td></td><td>per 1000 kg fr.</td><td>per 1000 kg fr.</td></tr>
-<tr><td>2711.1910</td><td colspan="2">– gas sintetico, liquefatto</td><td>0.00</td><td>0.00</td></tr>
-<tr><td></td><td colspan="2"></td><td>per 1000 l a 15 °C fr.</td><td>per 1000 l a 15 °C fr.</td></tr>
-<tr><td>3824.9920</td><td colspan="2">– residui di distillazione di biodiesel</td><td>0.00</td><td>0.00</td></tr>
-<tr><td></td><td colspan="2"></td><td>per 1000 kg fr.</td><td>per 1000 kg fr.</td></tr>
-<tr><td></td><td colspan="2">Biocarburanti sintetici:</td><td></td><td></td></tr>
-<tr><td>2711.2910</td><td colspan="2">– gas sintetico, allo stato gassoso</td><td>0.00</td><td>0.00</td></tr>
-<tr><td></td><td colspan="2"></td><td>per 1000 l a 15 °C fr.</td><td>per 1000 l a 15 °C fr.</td></tr>
-<tr><td>Cap. 15</td><td colspan="2">Oli vegetali e animali o oli usati vegetali e animali</td><td>0.00</td><td>0.00</td></tr>
+<tr><th>Voce di tariffa</th><th>Designazione della merce</th><th>Aliquota d’imposta</th><th>Supplemento fiscale</th></tr>
+<tr><td></td><td></td><td>per 1000 l a 15 °C fr.</td><td>per 1000 l a 15 °C fr.</td></tr>
+<tr><td>2207.1000 2000</td><td>Bioetanolo</td><td>0.00</td><td>0.00</td></tr>
+<tr><td>3826.0010</td><td>Biodiesel</td><td>0.00</td><td>0.00</td></tr>
+<tr><td></td><td></td><td>per 1000 kg fr.</td><td>per 1000 kg fr.</td></tr>
+<tr><td>2711.1910</td><td>Biogas, liquefatto</td><td>0.00</td><td>0.00</td></tr>
+<tr><td>2711.2910</td><td>Biogas, allo stato gassoso</td><td>0.00</td><td>0.00</td></tr>
+<tr><td></td><td></td><td>per 1000 l a 15 °C fr.</td><td>per 1000 l a 15 °C fr.</td></tr>
+<tr><td>2905.1110</td><td>Biometanolo</td><td>0.00</td><td>0.00</td></tr>
+<tr><td>2909.1910</td><td>Biodimetiletere</td><td>0.00</td><td>0.00</td></tr>
+<tr><td></td><td></td><td>per 1000 kg fr.</td><td>per 1000 kg fr.</td></tr>
+<tr><td>2804.1000</td><td>Bioidrogeno:</td><td></td><td></td></tr>
+<tr><td></td><td>– allo stato gassoso</td><td>0.00</td><td>0.00</td></tr>
+<tr><td></td><td></td><td>per 1000 l a 15 °C fr.</td><td>per 1000 l a 15 °C fr.</td></tr>
+<tr><td></td><td>– liquefatto</td><td>0.00</td><td>0.00</td></tr>
+<tr><td></td><td>Biocarburanti sintetici:</td><td></td><td></td></tr>
+<tr><td>2710.1911 1912 1919</td><td>– oli e grassi vegetali e animali idrogenati</td><td>0.00</td><td>0.00</td></tr>
+<tr><td></td><td>[tab]</td><td>per 1000 kg fr.</td><td>per 1000 kg fr.</td></tr>
+<tr><td>2711.1910</td><td>– gas sintetico, liquefatto</td><td>0.00</td><td>0.00</td></tr>
+<tr><td></td><td></td><td>per 1000 l a 15 °C fr.</td><td>per 1000 l a 15 °C fr.</td></tr>
+<tr><td>3824.9920</td><td>– residui di distillazione di biodiesel</td><td>0.00</td><td>0.00</td></tr>
+<tr><td></td><td></td><td>per 1000 kg fr.</td><td>per 1000 kg fr.</td></tr>
+<tr><td></td><td>Biocarburanti sintetici:</td><td></td><td></td></tr>
+<tr><td>2711.2910</td><td>– gas sintetico, allo stato gassoso</td><td>0.00</td><td>0.00</td></tr>
+<tr><td></td><td></td><td>per 1000 l a 15 °C fr.</td><td>per 1000 l a 15 °C fr.</td></tr>
+<tr><td>Cap. 15</td><td>Oli vegetali e animali o oli usati vegetali e animali</td><td>0.00</td><td>0.00</td></tr>
 </table>

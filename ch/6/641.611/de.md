@@ -4,11 +4,11 @@ title: Mineralölsteuerverordnung vom 20. November 1996 (MinöStV)
 short: MinöStV
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/3393_3393_3393"
 language: de
-version: 2022-01-01
+version: 2024-01-01
 adopted: 1996-11-20
 in_force: 1997-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/3393_3393_3393/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1996-3393_3393_3393-20220101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/3393_3393_3393/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/3393_3393_3393/20240101/de/xml/fedlex-data-admin-ch-eli-cc-1996-3393_3393_3393-20240101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/3393_3393_3393/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1996/3393_3393_3393/20220101/de"
 
 (MinöStV)
 
-vom 20. November 1996 (Stand am 1. Januar 2022)
+vom 20. November 1996 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -236,7 +236,7 @@ In den Steueranmeldungen und den periodischen Meldungen müssen:
 
 Der Mineralölsteuerzuschlag für Erdgas und andere gasförmige Kohlenwasserstoffe der Zolltarifnummern 2711.2110 und 2910 von 300 Franken je 1000 l bei 15 °C entspricht 399.30 Franken je 1000 kg.
 
-### 1*a*. Abschnitt:**** Biogene Treibstoffe
+### 1*a*. Abschnitt: Biogene Treibstoffe
 
 [^chap2-sec1a-1]
 
@@ -259,9 +259,11 @@ Als biogene Treibstoffe gelten:
 
 #### Art. 19b
 
-**Steuererleichterung für biogene Treibstoffe**
+**Steuererleichterung für biogene Treibstoffe**[^19b-1]
 
 Die Steuererleichterung für biogene Treibstoffe wird auf Gesuch hin nach dem Tarif in Anhang 2 gewährt.
+
+[^19b-1]: Siehe jedoch die UeB am Ende dieses Textes.
 
 #### Art. 19c
 
@@ -296,29 +298,37 @@ Flächen mit grosser biologischer Vielfalt sind insbesondere Flächen in Schutzg
 Die Anforderungen nach Artikel 12*b* Absatz 1 Buchstaben d und e MinöStG (soziale Anforderungen) sind erfüllt, wenn:
 
 - a. die Flächen, auf denen die für die biogenen Treibstoffe benötigten Rohstoffe angebaut werden, rechtmässig erworben wurden, wobei sich der rechtmässige Erwerb nach dem nationalen Recht und den internationalen Verpflichtungen des Staats, in dem sich die Anbauflächen befinden, sowie nach den von ihm anerkannten internationalen Standards richtet; und
-- b. beim Anbau der Rohstoffe und bei der Herstellung der biogenen Treibstoffe die am Anbauort und am Herstellungsort anwendbare soziale Gesetzgebung, mindestens aber die Kernübereinkommen der Internationalen Arbeitsorganisation (ILO) eingehalten werden.
+- b.[^19d-1] beim Anbau der Rohstoffe und bei der Herstellung der biogenen Treibstoffe die am Anbauort und am Herstellungsort anwendbare soziale Gesetzgebung, mindestens aber die grundlegenden Prinzipien und Rechte der Arbeitnehmerinnen und Arbeitnehmer, die Gegenstand der Kernübereinkommen der Internationalen Arbeitsorganisation (ILO) sind, eingehalten werden.
 
 <sup>2</sup>
 
-Als Kernübereinkommen der ILO gelten:
+Die Kernübereinkommen der ILO sind:[^19d-2]
 
-- a. Übereinkommen Nr. 29 vom 28. Juni 1930[^19d-1] über Zwangs- oder Pflichtarbeit;
-- b Übereinkommen Nr. 87 vom 9. Juli 1948[^19d-2] über die Vereinigungsfreiheit und den Schutz des Vereinigungsrechtes;
-- c. Übereinkommen Nr. 98 vom 1. Juli 1949[^19d-3] über die Anwendung der Grundsätze des Vereinigungsrechtes und des Rechtes zu Kollektivverhandlungen;
-- d. Übereinkommen Nr. 100 vom 29. Juni 1951[^19d-4] über die Gleichheit des Entgelts männlicher und weiblicher Arbeitskräfte für gleichwertige Arbeit;
-- e. Übereinkommen Nr. 105 vom 25. Juni 1957[^19d-5] über die Abschaffung der Zwangsarbeit;
-- f. Übereinkommen Nr. 111 vom 25. Juni 1958[^19d-6] über die Diskriminierung in Beschäftigung und Beruf;
-- g. Übereinkommen Nr. 138 vom 26. Juni 1973[^19d-7] über das Mindestalter für die Zulassung zur Beschäftigung;
-- h. Übereinkommen Nr. 182 vom 17. Juni 1999[^19d-8] über das Verbot und unverzügliche Massnahmen zur Beseitigung der schlimmsten Formen der Kinderarbeit.
+- a. Übereinkommen Nr. 29 vom 28. Juni 1930[^19d-3] über Zwangs- oder Pflichtarbeit;
+- b Übereinkommen Nr. 87 vom 9. Juli 1948[^19d-4] über die Vereinigungsfreiheit und den Schutz des Vereinigungsrechtes;
+- c. Übereinkommen Nr. 98 vom 1. Juli 1949[^19d-5] über die Anwendung der Grundsätze des Vereinigungsrechtes und des Rechtes zu Kollektivverhandlungen;
+- d. Übereinkommen Nr. 100 vom 29. Juni 1951[^19d-6] über die Gleichheit des Entgelts männlicher und weiblicher Arbeitskräfte für gleichwertige Arbeit;
+- e. Übereinkommen Nr. 105 vom 25. Juni 1957[^19d-7] über die Abschaffung der Zwangsarbeit;
+- f. Übereinkommen Nr. 111 vom 25. Juni 1958[^19d-8] über die Diskriminierung in Beschäftigung und Beruf;
+- g. Übereinkommen Nr. 138 vom 26. Juni 1973[^19d-9] über das Mindestalter für die Zulassung zur Beschäftigung;
+- g<sup>bis</sup>.[^19d-10] Übereinkommen Nr. 155 vom 22. Juni 1981[^19d-11] über Arbeitsschutz und Arbeitsumwelt;
+- h. Übereinkommen Nr. 182 vom 17. Juni 1999[^19d-12] über das Verbot und unverzügliche Massnahmen zur Beseitigung der schlimmsten Formen der Kinderarbeit;
+- i.[^19d-13] Übereinkommen Nr. 187 vom 15. Juni 2006[^19d-14] über den Förderungsrahmen für den Arbeitsschutz.
 
-[^19d-1]: [SR 0.822.713.9](https://fedlex.data.admin.ch/eli/cc/56/956_1002_1260)
-[^19d-2]: [SR 0.822.719.7](https://fedlex.data.admin.ch/eli/cc/1976/689_689_689)
-[^19d-3]: [SR 0.822.719.9](https://fedlex.data.admin.ch/eli/cc/2001/188)
-[^19d-4]: [SR 0.822.720.0](https://fedlex.data.admin.ch/eli/cc/1973/1602_1602_1602)
-[^19d-5]: [SR 0.822.720.5](https://fedlex.data.admin.ch/eli/cc/1958/485_507_507)
-[^19d-6]: [SR 0.822.721.1](https://fedlex.data.admin.ch/eli/cc/1961/810_824_840)
-[^19d-7]: [SR 0.822.723.8](https://fedlex.data.admin.ch/eli/cc/2001/204)
-[^19d-8]: [SR 0.822.728.2](https://fedlex.data.admin.ch/eli/cc/2003/168)
+[^19d-1]: Fassung gemäss Ziff. I der V vom 25. Okt. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 629](https://fedlex.data.admin.ch/eli/oc/2023/629)). Siehe auch die UeB dieser Änd. am Ende dieses Textes.
+[^19d-2]: Fassung gemäss Ziff. I der V vom 25. Okt. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 629](https://fedlex.data.admin.ch/eli/oc/2023/629)).
+[^19d-3]: [SR 0.822.713.9](https://fedlex.data.admin.ch/eli/cc/56/956_1002_1260)
+[^19d-4]: [SR 0.822.719.7](https://fedlex.data.admin.ch/eli/cc/1976/689_689_689)
+[^19d-5]: [SR 0.822.719.9](https://fedlex.data.admin.ch/eli/cc/2001/188)
+[^19d-6]: [SR 0.822.720.0](https://fedlex.data.admin.ch/eli/cc/1973/1602_1602_1602)
+[^19d-7]: [SR 0.822.720.5](https://fedlex.data.admin.ch/eli/cc/1958/485_507_507)
+[^19d-8]: [SR 0.822.721.1](https://fedlex.data.admin.ch/eli/cc/1961/810_824_840)
+[^19d-9]: [SR 0.822.723.8](https://fedlex.data.admin.ch/eli/cc/2001/204)
+[^19d-10]: Eingefügt durch Ziff. I der V vom 25. Okt. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 629](https://fedlex.data.admin.ch/eli/oc/2023/629)).
+[^19d-11]: www.ilo.org/normlex &gt; Instruments &gt; Conventions &gt; Fondamentales &gt; C155
+[^19d-12]: [SR 0.822.728.2](https://fedlex.data.admin.ch/eli/cc/2003/168)
+[^19d-13]: Eingefügt durch Ziff. I der V vom 25. Okt. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 629](https://fedlex.data.admin.ch/eli/oc/2023/629)).
+[^19d-14]: www.ilo.org/normlex &gt; Instruments &gt; Conventions &gt; Fondamentales &gt; C187
 
 #### Art. 19e
 
@@ -626,7 +636,7 @@ Treibstoffe, die als Betriebsmittel im Fahrzeugtank eingeführt werden, sind ste
 
 <sup>1</sup> Treibstoffe, die aus Biomasse oder anderen erneuerbaren Energieträgern in Pilot- und Demonstrationsanlagen hergestellt werden, jedoch nicht unter Artikel 19*a* fallen, sind steuerfrei; sie dürfen einen sehr geringen Anteil an nicht erneuerbaren Energieträgern enthalten, sofern dies für die Herstellung des Treibstoffs unabdingbar ist.[^35-1]
 
-<sup>2</sup> ...[^35-2]
+<sup>2</sup> …[^35-2]
 
 <sup>3</sup>
 
@@ -767,7 +777,7 @@ Die periodische Steueranmeldung ist in der vorgeschriebenen Form abzugeben und u
 
 <sup>4</sup> Die Steuerbehörde entscheidet über den Steuererlass.
 
-### 3. Abschnitt:**** Treibstoffgemische
+### 3. Abschnitt: Treibstoffgemische
 
 [^chap4-sec3-1]
 
@@ -797,7 +807,7 @@ Sie wird in Form eines Vorschusses gewährt für Waren, die:
 Für Waren nach Artikel 45*a* Absatz 2 Buchstabe a muss der Importeur, der auf der Einfuhrzollanmeldung aufgeführt ist, den Vorschuss beantragen:
 
 - a. mit der periodischen Steueranmeldung;
-- b.[^45b-1] ...
+- b.[^45b-1] …
 - c. auf eine andere von der Steuerbehörde zugelassene Weise.
 
 <sup>2</sup> Für Waren nach Artikel 45*a* Absatz 2 Buchstabe b muss der zugelassene Lagerinhaber den Vorschuss mit der periodischen Steueranmeldung beantragen.
@@ -832,7 +842,7 @@ Treibstoffanteile nach Artikel 20*a* Absatz 2 MinöStG müssen nicht separat ang
 
 [^45d-1]: Fassung gemäss Ziff. I der V vom 4. Mai 2016, in Kraft seit 1. Aug. 2016 ([AS 2016 2667](https://fedlex.data.admin.ch/eli/oc/2016/426)).
 
-### 4*.* Abschnitt:**** Besondere Bestimmungen für Biogas, Biowasserstoff und synthetisches Gas als Treibstoff bei Einspeisung ins Erdgasnetz oder bei Direktabgabe an einer Tankstelle
+### 4*.* Abschnitt: Besondere Bestimmungen für Biogas, Biowasserstoff und synthetisches Gas als Treibstoff bei Einspeisung ins Erdgasnetz oder bei Direktabgabe an einer Tankstelle
 
 [^chap4-sec4-1]
 
@@ -894,11 +904,20 @@ Rückerstattungsbeträge von weniger als 100 Franken werden nicht ausbezahlt.
 
 <sup>1</sup> Steuerrückerstattungen nach Artikel 18 Absätze 1<sup>bis</sup>, 1<sup>ter</sup>, 2 und 3 MinöStG werden auf Gesuch hin gewährt.
 
-<sup>2</sup> Für Waren, die mehr als zwei Jahre vor Einreichen des Gesuchs verbraucht worden sind, besteht kein Anspruch auf Steuerrückerstattung mehr.
+<sup>2</sup> Die Rückerstattungsgesuche sind innerhalb von sechs Monaten nach Ablauf des Geschäftsjahres, in dem der Treibstoff verbraucht wurde, einzureichen. Bei verspätet eingereichten Gesuchen wird keine Steuerrückerstattung gewährt.[^48-2]
 
-<sup>3</sup> Im Einzelfall kann die Steuerbehörde die Steuerrückerstattung auch für früher verbrauchte Waren vorsehen, wenn der Gesuchsteller oder die Gesuchstellerin die Frist unverschuldet nicht eingehalten hat oder wenn die Bezahlung der Steuer für den Gesuchsteller oder die Gesuchstellerin eine unzumutbare Härte bedeuten würde.
+<sup>3</sup>
+
+Für die folgenden Rückerstattungen gilt das Kalenderjahr als Geschäftsjahr:
+
+- a. Rückerstattungen an Gesuchstellerinnen und Gesuchsteller, die nicht nach Artikel 957 Absatz 1 des Obligationenrechts[^48-3] zur Führung einer Buchhaltung verpflichtet sind;
+- b. Rückerstattung für Treibstoff, der durch die vom Bund konzessionierten Transportunternehmungen verwendet wurde;
+- c. Rückerstattung für Treibstoff, der für die Landwirtschaft verwendet wurde.[^48-4]
 
 [^48-1]: Fassung gemäss Ziff. I der V vom 1. Juli 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 3355](https://fedlex.data.admin.ch/eli/oc/2020/574)).
+[^48-2]: Fassung gemäss Ziff. I der V vom 25. Okt. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 629](https://fedlex.data.admin.ch/eli/oc/2023/629)).
+[^48-3]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^48-4]: Fassung gemäss Ziff. I der V vom 25. Okt. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 629](https://fedlex.data.admin.ch/eli/oc/2023/629)).
 
 #### Art. 48a
 
@@ -940,9 +959,10 @@ Die Verbrauchskontrollen müssen die pro Fahrzeug verbrauchte Treibstoffart und 
 
 <sup>1</sup> Die Gesuche um Rückerstattung sind der Steuerbehörde in der von ihr zugelassenen Form einzureichen.[^51-1]
 
-<sup>2</sup> Sie können den Verbrauch von einem Monat bis zu zwölf Monaten umfassen.
+<sup>2</sup> Sie können den Verbrauch von einem Monat bis zu zwölf Monaten innerhalb eines Kalenderjahres umfassen.[^51-2]
 
 [^51-1]: Fassung gemäss Ziff. I der V vom 1. Juli 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 3355](https://fedlex.data.admin.ch/eli/oc/2020/574)).
+[^51-2]: Fassung gemäss Ziff. I der V vom 25. Okt. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 629](https://fedlex.data.admin.ch/eli/oc/2023/629)).
 
 ### 3. Abschnitt: Steuerrückerstattung für gasförmige Kohlenwasserstoffe
 
@@ -993,7 +1013,7 @@ Der zugelassene Lagerinhaber muss über die Betriebszeiten der Rückgewinnungsan
 
 Der zugelassene Lagerinhaber muss die Rückerstattung nach Artikel 18 Absatz 1 Buchstabe b des Gesetzes schriftlich bei der Steuerbehörde beantragen. Dem Antrag sind die Beweismittel beizulegen, insbesondere über die Auslagerung, die Versteuerung und die Wiedereinlagerung der Ware im zugelassenen Lager.
 
-### 4*a*. Abschnitt:**** Steuerrückerstattung für Pistenfahrzeuge
+### 4*a*. Abschnitt: Steuerrückerstattung für Pistenfahrzeuge
 
 [^chap5-sec4a-1]
 
@@ -1110,7 +1130,7 @@ Das EFD legt die Normen fest; es berücksichtigt dabei folgende Bewirtschaftungs
 
 [^62-1]: Ausdruck gemäss Ziff. I der V vom 1. Juli 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 3355](https://fedlex.data.admin.ch/eli/oc/2020/574)).
 
-### 6*a*. Abschnitt:**** Steuerrückerstattung an den Naturwerkstein-Abbau
+### 6*a*. Abschnitt: Steuerrückerstattung an den Naturwerkstein-Abbau
 
 [^chap5-sec6a-1]
 
@@ -1138,7 +1158,10 @@ Die Verbrauchskontrollen müssen die pro Fahrzeug und pro Maschine verbrauchte T
 - b. die Anzahl der gefahrenen Kilometer beziehungsweise aufgewendeten Betriebsstunden, getrennt nach steuerbegünstigten und nicht steuerbegünstigten Zwecken;
 - c. die für die Identifikation des Fahrzeugs oder der Maschine notwendigen Angaben, namentlich die Fahrgestellnummer oder die Seriennummer.
 
+<sup>3</sup> Ist ein Fahrzeug oder eine Maschine werksmässig nicht mit einem Kilometer- oder Betriebsstundenzähler ausgerüstet und wäre das Ausrüsten mit einem Zähler unverhältnismässig, so kann die Steuerbehörde auf Gesuch hin zulassen, dass in der Verbrauchskontrolle die Angaben nach Absatz 2 Buchstabe a nicht gemacht werden.[^62b-2]
+
 [^62b-1]: Fassung gemäss Ziff. I der V vom 1. Juli 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 3355](https://fedlex.data.admin.ch/eli/oc/2020/574)).
+[^62b-2]: Eingefügt durch Ziff. I der V vom 25. Okt. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 629](https://fedlex.data.admin.ch/eli/oc/2023/629)).
 
 #### Art. 62c
 
@@ -1211,7 +1234,10 @@ Die Verbrauchskontrollen müssen die pro Maschine oder Anlage verbrauchte Treibs
 - b. die Anzahl der aufgewendeten Betriebsstunden, getrennt nach steuerbegünstigten und nicht steuerbegünstigten Zwecken;
 - c. die für die Identifikation der Maschine oder Anlage erforderlichen Angaben, namentlich die Seriennummer.
 
+<sup>3</sup> Ist eine Maschine oder eine Anlage werksmässig nicht mit einem Betriebsstundenzähler ausgerüstet und wäre das Ausrüsten mit einem Zähler unverhältnismässig, so kann die Steuerbehörde auf Gesuch hin zulassen, dass in der Verbrauchskontrolle die Angaben nach Absatz 2 Buchstabe a nicht gemacht werden.[^66a-2]
+
 [^66a-1]: Eingefügt durch Ziff. I der V vom 1. Juli 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 3355](https://fedlex.data.admin.ch/eli/oc/2020/574)).
+[^66a-2]: Eingefügt durch Ziff. I der V vom 25. Okt. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 629](https://fedlex.data.admin.ch/eli/oc/2023/629)).
 
 #### Art. 66b
 
@@ -1487,7 +1513,7 @@ Die Meldungen müssen:
 
 Lagerfirmen, die im Auftrag und unter der Verantwortung von zugelassenen Lagerinhabern die Aufgaben nach diesem Abschnitt wahrnehmen, müssen die Warenbuchhaltungen und Meldungen für jeden zugelassenen Lagerinhaber getrennt erstellen.
 
-### 6. Abschnitt: Pflichtlager ausserhalb von zugelassenen Lagern****
+### 6. Abschnitt: Pflichtlager ausserhalb von zugelassenen Lagern
 
 [^chap6-sec6-1]
 
@@ -1550,11 +1576,11 @@ Unversteuerte Waren, die ausserhalb von zugelassenen Lagern auf Pflichtlager ein
 Heizöl extraleicht muss je 1000 Liter bei 15 °C, gleichmässig verteilt, mindestens enthalten:
 
 - a. 4,2 g N-Ethyl-1-4(4-phenylazophenylazo)naphtyl-2-amin, oder 5,5 g N-(2-Ethylhexyl)-1-[[2-methyl-4-[(2- methylphenyl)azo]phenyl]azo]naphthyl-2-amin, oder 6,3 gN-(Tridecyl)-1-[[2-methyl-4-[(2-methylphenyl)azo]phenyl]azo]naphthyl-2-amin, oder ein in der Farbwirkung äquivalentes Gemisch aus diesen Farbstoffen; und
-- b.[^90-1] 6,0 g N-Ethyl-N-[2-(1-isobutoxyethoxy)ethyl]-4-(phenylazo)anilin.
+- b.[^90-1] 6,0 g N-Ethyl-N-[2-(1-isobutoxyethoxy)ethyl]-4-(phenylazo)anilin (CAS-Nr.: 34432-92-3) oder 9,5 g Butoxybenzol (CAS-Nr.: 1126-79-0).
 
 <sup>2</sup> Die Mengen nach Absatz 1 dürfen um höchstens 50 Prozent überschritten werden.[^90-2]
 
-[^90-1]: Fassung gemäss Ziff. I der V vom 3. Juli 2002 ([AS 2002 2084](https://fedlex.data.admin.ch/eli/oc/2002/309)). Siehe jedoch die SchlB dieser Änd. am Ende dieses Textes.
+[^90-1]: Fassung gemäss Ziff. I der V vom 25. Okt. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 629](https://fedlex.data.admin.ch/eli/oc/2023/629)).
 [^90-2]: Fassung gemäss Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4479](https://fedlex.data.admin.ch/eli/oc/2013/792)).
 
 #### Art. 91
@@ -1732,7 +1758,7 @@ Als Begleitschein ist das amtliche Formular der Steuerbehörde zu verwenden. Dar
 - a.[^101-1] Versender, Empfänger, Bestimmungslager oder -zollstelle, Versanddatum, fortlaufende Nummer;
 - b. Transportmittel, Warenart nach Mineralölsteuertarif, Menge (in Liter bei 15 °C für Waren mit volumenbezogener, in Kilogramm für Waren mit massebezogener Bemessungsgrundlage);
 - c. Ort, Datum und Unterschrift;
-- d.[^101-2] ...
+- d.[^101-2] …
 
 <sup>4</sup> Die Steuerbehörde kann anstelle des amtlichen Formulars Handelsdokumente zulassen, sofern sie die notwendigen Angaben enthalten, und Zolldokumente vorschreiben.
 
@@ -1804,7 +1830,7 @@ Das Verfahren nach Absatz 1:
 
 <sup>3</sup> Das Verfahren für die Beförderung muss spätestens nach drei Monaten abgeschlossen sein.
 
-## 8*a*. Kapitel:**** Vergütungszins
+## 8*a*. Kapitel: Vergütungszins
 
 [^chap8a-1]
 
@@ -1818,7 +1844,7 @@ Das Verfahren nach Absatz 1:
 
 ## 9. Kapitel: Schlussbestimmungen
 
-### 1. Abschnitt: ...
+### 1. Abschnitt: …
 
 #### Art. 107–111
 
@@ -1832,7 +1858,7 @@ Das Verfahren nach Absatz 1:
 
 Diese Verordnung tritt am 1. Januar 1997 in Kraft.
 
-## Übergangsbestimmung zur Änderung vom 3. Juli 2002****
+## Übergangsbestimmung zur Änderung vom 3. Juli 2002
 
 [^u1-1]
 
@@ -1842,7 +1868,7 @@ Diese Verordnung tritt am 1. Januar 1997 in Kraft.
 
 <sup>2</sup> Farb- und Kennzeichnungsstoffe, die am 1. August 2002 bereits in zugelassenen Lagern vorhanden sind, können weiterhin für die Färbung und Kennzeichnung verwendet werden.
 
-## Übergangsbestimmung zur Änderung vom 4. Mai 2016****
+## Übergangsbestimmung zur Änderung vom 4. Mai 2016
 
 [^u2-1]
 
@@ -1850,13 +1876,23 @@ Diese Verordnung tritt am 1. Januar 1997 in Kraft.
 
 Steuererleichterungen, die vor Inkrafttreten der Änderung vom 4. Mai 2016 für Treibstoffe aus erneuerbaren Rohstoffen gewährt wurden, gelten bis zum Ablauf ihrer Geltungsdauer.
 
-## Übergangsbestimmung zur Änderung vom 1. Juli 2020****
+## Übergangsbestimmung zur Änderung vom 1. Juli 2020
 
 [^u3-1]
 
 [^u3-1]: [AS 2020 3355](https://fedlex.data.admin.ch/eli/oc/2020/574)
 
 Steuererleichterungen für biogene Treibstoffe, deren Geltungsdauer am 30. Juni 2020 noch nicht abgelaufen ist, gelten bis zum 31. Dezember 2023.
+
+## Übergangsbestimmungen zur Änderung vom 25. Oktober 2023
+
+[^u4-1]
+
+[^u4-1]: [AS 2023 629](https://fedlex.data.admin.ch/eli/oc/2023/629)
+
+<sup>1</sup> Steuererleichterungen für biogene Treibstoffe, die mit Verfügungsdatum zwischen dem 1. Januar 2018 und dem 31. Dezember 2024 gewährt wurden, gelten bis zum 31. Dezember 2024.
+
+<sup>2</sup> Für Gesuche um Steuererleichterungen für biogene Treibstoffe, die vor Inkrafttreten der Änderung vom 25. Oktober 2023 eingereicht werden, gilt Artikel 19*d* gemäss bisherigem Recht.
 
 Anhang 1
 
@@ -1867,19 +1903,19 @@ Anhang 1
 - a. die Verordnung vom 20. Dezember 1972[^annex1-lvlu1-1] über die Zollbehandlung von verarbeitetem Erdöl (Raffineriezollordnung);
 - b. die Verordnung vom 9. August 1972[^annex1-lvlu1-2] über die Gewichtsansätze und die Rückerstattung des Zollzuschlages auf Treibstoffen.
 
-2.–6. ...[^annex1-lvlu1-3]
+2.–6. …[^annex1-lvlu1-3]
 
 [^annex1-lvlu1-1]: [[AS 1972 2982](https://fedlex.data.admin.ch/eli/oc/1972/2982_3037_2817); **1987** 2347]
 [^annex1-lvlu1-2]: [[AS 1972 1684](https://fedlex.data.admin.ch/eli/oc/1972/1684_1712_1888); [1975 1711](https://fedlex.data.admin.ch/eli/oc/1975/1711_1711_1711); [1985 826](https://fedlex.data.admin.ch/eli/oc/1985/826_826_826);[1986 350](https://fedlex.data.admin.ch/eli/oc/1986/350_350_350);**1987** 2364]
 [^annex1-lvlu1-3]: Die Änderungen können unter [AS 1996 3393](https://fedlex.data.admin.ch/eli/oc/1996/3393_3393_3393)konsultiert werden.
 
-Anhang 2*[^t-1]*
+Anhang 2[^t-1]
 
 (Art. 19*b*)
 
 ## Steuertarif für biogene Treibstoffe
 
-[^t-1]: Eingefügt durch Ziff. II der V vom 30. Jan. 2008 ([AS 2008 583](https://fedlex.data.admin.ch/eli/oc/2008/133)). Fassung gemäss Ziff. I der V vom 4. Mai 2016 ([AS 2016 2667](https://fedlex.data.admin.ch/eli/oc/2016/426)). Bereinigt gemäss Anhang 3 Ziff. 9 der V vom 10. Juni 2016 über die Änderung des Zolltarifs ([AS 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)) und Ziff. II der V vom 1. Juli 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 3355](https://fedlex.data.admin.ch/eli/oc/2020/574)).
+[^t-1]: Eingefügt durch Ziff. II der V vom 30. Jan. 2008 ([AS 2008 583](https://fedlex.data.admin.ch/eli/oc/2008/133)). Fassung gemäss Ziff. I der V vom 4. Mai 2016 ([AS 2016 2667](https://fedlex.data.admin.ch/eli/oc/2016/426)). Bereinigt gemäss Anhang 3 Ziff. 9 der V vom 10. Juni 2016 über die Änderung des Zolltarifs ([AS 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)), Ziff. II der V vom 1. Juli 2020 ([AS 2020 3355](https://fedlex.data.admin.ch/eli/oc/2020/574)) und vom 25. Okt. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 629](https://fedlex.data.admin.ch/eli/oc/2023/629)).
 
 <table>
 <tr><th>Zolltarifnummer</th><th>Warenbezeichnung</th><th>Steuersatz</th><th>Steuerzuschlag</th></tr>
@@ -1898,7 +1934,7 @@ Anhang 2*[^t-1]*
 <tr><td></td><td></td><td>je 1000 l bei 15 °C Fr.</td><td>je 1000 l bei 15 °C Fr.</td></tr>
 <tr><td></td><td>– verflüssigt</td><td>0.00</td><td>0.00</td></tr>
 <tr><td></td><td>synthetische biogene Treibstoffe:</td><td></td><td></td></tr>
-<tr><td>2710.1912 1919</td><td>– Hydrierte pflanzliche und tierische Öle oder Fette</td><td>0.00</td><td>0.00</td></tr>
+<tr><td>2710.1911 1912 1919</td><td>– Hydrierte pflanzliche und tierische Öle oder Fette</td><td>0.00</td><td>0.00</td></tr>
 <tr><td></td><td></td><td>je 1000 kg Fr.</td><td>je 1000 kg Fr.</td></tr>
 <tr><td>2711.1910</td><td>– Synthetisches Gas, verflüssigt</td><td>0.00</td><td>0.00</td></tr>
 <tr><td></td><td></td><td>je 1000 l bei 15 °C Fr.</td><td>je 1000 l bei 15 °C Fr.</td></tr>
