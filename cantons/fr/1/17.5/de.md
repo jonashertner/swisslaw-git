@@ -4,13 +4,12 @@ number: "17.5"
 title: Gesetz über die Information und den Zugang zu Dokumenten
 short: InfoG
 language: de
-version: 2022-01-01
-valid_until: 2023-12-31
-version_adopted: 2021-10-07
+version: 2024-01-01
+version_adopted: 2023-10-12
 adopted: 2009-09-09
 in_force: 2011-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/17.5"
-pdf: "https://bdlf.fr.ch/api/de/versions/7470/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8413/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Information und Zugang zu Dokumenten – G
 
 (InfoG)
 
-vom 09.09.2009 (Fassung in Kraft getreten am 01.01.2022)
+vom 09.09.2009 (Fassung in Kraft getreten am 01.01.2024)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -56,10 +55,12 @@ beschliesst:
 <sup>1</sup> Dieses Gesetz gilt für folgende öffentliche Organe:
 
 - a) die Organe des Staates, der Gemeinden und der übrigen juristischen Personen des öffentlichen Rechts;
-- b) Privatpersonen und Organe privater Einrichtungen, die öffentlich-rechtliche Aufgaben erfüllen, soweit sie rechtsetzende Bestimmungen oder Entscheide im Sinne des Gesetzes über die Verwaltungsrechtspflege erlassen können;
+- b) Privatpersonen und Organe privater Einrichtungen, die öffentlich-rechtliche Aufgaben erfüllen, soweit sie rechtsetzende Bestimmungen oder Entscheide im Sinne des Gesetzes über die Verwaltungsrechtspflege[^2-1] erlassen können;
 - c) Privatpersonen und Organe privater Einrichtungen, die öffentlich-rechtliche Aufgaben im Bereich der Umwelt erfüllen, selbst wenn sie keine rechtsetzende Bestimmungen und keine Entscheide erlassen dürfen.
 
 <sup>2</sup> Die Bestimmungen über den Zugang zu den amtlichen Dokumenten (3. Kap.) gelten ausserdem in Situationen nach Artikel 20 Abs. 1<sup>bis</sup> zu den dort festgesetzten Bedingungen.
+
+[^2-1]: SGF [150.1](https://bdlf.fr.ch/data/150.1/de)
 
 #### Art. 3
 
@@ -70,7 +71,9 @@ beschliesst:
 <sup>2</sup> Es gilt folgendermassen für die anerkannten Kirchen:
 
 - a) Es gilt für die kirchlichen Körperschaften nur dann, wenn diese keine entsprechenden Bestimmungen erlassen haben.
-- b) Es gilt nicht für die juristischen Personen des Kirchenrechts im Sinne des Gesetzes über die Beziehungen zwischen den Kirchen und dem Staat.
+- b) Es gilt nicht für die juristischen Personen des Kirchenrechts im Sinne des Gesetzes über die Beziehungen zwischen den Kirchen und dem Staat[^3-1].
+
+[^3-1]: SGF [190.1](https://bdlf.fr.ch/data/190.1/de)
 
 ## 2 Information der Öffentlichkeit
 
@@ -178,7 +181,9 @@ beschliesst:
 
 <sup>2</sup> Der Staatsrat kann weitere Vermutungen zugunsten des Informationsinteresses der Öffentlichkeit aufstellen.
 
-<sup>3</sup> Die Vermutungen fallen dahin, wenn sensible Daten im Sinne des Gesetzes über den Datenschutz oder ein anderes besonderes Interesse der betroffenen Person berührt sind.
+<sup>3</sup> Die Vermutungen fallen dahin, wenn sensible Daten im Sinne des Gesetzes über den Datenschutz[^12-1] oder ein anderes besonderes Interesse der betroffenen Person berührt sind.
+
+[^12-1]: SGF [17.1](https://bdlf.fr.ch/data/17.1/de)
 
 #### Art. 13
 
@@ -194,7 +199,9 @@ beschliesst:
 - d) politische Ämter;
 - e) dauernde Leitungs- oder Beratungstätigkeiten für Interessengruppen.
 
-<sup>3</sup> Das Berufsgeheimnis im Sinne des Strafgesetzbuches bleibt vorbehalten.
+<sup>3</sup> Das Berufsgeheimnis im Sinne des Strafgesetzbuches[^13-1] bleibt vorbehalten.
+
+[^13-1]: SR [311.0](https://db.clex.ch/link/Bund/311.0/de)
 
 #### Art. 14
 
@@ -313,11 +320,13 @@ beschliesst:
 
 **Unentgeltlichkeit und Gebühren**
 
-<sup>1</sup> Der Zugang und das Zugangsverfahren sind in der Regel kostenlos; für das Beschwerdeverfahren vor dem Kantonsgericht gelten jedoch die Kostenvorschriften des Gesetzes über die Verwaltungsrechtspflege, wobei aber kein Kostenvorschuss verlangt werden kann.
+<sup>1</sup> Der Zugang und das Zugangsverfahren sind in der Regel kostenlos; für das Beschwerdeverfahren vor dem Kantonsgericht gelten jedoch die Kostenvorschriften des Gesetzes über die Verwaltungsrechtspflege[^24-1], wobei aber kein Kostenvorschuss verlangt werden kann.
 
 <sup>2</sup> Der Staatsrat kann für die Abgabe von Kopien, Drucksachen und Informationsträgern oder, wenn die Gewährung des Zugangs einen grossen Arbeitsaufwand erfordert, Ausnahmen von der Unentgeltlichkeit vorsehen; diese Ausnahmen gelten nicht für die Medien.
 
 <sup>3</sup> Die Spezialgesetzgebung bleibt zudem vorbehalten.
+
+[^24-1]: SGF [150.1](https://bdlf.fr.ch/data/150.1/de)
 
 ### 3.2 Umfang
 
@@ -331,7 +340,9 @@ beschliesst:
 
 <sup>3</sup> Die Bestimmungen der Bundesgesetzgebung und der kantonalen Gesetze, nach denen gewisse Informationen geheim oder nur unter besonderen Voraussetzungen zugänglich sind, bleiben vorbehalten; die allgemeinen Bestimmungen über das Amtsgeheimnis stehen dem Zugangsrecht jedoch nicht entgegen.
 
-<sup>4</sup> Betrifft das Zugangsgesuch Informationen über die Umwelt, so müssen die Ausnahmen beim Zugangsrecht in diesem Gesetz und in der Spezialgesetzgebung im Sinne der Aarhus-Konvention ausgelegt werden.
+<sup>4</sup> Betrifft das Zugangsgesuch Informationen über die Umwelt, so müssen die Ausnahmen beim Zugangsrecht in diesem Gesetz und in der Spezialgesetzgebung im Sinne der Aarhus-Konvention[^25-1] ausgelegt werden.
+
+[^25-1]: SR [0.814.07](https://db.clex.ch/link/Bund/0.814.07/de)
 
 #### Art. 26
 
@@ -425,9 +436,9 @@ beschliesst:
 
 **Schlichtung und Entscheid**
 
-<sup>1</sup> Die gesuchstellende Person und die Dritten, die Einspruch erhoben haben, können innert 30 Tagen nach der Stellungnahme des öffentlichen Organs gegen diese bei der oder dem Beauftragten für Öffentlichkeit und Transparenz einen Schlichtungsantrag stellen.
+<sup>1</sup> Die gesuchstellende Person und die Dritten, die Einspruch erhoben haben, können innert 30 Tagen nach der Stellungnahme des öffentlichen Organs gegen diese bei der oder dem Öffentlichkeits- und Datenschutzbeauftragten (der oder dem Beauftragten) einen Schlichtungsantrag stellen.
 
-<sup>2</sup> Kommt keine Schlichtung zustande, so gibt die oder der Beauftragte für Öffentlichkeit und Transparenz den Parteien eine schriftliche Empfehlung ab.
+<sup>2</sup> Kommt keine Schlichtung zustande, so gibt die oder der Beauftragte den Parteien eine schriftliche Empfehlung ab.
 
 <sup>3</sup> Ist eine Empfehlung abgegeben worden, so trifft das öffentliche Organ von Amtes wegen einen Entscheid; schliesst es sich der Empfehlung an, so kann zur Begründung auf diese verwiesen werden.
 
@@ -503,7 +514,7 @@ beschliesst:
 
 <sup>1</sup> Die übrigen Massnahmen zur Umsetzung des Rechts auf Zugang zu amtlichen Dokumenten werden von der Kantonalen Behörde für Öffentlichkeit, Datenschutz und Mediation getroffen; diese übt ausserdem die Aufsicht über diese Umsetzung aus.
 
-<sup>2</sup> Die Kantonale Behörde übt die Aufgaben, die ihr aufgrund dieses Gesetzes übertragen sind, über die kantonale Kommission und die Beauftragte oder den Beauftragten für Öffentlichkeit und Transparenz aus; im Übrigen wird sie unter Vorbehalt der nachfolgenden Bestimmungen durch die Datenschutzgesetzgebung geregelt.
+<sup>2</sup> Die Kantonale Behörde übt die Aufgaben, die ihr aufgrund dieses Gesetzes übertragen sind, über die kantonale Kommission und die Beauftragte oder den Beauftragten aus; im Übrigen wird sie unter Vorbehalt der nachfolgenden Bestimmungen durch die Datenschutzgesetzgebung geregelt.
 
 <sup>3</sup> Die Kantonale Behörde übt ihre Aufgaben auch für die Gemeinden aus.
 
@@ -516,8 +527,8 @@ beschliesst:
 <sup>1</sup> Im Bereich des Rechts auf Zugang zu amtlichen Dokumenten hat die kantonale Öffentlichkeits-, Datenschutz- und Mediationskommission folgende Aufgaben:
 
 - a) Sie stellt die Koordination zwischen der Ausübung des Rechts auf Zugang zu amtlichen Dokumenten und den Erfordernissen des Datenschutzes sicher.
-- b) Sie leitet die Tätigkeit der oder des Beauftragten für Öffentlichkeit und Transparenz .
-- b<sup>bis</sup>) Sie führt das Verfahren zur Ernennung der oder des Beauftragten für Öffentlichkeit und Transparenz für den Staatsrat durch und nimmt zuhanden des Staatsrats Stellung zu den von ihr bevorzugten Kandidatinnen und Kandidaten.
+- b) Sie leitet die Tätigkeit der oder des Beauftragten.
+- b<sup>bis</sup>) …
 - c) Sie äussert sich zu Vorhaben, insbesondere Erlassentwürfen, die sich auf das Recht auf Zugang zu amtlichen Dokumenten auswirken.
 - c<sup>bis</sup>) Sie erlässt die Entscheide über das Zugangsrecht nach Artikel 33a.
 - d) Sie übt die Oberaufsicht über die Fachorgane der Gemeinden aus; diese Organe geben ihr einen Tätigkeitsbericht ab.
@@ -525,11 +536,11 @@ beschliesst:
 
 #### Art. 41
 
-**Fachorgane – Die oder der kantonale Beauftragte für Öffentlichkeit und Transparenz**
+**Fachorgane – Die oder der Öffentlichkeits- und Datenschutzbeauftragte**
 
-<sup>1</sup> Die oder der kantonale Beauftragte für Öffentlichkeit und Transparenz wird vom Staatsrat ernannt. Dieser holt vorgängig die Stellungnahme der Kommission ein.
+<sup>1</sup> …
 
-<sup>2</sup> Ihre oder seine Aufgaben sind:
+<sup>2</sup> Nach diesem Gesetz hat der oder die Beauftragte im Sinne von Artikel 52 des Gesetzes vom 12. Oktober 2023 über den Datenschutz[^41-1] insbesondere folgende Aufgaben:
 
 - a) die Bevölkerung und die Personen, die ihr Recht geltend machen möchten, über die Art, das Zugangsrecht auszuüben, zu informieren;
 - b) die Information der öffentlichen Organe über die Anforderungen, die mit der Einführung des Zugangsrechts verbunden sind, und die entsprechende Ausbildung zu gewährleisten;
@@ -540,6 +551,8 @@ beschliesst:
 
 <sup>3</sup> Die oder der Beauftragte holt die Informationen ein, die für die Erfüllung ihrer oder seiner Aufgaben nötig sind. Das Amtsgeheimnis kann ihr oder ihm nicht entgegengehalten werden; insbesondere hat sie oder er bei der Ausübung ihrer oder seiner Schlichtungsaufgaben uneingeschränkten Zugang zu allen amtlichen Dokumenten.
 
+[^41-1]: SGF [17.1](https://bdlf.fr.ch/data/17.1/de)
+
 ## 4 Übergangs- und Schlussbestimmungen
 
 #### Art. 42
@@ -547,6 +560,14 @@ beschliesst:
 **Übergangsrecht – Register der Interessenbindungen**
 
 <sup>1</sup> Die betreffenden Organe verfügen über eine Frist von einem Jahr ab Inkrafttreten dieses Gesetzes, um das in den Artikeln 13 und 14 erwähnte Register der Interessenbindungen einzurichten.
+
+#### Art. 42a
+
+**Übergangsrecht zur Änderung vom 12. Oktober 2023 – Dienstverhältnis der oder des Beauftragten**
+
+<sup>1</sup> Bei Inkrafttreten des Gesetzes passt die Anstellungsbehörde den Arbeitsvertrag der Stelleninhaberin oder des Stelleninhabers im Einklang mit der Personalgesetzgebung an die Anforderungen des neuen Gesetzes an.
+
+<sup>2</sup> Wird der Vorschlag zur Umwandlung des Arbeitsvertrags abgelehnt, so wird die Situation gemäss den Bestimmungen über die Abschaffung von Stellen im Sinne der Personalgesetzgebung geregelt.
 
 #### Art. 43
 

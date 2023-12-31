@@ -4,13 +4,12 @@ number: "17.5"
 title: "Loi sur l'information et l'accès aux documents"
 short: LInf
 language: fr
-version: 2022-01-01
-valid_until: 2023-12-31
-version_adopted: 2021-10-07
+version: 2024-01-01
+version_adopted: 2023-10-12
 adopted: 2009-09-09
 in_force: 2011-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/17.5"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7470/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8413/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Information et accès aux documents – L
 
 (LInf)
 
-du 09.09.2009 (version entrée en vigueur le 01.01.2022)
+du 09.09.2009 (version entrée en vigueur le 01.01.2024)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -56,10 +55,12 @@ Décrète:
 <sup>1</sup> La présente loi s'applique aux organes publics suivants:
 
 - a) les organes de l'Etat, des communes et des autres personnes morales de droit public;
-- b) les personnes privées et les organes d'institutions privées qui accomplissent des tâches de droit public, dans la mesure où ils peuvent édicter des règles de droit ou rendre des décisions au sens du code de procédure et de juridiction administrative;
+- b) les personnes privées et les organes d'institutions privées qui accomplissent des tâches de droit public, dans la mesure où ils peuvent édicter des règles de droit ou rendre des décisions au sens du code de procédure et de juridiction administrative[^2-1];
 - c) les personnes privées et les organes d'institutions privées qui accomplissent des tâches de droit public dans le domaine de l'environnement, même s'ils n'ont pas la compétence d'édicter des règles de droit ou de rendre des décisions.
 
 <sup>2</sup> Les dispositions sur l'accès aux documents officiels (chap. 3) s'appliquent en outre dans les situations visées à l'article 20 al. 1<sup>bis</sup>, aux conditions fixées par celui-ci.
+
+[^2-1]: RSF [150.1](https://bdlf.fr.ch/data/150.1/fr)
 
 #### Art. 3
 
@@ -70,7 +71,9 @@ Décrète:
 <sup>2</sup> Elle s'applique aux Eglises reconnues dans la mesure suivante:
 
 - a) elle ne s'applique aux corporations ecclésiastiques que si celles-ci n'ont pas adopté des dispositions en la matière;
-- b) elle ne s'applique pas aux personnes juridiques canoniques au sens de la loi concernant les rapports entre les Eglises et l'Etat.
+- b) elle ne s'applique pas aux personnes juridiques canoniques au sens de la loi concernant les rapports entre les Eglises et l'Etat[^3-1].
+
+[^3-1]: RSF [190.1](https://bdlf.fr.ch/data/190.1/fr)
 
 ## 2 Information du public
 
@@ -178,7 +181,9 @@ Décrète:
 
 <sup>2</sup> Le Conseil d'Etat peut poser d'autres présomptions en faveur de l'intérêt du public à l'information.
 
-<sup>3</sup> Les présomptions tombent en présence de données sensibles au sens de la loi sur la protection des données ou en présence d'un autre intérêt particulier de la personne concernée.
+<sup>3</sup> Les présomptions tombent en présence de données sensibles au sens de la loi sur la protection des données[^12-1] ou en présence d'un autre intérêt particulier de la personne concernée.
+
+[^12-1]: RSF [17.1](https://bdlf.fr.ch/data/17.1/fr)
 
 #### Art. 13
 
@@ -194,7 +199,9 @@ Décrète:
 - d) les fonctions politiques exercées;
 - e) les fonctions permanentes de direction ou de conseil assumées pour le compte de groupes d'intérêts.
 
-<sup>3</sup> Le secret professionnel au sens du code pénal est réservé.
+<sup>3</sup> Le secret professionnel au sens du code pénal[^13-1] est réservé.
+
+[^13-1]: RS [311.0](https://db.clex.ch/link/Bund/311.0/fr)
 
 #### Art. 14
 
@@ -313,11 +320,13 @@ Décrète:
 
 **Gratuité et émoluments**
 
-<sup>1</sup> L'exercice de l'accès et la procédure d'accès sont en principe gratuits; toutefois, les règles du code de procédure et de juridiction administrative relatives aux frais sont applicables au recours devant le Tribunal cantonal, mais aucune avance de frais ne peut être perçue.
+<sup>1</sup> L'exercice de l'accès et la procédure d'accès sont en principe gratuits; toutefois, les règles du code de procédure et de juridiction administrative[^24-1] relatives aux frais sont applicables au recours devant le Tribunal cantonal, mais aucune avance de frais ne peut être perçue.
 
 <sup>2</sup> Le Conseil d'Etat peut prévoir des exceptions à la gratuité pour la délivrance de copies, d'imprimés et de supports d'information ou lorsque l'octroi de l'accès nécessite un travail important; ces exceptions ne sont pas applicables aux médias.
 
 <sup>3</sup> La législation spéciale est en outre réservée.
+
+[^24-1]: RSF [150.1](https://bdlf.fr.ch/data/150.1/fr)
 
 ### 3.2 Etendue
 
@@ -331,7 +340,9 @@ Décrète:
 
 <sup>3</sup> Les dispositions de la législation fédérale et des lois cantonales qui déclarent certaines informations secrètes ou accessibles à des conditions particulières sont réservées; toutefois, les dispositions générales sur le secret de fonction ne font pas obstacle au droit d'accès.
 
-<sup>4</sup> Lorsque la demande d'accès concerne des informations sur l'environnement, les exceptions au droit d'accès prévues par la présente loi et par la législation spéciale doivent être interprétées conformément aux exigences de la Convention d'Aarhus.
+<sup>4</sup> Lorsque la demande d'accès concerne des informations sur l'environnement, les exceptions au droit d'accès prévues par la présente loi et par la législation spéciale doivent être interprétées conformément aux exigences de la Convention d'Aarhus[^25-1].
+
+[^25-1]: RS [0.814.07](https://db.clex.ch/link/Bund/0.814.07/fr)
 
 #### Art. 26
 
@@ -425,9 +436,9 @@ Décrète:
 
 **Médiation et décision**
 
-<sup>1</sup> La personne qui a demandé l'accès et les tiers qui ont fait opposition peuvent, dans les trente jours qui suivent la détermination de l'organe public, déposer contre celle-ci une requête en médiation auprès du ou de la préposé-e à la transparence.
+<sup>1</sup> La personne qui a demandé l'accès et les tiers qui ont fait opposition peuvent, dans les trente jours qui suivent la détermination de l'organe public, déposer contre celle-ci une requête en médiation auprès du ou de la préposé-e à la transparence et à la protection des données (ci-après: le ou la préposé-e).
 
-<sup>2</sup> Lorsque la médiation n'aboutit pas, le ou la préposé-e à la transparence établit à l'intention des parties une recommandation écrite.
+<sup>2</sup> Lorsque la médiation n'aboutit pas, le ou la préposé-e établit à l'intention des parties une recommandation écrite.
 
 <sup>3</sup> Lorsqu'une recommandation a été émise, l'organe public rend d'office une décision; s'il se rallie à la recommandation, le renvoi à cette dernière peut faire office de motivation.
 
@@ -503,7 +514,7 @@ Décrète:
 
 <sup>1</sup> Les autres mesures de mise en œuvre du droit d'accès aux documents officiels ainsi que la surveillance de cette mise en œuvre sont assurées par l'Autorité cantonale de la transparence, de la protection des données et de la médiation.
 
-<sup>2</sup> L'Autorité cantonale exerce les tâches qui lui incombent en vertu de la présente loi par l'intermédiaire de la Commission cantonale et du ou de la préposé-e à la transparence; pour le reste et sous réserve des dispositions qui suivent, elle est régie par la législation sur la protection des données.
+<sup>2</sup> L'Autorité cantonale exerce les tâches qui lui incombent en vertu de la présente loi par l'intermédiaire de la Commission cantonale et du ou de la préposé-e; pour le reste et sous réserve des dispositions qui suivent, elle est régie par la législation sur la protection des données.
 
 <sup>3</sup> L'Autorité cantonale exerce également ses tâches pour les communes.
 
@@ -516,8 +527,8 @@ Décrète:
 <sup>1</sup> Dans le domaine du droit d'accès aux documents officiels, la Commission cantonale de la transparence, de la protection des données et de la médiation a pour tâches:
 
 - a) d'assurer la coordination entre l'exercice du droit d'accès aux documents officiels et les exigences de la protection des données;
-- b) de diriger l'activité du ou de la préposé-e à la transparence;
-- b<sup>bis</sup>) de mener la procédure de nomination du ou de la préposé‑e à la transparence pour le Conseil d'Etat et de préaviser à son intention la ou les candidatures qu'elle privilégie;
+- b) de diriger l'activité du ou de la préposé-e;
+- b<sup>bis</sup>) …
 - c) de donner son avis sur les projets, notamment d'actes législatifs, qui ont un impact sur le droit d'accès aux documents officiels;
 - c<sup>bis</sup>) de rendre les décisions en matière de droit d'accès prévues à l'article 33a;
 - d) d'exercer la haute surveillance sur les organes spécialisés communaux, dont elle reçoit le rapport d'activité;
@@ -525,11 +536,11 @@ Décrète:
 
 #### Art. 41
 
-**Organes spécialisés – Préposé-e cantonal-e à la transparence**
+**Organes spécialisés – Préposé-e à la transparence et à la protection des données**
 
-<sup>1</sup> Le ou la préposé-e cantonal-e à la transparence est nommé-e par le Conseil d'Etat, sur le préavis de la Commission.
+<sup>1</sup> …
 
-<sup>2</sup> Il ou elle a pour tâches:
+<sup>2</sup> En vertu de la présente loi, le ou la préposé-e au sens de l'article 52 de la loi du 12 octobre 2023 sur la protection des données[^41-1] a en particulier pour tâches:
 
 - a) d'informer la population et les personnes qui souhaitent faire valoir leur droit des modalités d'exercice du droit d'accès;
 - b) d'assurer l'information et la formation des organes publics sur les exigences liées à l'introduction du droit d'accès;
@@ -540,6 +551,8 @@ Décrète:
 
 <sup>3</sup> Le ou la préposé-e recueille les renseignements nécessaires à l'accomplissement de ses tâches. Le secret de fonction ne peut lui être opposé; en particulier, il ou elle peut, dans l'exercice de ses fonctions de médiation, accéder sans restriction à tous les documents officiels.
 
+[^41-1]: RSF [17.1](https://bdlf.fr.ch/data/17.1/fr)
+
 ## 4 Dispositions transitoires et finales
 
 #### Art. 42
@@ -547,6 +560,14 @@ Décrète:
 **Droit transitoire – Registre des intérêts**
 
 <sup>1</sup> Les organes concernés disposent d'un délai d'une année dès l'entrée en vigueur de la présente loi pour mettre en place le registre des intérêts mentionné aux articles 13 et 14.
+
+#### Art. 42a
+
+**Droit transitoire relatif à la modification du 12 octobre 2023 – Rapports de service du ou de la préposé-e**
+
+<sup>1</sup> Au moment de l'entrée en vigueur de la loi, l'autorité d'engagement adapte le contrat de travail de la personne en poste aux exigences de la nouvelle loi conformément à la législation sur le personnel.
+
+<sup>2</sup> En cas de refus de la proposition visant à transformer le contrat de travail, la situation est réglée conformément aux dispositions en matière de suppression de poste au sens de la législation sur le personnel.
 
 #### Art. 43
 
