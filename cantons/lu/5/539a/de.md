@@ -3,20 +3,20 @@ canton: LU
 number: 539a
 title: Personalverordnung der Universität Luzern
 language: de
-version: 2022-08-01
-valid_until: 2023-12-31
-version_adopted: 2022-05-10
+version: 2024-01-01
+valid_until: 2025-09-30
+version_adopted: 2023-12-12
 adopted: 2005-10-25
 in_force: 2006-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/539a"
-pdf: "https://srl.lu.ch/api/de/versions/3937/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4166/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Personalverordnung der Universität Luzern
 
-vom 25.10.2005 (Stand 01.08.2022)
+vom 25.10.2005 (Stand 01.01.2024)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -51,14 +51,18 @@ beschliesst:
 
 <sup>1</sup> Zuständig für die Wahl sowie für die Beendigung und die Umgestaltung des Arbeitsverhältnisses ist
 
-- a. der Universitätsrat für die durch den Senat berufenen Professorinnen und Professoren sowie für die Verwaltungsdirektorin oder den Verwaltungsdirektor auf Antrag der Rektorin oder des Rektors,
-- b. die Rektorin oder der Rektor für das übrige Personal.
+- a. der Universitätsrat für die durch den Senat berufenen Professorinnen und Professoren sowie für die Universitätsmanagerin oder den Universitätsmanager auf Antrag der Rektorin oder des Rektors,
+- b. die Rektorin oder der Rektor für das übrige Personal, soweit im Statut der Universität Luzern vom 12. Dezember 2001[^3-1] keine andere Zuständigkeit vorgesehen ist.
+
+[^3-1]: SRL Nr. [539c](https://srl.lu.ch/data/539c/de)
 
 #### § 4
 
 **Übrige personalrechtliche Entscheide**
 
-<sup>1</sup> Für die übrigen personalrechtlichen Entscheide ist die Rektorin oder der Rektor zuständig.
+<sup>1</sup> Für die übrigen personalrechtlichen Entscheide ist die Rektorin oder der Rektor zuständig, soweit im Statut der Universität Luzern[^4-1] keine andere Zuständigkeit vorgesehen ist.
+
+[^4-1]: SRL Nr. [539c](https://srl.lu.ch/data/539c/de)
 
 ## 3 Arbeitsverhältnis
 
@@ -70,15 +74,21 @@ beschliesst:
 
 <sup>1</sup> Assistenzprofessorinnen und -professoren werden befristet in einem beiderseits auflösbaren Arbeitsverhältnis von bis zu fünf Jahren angestellt.
 
-<sup>2</sup> Bei längeren Abwesenheiten infolge Urlaub oder Krankheit kann das befristete Arbeitsverhältnis in gegenseitigem Einvernehmen um höchstens zwei Jahre verlängert werden.
+<sup>2</sup> Bei längeren Abwesenheiten insbesondere infolge Urlaub oder Krankheit kann das befristete Arbeitsverhältnis in gegenseitigem Einvernehmen um höchstens zwei Jahre verlängert werden.
 
 #### § 6
 
 **Oberassistentinnen und -assistenten**
 
-<sup>1</sup> Oberassistentinnen und -assistenten werden befristet in einem beiderseits auflösbaren Arbeitsverhältnis von bis zu fünf Jahren angestellt.
+<sup>1</sup> Oberassistentinnen und -assistenten werden befristet in einem beiderseits auflösbaren Arbeitsverhältnis von bis zu fünf Jahren angestellt. Näheres regelt der Universitätsrat.
+
+<sup>1<sup>bis</sup></sup> Bei längeren Abwesenheiten insbesondere infolge Urlaub oder Krankheit kann das befristete Arbeitsverhältnis in gegenseitigem Einvernehmen um höchstens zwei Jahre verlängert werden, wenn mit dem Abschluss der Qualifikationsarbeit innert der verlängerten Anstellungsdauer gerechnet werden kann.
 
 <sup>2</sup> Das befristete Arbeitsverhältnis kann nach Abschluss der Habilitation in gegenseitigem Einvernehmen für höchstens zwei Jahre verlängert werden.
+
+<sup>3</sup> Endet eine befristete Anstellung während des Mutterschaftsurlaubs oder weniger als zwei Monate vor dem errechneten Geburtstermin, verlängert sich die befristete Anstellung bis zum Ende des Mutterschaftsurlaubs gemäss § 44 der Personalverordnung vom 24. September 2002[^6-1].
+
+[^6-1]: SRL Nr. [52](https://srl.lu.ch/data/52/de)
 
 #### § 7
 
@@ -86,13 +96,19 @@ beschliesst:
 
 <sup>1</sup> Assistentinnen und Assistenten werden befristet in einem beiderseits auflösbaren Arbeitsverhältnis von bis zu fünf Jahren angestellt.
 
+<sup>1<sup>bis</sup></sup> Bei längeren Abwesenheiten insbesondere infolge Urlaub oder Krankheit kann das befristete Arbeitsverhältnis in gegenseitigem Einvernehmen um höchstens zwei Jahre verlängert werden, wenn mit dem Abschluss der Qualifikationsarbeit innert der verlängerten Anstellungsdauer gerechnet werden kann.
+
+<sup>1<sup>ter</sup></sup> Endet eine befristete Anstellung während des Mutterschaftsurlaubs oder weniger als zwei Monate vor dem errechneten Geburtstermin, verlängert sich die befristete Anstellung bis zum Ende des Mutterschaftsurlaubs gemäss § 44 der Personalverordnung[^7-1].
+
 <sup>2</sup> Bei einer Funktionsänderung gelten die Bestimmungen von § 6.
+
+[^7-1]: SRL Nr. [52](https://srl.lu.ch/data/52/de)
 
 #### § 8
 
-**Lehrbeauftragte**
+**Nebenamtliche Lehrbeauftragte und wissenschaftliche Mitarbeitende ohne Qualifikationsabsicht.**
 
-<sup>1</sup> Auf befristet angestellte Lehrbeauftragte mit nebenamtlichem Arbeitsverhältnis ist § 9 Absatz 2 des Personalgesetzes vom 26. Juni 2001[^8-1] nicht anwendbar.
+<sup>1</sup> Auf Lehrbeauftragte und wissenschaftliche Mitarbeitende ohne Qualifikationsabsicht, die befristet im nebenamtlichen Arbeitsverhältnis angestellt sind, ist § 9 Absatz 2 des Personalgesetzes vom 26. Juni 2001[^8-1] nicht anwendbar.
 
 [^8-1]: SRL Nr. [51](https://srl.lu.ch/data/51/de)
 
@@ -152,7 +168,7 @@ beschliesst:
 
 <sup>4</sup> Mitgliedern des Lehrkörpers mit zusätzlichen zeitaufwendigen Leitungsfunktionen kann der Rektor oder die Rektorin eine Funktionszulage bis zu höchstens 10 000 Franken pro Jahr gewähren.
 
-<sup>5</sup> Falls der Rektor oder die Rektorin Prorektorinnen und Prorektoren einsetzt, kann er oder sie je nach Umfang der zusätzlichen Aufgaben eine Funktionszulage zwischen 5000 und 10 000 Franken gewähren.
+<sup>5</sup> Die Prorektorinnen und Prorektoren bleiben in der bisherigen Funktion als Professorinnen und Professoren eingereiht und erhalten je nach Umfang der zusätzlichen Aufgaben eine Funktionszulage zwischen 10'000 und 15'000 Franken pro Jahr. Sie wird jährlich von der Rektorin oder vom Rektor festgelegt.
 
 #### § 11c
 
