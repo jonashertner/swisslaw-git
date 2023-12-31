@@ -4,11 +4,11 @@ title: Verordnung vom 16. Juni 2006 über Gebühren des Bundesamtes für Landwir
 short: GebV-BLW
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/415"
 language: de
-version: 2022-01-01
+version: 2024-01-01
 adopted: 2006-06-16
 in_force: 2006-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/415/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2006-415-20220101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/415/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/415/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2006-415-20240101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/415/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/415/20220101/de"
 
 (GebV-BLW)
 
-vom 16. Juni 2006 (Stand am 1. Januar 2022)
+vom 16. Juni 2006 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -118,77 +118,75 @@ Die Verordnung vom 18. Oktober 2000[^6-1] über Gebühren des Bundesamtes für L
 
 Diese Verordnung tritt am 1. August 2006 in Kraft.
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 4 Abs. 1)
 
 ## Gebühren für Dienstleistungen und Verfügungen
 
-[^t-1]: Fassung gemäss Ziff. II der V vom 28. Okt. 2015 ([AS 2015 4491](https://fedlex.data.admin.ch/eli/oc/2015/750)). Bereinigt gemäss Anhang der V vom 31. Okt. 2018 ([AS 2018 4279](https://fedlex.data.admin.ch/eli/oc/2018/684)), Ziff. I 2 der V vom 1. Mai 2019 ([AS 2019 1615](https://fedlex.data.admin.ch/eli/oc/2019/312)), Anhang der V vom 11. Nov. 2020 ([AS 2020 5759](https://fedlex.data.admin.ch/eli/oc/2020/967)), Ziff. II der V vom 3. Nov. 2021 ([AS 2021 675](https://fedlex.data.admin.ch/eli/oc/2021/675)) und Anhang Ziff. 3 der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
+[^t-1]: Fassung gemäss Ziff. II der V vom 28. Okt. 2015 ([AS 2015 4491](https://fedlex.data.admin.ch/eli/oc/2015/750)). Bereinigt gemäss Anhang der V vom 31. Okt. 2018 ([AS 2018 4279](https://fedlex.data.admin.ch/eli/oc/2018/684)), Ziff. I 2 der V vom 1. Mai 2019 ([AS 2019 1615](https://fedlex.data.admin.ch/eli/oc/2019/312)), Anhang der V vom 11. Nov. 2020 ([AS 2020 5759](https://fedlex.data.admin.ch/eli/oc/2020/967)), Ziff. II der V vom 3. Nov. 2021 ([AS 2021 675](https://fedlex.data.admin.ch/eli/oc/2021/675)), Anhang Ziff. 3 der V vom 17. Nov. 2021 ([AS 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)), Ziff. I der V vom 1. Nov. 2023 ([AS 2023 696](https://fedlex.data.admin.ch/eli/oc/2023/696)) und Anhang 5 Ziff. 4 der Düngerverordnung vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 711](https://fedlex.data.admin.ch/eli/oc/2023/711)).
 
 <table>
-<tr><th></th><th></th><th>Franken</th></tr>
-<tr><td>1</td><td>Bio-Verordnung vom 22. September 1997**[^annex1-lvlu1-1]**</td><td></td></tr>
-<tr><td>1.1</td><td>Prüfung der Zulassung der schrittweisen Umstellung (Art. 9)</td><td>200</td></tr>
-<tr><td>1.2</td><td>Prüfung eines Gesuchs um befristete Verwendung von Zutaten landwirtschaftlichen Ursprungs, die nicht vom Departement zugelassen wurden (Art. 16*k* Abs. 3)</td><td>250</td></tr>
-<tr><td>1.3</td><td>Prüfung zur Verlängerung von erteilten Bewilligungen</td><td>100</td></tr>
-<tr><td>2</td><td>Landwirtschaftliche Zonen-Verordnung vom 7. Dezember 1998**[^annex1-lvlu1-2]**</td><td></td></tr>
-<tr><td>2.1</td><td>Nichteintretensentscheid über Gesuch um Änderung der Zonengrenzen (Art. 6)</td><td>300</td></tr>
-<tr><td>2.2</td><td>Materieller Entscheid über Gesuch um Änderung der Zonengrenzen (Art. 6); Einzelgesuch</td><td>600</td></tr>
-<tr><td>2.3</td><td>Materieller Entscheid über Gesuch um Änderung der Zonengrenzen (Art. 6); mehrere Gesuchsteller</td><td>1200</td></tr>
-<tr><td>3</td><td>Verordnung des BLW vom 7. Dezember 1998**[^annex1-lvlu1-3]** über die Kontrolle von Traubenmosten, Traubensäften und Weinen für die Ausfuhr</td><td></td></tr>
-<tr><td>3.1</td><td>Grundanalyse für die Qualitätsprüfung für Traubenmost und Traubensaft (Art. 2 Abs. 1 Bst. a)</td><td>180</td></tr>
-<tr><td>3.2</td><td>Grundanalyse für die Qualitätsprüfung für Wein und teilweise vergorenen Traubenmost (Art. 2 Abs. 1 Bst. b)</td><td>250</td></tr>
-<tr><td>3.3</td><td>Zusätzliche Analysen (Art. 2 Abs. 2):</td><td></td></tr>
-<tr><td>[tab]</td><td>a. Sorbinsäure und Natamycin (HPLC-MS)</td><td>150</td></tr>
-<tr><td>[tab]</td><td>b. Asche gesamt (Gravimetrie)</td><td>80</td></tr>
-<tr><td>[tab]</td><td>c. Eisen und Kupfer (Photometrie)</td><td>50</td></tr>
-<tr><td>[tab]</td><td>d. Hefen und Milchsäurebakterien (mikrobiologische Bestimmung)</td><td>80</td></tr>
-<tr><td>[tab]</td><td>e. Methanol (GC)</td><td>80</td></tr>
-<tr><td>[tab]</td><td>f. Chlorid und Sulfat (Photometrie)</td><td>50</td></tr>
-<tr><td>4</td><td>Vermehrungsmaterial-Verordnung vom 7. Dezember 1998**[^annex1-lvlu1-4]**</td><td></td></tr>
-<tr><td>4.1</td><td>Behandlung eines Gesuchs um Aufnahme in den nationalen Sortenkatalog bzw. in die Sortenliste (Art. 4 und 9)</td><td>150</td></tr>
-<tr><td>4.2</td><td>Kontrolle von Saat- und Pflanzgut (Art. 22 Abs. 4):</td><td></td></tr>
-<tr><td>4.2.1</td><td>Probenahme</td><td>50</td></tr>
-<tr><td>4.2.2</td><td>Vollständige Analyse (Reinheit, Keimfähigkeit, Anzahl fremder Samen) von gereinigten Proben für die Saatgutzertifizierung von:</td><td></td></tr>
-<tr><td>[tab]</td><td>a. Getreide, Mais und grosssamigen Körnerleguminosen</td><td>55</td></tr>
-<tr><td>[tab]</td><td>b. anderen Arten</td><td>90</td></tr>
-<tr><td>5</td><td>Saat- und Pflanzgut-Verordnung des WBF vom 7. Dezember 1998**[^annex1-lvlu1-5]**</td><td></td></tr>
-<tr><td>5.1</td><td>Anbau- und Verwendungsprüfung (Art. 17); jährliche Gebühr für:</td><td></td></tr>
-<tr><td></td><td>a. Kartoffeln:</td><td></td></tr>
-<tr><td></td><td>1. eine Sorte</td><td>4000</td></tr>
-<tr><td></td><td>2. jede weitere Sorte derselben Züchterin oder desselben Züchters</td><td>4500</td></tr>
-<tr><td></td><td>b. anderen Arten:</td><td></td></tr>
-<tr><td></td><td>1. eine Sorte</td><td>2500</td></tr>
-<tr><td></td><td>2. jede weitere Sorte derselben Züchterin oder desselben Züchters</td><td>3000</td></tr>
-<tr><td>5.2</td><td>Offizielle Feldbesichtigung, pro Stunde (Art. 23 Abs. 4)</td><td>30</td></tr>
-<tr><td>5.3</td><td>Nachkontrollanbau von Vorstufen- und Basissaatgutposten, pro Probe (Art. 24 Abs. 3)</td><td>40</td></tr>
-<tr><td>5.4</td><td>Prüfung und Genehmigung einer Sortenbezeichnung (Art. 16*a*)</td><td>100</td></tr>
-<tr><td>6</td><td>…</td><td></td></tr>
-<tr><td>7</td><td>Dünger-Verordnung vom 10. Januar 2001**[^annex1-lvlu1-6]**</td><td></td></tr>
-<tr><td>7.1</td><td>Behandlung eines Antrags um Aufnahme eines Düngertyps in die Düngerliste (Art. 7)</td><td>200</td></tr>
-<tr><td>7.2</td><td>Behandlung eines Gesuchs für die Bewilligung eines Düngers (Art. 10)</td><td>200</td></tr>
-<tr><td>7.3</td><td>Behandlung der Anmeldung eines Düngers (Art. 19)</td><td>100</td></tr>
-<tr><td>7.4</td><td>Kontrollanalysen (Art. 29):</td><td></td></tr>
-<tr><td></td><td>Kompostanalyse TS, OS, Leitfähigkeit, N, P, K, Ca, Mg, Cd, Cr, Cu, Hg, Ni, Pb, Zn</td><td>570</td></tr>
-<tr><td>8</td><td>Futtermittel-Verordnung vom 26. Oktober 2011**[^annex1-lvlu1-7]**</td><td></td></tr>
-<tr><td>8.1</td><td>Behandlung eines Gesuchs um Aufnahme in die Liste der zugelassenen Futtermittelzusatzstoffe (Art. 20)</td><td>100</td></tr>
-<tr><td>8.2</td><td>Behandlung eines Gesuchs für die Bewilligung eines Futtermittelzusatzstoffs (Art. 22)</td><td>1400</td></tr>
-<tr><td>8.3</td><td>Behandlung eines Gesuchs um Aufnahme in die GVO-Futtermittelliste (Art. 62)</td><td>1400</td></tr>
-<tr><td>8.4</td><td>Futtermittelkontrolle (Art. 70), sofern das Produkt in Ordnung ist; andernfalls wird die Gebühr nach Artikel 4 Absatz 2 berechnet</td><td>70</td></tr>
-<tr><th>8.5</th><th>Behandlung eines Gesuchs um Erneuerung (Art. 31) oder Erweiterung einer Zulassung (Art. 22) für Futtermittelzusatzstoffe</th><th>400</th></tr>
-<tr><td>9</td><td>…</td><td></td></tr>
-<tr><td>10</td><td>Verordnung vom 23. Oktober 2013**[^annex1-lvlu1-8]** über Informationssysteme im Bereich der Landwirtschaft</td><td></td></tr>
-<tr><td>10.1</td><td>Anschluss eines externen Informationssystems an das IAM‑System des Internetportals Agate (Art. 20*a* Abs. 4):</td><td></td></tr>
-<tr><td></td><td>a. einmalige Pauschale für Arbeiten im Zusammenhang mit dem Anschluss</td><td>1300–3300</td></tr>
-<tr><td></td><td>b. jährliche Pauschale zur Deckung von Lizenz- und Supportkosten</td><td>500–2000</td></tr>
-<tr><td>10.2</td><td>Gesuch um Einrichtung einer Abrufmöglichkeit für Dritte (Art. 27 Abs. 9):</td><td></td></tr>
-<tr><td></td><td>a. einmalige Pauschale für die Behandlung des ersten Gesuchs</td><td>1900</td></tr>
-<tr><td></td><td>b. einmalige Pauschale für die Behandlung jedes weiteren Folgegesuchs</td><td>700</td></tr>
-<tr><td>10.3</td><td>Einrichtung und Betrieb des Datenabrufs und Aufbereitung der Daten (Art. 27 Abs. 9):</td><td></td></tr>
-<tr><td></td><td>a. einmalige Pauschale für die Einrichtung des Datenabrufs</td><td>500</td></tr>
-<tr><td></td><td>b. jährliche Pauschale zur Deckung der Betriebskosten des Datenabrufs</td><td>200</td></tr>
-<tr><td></td><td>c. jährliche Pauschale zur Deckung der Kosten für die periodische Aufbereitung der Daten, abhängig von der Anzahl Personen, die ihr Einverständnis zum Datenabruf gegeben haben</td><td>600–3200</td></tr>
+<tr><th></th><th colspan="2"></th><th>Franken</th></tr>
+<tr><td>1</td><td colspan="2">Bio-Verordnung vom 22. September 1997[^annex1-lvlu1-1]</td><td></td></tr>
+<tr><td>1.1</td><td colspan="2">Prüfung der Zulassung der schrittweisen Umstellung (Art. 9)</td><td>200</td></tr>
+<tr><td>1.2</td><td colspan="2">Prüfung eines Gesuchs um befristete Verwendung von Zutaten landwirtschaftlichen Ursprungs, die nicht vom Departement zugelassen wurden (Art. 16*k* Abs. 3)</td><td>250</td></tr>
+<tr><td>1.3</td><td colspan="2">Prüfung zur Verlängerung von erteilten Bewilligungen</td><td>100</td></tr>
+<tr><td>2</td><td colspan="2">Landwirtschaftliche Zonen-Verordnung vom 7. Dezember 1998[^annex1-lvlu1-2]</td><td></td></tr>
+<tr><td>2.1</td><td colspan="2">Nichteintretensentscheid über Gesuch um Änderung der Zonengrenzen (Art. 6)</td><td>300</td></tr>
+<tr><td>2.2</td><td colspan="2">Materieller Entscheid über Gesuch um Änderung der Zonengrenzen (Art. 6); Einzelgesuch</td><td>600</td></tr>
+<tr><td>2.3</td><td colspan="2">Materieller Entscheid über Gesuch um Änderung der Zonengrenzen (Art. 6); mehrere Gesuchsteller</td><td>1200</td></tr>
+<tr><td>3</td><td colspan="2">Verordnung des BLW vom 7. Dezember 1998[^annex1-lvlu1-3] über die Kontrolle von Traubenmosten, Traubensäften und Weinen für die Ausfuhr</td><td></td></tr>
+<tr><td>3.1</td><td colspan="2">Grundanalyse für die Qualitätsprüfung für Traubenmost und Traubensaft (Art. 2 Abs. 1 Bst. a)</td><td>180</td></tr>
+<tr><td>3.2</td><td colspan="2">Grundanalyse für die Qualitätsprüfung für Wein und teilweise vergorenen Traubenmost (Art. 2 Abs. 1 Bst. b)</td><td>250</td></tr>
+<tr><td>3.3</td><td colspan="2">Zusätzliche Analysen (Art. 2 Abs. 2):</td><td></td></tr>
+<tr><td>[tab]</td><td colspan="2">a. Sorbinsäure und Natamycin (HPLC-MS)</td><td>150</td></tr>
+<tr><td>[tab]</td><td colspan="2">b. Asche gesamt (Gravimetrie)</td><td>80</td></tr>
+<tr><td>[tab]</td><td colspan="2">c. Eisen und Kupfer (Photometrie)</td><td>50</td></tr>
+<tr><td>[tab]</td><td colspan="2">d. Hefen und Milchsäurebakterien (mikrobiologische Bestimmung)</td><td>80</td></tr>
+<tr><td>[tab]</td><td colspan="2">e. Methanol (GC)</td><td>80</td></tr>
+<tr><td>[tab]</td><td colspan="2">f. Chlorid und Sulfat (Photometrie)</td><td>50</td></tr>
+<tr><td>4</td><td colspan="2">Vermehrungsmaterial-Verordnung vom 7. Dezember 1998[^annex1-lvlu1-4]</td><td></td></tr>
+<tr><td>4.1</td><td colspan="2">Behandlung eines Gesuchs um Aufnahme in den nationalen Sortenkatalog bzw. in die Sortenliste (Art. 4 und 9)</td><td>150</td></tr>
+<tr><td>4.2</td><td colspan="2">Kontrolle von Saat- und Pflanzgut (Art. 22 Abs. 4):</td><td></td></tr>
+<tr><td>4.2.1</td><td colspan="2">Probenahme</td><td>50</td></tr>
+<tr><td>4.2.2</td><td colspan="2">Vollständige Analyse (Reinheit, Keimfähigkeit, Anzahl fremder Samen) von gereinigten Proben für die Saatgutzertifizierung von:</td><td></td></tr>
+<tr><td>[tab]</td><td colspan="2">a. Getreide, Mais und grosssamigen Körnerleguminosen</td><td>55</td></tr>
+<tr><td>[tab]</td><td colspan="2">b. anderen Arten</td><td>90</td></tr>
+<tr><td>5</td><td colspan="2">Saat- und Pflanzgut-Verordnung des WBF vom 7. Dezember 1998[^annex1-lvlu1-5]</td><td></td></tr>
+<tr><td>5.1</td><td colspan="2">Anbau- und Verwendungsprüfung (Art. 17); jährliche Gebühr für:</td><td></td></tr>
+<tr><td></td><td colspan="2">a. Kartoffeln:</td><td></td></tr>
+<tr><td></td><td colspan="2">1. eine Sorte</td><td>4000</td></tr>
+<tr><td></td><td colspan="2">2. jede weitere Sorte derselben Züchterin oder desselben Züchters</td><td>4500</td></tr>
+<tr><td></td><td colspan="2">b. anderen Arten:</td><td></td></tr>
+<tr><td></td><td colspan="2">1. eine Sorte</td><td>2500</td></tr>
+<tr><td></td><td colspan="2">2. jede weitere Sorte derselben Züchterin oder desselben Züchters</td><td>3000</td></tr>
+<tr><td>5.2</td><td colspan="2">Offizielle Feldbesichtigung, pro Stunde (Art. 23 Abs. 4)</td><td>30</td></tr>
+<tr><td>5.3</td><td colspan="2">Nachkontrollanbau von Vorstufen- und Basissaatgutposten, pro Probe (Art. 24 Abs. 3)</td><td>40</td></tr>
+<tr><td>5.4</td><td colspan="2">Prüfung und Genehmigung einer Sortenbezeichnung (Art. 16*a*)</td><td>100</td></tr>
+<tr><td>6</td><td colspan="2">…</td><td></td></tr>
+<tr><td>7</td><td colspan="2">Düngerverordnung vom 1. November 2023[^annex1-lvlu1-6]</td><td></td></tr>
+<tr><td>7.1</td><td colspan="2">Behandlung eines Gesuchs für die Bewilligung eines Düngers (Art. 20)</td><td>200</td></tr>
+<tr><td>8</td><td colspan="2">Futtermittel-Verordnung vom 26. Oktober 2011[^annex1-lvlu1-7]</td><td></td></tr>
+<tr><td>8.1</td><td colspan="2">Behandlung eines Gesuchs um Aufnahme in die Liste der zugelassenen Futtermittelzusatzstoffe (Art. 20)</td><td>100</td></tr>
+<tr><td>8.2</td><td colspan="2">Behandlung eines Gesuchs für die Bewilligung eines Futtermittelzusatzstoffs (Art. 22)</td><td>1400</td></tr>
+<tr><td>8.3</td><td colspan="2">Behandlung eines Gesuchs um Aufnahme in die GVO-Futtermittelliste (Art. 62)</td><td>1400</td></tr>
+<tr><td>8.4</td><td colspan="2">Futtermittelkontrolle (Art. 70), sofern das Produkt in Ordnung ist; andernfalls wird die Gebühr nach Artikel 4 Absatz 2 berechnet</td><td>70</td></tr>
+<tr><th>8.5</th><th colspan="2">Behandlung eines Gesuchs um Erneuerung (Art. 31) oder Erweiterung einer Zulassung (Art. 22) für Futtermittelzusatzstoffe</th><th>400</th></tr>
+<tr><td colspan="2">8.6</td><td>Verstärkte Kontrollen von Futtermitteln aus Drittländern, auch wenn sie zu keiner Beanstandung führen (Art. 58 in Verbindung mit Art. 3 Futtermittelbuch-Verordnung vom 26. Okt. 2011[^annex1-lvlu1-8]), Gebühr pro Sendung</td><td>50</td></tr>
+<tr><td colspan="2">8.7</td><td>Analysen im Rahmen verstärkter Kontrollen von Futtermitteln aus Drittländern (Art. 58 in Verbindung mit Art. 3 Futtermittelbuch-Verordnung)</td><td>tatsächliche Ausgaben</td></tr>
+<tr><td>9</td><td colspan="2">…</td><td></td></tr>
+<tr><td>10</td><td colspan="2">Verordnung vom 23. Oktober 2013[^annex1-lvlu1-9] über Informationssysteme im Bereich der Landwirtschaft</td><td></td></tr>
+<tr><td>10.1</td><td colspan="2">Anschluss eines externen Informationssystems an das IAM‑System des Internetportals Agate (Art. 20*a* Abs. 4):</td><td></td></tr>
+<tr><td></td><td colspan="2">a. einmalige Pauschale für Arbeiten im Zusammenhang mit dem Anschluss</td><td>1300–3300</td></tr>
+<tr><td></td><td colspan="2">b. jährliche Pauschale zur Deckung von Lizenz- und Supportkosten</td><td>500–2000</td></tr>
+<tr><td>10.2</td><td colspan="2">Gesuch um Einrichtung einer Abrufmöglichkeit für Dritte (Art. 27 Abs. 9):</td><td></td></tr>
+<tr><td></td><td colspan="2">a. einmalige Pauschale für die Behandlung des ersten Gesuchs</td><td>1900</td></tr>
+<tr><td></td><td colspan="2">b. einmalige Pauschale für die Behandlung jedes weiteren Folgegesuchs</td><td>700</td></tr>
+<tr><td>10.3</td><td colspan="2">Einrichtung und Betrieb des Datenabrufs und Aufbereitung der Daten (Art. 27 Abs. 9):</td><td></td></tr>
+<tr><td></td><td colspan="2">a. einmalige Pauschale für die Einrichtung des Datenabrufs</td><td>500</td></tr>
+<tr><td></td><td colspan="2">b. jährliche Pauschale zur Deckung der Betriebskosten des Datenabrufs</td><td>200</td></tr>
+<tr><td></td><td colspan="2">c. jährliche Pauschale zur Deckung der Kosten für die periodische Aufbereitung der Daten, abhängig von der Anzahl Personen, die ihr Einverständnis zum Datenabruf gegeben haben</td><td>600–3200</td></tr>
 </table>
 
 [^annex1-lvlu1-1]: [SR 910.18](https://fedlex.data.admin.ch/eli/cc/1997/2498_2498_2498)
@@ -198,9 +196,10 @@ Anhang 1*[^t-1]*
 [^annex1-lvlu1-5]: [SR 916.151.1](https://fedlex.data.admin.ch/eli/cc/1999/121)
 [^annex1-lvlu1-6]: [SR 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)
 [^annex1-lvlu1-7]: [SR 916.307](https://fedlex.data.admin.ch/eli/cc/2011/772)
-[^annex1-lvlu1-8]: [SR 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
+[^annex1-lvlu1-8]: [SR 916.307.1](https://fedlex.data.admin.ch/eli/cc/2011/802)
+[^annex1-lvlu1-9]: [SR 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
 
-Anhang 2*[^t-2]*
+Anhang 2[^t-2]
 
 (Art. 4 Abs. 1 und Art. 5*a*)
 
@@ -230,11 +229,11 @@ Anhang 2*[^t-2]*
 
 [^annex2-lvlu1-1]: [SR 919.117.72](https://fedlex.data.admin.ch/eli/cc/2002/703)
 
-Anhang 3*[^t-3]*
+Anhang 3[^t-3]
 
 (Art. 4 Abs. 1<sup>bis</sup>)
 
-## Gebühren für Dienstleistungen und Verfügungen im Zusammenhang mit der Pflanzengesundheitsverordnung vom 31. Oktober 2018**** (PGesV)
+## Gebühren für Dienstleistungen und Verfügungen im Zusammenhang mit der Pflanzengesundheitsverordnung vom 31. Oktober 2018 (PGesV)
 
 [^annex3-lvlu1-1]
 

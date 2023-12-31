@@ -4,11 +4,11 @@ title: "Ordonnance du 16 juin 2006 relative aux émoluments perçus par l'Office
 short: OEmol-OFAG
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/415"
 language: fr
-version: 2022-01-01
+version: 2024-01-01
 adopted: 2006-06-16
 in_force: 2006-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/415/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2006-415-20220101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/415/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/415/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2006-415-20240101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/415/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/415/20220101/fr"
 
 (OEmol-OFAG)
 
-du 16 juin 2006 (Etat le 1<sup>er</sup> janvier 2022)
+du 16 juin 2006 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -118,76 +118,74 @@ L’ordonnance du 18 octobre 2000 sur les émoluments perçus par l’Office fé
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> août 2006.
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 (art. 4, al. 1)
 
 <table>
-<tr><th></th><th>Francs</th></tr>
-<tr><td>1 Ordonnance du 22 septembre 1997 sur l’agriculture biologique**[^t-2]**</td><td></td></tr>
-<tr><td>1.1 Examen relatif à l’autorisation d’une reconversion par étapes (art. 9)</td><td>200</td></tr>
-<tr><td>1.2 Examen d’une demande concernant l’utilisation temporaire d’ingrédients d’origine agricole non admis par le département (art. 16*k*, al. 3)</td><td>250</td></tr>
-<tr><td>1.3 Examen de demandes de prolongation d’autorisations délivrées</td><td>100</td></tr>
-<tr><td>2 Ordonnance du 7 décembre 1998 sur les zones agricoles**[^t-3]**</td><td></td></tr>
-<tr><td>2.1 Décision de non-entrée en matière sur une demande de modification des limites de zones (art. 6)</td><td>300</td></tr>
-<tr><td>2.2 Décision matérielle sur une demande de modification des limites de zones (art. 6); demande individuelle</td><td>600</td></tr>
-<tr><td>2.3 Décision matérielle sur une demande de modification des limites de zones (art. 6); plusieurs requérants</td><td>1200</td></tr>
-<tr><td>3 Ordonnance de l’OFAG du 7 décembre 1998 concernant le contrôle des moûts de raisin, jus de raisin et vins destinés à l’exportation**[^t-4]**</td><td></td></tr>
-<tr><td>3.1 Analyse standard pour le contrôle de la qualité de moûts et jus de raisin (art. 2, al. 1, let. a)</td><td>180</td></tr>
-<tr><td>3.2 Analyse standard pour le contrôle de la qualité de vins et moûts de raisin partiellement fermentés (art. 2, al. 1, let. b)</td><td>250</td></tr>
-<tr><td>3.3 Analyses supplémentaires (art. 2, al. 2):</td><td></td></tr>
-<tr><td>a. acide sorbique et natamycine (CLHP-SM)</td><td>150</td></tr>
-<tr><td>b. cendres, gravimétrie</td><td>80</td></tr>
-<tr><td>c. fer et cuivre (photométrie)</td><td>50</td></tr>
-<tr><td>d. levures et bactéries lactiques (détermination microbiologique)</td><td>80</td></tr>
-<tr><td>e. méthanol (GC)</td><td>80</td></tr>
-<tr><td>f. chlorures et sulfates (photométrie)</td><td>50</td></tr>
-<tr><td>4 Ordonnance du 7 décembre 1998 sur le matériel de multiplication**[^t-5]**</td><td></td></tr>
-<tr><td>4.1 Traitement d’une demande d’inscription au catalogue national des variétés ou dans la liste des variétés (art. 4 et 9)</td><td>150</td></tr>
-<tr><td>4.2 Contrôle des semences et des plants (art. 22, al. 4):</td><td></td></tr>
-<tr><td>4.2.1 Prélèvement d’échantillons</td><td>50</td></tr>
-<tr><td>4.2.2 Analyse complète (pureté, faculté germinative, nombre de semences étrangères) d’échantillons épurés pour la certification des semences de:</td><td></td></tr>
-<tr><td>a. céréales, maïs et légumineuses à grosses graines</td><td>55</td></tr>
-<tr><td>b. autres espèces</td><td>90</td></tr>
-<tr><td>5 Ordonnance du DEFR du 7 décembre 1998 sur les semences et plants**[^t-6]**</td><td></td></tr>
-<tr><td>5.1 Examen de la valeur culturale et d’utilisation (art. 17); émolument annuel pour:</td><td></td></tr>
-<tr><td>a. pommes de terre:</td><td></td></tr>
-<tr><td>1. une variété</td><td>4000</td></tr>
-<tr><td>2. chaque variété supplémentaire du même sélectionneur</td><td>4500</td></tr>
-<tr><td>b. toutes les autres espèces:</td><td></td></tr>
-<tr><td>1. une variété</td><td>2500</td></tr>
-<tr><td>2. chaque variété supplémentaire du même sélectionneur</td><td>3000</td></tr>
-<tr><td>5.2 Visite officielle des parcelles, par heure (art. 23, al. 4)</td><td>30</td></tr>
-<tr><td>5.3 Contrôle cultural des lots de semences de pré-base et des lots de semences de base, par échantillon (art. 24, al. 3)</td><td>40</td></tr>
-<tr><td>5.4 Examen et approbation d’une dénomination variétale (art. 16*a*)</td><td>100</td></tr>
-<tr><td>6 …</td><td></td></tr>
-<tr><td>7 Ordonnance du 10 janvier 2001 sur les engrais**[^t-7]**</td><td></td></tr>
-<tr><td>7.1 Traitement d’une demande d’inscription d’un type d’engrais dans la liste des engrais (art. 7)</td><td>200</td></tr>
-<tr><td>7.2 Traitement d’une demande d’autorisation d’un engrais (art. 10)</td><td>200</td></tr>
-<tr><td>7.3 Traitement d’une annonce d’engrais (art. 19)</td><td>100</td></tr>
-<tr><td>7.4 Analyses de contrôle (art. 29):</td><td></td></tr>
-<tr><td>Analyse de compost MS, MO, conductibilité, N, P, K, Ca, Mg, Cd, Cr, Cu, Hg, Ni, Pb, Zn</td><td>570</td></tr>
-<tr><td>8 Ordonnance du 26 octobre 2011 sur les aliments pour animaux**[^t-8]**</td><td></td></tr>
-<tr><td>8.1 Traitement d’une demande d’inscription dans la liste des additifs homologués (art. 20)</td><td>100</td></tr>
-<tr><td>8.2 Traitement d’une demande d’autorisation pour un additif utilisé dans les aliments pour animaux (art. 22)</td><td>1400</td></tr>
-<tr><td>8.3 Traitement d’une demande d’inscription dans la liste des aliments OGM pour animaux (art. 62)</td><td>1400</td></tr>
-<tr><td>8.4 Contrôle d’un aliment pour animaux (art. 70) si le produit est conforme; sinon, l’émolument est calculé selon l’art. 4, al. 2</td><td>70</td></tr>
-<tr><td>8.5 Traitement d’une demande de renouvellement (art. 31) ou d’extension d’une autorisation (art. 22) pour un additif utilisé dans les aliments pour animaux</td><td>400</td></tr>
-<tr><td>9 ...</td><td></td></tr>
-<tr><td>10 Ordonnance du 23 octobre 2013 sur les systèmes d’information dans le domaine de l’agriculture**[^t-9]**</td><td></td></tr>
-<tr><td>10.1 Raccordement d’un système d’information externe au système IAM du portail Internet Agate (art. 20*a*, al. 4):</td><td></td></tr>
-<tr><td>a. montant forfaitaire unique pour le travail lié au raccordement</td><td>1300–3300</td></tr>
-<tr><td>b. montant forfaitaire annuel pour la couverture des frais de licence et d’assistance technique</td><td>500–2000</td></tr>
-<tr><td>10.2 Demande de mise en place d’une possibilité de consultation des données pour des tiers (art. 27, al. 9):</td><td></td></tr>
-<tr><td>a. montant forfaitaire unique pour le traitement de la première demande</td><td>1900</td></tr>
-<tr><td>[tab] b. montant forfaitaire unique pour le traitement de chaque demande supplémentaire</td><td>700</td></tr>
-<tr><td>10.3 Mise en place et exploitation de la consultation et de la préparation des données (art. 27, al 9):</td><td></td></tr>
-<tr><td>a. montant forfaitaire unique pour la mise en place de la consultation des données</td><td>500</td></tr>
-<tr><td>b. montant forfaitaire annuel pour la couverture des frais d’exploitation de la consultation des données</td><td>200</td></tr>
-<tr><td>c. montant forfaitaire annuel pour la couverture des frais liés à la préparation périodique des données, en fonction du nombre de personnes qui ont donné leur accord pour la consultation des données</td><td>600–3200</td></tr>
+<tr><th></th><th colspan="2">Francs</th></tr>
+<tr><td>1 Ordonnance du 22 septembre 1997 sur l’agriculture biologique[^t-2]</td><td colspan="2"></td></tr>
+<tr><td>1.1 Examen relatif à l’autorisation d’une reconversion par étapes (art. 9)</td><td colspan="2">200</td></tr>
+<tr><td>1.2 Examen d’une demande concernant l’utilisation temporaire d’ingrédients d’origine agricole non admis par le département (art. 16*k*, al. 3)</td><td colspan="2">250</td></tr>
+<tr><td>1.3 Examen de demandes de prolongation d’autorisations délivrées</td><td colspan="2">100</td></tr>
+<tr><td>2 Ordonnance du 7 décembre 1998 sur les zones agricoles[^t-3]</td><td colspan="2"></td></tr>
+<tr><td>2.1 Décision de non-entrée en matière sur une demande de modification des limites de zones (art. 6)</td><td colspan="2">300</td></tr>
+<tr><td>2.2 Décision matérielle sur une demande de modification des limites de zones (art. 6); demande individuelle</td><td colspan="2">600</td></tr>
+<tr><td>2.3 Décision matérielle sur une demande de modification des limites de zones (art. 6); plusieurs requérants</td><td colspan="2">1200</td></tr>
+<tr><td>3 Ordonnance de l’OFAG du 7 décembre 1998 concernant le contrôle des moûts de raisin, jus de raisin et vins destinés à l’exportation[^t-4]</td><td colspan="2"></td></tr>
+<tr><td>3.1 Analyse standard pour le contrôle de la qualité de moûts et jus de raisin (art. 2, al. 1, let. a)</td><td colspan="2">180</td></tr>
+<tr><td>3.2 Analyse standard pour le contrôle de la qualité de vins et moûts de raisin partiellement fermentés (art. 2, al. 1, let. b)</td><td colspan="2">250</td></tr>
+<tr><td>3.3 Analyses supplémentaires (art. 2, al. 2):</td><td colspan="2"></td></tr>
+<tr><td>a. acide sorbique et natamycine (CLHP-SM)</td><td colspan="2">150</td></tr>
+<tr><td>b. cendres, gravimétrie</td><td colspan="2">80</td></tr>
+<tr><td>c. fer et cuivre (photométrie)</td><td colspan="2">50</td></tr>
+<tr><td>d. levures et bactéries lactiques (détermination microbiologique)</td><td colspan="2">80</td></tr>
+<tr><td>e. méthanol (GC)</td><td colspan="2">80</td></tr>
+<tr><td>f. chlorures et sulfates (photométrie)</td><td colspan="2">50</td></tr>
+<tr><td>4 Ordonnance du 7 décembre 1998 sur le matériel de multiplication[^t-5]</td><td colspan="2"></td></tr>
+<tr><td>4.1 Traitement d’une demande d’inscription au catalogue national des variétés ou dans la liste des variétés (art. 4 et 9)</td><td colspan="2">150</td></tr>
+<tr><td>4.2 Contrôle des semences et des plants (art. 22, al. 4):</td><td colspan="2"></td></tr>
+<tr><td>4.2.1 Prélèvement d’échantillons</td><td colspan="2">50</td></tr>
+<tr><td>4.2.2 Analyse complète (pureté, faculté germinative, nombre de semences étrangères) d’échantillons épurés pour la certification des semences de:</td><td colspan="2"></td></tr>
+<tr><td>a. céréales, maïs et légumineuses à grosses graines</td><td colspan="2">55</td></tr>
+<tr><td>b. autres espèces</td><td colspan="2">90</td></tr>
+<tr><td>5 Ordonnance du DEFR du 7 décembre 1998 sur les semences et plants[^t-6]</td><td colspan="2"></td></tr>
+<tr><td>5.1 Examen de la valeur culturale et d’utilisation (art. 17); émolument annuel pour:</td><td colspan="2"></td></tr>
+<tr><td>a. pommes de terre:</td><td colspan="2"></td></tr>
+<tr><td>1. une variété</td><td colspan="2">4000</td></tr>
+<tr><td>2. chaque variété supplémentaire du même sélectionneur</td><td colspan="2">4500</td></tr>
+<tr><td>b. toutes les autres espèces:</td><td colspan="2"></td></tr>
+<tr><td>1. une variété</td><td colspan="2">2500</td></tr>
+<tr><td>2. chaque variété supplémentaire du même sélectionneur</td><td colspan="2">3000</td></tr>
+<tr><td>5.2 Visite officielle des parcelles, par heure (art. 23, al. 4)</td><td colspan="2">30</td></tr>
+<tr><td>5.3 Contrôle cultural des lots de semences de pré-base et des lots de semences de base, par échantillon (art. 24, al. 3)</td><td colspan="2">40</td></tr>
+<tr><td>5.4 Examen et approbation d’une dénomination variétale (art. 16*a*)</td><td colspan="2">100</td></tr>
+<tr><td>6 …</td><td colspan="2"></td></tr>
+<tr><td>7 Ordonnance du 1<sup>er</sup> novembre 2023 sur les engrais[^t-7]</td><td colspan="2"></td></tr>
+<tr><td>7.1 Traitement d’une demande d’autorisation d’un engrais (art. 20)</td><td colspan="2">200</td></tr>
+<tr><td>8 Ordonnance du 26 octobre 2011 sur les aliments pour animaux[^t-8]</td><td colspan="2"></td></tr>
+<tr><td>8.1 Traitement d’une demande d’inscription dans la liste des additifs homologués (art. 20)</td><td colspan="2">100</td></tr>
+<tr><td>8.2 Traitement d’une demande d’autorisation pour un additif utilisé dans les aliments pour animaux (art. 22)</td><td colspan="2">1400</td></tr>
+<tr><td>8.3 Traitement d’une demande d’inscription dans la liste des aliments OGM pour animaux (art. 62)</td><td colspan="2">1400</td></tr>
+<tr><td>8.4 Contrôle d’un aliment pour animaux (art. 70) si le produit est conforme; sinon, l’émolument est calculé selon l’art. 4, al. 2</td><td colspan="2">70</td></tr>
+<tr><td>8.5 Traitement d’une demande de renouvellement (art. 31) ou d’extension d’une autorisation (art. 22) pour un additif utilisé dans les aliments pour animaux</td><td colspan="2">400</td></tr>
+<tr><td colspan="2">8.6 Contrôles renforcés des aliments pour animaux provenant de pays tiers, même s’ils ne donnent lieu à aucune contestation (art. 58, en lien avec l’art. 3 de l’ordonnance du 26 octobre 2011 sur le Livre des aliments pour animaux[^t-9]), émolument par lot.</td><td>50</td></tr>
+<tr><td colspan="2">8.7 Analyses dans le cadre des contrôles renforcés d’aliments pour animaux provenant de pays tiers (art. 58, en lien avec l’art. 3 de l’ordonnance sur le Livre des aliments pour animaux).</td><td>Dépenses effectives</td></tr>
+<tr><td>9 …</td><td colspan="2"></td></tr>
+<tr><td>10 Ordonnance du 23 octobre 2013 sur les systèmes d’information dans le domaine de l’agriculture[^t-10]</td><td colspan="2"></td></tr>
+<tr><td>10.1 Raccordement d’un système d’information externe au système IAM du portail Internet Agate (art. 20*a*, al. 4):</td><td colspan="2"></td></tr>
+<tr><td>a. montant forfaitaire unique pour le travail lié au raccordement</td><td colspan="2">1300–3300</td></tr>
+<tr><td>b. montant forfaitaire annuel pour la couverture des frais de licence et d’assistance technique</td><td colspan="2">500–2000</td></tr>
+<tr><td>10.2 Demande de mise en place d’une possibilité de consultation des données pour des tiers (art. 27, al. 9):</td><td colspan="2"></td></tr>
+<tr><td>a. montant forfaitaire unique pour le traitement de la première demande</td><td colspan="2">1900</td></tr>
+<tr><td>[tab] b. montant forfaitaire unique pour le traitement de chaque demande supplémentaire</td><td colspan="2">700</td></tr>
+<tr><td>10.3 Mise en place et exploitation de la consultation et de la préparation des données (art. 27, al 9):</td><td colspan="2"></td></tr>
+<tr><td>a. montant forfaitaire unique pour la mise en place de la consultation des données</td><td colspan="2">500</td></tr>
+<tr><td>b. montant forfaitaire annuel pour la couverture des frais d’exploitation de la consultation des données</td><td colspan="2">200</td></tr>
+<tr><td>c. montant forfaitaire annuel pour la couverture des frais liés à la préparation périodique des données, en fonction du nombre de personnes qui ont donné leur accord pour la consultation des données</td><td colspan="2">600–3200</td></tr>
 </table>
 
-[^t-1]: Nouvelle teneur selon le ch. II de l’O du 28 oct. 2015 ([RO 2015 4491](https://fedlex.data.admin.ch/eli/oc/2015/750)). Mise à jour par l’annexe de l’O du 31 oct. 2018 ([RO 2018 4279](https://fedlex.data.admin.ch/eli/oc/2018/684)), le ch. I 2 de l’O du 1<sup>er</sup> mai 2019 ([RO 2019 1615](https://fedlex.data.admin.ch/eli/oc/2019/312)), l’annexe de l’O du 11 nov. 2020 ([RO 2020 5759](https://fedlex.data.admin.ch/eli/oc/2020/967)), le ch. II de l’O du 3 nov. 2021 ([RO 2021 675](https://fedlex.data.admin.ch/eli/oc/2021/675)) et l’annexe ch. 3 de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
+[^t-1]: Nouvelle teneur selon le ch. II de l’O du 28 oct. 2015 ([RO 2015 4491](https://fedlex.data.admin.ch/eli/oc/2015/750)). Mise à jour par l’annexe de l’O du 31 oct. 2018 ([RO 2018 4279](https://fedlex.data.admin.ch/eli/oc/2018/684)), le ch. I 2 de l’O du 1<sup>er</sup> mai 2019 ([RO 2019 1615](https://fedlex.data.admin.ch/eli/oc/2019/312)), l’annexe de l’O du 11 nov. 2020 ([RO 2020 5759](https://fedlex.data.admin.ch/eli/oc/2020/967)), le ch. II de l’O du 3 nov. 2021 ([RO 2021 675](https://fedlex.data.admin.ch/eli/oc/2021/675)), l’annexe ch. 3 de l’O du 17 nov. 2021 ([RO 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)), le ch. I de l’O du 1<sup>er</sup> nov. 2023 ([RO 2023 696](https://fedlex.data.admin.ch/eli/oc/2023/696)) et l’annexe 5 ch. II 4 de l’O du 1<sup>er</sup> nov. 2023 sur les engrais, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 711](https://fedlex.data.admin.ch/eli/oc/2023/711)).
 [^t-2]: [RS 910.18](https://fedlex.data.admin.ch/eli/cc/1997/2498_2498_2498)
 [^t-3]: [RS 912.1](https://fedlex.data.admin.ch/eli/cc/1999/46)
 [^t-4]: [[RO 1999 609](https://fedlex.data.admin.ch/eli/oc/1999/89), [2002 1381](https://fedlex.data.admin.ch/eli/oc/2002/213). [RO 2019 669](https://fedlex.data.admin.ch/eli/oc/2019/115)art. 6]. Voir actuellement l’O de l’OFAG du 1<sup>er</sup> fév. 2019 ([RS 916.145.211](https://fedlex.data.admin.ch/eli/cc/2019/115)).
@@ -195,46 +193,47 @@ Annexe 1*[^t-1]*
 [^t-6]: [RS 916.151.1](https://fedlex.data.admin.ch/eli/cc/1999/121)
 [^t-7]: [RS 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)
 [^t-8]: [RS 916.307](https://fedlex.data.admin.ch/eli/cc/2011/772)
-[^t-9]: [RS 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
+[^t-9]: [RS 916.307.1](https://fedlex.data.admin.ch/eli/cc/2011/802)
+[^t-10]: [RS 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
 
-Annexe 2*[^t-10]*
+Annexe 2[^t-11]
 
 (art. 4, al. 1, et art. 5*a*)
 
 ## Émoluments pour l’acquisition de données laitières et d’évaluations
 
-[^t-10]: Introduite par le ch. II al. 1 de l’O du 12 mai 2010 ([RO 2010 2315](https://fedlex.data.admin.ch/eli/oc/2010/334)). Mise à jour par le ch. I de l’O du 27 oct. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5853](https://fedlex.data.admin.ch/eli/oc/2010/834)).
+[^t-11]: Introduite par le ch. II al. 1 de l’O du 12 mai 2010 ([RO 2010 2315](https://fedlex.data.admin.ch/eli/oc/2010/334)). Mise à jour par le ch. I de l’O du 27 oct. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5853](https://fedlex.data.admin.ch/eli/oc/2010/834)).
 
 <table>
-<tr><th></th><th>Francs y compris la TVA</th></tr>
-<tr><td>1 Données laitières des exploitations individuelles</td><td></td></tr>
-<tr><td>1.1 Données portant sur la production laitière des exploitations</td><td>[tab]</td></tr>
-<tr><td>a. Livraisons mensuelles et adresse (nom; prénom; rue; no; NPA; lieu)</td><td>0.20 par producteur de lait</td></tr>
-<tr><td>b. Données disponibles en complément de a: – canton d’appartenance; – exploitation à l’année ou d’estivage; – région selon le cadastre de la production (montagne ou plaine); – nombre de vaches laitières; – mode de production (bio ou traditionnel)</td><td>Données laitières des exploitations individuelles (a et b) 0.25 par producteur de lait</td></tr>
-<tr><td>c. Données disponibles en complément de a ou de a et b: – commune d’appartenance; – zone selon le cadastre de la production; – nombre d’UGB; – surface agricole utile (SAU)</td><td>Données laitières des exploitations individuelles (a et c) 0.25; (a, b et c) 0.30 par producteur de lait</td></tr>
-<tr><td>d. Éventuellement, données supplémentaires disponibles sur demande</td><td>au maximum 0.30 par producteur de lait</td></tr>
-<tr><td>1.2 Données des exploitations portant sur la mise en valeur du lait</td><td>[tab]</td></tr>
-<tr><td>e. Quantités transformées mensuellement, par produit et par utilisateur, y compris les données suivantes: – commune d’appartenance; – canton d’appartenance; – exploitation à l’année ou d’estivage; – vente directe ou non; – mise en valeur de lait bio ou non; – mise en valeur de lait produit sans ensilage ou non</td><td>0.50 par produit transformé selon la liste des produits TSM et par utilisateur de lait; au maximum 5 par utilisateur de lait</td></tr>
-<tr><td>1.3 Aucun émolument n’est prélevé</td><td>[tab]</td></tr>
-<tr><td>a. de personnes soumises à annonce qui acquièrent les données annoncées par elles;</td><td></td></tr>
-<tr><td>b. pour l’acquisition de données laitières selon les annexes 1 et 2 de l’ordonnance du 30 octobre 2002 sur les interprofessions et les organisations de producteurs[^annex2-lvlu1-1].</td><td></td></tr>
-<tr><td>2 Évaluations standard</td><td></td></tr>
-<tr><td>Abonnement annuel pour l’accès à la plateforme d’évaluation de l’OFAG, pour pouvoir télécharger les évaluations standard des domaines suivants: – Structures des exploitations laitières en Suisse – Mise en valeur – Marché – Dépenses de la Confédération</td><td>Abonnement pour 1 personne physique: 300 par année; abonnement pour 1 entreprise (2–5 personnes physiques): 600 par année</td></tr>
-<tr><td>3 Évaluations individuelles sur demande et acquisitions d’évaluations standard individuelles</td><td></td></tr>
-<tr><td>– Évaluation individuelle sur la base des données laitières disponibles (pas de données d’exploitation) – Acquisition d’évaluations standard pour lesquelles la personne intéressée n’a pas souscrit d’abonnement</td><td>Selon le temps consacré tarif horaire de 100</td></tr>
+<tr><th></th><th colspan="2">Francs y compris la TVA</th></tr>
+<tr><td>1 Données laitières des exploitations individuelles</td><td colspan="2"></td></tr>
+<tr><td>1.1 Données portant sur la production laitière des exploitations</td><td colspan="2">[tab]</td></tr>
+<tr><td>a. Livraisons mensuelles et adresse (nom; prénom; rue; no; NPA; lieu)</td><td colspan="2">0.20 par producteur de lait</td></tr>
+<tr><td>b. Données disponibles en complément de a: – canton d’appartenance; – exploitation à l’année ou d’estivage; – région selon le cadastre de la production (montagne ou plaine); – nombre de vaches laitières; – mode de production (bio ou traditionnel)</td><td colspan="2">Données laitières des exploitations individuelles (a et b) 0.25 par producteur de lait</td></tr>
+<tr><td>c. Données disponibles en complément de a ou de a et b: – commune d’appartenance; – zone selon le cadastre de la production; – nombre d’UGB; – surface agricole utile (SAU)</td><td colspan="2">Données laitières des exploitations individuelles (a et c) 0.25; (a, b et c) 0.30 par producteur de lait</td></tr>
+<tr><td>d. Éventuellement, données supplémentaires disponibles sur demande</td><td colspan="2">au maximum 0.30 par producteur de lait</td></tr>
+<tr><td>1.2 Données des exploitations portant sur la mise en valeur du lait</td><td colspan="2">[tab]</td></tr>
+<tr><td>e. Quantités transformées mensuellement, par produit et par utilisateur, y compris les données suivantes: – commune d’appartenance; – canton d’appartenance; – exploitation à l’année ou d’estivage; – vente directe ou non; – mise en valeur de lait bio ou non; – mise en valeur de lait produit sans ensilage ou non</td><td colspan="2">0.50 par produit transformé selon la liste des produits TSM et par utilisateur de lait; au maximum 5 par utilisateur de lait</td></tr>
+<tr><td>1.3 Aucun émolument n’est prélevé</td><td colspan="2">[tab]</td></tr>
+<tr><td>a. de personnes soumises à annonce qui acquièrent les données annoncées par elles;</td><td colspan="2"></td></tr>
+<tr><td>b. pour l’acquisition de données laitières selon les annexes 1 et 2 de l’ordonnance du 30 octobre 2002 sur les interprofessions et les organisations de producteurs[^annex2-lvlu1-1].</td><td colspan="2"></td></tr>
+<tr><td>2 Évaluations standard</td><td colspan="2"></td></tr>
+<tr><td>Abonnement annuel pour l’accès à la plateforme d’évaluation de l’OFAG, pour pouvoir télécharger les évaluations standard des domaines suivants: – Structures des exploitations laitières en Suisse – Mise en valeur – Marché – Dépenses de la Confédération</td><td colspan="2">Abonnement pour 1 personne physique: 300 par année; abonnement pour 1 entreprise (2–5 personnes physiques): 600 par année</td></tr>
+<tr><td>3 Évaluations individuelles sur demande et acquisitions d’évaluations standard individuelles</td><td colspan="2"></td></tr>
+<tr><td>– Évaluation individuelle sur la base des données laitières disponibles (pas de données d’exploitation) – Acquisition d’évaluations standard pour lesquelles la personne intéressée n’a pas souscrit d’abonnement</td><td colspan="2">Selon le temps consacré tarif horaire de 100</td></tr>
 </table>
 
 [^annex2-lvlu1-1]: [RS 919.117.72](https://fedlex.data.admin.ch/eli/cc/2002/703)
 
-Annexe 3*[^t-11]*
+Annexe 3[^t-12]
 
 (art. 4, al. 1<sup>bis</sup>)
 
-## Émoluments pour prestations de services et décisions en relation avec l’ordonnance du 31 octobre 2018 sur la santé des végétaux (OSaVé)****
+## Émoluments pour prestations de services et décisions en relation avec l’ordonnance du 31 octobre 2018 sur la santé des végétaux (OSaVé)
 
 [^annex3-lvlu1-1]
 
-[^t-11]: Introduite par le ch. I 2 de l’O du 1<sup>er</sup> mai 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 1615](https://fedlex.data.admin.ch/eli/oc/2019/312)).
+[^t-12]: Introduite par le ch. I 2 de l’O du 1<sup>er</sup> mai 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 1615](https://fedlex.data.admin.ch/eli/oc/2019/312)).
 [^annex3-lvlu1-1]: [RS 916.20](https://fedlex.data.admin.ch/eli/cc/2018/682)
 
 <table>

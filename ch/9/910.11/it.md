@@ -3,11 +3,11 @@ sr: "910.11"
 title: "Ordinanza del 16 giugno 2006 concernente le tasse dell'Ufficio federale dell'agricoltura (Ordinanza sulle tasse UFAG)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/415"
 language: it
-version: 2022-01-01
+version: 2024-01-01
 adopted: 2006-06-16
 in_force: 2006-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/415/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2006-415-20220101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/415/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/415/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2006-415-20240101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/415/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/415/20220101/it"
 
 (Ordinanza sulle tasse UFAG)
 
-del 16 giugno 2006 (Stato 1° gennaio 2022)
+del 16 giugno 2006 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -117,25 +117,25 @@ L’ordinanza del 18 ottobre 2000[^6-1] concernente le tasse dell’Ufficio fede
 
 La presente ordinanza entra in vigore il 1° agosto 2006.
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 (art. 4 cpv. 1)
 
 ## Tasse per prestazioni e decisioni
 
-[^t-1]: Nuovo testo giusta il n. II dell’O del 28 ott. 2015 ([RU 2015 4491](https://fedlex.data.admin.ch/eli/oc/2015/750)). Aggiornato dall’all. dell’O del 31 ott. 2018 ([RU 2018 4279](https://fedlex.data.admin.ch/eli/oc/2018/684)), dal n. I 2 dell’O del 1° mag. 2019 ([RU 2019 1615](https://fedlex.data.admin.ch/eli/oc/2019/312)), dall’all. dell’O dell’11 nov. 2021 ([RU 2020 5759](https://fedlex.data.admin.ch/eli/oc/2020/967)), dal n. II dell’O del 3 nov. 2021 ([RU 2021 675](https://fedlex.data.admin.ch/eli/oc/2021/675)) e dall’all. n. 3 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
+[^t-1]: Nuovo testo giusta il n. II dell’O del 28 ott. 2015 ([RU 2015 4491](https://fedlex.data.admin.ch/eli/oc/2015/750)). Aggiornato dall’all. dell’O del 31 ott. 2018 ([RU 2018 4279](https://fedlex.data.admin.ch/eli/oc/2018/684)), dal n. I 2 dell’O del 1° mag. 2019 ([RU 2019 1615](https://fedlex.data.admin.ch/eli/oc/2019/312)), dall’all. dell’O dell’11 nov. 2021 ([RU 2020 5759](https://fedlex.data.admin.ch/eli/oc/2020/967)), dal n. II dell’O del 3 nov. 2021 ([RU 2021 675](https://fedlex.data.admin.ch/eli/oc/2021/675)), dall’all. n. 3 dell’O del 17 nov. 2021 ([RU 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)), dal n. I dell’O del 1° nov. 2023 ([RU 2023 696](https://fedlex.data.admin.ch/eli/oc/2023/696)) e dall’all. 5 n. II 4 dell’O del 1° nov. 2023 sui concimi, in vigore dal 1° gen. 2024 ([RU 2023 711](https://fedlex.data.admin.ch/eli/oc/2023/711)).
 
 <table>
 <tr><th></th><th colspan="2"></th><th colspan="2">Franchi</th></tr>
-<tr><td>1</td><td colspan="2">Ordinanza del 22 settembre 1997**[^annex1-lvlu1-1]** sull’agricoltura biologica</td><td colspan="2"></td></tr>
+<tr><td>1</td><td colspan="2">Ordinanza del 22 settembre 1997[^annex1-lvlu1-1] sull’agricoltura biologica</td><td colspan="2"></td></tr>
 <tr><td>1.1</td><td colspan="2">Esame dell’ammissibilità della conversione per tappe (art. 9)</td><td colspan="2">200</td></tr>
 <tr><td>1.2</td><td colspan="2">Esame di una domanda di utilizzazione temporanea di ingredienti di origine agricola non autorizzati dal Dipartimento (art. 16*k* cpv. 3)</td><td colspan="2">250</td></tr>
 <tr><td>1.3</td><td colspan="2">Esame per la proroga di autorizzazioni concesse</td><td colspan="2">100</td></tr>
-<tr><td>2</td><td colspan="2">Ordinanza del 7 dicembre 1998**[^annex1-lvlu1-2]** sulle zone agricole</td><td colspan="2"></td></tr>
+<tr><td>2</td><td colspan="2">Ordinanza del 7 dicembre 1998[^annex1-lvlu1-2] sulle zone agricole</td><td colspan="2"></td></tr>
 <tr><td>2.1</td><td colspan="2">Decisione di non entrata nel merito su una domanda di modifica dei limiti delle zone (art. 6)</td><td colspan="2">300</td></tr>
 <tr><td>2.2</td><td colspan="2">Decisione sostanziale in merito a una domanda di modifica dei limiti delle zone (art. 6)</td><td colspan="2">600</td></tr>
 <tr><td>2.3</td><td colspan="2">Decisione sostanziale in merito a una domanda di modifica dei limiti delle zone (art. 6); più richiedenti</td><td colspan="2">1200</td></tr>
-<tr><td>3</td><td colspan="2">Ordinanza dell’UFAG del 7 dicembre 1998**[^annex1-lvlu1-3]** concernente il controllo dei mosti d’uva, dei succhi d’uva e dei vini destinati all’esportazione</td><td colspan="2"></td></tr>
+<tr><td>3</td><td colspan="2">Ordinanza dell’UFAG del 7 dicembre 1998[^annex1-lvlu1-3] concernente il controllo dei mosti d’uva, dei succhi d’uva e dei vini destinati all’esportazione</td><td colspan="2"></td></tr>
 <tr><td>3.1</td><td colspan="2">Analisi standard per il controllo della qualità del mosto d’uva e del succo d’uva (art. 2 cpv. 1 lett. a)</td><td colspan="2">180</td></tr>
 <tr><td>3.2</td><td colspan="2">Analisi standard per il controllo della qualità del vino e del mosto d’uva parzialmente fermentato (art. 2 cpv. 1 lett. b)</td><td colspan="2">250</td></tr>
 <tr><td>3.3</td><td colspan="2">Analisi supplementari (art. 2 cpv. 2):</td><td colspan="2"></td></tr>
@@ -145,14 +145,14 @@ Allegato 1*[^t-1]*
 <tr><td></td><td colspan="2">d. lieviti e batteri lattici (analisi microbiologica)</td><td colspan="2">80</td></tr>
 <tr><td></td><td colspan="2">e. metanolo (GC)</td><td colspan="2">80</td></tr>
 <tr><td></td><td colspan="2">f. cloruri e solfati (fotometria)</td><td colspan="2">50</td></tr>
-<tr><td>4</td><td colspan="2">Ordinanza del 7 dicembre 1998**[^annex1-lvlu1-4]** sul materiale di moltiplicazione</td><td colspan="2"></td></tr>
+<tr><td>4</td><td colspan="2">Ordinanza del 7 dicembre 1998[^annex1-lvlu1-4] sul materiale di moltiplicazione</td><td colspan="2"></td></tr>
 <tr><td>4.1</td><td colspan="2">Trattamento di una domanda d’iscrizione nel catalogo nazionale delle varietà o nella lista delle varietà (art. 4 e 9)</td><td colspan="2">150</td></tr>
 <tr><td>4.2</td><td colspan="2">Controllo di sementi e piante (art. 22 cpv. 4):</td><td colspan="2"></td></tr>
 <tr><td>4.2.1</td><td colspan="2">Prelievo di campioni</td><td colspan="2">50</td></tr>
 <tr><td>4.2.2</td><td colspan="2">Analisi completa (purezza, facoltà germinativa, numero di sementi estranee) di campioni depurati per la certificazione di sementi di:</td><td colspan="2"></td></tr>
 <tr><td></td><td colspan="2">a. cereali, mais e leguminose a grossi granelli</td><td colspan="2">55</td></tr>
 <tr><td></td><td colspan="2">b. altre specie</td><td colspan="2">90</td></tr>
-<tr><td>5</td><td colspan="2">Ordinanza del DEFR del 7 dicembre 1998**[^annex1-lvlu1-5]** sulle sementi e i tuberi-seme</td><td colspan="2"></td></tr>
+<tr><td>5</td><td colspan="2">Ordinanza del DEFR del 7 dicembre 1998[^annex1-lvlu1-5] sulle sementi e i tuberi-seme</td><td colspan="2"></td></tr>
 <tr><td>5.1</td><td colspan="2">Esame ufficiale del valore agronomico e di utilizzazione (art. 17); tassa annua per:</td><td colspan="2"></td></tr>
 <tr><td></td><td colspan="2">a. patate:</td><td colspan="2"></td></tr>
 <tr><td></td><td colspan="2">1. una varietà</td><td colspan="2">4000</td></tr>
@@ -164,20 +164,18 @@ Allegato 1*[^t-1]*
 <tr><td>5.3</td><td colspan="2">Controllo colturale su campi di sementi di pre-base e base, per campione (art. 24 cpv. 3)</td><td colspan="2">40</td></tr>
 <tr><td>5.4</td><td colspan="2">Esame e approvazione di una designazione della varietà (art. 16*a*)</td><td colspan="2">100</td></tr>
 <tr><td>6</td><td colspan="2">...</td><td colspan="2"></td></tr>
-<tr><td>7</td><td colspan="2">Ordinanza del 10 gennaio 2001**[^annex1-lvlu1-6]** sui concimi</td><td colspan="2"></td></tr>
-<tr><td>7.1</td><td colspan="2">Trattamento di una domanda d’iscrizione di un tipo di concime nella relativa lista (art. 7)</td><td colspan="2">200</td></tr>
-<tr><td>7.2</td><td colspan="2">Trattamento di una domanda di autorizzazione di un concime (art. 10)</td><td colspan="2">200</td></tr>
-<tr><td>7.3</td><td colspan="2">Trattamento di una notifica di un concime (art. 19)</td><td colspan="2">100</td></tr>
-<tr><td>7.4</td><td colspan="2">Analisi di controllo (art. 29):</td><td colspan="2"></td></tr>
-<tr><td></td><td colspan="2">analisi del compost SS, SO, conduttività, N, P, K, Ca, Mg, Cd, Cr, Cu, Hg, Ni, Pb, Zn</td><td colspan="2">570</td></tr>
-<tr><td>8</td><td colspan="2">Ordinanza del 26 ottobre 2011**[^annex1-lvlu1-7]** sugli alimenti per animali</td><td colspan="2"></td></tr>
+<tr><td>7</td><td colspan="2">Ordinanza del 1° novembre 2023[^annex1-lvlu1-6] sui concimi</td><td colspan="2"></td></tr>
+<tr><td>7.1</td><td colspan="2">Trattamento di una domanda d’iscrizione di un tipo di concime (art. 20)</td><td colspan="2">200</td></tr>
+<tr><td>8</td><td colspan="2">Ordinanza del 26 ottobre 2011[^annex1-lvlu1-7] sugli alimenti per animali</td><td colspan="2"></td></tr>
 <tr><td>8.1</td><td colspan="2">Trattamento di una domanda d’iscrizione nell’elenco degli additivi autorizzati per alimenti per animali (art. 20)</td><td colspan="2">100</td></tr>
 <tr><td>8.2</td><td colspan="2">Trattamento di una domanda di autorizzazione di un additivo per alimenti per animali (art. 22)</td><td colspan="2">1400</td></tr>
 <tr><td>8.3</td><td colspan="2">Trattamento di una domanda d’iscrizione nell’elenco degli alimenti OGM per animali (art. 62)</td><td colspan="2">1400</td></tr>
 <tr><td>8.4</td><td colspan="2">Controllo degli alimenti per animali (art. 70) a condizione che il prodotto sia in ordine; in caso contrario, la tassa è calcolata secondo l’articolo 4 capoverso 2</td><td colspan="2">70</td></tr>
-<tr><th>8.5</th><th colspan="2">Trattamento del rinnovo (art. 31) o dell’estensione di un’autorizzazione esistente (art. 22) per un additivo utilizzato negli alimenti per animali</th><th colspan="2">400</th></tr>
+<tr><td>8.5</td><td colspan="2">Trattamento del rinnovo (art. 31) o dell’estensione di un’autorizzazione esistente (art. 22) per un additivo utilizzato negli alimenti per animali</td><td colspan="2">400</td></tr>
+<tr><td>8.6</td><td colspan="2">Maggiori controlli degli alimenti per animali provenienti da Paesi terzi, anche se non danno luogo a contestazioni (art. 58 in combinato disposto con l’art. 3 dell’ordinanza del 26 ottobre 2011[^annex1-lvlu1-8] sul libro dei prodotti destinati all’alimentazione animale, OLAIA), tassa per lotto</td><td colspan="2">50</td></tr>
+<tr><td>8.7</td><td colspan="2">Analisi nel quadro dei maggiori controlli di alimenti per animali provenienti da Paesi terzi (art. 58 in combinato disposto con l’art. 3 OLAIA)</td><td colspan="2">costi effettivi</td></tr>
 <tr><td>9</td><td colspan="2">...</td><td colspan="2"></td></tr>
-<tr><td>10</td><td colspan="2">Ordinanza del 23 ottobre 2013**[^annex1-lvlu1-8]** sui sistemi d’informazione nel campo dell’agricoltura</td><td colspan="2"></td></tr>
+<tr><td>10</td><td colspan="2">Ordinanza del 23 ottobre 2013[^annex1-lvlu1-9] sui sistemi d’informazione nel campo dell’agricoltura</td><td colspan="2"></td></tr>
 <tr><td>10.1</td><td colspan="2">Allacciamento di un sistema d’informazione esterno al sistema IAM del portale Internet Agate (art. 20*a* cpv. 4):</td><td colspan="2"></td></tr>
 <tr><td></td><td colspan="2">a. importo forfetario unico per i lavori di allacciamento</td><td colspan="2">1300–3300</td></tr>
 <tr><td></td><td colspan="2">b. importo forfetario annuo a copertura dei costi per la licenza e l’assistenza</td><td colspan="2">500–2000</td></tr>
@@ -197,9 +195,10 @@ Allegato 1*[^t-1]*
 [^annex1-lvlu1-5]: [RS 916.151.1](https://fedlex.data.admin.ch/eli/cc/1999/121)
 [^annex1-lvlu1-6]: [RS 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)
 [^annex1-lvlu1-7]: [RS 916.307](https://fedlex.data.admin.ch/eli/cc/2011/772)
-[^annex1-lvlu1-8]: [RS 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
+[^annex1-lvlu1-8]: [RS 916.307.1](https://fedlex.data.admin.ch/eli/cc/2011/802)
+[^annex1-lvlu1-9]: [RS 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
 
-Allegato 2*[^t-2]*
+Allegato 2[^t-2]
 
 (art. 4 cpv. 1 e 5*a*)
 
@@ -229,11 +228,11 @@ Allegato 2*[^t-2]*
 
 [^annex2-lvlu1-1]: [RS 919.117.72](https://fedlex.data.admin.ch/eli/cc/2002/703)
 
-Allegato 3*[^t-3]*
+Allegato 3[^t-3]
 
 (art. 4 cpv. 1<sup>bis</sup>)
 
-## Tasse per prestazioni e decisioni in relazione all’ordinanza del 31 ottobre 2018**** sulla salute dei vegetali (OSalV)
+## Tasse per prestazioni e decisioni in relazione all’ordinanza del 31 ottobre 2018 sulla salute dei vegetali (OSalV)
 
 [^annex3-lvlu1-1]
 
