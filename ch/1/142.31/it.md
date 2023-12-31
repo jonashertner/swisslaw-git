@@ -4,11 +4,11 @@ title: "Legge del 26 giugno 1998 sull'asilo (LAsi)"
 short: LAsi
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/358"
 language: it
-version: 2023-09-01
+version: 2024-01-01
 adopted: 1998-06-26
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/358/20230901/it/xml/fedlex-data-admin-ch-eli-cc-1999-358-20230901-it-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/358/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/358/20240101/it/xml/fedlex-data-admin-ch-eli-cc-1999-358-20240101-it-xml-15.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/358/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/358/20230901/it"
 
 (LAsi)
 
-del 26 giugno 1998 (Stato 1° settembre 2023)
+del 26 giugno 1998 (Stato 1° gennaio 2024)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -661,11 +661,26 @@ Se dall’audizione del richiedente sui motivi d’asilo risulta che non è poss
 
 #### Art. 29a
 
-**Collaborazione all’accertamento dei fatti**[^29a-1]
+**Verifica dell’affidabilità**[^29a-1]
+
+<sup>1</sup> La SEM può far verificare l’affidabilità degli interpreti e dei traduttori prima e durante il loro mandato.
+
+<sup>2</sup> I servizi specializzati CSP di cui all’articolo 31 capoverso 2 della legge del 18 dicembre 2020[^29a-2] sulla sicurezza delle informazioni (LSIn) eseguono le verifiche dell’affidabilità. Le disposizioni della LSIn relative al controllo di sicurezza di base si applicano per analogia.
+
+<sup>3</sup> Se gli interpreti e i traduttori sono sottoposti contemporaneamente a un controllo di sicurezza relativo alle persone secondo la LSIn, le due procedure sono riunite.
+
+<sup>4</sup> I costi delle verifiche dell’affidabilità sono a carico della SEM.
+
+[^29a-1]: Introdotto dall’all. 1 n. 3 della L del 18 dic. 2020 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [FF 2017 2563](https://fedlex.data.admin.ch/eli/fga/2017/647)).
+[^29a-2]: [RS 128](https://fedlex.data.admin.ch/eli/cc/2022/232)
+
+#### Art. 29b
+
+**Collaborazione all’accertamento dei fatti**[^29b-1]
 
 Il Consiglio federale può concludere con Stati terzi e organizzazioni internazionali accordi concernenti la collaborazione all’accertamento dei fatti. Può in particolare concludere accordi concernenti lo scambio reciproco di informazioni per accertare nello Stato d’origine o di provenienza i motivi di fuga di un richiedente, l’itinerario seguito e il soggiorno in uno Stato terzo.
 
-[^29a-1]: Introdotto dal n. I della LF del 14 dic. 2012, in vigore dal 1° feb. 2014 ([RU 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [FF 2010 3889](https://fedlex.data.admin.ch/eli/fga/2010/794); [2011 6503](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
+[^29b-1]: Originario art. 29*a*. Introdotto dal n. I della LF del 14 dic. 2012, in vigore dal 1° feb. 2014 ([RU 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [FF 2010 3889](https://fedlex.data.admin.ch/eli/fga/2010/794); [2011 6503](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 
 #### Art. 30
 
@@ -2299,7 +2314,11 @@ Il diritto d’accesso è retto dalle disposizioni federali o cantonali in mater
 [^102e-1]: Nuovo testo giusta il n. 2 della LF del 19 mar. 2010 che traspone nel diritto svizzero la decisione quadro 2008/977/GAI sulla protezione dei dati personali trattati nell’ambito della cooperazione giudiziaria e di polizia in materia penale, in vigore dal 1° dic. 2010 ([RU 2010 3387](https://fedlex.data.admin.ch/eli/oc/2010/464), [3417](https://fedlex.data.admin.ch/eli/oc/2010/473); [FF 2009 5873](https://fedlex.data.admin.ch/eli/fga/2009/1207)).
 [^102e-2]: Per. abrogato dall’all. 1 n. II 5 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
-Sezione 3:[^t-1] Videosorveglianza
+### Sezione 3: Videosorveglianza
+
+[^chap7-sec3-1]
+
+[^chap7-sec3-1]: Introdotta dall’all. n. 1 della LF del 14 dic. 2018 (Norme procedurali e sistemi d’informazione), in vigore dal 1° apr. 2020 ([RU 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [2020 881](https://fedlex.data.admin.ch/eli/oc/2020/170); [FF 2018 1381](https://fedlex.data.admin.ch/eli/fga/2018/673)).
 
 #### Art. 102e<sup>bis</sup>
 
@@ -2313,16 +2332,17 @@ Sezione 3:[^t-1] Videosorveglianza
 
 <sup>5</sup> Il Consiglio federale disciplina le modalità della videosorveglianza. Determina segnatamente quali edifici e parti di edifici possono essere sottoposti a videosorveglianza e disciplina come le registrazioni devono essere conservate, protette dagli abusi e trasmesse alle autorità di perseguimento penale.
 
-[^t-1]: Introdotta dall’all. n. 1 della LF del 14 dic. 2018 (Norme procedurali e sistemi d’informazione), in vigore dal 1° apr. 2020 ([RU 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [2020 881](https://fedlex.data.admin.ch/eli/oc/2020/170); [FF 2018 1381](https://fedlex.data.admin.ch/eli/fga/2018/673)).
+## Capitolo 8: Tutela giurisdizionale, procedura di ricorso, riesame e domande multiple
 
-Capitolo 8: Tutela giurisdizionale, procedura di ricorso, riesame e domande multiple[^t-2]
+[^chap8-1]
 
-## Sezione 1: Protezione giuridica nei centri della Confederazione
+[^chap8-1]: Originario avanti art. 103. Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° mar. 2019 ([RU 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521); [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [FF 2014 6917](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
 
-[^annex3-annex1-lvlu1-1]
+### Sezione 1: Protezione giuridica nei centri della Confederazione
 
-[^t-2]: Originario avanti art. 103. Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° mar. 2019 ([RU 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521); [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [FF 2014 6917](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
-[^annex3-annex1-lvlu1-1]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° mar. 2019 ([RU 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521); [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [FF 2014 6917](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
+[^chap8-sec1-1]
+
+[^chap8-sec1-1]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° mar. 2019 ([RU 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521); [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [FF 2014 6917](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
 
 #### Art. 102f
 
@@ -2340,10 +2360,10 @@ Capitolo 8: Tutela giurisdizionale, procedura di ricorso, riesame e domande mult
 
 <sup>2</sup> La consulenza comprende segnatamente l’informazione dei richiedenti l’asilo sui loro diritti e obblighi nella procedura d’asilo.
 
-<sup>3</sup> La consulenza comprende inoltre l’informazione sul meccanismo di denuncia di cui all’articolo 111 del regolamento (UE) 2019/1896[^annex3-annex1-lvlu1-102g-1].[^annex3-annex1-lvlu1-102g-2]
+<sup>3</sup> La consulenza comprende inoltre l’informazione sul meccanismo di denuncia di cui all’articolo 111 del regolamento (UE) 2019/1896[^102g-1].[^102g-2]
 
-[^annex3-annex1-lvlu1-102g-1]: Regolamento (UE) 2019/1896 del Parlamento europeo e del Consiglio, del 13 novembre 2019, relativo alla guardia di frontiera e costiera europea e che abroga i regolamenti (UE) n. 1052/2013 e (UE) 2016/1624, versione della GU L 295 del 14.11.2019, pag. 1.
-[^annex3-annex1-lvlu1-102g-2]: Introdotto dal n. I della LF del 1° ott. 2021, in vigore dal 1° set. 2022 ([RU 2022 459](https://fedlex.data.admin.ch/eli/oc/2022/459); [FF 2020 6219](https://fedlex.data.admin.ch/eli/fga/2020/1902)).
+[^102g-1]: Regolamento (UE) 2019/1896 del Parlamento europeo e del Consiglio, del 13 novembre 2019, relativo alla guardia di frontiera e costiera europea e che abroga i regolamenti (UE) n. 1052/2013 e (UE) 2016/1624, versione della GU L 295 del 14.11.2019, pag. 1.
+[^102g-2]: Introdotto dal n. I della LF del 1° ott. 2021, in vigore dal 1° set. 2022 ([RU 2022 459](https://fedlex.data.admin.ch/eli/oc/2022/459); [FF 2020 6219](https://fedlex.data.admin.ch/eli/fga/2020/1902)).
 
 #### Art. 102h
 
@@ -2397,37 +2417,37 @@ Sulla base di un accordo e di soluzioni finanziariamente vantaggiose, la Confede
 - d. l’assunzione della rappresentanza legale durante la procedura di ricorso, in particolare la redazione di un atto di ricorso;
 - e. la difesa, in veste di persona di fiducia, degli interessi di richiedenti l’asilo minorenni non accompagnati nei centri della Confederazione e all’aeroporto;
 - f. in caso di passaggio alla procedura ampliata, l’informazione del consultorio giuridico da parte del rappresentante legale designato sullo stato della procedura oppure il proseguimento della rappresentanza legale nelle fasi procedurali rilevanti per la decisione ai sensi dell’articolo 102*l*;
-- g.[^annex3-annex1-lvlu1-102k-1] la consulenza e il sostegno nel quadro della presentazione di una denuncia ai sensi dell’articolo 111 del regolamento (UE) 2019/1896[^annex3-annex1-lvlu1-102k-2].
+- g.[^102k-1] la consulenza e il sostegno nel quadro della presentazione di una denuncia ai sensi dell’articolo 111 del regolamento (UE) 2019/1896[^102k-2].
 
 <sup>2</sup> L’indennità comprende un contributo per le spese amministrative e di personale del fornitore di prestazioni, in particolare per l’organizzazione della consulenza e della rappresentanza legale, nonché un contributo per interpreti indipendenti. L’indennizzo è fissato a titolo forfettario. Eccezionalmente può essere fissato in funzione del dispendio effettivo, in particolare a titolo di indennizzo per spese uniche.
 
-[^annex3-annex1-lvlu1-102k-1]: Introdotta dal n. I della LF del 1° ott. 2021, in vigore dal 1° set. 2022 ([RU 2022 459](https://fedlex.data.admin.ch/eli/oc/2022/459); [FF 2020 6219](https://fedlex.data.admin.ch/eli/fga/2020/1902)).
-[^annex3-annex1-lvlu1-102k-2]: Cfr. nota a piè di pagina relativa all’art. 102*g* cpv. 3.
+[^102k-1]: Introdotta dal n. I della LF del 1° ott. 2021, in vigore dal 1° set. 2022 ([RU 2022 459](https://fedlex.data.admin.ch/eli/oc/2022/459); [FF 2020 6219](https://fedlex.data.admin.ch/eli/fga/2020/1902)).
+[^102k-2]: Cfr. nota a piè di pagina relativa all’art. 102*g* cpv. 3.
 
-## Sezione 1*a*: Consulenza e rappresentanza legale nella procedura ampliata dopo l’attribuzione a un Cantone
+### Sezione 1*a*: Consulenza e rappresentanza legale nella procedura ampliata dopo l’attribuzione a un Cantone
 
-[^annex3-annex1-sec1a-1]
+[^chap8-sec1a-1]
 
-[^annex3-annex1-sec1a-1]: Introdotta dal n. I della LF del 25 set. 2015, in vigore dal 1° mar. 2019 ([RU 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521); [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [FF 2014 6917](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
+[^chap8-sec1a-1]: Introdotta dal n. I della LF del 25 set. 2015, in vigore dal 1° mar. 2019 ([RU 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521); [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [FF 2014 6917](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
 
 #### Art. 102l
 
 <sup>1</sup> Dopo l’attribuzione a un Cantone, nelle fasi procedurali di prima istanza rilevanti per la decisione, in particolare se si procede a un’audizione supplementare sui motivi d’asilo, i richiedenti l’asilo possono rivolgersi gratuitamente a un consultorio giuridico o al rappresentante legale designato.
 
-<sup>1bis</sup> Dopo l’attribuzione a un Cantone, i richiedenti l’asilo possono rivolgersi gratuitamente a un consultorio giuridico, o al rappresentante legale designato, al fine di ottenere la consulenza e il sostegno di cui all’articolo 102*k* capoverso 1 lettera g, salvo che ne abbiano già beneficiato in un centro della Confederazione.[^annex3-annex1-sec1a-102l-1]
+<sup>1bis</sup> Dopo l’attribuzione a un Cantone, i richiedenti l’asilo possono rivolgersi gratuitamente a un consultorio giuridico, o al rappresentante legale designato, al fine di ottenere la consulenza e il sostegno di cui all’articolo 102*k* capoverso 1 lettera g, salvo che ne abbiano già beneficiato in un centro della Confederazione.[^102l-1]
 
-<sup>2</sup> Sulla base di un accordo e di soluzioni finanziariamente vantaggiose, la Confederazione versa al consultorio giuridico un’indennità per le attività di cui ai capoversi 1 e 1<sup>bis</sup>.[^annex3-annex1-sec1a-102l-2] Eccezionalmente può essere fissato in funzione del dispendio effettivo, in particolare a titolo di indennizzo per spese uniche.
+<sup>2</sup> Sulla base di un accordo e di soluzioni finanziariamente vantaggiose, la Confederazione versa al consultorio giuridico un’indennità per le attività di cui ai capoversi 1 e 1<sup>bis</sup>.[^102l-2] Eccezionalmente può essere fissato in funzione del dispendio effettivo, in particolare a titolo di indennizzo per spese uniche.
 
 <sup>3</sup> Il Consiglio federale stabilisce le condizioni necessarie per l’autorizzazione a esercitare l’attività di consultorio giuridico e definisce le fasi procedurali rilevanti per la decisione ai sensi del capoverso 1.
 
-[^annex3-annex1-sec1a-102l-1]: Introdotto dal n. I della LF del 1° ott. 2021, in vigore dal 1° set. 2022 ([RU 2022 459](https://fedlex.data.admin.ch/eli/oc/2022/459); [FF 2020 6219](https://fedlex.data.admin.ch/eli/fga/2020/1902)).
-[^annex3-annex1-sec1a-102l-2]: Nuovo testo giusta il n. I della LF del 1° ott. 2021, in vigore dal 1° set. 2022 ([RU 2022 459](https://fedlex.data.admin.ch/eli/oc/2022/459); [FF 2020 6219](https://fedlex.data.admin.ch/eli/fga/2020/1902)).
+[^102l-1]: Introdotto dal n. I della LF del 1° ott. 2021, in vigore dal 1° set. 2022 ([RU 2022 459](https://fedlex.data.admin.ch/eli/oc/2022/459); [FF 2020 6219](https://fedlex.data.admin.ch/eli/fga/2020/1902)).
+[^102l-2]: Nuovo testo giusta il n. I della LF del 1° ott. 2021, in vigore dal 1° set. 2022 ([RU 2022 459](https://fedlex.data.admin.ch/eli/oc/2022/459); [FF 2020 6219](https://fedlex.data.admin.ch/eli/fga/2020/1902)).
 
-## Sezione 1*b*: Gratuito patrocinio
+### Sezione 1*b*: Gratuito patrocinio
 
-[^annex3-annex1-sec1b-1]
+[^chap8-sec1b-1]
 
-[^annex3-annex1-sec1b-1]: Introdotta dal n. I della LF del 25 set. 2015, in vigore dal 1° mar. 2019 ([RU 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521); [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [FF 2014 6917](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
+[^chap8-sec1b-1]: Introdotta dal n. I della LF del 25 set. 2015, in vigore dal 1° mar. 2019 ([RU 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521); [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [FF 2014 6917](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
 
 #### Art. 102m
 
@@ -2437,23 +2457,23 @@ Su domanda del richiedente l’asilo dispensato dal pagamento delle spese proced
 
 - a. decisioni di non entrata nel merito, di rifiuto dell’asilo e di allontanamento secondo gli articoli 31*a* e 44 nell’ambito della procedura ampliata;
 - b. decisioni di revoca e di termine dell’asilo secondo gli articoli 63 e 64;
-- c. la revoca dell’ammissione provvisoria per le persone del settore dell’asilo secondo l’articolo 84 capoversi 2 e 3 LStrI[^annex3-annex1-sec1b-102m-1];
+- c. la revoca dell’ammissione provvisoria per le persone del settore dell’asilo secondo l’articolo 84 capoversi 2 e 3 LStrI[^102m-1];
 - d. decisioni relative alla concessione della protezione provvisoria secondo il capitolo 4.
 
-<sup>2</sup> Il capoverso 1 non si applica ai ricorsi presentati nell’ambito di procedure di riesame e di revisione e di procedure relative a domande multiple. Ai ricorsi di questo genere e a tutti gli altri ricorsi, eccettuati quelli di cui al capoverso 1, si applica l’articolo 65 capoverso 2 PA[^annex3-annex1-sec1b-102m-2].
+<sup>2</sup> Il capoverso 1 non si applica ai ricorsi presentati nell’ambito di procedure di riesame e di revisione e di procedure relative a domande multiple. Ai ricorsi di questo genere e a tutti gli altri ricorsi, eccettuati quelli di cui al capoverso 1, si applica l’articolo 65 capoverso 2 PA[^102m-2].
 
 <sup>3</sup> Per i ricorsi presentati in base alla presente legge il gratuito patrocinio può essere garantito anche da titolari di un diploma universitario in giurisprudenza che svolgono per professione attività di consulenza e rappresentanza dei richiedenti l’asilo.
 
 <sup>4</sup> I capoversi 1–3 si applicano anche alle persone in merito alla cui domanda si è deciso in procedura celere e che rinunciano a una rappresentanza legale ai sensi dell’articolo 102*h*. Lo stesso vale se nella procedura celere il rappresentante legale designato rinuncia a interporre ricorso (art. 102*h* cpv. 4).
 
-[^annex3-annex1-sec1b-102m-1]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^annex3-annex1-sec1b-102m-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^102m-1]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^102m-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
 
-## Sezione 1*c*: Procedura di ricorso a livello cantonale
+### Sezione 1*c*: Procedura di ricorso a livello cantonale
 
-[^annex3-annex1-sec1c-1]
+[^chap8-sec1c-1]
 
-[^annex3-annex1-sec1c-1]: Introdotta dal n. I della LF del 25 set. 2015, in vigore dal 1° mar. 2019 ([RU 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521); [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [FF 2014 6917](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
+[^chap8-sec1c-1]: Introdotta dal n. I della LF del 25 set. 2015, in vigore dal 1° mar. 2019 ([RU 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521); [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [FF 2014 6917](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
 
 #### Art. 103
 
@@ -2461,22 +2481,22 @@ Su domanda del richiedente l’asilo dispensato dal pagamento delle spese proced
 
 <sup>2</sup> Il ricorso contro le decisioni cantonali di ultima istanza è retto dalle disposizioni generali della procedura federale, a meno che la presente legge non disponga altrimenti.
 
-## Sezione 2: Procedura di ricorso a livello federale
+### Sezione 2: Procedura di ricorso a livello federale
 
 #### Art. 104
 
-[^annex3-annex1-sec2-104-1]
+[^104-1]
 
-[^annex3-annex1-sec2-104-1]: Abrogato dall’all. n. 4 della L del 17 giu. 2005 sul Tribunale amministrativo federale, con effetto dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^104-1]: Abrogato dall’all. n. 4 della L del 17 giu. 2005 sul Tribunale amministrativo federale, con effetto dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 105
 
-**Ricorsi contro le decisioni della SEM**[^annex3-annex1-sec2-105-1]
+**Ricorsi contro le decisioni della SEM**[^105-1]
 
-Contro le decisioni della SEM può essere interposto ricorso secondo la legge federale del 17 giugno 2005[^annex3-annex1-sec2-105-2] sul Tribunale amministrativo federale.
+Contro le decisioni della SEM può essere interposto ricorso secondo la legge federale del 17 giugno 2005[^105-2] sul Tribunale amministrativo federale.
 
-[^annex3-annex1-sec2-105-1]: Nuovo testo giusta il n. I 3 dell’O dell’AF del 20 dic. 2006 che adegua taluni atti normativi alle disposizioni della legge sul Tribunale federale e della legge sul Tribunale amministrativo federale, in vigore dal 1° gen. 2008 ([RU 2006 5599](https://fedlex.data.admin.ch/eli/oc/2006/826); [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [FF 2006 7109](https://fedlex.data.admin.ch/eli/fga/2006/974)).
-[^annex3-annex1-sec2-105-2]: [RS 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352)
+[^105-1]: Nuovo testo giusta il n. I 3 dell’O dell’AF del 20 dic. 2006 che adegua taluni atti normativi alle disposizioni della legge sul Tribunale federale e della legge sul Tribunale amministrativo federale, in vigore dal 1° gen. 2008 ([RU 2006 5599](https://fedlex.data.admin.ch/eli/oc/2006/826); [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [FF 2006 7109](https://fedlex.data.admin.ch/eli/fga/2006/974)).
+[^105-2]: [RS 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352)
 
 #### Art. 106
 
@@ -2488,18 +2508,18 @@ Il ricorrente può far valere:
 
 - a. la violazione del diritto federale, compreso l’eccesso o l’abuso del potere di apprezzamento;
 - b. l’accertamento inesatto o incompleto dei fatti giuridicamente rilevanti.
-- c.[^annex3-annex1-sec2-106-1] ...
+- c.[^106-1] ...
 
-<sup>2</sup> Rimangono salvi gli articoli 27 capoverso 3 e 68 capoverso 2.[^annex3-annex1-sec2-106-2]
+<sup>2</sup> Rimangono salvi gli articoli 27 capoverso 3 e 68 capoverso 2.[^106-2]
 
-[^annex3-annex1-sec2-106-1]: Abrogata dal n. I della LF del 14 dic. 2012, con effetto dal 1° feb. 2014 ([RU 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [FF 2010 3889](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 6503](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
-[^annex3-annex1-sec2-106-2]: Nuovo testo giusta il n. I 2 dell’O dell’AF del 20 dic. 2006 che adegua taluni atti normativi alle disposizioni della L sul Tribunale federale e della L sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 5599](https://fedlex.data.admin.ch/eli/oc/2006/826); [FF 2006 7109](https://fedlex.data.admin.ch/eli/fga/2006/974)).
+[^106-1]: Abrogata dal n. I della LF del 14 dic. 2012, con effetto dal 1° feb. 2014 ([RU 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [FF 2010 3889](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 6503](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
+[^106-2]: Nuovo testo giusta il n. I 2 dell’O dell’AF del 20 dic. 2006 che adegua taluni atti normativi alle disposizioni della L sul Tribunale federale e della L sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 5599](https://fedlex.data.admin.ch/eli/oc/2006/826); [FF 2006 7109](https://fedlex.data.admin.ch/eli/fga/2006/974)).
 
 #### Art. 107
 
 **Decisioni incidentali impugnabili**
 
-<sup>1</sup> Le decisioni incidentali prese in applicazione degli articoli 10 capoversi 1–3 e 18–48 della presente legge nonché dell’articolo 71 LStrI[^annex3-annex1-sec2-107-1] possono essere impugnate soltanto con ricorso contro la decisione finale. È fatto salvo il ricorso contro le decisioni prese in applicazione dell’articolo 27 capoverso 3.[^annex3-annex1-sec2-107-2]
+<sup>1</sup> Le decisioni incidentali prese in applicazione degli articoli 10 capoversi 1–3 e 18–48 della presente legge nonché dell’articolo 71 LStrI[^107-1] possono essere impugnate soltanto con ricorso contro la decisione finale. È fatto salvo il ricorso contro le decisioni prese in applicazione dell’articolo 27 capoverso 3.[^107-2]
 
 <sup>2</sup>
 
@@ -2508,15 +2528,15 @@ Si possono inoltre impugnare con ricorso distinto, nella misura in cui possono c
 - a. le misure cautelari;
 - b. le decisioni con le quali si sospende la procedura, salvo quelle secondo l’articolo 69 capoverso 3.
 
-<sup>3</sup> ...[^annex3-annex1-sec2-107-3]
+<sup>3</sup> ...[^107-3]
 
-[^annex3-annex1-sec2-107-1]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^annex3-annex1-sec2-107-2]: Nuovo testo giusta l’all. n. II 1 della LF del 16 dic. 2005 sugli stranieri, in vigore dal 1° gen. 2008 ([RU 2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758); [2008 5405](https://fedlex.data.admin.ch/eli/oc/2008/755); [FF 2002 3327](https://fedlex.data.admin.ch/eli/fga/2002/541)).
-[^annex3-annex1-sec2-107-3]: Abrogato dal n. I della L del 16 dic. 2005, con effetto dal 1° gen. 2008 ([RU 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727); [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [FF 2002 6087](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
+[^107-1]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^107-2]: Nuovo testo giusta l’all. n. II 1 della LF del 16 dic. 2005 sugli stranieri, in vigore dal 1° gen. 2008 ([RU 2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758); [2008 5405](https://fedlex.data.admin.ch/eli/oc/2008/755); [FF 2002 3327](https://fedlex.data.admin.ch/eli/fga/2002/541)).
+[^107-3]: Abrogato dal n. I della L del 16 dic. 2005, con effetto dal 1° gen. 2008 ([RU 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727); [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [FF 2002 6087](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
 
 #### Art. 107a
 
-**Procedura per i casi Dublino**[^annex3-annex1-sec2-107a-1]
+**Procedura per i casi Dublino**[^107a-1]
 
 <sup>1</sup> Il ricorso interposto contro la decisione di non entrata nel merito della domanda presentata da un richiedente l’asilo che può partire per uno Stato cui compete l’esecuzione della procedura d’asilo e d’allontanamento in virtù di un trattato internazionale non ha effetto sospensivo.
 
@@ -2524,11 +2544,11 @@ Si possono inoltre impugnare con ricorso distinto, nella misura in cui possono c
 
 <sup>3</sup> Il Tribunale amministrativo federale decide entro cinque giorni dalla ricezione della richiesta di cui al capoverso 2. Se l’effetto sospensivo non è accordato entro tale termine, l’allontanamento può essere eseguito.
 
-[^annex3-annex1-sec2-107a-1]: Introdotto dall’art. 3 n. 2 del DF del 17 dic. 2004 che approva e traspone nel diritto svizzero gli Acc. bilaterali con l’UE per l’associazione della Svizzera alla normativa di Schengen e Dublino ([RU 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112); [FF 2004 5273](https://fedlex.data.admin.ch/eli/fga/2004/1084)). Nuovo testo giusta l’all. n. I 2 del DF del 26 set. 2014 (Recepimento del regolamento [UE] n. 604/2013 che stabilisce i criteri e i meccanismi di determinazione dello Stato membro competente per l’esame di una domanda di protezione internazionale), in vigore dal 1° lug. 2015 ([RU 2015 1841](https://fedlex.data.admin.ch/eli/oc/2015/357); [FF 2014 2411](https://fedlex.data.admin.ch/eli/fga/2014/489)).
+[^107a-1]: Introdotto dall’art. 3 n. 2 del DF del 17 dic. 2004 che approva e traspone nel diritto svizzero gli Acc. bilaterali con l’UE per l’associazione della Svizzera alla normativa di Schengen e Dublino ([RU 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112); [FF 2004 5273](https://fedlex.data.admin.ch/eli/fga/2004/1084)). Nuovo testo giusta l’all. n. I 2 del DF del 26 set. 2014 (Recepimento del regolamento [UE] n. 604/2013 che stabilisce i criteri e i meccanismi di determinazione dello Stato membro competente per l’esame di una domanda di protezione internazionale), in vigore dal 1° lug. 2015 ([RU 2015 1841](https://fedlex.data.admin.ch/eli/oc/2015/357); [FF 2014 2411](https://fedlex.data.admin.ch/eli/fga/2014/489)).
 
 #### Art. 108
 
-**Termini di ricorso**[^annex3-annex1-sec2-108-1]
+**Termini di ricorso**[^108-1]
 
 <sup>1</sup> Nella procedura celere, il ricorso contro una decisione secondo l’articolo 31*a* capoverso 4 deve essere interposto entro sette giorni lavorativi o, se si tratta di decisioni incidentali, entro cinque giorni dalla notificazione della decisione.
 
@@ -2542,23 +2562,23 @@ Si possono inoltre impugnare con ricorso distinto, nella misura in cui possono c
 
 <sup>6</sup> Negli altri casi il termine di ricorso è di 30 giorni dalla notificazione della decisione.
 
-<sup>7</sup> Gli atti scritti trasmessi per telefax sono considerati consegnati validamente se pervengono tempestivamente al Tribunale amministrativo federale e sono regolarizzati mediante l’invio ulteriore dell’originale firmato, conformemente alle norme dell’articolo 52 capoversi 2 e 3 PA[^annex3-annex1-sec2-108-2].
+<sup>7</sup> Gli atti scritti trasmessi per telefax sono considerati consegnati validamente se pervengono tempestivamente al Tribunale amministrativo federale e sono regolarizzati mediante l’invio ulteriore dell’originale firmato, conformemente alle norme dell’articolo 52 capoversi 2 e 3 PA[^108-2].
 
-[^annex3-annex1-sec2-108-1]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° mar. 2019 ([RU 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521); [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [FF 2014 6917](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
-[^annex3-annex1-sec2-108-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^108-1]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° mar. 2019 ([RU 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521); [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [FF 2014 6917](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
+[^108-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
 
 #### Art. 108a
 
-**Coordinamento con la procedura d’estradizione**[^annex3-annex1-sec2-108a-1]
+**Coordinamento con la procedura d’estradizione**[^108a-1]
 
-Se contro il richiedente è pendente una domanda d’estradizione ai sensi della legge del 20 marzo 1981[^annex3-annex1-sec2-108a-2] sull’assistenza in materia penale, le autorità di ricorso decidono sul ricorso in materia d’asilo tenendo conto degli atti della procedura d’estradizione.
+Se contro il richiedente è pendente una domanda d’estradizione ai sensi della legge del 20 marzo 1981[^108a-2] sull’assistenza in materia penale, le autorità di ricorso decidono sul ricorso in materia d’asilo tenendo conto degli atti della procedura d’estradizione.
 
-[^annex3-annex1-sec2-108a-1]: Introdotto dal n. I 2 della LF del 19 dic. 2003 sul programma di sgravio 2003 ([RU 2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200); [FF 2003 4857](https://fedlex.data.admin.ch/eli/fga/2003/887)). Nuovo testo giusta il n. I 1 della LF del 1° ott. 2010 sul coordinamento tra la procedura d’asilo e la procedura d’estradizione, in vigore dal 1° apr. 2011 ([RU 2011 925](https://fedlex.data.admin.ch/eli/oc/2011/137); [FF 2010 1295](https://fedlex.data.admin.ch/eli/fga/2010/264)).
-[^annex3-annex1-sec2-108a-2]: [RS 351.1](https://fedlex.data.admin.ch/eli/cc/1982/846_846_846)
+[^108a-1]: Introdotto dal n. I 2 della LF del 19 dic. 2003 sul programma di sgravio 2003 ([RU 2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200); [FF 2003 4857](https://fedlex.data.admin.ch/eli/fga/2003/887)). Nuovo testo giusta il n. I 1 della LF del 1° ott. 2010 sul coordinamento tra la procedura d’asilo e la procedura d’estradizione, in vigore dal 1° apr. 2011 ([RU 2011 925](https://fedlex.data.admin.ch/eli/oc/2011/137); [FF 2010 1295](https://fedlex.data.admin.ch/eli/fga/2010/264)).
+[^108a-2]: [RS 351.1](https://fedlex.data.admin.ch/eli/cc/1982/846_846_846)
 
 #### Art. 109
 
-**Termini d’evasione dei ricorsi**[^annex3-annex1-sec2-109-1]
+**Termini d’evasione dei ricorsi**[^109-1]
 
 <sup>1</sup> Nella procedura celere, il Tribunale amministrativo federale decide entro 20 giorni sui ricorsi contro le decisioni di cui all’articolo 31*a* capoverso 4.
 
@@ -2572,113 +2592,113 @@ Se contro il richiedente è pendente una domanda d’estradizione ai sensi della
 
 <sup>6</sup> Negli altri casi, il Tribunale amministrativo federale decide sui ricorsi entro 20 giorni.
 
-<sup>7</sup> Se il richiedente è incarcerato in vista d’estradizione su domanda dello Stato da cui cerca protezione in Svizzera, il Tribunale amministrativo federale decide in via prioritaria e senza indugio. Lo stesso vale anche se nei suoi confronti è stata pronunciata l’espulsione secondo l’articolo 66*a* o 66*a*<sup>bis</sup> CP[^annex3-annex1-sec2-109-2], l’articolo 49*a* o 49*a*<sup>bis</sup> CPM[^annex3-annex1-sec2-109-3] o l’articolo 68 LStrI[^annex3-annex1-sec2-109-4].[^annex3-annex1-sec2-109-5]
+<sup>7</sup> Se il richiedente è incarcerato in vista d’estradizione su domanda dello Stato da cui cerca protezione in Svizzera, il Tribunale amministrativo federale decide in via prioritaria e senza indugio. Lo stesso vale anche se nei suoi confronti è stata pronunciata l’espulsione secondo l’articolo 66*a* o 66*a*<sup>bis</sup> CP[^109-2], l’articolo 49*a* o 49*a*<sup>bis</sup> CPM[^109-3] o l’articolo 68 LStrI[^109-4].[^109-5]
 
-[^annex3-annex1-sec2-109-1]: Nuovo testo giusta i n. I e IV 2 per i cpv. 5 e 7 della LF del 25 set. 2015, in vigore dal 1° mar. 2019 ([RU 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521); [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [FF 2014 6917](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
-[^annex3-annex1-sec2-109-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^annex3-annex1-sec2-109-3]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^annex3-annex1-sec2-109-4]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^annex3-annex1-sec2-109-5]: Nuovo testo del per. giusta il n. I 3 della LF del 25 set. 2020 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 3935](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^109-1]: Nuovo testo giusta i n. I e IV 2 per i cpv. 5 e 7 della LF del 25 set. 2015, in vigore dal 1° mar. 2019 ([RU 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521); [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [FF 2014 6917](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
+[^109-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^109-3]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^109-4]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^109-5]: Nuovo testo del per. giusta il n. I 3 della LF del 25 set. 2020 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 3935](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 
 #### Art. 109a
 
-**Scambio di informazioni**[^annex3-annex1-sec2-109a-1]
+**Scambio di informazioni**[^109a-1]
 
 Il DFGP e il Tribunale amministrativo federale si scambiano regolarmente informazioni sulle priorità e l’iter amministrativo delle procedure di prima e seconda istanza.
 
-[^annex3-annex1-sec2-109a-1]: Introdotto dal n. I della LF del 14 dic. 2012, in vigore dal 1° feb. 2014 ([RU 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [FF 2010 3889](https://fedlex.data.admin.ch/eli/fga/2010/794); [2011 6503](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
+[^109a-1]: Introdotto dal n. I della LF del 14 dic. 2012, in vigore dal 1° feb. 2014 ([RU 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [FF 2010 3889](https://fedlex.data.admin.ch/eli/fga/2010/794); [2011 6503](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 
 #### Art. 109b
 
-**Strategia del Tribunale amministrativo federale in materia di evasione dei ricorsi**[^annex3-annex1-sec2-109b-1]
+**Strategia del Tribunale amministrativo federale in materia di evasione dei ricorsi**[^109b-1]
 
 Il Tribunale amministrativo federale stabilisce una strategia di evasione dei ricorsi; al riguardo tiene conto:
 
 - a. della strategia della SEM per il trattamento delle domande di cui all’articolo 37*b*;
 - b. dei termini legali di ricorso e di evasione dei ricorsi.
 
-[^annex3-annex1-sec2-109b-1]: Introdotto dal n. I della LF del 14 dic. 2012, in vigore dal 1° feb. 2014 ([RU 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [FF 2010 3889](https://fedlex.data.admin.ch/eli/fga/2010/794); [2011 6503](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
+[^109b-1]: Introdotto dal n. I della LF del 14 dic. 2012, in vigore dal 1° feb. 2014 ([RU 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [FF 2010 3889](https://fedlex.data.admin.ch/eli/fga/2010/794); [2011 6503](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 
 #### Art. 110
 
 **Termini di procedura**
 
-<sup>1</sup> Il termine supplementare per regolarizzare un ricorso è di sette giorni; è di tre giorni per i ricorsi contro le decisioni di non entrata nel merito, contro le decisioni di cui agli articoli 23 capoverso 1 e 40 in combinato disposto con l’articolo 6*a* capoverso 2 lettera a e contro le decisioni di cui all’articolo 111*b*.[^annex3-annex1-sec2-110-1]
+<sup>1</sup> Il termine supplementare per regolarizzare un ricorso è di sette giorni; è di tre giorni per i ricorsi contro le decisioni di non entrata nel merito, contro le decisioni di cui agli articoli 23 capoverso 1 e 40 in combinato disposto con l’articolo 6*a* capoverso 2 lettera a e contro le decisioni di cui all’articolo 111*b*.[^110-1]
 
 <sup>2</sup> Il termine per produrre le prove è di sette giorni se si tratta di mezzi di prova che si trovano in Svizzera e di 30 giorni se si tratta di mezzi di prova che si trovano all’estero. Le perizie devono essere fornite entro 30 giorni.
 
-<sup>3</sup> Il termine di cui al capoverso 2 può essere prorogato se il ricorrente o il suo rappresentante ha un impedimento ad agire entro tale termine, segnatamente per ragioni di salute o infortunio.[^annex3-annex1-sec2-110-2]
+<sup>3</sup> Il termine di cui al capoverso 2 può essere prorogato se il ricorrente o il suo rappresentante ha un impedimento ad agire entro tale termine, segnatamente per ragioni di salute o infortunio.[^110-2]
 
-<sup>4</sup> I termini sono al massimo di due giorni lavorativi per le procedure concernenti il rifiuto dell’entrata in Svizzera e l’assegnazione di un luogo di soggiorno all’aeroporto secondo l’articolo 22 capoversi 2–3 e 4.[^annex3-annex1-sec2-110-3]
+<sup>4</sup> I termini sono al massimo di due giorni lavorativi per le procedure concernenti il rifiuto dell’entrata in Svizzera e l’assegnazione di un luogo di soggiorno all’aeroporto secondo l’articolo 22 capoversi 2–3 e 4.[^110-3]
 
-[^annex3-annex1-sec2-110-1]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° mar. 2019 ([RU 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521); [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [FF 2014 6917](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
-[^annex3-annex1-sec2-110-2]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° mar. 2019 ([RU 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521); [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [FF 2014 6917](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
-[^annex3-annex1-sec2-110-3]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° mar. 2019 ([RU 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521); [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [FF 2014 6917](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
+[^110-1]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° mar. 2019 ([RU 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521); [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [FF 2014 6917](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
+[^110-2]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° mar. 2019 ([RU 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521); [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [FF 2014 6917](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
+[^110-3]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° mar. 2019 ([RU 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521); [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [FF 2014 6917](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
 
 #### Art. 110a
 
-[^annex3-annex1-sec2-110a-1]
+[^110a-1]
 
-[^annex3-annex1-sec2-110a-1]: Introdotto dal n. I della LF del 14 dic. 2012 ([RU 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778); [FF 2010 3889](https://fedlex.data.admin.ch/eli/fga/2010/794); [2011 6503](https://fedlex.data.admin.ch/eli/fga/2011/1209)). Abrogato dal n. I della LF del 25 set. 2015, con effetto dal 1° mar. 2019 ([RU 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521); [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [FF 2014 6917](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
+[^110a-1]: Introdotto dal n. I della LF del 14 dic. 2012 ([RU 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778); [FF 2010 3889](https://fedlex.data.admin.ch/eli/fga/2010/794); [2011 6503](https://fedlex.data.admin.ch/eli/fga/2011/1209)). Abrogato dal n. I della LF del 25 set. 2015, con effetto dal 1° mar. 2019 ([RU 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521); [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [FF 2014 6917](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
 
 #### Art. 111
 
-**Competenza del giudice unico**[^annex3-annex1-sec2-111-1]
+**Competenza del giudice unico**[^111-1]
 
 I giudici decidono in qualità di giudice unico in caso di:
 
 - a. stralcio di ricorsi in quanto privi di oggetto;
 - b. non entrata nel merito su ricorsi manifestamente irricevibili;
 - c. decisione relativa al rifiuto provvisorio dell’entrata in Svizzera all’aeroporto e all’assegnazione di un luogo di soggiorno presso l’aeroporto;
-- d.[^annex3-annex1-sec2-111-2] ...
+- d.[^111-2] ...
 - e. ricorsi manifestamente fondati o manifestamente infondati, con l’approvazione di un secondo giudice.
 
-[^annex3-annex1-sec2-111-1]: Nuovo testo giusta il n. I e IV 1 della L del 16 dic. 2005, in vigore dal 1° gen. 2008 ([RU 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727); [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [FF 2002 6087](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
-[^annex3-annex1-sec2-111-2]: Abrogata dal n. I della LF del 25 set. 2015, con effetto dal 1° mar. 2019 ([RU 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521); [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [FF 2014 6917](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
+[^111-1]: Nuovo testo giusta il n. I e IV 1 della L del 16 dic. 2005, in vigore dal 1° gen. 2008 ([RU 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727); [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [FF 2002 6087](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
+[^111-2]: Abrogata dal n. I della LF del 25 set. 2015, con effetto dal 1° mar. 2019 ([RU 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521); [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [FF 2014 6917](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
 
 #### Art. 111a
 
-**Procedura e decisione**[^annex3-annex1-sec2-111a-1]
+**Procedura e decisione**[^111a-1]
 
-<sup>1</sup> Il Tribunale amministrativo federale può rinunciare allo scambio di scritti.[^annex3-annex1-sec2-111a-2]
+<sup>1</sup> Il Tribunale amministrativo federale può rinunciare allo scambio di scritti.[^111a-2]
 
 <sup>2</sup> Le decisioni su ricorso secondo l’articolo 111 sono motivate solo sommariamente.
 
-[^annex3-annex1-sec2-111a-1]: Introdotto dal n. I della L del 16 dic. 2005, in vigore dal 1° gen. 2008 ([RU 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727); [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [FF 2002 6087](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
-[^annex3-annex1-sec2-111a-2]: Nuovo testo giusta il n. I 3 dell’O dell’AF del 20 dic. 2006 che adegua taluni atti normativi alle disposizioni della legge sul Tribunale federale e della legge sul Tribunale amministrativo federale, in vigore dal 1° gen. 2008 ([RU 2006 5599](https://fedlex.data.admin.ch/eli/oc/2006/826); [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [FF 2006 7109](https://fedlex.data.admin.ch/eli/fga/2006/974)).
+[^111a-1]: Introdotto dal n. I della L del 16 dic. 2005, in vigore dal 1° gen. 2008 ([RU 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727); [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [FF 2002 6087](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
+[^111a-2]: Nuovo testo giusta il n. I 3 dell’O dell’AF del 20 dic. 2006 che adegua taluni atti normativi alle disposizioni della legge sul Tribunale federale e della legge sul Tribunale amministrativo federale, in vigore dal 1° gen. 2008 ([RU 2006 5599](https://fedlex.data.admin.ch/eli/oc/2006/826); [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [FF 2006 7109](https://fedlex.data.admin.ch/eli/fga/2006/974)).
 
 #### Art. 111a<sup>bis</sup>
 
-**Misure istruttorie e notificazione orale delle sentenze**[^annex3-annex1-sec2-111abis-1]
+**Misure istruttorie e notificazione orale delle sentenze**[^111abis-1]
 
-<sup>1</sup> Nella procedura di ricorso contro decisioni in materia d’asilo secondo l’articolo 31*a* della presente legge pronunciate nella procedura celere o nella procedura Dublino, il Tribunale amministrativo federale può attuare, nei centri della Confederazione, le misure istruttorie di cui all’articolo 39 capoverso 2 della legge del 17 giugno 2005[^annex3-annex1-sec2-111abis-2] sul Tribunale amministrativo federale, se ciò permette di emanare una decisione sul ricorso in tempi più brevi.
+<sup>1</sup> Nella procedura di ricorso contro decisioni in materia d’asilo secondo l’articolo 31*a* della presente legge pronunciate nella procedura celere o nella procedura Dublino, il Tribunale amministrativo federale può attuare, nei centri della Confederazione, le misure istruttorie di cui all’articolo 39 capoverso 2 della legge del 17 giugno 2005[^111abis-2] sul Tribunale amministrativo federale, se ciò permette di emanare una decisione sul ricorso in tempi più brevi.
 
 <sup>2</sup> La sentenza può essere notificata oralmente. La notificazione orale e la motivazione sommaria devono essere messe a verbale.
 
 <sup>3</sup> Le parti possono richiedere il testo integrale della sentenza entro cinque giorni dalla sua notificazione orale. Ciò non ne sospende la forza esecutiva.
 
-[^annex3-annex1-sec2-111abis-1]: Introdotto dal n. I della LF del 25 set. 2015, in vigore dal 1° mar. 2019 ([RU 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521); [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [FF 2014 6917](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
-[^annex3-annex1-sec2-111abis-2]: [RS 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352)
+[^111abis-1]: Introdotto dal n. I della LF del 25 set. 2015, in vigore dal 1° mar. 2019 ([RU 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521); [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [FF 2014 6917](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
+[^111abis-2]: [RS 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352)
 
 #### Art. 111a<sup>ter</sup>
 
-**Indennità alle parti**[^annex3-annex1-sec2-111ater-1]
+**Indennità alle parti**[^111ater-1]
 
 Nella procedura di ricorso contro decisioni in materia d’asilo secondo l’articolo 31*a* pronunciate nella procedura celere o nella procedura Dublino non è riconosciuta alcuna indennità alle parti. Se il richiedente l’asilo ha rinunciato alla rappresentanza legale secondo l’articolo 102*h* o se il rappresentante legale designato ha rinunciato a interporre ricorso (art. 102*h* cpv. 4) si applicano le disposizioni generali sull’amministrazione della giustizia federale.
 
-[^annex3-annex1-sec2-111ater-1]: Introdotto dal n. I della LF del 25 set. 2015, in vigore dal 1° mar. 2019 ([RU 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521); [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [FF 2014 6917](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
+[^111ater-1]: Introdotto dal n. I della LF del 25 set. 2015, in vigore dal 1° mar. 2019 ([RU 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521); [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [FF 2014 6917](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
 
-## Sezione 3: Riesame e domande multiple
+### Sezione 3: Riesame e domande multiple
 
-[^annex3-annex1-sec3-1]
+[^chap8-sec3-1]
 
-[^annex3-annex1-sec3-1]: Introdotto dal n. I della LF del 14 dic. 2012, in vigore dal 1° feb. 2014 ([RU 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [FF 2010 3889](https://fedlex.data.admin.ch/eli/fga/2010/794); [2011 6503](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
+[^chap8-sec3-1]: Introdotto dal n. I della LF del 14 dic. 2012, in vigore dal 1° feb. 2014 ([RU 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [FF 2010 3889](https://fedlex.data.admin.ch/eli/fga/2010/794); [2011 6503](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 
 #### Art. 111b
 
-**Riesame**[^annex3-annex1-sec3-111b-1]
+**Riesame**[^111b-1]
 
-<sup>1</sup> La domanda di riesame debitamente motivata deve essere indirizzata per scritto alla SEM entro 30 giorni dalla scoperta del motivo di riesame. Non si svolge alcuna fase preparatoria.[^annex3-annex1-sec3-111b-2]
+<sup>1</sup> La domanda di riesame debitamente motivata deve essere indirizzata per scritto alla SEM entro 30 giorni dalla scoperta del motivo di riesame. Non si svolge alcuna fase preparatoria.[^111b-2]
 
 <sup>2</sup> Di norma, la decisione di non entrata nel merito è presa entro cinque giorni lavorativi dal deposito della domanda di riesame. Negli altri casi la decisione è presa di norma entro dieci giorni lavorativi dal deposito della domanda.
 
@@ -2686,23 +2706,23 @@ Nella procedura di ricorso contro decisioni in materia d’asilo secondo l’art
 
 <sup>4</sup> Le domande di riesame infondate o presentate ripetutamente con gli stessi motivi sono stralciate senza formalità.
 
-[^annex3-annex1-sec3-111b-1]: Introdotto dal n. I della LF del 14 dic. 2012, in vigore dal 1° feb. 2014 ([RU 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [FF 2010 3889](https://fedlex.data.admin.ch/eli/fga/2010/794); [2011 6503](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
-[^annex3-annex1-sec3-111b-2]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° mar. 2019 ([RU 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521); [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [FF 2014 6917](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
+[^111b-1]: Introdotto dal n. I della LF del 14 dic. 2012, in vigore dal 1° feb. 2014 ([RU 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [FF 2010 3889](https://fedlex.data.admin.ch/eli/fga/2010/794); [2011 6503](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
+[^111b-2]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° mar. 2019 ([RU 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521); [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [FF 2014 6917](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
 
 #### Art. 111c
 
-**Domande multiple**[^annex3-annex1-sec3-111c-1]
+**Domande multiple**[^111c-1]
 
-<sup>1</sup> Le domande d’asilo presentate entro cinque anni dal passaggio in giudicato della decisione in materia d’asilo e di allontanamento devono essere motivate e presentate per scritto. Non si svolge alcuna fase preparatoria. Si applicano i motivi di non entrata nel merito di cui all’articolo 31*a* capoversi 1–3.[^annex3-annex1-sec3-111c-2]
+<sup>1</sup> Le domande d’asilo presentate entro cinque anni dal passaggio in giudicato della decisione in materia d’asilo e di allontanamento devono essere motivate e presentate per scritto. Non si svolge alcuna fase preparatoria. Si applicano i motivi di non entrata nel merito di cui all’articolo 31*a* capoversi 1–3.[^111c-2]
 
 <sup>2</sup> Le domande multiple infondate o presentate ripetutamente con gli stessi motivi sono stralciate senza formalità.
 
-[^annex3-annex1-sec3-111c-1]: Introdotto dal n. I della LF del 14 dic. 2012, in vigore dal 1° feb. 2014 ([RU 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [FF 2010 3889](https://fedlex.data.admin.ch/eli/fga/2010/794); [2011 6503](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
-[^annex3-annex1-sec3-111c-2]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° mar. 2019 ([RU 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521); [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [FF 2014 6917](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
+[^111c-1]: Introdotto dal n. I della LF del 14 dic. 2012, in vigore dal 1° feb. 2014 ([RU 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [FF 2010 3889](https://fedlex.data.admin.ch/eli/fga/2010/794); [2011 6503](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
+[^111c-2]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° mar. 2019 ([RU 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521); [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [FF 2014 6917](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
 
 #### Art. 111d
 
-**Emolumenti**[^annex3-annex1-sec3-111d-1]
+**Emolumenti**[^111d-1]
 
 <sup>1</sup> Se respinge la domanda di riesame o la domanda multipla o non entra nel merito, la SEM riscuote un emolumento. Se la domanda è parzialmente accolta, l’emolumento è ridotto. Non sono assegnate indennità.
 
@@ -2717,102 +2737,90 @@ La SEM può esigere dal richiedente un anticipo dell’emolumento equivalente al
 
 <sup>4</sup> Il Consiglio federale disciplina il calcolo dell’emolumento e l’ammontare dell’anticipo.
 
-[^annex3-annex1-sec3-111d-1]: Introdotto dal n. I della LF del 14 dic. 2012, in vigore dal 1° feb. 2014 ([RU 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [FF 2010 3889](https://fedlex.data.admin.ch/eli/fga/2010/794); [2011 6503](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
+[^111d-1]: Introdotto dal n. I della LF del 14 dic. 2012, in vigore dal 1° feb. 2014 ([RU 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [FF 2010 3889](https://fedlex.data.admin.ch/eli/fga/2010/794); [2011 6503](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 
 #### Art. 112
 
-[^annex3-annex1-sec3-112-1]
+[^112-1]
 
-[^annex3-annex1-sec3-112-1]: Abrogato dal n. I della LF del 14 dic. 2012, con effetto dal 1° feb. 2014 ([RU 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [FF 2010 3889](https://fedlex.data.admin.ch/eli/fga/2010/794); [2011 6503](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
+[^112-1]: Abrogato dal n. I della LF del 14 dic. 2012, con effetto dal 1° feb. 2014 ([RU 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [FF 2010 3889](https://fedlex.data.admin.ch/eli/fga/2010/794); [2011 6503](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 
-## Sezione 4: Sospensione della prescrizione
+### Sezione 4: Sospensione della prescrizione
 
-[^annex3-annex1-sec4-1]
+[^chap8-sec4-1]
 
-[^annex3-annex1-sec4-1]: Introdotto dal n. I della LF del 14 dic. 2012, in vigore dal 1° feb. 2014 ([RU 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [FF 2010 3889](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 6503](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
+[^chap8-sec4-1]: Introdotto dal n. I della LF del 14 dic. 2012, in vigore dal 1° feb. 2014 ([RU 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [FF 2010 3889](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 6503](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 
 #### Art. 112a
 
-[^annex3-annex1-sec4-112a-1]
+[^112a-1]
 
 Durante la procedura di ricorso, la prescrizione delle pretese finanziarie della Confederazione nei confronti di beneficiari di sussidi o dell’aiuto sociale non comincia, o, se cominciata, è sospesa.
 
-[^annex3-annex1-sec4-112a-1]: Nuovo testo giusta il n. I della LF del 14 dic. 2012, in vigore dal 1° feb. 2014 ([RU 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [FF 2010 3889](https://fedlex.data.admin.ch/eli/fga/2010/794); [2011 6503](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
+[^112a-1]: Nuovo testo giusta il n. I della LF del 14 dic. 2012, in vigore dal 1° feb. 2014 ([RU 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [FF 2010 3889](https://fedlex.data.admin.ch/eli/fga/2010/794); [2011 6503](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 
 ## Capitolo 8*a*: Procedura d’asilo nell’ambito di fasi di test
 
-[^annex3-chap8a-1]
+[^chap8a-1]
 
-[^annex3-chap8a-1]: Introdotto dal n. I della LF del 14 dic. 2012, in vigore dal 1° feb. 2014 ([RU 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [FF 2010 3889](https://fedlex.data.admin.ch/eli/fga/2010/794); [2011 6503](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
+[^chap8a-1]: Introdotto dal n. I della LF del 14 dic. 2012, in vigore dal 1° feb. 2014 ([RU 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [FF 2010 3889](https://fedlex.data.admin.ch/eli/fga/2010/794); [2011 6503](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 
 #### Art. 112b
 
-**...[^annex3-chap8a-112b-2]**[^annex3-chap8a-112b-1]
+[^112b-1]
 
-<sup>1</sup> Il Consiglio federale può prevedere fasi di test per valutare le nuove procedure che comportando misure organizzative e tecniche onerose richiedono lo svolgimento di una fase di test prima di varare una modifica di legge.
-
-<sup>2</sup> Il Consiglio federale disciplina i dettagli delle fasi di test mediante ordinanza. A tal fine, nel definire la procedura d’asilo di prima istanza e la procedura di allontanamento come pure le questioni finanziarie connesse può derogare alla presente legge e alla LStrI[^annex3-chap8a-112b-3].
-
-<sup>3</sup> Durante le fasi di test, il Consiglio federale può ridurre a dieci giorni il termine di ricorso di 30 giorni previsto dall’articolo 108 capoverso 1 se ai richiedenti l’asilo interessati è garantita una tutela giurisdizionale efficace mediante provvedimenti adeguati.
-
-<sup>4</sup> L’ordinanza elenca tutti le disposizioni di legge a cui deroga.
-
-<sup>5</sup> La durata delle fasi di test è di due anni al massimo.
-
-[^annex3-chap8a-112b-1]: Introdotto dal n. I della LF del 28 set. 2012 (Modifiche urgenti della legge sull’asilo), in vigore dal 29 set. 2012 sino al 28 set. 2015 ([RU 2012 5359](https://fedlex.data.admin.ch/eli/oc/2012/612); [FF 2010 3889](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 6503](https://fedlex.data.admin.ch/eli/fga/2011/1209)) e prorogato fino al 28 set. 2019 giusta il n. II della LF del 26 set. 2014 ([RU 2015 2047](https://fedlex.data.admin.ch/eli/oc/2015/379); [FF 2014 1869](https://fedlex.data.admin.ch/eli/fga/2014/405)). Vedi anche la disp. trans. di detta mod. alla fine del testo.
-[^annex3-chap8a-112b-2]: Abrogata dal n. I della LF del 14 dic. 2012, con effetto dal 1° feb. 2014 ([RU 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [FF 2010 3889](https://fedlex.data.admin.ch/eli/fga/2010/794); [2011 6503](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
-[^annex3-chap8a-112b-3]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^112b-1]: Introdotto dal n. I della LF del 28 set. 2012 (Modifiche urgenti della legge sull’asilo), in vigore dal 29 set. 2012 sino al 28 set. 2015 ([RU 2012 5359](https://fedlex.data.admin.ch/eli/oc/2012/612); [FF 2010 3889](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 6503](https://fedlex.data.admin.ch/eli/fga/2011/1209)) e prorogato fino al 28 set. 2019 giusta il n. II della LF del 26 set. 2014 ([RU 2015 2047](https://fedlex.data.admin.ch/eli/oc/2015/379); [FF 2014 1869](https://fedlex.data.admin.ch/eli/fga/2014/405)).
 
 ## Capitolo 9: Collaborazione internazionale
 
-[^annex3-chap9-1]
+[^chap9-1]
 
-[^annex3-chap9-1]: Nuovo testo giusta il n. I della LF del 14 dic. 2012, in vigore dal 1° feb. 2014 ([RU 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [FF 2010 3889](https://fedlex.data.admin.ch/eli/fga/2010/794); [2011 6503](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
+[^chap9-1]: Nuovo testo giusta il n. I della LF del 14 dic. 2012, in vigore dal 1° feb. 2014 ([RU 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [FF 2010 3889](https://fedlex.data.admin.ch/eli/fga/2010/794); [2011 6503](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 
 #### Art. 113
 
-**Principi[^annex3-chap9-113-1]**
+**Principi[^113-1]**
 
 La Confederazione partecipa all’armonizzazione a livello internazionale della politica europea in materia di rifugiati e alla soluzione dei problemi dei rifugiati all’estero. Essa sostiene l’attività delle istituzioni internazionali di soccorso. Collabora segnatamente con l’Alto Commissariato delle Nazioni Unite per i rifugiati.
 
-[^annex3-chap9-113-1]: Nuovo testo giusta il n. I della LF del 20 dic. 2019, in vigore dal 1° nov. 2020 ([RU 2020 3989](https://fedlex.data.admin.ch/eli/oc/2020/742); [FF 2018 5563](https://fedlex.data.admin.ch/eli/fga/2018/2305)).
+[^113-1]: Nuovo testo giusta il n. I della LF del 20 dic. 2019, in vigore dal 1° nov. 2020 ([RU 2020 3989](https://fedlex.data.admin.ch/eli/oc/2020/742); [FF 2018 5563](https://fedlex.data.admin.ch/eli/fga/2018/2305)).
 
 #### Art 114
 
-**Trattati internazionali**[^annex3-chap9-114-1]
+**Trattati internazionali**[^114-1]
 
 Al fine di implementare un credito quadro per la migrazione, approvato in virtù dell’articolo 91 capoverso 7 in combinato disposto con l’articolo 113 o dell’articolo 93 capoverso 1 lettera c e capoverso 2, il Consiglio federale può concludere trattati internazionali sul versamento di sussidi ad alcuni Stati membri dell’UE o a organizzazioni internazionali. Consulta previamente le Commissioni competenti.
 
-[^annex3-chap9-114-1]: Nuovo testo giusta il n. I della LF del 20 dic. 2019, in vigore dal 1° nov. 2020 ([RU 2020 3989](https://fedlex.data.admin.ch/eli/oc/2020/742); [FF 2018 5563](https://fedlex.data.admin.ch/eli/fga/2018/2305)).
+[^114-1]: Nuovo testo giusta il n. I della LF del 20 dic. 2019, in vigore dal 1° nov. 2020 ([RU 2020 3989](https://fedlex.data.admin.ch/eli/oc/2020/742); [FF 2018 5563](https://fedlex.data.admin.ch/eli/fga/2018/2305)).
 
 ## Capitolo 10: Disposizioni penali
 
-[^annex3-chap10-1]
+[^chap10-1]
 
-[^annex3-chap10-1]: Nuovo testo giusta l’art. 3 n. 2 del DF del 17 dic. 2004 che approva e traspone nel diritto svizzero gli Acc. bilaterali con l’UE per l’associazione della Svizzera alla normativa di Schengen e Dublino, in vigore dal 12 dic. 2008 ([RU 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112), [5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 1 lett. a; [FF 2004 5273](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
+[^chap10-1]: Nuovo testo giusta l’art. 3 n. 2 del DF del 17 dic. 2004 che approva e traspone nel diritto svizzero gli Acc. bilaterali con l’UE per l’associazione della Svizzera alla normativa di Schengen e Dublino, in vigore dal 12 dic. 2008 ([RU 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112), [5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 1 lett. a; [FF 2004 5273](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
 
 ### Sezione 1: Disposizioni penali concernenti il capitolo 5 sezione 2
 
-[^annex3-chap10-sec1-1]
+[^chap10-sec1-1]
 
-[^annex3-chap10-sec1-1]: Introdotta dall’art. 3 n. 2 del DF del 17 dic. 2004 che approva e traspone nel diritto svizzero gli Acc. bilaterali con l’UE per l’associazione della Svizzera alla normativa di Schengen e Dublino, in vigore dal 12 dic. 2008 ([RU 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112), [5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 1 lett. a; [FF 2004 5273](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
+[^chap10-sec1-1]: Introdotta dall’art. 3 n. 2 del DF del 17 dic. 2004 che approva e traspone nel diritto svizzero gli Acc. bilaterali con l’UE per l’associazione della Svizzera alla normativa di Schengen e Dublino, in vigore dal 12 dic. 2008 ([RU 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112), [5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 1 lett. a; [FF 2004 5273](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
 
 #### Art. 115
 
 **Delitti**
 
-È punito con una pena pecuniaria fino a 180 aliquote giornaliere, se non si tratta di un crimine o di un delitto per il quale il CP[^annex3-chap10-sec1-115-1] commina una pena più grave, chiunque:[^annex3-chap10-sec1-115-2]
+È punito con una pena pecuniaria fino a 180 aliquote giornaliere, se non si tratta di un crimine o di un delitto per il quale il CP[^115-1] commina una pena più grave, chiunque:[^115-2]
 
 - a. ottiene abusivamente un vantaggio pecuniario per sé o altri, sulla base della presente legge, facendo dichiarazioni inveritiere o incomplete o in qualsiasi altro modo;
-- b.[^annex3-chap10-sec1-115-3] si sottrae totalmente o in parte all’obbligo di versare il contributo speciale di cui all’articolo 86 facendo dichiarazioni inveritiere o incomplete o in qualsiasi altro modo;
-- [tab] c.[^annex3-chap10-sec1-115-4]...
-- d.[^annex3-chap10-sec1-115-5] con l’intenzione di arricchirsi, ha aiutato altri alla commissione di un reato ai sensi dell’articolo 116 lettera c, in particolare alla sua pianificazione o organizzazione.
+- b.[^115-3] si sottrae totalmente o in parte all’obbligo di versare il contributo speciale di cui all’articolo 86 facendo dichiarazioni inveritiere o incomplete o in qualsiasi altro modo;
+- [tab] c.[^115-4]...
+- d.[^115-5] con l’intenzione di arricchirsi, ha aiutato altri alla commissione di un reato ai sensi dell’articolo 116 lettera c, in particolare alla sua pianificazione o organizzazione.
 
-[^annex3-chap10-sec1-115-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799). Nuovo termine giusta l’all. n. 2 della LF del 20 mar. 2015 (Attuazione dell’art. 121 cpv. 3–6 Cost. sull’espulsione di stranieri che commettono reati), in vigore dal 1° ott. 2016 ([RU 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [FF 2013 5163](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
-[^annex3-chap10-sec1-115-2]: Nuovo testo giusta l’art. 334 del Codice penale ([RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)) nella versione del DF del 13 dic. 2002 , in vigore dal 1° gen. 2007 ([RU 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1669).
-[^annex3-chap10-sec1-115-3]: Nuovo testo giusta il n. I della L del 16 dic. 2005, in vigore dal 1° gen. 2008 ([RU 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727); [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [FF 2002 6087](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
-[^annex3-chap10-sec1-115-4]: Abrogato dall’all. n. 1 della LF del 16 dic. 2016 (Integrazione), con effetto dal 1° gen. 2018 ([RU 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718); [FF 2016 2471](https://fedlex.data.admin.ch/eli/fga/2016/524); [2013 2045](https://fedlex.data.admin.ch/eli/fga/2013/416)).
-[^annex3-chap10-sec1-115-5]: Introdotta dal n. I della LF del 14 dic. 2012, in vigore dal 1° feb. 2014 ([RU 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [FF 2010 3889](https://fedlex.data.admin.ch/eli/fga/2010/794); [2011 6503](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
+[^115-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799). Nuovo termine giusta l’all. n. 2 della LF del 20 mar. 2015 (Attuazione dell’art. 121 cpv. 3–6 Cost. sull’espulsione di stranieri che commettono reati), in vigore dal 1° ott. 2016 ([RU 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [FF 2013 5163](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
+[^115-2]: Nuovo testo giusta l’art. 334 del Codice penale ([RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)) nella versione del DF del 13 dic. 2002 , in vigore dal 1° gen. 2007 ([RU 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1669).
+[^115-3]: Nuovo testo giusta il n. I della L del 16 dic. 2005, in vigore dal 1° gen. 2008 ([RU 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727); [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [FF 2002 6087](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
+[^115-4]: Abrogato dall’all. n. 1 della LF del 16 dic. 2016 (Integrazione), con effetto dal 1° gen. 2018 ([RU 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718); [FF 2016 2471](https://fedlex.data.admin.ch/eli/fga/2016/524); [2013 2045](https://fedlex.data.admin.ch/eli/fga/2013/416)).
+[^115-5]: Introdotta dal n. I della LF del 14 dic. 2012, in vigore dal 1° feb. 2014 ([RU 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [FF 2010 3889](https://fedlex.data.admin.ch/eli/fga/2010/794); [2011 6503](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 
 #### Art. 116
 
@@ -2822,29 +2830,29 @@ Al fine di implementare un credito quadro per la migrazione, approvato in virtù
 
 - a. viola l’obbligo d’informare, facendo scientemente dichiarazioni inveritiere o rifiutando di fornire un’informazione;
 - b. si oppone a un controllo ordinato dall’autorità competente o lo rende impossibile in qualsiasi altro modo;
-- c.[^annex3-chap10-sec1-116-1] quale richiedente l’asilo svolge pubblicamente attività politiche in Svizzera al solo scopo di creare motivi soggettivi insorti dopo la fuga ai sensi dell’articolo 54;
-- d.[^annex3-chap10-sec1-116-2] ha aiutato altri alla commissione di un reato ai sensi della lettera c, in particolare alla sua pianificazione o organizzazione.
+- c.[^116-1] quale richiedente l’asilo svolge pubblicamente attività politiche in Svizzera al solo scopo di creare motivi soggettivi insorti dopo la fuga ai sensi dell’articolo 54;
+- d.[^116-2] ha aiutato altri alla commissione di un reato ai sensi della lettera c, in particolare alla sua pianificazione o organizzazione.
 
-[^annex3-chap10-sec1-116-1]: Introdotta dal n. I della LF del 14 dic. 2012, in vigore dal 1° feb. 2014 ([RU 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [FF 2010 3889](https://fedlex.data.admin.ch/eli/fga/2010/794); [2011 6503](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
-[^annex3-chap10-sec1-116-2]: Introdotta dal n. I della LF del 14 dic. 2012, in vigore dal 1° feb. 2014 ([RU 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [FF 2010 3889](https://fedlex.data.admin.ch/eli/fga/2010/794); [2011 6503](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
+[^116-1]: Introdotta dal n. I della LF del 14 dic. 2012, in vigore dal 1° feb. 2014 ([RU 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [FF 2010 3889](https://fedlex.data.admin.ch/eli/fga/2010/794); [2011 6503](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
+[^116-2]: Introdotta dal n. I della LF del 14 dic. 2012, in vigore dal 1° feb. 2014 ([RU 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [FF 2010 3889](https://fedlex.data.admin.ch/eli/fga/2010/794); [2011 6503](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 
 #### Art. 116a
 
-[^annex3-chap10-sec1-116a-1]
+[^116a-1]
 
-[^annex3-chap10-sec1-116a-1]: Introdotto dal n. I della L del 16 dic. 2005 ([RU 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727); [FF 2002 6087](https://fedlex.data.admin.ch/eli/fga/2002/1106)). Abrogato dall’all. n. 1 della LF del 16 dic. 2016 (Integrazione), con effetto dal 1° gen. 2018 ([RU 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718); [FF 2016 2471](https://fedlex.data.admin.ch/eli/fga/2016/524); [2013 2045](https://fedlex.data.admin.ch/eli/fga/2013/416)).
+[^116a-1]: Introdotto dal n. I della L del 16 dic. 2005 ([RU 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727); [FF 2002 6087](https://fedlex.data.admin.ch/eli/fga/2002/1106)). Abrogato dall’all. n. 1 della LF del 16 dic. 2016 (Integrazione), con effetto dal 1° gen. 2018 ([RU 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718); [FF 2016 2471](https://fedlex.data.admin.ch/eli/fga/2016/524); [2013 2045](https://fedlex.data.admin.ch/eli/fga/2013/416)).
 
 #### Art. 117
 
-[^annex3-chap10-sec1-117-1]
+[^117-1]
 
-[^annex3-chap10-sec1-117-1]: Abrogato dall’all. n. 1 della LF del 16 dic. 2016 (Integrazione), con effetto dal 1° gen. 2018 ([RU 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718); [FF 2016 2471](https://fedlex.data.admin.ch/eli/fga/2016/524); [2013 2045](https://fedlex.data.admin.ch/eli/fga/2013/416)).
+[^117-1]: Abrogato dall’all. n. 1 della LF del 16 dic. 2016 (Integrazione), con effetto dal 1° gen. 2018 ([RU 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718); [FF 2016 2471](https://fedlex.data.admin.ch/eli/fga/2016/524); [2013 2045](https://fedlex.data.admin.ch/eli/fga/2013/416)).
 
 ### Sezione 2: Disposizioni penali concernenti il capitolo 7 sezione 2
 
-[^annex3-chap10-sec2-1]
+[^chap10-sec2-1]
 
-[^annex3-chap10-sec2-1]: Introdotta dall’art. 3 n. 2 del DF del 17 dic. 2004 che approva e traspone nel diritto svizzero gli Acc. bilaterali con l’UE per l’associazione della Svizzera alla normativa di Schengen e Dublino, in vigore dal 12 dic. 2008 ([RU 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112), [5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 1 lett. a; [FF 2004 5273](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
+[^chap10-sec2-1]: Introdotta dall’art. 3 n. 2 del DF del 17 dic. 2004 che approva e traspone nel diritto svizzero gli Acc. bilaterali con l’UE per l’associazione della Svizzera alla normativa di Schengen e Dublino, in vigore dal 12 dic. 2008 ([RU 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112), [5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 1 lett. a; [FF 2004 5273](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
 
 #### Art. 117a
 
@@ -2854,17 +2862,17 @@ Chi, per uno scopo che non sia quello di determinare lo Stato competente per l�
 
 ### Sezione 3: Perseguimento penale
 
-[^annex3-chap10-sec3-1]
+[^chap10-sec3-1]
 
-[^annex3-chap10-sec3-1]: Introdotta dall’art. 3 n. 2 del DF del 17 dic. 2004 che approva e traspone nel diritto svizzero gli Acc. bilaterali con l’UE per l’associazione della Svizzera alla normativa di Schengen e Dublino, in vigore dal 12 dic. 2008 ([RU 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112), [5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 1 lett. a; [FF 2004 5273](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
+[^chap10-sec3-1]: Introdotta dall’art. 3 n. 2 del DF del 17 dic. 2004 che approva e traspone nel diritto svizzero gli Acc. bilaterali con l’UE per l’associazione della Svizzera alla normativa di Schengen e Dublino, in vigore dal 12 dic. 2008 ([RU 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112), [5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 1 lett. a; [FF 2004 5273](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
 
 #### Art. 118
 
-**...[^annex3-chap10-sec3-118-1]**
+**...[^118-1]**
 
 Il perseguimento penale incombe ai Cantoni.
 
-[^annex3-chap10-sec3-118-1]: Abrogata dall’art. 3 n. 2 del DF del 17 dic. 2004 che approva e traspone nel diritto svizzero gli Acc. bilaterali con l’UE per l’associazione della Svizzera alla normativa di Schengen e Dublino, con effetto dal 12 dic. 2008 ([RU 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112), [5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 1 lett. a; [FF 2004 5273](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
+[^118-1]: Abrogata dall’art. 3 n. 2 del DF del 17 dic. 2004 che approva e traspone nel diritto svizzero gli Acc. bilaterali con l’UE per l’associazione della Svizzera alla normativa di Schengen e Dublino, con effetto dal 12 dic. 2008 ([RU 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112), [5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 1 lett. a; [FF 2004 5273](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
 
 ## Capitolo 11: Disposizioni finali
 
@@ -2880,11 +2888,11 @@ Il Consiglio federale è incaricato dell’esecuzione della presente legge. Esso
 
 Sono abrogati:
 
-- a. la legge sull’asilo del 5 ottobre 1979[^annex3-chap11-120-1];
-- b. il decreto federale del 16 dicembre 1994[^annex3-chap11-120-2] concernente provvedimenti di risparmio nel settore dell’asilo e degli stranieri.
+- a. la legge sull’asilo del 5 ottobre 1979[^120-1];
+- b. il decreto federale del 16 dicembre 1994[^120-2] concernente provvedimenti di risparmio nel settore dell’asilo e degli stranieri.
 
-[^annex3-chap11-120-1]: [[RU 1980 1718](https://fedlex.data.admin.ch/eli/oc/1980/1718_1718_1718); [1986 2062](https://fedlex.data.admin.ch/eli/oc/1986/2062_2062_2062); [1987 1674](https://fedlex.data.admin.ch/eli/oc/1987/1674_1674_1674); [1990 938](https://fedlex.data.admin.ch/eli/oc/1990/938_938_938), [1587](https://fedlex.data.admin.ch/eli/oc/1990/1587_1587_1587)art. 3 cpv.1; **1994** 1634 n. I 8.1, 2876; **1995** 146 n. II 1126 n. II, 14356; **1997** 2373,2394; **1998** 1582]
-[^annex3-chap11-120-2]: [[RU 1994 2876](https://fedlex.data.admin.ch/eli/oc/1994/2876_2876_2876)]
+[^120-1]: [[RU 1980 1718](https://fedlex.data.admin.ch/eli/oc/1980/1718_1718_1718); [1986 2062](https://fedlex.data.admin.ch/eli/oc/1986/2062_2062_2062); [1987 1674](https://fedlex.data.admin.ch/eli/oc/1987/1674_1674_1674); [1990 938](https://fedlex.data.admin.ch/eli/oc/1990/938_938_938), [1587](https://fedlex.data.admin.ch/eli/oc/1990/1587_1587_1587)art. 3 cpv.1; **1994** 1634 n. I 8.1, 2876; **1995** 146 n. II 1126 n. II, 14356; **1997** 2373,2394; **1998** 1582]
+[^120-2]: [[RU 1994 2876](https://fedlex.data.admin.ch/eli/oc/1994/2876_2876_2876)]
 
 #### Art. 121
 
@@ -2896,29 +2904,27 @@ Sono abrogati:
 
 <sup>3</sup> La Commissione svizzera di ricorso in materia d’asilo e il DFGP restano competenti in merito alle procedure di ricorso pendenti davanti ai loro servizi all’entrata in vigore della presente legge. È fatto salvo il capoverso 2.
 
-<sup>4</sup> Con l’entrata in vigore della presente legge, gli stranieri ammessi provvisoriamente in gruppo in virtù dell’attuale articolo 14*a* capoverso 5 della legge federale del 26 marzo 1931[^annex3-chap11-121-1] concernente la dimora e il domicilio degli stranieri sottostanno alle disposizioni del capitolo 4. La durata della presenza delle persone ammesse provvisoriamente in gruppo è computata per il calcolo dei termini previsti dall’articolo 74 capoversi 2 e 3.
+<sup>4</sup> Con l’entrata in vigore della presente legge, gli stranieri ammessi provvisoriamente in gruppo in virtù dell’attuale articolo 14*a* capoverso 5 della legge federale del 26 marzo 1931[^121-1] concernente la dimora e il domicilio degli stranieri sottostanno alle disposizioni del capitolo 4. La durata della presenza delle persone ammesse provvisoriamente in gruppo è computata per il calcolo dei termini previsti dall’articolo 74 capoversi 2 e 3.
 
 <sup>5</sup> Il versamento delle prestazioni assistenziali a rifugiati titolari di un permesso di dimora è retto dal diritto previgente durante due anni a contare dall’entrata in vigore della presente legge.
 
-[^annex3-chap11-121-1]: [CS **1** 117; [RU 1949 225](https://fedlex.data.admin.ch/eli/oc/1949/221_225_225); [1987 1665](https://fedlex.data.admin.ch/eli/oc/1987/1665_1665_1665); [1988 332](https://fedlex.data.admin.ch/eli/oc/1988/332_332_332); [1990 1587](https://fedlex.data.admin.ch/eli/oc/1990/1587_1587_1587)art. 3 cpv. 2; [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)n. II 11, [1034](https://fedlex.data.admin.ch/eli/oc/1991/1034_1034_1034)n. III; [1995 146](https://fedlex.data.admin.ch/eli/oc/1995/146_146_146); [1999 1111](https://fedlex.data.admin.ch/eli/oc/1999/148), [2253](https://fedlex.data.admin.ch/eli/oc/1999/356), [2262](https://fedlex.data.admin.ch/eli/oc/1999/358)all. n. 1; [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)n. IV 2; [2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139)n. I 1, [701](https://fedlex.data.admin.ch/eli/oc/2002/140)n. I 1, [3988](https://fedlex.data.admin.ch/eli/oc/2002/639)all. n. 3; [2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)all. n. II 2; [2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200)n. I 1, [4655](https://fedlex.data.admin.ch/eli/oc/2004/715)n. I 1; [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)all. n. 2; [2006 979](https://fedlex.data.admin.ch/eli/oc/2006/178)art. 2 n. 1, [1931](https://fedlex.data.admin.ch/eli/oc/2006/301)art. 18 n. 1, [2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 3, [3459](https://fedlex.data.admin.ch/eli/oc/2006/549)all. n. 1, [4745](https://fedlex.data.admin.ch/eli/oc/2006/727)all. n. 1; [2007 359](https://fedlex.data.admin.ch/eli/oc/2007/71)all. n. 1. [RU 2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758)all. n. I]. Vedi ora: la LF del 16 dic. 2005 sugli stranieri e la loro integrazione ([RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)).
+[^121-1]: [CS **1** 117; [RU 1949 225](https://fedlex.data.admin.ch/eli/oc/1949/221_225_225); [1987 1665](https://fedlex.data.admin.ch/eli/oc/1987/1665_1665_1665); [1988 332](https://fedlex.data.admin.ch/eli/oc/1988/332_332_332); [1990 1587](https://fedlex.data.admin.ch/eli/oc/1990/1587_1587_1587)art. 3 cpv. 2; [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)n. II 11, [1034](https://fedlex.data.admin.ch/eli/oc/1991/1034_1034_1034)n. III; [1995 146](https://fedlex.data.admin.ch/eli/oc/1995/146_146_146); [1999 1111](https://fedlex.data.admin.ch/eli/oc/1999/148), [2253](https://fedlex.data.admin.ch/eli/oc/1999/356), [2262](https://fedlex.data.admin.ch/eli/oc/1999/358)all. n. 1; [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)n. IV 2; [2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139)n. I 1, [701](https://fedlex.data.admin.ch/eli/oc/2002/140)n. I 1, [3988](https://fedlex.data.admin.ch/eli/oc/2002/639)all. n. 3; [2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)all. n. II 2; [2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200)n. I 1, [4655](https://fedlex.data.admin.ch/eli/oc/2004/715)n. I 1; [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)all. n. 2; [2006 979](https://fedlex.data.admin.ch/eli/oc/2006/178)art. 2 n. 1, [1931](https://fedlex.data.admin.ch/eli/oc/2006/301)art. 18 n. 1, [2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 3, [3459](https://fedlex.data.admin.ch/eli/oc/2006/549)all. n. 1, [4745](https://fedlex.data.admin.ch/eli/oc/2006/727)all. n. 1; [2007 359](https://fedlex.data.admin.ch/eli/oc/2007/71)all. n. 1. [RU 2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758)all. n. I]. Vedi ora: la LF del 16 dic. 2005 sugli stranieri e la loro integrazione ([RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)).
 
 #### Art. 122
 
-**Rapporto con il decreto federale del 26 giugno 1998[^annex3-chap11-122-1] concernente misure urgenti nel settore dell’asilo e degli stranieri**
+**Rapporto con il decreto federale del 26 giugno 1998[^122-1] concernente misure urgenti nel settore dell’asilo e degli stranieri**
 
 Se il decreto federale del 26 giugno 1998 concernente misure urgenti nel settore dell’asilo e degli stranieri viene impugnato con referendum e respinto in votazione popolare, le seguenti disposizioni decadono:
 
 - a. articolo 8 capoverso 4 (obbligo di collaborare all’ottenimento di documenti di viaggio validi);
 - b. articolo 32 capoverso 2 lettera a (non entrata nel merito in caso di mancata consegna di documenti di viaggio o d’identità);
 - c. articolo 33 (non entrata nel merito in caso di deposito ulteriore abusivo di una domanda d’asilo);
-- d. articolo 32 capoverso 2 lettera b (non entrata nel merito in caso di inganno sull’identità);
-- in questo caso il testo dell’articolo 16 capoverso 1 lettera b nella versione conforme al numero I del decreto federale del 22 giugno 1990[^annex3-chap11-122-2] concernente la procedura d’asilo sostituisce la disposizione prevista dall’articolo 32 capoverso 2 lettera b; e
-- e. articolo 45 capoverso 2 (esecuzione immediata in caso di decisione di non entrata nel merito);
-- in questo caso il testo dell’articolo 17*a* capoverso 2 nella versione conforme al numero II della legge federale del 18 marzo 1994[^annex3-chap11-122-3] concernente misure coercitive in materia di diritto degli stranieri sostituisce l’articolo 45 capoverso 2, previo adeguamento dei rinvii agli articoli ivi citati.
+- d. articolo 32 capoverso 2 lettera b (non entrata nel merito in caso di inganno sull’identità); in questo caso il testo dell’articolo 16 capoverso 1 lettera b nella versione conforme al numero I del decreto federale del 22 giugno 1990[^122-2] concernente la procedura d’asilo sostituisce la disposizione prevista dall’articolo 32 capoverso 2 lettera b; e
+- e. articolo 45 capoverso 2 (esecuzione immediata in caso di decisione di non entrata nel merito); in questo caso il testo dell’articolo 17*a* capoverso 2 nella versione conforme al numero II della legge federale del 18 marzo 1994[^122-3] concernente misure coercitive in materia di diritto degli stranieri sostituisce l’articolo 45 capoverso 2, previo adeguamento dei rinvii agli articoli ivi citati.
 
-[^annex3-chap11-122-1]: [RU 1998 1582](https://fedlex.data.admin.ch/eli/oc/1998/1582_1582_1582)n. III. Questo art. è senza oggetto a causa dell’accettazione di questo DF nella [votazione popolare del 13 giu. 1999](http://www.admin.ch/ch/i/pore/va/19990613/index.html).
-[^annex3-chap11-122-2]: [RU 1990 938](https://fedlex.data.admin.ch/eli/oc/1990/938_938_938)
-[^annex3-chap11-122-3]: [RU 1995 146](https://fedlex.data.admin.ch/eli/oc/1995/146_146_146), 151
+[^122-1]: [RU 1998 1582](https://fedlex.data.admin.ch/eli/oc/1998/1582_1582_1582)n. III. Questo art. è senza oggetto a causa dell’accettazione di questo DF nella [votazione popolare del 13 giu. 1999](http://www.admin.ch/ch/i/pore/va/19990613/index.html).
+[^122-2]: [RU 1990 938](https://fedlex.data.admin.ch/eli/oc/1990/938_938_938)
+[^122-3]: [RU 1995 146](https://fedlex.data.admin.ch/eli/oc/1995/146_146_146), 151
 
 #### Art. 123
 
@@ -2928,63 +2934,128 @@ Se il decreto federale del 26 giugno 1998 concernente misure urgenti nel settore
 
 <sup>2</sup> Il Consiglio federale ne determina l’entrata in vigore.
 
-Data dell’entrata in vigore: 1° ottobre 1999[^annex3-chap11-123-1]
+Data dell’entrata in vigore: 1° ottobre 1999[^123-1]
 
-[^annex3-chap11-123-1]: DCF dell’11 ago. 1999.
+[^123-1]: DCF dell’11 ago. 1999.
 
-Disposizioni finali della modifica del 19 dicembre 2003[^t-3] <sup>1</sup> Per le domande d’asilo presentate prima dell’entrata in vigore della presente modifica di legge, il termine di disbrigo è retto dall’ex articolo 37. <sup>2</sup> Per le decisioni di prima istanza di non entrata nel merito di cui agli articoli 32–34 emanate prima dell’entrata in vigore della presente modifica di legge, il termine di ricorso è retto dall’articolo 50 della legge federale del 20 dicembre 1968[^t-4] sulla procedura amministrativa. <sup>3</sup> Per i ricorsi contro decisioni di non entrata nel merito di cui agli articoli 32–34 presentati prima dell’entrata in vigore della presente modifica di legge, il termine di disbrigo è retto dall’ex articolo 109. <sup>4</sup> Gli articoli 44*a* e 88 capoverso 1<sup>bis</sup> si applicano anche alle decisioni di non entrata nel merito di cui agli articoli 32–34 passate in giudicato prima dell’entrata in vigore della presente modifica di legge. I Cantoni che fino all’entrata in vigore della presente modifica di legge sono stati assistiti dalla SEM dei rifugiati nell’esecuzione dell’allontanamento ricevono nondimeno l’assistenza secondo l’articolo 88 capoverso 1 al massimo per nove mesi dopo l’entrata in vigore della presente modifica di legge.
+## Disposizioni finali della modifica del 19 dicembre 2003
 
-Disposizioni transitorie della modifica del 16 dicembre 2005[^t-5] <sup>1</sup> Ai procedimenti pendenti al momento dell’entrata in vigore della presente modifica è applicabile il nuovo diritto. <sup>2</sup> Se prima dell’entrata in vigore della presente modifica sorge un motivo per l’allestimento del conteggio finale secondo l’articolo 87 della legge nella versione del 26 giugno 1998[^t-6], il conteggio e il pagamento del saldo sono effettuati secondo il diritto previgente. <sup>3</sup> Il Consiglio federale disciplina la procedura di conteggio; stabilisce l’entità e la durata del contributo speciale e del prelevamento di valori patrimoniali nei confronti delle persone che esercitavano un’attività lucrativa prima dell’entrata in vigore della presente modifica e per le quali, al momento dell’entrata in vigore della presente modifica, non è sorto un motivo di conteggio intermedio o finale a tenore del capoverso 2. <sup>4</sup> Riguardo alle persone nei cui confronti è stata pronunciata una decisione in materia d’asilo o d’allontanamento passata in giudicato prima dell’entrata in vigore della presente modifica, la Confederazione paga ai Cantoni una somma forfettaria unica di 15 000 franchi, sempreché tali persone non abbiano ancora lasciato la Svizzera.
+[^u1-1]
 
-Disposizione transitoria della modifica del 28 settembre 2012[^t-7] Le domande d’asilo depositate all’estero prima dell’entrata in vigore della modifica del 28 settembre 2012 della presente legge sono rette dagli articoli 12, 19, 20, 41 capoverso 2, 52 e 68, nel tenore previgente.
+[^u1-1]: [RU 2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200); [FF 2003 4857](https://fedlex.data.admin.ch/eli/fga/2003/887)
 
-Disposizioni transitorie della modifica del 14 dicembre 2012[^t-8] <sup>1</sup> Fatti salvi i capoversi 2–4, le procedure pendenti al momento dell’entrata in vigore della modifica del 14 dicembre 2012 della presente legge sono rette dal nuovo diritto. <sup>2</sup> Per quanto concerne le domande di riesame e le domande multiple, le procedure pendenti al momento dell’entrata in vigore della modifica del 14 dicembre 2012 della presente legge sono rette dal diritto vigente nel tenore del 1° gennaio 2008. Gli articoli 43 capoverso 2 e 82 capoverso 2 sono retti dal capoverso 1. <sup>3</sup> I gestori di aeroporti sono tenuti, entro due anni dall’entrata in vigore della modifica del 14 dicembre 2012 della presente legge, a mettere a disposizione gli alloggi negli aeroporti secondo l’articolo 22 capoverso 3. <sup>4</sup> Per le domande d’asilo presentate prima dell’entrata in vigore della modifica del 14 dicembre 2012 della presente legge si applicano gli articoli 17 e 26 del diritto anteriore. L’articolo 26<sup>bis</sup>[^t-9] non è applicabile alle procedure d’asilo pendenti al momento dell’entrata in vigore della modifica del 14 dicembre 2012. L’articolo 110*a* non è applicabile alle procedure di ricorso pendenti al momento dell’entrata in vigore della modifica del 14 dicembre 2012. <sup>5</sup> La revoca dell’asilo o del riconoscimento della qualità di rifugiato non si estende alle persone che sono state riconosciute quali rifugiati secondo l’articolo 51 del diritto anteriore.
+<sup>1</sup> Per le domande d’asilo presentate prima dell’entrata in vigore della presente modifica di legge, il termine di disbrigo è retto dall’ex articolo 37.
 
-Disposizioni transitorie della modifica del 26 settembre 2014[^t-10] <sup>1</sup> Al termine delle fasi di test il Consiglio federale può continuare ad applicare le disposizioni esecutive testate conformemente all’articolo 112*b* capoverso 2, sempreché tali procedure: a. possano essere considerate idonee in virtù della loro valutazione; e b. siano integrate in un disegno di legge conformemente all’articolo 112*b* capoverso 1. <sup>2</sup> Alla luce dei risultati della valutazione, il Consiglio federale può apportare adeguamenti minimi alle disposizioni esecutive testate conformemente all’articolo 112*b* capoverso 2. <sup>3</sup> L’applicazione delle disposizioni esecutive testate cessa con l’entrata in vigore della modifica di legge conformemente all’articolo 112*b* capoverso 1, ma al più tardi il 28 settembre 2019.
+<sup>2</sup> Per le decisioni di prima istanza di non entrata nel merito di cui agli articoli 32–34 emanate prima dell’entrata in vigore della presente modifica di legge, il termine di ricorso è retto dall’articolo 50 della legge federale del 20 dicembre 1968[^u1-2] sulla procedura amministrativa.
 
-Disposizioni transitorie della modifica del 25 settembre 2015[^t-11] <sup>1</sup> Alle procedure pendenti al momento dell’entrata in vigore della modifica del 25 settembre 2015 si applica il diritto anteriore. È fatto salvo il capoverso 2. <sup>2</sup> Le procedure celeri e Dublino pendenti al momento dell’entrata in vigore della presente modifica ed espletate in virtù delle disposizioni esecutive relative all’articolo 112*b* capoversi 2 e 3 nel tenore conformemente alla cifra I della modifica del 28 settembre 2012[^t-12] della legge del 26 giugno 1998 sull’asilo (Modifiche urgenti della legge sull’asilo) sono rette dal corrispondente diritto applicabile prima dell’entrata in vigore della presente modifica. <sup>3</sup> Le domande d’asilo che non possono essere trattate nei centri della Confederazione sono rette dal diritto anteriore per al massimo due anni. Le procedure ancora pendenti al momento della scadenza di questo termine sono rette dal diritto anteriore fino alla decisione definitiva passata in giudicato. <sup>4</sup> Le procedure di approvazione dei piani per la costruzione di nuovi edifici e infrastrutture possono proseguire fino alla loro conclusione definitiva se la domanda è stata presentata durante la durata di validità dell’articolo 95*a* capoverso 1 lettera a. <sup>5</sup> Le procedure di autorizzazione pendenti in prima istanza all’entrata in vigore della modifica del 25 settembre 2015 per la costruzione di edifici o infrastrutture che servono alla Confederazione per alloggiare richiedenti l’asilo o per espletare procedure d’asilo proseguono secondo la procedura di cui al capitolo 6*a*.
+<sup>3</sup> Per i ricorsi contro decisioni di non entrata nel merito di cui agli articoli 32–34 presentati prima dell’entrata in vigore della presente modifica di legge, il termine di disbrigo è retto dall’ex articolo 109.
 
-Disposizione transitoria della modifica del 16 dicembre 2016[^t-13] Se pendenti al momento dell’entrata in vigore della modifica del 16 dicembre 2016, le procedure e i crediti di cui agli articoli 86 e 87 della presente legge e all’articolo 88 LStrI[^t-14] sono retti dal diritto anteriore.
+<sup>4</sup> Gli articoli 44*a* e 88 capoverso 1<sup>bis</sup> si applicano anche alle decisioni di non entrata nel merito di cui agli articoli 32–34 passate in giudicato prima dell’entrata in vigore della presente modifica di legge. I Cantoni che fino all’entrata in vigore della presente modifica di legge sono stati assistiti dalla SEM dei rifugiati nell’esecuzione dell’allontanamento ricevono nondimeno l’assistenza secondo l’articolo 88 capoverso 1 al massimo per nove mesi dopo l’entrata in vigore della presente modifica di legge.
 
-[^t-3]: [RU 2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200); [FF 2003 4857](https://fedlex.data.admin.ch/eli/fga/2003/887)
-[^t-4]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
-[^t-5]: [RU 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727); [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [FF 2002 6087](https://fedlex.data.admin.ch/eli/fga/2002/1106). Il cpv. 1 è in vigore dal 1° gen. 2007, i cpv. 2–4 dal 1° gen. 2008.
-[^t-6]: [RU 1999 2262](https://fedlex.data.admin.ch/eli/oc/1999/358); [FF 1996 II 1](https://fedlex.data.admin.ch/eli/fga/1996/2_1_1_1)
-[^t-7]: [RU 2012 5359](https://fedlex.data.admin.ch/eli/oc/2012/612); [FF 2010 3889](https://fedlex.data.admin.ch/eli/fga/2010/794); [2011 6503](https://fedlex.data.admin.ch/eli/fga/2011/1209)
-[^t-8]: [RU 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [FF 2010 3889](https://fedlex.data.admin.ch/eli/fga/2010/794); [2011 6503](https://fedlex.data.admin.ch/eli/fga/2011/1209)
-[^t-9]: Ora: art. 26*a*
-[^t-10]: [RU 2015 2047](https://fedlex.data.admin.ch/eli/oc/2015/379); [FF 2014 1869](https://fedlex.data.admin.ch/eli/fga/2014/405)
-[^t-11]: [RU 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521); [2017 6171](https://fedlex.data.admin.ch/eli/oc/2017/685); [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [FF 2014 6917](https://fedlex.data.admin.ch/eli/fga/2014/1715)
-[^t-12]: [RU 2012 5359](https://fedlex.data.admin.ch/eli/oc/2012/612); [2015 2047](https://fedlex.data.admin.ch/eli/oc/2015/379)
-[^t-13]: [RU 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718); [FF 2016 2471](https://fedlex.data.admin.ch/eli/fga/2016/524); [2013 2045](https://fedlex.data.admin.ch/eli/fga/2013/416)
-[^t-14]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^u1-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
 
-Allegato 1[^t-15]
+## Disposizioni transitorie della modifica del 16 dicembre 2005
+
+[^u2-1]
+
+[^u2-1]: [RU 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727); [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [FF 2002 6087](https://fedlex.data.admin.ch/eli/fga/2002/1106). Il cpv. 1 è in vigore dal 1° gen. 2007, i cpv. 2–4 dal 1° gen. 2008.
+
+<sup>1</sup> Ai procedimenti pendenti al momento dell’entrata in vigore della presente modifica è applicabile il nuovo diritto.
+
+<sup>2</sup> Se prima dell’entrata in vigore della presente modifica sorge un motivo per l’allestimento del conteggio finale secondo l’articolo 87 della legge nella versione del 26 giugno 1998[^u2-2], il conteggio e il pagamento del saldo sono effettuati secondo il diritto previgente.
+
+<sup>3</sup> Il Consiglio federale disciplina la procedura di conteggio; stabilisce l’entità e la durata del contributo speciale e del prelevamento di valori patrimoniali nei confronti delle persone che esercitavano un’attività lucrativa prima dell’entrata in vigore della presente modifica e per le quali, al momento dell’entrata in vigore della presente modifica, non è sorto un motivo di conteggio intermedio o finale a tenore del capoverso 2.
+
+<sup>4</sup> Riguardo alle persone nei cui confronti è stata pronunciata una decisione in materia d’asilo o d’allontanamento passata in giudicato prima dell’entrata in vigore della presente modifica, la Confederazione paga ai Cantoni una somma forfettaria unica di 15 000 franchi, sempreché tali persone non abbiano ancora lasciato la Svizzera.
+
+[^u2-2]: [RU 1999 2262](https://fedlex.data.admin.ch/eli/oc/1999/358); [FF 1996 II 1](https://fedlex.data.admin.ch/eli/fga/1996/2_1_1_1)
+
+## Disposizione transitoria della modifica del 28 settembre 2012
+
+[^u3-1]
+
+[^u3-1]: [RU 2012 5359](https://fedlex.data.admin.ch/eli/oc/2012/612); [FF 2010 3889](https://fedlex.data.admin.ch/eli/fga/2010/794); [2011 6503](https://fedlex.data.admin.ch/eli/fga/2011/1209)
+
+Le domande d’asilo depositate all’estero prima dell’entrata in vigore della modifica del 28 settembre 2012 della presente legge sono rette dagli articoli 12, 19, 20, 41 capoverso 2, 52 e 68, nel tenore previgente.
+
+## Disposizioni transitorie della modifica del 14 dicembre 2012
+
+[^u4-1]
+
+[^u4-1]: [RU 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [FF 2010 3889](https://fedlex.data.admin.ch/eli/fga/2010/794); [2011 6503](https://fedlex.data.admin.ch/eli/fga/2011/1209)
+
+<sup>1</sup> Fatti salvi i capoversi 2–4, le procedure pendenti al momento dell’entrata in vigore della modifica del 14 dicembre 2012 della presente legge sono rette dal nuovo diritto.
+
+<sup>2</sup> Per quanto concerne le domande di riesame e le domande multiple, le procedure pendenti al momento dell’entrata in vigore della modifica del 14 dicembre 2012 della presente legge sono rette dal diritto vigente nel tenore del 1° gennaio 2008. Gli articoli 43 capoverso 2 e 82 capoverso 2 sono retti dal capoverso 1.
+
+<sup>3</sup> I gestori di aeroporti sono tenuti, entro due anni dall’entrata in vigore della modifica del 14 dicembre 2012 della presente legge, a mettere a disposizione gli alloggi negli aeroporti secondo l’articolo 22 capoverso 3.
+
+<sup>4</sup> Per le domande d’asilo presentate prima dell’entrata in vigore della modifica del 14 dicembre 2012 della presente legge si applicano gli articoli 17 e 26 del diritto anteriore. L’articolo 26<sup>bis</sup>[^u4-2] non è applicabile alle procedure d’asilo pendenti al momento dell’entrata in vigore della modifica del 14 dicembre 2012. L’articolo 110*a* non è applicabile alle procedure di ricorso pendenti al momento dell’entrata in vigore della modifica del 14 dicembre 2012.
+
+<sup>5</sup> La revoca dell’asilo o del riconoscimento della qualità di rifugiato non si estende alle persone che sono state riconosciute quali rifugiati secondo l’articolo 51 del diritto anteriore.
+
+[^u4-2]: Ora: art. 26*a*
+
+## Disposizioni transitorie della modifica del 26 settembre 2014
+
+[^u5-1]
+
+[^u5-1]: In vigore fino al 28 set. 2019 ([RU 2015 2047](https://fedlex.data.admin.ch/eli/oc/2015/379); [FF 2014 1869](https://fedlex.data.admin.ch/eli/fga/2014/405)).
+
+## Disposizioni transitorie della modifica del 25 settembre 2015
+
+[^u6-1]
+
+[^u6-1]: [RU 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521); [2017 6171](https://fedlex.data.admin.ch/eli/oc/2017/685); [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [FF 2014 6917](https://fedlex.data.admin.ch/eli/fga/2014/1715)
+
+<sup>1</sup> Alle procedure pendenti al momento dell’entrata in vigore della modifica del 25 settembre 2015 si applica il diritto anteriore. È fatto salvo il capoverso 2.
+
+<sup>2</sup> Le procedure celeri e Dublino pendenti al momento dell’entrata in vigore della presente modifica ed espletate in virtù delle disposizioni esecutive relative all’articolo 112*b* capoversi 2 e 3 nel tenore conformemente alla cifra I della modifica del 28 settembre 2012[^u6-2] della legge del 26 giugno 1998 sull’asilo (Modifiche urgenti della legge sull’asilo) sono rette dal corrispondente diritto applicabile prima dell’entrata in vigore della presente modifica.
+
+<sup>3</sup> Le domande d’asilo che non possono essere trattate nei centri della Confederazione sono rette dal diritto anteriore per al massimo due anni. Le procedure ancora pendenti al momento della scadenza di questo termine sono rette dal diritto anteriore fino alla decisione definitiva passata in giudicato.
+
+<sup>4</sup> Le procedure di approvazione dei piani per la costruzione di nuovi edifici e infrastrutture possono proseguire fino alla loro conclusione definitiva se la domanda è stata presentata durante la durata di validità dell’articolo 95*a* capoverso 1 lettera a.
+
+<sup>5</sup> Le procedure di autorizzazione pendenti in prima istanza all’entrata in vigore della modifica del 25 settembre 2015 per la costruzione di edifici o infrastrutture che servono alla Confederazione per alloggiare richiedenti l’asilo o per espletare procedure d’asilo proseguono secondo la procedura di cui al capitolo 6*a*.
+
+[^u6-2]: [RU 2012 5359](https://fedlex.data.admin.ch/eli/oc/2012/612); [2015 2047](https://fedlex.data.admin.ch/eli/oc/2015/379)
+
+## Disposizione transitoria della modifica del 16 dicembre 2016
+
+[^u7-1]
+
+[^u7-1]: [RU 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718); [FF 2016 2471](https://fedlex.data.admin.ch/eli/fga/2016/524); [2013 2045](https://fedlex.data.admin.ch/eli/fga/2013/416)
+
+Se pendenti al momento dell’entrata in vigore della modifica del 16 dicembre 2016, le procedure e i crediti di cui agli articoli 86 e 87 della presente legge e all’articolo 88 LStrI[^u7-2] sono retti dal diritto anteriore.
+
+[^u7-2]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+
+Allegato 1[^t-1]
 
 (art. 21 cpv. 3)
 
 ## Accordi di associazione alla normativa di Dublino
 
-[^t-15]: Introdotto dall’all. n. 1 della LF del 13 giu. 2008 (Complementi nel quadro della trasposizione degli Acc. d’associazione alla normativa di Schengen e Dublino), in vigore dal 12 dic. 2008 ([RU 2008 5407](https://fedlex.data.admin.ch/eli/oc/2008/756), [5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 lett. c; [FF 2007 7149](https://fedlex.data.admin.ch/eli/fga/2007/1287)).
+[^t-1]: Introdotto dall’all. n. 1 della LF del 13 giu. 2008 (Complementi nel quadro della trasposizione degli Acc. d’associazione alla normativa di Schengen e Dublino), in vigore dal 12 dic. 2008 ([RU 2008 5407](https://fedlex.data.admin.ch/eli/oc/2008/756), [5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 lett. c; [FF 2007 7149](https://fedlex.data.admin.ch/eli/fga/2007/1287)).
 
 Gli accordi di associazione alla normativa di Dublino comprendono:
 
-- a. Accordo del 26 ottobre 2004[^annex2-lvlu1-1] tra la Confederazione Svizzera e la Comunità europea sui criteri e i meccanismi per determinare lo Stato competente per l’esame di una domanda di asilo presentata in uno degli Stati membri o in Svizzera (AAD);
-- b. Accordo del 17 dicembre 2004[^annex2-lvlu1-2] tra la Confederazione Svizzera, la Repubblica d’Islanda e il Regno di Norvegia sull’attuazione, l’applicazione e lo sviluppo dell’acquis di Schengen nonché sui criteri e i meccanismi per determinare lo Stato competente per l’esame di una domanda d’asilo presentata in Svizzera, in Islanda o in Norvegia;
-- c. Protocollo del 28 febbraio 2008[^annex2-lvlu1-3] tra la Confederazione Svizzera e la Comunità europea e il Principato del Liechtenstein dell’accordo tra la Confederazione Svizzera e la Comunità europea relativo ai criteri e ai meccanismi che permettono di determinare lo Stato competente per l’esame di una domanda di asilo introdotta in uno degli stati membri o in Svizzera;
-- d. Protocollo del 28 febbraio 2008[^annex2-lvlu1-4] tra la Confederazione Svizzera, la Comunità europea e il Principato del Liechtenstein sull’adesione del Principato del Liechtenstein all’accordo tra la Confederazione Svizzera e la Comunità europea relativo ai criteri e ai meccanismi che permettono di determinare lo stato competente per l’esame di una domanda di asilo introdotta in uno degli stati membri o in Svizzera.
+- a. Accordo del 26 ottobre 2004[^annex1-lvlu1-1] tra la Confederazione Svizzera e la Comunità europea sui criteri e i meccanismi per determinare lo Stato competente per l’esame di una domanda di asilo presentata in uno degli Stati membri o in Svizzera (AAD);
+- b. Accordo del 17 dicembre 2004[^annex1-lvlu1-2] tra la Confederazione Svizzera, la Repubblica d’Islanda e il Regno di Norvegia sull’attuazione, l’applicazione e lo sviluppo dell’acquis di Schengen nonché sui criteri e i meccanismi per determinare lo Stato competente per l’esame di una domanda d’asilo presentata in Svizzera, in Islanda o in Norvegia;
+- c. Protocollo del 28 febbraio 2008[^annex1-lvlu1-3] tra la Confederazione Svizzera e la Comunità europea e il Principato del Liechtenstein dell’accordo tra la Confederazione Svizzera e la Comunità europea relativo ai criteri e ai meccanismi che permettono di determinare lo Stato competente per l’esame di una domanda di asilo introdotta in uno degli stati membri o in Svizzera;
+- d. Protocollo del 28 febbraio 2008[^annex1-lvlu1-4] tra la Confederazione Svizzera, la Comunità europea e il Principato del Liechtenstein sull’adesione del Principato del Liechtenstein all’accordo tra la Confederazione Svizzera e la Comunità europea relativo ai criteri e ai meccanismi che permettono di determinare lo stato competente per l’esame di una domanda di asilo introdotta in uno degli stati membri o in Svizzera.
 
-[^annex2-lvlu1-1]: [RS 0.142.392.68](https://fedlex.data.admin.ch/eli/cc/2008/115)
-[^annex2-lvlu1-2]: [RS 0.362.32](https://fedlex.data.admin.ch/eli/cc/2008/116)
-[^annex2-lvlu1-3]: [RS 0.142.393.141](https://fedlex.data.admin.ch/eli/cc/2008/777)
-[^annex2-lvlu1-4]: [RS 0.142.395.141](https://fedlex.data.admin.ch/eli/cc/2011/195)
+[^annex1-lvlu1-1]: [RS 0.142.392.68](https://fedlex.data.admin.ch/eli/cc/2008/115)
+[^annex1-lvlu1-2]: [RS 0.362.32](https://fedlex.data.admin.ch/eli/cc/2008/116)
+[^annex1-lvlu1-3]: [RS 0.142.393.141](https://fedlex.data.admin.ch/eli/cc/2008/777)
+[^annex1-lvlu1-4]: [RS 0.142.395.141](https://fedlex.data.admin.ch/eli/cc/2011/195)
 
-Allegato 2[^t-16]
+Allegato 2[^t-2]
 
 ## Modifica del diritto in vigore
 
-[^t-16]: Originario all.
+[^t-2]: Originario all.
 
-...[^annex2-lvlu1-5]
+...[^annex2-lvlu1-1]
 
-[^annex2-lvlu1-5]: Le mod. possono essere consultate alla [RU 1999 2262](https://fedlex.data.admin.ch/eli/oc/1999/358).
+[^annex2-lvlu1-1]: Le mod. possono essere consultate alla [RU 1999 2262](https://fedlex.data.admin.ch/eli/oc/1999/358).

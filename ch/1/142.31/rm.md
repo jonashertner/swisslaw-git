@@ -4,11 +4,11 @@ title: "Lescha d'asil dals 26 da zercladur 1998 (LAsil)"
 short: LAsil
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/358"
 language: rm
-version: 2023-09-01
+version: 2024-01-01
 adopted: 1998-06-26
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/358/20230901/rm/xml/fedlex-data-admin-ch-eli-cc-1999-358-20230901-rm-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/358/20230901/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/358/20240101/rm/xml/fedlex-data-admin-ch-eli-cc-1999-358-20240101-rm-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/358/20240101/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (LAsil)
 
-dals 26 da zercladur 1998 (versiun dal 1. da settember 2023)
+dals 26 da zercladur 1998 (versiun dal 1. da schaner 2024)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -662,11 +662,26 @@ Sche l’audiziun davart ils motivs d’asil mussa ch’ina decisiun en il rom d
 
 #### Art. 29a
 
-**Collavuraziun per eruir ils fatgs**[^29a-1]
+**Examinaziun da la confidenza**[^29a-1]
+
+<sup>1</sup> Avant e durant il mandat po il SEM laschar examinar la confidenza da las interpretas e dals interprets sco er da las translaturas e dals translaturs.
+
+<sup>2</sup> La confidenza vegn examinada tras ils posts spezialisads ch’èn incaricads per realisar controllas da segirezza tenor l’artitgel 31 alinea 2 da la Lescha dals 18 da december 2020[^29a-2] davart la segirezza da las infurmaziuns (LSIn). Per la procedura vegnan applitgadas analogamain las disposiziuns da la LSIn davart la controlla da segirezza da basa.
+
+<sup>3</sup> Sche las interpretas ed ils interprets sco er las translaturas ed ils translaturs vegnan suttamess a medem temp ad ina controlla da segirezza da persunas tenor la LSIn, vegnan cumbinadas las duas proceduras.
+
+<sup>4</sup> Il SEM surpiglia ils custs da las examinaziuns da la confidenza.
+
+[^29a-1]: Integrà tras la cifra 3 da l’agiunta 1 da la LF dals 18 da dec. 2020 davart la segirezza da las infurmaziuns, en vigur dapi il 1. da schan. 2024 ([AS 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [BBl 2017 2953](https://fedlex.data.admin.ch/eli/fga/2017/647)).
+[^29a-2]: [SR 128](https://fedlex.data.admin.ch/eli/cc/2022/232)
+
+#### Art. 29b
+
+**Collavuraziun per eruir ils fatgs**[^29b-1]
 
 Il Cussegl federal po far cunvegnas cun terzs stadis e cun organisaziuns internaziunalas davart la collavuraziun per eruir ils fatgs. En spezial po el far cunvegnas davart il barat vicendaivel d’infurmaziuns per sclerir ils motivs, per ils quals in requirent d’asil ha bandunà ses stadi d’origin u da derivanza, sco er per sclerir ses itinerari e sia dimora en in terz stadi.
 
-[^29a-1]: Integrà tras la cifra I da la LF dals 14 da dec. 2012, en vigur dapi il 1. da favr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
+[^29b-1]: Oriundamain: art. 29*a*. Integrà tras la cifra I da la LF dals 14 da dec. 2012, en vigur dapi il 1. da favr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 
 #### Art. 30
 
@@ -2270,7 +2285,6 @@ Sch’in ulteriur stadi na garantescha betg in nivel da protecziun da datas adeq
 Las datas che derivan da la banca da datas Eurodac na dastgan vegnir transmessas sut naginas circumstanzas:
 
 - a. ad in stadi che n’è betg lià tras ina da las cunvegnas d’associaziun a la reglamentaziun da Dublin;
-
 - b. ad organisaziuns internaziunalas;
 - c. a posts privats.[^102c-4]
 
@@ -2753,21 +2767,9 @@ Per la durada d’ina procedura da meds legals na cumenza la surannaziun da pret
 
 #### Art. 112b
 
-**...[^112b-2]**[^112b-1]
+[^112b-1]
 
-<sup>1</sup> Il Cussegl federal po prevair fasas da test per giuditgar novs andaments da procedura, sche quels pretendan – pervia da mesiras organisatoricas e tecnicas cumplexas – ina fasa da test avant che decretar ina midada da lescha.
-
-<sup>2</sup> Il Cussegl federal regla ils detagls da las fasas da test en in’ordinaziun. Concepind la procedura d’asil d’emprima instanza e la procedura da spedida e las dumondas da finanziaziun che dependan da quai po el divergiar da questa lescha e da la LEI[^112b-3].
-
-<sup>3</sup> Per fasas da test po el reducir il termin da recurs da 30 dis tenor l’artitgel 108 alinea 1 a 10 dis, sche la protecziun giuridica efficazia dals requirents d’asil pertutgads è garantida tras mesiras adattadas.
-
-<sup>4</sup> L’ordinaziun enumerescha tut las disposiziuns legalas, da las qualas i vegn divergià.
-
-<sup>5</sup> Las fasas da test duran maximalmain 2 onns.
-
-[^112b-1]: Integrà tras la cifra I da la LF dals 28 da sett. 2012 (midadas urgentas da la Lescha d’asil), en vigur dals 29 da sett. 2012 fin ils 28 da sett. 2015 ([AS 2012 5359](https://fedlex.data.admin.ch/eli/oc/2012/612); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)) e prolungà fin ils 28 da sett. 2019 tras la cifra II da la LF dals 26 da sett. 2014 ([AS 2015 2047](https://fedlex.data.admin.ch/eli/oc/2015/379); [BBl 2014 2087](https://fedlex.data.admin.ch/eli/fga/2014/405)). Guardar er la disposiziun transitorica da questa midada a la fin dal text.
-[^112b-2]: Abolì tras la cifra I da la LF dals 14 da dec. 2012, cun effect dapi il 1. da favr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
-[^112b-3]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^112b-1]: Integrà tras la cifra I da la LF dals 28 da sett. 2012 (midadas urgentas da la Lescha d’asil), en vigur dals 29 da sett. 2012 fin ils 28 da sett. 2015 ([AS 2012 5359](https://fedlex.data.admin.ch/eli/oc/2012/612); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)) e prolungà fin ils 28 da sett. 2019 tras la cifra II da la LF dals 26 da sett. 2014 ([AS 2015 2047](https://fedlex.data.admin.ch/eli/oc/2015/379); [BBl 2014 2087](https://fedlex.data.admin.ch/eli/fga/2014/405)).
 
 ## 9. chapitel Collavuraziun internaziunala
 
@@ -2998,16 +3000,7 @@ Per dumondas d’asil ch’èn vegnidas inoltradas a l’exteriur avant che la m
 
 [^u5-1]
 
-[^u5-1]: [AS 2015 2047](https://fedlex.data.admin.ch/eli/oc/2015/379); [BBl 2014 2087](https://fedlex.data.admin.ch/eli/fga/2014/405)
-
-<sup>2</sup> Resguardond ils resultats da l’evaluaziun po il Cussegl federal adattar minimalmain las disposiziuns executivas testadas sin basa da l’artitgel 112*b* alinea 2.
-
-<sup>3</sup> L’ulteriura applicaziun da las disposiziuns executivas testadas finescha cun l’entrada en vigur da la midada da lescha tenor l’artitgel 112*b* alinea 1, il pli tard dentant ils 28 da settember 2019.
-
-<sup>1</sup> Suenter la finiziun da las fasas da test po il Cussegl federal applitgar vinavant las disposiziuns executivas testadas sin basa da l’artitgel 112*b* alinea 2, sch’ils andaments da procedura testads:
-
-- a. pon vegnir considerads sco adattads sin fundament d’ina evaluaziun; e
-- b. vegnan integrads en in project da lescha tenor l’artitgel 112*b* alinea 1.
+[^u5-1]: En vigur fin ils 28 da sett. 2015 ([AS 2015 2047](https://fedlex.data.admin.ch/eli/oc/2015/379); [BBl 2014 2087](https://fedlex.data.admin.ch/eli/fga/2014/405)).
 
 ## Disposiziuns transitoricas da la midada dals 25 da settember 2015
 

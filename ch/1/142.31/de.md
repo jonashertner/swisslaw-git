@@ -4,11 +4,11 @@ title: Asylgesetz vom 26. Juni 1998 (AsylG)
 short: AsylG
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/358"
 language: de
-version: 2023-09-01
+version: 2024-01-01
 adopted: 1998-06-26
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/358/20230901/de/xml/fedlex-data-admin-ch-eli-cc-1999-358-20230901-de-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/358/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/358/20240101/de/xml/fedlex-data-admin-ch-eli-cc-1999-358-20240101-de-xml-15.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/358/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/358/20230901/de"
 
 (AsylG)
 
-vom 26. Juni 1998 (Stand am 1. September 2023)
+vom 26. Juni 1998 (Stand am 1. Januar 2024)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -660,11 +660,26 @@ Steht nach der Anhörung zu den Asylgründen fest, dass ein Entscheid im Rahmen 
 
 #### Art. 29a
 
-**Zusammenarbeit bei der Ermittlung des Sachverhalts**[^29a-1]
+**Prüfung der Vertrauenswürdigkeit**[^29a-1]
+
+<sup>1</sup> Das SEM kann vor und während des Auftragsverhältnisses Dolmetscherinnen und Dolmetscher sowie Übersetzerinnen und Übersetzer auf ihre Vertrauenswürdigkeit hin prüfen lassen.
+
+<sup>2</sup> Die Vertrauenswürdigkeitsprüfungen werden von den Fachstellen PSP nach Artikel 31 Absatz 2 des Informationssicherheitsgesetzes vom 18. Dezember 2020[^29a-2] (ISG) durchgeführt. Das Verfahren richtet sich sinngemäss nach den Bestimmungen des ISG über die Grundsicherheitsprüfung.
+
+<sup>3</sup> Werden die Dolmetscherinnen und Dolmetscher sowie Übersetzerinnen und Übersetzer gleichzeitig einer Personensicherheitsprüfung nach dem ISG unterzogen, so werden die beiden Verfahren vereinigt.
+
+<sup>4</sup> Das SEM trägt die Kosten der Vertrauenswürdigkeitsprüfungen.
+
+[^29a-1]: Eingefügt durch Anhang 1 Ziff. 3 des Informationssicherheitsgesetzes vom 18. Dez. 2020, in Kraft seit 1. Jan. 2024 ([AS 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [BBl 2017 2953](https://fedlex.data.admin.ch/eli/fga/2017/647)).
+[^29a-2]: [SR 128](https://fedlex.data.admin.ch/eli/cc/2022/232)
+
+#### Art. 29b
+
+**Zusammenarbeit bei der Ermittlung des Sachverhalts**[^29b-1]
 
 Der Bundesrat kann mit Drittstaaten und internationalen Organisationen Vereinbarungen über die Zusammenarbeit bei der Ermittlung des Sachverhalts abschliessen. Er kann insbesondere Vereinbarungen über den gegenseitigen Informationsaustausch zur Abklärung der Fluchtgründe einer asylsuchenden Person im Heimat- oder Herkunftsstaat, ihres Reiseweges und ihres Aufenthalts in einem Drittstaat abschliessen.
 
-[^29a-1]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
+[^29b-1]: Ursprünglich: Art. 29*a*. Eingefügt durch Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 
 #### Art. 30
 
@@ -2750,21 +2765,9 @@ Während der Dauer eines Rechtsmittelverfahrens beginnt die Verjährung von fina
 
 #### Art. 112b
 
-**…[^112b-2]**[^112b-1]
+[^112b-1]
 
-<sup>1</sup> Der Bundesrat kann Testphasen zur Beurteilung neuer Verfahrensabläufe vorsehen, wenn diese aufgrund von aufwendigen, organisatorischen und technischen Massnahmen eine Testphase vor dem Erlass einer Gesetzesänderung erfordern.
-
-<sup>2</sup> Der Bundesrat regelt die Einzelheiten der Testphasen in einer Verordnung. Dabei kann er bei der Ausgestaltung des erstinstanzlichen Asylverfahrens und des Wegweisungsverfahrens und damit zusammenhängenden Finanzierungsfragen von diesem Gesetz und dem AIG[^112b-3] abweichen.
-
-<sup>3</sup> Er kann für Testphasen die Beschwerdefrist von 30 Tagen gemäss Artikel 108 Absatz 1 auf zehn Tage verkürzen, wenn der wirksame Rechtsschutz der betroffenen Asylsuchenden durch geeignete Massnahmen gewährleistet ist.
-
-<sup>4</sup> Die Verordnung listet alle Gesetzesbestimmungen auf, von denen abgewichen wird.
-
-<sup>5</sup> Die Dauer der Testphasen beträgt höchstens zwei Jahre.
-
-[^112b-1]: Eingefügt durch Ziff. I des BG vom 28. Sept. 2012 (Dringliche Änderungen des Asylgesetzes), in Kraft vom 29. Sept. 2012 bis zum 28. Sept. 2015 ([AS 2012 5359](https://fedlex.data.admin.ch/eli/oc/2012/612); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)) und verlängert bis 28. Sept. 2019 durch Ziff. II des BG vom 26. Sept. 2014 ([AS 2015 2047](https://fedlex.data.admin.ch/eli/oc/2015/379); [BBl 2014 2087](https://fedlex.data.admin.ch/eli/fga/2014/405)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
-[^112b-2]: Aufgehoben durch Ziff. I des BG vom 14. Dez. 2012, mit Wirkung seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
-[^112b-3]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^112b-1]: Eingefügt durch Ziff. I des BG vom 28. Sept. 2012 (Dringliche Änderungen des Asylgesetzes), in Kraft vom 29. Sept. 2012 bis zum 28. Sept. 2015 ([AS 2012 5359](https://fedlex.data.admin.ch/eli/oc/2012/612); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)) und verlängert bis 28. Sept. 2019 durch Ziff. II des BG vom 26. Sept. 2014 ([AS 2015 2047](https://fedlex.data.admin.ch/eli/oc/2015/379); [BBl 2014 2087](https://fedlex.data.admin.ch/eli/fga/2014/405)).
 
 ## 9. Kapitel: Internationale Zusammenarbeit
 
@@ -2995,16 +2998,7 @@ Für Asylgesuche, die im Ausland vor dem Inkrafttreten der Änderung vom 28. Sep
 
 [^u5-1]
 
-[^u5-1]: [AS 2015 2047](https://fedlex.data.admin.ch/eli/oc/2015/379); [BBl 2014 2087](https://fedlex.data.admin.ch/eli/fga/2014/405)
-
-<sup>2</sup> Der Bundesrat kann in Berücksichtigung der Ergebnisse der Evaluation die gestützt auf Artikel 112*b* Absatz 2 getesteten Ausführungsbestimmungen geringfügig anpassen.
-
-<sup>3</sup> Die weitere Anwendung der getesteten Ausführungsbestimmungen endet mit dem Inkrafttreten der Gesetzesänderung gemäss Artikel 112*b* Absatz 1, spätestens aber am 28. September 2019.
-
-<sup>1</sup> Der Bundesrat kann nach Beendigung der Testphasen die gestützt auf Artikel 112*b* Absatz 2 getesteten Ausführungsbestimmungen weiter anwenden, wenn die getesteten Verfahrensabläufe:
-
-- a. gestützt auf eine Evaluation als tauglich betrachtet werden können; und
-- b. in eine Gesetzesvorlage nach Artikel 112*b* Absatz 1 aufgenommen werden.
+[^u5-1]: In Kraft bis zum 28. Sept. 2019 ([AS 2015 2047](https://fedlex.data.admin.ch/eli/oc/2015/379); [BBl 2014 2087](https://fedlex.data.admin.ch/eli/fga/2014/405)).
 
 ## Übergangsbestimmungen zur Änderung vom 25. September 2015
 

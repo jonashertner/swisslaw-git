@@ -4,11 +4,11 @@ title: "Loi du 26 juin 1998 sur l'asile (LAsi)"
 short: LAsi
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/358"
 language: fr
-version: 2023-09-01
+version: 2024-01-01
 adopted: 1998-06-26
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/358/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-1999-358-20230901-fr-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/358/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/358/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-1999-358-20240101-fr-xml-15.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/358/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/358/20230901/fr"
 
 (LAsi)
 
-du 26 juin 1998 (État le 1<sup>er</sup> septembre 2023)
+du 26 juin 1998 (État le 1<sup>er</sup> janvier 2024)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -660,11 +660,26 @@ S’il ressort de l’audition sur les motifs d’asile qu’une décision ne pe
 
 #### Art. 29a
 
-**Collaboration à l’établissement des faits**[^29a-1]
+**Contrôle de loyauté**[^29a-1]
+
+<sup>1</sup> Le SEM peut faire contrôler la loyauté des interprètes et des traducteurs avant ou durant les rapports de travail.
+
+<sup>2</sup> Les services spécialisés chargés de réaliser les contrôles de sécurité relatifs aux personnes au sens de l’art. 31, al. 2, de la loi du 18 décembre 2020 sur la sécurité de l’information (LSI)[^29a-2] réalisent les contrôles de loyauté. Les dispositions de la LSI relatives au contrôle de sécurité de base s’appliquent par analogie.
+
+<sup>3</sup> Lorsque les interprètes et les traducteurs sont soumis simultanément à un contrôle de sécurité au sens de la LSI, les deux procédures sont combinées.
+
+<sup>4</sup> Les coûts des contrôles de loyauté sont à la charge du SEM.
+
+[^29a-1]: Introduit par l’annexe 1 ch. 3 de la L du 18 déc. 2020 sur la sécurité de l’information, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [FF 2017 2765](https://fedlex.data.admin.ch/eli/fga/2017/647)).
+[^29a-2]: [RS 128](https://fedlex.data.admin.ch/eli/cc/2022/232)
+
+#### Art. 29b
+
+**Collaboration à l’établissement des faits**[^29b-1]
 
 Le Conseil fédéral peut conclure des accords de coopération avec des États tiers et des organisations internationales dans le but de faciliter l’établissement des faits. Il peut notamment passer des accords visant à prévoir l’échange d’informations dans le but de déterminer les motifs qui ont poussé le requérant à fuir son État d’origine ou de provenance, l’itinéraire qu’il a emprunté et les États tiers dans lesquels il a séjourné.
 
-[^29a-1]: Introduit par le ch. I de la LF du 14 déc. 2012, en vigueur depuis le 1<sup>er</sup> fév. 2014 ([RO 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [FF 2010 4035](https://fedlex.data.admin.ch/eli/fga/2010/794); [2011 6735](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
+[^29b-1]: Anciennement art. 29*a*. Introduit par le ch. I de la LF du 14 déc. 2012, en vigueur depuis le 1<sup>er</sup> fév. 2014 ([RO 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [FF 2010 4035](https://fedlex.data.admin.ch/eli/fga/2010/794); [2011 6735](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 
 #### Art. 30
 
@@ -2755,21 +2770,9 @@ Pendant la durée de la procédure de recours, la prescription des prétentions 
 
 #### Art. 112b
 
-**...[^112b-2]**[^112b-1]
+[^112b-1]
 
-<sup>1</sup> Le Conseil fédéral peut prévoir des phases de test visant à évaluer de nouvelles procédures lorsque celles-ci exigent qu’une phase de test ait lieu avant l’adoption d’une modification de loi en raison de mesures organisationnelles et techniques complexes.
-
-<sup>2</sup> Le Conseil fédéral règle les modalités des phases de test par voie d’ordonnance. Ce faisant, il peut déroger à la présente loi et à la LEI[^112b-3] pour ce qui a trait à l’aménagement de la procédure d’asile de première instance et de la procédure de renvoi, ainsi qu’aux questions financières y afférentes.
-
-<sup>3</sup> Durant les phases de test, le Conseil fédéral peut raccourcir le délai de recours de 30 jours prévu à l’art. 108, al. 1, à 10 jours lorsque des mesures appropriées garantissent une protection juridique efficace des requérants d’asile concernés.
-
-<sup>4</sup> Toutes les dispositions légales auxquelles il est dérogé figurent dans l’ordonnance.
-
-<sup>5</sup> La durée des phases de test est de deux ans au plus.
-
-[^112b-1]: Introduit par le ch. I de la LF du 28 sept. 2012 (Mod. urgentes de la LF sur l’asile) en vigueur du 29 sept. 2012 au 28 sept. 2015 ([RO 2012 5359](https://fedlex.data.admin.ch/eli/oc/2012/612); [FF 2010 4035](https://fedlex.data.admin.ch/eli/fga/2010/794); [2011 6735](https://fedlex.data.admin.ch/eli/fga/2011/1209)) et prorogé au 28 sept. 2019 selon le ch. II de la LF du 26 sept. 2014 ([RO 2015 2047](https://fedlex.data.admin.ch/eli/oc/2015/379); [FF 2014 2013](https://fedlex.data.admin.ch/eli/fga/2014/405)). Voir aussi la disp. trans. de cette mod. à la fin du texte.
-[^112b-2]: Abrogé par le ch. I de la LF du 14 déc. 2012, avec effet au 1<sup>er</sup> fév. 2014 ([RO 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [FF 2010 4035](https://fedlex.data.admin.ch/eli/fga/2010/794); [2011 6735](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
-[^112b-3]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^112b-1]: Introduit par le ch. I de la LF du 28 sept. 2012 (Mod. urgentes de la LF sur l’asile) en vigueur du 29 sept. 2012 au 28 sept. 2015 ([RO 2012 5359](https://fedlex.data.admin.ch/eli/oc/2012/612); [FF 2010 4035](https://fedlex.data.admin.ch/eli/fga/2010/794); [2011 6735](https://fedlex.data.admin.ch/eli/fga/2011/1209)) et prorogé au 28 sept. 2019 selon le ch. II de la LF du 26 sept. 2014 ([RO 2015 2047](https://fedlex.data.admin.ch/eli/oc/2015/379); [FF 2014 2013](https://fedlex.data.admin.ch/eli/fga/2014/405)).
 
 ## Chapitre 9 Collaboration internationale
 
@@ -2996,16 +2999,7 @@ Les demandes d’asile qui ont été déposées à l’étranger avant l’entr�
 
 [^u5-1]
 
-[^u5-1]: [RO 2015 2047](https://fedlex.data.admin.ch/eli/oc/2015/379); [FF 2014 2013](https://fedlex.data.admin.ch/eli/fga/2014/405)
-
-<sup>2</sup> Le Conseil fédéral peut, eu égard aux résultats de l’évaluation, procéder à de légères adaptations des dispositions d’exécution testées conformément à l’art. 112*b*, al. 2.
-
-<sup>3</sup> L’application des dispositions d’exécution testées cesse le jour où la modification de loi visée à l’art. 112*b*, al. 1, entre en vigueur, mais au plus tard le 28 septembre 2019.
-
-<sup>1</sup> Au terme des phases de test, le Conseil fédéral peut continuer d’appliquer les dispositions d’exécution testées conformément à l’art. 112*b*, al. 2, si les procédures testées remplissent les conditions suivantes:
-
-- a. elles peuvent être considérées comme appropriées sur la base d’une évaluation;
-- b. elles sont intégrées dans un projet de loi au sens de l’art. 112*b*, al. 1.
+[^u5-1]: En vigueur jusqu’au 28 sept. 2019 ([RO 2015 2047](https://fedlex.data.admin.ch/eli/oc/2015/379); [FF 2014 2013](https://fedlex.data.admin.ch/eli/fga/2014/405)).
 
 ## Dispositions transitoires de la modification du 25 septembre 2015
 

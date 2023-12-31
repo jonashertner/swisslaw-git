@@ -4,11 +4,11 @@ title: Asylum Act of 26 June 1998 (AsylA)
 short: AsylA
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/358"
 language: en
-version: 2023-09-01
+version: 2024-01-01
 adopted: 1998-06-26
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/358/20230901/en/xml/fedlex-data-admin-ch-eli-cc-1999-358-20230901-en-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/358/20230901/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/358/20240101/en/xml/fedlex-data-admin-ch-eli-cc-1999-358-20240101-en-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/358/20240101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (AsylA)
 
-of 26 June 1998 (Status as of 1 September 2023)
+of 26 June 1998 (Status as of 1 January 2024)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -664,11 +664,26 @@ If it is clear after the interview on the grounds for asylum that a decision can
 
 #### Art. 29a
 
-**Cooperation in establishing the circumstances**[^29a-1]
+**Trustworthiness assessment**[^29a-1]
+
+<sup>1</sup> Before and during their contractual relationship, SEM may have interpreters and translators assessed with regard to their trustworthiness.
+
+<sup>2</sup> The trustworthiness assessments shall be carried out by the PSS specialist units under Article 31 paragraph 2 of the Information Security Act of 18 December 2020[^29a-2] (ISA). The procedure is governed mutatis mutandis by the provisions of the ISA on basic security screening.
+
+<sup>3</sup> If the interpreters or translators undergo personnel security screening in accordance with the ISA at the same time, both procedures shall be combined.
+
+<sup>4</sup> SEM shall bear the costs of the trustworthiness assessments.
+
+[^29a-1]: Inserted by Annex 1 No 3 of the Information Security Act of 18 Dec. 2020, in force since 1 Jan. 2024 ([AS 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [BBl 2017 2953](https://fedlex.data.admin.ch/eli/fga/2017/647)).
+[^29a-2]: [SR 128](https://fedlex.data.admin.ch/eli/cc/2022/232)
+
+#### Art. 29b
+
+**Cooperation in establishing the circumstances**[^29b-1]
 
 The Federal Council may enter into agreements with third countries and international organisations on cooperation in establishing the circumstances of cases. It may in particular enter into agreements on a mutual exchange of information in order to establish the motives for seeking asylum of an asylum seeker in his or her native country or country of origin, his or her itinerary and his or her stay in a third country.
 
-[^29a-1]: Inserted by No I of the FA of 14 Dec. 2012, in force since 1 Feb. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
+[^29b-1]: Originally Art. 29*a*. Inserted by No I of the FA of 14 Dec. 2012, in force since 1 Feb. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 
 #### Art. 30
 
@@ -2755,21 +2770,9 @@ For the duration of appeal proceedings, the limitation period for financial clai
 
 #### Art. 112b
 
-**...[^112b-2]**[^112b-1]
+[^112b-1]
 
-<sup>1</sup> The Confederation may provide for test phases to assess new procedures if a test phase is required for such procedures prior to amending the law due to the complex organisational and technical measures involved.
-
-<sup>2</sup> The Confederation regulates the details of the test phases in an ordinance. In doing so it may deviate from the terms of this Act and the FNIA[^112b-3] in relation to the organisation of first instance asylum proceedings and the removal proceedings and related financial issues.
-
-<sup>3</sup> It may reduce the deadline for filing an appeal under Article 108 paragraph 1 in test phases from 30 days to ten days, provided effective legal protection for the asylum seekers concerned is guaranteed by suitable measures.
-
-<sup>4</sup> The ordinance lists all the statutory provisions from which it deviates.
-
-<sup>5</sup> The test phases last no longer than two years.
-
-[^112b-1]: Inserted by No I of the FA of 28 Sept 2012 (Emergency Amendments to the Asylum Act), in force from 29 Sept. 2012 to 28 Sept. 2015 ([AS 2012 5359](https://fedlex.data.admin.ch/eli/oc/2012/612); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)) and extended to 28 Sept. 2019 by No II of the FA of 26 Sept. 2014 ([AS 2015 2047](https://fedlex.data.admin.ch/eli/oc/2015/379); [BBl 2014 2087](https://fedlex.data.admin.ch/eli/fga/2014/405)). See also the transitional provision to this amendment at the end of the text.
-[^112b-2]: Repealed by No I of the FA of 14 Dec. 2012, with effect from 1 Feb. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
-[^112b-3]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^112b-1]: Inserted by No I of the FA of 28 Sept 2012 (Emergency Amendments to the Asylum Act), in force from 29 Sept. 2012 to 28 Sept. 2015 ([AS 2012 5359](https://fedlex.data.admin.ch/eli/oc/2012/612); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)) and extended to 28 Sept. 2019 by No II of the FA of 26 Sept. 2014 ([AS 2015 2047](https://fedlex.data.admin.ch/eli/oc/2015/379); [BBl 2014 2087](https://fedlex.data.admin.ch/eli/fga/2014/405)).
 
 ## Chapter 9 International Cooperation
 
@@ -3000,16 +3003,7 @@ Articles 12, 19, 20, 41 paragraph 2, 52 and 68 apply in their previous versions 
 
 [^u5-1]
 
-[^u5-1]: [AS 2015 2047](https://fedlex.data.admin.ch/eli/oc/2015/379); [BBl 2014 2087](https://fedlex.data.admin.ch/eli/fga/2014/405)
-
-<sup>2</sup> The Federal Council may make minor adjustments to the implementing provisions tested on the basis of Article 112*b* paragraph 2 in view of the results of the evaluation.
-
-<sup>3</sup> The further application of the tested implementing provisions ends when the amendment to the law comes into force in accordance with Article 112*b* paragraph 1, but by 28 September 2019 at the latest.
-
-<sup>1</sup> On conclusion of the test phases, the Federal Council may continue to apply the implementing provisions tested on the basis of Article 112*b* paragraph 2 provided the tested procedures:
-
-- a. may be regarded as suitable on the basis of an evaluation; and
-- b. are incorporated in a legislative bill in accordance with Article 112*b* paragraph 1.
+[^u5-1]: Valid till 28 sept. 2015 ([AS 2015 2047](https://fedlex.data.admin.ch/eli/oc/2015/379); [BBl 2014 2087](https://fedlex.data.admin.ch/eli/fga/2014/405)).
 
 ## Transitional Provisions to the Amendment of 25 September 2015
 
