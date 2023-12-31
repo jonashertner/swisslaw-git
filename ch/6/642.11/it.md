@@ -4,11 +4,11 @@ title: "Legge federale del 14 dicembre 1990 sull'imposta federale diretta (LIFD)
 short: LIFD
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184"
 language: it
-version: 2023-01-01
+version: 2024-01-01
 adopted: 1990-12-14
 in_force: 1995-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184/20230101/it/xml/fedlex-data-admin-ch-eli-cc-1991-1184_1184_1184-20230101-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/1184_1184_1184/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184/20240101/it/xml/fedlex-data-admin-ch-eli-cc-1991-1184_1184_1184-20240101-it-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/1184_1184_1184/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1991/1184_1184_1184/20230101/it"
 
 (LIFD)
 
-del 14 dicembre 1990 (Stato 1° gennaio 2023)
+del 14 dicembre 1990 (Stato 1° gennaio 2024)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -224,7 +224,7 @@ Le persone fisiche hanno il diritto di pagare, invece dell’imposta sul reddito
 
 L’imposta è calcolata sulla base delle spese annuali corrispondenti al tenore di vita del contribuente e delle persone al cui sostentamento egli provvede, sostenute durante il periodo di calcolo in Svizzera e all’estero, ma almeno in base al più elevato degli importi seguenti:[^14-2]
 
-- a.[^14-3] 421 700 franchi;
+- a.[^14-3] 429 100 franchi;
 - b. per i contribuenti che hanno un’economia domestica propria: un importo corrispondente al settuplo della pigione annua o del valore locativo di cui all’articolo 21 capoverso 1 lettera b;
 - c. per gli altri contribuenti: un importo corrispondente al triplo del prezzo di pensione annua per il vitto e l’alloggio al luogo di dimora ai sensi dell’articolo 3;
 - d.
@@ -246,7 +246,7 @@ L’imposta è calcolata sulla base delle spese annuali corrispondenti al tenore
 
 [^14-1]: Nuovo testo giusta il n. I I della LF del 28 set. 2012, in vigore dal 1° gen. 2016 ([RU 2013 779](https://fedlex.data.admin.ch/eli/oc/2013/155); [FF 2011 5433](https://fedlex.data.admin.ch/eli/fga/2011/885)).
 [^14-2]: Nuovo testo giusta il n. II della LF del 22 mar. 2013 sull’adeguamento formale delle basi temporali per l’imposizione diretta delle persone fisiche, in vigore dal 1° gen. 2016 ([RU 2013 2397](https://fedlex.data.admin.ch/eli/oc/2013/504); [FF 2011 3279](https://fedlex.data.admin.ch/eli/fga/2011/525)).
-[^14-3]: Nuovo testo giusta l’art. 5 dell’O del DFF del 16 set. 2022 sulla progressione a freddo, in vigore dal 1° gen. 2023 ([RU 2022 575](https://fedlex.data.admin.ch/eli/oc/2022/575)).
+[^14-3]: Nuovo testo giusta l’art. 5 dell’O del DFF del 1° set. 2023 sulla progressione a freddo, in vigore dal 1° gen. 2024 ([RU 2023 493](https://fedlex.data.admin.ch/eli/oc/2023/493)).
 [^14-4]: Nuovo testo giusta il n. II della LF del 22 mar. 2013 sull’adeguamento formale delle basi temporali per l’imposizione diretta delle persone fisiche, in vigore dal 1° gen. 2016 ([RU 2013 2397](https://fedlex.data.admin.ch/eli/oc/2013/504); [FF 2011 3279](https://fedlex.data.admin.ch/eli/fga/2011/525)).
 [^14-5]: Nuovo termine giusta il n. I 2 della L del 20 giu. 2014 sul condono dell’imposta, in vigore dal 1° gen. 2016 ([RU 2015 9](https://fedlex.data.admin.ch/eli/oc/2015/3);[FF 2013 7239](https://fedlex.data.admin.ch/eli/fga/2013/1658)). Di detta mod. é tenuto conto in tutto il presente testo.
 [^14-6]: Nuovo testo giusta il n. II della LF del 22 mar. 2013 sull’adeguamento formale delle basi temporali per l’imposizione diretta delle persone fisiche, in vigore dal 1° gen. 2016 ([RU 2013 2397](https://fedlex.data.admin.ch/eli/oc/2013/504); [FF 2011 3279](https://fedlex.data.admin.ch/eli/fga/2011/525)).
@@ -522,23 +522,23 @@ Non sottostanno all’imposta sul reddito:[^24-1]
 - d. i sussidi d’assistenza provenienti da fondi pubblici o privati;
 - e. le prestazioni versate in adempimento di un obbligo fondato sul diritto di famiglia, eccettuati gli alimenti di cui all’articolo 23 lettera f;
 - f.[^24-2] il soldo del servizio militare e civile, nonché l’importo giornaliero per le piccole spese versato nel servizio civile;
-- f<sup>bis</sup>.[^24-3] il soldo dei pompieri di milizia sino a concorrenza di un importo di 5200 franchi all’anno per prestazioni in relazione all’adempimento dei compiti fondamentali dei pompieri (esercitazioni, servizi di picchetto, corsi, ispezioni e interventi effettivi per salvataggi, lotta contro gli incendi, lotta contro i sinistri in generale e contro i sinistri causati da elementi naturali e simili); sono eccettuati gli importi forfettari per i quadri, le indennità di funzione, le indennità per i lavori amministrativi e le indennità per prestazioni volontarie fornite dai pompieri;
+- f<sup>bis</sup>.[^24-3] il soldo dei pompieri di milizia sino a concorrenza di un importo di 5300 franchi all’anno per prestazioni in relazione all’adempimento dei compiti fondamentali dei pompieri (esercitazioni, servizi di picchetto, corsi, ispezioni e interventi effettivi per salvataggi, lotta contro gli incendi, lotta contro i sinistri in generale e contro i sinistri causati da elementi naturali e simili); sono eccettuati gli importi forfettari per i quadri, le indennità di funzione, le indennità per i lavori amministrativi e le indennità per prestazioni volontarie fornite dai pompieri;
 - g. i versamenti a titolo di riparazione morale;
 - h. i proventi ricevuti in virtù della legislazione federale sulle prestazioni complementari all’assicurazione per la vecchiaia, i superstiti e l’invalidità;
 - i.[^24-4] le vincite ai giochi da casinò ammessi secondo la legge federale del 29 settembre 2017[^24-5] sui giochi in denaro (LGD) realizzate nelle case da gioco, purché tali vincite non provengano da un’attività lucrativa indipendente;
-- i<sup>bis</sup>.[^24-6] le singole vincite fino a 1 038 300 franchi ai giochi di grande estensione ammessi secondo la LGD e ai giochi da casinò in linea ammessi secondo la LGD;
+- i<sup>bis</sup>.[^24-6] le singole vincite fino a 1 056 600 franchi ai giochi di grande estensione ammessi secondo la LGD e ai giochi da casinò in linea ammessi secondo la LGD;
 - i<sup>ter</sup>.[^24-7] le vincite ai giochi di piccola estensione ammessi secondo la LGD;
-- j.[^24-8] le singole vincite ai giochi di destrezza e alle lotterie destinati a promuovere le vendite che secondo l’articolo 1 capoverso 2 lettere d ed e LGD non sottostanno a quest’ultima, purché non superino il limite di 1000 franchi;
+- j.[^24-8] le singole vincite ai giochi di destrezza e alle lotterie destinati a promuovere le vendite che secondo l’articolo 1 capoverso 2 lettere d ed e LGD non sottostanno a quest’ultima, purché non superino il limite di 1100 franchi;
 - k.[^24-9] i proventi ricevuti in virtù della legge federale del 19 giugno 2020[^24-10] sulle prestazioni transitorie per i disoccupati anziani.
 
 [^24-1]: Nuovo testo giusta l’all. n. 7 della L del 6 ott. 1995 sul servizio civile, in vigore dal 1° ott. 1996 ([RU 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [FF 1994 III 1445](https://fedlex.data.admin.ch/eli/fga/1994/3_1609_1579_1445)).
 [^24-2]: Nuovo testo giusta l’all. n. 7 della L del 6 ott. 1995 sul servizio civile, in vigore dal 1° ott. 1996 ([RU 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [FF 1994 III 1445](https://fedlex.data.admin.ch/eli/fga/1994/3_1609_1579_1445)).
-[^24-3]: Introdotta dal n. I 1 della LF del 17 giu. 2011 sull’esenzione fiscale del soldo dei pompieri ([RU 2012 489](https://fedlex.data.admin.ch/eli/oc/2012/71); [FF 2010 2497](https://fedlex.data.admin.ch/eli/fga/2010/508)). Nuovo testo giusta l’art. 6 cpv. 1 dell’O del DFF del 16 set. 2022 sulla progressione a freddo, in vigore dal 1° gen. 2023 ([RU 2022 575](https://fedlex.data.admin.ch/eli/oc/2022/575)).
+[^24-3]: Introdotta dal n. I 1 della LF del 17 giu. 2011 sull’esenzione fiscale del soldo dei pompieri ([RU 2012 489](https://fedlex.data.admin.ch/eli/oc/2012/71); [FF 2010 2497](https://fedlex.data.admin.ch/eli/fga/2010/508)). Nuovo testo giusta l’art. 6 cpv. 1 dell’O del DFF del 1° set. 2023 sulla progressione a freddo, in vigore dal 1° gen. 2024 ([RU 2023 493](https://fedlex.data.admin.ch/eli/oc/2023/493)).
 [^24-4]: Introdotta dall’all. n. 2 della LF del 18 dic. 1998 sulle case da gioco ([RU 2000 677](https://fedlex.data.admin.ch/eli/oc/2000/118); [FF 1997 III 129](https://fedlex.data.admin.ch/eli/fga/1997/3_145_137_129)). Nuovo testo giusta l’all. n. II 5 della LF del 29 set. 2017 sui giochi in denaro, in vigore dal 1° gen. 2019 ([RU 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [FF 2015 6849](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
 [^24-5]: [RS 935.51](https://fedlex.data.admin.ch/eli/cc/2018/795)
-[^24-6]: Introdotta dall’all. n. II 5 della LF del 29 set. 2017 sui giochi in denaro ([RU 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [FF 2015 6849](https://fedlex.data.admin.ch/eli/fga/2015/2039)). Nuovo testo giusta l’art. 6 cpv. 2 dell’O del DFF del 16 set. 2022 sulla progressione a freddo, in vigore dal 1° gen. 2023 ([RU 2022 575](https://fedlex.data.admin.ch/eli/oc/2022/575)).
+[^24-6]: Introdotta dall’all. n. II 5 della LF del 29 set. 2017 sui giochi in denaro ([RU 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [FF 2015 6849](https://fedlex.data.admin.ch/eli/fga/2015/2039)). Nuovo testo giusta l’art. 6 cpv. 2 dell’O del DFF del 1° set. 2023 sulla progressione a freddo, in vigore dal 1° gen. 2024 ([RU 2023 493](https://fedlex.data.admin.ch/eli/oc/2023/493)).
 [^24-7]: Introdotta dall’all. n. II 5 della LF del 29 set. 2017 sui giochi in denaro, in vigore dal 1° gen. 2019 ([RU 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [FF 2015 6849](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
-[^24-8]: Introdotta dal n. I 1 della LF del 15 giu. 2012 concernente le semplificazioni nell’imposizione delle vincite alle lotterie ([RU 2012 5977](https://fedlex.data.admin.ch/eli/oc/2012/700); [FF 2011 5819](https://fedlex.data.admin.ch/eli/fga/2011/1012)[5845](https://fedlex.data.admin.ch/eli/fga/2011/1014)). Nuovo testo giusta l’all. n. II 5 della LF del 29 set. 2017 sui giochi in denaro, in vigore dal 1° gen. 2019 ([RU 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [FF 2015 6849](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
+[^24-8]: Introdotta dal n. I 1 della LF del 15 giu. 2012 concernente le semplificazioni nell’imposizione delle vincite alle lotterie ([RU 2012 5977](https://fedlex.data.admin.ch/eli/oc/2012/700); [FF 2011 5819](https://fedlex.data.admin.ch/eli/fga/2011/1012)[5845](https://fedlex.data.admin.ch/eli/fga/2011/1014)). Nuovo testo giusta l’art. 6 cpv. 3 dell’O del DFF del 1° set. 2023 sulla progressione a freddo, in vigore dal 1° gen. 2024 ([RU 2023 493](https://fedlex.data.admin.ch/eli/oc/2023/493)).
 [^24-9]: Introdotta dall’all. n. 2 della LF del 19 giu. 2020 sulle prestazioni transitorie per i disoccupati anziani ([RU 2021 373](https://fedlex.data.admin.ch/eli/oc/2021/373); [FF 2019 6861](https://fedlex.data.admin.ch/eli/fga/2019/2838)). Nuovo testo giusta l’art. 7 dell’O del DFF del 16 set. 2022 sulla progressione a freddo, in vigore dal 1° gen. 2023 ([RU 2022 575](https://fedlex.data.admin.ch/eli/oc/2022/575)).
 [^24-10]: [RS 837.2](https://fedlex.data.admin.ch/eli/cc/2021/373)
 
@@ -711,7 +711,7 @@ Sono dedotti dai proventi:
 - h<sup>bis</sup>.[^33-7] le spese per disabilità del contribuente o delle persone disabili ai sensi della legge del 13 dicembre 2002[^33-8] sui disabili al cui sostentamento egli provvede, quando tali spese sono sopportate dal contribuente medesimo;
 - i.[^33-9]
 
-  fino a concorrenza in un importo di 10 300 franchi, i contributi dei membri e i versamenti ai partiti:[^33-10]
+  fino a concorrenza di un importo di 10 400 franchi, i contributi dei membri e i versamenti ai partiti:[^33-10]
 
   - 1\. iscritti nel registro dei partiti conformemente all’articolo 76*a* della legge federale del 17 dicembre 1976[^33-11] sui diritti politici,
   - 2\. rappresentati in un parlamento cantonale, o
@@ -719,7 +719,7 @@ Sono dedotti dai proventi:
 
 - j.[^33-12]
 
-  le spese di formazione e formazione continua professionali, comprese le spese di riqualificazione, fino a concorrenza di una somma globale di 12 700 franchi, purché il contribuente:[^33-13]
+  le spese di formazione e formazione continua professionali, comprese le spese di riqualificazione, fino a concorrenza di una somma globale di 12 900 franchi, purché il contribuente:[^33-13]
 
   - 1\. abbia conseguito un diploma del livello secondario II, oppure
   - 2\. abbia compiuto i 20 anni e non si tratti di costi di formazione sostenuti fino al conseguimento di un primo diploma del livello secondario II.
@@ -731,11 +731,11 @@ Le deduzioni secondo il capoverso 1 lettera g sono aumentate:
 - a. della metà per i contribuenti che non versano contributi ai sensi del capoverso 1 lettere d ed e;
 - b. di 700 franchi per ogni figlio o persona bisognosa per cui il contribuente può far valere la deduzione prevista dall’articolo 35 capoverso 1 lettera a o b.[^33-14]
 
-<sup>2</sup> Se i coniugi vivono in comunione domestica e ambedue esercitano un’attività lucrativa, dal reddito lavorativo più basso è dedotto il 50 per cento ma almeno 8300 e al massimo 13 600 franchi.[^33-15] Sono considerati reddito lavorativo i proventi imponibili da attività lucrativa dipendente o indipendente, dopo le deduzioni di cui agli articoli 26–31 e le deduzioni generali di cui al capoverso 1 lettere d–f. Se uno dei coniugi collabora in modo determinante alla professione, al commercio o all’impresa dell’altro o in caso di attività lucrativa indipendente comune, a ogni coniuge viene attribuita la metà del reddito lavorativo comune. Una diversa ripartizione deve essere dimostrata dai coniugi.[^33-16]
+<sup>2</sup> Se i coniugi vivono in comunione domestica e ambedue esercitano un’attività lucrativa, dal reddito lavorativo più basso è dedotto il 50 per cento ma almeno 8500 e al massimo 13 900 franchi. Sono considerati reddito lavorativo i proventi imponibili da attività lucrativa dipendente o indipendente, dopo le deduzioni di cui agli articoli 26–31 e le deduzioni generali di cui al capoverso 1 lettere d–f. Se uno dei coniugi collabora in modo determinante alla professione, al commercio o all’impresa dell’altro o in caso di attività lucrativa indipendente comune, a ogni coniuge viene attribuita la metà del reddito lavorativo comune. Una diversa ripartizione deve essere dimostrata dai coniugi.[^33-15]
 
-<sup>3</sup> Dai proventi sono dedotte le spese comprovate, ma al massimo 25 000 franchi, per la cura prestata da terzi a ogni figlio che non ha ancora compiuto i 14 anni e vive in comunione domestica con il contribuente che provvede al suo sostentamento, sempre che queste spese abbiano un nesso causale diretto con l’attività lucrativa, la formazione o l’incapacità di esercitare un’attività lucrativa del contribuente.[^33-17]
+<sup>3</sup> Dai proventi sono dedotte le spese comprovate, ma al massimo 25 500 franchi, per la cura prestata da terzi a ogni figlio che non ha ancora compiuto i 14 anni e vive in comunione domestica con il contribuente che provvede al suo sostentamento, sempre che queste spese abbiano un nesso causale diretto con l’attività lucrativa, la formazione o l’incapacità di esercitare un’attività lucrativa del contribuente.[^33-16]
 
-<sup>4</sup> Dalle singole vincite ai giochi in denaro che non sono esentate dall’imposta conformemente all’articolo 24 lettere i<sup>bis</sup>–j è dedotto il 5 per cento, ma al massimo 5200 franchi, a titolo di costi delle poste giocate. Dalle singole vincite ai giochi da casinò in linea di cui all’articolo 24 lettera i<sup>bis</sup> sono dedotte le poste prelevate durante l’anno fiscale dal conto in linea del giocatore, ma al massimo 26 000 franchi.[^33-18]
+<sup>4</sup> Dalle singole vincite ai giochi in denaro che non sono esentate dall’imposta conformemente all’articolo 24 lettere i<sup>bis</sup>–j è dedotto il 5 per cento, ma al massimo 5300 franchi, a titolo di costi delle poste giocate. Dalle singole vincite ai giochi da casinò in linea di cui all’articolo 24 lettera i<sup>bis</sup> sono dedotte le poste prelevate durante l’anno fiscale dal conto in linea del giocatore, ma al massimo 26 400 franchi.[^33-17]
 
 [^33-1]: Introdotta dall’all. n. 3 della LF dell’8 ott. 2004 (diritto delle fondazioni), in vigore dal 1° gen. 2006 ([RU 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [FF 2003 7053](https://fedlex.data.admin.ch/eli/fga/2003/1402)[7093](https://fedlex.data.admin.ch/eli/fga/2003/1404)).
 [^33-2]: Nuovo testo giusta il n. I 5 della LF del 19 mar. 1999 sul programma di stabilizzazione 1998, in vigore dal 1° gen. 2001 ([RU 1999 2374](https://fedlex.data.admin.ch/eli/oc/1999/363); FF **1999** 3).
@@ -746,15 +746,14 @@ Le deduzioni secondo il capoverso 1 lettera g sono aumentate:
 [^33-7]: Introdotta dall’all. n. 2 della LF del 13 dic. 2002 sui disabili, in vigore dal 1° gen. 2005 ([RU 2003 4487](https://fedlex.data.admin.ch/eli/oc/2003/667); [FF 2001 1477](https://fedlex.data.admin.ch/eli/fga/2001/434)).
 [^33-8]: [RS 151.3](https://fedlex.data.admin.ch/eli/cc/2003/667)
 [^33-9]: Nuovo testo giusta l’art. 6 cpv. 3 dell’O del DFF del 22 set. 2011 sulla progressione a freddo, in vigore dal 1° gen. 2012 ([RU 2011 4503](https://fedlex.data.admin.ch/eli/oc/2011/626)).
-[^33-10]: Nuovo testo giusta l’art. 3 cpv. 2 dell’O del DFF del 16 set. 2022 sulla progressione a freddo, in vigore dal 1° gen. 2023 ([RU 2022 575](https://fedlex.data.admin.ch/eli/oc/2022/575)).
+[^33-10]: Nuovo testo giusta l’art. 3 cpv. 1 dell’O del DFF del 1° set. 2023 sulla progressione a freddo, in vigore dal 1° gen. 2024 ([RU 2023 493](https://fedlex.data.admin.ch/eli/oc/2023/493)).
 [^33-11]: [RS 161.1](https://fedlex.data.admin.ch/eli/cc/1978/688_688_688)
 [^33-12]: Introdotta dal n. I 1 della LF del 27 set. 2013 sul trattamento fiscale delle spese di formazione e perfezionamento professionali, in vigore dal 1° gen. 2016 ([RU 2014 1105](https://fedlex.data.admin.ch/eli/oc/2014/240); [FF 2011 2365](https://fedlex.data.admin.ch/eli/fga/2011/381)).
-[^33-13]: Nuovo testo giusta l’art. 3 cpv. 3 dell’O del DFF del 16 set. 2022 sulla progressione a freddo, in vigore dal 1° gen. 2023 ([RU 2022 575](https://fedlex.data.admin.ch/eli/oc/2022/575)).
+[^33-13]: Nuovo testo giusta l’art. 3 cpv. 2 dell’O del DFF del 1° set. 2023 sulla progressione a freddo, in vigore dal 1° gen. 2024 ([RU 2023 493](https://fedlex.data.admin.ch/eli/oc/2023/493)).
 [^33-14]: Introdotto dal n. I 1 della LF del 22 mar. 2013 sull’adeguamento formale delle basi temporali per l’imposizione diretta delle persone fisiche, in vigore dal 1° gen. 2014 ([RU 2013 2397](https://fedlex.data.admin.ch/eli/oc/2013/504); [FF 2011 3279](https://fedlex.data.admin.ch/eli/fga/2011/525)).
-[^33-15]: Nuovo testo giusta l’art. 3 cpv. 4 dell’O del DFF del 16 set. 2022 sulla progressione a freddo, in vigore dal 1° gen. 2023 ([RU 2022 575](https://fedlex.data.admin.ch/eli/oc/2022/575)).
-[^33-16]: Nuovo testo giusta il n. I 1 della LF del 22 mar. 2013 sull’adeguamento formale delle basi temporali per l’imposizione diretta delle persone fisiche, in vigore dal 1° gen. 2014 ([RU 2013 2397](https://fedlex.data.admin.ch/eli/oc/2013/504); [FF 2011 3279](https://fedlex.data.admin.ch/eli/fga/2011/525)).
-[^33-17]: Introdotto dal n. I 1 della LF del 25 set. 2009 sullo sgravio fiscale delle famiglie con figli, in vigore dal 1° gen. 2011 ([RU 2010 455](https://fedlex.data.admin.ch/eli/oc/2010/60); [FF 2009 4095](https://fedlex.data.admin.ch/eli/fga/2009/815)). Nuovo testo giusta il n. I della LF del 1° ott. 2021 (Trattamento fiscale delle spese per la cura dei figli da parte di terzi), in vigore dal 1° gen. 2023 ([RU 2022 120](https://fedlex.data.admin.ch/eli/oc/2022/120); [FF 2021 1068](https://fedlex.data.admin.ch/eli/fga/2021/1068), [1186](https://fedlex.data.admin.ch/eli/fga/2021/1186)).
-[^33-18]: Introdotto dal n. I 1 della LF del 15 giu. 2012 concernente le semplificazioni nell’imposizione delle vincite alle lotterie ([RU 2012 5977](https://fedlex.data.admin.ch/eli/oc/2012/700); [FF 2011 5819](https://fedlex.data.admin.ch/eli/fga/2011/1012)[5845](https://fedlex.data.admin.ch/eli/fga/2011/1014)). Nuovo testo giusta l’art. 3 cpv. 5 dell’O del DFF del 16 set. 2022 sulla progressione a freddo, in vigore dal 1° gen. 2023 ([RU 2022 575](https://fedlex.data.admin.ch/eli/oc/2022/575)).
+[^33-15]: Nuovo testo giusta l’art. 3 cpv. 3 dell’O del DFF del 1° set. 2023 sulla progressione a freddo, in vigore dal 1° gen. 2024 ([RU 2023 493](https://fedlex.data.admin.ch/eli/oc/2023/493)).
+[^33-16]: Introdotto dal n. I 1 della LF del 25 set. 2009 sullo sgravio fiscale delle famiglie con figli, in vigore dal 1° gen. 2011 ([RU 2010 455](https://fedlex.data.admin.ch/eli/oc/2010/60); [FF 2009 4095](https://fedlex.data.admin.ch/eli/fga/2009/815)). Nuovo testo giusta l’art. 3 cpv. 4 dell’O del DFF del 1° set. 2023 sulla progressione a freddo, in vigore dal 1° gen. 2024 ([RU 2023 493](https://fedlex.data.admin.ch/eli/oc/2023/493)).
+[^33-17]: Introdotto dal n. I 1 della LF del 15 giu. 2012 concernente le semplificazioni nell’imposizione delle vincite alle lotterie ([RU 2012 5977](https://fedlex.data.admin.ch/eli/oc/2012/700); [FF 2011 5819](https://fedlex.data.admin.ch/eli/fga/2011/1012)[5845](https://fedlex.data.admin.ch/eli/fga/2011/1014)). Nuovo testo giusta l’art. 3 cpv. 5 dell’O del DFF del 1° set. 2023 sulla progressione a freddo, in vigore dal 1° gen. 2024 ([RU 2023 493](https://fedlex.data.admin.ch/eli/oc/2023/493)).
 
 #### Art. 33a
 
@@ -786,17 +785,17 @@ Gli altri costi e spese non possono essere dedotti, in particolare:
 
 Sono dedotti dal reddito netto:
 
-- a.[^35-1] per ogni figlio minorenne, a tirocinio o agli studi, al cui sostentamento il contribuente provvede, 6600 franchi; se i genitori sono tassati separatamente e se il figlio sottostà all’autorità parentale in comune e non sono versati alimenti secondo l’articolo 33 capoverso 1 lettera c, anche la deduzione per i figli è ripartita per metà;
-- b.[^35-2] per ogni persona totalmente o parzialmente incapace d’esercitare attività lucrativa, al cui sostentamento il contribuente provvede, sempre che l’aiuto uguagli almeno l’importo della deduzione, 6600 franchi; questa deduzione non è ammessa per il coniuge e per i figli per i quali è già accordata la deduzione giusta la lettera a;
-- c.[^35-3] per i coniugi che vivono in comunione domestica, 2700 franchi.[^35-4]
+- a.[^35-1] per ogni figlio minorenne, a tirocinio o agli studi, al cui sostentamento il contribuente provvede, 6700 franchi; se i genitori sono tassati separatamente e se il figlio sottostà all’autorità parentale in comune e non sono versati alimenti secondo l’articolo 33 capoverso 1 lettera c, anche la deduzione per i figli è ripartita per metà;
+- b.[^35-2] per ogni persona totalmente o parzialmente incapace d’esercitare attività lucrativa, al cui sostentamento il contribuente provvede, sempre che l’aiuto uguagli almeno l’importo della deduzione, 6700 franchi; questa deduzione non è ammessa per il coniuge e per i figli per i quali è già accordata la deduzione giusta la lettera a;
+- c.[^35-3] per i coniugi che vivono in comunione domestica, 2800 franchi.[^35-4]
 
 <sup>2</sup> Le deduzioni sociali sono stabilite secondo la situazione alla fine del periodo fiscale (art. 40) o dell’assoggettamento[^35-5]
 
 <sup>3</sup> In caso d’assoggettamento parziale, le deduzioni sociali sono accordate proporzionalmente.
 
-[^35-1]: Nuovo testo giusta l’art. 4 dell’O del DFF del 16 set. 2022 sulla progressione a freddo, in vigore dal 1° gen. 2023 ([RU 2022 575](https://fedlex.data.admin.ch/eli/oc/2022/575)).
-[^35-2]: Nuovo testo giusta l’art. 4 dell’O del DFF del 16 set. 2022 sulla progressione a freddo, in vigore dal 1° gen. 2023 ([RU 2022 575](https://fedlex.data.admin.ch/eli/oc/2022/575)).
-[^35-3]: Nuovo testo giusta l’art. 4 dell’O del DFF del 16 set. 2022 sulla progressione a freddo, in vigore dal 1° gen. 2023 ([RU 2022 575](https://fedlex.data.admin.ch/eli/oc/2022/575)).
+[^35-1]: Nuovo testo giusta l’art. 4 dell’O del DFF del 1° set. 2023 sulla progressione a freddo, in vigore dal 1° gen. 2024 ([RU 2023 493](https://fedlex.data.admin.ch/eli/oc/2023/493)).
+[^35-2]: Nuovo testo giusta l’art. 4 dell’O del DFF del 1° set. 2023 sulla progressione a freddo, in vigore dal 1° gen. 2024 ([RU 2023 493](https://fedlex.data.admin.ch/eli/oc/2023/493)).
+[^35-3]: Nuovo testo giusta l’art. 4 dell’O del DFF del 1° set. 2023 sulla progressione a freddo, in vigore dal 1° gen. 2024 ([RU 2023 493](https://fedlex.data.admin.ch/eli/oc/2023/493)).
 [^35-4]: Nuovo testo giusta il n. I 1 della LF del 22 mar. 2013 sull’adeguamento formale delle basi temporali per l’imposizione diretta delle persone fisiche, in vigore dal 1° gen. 2014 ([RU 2013 2397](https://fedlex.data.admin.ch/eli/oc/2013/504); [FF 2011 3279](https://fedlex.data.admin.ch/eli/fga/2011/525)).
 [^35-5]: Nuovo testo giusta il n. I 1 della LF del 22 mar. 2013 sull’adeguamento formale delle basi temporali per l’imposizione diretta delle persone fisiche, in vigore dal 1° gen. 2014 ([RU 2013 2397](https://fedlex.data.admin.ch/eli/oc/2013/504); [FF 2011 3279](https://fedlex.data.admin.ch/eli/fga/2011/525)).
 
@@ -810,26 +809,26 @@ Sono dedotti dal reddito netto:
 
 <table>
 <tr><th></th><th></th><th>Franchi</th><th></th><th></th></tr>
-<tr><td>fino a</td><td>14 800 franchi di reddito</td><td>0.00</td><td></td><td></td></tr>
+<tr><td>fino a</td><td>15 000 franchi di reddito</td><td>0.00</td><td></td><td></td></tr>
 <tr><td></td><td>e per 100 franchi di reddito in più</td><td>0.77</td><td>;</td><td></td></tr>
-<tr><td>per</td><td>32 200 franchi di reddito</td><td>133.95</td><td></td><td></td></tr>
+<tr><td>per</td><td>32 800 franchi di reddito</td><td>137.05</td><td></td><td></td></tr>
 <tr><td></td><td>e per 100 franchi di reddito in più</td><td>0.88</td><td></td><td>in più;</td></tr>
-<tr><td>per</td><td>42 200 franchi di reddito</td><td>221.95</td><td></td><td></td></tr>
+<tr><td>per</td><td>42 900 franchi di reddito</td><td>225.90</td><td></td><td></td></tr>
 <tr><td></td><td>e per 100 franchi di reddito in più</td><td>2.64</td><td></td><td>in più;</td></tr>
-<tr><td>per</td><td>56 200 franchi di reddito</td><td>591.55</td><td></td><td></td></tr>
+<tr><td>per</td><td>57 200 franchi di reddito</td><td>603.40</td><td></td><td></td></tr>
 <tr><td></td><td>e per 100 franchi di reddito in più</td><td>2.97</td><td></td><td>in più;</td></tr>
-<tr><td>per</td><td>73 900 franchi di reddito</td><td>1117.20</td><td></td><td></td></tr>
+<tr><td>per</td><td>75 200 franchi di reddito</td><td>1138.00</td><td></td><td></td></tr>
 <tr><td></td><td>e per 100 franchi di reddito in più</td><td>5.94</td><td></td><td>in più;</td></tr>
-<tr><td>per</td><td>79 600 franchi di reddito</td><td>1455.75</td><td></td><td></td></tr>
+<tr><td>per</td><td>81 000 franchi di reddito</td><td>1482.50</td><td></td><td></td></tr>
 <tr><td></td><td>e per 100 franchi di reddito in più</td><td>6.60</td><td></td><td>in più;</td></tr>
-<tr><td>per</td><td>105 500 franchi di reddito</td><td>3165.15</td><td></td><td></td></tr>
+<tr><td>per</td><td>107 400 franchi di reddito</td><td>3224.90</td><td></td><td></td></tr>
 <tr><td></td><td>e per 100 franchi di reddito in più</td><td>8.80</td><td></td><td>in più;</td></tr>
-<tr><td>per</td><td>137 200 franchi di reddito</td><td>5954.75</td><td></td><td></td></tr>
+<tr><td>per</td><td>139 600 franchi di reddito</td><td>6058.50</td><td></td><td></td></tr>
 <tr><td></td><td>e per 100 franchi di reddito in più</td><td>11.00</td><td></td><td>in più;</td></tr>
-<tr><td>per</td><td>179 400 franchi di reddito</td><td>10 596.75</td><td></td><td></td></tr>
+<tr><td>per</td><td>182 600 franchi di reddito</td><td>10 788.50</td><td></td><td></td></tr>
 <tr><td></td><td>e per 100 franchi di reddito in più</td><td>13.20</td><td></td><td>in più;</td></tr>
-<tr><td>per</td><td>769 600 franchi di reddito</td><td>88 503.15</td><td></td><td></td></tr>
-<tr><td>per</td><td>769 700 franchi di reddito</td><td>88 515.50</td><td></td><td></td></tr>
+<tr><td>per</td><td>783 200 franchi di reddito</td><td>90 067.70</td><td></td><td></td></tr>
+<tr><td>per</td><td>783 300 franchi di reddito</td><td>90 079.50</td><td></td><td></td></tr>
 <tr><td></td><td>e per 100 franchi di reddito in più</td><td>11.50</td><td></td><td>in più.[^36-1]</td></tr>
 </table>
 
@@ -837,43 +836,44 @@ Sono dedotti dal reddito netto:
 
 <table>
 <tr><th></th><th></th><th>Franchi</th><th></th><th></th></tr>
-<tr><td>fino</td><td>a 28 800 franchi di reddito</td><td>0.00</td><td></td><td></td></tr>
+<tr><td>fino a</td><td>29 300 franchi di reddito</td><td>0.00</td><td></td><td></td></tr>
 <tr><td></td><td>e per 100 franchi di reddito in più</td><td>1.00</td><td>;</td><td></td></tr>
-<tr><td>per</td><td>51 800 franchi di reddito</td><td>230.00</td><td></td><td></td></tr>
+<tr><td>per</td><td>52 700 franchi di reddito</td><td>234.00</td><td></td><td></td></tr>
 <tr><td></td><td>e per 100 franchi di reddito in più</td><td>2.00</td><td></td><td>in più;</td></tr>
-<tr><td>per</td><td>59 400 franchi di reddito</td><td>382.00</td><td></td><td></td></tr>
+<tr><td>per</td><td>60 500 franchi di reddito</td><td>390.00</td><td></td><td></td></tr>
 <tr><td></td><td>e per 100 franchi di reddito in più</td><td>3.00</td><td></td><td>in più;</td></tr>
-<tr><td>per</td><td>76 700 franchi di reddito</td><td>901.00</td><td></td><td></td></tr>
+<tr><td>per</td><td>78 100 franchi di reddito</td><td>918.00</td><td></td><td></td></tr>
 <tr><td></td><td>e per 100 franchi di reddito in più</td><td>4.00</td><td></td><td>in più;</td></tr>
-<tr><td>per</td><td>92 000 franchi di reddito</td><td>1513.00</td><td></td><td></td></tr>
+<tr><td>per</td><td>93 600 franchi di reddito</td><td>1538.00</td><td></td><td></td></tr>
 <tr><td></td><td>e per 100 franchi di reddito in più</td><td>5.00</td><td></td><td>in più;</td></tr>
-<tr><td>per</td><td>105 400 franchi di reddito</td><td>2183.00</td><td></td><td></td></tr>
+<tr><td>per</td><td>107 200 franchi di reddito</td><td>2218.00</td><td></td><td></td></tr>
 <tr><td></td><td>e per 100 franchi di reddito in più</td><td>6.00</td><td></td><td>in più;</td></tr>
-<tr><td>per</td><td>116 900 franchi di reddito</td><td>2873.00</td><td></td><td></td></tr>
+<tr><td>per</td><td>119 000 franchi di reddito</td><td>2926.00</td><td></td><td></td></tr>
 <tr><td></td><td>e per 100 franchi di reddito in più</td><td>7.00</td><td></td><td>in più;</td></tr>
-<tr><td>per</td><td>126 500 franchi di reddito</td><td>3545.00</td><td></td><td></td></tr>
+<tr><td>per</td><td>128 800 franchi di reddito</td><td>3612.00</td><td></td><td></td></tr>
 <tr><td></td><td>e per 100 franchi di reddito in più</td><td>8.00</td><td></td><td>in più;</td></tr>
-<tr><td>per</td><td>134 200 franchi di reddito</td><td>4161.00</td><td></td><td></td></tr>
+<tr><td>per</td><td>136 600 franchi di reddito</td><td>4236.00</td><td></td><td></td></tr>
 <tr><td></td><td>e per 100 franchi di reddito in più</td><td>9.00</td><td></td><td>in più;</td></tr>
-<tr><td>per</td><td>139 900 franchi di reddito</td><td>4674.00</td><td></td><td></td></tr>
+<tr><td>per</td><td>142 300 franchi di reddito</td><td>4749.00</td><td></td><td></td></tr>
 <tr><td></td><td>e per 100 franchi di reddito in più</td><td>10.00</td><td></td><td>in più;</td></tr>
-<tr><td>per</td><td>143 800 franchi di reddito</td><td>5064.00</td><td></td><td></td></tr>
+<tr><td>per</td><td>146 300 franchi di reddito</td><td>5149.00</td><td></td><td></td></tr>
 <tr><td></td><td>e per 100 franchi di reddito in più</td><td>11.00</td><td></td><td>in più;</td></tr>
-<tr><td>per</td><td>145 800 franchi di reddito</td><td>5284.00</td><td></td><td></td></tr>
+<tr><td>per</td><td>148 300 franchi di reddito</td><td>5369.00</td><td></td><td></td></tr>
 <tr><td></td><td>e per 100 franchi di reddito in più</td><td>12.00</td><td></td><td>in più;</td></tr>
-<tr><td>per</td><td>147 700 franchi di reddito</td><td>5512.00</td><td></td><td></td></tr>
+<tr><td>per</td><td>150 300 franchi di reddito</td><td>5609.00</td><td></td><td></td></tr>
 <tr><td></td><td>e per 100 franchi di reddito in più</td><td>13.00</td><td></td><td>in più;</td></tr>
-<tr><td>per</td><td>912 600 franchi di reddito</td><td>104 949.00</td><td></td><td></td></tr>
+<tr><td>per</td><td>928 600 franchi di reddito</td><td>106 788.00</td><td></td><td></td></tr>
+<tr><td>per</td><td>928 700 franchi di reddito</td><td>106 800.50</td><td></td><td></td></tr>
 <tr><td></td><td>e per 100 franchi di reddito in più</td><td>11.50</td><td></td><td>in più.[^36-2]</td></tr>
 </table>
 
-<sup>2bis</sup> Il capoverso 2 si applica per analogia ai coniugi viventi in comunione domestica, nonché ai contribuenti vedovi, separati legalmente o di fatto, divorziati e celibi che vivono in comunione domestica con figli o persone bisognose al cui sostentamento provvedono in modo essenziale. L’ammontare dell’imposta calcolato in questo modo è ridotto di 255 franchi per ogni figlio e ogni persona bisognosa.[^36-3]
+<sup>2bis</sup> Il capoverso 2 si applica per analogia ai coniugi che vivono in comunione domestica, nonché ai contribuenti vedovi, separati legalmente o di fatto, divorziati e celibi che vivono in comunione domestica con figli o persone bisognose al cui sostentamento provvedono in modo essenziale. L’ammontare dell’imposta calcolato in questo modo è ridotto di 259 franchi per ogni figlio e ogni persona bisognosa.[^36-3]
 
 <sup>3</sup> L’imposta annua inferiore a 25 franchi non è riscossa.
 
-[^36-1]: Nuovo testo giusta l’art. 2 cpv. 1 dell’O del DFF del 16 set. 2022 sulla progressione a freddo, in vigore dal 1° gen. 2023 ([RU 2022 575](https://fedlex.data.admin.ch/eli/oc/2022/575)).
-[^36-2]: Nuovo testo giusta l’art. 2 cpv. 2 dell’O del DFF del 16 set. 2022 sulla progressione a freddo, in vigore dal 1° gen. 2023 ([RU 2022 575](https://fedlex.data.admin.ch/eli/oc/2022/575)).
-[^36-3]: Introdotto dal n. I 1 della LF del 25 set. 2009 sullo sgravio fiscale delle famiglie con figli ([RU 2010 455](https://fedlex.data.admin.ch/eli/oc/2010/60); [FF 2009 4095](https://fedlex.data.admin.ch/eli/fga/2009/815)). Nuovo testo del per. giusta l’art. 2 cpv. 3 dell’O del DFF del 16 set. 2022 sulla progressione a freddo, in vigore dal 1° gen. 2023 ([RU 2022 575](https://fedlex.data.admin.ch/eli/oc/2022/575)).
+[^36-1]: Nuovo testo giusta l’art. 2 cpv. 1 dell’O del DFF del 1° set. 2023 sulla progressione a freddo, in vigore dal 1° gen. 2024 ([RU 2023 493](https://fedlex.data.admin.ch/eli/oc/2023/493)).
+[^36-2]: Nuovo testo giusta l’art. 2 cpv. 2 dell’O del DFF del 1° set. 2023 sulla progressione a freddo, in vigore dal 1° gen. 2024 ([RU 2023 493](https://fedlex.data.admin.ch/eli/oc/2023/493)).
+[^36-3]: Introdotto dal n. I 1 della LF del 25 set. 2009 sullo sgravio fiscale delle famiglie con figli ([RU 2010 455](https://fedlex.data.admin.ch/eli/oc/2010/60); [FF 2009 4095](https://fedlex.data.admin.ch/eli/fga/2009/815)). Nuovo testo giusta l’art. 2 cpv. 3 dell’O del DFF del 1° set. 2023 sulla progressione a freddo, in vigore dal 1° gen. 2024 ([RU 2023 493](https://fedlex.data.admin.ch/eli/oc/2023/493)).
 
 ### Sezione 2: Casi speciali
 
@@ -1782,11 +1782,11 @@ L’AFC può in particolare:
 
 ### Capitolo 2: Autorità cantonali
 
-### Sezione 1: Organizzazione e vigilanza
+### Sezione 1: Organizzazione, procedure elettroniche e vigilanza
 
 [^part5-tit1-chap2-sec1-1]
 
-[^part5-tit1-chap2-sec1-1]: Nuovo testo giusta il n. I della LF del 14 dic. 2012, in vigore dal 1° gen. 2014 ([RU 2013 1345](https://fedlex.data.admin.ch/eli/oc/2013/315); [FF 2012 4229](https://fedlex.data.admin.ch/eli/fga/2012/672)).
+[^part5-tit1-chap2-sec1-1]: Nuovo testo giusta il n. I 3 della LF del 18 giu. 2021 sulle procedure elettroniche in ambito fiscale, in vigore dal 1° gen. 2024 ([RU 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [FF 2020 4215](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
 
 #### Art. 104
 
@@ -1804,14 +1804,26 @@ L’AFC può in particolare:
 
 #### Art. 104a
 
-**Vigilanza**[^104a-1]
+**Procedure elettroniche**[^104a-1]
+
+<sup>1</sup> I Cantoni prevedono la possibilità di svolgere procedure per via elettronica. Garantiscono conformemente al diritto cantonale l’autenticità e l’integrità dei dati trasmessi.
+
+<sup>2</sup> In caso di presentazione per via elettronica di atti scritti per i quali la legge prescrive la firma, i Cantoni prevedono, invece della firma, la possibilità per il contribuente di confermare i dati per via elettronica.
+
+<sup>3</sup> I Cantoni prevedono che l’autorità fiscale notifichi al contribuente, previo suo assenso, documenti in formato elettronico.
+
+[^104a-1]: Introdotto dal n. I 3 della LF del 18 giu. 2021 sulle procedure elettroniche in ambito fiscale, in vigore dal 1° gen. 2024 ([RU 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [FF 2020 4215](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
+
+#### Art. 104b
+
+**Vigilanza**[^104b-1]
 
 <sup>1</sup> Un organo cantonale indipendente di vigilanza finanziaria verifica ogni anno la regolarità e la legalità della riscossione dell’imposta federale diretta e del versamento della quota spettante alla Confederazione. L’obbligo di vigilanza non include la verifica materiale delle tassazioni. Entro la fine dell’anno in cui è approvato il consuntivo della Confederazione, l’organo di vigilanza finanziaria fa rapporto all’AFC e al Controllo federale delle finanze.
 
-<sup>2</sup> Se la verifica non è eseguita o se l’AFC e il Controllo federale delle finanze non ricevono il rapporto entro la fine dell’anno in cui è approvato il consuntivo della Confederazione, il DFF può incaricare della verifica, su proposta dell’AFC e a spese del Cantone, un’impresa di revisione abilitata a esercitare la funzione di perito revisore conformemente alla legge del 16 dicembre 2005[^104a-2] sui revisori.
+<sup>2</sup> Se la verifica non è eseguita o se l’AFC e il Controllo federale delle finanze non ricevono il rapporto entro la fine dell’anno in cui è approvato il consuntivo della Confederazione, il DFF può incaricare della verifica, su proposta dell’AFC e a spese del Cantone, un’impresa di revisione abilitata a esercitare la funzione di perito revisore conformemente alla legge del 16 dicembre 2005[^104b-2] sui revisori.
 
-[^104a-1]: Introdotto dal n. I della LF del 14 dic. 2012, in vigore dal 1° gen. 2014 ([RU 2013 1345](https://fedlex.data.admin.ch/eli/oc/2013/315); [FF 2012 4229](https://fedlex.data.admin.ch/eli/fga/2012/672)).
-[^104a-2]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
+[^104b-1]: Originario art. 104*a.* Introdotto dal n. I della LF del 14 dic. 2012, in vigore dal 1° gen. 2014 ([RU 2013 1345](https://fedlex.data.admin.ch/eli/oc/2013/315); [FF 2012 4229](https://fedlex.data.admin.ch/eli/fga/2012/672)).
+[^104b-2]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
 
 ### Sezione 2: Competenza territoriale
 
@@ -2105,15 +2117,18 @@ Un nuovo termine di prescrizione decorre con:
 
 **Dichiarazione d’imposta**
 
-<sup>1</sup> I contribuenti sono invitati, mediante notificazione pubblica o invio del modulo, a presentare la dichiarazione d’imposta. Coloro che non hanno ricevuto il modulo devono chiederlo all’autorità competente.
+<sup>1</sup> L’autorità fiscale competente invita i contribuenti, mediante notificazione pubblica, comunicazione personale o invio del modulo, a presentare la dichiarazione d’imposta. Anche i contribuenti che non hanno ricevuto né una comunicazione personale né un modulo devono presentare la dichiarazione d’imposta.[^124-1]
 
-<sup>2</sup> Il contribuente deve compilare il modulo in modo completo e veritiero, firmarlo personalmente e inviarlo, con gli allegati prescritti, all’autorità competente entro il termine stabilito.
+<sup>2</sup> Il contribuente deve compilare la dichiarazione d’imposta in modo completo e veritiero, firmarla personalmente e inviarla, con gli allegati prescritti, all’autorità competente entro il termine stabilito.[^124-2]
 
-<sup>3</sup> Il contribuente, che omette d’inviare la dichiarazione d’imposta o che presenta un modulo incompleto, è diffidato a rimediarvi entro un congruo termine.
+<sup>3</sup> Il contribuente che omette di inviare la dichiarazione d’imposta o che presenta una dichiarazione d’imposta incompleta è diffidato a rimediarvi entro un congruo termine.[^124-3]
 
-<sup>4</sup> Nel caso d’invio tardivo e, se la dichiarazione è stata restituita al contribuente per completamento, di rinvio tardivo, l’inosservanza del termine dev’essere scusata qualora il contribuente provi che, per servizio militare o servizio civile, assenza dal Paese, malattia o altri motivi rilevanti, è stato impedito di presentarla o di rinviarla in tempo e di avervi provvisto entro 30 giorni o al momento in cui gli impedimenti sono cessati.[^124-1]
+<sup>4</sup> Nel caso d’invio tardivo e, se la dichiarazione è stata restituita al contribuente per completamento, di rinvio tardivo, l’inosservanza del termine dev’essere scusata qualora il contribuente provi che, per servizio militare o servizio civile, assenza dal Paese, malattia o altri motivi rilevanti, è stato impedito di presentarla o di rinviarla in tempo e di avervi provvisto entro 30 giorni o al momento in cui gli impedimenti sono cessati.[^124-4]
 
-[^124-1]: Nuovo testo giusta l’all. n. 7 della L del 6 ott. 1995 sul servizio civile, in vigore dal 1° ott. 1996 ([RU 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [FF 1994 III 1445](https://fedlex.data.admin.ch/eli/fga/1994/3_1609_1579_1445)).
+[^124-1]: Nuovo testo giusta il n. I 3 della LF del 18 giu. 2021 sulle procedure elettroniche in ambito fiscale, in vigore dal 1° gen. 2024 ([RU 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [FF 2020 4215](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
+[^124-2]: Nuovo testo giusta il n. I 3 della LF del 18 giu. 2021 sulle procedure elettroniche in ambito fiscale, in vigore dal 1° gen. 2024 ([RU 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [FF 2020 4215](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
+[^124-3]: Nuovo testo giusta il n. I 3 della LF del 18 giu. 2021 sulle procedure elettroniche in ambito fiscale, in vigore dal 1° gen. 2024 ([RU 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [FF 2020 4215](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
+[^124-4]: Nuovo testo giusta l’all. n. 7 della L del 6 ott. 1995 sul servizio civile, in vigore dal 1° ott. 1996 ([RU 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [FF 1994 III 1445](https://fedlex.data.admin.ch/eli/fga/1994/3_1609_1579_1445)).
 
 #### Art. 125
 

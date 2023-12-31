@@ -4,11 +4,11 @@ title: Bundesgesetz vom 14. Dezember 1990 über die direkte Bundessteuer (DBG)
 short: DBG
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184"
 language: de
-version: 2023-01-01
+version: 2024-01-01
 adopted: 1990-12-14
 in_force: 1995-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184/20230101/de/xml/fedlex-data-admin-ch-eli-cc-1991-1184_1184_1184-20230101-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/1184_1184_1184/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184/20240101/de/xml/fedlex-data-admin-ch-eli-cc-1991-1184_1184_1184-20240101-de-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/1184_1184_1184/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1991/1184_1184_1184/20230101/de"
 
 (DBG)
 
-vom 14. Dezember 1990 (Stand am 1. Januar 2023)
+vom 14. Dezember 1990 (Stand am 1. Januar 2024)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -225,7 +225,7 @@ Natürliche Personen haben das Recht, anstelle der Einkommenssteuer eine Steuer 
 
 Die Steuer wird nach den jährlichen, in der Bemessungsperiode im In- und Ausland entstandenen Lebenshaltungskosten der steuerpflichtigen Person und der von ihr unterhaltenen Personen, mindestens aber nach dem höchsten der folgenden Beträge bemessen:[^14-2]
 
-- a.[^14-3] 421 700 Franken;
+- a.[^14-3] 429 100 Franken;
 - b. für Steuerpflichtige mit eigenem Haushalt: dem Siebenfachen des jährlichen Mietzinses oder des Mietwerts nach Artikel 21 Absatz 1 Buchstabe b;
 - c. für die übrigen Steuerpflichtigen: dem Dreifachen des jährlichen Pensionspreises für Unterkunft und Verpflegung am Ort des Aufenthalts nach Artikel 3;
 - d.
@@ -247,7 +247,7 @@ Die Steuer wird nach den jährlichen, in der Bemessungsperiode im In- und Auslan
 
 [^14-1]: Fassung gemäss Ziff. I 1 des BG vom 28. Sept. 2012, in Kraft seit 1. Jan. 2016 ([AS 2013 779](https://fedlex.data.admin.ch/eli/oc/2013/155); [BBl 2011 6021](https://fedlex.data.admin.ch/eli/fga/2011/885)). Siehe auch die UeB dieser Änd. in Art. 205*d* am Schluss des Textes.
 [^14-2]: Fassung gemäss Ziff. II des BG vom 22. März 2013 über die formelle Bereinigung der zeitlichen Bemessung der direkten Steuern bei den natürlichen Personen, in Kraft seit 1. Jan. 2016 ([AS 2013 2397](https://fedlex.data.admin.ch/eli/oc/2013/504); [BBl 2011 3593](https://fedlex.data.admin.ch/eli/fga/2011/525)).
-[^14-3]: Fassung gemäss Art. 5 der V des EFD vom 16. Sept. 2022 über die kalte Progression, in Kraft seit 1. Jan. 2023 ([AS 2022 575](https://fedlex.data.admin.ch/eli/oc/2022/575)).
+[^14-3]: Fassung gemäss Art. 5 der V des EFD vom 1. Sept. 2023 über die kalte Progression, in Kraft seit 1. Jan. 2024 ([AS 2023 493](https://fedlex.data.admin.ch/eli/oc/2023/493)).
 [^14-4]: Fassung gemäss Ziff. II des BG vom 22. März 2013 über die formelle Bereinigung der zeitlichen Bemessung der direkten Steuern bei den natürlichen Personen, in Kraft seit 1. Jan. 2016 ([AS 2013 2397](https://fedlex.data.admin.ch/eli/oc/2013/504); [BBl 2011 3593](https://fedlex.data.admin.ch/eli/fga/2011/525)).
 [^14-5]: Ausdruck gemäss Ziff. I 2 des Steuererlassgesetzes vom 20. Juni 2014, in Kraft seit 1. Jan. 2016 ([AS 2015 9](https://fedlex.data.admin.ch/eli/oc/2015/3); [BBl 2013 8435](https://fedlex.data.admin.ch/eli/fga/2013/1658)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 [^14-6]: Fassung gemäss Ziff. II des BG vom 22. März 2013 über die formelle Bereinigung der zeitlichen Bemessung der direkten Steuern bei den natürlichen Personen, in Kraft seit 1. Jan. 2016 ([AS 2013 2397](https://fedlex.data.admin.ch/eli/oc/2013/504); [BBl 2011 3593](https://fedlex.data.admin.ch/eli/fga/2011/525)).
@@ -521,22 +521,22 @@ Steuerfrei sind:
 - d. die Unterstützungen aus öffentlichen oder privaten Mitteln;
 - e. die Leistungen in Erfüllung familienrechtlicher Verpflichtungen, ausgenommen die Unterhaltsbeiträge nach Artikel 23 Buchstabe f;
 - f.[^24-1] der Sold für Militär- und Schutzdienst sowie das Taschengeld für Zivildienst;
-- f<sup>bis</sup>.[^24-2] der Sold der Milizfeuerwehrleute bis zum Betrag von jährlich 5200 Franken für Dienstleistungen im Zusammenhang mit der Erfüllung der Kernaufgaben der Feuerwehr (Übungen, Pikettdienste, Kurse, Inspektionen und Ernstfalleinsätze zur Rettung, Brandbekämpfung, allgemeinen Schadenwehr, Elementarschadenbewältigung und dergleichen); ausgenommen sind Pauschalzulagen für Kader, Funktionszulagen sowie Entschädigungen für administrative Arbeiten und für Dienstleistungen, welche die Feuerwehr freiwillig erbringt;
+- f<sup>bis</sup>.[^24-2] der Sold der Milizfeuerwehrleute bis zum Betrag von jährlich 5300 Franken für Dienstleistungen im Zusammenhang mit der Erfüllung der Kernaufgaben der Feuerwehr (Übungen, Pikettdienste, Kurse, Inspektionen und Ernstfalleinsätze zur Rettung, Brandbekämpfung, allgemeinen Schadenwehr, Elementarschadenbewältigung und dergleichen); ausgenommen sind Pauschalzulagen für Kader, Funktionszulagen sowie Entschädigungen für administrative Arbeiten und für Dienstleistungen, welche die Feuerwehr freiwillig erbringt;
 - g. die Zahlung von Genugtuungssummen;
 - h. die Einkünfte aufgrund der Bundesgesetzgebung über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung;
 - i.[^24-3] die Gewinne, die in Spielbanken mit Spielbankenspielen erzielt werden, die nach dem Geldspielgesetz vom 29. September 2017[^24-4] (BGS) zugelassen sind, sofern diese Gewinne nicht aus selbstständiger Erwerbstätigkeit stammen;
-- i<sup>bis</sup>.[^24-5] die einzelnen Gewinne bis zum Betrag von 1 038 300 Franken aus der Teilnahme an Grossspielen, die nach dem BGS zugelassen sind, und aus der Online-Teilnahme an Spielbankenspielen, die nach dem BGS zugelassen sind;
+- i<sup>bis</sup>.[^24-5] die einzelnen Gewinne bis zum Betrag von 1 056 600 Franken aus der Teilnahme an Grossspielen, die nach dem BGS zugelassen sind, und aus der Online-Teilnahme an Spielbankenspielen, die nach dem BGS zugelassen sind;
 - i<sup>ter</sup>.[^24-6] die Gewinne aus Kleinspielen, die nach dem BGS zugelassen sind;
-- j.[^24-7] die einzelnen Gewinne aus Lotterien und Geschicklichkeitsspielen zur Verkaufsförderung, die nach Artikel 1 Absatz 2 Buchstaben d und e BGS diesem nicht unterstehen, sofern die Grenze von 1000 Franken nicht überschritten wird;
+- j.[^24-7] die einzelnen Gewinne aus Lotterien und Geschicklichkeitsspielen zur Verkaufsförderung, die nach Artikel 1 Absatz 2 Buchstaben d und e BGS diesem nicht unterstehen, sofern die Grenze von 1100 Franken nicht überschritten wird;
 - k.[^24-8] Einkünfte aufgrund des Bundesgesetzes vom 19. Juni 2020[^24-9] über Überbrückungsleistungen für ältere Arbeitslose.
 
 [^24-1]: Fassung gemäss Anhang Ziff. 7 des Zivildienstgesetzes vom 6. Okt. 1995, in Kraft seit 1. Okt. 1996 ([AS 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [BBl 1994 III 1609](https://fedlex.data.admin.ch/eli/fga/1994/3_1609_1579_1445)).
-[^24-2]: Eingefügt durch Ziff. I 1 des BG über die Steuerbefreiung des Feuerwehrsoldes vom 17. Juni 2011 ([AS 2012 489](https://fedlex.data.admin.ch/eli/oc/2012/71); [BBl 2010 2855](https://fedlex.data.admin.ch/eli/fga/2010/508)). Fassung gemäss Art. 6 Abs. 1 der V des EFD vom 16. Sept. 2022 über die kalte Progression, in Kraft seit 1. Jan. 2023 ([AS 2022 575](https://fedlex.data.admin.ch/eli/oc/2022/575)).
+[^24-2]: Eingefügt durch Ziff. I 1 des BG über die Steuerbefreiung des Feuerwehrsoldes vom 17. Juni 2011 ([AS 2012 489](https://fedlex.data.admin.ch/eli/oc/2012/71); [BBl 2010 2855](https://fedlex.data.admin.ch/eli/fga/2010/508)). Fassung gemäss Art. 6 Abs. 1 der V des EFD vom 1. Sept. 2023 über die kalte Progression, in Kraft seit 1. Jan. 2024 ([AS 2023 493](https://fedlex.data.admin.ch/eli/oc/2023/493)).
 [^24-3]: Eingefügt durch Anhang Ziff. 2 des Spielbankengesetzes vom 18. Dez. 1998 ([AS 2000 677](https://fedlex.data.admin.ch/eli/oc/2000/118); [BBl 1997 III 145](https://fedlex.data.admin.ch/eli/fga/1997/3_145_137_129)). Fassung gemäss Anhang Ziff. II 5 des Geldspielgesetzes vom 29. Sept. 2017, in Kraft seit 1. Jan. 2019 ([AS 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [BBl 2015 8387](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
 [^24-4]: [SR 935.51](https://fedlex.data.admin.ch/eli/cc/2018/795)
-[^24-5]: Eingefügt durch Anhang Ziff. II 5 des Geldspielgesetzes vom 29. Sept. 2017 ([AS 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [BBl 2015 8387](https://fedlex.data.admin.ch/eli/fga/2015/2039)). Fassung gemäss Art. 6 Abs. 2 der V des EFD vom 16. Sept. 2022 über die kalte Progression, in Kraft seit 1. Jan. 2023 ([AS 2022 575](https://fedlex.data.admin.ch/eli/oc/2022/575)).
+[^24-5]: Eingefügt durch Anhang Ziff. II 5 des Geldspielgesetzes vom 29. Sept. 2017 ([AS 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [BBl 2015 8387](https://fedlex.data.admin.ch/eli/fga/2015/2039)). Fassung gemäss Art. 6 Abs. 2 der V des EFD vom 1. Sept. 2023 über die kalte Progression, in Kraft seit 1. Jan. 2024 ([AS 2023 493](https://fedlex.data.admin.ch/eli/oc/2023/493)).
 [^24-6]: Eingefügt durch Anhang Ziff. II 5 des Geldspielgesetzes vom 29. Sept. 2017, in Kraft seit 1. Jan. 2019 ([AS 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [BBl 2015 8387](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
-[^24-7]: Eingefügt durch Ziff. I 1 des BG vom 15. Juni 2012 über Vereinfachungen bei der Besteuerung von Lotteriegewinnen ([AS 2012 5977](https://fedlex.data.admin.ch/eli/oc/2012/700); [BBl 2011 6517](https://fedlex.data.admin.ch/eli/fga/2011/1012)[6543](https://fedlex.data.admin.ch/eli/fga/2011/1014)). Fassung gemäss Anhang Ziff. II 5 des Geldspielgesetzes vom 29. Sept. 2017, in Kraft seit 1. Jan. 2019 ([AS 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [BBl 2015 8387](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
+[^24-7]: Eingefügt durch Ziff. I 1 des BG vom 15. Juni 2012 über Vereinfachungen bei der Besteuerung von Lotteriegewinnen ([AS 2012 5977](https://fedlex.data.admin.ch/eli/oc/2012/700); [BBl 2011 6517](https://fedlex.data.admin.ch/eli/fga/2011/1012)[6543](https://fedlex.data.admin.ch/eli/fga/2011/1014)). Fassung gemäss Art. 6 Abs. 3 der V des EFD vom 1. Sept. 2023 über die kalte Progression, in Kraft seit 1. Jan. 2024 ([AS 2023 493](https://fedlex.data.admin.ch/eli/oc/2023/493)).
 [^24-8]: Eingefügt durch Anhang Ziff. 2 des BG vom 19. Juni 2020 über Überbrückungsleistungen für ältere Arbeitslose, in Kraft seit 1. Juli 2021 ([AS 2021 373](https://fedlex.data.admin.ch/eli/oc/2021/373); [BBl 2019 8251](https://fedlex.data.admin.ch/eli/fga/2019/2838)).
 [^24-9]: [SR 837.2](https://fedlex.data.admin.ch/eli/cc/2021/373)
 
@@ -611,7 +611,7 @@ Sind Sanktionen nach Absatz 3 Buchstaben c und d von einer ausländischen Straf-
 [^27-2]: Eingefügt durch Ziff. I 1 des BG vom 27. Sept. 2013 über die steuerliche Behandlung der berufsorientierten Aus- und Weiterbildungskosten, in Kraft seit 1. Jan. 2016 ([AS 2014 1105](https://fedlex.data.admin.ch/eli/oc/2014/240); [BBl 2011 2607](https://fedlex.data.admin.ch/eli/fga/2011/381)).
 [^27-3]: Eingefügt durch Ziff. I 1 des BG vom 19. Juni 2020 über die steuerliche Behandlung finanzieller Sanktionen, in Kraft seit 1. Jan. 2022 ([AS 2020 5121](https://fedlex.data.admin.ch/eli/oc/2020/890); [BBl 2016 8503](https://fedlex.data.admin.ch/eli/fga/2016/2055)).
 [^27-4]: Eingefügt durch Ziff. I des BG vom 22. Dez. 1999 über die Unzulässigkeit steuerlicher Abzüge von Bestechungsgeldern ([AS 2000 2147](https://fedlex.data.admin.ch/eli/oc/2000/330); [BBl 1997 II 1037](https://fedlex.data.admin.ch/eli/fga/1997/2_1037__), IV 1336). Fassung gemäss Ziff. I 1 des BG vom 19. Juni 2020 über die steuerliche Behandlung finanzieller Sanktionen, in Kraft seit 1. Jan. 2022 ([AS 2020 5121](https://fedlex.data.admin.ch/eli/oc/2020/890); [BBl 2016 8503](https://fedlex.data.admin.ch/eli/fga/2016/2055)).
-[^27-5]: Eingefügt durch Ziff. I 1 des BG vom 19. Juni 2020 über die steuerliche Behandlung finanzieller Sanktionen, in Kraft seit 1. Jan. 2022 ([AS 2020 5121](https://fedlex.data.admin.ch/eli/oc/2020/890); [BBl 2016 8503](https://fedlex.data.admin.ch/eli/fga/2016/2055)).
+[^27-5]: Fassung gemäss Ziff. I 1 des BG vom 19. Juni 2020 über die steuerliche Behandlung finanzieller Sanktionen, in Kraft seit 1. Jan. 2022 ([AS 2020 5121](https://fedlex.data.admin.ch/eli/oc/2020/890); [BBl 2016 8503](https://fedlex.data.admin.ch/eli/fga/2016/2055)).
 
 #### Art. 28
 
@@ -709,7 +709,7 @@ Von den Einkünften werden abgezogen:
 - [tab] h<sup>bis</sup>.[^33-8] die behinderungsbedingten Kosten des Steuerpflichtigen oder der von ihm unterhaltenen Personen mit Behinderungen im Sinne des Behindertengleichstellungsgesetzes vom 13. Dezember 2002[^33-9], soweit der Steuerpflichtige die Kosten selber trägt;
 - i.[^33-10]
 
-  Die Mitgliederbeiträge und Zuwendungen bis zum Gesamtbetrag von 10 300 Franken an politische Parteien, die:[^33-11]
+  die Mitgliederbeiträge und Zuwendungen bis zum Gesamtbetrag von 10 400 Franken an politische Parteien, die:[^33-11]
 
   - 1\. im Parteienregister nach Artikel 76*a* des Bundesgesetzes vom 17. Dezember 1976[^33-12] über die politischen Rechte eingetragen sind,
   - 2\. in einem kantonalen Parlament vertreten sind, oder
@@ -717,7 +717,7 @@ Von den Einkünften werden abgezogen:
 
 - j.[^33-13]
 
-  Die Kosten der berufsorientierten Aus- und Weiterbildung, einschliesslich der Umschulungskosten, bis zum Gesamtbetrag von 12 700 Franken, sofern:[^33-14]
+  die Kosten der berufsorientierten Aus- und Weiterbildung, einschliesslich der Umschulungskosten, bis zum Gesamtbetrag von 12 900 Franken, sofern:[^33-14]
 
   - 1\. ein erster Abschluss auf der Sekundarstufe II vorliegt, oder
   - 2\. das 20. Lebensjahr vollendet ist und es sich nicht um die Ausbildungskosten bis zum ersten Abschluss auf der Sekundarstufe II handelt.
@@ -729,11 +729,11 @@ Die Abzüge nach Absatz 1 Buchstabe g erhöhen sich:
 - a. um die Hälfte für Steuerpflichtige ohne Beiträge nach Absatz 1 Buchstaben d und e;
 - b. um 700 Franken für jedes Kind oder jede unterstützungsbedürftige Person, für die die steuerpflichtige Person einen Abzug nach Artikel 35 Absatz 1 Buchstabe a oder b geltend machen kann.[^33-15]
 
-<sup>2</sup> Leben Ehegatten in rechtlich und tatsächlich ungetrennter Ehe und erzielen beide ein Erwerbseinkommen, so werden vom niedrigeren Erwerbseinkommen 50 Prozent, jedoch mindestens 8300 Franken und höchstens 13 600 Franken abgezogen.[^33-16] Als Erwerbseinkommen gelten die steuerbaren Einkünfte aus unselbständiger oder selbständiger Erwerbstätigkeit abzüglich der Aufwendungen nach den Artikeln 26–31 und der allgemeinen Abzüge nach Absatz 1 Buchstaben d–f. Bei erheblicher Mitarbeit eines Ehegatten im Beruf, Geschäft oder Gewerbe des andern Ehegatten oder bei gemeinsamer selbständiger Erwerbstätigkeit wird jedem Ehegatten die Hälfte des gemeinsamen Erwerbseinkommens zugewiesen. Eine abweichende Aufteilung ist vom Ehepaar nachzuweisen.[^33-17]
+<sup>2</sup> Leben Ehegatten in rechtlich und tatsächlich ungetrennter Ehe und erzielen beide ein Erwerbseinkommen, so werden vom niedrigeren Erwerbseinkommen 50 Prozent, jedoch mindestens 8500 Franken und höchstens 13 900 Franken abgezogen. Als Erwerbseinkommen gelten die steuerbaren Einkünfte aus unselbständiger oder selbständiger Erwerbstätigkeit abzüglich der Aufwendungen nach den Artikeln 26–31 und der allgemeinen Abzüge nach Absatz 1 Buchstaben d–f. Bei erheblicher Mitarbeit eines Ehegatten im Beruf, Geschäft oder Gewerbe des andern Ehegatten oder bei gemeinsamer selbständiger Erwerbstätigkeit wird jedem Ehegatten die Hälfte des gemeinsamen Erwerbseinkommens zugewiesen. Eine abweichende Aufteilung ist vom Ehepaar nachzuweisen.[^33-16]
 
-<sup>3</sup> Von den Einkünften werden abgezogen die nachgewiesenen Kosten, jedoch höchstens 25 000 Franken, für die Drittbetreuung jedes Kindes, das das 14. Altersjahr noch nicht vollendet hat und mit der steuerpflichtigen Person, die für seinen Unterhalt sorgt, im gleichen Haushalt lebt, soweit diese Kosten in direktem kausalem Zusammenhang mit der Erwerbstätigkeit, Ausbildung oder Erwerbsunfähigkeit der steuerpflichtigen Person stehen.[^33-18]
+<sup>3</sup> Von den Einkünften werden abgezogen die nachgewiesenen Kosten, jedoch höchstens 25 500 Franken, für die Drittbetreuung jedes Kindes, das das 14. Altersjahr noch nicht vollendet hat und mit der steuerpflichtigen Person, die für seinen Unterhalt sorgt, im gleichen Haushalt lebt, soweit diese Kosten in direktem kausalem Zusammenhang mit der Erwerbstätigkeit, Ausbildung oder Erwerbsunfähigkeit der steuerpflichtigen Person stehen.[^33-17]
 
-<sup>4</sup> Von den einzelnen Gewinnen aus der Teilnahme an Geldspielen, welche nicht nach Artikel 24 Buchstaben i<sup>bis</sup>–j steuerfrei sind, werden 5 Prozent, jedoch höchstens 5200 Franken, als Einsatzkosten abgezogen. Von den einzelnen Gewinnen aus der Online-Teilnahme an Spielbankenspielen nach Artikel 24 Buchstabe i<sup>bis</sup> werden die vom Online-Spielerkonto abgebuchten Spieleinsätze im Steuerjahr, jedoch höchstens 26 000 Franken abgezogen.[^33-19]
+<sup>4</sup> Von den einzelnen Gewinnen aus der Teilnahme an Geldspielen, welche nicht nach Artikel 24 Buchstaben i<sup>bis</sup>–j steuerfrei sind, werden 5 Prozent, jedoch höchstens 5300 Franken, als Einsatzkosten abgezogen. Von den einzelnen Gewinnen aus der Online-Teilnahme an Spielbankenspielen nach Artikel 24 Buchstabe i<sup>bis</sup> werden die vom Online-Spielerkonto abgebuchten Spieleinsätze im Steuerjahr, jedoch höchstens 26 400 Franken abgezogen.[^33-18]
 
 [^33-1]: Eingefügt durch Anhang Ziff. 3 des BG vom 8. Okt. 2004 (Stiftungsrecht), in Kraft seit 1. Jan. 2006 ([AS 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [BBl 2003 8153](https://fedlex.data.admin.ch/eli/fga/2003/1402)[8191](https://fedlex.data.admin.ch/eli/fga/2003/1404)).
 [^33-2]: Fassung gemäss Ziff. I 5 des BG vom 19. März 1999 über das Stabilisierungsprogramm 1998, in Kraft seit 1. Jan. 2001 ([AS 1999 2374](https://fedlex.data.admin.ch/eli/oc/1999/363); BBl **1999** 4).
@@ -745,15 +745,14 @@ Die Abzüge nach Absatz 1 Buchstabe g erhöhen sich:
 [^33-8]: Eingefügt durch Anhang Ziff. 2 des Behindertengleichstellungsgesetzes vom 13. Dez. 2002, in Kraft seit 1. Jan. 2005 ([AS 2003 4487](https://fedlex.data.admin.ch/eli/oc/2003/667); [BBl 2001 1715](https://fedlex.data.admin.ch/eli/fga/2001/434)).
 [^33-9]: [SR 151.3](https://fedlex.data.admin.ch/eli/cc/2003/667)
 [^33-10]: Fassung gemäss Art. 6 Abs. 3 der V des EFD vom 22. Sept. 2011 über die kalte Progression, in Kraft seit 1. Jan. 2012 ([AS 2011 4503](https://fedlex.data.admin.ch/eli/oc/2011/626)).
-[^33-11]: Fassung gemäss Art. 3 Abs. 2 der V des EFD vom 16. Sept. 2022 über die kalte Progression, in Kraft seit 1. Jan. 2023 ([AS 2022 575](https://fedlex.data.admin.ch/eli/oc/2022/575)).
+[^33-11]: Fassung gemäss Art. 3 Abs. 1 der V des EFD vom 1. Sept. 2023 über die kalte Progression, in Kraft seit 1. Jan. 2024 ([AS 2023 493](https://fedlex.data.admin.ch/eli/oc/2023/493)).
 [^33-12]: [SR 161.1](https://fedlex.data.admin.ch/eli/cc/1978/688_688_688)
 [^33-13]: Eingefügt durch Ziff. I 1 des BG vom 27. Sept. 2013 über die steuerliche Behandlung der berufsorientierten Aus- und Weiterbildungskosten, in Kraft seit 1. Jan. 2016 ([AS 2014 1105](https://fedlex.data.admin.ch/eli/oc/2014/240); [BBl 2011 2607](https://fedlex.data.admin.ch/eli/fga/2011/381)).
-[^33-14]: Fassung gemäss Art. 3 Abs. 3 der V des EFD vom 16. Sept. 2022 über die kalte Progression, in Kraft seit 1. Jan. 2023 ([AS 2022 575](https://fedlex.data.admin.ch/eli/oc/2022/575)).
+[^33-14]: Fassung gemäss Art. 3 Abs. 2 der V des EFD vom 1. Sept. 2023 über die kalte Progression, in Kraft seit 1. Jan. 2024 ([AS 2023 493](https://fedlex.data.admin.ch/eli/oc/2023/493)).
 [^33-15]: Eingefügt durch Ziff. I 1 des BG vom 22. März 2013 über die formelle Bereinigung der zeitlichen Bemessung der direkten Steuern bei den natürlichen Personen, in Kraft seit 1. Jan. 2014 ([AS 2013 2397](https://fedlex.data.admin.ch/eli/oc/2013/504); [BBl 2011 3593](https://fedlex.data.admin.ch/eli/fga/2011/525)).
-[^33-16]: Fassung gemäss Art. 3 Abs. 4 der V des EFD vom 16. Sept. 2022 über die kalte Progression, in Kraft seit 1. Jan. 2023 ([AS 2022 575](https://fedlex.data.admin.ch/eli/oc/2022/575)).
-[^33-17]: Fassung gemäss Ziff. I 1 des BG vom 22. März 2013 über die formelle Bereinigung der zeitlichen Bemessung der direkten Steuern bei den natürlichen Personen, in Kraft seit 1. Jan. 2014 ([AS 2013 2397](https://fedlex.data.admin.ch/eli/oc/2013/504); [BBl 2011 3593](https://fedlex.data.admin.ch/eli/fga/2011/525)).
-[^33-18]: Eingefügt durch Ziff. I 1 des BG vom 25. Sept. 2009 über die steuerliche Entlastung von Familien mit Kindern ([AS 2010 455](https://fedlex.data.admin.ch/eli/oc/2010/60); [BBl 2009 4729](https://fedlex.data.admin.ch/eli/fga/2009/815)). Fassung gemäss Ziff. I des BG vom 1. Okt. 2021 (Steuerliche Berücksichtigung der Kinderdrittbetreuungskosten), in Kraft seit 1. Jan. 2023 ([AS 2022 120](https://fedlex.data.admin.ch/eli/oc/2022/120)).
-[^33-19]: Eingefügt durch Ziff. I 1 des BG vom 15. Juni 2012 über Vereinfachungen bei der Besteuerung von Lotteriegewinnen ([AS 2012 5977](https://fedlex.data.admin.ch/eli/oc/2012/700); [BBl 2011 6517](https://fedlex.data.admin.ch/eli/fga/2011/1012)[6543](https://fedlex.data.admin.ch/eli/fga/2011/1014)). Fassung gemäss Art. 3 Abs. 5 der V des EFD vom 16. Sept. 2022 über die kalte Progression, in Kraft seit 1. Jan. 2023 ([AS 2022 575](https://fedlex.data.admin.ch/eli/oc/2022/575)).
+[^33-16]: Fassung gemäss Art. 3 Abs. 3 der V des EFD vom 1. Sept. 2023 über die kalte Progression, in Kraft seit 1. Jan. 2024 ([AS 2023 493](https://fedlex.data.admin.ch/eli/oc/2023/493)).
+[^33-17]: Eingefügt durch Ziff. I 1 des BG vom 25. Sept. 2009 über die steuerliche Entlastung von Familien mit Kindern ([AS 2010 455](https://fedlex.data.admin.ch/eli/oc/2010/60); [BBl 2009 4729](https://fedlex.data.admin.ch/eli/fga/2009/815)). Fassung gemäss Art. 3 Abs. 4 der V des EFD vom 1. Sept. 2023 über die kalte Progression, in Kraft seit 1. Jan. 2024 ([AS 2023 493](https://fedlex.data.admin.ch/eli/oc/2023/493)).
+[^33-18]: Eingefügt durch Ziff. I 1 des BG vom 15. Juni 2012 über Vereinfachungen bei der Besteuerung von Lotteriegewinnen ([AS 2012 5977](https://fedlex.data.admin.ch/eli/oc/2012/700); [BBl 2011 6517](https://fedlex.data.admin.ch/eli/fga/2011/1012)[6543](https://fedlex.data.admin.ch/eli/fga/2011/1014)). Fassung gemäss Art. 3 Abs. 5 der V des EFD vom 1. Sept. 2023 über die kalte Progression, in Kraft seit 1. Jan. 2024 ([AS 2023 493](https://fedlex.data.admin.ch/eli/oc/2023/493)).
 
 #### Art. 33a
 
@@ -785,17 +784,17 @@ Nicht abziehbar sind die übrigen Kosten und Aufwendungen, insbesondere:
 
 Vom Einkommen werden abgezogen:
 
-- a.[^35-1] 6600 Franken für jedes minderjährige oder in der beruflichen oder schulischen Ausbildung stehende Kind, für dessen Unterhalt die steuerpflichtige Person sorgt; werden die Eltern getrennt besteuert, so wird der Kinderabzug hälftig aufgeteilt, wenn das Kind unter gemeinsamer elterlicher Sorge steht und keine Unterhaltsbeiträge nach Artikel 33 Absatz 1 Buchstabe c für das Kind geltend gemacht werden;
-- b.[^35-2] 6600 Franken für jede erwerbsunfähige oder beschränkt erwerbsfähige Person, zu deren Unterhalt die steuerpflichtige Person mindestens in der Höhe des Abzugs beiträgt; der Abzug kann nicht beansprucht werden für den Ehegatten und für Kinder, für die ein Abzug nach Buchstabe a gewährt wird;
-- c.[^35-3] 2700 Franken für Ehepaare, die in rechtlich und tatsächlich ungetrennter Ehe leben.[^35-4]
+- a.[^35-1] 6700 Franken für jedes minderjährige oder in der beruflichen oder schulischen Ausbildung stehende Kind, für dessen Unterhalt die steuerpflichtige Person sorgt; werden die Eltern getrennt besteuert, so wird der Kinderabzug hälftig aufgeteilt, wenn das Kind unter gemeinsamer elterlicher Sorge steht und keine Unterhaltsbeiträge nach Artikel 33 Absatz 1 Buchstabe c für das Kind geltend gemacht werden;
+- b.[^35-2] 6700 Franken für jede erwerbsunfähige oder beschränkt erwerbsfähige Person, zu deren Unterhalt die steuerpflichtige Person mindestens in der Höhe des Abzugs beiträgt; der Abzug kann nicht beansprucht werden für den Ehegatten und für Kinder, für die ein Abzug nach Buchstabe a gewährt wird;
+- c.[^35-3] 2800 Franken für Ehepaare, die in rechtlich und tatsächlich ungetrennter Ehe leben.[^35-4]
 
 <sup>2</sup> Die Sozialabzüge werden nach den Verhältnissen am Ende der Steuerperiode (Art. 40) oder der Steuerpflicht festgesetzt.[^35-5]
 
 <sup>3</sup> Bei teilweiser Steuerpflicht werden die Sozialabzüge anteilsmässig gewährt.
 
-[^35-1]: Fassung gemäss Art. 4 der V des EFD vom 16. Sept. 2022 über die kalte Progression, in Kraft seit 1. Jan. 2023 ([AS 2022 575](https://fedlex.data.admin.ch/eli/oc/2022/575)).
-[^35-2]: Fassung gemäss Art. 4 der V des EFD vom 16. Sept. 2022 über die kalte Progression, in Kraft seit 1. Jan. 2023 ([AS 2022 575](https://fedlex.data.admin.ch/eli/oc/2022/575)).
-[^35-3]: Fassung gemäss Art. 4 der V des EFD vom 16. Sept. 2022 über die kalte Progression, in Kraft seit 1. Jan. 2023 ([AS 2022 575](https://fedlex.data.admin.ch/eli/oc/2022/575)).
+[^35-1]: Fassung gemäss Art. 4 der V des EFD vom 1. Sept. 2023 über die kalte Progression, in Kraft seit 1. Jan. 2024 ([AS 2023 493](https://fedlex.data.admin.ch/eli/oc/2023/493)).
+[^35-2]: Fassung gemäss Art. 4 der V des EFD vom 1. Sept. 2023 über die kalte Progression, in Kraft seit 1. Jan. 2024 ([AS 2023 493](https://fedlex.data.admin.ch/eli/oc/2023/493)).
+[^35-3]: Fassung gemäss Art. 4 der V des EFD vom 1. Sept. 2023 über die kalte Progression, in Kraft seit 1. Jan. 2024 ([AS 2023 493](https://fedlex.data.admin.ch/eli/oc/2023/493)).
 [^35-4]: Fassung gemäss Ziff. I 1 des BG vom 22. März 2013 über die formelle Bereinigung der zeitlichen Bemessung der direkten Steuern bei den natürlichen Personen, in Kraft seit 1. Jan. 2014 ([AS 2013 2397](https://fedlex.data.admin.ch/eli/oc/2013/504); [BBl 2011 3593](https://fedlex.data.admin.ch/eli/fga/2011/525)).
 [^35-5]: Fassung gemäss Ziff. I 1 des BG vom 22. März 2013 über die formelle Bereinigung der zeitlichen Bemessung der direkten Steuern bei den natürlichen Personen, in Kraft seit 1. Jan. 2014 ([AS 2013 2397](https://fedlex.data.admin.ch/eli/oc/2013/504); [BBl 2011 3593](https://fedlex.data.admin.ch/eli/fga/2011/525)).
 
@@ -809,26 +808,26 @@ Vom Einkommen werden abgezogen:
 
 <table>
 <tr><th></th><th></th><th>Franken</th><th></th><th></th></tr>
-<tr><td>bis</td><td>14 800 Franken Einkommen</td><td>0.00</td><td></td><td></td></tr>
+<tr><td>bis</td><td>15 000 Franken Einkommen</td><td>0.00</td><td></td><td></td></tr>
 <tr><td></td><td>und für je weitere 100 Franken Einkommen</td><td>0.77</td><td>;</td><td></td></tr>
-<tr><td>für</td><td>32 200 Franken Einkommen</td><td>133.95</td><td></td><td></td></tr>
+<tr><td>für</td><td>32 800 Franken Einkommen</td><td>137.05</td><td></td><td></td></tr>
 <tr><td></td><td>und für je weitere 100 Franken Einkommen</td><td>0.88</td><td></td><td>mehr;</td></tr>
-<tr><td>für</td><td>42 200 Franken Einkommen</td><td>221.95</td><td></td><td></td></tr>
+<tr><td>für</td><td>42 900 Franken Einkommen</td><td>225.90</td><td></td><td></td></tr>
 <tr><td></td><td>und für je weitere 100 Franken Einkommen</td><td>2.64</td><td></td><td>mehr;</td></tr>
-<tr><td>für</td><td>56 200 Franken Einkommen</td><td>591.55</td><td></td><td></td></tr>
+<tr><td>für</td><td>57 200 Franken Einkommen</td><td>603.40</td><td></td><td></td></tr>
 <tr><td></td><td>und für je weitere 100 Franken Einkommen</td><td>2.97</td><td></td><td>mehr;</td></tr>
-<tr><td>für</td><td>73 900 Franken Einkommen</td><td>1117.20</td><td></td><td></td></tr>
+<tr><td>für</td><td>75 200 Franken Einkommen</td><td>1138.00</td><td></td><td></td></tr>
 <tr><td></td><td>und für je weitere 100 Franken Einkommen</td><td>5.94</td><td></td><td>mehr;</td></tr>
-<tr><td>für</td><td>79 600 Franken Einkommen</td><td>1455.75</td><td></td><td></td></tr>
+<tr><td>für</td><td>81 000 Franken Einkommen</td><td>1482.50</td><td></td><td></td></tr>
 <tr><td></td><td>und für je weitere 100 Franken Einkommen</td><td>6.60</td><td></td><td>mehr;</td></tr>
-<tr><td>für</td><td>105 500 Franken Einkommen</td><td>3165.15</td><td></td><td></td></tr>
+<tr><td>für</td><td>107 400 Franken Einkommen</td><td>3224.90</td><td></td><td></td></tr>
 <tr><td></td><td>und für je weitere 100 Franken Einkommen</td><td>8.80</td><td></td><td>mehr;</td></tr>
-<tr><td>für</td><td>137 200 Franken Einkommen</td><td>5954.75</td><td></td><td></td></tr>
+<tr><td>für</td><td>139 600 Franken Einkommen</td><td>6058.50</td><td></td><td></td></tr>
 <tr><td></td><td>und für je weitere 100 Franken Einkommen</td><td>11.00</td><td></td><td>mehr;</td></tr>
-<tr><td>für</td><td>179 400 Franken Einkommen</td><td>10 596.75</td><td></td><td></td></tr>
+<tr><td>für</td><td>182 600 Franken Einkommen</td><td>10 788.50</td><td></td><td></td></tr>
 <tr><td></td><td>und für je weitere 100 Franken Einkommen</td><td>13.20</td><td></td><td>mehr;</td></tr>
-<tr><td>für</td><td>769 600 Franken Einkommen</td><td>88 503.15</td><td></td><td></td></tr>
-<tr><td>für</td><td>769 700 Franken Einkommen</td><td>88 515.50</td><td></td><td></td></tr>
+<tr><td>für</td><td>783 200 Franken Einkommen</td><td>90 067.70</td><td></td><td></td></tr>
+<tr><td>für</td><td>783 300 Franken Einkommen</td><td>90 079.50</td><td></td><td></td></tr>
 <tr><td></td><td>und für je weitere 100 Franken Einkommen</td><td>11.50</td><td></td><td>mehr.[^36-1]</td></tr>
 </table>
 
@@ -836,44 +835,44 @@ Vom Einkommen werden abgezogen:
 
 <table>
 <tr><th></th><th></th><th>Franken</th><th></th><th></th></tr>
-<tr><td>bis</td><td>28 800 Franken Einkommen</td><td>0.00</td><td></td><td></td></tr>
+<tr><td>bis</td><td>29 300 Franken Einkommen</td><td>0.00</td><td></td><td></td></tr>
 <tr><td></td><td>und für je weitere 100 Franken Einkommen</td><td>1.00</td><td>;</td><td></td></tr>
-<tr><td>für</td><td>51 800 Franken Einkommen</td><td>230.00</td><td></td><td></td></tr>
+<tr><td>für</td><td>52 700 Franken Einkommen</td><td>234.00</td><td></td><td></td></tr>
 <tr><td></td><td>und für je weitere 100 Franken Einkommen</td><td>2.00</td><td></td><td>mehr;</td></tr>
-<tr><td>für</td><td>59 400 Franken Einkommen</td><td>382.00</td><td></td><td></td></tr>
+<tr><td>für</td><td>60 500 Franken Einkommen</td><td>390.00</td><td></td><td></td></tr>
 <tr><td></td><td>und für je weitere 100 Franken Einkommen</td><td>3.00</td><td></td><td>mehr;</td></tr>
-<tr><td>für</td><td>76 700 Franken Einkommen</td><td>901.00</td><td></td><td></td></tr>
+<tr><td>für</td><td>78 100 Franken Einkommen</td><td>918.00</td><td></td><td></td></tr>
 <tr><td></td><td>und für je weitere 100 Franken Einkommen</td><td>4.00</td><td></td><td>mehr;</td></tr>
-<tr><td>für</td><td>92 000 Franken Einkommen</td><td>1513.00</td><td></td><td></td></tr>
+<tr><td>für</td><td>93 600 Franken Einkommen</td><td>1538.00</td><td></td><td></td></tr>
 <tr><td></td><td>und für je weitere 100 Franken Einkommen</td><td>5.00</td><td></td><td>mehr;</td></tr>
-<tr><td>für</td><td>105 400 Franken Einkommen</td><td>2183.00</td><td></td><td></td></tr>
+<tr><td>für</td><td>107 200 Franken Einkommen</td><td>2218.00</td><td></td><td></td></tr>
 <tr><td></td><td>und für je weitere 100 Franken Einkommen</td><td>6.00</td><td></td><td>mehr;</td></tr>
-<tr><td>für</td><td>116 900 Franken Einkommen</td><td>2873.00</td><td></td><td></td></tr>
+<tr><td>für</td><td>119 000 Franken Einkommen</td><td>2926.00</td><td></td><td></td></tr>
 <tr><td></td><td>und für je weitere 100 Franken Einkommen</td><td>7.00</td><td></td><td>mehr;</td></tr>
-<tr><td>für</td><td>126 500 Franken Einkommen</td><td>3545.00</td><td></td><td></td></tr>
+<tr><td>für</td><td>128 800 Franken Einkommen</td><td>3612.00</td><td></td><td></td></tr>
 <tr><td></td><td>und für je weitere 100 Franken Einkommen</td><td>8.00</td><td></td><td>mehr;</td></tr>
-<tr><td>für</td><td>134 200 Franken Einkommen</td><td>4161.00</td><td></td><td></td></tr>
+<tr><td>für</td><td>136 600 Franken Einkommen</td><td>4236.00</td><td></td><td></td></tr>
 <tr><td></td><td>und für je weitere 100 Franken Einkommen</td><td>9.00</td><td></td><td>mehr;</td></tr>
-<tr><td>für</td><td>139 900 Franken Einkommen</td><td>4674.00</td><td></td><td></td></tr>
+<tr><td>für</td><td>142 300 Franken Einkommen</td><td>4749.00</td><td></td><td></td></tr>
 <tr><td></td><td>und für je weitere 100 Franken Einkommen</td><td>10.00</td><td></td><td>mehr;</td></tr>
-<tr><td>für</td><td>143 800 Franken Einkommen</td><td>5064.00</td><td></td><td></td></tr>
+<tr><td>für</td><td>146 300 Franken Einkommen</td><td>5149.00</td><td></td><td></td></tr>
 <tr><td></td><td>und für je weitere 100 Franken Einkommen</td><td>11.00</td><td></td><td>mehr;</td></tr>
-<tr><td>für</td><td>145 800 Franken Einkommen</td><td>5284.00</td><td></td><td></td></tr>
+<tr><td>für</td><td>148 300 Franken Einkommen</td><td>5369.00</td><td></td><td></td></tr>
 <tr><td></td><td>und für je weitere 100 Franken Einkommen</td><td>12.00</td><td></td><td>mehr;</td></tr>
-<tr><td>für</td><td>147 700 Franken Einkommen</td><td>5512.00</td><td></td><td></td></tr>
+<tr><td>für</td><td>150 300 Franken Einkommen</td><td>5609.00</td><td></td><td></td></tr>
 <tr><td></td><td>und für je weitere 100 Franken Einkommen</td><td>13.00</td><td></td><td>mehr;</td></tr>
-<tr><td>für</td><td>912 600 Franken Einkommen</td><td>104 949.00</td><td></td><td></td></tr>
+<tr><td>für</td><td>928 600 Franken Einkommen</td><td>106 788.00</td><td></td><td></td></tr>
+<tr><td>für</td><td>928 700 Franken Einkommen</td><td>106 800.50</td><td></td><td></td></tr>
 <tr><td></td><td>und für je weitere 100 Franken Einkommen</td><td>11.50</td><td></td><td>mehr.[^36-2]</td></tr>
 </table>
 
-<sup>2bis</sup> Für die in rechtlich und tatsächlich ungetrennter Ehe lebenden Ehepaare und die verwitweten, gerichtlich oder tatsächlich getrennt lebenden, geschiedenen und ledigen steuerpflichtigen Personen, die mit Kindern oder unterstützungsbedürftigen Personen im gleichen Haushalt zusammenleben und deren Unterhalt zur Hauptsache bestreiten, gilt Absatz 2 sinngemäss. Der so ermittelte Steuerbetrag ermässigt sich um 255 Franken für jedes Kind oder jede unterstützungsbedürftige Person.[^36-3] [^36-4]
+<sup>2bis</sup> Für die in rechtlich und tatsächlich ungetrennter Ehe lebenden Ehepaare und die verwitweten, gerichtlich oder tatsächlich getrennt lebenden, geschiedenen und ledigen steuerpflichtigen Personen, die mit Kindern oder unterstützungsbedürftigen Personen im gleichen Haushalt zusammenleben und deren Unterhalt zur Hauptsache bestreiten, gilt Absatz 2 sinngemäss. Der so ermittelte Steuerbetrag ermässigt sich um 259 Franken für jedes Kind oder jede unterstützungsbedürftige Person.[^36-3]
 
 <sup>3</sup> Steuerbeträge unter 25 Franken werden nicht erhoben.
 
-[^36-1]: Fassung gemäss Art. 2 Abs. 1 der V des EFD vom 16. Sept. 2022 über die kalte Progression, in Kraft seit 1. Jan. 2023 ([AS 2022 575](https://fedlex.data.admin.ch/eli/oc/2022/575)).
-[^36-2]: Fassung gemäss Art. 2 Abs. 2 der V des EFD vom 16. Sept. 2022 über die kalte Progression, in Kraft seit 1. Jan. 2023 ([AS 2022 575](https://fedlex.data.admin.ch/eli/oc/2022/575)).
-[^36-3]: Fassung des zweiten Satzes gemäss Art. 2 Abs. 3 der V des EFD vom 16. Sept. 2022 über die kalte Progression, in Kraft seit 1. Jan. 2023 ([AS 2022 575](https://fedlex.data.admin.ch/eli/oc/2022/575)).
-[^36-4]: Eingefügt durch Ziff. I 1 des BG vom 25. Sept. 2009 über die steuerliche Entlastung von Familien mit Kindern ([AS 2010 455](https://fedlex.data.admin.ch/eli/oc/2010/60); [BBl 2009 4729](https://fedlex.data.admin.ch/eli/fga/2009/815)). Fassung gemäss Art. 2 Abs. 3 der V des EFD vom 2. Sept. 2013 über den Ausgleich der Folgen der kalten Progression für die natürlichen Personen, in Kraft seit 1. Jan. 2014 ([AS 2013 3027](https://fedlex.data.admin.ch/eli/oc/2013/589)).
+[^36-1]: Fassung gemäss Art. 2 Abs. 1 der V des EFD vom 1. Sept. 2023 über die kalte Progression, in Kraft seit 1. Jan. 2024 ([AS 2023 493](https://fedlex.data.admin.ch/eli/oc/2023/493)).
+[^36-2]: Fassung gemäss Art. 2 Abs. 2 der V des EFD vom 1. Sept. 2023 über die kalte Progression, in Kraft seit 1. Jan. 2024 ([AS 2023 493](https://fedlex.data.admin.ch/eli/oc/2023/493)).
+[^36-3]: Eingefügt durch Ziff. I 1 des BG vom 25. Sept. 2009 über die steuerliche Entlastung von Familien mit Kindern ([AS 2010 455](https://fedlex.data.admin.ch/eli/oc/2010/60); [BBl 2009 4729](https://fedlex.data.admin.ch/eli/fga/2009/815)). Fassung gemäss Art. 2 Abs. 3 der V des EFD vom 1. Sept. 2023 über die kalte Progression, in Kraft seit 1. Jan. 2024 ([AS 2023 493](https://fedlex.data.admin.ch/eli/oc/2023/493)).
 
 ### 2. Abschnitt: Sonderfälle
 
@@ -1177,7 +1176,7 @@ Sind Sanktionen nach Absatz 2 Buchstaben c und d von einer ausländischen Straf-
 [^59-2]: Fassung gemäss Anhang Ziff. 3 des BG vom 8. Okt. 2004 (Stiftungsrecht), in Kraft seit 1. Jan. 2006 ([AS 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [BBl 2003 8153](https://fedlex.data.admin.ch/eli/fga/2003/1402)[8191](https://fedlex.data.admin.ch/eli/fga/2003/1404)).
 [^59-3]: Eingefügt durch Ziff. I 1 des BG vom 27. Sept. 2013 über die steuerliche Behandlung der berufsorientierten Aus- und Weiterbildungskosten, in Kraft seit 1. Jan. 2016 ([AS 2014 1105](https://fedlex.data.admin.ch/eli/oc/2014/240); [BBl 2011 2607](https://fedlex.data.admin.ch/eli/fga/2011/381)).
 [^59-4]: Eingefügt durch Ziff. I 1 des BG vom 19. Juni 2020 über die steuerliche Behandlung finanzieller Sanktionen, in Kraft seit 1. Jan. 2022 ([AS 2020 5121](https://fedlex.data.admin.ch/eli/oc/2020/890); [BBl 2016 8503](https://fedlex.data.admin.ch/eli/fga/2016/2055)).
-[^59-5]: Eingefügt durch Ziff. I des BG vom 22. Dez. 1999 über die Unzulässigkeit steuerlicher Abzüge von Bestechungsgeldern ([AS 2000 2147](https://fedlex.data.admin.ch/eli/oc/2000/330); [BBl 1997 II 1037](https://fedlex.data.admin.ch/eli/fga/1997/2_1037__), IV 1336). Fassung gemäss Ziff. I 1 des BG vom 19. Juni 2020 über die steuerliche Behandlung finanzieller Sanktionen, in Kraft seit 1. Jan. 2022 ([AS 2020 5121](https://fedlex.data.admin.ch/eli/oc/2020/890); [BBl 2016 8503](https://fedlex.data.admin.ch/eli/fga/2016/2055)).
+[^59-5]: Eingefügt durch Ziff. I des BG vom 22. Dez. über die Unzulässigkeit steuerlicher Abzüge von Bestechungsgeldern ([AS 2000 2147](https://fedlex.data.admin.ch/eli/oc/2000/330); [BBl 1997 II 1037](https://fedlex.data.admin.ch/eli/fga/1997/2_1037__), IV 1336). Fassung gemäss Ziff. I 1 des BG vom 19. Juni 2020 über die steuerliche Behandlung finanzieller Sanktionen, in Kraft seit 1. Jan. 2022 ([AS 2020 5121](https://fedlex.data.admin.ch/eli/oc/2020/890); [BBl 2016 8503](https://fedlex.data.admin.ch/eli/fga/2016/2055)).
 [^59-6]: Eingefügt durch Ziff. I 1 des BG vom 19. Juni 2020 über die steuerliche Behandlung finanzieller Sanktionen, in Kraft seit 1. Jan. 2022 ([AS 2020 5121](https://fedlex.data.admin.ch/eli/oc/2020/890); [BBl 2016 8503](https://fedlex.data.admin.ch/eli/fga/2016/2055)).
 
 #### Art. 60
@@ -1730,7 +1729,7 @@ Der Schuldner der steuerbaren Leistung ist verpflichtet:
 
 <sup>2</sup> Der Schuldner der steuerbaren Leistung haftet für die Entrichtung der Quellensteuer.
 
-<sup>3</sup> Er erhält eine Bezugsprovision von 1 bis 2 Prozent des gesamten Quellensteuerbetrags; die zuständige Steuerbehörde setzt die Bezugsprovision fest. Für Kapitalleistungen beträgt die Bezugsprovision 1 Prozent des gesamten Quellensteuerbetrags, jedoch höchstens 50 Franken pro Kapitalleistung für die Quellensteuer von Bund, Kanton und Gemeinde.[^100-2]
+<sup>3</sup> <sup>3</sup> Er erhält eine Bezugsprovision von 1 bis 2 Prozent des gesamten Quellensteuerbetrags; die zuständige Steuerbehörde setzt die Bezugsprovision fest. Für Kapitalleistungen beträgt die Bezugsprovision 1 Prozent des gesamten Quellensteuerbetrags, jedoch höchstens 50 Franken pro Kapitalleistung für die Quellensteuer von Bund, Kanton und Gemeinde.[^100-2]
 
 [^100-1]: Eingefügt durch Ziff. I 1 des BG vom 17. Dez. 2010 über die Besteuerung von Mitarbeiterbeteiligungen, in Kraft seit 1. Jan. 2013 ([AS 2011 3259](https://fedlex.data.admin.ch/eli/oc/2011/427); [BBl 2005 575](https://fedlex.data.admin.ch/eli/fga/2005/88)).
 [^100-2]: Fassung gemäss Ziff. I 1 des BG vom 16. Dez. 2016 über die Revision der Quellenbesteuerung des Erwerbseinkommens, in Kraft seit 1. Jan. 2021 ([AS 2018 1813](https://fedlex.data.admin.ch/eli/oc/2018/272); [BBl 2015 657](https://fedlex.data.admin.ch/eli/fga/2015/56)).
@@ -1782,11 +1781,11 @@ Die ESTV kann insbesondere:
 
 ### 2. Kapitel: Kantonale Behörden
 
-### 1. Abschnitt: Organisation und Aufsicht
+### 1. Abschnitt: Organisation, elektronische Verfahren und Aufsicht
 
 [^part5-tit1-chap2-sec1-1]
 
-[^part5-tit1-chap2-sec1-1]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Jan. 2014 ([AS 2013 1345](https://fedlex.data.admin.ch/eli/oc/2013/315); [BBl 2012 4769](https://fedlex.data.admin.ch/eli/fga/2012/672)).
+[^part5-tit1-chap2-sec1-1]: Fassung gemäss Ziff. I 3 des BG vom 18. Juni 2021 über elektronische Verfahren im Steuerbereich, in Kraft seit 1. Jan. 2024 ([AS 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [BBl 2020 4705](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
 
 #### Art. 104
 
@@ -1804,14 +1803,26 @@ Die ESTV kann insbesondere:
 
 #### Art. 104a
 
-**Aufsicht**[^104a-1]
+**Elektronische Verfahren**[^104a-1]
+
+<sup>1</sup> Die Kantone sehen die Möglichkeit elektronischer Verfahren vor. Dabei stellen sie die Authentizität und Integrität der übermittelten Daten nach kantonalem Recht sicher.
+
+<sup>2</sup> Sie sehen bei der elektronischen Einreichung von Eingaben, deren Unterzeichnung gesetzlich vorgeschrieben ist, anstelle der Unterzeichnung die Möglichkeit einer elektronischen Bestätigung der Angaben durch die steuerpflichtige Person vor.
+
+<sup>3</sup> Sie sehen vor, dass die Steuerbehörde der steuerpflichtigen Person mit deren Einverständnis Dokumente in elektronischer Form zustellt.
+
+[^104a-1]: Eingefügt durch Ziff. I 3 des BG vom 18. Juni 2021 über elektronische Verfahren im Steuerbereich, in Kraft seit 1. Jan. 2024 ([AS 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [BBl 2020 4705](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
+
+#### Art. 104b
+
+**Aufsicht**[^104b-1]
 
 <sup>1</sup> Ein unabhängiges kantonales Finanzaufsichtsorgan prüft jährlich die Ordnungs- und Rechtmässigkeit der Erhebung der direkten Bundessteuer und der Ablieferung des Bundesanteils. Von der Prüfpflicht ausgenommen ist die materielle Prüfung der Veranlagungen. Das Finanzaufsichtsorgan erstattet der ESTV und der Eidgenössischen Finanzkontrolle bis Ende des Jahres, in dem die Staatsrechnung des Bundes abgenommen wird, Bericht.
 
-<sup>2</sup> Wird die Prüfung nicht vorgenommen oder erhalten die ESTV und die Eidgenössische Finanzkontrolle nicht rechtzeitig Bericht, so kann das EFD auf Antrag der ESTV und auf Kosten des Kantons ein nach den Vorschriften des Revisionsaufsichtsgesetzes vom 16. Dezember 2005[^104a-2] als Revisionsexperte zugelassenes Revisionsunternehmen mit der Prüfung beauftragen.
+<sup>2</sup> Wird die Prüfung nicht vorgenommen oder erhalten die ESTV und die Eidgenössische Finanzkontrolle nicht rechtzeitig Bericht, so kann das EFD auf Antrag der ESTV und auf Kosten des Kantons ein nach den Vorschriften des Revisionsaufsichtsgesetzes vom 16. Dezember 2005[^104b-2] als Revisionsexperte zugelassenes Revisionsunternehmen mit der Prüfung beauftragen.
 
-[^104a-1]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Jan. 2014 ([AS 2013 1345](https://fedlex.data.admin.ch/eli/oc/2013/315); [BBl 2012 4769](https://fedlex.data.admin.ch/eli/fga/2012/672)).
-[^104a-2]: [SR 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
+[^104b-1]: Ursprünglich: Art. 104*a*. Eingefügt durch Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Jan. 2014 ([AS 2013 1345](https://fedlex.data.admin.ch/eli/oc/2013/315); [BBl 2012 4769](https://fedlex.data.admin.ch/eli/fga/2012/672)).
+[^104b-2]: [SR 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
 
 ### 2. Abschnitt: Örtliche Zuständigkeit
 
@@ -1967,7 +1978,7 @@ Es sind alle diejenigen Daten von Steuerpflichtigen weiterzugeben, die zur Veran
 <sup>7</sup> Können sich Bundesämter über die Datenbekanntgabe nicht einigen, so entscheidet der Bundesrat endgültig. In allen andern Fällen entscheidet das Bundesgericht im Verfahren nach Artikel 120 des Bundesgerichtsgesetzes vom 17. Juni 2005[^112a-3].[^112a-4]
 
 [^112a-1]: Eingefügt durch Ziff. VI 3 des BG vom 24. März 2000 über die Schaffung und die Anpassung gesetzlicher Grundlagen für die Bearbeitung von Personendaten, in Kraft seit 1. Sept. 2000 ([AS 2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293); [BBl 1999 9005](https://fedlex.data.admin.ch/eli/fga/1999/1_9005_8381_7979)).
-[^112a-2]: Eingefügt durch Anhang Ziff. 5 des BG vom 23. Juni 2006 (Neue AHV-Versicherten-nummer) ([AS 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [BBl 2006 501](https://fedlex.data.admin.ch/eli/fga/2006/52)). Aufgehoben durch Anhang Ziff. 19 des BG vom 18. Dez. 2020 (Systematische Verwendung der AHV-Nummer durch Behörden), mit Wirkung seit 1. Jan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
+[^112a-2]: Eingefügt durch Anhang Ziff. 5 des BG vom 23. Juni 2006 (Neue AHV-Versicherten-nummer) ([AS 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [BBl 2006 501](https://fedlex.data.admin.ch/eli/fga/2006/52)). Aufgehoben durch Anhang Ziff. 18 des BG vom 18. Dez. 2020 (Systematische Verwendung der AHV-Nummer durch Behörden), mit Wirkung seit 1. Jan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 [^112a-3]: [SR 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
 [^112a-4]: Fassung zweiter Satz gemäss Anhang Ziff. 57 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
@@ -2105,15 +2116,17 @@ Die Verjährung beginnt neu mit:
 
 **Steuererklärung**
 
-<sup>1</sup> Die Steuerpflichtigen werden durch öffentliche Bekanntgabe oder Zustellung des Formulars aufgefordert, die Steuererklärung einzureichen. Steuerpflichtige, die kein Formular erhalten, müssen es bei der zuständigen Behörde verlangen.
+<sup>1</sup> Die zuständige Steuerbehörde fordert die Steuerpflichtigen durch öffentliche Bekanntgabe, durch persönliche Mitteilung oder durch Zustellung des Formulars auf, die Steuererklärung einzureichen. Auch Steuerpflichtige, die weder eine persönliche Mitteilung noch ein Formular erhalten haben, müssen eine Steuererklärung einreichen.[^124-1]
 
-<sup>2</sup> Der Steuerpflichtige muss das Formular für die Steuererklärung wahrheitsgemäss und vollständig ausfüllen, persönlich unterzeichnen und samt den vorgeschriebenen Beilagen fristgemäss der zuständigen Behörde einreichen.
+<sup>2</sup> Die steuerpflichtige Person muss die Steuererklärung wahrheitsgemäss und vollständig ausfüllen, persönlich unterzeichnen und samt den vorgeschriebenen Beilagen fristgemäss der zuständigen Steuerbehörde einreichen.[^124-2]
 
 <sup>3</sup> Der Steuerpflichtige, der die Steuererklärung nicht oder mangelhaft ausgefüllt einreicht, wird aufgefordert, das Versäumte innert angemessener Frist nachzuholen.
 
-<sup>4</sup> Bei verspäteter Einreichung und bei verspäteter Rückgabe einer dem Steuerpflichtigen zur Ergänzung zurückgesandten Steuererklärung ist die Fristversäumnis zu entschuldigen, wenn der Steuerpflichtige nachweist, dass er durch Militär- oder Zivildienst, Landesabwesenheit, Krankheit oder andere erhebliche Gründe an der rechtzeitigen Einreichung oder Rückgabe verhindert war und dass er das Versäumte innert 30 Tagen nach Wegfall der Hinderungsgründe nachgeholt hat.[^124-1]
+<sup>4</sup> Bei verspäteter Einreichung und bei verspäteter Rückgabe einer dem Steuerpflichtigen zur Ergänzung zurückgesandten Steuererklärung ist die Fristversäumnis zu entschuldigen, wenn der Steuerpflichtige nachweist, dass er durch Militär- oder Zivildienst, Landesabwesenheit, Krankheit oder andere erhebliche Gründe an der rechtzeitigen Einreichung oder Rückgabe verhindert war und dass er das Versäumte innert 30 Tagen nach Wegfall der Hinderungsgründe nachgeholt hat.[^124-3]
 
-[^124-1]: Fassung gemäss Anhang Ziff. 7 des Zivildienstgesetzes vom 6. Okt. 1995, in Kraft seit 1. Okt. 1996 ([AS 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [BBl 1994 III 1609](https://fedlex.data.admin.ch/eli/fga/1994/3_1609_1579_1445)).
+[^124-1]: Fassung gemäss Ziff. I 3 des BG vom 18. Juni 2021 über elektronische Verfahren im Steuerbereich, in Kraft seit 1. Jan. 2024 ([AS 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [BBl 2020 4705](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
+[^124-2]: Fassung gemäss Ziff. I 3 des BG vom 18. Juni 2021 über elektronische Verfahren im Steuerbereich, in Kraft seit 1. Jan. 2024 ([AS 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [BBl 2020 4705](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
+[^124-3]: Fassung gemäss Anhang Ziff. 7 des Zivildienstgesetzes vom 6. Okt. 1995, in Kraft seit 1. Okt. 1996 ([AS 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [BBl 1994 III 1609](https://fedlex.data.admin.ch/eli/fga/1994/3_1609_1579_1445)).
 
 #### Art. 125
 
@@ -2857,7 +2870,11 @@ Wer einer Pflicht, die ihm nach den Vorschriften dieses Gesetzes oder nach einer
 
 **Vollendete Steuerhinterziehung**
 
-<sup>1</sup> Wer als Steuerpflichtiger vorsätzlich oder fahrlässig bewirkt, dass eine Veranlagung zu Unrecht unterbleibt oder dass eine rechtskräftige Veranlagung unvollständig ist, wer als zum Steuerabzug an der Quelle Verpflichteter vorsätzlich oder fahrlässig einen Steuerabzug nicht oder nicht vollständig vornimmt, wer vorsätzlich oder fahrlässig eine unrechtmässige Rückerstattung oder einen ungerechtfertigten Erlass erwirkt,
+<sup>1</sup> Wer als Steuerpflichtiger vorsätzlich oder fahrlässig bewirkt, dass eine Veranlagung zu Unrecht unterbleibt oder dass eine rechtskräftige Veranlagung unvollständig ist,
+
+wer als zum Steuerabzug an der Quelle Verpflichteter vorsätzlich oder fahrlässig einen Steuerabzug nicht oder nicht vollständig vornimmt,
+
+wer vorsätzlich oder fahrlässig eine unrechtmässige Rückerstattung oder einen ungerechtfertigten Erlass erwirkt,
 
 wird mit Busse bestraft.
 
