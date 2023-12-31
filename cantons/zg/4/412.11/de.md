@@ -4,13 +4,13 @@ number: "412.11"
 title: Schulgesetz
 short: SchulG
 language: de
-version: 2020-01-01
-valid_until: 2023-12-31
-version_adopted: 2018-11-29
+version: 2024-01-01
+valid_until: 2024-07-31
+version_adopted: 2024-01-25
 adopted: 1990-09-27
 in_force: 1991-08-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/412.11"
-pdf: "https://bgs.zg.ch/api/de/versions/2028/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2554/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,11 +19,11 @@ pdf: "https://bgs.zg.ch/api/de/versions/2028/pdf_file"
 
 (SchulG)
 
-Vom 27. September 1990 (Stand 1. Januar 2020)
+Vom 27. September 1990 (Stand 1. Januar 2024)
 
 Der Kantonsrat des Kantons Zug,
 
-gestützt auf § 4 und § 41 Abs. 1 Bst. b der Kantonsverfassung[^ingress-1],
+gestützt auf § 4 und § 41 Abs. 1 Bst. b der Verfassung des Kantons Zug (Kantonsverfassung, KV) vom 31. Januar 1894[^ingress-1],
 
 beschliesst:
 
@@ -377,6 +377,16 @@ beschliesst:
 
 <sup>6</sup> Alle übrigen Datenbekanntgaben benötigen die Zustimmung der Erziehungsberechtigten.
 
+#### § 23b
+
+**Kantonale Leistungstests**
+
+<sup>1</sup> Es werden kantonale Leistungstests in der Primarschule und in der Oberstufe durchgeführt.
+
+<sup>2</sup> Die Veröffentlichung der Ergebnisse von kantonalen Leistungstests, welche Rückschlüsse auf einzelne Schülerinnen und Schüler, Lehrpersonen, Klassen und Schulen ermöglichen, ist untersagt.
+
+<sup>3</sup> Ranglisten gestützt auf die Ergebnisse von kantonalen Leistungstests auf der Ebene Schülerinnen und Schüler, Klasse und Schule sind untersagt.
+
 #### § 24
 
 **Disziplinarmassnahmen**
@@ -543,6 +553,8 @@ beschliesst:
 <sup>2</sup> Der Schulpsychologische Dienst trifft, allenfalls unter Beizug weiterer Fachpersonen, die notwendigen Abklärungen. Er bezieht alle Beteiligten, insbesondere den Rektor und die Erziehungsberechtigten, in eine Gesamtbeurteilung mit ein und stellt der Direktion für Bildung und Kultur Antrag für eine Mitfinanzierung.
 
 <sup>3</sup> Der Kanton entscheidet über die Mitfinanzierung der Sonderschulung.
+
+<sup>3a</sup> Der Kanton übernimmt die Kosten der logopädischen Therapie für Jugendliche bzw. Erwachsene im Alter von 16 bis 20 Jahren, die bereits logopädische Unterstützung benötigten.
 
 <sup>4</sup> Die Wohnsitzgemeinde entscheidet über die Zuweisung eines Kindes in Kenntnis des Antrags des Schulpsychologischen Dienstes und des kantonalen Mitfinanzierungsentscheids.
 
@@ -1097,7 +1109,7 @@ beschliesst:
 
 <sup>1</sup> Wenn eine Gemeinde Kinder zur Erfüllung der Schulpflicht einer Privatschule zuweist, gewährt der Kanton der Gemeinde die Normpauschale.
 
-<sup>2</sup> Anerkannten Privatschulen, die im Kanton Zug den Unterricht der obligatorischen Schulzeit anbieten, können Beiträge gewährt werden, um die Schulgeldbeiträge der Zuger Schülerinnen und Schüler zu reduzieren. Der Kantonsbeitrag pro Schülerin bzw. Schüler beträgt pro Jahr 1000 Franken auf der Kindergarten- und Primarstufe sowie 2000 Franken auf der Sekundarstufe I.
+<sup>2</sup> Anerkannten Privatschulen, die im Kanton Zug den Unterricht der obligatorischen Schulzeit anbieten, können Beiträge gewährt werden, um die Schulgeldbeiträge der Zuger Schülerinnen und Schüler zu reduzieren. Der Kantonsbeitrag pro Schülerin bzw. Schüler entspricht einer halben Normpauschale pro Schulkind.
 
 <sup>3</sup> Diese Schulen können die obligatorischen kantonalen Lehrmittel für die Zuger Schüler zu den gleichen Bedingungen beziehen wie die gemeindlichen Schulen.
 
