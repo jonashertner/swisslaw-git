@@ -4,11 +4,11 @@ title: Ordinanza del 21 maggio 2003 sui lavoratori distaccati in Svizzera (ODist
 short: ODist
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/232"
 language: it
-version: 2023-01-01
+version: 2024-01-01
 adopted: 2003-05-21
 in_force: 2003-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/232/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2003-232-20230101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/232/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/232/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2003-232-20240101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/232/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/232/20230101/it"
 
 (ODist)
 
-del 21 maggio 2003 (Stato 1° gennaio 2023)
+del 21 maggio 2003 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -358,6 +358,24 @@ La commissione tripartita può valersi dei servizi di periti. Può creare gruppi
 <sup>3</sup> La formazione di base e la formazione continua dei membri delle commissioni tripartite e paritetiche interessate è a carico della Confederazione.
 
 <sup>4</sup> La commissione tripartita della Confederazione può, se del caso, creare un gruppo di coordinamento Confederazione-Cantoni ad hoc o permanente.
+
+#### Art. 13a
+
+**Piattaforma per la comunicazione elettronica**[^13a-1]
+
+<sup>1</sup> La SECO è responsabile della sicurezza dei dati sulla piattaforma per la comunicazione elettronica di cui all’articolo 8*a* della legge.
+
+<sup>2</sup> Attribuisce ai collaboratori degli organi di controllo di cui all’articolo 7 capoverso 1 della legge e delle associazioni di controllo incaricate da questi ultimi i diritti di accesso individuali di cui hanno bisogno.
+
+<sup>3</sup> I collaboratori degli organi di controllo e delle associazioni di controllo incaricate da questi ultimi accedono alla piattaforma per la comunicazione elettronica tramite un’autenticazione a due fattori.
+
+<sup>4</sup> Inseriscono nella piattaforma per la comunicazione elettronica le informazioni e i documenti necessari all’adempimento dei loro compiti conformemente all’articolo 8 capoversi 1 e 2 della legge affinché altri collaboratori possano consultarli e scaricarli.
+
+<sup>5</sup> I dati trasmessi mediante la piattaforma sono criptati e protetti dagli accessi non autorizzati.
+
+<sup>6</sup> I dati di cui all’articolo 8*a* capoverso 2 della legge sono conservati per 12 mesi sulla piattaforma per la comunicazione elettronica. In seguito vengono automaticamente distrutti.
+
+[^13a-1]: Introdotto dal n. I dell’O dell’8 nov. 2023, in vigore dal 1° gen. 2024 (RU **20****23** 671).
 
 ### Sezione 2: Finanziamento delle commissioni tripartite
 

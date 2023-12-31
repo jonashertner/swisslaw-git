@@ -4,11 +4,11 @@ title: Ordonnance du 21 mai 2003 sur les travailleurs détachés en Suisse (Odé
 short: Odét
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/232"
 language: fr
-version: 2023-01-01
+version: 2024-01-01
 adopted: 2003-05-21
 in_force: 2003-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/232/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2003-232-20230101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/232/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/232/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2003-232-20240101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/232/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/232/20230101/fr"
 
 (Odét)
 
-du 21 mai 2003 (État le 1<sup>er</sup> janvier 2023)
+du 21 mai 2003 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -358,6 +358,24 @@ La commission tripartite peut faire appel à des experts. Elle peut créer des g
 <sup>3</sup> La Confédération assure la formation initiale et la formation continue des membres des commissions tripartites et des commissions paritaires concernées.
 
 <sup>4</sup> Au besoin, la commission tripartite fédérale peut créer un groupe de coordination Confédération-cantons ad hoc ou permanent.
+
+#### Art. 13a
+
+**Plateforme de communication électronique**[^13a-1]
+
+<sup>1</sup> Le SECO est responsable de la sécurité des données sur la plateforme de communication électronique visée à l’art. 8*a* de la loi.
+
+<sup>2</sup> Il attribue aux collaborateurs des organes de contrôle visés à l’art. 7, al. 1, de la loi et des associations de contrôle mandatées par ces derniers les droits d’accès individuels dont ils ont besoin.
+
+<sup>3</sup> Les collaborateurs des organes de contrôle et des associations de contrôle mandatées par ces derniers accèdent à la plateforme de communication électronique au moyen d’une authentification à deux facteurs.
+
+<sup>4</sup> Ils déposent sur la plateforme de communication électronique les documents et renseignements nécessaires à l’accomplissement de leurs tâches conformément à l’art. 8, al. 1 et 2, de la loi, afin que d’autres collaborateurs puissent les consulter et les télécharger.
+
+<sup>5</sup> Les données transmises via la plateforme sont chiffrées et protégées contre tout accès non autorisé.
+
+<sup>6</sup> Les données d’après l’art. 8*a*, al. 2, de la loi sont conservées pendant 12 mois sur la plateforme de communication électronique. Elles sont ensuite automatiquement détruites.
+
+[^13a-1]: Introduit par le ch. I de l’O du 8 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 671](https://fedlex.data.admin.ch/eli/oc/2023/671)).
 
 ### Section 2 Financement des commissions tripartites
 
