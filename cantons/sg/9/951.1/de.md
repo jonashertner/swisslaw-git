@@ -4,13 +4,12 @@ number: "951.1"
 title: Gesetz über die Verwaltungsrechtspflege
 short: VRP
 language: de
-version: 2023-07-01
-valid_until: 2023-12-31
-version_adopted: 2022-06-14
+version: 2024-01-01
+version_adopted: 2023-11-14
 adopted: 1965-05-16
 in_force: 1966-07-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/951.1"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3515/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3574/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3515/pdf_file"
 
 (VRP)
 
-vom 16.05.1965 (Stand 01.07.2023)
+vom 16.05.1965 (Stand 01.01.2024)
 
 Der Grosse Rat des Kantons St.Gallen
 
@@ -835,7 +834,7 @@ als Gesetz:[^ingress-2]
 
 **b) gegen Verwaltungsbehörden**
 
-<sup>1</sup> Sofern kein ordentliches Rechtsmittel an eine Verwaltungsbehörde oder eine verwaltungsunabhängige Kommission des Bundes oder an das Bundesverwaltungsgericht offensteht, beurteilt das Verwaltungsgericht Beschwerden gegen Verfügungen und Entscheide der Regierung, der Departemente, der Rekursstellen Volksschule, des Bildungsrates, des Universitätsrates, des Rates der Pädagogischen Hochschule St.Gallen, der Organe der Ost – Ostschweizer Fachhochschule, des Verwaltungsrates der Gebäudeversicherung, des Kooperationsgremiums der E‑Government St.Gallen (eGovSG) und des Gesundheitsrates sowie der obersten Behörden der als öffentlich-rechtliche Körperschaft anerkannten Religionsgemeinschaften.
+<sup>1</sup> Sofern kein ordentliches Rechtsmittel an eine Verwaltungsbehörde oder eine verwaltungsunabhängige Kommission des Bundes oder an das Bundesverwaltungsgericht offensteht, beurteilt das Verwaltungsgericht Beschwerden gegen Verfügungen und Entscheide der Regierung, der Departemente, der Rekursstellen Volksschule, des Bildungsrates, des Universitätsrates und der Rekurskommission der Universität St.Gallen, des Rates der Pädagogischen Hochschule St.Gallen, der Organe der Ost – Ostschweizer Fachhochschule, des Verwaltungsrates der Gebäudeversicherung, des Kooperationsgremiums der E‑Government St.Gallen (eGovSG) und des Gesundheitsrates sowie der obersten Behörden der als öffentlich-rechtliche Körperschaft anerkannten Religionsgemeinschaften.
 
 <sup>2</sup> Die Beschwerde ist unzulässig:
 
