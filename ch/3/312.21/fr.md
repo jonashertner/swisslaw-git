@@ -4,11 +4,11 @@ title: Ordonnance du 7 novembre 2012 sur la protection extraprocédurale des té
 short: OTém
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/815"
 language: fr
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2012-11-07
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/815/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2012-815-20230901-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/815/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/815/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2012-815-20240101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/815/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/815/20230901/fr"
 
 (OTém)
 
-du 7 novembre 2012 (État le 1<sup>er</sup> septembre 2023)
+du 7 novembre 2012 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -82,9 +82,10 @@ La correspondance avec le Service de protection des témoins s’effectue:
 - c. par le corps de police cantonal compétent;
 - d. par courrier électronique ou par fax chiffré ou par mode de transmission protégé.
 
-<sup>2</sup> Pour le reste, les dispositions de l’ordonnance du 4 juillet 2007 concernant la protection des informations[^4-1] s’appliquent.
+<sup>2</sup> Pour le reste, les dispositions de l’ordonnance du 8 novembre 2023 sur la sécurité de l’information[^4-1] s’appliquent.[^4-2]
 
-[^4-1]: [RS 510.411](https://fedlex.data.admin.ch/eli/cc/2007/414)
+[^4-1]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^4-2]: Nouvelle teneur selon l’annexe 2 ch. II 13 de l’O du 8 nov. 2023 sur la sécurité de l’information, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
 
 ## Section 3 Fin du programme de protection des témoins
 
@@ -225,11 +226,12 @@ Lors de toute communication de données, le Service de protection des témoins i
 - a. de la nature, de la fiabilité et de l’actualité des données enregistrées dans ZEUSS;
 - b. des restrictions d’utilisation des données et du fait que le Service de protection des témoins se réserve le droit d’exiger des informations sur l’utilisation qui aura été faite de ces données.
 
-<sup>4</sup> Le traitement des données par le destinataire est régi par les dispositions de l’ordonnance du 4 juillet 2007 concernant la protection des informations[^12-1].
+<sup>4</sup> Le traitement des données par le destinataire est régi par les dispositions de l’ordonnance du 8 novembre 2023 sur la sécurité de l’information[^12-1].[^12-2]
 
 <sup>5</sup> La communication de données, ainsi que le destinataire, l’objet et le motif de la demande de renseignements doivent être enregistrés dans ZEUSS.
 
-[^12-1]: [RS 510.411](https://fedlex.data.admin.ch/eli/cc/2007/414)
+[^12-1]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^12-2]: Nouvelle teneur selon l’annexe 2 ch. II 13 de l’O du 8 nov. 2023 sur la sécurité de l’information, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
 
 #### Art. 13
 
@@ -262,15 +264,15 @@ Lors de toute communication de données, le Service de protection des témoins i
 La sécurité des données est garantie par:
 
 - a.[^15-1] l’ordonnance du 31 août 2022 sur la protection des données[^15-2];
-- b.[^15-3] l’ordonnance du 27 mai 2020 sur les cyberrisques[^15-4];
+- b.[^15-3] l’ordonnance du 8 novembre 2023 sur la sécurité de l’information[^15-4];
 - c.[^15-5] …
 
 <sup>2</sup> Le Service de protection des témoins prend les autres mesures nécessaires du point de vue organisationnel et technique pour empêcher les tiers non autorisés d’accéder aux données.
 
 [^15-1]: Nouvelle teneur selon l’annexe 2 ch. II 36 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^15-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^15-3]: Nouvelle teneur selon l’annexe ch. 14 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
-[^15-4]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^15-3]: Nouvelle teneur selon l’annexe 2 ch. II 13 de l’O du 8 nov. 2023 sur la sécurité de l’information, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^15-4]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
 [^15-5]: Abrogée par l’annexe ch. 14 de l’O du 24 fév. 2021, avec effet au 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 ## Section 6 Coopération internationale

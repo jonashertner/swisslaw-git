@@ -4,11 +4,11 @@ title: Verordnung vom 7. November 2012 über den ausserprozessualen Zeugenschutz
 short: ZeugSV
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/815"
 language: de
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2012-11-07
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/815/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2012-815-20230901-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/815/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/815/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2012-815-20240101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/815/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/815/20230901/de"
 
 (ZeugSV)
 
-vom 7. November 2012 (Stand am 1. September 2023)
+vom 7. November 2012 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -82,9 +82,10 @@ Der Schriftverkehr mit der Zeugenschutzstelle erfolgt:
 - c. via zuständiges kantonales Polizeikorps;
 - d. elektronisch oder per Fax jeweils verschlüsselt oder auf geschütztem Übertragungsweg.
 
-<sup>2</sup> Im Übrigen gelten die Bestimmungen der Informationsschutzverordnung vom 4. Juli 2007[^4-1].
+<sup>2</sup> Im Übrigen gelten die Bestimmungen der Informationssicherheitsverordnung vom 8. November 2023[^4-1].[^4-2]
 
-[^4-1]: [SR 510.411](https://fedlex.data.admin.ch/eli/cc/2007/414)
+[^4-1]: [SR 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^4-2]: Fassung gemäss Anhang 2 Ziff. II 13 der Informationssicherheitsverordnung vom 8. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
 
 ## 3. Abschnitt: Beendigung des Zeugenschutzprogramms
 
@@ -225,11 +226,12 @@ Die Zeugenschutzstelle informiert die Empfängerinnen und Empfänger bei jeder B
 - a. über die Art, die Bewertung und die Aktualität der Daten aus ZEUSS;
 - b. über die Beschränkung der Verwendung der Daten und darüber, dass die Zeugenschutzstelle sich vorbehält, Auskunft über die vorgenommene Verwendung zu verlangen.
 
-<sup>4</sup> Für die Bearbeitung der Daten durch die empfangende Stelle oder Person gelten die Bestimmungen der Informationsschutzverordnung vom 4. Juli 2007[^12-1].
+<sup>4</sup> Für die Bearbeitung der Daten durch die empfangende Stelle oder Person gelten die Bestimmungen der Informationssicherheitsverordnung vom 8. November 2023[^12-1].[^12-2]
 
 <sup>5</sup> Die Bekanntgabe von Daten, die empfangende Stelle oder Person und der Gegenstand und Grund des Auskunftsersuchens sind in ZEUSS zu registrieren.
 
-[^12-1]: [SR 510.411](https://fedlex.data.admin.ch/eli/cc/2007/414)
+[^12-1]: [SR 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^12-2]: Fassung gemäss Anhang 2 Ziff. II 13 der Informationssicherheitsverordnung vom 8. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
 
 #### Art. 13
 
@@ -262,15 +264,15 @@ Die Zeugenschutzstelle informiert die Empfängerinnen und Empfänger bei jeder B
 Für die Gewährleistung der Datensicherheit gelten:
 
 - a.[^15-1] die Datenschutzverordnung vom 31. August 2022[^15-2];
-- b.[^15-3] die Cyberrisikenverordnung vom 27. Mai 2020[^15-4];
+- b.[^15-3] die Informationssicherheitsverordnung vom 8. November 2023[^15-4];
 - c.[^15-5] …
 
 <sup>2</sup> Die Zeugenschutzstelle trifft die weiteren erforderlichen organisatorischen und technischen Massnahmen, um den Zugriff unbefugter Personen auf die Daten zu verhindern.
 
 [^15-1]: Fassung gemäss Anhang 2 Ziff. II 36 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^15-2]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^15-3]: Fassung gemäss Anhang Ziff. 14 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
-[^15-4]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^15-3]: Fassung gemäss Anhang 2 Ziff. II 13 der Informationssicherheitsverordnung vom 8. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^15-4]: [SR 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
 [^15-5]: Aufgehoben durch Anhang Ziff. 14 der V vom 24. Febr. 2021, mit Wirkung seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 ## 6. Abschnitt: Zusammenarbeit mit dem Ausland

@@ -4,11 +4,11 @@ title: Ordinanza del 7 novembre 2012 sulla protezione extraprocessuale dei testi
 short: OPTes
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/815"
 language: it
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2012-11-07
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/815/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2012-815-20230901-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/815/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/815/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2012-815-20240101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/815/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/815/20230901/it"
 
 (OPTes)
 
-del 7 novembre 2012 (Stato 1° settembre 2023)
+del 7 novembre 2012 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -82,9 +82,10 @@ La corrispondenza con il Servizio di protezione dei testimoni avviene:
 - c. mediante il competente corpo cantonale di polizia;
 - d. elettronicamente o via fax con una trasmissione cifrata o protetta.
 
-<sup>2</sup> Per il resto si applicano le disposizioni dell’ordinanza del 4 luglio 2007[^4-1] sulla protezione delle informazioni.
+<sup>2</sup> Per il resto si applicano le disposizioni dell’ordinanza dell’8 novembre 2023[^4-1] sulla sicurezza delle informazioni.[^4-2]
 
-[^4-1]: [RS 510.411](https://fedlex.data.admin.ch/eli/cc/2007/414)
+[^4-1]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^4-2]: Nuovo testo giusta l’all. 2 n. II 13 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
 
 ## Sezione 3: Fine del programma di protezione dei testimoni
 
@@ -225,11 +226,12 @@ In occasione di ogni trasmissione di dati il Servizio di protezione dei testimon
 - a. sulla natura, l’affidabilità e l’attualità dei dati registrati in ZEUSS;
 - b. sulle restrizioni d’uso dei dati e sul fatto che il Servizio di protezione dei testimoni si riserva il diritto di informarsi in merito all’impiego di tali dati.
 
-<sup>4</sup> Il trattamento dei dati da parte del destinatario sottostà alle disposizioni dell’ordinanza del 4 luglio 2007[^12-1] sulla protezione delle informazioni.
+<sup>4</sup> Il trattamento dei dati da parte del destinatario sottostà alle disposizioni dell’ordinanza dell’8 novembre 2023[^12-1] sulla sicurezza delle informazioni.[^12-2]
 
 <sup>5</sup> La trasmissione di dati, il destinatario, l’oggetto e il motivo della richiesta d’informazione devono essere registrati in ZEUSS.
 
-[^12-1]: [RS 510.411](https://fedlex.data.admin.ch/eli/cc/2007/414)
+[^12-1]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^12-2]: Nuovo testo giusta l’all. 2 n. II 13 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
 
 #### Art. 13
 
@@ -262,15 +264,15 @@ In occasione di ogni trasmissione di dati il Servizio di protezione dei testimon
 Per garantire la sicurezza dei dati si applicano:
 
 - a.[^15-1] l’ordinanza del 31 agosto 2022[^15-2] sulla protezione dei dati;
-- b.[^15-3] l’ordinanza del 27 maggio 2020[^15-4] sui ciber-rischi;
+- b.[^15-3] l’ordinanza dell’8 novembre 2023[^15-4] sulla sicurezza delle informazioni;
 - c.[^15-5] ...
 
 <sup>2</sup> Il Servizio di protezione dei testimoni adotta le ulteriori misure organizzative e tecniche necessarie per impedire che persone non autorizzate accedano ai dati.
 
 [^15-1]: Nuovo testo giusta l’all. 2 n. II 36 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^15-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^15-3]: Nuovo testo giusta l’all. n. 14 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
-[^15-4]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^15-3]: Nuovo testo giusta l’all. 2 n. II 13 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^15-4]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
 [^15-5]: Abrogata dall’all. n. 14 dell’O del 24 feb. 2021, con effetto dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 ## Sezione 6: Cooperazione con l’estero
