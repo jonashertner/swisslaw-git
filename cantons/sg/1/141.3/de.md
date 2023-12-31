@@ -4,13 +4,13 @@ number: "141.3"
 title: Geschäftsreglement der Regierung und der Staatskanzlei
 short: GeschR
 language: de
-version: 2021-10-01
-valid_until: 2023-12-31
-version_adopted: 2021-06-29
+version: 2024-01-01
+valid_until: 2024-12-31
+version_adopted: 2023-11-21
 adopted: 1951-12-07
 in_force: 1952-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/141.3"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3257/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3554/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3257/pdf_file"
 
 (GeschR)
 
-vom 07.12.1951 (Stand 01.10.2021)
+vom 07.12.1951 (Stand 01.01.2024)
 
 Landammann und Regierungsrat des Kantons St.Gallen
 
@@ -377,8 +377,13 @@ verordnen:[^ingress-1]
 - c) die Verbreitung von amtlichen Informationen durch Medienmitteilungen und Medienorientierungen sowie über den Internet-Auftritt des Kantons;
 - d) die Ausfertigung und der Versand der von der Regierung oder vom Regierungspräsidenten ausgehenden Schriftstücke;
 - e) die Herausgabe der Gesetzessammlung, des Amtsblattes, des Staatskalenders und allfälliger weiterer Veröffentlichungen;
-- e<sup>bis</sup>) die Leitung von und die Mitwirkung in Rechtsetzungsvorhaben im Auftrag der Regierung oder in Zusammenarbeit mit dem zuständigen Departement;
+- e<sup>bis</sup>) die Mitwirkung in Rechtsetzungsvorhaben in Zusammenarbeit mit dem zuständigen Departement;
 - e<sup>ter</sup>) die Vorprüfung von Erlassentwürfen der Departemente;
+- e<sup>ter</sup>1) die fachliche Verantwortung betreffend Rechtsetzung in den Bereichen:
+  - 1\. allgemeines Verfassungs- und Staatsrecht;
+  - 2\. amtliche Publikationen;
+  - 3\. politische Rechte;
+  - 4\. Datenschutz auf eidgenössischer und kantonaler Ebene;
 - e<sup>quater</sup>) Beratung und Wissensvermittlung in Rechtsetzungsfragen;
 - e<sup>quinquies</sup>) die Wahrnehmung der Aufgaben im Bereich politische Planung und Controlling[^35-1];
 - e<sup>sexies</sup>) die Geschäftsführung der Generalsekretäre-Konferenz[^35-2];
@@ -387,7 +392,7 @@ verordnen:[^ingress-1]
 - f<sup>bis</sup>) die fachliche Verantwortung für Einführung, Wartung und Pflege für die elektronische Geschäftsverwaltung von Departementen, Regierung und Kantonsrat. Ausgenommen sind die Zuständigkeiten des Staatsarchivs in der Aktenführung und Archivierung;
 - f<sup>ter</sup>) der Postdienst für die Departemente, die Staatskanzlei und die Gerichte;
 - g) die Beglaubigung von Unterschriften;
-- h) der Einzug der Gebühren der Regierung und der Staatskanzlei.
+- h) …
 
 [^35-1]: [Art. 40](https://www.gesetzessammlung.sg.ch/data/140.1/de/art40) des Staatsverwaltungsgesetzes vom 16. Juni 1994, sGS [140.1](https://www.gesetzessammlung.sg.ch/data/140.1/de).
 [^35-2]: [Art. 35](https://www.gesetzessammlung.sg.ch/data/140.1/de/art35) Abs. 3 des Staatsverwaltungsgesetzes vom 16. Juni 1994, sGS [140.1](https://www.gesetzessammlung.sg.ch/data/140.1/de).
@@ -419,7 +424,21 @@ verordnen:[^ingress-1]
 
 **…**
 
-## V. Schlussbestimmung
+## IV<sup>bis</sup>. Gebühren der Regierung
+
+#### Art. 37bis
+
+**Gebühreneinzug**
+
+<sup>1</sup> Die Departemente und die Staatskanzlei ziehen die Gebühren der Regierung in ihrem jeweiligen Zuständigkeitsbereich ein.
+
+## V. Schlussbestimmungen
+
+#### Art. 37ter
+
+**Übergangsbestimmung des XVII. Nachtrags vom 21. November 2023**
+
+<sup>1</sup> Der Einzug von Gebühren der Regierung in Verfahren, in denen der Entscheid der Regierung bei Vollzugsbeginn dieses Nachtrags bereits erfolgt ist, obliegt der Staatskanzlei.
 
 #### Art. 38
 
