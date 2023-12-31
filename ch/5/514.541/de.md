@@ -4,11 +4,11 @@ title: "Verordnung vom 2. Juli 2008 über Waffen, Waffenzubehör und Munition (W
 short: WV
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/767"
 language: de
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2008-07-02
 in_force: 2008-12-12
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/767/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2008-767-20230901-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/767/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/767/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2008-767-20240101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/767/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/767/20230901/de"
 
 (Waffenverordnung, WV)
 
-vom 2. Juli 2008 (Stand am 1. September 2023)
+vom 2. Juli 2008 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -1720,7 +1720,7 @@ Auf die Daten der DEBBWA haben ausserdem folgende Behörden im Abrufverfahren Zu
 
 #### Art. 64
 
-**[Bekanntgabe der Daten an einen Staat, der durch keines der Schengen-Assoziierungsabkommen gebunden ist](https://www.fedlex.admin.ch/eli/cc/2008/767/de)**[^64-1]
+**Bekanntgabe der Daten an einen Staat, der durch keines der Schengen-Assoziierungsabkommen gebunden ist**[^64-1]
 
 ### (Art. 32*e* WG)
 
@@ -1782,15 +1782,16 @@ Das Anbieten von Personendaten aus der Datenbank nach Artikel 59*a* an das Bunde
 Die Gewährleistung der Datensicherheit richtet sich nach:
 
 - a.[^66c-2] der DSV[^66c-3];
-- b. der Cyberrisikenverordnung vom 27. Mai 2020[^66c-4].[^66c-5]
+- b.[^66c-4] der Informationssicherheitsverordnung vom 8. November 2023[^66c-5].[^66c-6]
 
 <sup>2</sup> Die Zentralstelle Waffen trifft die erforderlichen organisatorischen Massnahmen, um den unbefugten Zugriff auf die Daten zu verhindern.
 
 [^66c-1]: Eingefügt durch Ziff. I der V vom 21. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
 [^66c-2]: Fassung gemäss Anhang 2 Ziff. II 65 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^66c-3]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^66c-4]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^66c-5]: Fassung gemäss Anhang Ziff. 11 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^66c-4]: Fassung gemäss Anhang 2 Ziff. II 32 der Informationssicherheitsverordnung vom 8. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^66c-5]: [SR 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^66c-6]: Fassung gemäss Anhang Ziff. 11 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 66d
 

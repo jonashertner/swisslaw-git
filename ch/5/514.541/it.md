@@ -4,11 +4,11 @@ title: "Ordinanza del 2 luglio 2008 sulle armi, gli accessori di armi e le muniz
 short: OArm
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/767"
 language: it
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2008-07-02
 in_force: 2008-12-12
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/767/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2008-767-20230901-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/767/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/767/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2008-767-20240101-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/767/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/767/20230901/it"
 
 (Ordinanza sulle armi, OArm)
 
-del 2 luglio 2008 (Stato 1° settembre 2023)
+del 2 luglio 2008 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -1358,6 +1358,8 @@ L’Ufficio centrale Armi rilascia la bolletta di scorta se:
 
 <sup>4</sup> Se gli oggetti sono esportati dal titolare di una patente di commercio di armi per essere recapitati a una persona autorizzata al commercio di armi nel luogo di destinazione, le indicazioni di cui al capoverso 2 lettere d ed e, nonché gli allegati di cui al capoverso 3 lettera c non sono necessari.[^44-3]
 
+<sup>5</sup> Se l’attestazione di cui al capoverso 4 lettera b non può essere presentata, l’Ufficio centrale Armi può rilasciarne una.
+
 [^44-1]: Nuovo testo giusta il n. I dell’O del 4 giu. 2010, in vigore dal 28 lug. 2010 ([RU 2010 2827](https://fedlex.data.admin.ch/eli/oc/2010/370)).
 [^44-2]: Nuovo testo giusta il n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2117](https://fedlex.data.admin.ch/eli/oc/2016/343)).
 [^44-3]: Nuovo testo giusta il n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2117](https://fedlex.data.admin.ch/eli/oc/2016/343)).
@@ -1780,15 +1782,16 @@ L’offerta di dati personali della banca dati di cui all’articolo 59*a* all�
 La sicurezza dei dati è retta:
 
 - a.[^66c-2] dall’OPDa[^66c-3];
-- b. dall’ordinanza del 27 maggio 2020[^66c-4] sui ciber-rischi.[^66c-5]
+- b.[^66c-4] dall’ordinanza dell’8 novembre 2023[^66c-5] sulla sicurezza delle informazioni.[^66c-6]
 
 <sup>2</sup> L’Ufficio centrale Armi adotta le misure organizzative necessarie per impedire l’accesso non autorizzato ai dati.
 
 [^66c-1]: Introdotto dal n. I dell’O del 21 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
 [^66c-2]: Nuovo testo giusta l’all. 2 n. II 65 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^66c-3]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^66c-4]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^66c-5]: Nuovo testo giusta l’all. n. 11 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^66c-4]: Nuovo testo giusta l’all. 2 n. II 32 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^66c-5]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^66c-6]: Nuovo testo giusta l’all. n. 11 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 66d
 
@@ -2042,7 +2045,7 @@ vuoto = nessun accesso
 <tr><td>Consulente per la protezione dei dati</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 </table>
 
-Sistemi di polizia e identificazione fedpol
+### Sistemi di polizia e identificazione fedpol
 
 <table>
 <tr><th></th><th>DEWA</th><th>DEWS</th><th>DEBBWA</th><th>DAWA</th><th>DARUE</th><th>DANTRAG</th><th>Sistema d’informazione di cui all’art. 32*a* cpv. 3 LArm</th></tr>

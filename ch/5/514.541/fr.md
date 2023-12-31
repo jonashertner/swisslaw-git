@@ -4,11 +4,11 @@ title: "Ordonnance du 2 juillet 2008 sur les armes, les accessoires d'armes et l
 short: OArm
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/767"
 language: fr
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2008-07-02
 in_force: 2008-12-12
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/767/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2008-767-20230901-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/767/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/767/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-767-20240101-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/767/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/767/20230901/fr"
 
 (Ordonnance sur les armes, OArm)
 
-du 2 juillet 2008 (État le 1<sup>er</sup> septembre 2023)
+du 2 juillet 2008 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -1793,15 +1793,16 @@ Les données personnelles issues de la banque de données visée à l’art. 59*
 La sécurité des données est garantie conformément à:
 
 - a.[^66c-2] l’OPDo[^66c-3];
-- b. l’ordonnance du 27 mai 2020 sur les cyberrisques[^66c-4].[^66c-5]
+- b.[^66c-4] l’ordonnance du 8 novembre 2023 sur la sécurité de l’information[^66c-5].[^66c-6]
 
 <sup>2</sup> L’OCA prend les mesures nécessaires du point de vue organisationnel pour empêcher les accès non autorisés aux données.
 
 [^66c-1]: Introduit par le ch. I de l’O du 21 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
 [^66c-2]: Nouvelle teneur selon l’annexe 2 ch. II 65 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^66c-3]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^66c-4]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^66c-5]: Nouvelle teneur selon l’annexe ch. 11 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^66c-4]: Nouvelle teneur selon l’annexe 2 ch. II 32 de l’O du 8 nov. 2023 sur la sécurité de l’information, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^66c-5]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^66c-6]: Nouvelle teneur selon l’annexe ch. 11 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 66d
 
