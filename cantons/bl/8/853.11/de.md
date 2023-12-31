@@ -4,13 +4,13 @@ number: "853.11"
 title: Verordnung über die Behindertenhilfe
 short: BHV
 language: de
-version: 2020-11-01
-valid_until: 2023-12-31
-version_adopted: 2020-10-20
+version: 2024-01-01
+valid_until: 2024-12-31
+version_adopted: 2023-11-28
 adopted: 2016-12-06
 in_force: 2017-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/853.11"
-pdf: "https://bl.clex.ch/api/de/versions/2744/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3993/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/2744/pdf_file"
 
 (BHV)
 
-Vom 06.12.2016 (Stand 01.11.2020)
+Vom 06.12.2016 (Stand 01.01.2024)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -161,7 +161,7 @@ beschliesst:
 
 - a. bei der erstmaligen Inanspruchnahme von Leistungen in den Lebensbereichen Wohnen und Tagesstruktur, die innerhalb von anerkannten Institutionen gemäss IFEG erbracht werden, ausser wenn ausschliesslich Leistungen im Lebensbereich Tagesstruktur in Anspruch genommen werden wollen oder wenn der Standortkanton der Institution ein vergleichbares Bedarfsermittlungsverfahren für IBBplus kennt;
 - a<sup>bis</sup>. bei der nachträglichen Inanspruchnahme von Leistungen im Lebensbereich Wohnen zusätzlich zu Leistungen des Lebensbereichs Tagesstruktur;
-- b. bei der Inanspruchnahme von Leistungen von ambulanten Leistungen, die in selbständigen Wohnformen durch in den Kantonen Basel-Landschaft und Basel-Stadt anerkannte Institutionen oder nicht institutionelle Anbietende erbracht werden und zwar bei der erstmaligen Inanspruchnahme sowie bei der Überprüfung des individuellen Bedarfs;
+- b. bei der Inanspruchnahme von ambulanten Leistungen, die in selbständigen Wohnformen durch in den Kantonen Basel-Landschaft und Basel-Stadt anerkannte Institutionen oder nicht institutionelle Anbietende erbracht werden und zwar bei der erstmaligen Inanspruchnahme sowie bei der Überprüfung des individuellen Bedarfs;
 - c. bei Zusatzbedarf bzw. Sonderbedarf.
 
 <sup>6</sup> Die individuelle Bedarfsermittlung erfolgt in folgenden Fällen mittels IBBplus:
@@ -275,7 +275,7 @@ beschliesst:
 
 **Bedarfsüberprüfung**
 
-<sup>1</sup> Die Überprüfung des Bedarfs richtet sich nach den Vorgaben der Bedarfsermittlung gemäss den §§ 11 und 12 dieser Verordnung. Sie erfolgt bei Bedarfsermittlungen gemäss IBBplus in der Regel jährlich und bei Bedarfsermittlungen gemäss IHP auf den Ablauf der Befristung des Hilfeplans hin, jedoch spätestens nach 3 Jahren, bzw. bei Zusatzbedarf bzw. Sonderbedarf spätestens nach 1 Jahr mittels Zielüberprüfungsbogen. Eine frühere Überprüfung ist auf begründeten Antrag der Person mit Behinderung möglich.
+<sup>1</sup> Die Überprüfung des Bedarfs richtet sich nach den Vorgaben der Bedarfsermittlung gemäss den §§ 11 und 12 dieser Verordnung. Sie erfolgt bei Bedarfsermittlungen gemäss IBBplus in der Regel jährlich und bei Bedarfsermittlungen gemäss IHP auf den Ablauf der Befristung des Hilfeplans hin, jedoch spätestens nach 3 Jahren. Eine frühere Überprüfung ist auf begründeten Antrag der Person mit Behinderung möglich.
 
 <sup>2</sup> Bei Neueintritten, die gemäss § 8 von einer IHP-Bedarfsstufe in eine IBB-Bedarfsstufe umgerechnet wurden, ist nach 3 Monaten eine Bedarfsüberprüfung gemäss IBBplus durch die Institution gemäss IFEG vorzunehmen.
 
@@ -283,7 +283,7 @@ beschliesst:
 
 <sup>4</sup> Auf Erreichen der Altersgrenze der AHV erfolgt im Lebensbereich Tagesstruktur immer eine Überprüfung.
 
-<sup>5</sup> Eine Überprüfung von Amtes wegen ist jederzeit möglich.
+<sup>5</sup> Eine Überprüfung von Amts wegen ist jederzeit möglich.
 
 #### § 18
 
@@ -317,11 +317,13 @@ beschliesst:
 
 **Festlegung der Normkosten für personale IFEG-Leistungen**
 
-<sup>1</sup> Für personale Leistungen in den Bereichen Wohnen, Tagesgestaltung und Arbeit gemäss IFEG legt der Regierungsrat auf der Basis von Kosten-, Leistungs- und Bedarfsdaten die Normkosten jährlich in Form von Normtaxpunkten (TaxpunktNorm) fest.
+<sup>1</sup> Für personale Leistungen in den Bereichen Wohnen, Tagesgestaltung und Arbeit gemäss IFEG legt der Regierungsrat auf der Basis von Kosten-, Leistungs- und Bedarfsdaten die Normkosten in Form von Normtaxpunkten (TaxpunktNorm) alle 4 Jahre, erstmals auf den 1. Januar 2025, fest.
 
 <sup>2</sup> Der Regierungsrat berücksichtigt bei der Festlegung des Taxpunktwertes die Ist-Kosten und den Betreuungsbedarf in den beiden Kantonen Basel-Stadt und Basel-Landschaft pro Leistungsbereich sowie insbesondere die regulatorischen und finanzpolitischen Rahmenbedingungen als auch die Preis- und Lohnentwicklungen der für die Behindertenhilfe kostenrelevanten Faktoren. Er kann zudem die IBB-Vergleichswerte anderer Kantone berücksichtigen.
 
 <sup>3</sup> …
+
+<sup>4</sup> Während der 4-jährigen Geltungsdauer der Normtaxpunkte wird jährlich ein automatischer Teuerungsausgleich gewährt. Dieser beruht auf der Entwicklung des Basler Index der Konsumentenpreise der Jahresteuerung zum Juni (Juni-Index) des Vorjahres. Weist der Juni-Index eine negative Entwicklung aus, findet keine Anpassung des Teuerungsausgleichs statt. Dieser erfolgt erst wieder, wenn der kumulierte Wert positiv ist. Der Regierungsrat kann den automatischen Teuerungsausgleich reduzieren oder nicht gewähren, wenn sich die finanzpolitischen Rahmenbedingungen seit Beginn der Geltungsdauer der Normtaxpunkte erheblich verändert haben.
 
 #### § 21
 
@@ -369,9 +371,11 @@ beschliesst:
 
 **Festlegung der Normkosten für nicht personale IFEG-Leistungen**
 
-<sup>1</sup> Für nicht personale IFEG-Leistungen in den Bereichen Wohnen, Tagesgestaltung und Arbeit legt der Regierungsrat die jeweiligen Objektnormkosten fest (ObjektkostenNorm).
+<sup>1</sup> Für nicht personale IFEG-Leistungen in den Bereichen Wohnen, Tagesgestaltung und Arbeit legt der Regierungsrat die jeweiligen Objektnormkosten (ObjektkostenNorm) alle 4 Jahre, erstmals auf den 1. Januar 2025, fest.
 
 <sup>2</sup> Der Regierungsrat berücksichtigt bei der Festlegung der Objektnormkosten die Ist-Kosten und die Leistungsmenge in den beiden Kantonen Basel-Stadt und Basel-Landschaft pro Leistungsbereich, sowie insbesondere die regulatorischen und finanzpolitischen Rahmenbedingungen sowie die Preisentwicklungen der für die Leistungserbringung relevanten Faktoren. Er kann zudem die IBB-Vergleichswerte anderer Kantone berücksichtigen.
+
+<sup>2<sup>bis</sup></sup> Während der 4-jährigen Geltungsdauer der Objektnormkosten wird jährlich ein automatischer Teuerungsausgleich gewährt. Dieser beruht auf der Entwicklung des Basler Index der Konsumentenpreise der Jahresteuerung zum Juni (Juni-Index) des Vorjahres. Weist der Juni-Index eine negative Entwicklung aus, findet keine Anpassung des Teuerungsausgleichs statt. Dieser erfolgt erst wieder, wenn der kumulierte Wert positiv ist. Der Regierungsrat kann den automatischen Teuerungsausgleich reduzieren oder nicht gewähren, wenn sich die finanzpolitischen Rahmenbedingungen seit Beginn der Geltungsdauer der Objektkosten erheblich verändert haben.
 
 <sup>3</sup> Der Regierungsrat kann für Gruppen von Institutionen mit ähnlicher Angebotsstruktur unterschiedliche Normkosten definieren.
 
@@ -425,7 +429,9 @@ beschliesst:
 
 **Festlegung der Normkosten für ambulante personale Leistungen**
 
-<sup>1</sup> Für personale ambulante Leistungen legt der Regierungsrat die Normkosten pro anrechenbare (direkte) Begleitstunde in Form eines Referenzansatzes für die Fachleistungsstunde im Bereich Wohnen am Tag bei institutionellen Leistungserbringenden fest.
+<sup>1</sup> Für personale ambulante Leistungen legt der Regierungsrat die Normkosten pro anrechenbare, direkte Begleitstunde in Form eines Referenzansatzes für die Fachleistungsstunde im Bereich Wohnen am Tag bei institutionellen Leistungserbringenden alle 4 Jahre, erstmals auf den 1. Januar 2025, fest.
+
+<sup>1<sup>bis</sup></sup> Der Teuerungsausgleich wird analog zu § 20 Abs. 4 gewährt.
 
 <sup>2</sup> Die Stundenansätze für die anderen Leistungstypen institutioneller ambulanter personaler Leistungen ergeben sich durch Multiplikation des Stundenansatzes gemäss Abs. 1 mit den Faktoren aus der nachfolgenden Tabelle:
 
@@ -440,15 +446,17 @@ beschliesst:
 
 <sup>3</sup> Für die Festlegung der Bedarfsstufe im Bereich Tagesstruktur kommen die Fachleistungsstunden institutionell Wohnen am Tag sowie die Assistenzstunde institutionell Wohnen am Tag zur Anwendung.
 
-<sup>4</sup> Die Stundenansätze für Assistenzleistungen für Wohnen am Tag und in der Nacht bei nicht institutionellem Leistungsbezug legt der Regierungsrat jährlich fest.
+<sup>4</sup> Die Stundenansätze für Assistenzleistungen für Wohnen am Tag und in der Nacht bei nicht institutionellem Leistungsbezug legt der Regierungsrat alle 4 Jahre, erstmals auf den 1. Januar 2025, fest.
 
-<sup>5</sup> Leistungen zur Unterstützung des betreuenden familiären Umfelds werden als Pauschalen für Assistenz ausgerichtet.
+<sup>5</sup> Leistungen zur Unterstützung des betreuenden familiären Umfelds werden als Pauschalen für Assistenz ausgerichtet. Der Regierungsrat legt die Pauschalen pro Stunde alle 4Jahre, erstmals auf den 1. Januar 2025, fest.
 
 #### § 28
 
 **Festlegung der Normkosten für ambulante nicht personale Leistungen**
 
-<sup>1</sup> Für ambulante, nicht personale Leistungen im institutionellen Bereich legt der Regierungsrat Normkosten pro Fachleistungsstunde fest.
+<sup>1</sup> Für ambulante, nicht personale Leistungen im institutionellen Bereich legt der Regierungsrat Normkosten pro Fachleistungsstunde alle 4 Jahre, erstmals auf den 1. Januar 2025, fest.
+
+<sup>2</sup> Der Teuerungsausgleich wird analog zu § 23 Abs. 2<sup>bis</sup> gewährt.
 
 ### 3.2 Festlegung der Kosten des Sonderbedarfs, des Zusatzbedarfs und des ausserkantonalen Leistungsbezugs
 
