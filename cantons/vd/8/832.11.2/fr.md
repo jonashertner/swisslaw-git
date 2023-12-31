@@ -4,7 +4,7 @@ number: "832.11.2"
 title: "ARRÊTÉ du 23.05.2012 fixant les montants destinés à couvrir la part du coût, non prise en charge par l'assurance-maladie (financement résiduel), des soins effectués par des infirmiers et infirmières exerçant de façon professionnellement indépendante et par des organisations de soins à domicile privées (AFinRés)"
 short: AFinRés
 language: fr
-version: 2021-01-01
+version: 2024-01-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/832.11.2?id=5d4b1746-8549-4fa0-9a2a-d9c14c789811"
 ---
 
@@ -42,11 +42,11 @@ arrête
 <sup>1</sup> Le présent arrêté a pour but de fixer les montants destinés à couvrir la part du coût, non prise en charge par l'assurance-maladie (financement résiduel), des soins délivrés à des patients domiciliés dans le Canton de Vaud effectués par :
 
 - a. des infirmiers et infirmières exerçant de façon professionnellement indépendante, autorisés à pratiquer dans le Canton de Vaud, et
-- b. des organisations de soins à domicile privées autorisées à exercer dans le Canton de Vaud, en distinguant celles qui dispensent leurs prestations sur une aire géographique délimitée par au moins l'entier d'un réseau de soins (Osàd de type 1) des autres (Osàd de type 2).
+- b. des organisations de soins à domicile privées autorisées à exercer dans le Canton de Vaud.
 
 <sup>2</sup> La loi sur l'Association vaudoise d'aide et de soins à domicile (LAVASAD)[^1-1] est réservée.
 
-[^t-1]: Modif. 4 du 17.04.2024: Modification Al. 1, b; entrée en vigueur au 01.01.2024; Introduction Art. 3, Al. 1bis,4; entrée en vigueur au 01.01.2024; Introduction Annexes, Ann. 3; entrée en vigueur au 01.01.2024
+[^t-1]: Modif. 4 du 17.04.2024: Modification Al. 1, b; entrée en vigueur au 01.01.2024
 [^1-1]: Loi du 06.10.2009 sur l'Association vaudoise d'aide et de soins à domicile ([BLV 801.11](https://prestations.vd.ch/pub/blv-publication/actes/consolide/801.11?id=6ac3d501-1d6c-410c-b8bd-8ccde4be8136))
 
 #### Art. 2
@@ -69,13 +69,17 @@ arrête
 
 <sup>1</sup> Les montants, par heure, couvrant le financement résiduel pour les soins délivrés par les infirmiers et infirmières exerçant de façon professionnellement indépendante, sont définis à l'annexe I.
 
+<sup>1bis</sup> Suite à la décision du Conseil d'Etat d'augmenter dans le cadre du budget 2023 les rétributions de 1.4% des employés de l'Administration cantonale et des secteurs parapublics, les infirmiers et infirmières exerçant de façon professionnellement indépendante, autorisés à pratiquer dans le Canton de Vaud, peuvent bénéficier sur demande de montants supplémentaires rétroactifs pour l'année 2023 conformément à l'annexe III.
+
 <sup>2</sup> Les montants, par heure, couvrant le financement résiduel pour les soins délivrés par les organisations de soins à domicile privées, sont définis à l'annexe II.
 
-<sup>2bis</sup> Les modalités d'octroi de la contribution de l'Etat au surcoût de la bascule sur la grille salariale HRC sont définies par le département.
+<sup>2bis</sup> Les organisations de soins à domicile privées autorisées à exercer dans le Canton de Vaud, qui ont octroyé de manière effective l'indexation de 1.4% à leur personnel, suite à la décision du Conseil d'Etat, dans le cadre du budget 2023, d'augmenter les rétributions de 1.4% des employés de l'Administration cantonale et des secteurs parapublics, peuvent bénéficier sur demande de montants supplémentaires rétroactifs pour l'année 2023 conformément à l'annexe III.
 
 <sup>3</sup> Aucune participation n'est demandée au patient pour le financement résiduel.
 
-[^2-2]: Modif. 3 du 20.01.2021: Introduction Al. 2bis; entrée en vigueur au 01.01.2021 · Modif. 4 du 17.04.2024: Introduction Al. 1bis; entrée en vigueur au 01.01.2024; Modification Al. 2bis; entrée en vigueur au 01.01.2024; Introduction Al. 4; entrée en vigueur au 01.01.2024; Introduction Annexes, Ann. 3; entrée en vigueur au 01.01.2024 · Modif. 7 du 29.06.2026: Modification Al. 2; entrée en vigueur au 29.06.2026; Introduction Annexes, Ann. 4; entrée en vigueur au 29.06.2026
+<sup>4</sup> Le Département peut décider de confier la gestion du flux de facturation des prestations à la Centrale d'encaissement des établissements sanitaires vaudois (CEESV), selon les conditions définies par cette dernière et le Département.
+
+[^2-2]: Modif. 3 du 20.01.2021: Introduction Al. 2bis; entrée en vigueur au 01.01.2021 · Modif. 4 du 17.04.2024: Introduction Al. 1bis; entrée en vigueur au 01.01.2024; Modification Al. 2bis; entrée en vigueur au 01.01.2024; Introduction Al. 4; entrée en vigueur au 01.01.2024 · Modif. 7 du 29.06.2026: Modification Al. 2; entrée en vigueur au 29.06.2026; Introduction Annexes, Ann. 4; entrée en vigueur au 29.06.2026
 
 #### Art. 3a
 
@@ -101,10 +105,14 @@ Annexes [^4-1]
 
 1
 
-[Annexe I](https://prestations.vd.ch/pub/blv-publication/api/actes/5d4b1746-8549-4fa0-9a2a-d9c14c789811/annexes/1?dmev=01.01.2021)
+[Annexe I](https://prestations.vd.ch/pub/blv-publication/api/actes/5d4b1746-8549-4fa0-9a2a-d9c14c789811/annexes/1?dmev=01.01.2024)
 
 2
 
-[Annexe II](https://prestations.vd.ch/pub/blv-publication/api/actes/5d4b1746-8549-4fa0-9a2a-d9c14c789811/annexes/2?dmev=01.01.2021)
+[Annexe II](https://prestations.vd.ch/pub/blv-publication/api/actes/5d4b1746-8549-4fa0-9a2a-d9c14c789811/annexes/2?dmev=01.01.2024)
 
-[^4-1]: Modif. 2 du 11.12.2019: Modification Annexes, Ann. 1-2; entrée en vigueur au 01.01.2020 · Modif. 3 du 20.01.2021: Modification Annexes, Ann. 2; entrée en vigueur au 01.01.2021 · Modif. 4 du 17.04.2024: Introduction Art. 3, Al. 1bis,4; entrée en vigueur au 01.01.2024; Modification Annexes, Ann. 1-2; entrée en vigueur au 01.01.2024; Introduction Annexes, Ann. 3; entrée en vigueur au 01.01.2024 · Modif. 5 du 03.07.2024: Modification Annexes, Ann. 2; entrée en vigueur au 01.01.2024 · Modif. 6 du 03.12.2025: Modification Annexes, Ann. 1-2; entrée en vigueur au 01.01.2025 · Modif. 7 du 29.06.2026: Introduction Annexes, Ann. 4; entrée en vigueur au 29.06.2026
+3
+
+[Annexe III](https://prestations.vd.ch/pub/blv-publication/api/actes/5d4b1746-8549-4fa0-9a2a-d9c14c789811/annexes/3?dmev=01.01.2024)
+
+[^4-1]: Modif. 2 du 11.12.2019: Modification Annexes, Ann. 1-2; entrée en vigueur au 01.01.2020 · Modif. 3 du 20.01.2021: Modification Annexes, Ann. 2; entrée en vigueur au 01.01.2021 · Modif. 4 du 17.04.2024: Modification Annexes, Ann. 1-2; entrée en vigueur au 01.01.2024; Introduction Annexes, Ann. 3; entrée en vigueur au 01.01.2024 · Modif. 5 du 03.07.2024: Modification Annexes, Ann. 2; entrée en vigueur au 01.01.2024 · Modif. 6 du 03.12.2025: Modification Annexes, Ann. 1-2; entrée en vigueur au 01.01.2025 · Modif. 7 du 29.06.2026: Introduction Annexes, Ann. 4; entrée en vigueur au 29.06.2026
