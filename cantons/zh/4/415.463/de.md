@@ -3,11 +3,10 @@ canton: ZH
 number: "415.463"
 title: Verordnung über die Promotion an der Mathematisch-naturwissenschaftlichen Fakultät der Universität Zürich (Promotionsverordnung)
 language: de
-version: "2019-04-01"
-nachtrag: "105"
-valid_until: 2024-01-01
+version: "2024-01-01"
+nachtrag: "123"
 adopted: 2011-01-31
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-415_463-2011_01_31-2011_05_02-105.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-415_463-2011_01_31-2011_05_02-123.html"
 text: pdf
 ---
 
@@ -58,9 +57,13 @@ Der Universitätsrat beschliesst:
 
 **1**
 
-- 1\. 7. 19 - 105
+- 1\. 1. 24 - 123
 
-### II. Zweck und Titel
+[^4-1]: Fassung gemäss B vom 30. Oktober 2023 (OS 78, 472; ABl 2023-11-10). In Kraft seit 1. Januar 2024.
+
+### II. Zweck und Grad
+
+[^4-1]
 
 #### § 5
 
@@ -68,11 +71,11 @@ Der Universitätsrat beschliesst:
 
 Die Promotion dient dem Nachweis der Fähigkeit der Kandidatin bzw. des Kandidaten, durch eine selbstständige wissenschaftliche Forschungsleistung neue Erkenntnisse zu gewinnen und zu kommunizieren.
 
-#### § 6
+**Grad**
 
-**Titel**
+§ 6.[^5-1] Die Fakultät verleiht den Grad einer Doktorin bzw. eines Doktors der Naturwissenschaften (Dr. sc. nat.; englisch: Doctor of Philosophy, PhD).
 
-Die Fakultät verleiht den Titel einer Doktorin bzw. eines Doktors der Naturwissenschaften (Dr. sc. nat.).
+[^5-1]: Fassung gemäss B vom 30. Oktober 2023 (OS 78, 472; ABl 2023-11-10). In Kraft seit 1. Januar 2024.
 
 ### III. Zulassung zur Doktoratsstufe
 
@@ -150,7 +153,7 @@ Die Unterrichtssprache auf der Doktoratsstufe ist in der Regel Englisch. Alle Be
 
 **3**
 
-- 1\. 7. 19 - 105
+- 1\. 1. 24 - 123
 
 <sup>4</sup> An anderen wissenschaftlichen Institutionen erworbene ECTS Credits können von der Promotionskommission[^12-1] anerkannt oder angerechnet werden, sofern sie gleichwertig sind. Über die Gleichwertigkeit entscheidet die Prodekanin Lehre bzw. der Prodekan Lehre.
 
@@ -230,7 +233,7 @@ Bei Doktorierenden, die in einem Anstellungsverhältnis zur Universität Zürich
 
 **5**
 
-- 1\. 7. 19 - 105
+- 1\. 1. 24 - 123
 
 ### VI. Doktoratsabschluss
 
@@ -298,7 +301,7 @@ Die Fakultätsmitglieder haben ein Einsichtsrecht in die Dissertation und in die
 
 **7**
 
-- 1\. 7. 19 - 105
+- 1\. 1. 24 - 123
 
 <sup>6</sup> Jeder nicht bestandene Teil der Promotionsprüfung kann einmal wiederholt werden.
 
@@ -314,31 +317,24 @@ Die Fakultätsmitglieder haben ein Einsichtsrecht in die Dissertation und in die
 
 <sup>2</sup> Die Abstimmung erfolgt offen und in der Regel gemeinsam für alle vorliegenden Promotionsanträge. Auf Antrag eines Mitglieds der Studienkommission wird über einzelne Anträge individuell abgestimmt.
 
-[^25-1]: Fassung gemäss B vom 4. März 2019 (OS 74, 226; ABl 2019-03-15). In Kraft seit 1. April 2019.
-
-#### § 26
-
 **Publikation**
 
-<sup>1</sup> Die Promotion wird rechtsgültig, wenn innerhalb von sechs Monaten nach der Validierung durch die Studienkommission der Zentralbibliothek die Pflichtexemplare der genehmigten Dissertation abgeliefert werden. Dies erfolgt durch Abgabe von vier gebundenen Exemplaren der Dissertation.[^25-1]
+§ 26.[^25-1] <sup>1</sup> Die Dissertation ist innerhalb von sechs Monaten nach der Validierung durch die Studienkommission in dem von der Universität Zürich zur Verfügung gestellten Repositorium zu publizieren. Die Publikation gilt als erfolgt, sobald die Dissertation in das Repositorium aufgenommen worden ist.
 
-<sup>2</sup> Die Prodekanin Lehre bzw. der Prodekan Lehre kann auf Gesuch hin die Abgabefrist der Pflichtexemplare verlängern.
+<sup>2</sup> Die Prodekanin Lehre bzw. der Prodekan Lehre kann auf Gesuch hin die Frist verlängern.
 
-<sup>3</sup> Bis zur fristgemässen Abgabe der Pflichtexemplare ist die Führung des Doktortitels untersagt.
-
-[^26-1]: Fassung gemäss B vom 4. März 2019 (OS 74, 226; ABl 2019-03-15). In Kraft seit 1. April 2019.
-
-#### § 27
+<sup>3</sup> Nach der Publikation verleiht die Fakultät den Doktorgrad. Die Verleihung des Grads erfolgt durch Aushändigung der Abschlussdokumente und berechtigt zur Führung des Doktortitels.
 
 **Nachträgliche Änderungen**
 
-Für nachträgliche Änderungen, Ergänzungen oder Streichungen in der genehmigten Dissertation vor der Abgabe der Pflichtexemplare ist die Zustimmung der oder des Vorsitzenden der Promotionskommission[^26-1] und der Prodekanin Lehre bzw. des Prodekans Lehre einzuholen.
+§ 27.[^25-1] Für nachträgliche Änderungen, Ergänzungen oder Streichungen in der genehmigten Dissertation vor der Aufnahme in das Repositorium ist die Zustimmung der oder des Vorsitzenden der Promotionskommission und der Prodekanin Lehre bzw. des Prodekans Lehre einzuholen.
 
 **Auszeichnung**
 
-§ 28.[^27-1] Die Fakultät verleiht für eine hervorragende Dissertation eine Auszeichnung, falls mindestens zwei Gutachterinnen oder Gutachter und die Promotionskommission einen entsprechenden Antrag stellen. Über den Antrag entscheidet die Fakultätsversammlung in offener Abstimmung aufgrund einer Empfehlung durch das Auszeichnungskomitee der MNF.
+§ 28.[^25-2] Die Fakultät verleiht für eine hervorragende Dissertation eine Auszeichnung, falls mindestens zwei Gutachterinnen oder Gutachter und die Promotionskommission einen entsprechenden Antrag stellen. Über den Antrag entscheidet die Fakultätsversammlung in offener Abstimmung aufgrund einer Empfehlung durch das Auszeichnungskomitee der MNF.
 
-[^27-1]: Fassung gemäss B vom 4. März 2019 (OS 74, 226; ABl 2019-03-15). In Kraft seit 1. April 2019.
+[^25-1]: Fassung gemäss B vom 30. Oktober 2023 (OS 78, 472; ABl 2023-11-10). In Kraft seit 1. Januar 2024.
+[^25-2]: Fassung gemäss B vom 4. März 2019 (OS 74, 226; ABl 2019-03-15). In Kraft seit 1. April 2019.
 
 #### § 29
 
@@ -392,7 +388,7 @@ Zu jeder Promotionsurkunde wird ein Diploma Supplement mit Angaben über die Dok
 
 **9**
 
-- 1\. 7. 19 - 105
+- 1\. 1. 24 - 123
 
 ### IX. Ehrenpromotion
 
