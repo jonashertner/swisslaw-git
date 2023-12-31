@@ -4,13 +4,12 @@ number: "321.3"
 title: Einführungsgesetz zur Schweizerischen Strafprozessordnung und zur Schweizerischen Jugendstrafprozessordnung
 short: EG StPO
 language: de
-version: 2021-11-01
-valid_until: 2023-12-31
-version_adopted: 2020-11-04
+version: 2024-01-01
+version_adopted: 2023-05-17
 adopted: 2010-03-10
 in_force: 2011-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/321.3"
-pdf: "https://bgs.so.ch/api/de/versions/5119/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5408/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.so.ch/api/de/versions/5119/pdf_file"
 
 (EG StPO)
 
-Vom 10.03.2010 (Stand 01.11.2021)
+Vom 10.03.2010 (Stand 01.01.2024)
 
 Der Kantonsrat von Solothurn
 
@@ -288,9 +287,9 @@ beschliesst:
 
 <sup>2</sup> Dasselbe Recht steht bei Übertretungen nach eidgenössischem und kantonalem Nebenstrafrecht dem sachlich zuständigen Departement zu, welches Strafanzeige erstattet hat.
 
-<sup>3</sup> Der Staatsanwalt oder die Staatsanwältin, der oder die die Anklage vor dem erstinstanzlichen Gericht vertritt, kann die Berufung im Sinne von Artikel 399 Absatz 1 StPO anmelden und nach Artikel 231 Absatz 2 StPO dem erstinstanzlichen Gericht zu Handen der Verfahrensleitung des Berufungsgerichts die Fortsetzung der Sicherheitshaft beantragen.
+<sup>3</sup> Der Staatsanwalt oder die Staatsanwältin, der oder die die Anklage vor dem erstinstanzlichen Gericht vertritt, kann die Berufung im Sinne von Artikel 399 Absatz 1 StPO anmelden und nach Artikel 231 Absatz 2 StPO dem erstinstanzlichen Gericht zu Handen der Verfahrensleitung des Berufungsgerichts die Anordnung von Massnahmen (Art. 231 Abs. 2 Bst. a StPO) oder die Fortsetzung der Sicherheitshaft (Art. 231 Abs. 2 Bst. b StPO) beantragen.
 
-<sup>4</sup> Der Staatsanwalt oder die Staatsanwältin ist zum Einlegen der Beschwerde gegen Entscheide des Haftrichters oder der Haftrichterin beim Obergericht und zum Einlegen von Rechtsmitteln gegen dessen Entscheide beim Bundesgericht befugt.
+<sup>4</sup> …
 
 ### 1.10. Kosten
 
@@ -324,6 +323,8 @@ beschliesst:
 
 <sup>3</sup> Die zuständige Stelle des Departements trifft die in diesem Bereich notwendigen nachträglichen Anordnungen, soweit diese nicht durch das Bundesrecht oder das kantonale Recht ausdrücklich einer anderen Behörde vorbehalten werden.
 
+<sup>4</sup> Die Staatsanwaltschaft wird bei selbstständigen nachträglichen Verfahren nach Artikel 363 Absatz 1 StPO in der Regel nicht zur persönlichen Vertretung vor Gericht vorgeladen und ist von weiteren Parteihandlungen dispensiert, sofern sie keine entsprechenden Anträge stellt. Das zuständige Gericht stellt der Staatsanwaltschaft die instanzabschliessenden Strafentscheide zu.
+
 [^27-1]: BGS [331.11](https://bgs.so.ch/data/331.11/de).
 
 #### § 28
@@ -348,15 +349,21 @@ beschliesst:
 
 ### 1.12. Besondere Ausführungsbestimmungen zur Schweizerischen Jugendstrafprozessordnung
 
-### 1.12.1. Zuständigkeitskonflikte
+### 1.12.1. Zuständigkeit
 
 #### § 31
 
-**Zuständigkeitskonflitke**
+**Zuständigkeitskonflikte**
 
 <sup>1</sup> Konflikte zwischen der Staatsanwaltschaft und der Jugendanwaltschaft betreffend die innerkantonale Zuständigkeit und die Trennung von Verfahren (Art. 11 JStPO) entscheidet die Beschwerdekammer.
 
 <sup>2</sup> Sie entscheidet auch Zuständigkeitskonflikte zwischen der Jugendanwaltschaft und der Kindesschutzbehörde.
+
+#### § 31bis
+
+**Zuständigkeit bei Übertretungen des kantonalen und kommunalen Rechts**
+
+<sup>1</sup> Für die Beurteilung von Übertretungen des kantonalen und kommunalen Rechts ist die Behörde am Ort der Begehung zuständig.
 
 #### § 32
 
@@ -411,7 +418,7 @@ beschliesst:
 
 **Entschädigungen, Eintreiben finanzieller Leistungen (Art. 44 JStPO)**
 
-<sup>1</sup> Der Jugendanwalt oder die Jugendanwältin oder das Gericht bestimmt die Entschädigung für die Mediation, die amtliche Verteidigung und den unentgeltlichen Rechtsbeistand der Privatklägerschaft.
+<sup>1</sup> Der Jugendanwalt oder die Jugendanwältin oder das Gericht bestimmt die Entschädigung für die Mediation, die amtliche Verteidigung und den unentgeltlichen Rechtsbeistand der Privatklägerschaft oder des Opfers.
 
 <sup>2</sup> Die Eintreibung von finanziellen Leistungen, namentlich von Verfahrenskosten und Bussen, erfolgt durch die Zentrale Gerichtskasse.
 
