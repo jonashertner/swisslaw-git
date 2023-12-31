@@ -3,11 +3,11 @@ sr: "142.513"
 title: "Ordonnance du 12 avril 2006 sur le système d'information central sur la migration (Ordonnance SYMIC)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/303"
 language: fr
-version: 2023-10-15
+version: 2024-01-01
 adopted: 2006-04-12
 in_force: 2006-05-29
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/303/20231015/fr/xml/fedlex-data-admin-ch-eli-cc-2006-303-20231015-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/303/20231015/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/303/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2006-303-20240101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/303/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/303/20231015/fr"
 
 (Ordonnance SYMIC)
 
-du 12 avril 2006 (État le 15 octobre 2023)
+du 12 avril 2006 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -585,7 +585,7 @@ Le SEM peut communiquer des données rendues anonymes:
 
 #### Art. 17
 
-**Sécurité informatique**
+**Sécurité des données et de l’information[^17-1]**
 
 ### (art. 5, al. 1, LDEA)
 
@@ -593,16 +593,18 @@ Le SEM peut communiquer des données rendues anonymes:
 
 La sécurité des données est régie par:
 
-- a.[^17-1] l’ordonnance du 31 août 2022 sur la protection des données (OPDo)[^17-2];
-- b. l’ordonnance du 27 mai 2020 sur les cyberrisques[^17-3].[^17-4]
+- a.[^17-2] l’ordonnance du 31 août 2022 sur la protection des données (OPDo)[^17-3];
+- b.[^17-4] l’ordonnance du 8 novembre 2023 sur la sécurité de l’information[^17-5].[^17-6]
 
-<sup>2</sup> Le SEM, les autorités visées aux art. 9 et 10, l’Office fédéral de la statistique, l’Organisation suisse d’aide aux réfugiés, les tiers mandatés pour la gestion des comptes de sûreté en vertu de la LAsi[^17-5], la Caisse suisse de compensation et les caisses cantonales de compensation prennent, chacun dans leur secteur, les mesures organisationnelles et techniques propres à assurer la sécurité des données.
+<sup>2</sup> Le SEM, les autorités visées aux art. 9 et 10, l’Office fédéral de la statistique, l’Organisation suisse d’aide aux réfugiés, les tiers mandatés pour la gestion des comptes de sûreté en vertu de la LAsi[^17-7], la Caisse suisse de compensation et les caisses cantonales de compensation prennent, chacun dans leur secteur, les mesures organisationnelles et techniques propres à assurer la sécurité des données.
 
-[^17-1]: Nouvelle teneur selon l’annexe 2 ch. II 8 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^17-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^17-3]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^17-4]: Nouvelle teneur selon l’annexe ch. 5 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
-[^17-5]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^17-1]: Nouvelle teneur selon l’annexe 2 ch. II 6 de l’O du 8 nov. 2023 sur la sécurité de l’information, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^17-2]: Nouvelle teneur selon l’annexe 2 ch. II 8 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^17-3]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^17-4]: Nouvelle teneur selon l’annexe 2 ch. II 6 de l’O du 8 nov. 2023 sur la sécurité de l’information, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^17-5]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^17-6]: Nouvelle teneur selon l’annexe ch. 5 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^17-7]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
 
 #### Art. 18
 

@@ -3,11 +3,11 @@ sr: "142.513"
 title: "Ordinanza del 12 aprile 2006 concernente il sistema d'informazione centrale sulla migrazione (Ordinanza SIMIC)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/303"
 language: it
-version: 2023-10-15
+version: 2024-01-01
 adopted: 2006-04-12
 in_force: 2006-05-29
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/303/20231015/it/xml/fedlex-data-admin-ch-eli-cc-2006-303-20231015-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/303/20231015/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/303/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2006-303-20240101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/303/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/303/20231015/it"
 
 (Ordinanza SIMIC)
 
-del 12 aprile 2006 (Stato 15 ottobre 2023)
+del 12 aprile 2006 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -119,7 +119,7 @@ A ogni ricerca nel SIMIC concernente una persona o effettuata prima di rilasciar
 
 [^3-1]: Abrogata dall’all. 4 dell’O del 18 dic. 2013 sul sistema centrale d’informazione visti e sul sistema nazionale d’informazione visti, con effetto dal 20 gen. 2014 ([RU 2014 3](https://fedlex.data.admin.ch/eli/oc/2014/2)).
 [^3-2]: Nuovo testo giusta il n. I dell’O del 2 feb. 2022, in vigore dal 1° mar. 2022 ([RU 2022 73](https://fedlex.data.admin.ch/eli/oc/2022/73)).
-[^3-3]: Nuovo testo giusta l’all. n. 1 dell’O del 15 set. 2023, in vigore dal 15 ott. 2023 (RU **202****3**552).
+[^3-3]: Nuovo testo giusta l’all. n. 1 dell’O del 15 set. 2023, in vigore dal 15 ott. 2023 ([RU 2023 552](https://fedlex.data.admin.ch/eli/oc/2023/552)).
 [^3-4]: [RS 142.512](https://fedlex.data.admin.ch/eli/cc/2014/2)
 [^3-5]: [RS 361.0](https://fedlex.data.admin.ch/eli/cc/2016/665)
 [^3-6]: [RS 362.0](https://fedlex.data.admin.ch/eli/cc/2013/179)
@@ -573,7 +573,7 @@ La SEM può comunicare dati personali resi anonimi:
 
 #### Art. 17
 
-**Sicurezza informatica**
+**Sicurezza dei dati e delle informazioni[^17-1]**
 
 ### (art. 5 cpv. 1 LSISA)
 
@@ -581,16 +581,18 @@ La SEM può comunicare dati personali resi anonimi:
 
 La sicurezza dei dati è retta:
 
-- a.[^17-1] dall’ordinanza del 31 agosto 2022[^17-2] sulla protezione dei dati (OPDa);
-- b. dall’ordinanza del 27 maggio 2020[^17-3] sui ciber-rischi.[^17-4]
+- a.[^17-2] dall’ordinanza del 31 agosto 2022[^17-3] sulla protezione dei dati (OPDa);
+- b.[^17-4] dall’ordinanza dell’8 novembre 2023[^17-5] sulla sicurezza delle informazioni.[^17-6]
 
-<sup>2</sup> La SEM, le autorità di cui agli articoli 9 e 10, l’Ufficio federale di statistica, l’Organizzazione svizzera d’aiuto ai rifugiati, i terzi incaricati della tenuta dei conti di garanzia secondo la LAsi[^17-5], la Cassa di compensazione svizzera e le casse di compensazione cantonali adottano, ciascuno nel proprio ambito specifico, le misure d’organizzazione e d’ordine tecnico atte a salvaguardare la sicurezza dei dati personali.
+<sup>2</sup> La SEM, le autorità di cui agli articoli 9 e 10, l’Ufficio federale di statistica, l’Organizzazione svizzera d’aiuto ai rifugiati, i terzi incaricati della tenuta dei conti di garanzia secondo la LAsi[^17-7], la Cassa di compensazione svizzera e le casse di compensazione cantonali adottano, ciascuno nel proprio ambito specifico, le misure d’organizzazione e d’ordine tecnico atte a salvaguardare la sicurezza dei dati personali.
 
-[^17-1]: Nuovo testo giusta l’all. 2 n. II 8 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^17-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^17-3]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^17-4]: Nuovo testo giusta l’all. n. 5 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
-[^17-5]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^17-1]: Nuovo testo giusta l’all. 2 n. II 6 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^17-2]: Nuovo testo giusta l’all. 2 n. II 8 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^17-3]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^17-4]: Nuovo testo giusta l’all. 2 n. II 6 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^17-5]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^17-6]: Nuovo testo giusta l’all. n. 5 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^17-7]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
 
 #### Art. 18
 
