@@ -4,11 +4,11 @@ title: "Ordinanza del 31 ottobre 2012 sull'allevamento di animali (OAlle)"
 short: OAlle
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/763"
 language: it
-version: 2023-01-01
+version: 2024-01-01
 adopted: 2012-10-31
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/763/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2012-763-20230101-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/763/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/763/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2012-763-20240101-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/763/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/763/20230101/it"
 
 (OAlle)
 
-del 31 ottobre 2012 (Stato 1° gennaio 2023)
+del 31 ottobre 2012 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -28,7 +28,11 @@ ordina:
 [^ingress-1]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
 [^ingress-2]: Nuovo testo giusta il n. I dell’O del 21 mag. 2014, in vigore dal 1° lug. 2014 ([RU 2014 1687](https://fedlex.data.admin.ch/eli/oc/2014/324)).
 
-## Sezione 1: Disposizioni generali
+## Capitolo 1: Disposizioni generali
+
+[^chap1-1]
+
+[^chap1-1]: Nuovo testo giusta il n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
 
 #### Art. 1
 
@@ -63,7 +67,12 @@ Ai sensi della presente ordinanza si intende per:
 - i. esame della prestazione dello stallone da allevamento: esame per selezionare i migliori stalloni di una popolazione;
 - j. puledro iscritto: puledro iscritto nel libro genealogico mediante numero d’identificazione e nome;
 - k. puledro identificato: puledro accompagnato dalla giumenta descritto mediante una segnalazione grafica e verbale;
-- l. animali non iscritti nel libro genealogico: animali iscritti nel libro genealogico di un’organizzazione di allevamento ma che non sono conformi agli standard definiti per la razza.
+- l. animali non iscritti nel libro genealogico: animali iscritti nel libro genealogico di un’organizzazione di allevamento ma che non sono conformi agli standard definiti per la razza;
+- m.[^2-1] regina: la madre di tutte le api di una colonia i cui fuchi non sono utilizzati per la fecondazione di regine;
+- n.[^2-2] regina fucaiola: la madre di una colonia i cui fuchi sono utilizzati per la fecondazione di regine.
+
+[^2-1]: Introdotta dal n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
+[^2-2]: Introdotta dal n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
 
 #### Art. 3
 
@@ -83,17 +92,21 @@ Ai sensi della presente ordinanza si intende per:
 
 <sup>2bis</sup> I contributi sono versati solo dopo che è stato presentato un conteggio sulle prestazioni fornite. Nel caso di contributi per misure zootecniche il conteggio funge al contempo da domanda. I termini per la presentazione dei conteggi sono stabiliti all’allegato 1. [^4-3]
 
-<sup>3</sup> L’Ufficio federale dell’agricoltura (UFAG) può modificare l’allegato 1.
+<sup>3</sup> Le domande e i conteggi vanno presentati all’Ufficio federale dell’agricoltura (UFAG) utilizzando gli appositi moduli.[^4-4]
+
+<sup>4</sup> L’UFAG può modificare l’allegato 1.[^4-5]
 
 [^4-1]: Nuovo testo giusta il n. I dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 697](https://fedlex.data.admin.ch/eli/oc/2021/697)).
 [^4-2]: Nuovo testo giusta il n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 758](https://fedlex.data.admin.ch/eli/oc/2022/758)).
 [^4-3]: Introdotto dal n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 758](https://fedlex.data.admin.ch/eli/oc/2022/758)).
+[^4-4]: Nuovo testo giusta il n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
+[^4-5]: Introdotto dal n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
 
-## Sezione 2: Riconoscimento di organizzazioni e imprese di allevamento
+## Capitolo 2: Riconoscimento di organizzazioni e imprese di allevamento
 
-[^sec2-1]
+[^chap2-1]
 
-[^sec2-1]: Nuovo testo giusta il n. I dell’O del 21 mag. 2014, in vigore dal 1° lug. 2014 ([RU 2014 1687](https://fedlex.data.admin.ch/eli/oc/2014/324)).
+[^chap2-1]: Nuovo testo giusta il n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
 
 #### Art. 5
 
@@ -265,8 +278,11 @@ Le organizzazioni di allevamento, le organizzazioni di allevamento per suini da 
 
 <sup>4</sup> Qualsiasi cambiamento che abbia un’incidenza sull’adempimento dei requisiti per il riconoscimento va notificato all’UFAG nell’arco di tre mesi.
 
+<sup>5</sup> L’UFAG pubblica l’elenco delle organizzazioni di allevamento riconosciute.[^11-3]
+
 [^11-1]: Nuovo testo giusta il n. I dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 697](https://fedlex.data.admin.ch/eli/oc/2021/697)).
 [^11-2]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^11-3]: Introdotto dal n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
 
 #### Art. 12
 
@@ -293,19 +309,17 @@ La domanda è respinta se:
 
 <sup>4</sup> L’UFAG pubblica l’elenco delle organizzazioni di allevamento estere che operano in Svizzera.
 
-## Sezione 3: ...
-
 #### Art. 14
 
 [^14-1]
 
 [^14-1]: Abrogato dal n. I dell’O del 3 nov. 2021, con effetto dal 1° gen. 2022 ([RU 2021 697](https://fedlex.data.admin.ch/eli/oc/2021/697)).
 
-## Sezione 4: Contributi per misure zootecniche
+## Capitolo 3: Contributi per misure zootecniche
 
-[^sec4-1]
+[^chap3-1]
 
-[^sec4-1]: Nuovo testo giusta il n. I dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 697](https://fedlex.data.admin.ch/eli/oc/2021/697)).
+[^chap3-1]: Nuovo testo giusta il n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
 
 #### Art. 14a
 
@@ -347,9 +361,9 @@ Il sostegno avviene mediante:
 <table>
 <tr><td>a. tenuta del libro genealogico: per ogni animale iscritto nel libro genealogico</td><td>12 franchi</td></tr>
 <tr><td>b. esami funzionali: 1. per ogni apprezzamento della conformazione con descrizione lineare e classificazione</td><td>9 franchi</td></tr>
-<tr><td>2. campioni di latte: – per ogni analisi di un campione di latte con il metodo ICAR A4 – per ogni analisi di un campione di latte con il metodo ICAR AT4 o ATM4 – per ogni analisi di un campione di latte con il metodo ICAR B o C</td><td>5 franchi 3.50 franchi 2.20 franchi</td></tr>
+<tr><td>2.[^15-2] campioni di latte: – per ogni analisi di un campione di latte con il metodo ICAR A4 – per ogni analisi di un campione di latte con il metodo ICAR AT4, ATM4, ATM4/7d o AZ4 – per ogni analisi di un campione di latte con il metodo ICAR B o C</td><td>5 franchi 3.50 franchi 2.20 franchi</td></tr>
 <tr><td>3. per ogni esame della produzione di carne con il metodo ICAR</td><td>26 franchi</td></tr>
-<tr><td>4. per ogni prima diagnosi nel quadro dell’esame dello stato di salute con il metodo ICAR</td><td>1 franco.[^15-2]</td></tr>
+<tr><td>4. per ogni prima diagnosi nel quadro dell’esame dello stato di salute con il metodo ICAR</td><td>1 franco.[^15-3]</td></tr>
 </table>
 
 <sup>3</sup> I contributi per l’apprezzamento della conformazione sono assegnati per un metodo conforme alla norma internazionale della descrizione lineare e classificazione.
@@ -363,16 +377,18 @@ Nei seguenti casi è assegnata la metà del contributo per campione di latte per
 
 <sup>5</sup> Non è assegnato alcun contributo per campione di latte per le vacche appartenenti a un’azienda che tiene il libro genealogico se entrambe le condizioni di cui al capoverso 3 lettere a e b sono adempiute.
 
-<sup>6</sup> Il contributo per campione di latte nel quadro dell’esame dell’attitudine lattifera è assegnato per ogni vacca appartenente a un’azienda che tiene il libro genealogico al termine del periodo di lattazione.
+<sup>6</sup> Il contributo per campione di latte nel quadro dell’esame dell’attitudine lattifera è assegnato per ogni vacca appartenente a un’azienda che tiene il libro genealogico. L’organizzazione di allevamento riconosciuta comunica all’UFAG se il versamento debba avvenire a cadenza trimestrale o annuale.[^15-4]
 
-<sup>7</sup> ...[^15-3]
+<sup>7</sup> ...[^15-5]
 
-<sup>8</sup> Per animale e periodo di riferimento sono assegnati contributi per un massimo di tre prime diagnosi nel quadro dell’esame dello stato di salute.[^15-4]
+<sup>8</sup> Per animale e periodo di riferimento sono assegnati contributi per un massimo di tre prime diagnosi nel quadro dell’esame dello stato di salute.[^15-6]
 
 [^15-1]: Abrogato dal n. I dell’O del 20 mag. 2015, con effetto dal 1° gen. 2016 ([RU 2015 1821](https://fedlex.data.admin.ch/eli/oc/2015/352)).
-[^15-2]: Nuovo testo giusta il n. I dell’O del 20 mag. 2015, in vigore dal 1° gen. 2016 ([RU 2015 1821](https://fedlex.data.admin.ch/eli/oc/2015/352)).
-[^15-3]: Introdotto dal n. I dell’O del 21 mag. 2014 ([RU 2014 1687](https://fedlex.data.admin.ch/eli/oc/2014/324)). Abrogato dal n. I dell’O del 20 mag. 2015, con effetto dal 1° gen. 2016 ([RU 2015 1821](https://fedlex.data.admin.ch/eli/oc/2015/352)).
-[^15-4]: Introdotto dal n. I dell’O del 21 mag. 2014, in vigore dal 1° lug. 2014 ([RU 2014 1687](https://fedlex.data.admin.ch/eli/oc/2014/324)).
+[^15-2]: Nuovo testo giusta il n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
+[^15-3]: Nuovo testo giusta il n. I dell’O del 20 mag. 2015, in vigore dal 1° gen. 2016 ([RU 2015 1821](https://fedlex.data.admin.ch/eli/oc/2015/352)).
+[^15-4]: Nuovo testo giusta il n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
+[^15-5]: Introdotto dal n. I dell’O del 21 mag. 2014 ([RU 2014 1687](https://fedlex.data.admin.ch/eli/oc/2014/324)). Abrogato dal n. I dell’O del 20 mag. 2015, con effetto dal 1° gen. 2016 ([RU 2015 1821](https://fedlex.data.admin.ch/eli/oc/2015/352)).
+[^15-6]: Introdotto dal n. I dell’O del 21 mag. 2014, in vigore dal 1° lug. 2014 ([RU 2014 1687](https://fedlex.data.admin.ch/eli/oc/2014/324)).
 
 #### Art. 16
 
@@ -482,7 +498,7 @@ Il contributo per l’esame nella stazione è assegnato se questo comprende il r
 
 <table>
 <tr><td>a. tenuta del libro genealogico: per ogni animale iscritto nel libro genealogico</td><td>35 franchi</td></tr>
-<tr><td>b. esami funzionali: 1. campioni di latte: – per ogni analisi di un campione di latte con il metodo ICAR A4 – per ogni analisi di un campione di latte con il metodo ICAR AT4 o ATM4 – per ogni analisi di un campione di latte con il metodo ICAR B o C 2. per ogni esame della capacità di sviluppo</td><td>6 franchi 4.50 franchi 3.20 franchi 26 franchi.[^19-2]</td></tr>
+<tr><td>b. esami funzionali: 1.[^19-2] campioni di latte: – per ogni analisi di un campione di latte con il metodo ICAR A4 – per ogni analisi di un campione di latte con il metodo ICAR AT4, ATM4 o ATM4/7d – per ogni analisi di un campione di latte con il metodo ICAR B o C 2. per ogni esame della capacità di sviluppo</td><td>6 franchi 4.50 franchi 3.20 franchi 26 franchi.[^19-3]</td></tr>
 </table>
 
 <sup>3</sup>
@@ -494,12 +510,14 @@ Nei seguenti casi è assegnata la metà del contributo per campione di latte per
 
 <sup>4</sup> Non è assegnato alcun contributo per campione di latte per i caprini e le pecore da latte se entrambe le condizioni di cui al capoverso 3 lettere a e b sono adempiute.
 
-<sup>5</sup> Il contributo per campione di latte nel quadro dell’esame dell’attitudine lattifera è assegnato per ogni capra e ogni pecora da latte appartenenti a un’azienda che tiene il libro genealogico al termine del periodo di lattazione.
+<sup>5</sup> Il contributo per campione di latte nel quadro dell’esame dell’attitudine lattifera è assegnato per ogni capra e ogni pecora da latte appartenenti a un’azienda che tiene il libro genealogico. Il versamento avviene a cadenza annuale.[^19-4]
 
 <sup>6</sup> Il contributo per gli esami della capacità di sviluppo è assegnato se il peso alla nascita è stato rilevato conformemente alla prassi e almeno una pesatura di controllo è effettuata tra il 35° e il 45° giorno dalla nascita.
 
 [^19-1]: Abrogato dal n. I dell’O del 20 mag. 2015, con effetto dal 1° gen. 2016 ([RU 2015 1821](https://fedlex.data.admin.ch/eli/oc/2015/352)).
-[^19-2]: Nuovo testo giusta il n. I dell’O del 20 mag. 2015, in vigore dal 1° gen. 2016 ([RU 2015 1821](https://fedlex.data.admin.ch/eli/oc/2015/352)).
+[^19-2]: Nuovo testo giusta il n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
+[^19-3]: Nuovo testo giusta il n. I dell’O del 20 mag. 2015, in vigore dal 1° gen. 2016 ([RU 2015 1821](https://fedlex.data.admin.ch/eli/oc/2015/352)).
+[^19-4]: Nuovo testo giusta il n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
 
 #### Art. 20
 
@@ -524,15 +542,26 @@ Il contributo per l’allevamento di camelidi del Nuovo Mondo per la tenuta del 
 
 <sup>3</sup> Il contributo per regina è assegnato al termine dell’esame funzionale nell’apiario sperimentale con campione reso anonimo o conosciuto e dopo l’iscrizione nel libro genealogico.
 
-<sup>4</sup> Il contributo per la determinazione della purezza della razza è assegnato per le regine per le quali è stato eseguito l’esame funzionale e le colonie di maschi su una stazione di fecondazione B.
+<sup>4</sup>
 
-<sup>5</sup> Una stessa regina e una colonia di maschi danno diritto a un unico contributo per la determinazione della purezza della razza.
+Il contributo per la determinazione della purezza della razza è assegnato per:
 
-<sup>6</sup> Il contributo per una stazione di fecondazione è assegnato se nell’anno di contribuzione vi sono collocate almeno 100 giovani regine.[^21-3]
+- a. le regine per le quali è stato eseguito un esame funzionale;
+- b. le regine fucaiole su una stazione di fecondazione A;
+- c. le regine fucaiole i cui fuchi sono utilizzati per la fecondazione artificiale.[^21-3]
+
+<sup>5</sup> Il contributo per la determinazione della purezza della razza è assegnato soltanto una volta per regina e regina fucaiola. Non viene assegnato alcun contributo se sono già stati versati contributi secondo l’articolo 23*c* capoverso 2 lettera f.[^21-4]
+
+<sup>5bis</sup> Se la determinazione della purezza della razza avviene mediante analisi del DNA, questa deve essere effettuata secondo un metodo riconosciuto scientificamente e internazionalmente, basato sulla tipizzazione del singolo nucleotide.[^21-5]
+
+<sup>6</sup> Il contributo per una stazione di fecondazione è assegnato se nell’anno di contribuzione vi sono collocate almeno 100 giovani regine.[^21-6]
 
 [^21-1]: Abrogato dal n. I dell’O del 20 mag. 2015, con effetto dal 1° gen. 2016 ([RU 2015 1821](https://fedlex.data.admin.ch/eli/oc/2015/352)).
 [^21-2]: Nuovo testo giusta il n. I dell’O del 20 mag. 2015, in vigore dal 1° gen. 2016 ([RU 2015 1821](https://fedlex.data.admin.ch/eli/oc/2015/352)).
-[^21-3]: Nuovo testo giusta il n. I dell’O del 20 mag. 2015, in vigore dal 1° gen. 2016 ([RU 2015 1821](https://fedlex.data.admin.ch/eli/oc/2015/352)).
+[^21-3]: Nuovo testo giusta il n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
+[^21-4]: Nuovo testo giusta il n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
+[^21-5]: Introdotto dal n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
+[^21-6]: Nuovo testo giusta il n. I dell’O del 20 mag. 2015, in vigore dal 1° gen. 2016 ([RU 2015 1821](https://fedlex.data.admin.ch/eli/oc/2015/352)).
 
 #### Art. 22
 
@@ -542,9 +571,9 @@ Il contributo per l’allevamento di camelidi del Nuovo Mondo per la tenuta del 
 
 <sup>2</sup> ...[^22-1]
 
-<sup>3</sup> Al fine di ottenere i contributi di cui agli articoli 15–21, le organizzazioni di allevamento riconosciute comunicano all’UFAG, entro il 31 ottobre dell’anno che precede quello di contribuzione, il numero stimato di animali iscritti nel libro genealogico e di esami funzionali come anche di puledri identificati e iscritti. L’UFAG pubblica le cifre comunicate.
+<sup>3</sup> Per i contributi di cui agli articoli 15–21, le organizzazioni di allevamento riconosciute comunicano all’UFAG, entro il 31 ottobre dell’anno che precede quello di contribuzione, il numero stimato di animali iscritti nel libro genealogico e di esami funzionali nonché il numero di puledri identificati e iscritti nel libro genealogico. La comunicazione deve essere effettuata utilizzando l’apposito modulo. L’UFAG pubblica le cifre comunicate.[^22-2]
 
-<sup>4</sup> Le misure zootecniche possono essere computate soltanto per gli animali il cui proprietario durante l’anno di contribuzione è membro attivo (membro individuale o collettivo) dell’organizzazione di allevamento riconosciuta ed è domiciliato in Svizzera o nel Principato del Liechtenstein.[^22-2]
+<sup>4</sup> Le misure zootecniche possono essere computate soltanto per gli animali il cui proprietario durante l’anno di contribuzione è membro attivo (membro individuale o collettivo) dell’organizzazione di allevamento riconosciuta ed è domiciliato in Svizzera o nel Principato del Liechtenstein.[^22-3]
 
 <sup>5</sup> Una misura zootecnica dà diritto a un unico contributo per animale e per anno.
 
@@ -575,7 +604,8 @@ La metà del contributo è assegnata per gli animali iscritti nel libro genealog
 <sup>9</sup> Non è assegnato alcun contributo per animale iscritto nel libro genealogico se nei due anni precedenti il giorno di riferimento non è documentata alcuna attività zootecnica, nascita, monta né inseminazione.
 
 [^22-1]: Abrogato dal n. I dell’O del 20 mag. 2015, con effetto dal 1° gen. 2016 ([RU 2015 1821](https://fedlex.data.admin.ch/eli/oc/2015/352)).
-[^22-2]: Nuovo testo giusta il n. I dell’O del 21 mag. 2014, in vigore dal 1° lug. 2014 ([RU 2014 1687](https://fedlex.data.admin.ch/eli/oc/2014/324)).
+[^22-2]: Nuovo testo giusta il n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
+[^22-3]: Nuovo testo giusta il n. I dell’O del 21 mag. 2014, in vigore dal 1° lug. 2014 ([RU 2014 1687](https://fedlex.data.admin.ch/eli/oc/2014/324)).
 
 #### Art. 22a
 
@@ -601,47 +631,39 @@ I fondi disponibili per la presente sezione sono ripartiti come segue:
 
 [^22a-1]: Introdotto dal n. I dell’O del 20 mag. 2015, in vigore dal 1° gen. 2016 ([RU 2015 1821](https://fedlex.data.admin.ch/eli/oc/2015/352)).
 
-## Sezione 5: Contribuiti per la conservazione delle razze svizzere
+## Capitolo 4: Contribuiti per la conservazione delle razze svizzere
+
+[^chap4-1]
+
+[^chap4-1]: Nuovo testo giusta il n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
+
+### Sezione 1: Disposizioni comuni
+
+[^chap4-sec1-1]
+
+[^chap4-sec1-1]: Introdotto dal n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
 
 #### Art. 23
 
-**Principio[^23-2]**[^23-1]
+**Tipi di contributi e pubblicazione**[^23-1]
 
 <sup>1</sup>
 
-Sono versati contributi per:
+Sono versati i seguenti contributi:
 
 - a.
 
-  progetti limitati nel tempo volti alla conservazione di:
+  aiuti finanziari per progetti limitati nel tempo volti alla conservazione di:
 
   - 1\. razze svizzere,
   - 2\. razze che si erano estinte in Svizzera e che sono state nuovamente introdotte, sempre che la loro origine svizzera sia dimostrata;
 
-- b.[^23-3] il deposito a lungo termine di campioni congelati di origine animale (materiale criogenico) di animali di razze svizzere;
-- c.[^23-4] la conservazione di razze svizzere delle specie bovina, equina, suina, ovina e caprina il cui stato è «in pericolo critico» o «minacciate».
+- b. indennità per la gestione di banche genetiche nazionali per la conservazione di razze svizzere da parte di persone di cui all’articolo 23*b*<sup>bis</sup> capoverso 2;
+- c. aiuti finanziari per la conservazione di razze svizzere delle specie bovina, equina, suina, ovina, caprina, ape mellifera il cui stato è «in pericolo critico» o «minacciate».
 
-<sup>2</sup> ...[^23-5]
+<sup>2</sup> Per ogni contributo versato l’UFAG pubblica il nome del beneficiario e l’importo del contributo. Per gli aiuti finanziari di cui al capoverso 1 lettera c pubblica il nome dell’organizzazione di allevamento e l’importo totale versatole.
 
-<sup>3</sup>
-
-I contributi vengono versati:
-
-- a. per progetti di cui al capoverso 1 lettera a: a organizzazioni di allevamento riconosciute e a organizzazioni riconosciute;
-- b. per misure di cui al capoverso 1 lettera b: a organizzazioni di allevamento riconosciute, a organizzazioni riconosciute e a imprese private nel settore dell’allevamento;
-- c.[^23-6] per misure di cui al capoverso 1 lettera c: tramite organizzazioni di allevamento riconosciute agli aventi diritto ai contributi; hanno diritto ai contributi i proprietari di un genitore al momento del concepimento del primo discendente nato vivo da tale genitore nel periodo di riferimento.
-
-<sup>4</sup> ...[^23-7]
-
-<sup>5</sup> L’UFAG pubblica i contributi versati a ciascuna organizzazione o a ciascuna impresa nonché per ciascuna misura.
-
-[^23-1]: Nuovo testo giusta il n. I dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 697](https://fedlex.data.admin.ch/eli/oc/2021/697)).
-[^23-2]: Nuovo testo giusta il n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 758](https://fedlex.data.admin.ch/eli/oc/2022/758)).
-[^23-3]: Nuovo testo giusta il n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 758](https://fedlex.data.admin.ch/eli/oc/2022/758)).
-[^23-4]: Introdotta dal n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 758](https://fedlex.data.admin.ch/eli/oc/2022/758)).
-[^23-5]: Abrogato dal n. I dell’O del 2 nov. 2022, con effetto dal 1° gen. 2023 ([RU 2022 758](https://fedlex.data.admin.ch/eli/oc/2022/758)).
-[^23-6]: Introdotta dal n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 758](https://fedlex.data.admin.ch/eli/oc/2022/758)).
-[^23-7]: Abrogato dal n. I dell’O del 2 nov. 2022, con effetto dal 1° gen. 2023 ([RU 2022 758](https://fedlex.data.admin.ch/eli/oc/2022/758)).
+[^23-1]: Nuovo testo giusta il n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
 
 #### Art. 23a
 
@@ -662,28 +684,108 @@ Per razza svizzera si intende una razza:
 
 [^23a-1]: Introdotto dal n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 758](https://fedlex.data.admin.ch/eli/oc/2022/758)).
 
+### Sezione 2: Contributi per progetti di conservazione limitati nel tempo e per la gestione di banche genetiche nazionali
+
+[^chap4-sec2-1]
+
+[^chap4-sec2-1]: Introdotto dal n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
+
 #### Art. 23b
 
-**Contributi per progetti di conservazione limitati nel tempo e per il deposito a lungo termine di materiale criogenico**[^23b-1]
+**Aiuti finanziari per progetti di conservazione limitati nel tempo e indennità per la gestione di banche genetiche nazionali[^23b-2]**[^23b-1]
 
-<sup>1</sup>
-
-Per i progetti e le misure seguenti nel 2023 sono versati complessivamente al massimo 900 000 franchi e dal 2024 al massimo 500 000 franchi all’anno:
-
-- a. progetti di conservazione limitati nel tempo (art. 23 cpv. 1 lett. a);
-- b. deposito a lungo termine di materiale criogenico di animali di razze svizzere (art. 23 cpv. 1 lett. b).
+<sup>1</sup> Per progetti di conservazione limitati nel tempo e per la gestione di banche genetiche nazionali sono versati complessivamente al massimo 500 000 franchi all’anno.[^23b-3]
 
 <sup>2</sup> In via suppletiva ai fondi di cui al capoverso 1 possono essere impiegati i fondi non utilizzati di cui all’articolo 25.
 
-<sup>3</sup> Alle organizzazioni riconosciute secondo l’articolo 5 capoverso 3 lettera b, dei fondi di cui al capoverso 1 sono versati al massimo 150 000 franchi all’anno per progetti di conservazione limitati nel tempo.
+<sup>3</sup> Gli aiuti finanziari per progetti di conservazione limitati nel tempo sono versati alle organizzazioni di allevamento riconosciute e alle organizzazioni riconosciute secondo l’articolo 5 capoverso 3 lettera b. Alle organizzazioni riconosciute sono versati al massimo 150 000 franchi all’anno.[^23b-4]
+
+<sup>4</sup> Gli aiuti finanziari per progetti di conservazione limitati nel tempo ammontano al massimo all’80 per cento dei costi comprovati e riconosciuti dall’UFAG.[^23b-5]
 
 [^23b-1]: Introdotto dal n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 758](https://fedlex.data.admin.ch/eli/oc/2022/758)).
+[^23b-2]: Nuovo testo giusta il n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
+[^23b-3]: Nuovo testo giusta il n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
+[^23b-4]: Nuovo testo giusta il n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
+[^23b-5]: Introdotto dal n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
+
+#### Art. 23b<sup>bis</sup>
+
+**Gestione di banche genetiche nazionali**[^23bbis-1]
+
+<sup>1</sup> Per la conservazione delle razze svizzere l’UFAG gestisce banche genetiche nazionali per il deposito a lungo termine di campioni congelati di origine animale (materiale criogenico).
+
+<sup>2</sup>
+
+Può demandare la gestione delle banche genetiche nazionali a:
+
+- a. stazioni di inseminazione;
+- b. organizzazioni di allevamento riconosciute per la gestione delle razze svizzere interessate, se queste affidano la gestione delle banche genetiche a stazioni di inseminazione.
+
+<sup>3</sup> Chi intende gestire una banca genetica nazionale, deve garantire una grande diversità genetica.
+
+<sup>4</sup>
+
+La gestione di una banca genetica nazionale è disciplinata in un contratto tra l’UFAG e il gestore. Nel contratto si concordano in particolare:
+
+- a. la quantità nonché il volume minimo del materiale criogenico da depositare;
+- b. i diritti di proprietà sul materiale criogenico;
+- c. l’importo dell’indennità.
+
+<sup>5</sup>
+
+Il gestore di una banca genetica ha i seguenti obblighi:
+
+- a. deve concedere all’UFAG tutti i diritti di informazione e di consultazione;
+- b.
+
+  deve garantire che nel software per la documentazione messo a disposizione dall’UFAG siano registrati i seguenti dati e documenti:
+
+  - 1\. dati di contatto di almeno tre interlocutori,
+  - 2\. l’inequivocabile identificazione degli animali, inclusi i dati concernenti la loro ascendenza,
+  - 3\. genere e quantità del materiale criogenico,
+  - 4\. protocolli di produzione,
+  - 5\. luoghi di deposito e distribuzione nel magazzino.
+
+[^23bbis-1]: Introdotto dal n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
+
+#### Art. 23b<sup>ter</sup>
+
+**Uso di materiale criogenico depositato in banche genetiche nazionali**[^23bter-1]
+
+<sup>1</sup> Il materiale criogenico depositato in una banca genetica nazionale non può essere usato.
+
+<sup>2</sup>
+
+In deroga al capoverso 1, l’UFAG, su richiesta, può autorizzarne l’uso nei seguenti casi e allo scopo della conservazione di una razza svizzera:
+
+- a. se sono svolti esami scientifico-genetici; o
+- b. se la diversità genetica di una razza svizzera è fortemente in diminuzione e il suo stato è «in pericolo critico».
+
+<sup>3</sup> Sono autorizzate a presentare una domanda per l’uso di materiale criogenico le organizzazioni di allevamento riconosciute per la gestione della razza svizzera in questione.
+
+<sup>4</sup> La domanda deve comprendere il piano relativo all’uso del materiale criogenico.
+
+<sup>5</sup> Se l’UFAG accoglie la domanda, stipula un contratto con l’organizzazione di allevamento ed eventualmente con altri interessati. Nel contratto vengono concordati in particolare lo scopo, la portata e la durata dell’uso del materiale criogenico.
+
+<sup>6</sup> L’importo che la stazione di inseminazione, sia essa responsabile della gestione e della relativa banca genetica o la gestisca su mandato di un’organizzazione di allevamento riconosciuta, addebita al titolare dell’autorizzazione per la messa a disposizione del materiale criogenico, non può superare i costi per la produzione del materiale criogenico.
+
+<sup>7</sup> Il titolare dell’autorizzazione deve garantire che dopo l’uso il volume rimanente nella banca genetica ammonti almeno al 50 per cento del materiale criogenico del donatore.
+
+<sup>8</sup> L’UFAG può autorizzare l’uso con conseguente volume rimanente nella banca genetica inferiore al 50 per cento del materiale criogenico del donatore in particolare se il titolare dell’autorizzazione può dimostrare che non è assicurata la conservazione di una razza svizzera senza l’uso di ulteriore materiale criogenico del donatore.
+
+[^23bter-1]: Introdotto dal n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
+
+### Sezione 3: Contributi per la conservazione di razze svizzere il cui stato è «in pericolo critico» o «minacciate»
+
+[^chap4-sec3-1]
+
+[^chap4-sec3-1]: Introdotto dal n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
 
 #### Art. 23c
 
-**Contributi per la conservazione di razze svizzere il cui stato è «in pericolo critico» o «minacciate»**[^23c-1]
+**Importo dei contributi[^23c-2]**[^23c-1]
 
-<sup>1</sup> Per la conservazione di razze svizzere delle specie bovina, equina, suina, ovina e caprina il cui stato è «in pericolo critico» o «minacciate» vengono versati complessivamente al massimo 4 750 000 franchi all’anno.[^23c-2]
+<sup>1</sup> Per la conservazione di razze svizzere delle specie bovina, equina, suina, ovina, caprina e ape mellifera il cui stato è «in pericolo critico» o «minacciate» sono versati complessivamente al massimo 4 750 000 franchi all’anno.[^23c-3]
 
 <sup>2</sup> Il contributo per la conservazione di una razza svizzera il cui stato è «in pericolo critico» ammonta a:
 
@@ -693,6 +795,7 @@ Per i progetti e le misure seguenti nel 2023 sono versati complessivamente al ma
 <tr><td>c. specie suina: 1. per animale maschio 2. per animale femmina</td><td>357 franchi 392.70 franchi</td></tr>
 <tr><td>d. specie ovina: 1. per animale maschio 2. per animale femmina, con campioni di latte prelevati in virtù dell’art. 19 cpv. 2 lett. b n. 1 3. per animale femmina, senza campioni di latte prelevatiin virtù dell’art. 19 cpv. 2 lett. b n. 1</td><td>242.80 franchi 178.50 franchi 121.40 franchi</td></tr>
 <tr><td>e. specie caprina: 1. per animale maschio 2. per animale femmina, con campioni di latte prelevati in virtù dell’art. 19 cpv. 2 lett. b n. 1 3. per animale femmina, senza campioni di latte prelevati in virtù dell’art. 19 cpv. 2 lett. b n. 1</td><td>242.80 franchi 142.80 franchi 121.40 franchi</td></tr>
+<tr><td>f.[^23c-4] specie ape mellifera: 1. per regina fucaiola 2. per regina</td><td>285.60 franchi 285.60 franchi</td></tr>
 </table>
 
 <sup>3</sup> Il contributo per la conservazione di una razza svizzera il cui stato è «minacciata» ammonta a:
@@ -701,19 +804,24 @@ Per i progetti e le misure seguenti nel 2023 sono versati complessivamente al ma
 <tr><td>a. specie bovina: 1. per animale maschio 2. per animale femmina</td><td>282 franchi 235 franchi</td></tr>
 <tr><td>b. specie suina: 1. per animale maschio 2. per animale femmina</td><td>117.50 franchi 129.30 franchi</td></tr>
 <tr><td>c. specie ovina: 1. per animale maschio 2. per animale femmina, con campioni di latte prelevati in virtù dell’art. 19 cpv. 2 lett. b n. 1 3. per animale femmina, senza campioni di latte prelevati in virtù dell’art. 19 cpv. 2 lett. b n. 1</td><td>79.90 franchi 58.80 franchi 40 franchi</td></tr>
-<tr><td>d. specie caprina: 1. per animale maschio 2. per animale femmina, con campioni di latte prelevati in virtù dell’art. 19 cpv. 2 lett. b n. 1 3. per animale femmina, senza campioni di latte prelevati in virtù dell’art. 19 cpv. 2 lett. b n. 1</td><td>79.90 franchi 47 franchi 40 franchi .[^23c-3]</td></tr>
+<tr><td>d. specie caprina: 1. per animale maschio 2. per animale femmina, con campioni di latte prelevati in virtù dell’art. 19 cpv. 2 lett. b n. 1 3. per animale femmina, senza campioni di latte prelevati in virtù dell’art. 19 cpv. 2 lett. b n. 1</td><td>79.90 franchi 47 franchi 40 franchi .[^23c-5]</td></tr>
 </table>
 
-<sup>4</sup> Se l’importo massimo di 4 750 000 franchi non è sufficiente, i contributi di cui ai capoversi 2 e 3 sono ridotti per tutte le specie nella stessa percentuale.[^23c-4]
+<sup>4</sup> Se l’importo massimo di 4 750 000 franchi non è sufficiente, i contributi di cui ai capoversi 2 e 3 sono ridotti per tutte le specie nella stessa percentuale.[^23c-6]
+
+<sup>5</sup> Se vengono già assegnati contributi secondo l’articolo 21 capoverso 2 lettera a numero 2, questi sono detratti dal contributo per la conservazione di razze svizzere della specie ape mellifera il cui stato è «in pericolo critico».[^23c-7]
 
 [^23c-1]: Introdotto dal n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 758](https://fedlex.data.admin.ch/eli/oc/2022/758)).
-[^23c-2]: Nuovo testo giusta il n. I dell’O del 5 apr. 2023, in vigore dal 1° gen. 2023 (RU **20****23** 184).
-[^23c-3]: Nuovo testo giusta il n. I dell’O del 5 apr. 2023, in vigore dal 1° gen. 2023 ([RU 2023 184](https://fedlex.data.admin.ch/eli/oc/2023/184)).
-[^23c-4]: Nuovo testo giusta il n. I dell’O del 5 apr. 2023, in vigore dal 1° gen. 2023 ([RU 2023 184](https://fedlex.data.admin.ch/eli/oc/2023/184)).
+[^23c-2]: Nuovo testo giusta il n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
+[^23c-3]: Nuovo testo giusta il n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
+[^23c-4]: Introdotta dal n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
+[^23c-5]: Nuovo testo giusta il n. I dell’O del 5 apr. 2023, in vigore dal 1° gen. 2023 ([RU 2023 184](https://fedlex.data.admin.ch/eli/oc/2023/184)).
+[^23c-6]: Nuovo testo giusta il n. I dell’O del 5 apr. 2023, in vigore dal 1° gen. 2023 ([RU 2023 184](https://fedlex.data.admin.ch/eli/oc/2023/184)).
+[^23c-7]: Introdotto dal n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
 
 #### Art. 23d
 
-**Esigenze per il versamento di contributi per la conservazione di razze svizzere il cui stato è «in pericolo critico» o «minacciate»**[^23d-1]
+**Esigenze per il versamento dei contributi per le specie bovina, equina, suina, ovina e caprina[^23d-2]**[^23d-1]
 
 <sup>1</sup>
 
@@ -721,13 +829,13 @@ I contributi per la conservazione di razze svizzere il cui stato è «in pericol
 
 - a. iscritti o menzionati in un libro genealogico;
 - b. i cui genitori e nonni sono iscritti o menzionati in un libro genealogico della medesima razza;
-- c. la cui percentuale di sangue della relativa razza è di almeno l’87,5 per cento;
+- c.[^23d-3] la cui percentuale di sangue della relativa razza è di almeno l’87,5 per cento; e;
 - d.
 
   che hanno almeno un discendente in vita:
 
   - 1\. nato nel periodo di riferimento,
-  - 2\. iscritto nel libro genealogico, e
+  - 2\.[^23d-4] iscritto o menzionato nel libro genealogico, e
   - 3\. la cui percentuale di sangue della relativa razza è di almeno l’87,5 per cento.
 
 <sup>2</sup>
@@ -746,30 +854,72 @@ I contributi sono versati soltanto se l’effettivo di animali femmina iscritti 
 - a. i loro genitori e nonni sono iscritti o menzionati in un libro genealogico della medesima razza;
 - b. la loro percentuale di sangue della relativa razza è di almeno l’87,5 per cento;
 - c*.* gli animali iscritti nel libro genealogico delle specie bovina, equina e suina hanno almeno una nascita iscritta nel libro genealogico;
-- d. gli animali iscritti nel libro genealogico delle specie ovina e caprina hanno almeno sei mesi d’età.[^23d-2]
+- d. gli animali iscritti nel libro genealogico delle specie ovina e caprina hanno almeno sei mesi d’età.[^23d-5]
 
 <sup>5</sup> I contributi sono versati soltanto se almeno una volta all’anno le organizzazioni di allevamento riconosciute mettono a disposizione del gestore di GENMON i dati del libro genealogico e le informazioni necessarie per calcolare l’indice globale.
 
 [^23d-1]: Introdotto dal n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 758](https://fedlex.data.admin.ch/eli/oc/2022/758)).
-[^23d-2]: Nuovo testo giusta il n. I dell’O del 5 apr. 2023, in vigore dal 1° gen. 2023 ([RU 2023 184](https://fedlex.data.admin.ch/eli/oc/2023/184)).
+[^23d-2]: Nuovo testo giusta il n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
+[^23d-3]: Nuovo testo giusta il n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
+[^23d-4]: Nuovo testo giusta il n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
+[^23d-5]: Nuovo testo giusta il n. I dell’O del 5 apr. 2023, in vigore dal 1° gen. 2023 ([RU 2023 184](https://fedlex.data.admin.ch/eli/oc/2023/184)).
 
 #### Art. 23e
 
-**Versamento dei contributi per la conservazione di razze svizzere il cui stato è «in pericolo critico» o «minacciate»**[^23e-1]
+**Esigenze per il versamento dei contributi per la specie ape mellifera**[^23e-1]
+
+<sup>1</sup>
+
+I contributi per la conservazione di razze svizzere il cui stato è «in pericolo critico» vengono versati per una regina o una regina fucaiola della specie ape mellifera:
+
+- a. iscritta o menzionata in un libro genealogico;
+- b. la cui madre è iscritta o menzionata in un libro genealogico della medesima razza;
+- c. il cui albero genealogico paterno comprende almeno la regina fucaiola della prima o della seconda generazione di antenati; le regine fucaiole in questione devono essere iscritte o menzionate in un libro genealogico della medesima razza della regina o della regina fucaiola per la quale è richiesto un contributo, fermo restando che può essere iscritta o menzionata nel libro genealogico soltanto un’unica regina fucaiola della seconda generazione di antenati;
+- d. la cui percentuale di sangue della relativa razza è di almeno l’87,5 per cento ed è stabilita mediante l’analisi del DNA o mediante un certificato di ascendenza e l’analisi del DNA deve essere effettuata secondo un metodo riconosciuto scientificamente e internazionalmente basato sulla tipizzazione del singolo nucleotide; e
+- e.
+
+  che ha almeno una regina come discendente in vita:
+
+  - 1\. fecondata nel periodo di riferimento,
+  - 2\. iscritta o menzionata nel libro genealogico, e
+  - 3\. la cui percentuale di sangue della relativa razza è di almeno l’87,5 per cento ed è stabilita mediante l’analisi del DNA o mediante un certificato di ascendenza e l’analisi del DNA deve essere effettuata secondo un metodo riconosciuto scientificamente e internazionalmente basato sulla tipizzazione del singolo nucleotide.
+
+<sup>2</sup> La discendente in vita di cui al capoverso 1 lettera e deve inoltre avere un grado di consanguineità che si basi su almeno tre generazioni e non sia superiore al 6,25 per cento. Per la specie ape mellifera, in via suppletiva l’albero genealogico su tre generazioni della discendente in vita della linea paterna deve comprendere almeno la madre della rispettiva regina fucaiola o delle rispettive regine fucaiole.
+
+<sup>3</sup> I contributi sono versati soltanto se l’effettivo di animali femmina iscritti nel libro genealogico per i quali è stato eseguito un esame funzionale con campione reso anonimo o conosciuto non supera 1000 unità.
+
+<sup>4</sup> I contributi sono versati soltanto se l’organizzazione di allevamento riconosciuta mette a disposizione almeno una volta all’anno del gestore di GENMON i dati del libro genealogico e le informazioni necessarie per calcolare l’indice globale.
+
+[^23e-1]: Introdotto dal n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
+
+#### Art. 23f
+
+**Versamento dei contributi per la conservazione di razze svizzere il cui stato è «in pericolo critico» o «minacciate»**[^23f-1]
 
 <sup>1</sup> Chi intende ricevere contributi per la conservazione di razze svizzere il cui stato è «in pericolo critico» o «minacciate» deve farne richiesta presentando una domanda all’organizzazione di allevamento riconosciuta in questione. La domanda deve essere presentata, una sola volta, nell’anno a partire dal quale l’avente diritto intende ricevere i contributi.
 
+<sup>1bi</sup>
+
+<sup>s</sup> Ha diritto ai contributi:
+
+- a. per le specie bovina, equina, suina, ovina e caprina: chi, al momento della nascita del primo discendente nato vivo da un genitore nel periodo di riferimento, è proprietario di tale genitore;
+- b. per la specie ape mellifera: chi, al momento della fecondazione della prima discendente fecondata nel periodo di riferimento di una regina, è proprietario di tale regina.[^23f-2]
+
 <sup>2</sup> L’organizzazione di allevamento riconosciuta verifica il diritto ai contributi.
 
-<sup>3</sup> Richiede all’UFAG di versare i contributi sulla base di un elenco di genitori, maschi e femmine, per i quali vanno versati i contributi nel periodo di riferimento in questione. Per animale e periodo di riferimento può essere richiesto il versamento di un solo contributo.
+<sup>3</sup> Richiede all’UFAG di versare i contributi sulla base di un elenco dei genitori, maschi e femmine, o delle regine e delle regine fucaiole, per i quali vanno versati contributi nel periodo di riferimento in questione. Nell’arco di un periodo di riferimento, per animale o regina può essere richiesto il versamento di un solo contributo.[^23f-3]
 
-<sup>4</sup> L’organizzazione di allevamento riconosciuta versa i contributi agli aventi diritto al più tardi 60 giorni dopo averli ricevuti dall’UFAG.
+<sup>4</sup> L’UFAG versa i contributi all’organizzazione di allevamento riconosciuta. Questa li versa agli aventi diritto al più tardi 60 giorni dopo averli ricevuti dall’UFAG.[^23f-4]
 
-<sup>5</sup> Comunica all’UFAG, entro il 31 ottobre dell’anno che precede quello di contribuzione, il numero stimato di animali maschi e femmine per i quali vanno versati contributi.
+<sup>5</sup> L’organizzazione di allevamento riconosciuta comunica all’UFAG, entro il 31 ottobre dell’anno che precede quello di contribuzione, il numero stimato di animali maschi e femmine o il numero di regine e delle regine fucaiole, per i quali vanno versati contributi.[^23f-5]
 
 <sup>6</sup> L’UFAG pubblica i contributi versati alle organizzazioni di allevamento riconosciute.
 
-[^23e-1]: Introdotto dal n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 758](https://fedlex.data.admin.ch/eli/oc/2022/758)).
+[^23f-1]: Originario art. 23*e*. Introdotto dal n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 758](https://fedlex.data.admin.ch/eli/oc/2022/758)).
+[^23f-2]: Introdotto dal n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
+[^23f-3]: Nuovo testo giusta il n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
+[^23f-4]: Nuovo testo giusta il n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
+[^23f-5]: Nuovo testo giusta il n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
 
 #### Art. 24
 
@@ -777,24 +927,32 @@ I contributi sono versati soltanto se l’effettivo di animali femmina iscritti 
 
 [^24-1]: Abrogato dal n. I dell’O del 2 nov. 2022, con effetto dal 1° gen. 2023 ([RU 2022 758](https://fedlex.data.admin.ch/eli/oc/2022/758)).
 
-## Sezione 6: Contribuiti per progetti di ricerca
+## Capitolo 5: Contributi per progetti di ricerca
+
+[^chap5-1]
+
+[^chap5-1]: Nuovo testo giusta il n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
 
 #### Art. 25
 
 [^25-1]
 
-<sup>1</sup> Per progetti di ricerca sulle risorse zoogenetiche le organizzazioni di allevamento riconosciute e gli istituti di scuole universitarie federali e cantonali sono sostenuti mediante contributi. Nel 2023 i contributi ammontano complessivamente al massimo a 100 000 franchi e dal 2024 al massimo a 500 000 franchi all’anno.[^25-2]
+<sup>1</sup> Per progetti di ricerca sulle risorse zoogenetiche le organizzazioni di allevamento riconosciute e gli istituti di scuole universitarie federali e cantonali sono sostenuti mediante contributi.[^25-2]
+
+<sup>1bis</sup> I contributi ammontano complessivamente al massimo a 500 000 franchi all’anno, tuttavia al massimo all’80 per cento dei costi comprovati e riconosciuti dall’UFAG.[^25-3]
 
 <sup>2</sup> L’UFAG pubblica i contributi versati a ciascuna organizzazione o a ciascun istituto nonché per ciascuna misura.
 
 [^25-1]: Nuovo testo giusta il n. I dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 697](https://fedlex.data.admin.ch/eli/oc/2021/697)).
-[^25-2]: Nuovo testo giusta il n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 758](https://fedlex.data.admin.ch/eli/oc/2022/758)).
+[^25-2]: Nuovo testo giusta il n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
+[^25-3]: Introdotto dal n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
 
-## Sezione 6*a*: Compiti dell’Istituto nazionale svizzero di allevamento equino
+## Capitolo 6: Compiti dell’Istituto nazionale svizzero di allevamento equino
 
-[^sec6a-1]
+[^chap6-1][^chap6-2]
 
-[^sec6a-1]: Introdotta dal n. I dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 697](https://fedlex.data.admin.ch/eli/oc/2021/697)).
+[^chap6-1]: Introdotto dal n. I dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 697](https://fedlex.data.admin.ch/eli/oc/2021/697)).
+[^chap6-2]: Nuovo testo giusta il n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
 
 **Art. 25**a
 
@@ -806,11 +964,15 @@ I contributi sono versati soltanto se l’effettivo di animali femmina iscritti 
 - d. promuove, nel settore della detenzione e dell’uso di equidi, lo scambio di conoscenze e offre consulenza;
 - e. detiene equidi e mette a disposizione infrastrutture e impianti per poter adempiere i compiti di cui alle lettere a–d.
 
-<sup>2</sup> Per le sue prestazioni e spese l’Istituto nazionale svizzero di allevamento equino riscuote delle tasse; queste si basano sull’ordinanza del 16 giugno 2006[^sec6a-2] concernente le tasse dell’Ufficio federale dell’agricoltura.
+<sup>2</sup> Per le sue prestazioni e spese l’Istituto nazionale svizzero di allevamento equino riscuote delle tasse; queste si basano sull’ordinanza del 16 giugno 2006[^chap6-3] concernente le tasse dell’Ufficio federale dell’agricoltura.
 
-[^sec6a-2]: [RS 910.11](https://fedlex.data.admin.ch/eli/cc/2006/415)
+[^chap6-3]: [RS 910.11](https://fedlex.data.admin.ch/eli/cc/2006/415)
 
-## Sezione 7: Certificato di ascendenza per l’immissione in commercio di animali da allevamento, sperma, ovuli non fecondati ed embrioni
+## Capitolo 7: Certificato di ascendenza per l’immissione in commercio di animali da allevamento, sperma, ovuli non fecondati ed embrioni
+
+[^chap7-1]
+
+[^chap7-1]: Nuovo testo giusta il n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
 
 #### Art. 26
 
@@ -889,7 +1051,11 @@ Il certificato di ascendenza per gli embrioni degli animali da allevamento delle
 
 <sup>2</sup> Dal certificato deve risultare chiaramente se in uno stesso contenitore (unità minima di stoccaggio) si trovano più embrioni. Tutti gli embrioni di uno stesso contenitore devono provenire dalla stessa madre.
 
-## Sezione 8: Importazione di animali da allevamento e da reddito e di sperma di toro nell’ambito dei contingenti doganali
+## Capitolo 8: Importazione di animali da allevamento e da reddito e di sperma di toro nell’ambito dei contingenti doganali
+
+[^chap8-1]
+
+[^chap8-1]: Nuovo testo giusta il n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
 
 #### Art. 31
 
@@ -959,7 +1125,11 @@ Assieme alla domanda di una quota del contingente doganale devono essere present
 
 [^35-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 
-## Sezione 9: Disposizioni finali
+## Capitolo 9: Disposizioni finali
+
+[^chap9-1]
+
+[^chap9-1]: Nuovo testo giusta il n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
 
 #### Art. 36
 
@@ -1013,7 +1183,7 @@ Allegato 1[^t-1]
 
 ## Termini per la presentazione delle domande per il versamento dei contributi e per la presentazione dei conteggi nonché giorni di riferimento e periodi di riferimento
 
-[^t-1]: Aggiornato dal n. II delle O del 21 mag. 2014 ([RU 2014 1687](https://fedlex.data.admin.ch/eli/oc/2014/324)), del 20 mag. 2015 ([RU 2015 1821](https://fedlex.data.admin.ch/eli/oc/2015/352)) e dal n. I e II dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 758](https://fedlex.data.admin.ch/eli/oc/2022/758)).
+[^t-1]: Aggiornato dal n. II delle O del 21 mag. 2014 ([RU 2014 1687](https://fedlex.data.admin.ch/eli/oc/2014/324)), del 20 mag. 2015 ([RU 2015 1821](https://fedlex.data.admin.ch/eli/oc/2015/352)) e dal n. I e II dell’O del 2 nov. 2022 ([RU 2022 758](https://fedlex.data.admin.ch/eli/oc/2022/758)). Nuova espr. giusta il n. II dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
 
 ### 1. Allevamento di bovini
 
@@ -1021,10 +1191,10 @@ Allegato 1[^t-1]
 <tr><td>Art. 15</td><td>Giorno di riferimento/ periodo di riferimento</td><td>Termine</td></tr>
 <tr><td>Animali iscritti nel libro genealogico e animali non iscritti nel libro facenti parte di effettivi che vi sono iscritti</td><td>30 novembre</td><td>15 novembre</td></tr>
 <tr><td>Apprezzamenti della conformazione (descrizione lineare e classificazione)</td><td>1° novembre–31 ottobre</td><td>30 novembre</td></tr>
-<tr><td>Fine della lattazione</td><td>16 dicembre–31 marzo</td><td>15 aprile</td></tr>
-<tr><td>Fine della lattazione</td><td>1° aprile–30 giugno</td><td>15 luglio</td></tr>
-<tr><td>Fine della lattazione</td><td>1° luglio–30 settembre</td><td>15 ottobre</td></tr>
-<tr><td>Fine della lattazione</td><td>1° ottobre–15 dicembre</td><td>20 dicembre</td></tr>
+<tr><td>Campioni di latte</td><td>16 dicembre–31 marzo</td><td>15 aprile</td></tr>
+<tr><td>Campioni di latte</td><td>1° aprile–30 giugno</td><td>15 luglio</td></tr>
+<tr><td>Campioni di latte</td><td>1° luglio–30 settembre</td><td>15 ottobre</td></tr>
+<tr><td>Campioni di latte</td><td>1° ottobre–15 dicembre</td><td>20 dicembre</td></tr>
 <tr><td>Esami della produzione di carne</td><td>1° ottobre–30 settembre</td><td>15 ottobre</td></tr>
 <tr><td>Esami dello stato di salute</td><td>1° dicembre–30 novembre</td><td>15 dicembre</td></tr>
 </table>
@@ -1062,7 +1232,7 @@ Allegato 1[^t-1]
 <table>
 <tr><td>Art. 19</td><td>Giorno di riferimento/ periodo di riferimento</td><td>Termine</td></tr>
 <tr><td>Animali iscritti nel libro genealogico</td><td>1° giugno</td><td>15 luglio</td></tr>
-<tr><td>Fine della lattazione</td><td>1° dicembre–30 novembre</td><td>15 dicembre</td></tr>
+<tr><td>Campioni di latte</td><td>1° dicembre–30 novembre</td><td>15 dicembre</td></tr>
 <tr><td>Esami della capacità di sviluppo</td><td>1° dicembre–30 novembre</td><td>15 dicembre</td></tr>
 </table>
 

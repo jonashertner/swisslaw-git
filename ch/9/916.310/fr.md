@@ -4,11 +4,11 @@ title: "Ordonnance du 31 octobre 2012 sur l'élevage (OE)"
 short: OE
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/763"
 language: fr
-version: 2023-01-01
+version: 2024-01-01
 adopted: 2012-10-31
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/763/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2012-763-20230101-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/763/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/763/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2012-763-20240101-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/763/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/763/20230101/fr"
 
 (OE)
 
-du 31 octobre 2012 (État le 1<sup>er</sup> janvier 2023)
+du 31 octobre 2012 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -28,7 +28,11 @@ arrête:
 [^ingress-1]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
 [^ingress-2]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2014, en vigueur depuis le 1<sup>er</sup> juil. 2014 ([RO 2014 1687](https://fedlex.data.admin.ch/eli/oc/2014/324)).
 
-## Section 1 Dispositions générales
+## Chapitre 1 Dispositions générales
+
+[^chap1-1]
+
+[^chap1-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
 
 #### Art. 1
 
@@ -63,7 +67,12 @@ Au sens de la présente ordonnance, on entend par:
 - i. épreuve de performance d’étalons: épreuve destinée à sélectionner les meilleurs étalons reproducteurs d’une population donnée;
 - j. poulain enregistré: poulain inscrit dans le *herd-book* d’une organisation d’élevage au moyen d’un nom et d’un numéro d’identification;
 - k. poulain identifié: poulain sous la mère décrit au moyen d’un signalement verbal et graphique;
-- l. animaux non *herd-book*: animaux inscrits au *herd-book* d’une organisation d’élevage, mais ne correspondant pas au standard défini pour la race.
+- l. animaux non *herd-book*: animaux inscrits au *herd-book* d’une organisation d’élevage, mais ne correspondant pas au standard défini pour la race;
+- m.[^2-1] reine: mère de toutes les abeilles d’une colonie dont les faux bourdons ne sont pas utilisés pour la fécondation de reines;
+- n.[^2-2] reine de ruche à mâles: mère d’une colonie dont les faux bourdons sont utilisés pour la fécondation de reines.
+
+[^2-1]: Introduite par le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
+[^2-2]: Introduite par le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
 
 #### Art. 3
 
@@ -83,16 +92,20 @@ Au sens de la présente ordonnance, on entend par:
 
 <sup>2bis</sup> Les contributions ne sont octroyées qu’après la remise d’un décompte relatif aux prestations fournies. Pour les contributions aux mesures zootechniques, le décompte fait également office de demande. Les délais pour la remise des décomptes sont fixés à l’annexe 1.[^4-2]
 
-<sup>3</sup> L’Office fédéral de l’agriculture (OFAG) peut modifier l’annexe 1.
+<sup>3</sup> Les demandes et les décomptes doivent être envoyés à l’Office fédéral de l’agriculture (OFAG) au moyen des formulaires prévus à cet effet.[^4-3]
+
+<sup>4</sup> L’OFAG peut modifier l’annexe 1.[^4-4]
 
 [^4-1]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 697](https://fedlex.data.admin.ch/eli/oc/2021/697)).
 [^4-2]: Introduit par le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 758](https://fedlex.data.admin.ch/eli/oc/2022/758)).
+[^4-3]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
+[^4-4]: Introduit par le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
 
-## Section 2 Reconnaissance d’organisations et d’entreprises d’élevage
+## Chapitre 2 Reconnaissance d’organisations et d’entreprises de sélection
 
-[^sec2-1]
+[^chap2-1]
 
-[^sec2-1]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2014, en vigueur depuis le 1<sup>er</sup> juil. 2014 ([RO 2014 1687](https://fedlex.data.admin.ch/eli/oc/2014/324)).
+[^chap2-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
 
 #### Art. 5
 
@@ -264,8 +277,11 @@ Les organisations d’élevage, les organisations d’élevage de reproducteurs 
 
 <sup>4</sup> Tout changement relatif aux conditions ayant justifié la reconnaissance doit être communiqué à l’OFAG dans un délai de trois mois.
 
+<sup>5</sup> L’OFAG publie la liste des organisations d’élevage reconnues.[^11-3]
+
 [^11-1]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 697](https://fedlex.data.admin.ch/eli/oc/2021/697)).
 [^11-2]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^11-3]: Introduit par le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
 
 #### Art. 12
 
@@ -292,19 +308,17 @@ La demande est rejetée si:
 
 <sup>4</sup> L’OFAG publie la liste des organisations d’élevage étrangères qui sont actives en Suisse.
 
-## Section 3 …
-
 #### Art. 14
 
 [^14-1]
 
 [^14-1]: Abrogé par le ch. I de l’O du 3 nov. 2021, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 697](https://fedlex.data.admin.ch/eli/oc/2021/697)).
 
-## Section 4 Contributions pour les mesures zootechniques
+## Chapitre 3 Contributions pour les mesures zootechniques
 
-[^sec4-1]
+[^chap3-1]
 
-[^sec4-1]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 697](https://fedlex.data.admin.ch/eli/oc/2021/697)).
+[^chap3-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
 
 #### Art. 14a
 
@@ -339,16 +353,16 @@ Le soutien est assuré par:
 
 **Contributions pour l’élevage bovin**
 
-<sup>1</sup> ...[^15-1]
+<sup>1</sup> …[^15-1]
 
 <sup>2</sup> La contribution pour l’élevage bovin, y compris les buffles d’Asie, s’élève à:
 
 <table>
 <tr><td>a. pour la gestion du *herd-book*: par animal inscrit au *herd-book*</td><td>12 francs</td></tr>
 <tr><td>b. pour les épreuves de performance: 1. par appréciation de la morphologie avec description linéaire et classification</td><td>9 francs</td></tr>
-<tr><td>2. échantillons laitiers: – par échantillon laitier examiné selon la méthode ICAR A4 – par échantillon laitier examiné selon la méthode ICAR AT4 ou ATM4 – par échantillon laitier examiné selon la méthode ICAR B ou C</td><td>5 francs 3.50 francs 2.20 francs</td></tr>
+<tr><td>2.[^15-2] échantillons de lait: – par échantillon de lait examiné selon la méthode ICAR A4 – par échantillon de lait examiné selon la méthode ICAR AT4, ATM4, ATM4/7d ou AZ4 – par échantillon de lait examiné selon la méthode ICAR B ou C</td><td>5 francs 3.50 francs 2.20 francs</td></tr>
 <tr><td>3. par contrôle de la performance carnée selon la méthode ICAR</td><td>26 francs</td></tr>
-<tr><td>4. par diagnostic initial lors du contrôle sanitaire selon la méthode ICAR</td><td>1 franc.[^15-2]</td></tr>
+<tr><td>4. par diagnostic initial lors du contrôle sanitaire selon la méthode ICAR</td><td>1 franc.[^15-3]</td></tr>
 </table>
 
 <sup>3</sup> Les contributions pour l’appréciation de la morphologie sont octroyées pour une méthode appliquée selon une norme internationale de description linéaire et de classification.
@@ -362,22 +376,24 @@ La moitié de la contribution par échantillon laitier est octroyée pour les va
 
 <sup>5</sup> Aucune contribution par échantillon laitier n’est octroyée pour les vaches faisant partie d’une exploitation affiliée au *herd-book*, lorsque les conditions fixées à l’al. 4, let. a et b, sont réunies.
 
-<sup>6</sup> La contribution par échantillon laitier prélevé dans le cadre du contrôle laitier est octroyée, après la clôture de la lactation, pour chaque vache élevée dans une exploitation affiliée au *herd-book*.
+<sup>6</sup> La contribution par échantillon de lait prélevé dans le cadre du contrôle laitier est octroyée pour chaque vache élevée dans une exploitation affiliée au *herd-book*. L’organisation d’élevage reconnue communique à l’OFAG si l’octroi doit être trimestriel ou annuel.[^15-4]
 
-<sup>7</sup> ...[^15-3]
+<sup>7</sup> …[^15-5]
 
-<sup>8</sup> Les contributions sont versées au maximum pour trois diagnostics initiaux lors du contrôle sanitaire par période de référence et par animal.[^15-4]
+<sup>8</sup> Les contributions sont versées au maximum pour trois diagnostics initiaux lors du contrôle sanitaire par période de référence et par animal.[^15-6]
 
 [^15-1]: Abrogé par le ch. I de l’O du 20 mai 2015, avec effet au 1<sup>er</sup> janv. 2016 ([RO 2015 1821](https://fedlex.data.admin.ch/eli/oc/2015/352)).
-[^15-2]: Nouvelle teneur selon le ch. I de l’O du 20 mai 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 1821](https://fedlex.data.admin.ch/eli/oc/2015/352)).
-[^15-3]: Introduit par le ch. I de l’O du 21 mai 2014 ([RO 2014 1687](https://fedlex.data.admin.ch/eli/oc/2014/324)). Abrogé par le ch. I de l’O du 20 mai 2015, avec effet au 1<sup>er</sup> janv. 2016 ([RO 2015 1821](https://fedlex.data.admin.ch/eli/oc/2015/352)).
-[^15-4]: Introduit par le ch. I de l’O du 21 mai 2014, en vigueur depuis le 1<sup>er</sup> juil. 2014 ([RO 2014 1687](https://fedlex.data.admin.ch/eli/oc/2014/324)).
+[^15-2]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
+[^15-3]: Nouvelle teneur selon le ch. I de l’O du 20 mai 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 1821](https://fedlex.data.admin.ch/eli/oc/2015/352)).
+[^15-4]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
+[^15-5]: Introduit par le ch. I de l’O du 21 mai 2014 ([RO 2014 1687](https://fedlex.data.admin.ch/eli/oc/2014/324)). Abrogé par le ch. I de l’O du 20 mai 2015, avec effet au 1<sup>er</sup> janv. 2016 ([RO 2015 1821](https://fedlex.data.admin.ch/eli/oc/2015/352)).
+[^15-6]: Introduit par le ch. I de l’O du 21 mai 2014, en vigueur depuis le 1<sup>er</sup> juil. 2014 ([RO 2014 1687](https://fedlex.data.admin.ch/eli/oc/2014/324)).
 
 #### Art. 16
 
 **Contributions pour l’élevage d’équidés**
 
-<sup>1</sup> ...[^16-1]
+<sup>1</sup> …[^16-1]
 
 <sup>2</sup> La contribution pour l’élevage d’équidés s’élève à:
 
@@ -423,7 +439,7 @@ La contribution pour l’épreuve de performance d’étalons en station est oct
 
 **Contributions pour l’élevage porcin**
 
-<sup>1</sup> ...[^17-1]
+<sup>1</sup> …[^17-1]
 
 <sup>2</sup> La contribution pour l’élevage porcin s’élève à:
 
@@ -475,13 +491,13 @@ La contribution pour l’épreuve en station est versée lorsque celle-ci compre
 
 **Contributions pour l’élevage caprin et l’élevage de brebis laitières**
 
-<sup>1</sup> ...[^19-1]
+<sup>1</sup> …[^19-1]
 
 <sup>2</sup> La contribution pour l’élevage caprin et l’élevage de brebis laitières s’élève à:
 
 <table>
 <tr><td>a. pour la gestion du *herd-book*: par animal inscrit au *herd-book*</td><td>35 francs</td></tr>
-<tr><td>b. pour les épreuves de performance: 1. échantillons laitiers: – par échantillon laitier examiné selon la méthode ICAR A4 – par échantillon laitier examiné selon la méthode ICAR AT4 ou ATM4 – par échantillon laitier examiné selon la méthode ICAR B ou C 2. par épreuve du pouvoir nourricier</td><td>6 francs 4.50 francs 3.20 francs 26 francs.[^19-2]</td></tr>
+<tr><td>b. pour les épreuves de performance: 1.[^19-2] échantillons laitiers: – par échantillon de lait examiné selon la méthode ICAR A4 – par échantillon de lait examiné selon la méthode ICAR AT4, ATM4 ou ATM4/7d – par échantillon de lait examiné selon la méthode ICAR B ou C 2. par épreuve du pouvoir nourricier</td><td>6 francs 4.50 francs 3.20 francs 26 francs.[^19-3]</td></tr>
 </table>
 
 <sup>3</sup>
@@ -493,12 +509,14 @@ La moitié de la contribution par échantillon laitier est octroyée pour les ch
 
 <sup>4</sup> Aucune contribution par échantillon laitier n’est octroyée pour les chèvres et les brebis laitières, lorsque les conditions fixées à l’al. 3, let. a et b, sont réunies.
 
-<sup>5</sup> La contribution par échantillon laitier prélevé dans le cadre du contrôle laitier est octroyée, après la clôture de la lactation, pour chaque chèvre et chaque brebis laitière élevée dans une exploitation affiliée au *herd-book*.
+<sup>5</sup> La contribution par échantillon de lait prélevé dans le cadre du contrôle laitier est octroyée pour chaque chèvre et chaque brebis laitière élevée dans une exploitation affiliée au *herd-book*. L’octroi s’effectue annuellement.[^19-4]
 
 <sup>6</sup> La contribution pour les épreuves du pouvoir nourricier est octroyée pour autant que le poids à la naissance soit relevé conformément à la pratique et qu’au moins une pesée de contrôle ait été effectuée entre le 35<sup>e</sup> et le 45<sup>e</sup> jour après la naissance.
 
 [^19-1]: Abrogé par le ch. I de l’O du 20 mai 2015, avec effet au 1<sup>er</sup> janv. 2016 ([RO 2015 1821](https://fedlex.data.admin.ch/eli/oc/2015/352)).
-[^19-2]: Nouvelle teneur selon le ch. I de l’O du 20 mai 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 1821](https://fedlex.data.admin.ch/eli/oc/2015/352)).
+[^19-2]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
+[^19-3]: Nouvelle teneur selon le ch. I de l’O du 20 mai 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 1821](https://fedlex.data.admin.ch/eli/oc/2015/352)).
+[^19-4]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
 
 #### Art. 20
 
@@ -512,7 +530,7 @@ La contribution pour l’élevage de camélidés du Nouveau-monde s’élève, p
 
 **Contributions pour l’élevage d’abeilles mellifères**
 
-<sup>1</sup> ...[^21-1]
+<sup>1</sup> …[^21-1]
 
 <sup>2</sup> La contribution pour l’élevage d’abeilles mellifères s’élève à:
 
@@ -523,15 +541,26 @@ La contribution pour l’élevage de camélidés du Nouveau-monde s’élève, p
 
 <sup>3</sup> La contribution par reine est versée lorsque celle-ci a terminé un testage ouvert ou un testage selon le système de l’échange circulaire à l’aveugle et qu’elle est inscrite au *herd-book*.
 
-<sup>4</sup> La contribution pour la détermination de la pureté de la race est versée pour les reines qui ont terminé une épreuve de performance et pour les colonies à mâles sur une station de fécondation A.
+<sup>4</sup>
 
-<sup>5</sup> Une même reine et une colonie à mâles ne donnent droit qu’à une seule contribution pour la détermination de la pureté de la race.
+La contribution pour la détermination de la pureté de la race est versée pour:
 
-<sup>6</sup> La contribution pour une station de fécondation est versée si au minimum 100 jeunes reines ont été placées dans la station de fécondation pendant l’année de contribution.[^21-3]
+- a. les reines qui ont passé une épreuve de performance;
+- b. les reines de ruche à mâles sur une station de fécondation A;
+- c. les reines de ruche à mâles dont les faux bourdons sont utilisés pour l’insémination artificielle.[^21-3]
+
+<sup>5</sup> La contribution pour la détermination de la pureté de la race n’est versée qu’une seule fois par reine et par reine de ruche à mâles. Aucune contribution n’est versée si des contributions selon l’art. 23*c*, al. 2, let. f, sont déjà versées.[^21-4]
+
+<sup>5bis</sup> Si la détermination de la pureté de la race se fait au moyen d’une analyse ADN, celle-ci doit être effectuée selon une méthode scientifique reconnue au plan international, basée sur la technique d’analyse de polymorphisme nucléotidique.[^21-5]
+
+<sup>6</sup> La contribution pour une station de fécondation est versée si au minimum 100 jeunes reines ont été placées dans la station de fécondation pendant l’année de contribution.[^21-6]
 
 [^21-1]: Abrogé par le ch. I de l’O du 20 mai 2015, avec effet au 1<sup>er</sup> janv. 2016 ([RO 2015 1821](https://fedlex.data.admin.ch/eli/oc/2015/352)).
 [^21-2]: Nouvelle teneur selon le ch. I de l’O du 20 mai 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 1821](https://fedlex.data.admin.ch/eli/oc/2015/352)).
-[^21-3]: Nouvelle teneur selon le ch. I de l’O du 20 mai 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 1821](https://fedlex.data.admin.ch/eli/oc/2015/352)).
+[^21-3]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
+[^21-4]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
+[^21-5]: Introduit par le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
+[^21-6]: Nouvelle teneur selon le ch. I de l’O du 20 mai 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 1821](https://fedlex.data.admin.ch/eli/oc/2015/352)).
 
 #### Art. 22
 
@@ -539,11 +568,11 @@ La contribution pour l’élevage de camélidés du Nouveau-monde s’élève, p
 
 <sup>1</sup> Les contributions visées aux art. 15 à 21 qui sont inférieures à 50 000 francs par an pour une organisation d’élevage reconnue ne sont pas allouées. Font exception les contributions aux organisations d’élevage de races suisses. Lorsque des organisations ou des entreprises exécutent des mesures zootechniques sur mandat d’une ou de plusieurs organisations d’élevage reconnues, le seuil de 50 000 francs s’applique individuellement à chaque organisation d’élevage reconnue.
 
-<sup>2</sup> ...[^22-1]
+<sup>2</sup> …[^22-1]
 
-<sup>3</sup> Pour ce qui est des contributions visées aux art. 15 à 21, les organisations d’élevage reconnues communiquent à l’OFAG, au plus tard le 31 octobre précédant l’année de contribution, le nombre estimé d’animaux inscrits au *herd-book*, d’épreuves de performances et de poulains identifiés et inscrits au *herd-book*. L’OFAG publie les chiffres communiqués.
+<sup>3</sup> Pour les contributions visées aux art. 15 à 21, les organisations d’élevage reconnues communiquent à l’OFAG, au plus tard le 31 octobre précédant l’année de contribution, le nombre estimé d’animaux inscrits au *herd-book*, d’épreuves de performance et de poulains identifiés et inscrits au *herd-book*. La communication doit se faire au moyen du formulaire prévu à cet effet. L’OFAG publie les chiffres communiqués.[^22-2]
 
-<sup>4</sup> Les mesures zootechniques ne donnent droit à une contribution que pour les animaux dont le propriétaire est membre actif (membre individuel ou collectif) d’une organisation d’élevage reconnue pendant l’année de contribution et domicilié en Suisse ou dans la Principauté de Liechtenstein.[^22-2]
+<sup>4</sup> Les mesures zootechniques ne donnent droit à une contribution que pour les animaux dont le propriétaire est membre actif (membre individuel ou collectif) d’une organisation d’élevage reconnue pendant l’année de contribution et domicilié en Suisse ou dans la Principauté de Liechtenstein.[^22-3]
 
 <sup>5</sup> Une mesure zootechnique ne donne droit qu’à une seule contribution par animal et par an.
 
@@ -574,7 +603,8 @@ La moitié de la contribution est versée pour les animaux inscrits au *herd-boo
 <sup>9</sup> Aucune contribution n’est octroyée pour un animal inscrit au *herd-book* si aucune activité zootechnique, aucune naissance, aucune saillie ni aucune insémination n’est mentionnée à son sujet pendant les deux ans précédant le jour de référence.
 
 [^22-1]: Abrogé par le ch. I de l’O du 20 mai 2015, avec effet au 1<sup>er</sup> janv. 2016 ([RO 2015 1821](https://fedlex.data.admin.ch/eli/oc/2015/352)).
-[^22-2]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2014, en vigueur depuis le 1<sup>er</sup> juil. 2014 ([RO 2014 1687](https://fedlex.data.admin.ch/eli/oc/2014/324)).
+[^22-2]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
+[^22-3]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2014, en vigueur depuis le 1<sup>er</sup> juil. 2014 ([RO 2014 1687](https://fedlex.data.admin.ch/eli/oc/2014/324)).
 
 #### Art. 22a
 
@@ -600,47 +630,39 @@ Les moyens disponibles pour la présente section sont répartis comme suit:
 
 [^22a-1]: Introduit par le ch. I de l’O du 20 mai 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 1821](https://fedlex.data.admin.ch/eli/oc/2015/352)).
 
-## Section 5 Contributions pour la préservation des races suisses
+## Chapitre 4 Contributions pour la préservation des races suisses
+
+[^chap4-1]
+
+[^chap4-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
+
+### Section 1 Dispositions communes
+
+[^chap4-sec1-1]
+
+[^chap4-sec1-1]: Introduit par le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
 
 #### Art. 23
 
-**Principe[^23-2]**[^23-1]
+**Types de contributions et publication**[^23-1]
 
 <sup>1</sup>
 
-Des contributions sont versées pour:
+Les contributions suivantes sont versées:
 
 - a.
 
-  des projets limités dans le temps visant la préservation:
+  aides financières pour des projets limités dans le temps visant la préservation:
 
   - 1\. de races suisses,
   - 2\. de races, éteintes en Suisse, qui ont été réintroduites, pour autant que leur origine suisse puisse être prouvée;
 
-- b.[^23-3] le stockage à long terme d’échantillons congelés d’origine animale (matériel cryogéné) provenant d’animaux de races suisses;
-- c.[^23-4] la préservation des races suisses des espèces bovine, équine, porcine, ovine et caprine, dont le statut est «critique» ou «menacé».
+- b. indemnités pour l’exploitation de banques de gènes nationales aux fins de la préservation de races suisses par les personnes visées à l’art. 23*b*<sup>bis</sup>, al. 2;
+- c. aides financières pour la préservation de races suisses des espèces bovine, équine, porcine, ovine, caprine et d’abeilles mellifères dont le statut est «critique» ou «menacé».
 
-<sup>2</sup> ...[^23-5]
+<sup>2</sup> L’OFAG publie, pour chaque contribution versée, le nom du bénéficiaire et le montant de la contribution. Dans le cas des aides financières visées à l’al. 1, let. c, il publie le nom de l’organisation d’élevage et la contribution totale qui lui a été versée.
 
-<sup>3</sup>
-
-Les contributions sont versées:
-
-- a. pour les projets visés à l’al. 1, let. a: aux organisations d’élevage reconnues et aux organisations reconnues;
-- b. pour les mesures visées à l’al. 1, let. b: aux organisations d’élevage reconnues, aux organisations reconnues et aux entreprises privées dans le domaine de l’élevage;
-- c.[^23-6] pour les mesures visées à l’al. 1, let. c: aux ayants droit aux contributions par l’intermédiaire des organisations d’élevage reconnues; a droit aux contributions quiconque, au moment de la conception du premier descendant d’un animal reproducteur né vivant pendant la période de référence, est propriétaire de cet animal reproducteur.
-
-<sup>4</sup> ...[^23-7]
-
-<sup>5</sup> L’OFAG publie les contributions versées par organisation et par entreprise ainsi que par mesure.
-
-[^23-1]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 697](https://fedlex.data.admin.ch/eli/oc/2021/697)).
-[^23-2]: Nouvelle teneur selon le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 758](https://fedlex.data.admin.ch/eli/oc/2022/758)).
-[^23-3]: Nouvelle teneur selon le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 758](https://fedlex.data.admin.ch/eli/oc/2022/758)).
-[^23-4]: Introduite par le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 758](https://fedlex.data.admin.ch/eli/oc/2022/758)).
-[^23-5]: Abrogé par le ch. I de l’O du 2 nov. 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 758](https://fedlex.data.admin.ch/eli/oc/2022/758)).
-[^23-6]: Introduite par le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 758](https://fedlex.data.admin.ch/eli/oc/2022/758)).
-[^23-7]: Abrogé par le ch. I de l’O du 2 nov. 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 758](https://fedlex.data.admin.ch/eli/oc/2022/758)).
+[^23-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
 
 #### Art. 23a
 
@@ -661,28 +683,108 @@ On entend par race suisse une race:
 
 [^23a-1]: Introduit par le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 758](https://fedlex.data.admin.ch/eli/oc/2022/758)).
 
+### Section 2 Contributions pour des projets de préservation limités dans le temps et pour l’exploitation de banques de gènes nationales
+
+[^chap4-sec2-1]
+
+[^chap4-sec2-1]: Introduit par le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
+
 #### Art. 23b
 
-**Contributions pour des projets de préservation limités dans le temps et pour le stockage à long terme de matériel cryogéné**[^23b-1]
+**Aides financières pour des projets de préservation limités dans le temps et indemnités pour l’exploitation de banques de gènes nationales[^23b-2]**[^23b-1]
 
-<sup>1</sup>
-
-Le montant maximum de 900 000 francs en 2023 et de 500 000 francs à partir de 2024 est versé par année pour les projets et mesures suivants:
-
-- a. projets de préservation limités dans le temps (art. 23, al. 1, let. a);
-- b. stockage à long terme de matériel cryogéné d’animaux de races suisses (art. 23, al. 1, let. b).
+<sup>1</sup> Le montant maximum de 500 000 francs est versé par année pour des projets de préservation limités dans le temps et pour l’exploitation de banques de gènes nationales.[^23b-3]
 
 <sup>2</sup> En complément des moyens visés à l’al. 1, les moyens visés à l’art. 25 qui n’ont pas été épuisés peuvent être affectés à cette fin.
 
-<sup>3</sup> Sur les moyens visés à l’al. 1, un montant maximum de 150 000 francs est versé par année à des organisations reconnues selon l’art. 5, al. 3, let. b, pour les projets de préservation limités dans le temps.
+<sup>3</sup> Les aides financières pour des projets de préservation limités dans le temps sont octroyées aux organisations d’élevage reconnues et aux organisations reconnues au sens de l’art. 5, al. 3, let. b. Le montant maximum de 150 000 francs est versé par année aux organisation reconnues.[^23b-4]
+
+<sup>4</sup> Les aides financières pour des projets de préservation limités dans le temps se montent au maximum à 80 % des coûts attestés et reconnus par l’OFAG.[^23b-5]
 
 [^23b-1]: Introduit par le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 758](https://fedlex.data.admin.ch/eli/oc/2022/758)).
+[^23b-2]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
+[^23b-3]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
+[^23b-4]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
+[^23b-5]: Introduit par le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
+
+#### Art. 23b<sup>bis</sup>
+
+**Exploitation des banques de gènes nationales**[^23bbis-1]
+
+<sup>1</sup> Aux fins de la préservation des races suisses, l’OFAG exploite des banques de gènes nationales pour le stockage à long terme d’échantillons congelés d’origine animale (matériel cryogéné).
+
+<sup>2</sup>
+
+Il peut déléguer l’exploitation des banques de gènes nationales:
+
+- a. à des centres d’insémination;
+- b. à des organisations d’élevage reconnues pour la prise en charge des races suisses concernées, si elles font gérer les banques de gènes par des centres d’insémination.
+
+<sup>3</sup> Quiconque souhaite exploiter une banque de gènes nationale doit garantir une grande diversité génétique.
+
+<sup>4</sup>
+
+L’exploitation d’une banque de gènes nationale est réglée dans un contrat entre l’OFAG et l’exploitant. Le contrat règle en particulier:
+
+- a. le volume et la quantité minimale de matériel cryogéné à stocker;
+- b. les droits de propriété relatifs au matériel cryogéné;
+- c. le montant de l’indemnité.
+
+<sup>5</sup>
+
+L’exploitant d’une banque de gènes a les devoirs suivants:
+
+- a. il doit accorder à l’OFAG tous les droits d’information et de consultation;
+- b.
+
+  il doit garantir que les informations et documents suivants sont saisis dans le logiciel de documentation mis à disposition par l’OFAG:
+
+  - 1\. les données de contact d’au moins un interlocuteur,
+  - 2\. l’identification univoque des animaux, y compris les informations concernant leur ascendance,
+  - 3\. la nature et le volume du matériel cryogéné,
+  - 4\. les protocoles de fabrication,
+  - 5\. les lieux de stockage et la répartition dans les stocks.
+
+[^23bbis-1]: Introduit par le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
+
+#### Art. 23b<sup>ter</sup>
+
+**Utilisation du matériel cryogéné stocké dans les banques de gènes nationales**[^23bter-1]
+
+<sup>1</sup> Il est interdit d’utiliser le matériel cryogéné stocké dans une banque de gènes nationale.
+
+<sup>2</sup>
+
+Sur demande, l’OFAG peut, en dérogation à l’al. 1, autoriser l’utilisation dans les cas suivants et aux fins de la préservation d’une race suisse:
+
+- a. si des études génétiques sont menées, ou
+- b. si la diversité génétique d’une race suisse est en fort recul et que son statut est «critique».
+
+<sup>3</sup> Les organisations d’élevage reconnues pour la prise en charge de la race suisse concernée ont le droit de déposer une demande d’utilisation du matériel cryogéné.
+
+<sup>4</sup> La demande doit exposer les modalités d’utilisation du matériel cryogéné.
+
+<sup>5</sup> Si l’OFAG approuve la demande, il conclut un contrat avec l’organisation d’élevage et éventuellement d’autres acteurs concernés. Le contrat règle en particulier le but, le volume et la durée de l’utilisation du matériel cryogéné.
+
+<sup>6</sup> Le montant que le centre d’insémination qui exploite la banque de gènes concernée ou la gère sur mandat d’une organisation d’élevage facture au titulaire de l’autorisation pour la mise à disposition du matériel cryogéné ne doit pas dépasser les coûts de production du matériel cryogéné.
+
+<sup>7</sup> Le titulaire de l’autorisation doit garantir qu’après l’utilisation, un stock résiduel d’au moins 50 % du matériel cryogéné de l’animal donneur reste disponible dans la banque de gènes.
+
+<sup>8</sup> L’OFAG peut en particulier autoriser une utilisation se traduisant par un stock résiduel de moins de 50 % du matériel cryogéné de l’animal donneur dans la banque de gènes si le titulaire de l’autorisation peut prouver que la préservation d’une race suisse n’est pas assurée à court terme sans l’utilisation de matériel cryogéné supplémentaire de l’animal donneur.
+
+[^23bter-1]: Introduit par le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
+
+### Section 3 Contributions pour la préservation des races suisses dont le statut est «critique» ou «menacé»
+
+[^chap4-sec3-1]
+
+[^chap4-sec3-1]: Introduit par le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
 
 #### Art. 23c
 
-**Contributions pour la préservation des races suisses dont le statut est «critique» ou «menacé»**[^23c-1]
+**Montant des contributions[^23c-2]**[^23c-1]
 
-<sup>1</sup> Le montant maximum de 4 750 000 francs est versé par année pour la préservation des races suisses des espèces bovine, équine, porcine, ovine et caprine dont le statut est «critique» ou «menacé».[^23c-2]
+<sup>1</sup> Le montant maximum de 4 750 000 francs est versé par année pour la préservation de races suisses des espèces bovine, équine, porcine, ovine, caprine et d’abeilles mellifères dont le statut est «critique» ou «menacé».[^23c-3]
 
 <sup>2</sup> Les contributions pour la préservation des races suisses dont le statut est «critique» sont les suivantes:
 
@@ -692,6 +794,7 @@ Le montant maximum de 900 000 francs en 2023 et de 500 000 francs à partir de 2
 <tr><td>c. pour les animaux de l’espèce porcine: 1. par mâle 2. par femelle</td><td>357 francs 392.70 francs</td></tr>
 <tr><td>d. pour les animaux de l’espèce ovine: 1. par mâle 2. par femelle - prélèvement d’échantillons de lait conformément à l’art. 19, al. 2, let. b, ch. 1 3. par femelle - pas de prélèvement d’échantillons de lait conformément à l’art. 19, al. 2, let. b, ch. 1</td><td>242.80 francs 178.50 francs 121.40 francs</td></tr>
 <tr><td>e. pour les animaux de l’espèce caprine: 1. par mâle 2. par femelle - prélèvement d’échantillons de lait conformément à l’art. 19, al. 2, let. b, ch. 1 3. par femelle - pas de prélèvement d’échantillons de lait conformément à l’art. 19, al. 2, let. b, ch. 1</td><td>242.80 francs 142.80 francs 121.40 francs</td></tr>
+<tr><td>f.[^23c-4] pour les abeilles mellifères: 1. par reine de ruche à mâles 2. par reine</td><td>285.60 francs 285.60 francs</td></tr>
 </table>
 
 <sup>3</sup> Les contributions pour la préservation des races suisses dont le statut est «menacé» sont les suivantes:
@@ -700,19 +803,24 @@ Le montant maximum de 900 000 francs en 2023 et de 500 000 francs à partir de 2
 <tr><td>a. pour les animaux de l’espèce bovine: 1. par mâle 2. par femelle</td><td>282 francs 235 francs</td></tr>
 <tr><td>b. pour les animaux de l’espèce porcine: 1. par mâle 2. par femelle</td><td>117.50 francs 129.30 francs</td></tr>
 <tr><td>c. pour les animaux de l’espèce ovine: 1. par mâle 2. par femelle – prélèvement d’échantillons de lait conformément à l’art. 19, al. 2, let. b, ch. 1 3. par femelle – pas de prélèvement d’échantillons de lait conformément à l’art. 19, al. 2, let. b, ch. 1</td><td>79.90 francs 58.80 francs 40 francs</td></tr>
-<tr><td>d. pour les animaux de l’espèce caprine: 1. par mâle 2. par femelle – prélèvement d’échantillons de lait conformément à l’art. 19, al. 2, let. b, ch. 1 3. par femelle – pas de prélèvement d’échantillons de lait conformément à l’art. 19, al. 2, let. b, ch. 1</td><td>79.90 francs 47 francs 40 francs.[^23c-3]</td></tr>
+<tr><td>d. pour les animaux de l’espèce caprine: 1. par mâle 2. par femelle – prélèvement d’échantillons de lait conformément à l’art. 19, al. 2, let. b, ch. 1 3. par femelle – pas de prélèvement d’échantillons de lait conformément à l’art. 19, al. 2, let. b, ch. 1</td><td>79.90 francs 47 francs 40 francs.[^23c-5]</td></tr>
 </table>
 
-<sup>4</sup> Si le montant maximum de 4 750 000 francs ne suffit pas, les contributions visées aux al. 2 et 3 sont réduites du même pourcentage pour toutes les espèces.[^23c-4]
+<sup>4</sup> Si le montant maximum de 4 750 000 francs ne suffit pas, les contributions visées aux al. 2 et 3 sont réduites du même pourcentage pour toutes les espèces.[^23c-6]
+
+<sup>5</sup> Si des contributions au sens de l’art. 21, al. 2, let. a, ch. 2, sont déjà octroyées, elles sont déduites de la contribution pour la préservation de races suisses d’abeilles mellifères dont le statut est «critique».[^23c-7]
 
 [^23c-1]: Introduit par le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 758](https://fedlex.data.admin.ch/eli/oc/2022/758)).
-[^23c-2]: Nouvelle teneur selon le ch. I de l’O du 5 avr. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2023 184](https://fedlex.data.admin.ch/eli/oc/2023/184)).
-[^23c-3]: Nouvelle teneur selon le ch. I de l’O du 5 avr. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2023 184](https://fedlex.data.admin.ch/eli/oc/2023/184)).
-[^23c-4]: Nouvelle teneur selon le ch. I de l’O du 5 avr. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2023 184](https://fedlex.data.admin.ch/eli/oc/2023/184)).
+[^23c-2]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
+[^23c-3]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
+[^23c-4]: Introduite par le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
+[^23c-5]: Nouvelle teneur selon le ch. I de l’O du 5 avr. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2023 184](https://fedlex.data.admin.ch/eli/oc/2023/184)).
+[^23c-6]: Nouvelle teneur selon le ch. I de l’O du 5 avr. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2023 184](https://fedlex.data.admin.ch/eli/oc/2023/184)).
+[^23c-7]: Introduit par le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
 
 #### Art. 23d
 
-**Conditions pour le versement de contributions pour la préservation des races suisses dont le statut est «critique» ou «menacé»**[^23d-1]
+**Conditions d’octroi des contributions pour les espèces bovine, équine, porcine, ovine et caprine[^23d-2]**[^23d-1]
 
 <sup>1</sup>
 
@@ -720,13 +828,13 @@ Les contributions pour la préservation des races suisses dont le statut est «c
 
 - a. qui sont enregistrés ou mentionnés dans un *herd-book*;
 - b. dont les parents et les grands-parents sont enregistrés ou mentionnés dans un *herd-book* de la même race;
-- c. qui présentent un pourcentage de sang de 87,5 % ou plus de la race correspondante;
+- c.[^23d-3] qui présentent un pourcentage de sang de 87,5 % ou plus de la race correspondante, et
 - d.
 
   qui ont au moins un descendant vivant:
 
   - 1\. né durant la période de référence,
-  - 2\. inscrit au *herd-book*, et
+  - 2\.[^23d-4] inscrit ou mentionné au *herd-book*, et
   - 3\. présentant un pourcentage de sang de 87,5 % ou plus de la race correspondante.
 
 <sup>2</sup>
@@ -745,30 +853,72 @@ Les contributions ne sont octroyées que si le nombre des animaux femelles inscr
 - a. leurs parents et grands-parents sont inscrits ou mentionnés dans un herd-book de la même race;
 - b. ils présentent un pourcentage de sang de 87,5 % ou plus de la race correspondante;
 - c. les animaux inscrits au herd-book des espèces bovine, équine et porcine comptent au moins une naissance inscrite au *herd-book*;
-- d. les animaux inscrits au herd-book des espèces ovine et caprine sont âgés d’au moins six mois.[^23d-2]
+- d. les animaux inscrits au herd-book des espèces ovine et caprine sont âgés d’au moins six mois.[^23d-5]
 
 <sup>5</sup> Les contributions ne sont octroyées que si les organisations d’élevage reconnues mettent au moins une fois par an à la disposition de l’exploitant de GENMON les données du *herd-book* et les informations nécessaires pour le calcul de l’indice global.
 
 [^23d-1]: Introduit par le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 758](https://fedlex.data.admin.ch/eli/oc/2022/758)).
-[^23d-2]: Nouvelle teneur selon le ch. I de l’O du 5 avr. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2023 184](https://fedlex.data.admin.ch/eli/oc/2023/184)).
+[^23d-2]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
+[^23d-3]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
+[^23d-4]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
+[^23d-5]: Nouvelle teneur selon le ch. I de l’O du 5 avr. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2023 184](https://fedlex.data.admin.ch/eli/oc/2023/184)).
 
 #### Art. 23e
 
-**Octroi des contributions pour la préservation des races suisses dont le statut est «critique» ou «menacé»**[^23e-1]
+**Conditions d’octroi des contributionspour les abeilles mellifères**[^23e-1]
+
+<sup>1</sup>
+
+Des contributions pour la préservation des races suisses dont le statut est «critique» sont octroyées pour une reine ou une reine de ruche à mâles d’abeilles mellifères:
+
+- a. qui est inscrite ou mentionnée dans un *herd-book*;
+- b. dont la mère est inscrite ou mentionnée dans un *herd-book* de la même race;
+- c. dont l’arbre généalogique paternel contient au moins la reine de ruche à mâles de la première ou de la deuxième génération d’ascendants; les reines de ruches à mâles concernées doivent être inscrites ou mentionnées dans un *herd-book* de la même race que celle de la reine ou de la reine de ruche à mâles, étant entendu qu’une seule reine de ruche à mâles de la deuxième génération d’ascendants peut être inscrite ou mentionnée au *herd-book*;
+- d. qui présente un pourcentage de sang égal ou supérieur à 87,5 % de la race correspondante; le pourcentage de sang doit être constaté par une analyse ADN ou par un certificat d’ascendance, et l’analyse ADN doit être effectuée selon une méthode scientifique reconnue au plan international, basée sur la technique d’analyse de polymorphisme nucléotidique, et
+- e.
+
+  qui a au moins une reine comme descendante vivante, qui:
+
+  - 1\. a été attestée pendant la période de référence,
+  - 2\. est inscrite ou mentionnée au *herd-book*, et
+  - 3\. présente un pourcentage de sang égal ou supérieur à 87,5 % de la race correspondante; le pourcentage de sang doit être constaté par une analyse ADN ou par un certificat d’ascendance, et l’analyse ADN doit être effectuée selon une méthode scientifique reconnue au plan international, basée sur la technique d’analyse de polymorphisme nucléotidique.
+
+<sup>2</sup> La descendante vivante visée à l’al. 1, let. e, doit en outre présenter un degré de consanguinité basé sur au moins trois générations et ne dépassant pas 6,25 %. S’agissant des abeilles mellifères, l’arbre généalogique sur trois générations de la descendante vivante doit en outre comporter, du côté paternel, au moins la mère de la ou des reines de ruches à mâles concernées.
+
+<sup>3</sup> Les contributions ne sont octroyées que si l’effectif des femelles inscrites au *herd-book* qui ont terminé un testage ouvert ou un testage selon le système de l’échange circulaire à l’aveugle n’excède pas le nombre de 1000.
+
+<sup>4</sup> Les contributions ne sont octroyées que si l’organisation d’élevage reconnue met au moins une fois par an à la disposition de l’exploitant du GENMON les données du *herd-book* et les informations nécessaires au calcul de l’index global.
+
+[^23e-1]: Introduit par le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
+
+#### Art. 23f
+
+**Octroi des contributions pour la préservation des races suisses dont le statut est «critique» ou «menacé»**[^23f-1]
 
 <sup>1</sup> Quiconque souhaite obtenir des contributions pour la préservation des races suisses dont le statut est «critique» ou «menacé» doit en faire la demande auprès de l’organisation d’élevage reconnue concernée. La demande doit être déposée une seule fois au cours de l’année à partir de laquelle l’ayant droit souhaite recevoir les contributions.
 
+<sup>1bis</sup>
+
+A droit à une contribution:
+
+- a. pour les espèces bovine, équine, porcine, ovine et caprine: quiconque, au moment de la naissance du premier descendant né vivant d’un géniteur pendant la période de référence, est propriétaire de celui‑ci;
+- b. pour les abeilles mellifères: quiconque, au moment de la fécondation de la première descendante fécondée d’une reine pendant la période de référence, est propriétaire de celle‑ci.[^23f-2]
+
 <sup>2</sup> L’organisation d’élevage reconnue vérifie le droit aux contributions.
 
-<sup>3</sup> Elle demande à l’OFAG le versement des contributions à l’aide d’une liste des animaux mâles et femelles pour lesquels les contributions doivent être versées pendant la période de référence concernée. Le versement d’une seule contribution peut être demandé par animal et par période de référence.
+<sup>3</sup> Elle demande à l’OFAG le versement des contributions sur la base d’une liste des géniteurs mâles et femelles ou des reines d’abeilles mellifères et des reines de ruches à mâles d’abeilles mellifères pour lesquels des contributions doivent être octroyées pendant la période de référence concernée. Au cours d’une période de référence, le versement d’une seule contribution peut être demandé par animal ou reine.[^23f-3]
 
-<sup>4</sup> L’organisation d’élevage reconnue verse les contributions à l’ayant droit au plus tard 60 jours après avoir obtenu les contributions de l’OFAG.
+<sup>4</sup> L’OFAG verse les contributions à l’organisation d’élevage reconnue. Celle-ci les verse aux ayants droit au plus tard 60 jours après les avoir reçues de l’OFAG.[^23f-4]
 
-<sup>5</sup> Elle communique à l’OFAG, au plus tard le 31 octobre précédant l’année de contribution, le nombre estimé d’animaux mâles et femelles pour lesquels des contributions seront versées.
+<sup>5</sup> L’organisation d’élevage reconnue communique à l’OFAG, au plus tard le 31 octobre précédant l’année de contribution, le nombre estimé de mâles et femelles ou le nombre de reines d’abeilles mellifères et de reines de ruches à mâles d’abeilles mellifères donnant droit à des contributions.[^23f-5]
 
 <sup>6</sup> L’OFAG publie les contributions versées aux organisations d’élevage reconnues.
 
-[^23e-1]: Introduit par le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 758](https://fedlex.data.admin.ch/eli/oc/2022/758)).
+[^23f-1]: Anciennement art. 23*e*. Introduit par le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 758](https://fedlex.data.admin.ch/eli/oc/2022/758)).
+[^23f-2]: Introduit par le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
+[^23f-3]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
+[^23f-4]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
+[^23f-5]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
 
 #### Art. 24
 
@@ -776,24 +926,32 @@ Les contributions ne sont octroyées que si le nombre des animaux femelles inscr
 
 [^24-1]: Abrogé par le ch. I de l’O du 2 nov. 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 758](https://fedlex.data.admin.ch/eli/oc/2022/758)).
 
-## Section 6 Contributions aux projets de recherche
+## Chapitre 5 Contributions aux projets de recherche
+
+[^chap5-1]
+
+[^chap5-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
 
 #### Art. 25
 
 [^25-1]
 
-<sup>1</sup> Les organisations d’élevage reconnues et les instituts des hautes écoles fédérales et cantonales sont soutenues par des contributions pour les projets de recherche sur les ressources zoogénétiques. Le montant maximum alloué est de 100 000 francs par an en 2023 et de 500 000 francs par an à partir de 2024.[^25-2]
+<sup>1</sup> Les organisations d’élevage reconnues et les instituts des hautes écoles fédérales et cantonales sont soutenues par des contributions pour les projets de recherche sur les ressources zoogénétiques.[^25-2]
+
+<sup>1bis</sup> Les contributions se montent au maximum à 500 000 francs par an, au maximum toutefois à 80 % des coûts attestés et reconnus par l’OFAG.[^25-3]
 
 <sup>2</sup> L’OFAG publie les contributions versées par organisation et par institut ainsi que par mesure.
 
 [^25-1]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 697](https://fedlex.data.admin.ch/eli/oc/2021/697)).
-[^25-2]: Nouvelle teneur selon le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 758](https://fedlex.data.admin.ch/eli/oc/2022/758)).
+[^25-2]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
+[^25-3]: Introduit par le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
 
-## Section 6*a* Tâches du Haras national suisse
+## Chapitre 6 Tâches du Haras national suisse
 
-[^sec6a-1]
+[^chap6-1][^chap6-2]
 
-[^sec6a-1]: Introduite par le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 697](https://fedlex.data.admin.ch/eli/oc/2021/697)).
+[^chap6-1]: Introduit par le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 697](https://fedlex.data.admin.ch/eli/oc/2021/697)).
+[^chap6-2]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
 
 #### Art. 25a
 
@@ -811,7 +969,11 @@ Le Haras national suisse visé à l’art. 147 de la loi du 29 avril 1998 sur l�
 
 [^25a-1]: [RS 910.11](https://fedlex.data.admin.ch/eli/cc/2006/415)
 
-## Section 7 Certificat d’ascendance pour la mise sur le marché d’animaux reproducteurs, de semence, d’ovules non fécondés et d’embryons
+## Chapitre 7 Certificat d’ascendance pour la mise sur le marché d’animaux reproducteurs, de semence, d’ovules non fécondés et d’embryons
+
+[^chap7-1]
+
+[^chap7-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
 
 #### Art. 26
 
@@ -890,7 +1052,11 @@ Le certificat d’ascendance pour les embryons de reproducteurs bovins, porcins,
 
 <sup>2</sup> Lorsque plusieurs embryons se trouvent dans un même récipient (unité de stockage la plus petite), le certificat le mentionnera clairement. Tous les embryons d’un même récipient doivent provenir de la même mère.
 
-## Section 8 Importation d’animaux reproducteurs et de rente ainsi que de semence de taureaux dans le cadre des contingents tarifaires
+## Chapitre 8 Importation d’animaux reproducteurs et de rente ainsi que de semence de taureaux dans le cadre des contingents tarifaires
+
+[^chap8-1]
+
+[^chap8-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
 
 #### Art. 31
 
@@ -960,7 +1126,11 @@ Les documents suivants doivent être fournis à l’OFAG en même temps que la d
 
 [^35-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 
-## Section 9 Dispositions finales
+## Chapitre 9 Dispositions finales
+
+[^chap9-1]
+
+[^chap9-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
 
 #### Art. 36
 
@@ -1014,7 +1184,7 @@ Annexe 1[^t-1]
 
 ## Délais pour le dépôt des demandes d’octroi des contributions et pour le dépôt des décomptes ainsi que jours de référence et périodes de référence
 
-[^t-1]: Mise à jour par le ch. II des O du 21 mai 2014 ([RO 2014 1687](https://fedlex.data.admin.ch/eli/oc/2014/324)), du 20 mai 2015 ([RO 2015 1821](https://fedlex.data.admin.ch/eli/oc/2015/352)) et le ch. I et II de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 758](https://fedlex.data.admin.ch/eli/oc/2022/758)).
+[^t-1]: Mise à jour par le ch. II des O du 21 mai 2014 ([RO 2014 1687](https://fedlex.data.admin.ch/eli/oc/2014/324)), du 20 mai 2015 ([RO 2015 1821](https://fedlex.data.admin.ch/eli/oc/2015/352)), le ch. I et II de l’O du 2 nov. 2022 ([RO 2022 758](https://fedlex.data.admin.ch/eli/oc/2022/758)) et le ch. II de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
 
 ### 1. Élevage bovin
 
@@ -1022,10 +1192,10 @@ Annexe 1[^t-1]
 <tr><td>Art. 15</td><td>Jour de référence/période de référence</td><td>Délai</td></tr>
 <tr><td>Animaux inscrits au *herd-book* et animaux non *herd-book*, mais faisant partie d’une exploitation affiliée au *herd-book*</td><td>30 novembre</td><td>15 décembre</td></tr>
 <tr><td>Appréciation de la morphologie (description linéaire et classification)</td><td>1<sup>er</sup> novembre au 31 octobre</td><td>30 novembre</td></tr>
-<tr><td>Clôture de la lactation</td><td>16 décembre au 31 mars</td><td>15 avril</td></tr>
-<tr><td>Clôture de la lactation</td><td>1<sup>er</sup> avril au 30 juin</td><td>15 juillet</td></tr>
-<tr><td>Clôture de la lactation</td><td>1<sup>er</sup> juillet au 30 septembre</td><td>15 octobre</td></tr>
-<tr><td>Clôture de la lactation</td><td>1<sup>er</sup> octobre au 15 décembre</td><td>20 décembre</td></tr>
+<tr><td>Prélèvement d’échantillons de lait</td><td>16 décembre au 31 mars</td><td>15 avril</td></tr>
+<tr><td>Prélèvement d’échantillons de lait</td><td>1<sup>er</sup> avril au 30 juin</td><td>15 juillet</td></tr>
+<tr><td>Prélèvement d’échantillons de lait</td><td>1<sup>er</sup> juillet au 30 septembre</td><td>15 octobre</td></tr>
+<tr><td>Prélèvement d’échantillons de lait</td><td>1<sup>er</sup> octobre au 15 décembre</td><td>20 décembre</td></tr>
 <tr><td>Contrôle de la performance carnée</td><td>1<sup>er</sup> octobre au 30 septembre</td><td>15 octobre</td></tr>
 <tr><td>Contrôles sanitaires</td><td>1<sup>er</sup> décembre au 30 novembre</td><td>15 décembre</td></tr>
 </table>
@@ -1063,7 +1233,7 @@ Annexe 1[^t-1]
 <table>
 <tr><td>Art. 19</td><td>Jour de référence/période de référence</td><td>Délai</td></tr>
 <tr><td>Animaux inscrits au *herd-book*</td><td>1<sup>er</sup> juin</td><td>15 juillet</td></tr>
-<tr><td>Clôture de la lactation</td><td>1<sup>er</sup> décembre au 30 novembre</td><td>15 décembre</td></tr>
+<tr><td>Prélèvement d’échantillons de lait</td><td>1<sup>er</sup> décembre au 30 novembre</td><td>15 décembre</td></tr>
 <tr><td>Épreuves du pouvoir nourricier</td><td>1<sup>er</sup> décembre au 30 novembre</td><td>15 décembre</td></tr>
 </table>
 
@@ -1110,6 +1280,6 @@ Annexe 2
 
 ## Modification du droit en vigueur
 
-...[^annex2-lvlu1-1]
+…[^annex2-lvlu1-1]
 
 [^annex2-lvlu1-1]: Les mod. peuvent être consultées au [RO 2012 6407](https://fedlex.data.admin.ch/eli/oc/2012/763).

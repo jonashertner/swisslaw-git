@@ -4,11 +4,11 @@ title: "Verordnung vom 31. Oktober 2012 über die Tierzucht (Tierzuchtverordnung
 short: TZV
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/763"
 language: de
-version: 2023-01-01
+version: 2024-01-01
 adopted: 2012-10-31
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/763/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2012-763-20230101-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/763/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/763/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2012-763-20240101-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/763/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/763/20230101/de"
 
 (Tierzuchtverordnung, TZV)
 
-vom 31. Oktober 2012 (Stand am 1. Januar 2023)
+vom 31. Oktober 2012 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -28,7 +28,11 @@ verordnet:
 [^ingress-1]: [SR 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
 [^ingress-2]: Fassung gemäss Ziff. I der V vom 21. Mai 2014, in Kraft seit 1. Juli 2014 ([AS 2014 1687](https://fedlex.data.admin.ch/eli/oc/2014/324)).
 
-## 1. Abschnitt: Allgemeine Bestimmungen
+## 1. Kapitel: Allgemeine Bestimmungen
+
+[^chap1-1]
+
+[^chap1-1]: Fassung gemäss Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
 
 #### Art. 1
 
@@ -63,7 +67,12 @@ In dieser Verordnung bedeuten:
 - i. Hengstleistungsprüfung: Prüfung zur Selektion der besten Zuchthengste aus einer Population;
 - j. eingetragenes Fohlen: im Herdebuch der Zuchtorganisation mit Identitätsnummer und Namen eingetragenes Fohlen;
 - k. identifiziertes Fohlen: bei Fuss der Mutter mit grafischem und verbalem Signalement beschriebenes Fohlen;
-- l. Nichtherdebuchtiere: Tiere, die zwar im Herdebuch einer Zuchtorganisation eingetragen sind, aber die Anforderungen an den entsprechenden Rassenstandard nicht erfüllen.
+- l. Nichtherdebuchtiere: Tiere, die zwar im Herdebuch einer Zuchtorganisation eingetragen sind, aber die Anforderungen an den entsprechenden Rassenstandard nicht erfüllen;
+- m.[^2-1] Königin: Mutter aller Bienen eines Bienenvolkes, dessen Drohnen nicht für die Belegung von Königinnen verwendet werden;
+- n.[^2-2] Drohnenkönigin: Mutter eines Bienenvolkes, dessen Drohnen für die Belegung von Königinnen verwendet werden.
+
+[^2-1]: Eingefügt durch Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
+[^2-2]: Eingefügt durch Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
 
 #### Art. 3
 
@@ -83,16 +92,20 @@ In dieser Verordnung bedeuten:
 
 <sup>2bis</sup> Die Beiträge werden erst ausgerichtet, nachdem eine Abrechnung über die erbrachten Leistungen eingereicht worden ist. Für Beiträge für züchterische Massnahmen gilt die Abrechnung gleichzeitig als Gesuch. Die Fristen für die Einreichung der Abrechnungen sind in Anhang 1 festgelegt.[^4-2]
 
-<sup>3</sup> Das Bundesamt für Landwirtschaft (BLW) kann Anhang 1 ändern.
+<sup>3</sup> Die Gesuche und Abrechnungen sind auf den dafür vorgesehenen Formularen beim Bundesamt für Landwirtschaft (BLW) einzureichen.[^4-3]
+
+<sup>4</sup> Das BLW kann Anhang 1 ändern.[^4-4]
 
 [^4-1]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 697](https://fedlex.data.admin.ch/eli/oc/2021/697)).
 [^4-2]: Eingefügt durch Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 758](https://fedlex.data.admin.ch/eli/oc/2022/758)).
+[^4-3]: Fassung gemäss Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
+[^4-4]: Eingefügt durch Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
 
-## 2. Abschnitt: Anerkennung von Organisationen und Zuchtunternehmen
+## 2. Kapitel: Anerkennung von Organisationen und Zuchtunternehmen
 
-[^sec2-1]
+[^chap2-1]
 
-[^sec2-1]: Fassung gemäss Ziff. I der V vom 21. Mai 2014, in Kraft seit 1. Juli 2014 ([AS 2014 1687](https://fedlex.data.admin.ch/eli/oc/2014/324)).
+[^chap2-1]: Fassung gemäss Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
 
 #### Art. 5
 
@@ -264,8 +277,11 @@ Zuchtorganisationen, Zuchtorganisationen für hybride Zuchtschweine und private 
 
 <sup>4</sup> Änderungen in Bezug auf die Anerkennungsvoraussetzungen müssen dem BLW innerhalb von drei Monaten gemeldet werden.
 
+<sup>5</sup> Das BLW veröffentlicht die Liste der anerkannten Zuchtorganisationen.[^11-3]
+
 [^11-1]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 697](https://fedlex.data.admin.ch/eli/oc/2021/697)).
 [^11-2]: [SR 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^11-3]: Eingefügt durch Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
 
 #### Art. 12
 
@@ -292,19 +308,17 @@ Der Antrag wird abgelehnt, wenn:
 
 <sup>4</sup> Das BLW veröffentlicht die Liste der ausländischen Zuchtorganisationen, die in der Schweiz tätig sind.
 
-## 3. Abschnitt: …
-
 #### Art. 14
 
 [^14-1]
 
 [^14-1]: Aufgehoben durch Ziff. I der V vom 3. Nov. 2021, mit Wirkung seit 1. Jan. 2022 ([AS 2021 697](https://fedlex.data.admin.ch/eli/oc/2021/697)).
 
-## 4. Abschnitt: Beiträge für züchterische Massnahmen
+## 3. Kapitel: Beiträge für züchterische Massnahmen
 
-[^sec4-1]
+[^chap3-1]
 
-[^sec4-1]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 697](https://fedlex.data.admin.ch/eli/oc/2021/697)).
+[^chap3-1]: Fassung gemäss Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
 
 #### Art. 14a
 
@@ -346,9 +360,10 @@ Die Unterstützung erfolgt durch:
 <table>
 <tr><td>a. die Herdebuchführung: je Herdebuchtier</td><td>12.00 Franken</td></tr>
 <tr><td>b. Leistungsprüfungen: 1. je Exterieurbeurteilung mit linearer Beschreibung und Einstufung</td><td>9.00 Franken</td></tr>
-<tr><td>2. Milchproben: – je Milchprobe nach ICAR-Methode A4 – je Milchprobe nach ICAR-Methode AT4 oder ATM4 – je Milchprobe nach ICAR-Methode B oder C</td><td>5.00 Franken 3.50 Franken 2.20 Franken</td></tr>
+<tr><td>2.[^15-2] Milchproben: – je Milchprobe nach ICAR-Methode A4 – je Milchprobe nach ICAR-Methode AT4, ATM4, ATM4/7d oder AZ4 – je Milchprobe nach ICAR-Methode B oder C</td><td>5.00 Franken 3.50 Franken 2.20 Franken</td></tr>
+<tr><td>[tab]</td><td></td></tr>
 <tr><td>3. je Fleischleistungsprüfung nach ICAR</td><td>26.00 Franken</td></tr>
-<tr><td>4. je Erstdiagnose bei der Gesundheitsleistungsprüfung nach ICAR</td><td>1.00 Franken.[^15-2]</td></tr>
+<tr><td>4. je Erstdiagnose bei der Gesundheitsleistungsprüfung nach ICAR</td><td>1.00 Franken.[^15-3]</td></tr>
 </table>
 
 <sup>3</sup> Beiträge für die Exterieurbeurteilung werden für eine gemäss internationalem Standard durchgeführte Methode der linearen Beschreibung und Einstufung ausgerichtet.
@@ -362,16 +377,18 @@ Der halbe Beitrag je Milchprobe wird ausgerichtet für Kühe in Herdebuchbetrieb
 
 <sup>5</sup> Kein Beitrag für Milchproben wird ausgerichtet für Kühe in Herdebuchbetrieben, für die Absatz 4 Buchstaben a und b zutrifft.
 
-<sup>6</sup> Der Beitrag je Milchprobe im Rahmen der Milchleistungsprüfung wird für jede Kuh eines Herdebuchbetriebs nach Abschluss der Laktation ausgerichtet.
+<sup>6</sup> Der Beitrag je Milchprobe im Rahmen der Milchleistungsprüfung wird für jede Kuh eines Herdebuchbetriebs ausgerichtet. Die anerkannte Zuchtorganisation meldet dem BLW, ob die Ausrichtung quartalsweise oder jährlich erfolgen soll.[^15-4]
 
-<sup>7</sup> …[^15-3]
+<sup>7</sup> …[^15-5]
 
-<sup>8</sup> Es werden für maximal drei Erstdiagnosen bei der Gesundheitsleistungsprüfung je Tier und Referenzperiode Beiträge ausgerichtet.[^15-4]
+<sup>8</sup> Es werden für maximal drei Erstdiagnosen bei der Gesundheitsleistungsprüfung je Tier und Referenzperiode Beiträge ausgerichtet.[^15-6]
 
 [^15-1]: Aufgehoben durch Ziff. I der V vom 20. Mai 2015, mit Wirkung seit 1. Jan. 2016 ([AS 2015 1821](https://fedlex.data.admin.ch/eli/oc/2015/352)).
-[^15-2]: Fassung gemäss Ziff. I der V vom 20. Mai 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 1821](https://fedlex.data.admin.ch/eli/oc/2015/352)).
-[^15-3]: Eingefügt durch Ziff. I der V vom 21. Mai 2014 ([AS 2014 1687](https://fedlex.data.admin.ch/eli/oc/2014/324)). Aufgehoben durch Ziff. I der V vom 20. Mai 2015, mit Wirkung seit 1. Jan. 2016 ([AS 2015 1821](https://fedlex.data.admin.ch/eli/oc/2015/352)).
-[^15-4]: Eingefügt durch Ziff. I der V vom 21. Mai 2014, in Kraft seit 1. Juli 2014 ([AS 2014 1687](https://fedlex.data.admin.ch/eli/oc/2014/324)).
+[^15-2]: Fassung gemäss Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
+[^15-3]: Fassung gemäss Ziff. I der V vom 20. Mai 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 1821](https://fedlex.data.admin.ch/eli/oc/2015/352)).
+[^15-4]: Fassung gemäss Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
+[^15-5]: Eingefügt durch Ziff. I der V vom 21. Mai 2014 ([AS 2014 1687](https://fedlex.data.admin.ch/eli/oc/2014/324)). Aufgehoben durch Ziff. I der V vom 20. Mai 2015, mit Wirkung seit 1. Jan. 2016 ([AS 2015 1821](https://fedlex.data.admin.ch/eli/oc/2015/352)).
+[^15-6]: Eingefügt durch Ziff. I der V vom 21. Mai 2014, in Kraft seit 1. Juli 2014 ([AS 2014 1687](https://fedlex.data.admin.ch/eli/oc/2014/324)).
 
 #### Art. 16
 
@@ -481,7 +498,8 @@ Der Beitrag für Stationsprüfungen wird ausgerichtet, sofern die Erhebung der G
 
 <table>
 <tr><td>a. die Herdebuchführung: je Herdebuchtier</td><td>35.00</td><td>Franken</td></tr>
-<tr><td>b. Leistungsprüfungen: 1. Milchproben: – je Milchprobe nach ICAR-Methode A4 – je Milchprobe nach ICAR-Methode AT4 oder ATM4 – je Milchprobe nach ICAR-Methode B oder C 2. je Aufzuchtleistungsprüfung</td><td>6.00 4.50 3.20 26.00</td><td>Franken Franken Franken Franken.[^19-2]</td></tr>
+<tr><td>b. Leistungsprüfungen: 1.[^19-2] Milchproben: – je Milchprobe nach ICAR-Methode A4 – je Milchprobe nach ICAR-Methode AT4, ATM4 oder ATM4/7d – je Milchprobe nach ICAR-Methode B oder C</td><td>6.00 4.50 3.20</td><td>Franken Franken Franken</td></tr>
+<tr><td>2. je Aufzuchtleistungsprüfung</td><td>26.00</td><td>Franken.[^19-3]</td></tr>
 </table>
 
 <sup>3</sup>
@@ -493,12 +511,14 @@ Der halbe Beitrag je Milchprobe wird für Ziegen und Milchschafe in Herdebuchbet
 
 <sup>4</sup> Kein Beitrag für Milchproben wird ausgerichtet für Ziegen und Milchschafe, für die Absatz 3 Buchstaben a und b zutrifft.
 
-<sup>5</sup> Der Beitrag je Milchprobe im Rahmen der Milchleistungsprüfung wird für jede Ziege und jedes Milchschaf eines Herdebuchbetriebs nach Abschluss der Laktation ausgerichtet.
+<sup>5</sup> Der Beitrag je Milchprobe im Rahmen der Milchleistungsprüfung wird für jede Ziege und jedes Milchschaf eines Herdebuchbetriebs ausgerichtet. Die Ausrichtung erfolgt jährlich.[^19-4]
 
 <sup>6</sup> Der Beitrag für Aufzuchtleistungsprüfungen wird ausgerichtet, sofern das Geburtsgewicht praxisüblich erhoben wird und zwischen dem 35. und dem 45. Lebenstag mindestens eine Kontrollwägung erfolgt.
 
 [^19-1]: Aufgehoben durch Ziff. I der V vom 20. Mai 2015, mit Wirkung seit 1. Jan. 2016 ([AS 2015 1821](https://fedlex.data.admin.ch/eli/oc/2015/352)).
-[^19-2]: Fassung gemäss Ziff. I der V vom 20. Mai 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 1821](https://fedlex.data.admin.ch/eli/oc/2015/352)).
+[^19-2]: Fassung gemäss Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
+[^19-3]: Fassung gemäss Ziff. I der V vom 20. Mai 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 1821](https://fedlex.data.admin.ch/eli/oc/2015/352)).
+[^19-4]: Fassung gemäss Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
 
 #### Art. 20
 
@@ -523,15 +543,26 @@ Der Beitrag für die Neuweltkamelidenzucht beträgt für die Herdebuchführung j
 
 <sup>3</sup> Der Beitrag je Königin wird ausgerichtet, wenn sie eine offene oder verdeckte Ringprüfung abgeschlossen hat und im Herdebuch eingetragen ist.
 
-<sup>4</sup> Der Beitrag für die Bestimmung der Rassenreinheit wird ausgerichtet für Königinnen, die eine Leistungsprüfung abgeschlossen haben, und Vatervölker auf A‑Belegstationen.
+<sup>4</sup>
 
-<sup>5</sup> Für ein und dieselbe Königin und für ein Vatervolk wird nur einmal ein Beitrag für die Bestimmung der Rassenreinheit ausgerichtet.
+Der Beitrag für die Bestimmung der Rassenreinheit wird ausgerichtet für:
 
-<sup>6</sup> Der Beitrag für eine Belegstation wird ausgerichtet, wenn im Beitragsjahr mindestens 100 Jungköniginnen auf die Belegstation aufgeführt werden.[^21-3]
+- a. Königinnen, die eine Leistungsprüfung abgeschlossen haben;
+- b. Drohnenköniginnen auf A‑Belegstationen;
+- c. Drohnenköniginnen, deren Drohnen für die künstliche Besamung genutzt werden.[^21-3]
+
+<sup>5</sup> Der Beitrag für die Bestimmung der Rassenreinheit wird pro Königin und Drohnenkönigin nur einmal ausgerichtet. Kein Beitrag wird ausgerichtet, wenn bereits Beiträge nach Artikel 23*c* Absatz 2 Buchstabe f ausgerichtet werden.[^21-4]
+
+<sup>5bis</sup> Erfolgt die Bestimmung der Rassenreinheit mit DNA-Analyse, so muss diese nach einer wissenschaftlich und international anerkannten Methode, die auf Einzelnukleotidtypisierung basiert, durchgeführt werden.[^21-5]
+
+<sup>6</sup> Der Beitrag für eine Belegstation wird ausgerichtet, wenn im Beitragsjahr mindestens 100 Jungköniginnen auf die Belegstation aufgeführt werden.[^21-6]
 
 [^21-1]: Aufgehoben durch Ziff. I der V vom 20. Mai 2015, mit Wirkung seit 1. Jan. 2016 ([AS 2015 1821](https://fedlex.data.admin.ch/eli/oc/2015/352)).
 [^21-2]: Fassung gemäss Ziff. I der V vom 20. Mai 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 1821](https://fedlex.data.admin.ch/eli/oc/2015/352)).
-[^21-3]: Fassung gemäss Ziff. I der V vom 20. Mai 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 1821](https://fedlex.data.admin.ch/eli/oc/2015/352)).
+[^21-3]: Fassung gemäss Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
+[^21-4]: Fassung gemäss Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
+[^21-5]: Eingefügt durch Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
+[^21-6]: Fassung gemäss Ziff. I der V vom 20. Mai 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 1821](https://fedlex.data.admin.ch/eli/oc/2015/352)).
 
 #### Art. 22
 
@@ -541,9 +572,9 @@ Der Beitrag für die Neuweltkamelidenzucht beträgt für die Herdebuchführung j
 
 <sup>2</sup> …[^22-1]
 
-<sup>3</sup> Die anerkannten Zuchtorganisationen melden dem BLW bis zum 31. Oktober des dem Beitragsjahr vorangehenden Jahres die geschätzte Anzahl Herdebuchtiere, Leistungsprüfungen sowie identifizierte und im Herdebuch eingetragene Fohlen für die Beiträge nach den Artikeln 15–21. Das BLW veröffentlicht die gemeldeten Zahlen.
+<sup>3</sup> Für die Beiträge nach den Artikeln 15–21 melden die anerkannten Zuchtorganisationen dem BLW bis zum 31. Oktober des dem Beitragsjahr vorangehenden Jahres die geschätzte Anzahl an Herdebuchtieren und an Leistungsprüfungen sowie die Anzahl an identifizierten und im Herdebuch eingetragenen Fohlen. Die Meldung muss auf dem dafür vorgesehenen Formular erfolgen. Das BLW veröffentlicht die gemeldeten Zahlen.[^22-2]
 
-<sup>4</sup> Züchterische Massnahmen dürfen nur für Tiere abgerechnet werden, deren Eigentümerin oder Eigentümer im Beitragsjahr Aktivmitglied (Einzelmitgliedschaft oder Kollektivmitgliedschaft) der anerkannten Zuchtorganisation ist und Wohnsitz in der Schweiz oder im Fürstentum Liechtenstein hat.[^22-2]
+<sup>4</sup> Züchterische Massnahmen dürfen nur für Tiere abgerechnet werden, deren Eigentümerin oder Eigentümer im Beitragsjahr Aktivmitglied (Einzelmitgliedschaft oder Kollektivmitgliedschaft) der anerkannten Zuchtorganisation ist und Wohnsitz in der Schweiz oder im Fürstentum Liechtenstein hat.[^22-3]
 
 <sup>5</sup> Eine züchterische Massnahme darf je Tier und je Jahr nur einmal abgerechnet werden.
 
@@ -574,7 +605,8 @@ Herdebuchtiere, welche die Anforderungen nach den Absätzen 6 und 7 nicht erfül
 <sup>9</sup> Ist für ein Herdebuchtier während der vergangenen zwei Jahre vor dem Stichtag keine züchterische Tätigkeit, keine Geburt oder keine Belegung oder Besamung ausgewiesen ist, so wird kein Beitrag je Herdebuchtier ausgerichtet.
 
 [^22-1]: Aufgehoben durch Ziff. I der V vom 20. Mai 2015, mit Wirkung seit 1. Jan. 2016 ([AS 2015 1821](https://fedlex.data.admin.ch/eli/oc/2015/352)).
-[^22-2]: Fassung gemäss Ziff. I der V vom 21. Mai 2014, in Kraft seit 1. Juli 2014 ([AS 2014 1687](https://fedlex.data.admin.ch/eli/oc/2014/324)).
+[^22-2]: Fassung gemäss Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
+[^22-3]: Fassung gemäss Ziff. I der V vom 21. Mai 2014, in Kraft seit 1. Juli 2014 ([AS 2014 1687](https://fedlex.data.admin.ch/eli/oc/2014/324)).
 
 #### Art. 22a
 
@@ -600,47 +632,39 @@ Herdebuchtiere, welche die Anforderungen nach den Absätzen 6 und 7 nicht erfül
 
 [^22a-1]: Eingefügt durch Ziff. I der V vom 20. Mai 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 1821](https://fedlex.data.admin.ch/eli/oc/2015/352)).
 
-## 5. Abschnitt: Beiträge zur Erhaltung der Schweizer Rassen
+## 4. Kapitel: Beiträge für die Erhaltung der Schweizer Rassen
+
+[^chap4-1]
+
+[^chap4-1]: Fassung gemäss Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
+
+### 1. Abschnitt: Gemeinsame Bestimmungen
+
+[^chap4-sec1-1]
+
+[^chap4-sec1-1]: Eingefügt durch Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
 
 #### Art. 23
 
-**Grundsatz[^23-2]**[^23-1]
+**Beitragsarten und Veröffentlichung**[^23-1]
 
 <sup>1</sup>
 
-Es werden Beiträge ausgerichtet für:
+Es werden die folgenden Beiträge ausgerichtet:
 
 - a.
 
-  zeitlich befristete Projekte zur Erhaltung von:
+  Finanzhilfen für zeitlich befristete Projekte zur Erhaltung von:
 
   - 1\. Schweizer Rassen,
   - 2\. Rassen, die in der Schweiz ausgestorben waren und wieder eingeführt wurden, sofern ihr Ursprung in der Schweiz nachgewiesen wird;
 
-- b.[^23-3] die Langzeitlagerung von tiefgefrorenem Probematerial tierischen Ursprungs (Kryomaterial) von Tieren von Schweizer Rassen;
-- c.[^23-4] die Erhaltung von Schweizer Rassen der Gattungen Rindvieh, Equiden, Schweine, Schafe und Ziegen, deren Status kritisch oder gefährdet ist.
+- b. Abgeltungen für den Betrieb nationaler Genbanken für die Erhaltung von Schweizer Rassen durch Personen nach Artikel 23*b*<sup>bis</sup> Absatz 2;
+- c. Finanzhilfen für die Erhaltung von Schweizer Rassen der Gattungen Rindvieh, Equiden, Schweine, Schafe, Ziegen, Honigbienen, deren Status kritisch oder gefährdet ist.
 
-<sup>2</sup> …[^23-5]
+<sup>2</sup> Das BLW veröffentlicht pro ausgerichteten Beitrag den Namen der Empfängerin oder des Empfängers und die Höhe des Beitrags. Bei Finanzhilfen nach Absatz 1 Buchstabe c veröffentlicht es den Namen der Zuchtorganisation und den ihr ausgerichteten Gesamtbeitrag.
 
-<sup>3</sup>
-
-Die Beiträge werden ausgerichtet:
-
-- a. für Projekte nach Absatz 1 Buchstabe a: an anerkannte Zuchtorganisationen und anerkannte Organisationen;
-- b. für Massnahmen nach Absatz 1 Buchstabe b: an anerkannte Zuchtorganisationen, anerkannte Organisationen und private Unternehmen aus dem Tierzuchtbereich;
-- c.[^23-6] für Massnahmen nach Absatz 1 Buchstabe c: über die anerkannten Zuchtorganisationen an die Beitragsberechtigten; beitragsberechtigt ist, wer im Zeitpunkt der Konzeption des ersten in der Referenzperiode lebend geborenen Nachkommens eines Elterntiers Eigentümerin oder Eigentümer dieses Elterntiers ist.
-
-<sup>4</sup> …[^23-7]
-
-<sup>5</sup> Das BLW veröffentlicht die ausgerichteten Beiträge je Organisation beziehungsweise je Unternehmen sowie je Massnahme.
-
-[^23-1]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 697](https://fedlex.data.admin.ch/eli/oc/2021/697)).
-[^23-2]: Fassung gemäss Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 758](https://fedlex.data.admin.ch/eli/oc/2022/758)).
-[^23-3]: Fassung gemäss Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 758](https://fedlex.data.admin.ch/eli/oc/2022/758)).
-[^23-4]: Eingefügt durch Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 758](https://fedlex.data.admin.ch/eli/oc/2022/758)).
-[^23-5]: Aufgehoben durch Ziff. I der V vom 2. Nov. 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 758](https://fedlex.data.admin.ch/eli/oc/2022/758)).
-[^23-6]: Eingefügt durch Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 758](https://fedlex.data.admin.ch/eli/oc/2022/758)).
-[^23-7]: Aufgehoben durch Ziff. I der V vom 2. Nov. 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 758](https://fedlex.data.admin.ch/eli/oc/2022/758)).
+[^23-1]: Fassung gemäss Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
 
 #### Art. 23a
 
@@ -661,28 +685,108 @@ Als Schweizer Rasse gilt eine Rasse:
 
 [^23a-1]: Eingefügt durch Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 758](https://fedlex.data.admin.ch/eli/oc/2022/758)).
 
+### 2. Abschnitt: Beiträge für zeitlich befristete Erhaltungsprojekte und für den Betrieb nationaler Genbanken
+
+[^chap4-sec2-1]
+
+[^chap4-sec2-1]: Eingefügt durch Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
+
 #### Art. 23b
 
-**Beiträge für zeitlich befristete Erhaltungsprojekte und für die Langzeitlagerung von Kryomaterial**[^23b-1]
+**Finanzhilfen für zeitlich befristete Erhaltungsprojekte und Abgeltungen für den Betrieb nationaler Genbanken[^23b-2]**[^23b-1]
 
-<sup>1</sup>
-
-Für die folgenden Projekte und Massnahmen werden im Jahr 2023 insgesamt höchstens 900 000 Franken und ab dem Jahr 2024 insgesamt höchstens 500 000 Franken pro Jahr ausgerichtet:
-
-- a. zeitlich befristete Erhaltungsprojekte (Art. 23 Abs. 1 Bst. a);
-- b. die Langzeitlagerung von Kryomaterial von Tieren von Schweizer Rassen (Art. 23 Abs. 1 Bst. b).
+<sup>1</sup> Für zeitlich befristete Erhaltungsprojekte und den Betrieb von nationalen Genbanken werden insgesamt höchstens 500 000 Franken pro Jahr ausgerichtet.[^23b-3]
 
 <sup>2</sup> Zusätzlich zu den Mitteln nach Absatz 1 können nicht ausgeschöpfte Mittel nach Artikel 25 verwendet werden.
 
-<sup>3</sup> An anerkannte Organisationen nach Artikel 5 Absatz 3 Buchstabe b werden für zeitlich befristete Erhaltungsprojekte von den Mitteln nach Absatz 1 höchstens 150 000 Franken pro Jahr ausgerichtet.
+<sup>3</sup> Die Finanzhilfen für zeitlich befristete Erhaltungsprojekte werden an die anerkannten Zuchtorganisationen und die anerkannten Organisationen nach Artikel 5 Absatz 3 Buchstabe b ausgerichtet. An anerkannte Organisationen werden höchstens 150 000 Franken pro Jahr ausgerichtet.[^23b-4]
+
+<sup>4</sup> Die Finanzhilfen für zeitlich befristete Erhaltungsprojekte belaufen sich auf höchstens 80 Prozent der ausgewiesenen und vom BLW anerkannten Kosten.[^23b-5]
 
 [^23b-1]: Eingefügt durch Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 758](https://fedlex.data.admin.ch/eli/oc/2022/758)).
+[^23b-2]: Fassung gemäss Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
+[^23b-3]: Fassung gemäss Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
+[^23b-4]: Fassung gemäss Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
+[^23b-5]: Eingefügt durch Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
+
+#### Art. 23b<sup>bis</sup>
+
+**Betrieb nationaler Genbanken**[^23bbis-1]
+
+<sup>1</sup> Das BLW betreibt zur Erhaltung von Schweizer Rassen nationale Genbanken für die Langzeitlagerung von tiefgefrorenem Probematerial tierischen Ursprungs (Kryomaterial).
+
+<sup>2</sup>
+
+Es kann den Betrieb der nationalen Genbanken übertragen an:
+
+- a. Besamungsstationen;
+- b. für die Betreuung der betreffenden Schweizer Rassen anerkannte Zuchtorganisationen, wenn sie die Genbanken durch Besamungsstationen führen lassen.
+
+<sup>3</sup> Wer eine nationale Genbank betreiben will, muss eine grosse genetische Diversität sicherstellen.
+
+<sup>4</sup>
+
+Der Betrieb einer nationalen Genbank wird in einem Vertrag zwischen dem BLW und der Betreiberin geregelt. Im Vertrag werden insbesondere vereinbart:
+
+- a. der Umfang sowie der Mindestbestand des zu lagernden Kryomaterials;
+- b. die Eigentumsrechte am Kryomaterial;
+- c. die Höhe der Abgeltung.
+
+<sup>5</sup>
+
+Die Betreiberin einer Genbank hat die folgenden Pflichten:
+
+- a. Sie muss dem BLW alle Informations- und Einsichtsrechte gewähren.
+- b.
+
+  Sie muss sicherstellen, dass in der vom BLW zur Verfügung gestellten Dokumentationssoftware die folgenden Angaben und Dokumente erfasst sind:
+
+  - 1\. Kontaktdaten von mindestens einer Ansprechperson;
+  - 2\. die eindeutige Identifikation der Tiere, einschliesslich der Angaben betreffend ihre Abstammung;
+  - 3\. Art und Umfang des Kryomaterials;
+  - 4\. die Herstellungsprotokolle;
+  - 5\. die Lagerorte und die Verteilung im Lager.
+
+[^23bbis-1]: Eingefügt durch Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
+
+#### Art. 23b<sup>ter</sup>
+
+**Nutzung von in nationalen Genbanken gelagertem Kryomaterial**[^23bter-1]
+
+<sup>1</sup> Das in einer nationalen Genbank gelagerte Kryomaterial darf nicht genutzt werden.
+
+<sup>2</sup>
+
+Das BLW kann die Nutzung in Abweichung von Absatz 1 in den folgenden Fällen und zum Zweck der Erhaltung einer Schweizer Rasse auf Gesuch hin bewilligen:
+
+- a. wenn wissenschaftlich-genetische Untersuchungen durchgeführt werden; oder
+- b. wenn die genetische Diversität einer Schweizer Rasse stark rückläufig ist und ihr Gefährdungsstatus kritisch ist.
+
+<sup>3</sup> Berechtigt zur Einreichung eines Gesuchs um Nutzung von Kryomaterial sind die für die Betreuung der betreffenden Schweizer Rasse anerkannten Zuchtorganisationen.
+
+<sup>4</sup> Das Gesuch muss das Konzept für die Nutzung des Kryomaterials enthalten.
+
+<sup>5</sup> Heisst das BLW das Gesuch gut, so schliesst es mit der Zuchtorganisation und allenfalls weiteren Betroffenen einen Vertrag ab. Im Vertrag werden insbesondere Zweck, Umfang und Dauer der Nutzung des Kryomaterials vereinbart.
+
+<sup>6</sup> Der Betrag, den die Besamungsstation, die die betreffende Genbank betreibt oder im Auftrag einer Zuchtorganisation führt, der Bewilligungsinhaberin für die Zurverfügungstellung des Kryomaterials in Rechnung stellt, darf die Kosten für die Erzeugung des Kryomaterials nicht übersteigen.
+
+<sup>7</sup> Die Bewilligungsinhaberin muss gewährleisten, dass nach der Nutzung ein Restbestand von mindestens 50 Prozent des Kryomaterials des Spendertiers in der Genbank vorhanden ist.
+
+<sup>8</sup> Das BLW kann die Nutzung mit einem anschliessenden Restbestand von weniger als 50 Prozent des Kryomaterials des Spendertiers in der Genbank insbesondere dann bewilligen, wenn die Bewilligungsinhaberin nachweisen kann, dass die Erhaltung einer Schweizer Rasse ohne die Nutzung von zusätzlichem Kryomaterial des Spendertiers kurzfristig nicht gesichert ist.
+
+[^23bter-1]: Eingefügt durch Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
+
+### 3. Abschnitt: Beiträge für die Erhaltung von Schweizer Rassen, deren Status kritisch oder gefährdet ist
+
+[^chap4-sec3-1]
+
+[^chap4-sec3-1]: Eingefügt durch Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
 
 #### Art. 23c
 
-**Beiträge für die Erhaltung von Schweizer Rassen mit kritischem oder gefährdetem Status**[^23c-1]
+**Höhe der Beiträge[^23c-2]**[^23c-1]
 
-<sup>1</sup> Für die Erhaltung Schweizer Rassen der Gattungen Rindvieh, Equiden, Schweine, Schafe und Ziegen, deren Status kritisch oder gefährdet ist, werden insgesamt höchstens 4 750 000 Franken pro Jahr ausgerichtet.[^23c-2]
+<sup>1</sup> Für die Erhaltung von Schweizer Rassen der Gattungen Rindvieh, Equiden, Schweine, Schafe, Ziegen und Honigbienen, deren Status kritisch oder gefährdet ist, werden insgesamt höchstens 4 750 000 Franken pro Jahr ausgerichtet.[^23c-3]
 
 <sup>2</sup> Der Beitrag für die Erhaltung einer Schweizer Rasse, deren Status kritisch ist, beträgt für:
 
@@ -692,6 +796,7 @@ Für die folgenden Projekte und Massnahmen werden im Jahr 2023 insgesamt höchst
 <tr><td>c. die Schweinegattung: 1. je männliches Tier 2. je weibliches Tier</td><td>357 Franken 392.70 Franken</td></tr>
 <tr><td>d. die Schafgattung: 1. je männliches Tier 2. je weibliches Tier - Milchproben gemäss Art. 19 Abs. 2 Bst. b Ziff. 1 erhoben 3. je weibliches Tier - Keine Milchproben gemäss Art. 19 Abs. 2 Bst. b Ziff. 1 erhoben</td><td>242.80 Franken 178.50 Franken 121.40 Franken</td></tr>
 <tr><td>e. die Ziegengattung: 1. je männliches Tier 2. je weibliches Tier - Milchproben gemäss Art. 19 Abs. 2 Bst. b Ziff. 1 erhoben 3. je weibliches Tier - Keine Milchproben gemäss Art. 19 Abs. 2 Bst. b Ziff. 1 erhoben</td><td>242.80 Franken 142.80 Franken 121.40 Franken</td></tr>
+<tr><td>f.[^23c-4] die Honigbienengattung: 1. je Drohnenkönigin 2. je Königin</td><td>285.60 Franken 285.60 Franken</td></tr>
 </table>
 
 <sup>3</sup> Der Beitrag für die Erhaltung einer Schweizer Rasse, deren Status gefährdet ist, beträgt für:
@@ -700,19 +805,24 @@ Für die folgenden Projekte und Massnahmen werden im Jahr 2023 insgesamt höchst
 <tr><td>a. die Rindviehgattung: 1. je männliches Tier 2. je weibliches Tier</td><td>282 Franken 235 Franken</td></tr>
 <tr><td>b. die Schweinegattung: 1. je männliches Tier 2. je weibliches Tier</td><td>117.50 Franken 129.30 Franken</td></tr>
 <tr><td>c. die Schafgattung: 1. je männliches Tier 2. je weibliches Tier – Milchproben gemäss Art. 19 Abs. 2 Bst. b Ziff. 1 erhoben 3. je weibliches Tier – Keine Milchproben gemäss Art. 19 Abs. 2 Bst. b Ziff. 1 erhoben</td><td>79.90 Franken 58.80 Franken 40 Franken</td></tr>
-<tr><td>d. die Ziegengattung: 1. je männliches Tier 2. je weibliches Tier – Milchproben gemäss Art. 19 Abs. 2 Bst. b Ziff. 1 erhoben 3. je weibliches Tier – Keine Milchproben gemäss Art. 19 Abs. 2 Bst. b Ziff. 1 erhoben</td><td>79.90 Franken 47 Franken 40 Franken.[^23c-3]</td></tr>
+<tr><td>d. die Ziegengattung: 1. je männliches Tier 2. je weibliches Tier – Milchproben gemäss Art. 19 Abs. 2 Bst. b Ziff. 1 erhoben 3. je weibliches Tier – Keine Milchproben gemäss Art. 19 Abs. 2 Bst. b Ziff. 1 erhoben</td><td>79.90 Franken 47 Franken 40 Franken.[^23c-5]</td></tr>
 </table>
 
-<sup>4</sup> Reicht der Höchstbeitrag von 4 750 000 Franken nicht aus, so werden die Beiträge nach den Absätzen 2 und 3 in allen Gattungen um den gleichen Prozentsatz gekürzt.[^23c-4]
+<sup>4</sup> Reicht der Höchstbeitrag von 4 750 000 Franken nicht aus, so werden die Beiträge nach den Absätzen 2 und 3 in allen Gattungen um den gleichen Prozentsatz gekürzt.[^23c-6]
+
+<sup>5</sup> Werden bereits Beiträge nach Artikel 21 Absatz 2 Buchstabe a Ziffer 2 gewährt, so werden diese vom Beitrag für die Erhaltung von Schweizer Rassen der Gattung Honigbienen, deren Status kritisch ist, abgezogen.[^23c-7]
 
 [^23c-1]: Eingefügt durch Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 758](https://fedlex.data.admin.ch/eli/oc/2022/758)).
-[^23c-2]: Fassung gemäss Ziff. I der V vom 5. April 2023, in Kraft seit 1. Jan. 2023 ([AS 2023 184](https://fedlex.data.admin.ch/eli/oc/2023/184)).
-[^23c-3]: Fassung gemäss Ziff. I der V vom 5. April 2023, in Kraft seit 1. Jan. 2023 ([AS 2023 184](https://fedlex.data.admin.ch/eli/oc/2023/184)).
-[^23c-4]: Fassung gemäss Ziff. I der V vom 5. April 2023, in Kraft seit 1. Jan. 2023 ([AS 2023 184](https://fedlex.data.admin.ch/eli/oc/2023/184)).
+[^23c-2]: Fassung gemäss Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
+[^23c-3]: Fassung gemäss Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
+[^23c-4]: Eingefügt durch Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
+[^23c-5]: Fassung gemäss Ziff. I der V vom 5. April 2023, in Kraft seit 1. Jan. 2023 ([AS 2023 184](https://fedlex.data.admin.ch/eli/oc/2023/184)).
+[^23c-6]: Fassung gemäss Ziff. I der V vom 5. April 2023, in Kraft seit 1. Jan. 2023 ([AS 2023 184](https://fedlex.data.admin.ch/eli/oc/2023/184)).
+[^23c-7]: Eingefügt durch Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
 
 #### Art. 23d
 
-**Voraussetzungen für die Ausrichtung von Beiträgenfür die Erhaltung von Schweizer Rassen mit kritischem oder gefährdetem Status**[^23d-1]
+**Voraussetzungen für die Ausrichtung der Beiträge für die Gattungen Rindvieh, Equiden, Schweine, Schafe und Ziegen[^23d-2]**[^23d-1]
 
 <sup>1</sup>
 
@@ -720,13 +830,13 @@ Beiträge für die Erhaltung von Schweizer Rassen mit kritischem oder gefährdet
 
 - a. die in einem Herdebuch eingetragen oder vermerkt sind;
 - b. deren Eltern und Grosseltern in einem Herdebuch der gleichen Rasse eingetragen oder vermerkt sind;
-- c. die einen Blutanteil von 87,5 Prozent oder mehr der entsprechenden Rasse aufweisen;
+- c.[^23d-3] die einen Blutanteil von 87,5 Prozent oder mehr der entsprechenden Rasse aufweisen; und
 - d.
 
   die mindestens einen lebenden Nachkommen aufweisen, der:
 
   - 1\. in der Referenzperiode geboren wurde,
-  - 2\. im Herdebuch eingetragen ist, und
+  - 2\.[^23d-4] im Herdebuch eingetragen oder vermerkt ist, und
   - 3\. einen Blutanteil von 87,5 Prozent oder mehr der entsprechenden Rasse aufweist.
 
 <sup>2</sup>
@@ -745,30 +855,72 @@ Die Beiträge werden nur ausgerichtet, wenn der Bestand der weiblichen Herdebuch
 - a. Ihre Eltern und Grosseltern sind in einem Herdebuch der gleichen Rasse eingetragen oder vermerkt.
 - b. Sie weisen einen Blutanteil von 87,5 Prozent oder mehr der entsprechenden Rasse auf.
 - c. Die Herdebuchtiere der Gattungen Rindvieh, Equiden und Schweine weisen mindestens eine Geburt im Herdebuch auf.
-- d. Die Herdebuchtiere der Gattungen Schafe und Ziegen sind mindestens 6 Monate alt.[^23d-2]
+- d. Die Herdebuchtiere der Gattungen Schafe und Ziegen sind mindestens 6 Monate alt.[^23d-5]
 
 <sup>5</sup> Die Beiträge werden nur ausgerichtet, wenn die anerkannten Zuchtorganisationen der Betreiberin des GENMON die Herdebuchdaten und die für die Berechnung des Globalindizes nötigen Informationen mindestens einmal jährlich zur Verfügung stellen.
 
 [^23d-1]: Eingefügt durch Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 758](https://fedlex.data.admin.ch/eli/oc/2022/758)).
-[^23d-2]: Fassung gemäss Ziff. I der V vom 5. April 2023, in Kraft seit 1. Jan. 2023 ([AS 2023 184](https://fedlex.data.admin.ch/eli/oc/2023/184)).
+[^23d-2]: Fassung gemäss Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
+[^23d-3]: Fassung gemäss Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
+[^23d-4]: Fassung gemäss Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
+[^23d-5]: Fassung gemäss Ziff. I der V vom 5. April 2023, in Kraft seit 1. Jan. 2023 ([AS 2023 184](https://fedlex.data.admin.ch/eli/oc/2023/184)).
 
 #### Art. 23e
 
-**Ausrichtung der Beiträge für die Erhaltung von Schweizer Rassen mit kritischem oder gefährdetem Status**[^23e-1]
+**Voraussetzungen für die Ausrichtung der Beiträge für die Gattung Honigbienen**[^23e-1]
+
+<sup>1</sup>
+
+Beiträge für die Erhaltung von Schweizer Rassen mit kritischem Status werden ausgerichtet für eine Königin oder Drohnenkönigin der Gattung Honigbienen:
+
+- a. die in einem Herdebuch eingetragen oder vermerkt ist;
+- b. deren Mutter in einem Herdebuch der gleichen Rasse eingetragen oder vermerkt ist;
+- c. deren väterlicher Stammbaum mindestens die Drohnenkönigin der ersten oder zweiten Ahnengeneration enthält; die betreffenden Drohnenköniginnen müssen in einem Herdebuch der gleichen Rasse wie jene der Königin oder Drohnenkönigin eingetragen oder vermerkt sein, für die ein Beitrag beantragt wird, wobei nur eine einzige Drohnenkönigin der zweiten Ahnengeneration im Herdebuch eingetragen oder vermerkt werden kann;
+- d. die einen Blutanteil von 87,5 Prozent oder mehr der entsprechenden Rasse aufweist; der Blutanteil muss mittels DNA-Analyse oder mittels Abstammungsausweis festgestellt werden, und die DNA-Analyse muss nach einer wissenschaftlich und international anerkannten Methode, die auf Einzelnukleotidtypisierung basiert, durchgeführt werden; und
+- e.
+
+  die mindestens eine Königin als lebende Nachkommin aufweist, die:
+
+  - 1\. in der Referenzperiode belegt wurde,
+  - 2\. im Herdebuch eingetragen oder vermerkt ist, und
+  - 3\. einen Blutanteil von 87,5 Prozent oder mehr der entsprechenden Rasse aufweist; der Blutanteil muss mittels DNA-Analyse oder mittels Abstammungsausweis festgestellt werden, und die DNA-Analyse muss nach einer wissenschaftlich und international anerkannten Methode, die auf Einzelnukleotidtypisierung basiert, durchgeführt werden.
+
+<sup>2</sup> Die lebende Nachkommin nach Absatz 1 Buchstabe e muss zudem einen Inzuchtgrad aufweisen, der auf mindestens drei Generationen basiert und 6,25 Prozent nicht überschreitet. Bei der Honigbienengattung muss zusätzlich der drei-Generationen-Stammbaum der lebenden Nachkommin auf der väterlichen Seite mindestens die Mutter der jeweiligen Drohnenkönigin oder Drohnenköniginnen enthalten.
+
+<sup>3</sup> Die Beiträge werden nur ausgerichtet, wenn der Bestand der weiblichen Herdebuchtiere, die eine offene oder verdeckte Ringprüfung abgeschlossen haben, eine Anzahl von 1000 nicht überschreitet.
+
+<sup>4</sup> Die Beiträge werden nur ausgerichtet, wenn die anerkannte Zuchtorganisation der Betreiberin des GENMON die Herdebuchdaten und die für die Berechnung des Globalindizes nötigen Informationen mindestens einmal jährlich zur Verfügung stellt.
+
+[^23e-1]: Eingefügt durch Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
+
+#### Art. 23f
+
+**Ausrichtung der Beiträge für die Erhaltung von Schweizer Rassen mit kritischem oder gefährdetem Status**[^23f-1]
 
 <sup>1</sup> Wer Beiträge für die Erhaltung von Schweizer Rassen mit kritischem oder gefährdetem Status erhalten möchte, muss dies bei der betreffenden anerkannten Zuchtorganisation mit einem Gesuch beantragen. Das Gesuch muss einmalig in jenem Jahr eingereicht werden, ab dem die oder der Beitragsberechtigte Beiträge erhalten möchte.
 
+<sup>1bi</sup>
+
+<sup>s</sup> Beitragsberechtigt ist:
+
+- a. bei den Gattungen Rindvieh, Equiden, Schweine, Schafe und Ziegen: wer im Zeitpunkt der Geburt des ersten in der Referenzperiode lebend geborenen Nachkommens eines Elterntiers Eigentümerin oder Eigentümer dieses Elterntiers ist;
+- b. bei der Gattung Honigbiene: wer im Zeitpunkt der Belegung der ersten in der Referenzperiode belegten Nachkommin einer Königin Eigentümerin oder Eigentümer dieser Königin ist.[^23f-2]
+
 <sup>2</sup> Die anerkannte Zuchtorganisation überprüft die Beitragsberechtigung.
 
-<sup>3</sup> Sie beantragt beim BLW die Überweisung der Beiträge anhand einer Liste der männlichen und weiblichen Elterntiere, für die in der betreffenden Referenzperiode Beiträge auszurichten sind. Pro Tier und Referenzperiode darf die Überweisung nur eines Beitrags beantragt werden.
+<sup>3</sup> Sie beantragt beim BLW die Überweisung der Beiträge anhand einer Liste der männlichen und weiblichen Elterntiere oder der Honigbienenköniginnen und Honigbienendrohnenköniginnen, für die in der betreffenden Referenzperiode Beiträge auszurichten sind. Innerhalb einer Referenzperiode darf pro Tier beziehungsweise Königin die Überweisung nur eines Beitrags beantragt werden.[^23f-3]
 
-<sup>4</sup> Die anerkannte Zuchtorganisation richtet die Beiträge spätestens 60 Tage, nachdem sie die Beiträge vom BLW erhalten hat, den Beitragsberechtigten aus.
+<sup>4</sup> Das BLW richtet die Beiträge der anerkannten Zuchtorganisation aus. Diese richtet die Beiträge spätestens 60 Tage, nachdem sie die Beiträge vom BLW erhalten hat, den Beitragsberechtigten aus.[^23f-4]
 
-<sup>5</sup> Sie meldet dem BLW bis zum 31. Oktober des dem Beitragsjahr vorangehenden Jahres die geschätzte Anzahl männlicher und weiblicher Tiere, für die Beiträge ausgerichtet werden sollen.
+<sup>5</sup> Die anerkannte Zuchtorganisation meldet dem BLW bis zum 31. Oktober des dem Beitragsjahr vorangehenden Jahres die geschätzte Anzahl an männlichen und an weiblichen Tieren oder die Anzahl an Honigbienenköniginnen und an Honigbienendrohnenköniginnen, für die Beiträge ausgerichtet werden sollen.[^23f-5]
 
 <sup>6</sup> Das BLW veröffentlicht die an die anerkannten Zuchtorganisationen ausgerichteten Beiträge.
 
-[^23e-1]: Eingefügt durch Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 758](https://fedlex.data.admin.ch/eli/oc/2022/758)).
+[^23f-1]: Ursprünglich: Art. 23*e*. Eingefügt durch Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 758](https://fedlex.data.admin.ch/eli/oc/2022/758)).
+[^23f-2]: Eingefügt durch Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
+[^23f-3]: Fassung gemäss Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
+[^23f-4]: Fassung gemäss Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
+[^23f-5]: Fassung gemäss Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
 
 #### Art. 24
 
@@ -776,24 +928,32 @@ Die Beiträge werden nur ausgerichtet, wenn der Bestand der weiblichen Herdebuch
 
 [^24-1]: Aufgehoben durch Ziff. I der V vom 2. Nov. 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 758](https://fedlex.data.admin.ch/eli/oc/2022/758)).
 
-## 6. Abschnitt: Beiträge für Forschungsprojekte
+## 5. Kapitel: Beiträge für Forschungsprojekte
+
+[^chap5-1]
+
+[^chap5-1]: Fassung gemäss Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
 
 #### Art. 25
 
 [^25-1]
 
-<sup>1</sup> Für Forschungsprojekte über tiergenetische Ressourcen werden anerkannte Zuchtorganisationen und Institute von eidgenössischen und kantonalen Hochschulen mit Beiträgen unterstützt. Die Beiträge betragen im Jahr 2023 insgesamt höchstens 100 000 Franken und ab dem Jahr 2024 insgesamt höchstens 500 000 Franken pro Jahr.[^25-2]
+<sup>1</sup> Für Forschungsprojekte über tiergenetische Ressourcen werden anerkannte Zuchtorganisationen und Institute von eidgenössischen und kantonalen Hochschulen mit Beiträgen unterstützt.[^25-2]
+
+<sup>1bis</sup> Die Beiträge betragen insgesamt höchstens 500 000 Franken pro Jahr, höchstens jedoch 80 Prozent der ausgewiesenen und vom BLW anerkannten Kosten.[^25-3]
 
 <sup>2</sup> Das BLW veröffentlicht die ausgerichteten Beiträge je Organisation beziehungsweise je Institut sowie je Massnahme.
 
 [^25-1]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 697](https://fedlex.data.admin.ch/eli/oc/2021/697)).
-[^25-2]: Fassung gemäss Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 758](https://fedlex.data.admin.ch/eli/oc/2022/758)).
+[^25-2]: Fassung gemäss Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
+[^25-3]: Eingefügt durch Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
 
-## 6*a*. Abschnitt: Aufgaben des Schweizer Nationalgestüts
+## 6. Kapitel: Aufgaben des Schweizer Nationalgestüts
 
-[^sec6a-1]
+[^chap6-1][^chap6-2]
 
-[^sec6a-1]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 697](https://fedlex.data.admin.ch/eli/oc/2021/697)).
+[^chap6-1]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 697](https://fedlex.data.admin.ch/eli/oc/2021/697)).
+[^chap6-2]: Fassung gemäss Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
 
 #### Art. 25a
 
@@ -811,7 +971,11 @@ Das Schweizer Nationalgestüt nach Artikel 147 des Landwirtschaftsgesetzes vom 2
 
 [^25a-1]: [SR 910.11](https://fedlex.data.admin.ch/eli/cc/2006/415)
 
-## 7. Abschnitt: Abstammungsausweis für das Inverkehrbringen von Zuchttieren sowie von deren Samen, unbefruchteten Eizellen und Embryonen
+## 7. Kapitel: Abstammungsausweis für das Inverkehrbringen von Zuchttieren sowie von deren Samen, unbefruchteten Eizellen und Embryonen
+
+[^chap7-1]
+
+[^chap7-1]: Fassung gemäss Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
 
 #### Art. 26
 
@@ -890,7 +1054,11 @@ Der Abstammungsausweis für Embryonen von Zuchttieren der Rindvieh-, Schweine-, 
 
 <sup>2</sup> Befinden sich mehrere Embryonen im selben Behälter (kleinste Lagereinheit), so muss dies klar aus der Bescheinigung hervorgehen. Alle Embryonen in einem Behälter müssen vom selben Muttertier stammen.
 
-## 8. Abschnitt: Einfuhr von Zucht- und Nutztieren sowie von Samen von Stieren im Rahmen der Zollkontingente
+## 8. Kapitel: Einfuhr von Zucht- und Nutztieren sowie von Samen von Stieren im Rahmen der Zollkontingente
+
+[^chap8-1]
+
+[^chap8-1]: Fassung gemäss Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
 
 #### Art. 31
 
@@ -960,7 +1128,11 @@ Mit dem Gesuch um einen Kontingentsanteil müssen beim BLW eingereicht werden:
 
 [^35-1]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 
-## 9. Abschnitt: Schlussbestimmungen
+## 9. Kapitel: Schlussbestimmungen
+
+[^chap9-1]
+
+[^chap9-1]: Fassung gemäss Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
 
 #### Art. 36
 
@@ -1014,7 +1186,7 @@ Anhang 1[^t-1]
 
 ## Fristen zur Einreichung der Gesuche um Ausrichtung der Beiträge und zur Einreichung der Abrechnungen sowie Stichtage und Referenzperioden
 
-[^t-1]: Bereinigt gemäss Ziff. II der V vom 21. Mai 2014 ([AS 2014 1687](https://fedlex.data.admin.ch/eli/oc/2014/324)), vom 20. Mai 2015 ([AS 2015 1821](https://fedlex.data.admin.ch/eli/oc/2015/352)) Ziff. I und II der V und vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 758](https://fedlex.data.admin.ch/eli/oc/2022/758)).
+[^t-1]: Bereinigt gemäss Ziff. II der V vom 21. Mai 2014 ([AS 2014 1687](https://fedlex.data.admin.ch/eli/oc/2014/324)), vom 20. Mai 2015 ([AS 2015 1821](https://fedlex.data.admin.ch/eli/oc/2015/352)) Ziff. I und II der V und vom 2. Nov. 2022 ([AS 2022 758](https://fedlex.data.admin.ch/eli/oc/2022/758)) und Ziff. II der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 702](https://fedlex.data.admin.ch/eli/oc/2023/702)).
 
 ### 1. Rindviehzucht
 
@@ -1022,10 +1194,10 @@ Anhang 1[^t-1]
 <tr><td>Art. 15</td><td>Stichtag/Referenzperiode</td><td>Frist</td></tr>
 <tr><td>Herdebuchtiere und Nichtherdebuchtiere in Herdebuchbeständen</td><td>30. November</td><td>15. Dezember</td></tr>
 <tr><td>Exterieurbeurteilungen (lineare Beschreibung und Einstufung)</td><td>1. November bis 31. Oktober</td><td>30. November</td></tr>
-<tr><td>Abschluss der Laktation</td><td>16. Dezember bis 31. März</td><td>15. April</td></tr>
-<tr><td>Abschluss der Laktation</td><td>1. April bis 30. Juni</td><td>15. Juli</td></tr>
-<tr><td>Abschluss der Laktation</td><td>1. Juli bis 30. September</td><td>15. Oktober</td></tr>
-<tr><td>Abschluss der Laktation</td><td>1. Oktober bis 15. Dezember</td><td>20. Dezember</td></tr>
+<tr><td>Milchproben</td><td>16. Dezember bis 31. März</td><td>15. April</td></tr>
+<tr><td>Milchproben</td><td>1. April bis 30. Juni</td><td>15. Juli</td></tr>
+<tr><td>Milchproben</td><td>1. Juli bis 30. September</td><td>15. Oktober</td></tr>
+<tr><td>Milchproben</td><td>1. Oktober bis 15. Dezember</td><td>20. Dezember</td></tr>
 <tr><td>Fleischleistungsprüfungen</td><td>1. Oktober bis 30. September</td><td>15. Oktober</td></tr>
 <tr><td>Gesundheitsleistungsprüfungen</td><td>1. Dezember bis 30. November</td><td>15. Dezember</td></tr>
 </table>
@@ -1063,7 +1235,7 @@ Anhang 1[^t-1]
 <table>
 <tr><td>Art. 19</td><td>Stichtag/Referenzperiode</td><td>Frist</td></tr>
 <tr><td>Herdebuchtiere</td><td>1. Juni</td><td>15. Juli</td></tr>
-<tr><td>Abschluss der Laktation</td><td>1. Dezember bis 30. November</td><td>15. Dezember</td></tr>
+<tr><td>Milchproben</td><td>1. Dezember bis 30. November</td><td>15. Dezember</td></tr>
 <tr><td>Aufzuchtleistungsprüfungen</td><td>1. Dezember bis 30. November</td><td>15. Dezember</td></tr>
 </table>
 
