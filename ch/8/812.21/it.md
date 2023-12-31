@@ -4,11 +4,11 @@ title: "Legge federale del 15 dicembre 2000 sui medicamenti e i dispositivi medi
 short: LATer
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/422"
 language: it
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2000-12-15
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/422/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2001-422-20230901-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/422/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/422/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2001-422-20240101-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/422/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/422/20230901/it"
 
 (Legge sugli agenti terapeutici, LATer)
 
-del 15 dicembre 2000 (Stato 1° settembre 2023)
+del 15 dicembre 2000 (Stato 1° gennaio 2024)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -440,7 +440,7 @@ L’Istituto prevede una procedura semplificata d’omologazione per le richiest
 - a. detto medicamento corrisponde alle medesime esigenze poste ai medicamenti già omologati in Svizzera, in particolare a quelle in materia di caratterizzazione del prodotto e di informazione sul medicamento di cui all’articolo 11;
 - b. tale altro richiedente dell’immissione in commercio è in grado di garantire in modo durevole che i medicamenti omologati da lui distribuiti adempiono le medesime esigenze di sicurezza e di qualità poste al primo richiedente.
 
-<sup>3</sup> ...[^14-8]
+<sup>3</sup> Per i medicamenti oggetto di importazioni parallele, nell’ambito della procedura di omologazione l’Istituto prevede agevolazioni per quanto concerne le esigenze in materia di caratterizzazione del prodotto e di informazione sul medicamento.[^14-8]
 
 [^14-1]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 [^14-2]: Introdotta dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
@@ -449,7 +449,7 @@ L’Istituto prevede una procedura semplificata d’omologazione per le richiest
 [^14-5]: Abrogata dal n. I della LF del 18 mar. 2016, con effetto dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 [^14-6]: Introdotta dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 [^14-7]: Nuovo testo giusta il n. I della LF del 13 giu. 2008, in vigore dal 1° ott. 2010 ([RU 2008 4873](https://fedlex.data.admin.ch/eli/oc/2008/682), [2010 4027](https://fedlex.data.admin.ch/eli/oc/2010/582); [FF 2007 2181](https://fedlex.data.admin.ch/eli/fga/2007/384)).
-[^14-8]: Abrogato dal n. II della LF del 19 dic. 2008, con effetto dal 1° lug. 2007 ([RU 2009 2615](https://fedlex.data.admin.ch/eli/oc/2009/349); [FF 2008 247](https://fedlex.data.admin.ch/eli/fga/2008/109)).
+[^14-8]: Nuovo testo giusta l’all. n. 1 della LF del 30 set. 2022 (Misure di contenimento dei costi – Pacchetto 1*b*), in vigore dal 1° gen. 2024 ([RU 2023 630](https://fedlex.data.admin.ch/eli/oc/2023/630); [FF 2019 4981](https://fedlex.data.admin.ch/eli/fga/2019/2216)).
 
 #### Art. 14a
 

@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 15. Dezember 2000 über Arzneimittel und Medizinprodukt
 short: HMG
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/422"
 language: de
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2000-12-15
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/422/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2001-422-20230901-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/422/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/422/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2001-422-20240101-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/422/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/422/20230901/de"
 
 (Heilmittelgesetz, HMG)
 
-vom 15. Dezember 2000 (Stand am 1. September 2023)
+vom 15. Dezember 2000 (Stand am 1. Januar 2024)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -439,7 +439,7 @@ Das Institut sieht für ein Gesuch eines weiteren Inverkehrbringers für ein in 
 - a. das Arzneimittel den gleichen Anforderungen genügt wie das in der Schweiz bereits zugelassene Arzneimittel, insbesondere denjenigen an die Kennzeichnung und Arzneimittelinformation nach Artikel 11;
 - b. dieser weitere Inverkehrbringer fortwährend sicherstellen kann, dass er für alle von ihm vertriebenen zugelassenen Arzneimittel die gleichen Sicherheits- und Qualitätsanforderungen erfüllt wie der Erstanmelder.
 
-<sup>3</sup> …[^14-8]
+<sup>3</sup> Das Institut sieht im Rahmen des Zulassungsverfahrens für Arzneimittel, die im Rahmen von Parallelimporten eingeführt werden, Vereinfachungen in Bezug auf die Kennzeichnung und die Arzneimittelinformation vor.[^14-8]
 
 [^14-1]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 [^14-2]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
@@ -448,7 +448,7 @@ Das Institut sieht für ein Gesuch eines weiteren Inverkehrbringers für ein in 
 [^14-5]: Aufgehoben durch Ziff. I des BG vom 18. März 2016, mit Wirkung seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 [^14-6]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 [^14-7]: Fassung gemäss Ziff. I des BG vom 13. Juni 2008, in Kraft seit 1. Okt. 2010 ([AS 2008 4873](https://fedlex.data.admin.ch/eli/oc/2008/682), [2010 4027](https://fedlex.data.admin.ch/eli/oc/2010/582); [BBl 2007 2393](https://fedlex.data.admin.ch/eli/fga/2007/384)).
-[^14-8]: Aufgehoben durch Ziff. II des BG vom 19. Dez. 2008, mit Wirkung seit 1. Juli 2009 ([AS 2009 2615](https://fedlex.data.admin.ch/eli/oc/2009/349); [BBl 2008 303](https://fedlex.data.admin.ch/eli/fga/2008/109)).
+[^14-8]: Fassung gemäss Anhang Ziff. 1 des BG vom 30. Sept. 2022 (Massnahmen zur Kostendämpfung – Paket 1*b*), in Kraft seit 1. Jan. 2024 ([AS 2023 630](https://fedlex.data.admin.ch/eli/oc/2023/630); [BBl 2019 6071](https://fedlex.data.admin.ch/eli/fga/2019/2216)).
 
 #### Art. 14a
 

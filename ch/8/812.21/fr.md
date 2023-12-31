@@ -4,11 +4,11 @@ title: "Loi fédérale du 15 décembre 2000 sur les médicaments et les disposit
 short: LPTh
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/422"
 language: fr
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2000-12-15
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/422/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2001-422-20230901-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/422/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/422/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2001-422-20240101-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/422/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/422/20230901/fr"
 
 (Loi sur les produits thérapeutiques, LPTh)[^t-1]
 
-du 15 décembre 2000 (État le 1<sup>er</sup> septembre 2023)
+du 15 décembre 2000 (État le 1<sup>er</sup> janvier 2024)
 
 [^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -441,7 +441,7 @@ L’institut prévoit une procédure simplifiée d’autorisation de mise sur le
 - a. si ce médicament répond aux exigences posées pour le médicament qui fait déjà l’objet d’une autorisation de mise sur le marché en Suisse, notamment à celles concernant l’étiquetage et l’information mentionnées à l’art. 11;
 - b. si cet autre responsable de la mise sur le marché d’un médicament est en mesure de garantir de façon durable que tous les médicaments dont il assure la distribution et pour lesquels il a obtenu une autorisation de mise sur le marché remplissent les mêmes exigences de sécurité et de qualité que ceux du premier requérant.
 
-<sup>3</sup> ...[^14-8]
+<sup>3</sup> L’institut prévoit des simplifications en matière d’étiquetage et d’information dans le cadre de la procédure d’autorisation de médicaments ayant fait l’objet d’une importation parallèle.[^14-8]
 
 [^14-1]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 [^14-2]: Introduite par le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
@@ -450,7 +450,7 @@ L’institut prévoit une procédure simplifiée d’autorisation de mise sur le
 [^14-5]: Abrogée par le ch. I de la LF du 18 mars 2016, avec effet au 1<sup>er</sup> janv. 2019 ([RO 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 [^14-6]: Introduite par le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 [^14-7]: Nouvelle teneur selon le ch. I de la LF du 13 juin 2008, en vigueur depuis le 1<sup>er</sup> oct. 2010 ([RO 2008 4873](https://fedlex.data.admin.ch/eli/oc/2008/682), [2010 4027](https://fedlex.data.admin.ch/eli/oc/2010/582); [FF 2007 2245](https://fedlex.data.admin.ch/eli/fga/2007/384)).
-[^14-8]: Abrogé par le ch. II de la LF du 19 déc. 2008, avec effet au 1<sup>er</sup> juil. 2009 ([RO 2009 2615](https://fedlex.data.admin.ch/eli/oc/2009/349); [FF 2008 257](https://fedlex.data.admin.ch/eli/fga/2008/109)).
+[^14-8]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 30 sept. 2022 (Mesures visant à freiner la hausse des coûts, volet 1*b*), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 630](https://fedlex.data.admin.ch/eli/oc/2023/630); [FF 2019 5765](https://fedlex.data.admin.ch/eli/fga/2019/2216)).
 
 #### Art. 14a
 

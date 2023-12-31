@@ -4,11 +4,11 @@ title: "Federal Act of 15 December 2000 on Medicinal Products and Medical Device
 short: TPA
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/422"
 language: en
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2000-12-15
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/422/20230901/en/xml/fedlex-data-admin-ch-eli-cc-2001-422-20230901-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/422/20230901/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/422/20240101/en/xml/fedlex-data-admin-ch-eli-cc-2001-422-20240101-en-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/422/20240101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Therapeutic Products Act, TPA)
 
-of 15 December 2000 (Status as of 1 September 2023)
+of 15 December 2000 (Status as of 1 January 2024)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -440,7 +440,7 @@ The Agency shall make provision for a simplified authorisation procedure in the 
 - a. if the medicinal product satisfies the same requirements as the medicinal product already authorised in Switzerland, in particular in regard to the labelling and the medical information mentioned in Article 11;
 - b. if the other person responsible for placing the medicinal product on the market can continue to guarantee that all the authorised medicinal products that he distributes fulfil the same requirements of safety and quality as those of the first applicant.
 
-<sup>3</sup> …[^14-8]
+<sup>3</sup> As part of the authorisation procedure for medicinal products that are imported as parallel imports, the Agency shall make provision for simplified rules with regard to labelling and the information supplied about the medicinal product.[^14-8]
 
 [^14-1]: Inserted by No I of the FA of 18 March 2016, in force since 1 Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 [^14-2]: Inserted by No I of the FA of 18 March 2016, in force since 1 Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
@@ -449,7 +449,7 @@ The Agency shall make provision for a simplified authorisation procedure in the 
 [^14-5]: Repealed by No I of the FA of 18 March 2016, with effect from 1 Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 [^14-6]: Inserted by No I of the FA of 18 March 2016, in force since 1 Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 [^14-7]: Amended by No 1 of the FA of 13 June 2008, in force since 1 Oct. 2010 ([AS 2008 4873](https://fedlex.data.admin.ch/eli/oc/2008/682), [2010 4027](https://fedlex.data.admin.ch/eli/oc/2010/582); [BBl 2007 2393](https://fedlex.data.admin.ch/eli/fga/2007/384)).
-[^14-8]: Repealed by No II of the FA of 19 Dec. 2008, with effect from 1 July 2009 ([AS 2009 2615](https://fedlex.data.admin.ch/eli/oc/2009/349); [BBl 2008 303](https://fedlex.data.admin.ch/eli/fga/2008/109)).
+[^14-8]: Amended by Annex No 1 of the FA of 30 Sept. 2022 (Cost Containment Measures – Package 1*b*), in force since 1 Jan. 2024 ([AS 2023 630](https://fedlex.data.admin.ch/eli/oc/2023/630); [BBl 2019 6071](https://fedlex.data.admin.ch/eli/fga/2019/2216)).
 
 #### Art. 14a
 
@@ -1453,7 +1453,7 @@ Any person manufacturing or distributing ready-to-use therapeutic products must 
 
 <sup>2</sup> Any person manufacturing or distributing therapeutic products must furthermore notify the Agency of any quality defects and any further findings and assessments which could influence the basis of evaluation.
 
-<sup>3</sup> Any person who professionally dispenses therapeutic products or administers them to humans or animals or who is entitled to do so as medical personnel must notify the Agency of any serious and previously unknown adverse effects and incidents, observations of other serious and previously unknown facts or quality defects that are of significance for drug safety.[^59-1]
+<sup>3</sup> Any person who professionally dispenses therapeutic products or administers them to humans or animals or who is entitled to do so as medical personnel must notify the Agency of any serious or previously unknown adverse effects and incidents, observations of other serious or previously unknown facts or quality defects that are of significance for drug safety.[^59-1]
 
 3<sup>bis</sup> Any person who manufactures or places on the market therapeutic products must report to the Agency any suspicion of illegal trading in therapeutic products by third parties that come to its knowledge in connection with its activities, its products or their components.[^59-2]
 
@@ -2631,4 +2631,4 @@ The following enactments are amended as follows:
 …[^annexu1-lvlu1-2]
 
 [^annexu1-lvlu1-1]: [[AS 1990 570](https://fedlex.data.admin.ch/eli/oc/1990/570_570_570)]
-[^annexu1-lvlu1-2]: The amendments may be consulted under [AS 2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422).
+[^annexu1-lvlu1-2]: The amendments may be consulted under [AS 2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)..
