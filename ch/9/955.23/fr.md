@@ -4,11 +4,11 @@ title: "Ordonnance du 25 août 2004 sur le Bureau de communication en matière d
 short: OBCBA
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/626"
 language: fr
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2004-08-25
 in_force: 2004-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/626/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2004-626-20230901-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/626/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/626/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2004-626-20240101-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/626/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/626/20230901/fr"
 
 (OBCBA)
 
-du 25 août 2004 (État le 1<sup>er</sup> septembre 2023)
+du 25 août 2004 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -404,7 +404,8 @@ En matière de lutte contre le blanchiment d’argent, les infractions préalabl
 - a.[^16-3] les transactions financières effectuées pendant la période sur laquelle portent les soupçons;
 - b.[^16-4] les personnes et les sociétés soupçonnées d’avoir commis une des infractions mentionnées à l’art. 23, al. 4, LBA ou de préparer ou faciliter une telle infraction;
 - c.[^16-5] ...
-- [tab] <sup>2</sup> Les tiers qui ne remplissent pas les conditions de l’al. 1 peuvent être enregistrés dans le système d’information dans la mesure où cela s’avère nécessaire à la réalisation des buts mentionnés à l’art. 14.
+
+<sup>2</sup> Les tiers qui ne remplissent pas les conditions de l’al. 1 peuvent être enregistrés dans le système d’information dans la mesure où cela s’avère nécessaire à la réalisation des buts mentionnés à l’art. 14.
 
 [^16-1]: Nouvelle teneur selon l’annexe 2 ch. II 3 de l’O du 11 nov. 2015 sur le blanchiment d’argent, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4819](https://fedlex.data.admin.ch/eli/oc/2015/791)).
 [^16-2]: Nouvelle teneur selon le ch. I de l’O du 27 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4701](https://fedlex.data.admin.ch/eli/oc/2019/764)).
@@ -457,15 +458,16 @@ Le système d’information sert à:
 La sécurité des données est régie par:
 
 - a.[^19-1] l’ordonnance du 31 août 2022 sur la protection des données[^19-2];
-- b. l’ordonnance du 27 mai 2020 sur les cyberrisques[^19-3].[^19-4]
+- b.[^19-3] l’ordonnance du 8 novembre 2023 sur la sécurité de l’information[^19-4].[^19-5]
 
-<sup>2</sup> L’Office fédéral de la police (fedpol) fixe, dans un règlement sur le traitement des données, les mesures organisationnelles et techniques à prendre pour éviter le traitement non autorisé des données et pour assurer la journalisation automatique du traitement des données.[^19-5]
+<sup>2</sup> L’Office fédéral de la police (fedpol) fixe, dans un règlement sur le traitement des données, les mesures organisationnelles et techniques à prendre pour éviter le traitement non autorisé des données et pour assurer la journalisation automatique du traitement des données.[^19-6]
 
 [^19-1]: Nouvelle teneur selon l’annexe 2 ch. II 136 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^19-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^19-3]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^19-4]: Nouvelle teneur selon l’annexe ch. 38 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
-[^19-5]: Nouvelle teneur selon le ch. I 20 de l’O du 15 oct. 2008 sur les adaptations découlant de la loi fédérale sur les systèmes d’information de police de la Confédération, en vigueur depuis le 5 déc. 2008 ([RO 2008 4943](https://fedlex.data.admin.ch/eli/oc/2008/694)).
+[^19-3]: Nouvelle teneur selon l’annexe 2 ch. II 45 de l’O du 8 nov. 2023 sur la sécurité de l’information, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^19-4]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^19-5]: Nouvelle teneur selon l’annexe ch. 38 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^19-6]: Nouvelle teneur selon le ch. I 20 de l’O du 15 oct. 2008 sur les adaptations découlant de la loi fédérale sur les systèmes d’information de police de la Confédération, en vigueur depuis le 5 déc. 2008 ([RO 2008 4943](https://fedlex.data.admin.ch/eli/oc/2008/694)).
 
 #### Art. 20
 

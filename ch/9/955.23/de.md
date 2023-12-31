@@ -4,11 +4,11 @@ title: Verordnung vom 25. August 2004 über die Meldestelle für Geldwäscherei 
 short: MGwV
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/626"
 language: de
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2004-08-25
 in_force: 2004-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/626/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2004-626-20230901-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/626/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/626/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2004-626-20240101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/626/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/626/20230901/de"
 
 (MGwV)
 
-vom 25. August 2004 (Stand am 1. September 2023)
+vom 25. August 2004 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -461,15 +461,16 @@ Das Informationssystem dient der:
 Für die Datensicherheit gelten:
 
 - a.[^19-1] die Datenschutzverordnung vom 31. August 2022[^19-2];
-- b. die Cyberrisikenverordnung vom 27. Mai 2020[^19-3].[^19-4]
+- b.[^19-3] die Informationssicherheitsverordnung vom 8. November 2023[^19-4].[^19-5]
 
-<sup>2</sup> Das Bundesamt für Polizei (fedpol) regelt in einem Datenbearbeitungsreglement die organisatorischen und technischen Massnahmen, die unbefugtes Bearbeiten der Daten verhindern und die automatische Protokollierung der Datenbearbeitung sicherstellen.[^19-5]
+<sup>2</sup> Das Bundesamt für Polizei (fedpol) regelt in einem Datenbearbeitungsreglement die organisatorischen und technischen Massnahmen, die unbefugtes Bearbeiten der Daten verhindern und die automatische Protokollierung der Datenbearbeitung sicherstellen.[^19-6]
 
 [^19-1]: Fassung gemäss Anhang 2 Ziff. II 136 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^19-2]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^19-3]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^19-4]: Fassung gemäss Anhang Ziff. 38 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
-[^19-5]: Fassung gemäss Ziff. I 20 der V vom 15. Okt. 2008 über die Anpassungen an das Bundesgesetz über die polizeilichen Informationssysteme des Bundes, in Kraft seit 5. Dez. 2008 ([AS 2008 4943](https://fedlex.data.admin.ch/eli/oc/2008/694)).
+[^19-3]: Fassung gemäss Anhang 2 Ziff. II 45 der Informationssicherheitsverordnung vom 8. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^19-4]: [SR 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^19-5]: Fassung gemäss Anhang Ziff. 38 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^19-6]: Fassung gemäss Ziff. I 20 der V vom 15. Okt. 2008 über die Anpassungen an das Bundesgesetz über die polizeilichen Informationssysteme des Bundes, in Kraft seit 5. Dez. 2008 ([AS 2008 4943](https://fedlex.data.admin.ch/eli/oc/2008/694)).
 
 #### Art. 20
 
@@ -507,13 +508,13 @@ Die Behörden nach Artikel 35 Absatz 2 GwG haben mittels Abrufverfahren Zugriff 
 
 #### Art. 23
 
-<sup>1</sup> Um Informationen über Geldwäscherei, deren Vortaten, organisierte Kriminalität und Terrorismusfinanzierung auszuwerten, erstellt die Meldestelle eine anonymisierte Statistik über:
+<sup>1</sup>
 
-a. Meldungen nach Artikel 2;
+Um Informationen über Geldwäscherei, deren Vortaten, organisierte Kriminalität und Terrorismusfinanzierung auszuwerten, erstellt die Meldestelle eine anonymisierte Statistik über:
 
-b.[^23-1] Auskunftsbegehren von entsprechenden ausländischen Behörden nach Artikel 13;
-
-c. die auf die Meldungen folgenden Verfahren.
+- a. Meldungen nach Artikel 2;
+- b.[^23-1] Auskunftsbegehren von entsprechenden ausländischen Behörden nach Artikel 13;
+- c. die auf die Meldungen folgenden Verfahren.
 
 <sup>2</sup>
 

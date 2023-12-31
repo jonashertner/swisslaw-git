@@ -4,11 +4,11 @@ title: "Ordinanza del 25 agosto 2004 sull'Ufficio di comunicazione in materia di
 short: OURD
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/626"
 language: it
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2004-08-25
 in_force: 2004-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/626/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2004-626-20230901-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/626/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/626/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2004-626-20240101-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/626/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/626/20230901/it"
 
 (OURD)
 
-del 25 agosto 2004 (Stato 1° settembre 2023)
+del 25 agosto 2004 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -460,15 +460,16 @@ Il sistema d’informazione serve per:
 La sicurezza dei dati è retta:
 
 - a.[^19-1] dall’ordinanza del 31 agosto 2022[^19-2] sulla protezione dei dati;
-- b. dall’ordinanza del 27 maggio 2020[^19-3] sui ciber-rischi.[^19-4]
+- b.[^19-3] dall’ordinanza dell’8 novembre 2023[^19-4] sulla sicurezza delle informazioni.[^19-5]
 
-<sup>2</sup> L’Ufficio federale di polizia (fedpol) stabilisce in un regolamento di trattamento dei dati le misure tecniche e organizzative intese a impedire il trattamento non autorizzato dei dati e a garantire l’aggiornamento automatico del trattamento dei dati.[^19-5]
+<sup>2</sup> L’Ufficio federale di polizia (fedpol) stabilisce in un regolamento di trattamento dei dati le misure tecniche e organizzative intese a impedire il trattamento non autorizzato dei dati e a garantire l’aggiornamento automatico del trattamento dei dati.[^19-6]
 
 [^19-1]: Nuovo testo giusta l’all. 2 n. II 136 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^19-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^19-3]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^19-4]: Nuovo testo giusta l’all. n. 38 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
-[^19-5]: Nuovo testo giusta il n. I 20 dell’O del 15 ott. 2008 sugli adeguamenti alla LF sui sistemi d’informazione di polizia della Confederazione, in vigore dal 5 dic. 2008 ([RU 2008 4943](https://fedlex.data.admin.ch/eli/oc/2008/694)).
+[^19-3]: Nuovo testo giusta l’all. 2 n. II 45 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^19-4]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^19-5]: Nuovo testo giusta l’all. n. 38 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^19-6]: Nuovo testo giusta il n. I 20 dell’O del 15 ott. 2008 sugli adeguamenti alla LF sui sistemi d’informazione di polizia della Confederazione, in vigore dal 5 dic. 2008 ([RU 2008 4943](https://fedlex.data.admin.ch/eli/oc/2008/694)).
 
 #### Art. 20
 
