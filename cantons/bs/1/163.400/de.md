@@ -3,22 +3,22 @@ canton: BS
 number: "163.400"
 title: Verordnung betreffend Verpflegung von Mitarbeiterinnen und Mitarbeitern des Kantons Basel-Stadt
 language: de
-version: 2023-01-01
-valid_until: 2023-12-31
-version_adopted: 2022-12-06
+version: 2024-01-01
+valid_until: 2024-12-31
+version_adopted: 2023-12-12
 adopted: 2009-01-13
 in_force: 2009-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/163.400"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5795/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6090/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung betreffend Verpflegung von Mitarbeiterinnen und Mitarbeitern des Kantons Basel-Stadt
 
-Verpflegung: Verordnung | Staatspersonal: Unterkunft / Verpflegung / Bekleidung / Parkplätze
+Unterkunft / Verpflegung / Bekleidung / Parkplätze
 
-Vom 13. Januar 2009 (Stand 1. Januar 2023)
+Vom 13. Januar 2009 (Stand 1. Januar 2024)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -34,15 +34,15 @@ beschliesst:
 
 <sup>1</sup> Mitarbeiterinnen und Mitarbeiter, die aufgrund ihrer Aufgaben von ihrem Arbeitgeber verpflegt werden, haben dafür einen Pauschalbeitrag zu leisten, der mit dem Lohn verrechnet wird.
 
-<sup>2</sup> Der Pauschalbeitrag pro Person beträgt grundsätzlich pro Tag Fr. 21.90 (je Fr. 8.50 für Mittagessen und Nachtessen, Fr. 4.90 für Morgenessen). Anstelle einer Einzelerfassung der individuell bezogenen Verpflegung kann eine pauschalisierende Berechnungsbasis eingeführt werden, die sich auf mehrmonatige Erfahrungswerte der betroffenen Mitarbeiterinnen und Mitarbeiter und die geltenden Pauschalbeiträge stützt. Der zuständige dezentrale Personaldienst kann eine entsprechende Weisung erlassen.
+<sup>2</sup> Der Pauschalbeitrag pro Person beträgt grundsätzlich pro Tag Fr. 22.15 (je Fr. 8.60 für Mittagessen und Nachtessen, Fr. 4.95 für Morgenessen). Anstelle einer Einzelerfassung der individuell bezogenen Verpflegung kann eine pauschalisierende Berechnungsbasis eingeführt werden, die sich auf mehrmonatige Erfahrungswerte der betroffenen Mitarbeiterinnen und Mitarbeiter und die geltenden Pauschalbeiträge stützt. Der zuständige dezentrale Personaldienst kann eine entsprechende Weisung erlassen.
 
 <sup>3</sup> Für Angehörige von Mitarbeiterinnen und Mitarbeitern, die verpflegt werden und das 20. Altersjahr noch nicht vollendet haben, betragen die Pauschalbeiträge pro Tag:
 
 <table>
-<tr><td>Kinder bis zum 7. Altersjahr</td><td>30 %</td><td>Fr. 6.55</td></tr>
-<tr><td>Kinder zwischen 7 und 13 Jahren</td><td>50 %</td><td>Fr. 10.95</td></tr>
-<tr><td>Kinder zwischen 14 und 16 Jahren</td><td>70 %</td><td>Fr. 15.35</td></tr>
-<tr><td>Kinder zwischen 17 und 20 Jahren</td><td>90 %</td><td>Fr. 19.70</td></tr>
+<tr><td>Kinder bis zum 7. Altersjahr</td><td>30 %</td><td>Fr. 6.65</td></tr>
+<tr><td>Kinder zwischen 7 und 13 Jahren</td><td>50 %</td><td>Fr. 11.10</td></tr>
+<tr><td>Kinder zwischen 14 und 16 Jahren</td><td>70 %</td><td>Fr. 15.55</td></tr>
+<tr><td>Kinder zwischen 17 und 20 Jahren</td><td>90 %</td><td>Fr. 19.95</td></tr>
 </table>
 
 <sup>4</sup> Für Familien mit mehr als einem minderjährigen oder sich in Ausbildung befindenden Kind wird auf den Gesamtbetrag der Kostabzüge folgende Reduktion gewährt:
