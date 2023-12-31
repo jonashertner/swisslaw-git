@@ -4,38 +4,50 @@ number: RiE 153.100
 title: Reglement über die Organisation des Gemeinderats und der Gemeindeverwaltung
 short: "Organisationsreglement, OgR"
 language: de
-version: 2019-08-01
-valid_until: 2023-12-31
-version_adopted: 2019-07-02
+version: 2024-01-01
+version_adopted: 2022-03-29
 adopted: 2022-03-29
 in_force: 2024-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/RiE%20153.100"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4682/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5846/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement über die Organisation des Gemeinderats und der Gemeindeverwaltung
 
-Organisationsreglement | Riehen: Einwohnergemeinde
+Gemeinderat und Gemeindeverwaltung · Verwaltungsgebühren
 
 (Organisationsreglement, OgR)
 
-Vom 17. Dezember 2002 (Stand 1. August 2019)
+Vom 29. März 2022 (Stand 1. Januar 2024)
 
 Der Gemeinderat Riehen,
 
-gestützt auf § 23, § 24 Abs. 3 lit. e und g sowie § 28 der Gemeindeordnung der Einwohnergemeinde Riehen vom 27. Februar 2002[^ingress-1], das nachstehende Reglement über die Organisation des Gemeinderats und der Gemeindeverwaltung,
+gestützt auf §§ 23 und 24 Abs. 3 lit. e der Gemeindeordnung der Einwohnergemeinde Riehen vom 27. Februar 2002[^ingress-1] sowie §§ 24 Abs. 2 und 47 Abs. 1 der Finanzhaushaltordnung (FhO) vom 15. Dezember 2021[^ingress-2],
 
-erlässt:
+beschliesst:
 
-[^ingress-1]: [RiE 111.100](https://www.gesetzessammlung.bs.ch/data/RiE%20111.100/de).
+[^ingress-1]: [RiE 111.100](https://www.gesetzessammlung.bs.ch/data/RiE%20111.100/de)
+[^ingress-2]: [RiE 610.100](https://www.gesetzessammlung.bs.ch/data/RiE%20610.100/de)
+
+#### § 1
+
+**Gegenstand**
+
+<sup>1</sup> Dieses Reglement regelt die Aufgaben und Zuständigkeiten des Gemeinderats, die Verwaltungsorganisation, den Umgang mit Informationen, die Führungsinstrumente, die Zuständigkeiten im Geschäftsverkehr und die Ausgabenbewilligungen.
+
+#### § 2
+
+**Geltungsbereich**
+
+<sup>1</sup> Dieses Reglement gilt für den Gemeinderat und die Gemeindeverwaltung.
 
 ## 1. Gemeinderat
 
 ### 1.1 Allgemeines
 
-#### § 1
+#### § 3
 
 **Gremium**
 
@@ -45,61 +57,76 @@ erlässt:
 
 <sup>3</sup> Er wählt eine Vizepräsidentin oder einen Vizepräsidenten und regelt die Stellvertretungen.
 
-#### § 2
+#### § 4
 
-**Geschäftskreise**
+**Ressorts, Abteilungen und Bereiche**
 
-<sup>1</sup> Der Gemeinderat weist seinen Mitgliedern je einen bestimmten Geschäftskreis zu.
+<sup>1</sup> Ein Ressort umfasst eine Abteilung mit mehreren Bereichen, für welches ein Gemeinderatsmitglied die politische Verantwortung trägt.
 
-<sup>2</sup> Ein Geschäftskreis umfasst die politische Verantwortung für ein Produkt oder mehrere Produkte sowie für besondere Projekte oder andere Geschäfte, die der Gemeinderat einem Mitglied zuweist.
+<sup>2</sup> Das Ressort Präsidiales der Gemeindepräsidentin oder des Gemeindepräsidenten umfasst die Verwaltungsleitung und das Generalsekretariat mit den jeweils zugeordneten Bereichen.
 
-<sup>2<sup>bis</sup></sup> Der Geschäftskreis der Gemeindepräsidentin oder des Gemeindepräsidenten umfasst zusätzlich die politische Verantwortung für die Bereiche Ressourcen, namentlich für das Personal, den Einsatz der Sachmittel und die internen Querleitstungen.
+<sup>3</sup> Der Gemeinderat weist seinen Mitgliedern je ein Ressort zu und bestimmt die Stellvertretungen. Die Ressortzuteilung und die Festlegung der Stellvertretungen erfolgt jeweils zu Beginn der Legislaturperiode.
 
-<sup>3</sup> Der Gemeinderat achtet darauf, dass den einzelnen Mitgliedern in der Regel ganze Politikbereiche (Produktgruppen) zugewiesen werden.
+<sup>4</sup> Der Gemeinderat nimmt die Ressort- und Stellvertretungszuteilung grundsätzlich im Konsens vor. Kann sich der Gemeinderat nicht einigen, so wird abgestimmt.
 
-#### § 3
+#### § 5
 
 **Schweigepflicht und Information**
 
 <sup>1</sup> Die Sitzungen des Gemeinderats sind nicht öffentlich.
 
-<sup>2</sup> Die Mitglieder des Gemeinderats sowie die an den Ratssitzungen teilnehmenden Mitglieder der Geschäftsleitung und weiteren Fachpersonen der Gemeindeverwaltung bewahren Stillschweigen über den Verlauf der Sitzungen und die abgegebenen Voten.
+<sup>2</sup> Die Mitglieder des Gemeinderats sowie die an den Ratssitzungen teilnehmenden Mitarbeitenden der Verwaltung bewahren Stillschweigen über den Verlauf der Sitzungen und die abgegebenen Voten.
 
-<sup>3</sup> Die Information der Bevölkerung richtet sich nach den §§ 30 und 30a.
+<sup>3</sup> Die Information der Bevölkerung richtet sich nach den §§ 34 und 35.
 
-#### § 4
+#### § 6
 
 **Rücktritt**
 
-<sup>1</sup> Tritt ein Mitglied des Gemeinderats während laufender Amtsdauer zurück, teilt es der Gemeindepräsidentin oder dem Gemeindepräsidenten den Rücktritt sowie das Rücktrittsdatum schriftlich mit.
+<sup>1</sup> Tritt ein Mitglied des Gemeinderats während der laufenden Amtsdauer zurück, teilt es der Gemeindepräsidentin oder dem Gemeindepräsidenten den Rücktritt sowie das Rücktrittsdatum schriftlich mit.
 
 <sup>2</sup> Ein Rücktritt kann nicht widerrufen werden.
 
 ### 1.2 Zuständigkeiten
 
-#### § 5
+#### § 7
 
 **Gemeinderat**
 
-<sup>1</sup> Der Gemeinderat ist die oberste leitende und vollziehende Gemeindebehörde. Er lenkt die Politik der Gemeinde durch übergeordnete Strategien, eine lang- und mittelfristige Planung sowie durch die Steuerung des Vollzugs der vom Einwohnerrat beschlossenen Leistungsaufträge und Globalkredite.
+<sup>1</sup> Der Gemeinderat ist die oberste leitende und vollziehende Gemeindebehörde. Er lenkt die Politik der Gemeinde durch übergeordnete Strategien, eine lang- und mittelfristige Planung sowie durch die Steuerung des Vollzugs.
 
-<sup>2</sup> Insbesondere
+<sup>2</sup> Der Gemeinderat:
 
-- a) stellt er im Politikplan für jeden Politikbereich die Ziele und erwarteten Entwicklungen sowie die benötigten Mittel dar,
-- b) bereitet er die Leistungsaufträge und Globalkredite zu Handen des Einwohnerrats vor,
-- c) unterbreitet er dem Einwohnerrat weitere Vorlagen und Berichte sowie Antworten auf politische Vorstösse,
-- d) steuert er in Konkretisierung der Leistungsaufträge die Tätigkeit der Gemeindeverwaltung durch jährliche Leistungsvereinbarungen (§ 34),
-- e) legt er auf Antrag der Verwaltungsleiterin oder des Verwaltungsleiters die Gliederung der Gemeindeverwaltung in Abteilungen und Stabsstellen fest und bestimmt die Stellvertretung der Verwaltungsleiterin oder des Verwaltungsleiters sowie der Generalsekretärin oder des Generalsekretärs,
-- f) entscheidet er über die Schaffung, Änderung und Aufhebung der Stellen der Verwaltungsleiterin oder des Verwaltungsleiters, der Generalsekretärin oder des Generalsekretärs sowie der Abteilungsleitenden und der Leitungen der Stabsstellen,
-- g) weist er den Abteilungsleitenden die Verantwortung für eine oder mehrere Produktgruppen zu,
-- h) sorgt er für ein Risikomanagement und ein internes Kontrollsystem (IKS) in der Gemeindeverwaltung, wertet die an ihn gerichteten Controllingberichte aus und erlässt die erforderlichen Richtlinien und Beschlüsse,
-- i) bestimmt er die Informationspolitik der Gemeinde.
+- a) legt seine Ziele im Rahmen des Gemeindeleitbildes, der Sachstrategien sowie der Entwicklungsziele fest;
+- b) legt zu Beginn der Legislaturperiode die Legislaturziele fest;
+- c) beschliesst im Rahmen des Aufgaben- und Finanzplans die Finanzplanung der Gemeinde, die Planung der Aufgaben und Finanzen der Bereiche sowie die Fonds und Spezialfinanzierungen und erstellt die Entwicklungsziele zu Handen des Einwohnerrats;
+- d) unterbreitet dem Einwohnerrat weitere Vorlagen und Berichte sowie Antworten auf politische Vorstösse;
+- e) legt die Aufgaben fest, für welche in einer Legislatur eine Aufgabenüberprüfung durchgeführt wird;
+- f) legt auf Antrag der Verwaltungsleiterin oder des Verwaltungsleiters die Gliederung der Gemeindeverwaltung in Abteilungen und Stabsstellen der Verwaltungsleitung und des Generalsekretariats fest;
+- g) weist den Abteilungsleitungen die operative Verantwortung für einen oder mehrere Bereiche zu;
+- h) bestimmt auf Antrag der Verwaltungsleiterin oder des Verwaltungsleiters sowie der Generalsekretärin oder des Generalsekretärs deren Stellvertretungen;
+- i) beschliesst den Stellenplan auf Stufe Ressort;
+- j) entscheidet über die Schaffung, Änderung und Aufhebung der Stellen der Verwaltungsleiterin oder des Verwaltungsleiters, der Generalsekretärin oder des Generalsekretärs und der ihnen direkt unterstellten Stabsstellenleitungen sowie der Abteilungsleitungen;
+- k) beschliesst den Jahresbericht und weitere Berichte;
+- l) sorgt für ein Risikomanagement und ein internes Kontrollsystem (IKS) in der Gemeindeverwaltung, wertet die an ihn gerichteten Controllingberichte aus und erlässt die erforderlichen Richtlinien und Beschlüsse;
+- m) bestimmt die Informationspolitik der Gemeinde;
+- n) beschliesst das Rechnungslegungshandbuch.
 
 <sup>3</sup> Er nimmt weitere Zuständigkeiten wahr, die ihm Ordnungen oder Reglemente der Gemeinde Riehen oder das übergeordnete Recht zuweisen.
 
 <sup>4</sup> Er kann einzelne Aufgaben an ein Gemeinderatsmitglied delegieren.
 
-#### § 6
+#### § 8
+
+**Delegationen**
+
+<sup>1</sup> Delegationen sind Vertretungen des Gemeinderats in anderen Behörden oder Gremien der Gemeinde und des Kantons oder in öffentlichen oder privaten Institutionen.
+
+<sup>2</sup> In öffentlichen oder privaten Institutionen lässt sich der Gemeinderat nur vertreten, wenn dies der Zweck oder von der Sache her als notwendig oder geboten erscheint.
+
+<sup>3</sup> Die Delegierten informieren die übrigen Mitglieder des Gemeinderats regelmässig und bringen ihnen die Protokolle zur Kenntnis.
+
+#### § 9
 
 **Handeln im Zuständigkeitsbereich der Gemeindeverwaltung**
 
@@ -109,44 +136,46 @@ erlässt:
 
 <sup>3</sup> Er berücksichtigt bei seinem Entscheid Rechte und Pflichten der Gemeinde, welche durch die Gemeindeverwaltung gegenüber Dritten bereits begründet worden sind.
 
-#### § 7
+#### § 10
 
 **Gemeindepräsidium und Stellvertretung**
 
-<sup>1</sup> Die Gemeindepräsidentin oder der Gemeindepräsident
+<sup>1</sup> Die Gemeindepräsidentin oder der Gemeindepräsident:
 
-- a) leitet die Sitzungen des Gemeinderats,
-- b) betreut einen eigenen Geschäftskreis (§ 2 Abs. 2),
-- c) begleitet im Rahmen seines Geschäftskreises namentlich die Gemeindeverwaltung in der Vorbereitung von Entscheiden über den Einsatz von Personal oder Sachmitteln,
-- d) bereitet die Entscheide des Gemeinderats vor, die sich keinem Geschäftskreis zuordnen lassen.
+- a) koordiniert das Gremium Gemeinderat und leitet die Sitzungen des Gemeinderats;
+- b) betreut ein eigenes Ressort;
+- c) bereitet die Entscheide des Gemeinderats vor, die sich keinem Ressort zuordnen lassen.
 
 <sup>2</sup> Bei Abwesenheit der Gemeindepräsidentin oder des Gemeindepräsidenten führt die Vizepräsidentin oder der Vizepräsident die Geschäfte gemäss Abs. 1.
 
-#### § 8
+<sup>3</sup> Mittels Präsidialverfügung kann die Gemeindepräsidentin oder der Gemeindepräsident:
+
+- a) in dringlichen Fällen vorsorgliche Massnahmen anordnen und anstelle des Gemeinderats Entscheide treffen;
+- b) dem Gemeinderat unterbreitete Angelegenheiten vorwiegend förmlicher Natur oder von untergeordneter Bedeutung selbständig erledigen oder einer dem Gemeinderat nachgeordneten Behörde zur selbständigen Erledigung zuweisen.
+
+<sup>4</sup> Wird durch den Präsidialentscheid das Ressort eines anderen Gemeinderatsmitglieds betroffen, so hat die Präsidentin oder der Präsident nach Möglichkeit die Massnahmen mit dem betroffenen Gemeinderatsmitglied vorgängig zu besprechen. Die Präsidentin oder der Präsident hat dem Gemeinderat in der folgenden Sitzung von der Präsidialentscheidung Kenntnis zu geben. Der Gemeinderat kann die Präsidialentscheidung mit einfachem Mehr wieder aufheben, sofern dies für die davon Betroffenen keine erheblichen Nachteile zur Folge hat.
+
+#### § 11
 
 **Mitglieder des Gemeinderats**
 
-<sup>1</sup> Die Mitglieder des Gemeinderats nehmen ihre politische Verantwortung in Abstimmung mit den für die betreffende Produktgruppe fachverantwortlichen Abteilungsleitenden für das Produkt und die entsprechenden Kosten wahr.
+<sup>1</sup> Die Mitglieder des Gemeinderats nehmen für ihr Ressort die politische Verantwortung in Abstimmung mit der für das Ressort zuständigen Abteilungsleitung wahr.
 
-- a) …
-- b) …
-- c) …
-- d) …
+<sup>2</sup> Die Mitglieder des Gemeinderats:
 
-<sup>2</sup> Insbesondere erfüllen sie folgende Aufgaben:
+- a) bereiten die Entscheide des Gemeinderats in ihrem Ressort zusammen mit den Abteilungsleitungen vor und vertreten die Geschäfte ihres Ressorts im Gemeinderat;
+- b) stellen dem Gemeinderat Antrag zu den Sachstrategien in ihrem Ressort und stellen die Umsetzung der strategischen Planung sowie der Entwicklungs- und Legislaturziele in ihrem Ressort sicher;
+- c) vertreten ihr Ressort auf der Grundlage der Entscheide des Gemeinderats im Einwohnerrat sowie gegen aussen;
+- d) begleiten die Gemeindeverwaltung im Vollzug der Verwaltungsaufgaben und können dort Weisungen aus politischer Sicht erteilen, wo die Verwaltung über Handlungsspielraum verfügt;
+- e) nehmen weitere Zuständigkeiten wahr, die ihnen durch die Rechtsordnung oder Gemeinderatsbeschlüsse zugewiesen werden.
 
-- a) Sie bereiten die Entscheide des Gemeinderats in ihrem Geschäftskreis vor, indem sie bei der Erarbeitung der Planungen, Leistungsaufträge, Leistungsberichte und weiterer Vorlagen an den Einwohnerrat sowie der Leistungsvereinbarungen, der Controllingberichte und weiterer Geschäfte ihre politische Sicht einbringen und im Gemeinderat die entsprechenden Anträge vertreten.
-- b) Sie vertreten im Auftrag des Gemeinderats ihren Geschäftskreis im Einwohnerrat sowie nach aussen.
-- c) Sie begleiten die Gemeindeverwaltung im Vollzug der Leistungsvereinbarungen aus politischer Sicht, vertreten in diesem Zusammenhang die Gesamtsicht des Gemeinderats und erläutern bei Bedarf der fachverantwortlichen Abteilungsleitung die sie betreffenden Beschlüsse.
-- d) Sie nehmen die Zuständigkeiten wahr, die ihnen durch Leistungsvereinbarungen oder Gemeinderatsbeschluss zugewiesen werden.
+<sup>3</sup> Können sich das zuständige Mitglied des Gemeinderats und die fachverantwortliche Abteilungsleitung in der Vorbereitung eines Geschäfts für den Gemeinderat oder bei einer Vollzugsaufgabe nicht einigen, werden dem Gemeinderat mit dem schriftlichen Antrag beide Auffassungen zur Beschlussfassung unterbreitet.
 
-<sup>3</sup> Bei Abwesenheit vertreten sie sich gegenseitig.
-
-<sup>4</sup> Können sich das zuständige Mitglied des Gemeinderats und die fachverantwortliche Abteilungsleitung in der Vorbereitung eines Geschäfts für den Gemeinderat oder bei einer Vollzugsaufgabe nicht einigen, werden dem Gemeinderat beide Auffassungen zur Beschlussfassung unterbreitet.
+<sup>4</sup> Die Aufgaben der einzelnen Gemeinderatsmitglieder gelten sinngemäss auch für die Gemeindepräsidentin oder den Gemeindepräsidenten in Bezug auf ihr oder sein Ressort Präsidiales.
 
 ### 1.3 Einberufung der Sitzungen, Verfahren
 
-#### § 9
+#### § 12
 
 **Einberufung**
 
@@ -156,33 +185,35 @@ erlässt:
 
 <sup>3</sup> Die Einladung, die Traktandenliste und die Unterlagen zu den einzelnen Geschäften sollen in der Regel am vierten Tage vor der Sitzung im Besitz der Mitglieder des Gemeinderats sein.
 
-#### § 10
+<sup>4</sup> Anstelle einer Präsenzsitzung kann die Gemeindepräsidentin oder der Gemeindepräsident ausnahmsweise die Sitzung als Videokonferenz ansetzen, wenn nicht mindestens vier Mitglieder dies ablehnen.
+
+#### § 13
 
 **Teilnahme weiterer Personen**
 
-<sup>1</sup> Neben den Mitgliedern des Gemeinderats nehmen an den Ratssitzungen teil
+<sup>1</sup> Neben den Mitgliedern des Gemeinderats nehmen an den Ratssitzungen teil:
 
-- a) die Verwaltungsleiterin oder der Verwaltungsleiter,
+- a) die Verwaltungsleiterin oder der Verwaltungsleiter;
 - b) die Generalsekretärin oder der Generalsekretär.
 
-<sup>2</sup> Der Gemeinderat kann Mitglieder der Geschäftsleitung und weitere Fachpersonen der Gemeindeverwaltung zur Teilnahme an den Sitzungen einladen. Der Gemeinderat entscheidet situativ, ob sie den Beratungen des Gemeinderats beiwohnen. Der Beschlussfassung wohnen sie nur im Ausnahmefall bei.
+<sup>2</sup> Der Gemeinderat kann Mitarbeitende der Gemeindeverwaltung zur Teilnahme an den Sitzungen einladen. Der Gemeinderat entscheidet situativ, ob sie den Beratungen des Gemeinderats beiwohnen. Der Beschlussfassung wohnen sie nur im Ausnahmefall bei.
 
 <sup>3</sup> Bei Bedarf können externe Personen für Informationen und Auskünfte beigezogen werden. An der internen Beratung und Beschlussfassung des Gemeinderats wohnen sie in der Regel nicht bei.
 
-#### § 11
+#### § 14
 
 **Traktandenliste**
 
 <sup>1</sup> Die Gemeindepräsidentin oder der Gemeindepräsident erstellt die Traktandenliste unter Berücksichtigung der Anträge der Mitglieder des Gemeinderats, der Verwaltungsleiterin oder des Verwaltungsleiters oder der Generalsekretärin oder des Generalsekretärs.
 
-<sup>2</sup> Ein Geschäft kann auf die Traktandenliste gesetzt werden, wenn
+<sup>2</sup> Ein Geschäft kann auf die Traktandenliste gesetzt werden, wenn:
 
-- a) das für den betreffenden Geschäftskreis zuständige Mitglied des Gemeinderats zustimmt oder
+- a) das für das Ressort zuständige Mitglied des Gemeinderats zustimmt oder
 - b) der Gemeinderat die Traktandierung beschlossen hat.
 
-<sup>3</sup> Der Gemeinderat genehmigt die Traktandenliste zu Beginn der Sitzung. Er kann sie im Verlauf der Sitzung ändern, wenn zwei Drittel der anwesenden Mitglieder des Gemeinderats zustimmen.
+<sup>3</sup> Der Gemeinderat genehmigt die Traktandenliste zu Beginn der Sitzung. Er kann sie im Verlauf der Sitzung nachträglich ändern, wenn mindestens vier Mitglieder des Gemeinderats zustimmen.
 
-#### § 12
+#### § 15
 
 **Nicht traktandierte Geschäfte**
 
@@ -192,7 +223,7 @@ erlässt:
 
 <sup>3</sup> Abwesende Mitglieder des Gemeinderats werden über die gefassten Beschlüsse nach Abs. 2 unverzüglich informiert.
 
-#### § 13
+#### § 16
 
 **Summarische Geschäfte**
 
@@ -200,7 +231,7 @@ erlässt:
 
 <sup>2</sup> Summarische Geschäfte gelten als beschlossen, wenn kein Mitglied des Gemeinderats dazu eine Beratung verlangt.
 
-#### § 14
+#### § 17
 
 **Sitzungsleitung, Beschlussfassung**
 
@@ -210,7 +241,7 @@ erlässt:
 
 <sup>3</sup> Abstimmungen erfolgen offen. Die Gemeindepräsidentin oder der Gemeindepräsident stimmt mit und gibt bei Stimmengleichheit den Stichentscheid.
 
-#### § 15
+#### § 18
 
 **Wahlen**
 
@@ -220,50 +251,50 @@ erlässt:
 
 <sup>3</sup> Erreichen im ersten Wahlgang weniger Vorgeschlagene das absolute Mehr als Personen zu wählen sind, entscheidet in einem zweiten Wahlgang das relative Mehr. Im Fall der Stimmengleichheit zieht die Gemeindepräsidentin oder der Gemeindepräsident das Los.
 
-#### § 16
+#### § 19
 
 **Wiedererwägung**
 
 <sup>1</sup> Der Gemeinderat kann einen Beschluss mit Zustimmung von mindestens vier Mitgliedern in Wiedererwägung ziehen.
 
-#### § 17
+#### § 20
 
 **Protokoll**
 
 <sup>1</sup> Über die Verhandlungen des Gemeinderats wird ein Protokoll geführt.
 
-<sup>2</sup> Das Protokoll enthält
+<sup>2</sup> Das Protokoll enthält:
 
-- a) die Namen der abwesenden Mitglieder des Gemeinderats,
-- b) die Verhandlungsgegenstände nach der Reihenfolge ihrer Behandlung,
-- c) die Anträge und Gegenanträge zu den einzelnen Geschäften,
-- d) das Ergebnis der Abstimmungen und Wahlen,
-- e) die gefassten Beschlüsse,
+- a) die Namen der abwesenden Mitglieder des Gemeinderats;
+- b) die Verhandlungsgegenstände nach der Reihenfolge ihrer Behandlung;
+- c) die Anträge und Gegenanträge zu den einzelnen Geschäften;
+- d) das Ergebnis der Abstimmungen und Wahlen;
+- e) die gefassten Beschlüsse;
 - f) bei Bedarf Erwägungen zur Beschlussfassung.
 
 <sup>3</sup> Jedes Mitglied des Gemeinderats hat das Recht, seine von einem Beschluss der Mehrheit abweichende Meinung begründet zu Protokoll zu geben.
 
-<sup>4</sup> Der Gemeinderat genehmigt das Protokoll an der nächsten Sitzung. Änderungen und Ergänzungen werden im Protokoll dieser Sitzung vermerkt.
+<sup>4</sup> Der Gemeinderat genehmigt das Protokoll an der nächsten Sitzung. Änderungen und Ergänzungen werden im Protokoll vermerkt.
 
-#### § 18
+#### § 21
 
 **Ausserordentliche Beschlussfassung**
 
-<sup>1</sup> Der Gemeinderat kann ausnahmsweise ohne Sitzung im Rahmen einer Telefonkonferenz, per E-Mail oder in ähnlicher Weise beschliessen, wenn kein Mitglied des Gemeinderats dagegen Einspruch erhebt.
+<sup>1</sup> Der Gemeinderat kann ausnahmsweise ohne Sitzung, schriftlich, per E-Mail oder in ähnlicher Weise beschliessen, wenn kein Mitglied des Gemeinderats dagegen Einspruch erhebt.
 
 <sup>2</sup> Die ausserordentliche Beschlussfassung wird in der nachfolgenden Sitzung validiert.
 
 ## 2. Kommissionen
 
-#### § 19
+#### § 22
 
 **Allgemeines**
 
-<sup>1</sup> Der Gemeinderat kann zur Vorbereitung von Geschäften aus seinem Zuständigkeitsbereich ständige Kommissionen oder Kommissionen mit befristetem Auftrag einsetzen. Er bestimmt
+<sup>1</sup> Der Gemeinderat kann zur Vorbereitung von Geschäften aus seinem Zuständigkeitsbereich ständige Kommissionen oder Kommissionen mit befristetem Auftrag einsetzen. Er bestimmt:
 
-- a) den Auftrag und die Zuständigkeiten,
-- b) die Organisation, namentlich die Zahl der Mitglieder, den Vorsitz und das Sekretariat,
-- c) die Ausgabenbefugnisse, namentlich im Zusammenhang mit dem Beizug aussenstehender Dritter,
+- a) den Auftrag und die Zuständigkeiten;
+- b) die Organisation, namentlich die Zahl der Mitglieder, den Vorsitz und das Sekretariat;
+- c) die Ausgabenbefugnisse, namentlich im Zusammenhang mit dem Beizug aussenstehender Dritter;
 - d) die Befugnisse zum Auftreten nach aussen.
 
 <sup>2</sup> Die Delegation behördlicher Befugnisse an Kommissionen bedarf der Festlegung in einer Ordnung oder in einem Reglement.
@@ -272,24 +303,19 @@ erlässt:
 
 <sup>4</sup> Kommissionen mit befristetem Auftrag werden aufgelöst, wenn sie ihren Auftrag erfüllt haben oder wenn auf ihre Tätigkeit verzichtet werden kann.
 
-<sup>4<sup>bis</sup></sup> Die Kommissionssitzungen sind nicht öffentlich. Ihre Protokolle sind unter Vorbehalt der Bestimmungen des Informations- und Datenschutzgesetzes nicht öffentlich zugänglich.
+<sup>5</sup> Die Kommissionssitzungen sind nicht öffentlich. Ihre Protokolle sind unter Vorbehalt der Bestimmungen des Informations- und Datenschutzgesetzes nicht öffentlich zugänglich.
 
-<sup>5</sup> Im Übrigen gelten für die Kommissionen sinngemäss die Bestimmungen über den Gemeinderat, soweit dieses Reglement oder andere Vorschriften nichts anderes vorsehen.
+<sup>6</sup> Im Übrigen gelten für die Kommissionen sinngemäss die Bestimmungen über den Gemeinderat, soweit dieses Reglement oder andere Vorschriften nichts anderes vorsehen.
 
-#### § 20
+#### § 23
 
 **Information des Gemeinderats und der Gemeindeverwaltung**
 
-<sup>1</sup> Die Sekretariate der Kommissionen bringen dem Gemeinderat und den zuständigen Mitgliedern der Geschäftsleitung sowie Fachpersonen der Gemeindeverwaltung die Sitzungsprotokolle zur Kenntnis.
+<sup>1</sup> Die Sekretariate der Kommissionen bringen dem Gemeinderat, der Verwaltungsleiterin oder dem Verwaltungsleiter, der Generalsekretärin oder dem Generalsekretär und den zuständigen Abteilungsleitungen sowie Fachpersonen der Gemeindeverwaltung die Sitzungsprotokolle zur Kenntnis.
 
 <sup>2</sup> Vorbehalten bleiben abweichende Regelungen im Einsetzungsbeschluss oder gemäss anderweitigen Vorschriften.
 
-- a) …
-- b) …
-
-<sup>3</sup> …
-
-#### § 21
+#### § 24
 
 **Entschädigung**
 
@@ -297,171 +323,156 @@ erlässt:
 
 <sup>2</sup> Die Entschädigung richtet sich nach den für die einwohnerrätlichen Kommissionen geltenden Bestimmungen.
 
-<sup>3</sup> Vorbehalten bleiben für die Lehrpersonen die Bestimmungen des Schulrechts.
+<sup>3</sup> Vorbehalten bleiben die für die Lehrpersonen und die externen Schulratsmitglieder geltenden Bestimmungen des Schulrechts.
 
 ## 3. Verwaltungsorganisation
 
 ### 3.1 Allgemeines
 
-#### § 22
+#### § 25
 
 **Grundsatz**
 
-<sup>1</sup> Die Organisation der Gemeindeverwaltung richtet sich nach den Erfordernissen einer ergebnisorientierten Erfüllung der Gemeindeaufgaben.
+<sup>1</sup> Der Gemeinderat legt auf Antrag der Verwaltungsleiterin oder des Verwaltungsleiters die Zuordnung der Bereiche zu den einzelnen Ressorts fest.
 
-<sup>2</sup> Die Verantwortungen für Produkte und Kostenstellen werden klar zugewiesen.
+<sup>2</sup> Für das Ressort Präsidiales erfolgt die Antragsstellung zusammen mit der Verwaltungsleiterin oder dem Verwaltungsleiter bzw. mit der Generalsekretärin oder dem Generalsekretär.
 
-#### § 23
-
-**Produktgruppen- und Produktverantwortung**
-
-<sup>1</sup> Die für eine Produktgruppe oder ein Produkt Verantwortlichen sorgen dafür, dass die Gemeindeleistungen im Rahmen der gesetzlichen Regelungen, gemäss den Zielen und Vorgaben der Leistungsaufträge und internen Leistungsvereinbarungen sowie in Absprache mit dem zuständigen Mitglied des Gemeinderats erbracht werden.
-
-<sup>2</sup> Sie planen die Aufgabenerfüllung gemäss Abs. 1, bestellen die Ausführung der Arbeiten bei den internen und externen Leistungserbringern und überprüfen regelmässig das Ergebnis, insbesondere hinsichtlich Qualität und Kosten.
-
-#### § 24
-
-**Kostenstellenverantwortung**
-
-<sup>1</sup> Die für die Kostenstellen Verantwortlichen erbringen zusammen mit ihren Mitarbeitenden die verlangten Leistungen.
-
-<sup>2</sup> Sie tätigen die erforderlichen Ausgaben und internen Beschaffungen im Rahmen der ihnen zur Verfügung gestellten Mittel.
-
-### 3.2 Zuständigkeiten
-
-#### § 25
-
-**Verwaltungsleiterin oder Verwaltungsleiter**
-
-<sup>1</sup> Die Verwaltungsleiterin oder der Verwaltungsleiter
-
-- a) leitet die Gemeindeverwaltung und entscheidet in gesamtbetrieblichen Angelegenheiten, die nicht ausschliesslich einzelne Abteilungen betreffen,
-- b) führt die Abteilungsleitenden und die Leitungen der Fachbereiche Controlling und Personal und steht der Geschäftsleitung sowie der erweiterten Geschäftsleitung vor,
-- c) vertritt den Gemeinderat gegenüber der Gemeindeverwaltung und sorgt dafür, dass die Entscheide des Gemeinderats ausgeführt werden,
-- d) vertritt die Gemeindeverwaltung gegenüber dem Gemeinderat und nimmt mit beratender Stimme und Antragsrecht an dessen Sitzungen teil,
-- e) koordiniert die abteilungs- und produktgruppenübergreifenden Massnahmen und Tätigkeiten, namentlich in Bezug auf die Leistungserbringung, die Planung, die Berichterstattung sowie in Absprache mit der Generalsekretärin oder dem Generalsekretär die Kommunikation nach innen,
-- f) stellt ein Internes Kontrollsystem sicher,
-- g) stellt sicher, dass die Abteilungsleitenden die Organisation ihrer Abteilung zweckmässig festlegen und die Zuständigkeiten eindeutig und umfassend zuweisen,
-- h) definiert allgemein gültige Vorgaben und Standards und beschliesst abteilungsübergreifende Massnahmen,
-- i) stellt die Kommunikation zwischen der Geschäftsleitung und der erweiterten Geschäftsleitung sicher.
-
-<sup>2</sup> Die Verwaltungsleiterin oder der Verwaltungsleiter bezieht die Geschäftsleitung, die erweiterte Geschäftsleitung oder einzelne betroffene Abteilungen bei wichtigen Entscheidungen in die Entscheidfindung mit ein.
-
-<sup>3</sup> Die Verwaltungsleiterin oder der Verwaltungsleiter kann den Abteilungsleitenden und den Leitungen der Fachbereiche Personal und Controlling im Bereich der Organisation einschliesslich der Zuweisung von Zuständigkeiten oder der Personalführung Weisungen erteilen.
-
-#### § 25a
-
-**Generalsekretärin oder Generalsekretär**
-
-<sup>1</sup> Die Generalsekretärin oder der Generalsekretär
-
-- a) führt die Leitung des Fachbereichs Recht, die Stabsstelle Kommunikation und die Leitung des Zentralsekretariats
-- b) sorgt für die Planung, Koordination und Kontrolle der Geschäfte des Gemeinderats und führt das Protokoll der Gemeinderatssitzungen,
-- c) nimmt mit beratender Stimme und Antragsrecht an den Sitzungen des Gemeinderats teil und sorgt für die korrekten Verfahrensabläufe,
-- d) ist verantwortlich für die Planung der Geschäfte des Einwohnerrats in Zusammenarbeit mit dem Ratsbüro des Einwohnerrats,
-- e) organisiert das Protokollwesen für die Behörden,
-- f) sorgt an der Schnittstelle zwischen Verwaltung und Behörden für die fristgerechte Erledigung der parlamentarischen Vorstösse,
-- g) informiert im Zusammenhang mit den Geschäften des Gemeinderats und des Einwohnerrats die Geschäftsleitung und die erweiterte Geschäftsleitung,
-- h) stellt zusammen mit der Stabsstelle Kommunikation und in Absprache mit der Verwaltungsleiterin oder dem Verwaltungsleiter sowie den Abteilungsleitenden und Fachbereichen eine zweckmässige Kommunikationsstrategie sicher,
-- i) koordiniert und steuert für den Gemeinderat die Behördenkommunikation,
-- j) stellt in Zusammenarbeit mit dem Fachbereich Recht, der Verwaltungsleiterin oder dem Verwaltungsleiter sowie den Abteilungsleitenden und übrigen Fachbereichen die Aktualisierung der kommunalen Gesetzgebung sicher.
+<sup>3</sup> Dabei wird berücksichtigt, dass die Bereiche thematisch zusammenhängen.
 
 #### § 26
 
-**Abteilungsleitende**
+**Operative und fachliche Führung**
 
-<sup>1</sup> Die Abteilungsleitenden sorgen in ihrer Funktion als Produktgruppenverantwortliche zusammen mit ihren Mitarbeitenden für die Planung und den Vollzug der Gemeindeleistungen in dem ihnen zugewiesenen Politikbereich. Die Aufgabenerfüllung richtet sich nach den Vorgaben aus Gesetz, Leistungsauftrag und internen Leistungsvereinbarungen.
+<sup>1</sup> Die Ressorts werden jeweils von einer Abteilungsleitung operativ und fachlich geführt. Die Abteilungsleitungen sind der Verwaltungsleiterin oder dem Verwaltungsleiter unterstellt.
 
-- a) …
-- b) …
-- c) …
+<sup>2</sup> Den Abteilungsleitungen sind die zugeordneten Bereiche unterstellt.
 
-<sup>2</sup> In ihrer Funktion als Kostenstellenverantwortliche erbringen sie zusammen mit den ihrer Abteilung zugeordneten Mitarbeitenden die bestellten Leistungen im Rahmen der verfügbaren Ressourcen.
+<sup>3</sup> Das Ressort Präsidiales wird operativ und fachlich von der Verwaltungsleiterin oder dem Verwaltungsleiter und von der Generalsekretärin oder dem Generalsekretär mit unterschiedlichen Aufgaben geführt. Ihnen werden verschiedene Stabsstellen und Bereiche unterstellt.
 
-<sup>3</sup> Sie legen nach Rücksprache mit der Verwaltungsleiterin oder dem Verwaltungsleiter die Organisation ihrer Abteilung fest und bestimmen eindeutig und umfassend die Zuständigkeiten, namentlich die Produkt- und die Kostenstellenverantwortung.
-
-<sup>4</sup> Sie führen ihre Abteilungen nach den Führungsgrundsätzen des Gemeinderats.
+### 3.2 Zuständigkeiten
 
 #### § 27
 
-**Geschäftsleitung**
+**Verwaltungsleiterin oder Verwaltungsleiter**
 
-<sup>1</sup> Die Geschäftsleitung besteht aus der Verwaltungsleiterin oder dem Verwaltungsleiter und der Generalsekretärin oder dem Generalsekretär sowie drei weiteren Personen aus dem Kreise der erweiterten Geschäftsleitung. Diese drei weiteren Personen werden nach vorgängiger Anhörung des Gemeinderats durch die Verwaltungsleiterin oder durch den Verwaltungsleiter bestimmt.
+<sup>1</sup> Die Verwaltungsleiterin oder der Verwaltungsleiter:
 
-<sup>2</sup> Der Geschäftsleitung kommen insbesondere folgende Aufgaben zu:
+- a) leitet die Gemeindeverwaltung und entscheidet in gesamtbetrieblichen Angelegenheiten, die nicht ausschliesslich einzelne Abteilungen betreffen;
+- b) erfüllt die zugewiesenen Aufgaben im Rahmen der eigenen Budgetkredite und mit den im Stellenplan bewilligten Ressourcen;
+- c) führt die Abteilungsleitungen und die Leitungen der ihr oder ihm zugeordneten Stabsstellen und steht der Geschäftsleitung sowie der erweiterten Geschäftsleitung vor;
+- d) vertritt den Gemeinderat gegenüber der Gemeindeverwaltung und sorgt dafür, dass die Entscheide des Gemeinderats ausgeführt werden;
+- e) vertritt die Gemeindeverwaltung gegenüber dem Gemeinderat und nimmt mit beratender Stimme und Antragsrecht an dessen Sitzungen teil;
+- f) ist zuständig für die Erstellung des jährlichen Aufgaben- und Finanzplans und koordiniert die abteilungsübergreifenden Massnahmen und Tätigkeiten, namentlich in Bezug auf die Leistungserbringung, die Planung, die Berichterstattung sowie die gesamtbetriebliche Kommunikation nach innen und nach aussen;
+- g) stellt die für die Betriebsführung notwendigen Instrumente und ein internes Kontrollsystem sicher;
+- h) definiert allgemein gültige Vorgaben und Standards und beschliesst abteilungsübergreifende Massnahmen;
+- i) stellt die Kommunikation zwischen der Geschäftsleitung und der erweiterten Geschäftsleitung sicher;
+- j) stellt die Umsetzung des Rechnungslegungshandbuchs sicher;
+- k) erstellt in Zusammenarbeit mit den ihr oder ihm unterstellten Stabsstellen für den eigenen Bereich die entsprechenden strategischen Grundlagen und legt diese dem Gemeinderat zur Genehmigung vor;
+- m) stellt dem Gemeinderat Antrag auf Bestimmung der eigenen Stellvertretung aus den Reihen ihrer oder seiner Linienverantwortung.
 
-- a) Sie unterstützt die Verwaltungsleiterin oder den Verwaltungsleiter in der Gesamtführung der Verwaltung.
-- b) Sie unterstützt die Verwaltungsleiterin oder den Verwaltungsleiter in der Verantwortung für die Entwicklung der Gesamtorganisation, für die Strukturkosten sowie für die Umsetzung der übergeordneten Themen, namentlich aus den Bereichen Personal, Informatik, interne Kommunikation und Internes Kontrollsystem.
-- c) Sie berät allgemein gültige Vorgaben und Standards für die Aufgabenerfüllung der Verwaltung.
-- d) Sie berät generelle Weisungen der Verwaltungsleiterin oder des Verwaltungsleiters sowie der Leitung des Fachbereichs Personal im Bereich Organisation und Personal.
-- e) …
-- f) …
+<sup>2</sup> Die Verwaltungsleiterin oder der Verwaltungsleiter bezieht die Geschäftsleitung, die erweiterte Geschäftsleitung oder einzelne betroffene Abteilungen bei wichtigen Entscheidungen in die Entscheidfindung mit ein.
 
-<sup>3</sup> …
-
-<sup>4</sup> …
-
-#### § 27a
-
-**Erweiterte Geschäftsleitung**
-
-<sup>1</sup> Die erweiterte Geschäftsleitung besteht aus der Verwaltungsleiterin oder dem Verwaltungsleiter und der Generalsekretärin oder dem Generalsekretär sowie den Abteilungsleitenden, den Leitungen der Fachbereiche Controlling, Personal und Recht sowie der Stabstelle Kommunikation.
-
-<sup>2</sup> Der erweiterten Geschäftsleitung kommen insbesondere folgende Aufgaben zu:
-
-- a) Sie sorgt für eine gute abteilungsübergreifende Zusammenarbeit.
-- b) Sie definiert ihre Haltung bei abteilungsübergreifenden Geschäften.
-- c) Sie pflegt die Informations- und Feedbackkultur innerhalb der Verwaltung und gegenüber den Mitgliedern des Gemeinderats.
-- d) Sie berät bei Fragen oder Konflikten, die auf Ebene Abteilung nicht gelöst werden können und von übergeordnetem Interesse sind.
-- e) Sie schlägt abteilungsübergreifende Arbeiten und neu zu bearbeitende Themen vor.
-- f) Sie behandelt mit der Stabsstelle Kommunikation Themen und Projekte mit Kommunikationsbedarf nach Aussen und nach Innen.
-- g) Sie bietet ihren Mitgliedern Unterstützung durch Beratung und Erfahrungsaustausch.
-
-#### § 27b
-
-**Leitungstreffen**
-
-<sup>1</sup> Am Leitungstreffen nehmen alle Kostenstellen- und Produktverantwortlichen der Gemeindeverwaltung inklusive Schulleitungen teil.
-
-<sup>2</sup> Das Leitungstreffen dient
-
-- a) der Vermittlung von Informationen, welche die gesamte Organisation betreffen, und von Vorgaben und Anordnungen der Verwaltungsleitung,
-- b) der Orientierung über bevorstehende Änderungen und Neuerungen sowie dem gegenseitigen Informationsaustausch, und
-- c) der gegenseitigen Vernetzung.
-
-<sup>3</sup> Das Leitungstreffen wird von der Verwaltungsleiterin oder dem Verwaltungsleiter geleitet.
-
-<sup>4</sup> Die Verwaltungsleiterin oder der Verwaltungsleiter lädt mindestens einmal jährlich zu einem Leitungstreffen ein.
+<sup>3</sup> Die Verwaltungsleiterin oder der Verwaltungsleiter kann als direkte Vorgesetzte bzw. als direkter Vorgesetzter den Abteilungsleitungen und den Leitungen der ihr oder ihm unterstellten Stabsstellen Aufträge und Weisungen erteilen.
 
 #### § 28
 
-**Schaffung, Änderung und Aufhebung von Stellen**
+**Generalsekretärin oder Generalsekretär**
 
-<sup>1</sup> Soweit Stellen der Gemeindeverwaltung geschaffen, geändert oder aufgehoben werden, erfolgt dies im Rahmen der beschlossenen Globalkredite und der Leistungsvereinbarungen.
+<sup>1</sup> Die Generalsekretärin oder der Generalsekretär:
 
-<sup>2</sup> Zuständig ist
-
-- a) der Gemeinderat für die Stellen der Verwaltungsleiterin oder des Verwaltungsleiters, der Generalsekretärin oder des Generalsekretärs, der Abteilungsleitenden sowie der Leitungen der Stabsstellen,
-- b) die Verwaltungsleiterin oder der Verwaltungsleiter auf Antrag der Abteilungsleitenden sowie der Generalsekretärin oder des Generalsekretärs für die übrigen Stellen.
-
-<sup>3</sup> Die Zuständigkeiten für die Schaffung, Änderung und Aufhebung von Stellen im Schulbereich richten sich nach dem kommunalen Schulrecht.
+- a) führt die Planung, Koordination und Kontrolle der Geschäfte des Gemeinderats und stellt das Protokoll der Gemeinderatssitzungen sicher;
+- b) ist verantwortlich für die Planung der Geschäfte des Einwohnerrats in Zusammenarbeit mit dem Ratsbüro des Einwohnerrats;
+- c) nimmt mit beratender Stimme und Antragsrecht an den Sitzungen des Gemeinderats teil und sorgt für die korrekten Verfahrensabläufe;
+- d) organisiert den Sitzungsbetrieb und das Protokollwesen für die Behörden;
+- e) erfüllt die zugewiesenen Aufgaben im Rahmen der eigenen Budgetkredite und mit den im Stellenplan bewilligten Ressourcen;
+- f) führt die ihr oder ihm unterstellten Leitungen der Stabsstellen und weiterer Bereiche;
+- g) erlässt Vorgaben zur Bearbeitung von Geschäften, Vorlagen und Anträgen und instruiert die verantwortlichen Stellen der Verwaltung;
+- h) sorgt in Zusammenarbeit mit der Verwaltung für die fristgerechte Erledigung der parlamentarischen Vorstösse;
+- i) stellt den Informationsfluss im Zusammenhang mit den Geschäften und Beschlüssen des Gemeinderats und des Einwohnerrats sicher;
+- j) stellt die amtliche Kommunikation sicher und koordiniert und steuert für den Gemeinderat die Behördenkommunikation;
+- k) unterstützt mit der Stabstelle Recht und in Zusammenarbeit mit der Verwaltungsleiterin oder dem Verwaltungsleiter sowie den Abteilungsleitungen die Aktualisierung und Nachführung der durch die Verwaltung anzuwendenden kommunalen Gesetzgebung;
+- l) stellt die Aussenbeziehungen, die Partner- und Patenschaften sowie die Wirtschaftskoordination sicher;
+- m) stellt dem Gemeinderat Antrag auf Bestimmung der eigenen Stellvertretung aus den Reihen ihrer oder seiner Linienverantwortung.
 
 #### § 29
 
-**Besondere Zuständigkeiten**
+**Abteilungsleitungen**
 
-<sup>1</sup> Der Gemeinderat kann von der Zuständigkeitsordnung gemäss diesem Reglement und den gestützt darauf ergangenen Beschlüssen abweichen, indem er
+<sup>1</sup> Die Abteilungsleitungen sorgen zusammen mit ihren Mitarbeitenden für die Planung und den Vollzug der Gemeindeleistungen in den ihnen zugeordneten Bereichen.
 
-- a) in Leistungsvereinbarungen besondere Zuständigkeiten vorsieht oder
-- b) im Verfahren nach § 6 die Zuständigkeit an sich zieht.
+<sup>2</sup> Die Aufgabenerfüllung richtet sich nach den gesetzlichen Vorgaben, den Sachstrategien sowie den Vorgaben im Aufgaben- und Finanzplan.
 
-<sup>2</sup> Die Verwaltungsleiterin oder der Verwaltungsleiter, die Generalsekretärin oder der Generalsekretär sowie die Abteilungsleitenden können ihnen zugewiesene Zuständigkeiten für bestimmte Geschäfte an andere Stellen der Gemeindeverwaltung delegieren.
+<sup>3</sup> Die Abteilungsleitungen erarbeiten zusammen mit dem zuständigen Gemeinderatsmitglied pro Bereich ihrer Abteilung die Sachstrategien und Entwicklungsziele zu Handen des Gemeinderats.
 
-<sup>3</sup> Vorbehalten bleibt die Zuständigkeit zum Erlass von Verfügungen gemäss § 39.
+<sup>4</sup> Sie erbringen die bestellten Leistungen im Rahmen der Budgetkredite, der Ausgabenbewilligungen, weiterer Beschlüsse und des Stellenplans.
+
+<sup>5</sup> Sie legen unter Vorbehalt der Genehmigung durch die Verwaltungsleiterin oder den Verwaltungsleiter die Organisation ihrer Abteilung fest und bestimmen eindeutig und umfassend die Zuständigkeiten in den ihnen zugeordneten Bereichen.
+
+<sup>6</sup> Sie führen ihre Abteilungen nach den Führungsgrundsätzen des Gemeinderats.
+
+#### § 30
+
+**Geschäftsleitung**
+
+<sup>1</sup> Die Geschäftsleitung besteht aus der Verwaltungsleiterin oder dem Verwaltungsleiter, deren bzw. dessen Stellvertretung und der Generalsekretärin oder dem Generalsekretär sowie zwei weiteren Personen aus dem Kreise der erweiterten Geschäftsleitung. Diese zwei weiteren Personen werden nach vorgängiger Anhörung des Gemeinderats durch die Verwaltungsleiterin oder durch den Verwaltungsleiter bestimmt.
+
+<sup>2</sup> Der Geschäftsleitung:
+
+- a) unterstützt die Verwaltungsleiterin oder den Verwaltungsleiter in der Gesamtführung der Verwaltung;
+- b) unterstützt die Verwaltungsleiterin oder den Verwaltungsleiter in der Verantwortung für die Entwicklung der Gesamtorganisation sowie für die Umsetzung der übergeordneten Themen;
+- c) erarbeitet bzw. berät allgemein gültige Vorgaben und Standards für die Aufgabenerfüllung der Verwaltung;
+- d) erarbeitet bzw. berät generelle Richtlinien und Weisungen der Verwaltungsleiterin oder des Verwaltungsleiters sowie der Leitung der Stabsstelle Personal im Bereich Organisation und Personal.
+
+<sup>3</sup> Die Geschäftsleitung konkretisiert ihre Aufgaben und ihren Betrieb in einem Statut.
+
+#### § 31
+
+**Erweiterte Geschäftsleitung**
+
+<sup>1</sup> Die erweiterte Geschäftsleitung besteht aus der Verwaltungsleiterin oder dem Verwaltungsleiter und der Generalsekretärin oder dem Generalsekretär sowie den Abteilungsleitenden und den Leitungen der Stabsstellen.
+
+<sup>2</sup> Die erweiterte Geschäftsleitung:
+
+- a) sorgt für eine gute abteilungsübergreifende Zusammenarbeit;
+- b) definiert ihre Haltung bei abteilungsübergreifenden Geschäften;
+- c) pflegt die Informations- und Feedbackkultur innerhalb der Verwaltung und gegenüber den Mitgliedern des Gemeinderats;
+- d) berät bei Fragen oder Konflikten, die auf Ebene Abteilung nicht gelöst werden können und von übergeordnetem Interesse sind;
+- e) schlägt abteilungsübergreifende Arbeiten und neu zu bearbeitende Themen vor und beteiligt sich an diesen Arbeiten;
+- f) bietet ihren Mitgliedern Unterstützung durch Beratung und Erfahrungsaustausch;
+- g) empfängt Informationen und Aufträge von der Verwaltungsleiterin oder vom Verwaltungsleiter oder von der Generalsekretärin oder vom Generalsekretär.
+
+<sup>3</sup> Die erweiterte Geschäftsleitung konkretisiert ihre Aufgaben und ihren Betrieb in einem Statut.
+
+#### § 32
+
+**Führungstreffen**
+
+<sup>1</sup> Am Führungstreffen nehmen die Abteilungsleitungen bzw. die Leitungen der Stabsstellen und die den Abteilungsleitungen direkt unterstellten Vorgesetzten mit Führungsverantwortung teil. Je nach Thema oder Zielsetzung können weitere Mitarbeitende eingeladen werden.
+
+<sup>2</sup> Das Führungstreffen dient:
+
+- a) der Vermittlung von Informationen, welche die gesamte Organisation betreffen, und von Vorgaben und Anordnungen der Verwaltungsleitung;
+- b) der Orientierung über bevorstehende Änderungen und Neuerungen sowie dem gegenseitigen Informationsaustausch;
+- c) der internen Schulung von Führungspersonen;
+- d) der gegenseitigen Vernetzung.
+
+<sup>3</sup> Das Führungstreffen wird von der Verwaltungsleiterin oder dem Verwaltungsleiter geleitet.
+
+<sup>4</sup> Die Verwaltungsleiterin oder der Verwaltungsleiter lädt mindestens einmal jährlich zu einem Führungstreffen ein.
+
+#### § 33
+
+**Schaffung, Änderung und Aufhebung von Stellen**
+
+<sup>1</sup> Soweit Stellen der Gemeindeverwaltung geschaffen, geändert oder aufgehoben werden, erfolgt dies im Rahmen des vom Gemeinderat beschlossenen Stellenplans.
+
+<sup>2</sup> Die Begründung, Änderung und Beendigung der Arbeitsverhältnisse gemäss Stellenplan richten sich nach den Regelungen des Personal- und Schulrechts der Gemeinde Riehen.
+
+<sup>3</sup> Die Gemeinderatsmitglieder werden in die Stellenbesetzung der Abteilungs- und Stabsstellenleitungen und deren Stellvertretungen sowie weiterer Schlüsselpersonen in ihrem Ressort nach einem durch den Gemeinderat freigegebenen Prozess einbezogen.
 
 ## 4. Information und Zugang zu Informationen
 
-#### § 30
+#### § 34
 
 **Information der Bevölkerung**
 
@@ -471,7 +482,7 @@ erlässt:
 
 <sup>3</sup> Vorbehalten bleiben die Regelungen des kantonalen Informations- und Datenschutzrechts.
 
-#### § 30a
+#### § 35
 
 **Veröffentlichungen des Gemeinderats**
 
@@ -481,103 +492,55 @@ erlässt:
 
 <sup>3</sup> Im Internet veröffentlicht werden zudem die an den Einwohnerrat verabschiedeten Vorlagen und Berichte.
 
-#### § 31
+#### § 36
 
 **Zugang zu Informationen**
 
 <sup>1</sup> Jede Person hat Anspruch auf Zugang zu Informationen im Rahmen des kantonalen Informations- und Datenschutzrechts, soweit keine besondere gesetzliche Geheimhaltungspflicht oder kein überwiegendes öffentliches oder privates Interesse entgegenstehen.
 
-- a) …
-- b) …
+<sup>2</sup> Kein Anspruch auf Zugang besteht insbesondere zu:
 
-<sup>2</sup> Kein Anspruch auf Zugang besteht insbesondere zu
-
-- a) Erwägungen zu Beschlüssen des Gemeinderats,
-- b) Beschlussentwürfen sowie zu Berichten, welche die Gemeindeverwaltung zuhanden des Gemeinderats erstellt,
-- c) Aufzeichnungen, die nicht fertig gestellt sind,
-- d) Zwischenentscheiden,
+- a) Erwägungen zu Beschlüssen des Gemeinderats;
+- b) Beschlussentwürfen sowie zu Berichten, welche die Gemeindeverwaltung zuhanden des Gemeinderats erstellt;
+- c) Aufzeichnungen, die nicht fertig gestellt sind;
+- d) Zwischenentscheiden;
 - e) verfahrensleitenden Beschlüssen.
 
-<sup>3</sup> Zu den vom Gemeinderat als geheim oder vertraulich qualifizierten Beschlüssen wird nur Zugang gewährt, wenn keine Verweigerungsgründe gemäss § 29 des Informations- und Datenschutzgesetzes bestehen.
+<sup>3</sup> Zu den vom Gemeinderat als geheim oder vertraulich qualifizierten Beschlüssen wird nur Zugang gewährt, wenn keine Verweigerungsgründe gemäss kantonalem Informations- und Datenschutzrecht bestehen.
 
 <sup>4</sup> Vorbehalten bleiben die Einsichtsrechte von Mitgliedern der Geschäftsprüfungskommission des Einwohnerrats gemäss den besonderen dafür geltenden Bestimmungen.
 
-#### § 32
+## 5. Berichtswesen
 
-**…**
-
-#### § 33
-
-**…**
-
-## 5. Führungsinstrumente
-
-### 5.1 Leistungsvereinbarungen
-
-#### § 34
-
-**Interne Leistungsvereinbarungen**
-
-<sup>1</sup> Zur Konkretisierung und Umsetzung der Leistungsaufträge des Einwohnerrats und des Politikplans schliesst der Gemeinderat mit der Gemeindeverwaltung jährlich Leistungsvereinbarungen ab.
-
-<sup>2</sup> Die Leistungsvereinbarungen enthalten ergänzende Jahresvorgaben zu den Leistungsaufträgen und die Ermächtigung, im Rahmen der darin umschriebenen Vorgaben die verlangten Gemeindeleistungen zu erbringen und die dafür zur Verfügung gestellten Mittel wie Personal, Finanzen, Infrastruktur und dergleichen einzusetzen.
-
-<sup>3</sup> Für den Aufgabenbereich der zentralen Dienste und internen Querleistungen schliesst der Gemeinderat mit der Gemeindeverwaltung ebenfalls jährlich eine Leistungsvereinbarung ab.
-
-<sup>4</sup> Der Gemeinderat kann im Rahmen einer Leistungsvereinbarung unter Vorbehalt von § 39 besondere Vorgaben und Zuständigkeiten festlegen.
-
-#### § 35
-
-**Leistungsvereinbarung mit Dritten**
-
-<sup>1</sup> Wird die Erfüllung von Gemeindeaufgaben ganz oder teilweise Dritten übertragen, regelt der Gemeinderat das Verhältnis auf eine bestimmte Dauer in einer Leistungsvereinbarung mit Zielvorgaben, Kostenrahmen und Rechenschaftspflicht.
-
-<sup>2</sup> Die für die betreffende Produktgruppe verantwortlichen Abteilungsleitenden bereiten die Leistungsvereinbarungen mit Dritten vor und überwachen deren Vollzug.
-
-### 5.2 Berichtswesen
-
-#### § 36
+#### § 37
 
 **Berichterstattung**
 
 <sup>1</sup> Die Verwaltungsleiterin oder der Verwaltungsleiter orientiert den Gemeinderat nach dem ersten Trimester über allfällige Abweichungen von den Jahresvorgaben, berichtet nach dem zweiten Trimester über die weitere Entwicklung und das erwartete Rechnungsergebnis und informiert in angemessener Weise über Entwicklungen im Personellen, namentlich über wichtige Veränderungen des Personalbestands.
 
-<sup>2</sup> Sie oder er ist verantwortlich für die Erstellung des jährlichen Politikplans sowie des Geschäftsberichts.
+<sup>2</sup> Die Abteilungsleitungen sorgen dafür, dass die Mitglieder des Gemeinderats so informiert sind, dass sie die politische Verantwortung in ihrem Ressort wahrnehmen können.
 
-- a) …
-- b) …
-- c) …
+<sup>3</sup> Sie orientieren das zuständige Mitglied des Gemeinderats und die Verwaltungsleiterin oder den Verwaltungsleiter regelmässig:
 
-<sup>3</sup> Die Abteilungsleitenden und die Produktverantwortlichen sorgen dafür, dass die Mitglieder des Gemeinderats so informiert sind, dass sie die politische Verantwortung in ihrem Geschäftskreis wahrnehmen können.
-
-- a) …
-- b) …
-
-<sup>4</sup> Sie orientieren das zuständige Mitglied des Gemeinderats und die Verwaltungsleiterin oder den Verwaltungsleiter regelmässig
-
-- a) über den Stand der Geschäfte und den Vollzug der Leistungsvereinbarungen im Allgemeinen,
-- b) inwiefern die vereinbarten Ziele erreicht oder nicht erreicht worden sind sowie
-- c) über das Ergebnis der Kreditkontrolle.
-
-#### § 37
-
-**Ausserordentliche Ereignisse**
-
-<sup>1</sup> Wer von Ereignissen von grosser politischer oder finanzieller Bedeutung für die Gemeinde, von öffentlichem Interesse oder von grosser Tragweite für einzelne Personen Kenntnis erhält, orientiert unverzüglich ein Mitglied der Geschäftsleitung.
+- a) über den Stand der Geschäfte;
+- b) inwiefern die vereinbarten Ziele erreicht oder nicht erreicht worden sind;
+- c) über das Ergebnis der Kontrolle der Budgetkredite und Ausgabenbewilligungen.
 
 ## 6. Zuständigkeiten im Geschäftsverkehr und Finanzhaushalt
-
-### 6.1 Vertretung nach aussen, Erlass von Verfügungen
 
 #### § 38
 
 **Vertretung der Gemeinde, Unterschrift**
 
-<sup>1</sup> Wer in der Sache zuständig ist, kann im Namen der Gemeinde nach aussen auftreten und im Rahmen der festgelegten Kompetenzen für die Gemeinde Verpflichtungen eingehen. Dieser Grundsatz gilt auch für den elektronischen Schriftverkehr. Der Gemeinderat regelt das Weitere in einer Richtlinie.
+<sup>1</sup> Mitarbeitende der Gemeindeverwaltung können zur Erfüllung ihrer Aufgaben im Namen der Gemeinde nach aussen auftreten und im Rahmen der festgelegten Ausgabenkompetenzen für die Gemeinde Verpflichtungen eingehen. Dieser Grundsatz gilt auch für den elektronischen Schriftverkehr. Der Gemeinderat regelt das Weitere in einer Richtlinie.
 
 <sup>2</sup> Die Unterzeichnung wichtiger Verträge und anderer Rechtsgeschäfte sowie Korrespondenz von politischer Bedeutung bleibt dem Gemeinderat vorbehalten.
 
 <sup>3</sup> Für den Gemeinderat zeichnen die Gemeindepräsidentin oder der Gemeindepräsident und die Generalsekretärin oder der Generalsekretär gemeinsam. Der Gemeinderat kann für gewisse Geschäfte eine andere Regelung beschliessen.
+
+<sup>4</sup> Das einzelne Gemeinderatsmitglied kann Korrespondenz in seinem Ressort gemeinsam mit den in der Sache zuständigen Mitarbeitenden der Gemeindeverwaltung unterzeichnen.
+
+<sup>5</sup> Einfache Korrespondenz kann das Gemeinderatsmitglied alleine unterzeichnen.
 
 #### § 39
 
@@ -585,21 +548,21 @@ erlässt:
 
 <sup>1</sup> Der Gemeinderat, die Gemeindepräsidentin oder der Gemeindepräsident sowie die in der Sache zuständigen Mitarbeitenden der Gemeindeverwaltung können gemäss den gesetzlichen Vorgaben im Namen der Gemeinde hoheitlich handeln und namentlich Verfügungen erlassen.
 
-<sup>2</sup> …
+<sup>2</sup> Für die Form, den Inhalt und die Vollstreckbarkeit der Verfügungen gelten sinngemäss die Bestimmungen des kantonalen Rechts.
 
-<sup>3</sup> Für die Form, den Inhalt und die Vollstreckbarkeit der Verfügungen gelten sinngemäss die Bestimmungen des kantonalen Rechts.
-
-<sup>4</sup> Vorbehalten bleiben Verfügungsbefugnisse von Gemeindebehörden aufgrund besonderer Bestimmungen.
+<sup>3</sup> Vorbehalten bleiben Verfügungsbefugnisse von Gemeindebehörden aufgrund besonderer Bestimmungen.
 
 #### § 40
 
 **Rechtsmittel**
 
-<sup>1</sup> Verfügungen der Gemeindepräsidentin oder des Gemeindpräsidenten oder der Gemeindeverwaltung können mit Rekurs an den Gemeinderat angefochten werden.
+<sup>1</sup> Verfügungen der Gemeindepräsidentin oder des Gemeindepräsidenten oder der Gemeindeverwaltung können unter Vorbehalt spezialgesetzlicher Regelungen mit Rekurs an den Gemeinderat angefochten werden.
 
-<sup>2</sup> Der Rechtsschutz gegen Verfügungen und Rekursentscheide richtet sich nach der Gemeindeordnung und nach dem kantonalen Recht.
+<sup>2</sup> Der Rekurs hat aufschiebende Wirkung, wenn ihm diese nicht im Voraus in der angefochtenen Verfügung oder, nach Rekursanmeldung, durch die Rekursinstanz ausdrücklich entzogen wird.
 
-### 6.2 Kredite
+<sup>3</sup> Die Gemeindepräsidentin oder der Gemeindepräsident kann die von der Vorinstanz entzogene aufschiebende Wirkung wiederherstellen oder die aufschiebende Wirkung entziehen sowie den Rekurs an einen Beirat überweisen, sofern dies spezialgesetzlich vorgesehen ist. Über einen entsprechenden Antrag ist ohne Verzug zu entscheiden.
+
+<sup>4</sup> Im Übrigen richtet sich der Rechtsschutz gegen Verfügungen und Rekursentscheide nach der Gemeindeordnung und nach dem kantonalen Recht.
 
 #### § 41
 
@@ -609,92 +572,53 @@ erlässt:
 
 #### § 42
 
-**Verwendung beschlossener Kredite**
+**Ausgabenbewilligungen**
 
-<sup>1</sup> Über ausgabenwirksame Anschaffungen und Auftragsvergaben im Rahmen beschlossener Kredite entscheidet im Sinn des geschäftsauslösenden Entscheids
+<sup>1</sup> Die Gemeindepräsidentin oder der Gemeindepräsident sowie die Mitglieder des Gemeinderats bewilligen in ihrem Zuständigkeitsbereich einmalige oder wiederkehrenden Ausgaben bis CHF 100'000.
 
-- a) bei Beträgen über 50'000 Franken im Einzelfall der Gemeinderat,
-- b) bei Beträgen über 25'000 bis 50'000 Franken im Einzelfall die Gemeindepräsidentin oder der Gemeindepräsident, mit Zustimmung des für den betreffenden Geschäftskreis zuständigen Mitglieds des Gemeinderats,
-- c) bei Beträgen bis 25‘000 Franken im Einzelfall die Verwaltungsleiterin oder der Verwaltungsleiter, die Generalsekretärin oder der Generalsekretär sowie die Abteilungsleitenden, jeweils begrenzt auf ihren Aufgaben- und Verantwortungsbereich.
+<sup>2</sup> Die Gemeindeverwaltung bewilligt einmalige oder wiederkehrende Ausgaben bis CHF 50'000.
 
-<sup>2</sup> Besteht im Fall von Abs. 1 lit. b Uneinigkeit, entscheidet der Gemeinderat.
+<sup>3</sup> Vorbehalten bleiben besondere Zuständigkeiten:
 
-<sup>3</sup> Vorbehalten bleiben besondere Zuständigkeiten
+- a) im Fall gebundener Ausgaben aufgrund gesetzlicher Verpflichtungen;
+- b) bezüglich Löhnen und Lohnnebenkosten;
+- c) aufgrund besonderer Bestimmungen in einem Gemeinderatsbeschluss.
 
-- a) im Fall gebundener Ausgaben aufgrund gesetzlicher Verpflichtungen,
-- b) aufgrund vertraglicher Verpflichtungen,
-- c) bezüglich Löhnen und Lohnnebenkosten,
-- d) aufgrund besonderer Bestimmungen in einem Gemeinderatsbeschluss oder in einer Leistungsvereinbarung.
-
-<sup>4</sup> Der Gemeinderat regelt die Einzelheiten. Er bestimmt, wer zum Vollzug des geschäftsauslösenden Entscheids mit der eigenen Unterschrift die entsprechenden Verpflichtungen gegenüber Dritten eingeht.
+<sup>4</sup> Der Gemeinderat regelt die Einzelheiten in einer Richtlinie. Er bestimmt, wer die entsprechenden Verpflichtungen gegenüber Dritten eingehen kann.
 
 #### § 43
 
-**Kreditkontrolle**
+**Kontrolle der Ausgabenbewilligung**
 
-<sup>1</sup> Wer über beschlossene Kredite gemäss § 42 verfügt, sorgt dafür, dass die Kredite nicht überschritten werden oder dass dem zuständigen Organ rechtzeitig ein Nachkredit beantragt wird.
+<sup>1</sup> Wer für den Vollzug einer Ausgabenbewilligung zuständig ist, sorgt dafür, dass die Ausgabenbewilligung nicht überschritten wird oder dass dem zuständigen Organ rechtzeitig eine Erhöhung beantragt wird.
 
-### 6.3 Anweisung zur Zahlung
+<sup>2</sup> Führt die Erhöhung einer Ausgabenbewilligung dazu, dass ein Budgetkredit nicht mehr ausreicht, so ist gleichzeitig eine Kreditüberschreitung oder ein Nachtragskredit zu beantragen.
 
 #### § 44
 
-**Grundsatz**
+**Anweisung zur Zahlung**
 
 <sup>1</sup> Eingehende Rechnungen werden so visiert und zur Zahlung angewiesen, dass sie rechtzeitig beglichen werden können.
 
-#### § 45
+<sup>2</sup> Wer eine Rechnung visiert, prüft:
 
-**Visum eingehender Rechnungen**
+- a) ob der auf dem Beleg dargestellte Sachverhalt mit der Wirklichkeit übereinstimmt;
+- b) ob die Leistung mit dem Anspruch der oder des Leistungsempfangenden übereinstimmt.
 
-<sup>1</sup> Wer die Verpflichtung eingegangen ist, visiert die entsprechenden Rechnungen.
-
-<sup>2</sup> Wer eine Rechnung visiert, prüft,
-
-- a) ob der auf dem Beleg dargestellte Sachverhalt mit der Wirklichkeit übereinstimmt,
-- b) ob die Leistung mit dem Anspruch des Leistungsempfängers übereinstimmt,
-- c) ob der entsprechende Kredit vorhanden ist,
-- d) die rechnerische Richtigkeit.
-
-#### § 46
-
-**Anweisung zur Zahlung**
-
-<sup>1</sup> Die Anweisung zur Zahlung einer Rechnung, die durch eine Person allein visiert worden ist, bedarf der Unterschrift durch die vorgesetzte Stelle, sofern
-
-- a) der Rechnungsbetrag 5'000 Franken übersteigt oder
-- b) es sich um eine eigene Spesenrechnung handelt.
-
-<sup>2</sup> In den übrigen Fällen weist die visierende Person die Rechnung direkt zur Zahlung an.
-
-<sup>3</sup> Vorbehalten bleibt die Ausstandspflicht nach § 4 der Gemeindeordnung.
-
-#### § 47
-
-**Zahlung**
-
-<sup>1</sup> Die zuständige Stelle begleicht visierte und zur Zahlung angewiesene Rechnungen gemäss den einschlägigen Zahlungsbedingungen.
+<sup>3</sup> Der Gemeinderat regelt die Einzelheiten in einer Richtlinie.
 
 ## 7. Übergangs- und Schlussbestimmungen
 
-#### § 48
+#### § 45
 
-**Aufhebung bisherigen Rechts**
+**Übergangsbestimmungen**
 
-<sup>1</sup> Mit dem Wirksamwerden dieses Reglements sind aufgehoben
+<sup>1</sup> Das Reglement über die Organisation des Gemeinderats und der Gemeindeverwaltung (Organisationsreglement, OgR) vom 17. Dezember 2002 gilt für den Geschäftsbericht 2023 bis zu dessen Genehmigung durch den Einwohnerrat im Jahr 2024.
 
-- a) die Geschäftsordnung des Gemeinderats der Einwohnergemeinde Riehen vom 28. Oktober 1987,
-- b) das Reglement über die Zeichnungsberechtigung der Behördenmitglieder und Beamten der Gemeinde Riehen vom 16. Dezember 1987.
+<sup>2</sup> Altrechtliche Verpflichtungskredite gelten hinsichtlich aller Aspekte als Ausgabenbewilligungen.
 
-#### § 49
+*Schlussbestimmung*
 
-**Wirksamkeit und Übergangsbestimmungen**
+Dieses Reglement ist zu publizieren; es tritt am 1. Januar 2024 in Kraft. Auf den gleichen Zeitpunkt wird das Reglement über die Organisation des Gemeinderats und der Gemeindeverwaltung (Organisationsreglement, OgR) vom 17. Dezember 2002 aufgehoben.
 
-<sup>1</sup> Dieses Reglement wird publiziert; es wird am 1. Januar 2003 wirksam.[^49-1]
-
-<sup>2</sup> Solange die Ordnung über die Besoldungen der Beamten und Angestellten der Gemeinde Riehen (Besoldungsordnung) vom 29. September 1971 wirksam ist, bleiben deren Bestimmungen, namentlich betreffend Zuständigkeit zur Festsetzung der Besoldung, vorbehalten. Der Gemeinderat entspricht Anträgen der Gemeindeverwaltung im Bereich der Besoldung, sofern diese sachlich gerechtfertigt sind.
-
-<sup>3</sup> …
-
-[^49-1]: Publiziert am 4. 1. 2003.
-
-KB 04.01.2003
+KB 02.04.2022
