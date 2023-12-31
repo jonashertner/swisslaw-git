@@ -4,13 +4,13 @@ number: "52"
 title: Verordnung zum Personalgesetz
 short: "Personalverordnung, PVO"
 language: de
-version: 2023-08-01
-valid_until: 2023-12-31
-version_adopted: 2022-12-06
+version: 2024-01-01
+valid_until: 2025-03-31
+version_adopted: 2024-03-12
 adopted: 2002-09-24
 in_force: 2003-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/52"
-pdf: "https://srl.lu.ch/api/de/versions/4096/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4196/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/4096/pdf_file"
 
 (Personalverordnung, PVO)
 
-vom 24.09.2002 (Stand 01.08.2023)
+vom 24.09.2002 (Stand 01.01.2024)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -581,6 +581,8 @@ beschliesst:
 
 <sup>1<sup>bis</sup></sup> Verlängert sich der Anspruch auf Mutterschaftsentschädigung gemäss Artikel 16c des Erwerbsersatzgesetzes vom 25. September 1952[^44-1], weil das Neugeborene unmittelbar nach der Geburt ununterbrochen während mindestens zweier Wochen im Spital bleiben muss, verlängert sich der Anspruch auf besoldeten Mutterschaftsurlaub entsprechend.
 
+<sup>1<sup>ter</sup></sup> Hat die Angestellte Anspruch auf zusätzliche Taggelder gemäss Artikel 16c<sup>bis</sup> des Erwerbsersatzgesetzes[^44-2], weil der rechtliche andere Elternteil während der sechs Monate nach der Geburt des Kindes gestorben ist, besteht Anspruch auf einen besoldeten Urlaub für die Zeit des Taggeldbezugs. Der Urlaub ist innert sechs Monaten ab dem Tag nach dem Tod wochen- oder tageweise zu beziehen. Der Zeitpunkt des Bezugs ist mit der zuständigen Behörde vorgängig festzulegen. Die Besoldung richtet sich nach dem Beschäftigungsgrad bei der Geburt des Kindes.
+
 <sup>2</sup> Der Anspruch auf Mutterschaftsurlaub und dessen Besoldung endet bei Wiederaufnahme der Arbeit oder mit der rechtsgültigen Beendigung des Arbeitsverhältnisses.
 
 <sup>3</sup> Die Angestellte kann den Arbeitsplatz wegen Beschwerden im Zusammenhang mit der Schwangerschaft nach einer Meldung an die vorgesetzte Person verlassen.
@@ -596,12 +598,13 @@ beschliesst:
 <sup>8</sup> Die Angestellte hat Anspruch auf sechs Monate unbesoldeten Urlaub unmittelbar anschliessend an den besoldeten Mutterschaftsurlaub gemäss Absatz 1. Der Bezug ist spätestens acht Wochen im Voraus anzukündigen. Bei verspäteter Ankündigung kann die zuständige Behörde den Urlaub aus betrieblichen Gründen kürzen oder verweigern.
 
 [^44-1]: SR [834.1](https://db.clex.ch/link/Bund/834.1/de)
+[^44-2]: SR [834.1](https://db.clex.ch/link/Bund/834.1/de)
 
 #### § 45
 
 **Vaterschaftsurlaub**
 
-<sup>1</sup> Der Angestellte hat bei der Geburt eines eigenen Kindes Anspruch auf einen besoldeten Vaterschaftsurlaub von zehn Arbeitstagen, welcher innert sechs Monaten nach der Geburt tageweise oder am Stück zu beziehen ist.
+<sup>1</sup> Der Angestellte hat bei der Geburt eines eigenen Kindes Anspruch auf einen besoldeten Vaterschaftsurlaub von zehn Arbeitstagen, welcher innert sechs Monaten nach der Geburt tageweise oder am Stück zu beziehen ist. Die Besoldung richtet sich nach dem Beschäftigungsgrad bei der Geburt des Kindes.
 
 <sup>2</sup> Im ersten Lebensjahr des Kindes hat der Angestellte Anspruch auf vier Wochen unbesoldeten Vaterschaftsurlaub.
 
@@ -612,6 +615,16 @@ beschliesst:
 **Urlaub der gleichgeschlechtlichen Partnerin und des gleichgeschlechtlichen Partners**
 
 <sup>1</sup> Die oder der Angestellte hat Anspruch auf die Urlaube im Sinn von § 45, sofern sie oder er im Zeitpunkt der Geburt des Kindes mit der leiblichen Mutter beziehungsweise dem leiblichen Vater verheiratet ist oder in einer eheähnlichen Lebensgemeinschaft lebt.
+
+#### § 45b
+
+**Urlaub des rechtlichen anderen Elternteils im Falle des Todes der Mutter**
+
+<sup>1</sup> Hat die oder der Angestellte Anspruch auf zusätzliche Taggelder gemäss Artikel 16k<sup>bis</sup> des Erwerbsersatzgesetzes[^45b-1], weil die Mutter am Tag der Niederkunft oder während der 97 Tage danach gestorben ist, besteht Anspruch auf einen besoldeten Urlaub für die Zeit des Taggeldbezugs. Die Besoldung richtet sich nach dem Beschäftigungsgrad bei Antritt des Urlaubs.
+
+<sup>2</sup> Die Bestimmungen von § 44 Absätze 2, 4 und 5 finden sinngemäss Anwendung.
+
+[^45b-1]: SR [834.1](https://db.clex.ch/link/Bund/834.1/de)
 
 #### § 46
 
