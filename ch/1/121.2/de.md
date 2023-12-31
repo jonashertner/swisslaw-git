@@ -4,11 +4,11 @@ title: Verordnung vom 16. August 2017 über die Informations- und Speichersystem
 short: VIS-NDB
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/496"
 language: de
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2017-08-16
 in_force: 2017-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/496/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2017-496-20230901-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/496/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/496/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2017-496-20240101-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/496/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/496/20230901/de"
 
 (VIS-NDB)
 
-vom 16. August 2017 (Stand am 1. September 2023)
+vom 16. August 2017 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -222,17 +222,17 @@ Der NDB regelt die Verantwortung und die Zuständigkeiten für seine Information
 Für die Gewährleistung der Datensicherheit gelten:
 
 - a.[^13-1] die Artikel 1–4 und 6 der Datenschutzverordnung vom 31. August 2022[^13-2];
-- b.[^13-3] die Cyberrisikenverordnung vom 27. Mai 2020[^13-4];
-- c. die Informationsschutzverordnung vom 4. Juli 2007[^13-5];
+- b.[^13-3] die Informationssicherheitsverordnung vom 8. November 2023[^13-4];
+- c.[^13-5] …
 - d.[^13-6] …
 
 <sup>2</sup> Der NDB regelt in den Bearbeitungsreglementen die organisatorischen und technischen Massnahmen gegen unbefugtes Bearbeiten der Daten.
 
 [^13-1]: Fassung gemäss Anhang 2 Ziff. II 3 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^13-2]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^13-3]: Fassung gemäss Anhang Ziff. 2 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
-[^13-4]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^13-5]: [SR 510.411](https://fedlex.data.admin.ch/eli/cc/2007/414)
+[^13-3]: Fassung gemäss Anhang 2 Ziff. II 2 der Informationssicherheitsverordnung vom 8. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^13-4]: [SR 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^13-5]: Aufgehoben durch Anhang 2 Ziff. II 2 der Informationssicherheitsverordnung vom 8. Nov. 2023, mit Wirkung seit 1. Jan. 2024 ([AS 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
 [^13-6]: Aufgehoben durch Anhang Ziff. 2 der V vom 24. Febr. 2021, mit Wirkung seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 14
@@ -249,11 +249,12 @@ Für die Gewährleistung der Datensicherheit gelten:
 
 #### Art. 15
 
-**Datenübermittlung ausserhalb von SiLAN**
+**Datenübermittlung ausserhalb von SiLAN**[^15-1]
 
-Für die Übermittlung von Daten des NDB ausserhalb von SiLAN gelten die Bestimmungen der Informationsschutzverordnung vom 4. Juli 2007[^15-1].
+Für die Übermittlung von Daten des NDB ausserhalb von SiLAN gelten die Bestimmungen der Informationssicherheitsverordnung vom 8. November 2023[^15-2].
 
-[^15-1]: [SR 510.411](https://fedlex.data.admin.ch/eli/cc/2007/414)
+[^15-1]: Fassung gemäss Anhang 2 Ziff. II 2 der Informationssicherheitsverordnung vom 8. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^15-2]: [SR 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
 
 ## 4. Abschnitt: Besondere Bestimmungen über IASA NDB
 
@@ -476,6 +477,8 @@ Der INDEX NDB besteht aus:
 <sup>2</sup> Ist es aus Gründen des Quellenschutzes nach Artikel 35 NDG erforderlich, so werden die in IASA NDB oder IASA-GEX NDB bearbeiteten Daten von natürlichen und juristischen Personen ausnahmsweise nicht im IASA INDEX angezeigt.
 
 <sup>3</sup> Der INDEX NDB kann Personendaten, einschliesslich Personendaten, welche die Beurteilung des Gefährlichkeitsgrades einer Person erlauben, enthalten, unabhängig davon, ob es sich um besonders schützenswerte Personendaten handelt oder nicht.[^30-1]
+
+<sup>4</sup> In IASA-GEX NDB bearbeitete Daten zu Drittpersonen werden im IASA INDEX nicht angezeigt.
 
 <sup>5</sup> Der Katalog der Personendaten ist in Anhang 1 aufgeführt.
 

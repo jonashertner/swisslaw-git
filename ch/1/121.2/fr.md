@@ -4,11 +4,11 @@ title: "Ordonnance du 16 août 2017 sur les systèmes d'information et les syst�
 short: OSIS-SRC
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/496"
 language: fr
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2017-08-16
 in_force: 2017-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/496/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2017-496-20230901-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/496/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/496/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-496-20240101-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/496/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/496/20230901/fr"
 
 (OSIS-SRC)
 
-du 16 août 2017 (État le 1<sup>er</sup> septembre 2023)
+du 16 août 2017 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -222,17 +222,17 @@ Le SRC règle la responsabilité et les compétences en lien avec ses systèmes 
 Pour assurer la sécurité des données s’appliquent:
 
 - a.[^13-1] les art. 1 à 4 et 6 de l’ordonnance du 31 août 2022 sur la protection des données[^13-2];
-- b.[^13-3] l’ordonnance du 27 mai 2020 sur les cyberrisques[^13-4];
-- c. l’ordonnance du 4 juillet 2007 concernant la protection des informations[^13-5];
-- d.[^13-6] ...
+- b.[^13-3] l’ordonnance du 8 novembre 2023 sur la sécurité de l’information[^13-4];
+- c.[^13-5] …
+- d.[^13-6] …
 
 <sup>2</sup> Le SRC règle dans les règlements de traitement les mesures techniques et organisationnelles propres à empêcher le traitement de données par des personnes non autorisées.
 
 [^13-1]: Nouvelle teneur selon l’annexe 2 ch. II 3 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^13-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^13-3]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
-[^13-4]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^13-5]: [RS 510.411](https://fedlex.data.admin.ch/eli/cc/2007/414)
+[^13-3]: Nouvelle teneur selon l’annexe 2 ch. II 2 de l’O du 8 nov. 2023 sur la sécurité de l’information, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^13-4]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^13-5]: Abrogée par l’annexe 2 ch. II 2 de l’O du 8 nov. 2023 sur la sécurité de l’information, avec effet au 1<sup>er</sup> janv. 2024 ([RO 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
 [^13-6]: Abrogée par l’annexe ch. 2 de l’O du 24 fév. 2021, avec effet au 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 14
@@ -249,11 +249,12 @@ Pour assurer la sécurité des données s’appliquent:
 
 #### Art. 15
 
-**Transmission de données hors du réseau SiLAN**
+**Transmission de données hors du réseau SiLAN**[^15-1]
 
-La transmission de données hors du réseau SiLAN est régie par l’ordonnance du 4 juillet 2007 concernant la protection des informations[^15-1].
+La transmission de données hors du réseau SiLAN est régie par l’ordonnance du 8 novembre 2023 sur la sécurité de l’information[^15-2].
 
-[^15-1]: [RS 510.411](https://fedlex.data.admin.ch/eli/cc/2007/414)
+[^15-1]: Nouvelle teneur selon l’annexe 2 ch. II 2 de l’O du 8 nov. 2023 sur la sécurité de l’information, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^15-2]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
 
 ## Section 4 Dispositions particulières applicables au système IASA SRC
 
@@ -487,7 +488,7 @@ INDEX SRC comprend:
 
 **Traitement des données par les autorités d’exécution cantonales**
 
-<sup>1</sup> Les autorités d’exécution cantonales traitent les données nécessaires à l’exécution de la LRens exclusivement dans les domaines prévus à cet effet dans le système INDEX SRC. Ce faisant, elles tiennent compte des restrictions de traitement des données énoncées à l’art. 5, al. 5, LRens.
+Les autorités d’exécution cantonales traitent les données nécessaires à l’exécution de la LRens exclusivement dans les domaines prévus à cet effet dans le système INDEX SRC. Ce faisant, elles tiennent compte des restrictions de traitement des données énoncées à l’art. 5, al. 5, LRens.
 
 #### Art. 32
 

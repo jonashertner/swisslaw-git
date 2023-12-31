@@ -4,11 +4,11 @@ title: "Ordinanza del 16 agosto 2017 sui sistemi d'informazione e di memorizzazi
 short: OSIME-SIC
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/496"
 language: it
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2017-08-16
 in_force: 2017-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/496/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2017-496-20230901-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/496/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/496/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2017-496-20240101-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/496/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/496/20230901/it"
 
 (OSIME-SIC)
 
-del 16 agosto 2017 (Stato 1° settembre 2023)
+del 16 agosto 2017 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -222,17 +222,17 @@ Il SIC disciplina la responsabilità e le competenze per i suoi sistemi d’info
 Per garantire la sicurezza dei dati si applicano:
 
 - a.[^13-1] dagli articoli 1–4 e 6 dell’ordinanza del 31 agosto 2022[^13-2] sulla protezione dei dati;
-- b.[^13-3] l’ordinanza del 27 maggio 2020[^13-4] sui ciber-rischi;
-- c. l’ordinanza del 4 luglio 2007[^13-5] sulla protezione delle informazioni;
+- b.[^13-3] l’ordinanza dell’8 novembre 2023[^13-4] sulla sicurezza delle informazioni;
+- c.[^13-5] *...*
 - d.[^13-6] ...
 
 <sup>2</sup> Il SIC disciplina nei regolamenti per il trattamento dei dati le misure organizzative e tecniche intese a evitare il trattamento non autorizzato dei dati.
 
 [^13-1]: Nuovo testo giusta l’all. 2 n. II 3 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^13-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^13-3]: Nuovo testo giusta l’all. n. 2 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
-[^13-4]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^13-5]: [RS 510.411](https://fedlex.data.admin.ch/eli/cc/2007/414)
+[^13-3]: Nuovo testo giusta l’all. 2 n. II 2 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^13-4]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^13-5]: Abrogata dall’all. 2 n. II 2 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, con effetto dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
 [^13-6]: Abrogata dall’all. n. 2 dell’O del 24 feb. 2021, con effetto dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 14
@@ -249,11 +249,12 @@ Per garantire la sicurezza dei dati si applicano:
 
 #### Art. 15
 
-**Trasmissione dei dati al di fuori diSiLAN**
+**Trasmissione di dati al di fuori di SiLAN**[^15-1]
 
-Alla trasmissione dei dati del SIC al di fuori di SiLAN si applicano le disposizioni dell’ordinanza del 4 luglio 2007[^15-1] sulla protezione delle informazioni.
+Alla trasmissione dei dati del SIC al di fuori di SiLAN si applicano le disposizioni dell’ordinanza dell’8 novembre 2023[^15-2] sulla sicurezza delle informazioni.
 
-[^15-1]: [RS 510.411](https://fedlex.data.admin.ch/eli/cc/2007/414)
+[^15-1]: Nuovo testo giusta l’all. 2 n. II 2 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^15-2]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
 
 ## Sezione 4: Disposizioni particolari relative a IASA SIC
 
@@ -292,7 +293,8 @@ Contrassegnano i metadocumenti:
 
 - a. le cui informazioni sono valutate come disinformazione o informazione falsa e sono necessari per la valutazione della situazione o di una fonte; o
 - b. che sono stati rilevati in virtù dell’articolo 5 capoverso 6 LAIn.
-- [tab] <sup>3</sup> Contrassegnano oggetti concernenti persone fisiche o giuridiche che sono stati registrati sulla base della lista d’osservazione di cui all’articolo 72 LAIn o di una procedura di controllo secondo l’articolo 37 OAIn[^18-1].
+
+<sup>3</sup> Contrassegnano oggetti concernenti persone fisiche o giuridiche che sono stati registrati sulla base della lista d’osservazione di cui all’articolo 72 LAIn o di una procedura di controllo secondo l’articolo 37 OAIn[^18-1].
 
 [^18-1]: [RS 121.1](https://fedlex.data.admin.ch/eli/cc/2017/495)
 
