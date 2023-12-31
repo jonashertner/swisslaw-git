@@ -4,13 +4,13 @@ number: "154.21"
 title: Verordnung über die Gebühren der Kantonsverwaltung
 short: Gebührenverordnung; GebV
 language: de
-version: 2023-03-01
-valid_until: 2023-12-31
-version_adopted: 2022-09-07
+version: 2024-01-01
+valid_until: 2024-03-31
+version_adopted: 2023-11-22
 adopted: 1995-02-22
 in_force: 1995-05-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/154.21"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2775/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2971/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2775/pdf_file"
 
 (Gebührenverordnung; GebV)
 
-vom 22.02.1995 (Stand 01.03.2023)
+vom 22.02.1995 (Stand 01.01.2024)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -379,15 +379,15 @@ beschliesst:
 
 #### Art. 30
 
-**Akteneinsicht**
+**Zugang zu Informationen**
 
-<sup>1</sup> Die Einsichtnahme in amtliche Akten gemäss Artikel 30 Informationsgesetz[^30-1] ist grundsätzlich gebührenfrei.
+<sup>1</sup> Das Verfahren gemäss Artikel 30 des Gesetzes vom 2. November 1993 über die Information und die Medienförderung (IMG)[^30-1] um Zugang zu Informationen ist grundsätzlich gebührenfrei.
 
-<sup>2</sup> Ausserordentliche Aufwendungen (besondere Nachforschungen, Bearbeitung umfangreicher Akten u. ä.) werden nach Zeitaufwand in Rechnung gestellt.
+<sup>2</sup> Besonderer Aufwand (vertiefte Nachforschungen, Bearbeitung umfangreicher Informationen u. ä.) wird nach Zeitaufwand in Rechnung gestellt.
 
-<sup>3</sup> Die Einsichtnahme in amtliche Akten ist nach Abschluss des Vernehmlassungsverfahrens gebührenfrei.
+<sup>3</sup> …
 
-[^30-1]: BSG 107.1
+[^30-1]: BSG [107.1](https://www.belex.sites.be.ch/data/107.1/de)
 
 #### Art. 31
 

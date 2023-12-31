@@ -4,13 +4,13 @@ number: "154.21"
 title: "Ordonnance fixant les émoluments de l'administration cantonale"
 short: Ordonnance sur les émoluments; OEmo
 language: fr
-version: 2023-03-01
-valid_until: 2023-12-31
-version_adopted: 2022-09-07
+version: 2024-01-01
+valid_until: 2024-03-31
+version_adopted: 2023-11-22
 adopted: 1995-02-22
 in_force: 1995-05-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/154.21"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2775/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2971/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2775/pdf_file"
 
 (Ordonnance sur les émoluments; OEmo)
 
-du 22.02.1995 (état au 01.03.2023)
+du 22.02.1995 (état au 01.01.2024)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -381,15 +381,15 @@ arrête:
 
 #### Art. 30
 
-**Consultation de documents officiels**
+**Accès aux informations**
 
-<sup>1</sup> La consultation de documents officiels conformément à l'article 30 de la loi sur l'information[^30-1] est en principe gratuite.
+<sup>1</sup> La procédure au sens de l'article 30 de la loi du 2 novembre 1993 sur l'information et l'aide aux médias (LIAM)[^30-1] pour avoir accès à des informations est en principe gratuite.
 
-<sup>2</sup> Les travaux extraordinaires (recherches spéciales, traitement de dossiers volumineux, etc.) sont facturés en fonction du temps requis.
+<sup>2</sup> Tout travail particulier occasionné (recherches approfondies, traitement d'informations volumineuses, etc.) est facturé en fonction du temps requis.
 
-<sup>3</sup> La consultation des documents officiels est gratuite une fois la procédure de consultation achevée.
+<sup>3</sup> …
 
-[^30-1]: RSB 107.1
+[^30-1]: RSB [107.1](https://www.belex.sites.be.ch/data/107.1/fr)
 
 #### Art. 31
 
