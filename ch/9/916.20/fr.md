@@ -4,11 +4,11 @@ title: "Ordonnance du 31 octobre 2018 sur la protection des végétaux contre le
 short: OSaVé
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/682"
 language: fr
-version: 2023-01-01
+version: 2024-01-01
 adopted: 2018-10-31
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/682/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2018-682-20230101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/682/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/682/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2018-682-20240101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/682/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/682/20230101/fr"
 
 (Ordonnance sur la santé des végétaux, OSaVé)
 
-du 31 octobre 2018 (État le 1<sup>er</sup> janvier 2023)
+du 31 octobre 2018 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -25,13 +25,13 @@ vu les art. 148*a*, al. 3, 149, al. 2, 152, 153, 168, 177 et 180, al. 3, de la l
 
 arrête:
 
-[^ingress-1]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
-[^ingress-2]: [RS 921.0](https://fedlex.data.admin.ch/eli/cc/1992/2521_2521_2521)
-[^ingress-3]: [RS 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
-[^ingress-4]: [RS 814.91](https://fedlex.data.admin.ch/eli/cc/2003/705)
-[^ingress-5]: [RS 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
-[^ingress-6]: [RS 0.916.20](https://fedlex.data.admin.ch/eli/cc/1997/1515_1515_1515)
-[^ingress-7]: [RS 0.916.026.81](https://fedlex.data.admin.ch/eli/cc/2002/323)
+[^ingress-1]: [RS 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
+[^ingress-2]: [RS 921.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10958)
+[^ingress-3]: [RS 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
+[^ingress-4]: [RS 814.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9621)
+[^ingress-5]: [RS 946.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11467)
+[^ingress-6]: [RS 0.916.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4047)
+[^ingress-7]: [RS 0.916.026.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4010)
 
 ## Chapitre 1 Dispositions générales
 
@@ -99,7 +99,7 @@ Au sens de la présente ordonnance, on entend par:
 
 [^2-1]: Introduite par le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 687](https://fedlex.data.admin.ch/eli/oc/2021/687)).
 [^2-2]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 687](https://fedlex.data.admin.ch/eli/oc/2021/687)).
-[^2-3]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^2-3]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 
 #### Art. 3
 
@@ -175,7 +175,7 @@ Un organisme réglementé non de quarantaine est un organisme nuisible particuli
 
 <sup>2</sup> L’ordonnance du 9 mai 2012 sur l’utilisation confinée[^6-1] s’applique à la manipulation d’organismes de quarantaine et d’organismes de quarantaine potentiels en milieu confiné.
 
-[^6-1]: [RS 814.912](https://fedlex.data.admin.ch/eli/cc/2012/329)
+[^6-1]: [RS 814.912](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9624)
 
 #### Art. 7
 
@@ -256,9 +256,11 @@ Lorsqu’une entreprise qui fait le commerce de marchandises soupçonne ou const
 
 <sup>2</sup> La vérification est basée sur le diagnostic d’un laboratoire désigné par le SPF.
 
-<sup>3</sup> Dans l’attente du diagnostic, le service cantonal compétent prend des mesures appropriées au sens de l’art. 13, al. 1, let. a à d.
+<sup>3</sup> Dans l’attente du diagnostic, le service cantonal compétent prend des mesures appropriées au sens de l’art. 13, al. 1, let. a à d et i.[^10-1]
 
 <sup>4</sup> Lorsque le soupçon concerne une entreprise agréée, le SPF est compétent pour les mesures visées aux al. 1 et 3.
+
+[^10-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 (RO **202****3** 701).
 
 ### Section 3 Information des entreprises concernées et du public
 
@@ -634,7 +636,7 @@ Les matériaux d’emballage en bois provenant de pays tiers, qu’ils soient ou
 
 <sup>3</sup> Le SPF peut reconnaître, en lieu et place de la marque visée à l’al. 1, let. b, un certificat phytosanitaire pour l’importation de matériaux d’emballage en bois en provenance de pays tiers qui n’ont pas mis en œuvre la NIMP 15.
 
-[^35-1]: La NIMP 15, intitulée «Réglementation des matériaux d’emballage en bois utilisés dans le commerce international», peut être consultée gratuitement sous: www.ippc.int &gt; Core Activities &gt; Standards & Implementation &gt; Standard Setting &gt; Adopted Standards (ISPMs).
+[^35-1]: La NIMP 15, intitulée «Réglementation des matériaux d’emballage en bois utilisés dans le commerce international», peut être consultée gratuitement sous: [www.ippc.int](http://www.ippc.int) &gt; Core Activities &gt; Standards & Implementation &gt; Standard Setting &gt; Adopted Standards (ISPMs).
 
 #### Art. 36
 
@@ -831,7 +833,7 @@ L’autorisation règle en particulier:
 
 <sup>4</sup> La poste et les autres services de courrier sont exemptés de l’obligation d’annoncer visée à l’al. 2. Ils sont tenus, avant de déclarer les marchandises en vue de leur taxation douanière, de les présenter au SPF par l’intermédiaire d’un service de contrôle phytosanitaire agréé.
 
-[^43-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^43-1]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 
 #### Art. 44
 
@@ -857,10 +859,11 @@ Il faut indiquer dans la déclaration en douane le numéro du DSCE établi et le
 
 On entend par attestation de contrôle:
 
-- a. un document phytosanitaire de transport selon l’art. 1, par. 3, let. c, de la directive 2004/103/CE[^46-1], dûment rempli;
-- b. un DSCE.
+- a. un document phytosanitaire de transport de l’organisation de protection des végétaux du pays par lequel la marchandise arrive dans l’UE, dûment rempli;
+- b. un DSCE tel que prévu à l’annexe II, partie 2, section C, du règlement d’exécution (UE) 2019/1715[^46-1] (DSCE‑PP).[^46-2]
 
-[^46-1]: Directive 2004/103/CE de la Commission du 7 octobre 2004 relative aux contrôles d’identité et aux contrôles sanitaires des végétaux, produits végétaux et autres objets inscrits à l’annexe V, partie B, de la directive 2000/29/CE du Conseil, qui peuvent être effectués dans un autre lieu que le point d’entrée dans la Communauté ou dans un endroit situé à proximité, et établissant les conditions régissant ces contrôles, version du JO L 313 du 12.10.2004, p. 16.
+[^46-1]: Règlement d’exécution (UE) 2019/1715 de la Commission du 30 septembre 2019 établissant les règles de fonctionnement du système de gestion de l’information sur les contrôles officiels et de ses composantes («règlement IMSOC»), JO L 261 du 14.10.2019, p. 37; modifié en dernier lieu par le règlement d’exécution (UE) 2021/547, JO L 109 du 30.3.2021, p. 60.
+[^46-2]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 701](https://fedlex.data.admin.ch/eli/oc/2023/701)).
 
 #### Art. 47
 
@@ -870,7 +873,7 @@ On entend par attestation de contrôle:
 
 <sup>2</sup> Le SPF peut effectuer le contrôle phytosanitaire à un autre endroit approprié en accord avec l’Office fédéral de la douane et de la sécurité des frontières (OFDF)[^47-1].
 
-[^47-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
+[^47-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 48
 
@@ -1275,7 +1278,7 @@ Le code de traçabilité selon l’annexe 7, ch. 1.1.5, n’est pas nécessaire 
 
 <sup>7</sup> Le DEFR et le DETEC fixent les types et espèces de végétaux auxquels l’exception visée à l’al. 6 ne s’applique pas.
 
-[^75-1]: [RS 916.151](https://fedlex.data.admin.ch/eli/cc/1999/51)
+[^75-1]: [RS 916.151](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10635)
 [^75-2]: Introduit par le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 756](https://fedlex.data.admin.ch/eli/oc/2022/756)).
 [^75-3]: Nouvelle teneur selon le ch. I de l’O du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> août 2020 ([RO 2020 3063](https://fedlex.data.admin.ch/eli/oc/2020/554)).
 
@@ -1494,7 +1497,7 @@ Les entreprises agréées doivent apposer les passeports phytosanitaires qu’el
 
 Les entreprises agréées doivent, pour les végétaux destinés à la plantation qui sont mis en circulation en tant que matériel certifié selon l’art. 10 de l’ordonnance du 7 décembre 1998 sur le matériel de multiplication[^86-1], joindre le passeport phytosanitaire, de manière à ce qu’il y figure distinctement, à l’étiquette officielle pour la certification selon l’art. 17 de l’ordonnance sur le matériel de multiplication.
 
-[^86-1]: [RS 916.151](https://fedlex.data.admin.ch/eli/cc/1999/51)
+[^86-1]: [RS 916.151](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10635)
 
 #### Art. 87
 
@@ -1634,7 +1637,7 @@ Les entreprises agréées pour le traitement doivent en plus:
 <sup>3</sup> Les demandes d’indemnisation doivent être adressées à l’OFAG dès que le dommage a été constaté, mais au plus tard un an après que la mesure en cause a été exécutée; elles doivent être motivées.
 
 [^96-1]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 687](https://fedlex.data.admin.ch/eli/oc/2021/687)).
-[^96-2]: [RS 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
+[^96-2]: [RS 170.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4971)
 
 #### Art. 97
 
@@ -1662,7 +1665,7 @@ Elle rembourse 75 % des frais reconnus:
 
 Les aides financières pour les mesures de protection de la forêt sont régies par les art. 40 à 40*b* de l’ordonnance du 30 novembre 1992 sur les forêts[^98-1].
 
-[^98-1]: [RS 921.01](https://fedlex.data.admin.ch/eli/cc/1992/2538_2538_2538)
+[^98-1]: [RS 921.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10959)
 
 ## Chapitre 11 Compétences et exécution
 
@@ -1806,7 +1809,9 @@ La modification d’autres actes est réglée dans l’annexe 8.
 
 <sup>3</sup> Les marchandises qui ont été mises en circulation avec un passeport phytosanitaire avant le 1<sup>er</sup> janvier 2020 peuvent encore être mises en circulation avec celui-ci jusqu’au 31 décembre 2022.
 
-<sup>4</sup> Pour *Ambrosia artemisiifolia* L., les dispositions concernant les mauvaises herbes particulièrement dangereuses selon l’ancien droit restent valables jusqu’au 31 décembre 2023.
+<sup>4</sup> Pour *Ambrosia artemisiifolia* L., les dispositions concernant les mauvaises herbes particulièrement dangereuses selon l’ancien droit restent valables jusqu’au 31 décembre 2027.[^110-1]
+
+[^110-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 701](https://fedlex.data.admin.ch/eli/oc/2023/701)).
 
 #### Art. 111
 
@@ -2064,7 +2069,7 @@ Date
 
 (Signature)
 
-Le présent certificat n’entraîne aucune responsabilité financière pour .................. (nom de l’organisation de protection des végétaux), ni pour aucun de ses agents ou représentants (\*).
+Le présent certificat n’entraîne aucune responsabilité financière pour ……………… (nom de l’organisation de protection des végétaux), ni pour aucun de ses agents ou représentants (\*).
 
 [\* clause optionnelle]
 
@@ -2096,12 +2101,12 @@ Nature de la marchandise et quantité déclarée:
 
 Nom botanique des végétaux:
 
-Il est certifié que les végétaux, produits végétaux ou autres articles réglementés décrits ci-dessus ont été importés en .................. (partie contractante de réexportation) en provenance de .................. (partie contractante d’origine) et ont fait l’objet du certificat phytosanitaire n<sup>o</sup> ..................
+Il est certifié que les végétaux, produits végétaux ou autres articles réglementés décrits ci-dessus ont été importés en ……………… (partie contractante de réexportation) en provenance de ……………… (partie contractante d’origine) et ont fait l’objet du certificat phytosanitaire n<sup>o</sup> ………………
 
 - – dont (\*) l’original ◻ la copie authentifiée ◻ est joint(e) au présent certificat
 - – qu’ils sont (\*) emballés ◻ remballés ◻ dans les emballages d’origine ◻ dans de nouveaux emballages ◻
 - – que, d’après le certificat phytosanitaire (\*) original ◻ et une inspection supplémentaire ◻, ils sont jugés conformes aux exigences phytosanitaires en vigueur de la partie contractante importatrice, et
-- – qu’au cours de l’emmagasinage en .................. (partie contractante de réexportation) l’envoi n’a pas été exposé au risque d’infestation ou d’infection.
+- – qu’au cours de l’emmagasinage en ……………… (partie contractante de réexportation) l’envoi n’a pas été exposé au risque d’infestation ou d’infection.
 
 II. Déclaration supplémentaire
 
@@ -2125,7 +2130,7 @@ Date
 
 (Signature)
 
-Le présent certificat n’entraîne aucune responsabilité financière pour .................. (nom de l’organisation de protection des végétaux), ni pour aucun de ses agents ou représentants (\*\*).
+Le présent certificat n’entraîne aucune responsabilité financière pour ……………… (nom de l’organisation de protection des végétaux), ni pour aucun de ses agents ou représentants (\*\*).
 
 [\* Mettre une croix dans la case □ appropriée; \*\* clause optionnelle]
 
@@ -2145,7 +2150,7 @@ Annexe 6[^t-1]
 <tr><td colspan="2">1 Nom et adresse de l’exportateur</td><td colspan="3">2 **Certificat phytosanitaire** **N°**</td></tr>
 <tr><td colspan="2">3 Nom et adresse déclarés du destinataire</td><td colspan="3">4 **Organisation de protection des végétaux de** À: Organisation(s) de protection des végétaux de</td></tr>
 <tr><td colspan="2"></td><td colspan="3">5 Lieu d’origine</td></tr>
-<tr><td colspan="2">6 Moyen(s) de transport déclaré(s)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/682/20230101/fr/xml/image/image1.png)</td></tr>
+<tr><td colspan="2">6 Moyen(s) de transport déclaré(s)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/682/20240101/fr/xml/image/image1.png)</td></tr>
 <tr><td colspan="2">7 Point d’entrée déclaré</td><td colspan="3"></td></tr>
 <tr><td colspan="4">8 Marques des colis; nombre et nature des colis; nature de la marchandise; nom botanique des végétaux</td><td>9 Quantité déclarée</td></tr>
 <tr><td colspan="5">10 Il est certifié que les végétaux, produits végétaux ou autres articles réglementés décrits ci-dessus ont été: – inspectés et/ou testés suivant des procédures officielles appropriées, et – estimés exempts d’organismes de quarantaine, comme spécifié par la partie contractante importatrice, et jugés conformes aux exigences phytosanitaires de la partie contractante importatrice, y compris à celles concernant les organismes réglementés non de quarantaine. Les végétaux, produits végétaux ou autres articles réglementés sont réputés pratiquement exempts d’autres organismes nuisibles.</td></tr>
@@ -2167,10 +2172,10 @@ Le présent certificat n’entraîne aucune responsabilité financière pour le 
 <tr><td colspan="2">1 Nom et adresse de l’exportateur</td><td colspan="3">2 **Certificat phytosanitaire** **de réexportation** **N°**</td></tr>
 <tr><td colspan="2">3 Nom et adresse déclarés du destinataire</td><td colspan="3">4 **Organisation de protection des végétaux de** À: Organisation(s) de protection des végétaux de</td></tr>
 <tr><td colspan="2"></td><td colspan="3">5 Lieu d’origine</td></tr>
-<tr><td colspan="2">6 Moyen(s) de transport déclaré(s)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/682/20230101/fr/xml/image/image1.png)</td></tr>
+<tr><td colspan="2">6 Moyen(s) de transport déclaré(s)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/682/20240101/fr/xml/image/image1.png)</td></tr>
 <tr><td colspan="2">7 Point d’entrée déclaré</td><td colspan="3"></td></tr>
 <tr><td colspan="4">8 Marques des colis; nombre et nature des colis; nature de la marchandise; nom botanique des végétaux</td><td>9 Quantité déclarée</td></tr>
-<tr><td colspan="5">10 Il est certifié que les végétaux, produits végétaux ou autres articles réglementés décrits ci-dessus ont été importés en .................. (partie contractante de réexportation) en provenance de .................. (partie contractante d’origine) et ont fait l’objet du certificat phytosanitaire n<sup>o</sup> .................., – dont (\*) l’original ◻ la copie authentifiée ◻ est joint(e) au présent certificat – qu’ils sont (\*) emballés ◻ remballés ◻ dans les emballages d’origine ◻ dans de nouveaux emballages ◻ – que, d’après le certificat phytosanitaire (\*) original ◻ et une inspection supplémentaire ◻, ils sont jugés conformes aux exigences phytosanitaires en vigueur de la partie contractante importatrice, et – qu’au cours de l’emmagasinage en .................. (partie contractante de réexportation) l’envoi n’a pas été exposé au risque d’infestation ou d’infection. (\*)Mettre une croix dans la case appropriée</td></tr>
+<tr><td colspan="5">10 Il est certifié que les végétaux, produits végétaux ou autres articles réglementés décrits ci-dessus ont été importés en ……………… (partie contractante de réexportation) en provenance de ……………… (partie contractante d’origine) et ont fait l’objet du certificat phytosanitaire n<sup>o</sup> ………………, – dont (\*) l’original ◻ la copie authentifiée ◻ est joint(e) au présent certificat – qu’ils sont (\*) emballés ◻ remballés ◻ dans les emballages d’origine ◻ dans de nouveaux emballages ◻ – que, d’après le certificat phytosanitaire (\*) original ◻ et une inspection supplémentaire ◻, ils sont jugés conformes aux exigences phytosanitaires en vigueur de la partie contractante importatrice, et – qu’au cours de l’emmagasinage en ……………… (partie contractante de réexportation) l’envoi n’a pas été exposé au risque d’infestation ou d’infection. (\*)Mettre une croix dans la case appropriée</td></tr>
 <tr><td colspan="5">11 Déclaration supplémentaire</td></tr>
 <tr><td colspan="3">**TRAITEMENT DE** **DÉSINFESTATION ET/OU DE DÉSINFECTION**</td><td colspan="2">18 Lieu de délivrance</td></tr>
 <tr><td>12 Date</td><td colspan="2">13 Traitement</td><td colspan="2"></td></tr>
@@ -2184,11 +2189,11 @@ Le présent certificat n’entraîne aucune responsabilité financière pour le 
 ### 3. Certificat de préexportation (modèle)
 
 <table>
-<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/682/20230101/fr/xml/image/image1.png)1 **Certificat de préexportation** **N° CH / Numéro individuel de référence interne** Le présent document est délivré par l’autorité suisse compétente conformément à l’ordonnance sur la santé des végétaux (RS 916.20), sur demande d’un entrepreneur, afin que les autorités compétentes d’États membres de l’UE soient informées des procédés phytosanitaires spécifiques qui ont été appliqués.</td></tr>
+<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/682/20240101/fr/xml/image/image1.png)1 **Certificat de préexportation** **N° CH / Numéro individuel de référence interne** Le présent document est délivré par l’autorité suisse compétente conformément à l’ordonnance sur la santé des végétaux (RS 916.20), sur demande d’un entrepreneur, afin que les autorités compétentes d’États membres de l’UE soient informées des procédés phytosanitaires spécifiques qui ont été appliqués.</td></tr>
 <tr><td colspan="3">2 Nom du pays d’origine et nom de l’autorité déclarante compétente (et, si souhaité, logo de l’autorité compétente du pays d’origine)</td></tr>
 <tr><td colspan="3">3 Entrepreneur</td></tr>
 <tr><td colspan="2">4 Description de l’envoi</td><td>5 Quantité déclarée</td></tr>
-<tr><td colspan="3">6 L’envoi décrit ci-dessus [Mettre une croix dans la case appropriée devant les options (A à G) et remplir le champ sous «Indications concernant les organismes nuisibles»] ◻ est conforme aux exigences spécifiques de l’ordonnance du DEFR et du DETEC du 14 novembre 2019 relative à l’ordonnance sur la santé des végétaux (OSaVé-DEFR-DETEC ; RS 916.201) ◻ a été examiné suivant une procédure officielle appropriée: [si nécessaire, indiquer la procédure], et estimé exempt de (A) ◻ a été testé suivant une procédure officielle appropriée: [si nécessaire, indiquer la procédure], et estimé exempt de (B) ◻ provient d’un champ qui a officiellement été estimé exempt de (C) ◻ provient d’un site de production qui a officiellement été estimé exempt de (D) ◻ provient d’un lieu de production qui a officiellement été estimé exempt de (E) ◻ provient d’une zone qui a officiellement été estimée exempte de (F) ◻ provient d’un pays qui a officiellement été estimé exempt de (G) Indications concernant les organismes nuisibles et indication du champ/du site de production/de la zone (le cas échéant avec le lien aux lettres A à G susmentionnées):</td></tr>
+<tr><td colspan="3">6 L’envoi décrit ci-dessus [Mettre une croix dans la case appropriée devant les options (A à G) et remplir le champ sous «Indications concernant les organismes nuisibles»] ◻ est conforme aux exigences spécifiques de l’ordonnance du DEFR et du DETEC du 14 novembre 2019 relative à l’ordonnance sur la santé des végétaux (OSaVé-DEFR-DETEC; RS 916.201) ◻ a été examiné suivant une procédure officielle appropriée: [si nécessaire, indiquer la procédure], et estimé exempt de (A) ◻ a été testé suivant une procédure officielle appropriée: [si nécessaire, indiquer la procédure], et estimé exempt de (B) ◻ provient d’un champ qui a officiellement été estimé exempt de (C) ◻ provient d’un site de production qui a officiellement été estimé exempt de (D) ◻ provient d’un lieu de production qui a officiellement été estimé exempt de (E) ◻ provient d’une zone qui a officiellement été estimée exempte de (F) ◻ provient d’un pays qui a officiellement été estimé exempt de (G) Indications concernant les organismes nuisibles et indication du champ/du site de production/de la zone (le cas échéant avec le lien aux lettres A à G susmentionnées):</td></tr>
 <tr><td colspan="3">7 Autres informations officielles [p. ex. concernant des dispositions phytosanitaires d’importation et le traitement de l’envoi]</td></tr>
 <tr><td>8 Lieu de délivrance Contact (téléphone/courriel/téléfax): Date:</td><td colspan="2">9 Nom et signature de l’agent habilité (Signature) (Cachet de l’organisation)</td></tr>
 </table>
@@ -2237,7 +2242,7 @@ Annexe 7
 - 3\.1.2 l’écusson de la Suisse ou le drapeau de l’UE dans le coin supérieur gauche de l’étiquette commune, en couleurs ou en noir et blanc.
 - 3\.2 Le ch. 1.2 s’applique par analogie.
 
-[^annex7-lvlu1-lvl3-1]: [RS 916.151](https://fedlex.data.admin.ch/eli/cc/1999/51)
+[^annex7-lvlu1-lvl3-1]: [RS 916.151](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10635)
 
 ### 4. Passeport phytosanitaire pour les zones protégées associé à une étiquette de certification
 
