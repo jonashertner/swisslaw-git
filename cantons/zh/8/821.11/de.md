@@ -3,11 +3,10 @@ canton: ZH
 number: "821.11"
 title: Vollzugsverordnung über die Allgemeinverbindlicherklärung von Gesamtarbeitsverträgen
 language: de
-version: "2010-07-01"
-nachtrag: "69"
-valid_until: 2024-01-01
+version: "2024-01-01"
+nachtrag: "123"
 adopted: 1957-10-24
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-821_11-1957_10_24-1957_11_02-069.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-821_11-1957_10_24-1957_11_02-123.html"
 text: pdf
 ---
 
@@ -23,7 +22,7 @@ gestützt auf das Bundesgesetz über die Allgemeinverbindlicherklärung von Gesa
 
 verordnet:
 
-[^t-1]: Fassung gemäss RRB vom 19. Mai 2010 (OS 65, 302; ABl 2010, 1127). In Kraft seit 1. Juli 2010. 1. 7. 10 - 69 3
+[^t-1]: Fassung gemäss RRB vom 19. Mai 2010 (OS 65, 302; ABl 2010, 1127). In Kraft seit 1. Juli 2010.
 [^t-2]: OS 40, 255 und GS VI, 267.
 [^t-3]: SR 221.215.311.
 
@@ -47,11 +46,11 @@ verordnet:
 
 - g. der endgültige Entscheid über Beschwerden der Nichtmitglieder der vertragschliessenden Verbände wegen Massnahmen der Vertragsparteien oder der im Gesamtarbeitsvertrag vorgesehenen Organe,
 
-- h. die Aufsicht über Ausgleichskassen und über andere das Arbeitsverhältnis betreffende Einrichtungen im Sinne von Art. 357b Abs. 1 lit. b OR[^1-1], sofern die entsprechenden Bestimmungen des Gesamtarbeitsvertrages allgemeinverbindlich erklärt worden sind.
+- h. die Aufsicht über Ausgleichskassen und über andere das Arbeitsverhältnis betreffende Einrichtungen im Sinne von Art. 357 b Abs. 1 lit. b OR[^1-1], sofern die entsprechenden Bestimmungen des Gesamtarbeitsvertrages allgemeinverbindlich erklärt worden sind.
 
 **1**
 
-- 1\. 7. 10 - 69 § 2.[^1-2] <sup>1</sup> Das Amt für Wirtschaft und Arbeit leitet das vorbereitende Verfahren und stellt Antrag bei Begehren um Allgemeinverbindlicherklärung von Gesamtarbeitsverträgen.
+- 1\. 1. 24 - 123 § 2.[^1-2] <sup>1</sup> Das Amt für Wirtschaft[^1-3] leitet das vorbereitende Verfahren und stellt Antrag bei Begehren um Allgemeinverbindlicherklärung von Gesamtarbeitsverträgen.
 
 <sup>2</sup> Es ist insbesondere zuständig:
 
@@ -68,20 +67,21 @@ verordnet:
 - f. zum Entscheid über Beschwerden der Nichtmitglieder der vertragsschliessenden Verbände wegen Massnahmen der Vertragsparteien oder der im Gesamtarbeitsvertrag vorgesehenen Organe.
 
 [^1-1]: SR 220.
-[^1-2]: Fassung gemäss RRB vom 19. Mai 2010 (OS 65, 302; ABl 2010, 1127). In Kraft seit 1. Juli 2010. 1. 7. 10 - 69 3
+[^1-2]: Fassung gemäss RRB vom 19. Mai 2010 (OS 65, 302; ABl 2010, 1127). In Kraft seit 1. Juli 2010.
+[^1-3]: Fassung gemäss RRB vom 12. Dezember 2023 (OS 78, 554; ABl 2023-12-15). In Kraft seit 1. Januar 2024. 1. 1. 24 - 123 3
 
 #### § 3
 
-<sup>1</sup> Das Amt für Wirtschaft und Arbeit[^1-2] leitet die Gesuche um Allgemeinverbindlicherklärung zur Begutachtung an das kantonale Einigungsamt weiter, sofern eine solche sich nicht von vornherein als überflüssig erweist.
+<sup>1</sup> Das Amt für Wirtschaft[^1-3] leitet die Gesuche um Allgemeinverbindlicherklärung zur Begutachtung an das kantonale Einigungsamt weiter, sofern eine solche sich nicht von vornherein als überflüssig erweist.
 
-<sup>2</sup> Zu Beratungen des Einigungsamtes kann der Vorsteher des Amtes für Wirtschaft und Arbeit mit beratender Stimme zugezogen werden.[^3-1]
+<sup>2</sup> Zu Beratungen des Einigungsamtes kann der Vorsteher des Amtes für Wirtschaft[^3-1] mit beratender Stimme zugezogen werden.[^3-2]
 
-§ 4. <sup>1</sup> Erscheint eine Begutachtung durch unabhängige Sachverständige als notwendig, so stellt das Einigungsamt darüber dem Amt für Wirtschaft und Arbeit[^3-2] Antrag unter gleichzeitiger Formulierung der noch abzuklärenden Fragen.
+§ 4. <sup>1</sup> Erscheint eine Begutachtung durch unabhängige Sachverständige als notwendig, so stellt das Einigungsamt darüber dem Amt für Wirtschaft[^3-1] Antrag unter gleichzeitiger Formulierung der noch abzuklärenden Fragen.
 
-<sup>2</sup> Das Amt für Wirtschaft und Arbeit[^3-2] erteilt den Sachverständigen die erforderlichen Instruktionen.
+<sup>2</sup> Das Amt für Wirtschaft[^3-1] erteilt den Sachverständigen die erforderlichen Instruktionen.
 
-[^3-1]: Fassung gemäss RRB vom 11. Juni 2003 (OS 58, 138). In Kraft seit 1. August 2003.
-[^3-2]: Fassung gemäss RRB vom 19. Mai 2010 (OS 65, 302; ABl 2010, 1127). In Kraft seit 1. Juli 2010. 1. 7. 10 - 69 3
+[^3-1]: Fassung gemäss RRB vom 12. Dezember 2023 (OS 78, 554; ABl 2023-12-15). In Kraft seit 1. Januar 2024. 1. 1. 24 - 123 3
+[^3-2]: Fassung gemäss RRB vom 11. Juni 2003 (OS 58, 138). In Kraft seit 1. August 2003.
 
 #### § 5
 
