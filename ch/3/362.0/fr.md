@@ -3,11 +3,11 @@ sr: "362.0"
 title: "Ordonnance du 8 mars 2013 sur la partie nationale du Système d'information Schengen (N-SIS) et sur le bureau SIRENE (Ordonnance N-SIS)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/179"
 language: fr
-version: 2023-10-15
+version: 2024-01-01
 adopted: 2013-03-08
 in_force: 2013-04-09
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/179/20231015/fr/xml/fedlex-data-admin-ch-eli-cc-2013-179-20231015-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/179/20231015/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/179/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2013-179-20240101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/179/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/179/20231015/fr"
 
 (Ordonnance N-SIS)
 
-du 8 mars 2013 (État le 15 octobre 2023)
+du 8 mars 2013 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -1557,15 +1557,15 @@ La responsabilité en cas de dommages liés à l’exploitation du SIS se fonde 
 La sécurité des données se fonde sur:
 
 - a.[^53-1] l’OPDo[^53-2];
-- b.[^53-3] l’ordonnance du 27 mai 2020 sur les cyberrisques[^53-4];
+- b.[^53-3] l’ordonnance du 8 novembre 2023 sur la sécurité de l’information[^53-4];
 - c.[^53-5] …
 
 <sup>2</sup> Fedpol fixe les mesures organisationnelles et techniques prévues pour prévenir un traitement indu des données dans le règlement de traitement visé à l’art. 3, al. 2, et règle la journalisation automatique du traitement et de la consultation des données.
 
 [^53-1]: Nouvelle teneur selon l’annexe 2 ch. II 46 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^53-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^53-3]: Nouvelle teneur selon l’annexe ch. 12 de l’O du 25 nov. 2020 sur la transformation numérique et l’informatique, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
-[^53-4]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^53-3]: Nouvelle teneur selon l’annexe 2 ch. II 22 de l’O du 8 nov. 2023 sur la sécurité de l’information, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^53-4]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
 [^53-5]: Abrogée par l’annexe ch. 22 de l’O du 24 fév. 2021, avec effet au 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 53a

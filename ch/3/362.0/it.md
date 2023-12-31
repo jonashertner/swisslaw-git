@@ -3,11 +3,11 @@ sr: "362.0"
 title: "Ordinanza dell' 8 marzo 2013 sulla parte nazionale del Sistema d'informazione di Schengen (N-SIS) e sull'ufficio SIRENE (Ordinanza N-SIS)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/179"
 language: it
-version: 2023-10-15
+version: 2024-01-01
 adopted: 2013-03-08
 in_force: 2013-04-09
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/179/20231015/it/xml/fedlex-data-admin-ch-eli-cc-2013-179-20231015-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/179/20231015/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/179/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2013-179-20240101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/179/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/179/20231015/it"
 
 (Ordinanza N-SIS)
 
-dell’8 marzo 2013 (Stato 15 ottobre 2023)
+dell’8 marzo 2013 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -733,7 +733,7 @@ RIPOL diffonde automaticamente nel SIS le segnalazioni di oggetti che sono state
 [^17-1]: Nuovo testo giusta l’all. 4 n. II 3 dell’O del 30 nov. 2018 concernente il sistema d’informazione sull’ammissione alla circolazione, in vigore dal 1° gen. 2019 ([RU 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
 [^17-2]: [RS 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
 [^17-3]: [RS 143.1](https://fedlex.data.admin.ch/eli/cc/2002/441)
-[^17-4]: Abrogata dall’all. n. 3 dell’O del 15 set. 2023, con effetto dal 15 ott. 2023 (RU **202****3** 552).
+[^17-4]: Abrogata dall’all. n. 3 dell’O del 15 set. 2023, con effetto dal 15 ott. 2023 ([RU 2023 552](https://fedlex.data.admin.ch/eli/oc/2023/552)).
 
 #### Art. 18
 
@@ -1554,15 +1554,15 @@ La responsabilità per danni correlati alla gestione del SIS è retta dagli arti
 La sicurezza dei dati è retta da:
 
 - a.[^53-1] l’OPDa[^53-2];
-- b.[^53-3] l’ordinanza del 27 maggio 2020[^53-4] sui ciber-rischi;
+- b.[^53-3] l’ordinanza dell’8 novembre 2023[^53-4] sulla sicurezza delle informazioni;
 - c.[^53-5] ...
 
 <sup>2</sup> Fedpol statuisce nel regolamento sul trattamento dei dati di cui all’articolo 3 capoverso 2 le misure organizzative e tecniche da adottare per evitare il trattamento non autorizzato dei dati e disciplina la verbalizzazione automatica del trattamento e della consultazione dei dati.
 
 [^53-1]: Nuovo testo giusta l’all. 2 n. II 46 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^53-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^53-3]: Nuovo testo giusta l’all. n. 12 dell’O del 25 nov. 2020 sulla trasformazione digitale e l’informatica, in vigore dal 1° gen. 2021 ([RU 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
-[^53-4]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^53-3]: Nuovo testo giusta l’all. 2 n. II 22 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^53-4]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
 [^53-5]: Abrogata dall’all. n. 22 dell’O del 24 feb. 2021, con effetto dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 53a
