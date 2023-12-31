@@ -4,11 +4,11 @@ title: Ordonnance du 20 septembre 2013 relative au système d’information en m
 short: OSIP-OFDF
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/639"
 language: fr
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2013-09-20
 in_force: 2013-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/639/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2013-639-20230901-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/639/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/639/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2013-639-20240101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/639/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/639/20230901/fr"
 
 (OSIP-OFDF)[^t-1]
 
-du 20 septembre 2013 (État le 1<sup>er</sup> septembre 2023)
+du 20 septembre 2013 (État le 1<sup>er</sup> janvier 2024)
 
 [^t-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
 
@@ -250,7 +250,7 @@ Les données peuvent être conservées:
 
 **Sécurité des données**
 
-<sup>1</sup> La garantie de la sécurité des données est régie par les art. 1 à 4 et 6 de l’OPDo[^18-1] et par les dispositions de l’ordonnance du 27 mai 2020 sur les cyberrisques[^18-2].[^18-3]
+<sup>1</sup> La garantie de la sécurité des données est régie par les art. 1 à 4 et 6 de l’OPDo[^18-1] et par les dispositions de l’ordonnance du 8 novembre 2023 sur la sécurité de l’information[^18-2].[^18-3]
 
 <sup>2</sup> Les données, programmes et documentations correspondantes doivent être protégés contre tout traitement non autorisé et contre la destruction et la soustraction. Ils doivent pouvoir être reconstitués.
 
@@ -261,8 +261,8 @@ Les données peuvent être conservées:
 <sup>5</sup> Le traitement des données doit faire l’objet d’un protocole automatisé.
 
 [^18-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^18-2]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^18-3]: Nouvelle teneur selon l’annexe 2 ch. II 37 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^18-2]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^18-3]: Nouvelle teneur selon l’annexe 2 ch. II 14 de l’O du 8 nov. 2023 sur la sécurité de l’information, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
 
 ## Section 6 Dispositions finales
 

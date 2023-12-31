@@ -4,11 +4,11 @@ title: Ordinanza del 20 settembre 2013 sul sistema d’informazione in materia p
 short: OSIP-UDSC
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/639"
 language: it
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2013-09-20
 in_force: 2013-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/639/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2013-639-20230901-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/639/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/639/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2013-639-20240101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/639/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/639/20230901/it"
 
 (OSIP-UDSC)[^t-1]
 
-del 20 settembre 2013 (Stato 1° settembre 2023)
+del 20 settembre 2013 (Stato 1° gennaio 2024)
 
 [^t-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
 
@@ -250,7 +250,7 @@ I dati sono conservati:
 
 **Sicurezza dei dati**
 
-<sup>1</sup> Per garantire la sicurezza dei dati sono applicabili gli articoli 1–4 e 6 OPDa[^18-1] e le disposizioni dell’ordinanza del 27 maggio 2020[^18-2] sui ciber-rischi.[^18-3]
+<sup>1</sup> Per garantire la sicurezza dei dati sono applicabili gli articoli 1–4 e 6 OPDa[^18-1] e le disposizioni dell’ordinanza dell’8 novembre 2023[^18-2] sulla sicurezza delle informazioni.[^18-3]
 
 <sup>2</sup> I dati, i programmi e la relativa documentazione devono essere protetti dal trattamento non autorizzato nonché dalla distruzione e dal furto. Essi devono poter essere ripristinati.
 
@@ -261,8 +261,8 @@ I dati sono conservati:
 <sup>5</sup> Il trattamento dei dati deve essere registrato automaticamente.
 
 [^18-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^18-2]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^18-3]: Nuovo testo giusta l’all. 2 n. II 37 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^18-2]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^18-3]: Nuovo testo giusta l’all. 2 n. II 14 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
 
 ## Sezione 6: Disposizioni finali
 

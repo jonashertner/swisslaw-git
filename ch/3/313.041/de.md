@@ -4,11 +4,11 @@ title: Verordnung vom 20. September 2013 über das Informationssystem für Straf
 short: IStrV-BAZG
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/639"
 language: de
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2013-09-20
 in_force: 2013-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/639/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2013-639-20230901-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/639/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/639/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2013-639-20240101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/639/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/639/20230901/de"
 
 (IStrV-BAZG)[^t-1]
 
-vom 20. September 2013 (Stand am 1. September 2023)
+vom 20. September 2013 (Stand am 1. Januar 2024)
 
 [^t-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
 
@@ -250,7 +250,7 @@ Die Daten werden für die folgenden Dauern aufbewahrt:
 
 **Datensicherheit**
 
-<sup>1</sup> Für die Gewährleistung der Datensicherheit gelten die Artikel 1–4 und 6 DSV[^18-1] und die Bestimmungen der Cyberrisikenverordnung vom 27. Mai 2020[^18-2].[^18-3]
+<sup>1</sup> Für die Gewährleistung der Datensicherheit gelten die Artikel 1–4 und 6 DSV[^18-1] und die Bestimmungen der Informationssicherheitsverordnung vom 8. November 2023[^18-2].[^18-3]
 
 <sup>2</sup> Die Daten, Programme und dazugehörige Dokumentationen sind gegen unbefugtes Bearbeiten sowie gegen Zerstörung und Entwendung zu schützen. Sie müssen wieder hergestellt werden können.
 
@@ -261,8 +261,8 @@ Die Daten werden für die folgenden Dauern aufbewahrt:
 <sup>5</sup> Die Datenbearbeitung ist automatisch zu protokollieren.
 
 [^18-1]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^18-2]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^18-3]: Fassung gemäss Anhang 2 Ziff. II 37 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^18-2]: [SR 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^18-3]: Fassung gemäss Anhang 2 Ziff. II 14 der Informationssicherheitsverordnung vom 8. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
 
 ## 6. Abschnitt: Schlussbestimmungen
 
