@@ -4,11 +4,11 @@ title: Federal Act of 24 March 2006 on Radio and Television (RTVA)
 short: RTVA
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/150"
 language: en
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2006-03-24
 in_force: 2007-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/150/20230901/en/xml/fedlex-data-admin-ch-eli-cc-2007-150-20230901-en-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/150/20230901/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/150/20240101/en/xml/fedlex-data-admin-ch-eli-cc-2007-150-20240101-en-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/150/20240101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (RTVA)
 
-of 24 March 2006 (Status as of 1 September 2023)
+of 24 March 2006 (Status as of 1 January 2024)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -150,15 +150,16 @@ The Federal Council may require television broadcasters, within a framework of p
 - a. to reserve a substantial proportion of the relevant broadcasting time for Swiss and other European works;
 - b. to reserve an appropriate amount of broadcasting time or programme costs in their television programme services for the broadcasting of Swiss and European works by independent producers.
 
-<sup>2</sup> Television broadcasters with a national or regional-language programme service which broadcast films in their programme service must spend at least 4 per cent of their gross revenue on the purchase, production or co-production of Swiss films or pay a corresponding support fee not exceeding 4 per cent. This obligation also applies to broadcasters of a national or regional-language programme service window in a foreign television programme service which broadcasts films. However, it does not apply to the SRG SSR.[^7-2]
+<sup>2</sup> The requirement that television broadcasters which broadcast films in their programme service spend part of their revenues on independent Swiss film production is governed by the Film Act of 14 December 2001[^7-2].[^7-3]
 
 <sup>3</sup> Television broadcasters with a national or regional-language programme service must prepare an appropriate proportion of programmes in a form suitable for the hard of hearing and the visually impaired.
 
-<sup>4</sup> Licensed regional television broadcasters shall subtitle their main information programmes. The Federal Council shall determine the extent of this obligation. The cost of processing programmes for persons hard of hearing is funded in full from the radio and television fee (Art. 68*a*).[^7-3]
+<sup>4</sup> Licensed regional television broadcasters shall subtitle their main information programmes. The Federal Council shall determine the extent of this obligation. The cost of processing programmes for persons hard of hearing is funded in full from the radio and television fee (Art. 68*a*).[^7-4]
 
 [^7-1]: Amended by No I of the Federal Act of 26 Sept. 2014, in force since 1 July 2016 ([AS 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [BBl 2013 4975](https://fedlex.data.admin.ch/eli/fga/2013/944)).
-[^7-2]: Sentence amended by No I of the Federal Act of 26 Sept. 2014, in force since 1 July 2016 ([AS 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [BBl 2013 4975](https://fedlex.data.admin.ch/eli/fga/2013/944)).
-[^7-3]: Inserted by No I of the Federal Act of 26 Sept. 2014, in force since 1 July 2016 ([AS 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [BBl 2013 4975](https://fedlex.data.admin.ch/eli/fga/2013/944)).
+[^7-2]: [SR 443.1](https://fedlex.data.admin.ch/eli/cc/2002/283)
+[^7-3]: Amended by No II of the FA of 1 Oct. 2021, in force since 1 Jan. 2024 ([AS 2023 531](https://fedlex.data.admin.ch/eli/oc/2023/531); [BBl 2020 3131](https://fedlex.data.admin.ch/eli/fga/2020/725)).
+[^7-4]: Inserted by No I of the Federal Act of 26 Sept. 2014, in force since 1 July 2016 ([AS 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [BBl 2013 4975](https://fedlex.data.admin.ch/eli/fga/2013/944)).
 
 #### Art. 8
 

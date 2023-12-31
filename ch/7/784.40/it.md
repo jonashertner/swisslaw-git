@@ -4,11 +4,11 @@ title: Legge federale del 24 marzo 2006 sulla radiotelevisione (LRTV)
 short: LRTV
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/150"
 language: it
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2006-03-24
 in_force: 2007-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/150/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2007-150-20230901-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/150/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/150/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2007-150-20240101-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/150/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/150/20230901/it"
 
 (LRTV)
 
-del 24 marzo 2006 (Stato 1° settembre 2023)
+del 24 marzo 2006 (Stato 1° gennaio 2024)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -148,15 +148,16 @@ Il Consiglio federale può obbligare le emittenti televisive, nei limiti di quan
 - a. riservare a opere svizzere o comunque europee una parte sostanziale del tempo d’antenna;
 - b. riservare nei loro programmi televisivi una parte adeguata del tempo d’antenna o del costo dei programmi alla diffusione di opere svizzere ed europee di realizzatori indipendenti.
 
-<sup>2</sup> Se trasmettono film nei loro programmi, le emittenti di programmi televisivi nazionali o destinati alle regioni linguistiche devono destinare almeno il 4 per cento dei loro proventi lordi all’acquisto, alla produzione o alla coproduzione di film svizzeri oppure versare una corrispondente tassa di promozione del 4 per cento al massimo. Questo obbligo si applica anche alle emittenti di programmi televisivi esteri che propongono finestre di programmi nazionali o destinati alle regioni linguistiche e che trasmettono film. Esso non si applica tuttavia alla SSR.[^7-2]
+<sup>2</sup> L’obbligo delle emittenti televisive che trasmettono film nei loro programmi di destinare una parte dei proventi alla creazione cinematografica svizzera indipendente è retto dalla legge del 14 dicembre 2001[^7-2] sul cinema.[^7-3]
 
 <sup>3</sup> Le emittenti di programmi televisivi nazionali o destinati alle regioni linguistiche devono adattare una parte adeguata delle loro trasmissioni alle esigenze degli audiolesi e degli ipovedenti.
 
-<sup>4</sup> Le emittenti televisive regionali titolari di una concessione sottotitolano le principali trasmissioni informative. Il Consiglio federale definisce la portata dell’obbligo. Le spese per l’adattamento delle trasmissioni per gli audiolesi sono finanziate interamente mediante il canone radiotelevisivo (art. 68*a*).[^7-3]
+<sup>4</sup> Le emittenti televisive regionali titolari di una concessione sottotitolano le principali trasmissioni informative. Il Consiglio federale definisce la portata dell’obbligo. Le spese per l’adattamento delle trasmissioni per gli audiolesi sono finanziate interamente mediante il canone radiotelevisivo (art. 68*a*).[^7-4]
 
 [^7-1]: Nuovo testo giusta il n. I della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
-[^7-2]: Nuovo testo del per. giusta il n. I della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
-[^7-3]: Introdotto dal n. I della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
+[^7-2]: [RS 443.1](https://fedlex.data.admin.ch/eli/cc/2002/283)
+[^7-3]: Nuovo testo giusta il n. II della LF del 1° ott. 2021, in vigore dal 1° gen. 2024 ([RU 2023 531](https://fedlex.data.admin.ch/eli/oc/2023/531); [FF 2020 2813](https://fedlex.data.admin.ch/eli/fga/2020/725)).
+[^7-4]: Introdotto dal n. I della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
 
 #### Art. 8
 

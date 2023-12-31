@@ -4,11 +4,11 @@ title: Lescha federala dals 24 da mars 2006 davart radio e televisiun (LRTV)
 short: LRTV
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/150"
 language: rm
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2006-03-24
 in_force: 2007-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/150/20230901/rm/xml/fedlex-data-admin-ch-eli-cc-2007-150-20230901-rm-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/150/20230901/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/150/20240101/rm/xml/fedlex-data-admin-ch-eli-cc-2007-150-20240101-rm-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/150/20240101/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (LRTV)
 
-dals 24 da mars 2006 (versiun dal 1. da settember 2023)
+dals 24 da mars 2006 (versiun dal 1. da schaner 2024)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -150,15 +150,16 @@ Il Cussegl federal po obligar emetturs da televisiun – en il rom da la realisa
 - a. da reservar ina part essenziala dal temp d’emissiun decisiv per ovras svizras e per autras ovras europeicas;
 - b. da reservar en lur programs da televisiun ina part adequata dal temp d’emissiun u dals custs da program per emetter ovras svizras ed autras ovras europeicas da producents independents.
 
-<sup>2</sup> Emetturs da televisiun che porschan programs naziunals u programs destinads a las regiuns linguisticas e che mussan films en lur program ston impunder almain 4 pertschient da lur entradas bruttas per l’acquist, la producziun u la coproducziun da films svizzers u pajar ina taxa da promoziun correspundenta da maximalmain 4 pertschient. Questa obligaziun vala er per emetturs che porschan ina fanestra da programs naziunals u da programs destinads a las regiuns linguisticas en in program da televisiun ester e che mussan films en lur programs. Questa obligaziun na vala dentant betg per la SSR.[^7-2]
+<sup>2</sup> L’obligaziun dals emetturs da televisiun, che mussan films en lur program, d’impunder ina part da lur entradas per la cinematografia svizra independenta, sa drizza tenor la Lescha da films dals 14 da december 2001[^7-2].[^7-3]
 
 <sup>3</sup> Emetturs da televisiun che porschan programs naziunals u programs destinads a las regiuns linguisticas ston metter a disposiziun ina part adequata da las emissiuns en ina moda ch’è adattada per persunas cun impediments da l’udida e da la vesida.
 
-<sup>4</sup> Ils emetturs da televisiun regiunals che han ina concessiun suttituleschan las emissiuns d’infurmaziun principalas. Il Cussegl federal fixescha la dimensiun da questa obligaziun. Ils custs che resultan per preparar las emissiuns per persunas cun impediments d’udida vegnan finanziads cumplainamain tras la taxa da radio e televisiun (art. 68*a*).[^7-3]
+<sup>4</sup> Ils emetturs da televisiun regiunals che han ina concessiun suttituleschan las emissiuns d’infurmaziun principalas. Il Cussegl federal fixescha la dimensiun da questa obligaziun. Ils custs che resultan per preparar las emissiuns per persunas cun impediments d’udida vegnan finanziads cumplainamain tras la taxa da radio e televisiun (art. 68*a*).[^7-4]
 
 [^7-1]: Versiun tenor la cifra I da la LF dals 26 da sett. 2014, en vigur dapi il 1. da fan. 2016 ([AS 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [BBl 2013 4975](https://fedlex.data.admin.ch/eli/fga/2013/944)).
-[^7-2]: Versiun da la frasa tenor la cifra I da la LF dals 26 da sett. 2014, en vigur dapi il 1. da fan. 2016 ([AS 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [BBl 2013 4975](https://fedlex.data.admin.ch/eli/fga/2013/944)).
-[^7-3]: Integrà tras la cifra I da la LF dals 26 da sett. 2014, en vigur dapi il 1. da fan. 2016 ([AS 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [BBl 2013 4975](https://fedlex.data.admin.ch/eli/fga/2013/944)).
+[^7-2]: [SR 443.1](https://fedlex.data.admin.ch/eli/cc/2002/283)
+[^7-3]: Versiun tenor la cifra II da la LF dal 1. d’oct. 2021, en vigur dapi il 1. da schan. 2024 ([AS 2023 531](https://fedlex.data.admin.ch/eli/oc/2023/531); [BBl 2020 3131](https://fedlex.data.admin.ch/eli/fga/2020/725)).
+[^7-4]: Integrà tras la cifra I da la LF dals 26 da sett. 2014, en vigur dapi il 1. da fan. 2016 ([AS 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [BBl 2013 4975](https://fedlex.data.admin.ch/eli/fga/2013/944)).
 
 #### Art. 8
 

@@ -4,11 +4,11 @@ title: Loi fédérale du 24 mars 2006 sur la radio et la télévision (LRTV)
 short: LRTV
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/150"
 language: fr
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2006-03-24
 in_force: 2007-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/150/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2007-150-20230901-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/150/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/150/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-150-20240101-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/150/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/150/20230901/fr"
 
 (LRTV)[^t-1]
 
-du 24 mars 2006 (État le 1<sup>er</sup> septembre 2023)
+du 24 mars 2006 (État le 1<sup>er</sup> janvier 2024)
 
 [^t-1]: <sup>∗</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -150,15 +150,15 @@ Le Conseil fédéral peut, chaque fois que cela est réalisable et par des moyen
 - a. réserver une partie substantielle de leur temps d’émission à des œuvres suisses ou européennes;
 - b. réserver une proportion appropriée de leur temps d’émission ou de leurs coûts de production à des œuvres suisses ou européennes de producteurs indépendants.
 
-<sup>2</sup> Les diffuseurs de programmes de télévision nationaux ou de programmes destinés aux régions linguistiques (régionaux-linguistiques) qui diffusent des films doivent affecter 4 % au moins de leurs recettes brutes à l’acquisition, la production ou la coproduction de films suisses, ou acquitter une taxe d’encouragement de 4 % au plus de leurs recettes brutes.[^7-2] Sont également astreints à cette obligation les diffuseurs de programmes de télévision étrangers qui proposent des fenêtres de programmes nationales ou destinées aux régions linguistiques et diffusent des films dans leurs programmes. La SSR n’est pas soumise à cette obligation.[^7-3]
+<sup>2</sup> L’obligation pour les diffuseurs de programmes de télévision qui diffusent des films d’affecter une partie des recettes à la création cinématographique suisse indépendante est régie par la loi du 14 décembre 2001 sur le cinéma[^7-2].[^7-3]
 
 <sup>3</sup> Les diffuseurs proposant des programmes nationaux ou régionaux-linguistiques doivent rendre accessible aux malentendants et aux malvoyants une proportion appropriée de leurs émissions.
 
 <sup>4</sup> Les diffuseurs de programmes de télévision régionaux titulaires d’une concession procèdent au sous-titrage des principales émissions d’information. Le Conseil fédéral fixe l’étendue de l’obligation. Les frais induits par l’adaptation des émissions à l’intention des malentendants sont financés intégralement par la redevance de radio-télévision (art. 68*a*).[^7-4]
 
 [^7-1]: Nouvelle teneur selon le ch. I de la LF du 26 sept. 2014, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4425](https://fedlex.data.admin.ch/eli/fga/2013/944)).
-[^7-2]: Nouvelle teneur selon le ch. I de la LF du 26 sept. 2014, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4425](https://fedlex.data.admin.ch/eli/fga/2013/944)).
-[^7-3]: Nouvelle teneur de la phrase selon le ch. I de la LF du 26 sept. 2014, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4425](https://fedlex.data.admin.ch/eli/fga/2013/944)).
+[^7-2]: [RS 443.1](https://fedlex.data.admin.ch/eli/cc/2002/283)
+[^7-3]: Nouvelle teneur selon le ch. II de la LF du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 531](https://fedlex.data.admin.ch/eli/oc/2023/531); [FF 2020 3037](https://fedlex.data.admin.ch/eli/fga/2020/725)).
 [^7-4]: Introduit par le ch. I de la LF du 26 sept. 2014, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4425](https://fedlex.data.admin.ch/eli/fga/2013/944)).
 
 #### Art. 8
@@ -202,7 +202,7 @@ Est interdite la publicité pour:
 
 - a. les produits du tabac;
 - b.[^10-1] les boissons alcoolisées régies par la loi fédérale du 21 juin 1932 sur l’alcool[^10-2]; le Conseil fédéral édicte d’autres dispositions visant à protéger la santé et la jeunesse;
-- c.[^10-3] *...*
+- c.[^10-3] *…*
 - d. les partis politiques, les personnes occupant des fonctions officielles ou candidates à des fonctions officielles et les objets des votations populaires;
 - e. une appartenance religieuse ainsi que les institutions et les personnes qui la représentent.
 
@@ -282,7 +282,7 @@ En réglant les dérogations aux al. 1 et 2, le Conseil fédéral tient compte n
 
 <sup>1</sup> La publicité est interdite dans les programmes de radio de la SSR. Le Conseil fédéral peut prévoir des exceptions pour l’autopromotion.
 
-<sup>2</sup> ... [^14-1]
+<sup>2</sup> … [^14-1]
 
 <sup>3</sup> Le Conseil fédéral peut limiter ou interdire la publicité et le parrainage dans les programmes de radio et de télévision de la SSR ainsi que dans les autres services journalistiques nécessaires à l’exécution de son mandat et financés par la redevance de radio-télévision[^14-2] (art. 25, al. 3, let. b).
 
@@ -624,7 +624,7 @@ La concession fixe au moins:
 - b. les prestations exigées en matière de programmes et les exigences en matière d’exploitation et d’organisation;
 - c. les autres exigences et charges.
 
-<sup>5</sup> ...[^38-1]
+<sup>5</sup> …[^38-1]
 
 [^38-1]: Abrogé par le ch. I de la LF du 26 sept. 2014, avec effet au 1<sup>er</sup> juil. 2016 ([RO 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4425](https://fedlex.data.admin.ch/eli/fga/2013/944)).
 
@@ -716,7 +716,7 @@ Pour obtenir une concession, le requérant doit:
 - d. garantir qu’il respectera le droit du travail, les conditions de travail usuelles dans la branche et le droit applicable, notamment les charges et les obligations liées à la concession;
 - e. séparer ses activités rédactionnelles de ses activités économiques;
 - f. être une personne physique domiciliée en Suisse ou une personne morale ayant son siège en Suisse;
-- g.[^44-1] ...
+- g.[^44-1] …
 
 <sup>2</sup> Pour autant qu’aucune obligation internationale ne s’y oppose, la concession peut être refusée à une personne morale sous contrôle étranger, à une personne morale suisse dotée d’une participation étrangère ou à une personne physique qui ne possède pas la nationalité suisse si la réciprocité n’est pas garantie.
 
@@ -832,7 +832,7 @@ L’OFCOM peut limiter ou interdire la transmission d’un programme au moyen de
 
 <sup>2</sup> La décision de l’OFCOM peut faire l’objet d’un recours du diffuseur du programme concerné et du fournisseur de services de télécommunication qui diffuse le programme ou achemine le signal de diffusion.
 
-<sup>3</sup> ...[^52-1]
+<sup>3</sup> …[^52-1]
 
 [^52-1]: Abrogé par le ch. I de la LF du 26 sept. 2014, avec effet au 1<sup>er</sup> juil. 2016 ([RO 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4425](https://fedlex.data.admin.ch/eli/fga/2013/944)).
 
@@ -1286,7 +1286,7 @@ L’organe de perception peut utiliser systématiquement le numéro AVS[^69g-2] 
 
 #### Art. 71
 
-**...[^71-1]**
+**…[^71-1]**
 
 Les cantons peuvent prévoir une redevance pour la réception de programmes de radio et de télévision diffusés par voie hertzienne terrestre sur la base d’un mandat de desserte public.
 
@@ -1472,7 +1472,7 @@ L’autorité de plainte est autonome et n’est soumise à aucune directive de 
 
 <sup>3</sup> L’autorité de plainte dispose de son propre secrétariat. Elle en fixe les tâches dans le règlement visé à l’al. 2. Les rapports de services du personnel du secrétariat sont régis par la législation applicable au personnel de la Confédération.
 
-[^85-1]: **[**[RO 1996 1651](https://fedlex.data.admin.ch/eli/oc/1996/1651_1651_1651), [2000 1157](https://fedlex.data.admin.ch/eli/oc/2000/188), [2008 5949](https://fedlex.data.admin.ch/eli/oc/2008/819)ch. II. [RO 2009 6137](https://fedlex.data.admin.ch/eli/oc/2009/751)ch. II 1]. Voir actuellement les art. 8*a* ss de l'O du 25 nov. 1998 sur l’organisation du gouvernement et de l’administration ([RS 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)).
+[^85-1]: **[**[RO 1996 1651](https://fedlex.data.admin.ch/eli/oc/1996/1651_1651_1651), [2000 1157](https://fedlex.data.admin.ch/eli/oc/2000/188), [2008 5949](https://fedlex.data.admin.ch/eli/oc/2008/819)ch. II. [RO 2009 6137](https://fedlex.data.admin.ch/eli/oc/2009/751)ch. II 1]. Voir actuellement les art. 8*a* ss de l’O du 25 nov. 1998 sur l’organisation du gouvernement et de l’administration ([RS 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)).
 
 ## Titre 7 Surveillance et voies de droit
 
@@ -1558,7 +1558,7 @@ L’autorité de surveillance peut exiger le paiement d’un montant pouvant all
 - e. contrevient à l’obligation de fournir un extrait lors d’événements publics (art. 72);
 - f. n’accorde pas le libre accès aux événements d’une importance majeure pour la société (art. 73);
 - g. contrevient à des mesures contre la concentration des médias (art. 75);
-- h.[^90-1] ...
+- h.[^90-1] …
 
 <sup>2</sup>
 
@@ -1776,7 +1776,7 @@ L’autorité compétente perçoit des émoluments, en particulier pour:
 
 **Contraventions**
 
-<sup>1</sup> ...[^101-1]
+<sup>1</sup> …[^101-1]
 
 <sup>2</sup> Est puni d’une amende de 100 000 francs au plus celui qui contrevient intentionnellement à une décision exécutoire de l’autorité de surveillance compétente ou des instances de recours.
 
@@ -1792,7 +1792,7 @@ L’autorité compétente perçoit des émoluments, en particulier pour:
 
 <sup>1</sup> La poursuite et le jugement des infractions incombent à l’OFCOM. La loi fédérale du 22 mars 1974 sur le droit pénal administratif[^102-1] est applicable.
 
-<sup>2</sup> ...[^102-2]
+<sup>2</sup> …[^102-2]
 
 [^102-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
 [^102-2]: Abrogé par le ch. I de la LF du 26 sept. 2014, avec effet au 1<sup>er</sup> juil. 2016 ([RO 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4425](https://fedlex.data.admin.ch/eli/fga/2013/944)).
@@ -1830,7 +1830,7 @@ L’abrogation et la modification du droit en vigueur sont réglées en annexe.
 
 <sup>1.</sup> Quel que soit l’ordre dans lequel la présente loi (LRTV) et la modification du 24 mars 2006 de la loi fédérale du 30 avril 1997 sur les télécommunications[^106-2] (LTC) entrent en vigueur, à l’entrée en vigueur de la seconde de ces lois ou à leur entrée en vigueur simultanée, l’art. 56, al. 4, LRTV[^106-3], a la teneur suivante:
 
-<sup>2.</sup> et 3....[^106-4]
+<sup>2.</sup> et 3….[^106-4]
 
 [^106-1]: [FF 2006 3439](https://fedlex.data.admin.ch/eli/fga/2006/376)
 [^106-2]: [RS 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
@@ -2006,7 +2006,7 @@ II
 
 Les lois mentionnées ci-après sont modifiées comme suit:
 
-...[^annexu1-lvlu1-2]
+…[^annexu1-lvlu1-2]
 
 [^annexu1-lvlu1-1]: [[RO 1992 601](https://fedlex.data.admin.ch/eli/oc/1992/601_601_601), [1993 3354](https://fedlex.data.admin.ch/eli/oc/1993/3354_3354_3354), [1997 2187](https://fedlex.data.admin.ch/eli/oc/1997/2187_2187_2187)annexe ch. 4, [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)ch. VIII 2, [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)annexe ch. 2, [2002 1904](https://fedlex.data.admin.ch/eli/oc/2002/283)art. 36 ch. 2, [2004 297](https://fedlex.data.admin.ch/eli/oc/2004/13)ch. I 3 [1633](https://fedlex.data.admin.ch/eli/oc/2004/200)ch. I 9 [4929](https://fedlex.data.admin.ch/eli/oc/2004/745)art. 21 ch. 3, [2006 1039](https://fedlex.data.admin.ch/eli/oc/2006/182)art. 2].
 [^annexu1-lvlu1-2]: Les mod. peuvent être consultées au [RO 2007 737](https://fedlex.data.admin.ch/eli/oc/2007/150).

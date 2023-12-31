@@ -4,11 +4,11 @@ title: Bundesgesetz vom 24. März 2006 über Radio und Fernsehen (RTVG)
 short: RTVG
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/150"
 language: de
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2006-03-24
 in_force: 2007-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/150/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2007-150-20230901-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/150/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/150/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2007-150-20240101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/150/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/150/20230901/de"
 
 (RTVG)
 
-vom 24. März 2006 (Stand am 1. September 2023)
+vom 24. März 2006 (Stand am 1. Januar 2024)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -148,15 +148,16 @@ Der Bundesrat kann Fernsehveranstalter verpflichten, im Rahmen des praktisch Dur
 - a. einen wesentlichen Anteil der massgebenden Sendezeit schweizerischen und anderen europäischen Werken vorzubehalten;
 - b. in ihren Fernsehprogrammen einen angemessenen Umfang der Sendezeit oder der Programmkosten der Ausstrahlung schweizerischer und europäischer Werke von unabhängigen Herstellern vorzubehalten.
 
-<sup>2</sup> Fernsehveranstalter mit nationalem oder sprachregionalem Programmangebot, welche in ihrem Programm Filme ausstrahlen, müssen mindestens 4 Prozent ihrer Bruttoeinnahmen für den Ankauf, die Produktion oder die Koproduktion von Schweizer Filmen aufwenden oder eine entsprechende Förderungsabgabe von höchstens 4 Prozent bezahlen. Diese Pflicht gilt auch für Veranstalter eines nationalen oder sprachregionalen Programmfensters in einem ausländischen Fernsehprogramm, welches Filme ausstrahlt. Sie gilt jedoch nicht für die SRG.[^7-2]
+<sup>2</sup> Die Verpflichtung der Fernsehveranstalter, die in ihrem Programm Filme ausstrahlen, einen Teil ihrer Einnahmen für das unabhängige schweizerische Filmschaffen aufzuwenden, richtet sich nach dem Filmgesetz vom 14. Dezember 2001[^7-2].[^7-3]
 
 <sup>3</sup> Fernsehveranstalter mit nationalem oder sprachregionalem Programmangebot müssen einen angemessenen Anteil der Sendungen in einer für hör- und sehbehinderte Menschen geeigneten Weise aufbereiten.
 
-<sup>4</sup> Regionale Fernsehveranstalter mit Konzession versehen die Hauptinformationssendungen mit Untertiteln. Der Bundesrat bestimmt den Umfang der Verpflichtung. Die Kosten der Aufbereitung der Sendungen für hörbehinderte Menschen werden vollumfänglich aus der Abgabe für Radio und Fernsehen (Art. 68*a*) finanziert.[^7-3]
+<sup>4</sup> Regionale Fernsehveranstalter mit Konzession versehen die Hauptinformationssendungen mit Untertiteln. Der Bundesrat bestimmt den Umfang der Verpflichtung. Die Kosten der Aufbereitung der Sendungen für hörbehinderte Menschen werden vollumfänglich aus der Abgabe für Radio und Fernsehen (Art. 68*a*) finanziert.[^7-4]
 
 [^7-1]: Fassung gemäss Ziff. I des BG vom 26. Sept. 2014, in Kraft seit 1. Juli 2016 ([AS 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [BBl 2013 4975](https://fedlex.data.admin.ch/eli/fga/2013/944)).
-[^7-2]: Fassung des dritten Satzes gemäss Ziff. I des BG vom 26. Sept. 2014, in Kraft seit 1. Juli 2016 ([AS 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [BBl 2013 4975](https://fedlex.data.admin.ch/eli/fga/2013/944)).
-[^7-3]: Eingefügt durch Ziff. I des BG vom 26. Sept. 2014, in Kraft seit 1. Juli 2016 ([AS 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [BBl 2013 4975](https://fedlex.data.admin.ch/eli/fga/2013/944)).
+[^7-2]: [SR 443.1](https://fedlex.data.admin.ch/eli/cc/2002/283)
+[^7-3]: Fassung gemäss Ziff. II des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2024 ([AS 2023 531](https://fedlex.data.admin.ch/eli/oc/2023/531); [BBl 2020 3131](https://fedlex.data.admin.ch/eli/fga/2020/725)).
+[^7-4]: Eingefügt durch Ziff. I des BG vom 26. Sept. 2014, in Kraft seit 1. Juli 2016 ([AS 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [BBl 2013 4975](https://fedlex.data.admin.ch/eli/fga/2013/944)).
 
 #### Art. 8
 
