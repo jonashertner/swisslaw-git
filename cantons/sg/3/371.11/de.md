@@ -3,20 +3,19 @@ canton: SG
 number: "371.11"
 title: Verordnung zum Einführungsgesetz zur Bundesgesetzgebung über die Familienzulagen
 language: de
-version: 2023-01-01
-valid_until: 2023-12-31
-version_adopted: 2022-09-27
+version: 2024-01-01
+version_adopted: 2023-12-12
 adopted: 2017-12-05
 in_force: 2018-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/371.11"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3404/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3555/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung zum Einführungsgesetz zur Bundesgesetzgebung über die Familienzulagen
 
-vom 05.12.2017 (Stand 01.01.2023)
+vom 05.12.2017 (Stand 01.01.2024)
 
 Die Regierung des Kantons St.Gallen
 
@@ -136,6 +135,32 @@ als Verordnung:[^ingress-2]
 - b) die Bemessung des zu leistenden Beitrags der kantonalen Familienausgleichskasse an die ausgewiesenen Verwaltungskosten der Abrechnungsstelle.
 
 <sup>3</sup> Kommt keine Leistungsvereinbarung zustande, erlässt die kantonale Familienausgleichskasse eine Verfügung.
+
+## II<sup>bis</sup>. Finanzierung der Familienzulagen für Nichterwerbstätige
+
+#### Art. 8a
+
+**Beitrag**
+
+<sup>1</sup> Nichterwerbstätige leisten einen Beitrag von 20 Prozent ihrer AHV-Beiträge an die Finanzierung der Familienzulagen für Nichterwerbstätige nach [Art. 17a](https://www.gesetzessammlung.sg.ch/data/371.1/de/art17a) des Einführungsgesetzes zur Bundesgesetzgebung über die Familienzulagen[^8a-1], sofern ihre AHV-Beiträge den Mindestbeitrag nach [Art. 10](https://db.clex.ch/link/Bund/831.10/de) des Bundesgesetzes über die Alters- und Hinterlassenenversicherung vom 20. Dezember 1946[^8a-2] übersteigen.
+
+<sup>2</sup> Für Nichterwerbstätige über dem Mindestbeitrag nach [Art. 10](https://db.clex.ch/link/Bund/831.10/de) des Bundesgesetzes über die Alters- und Hinterlassenenversicherung vom 20. Dezember 1946[^8a-3] wird der geschuldete Beitrag ab dem ersten Franken berechnet.
+
+[^8a-1]: sGS [371.1](https://www.gesetzessammlung.sg.ch/data/371.1/de) (in der Fassung gemäss II. Nachtrag).
+[^8a-2]: SR [831.10](https://db.clex.ch/link/Bund/831.10/de).
+[^8a-3]: SR [831.10](https://db.clex.ch/link/Bund/831.10/de).
+
+#### Art. 8b
+
+**Verfahren**
+
+<sup>1</sup> Die Familienausgleichskassen melden die eingenommenen Beitragssummen nach Art. 8a dieses Erlasses bis zum 15. Juni des nachfolgenden Jahres dem Departement des Innern mittels von der Revisionsstelle geprüftem und bestätigtem Formular.
+
+<sup>2</sup> Für Familienausgleichskassen, die keine Beiträge von Nichterwerbstätigen eingenommen haben, wird das Verfahren nach Abs. 1 dieser Bestimmung sachgemäss angewendet.
+
+<sup>3</sup> Das Departement des Innern stellt aufgrund der Meldungen den Familienausgleichskassen die entsprechende Beitragssumme in Rechnung.
+
+<sup>4</sup> Der Kanton entschädigt den Familienausgleichskassen den administrativen Aufwand für den Beitragsbezug bei den Nichterwerbstätigen mit 3 Prozent der eingenommenen Beiträge, wenigstens aber mit Fr. 500.– je Jahr.
 
 ## III. Zulagenzahlungen und Lastenausgleich
 
