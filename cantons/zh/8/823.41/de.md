@@ -3,11 +3,10 @@ canton: ZH
 number: "823.41"
 title: Verordnung über die tripartite Kommission für arbeitsmarktliche Aufgaben und die Kontrollbehörde gemäss Entsendegesetz
 language: de
-version: "2020-01-01"
-nachtrag: "107"
-valid_until: 2024-01-01
+version: "2024-01-01"
+nachtrag: "123"
 adopted: 2002-10-30
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-823_41-2002_10_30-2002_12_01-107.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-823_41-2002_10_30-2002_12_01-123.html"
 text: pdf
 ---
 
@@ -44,9 +43,9 @@ Der Regierungsrat beschliesst:
 
 **Vorsitz**
 
-§ 2. <sup>1</sup> Die Kommission steht unter dem Vorsitz der Chefin oder des Chefs des Amtes für Wirtschaft und Arbeit.
+§ 2. <sup>1</sup> Die Kommission steht unter dem Vorsitz der Chefin oder des Chefs des Amtes für Wirtschaft (AWI)[^1-3].
 
-<sup>2</sup> Der Regierungsrat wählt aus dem Kreis der Vertreterinnen und Vertreter von Staat und Gemeinden eine stellvertretende Vorsitzende oder einen stellvertretenden Vorsitzenden.[^1-3]
+<sup>2</sup> Der Regierungsrat wählt aus dem Kreis der Vertreterinnen und Vertreter von Staat und Gemeinden eine stellvertretende Vorsitzende oder einen stellvertretenden Vorsitzenden.[^1-4]
 
 **Zusammenarbeit**
 
@@ -54,7 +53,8 @@ Der Regierungsrat beschliesst:
 
 [^1-1]: SR 837.0.
 [^1-2]: Fassung gemäss RRB vom 30. Juni 2004 (OS 59, 175). In Kraft seit 1. Juni 2004.
-[^1-3]: Fassung gemäss RRB vom 30. Oktober 2019 (OS 74, 615; ABl 2019-11-08). In Kraft seit 1. Januar 2020.
+[^1-3]: Fassung gemäss RRB vom 12. Dezember 2023 (OS 78, 556; ABl 2023-12-15). In Kraft seit 1. Januar 2024.
+[^1-4]: Fassung gemäss RRB vom 30. Oktober 2019 (OS 74, 615; ABl 2019-11-08). In Kraft seit 1. Januar 2020.
 
 #### § 4
 
@@ -70,7 +70,7 @@ a.[^4-1] Art. 85 d des Arbeitslosenversicherungsgesetzes[^4-2],
 
 **1**
 
-- 1\. 1. 20 - 107
+- 1\. 1. 24 - 123
 
 <sup>2</sup> Der Regierungsrat kann der tripartiten Kommission im Einverständnis mit den Sozialpartnern Aufgaben nach Art. 85 des Arbeitslosenversicherungsgesetzes[^4-2] übertragen.
 
@@ -97,10 +97,11 @@ a.[^4-1] Art. 85 d des Arbeitslosenversicherungsgesetzes[^4-2],
 
 [^4-6][^4-5]
 
-§ 8.[^hB46KantonaleK-1] Das Amt für Wirtschaft und Arbeit (AWA) ist kantonale Kontrollbehörde im Sinne von Art. 7 Abs. 1 lit. d Entsendegesetz[^hB46KantonaleK-2].
+§ 8.[^hB46KantonaleK-1] Das AWI[^hB46KantonaleK-2] ist kantonale Kontrollbehörde im Sinne von Art. 7 Abs. 1 lit. d Entsendegesetz[^hB46KantonaleK-3].
 
 [^hB46KantonaleK-1]: Eingefügt durch RRB vom 30. Juni 2004 (OS 59, 175). In Kraft seit 1. Juni 2004.
-[^hB46KantonaleK-2]: SR 823.20.
+[^hB46KantonaleK-2]: Fassung gemäss RRB vom 12. Dezember 2023 (OS 78, 556; ABl 2023-12-15). In Kraft seit 1. Januar 2024.
+[^hB46KantonaleK-3]: SR 823.20.
 
 ### C. Schlussbestimmung
 
