@@ -4,13 +4,13 @@ number: "331.217"
 title: Verordnung über die gemeinwirtschaftlichen Leistungen
 short: GWLV
 language: de
-version: 2023-07-01
-valid_until: 2023-12-31
-version_adopted: 2023-05-31
+version: 2024-01-01
+valid_until: 2024-12-22
+version_adopted: 2023-11-29
 adopted: 2020-11-11
 in_force: 2021-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/331.217"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3324/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3645/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3324/pdf_file"
 
 (GWLV)
 
-Vom 11.11.2020 (Stand 01.07.2023)
+Vom 11.11.2020 (Stand 01.01.2024)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -61,7 +61,8 @@ beschliesst:
 - l) Nachdiplomstudiengänge Anästhesie-, Intensiv- und Notfallpflege (NDS AIN),
 - m) medizinische Versorgung nach Genitalbeschneidungen,
 - n) Hausarztmentoring,
-- o) Weiterbildung in Hausarztpraxen (Praxisassistenz).
+- o) Weiterbildung in Hausarztpraxen (Praxisassistenz),
+- p) Dolmetscherkosten.
 
 #### § 4
 
@@ -74,24 +75,26 @@ beschliesst:
 - a) Betrieb der Sanitätsnotrufzentrale: Fr. 2,208 Mio.,
 - b) Massnahmen des Kindes- und Erwachsenenschutzrechts: Fr. 0,5 Mio.,
 - c) Bereitstellung und Unterhalt von geschützten Operationssälen (GOPS): In Abhängigkeit der Grösse Fr. 20'000.– oder Fr. 30'000.–,
-- d) Spitalseelsorge: Fr. 0,5 Mio. pro Jahr.
+- d) Spitalseelsorge: Fr. 0,5 Mio. pro Jahr,
+- e) Weiterbildung in Hausarztpraxen (Praxisassistenz): Fr. 50'000.– pro halbes Jahr (Lohnkosten und Lohnadministrativkosten).
 
 <sup>3</sup> Nachfolgende Leistungen werden mit einer Abgeltung pro erbrachte Leistungseinheit in genannter Höhe abgegolten:
 
-- a) ärztliche Weiterbildung: Fr. 15'000.– pro weiterzubildende Assistenzärztin oder weiterzubildenden Assistenzarzt und Jahr; oder pro Psychologin oder Psychologen in postgradualer Weiterbildung, die Weiterbildungsplätze besetzen, die nicht mit weiterzubildenden Assistenzärztinnen oder weiterzubildenden Assistenzärzten belegt werden konnten und Jahr,
+- a) ärztliche Weiterbildung: Fr. 20'000.– pro weiterzubildende Assistenzärztin oder weiterzubildenden Assistenzarzt und Jahr; oder pro Psychologin oder Psychologen in postgradualer Weiterbildung, die Weiterbildungsplätze besetzen, die nicht mit weiterzubildenden Assistenzärztinnen oder weiterzubildenden Assistenzärzten belegt werden konnten und Jahr. Erfolgt die Weiterbildung im Rahmen einer sogenannten Rotationsassistenzstelle für angehende Hausärztinnen und Hausärzte, beträgt der Betrag Fr. 30'000.–. Diese Rotationsassistenzstellen müssen in Zusammenhang mit dem Hausarztcurriculum stehen und sind auf 14 pro Jahr begrenzt,
 - b) Massnahmen des Kindesschutzes: Fr. 1'500.– pro betreutes Kind,
 - c) Betrieb einer Heroinabgabestelle: Fr. 339.– pro Woche und Fall,
-- d) universitäre Lehre: Fr. 500.– pro Blockstudentin oder Blockstudent und Tag sowie Fr. 8'000.– pro Unterassistentin oder Unterassistent und Jahr,
+- d) universitäre Lehre: Fr. 1'000.– pro Blockstudentin oder Blockstudent und Tag sowie Fr. 15'000.– pro Unterassistentin oder Unterassistent und Jahr,
 - e) Vorhalteleistungen Intensivstationen (IPS): Fr. 155'223.– pro neu geschaffenem und zertifiziertem Intensivbett und Jahr, solange es eine Vorhalteleistung darstellt und nicht den Bedarf abdeckt,
-- f) NDS AIN: Fr. 15'000.– pro absolviertem NDS an der Aargauischen Fachschule für Anästhesie-, Intensiv- und Notfallpflege (afsain),
+- f) NDS AIN: maximal Fr. 15'000.– pro absolviertem NDS für Kurskosten und Prüfungsgebühren an der Aargauischen Fachschule für Anästhesie-, Intensiv- und Notfallpflege (afsain) sowie für die Nachdiplomstudiengänge Notfallpflege Schwerpunkt Pädiatrie NDS HF und Intensivpflege Schwerpunkt Pädiatrie/Neonatologie (IPP) NDS HF in ausserkantonalen zertifizierten Weiterbildungsstätten,
 - g) medizinische Versorgung nach Genitalbeschneidungen: effektiv entstandene Kosten,
-- h) Hausarztmentoring: Fr. 100'000.– pro Mentorin oder Mentor und Jahr,
-- i) Weiterbildung in Hausarztpraxen (Praxisassistenz): 75 % der effektiven Lohnkosten pro Praxisassistentin oder Praxisassistent und Lohnadministrativkosten, maximal jedoch Fr. 50'000.– pro halbes Jahr.
+- h) Hausarztmentoring: Fr. 50'000.– pro 20 Stellenprozent einer Mentorin oder eines Mentors,
+- i) …
 
 <sup>4</sup> Die Abgeltung der folgenden Leistungen erfolgt situationsbezogen und innerhalb eines Kostendachs:
 
 - a) Forschung: Kostendach Fr. 2,5 Mio. pro Jahr,
-- b) Betrieb einer Kinderklinik (ungedeckte Betriebskosten): Kostendach Fr. 5 Mio. pro Jahr.
+- b) Betrieb einer Kinderklinik (ungedeckte Betriebskosten): Kostendach Fr. 5 Mio. pro Jahr,
+- c) Dolmetscherkosten: 50 % der effektiven externen Dolmetscherkosten. Kostendach Fr. 1 Mio. pro Jahr.
 
 #### § 5
 
