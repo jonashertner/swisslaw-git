@@ -4,13 +4,12 @@ number: III F/1/2
 title: Verordnung zur Ordnungsbussengesetzgebung des Bundes
 short: VOBG
 language: de
-version: 2020-01-01
-valid_until: 2023-12-31
-version_adopted: 2020-02-18
+version: 2024-01-01
+version_adopted: 2023-12-19
 adopted: 2020-02-18
 in_force: 2020-01-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/III-F.1.2"
-pdf: "https://gesetze.gl.ch/api/de/versions/2144/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2466/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2144/pdf_file"
 
 (VOBG)
 
-Vom 18.02.2020 (Stand 01.01.2020)
+Vom 18.02.2020 (Stand 01.01.2024)
 
 Der Regierungsrat,
 
@@ -51,7 +50,7 @@ erlässt:
 - e. die Förster im Waldgesetz (Ziff. 11001 und 11002), im Bundesgesetz über den Natur- und Heimatschutz (Ziff. 4001) sowie im Jagdgesetz (Ziff. 12001–12011);
 - f. die kantonalen Fischereiaufseher im Jagdgesetz (Ziff. 12001–12011) und im Bundesgesetz über die Fischerei (Ziff. 13001–13003) sowie die freiwilligen Fischereiaufseher im Bundesgesetz über die Fischerei (Ziff. 13001–13003);
 
-<sup>3</sup> Die zuständigen Organe der vom Kanton zur Kontrolle des ruhenden Verkehrs berechtigten Gemeinden sind in diesem Bereich zur Bussenerhebung für Übertretungen des Stassenverkehrsgesetzes gemäss Bussenliste 1 der OBV ermächtigt (Ziff. 200–203).
+<sup>3</sup> Die zuständigen Organe der vom Kanton zur Kontrolle des ruhenden Verkehrs berechtigten Gemeinden sind in diesem Bereich zur Bussenerhebung für Übertretungen des Strassenverkehrsgesetzes gemäss Bussenliste 1 der OBV ermächtigt (Ziff. 200–259). Einschränkungen können vom zuständigen Departement verfügt werden.
 
 [^2-1]: SR 314.11
 [^2-2]: SR 142.20
