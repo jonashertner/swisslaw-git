@@ -3,24 +3,24 @@ canton: ZG
 number: "412.32"
 title: Kantonsratsbeschluss betreffend Beschulung schulpflichtiger Kinder und Jugendlicher aus der Ukraine
 language: de
-version: 2022-04-01
-valid_until: 2023-12-31
-version_adopted: 2022-09-29
+version: 2024-01-01
+valid_until: 2025-12-31
+version_adopted: 2023-11-30
 adopted: 2025-10-30
 in_force: 2026-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/412.32"
-pdf: "https://bgs.zg.ch/api/de/versions/2940/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2941/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Kantonsratsbeschluss betreffend Beschulung schulpflichtiger Kinder und Jugendlicher aus der Ukraine
 
-Vom 29. September 2022 (Stand 1. April 2022)
+Vom 29. September 2022 (Stand 1. Januar 2024)
 
 Der Kantonsrat des Kantons Zug,
 
-gestützt auf § 41 Abs. 1 Bst. b der Kantonsverfassung[^ingress-1],
+gestützt auf § 41 Abs. 1 Bst. b der Verfassung des Kantons Zug (Kantonsverfassung, KV) vom 31. Januar 1894[^ingress-1],
 
 beschliesst:
 
@@ -38,17 +38,7 @@ beschliesst:
 
 #### § 2
 
-**Einschulungspauschale**
-
-<sup>1</sup> Für Schülerinnen und Schüler aus der Ukraine vergütet der Kanton den Gemeinden einmalig eine Einschulungspauschale in der Höhe von zwei vollen Normpauschalen gemäss § 1 Abs. 1 der Schulsubventions-Verordnung[^2-1].
-
-<sup>2</sup> Der Stichtag für die Erhebung und Meldung der beitragsberechtigten Schülerinnen und Schüler durch die Gemeinde, in welcher sie zur Schule gehen, an den Kanton ist der 15. November 2022.
-
-<sup>3</sup> Die Meldung erfolgt innert Wochenfrist mittels vorgegebener Liste.
-
-<sup>4</sup> Die Abrechnung erfolgt im Dezember 2022.
-
-[^2-1]: BGS [412.312](https://bgs.zg.ch/data/412.312/de)
+**…**
 
 #### § 3
 
