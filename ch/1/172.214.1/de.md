@@ -4,11 +4,11 @@ title: "Organisationsverordnung vom 7. März 2003 für das Eidgenössische Depar
 short: OV-VBS
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/270"
 language: de
-version: 2022-08-01
+version: 2024-01-01
 adopted: 2003-03-07
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/270/20220801/de/xml/fedlex-data-admin-ch-eli-cc-2003-270-20220801-de-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/270/20220801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/270/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2003-270-20240101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/270/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/270/20220801/de"
 
 (OV-VBS)
 
-vom 7. März 2003 (Stand am 1. August 2022)
+vom 7. März 2003 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -34,7 +34,7 @@ verordnet:
 
 **Ziele**
 
-Das Eidgenössische Departement für Verteidigung, Bevölkerungsschutz und Sport (VBS[^1-1]) verfolgt in seinen zentralen Departementsbereichen Verteidigung, Bevölkerungsschutz und Sport folgende Ziele:
+Das Eidgenössische Departement für Verteidigung, Bevölkerungsschutz und Sport (VBS) verfolgt folgende Ziele:[^1-1]
 
 - a. Es trägt mit der Armee bei zum Schutz von Volk und Staat gegen Gewaltanwendung strategischen Ausmasses sowie zu internationalen Bemühungen um die Erhaltung des Friedens. Zu diesem Zweck verfolgt es eine langfristig angelegte Sicherheits- und Verteidigungspolitik und leistet im militärischen Bereich friedensfördernde Beiträge im internationalen Rahmen.
 - b. Es trägt bei zum Schutz der Bevölkerung vor den Auswirkungen von Katastrophen, Notlagen und machtpolitischen Bedrohungen.
@@ -42,23 +42,28 @@ Das Eidgenössische Departement für Verteidigung, Bevölkerungsschutz und Sport
 - d. Es sorgt zusammen mit den anderen zuständigen eidgenössischen Departementen, den Kantonen, Gemeinden und Stellen ausserhalb der Verwaltung für eine umfassende und flexible Sicherheitspolitik des Bundes.
 - e.[^1-2] Es stellt den zivilen Nachrichtendienst des Bundes sicher.
 - f.[^1-3] Es sorgt für die Erhebung, Verwaltung und Bereitstellung der topografischen und geologischen Daten des Landes und koordiniert die Tätigkeiten der Behörden im Bereich der Geoinformationen.
+- g.[^1-4] Es trägt bei zum Schutz der Schweiz vor Cyberbedrohungen.
+- h.[^1-5] Es sorgt für die sichere Bearbeitung der Informationen, für die der Bund zuständig ist, sowie den sicheren Einsatz der Informatikmittel des Bundes.
 
-[^1-1]: Ausdruck gemäss Ziff. I der V vom 12. Dez. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 6405](https://fedlex.data.admin.ch/eli/oc/2008/860)). Diese Änderung wurde im ganzen Erlass berücksichtigt.
+[^1-1]: Fassung gemäss Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
 [^1-2]: Eingefügt durch Anhang 4 Ziff. II 10 der V vom 4. Dez. 2009 über den Nachrichten-dienst des Bundes, in Kraft seit 1. Jan. 2010 ([AS 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)).
 [^1-3]: Eingefügt durch Ziff. I der V vom 29. Juni 2022, in Kraft seit 1. Aug. 2022 ([AS 2022 392](https://fedlex.data.admin.ch/eli/oc/2022/392)).
+[^1-4]: Eingefügt durch Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
+[^1-5]: Eingefügt durch Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
 
 #### Art. 2
 
 **Grundsätze der Departementstätigkeiten**
 
-Das VBS beachtet bei der Verfolgung seiner Ziele und Tätigkeiten neben den allgemeinen Grundsätzen der Verwaltungstätigkeit (Art. 11 RVOV) insbesondere folgende Grundsätze:
+Das VBS[^2-1] beachtet bei der Verfolgung seiner Ziele und Tätigkeiten neben den allgemeinen Grundsätzen der Verwaltungstätigkeit (Art. 11 RVOV) insbesondere folgende Grundsätze:
 
 - a. Es arbeitet mit den Kantonen und Gemeinden sowie mit den Fachverbänden und Institutionen zusammen, die in seinen Departementsbereichen tätig sind.
 - b. Es leistet seine friedensfördernden Beiträge in Absprache mit dem Eidgenössischen Departement für auswärtige Angelegenheiten (EDA) und kooperiert, in Zusammenarbeit mit dem EDA, in sicherheits- und verteidigungspolitischen Fragen mit ausländischen Staaten und internationalen Organisationen.
-- c.[^2-1] Es arbeitet mit dem Eidgenössischen Justiz- und Polizeidepartement und dem Eidgenössischen Finanzdepartement in Fragen der inneren Sicherheit zusammen und kooperiert dazu mit den Kantonen und Gemeinden.
+- c.[^2-2] Es arbeitet mit dem Eidgenössischen Justiz- und Polizeidepartement und dem Eidgenössischen Finanzdepartement in Fragen der inneren Sicherheit zusammen und kooperiert dazu mit den Kantonen und Gemeinden.
 - d. Es kooperiert mit dem Eidgenössischen Departement für Umwelt, Verkehr, Energie und Kommunikation bei der Wahrung der Lufthoheit.
 
-[^2-1]: Fassung gemäss Ziff. I der V vom 12. Dez. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 6401](https://fedlex.data.admin.ch/eli/oc/2008/859)).
+[^2-1]: Ausdruck gemäss Ziff. I der V vom 12. Dez. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 6405](https://fedlex.data.admin.ch/eli/oc/2008/860)). Diese Änderung wurde im ganzen Erlass berücksichtigt.
+[^2-2]: Fassung gemäss Ziff. I der V vom 12. Dez. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 6401](https://fedlex.data.admin.ch/eli/oc/2008/859)).
 
 #### Art. 3
 
@@ -95,7 +100,7 @@ Das Generalsekretariat übt die Funktionen nach Artikel 42 RVOG aus und nimmt au
 - b.[^5-1] Es ist betraut mit der Strategie.
 - b<sup>bis</sup>.[^5-2] Es initiiert, plant, koordiniert und kontrolliert die Departementsgeschäfte und begleitet insbesondere die wichtigen departementsübergreifenden Geschäfte.
 - c. Es setzt die strategischen Ziele des Bundesrates und des Departementschefs oder der Departementschefin um, formuliert die entsprechenden politischen Vorgaben und koordiniert deren Umsetzung durch die Gruppen und Ämter des VBS.
-- c<sup>bis</sup>.[^5-3] Es unterstützt den Departementschef oder die Departementschefin in der Gestaltung und Umsetzung der Sicherheits- und Verteidigungspolitik.
+- c<sup>bis</sup>.[^5-3] …
 - c<sup>ter</sup>.[^5-4] Es nimmt die Aufsicht über die militärische Cyberabwehr wahr und erstattet dem Bundesrat Bericht.
 - d. Es stellt die strategische Steuerung der Ressourcen sicher.
 - e. Es sorgt für die Informations- und Dokumentationsbeschaffung, die Informationsplanung und die Kommunikation.
@@ -105,7 +110,7 @@ Das Generalsekretariat übt die Funktionen nach Artikel 42 RVOG aus und nimmt au
 
 [^5-1]: Fassung gemäss Ziff. I der V vom 15. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6549](https://fedlex.data.admin.ch/eli/oc/2017/722)).
 [^5-2]: Eingefügt durch Ziff. I der V vom 3. Dez. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 5965](https://fedlex.data.admin.ch/eli/oc/2010/856)).
-[^5-3]: Eingefügt durch Ziff. I der V vom 24. Juni 2009, in Kraft seit 1. Juli 2009 ([AS 2009 3131](https://fedlex.data.admin.ch/eli/oc/2009/383)).
+[^5-3]: Eingefügt durch Ziff. I der V vom 24. Juni 2009 ([AS 2009 3131](https://fedlex.data.admin.ch/eli/oc/2009/383)). Aufgehoben durch Ziff. I der V vom 22. Nov. 2023, mit Wirkung seit 1. Jan. 2024 ([AS 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
 [^5-4]: Eingefügt durch Ziff. I der V vom 15. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6549](https://fedlex.data.admin.ch/eli/oc/2017/722)).
 [^5-5]: Fassung gemäss Ziff. I der V vom 12. Dez. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 6405](https://fedlex.data.admin.ch/eli/oc/2008/860)).
 [^5-6]: Eingefügt durch Ziff. I der V vom 12. Dez. 2008 ([AS 2008 6405](https://fedlex.data.admin.ch/eli/oc/2008/860)). Aufgehoben durch Ziff. I der V vom 3. Dez. 2010, mit Wirkung seit 1. Jan. 2011 ([AS 2010 5965](https://fedlex.data.admin.ch/eli/oc/2010/856)).
@@ -126,11 +131,11 @@ Das Generalsekretariat übt die Funktionen nach Artikel 42 RVOG aus und nimmt au
 
 <sup>1</sup> Das Generalsekretariat leitet das Sicherheitsmanagement des VBS und der Armee sowie den Katastrophenschutz im Sinne von Artikel 10 des Umweltschutzgesetzes vom 7. Oktober 1983[^5b-2]. Es erlässt Weisungen und Richtlinien in diesen Bereichen.
 
-<sup>2</sup> Es nimmt die ihm in der Verordnung vom 14. Dezember 1998[^5b-3] über die Militärische Sicherheit zugewiesenen Aufgaben wahr.
+<sup>2</sup> …[^5b-3]
 
 [^5b-1]: Eingefügt durch Ziff. II der V vom 13. Sept. 2013 ([AS 2013 3209](https://fedlex.data.admin.ch/eli/oc/2013/614)). Fassung gemäss Ziff. I der V vom 3. Juni 2016, in Kraft seit 1. Juli 2016 ([AS 2016 1785](https://fedlex.data.admin.ch/eli/oc/2016/320)).
 [^5b-2]: [SR 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
-[^5b-3]: [[AS 1999 887](https://fedlex.data.admin.ch/eli/oc/1999/130), [2003 5011](https://fedlex.data.admin.ch/eli/oc/2003/745)Ziff. II 2, [2008 6405](https://fedlex.data.admin.ch/eli/oc/2008/860)Ziff. III, [2016 1785](https://fedlex.data.admin.ch/eli/oc/2016/320)Anhang Ziff. 3. [AS 2018 4629](https://fedlex.data.admin.ch/eli/oc/2018/730)Art. 14]. Siehe heute: die V vom 21. November 2018 ([SR 513.61](https://fedlex.data.admin.ch/eli/cc/2018/730)).
+[^5b-3]: Aufgehoben durch Ziff. I der V vom 22. Nov. 2023, mit Wirkung seit 1. Jan. 2024 ([AS 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
 
 #### Art. 6
 
@@ -139,18 +144,18 @@ Das Generalsekretariat übt die Funktionen nach Artikel 42 RVOG aus und nimmt au
 Dem Generalsekretariat sind administrativ zugeordnet:
 
 - a. die Vertrauensstelle VBS;
-- b. die Koordinationsstelle für den Informationsschutz im Bund;
-- c. die Fachstelle für Personensicherheitsprüfungen im VBS;
-- d.[^6-2] die unabhängige Aufsichtsbehörde über die nachrichtendienstlichen Tätigkeiten;
-- e.[^6-3] die Interne Revision VBS;
-- f.[^6-4] die Geschäftsstelle Delegierter Sicherheitsverbund Schweiz;
-- g.[^6-5] die Vertrauensstelle der Armee.
+- [tab] b. und c.[^6-2] …
+- d.[^6-3] die unabhängige Aufsichtsbehörde über die nachrichtendienstlichen Tätigkeiten;
+- e.[^6-4] die Interne Revision VBS;
+- f.[^6-5] …
+- g.[^6-6] die Vertrauensstelle der Armee.
 
 [^6-1]: Fassung gemäss Ziff. I der V vom 3. Juni 2016, in Kraft seit 1. Juli 2016 ([AS 2016 1785](https://fedlex.data.admin.ch/eli/oc/2016/320)).
-[^6-2]: Eingefügt durch Anhang Ziff. 3 der V vom 16. Aug. 2017 über die Aufsicht über die nachrichtendienstlichen Tätigkeiten, in Kraft seit 1. Sept. 2017 ([AS 2017 4231](https://fedlex.data.admin.ch/eli/oc/2017/497)).
-[^6-3]: Eingefügt durch Ziff. I der V vom 15. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6549](https://fedlex.data.admin.ch/eli/oc/2017/722)).
+[^6-2]: Aufgehoben durch Ziff. I der V vom 22. Nov. 2023, mit Wirkung seit 1. Jan. 2024 ([AS 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
+[^6-3]: Eingefügt durch Anhang Ziff. 3 der V vom 16. Aug. 2017 über die Aufsicht über die nachrichtendienstlichen Tätigkeiten, in Kraft seit 1. Sept. 2017 ([AS 2017 4231](https://fedlex.data.admin.ch/eli/oc/2017/497)).
 [^6-4]: Eingefügt durch Ziff. I der V vom 15. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6549](https://fedlex.data.admin.ch/eli/oc/2017/722)).
-[^6-5]: Eingefügt durch Ziff. II der V vom 30. Juni 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 451](https://fedlex.data.admin.ch/eli/oc/2021/451)).
+[^6-5]: Eingefügt durch Ziff. I der V vom 15. Nov. 2017 ([AS 2017 6549](https://fedlex.data.admin.ch/eli/oc/2017/722)). Aufgehoben durch Ziff. I der V vom 22. Nov. 2023, mit Wirkung seit 1. Jan. 2024 ([AS 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
+[^6-6]: Eingefügt durch Ziff. II der V vom 30. Juni 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 451](https://fedlex.data.admin.ch/eli/oc/2021/451)).
 
 #### Art. 6a
 
@@ -158,13 +163,50 @@ Dem Generalsekretariat sind administrativ zugeordnet:
 
 [^6a-1]: Eingefügt durch Ziff. I der V vom 12. Dez. 2008 ([AS 2008 6405](https://fedlex.data.admin.ch/eli/oc/2008/860)). Aufgehoben durch Ziff. I der V vom 3. Dez. 2010, mit Wirkung seit 1. Jan. 2011 ([AS 2010 5965](https://fedlex.data.admin.ch/eli/oc/2010/856)).
 
-### 2. Abschnitt: …
+### 2. Abschnitt: Staatssekretariat für Sicherheitspolitik
+
+[^chap2-sec2-1]
+
+[^chap2-sec2-1]: Fassung gemäss Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
 
 #### Art. 7
 
-[^7-1]
+<sup>1</sup>
 
-[^7-1]: Aufgehoben durch Ziff. I der V vom 24. Juni 2009, mit Wirkung seit 1. Juli 2009 ([AS 2009 3131](https://fedlex.data.admin.ch/eli/oc/2009/383)).
+Das Staatssekretariat für Sicherheitspolitik verfolgt folgende Ziele:
+
+- a. Es sorgt in Zusammenarbeit mit weiteren Verwaltungseinheiten des Bundes dafür, dass der Bund über übergeordnete konzeptionelle Grundlagen für eine kohärente Sicherheitspolitik verfügt.
+- b. Es stellt in Zusammenarbeit mit weiteren Verwaltungseinheiten des Bundes eine gesamtheitliche und vorausschauende Sicherheitspolitik auf strategischer Ebene sicher.
+- c. Es sorgt für die sichere Bearbeitung der Informationen, für die der Bund zuständig ist.
+
+<sup>2</sup>
+
+Zur Verfolgung dieser Ziele nimmt es insbesondere folgende Funktionen wahr:
+
+- a. Es konsolidiert die bundesweit vorhandenen Lageanalysen zur strategischen Früherkennung sicherheitspolitischer Herausforderungen und Chancen, erarbeitet daraus politische Handlungsoptionen und begleitet gegebenenfalls deren Umsetzung.
+- b. Es erarbeitet in Zusammenarbeit mit den betroffenen Verwaltungseinheiten des Bundes und unter Einhaltung von deren Zuständigkeiten zuhanden des Bundesrates strategische Vorgaben für die sicherheitspolitische Kooperation im Inland und mit dem Ausland.
+- c. Es berät, unterstützt und vertritt die Departementschefin oder den Departementschef bei internationalen sicherheitspolitischen Kontakten und in Fragen der Verteidigungs- und Rüstungspolitik, der Abrüstungs- und Rüstungskontrollpolitik sowie der Exportkontrolle von Kriegsmaterial und doppelt verwendbaren Gütern.
+- d.
+
+  Es führt, koordiniert oder begleitet im VBS:
+
+  - 1\. die bi- und multilaterale Sicherheitskooperation und die Vertretung des VBS gegenüber internationalen Organisationen und bei internationalen Verhandlungen mit sicherheitspolitischer Relevanz;
+  - 2\. sicherheitspolitische und verteidigungspolitische Geschäfte, die Vorbereitung politischer Entscheide über Armeeeinsätze sowie die Weiterentwicklung des Militär-, Schutz- und zivilen Ersatzdienstes im Rahmen des Dienstpflichtsystems;
+  - 3\. die Erarbeitung und Umsetzung von Grundlagen und Vorgaben für die Verteidigungs- und Rüstungspolitik;
+  - 4\. die Erarbeitung und Umsetzung der Nationalen Strategie zum Schutz der kritischen Infrastrukturen;
+  - 5\. die Zusammenarbeit mit Partnerorganisationen in der Schweiz.
+
+- e.
+
+  Es führt folgende Fachstellen nach dem Informationssicherheitsgesetz vom 18. Dezember 2020[^7-1]:
+
+  - 1\. die Fachstelle des Bundes für Informationssicherheit;
+  - 2\. die Fachstelle für Personensicherheitsprüfungen des VBS;
+  - 3\. die Fachstelle für Betriebssicherheit.
+
+<sup>3</sup> Die Geschäftsstelle der oder des Delegierten für den Sicherheitsverbund Schweiz ist dem Staatssekretariat für Sicherheitspolitik administrativ zugeordnet.
+
+[^7-1]: [SR 128](https://fedlex.data.admin.ch/eli/cc/2022/232)
 
 ### 3. Abschnitt: Ziviler Nachrichtendienst
 
@@ -176,7 +218,7 @@ Dem Generalsekretariat sind administrativ zugeordnet:
 
 **Nachrichtendienst des Bundes**[^8-1]
 
-<sup>1</sup> Der Nachrichtendienst des Bundes (NDB) erfüllt die Aufgaben nach Artikel 1 des Bundesgesetzes vom 3. Oktober 2008[^8-2] über die Zuständigkeiten im Bereich des zivilen Nachrichtendienstes und nach der Verordnung vom 4. Dezember 2009[^8-3] über den Nachrichtendienst des Bundes.
+<sup>1</sup> Der Nachrichtendienst des Bundes (NDB) erfüllt die Aufgaben nach Artikel 6 des Nachrichtendienstgesetzes vom 25. September 2015[^8-2].[^8-3]
 
 <sup>2</sup> Der NDB stellt entsprechend den gesetzlichen Bestimmungen und den Vorgaben des Departements den In- und Auslandnachrichtendienst sicher.
 
@@ -203,8 +245,8 @@ Er nimmt zur Verfolgung dieser Ziele die folgenden Funktionen wahr:
 <sup>5</sup> Er ist als Bundesamt dem Departementschef oder der Departementschefin unterstellt.
 
 [^8-1]: Fassung gemäss Anhang 4 Ziff. II 10 der V vom 4. Dez. 2009 über den Nachrichtendienst des Bundes, in Kraft seit 1. Jan. 2010 ([AS 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)).
-[^8-2]: [[AS 2009 6565](https://fedlex.data.admin.ch/eli/oc/2009/809), [2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428)Anhang Ziff. 1 [5525](https://fedlex.data.admin.ch/eli/oc/2012/637), [2014 3223](https://fedlex.data.admin.ch/eli/oc/2014/553). [AS 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494)Anhang Ziff. I]. Siehe heute: das BG vom 25. September 2015 über den Nachrichtendienst ([SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)).
-[^8-3]: [[AS 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848), [2010 3865](https://fedlex.data.admin.ch/eli/oc/2010/558), [2012 3767](https://fedlex.data.admin.ch/eli/oc/2012/430)[5527](https://fedlex.data.admin.ch/eli/oc/2012/638)Art. 15 Ziff. 2 [6731](https://fedlex.data.admin.ch/eli/oc/2012/815)Anhang Ziff. 1, [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)Ziff. I 2, [2014 3231](https://fedlex.data.admin.ch/eli/oc/2014/554)Art. 46, [2016 2577](https://fedlex.data.admin.ch/eli/oc/2016/405)Anhang Ziff. II 1, [2017 707](https://fedlex.data.admin.ch/eli/oc/2017/133). [AS 2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)Anhang 4 Ziff. I 2]. Siehe heute: die V vom 4. Dez. 2009 über den Nachrichtendienst des Bundes ([SR 121.1](https://fedlex.data.admin.ch/eli/cc/2017/495)).
+[^8-2]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^8-3]: Fassung gemäss Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
 
 #### Art. 8a
 
@@ -263,7 +305,9 @@ Zur Verfolgung dieser Ziele nimmt sie folgende Funktionen wahr:
 - c. Sie plant und führt die Einsätze der Armee bis zur Wahl des Oberbefehlshabers der Armee (General).
 - d. Sie definiert die Militärdoktrin.
 - e. Sie führt die militärische Gesamtplanung.
-- f. Sie erteilt Aufträge an die Gruppe armasuisse.
+- f.[^10-1] Sie erteilt Beschaffungsaufträge an das Bundesamt für Rüstung.
+
+[^10-1]: Fassung gemäss Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
 
 #### Art. 11
 
@@ -277,7 +321,9 @@ Der Gruppe Verteidigung sind mit folgenden Funktionen unterstellt:
 
   - 1\. Er unterstützt den Chef der Armee in der Führung der Gruppe Verteidigung.
   - 2\. Er steuert die Umsetzung der Vorgaben des Vorstehers oder der Vorsteherin des VBS in der Gruppe Verteidigung im Auftrag des Chefs der Armee.
-  - 3\. Er führt die Streitkräfte- und Unternehmensentwicklung sowie die Rüstungsplanung und steuert die Ressourcen der Gruppe Verteidigung.
+  - 3\.[^11-2] Er führt die Streitkräfte- und Unternehmensentwicklung sowie die militärische Gesamtplanung und steuert die Ressourcen der Gruppe Verteidigung.
+  - 4\.[^11-3] Er steuert die Leistungserbringung der Verwaltungsinformatik in der Gruppe Verteidigung.
+  - 5\.[^11-4] Er ist verantwortlich für die Einsatz- und Laufbahnsteuerung der Berufsoffiziere und Berufsunteroffiziere der Armee.
 
 - b.
 
@@ -295,15 +341,16 @@ Der Gruppe Verteidigung sind mit folgenden Funktionen unterstellt:
   - 2\. Sie unterstützt die Einsätze der Armee mit logistischen und sanitätsdienstlichen Leistungen.
   - 3\. Sie erbringt logistische und sanitätsdienstliche Leistungen zugunsten Dritter.
 
-- d.
+- d.[^11-5]
 
-  Führungsunterstützungsbasis:
+  Kommando Cyber:
 
-  - 1\. Sie plant und betreibt die Informations- und Kommunikationstechnik zugunsten der Armee in der Ausbildung, bei Übungen und in Einsätzen.
-  - 2 Sie plant und betreibt die Informations- und Kommunikationstechnik zugunsten der Landesregierung und des nationalen Krisenmanagements.
-  - 3\. Sie stellt die Bereitschaft der Infrastrukturen und der Truppen zur Aufrechterhaltung der Führungsfähigkeit der Armee sicher.
-  - 4\. Sie erbringt informations- und kommunikationstechnische Leistungen für Teile der Bundesverwaltung und für Dritte.
-  - 5\. Sie erbringt zur Gewährleistung einer gesamtheitlichen Führungsunterstützung der Armee und zur technischen Unterstützung des nationalen Krisenmanagements Leistungen zugunsten der Führungsinfrastruktur, der Führungsmethoden, der Informationssicherheit und der elektronischen Kriegführung sowie Leistungen hinsichtlich von Wirkungen im Cyber-Raum.
+  - 1\. Es plant und betreibt die einsatzkritische Informations- und Kommunikationstechnik zugunsten der Armee in der Ausbildung, bei Übungen und in Einsätzen.
+  - 2\. Es plant und betreibt die einsatzkritische Informations- und Kommunikationstechnik zugunsten der Landesregierung und des nationalen Krisenmanagements.
+  - 3\. Es stellt die informations- und kommunikationstechnische Bereitschaft der Infrastrukturen und der Truppen zur Aufrechterhaltung der Führungsfähigkeit der Armee sicher.
+  - 4\. Es kann im Einvernehmen mit dem Bereich Digitale Transformation und IKT-Lenkung der Bundeskanzlei Leistungen aus seinem Leistungskatalog zugunsten der Bundesverwaltung erbringen. Bei Differenzen erfolgt die Streitbeilegung in Anwendung von Artikel 19 der Verordnung vom 25. November 2020[^11-6] über die digitale Transformation und die Informatik.
+  - 5\. Es kann informations- und kommunikationstechnische Leistungen zur Aufrechterhaltung der Führungsfähigkeit von Dritten erbringen, sofern dafür eine gesetzliche Grundlage besteht.
+  - 6\. Es ist zuständig für die militärische Cyberabwehr nach der Verordnung vom 30. Januar 2019[^11-7] über die militärische Cyberabwehr.
 
 - e.
 
@@ -311,10 +358,19 @@ Der Gruppe Verteidigung sind mit folgenden Funktionen unterstellt:
 
   - 1\. Es ist verantwortlich für die militärische Grundausbildung in den ihm unterstellten Lehrverbänden, in den Kompetenzzentren und in der Höheren Kaderausbildung in der Armee.
   - 2\. Es erlässt die Ausbildungsvorgaben für die militärische Grundausbildung in der Armee.
-  - 3\. Es ist verantwortlich für die Einsatz- und Laufbahnsteuerung sowie für die Ausbildung der Berufsoffiziere und Berufsunteroffiziere der Armee.
+  - 3\.[^11-8] Es ist verantwortlich für die Ausbildung der Berufsoffiziere und Berufsunteroffiziere der Armee.
   - 4\. Es erlässt Vorgaben für die Militärdienstpflichtigen im Bereich Personelles der Armee.
+  - 5\.[^11-9] Es ist verantwortlich für die Fachstelle Frauen in der Armee und Diversity.
 
 [^11-1]: Fassung gemäss Anhang 2 Ziff. II 2 der V vom 29. März 2017 über die Strukturen der Armee, in Kraft seit 1. Jan. 2018 ([AS 2017 2307](https://fedlex.data.admin.ch/eli/oc/2017/218)).
+[^11-2]: Fassung gemäss Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
+[^11-3]: Eingefügt durch Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
+[^11-4]: Eingefügt durch Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
+[^11-5]: Fassung gemäss Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
+[^11-6]: [SR 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
+[^11-7]: [SR 510.921](https://fedlex.data.admin.ch/eli/cc/2019/94)
+[^11-8]: Fassung gemäss Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
+[^11-9]: Eingefügt durch Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
 
 #### Art. 11a
 
@@ -324,22 +380,9 @@ Der Gruppe Verteidigung sind mit folgenden Funktionen unterstellt:
 
 #### Art. 11b
 
-**Oberfeldarzt**[^11b-1]
+[^11b-1]
 
-<sup>1</sup>
-
-Der Oberfeldarzt führt die Aufsicht über:
-
-- a. die medizinische Beurteilung der Militärdiensttauglichkeit und der Militärdienstfähigkeit;
-- b. die medizinische Beurteilung der Schutzdiensttauglichkeit.
-
-<sup>2</sup> Er sorgt für den Schutz und die Sicherheit der sanitätsdienstlichen Daten.
-
-<sup>3</sup> Er ist Beschwerdeinstanz für medizinische Entscheide des Fliegerärztlichen Instituts.
-
-<sup>4</sup> Er ist zuständig für die Beurteilung der gesundheitlichen Eignung der höheren Stabsoffiziere sowie weiterer Personen, soweit eine solche Beurteilung vorgeschrieben oder vorgesehen ist.
-
-[^11b-1]: Eingefügt durch Anhang 2 Ziff. 1 der V vom 14. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6493](https://fedlex.data.admin.ch/eli/oc/2012/777)).
+[^11b-1]: Eingefügt durch Anhang 2 Ziff. 1 der V vom 14. Nov. 2012 ([AS 2012 6493](https://fedlex.data.admin.ch/eli/oc/2012/777)). Aufgehoben durch Ziff. I der V vom 22. Nov. 2023, mit Wirkung seit 1. Jan. 2024 ([AS 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
 
 ### 6. Abschnitt: Bundesamt für Rüstung
 
@@ -349,37 +392,43 @@ Der Oberfeldarzt führt die Aufsicht über:
 
 #### Art. 12
 
-**Ziel und Aufgaben**
+[^12-1]
 
-<sup>1</sup> Das Bundesamt für Rüstung (armasuisse) stellt als Zentrum für militärische und zivile Systeme entsprechend den politischen Vorgaben eine an wirtschaftlichen Grundsätzen und an der Nachhaltigkeit orientierte, zeitgerechte Versorgung der Armee, des VBS und Dritter mit Produkten und Dienstleistungen in den Bereichen Waffensysteme, Informatiksysteme und Material sicher.
+<sup>1</sup>
+
+Das Bundesamt für Rüstung verfolgt folgende Ziele:
+
+- a. Es stellt als Zentrum für militärische und zivile Systeme entsprechend den politischen Vorgaben eine an wirtschaftlichen Grundsätzen und an der Nachhaltigkeit orientierte, zeitgerechte Versorgung der Armee, des VBS und Dritter mit Waren und Dienstleistungen in den Bereichen Waffensysteme, militärische Informatiksysteme und Material sicher.
+- b. Es stellt als Technologiezentrum des VBS wissenschaftlich-technische Kompetenzen für die Armee und das VBS sicher und deckt deren Bedarf in den Bereichen Wissenschaft, Technologie und Innovation.
 
 <sup>2</sup>
 
-Zur Verfolgung dieses Ziels erfüllt die armasuisse als zentrale Beschaffungsstelle gemäss der Verordnung vom 24. Oktober 2012[^12-1] über die Organisation des öffentlichen Beschaffungswesens der Bundesverwaltung (Org-VöB) folgende Aufgaben:
+Zur Verfolgung dieser Ziele nimmt es als zentrale Beschaffungsstelle gemäss der Verordnung vom 24. Oktober 2012[^12-2] über die Organisation des öffentlichen Beschaffungswesens der Bundesverwaltung (Org-VöB) folgende Funktionen wahr:
 
-- a. Sie unterstützt die Armee und das VBS bei der Planung von Systemen und Material.
-- b. Sie stellt die Vorevaluation und die Evaluation, die Erst- und die Nachbeschaffung und die Einführung technisch komplexer Systeme im Wehr- und Sicherheitsbereich sicher.
-- c. Sie beschafft Güter und Dienstleistungen nach dem Anhang der Org-VöB für die gesamte Bundesverwaltung. Sie betreibt ein Kompetenzzentrum für WTO-Ausschreibungen.
-- d. Sie unterstützt die Armee und das VBS beim Betrieb und bei der Instandhaltung von Systemen und Material.
-- e. Sie liquidiert aus dem militärischen Inventar ausscheidende Systeme und Materialien.
+- a. Es unterstützt die Armee und das VBS bei der Planung der Beschaffung von Waffensystemen, militärischen Informatiksystemen und Material.
+- b. Es stellt die Vorevaluation und die Evaluation, die Erst- und die Nachbeschaffung und die Einführung technisch komplexer Waffen- und militärischer Informatiksysteme im Wehr- und Sicherheitsbereich sicher.
+- c. Es beschafft Waren und Dienstleistungen nach Anhang 1 der Org-VöB für die gesamte Bundesverwaltung. Es betreibt ein Kompetenzzentrum für WTO‑Ausschreibungen.
 
-[^12-1]: [SR 172.056.15](https://fedlex.data.admin.ch/eli/cc/2024/224)
+<sup>3</sup>
+
+Es nimmt zudem die folgenden Funktionen wahr:
+
+- a. Es unterstützt die Armee und das VBS beim Betrieb und der Instandhaltung von Waffensystemen, militärischen Informatiksystemen und Material.
+- b. Es liquidiert aus dem militärischen Inventar ausgeschiedene Waffensysteme, militärische Informatiksysteme und Materialien.
+- c. Es testet und beurteilt die Einsatz-, Funktions- und Wirkungsfähigkeit sowie die Sicherheitserfordernisse aktueller und künftiger Waffen- und militärischer Informatiksysteme im Wehr- und Sicherheitsbereich.
+- d. Es nimmt für das Immobilienportfolio des VBS die Rolle des Bau- und Liegenschaftsorgans gemäss der Verordnung vom 5. Dezember 2008[^12-3] über das Immobilienmanagement und die Logistik des Bundes wahr.
+- e. Es plant die Forschungsaktivitäten der Armee und entwickelt Lösungen für aktuelle und künftige Herausforderungen.
+- f. Es beteiligt sich an nationalen und internationalen Netzwerken und Kooperationen in den Bereichen Wissenschaft, Technologie und Innovation.
+
+[^12-1]: Fassung gemäss Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
+[^12-2]: [SR 172.056.15](https://fedlex.data.admin.ch/eli/cc/2024/224)
+[^12-3]: [SR 172.010.21](https://fedlex.data.admin.ch/eli/cc/2008/857)
 
 #### Art. 12a
 
-**Unterstellte Einheiten und deren Aufgaben**
+[^12a-1]
 
-<sup>1</sup> Der armasuisse unterstellt sind die Verwaltungseinheiten armasuisse Wissenschaft und Technologie und armasuisse Immobilien.
-
-<sup>2</sup> b. Sie testet und beurteilt die Einsatz-, Funktions- und Wirkungsfähigkeit sowie die Sicherheitserfordernisse aktueller und künftiger Systeme im Wehr- und Sicherheitsbereich.
-
-Die armasuisse Wissenschaft und Technologie nimmt folgende Aufgaben wahr:
-
-- a. Sie stellt als Technologiezentrum des VBS wissenschaftlich-technische Kompetenzen für die Armee und das VBS sicher und deckt die Wissenschafts- und Technologiebedürfnisse auch im Rahmen von Netzwerken und Kooperationen mit nationalen und internationalen Partnern ab.
-
-<sup>3</sup> Die armasuisse Immobilien nimmt für das Immobilienportfolio des VBS die Rolle des Bau- und Liegenschaftsorgans gemäss der Verordnung vom 5. Dezember 2008[^12a-1] über das Immobilienmanagement und die Logistik des Bundes wahr.
-
-[^12a-1]: [SR 172.010.21](https://fedlex.data.admin.ch/eli/cc/2008/857)
+[^12a-1]: Aufgehoben durch Ziff. I der V vom 22. Nov. 2023, mit Wirkung seit 1. Jan. 2024 ([AS 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
 
 ### 6*a*. Abschnitt: Bundesamt für Landestopografie
 
@@ -459,14 +508,37 @@ Zur Verfolgung dieser Ziele nimmt das Bundesamt für Sport insbesondere folgende
 - h. Es betreibt Sportkurszentren in Magglingen und Tenero sowie bei Bedarf an weiteren Orten.
 - i. Es trifft Massnahmen zur Förderung von Fairness und Sicherheit im Sport.
 - j. Es erbringt Dienstleistungen für den Sport in der Armee.
-- k. Es beschafft das Sportmaterial des Bundes.
+- k.[^15-2] …
 - l. Es führt eine Dokumentationsstelle auf dem Gebiet des Sports.
 - m. Es erbringt gewerbliche Leistungen in seinem Tätigkeitsbereich.
 - n. Es stimmt seine Massnahmen auf diejenigen von Kantonen, Gemeinden und Sportorganisationen ab und arbeitet mit diesen zusammen.
-- o.[^15-2] Es arbeitet in internationalen Organisationen und Gremien aus seinem Zuständigkeitsbereich mit.
+- o.[^15-3] Es arbeitet in internationalen Organisationen und Gremien aus seinem Zuständigkeitsbereich mit.
 
 [^15-1]: Fassung gemäss Art. 82 Ziff. 2 der Sportförderungsverordnung vom 23. Mai 2012, in Kraft seit 1. Okt. 2012 ([AS 2012 3967](https://fedlex.data.admin.ch/eli/oc/2012/461)).
-[^15-2]: Eingefügt durch Ziff. I der V vom 29. Juni 2022, in Kraft seit 1. Aug. 2022 ([AS 2022 392](https://fedlex.data.admin.ch/eli/oc/2022/392)).
+[^15-2]: Aufgehoben durch Ziff. I der V vom 22. Nov. 2023, mit Wirkung seit 1. Jan. 2024 ([AS 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
+[^15-3]: Eingefügt durch Ziff. I der V vom 29. Juni 2022, in Kraft seit 1. Aug. 2022 ([AS 2022 392](https://fedlex.data.admin.ch/eli/oc/2022/392)).
+
+### 9. Abschnitt: Bundesamt für Cybersicherheit
+
+[^chap2-sec9-1]
+
+[^chap2-sec9-1]: Eingefügt durch Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
+
+#### Art. 15a
+
+<sup>1</sup> Das Bundesamt für Cybersicherheit (BACS) ist das Kompetenzzentrum des Bundes für Cyberbedrohungen (*National Cyber Security Centre [NCSC]*).
+
+<sup>2</sup>
+
+Zur Verfolgung dieses Ziels nimmt das BACS insbesondere folgende Funktionen wahr:
+
+- a. Es koordiniert die Arbeiten des Bundes im Bereich der Cybersicherheit.
+- b. Es erstellt technische Analysen zur Bewertung und Abwehr von Cybervorfällen und Cyberbedrohungen sowie zur Identifikation und Behebung von Schwachstellen beim Schutz der Schweiz vor Cyberbedrohungen.
+- c. Es nimmt Meldungen zu Cybervorfällen und Cyberbedrohungen entgegen und analysiert diese Meldungen bezüglich ihrer Bedeutung für den Schutz der Schweiz vor Cyberbedrohungen; es betreibt dazu die nationale Anlaufstelle für Cyberbedrohungen.
+- d. Es veröffentlicht Informationen zu Cybervorfällen, soweit dies dem Schutz vor Cyberbedrohungen dient.
+- e. Es warnt betroffene Behörden, Organisationen und Personen vor unmittelbaren Cyberbedrohungen oder laufenden Cyberangriffen.
+- f. Es unterstützt die Betreiberinnen von kritischen Infrastrukturen beim Schutz vor Cyberbedrohungen; es betreibt dazu das nationale Einsatzteam für Computersicherheit (*Computer Emergency Response Team [CERT])*.
+- g. Es erarbeitet zuhanden des Bundesrats die Nationale Cyberstrategie und koordiniert deren Umsetzung.
 
 ## 3. Kapitel: Schlussbestimmungen
 
