@@ -4,11 +4,11 @@ title: Verordnung vom 21. November 2007 über die Leistungen des Bundes für den
 short: LSMV
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/862"
 language: de
-version: 2016-01-01
+version: 2024-01-01
 adopted: 2007-11-21
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/862/20160101/de/xml/fedlex-data-admin-ch-eli-cc-2007-862-20160101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/862/20160101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/862/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2007-862-20240101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/862/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/862/20160101/de"
 
 (LSMV)
 
-vom 21. November 2007 (Stand am 1. Januar 2016)
+vom 21. November 2007 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -45,8 +45,8 @@ Es anerkennt eine Erziehungseinrichtung, wenn die folgenden Voraussetzungen erf�
 - b. Die Trägerschaft, die Betriebsorganisation, das pädagogische Konzept sowie die bauliche und betriebliche Infrastruktur gewährleisten den zweckmässigen und langfristigen Betrieb der Einrichtung.
 - c. Die Einrichtung verfügt über mindestens eine stationäre sozialpädagogische Wohngruppe von mindestens sieben Plätzen.
 - d. Mindestens ein Drittel aller Aufenthaltstage sind anerkannte Aufenthaltstage. Anerkannt sind Aufenthaltstage, die auf Kinder, Jugendliche und junge Erwachsene nach Artikel 5 Absatz 1 Buchstabe b LSMG und nach Artikel 4 dieser Verordnung entfallen. Aufenthaltstage von Personen, für die die Invalidenversicherung Beiträge an den Aufenthalt leistet, sind nicht anerkannt.
-- e. Die für die Leitung der Einrichtung verantwortliche Person verfügt über eine abgeschlossene anerkannte Ausbildung im Sinne von Artikel 3.
-- f. Mindestens drei Viertel des erzieherisch tätigen Personals verfügen über eine anerkannte Ausbildung im Sinne von Artikel 3; die für die Leitung der Einrichtung verantwortliche Person sowie jene Mitarbeiterinnen und Mitarbeiter, die in berufsbegleitender Ausbildung stehen, werden mitgezählt. In Ausnahmefällen kann vorübergehend von der Erfüllung der Dreiviertelsquote abgesehen werden, wenn mindestens zwei Drittel des erzieherisch tätigen Personals über eine anerkannte Ausbildung verfügen.
+- e.[^1-2] Die für die sozialpädagogische Leitung der Einrichtung verantwortliche Person verfügt über eine abgeschlossene anerkannte Ausbildung im Sinne von Artikel 3.
+- f.[^1-3] Mindestens drei Viertel des sozialpädagogischen Personals, das für das Grundangebot und die Zusatzangebote «Notaufnahmegruppe/Abklärung» sowie «Progressionsstufe» nach Artikel 9 Absatz 4 eingesetzt wird, verfügen über eine anerkannte Ausbildung im Sinne von Artikel 3; die für die sozialpädagogische Leitung der Einrichtung verantwortliche Person sowie jene Mitarbeitende, die in berufsbegleitender Ausbildung stehen, werden mitgezählt; in Ausnahmefällen kann vorübergehend von der Erfüllung der Dreiviertelsquote abgesehen werden, falls diese nicht unter zwei Drittel fällt.
 - g. Die Einrichtung steht Eingewiesenen aus verschiedenen Kantonen offen.
 - h. Die Einrichtung ist bundesrechtskonform.
 
@@ -60,6 +60,8 @@ Die einzelne Wohngruppe muss für die Beitragsberechtigung die folgenden Vorauss
 <sup>4</sup> Nicht anerkannt werden Einrichtungen mit Sonderschulen, deren Klientel hauptsächlich zur Sonderschulung eingewiesen ist.
 
 [^1-1]: Fassung gemäss Ziff. I der V vom 19. Okt. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 4725](https://fedlex.data.admin.ch/eli/oc/2011/668)).
+[^1-2]: Fassung gemäss Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 740](https://fedlex.data.admin.ch/eli/oc/2023/740)).
+[^1-3]: Fassung gemäss Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 740](https://fedlex.data.admin.ch/eli/oc/2023/740)).
 
 #### Art. 2
 
@@ -438,7 +440,7 @@ Der Bund kann Beiträge an Modellversuche (Art. 8 LSMG) gewähren, insbesondere 
 
 <sup>3</sup> Die Kosten für Erhebungen, die nach Ablauf der maximalen Beitragsdauer von fünf Jahren durchgeführt werden, trägt der Gesuchssteller.
 
-## 4. Kapitel: Beiträge an das Schweizerisches Kompetenzzentrum für den Justizvollzug****
+## 4. Kapitel: Beiträge an das Schweizerisches Kompetenzzentrum für den Justizvollzug
 
 [^chap4-1]
 
@@ -559,31 +561,15 @@ Reichen die jährlichen Kredite für die Zusicherung von Baubeiträgen nicht aus
 
 Die Verordnung vom 29. Oktober 1986[^34-1] über die Leistungen des Bundes für den Straf- und Massnahmenvollzug wird aufgehoben.
 
-[^34-1]: [[AS 1986 1941](https://fedlex.data.admin.ch/eli/oc/1986/1941_1941_1941), [1989 1857](https://fedlex.data.admin.ch/eli/oc/1989/1857_1857_1857), [1995 217](https://fedlex.data.admin.ch/eli/oc/1995/217_217_217)Ziff. I 1, [1996 2243](https://fedlex.data.admin.ch/eli/oc/1996/2243_2243_2243)Ziff. I 37, [1999 2387](https://fedlex.data.admin.ch/eli/oc/1999/364)Ziff. I 1, [2001 2393](https://fedlex.data.admin.ch/eli/oc/2001/344), [2004 1419](https://fedlex.data.admin.ch/eli/oc/2004/178)]
+[^34-1]: [[AS 1986 1941](https://fedlex.data.admin.ch/eli/oc/1986/1941_1941_1941); [1989 1857](https://fedlex.data.admin.ch/eli/oc/1989/1857_1857_1857); [1995 217](https://fedlex.data.admin.ch/eli/oc/1995/217_217_217)Ziff. I 1; [1996 2243](https://fedlex.data.admin.ch/eli/oc/1996/2243_2243_2243)Ziff. I 37; [1999 2387](https://fedlex.data.admin.ch/eli/oc/1999/364)Ziff. I 1; [2001 2393](https://fedlex.data.admin.ch/eli/oc/2001/344); [2004 1419](https://fedlex.data.admin.ch/eli/oc/2004/178)]
 
 #### Art. 35
 
-**Übergangsbestimmung**
+**Übergangsbestimmung zur Änderung vom 22. November 2023**[^35-1]
 
-<sup>1</sup> Für Erziehungseinrichtungen, die zum Zeitpunkt des Inkrafttretens dieser Verordnung anerkannt sind, gilt spätestens ab dem 1. Januar 2012 als Anerkennungsvoraussetzung, dass drei Viertel ihres erzieherisch tätigen Personals über eine anerkannte Ausbildung verfügen müssen (Art. 1 Abs. 2 Bst. f und Art. 3); bis dahin gilt das bisherige Recht[^35-1].
+Die Änderung vom 22. November 2023 findet auf alle zum Zeitpunkt ihres Inkrafttretens hängigen Gesuche um Anerkennung und auf die Berechnung der Betriebsbeiträge für das Jahr 2024 Anwendung.
 
-<sup>2</sup> In den ersten fünf Jahren nach Inkrafttreten dieser Verordnung werden die Leistungsvereinbarungen (Art. 10 Abs. 2) gestaffelt auf eine Dauer von ein bis fünf Jahren abgeschlossen.
-
-<sup>3</sup>
-
-Baubeiträge werden nach bisherigem Recht zugesichert, wenn:
-
-- a.
-
-  bis Ende des Jahres, das dem Inkrafttreten des neuen Rechts vorangeht:
-
-  - 1\. ein Beitragsgesuch eingereicht wurde,
-  - 2\. die Baukosten mittels Kostenvoranschlag ausgewiesen sind, und
-  - 3\. die zuständigen kantonalen Behörden die Finanzierung des Bauprojektes bewilligt haben, und
-
-- b. der Baubeginn spätestens zwei Jahre nach Inkrafttreten erfolgt ist oder erfolgen wird.
-
-[^35-1]: [[AS 1986 1941](https://fedlex.data.admin.ch/eli/oc/1986/1941_1941_1941), [1989 1857](https://fedlex.data.admin.ch/eli/oc/1989/1857_1857_1857), [1995 217](https://fedlex.data.admin.ch/eli/oc/1995/217_217_217)Ziff. I 1, [1996 2243](https://fedlex.data.admin.ch/eli/oc/1996/2243_2243_2243)Ziff. I 37, [1999 2387](https://fedlex.data.admin.ch/eli/oc/1999/364)Ziff. I 1, [2001 2393](https://fedlex.data.admin.ch/eli/oc/2001/344), [2004 1419](https://fedlex.data.admin.ch/eli/oc/2004/178)]
+[^35-1]: Fassung gemäss Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 740](https://fedlex.data.admin.ch/eli/oc/2023/740)).
 
 #### Art. 36
 

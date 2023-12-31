@@ -4,11 +4,11 @@ title: "Ordinanza del 21 novembre 2007 sulle prestazioni della Confederazione ne
 short: OPPM
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/862"
 language: it
-version: 2016-01-01
+version: 2024-01-01
 adopted: 2007-11-21
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/862/20160101/it/xml/fedlex-data-admin-ch-eli-cc-2007-862-20160101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/862/20160101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/862/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2007-862-20240101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/862/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/862/20160101/it"
 
 (OPPM)
 
-del 21 novembre 2007 (Stato 1° gennaio 2016) (Stato 1° gennaio 2016)
+del 21 novembre 2007 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -45,8 +45,8 @@ L’UFG riconosce gli istituti d’educazione che adempiono le seguenti condizio
 - b. l’organo responsabile, l’organizzazione di gestione e l’impostazione pedagogica, nonché l’edificio e i suoi equipaggiamenti garantiscono l’esercizio a lungo termine e conforme allo scopo dell’istituto;
 - c. l’istituto dispone almeno di un gruppo abitativo socio-pedagogico stazionario di almeno sette posti;
 - d. almeno un terzo dei giorni di permanenza sono giorni riconosciuti. Sono considerati riconosciuti i giorni di permanenza ripartiti su fanciulli, adolescenti e giovani adulti ai sensi dell’articolo 5 capoverso 1 lettera b LPPM e dell’articolo 4 della presente ordinanza. I giorni di permanenza delle persone per le quali l’assicurazione per l’invalidità versa dei sussidi non sono riconosciuti;
-- e. la persona responsabile della direzione dell’istituto dispone di una formazione completa riconosciuta ai sensi dell’articolo 3;
-- f. almeno i tre quarti del personale che esplica un’attività pedagogica devono disporre di una formazione riconosciuta ai sensi dell’articolo 3; la persona responsabile della direzione dell’istituto nonché i collaboratori che seguono una formazione parallela all’impiego sono compresi in questi tre quarti. In via eccezionale e nella misura in cui almeno i due terzi del personale che esplica un’attività pedagogica dispongono di una formazione riconosciuta, l’esigenza dei tre quarti può essere provvisoriamente sospesa;
+- e.[^1-2] la persona responsabile della direzione socio-pedagogica dell’istituto dispone di una formazione completa riconosciuta ai sensi dell’articolo 3;
+- f.[^1-3] almeno i tre quarti del personale socio-pedagogico assegnato all’offerta di base e alle offerte supplementari «gruppo ammissione d’urgenza/diagnosi» e «livello progressivo» secondo l’articolo 9 capoverso 4 devono disporre di una formazione riconosciuta ai sensi dell’articolo 3; la persona responsabile della direzione socio-pedagogica dell’istituto e i collaboratori che seguono una formazione parallela all’impiego sono compresi in questi tre quarti; in via eccezionale e nella misura in cui non sia inferiore ai due terzi, l’esigenza dei tre quarti può essere provvisoriamente sospesa;
 - g. l’istituto è aperto a collocandi provenienti da diversi Cantoni;
 - h. l’istituto è conforme al diritto federale.
 
@@ -60,6 +60,8 @@ Un singolo gruppo abitativo ha diritto ai sussidi se:
 <sup>4</sup> Gli istituti d’educazione con scuole speciali, la cui clientela è principalmente stata collocata per una formazione speciale, non sono riconosciuti.
 
 [^1-1]: Nuovo testo giusta il n. I dell’O del 19 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2011 4725](https://fedlex.data.admin.ch/eli/oc/2011/668)).
+[^1-2]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 (RU **20****23** 740).
+[^1-3]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 740](https://fedlex.data.admin.ch/eli/oc/2023/740)).
 
 #### Art. 2
 
@@ -438,7 +440,7 @@ La Confederazione può concedere sussidi per progetti sperimentali (art. 8 LPPM)
 
 <sup>3</sup> I costi per i rilevamenti, effettuati dopo lo scadere della durata massima dei sussidi di cinque anni, sono a carico del richiedente.
 
-## Capitolo 4: Sussidi al Centro svizzero di competenze in materia d'esecuzione di sanzioni penali****
+## Capitolo 4: Sussidi al Centro svizzero di competenze in materia d'esecuzione di sanzioni penali
 
 [^chap4-1]
 
@@ -563,27 +565,11 @@ L’ordinanza del 29 ottobre 1986[^34-1] sulle prestazioni della Confederazione 
 
 #### Art. 35
 
-**Disposizione transitoria**
+**Disposizione transitoria della modifica del 22 novembre 2023**[^35-1]
 
-<sup>1</sup> Per gli istituti d’educazione riconosciuti al momento dell’entrata in vigore della presente ordinanza la condizione per il riconoscimento secondo cui almeno i tre quarti del personale che esplica un’attività pedagogica devono disporre di una formazione riconosciuta (art. 1 cpv. 2 lett. f e art. 3) è applicabile al più tardi a partire dal 1° gennaio 2012. Sino a quel momento si applica il diritto vigente[^35-1].
+La modifica del 22 novembre 2023 si applica a tutte le domande di riconoscimento pendenti al momento della sua entrata in vigore e al calcolo dei sussidi d’esercizio per il 2024.
 
-<sup>2</sup> Per i primi cinque anni dopo l’entrata in vigore della presente ordinanza gli accordi di prestazione (art. 10 cpv. 2) sono conclusi per una durata da uno a cinque anni.
-
-<sup>3</sup>
-
-I sussidi di costruzione sono garantiti secondo il diritto previgente se:
-
-- a.
-
-  entro la fine dell’anno precedente l’entrata in vigore del nuovo diritto:
-
-  - 1\. è stata presentata una domanda di sussidio;
-  - 2\. i costi di costruzione figurano nel preventivo, e
-  - 3\. le autorità cantonali competenti hanno autorizzato il finanziamento del progetto di costruzione; e
-
-- b. i lavori di costruzione iniziano o inizieranno al più tardi entro due anni dall’entrata in vigore.
-
-[^35-1]: [[RU 1986 1941](https://fedlex.data.admin.ch/eli/oc/1986/1941_1941_1941), [1989 1857](https://fedlex.data.admin.ch/eli/oc/1989/1857_1857_1857), [1995 217](https://fedlex.data.admin.ch/eli/oc/1995/217_217_217), [1996 2243](https://fedlex.data.admin.ch/eli/oc/1996/2243_2243_2243)I 37, [1999 2387](https://fedlex.data.admin.ch/eli/oc/1999/364)I 1, [2001 2393](https://fedlex.data.admin.ch/eli/oc/2001/344), [2004 1419](https://fedlex.data.admin.ch/eli/oc/2004/178)].
+[^35-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 740](https://fedlex.data.admin.ch/eli/oc/2023/740)).
 
 #### Art. 36
 

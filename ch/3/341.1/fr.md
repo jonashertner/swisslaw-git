@@ -4,11 +4,11 @@ title: "Ordonnance du 21 novembre 2007 sur les prestations de la Confédération
 short: OPPM
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/862"
 language: fr
-version: 2016-01-01
+version: 2024-01-01
 adopted: 2007-11-21
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/862/20160101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-862-20160101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/862/20160101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/862/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-862-20240101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/862/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/862/20160101/fr"
 
 (OPPM)
 
-du 21 novembre 2007 (Etat le 1<sup>er</sup> janvier 2016)
+du 21 novembre 2007 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -45,8 +45,8 @@ Il reconnaît un établissement d’éducation aux conditions suivantes:
 - b. l’organe responsable, l’organisation de l’établissement, son plan pédagogique et son infrastructure (bâtiments et équipements) garantissent une exploitation durable en conformité avec les objectifs de l’établissement;
 - c. l’établissement dispose au minimum d’un groupe de vie socio-éducatif en internat de sept places au moins;
 - d. un tiers au moins de toutes les journées de séjour sont des journées de séjour reconnues; sont reconnues les journées de séjour enregistrées pour des enfants, des adolescents ou des jeunes adultes au sens des art. 5, al. 1, let. b, LPPM et 4 de la présente ordonnance; les journées de séjour des personnes qui reçoivent des contributions de l’assurance-invalidité pour leur séjour ne sont pas reconnues;
-- e. la personne responsable de la direction de l’établissement dispose d’une formation complète reconnue au sens de l’art. 3;
-- f. trois quarts au moins des personnes chargées de tâches éducatives ont une formation reconnue au sens de l’art. 3, la personne responsable de la direction de l’établissement et les collaborateurs qui suivent une formation en cours d’emploi étant inclus dans le calcul; exceptionnellement et à titre provisoire, deux tiers au moins des personnes chargées de tâches éducatives qui disposent d’une formation reconnue peuvent suffire;
+- e.[^1-2] la personne responsable du secteur socio-éducatif de l’établissement dispose d’une formation complète reconnue au sens de l’art. 3;
+- f.[^1-3] trois quarts au moins des personnes chargées de tâches socio-éducatives, affectées à l’offre de base et aux offres supplémentaires «admission en urgence, observation» et «phase de progression» conformément à l’art. 9, al. 4, ont une formation reconnue au sens de l’art. 3; la personne responsable du secteur socio-éducatif de l’établissement et les collaborateurs qui suivent une formation en cours d’emploi sont inclus dans le calcul; exceptionnellement et à titre provisoire, deux tiers au moins des personnes chargées de tâches socio-éducatives qui disposent d’une formation reconnue peuvent suffire;
 - g. l’établissement est ouvert aux pensionnaires de différents cantons;
 - h. l’établissement est en conformité avec la législation fédérale.
 
@@ -60,6 +60,8 @@ Un groupe de vie donne droit à des subventions s’il remplit les conditions su
 <sup>4</sup> Les établissements d’éducation comprenant des écoles spéciales dont la clientèle a surtout besoin d’une formation scolaire spéciale ne sont pas reconnus.
 
 [^1-1]: Nouvelle teneur selon le ch. I de l’O du 19 oct. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4725](https://fedlex.data.admin.ch/eli/oc/2011/668)).
+[^1-2]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 740](https://fedlex.data.admin.ch/eli/oc/2023/740)).
+[^1-3]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 740](https://fedlex.data.admin.ch/eli/oc/2023/740)).
 
 #### Art. 2
 
@@ -439,7 +441,7 @@ La Confédération peut allouer des subventions pour des projets pilotes (art. 8
 
 <sup>3</sup> Une fois écoulée la durée maximale de subventionnement, qui est de cinq ans, les coûts d’analyse doivent être supportés par le requérant.
 
-## Chapitre 4 Subventions au Centre suisse de compétences en matière d’exécution des sanctions pénales****
+## Chapitre 4 Subventions au Centre suisse de compétences en matière d’exécution des sanctions pénales
 
 [^chap4-1]
 
@@ -560,31 +562,15 @@ Si les crédits annuels ne permettent pas l’octroi de certaines subventions de
 
 L’ordonnance du 29 octobre 1986 sur les prestations de la Confédération dans le domaine de l’exécution des peines et des mesures[^34-1] est abrogée.
 
-[^34-1]: [[RO 1986 1941](https://fedlex.data.admin.ch/eli/oc/1986/1941_1941_1941), [1989 1857](https://fedlex.data.admin.ch/eli/oc/1989/1857_1857_1857), [1995 217](https://fedlex.data.admin.ch/eli/oc/1995/217_217_217)ch. I 1, [1996 2243](https://fedlex.data.admin.ch/eli/oc/1996/2243_2243_2243)ch. I 37, [1999 2387](https://fedlex.data.admin.ch/eli/oc/1999/364)ch. I 1, [2001 2393](https://fedlex.data.admin.ch/eli/oc/2001/344), [2004 1419](https://fedlex.data.admin.ch/eli/oc/2004/178)]
+[^34-1]: [[RO 1986 1941](https://fedlex.data.admin.ch/eli/oc/1986/1941_1941_1941); [1989 1857](https://fedlex.data.admin.ch/eli/oc/1989/1857_1857_1857); [1995 217](https://fedlex.data.admin.ch/eli/oc/1995/217_217_217)ch. I 1; [1996 2243](https://fedlex.data.admin.ch/eli/oc/1996/2243_2243_2243)ch. I 37; [1999 2387](https://fedlex.data.admin.ch/eli/oc/1999/364)ch. I 1; [2001 2393](https://fedlex.data.admin.ch/eli/oc/2001/344); [2004 1419](https://fedlex.data.admin.ch/eli/oc/2004/178)]
 
 #### Art. 35
 
-**Disposition transitoire**
+**Disposition transitoire de la modification du 22 novembre 2023**[^35-1]
 
-<sup>1</sup> Les établissements d’éducation reconnus à l’entrée en vigueur de la présente ordonnance devront, dès le 1<sup>er</sup> janvier 2012 au plus tard, satisfaire à la condition de reconnaissance selon laquelle trois quarts des personnes chargées de tâches éducatives doivent avoir une formation reconnue (art.1, al. 2, let. f, et art. 3); jusque-là, elles restent assujetties à l’ancien droit[^35-1].
+La modification du 22 novembre 2023 s’applique à toutes les demandes de reconnaissance pendantes au moment de son entrée en vigueur et au calcul des subventions d’exploitation pour l’année 2024.
 
-<sup>2</sup> Dans les cinq ans suivant l’entrée en vigueur de la présente ordonnance, les conventions de prestations (art. 10, al. 2) sont conclues pour une durée de un à cinq ans.
-
-<sup>3</sup>
-
-Des subventions de construction sont allouées selon l’ancien droit:
-
-- a.
-
-  avant la fin de l’année ayant précédé l’entrée en vigueur du nouveau régime:
-
-  - 1\. si une demande de subvention a été déposée,
-  - 2\. si les frais de construction sont l’objet d’un devis,
-  - 3\. si les autorités cantonales compétentes ont autorisé le financement du projet de construction, et
-
-- b. si les travaux ont commencé ou commenceront dans les deux ans qui suivent l’entrée en vigueur de la présente ordonnance.
-
-[^35-1]: [[RO 1986 1941](https://fedlex.data.admin.ch/eli/oc/1986/1941_1941_1941), [1989 1857](https://fedlex.data.admin.ch/eli/oc/1989/1857_1857_1857), [1995 217](https://fedlex.data.admin.ch/eli/oc/1995/217_217_217)ch. I 1, [1996 2243](https://fedlex.data.admin.ch/eli/oc/1996/2243_2243_2243)ch. I 37, [1999 2387](https://fedlex.data.admin.ch/eli/oc/1999/364)ch. I 1, [2001 2393](https://fedlex.data.admin.ch/eli/oc/2001/344), [2004 1419](https://fedlex.data.admin.ch/eli/oc/2004/178)]
+[^35-1]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 740](https://fedlex.data.admin.ch/eli/oc/2023/740)).
 
 #### Art. 36
 
