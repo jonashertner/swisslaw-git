@@ -4,11 +4,11 @@ title: "Ordonnance du 10 novembre 1993 sur l'assurance militaire (OAM)"
 short: OAM
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/3080_3080_3080"
 language: fr
-version: 2023-01-01
+version: 2024-01-01
 adopted: 1993-11-10
 in_force: 1994-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/3080_3080_3080/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-1993-3080_3080_3080-20230101-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/3080_3080_3080/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/3080_3080_3080/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-1993-3080_3080_3080-20240101-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/3080_3080_3080/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/3080_3080_3080/20230101/fr"
 
 (OAM)
 
-du 10 novembre 1993 (État le 1<sup>er</sup> janvier 2023)
+du 10 novembre 1993 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -389,12 +389,13 @@ L’indemnité journalière est versée pour tous les jours de l’année, y com
 
 <sup>2</sup> Si, exceptionnellement, l’indemnité journalière est directement versée à un assuré, l’assurance militaire verse les cotisations patronales et salariales à la Caisse fédérale de compensation et procède au décompte avec cette dernière.[^19-2]
 
-<sup>3</sup> Les art. 6<sup>quater</sup> et 34*d* du règlement du 31 octobre 1947 sur l’assurance-vieillesse et survivants (RAVS)[^19-3] sur les cotisations dues par les assurés actifs après l’âge de 64 ans ou après l’âge de 65 ans et sur le salaire de minime importance ne sont pas applicables.[^19-4]
+<sup>3</sup> L’art. 6<sup>quater</sup> du règlement du 31 octobre 1947 sur l’assurance-vieillesse et survivants (RAVS)[^19-3] sur les cotisations dues par les assurés actifs après avoir atteint l’âge de référence fixé à l’art. 21, al. 1, de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants (LAVS)[^19-4] et l’art. 34*d* RAVS sur le salaire de minime importance ne sont pas applicables.[^19-5]
 
 [^19-1]: Nouvelle teneur de la phrase selon le ch. I de l’O du 16 nov. 2005, en vigueur depuis le 1<sup>er</sup> janv. 2006 ([RO 2005 5645](https://fedlex.data.admin.ch/eli/oc/2005/773)).
 [^19-2]: Nouvelle teneur selon le ch. I de l’O du 16 nov. 2005, en vigueur depuis le 1<sup>er</sup> janv. 2006 ([RO 2005 5645](https://fedlex.data.admin.ch/eli/oc/2005/773)).
 [^19-3]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
-[^19-4]: Nouvelle teneur selon le ch. I de l’O du 30 sept. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 5189](https://fedlex.data.admin.ch/eli/oc/2009/610)).
+[^19-4]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^19-5]: Nouvelle teneur selon l’annexe ch. 10 de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 20
 
@@ -402,11 +403,12 @@ L’indemnité journalière est versée pour tous les jours de l’année, y com
 
 <sup>1</sup> Les cotisations patronales et salariales dues à l’AVS, à l’assurance-invalidité et au régime des APG pour les personnes de condition indépendante et les personnes n’exerçant aucune activité lucrative sont calculées au taux applicable aux salariés. L’assurance militaire les verse à la Caisse fédérale de compensation et procède au décompte avec cette dernière.[^20-1]
 
-<sup>2</sup> Les dispositions des art. 6<sup>quater</sup> et 19 RAVS[^20-2] concernant les cotisations dues par les assurés actifs après l’âge de 65 ans ou par les assurées actives après l’âge de 64 ans ainsi que les rémunérations de minime importance provenant d’une activité accessoire ne sont pas applicables.[^20-3]
+<sup>2</sup> L’art. 6<sup>quater</sup> RAVS[^20-2] sur les cotisations dues par les assurés actifs après avoir atteint l’âge de référence fixé à l’art. 21, al. 1, LAVS[^20-3] et l’art. 19 RAVS sur les revenus de minime importance provenant d’une activité indépendante exercée à titre accessoire ne sont pas applicables.[^20-4]
 
 [^20-1]: Nouvelle teneur selon l’annexe ch. 3 de l’O du 9 nov. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 [^20-2]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
-[^20-3]: Nouvelle teneur selon le ch. I de l’O du 27 avr. 2005, en vigueur depuis le 1<sup>er</sup> juil. 2005 ([RO 2005 2885](https://fedlex.data.admin.ch/eli/oc/2005/473)).
+[^20-3]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^20-4]: Nouvelle teneur selon l’annexe ch. 10 de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 21
 
@@ -442,7 +444,10 @@ L’assurance militaire peut faire appel aux offices régionaux ou communs de l�
 
 <sup>1</sup> Les rentes d’invalidité sont fixées pour une durée déterminée, lorsque l’ampleur de l’invalidité ne peut être fixée de manière sûre et permanente à cause de l’instabilité de l’affection ou des conditions de travail.
 
-<sup>2</sup> Si la rente court après que l’assuré a atteint l’âge de bénéficier de la rente AVS, son octroi pour une durée indéterminée est exclu.
+<sup>2</sup> Si la rente court après que l’assuré a atteint l’âge de référence fixé à l’art. 21, al. 1, LAVS[^23-1], son octroi pour une durée indéterminée est exclu.[^23-2]
+
+[^23-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^23-2]: Nouvelle teneur selon l’annexe ch. 10 de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 24
 
@@ -517,7 +522,7 @@ La valeur capitalisée de la rente est calculée à partir de la date de la déc
 
 **Primes pour les prestations en cas de maladie**
 
-<sup>1</sup> La prime mensuelle pour les prestations en cas de maladie est de 380 francs.[^28a-1]
+<sup>1</sup> La prime mensuelle pour les prestations en cas de maladie est de 430 francs.[^28a-1]
 
 <sup>2</sup>
 
@@ -531,16 +536,16 @@ La prime est réduite comme suit pour les assurés à titre professionnel dont l
 
 <sup>4</sup> La partie des primes afférente au risque de maladie des assurés à titre professionnel engagés à temps partiel est égale à celle qu’ils devraient verser s’ils avaient été engagés à plein temps.
 
-[^28a-1]: Nouvelle teneur selon le ch. I de l’O du 26 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 633](https://fedlex.data.admin.ch/eli/oc/2022/633)).
+[^28a-1]: Nouvelle teneur selon le ch. I de l’O du 15 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 679](https://fedlex.data.admin.ch/eli/oc/2023/679)).
 [^28a-2]: [RS 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
 
 #### Art. 28b
 
 **Prime pour les prestations en cas d’accident des assurés auprès de l’assurance de base facultative**[^28b-1]
 
-Pour les assurés auprès de l’assurance de base facultative (assurés à titre facultatif), le supplément prévu pour les prestations en cas d’accident, qui s’ajoute à la prime pour les prestations en cas de maladie, s’élève à 46 francs par mois.
+Pour les assurés auprès de l’assurance de base facultative (assurés à titre facultatif), le supplément prévu pour les prestations en cas d’accident, qui s’ajoute à la prime pour les prestations en cas de maladie, s’élève à 52 francs par mois.
 
-[^28b-1]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 655](https://fedlex.data.admin.ch/eli/oc/2021/655)).
+[^28b-1]: Nouvelle teneur selon le ch. I de l’O du 15 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 679](https://fedlex.data.admin.ch/eli/oc/2023/679)).
 
 #### Art. 28c
 
@@ -771,6 +776,16 @@ L’ordonnance du 20 mars 1964 sur l’assurance militaire[^36-1] et l’arrêt�
 [^38-1]
 
 [^38-1]: Abrogé par le ch. I de l’O du 19 nov. 1997, avec effet au 1<sup>er</sup> janv. 1998 ([RO 1997 2751](https://fedlex.data.admin.ch/eli/oc/1997/2751_2751_2751)).
+
+#### Art. 38a
+
+**Disposition transitoire relative à la modification du 30 août 2023**[^38a-1]
+
+Si la rente d’invalidité court après que l’assurée a atteint l’âge de référence fixé à la let. a, let. a à d, des dispositions transitoires de la modification du 17 décembre 2021[^38a-2] de la LAVS[^38a-3], son octroi pour une durée indéterminée est exclu.
+
+[^38a-1]: Introduit par l’annexe ch. 10 de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^38a-2]: [RO 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92)
+[^38a-3]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
 #### Art. 39
 

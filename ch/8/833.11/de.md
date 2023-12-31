@@ -4,11 +4,11 @@ title: Verordnung vom 10. November 1993 über die Militärversicherung (MVV)
 short: MVV
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/3080_3080_3080"
 language: de
-version: 2023-01-01
+version: 2024-01-01
 adopted: 1993-11-10
 in_force: 1994-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/3080_3080_3080/20230101/de/xml/fedlex-data-admin-ch-eli-cc-1993-3080_3080_3080-20230101-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/3080_3080_3080/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/3080_3080_3080/20240101/de/xml/fedlex-data-admin-ch-eli-cc-1993-3080_3080_3080-20240101-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/3080_3080_3080/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/3080_3080_3080/20230101/de"
 
 (MVV)
 
-vom 10. November 1993 (Stand am 1. Januar 2023)
+vom 10. November 1993 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -239,9 +239,9 @@ Der Versicherungsunterbruch nach Artikel 3 Absatz 2 des Gesetzes beschränkt sic
 <sup>4</sup> Solange ein Angehöriger der Armee, ein Zivilschutzdienstleistender oder ein Zivildienstleistender Anspruch auf Sold, auf Taschengeld oder auf Entschädigung nach dem Erwerbsersatzgesetz vom 25. September 1952[^10-3] hat, ist der Anspruch auf Taggeld der Militärversicherung aufgeschoben.[^10-4] Die bei vorzeitiger Entlassung aus dem Dienst entgehende Entschädigung nach dem Bundesgesetz über die Erwerbsersatzordnung wird nicht vergütet.
 
 [^10-1]: Fassung gemäss Ziff. I der V vom 27. April 2005, in Kraft seit 1. Juli 2005 ([AS 2005 2885](https://fedlex.data.admin.ch/eli/oc/2005/473)).
-[^10-2]: Fassung gemäss Anhang 3 Ziff. 8 der Zivildienstverordnung vom 11. Sept. 1996, in Kraft seit 1. Okt. 1996 (AS **1996** 2685).
+[^10-2]: Fassung gemäss Anhang 3 Ziff. 8 der Zivildienstverordnung vom 11. Sept. 1996, in Kraft seit 1. Okt. 1996 ([AS 1996 2685](https://fedlex.data.admin.ch/eli/oc/1996/2685_2685_2685)).
 [^10-3]: [SR 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
-[^10-4]: Fassung gemäss Anhang 3 Ziff. 8 der Zivildienstverordnung vom 11. Sept. 1996, in Kraft seit 1. Okt. 1996 (AS **1996** 2685).
+[^10-4]: Fassung gemäss Anhang 3 Ziff. 8 der Zivildienstverordnung vom 11. Sept. 1996, in Kraft seit 1. Okt. 1996 ([AS 1996 2685](https://fedlex.data.admin.ch/eli/oc/1996/2685_2685_2685)).
 
 #### Art. 11
 
@@ -389,12 +389,13 @@ Das Taggeld wird für alle Tage des Jahres, einschliesslich Sonn- und Feiertage 
 
 <sup>2</sup> Wird das Taggeld ausnahmsweise einem Versicherten direkt ausbezahlt, entrichtet die Militärversicherung die Arbeitgeber- und Arbeitnehmerbeiträge der Eidgenössischen Ausgleichskasse und rechnet mit ihr darüber ab.[^19-2]
 
-<sup>3</sup> Die Artikel 6<sup>quater</sup> und 34*d* der Verordnung vom 31. Oktober 1947[^19-3] über die Alters- und Hinterlassenenversicherung (AHVV) über die Beiträge der erwerbstätigen Versicherten nach dem 64. beziehungsweise 65. Altersjahr und über den geringfügigen Lohn sind nicht anwendbar.[^19-4]
+<sup>3</sup> Artikel 6<sup>quater</sup> der Verordnung vom 31. Oktober 1947[^19-3] über die Alters- und Hinterlassenenversicherung (AHVV) betreffend die Beiträge der erwerbstätigen Versicherten nach Erreichen des Referenzalters nach Artikel 21 Absatz 1 des Bundesgesetzes vom 20. Dezember 1946[^19-4] über die Alters- und Hinterlassenenversicherung (AHVG) und Artikel 34*d* AHVV betreffend den geringfügigen Lohn sind nicht anwendbar.[^19-5]
 
 [^19-1]: Fassung des Satzes gemäss Ziff. I der V vom 16. Nov. 2005, in Kraft seit 1. Jan. 2006 ([AS 2005 5645](https://fedlex.data.admin.ch/eli/oc/2005/773)).
 [^19-2]: Fassung gemäss Ziff. I der V vom 16. Nov. 2005, in Kraft seit 1. Jan. 2006 ([AS 2005 5645](https://fedlex.data.admin.ch/eli/oc/2005/773)).
 [^19-3]: [SR 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
-[^19-4]: Fassung gemäss Ziff. I der V vom 30. Sept. 2009, in Kraft seit 1. Jan. 2010 ([AS 2009 5189](https://fedlex.data.admin.ch/eli/oc/2009/610)).
+[^19-4]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^19-5]: Fassung gemäss Anhang Ziff. 10 der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 20
 
@@ -402,11 +403,12 @@ Das Taggeld wird für alle Tage des Jahres, einschliesslich Sonn- und Feiertage 
 
 <sup>1</sup> Die Arbeitgeber- und Arbeitnehmerbeiträge für die AHV, die Invalidenversicherung und die Erwerbersatzordnung werden für einen Selbstständigerwerbenden oder einen Nichterwerbstätigen zum gleichen Ansatz wie für einen Arbeitnehmer berechnet. Die Militärversicherung entrichtet diese Beiträge der Eidgenössischen Ausgleichskasse und rechnet mit ihr darüber ab.[^20-1]
 
-<sup>2</sup> Die Bestimmungen der Artikel 6<sup>quater</sup> und 19 AHVV[^20-2] betreffend Beiträge der erwerbstätigen Versicherten nach dem 65. beziehungsweise 64. Altersjahr und betreffend geringfügige Entgelte aus Nebenerwerb sind nicht anwendbar.[^20-3]
+<sup>2</sup> Artikel 6<sup>quater</sup> AHVV[^20-2] betreffend die Beiträge der erwerbstätigen Versicherten nach Erreichen des Referenzalters nach Artikel 21 Absatz 1 AHVG[^20-3] und Artikel 19 AHVV betreffend den geringfügigen Nebenerwerb aus selbstständiger Erwerbstätigkeit sind nicht anwendbar.[^20-4]
 
 [^20-1]: Fassung gemäss Anhang Ziff. 3 der V vom 9. Nov. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 [^20-2]: [SR 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
-[^20-3]: Fassung gemäss Ziff. I der V vom 27. April 2005, in Kraft seit 1. Juli 2005 ([AS 2005 2885](https://fedlex.data.admin.ch/eli/oc/2005/473)).
+[^20-3]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^20-4]: Fassung gemäss Anhang Ziff. 10 der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 21
 
@@ -440,7 +442,10 @@ Die Militärversicherung ist berechtigt, die kantonalen und die gemeinsamen Inva
 
 <sup>1</sup> Invalidenrenten werden auf bestimmte Zeit festgesetzt, wenn das Ausmass der Invalidität wegen nicht stabiler Gesundheitsschäden oder Erwerbsverhältnisse nicht zuverlässig für dauernd abgeschätzt werden kann.
 
-<sup>2</sup> Liegt der Rentenbeginn nach Erreichen des AHV-Rentenalters, ist die Zusprechung einer Rente auf unbestimmte Zeit ausgeschlossen.
+<sup>2</sup> Liegt der Rentenbeginn nach Erreichen des Referenzalters nach Artikel 21 Absatz 1 AHVG[^23-1], so ist die Zusprechung einer Rente auf unbestimmte Zeit ausgeschlossen.[^23-2]
+
+[^23-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^23-2]: Fassung gemäss Anhang Ziff. 10 der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 24
 
@@ -516,7 +521,7 @@ Der Barwert der Rente wird auf der Basis des Jahresrentenansatzes berechnet, der
 
 **Prämie für Leistungen bei Krankheit**
 
-<sup>1</sup> Die monatliche Prämie für Leistungen bei Krankheit beträgt 380 Franken.[^28a-1]
+<sup>1</sup> Die monatliche Prämie für Leistungen bei Krankheit beträgt 430 Franken.[^28a-1]
 
 <sup>2</sup>
 
@@ -530,16 +535,16 @@ Bei beruflich Versicherten, deren Lohn in einer der folgenden Bandbreiten liegt,
 
 <sup>4</sup> Derjenige Teil der Prämie von teilzeitlich angestellten beruflich Versicherten, der das Risiko für Krankheit betrifft, ist gleich hoch wie für vollzeitlich angestellte.
 
-[^28a-1]: Fassung gemäss Ziff. I der V vom 26. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 633](https://fedlex.data.admin.ch/eli/oc/2022/633)).
+[^28a-1]: Fassung gemäss Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 679](https://fedlex.data.admin.ch/eli/oc/2023/679)).
 [^28a-2]: [SR 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
 
 #### Art. 28b
 
 **Prämie für Leistungen bei Unfall der bei der freiwilligen Grundversicherung Versicherten**[^28b-1]
 
-Der Zuschlag zur Prämie für Leistungen bei Krankheit, der als Prämie für Leistungen bei Unfall der bei der freiwilligen Grundversicherung Versicherten (freiwillig Versicherte) vorgesehen ist, beträgt 46 Franken pro Monat.
+Der Zuschlag zur Prämie für Leistungen bei Krankheit, der als Prämie für Leistungen bei Unfall der bei der freiwilligen Grundversicherung Versicherten (freiwillig Versicherte) vorgesehen ist, beträgt 52 Franken pro Monat.
 
-[^28b-1]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 655](https://fedlex.data.admin.ch/eli/oc/2021/655)).
+[^28b-1]: Fassung gemäss Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 679](https://fedlex.data.admin.ch/eli/oc/2023/679)).
 
 #### Art. 28c
 
@@ -770,6 +775,16 @@ Die Verordnung vom 20. März 1964[^36-1] über die Militärversicherung und der 
 [^38-1]
 
 [^38-1]: Aufgehoben durch Ziff. I der V vom 19. Nov. 1997, mit Wirkung seit 1. Jan. 1998 ([AS 1997 2751](https://fedlex.data.admin.ch/eli/oc/1997/2751_2751_2751)).
+
+#### Art. 38a
+
+**Übergangsbestimmung zur Änderung vom 30. August 2023**[^38a-1]
+
+Liegt der Rentenbeginn von weiblichen Versicherten nach Erreichen des in Buchstabe a Buchstaben a–d der Übergangsbestimmungen der Änderung vom 17. Dezember 2021[^38a-2] des AHVG[^38a-3] festgelegten Referenzalters, ist die Zusprechung einer Rente auf unbestimmte Zeit ausgeschlossen.
+
+[^38a-1]: Eingefügt durch Anhang Ziff. 10 der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^38a-2]: [AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92)
+[^38a-3]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
 #### Art. 39
 

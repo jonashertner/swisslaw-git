@@ -4,11 +4,11 @@ title: "Ordinanza del 10 novembre 1993 sull'assicurazione militare (OAM)"
 short: OAM
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/3080_3080_3080"
 language: it
-version: 2023-01-01
+version: 2024-01-01
 adopted: 1993-11-10
 in_force: 1994-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/3080_3080_3080/20230101/it/xml/fedlex-data-admin-ch-eli-cc-1993-3080_3080_3080-20230101-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/3080_3080_3080/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/3080_3080_3080/20240101/it/xml/fedlex-data-admin-ch-eli-cc-1993-3080_3080_3080-20240101-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/3080_3080_3080/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/3080_3080_3080/20230101/it"
 
 (OAM)
 
-del 10 novembre 1993 (Stato 1° gennaio 2023)
+del 10 novembre 1993 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -389,12 +389,13 @@ L’indennità giornaliera è versata per tutti i giorni dell’anno, inclusi la
 
 <sup>2</sup> Se, in via eccezionale, l’indennità giornaliera è versata direttamente all’assicurato, l’assicurazione militare versa i contributi del datore di lavoro e del lavoratore alla Cassa federale di compensazione e li conteggia con quest’ultima.[^19-2]
 
-<sup>3</sup> Gli articoli 6<sup>quater</sup> e 34*d* dell’ordinanza del 31 ottobre 1947[^19-3] sull’assicurazione per la vecchiaia e per i superstiti (OAVS) concernenti i contributi dovuti dagli assicurati attivi dopo i 65 rispettivamente dopo i 64 anni e il salario di poco conto non sono applicabili.[^19-4]
+<sup>3</sup> L’articolo 6<sup>quater</sup> dell’ordinanza del 31 ottobre 1947[^19-3] sull’assicurazione per la vecchiaia e per i superstiti (OAVS) concernente i contributi dovuti dagli assicurati esercitanti un’attività lucrativa dopo il raggiungimento dell’età di riferimento secondo l’articolo 21 capoverso 1 della legge federale del 20 dicembre 1946[^19-4] sull’assicurazione per la vecchiaia e per i superstiti (LAVS) e l’articolo 34*d* OAVS concernente il salario di poco conto non sono applicabili.[^19-5]
 
 [^19-1]: Nuovo testo del per. giusta il n. I dell’O del 16 nov. 2005, in vigore dal 1° gen. 2006 ([RU 2005 5645](https://fedlex.data.admin.ch/eli/oc/2005/773)).
 [^19-2]: Nuovo testo giusta il n. I dell’O del 16 nov. 2005, in vigore dal 1° gen. 2006 ([RU 2005 5645](https://fedlex.data.admin.ch/eli/oc/2005/773)).
 [^19-3]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
-[^19-4]: Nuovo testo giusta il n. I dell’O del 30 set. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5189](https://fedlex.data.admin.ch/eli/oc/2009/610)).
+[^19-4]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^19-5]: Nuovo testo giusta l’all. n. 10 dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 20
 
@@ -402,11 +403,12 @@ L’indennità giornaliera è versata per tutti i giorni dell’anno, inclusi la
 
 <sup>1</sup> I contributi del datore di lavoro e del lavoratore dovuti all’AVS, all’assicurazione per l’invalidità e all’ordinamento dell’indennità di perdita di guadagno per un lavoratore indipendente o una persona che non esercita un’attività lucrativa sono calcolati al tasso valevole per i salariati. L’assicurazione militare versa tali contributi alla Cassa federale di compensazione e li conteggia con quest’ultima.[^20-1]
 
-<sup>2</sup> Le disposizioni dell’articolo 6<sup>quater</sup> e dell’articolo 19 OAVS[^20-2] concernenti i contributi dovuti dagli assicurati attivi dopo i 65 rispettivamente dopo i 64 anni e concernenti le rimunerazioni di scarsa importanza provenienti da un’attività accessoria non sono applicabili.[^20-3]
+<sup>2</sup> L’articolo 6<sup>quater</sup> OAVS[^20-2] concernente i contributi dovuti dagli assicurati esercitanti un’attività lucrativa dopo il raggiungimento dell’età di riferimento secondo l’articolo 21 capoverso 1 LAVS[^20-3] e l’articolo 19 OAVS concernente il reddito di poco conto proveniente da attività indipendenti esercitate a titolo accessorio non sono applicabili.[^20-4]
 
 [^20-1]: Nuovo testo giusta l’all. n. 3 dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 [^20-2]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
-[^20-3]: Nuovo testo giusta il n. I dell’O del 27 apr. 2005, in vigore dal 1° lug. 2005 ([RU 2005 2885](https://fedlex.data.admin.ch/eli/oc/2005/473)).
+[^20-3]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^20-4]: Nuovo testo giusta l’all. n. 10 dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 21
 
@@ -442,7 +444,10 @@ L’assicurazione militare è autorizzata a interpellare gli uffici cantonali e 
 
 <sup>1</sup> Le rendite d’invalidità sono assegnate per un tempo determinato qualora il grado dell’invalidità non possa essere valutato in modo attendibile e permanente a causa dell’instabilità dell’affezione o delle condizioni di lavoro.
 
-<sup>2</sup> Se la rendita insorge dopo che l’assicurato ha raggiunto l’età della rendita AVS, l’assegnazione di una rendita a tempo indeterminato è esclusa.
+<sup>2</sup> Se la rendita insorge dopo che l’assicurato ha raggiunto l’età di riferimento secondo l’articolo 21 capoverso 1 LAVS[^23-1], l’assegnazione di una rendita a tempo indeterminato è esclusa.[^23-2]
+
+[^23-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^23-2]: Nuovo testo giusta l’all. n. 10 dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 24
 
@@ -517,7 +522,7 @@ Il valore attuale della rendita viene calcolato fondandosi sull’importo annuo 
 
 **Premio per prestazioni in caso di malattia**
 
-<sup>1</sup> Il premio mensile per le prestazioni in caso di malattia ammonta a 380 franchi.[^28a-1]
+<sup>1</sup> Il premio mensile per le prestazioni in caso di malattia ammonta a 430 franchi.[^28a-1]
 
 <sup>2</sup>
 
@@ -531,16 +536,16 @@ Per gli assicurati a titolo professionale, il cui stipendio rientra in una delle
 
 <sup>4</sup> La parte dei premi relativa al rischio di malattia degli assicurati a titolo professionale impiegati a tempo parziale è uguale a quella dovuta con un impiego a tempo pieno.
 
-[^28a-1]: Nuovo testo giusta il n. I dell’O del 26 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 633](https://fedlex.data.admin.ch/eli/oc/2022/633)).
+[^28a-1]: Nuovo testo giusta il n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 679](https://fedlex.data.admin.ch/eli/oc/2023/679)).
 [^28a-2]: [RS 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
 
 #### Art. 28b
 
 **Premio per prestazioni in caso di infortunio per gli assicurati dell’assicurazione di base facoltativa**[^28b-1]
 
-Per gli assicurati dell’assicurazione di base facoltativa (assicurati a titolo facoltativo), il supplemento al premio per le prestazioni in caso di malattia previsto per le prestazioni in caso di infortunio ammonta a 46 franchi al mese.
+Per gli assicurati dell’assicurazione di base facoltativa (assicurati a titolo facoltativo), il supplemento al premio per le prestazioni in caso di malattia previsto per le prestazioni in caso di infortunio ammonta a 52 franchi al mese.
 
-[^28b-1]: Nuovo testo giusta il n. I dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 655](https://fedlex.data.admin.ch/eli/oc/2021/655)).
+[^28b-1]: Nuovo testo giusta il n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 679](https://fedlex.data.admin.ch/eli/oc/2023/679)).
 
 #### Art. 28c
 
@@ -771,6 +776,16 @@ L’ordinanza del 20 marzo 1964[^36-1] sull’assicurazione militare e il decret
 [^38-1]
 
 [^38-1]: Abrogato dal n. I dell’O del 19 nov. 1997, con effetto dal 1° gen. 1998 ([RU 1997 2751](https://fedlex.data.admin.ch/eli/oc/1997/2751_2751_2751)).
+
+#### Art. 38a
+
+**Disposizione transitoria della modifica del 30 agosto 2023**[^38a-1]
+
+Se la rendita insorge dopo che l’assicurata ha raggiunto l’età di riferimento stabilita alla lettera a delle disposizioni transitorie della modifica del 17 dicembre 2021[^38a-2] della LAVS[^38a-3], l’assegnazione di una rendita a tempo indeterminato è esclusa.
+
+[^38a-1]: Introdotto dall’all. n. 10 dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^38a-2]: [RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92)
+[^38a-3]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
 #### Art. 39
 
