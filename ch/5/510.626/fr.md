@@ -4,11 +4,11 @@ title: Ordonnance du 21 mai 2008 sur la mensuration nationale (OMN)
 short: OMN
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/394"
 language: fr
-version: 2021-03-01
+version: 2024-01-01
 adopted: 2008-05-21
 in_force: 2008-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/394/20210301/fr/xml/fedlex-data-admin-ch-eli-cc-2008-394-20210301-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/394/20210301/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/394/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-394-20240101-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/394/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/394/20210301/fr"
 
 (OMN)
 
-du 21 mai 2008 (Etat le 1<sup>er</sup> mars 2021)
+du 21 mai 2008 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse
 
@@ -219,7 +219,7 @@ Les traités internationaux de droit public concernant la détermination de la f
 
 <sup>1</sup> L’Office fédéral de topographie notifie aux cantons concernés toute modification apportée au tracé de la frontière nationale.
 
-- [tab] <sup>2</sup> Le service du canton chargé de la surveillance de la mensuration officielle notifie à l’Office fédéral de topographie tout dommage constaté sur les signes de démarcation de la frontière nationale ou de toute mise en danger de ceux-ci.
+<sup>2</sup> Le service du canton chargé de la surveillance de la mensuration officielle notifie à l’Office fédéral de topographie tout dommage constaté sur les signes de démarcation de la frontière nationale ou de toute mise en danger de ceux-ci.
 
 #### Art. 19
 
@@ -314,15 +314,15 @@ Les tâches officielles suivantes incombent au service de vol:
 
 <sup>3</sup> L’ordonnance du 19 novembre 2003 sur le service de vol militaire[^26-1] s’applique au personnel du service de vol.
 
-[^26-1]: [RS 512.271](https://fedlex.data.admin.ch/eli/cc/2022/213)
+[^26-1]: [[RO 2003 4711;20045043;20062401;20111385.RO2022213art.21].Voiractuellementl’Odu18mars2022(RS512.271).](https://fedlex.data.admin.ch/eli/oc/2003/682)
 
 #### Art. 27
 
-**Organe de coordination des prises de vues aériennes**
+**Organe de coordination des prises de vues aériennes**[^27-1]
 
-<sup>1</sup> L’Office fédéral de topographie coordonne les vols demandés par l’administration fédérale et les cantons servant à la saisie de géodonnées de base.
+L’Office fédéral de topographie coordonne les vols demandés par l’administration fédérale, servant à la saisie de géodonnées de base.
 
-<sup>2</sup> Les services compétents de la Confédération et des cantons informent l’Office fédéral de topographie des vols prévus.
+[^27-1]: Nouvelle teneur selon l’annexe ch. 9 de l’O du 23 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 28
 
@@ -371,6 +371,6 @@ Annexe
 
 Les ordonnances suivantes sont modifiées comme suit:
 
-...[^annexu1-lvlu1-1]
+…[^annexu1-lvlu1-1]
 
 [^annexu1-lvlu1-1]: Les mod. peuvent être consultées au [RO 2008 2871](https://fedlex.data.admin.ch/eli/oc/2008/394).

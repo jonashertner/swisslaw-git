@@ -4,11 +4,11 @@ title: Ordinanza del 21 maggio 2008 sulla misurazione nazionale (OMN)
 short: OMN
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/394"
 language: it
-version: 2021-03-01
+version: 2024-01-01
 adopted: 2008-05-21
 in_force: 2008-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/394/20210301/it/xml/fedlex-data-admin-ch-eli-cc-2008-394-20210301-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/394/20210301/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/394/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2008-394-20240101-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/394/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/394/20210301/it"
 
 (OMN)
 
-del 21 maggio 2008 (Stato 1° marzo 2021) (Stato 1° marzo 2021)
+del 21 maggio 2008 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -314,15 +314,15 @@ Il servizio di volo ha i compiti ufficiali seguenti:
 
 <sup>3</sup> Al personale del servizio di volo si applica l’ordinanza del 19 novembre 2003[^26-1] sul servizio di volo militare.
 
-[^26-1]: [RS 512.271](https://fedlex.data.admin.ch/eli/cc/2022/213)
+[^26-1]: [[RU 2003 4711](https://fedlex.data.admin.ch/eli/oc/2003/682); [2004 5043](https://fedlex.data.admin.ch/eli/oc/2004/773); [2006 2401](https://fedlex.data.admin.ch/eli/oc/2006/370); [2011 1385](https://fedlex.data.admin.ch/eli/oc/2011/211): [RU 2022 213](https://fedlex.data.admin.ch/eli/oc/2022/213)art. 21]. Vedi ora l’O del 18 mar. 2022 ([RS 512.271](https://fedlex.data.admin.ch/eli/cc/2022/213)).
 
 #### Art. 27
 
-**Organo di coordinamento delle riprese aeree**
+**Organo di coordinamento delle riprese aeree**[^27-1]
 
-<sup>1</sup> L’Ufficio federale di topografia coordina i voli dell’Amministrazione federale e dei Cantoni destinati al rilevamento dei geodati di base.
+L’Ufficio federale di topografia coordina i voli dell’Amministrazione federale destinati al rilevamento dei geodati di base.
 
-<sup>2</sup> I servizi competenti della Confederazione e dei Cantoni comunicano anticipatamente tali voli all’Ufficio federale di topografia.
+[^27-1]: Nuovo testo giusta il n. 9 dell’O del 23 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 28
 

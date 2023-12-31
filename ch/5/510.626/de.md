@@ -4,11 +4,11 @@ title: "Verordnung vom 21. Mai 2008 über die Landesvermessung (Landesvermessung
 short: LVV
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/394"
 language: de
-version: 2021-03-01
+version: 2024-01-01
 adopted: 2008-05-21
 in_force: 2008-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/394/20210301/de/xml/fedlex-data-admin-ch-eli-cc-2008-394-20210301-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/394/20210301/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/394/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2008-394-20240101-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/394/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/394/20210301/de"
 
 (Landesvermessungsverordnung, LVV)
 
-vom 21. Mai 2008 (Stand am 1. März 2021)
+vom 21. Mai 2008 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -219,7 +219,7 @@ Die völkerrechtlichen Verträge über die Festlegung der Landesgrenze werden in
 
 <sup>1</sup> Das Bundesamt für Landestopografie meldet den betroffenen Kantonen Änderungen am Verlauf der Landesgrenze.
 
-- [tab] <sup>2</sup> Die für die Aufsicht über die amtliche Vermessung zuständige Stelle des Kantons meldet dem Bundesamt für Landestopografie festgestellte Schäden oder Gefährdungen von Grenzzeichen der Landesgrenze.
+<sup>2</sup> Die für die Aufsicht über die amtliche Vermessung zuständige Stelle des Kantons meldet dem Bundesamt für Landestopografie festgestellte Schäden oder Gefährdungen von Grenzzeichen der Landesgrenze.
 
 #### Art. 19
 
@@ -314,15 +314,15 @@ Der Flugdienst hat folgende amtlichen Aufgaben:
 
 <sup>3</sup> Für das Personal des Flugdienstes gilt die Militärflugdienstverordnung vom 19. November 2003[^26-1].
 
-[^26-1]: [SR 512.271](https://fedlex.data.admin.ch/eli/cc/2022/213)
+[^26-1]: [[AS 2003 4711;20045043;20062401;20111385.AS2022213Art.21].Heute:Militärflugdienstverordnungvom18.März2022(SR512.271).](https://fedlex.data.admin.ch/eli/oc/2003/682)
 
 #### Art. 27
 
-**Koordinationsorgan Luftaufnahmen**
+**Koordinationsorgan Luftaufnahmen**[^27-1]
 
-<sup>1</sup> Das Bundesamt für Landestopografie koordiniert die Flüge der Bundesverwaltung und der Kantone, die der Erfassung von Geobasisdaten dienen.
+Das Bundesamt für Landestopografie koordiniert die Flüge der Bundesverwaltung, die der Erfassung von Geobasisdaten dienen.
 
-<sup>2</sup> Die zuständigen Stellen des Bundes und der Kantone melden dem Bundesamt für Landestopografie diese Flüge vorgängig.
+[^27-1]: Fassung gemäss Anhang Ziff. 9 der V vom 23. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 28
 
