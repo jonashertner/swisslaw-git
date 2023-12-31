@@ -4,13 +4,13 @@ number: "210.300"
 title: Einführungsgesetz zum Schweizerischen Zivilgesetzbuch
 short: EG ZGB
 language: de
-version: 2022-01-01
-valid_until: 2023-12-31
-version_adopted: 2021-03-23
+version: 2024-01-01
+valid_until: 2024-05-31
+version_adopted: 2023-06-27
 adopted: 2017-06-27
 in_force: 2018-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/210.300"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3049/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3356/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3049/pdf_file"
 
 (EG ZGB)
 
-Vom 27.06.2017 (Stand 01.01.2022)
+Vom 27.06.2017 (Stand 01.01.2024)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -181,9 +181,10 @@ beschliesst:
 
 **Vollstreckung der Unterhaltspflicht**
 
-<sup>1</sup> Die Inkassohilfe gemäss den Art. 131, 131a und 290 ZGB richtet sich nach den Bestimmungen des Gesetzes über die öffentliche Sozialhilfe und die soziale Prävention (Sozialhilfe- und Präventionsgesetz, SPG) vom 6. März 2001[^16-1].
+<sup>1</sup> Die Inkassohilfe gemäss den Art. 131, 176a und 290 ZGB, Art. 34 Abs. 4 PartG sowie der Verordnung über die Inkassohilfe bei familienrechtlichen Unterhaltsansprüchen (Inkassohilfeverordnung, InkHV) vom 6. Dezember 2019[^16-1] richtet sich nach den Bestimmungen des Gesetzes über die öffentliche Sozialhilfe und die soziale Prävention (Sozialhilfe- und Präventionsgesetz, SPG) vom 6. März 2001[^16-2].
 
-[^16-1]: SAR [851.200](https://gesetzessammlungen.ag.ch/data/851.200/de)
+[^16-1]: SR [211.214.32](https://db.clex.ch/link/Bund/211.214.32/de)
+[^16-2]: SAR [851.200](https://gesetzessammlungen.ag.ch/data/851.200/de)
 
 #### § 17
 
