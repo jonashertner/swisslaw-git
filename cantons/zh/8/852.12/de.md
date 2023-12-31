@@ -4,11 +4,11 @@ number: "852.12"
 title: Verordnung über die sonderpädagogischen Massnahmen im Vor- und Nachschulbereich (SPMV)
 short: SPMV
 language: de
-version: "2023-01-01"
-nachtrag: "119"
-valid_until: 2024-01-01
+version: "2024-01-01"
+nachtrag: "123"
+valid_until: 2026-01-26
 adopted: 2011-12-07
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-852_12-2011_12_07-2012_01_01-119.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-852_12-2011_12_07-2012_01_01-123.html"
 text: pdf
 ---
 
@@ -74,7 +74,7 @@ Heilpädagogische Früherziehung ist die Behandlung und Förderung von Kindern m
 
 **1**
 
-- 1\. 1. 23 - 119 § 7. Logopädie ist die Behandlung und Förderung von Kindern und Jugendlichen mit Störungen der mündlichen und schriftlichen Sprache, des Sprechens, der Kommunikation, des Redeflusses und der Stimme sowie des Schluckens oder mit entsprechenden Risiken.
+- 1\. 1. 24 - 123 § 7. Logopädie ist die Behandlung und Förderung von Kindern und Jugendlichen mit Störungen der mündlichen und schriftlichen Sprache, des Sprechens, der Kommunikation, des Redeflusses und der Stimme sowie des Schluckens oder mit entsprechenden Risiken.
 
 **c. Logopädie**
 
@@ -172,7 +172,7 @@ Ist der Befund bei einer logopädischen Abklärung nicht eindeutig, kann die Abk
 
 **3**
 
-- 1\. 1. 23 - 119
+- 1\. 1. 24 - 123
 
 <sup>2</sup> Die Leistungsanbieterinnen und -anbieter führen die sonderpädagogischen Massnahmen gemäss Entscheid durch.
 
@@ -232,7 +232,7 @@ Ist der Befund bei einer logopädischen Abklärung nicht eindeutig, kann die Abk
 
 **5**
 
-- 1\. 1. 23 - 119 § 23. Auf Antrag der Eltern erstattet das Amt diesen die notwendigen Transportkosten zwischen Aufenthalts- und Massnahmeort für Kinder und Jugendliche und die erforderliche Begleitperson.
+- 1\. 1. 24 - 123 § 23. Auf Antrag der Eltern erstattet das Amt diesen die notwendigen Transportkosten zwischen Aufenthalts- und Massnahmeort für Kinder und Jugendliche und die erforderliche Begleitperson.
 
 **Transportkosten**
 
@@ -338,7 +338,7 @@ Die Abklärung und Durchführung von sonderpädagogischen Massnahmen richtet sic
 
 **7**
 
-- 1\. 1. 23 - 119
+- 1\. 1. 24 - 123
 
 [^hÜbergangsbestimmung-1]: Eingefügt durch RRB vom 3. Dezember 2014 (OS 69, 603; ABl 2014-12-12). In Kraft seit 1. Januar 2012.
 
@@ -346,7 +346,7 @@ Die Abklärung und Durchführung von sonderpädagogischen Massnahmen richtet sic
 
 Empfehlungen und Entscheide gemäss § 15 bzw. § 17, die vor Inkrafttreten dieser Änderung ausgestellt bzw. getroffen wurden, behalten ihre Gültigkeit.
 
-[^hÜbergangsbestimmung_2-1]: Fassung gemäss Vfg. des Amtes für Jugend und Berufsberatung vom 11. Oktober 2022 (OS 77, 553; ABl 2022-10-14). In Kraft seit 1. Januar 2023.
+[^hÜbergangsbestimmung_2-1]: Fassung gemäss Vfg. des Amtes für Jugend und Berufsberatung vom 16. Oktober 2023 (OS 78, 508; ABl 2023-10-20). In Kraft seit 1. Januar 2024.
 
 ### Anhang
 
@@ -354,17 +354,17 @@ Empfehlungen und Entscheide gemäss § 15 bzw. § 17, die vor Inkrafttreten dies
 
 ### Entschädigung (§ 22)
 
-**Fr. 181.65**
+**Fr. 184.65**
 
 - 1\. Tarif pro Stunde (§ 22 Abs. 1 lit. a)
 
 - 2\. Wegpauschale (§ 22 Abs. 1 lit. b und Abs. 2) 2.1 Standardpauschale 2.2 Erhöhte Pauschale
 
-**Fr. 84.70 Fr. 180.00**
+**Fr. 86.10 Fr. 182.95**
 
 **9**
 
-- 1\. 1. 23 - 119
+- 1\. 1. 24 - 123
 
 ## Weitere Fussnoten
 
