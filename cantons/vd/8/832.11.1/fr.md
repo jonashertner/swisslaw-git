@@ -3,13 +3,13 @@ canton: VD
 number: "832.11.1"
 title: "ARRÊTÉ du 29.06.2011 édictant la liste vaudoise des établissements hospitaliers admis à pratiquer à la charge de l'assurance obligatoire des soins (LAMal) dans les domaines de la psychiatrie et de la réadaptation hospitalières."
 language: fr
-version: 2020-01-01
+version: 2024-01-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/832.11.1?id=c403761e-e0fd-4482-ac83-c7a8b1933d58"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VD. Seule la publication officielle du canton fait foi.
 
-# ARRÊTÉ édictant la liste vaudoise des établissements hospitaliers admis à pratiquer à la charge de l'assurance obligatoire des soins (LAMal)
+# ARRÊTÉ édictant la liste vaudoise des établissements hospitaliers admis à pratiquer à la charge de l'assurance obligatoire des soins (LAMal) dans les domaines de la psychiatrie et de la réadaptation hospitalières.
 
 (AListeLAMal)
 
@@ -44,10 +44,9 @@ arrête
 
 **But [^chapterChapitreI-1]**
 
-<sup>1</sup> Conformément à la LAMal [^1-1] , en particulier à son article 39, le présent arrêté fixe la liste des établissements hospitaliers (hôpitaux et cliniques) qui sont admis à pratiquer à la charge de l'assurance obligatoire des soins et qui relèvent du régime subventionné (ci-après : la liste).
+<sup>1</sup> Conformément à la LAMal, en particulier à son article 39, le présent arrêté fixe la liste des établissements hospitaliers (hôpitaux et cliniques) qui sont admis à pratiquer à la charge de l'assurance obligatoire des soins et qui relèvent du régime subventionné, dans les domaines de la psychiatrie et de la réadaptation hospitalières (ci-après : la liste).
 
 [^chapterChapitreI-1]: Modif. 5 du 04.10.2023: Modification Al. 1; entrée en vigueur au 01.01.2024
-[^1-1]: Loi fédérale du 18.03.1994 sur l’assurance-maladie (RS 832.10)
 
 #### Art. 2
 
@@ -76,13 +75,13 @@ arrête
 
 #### Art. 5
 
-**Prestations universitaires/tertiaires [^4-1]**
+**... [^4-1]**
 
-<sup>1</sup> Certaines prestations, de type stationnaire, ne peuvent être effectuées qu'au Centre hospitalier universitaire vaudois (CHUV) ou dans un établissement hospitalier au bénéfice d'une délégation ou d'un mandat du CHUV.
+<sup>1</sup> ...
 
-<sup>2</sup> La liste de ces prestations figure en annexe du présent arrêté. Elle sera réactualisée en 2012 suite aux travaux des Collèges cantonaux des médecins spécialistes.
+<sup>2</sup> ...
 
-<sup>3</sup> Le département fixe les principes et la procédure suivant lesquels le CHUV peut déléguer certaines de ces prestations.
+<sup>3</sup> ...
 
 [^4-1]: Modif. 1 du 07.12.2011: Modification Al. 1,2; entrée en vigueur au 01.01.2012 · Modif. 5 du 04.10.2023: Abrogation tArt; entrée en vigueur au 01.01.2024; Abrogation Al. 1-3; entrée en vigueur au 01.01.2024
 
@@ -93,7 +92,7 @@ arrête
 <sup>1</sup> Le département :
 
 - a. précise la teneur des missions médicales générales mentionnées à l'article 4 ;
-- b. met en oeuvre la liste des prestations relevant uniquement du domaine universitaire/tertiaire mentionnées à l'article 5 ;
+- b. ...
 - c. conclut les mandats de prestations individuels avec les établissements hospitaliers. Ces mandats précisent les conditions à respecter.
 
 [^5-1]: Modif. 5 du 04.10.2023: Abrogation Al. 1, b; entrée en vigueur au 01.01.2024
@@ -104,13 +103,13 @@ arrête
 
 **Hôpitaux du Canton de Vaud [^chapterChapitreII-1]**
 
-<sup>1</sup> Les hôpitaux et cliniques du Canton de Vaud admis sont les suivants :
+<sup>1</sup> Les hôpitaux et cliniques du Canton de Vaud inscrits sur la liste figurent en annexe 1.
 
-<sup>2</sup> L'inscription des Cliniques la Source, la Longeraie et la Lignière est subordonnée à la condition qu'elles obtiennent une reconnaissance d'intérêt public d'ici au 31 décembre 2011. A défaut, elles seront automatiquement rayées de la liste.
+<sup>2</sup> ...
 
-<sup>3</sup> L'inscription des Cliniques Bois-Cerf, Cécil et le CIC Riviera est subordonnée à la condition qu'elles obtiennent une reconnaissance d'intérêt public d'ici au 31 mars 2012. A défaut, elles seront automatiquement rayées de la liste.
+<sup>3</sup> ...
 
-<sup>4</sup> L'inscription de la Clinique La Métairie est subordonnée à la condition qu'elle obtienne une reconnaissance d'intérêt public d'ici au 31 mars 2013. A défaut, elle sera automatiquement rayée de la liste.
+<sup>4</sup> ...
 
 [^chapterChapitreII-1]: Modif. 1 du 07.12.2011: Modification Al. 1; entrée en vigueur au 01.01.2012; Introduction Al. 3; entrée en vigueur au 01.01.2012 · Modif. 2 du 13.02.2013: Modification Al. 1; entrée en vigueur au 01.01.2013; Introduction Al. 4; entrée en vigueur au 01.01.2013 · Modif. 3 du 16.01.2019: Modification Al. 1; entrée en vigueur au 01.01.2019 · Modif. 4 du 29.04.2020: Modification Al. 1; entrée en vigueur au 01.01.2020 · Modif. 5 du 04.10.2023: Modification Al. 1; entrée en vigueur au 01.01.2024; Abrogation Al. 2-4; entrée en vigueur au 01.01.2024
 
@@ -118,7 +117,7 @@ arrête
 
 **Hôpitaux hors canton [^7-1]**
 
-<sup>1</sup> Les hôpitaux et cliniques hors canton qui répondent, d'une part, à un besoin spécifique de l'ensemble des résidents du Canton de Vaud et, d'autre part, à un besoin général de résidents de régions limitrophes du canton sont les suivants :
+<sup>1</sup> Les hôpitaux et cliniques hors canton qui répondent, d'une part, à un besoin spécifique de l'ensemble des résidents du Canton de Vaud et, d'autre part, à un besoin général de résidents de régions limitrophes du canton figurent sur l'annexe 2.
 
 [^7-1]: Modif. 1 du 07.12.2011: Modification Al. 1; entrée en vigueur au 01.01.2012 · Modif. 5 du 04.10.2023: Modification Al. 1; entrée en vigueur au 01.01.2024
 
@@ -144,12 +143,14 @@ arrête
 
 <sup>1</sup> Le Département de la santé et de l'action sociale est chargé de l'exécution du présent arrêté qui entre en vigueur le 1er janvier 2012.
 
-Annexe : liste des prestations universitaires/tertiaires dans le Canton de Vaud
-
 Annexes [^11-1]
 
 1
 
-[Annexe : Liste des prestations universitaires tertiaires dans le canton de Vaud](https://prestations.vd.ch/pub/blv-publication/api/actes/c403761e-e0fd-4482-ac83-c7a8b1933d58/annexes/1?dmev=01.01.2020)
+[Annexe 1](https://prestations.vd.ch/pub/blv-publication/api/actes/c403761e-e0fd-4482-ac83-c7a8b1933d58/annexes/1?dmev=01.01.2024)
+
+2
+
+[Annexe 2](https://prestations.vd.ch/pub/blv-publication/api/actes/c403761e-e0fd-4482-ac83-c7a8b1933d58/annexes/2?dmev=01.01.2024)
 
 [^11-1]: Modif. 1 du 07.12.2011: Modification Annexes, Ann. 1; entrée en vigueur au 01.01.2012 · Modif. 5 du 04.10.2023: Abrogation Annexes, Ann. 1; entrée en vigueur au 01.01.2024
