@@ -4,11 +4,11 @@ title: "Ordinanza del DEFR del 18 giugno 2010 concernente l'esecuzione della sor
 short: OComp-OSPro
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/378"
 language: it
-version: 2019-01-01
+version: 2024-01-01
 adopted: 2010-06-18
 in_force: 2010-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/378/20190101/it/xml/fedlex-data-admin-ch-eli-cc-2010-378-20190101-it-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/378/20190101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/378/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2010-378-20240101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/378/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/378/20190101/it"
 
 (OComp-OSPro)[^t-1]
 
-del 18 giugno 2010 (Stato 1° gennaio 2019)
+del 18 giugno 2010 (Stato 1° gennaio 2024)
 
 [^t-1]: Nuovo testo giusta il n. I dell’O del DEFR del 25 nov. 2015, in vigore dal 20 apr. 2016 ([RU 2016 215](https://fedlex.data.admin.ch/eli/oc/2016/25)).
 
@@ -119,7 +119,7 @@ Allegato[^t-2]
 
 ## Categorie di prodotti e organi di controllo competenti
 
-[^t-2]: Aggiornato dal n. II dell’O del DEFR del 25 nov. 2015, in vigore dal 20 apr. 2016 ([RU 2016 215](https://fedlex.data.admin.ch/eli/oc/2016/25)).
+[^t-2]: Aggiornato dal n. II dell’O del DEFR del 25 nov. 2015 ([RU 2016 215](https://fedlex.data.admin.ch/eli/oc/2016/25)) e dal n. I dell’O del DEFR del 1° nov. 2023, in vigore dal 1° gen. 2024 (RU **20****23** 648).
 
 <table>
 <tr><th>Categorie di prodotti</th><th>Organo di controllo competente</th></tr>
@@ -129,9 +129,9 @@ Allegato[^t-2]
 <tr><td>3. nell’agricoltura e nell’orticoltura, ad eccezione dei prodotti di cui al numero 4,</td><td>agriss (Fondazione Agri-Sicurezza Svizzera)</td></tr>
 <tr><td>4. impianti di trasporto al di fuori delle aziende, in cui una struttura (cabina, ascensore, piattaforma, scale mobili, tappeti mobili o strutture simili) è spostata lungo una o più guide e la cui sicurezza non è disciplinata in altro modo a livello federale, ad eccezione dei materiali specifici per i parchi di divertimento.</td><td>Ispettorato federale per gli ascensori operativi in ambito non aziendale (IFA)</td></tr>
 <tr><td>b. Apparecchi a gas, in particolare secondo l’ordinanza del 25 ottobre 2017[^annexu1-lvlu1-2] sugli apparecchi a gas, nonché altri prodotti destinati:</td><td></td></tr>
-<tr><td>1. alla produzione e all’impiego di combustibili e carburanti gassosi come il gas urbano, il gas naturale, il gas liquido, il gas di depurazione, il biogas o altri gas simili,</td><td>Società svizzera dell’industria del gas e delle acque (SSIGA)</td></tr>
-<tr><td>2. alla produzione e all’impiego di gas tecnici e di gas per uso medico,</td><td>Associazione svizzera per la tecnica della saldatura (ASS)</td></tr>
-<tr><td>3. alla saldatura, al taglio e a procedimenti affini in cui si utilizza il gas.</td><td>Associazione svizzera per la tecnica della saldatura (ASS)</td></tr>
+<tr><td>1. alla produzione e all’impiego di combustibili e carburanti gassosi come il gas urbano, il gas naturale, il gas liquido, il gas di depurazione, il biogas o altri gas simili,</td><td>Associazione per l’acqua, il gas e il calore (SVGW)</td></tr>
+<tr><td>2. alla produzione e all’impiego di gas tecnici e di gas per uso medico,</td><td>Associazione per l’acqua, il gas e il calore (SVGW)</td></tr>
+<tr><td>3. alla saldatura, al taglio e a procedimenti affini in cui si utilizza il gas;</td><td>Associazione per l’acqua, il gas e il calore (SVGW)</td></tr>
 <tr><td>c. Dispositivi di protezione individuale, in particolare secondo l’ordinanza del 25 ottobre 2017[^annexu1-lvlu1-3] sui DPI:</td><td></td></tr>
 <tr><td>1. nelle aziende, ad eccezione dei prodotti di cui al numero 3,</td><td>Istituto nazionale svizzero di assicurazione contro gli infortuni (Suva)</td></tr>
 <tr><td>2. al di fuori delle aziende, in particolare nell’ambito della circolazione stradale, dello sport e dell’economia domestica, ad eccezione dei prodotti di cui al numero 3,</td><td>Ufficio svizzero per la prevenzione degli infortuni (upi)</td></tr>
@@ -140,16 +140,16 @@ Allegato[^t-2]
 <tr><td>e. Ascensori secondo l’articolo 1 dell’ordinanza del 25 novembre 2015 sugli ascensori:</td><td></td></tr>
 <tr><td>1. nelle aziende,</td><td>Istituto nazionale svizzero di assicurazione contro gli infortuni (Suva)</td></tr>
 <tr><td>2. al di fuori delle aziende.</td><td>Ispettorato federale per gli ascensori operativi in ambito non aziendale (IFA)</td></tr>
-<tr><td>f. Prodotti destinati alla saldatura, al taglio e a procedimenti affini in cui non si utilizza il gas.</td><td>Associazione svizzera per la tecnica della saldatura (ASS)</td></tr>
-<tr><td>g. Prodotti per i sistemi di approvvigionamento idrico e le installazioni di acqua potabile.</td><td>Società svizzera dell’industria del gas e delle acque (SSIGA)</td></tr>
-<tr><td>h. Prodotti che non sono contemplati alle lettere a-g del presente allegato:</td><td></td></tr>
+<tr><td>f. Prodotti destinati alla saldatura, al taglio e a procedimenti affini in cui non si utilizza il gas;</td><td>Associazione per l’acqua, il gas e il calore (SVGW)</td></tr>
+<tr><td>g. Prodotti per i sistemi di approvvigionamento idrico e le installazioni di acqua potabile;</td><td>Associazione per l’acqua, il gas e il calore (SVGW)</td></tr>
+<tr><td>h. Prodotti che non sono contemplati alle lettere a–g del presente allegato:</td><td></td></tr>
 <tr><td>1. nelle aziende, ad eccezione dei prodotti di cui al numero 3,</td><td>Istituto nazionale svizzero di assicurazione contro gli infortuni (Suva)</td></tr>
 <tr><td>2. al di fuori delle aziende, in particolare nell’ambito della circolazione stradale, dello sport e dell’economia domestica, ad eccezione dei prodotti di cui al numero 3,</td><td>Ufficio svizzero per la prevenzione degli infortuni (upi)</td></tr>
 <tr><td>3. nell’agricoltura e nell’orticoltura.</td><td>agriss (Fondazione Agri-Sicurezza Svizzera)</td></tr>
 </table>
 
 [^annexu1-lvlu1-1]: [RS 819.14](https://fedlex.data.admin.ch/eli/cc/2008/263)
-[^annexu1-lvlu1-2]: [RS 930.116](https://fedlex.data.admin.ch/eli/cc/2017/636).Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 21 apr. 2018.
+[^annexu1-lvlu1-2]: [RS 930.116](https://fedlex.data.admin.ch/eli/cc/2017/636)
 [^annexu1-lvlu1-3]: [RS 930.115](https://fedlex.data.admin.ch/eli/cc/2017/635).Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 21 apr. 2018.
 [^annexu1-lvlu1-4]: [RS 930.114](https://fedlex.data.admin.ch/eli/cc/2016/28)
 [^annexu1-lvlu1-5]: [RS 930.113](https://fedlex.data.admin.ch/eli/cc/2016/27)

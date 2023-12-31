@@ -4,11 +4,11 @@ title: "Ordonnance du DEFR du 18 juin 2010 sur l'exécution de la surveillance d
 short: OComp-OSPro
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/378"
 language: fr
-version: 2019-01-01
+version: 2024-01-01
 adopted: 2010-06-18
 in_force: 2010-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/378/20190101/fr/xml/fedlex-data-admin-ch-eli-cc-2010-378-20190101-fr-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/378/20190101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/378/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2010-378-20240101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/378/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/378/20190101/fr"
 
 (OComp-OSPro)[^t-1]
 
-du 18 juin 2010 (État le 1<sup>er</sup> janvier 2019)
+du 18 juin 2010 (État le 1<sup>er</sup> janvier 2024)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du DEFR du 25 nov. 2015, en vigueur depuis le 20 avr. 2016 ([RO 2016 215](https://fedlex.data.admin.ch/eli/oc/2016/25)).
 
@@ -66,7 +66,7 @@ L’annexe de la présente ordonnance règle quel organe de contrôle est compé
 
 <sup>1</sup> Lorsqu’un produit relève de plusieurs catégories de produits, les organes de contrôle compétents coordonnent leurs activités.
 
-<sup>2</sup> Le Secrétariat d’Etat à l’économie (SECO) tranche s’il y a conflit de compétence.
+<sup>2</sup> Le Secrétariat d’État à l’économie (SECO) tranche s’il y a conflit de compétence.
 
 #### Art. 5
 
@@ -119,7 +119,7 @@ Annexe[^t-2]
 
 ## Catégories de produits et organes de contrôle compétents
 
-[^t-2]: Mise à jour selon le ch. II de l’O du DEFR du 25 nov. 2015, en vigueur depuis le 20 avr. 2016 ([RO 2016 215](https://fedlex.data.admin.ch/eli/oc/2016/25)).
+[^t-2]: Mise à jour par le ch. II de l’O du DEFR du 25 nov. 2015 ([RO 2016 215](https://fedlex.data.admin.ch/eli/oc/2016/25)) et le ch. I de l’O du DEFR du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 648](https://fedlex.data.admin.ch/eli/oc/2023/648)).
 
 <table>
 <tr><th>Catégorie de produits</th><th>Organe de contrôle compétent</th></tr>
@@ -129,9 +129,9 @@ Annexe[^t-2]
 <tr><td>3. dans l’agriculture et l’horticulture, à l’exception des produits visés au ch. 4,</td><td>agriss (fondation Agri-Sécurité suisse)</td></tr>
 <tr><td>4. installations de transport hors des entreprises dont l’engin de transport (cabine, ascenseur, plate-forme, escalier roulant, trottoir roulant ou engin similaire) se déplace le long d’un ou plusieurs guides et dont la sécurité n’est pas réglée par un autre acte législatif fédéral, à l’exception des matériels spécifiques pour fêtes foraines et parcs d’attractions;</td><td>Inspection fédérale des ascenseurs en dehors du domaine professionnel (IFA)</td></tr>
 <tr><td>b. appareils à gaz, en particulier ceux visés par l’ordonnance du 25 octobre 2017 sur les appareils à gaz[^annexu1-lvlu1-2], ainsi que d’autres produits servant:</td><td></td></tr>
-<tr><td>1. à la fabrication et à l’utilisation de gaz combustibles et de carburants tels le gaz de ville, le gaz naturel, le gaz liquéfié, le gaz de digestion, le biogaz ou d’autres gaz similaires,</td><td>Société suisse de l’industrie du gaz et des eaux (SSIGE)</td></tr>
-<tr><td>2. à la fabrication et à l’utilisation de gaz techniques et de gaz pour le domaine médical,</td><td>Association suisse pour la technique de soudage (ASS)</td></tr>
-<tr><td>3. au soudage, au coupage et aux procédés apparentés utilisant le gaz;</td><td>Association suisse pour la technique de soudage (ASS)</td></tr>
+<tr><td>1. à la fabrication et à l’utilisation de gaz combustibles et de carburants tels le gaz de ville, le gaz naturel, le gaz liquéfié, le gaz de digestion, le biogaz ou d’autres gaz similaires,</td><td>Association pour l’eau, le gaz et la chaleur (SVGW)</td></tr>
+<tr><td>2. à la fabrication et à l’utilisation de gaz techniques et de gaz pour le domaine médical,</td><td>Association pour l’eau, le gaz et la chaleur (SVGW)</td></tr>
+<tr><td>3. au soudage, au coupage et aux procédés apparentés utilisant le gaz;</td><td>Association pour l’eau, le gaz et la chaleur (SVGW)</td></tr>
 <tr><td>c. équipements de protection individuelle, en particulier ceux visés par l’ordonnance du 25 octobre 2017 sur les EPI[^annexu1-lvlu1-3]:</td><td></td></tr>
 <tr><td>1. dans les entreprises, à l’exception des produits visés au ch. 3,</td><td>Caisse nationale suisse d’assurance en cas d’accidents (CNA)</td></tr>
 <tr><td>2. hors des entreprises, en particulier dans le cadre de la circulation routière, des sports et des ménages, à l’exception des produits visés au ch. 3,</td><td>Bureau suisse de prévention des accidents (bpa)</td></tr>
@@ -140,8 +140,8 @@ Annexe[^t-2]
 <tr><td>e. ascenseurs visés à l’art. 1 de l’ordonnance du 25 novembre 2015 sur les ascenseurs:</td><td></td></tr>
 <tr><td>1. dans les entreprises,</td><td>Caisse nationale suisse d’assurance en cas d’accidents (CNA)</td></tr>
 <tr><td>2. hors des entreprises;</td><td>Inspection fédérale des ascenseurs en dehors du domaine professionnel (IFA)</td></tr>
-<tr><td>f. produits servant au soudage, au coupage et aux procédés apparentés n’utilisant pas le gaz;</td><td>Association suisse pour la technique de soudage (ASS)</td></tr>
-<tr><td>g. produits utilisés pour les systèmes d’alimentation en eau et les installations d’eau potable;</td><td>Société suisse de l’industrie du gaz et des eaux (SSIGE)</td></tr>
+<tr><td>f. produits servant au soudage, au coupage et aux procédés apparentés n’utilisant pas le gaz;</td><td>Association pour l’eau, le gaz et la chaleur (SVGW)</td></tr>
+<tr><td>g. produits utilisés pour les systèmes d’alimentation en eau et les installations d’eau potable;</td><td>Association pour l’eau, le gaz et la chaleur (SVGW)</td></tr>
 <tr><td>h. produits qui n’entrent pas dans le cadre des let. a à g de la présente annexe:</td><td></td></tr>
 <tr><td>1. dans les entreprises, à l’exception des produits visés au ch. 3,</td><td>Caisse nationale suisse d’assurance en cas d’accidents (CNA)</td></tr>
 <tr><td>2. hors des entreprises, en particulier dans le cadre de la circulation routière, des sports et des ménages, à l’exception des produits visés au ch. 3,</td><td>Bureau suisse de prévention des accidents (bpa)</td></tr>
@@ -149,7 +149,7 @@ Annexe[^t-2]
 </table>
 
 [^annexu1-lvlu1-1]: [RS 819.14](https://fedlex.data.admin.ch/eli/cc/2008/263)
-[^annexu1-lvlu1-2]: [RS 930.116](https://fedlex.data.admin.ch/eli/cc/2017/636). Le renvoi a été adapté au 21 avril 2018 en application de l’art. 12 al. 2 de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
+[^annexu1-lvlu1-2]: [RS 930.116](https://fedlex.data.admin.ch/eli/cc/2017/636)
 [^annexu1-lvlu1-3]: [RS 930.115](https://fedlex.data.admin.ch/eli/cc/2017/635). Le renvoi a été adapté au 21 avril 2018 en application de l’art. 12 al. 2 de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
 [^annexu1-lvlu1-4]: [RS 930.114](https://fedlex.data.admin.ch/eli/cc/2016/28)
 [^annexu1-lvlu1-5]: [RS 930.113](https://fedlex.data.admin.ch/eli/cc/2016/27)
