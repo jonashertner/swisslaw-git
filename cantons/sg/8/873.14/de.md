@@ -3,20 +3,19 @@ canton: SG
 number: "873.14"
 title: Geschäftsreglement der Gebäudeversicherung St.Gallen
 language: de
-version: 2021-01-01
-valid_until: 2023-12-31
-version_adopted: 2021-03-22
+version: 2024-01-01
+version_adopted: 2023-11-03
 adopted: 2021-03-22
 in_force: 2021-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/873.14"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3163/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3561/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Geschäftsreglement der Gebäudeversicherung St.Gallen
 
-vom 22.03.2021 (Stand 01.01.2021)
+vom 22.03.2021 (Stand 01.01.2024)
 
 Der Verwaltungsrat der Gebäudeversicherung St.Gallen
 
@@ -162,12 +161,11 @@ als Geschäftsreglement:[^ingress-2]
 - e) Festlegung der Ansätze für die Entschädigung der politischen Gemeinden für die Mitwirkung in der Gebäudeversicherung;
 - f) Kenntnisnahme von Versicherungsleistungen, wenn die Schadensumme Fr. 500'000.– übersteigt;
 - g) Beschlussfassung über die Ausrichtung einer zusätzlichen Versicherungsleistung nach Art. 37<sup>bis</sup> Abs. 1 GVG;
-- h) Gewährung von Beiträgen nach der Verordnung über Beiträge zur Verhütung von Elementarschäden vom 11. Dezember 2012[^8-1] und aus dem Feuerschutzfonds[^8-2] von mehr als Fr. 100'000.–, im Bereich Löschwasser von mehr als Fr. 150'000.–;
+- h) Gewährung von Beiträgen aus dem Feuerschutzfonds[^8-1] an Projekte im Bereich Löschwasser, deren Gesamtkosten 10 Mio. Franken übersteigen;
 - i) Beschlussfassung über Eintritt in oder Austritt aus Gemeinschaftsorganisationen der kantonalen Gebäudeversicherungen oder Verbänden mit besonderer geschäftspolitischer Bedeutung;
 - j) Rekursentscheide gegen Verfügungen und Entscheide der Verwaltung im Bereich der Versicherung.
 
-[^8-1]: sGS [873.12](https://www.gesetzessammlung.sg.ch/data/873.12/de).
-[^8-2]: Vgl. [Art. 53](https://www.gesetzessammlung.sg.ch/data/873.1/de/art53) Abs. 2 Bst. c GVG bzw. [Art. 43](https://www.gesetzessammlung.sg.ch/data/871.1/de/art43) FSG.
+[^8-1]: Vgl. [Art. 43](https://www.gesetzessammlung.sg.ch/data/871.11/de/art43) der Feuerschutzverordnung vom 13. Oktober 2020, sGS [871.11](https://www.gesetzessammlung.sg.ch/data/871.11/de).
 
 #### Art. 9
 
