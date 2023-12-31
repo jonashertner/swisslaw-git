@@ -4,11 +4,11 @@ number: "415.111"
 title: Universitätsordnung der Universität Zürich (UniO)
 short: UniO
 language: de
-version: "2021-10-01"
-nachtrag: "115"
-valid_until: 2024-01-01
+version: "2024-01-01"
+nachtrag: "123"
+valid_until: 2024-08-01
 adopted: 1998-12-04
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-415_111-1998_12_04-1999_01_01-115.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-415_111-1998_12_04-1999_01_01-123.html"
 text: pdf
 ---
 
@@ -62,7 +62,7 @@ An der Universität gilt akademische Forschungs-, Lehr- und Lernfreiheit. Sie is
 
 **1**
 
-1.10. 21 - 114 § 5. <sup>1</sup> Die Wahrnehmung der ethischen Verantwortung in Forschung, Lehre und Dienstleistung obliegt in erster Linie den wissenschaftlich tätigen Personen.<sup>23</sup>
+- 1\. 1. 24 - 123 § 5. <sup>1</sup> Die Wahrnehmung der ethischen Verantwortung in Forschung, Lehre und Dienstleistung obliegt in erster Linie den wissenschaftlich tätigen Personen.<sup>23</sup>
 
 **Ethische Verantwortung**
 
@@ -132,11 +132,11 @@ An der Universität gilt akademische Forschungs-, Lehr- und Lernfreiheit. Sie is
 
 <sup>3bis</sup> In begründeten Fällen kann die Universitätsleitung auf Antrag der Fakultät ein Direktberufungsverfahren ohne Evaluation mehrerer Kandidatinnen und Kandidaten bewilligen.
 
-<sup>4</sup> Auf Antrag des Fakultätsvorstands setzt die Universitätsleitung eine Berufungskommission ein, der mindestens zwei externe Expertinnen oder Experten angehören. An der Theologischen Fakultät kann die Fakultätsversammlung die Aufgaben der Berufungskommission wahrnehmen.<sup>20</sup>
+<sup>4</sup> Auf Antrag des Fakultätsvorstands setzt die Universitätsleitung eine Berufungskommission ein, der mindestens zwei externe Expertinnen oder Experten angehören. An der Theologischen und Religionswissenschaftlichen Fakultät kann die Fakultätsversammlung die Aufgaben der Berufungskommission wahrnehmen.<sup>38</sup>
 
 **3**
 
-1.10. 21 - 114
+- 1\. 1. 24 - 123
 
 <sup>5</sup> Die Berufungskommission erarbeitet einen Einer- bis Dreiervorschlag und stellt einen begründeten Antrag an die Universitätsleitung. Für die Auswahl der Kandidatinnen und Kandidaten sind deren wissenschaftliche Leistungen in Forschung und Lehre sowie deren soziale Kompetenzen und Führungsqualitäten massgebend. Für klinisch tätige Professorinnen und Professoren sind zusätzlich ausgewiesene klinische Kompetenzen erforderlich. Den Anliegen der Gleichstellung ist Rechnung zu tragen.
 
@@ -202,7 +202,7 @@ An der Universität gilt akademische Forschungs-, Lehr- und Lernfreiheit. Sie is
 
 **5**
 
-1.10. 21 - 114
+- 1\. 1. 24 - 123
 
 <sup>3</sup> Die Anstellung ist in der Regel unbefristet. Die Anstellungsbedingungen richten sich nach der Personalverordnung der Universität<sup>8</sup>.
 
@@ -278,7 +278,7 @@ An der Universität gilt akademische Forschungs-, Lehr- und Lernfreiheit. Sie is
 
 **7**
 
-1.10. 21 - 114 § 23.<sup>27</sup> <sup>1</sup> Der Verband der Studierenden der Universität Zürich (VSUZH) vertritt den Stand der Studierenden gegenüber den Universitätsorganen und der Öffentlichkeit und informiert sie über studentische und hochschulpolitische Angelegenheiten.
+- 1\. 1. 24 - 123 § 23.<sup>27</sup> <sup>1</sup> Der Verband der Studierenden der Universität Zürich (VSUZH) vertritt den Stand der Studierenden gegenüber den Universitätsorganen und der Öffentlichkeit und informiert sie über studentische und hochschulpolitische Angelegenheiten.
 
 **VSUZH**
 
@@ -350,7 +350,7 @@ An der Universität gilt akademische Forschungs-, Lehr- und Lernfreiheit. Sie is
 
 **9**
 
-1.10. 21 - 114
+- 1\. 1. 24 - 123
 
 <sup>3</sup> Wenn die Zugehörigkeit zu mehr als einem Stand möglich ist, gelten folgende Grundsätze:
 
@@ -436,7 +436,7 @@ An der Universität gilt akademische Forschungs-, Lehr- und Lernfreiheit. Sie is
 
 **11**
 
-1.10. 21 - 114 § 32.<sup>35</sup> <sup>1</sup> Die Universität führt ein Finanzgefäss für die universitäre Forschungsförderung (UFO), aus dem ausgewählte Forschungsprojekte finanziert werden.
+- 1\. 1. 24 - 123 § 32.<sup>35</sup> <sup>1</sup> Die Universität führt ein Finanzgefäss für die universitäre Forschungsförderung (UFO), aus dem ausgewählte Forschungsprojekte finanziert werden.
 
 **Universitäre Forschungsförderung**
 
@@ -586,9 +586,7 @@ An der Universität gilt akademische Forschungs-, Lehr- und Lernfreiheit. Sie is
 
 **Fakultäten**
 
-§ 46.<sup>27</sup> Die Universität gliedert sich in folgende Fakultäten:
-
-- 1\. Theologische Fakultät,
+§ 46.<sup>27</sup> Die Universität gliedert sich in folgende Fakultäten: 1.<sup>38</sup> Theologische und Religionswissenschaftliche Fakultät,
 
 - 2\. Rechtswissenschaftliche Fakultät,
 
@@ -604,7 +602,7 @@ An der Universität gilt akademische Forschungs-, Lehr- und Lernfreiheit. Sie is
 
 **15**
 
-1.10. 21 - 114
+- 1\. 1. 24 - 123
 
 ### 2. Abschnitt: Organisation und Aufgaben der gesamtuniversitären Organe und Gremien
 
@@ -700,7 +698,7 @@ Der Universitätsrat erlässt ein Organisationsreglement<sup>3</sup>.
 
 **17**
 
-1.10. 21 - 114 § 54.<sup>27</sup> <sup>1</sup> Der Universitätsrat leitet das Verfahren zur Wahl der Rektorin oder des Rektors, der Prorektorinnen und Prorektoren sowie der Direktorin oder des Direktors Universitäre Medizin. Er setzt die Findungskommission ein.
+- 1\. 1. 24 - 123 § 54.<sup>27</sup> <sup>1</sup> Der Universitätsrat leitet das Verfahren zur Wahl der Rektorin oder des Rektors, der Prorektorinnen und Prorektoren sowie der Direktorin oder des Direktors Universitäre Medizin. Er setzt die Findungskommission ein.
 
 **Wahl der Rektorin oder des Rektors, der Prorektorinnen und Prorektoren sowie der Direktorin oder des Direktors Universitäre Medizin**
 
@@ -764,7 +762,7 @@ Der Universitätsrat erlässt ein Organisationsreglement<sup>3</sup>.
 
 **19**
 
-1.10. 21 - 114
+- 1\. 1. 24 - 123
 
 <sup>3</sup> Der Universitätsleitung obliegen in abschliessender Kompetenz insbesondere folgende Aufgaben:
 
@@ -840,7 +838,7 @@ Die Erweiterte Universitätsleitung erlässt ein Organisationsreglement.
 
 **Rekurskommission**
 
-1.10. 21 - 114 § 61. <sup>1</sup> Die Erweiterte Universitätsleitung wird von der Rektorin oder vom Rektor nach Bedarf oder auf Verlangen von drei Mitgliedern einberufen.
+- 1\. 1. 24 - 123 § 61. <sup>1</sup> Die Erweiterte Universitätsleitung wird von der Rektorin oder vom Rektor nach Bedarf oder auf Verlangen von drei Mitgliedern einberufen.
 
 **Sitzungen**
 
@@ -914,7 +912,7 @@ Die Erweiterte Universitätsleitung erlässt ein Organisationsreglement.
 
 **23**
 
-1.10. 21 - 114 § 67.<sup>35</sup> <sup>1</sup> Die Forschungsförderungskommission entscheidet im Rahmen ihrer Zuständigkeit über Zusprachen aus Förderprogrammen des UFO.
+- 1\. 1. 24 - 123 § 67.<sup>35</sup> <sup>1</sup> Die Forschungsförderungskommission entscheidet im Rahmen ihrer Zuständigkeit über Zusprachen aus Förderprogrammen des UFO.
 
 **Forschungsförderungskommission**
 
@@ -984,7 +982,9 @@ Die Erweiterte Universitätsleitung erlässt ein Organisationsreglement.
 
 **25**
 
-1.10. 21 - 114 4. Zuteilung der fakultären Räume und der sonstigen fakultären Infrastruktur,
+- 1\. 1. 24 - 123
+
+- 4\. Zuteilung der fakultären Räume und der sonstigen fakultären Infrastruktur,
 
 - 5\. Führungsverantwortung gegenüber Professorinnen und Professoren im Rahmen der universitären Vorgaben,
 
@@ -1058,7 +1058,9 @@ Die Erweiterte Universitätsleitung erlässt ein Organisationsreglement.
 
 **27**
 
-1.10. 21 - 114 4. Ernennung zur Titularprofessorin oder zum Titularprofessor und zur klinischen Dozentin oder zum klinischen Dozenten sowie Verlängerung und Entzug der Titularprofessur,
+- 1\. 1. 24 - 123
+
+- 4\. Ernennung zur Titularprofessorin oder zum Titularprofessor und zur klinischen Dozentin oder zum klinischen Dozenten sowie Verlängerung und Entzug der Titularprofessur,
 
 - 5\. Genehmigung des Organisationsreglements der Fakultät.
 
@@ -1132,7 +1134,9 @@ Die Erweiterte Universitätsleitung erlässt ein Organisationsreglement.
 
 **29**
 
-1.10. 21 - 114 3. Anträge betreffend Schaffung, Umwandlung und Aufhebung von Lehrstühlen,
+- 1\. 1. 24 - 123
+
+- 3\. Anträge betreffend Schaffung, Umwandlung und Aufhebung von Lehrstühlen,
 
 - 4\. Zuweisung der Aufgabenbereiche an die Vizedekaninnen und Vizedekane.
 
@@ -1216,7 +1220,7 @@ Die Erweiterte Universitätsleitung erlässt ein Organisationsreglement.
 
 **31**
 
-1.10. 21 - 114
+- 1\. 1. 24 - 123
 
 ### 6. Teil: Schluss- und Übergangsbestimmungen<sup>18</sup>
 
@@ -1239,10 +1243,6 @@ Die Erweiterte Universitätsleitung erlässt ein Organisationsreglement.
 <sup>3</sup> Titularprofessorinnen und -professoren, die vor dem 1. August 2017 ernannt worden sind, haben das Recht, den Titel bis 31. Juli 2023 weiterzuführen. Vorbehalten bleibt der Entzug des Titels aus wichtigen Gründen. Lehrleistungen und Entschädigung richten sich nach Abs. 1.
 
 § 85.<sup>32</sup>
-
-<sup>16</sup> SR 220.
-
-<sup>17</sup> SR 818.101.24.
 
 <sup>18</sup> Fassung gemäss URB vom 7. Juli 2003 (OS 58, 187). In Kraft seit 1. September 2003.
 
@@ -1284,13 +1284,15 @@ Die Erweiterte Universitätsleitung erlässt ein Organisationsreglement.
 
 <sup>37</sup> Nummerierung gemäss URB vom 15. Juli 2021 (OS 76, 307; ABl 2021-07-23). In Kraft seit 1. Oktober 2021.
 
+<sup>38</sup> Fassung gemäss URB vom 8. Mai 2023 (OS 78, 264; ABl 2023-05-19). In Kraft seit 1. Januar 2024.
+
 **33**
 
-1.10. 21 - 114
+- 1\. 1. 24 - 123
 
 ## Weitere Fussnoten
 
-- [*] vetsuisse.ch/dokumente 1.10. 21 - 114 13
+- [*] vetsuisse.ch/dokumente 1. 1. 24 - 123 13
 - [1] OS 55, 12.
 - [2] Vom Universitätsrat erlassen.
 - [3] LS 415.111.1.
@@ -1306,3 +1308,5 @@ Die Erweiterte Universitätsleitung erlässt ein Organisationsreglement.
 - [13] LS 415.33.
 - [14] LS 415.34.
 - [15] LS 415.431.
+- [16] SR 220.
+- [17] SR 818.101.24.
