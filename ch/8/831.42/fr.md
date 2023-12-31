@@ -4,11 +4,11 @@ title: "Loi fédérale du 17 décembre 1993 sur le libre passage dans la prévoy
 short: LFLP
 eli: "https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386"
 language: fr
-version: 2022-01-01
+version: 2024-01-01
 adopted: 1993-12-17
 in_force: 1995-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1994-2386_2386_2386-20220101-fr-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1994/2386_2386_2386/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-1994-2386_2386_2386-20240101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1994/2386_2386_2386/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1994/2386_2386_2386/20220101/fr"
 
 (Loi sur le libre passage, LFLP)
 
-du 17 décembre 1993 (État le 1<sup>er</sup> janvier 2022)
+du 17 décembre 1993 (État le 1<sup>er</sup> janvier 2024)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -39,6 +39,11 @@ arrête:
 
 <sup>3</sup> Elle s’applique par analogie aux régimes de retraite où l’assuré a droit à des prestations lors de la survenance d’un cas de prévoyance.
 
+<sup>4</sup> Elle ne s’applique pas aux rapports de prévoyance dans lesquels une institution de prévoyance qui n’est pas financée selon le système de capitalisation garantit le droit à des rentes transitoires jusqu’à l’âge de référence fixé à l’art. 21, al. 1, de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants[^1-1].[^1-2]
+
+[^1-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^1-2]: Introduit par l’annexe ch. 5 de la LF du 17 déc. 2021 (AVS 21), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5979](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+
 ## Section 2 Droits et obligations de l’institution de prévoyance lors du départ de l’assuré
 
 #### Art. 2
@@ -47,7 +52,7 @@ arrête:
 
 <sup>1</sup> Si l’assuré quitte l’institution de prévoyance avant la survenance d’un cas de prévoyance (cas de libre passage), il a droit à une prestation de sortie.
 
-<sup>1bis</sup> L’assuré a également droit à une prestation de sortie s’il quitte l’institution de prévoyance entre l’âge où le règlement lui ouvre au plus tôt le droit à une retraite anticipée et l’âge réglementaire ordinaire de la retraite, et s’il continue d’exercer une activité lucrative ou s’annonce à l’assurance-chômage. Si le règlement ne fixe pas d’âge ordinaire de la retraite, l’art. 13, al. 1, de la loi fédérale du 25 juin 1982 sur la prévoyance professionnelle vieillesse, survivants et invalidité (LPP)[^2-1] s’applique pour la détermination de cet âge.[^2-2]
+<sup>1bis</sup> L’assuré a également droit à une prestation de sortie s’il quitte l’institution de prévoyance entre l’âge minimal pour la perception de la prestation de vieillesse et l’âge de référence réglementaire, et qu’il continue d’exercer une activité lucrative ou s’annonce à l’assurance-chômage. Si le règlement ne fixe pas d’âge de référence, l’art. 13, al. 1, de la loi fédérale du 25 juin 1982 sur la prévoyance professionnelle vieillesse, survivants et invalidité (LPP)[^2-1] s’applique pour la détermination de cet âge.[^2-2]
 
 <sup>1ter</sup> De même, l’assuré dont la rente de l’assurance-invalidité est réduite ou supprimée en raison de l’abaissement de son taux d’invalidité a droit à une prestation de sortie au terme du maintien provisoire de l’assurance et du droit aux prestations prévu à l’art. 26*a*, al. 1 et 2, LPP.[^2-3]
 
@@ -58,10 +63,10 @@ arrête:
 <sup>4</sup> Si l’institution de prévoyance ne transfère pas la prestation échue dans les trente jours après avoir reçu toutes les informations nécessaires, elle est tenue de verser l’intérêt moratoire prévu à l’art. 26, al. 2, à partir de ce moment-là.[^2-5]
 
 [^2-1]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
-[^2-2]: Introduit par le ch. I de la LF du 12 juin 2009, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 5187](https://fedlex.data.admin.ch/eli/oc/2009/609); [FF 2009 929](https://fedlex.data.admin.ch/eli/fga/2009/231)[937](https://fedlex.data.admin.ch/eli/fga/2009/233)).
-[^2-3]: Introduit par le ch. 7 de l’annexe à la LF du 18 mars 2011 (6<sup>e</sup> révision de l’AI, 1<sup>er</sup> volet, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799); [FF 2010 1647](https://fedlex.data.admin.ch/eli/fga/2010/340)).
-[^2-4]: Nouvelle teneur selon le ch. I de la LF du 12 juin 2009, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 5187](https://fedlex.data.admin.ch/eli/oc/2009/609); [FF 2009 929](https://fedlex.data.admin.ch/eli/fga/2009/231), [937](https://fedlex.data.admin.ch/eli/fga/2009/233)).
-[^2-5]: Introduit par le ch. 3 de l’annexe à la LF du 3 oct. 2003 (1<sup>re</sup> révision LPP), en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2495](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^2-2]: Introduit par le ch. I de la LF du 12 juin 2009 ([RO 2009 5187](https://fedlex.data.admin.ch/eli/oc/2009/609); [FF 2009 929](https://fedlex.data.admin.ch/eli/fga/2009/231)[937](https://fedlex.data.admin.ch/eli/fga/2009/233)). Nouvelle teneur selon l’annexe ch. 5 de la LF du 17 déc. 2021 (AVS 21), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5979](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^2-3]: Introduit par l’annexe ch. 7 de la LF du 18 mars 2011 (6<sup>e</sup> révision de l’AI, 1<sup>er</sup> volet, en vigueur depuis le 1<sup>er janv.</sup> 2012 ([RO 2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799); [FF 2010 1647](https://fedlex.data.admin.ch/eli/fga/2010/340)).
+[^2-4]: Nouvelle teneur selon le ch. I de la LF du 12 juin 2009, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 5187](https://fedlex.data.admin.ch/eli/oc/2009/609); [FF 2009 929](https://fedlex.data.admin.ch/eli/fga/2009/231)[937](https://fedlex.data.admin.ch/eli/fga/2009/233)).
+[^2-5]: Introduit par l’annexe ch. 3 de la LF du 3 oct. 2003 (1<sup>re</sup> révision LPP), en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2495](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 
 #### Art. 3
 
@@ -91,7 +96,7 @@ Si l’assuré entre dans une autre institution de prévoyance, l’institution 
 <sup>3</sup> Lorsqu’elle exécute la tâche prévue à l’al. 2, l’institution supplétive agit en qualité d’institution de libre passage chargée de la gestion des comptes de libre passage.
 
 [^4-1]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
-[^4-2]: Nouvelle teneur selon le ch. 3 de l’annexe à la LF du 3 oct. 2003 (1<sup>re</sup> révision LPP), en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2495](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^4-2]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 3 oct. 2003 (1<sup>re</sup> révision LPP), en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2495](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 [^4-3]: Introduit par le ch. I 11 de la LF du 19 mars 1999 sur le programme de stabilisation 1998, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 1999 2374](https://fedlex.data.admin.ch/eli/oc/1999/363); FF **1999** 3).
 
 #### Art. 5
@@ -110,15 +115,15 @@ L’assuré peut exiger le paiement en espèces de la prestation de sortie:
 
 <sup>3</sup> S’il n’est pas possible de recueillir ce consentement ou si le conjoint ou le partenaire enregistré le refuse sans motif légitime, l’assuré peut en appeler au tribunal civil.[^5-3]
 
-[^5-1]: Nouvelle teneur selon le ch. 3 de l’annexe à la LF du 3 oct. 2003 (1<sup>re</sup> révision LPP), en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2495](https://fedlex.data.admin.ch/eli/fga/2000/555)).
-[^5-2]: Nouvelle teneur selon le ch. 30 de l’annexe à la L du 18 juin 2004 sur le partenariat, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1192](https://fedlex.data.admin.ch/eli/fga/2003/194)).
-[^5-3]: Nouvelle teneur selon le ch. 5 de l’annexe à la LF du 19 juin 2015 (Partage de la prévoyance professionnelle en cas de divorce), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [FF 2013 4341](https://fedlex.data.admin.ch/eli/fga/2013/942)).
+[^5-1]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 3 oct. 2003 (1<sup>re</sup> révision LPP), en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2495](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^5-2]: Nouvelle teneur selon l’annexe ch. 30 de la L du 18 juin 2004 sur le partenariat, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1192](https://fedlex.data.admin.ch/eli/fga/2003/194)).
+[^5-3]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 19 juin 2015 (Partage de la prévoyance professionnelle en cas de divorce), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [FF 2013 4341](https://fedlex.data.admin.ch/eli/fga/2013/942)).
 
 #### Art. 5a
 
 [^5a-1]
 
-[^5a-1]: Introduit par le ch. I 8 de la LF du 8 oct. 1999 sur l’Ac. entre la Suisse et la CE et ses Etats membres sur la libre circulation des personnes ([RO 2002 701](https://fedlex.data.admin.ch/eli/oc/2002/140); [FF 1999 5440](https://fedlex.data.admin.ch/eli/fga/1999/1_6128_5440_5092)). Abrogé par le ch. 3 de l’annexe à la LF du 3 oct. 2003 (1<sup>re</sup> révision LPP), avec effet au 1<sup>er</sup> janv. 2005 ([RO 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2495](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^5a-1]: Introduit par le ch. I 8 de la LF du 8 oct. 1999 sur l’Ac. entre la Suisse et la CE et ses Etats membres sur la libre circulation des personnes ([RO 2002 701](https://fedlex.data.admin.ch/eli/oc/2002/140); [FF 1999 5440](https://fedlex.data.admin.ch/eli/fga/1999/1_6128_5440_5092)). Abrogé par l’annexe ch. 3 de la LF du 3 oct. 2003 (1<sup>re</sup> révision LPP), avec effet au 1<sup>er</sup> janv. 2005 ([RO 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2495](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 
 #### Art. 6
 
@@ -144,7 +149,18 @@ L’assuré peut exiger le paiement en espèces de la prestation de sortie:
 
 <sup>2</sup> L’institution de prévoyance doit indiquer à l’assuré toutes les possibilités législatives et réglementaires pour maintenir la prévoyance; elle doit notamment l’informer sur la prévoyance en cas de décès ou d’invalidité.
 
+<sup>3</sup>
+
+En cas de libre passage, l’institution de prévoyance est tenue de communiquer à toute nouvelle institution de prévoyance ou institution de libre passage, au sujet des personnes qui perçoivent ou ont perçu une prestation de vieillesse ou qui perçoivent une rente pour cause d’invalidité partielle, les informations relatives à la perception des prestations de vieillesse et d’invalidité qui sont nécessaires:
+
+- a. au calcul des possibilités de rachat ou du salaire assuré à titre obligatoire, et
+- b. au respect du nombre maximal de retraits en capital (art. 13*a*, al. 2, LPP).[^8-2]
+
+<sup>4</sup> Lors du transfert de la prestation de libre passage à une nouvelle institution de prévoyance ou de libre passage, l’institution de libre passage doit transmettre à celle-ci les informations visées à l’al. 3.[^8-3]
+
 [^8-1]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^8-2]: Introduit par l’annexe ch. 5 de la LF du 17 déc. 2021 (AVS 21), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5979](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^8-3]: Introduit par l’annexe ch. 5 de la LF du 17 déc. 2021 (AVS 21), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5979](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 
 ## Section 3 Droits et obligations de l’institution de prévoyance lors de l’entrée d’un assuré
 
@@ -171,7 +187,7 @@ L’assuré peut exiger le paiement en espèces de la prestation de sortie:
 
 <sup>3</sup> L’amortissement et les intérêts de la partie de la prestation d’entrée qui n’est pas couverte par la prestation de sortie de l’ancienne institution de prévoyance et qui n’est pas immédiatement payée sont réglés par les dispositions réglementaires ou par une convention passée entre l’assuré et l’institution de prévoyance.
 
-[^10-1]: Nouvelle teneur selon le ch. 3 de l’annexe à la LF du 3 oct. 2003 (1<sup>re</sup> révision LPP), en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2495](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^10-1]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 3 oct. 2003 (1<sup>re</sup> révision LPP), en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2495](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 
 #### Art. 11
 
@@ -211,7 +227,7 @@ L’assuré peut exiger le paiement en espèces de la prestation de sortie:
 
 [^sec4-1]
 
-[^sec4-1]: Nouvelle teneur selon le ch. 5 de l’annexe à la LF du 19 juin 2015 (Partage de la prévoyance professionnelle en cas de divorce), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [FF 2013 4341](https://fedlex.data.admin.ch/eli/fga/2013/942)).
+[^sec4-1]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 19 juin 2015 (Partage de la prévoyance professionnelle en cas de divorce), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [FF 2013 4341](https://fedlex.data.admin.ch/eli/fga/2013/942)).
 
 #### Art. 15
 
@@ -233,15 +249,17 @@ L’assuré peut exiger le paiement en espèces de la prestation de sortie:
 
 <sup>2</sup> Les prestations acquises sont calculées comme suit:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386/20220101/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386/20240101/fr/xml/image/image1.png)
 
 <sup>3</sup> Les prestations assurées sont fixées par le règlement. Elles sont déterminées par la période d’assurance possible. Les prestations temporaires au sens de l’art. 17, al. 2, peuvent être omises lors du calcul de la valeur actuelle, si elles ne sont pas financées selon le système de capitalisation.
 
 <sup>4</sup> La période d’assurance imputable se compose de la période de cotisations et de la période d’assurance rachetée. Elle commence au plus tôt avec le versement de cotisations à la prévoyance vieillesse.
 
-<sup>5</sup> La période d’assurance possible commence au même moment que la période d’assurance imputable et prend fin à la limite d’âge ordinaire prévue par le règlement.
+<sup>5</sup> La période d’assurance possible commence au même moment que la période d’assurance imputable et prend fin à la limite d’âge de référence réglementaire[^16-1].
 
 <sup>6</sup> La valeur actuelle doit être établie selon les règles actuarielles reconnues. Les valeurs actuelles doivent figurer sous forme de tableau dans le règlement.
+
+[^16-1]: Nouvelle expression selon l’annexe ch. 5 de la LF du 17 déc. 2021 (AVS 21), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5979](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 
 #### Art. 17
 
@@ -253,26 +271,29 @@ L’assuré peut exiger le paiement en espèces de la prestation de sortie:
 
 Les cotisations destinées à financer les prestations et la couverture des coûts ne peuvent être déduites des cotisations de l’assuré que si le règlement fixe le taux respectif des différentes cotisations et si leur nécessité est démontrée dans les comptes annuels ou dans leur annexe. Les cotisations suivantes peuvent être déduites:
 
-- a. cotisation destinée à financer les droits à des prestations d’invalidité jusqu’à l’âge ordinaire de la retraite;
-- b. cotisation destinée à financer les droits à des prestations de survivants à faire valoir avant l’âge ordinaire de la retraite;
-- c. cotisation destinée à financer des rentes transitoires jusqu’à l’âge ordinaire de la retraite. Le Conseil fédéral fixe les conditions détaillées de cette éventuelle déduction;
+- a. cotisation destinée à financer les droits à des prestations d’invalidité jusqu’à l’âge de référence[^17-1];
+- b. cotisation destinée à financer les droits à des prestations de survivants à faire valoir avant l’âge de référence;
+- c. cotisation destinée à financer des rentes transitoires jusqu’à l’âge de référence. Le Conseil fédéral fixe les conditions détaillées de cette éventuelle déduction;
 - d. cotisation pour frais d’administration;
 - e. cotisation destinée à la couverture des coûts du fonds de garantie;
-- f. cotisation destinée à la résorption d’un découvert.[^17-1]
+- f. cotisation destinée à la résorption d’un découvert;
+- g.[^17-2] cotisation destinée à financer la compensation des pertes liées à la conversion en rentes.[^17-3]
 
-<sup>3</sup> Si le règlement établit cette déduction en pour-cent des cotisations, les sommes prévues par le règlement pour financer l’adaptation des rentes en cours à l’évolution des prix selon l’art. 36 LPP[^17-2] et des prestations minimales pour les cas d’assurance survenant pendant la période transitoire selon l’art. 33 LPP peuvent également être déduites des cotisations de l’assuré.[^17-3]
+<sup>3</sup> Si le règlement établit cette déduction en pour-cent des cotisations, les sommes prévues par le règlement pour financer l’adaptation des rentes en cours à l’évolution des prix selon l’art. 36 LPP[^17-4] et des prestations minimales pour les cas d’assurance survenant pendant la période transitoire selon l’art. 33 LPP peuvent également être déduites des cotisations de l’assuré.[^17-5]
 
-<sup>4</sup> Les cotisations destinées à financer les prestations au sens de l’al. 2, let. a à c, ne peuvent être déduites des cotisations de l’assuré que si la part qui n’est pas affectée au financement des prestations et à la couverture des coûts au sens des al. 2 et 3 porte intérêts.[^17-4]
+<sup>4</sup> Les cotisations destinées à financer les prestations au sens de l’al. 2, let. a à c, ne peuvent être déduites des cotisations de l’assuré que si la part qui n’est pas affectée au financement des prestations et à la couverture des coûts au sens des al. 2 et 3 porte intérêts.[^17-6]
 
 <sup>5</sup> Un tiers au moins du total des cotisations réglementaires versées par l’employeur et l’employé sont réputées être les cotisations de l’employé.
 
-<sup>6</sup> La majoration de 4 % par année d’âge suivant la 20<sup>e</sup> année, prévue par l’al. 1, ne s’applique pas aux cotisations visées à l’art. 33*a* LPP.[^17-5]
+<sup>6</sup> La majoration de 4 % par année d’âge suivant la 20<sup>e</sup> année, prévue par l’al. 1, ne s’applique pas aux cotisations visées à l’art. 33*a* LPP.[^17-7]
 
-[^17-1]: Nouvelle teneur selon le ch. 5 de l’annexe à la LF du 18 juin 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 4635](https://fedlex.data.admin.ch/eli/oc/2004/711); [FF 2003 5835](https://fedlex.data.admin.ch/eli/fga/2003/1054)).
-[^17-2]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
-[^17-3]: Nouvelle teneur selon le ch. 3 de l’annexe à la LF du 3 oct. 2003 (1<sup>re</sup> révision LPP), en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2495](https://fedlex.data.admin.ch/eli/fga/2000/555)).
-[^17-4]: Nouvelle teneur selon le ch. 5 de l’annexe à la LF du 18 juin 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 4635](https://fedlex.data.admin.ch/eli/oc/2004/711); [FF 2003 5835](https://fedlex.data.admin.ch/eli/fga/2003/1054)).
-[^17-5]: Introduit par le ch. II 2 de la LF du 11 déc. 2009 (Mesures destinées à faciliter la participation des travailleurs âgés au marché du travail), en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 4427](https://fedlex.data.admin.ch/eli/oc/2010/622); [FF 2007 5381](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+[^17-1]: Nouvelle expression selon l’annexe ch. 5 de la LF du 17 déc. 2021 (AVS 21), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5979](https://fedlex.data.admin.ch/eli/fga/2019/2267)). Il n’a été tenu compte de cette mod. que dans la disp. mentionnée au RO.
+[^17-2]: Introduite par l’annexe ch. 3 de la LF du 18 mars 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [FF 2020 8637](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
+[^17-3]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 18 juin 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 4635](https://fedlex.data.admin.ch/eli/oc/2004/711); [FF 2003 5835](https://fedlex.data.admin.ch/eli/fga/2003/1054)).
+[^17-4]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^17-5]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 3 oct. 2003 (1<sup>re</sup> révision LPP), en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2495](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^17-6]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 18 juin 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 4635](https://fedlex.data.admin.ch/eli/oc/2004/711); [FF 2003 5835](https://fedlex.data.admin.ch/eli/fga/2003/1054)).
+[^17-7]: Introduit par le ch. II 2 de la LF du 11 déc. 2009 (Mesures destinées à faciliter la participation des travailleurs âgés au marché du travail), en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 4427](https://fedlex.data.admin.ch/eli/oc/2010/622); [FF 2007 5381](https://fedlex.data.admin.ch/eli/fga/2007/788)).
 
 #### Art. 18
 
@@ -290,7 +311,7 @@ Les institutions de prévoyance enregistrées doivent remettre à l’assuré au
 
 <sup>2</sup> La liquidation partielle ou totale est régie par les art. 53*b* à 53*d*, 72*a*, al. 4, et 72*c*, al. 1, let. b et c, LPP[^18a-2].[^18a-3]
 
-[^18a-1]: Anciennement art. 23. Nouvelle teneur selon le ch. 3 de l’annexe à la LF du 3 oct. 2003 (1<sup>re</sup> révision LPP), en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2495](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^18a-1]: Anciennement art. 23. Nouvelle teneur selon l’annexe ch. 3 de la LF du 3 oct. 2003 (1<sup>re</sup> révision LPP), en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2495](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 [^18a-2]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
 [^18a-3]: Nouvelle teneur selon le ch. II 3 de la LF du 17 déc. 2010 (Financement des institutions de prévoyance de corporations de droit public), en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 3385](https://fedlex.data.admin.ch/eli/oc/2011/457); [FF 2008 7619](https://fedlex.data.admin.ch/eli/fga/2008/1439)).
 
@@ -304,7 +325,7 @@ Les institutions de prévoyance enregistrées doivent remettre à l’assuré au
 
 [^19-1]: Nouvelle teneur selon le ch. II 3 de la LF du 17 déc. 2010 (Financement des institutions de prévoyance de corporations de droit public), en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 3385](https://fedlex.data.admin.ch/eli/oc/2011/457); [FF 2008 7619](https://fedlex.data.admin.ch/eli/fga/2008/1439)).
 [^19-2]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
-[^19-3]: Nouvelle teneur selon le ch. 5 de l’annexe à la LF du 19 juin 2015 (Partage de la prévoyance professionnelle en cas de divorce), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [FF 2013 4341](https://fedlex.data.admin.ch/eli/fga/2013/942)).
+[^19-3]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 19 juin 2015 (Partage de la prévoyance professionnelle en cas de divorce), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [FF 2013 4341](https://fedlex.data.admin.ch/eli/fga/2013/942)).
 
 #### Art. 19a
 
@@ -341,7 +362,7 @@ Les institutions de prévoyance enregistrées doivent remettre à l’assuré au
 
 [^sec5a-1]
 
-[^sec5a-1]: Introduit par le ch. 5 de l’annexe à la LF du 19 juin 2015 (Partage de la prévoyance professionnelle en cas de divorce), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [FF 2013 4341](https://fedlex.data.admin.ch/eli/fga/2013/942)).
+[^sec5a-1]: Introduit par l’annexe ch. 5 de la LF du 19 juin 2015 (Partage de la prévoyance professionnelle en cas de divorce), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [FF 2013 4341](https://fedlex.data.admin.ch/eli/fga/2013/942)).
 
 #### Art. 22
 
@@ -349,7 +370,7 @@ Les institutions de prévoyance enregistrées doivent remettre à l’assuré au
 
 En cas de divorce, les prestations de sortie et les parts de rente sont partagées conformément aux art. 122 à 124*e* du code civil (CC)[^22-2] et 280 et 281 du code de procédure civile (CPC)[^22-3]; les art. 3 à 5 s’appliquent par analogie au montant à transférer.
 
-[^22-1]: Nouvelle teneur selon le ch. 5 de l’annexe à la LF du 19 juin 2015 (Partage de la prévoyance professionnelle en cas de divorce), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [FF 2013 4341](https://fedlex.data.admin.ch/eli/fga/2013/942)).
+[^22-1]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 19 juin 2015 (Partage de la prévoyance professionnelle en cas de divorce), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [FF 2013 4341](https://fedlex.data.admin.ch/eli/fga/2013/942)).
 [^22-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 [^22-3]: [RS 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
 
@@ -365,7 +386,7 @@ En cas de divorce, les prestations de sortie et les parts de rente sont partagé
 
 <sup>4</sup> Le Conseil fédéral règle les modalités de calcul pour les rentes d’invalidité en cours et pour les situations dans lesquelles le cas de prévoyance vieillesse survient entre l’introduction de la procédure de divorce et l’entrée en force du jugement sur le partage de la prévoyance professionnelle.
 
-[^22a-1]: Introduit par le ch. 7 de l’annexe à la LF du 26 juin 1998 ([RO 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149); [FF 1996 I 1](https://fedlex.data.admin.ch/eli/fga/1996/1_1_1_1)). Nouvelle teneur selon le ch. 5 de l’annexe à la LF du 19 juin 2015 (Partage de la prévoyance professionnelle en cas de divorce), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [FF 2013 4341](https://fedlex.data.admin.ch/eli/fga/2013/942)).
+[^22a-1]: Introduit par l’annexe ch. 7 de la LF du 26 juin 1998 ([RO 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149); [FF 1996 I 1](https://fedlex.data.admin.ch/eli/fga/1996/1_1_1_1)). Nouvelle teneur selon l’annexe ch. 5 de la LF du 19 juin 2015 (Partage de la prévoyance professionnelle en cas de divorce), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [FF 2013 4341](https://fedlex.data.admin.ch/eli/fga/2013/942)).
 [^22a-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 [^22a-3]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
 [^22a-4]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
@@ -389,7 +410,7 @@ Pour le calcul, à l’aide du tableau, de la prestation de sortie existant au m
 
 <sup>5</sup> Les al. 1 à 3 s’appliquent par analogie aux avoirs de libre passage acquis avant le 1<sup>er</sup> janvier 1995.
 
-[^22b-1]: Introduit par le ch. 7 de l’annexe à la LF du 26 juin 1998 ([RO 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149); [FF 1996 I 1](https://fedlex.data.admin.ch/eli/fga/1996/1_1_1_1)). Nouvelle teneur selon le ch. 5 de l’annexe à la LF du 19 juin 2015 (Partage de la prévoyance professionnelle en cas de divorce), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [FF 2013 4341](https://fedlex.data.admin.ch/eli/fga/2013/942)).
+[^22b-1]: Introduit par l’annexe ch. 7 de la LF du 26 juin 1998 ([RO 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149); [FF 1996 I 1](https://fedlex.data.admin.ch/eli/fga/1996/1_1_1_1)). Nouvelle teneur selon l’annexe ch. 5 de la LF du 19 juin 2015 (Partage de la prévoyance professionnelle en cas de divorce), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [FF 2013 4341](https://fedlex.data.admin.ch/eli/fga/2013/942)).
 
 #### Art. 22c
 
@@ -403,7 +424,7 @@ Pour le calcul, à l’aide du tableau, de la prestation de sortie existant au m
 
 <sup>4</sup> Les institutions de prévoyance et de libre passage consignent la manière dont la prestation de sortie ou la rente est répartie entre l’avoir de vieillesse et le reste de l’avoir de prévoyance professionnelle. Elles transmettent cette information à l’institution de prévoyance ou de libre passage à laquelle elles transfèrent les avoirs.
 
-[^22c-1]: Introduit par le ch. 7 de l’annexe à la LF du 26 juin 1998 ([RO 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149); [FF 1996 I 1](https://fedlex.data.admin.ch/eli/fga/1996/1_1_1_1)). Nouvelle teneur selon le ch. 5 de l’annexe à la LF du 19 juin 2015 (Partage de la prévoyance professionnelle en cas de divorce), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [FF 2013 4341](https://fedlex.data.admin.ch/eli/fga/2013/942)).
+[^22c-1]: Introduit par l’annexe ch. 7 de la LF du 26 juin 1998 ([RO 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149); [FF 1996 I 1](https://fedlex.data.admin.ch/eli/fga/1996/1_1_1_1)). Nouvelle teneur selon l’annexe ch. 5 de la LF du 19 juin 2015 (Partage de la prévoyance professionnelle en cas de divorce), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [FF 2013 4341](https://fedlex.data.admin.ch/eli/fga/2013/942)).
 [^22c-2]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
 [^22c-3]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 
@@ -415,7 +436,7 @@ Pour le calcul, à l’aide du tableau, de la prestation de sortie existant au m
 
 <sup>2</sup> Le transfert d’un montant au sens de l’art. 124, al. 1, CC[^22d-3] ne donne pas droit à un rachat.
 
-[^22d-1]: Introduit par le ch. 5 de l’annexe à la LF du 19 juin 2015 (Partage de la prévoyance professionnelle en cas de divorce), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [FF 2013 4341](https://fedlex.data.admin.ch/eli/fga/2013/942)).
+[^22d-1]: Introduit par l’annexe ch. 5 de la LF du 19 juin 2015 (Partage de la prévoyance professionnelle en cas de divorce), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [FF 2013 4341](https://fedlex.data.admin.ch/eli/fga/2013/942)).
 [^22d-2]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
 [^22d-3]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 
@@ -425,11 +446,12 @@ Pour le calcul, à l’aide du tableau, de la prestation de sortie existant au m
 
 <sup>1</sup> Si le conjoint créancier a droit à une rente d’invalidité entière ou a atteint l’âge minimal pour la retraite anticipée (art. 1, al. 3, LPP[^22e-2]), il peut demander le versement de la rente viagère au sens de l’art. 124*a* CC[^22e-3].
 
-<sup>2</sup> S’il a atteint l’âge de la retraite au sens de l’art. 13, al. 1, LPP, la rente viagère lui est versée. Il peut en demander le transfert à son institution de prévoyance si un rachat est encore possible conformément au règlement de celle-ci.
+<sup>2</sup> S’il a atteint l’âge de référence[^22e-4] au sens de l’art. 13, al. 1, LPP, la rente viagère lui est versée. Il peut en demander le transfert à son institution de prévoyance si un rachat est encore possible conformément au règlement de celle-ci.
 
-[^22e-1]: Introduit par le ch. 5 de l’annexe à la LF du 19 juin 2015 (Partage de la prévoyance professionnelle en cas de divorce), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [FF 2013 4341](https://fedlex.data.admin.ch/eli/fga/2013/942)).
+[^22e-1]: Introduit par l’annexe ch. 5 de la LF du 19 juin 2015 (Partage de la prévoyance professionnelle en cas de divorce), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [FF 2013 4341](https://fedlex.data.admin.ch/eli/fga/2013/942)).
 [^22e-2]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
 [^22e-3]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^22e-4]: Nouvelle expression selon l’annexe ch. 5 de la LF du 17 déc. 2021 (AVS 21), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5979](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 
 #### Art. 22f
 
@@ -441,7 +463,7 @@ Pour le calcul, à l’aide du tableau, de la prestation de sortie existant au m
 
 <sup>3</sup> Lorsqu’un des époux est redevable d’une prestation en capital au sens de l’art. 124*d* ou 124*e*, al. 1, CC, le juge peut fixer dans le jugement de divorce que le montant en sera transféré à l’institution de prévoyance du conjoint créancier ou, si ce transfert est impossible, à une institution de maintien de la prévoyance. L’al. 2 est applicable par analogie.
 
-[^22f-1]: Introduit par le ch. 5 de l’annexe à la LF du 19 juin 2015 (Partage de la prévoyance professionnelle en cas de divorce), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [FF 2013 4341](https://fedlex.data.admin.ch/eli/fga/2013/942)).
+[^22f-1]: Introduit par l’annexe ch. 5 de la LF du 19 juin 2015 (Partage de la prévoyance professionnelle en cas de divorce), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [FF 2013 4341](https://fedlex.data.admin.ch/eli/fga/2013/942)).
 [^22f-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 
 #### Art. 23
@@ -450,13 +472,13 @@ Pour le calcul, à l’aide du tableau, de la prestation de sortie existant au m
 
 Les dispositions applicables en cas de divorce s’appliquent par analogie à la dissolution judiciaire d’un partenariat enregistré.
 
-[^23-1]: Anciennement art. 22*d*. Introduit par le ch. 30 de l’annexe à la L du 18 juin 2004 sur le partenariat ([RO 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1192](https://fedlex.data.admin.ch/eli/fga/2003/194)).
+[^23-1]: Anciennement art. 22*d*. Introduit par l’annexe ch. 30 de la L du 18 juin 2004 sur le partenariat ([RO 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1192](https://fedlex.data.admin.ch/eli/fga/2003/194)).
 
 ## Section 6 Information de l’assuré et documentation en vue d’un divorce
 
 [^sec6-1]
 
-[^sec6-1]: Nouvelle teneur du tit. selon le ch. 7 de l’annexe à la LF du 26 juin 1998, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149); [FF 1996 I 1](https://fedlex.data.admin.ch/eli/fga/1996/1_1_1_1)).
+[^sec6-1]: Nouvelle teneur du tit. selon l’annexe ch. 7 de la LF du 26 juin 1998, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149); [FF 1996 I 1](https://fedlex.data.admin.ch/eli/fga/1996/1_1_1_1)).
 
 #### Art. 24
 
@@ -473,19 +495,19 @@ En cas de divorce ou de dissolution judiciaire du partenariat enregistré, l’i
 
 <sup>4</sup> Le Conseil fédéral règle les autres obligations d’informer.[^24-6]
 
-[^24-1]: Nouvelle teneur selon le ch. 3 de l’annexe à la LF du 3 oct. 2003 (1<sup>re</sup> révision LPP), en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2495](https://fedlex.data.admin.ch/eli/fga/2000/555)).
-[^24-2]: Nouvelle teneur selon le ch. 30 de l’annexe à la L du 18 juin 2004 sur le partenariat, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1192](https://fedlex.data.admin.ch/eli/fga/2003/194)).
-[^24-3]: Introduit par le ch. 7 de l’annexe à la LF du 26 juin 1998, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149); [FF 1996 I 1](https://fedlex.data.admin.ch/eli/fga/1996/1_1_1_1)).
+[^24-1]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 3 oct. 2003 (1<sup>re</sup> révision LPP), en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2495](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^24-2]: Nouvelle teneur selon l’annexe ch. 30 de la L du 18 juin 2004 sur le partenariat, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1192](https://fedlex.data.admin.ch/eli/fga/2003/194)).
+[^24-3]: Introduit par l’annexe ch. 7 de la LF du 26 juin 1998, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149); [FF 1996 I 1](https://fedlex.data.admin.ch/eli/fga/1996/1_1_1_1)).
 [^24-4]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
-[^24-5]: Introduit par le ch. 7 de l’annexe à la LF du 26 juin 1998 ([RO 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149); [FF 1996 I 1](https://fedlex.data.admin.ch/eli/fga/1996/1_1_1_1)). Nouvelle teneur selon le ch. 5 de l’annexe à la LF du 19 juin 2015 (Partage de la prévoyance professionnelle en cas de divorce), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [FF 2013 4341](https://fedlex.data.admin.ch/eli/fga/2013/942)).
-[^24-6]: Introduit par le ch. 5 de l’annexe à la LF du 19 juin 2015 (Partage de la prévoyance professionnelle en cas de divorce), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [FF 2013 4341](https://fedlex.data.admin.ch/eli/fga/2013/942)).
+[^24-5]: Introduit par l’annexe ch. 7 de la LF du 26 juin 1998 ([RO 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149); [FF 1996 I 1](https://fedlex.data.admin.ch/eli/fga/1996/1_1_1_1)). Nouvelle teneur selon l’annexe ch. 5 de la LF du 19 juin 2015 (Partage de la prévoyance professionnelle en cas de divorce), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [FF 2013 4341](https://fedlex.data.admin.ch/eli/fga/2013/942)).
+[^24-6]: Introduit par l’annexe ch. 5 de la LF du 19 juin 2015 (Partage de la prévoyance professionnelle en cas de divorce), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [FF 2013 4341](https://fedlex.data.admin.ch/eli/fga/2013/942)).
 
 ## Section 6*a* Obligation d’annoncer, Centrale du 2<sup>e</sup> pilier, mesures en cas de négligence de l’obligation d’entretien
 
 [^sec6a-1][^sec6a-2]
 
 [^sec6a-1]: Introduite par le ch. I de la LF du 18 déc. 1998, en vigueur depuis le 1<sup>er</sup> mai 1999 ([RO 1999 1384](https://fedlex.data.admin.ch/eli/oc/1999/199); FF **1998** 4873).
-[^sec6a-2]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 20 mars 2015 (Entretien de l’enfant), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [2020 5](https://fedlex.data.admin.ch/eli/oc/2020/3); [FF 2014 511](https://fedlex.data.admin.ch/eli/fga/2014/98)).
+[^sec6a-2]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 20 mars 2015 (Entretien de l’enfant), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728), [2020 5](https://fedlex.data.admin.ch/eli/oc/2020/3); [FF 2014 511](https://fedlex.data.admin.ch/eli/fga/2014/98)).
 
 #### Art. 24a
 
@@ -493,13 +515,13 @@ En cas de divorce ou de dissolution judiciaire du partenariat enregistré, l’i
 
 Chaque année avant la fin du mois de janvier, les institutions de prévoyance et les institutions qui gèrent des comptes ou polices de libre passage déclarent à la Centrale du 2<sup>e</sup> pilier toutes les personnes pour lesquelles elles ont géré un avoir au cours du mois de décembre de l’année précédente.
 
-[^24a-1]: Nouvelle teneur selon le ch. 5 de l’annexe à la LF du 19 juin 2015 (Partage de la prévoyance professionnelle en cas de divorce), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [FF 2013 4341](https://fedlex.data.admin.ch/eli/fga/2013/942)).
+[^24a-1]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 19 juin 2015 (Partage de la prévoyance professionnelle en cas de divorce), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [FF 2013 4341](https://fedlex.data.admin.ch/eli/fga/2013/942)).
 
 #### Art. 24b
 
 [^24b-1]
 
-[^24b-1]: Abrogé par le ch. 5 de l’annexe à la LF du 19 juin 2015 (Partage de la prévoyance professionnelle en cas de divorce), avec effet au 1<sup>er</sup> janv. 2017 ([RO 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [FF 2013 4341](https://fedlex.data.admin.ch/eli/fga/2013/942)).
+[^24b-1]: Abrogé par l’annexe ch. 5 de la LF du 19 juin 2015 (Partage de la prévoyance professionnelle en cas de divorce), avec effet au 1<sup>er</sup> janv. 2017 ([RO 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [FF 2013 4341](https://fedlex.data.admin.ch/eli/fga/2013/942)).
 
 #### Art. 24c
 
@@ -548,11 +570,11 @@ L’office compétent peut édicter des directives techniques. Celles-ci sont co
 
 **Conservation des données**
 
-La Centrale du 2<sup>e</sup> pilier conserve les données. Cette obligation s’éteint dix ans après que l’assuré a atteint l’âge de la retraite au sens de l’art. 13, al. 1, LPP[^24f-1].
+La Centrale du 2<sup>e</sup> pilier conserve les données. Cette obligation s’éteint lorsque la personne assurée a atteint l’âge de 80 ans.[^24f-1]
 
-[^24f-1]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^24f-1]: Nouvelle teneur de la phrase selon l’annexe ch. 5 de la LF du 17 déc. 2021 (AVS 21), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5979](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 
-#### Art. 24f<sup>bis</sup>
+#### Art. 24f <sup>bis</sup>
 
 **Mesures en cas de négligence de l’obligation d’entretien**[^24fbis-1]
 
@@ -576,7 +598,7 @@ L’institution de libre passage communique sans délai à l’office spécialis
 
 <sup>7</sup> L’institution de libre passage peut effectuer un versement au sens de l’al. 4 au plus tôt 30 jours après notification à l’office spécialisé.
 
-[^24fbis-1]: Introduit par l’annexe ch. 4 de la LF du 20 mars 2015 (Entretien de l’enfant), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728), [5017](https://fedlex.data.admin.ch/eli/oc/2015/822); [2020 5](https://fedlex.data.admin.ch/eli/oc/2020/3); [FF 2014 511](https://fedlex.data.admin.ch/eli/fga/2014/98)).
+[^24fbis-1]: Introduit par l’annexe ch. 4 de la LF du 20 mars 2015 (Entretien de l’enfant), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728)[5017](https://fedlex.data.admin.ch/eli/oc/2015/822), [2020 5](https://fedlex.data.admin.ch/eli/oc/2020/3); [FF 2014 511](https://fedlex.data.admin.ch/eli/fga/2014/98)).
 [^24fbis-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 [^24fbis-3]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
 
@@ -584,7 +606,7 @@ L’institution de libre passage communique sans délai à l’office spécialis
 
 [^sec6b-1]
 
-[^sec6b-1]: Introduite par le ch. 3 de l’annexe à la LF du 3 oct. 2003 (1<sup>re</sup> révision LPP), en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2495](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^sec6b-1]: Introduite par l’annexe ch. 3 de la LF du 3 oct. 2003 (1<sup>re</sup> révision LPP), en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2495](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 
 #### Art. 24g
 
@@ -604,7 +626,7 @@ L’art. 41 LPP[^24g-1] s’applique par analogie à la prescription des droits 
 
 Les dispositions de la LPP[^25-2] sur l’utilisation systématique du numéro AVS[^25-3], le contentieux, le traitement et la communication de données personnelles, la consultation du dossier, l’obligation de garder le secret et l’entraide administrative sont applicables par analogie.
 
-[^25-1]: Nouvelle teneur selon le ch. 10 de l’annexe à la LF du 23 juin 2006 (Nouveau numéro d’assuré AVS), en vigueur depuis le 1<sup>er</sup> déc. 2007 ([RO 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 515](https://fedlex.data.admin.ch/eli/fga/2006/52)).
+[^25-1]: Nouvelle teneur selon l’annexe ch. 10 de la LF du 23 juin 2006 (Nouveau numéro d’assuré AVS), en vigueur depuis le 1<sup>er</sup> déc. 2007 ([RO 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 515](https://fedlex.data.admin.ch/eli/fga/2006/52)).
 [^25-2]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
 [^25-3]: Nouvelle expression selon l’annexe ch. 30 de la LF du 18 déc. 2020 (Utilisation systématique du numéro AVS par les autorités), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6955](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 
@@ -616,18 +638,18 @@ Les dispositions de la LPP[^25-2] sur l’utilisation systématique du numéro A
 
 <sup>2</sup> Les conjoints et les institutions de prévoyance professionnelle ont qualité de partie dans cette procédure. Le juge leur impartit un délai raisonnable pour déposer leurs conclusions.
 
-[^25a-1]: Introduit par le ch. 7 de l’annexe à la LF du 26 juin 1998, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149); [FF 1996 I 1](https://fedlex.data.admin.ch/eli/fga/1996/1_1_1_1)).
+[^25a-1]: Introduit par l’annexe ch. 7 de la LF du 26 juin 1998, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149); [FF 1996 I 1](https://fedlex.data.admin.ch/eli/fga/1996/1_1_1_1)).
 [^25a-2]: [RS 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
 [^25a-3]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
 [^25a-4]: [RS 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)
-[^25a-5]: Nouvelle teneur selon le ch. 5 de l’annexe à la LF du 19 juin 2015 (Partage de la prévoyance professionnelle en cas de divorce), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [FF 2013 4341](https://fedlex.data.admin.ch/eli/fga/2013/942)).
+[^25a-5]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 19 juin 2015 (Partage de la prévoyance professionnelle en cas de divorce), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [FF 2013 4341](https://fedlex.data.admin.ch/eli/fga/2013/942)).
 
 ## Section 8 Coordination internationale
 
 [^sec8-1][^sec8-2]
 
-[^sec8-1]: Introduite par le ch. I 8 de la LF du 8 oct. 1999 sur l’Ac. entre la Suisse et la CE et ses Etats membres sur la libre circulation des personnes ([RO 2002 701](https://fedlex.data.admin.ch/eli/oc/2002/140); [FF 1999 5440](https://fedlex.data.admin.ch/eli/fga/1999/1_6128_5440_5092)). Nouvelle teneur selon le ch. 3 de l’annexe à la LF du 3 oct. 2003 (1<sup>re</sup> révision LPP), en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2495](https://fedlex.data.admin.ch/eli/fga/2000/555)).
-[^sec8-2]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 21 juin 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5137](https://fedlex.data.admin.ch/eli/oc/2020/892); [FF 2018 1597](https://fedlex.data.admin.ch/eli/fga/2018/671)).
+[^sec8-1]: Introduite par le ch. I 8 de la LF du 8 oct. 1999 sur l’Ac. entre la Suisse et la CE et ses Etats membres sur la libre circulation des personnes ([RO 2002 701](https://fedlex.data.admin.ch/eli/oc/2002/140); [FF 1999 5440](https://fedlex.data.admin.ch/eli/fga/1999/1_6128_5440_5092)). Nouvelle teneur selon l’annexe ch. 3 de la LF du 3 oct. 2003 (1<sup>re</sup> révision LPP), en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2495](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^sec8-2]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 21 juin 2019, en vigueur depuis le 1<sup>er janv.</sup> 2021 ([RO 2020 5137](https://fedlex.data.admin.ch/eli/oc/2020/892); [FF 2018 1597](https://fedlex.data.admin.ch/eli/fga/2018/671)).
 
 #### Art. 25b
 
@@ -653,14 +675,14 @@ Pour les personnes qui sont ou qui ont été soumises à la législation sur la 
 
 <sup>3</sup> Le Conseil fédéral adapte les renvois aux actes de l’Union européenne visés aux al. 1 et 2 chaque fois qu’une modification de l’annexe II de l’accord sur la libre circulation des personnes et de l’appendice 2 de l’annexe K de la convention AELE est adoptée.
 
-<sup>4</sup> Les expressions «États membres de l’Union européenne», «États membres de la Communauté européenne», «États de l’Union européenne» et «États de la Commu-nauté européenne» figurant dans la présente loi désignent les États auxquels s’applique l’accord sur la libre circulation des personnes.
+<sup>4</sup> Les expressions «États membres de l’Union européenne», «États membres de la Communauté européenne», «États de l’Union européenne» et «États de la Communauté européenne» figurant dans la présente loi désignent les États auxquels s’applique l’accord sur la libre circulation des personnes.
 
-[^25b-1]: Nouvelle teneur selon le ch. 5 de l’annexe à l’AF du 17 juin 2016 (Extension de l’Ac. sur la libre circulation des personnes à la Croatie), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 5233](https://fedlex.data.admin.ch/eli/oc/2016/828); [FF 2016 2059](https://fedlex.data.admin.ch/eli/fga/2016/467)).
+[^25b-1]: Nouvelle teneur selon l’annexe ch. 5 de l’AF du 17 juin 2016 (Extension de l’Ac. sur la libre circulation des personnes à la Croatie), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 5233](https://fedlex.data.admin.ch/eli/oc/2016/828); [FF 2016 2059](https://fedlex.data.admin.ch/eli/fga/2016/467)).
 [^25b-2]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
 [^25b-3]: Règlement (CE) n<sup>o</sup> 883/2004 du Parlement européen et du Conseil du 29 avril 2004 portant sur la coordination des systèmes de sécurité sociale ([RS 0.831.109.268.1](https://fedlex.data.admin.ch/eli/cc/2012/323)).
 [^25b-4]: Règlement (CE) n<sup>o</sup> 987/2009 du Parlement européen et du Conseil du 16 septembre 2009 fixant les modalités d’application du règlement (CE) n<sup>o</sup> 883/2004 portant sur la coordination des systèmes de sécurité sociale ([RS 0.831.109.268.11](https://fedlex.data.admin.ch/eli/cc/2012/356)).
-[^25b-5]: Règlement (CEE) n<sup>o</sup> 1408/71 du Conseil du 14 juin 1971 relatif à l’application des régimes de sécurité sociale aux travailleurs salariés, aux travailleurs non salariés et aux membres de leur famille qui se déplacent à l’intérieur de la Communauté; dans la dernière version en vigueur selon l’accord sur la libre circulation des personnes ([RO 2004 121](https://fedlex.data.admin.ch/eli/oc/2004/11); [2008 4219](https://fedlex.data.admin.ch/eli/oc/2008/604), [4273](https://fedlex.data.admin.ch/eli/oc/2008/605); [2009 4831](https://fedlex.data.admin.ch/eli/oc/2009/573)) et la convention AELE révisée.
-[^25b-6]: Règlement (CEE) n<sup>o</sup> 574/72 du Conseil du 21 mars 1972 fixant les modalités d’application du Règlement (CEE) 1408/71 relatif à l’application des régimes de sécurité sociale aux travailleurs salariés, aux travailleurs non salariés et aux membres de leur famille qui se déplacent à l’intérieur de la Communauté; dans la dernière version en vigueur selon l’accord sur la libre circulation des personnes ([RO 2005 3909](https://fedlex.data.admin.ch/eli/oc/2005/540); [2008 4273](https://fedlex.data.admin.ch/eli/oc/2008/605); [2009 621](https://fedlex.data.admin.ch/eli/oc/2009/113), [4845](https://fedlex.data.admin.ch/eli/oc/2009/574)) et la convention AELE révisée.
+[^25b-5]: Règlement (CEE) n<sup>o</sup> 1408/71 du Conseil du 14 juin 1971 relatif à l’application des régimes de sécurité sociale aux travailleurs salariés, aux travailleurs non salariés et aux membres de leur famille qui se déplacent à l’intérieur de la Communauté; dans la dernière version en vigueur selon l’accord sur la libre circulation des personnes ([RO 2004 121](https://fedlex.data.admin.ch/eli/oc/2004/11), [2008 4219](https://fedlex.data.admin.ch/eli/oc/2008/604)[4273](https://fedlex.data.admin.ch/eli/oc/2008/605), [2009 4831](https://fedlex.data.admin.ch/eli/oc/2009/573)) et la convention AELE révisée.
+[^25b-6]: Règlement (CEE) n<sup>o</sup> 574/72 du Conseil du 21 mars 1972 fixant les modalités d’application du Règlement (CEE) 1408/71 relatif à l’application des régimes de sécurité sociale aux travailleurs salariés, aux travailleurs non salariés et aux membres de leur famille qui se déplacent à l’intérieur de la Communauté; dans la dernière version en vigueur selon l’accord sur la libre circulation des personnes ([RO 2005 3909](https://fedlex.data.admin.ch/eli/oc/2005/540), [2008 4273](https://fedlex.data.admin.ch/eli/oc/2008/605), [2009 621](https://fedlex.data.admin.ch/eli/oc/2009/113)[4845](https://fedlex.data.admin.ch/eli/oc/2009/574)) et la convention AELE révisée.
 [^25b-7]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
 
 #### Art. 25c
@@ -737,7 +759,7 @@ Les art. 32, al. 3, et 75*a* à 75*c* de la loi fédérale du 6 octobre 2000 sur
 
 <sup>3</sup> Le Conseil fédéral fixe le taux d’intérêt applicable aux prestations de sortie et de libre passage acquises au moment de la conclusion du mariage et aux versements uniques qui doivent porter intérêt pour le calcul des prestations de sortie à partager conformément à l’art. 22*a*.[^26-1]
 
-[^26-1]: Introduit par le ch. 7 de l’annexe à la LF du 26 juin 1998 ([RO 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149); [FF 1996 I 1](https://fedlex.data.admin.ch/eli/fga/1996/1_1_1_1)). Nouvelle teneur selon le ch. 5 de l’annexe à la LF du 19 juin 2015 (Partage de la prévoyance professionnelle en cas de divorce), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [FF 2013 4341](https://fedlex.data.admin.ch/eli/fga/2013/942)).
+[^26-1]: Introduit par l’annexe ch. 7 de la LF du 26 juin 1998 ([RO 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149); [FF 1996 I 1](https://fedlex.data.admin.ch/eli/fga/1996/1_1_1_1)). Nouvelle teneur selon l’annexe ch. 5 de la LF du 19 juin 2015 (Partage de la prévoyance professionnelle en cas de divorce), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [FF 2013 4341](https://fedlex.data.admin.ch/eli/fga/2013/942)).
 
 #### Art. 27
 
@@ -745,7 +767,7 @@ Les art. 32, al. 3, et 75*a* à 75*c* de la loi fédérale du 6 octobre 2000 sur
 
 <sup>1</sup> Les prestations d’entrée et de sortie sont déterminées selon le droit en vigueur au moment de l’entrée dans une institution de prévoyance ou de la sortie d’une institution.
 
-<sup>2</sup> et <sup>3</sup> ...[^27-1]
+<sup>2</sup> et <sup>3</sup> …[^27-1]
 
 [^27-1]: Abrogés par le ch. II 42 de la LF du 20 mars 2008 relative à la mise à jour formelle du droit fédéral, avec effet au 1<sup>er</sup> août 2008 ([RO 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5789](https://fedlex.data.admin.ch/eli/fga/2007/885)).
 
@@ -786,6 +808,6 @@ Annexe
 
 ## Modifications du droit en vigueur
 
-...[^annexu1-lvlu1-1]
+…[^annexu1-lvlu1-1]
 
 [^annexu1-lvlu1-1]: Les mod. peuvent être consultées au [RO 1994 2386](https://fedlex.data.admin.ch/eli/oc/1994/2386_2386_2386).

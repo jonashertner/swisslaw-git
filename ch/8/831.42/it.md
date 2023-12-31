@@ -4,11 +4,11 @@ title: "Legge federale del 17 dicembre 1993 sul libero passaggio nella previdenz
 short: LFLP
 eli: "https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386"
 language: it
-version: 2022-01-01
+version: 2024-01-01
 adopted: 1993-12-17
 in_force: 1995-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1994-2386_2386_2386-20220101-it-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1994/2386_2386_2386/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386/20240101/it/xml/fedlex-data-admin-ch-eli-cc-1994-2386_2386_2386-20240101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1994/2386_2386_2386/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1994/2386_2386_2386/20220101/it"
 
 (Legge sul libero passaggio, LFLP)
 
-del 17 dicembre 1993 (Stato 1° gennaio 2022)
+del 17 dicembre 1993 (Stato 1° gennaio 2024)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -39,6 +39,11 @@ decreta:
 
 <sup>3</sup> Essa si applica per analogia ai regimi di pensionamento in cui l’assicurato ha diritto a prestazioni all’insorgere di un caso di previdenza.
 
+<sup>4</sup> Essa non si applica ai rapporti di previdenza nei quali un istituto di previdenza che non è finanziato secondo il sistema di capitalizzazione accorda il diritto a una rendita transitoria fino al raggiungimento dell’età di riferimento secondo l’articolo 21 capoverso 1 della legge federale del 20 dicembre 1946[^1-1] sull’assicurazione per la vecchiaia e per i superstiti.[^1-2]
+
+[^1-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^1-2]: Introdotto dall’all. n. 5 della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+
 ## Sezione 2: Diritti e obblighi dell’istituto di previdenza in caso di uscita dell’assicurato
 
 #### Art. 2
@@ -47,7 +52,7 @@ decreta:
 
 <sup>1</sup> L’assicurato che lascia l’istituto di previdenza prima che insorga un caso di previdenza (caso di libero passaggio) ha diritto a una prestazione d’uscita.
 
-<sup>1bis</sup> L’assicurato ha diritto a una prestazione d’uscita anche se lascia l’istituto di previdenza a un’età compresa fra l’età minima per il pensionamento anticipato e l’età ordinaria di pensionamento previste dal regolamento, e continua ad esercitare un’attività lucrativa o è annunciato all’assicurazione contro la disoccupazione. Se il regolamento non la stabilisce, l’età ordinaria di pensionamento è determinata conformemente all’articolo 13 capoverso 1 della legge federale del 25 giugno 1982[^2-1] sulla previdenza professionale per la vecchiaia, i superstiti e l’invalidità (LPP).[^2-2]
+<sup>1bis</sup> L’assicurato ha diritto a una prestazione d’uscita anche se lascia l’istituto di previdenza a un’età compresa fra l’età minima per il pensionamento anticipato e l’età di riferimento prevista dal regolamento e continua ad esercitare un’attività lucrativa o è annunciato all’assicurazione contro la disoccupazione. Se il regolamento non la stabilisce, l’età di riferimento è determinata conformemente all’articolo 13 capoverso 1 della legge federale del 25 giugno 1982[^2-1] sulla previdenza professionale per la vecchiaia, i superstiti e l’invalidità (LPP).[^2-2]
 
 <sup>1ter</sup> Ha altresì diritto a una prestazione d’uscita l’assicurato la cui rendita dell’assicurazione per l’invalidità è stata ridotta o soppressa dopo l’abbassamento del grado d’invalidità; il diritto dell’assicurato nasce nel momento in cui terminano la proroga temporanea del rapporto di assicurazione e il mantenimento del diritto alle prestazioni ai sensi dell’articolo 26*a* capoversi 1 e 2 LPP.[^2-3]
 
@@ -58,7 +63,7 @@ decreta:
 <sup>4</sup> Se 30 giorni dopo aver ricevuto tutte le indicazioni necessarie l’istituto di previdenza non ha versato la prestazione d’uscita esigibile, da tale momento è dovuto un interesse di mora secondo l’articolo 26 capoverso 2.[^2-5]
 
 [^2-1]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
-[^2-2]: Introdotto dal n. I della LF del 12 giu. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5187](https://fedlex.data.admin.ch/eli/oc/2009/609); [FF 2009 879](https://fedlex.data.admin.ch/eli/fga/2009/231), [887](https://fedlex.data.admin.ch/eli/fga/2009/233)).
+[^2-2]: Introdotto dal n. I della LF del 12 giu. 2009 ([RU 2009 5187](https://fedlex.data.admin.ch/eli/oc/2009/609); [FF 2009 879](https://fedlex.data.admin.ch/eli/fga/2009/231)[887](https://fedlex.data.admin.ch/eli/fga/2009/233)). Nuovo testo giusta l’all. n. 5 della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 [^2-3]: Introdotto dall’all. n. 7 della LF del 18 mar. 2011 (6<sup>a</sup> revisione AI, primo pacchetto di misure), in vigore dal 1° gen. 2012 ([RU 2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799); [FF 2010 1603](https://fedlex.data.admin.ch/eli/fga/2010/340)).
 [^2-4]: Nuovo testo giusta il n. I della LF del 12 giu. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5187](https://fedlex.data.admin.ch/eli/oc/2009/609); [FF 2009 879](https://fedlex.data.admin.ch/eli/fga/2009/231)[887](https://fedlex.data.admin.ch/eli/fga/2009/233)).
 [^2-5]: Introdotto dall’all. n. 3 della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); FF **2000** 2431).
@@ -144,7 +149,18 @@ L’assicurato può esigere il pagamento in contanti della prestazione d’uscit
 
 <sup>2</sup> L’istituto di previdenza deve indicare all’assicurato tutte le possibilità legali e regolamentari per mantenere la previdenza; deve segnatamente informarlo sul mantenimento della previdenza in caso di decesso e di invalidità.
 
+<sup>3</sup>
+
+In caso di libero passaggio, per le persone che ricevono o hanno ricevuto una prestazione di vecchiaia oppure ricevono una rendita a causa di un’invalidità parziale, l’istituto di previdenza deve comunicare al nuovo istituto di previdenza o di libero passaggio le informazioni sulle prestazioni di vecchiaia e d’invalidità percepite, necessarie per:
+
+- a. calcolare le possibilità di riscatto o il salario da assicurare obbligatoriamente; e
+- b. garantire il rispetto del numero massimo di riscossioni parziali ammesse in caso di riscossione sotto forma di capitale (art. 13*a* cpv. 2 LPP).[^8-2]
+
+<sup>4</sup> In caso di trasferimento della prestazione di libero passaggio a un nuovo istituto di previdenza o di libero passaggio, l’istituto di libero passaggio deve trasmettere al medesimo le informazioni di cui al capoverso 3.[^8-3]
+
 [^8-1]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^8-2]: Introdotto dall’all. n. 5 della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^8-3]: Introdotto dall’all. n. 5 della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 
 ## Sezione 3: Diritti e obblighi dell’istituto di previdenza in caso d’entrata di un assicurato
 
@@ -231,15 +247,20 @@ L’assicurato può esigere il pagamento in contanti della prestazione d’uscit
 
 <sup>2</sup> Le prestazioni acquisite sono calcolate come segue:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386/20220101/it/xml/image/image1.png)
+<table>
+<tr><td>prestazioni assicurate ×</td><td>periodo d’assicurazione computabile \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_</td></tr>
+<tr><td></td><td>periodo d’assicurazione possibile</td></tr>
+</table>
 
 <sup>3</sup> Le prestazioni assicurate sono fissate dal regolamento. Sono determinate per il periodo d’assicurazione possibile. Le prestazioni temporanee giusta l’articolo 17 capoverso 2 possono essere trascurate nel calcolo del valore attuale, se non sono finanziate secondo il sistema di capitalizzazione.
 
 <sup>4</sup> Il periodo d’assicurazione computabile si compone del periodo di contribuzione e del periodo d’assicurazione acquistato. Esso ha inizio il più presto con il versamento di quote alla previdenza di vecchiaia.
 
-<sup>5</sup> Il periodo d’assicurazione possibile ha inizio contemporaneamente al periodo d’assicurazione computabile e prende fine con il limite d’età ordinario previsto nel regolamento.
+<sup>5</sup> Il periodo d’assicurazione possibile ha inizio contemporaneamente al periodo d’assicurazione computabile e prende fine con l’età di riferimento prevista dal regolamento[^16-1].
 
 <sup>6</sup> Il valore attuale deve essere stabilito secondo le norme attuariali riconosciute. I valori attuali devono figurare nel regolamento sotto forma di tabella.
+
+[^16-1]: Nuova espr. giusta l’all. n. 5 della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 
 #### Art. 17
 
@@ -251,26 +272,29 @@ L’assicurato può esigere il pagamento in contanti della prestazione d’uscit
 
 I contributi destinati a finanziare prestazioni e a coprire costi possono essere dedotti dai contributi dell’assicurato soltanto se l’entità dei diversi contributi è fissata nel regolamento e il fabbisogno figura nel conto annuale o nel relativo allegato. Sono ammesse le seguenti deduzioni:
 
-- a. contributo destinato a finanziare i diritti a prestazioni d’invalidità fino al limite ordinario d’età;
-- b. contributo destinato a finanziare i diritti a prestazioni per i superstiti che sorgono prima del limite ordinario d’età;
-- c. contributo destinato a finanziare i diritti a rendite transitorie fino al limite ordinario d’età. Il Consiglio federale disciplina dettagliatamente le condizioni di questa eventuale deduzione;
+- a. contributo destinato a finanziare i diritti a prestazioni d’invalidità fino all’età di riferimento[^17-1];
+- b. contributo destinato a finanziare i diritti a prestazioni per i superstiti che sorgono prima dell’età di riferimento;
+- c. contributo destinato a finanziare i diritti a rendite transitorie fino all’età di riferimento. Il Consiglio federale disciplina dettagliatamente le condizioni di questa eventuale deduzione;
 - d. contributo per spese amministrative;
 - e. contributo destinato a coprire i costi del fondo di garanzia;
-- f. contributo destinato a sanare una copertura insufficiente.[^17-1]
+- f. contributo destinato a sanare una copertura insufficiente;
+- g.[^17-2] contributo destinato a finanziare la compensazione delle perdite derivanti dalla conversione in rendita.[^17-3]
 
-<sup>3</sup> Se il regolamento stabilisce questa deduzione in percentuale dei contributi, anche le somme previste nel regolamento per finanziare l’adeguamento delle rendite in corso all’evoluzione dei prezzi secondo l’articolo 36 LPP[^17-2] nonché le prestazioni minime per i casi assicurativi durante il periodo transitorio secondo l’articolo 33 LPP possono essere dedotte dai contributi dell’assicurato.[^17-3]
+<sup>3</sup> Se il regolamento stabilisce questa deduzione in percentuale dei contributi, anche le somme previste nel regolamento per finanziare l’adeguamento delle rendite in corso all’evoluzione dei prezzi secondo l’articolo 36 LPP[^17-4] nonché le prestazioni minime per i casi assicurativi durante il periodo transitorio secondo l’articolo 33 LPP possono essere dedotte dai contributi dell’assicurato.[^17-5]
 
-<sup>4</sup> I contributi destinati a finanziare prestazioni secondo il capoverso 2 lettere a–c possono essere dedotti dai contributi dell’assicurato soltanto se la parte non impiegata per le prestazioni e i costi di cui ai capoversi 2 e 3 frutta interessi.[^17-4]
+<sup>4</sup> I contributi destinati a finanziare prestazioni secondo il capoverso 2 lettere a–c possono essere dedotti dai contributi dell’assicurato soltanto se la parte non impiegata per le prestazioni e i costi di cui ai capoversi 2 e 3 frutta interessi.[^17-6]
 
 <sup>5</sup> Un terzo almeno dei contributi regolamentari complessivi versati dal datore di lavoro e dal lavoratore sono considerati contributi del lavoratore.
 
-<sup>6</sup> L’aumento del 4 per cento per anno d’età a partire dai 20 anni di cui al capoverso 1 non si applica ai contributi di cui all’articolo 33*a* LPP.[^17-5]
+<sup>6</sup> L’aumento del 4 per cento per anno d’età a partire dai 20 anni di cui al capoverso 1 non si applica ai contributi di cui all’articolo 33*a* LPP.[^17-7]
 
-[^17-1]: Nuovo testo giusta l’all. n. 5 della LF del 18 giu. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4635](https://fedlex.data.admin.ch/eli/oc/2004/711); [FF 2003 5557](https://fedlex.data.admin.ch/eli/fga/2003/1054)).
-[^17-2]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
-[^17-3]: Nuovo testo giusta l’all. n. 3 della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
-[^17-4]: Nuovo testo giusta l’all. n. 5 della LF del 18 giu. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4635](https://fedlex.data.admin.ch/eli/oc/2004/711); [FF 2003 5557](https://fedlex.data.admin.ch/eli/fga/2003/1054)).
-[^17-5]: Introdotto dal n. II 2 della LF dell’11 dic. 2009 (Misure per agevolare la partecipazione al mercato del lavoro dei lavoratori anziani), in vigore dal 1° gen. 2011 ([RU 2010 4427](https://fedlex.data.admin.ch/eli/oc/2010/622); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+[^17-1]: Nuova espr. giusta l’all. n. 5 della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)). Di detta mod. é tenuto conto nelle disp. menzionate nella RU.
+[^17-2]: Introdotto dall’all. n. 3 della LF dell’18 mar. 2022, in vigore dal 1° gen. 2024 ([RU 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); FF **2020** 8967).
+[^17-3]: Nuovo testo giusta l’all. n. 5 della LF del 18 giu. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4635](https://fedlex.data.admin.ch/eli/oc/2004/711); [FF 2003 5557](https://fedlex.data.admin.ch/eli/fga/2003/1054)).
+[^17-4]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^17-5]: Nuovo testo giusta l’all. n. 3 della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^17-6]: Nuovo testo giusta l’all. n. 5 della LF del 18 giu. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4635](https://fedlex.data.admin.ch/eli/oc/2004/711); [FF 2003 5557](https://fedlex.data.admin.ch/eli/fga/2003/1054)).
+[^17-7]: Introdotto dal n. II 2 della LF dell’11 dic. 2009 (Misure per agevolare la partecipazione al mercato del lavoro dei lavoratori anziani), in vigore dal 1° gen. 2011 ([RU 2010 4427](https://fedlex.data.admin.ch/eli/oc/2010/622); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
 
 #### Art. 18
 
@@ -423,11 +447,12 @@ Per il calcolo, a mezzo della tabella, della prestazione d’uscita esistente al
 
 <sup>1</sup> Se ha diritto a una rendita intera d’invalidità o ha raggiunto l’età minima per il pensionamento anticipato (art. 1 cpv. 3 LPP[^22e-2]), il coniuge creditore può chiedere il pagamento della rendita vitalizia secondo l’articolo 124*a* CC[^22e-3].
 
-<sup>2</sup> Se il coniuge creditore ha raggiunto l’età del pensionamento secondo l’articolo 13 capoverso 1 LPP, gli viene pagata la rendita vitalizia. Può chiedere che sia versata nel suo istituto di previdenza se il regolamento di quest’ultimo gli consente ancora di riscattare.
+<sup>2</sup> Se il coniuge creditore ha raggiunto l’età di riferimento[^22e-4] secondo l’articolo 13 capoverso 1 LPP, gli viene pagata la rendita vitalizia. Può chiedere che sia versata nel suo istituto di previdenza se il regolamento di quest’ultimo gli consente ancora di riscattare.
 
 [^22e-1]: Introdotto dall’all. n. 5 della LF del 19 giu. 2015 (Conguaglio della previdenza professionale in caso di divorzio), in vigore dal 1° gen. 2017 ([RU 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [FF 2013 4151](https://fedlex.data.admin.ch/eli/fga/2013/942)).
 [^22e-2]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
 [^22e-3]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^22e-4]: Nuova espr. giusta l’all. n. 5 della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 
 #### Art. 22f
 
@@ -483,7 +508,7 @@ In caso di divorzio o di scioglimento giudiziale dell’unione domestica registr
 [^sec6a-1][^sec6a-2]
 
 [^sec6a-1]: Introdotta dal n. I della LF del 18 dic. 1998, in vigore dal 1° mag. 1999 ([RU 1999 1384](https://fedlex.data.admin.ch/eli/oc/1999/199); FF **1998** 4409).
-[^sec6a-2]: Nuovo testo giusta l’all. n. 4 della LF del 20 mar. 2015 (Mantenimento del figlio), in vigore dal 1° gen. 2022 ([RU 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [2020 5](https://fedlex.data.admin.ch/eli/oc/2020/3); [FF 2014 489](https://fedlex.data.admin.ch/eli/fga/2014/98)).
+[^sec6a-2]: Nuovo testo giusta l’all. n. 4 della LF del 20 mar. 2015 (Mantenimento del figlio), in vigore dal 1° gen. 2022 ([RU 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728), [2020 5](https://fedlex.data.admin.ch/eli/oc/2020/3); [FF 2014 489](https://fedlex.data.admin.ch/eli/fga/2014/98)).
 
 #### Art. 24a
 
@@ -548,9 +573,9 @@ L’Ufficio federale competente emana le istruzioni tecniche. Le stesse sono vin
 
 **Conservazione dei dati**
 
-L’Ufficio centrale del 2° pilastro conserva gli annunci. L’obbligo di conservazione si estingue scaduti dieci anni da quando l’assicurato ha raggiunto l’età conferente il diritto alla rendita conformemente all’articolo 13 capoverso 1 LPP[^24f-1].
+L’Ufficio centrale del 2° pilastro conserva gli annunci. L’obbligo di conservazione si estingue quando l’assicurato compie 80 anni.[^24f-1]
 
-[^24f-1]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^24f-1]: Nuovo testo del per. giusta l’all. n. 5 della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 
 #### Art. 24f<sup>bis</sup>
 
@@ -576,7 +601,7 @@ L’istituto di libero passaggio annuncia senza indugio all’ufficio specializz
 
 <sup>7</sup> L’istituto di libero passaggio può effettuare uno dei versamenti di cui al capoverso 4 al più presto 30 giorni dopo la notificazione all’ufficio specializzato.
 
-[^24fbis-1]: Introdotto dall’all. n. 4 della LF del 20 mar. 2015 (Mantenimento del figlio), in vigore dal 1° gen. 2022 ([RU 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728), [5017](https://fedlex.data.admin.ch/eli/oc/2015/822), [2020 5](https://fedlex.data.admin.ch/eli/oc/2020/3); [FF 2014 489](https://fedlex.data.admin.ch/eli/fga/2014/98)).
+[^24fbis-1]: Introdotto dall’all. n. 4 della LF del 20 mar. 2015 (Mantenimento del figlio), in vigore dal 1° gen. 2022 ([RU 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728)[5017](https://fedlex.data.admin.ch/eli/oc/2015/822), [2020 5](https://fedlex.data.admin.ch/eli/oc/2020/3); [FF 2014 489](https://fedlex.data.admin.ch/eli/fga/2014/98)).
 [^24fbis-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 [^24fbis-3]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
 
@@ -658,8 +683,8 @@ Ai cittadini svizzeri, islandesi, norvegesi o del Principato del Liechtenstein c
 [^25b-2]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
 [^25b-3]: Regolamento (CE) n. 883/2004 del Parlamento europeo e del Consiglio, del 29 aprile 2004, relativo al coordinamento dei sistemi di sicurezza sociale ([RS 0.831.109.268.1](https://fedlex.data.admin.ch/eli/cc/2012/323)).
 [^25b-4]: Regolamento (CE) n. 987/2009 del Parlamento europeo e del Consiglio, del 16 settembre 2009, che stabilisce le modalità di applicazione del regolamento (CE) n. 883/2004 relativo al coordinamento dei sistemi di sicurezza sociale ([RS 0.831.109.268.11](https://fedlex.data.admin.ch/eli/cc/2012/356)).
-[^25b-5]: Regolamento (CEE) n. 1408/71 del Consiglio, del 14 giugno 1971, relativo all’applicazione dei regimi di sicurezza sociale ai lavoratori subordinati, ai lavoratori autonomi e ai loro familiari che si spostano all’interno della Comunità; nella versione in vigore dell’Accordo sulla libera circolazione delle persone ([RU 2004 121](https://fedlex.data.admin.ch/eli/oc/2004/11), [2008 4219](https://fedlex.data.admin.ch/eli/oc/2008/604), [4273](https://fedlex.data.admin.ch/eli/oc/2008/605); [2009 4831](https://fedlex.data.admin.ch/eli/oc/2009/573)) e della Convenzione AELS riveduta.
-[^25b-6]: Regolamento (CEE) n. 574/72 del Consiglio, del 21 marzo 1972, che stabilisce le modalità di applicazione del regolamento (CEE) n. 1408/71 relativo all’applicazione dei regimi di sicurezza sociale ai lavoratori subordinati, ai lavoratori autonomi e ai loro familiari che si spostano all’interno della Comunità; nella versione in vigore dell’Accordo sulla libera circolazione delle persone ([RU 2005 3909](https://fedlex.data.admin.ch/eli/oc/2005/540); [2008 4273](https://fedlex.data.admin.ch/eli/oc/2008/605); [2009 621](https://fedlex.data.admin.ch/eli/oc/2009/113), [4845](https://fedlex.data.admin.ch/eli/oc/2009/574)) e della Convenzione AELS riveduta.
+[^25b-5]: Regolamento (CEE) n. 1408/71 del Consiglio, del 14 giugno 1971, relativo all’applicazione dei regimi di sicurezza sociale ai lavoratori subordinati, ai lavoratori autonomi e ai loro familiari che si spostano all’interno della Comunità; nella versione in vigore dell’Accordo sulla libera circolazione delle persone ([RU 2004 121](https://fedlex.data.admin.ch/eli/oc/2004/11), [2008 4219](https://fedlex.data.admin.ch/eli/oc/2008/604)[4273](https://fedlex.data.admin.ch/eli/oc/2008/605), [2009 4831](https://fedlex.data.admin.ch/eli/oc/2009/573)) e della Convenzione AELS riveduta.
+[^25b-6]: Regolamento (CEE) n. 574/72 del Consiglio, del 21 marzo 1972, che stabilisce le modalità di applicazione del regolamento (CEE) n. 1408/71 relativo all’applicazione dei regimi di sicurezza sociale ai lavoratori subordinati, ai lavoratori autonomi e ai loro familiari che si spostano all’interno della Comunità; nella versione in vigore dell’Accordo sulla libera circolazione delle persone ([RU 2005 3909](https://fedlex.data.admin.ch/eli/oc/2005/540), [2008 4273](https://fedlex.data.admin.ch/eli/oc/2008/605), [2009 621](https://fedlex.data.admin.ch/eli/oc/2009/113)[4845](https://fedlex.data.admin.ch/eli/oc/2009/574)) e della Convenzione AELS riveduta.
 [^25b-7]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
 
 #### Art. 25c
@@ -705,7 +730,7 @@ L’assicurato non può esigere il pagamento in contanti, secondo l’articolo 5
 
 <sup>2</sup> Il capoverso 1 lettera a entra in vigore cinque anni dopo l’entrata in vigore dell’Accordo sulla libera circolazione[^25f-2].
 
-<sup>3</sup> Il capoverso 1 lettera b entra in vigore cinque anni dopo l’entrata in vigore della Convenzione AELS emendata[^25f-3].
+<sup>3</sup> Il capoverso 1 lettera b entra in vigore cinque anni dopo l’entrata in vigore della Convenzione AELS emendata [^25f-3].
 
 [^25f-1]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
 [^25f-2]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
