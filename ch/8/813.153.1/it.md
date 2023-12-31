@@ -4,11 +4,11 @@ title: "Ordinanza del 18 maggio 2005 sugli emolumenti per l'esecuzione della leg
 short: OEPChim
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/469"
 language: it
-version: 2023-06-01
+version: 2024-01-01
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/469/20230601/it/xml/fedlex-data-admin-ch-eli-cc-2005-469-20230601-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/469/20230601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/469/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2005-469-20240101-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/469/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/469/20230601/it"
 
 (Ordinanza sugli emolumenti in materia di prodotti chimici, OEPChim)
 
-del 18 maggio 2005 (Stato 1° giugno 2023)
+del 18 maggio 2005 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -113,7 +113,7 @@ Allegato[^t-1]
 
 [^annexu1-lvlI-1]
 
-[^t-1]: Aggiornato dal n. III dell’O del 7 nov. 2012 ([RU 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), dall’all. 11 n. 2 dell’O del 20 giu. 2014 ([RU 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)), dal n. 3 dell’all. 6 all’O del 5 giu. 2015 sui prodotti chimici ([RU 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)), dal n. I dell’O del 31 gen. 2018 ([RU 2018 835](https://fedlex.data.admin.ch/eli/oc/2018/105)) e dal n. II dell’O del 5 apr. 2023, in vigore dal 1° giu. 2023 ([RU 2023 191](https://fedlex.data.admin.ch/eli/oc/2023/191)).
+[^t-1]: Aggiornato dal n. III dell’O del 7 nov. 2012 ([RU 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), dall’all. 11 n. 2 dell’O del 20 giu. 2014 ([RU 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)), dall’all. 6 n. 3 dell’O del 5 giu. 2015 sui prodotti chimici ([RU 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)), dal n. I dell’O del 31 gen. 2018 ([RU 2018 835](https://fedlex.data.admin.ch/eli/oc/2018/105),) dal n. II dell’O del 5 apr. 2023 ([RU 2023 191](https://fedlex.data.admin.ch/eli/oc/2023/191)) e dall’all. n. 2 dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 709](https://fedlex.data.admin.ch/eli/oc/2023/709)).
 [^annexu1-lvlI-1]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
 
 <table>
@@ -190,7 +190,9 @@ Allegato[^t-1]
 <tr><td colspan="2">8.3.2 Con valutazione completa</td><td>11 000–45 000</td></tr>
 <tr><td colspan="2">9 *Valutazione di principi attivi in virtù di un trattato di diritto internazionale secondo l’articolo 17 capoverso 1 lettera c*</td><td></td></tr>
 <tr><td colspan="2">9.1 Emolumento di base per un principio attivo e un tipo di prodotto</td><td>150 000–250 000</td></tr>
-<tr><td colspan="2">9.2 Emolumento suppletivo per un ulteriore tipo di prodotto</td><td>30 000–60 000</td></tr>
+<tr><td colspan="2">9.1.1 Emolumento suppletivo per un ulteriore tipo di prodotto</td><td>30 000 – 60 000</td></tr>
+<tr><td colspan="2">9.2 Emolumento per la proroga dell’approvazione di un principio attivo per un tipo di prodotto</td><td>40 000 – 190 000</td></tr>
+<tr><td colspan="2">9.2.1 Emolumento suppletivo per un ulteriore tipo di prodotto</td><td>7 500 – 22 500</td></tr>
 </table>
 
 ## III. Emolumenti secondo l’ordinanza del 18 maggio 2005 sulla riduzione dei rischi inerenti ai prodotti chimici (ORRPChim)

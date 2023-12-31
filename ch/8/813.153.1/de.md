@@ -4,11 +4,11 @@ title: "Verordnung vom 18. Mai 2005 über Gebühren für den Bundesvollzug der C
 short: ChemGebV
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/469"
 language: de
-version: 2023-06-01
+version: 2024-01-01
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/469/20230601/de/xml/fedlex-data-admin-ch-eli-cc-2005-469-20230601-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/469/20230601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/469/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2005-469-20240101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/469/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/469/20230601/de"
 
 (Chemikaliengebührenverordnung, ChemGebV)
 
-vom 18. Mai 2005 (Stand am 1. Juni 2023)
+vom 18. Mai 2005 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -113,7 +113,7 @@ Anhang[^t-1]
 
 [^annexu1-lvlI-1]
 
-[^t-1]: Bereinigt gemäss Ziff. III der V vom 7. Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), Anhang 11 Ziff. 2 der V vom 14. Juni 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)), Anhang 6 Ziff. 3 der Chemikalienverordnung vom 5. Juni 2015 ([AS 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)), Ziff. I der V vom 31. Jan. 2018 ([AS 2018 835](https://fedlex.data.admin.ch/eli/oc/2018/105)) und Ziff. II der V vom 5. April 2023, in Kraft seit 1. Juni 2023 ([AS 2023 191](https://fedlex.data.admin.ch/eli/oc/2023/191)).
+[^t-1]: Bereinigt gemäss Ziff. III der V vom 7. Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), Anhang 11 Ziff. 2 der V vom 14. Juni 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)), Anhang 6 Ziff. 3 der Chemikalienverordnung vom 5. Juni 2015 ([AS 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)), Ziff. I der V vom 31. Jan. 2018 ([AS 2018 835](https://fedlex.data.admin.ch/eli/oc/2018/105)), Ziff. II der V vom 5. April 2023 ([AS 2023 191](https://fedlex.data.admin.ch/eli/oc/2023/191)) und Anhang Ziff. 2 vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 709](https://fedlex.data.admin.ch/eli/oc/2023/709)).
 [^annexu1-lvlI-1]: [SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
 
 <table>
@@ -192,7 +192,9 @@ Anhang[^t-1]
 <tr><td colspan="2">8.3.2 Mit umfassender Bewertung</td><td>11 000–45 000</td></tr>
 <tr><td colspan="2">9 Bewertung von Wirkstoffen gestützt auf eine völkerrechtliche Vereinbarung nach Artikel 17 Absatz 1 Buchstabe c</td><td></td></tr>
 <tr><td>9.1 Grundgebühr für einen Wirkstoff und eine Produktart</td><td colspan="2">150 000–250 000</td></tr>
-<tr><td colspan="2">9.2 Pro zusätzliche Produktart</td><td>30 000–60 000</td></tr>
+<tr><td colspan="2">9.1.1 Pro zusätzliche Produktart</td><td>30 000–60 000</td></tr>
+<tr><td colspan="2">9.2 Gebühr für die Verlängerung der Genehmigung eines Wirkstoffs für eine Produktart</td><td>40 000–190 000</td></tr>
+<tr><td colspan="2">9.2.1 Pro zusätzliche Produktart</td><td>7 500–22 500</td></tr>
 </table>
 
 ## III. Gebühren nach der Chemikalien-Risikoreduktions-Verordnung vom 18. Mai 2005 (ChemRRV)

@@ -4,11 +4,11 @@ title: "Ordonnance du 18 mai 2005 sur les émoluments perçus en application de 
 short: OEChim
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/469"
 language: fr
-version: 2023-06-01
+version: 2024-01-01
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/469/20230601/fr/xml/fedlex-data-admin-ch-eli-cc-2005-469-20230601-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/469/20230601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/469/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2005-469-20240101-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/469/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/469/20230601/fr"
 
 (Ordonnance sur les émoluments relatifs aux produits chimiques, OEChim)
 
-du 18 mai 2005 (État le 1<sup>er</sup> juin 2023)
+du 18 mai 2005 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -113,7 +113,7 @@ Annexe[^t-1]
 
 [^annexu1-lvlI-1]
 
-[^t-1]: Mise à jour par l’annexe ch. 3 de l’O du 7 nov. 2012 ([RO 2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724)), le ch. III de l’O du 7 nov. 2012 ([RO 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), l’annexe 11 ch. 2 de l’O du 20 juin 2014 ([RO 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)), l’annexe 6 ch. 3 de l’O du 5 juin 2015 sur les produits chimiques, ([RO 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)), le ch. I de l’O du 31 janv. 2018 ([RO 2018 835](https://fedlex.data.admin.ch/eli/oc/2018/105)) et le ch. II de l’O du 5 avr. 2023, en vigueur depuis le 1<sup>er</sup> juin 2023 ([RO 2023 191](https://fedlex.data.admin.ch/eli/oc/2023/191)).
+[^t-1]: Mise à jour par l’annexe ch. 3 de l’O du 7 nov. 2012 ([RO 2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724)), le ch. III de l’O du 7 nov. 2012 ([RO 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), l’annexe 11 ch. 2 de l’O du 20 juin 2014 ([RO 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)), l’annexe 6 ch. 3 de l’O du 5 juin 2015 sur les produits chimiques, ([RO 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)), le ch. I de l’O du 31 janv. 2018 ([RO 2018 835](https://fedlex.data.admin.ch/eli/oc/2018/105)), le ch. II de l’O du 5 avr. 2023 ([RO 2023 191](https://fedlex.data.admin.ch/eli/oc/2023/191)) et l’annexe ch. 2 de l’O du 15 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 709](https://fedlex.data.admin.ch/eli/oc/2023/709)).
 [^annexu1-lvlI-1]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
 
 <table>
@@ -192,7 +192,9 @@ Annexe[^t-1]
 <tr><td>8.3.2 avec une évaluation complète</td><td>11 000–45 000</td></tr>
 <tr><td>*9* *Évaluation de substances actives sur la base d’un accord international conformément à l’art. 17, al. 1, let. c*</td><td></td></tr>
 <tr><td>9.1 Émolument de base pour une substance active et un type de produit</td><td>150 000–250 000</td></tr>
-<tr><td>9.2 Par type de produit supplémentaire</td><td>30 000–60 000</td></tr>
+<tr><td>9.1.1 Par type de produit supplémentaire</td><td>30 000–60 000</td></tr>
+<tr><td>9.2 Émolument pour la prolongation de l’approbation d’une substance active et d’un type de produit</td><td>40 000–190 000</td></tr>
+<tr><td>9.2.1 Par type de produit supplémentaire</td><td>7 500–22 500</td></tr>
 </table>
 
 ## III. Émoluments perçus en application de l’ordonnance du 18 mai 2005 sur la réduction des risques liés aux produits chimiques (ORRChim)
