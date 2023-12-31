@@ -4,11 +4,12 @@ number: "173.12"
 title: Loi concernant le traitement des autorités judiciaires et des représentants du ministère public
 language: fr
 version: 2024-01-01
+corrected: 2023-12-19
 version_adopted: 2023-09-07
 adopted: 2010-09-10
 in_force: 2011-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/173.12"
-pdf: "https://lex.vs.ch/api/fr/versions/3264/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3156/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -116,8 +117,6 @@ ordonne:[^ingress-1]
 <sup>4</sup> Le traitement annuel du procureur est le même que celui d'un magistrat judiciaire de première instance.
 
 <sup>5</sup> Le traitement annuel des substituts I et II est fixé conformément à l'article 5.
-
-<sup>6</sup> Le traitement annuel des greffiers I et II est fixé conformément à l'article 6.
 
 #### Art. 8
 
@@ -286,8 +285,6 @@ ordonne:[^ingress-1]
 <tr><td>Procureur</td><td>Fr. 135'344.40</td><td>Fr. 189'481.90</td></tr>
 <tr><td>Substitut I (classe 2)</td><td>Fr. 123'483.10</td><td>Fr. 172'876.35</td></tr>
 <tr><td>Substitut II (classe 3)</td><td>Fr. 119'423.85</td><td>Fr. 167'193.40</td></tr>
-<tr><td>Greffier I (classe 4)</td><td>Fr. 115'499.15</td><td>Fr. 161'698.80</td></tr>
-<tr><td>Greffier II (classe 5)</td><td>Fr. 111'699.90</td><td>Fr. 156'379.85</td></tr>
 <tr><td>\*\*Majoration</td><td>Les titulaires de ces fonctions bénéficient d'une rémunération annuelle forfaitaire supplémentaire de Fr. 5'000.-, soumise à indexation</td><td>Les titulaires de ces fonctions bénéficient d'une rémunération annuelle forfaitaire supplémentaire de Fr. 5'000.-, soumise à indexation</td></tr>
 </table>
 

@@ -4,11 +4,12 @@ number: "173.12"
 title: Gesetz betreffend die Gehälter der Gerichtsbehörden und der Vertreter der Staatsanwaltschaft
 language: de
 version: 2024-01-01
+corrected: 2023-12-19
 version_adopted: 2023-09-07
 adopted: 2010-09-10
 in_force: 2011-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/173.12"
-pdf: "https://lex.vs.ch/api/de/versions/3264/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3156/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -116,8 +117,6 @@ verordnet:[^ingress-1]
 <sup>4</sup> Das Jahresgehalt des Staatsanwalts entspricht dem Gehalt eines erstinstanzlichen Richters.
 
 <sup>5</sup> Das Jahresgehalt der Substituten I und II wird gemäss Artikel 5 festgelegt.
-
-<sup>6</sup> Das Jahresgehalt der Gerichtsschreiber I und II wird gemäss Artikel 6 festgelegt.
 
 #### Art. 8
 
@@ -286,9 +285,7 @@ verordnet:[^ingress-1]
 <tr><td>Staatsanwalt</td><td>Fr. 135'344.40</td><td>Fr. 189'481.90</td></tr>
 <tr><td>Substitut I (Klasse 2)</td><td>Fr. 123'483.10</td><td>Fr. 172'876.35</td></tr>
 <tr><td>Substitut II (Klasse 3)</td><td>Fr. 119'423.85</td><td>Fr. 167'193.40</td></tr>
-<tr><td>Gerichtsschreiber I (Klasse 4)</td><td>Fr. 115'499.15</td><td>Fr. 161'698.80</td></tr>
-<tr><td>Gerichtsschreiber II (Klasse 5)</td><td>Fr. 111'699.90</td><td>Fr. 156'379.85</td></tr>
-<tr><td>\*\*Zusätzliche Pauschale</td><td>Der Inhaber dieses Amtes bezieht eine zusätzliche jährliche Pauschalentschädigung von Fr. 5'000.-, die indexiert wird.</td><td>Der Inhaber dieses Amtes bezieht eine zusätzliche jährliche Pauschalentschädigung von Fr. 5'000.-, die indexiert wird.</td></tr>
+<tr><td>\*\*Zusätzliche Pauschale</td><td>Der Inhaber dieses Amtes bezieht eine zusätzliche jährliche Pauschalentschädigung von Fr. 5'000.-, die indexiert wird</td><td>Der Inhaber dieses Amtes bezieht eine zusätzliche jährliche Pauschalentschädigung von Fr. 5'000.-, die indexiert wird</td></tr>
 </table>
 
 CSW BO/Abl. 38/2010, 52/2010
