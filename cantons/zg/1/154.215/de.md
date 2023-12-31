@@ -1,171 +1,329 @@
 ---
 canton: ZG
 number: "154.215"
-title: Reglement über die Weiter- oder Zusatzbildung sowie den Studienurlaub des Staatspersonals
+title: "Verordnung über die Aus-, Fort- und Weiterbildung sowie den Bildungsurlaub"
 short: Weiterbildungsverordnung; WBVO
 language: de
-version: 2016-01-01
-valid_until: 2023-12-31
-version_adopted: 2015-08-25
+version: 2024-01-01
+valid_until: 2026-07-31
+version_adopted: 2023-12-05
 adopted: 2023-12-05
 in_force: 2024-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/154.215"
-pdf: "https://bgs.zg.ch/api/de/versions/1487/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2516/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Reglement über die Weiter- oder Zusatzbildung sowie den Studienurlaub des Staatspersonals
+# Verordnung über die Aus-, Fort- und Weiterbildung sowie den Bildungsurlaub
 
-Vom 17. Mai 2005 (Stand 1. Januar 2016)
+(Weiterbildungsverordnung; WBVO)
+
+Vom 5. Dezember 2023 (Stand 1. Januar 2024)
 
 Der Regierungsrat des Kantons Zug,
 
-gestützt auf §§ 37, 63 und 64 des Gesetzes über das Arbeitsverhältnis des Staatspersonals vom 1. September 1994[^ingress-1] in Verbindung mit §§ 3a Abs. 1 und 2, 28 und 34 der Vollziehungsverordnung zum Gesetz über das Arbeitsverhältnis des Staatspersonals vom 12. Dezember 1994[^ingress-2] sowie im Einvernehmen mit dem Obergericht und dem Verwaltungsgericht,
+gestützt auf § 37, § 63 und § 64 des Gesetzes über das Arbeitsverhältnis des Staatspersonals vom 1. September 1994[^ingress-1] in Verbindung mit § 3a Abs. 1 und 2 Bst. e der Vollziehungsverordnung zum Gesetz über das Arbeitsverhältnis des Staatspersonals vom 12. Dezember 1994[^ingress-2] sowie im Einvernehmen mit dem Obergericht und dem Verwaltungsgericht,
 
 beschliesst:
 
 [^ingress-1]: BGS [154.21](https://bgs.zg.ch/data/154.21/de)
 [^ingress-2]: BGS [154.211](https://bgs.zg.ch/data/154.211/de)
 
+## 1. Allgemeine Bestimmungen
+
 #### § 1
 
-**Begriffe**
+**Gegenstand**
 
-<sup>1</sup> Weiterbildung: Dient der Qualifikationserhaltung und -erweiterung auf der Basis der bestehenden Ausbildung bzw. der aktuellen Tätigkeit.
+<sup>1</sup> Diese Verordnung regelt die Bedingungen für die Aus-, Fort- und Weiterbildung sowie den Bildungsurlaub des Staatspersonals.
 
-<sup>2</sup> Zusatzbildung: Ergibt eine Höherqualifikation, die (teilweise) die Ausübung einer neuen beruflichen Tätigkeit erlaubt (Nachdiplomstudium, Diplomlehrgänge etc.).
-
-<sup>3</sup> Studienurlaub: Dient der Qualifikationserhaltung und Aktualisierung der beruflichen Kenntnisse sowie der Vorbeugung gegen Burnout-Syndrome.
+<sup>2</sup> Die Finanzdirektion regelt das Nähere zur Aus-, Fort- und Weiterbildung sowie zum Bildungsurlaub in einer Weisung.
 
 #### § 2
 
-**Angeordnete Weiter- oder Zusatzbildung Kostenübernahme und Auflagen**
+**Geltungsbereich**
 
-<sup>1</sup> Soweit der oder die Mitarbeitende zur beruflichen Weiter- und Zusatzbildung gemäss § 28 Abs. 1 der Personalverordnung verpflichtet wird, bezahlt der Kanton Kursgeld und Kursspesen (Reise-, Unterkunfts- und Verpflegungsspesen) unabhängig vom Beschäftigungsumfang. Die Kursspesen werden gemäss Entschädigungsverordnung[^2-1] entschädigt.
+<sup>1</sup> Die Verordnung gilt für alle in einem öffentlich-rechtlichen Arbeitsverhältnis stehenden Mitarbeiterinnen und Mitarbeiter des Kantons.
 
-<sup>2</sup> Das Gleiche gilt für Kurse im Rahmen der Zentralschweizer Verwaltungsweiterbildung, an welcher der Kanton beteiligt ist.
+<sup>2</sup> Vorbehalten bleiben besondere Bestimmungen, namentlich für Lehrpersonen sowie für Mitarbeiterinnen und Mitarbeiter der Polizei.
 
-<sup>3</sup> Die in die Arbeitszeit fallende Abwesenheit gilt als bezahlter Urlaub. Der Kanton übernimmt die Kosten für eine allfällige Stellvertretung.
+<sup>3</sup> Die Justizverwaltung, die Datenschutzstelle sowie die Ombudsstelle sind von der Pflicht ausgenommen:
 
-<sup>4</sup> Lehrpersonen an Zuger Berufsfachschulen werden an ihre obligatorische Ausbildung zu Berufsfachschullehrpersonen an eidgenössisch anerkannten Lehrerbildungsstätten für Berufsfachschullehrpersonen folgende Beiträge in Form von anrechenbaren Lektionen geleistet:
-
-- a) Bei einem Vollpensum insgesamt höchstens 15 Jahreslektionen, bezogen auf die ganze Ausbildungszeit, wobei die Aufteilung auf mehrere Semester zulässig ist;
-- b) Bei einem Teilpensum entsprechend anteilsmässig, wobei die Aufteilung auf mehrere Semester zulässig ist und in der Regel dem Durchschnitt des vorhergehenden Berufsfachschulunterrichtsumfangs entspricht;
-- c) Für Lehrpersonen mit einem Pensum von unter 50 % kann die Volkswirtschaftsdirektion je nach Interessenlage von Bst. b abweichen, sofern die Lehrperson eine Rückzahlungsverpflichtung gemäss § 4 Abs. 3 dieses Reglements eingeht.
-
-[^2-1]: BGS [154.221](https://bgs.zg.ch/data/154.221/de)
+- a) ihre Entscheide nach Rücksprache mit dem Personalamt zu treffen;
+- b) für den Abschluss einer Bildungsvereinbarung die vom Personalamt zur Verfügung gestellte Vorlage zu benutzen.
 
 #### § 3
 
-**Freiwillige Weiter- oder Zusatzbildung Kostenübernahme und Auflagen**
+**Begriffe**
 
-<sup>1</sup> Für freiwillige Weiter- oder Zusatzbildung gemäss § 28 Abs. 2 der Personalverordnung, welche weitgehend im Interesse des Kantons liegt, übernimmt der Kanton 80 % des Kursgeldes und der Kursspesen sowie den vollen Zeitaufwand. Ab einer Kostenübernahme von total CHF 4000.– ist die Bewilligung an die Verpflichtungszeit und die Rückzahlungsbedingungen gemäss § 4 geknüpft.
+<sup>1</sup> Ausbildung: Die durch Aneignung von Wissen und praxisbezogenem Erlernen von Fertigkeiten erlangte und mit offiziellem Abschluss bestätigte Befähigung zur Ausübung einer besonderen Berufstätigkeit.
 
-<sup>2</sup> An freiwillige Weiter- oder Zusatzbildung gemäss § 28 Abs. 2 der Personalverordnung, welche nur teilweise im Interesse des Kantons liegt, wird ein entsprechender prozentualer Anteil (maximal 50 %) sowohl bezüglich Kursgeld und Kursspesen als auch bezüglich Zeitaufwand vom Kanton übernommen. Ab einer Kostenübernahme von total CHF 2000.– ist die Bewilligung an die Verpflichtungszeit und die Rückzahlungsbedingungen gemäss § 4 geknüpft. Sofern die Weiter- oder Zusatzausbildung zu Lohnerhöhungen führt, wird in der Regel kein Beitrag geleistet und keine arbeitsfreie Zeit gewährt.
+<sup>2</sup> Fortbildung: Sie gewährleistet die Qualifikationserhaltung und -erweiterung im Rahmen der bestehenden Ausbildung bzw. der aktuellen Tätigkeit durch Vermittlung von Kenntnissen und Fertigkeiten zur zeitgemässen Berufsausübung bzw. Aufgabenerfüllung.
 
-<sup>3</sup> An freiwillige Weiter- und Zusatzbildung, die ausschliesslich im Interesse der oder des Mitarbeitenden liegt, wird kein Beitrag geleistet. Sie ist während der arbeitsfreien Zeit zu absolvieren oder während bewilligtem unbezahltem Urlaub.
+<sup>3</sup> Weiterbildung: Sie führt zu einer Höherqualifikation, die ganz oder teilweise die Ausübung einer neuen beruflichen Tätigkeit erlaubt (Nachdiplomstudium, Diplomlehrgänge und dgl.).
+
+<sup>4</sup> Interne Fort- und Weiterbildung: Kurse und Seminare der Weiterbildung Zentralschweiz (ausgenommen Lehrgänge sowie die damit verbundenen Vertiefungsseminare und Reflexionszirkel) sowie eigene Fort- und Weiterbildungsangebote des Kantons Zug.
+
+<sup>5</sup> Bildungsurlaub: Längerdauernde Freistellung von der Arbeitspflicht bei voller oder teilweiser Lohnzahlung, welche der körperlichen und geistigen Regeneration oder der Motivation langjährig tätiger Mitarbeiterinnen bzw. Mitarbeiter dient.
 
 #### § 4
 
-**Verpflichtungszeit und Rückzahlungsverpflichtung**
+**Bildungsvereinbarungen**
 
-<sup>1</sup> Bei einem von der oder dem Mitarbeitenden verursachten Abbruch der Weiter- oder Zusatzbildung sowie bei Austritt aus dem Staatsdienst vor Beendigung derselben sind die während der Weiter- oder Zusatzbildung bezahlten Kursgelder und Kursspesen sowie die Lohn- und Sozialkosten dem Kanton voll zurückzuerstatten.
+<sup>1</sup> Die Modalitäten von Aus-, Fort- und Weiterbildungen, von Übernahmen von Rückzahlungsverpflichtungen gegenüber früheren Arbeitgeberinnen bzw. Arbeitgeber sowie von Bildungsurlauben sind in einer Bildungsvereinbarung festzuhalten. Ausgenommen von einer Regelung in einer Bildungsvereinbarung sind die Veranstaltungen gemäss § 17 Abs. 1.
 
-<sup>2</sup> Bei unverschuldetem Abbruch der Weiter- oder Zusatzbildung seitens der oder des Mitarbeitenden besteht keine Rückzahlungspflicht.
+<sup>2</sup> Für den Abschluss einer Bildungsvereinbarung ist die vom Personalamt zur Verfügung gestellte Vereinbarungsvorlage zu benutzen.
 
-<sup>3</sup> Bei Austritt aus dem Staatsdienst innerhalb von drei Jahren nach Beendigung der Weiter- oder Zusatzbildung sind die während der Weiter- oder Zusatzbildung vom Kanton übernommenen Kursgelder und Kursspesen sowie die Lohn- und Sozialkosten anteilmässig wie folgt zurückzuerstatten:
-
-- a) im 1. Jahr nach Beendigung der Weiter- und Zusatzbildung zu 70 %,
-- b) im 2. Jahr nach Beendigung der Weiter- und Zusatzbildung zu 50 %,
-- c) im 3. Jahr nach Beendigung der Weiter- und Zusatzbildung zu 30 %.
-
-<sup>4</sup> Der Regierungsrat kann auf die Rückerstattung ausnahmsweise ganz oder teilweise verzichten.
-
-<sup>5</sup> Die Verpflichtungszeit und Rückzahlungsverpflichtung werden entweder verfügt oder vertraglich vereinbart.
+## 2. Aus-, Fort- und Weiterbildung
 
 #### § 5
 
-**Studienurlaub: Geltungsbereich**
+**Kosten**
 
-<sup>1</sup> Ein ganz oder teilweise bezahlter Studienurlaub kann den Amts- und Abteilungsleiterinnen und -leitern sowie Mitarbeitenden der Verwaltung mit Hochschulabschluss, Fachhochschulabschluss und höherem Fachschulabschluss sowie dem Lehrpersonal aller kantonalen Schulen gewährt werden. Als kantonale Schulen gelten jene, die am Tage des Erlasses dieses Reglements als solche bestanden.
+<sup>1</sup> Die Kosten für Aus-, Fort- und Weiterbildung beinhalten:
+
+- a) die während der Tagungen, Kongresse, Kurse, Seminare, Lehrgängen, Nachdiplomstudien anfallenden Kurskosten (inkl. Einschreibe- und Prüfungsgebühren, Kosten, der vom Veranstalter als notwendig vorgegebenen Lehrmittel sowie vom Veranstalter veranschlagte Seminarpauschalen für Übernachtung und Verpflegung);
+- b) die Lohnkosten, welche während der in die Arbeitszeit fallenden, bildungsbedingten Abwesenheit anfallen (zuzüglich des Arbeitgeberanteils an Sozialversicherungs- und Pensionskassenbeiträgen).
 
 #### § 6
 
-**Voraussetzungen**
+**Kostenbeteiligung des Kantons**
 
-<sup>1</sup> Ein ganz oder teilweise bezahlter Studienurlaub kann frühestens nach Erfüllung von zehn Dienstjahren in der kantonalen Verwaltung bzw. an kantonalen Schulen unter der Voraussetzung bewilligt werden, dass die oder der Gesuchstellende durchschnittlich zu mindestens 50 % angestellt war und in dieser Zeit stets eine gute Qualifikation erhalten hat. An kantonalen Schulen werden auch frühere Dienstjahre an den Zuger Lehrerinnen- und Lehrerseminaren sowie an der Teilschule Zug der Pädagogischen Hochschule Zentralschweiz angerechnet.
+<sup>1</sup> Der Umfang der Beteiligung des Kantons an den Kosten erfolgt grundsätzlich in Abhängigkeit des Grades des dienstlichen Interesses des Kantons an der Aus-, Fort- oder Weiterbildung. Vorbehalten bleiben die Kostenbeteiligungsregelungen nach § 17.
 
-<sup>2</sup> An den kantonalen Schulen kann pro Schuljahr Studienurlaub im Umfang einer Personaleinheit gewährt werden (Ausnahmen: Kantonsschule, Gewerblich-industrielles Bildungszentrum und Kaufmännisches Bildungszentrum je 3 Personaleinheiten, Amt für Brückenangebote 2 Personaleinheiten). Der Regierungsrat kann aus wichtigen Gründen davon abweichen.
+<sup>2</sup> Neben dem Interessegrad können bei der Festlegung der Beteiligung an den Kosten die bisherige Leistung, die beruflichen Perspektiven, das Dienstalter sowie die bisherige Inanspruchnahme von Kostenbeteiligungen des Kantons berücksichtigt werden.
 
-<sup>3</sup> Die zuständigen Direktionen können nicht beanspruchte Studienurlaube einer Schule einer anderen Schule zuteilen.
+<sup>3</sup> Beim Entscheid über die Kostenbeteiligung kann ebenfalls beachtet werden, welcher Anbieter bzw. Lehrgang unter Berücksichtigung der Zielsetzung, des Zeitbedarfs, der Kosten und der Qualität des Abschlusses das beste Angebot ausweist.
+
+<sup>4</sup> Die für die Bewilligung der Aus-, Fort- oder Weiterbildung zuständige Stelle legt nach Rücksprache mit dem Personalamt den Interessegrad und den Umfang der Kostenbeteiligung des Kantons fest.
+
+<sup>5</sup> Die Anrechnung von ganztägigen bzw. halbtägigen bildungsbedingten Abwesenheiten bemisst sich sowohl für die Erfassung der Arbeitszeit als auch für die Berechnung der Lohnkosten bei Aus-, Fort- und Weiterbildungen wie folgt:
+
+- a) im Interessegrad 1 nach der dem Beschäftigungsgrad von 100 Prozent entsprechenden täglichen Sollarbeitszeit gemäss § 5 Abs. 2 der Verordnung über die Arbeitszeit bzw. deren Hälfte;
+- b) im Interessegrad 2 bis 4 nach der dem Beschäftigungsgrad entsprechenden täglichen Sollarbeitszeit gemäss § 5 der Verordnung über die Arbeitszeit[^6-1] bzw. deren Hälfte.
+
+<sup>6</sup> Solange die von der zuständigen Stelle festgelegte Kostenbeteiligung des Kantons insgesamt nicht überschritten wird, können die Parteien im gegenseitigen Einvernehmen von den Bestimmungen zur Kostenbeteiligung abweichen und insbesondere für die einzelnen Kostenarten (Kurskosten, Lohnkosten) unterschiedlich hohe Beteiligungen festlegen.
+
+[^6-1]: BGS [154.214](https://bgs.zg.ch/data/154.214/de)
 
 #### § 7
 
-**Dauer**
+**Übernahme von Rückzahlungsverpflichtungen**
 
-<sup>1</sup> Ein ganz oder teilweise bezahlter Studienurlaub kann einmal für höchstens drei Monate bewilligt werden.
+<sup>1</sup> Soweit dies im betrieblichen Interesse ist, kann die für die Anstellung zuständige Stelle bei Neuanstellungen nach Rücksprache mit dem Personalamt die nachgewiesenen Rückzahlungsverpflichtungen der Mitarbeiterinnen und Mitarbeiter für Aus-, Fort- oder Weiterbildungen gegenüber früheren Arbeitgeberinnen und Arbeitgebern ganz oder teilweise übernehmen.
+
+<sup>2</sup> Auf die Übernahme von Rückzahlungsverpflichtungen sind die Bestimmungen bezüglich der Rückzahlungsverpflichtung bei Auflösung des Arbeitsverhältnisses während der Verpflichtungsdauer gemäss § 15 f. sinngemäss anwendbar.
 
 #### § 8
 
-**Kosten und Auflagen**
+**Interessegrad 1: Dienstlich notwendig**
 
-<sup>1</sup> Es wird im Einzelfall unter Würdigung des Studienzieles, der Studiendauer, der Studienpläne und des Interesses des Arbeitgebers bzw. des persönlichen Nutzens der oder des Gesuchstellenden am Studienurlaub über den Umfang der Gehaltsfortzahlung entschieden. Es können namentlich Gehaltskürzungen angeordnet werden, wenn der oder die Beurlaubte während des Studienurlaubs einem Nebenerwerb nachgeht oder den Studienurlaub zum eigenen Vorteil wirtschaftlich auswertet.
+<sup>1</sup> Der Interessegrad 1 liegt vor:
 
-<sup>2</sup> Kursgeld und Kursspesen gehen in jedem Fall zu Lasten der oder des Beurlaubten.
+- a) wenn in der Regel die zu erwerbenden Kompetenzen bereits beim Stellenantritt erwartet werden bzw. ohne diese die gemäss Stellenbeschreibung übertragenen Aufgaben nicht oder nicht in geforderter Qualität erfüllt werden können; oder
+- b) wenn ohne die zu erwerbenden Kompetenzen die veränderten Anforderungen an die Stelle in wesentlichen Teilen nicht oder nicht in geforderter Qualität erfüllt werden können.
 
-<sup>3</sup> Nach Abschluss des Studienurlaubs ist der entsprechenden Direktion ein Bericht einzureichen.
+<sup>2</sup> Sind Aus-, Fort- oder Weiterbildungen dienstlich notwendig, können sie von der zuständigen Stelle angeordnet werden.
+
+<sup>3</sup> Beim Vorliegen des Interessegrades 1 übernimmt der Kanton in der Regel 100 Prozent der Kosten.
 
 #### § 9
 
-**Dienstverhältnis**
+**Interessegrad 2: Dienstlich gefragt**
 
-<sup>1</sup> Durch den Urlaub wird das Dienstverhältnis nicht unterbrochen. Im betreffenden Jahr kann der Ferienanspruch bei einer Urlaubsdauer von mehr als einem Monat um einen Zwölftel pro Urlaubsmonat gekürzt werden.
+<sup>1</sup> Der Interessegrad 2 liegt vor:
+
+- a) wenn die zu erwerbenden Kompetenzen zu einer Leistungs- oder Verhaltensoptimierung in der aktuellen Funktion führen können; oder
+- b) wenn die zu erwerbenden Kompetenzen für die Ausübung einer zukünftig für die Mitarbeiterin bzw. den Mitarbeiter vorgesehenen Funktion notwendig sind.
+
+<sup>2</sup> Beim Vorliegen des Interessegrades 2 übernimmt der Kanton in der Regel 80 Prozent der Kosten.
 
 #### § 10
 
-**Verpflichtungszeit und Rückzahlungsverpflichtung**
+**Interessegrad 3: Dienstlich erwünscht**
 
-<sup>1</sup> Bei einem von der oder dem Mitarbeitenden verursachten Abbruch des Studienurlaubs sowie bei Austritt aus dem Staatsdienst vor Beendigung desselben ist das während des Studienurlaubs bezogene Gehalt inkl. Sozialkosten voll dem Kanton zurückzuerstatten.
+<sup>1</sup> Der Interessegrad 3 liegt vor, wenn als Vorbereitung auf einen allfällig möglichen, noch nicht konkret für die Mitarbeiterin bzw. Mitarbeiter vorgesehenen neuen oder erweiterten Aufgabenbereich:
 
-<sup>2</sup> Bei unverschuldetem Abbruch des Studienurlaubs seitens der oder des Mitarbeitenden besteht keine Rückzahlungspflicht.
+- a) die vorhandenen Fachkenntnisse vertieft werden sollen; oder
+- b) Kompetenzen erworben werden sollen, die gleichzeitig der beruflichen oder persönlichen Weiterentwicklung dienen (namentlich Fach- oder Führungsbildungen).
 
-<sup>3</sup> Bei Austritt aus dem Staatsdienst innerhalb von drei Jahren nach Beendigung des Studienurlaubs ist das während des Urlaubs bezogene Gehalt inkl. Sozialkosten anteilmässig wie folgt zurückzuerstatten:
-
-- a) bei Austritt im 1. Jahr nach Beendigung des Studienurlaubs zu 70 %,
-- b) bei Austritt im 2. Jahr nach Beendigung des Studienurlaubs zu 50 %,
-- c) bei Austritt im 3. Jahr nach Beendigung des Studienurlaubs zu 30 %.
-
-<sup>4</sup> Die Verpflichtungszeit und Rückzahlungsverpflichtung werden entweder verfügt oder vertraglich vereinbart.
+<sup>2</sup> Beim Vorliegen des Interessegrades 3 übernimmt der Kanton in der Regel 50 Prozent der Kosten.
 
 #### § 11
 
-**Stellvertretungskosten**
+**Interessegrad 4: Dienstlich nicht notwendig, für den Kanton jedoch von Nutzen**
 
-<sup>1</sup> Die Kosten für eine allfällige Stellvertretung der oder des Beurlaubten sind dem Personalaufwandkonto der jeweiligen Schule bzw. des jeweiligen Amtes zu belasten.
+<sup>1</sup> Der Interessegrad 4 liegt vor, wenn die zu erwerbenden Kompetenzen für die Aufgabenerfüllung grundsätzlich nicht notwendig sind, aber zur Verbesserung der arbeitsplatzbezogenen Gesamtsituation (Arbeitsplatzzufriedenheit, Arbeitsmarktfähigkeit und dgl.) beitragen und somit auch dem Kanton zugute kommen.
+
+<sup>2</sup> Mitarbeiterinnen und Mitarbeiter haben für diese Art von Kompetenzerwerb in erster Linie die Kurse und Seminarien der Weiterbildung Zentralschweiz zu den hierfür geltenden Bedingung zu nutzen.
+
+<sup>3</sup> Fehlen entsprechende Angebote der Weiterbildung Zentralschweiz, übernimmt der Kanton in der Regel 25 Prozent der Kosten.
 
 #### § 12
 
-**Aufhebung bisherigen Rechts**
+**Interessegrad 5: Kein Bezug zum und kein ersichtlicher Nutzen für den Aufgabenbereich**
 
-<sup>1</sup> Die Richtlinien betreffend Fort- und Weiterbildung des hauptamtlichen Staatspersonals vom 10. Juli 1990[^12-1] werden aufgehoben.
+<sup>1</sup> Der Interessegrad 5 liegt vor, wenn die zu erwerbenden Kompetenzen:
 
-[^12-1]: nicht in GS
+- a) keinen Bezug zum dienstlichen Aufgabenbereich haben; und
+- b) vollumfänglich im Interesse der Mitarbeiterin bzw. des Mitarbeiters liegen.
+
+<sup>2</sup> Beim Vorliegen des Interessegrades 5 übernimmt der Kanton keine Kosten.
 
 #### § 13
 
-**Änderung bisherigen Rechts**
+**Rückzahlungsverpflichtung bei Nichtantritt oder Nichtbeendigung der Aus-, Fort- oder Weiterbildung**
 
-<sup>1</sup> Folgende Verordnungen werden geändert:[^13-1]
+<sup>1</sup> Tritt eine Mitarbeiterin bzw. ein Mitarbeiter die Aus-, Fort- oder Weiterbildung nicht an oder bricht diese ab, ohne dafür einen triftigen Grund zu haben, so sind die vom Kanton bereits geleisteten Beiträge an die Kurskosten sowie die übernommenen Lohnkosten diesem voll zurückzuzahlen.
 
-[^13-1]: Die Änderungen sind in den entsprechenden Erlassen publiziert. Sie werden hier nicht abgedruckt.
+<sup>2</sup> Besteht eine Mitarbeiterin bzw. ein Mitarbeiter die Erfolgskontrolle (Schlussprüfung, Abnahme einer schriftlichen Arbeit und dgl.) endgültig nicht, so sind die vom Kanton geleisteten Beiträge an die Kurskosten diesem in der Regel zurückzuzahlen.
+
+<sup>3</sup> Keine Rückzahlungsverpflichtung besteht, wenn die Aus-, Fort- oder Weiterbildung wegen triftiger Gründe wie insbesondere infolge Krankheit, Unfall, Invalidität, Schwanger- oder Mutterschaft nicht angetreten oder abgebrochen wird.
 
 #### § 14
 
-**Inkrafttreten**
+**Rückzahlungsverpflichtung bei Auflösung des Arbeitsverhältnisses während der Aus-, Fort- oder Weiterbildung**
 
-<sup>1</sup> Dieses Reglement tritt amTage nach der Veröffentlichung im Amtsblatt in Kraft[^14-1] und wird in die Gesetzessammlung aufgenommen.
+<sup>1</sup> Wird das Arbeitsverhältnis aus Gründen, die bei der Mitarbeiterin bzw. dem Mitarbeiter liegen, während der Aus, Fort- oder Weiterbildung von einer der beiden Parteien aufgelöst, so sind die vom Kanton bis zum Austritt geleisteten Beiträge an die Kurskosten sowie die übernommenen Lohnkosten diesem voll zurückzuzahlen.
 
-[^14-1]: Inkrafttreten am 28. Mai 2005
+#### § 15
 
-GS 28, 351
+**Rückzahlungsverpflichtung bei Auflösung des Arbeitsverhältnisses während der Verpflichtungsdauer**
+
+<sup>1</sup> Wird das Arbeitsverhältnis aus Gründen, die bei der Mitarbeiterin bzw. dem Mitarbeiter liegen, während der Verpflichtungsdauer von einer der beiden Parteien aufgelöst, so sind die vom Kanton bis zum Austritt geleisteten Beiträge an die Kurskosten sowie die übernommenen Lohnkosten diesem gemäss den nachfolgenden Bestimmungen zurückzuzahlen.
+
+<sup>2</sup> Eine Rückzahlungsverpflichtung infolge Auflösung des Arbeitsverhältnisses besteht ab Beendigung der Aus-, Fort- oder Weiterbildung bei einer Kostenübernahme des Kantons von:
+
+- a) 5000 bis 15'000 Franken während 12 Monaten;
+- b) 15'001 bis 25'000 Franken während 24 Monaten;
+- c) über 25'000 Franken während 36 Monaten.
+
+<sup>3</sup> Eine Aus-, Fort- oder Weiterbildung gilt mit dem Ausstellungsdatum der Bestätigung über den erfolgreichen Abschluss als beendet. Hängt der Abschluss nicht von einer Erfolgskontrolle (Schlussprüfung, Abnahme einer schriftlichen Arbeit und dgl.) ab, so gilt er mit der letzten Bildungsveranstaltung als beendet. Ab diesem Zeitpunkt wird eine eventuell nötig werdende Rückzahlung infolge Auflösung des Arbeitsverhältnisses berechnet.
+
+<sup>4</sup> Die Höhe der Rückzahlung richtet sich anteilmässig nach dem Zeitpunkt der Auflösung des Arbeitsverhältnisses während der Verpflichtungsdauer. Der rückzahlungspflichtige Betrag reduziert sich für jeden nach Beendigung der Aus-, Fort- oder Weiterbildung im Arbeitsverhältnis mit dem Kanton verbrachten ganzen Monat um den entsprechenden Anteil der Gesamtdauer der Rückzahlungsverpflichtung.
+
+#### § 16
+
+**Ausnahme von der Rückzahlungsverpflichtung infolge Auflösung des Arbeitsverhältnisses**
+
+<sup>1</sup> Keine Rückzahlungsverpflichtung infolge Auflösung des Arbeitsverhältnisses während der Aus-, Fort- oder Weiterbildung sowie der Verpflichtungsdauer besteht, wenn die Auflösung des Arbeitsverhältnisses insbesondere wegen Krankheit, Unfall, Invalidität oder Aufhebung der Stelle erfolgt.
+
+<sup>2</sup> Im Rahmen einer einvernehmlichen Auflösung des Arbeitsverhältnisses können abweichende Regelungen bezüglich der Rückzahlungsverpflichtung getroffen werden.
+
+#### § 17
+
+**Ausnahmen von der Kostenbeteiligung nach Interessegrad**
+
+<sup>1</sup> Bei der von der zuständigen Stelle bewilligten Teilnahme an folgenden Veranstaltungen übernimmt der Kanton unabhängig vom Interessegrad die Kurs- und Lohnkosten:
+
+- a) interne Fort- und Weiterbildungen gemäss § 3 Abs. 4;
+- b) maximal zweitägige Fachtagungen bzw. Fachkurse;
+- c) regelmässig stattfindende fachliche Kurzveranstaltungen, für welche ein Pauschalbetrag erhoben wird.
+
+<sup>2</sup> Für den Besuch der in Abs. 1 genannten Veranstaltungen erfolgt die Anrechnung als Arbeitszeit gemäss § 9 Abs. 7 der Verordnung über die Arbeitszeit[^17-1].
+
+<sup>3</sup> Nimmt eine Mitarbeiterin bzw. ein Mitarbeiter trotz bewilligter Teilnahme und Anmeldung an Veranstaltungen gemäss Abs. 1 nicht teil und entstehen dem Kanton dadurch Kurs- oder Lohnkosten, so können diese analog zu den Regelungen bei Nichtantritt der Aus-, Fort- oder Weiterbildung gemäss § 13 zurückgefordert werden.
+
+[^17-1]: BGS [154.214](https://bgs.zg.ch/data/154.214/de)
+
+## 3. Bildungsurlaub
+
+#### § 18
+
+**Bezugsberechtigte**
+
+<sup>1</sup> Ein Bildungsurlaub kann folgenden Personen gewährt werden:
+
+- a) den Mitarbeiterinnen und Mitarbeitern in den Referenzfunktionen Amtsleitung 1 und 2;
+- b) den Mitarbeiterinnen und Mitarbeitern in den Referenzfunktionen Leitung Fachbereich 1 bis 3;
+- c) den Mitarbeiterinnen und Mitarbeitern in den Referenzfunktionen Fachbearbeitung 3 und 4;
+- d) den Mitarbeiterinnen und Mitarbeitern mit hoheitlicher polizeilicher Gewalt bei der Zuger Polizei in den folgenden Funktionen bzw. Dienstgraden:
+  - 1\. Polizeikommissarinnen/Polizeikommissare, ab Lohnklasse 17
+  - 2\. Polizeiadjutantin/Polizeiadjutant (Adj), ab Lohnklasse 17
+  - 3\. Polizeiadjutantin/Polizeiadjutant mit besonderen Aufgaben (Adj mbA)
+  - 4\. Polizeiadjutantin/Polizeiadjutant mit Vorgesetztenaufgabe (Adj mV)
+  - 5\. Leutnantin/Leutnant (Lt)
+  - 6\. Oberleutnantin/Oberleutnant (Oblt)
+  - 7\. Hauptmann (Hptm)
+  - 8 Majorin/Major (Maj)
+  - 9\. Oberstleutnantin/Oberstleutnant (Oberstlt)
+  - 10\. Oberst;
+- e) den Lehrpersonen der kantonalen Schulen gemäss der vom Regierungsrat hierfür pro Schuljahr festgelegten Anzahl der Personaleinheiten.
+
+<sup>2</sup> Das Obergericht und das Verwaltungsgericht legen die Berechtigung zum Bezug eines Bildungsurlaubs für das Justizpersonal fest.
+
+#### § 19
+
+**Tätigkeiten während des Bildungsurlaubs**
+
+<sup>1</sup> Ein Bildungsurlaub kann von der zuständigen Stelle gewährt werden, wenn die Mitarbeiterin bzw. der Mitarbeiter diese Zeit ganz oder überwiegend dazu nutzt:
+
+- a) sich Wissen, Fähigkeiten oder Fertigkeiten anzueignen, welche auch für den Kanton von Nutzen sind;
+- b) sich sozial oder im Rahmen von Freiwilligenarbeit zu engagieren;
+- c) im Rahmen einer vorübergehenden Arbeitstätigkeit im Ausland neue Menschen und fremde Kulturen kennenzulernen (Jobbatical);
+- d) sich vollumfänglich einem Projekt zu widmen, welches zumindest teilweise zum Nutzen des Kantons ist.
+
+#### § 20
+
+**Voraussetzungen**
+
+<sup>1</sup> Ein Gesuch für einen Bildungsurlaub ist spätestens bis Mitte des dem Bildungsurlaub vorangehenden Kalenderjahrs, bei Lehrpersonen spätestens bis Mitte des dem Bildungsurlaub vorangehenden Schuljahrs bei der für dessen Bewilligung zuständigen Stelle einzureichen.
+
+<sup>2</sup> Ein Bildungsurlaub kann frühestens nach zehnjähriger Tätigkeit in einem unbefristeten Arbeitsverhältnis in der kantonalen Verwaltung bzw. an kantonalen Schulen unter der Voraussetzung bewilligt werden, dass die Gesuchstellerin bzw. der Gesuchsteller in dieser Zeit durchschnittlich zu mindestens 50 % angestellt war und stets eine gute Qualifikation erhalten hat.
+
+<sup>3</sup> Ein Bildungsurlaub kann längstens bis drei Jahre vor dem für die Beendigung des Arbeitsverhältnisses infolge Erreichens der Altersgrenze massgeblichen Zeitpunkt[^20-1] bezogen werden.
+
+[^20-1]: vgl. § 20 Abs. 1 Personalgesetz
+
+#### § 21
+
+**Dauer**
+
+<sup>1</sup> Ein Bildungsurlaub kann den berechtigten Mitarbeiterinnen bzw. Mitarbeitern von der zuständigen Stelle einmalig für die Dauer von einem bis drei Monaten bewilligt werden.
+
+#### § 22
+
+**Kosten und Auflagen**
+
+<sup>1</sup> Die für die Bewilligung des Bildungsurlaubs zuständige Stelle entscheidet im Einzelfall unter Würdigung der beabsichtigten Tätigkeit, der Dauer und des Interesses des Kantons respektive des persönlichen Interesses der Mitarbeiterin bzw. des Mitarbeiters am Bildungsurlaub über die während dieser Zeit zu erfolgende Lohnzahlung. Eine Lohnkürzung hat namentlich dann zu erfolgen, wenn die Mitarbeiterin bzw. der Mitarbeiter im Rahmen des Bildungsurlaubs einer bezahlten Arbeitstätigkeit nachgeht oder den Bildungsurlaub zum eigenen Vorteil wirtschaftlich auswertet.
+
+<sup>2</sup> Kosten der während des Bildungsurlaubs absolvierten Bildungsgänge gehen in jedem Fall zu Lasten der Mitarbeiterin bzw. des Mitarbeiters.
+
+<sup>3</sup> Nach Abschluss des Bildungsurlaubs ist der für die Bewilligung des Bildungsurlaubs zuständigen Stelle ein Verlaufs- und Ergebnisbericht einzureichen.
+
+<sup>4</sup> Tritt die Mitarbeiterin bzw. der Mitarbeiter aus Gründen, die bei ihr bzw. ihm liegen, den gewährten Bildungsurlaub nicht an, so besteht unabhängig von deren bzw. dessen Verschulden kein Anspruch, den Bildungsurlaub nachzuholen.
+
+#### § 23
+
+**Dienstverhältnis und Ferienkürzung**
+
+<sup>1</sup> Durch den Bildungsurlaub wird das Dienstverhältnis nicht unterbrochen. Im betreffenden Jahr wird der Ferienanspruch bei einem Bildungsurlaub von mehr als einem Monat um einen Zwölftel pro vollen Monat gekürzt.
+
+#### § 24
+
+**Verpflichtungsdauer und Rückzahlungsverpflichtung**
+
+<sup>1</sup> Bricht eine Mitarbeiterin bzw. ein Mitarbeiter den Bildungsurlaub ab, ohne einen triftigen Grund hierfür zu haben oder wird das Arbeitsverhältnis aus Gründen, die bei der Mitarbeiterin bzw. dem Mitarbeiter liegen, während des Bildungsurlaubs von einer der beiden Parteien aufgelöst, so sind die während des Bildungsurlaubs entstandenen Lohnkosten dem Kanton vollumfänglich zurückzuzahlen.
+
+<sup>2</sup> Bei Abbruch des Bildungsurlaubs und Auflösung des Arbeitsverhältnisses während des Bildungsurlaubs sind die Bestimmungen von § 13 Abs. 2 und § 16 sinngemäss anwendbar.
+
+<sup>3</sup> Wird das Arbeitsverhältnis aus Gründen, die bei der Mitarbeiterin bzw. dem Mitarbeiter liegen, während der Verpflichtungsdauer von einer der beiden Parteien aufgelöst, so sind die dem Kanton während des Bildungsurlaubs entstandenen Lohnkosten diesem gemäss den nachfolgenden Bestimmungen zurückzuzahlen.
+
+<sup>4</sup> Eine Rückzahlungsverpflichtung infolge Auflösung des Arbeitsverhältnisses besteht ab Beendigung des Bildungsurlaubs bei den dem Kanton während des Bildungsurlaubs entstandenen Lohnkosten in der Höhe von:
+
+- a) 5000 bis 15'000 Franken während 12 Monaten;
+- b) 15'001 bis 25'000 Franken während 24 Monaten;
+- c) über 25'000 Franken während 36 Monaten.
+
+<sup>5</sup> Bei Auflösung des Arbeitsverhältnisses während der Verpflichtungsdauer sind die Bestimmungen von § 16 sinngemäss anwendbar.
+
+## 4. Schluss- und Übergangsbestimmungen
+
+#### § 25
+
+**Übergangsbestimmungen**
+
+<sup>1</sup> Auf Aus-, Fort- oder Weiterbildungen sowie Studienurlaube, welche nach Inkrafttreten dieser Verordnung beginnen, jedoch bereits unter altem Recht bewilligt oder vereinbart wurden, finden die Bestimmungen des Reglements über die Weiter- oder Zusatzbildung sowie den Studienurlaub des Staatspersonals vom 17. Mai 2005 Anwendung.
+
+GS 2023/081
