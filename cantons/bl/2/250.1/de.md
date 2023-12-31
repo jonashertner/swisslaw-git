@@ -4,13 +4,12 @@ number: "250.1"
 title: Dekret zum Einführungsgesetz zur Schweizerischen Strafprozessordnung
 short: Dekret EG StPO
 language: de
-version: 2022-04-01
-valid_until: 2023-12-31
-version_adopted: 2022-02-24
+version: 2024-01-01
+version_adopted: 2023-10-19
 adopted: 2010-04-15
 in_force: 2011-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/250.1"
-pdf: "https://bl.clex.ch/api/de/versions/3277/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3736/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3277/pdf_file"
 
 (Dekret EG StPO)
 
-Vom 15.04.2010 (Stand 01.04.2022)
+Vom 15.04.2010 (Stand 01.01.2024)
 
 Der Landrat des Kantons Basel-Landschaft,
 
@@ -38,7 +37,7 @@ beschliesst:
 
 - a. der Ersten Staatsanwältin oder dem Ersten Staatsanwalt;
 - b. 4 Leitenden Staatsanwältinnen oder Leitenden Staatsanwälten;
-- c. 36,5 Sollstellen für weitere ordentliche Staatsanwältinnen und ordentliche Staatsanwälte.
+- c. 39,5 Sollstellen für weitere ordentliche Staatsanwältinnen und ordentliche Staatsanwälte.
 
 #### § 2
 
