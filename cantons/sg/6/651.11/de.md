@@ -3,20 +3,19 @@ canton: SG
 number: "651.11"
 title: Verordnung zum Einführungsgesetz zur eidgenössischen Waldgesetzgebung
 language: de
-version: 2023-01-01
-valid_until: 2023-12-31
-version_adopted: 2022-12-06
+version: 2024-01-01
+version_adopted: 2023-12-05
 adopted: 1999-12-07
 in_force: 2000-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/651.11"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3421/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3563/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung zum Einführungsgesetz zur eidgenössischen Waldgesetzgebung
 
-vom 07.12.1999 (Stand 01.01.2023)
+vom 07.12.1999 (Stand 01.01.2024)
 
 Die Regierung des Kantons St.Gallen
 
@@ -442,11 +441,21 @@ als Verordnung:[^ingress-2]
 
 #### Art. 35
 
-**Förderung der Holzverwendung[^35-1]**
+**Förderung der Holzverwendung und Prüfpflicht[^35-1]**
 
-<sup>1</sup> Der Kanton fördert bei seinen Tätigkeiten die Verwendung von Holz als Bau- und Werkstoff sowie als Energieträger.
+<sup>1</sup> Der Kanton fördert die Verwendung einheimischen Holzes als Bau- und Werkstoff sowie als Energieträger.
 
-<sup>2</sup> Bei der Planung eigener oder von ihm subventionierter Bauten prüft er Möglichkeiten zur Verwendung einheimischen Holzes. Er berücksichtigt dabei die Richtlinie des Bau- und Umweltdepartementes zur ökologischen Vorbildfunktion der öffentlichen Hand bei Bauten.
+<sup>2</sup> Kanton und Gemeinden prüfen für eigene Bauten und Anlagen die Verwendung von nachhaltig produziertem Holz als Bau- und Werkstoff sowie als Energieträger bei:
+
+- a) Planung;
+- b) Errichtung;
+- c) Erneuerung;
+- d) Erweiterung;
+- e) Betrieb.
+
+<sup>3</sup> Die Prüfung erfolgt auch, wenn sich Kanton oder Gemeinden mit wenigstens 35 Prozent an den Gesamtkosten einer Baute oder Anlage beteiligen.
+
+<sup>4</sup> Bei Gebäudekosten von mehr als 5 Mio. Franken wird das Ergebnis der Prüfung im Antrag zum Ausgabenbeschluss ausgewiesen.
 
 [^35-1]: Art. [29](https://www.gesetzessammlung.sg.ch/data/651.1/de/art29.) EG zur eidgenössischen Waldgesetzgebung, sGS [651.1](https://www.gesetzessammlung.sg.ch/data/651.1/de).
 
@@ -474,8 +483,8 @@ als Verordnung:[^ingress-2]
 
 <sup>1</sup> Die Bemessung der Beiträge richtet sich nach der Bedeutung und Wirksamkeit der Massnahmen in Bezug auf die festgelegten Ziele. Die Beiträge einschliesslich Bundesanteil betragen höchstens:
 
-- a) 80 Prozent der anrechenbaren Kosten bei Massnahmen nach Art. 30 Abs. 1 Bst. a und c des Einführungsgesetzes zur eidgenössischen Waldgesetzgebung vom 29. November 1998;[^35ter-1]
-- b) 100 Prozent der anrechenbaren Kosten bei Massnahmen nach Art. 30 Abs. 1 Bst. b des Einführungsgesetzes zur eidgenössischen Waldgesetzgebung vom 29. November 1998;[^35ter-2]
+- a) 80 Prozent der anrechenbaren Kosten bei Massnahmen nach Art. 30 Abs. 1 Bst. c, e und f des Einführungsgesetzes zur eidgenössischen Waldgesetzgebung vom 29. November 1998;[^35ter-1]
+- b) 100 Prozent der anrechenbaren Kosten bei Massnahmen nach Art. 30 Abs. 1 Bst. a und b des Einführungsgesetzes zur eidgenössischen Waldgesetzgebung vom 29. November 1998;[^35ter-2]
 - c) 70 Prozent der anrechenbaren Kosten bei Massnahmen nach Art. 30 Abs. 1 Bst. d des Einführungsgesetzes zur eidgenössischen Waldgesetzgebung vom 29. November 1998;[^35ter-3]
 - d) 80 Prozent der anrechenbaren Kosten bei Massnahmen nach Art. 30 Abs. 3 Ziff. 3 des Einführungsgesetzes zur eidgenössischen Waldgesetzgebung vom 29. November 1998.[^35ter-4]
 
@@ -492,15 +501,7 @@ als Verordnung:[^ingress-2]
 
 #### Art. 36
 
-**Kantonsbeiträge an Verbesserungen der Bewirtschaftungsbedingungen[^36-1]**
-
-<sup>1</sup> Ein Betrieb der Waldwirtschaft weist eine hinreichende Betriebsgrösse nach Art. [30<sup>bis</sup>](https://www.gesetzessammlung.sg.ch/data/651.1/de/art30bis.) des Einführungsgesetzes zur eidgenössischen Waldgesetzgebung vom 29. November 1998[^36-2] auf, wenn er:
-
-- a) wenigstens 800 Hektaren eigene oder fremde Waldfläche zur Bewirtschaftung hat;
-- b) eine durchschnittliche jährliche Nutzung von wenigstens 6000 Kubikmetern aufweist.
-
-[^36-1]: Art. [30<sup>bis</sup>](https://www.gesetzessammlung.sg.ch/data/651.1/de/art30bis.) EG zur eidgenössischen Waldgesetzgebung, sGS [651.1](https://www.gesetzessammlung.sg.ch/data/651.1/de).
-[^36-2]: sGS [651.1](https://www.gesetzessammlung.sg.ch/data/651.1/de).
+**…**
 
 #### Art. 36bis
 
