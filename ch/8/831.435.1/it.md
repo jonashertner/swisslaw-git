@@ -4,11 +4,11 @@ title: Ordinanza del 22 giugno 2011 concernente la vigilanza nella previdenza pr
 short: OPP 1
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/460"
 language: it
-version: 2023-01-23
+version: 2024-01-01
 adopted: 2011-06-22
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/460/20230123/it/xml/fedlex-data-admin-ch-eli-cc-2011-460-20230123-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/460/20230123/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/460/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2011-460-20240101-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/460/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/460/20230123/it"
 
 (OPP 1)
 
-del 10 e 22 giugno 2011 (Stato 23 gennaio 2023)
+del 10 e 22 giugno 2011 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -56,9 +56,11 @@ L’elenco contiene:
 - a. il registro della previdenza professionale di cui all’articolo 48 LPP;
 - b. la lista degli istituti di previdenza non registrati e degli istituti dediti alla previdenza professionale.
 
-<sup>3</sup> Ogni iscrizione nell’elenco deve indicare la denominazione e l’indirizzo dell’istituto, nonché la data della decisione relativa all’assunzione della vigilanza. Per ogni iscrizione nella lista va inoltre indicato se si tratta di un istituto di previdenza la cui attività è limitata alla previdenza sovraobbligatoria, di un istituto di libero passaggio o di un istituto del pilastro 3a.
+<sup>3</sup> Ogni iscrizione nell’elenco deve indicare il numero d’identificazione delle imprese, la denominazione e l’indirizzo dell’istituto, nonché la data della decisione relativa all’assunzione della vigilanza. Per ogni iscrizione nell’elenco va inoltre indicato se si tratta di un istituto di previdenza la cui attività è limitata alla previdenza sovraobbligatoria, di un istituto di libero passaggio o di un istituto del pilastro 3a[^3-1]
 
 <sup>4</sup> L’elenco è pubblico ed è pubblicato in Internet.
+
+[^3-1]: Nuovo testo giusta l’all. n. 5 dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 #### Art. 4
 
@@ -102,31 +104,22 @@ I costi della Commissione di alta vigilanza e della sua segreteria si compongono
 
 <sup>2</sup> I costi sono coperti interamente per mezzo di tasse ed emolumenti.[^6-1]
 
-<sup>3</sup> La Commissione di alta vigilanza fissa l’importo della tassa di vigilanza annuale di cui agli articoli 7 capoverso 1 lettera b e 8 capoverso 1 in base ai costi sostenuti da essa e dalla sua segreteria durante l’esercizio corrispondente.[^6-2]
+<sup>3</sup> La Commissione di alta vigilanza determina i costi sostenuti da essa e dalla sua segreteria durante l’esercizio corrispondente e li imputa alle tasse di vigilanza annuali di cui agli articoli 7 capoverso 1 e 8 capoverso 1.[^6-2]
 
 [^6-1]: Nuovo testo giusta il n. I dell’O del 2 lug. 2014, in vigore dal 1° gen. 2015 ([RU 2014 2317](https://fedlex.data.admin.ch/eli/oc/2014/393)).
-[^6-2]: Introdotto dal n. I dell’O del 2 lug. 2014, in vigore dal 1° gen. 2015 ([RU 2014 2317](https://fedlex.data.admin.ch/eli/oc/2014/393)).
+[^6-2]: Introdotto dal n. I dell’O del 2 lug. 2014 ([RU 2014 2317](https://fedlex.data.admin.ch/eli/oc/2014/393)). Nuovo testo giusta l’all. n. 5 dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 #### Art. 7
 
-**Tassa di vigilanza a carico delle autorità di vigilanza**[^7-1]
+**Tassa di vigilanza per la vigilanza sistemica e l’alta vigilanza**[^7-1]
 
-<sup>1</sup>
+<sup>1</sup> La tassa di vigilanza per la vigilanza sistemica e l’alta vigilanza sulle autorità di vigilanza copre i costi della Commissione di alta vigilanza e della sua segreteria, nella misura in cui detti costi non sono coperti dagli introiti degli emolumenti per decisioni e servizi, nonché le spese del fondo di garanzia per la riscossione della tassa presso gli istituti di previdenza conformemente all’articolo 56 capoverso 1 lettera i LPP.
 
-La tassa di vigilanza a carico delle autorità di vigilanza per l’esercizio si compone di:
+<sup>2</sup> Essa ammonta al massimo a 6 franchi per milione di franchi della somma delle prestazioni d’uscita regolamentari di tutti gli assicurati e del decuplo di tutte le rendite degli istituti di previdenza assoggettati alla legge del 17 dicembre 1993[^7-2] sul libero passaggio, secondo quanto risulta dai loro conti d’esercizio dell’esercizio per il quale è dovuta la tassa di vigilanza.
 
-- a. una tassa di base di 300 franchi per ogni istituto di previdenza soggetto a vigilanza che sottostà alla legge del 17 dicembre 1993[^7-2] sul libero passaggio;
-- b. una tassa supplementare.
+<sup>3</sup> La Commissione di alta vigilanza fattura al fondo di garanzia le tasse di vigilanza da versare al più tardi nove mesi dopo la chiusura del suo esercizio.
 
-<sup>2</sup> La tassa supplementare copre i costi della Commissione di alta vigilanza e della sua segreteria per l’attività di alta vigilanza, nella misura in cui detti costi non sono coperti dagli introiti della tassa di base e degli emolumenti. Essa ammonta al massimo a 80 centesimi per ogni assicurato attivo affiliato all’istituto di previdenza soggetto a vigilanza e per ogni rendita versata dall’istituto di previdenza.
-
-<sup>3</sup> La Commissione di alta vigilanza fattura la tassa di vigilanza alle autorità di vigilanza nove mesi dopo la chiusura del suo esercizio.
-
-<sup>4</sup> Il giorno di riferimento per la rilevazione del numero degli istituti di previdenza, degli assicurati attivi e delle rendite versate è il 31 dicembre dell’anno precedente l’esercizio in questione.
-
-<sup>5</sup> Per gli istituti di previdenza in liquidazione, la tassa viene prelevata l’ultima volta per l’esercizio in cui è emessa la decisione di liquidazione.
-
-[^7-1]: Nuovo testo giusta il n. I dell’O del 2 lug. 2014, in vigore dal 1° gen. 2015 ([RU 2014 2317](https://fedlex.data.admin.ch/eli/oc/2014/393)).
+[^7-1]: Nuovo testo giusta l’all. n. 5 dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 [^7-2]: [RS 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
 
 #### Art. 8
@@ -359,6 +352,16 @@ Sono abrogate:
 L’articolo 6 capoversi 2 e 3, nonché gli articoli 7 e 8 della modifica del 2 luglio 2014 sono applicabili per la prima volta all’esercizio 2014.
 
 [^25a-1]: Introdotto dal n. I dell’O del 2 lug. 2014, in vigore dal 1° gen. 2015 ([RU 2014 2317](https://fedlex.data.admin.ch/eli/oc/2014/393)).
+
+#### Art. 25b
+
+**Disposizione transitoria della modifica del 22 novembre 2023**[^25b-1]
+
+<sup>1</sup> Gli elenchi degli istituti soggetti a vigilanza sono completati entro il 31 dicembre 2025 con il numero d’identificazione delle imprese.
+
+<sup>2</sup> Il fondo di garanzia riscuote la tassa di vigilanza di cui all’articolo 64*c* capoverso 1 lettera a LPP secondo la nuova base di calcolo per la prima volta per l’esercizio 2024 della Commissione di alta vigilanza.
+
+[^25b-1]: Introdotto dall’all. n. 5 dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 #### Art. 26
 

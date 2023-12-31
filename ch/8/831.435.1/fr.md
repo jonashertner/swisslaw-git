@@ -4,11 +4,11 @@ title: Ordonnance du 22 juin 2011 sur la surveillance dans la prévoyance profes
 short: OPP 1
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/460"
 language: fr
-version: 2023-01-23
+version: 2024-01-01
 adopted: 2011-06-22
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/460/20230123/fr/xml/fedlex-data-admin-ch-eli-cc-2011-460-20230123-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/460/20230123/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/460/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2011-460-20240101-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/460/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/460/20230123/fr"
 
 (OPP 1)
 
-des 10 et 22 juin 2011 (État le 23 janvier 2023)
+des 10 et 22 juin 2011 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -56,9 +56,11 @@ Ce répertoire comprend:
 - a. le registre de la prévoyance professionnelle prévu par l’art. 48 LPP;
 - b. la liste des institutions de prévoyance qui ne sont pas enregistrées et des institutions servant à la prévoyance professionnelle.
 
-<sup>3</sup> Chaque inscription dans le répertoire comprend la dénomination et l’adresse de l’institution, ainsi que la date de la décision de prise en charge de la surveillance. Pour chaque inscription dans la liste, il faut également indiquer s’il s’agit d’une institution de prévoyance pratiquant exclusivement le régime surobligatoire, d’une institution de libre passage ou d’une institution du pilier 3a.
+<sup>3</sup> Chaque inscription dans le répertoire comprend le numéro d’identification des entreprises, la dénomination et l’adresse de l’institution, ainsi que la date de la décision de prise en charge de la surveillance. Chaque inscription dans la liste doit également indiquer s’il s’agit d’une institution de prévoyance pratiquant exclusivement le régime surobligatoire, d’une institution de libre passage ou d’une institution du pilier 3a.[^3-1]
 
 <sup>4</sup> Le répertoire est public et consultable sur Internet.
+
+[^3-1]: Nouvelle teneur selon l’annexe ch. 5 de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 #### Art. 4
 
@@ -102,31 +104,22 @@ Les coûts de la Commission de haute surveillance et de son secrétariat se comp
 
 <sup>2</sup> Les coûts sont entièrement couverts par des taxes et des émoluments.[^6-1]
 
-<sup>3</sup> La Commission de haute surveillance prélève les taxes annuelles de surveillance visées à l’art. 7, al. 1, let. b, et à l’art. 8, al. 1, sur la base des coûts qu’elle-même et son secrétariat ont occasionnés durant l’exercice.[^6-2]
+<sup>3</sup> La Commission de haute surveillance détermine les coûts occasionnés à elle-même et à son secrétariat durant l’exercice et les affecte aux taxes annuelles de surveillance visées aux art. 7, al. 1, et 8, al. 1.[^6-2]
 
 [^6-1]: Nouvelle teneur selon le ch. I de l’O du 2 juil. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 2317](https://fedlex.data.admin.ch/eli/oc/2014/393)).
-[^6-2]: Introduit par le ch. I de l’O du 2 juil. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 2317](https://fedlex.data.admin.ch/eli/oc/2014/393)).
+[^6-2]: Introduit par le ch. I de l’O du 2 juil. 2014 ([RO 2014 2317](https://fedlex.data.admin.ch/eli/oc/2014/393)). Nouvelle teneur selon l’annexe ch. 5 de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 #### Art. 7
 
-**Taxe de surveillance due par les autorités de surveillance**[^7-1]
+**Taxe pour la surveillance du système et la haute surveillance**[^7-1]
 
-<sup>1</sup>
+<sup>1</sup> La taxe perçue pour la surveillance du système et la haute surveillance exercée sur les autorités de surveillance couvre les coûts de la Commission de haute surveillance et de son secrétariat qui ne sont pas couverts par le produit des émoluments pour les décisions et les prestations de service, ainsi que les coûts occasionnés au fonds de garantie par la perception de la taxe auprès des institutions de prévoyance conformément à l’art. 56, al. 1, let. i, LPP.
 
-La taxe de surveillance due par les autorités de surveillance pour l’exercice comprend:
+<sup>2</sup> Elle est au plus de 6 francs par million de francs de la somme des prestations de sortie réglementaires de tous les assurés et du montant, multiplié par dix, des rentes versées par les institutions de prévoyance soumises à la loi du 17 décembre 1993 sur le libre passage[^7-2], telles qu’elles apparaissent dans le compte d’exploitation de l’exercice pour lequel la taxe de surveillance est due.
 
-- a. une taxe de base de 300 francs par institution de prévoyance surveillée soumise à la loi fédérale du 17 décembre 1993 sur le libre passage[^7-2];
-- b. une taxe supplémentaire.
+<sup>3</sup> La Commission de haute surveillance facture au fonds de garantie, au plus tard neuf mois après la clôture de son exercice, les taxes de surveillance dues.
 
-<sup>2</sup> La taxe supplémentaire couvre les coûts de la haute surveillance de la Commission de haute surveillance et son secrétariat qui ne sont pas couverts par le produit de la taxe de base et des émoluments. Elle est de 80 centimes au plus par assuré actif de l’institution de prévoyance surveillée et par rente versée par cette institution.
-
-<sup>3</sup> La Commission de haute de surveillance facture la taxe de surveillance aux autorités de surveillance neuf mois après la clôture de l’exercice de la Commission de haute surveillance.
-
-<sup>4</sup> Le jour de référence pour le relevé du nombre d’institutions de prévoyance, d’assurés actifs et de rentes versées est le 31 décembre de l’année précédant l’exercice de la Commission de haute surveillance.
-
-<sup>5</sup> Pour les institutions de prévoyance en liquidation, la dernière taxe perçue est celle due pour l’exercice au cours duquel la décision de liquidation est prononcée.
-
-[^7-1]: Nouvelle teneur selon le ch. I de l’O du 2 juil. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 2317](https://fedlex.data.admin.ch/eli/oc/2014/393)).
+[^7-1]: Nouvelle teneur selon l’annexe ch. 5 de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 [^7-2]: [RS 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
 
 #### Art. 8
@@ -359,6 +352,16 @@ Les ordonnances suivantes sont abrogées:
 L’art. 6, al. 2 et 3, ainsi que les art. 7 et 8 de la modification du 2 juillet 2014 de la présente ordonnance s’appliquent pour la première fois à l’exercice 2014.
 
 [^25a-1]: Introduit par le ch. I de l’O du 2 juil. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 2317](https://fedlex.data.admin.ch/eli/oc/2014/393)).
+
+#### Art. 25b
+
+**Dispositions transitoires relatives à la modification du 22 novembre 2023**[^25b-1]
+
+<sup>1</sup> Le numéro d’identification des entreprises est ajouté le 31 décembre 2025 au plus tard aux répertoires des institutions de prévoyance surveillées.
+
+<sup>2</sup> Le fonds de garantie perçoit la taxe de surveillance visée à l’art. 64*c*, al. 1, let. a, LPP pour la première fois selon les nouvelles bases de calcul pour l’exercice 2024 de la Commission de haute surveillance.
+
+[^25b-1]: Introduit par l’annexe ch. 5 de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 #### Art. 26
 

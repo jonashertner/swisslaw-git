@@ -4,11 +4,11 @@ title: Verordnung vom 22. Juni 2011 über die Aufsicht in der beruflichen Vorsor
 short: BVV 1
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/460"
 language: de
-version: 2023-01-23
+version: 2024-01-01
 adopted: 2011-06-22
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/460/20230123/de/xml/fedlex-data-admin-ch-eli-cc-2011-460-20230123-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/460/20230123/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/460/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2011-460-20240101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/460/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/460/20230123/de"
 
 (BVV 1)
 
-vom 10. und 22. Juni 2011 (Stand am 23. Januar 2023)
+vom 10. und 22. Juni 2011 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -56,9 +56,11 @@ Das Verzeichnis enthält:
 - a. das Register für die berufliche Vorsorge nach Artikel 48 BVG;
 - b. die Liste der nicht registrierten Vorsorgeeinrichtungen sowie der Einrichtungen, die nach ihrem Zweck der beruflichen Vorsorge dienen.
 
-<sup>3</sup> Jede Eintragung im Verzeichnis muss die Bezeichnung und die Adresse der Einrichtung sowie das Datum der Aufsichtsübernahmeverfügung enthalten. Jede Eintragung in der Liste muss zudem die Angabe enthalten, ob es sich bei der Einrichtung um eine nur in der überobligatorischen Vorsorge tätige Vorsorgeeinrichtung, eine Freizügigkeitseinrichtung oder eine Einrichtung der Säule 3a handelt.
+<sup>3</sup> Jede Eintragung im Verzeichnis muss die Unternehmens-Identifikationsnummer, die Bezeichnung und die Adresse der Einrichtung sowie das Datum der Aufsichtsübernahmeverfügung enthalten. Jede Eintragung in der Liste muss zudem die Angabe enthalten, ob es sich bei der Einrichtung um eine nur in der überobligatorischen Vorsorge tätige Vorsorgeeinrichtung, eine Freizügigkeitseinrichtung oder eine Einrichtung der Säule 3a handelt.[^3-1]
 
 <sup>4</sup> Das Verzeichnis ist öffentlich und wird im Internet publiziert.
+
+[^3-1]: Fassung gemäss Anhang Ziff. 5 der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 #### Art. 4
 
@@ -102,31 +104,22 @@ Die Kosten der Oberaufsichtskommission und ihres Sekretariats setzen sich zusamm
 
 <sup>2</sup> Die Kosten werden vollständig durch Abgaben und Gebühren gedeckt.[^6-1]
 
-<sup>3</sup> Die Oberaufsichtskommission setzt die jährlichen Aufsichtsabgaben nach Artikel 7 Absatz 1 Buchstabe b und Artikel 8 Absatz 1 auf der Basis der Kosten fest, die ihr und ihrem Sekretariat im Geschäftsjahr entstanden sind. [^6-2]
+<sup>3</sup> Die Oberaufsichtskommission ermittelt die Kosten, die ihr und ihrem Sekretariat im Geschäftsjahr entstanden sind und ordnet sie den jährlichen Aufsichtsabgaben nach den Artikeln 7 Absatz 1 und 8 Absatz 1 zu.[^6-2]
 
 [^6-1]: Fassung gemäss Ziff. I der V vom 2. Juli 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 2317](https://fedlex.data.admin.ch/eli/oc/2014/393)).
-[^6-2]: Eingefügt durch Ziff. I der V vom 2. Juli 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 2317](https://fedlex.data.admin.ch/eli/oc/2014/393)).
+[^6-2]: Eingefügt durch Ziff. I der V vom 2. Juli 2014 ([AS 2014 2317](https://fedlex.data.admin.ch/eli/oc/2014/393)). Fassung gemäss Anhang Ziff. 5 der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 #### Art. 7
 
-**Aufsichtsabgabe der Aufsichtsbehörden**[^7-1]
+**Aufsichtsabgabe für die System- und Oberaufsicht**[^7-1]
 
-<sup>1</sup>
+<sup>1</sup> Die Aufsichtsabgabe für die System- und Oberaufsicht über die Aufsichtsbehörden deckt die Kosten der Oberaufsichtskommission und ihres Sekretariats, soweit diese nicht aus dem Ertrag der Gebühren für Verfügungen und Dienstleistungen gedeckt sind, sowie die Kosten des Sicherheitsfonds für die Abgabenerhebung bei den Vorsorgeeinrichtungen gemäss Artikel 56 Absatz 1 Buchstabe i BVG.
 
-Die Aufsichtsabgabe der Aufsichtsbehörden für das Geschäftsjahr setzt sich zusammen aus:
+<sup>2</sup> Sie beträgt höchstens 6 Franken pro Million Franken der Summe der reglementarischen Austrittsleistungen aller Versicherten und des mit zehn multiplizierten Betrags sämtlicher Renten der dem Freizügigkeitsgesetz vom 17. Dezember 1993[^7-2] unterstellten Vorsorgeeinrichtungen, wie sie aus der Betriebsrechnung des Geschäftsjahrs hervorgehen, für das die Aufsichtsabgabe geschuldet ist.
 
-- a. einer Grundabgabe von 300 Franken für jede beaufsichtigte Vorsorgeeinrichtung, die dem Freizügigkeitsgesetz vom 17. Dezember 1993[^7-2] unterstellt ist;
-- b. einer Zusatzabgabe.
+<sup>3</sup> Die Oberaufsichtskommission stellt dem Sicherheitsfonds die zu entrichtenden Aufsichtsabgaben spätestens neun Monate nach Abschluss ihres Geschäftsjahres in Rechnung.
 
-<sup>2</sup> Die Zusatzabgabe deckt die Kosten der Oberaufsichtskommission und ihres Sekretariats für die Tätigkeit als Oberaufsicht, soweit diese nicht aus dem Ertrag der Grundabgabe und der Gebühren gedeckt sind. Sie beträgt höchstens 80 Rappen für jede bei der beaufsichtigten Vorsorgeeinrichtung aktiv versicherte Person und für jede von der Vorsorgeeinrichtung ausbezahlte Rente.
-
-<sup>3</sup> Die Oberaufsichtskommission stellt die Aufsichtsabgabe den Aufsichtsbehörden neun Monate nach Abschluss des Geschäftsjahres der Oberaufsichtskommission in Rechnung.
-
-<sup>4</sup> Stichtag für die Erhebung der Zahl der Vorsorgeeinrichtungen, der aktiv Versicherten und der ausbezahlten Renten ist der 31. Dezember des dem Geschäftsjahr der Oberaufsichtskommission vorangehenden Jahres.
-
-<sup>5</sup> Für Vorsorgeeinrichtungen in Liquidation wird die Abgabe letztmals für das Geschäftsjahr erhoben, in welches die Liquidationsverfügung fällt.
-
-[^7-1]: Fassung gemäss Ziff. I der V vom 2. Juli 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 2317](https://fedlex.data.admin.ch/eli/oc/2014/393)).
+[^7-1]: Fassung gemäss Anhang Ziff. 5 der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 [^7-2]: [SR 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
 
 #### Art. 8
@@ -167,7 +160,7 @@ Die Aufsichtsabgabe des Sicherheitsfonds, der Auffangeinrichtung und der Anlages
 <tr><td></td><td colspan="2">e. Aufhebung einer Anlagestiftung</td><td></td><td>1 500–20 000</td></tr>
 <tr><td></td><td colspan="2">f. Fusion von Anlagestiftungen</td><td></td><td>1 000–30 000</td></tr>
 <tr><td></td><td colspan="2">g. Aufsichtsmassnahmen</td><td></td><td>200–50 000</td></tr>
-<tr><td></td><td colspan="2">h.[^9-1] Zulassung des Experten oder der Expertin für berufliche Vorsorge</td><td></td><td>500–5 000</td></tr>
+<tr><td></td><td colspan="2">h.[^9-1] Zulassung des Experten oder der Expertin für berufliche Vorsorge</td><td></td><td>500– 5 000</td></tr>
 <tr><td></td><td colspan="2">i.[^9-2] Befähigungserklärung für Personen und Institutionen nach Artikel 48*f* Absatz 5 der Verordnung vom 18. April 1984[^9-3] über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge</td><td></td><td>500– 5 000</td></tr>
 </table>
 
@@ -362,6 +355,16 @@ Die Handelsregisterverordnung vom 17. Oktober 2007[^24-1] wird wie folgt geände
 Artikel 6 Absätze 2 und 3 sowie die Artikel 7 und 8 der Änderung vom 2. Juli 2014 sind erstmals für das Geschäftsjahr 2014 anwendbar.
 
 [^25a-1]: Eingefügt durch Ziff. I der V vom 2. Juli 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 2317](https://fedlex.data.admin.ch/eli/oc/2014/393)).
+
+#### Art. 25b
+
+**Übergangsbestimmungen zur Änderung vom 22. November 2023**[^25b-1]
+
+<sup>1</sup> Die Verzeichnisse der beaufsichtigten Einrichtungen werden bis 31. Dezember 2025 mit der Unternehmens-Identifikationsnummer ergänzt.
+
+<sup>2</sup> Der Sicherheitsfonds zieht die Aufsichtsabgabe nach Artikel 64*c* Absatz 1 Buchstabe a BVG erstmals für das Geschäftsjahr 2024 der Oberaufsichtskommission nach der neuen Berechnungsgrundlage ein.
+
+[^25b-1]: Eingefügt durch Anhang Ziff. 5 der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 #### Art. 26
 
