@@ -3,26 +3,22 @@ sr: "831.301.114"
 title: "Ordinanza del DFI del 14 giugno 2021 sulla ripartizione dei Comuni nelle tre regioni di pigione secondo la legge federale sulle prestazioni complementari all’assicurazione per la vecchiaia, i superstiti e l’invalidità e la legge federale sulle prestazioni transitorie per i disoccupati anziani"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/375"
 language: it
-version: 2023-01-01
+version: 2024-01-01
 adopted: 2021-06-14
 in_force: 2021-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/375/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2021-375-20230101-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/375/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/375/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2021-375-20240101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/375/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza del DFI sulla ripartizione dei Comuni nelle tre regioni di pigione secondo la legge federale sulle prestazioni complementari all’assicurazione per la vecchiaia, i superstiti e l’invalidità e la legge federale sulle prestazioni transitorie per i disoccupati anziani
 
-del 14 giugno 2021 (Stato 1° gennaio 2023)
+del 14 giugno 2021 (Stato 1° gennaio 2024)
 
 Il Dipartimento federale dell’interno (DFI),
 
-visto l’articolo 10 capoverso 1<sup>quater</sup> della legge federale del 6 ottobre 2006[^ingress-1] sulle prestazioni complementari all’assicurazione per la vecchiaia, i superstiti e l’invalidità (LPC); visto l’articolo 26*a* dell’ordinanza del 15 gennaio 1971[^ingress-2] sulle prestazioni complementari all’assicurazione per la vecchiaia, i superstiti e l’invalidità (OPC-AVS/AI);
-
-visto l’articolo 9 capoverso 5 della legge federale del 19 giugno 2020[^ingress-3] sulle prestazioni transitorie per i disoccupati anziani (LPTD);
-
-visto l’articolo 15 capoverso 1 dell’ordinanza dell’11 giugno 2021[^ingress-4] sulle prestazioni transitorie per i disoccupati anziani,
+visto l’articolo 10 capoverso 1<sup>quater</sup> della legge federale del 6 ottobre 2006[^ingress-1] sulle prestazioni complementari all’assicurazione per la vecchiaia, i superstiti e l’invalidità (LPC); visto l’articolo 26*a* dell’ordinanza del 15 gennaio 1971[^ingress-2] sulle prestazioni complementari all’assicurazione per la vecchiaia, i superstiti e l’invalidità (OPC-AVS/AI); visto l’articolo 9 capoverso 5 della legge federale del 19 giugno 2020[^ingress-3] sulle prestazioni transitorie per i disoccupati anziani (LPTD); visto l’articolo 15 capoverso 1 dell’ordinanza dell’11 giugno 2021[^ingress-4] sulle prestazioni transitorie per i disoccupati anziani,
 
 ordina:
 
@@ -77,7 +73,7 @@ Allegato 1[^t-1]
 
 ## Regioni
 
-[^t-1]: Nuovo testo giusta il n. II dell’O del DFI del 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 612](https://fedlex.data.admin.ch/eli/oc/2022/612)).
+[^t-1]: Nuovo testo giusta il n. I dell’O del DFI del 19 ott. 2023, in vigore dal 1° gen. 2024 ([RU 2023 642](https://fedlex.data.admin.ch/eli/oc/2023/642)).
 
 ### Zurigo
 
@@ -304,7 +300,6 @@ Allegato 1[^t-1]
 <tr><td>Courtelary</td><td>3</td></tr>
 <tr><td>Crémines</td><td>3</td></tr>
 <tr><td>Deisswil bei Münchenbuchsee</td><td>2</td></tr>
-<tr><td>Diemerswil</td><td>3</td></tr>
 <tr><td>Diemtigen</td><td>3</td></tr>
 <tr><td>Diessbach bei Büren</td><td>3</td></tr>
 <tr><td>Dotzigen</td><td>2</td></tr>
@@ -804,7 +799,7 @@ Allegato 1[^t-1]
 <tr><td>Belfaux</td><td>2</td></tr>
 <tr><td>Belmont-Broye</td><td>3</td></tr>
 <tr><td>Billens-Hennens</td><td>3</td></tr>
-<tr><td>Bois-d'Amont</td><td>3</td></tr>
+<tr><td>Bois-d’Amont</td><td>3</td></tr>
 <tr><td>Bossonnens</td><td>2</td></tr>
 <tr><td>Botterens</td><td>3</td></tr>
 <tr><td>Broc</td><td>2</td></tr>
@@ -1429,7 +1424,6 @@ Allegato 1[^t-1]
 <tr><td>Brugg</td><td>2</td></tr>
 <tr><td>Brunegg</td><td>2</td></tr>
 <tr><td>Buchs (AG)</td><td>2</td></tr>
-<tr><td>Burg (AG)</td><td>2</td></tr>
 <tr><td>Buttwil</td><td>3</td></tr>
 <tr><td>Böttstein</td><td>2</td></tr>
 <tr><td>Bözberg</td><td>3</td></tr>
@@ -2339,7 +2333,7 @@ Allegato 1[^t-1]
 <tr><td>Courroux</td><td>2</td></tr>
 <tr><td>Courtedoux</td><td>3</td></tr>
 <tr><td>Courtételle</td><td>2</td></tr>
-<tr><td>Damphreux</td><td>3</td></tr>
+<tr><td>Damphreux-Lugnez</td><td>3</td></tr>
 <tr><td>Delémont</td><td>2</td></tr>
 <tr><td>Develier</td><td>3</td></tr>
 <tr><td>Ederswiler</td><td>3</td></tr>
@@ -2349,7 +2343,6 @@ Allegato 1[^t-1]
 <tr><td>Haute-Ajoie</td><td>3</td></tr>
 <tr><td>Haute-Sorne</td><td>3</td></tr>
 <tr><td>La Baroche</td><td>3</td></tr>
-<tr><td>La Chaux-des-Breuleux</td><td>3</td></tr>
 <tr><td>Lajoux (JU)</td><td>3</td></tr>
 <tr><td>Le Bémont (JU)</td><td>3</td></tr>
 <tr><td>Le Noirmont</td><td>3</td></tr>
@@ -2357,7 +2350,6 @@ Allegato 1[^t-1]
 <tr><td>Les Breuleux</td><td>3</td></tr>
 <tr><td>Les Enfers</td><td>3</td></tr>
 <tr><td>Les Genevez (JU)</td><td>3</td></tr>
-<tr><td>Lugnez</td><td>3</td></tr>
 <tr><td>Mervelier</td><td>3</td></tr>
 <tr><td>Mettembert</td><td>3</td></tr>
 <tr><td>Montfaucon</td><td>3</td></tr>
@@ -2381,12 +2373,12 @@ Allegato 2[^t-2]
 
 ## Importi massimi dei Comuni
 
-[^t-2]: Nuovo testo giusta il n. II dell’O del DFI del 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 612](https://fedlex.data.admin.ch/eli/oc/2022/612)).
+[^t-2]: Nuovo testo giusta il n. I dell’O del DFI del 19 ott. 2023, in vigore dal 1° gen. 2024 ([RU 2023 642](https://fedlex.data.admin.ch/eli/oc/2023/642)).
 
 ### Basilea Città
 
 <table>
-<tr><td>Comune</td><td>Importi massimi (in franchi)</td></tr>
+<tr><th>Comune</th><th>Importi massimi (in franchi)</th></tr>
 <tr><td>Bettingen</td><td>1 persona: 17 580 2 persone: 20 820 3 persone: 23 100 4 persone e più: 25 200</td></tr>
 <tr><td>Riehen</td><td>1 persona: 17 580 2 persone: 20 820 3 persone: 23 100 4 persone e più: 25 200</td></tr>
 </table>
@@ -2394,9 +2386,16 @@ Allegato 2[^t-2]
 ### Neuchâtel
 
 <table>
-<tr><td>Comune</td><td>Importi massimi (in franchi)</td></tr>
+<tr><th>Comune</th><th>Importi massimi (in franchi)</th></tr>
 <tr><td>La Chaux-de-Fonds</td><td>1 persona: 15 336 2 persone: 18 204 3 persone: 19 932 4 persone e più: 21 708</td></tr>
 <tr><td>Le Locle</td><td>1 persona: 15 336 2 persone: 18 204 3 persone: 19 932 4 persone e più: 21 708</td></tr>
-<tr><td>Val-de-Ruz</td><td>1 persona: 16 368 2 persone: 19 416 3 persone: 21 264 4 persone e più: 23 160</td></tr>
+<tr><td>Val-de-Ruz</td><td>1 persona: 16 188 2 persone: 19 212 3 persone: 21 036 4 persone e più: 22 920</td></tr>
 <tr><td>Val-de-Travers</td><td>1 persona: 15 336 2 persone: 18 204 3 persone: 19 932 4 persone e più: 21 708</td></tr>
+</table>
+
+### Vaud
+
+<table>
+<tr><th>Comune</th><th>Importi massimi (in franchi)</th></tr>
+<tr><td>Oron</td><td>1 persona: 17 040 2 persone: 20 220 3 persone: 22 140 4 persone e più: 24 120</td></tr>
 </table>

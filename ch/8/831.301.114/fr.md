@@ -3,18 +3,18 @@ sr: "831.301.114"
 title: "Ordonnance du DFI du 14 juin 2021 concernant la répartition des communes dans les trois régions de loyer définies par la loi fédérale sur les prestations complémentaires à l’assurance-vieillesse, survivants et invalidité et la loi fédérale sur les prestations transitoires pour les chômeurs âgés"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/375"
 language: fr
-version: 2023-01-01
+version: 2024-01-01
 adopted: 2021-06-14
 in_force: 2021-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/375/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2021-375-20230101-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/375/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/375/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2021-375-20240101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/375/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du DFI concernant la répartition des communes dans les trois régions de loyer définies par la loi fédérale sur les prestations complémentaires à l’assurance-vieillesse, survivants et invalidité et la loi fédérale sur les prestations transitoires pour les chômeurs âgés
 
-du 14 juin 2021 (État le 1<sup>er</sup> janvier 2023)
+du 14 juin 2021 (État le 1<sup>er</sup> janvier 2024)
 
 Le Département fédéral de l’intérieur (DFI),
 
@@ -75,7 +75,7 @@ Annexe 1[^t-1]
 
 ## Régions
 
-[^t-1]: Nouvelle teneur selon le ch. II de l’O du DFI du 19 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 612](https://fedlex.data.admin.ch/eli/oc/2022/612)).
+[^t-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 19 oct. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 642](https://fedlex.data.admin.ch/eli/oc/2023/642)).
 
 ### Zurich
 
@@ -302,7 +302,6 @@ Annexe 1[^t-1]
 <tr><td>Courtelary</td><td>3</td></tr>
 <tr><td>Crémines</td><td>3</td></tr>
 <tr><td>Deisswil bei Münchenbuchsee</td><td>2</td></tr>
-<tr><td>Diemerswil</td><td>3</td></tr>
 <tr><td>Diemtigen</td><td>3</td></tr>
 <tr><td>Diessbach bei Büren</td><td>3</td></tr>
 <tr><td>Dotzigen</td><td>2</td></tr>
@@ -731,6 +730,7 @@ Annexe 1[^t-1]
 <tr><td>Unteriberg</td><td>3</td></tr>
 <tr><td>Vorderthal</td><td>3</td></tr>
 <tr><td>Wangen (SZ)</td><td>2</td></tr>
+<tr><td>Wollerau</td><td>2</td></tr>
 </table>
 
 ### Obwald
@@ -1426,7 +1426,6 @@ Annexe 1[^t-1]
 <tr><td>Brugg</td><td>2</td></tr>
 <tr><td>Brunegg</td><td>2</td></tr>
 <tr><td>Buchs (AG)</td><td>2</td></tr>
-<tr><td>Burg (AG)</td><td>2</td></tr>
 <tr><td>Buttwil</td><td>3</td></tr>
 <tr><td>Böttstein</td><td>2</td></tr>
 <tr><td>Bözberg</td><td>3</td></tr>
@@ -2336,7 +2335,7 @@ Annexe 1[^t-1]
 <tr><td>Courroux</td><td>2</td></tr>
 <tr><td>Courtedoux</td><td>3</td></tr>
 <tr><td>Courtételle</td><td>2</td></tr>
-<tr><td>Damphreux</td><td>3</td></tr>
+<tr><td>Damphreux-Lugnez</td><td>3</td></tr>
 <tr><td>Delémont</td><td>2</td></tr>
 <tr><td>Develier</td><td>3</td></tr>
 <tr><td>Ederswiler</td><td>3</td></tr>
@@ -2346,7 +2345,6 @@ Annexe 1[^t-1]
 <tr><td>Haute-Ajoie</td><td>3</td></tr>
 <tr><td>Haute-Sorne</td><td>3</td></tr>
 <tr><td>La Baroche</td><td>3</td></tr>
-<tr><td>La Chaux-des-Breuleux</td><td>3</td></tr>
 <tr><td>Lajoux (JU)</td><td>3</td></tr>
 <tr><td>Le Bémont (JU)</td><td>3</td></tr>
 <tr><td>Le Noirmont</td><td>3</td></tr>
@@ -2354,7 +2352,6 @@ Annexe 1[^t-1]
 <tr><td>Les Breuleux</td><td>3</td></tr>
 <tr><td>Les Enfers</td><td>3</td></tr>
 <tr><td>Les Genevez (JU)</td><td>3</td></tr>
-<tr><td>Lugnez</td><td>3</td></tr>
 <tr><td>Mervelier</td><td>3</td></tr>
 <tr><td>Mettembert</td><td>3</td></tr>
 <tr><td>Montfaucon</td><td>3</td></tr>
@@ -2378,12 +2375,12 @@ Annexe 2[^t-2]
 
 ## Montants maximaux des communes
 
-[^t-2]: Nouvelle teneur selon le ch. II de l’O du DFI du 19 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 612](https://fedlex.data.admin.ch/eli/oc/2022/612)).
+[^t-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 19 oct. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 642](https://fedlex.data.admin.ch/eli/oc/2023/642)).
 
 ### Bâle-Ville
 
 <table>
-<tr><td>Commune</td><td>Montants maximaux (en francs)</td></tr>
+<tr><th>Commune</th><th>Montants maximaux (en francs)</th></tr>
 <tr><td>Bettingen</td><td>Personne seule: 17 580 2 personnes: 20 820 3 personnes: 23 100 4 personnes et plus: 25 200</td></tr>
 <tr><td>Riehen</td><td>Personne seule: 17 580 2 personnes: 20 820 3 personnes: 23 100 4 personnes et plus: 25 200</td></tr>
 </table>
@@ -2391,9 +2388,16 @@ Annexe 2[^t-2]
 ### Neuchâtel
 
 <table>
-<tr><td>Commune</td><td>Montants maximaux (en francs)</td></tr>
+<tr><th>Commune</th><th>Montants maximaux (en francs)</th></tr>
 <tr><td>La Chaux-de-Fonds</td><td>Personne seule: 15 336 2 personnes: 18 204 3 personnes: 19 932 4 personnes et plus: 21 708</td></tr>
 <tr><td>Le Locle</td><td>Personne seule: 15 336 2 personnes: 18 204 3 personnes: 19 932 4 personnes et plus: 21 708</td></tr>
-<tr><td>Val-de-Ruz</td><td>Personne seule: 16 368 2 personnes: 19 416 3 personnes: 21 264 4 personnes et plus: 23 160</td></tr>
+<tr><td>Val-de-Ruz</td><td>Personne seule: 16 188 2 personnes: 19 212 3 personnes: 21 036 4 personnes et plus: 22 920</td></tr>
 <tr><td>Val-de-Travers</td><td>Personne seule: 15 336 2 personnes: 18 204 3 personnes: 19 932 4 personnes et plus: 21 708</td></tr>
+</table>
+
+### Vaud
+
+<table>
+<tr><th>Commune</th><th>Montants maximaux (en francs)</th></tr>
+<tr><td>Oron</td><td>Personne seule: 17 040 2 personnes: 20 220 3 personnes: 22 140 4 personnes et plus: 24 120</td></tr>
 </table>

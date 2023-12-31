@@ -3,18 +3,18 @@ sr: "831.301.114"
 title: "Verordnung des EDI vom 14. Juni 2021 über die Zuteilung der Gemeinden zu den drei Mietzinsregionen nach dem Bundesgesetz über die Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung und dem Bundesgesetz über Überbrückungsleistungen für ältere Arbeitslose"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/375"
 language: de
-version: 2023-01-01
+version: 2024-01-01
 adopted: 2021-06-14
 in_force: 2021-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/375/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2021-375-20230101-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/375/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/375/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2021-375-20240101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/375/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des EDI über die Zuteilung der Gemeinden zu den drei Mietzinsregionen nach dem Bundesgesetz über die Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung und dem Bundesgesetz über Überbrückungsleistungen für ältere Arbeitslose
 
-vom 14. Juni 2021 (Stand am 1. Januar 2023)
+vom 14. Juni 2021 (Stand am 1. Januar 2024)
 
 Das Eidgenössische Departement des Innern (EDI),
 
@@ -61,7 +61,7 @@ Der Monat Mai des Vorjahres ist massgebend für die Prüfung, ob in der betreffe
 
 Die Verordnung des EDI vom 12. März 2020[^5-1] über die Zuteilung der Gemeinden zu den drei Mietzinsregionen nach dem Bundesgesetz über die Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung wird aufgehoben.
 
-[^5-1]: [[AS 2020 1281](https://fedlex.data.admin.ch/eli/oc/2020/244), [6291](https://fedlex.data.admin.ch/eli/oc/2020/1032)]
+[^5-1]: [[AS 2020 1281](https://fedlex.data.admin.ch/eli/oc/2020/244); [6291](https://fedlex.data.admin.ch/eli/oc/2020/1032)]
 
 #### Art. 6
 
@@ -73,7 +73,7 @@ Anhang I[^t-1]
 
 ## Regionen
 
-[^t-1]: Fassung gemäss Ziff. II der V des EDI vom 19. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 612](https://fedlex.data.admin.ch/eli/oc/2022/612)).
+[^t-1]: Fassung gemäss Ziff. I der V des EDI vom 19. Okt. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 642](https://fedlex.data.admin.ch/eli/oc/2023/642)).
 
 ### Zürich
 
@@ -300,7 +300,6 @@ Anhang I[^t-1]
 <tr><td>Courtelary</td><td>3</td></tr>
 <tr><td>Crémines</td><td>3</td></tr>
 <tr><td>Deisswil bei Münchenbuchsee</td><td>2</td></tr>
-<tr><td>Diemerswil</td><td>3</td></tr>
 <tr><td>Diemtigen</td><td>3</td></tr>
 <tr><td>Diessbach bei Büren</td><td>3</td></tr>
 <tr><td>Dotzigen</td><td>2</td></tr>
@@ -1425,7 +1424,6 @@ Anhang I[^t-1]
 <tr><td>Brugg</td><td>2</td></tr>
 <tr><td>Brunegg</td><td>2</td></tr>
 <tr><td>Buchs (AG)</td><td>2</td></tr>
-<tr><td>Burg (AG)</td><td>2</td></tr>
 <tr><td>Buttwil</td><td>3</td></tr>
 <tr><td>Böttstein</td><td>2</td></tr>
 <tr><td>Bözberg</td><td>3</td></tr>
@@ -1724,7 +1722,7 @@ Anhang I[^t-1]
 <tr><td>Cevio</td><td>3</td></tr>
 <tr><td>Chiasso</td><td>2</td></tr>
 <tr><td>Coldrerio</td><td>2</td></tr>
-<tr><td>Collina d'Oro</td><td>2</td></tr>
+<tr><td>Collina d’Oro</td><td>2</td></tr>
 <tr><td>Comano</td><td>2</td></tr>
 <tr><td>Cugnasco-Gerra</td><td>2</td></tr>
 <tr><td>Cureglia</td><td>2</td></tr>
@@ -1777,7 +1775,7 @@ Anhang I[^t-1]
 <tr><td>Riva San Vitale</td><td>2</td></tr>
 <tr><td>Riviera</td><td>2</td></tr>
 <tr><td>Ronco sopra Ascona</td><td>2</td></tr>
-<tr><td>Sant'Antonino</td><td>2</td></tr>
+<tr><td>Sant’Antonino</td><td>2</td></tr>
 <tr><td>Savosa</td><td>2</td></tr>
 <tr><td>Serravalle</td><td>3</td></tr>
 <tr><td>Sorengo</td><td>2</td></tr>
@@ -1862,7 +1860,7 @@ Anhang I[^t-1]
 <tr><td>Chevroux</td><td>3</td></tr>
 <tr><td>Chexbres</td><td>2</td></tr>
 <tr><td>Chigny</td><td>2</td></tr>
-<tr><td>Château-d'Oex</td><td>2</td></tr>
+<tr><td>Château-d’Oex</td><td>2</td></tr>
 <tr><td>Chéserex</td><td>2</td></tr>
 <tr><td>Chêne-Pâquier</td><td>3</td></tr>
 <tr><td>Clarmont</td><td>3</td></tr>
@@ -1940,9 +1938,9 @@ Anhang I[^t-1]
 <tr><td>Jorat-Mézières</td><td>2</td></tr>
 <tr><td>Jouxtens-Mézery</td><td>2</td></tr>
 <tr><td>Juriens</td><td>3</td></tr>
-<tr><td>L'Abbaye</td><td>3</td></tr>
-<tr><td>L'Abergement</td><td>3</td></tr>
-<tr><td>L'Isle</td><td>3</td></tr>
+<tr><td>L’Abbaye</td><td>3</td></tr>
+<tr><td>L’Abergement</td><td>3</td></tr>
+<tr><td>L’Isle</td><td>3</td></tr>
 <tr><td>La Chaux (Cossonay)</td><td>3</td></tr>
 <tr><td>La Praz</td><td>3</td></tr>
 <tr><td>La Rippe</td><td>3</td></tr>
@@ -2210,7 +2208,7 @@ Anhang I[^t-1]
 <tr><td>Täsch</td><td>3</td></tr>
 <tr><td>Törbel</td><td>3</td></tr>
 <tr><td>Unterbäch</td><td>3</td></tr>
-<tr><td>Val-d'Illiez</td><td>3</td></tr>
+<tr><td>Val-d’Illiez</td><td>3</td></tr>
 <tr><td>Val de Bagnes</td><td>2</td></tr>
 <tr><td>Varen</td><td>3</td></tr>
 <tr><td>Vernayaz</td><td>2</td></tr>
@@ -2335,7 +2333,7 @@ Anhang I[^t-1]
 <tr><td>Courroux</td><td>2</td></tr>
 <tr><td>Courtedoux</td><td>3</td></tr>
 <tr><td>Courtételle</td><td>2</td></tr>
-<tr><td>Damphreux</td><td>3</td></tr>
+<tr><td>Damphreux-Lugnez</td><td>3</td></tr>
 <tr><td>Delémont</td><td>2</td></tr>
 <tr><td>Develier</td><td>3</td></tr>
 <tr><td>Ederswiler</td><td>3</td></tr>
@@ -2345,7 +2343,6 @@ Anhang I[^t-1]
 <tr><td>Haute-Ajoie</td><td>3</td></tr>
 <tr><td>Haute-Sorne</td><td>3</td></tr>
 <tr><td>La Baroche</td><td>3</td></tr>
-<tr><td>La Chaux-des-Breuleux</td><td>3</td></tr>
 <tr><td>Lajoux (JU)</td><td>3</td></tr>
 <tr><td>Le Bémont (JU)</td><td>3</td></tr>
 <tr><td>Le Noirmont</td><td>3</td></tr>
@@ -2353,7 +2350,6 @@ Anhang I[^t-1]
 <tr><td>Les Breuleux</td><td>3</td></tr>
 <tr><td>Les Enfers</td><td>3</td></tr>
 <tr><td>Les Genevez (JU)</td><td>3</td></tr>
-<tr><td>Lugnez</td><td>3</td></tr>
 <tr><td>Mervelier</td><td>3</td></tr>
 <tr><td>Mettembert</td><td>3</td></tr>
 <tr><td>Montfaucon</td><td>3</td></tr>
@@ -2373,7 +2369,7 @@ Anhang I[^t-1]
 
 Anhang 2[^t-2]
 
-[^t-2]: Fassung gemäss Ziff. II der V des EDI vom 19. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 612](https://fedlex.data.admin.ch/eli/oc/2022/612)).
+[^t-2]: Fassung gemäss Ziff. I der V des EDI vom 19. Okt. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 642](https://fedlex.data.admin.ch/eli/oc/2023/642)).
 
 (Art. 2)
 
@@ -2382,7 +2378,7 @@ Anhang 2[^t-2]
 ### Basel-Stadt
 
 <table>
-<tr><td>Gemeinde</td><td>Höchstbeträge (in Franken)</td></tr>
+<tr><th>Gemeinde</th><th>Höchstbeträge (in Franken)</th></tr>
 <tr><td>Bettingen</td><td>1 Person: 17 580 2 Personen: 20 820 3 Personen: 23 100 4 Personen und mehr: 25 200</td></tr>
 <tr><td>Riehen</td><td>1 Person: 17 580 2 Personen: 20 820 3 Personen: 23 100 4 Personen und mehr: 25 200</td></tr>
 </table>
@@ -2390,9 +2386,16 @@ Anhang 2[^t-2]
 ### Neuenburg
 
 <table>
-<tr><td>Gemeinde</td><td>Höchstbeträge (in Franken)</td></tr>
+<tr><th>Gemeinde</th><th>Höchstbeträge (in Franken)</th></tr>
 <tr><td>La Chaux-de-Fonds</td><td>1 Person: 15 336 2 Personen: 18 204 3 Personen: 19 932 4 Personen und mehr: 21 708</td></tr>
 <tr><td>Le Locle</td><td>1 Person: 15 336 2 Personen: 18 204 3 Personen: 19 932 4 Personen und mehr: 21 708</td></tr>
-<tr><td>Val-de-Ruz</td><td>1 Person: 16 368 2 Personen: 19 416 3 Personen: 21 264 4 Personen: 23 160</td></tr>
+<tr><td>Val-de-Ruz</td><td>1 Person: 16 188 2 Personen: 19 212 3 Personen: 21 036 4 Personen: 22 920</td></tr>
 <tr><td>Val-de-Travers</td><td>1 Person: 15 336 2 Personen: 18 204 3 Personen: 19 932 4 Personen und mehr: 21 708</td></tr>
+</table>
+
+### Waadt
+
+<table>
+<tr><th>Gemeinde</th><th>Höchstbeträge (in Franken)</th></tr>
+<tr><td>Oron</td><td>1 Person: 17 040 2 Personen: 20 220 3 Personen: 22 140 4 Personen und mehr: 24 120</td></tr>
 </table>
