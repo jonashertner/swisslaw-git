@@ -4,11 +4,11 @@ title: Bundesgesetz vom 3. Oktober 2008 über militärische und andere Informati
 short: MIG
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/823"
 language: de
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2008-10-03
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/823/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2009-823-20230901-de-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/823/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/823/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2009-823-20240101-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/823/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/823/20230901/de"
 
 (MIG)[^t-1]
 
-vom 3. Oktober 2008 (Stand am 1. September 2023)
+vom 3. Oktober 2008 (Stand am 1. Januar 2024)
 
 [^t-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
@@ -116,10 +116,11 @@ Die verantwortlichen Organe nach diesem Gesetz dürfen ein Profiling, einschlies
 - e. Lernverhalten und -fortschritt: zu den Bearbeitungszwecken nach Artikel 127 Buchstaben a–c;
 - f. Kaderpotenzial und Entwicklungsmöglichkeiten: zu den Bearbeitungszwecken nach Artikel 13 Buchstaben b–d und m;
 - g. persönliche Interessen hinsichtlich des Militär- und Schutzdienstes, der Anstellung, der Ausbildung sowie der Weiterentwicklung: zu den Bearbeitungszwecken nach den Artikeln 13 Buchstaben b–d und m, 127 Buchstabe b und 143*b* Buchstaben a, d und e;
-- h. Sicherheitsrisiko sowie Gefährdungs- und Missbrauchspotenzial bezüglich der persönlichen Waffe: zu den Bearbeitungszwecken nach den Artikeln 13 Buchstabe l und 145;
+- h.[^2b-2] Sicherheitsrisiko sowie Gefährdungs- und Missbrauchspotenzial bezüglich der persönlichen Waffe: zum Bearbeitungszweck nach Artikel 13 Buchstabe l;
 - i. weitere persönliche Aspekte zu weiteren Bearbeitungszwecken, sofern die betreffende Person dazu einwilligt.
 
 [^2b-1]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Sept. 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^2b-2]: Fassung gemäss Anhang Ziff. 2 des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117), [650](https://fedlex.data.admin.ch/eli/oc/2023/650); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 3
 
@@ -281,17 +282,18 @@ Das PISA enthält folgende Daten der Stellungspflichtigen, der Militärdienstpfl
 - e. Daten über Dienstvormerke und Dienstleistungen;
 - f. Kontrolldaten über Nachforschungen bei unbekanntem Aufenthalt;
 - g. Daten über die Durchführung der Personensicherheitsprüfung, einschliesslich des Entscheids;
+- g<sup>bis</sup>.[^14-4] Daten über die Durchführung der Prüfung der Vertrauenswürdigkeit nach Artikel 14 des Militärgesetzes vom 3. Februar 1995[^14-5] (MG), mit Entscheid;
 - h. Daten über Straftaten sowie strafrechtliche Entscheide und Massnahmen;
 - i. Daten über Beschwerdeverfahren und -entscheide;
 - j. Daten, die von der betreffenden Person freiwillig gemeldet wurden;
 - k. Daten für den Verstorbenen- und Vermisstendienst;
 - l. Daten über die Abgabe und Rücknahme sowie Entscheide über die Abnahme und den Entzug der persönlichen Waffe sowie der Leihwaffe;
-- m. Daten aus Strafverfahren gegen Angehörige der Armee und Stellungspflichtige sowie Meldungen nach Artikel 113 Absätze 7 und 8 des Militärgesetzes vom 3. Februar 1995[^14-4] (MG), sofern ernstzunehmende Anzeichen oder Hinweise bestehen, dass die betroffene Person sich selbst oder Dritte mit der persönlichen Waffe gefährden könnte;
-- n.[^14-5] Daten für die Prüfung und Kontrolle von Anträgen auf Auszahlung von Ausbildungsgutschriften.
+- m.[^14-6] Daten aus Strafverfahren gegen Angehörige der Armee und Stellungspflichtige sowie Meldungen nach Artikel 113 Absätze 7 und 8 MG, sofern ernstzunehmende Anzeichen oder Hinweise bestehen, dass die betroffene Person sich selbst oder Dritte mit der persönlichen Waffe gefährden könnte;
+- n.[^14-7] Daten für die Prüfung und Kontrolle von Anträgen auf Auszahlung von Ausbildungsgutschriften.
 
 <sup>2</sup>
 
-Es enthält folgende Daten der Zivildienstpflichtigen:[^14-6]
+Es enthält folgende Daten der Zivildienstpflichtigen:[^14-8]
 
 - a. Entscheide über die Zulassung und die Aufhebung der Zulassung zum Zivildienst;
 - b. Daten, die von der betreffenden Person freiwillig gemeldet wurden.
@@ -329,15 +331,17 @@ Es enthält folgende Daten der vom psychologisch-pädagogischen Dienst der Armee
 
 - c. sanitätsdienstliche Daten psychologischer oder psychiatrischer Herkunft, die zur Erfüllung der Aufgaben nach Artikel 13 notwendig sind;
 - d. Korrespondenz mit den betreuten Personen sowie den involvierten Stellen;
-- e. Daten, die von der betreuten Person freiwillig gemeldet wurden.[^14-7]
+- e. Daten, die von der betreuten Person freiwillig gemeldet wurden.[^14-9]
 
 [^14-1]: Fassung gemäss Ziff. II des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 [^14-2]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 [^14-3]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
-[^14-4]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^14-5]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
-[^14-6]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^14-4]: Eingefügt durch Anhang 1 Ziff. 13 des Informationssicherheitsgesetzes vom 18. Dez. 2020, in Kraft seit 1. Jan. 2024 ([AS 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [BBl 2017 2953](https://fedlex.data.admin.ch/eli/fga/2017/647)).
+[^14-5]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^14-6]: Fassung gemäss Anhang 1 Ziff. 13 des Informationssicherheitsgesetzes vom 18. Dez. 2020, in Kraft seit 1. Jan. 2024 ([AS 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [BBl 2017 2953](https://fedlex.data.admin.ch/eli/fga/2017/647)).
 [^14-7]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^14-8]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^14-9]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 15
 
@@ -2151,179 +2155,21 @@ Die Daten des ISFA werden nach der Erfassung längstens während zehn Jahren auf
 
 ## 5. Kapitel: Sicherheitsinformationssysteme
 
-### 1. Abschnitt: Informationssystem Personensicherheitsprüfung
+### 1. Abschnitt: …
 
-#### Art. 144
+#### Art. 144–149
 
-**Verantwortliches Organ**[^144-1]
+[^144149-1]
 
-Die Fachstelle für Personensicherheitsprüfungen im VBS (Fachstelle PSP VBS) betreibt ein Informationssystem Personensicherheitsprüfung (SIBAD).
+[^144149-1]: Aufgehoben durch Anhang Ziff. 2 des BG vom 17. Juni 2022, mit Wirkung seit 1. Jan. 2024 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117), [650](https://fedlex.data.admin.ch/eli/oc/2023/650); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
-[^144-1]: Fassung gemäss Anhang Ziff. 5 des BG vom 23. Dez. 2011, in Kraft seit 16. Juli 2012 ([AS 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [BBl 2007 5037](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 7841](https://fedlex.data.admin.ch/eli/fga/2010/1444)).
+### 2. Abschnitt: …
 
-#### Art. 145
+#### Art. 150–155
 
-**Zweck**[^145-1]
+[^150155-1]
 
-Das SIBAD dient der Durchführung von:
-
-- a. Personensicherheitsprüfungen;
-- b. Beurteilungen des Gefährdungs- oder Missbrauchspotenzials bezüglich der persönlichen Waffe;
-- c. Zuverlässigkeitskontrollen.
-
-[^145-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
-
-#### Art. 146
-
-**Daten**
-
-Das SIBAD enthält folgende Daten:
-
-- a. die für die Personensicherheitsprüfung erhobenen Daten;
-- b. die Risikoanalyse;
-- c. den Entscheid über die Personensicherheitsprüfung.
-
-#### Art. 147
-
-**Datenbeschaffung**
-
-<sup>1</sup>
-
-Die für die Durchführung von Personensicherheitsprüfungen zuständigen Prüfbehörden beschaffen die Daten für das SIBAD bei:[^147-1]
-
-- a. der betreffenden Person oder ihrer gesetzlichen Vertretung;
-- b. den militärischen Kommandos;
-- c. den zuständigen Verwaltungseinheiten des Bundes, der Kantone und Gemeinden;
-- d. den zivilen und militärischen Strafbehörden sowie den Verwaltungsrechtspflegebehörden;
-- e. den ausländischen Sicherheitsbehörden;
-- f. den militärischen und, mit Einwilligung der betreffenden Person, zivilen Vorgesetzten;
-- g. den von der betreffenden Person genannten Referenzpersonen.
-
-<sup>2</sup>
-
-Sie haben durch Abrufverfahren Zugang zu folgenden Registern und Datenbanken im Rahmen der entsprechenden Rechtsgrundlagen:[^147-2]
-
-- a. nationaler Polizeiindex;
-- b. Strafregister;
-- c.[^147-3] Informationssystem INDEX NDB nach Artikel 51 NDG[^147-4], unter Vorbehalt von Artikel 20 Absatz 2 des Bundesgesetzes vom 21. März 1997[^147-5] über Massnahmen zur Wahrung der inneren Sicherheit;
-- d.[^147-6] Datenbanken der Zentralstelle Waffen nach Artikel 32*a* Absatz 1 WG[^147-7].
-
-<sup>3</sup> Sie können Daten von den Sicherheitsorganen des Bundes oder den entsprechenden kantonalen Behörden anfordern. Diese können die Prüfbehörden ermächtigen, über ein Abrufverfahren direkt auf ihre Register und Datenbanken zuzugreifen.[^147-8]
-
-[^147-1]: Fassung gemäss Anhang Ziff. 5 des BG vom 23. Dez. 2011, in Kraft seit 16. Juli 2012 ([AS 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [BBl 2007 5037](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 7841](https://fedlex.data.admin.ch/eli/fga/2010/1444)).
-[^147-2]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
-[^147-3]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
-[^147-4]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
-[^147-5]: [SR 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
-[^147-6]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
-[^147-7]: [SR 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
-[^147-8]: Fassung gemäss Anhang Ziff. 5 des BG vom 23. Dez. 2011, in Kraft seit 16. Juli 2012 ([AS 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [BBl 2007 5037](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 7841](https://fedlex.data.admin.ch/eli/fga/2010/1444)).
-
-#### Art. 148
-
-**Datenbekanntgabe**
-
-<sup>1</sup>
-
-Die Fachstelle PSP VBS macht die Daten des SIBAD durch Abrufverfahren folgenden Stellen zugänglich:[^148-1]
-
-- a.[^148-2] den für die Durchführung von Personensicherheitsprüfungen zuständigen Prüfbehörden;
-- b. der für die Industriesicherheit des VBS zuständigen Stelle;
-- c.
-
-  den mit der Einleitung der Personensicherheitsprüfungen beauftragten Stellen:
-
-  - 1\. des Bundes und der Kantone,
-  - 2\. der Betreiber von Kernkraftwerken,
-  - 2<sup>bis</sup>.[^148-3] der nationalen Netzgesellschaft,
-  - 3\. Dritter;
-
-- d.[^148-4] den mit Sicherheitsaufgaben beauftragten Stellen des Bundes, wenn diese Stellen sich für ihre Tätigkeit auf die Daten der Personensicherheitsprüfungen stützen müssen und die Daten für die betreffende Person nicht nachteilig sind.
-
-<sup>2</sup>
-
-Die Prüfbehörden geben das Resultat der Personensicherheitsprüfung folgenden Stellen und Personen bekannt:[^148-5]
-
-- a. der betreffenden Person;
-- b. der Stelle, welche die Personensicherheitsprüfung veranlasst hat;
-- c. dem Arbeitgeber der betreffenden Person;
-- d. in Beschwerdefällen: zur Beschwerde berechtigten Dritten.
-
-<sup>3</sup>
-
-Die Fachstelle PSP VBS kann Bundesstellen folgende Daten der Personensicherheitsprüfung zur Weiterverwendung in Sicherheitssystemen elektronisch bekannt geben, wenn diese Stellen für ihre Tätigkeit auf den Daten der Personensicherheitsprüfung basieren müssen und die Daten für die betreffende Person nicht nachteilig sind:[^148-6]
-
-- a. Personalien;
-- b. Prüfstufe;
-- c. Ergebnis der Personensicherheitsprüfung mit Datum.
-
-[^148-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
-[^148-2]: Fassung gemäss Anhang Ziff. 5 des BG vom 23. Dez. 2011, in Kraft seit 16. Juli 2012 ([AS 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [BBl 2007 5037](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 7841](https://fedlex.data.admin.ch/eli/fga/2010/1444)).
-[^148-3]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
-[^148-4]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
-[^148-5]: Fassung gemäss Anhang Ziff. 5 des BG vom 23. Dez. 2011, in Kraft seit 16. Juli 2012 ([AS 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [BBl 2007 5037](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 7841](https://fedlex.data.admin.ch/eli/fga/2010/1444)).
-[^148-6]: Fassung gemäss Anhang Ziff. 5 des BG vom 23. Dez. 2011, in Kraft seit 16. Juli 2012 ([AS 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [BBl 2007 5037](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 7841](https://fedlex.data.admin.ch/eli/fga/2010/1444)).
-
-#### Art. 149
-
-**Datenaufbewahrung**
-
-<sup>1</sup>
-
-Die Prüfbehörden vernichten umgehend Daten:[^149-1]
-
-- a. die auf Vermutungen oder blossen Verdächtigungen beruhen;
-- b. die dem Zweck der Bearbeitung nicht entsprechen;
-- c. deren Bearbeitung aus anderen Gründen unzulässig ist; oder
-- d. die unrichtig sind.
-
-<sup>2</sup> Sie bewahren die Daten so lange auf, wie die betreffende Person die Stelle innehat, die Funktion ausübt oder den Auftrag bearbeitet, längstens jedoch zehn Jahre.[^149-2]
-
-[^149-1]: Fassung gemäss Anhang Ziff. 5 des BG vom 23. Dez. 2011, in Kraft seit 16. Juli 2012 ([AS 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [BBl 2007 5037](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 7841](https://fedlex.data.admin.ch/eli/fga/2010/1444)).
-[^149-2]: Fassung gemäss Anhang Ziff. 5 des BG vom 23. Dez. 2011, in Kraft seit 16. Juli 2012 ([AS 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [BBl 2007 5037](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 7841](https://fedlex.data.admin.ch/eli/fga/2010/1444)).
-
-### 2. Abschnitt: Informationssystem Industriesicherheitskontrolle
-
-#### Art. 150
-
-**Verantwortliches Organ**[^150-1]
-
-Die für die Durchführung des Geheimschutzverfahrens zuständige Stelle des VBS betreibt ein Informationssystem Industriesicherheitskontrolle (ISKO).
-
-[^150-1]: Fassung gemäss Ziff. I der V vom 12. Dez. 2008 (Unterstellung der Informations- und Objektsicherheit unter das Generalsektretariat VBS), in Kraft seit 1. Jan. 2010 ([AS 2009 6615](https://fedlex.data.admin.ch/eli/oc/2009/822)).
-
-#### Art. 151
-
-**Zweck**
-
-Das ISKO dient der Durchführung des Geheimschutzverfahrens und der damit zusammenhängenden Personensicherheitsprüfungen.
-
-#### Art. 152
-
-**Daten**
-
-Das ISKO enthält folgende Daten:
-
-- a. Risikoanalyse;
-- b. Entscheid über die Personensicherheitsprüfung.
-
-#### Art. 153
-
-**Datenbeschaffung**
-
-Die Fachstelle GSV beschafft die Daten über eine Schnittstelle aus dem SIBAD.
-
-#### Art. 154
-
-**Datenbekanntgabe**
-
-Der Prüfungsentscheid und die Sicherheitsstufe dürfen dem Geheimschutzbeauftragten des Arbeitgebers der betreffenden Person bekannt gegeben werden.
-
-#### Art. 155
-
-**Datenaufbewahrung**
-
-Die Daten des ISKO werden während zehn Jahren aufbewahrt.
+[^150155-1]: Aufgehoben durch Anhang Ziff. 2 des BG vom 17. Juni 2022, mit Wirkung seit 1. Jan. 2024 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117), [650](https://fedlex.data.admin.ch/eli/oc/2023/650); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 ### 3. Abschnitt: Informationssystem Besuchsanträge
 

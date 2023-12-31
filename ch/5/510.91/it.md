@@ -4,11 +4,11 @@ title: Legge federale del 3 ottobre 2008 sui sistemi d’informazione militari e
 short: LSIM
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/823"
 language: it
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2008-10-03
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/823/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2009-823-20230901-it-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/823/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/823/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2009-823-20240101-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/823/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/823/20230901/it"
 
 (LSIM)[^t-1]
 
-del 3 ottobre 2008 (Stato 1° settembre 2023)
+del 3 ottobre 2008 (Stato 1° gennaio 2024)
 
 [^t-1]: Nuovo testo giusta il n. I della LF del 17 giu. 2022, in vigore dal 1° apr. 2023 ([RU 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
@@ -50,13 +50,13 @@ La presente legge disciplina il trattamento di dati personali di persone fisiche
 
 <sup>3</sup> Per quanto la presente legge non contenga norme speciali, è applicabile la legge federale del 25 settembre 2020[^1-6] sulla protezione dei dati (LPD).[^1-7]
 
-[^1-1]: Nuovo testo giusta l’all. n. 1 della LF del 17 giu. 2022, in vigore dal 1° set. 2023 ([RU 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^1-1]: Nuovo testo giusta l’all. n. 1 della LF del 17 giu. 2022, in vigore dal 1° set. 2023 ([RU 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046))
 [^1-2]: Nuovo testo giusta il n. I della LF del 17 giu. 2022, in vigore dal 1° apr. 2023 ([RU 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 [^1-3]: Nuovo testo giusta il n. I della LF del 17 giu. 2022, in vigore dal 1° apr. 2023 ([RU 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 [^1-4]: Nuovo testo giusta il n. I della LF del 17 giu. 2022, in vigore dal 1° apr. 2023 ([RU 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 [^1-5]: Nuovo testo giusta il n. I della LF del 17 giu. 2022, in vigore dal 1° apr. 2023 ([RU 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 [^1-6]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^1-7]: Nuovo testo giusta l’all. n. 1 della LF del 17 giu. 2022, in vigore dal 1° set. 2023 ([RU 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^1-7]: Nuovo testo giusta l’all. n. 1 della LF del 17 giu. 2022, in vigore dal 1° set. 2023 ([RU 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046))
 
 #### Art. 2
 
@@ -116,10 +116,11 @@ Gli organi responsabili secondo la presente legge possono eseguire una profilazi
 - e. comportamento e progressi nell’apprendimento, per gli scopi del trattamento secondo l’articolo 127 lettere a–c;
 - f. potenziale per funzioni di quadro e possibilità di sviluppo, per gli scopi del trattamento secondo l’articolo 13 lettere b–d e m;
 - g. interessi personali concernenti il servizio militare e il servizio di protezione civile, l’impiego, la formazione o l’istruzione e l’ulteriore sviluppo, per gli scopi del trattamento secondo gli articoli 13 lettere b–d e m, 127 lettera b e 143*b* lettere a, d ed e;
-- h. rischio per la sicurezza nonché potenziale di pericolo o di abuso per quanto riguarda l’arma personale, per gli scopi del trattamento secondo gli articoli 13 lettera l e 145;
+- h.[^2b-2] rischio per la sicurezza nonché potenziale di pericolo o di abuso per quanto riguarda l’arma personale, per gli scopi del trattamento secondo l’articolo 13 lettera l;
 - i. altri aspetti personali per ulteriori scopi del trattamento, nella misura in cui la persona interessata lo autorizzi.
 
-[^2b-1]: Introdotto dall’all. n. 1 della LF del 17 giu. 2022, in vigore dal 1° set. 2023 ([RU 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^2b-1]: Introdotto dal n. I della LF del 17 giu. 2022, in vigore dal 1° set. 2023 ([RU 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^2b-2]: Nuovo testo giusta l'all. n. 2 della LF del 17 giu. 2022, in vigore dal 1° gen. 2024 ([RU 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117), [650](https://fedlex.data.admin.ch/eli/oc/2023/650); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 3
 
@@ -204,7 +205,7 @@ Non possono essere trattati dati concernenti:
 
 [^11-1]
 
-[^11-1]: Abrogato dall’all. n. 1 della del LF 17 giu. 2022, in vigore dal 1° set. 2023 ([RU 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^11-1]: Abrogato dall’all. n. 1 della del LF 17 giu. 2022, in vigore dal 1° set. 2023 ([RU 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046))
 
 ## Capitolo 2: Sistemi d’informazione per la gestione del personale
 
@@ -281,13 +282,14 @@ Il PISA contiene i seguenti dati delle persone soggette all’obbligo di leva, d
 - e. dati concernenti avvisi di servizio e servizi prestati;
 - f. dati di controllo concernenti le ricerche effettuate quando il luogo di soggiorno è sconosciuto;
 - g. dati concernenti l’esecuzione di controlli di sicurezza relativi alle persone, unitamente alle corrispondenti decisioni;
+- g<sup>bis</sup>.[^14-4] dati concernenti l’esecuzione della verifica dell’affidabilità secondo l’articolo 14 della legge militare del 3 febbraio 1995[^14-5] (LM), unitamente alla corrispondente decisione;
 - h. dati concernenti reati nonché decisioni e misure di diritto penale;
 - i. dati concernenti procedure di ricorso e le corrispondenti decisioni;
 - j. dati forniti volontariamente dalla persona interessata;
 - k. dati per il servizio dei morti e dei dispersi;
 - l. dati concernenti la consegna e il ritiro ordinario dell’arma personale e dell’arma in prestito, nonché dati concernenti decisioni in materia di ritiro cautelare e di ritiro definitivo dell’arma personale e dell’arma in prestito;
-- m. dati concernenti i procedimenti penali a carico di militari e persone soggette all’obbligo di leva e comunicazioni ai sensi dell’articolo 113 capoversi 7 e 8 della legge militare del 3 febbraio 1995[^14-4] (LM), sempre che sussistano seri segni o indizi che la persona interessata possa esporre a pericolo se stessa o terzi con l’arma personale;
-- n.[^14-5] dati per l’esame e il controllo di domande di riscossione di contributi per la formazione.
+- m.[^14-6] dati concernenti i procedimenti penali a carico di militari e persone soggette all’obbligo di leva e comunicazioni ai sensi dell’articolo 113 capoversi 7 e 8 LM sempre che sussistano seri segni o indizi che la persona interessata possa esporre a pericolo sé stessa o terzi con l’arma personale;
+- n.[^14-7] dati per l’esame e il controllo di domande di riscossione di contributi per la formazione.
 
 <sup>2</sup>
 
@@ -328,16 +330,17 @@ Il PISA contiene i seguenti dati delle persone assistite dal Servizio psicopedag
   - 4\. certificati di specialisti civili in psicologia;
 
 - c. dati sanitari di carattere psicologico o psichiatrico necessari per l’adempimento dei compiti di cui all’articolo 13;
-
 - d. corrispondenza con le persone assistite nonché con gli organi interessati;
-- e. dati forniti volontariamente dalle persone assistite.[^14-6]
+- e. dati forniti volontariamente dalle persone assistite.[^14-8]
 
 [^14-1]: Nuovo testo giusto il n. II della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 [^14-2]: Introdotta dal n. I della LF del 17 giu. 2022, in vigore dal 1° apr. 2023 ([RU 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 [^14-3]: Introdotta dal n. I della LF del 17 giu. 2022, in vigore dal 1° apr. 2023 ([RU 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
-[^14-4]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^14-5]: Introdotta dal n. I della LF del 17 giu. 2022, in vigore dal 1° apr. 2023 ([RU 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
-[^14-6]: Introdotto dal n. I della LF del 17 giu. 2022, in vigore dal 1° apr. 2023 ([RU 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^14-4]: Introdotta dall’all. 1 n. 14 della LF del 18 dic. 2020 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232), [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [FF 2017 2563](https://fedlex.data.admin.ch/eli/fga/2017/647)).
+[^14-5]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^14-6]: Nuovo testo giusta l’all. 1 n. 14 della LF del 18 dic. 2020 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232), [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [FF 2017 2563](https://fedlex.data.admin.ch/eli/fga/2017/647)).
+[^14-7]: Introdotta dal n. I della LF del 17 giu. 2022, in vigore dal 1° apr. 2023 ([RU 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^14-8]: Introdotto dal n. I della LF del 17 giu. 2022, in vigore dal 1° apr. 2023 ([RU 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 15
 
@@ -2158,179 +2161,21 @@ I dati del SIFC sono conservati per dieci anni al massimo a decorrere dal rileva
 
 ## Capitolo 5: Sistemi d’informazione di sicurezza
 
-### Sezione 1: Sistema d’informazione per i controlli di sicurezza relativi alle persone
+### Sezione 1: ...
 
-#### Art. 144
+#### Art. 144 a 149
 
-**Organo responsabile**[^144-1]
+[^144149-1]
 
-Il servizio specializzato del DDPS per i controlli di sicurezza relativi alle persone (servizio specializzato CSP DDPS) gestisce un sistema d’informazione per i controlli di sicurezza relativi alle persone (Sistema informatizzato per i controlli di sicurezza relativi alle persone, SIBAD).
+[^144149-1]: Abrogati dall’all. 1 n. 14 della LF del 18 dic. 2020 sulla sicurezza delle informazioni, con effetto dal 1° gen. 2024 ([RU 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232), [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [FF 2017 2563](https://fedlex.data.admin.ch/eli/fga/2017/647)).
 
-[^144-1]: Nuovo testo giusta l’all. n. 5 della LF del 23 dic. 2011, in vigore dal 16 lug. 2012 ([RU 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [FF 2007 4613](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 6923](https://fedlex.data.admin.ch/eli/fga/2010/1444)).
+### Sezione 2: ...
 
-#### Art. 145
+#### Art. 150 a 155
 
-**Scopo**[^145-1]
+[^150155-1]
 
-Il SIBAD serve all’esecuzione di:
-
-- a. controlli di sicurezza relativi alle persone;
-- b. valutazioni del potenziale di pericolo o di abuso per quanto riguarda l’arma personale;
-- c. controlli dell’affidabilità.
-
-[^145-1]: Nuovo testo giusta il n. I della LF del 17 giu. 2022, in vigore dal 1° apr. 2023 ([RU 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
-
-#### Art. 146
-
-**Dati**
-
-Il SIBAD contiene i seguenti dati:
-
-- a. dati rilevati per i controlli di sicurezza relativi alle persone;
-- b. analisi dei rischi;
-- c. decisione concernente il controllo di sicurezza relativo alle persone.
-
-#### Art. 147
-
-**Raccolta dei dati**
-
-<sup>1</sup>
-
-Le autorità responsabili dello svolgimento dei controlli di sicurezza relativi alle persone raccolgono i dati per il SIBAD presso:[^147-1]
-
-- a. la persona interessata o il suo rappresentante legale;
-- b. i comandi militari;
-- c. le competenti unità amministrative della Confederazione, dei Cantoni e dei Comuni;
-- d. le autorità penali civili e militari, nonché le autorità preposte alla giurisdizione amministrativa;
-- e. le autorità di sicurezza estere;
-- f. i superiori militari e, previo consenso della persona interessata, i superiori civili;
-- g. le persone di referenza indicate dalla persona interessata.
-
-<sup>2</sup>
-
-Nell’ambito delle pertinenti basi legali, le autorità responsabili dello svolgimento dei controlli di sicurezza relativi alle persone hanno accesso, mediante procedura di richiamo, ai registri e alle banche dati seguenti:[^147-2]
-
-- a. registro nazionale di polizia;
-- b. casellario giudiziale;
-- c.[^147-3] sistema d’informazione INDEX SIC secondo l’articolo 51 LAIn[^147-4], fatto salvo l’articolo 20 capoverso 2 della legge federale del 21 marzo 1997[^147-5] sulle misure per la salvaguardia della sicurezza interna;
-- d.[^147-6] le banche dati dell’Ufficio centrale Armi di cui all’articolo 32*a* capoverso 1 LArm[^147-7].
-
-<sup>3</sup> Le autorità responsabili dello svolgimento dei controlli di sicurezza relativi alle persone possono chiedere dati agli organi di sicurezza della Confederazione o alle corrispondenti autorità cantonali. Quest’ultimi possono autorizzare le autorità responsabili ad accedere direttamente mediante procedura di richiamo ai loro registri e alle loro banche dati.[^147-8]
-
-[^147-1]: Nuovo testo giusta l’all. n. 5 della LF del 23 dic. 2011, in vigore dal 16 lug. 2012 ([RU 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [FF 2007 4613](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 6923](https://fedlex.data.admin.ch/eli/fga/2010/1444)).
-[^147-2]: Nuovo testo giusta il n. I della LF del 17 giu. 2022, in vigore dal 1° apr. 2023 ([RU 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
-[^147-3]: Nuovo testo giusta il n. I della LF del 17 giu. 2022, in vigore dal 1° apr. 2023 ([RU 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
-[^147-4]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
-[^147-5]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
-[^147-6]: Introdotta dal n. I della LF del 17 giu. 2022, in vigore dal 1° apr. 2023 ([RU 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
-[^147-7]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
-[^147-8]: Nuovo testo giusta l’all. n. 5 della LF del 23 dic. 2011, in vigore dal 16 lug. 2012 ([RU 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [FF 2007 4613](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 6923](https://fedlex.data.admin.ch/eli/fga/2010/1444)).
-
-#### Art. 148
-
-**Comunicazione dei dati**
-
-<sup>1</sup>
-
-Il servizio specializzato CSP DDPS rende accessibili mediante procedura di richiamo i dati del SIBAD agli organi seguenti:[^148-1]
-
-- a.[^148-2] alle autorità responsabili dello svolgimento dei controlli di sicurezza relativi alle persone;
-- b. all’organo competente per la sicurezza industriale del DDPS;
-- c.
-
-  agli organi incaricati dell’avvio dei controlli di sicurezza relativi alle persone presso:
-
-  - 1\. la Confederazione e i Cantoni,
-  - 2\. i gestori delle centrali nucleari,
-  - 2<sup>bis</sup>.[^148-3] la società nazionale di rete,
-  - 3\. terzi;
-
-- d.[^148-4] agli organi della Confederazione incaricati di compiti di sicurezza, se per la loro attività detti organi devono fondarsi sui dati dei controlli di sicurezza relativi alle persone e se i dati non sono pregiudizievoli per la persona interessata.
-
-<sup>2</sup>
-
-Le autorità responsabili comunicano i risultati dei controlli di sicurezza relativi alle persone agli organi e alle persone seguenti:[^148-5]
-
-- a. alla persona interessata;
-- b. all’organo che ha disposto il controllo di sicurezza relativo alle persone;
-- c. ai datori di lavoro della persona interessata;
-- d. nei casi di ricorso, a terzi legittimati a ricorrere.
-
-<sup>3</sup>
-
-Il servizio specializzato CSP DDPS può comunicare elettronicamente a organi della Confederazione i seguenti dati dei controlli di sicurezza relativi alle persone a fini di ulteriore utilizzazione in sistemi di sicurezza, se per la loro attività detti organi devono fondarsi sui dati dei controlli di sicurezza relativi alle persone e se i dati non sono pregiudizievoli per la persona interessata:[^148-6]
-
-- a. generalità;
-- b. livello di controllo;
-- c. risultato del controllo di sicurezza relativo alle persone, con l’indicazione della data.
-
-[^148-1]: Nuovo testo giusta l’all. n. 5 della LF del 23 dic. 2011, in vigore dal 16 lug. 2012 ([RU 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [FF 2007 4613](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 6923](https://fedlex.data.admin.ch/eli/fga/2010/1444)).
-[^148-2]: Nuovo testo giusta l’all. n. 5 della LF del 23 dic. 2011, in vigore dal 16 lug. 2012 ([RU 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [FF 2007 4613](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 6923](https://fedlex.data.admin.ch/eli/fga/2010/1444)).
-[^148-3]: Introdotto dal n. I della LF del 17 giu. 2022, in vigore dal 1° apr. 2023 ([RU 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
-[^148-4]: Nuovo testo giusta il n. I della LF del 17 giu. 2022, in vigore dal 1° apr. 2023 ([RU 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
-[^148-5]: Nuovo testo giusta l’all. n. 5 della LF del 23 dic. 2011, in vigore dal 16 lug. 2012 ([RU 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [FF 2007 4613](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 6923](https://fedlex.data.admin.ch/eli/fga/2010/1444)).
-[^148-6]: Nuovo testo giusta l’all. n. 5 della LF del 23 dic. 2011, in vigore dal 16 lug. 2012 ([RU 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [FF 2007 4613](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 6923](https://fedlex.data.admin.ch/eli/fga/2010/1444)).
-
-#### Art. 149
-
-**Conservazione dei dati**
-
-<sup>1</sup>
-
-Le autorità responsabili distruggono immediatamente i dati:[^149-1]
-
-- a. che si fondano su presunzioni o semplici sospetti;
-- b. che non corrispondono allo scopo del trattamento;
-- c. il cui trattamento non è ammesso per altri motivi; oppure
-- d. che sono errati.
-
-<sup>2</sup> Le autorità responsabili conservano i dati finché la persona interessata occupa il posto, esercita la funzione oppure esegue il mandato, ma al massimo per dieci anni.[^149-2]
-
-[^149-1]: Nuovo testo giusta l’all. n. 5 della LF del 23 dic. 2011, in vigore dal 16 lug. 2012 ([RU 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [FF 2007 4613](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 6923](https://fedlex.data.admin.ch/eli/fga/2010/1444)).
-[^149-2]: Nuovo testo giusta l’all. n. 5 della LF del 23 dic. 2011, in vigore dal 16 lug. 2012 ([RU 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [FF 2007 4613](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 6923](https://fedlex.data.admin.ch/eli/fga/2010/1444)).
-
-### Sezione 2: Sistema d’informazione per il controllo della sicurezza industriale
-
-#### Art. 150
-
-**Organo responsabile**[^150-1]
-
-L’organo del DDPS competente per l’esecuzione della procedura di tutela del segreto gestisce un sistema d’informazione per il controllo della sicurezza industriale (ISKO).
-
-[^150-1]: Nuovo testo giusta il n. I dell’O del 12 dic. 2008 (subordinazione della Protezione delle informazioni e delle opere alla Segreteria generale del DDPS), in vigore dal 1° gen. 2010 ([RU 2009 6615](https://fedlex.data.admin.ch/eli/oc/2009/822)).
-
-#### Art. 151
-
-**Scopo**
-
-L’ISKO serve all’esecuzione della procedura di tutela del segreto e dei corrispondenti controlli di sicurezza relativi alle persone.
-
-#### Art. 152
-
-**Dati**
-
-L’ISKO contiene i seguenti dati:
-
-- a. analisi dei rischi;
-- b. decisione concernente il controllo di sicurezza relativo alle persone.
-
-#### Art. 153
-
-**Raccolta dei dati**
-
-Il servizio specializzato GSV raccoglie i dati presso il sistema SIBAD tramite un’interfaccia.
-
-#### Art. 154
-
-**Comunicazione dei dati**
-
-Il livello di sicurezza e la decisione concernente il controllo possono essere comunicati all’incaricato della tutela del segreto del datore di lavoro della persona interessata.
-
-#### Art. 155
-
-**Conservazione dei dati**
-
-I dati dell’ISKO sono conservati per dieci anni.
+[^150155-1]: Abrogati dall’all. 1 n. 14 della LF del 18 dic. 2020 sulla sicurezza delle informazioni, con effetto dal 1° gen. 2024 ([RU 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232), [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [FF 2017 2563](https://fedlex.data.admin.ch/eli/fga/2017/647)).
 
 ### Sezione 3: Sistema d’informazione per le richieste di visita
 

@@ -4,11 +4,11 @@ title: Loi fédérale du 3 octobre 2008 sur les systèmes d’information de l�
 short: LSIA
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/823"
 language: fr
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2008-10-03
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/823/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2009-823-20230901-fr-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/823/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/823/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2009-823-20240101-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/823/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/823/20230901/fr"
 
 (LSIA)[^t-2][^t-1]
 
-du 3 octobre 2008 (État le 1<sup>er</sup> septembre 2023)
+du 3 octobre 2008 (État le 1<sup>er</sup> janvier 2024)
 
 [^t-1]: <sup>∗</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 [^t-2]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
@@ -117,10 +117,11 @@ Les organes responsables désignés par la présente loi peuvent effectuer un pr
 - e. comportement d’apprentissage et progression: traitement des données comme indiqué à l’art. 127, let. a à c;
 - f. potentiel de cadre et possibilités de développement: traitement des données comme indiqué à l’art. 13, let. b à d et m;
 - g. intérêt personnel porté au service militaire et au service de protection civile, à l’embauche, à la formation (instruction) et au perfectionnement: traitement des données comme indiqué aux art. 13, let. b à d et m, 127, let. b, et 143*b*, let. a, d et e;
-- h. risque pour la sécurité, ainsi que potentiel d’abus et de dangerosité en ce qui concerne l’arme personnelle: traitement des données comme indiqué aux art. 13, let. l, et 145;
+- h.[^2b-2] risque pour la sécurité, ainsi que potentiel d’abus et de dangerosité en ce qui concerne l’arme personnelle: traitement des données comme indiqué à l’art. 13, let. l;
 - i. aspects personnels supplémentaires permettant de parvenir à d’autres fins de traitement des données, si la personne concernée y consent.
 
 [^2b-1]: Introduit par le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^2b-2]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117), [650](https://fedlex.data.admin.ch/eli/oc/2023/650); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 3
 
@@ -283,17 +284,18 @@ Le SIPA contient les données ci-après sur les conscrits, les personnes astrein
 - e. les données sur les notifications de service et les prestations;
 - f. les données de contrôle relatives aux recherches sur le lieu de séjour;
 - g. les données résultant du contrôle de sécurité relatif aux personnes, avec la décision y relative;
+- g<sup>bis</sup>.[^14-4] les données relatives au contrôle de loyauté au sens de l’art. 14 de la loi du 3 février 1995 sur l’armée (LAAM)[^14-5], y compris la décision;
 - h. les données sur les infractions ainsi que les décisions et mesures pénales;
 - i. les données sur les procédures et décisions de recours;
 - j. les données fournies volontairement par la personne concernée;
 - k. les données destinées au service responsable des militaires décédés ou disparus;
 - l. les données sur la remise et la reprise des armes personnelles et des armes en prêt ainsi que les décisions relatives à leur reprise préventive et à leur retrait;
-- m. les données sur les procédures pénales menées contre des militaires ou des conscrits et les annonces visées à l’art. 113, al. 7 et 8, de la loi du 3 février 1995 sur l’armée (LAAM)[^14-4] si des signes ou des indices sérieux laissent présumer que la personne concernée pourrait utiliser son arme personnelle de manière dangereuse, pour elle-même ou pour un tiers;
-- n.[^14-5] les données nécessaires à l’examen et au contrôle des demandes de versement d’indemnités de formation.
+- m.[^14-6] les données sur les procédures pénales menées contre des militaires ou des conscrits et les annonces visées à l’art. 113, al. 7 et 8, de la LAAM si des signes ou des indices sérieux laissent présumer que la personne concernée pourrait utiliser son arme personnelle de manière dangereuse, pour elle-même ou pour un tiers;
+- n.[^14-7] les données nécessaires à l’examen et au contrôle des demandes de versement d’indemnités de formation.
 
 <sup>2</sup>
 
-Il contient les données ci-après sur les personnes astreintes au service civil:[^14-6]
+Il contient les données ci-après sur les personnes astreintes au service civil:[^14-8]
 
 - a. les décisions sur l’admission et l’annulation de l’admission au service civil;
 - b. les données fournies volontairement par la personne concernée.
@@ -331,15 +333,17 @@ Il contient les données ci-après sur les personnes prises en charge par le Ser
 
 - c. les données sanitaires de nature psychologique ou psychiatrique nécessaires à l’accomplissement des tâches visées à l’art. 13;
 - d. la correspondance échangée avec les personnes prises en charge, ainsi qu’avec les services concernés;
-- e. les données fournies volontairement par les personnes prises en charge.[^14-7]
+- e. les données fournies volontairement par les personnes prises en charge.[^14-9]
 
 [^14-1]: Nouvelle teneur selon le ch. II de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 [^14-2]: Introduite par le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 [^14-3]: Introduite par le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
-[^14-4]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^14-5]: Introduite par le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
-[^14-6]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
-[^14-7]: Introduit par le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^14-4]: Introduite par l’annexe 1 ch. 13 de la L du 18 déc. 2020 sur la sécurité de l’information, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [FF 2017 2765](https://fedlex.data.admin.ch/eli/fga/2017/647)).
+[^14-5]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^14-6]: Nouvelle teneur selon l’annexe 1 ch. 13 de la L du 18 déc. 2020 sur la sécurité de l’information, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [FF 2017 2765](https://fedlex.data.admin.ch/eli/fga/2017/647)).
+[^14-7]: Introduite par le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^14-8]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^14-9]: Introduit par le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 15
 
@@ -2159,179 +2163,21 @@ Les données du SIIC sont conservées dix ans au plus après leur saisie.
 
 ## Chapitre 5 Systèmes d’information sur la sécurité
 
-### Section 1 Système d’information sur le contrôle de sécurité relatif aux personnes
+### Section 1 …
 
-#### Art. 144
+#### Art. 144 à 149
 
-**Organe responsable**[^144-1]
+[^144149-1]
 
-Le service spécialisé chargé des contrôles de sécurité relatifs aux personnes au DDPS (Service spécialisé CSP DDPS) exploite le Système d’information sur le contrôle de sécurité relatif aux personnes (SICSP).
+[^144149-1]: Abrogés par l’annexe ch. 2 de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117), [650](https://fedlex.data.admin.ch/eli/oc/2023/650); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
-[^144-1]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 23 déc. 2011, en vigueur depuis le 16 juil. 2012 ([RO 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [FF 2007 4773](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 7147](https://fedlex.data.admin.ch/eli/fga/2010/1444)).
+### Section 2 …
 
-#### Art. 145
+#### Art. 150 à 155
 
-**But**[^145-1]
+[^150155-1]
 
-Le SICSP sert à l’exécution:
-
-- a. des contrôles de sécurité relatifs aux personnes;
-- b. des évaluations du potentiel d’abus ou de dangerosité en ce qui concerne l’arme personnelle;
-- c. des contrôles de fiabilité.
-
-[^145-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
-
-#### Art. 146
-
-**Données**
-
-Le SICSP contient les données suivantes:
-
-- a. les données collectées en vue des contrôles;
-- b. une analyse des risques;
-- c. les décisions sur les contrôles de sécurité.
-
-#### Art. 147
-
-**Collecte des données**
-
-<sup>1</sup>
-
-Les autorités chargées d’effectuer les contrôles de sécurité relatifs à des personnes collectent les données destinées à être versées au SICSP auprès des services et personnes suivants:[^147-1]
-
-- a. la personne concernée ou ses représentants légaux;
-- b. les commandements militaires;
-- c. les services fédéraux, cantonaux et communaux compétents;
-- d. les autorités civiles et militaires pénales et les autorités chargées du contentieux administratif;
-- e. les autorités de sûreté étrangères;
-- f. les supérieurs militaires de la personne concernée et, si celle-ci y a consenti, ses supérieurs civils;
-- g. les personnes de référence désignées par la personne concernée.
-
-<sup>2</sup>
-
-Elles ont accès en ligne aux registres et banques de données ci-après, dans le cadre prévu par les dispositions correspondantes:[^147-2]
-
-- a. l’index national de police;
-- b. le casier judiciaire;
-- c.[^147-3] le système d’information INDEX SRC visé à l’art. 51 LRens[^147-4], sous réserve de l’art. 20, al. 2, de la loi fédérale du 21 mars 1997 instituant des mesures visant au maintien de la sûreté intérieure[^147-5];
-- d.[^147-6] les banques de données de l’Office central des armes visées à l’art. 32*a*, al. 1, LArm[^147-7].
-
-<sup>3</sup> Elles peuvent demander aux organes de sûreté fédéraux ou aux autorités cantonales concernées de leur communiquer des données auxquelles elles n’ont pas accès. Ceux-ci peuvent les autoriser à accéder en ligne à leurs registres et banques de données.[^147-8]
-
-[^147-1]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 23 déc. 2011, en vigueur depuis le 16 juil. 2012 ([RO 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [FF 2007 4773](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 7147](https://fedlex.data.admin.ch/eli/fga/2010/1444)).
-[^147-2]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
-[^147-3]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
-[^147-4]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
-[^147-5]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
-[^147-6]: Introduite par le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
-[^147-7]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
-[^147-8]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 23 déc. 2011, en vigueur depuis le 16 juil. 2012 ([RO 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [FF 2007 4773](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 7147](https://fedlex.data.admin.ch/eli/fga/2010/1444)).
-
-#### Art. 148
-
-**Communication des données**
-
-<sup>1</sup>
-
-Le CSP DDPS donne accès en ligne aux données du SICSP aux services suivants:[^148-1]
-
-- a.[^148-2] les autorités chargées d’effectuer les contrôles de sécurité relatifs à des personnes;
-- b. le service responsable de la sécurité industrielle du DDPS;
-- c.
-
-  les services responsables de l’exécution des contrôles de sécurité relatifs aux personnes:
-
-  - 1\. à la Confédération et dans les cantons,
-  - 2\. auprès des exploitants de centrales nucléaires,
-  - 2<sup>bis</sup>.[^148-3] à la Société nationale du réseau de transport,
-  - 3\. auprès de tiers;
-
-- d.[^148-4] les services fédéraux responsables des tâches relatives à la sécurité, lorsque ceux-ci doivent se fonder sur les données concernant les contrôles de sécurité relatifs aux personnes pour exercer leur activité et si les données ne sont pas préjudiciables à la personne concernée.
-
-<sup>2</sup>
-
-Les autorités chargées d’effectuer les contrôles de sécurité relatifs à des personnes communiquent le résultat des contrôles de sécurité aux services et personnes suivants:[^148-5]
-
-- a. la personne concernée;
-- b. le service qui a requis le contrôle;
-- c. l’employeur de la personne concernée;
-- d. en cas de recours: les tiers qui ont qualité pour recourir.
-
-<sup>3</sup>
-
-Aux fins d’une utilisation ultérieure dans des systèmes de sécurité, le CSP DDPS peut communiquer par voie électronique les données ci-après aux services fédéraux devant recourir aux données du contrôle de sécurité pour leurs activités, pour autant que la communication de ces données ne soit pas contraire aux intérêts de la personne concernée:[^148-6]
-
-- a. l’identité;
-- b. le niveau de contrôle;
-- c. le résultat et la date du contrôle.
-
-[^148-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
-[^148-2]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 23 déc. 2011, en vigueur depuis le 16 juil. 2012 ([RO 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [FF 2007 4773](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 7147](https://fedlex.data.admin.ch/eli/fga/2010/1444)).
-[^148-3]: Introduit par le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
-[^148-4]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
-[^148-5]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 23 déc. 2011, en vigueur depuis le 16 juil. 2012 ([RO 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [FF 2007 4773](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 7147](https://fedlex.data.admin.ch/eli/fga/2010/1444)).
-[^148-6]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 23 déc. 2011, en vigueur depuis le 16 juil. 2012 ([RO 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [FF 2007 4773](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 7147](https://fedlex.data.admin.ch/eli/fga/2010/1444)).
-
-#### Art. 149
-
-**Conservation des données**
-
-<sup>1</sup>
-
-Les autorités chargées d’effectuer les contrôles de sécurité relatifs à des personnes détruisent immédiatement:[^149-1]
-
-- a. les données qui reposent sur des suppositions ou de simples soupçons;
-- b. les données qui ne correspondent pas au but visé;
-- c. les données dont le traitement n’est pas autorisé pour d’autres raisons;
-- d. les données erronées.
-
-<sup>2</sup> Elles conservent les données dix ans au plus ou aussi longtemps que la personne concernée occupe le poste, exerce la fonction ou exécute le mandat.[^149-2]
-
-[^149-1]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 23 déc. 2011, en vigueur depuis le 16 juil. 2012 ([RO 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [FF 2007 4773](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 7147](https://fedlex.data.admin.ch/eli/fga/2010/1444)).
-[^149-2]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 23 déc. 2011, en vigueur depuis le 16 juil. 2012 ([RO 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [FF 2007 4773](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 7147](https://fedlex.data.admin.ch/eli/fga/2010/1444)).
-
-### Section 2 Système d’information sur le contrôle de sécurité industrielle
-
-#### Art. 150
-
-**Organe responsable**[^150-1]
-
-Le service du DDPS chargé de l’exécution de la procédure visant à la sauvegarde du secret exploite le Système d’information sur le contrôle de la sécurité industrielle (SICSI).
-
-[^150-1]: Nouvelle teneur selon le ch. I de l’O du 12 déc. 2008 (Subordination de la Protection des informations et des objets au Secrétariat général du DDPS, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 6615](https://fedlex.data.admin.ch/eli/oc/2009/822)).
-
-#### Art. 151
-
-**But**
-
-Le SICSI contribue à l’exécution de la procédure visant la sauvegarde du secret ainsi que des contrôles de sécurité relatifs aux personnes qui en découlent.
-
-#### Art. 152
-
-**Données**
-
-Le SICSI contient les données suivantes:
-
-- a. une analyse des risques;
-- b. les décisions relatives aux contrôles de sécurité.
-
-#### Art. 153
-
-**Collecte des données**
-
-Le service spécialisé CSI collecte dans le SICSP, par une interface, les données destinées à être versées au SICSI.
-
-#### Art. 154
-
-**Communication des données**
-
-La décision relative au contrôle et le niveau de sécurité peuvent être communiqués à la personne chargée de la sauvegarde du secret par l’employeur de la personne concernée.
-
-#### Art. 155
-
-**Conservation des données**
-
-Les données du SICSI sont conservées dix ans.
+[^150155-1]: Abrogés par l’annexe ch. 2 de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117), [650](https://fedlex.data.admin.ch/eli/oc/2023/650); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 ### Section 3 Système d’information sur les demandes de visite
 
