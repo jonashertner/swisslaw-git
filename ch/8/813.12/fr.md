@@ -4,11 +4,11 @@ title: "Ordonnance du 18 mai 2005 concernant la mise sur le marché et l'utilisa
 short: OPBio
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/468"
 language: fr
-version: 2023-10-01
+version: 2024-01-01
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/468/20231001/fr/xml/fedlex-data-admin-ch-eli-cc-2005-468-20231001-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/468/20231001/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/468/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2005-468-20240101-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/468/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/468/20231001/fr"
 
 (Ordonnance sur les produits biocides, OPBio)
 
-du 18 mai 2005 (État le 1<sup>er</sup> octobre 2023)
+du 18 mai 2005 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -101,7 +101,7 @@ La présente ordonnance ne s’applique pas:
 [^1b-1]: Introduit par le ch. I de l’O du 20 juin 2014, en vigueur depuis le 15 juil. 2014 ([RO 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
 [^1b-2]: Règlement (UE) n<sup>o</sup> 528/2012 du Parlement européen et du Conseil du 22 mai 2012 concernant la mise à disposition sur le marché et l’utilisation des produits biocides, JO L 167 du 27.6.2012, p. 1; modifié en dernier lieu par le règlement (UE) n<sup>o</sup> 2021/525, JO L 106 du 26.3.2021, p. 3.
 [^1b-3]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 11 mars 2022, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
-[^1b-4]: www.anmeldestelle.admin.ch &gt; Thèmes &gt; Législation sur les produits chimiques et guides d’application &gt; Législation sur les produits chimiques &gt; Ordonnance sur les produits biocides (OPBio) &gt; ARM Suisse-UE
+[^1b-4]: [www.anmeldestelle.admin.ch](http://www.anmeldestelle.admin.ch) &gt; Thèmes &gt; Législation sur les produits chimiques et guides d’application &gt; Législation sur les produits chimiques &gt; Ordonnance sur les produits biocides (OPBio) &gt; ARM Suisse-UE
 
 #### Art. 2
 
@@ -130,8 +130,8 @@ En outre, on entend par:
   *substance préoccupante:* substance, autre que la substance active, intrinsèquement capable de provoquer, immédiatement ou ultérieurement, un effet néfaste pour l’homme, en particulier pour les groupes vulnérables, les animaux ou l’environnement et qui est contenue ou produite dans un produit biocide à une concentration suffisante pour que celui-ci présente le risque de provoquer un tel effet; sous réserve d’autres motifs de préoccupation, il s’agit notamment des substances suivantes:[^2-3]
 
   - 1\. substance classée comme dangereuse ou répondant aux critères requis pour être classée comme telle en vertu de l’art. 2, al. 2, en relation avec l’annexe VI, ch. 2 à 5, de la directive 67/548/CEE[^2-4] et qui est contenue dans le produit biocide à une concentration telle que celui-ci doit être considéré comme dangereux au sens de l’art. 1, al. 2, en relation avec les art. 5, 6 et 7 de la directive 1999/45/CE[^2-5],
-  - 2\. substance classée comme dangereuse ou répondant aux critères requis pour être classée comme telle en vertu de l’art. 2, al. 2, en relation avec l’annexe I, parties 2 à 5 du règlement (CE) n<sup>o</sup> 1272/2008 (règlement UE-CLP)[^2-6] et qui est contenue dans le produit biocide à une concentration telle que celui-ci doit être considéré comme dangereux au sens dudit règlement,
-  - 3\. substance répondant aux critères de désignation en tant que polluant organique persistant (POP), conformément au règlement (CE) n<sup>o</sup> 850/2004[^2-7], ou aux critères de désignation en tant que substance persistante, bioaccumulable et toxique (PBT) ou en tant que substance très persistante et très bioaccumulable (vPvB), conformément à l’annexe XIII du règlement (CE) n<sup>o</sup> 1907/2006 (règlement UE-REACH)[^2-8];
+  - 2\.[^2-6] substance classée comme dangereuse ou répondant aux critères requis pour être classée comme telle en vertu de l’art. 2, al. 2, en relation avec l’annexe I, parties 2 à 5 du règlement (CE) n<sup>o</sup> 1272/2008 (règlement UE-CLP)[^2-7] et qui est contenue dans le produit biocide à une concentration telle que celui-ci doit être considéré comme dangereux au sens dudit règlement,
+  - 3\.[^2-8] substance répondant aux critères de désignation en tant que polluant organique persistant (POP), conformément au règlement (CE) n<sup>o</sup> 850/2004[^2-9], ou aux critères de désignation en tant que substance persistante, bioaccumulable et toxique (PBT) ou en tant que substance très persistante et très bioaccumulable (vPvB), conformément à l’annexe XIII du règlement (CE) n<sup>o</sup> 1907/2006 (règlement UE-REACH)[^2-10];
 
 - b.
 
@@ -145,12 +145,12 @@ En outre, on entend par:
 
 - c. *organisme nuisible:* tout organisme, y compris les agents pathogènes, dont la présence n’est pas souhaitée ou qui produit un effet nocif pour l’être humain, ses activités ou les produits qu’il utilise ou produit, pour les animaux ou l’environnement;
 - d. *microorganisme:* entité microbiologique, en particulier les bactéries, les algues, les champignons, les protozoaires, les virus et les viroïdes; les cultures de cellules, les prions ainsi que le matériel génétique ayant une activité biologique leur sont assimilés;
-- e. *lettre d’accès:* document signé par la personne habilitée à utiliser des données protégées et stipulant que ces données peuvent être utilisées par l’organe de réception des notifications[^2-9] et, le cas échéant, par l’autorité compétente d’un État contractant pour l’octroi de l’autorisation d’un produit biocide;
+- e. *lettre d’accès:* document signé par la personne habilitée à utiliser des données protégées et stipulant que ces données peuvent être utilisées par l’organe de réception des notifications[^2-11] et, le cas échéant, par l’autorité compétente d’un État contractant pour l’octroi de l’autorisation d’un produit biocide;
 - f. *substance active existante:* substance qui, en date du 14 mai 2000, se trouvait sur le marché en tant que substance active d’un produit biocide à d’autres fins que les activités de recherche et développement scientifiques ou de recherche et développement axées sur les produits et les processus;
 - g. *nouvelle substance active:* substance active d’un produit biocide qui n’est pas une substance active existante;
-- h. *substance active dont la substitution est envisagée:* substance active qui remplit les conditions fixées à l’art. 10, par. 1, du règlement (UE) n<sup>o</sup> 528/2012[^2-10];
+- h. *substance active dont la substitution est envisagée:* substance active qui remplit les conditions fixées à l’art. 10, par. 1, du règlement (UE) n<sup>o</sup> 528/2012[^2-12];
 - i. *résidu:* substance présente dans ou sur des produits d’origine végétale ou animale, dans les ressources en eau, dans l’eau potable, dans ou sur les denrées alimentaires et les aliments pour animaux ou ailleurs dans l’environnement, qui résulte de l’utilisation d’un produit biocide, y compris les métabolites et les produits de dégradation ou de réaction d’une telle substance;
-- j.[^2-11] *article traité:* substance, préparation ou objet sans fonction biocide primaire qui ont été traités avec un ou plusieurs produits biocides ou auxquels un ou plusieurs produits biocides ont été incorporés délibérément;
+- j.[^2-13] *article traité:* substance, préparation ou objet sans fonction biocide primaire qui ont été traités avec un ou plusieurs produits biocides ou auxquels un ou plusieurs produits biocides ont été incorporés délibérément;
 - k. *autorisation nationale:* autorisation délivrée par l’autorité compétente d’un État membre de l’UE ou de l’AELE pour la mise sur le marché d’un produit biocide sur son territoire;
 - l. *autorisation de l’Union:* autorisation délivrée par la Commission européenne pour la mise sur le marché d’un produit biocide sur le territoire de l’UE;
 - m.
@@ -166,16 +166,16 @@ En outre, on entend par:
 
 <sup>3</sup>
 
-Les termes suivants s’entendent au sens de l’art. 2 de l’ordonnance du 18 mai 2005 sur les produits chimiques (OChim)[^2-12]:
+Les termes suivants s’entendent au sens de l’art. 2 de l’ordonnance du 18 mai 2005 sur les produits chimiques (OChim)[^2-14]:
 
 - a. substance;
 - b. objet;
 - c. recherche et développement axés sur les produits et les processus;
 - d. recherche et développement scientifiques.
 
-<sup>4</sup> Les équivalences entre les expressions figurant dans le règlement (UE) n<sup>o</sup> 528/2012 et les expressions figurant dans la présente ordonnance sont régies à l’annexe 3, ch. 1.[^2-13]
+<sup>4</sup> Les équivalences entre les expressions figurant dans le règlement (UE) n<sup>o</sup> 528/2012 et les expressions figurant dans la présente ordonnance sont régies à l’annexe 3, ch. 1.[^2-15]
 
-<sup>4bis</sup> Lorsque la présente ordonnance fait référence à des dispositions du règlement (UE) n<sup>o</sup> 528/2012 qui, elles-mêmes, renvoient à d’autres actes juridiques de l’UE, le droit suisse s’applique en lieu et place du droit de l’UE, conformément à l’annexe 3, ch. 2.[^2-14]
+<sup>4bis</sup> Lorsque la présente ordonnance fait référence à des dispositions du règlement (UE) n<sup>o</sup> 528/2012 qui, elles-mêmes, renvoient à d’autres actes juridiques de l’UE, le droit suisse s’applique en lieu et place du droit de l’UE, conformément à l’annexe 3, ch. 2.[^2-16]
 
 <sup>5</sup> Au surplus, les notions définies de manière différente dans les lois qui servent de base à la présente ordonnance sont entendues ici au sens de la LChim.
 
@@ -184,15 +184,45 @@ Les termes suivants s’entendent au sens de l’art. 2 de l’ordonnance du 18 
 [^2-3]: Nouvelle teneur selon le ch. I de l’O du 5 juin 2015, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
 [^2-4]: Directive 67/548/CEE du Conseil du 27 juin 1967 concernant le rapprochement des disp. législatives, réglementaires et administratives relatives à la classification, l’emballage et l’étiquetage des substances dangereuses, JO L 196 du 16.8.1967, p. 1; modifiée en dernier lieu par la directive 2013/21/UE, JO L 158 du 10.6.2013, p. 240.
 [^2-5]: Directive 1999/45/CE du Parlement européen et du Conseil du 31 mai 1999 concernant le rapprochement des disp. législatives, réglementaires et administratives des Etats membres relatives à la classification, à l’emballage et à l’étiquetage des préparations dangereuses, JO L 200 du 30.7.1999, p. 1; modifiée en dernier lieu par la directive 2013/21/UE, JO L 158 du 10.6.2013, p. 240.
-[^2-6]: R (CE) n<sup>o</sup> 1272/2008 du Parlement européen et du Conseil du 16 décembre 2008 relatif à la classification, à l’étiquetage et à l’emballage des substances et des mélanges, modifiant et abrogeant les directives 67/548/CEE et 1999/45/CE et modifiant le R (CE) n<sup>o</sup> 1907/2006, JO L 353 du 31.12.2008, p. 1; modifié en dernier lieu par le R (UE) n<sup>o</sup> 944/2013, JO L 261 du 3.10.2013, p. 5.
-[^2-7]: R (CE) n<sup>o</sup> 850/2004 du Parlement européen et du Conseil du 29 avril 2004 concernant les polluants organiques persistants et modifiant la directive 79/117/CEE, modifié en dernier lieu par le R (UE) n<sup>o</sup> 519/2012, JO L 159 du 20.6.2012, p. 1.
-[^2-8]: R (CE) n<sup>o</sup> 1907/2006 du Parlement européen et du Conseil, du 18 décembre 2006, concernant l’enregistrement, l’évaluation et l’autorisation des substances chimiques, ainsi que les restrictions applicables à ces substances (REACH), instituant une agence européenne des produits chimiques, modifiant la directive 1999/45/CE et abrogeant le R (CEE) n<sup>o</sup> 793/93 du Conseil et le R (CE) n<sup>o</sup> 1488/94 de la Commission ainsi que la directive 76/769/CEE du Conseil et les directives 91/155/CEE, 93/67/CEE, 93/105/CE et 2000/21/CE de la Commission, JO L 396 du 30.12.2006, p. 1; modifié en dernier lieu par le R (UE) n<sup>o</sup> 474/2014, JO L 136 du 9.5.2014, p. 19.
-[^2-9]: Nouvelle expression selon le ch. I de l’O du 31 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)). Il a été tenu compte de cette mod. dans tout le texte.
-[^2-10]: Cf. note de bas de page relative à l’art. 1*b*, al. 3.
-[^2-11]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
-[^2-12]: [[RO 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466); [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152); [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73), [805](https://fedlex.data.admin.ch/eli/oc/2009/132); [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750); [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752); [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724), [6659](https://fedlex.data.admin.ch/eli/oc/2012/804); [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23), [2673](https://fedlex.data.admin.ch/eli/oc/2013/544), [3041](https://fedlex.data.admin.ch/eli/oc/2013/594)ch. I 3; [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)annexe 11 ch. 1, [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [RO 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)art. 91]. Voir actuellement l’O du 5 juin 2015 ([RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
+[^2-6]: Nouvelle teneur selon le ch. I de l’O du 15 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 709](https://fedlex.data.admin.ch/eli/oc/2023/709)).
+[^2-7]: Règlement (CE) n<sup>o</sup> 1272/2008 du Parlement européen et du Conseil du 16 décembre 2008 relatif à la classification, à l’étiquetage et à l’emballage des substances et des mélanges, modifiant et abrogeant les directives 67/548/CEE et 1999/45/CE et modifiant le Règlement (CE) n<sup>o</sup> 1907/2006, JO L 353 du 31.12.2008, p. 1; modifié en dernier lieu par le Règlement (UE) n<sup>o</sup> 944/2013, JO L 261 du 3.10.2013, p. 5.
+[^2-8]: Nouvelle teneur selon le ch. I de l’O du 15 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 709](https://fedlex.data.admin.ch/eli/oc/2023/709)).
+[^2-9]: Règlement (CE) n<sup>o</sup> 850/2004 du Parlement européen et du Conseil du 29 avril 2004 concernant les polluants organiques persistants et modifiant la directive 79/117/CEE, JO L 158 du 30.4.2004, p. 7, modifié en dernier lieu par le règlement (UE) n<sup>o</sup> 519/2012, JO L 159 du 20.6.2012, p. 1.
+[^2-10]: Règlement (CE) n<sup>o</sup> 1907/2006 du Parlement européen et du Conseil du 18 décembre 2006 concernant l’enregistrement, l’évaluation et l’autorisation des substances chimiques, ainsi que les restrictions applicables à ces substances (REACH), instituant une Agence européenne des produits chimiques, modifiant la directive 1999/45/CE et abrogeant le règlement (CEE) n<sup>o</sup> 793/93 du Conseil et le règlement (CE) n<sup>o</sup> 1488/94 de la Commission ainsi que la directive 76/769/CEE du Conseil et les directives 91/155/CEE, 93/67/CEE, 93/105/CE et 2000/21/CE de la Commission, JO L 396 du 30.12.2006, p. 1; modifié en dernier lieu par le règlement (UE) n<sup>o</sup> 474/2014, JO L 136 du 9.5.2014, p. 19.
+[^2-11]: Nouvelle expression selon le ch. I de l’O du 31 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)). Il a été tenu compte de cette mod. dans tout le texte.
+[^2-12]: Cf. note de bas de page relative à l’art. 1*b*, al. 3.
 [^2-13]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
-[^2-14]: Introduit par le ch. I de l’O du 31 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
+[^2-14]: [[RO 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466); [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152); [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73), [805](https://fedlex.data.admin.ch/eli/oc/2009/132); [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750); [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752); [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724), [6659](https://fedlex.data.admin.ch/eli/oc/2012/804); [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23), [2673](https://fedlex.data.admin.ch/eli/oc/2013/544), [3041](https://fedlex.data.admin.ch/eli/oc/2013/594)ch. I 3; [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)annexe 11 ch. 1, [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [RO 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)art. 91]. Voir actuellement l’O du 5 juin 2015 ([RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
+[^2-15]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
+[^2-16]: Introduit par le ch. I de l’O du 31 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
+
+## Chapitre 1*a* Indicateurs de risques environnementaux liés à l’utilisation de produits biocides selon l’art. 25*a* LChim
+
+[^chap1a-1]
+
+[^chap1a-1]: Introduit par le ch. I de l’O du 15 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 709](https://fedlex.data.admin.ch/eli/oc/2023/709)).
+
+#### Art. 2a
+
+<sup>1</sup> Les rejets dans l’eau potable, des eaux de surface et des eaux souterraines des substances actives des types de produits 7, 8, 10, 18 et 21 au sens de l’annexe 10 constituent un risque potentiel déterminant.
+
+<sup>2</sup>
+
+L’objectif est que les concentrations de substances actives visées à l’al. 1 mesurées dans les eaux ne dépassent pas les valeurs limites suivantes:
+
+- a. pour les substances actives ou les produits issus de leur dégradation dans les eaux qui servent à l’approvisionnement en eau potable ou sont prévues à cet effet: 0,1 µg/l;
+- b.
+
+  pour les substances actives dans les eaux superficielles:
+
+  - 1\. les valeurs limites fixées à l’annexe 2, ch. 11, al. 3, n<sup>o</sup> 4 de l’ordonnance du 28 octobre 1998 sur la protection des eaux (OEaux)[^2a-1] (valeurs limites écotoxicologiques), ou
+  - 2\. si la substance active ne figure pas à l’annexe 2 OEaux, la concentration fixée lors de son approbation, en dessous de laquelle aucun effet n’est attendu sur les organismes aquatiques.
+
+<sup>3</sup> L’OFEV détermine dans quelle mesure l’objectif a été réalisé au moyen d’indicateurs.
+
+<sup>4</sup> À cette fin, il calcule chaque année pour chaque substance active visée à l’al. 1, à l’aide des données de mesures disponibles, la proportion entre le nombre d’eaux analysées dans lesquelles un dépassement a été mesuré et le nombre total d’eaux analysées.
+
+[^2a-1]: [RS 814.201](https://fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863)
 
 ## Chapitre 2 Conditions relatives à la mise sur le marché
 
@@ -907,11 +937,11 @@ Les organes d’évaluation évaluent les dossiers dans leur domaine de compéte
 
 - a. pour les dossiers afférents aux demandes d’autorisation A<sub>L</sub>, A<sub>nL</sub> et aux autorisations simplifiées ainsi qu’aux reconnaissances: conformément aux principes énoncés à l’annexe VI du règlement (UE) n<sup>o</sup> 528/2012[^17-1];
 - b. pour les dossiers afférents à l’évaluation d’autorisations de l’Union, soumis à l’organe de réception des notifications sur la base d’un traité international: conformément aux principes des art. 43 à 46 du règlement (UE) n<sup>o</sup> 528/2012 et du règlement d’exécution (UE) n<sup>o</sup> 354/2013[^17-2]; cela s’applique également à l’évaluation des demandes de modification ou de prolongation d’autorisations de l’Union;
-- c. pour les dossiers afférents à l’évaluation d’une substance active soumis à l’organe de réception des notifications sur la base d’un traité international: conformément aux principes des chapitres II et III du règlement (UE) n<sup>o</sup> 528/2012 et du chapitre II du règlement délégué (UE) n<sup>o</sup> 1062/2014[^17-3];
-- c<sup>bis</sup>.[^17-4] pour les dossiers afférents aux autorisations A<sub>N</sub>: en vue de déterminer si la substance active est adaptée à l’utilisation et au type de produit demandés; une évaluation au sens de la let. d est effectuée en cas de risque accru ou dans d’autres cas justifiés;
-- d. pour les autres dossiers: conformément à l’état des connaissances techniques et scientifiques.[^17-5]
+- c.[^17-3] pour les dossiers afférents à l’évaluation d’une substance active soumis à l’organe de réception des notifications sur la base d’un traité international: conformément aux principes des chapitres II et III du règlement (UE) n<sup>o</sup> 528/2012 et du chapitre II du règlement délégué (UE) n<sup>o</sup> 1062/2014[^17-4]; cela s’applique également à l’évaluation de la prolongation de l’approbation d’une substance active;
+- c<sup>bis</sup>.[^17-5] pour les dossiers afférents aux autorisations A<sub>N</sub>: en vue de déterminer si la substance active est adaptée à l’utilisation et au type de produit demandés; une évaluation au sens de la let. d est effectuée en cas de risque accru ou dans d’autres cas justifiés;
+- d. pour les autres dossiers: conformément à l’état des connaissances techniques et scientifiques.[^17-6]
 
-<sup>2</sup> …[^17-6]
+<sup>2</sup> …[^17-7]
 
 <sup>3</sup> Les organes d’évaluation procèdent à une évaluation comparative au sens de l’art. 11*g* pour les produits biocides contenant des substances actives dont la substitution est envisagée.
 
@@ -925,10 +955,11 @@ Les organes d’évaluation évaluent les dossiers dans leur domaine de compéte
 
 [^17-1]: Cf. note de bas de page relative à l’art. 1*b*, al. 3.
 [^17-2]: Règlement d’exécution (UE) n<sup>o</sup> 354/2013 de la Commission du 18 avril 2013 relatif aux modifications de produits biocides autorisés conformément au règlement (UE) n<sup>o</sup> 528/2012 du Parlement européen et du Conseil, version du JO L 109 du 19.4.2013, p. 4.
-[^17-3]: Règlement délégué (UE) n<sup>o</sup> 1062/2014 de la Commission du 4 août 2014 relatif au programme de travail pour l’examen systématique de toutes les substances actives existantes contenues dans les produits visés dans le règlement (UE) n<sup>o</sup> 528/2012 du Parlement européen et du Conseil, JO L 294 du 10.10.2014, p. 1.
-[^17-4]: Introduite par le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 15 déc. 2020 ([RO 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
-[^17-5]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
-[^17-6]: Abrogé par le ch. I de l’O du 31 janv. 2018, avec effet au 1<sup>er</sup> mars 2018 ([RO 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
+[^17-3]: Nouvelle teneur selon le ch. I de l’O du 15 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 709](https://fedlex.data.admin.ch/eli/oc/2023/709)).
+[^17-4]: Cf. note de bas de page relative à l’art. 7, al. 1, let. b.
+[^17-5]: Introduite par le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 15 déc. 2020 ([RO 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
+[^17-6]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
+[^17-7]: Abrogé par le ch. I de l’O du 31 janv. 2018, avec effet au 1<sup>er</sup> mars 2018 ([RO 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
 
 #### Art. 18
 
@@ -1081,7 +1112,8 @@ En accord avec les organes d’évaluation, l’organe de réception des notific
 
 - a.[^24-1] les conditions d’autorisation prévues à l’art. 11 ou 11*b* ou à la section 3 ne sont plus remplies;
 - b. l’autorisation a été accordée sur la base d’informations fausses ou trompeuses;
-- c. le titulaire n’a pas respecté les obligations qui lui incombent en vertu de la présente ordonnance, après l’octroi de l’autorisation.
+- c. le titulaire n’a pas respecté les obligations qui lui incombent en vertu de la présente ordonnance, après l’octroi de l’autorisation;
+- d.[^24-2] l’examen visé à l’art. 9, al. 3, de la loi fédérale du 24 janvier 1991 sur la protection des eaux[^24-3] indique qu’une modification est nécessaire pour que les valeurs limites qui y sont mentionnées ne soient plus dépassées de manière répétée et étendue.
 
 <sup>2</sup>
 
@@ -1091,10 +1123,12 @@ Il modifie une autorisation sur demande justifiée du titulaire. Ce faisant, il 
 - b. modification mineure: dans le cadre d’une procédure assortie d’une période d’évaluation écourtée;
 - c. modification majeure: dans le cadre d’une procédure assortie d’une période d’évaluation adaptée à l’étendue des modifications proposées.
 
-<sup>3</sup> En accord avec le DETEC et le DEFR, le DFI règle les détails des procédures visées à l’al. 2; ce faisant, il tient compte de l’acte d’exécution édicté par la Commission européenne sur la base de l’art. 51 du règlement (UE) n<sup>o</sup> 528/2012[^24-2].
+<sup>3</sup> En accord avec le DETEC et le DEFR, le DFI règle les détails des procédures visées à l’al. 2; ce faisant, il tient compte de l’acte d’exécution édicté par la Commission européenne sur la base de l’art. 51 du règlement (UE) n<sup>o</sup> 528/2012[^24-4].
 
 [^24-1]: Nouvelle teneur selon le ch. I de l’O du 5 juin 2015, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
-[^24-2]: Cf. note de bas de page relative à l’art. 1*b*, al. 3.
+[^24-2]: Introduite par le ch. I de l’O du 15 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 709](https://fedlex.data.admin.ch/eli/oc/2023/709)).
+[^24-3]: [RS 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
+[^24-4]: Cf. note de bas de page relative à l’art. 1*b*, al. 3.
 
 #### Art. 25
 
@@ -1351,6 +1385,26 @@ En accord avec les organes d’évaluation, l’organe de réception des notific
 
 En accord avec les organes d’évaluation, l’organe de réception des notifications peut autoriser un produit biocide contenant une substance active non approuvée si la protection du patrimoine culturel l’exige et qu’il n’existe pas d’autre solution appropriée.
 
+## Chapitre 2*a* Obligation de communiquer les quantités de produits biocides mises sur le marché
+
+[^chap2a-1]
+
+[^chap2a-1]: Introduit par le ch. I de l’O du 15 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 709](https://fedlex.data.admin.ch/eli/oc/2023/709)).
+
+#### Art. 30c
+
+<sup>1</sup>
+
+Quiconque met sur le marché pour la première fois des produits biocides doit communiquer à l’ON, chaque année, et au plus tard le 31 mai de l’année suivante, les données suivantes:
+
+- a. le nom, l’adresse, l’adresse électronique, et le numéro de téléphone;
+- b. le nom commercial et le numéro fédéral d’autorisation du produit biocide;
+- c. la quantité mise sur le marché;
+- d. les substances actives contenues dans le produit biocide et leur concentration;
+- e. le type de produit biocide au sens de l’annexe 10.
+
+<sup>2</sup> La communication doit être effectuée électroniquement dans le format requis par l’ON.
+
 ## Chapitre 3 Articles traités
 
 [^chap3-1]
@@ -1595,11 +1649,11 @@ Au lieu de figurer sur l’étiquette, les indications visées aux al. 3, let. c
 
 #### Art. 38a
 
-**Étiquetage de certains produits biocides classés comme dangereux**[^38a-1]
+**étiquetage de certains produits biocides classés comme dangereux**[^38a-1]
 
-Si le titulaire de l’autorisation met sur le marché un produit biocide classé comme dangereux au sens de l’art. 3 OChim[^38a-2] en raison de ses effets physiques ou de ses effets sur la santé, il doit le munir de l’UFI en sus des indications visées à l’art. 38, al. 2 à 4, conformément aux dispositions prévues à l’art. 15*a*, al. 3 à 5 OChim.
+Si un produit biocide classé comme dangereux au sens de l’art. 3 OChim[^38a-2] en raison de ses effets physiques ou de ses effets sur la santé est mis sur le marché, le titulaire de l’autorisation doit le munir de l’UFI en sus des indications énumérées à l’art. 38, al. 2 à 4, conformément aux prescriptions de l’art. 15*a*, al. 3 et 4, OChim.
 
-[^38a-1]: Introduit par le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
+[^38a-1]: Introduit par le ch. I de l’O du 18 nov. 2020 ([RO 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)). Nouvelle teneur selon le ch. I de l’O du 15 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 709](https://fedlex.data.admin.ch/eli/oc/2023/709)).
 [^38a-2]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
 
 #### Art. 39
@@ -1626,12 +1680,13 @@ L’étiquetage de ces produits doit comporter l’une des indications suivantes
 
 **Fiche de données de sécurité**[^40-1]
 
-<sup>1</sup> Une fiche de données de sécurité doit être établie, fournie et actualisée conformément aux art. 5 et 18 à 22 OChim[^40-2] pour tout produit biocide ou substance active destinée à être incorporée dans un produit biocide; lorsque l’OChim parle de fabricant, il faut entendre le titulaire de l’autorisation au sens de la présente ordonnance.
+<sup>1</sup> Une fiche de données de sécurité doit, s’il y a lieu, être établie, fournie et actualisée conformément aux art. 5 et 18 à 22 OChim[^40-2] pour tout produit biocide ou substance active destinée à être incorporée dans un produit biocide; lorsque l’OChim parle de fabricant, il faut entendre le titulaire de l’autorisation au sens de la présente ordonnance.[^40-3]
 
 <sup>2</sup> Pour les substances actives figurant sur les listes citées à l’art. 9, al. 1, let. a à c, il n’est pas nécessaire de joindre les scénarios d’exposition exigés à l’art. 20, al. 2, OChim.
 
 [^40-1]: Nouvelle teneur selon le ch. I de l’O du 5 juin 2015, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
-[^40-2]: [[RO 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466), [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152), [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)[805](https://fedlex.data.admin.ch/eli/oc/2009/132), [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752), [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724)[6659](https://fedlex.data.admin.ch/eli/oc/2012/804), [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23)[2673](https://fedlex.data.admin.ch/eli/oc/2013/544)[3041](https://fedlex.data.admin.ch/eli/oc/2013/594)ch. I 3, [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)annexe 11 ch. 1 [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [RO 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)art. 91]. Voir actuellement l’O du 5 juin 2015 ([RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
+[^40-2]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
+[^40-3]: Nouvelle teneur selon le ch. I de l’O du 15 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 709](https://fedlex.data.admin.ch/eli/oc/2023/709)).
 
 #### Art. 40a
 
@@ -1808,7 +1863,7 @@ La publicité pour un produit biocide doit contenir les mentions suivantes, bien
 
 [^50a-1]: Introduit par le ch. I de l’O du 20 juin 2014, en vigueur depuis le 15 juil. 2014 ([RO 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
 [^50a-2]: Cf. note de bas de page relative à l’art. 1*b*, al. 3.
-[^50a-3]: www.anmeldestelle.admin.ch &gt; Thèmes &gt; Législation sur les produits chimiques et guides d’application &gt; Législation sur les produits chimiques &gt; Ordonnance sur les produits biocides (OPBio) &gt; ARM Suisse-UE
+[^50a-3]: [www.anmeldestelle.admin.ch](http://www.anmeldestelle.admin.ch) &gt; Thèmes &gt; Législation sur les produits chimiques et guides d’application &gt; Législation sur les produits chimiques &gt; Ordonnance sur les produits biocides (OPBio) &gt; ARM Suisse-UE
 [^50a-4]: Nouvelle teneur selon le ch. I de l’O du 5 juin 2015, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
 
 #### Art. 51
@@ -2047,12 +2102,12 @@ Les articles traités visés à l’al. 1 peuvent être mis sur le marché pour 
 - a. jusqu’à la date à laquelle la dernière substance active soumise à autorisation contenue dans le produit biocide a été autorisée par la Commission européenne pour le type de produit et l’usage en question;
 - b. jusqu’à 180 jours après la décision de la Commission européenne de ne pas autoriser l’une des substances actives pour l’usage en question.
 
-<sup>3</sup> Un article qui a été traité avec un ou plusieurs produits biocides ou auquel ont été délibérément incorporés un ou plusieurs produits biocides contenant une substance active autre que celles auxquelles il est fait référence à l’al. 1, let. a à c, peut être mis sur le marché pour la première fois jusqu’au 28 février 2017.[^62c-4]
+<sup>3</sup> …[^62c-4]
 
 [^62c-1]: Introduit par le ch. I de l’O du 20 juin 2014, en vigueur depuis le 15 juil. 2014 ([RO 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
 [^62c-2]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
 [^62c-3]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
-[^62c-4]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
+[^62c-4]: Abrogé par le ch. I de l’O du 15 nov. 2023, avec effet au 1<sup>er</sup> janv. 2024 ([RO 2023 709](https://fedlex.data.admin.ch/eli/oc/2023/709)).
 
 #### Art. 62d
 
@@ -2100,7 +2155,7 @@ Annexe 1[^t-1]
 [^annex1-lvlu1-1]
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O de l’OFSP du 4 août 2021, en vigueur depuis le 1<sup>er</sup> sept. 2021 ([RO 2021 488](https://fedlex.data.admin.ch/eli/oc/2021/488)).
-[^annex1-lvlu1-1]: Le contenu de la liste des substances actives qui se prêtent à la procédure simplifiée n’est pas publié dans le RO. La liste peut être consultée gratuitement sous www.anmeldestelle.admin.ch &gt; Thèmes &gt; Législation sur les produits chimiques et guides d’application &gt; Législation sur les produits chimiques &gt; Ordonnance sur les produits biocides &gt; Annexe 1. La version en vigueur est celle du 1<sup>er</sup> septembre 2021.
+[^annex1-lvlu1-1]: Le contenu de la liste des substances actives qui se prêtent à la procédure simplifiée n’est pas publié dans le RO. La liste peut être consultée gratuitement sous [www.anmeldestelle.admin.ch](http://www.anmeldestelle.admin.ch) &gt; Thèmes &gt; Législation sur les produits chimiques et guides d’application &gt; Législation sur les produits chimiques &gt; Ordonnance sur les produits biocides &gt; Annexe 1. La version en vigueur est celle du 1<sup>er</sup> septembre 2021.
 
 Annexe 2[^t-2]
 
@@ -2233,7 +2288,7 @@ Annexe 5[^t-5]
 
 ## Demande d’autorisation A<sub>L</sub> ou A<sub>nL</sub>
 
-[^t-5]: Nouvelle teneur selon le ch. II al. 1 de l’O du 20 juin 2014 ([RO 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)). Mise à jour selon le ch. II de l’O du 5 juin 2015, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
+[^t-5]: Nouvelle teneur selon le ch. II al. 1 de l’O du 20 juin 2014 ([RO 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)). Mise à jour par le ch. II des O du 5 juin 2015 ([RO 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)) et du 15 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 709](https://fedlex.data.admin.ch/eli/oc/2023/709)).
 
 ### 1 Dossier relatif au produit biocide et aux substances actives qu’il contient
 
@@ -2287,8 +2342,8 @@ La demande d’autorisation doit être présentée à l’organe de réception d
 
 <sup>4</sup> L’al. 3 ne s’applique pas aux essais mis en œuvre avant le 1<sup>er</sup> mars 2000.
 
-[^annex5-lvlu1-lvl2-lvl23-1]: R (CE) n<sup>o</sup> 440/2008 de la Commission du 30 mai 2008 établissant des méthodes d’essai conformément au R (CE) n<sup>o</sup> 1907/2006 du Parlement européen et du Conseil concernant l’enregistrement, l’évaluation et l’autorisation des substances chimiques, ainsi que les restrictions applicables à ces substances (REACH), JO L 142 du 31.5.2008, p. 1; modifié en dernier lieu par le R (CE) n<sup>o</sup> 260/2014, JO L 81 du 19.3.2014, p. 1.
-[^annex5-lvlu1-lvl2-lvl23-2]: Directive 2010/63/UE du Parlement européen et du Conseil du 22 sept. 2010 relative à la protection des animaux utilisés à des fins scientifiques, JO L 276 du 20.10.2010, p. 33.
+[^annex5-lvlu1-lvl2-lvl23-1]: Règlement (CE) n<sup>o</sup> 440/2008 de la Commission du 30 mai 2008 établissant des méthodes d’essai conformément au règlement (CE) n<sup>o</sup> 1907/2006 du Parlement européen et du Conseil concernant l’enregistrement, l’évaluation et l’autorisation des substances chimiques, ainsi que les restrictions applicables à ces substances (REACH), JO L 142 du 31.5.2008, p. 1; modifié en dernier lieu par le règlement (CE) n<sup>o</sup> 260/2014, JO L 81 du 19.3.2014, p. 1.
+[^annex5-lvlu1-lvl2-lvl23-2]: Directive 2010/63/UE du Parlement européen et du Conseil du 22 septembre 2010 relative à la protection des animaux utilisés à des fins scientifiques, version du JO L 276 du 20.10.2010, p. 33.
 [^annex5-lvlu1-lvl2-lvl23-3]: [[RO 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466), [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152), [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)[805](https://fedlex.data.admin.ch/eli/oc/2009/132), [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752), [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724)[6659](https://fedlex.data.admin.ch/eli/oc/2012/804), [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23)[2673](https://fedlex.data.admin.ch/eli/oc/2013/544)[3041](https://fedlex.data.admin.ch/eli/oc/2013/594)ch. I 3, [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)annexe 11 ch. 1 [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [RO 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)art. 91]. Voir actuellement l’O du 5 juin 2015 ([RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
 
 ### 2.4 Autres méthodes de détection et d’identification
@@ -2316,7 +2371,7 @@ Annexe 6[^t-6]
 
 ## Demande d’autorisation simplifiée
 
-[^t-6]: Nouvelle teneur selon le ch. II al. 1 de l’O du 20 juin 2014 ([RO 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)). Mise à jour selon le ch. II de l’O du 5 juin 2015, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
+[^t-6]: Nouvelle teneur selon le ch. II al. 1 de l’O du 20 juin 2014 ([RO 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)). Mise à jour par le ch. II de l’O du 5 juin 2015, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
 
 <sup>1</sup> Conjointement avec la demande d’autorisation simplifiée, il faut apporter la preuve à l’organe de réception des notifications que les conditions afférentes à la procédure d’autorisation simplifiée visée à l’art. 11*h* sont remplies.
 
@@ -2389,7 +2444,7 @@ Annexe 8[^t-9]
 
 ## Demande d’autorisation A<sub>N</sub>
 
-[^t-9]: Nouvelle teneur selon le ch. II al. 1 de l’O du 20 juin 2014 ([RO 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)). Mise à jour selon le ch. II de l’O du 5 juin 2015, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)) et l’erratum du 17 nov. 2015 ([RO 2015 4481](https://fedlex.data.admin.ch/eli/oc/2015/745)).
+[^t-9]: Nouvelle teneur selon le ch. II al. 1 de l’O du 20 juin 2014 ([RO 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)). Mise à jour par le ch. II de l’O du 5 juin 2015 ([RO 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)), l’erratum du 17 nov. 2015 ([RO 2015 4481](https://fedlex.data.admin.ch/eli/oc/2015/745)) et le ch. II de l’O du 15 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 709](https://fedlex.data.admin.ch/eli/oc/2023/709)).
 
 ### 1 Dossier relatif au demandeur, au fabricant et au produit
 
@@ -2439,7 +2494,7 @@ La demande doit être présentée avec les pièces suivantes:
 
 <sup>2</sup> Les documents doivent fournir une description détaillée et complète des essais effectués et des méthodes appliquées ou une référence bibliographique à ces méthodes.
 
-[^annex8-lvlu1-lvl2-1]: R (CE) n<sup>o</sup> 1896/2000 de la Commission du jeudi 7 sept. 2000 concernant la première phase du programme visé à l’art. 16, par. 2, de la directive 98/8/CE du Parlement européen et du Conseil concernant les produits biocides, JO L 228 du 08.9.2000, p. 6; modifié en dernier lieu par le R (CE) n<sup>o</sup> 2032/2003, JO L 307 du 24.11.2003, p. 1.
+[^annex8-lvlu1-lvl2-1]: Règlement (CE) n<sup>o</sup> 1896/2000 de la Commission du jeudi 7 sept. 2000 concernant la première phase du programme visé à l’art. 16, par. 2, de la directive 98/8/CE du Parlement européen et du Conseil concernant les produits biocides, JO L 228 du 08.9.2000, p. 6; modifié en dernier lieu par le Règlement (CE) n<sup>o</sup> 2032/2003, JO L 307 du 24.11.2003, p. 1.
 
 ### 3 Méthodes de détection et d’identification
 
@@ -2457,7 +2512,7 @@ La demande doit être présentée avec les pièces suivantes:
 <sup>4</sup> L’al. 3 ne s’applique pas aux essais mis en œuvre avant le 1<sup>er</sup> mars 2000.
 
 [^annex8-lvlu1-lvl3-lvl31-1]: Cf. note de bas de page relative à l’annexe 5, ch. 2.3, al. 1.
-[^annex8-lvlu1-lvl3-lvl31-2]: Directive 2010/63/UE du Parlement européen et du Conseil du 22 sept. 2010 relative à la protection des animaux utilisés à des fins scientifiques, JO L 276 du 20.10.2010, p. 33.
+[^annex8-lvlu1-lvl3-lvl31-2]: Cf. note de bas de page relative à l’annexe 5, ch. 2.3, al. 3, let. a.
 [^annex8-lvlu1-lvl3-lvl31-3]: [[RO 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466), [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152), [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)[805](https://fedlex.data.admin.ch/eli/oc/2009/132), [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752), [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724)[6659](https://fedlex.data.admin.ch/eli/oc/2012/804), [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23)[2673](https://fedlex.data.admin.ch/eli/oc/2013/544)[3041](https://fedlex.data.admin.ch/eli/oc/2013/594)ch. I 3, [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)annexe 11 ch. 1 [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [RO 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)art. 91]. Voir actuellement l’O du 5 juin 2015 ([RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
 
 ### 3.2 Autres méthodes de détection et d’identification
@@ -2520,7 +2575,7 @@ Annexe 10[^t-12]
 
 ## Types de produits
 
-[^t-12]: Nouvelle teneur selon le ch. II al. 1 de l’O du 20 juin 2014 ([RO 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)). Mise à jour selon le ch. II de l’O du 5 juin 2015 ([RO 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)) et le ch. II al. 2 de l’O du 31 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
+[^t-12]: Nouvelle teneur selon le ch. II al. 1 de l’O du 20 juin 2014 ([RO 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)). Mise à jour par le ch. II de l’O du 5 juin 2015 ([RO 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)) et le ch. II al. 2 de l’O du 31 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
 
 ### Groupe 1:Désinfectants
 

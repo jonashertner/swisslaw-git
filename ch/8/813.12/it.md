@@ -4,11 +4,11 @@ title: "Ordinanza del 18 maggio 2005 concernente l'immissione sul mercato e l'ut
 short: OBioc
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/468"
 language: it
-version: 2023-10-01
+version: 2024-01-01
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/468/20231001/it/xml/fedlex-data-admin-ch-eli-cc-2005-468-20231001-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/468/20231001/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/468/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2005-468-20240101-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/468/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/468/20231001/it"
 
 (Ordinanza sui biocidi, OBioc)
 
-del 18 maggio 2005 (Stato 1° ottobre 2023)
+del 18 maggio 2005 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -131,7 +131,7 @@ Nella presente ordinanza si intende inoltre per:
 
   - 1\. sostanze classificate come pericolose o che soddisfano i criteri per essere classificate come pericolose secondo l’articolo 2 paragrafo 2 in combinato disposto con l’allegato VI punti 2–5 della direttiva 67/548/CEE[^2-4] e che sono presenti nel biocida in una concentrazione tale che il prodotto deve essere considerato pericoloso ai sensi dell’articolo 1 paragrafo 2 in combinato disposto con gli articoli 5, 6 e 7 della direttiva 1999/45/CE[^2-5],
   - 2\. sostanze classificate come pericolose o che soddisfano i criteri per essere classificate come pericolose secondo l’articolo 2 paragrafo 2 in combinato disposto con l’allegato I parti 2–5 del regolamento (CE) n. 1272/2008 (regolamento CLP)[^2-6] e che sono presenti nel biocida in una concentrazione tale che il prodotto deve essere considerato pericoloso ai sensi di tale regolamento,
-  - 3\. sostanze che soddisfano i criteri per essere considerate inquinanti organici persistenti (POP) ai sensi del regolamento (CE) n. 850/2004[^2-7] o che soddisfano i criteri per essere considerate «persistenti», «bioaccumulabili» e «tossiche» (PBT) o «molto persistenti» e «molto bioaccumulabili» (vPvB) conformemente all’allegato XIII del regolamento (CE) n. 1907/2006 (regolamento UE-REACH)[^2-8];
+  - 3\.[^2-7] sostanze che soddisfano i criteri per essere considerate inquinanti organici persistenti (POP) ai sensi del regolamento (CE) n. 850/2004[^2-8] o che soddisfano i criteri per essere considerate «persistenti», «bioaccumulabili» e «tossiche» (PBT) o «molto persistenti» e «molto bioaccumulabili» (vPvB) conformemente all’allegato XIII del regolamento (CE) n. 1907/2006 (regolamento UE-REACH)[^2-9];
 
 - b.
 
@@ -148,9 +148,9 @@ Nella presente ordinanza si intende inoltre per:
 - e. *lettera di accesso:* documento, firmato dalla persona autorizzata a utilizzare dati protetti, che stabilisce che tali dati possono essere utilizzati dall’organo di notifica e, se del caso, dall’autorità competente di uno Stato contraente allo scopo di concedere l’omologazione di un biocida;
 - f. *principio attivo esistente*: sostanza presente sul mercato alla data del 14 maggio 2000 come principio attivo di un biocida a fini diversi dall’attività di ricerca e sviluppo scientifica o orientata ai prodotti e ai processi;
 - g. *principio attivo nuovo:* principio attivo di un biocida che non è un principio attivo esistente;
-- h. *principio attivo candidato alla sostituzione:* principio attivo che soddisfa i requisiti di cui all’articolo 10 paragrafo 1 del regolamento (UE) n. 528/2012[^2-9];
+- h. *principio attivo candidato alla sostituzione:* principio attivo che soddisfa i requisiti di cui all’articolo 10 paragrafo 1 del regolamento (UE) n. 528/2012[^2-10];
 - i. *residuo*: sostanza presente in o su prodotti di origine vegetale o animale, risorse idriche, acqua potabile, derrate alimentari, alimenti per animali o altrove nell’ambiente e derivanti dall’uso di un biocida, compresi i metaboliti di tale sostanza e i prodotti risultanti dalla loro degradazione o reazione;
-- j.[^2-10] *articoli trattati*: sostanze, preparati o oggetti senza funzione primaria biocida, trattati con, o ai quali sono stati aggiunti intenzionalmente, uno o più biocidi;
+- j.[^2-11] *articoli trattati*: sostanze, preparati o oggetti senza funzione primaria biocida, trattati con, o ai quali sono stati aggiunti intenzionalmente, uno o più biocidi;
 - k. *omologazione nazionale*: atto mediante il quale l’autorità competente di uno Stato membro dell’UE o dell’AELS autorizza l’immissione sul mercato di un biocida sul suo territorio;
 - l. *omologazione dell’Unione:* atto mediante il quale la Commissione europea autorizza l’immissione sul mercato di un biocida sul territorio dell’UE;
 - m.
@@ -166,16 +166,16 @@ Nella presente ordinanza si intende inoltre per:
 
 <sup>3</sup>
 
-I seguenti termini vanno intesi ai sensi dell’articolo 2 dell’ordinanza del 18 maggio 2005[^2-11] sui prodotti chimici (OPChim):
+I seguenti termini vanno intesi ai sensi dell’articolo 2 dell’ordinanza del 18 maggio 2005[^2-12] sui prodotti chimici (OPChim):
 
 - a. sostanza;
 - b. oggetto;
 - c. attività di ricerca e sviluppo orientata ai prodotti e ai processi;
 - d. ricerca e sviluppo scientifici.
 
-<sup>4</sup> Le equivalenze terminologiche tra il regolamento (UE) n. 528/2012 e la presente ordinanza figurano nell’allegato 3 numero 1.[^2-12]
+<sup>4</sup> Le equivalenze terminologiche tra il regolamento (UE) n. 528/2012 e la presente ordinanza figurano nell’allegato 3 numero 1.[^2-13]
 
-<sup>4bis</sup> Laddove la presente ordinanza rinvia a disposizioni del regolamento (UE) n. 528/2012, che, a loro volta, rinviano ad altre disposizioni del diritto dell’UE, al posto di queste ultime si applica il diritto svizzero secondo l’allegato 3 numero 2.[^2-13]
+<sup>4bis</sup> Laddove la presente ordinanza rinvia a disposizioni del regolamento (UE) n. 528/2012, che, a loro volta, rinviano ad altre disposizioni del diritto dell’UE, al posto di queste ultime si applica il diritto svizzero secondo l’allegato 3 numero 2.[^2-14]
 
 - [tab] <sup>5</sup> Per il rimanente, nella presente ordinanza si utilizzano ai sensi della LPChim i termini utilizzati in maniera divergente nelle leggi che reggono la presente ordinanza.
 
@@ -185,13 +185,42 @@ I seguenti termini vanno intesi ai sensi dell’articolo 2 dell’ordinanza del 
 [^2-4]: Direttiva 67/548/CEE del Consiglio, del 27 giugno 1967, concernente il ravvicinamento delle disposizioni legislative, regolamentari ed amministrative relative alla classificazione, all’imballaggio e all’etichettatura delle sostanze pericolose, GU L 196 del 16.8.1967, pag. 1; modificata da ultimo dalla direttiva 2013/21/UE, GU L 158 del 10.6.2013, pag. 240.
 [^2-5]: <sup>Direttiva 1999/45/CE del Parlamento europeo e del Consiglio, del 31 maggio 1999, concernente il ravvicinamento delle disposizioni legislative, regolamentari ed amministrative degli Stati membri relative alla classificazione, all’imballaggio e all’etichettatura dei preparati pericolosi, GU L 200 del 30.7.1999, pag. 1; modificata da ultimo dalla direttiva 2013/21/UE, GU L 158 del 10.6.2013, pag. 240.</sup>
 [^2-6]: <sup>Regolamento (CE) n. 1272/2008 del Parlamento europeo e del Consiglio, del 16 dicembre 2008, relativo alla classificazione, all’etichettatura e all’imballaggio delle sostanze e delle miscele che modifica e abroga le direttive 67/548/CEE e 1999/45/CE e che reca modifica al regolamento (CE) n. 1907/2006, GU L 353 del 31.12.2008, pag. 1; modificato da ultimo dal regolamento (UE) n. 944/2013, GU L 261 del 3.10.2013, pag. 5.</sup>
-[^2-7]: Regolamento (CE) n. 850/2004 del Parlamento europeo e del Consiglio, del 29 aprile 2004, relativo agli inquinanti organici persistenti e che modifica la direttiva 79/117/CEE, modificato da ultimo dal regolamento (UE) n. 519/2012, GU L 159 del 20.6.2012, pag. 1.
-[^2-8]: <sup>Regolamento (CE) n. 1907/2006 del Parlamento europeo e del Consiglio, del 18 dicembre 2006, concernente la registrazione, la valutazione, l’autorizzazione e la restrizione delle sostanze chimiche (REACH), che istituisce un’Agenzia europea per le sostanze chimiche, che modifica la direttiva 1999/45/CE e che abroga il regolamento (CEE) n. 793/93 del Consiglio e il regolamento (CE) n. 1488/94 della Commissione, nonché la direttiva 76/769/CEE del Consiglio e le direttive della Commissione 91/155/CEE, 93/67/CEE, 93/105/CE e 2000/21/CE, GU L 396 del 30.12.2006, pag. 1; modificato da ultimo dal regolamento (UE) n. 474/2014, GU L 136 del 9.5.2014, pag. 19.</sup>
-[^2-9]: <sup>Cfr. nota a piè di pagina relativa all’art. 1</sup><sup>*b*</sup> <sup>cpv. 3.</sup>
-[^2-10]: Nuovo testo giusta il n. I dell’O del 31 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
-[^2-11]: [[RU 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466); [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152); [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73), [805](https://fedlex.data.admin.ch/eli/oc/2009/132); [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750); [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752); [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724), [6659](https://fedlex.data.admin.ch/eli/oc/2012/804); [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23), [2673](https://fedlex.data.admin.ch/eli/oc/2013/544), [3041](https://fedlex.data.admin.ch/eli/oc/2013/594)n. I 3; [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)all. 11 n. 1, [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [RU 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)art. 91 ]. Vedi ora l’O del 5 giu. 2015 ([RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
-[^2-12]: Nuovo testo giusta il n. I dell’O del 31 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
-[^2-13]: Introdotto dal n. I dell’O del 31 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
+[^2-7]: <sup>Nuovo testo giusta il</sup> <sup>n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024</sup> <sup>(</sup>[<sup>RU</sup> <sup>2023</sup> <sup>709</sup>](https://fedlex.data.admin.ch/eli/oc/2023/709)<sup>).</sup>
+[^2-8]: Regolamento (CE) n. 850/2004 del Parlamento europeo e del Consiglio, del 29 aprile 2004, relativo agli inquinanti organici persistenti e che modifica la direttiva 79/117/CEE, GU L 158 del 30.4.2004, pag. 7; modificato da ultimo dal regolamento (UE) n. 519/2012, GU L 159 del 20.6.2012, pag. 1.
+[^2-9]: Regolamento (CE) n. 1907/2006 del Parlamento europeo e del Consiglio, del 18 dicembre 2006, concernente la registrazione, la valutazione, l’autorizzazione e la restrizione delle sostanze chimiche (REACH), che istituisce un’Agenzia europea per le sostanze chimiche, che modifica la direttiva 1999/45/CE e che abroga il regolamento (CEE) n. 793/93 del Consiglio e il regolamento (CE) n. 1488/94 della Commissione, nonché la direttiva 76/769/CEE del Consiglio e le direttive della Commissione 91/155/CEE, 93/67/CEE, 93/105/CE e 2000/21/CE, GU L 396 del 30.12.2006, pag. 1; modificato da ultimo dal regolamento (UE) n. 474/2014, GU L 136 del 9.5.2014, pag. 19.
+[^2-10]: <sup>Cfr. nota a piè di pagina relativa all’art. 1</sup><sup>*b*</sup> <sup>cpv. 3.</sup>
+[^2-11]: Nuovo testo giusta il n. I dell’O del 31 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
+[^2-12]: [[RU 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466); [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152); [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73), [805](https://fedlex.data.admin.ch/eli/oc/2009/132); [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750); [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752); [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724), [6659](https://fedlex.data.admin.ch/eli/oc/2012/804); [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23), [2673](https://fedlex.data.admin.ch/eli/oc/2013/544), [3041](https://fedlex.data.admin.ch/eli/oc/2013/594)n. I 3; [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)all. 11 n. 1, [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [RU 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)art. 91 ]. Vedi ora l’O del 5 giu. 2015 ([RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
+[^2-13]: Nuovo testo giusta il n. I dell’O del 31 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
+[^2-14]: Introdotto dal n. I dell’O del 31 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
+
+## Capitolo 1*a*: Indicatori dei rischi ambientali associati all’impiego di biocidi secondo l’articolo 25*a* LPChim
+
+[^chap1a-1]
+
+[^chap1a-1]: Introdotto <sup>d</sup>a<sup>l n.</sup> <sup>I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 (</sup>[<sup>RU</sup> <sup>2023</sup> <sup>709</sup>](https://fedlex.data.admin.ch/eli/oc/2023/709)<sup>).</sup>
+
+#### Art. 2a
+
+<sup>1</sup> L’immissione nell’acqua potabile, nelle acque superficiali e nelle acque sotterranee dei principi attivi dei tipi di prodotto 7, 8, 10, 18 e 21 ai sensi dell’allegato 10 costituisce un rischio potenzialmente elevato.
+
+<sup>2</sup>
+
+L’obiettivo è che le concentrazioni misurate nelle acque dei principi attivi di cui al capoverso 1 non superino i seguenti valori limite:
+
+- a. per i principi attivi o i loro prodotti di degradazione nelle acque che assicurano l’approvvigionamento in acqua potabile o previste per questo scopo: 0,1 µg/l;
+- b.
+
+  per i principi attivi nelle acque superficiali:
+
+  - 1\. i valori limite di cui all’allegato 2 numero 11 capoverso 3 numero 4 dell’ordinanza del 28 ottobre 1998[^2a-1] sulla protezione delle acque (OPAc) (valori limite ecotossicologici), oppure
+  - 2\. se il principio attivo non figura nell’allegato 2 OPAc: la concentrazione fissata al momento della sua approvazione al di sotto della quale non è atteso alcun effetto sugli organismi acquatici.
+
+<sup>3</sup> L’UFAM determina sulla base di indicatori in che misura l’obiettivo è stato realizzato.
+
+- [tab] <sup>4</sup> A tal fine calcola annualmente per ciascun principio attivo di cui al capoverso 1, con i dati misurati disponibili, il rapporto tra il numero delle acque analizzate nelle quali è stato misurato un superamento e il numero complessivo delle acque analizzate.
+
+[^2a-1]: [RS 814.201](https://fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863)
 
 ## Capitolo 2: Condizioni per l’immissione sul mercato
 
@@ -529,7 +558,7 @@ I biocidi non sono omologati per l’immissione sul mercato per l’uso da parte
 
 - a.
 
-  hanno proprietà corrispondenti ai criteri previsti dal regolamento CLP[^11d-2] e sono classificati come:
+  soddisfano i criteri previsti dal regolamento CLP[^11d-2] per essere classificati come:[^11d-3]
 
   - 1\. in categoria 1, 2 o 3 per la tossicità orale acuta,
   - 2\. in categoria 1, 2 o 3 per la tossicità cutanea acuta,
@@ -540,14 +569,16 @@ I biocidi non sono omologati per l’immissione sul mercato per l’uso da parte
   - 7\. mutageni di categoria 1A o 1B,
   - 8\. tossici per la riproduzione di categoria 1A o 1B;
 
-- b. sono composti, contengono o producono una sostanza che ha proprietà corrispondenti ai criteri «PBT» o «vPvB» conformemente all’allegato XIII del regolamento UE-REACH[^11d-3];
-- c. hanno proprietà di interferenza con il sistema endocrino secondo i criteri definiti nel regolamento delegato (UE) 2017/2100[^11d-4]; oppure
+- b. sono composti, contengono o producono una sostanza che ha proprietà corrispondenti ai criteri «PBT» o «vPvB» conformemente all’allegato XIII del regolamento UE-REACH[^11d-4];
+- c.[^11d-5] hanno proprietà di interferenza con il sistema endocrino secondo i criteri di cui al regolamento delegato (UE) 2017/2100[^11d-6]:
 - d. hanno effetti neurotossici o immunotossici sullo sviluppo.
 
 [^11d-1]: Introdotto dal n. I dell’O del 20 giu. 2014 ([RU 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)). Nuovo testo giusta il n. I dell’O del 31 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
 [^11d-2]: Cfr. nota a piè di pagina relativa all’art. 2 cpv. 2 lett. a n. 2.
-[^11d-3]: Regolamento (CE) n. 1907/2006 del Parlamento europeo e del Consiglio, del 18 dicembre 2006, concernente la registrazione, la valutazione, l’autorizzazione e la restrizione delle sostanze chimiche (REACH), che istituisce un’Agenzia europea per le sostanze chimiche, che modifica la direttiva 1999/45/CE e che abroga il regolamento (CEE) n. 793/93 del Consiglio e il regolamento (CE) n. 1488/94 della Commissione, nonché la direttiva 76/769/CEE del Consiglio e le direttive della Commissione 91/155/CEE, 93/67/CEE, 93/105/CE e 2000/21/CE della Commissione, GU L 396 del 30.12.2006, pag. 1; modificato da ultimo dal regolamento (UE) 2015/830, GU L 132 del 29.5.2015, pag. 8.
-[^11d-4]: Regolamento delegato (UE) 2017/2100 della Commissione, del 4 settembre 2017, che stabilisce criteri scientifici per la determinazione delle proprietà di interferenza con il sistema endocrino in applicazione del regolamento (UE) n. 528/2012 del Parlamento, versione GU L 301 del 17.11.2017, p. 1.
+[^11d-3]: <sup>Nuovo testo giusta</sup> il <sup>n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024</sup> <sup>(</sup>[<sup>RU</sup> <sup>2023</sup> <sup>709</sup>](https://fedlex.data.admin.ch/eli/oc/2023/709)<sup>).</sup>
+[^11d-4]: Regolamento (CE) n. 1907/2006 del Parlamento europeo e del Consiglio, del 18 dicembre 2006, concernente la registrazione, la valutazione, l’autorizzazione e la restrizione delle sostanze chimiche (REACH), che istituisce un’Agenzia europea per le sostanze chimiche, che modifica la direttiva 1999/45/CE e che abroga il regolamento (CEE) n. 793/93 del Consiglio e il regolamento (CE) n. 1488/94 della Commissione, nonché la direttiva 76/769/CEE del Consiglio e le direttive della Commissione 91/155/CEE, 93/67/CEE, 93/105/CE e 2000/21/CE della Commissione, GU L 396 del 30.12.2006, pag. 1; modificato da ultimo dal regolamento (UE) 2015/830, GU L 132 del 29.5.2015, pag. 8.
+[^11d-5]: <sup>Nuovo testo giusta il n.</sup> <sup>I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024</sup> <sup>(</sup>[<sup>RU</sup> <sup>2023</sup> <sup>709</sup>](https://fedlex.data.admin.ch/eli/oc/2023/709)<sup>).</sup>
+[^11d-6]: Regolamento delegato (UE) 2017/2100 della Commissione, del 4 settembre 2017, che stabilisce criteri scientifici per la determinazione delle proprietà di interferenza con il sistema endocrino in applicazione del regolamento (UE) n. 528/2012 del Parlamento europeo e del Consiglio, versione della GU L 301 del 17.11.2017, pag. 1.
 
 #### Art. 11e
 
@@ -902,11 +933,11 @@ I servizi di valutazione esaminano i documenti nella propria sfera di competenze
 
 - a. i documenti per le omologazioni O<sub>E</sub>, le omologazioni O<sub>nE</sub>, le omologazioni semplificate nonché i riconoscimenti: secondo i principi dell’allegato VI del regolamento (UE) n. 528/2012[^17-1];
 - b. i documenti per la valutazione di omologazioni dell’Unione, presentati all’organo di notifica in virtù di un trattato di diritto internazionale: secondo i principi degli articoli 43–46 del regolamento (UE) n. 528/2012 nonché del regolamento di esecuzione (UE) n. 354/2013[^17-2]; ciò vale anche per la valutazione di modifiche o proroghe di omologazioni dell’Unione;
-- c. i documenti per la valutazione di un principio attivo presentati all’organo di notifica in virtù di un trattato di diritto internazionale: secondo i principi dei capi II e III del regolamento (UE) n. 528/2012 nonché del capo II del regolamento delegato (UE) n. 1062/2014[^17-3];
-- c<sup>bis</sup>.[^17-4] documenti per le omologazioni O<sub>N</sub>: verificare se il principio attivo è adatto all’uso richiesto e al tipo di prodotto; in caso di rischio elevato o in altri casi motivati si procede a una valutazione conformemente alla lettera d;
-- d. gli altri documenti: secondo lo stato della scienza e della tecnica.[^17-5]
+- c.[^17-3] i documenti per la valutazione di un principio attivo presentati all’organo di notifica in virtù di un trattato di diritto internazionale: secondo i principi dei capi II e III del regolamento (UE) n. 528/2012 nonché del capo II del regolamento delegato (UE) n. 1062/2014[^17-4]; ciò vale anche per la valutazione della proroga dell’approvazione di un principio attivo;
+- c<sup>bis</sup>.[^17-5] documenti per le omologazioni O<sub>N</sub>: verificare se il principio attivo è adatto all’uso richiesto e al tipo di prodotto; in caso di rischio elevato o in altri casi motivati si procede a una valutazione conformemente alla lettera d;
+- d. gli altri documenti: secondo lo stato della scienza e della tecnica.[^17-6]
 
-<sup>2</sup> ...[^17-6]
+<sup>2</sup> ...[^17-7]
 
 <sup>3</sup> Per i biocidi contenenti principi attivi candidati alla sostituzione, i servizi di valutazione effettuano una valutazione comparativa secondo l’articolo 11*g*.
 
@@ -920,10 +951,11 @@ I servizi di valutazione esaminano i documenti nella propria sfera di competenze
 
 [^17-1]: Cfr. nota a piè di pagina relativa all’art. 1*b* cpv. 3.
 [^17-2]: Regolamento di esecuzione (UE) n. 354/2013 della Commissione, del 18 aprile 2013, sulle modifiche dei biocidi autorizzati a norma del regolamento (UE) n. 528/2012 del Parlamento europeo e del Consiglio, GU L 109 del 19.4.2013, pag. 4.
-[^17-3]: Regolamento delegato (UE) n. 1062/2014 della Commissione, del 4 agosto 2014, relativo al programma di lavoro per l’esame sistematico di tutti i principi attivi contenuti nei biocidi di cui al regolamento (UE) n. 528/2012 del Parlamento europeo e del Consiglio, GU L 294 del 10.10.2014, pag. 1.
-[^17-4]: Introdotta dal n. I dell’O del 18 nov. 2020, in vigore dal 15 dic. 2020 ([RU 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
-[^17-5]: Nuovo testo giusta il n. I dell’O del 31 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
-[^17-6]: Abrogato dal n. I dell’O del 31 gen. 2018, con effetto dal 1° mar. 2018 ([RU 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
+[^17-3]: <sup>Nuovo testo giusta il n.</sup> <sup>I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024</sup> <sup>(</sup>[<sup>RU</sup> <sup>2023</sup> <sup>709</sup>](https://fedlex.data.admin.ch/eli/oc/2023/709)<sup>).</sup>
+[^17-4]: Cfr. nota a piè di pagina relativa all’art. 7 cpv. 1 lett. b.
+[^17-5]: Introdotta dal n. I dell’O del 18 nov. 2020, in vigore dal 15 dic. 2020 ([RU 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
+[^17-6]: Nuovo testo giusta il n. I dell’O del 31 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
+[^17-7]: Abrogato dal n. I dell’O del 31 gen. 2018, con effetto dal 1° mar. 2018 ([RU 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
 
 #### Art. 18
 
@@ -1076,7 +1108,8 @@ L’organo di notifica modifica, d’intesa con i servizi di valutazione, un’o
 
 - a.[^24-1] i requisiti per l’omologazione secondo l’articolo 11 o 11*b* o secondo la sezione 3 non sono più adempiti;
 - b. l’omologazione è stata rilasciata sulla base di dati falsi o fuorivianti;
-- c. dopo il rilascio dell’omologazione il titolare non ha adempito i propri obblighi derivanti dalla presente ordinanza.
+- c. dopo il rilascio dell’omologazione il titolare non ha adempito i propri obblighi derivanti dalla presente ordinanza;
+- d.[^24-2] da una verifica secondo l’articolo 9 capoverso 3 della legge federale del 24 gennaio 1991[^24-3] sulla protezione delle acque risulta che è necessaria una modifica affinché i valori limite ivi menzionati non siano più ripetutamente e ampiamente superati.
 
 <sup>2</sup>
 
@@ -1086,10 +1119,12 @@ Esso modifica un’omologazione su domanda motivata del titolare. Nel far questo
 - b. modifica minore: nel quadro di una procedura con un periodo di tempo ridotto per la valutazione;
 - c. modifica sostanziale: nel quadro di una procedura con un periodo di valutazione adeguato alla portata delle modifiche proposte.
 
-<sup>3</sup> Il DFI disciplina, d’intesa con il DATEC e il DEFR, i dettagli della procedura di cui al capoverso 2; a tal fine tiene conto dell’atto di esecuzione emanato dalla Commissione europea in virtù dell’articolo 51 del regolamento (UE) n. 528/2012[^24-2].
+<sup>3</sup> Il DFI disciplina, d’intesa con il DATEC e il DEFR, i dettagli della procedura di cui al capoverso 2; a tal fine tiene conto dell’atto di esecuzione emanato dalla Commissione europea in virtù dell’articolo 51 del regolamento (UE) n. 528/2012[^24-4].
 
 [^24-1]: Nuovo testo giusta il n. I dell’O del 5 giu. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
-[^24-2]: Cfr. nota a piè di pagina relativa all’art. 1*b* cpv. 3.
+[^24-2]: Introdotta <sup>d</sup>a<sup>l n.</sup> <sup>dal n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024</sup> <sup>(</sup>[<sup>RU</sup> <sup>2023</sup> <sup>709</sup>](https://fedlex.data.admin.ch/eli/oc/2023/709)<sup>).</sup>
+[^24-3]: [RS 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
+[^24-4]: Cfr. nota a piè di pagina relativa all’art. 1*b* cpv. 3.
 
 #### Art. 25
 
@@ -1345,6 +1380,26 @@ L’organo di notifica può, d’intesa con i servizi di valutazione, omologare 
 
 Se per ragioni di tutela del patrimonio culturale è essenziale e se non è disponibile alcuna alternativa appropriata, l’organo di notifica, d’intesa con i servizi di valutazione, può omologare un biocida contenente un principio attivo non approvato.
 
+## Capitolo 2*a*: Obbligo di comunicazione relativo alle quantità di biocidi immessi sul mercato
+
+[^chap2a-1]
+
+[^chap2a-1]: Introdotto <sup>d</sup>a<sup>l n.</sup> <sup>dal n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024</sup> <sup>(</sup>[<sup>RU</sup> <sup>2023</sup> <sup>709</sup>](https://fedlex.data.admin.ch/eli/oc/2023/709)<sup>).</sup>
+
+#### Art. 30c
+
+<sup>1</sup>
+
+Chi immette sul mercato un biocida per la prima volta deve comunicare all’organo di notifica ogni anno, al più tardi il 31 maggio dell’anno successivo, i seguenti dati:
+
+- a. nome, indirizzo, indirizzo e-mail e numero di telefono;
+- b. nome commerciale e numero dell’omologazione federale del biocida;
+- c. la quantità immessa sul mercato;
+- d. i principi attivi contenuti nel biocida e la loro concentrazione;
+- e. il tipo di prodotto ai sensi dell’allegato 10.
+
+<sup>2</sup> La comunicazione deve essere effettuata nel formato elettronico stabilito dall’organo di notifica.
+
 ## Capitolo 3: Articoli trattati
 
 [^chap3-1]
@@ -1590,11 +1645,11 @@ Se a causa delle dimensioni o della funzione del biocida non è possibile riport
 
 #### Art. 38a
 
-**Etichettatura speciale per determinati biocidi classificati come pericolosi**[^38a-1]
+**Etichettatura per determinati biocidi classificati come pericolosi**[^38a-1]
 
-Se immette sul mercato un biocida classificato come pericoloso ai sensi dell’articolo 3 OPChim[^38a-2] a causa dei pericoli fisici o per la salute che comporta, il titolare dell’omologazione deve indicare l’UFI oltre alle informazioni di cui all’articolo 38 capoversi 2-4, secondo le disposizioni dell’articolo 15*a* capoversi 3 e 4 OPChim.
+Se un biocida classificato come pericoloso ai sensi dell’articolo 3 OPChim[^38a-2] a causa dei pericoli fisici o per la salute che comporta è immesso sul mercato, il titolare dell’omologazione deve indicare l’UFI oltre alle informazioni elencate all’articolo 38 capoversi 2–4, secondo le prescrizioni dell’articolo 15*a* capoversi 3 e 4 OPChim.
 
-[^38a-1]: Introdotto dal n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2022 ([RU 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
+[^38a-1]: Introdotto dal n. I dell’O del 18 nov. 2020 ([RU 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)). <sup>Nuovo testo giusta</sup> il <sup>n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 (</sup>[<sup>RU</sup> <sup>2023</sup> <sup>709</sup>](https://fedlex.data.admin.ch/eli/oc/2023/709)<sup>).</sup>
 [^38a-2]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
 
 #### Art. 39
@@ -1621,12 +1676,13 @@ Per l’etichettatura, occorre utilizzare una delle seguenti indicazioni:
 
 **Scheda di dati di sicurezza**[^40-1]
 
-<sup>1</sup> Per i biocidi e i principi attivi destinati a essere utilizzati in biocidi occorre redigere, trasmettere e aggiornare le schede di dati di sicurezza applicando per analogia gli articoli 5 e 18–22 OPChim[^40-2]; laddove nell’OPChim si parla di fabbricante, nella presente ordinanza s’intende il titolare dell’omologazione.
+<sup>1</sup> Per i biocidi e i principi attivi destinati a essere utilizzati in biocidi occorre, ove applicabile, redigere, trasmettere e aggiornare le schede di dati di sicurezza applicando per analogia gli articoli 5 e 18–22 OPChim[^40-2]; laddove nell’OPChim si parla di fabbricante, nella presente ordinanza si intende il titolare dell’omologazione.[^40-3]
 
 <sup>2</sup> Per i principi attivi che figurano negli elenchi di cui all’articolo 9 capoverso 1 lettere a–c non è necessario allegare gli scenari d’esposizione di cui all’articolo 20 capoverso 2 OPChim.
 
 [^40-1]: Nuovo testo giusta il n. I dell’O del 5 giu. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
-[^40-2]: [[RU 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466); [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152); [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73), [805](https://fedlex.data.admin.ch/eli/oc/2009/132); [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750); [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752); [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724), [6659](https://fedlex.data.admin.ch/eli/oc/2012/804); [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23), [2673](https://fedlex.data.admin.ch/eli/oc/2013/544), [3041](https://fedlex.data.admin.ch/eli/oc/2013/594)n. I 3; [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)all. 11 n. 1, [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [RU 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)art. 91 ]. Vedi ora l’O del 5 giu. 2015 ([RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
+[^40-2]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
+[^40-3]: <sup>Nuovo testo giusta il n.</sup> <sup>I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024</sup> <sup>(</sup>[<sup>RU</sup> <sup>2023</sup> <sup>709</sup>](https://fedlex.data.admin.ch/eli/oc/2023/709)<sup>).</sup>
 
 #### Art. 40a
 
@@ -2045,12 +2101,12 @@ Gli articoli trattati secondo il capoverso 1 possono essere per la prima volta i
 - a. fino al momento in cui l’ultimo principio attivo soggetto a omologazione e contenuto nel biocida è stato approvato dalla Commissione europea per il tipo di prodotto e l’uso pertinenti;
 - b. fino a 180 giorni dopo la decisione della Commissione europea di non autorizzare uno dei principi attivi per l’uso pertinente.
 
-<sup>3</sup> Un articolo che è stato trattato con uno o più biocidi o al quale sono stati aggiunti intenzionalmente uno o più biocidi che contengono un principio attivo diverso da quelli indicati al capoverso 1 lettere a–c, può essere per la prima volta immesso sul mercato fino al 28 febbraio 2017.[^62c-4]
+<sup>3</sup> ...[^62c-4]
 
 [^62c-1]: Introdotto dal n. I dell’O del 20 giu. 2014, in vigore dal 15 lug. 2014 ([RU 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
 [^62c-2]: Nuovo testo giusta il n. I dell’O del 31 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
 [^62c-3]: Nuovo testo giusta il n. I dell’O del 31 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
-[^62c-4]: Nuovo testo giusta il n. I dell’O del 31 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
+[^62c-4]: Abrogato <sup>dal n. I dell’O del 15 nov. 2023, c</sup>o<sup>n e</sup>ffetto <sup>dal 1° gen. 2024 (</sup>[<sup>RU</sup> <sup>2023</sup> <sup>709</sup>](https://fedlex.data.admin.ch/eli/oc/2023/709)<sup>).</sup>
 
 #### Art. 62d
 
@@ -2229,7 +2285,7 @@ Allegato 5[^t-5]
 
 ## Domanda di omologazione O<sub>E</sub> o O<sub>nE</sub>
 
-[^t-5]: Nuovo testo giusta il n. II cpv. 1 dell’O del 20 giu. 2014 ([RU 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)). Aggiornato dal n. II dell’O del 5 giu. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
+[^t-5]: Nuovo testo giusta il n. II cpv. 1 dell’O del 20 giu. 2014 ([RU 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)). Aggiornato dal n. II delle O del 5 giu. 2015 ([RU 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)) e del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 709](https://fedlex.data.admin.ch/eli/oc/2023/709)).
 
 ### 1 Documenti relativi al prodotto e ai principi attivi
 
@@ -2284,7 +2340,7 @@ Unitamente alla domanda di omologazione occorre presentare all’organo di notif
 <sup>4</sup> Il capoverso 3 non si applica alle identificazioni e determinazioni avviate prima del 1° marzo 2000.
 
 [^annex5-lvlu1-lvl2-lvl23-1]: Regolamento (CE) n. 440/2008 della Commissione, del 30 maggio 2008, che istituisce dei metodi di prova ai sensi del regolamento (CE) n. 1907/2006 del Parlamento europeo e del Consiglio concernente la registrazione, la valutazione, l’autorizzazione e la restrizione delle sostanze chimiche (REACH), GU L 142 del 31.5.2008, pag. 1; modificato da ultimo dal regolamento (CE) n. 260/2014, GU L 81 del 19.3.2014, pag. 1.
-[^annex5-lvlu1-lvl2-lvl23-2]: Direttiva 2010/63/UE del Parlamento europeo e del Consiglio, del 22 settembre 2010, sulla protezione degli animali utilizzati a fini scientifici, GU L 276 del 20.10.2010, pag. 33.
+[^annex5-lvlu1-lvl2-lvl23-2]: Direttiva 2010/63/UE del Parlamento europeo e del Consiglio, del 22 settembre 2010, sulla protezione degli animali utilizzati a fini scientifici, versione della GU L 276 del 20.10.2010, pag. 33.
 [^annex5-lvlu1-lvl2-lvl23-3]: [[RU 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466); [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152); [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73), [805](https://fedlex.data.admin.ch/eli/oc/2009/132); [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750); [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752); [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724), [6659](https://fedlex.data.admin.ch/eli/oc/2012/804); [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23), [2673](https://fedlex.data.admin.ch/eli/oc/2013/544), [3041](https://fedlex.data.admin.ch/eli/oc/2013/594)n. I 3; [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)all. 11 n. 1, [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [RU 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)art. 91 ]. Vedi ora l’O del 5 giu. 2015 ([RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
 
 ### 2.4 Altri metodi di identificazione e determinazione
@@ -2385,7 +2441,7 @@ Allegato 8[^t-9]
 
 ## Domanda di omologazione O<sub>N</sub>
 
-[^t-9]: Nuovo testo giusta il n. II cpv. 1 dell’O del 20 giu. 2014 ([RU 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)). Aggiornato dal n. II dell’O del 5 giu. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)) e dalla correzione del 17 nov. 2015 ([RU 2015 4481](https://fedlex.data.admin.ch/eli/oc/2015/745)).
+[^t-9]: Nuovo testo giusta il n. II cpv. 1 dell’O del 20 giu. 2014 ([RU 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)). Aggiornato dal n. II dell’O del 5 giu. 2015 ([RU 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)), dalla correzione del 17 nov. 2015 ([RU 2015 4481](https://fedlex.data.admin.ch/eli/oc/2015/745)) e dal n. II del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 709](https://fedlex.data.admin.ch/eli/oc/2023/709)).
 
 ### 1 Documenti relativi al richiedente, al fabbricante e al prodotto
 
@@ -2453,7 +2509,7 @@ I documenti relativi alla domanda devono contenere le seguenti informazioni:
 <sup>4</sup> Il capoverso 3 non si applica alle identificazioni e determinazioni avviate prima del 1° marzo 2000.
 
 [^annex8-lvlu1-lvl3-lvl31-1]: Cfr. nota a piè di pagina relativa all’all. 5 n. 2.3 cpv. 1.
-[^annex8-lvlu1-lvl3-lvl31-2]: Direttiva 2010/63/UE del Parlamento europeo e del Consiglio, del 22 settembre 2010, sulla protezione degli animali utilizzati a fini scientifici, GU L 276 del 20.10.2010, pag. 33.
+[^annex8-lvlu1-lvl3-lvl31-2]: Cfr. nota a piè di pagina relativa all’allegato 5 n. 2.3 cpv. 3 lett. a.
 [^annex8-lvlu1-lvl3-lvl31-3]: [[RU 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466); [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152); [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73), [805](https://fedlex.data.admin.ch/eli/oc/2009/132); [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750); [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752); [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724), [6659](https://fedlex.data.admin.ch/eli/oc/2012/804); [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23), [2673](https://fedlex.data.admin.ch/eli/oc/2013/544), [3041](https://fedlex.data.admin.ch/eli/oc/2013/594)n. I 3; [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)all. 11 n. 1, [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [RU 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)art. 91 ]. Vedi ora l’O del 5 giu. 2015 ([RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
 
 ### 3.2 Altri metodi di identificazione e determinazione

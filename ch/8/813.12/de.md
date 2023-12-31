@@ -4,11 +4,11 @@ title: "Verordnung vom 18. Mai 2005 über das Inverkehrbringen von und den Umgan
 short: VBP
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/468"
 language: de
-version: 2023-10-01
+version: 2024-01-01
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/468/20231001/de/xml/fedlex-data-admin-ch-eli-cc-2005-468-20231001-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/468/20231001/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/468/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2005-468-20240101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/468/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/468/20231001/de"
 
 (Biozidprodukteverordnung, VBP)
 
-vom 18. Mai 2005 (Stand am 1. Oktober 2023)
+vom 18. Mai 2005 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -133,7 +133,7 @@ Darüber hinaus bedeuten in dieser Verordnung:
 
   - 1\. einen Stoff, der nach Artikel 2 Absatz 2 in Verbindung mit Anhang VI Ziffern 2–5 der Richtlinie 67/548/EWG[^2-4] als gefährlich eingestuft wurde oder die Kriterien für eine solche Einstufung erfüllt und der in dem Biozidprodukt in einer Konzentration vorhanden ist, aufgrund derer das Produkt im Sinne von Artikel 1 Absatz 2 in Verbindung mit den Artikeln 5, 6 und 7 der Richtlinie 1999/45/EG[^2-5] als gefährlich anzusehen ist,
   - 2\. einen Stoff, der nach Artikel 2 Absatz 2 in Verbindung mit Anhang I Teilen 2–5 der Verordnung (EG) Nr. 1272/2008 (EU-CLP-Verordnung)[^2-6] als gefährlich eingestuft wurde oder der die Kriterien für eine solche Einstufung erfüllt und der in dem Biozidprodukt in einer Konzentration vorhanden ist, aufgrund derer das Produkt als gefährlich im Sinne der genannten Verordnung anzusehen ist,
-  - 3\. einen Stoff, der die folgenden Kriterien erfüllt: persistenter organischer Stoff (POP) nach der Verordnung (EG) Nr. 850/2004[^2-7] oder «persistent», «bioakkumulierbar» und «toxisch» (PBT) oder «sehr persistent» und «sehr bioakkumulierbar» (vPvB) nach Anhang XIII der Verordnung (EG) Nr. 1907/2006 (EU-REACH-Verordnung)[^2-8];
+  - 3\.[^2-7] einen Stoff, der die folgenden Kriterien erfüllt: persistenter organischer Stoff (POP) nach der Verordnung (EG) Nr. 850/2004[^2-8] oder «persistent», «bioakkumulierbar» und «toxisch» (PBT) oder «sehr persistent» und «sehr bioakkumulierbar» (vPvB) nach Anhang XIII der Verordnung (EG) Nr. 1907/2006 (EU-REACH-Verordnung)[^2-9];
 
 - b.
 
@@ -150,9 +150,9 @@ Darüber hinaus bedeuten in dieser Verordnung:
 - e. *Zugangsbescheinigung:* ein Dokument, das von der zur Nutzung von geschützten Daten berechtigten Person unterzeichnet ist und in dem festgestellt wird, dass diese Daten von der Anmeldestelle und gegebenenfalls von der zuständigen Behörde eines Vertragsstaates zum Zweck der Gewährung einer Zulassung eines Biozidprodukts verwendet werden dürfen;
 - f. *alter Wirkstoff:* ein Stoff, der am 14. Mai 2000 als Wirkstoff eines Biozidprodukts für andere Zwecke als die wissenschaftliche oder die produkt- und verfahrensorientierte Forschung und Entwicklung in Verkehr war;
 - g. *neuer Wirkstoff:* ein Wirkstoff eines Biozidprodukts, der kein alter Wirkstoff ist;
-- h. *zu ersetzender Wirkstoff:* ein Wirkstoff, der die Voraussetzungen gemäss Artikel 10 Absatz 1 der Verordnung (EU) Nr. 528/2012[^2-9] erfüllt;
+- h. *zu ersetzender Wirkstoff:* ein Wirkstoff, der die Voraussetzungen gemäss Artikel 10 Absatz 1 der Verordnung (EU) Nr. 528/2012[^2-10] erfüllt;
 - i. *Rückstand:* ein Stoff, der in oder auf Erzeugnissen pflanzlichen oder tierischen Ursprungs, in Wasserressourcen, im Trinkwasser, in oder auf Lebens- und Futtermitteln oder anderweitig in der Umwelt vorhanden ist und dessen Vorhandensein von der Verwendung von Biozidprodukten herrührt, einschliesslich der Metaboliten und der Abbau- oder Reaktionsprodukte eines solchen Stoffs;
-- j.[^2-10] *behandelte Waren:* Stoffe, Zubereitungen oder Gegenstände ohne primäre Biozidfunktion, die mit einem oder mehreren Biozidprodukten behandelt wurden oder denen ein oder mehrere Biozidprodukte absichtlich zugesetzt wurden;
+- j.[^2-11] *behandelte Waren:* Stoffe, Zubereitungen oder Gegenstände ohne primäre Biozidfunktion, die mit einem oder mehreren Biozidprodukten behandelt wurden oder denen ein oder mehrere Biozidprodukte absichtlich zugesetzt wurden;
 - k. *nationale Zulassung:* Zulassung der zuständigen Behörde eines Mitgliedstaats der EU oder der EFTA für das Inverkehrbringen eines Biozidprodukts in dessen Hoheitsgebiet;
 - l. *Unionszulassung:* Zulassung der Europäischen Kommission für das Inverkehrbringen eines Biozidprodukts im Gebiet der EU;
 - m.
@@ -168,16 +168,16 @@ Darüber hinaus bedeuten in dieser Verordnung:
 
 <sup>3</sup>
 
-Folgende Begriffe sind im Sinne von Artikel 2 der Chemikalienverordnung vom 18. Mai 2005[^2-11] (ChemV) zu verstehen:
+Folgende Begriffe sind im Sinne von Artikel 2 der Chemikalienverordnung vom 18. Mai 2005[^2-12] (ChemV) zu verstehen:
 
 - a. Stoff;
 - b. Gegenstand;
 - c. produkt- und verfahrensorientierte Forschung und Entwicklung;
 - d. wissenschaftliche Forschung und Entwicklung.
 
-<sup>4</sup> Es gelten die Entsprechungen von Ausdrücken zwischen der Verordnung (EU) Nr. 528/2012 und der vorliegenden Verordnung gemäss Anhang 3 Ziffer 1.[^2-12]
+<sup>4</sup> Es gelten die Entsprechungen von Ausdrücken zwischen der Verordnung (EU) Nr. 528/2012 und der vorliegenden Verordnung gemäss Anhang 3 Ziffer 1.[^2-13]
 
-<sup>4bis</sup> Wird in dieser Verordnung auf Bestimmungen der Verordnung (EU) Nr. 528/ 2012 verwiesen, die ihrerseits auf anderes EU-Recht verweisen, so gilt statt dieses EU-Rechts das schweizerische Recht nach Anhang 3 Ziffer 2.[^2-13]
+<sup>4bis</sup> Wird in dieser Verordnung auf Bestimmungen der Verordnung (EU) Nr. 528/ 2012 verwiesen, die ihrerseits auf anderes EU-Recht verweisen, so gilt statt dieses EU-Rechts das schweizerische Recht nach Anhang 3 Ziffer 2.[^2-14]
 
 <sup>5</sup> Im Übrigen werden in dieser Verordnung Begriffe, die in den Gesetzen, die die Grundlage dieser Verordnung bilden, unterschiedlich verwendet werden, im Sinne des ChemG verwendet.
 
@@ -187,13 +187,42 @@ Folgende Begriffe sind im Sinne von Artikel 2 der Chemikalienverordnung vom 18. 
 [^2-4]: Richtlinie 67/548/EWG des Rates vom 27. Juni 1967 zur Angleichung der Rechts- und Verwaltungsvorschriften für die Einstufung, Verpackung und Kennzeichnung gefährlicher Stoffe, ABl. L 196 vom 16.8.1967, S. 1; zuletzt geändert durch Richtlinie 2013/21/EU, ABl. L 158 vom 10.6.2013, S. 240.
 [^2-5]: Richtlinie 1999/45/EG des Europäischen Parlaments und des Rates vom 31. Mai 1999 zur Angleichung der Rechts- und Verwaltungsvorschriften der Mitgliedstaaten für die Einstufung, Verpackung und Kennzeichnung gefährlicher Zubereitungen, ABl. L 200 vom 30.7.1999, S. 1; zuletzt geändert durch Richtlinie 2013/21/EU, ABl. L 158 vom 10.6.2013, S. 240.
 [^2-6]: Verordnung (EG) Nr. 1272/2008 des Europäischen Parlaments und des Rates vom 16. Dezember 2008 über die Einstufung, Kennzeichnung und Verpackung von Stoffen und Gemischen, zur Änderung und Aufhebung der Richtlinien 67/548/EWG und 1999/45/EG und zur Änderung der Verordnung (EG) Nr. 1907/2006, ABl. L 353 vom 31.12.2008, S. 1; zuletzt geändert durch Verordnung (EU) Nr. 944/2013, ABl. L 261 vom 3.10.2013, S. 5.
-[^2-7]: Verordnung (EG) Nr. 850/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 über persistente organische Schadstoffe und zur Änderung der Richtlinie 79/117/EWG, zuletzt geändert durch Verordnung (EU) Nr. 519/2012, ABl. L 159 vom 20.6.2012, S. 1.
-[^2-8]: Verordnung (EG) Nr. 1907/2006 des Europäischen Parlaments und des Rates vom 18. Dezember 2006 zur Registrierung, Bewertung, Zulassung und Beschränkung chemischer Stoffe (REACH), zur Schaffung einer Europäischen Agentur für chemische Stoffe, zur Änderung der Richtlinie 1999/45/EG und zur Aufhebung der Verordnung (EWG) Nr. 793/93 des Rates, der Verordnung (EG) Nr. 1488/94 der Kommission, der Richtlinie 76/769/EWG des Rates sowie der Richtlinien 91/155/EWG, 93/67/EWG, 93/105/EG und 2000/21/EG der Kommission, ABl. L 396 vom 30.12.2006, S. 1; zuletzt geändert durch Verordnung (EU) Nr. 474/2014, ABl. L 136 vom 9.5.2014, S. 19.
-[^2-9]: Siehe Fussnote zu Art. 1*b* Abs. 3.
-[^2-10]: Fassung gemäss Ziff. I der V vom 31. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
-[^2-11]: [[AS 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466); [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152); [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73), [805](https://fedlex.data.admin.ch/eli/oc/2009/132); [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750); [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752); [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724), [6659](https://fedlex.data.admin.ch/eli/oc/2012/804); [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23), [2673](https://fedlex.data.admin.ch/eli/oc/2013/544), [3041](https://fedlex.data.admin.ch/eli/oc/2013/594)Ziff. I 3; [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Anhang 11 Ziff. 1, [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [AS 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Art. 91]. Siehe heute: die V vom 5. Juni 2015 ([SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
-[^2-12]: Fassung gemäss Ziff. I der V vom 31. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
-[^2-13]: Eingefügt durch Ziff. I der V vom 31. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
+[^2-7]: Fassung gemäss Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 709](https://fedlex.data.admin.ch/eli/oc/2023/709)).
+[^2-8]: Verordnung (EG) Nr. 850/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 über persistente organische Schadstoffe und zur Änderung der Richtlinie 79/117/EWG, ABl. L 158 vom 30.4.2004, S. 7; zuletzt geändert durch Verordnung (EU) Nr. 519/2012, ABl. L 159 vom 20.6.2012, S. 1.
+[^2-9]: Verordnung (EG) Nr. 1907/2006 des Europäischen Parlaments und des Rates vom 18. Dezember 2006 zur Registrierung, Bewertung, Zulassung und Beschränkung chemischer Stoffe (REACH), zur Schaffung einer Europäischen Agentur für chemische Stoffe, zur Änderung der Richtlinie 1999/45/EG und zur Aufhebung der Verordnung (EWG) Nr. 793/93 des Rates, der Verordnung (EG) Nr. 1488/94 der Kommission, der Richtlinie 76/769/EWG des Rates sowie der Richtlinien 91/155/EWG, 93/67/EWG, 93/105/EG und 2000/21/EG der Kommission, ABl. L 396 vom 30.12.2006, S. 1; zuletzt geändert durch Verordnung (EU) Nr. 474/2014, ABl. L 136 vom 9.5.2014, S. 19.
+[^2-10]: Siehe Fussnote zu Art. 1*b* Abs. 3.
+[^2-11]: Fassung gemäss Ziff. I der V vom 31. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
+[^2-12]: [[AS 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466); [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152); [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73), [805](https://fedlex.data.admin.ch/eli/oc/2009/132); [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750); [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752); [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724), [6659](https://fedlex.data.admin.ch/eli/oc/2012/804); [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23), [2673](https://fedlex.data.admin.ch/eli/oc/2013/544), [3041](https://fedlex.data.admin.ch/eli/oc/2013/594)Ziff. I 3; [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Anhang 11 Ziff. 1, [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [AS 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Art. 91]. Siehe heute: die V vom 5. Juni 2015 ([SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
+[^2-13]: Fassung gemäss Ziff. I der V vom 31. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
+[^2-14]: Eingefügt durch Ziff. I der V vom 31. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
+
+## 1*a*. Kapitel: Indikatoren für Umweltrisiken durch den Einsatz von Biozidprodukten nach Artikel 25*a* ChemG
+
+[^chap1a-1]
+
+[^chap1a-1]: Eingefügt durch Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 709](https://fedlex.data.admin.ch/eli/oc/2023/709)).
+
+#### Art. 2a
+
+<sup>1</sup> Einträge von Wirkstoffen der Produktarten 7, 8, 10, 18 und 21 nach Anhang 10 in Trinkwasser, Oberflächengewässer und Grundwasser stellen ein potenzielles massgebliches Risiko dar.
+
+<sup>2</sup>
+
+Ziel ist, dass die in Gewässern gemessenen Konzentrationen der Wirkstoffe nach Absatz 1 folgende Grenzwerte nicht überschreiten:
+
+- a. für Wirkstoffe oder ihre Abbauprodukte in Gewässern, die der Trinkwassernutzung dienen oder dafür vorgesehen sind: 0,1 μg/l;
+- b.
+
+  für Wirkstoffe in Oberflächengewässern:
+
+  - 1\. die Grenzwerte nach Anhang 2 Ziffer 11 Absatz 3 Nummer 4 der Gewässerschutzverordnung vom 28. Oktober 1998[^2a-1] (GSchV) (ökotoxikologischen Grenzwerte), oder
+  - 2\. wenn der Wirkstoff nicht in Anhang 2 GschV aufgeführt ist: die bei der Genehmigung festgelegte Konzentration, unterhalb der kein Effekt auf Gewässerorganismen erwartet wird.
+
+<sup>3</sup> Das BAFU ermittelt anhand von Indikatoren, zu welchem Grad das Ziel erreicht wurde.
+
+<sup>4</sup> Zu diesem Zweck berechnet es jährlich für jeden Wirkstoff nach Absatz 1 mit den verfügbaren Messdaten, wie gross der Anteil der untersuchten Gewässer, in denen eine Überschreitung gemessen wurde, an der Gesamtzahl der untersuchten Gewässer ist.
+
+[^2a-1]: [SR 814.201](https://fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863)
 
 ## 2. Kapitel: Voraussetzungen für das Inverkehrbringen
 
@@ -534,7 +563,7 @@ Ein Biozidprodukt wird für das Inverkehrbringen zur Verwendung durch die breite
 
 - a.
 
-  Eigenschaften gemäss den Kriterien nach der EU-CLP-Verordnung[^11d-2] aufweist und eine der folgenden Einstufungen aufweist:
+  die Kriterien gemäss der EU-CLP-Verordnung[^11d-2] erfüllt, um wie folgt eingestuft zu werden:[^11d-3]
 
   - 1\. akute orale Toxizität der Kategorie 1, 2 oder 3,
   - 2\. akute dermale Toxizität der Kategorie 1, 2 oder 3,
@@ -545,14 +574,16 @@ Ein Biozidprodukt wird für das Inverkehrbringen zur Verwendung durch die breite
   - 7\. mutagen der Kategorie 1A oder 1B,
   - 8\. reproduktionstoxisch der Kategorie 1A oder 1B;
 
-- b. aus einem Stoff besteht, einen Stoff enthält oder einen Stoff erzeugt, der Eigenschaften gemäss den Kriterien «PBT» oder «vPvB» nach Anhang XIII der EU-REACH-Verordnung[^11d-3] aufweist;
-- c. endokrinschädigende Eigenschaften gemäss den Kriterien nach der delegierten Verordnung (EU) 2017/2100[^11d-4] festgelegten Kriterienaufweist; oder
+- b. aus einem Stoff besteht, einen Stoff enthält oder einen Stoff erzeugt, der Eigenschaften gemäss den Kriterien «PBT» oder «vPvB» nach Anhang XIII der EU-REACH-Verordnung[^11d-4] aufweist;
+- c. [^11d-5] endokrinschädigende Eigenschaften gemäss den Kriterien nach der delegierten Verordnung (EU) 2017/2100[^11d-6] aufweist; oder
 - d. entwicklungsneurotoxische oder -immunotoxische Auswirkungen hat.
 
 [^11d-1]: Eingefügt durch Ziff. I der V vom 20. Juni 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)). Fassung gemäss Ziff. I der V vom 31. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
 [^11d-2]: Siehe Fussnote zu Art. 2 Abs. 2 Bst. a Ziff. 2.
-[^11d-3]: Verordnung (EG) Nr. 1907/2006 des Europäischen Parlaments und des Rates vom 18. Dezember 2006 zur Registrierung, Bewertung, Zulassung und Beschränkung chemischer Stoffe (REACH), zur Schaffung einer Europäischen Agentur für chemische Stoffe, zur Änderung der Richtlinie 1999/45/EG und zur Aufhebung der Verordnung (EWG) Nr. 793/93 des Rates, der Verordnung (EG) Nr. 1488/94 der Kommission, der Richtlinie 76/769/EWG des Rates sowie der Richtlinien 91/155/EWG, 93/67/EWG, 93/105/EG und 2000/21/EG der Kommission, ABl. L 396 vom 30.12.2006, S. 1; zuletzt geändert durch Verordnung (EU) 2015/830, ABl. L 132 vom 29.5.2015, S. 8.
-[^11d-4]: Delegierte Verordnung (EU) 2017/2100 der Kommission vom 4. September 2017 zur Festlegung wissenschaftlicher Kriterien für die Bestimmung endokrinschädigender Eigenschaften gemäss der Verordnung (EU) Nr. 528/2012 des Europäischen Parlaments und des Rates, Fassung gmäss ABl. L 301 vom 17.11.2017, S. 1.
+[^11d-3]: Fassung gemäss Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 709](https://fedlex.data.admin.ch/eli/oc/2023/709)).
+[^11d-4]: Verordnung (EG) Nr. 1907/2006 des Europäischen Parlaments und des Rates vom 18. Dezember 2006 zur Registrierung, Bewertung, Zulassung und Beschränkung chemischer Stoffe (REACH), zur Schaffung einer Europäischen Agentur für chemische Stoffe, zur Änderung der Richtlinie 1999/45/EG und zur Aufhebung der Verordnung (EWG) Nr. 793/93 des Rates, der Verordnung (EG) Nr. 1488/94 der Kommission, der Richtlinie 76/769/EWG des Rates sowie der Richtlinien 91/155/EWG, 93/67/EWG, 93/105/EG und 2000/21/EG der Kommission, ABl. L 396 vom 30.12.2006, S. 1; zuletzt geändert durch Verordnung (EU) 2015/830, ABl. L 132 vom 29.5.2015, S. 8.
+[^11d-5]: Fassung gemäss Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 709](https://fedlex.data.admin.ch/eli/oc/2023/709)).
+[^11d-6]: Delegierte Verordnung (EU) 2017/2100 der Kommission vom 4. September 2017 zur Festlegung wissenschaftlicher Kriterien für die Bestimmung endokrinschädigender Eigenschaften gemäss der Verordnung (EU) Nr. 528/2012 des Europäischen Parlaments und des Rates, Fassung gemäss ABl. L 301 vom 17.11.2017, S. 1.
 
 #### Art. 11e
 
@@ -910,11 +941,11 @@ Die Beurteilungsstellen bewerten die Unterlagen in ihrem Zuständigkeitsbereich 
 
 - a. Unterlagen für Zulassungen Z<sub>L</sub>, Z<sub>nL</sub> und vereinfachte Zulassungen sowie für Anerkennungen: nach den Grundsätzen von Anhang VI der Verordnung (EU) Nr. 528/2012[^17-1];
 - b. Unterlagen für die Beurteilung von Unionszulassungen, die gestützt auf einen völkerrechtlichen Vertrag bei der Anmeldestelle eingereicht werden: nach den Grundsätzen der Artikel 43–46 der Verordnung (EU) Nr. 528/2012 sowie der Durchführungsverordnung (EU) Nr. 354/2013[^17-2]; dies gilt auch für die Beurteilung von Änderungen oder Verlängerungen von Unionszulassungen;
-- c. Unterlagen für die Beurteilung eines Wirkstoffs, die gestützt auf einen völkerrechtlichen Vertrag bei der Anmeldestelle eingereicht werden: nach den Grundsätzen der Kapitel II und III der Verordnung (EU) Nr. 528/2012 sowie des Kapitels II der delegierten Verordnung (EU) Nr. 1062/2014[^17-3];
-- c<sup>bis</sup>.[^17-4] Unterlagen für Zulassungen Z<sub>N</sub>: unter dem Gesichtspunkt, ob der Wirkstoff für die beantragte Verwendung und Produktart geeignet ist; bei erhöhtem Risiko oder in anderen begründeten Fällen wird eine Bewertung nach Buchstabe d durchgeführt;
-- d. andere Unterlagen: nach dem Stand von Wissenschaft und Technik.[^17-5]
+- c. [^17-3] Unterlagen für die Beurteilung eines Wirkstoffs, die gestützt auf einen völkerrechtlichen Vertrag bei der Anmeldestelle eingereicht werden: nach den Grundsätzen der Kapitel II und III der Verordnung (EU) Nr. 528/2012 sowie des Kapitels II der delegierten Verordnung (EU) Nr. 1062/2014[^17-4]; dies gilt auch für die Beurteilung der Verlängerung der Genehmigung eines Wirkstoffs;
+- c<sup>bis</sup>.[^17-5] Unterlagen für Zulassungen Z<sub>N</sub>: unter dem Gesichtspunkt, ob der Wirkstoff für die beantragte Verwendung und Produktart geeignet ist; bei erhöhtem Risiko oder in anderen begründeten Fällen wird eine Bewertung nach Buchstabe d durchgeführt;
+- d. andere Unterlagen: nach dem Stand von Wissenschaft und Technik.[^17-6]
 
-<sup>2</sup> …[^17-6]
+<sup>2</sup> …[^17-7]
 
 <sup>3</sup> Für Biozidprodukte mit zu ersetzenden Wirkstoffen nehmen die Beurteilungsstellen eine vergleichende Bewertung nach Artikel 11*g* vor.
 
@@ -928,10 +959,11 @@ Die Beurteilungsstellen bewerten die Unterlagen in ihrem Zuständigkeitsbereich 
 
 [^17-1]: Siehe Fussnote zu Art. 1*b* Abs. 3.
 [^17-2]: Durchführungsverordnung (EU) Nr. 354/2013 der Kommission vom 18. April 2013 über Änderungen von gemäss der Verordnung (EU) Nr. 528/2012 des Europäischen Parlaments und des Rates zugelassenen Biozidprodukten, Fassung gemäss ABl. L 109 vom 19.4.2013, S. 4.
-[^17-3]: Delegierte Verordnung (EU) Nr. 1062/2014 der Kommission vom 4. August 2014 über das Arbeitsprogramm zur systematischen Prüfung aller in Biozidprodukten enthaltenen alten Wirkstoffe gemäss der Verordnung (EU) Nr. 528/2012 des Europäischen Parlaments und des Rates, ABl L 294 vom 10.10.2014, S. 1.
-[^17-4]: Eingefügt durch Ziff. I der V vom 18. Nov. 2020, in Kraft seit 15. Dez. 2020 ([AS 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
-[^17-5]: Fassung gemäss Ziff. I der V vom 31. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
-[^17-6]: Aufgehoben durch Ziff. I der V vom 31. Jan. 2018, mit Wirkung seit 1. März 2018 ([AS 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
+[^17-3]: Fassung gemäss Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 709](https://fedlex.data.admin.ch/eli/oc/2023/709)).
+[^17-4]: Siehe Fussnote zu Art. 7 Abs. 1 Bst. b.
+[^17-5]: Eingefügt durch Ziff. I der V vom 18. Nov. 2020, in Kraft seit 15. Dez. 2020 ([AS 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
+[^17-6]: Fassung gemäss Ziff. I der V vom 31. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
+[^17-7]: Aufgehoben durch Ziff. I der V vom 31. Jan. 2018, mit Wirkung seit 1. März 2018 ([AS 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
 
 #### Art. 18
 
@@ -1084,7 +1116,8 @@ Die Anmeldestelle ändert im Einvernehmen mit den Beurteilungsstellen eine Zulas
 
 - a.[^24-1] die Voraussetzungen für die Zulassung nach Artikel 11 oder 11*b* oder nach dem 3. Abschnitt nicht mehr erfüllt sind;
 - b. eine Zulassung auf der Grundlage falscher oder irreführender Angaben erteilt wurde;
-- c. die Inhaberin nach Erteilung der Zulassung ihren Verpflichtungen, die sich aus dieser Verordnung ergeben, nicht nachgekommen ist.
+- c. die Inhaberin nach Erteilung der Zulassung ihren Verpflichtungen, die sich aus dieser Verordnung ergeben, nicht nachgekommen ist;
+- d.[^24-2] eine Überprüfung nach Artikel 9 Absatz 3 des Gewässerschutzgesetzes vom 24. Januar 1991[^24-3] ergibt, dass eine Änderung nötig ist, damit die dort genannten Grenzwerte nicht mehr wiederholt und verbreitet überschritten werden.
 
 <sup>2</sup>
 
@@ -1094,10 +1127,12 @@ Sie ändert eine Zulassung auf begründeten Antrag von deren Inhaberin. Dabei ha
 - b. geringfügige Änderung: im Rahmen eines Verfahrens mit verkürztem Bewertungszeitraum;
 - c. wesentliche Änderung: im Rahmen eines Verfahrens mit einem dem Umfang der vorgeschlagenen Änderungen angemessenen Bewertungszeitraum.
 
-<sup>3</sup> Das EDI regelt, im Einvernehmen mit dem UVEK und dem WBF, die Einzelheiten der Verfahren nach Absatz 2; es berücksichtigt dabei den von der Europäischen Kommission gestützt auf Artikel 51 der Verordnung (EU) Nr. 528/2012[^24-2] erlassenen Durchführungsrechtsakt.
+<sup>3</sup> Das EDI regelt, im Einvernehmen mit dem UVEK und dem WBF, die Einzelheiten der Verfahren nach Absatz 2; es berücksichtigt dabei den von der Europäischen Kommission gestützt auf Artikel 51 der Verordnung (EU) Nr. 528/2012[^24-4] erlassenen Durchführungsrechtsakt.
 
 [^24-1]: Fassung gemäss Ziff. I der V vom 5. Juni 2015, in Kraft seit 1. Juli 2015 ([AS 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
-[^24-2]: Siehe Fussnote zu Art. 1*b* Abs. 3.
+[^24-2]: Eingefügt durch Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 709](https://fedlex.data.admin.ch/eli/oc/2023/709)).
+[^24-3]: [SR 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
+[^24-4]: Siehe Fussnote zu Art. 1*b* Abs. 3.
 
 #### Art. 25
 
@@ -1353,6 +1388,26 @@ Die Anmeldestelle kann im Einvernehmen mit den Beurteilungsstellen ein Biozidpro
 
 Ist es zum Schutz des kulturellen Erbes unbedingt erforderlich und steht keine geeignete Alternative zur Verfügung, so kann die Anmeldestelle im Einvernehmen mit den Beurteilungsstellen ein Biozidprodukt, das einen nicht genehmigten Wirkstoff enthält, zulassen.
 
+## 2*a*. Kapitel: Mitteilungspflicht für die Mengen von in Verkehr gebrachten Biozidprodukten
+
+[^chap2a-1]
+
+[^chap2a-1]: Eingefügt durch Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 709](https://fedlex.data.admin.ch/eli/oc/2023/709)).
+
+#### Art. 30c
+
+<sup>1</sup>
+
+Wer ein Biozidprodukt erstmals in Verkehr bringt, muss der Anmeldestelle jährlich spätestens bis zum 31. Mai des Folgejahres die folgenden Daten mitteilen:
+
+- a. Name, Adresse, E-Mail-Adresse und Telefonnummer;
+- b. Handelsname und Nummer der eidgenössischen Zulassung des Biozidprodukts;
+- c. Menge, die in Verkehr gebracht wurde;
+- d. die im Biozidprodukt enthaltenen Wirkstoffe und deren Konzentration;
+- e. die Produktart des Biozidprodukts nach Anhang 10.
+
+<sup>2</sup> Die Mitteilung muss in dem von der Anmeldestelle vorgegebenen elektronischen Format erfolgen
+
 ## 3. Kapitel: Behandelte Waren
 
 [^chap3-1]
@@ -1600,9 +1655,9 @@ Die Angaben nach den Absätzen 3 Buchstaben c, e, f und i–l und 4 Buchstabe b 
 
 **Kennzeichnung für bestimmte als gefährlich eingestufte Biozidprodukte**[^38a-1]
 
-Bringt die Inhaberin der Zulassung ein Biozidprodukt in Verkehr, das aufgrund der von ihm ausgehenden physikalischen Gefahren oder Gesundheitsgefahren als gefährlich im Sinne von Artikel 3 ChemV[^38a-2] eingestuft ist, so muss sie zusätzlich zu den Angaben nach Artikel 38 Absätze 2–4 den UFI gemäss den Vorschriften nach Artikel 15*a* Absätze 3 und 4 ChemV angeben.
+Wird ein Biozidprodukt, das aufgrund der von ihm ausgehenden physikalischen Gefahren oder Gesundheitsgefahren als gefährlich im Sinne von Artikel 3 ChemV[^38a-2] eingestuft ist, in Verkehr gebracht, so muss die Inhaberin der Zulassung zusätzlich zu den Angaben nach Artikel 38 Absätze 2–4 den UFI gemäss den Vorschriften nach Artikel 15*a* Absätze 3 und 4 ChemV angeben.
 
-[^38a-1]: Eingefügt durch Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
+[^38a-1]: Eingefügt duch Ziff. I der V vom 18. Nov. 2020 ([AS 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)). Fassung gemäss Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 709](https://fedlex.data.admin.ch/eli/oc/2023/709)).
 [^38a-2]: [SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
 
 #### Art. 39
@@ -1629,13 +1684,13 @@ Für die Kennzeichnung muss eine der folgenden Bezeichnungen verwendet werden:
 
 **Sicherheitsdatenblatt**[^40-1]
 
-<sup>1</sup> Für Biozidprodukte und für Wirkstoffe zur Verwendung in Biozidprodukten müssen Sicherheitsdatenblätter sinngemäss nach den Artikeln 5 und 18–22 ChemV[^40-2] erstellt, übermittelt und aktualisiert werden; wo in der ChemV von der Herstellerin die Rede ist, ist darunter für diese Verordnung die Inhaberin der Zulassung zu verstehen.[^40-3]
+<sup>1</sup> Für Biozidprodukte und für Wirkstoffe zur Verwendung in Biozidprodukten müssen gegebenenfalls Sicherheitsdatenblätter sinngemäss nach den Artikeln 5 und 18–22 ChemV[^40-2] erstellt, übermittelt und aktualisiert werden; wo in der ChemV von der Herstellerin die Rede ist, ist darunter für diese Verordnung die Inhaberin der Zulassung zu verstehen.[^40-3]
 
 <sup>2</sup> Die Expositionsszenarien nach Artikel 20 Absatz 2 ChemV müssen für Wirkstoffe, die in den Listen nach Artikel 9 Absatz 1 Buchstaben a–c aufgeführt sind, nicht beigefügt werden.
 
 [^40-1]: Fassung gemäss Ziff. I der V vom 5. Juni 2015, in Kraft seit 1. Juli 2015 ([AS 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
 [^40-2]: [SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
-[^40-3]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 15. Dez. 2020 ([AS 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
+[^40-3]: Fassung gemäss Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 709](https://fedlex.data.admin.ch/eli/oc/2023/709)).
 
 #### Art. 40a
 
@@ -2053,12 +2108,12 @@ Die behandelten Waren nach Absatz 1 dürfen bis zum folgenden Zeitpunkt erstmals
 - a. bis zu dem Zeitpunkt, zu dem der letzte im Biozidprodukt enthaltene zulassungspflichtige Wirkstoff für die betreffende Produktart und Verwendung von der Europäischen Kommission genehmigt wurde;
 - b. bis 180 Tage nach der Entscheidung der Europäischen Kommission, einen der Wirkstoffe für die betreffende Verwendung nicht zu genehmigen.
 
-<sup>3</sup> Eine behandelte Ware, die mit einem oder mehreren Biozidprodukten behandelt wurde oder der ein oder mehrere Biozidprodukte absichtlich zugesetzt wurden, die einen anderen Wirkstoff als diejenigen enthalten, auf die in Absatz 1 Buchstaben a–c verwiesen wird, darf bis zum 28. Februar 2017 erstmals in Verkehr gebracht werden.[^62c-4]
+<sup>3</sup> …[^62c-4]
 
 [^62c-1]: Eingefügt durch Ziff. I der V vom 20. Juni 2014, in Kraft seit 15. Juli 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
 [^62c-2]: Fassung gemäss Ziff. I der V vom 31. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
 [^62c-3]: Fassung gemäss Ziff. I der V vom 31. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
-[^62c-4]: Fassung gemäss Ziff. I der V vom 31. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
+[^62c-4]: Aufgehoben durch Ziff. I der V vom 15. Nov. 2023, mit Wirkung seit 1. Jan. 2023 ([AS 2023 709](https://fedlex.data.admin.ch/eli/oc/2023/709)).
 
 #### Art. 62d
 
@@ -2239,7 +2294,7 @@ Anhang 5[^t-5]
 
 ## Gesuch um Zulassung Z<sub>L</sub> oder Z<sub>nL</sub>
 
-[^t-5]: Fassung gemäss Ziff. II Abs. 1 der V vom 20. Juni 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)). Bereinigt gemäss Ziff. II der V vom 5. Juni 2015, in Kraft seit 1. Juli 2015 ([AS 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
+[^t-5]: Fassung gemäss Ziff. II Abs. 1 der V vom 20. Juni 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)). Bereinigt gemäss Ziff. II der V vom 5. Juni 2015 ([AS 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)), und vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 709](https://fedlex.data.admin.ch/eli/oc/2023/709)).
 
 ### 1 Unterlagen über das Produkt und über die Wirkstoffe
 
@@ -2294,7 +2349,7 @@ Mit dem Zulassungsgesuch müssen der Anmeldestelle eingereicht werden:
 <sup>4</sup> Absatz 3 gilt nicht für Nachweise und Bestimmungen, die vor dem 1. März 2000 begonnen worden sind.
 
 [^annex5-lvlu1-lvl2-lvl23-1]: Verordnung (EG) Nr. 440/2008 der Kommission vom 30. Mai 2008 zur Festlegung von Prüfmethoden gemäss der Verordnung (EG) Nr. 1907/2006 des Europäischen Parlaments und des Rates zur Registrierung, Bewertung, Zulassung und Beschränkung chemischer Stoffe (REACH), ABl. L 142 vom 31.5.2008, S. 1; zuletzt geändert durch Verordnung (EG) Nr. 260/2014, ABl. L 81 vom 19.3.2014, S. 1.
-[^annex5-lvlu1-lvl2-lvl23-2]: Richtlinie 2010/63/EU des Europäischen Parlaments und des Rates vom 22. September 2010 zum Schutz der für wissenschaftliche Zwecke verwendeten Tiere, ABl. L 276 vom 20.10.2010, S. 33.
+[^annex5-lvlu1-lvl2-lvl23-2]: Richtlinie 2010/63/EU des Europäischen Parlaments und des Rates vom 22. September 2010 zum Schutz der für wissenschaftliche Zwecke verwendeten Tiere, Fassung gemäss ABl. L 276 vom 20.10.2010, S. 33.
 [^annex5-lvlu1-lvl2-lvl23-3]: [[AS 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466); [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152); [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73), [805](https://fedlex.data.admin.ch/eli/oc/2009/132); [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750); [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752); [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724), [6659](https://fedlex.data.admin.ch/eli/oc/2012/804); [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23), [2673](https://fedlex.data.admin.ch/eli/oc/2013/544), [3041](https://fedlex.data.admin.ch/eli/oc/2013/594)Ziff. I 3; [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Anhang 11 Ziff. 1, [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [AS 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Art. 91]. Siehe heute: die V vom 5. Juni 2015 ([SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
 
 ### 2.4 Andere Nachweis- und Bestimmungsmethoden
@@ -2395,7 +2450,7 @@ Anhang 8[^t-9]
 
 ## Gesuch um Zulassung Z<sub>N</sub>
 
-[^t-9]: Fassung gemäss Ziff. II Abs. 1 der V vom 20. Juni 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)). Bereinigt gemäss Ziff. II der V vom 5. Juni 2015, in Kraft seit 1. Juli 2015 ([AS 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)) und gemäss Berichtigung vom 17. Nov. 2015 ([AS 2015 4481](https://fedlex.data.admin.ch/eli/oc/2015/745)).
+[^t-9]: Fassung gemäss Ziff. II Abs. 1 der V vom 20. Juni 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)). Bereinigt gemäss Ziff. II der V vom 5. Juni 2015, in Kraft seit 1. Juli 2015 ([AS 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)), gemäss Berichtigung vom 17. Nov. 2015 ([AS 2015 4481](https://fedlex.data.admin.ch/eli/oc/2015/745)) und Ziff. II der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 709](https://fedlex.data.admin.ch/eli/oc/2023/709)).
 
 ### 1 Unterlagen über die Gesuchstellerin, die Herstellerin und das Produkt
 
@@ -2463,7 +2518,7 @@ Die Gesuchsunterlagen müssen folgende Angaben enthalten:
 <sup>4</sup> Absatz 3 gilt nicht für Nachweise und Bestimmungen, die vor dem 1. März 2000 begonnen worden sind.
 
 [^annex8-lvlu1-lvl3-lvl31-1]: Siehe Fussnote zu Anhang 5 Ziff. 2.3 Abs. 1.
-[^annex8-lvlu1-lvl3-lvl31-2]: Richtlinie 2010/63/EU des Europäischen Parlaments und des Rates vom 22. September 2010 zum Schutz der für wissenschaftliche Zwecke verwendeten Tiere, ABl. L 276 vom 20.10.2010, S. 33.
+[^annex8-lvlu1-lvl3-lvl31-2]: Siehe Fussnote zu Anhang 5 Ziff. 2.3 Abs. 3 Bst. a.
 [^annex8-lvlu1-lvl3-lvl31-3]: [[AS 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466); [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152); [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73), [805](https://fedlex.data.admin.ch/eli/oc/2009/132); [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750); [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752); [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724), [6659](https://fedlex.data.admin.ch/eli/oc/2012/804); [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23), [2673](https://fedlex.data.admin.ch/eli/oc/2013/544), [3041](https://fedlex.data.admin.ch/eli/oc/2013/594)Ziff. I 3; [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Anhang 11 Ziff. 1, [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [AS 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Art. 91]. Siehe heute: die V vom 5. Juni 2015 ([SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
 
 ### 3.2 Andere Nachweis- und Bestimmungsmethoden

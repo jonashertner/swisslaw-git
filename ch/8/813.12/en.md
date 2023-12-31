@@ -4,11 +4,11 @@ title: "Ordinance of 18 May 2005 on the Placing on the Market and Handling of Bi
 short: OBP
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/468"
 language: en
-version: 2023-10-01
+version: 2024-01-01
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/468/20231001/en/xml/fedlex-data-admin-ch-eli-cc-2005-468-20231001-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/468/20231001/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/468/20240101/en/xml/fedlex-data-admin-ch-eli-cc-2005-468-20240101-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/468/20240101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Ordinance on Biocidal Products, OBP)
 
-of 18 May 2005 (Status as of 1 October 2023)
+of 18 May 2005 (Status as of 1 January 2024)
 
 The Swiss Federal Council,
 
@@ -136,7 +136,7 @@ In addition, in this Ordinance:
 
   - 1\. a substance classified as dangerous or that meets the criteria to be classified as such according to Article 2 paragraph 2 in conjunction with Annex VI Numbers 2–5 of Directive 67/548/EEC[^2-4], and that is present in the biocidal product at a concentration leading the product to be classified as dangerous within the meaning of Article 1 paragraph 2 in conjunction with Articles 5, 6 and 7 of Directive 1999/45/EC[^2-5],
   - 2\. a substance classified as hazardous or that meets the criteria to be classified as such according to Article 2 paragraph 2 in conjunction with Parts 2–5 of Annex I to Regulation (EC) No 1272/2008 (CLP Regulation)[^2-6], and that is present in the biocidal product at a concentration leading the product to be regarded as hazardous within the meaning of that Regulation, or
-  - 3\. a substance which meets the criteria for being a persistent organic pollutant (POP) under Regulation (EC) No 850/2004[^2-7], or which meets the criteria for being persistent, bioaccumulative and toxic (PBT) or very persistent and very bioaccumulative (vPvB) in accordance with Annex XIII to Regulation (EC) No 1907/2006 (REACH Regulation)[^2-8];
+  - 3\.[^2-7] a substance which meets the criteria for being a persistent organic pollutant (POP) under Regulation (EC) No 850/2004[^2-8], or which meets the criteria for being persistent, bioaccumulative and toxic (PBT) or very persistent and very bioaccumulative (vPvB) in accordance with Annex XIII to Regulation (EC) No 1907/2006 (REACH Regulation)[^2-9];
 
 - b.
 
@@ -153,9 +153,9 @@ In addition, in this Ordinance:
 - e. *letter of access* means a document, signed by the person authorised to use protected data, which states that the data may be used by the Notification Authority and, if necessary, by the competent authority of a state party for the purpose of granting an authorisation of a biocidal product;
 - f. *existing active substance* means a substance which was on the market on 14 May 2000 as an active substance of a biocidal product for purposes other than scientific or product and process-orientated research and development;
 - g. *new active substance* means an active substance of a biocidal product which is not an existing active substance;
-- h. *active substance which is a candidate for substitution* means an active substance which meets the criteria specified in Article 10 paragraph 1 of Regulation (EU) No 528/2012[^2-9];
+- h. *active substance which is a candidate for substitution* means an active substance which meets the criteria specified in Article 10 paragraph 1 of Regulation (EU) No 528/2012[^2-10];
 - i. *residue* means a substance present in or on products of plant or animal origin, water resources, drinking water, food, feed or elsewhere in the environment and resulting from the use of a biocidal product, including such a substance’s metabolites, breakdown or reaction products;
-- j[^2-10] *treated article* means a substance, preparation or object which does not have a primary biocidal function, but which has been treated with, or intentionally incorporates, one or more biocidal products;
+- j[^2-11] *treated article* means a substance, preparation or object which does not have a primary biocidal function, but which has been treated with, or intentionally incorporates, one or more biocidal products;
 - k. *national authorisation* means an authorisation granted by the competent authority of an EU or EFTA Member State for the placing on the market of a biocidal product in its territory;
 - l. *Union authorisation* means an authorisation granted by the European Commission for the placing on the market of a biocidal product in the territory of the EU;
 - m.
@@ -171,16 +171,16 @@ In addition, in this Ordinance:
 
 <sup>3</sup>
 
-The following terms are to be understood as defined in Article 2 of the Chemicals Ordinance of 18 May 2005[^2-11] (ChemO):
+The following terms are to be understood as defined in Article 2 of the Chemicals Ordinance of 18 May 2005[^2-12] (ChemO):
 
 - a. substance;
 - b. object;
 - c. product and process-orientated research and development;
 - d. scientific research and development.
 
-<sup>4</sup> The correspondence of expressions between Regulation (EU) No 528/2012 and this Ordinance set out in Annex 3 Number 1 applies.[^2-12]
+<sup>4</sup> The correspondence of expressions between Regulation (EU) No 528/2012 and this Ordinance set out in Annex 3 Number 1 applies.[^2-13]
 
-<sup>4bis</sup> Where reference is made in this Ordinance to provisions of Regulation (EU) No 528/ 2012 which themselves refer to other provisions of EU law, the Swiss law in Annex 3 Number 2 applies instead of that EU law.[^2-13]
+<sup>4bis</sup> Where reference is made in this Ordinance to provisions of Regulation (EU) No 528/ 2012 which themselves refer to other provisions of EU law, the Swiss law in Annex 3 Number 2 applies instead of that EU law.[^2-14]
 
 <sup>5</sup> Any other terms which are used in various senses in the legislation underlying this Ordinance are used here as defined in the ChemA.
 
@@ -190,13 +190,42 @@ The following terms are to be understood as defined in Article 2 of the Chemical
 [^2-4]: Council Directive 67/548/EEC of 27 June 1967 on the approximation of laws, regulations and administrative provisions relating to the classification, packaging and labelling of dangerous substances, OJ L 196 of 16 August 1967, p. 1; last amended by Directive 2013/21/EU, OJ L 158 of 10 June 2013, p. 240.
 [^2-5]: Directive 1999/45/EC of the European Parliament and of the Council of 31 May 1999 concerning the approximation of the laws, regulations and administrative provisions of the Member States relating to the classification, packaging and labelling of dangerous preparations, OJ L 200 of 30 July 1999, p. 1; last amended by Directive 2013/21/EU, OJ L 158 of 10 June 2013, p. 240.
 [^2-6]: Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives 67/548/EEC and 1999/45/EC and amending Regulation (EC) No 1907/2006, OJ L 353 of 31 December 2008, p. 1; last amended by Regulation (EU) No 944/2013, OJ L 261 of 3 October 2013, p. 5.
-[^2-7]: Regulation (EC) No 850/2004 of the European Parliament and of the Council of 29 April 2004 on persistent organic pollutants and amending Directive 79/117/EEC, last amended by Regulation (EU) No 519/2012, OJ L 159 of 20 June 2012, p. 1.
-[^2-8]: Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending Directive 1999/45/EC and repealing Council Regulation (EEC) No 793/93 and Commission Regulation (EC) No 1488/94 as well as Council Directive 76/769/EEC and Commission Directives 91/155/EEC, 93/67/EEC, 93/105/EC and 2000/21/EC, OJ L 396 of 30 December 2006, p. 1; last amended by Regulation (EU) No 474/2014, OJ L 136 of 9 May 2014, p. 19.
-[^2-9]: See footnote to Art. 1*b* para. 3.
-[^2-10]: Amended by No I of the O of 31 Jan. 2018, in force since 1 March 2018 ([AS 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
-[^2-11]: [[AS 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466); [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152); [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73), [805](https://fedlex.data.admin.ch/eli/oc/2009/132); [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750); [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752); [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724), [6659](https://fedlex.data.admin.ch/eli/oc/2012/804); [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23), [2673](https://fedlex.data.admin.ch/eli/oc/2013/544), [3041](https://fedlex.data.admin.ch/eli/oc/2013/594)No I 3; [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Annex 11 No 1, [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [AS 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Art. 91]. See now: the O of 5 June 2015 ([SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
-[^2-12]: Amended by No I of the O of 31 Jan. 2018, in force since 1 March 2018 ([AS 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
-[^2-13]: Inserted by No I of the O of 31 Jan. 2018, in force since 1 March 2018 ([AS 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
+[^2-7]: Amended by No I of the O of 15 Nov. 2023, in force since 1 Jan. 2024 ([AS 2023 709](https://fedlex.data.admin.ch/eli/oc/2023/709)).
+[^2-8]: Regulation (EC) No 850/2004 of the European Parliament and of the Council of 29 April 2004 on persistent organic pollutants and amending Directive 79/117/EEC, OJ. L 158 of 30.4.2004, p. 7, last amended by Regulation (EU) No 519/2012, OJ L 159 of 20 June 2012, p. 1.
+[^2-9]: Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending Directive 1999/45/EC and repealing Council Regulation (EEC) No 793/93 and Commission Regulation (EC) No 1488/94 as well as Council Directive 76/769/EEC and Commission Directives 91/155/EEC, 93/67/EEC, 93/105/EC and 2000/21/EC, OJ L 396 of 30 December 2006, p. 1; last amended by Regulation (EU) No 474/2014, OJ L 136 of 9 May 2014, p. 19.
+[^2-10]: See footnote to Art. 1*b* para. 3.
+[^2-11]: Amended by No I of the O of 31 Jan. 2018, in force since 1 March 2018 ([AS 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
+[^2-12]: [[AS 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466); [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152); [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73), [805](https://fedlex.data.admin.ch/eli/oc/2009/132); [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750); [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752); [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724), [6659](https://fedlex.data.admin.ch/eli/oc/2012/804); [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23), [2673](https://fedlex.data.admin.ch/eli/oc/2013/544), [3041](https://fedlex.data.admin.ch/eli/oc/2013/594)No I 3; [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Annex 11 No 1, [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [AS 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Art. 91]. See now: the O of 5 June 2015 ([SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
+[^2-13]: Amended by No I of the O of 31 Jan. 2018, in force since 1 March 2018 ([AS 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
+[^2-14]: Inserted by No I of the O of 31 Jan. 2018, in force since 1 March 2018 ([AS 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
+
+## Chapter 1*a* Indicators of Environmental Risks due to the Use of Biocidal Products in accordance with Article 25*a* ChemA
+
+[^chap1a-1]
+
+[^chap1a-1]: Inserted by No I of the O of 15 Nov. 2023, in force since 1 Jan. 2024 ([AS 2023 709](https://fedlex.data.admin.ch/eli/oc/2023/709)).
+
+#### Art. 2a
+
+<sup>1</sup> The release of active substances of product types 7, 8, 10, 18 and 21 in accordance with Annex 10 into drinking water, surface waters and groundwater shall constitute a potential significant risk.
+
+<sup>2</sup>
+
+The aim is to ensure that the concentrations of active substances in accordance with paragraph 1 measured in waters do not exceed the following limits:
+
+- a. for active substances or their breakdown products in waters that are used or intended to be used for drinking water: 0.1 μg/l;
+- b.
+
+  for active substances in surface waters:
+
+  - 1\. the limits in accordance with Annex 2 Section 11 paragraph 3 number 4 of the Waters Protection Ordinance of 28. Oktober 1998[^2a-1] (WPO) (ecotoxicological limits), or
+  - 2\. if the active substance is not listed in Annex 2 WPO: the concentration specified on approval below which no effect on aquatic organisms is expected.
+
+<sup>3</sup> The FOEN shall ascertain the extent to which the aim has been achieved with the aid of indicators.
+
+<sup>4</sup> For this purpose, it shall each year use the available measurement data to calculate for each active substance in accordance with paragraph 1 the ratio of the number of waters analysed in which an exceedance has been measured to the total number of waters analysed.
+
+[^2a-1]: [SR 814.201](https://fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863)
 
 ## Chapter 2 Conditions for Placing on the Market
 
@@ -231,7 +260,7 @@ The following biocidal products may be placed on the market or used professional
 [^3-3]: [SR 814.912](https://fedlex.data.admin.ch/eli/cc/2012/329)
 [^3-4]: [SR 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
 [^3-5]: [SR 451.61](https://fedlex.data.admin.ch/eli/cc/2016/39)
-[^3-6]: Inserted by Annexe No 3 of the Nagoya Ordinance of 11 Dec. 2015, in force since 1 Feb. 2016 ([AS 2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)).
+[^3-6]: Inserted by Annex No 3 of the Nagoya Ordinance of 11 Dec. 2015, in force since 1 Feb. 2016 ([AS 2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)).
 
 #### Art. 4
 
@@ -535,7 +564,7 @@ A biocidal product shall not be authorised for placing on the market for use by 
 
 - a.
 
-  it has properties meeting the criteria specified in the CLP Regulation[^11d-2] and is classified as:
+  it meets the criteria of the CLP Regulation[^11d-2] in order to be classified as follows:[^11d-3]
 
   - 1\. acute oral toxicity category 1, 2 or 3,
   - 2\. acute dermal toxicity category 1, 2 or 3,
@@ -546,14 +575,16 @@ A biocidal product shall not be authorised for placing on the market for use by 
   - 7\. a category 1A or 1B mutagen, or
   - 8\. toxic for reproduction category 1A or 1B;
 
-- b. it consists of, contains or generates a substance with properties meeting the criteria for being PBT or vPvB in accordance with Annex XIII to the REACH Regulation[^11d-3];
-- c. it has endocrine-disrupting properties meeting the criteria specified in Delegated Regulation (EU) 2017/2100[^11d-4]; or
+- b. it consists of, contains or generates a substance with properties meeting the criteria for being PBT or vPvB in accordance with Annex XIII to the REACH Regulation[^11d-4];
+- c.[^11d-5] it has endocrine-disrupting properties meeting the criteria specified in Delegated Regulation (EU) 2017/2100[^11d-6]; or
 - d. it has developmental neurotoxic or immunotoxic effects.
 
 [^11d-1]: Inserted by No I of the O of 20 June 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)). Amended by No I of the O of 31 Jan. 2018, in force since 1 March 2018 ([AS 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
 [^11d-2]: See footnote to Art. 2 para. 2 let. a No 2.
-[^11d-3]: Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending Directive 1999/45/EC and repealing Council Regulation (EEC) No 793/93 and Commission Regulation (EC) No 1488/94 as well as Council Directive 76/769/EEC and Commission Directives 91/155/EEC, 93/67/EEC, 93/105/EC and 2000/21/EC, OJ L 396 of 30 December 2006, p. 1; last amended by Regulation (EU) No 2015/830, OJ L 132 of 29 May 2015, p. 8.
-[^11d-4]: Commission Delegated Regulation (EU) 2017/2100 of 4 September 2017 setting out scientific criteria for the determination of endocrine-disrupting properties pursuant to Regulation (EU) No 528/2012 of the European Parliament and Council, amended by OJ L 301 of 17.11.2017, p. 1.
+[^11d-3]: Amended by No I of the O of 15 Nov. 2023, in force since 1 Jan. 2024 ([AS 2023 709](https://fedlex.data.admin.ch/eli/oc/2023/709)).
+[^11d-4]: Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending Directive 1999/45/EC and repealing Council Regulation (EEC) No 793/93 and Commission Regulation (EC) No 1488/94 as well as Council Directive 76/769/EEC and Commission Directives 91/155/EEC, 93/67/EEC, 93/105/EC and 2000/21/EC, OJ L 396 of 30 December 2006, p. 1; last amended by Regulation (EU) No 2015/830, OJ L 132 of 29 May 2015, p. 8.
+[^11d-5]: Amended by No I of the O of 15 Nov. 2023, in force since 1 Jan. 2024 ([AS 2023 709](https://fedlex.data.admin.ch/eli/oc/2023/709)).
+[^11d-6]: Commission Delegated Regulation (EU) 2017/2100 of 4 September 2017 setting out scientific criteria for the determination of endocrine-disrupting properties pursuant to Regulation (EU) No 528/2012 of the European Parliament and Council, amended by OJ L 301 of 17.11.2017, p. 1.
 
 #### Art. 11e
 
@@ -909,11 +940,11 @@ The assessment authorities shall evaluate the documents within their area of res
 
 - a. documents for A<sub>L</sub> and A<sub>nL</sub> authorisations and simplified authorisations, and for recognitions: according to the principles specified in Annex VI to Regulation (EU) No 528/2012[^17-1];
 - b. documents for the evaluation of Union authorisations that are submitted to the Notification Authority on the basis of international agreement: under the provisions of Articles 43–46 of Regulation (EU) No 528/2012 and Implementing Regulation (EU) No 354/2013[^17-2]; this also applies to the evaluation of amendments and extensions to Union authorisations;
-- c. documents for die evaluation of an active substance that are submitted to the Notification Authority on the basis of international agreement: under the provisions of Chapters II and III of Regulation (EU) No 528/2012 and Chapter II of Delegated Regulation (EU) No 1062/2014[^17-3];
-- c<sup>bis</sup>.[^17-4] documents for Z<sub>N</sub> authorisations: from the point of view of whether the active substance is suitable for the use and product type applied for; in the event of increased risk or in other justified cases, an assessment shall be carried out in accordance with letter d;
-- d. other documents: according to the latest scientific and technical knowledge.[^17-5]
+- c.[^17-3] documents for the evaluation of an active substance that are submitted to the Notification Authority on the basis of international agreement: under the provisions of Chapters II and III of Regulation (EU) No 528/2012 and Chapter II of Delegated Regulation (EU) No 1062/2014[^17-4]; the foregoing also applies when evaluating the extension of the approval of an active substance;
+- c<sup>bis</sup>.[^17-5] documents for Z<sub>N</sub> authorisations: from the point of view of whether the active substance is suitable for the use and product type applied for; in the event of increased risk or in other justified cases, an assessment shall be carried out in accordance with letter d;
+- d. other documents: according to the latest scientific and technical knowledge.[^17-6]
 
-<sup>2</sup> ...[^17-6]
+<sup>2</sup> ...[^17-7]
 
 <sup>3</sup> For biocidal products containing an active substance which is a candidate for substitution, the assessment authorities shall perform a comparative assessment as specified in Article 11g.
 
@@ -927,10 +958,11 @@ The assessment authorities shall evaluate the documents within their area of res
 
 [^17-1]: See footnote to Art. 1*b* para. 3.
 [^17-2]: Commission Implementing Regulation (EU) No 354/2013 of 18 April 2013 on changes of biocidal products authorised in accordance with Regulation (EU) No 528/2012 of the European Parliament and of the Council, Amended by OJ L 109 of 19.4.2013, p. 4.
-[^17-3]: Commission Delegated Regulation (EU) No 1062/2014 of 4 August 2014 on the work programme for the systematic examination of existing active substances contained in biocidal products referred to in Regulation (EU) No 528/2012 of the European Parliament and of the Council, OJ L 294 of 10.10.2014, p. 1.
-[^17-4]: Inserted by No I of the O of 18 Nov. 2020, in force since 15 Dec. 2020 ([AS 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
-[^17-5]: Amended by No I of the O of 31 Jan. 2018, in force since 1 March 2018 ([AS 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
-[^17-6]: Repealed by No I of the O of 31 Jan. 2018, with effect from 1 March 2018 ([AS 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
+[^17-3]: Amended by No I of the O of 15 Nov. 2023, in force since 1 Jan. 2024 ([AS 2023 709](https://fedlex.data.admin.ch/eli/oc/2023/709)).
+[^17-4]: Commission Delegated Regulation (EU) No 1062/2014 of 4 August 2014 on the work programme for the systematic examination of existing active substances contained in biocidal products referred to in Regulation (EU) No 528/2012 of the European Parliament and of the Council, OJ L 294 of 10.10.2014, p. 1.
+[^17-5]: Inserted by No I of the O of 18 Nov. 2020, in force since 15 Dec. 2020 ([AS 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
+[^17-6]: Amended by No I of the O of 31 Jan. 2018, in force since 1 March 2018 ([AS 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
+[^17-7]: Repealed by No I of the O of 31 Jan. 2018, with effect from 1 March 2018 ([AS 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
 
 #### Art. 18
 
@@ -1084,6 +1116,7 @@ The Notification Authority, in consultation with the assessment authorities, sha
 - a.[^24-1] the conditions for authorisation specified in Article 11 or 11*b* or in Section 3 are no longer met;
 - b. the authorisation was granted on the basis of false or misleading information;
 - c. after the authorisation was granted, the holder failed to comply with the obligations arising from this Ordinance.
+- d.[^24-2] a review in accordance with Article 9 paragraph 3 of the Waters Protection Act of 24 January 1991[^24-3] indicates that an amendment is required in order that the limits specified are no longer repeatedly and widely exceeded.
 
 <sup>2</sup>
 
@@ -1093,10 +1126,12 @@ It shall amend an authorisation at the reasoned request of the authorisation hol
 - b. minor change: under a procedure with a reduced evaluation period;
 - c. major change: under a procedure with an evaluation period proportionate to the extent of the proposed change.
 
-<sup>3</sup> The FDHA, in consultation with DETEC and the EAER, shall specify the details of the procedures referred to in paragraph 2; in so doing, it shall take into consideration the implementing act adopted by the European Commission in accordance with Article 51 of Regulation (EU) No 528/2012[^24-2].
+<sup>3</sup> The FDHA, in consultation with DETEC and the EAER, shall specify the details of the procedures referred to in paragraph 2; in so doing, it shall take into consideration the implementing act adopted by the European Commission in accordance with Article 51 of Regulation (EU) No 528/2012[^24-4].
 
 [^24-1]: Amended by No I of the O of 5 June 2015, in force since 1 July 2015 ([AS 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
-[^24-2]: See footnote to Art. 1*b* para. 3.
+[^24-2]: Inserted by No I of the O of 15 Nov. 2023, in force since 1 Jan. 2024 ([AS 2023 709](https://fedlex.data.admin.ch/eli/oc/2023/709)).
+[^24-3]: [SR 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
+[^24-4]: See footnote to Art. 1*b* para. 3.
 
 #### Art. 25
 
@@ -1352,6 +1387,26 @@ The Notification Authority may in agreement with the assessment authorities prov
 
 Where it is essential for the protection of cultural heritage and if there is no suitable alterative available, the Notification Authority may in agreement with the assessment authorities authorise a biocidal product that contains an active substance that has not been approved.
 
+## Chapter 2*a* Declaration Requirement for Quantities of Biocidal Products placed on the Market
+
+[^chap2a-1]
+
+[^chap2a-1]: Inserted by No I of the O of 15 Nov. 2023, in force since 1 Jan. 2024 ([AS 2023 709](https://fedlex.data.admin.ch/eli/oc/2023/709)).
+
+#### Art. 30c
+
+<sup>1</sup>
+
+Any person who places a biocidal product on the market for the first time must declare the following data to the Notification Authority for each year by 31 May of the following year at the latest:
+
+- a. name, address, email address and telephone number;
+- b. trade name and Swiss authorisation number for the biocidal product;
+- c. quantity placed on the market;
+- d. the active substances that the biocidal product contains and their concentration;
+- e. the product type of the biocidal product in accordance with Annex 10.
+
+<sup>2</sup> The declaration must be made in the electronic format stipulated by the Notification Authority.
+
 ## Chapter 3 Treated Articles
 
 [^chap3-1]
@@ -1593,15 +1648,15 @@ Where this is necessary because of the size or the function of the biocidal prod
 [^38-6]: Amended by No I of the O of 5 June 2015, in force since 1 July 2015 ([AS 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
 [^38-7]: Directive 2000/54/EC of the European Parliament and of the Council of 18 September 2000 on the protection of workers from risks related to exposure to biological agents at work, OJ L 262 of 17 October 2000, p. 21.
 [^38-8]: Amended by No I of the O of 18 Nov. 2020, in force since 15 Dec. 2020 ([AS 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
-[^38-9]: Repealed by No I of the O of 5 June 2015,with effect from 1 July 2015 ([AS 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
+[^38-9]: Repealed by No I of the O of 5 June 2015, with effect from 1 July 2015 ([AS 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
 
 #### Art. 38a
 
 **Labelling of specific biocidal products classified as dangerous**[^38a-1]
 
-Where an authorisation holder places a biocidal product on the market that is classified as dangerous within the meaning of Article 3 ChemO[^38a-2] because of the physical or health hazards it presents, it must not only indicate the information in accordance with Article 38 paragraphs 2–4 but also the UFI in accordance with the provisions of Article 15*a* paragraphs 3 and 4 ChemO.
+Where a biocidal product is placed on the market that is classified as dangerous within the meaning of Article 3 ChemO[^38a-2] because of the physical or health hazards it presents, the authorisation holder must not only indicate the information in accordance with Article 38 paragraphs 2–4 but also the UFI in accordance with the provisions of Article 15*a* paragraphs 3 and 4 ChemO.
 
-[^38a-1]: Inserted by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2022 ([AS 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
+[^38a-1]: Inserted by No I of the O of 18 Nov. 2020 ([AS 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)). Amended by No I of the O of 15 Nov. 2023, in force since 1 Jan. 2024 ([AS 2023 709](https://fedlex.data.admin.ch/eli/oc/2023/709)).
 [^38a-2]: [SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
 
 #### Art. 39
@@ -1628,13 +1683,13 @@ One of the following descriptions must be used for the labelling:
 
 **Safety data sheet**[^40-1]
 
-<sup>1</sup> For biocidal products and for active substances for use in biocidal products, safety data sheets must be compiled, provided and updated in accordance with Articles 5 and 18–22 of the ChemO[^40-2] *mutatis mutandis*; where the ChemO refers to the manufacturer, this shall be understood for the purposes of this Ordinance as the authorisation holder.[^40-3]
+<sup>1</sup> For biocidal products and for active substances for use in biocidal products, safety data sheets must, if applicable, be compiled, provided and updated in accordance with Articles 5 and 18–22 of the ChemO[^40-2] *mutatis mutandis*; where the ChemO refers to the manufacturer, this shall be understood for the purposes of this Ordinance as the authorisation holder.[^40-3]
 
 <sup>2</sup> For active substances included in the lists specified in Article 9 paragraph 1 letters a–c, the exposure scenarios referred to in Article 20 paragraph 2 of the ChemO need not be attached.
 
 [^40-1]: Amended by No I of the O of 5 June 2015, in force since 1 July 2015 ([AS 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
 [^40-2]: [SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
-[^40-3]: Amended by No I of the O of 18 Nov. 2020, in force since 15 Dec. 2020 ([AS 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
+[^40-3]: Amended by No I of the O of 15 Nov. 2023, in force since 1 Jan. 2024 ([AS 2023 709](https://fedlex.data.admin.ch/eli/oc/2023/709)).
 
 #### Art. 40a
 
@@ -2030,7 +2085,7 @@ The risk assessment of the active substance in the biocidal product for which an
 
 [^62a62b-1]
 
-[^62a62b-1]: Inserted by No I of the O of 20 June 20142014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)). Repealed by No I of the O of 18 Nov. 2020, with effect from 15 Dec. 2020 ([AS 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
+[^62a62b-1]: Inserted by No I of the O of 20 June 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)). Repealed by No I of the O of 18 Nov. 2020, with effect from 15 Dec. 2020 ([AS 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
 
 #### Art. 62c
 
@@ -2051,12 +2106,12 @@ The treated articles specified in paragraph 1 may be placed on the market for th
 - a. the date on which approval is granted by the European Commission for the relevant product type and use of the last active substance which is to be authorised and is contained in the biocidal product;
 - b. the date falling 180 days after a decision by the European Commission not to approve one of the active substances for the relevant use.
 
-<sup>3</sup> A treated article treated with or intentionally incorporating one or more biocidal products containing any active substances other than those referred to in paragraph 1 letters a–c may be placed on the market for the first time until 28 February 2017.[^62c-4]
+<sup>3</sup> …[^62c-4]
 
 [^62c-1]: Inserted by No I of the O of 20 June 2014, in force since 15 July 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
 [^62c-2]: Amended by No I of the O of 31 Jan. 2018, in force since 1 March 2018 ([AS 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
 [^62c-3]: Amended by No I of the O of 31 Jan. 2018, in force since 1 March 2018 ([AS 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
-[^62c-4]: Amended by No I of the O of 31 Jan. 2018, in force since 1 March 2018 ([AS 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
+[^62c-4]: Repealed by No I of the O of 15 Nov. 2023, with effect from 1 Jan. 2023 ([AS 2023 709](https://fedlex.data.admin.ch/eli/oc/2023/709)).
 
 #### Art. 62d
 
@@ -2207,7 +2262,7 @@ Annex 5[^t-5]
 
 ## Application for authorisation A<sub>L</sub> or A<sub>nL</sub>
 
-[^t-5]: Amended by No II para. 1 of the O of 20 June 2014, ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)). Revised in accordance with No II of the O of 5 June 2015, in force since 1 July 2015 ([AS 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
+[^t-5]: Amended by No II para. 1 of the O of 20 June 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)). Revised by No II of the O of 5 June 2015 ([AS 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)) and of 15 Nov. 2023, in force since 1 Jan. 2024 ([AS 2023 709](https://fedlex.data.admin.ch/eli/oc/2023/709)).
 
 ### 1 Documents concerning the product and the active substances
 
@@ -2262,7 +2317,7 @@ The following must be submitted to the Notification Authority together with the 
 <sup>4</sup> Paragraph 3 does not apply to detection and identification tests which were started before 1 March 2000.
 
 [^annex5-lvlu1-lvl2-lvl23-1]: Commission Regulation (EC) No 440/2008 of 30 May 2008 laying down test methods pursuant to Regulation (EC) No 1907/2006 of the European Parliament and of the Council on the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), OJ L 142 of 31 May 2008, p. 1; last amended by Regulation (EC) No 260/2014, OJ L 81 of 19 March 2014, p. 1.
-[^annex5-lvlu1-lvl2-lvl23-2]: Directive 2010/63/EU of the European Parliament and of the Council of 22 September 2010 on the protection of animals used for scientific purposes, OJ L 276 of 20 October 2010, p. 33.
+[^annex5-lvlu1-lvl2-lvl23-2]: Directive 2010/63/EU of the European Parliament and of the Council of 22 September 2010 on the protection of animals used for scientific purposes, last amended by OJ L 276 of 20 October 2010, p. 33.
 [^annex5-lvlu1-lvl2-lvl23-3]: [[AS 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466); [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152); [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73), [805](https://fedlex.data.admin.ch/eli/oc/2009/132); [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750); [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752); [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724), [6659](https://fedlex.data.admin.ch/eli/oc/2012/804); [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23), [2673](https://fedlex.data.admin.ch/eli/oc/2013/544), [3041](https://fedlex.data.admin.ch/eli/oc/2013/594)No I 3; [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Annex 11 No 1, [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [AS 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Art. 91]. See now: the O of 5 June 2015 ([SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
 
 ### 2.4 Other methods of detection and identification
@@ -2363,7 +2418,7 @@ Annex 8[^t-9]
 
 ## Application for authorisation A<sub>N</sub>
 
-[^t-9]: Amended by No II para. 1 of the O of 20 June 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)). Revised in accordance with No II of the O of 5 June 2015, in force since 1 July 2015 ([AS 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)) and the correction of 17 Nov. 2015 ([AS 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
+[^t-9]: Amended by No II para. 1 of the O of 20 June 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)). Revised by No II of the O of 5 June 2015 ([AS 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)), the correction of 17 Nov. 2015 ([AS 2015 4481](https://fedlex.data.admin.ch/eli/oc/2015/745)) and No II of the O of 15 Nov. 2023, in force since 1 Jan. 2024 ([AS 2023 709](https://fedlex.data.admin.ch/eli/oc/2023/709)).
 
 ### 1 Documents concerning the applicant, the manufacturer and the product
 
@@ -2431,7 +2486,7 @@ The application documents must contain the following details:
 <sup>4</sup> Paragraph 3 does not apply to detection and identification tests which were started before 1 March 2000.
 
 [^annex8-lvlu1-lvl3-lvl31-1]: See footnote to Annex 5 No 2.3 para. 1.
-[^annex8-lvlu1-lvl3-lvl31-2]: Directive 2010/63/EU of the European Parliament and of the Council of 22 September 2010 on the protection of animals used for scientific purposes, OJ L 276 of 20 October 2010, p. 33.
+[^annex8-lvlu1-lvl3-lvl31-2]: See footnote to Annex 5 No 2.3 para. 3 let. a.
 [^annex8-lvlu1-lvl3-lvl31-3]: [[AS 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466); [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152); [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73), [805](https://fedlex.data.admin.ch/eli/oc/2009/132); [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750); [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752); [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724), [6659](https://fedlex.data.admin.ch/eli/oc/2012/804); [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23), [2673](https://fedlex.data.admin.ch/eli/oc/2013/544), [3041](https://fedlex.data.admin.ch/eli/oc/2013/594)No I 3; [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Annex 11 No 1, [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [AS 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Art. 91]. See now: the O of 5 June 2015 ([SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
 
 ### 3.2 Other methods of detection and identification
