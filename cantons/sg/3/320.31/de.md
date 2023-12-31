@@ -3,20 +3,20 @@ canton: SG
 number: "320.31"
 title: Taxordnung des Kantonsspitals St.Gallen
 language: de
-version: 2022-09-01
-valid_until: 2023-12-31
-version_adopted: 2022-07-06
+version: 2024-01-01
+valid_until: 2024-12-31
+version_adopted: 2023-12-14
 adopted: 2016-12-15
 in_force: 2017-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/320.31"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3390/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3572/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Taxordnung des Kantonsspitals St.Gallen
 
-vom 15.12.2016 (Stand 01.09.2022)
+vom 15.12.2016 (Stand 01.01.2024)
 
 Der Verwaltungsrat der Spitalverbunde
 
@@ -41,9 +41,9 @@ als Taxordnung:[^ingress-2]
 
 **Taxtarif**
 
-<sup>1</sup> Der Verwaltungsrat der Spitalverbunde erlässt gestützt auf diesen Erlass je einen Taxtarif für das Kantonsspital St.Gallen, das Institut für Rechtsmedizin am Kantonsspital St.Gallen und die Rettung St.Gallen, welche die jeweils gültigen betragsmässigen Preise und Abrechnungsregeln enthalten.
+<sup>1</sup> Der Verwaltungsrat der Spitalverbunde erlässt gestützt auf diesen Erlass je einen Taxtarif für das Kantonsspital St.Gallen, das Institut für Rechtsmedizin am Kantonsspital St.Gallen und die Rettung St.Gallen AG, welche die jeweils gültigen betragsmässigen Preise und Abrechnungsregeln enthalten.
 
-<sup>2</sup> Die Preise für Leistungen, für welche der Taxtarif Rettung St.Gallen keine Regelung trifft, werden durch die in der Rettung St.Gallen zusammenarbeitenden Spitalverbunde mit den Leistungsempfängern oder Garanten durch Vereinbarung geregelt (z.B. für Nonmedical-Einsätze, Seniorennotruf, Pistenrettung, Sonderfahrten, Rückholungen aus dem Ausland usw.).
+<sup>2</sup> Die Preise für Leistungen, für welche der Taxtarif Rettung St.Gallen AG keine Regelung trifft, werden durch die Rettung St.Gallen AG mit den Leistungsempfängern oder Garanten durch Vereinbarung geregelt.
 
 <sup>3</sup> Für Leistungen eines Rettungsdienstes mit von einem Spitalverbund delegierten Leistungsauftrag für das Versorgungsgebiet der vier Spitalverbunde des Kantons St.Gallen wird der jeweilige Tarif des entsprechenden Rettungsdienstes, der die Leistung erbringt, angewendet.
 
