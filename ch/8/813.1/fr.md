@@ -4,11 +4,11 @@ title: "Loi fédérale du 15 décembre 2000 sur la protection contre les substan
 short: LChim
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/724"
 language: fr
-version: 2023-07-01
+version: 2024-01-01
 adopted: 2000-12-15
 in_force: 2005-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/724/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-2004-724-20230701-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/724/20230701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/724/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2004-724-20240101-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/724/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/724/20230701/fr"
 
 (Loi sur les produits chimiques, LChim)
 
-du 15 décembre 2000 (État le 1<sup>er</sup> juillet 2023)
+du 15 décembre 2000 (État le 1<sup>er</sup> janvier 2024)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -182,6 +182,16 @@ L’autorisation de mise sur le marché est octroyée si, pour l’usage prévu,
 <sup>3</sup> L’autorisation de mise sur le marché peut être refusée ou révoquée si les risques pour la santé suscitent des craintes et s’il existe un autre principe actif, autorisé pour le même type de produit biocide, qui présente un risque considérablement plus faible pour la santé et ne présente pas de désavantages importants pour l’usager sur les plans économique et pratique.
 
 <sup>4</sup> Le Conseil fédéral détermine les types et les procédures d’autorisation, ainsi que les dérogations au régime de l’autorisation applicables aux produits biocides. L’autorisation de mise sur le marché a une durée limitée.
+
+#### Art. 10a
+
+**Obligation de communiquer concernant les produits biocides**[^10a-1]
+
+<sup>1</sup> Quiconque met sur le marché des produits biocides est tenu de communiquer à ce propos des données à la Confédération.
+
+<sup>2</sup> Le Conseil fédéral règle en particulier quelles données sont à saisir et à quelle instance elles doivent être communiquées.
+
+[^10a-1]: Introduit par le ch. I 1 de la LF du 19 mars 2021 sur la réduction des risques liés à l’utilisation de pesticides, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 263](https://fedlex.data.admin.ch/eli/oc/2022/263); [2023 708](https://fedlex.data.admin.ch/eli/oc/2023/708); [FF 2020 6323](https://fedlex.data.admin.ch/eli/fga/2020/1667), [6569](https://fedlex.data.admin.ch/eli/fga/2020/1771)).
 
 #### Art. 11
 
@@ -358,6 +368,22 @@ Le Conseil fédéral édicte des dispositions réglant la procédure à suivre e
 
 [^25-1]: [RS 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
 [^25-2]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+
+#### Art. 25a
+
+**Réduction des risques liés à l’utilisation de produits biocides**[^25a-1]
+
+<sup>1</sup> Les risques pour l’être humain, les animaux et l’environnement liés à l’utilisation de produits biocides doivent être réduits et la qualité de l’eau potable, des eaux de surface et des eaux souterraines doit être améliorée.
+
+<sup>2</sup>
+
+Le Conseil fédéral définit jusqu’en 2023:
+
+- a. les domaines à risque;
+- b. les objectifs de réduction des risques non acceptables dans ces domaines à risque;
+- c. la méthode selon laquelle la réalisation des objectifs est calculée.
+
+[^25a-1]: Introduit par le ch. I 1 de la LF du 19 mars 2021 sur la réduction des risques liés à l’utilisation de pesticides, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 263](https://fedlex.data.admin.ch/eli/oc/2022/263); [2023 708](https://fedlex.data.admin.ch/eli/oc/2023/708); [FF 2020 6323](https://fedlex.data.admin.ch/eli/fga/2020/1667), [6569](https://fedlex.data.admin.ch/eli/fga/2020/1771)).
 
 ## Chapitre 4 Documentation et information
 

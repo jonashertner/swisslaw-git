@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 15. Dezember 2000 über den Schutz vor gefährlichen St
 short: ChemG
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/724"
 language: de
-version: 2023-07-01
+version: 2024-01-01
 adopted: 2000-12-15
 in_force: 2005-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/724/20230701/de/xml/fedlex-data-admin-ch-eli-cc-2004-724-20230701-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/724/20230701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/724/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2004-724-20240101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/724/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/724/20230701/de"
 
 (Chemikaliengesetz, ChemG)
 
-vom 15. Dezember 2000 (Stand am 1. Juli 2023)
+vom 15. Dezember 2000 (Stand am 1. Januar 2024)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -182,6 +182,16 @@ Ein Biozidprodukt wird zugelassen, wenn es bei der vorgesehenen Verwendung insbe
 <sup>3</sup> Die Zulassung kann verweigert oder widerrufen werden, wenn die Risiken für die Gesundheit Anlass zur Besorgnis geben und wenn für dieselbe Art von Biozidprodukten ein anderer Wirkstoff zugelassen ist, von dem ein erheblich geringeres Risiko für die Gesundheit ausgeht und der für den Benutzer oder die Benutzerin keine wesentlichen wirtschaftlichen und praktischen Nachteile mit sich bringt.
 
 <sup>4</sup> Der Bundesrat legt die Zulassungsarten und -verfahren sowie die Ausnahmen von der Zulassungspflicht für Biozidprodukte fest. Die Zulassungen sind befristet.
+
+#### Art. 10a
+
+**Mitteilungspflicht für Biozidprodukte**[^10a-1]
+
+<sup>1</sup> Wer Biozidprodukte in Verkehr bringt, ist verpflichtet, dem Bund Daten über das Inverkehrbringen mitzuteilen.
+
+<sup>2</sup> Der Bundesrat regelt insbesondere, welche Daten zu erfassen und welcher Stelle diese zu melden sind.
+
+[^10a-1]: Eingefügt durch Ziff. I 1 des BG vom 19. März 2021 über die Verminderung der Risiken durch den Einsatz von Pestiziden, in Kraft seit 1. Jan. 2024 ([AS 2022 263](https://fedlex.data.admin.ch/eli/oc/2022/263); [2023 708](https://fedlex.data.admin.ch/eli/oc/2023/708); [BBl 2020 6323](https://fedlex.data.admin.ch/eli/fga/2020/1529), 6569).
 
 #### Art. 11
 
@@ -358,6 +368,22 @@ Der Bundesrat erlässt Bestimmungen über Massnahmen, die nach einem Diebstahl, 
 
 [^25-1]: [SR 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
 [^25-2]: [SR 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+
+#### Art. 25a
+
+**Verminderung der Risiken durch den Einsatz von Biozidprodukten**[^25a-1]
+
+<sup>1</sup> Die Risiken durch den Einsatz von Biozidprodukten für Mensch, Tier und Umwelt sollen vermindert und die Qualität des Trinkwassers, der Oberflächengewässer und des Grundwassers soll verbessert werden.
+
+<sup>2</sup>
+
+Der Bundesrat bestimmt bis 2023:
+
+- a. die massgeblichen Risikobereiche;
+- b. die Ziele zur Verminderung der nicht annehmbaren Risiken in diesen Bereichen;
+- c. die Methode, mit der die Erreichung der Ziele berechnet wird.
+
+[^25a-1]: Eingefügt durch Ziff. I 1 des BG vom 19. März 2021 über die Verminderung der Risiken durch den Einsatz von Pestiziden, in Kraft seit 1. Jan. 2024 ([AS 2022 263](https://fedlex.data.admin.ch/eli/oc/2022/263); [2023 708](https://fedlex.data.admin.ch/eli/oc/2023/708); [BBl 2020 6323](https://fedlex.data.admin.ch/eli/fga/2020/1529), 6569).
 
 ## 4. Kapitel: Dokumentation und Information
 

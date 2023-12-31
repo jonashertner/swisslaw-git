@@ -4,11 +4,11 @@ title: "Federal Act of 15 December 2000 on Protection against Dangerous Substanc
 short: ChemA
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/724"
 language: en
-version: 2023-07-01
+version: 2024-01-01
 adopted: 2000-12-15
 in_force: 2005-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/724/20230701/en/xml/fedlex-data-admin-ch-eli-cc-2004-724-20230701-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/724/20230701/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/724/20240101/en/xml/fedlex-data-admin-ch-eli-cc-2004-724-20240101-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/724/20240101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Chemicals Act, ChemA)
 
-of 15 December 2000 (Status as of 1 July 2023)
+of 15 December 2000 (Status as of 1 January 2024)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -184,6 +184,16 @@ Authorisation shall be granted for a biocidal product in particular if, when use
 <sup>3</sup> Authorisation may be withheld or revoked if the health risks give rise to concern and if another active substance is available for which authorisation has been granted for biocidal products of the same type, which is associated with a considerably lower health risk and which does not entail any significant economic or practical disadvantages for users.
 
 <sup>4</sup> The Federal Council shall specify the types of authorisation and the authorisation procedures, as well as any exemptions from mandatory authorisation for biocidal products. Authorisation shall be granted for limited periods.
+
+#### Art. 10a
+
+**Duty to notify for biocidal products**[^10a-1]
+
+<sup>1</sup> Any person who places biocidal products on the market is required to notify the Confederation of the data on their placing on the market.
+
+<sup>2</sup> The Federal Council shall regulate in particular the data that must be recorded and the office to which notice must be given.
+
+[^10a-1]: Inserted by No I 1 of the FA of 19 March 2021 on Reducing the Risks of Pesticide Use, in force since 1 Jan. 2024 ([AS 2022 263](https://fedlex.data.admin.ch/eli/oc/2022/263); [2023 708](https://fedlex.data.admin.ch/eli/oc/2023/708); [BBl 2020 6323](https://fedlex.data.admin.ch/eli/fga/2020/1529), 6569).
 
 #### Art. 11
 
@@ -360,6 +370,22 @@ The Federal Council shall issue regulations concerning the measures that are to 
 
 [^25-1]: [SR 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
 [^25-2]: [SR 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+
+#### Art. 25a
+
+**Reducing the risks of biocidal product use**[^25a-1]
+
+<sup>1</sup> The risks to human beings, animals and the environment of using biocidal products shall be reduced and the quality of drinking water, surface waters and the groundwater shall be improved.
+
+<sup>2</sup>
+
+The Federal Council shall by 2023 specify:
+
+- a. the relevant risk areas;
+- b. the targets for reducing unacceptable risks in these areas;
+- c. the methods to be used to measure whether the targets have been achieved.
+
+[^25a-1]: Inserted by No I 1 of the FA of 19 March 2021 on Reducing the Risks of Pesticide Use, in force since 1 Jan. 2024 ([AS 2022 263](https://fedlex.data.admin.ch/eli/oc/2022/263); [2023 708](https://fedlex.data.admin.ch/eli/oc/2023/708); [BBl 2020 6323](https://fedlex.data.admin.ch/eli/fga/2020/1529), 6569).
 
 ## Chapter 4 Documentation and Information
 
@@ -541,7 +567,7 @@ If the notification authority has good reason to believe that substances or prep
 
 **Powers of enforcement authorities**
 
-<sup>1</sup> In order to monitor compliance with the provisions of this Act, the enforcement authorities shall be authorised to test substances, preparations and articles as specified in Article 19 Paragraph 1 letter b and to examine procedures for the handling thereof.
+<sup>1</sup> In order to monitor compliance with the provisions of this Act, the enforcement authorities shall be authorised to test substances, preparations and articles as specified in Article 19 paragraph 1 letter b and to examine procedures for the handling thereof.
 
 <sup>2</sup>
 

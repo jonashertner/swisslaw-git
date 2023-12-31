@@ -4,11 +4,11 @@ title: "Legge federale del 15 dicembre 2000 sulla protezione contro le sostanze 
 short: LPChim
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/724"
 language: it
-version: 2023-07-01
+version: 2024-01-01
 adopted: 2000-12-15
 in_force: 2005-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/724/20230701/it/xml/fedlex-data-admin-ch-eli-cc-2004-724-20230701-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/724/20230701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/724/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2004-724-20240101-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/724/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/724/20230701/it"
 
 (Legge sui prodotti chimici, LPChim)
 
-del 15 dicembre 2000 (Stato 1° luglio 2023)
+del 15 dicembre 2000 (Stato 1° gennaio 2024)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -182,6 +182,16 @@ Il prodotto biocida è omologato se per l’impiego previsto in particolare:
 <sup>3</sup> L’omologazione può essere negata o revocata se i rischi per la salute danno adito a preoccupazioni e se per lo stesso tipo di prodotti biocidi è omologata un’altra sostanza attiva che presenta un rischio nettamente inferiore per la salute e non comporta alcun importante svantaggio economico e pratico per l’utente.
 
 <sup>4</sup> Il Consiglio federale stabilisce i tipi e le procedure d’omologazione, nonché le eccezioni all’obbligo d’omologazione per i prodotti biocidi. Le omologazioni sono limitate nel tempo.
+
+#### Art. 10a
+
+**Obbligo di comunicazione relativo ai prodotti biocidi**[^10a-1]
+
+<sup>1</sup> Chi immette sul mercato prodotti biocidi è tenuto a comunicare alla Confederazione i pertinenti dati.
+
+<sup>2</sup> Il Consiglio federale stabilisce in particolare i dati da rilevare e l’autorità cui vanno comunicati.
+
+[^10a-1]: Introdotto dal n. I n. 1 della LF del 21 mar. 2021 sulla riduzione dei rischi associati all’impiego di pesticidi, in vigore dal 1° gen. 2024 ([RU 2022 263](https://fedlex.data.admin.ch/eli/oc/2022/263); [2023 708](https://fedlex.data.admin.ch/eli/oc/2023/708); [FF 2020 5759](https://fedlex.data.admin.ch/eli/fga/2020/1667), [5967](https://fedlex.data.admin.ch/eli/fga/2020/1771)).
 
 #### Art. 11
 
@@ -358,6 +368,21 @@ Il Consiglio federale emana disposizioni concernenti le misure da adottare in ca
 
 [^25-1]: [RS 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
 [^25-2]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+
+#### Art. 25a
+
+**Riduzione dei rischi associati all’impiego di prodotti biocidi**[^25a-1]
+
+<sup>1</sup> I rischi per gli esseri umani, gli animali e l’ambiente associati all’impiego di prodotti biocidi vanno ridotti e la qualità dell’acqua potabile, delle acque superficiali e delle acque sotterranee va migliorata.
+
+<sup>2</sup> c. il metodo con cui è calcolato il raggiungimento di tali obiettivi.
+
+Il Consiglio federale stabilisce entro il 2023:
+
+- a. i settori a rischio determinanti;
+- b. gli obiettivi per la riduzione dei rischi inammissibili in questi settori;
+
+[^25a-1]: Introdotto dal n. I n. 1 della LF del 21 mar. 2021 sulla riduzione dei rischi associati all’impiego di pesticidi, in vigore dal 1° gen. 2024 ([RU 2022 263](https://fedlex.data.admin.ch/eli/oc/2022/263); [2023 708](https://fedlex.data.admin.ch/eli/oc/2023/708); [FF 2020 5759](https://fedlex.data.admin.ch/eli/fga/2020/1667), [5967](https://fedlex.data.admin.ch/eli/fga/2020/1771)).
 
 ## Capitolo 4: Documentazione e informazione
 
