@@ -4,24 +4,24 @@ number: RiE 164.110
 title: Reglement über das Gehalt der Mitarbeiterinnen und Mitarbeiter der Gemeinde Riehen
 short: Lohnreglement
 language: de
-version: 2023-10-01
-valid_until: 2023-12-31
-version_adopted: 2023-07-04
+version: 2024-01-01
+valid_until: 2024-12-31
+version_adopted: 2023-12-12
 adopted: 2008-12-09
 in_force: 2009-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/RiE%20164.110"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6024/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6098/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement über das Gehalt der Mitarbeiterinnen und Mitarbeiter der Gemeinde Riehen
 
-Lohnreglement | Riehen: Einwohnergemeinde
+Besoldung und Entschädigung
 
 (Lohnreglement)
 
-Vom 9. Dezember 2008 (Stand 1. Oktober 2023)
+Vom 9. Dezember 2008 (Stand 1. Januar 2024)
 
 Der Gemeinderat Riehen,
 
@@ -53,19 +53,19 @@ erlässt folgendes Reglement:
 
 **Entscheid betreffend die Zuordnung der Stellen und die Lohnfestsetzung**
 
-<sup>1</sup> Die Leitung Fachbereich Personal ist zuständig für
+<sup>1</sup> Die Leitung Personal ist zuständig für:
 
 - a) die Zuordnung der einzelnen Stellen zu einem bestimmten Anforderungsniveau,
 - b) die Lohnfestsetzung bei Neueintritt oder internem Stellenwechsel und
 - c) die Überprüfung bzw. die Einreihung einer Stelle, wenn sich die Anforderungen an die betreffende Funktion erheblich geändert haben, namentlich bei Veränderung mehrerer Anforderungskriterien.
 
-<sup>2</sup> Sie trifft ihren Entscheid in Absprache mit der zuständigen Anstellungsinstanz bzw. mit der Verwaltungsleiterin oder dem Verwaltungsleiter, wenn der Gemeinderat Anstellungsinstanz ist. Im Schulbereich erfolgt die Absprache mit der zuständigen Abteilungsleitung.
+<sup>2</sup> Sie trifft ihren Entscheid in Absprache mit der zuständigen Anstellungsinstanz bzw. mit der Verwaltungsleiterin oder dem Verwaltungsleiter oder der Generalsekretärin oder dem Generalsekretär in ihren Bereichen, wenn der Gemeinderat Anstellungsinstanz ist. Im Schulbereich erfolgt die Absprache mit der zuständigen Abteilungsleitung.
 
 <sup>3</sup> Den Entscheid eröffnet sie der betroffenen Mitarbeiterin oder dem betroffenen Mitarbeiter mittels rekursfähiger Verfügung.
 
-<sup>4</sup> Sie kann für den Entscheid selber oder auf Antrag der zuständigen Abteilungsleitung bzw. der Verwaltungsleiterin oder des Verwaltungsleiters die Bewertungsgruppe gemäss § 3a beiziehen.
+<sup>4</sup> Sie kann für den Entscheid selber oder auf Antrag der zuständigen Abteilungsleitung bzw. der Verwaltungsleiterin oder des Verwaltungsleiters oder der Generalsekretärin bzw. des Generalsekretärs die Bewertungsgruppe gemäss § 3a beiziehen.
 
-<sup>5</sup> Die Verwaltungsleiterin oder der Verwaltungsleiter ist in Absprache mit der Leitung Fachbereich Personal zuständig für die Lohnfestsetzung bei internem Stellenwechsel gemäss § 12 der Lohnordnung. Abs. 3 gilt sinngemäss.
+<sup>5</sup> Die Verwaltungsleiterin oder der Verwaltungsleiter ist in Absprache mit der Leitung Personal zuständig für die Lohnfestsetzung bei internem Stellenwechsel gemäss § 12 der Lohnordnung. Abs. 3 gilt sinngemäss.
 
 #### § 3a
 
@@ -474,7 +474,9 @@ E bedeutet: «erfüllt die Erwartungen teilweise».
 
 **Lohnauszahlungen**
 
-<sup>1</sup> Der Lohn des Personals wird monatlich, in der Regel auf den 25. ausgerichtet.
+<sup>1</sup> Der Lohn des Personals wird monatlich, in der Regel am 25. ausgerichtet.
+
+<sup>1<sup>bis</sup></sup> Mitarbeiterinnen und Mitarbeiter, die den Arbeitsplatz nicht verlassen können und von der Arbeitgeberin verpflegt werden, haben hierfür eine angemessene Entschädigung zu entrichten. Die Verwaltungsleiterin oder der Verwaltungsleiter legt deren Höhe in einer Richtline fest.
 
 <sup>2</sup> Der 13. Monatslohn wird mit dem Novemberlohn ausbezahlt.
 
@@ -581,7 +583,7 @@ E bedeutet: «erfüllt die Erwartungen teilweise».
 
 <sup>1</sup> Die Mitglieder des Beirats in Lohnsachen werden wie Mitglieder von gemeinderätlichen Kommissionen entschädigt.
 
-<sup>2</sup> Die Sekretärin oder der Sekretär wird nach Aufwand entschädigt. Die Entschädigung richtet sich nach den Ansätzen der Lohnordnung.
+<sup>2</sup> …
 
 #### § 48
 
