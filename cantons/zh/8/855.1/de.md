@@ -3,11 +3,10 @@ canton: ZH
 number: "855.1"
 title: Pflegegesetz
 language: de
-version: "2012-01-01"
-nachtrag: "75"
-valid_until: 2024-01-01
+version: "2024-01-01"
+nachtrag: "123"
 adopted: 2010-09-27
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-855_1-2010_09_27-2011_01_01-075.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-855_1-2010_09_27-2011_01_01-123.html"
 text: pdf
 ---
 
@@ -35,36 +34,34 @@ beschliesst:
 
 <sup>1</sup> Dieses Gesetz bezweckt die Sicherstellung der Versorgung mit Pflegeleistungen sowie mit Leistungen der Akut- und Übergangspflege in Pflegeheimen und durch spitalexterne Krankenpflege (Spitex).
 
-<sup>2</sup> Für Einrichtungen im Sinne des Gesetzes über die Invalideneinrichtungen für erwachsene Personen vom 1. Oktober 2007 (IEG)[^1-1], die gleichzeitig auf der Pflegeheimliste geführt werden, finden ausschliesslich die Vorschriften des IEG[^1-1] Anwendung. Der Anspruch der versicherten Person auf Vergütung von Pflichtleistungen durch die Sozialversicherer bleibt davon unberührt.
-
-[^1-1]: LS 855.2.
-
-#### § 2
+<sup>2</sup> Für Institutionen gemäss § 25 des Gesetzes über den selbstbestimmten Leistungsbezug durch Menschen mit Behinderung vom 28. Februar 2022 (SLBG)[^1-1], die gleichzeitig auf der Pflegeheimliste geführt werden, finden ausschliesslich die Vorschriften des SLBG Anwendung. Der Anspruch der versicherten Person auf Vergütungen der Pflichtleistungen durch die Sozialversicherer bleibt davon unberührt.[^1-2]
 
 **Direktion, Gemeinde**
 
-<sup>1</sup> Direktion im Sinne dieses Gesetzes ist die für das Gesundheitswesen zuständige Direktion des Regierungsrates.
+§ 2. <sup>1</sup> Direktion im Sinne dieses Gesetzes ist die für das Gesundheitswesen zuständige Direktion des Regierungsrates.
 
 <sup>2</sup> Gemeinde im Sinne dieses Gesetzes ist die Gemeinde, in der die Leistungsbezügerin oder der Leistungsbezüger zivilrechtlichen Wohnsitz hat. § 9 Abs. 5 bleibt vorbehalten.
 
 **KVG-Finanzierungsanteil der Gemeinden**
 
-§ 3.[^2-1] Der Regierungsrat legt den nach dem Bundesgesetz vom 18.März 1994 über die Krankenversicherung (KVG)[^2-2] für alle Kantonseinwohnerinnen und -einwohner geltenden Anteil der Gemeinden an den Vergütungen für Leistungen der Akut- und Übergangspflege fest.
+§ 3.[^1-3] Der Regierungsrat legt den nach dem Bundesgesetz vom 18. März 1994 über die Krankenversicherung (KVG)[^1-4] für alle Kantonseinwohnerinnen und -einwohner geltenden Anteil der Gemeinden an den Vergütungen für Leistungen der Akut- und Übergangspflege fest.
 
-[^2-1]: Fassung gemäss Spitalplanungs- und -finanzierungsgesetz vom 2. Mai 2011 (OS 66, 513; ABl 2011, 291). In Kraft seit 1. Januar 2012.
-[^2-2]: SR 832.10.
+[^1-1]: LS 831.5.
+[^1-2]: Fassung gemäss Selbstbestimmungsgesetz vom 28. Febuar 2022 (OS 78, 81; ABl 2021-04-09). In Kraft seit 1. Januar 2024. 1. 1. 24 - 123 7
+[^1-3]: Fassung gemäss Spitalplanungs- und -finanzierungsgesetz vom 2. Mai 2011 (OS 66, 513; ABl 2011, 291). In Kraft seit 1. Januar 2012.
+[^1-4]: SR 832.10.
 
 #### § 4
 
 **Pflegeheimliste**
 
-<sup>1</sup> Der Regierungsrat erlässt gestützt auf das KVG[^2-2] eine Pflegeheimliste.
+<sup>1</sup> Der Regierungsrat erlässt gestützt auf das KVG[^1-4] eine Pflegeheimliste.
 
 <sup>2</sup> Er kann die Zuständigkeit zur Aktualisierung der Liste an die Direktion delegieren.
 
 **1**
 
-- 1\. 1. 12 - 75
+- 1\. 1. 24 - 123
 
 ### 2. Abschnitt: Angebot
 
@@ -116,7 +113,7 @@ Die Gemeinde plant ihr Angebot an Pflegeheimplätzen nach anerkannten Methoden. 
 
 <sup>1</sup> Die Kosten der Pflegeleistungen gehen im von der Bundesgesetzgebung über die Sozialversicherung vorgeschriebenen Umfang zulasten der Versicherer.
 
-<sup>2</sup> Die verbleibenden Kosten werden bei Pflegeleistungen von Pflegeheimen im gemäss Art. 25a Abs. 5 KVG[^9-1] höchstzulässigen Umfang und bei Pflegeleistungen ambulanter Leistungserbringer zur Hälfte des höchstzulässigen Umfangs den Leistungsbezügerinnen und -bezügern überbunden. Für Personen bis zum vollendeten 18. Altersjahr wird keine entsprechende Kostenbeteiligung erhoben.
+<sup>2</sup> Die verbleibenden Kosten werden bei Pflegeleistungen von Pflegeheimen im gemäss Art. 25 a Abs. 5 KVG[^9-1] höchstzulässigen Umfang und bei Pflegeleistungen ambulanter Leistungserbringer zur Hälfte des höchstzulässigen Umfangs den Leistungsbezügerinnen und -bezügern überbunden. Für Personen bis zum vollendeten 18. Altersjahr wird keine entsprechende Kostenbeteiligung erhoben.
 
 <sup>3</sup> Die Gemeinden können diese Kostenbeteiligung ganz oder teilweise übernehmen.
 
@@ -155,7 +152,7 @@ Die Kosten weiterer Pflichtleistungen gehen im von der Bundesgesetzgebung über 
 
 **3**
 
-- 1\. 1. 12 - 75
+- 1\. 1. 24 - 123
 
 <sup>2</sup> Die Gemeinden können die Kostenbeteiligung der Leistungsbezügerinnen und -bezüger nach Massgabe deren wirtschaftlicher Leistungsfähigkeit ganz oder teilweise übernehmen.
 
@@ -223,7 +220,7 @@ Im Rahmen von Ersatzangeboten nach § 6 übernimmt die Gemeinde neben den ordent
 
 [^17-1]: SR 832.112.31.
 [^17-2]: SR 832.10.
-[^17-3]: Aufgehoben durch Spitalplanungs- und -finanzierungsgesetz vom 2. Mai 2011 (OS 66, 513; ABl 2011, 291). In Kraft seit 1. Januar 2012. 1. 1. 12 - 75 7
+[^17-3]: Aufgehoben durch Spitalplanungs- und -finanzierungsgesetz vom 2. Mai 2011 (OS 66, 513; ABl 2011, 291). In Kraft seit 1. Januar 2012.
 
 ### 4. Abschnitt: Weitere Bestimmungen
 
@@ -245,7 +242,7 @@ Im Rahmen von Ersatzangeboten nach § 6 übernimmt die Gemeinde neben den ordent
 
 **5**
 
-- 1\. 1. 12 - 75 § 21. <sup>1</sup> Die Gemeinde entrichtet ihre Beiträge direkt dem Leistungserbringer.
+- 1\. 1. 24 - 123 § 21. <sup>1</sup> Die Gemeinde entrichtet ihre Beiträge direkt dem Leistungserbringer.
 
 **Auszahlung der Beiträge**
 
@@ -294,3 +291,7 @@ Die nachstehenden Gesetze werden wie folgt geändert:
 [^24-1]: LS 810.1.
 [^24-2]: Text siehe OS 65, 613.
 [^24-3]: LS 831.3.
+
+## Weitere Fussnoten
+
+- [7] LS 855.2.
