@@ -4,11 +4,11 @@ number: "212.81"
 title: Gesetz über das Sozialversicherungsgericht (GSVGer)
 short: GSVGer
 language: de
-version: "2021-07-01"
-nachtrag: "113"
-valid_until: 2024-01-01
+version: "2024-01-01"
+nachtrag: "123"
+valid_until: 2025-07-01
 adopted: 1993-03-07
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-212_81-1993_03_07-1993_11_01-113.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-212_81-1993_03_07-1993_11_01-123.html"
 text: pdf
 ---
 
@@ -56,7 +56,7 @@ a.[^t-15] Klagen nach Art. 73 des Bundesgesetzes über die berufliche Alters-, H
 
 **1**
 
-- 1\. 7. 21 - 113 (ZGB)[^t-17] und Klagen nach Art. 281 Abs. 3 der Schweizerischen Zivilprozessordnung (ZPO)[^t-18] in Verbindung mit Art. 25 a des Freizügigkeitsgesetzes (FZG)[^t-19] sowie nach Art. 25 FZG, b.[^t-20] Klagen über Streitigkeiten aus Zusatzversicherungen zur sozialen Krankenversicherung nach dem Bundesgesetz vom 18. März 1994 über die Krankenversicherung[^t-8] im Sinne von Art. 7 ZPO[^t-18],
+- 1\. 1. 24 - 123 (ZGB)[^t-17] und Klagen nach Art. 281 Abs. 3 der Schweizerischen Zivilprozessordnung (ZPO)[^t-18] in Verbindung mit Art. 25 a des Freizügigkeitsgesetzes (FZG)[^t-19] sowie nach Art. 25 FZG, b.[^t-20] Klagen über Streitigkeiten aus Zusatzversicherungen zur sozialen Krankenversicherung nach dem Bundesgesetz vom 18. März 1994 über die Krankenversicherung[^t-8] im Sinne von Art. 7 ZPO[^t-18],
 
 - c. Beschwerden betreffend Entschädigung und Genugtuung nach Art. 17 des Opferhilfegesetzes (OHG)[^t-21] sowie Beschwerden betreffend materielle Soforthilfe und Übernahme weiterer Kosten im Sinne von Art. 3 des Gesetzes.
 
@@ -91,7 +91,7 @@ a.[^t-15] Klagen nach Art. 73 des Bundesgesetzes über die berufliche Alters-, H
 [^t-21]: SR 312.5.
 [^t-22]: Fassung gemäss EG FamZG vom 19. Januar 2009 (OS 64, 142; ABl 2008, 1046). In Kraft seit 1. Juli 2009.
 [^t-23]: LS 831.3.
-[^t-24]: LS 910.1; heute: Landwirtschaftsgesetz. 1. 7. 21 - 113 13
+[^t-24]: LS 910.1; heute: Landwirtschaftsgesetz. 1. 1. 24 - 123 13
 [^t-25]: Fassung gemäss Einführungsgesetz zum Krankenversicherungsgesetz vom 29. April 2019 (OS 75, 174; ABl 2016-10-07). In Kraft seit 1. April 2020.
 
 #### § 4
@@ -148,7 +148,7 @@ Der Kantonsrat kann den Zuständigkeitsbereich des Sozialversicherungsgerichts a
 
 **3**
 
-- 1\. 7. 21 - 113 § 6.[^hBOrganisationdes-10] <sup>1</sup> Das Plenum besteht aus den vollamtlichen und teilamtlichen Mitgliedern.
+- 1\. 1. 24 - 123 § 6.[^hBOrganisationdes-10] <sup>1</sup> Das Plenum besteht aus den vollamtlichen und teilamtlichen Mitgliedern.
 
 **Plenum und Kammern**
 
@@ -158,7 +158,7 @@ Der Kantonsrat kann den Zuständigkeitsbereich des Sozialversicherungsgerichts a
 
 [^hBOrganisationdes-1]: Fassung gemäss G über die Anpassung des kantonalen Verwaltungsverfahrensrechts vom 22. März 2010 (OS 65, 390; ABl 2009, 801). In Kraft seit 1. Juli 2010.
 [^hBOrganisationdes-2]: Eingefügt durch G vom 30. August 2004 (OS 59, 398). In Kraft seit 1. Januar 2005 (OS 59, 410).
-[^hBOrganisationdes-3]: Eingefügt durch G vom 30. November 2020 (OS 76, 198; ABl 2020-02-28). In Kraft seit 1. Juli 2021. 1. 7. 21 - 113 15
+[^hBOrganisationdes-3]: Eingefügt durch G vom 30. November 2020 (OS 76, 198; ABl 2020-02-28). In Kraft seit 1. Juli 2021.
 [^hBOrganisationdes-4]: LS 212.83.
 [^hBOrganisationdes-5]: Fassung gemäss G über die Anpassung der kantonalen Behördenorganisation und des kantonalen Prozessrechts in Zivil- und Strafsachen an die neuen Prozessgesetze des Bundes vom 10. Mai 2010 (OS 65, 520, 572; ABl 2009, 1489). In Kraft seit 1. Januar 2011.
 [^hBOrganisationdes-6]: LS 211.1.
@@ -274,7 +274,7 @@ Die Parteien können sich vertreten oder verbeiständen lassen.
 
 **5**
 
-- 1\. 7. 21 - 113
+- 1\. 1. 24 - 123
 
 <sup>2</sup> Es wird ihr überdies auf Gesuch eine unentgeltliche Rechtsvertretung bestellt, wenn sie nicht in der Lage ist, ihre Rechte im Verfahren selbst zu wahren.
 
@@ -370,7 +370,7 @@ Die Verhandlungen des Gerichts sind öffentlich. Das Gericht kann die Öffentlic
 
 **7**
 
-- 1\. 7. 21 - 113 § 26. <sup>1</sup> Das Gericht kann die Angelegenheit zu neuer Entscheidung an die Vorinstanz zurückweisen, besonders wenn mit dem angefochtenen Entscheid nicht auf die Sache eingetreten oder der Sachverhalt ungenügend festgestellt wurde.
+- 1\. 1. 24 - 123 § 26. <sup>1</sup> Das Gericht kann die Angelegenheit zu neuer Entscheidung an die Vorinstanz zurückweisen, besonders wenn mit dem angefochtenen Entscheid nicht auf die Sache eingetreten oder der Sachverhalt ungenügend festgestellt wurde.
 
 **Rückweisung**
 
@@ -435,32 +435,36 @@ Das Revisionsverfahren richtet sich im Übrigen sinngemäss nach der Zivilprozes
 
 ### E. Kosten und Entschädigungen
 
+[^hEKostenundEntsch-1]: Fassung gemäss G vom 20. März 2023 (OS 78, 465; ABl 2022-03-18). In Kraft seit 1. Januar 2024. 1. 1. 24 - 123 15
+
+#### § 33
+
 **Kosten35**
 
-§ 33.[^hEKostenundEntsch-1] <sup>1</sup> Das Verfahren ist kostenlos, soweit dies von andern Gesetzen so vorgeschrieben ist.
+<sup>1</sup> Das Verfahren ist kostenlos. Besondere gesetzliche Bestimmungen bleiben vorbehalten.[^hEKostenundEntsch-1]
 
-<sup>2</sup> Einer Partei, die sich mutwillig oder leichtsinnig verhält, kann in kostenlosen Verfahren jedoch eine Gerichtskostenpauschale auferlegt werden.[^hEKostenundEntsch-2]
+<sup>2</sup> Einer Partei, die sich mutwillig oder leichtsinnig verhält, kann in kostenlosen Verfahren jedoch eine Gerichtskostenpauschale auferlegt werden.[^33-1]
 
-<sup>3</sup> Wenn die Umstände es rechtfertigen, werden in kostenpflichtigen Verfahren keine Kosten auferlegt.[^hEKostenundEntsch-3]
+<sup>3</sup> Wenn die Umstände es rechtfertigen, werden in kostenpflichtigen Verfahren keine Kosten auferlegt.[^33-2]
 
 **Sicherstellung der Gerichtskosten**
 
-§ 33 a.[^hEKostenundEntsch-4] <sup>1</sup> Die Partei, die das Gericht anruft, kann in kostenpflichtigen Verfahren zu einem Kostenvorschuss bis zur Höhe der mutmasslichen Gerichtskosten verpflichtet werden.
+§ 33 a.[^33-3] <sup>1</sup> Die Partei, die das Gericht anruft, kann in kostenpflichtigen Verfahren zu einem Kostenvorschuss bis zur Höhe der mutmasslichen Gerichtskosten verpflichtet werden.
 
 <sup>2</sup> Wird der Kostenvorschuss nicht geleistet, tritt das Gericht auf die Eingabe nicht ein. Diesfalls werden keine Kosten auferlegt.
 
 **Entschädigungen**
 
-§ 34.[^hEKostenundEntsch-1] <sup>1</sup> Stellt die obsiegende Partei einen entsprechenden Antrag oder ist dies von andern Gesetzen so vorgesehen, verpflichtet das Gericht die unterliegende Partei zum Ersatz der Parteikosten.
+§ 34.[^33-4] <sup>1</sup> Stellt die obsiegende Partei einen entsprechenden Antrag oder ist dies von andern Gesetzen so vorgesehen, verpflichtet das Gericht die unterliegende Partei zum Ersatz der Parteikosten.
 
 <sup>2</sup> Den Versicherungsträgern und den Gemeinwesen steht dieser Anspruch nur zu, soweit er von andern Gesetzen nicht ausgeschlossen ist.
 
 <sup>3</sup> Die Höhe der gerichtlich festzusetzenden Entschädigung bemisst sich nach der Bedeutung der Streitsache, der Schwierigkeit des Prozesses und dem Mass des Obsiegens, jedoch ohne Rücksicht auf den Streitwert.
 
-[^hEKostenundEntsch-1]: Fassung gemäss G vom 30. August 2004 (OS 59, 398). In Kraft seit 1. Januar 2005 (OS 59, 410).
-[^hEKostenundEntsch-2]: Fassung gemäss G über die Anpassung des kantonalen Verwaltungsverfahrensrechts vom 22. März 2010 (OS 65, 390; ABl 2009, 801). In Kraft seit 1. Juli 2010.
-[^hEKostenundEntsch-3]: Eingefügt durch G vom 25. November 2019 (OS 75, 270; ABl 2018-06-01). In Kraft seit 1. Juni 2020.
-[^hEKostenundEntsch-4]: Fassung gemäss G vom 25. November 2019 (OS 75, 270; ABl 2018-06-01). In Kraft seit 1. Juni 2020.
+[^33-1]: Fassung gemäss G über die Anpassung des kantonalen Verwaltungsverfahrensrechts vom 22. März 2010 (OS 65, 390; ABl 2009, 801). In Kraft seit 1. Juli 2010.
+[^33-2]: Eingefügt durch G vom 25. November 2019 (OS 75, 270; ABl 2018-06-01). In Kraft seit 1. Juni 2020.
+[^33-3]: Fassung gemäss G vom 25. November 2019 (OS 75, 270; ABl 2018-06-01). In Kraft seit 1. Juni 2020.
+[^33-4]: Fassung gemäss G vom 30. August 2004 (OS 59, 398). In Kraft seit 1. Januar 2005 (OS 59, 410).
 
 ### F. Schiedsgericht
 
@@ -470,7 +474,7 @@ Das Revisionsverfahren richtet sich im Übrigen sinngemäss nach der Zivilprozes
 
 **9**
 
-- 1\. 7. 21 - 113 § 36.[^hFSchiedsgericht-6] <sup>1</sup> Das Schiedsgericht ist dem Sozialversicherungsgericht angegliedert und untersteht seiner administrativen Aufsicht.
+- 1\. 1. 24 - 123 § 36.[^hFSchiedsgericht-6] <sup>1</sup> Das Schiedsgericht ist dem Sozialversicherungsgericht angegliedert und untersteht seiner administrativen Aufsicht.
 
 **2. Stellung und Aufsicht**
 
@@ -556,7 +560,7 @@ Das Revisionsverfahren richtet sich im Übrigen sinngemäss nach der Zivilprozes
 
 **11**
 
-- 1\. 7. 21 - 113 § 48.[^hFSchiedsgericht-8] <sup>1</sup> Findet keine Sühnverhandlung statt oder kann der Rechtsstreit im Sühnverfahren nicht erledigt werden, wird der klägerischen Partei Gelegenheit gegeben, die Klagebegründung zu ergänzen und weitere Beweismittel einzureichen.
+- 1\. 1. 24 - 123 § 48.[^hFSchiedsgericht-8] <sup>1</sup> Findet keine Sühnverhandlung statt oder kann der Rechtsstreit im Sühnverfahren nicht erledigt werden, wird der klägerischen Partei Gelegenheit gegeben, die Klagebegründung zu ergänzen und weitere Beweismittel einzureichen.
 
 **Instruktionsverfahren 1. Schriftenwechsel; Beweisverfahren**
 
