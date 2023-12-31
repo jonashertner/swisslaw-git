@@ -4,13 +4,13 @@ number: "152.041.1"
 title: Verordnung über die Bekanntgabe von Personaldaten
 short: "Personaldatenbekanntgabeverordnung, PDBV"
 language: de
-version: 2015-01-01
-valid_until: 2023-12-31
-version_adopted: 2014-10-22
+version: 2024-01-01
+valid_until: 2026-08-31
+version_adopted: 2023-11-15
 adopted: 2005-12-14
 in_force: 2006-02-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/152.041.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/10/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2942/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,19 +19,19 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/10/pdf_file"
 
 (Personaldatenbekanntgabeverordnung, PDBV)
 
-vom 14.12.2005 (Stand 01.01.2015)
+vom 14.12.2005 (Stand 01.01.2024)
 
 Der Regierungsrat des Kantons Bern,
 
-in Ausführung von Artikel 16 des Gesetzes vom 2. November 1993 über die Information der Bevölkerung (Informationsgesetz, IG)[^ingress-1], Artikel 5 und 38 des Datenschutzgesetzes vom 19. Februar 1986 (KDSG)[^ingress-2] und Artikel 109 Absatz 1 des Personalgesetzes vom 16. September 2004 (PG)[^ingress-3],
+in Ausführung von Artikel 16 und 27 des Gesetzes vom 2. November 1993 über die Information und die Medienförderung (IMG)[^ingress-1], Artikel 5 und 38 des Datenschutzgesetzes vom 19. Februar 1986 (KDSG)[^ingress-2] und Artikel 109 Absatz 1 des Personalgesetzes vom 16. September 2004 (PG)[^ingress-3],
 
 auf Antrag der Finanzdirektion,
 
 beschliesst:
 
-[^ingress-1]: BSG 107.1
-[^ingress-2]: BSG 152.04
-[^ingress-3]: BSG 153.01
+[^ingress-1]: BSG [107.1](https://www.belex.sites.be.ch/data/107.1/de)
+[^ingress-2]: BSG [152.04](https://www.belex.sites.be.ch/data/152.04/de)
+[^ingress-3]: BSG [153.01](https://www.belex.sites.be.ch/data/153.01/de)
 
 #### Art. 1
 

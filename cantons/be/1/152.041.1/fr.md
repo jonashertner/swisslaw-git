@@ -4,13 +4,13 @@ number: "152.041.1"
 title: "Ordonnance sur la communication de données personnelles *"
 short: OCDP
 language: fr
-version: 2015-01-01
-valid_until: 2023-12-31
-version_adopted: 2014-10-22
+version: 2024-01-01
+valid_until: 2026-08-31
+version_adopted: 2023-11-15
 adopted: 2005-12-14
 in_force: 2006-02-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/152.041.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/10/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2942/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,19 +19,19 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/10/pdf_file"
 
 (OCDP)
 
-du 14.12.2005 (état au 01.01.2015)
+du 14.12.2005 (état au 01.01.2024)
 
 Le Conseil-exécutif du canton de Berne,
 
-en application de l’article 16 de la loi du 2 novembre 1993 sur l’information du public (loi sur l’information, LIn)[^ingress-1], des articles 5 et 38 la loi du 19 février 1986 sur la protection des données (LCPD)[^ingress-2] et de l’article 109, alinéa 1 de la loi du 16 septembre 2004 sur le personnel (LPers)[^ingress-3],
+en application des articles 16 et 27 de la loi du 2 novembre 1993 sur l’information et l'aide aux médias (LIAM)[^ingress-1], des articles 5 et 38 de la loi du 19 février 1986 sur la protection des données (LCPD)[^ingress-2] et de l’article 109, alinéa 1 de la loi du 16 septembre 2004 sur le personnel (LPers)[^ingress-3],
 
 sur proposition de la Direction des finances,
 
 arrête:
 
-[^ingress-1]: RSB 107.1
-[^ingress-2]: RSB 152.04
-[^ingress-3]: RSB 153.01
+[^ingress-1]: RSB [107.1](https://www.belex.sites.be.ch/data/107.1/fr)
+[^ingress-2]: RSB [152.04](https://www.belex.sites.be.ch/data/152.04/fr)
+[^ingress-3]: RSB [153.01](https://www.belex.sites.be.ch/data/153.01/fr)
 
 #### Art. 1
 
