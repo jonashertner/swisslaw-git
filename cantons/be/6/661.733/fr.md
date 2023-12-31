@@ -4,13 +4,13 @@ number: "661.733"
 title: "Ordonnance sur la perception des redevances et autres créances transmises à l'encaissement, sur les facilités de paiement, sur la remise, sur les éliminations de créances irrécouvrables ainsi que sur les intérêts que portent les créances à recouvrer *"
 short: "Ordonnance sur la perception, OPER"
 language: fr
-version: 2023-01-01
-valid_until: 2023-12-31
-version_adopted: 2022-11-23
+version: 2024-01-01
+valid_until: 2025-12-31
+version_adopted: 2023-11-15
 adopted: 2000-10-18
 in_force: 2001-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/661.733"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2757/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2909/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2757/pdf_file"
 
 (Ordonnance sur la perception, OPER)
 
-du 18.10.2000 (état au 01.01.2023)
+du 18.10.2000 (état au 01.01.2024)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -581,10 +581,11 @@ arrête:
 
 #### Art. A1-1
 
-<sup>1</sup> Les taux de l'intérêt moratoire, de l'intérêt rémunératoire et de l'intérêt que portent les paiements anticipés des années fiscales 1997 à 2023 sont indiqués dans le tableau ci-dessous:
+<sup>1</sup> Les taux de l'intérêt moratoire, de l'intérêt rémunératoire et de l'intérêt que portent les paiements anticipés des années fiscales 1997 à 2024 sont indiqués dans le tableau ci-dessous:
 
 <table>
 <tr><th>Année fiscale</th><th>Intérêt moratoire et intérêt rémunératoire (en pour cent)</th><th>Intérêt que portent les paiements anticipés (en pour cent)</th></tr>
+<tr><td>2024</td><td>4,00 et 1,00</td><td>0,75</td></tr>
 <tr><td>2023</td><td>3,00 et 0,50</td><td>0,25</td></tr>
 <tr><td>2022</td><td>3,00 et 0,50</td><td>0</td></tr>
 <tr><td>2021</td><td>3,00 et 0,50</td><td>0</td></tr>

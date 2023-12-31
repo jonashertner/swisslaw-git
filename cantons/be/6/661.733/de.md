@@ -4,13 +4,13 @@ number: "661.733"
 title: "Verordnung über den Bezug und die Verzinsung von Abgaben und anderen zum Inkasso übertragenen Forderungen, über Zahlungserleichterungen, Erlass sowie Abschreibungen infolge Uneinbringlichkeit"
 short: "Bezugsverordnung, BEZV"
 language: de
-version: 2023-01-01
-valid_until: 2023-12-31
-version_adopted: 2022-11-23
+version: 2024-01-01
+valid_until: 2025-12-31
+version_adopted: 2023-11-15
 adopted: 2000-10-18
 in_force: 2001-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/661.733"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2757/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2909/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2757/pdf_file"
 
 (Bezugsverordnung, BEZV)
 
-vom 18.10.2000 (Stand 01.01.2023)
+vom 18.10.2000 (Stand 01.01.2024)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -578,10 +578,11 @@ beschliesst:
 
 #### Art. A1-1
 
-<sup>1</sup> In den Steuerjahren 1997 bis 2023 gelten für die Verzugs- und Vergütungszinsen und für den Vorauszahlungszins die Prozentsätze gemäss nachstehender Tabelle:
+<sup>1</sup> In den Steuerjahren 1997 bis 2024 gelten für die Verzugs- und Vergütungszinsen und für den Vorauszahlungszins die Prozentsätze gemäss nachstehender Tabelle:
 
 <table>
 <tr><th>Steuerjahr</th><th>Verzugs- und Vergütungszins (in Prozenten)</th><th>Vorauszahlungszins (in Prozenten)</th></tr>
+<tr><td>2024</td><td>4,00 bzw. 1,00</td><td>0,75</td></tr>
 <tr><td>2023</td><td>3,00 bzw. 0,50</td><td>0,25</td></tr>
 <tr><td>2022</td><td>3,00 bzw. 0,50</td><td>0</td></tr>
 <tr><td>2021</td><td>3,00 bzw. 0,50</td><td>0</td></tr>
