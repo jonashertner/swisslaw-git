@@ -4,13 +4,12 @@ number: "162.621"
 title: Organisationsreglement des Verwaltungsgerichts
 short: OrR VG
 language: de
-version: 2023-05-01
-valid_until: 2023-12-31
-version_adopted: 2023-03-09
+version: 2024-01-01
+version_adopted: 2023-11-23
 adopted: 2010-09-22
 in_force: 2011-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/162.621"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2829/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2981/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2829/pdf_file"
 
 (OrR VG)
 
-vom 22.09.2010 (Stand 01.05.2023)
+vom 22.09.2010 (Stand 01.01.2024)
 
 Das Verwaltungsgericht des Kantons Bern,
 
@@ -36,13 +35,13 @@ beschliesst:
 
 <sup>1</sup> Das Verwaltungsgericht ist in der Rechtsprechung unabhängig und nur dem Recht verpflichtet.
 
-<sup>2</sup> Im Rahmen der gesetzlichen Vorgaben und unter Vorbehalt der Aufgaben und Befugnisse der Justizleitung verwaltet es sich selbst. Dabei beachten seine Leitungsorgane sinngemäss die Grundsätze der Führungs-, Leistungs- und Kostenorientierung gemäss Artikel 3 Absatz 2, 4 und 5 des Gesetzes vom 26. März 2002 über die Steuerung von Finanzen und Leistungen (FLG)[^1-1].
+<sup>2</sup> Im Rahmen der gesetzlichen Vorgaben und unter Vorbehalt der Aufgaben und Befugnisse der Justizverwaltungsleitung verwaltet es sich selbst. Dabei beachten seine Leitungsorgane sinngemäss die allgemeinen Grundsätze der Steuerung von Finanzen und Leistungen gemäss Artikel 3 des Finanzhaushaltsgesetzes vom 15. Juni 2022 (FHG)[^1-1].
 
 <sup>3</sup> Wo es sinnvoll erscheint, arbeiten die Leitungsorgane des Verwaltungsgerichts mit denjenigen des Obergerichts und der Generalstaatsanwaltschaft zusammen.
 
 <sup>4</sup> Das Verwaltungsgericht bekennt sich gegen innen und aussen zum Grundsatz der Transparenz und zum Recht auf Information, unter Beachtung des Amtsgeheimnisses und des Datenschutzes.
 
-[^1-1]: BSG 620.0
+[^1-1]: BSG [620.0](https://www.belex.sites.be.ch/data/620.0/de)
 
 ## 2 Organe der Gerichtsleitung
 
@@ -56,7 +55,7 @@ beschliesst:
 
 - a nimmt die Aufgaben gemäss Artikel 50 GSOG wahr,
 - b vertritt das Verwaltungsgericht und die Verwaltungsgerichtsbarkeit nach aussen,
-- c vertritt die Verwaltungsgerichtsbarkeit in der Justizleitung,
+- c vertritt die Verwaltungsgerichtsbarkeit in der Justizverwaltungsleitung,
 - d führt die Generalsekretärin oder den Generalsekretär sowie die Leiterin oder den Leiter des Controllings,
 - e beruft die Sitzungen des Plenums und der Geschäftsleitung ein und leitet sie.
 
@@ -142,10 +141,10 @@ beschliesst:
 
 **Aufgaben**
 
-<sup>1</sup> Die Geschäftsleitung ist verantwortlich für die Gerichtsverwaltung und zuständig für alle Angelegenheiten, die nicht einem andern Organ zugewiesen sind, insbesondere für die Geschäfte gemäss Artikel 52 Absatz 2 GSOG. Weiter obliegen ihr:
+<sup>1</sup> Die Geschäftsleitung ist verantwortlich für die Gerichtsverwaltung und zuständig für alle Angelegenheiten, die nicht einem anderen Organ zugewiesen sind, insbesondere für die Geschäfte gemäss Artikel 52 Absatz 2 GSOG. Weiter obliegen ihr:
 
 - a die Bewilligung von Nebenbeschäftigungen und öffentlichen Ämtern des Personals des Verwaltungsgerichts sowie der Mitglieder der beaufsichtigten Gerichtsbehörden,
-- b die Antragstellung an die Justizleitung zur Bewilligung der Ausübung von Nebenbeschäftigungen und öffentlichen Ämtern der Mitglieder des Verwaltungsgerichts,
+- b die Antragstellung an die Justizverwaltungsleitung zur Bewilligung der Ausübung von Nebenbeschäftigungen und öffentlichen Ämtern der Mitglieder des Verwaltungsgerichts,
 - c der Entscheid oder Antrag im Verfahren betreffend abteilungsübergreifende Unterstützung,
 - d der Erlass von Weisungen und Kreisschreiben und die Kontrolle der Umsetzung,
 - e die Verabschiedung der Strategie des Verwaltungsgerichts und des Konzepts über die Aufsicht und das Controlling zuhanden des Plenums,
@@ -181,7 +180,7 @@ beschliesst:
 
 <sup>2</sup> Sie oder er unterstützt mit ihren oder seinen Mitarbeiterinnen und Mitarbeitern die übrigen Organe der Gerichtsleitung bei der Aufgabenerfüllung. Sie oder er bereitet die Geschäfte des Präsidiums, des Plenums und der Geschäftsleitung vor und setzt deren Beschlüsse um.
 
-<sup>3</sup> Sie oder er ist im Rahmen der Vorgaben der Stabsstelle für Ressourcen der Justizleitung verantwortlich für das Personal, die Personalentwicklung, das Finanz- und Rechnungswesen, die Infrastruktur sowie die Sicherheit in der Verwaltungsgerichtsbarkeit.
+<sup>3</sup> Sie oder er ist im Rahmen der Vorgaben der Stabsstelle für Ressourcen der Justizverwaltungsleitung verantwortlich für das Personal, die Personalentwicklung, das Finanz- und Rechnungswesen, die Infrastruktur sowie die Sicherheit in der Verwaltungsgerichtsbarkeit.
 
 <sup>4</sup> Sie oder er
 
@@ -491,9 +490,9 @@ beschliesst:
 
 <sup>2</sup> Die Beteiligten sind verpflichtet, zunächst das Gespräch unter sich und falls erforderlich innerhalb der betroffenen Abteilung zu suchen.
 
-<sup>3</sup> Führen diese Gespräche zu keiner Einigung, wird die Angelegenheit der Präsidentin oder dem Präsidenten des Verwaltungsgerichts unterbreitet, im Verhinderungsfall oder bei Befangenheit deren oder dessen Stellvertretung. Sie oder er zieht bei Bedarf die Geschäftsleitung bei. Diese trifft geeignete Massnahmen. Sie kann die Justizleitung einbeziehen.
+<sup>3</sup> Führen diese Gespräche zu keiner Einigung, wird die Angelegenheit der Präsidentin oder dem Präsidenten des Verwaltungsgerichts unterbreitet, im Verhinderungsfall oder bei Befangenheit deren oder dessen Stellvertretung. Sie oder er zieht bei Bedarf die Geschäftsleitung bei. Diese trifft geeignete Massnahmen. Sie kann die Justizverwaltungsleitung einbeziehen.
 
-<sup>4</sup> Scheitern sämtliche internen Versuche zur Beilegung des Konflikts und handelt es sich um eine wesentliche Angelegenheit, die im Rahmen der Oberaufsicht von Bedeutung sein kann, so informiert die Geschäftsleitung die Justizleitung zuhanden der Justizkommission des Grossen Rates.
+<sup>4</sup> Scheitern sämtliche internen Versuche zur Beilegung des Konflikts und handelt es sich um eine wesentliche Angelegenheit, die im Rahmen der Oberaufsicht von Bedeutung sein kann, so informiert die Geschäftsleitung die Justizverwaltungsleitung zuhanden der Justizkommission des Grossen Rates.
 
 ## 9 Information und Gerichtsberichterstattung
 

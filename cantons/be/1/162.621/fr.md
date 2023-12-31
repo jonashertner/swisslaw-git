@@ -4,13 +4,12 @@ number: "162.621"
 title: Règlement d’organisation du Tribunal administratif
 short: ROr TA
 language: fr
-version: 2023-05-01
-valid_until: 2023-12-31
-version_adopted: 2023-03-09
+version: 2024-01-01
+version_adopted: 2023-11-23
 adopted: 2010-09-22
 in_force: 2011-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/162.621"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2829/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2981/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2829/pdf_file"
 
 (ROr TA)
 
-du 22.09.2010 (état au 01.05.2023)
+du 22.09.2010 (état au 01.01.2024)
 
 Le Tribunal administratif du canton de Berne,
 
@@ -36,13 +35,13 @@ arrête:
 
 <sup>1</sup> Dans l’exercice de ses compétences juridictionnelles, le Tribunal administratif est indépendant et n’est soumis qu’au droit.
 
-<sup>2</sup> Dans les limites définies par la loi et sous réserve des tâches et des attributions de la Direction de la magistrature, il s’administre lui-même. Les organes de direction respectent par analogie les principes visant à mettre l’accent sur la direction stratégique, les prestations et les coûts selon l’article 3, alinéas 2, 4 et 5 de la loi du 26 mars 2002 sur le pilotage des finances et des prestations (LFP)[^1-1].
+<sup>2</sup> Dans les limites définies par la loi et sous réserve des tâches et des attributions de la Direction administrative de la magistrature, il s’administre lui-même. Les organes de direction respectent par analogie les principes généraux visant à mettre l’accent sur le pilotage des finances et des prestations selon l’article 3 de la loi du 15 juin 2022 sur les finances (LFin)[^1-1].
 
 <sup>3</sup> Lorsque cela semble opportun, les organes de direction du Tribunal administratif coopèrent avec ceux de la Cour suprême et du Parquet général.
 
 <sup>4</sup> Le Tribunal administratif applique à l’interne comme à l’extérieur le principe de la transparence et du droit à l’information, sous respect du secret de fonction et de la protection des données.
 
-[^1-1]: RSB 620.0
+[^1-1]: RSB [620.0](https://www.belex.sites.be.ch/data/620.0/fr)
 
 ## 2 Organes de direction
 
@@ -56,7 +55,7 @@ arrête:
 
 - a accomplit les tâches selon l’article 50 LOJM,
 - b représente le Tribunal administratif et la juridiction administrative vis-à-vis des tiers,
-- c représente la juridiction administrative dans la Direction de la magistrature,
+- c représente la juridiction administrative dans la Direction administrative de la magistrature,
 - d dirige le secrétaire général ou la secrétaire générale ainsi que le ou la responsable du controlling,
 - e convoque les séances du plénum et du directoire et les préside.
 
@@ -145,7 +144,7 @@ arrête:
 <sup>1</sup> Le directoire est responsable de l’administration du Tribunal administratif et compétent pour toutes les affaires qui ne sont pas attribuées à un autre organe, en particulier pour les affaires selon l’article 52, alinéa 2 LOJM. De plus, il est compétent pour
 
 - a autoriser les activités annexes et les charges publiques du personnel du Tribunal administratif ainsi que des membres des autorités placées sous la surveillance du Tribunal administratif,
-- b proposer à la Direction de la magistrature d’autoriser l’exercice d’activités annexes et de charges publiques des membres du Tribunal administratif,
+- b proposer à la Direction administrative de la magistrature d’autoriser l’exercice d’activités annexes et de charges publiques des membres du Tribunal administratif,
 - c décider ou proposer dans la procédure de mesures d’assistance entre cours,
 - d édicter des directives et des circulaires et contrôler leur mise en œuvre,
 - e adopter la stratégie du Tribunal administratif et le concept de surveillance et de controlling à l’intention du plénum,
@@ -181,7 +180,7 @@ arrête:
 
 <sup>2</sup> Il ou elle soutient avec ses collaborateurs et collaboratrices les autres organes du directoire dans l’accomplissement de leurs tâches. Il ou elle prépare les affaires de la présidence, du plénum et du directoire et met en œuvre leurs décisions.
 
-<sup>3</sup> Il ou elle est responsable, dans les limites des consignes de l’état-major des ressources de la Direction de la magistrature, du personnel, du développement du personnel, des finances et de la comptabilité, de l’infrastructure ainsi que de la sécurité dans la juridiction administrative.
+<sup>3</sup> Il ou elle est responsable, dans les limites des consignes de l’état-major des ressources de la Direction administrative de la magistrature, du personnel, du développement du personnel, des finances et de la comptabilité, de l’infrastructure ainsi que de la sécurité dans la juridiction administrative.
 
 <sup>4</sup> Il ou elle
 
@@ -491,9 +490,9 @@ arrête:
 
 <sup>2</sup> Les intéressés doivent d’abord chercher le dialogue entre eux puis, si nécessaire, au sein de la cour concernée.
 
-<sup>3</sup> Si ces discussions ne conduisent pas à un accord, l’affaire est soumise au président ou à la présidente du Tribunal administratif, ou si celui-ci ou celle-ci est empêchée ou prévenue, à son suppléant ou sa suppléante. Il ou elle fait au besoin appel au directoire. Celui-ci prend les mesures appropriées. Il peut faire appel à la Direction de la magistrature.
+<sup>3</sup> Si ces discussions ne conduisent pas à un accord, l’affaire est soumise au président ou à la présidente du Tribunal administratif, ou si celui-ci ou celle-ci est empêchée ou prévenue, à son suppléant ou sa suppléante. Il ou elle fait au besoin appel au directoire. Celui-ci prend les mesures appropriées. Il peut faire appel à la Direction administrative de la magistrature.
 
-<sup>4</sup> Si toutes les tentatives internes de règlement du conflit ont échoué et qu’il s’agit d’une affaire importante, qui peut avoir une incidence au niveau de la haute surveillance, le directoire informe la Direction de la magistrature à l’intention de la Commission de justice du Grand Conseil.
+<sup>4</sup> Si toutes les tentatives internes de règlement du conflit ont échoué et qu’il s’agit d’une affaire importante, qui peut avoir une incidence au niveau de la haute surveillance, le directoire informe la Direction administrative de la magistrature à l’intention de la Commission de justice du Grand Conseil.
 
 ## 9 Information et compte rendu judiciaire
 
