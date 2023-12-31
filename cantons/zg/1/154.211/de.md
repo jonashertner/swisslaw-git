@@ -2,24 +2,24 @@
 canton: ZG
 number: "154.211"
 title: Vollziehungsverordnung zum Gesetz über das Arbeitsverhältnis des Staatspersonals
-short: Personalverordnung
+short: "Personalverordnung, PVO"
 language: de
-version: 2022-07-02
-valid_until: 2023-12-31
-version_adopted: 2022-06-21
+version: 2024-01-01
+valid_until: 2024-12-31
+version_adopted: 2022-11-22
 adopted: 1994-12-12
 in_force: 1995-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/154.211"
-pdf: "https://bgs.zg.ch/api/de/versions/2350/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2517/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Vollziehungsverordnung zum Gesetz über das Arbeitsverhältnis des Staatspersonals
 
-(Personalverordnung)
+(Personalverordnung, PVO)
 
-Vom 12. Dezember 1994 (Stand 2. Juli 2022)
+Vom 12. Dezember 1994 (Stand 1. Januar 2024)
 
 Der Regierungsrat des Kantons Zug,
 
@@ -92,11 +92,11 @@ beschliesst:
 
 <sup>2</sup> Die Direktionen, die Staatskanzlei und die Ämter treffen die personalrelevanten Entscheide nach Rücksprache mit dem Personalamt. Es sind dies insbesondere
 
-- a) Festlegung der Anstellungsbedingungen und Besoldungseinreihungen;
-- b) Beförderungen;
+- a) Festlegung der Anstellungsbedingungen und Lohneinreihungen;
+- b) individuelle Lohnerhöhungen und Einmalzulagen;
 - c) personalrechtliche Massnahmen;
 - d) Modalitäten einer einvernehmlichen Auflösung;
-- e) Abschluss einer Weiterbildungsvereinbarung.
+- e) Abschluss einer Bildungsvereinbarung.
 
 <sup>2a</sup> Von der Pflicht zur Rücksprache ausgenommen sind personalrelevante Entscheide im Bereich der Justizverwaltung, der Datenschutzstelle sowie der Ombudsstelle.
 
@@ -117,7 +117,7 @@ beschliesst:
 - c) betreibt das zentrale Personalinformationssystem sowie die zentrale Lohnverarbeitung;
 - d) plant und entwickelt in Zusammenarbeit mit weiteren Stellen organisatorische, administrative und technische Hilfsmittel für die Personalführung und -förderung;
 - e) begutachtet Fragen aus den einzelnen Arbeitsverhältnissen und nimmt mittels Mitberichten in personalrechtlichen Rechtsmittelverfahren Stellung;
-- f) plant und organisiert die zentrale Weiterbildung, führt Schulungsmassnahmen durch oder gibt sie Dritten in Auftrag;
+- f) plant und organisiert die zentrale Fort- und Weiterbildung, führt Schulungsmassnahmen durch oder gibt sie Dritten in Auftrag;
 - g) koordiniert und überwacht die Ausbildung von kaufmännischen Lernenden, unterstützt die Berufsbildenden in allen anderen Lehrberufen sowie bei Praktika und berät die Direktionen bei der Schaffung neuer Lehrstellen und Praktikumsplätze;
 - h) sorgt für die angemessene Information und Instruktion der Ämter und des Personals über personelle Angelegenheiten;
 - i) berät und unterstützt im Einvernehmen mit den beteiligten Direktionen die Ämter und das Personal in personellen Angelegenheiten;
@@ -216,7 +216,7 @@ beschliesst:
 
 <sup>2</sup> Die Mitarbeiterin oder der Mitarbeiter hat der vorgesetzten Stelle mindestens sechs Monate vor Erreichen der Altersgrenze mitzuteilen, dass und unter welchen Bedingungen sie bzw. er gewillt ist, die Pensionierung aufzuschieben.
 
-<sup>3</sup> Die Weiterbeschäftigung nach Erreichen der Altersgrenze erfolgt im Rahmen eines befristeten Arbeitsverhältnisses und nach den hierfür geltenden Bestimmungen. Im Hinblick auf die Ausrichtung der Treue- und Erfahrungszulage und des Dienstaltersgeschenks, sind zur Berechnung der massgebenden Dienstjahre die Dienstzeiten vor und nach Erreichen der Altersgrenze zusammenzuzählen. Bei einer Wiederaufnahme der Tätigkeit im Rahmen eines Arbeitsverhältnisses als Aushilfe oder Hilfskraft nach ordentlicher Pensionierung wird weder die Treue- und Erfahrungszulage noch ein allfälliges Dienstaltersgeschenk ausgerichtet.
+<sup>3</sup> Die Weiterbeschäftigung nach Erreichen der Altersgrenze erfolgt im Rahmen eines befristeten Arbeitsverhältnisses und nach den hierfür geltenden Bestimmungen. Im Hinblick auf die Ausrichtung des Dienstaltersgeschenks, sind zur Berechnung der massgebenden Dienstjahre die Dienstzeiten vor und nach Erreichen der Altersgrenze zusammenzuzählen. Aus der Wiederaufnahme der Tätigkeit im Rahmen eines Arbeitsverhältnisses als Aushilfe oder Hilfskraft nach ordentlicher Pensionierung ergibt sich kein Anspruch auf ein weiteres Dienstaltersgeschenk.
 
 ## 4. Pflichten und Rechte
 
@@ -249,7 +249,9 @@ beschliesst:
 
 **Stellvertretung**
 
-<sup>1</sup> Die Mitarbeiterinnen und Mitarbeiter sind verpflichtet, sich bei Abwesenheit nach den Weisungen der vorgesetzten Stelle gegenseitig zu vertreten. Daraus entsteht kein Anspruch auf Entschädigung. Vorbehalten bleiben abweichende Beschlüsse des Regierungsrats im Einzelfall bei längerfristigen Absenzen (z. B. langdauernde Krankheit oder Dienstleistung, Mutterschaftsurlaub).
+<sup>1</sup> Die Mitarbeiterinnen und Mitarbeiter sind verpflichtet, sich bei Abwesenheit nach den Weisungen der vorgesetzten Stelle gegenseitig zu vertreten. Daraus entsteht kein Anspruch auf Entschädigung. Vorbehalten bleibt die Ausrichtung einer Funktionszulage gemäss § 6 Abs. 1 Bst. b der Verordnung über Referenzfunktionen, Einreihungsplan und Lohneinreihung (Lohneinreihungsverordnung; LEVO)[^13-1]
+
+[^13-1]: BGS [154.234](https://bgs.zg.ch/data/154.234/de)
 
 #### § 13a
 
@@ -288,7 +290,7 @@ beschliesst:
 
 **Nebenerwerb**
 
-<sup>1</sup> Als Nebenerwerb gilt eine üblicherweise besoldete Tätigkeit, die ausserhalb des bestehenden Arbeitsverhältnisses mit dem Kanton stattfindet, unabhängig von deren Umfang. Der Nebenerwerb kann wirtschaftlicher, politischer oder ideeller Natur sein.
+<sup>1</sup> Als Nebenerwerb gilt eine üblicherweise gegen Lohn ausgeübte Tätigkeit, die ausserhalb des bestehenden Arbeitsverhältnisses mit dem Kanton stattfindet, unabhängig von deren Umfang. Der Nebenerwerb kann wirtschaftlicher, politischer oder ideeller Natur sein.
 
 <sup>2</sup> Nebenerwerbstätigkeiten von Mitarbeiterinnen und Mitarbeitern, welche mit einem Beschäftigungsumfang von unter 50 % angestellt sind, gelten als bewilligt, sofern nicht die Bewilligung innert 20 Arbeitstagen seit der Meldung schriftlich verweigert wird.
 
@@ -312,7 +314,7 @@ beschliesst:
 
 **Meldepflicht**
 
-<sup>1</sup> Die Mitarbeiterinnen und Mitarbeiter sind verpflichtet, den Eintritt und die Änderung sämtlicher Tatsachen, die auf die Berechnung und Ausrichtung des Gehaltes sowie der Zulagen, Entschädigungen und Vergütungen aller Art Einfluss haben, unaufgefordert dem Personalamt zu melden.
+<sup>1</sup> Die Mitarbeiterinnen und Mitarbeiter sind verpflichtet, den Eintritt und die Änderung sämtlicher Tatsachen, die auf die Berechnung und Ausrichtung des Lohns sowie der Zulagen, Entschädigungen und Vergütungen aller Art Einfluss haben, unaufgefordert dem Personalamt zu melden.
 
 <sup>2</sup> Öffentliche Nebenämter und Nebenerwerbstätigkeiten sind bei der Anstellung offen zu legen und von den Mitarbeiterinnen und Mitarbeitern während der Anstellung unaufgefordert der zuständigen Stelle zwecks Bewilligung zu melden.
 
@@ -357,17 +359,21 @@ beschliesst:
 
 **Geschenkannahmeverbot**
 
-<sup>1</sup> Als Geschenke und Vorteile gelten geldwerte Zuwendungen wie Sach- und Geldleistungen, Einladungen zum Essen oder zu Veranstaltungen, Vergütungen oder Rabatte usw.
+<sup>1</sup> Als Geschenke und Vorteile gelten geldwerte Zuwendungen wie Sachleistungen, Einladungen zum Essen oder zu Veranstaltungen, Vergütungen oder Rabatte usw.
+
+<sup>1a</sup> Die Annahme von Bargeld ist grundsätzlich untersagt. Ausgenommen hiervon sind Bargeldbeträge bis zu 50 Franken, die eine erbrachte Dienstleistung honorieren, sofern sie einer Gemeinschaftskasse zugeführt werden, von welcher ein grösserer Personenkreis profitiert. Auch die Annahme solcher Geldgeschenke steht unter dem Vorbehalt von Abs. 2 Bst. b.
 
 <sup>2</sup> Ein Geschenk oder Vorteil von geringem Wert liegt vor und darf angenommen werden, wenn:
 
-- a) der Wert des Geschenks oder Vorteils nicht mehr als 150 Franken beträgt, wobei mehrere Geschenke von der gleichen Geberin bzw. dem gleichen Geber innerhalb eines Jahres zur Bestimmung des Werts zusammenzuzählen sind; und
-- b) das Geschenk oder der Vorteil nicht geeignet ist, einen Beschaffungs- oder Entscheid-Prozess zu beeinflussen; und
-- c) das Geschenk oder der Vorteil eine erbrachte Dienstleistung honoriert oder Ausdruck einer allgemeinen Wertschätzung des Kantons oder seiner Vertreterin bzw. seines Vertreters ist.
+- a) der Wert des Sachgeschenks oder Vorteils nicht mehr als 100 Franken beträgt, wobei mehrere Geschenke von der gleichen Geberin bzw. dem gleichen Geber innerhalb eines Jahres zur Bestimmung des Werts zusammenzuzählen sind; und
+- b) das Geschenk oder der Vorteil weder geeignet ist, einen Beschaffungs- oder Entscheid-Prozess zu beeinflussen noch den Anschein der Käuflichkeit oder Befangenheit des Beschenkten zu erwecken.
+- c) …
 
-<sup>3</sup> Bestehen Zweifel, ob ein Geschenk von geringem Wert vorliegt, entscheidet die vorgesetzte Stelle über die Zulässigkeit der Annahme.
+<sup>3</sup> Bestehen Zweifel, ob ein Geschenk oder eine Vorteilsannahme von geringem Wert vorliegt, entscheidet die vorgesetzte Stelle über die Zulässigkeit der Annahme.
 
 <sup>4</sup> Die Direktionen bzw. das Ober- oder Verwaltungsgericht können das Geschenkannahmeverbot für einzelne Ämter oder Abteilungen weiter einschränken.
+
+<sup>5</sup> Vom Geschenkannahmeverbot nicht erfasst werden unabhängig von ihrem Wert die über das Portal iZug veröffentlichten standardisierten Vergünstigungen für Mitarbeiterinnen und Mitarbeiter der kantonalen Verwaltung.
 
 ### 4.2. Lohn und lohnähnliche Vergütungen
 
@@ -381,15 +387,15 @@ beschliesst:
 
 **Dienstaltersgeschenk**
 
-<sup>1</sup> Bei Beendigung des Arbeitsverhältnisses zwischen dem 30. und dem 35. Dienstjahr wird das zweite Dienstaltersgeschenk anteilsmässig zu je einem Fünftel pro vollendetes oder mindestens zur Hälfte erfülltes Dienstjahr ausgerichtet.
+<sup>1</sup> Wird das Dienstaltersgeschenk in Form von Urlaub bezogen, so entspricht ein Viertel eines Monatslohns 5 Arbeitstagen und die Hälfte eines Monatslohns 10 Arbeitstagen.
 
-<sup>2</sup> Wird die Hälfte des Dienstaltersgeschenks als Urlaub bezogen, so beträgt dieser 11 Arbeitstage. Massgebend für die Anrechnung der Stundenzahl dieser 11 Arbeitstage ist der Durchschnitt aus der Anzahl der täglichen Sollstunden während der letzten fünf Dienstjahre einschliesslich des Monats des Dienstjubiläums. Der Urlaub ist in der Regel spätestens im auf die Entstehung des Anspruchs folgenden Kalenderjahr zu beziehen. Beim Vorliegen besonderer Gründe kann die zuständige Direktion Ausnahmen bewilligen.
+<sup>2</sup> Massgebend für die Anrechnung der Stundenzahl dieser Urlaubstage ist der Durchschnitt aus der Anzahl der täglichen Sollstunden während der letzten zwei Dienstjahre einschliesslich des Monats des Dienstjubiläums. Der Urlaub ist in der Regel spätestens im auf die Entstehung des Anspruchs folgenden Kalenderjahr zu beziehen. Beim Vorliegen besonderer Gründe kann die zuständige Direktion Ausnahmen bewilligen.
 
 #### § 20
 
 **Entgelt für ausserordentliche Inanspruchnahme**
 
-<sup>1</sup> Mitarbeiterinnen und Mitarbeiter, die funktionsgemäss mit einer gewissen Regelmässigkeit während der arbeitsfreien Zeit eingesetzt werden oder deren Dienst mit besonderen Belastungen verbunden ist, haben, sofern diese Beanspruchung nicht mit dem Gehalt abgegolten ist, Anspruch auf besondere Entschädigungen und Zulagen (z. B. Belastungs-, Pikett-, Nacht- und Sonntagsdienst-, Schichtdienstzulagen).
+<sup>1</sup> Mitarbeiterinnen und Mitarbeiter, die funktionsgemäss mit einer gewissen Regelmässigkeit während der arbeitsfreien Zeit eingesetzt werden oder deren Dienst mit besonderen Belastungen verbunden ist, haben, sofern diese Beanspruchung nicht mit dem Lohn abgegolten ist, Anspruch auf besondere Entschädigungen und Zulagen (z. B. Belastungs-, Pikett-, Nacht- und Sonntagsdienst-, Schichtdienstzulagen).
 
 <sup>2</sup> Der Regierungsrat regelt das Nähere.
 
@@ -429,17 +435,7 @@ beschliesst:
 
 #### § 28
 
-**Fort- und Weiterbildungskosten**
-
-<sup>1</sup> Soweit die Mitarbeiterinnen und Mitarbeiter zur beruflichen Fort- und Weiterbildung bzw. zur Aus- und Zusatzbildung durch Teilnahme an bestimmten Veranstaltungen (Kurse, Seminare, Tagungen zur Fachausbildung, Führungsschulung oder zum Erfahrungsaustausch) verpflichtet werden, trägt der Kanton die Kosten.
-
-<sup>2</sup> An die Kosten der freiwilligen Fort- und Weiterbildung bzw. Zusatzbildung kann ein Beitrag bewilligt werden, sofern die Fort- und Weiterbildung bzw. Zusatzbildung im Interesse des Kantons liegt. Die Beitragsleistung kann für den Fall, dass das Arbeitsverhältnis innerhalb einer bestimmten Frist nach Beendigung der Weiterbildung seitens der Mitarbeiterin oder des Mitarbeiters gekündigt wird, unter dem Vorbehalt der Rückerstattung bewilligt werden.
-
-<sup>3</sup> …
-
-<sup>4</sup> Die Voraussetzungen und den Umfang der Kostenbeteiligung des Kantons sowie der Rückerstattungsverpflichtung der Mitarbeiterinnen und Mitarbeiter legt der Regierungsrat in einem separaten Reglement[^28-1] fest.
-
-[^28-1]: Reglement über die Weiter- oder Zusatzbildung sowie den Studienurlaub des Staatspersonals; BGS [154.215](https://bgs.zg.ch/data/154.215/de)
+**…**
 
 ### 4.4. Rechnungsstellung
 
@@ -465,6 +461,8 @@ beschliesst:
 - h) Ersatz der der Mediatorin oder dem Mediator entstandenen Barauslagen. Der Ersatz notwendiger Auslagen kann von der Mediatorin oder dem Mediator pauschal mit 3 % des Honorars, höchstens 1000 Franken, berechnet werden.
 
 <sup>2</sup> Ergibt das Verfahren, dass die Mitarbeiterin bzw. der Mitarbeiter die Amtspflichten vorsätzlich verletzt hat, so hat sie bzw. er die übernommenen Kosten vollumfänglich zurückzuerstatten. Hat sie bzw. er grobfahrlässig gehandelt, so hat sie bzw. er die übernommenen Kosten in einem dem Grad des Verschuldens entsprechenden Verhältnis zurückzuerstatten.
+
+<sup>3</sup> Ausnahmsweise kann die Übernahme eines höheren als des in Absatz 1 Bst. a, b, g und h genannten Stundenansatzes bzw. Auslagenersatzes bewilligt werden, wenn sich dies zu Wahrung der Rechte der Mitarbeiterin oder des Mitarbeiters als notwendig erweist.
 
 [^29a-1]: BGS [154.21](https://bgs.zg.ch/data/154.21/de)
 
