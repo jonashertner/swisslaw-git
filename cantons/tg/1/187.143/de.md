@@ -4,22 +4,23 @@ number: "187.143"
 title: Verordnung der Synode über Entschädigungen in der Evangelischen Landeskirche des Kantons Thurgau
 short: Entschädigungsverordnung
 language: de
-version: 2021-01-01
-valid_until: 2023-12-31
-version_adopted: 2020-12-01
+version: 2024-01-01
+version_adopted: 2023-06-26
 adopted: 2016-06-27
 in_force: 2017-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/187.143"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2038/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2745/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung der Synode über Entschädigungen in der Evangelischen Landeskirche des Kantons Thurgau
 
-V der Synode - Entschädigungen in der Evangelischen Landeskirche
+Entschädigungsverordnung
 
-vom 27.06.2016 (Stand 01.01.2021)
+(Entschädigungsverordnung)
+
+vom 27.06.2016 (Stand 01.01.2024)
 
 ## 1. Allgemeine Bestimmungen
 
@@ -72,15 +73,15 @@ vom 27.06.2016 (Stand 01.01.2021)
 <sup>1</sup> Den Pfarrern, Pfarrerinnen, Diakonen und Diakoninnen, sozialdiakonischen Mitarbeitenden sowie Katecheten oder Katechetinnen werden an Kursbesuche, die von der zuständigen Instanz bewilligt worden sind, auf Gesuch hin folgende Beiträge und Entschädigungen ausgerichtet:
 
 - 1\. Beitrag an die reinen Kurskosten:
-  - a. für kantonale, vom Kirchenrat als obligatorisch erklärte Kurse: Landeskirche 100 %;
-  - b. für kantonale, vom Kirchenrat empfohlene freiwillige Kurse und Supervision: Landeskirche 50 %, Kirchgemeinde 50 %;
-  - c. für übrige Kurse und Supervision: Landeskirche 30 %, Kirchgemeinde 50 – 70 %;
-  - d. für Overheadkosten, die von offiziellen schweizerischen landeskirchlichen Anbietern in Rechnung gestellt werden: Landeskirche 100 %.
+  - a. für kantonale, vom Kirchenrat als obligatorisch erklärte Kurse: Landeskirche 100 %
+  - b. für kantonale, vom Kirchenrat empfohlene freiwillige Kurse und Supervision: Landeskirche 50 %, Kirchgemeinde 50 %
+  - c. für übrige Kurse und Supervision: Landeskirche 30 %, Kirchgemeinde 50 – 70 %
+  - d. für Overheadkosten, die von offiziellen schweizerischen landeskirchlichen Anbietern in Rechnung gestellt werden: Landeskirche 100 %
 - 2\. Als maximale Nettokosten für Kursgeld, Verpflegung und Unterkunft werden Fr. 2'500 pro Woche beziehungsweise Fr. 500 pro Kurstag anerkannt, miteingerechnet allfällige in Rechnung gestellte Overheadkosten.
 - 3\. Anstelle von Kursen können pro Jahr maximal 10 Stunden Einzelsupervision in Anspruch genommen werden. Als maximale Kosten für Einzel-Supervision werden pro Stunde Fr. 160 anerkannt.
 - 4\. Verpflegung und Unterkunft: Kursteilnehmende leisten einen Selbstbehalt von 25 % der Kosten für Verpflegung und Unterkunft. Der Restbetrag, höchstens aber Fr. 135 für die Vollpension pro Tag, wird aufgeteilt wie die reinen Kurskosten.
 
-<sup>2</sup> Den von der Kantonalkirche Angestellten werden für bewilligte Weiterbildungen die Kurskosten sowie die Kosten für Unterkunft und Verpflegung nach Abzug des Selbstbehalts zu 100 % erstattet.
+<sup>2</sup> Den von der Kantonalkirche Angestellten und den Mitgliedern des Kirchenrates werden für bewilligte Weiterbildungen die Kurskosten sowie die Kosten für Unterkunft und Verpflegung nach Abzug des Selbstbehalts zu 100 % erstattet.
 
 <sup>3</sup> An Kosten für Reise und Kursmaterial werden keine Beiträge ausgerichtet.
 
@@ -92,16 +93,16 @@ vom 27.06.2016 (Stand 01.01.2021)
 
 <sup>1</sup> Die vertretungsweise Übernahme der im Folgenden genannten Dienste wird wie folgt entschädigt:
 
-- 1\. Gottesdienst — Fr. 300;
-  - - Jeder weitere Gottesdienst am gleichen Tag — Fr. 150;
-- 2\. Jugendgottesdienst — Fr. 150;
-  - - Jeder weitere Jugendgottesdienst am gleichen Tag — Fr. 100;
-- 3\. Trauung inklusive Vorgespräch — Fr. 300;
-- 4\. Abdankung inklusive Vorgespräch — Fr. 300;
-- 5\. Bereitschaftsdienst für Kasualien pro Woche — Fr. 100;
-- 6\. Heimgottesdienst — Fr. 150;
-  - - Jeder weitere Heimgottesdienst am gleichen Tag — Fr. 100;
-- 7\. Konfirmationsunterricht Einzellektion (45 Minuten) — Fr. 100.
+- 1\. Gottesdienst — Fr. 300
+  - - Jeder weitere Gottesdienst am gleichen Tag — Fr. 150
+- 2\. Jugendgottesdienst — Fr. 150
+  - - Jeder weitere Jugendgottesdienst am gleichen Tag — Fr. 100
+- 3\. Trauung inklusive Vorgespräch — Fr. 300
+- 4\. Abdankung inklusive Vorgespräch — Fr. 300
+- 5\. Bereitschaftsdienst für Kasualien pro Woche — Fr. 100
+- 6\. Heimgottesdienst — Fr. 150
+  - - Jeder weitere Heimgottesdienst am gleichen Tag — Fr. 100
+- 7\. Konfirmationsunterricht Einzellektion (45 Minuten) — Fr. 100
 
 ## 5. Tätigkeit in Sitzungen
 
@@ -111,13 +112,13 @@ vom 27.06.2016 (Stand 01.01.2021)
 
 <sup>1</sup> Die Sitzungsgelder richten sich nach folgenden Ansätzen:
 
-- 1\. Ganzer Tag: — Fr. 160;
-- 2\. Halber Tag: — Fr. 110;
+- 1\. Ganzer Tag: — Fr. 160
+- 2\. Halber Tag: — Fr. 110
 
 <sup>2</sup> Die Sitzungsgelder für Mitglieder von Kommissionen und Arbeitsgruppen richten sich nach folgenden Ansätzen:
 
-- 1\. Ganzer Tag (über 4 Stunden): — Fr. 140;
-- 2\. Halber Tag (bis zu 4 Stunden): — Fr. 95.
+- 1\. Ganzer Tag (über 4 Stunden): — Fr. 140
+- 2\. Halber Tag (bis zu 4 Stunden): — Fr. 95
 
 <sup>3</sup> Aktenstudium gehört zum Kommissionsauftrag.
 
@@ -153,11 +154,11 @@ vom 27.06.2016 (Stand 01.01.2021)
 
 <sup>2</sup> Für die übrigen Mitglieder gelten folgende Ansätze:
 
-- 1\. Ganzer Tag (über 4 Stunden) — Fr. 250;
-- 2\. Halber Tag (bis 4 Stunden) — Fr. 150;
-- 3\. Aktenstudium pro Stunde — Fr. 50;
-- 4\. Verfassen von Anträgen, Protokollen und Entscheiden pro Stunde — Fr. 100;
-- 5\. Verfahrensleitung pro Stunde zusätzlich — Fr. 100.
+- 1\. Ganzer Tag (über 4 Stunden) — Fr. 250
+- 2\. Halber Tag (bis 4 Stunden) — Fr. 150
+- 3\. Aktenstudium pro Stunde — Fr. 50
+- 4\. Verfassen von Anträgen, Protokollen und Entscheiden pro Stunde — Fr. 100
+- 5\. Verfahrensleitung pro Stunde zusätzlich — Fr. 100
 
 <sup>3</sup> Mitglieder der Rekurs- und Beschwerdekommission, die ihr Personal zur Verfügung stellen, dürfen sich diese Dienstleistung mit Fr. 50 pro Stunde vergüten lassen.
 
@@ -203,9 +204,9 @@ vom 27.06.2016 (Stand 01.01.2021)
 
 <sup>1</sup> An Gemeinden, die Praktikanten oder Praktikantinnen beziehungsweise Auszubildende im diakonischen Dienst beschäftigen, zahlt die Landeskirche folgenden Anteil an die Praktikumsentschädigungen beziehungsweise Lohnkosten:
 
-- 1\. 50 %, höchstens jedoch Fr. 600 pro Monat beziehungsweise maximal Fr. 7'200 pro Jahr für Praktika, die in keinem direkten Zusammenhang mit einer kirchlichen diakonischen Ausbildung stehen;
-- 2\. 50 %, höchstens jedoch Fr. 800 pro Monat beziehungsweise maximal Fr. 9'600 pro Jahr für Praktika, die im Zusammenhang mit einer vollzeitlichen kirchlichen diakonischen Ausbildung stehen;
-- 3\. 50 %, höchstens jedoch Fr. 1'200 pro Monat beziehungsweise maximal Fr. 15'600 pro Jahr für Ausbildungsplätze von berufsbegleitend Studierenden am TDS Aarau.
+- 1\. 50 %, höchstens jedoch Fr. 600 pro Monat beziehungsweise maximal Fr. 7'200 pro Jahr für Praktika, die in keinem direkten Zusammenhang mit einer kirchlichen diakonischen Ausbildung stehen
+- 2\. 50 %, höchstens jedoch Fr. 800 pro Monat beziehungsweise maximal Fr. 9'600 pro Jahr für Praktika, die im Zusammenhang mit einer vollzeitlichen kirchlichen diakonischen Ausbildung stehen
+- 3\. 50 %, höchstens jedoch Fr. 1'200 pro Monat beziehungsweise maximal Fr. 15'600 pro Jahr für Ausbildungsplätze von berufsbegleitend Studierenden am TDS Aarau
 
 <sup>2</sup> An die Sozialkosten der Praktikumsentschädigungen gemäss Abs. 1 Ziff. 1 und Ziff. 2 werden von der Landeskirche keine Anteile an die Gemeinden entrichtet.
 
@@ -215,10 +216,7 @@ vom 27.06.2016 (Stand 01.01.2021)
 
 **Fahrtentschädigung**
 
-<sup>1</sup> Für Reisen zum Sitzungs- oder Tätigkeitsort wird eine Fahrtentschädigung nach folgenden Ansätzen ausgerichtet:
-
-- 1\. Öffentliche Verkehrsmittel: Billett 2. Klasse;
-- 2\. Auto: Fr. 0.65 pro Kilometer für unvermeidliche Autofahrten.
+<sup>1</sup> Für Reisen zum Sitzungs- oder Tätigkeitsort wird eine Fahrtentschädigung in der Höhe der Kosten für das Billett 2. Klasse des öffentlichen Verkehrs ausgerichtet, unabhängig davon, ob die Fahrt mit dem öffentlichen Verkehr oder mit einem anderen Verkehrsmittel erfolgt ist.
 
 #### § 18
 
@@ -226,8 +224,8 @@ vom 27.06.2016 (Stand 01.01.2021)
 
 <sup>1</sup> Bei Verpflichtungen, die eine auswärtige Übernachtung bedingen, werden für Unterkunft und Verpflegung ausgerichtet:
 
-- 1\. Für Übernachtung/Frühstück: Effektive Kosten, maximal Fr. 150;
-- 2\. Pro Hauptmahlzeit: maximal Fr. 35.
+- 1\. Für Übernachtung/Frühstück: Effektive Kosten, maximal Fr. 150
+- 2\. Pro Hauptmahlzeit: maximal Fr. 35
 
 <sup>2</sup> Die Kosten für das gemeinsam eingenommene Mittagessen der Mitglieder der Synode anlässlich von ganztägigen Sitzungen werden durch die Landeskirche übernommen.
 
