@@ -4,11 +4,11 @@ title: Ordonnance du DDPS du 9 décembre 2003 sur le personnel militaire (O pers
 short: O pers mil
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/746"
 language: fr
-version: 2021-01-01
+version: 2024-01-01
 adopted: 2003-12-09
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/746/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2003-746-20210101-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/746/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/746/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2003-746-20240101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/746/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/746/20210101/fr"
 
 (O pers mil)
 
-du 9 décembre 2003 (État le 1<sup>er</sup> janvier 2021)
+du 9 décembre 2003 (État le 1<sup>er</sup> janvier 2024)
 
 Le Département fédéral de la défense, de la protection de la population et des sports (DDPS), en accord avec le Département fédéral des finances (DFF),
 
@@ -132,7 +132,7 @@ Ces personnes doivent en outre satisfaire au moins à l’une des exigences suiv
 
 [^5-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 7 déc. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5027](https://fedlex.data.admin.ch/eli/oc/2015/825)).
 [^5-2]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^5-3]: [RS 512.271](https://fedlex.data.admin.ch/eli/cc/2022/213)
+[^5-3]: [[RO 2003 4711;20045043;20062401;20111385.RO2022213art.21].Voiractuellementl’Odu18mars2022(RS512.271).](https://fedlex.data.admin.ch/eli/oc/2003/682)
 
 #### Art. 6
 
@@ -295,7 +295,7 @@ L’employeur peut exiger le remboursement des frais inhérents à l’instructi
 [^11-2]: [RS 414.131.1](https://fedlex.data.admin.ch/eli/cc/2017/532)
 [^11-3]: Nouvelle teneur selon le ch. I de l’O du DDPS du 24 sept. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4167](https://fedlex.data.admin.ch/eli/oc/2020/764)).
 [^11-4]: Introduit par le ch. I de l’O du DDPS du 24 sept. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4167](https://fedlex.data.admin.ch/eli/oc/2020/764)).
-[^11-5]: [RS 512.271.1](https://fedlex.data.admin.ch/eli/cc/2022/214)
+[^11-5]: [[RO 2003 5103](https://fedlex.data.admin.ch/eli/oc/2003/753); [2004 5045](https://fedlex.data.admin.ch/eli/oc/2004/774); [2006 2667](https://fedlex.data.admin.ch/eli/oc/2006/406); [2015 5027](https://fedlex.data.admin.ch/eli/oc/2015/825)annexe; [2016 2835](https://fedlex.data.admin.ch/eli/oc/2016/461). [RO 2022 214](https://fedlex.data.admin.ch/eli/oc/2022/214)art. 52]. Voir actuellement l’O du DDPS du 21 mars 2022 ([RS 512.271.1](https://fedlex.data.admin.ch/eli/cc/2022/214)).
 [^11-6]: [RS 512.413](https://fedlex.data.admin.ch/eli/cc/2015/831)
 
 ### Section 2 Développement des ressources humaines
@@ -823,27 +823,27 @@ Appendice 1[^t-1]
 
 ## Montant des indemnités
 
-[^t-1]: Nouvelle teneur selon le ch. II de l’O du DDPS du 24 sept. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4167](https://fedlex.data.admin.ch/eli/oc/2020/764)).
+[^t-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 1<sup>er</sup> déc. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 747](https://fedlex.data.admin.ch/eli/oc/2023/747)).
 
 <table>
-<tr><td></td><td></td><td>Fr.</td></tr>
-<tr><td>1</td><td>Les indemnités pour logement au lieu de travail versées</td><td></td></tr>
-<tr><td>1.1</td><td>– selon les art. 22, al. 1, et 28, al. 1, s’élèvent, pour les dépenses effectives (montant de la facture ou contrat de location, place de parc incluse), à un montant mensuel de:</td><td>1000.—</td></tr>
-<tr><td>1.2</td><td>– selon l’art. 22, al. 4, s’élèvent à un forfait mensuel de:</td><td>100.—</td></tr>
-<tr><td>2</td><td>Les indemnités versées selon les art. 23, 27, al. 2, et 28, al. 2, pour chaque nuitée en cas de logement en caserne ou dans d’autres bâtiments de la Confédération, s’élèvent à:</td><td>15.50</td></tr>
+<tr><th></th><th></th><th>Fr.</th></tr>
+<tr><td>1</td><td>Les indemnités pour logement au lieu du travail versées</td><td></td></tr>
+<tr><td>1.1</td><td>– selon les art. 22, al. 1, et 28, al. 1, s’élèvent, pour les dépenses effectives (montant de la facture ou contrat de location, place de parc incluse), à un montant mensuel de:</td><td>1100.—</td></tr>
+<tr><td>1.2</td><td>– selon l’art. 22, al. 4, s’élèvent à un forfait mensuel de:</td><td>110.—</td></tr>
+<tr><td>2</td><td>Les indemnités versées selon les art. 23, 27, al. 2, et 28, al. 2, pour chaque nuitée en cas de logement en caserne ou dans d’autres bâtiments de la Confédération, s’élèvent à:</td><td>17.—</td></tr>
 <tr><td>3</td><td>Les indemnités pour les repas versées</td><td></td></tr>
-<tr><td>3.1</td><td>– selon l’art. 24, pour le travail de nuit, s’élèvent à:</td><td>15.50</td></tr>
-<tr><td>3.2</td><td>– selon les art. 24*a*, 27, al. 2<sup>bis</sup>, et 28, al. 3<sup>bis</sup>, pour le travail tôt le matin ou tard le soir sur le lieu de travail, s’élèvent,</td><td></td></tr>
-<tr><td></td><td>– si les repas peuvent être pris à la troupe,</td><td></td></tr>
+<tr><td>3.1</td><td>– selon l’art. 24, pour le travail de nuit, s’élèvent à:</td><td>17.—</td></tr>
+<tr><td>3.2</td><td>– selon les art. 24*a*, 27, al. 2<sup>bis</sup>, et 28 al. 3<sup>bis</sup>, pour le travail tôt le matin ou tard le soir sur le lieu de travail, s’élèvent,</td><td></td></tr>
+<tr><td></td><td>– si les repas peuvent être pris à troupe,</td><td></td></tr>
 <tr><td></td><td>– pour le déjeuner, à:</td><td>7.—</td></tr>
 <tr><td></td><td>– pour le souper, à:</td><td>10.—</td></tr>
 <tr><td></td><td>– si les repas ne peuvent pas être pris à la troupe,</td><td></td></tr>
-<tr><td></td><td>– pour le déjeuner, à:</td><td>14.—</td></tr>
-<tr><td></td><td>– pour le souper, à:</td><td>27.50</td></tr>
+<tr><td></td><td>– pour le déjeuner, à:</td><td>15.—</td></tr>
+<tr><td></td><td>– pour le souper, à:</td><td>30.—</td></tr>
 <tr><td>3.3</td><td>– selon l’art. 22*a*, al. 2, pour un hébergement à demeure en caserne ou dans d’autres bâtiments de la Confédération, s’élèvent,</td><td></td></tr>
-<tr><td>[tab]</td><td>– pour le déjeuner, à:</td><td>[tab] 14.—</td></tr>
-<tr><td>[tab]</td><td>– pour le souper, à:</td><td>[tab] 27.50</td></tr>
-<tr><td>4</td><td>L’indemnité versée selon l’art. 26, al. 1, pour l’utilisation de véhicules privés à des fins de service, s’élève à un montant forfaitaire annuel de:</td><td>5040.—</td></tr>
+<tr><td>[tab]</td><td>– pour le déjeuner, à:</td><td>15.—</td></tr>
+<tr><td>[tab]</td><td>– pour le souper, à:</td><td>30.—</td></tr>
+<tr><td>4</td><td>L’indemnité versée selon l’art. 26, al. 1, pour l’utilisation de véhicules privés à des fins de service, s’élève à un montant forfaitaire annuel de</td><td>5040.—</td></tr>
 </table>
 
 Appendice 2

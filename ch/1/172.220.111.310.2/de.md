@@ -4,11 +4,11 @@ title: Verordnung des VBS vom 9. Dezember 2003 über das militärische Personal 
 short: V Mil Pers
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/746"
 language: de
-version: 2021-01-01
+version: 2024-01-01
 adopted: 2003-12-09
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/746/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2003-746-20210101-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/746/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/746/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2003-746-20240101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/746/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/746/20210101/de"
 
 (V Mil Pers)
 
-vom 9. Dezember 2003 (Stand am 1. Januar 2021)
+vom 9. Dezember 2003 (Stand am 1. Januar 2024)
 
 Das Eidgenössische Departement für Verteidigung, Bevölkerungsschutz und Sport (VBS),
 
@@ -133,7 +133,7 @@ Sie müssen zudem zusätzlich mindestens eine der folgenden Voraussetzungen erf�
 
 [^5-1]: Fassung gemäss Ziff. I der V des VBS vom 7. Dez. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5027](https://fedlex.data.admin.ch/eli/oc/2015/825)).
 [^5-2]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^5-3]: [SR 512.271](https://fedlex.data.admin.ch/eli/cc/2022/213)
+[^5-3]: [[AS 2003 4711;20045043;20062401;20111385.AS2022213Art.21].SieheVvom18.März2022(SR512.271)](https://fedlex.data.admin.ch/eli/oc/2003/682)
 
 #### Art. 6
 
@@ -296,7 +296,7 @@ Der Arbeitgeber kann die Ausbildungskosten für die Grundausbildung nach Artikel
 [^11-2]: [SR 414.131.1](https://fedlex.data.admin.ch/eli/cc/2017/532)
 [^11-3]: Fassung gemäss Ziff. I der V des VBS vom 24. Sept. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4167](https://fedlex.data.admin.ch/eli/oc/2020/764)).
 [^11-4]: Eingefügt durch Ziff. I der V des VBS vom 24. Sept. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4167](https://fedlex.data.admin.ch/eli/oc/2020/764)).
-[^11-5]: [SR 512.271.1](https://fedlex.data.admin.ch/eli/cc/2022/214)
+[^11-5]: [[AS 2003 5103](https://fedlex.data.admin.ch/eli/oc/2003/753); [2004 5045](https://fedlex.data.admin.ch/eli/oc/2004/774); [2006 2667](https://fedlex.data.admin.ch/eli/oc/2006/406); [2015 5027](https://fedlex.data.admin.ch/eli/oc/2015/825)Anhang; [2016 2835](https://fedlex.data.admin.ch/eli/oc/2016/461). [AS 2022 214](https://fedlex.data.admin.ch/eli/oc/2022/214)Art. 52]. Siehe V des VBS vom 21 März 2022 ([RS 512.271.1](https://fedlex.data.admin.ch/eli/cc/2022/214)).
 [^11-6]: [SR 512.413](https://fedlex.data.admin.ch/eli/cc/2015/831)
 
 ### 2. Abschnitt: Personalentwicklung
@@ -825,27 +825,27 @@ Anhang 1[^t-1]
 
 ## Ansatz der Vergütungen
 
-[^t-1]: Fassung gemäss Ziff. II der V des VBS vom 24. Sept. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4167](https://fedlex.data.admin.ch/eli/oc/2020/764)).
+[^t-1]: Fassung gemäss Ziff. I der V des VBS vom 1. Dez. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 747](https://fedlex.data.admin.ch/eli/oc/2023/747)).
 
 <table>
 <tr><td></td><td></td><td>Fr.</td></tr>
 <tr><td>1</td><td>Die Vergütungen bei Unterkunft am Arbeitsort betragen:</td><td></td></tr>
-<tr><td>1.1</td><td>– nach den Artikeln 22 Absatz 1 und 28 Absatz 1 monatlich maximal (tatsächliche Auslagen gemäss Rechnungsbetrag oder Mietvertrag inklusive Parkplatz)</td><td>1000.—</td></tr>
-<tr><td>1.2</td><td>– nach Artikel 22 Absatz 4 monatlich pauschal</td><td>100.—</td></tr>
-<tr><td>2</td><td>Die Vergütung bei Unterkunft in Kasernen oder anderen Gebäuden des Bundes während Dienstreisen nach den Artikeln 23, 27 Absatz 2 und 28 Absatz 2 beträgt pro Übernachtung:</td><td>15.50</td></tr>
+<tr><td>1.1</td><td>– nach den Artikeln 22 Absatz 1 und 28 Absatz 1 monatlich maximal (tatsächliche Auslagen gemäss Rechnungsbetrag oder Mietvertrag inklusive Parkplatz)</td><td>1100.—</td></tr>
+<tr><td>1.2</td><td>– nach Artikel 22 Absatz 4 monatlich pauschal</td><td>110.—</td></tr>
+<tr><td>2</td><td>Die Vergütung bei Unterkunft in Kasernen oder anderen Gebäuden des Bundes während Dienstreisen nach den Artikeln 23, 27 Absatz 2 und 28 Absatz 2 beträgt pro Übernachtung</td><td>17.—</td></tr>
 <tr><td>3</td><td>Die Vergütung von Mahlzeiten beträgt:</td><td></td></tr>
-<tr><td>3.1</td><td>– bei Nachtarbeit nach Artikel 24</td><td>15.50</td></tr>
+<tr><td>3.1</td><td>– bei Nachtarbeit nach Artikel 24</td><td>17.—</td></tr>
 <tr><td>3.2</td><td>– bei Früh- und Abendarbeit am Arbeitsort nach den Artikeln 24*a*, 27 Absatz 2<sup>bis</sup> und 28 Absatz 3<sup>bis</sup>:</td><td></td></tr>
 <tr><td></td><td>– wenn die Möglichkeit der Verpflegung bei der Truppe besteht:</td><td></td></tr>
 <tr><td></td><td>– Frühstück</td><td>7.—</td></tr>
 <tr><td></td><td>– Nachtessen</td><td>10.—</td></tr>
 <tr><td></td><td>– wenn keine Möglichkeit der Verpflegung bei der Truppe besteht:</td><td></td></tr>
-<tr><td></td><td>– Frühstück</td><td>14.—</td></tr>
-<tr><td></td><td>– Nachtessen</td><td>27.50</td></tr>
+<tr><td></td><td>– Frühstück</td><td>15.—</td></tr>
+<tr><td></td><td>– Nachtessen</td><td>30.—</td></tr>
 <tr><td>3.3</td><td>– bei dauernder Unterkunft in Kasernen oder anderen Gebäuden des Bundes nach Artikel 22*a* Absatz 2:</td><td></td></tr>
-<tr><td>[tab]</td><td>– Frühstück</td><td>[tab] 14.—</td></tr>
-<tr><td>[tab]</td><td>– Nachtessen</td><td>[tab] 27.50</td></tr>
-<tr><td>4</td><td>Die Vergütung für die dienstliche Benützung privater Motorfahrzeuge nach Artikel 26 Absatz 1 beträgt pro Jahr pauschal:</td><td>5040.—</td></tr>
+<tr><td></td><td>– Frühstück</td><td>15.—</td></tr>
+<tr><td></td><td>– Nachtessen</td><td>30.—</td></tr>
+<tr><td>4</td><td>Die Vergütung für die dienstliche Benützung privater Motorfahrzeuge nach Artikel 26 Absatz 1 beträgt pro Jahr pauschal</td><td>5040.—</td></tr>
 </table>
 
 Anhang 2

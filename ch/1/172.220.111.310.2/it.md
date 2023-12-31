@@ -4,11 +4,11 @@ title: Ordinanza del DDPS del 9 dicembre 2003 concernente il personale militare 
 short: OPers mil
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/746"
 language: it
-version: 2021-01-01
+version: 2024-01-01
 adopted: 2003-12-09
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/746/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2003-746-20210101-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/746/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/746/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2003-746-20240101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/746/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/746/20210101/it"
 
 (OPers mil)
 
-del 9 dicembre 2003 (Stato 1° gennaio 2021)
+del 9 dicembre 2003 (Stato 1° gennaio 2024)
 
 Il Dipartimento federale della difesa, della protezione della popolazione e dello sport (DDPS),
 
@@ -87,7 +87,9 @@ Essa non si applica:
 
 [^3-1]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
 
-### **Art.** Assunzione degli alti ufficiali superiori che esercitano la funzione a titolo accessorio
+#### Art. 4
+
+**Assunzione degli alti ufficiali superiori che esercitano la funzione a titolo accessorio**
 
 Gli alti ufficiali superiori che esercitano la funzione a titolo accessorio sono assunti conformemente al diritto in materia di personale federale.
 
@@ -130,7 +132,7 @@ Devono inoltre soddisfare almeno una delle condizioni seguenti:
 
 [^5-1]: Nuovo testo giusta il n. I dell’O del DDPS del 7 dic. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5027](https://fedlex.data.admin.ch/eli/oc/2015/825)).
 [^5-2]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^5-3]: [RS 512.271](https://fedlex.data.admin.ch/eli/cc/2022/213)
+[^5-3]: [[RU 2003 4711](https://fedlex.data.admin.ch/eli/oc/2003/682); [2004 5043](https://fedlex.data.admin.ch/eli/oc/2004/773); [2006 2401](https://fedlex.data.admin.ch/eli/oc/2006/370); [2011 1385](https://fedlex.data.admin.ch/eli/oc/2011/211). [RU 2022 213](https://fedlex.data.admin.ch/eli/oc/2022/213)art. 21]. Vedi ora l’O del 18 mar. 2022 ([RS 512.271](https://fedlex.data.admin.ch/eli/cc/2022/213)).
 
 #### Art. 6
 
@@ -269,7 +271,7 @@ Il datore di lavoro può chiedere il rimborso dei costi relativi alla formazione
 
 [^chap3-1]
 
-[^chap3-1]: Nuova espr. giusta il n. I dell’O del DDPS del 7 dic. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5027](https://fedlex.data.admin.ch/eli/oc/2015/825)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^chap3-1]: Nuova espressione giusta il n. I dell’O del DDPS del 7 dic. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5027](https://fedlex.data.admin.ch/eli/oc/2015/825)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 (art. 4 e 5 OPers)
 
@@ -297,7 +299,7 @@ Il datore di lavoro può chiedere il rimborso dei costi relativi alla formazione
 [^11-2]: [RS 414.131.1](https://fedlex.data.admin.ch/eli/cc/2017/532)
 [^11-3]: Nuovo testo giusta il n. I dell’O del DDPS del 24 set. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4167](https://fedlex.data.admin.ch/eli/oc/2020/764)).
 [^11-4]: Introdotto dal n. I dell’O del DDPS del 24 set. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4167](https://fedlex.data.admin.ch/eli/oc/2020/764)).
-[^11-5]: [RS 512.271.1](https://fedlex.data.admin.ch/eli/cc/2022/214)
+[^11-5]: [[RU 2003 5103](https://fedlex.data.admin.ch/eli/oc/2003/753); [2004 5045](https://fedlex.data.admin.ch/eli/oc/2004/774); [2006 2667](https://fedlex.data.admin.ch/eli/oc/2006/406); [2015 5027](https://fedlex.data.admin.ch/eli/oc/2015/825)all.; [2016 2835](https://fedlex.data.admin.ch/eli/oc/2016/461). [RU 2022 214](https://fedlex.data.admin.ch/eli/oc/2022/214)art. 52]. Vedi ora l’O del 21 mar. 2022 ([RS 512.271.1](https://fedlex.data.admin.ch/eli/cc/2022/214)).
 [^11-6]: [RS 512.413](https://fedlex.data.admin.ch/eli/cc/2015/831)
 
 ### Sezione 2: Sviluppo del personale
@@ -824,26 +826,26 @@ Allegato 1[^t-1]
 
 ## Aliquote delle indennità
 
-[^t-1]: Nuovo testo giusta il n. II dell’O del DDPS del 24 set. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4167](https://fedlex.data.admin.ch/eli/oc/2020/764)).
+[^t-1]: Nuovo testo giusta il n. I dell’O del DDPS del 1° dic. 2023, in vigore dal 1° gen. 2024 ([RU 2023 747](https://fedlex.data.admin.ch/eli/oc/2023/747)).
 
 <table>
-<tr><td></td><td></td><td>Fr.</td></tr>
+<tr><th></th><th></th><th>Fr.</th></tr>
 <tr><td>1</td><td>Le indennità per l’alloggio presso il luogo di lavoro ammontano:</td><td></td></tr>
-<tr><td>1.1</td><td>– secondo l’articolo 22 capoverso 1 e l’articolo 28 capoverso 1, mensilmente al massimo (spese effettive secondo fattura o contratto di locazione incluso il parcheggio) a</td><td>1000.—</td></tr>
-<tr><td>1.2</td><td>– secondo l’articolo 22 capoverso 4, mensilmente a un importo forfetario di</td><td>100.—</td></tr>
-<tr><td>2</td><td>L’indennità per l’alloggio in caserme o altri edifici della Confederazione durante i viaggi di servizio secondo gli articoli 23, 27 capoverso 2 e 28 capoverso 2 per pernottamento ammonta a:</td><td>15.50</td></tr>
+<tr><td>1.1</td><td>– secondo l’articolo 22 capoverso 1 e l’articolo 28 capoverso 1, mensilmente al massimo (spese effettive secondo fattura o contratto di locazione incluso il parcheggio) a</td><td>1100.—</td></tr>
+<tr><td>1.2</td><td>– secondo l’articolo 22 capoverso 4, mensilmente a un importo forfetario di</td><td>110.—</td></tr>
+<tr><td>2</td><td>L’indennità per l’alloggio in caserme o altri edifici della Confederazione durante i viaggi di servizio secondo gli articoli 23, 27 capoverso 2 e 28 capoverso 2, per pernottamento ammonta a:</td><td>17.—</td></tr>
 <tr><td>3</td><td>L’indennità per pasti ammonta a:</td><td></td></tr>
-<tr><td>3.1</td><td>– in caso di lavoro notturno secondo l’articolo 24</td><td>15.50</td></tr>
+<tr><td>3.1</td><td>– in caso di lavoro notturno secondo l’articolo 24</td><td>17.—</td></tr>
 <tr><td>3.2</td><td>– in caso di lavoro la mattina presto e di lavoro serale presso il luogo di lavoro secondo gli articoli 24*a*, 27 capoverso 2<sup>bis</sup> e 28 capoverso 3<sup>bis</sup>:</td><td></td></tr>
 <tr><td></td><td>– se vi è una possibilità di sussistenza presso la truppa:</td><td></td></tr>
 <tr><td></td><td>– colazione</td><td>7.—</td></tr>
 <tr><td></td><td>– cena</td><td>10.—</td></tr>
 <tr><td></td><td>– se non vi è alcuna possibilità di sussistenza presso la truppa:</td><td></td></tr>
-<tr><td></td><td>– colazione</td><td>14.—</td></tr>
-<tr><td></td><td>– cena</td><td>27.50</td></tr>
+<tr><td></td><td>– colazione</td><td>15.—</td></tr>
+<tr><td></td><td>– cena</td><td>30.—</td></tr>
 <tr><td>3.3</td><td>– in caso di alloggio stabile in caserme o altri edifici della Confederazione secondo l’articolo 22*a* capoverso 2:</td><td></td></tr>
-<tr><td>[tab]</td><td>– colazione</td><td>[tab] 14.—</td></tr>
-<tr><td>[tab]</td><td>– cena</td><td>[tab] 27.50</td></tr>
+<tr><td>[tab]</td><td>– colazione</td><td>15.—</td></tr>
+<tr><td>[tab]</td><td>– cena</td><td>30.—</td></tr>
 <tr><td>4</td><td>L’indennità per l’utilizzazione, per ragioni di servizio, di veicoli a motore privati secondo l’articolo 26 capoverso 1 ammonta a un importo annuale forfetario di:</td><td>5040.—</td></tr>
 </table>
 
