@@ -3,11 +3,11 @@ sr: "0.412.151.4"
 title: Abkommen vom 30. Oktober 2014 zwischen dem Schweizerischen Bundesrat und der Regierung des Fürstentums Liechtenstein über die gegenseitige Anerkennung von Fähigkeitszeugnissen und Berufsattesten der beruflichen Grundbildung (mit Anhang)
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/16"
 language: de
-version: 2023-01-01
+version: 2024-01-01
 adopted: 2014-10-30
 in_force: 2015-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/16/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2015-16-20230101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/16/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/16/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2015-16-20240101-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/16/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -22,7 +22,7 @@ Abgeschlossen am 30. Oktober 2014
 
 In Kraft getreten durch Notenaustausch am 1. Januar 2015
 
-(Stand am 1. Januar 2023)
+(Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat und die Regierung des Fürstentums Liechtenstein
 
@@ -119,7 +119,7 @@ Anhang[^t-1]
 
 [^annexu1-lvlu1-1]
 
-[^t-1]: Bereinigt gemäss der am 1. Jan. 2016 ([AS 2016 47](https://fedlex.data.admin.ch/eli/oc/2016/9)), der am 1. Jan. 2017 ([AS 2016 3151](https://fedlex.data.admin.ch/eli/oc/2016/525)), der am 1. Jan. 2018 ([AS 2017 5201](https://fedlex.data.admin.ch/eli/oc/2017/572)), der am 1. Jan. 2019 ([AS 2019 837](https://fedlex.data.admin.ch/eli/oc/2019/142)), der am 1. Jan. 2020 ([AS 2019 2943](https://fedlex.data.admin.ch/eli/oc/2019/535)), der am 1. Jan. 2021 ([AS 2021 93](https://fedlex.data.admin.ch/eli/oc/2021/93)), der am 1. Jan. 2022 ([AS 2021 923](https://fedlex.data.admin.ch/eli/oc/2021/923)) und der am 1. Jan. 2023 in Kraft getretenen Änd. ([AS 2022 653](https://fedlex.data.admin.ch/eli/oc/2022/653)).
+[^t-1]: Bereinigt gemäss der am 1. Jan. 2016 ([AS 2016 47](https://fedlex.data.admin.ch/eli/oc/2016/9)), der am 1. Jan. 2017 ([AS 2016 3151](https://fedlex.data.admin.ch/eli/oc/2016/525)), der am 1. Jan. 2018 ([AS 2017 5201](https://fedlex.data.admin.ch/eli/oc/2017/572)), der am 1. Jan. 2019 ([AS 2019 837](https://fedlex.data.admin.ch/eli/oc/2019/142)), der am 1. Jan. 2020 ([AS 2019 2943](https://fedlex.data.admin.ch/eli/oc/2019/535)), der am 1. Jan. 2021 ([AS 2021 93](https://fedlex.data.admin.ch/eli/oc/2021/93)), der am 1. Jan. 2022 ([AS 2021 923](https://fedlex.data.admin.ch/eli/oc/2021/923)), der am 1. Jan. 2023 ([AS 2022 653](https://fedlex.data.admin.ch/eli/oc/2022/653)) und der am 1. Januar 2024 in Kraft getretenen Änd. ([AS 2023 590](https://fedlex.data.admin.ch/eli/oc/2023/590)).
 [^annexu1-lvlu1-1]: Für jeden Berufstitel wird eine entsprechende Verordnung in der Amtlichen Sammlung des Bundesrechts (AS) veröffentlicht und in der Systematischen Sammlung (SR) aufgenommen. Diese für die gegenseitig anerkannten Ausweise massgebenden schweizerischen Verordnungen können auf der öffentlich zugänglichen Publikationsplattform des Bundes unter www.fedlex.admin.ch abgerufen werden. Für jeden Berufstitel wird im Liechtensteinischen Landesgesetzblatt eine entsprechende Verordnung publiziert. Diese für die gegenseitig anerkannten Ausweise massgebenden liechtensteinischen Verordnungen können im Internet unter www.gesetze.li abgerufen werden.
 
 <table>
@@ -153,12 +153,9 @@ Anhang[^t-1]
 <tr><td>46313</td><td colspan="2">Automobil-Mechatroniker EFZ / Automobil-Mechatroniker FZ</td><td colspan="2">Automobil-Mechatronikerin EFZ / Automobil-Mechatronikerin FZ</td><td colspan="2">Nutzfahrzeuge</td></tr>
 <tr><td>46323</td><td colspan="2">Automobil-Mechatroniker EFZ / Automobil-Mechatroniker FZ</td><td colspan="2">Automobil-Mechatronikerin EFZ / Automobil-Mechatronikerin FZ</td><td colspan="2">Nutzfahrzeuge</td></tr>
 <tr><td>21107</td><td colspan="2">Bäcker-Konditor-Confiseur EBA / Bäcker-Konditor- Confiseur BA</td><td colspan="2">Bäckerin-Konditorin- Confiseurin EBA / Bäckerin-Konditorin-Confiseurin BA</td><td colspan="2"></td></tr>
-<tr><td>21104</td><td colspan="2">Bäcker-Konditor-Confiseur EFZ / Bäcker-Konditor- Confiseur FZ</td><td colspan="2">Bäckerin-Konditorin- Confiseurin EFZ / Bäckerin-Konditorin-Confiseurin FZ</td><td colspan="2"></td></tr>
-<tr><td>21104</td><td colspan="2">Bäcker-Konditor-Confiseur EFZ / Bäcker-Konditor-Confiseur FZ</td><td colspan="2">Bäckerin-Konditorin-Confiseurin EFZ / Bäckerin-Konditorin-Confiseurin FZ</td><td colspan="2"></td></tr>
-<tr><td>21105</td><td colspan="2">Bäcker-Konditor-Confiseur EFZ / Bäcker-Konditor- Confiseur FZ</td><td colspan="2">Bäckerin-Konditorin- Confiseurin EFZ / Bäckerin-Konditorin-Confiseurin FZ</td><td colspan="2">Bäckerei-Konditorei</td></tr>
-<tr><td>21105</td><td colspan="2">Bäcker-Konditor-Confiseur EFZ / Bäcker-Konditor-Confiseur FZ</td><td colspan="2">Bäckerin-Konditorin-Confiseurin EFZ / Bäckerin-Konditorin-Confiseurin FZ</td><td colspan="2">Bäckerei-Konditorei</td></tr>
-<tr><td>21106</td><td colspan="2">Bäcker-Konditor-Confiseur EFZ / Bäcker-Konditor- Confiseur FZ</td><td colspan="2">Bäckerin-Konditorin- Confiseurin EFZ / Bäckerin-Konditorin-Confiseurin FZ</td><td colspan="2">Konditorei-Confiserie</td></tr>
-<tr><td>21106</td><td colspan="2">Bäcker-Konditor-Confiseur EFZ / Bäcker-Konditor-Confiseur FZ</td><td colspan="2">Bäckerin-Konditorin-Confiseurin EFZ / Bäckerin-Konditorin-Confiseurin FZ</td><td colspan="2">Konditorei-Confiserie</td></tr>
+<tr><td>21104</td><td colspan="2">Bäcker-Konditor-Confiseur EFZ/ Bäcker-Konditor-Confiseur FZ</td><td colspan="2">Bäckerin-Konditorin-Confiseurin EFZ/ Bäckerin-Konditorin-Confiseurin FZ</td><td colspan="2"></td></tr>
+<tr><td>21105</td><td colspan="2">Bäcker-Konditor-Confiseur EFZ/ Bäcker-Konditor-Confiseur FZ</td><td colspan="2">Bäckerin-Konditorin-Confiseurin EFZ/ Bäckerin-Konditorin-Confiseurin FZ</td><td colspan="2">Bäckerei-Konditorei</td></tr>
+<tr><td>21106</td><td colspan="2">Bäcker-Konditor-Confiseur EFZ/ Bäcker-Konditor-Confiseur FZ</td><td colspan="2">Bäckerin-Konditorin-Confiseurin EFZ/ Bäckerin-Konditorin-Confiseurin FZ</td><td colspan="2">Konditorei-Confiserie</td></tr>
 <tr><td>43906</td><td colspan="2">Baumaschinenmechaniker EFZ / Baumaschinenmechaniker FZ</td><td colspan="2">Baumaschinenmechanikerin EFZ / Baumaschinenmechanikerin FZ</td><td colspan="2"></td></tr>
 <tr><td>51007</td><td colspan="2">Baupraktiker EBA / Baupraktiker BA</td><td colspan="2">Baupraktikerin EBA / Baupraktikerin BA</td><td colspan="2"></td></tr>
 <tr><td>51005</td><td colspan="2">Bauwerktrenner EFZ / Bauwerktrenner FZ</td><td colspan="2">Bauwerktrennerin EFZ / Bauwerktrennerin FZ</td><td colspan="2"></td></tr>
@@ -274,7 +271,7 @@ Anhang[^t-1]
 <tr><td>71321</td><td colspan="2">Detailhandelsfachmann EFZ / Detailhandelsfachmann FZ</td><td colspan="2">Detailhandelsfachfrau EFZ / Detailhandelsfachfrau FZ</td><td colspan="2">Bewirtschaftung/ Branche: Zoofachhandel</td></tr>
 <tr><td>79004</td><td colspan="2">Diätkoch EFZ / Diätkoch FZ</td><td colspan="2">Diätköchin EFZ / Diätköchin FZ</td><td colspan="2"></td></tr>
 <tr><td>70604</td><td colspan="2">Drogist EFZ / Drogist FZ</td><td colspan="2">Drogistin EFZ / Drogistin FZ</td><td colspan="2"></td></tr>
-<tr><td colspan="2">35318</td><td>Druckausrüster EFZ / Druckausrüster FZ</td><td colspan="3">Druckausrüsterin EFZ / Druckausrüster FZ</td><td></td></tr>
+<tr><td colspan="2">35318</td><td>Druckausrüster EFZ / Druckausrüster FZ</td><td colspan="3">Druckausrüsterin EFZ / Druckausrüsterin FZ</td><td></td></tr>
 <tr><td>34126</td><td colspan="2">Drucktechnologe EFZ / Drucktechnologe FZ</td><td colspan="2">Drucktechnologin EFZ / Drucktechnologin FZ</td><td colspan="2">Siebdruck</td></tr>
 <tr><td>34127</td><td colspan="2">Drucktechnologe EFZ / Drucktechnologe FZ</td><td colspan="2">Drucktechnologin EFZ / Drucktechnologin FZ</td><td colspan="2">Reprografie</td></tr>
 <tr><td>34128</td><td colspan="2">Drucktechnologe EFZ / Drucktechnologe FZ</td><td colspan="2">Drucktechnologin EFZ / Drucktechnologin FZ</td><td colspan="2">Bogendruck</td></tr>
@@ -284,7 +281,8 @@ Anhang[^t-1]
 <tr><td>46505</td><td colspan="2">Elektroniker EFZ / Elektroniker FZ</td><td colspan="2">Elektronikerin EFZ / Elektronikerin FZ</td><td colspan="2"></td></tr>
 <tr><td>64504</td><td colspan="2">Elektroplaner EFZ / Elektroplaner FZ</td><td colspan="2">Elektroplanerin EFZ / Elektroplanerin FZ</td><td colspan="2"></td></tr>
 <tr><td>64505</td><td colspan="2">Elektroplaner EFZ / Elektroplaner FZ</td><td colspan="2">Elektroplanerin EFZ / Elektroplanerin FZ</td><td colspan="2"></td></tr>
-<tr><td colspan="2">70611</td><td>Fachmann Apotheke EFZ / Fachmann Apotheke FZ</td><td colspan="3">Fachfrau Apotheke EFZ / Fachmann Apotheke FZ</td><td></td></tr>
+<tr><td colspan="2">69201</td><td>Entwickler digitales Business EFZ / Entwickler digitales Business FZ</td><td colspan="3">Entwicklerin digitales Business EFZ / Entwicklerin digitales Business FZ</td><td></td></tr>
+<tr><td colspan="2">70611</td><td>Fachmann Apotheke EFZ / Fachmann Apotheke FZ</td><td colspan="3">Fachfrau Apotheke EFZ / Fachfrau Apotheke FZ</td><td></td></tr>
 <tr><td>94303</td><td colspan="2">Fachmann Betreuung EFZ / Fachmann Betreuung FZ</td><td colspan="2">Fachfrau Betreuung EFZ / Fachfrau Betreuung FZ</td><td colspan="2"></td></tr>
 <tr><td>94304</td><td colspan="2">Fachmann Betreuung EFZ / Fachmann Betreuung FZ</td><td colspan="2">Fachfrau Betreuung EFZ / Fachfrau Betreuung FZ</td><td colspan="2">Behindertenbetreuung</td></tr>
 <tr><td>94305</td><td colspan="2">Fachmann Betreuung EFZ / Fachmann Betreuung FZ</td><td colspan="2">Fachfrau Betreuung EFZ / Fachfrau Betreuung FZ</td><td colspan="2">Betagtenbetreuung</td></tr>
@@ -302,7 +300,7 @@ Anhang[^t-1]
 <tr><td>79613</td><td colspan="2">Fachmann Hauswirtschaft EFZ / Fachmann Hauswirtschaft FZ</td><td colspan="2">Fachfrau Hauswirtschaft EFZ / Fachfrau Hauswirtschaft FZ</td><td colspan="2"></td></tr>
 <tr><td>79615</td><td colspan="2">Fachmann Hauswirtschaft EFZ / Fachmann Hauswirtschaft FZ</td><td colspan="2">Fachfrau Hauswirtschaft EFZ / Fachfrau Hauswirtschaft FZ</td><td colspan="2"></td></tr>
 <tr><td>70507</td><td colspan="2">Fachmann Information und Dokumentation EFZ / Fachmann Information und Dokumentation FZ</td><td colspan="2">Fachfrau Information und Dokumentation EFZ / Fachfrau Information und Dokumentation FZ</td><td colspan="2"></td></tr>
-<tr><td colspan="2">70508</td><td>Fachmann Information und Dokumentation EFZ / Fachmann Information und Dokumentation FZ</td><td colspan="3">Fachfrau Information und Dokumentation EFZ / Fachmann Information und Dokumentation FZ</td><td></td></tr>
+<tr><td colspan="2">70508</td><td>Fachmann Information und Dokumentation EFZ / Fachmann Information und Dokumentation FZ</td><td colspan="3">Fachfrau Information und Dokumentation EFZ / Fachfrau Information und Dokumentation FZ</td><td></td></tr>
 <tr><td>80607</td><td colspan="2">Fachmann Textilpflege EFZ / Fachmann Textilpflege FZ</td><td colspan="2">Fachfrau Textilpflege EFZ / Fachfrau Textilpflege FZ</td><td colspan="2"></td></tr>
 <tr><td>46105</td><td colspan="2">Fahrradmechaniker EFZ / Fahrradmechaniker FZ</td><td colspan="2">Fahrradmechanikerin EFZ / Fahrradmechanikerin FZ</td><td colspan="2"></td></tr>
 <tr><td>44903</td><td colspan="2">Fahrzeugschlosser EFZ / Fahrzeugschlosser FZ</td><td colspan="2">Fahrzeugschlosserin EFZ / Fahrzeugschlosserin FZ</td><td colspan="2"></td></tr>
@@ -354,6 +352,7 @@ Anhang[^t-1]
 <tr><td>51416</td><td colspan="2">Gleisbauer EFZ (Berufsfeld Verkehrswegbau)/Gleisbauer FZ (Berufsfeld Verkehrswegbau)</td><td colspan="2">Gleisbauerin EFZ (Berufsfeld Verkehrsbau)/Gleisbauerin FZ (Berufsfeld Verkehrsbau)</td><td colspan="2"></td></tr>
 <tr><td>51422</td><td colspan="2">Gleisbaupraktiker EBA (Berufsfeld Verkehrsbau) / Gleisbaupraktiker BA (Berufsfeld Verkehrsbau)</td><td colspan="2">Gleisbaupraktikerin EBA (Berufsfeld Verkehrsbau) / Gleisbaupraktikerin BA (Berufsfeld Verkehrsbau)</td><td colspan="2"></td></tr>
 <tr><td>90305</td><td colspan="2">Grafiker EFZ / Grafiker FZ</td><td colspan="2">Grafikerin EFZ / Grafikerin FZ</td><td colspan="2"></td></tr>
+<tr><td>90306</td><td colspan="2">Grafiker EFZ / Grafiker FZ</td><td colspan="2">Grafikerin EFZ / Grafikerin FZ</td><td colspan="2"></td></tr>
 <tr><td>51408</td><td colspan="2">Grundbauer EFZ (Berufsfeld Verkehrswegbau) / Grundbauer FZ (Berufsfeld Verkehrswegbau)</td><td colspan="2">Grundbauerin EFZ (Berufsfeld Verkehrswegbau) / Grundbauerin FZ (Berufsfeld Verkehrswegbau)</td><td colspan="2"></td></tr>
 <tr><td>51417</td><td colspan="2">Grundbauer EFZ (Berufsfeld Verkehrswegbau) / Grundbauer FZ (Berufsfeld Verkehrswegbau)</td><td colspan="2">Grundbauerin EFZ (Berufsfeld Verkehrswegbau) / Grundbauerin FZ (Berufsfeld Verkehrswegbau)</td><td colspan="2"></td></tr>
 <tr><td>51412</td><td colspan="2">Grundbaupraktiker EBA (Berufsfeld Verkehrswegbau) / Grundbaupraktiker BA (Berufsfeld Verkehrswegbau)</td><td colspan="2">Grundbaupraktikerin EBA (Berufsfeld Verkehrswegbau) / Grundbaupraktikerin BA (Berufsfeld Verkehrswegbau)</td><td colspan="2"></td></tr>
@@ -363,6 +362,7 @@ Anhang[^t-1]
 <tr><td>79616</td><td colspan="2">Hauswirtschaftspraktiker EBA / Hauswirtschaftspraktiker BA</td><td colspan="2">Hauswirtschaftspraktikerin EBA / Hauswirtschaftspraktikerin BA</td><td colspan="2"></td></tr>
 <tr><td>47604</td><td colspan="3">Heizungsinstallateur EFZ / Heizungsinstallateur FZ</td><td>Heizungsinstallateurin EFZ / Heizungsinstallateurin FZ</td><td colspan="2"></td></tr>
 <tr><td>47605</td><td colspan="2">Heizungsinstallateur EFZ / Heizungsinstallateur FZ</td><td colspan="2">Heizungsinstallateurin EFZ / Heizungsinstallateurin FZ</td><td colspan="2"></td></tr>
+<tr><td>47606</td><td colspan="2">Heizungspraktiker EBA / Heizungspraktiker BA (Berufsfeld Gebäudetechnik)</td><td colspan="2">Heizungspraktikerin EBA / Heizungspraktikerin BA (Berufsfeld Gebäudetechnik)</td><td colspan="2"></td></tr>
 <tr><td>30206</td><td colspan="2">Holzbearbeiter EBA / Holzbearbeiter BA</td><td colspan="2">Holzbearbeiterin EBA / Holzbearbeiterin BA</td><td colspan="2"></td></tr>
 <tr><td>78403</td><td colspan="2">Hotelfachmann EFZ / Hotelfachmann FZ</td><td colspan="2">Hotelfachfrau EFZ / Hotelfachfrau FZ</td><td colspan="2"></td></tr>
 <tr><td>79200</td><td colspan="2">Hotel-Kommunikationsfachmann EFZ / Hotel-Kommunikationsfachmann FZ</td><td colspan="2">Hotel-Kommunikationsfachfrau EFZ / Hotel-Kommunikationsfachfrau FZ</td><td colspan="2"></td></tr>
@@ -389,7 +389,9 @@ Anhang[^t-1]
 <tr><td>88613</td><td colspan="3">Informatiker EFZ / Informatiker FZ</td><td>Informatikerin EFZ / Informatikerin FZ</td><td colspan="2">Applikationsentwicklung</td></tr>
 <tr><td>47116</td><td colspan="2">Informatikpraktiker EBA / Informatikpraktiker BA</td><td colspan="2">Informatikpraktikerin EBA / Informatikpraktikerin BA</td><td colspan="2"></td></tr>
 <tr><td>47117</td><td colspan="2">Interactive Media Designer EFZ / Interactive Media Designer FZ</td><td colspan="2">Interactive Media Designer EFZ / Interactive Media Designer FZ</td><td colspan="2"></td></tr>
+<tr><td>47806</td><td colspan="2">Kältesystem-Monteur EFZ / Kältesystem-Monteur FZ</td><td colspan="2">Kältesystem-Monteurin EFZ / Kältesystem-Monteurin FZ</td><td colspan="2"></td></tr>
 <tr><td>80003</td><td colspan="2">Kaminfeger EFZ / Kaminfeger FZ</td><td colspan="2">Kaminfegerin EFZ / Kaminfegerin FZ</td><td colspan="2"></td></tr>
+<tr><td>80004</td><td colspan="2">Kaminfeger EFZ / Kaminfeger FZ</td><td colspan="2">Kaminfegerin EFZ / Kaminfegerin FZ</td><td colspan="2"></td></tr>
 <tr><td>68500</td><td colspan="2">Kaufmann EFZ / Kaufmann FZ</td><td colspan="2">Kauffrau EFZ / Kauffrau FZ</td><td colspan="2">Basis-Grundbildung</td></tr>
 <tr><td>68501</td><td colspan="2">Kaufmann EFZ / Kaufmann FZ</td><td colspan="2">Kauffrau EFZ / Kauffrau FZ</td><td colspan="2">Basis-Grundbildung: Automobil-Gewerbe</td></tr>
 <tr><td>68502</td><td colspan="2">Kaufmann EFZ / Kaufmann FZ</td><td colspan="2">Kauffrau EFZ / Kauffrau FZ</td><td colspan="2">Basis-Grundbildung: Bank</td></tr>
@@ -434,6 +436,25 @@ Anhang[^t-1]
 <tr><td>68619</td><td colspan="2">Kaufmann EFZ / Kaufmann FZ</td><td colspan="2">Kauffrau EFZ / Kauffrau FZ</td><td colspan="2">Erweiterte Grundbildung: Spitäler / Kliniken/Heime</td></tr>
 <tr><td>68620</td><td colspan="2">Kaufmann EFZ / Kaufmann FZ</td><td colspan="2">Kauffrau EFZ / Kauffrau FZ</td><td colspan="2">Erweiterte Grundbildung: Transport</td></tr>
 <tr><td>68621</td><td colspan="2">Kaufmann EFZ / Kaufmann FZ</td><td colspan="2">Kauffrau EFZ / Kauffrau FZ</td><td colspan="2">Erweiterte Grundbildung: Treuhand / Immobilien</td></tr>
+<tr><td>68104</td><td colspan="2">Kaufmann EBA / Kaufmann BA</td><td colspan="2">Kauffrau EBA / Kauffrau BA</td><td colspan="2"></td></tr>
+<tr><td>68800</td><td colspan="2">Kaufmann EFZ / Kaufmann FZ</td><td colspan="2">Kauffrau EFZ / Kauffrau FZ</td><td colspan="2"></td></tr>
+<tr><td>68801</td><td colspan="2">Kaufmann EFZ / Kaufmann FZ</td><td colspan="2">Kauffrau EFZ / Kauffrau FZ</td><td colspan="2">Branche: Automobil-Gewerbe</td></tr>
+<tr><td>68802</td><td colspan="2">Kaufmann EFZ / Kaufmann FZ</td><td colspan="2">Kauffrau EFZ / Kauffrau FZ</td><td colspan="2">Branche: Bank</td></tr>
+<tr><td>68803</td><td colspan="2">Kaufmann EFZ / Kaufmann FZ</td><td colspan="2">Kauffrau EFZ / Kauffrau FZ</td><td colspan="2">Branche: Bauen und Wohnen</td></tr>
+<tr><td>68805</td><td colspan="2">Kaufmann EFZ / Kaufmann FZ</td><td colspan="2">Kauffrau EFZ / Kauffrau FZ</td><td colspan="2">Branche: Dienstleistung und Administration (DA)</td></tr>
+<tr><td>68806</td><td colspan="2">Kaufmann EFZ / Kaufmann FZ</td><td colspan="2">Kauffrau EFZ / Kauffrau FZ</td><td colspan="2">Branche: Gesundheit</td></tr>
+<tr><td>68807</td><td colspan="2">Kaufmann EFZ / Kaufmann FZ</td><td colspan="2">Kauffrau EFZ / Kauffrau FZ</td><td colspan="2">Branche: Handel</td></tr>
+<tr><td>68808</td><td colspan="2">Kaufmann EFZ / Kaufmann FZ</td><td colspan="2">Kauffrau EFZ / Kauffrau FZ</td><td colspan="2">Branche: Hotel‑Gastro-Tourismus</td></tr>
+<tr><td>68809</td><td colspan="2">Kaufmann EFZ / Kaufmann FZ</td><td colspan="2">Kauffrau EFZ / Kauffrau FZ</td><td colspan="2">Branche: Internationale Speditionslogistik (ISL)</td></tr>
+<tr><td>68810</td><td colspan="2">Kaufmann EFZ / Kaufmann FZ</td><td colspan="2">Kauffrau EFZ / Kauffrau FZ</td><td colspan="2">Branche: Kranken- und Sozialversicherungen</td></tr>
+<tr><td>68811</td><td colspan="2">Kaufmann EFZ / Kaufmann FZ</td><td colspan="2">Kauffrau EFZ / Kauffrau FZ</td><td colspan="2">Branche: Marketing & Kommunikation</td></tr>
+<tr><td>68812</td><td colspan="2">Kaufmann EFZ / Kaufmann FZ</td><td colspan="2">Kauffrau EFZ / Kauffrau FZ</td><td colspan="2">Branche: Maschinen-, Elektro- und Metall-Industrie (MEM)</td></tr>
+<tr><td>68813</td><td colspan="2">Kaufmann EFZ / Kaufmann FZ</td><td colspan="2">Kauffrau EFZ / Kauffrau FZ</td><td colspan="2">Branche: Nahrungsmittel-Industrie</td></tr>
+<tr><td>68815</td><td colspan="2">Kaufmann EFZ / Kaufmann FZ</td><td colspan="2">Kauffrau EFZ / Kauffrau FZ</td><td colspan="2">Branche: Öffentliche Verwaltung</td></tr>
+<tr><td>68816</td><td colspan="2">Kaufmann EFZ / Kaufmann FZ</td><td colspan="2">Kauffrau EFZ / Kauffrau FZ</td><td colspan="2">Branche: Privatversicherung</td></tr>
+<tr><td>68817</td><td colspan="2">Kaufmann EFZ / Kaufmann FZ</td><td colspan="2">Kauffrau EFZ / Kauffrau FZ</td><td colspan="2">Branche: Reisen</td></tr>
+<tr><td>68818</td><td colspan="2">Kaufmann EFZ / Kaufmann FZ</td><td colspan="2">Kauffrau EFZ / Kauffrau FZ</td><td colspan="2">Branche: Transport</td></tr>
+<tr><td>68819</td><td colspan="2">Kaufmann EFZ / Kaufmann FZ</td><td colspan="2">Kauffrau EFZ / Kauffrau FZ</td><td colspan="2">Branche: Treuhand/Immobilien</td></tr>
 <tr><td>39506</td><td colspan="2">Keramiker EFZ / Keramiker FZ</td><td colspan="2">Keramikerin EFZ / Keramikerin FZ</td><td colspan="2"></td></tr>
 <tr><td>46106</td><td colspan="2">Kleinmotorrad- und Fahrradmechaniker EFZ / Kleinmotorrad‑ und Fahrradmechaniker FZ</td><td colspan="2">Kleinmotorrad- und Fahrradmechanikerin EFZ / Kleinmotorrad- und Fahrradmechanikerin FZ</td><td colspan="2"></td></tr>
 <tr><td>79007</td><td colspan="2">Koch EFZ / Koch FZ</td><td colspan="2">Köchin EFZ / Köchin FZ</td><td colspan="2"></td></tr>
@@ -444,6 +465,11 @@ Anhang[^t-1]
 <tr><td>65325</td><td colspan="2">Laborant EFZ / Laborant FZ</td><td colspan="2">Laborantin EFZ / Laborantin FZ</td><td colspan="2">Chemie</td></tr>
 <tr><td>65326</td><td colspan="2">Laborant EFZ / Laborant FZ</td><td colspan="2">Laborantin EFZ / Laborantin FZ</td><td colspan="2">Textil</td></tr>
 <tr><td>65327</td><td colspan="2">Laborant EFZ / Laborant FZ</td><td colspan="2">Laborantin EFZ / Laborantin FZ</td><td colspan="2">Farbe und Lack</td></tr>
+<tr><td>65400</td><td colspan="2">Laborant EFZ / Laborant FZ</td><td colspan="2">Laborantin EFZ / Laborantin FZ</td><td colspan="2"></td></tr>
+<tr><td>65401</td><td colspan="2">Laborant EFZ / Laborant FZ</td><td colspan="2">Laborantin EFZ / Laborantin FZ</td><td colspan="2">Biologie</td></tr>
+<tr><td>65402</td><td colspan="2">Laborant EFZ / Laborant FZ</td><td colspan="2">Laborantin EFZ / Laborantin FZ</td><td colspan="2">Chemie</td></tr>
+<tr><td>65403</td><td colspan="2">Laborant EFZ / Laborant FZ</td><td colspan="2">Laborantin EFZ / Laborantin FZ</td><td colspan="2">Textil</td></tr>
+<tr><td>65404</td><td colspan="2">Laborant EFZ / Laborant FZ</td><td colspan="2">Laborantin EFZ / Laborantin FZ</td><td colspan="2">Farbe und Lack</td></tr>
 <tr><td>45305</td><td colspan="2">Lackierassistent EBA / Lackierassistent BA</td><td colspan="2">Lackierassistentin EBA / Lackierassistentin BA</td><td colspan="2"></td></tr>
 <tr><td>43905</td><td colspan="2">Landmaschinenmechaniker EFZ / Landmaschinenmechaniker FZ</td><td colspan="2">Landmaschinenmechanikerin EFZ / Landmaschinenmechanikerin FZ</td><td colspan="2"></td></tr>
 <tr><td>15005</td><td colspan="2">Landwirt EFZ (Berufsfeld Landwirtschaft)/Landwirt FZ (Berufsfeld Landwirtschaft)</td><td colspan="2">Landwirtin EFZ (Berufsfeld Landwirtschaft)/Landwirtin FZ (Berufsfeld Landwirtschaft)</td><td colspan="2"></td></tr>
@@ -456,6 +482,7 @@ Anhang[^t-1]
 <tr><td>95507</td><td colspan="2">Logistiker EFZ / Logistiker FZ</td><td colspan="2">Logistikerin EFZ / Logistikerin FZ</td><td colspan="2">Distribution</td></tr>
 <tr><td>95508</td><td colspan="2">Logistiker EFZ / Logistiker FZ</td><td colspan="2">Logistikerin EFZ / Logistikerin FZ</td><td colspan="2">Lager</td></tr>
 <tr><td>95509</td><td colspan="2">Logistiker EFZ / Logistiker FZ</td><td colspan="2">Logistikerin EFZ / Logistikerin FZ</td><td colspan="2">Verkehr</td></tr>
+<tr><td>47607</td><td colspan="2">Lüftungsanlagenpraktiker EBA / Lüftungsanlagenpraktiker BA (Berufsfeld Gebäudetechnik)</td><td colspan="2">Lüftungsanlagenpraktikerin EBA / Lüftungsanlagenpraktikerin BA (Berufsfeld Gebäudetechnik)</td><td colspan="2"></td></tr>
 <tr><td>47906</td><td colspan="2">Lüftungsanlagenbauer EFZ / Lüftungsanlagenbauer FZ</td><td colspan="2">Lüftungsanlagenbauerin EFZ / Lüftungsanlagenbauerin FZ</td><td colspan="2"></td></tr>
 <tr><td>47908</td><td colspan="2">Lüftungsanlagenbauer EFZ / Lüftungsanlagenbauer FZ</td><td colspan="2">Lüftungsanlagenbauerin EFZ / Lüftungsanlagenbauerin FZ</td><td colspan="2">Produktion</td></tr>
 <tr><td>47909</td><td colspan="2">Lüftungsanlagenbauer EFZ / Lüftungsanlagenbauer FZ</td><td colspan="2">Lüftungsanlagenbauerin EFZ / Lüftungsanlagenbauerin FZ</td><td colspan="2">Montage</td></tr>
@@ -470,6 +497,7 @@ Anhang[^t-1]
 <tr><td>34203</td><td colspan="2">Medientechnologe EFZ / Medientechnologe FZ</td><td colspan="2">Medientechnologin EFZ / Medientechnologin FZ</td><td colspan="2">Siebdruck</td></tr>
 <tr><td>86910</td><td colspan="2">Medizinischer Praxisassistent EFZ / Medizinischer Praxisassistent FZ</td><td colspan="2">Medizinische Praxisassistentin EFZ / Medizinische Praxisassistentin FZ</td><td colspan="2"></td></tr>
 <tr><td>86915</td><td colspan="2">Medizinischer Praxisassistent EFZ / Medizinischer Praxisassistent FZ</td><td colspan="2">Medizinische Praxisassistentin EFZ / Medizinische Praxisassistentin FZ</td><td colspan="2"></td></tr>
+<tr><td>87101</td><td colspan="3">Medizinproduktetechnologe EFZ / Medizinproduktetechnologe FZ</td><td>Medizinproduktetechnologin EFZ / Medizinproduktetechnologin FZ</td><td colspan="2"></td></tr>
 <tr><td>44504</td><td colspan="2">Metallbauer EFZ / Metallbauer FZ</td><td colspan="2">Metallbauerin EFZ / Metallbauerin FZ</td><td colspan="2">Metallbau</td></tr>
 <tr><td>44505</td><td colspan="2">Metallbauer EFZ / Metallbauer FZ</td><td colspan="2">Metallbauerin EFZ / Metallbauerin FZ</td><td colspan="2">Schmiedearbeiten</td></tr>
 <tr><td>44507</td><td colspan="2">Metallbauer EFZ / Metallbauer FZ</td><td colspan="2">Metallbauerin EFZ / Metallbauerin FZ</td><td colspan="2">Stahlbau</td></tr>
@@ -543,6 +571,7 @@ Anhang[^t-1]
 <tr><td>30003</td><td colspan="2">Säger Holzindustrie EFZ / Säger Holzindustrie FZ</td><td colspan="2">Sägerin Holzindustrie EFZ / Sägerin Holzindustrie FZ</td><td colspan="2"></td></tr>
 <tr><td>47704</td><td colspan="3">Sanitärinstallateur EFZ / Sanitärinstallateur FZ</td><td>Sanitärinstallateurin EFZ / Sanitärinstallateurin FZ</td><td colspan="2"></td></tr>
 <tr><td>47706</td><td colspan="2">Sanitärinstallateur EFZ / Sanitärinstallateur FZ</td><td colspan="2">Sanitärinstallateurin EFZ / Sanitärinstallateurin FZ</td><td colspan="2"></td></tr>
+<tr><td>47608</td><td colspan="3">Sanitärpraktiker EBA / Sanitärpraktiker BA (Berufsfeld Gebäudetechnik)</td><td>Sanitärpraktikerin EBA / Sanitärpraktikerin BA (Berufsfeld Gebäudetechnik)</td><td colspan="2"></td></tr>
 <tr><td>30513</td><td colspan="2">Schreiner EFZ / Schreiner FZ</td><td colspan="2">Schreinerin EFZ / Schreinerin FZ</td><td colspan="2"></td></tr>
 <tr><td>30514</td><td colspan="2">Schreiner EFZ / Schreiner FZ</td><td colspan="2">Schreinerin EFZ / Schreinerin FZ</td><td colspan="2">Möbel/ Innenausbau</td></tr>
 <tr><td>30515</td><td colspan="2">Schreiner EFZ / Schreiner FZ</td><td colspan="2">Schreinerin EFZ / Schreinerin FZ</td><td colspan="2">Bau/Fenster</td></tr>
@@ -557,6 +586,7 @@ Anhang[^t-1]
 <tr><td>56504</td><td colspan="2">Seilbahn-Mechatroniker EFZ / Seilbahn-Mechatroniker FZ</td><td colspan="2">Seilbahn-Mechatronikerin EFZ / Seilbahn-Mechatronikerin FZ</td><td colspan="2"></td></tr>
 <tr><td>45404</td><td colspan="3">Spengler EFZ / Spengler FZ</td><td>Spenglerin EFZ / Spenglerin FZ</td><td colspan="2"></td></tr>
 <tr><td>45405</td><td colspan="2">Spengler EFZ / Spengler FZ</td><td colspan="2">Spenglerin EFZ / Spenglerin FZ</td><td colspan="2"></td></tr>
+<tr><td>47609</td><td colspan="2">Spenglerpraktiker EBA / Spenglerpraktiker BA (Berufsfeld Gebäudetechnik)</td><td colspan="2">Spenglerpraktikerin EBA / Spenglerpraktikerin BA (Berufsfeld Gebäudetechnik)</td><td colspan="2"></td></tr>
 <tr><td>39203</td><td colspan="2">Steinbildhauer EFZ (Berufsfeld Steinbearbeitung)/Steinbildhauer FZ (Berufsfeld Steinbearbeitung)</td><td colspan="2">Steinbildhauerin EFZ (Berufsfeld Steinbearbeitung)/Steinbildhauerin FZ (Berufsfeld Steinbearbeitung)</td><td colspan="2"></td></tr>
 <tr><td>39204</td><td colspan="3">Steinmetz EFZ (Berufsfeld Steinbearbeitung) / Steinmetz FZ (Berufsfeld Steinbearbeitung)</td><td>Steinmetzin EFZ (Berufsfeld Steinbearbeitung) / Steinmetzin FZ (Berufsfeld Steinbearbeitung)</td><td colspan="2"></td></tr>
 <tr><td>39207</td><td colspan="2">Steinmetz EFZ / Steinmetz FZ</td><td colspan="2">Steinmetzin EFZ / Steinmetzin FZ</td><td colspan="2"></td></tr>
@@ -584,6 +614,7 @@ Anhang[^t-1]
 <tr><td>18112</td><td colspan="2">Tierpfleger EFZ / Tierpfleger FZ</td><td colspan="2">Tierpflegerin EFZ / Tierpflegerin FZ</td><td colspan="2">Versuchstiere</td></tr>
 <tr><td>18113</td><td colspan="2">Tierpfleger EFZ / Tierpfleger FZ</td><td colspan="2">Tierpflegerin EFZ / Tierpflegerin FZ</td><td colspan="2">Wildtiere</td></tr>
 <tr><td>80201</td><td colspan="2">Unterhaltspraktiker EBA / Unterhaltspraktiker BA</td><td colspan="2">Unterhaltspraktikerin EBA / Unterhaltspraktikerin BA</td><td colspan="2"></td></tr>
+<tr><td>80203</td><td colspan="2">Unterhaltspraktiker EBA / Unterhaltspraktiker BA</td><td colspan="2">Unterhaltspraktikerin EBA / Unterhaltspraktikerin BA</td><td colspan="2"></td></tr>
 <tr><td>66500</td><td colspan="2">Veranstaltungsfachmann EFZ/FZ</td><td colspan="2">Veranstaltungsfachfrau EFZ / FZ</td><td colspan="2"></td></tr>
 <tr><td>22603</td><td colspan="2">Weintechnologe EFZ (Berufsfeld Landwirtschaft) / Weintechnologin FZ (Berufsfeld Landwirtschaft)</td><td colspan="2">Weintechnologin EFZ (Berufsfeld Landwirtschaft) / Weintechnologin FZ (Berufsfeld Landwirtschaft)</td><td colspan="2"></td></tr>
 <tr><td>16103</td><td colspan="2">Winzer EFZ (Berufsfeld Landwirtschaft) / Winzer FZ (Berufsfeld Landwirtschaft)</td><td colspan="2">Winzerin EFZ (Berufsfeld Landwirtschaft) / Winzerin (Berufsfeld Landwirtschaft)</td><td colspan="2"></td></tr>
