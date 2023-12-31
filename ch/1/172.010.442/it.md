@@ -4,11 +4,11 @@ title: Ordinanza del 22 febbraio 2012 sul trattamento di dati personali e di dat
 short: OTUIC
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/160"
 language: it
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2012-02-22
 in_force: 2012-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/160/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2012-160-20230901-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/160/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/160/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2012-160-20240101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/160/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/160/20230901/it"
 
 (OTUIC)[^t-1]
 
-del 22 febbraio 2012 (Stato 1° settembre 2023)
+del 22 febbraio 2012 (Stato 1° gennaio 2024)
 
 [^t-1]: Nuovo testo giusta l’all. 2 n. II 16 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
@@ -59,12 +59,12 @@ Hanno accesso ai dati amministrati soltanto:
 
 #### Art. 3
 
-**Conservazione sicura[^3-1]**
+**Conservazione sicura**[^3-1]
 
-I dati vanno conservati in modo sicuro conformemente alle disposizioni dell’ordinanza del 27 maggio 2020[^3-2] sui ciber-rischi.
+I dati vanno conservati in modo sicuro conformemente alle disposizioni dell’ordinanza dell’8 novembre 2023[^3-2] sulla sicurezza delle informazioni.
 
-[^3-1]: Nuovo testo giusta l’all. n. 7 dell’O del 25 nov. 2020 sulla trasformazione digitale e l’informatica, in vigore dal 1° gen. 2021 ([RU 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
-[^3-2]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^3-1]: Nuovo testo giusta l’all. 2 n. II 9 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^3-2]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
 
 #### Art. 4
 

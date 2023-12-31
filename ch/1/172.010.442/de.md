@@ -4,11 +4,11 @@ title: Verordnung vom 22. Februar 2012 über die Bearbeitung von Personendaten u
 short: VBNIB
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/160"
 language: de
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2012-02-22
 in_force: 2012-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/160/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2012-160-20230901-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/160/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/160/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2012-160-20240101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/160/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/160/20230901/de"
 
 (VBNIB)[^t-1]
 
-vom 22. Februar 2012 (Stand am 1. September 2023)
+vom 22. Februar 2012 (Stand am 1. Januar 2024)
 
 [^t-1]: Fassung gemäss Anhang 2 Ziff. II 16 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
@@ -61,10 +61,10 @@ Auf bewirtschaftete Daten dürfen nur zugreifen:
 
 **Sichere Aufbewahrung**[^3-1]
 
-Die Daten sind gemäss den Bestimmungen der Cyberrisikenverordnung vom 27. Mai 2020[^3-2] sicher aufzubewahren.
+Die Daten sind gemäss den Bestimmungen der Informationssicherheitsverordnung vom 8. November 2023[^3-2] sicher aufzubewahren.
 
-[^3-1]: Fassung gemäss Anhang Ziff. 7 der V vom 25. Nov. 2020 über die digitale Transformation und die Informatik, in Kraft seit 1. Jan. 2021 ([AS 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
-[^3-2]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^3-1]: Fassung gemäss Anhang 2 Ziff. II 9 der Informationssicherheitsverordnung vom 8. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^3-2]: [SR 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
 
 #### Art. 4
 

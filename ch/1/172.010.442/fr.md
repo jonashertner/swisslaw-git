@@ -4,11 +4,11 @@ title: Ordonnance du 22 février 2012 sur le traitement des données personnelle
 short: OTUIC
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/160"
 language: fr
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2012-02-22
 in_force: 2012-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/160/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2012-160-20230901-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/160/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/160/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2012-160-20240101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/160/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/160/20230901/fr"
 
 (OTUIC)[^t-1]
 
-du 22 février 2012 (État le 1<sup>er</sup> septembre 2023)
+du 22 février 2012 (État le 1<sup>er</sup> janvier 2024)
 
 [^t-1]: Nouvelle teneur selon l’annexe 2 ch. II 16 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
@@ -61,10 +61,10 @@ Seuls ont droit d’accéder aux données administrées:
 
 **Conservation sécurisée des données**[^3-1]
 
-Les données doivent être conservées de manière sécurisée conformément aux dispositions de l’ordonnance du 27 mai 2020 sur les cyberrisques[^3-2].
+Les données doivent être conservées de manière sécurisée conformément aux dispositions de l’ordonnance du 8 novembre 2023 sur la sécurité de l’information[^3-2].
 
-[^3-1]: Nouvelle teneur selon l’annexe ch. 7 de l’O du 25 nov. 2020 sur la transformation numérique et l’informatique, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
-[^3-2]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^3-1]: Nouvelle teneur selon l’annexe 2 ch. II 9 de l’O du 8 nov. 2023 sur la sécurité de l’information, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^3-2]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
 
 #### Art. 4
 
