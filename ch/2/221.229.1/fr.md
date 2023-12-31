@@ -4,11 +4,11 @@ title: "Loi fédérale du 2 avril 1908 sur le contrat d'assurance (Loi sur le co
 short: LCA
 eli: "https://fedlex.data.admin.ch/eli/cc/24/719_735_717"
 language: fr
-version: 2023-09-01
+version: 2024-01-01
 adopted: 1908-04-02
 in_force: 1910-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/24/719_735_717/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-24-719_735_717-20230901-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/24/719_735_717/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/24/719_735_717/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-24-719_735_717-20240101-fr-xml-14.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/24/719_735_717/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/24/719_735_717/20230901/fr"
 
 (Loi sur le contrat d’assurance, LCA)[^t-1]
 
-du 2 avril 1908 (État le 1<sup>er</sup> septembre 2023)
+du 2 avril 1908 (État le 1<sup>er</sup> janvier 2024)
 
 [^t-1]: Tit. abrégé et abréviation introduits par le ch. I de la LF du 17 déc. 2004, en vigueur depuis le 1<sup>er</sup> janv. 2006 ([RO 2005 5245](https://fedlex.data.admin.ch/eli/oc/2005/726); [FF 2003 3353](https://fedlex.data.admin.ch/eli/fga/2003/577)).
 
@@ -128,11 +128,12 @@ L’entreprise d’assurance doit, avant la conclusion du contrat d’assurance,
 - g.[^3-5] le traitement des données personnelles, y compris le but et le genre de banque de données, ainsi que sur les destinataires et la conservation des données;
 - h.[^3-6] le droit de révocation visé à l’art. 2*a* ainsi que la forme et le délai de la révocation;
 - i.[^3-7] le délai de remise de l’avis de sinistre au sens de l’art. 38, al. 1;
-- j.[^3-8] la validité dans le temps de la couverture d’assurance, en particulier lorsque le sinistre se produit pendant la durée du contrat mais que le dommage n’intervient qu’après la fin du contrat.
+- j.[^3-8] la validité dans le temps de la couverture d’assurance, en particulier lorsque le sinistre se produit pendant la durée du contrat mais que le dommage n’intervient qu’après la fin du contrat;
+- k.[^3-9] le fait qu’une assurance sur la vie est une assurance sur la vie qualifiée au sens de l’art. 39*a* de la loi du 17 décembre 2004 sur la surveillance des assurances (LSA)[^3-10].
 
 <sup>2</sup> Ces renseignements sont à fournir au preneur d’assurance de sorte qu’il puisse en avoir connaissance lorsqu’il fait la proposition de contrat d’assurance ou qu’il l’accepte. Dans tous les cas, il doit être à ce moment-là en possession des conditions générales d’assurance et de l’information au sens de l’al. 1, let. g.
 
-<sup>3</sup> Si un employeur conclut une assurance collective de personnes afin de protéger ses employés, il est tenu de renseigner ces derniers, par écrit ou par tout autre moyen permettant d’en établir la preuve par un texte, sur les principaux éléments du contrat, sur ses modifications et sur sa dissolution. L’entreprise d’assurance met à la disposition de l’employeur tous les documents nécessaires à cette fin.[^3-9]
+<sup>3</sup> Si un employeur conclut une assurance collective de personnes afin de protéger ses employés, il est tenu de renseigner ces derniers, par écrit ou par tout autre moyen permettant d’en établir la preuve par un texte, sur les principaux éléments du contrat, sur ses modifications et sur sa dissolution. L’entreprise d’assurance met à la disposition de l’employeur tous les documents nécessaires à cette fin.[^3-11]
 
 [^3-1]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2004, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2005 5245](https://fedlex.data.admin.ch/eli/oc/2005/726); [FF 2003 3353](https://fedlex.data.admin.ch/eli/fga/2003/577)).
 [^3-2]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4767](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
@@ -142,7 +143,9 @@ L’entreprise d’assurance doit, avant la conclusion du contrat d’assurance,
 [^3-6]: Introduite par le ch. I de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4767](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 [^3-7]: Introduite par le ch. I de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4767](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 [^3-8]: Introduite par le ch. I de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4767](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
-[^3-9]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4767](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+[^3-9]: Introduite par l’annexe ch. 1 de la LF du 18 mars 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); FF **2020** 8967).
+[^3-10]: [RS 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
+[^3-11]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4767](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
 ### Violation de l’obligation d’information
 
@@ -298,7 +301,7 @@ Malgré la réticence (art. 6), l’entreprise d’assurance ne pourra pas rési
 
 <sup>2</sup> Les règles du code fédéral des obligations du 14 juin 1881 relatives à l’annulation des titres au porteur[^13-2] s’appliquent par analogie à l’annulation des polices, avec cette modification que le délai pour produire est réduit à un an au plus.
 
-[^13-1]: Abrogé par le ch. II 8 de l'annexe 1 au code de procédure civile du 19 déc. 2008, avec effet au 1<sup>er</sup> janv. 2011 ([RO 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6841](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^13-1]: Abrogé par le ch. II 8 de l’annexe 1 au code de procédure civile du 19 déc. 2008, avec effet au 1<sup>er</sup> janv. 2011 ([RO 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6841](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 [^13-2]: [[RO 5 577](https://fedlex.data.admin.ch/eli/oc/5/635_577_577), **11** 449; RS **2** 3 tit. fin. art. 60 al. 2 189 in fine, art. 18 disp. fin. et trans. tit. XXIV à XXXIII 776 art. 103 al. 1]. Actuellement «les règles du CO» ([RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)).
 
 ### Sinistre causé par faute
@@ -559,15 +562,15 @@ Est considéré comme juste motif:
 
 [^35c-1]: Introduit par le ch. I de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4767](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
-### Retrait de l’agrément: effets de droit privé
+### Retrait de l’autorisation: effets de droit privé
 
 [^chap1-sec6-lvlu4-1]
 
-[^chap1-sec6-lvlu4-1]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2004, en vigueur depuis le 1<sup>er</sup> janv. 2006 ([RO 2005 5245](https://fedlex.data.admin.ch/eli/oc/2005/726); [FF 2003 3353](https://fedlex.data.admin.ch/eli/fga/2003/577)).
+[^chap1-sec6-lvlu4-1]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 18 mars 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); FF **2020** 8967).
 
 #### Art. 36
 
-<sup>1</sup> Le preneur d’assurance est en droit de résilier le contrat en tout temps si l’entreprise d’assurance participant au contrat ne dispose pas de l’agrément requis par la loi du 17 décembre 2004 sur la surveillance des assurances (LSA)[^36-1] pour l’exercice de l’activité d’assurance ou si ledit agrément lui a été retiré.[^36-2]
+<sup>1</sup> Le preneur d’assurance est en droit de résilier le contrat en tout temps si l’entreprise d’assurance participant au contrat ne dispose pas de l’autorisation requise par la LSA[^36-1] pour l’exercice de l’activité d’assurance ou si ladite autorisation lui a été retirée.[^36-2]
 
 <sup>2</sup> ... [^36-3]
 
@@ -576,7 +579,7 @@ Est considéré comme juste motif:
 <sup>4</sup> Il conserve de plus l’action en dommages-intérêts.
 
 [^36-1]: [RS 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
-[^36-2]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4767](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+[^36-2]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 18 mars 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); FF **2020** 8967).
 [^36-3]: Abrogé par le ch. I de la LF du 19 juin 2020, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4767](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
 ### Faillite de l’entreprise d’assurance

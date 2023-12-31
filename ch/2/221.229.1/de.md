@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 2. April 1908 über den Versicherungsvertrag (Versicher
 short: VVG
 eli: "https://fedlex.data.admin.ch/eli/cc/24/719_735_717"
 language: de
-version: 2023-09-01
+version: 2024-01-01
 adopted: 1908-04-02
 in_force: 1910-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/24/719_735_717/20230901/de/xml/fedlex-data-admin-ch-eli-cc-24-719_735_717-20230901-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/24/719_735_717/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/24/719_735_717/20240101/de/xml/fedlex-data-admin-ch-eli-cc-24-719_735_717-20240101-de-xml-14.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/24/719_735_717/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/24/719_735_717/20230901/de"
 
 (Versicherungsvertragsgesetz, VVG)[^t-1]
 
-vom 2. April 1908 (Stand am 1. September 2023)
+vom 2. April 1908 (Stand am 1. Januar 2024)
 
 [^t-1]: Kurztit. und Abkürzung eingefügt durch Ziff. I des BG vom 17. Dez. 2004, in Kraft seit 1. Jan. 2006 ([AS 2005 5245](https://fedlex.data.admin.ch/eli/oc/2005/726); [BBl 2003 3789](https://fedlex.data.admin.ch/eli/fga/2003/577)).
 
@@ -105,7 +105,7 @@ beschliesst:
 
 [^chap1-sec2-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
-### Informations- pflicht des Versicherungsunternehmens
+### Informationspflicht des Versicherungsunternehmens
 
 #### Art. 3
 
@@ -124,11 +124,12 @@ Das Versicherungsunternehmen muss den Versicherungsnehmer vor Abschluss des Vers
 - g.[^3-5] die Bearbeitung der Personendaten einschliesslich Zweck und Art der Datenbank sowie Empfänger und Aufbewahrung der Daten;
 - h.[^3-6] das Widerrufsrecht nach Artikel 2*a* sowie über Form und Frist des Widerrufs;
 - i.[^3-7] eine Frist für das Einreichen der Schadenanzeige nach Artikel 38 Absatz 1;
-- j.[^3-8] die zeitliche Geltung des Versicherungsschutzes insbesondere in den Fällen, in denen das befürchtete Ereignis während der Laufzeit des Vertrags, der daraus entstehende Schaden aber erst nach Beendigung des Vertrags eintritt.
+- j.[^3-8] die zeitliche Geltung des Versicherungsschutzes insbesondere in den Fällen, in denen das befürchtete Ereignis während der Laufzeit des Vertrags, der daraus entstehende Schaden aber erst nach Beendigung des Vertrags eintritt;
+- k.[^3-9] die Qualifikation einer Lebensversicherung als qualifizierte Lebensversicherung gemäss Artikel 39*a* des Versicherungsaufsichtsgesetzes vom 17. Dezember 2004[^3-10] (VAG).
 
 <sup>2</sup> Diese Angaben sind dem Versicherungsnehmer so zu übergeben, dass er sie kennen kann, wenn er den Versicherungsvertrag beantragt oder annimmt. In jedem Fall muss er zu diesem Zeitpunkt im Besitz der Allgemeinen Versicherungsbedingungen und der Information nach Absatz 1 Buchstabe g sein.
 
-<sup>3</sup> Schliesst ein Arbeitgeber zum Schutz seiner Arbeitnehmer eine kollektive Personenversicherung ab, so ist er verpflichtet, die Arbeitnehmer über den wesentlichen Inhalt des Vertrags sowie dessen Änderungen und Auflösung schriftlich oder in einer anderen Form, die den Nachweis durch Text ermöglicht, zu informieren. Das Versicherungsunternehmen stellt dem Arbeitgeber die dazu erforderlichen Unterlagen zur Verfügung.[^3-9]
+<sup>3</sup> Schliesst ein Arbeitgeber zum Schutz seiner Arbeitnehmer eine kollektive Personenversicherung ab, so ist er verpflichtet, die Arbeitnehmer über den wesentlichen Inhalt des Vertrags sowie dessen Änderungen und Auflösung schriftlich oder in einer anderen Form, die den Nachweis durch Text ermöglicht, zu informieren. Das Versicherungsunternehmen stellt dem Arbeitgeber die dazu erforderlichen Unterlagen zur Verfügung.[^3-11]
 
 [^3-1]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2004, in Kraft seit 1. Jan. 2007 ([AS 2005 5245](https://fedlex.data.admin.ch/eli/oc/2005/726); [BBl 2003 3789](https://fedlex.data.admin.ch/eli/fga/2003/577)).
 [^3-2]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
@@ -138,7 +139,9 @@ Das Versicherungsunternehmen muss den Versicherungsnehmer vor Abschluss des Vers
 [^3-6]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 [^3-7]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 [^3-8]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
-[^3-9]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+[^3-9]: Eingefügt durch Anhang Ziff. 1 des BG vom 18. März 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [BBl 2020 8967](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
+[^3-10]: [SR 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
+[^3-11]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
 ### Verletzung der Informationspflicht
 
@@ -564,7 +567,7 @@ Als wichtiger Grund gilt namentlich:
 
 #### Art. 36
 
-<sup>1</sup> Der Versicherungsnehmer ist berechtigt, den Vertrag jederzeit zu kündigen, wenn das am Vertrag beteiligte Versicherungsunternehmen nicht über die nach dem Versicherungsaufsichtsgesetz vom 17. Dezember 2004[^36-1] (VAG) notwendige Bewilligung zur Versicherungstätigkeit verfügt oder ihm diese entzogen worden ist.[^36-2]
+<sup>1</sup> Der Versicherungsnehmer ist berechtigt, den Vertrag jederzeit zu kündigen, wenn das am Vertrag beteiligte Versicherungsunternehmen nicht über die nach dem VAG[^36-1] notwendige Bewilligung zur Versicherungstätigkeit verfügt oder ihm diese entzogen worden ist.[^36-2]
 
 <sup>2</sup> …[^36-3]
 
@@ -573,7 +576,7 @@ Als wichtiger Grund gilt namentlich:
 <sup>4</sup> Dem Versicherungsnehmer bleibt überdies der Anspruch auf Schadenersatz gewahrt.
 
 [^36-1]: [SR 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
-[^36-2]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+[^36-2]: Fassung gemäss Anhang Ziff. 1 des BG vom 18. März 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [BBl 2020 8967](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
 [^36-3]: Aufgehoben durch Ziff. I des BG vom 19. Juni 2020, mit Wirkung seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
 ### Konkurs des Versicherungsunternehmens
@@ -672,7 +675,7 @@ Der Vertrag kann verfügen:
 [^39a-1]: Eingefügt durch Anhang Ziff. 1 des BG vom 6. Okt. 2006 (5. IV-Revision), in Kraft seit 1. Jan. 2008 ([AS 2007 5129](https://fedlex.data.admin.ch/eli/oc/2007/722); [BBl 2005 4459](https://fedlex.data.admin.ch/eli/fga/2005/719)).
 [^39a-2]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
 
-### Inter- institutionelle Zusammenarbeit
+### Inter-institutionelle Zusammenarbeit
 
 #### Art. 39b
 

@@ -4,11 +4,11 @@ title: "Legge federale del 2 aprile 1908 sul contratto d'assicurazione (Legge su
 short: LCA
 eli: "https://fedlex.data.admin.ch/eli/cc/24/719_735_717"
 language: it
-version: 2023-09-01
+version: 2024-01-01
 adopted: 1908-04-02
 in_force: 1910-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/24/719_735_717/20230901/it/xml/fedlex-data-admin-ch-eli-cc-24-719_735_717-20230901-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/24/719_735_717/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/24/719_735_717/20240101/it/xml/fedlex-data-admin-ch-eli-cc-24-719_735_717-20240101-it-xml-14.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/24/719_735_717/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/24/719_735_717/20230901/it"
 
 (Legge sul contratto d’assicurazione, LCA)[^t-1]
 
-del 2 aprile 1908 (Stato 1° settembre 2023)
+del 2 aprile 1908 (Stato 1° gennaio 2024)
 
 [^t-1]: Tit. abbreviato e abbreviazione introdotti dal n. I della LF del 17 dic. 2004, in vigore dal 1° gen. 2006 ([RU 2005 5245](https://fedlex.data.admin.ch/eli/oc/2005/726); [FF 2003 3233](https://fedlex.data.admin.ch/eli/fga/2003/577)).
 
@@ -121,11 +121,12 @@ Prima della conclusione del contratto d’assicurazione, l’assicuratore deve i
 - g.[^3-5] trattamento dei dati personali, compresi lo scopo e il genere della banca dati, nonché destinatari e conservazione dei dati;
 - h.[^3-6] il diritto di revoca secondo l’articolo 2*a* nonché la forma e il termine della revoca;
 - i.[^3-7] il termine di presentazione dell’avviso di sinistro di cui all’articolo 38 capoverso 1;
-- j.[^3-8] la validità temporale della protezione assicurativa, in particolare nei casi in cui il sinistro accada nel corso della durata del contratto ma il danno che ne deriva si verifichi soltanto dopo l’estinzione del contratto.
+- j.[^3-8] la validità temporale della protezione assicurativa, in particolare nei casi in cui il sinistro accada nel corso della durata del contratto ma il danno che ne deriva si verifichi soltanto dopo l’estinzione del contratto;
+- k.[^3-9] definizione di un’assicurazione sulla vita come assicurazione sulla vita qualificata ai sensi dell’articolo 39*a* della legge del 17 dicembre 2004[^3-10] sulla sorveglianza degli assicuratori (LSA).
 
 <sup>2</sup> Tali informazioni sono fornite allo stipulante in modo tale ch’egli possa esserne a conoscenza quando propone o accetta il contratto d’assicurazione. In ogni caso, a quel momento deve essere in possesso delle condizioni generali d’assicurazione e dell’informazione di cui al capoverso 1 lettera g.
 
-<sup>3</sup> Il datore di lavoro che conclude un’assicurazione collettiva di persone per proteggere i propri lavoratori è tenuto a informarli, per scritto o in un’altra forma che consenta la prova per testo, sul contenuto essenziale, sulle modifiche e sullo scioglimento del contratto. L’assicuratore mette a disposizione del datore di lavoro la documentazione necessaria a tal fine.[^3-9]
+<sup>3</sup> Il datore di lavoro che conclude un’assicurazione collettiva di persone per proteggere i propri lavoratori è tenuto a informarli, per scritto o in un’altra forma che consenta la prova per testo, sul contenuto essenziale, sulle modifiche e sullo scioglimento del contratto. L’assicuratore mette a disposizione del datore di lavoro la documentazione necessaria a tal fine.[^3-11]
 
 [^3-1]: Nuovo testo giusta il n. I della LF del 17 dic. 2004, in vigore dal 1° gen. 2007 ([RU 2005 5245](https://fedlex.data.admin.ch/eli/oc/2005/726); [FF 2003 3233](https://fedlex.data.admin.ch/eli/fga/2003/577)).
 [^3-2]: Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
@@ -135,17 +136,11 @@ Prima della conclusione del contratto d’assicurazione, l’assicuratore deve i
 [^3-6]: Introdotta dal n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 [^3-7]: Introdotta dal n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 [^3-8]: Introdotta dal n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
-[^3-9]: Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+[^3-9]: Introdotta dall’all. n. 1 della LF del 18 mar. 2022, in vigore dal 1° gen. 2024 ([RU 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [FF 2020 7833](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
+[^3-10]: [RS 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
+[^3-11]: Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
 ### Violazione dell’obbligo d’informare
-
-### Dichiarazioni obbligatorie
-
-### a. In genere
-
-[^chap1-sec2-lvlu3-lvla-1]
-
-[^chap1-sec2-lvlu3-lvla-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
 #### Art. 3a
 
@@ -155,17 +150,26 @@ Prima della conclusione del contratto d’assicurazione, l’assicuratore deve i
 
 <sup>2</sup> Il diritto di recesso si estingue quattro settimane dopo che lo stipulante è venuto a conoscenza della violazione dell’obbligo e delle informazioni di cui all’articolo 3, ma al più tardi due anni dopo la violazione dell’obbligo.
 
-**Art. 4**
+[^3a-1]: Introdotto dal n. I della LF del 17 dic. 2004 ([RU 2005 5245](https://fedlex.data.admin.ch/eli/oc/2005/726); [FF 2003 3233](https://fedlex.data.admin.ch/eli/fga/2003/577)). Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
-<sup>1</sup> Il proponente deve dichiarare all’assicuratore, sulla scorta di un questionario o in risposta a domande poste in altra forma, tutti i fatti rilevanti per l’apprezzamento del rischio, in quanto e come gli sono o gli devono essere noti. Le domande e la dichiarazione devono essere fatte per scritto o in un’altra forma che consenta la prova per testo.[^3a-2]
+### Dichiarazioni obbligatorie
+
+### a. In genere
+
+[^chap1-sec2-lvlu3-lvla-1]
+
+[^chap1-sec2-lvlu3-lvla-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+
+#### Art. 4
+
+<sup>1</sup> Il proponente deve dichiarare all’assicuratore, sulla scorta di un questionario o in risposta a domande poste in altra forma, tutti i fatti rilevanti per l’apprezzamento del rischio, in quanto e come gli sono o gli devono essere noti. Le domande e la dichiarazione devono essere fatte per scritto o in un’altra forma che consenta la prova per testo.[^4-1]
 
 <sup>2</sup> Sono rilevanti i fatti che possono influire sulla determinazione dell’assicuratore a conchiudere il contratto od a conchiuderlo alle condizioni convenute.
 
-<sup>3</sup> Si presumono rilevanti i fatti in merito ai quali l’assicuratore abbia formulato domande precise, non equivoche.[^3a-3]
+<sup>3</sup> Si presumono rilevanti i fatti in merito ai quali l’assicuratore abbia formulato domande precise, non equivoche.[^4-2]
 
-[^3a-1]: Introdotto dal n. I della LF del 17 dic. 2004 ([RU 2005 5245](https://fedlex.data.admin.ch/eli/oc/2005/726); [FF 2003 3233](https://fedlex.data.admin.ch/eli/fga/2003/577)). Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
-[^3a-2]: Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
-[^3a-3]: Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+[^4-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+[^4-2]: Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
 ### b. In caso di rappresentanza
 
@@ -559,7 +563,7 @@ Si considera grave motivo segnatamente:
 
 #### Art. 36
 
-<sup>1</sup> Lo stipulante ha diritto di recedere in ogni tempo dal contratto se l’assicuratore che è parte al contratto non dispone dell’autorizzazione a esercitare l’attività assicurativa prescritta dalla legge del 17 dicembre 2004[^36-1] sulla sorveglianza degli assicuratori (LSA) o tale autorizzazione gli è stata revocata.[^36-2]
+<sup>1</sup> Lo stipulante ha diritto di recedere in ogni tempo dal contratto se l’assicuratore che è parte al contratto non dispone dell’autorizzazione a esercitare l’attività assicurativa prescritta dalla LSA[^36-1] o tale autorizzazione gli è stata revocata.[^36-2]
 
 <sup>2</sup> ... [^36-3]
 
@@ -568,7 +572,7 @@ Si considera grave motivo segnatamente:
 <sup>4</sup> Egli conserva inoltre l’azione di risarcimento.
 
 [^36-1]: [RS 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
-[^36-2]: Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+[^36-2]: Nuovo testo giusta l’all. n. 1 della LF del 18 mar. 2022, in vigore dal 1° gen. 2024 ([RU 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [FF 2020 7833](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
 [^36-3]: Abrogato dal n. I della LF del 19 giu. 2020, con effetto dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
 ### Fallimento dell’assicuratore
@@ -804,8 +808,6 @@ Se è stata convenuta una sanzione per il caso in cui lo stipulante o l’avente
 
 ### Cumulo di assicurazioni
 
-### Responsabilità in caso di cumulo di assicurazioni
-
 #### Art. 46b
 
 [^46b-1]
@@ -818,7 +820,13 @@ Se è stata convenuta una sanzione per il caso in cui lo stipulante o l’avente
 
 <sup>4</sup> Ogni assicuratore ha diritto a tutta la prestazione convenuta.
 
-**Art. 46***c*[^46b-2]
+[^46b-1]: Introdotto dal n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+
+### Responsabilità in caso di cumulo di assicurazioni
+
+#### Art. 46c
+
+[^46c-1]
 
 <sup>1</sup> In caso di cumulo di assicurazioni, ogni assicuratore risponde del danno nella proporzione esistente fra la somma da esso assicurata e l’importo totale delle somme assicurate.
 
@@ -826,8 +834,7 @@ Se è stata convenuta una sanzione per il caso in cui lo stipulante o l’avente
 
 <sup>3</sup> Accaduto il sinistro, l’avente diritto non può risolvere o modificare nessuna assicurazione a detrimento degli altri assicuratori.
 
-[^46b-1]: Introdotto dal n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
-[^46b-2]: Introdotto dal n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+[^46c-1]: Introdotto dal n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
 ### Tacita rinnovazione
 
@@ -1264,9 +1271,9 @@ Se l’avente diritto ha costituito in pegno a favore dell’assicuratore il dir
 
 [^chap2-sec4-1]: Introdotta dal n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
-**Art. 95**a
-
 ### Assicurazione collettiva contro gli infortuni e le malattie; diritto del beneficiario
+
+#### Art. 95a
 
 L’assicurazione collettiva contro gli infortuni e le malattie conferisce al beneficiario, tosto che l’infortunio sia accaduto o la malattia sopraggiunta, un diritto proprio verso l’assicuratore.
 
