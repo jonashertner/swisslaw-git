@@ -4,13 +4,13 @@ number: "651.100"
 title: Steuergesetz
 short: StG
 language: de
-version: 2023-01-01
-valid_until: 2023-12-31
+version: 2024-01-01
+valid_until: 2024-06-30
 version_adopted: 2022-12-06
 adopted: 1998-12-15
 in_force: 2001-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/651.100"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3275/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3350/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3275/pdf_file"
 
 (StG)
 
-Vom 15.12.1998 (Stand 01.01.2023)
+Vom 15.12.1998 (Stand 01.01.2024)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -716,7 +716,7 @@ beschliesst:
 <sup>4</sup> Mit den im Rahmen der Änderung des Steuergesetzes vom 7. Dezember 2021 beschlossenen Pauschalbeträgen ist die Prämienentwicklung für die Steuerperiode 2022 berücksichtigt. Die Pauschalbeträge werden erstmals für die Steuerperiode 2023 angepasst.
 
 [^40-1]: SR [831.40](https://db.clex.ch/link/Bund/831.40/de)
-[^40-2]: Ab der Steuerperiode 2023: Fr. 6'400.– für verheiratete Personen, die in rechtlich und tatsächlich ungetrennter Ehe leben; Fr. 3'200.– für die übrigen Steuerpflichtigen (gestützt auf § 40 Abs. 2 und 3)
+[^40-2]: Ab der Steuerperiode 2024: Fr. 6'800.– für verheiratete Personen, die in rechtlich und tatsächlich ungetrennter Ehe leben; Fr. 3'400.– für die übrigen Steuerpflichtigen (gestützt auf § 40 Abs. 2 und 3)
 [^40-3]: SR [151.3](https://db.clex.ch/link/Bund/151.3/de)
 
 #### § 40a
@@ -764,7 +764,7 @@ beschliesst:
 
 <sup>3</sup> Besteht die Steuerpflicht nur während eines Teils der Steuerperiode, werden die Sozialabzüge anteilmässig gewährt; für die Satzbestimmung werden sie voll angerechnet.
 
-[^42-1]: Die Beträge der Abzüge gemäss § 42 Abs. 1 lit. a–d richten sich ab der Steuerperiode 2023 nach der Verordnung über die Anpassung an die Teuerung vom 19. Oktober 2022 (Progressionsverordnung 2023; SAR 651.133)
+[^42-1]: Die Beträge der Abzüge gemäss § 42 Abs. 1 lit. a–d richten sich ab der Steuerperiode 2024 nach der Verordnung über die Anpassung an die Teuerung vom 1. November 2023 (Progressionsverordnung 2024; SAR 651.134)
 
 #### § 43
 
@@ -794,7 +794,7 @@ beschliesst:
 
 <sup>4.</sup> Der Tarif wird nach den Verhältnissen am Ende der Steuerperiode oder der Steuerpflicht festgelegt.
 
-[^43-1]: Der Einkommenssteuertarif ab der Steuerperiode 2023 richtet sich nach der Verordnung über die Anpassung an die Teuerung vom 19. Oktober 2022 (Progressionsverordnung 2023; SAR 651.133)
+[^43-1]: Der Einkommenssteuertarif ab der Steuerperiode 2024 richtet sich nach der Verordnung über die Anpassung an die Teuerung vom 1. November 2023 (Progressionsverordnung 2024; SAR 651.134)
 
 #### § 44
 
@@ -946,7 +946,7 @@ beschliesst:
 
 <sup>2</sup> Restbeträge des Vermögens unter Fr. 1'000.– fallen ausser Betracht.
 
-[^55-1]: Der Vermögenssteuertarif ab der Steuerperiode 2023 richtet sich nach der Verordnung über die Anpassung an die Teuerung vom 19. Oktober 2022 (Progressionsverordnung 2023; SAR 651.133)
+[^55-1]: Der Vermögenssteuertarif ab der Steuerperiode 2024 richtet sich nach der Verordnung über die Anpassung an die Teuerung vom 1. November 2023 (Progressionsverordnung 2024; SAR 651.134)
 
 ### 2.4. Höchstbelastung, Anpassung an die Teuerung und Zuschläge
 
