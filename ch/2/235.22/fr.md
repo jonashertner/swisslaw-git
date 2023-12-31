@@ -4,11 +4,11 @@ title: Ordonnance du 17 août 2016 sur le système d’information E-VERA
 short: O E-VERA
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/487"
 language: fr
-version: 2023-12-01
+version: 2024-01-01
 adopted: 2016-08-17
 in_force: 2016-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/487/20231201/fr/xml/fedlex-data-admin-ch-eli-cc-2016-487-20231201-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/487/20231201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/487/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-487-20240101-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/487/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/487/20231201/fr"
 
 (O E-VERA)
 
-du 17 août 2016 (État le 1<sup>er</sup> décembre 2023)
+du 17 août 2016 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -229,19 +229,20 @@ Les données relatives à une personne sont détruites cinq ans après la saisie
 
 <sup>1</sup>
 
-La sécurité informatique est régie par:
+La sécurité des données et la sécurité de l’information sont régies par:[^14-1]
 
-- a.[^14-1] l’ordonnance du 31 août 2022 sur la protection des données[^14-2];
-- b.[^14-3] l’ordonnance du 27 mai 2020 sur les cyberrisques[^14-4];
-- c.[^14-5] …
+- a.[^14-2] l’ordonnance du 31 août 2022 sur la protection des données[^14-3];
+- b.[^14-4] l’ordonnance du 8 novembre 2023 sur la sécurité de l’information[^14-5];
+- c.[^14-6] …
 
 <sup>2</sup> La DC édicte un règlement relatif au traitement des données. Ce dernier définit les mesures techniques et organisationnelles requises pour assurer la sécurité des données ainsi que le contrôle du traitement des données.
 
-[^14-1]: Nouvelle teneur selon l’annexe 2 ch. II 31 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^14-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^14-3]: Nouvelle teneur selon l’annexe ch. 12 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
-[^14-4]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^14-5]: Abrogée par l’annexe ch. 12 de l’O du 24 fév. 2021, avec effet au 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^14-1]: Nouvelle teneur selon l’annexe 2 ch. II 12 de l’O du 8 nov. 2023 sur la sécurité de l’information, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^14-2]: Nouvelle teneur selon l’annexe 2 ch. II 31 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^14-3]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^14-4]: Nouvelle teneur selon l’annexe 2 ch. II 12 de l’O du 8 nov. 2023 sur la sécurité de l’information, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^14-5]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^14-6]: Abrogée par l’annexe ch. 12 de l’O du 24 fév. 2021, avec effet au 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 15
 

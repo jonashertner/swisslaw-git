@@ -4,11 +4,11 @@ title: "Verordnung vom 17. August 2016 über das Informationssystem E-VERA (Vero
 short: VEVERA
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/487"
 language: de
-version: 2023-12-01
+version: 2024-01-01
 adopted: 2016-08-17
 in_force: 2016-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/487/20231201/de/xml/fedlex-data-admin-ch-eli-cc-2016-487-20231201-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/487/20231201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/487/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2016-487-20240101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/487/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/487/20231201/de"
 
 (Verordnung E-VERA, VEVERA)
 
-vom 17. August 2016 (Stand am 1. Dezember 2023)
+vom 17. August 2016 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -230,19 +230,20 @@ Fünf Jahre nach der Erfassung einer der folgenden Angaben, spätestens aber nac
 
 <sup>1</sup>
 
-Die Informatiksicherheit richtet sich nach:
+Die Informationssicherheit richtet sich nach:[^14-1]
 
-- a.[^14-1] der Datenschutzverordnung vom 31. August 2022[^14-2];
-- b.[^14-3] der Cyberrisikenverordnung vom 27. Mai 2020[^14-4];
-- c.[^14-5] …
+- a.[^14-2] der Datenschutzverordnung vom 31. August 2022[^14-3];
+- b.[^14-4] der Informationssicherheitsverordnung vom 8. November 2023[^14-5];
+- c.[^14-6] …
 
 <sup>2</sup> Die KD erlässt ein Bearbeitungsreglement. Dieses enthält die organisatorischen und technischen Massnahmen zur Gewährleistung der Datensicherheit sowie zur Kontrolle der Datenbearbeitung.
 
-[^14-1]: Fassung gemäss Anhang 2 Ziff. II 31 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^14-2]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^14-3]: Fassung gemäss Anhang Ziff. 12 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
-[^14-4]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^14-5]: Aufgehoben durch Anhang Ziff. 12 der V vom 24. Febr. 2021, mit Wirkung seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^14-1]: Fassung gemäss Anhang 2 Ziff. II 12 der Informationssicherheitsverordnung vom 8. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^14-2]: Fassung gemäss Anhang 2 Ziff. II 31 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^14-3]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^14-4]: Fassung gemäss Anhang 2 Ziff. II 12 der Informationssicherheitsverordnung vom 8. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^14-5]: [SR 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^14-6]: Aufgehoben durch Anhang Ziff. 12 der V vom 24. Febr. 2021, mit Wirkung seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 15
 
@@ -288,7 +289,7 @@ Anhang 1[^t-1]
 
 [^t-1]: Fassung gemäss Ziff. II der V vom 25. Okt. 2023, in Kraft seit 1. Dez. 2023 ([AS 2023 636](https://fedlex.data.admin.ch/eli/oc/2023/636)).
 
-Zeichenerklärung
+Zeichenerklärung:
 
 <table>
 <tr><th colspan="2">Zugriffsberechtigte / Daten-empfangende Stellen</th><th></th><th colspan="2">Bearbeitungsrechte</th><th></th></tr>
