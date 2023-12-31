@@ -3,11 +3,11 @@ sr: "641.711"
 title: "Verordnung vom 30. November 2012 über die Reduktion der CO<sub>2</sub>-Emissionen (CO<sub>2</sub>-Verordnung)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/856"
 language: de
-version: 2023-11-10
+version: 2024-01-01
 adopted: 2012-11-30
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20231110/de/xml/fedlex-data-admin-ch-eli-cc-2012-856-20231110-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/856/20231110/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2012-856-20240101-de-xml-20.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/856/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/856/20231110/de"
 
 (CO<sub>2</sub>-Verordnung)
 
-vom 30. November 2012 (Stand am 10. November 2023)
+vom 30. November 2012 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -59,7 +59,6 @@ Im Sinne dieser Verordnung bedeuten:
 - a. *Feuerungswärmeleistung*: einer Anlage maximal zuführbare Wärmeenergie pro Zeiteinheit;
 - b. *Gesamtfeuerungswärmeleistung*: Summe der Feuerungswärmeleistungen der Anlagen eines Betreibers, die im Emissionshandelssystem (EHS) berücksichtigt werden;
 - c. *Gesamtleistung*: Summe der abgegebenen elektrischen und thermischen Nennleistungen eines fossil-thermischen Kraftwerks oder einer Wärme-Kraftkopplungsanlage (WKK-Anlage);
-
 - d. *Gesamtwirkungsgrad*: Verhältnis der Gesamtleistung zur Feuerungswärmeleistung eines fossil-thermischen Kraftwerks oder einer WKK-Anlage gemäss Herstellerangaben;
 - e. *EHS-Teilnehmer*: Betreiber von Anlagen und Betreiber von Luftfahrzeugen, die am EHS der Schweiz teilnehmen;
 - f. *Partnerstaat*: Staat, mit welchem die Schweiz eine völkerrechtliche Vereinbarung zur Durchführung von Klimaschutzprojekten der Schweiz in diesem Staat abgeschlossen hat.
@@ -539,29 +538,16 @@ Der Bericht muss Angaben enthalten über:
 
 #### Art. 17
 
-**Persönlicher Geltungsbereich[^17-2]**[^17-1]
+**Importeur**[^17-1]
 
-<sup>1</sup>
+<sup>1</sup> Als Importeur nach Artikel 10 Absatz 3 CO<sub>2</sub>-Gesetz gilt, wer ein Fahrzeug beim Bundesamt für Energie (BFE) gemäss Artikel 23 Absatz 4 bescheinigen lässt.
 
-Den Bestimmungen dieses Kapitels untersteht, wer eines der folgenden Fahrzeuge, die erstmals in Verkehr gesetzt werden, in die Schweiz importiert oder in der Schweiz herstellt:
+<sup>2</sup> Wird das Fahrzeug nicht bescheinigt, so gilt als Importeur, wer im Informationssystem Verkehrszulassung nach Artikel 89*a* des Strassenverkehrsgesetzes vom 19. Dezember 1958[^17-2] als solcher erfasst ist.
 
-- a. Personenwagen;
-- b. Lieferwagen;
-- c. leichter Sattelschlepper.
+<sup>3</sup> Wird das Fahrzeug nicht bescheinigt und ist im Informationssystem Verkehrszulassung nicht ersichtlich, wer der Importeur ist, so gilt als Importeur, wer in der Zollanmeldung als solcher bezeichnet ist.
 
-<sup>2</sup>
-
-Als Importeur eines Fahrzeugs gilt, wer:
-
-- a. Inhaber der Typengenehmigung oder des Datenblatts nach den Artikeln 3 und 3*a* der Verordnung vom 19. Juni 1995[^17-3] über die Typengenehmigung von Strassenfahrzeugen (TGV) ist: wenn für die Zulassung des Fahrzeugs zum Verkehr dessen Typengenehmigung oder das entsprechende Datenblatt verwendet wird;
-- b.[^17-4] gemäss der Zollanmeldung Importeur des Fahrzeugs ist: wenn für die Zulassung des Fahrzeugs die elektronische Übereinstimmungsbescheinigung nach Artikel 37 der Verordnung (EU) 2018/858[^17-5] (*Certificate of Conformity*, COC) verwendet wird; oder
-- c. sich vom Bundesamt für Strassen (ASTRA) als Importeur bescheinigen lässt: wenn für die Zulassung keines der Dokumente nach den Buchstaben a und b verwendet wird.
-
-[^17-1]: Fassung gemäss Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
-[^17-2]: Fassung gemäss Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
-[^17-3]: [SR 741.511](https://fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997)
-[^17-4]: Fassung gemäss Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
-[^17-5]: Verordnung (EU) 2018/858 des Europäischen Parlaments und des Rates vom 30. Mai 2018 über die Genehmigung und die Marktüberwachung von Kraftfahrzeugen und Kraftfahrzeuganhängern sowie von Systemen, Bauteilen und selbstständigen technischen Einheiten für diese Fahrzeuge, zur Änderung der Verordnungen (EG) Nr. 715/2007 und (EG) Nr. 595/2009 und zur Aufhebung der Richtlinie 2007/46/EG, ABl. L 151 vom 14.6.2018, S. 1; zuletzt geändert durch Verordnung (EU) 2019/2144, ABl. L 325 vom 16.12.2019, S. 1.
+[^17-1]: Fassung gemäss Ziff. I der V vom 29. Sept. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
+[^17-2]: [SR 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
 
 #### Art. 17a
 
@@ -610,25 +596,32 @@ Als Importeur eines Fahrzeugs gilt, wer:
 
 <sup>2</sup> Das Inverkehrsetzen in einem Zollausschlussgebiet nach Artikel 3 Absatz 3 des Zollgesetzes vom 18. März 2005[^17d-2] (ZG) sowie in Liechtenstein gilt als Inverkehrsetzen in der Schweiz. Das Inverkehrsetzen in einem Zollanschlussgebiet nach Artikel 3 Absatz 2 ZG, mit Ausnahme von Liechtenstein, gilt als Inverkehrsetzen im Ausland.
 
-<sup>3</sup> Nicht als erstmals in Verkehr gesetzt gelten eingeführte Fahrzeuge, wenn sie vor mehr als sechs Monaten vor der Zollanmeldung zum Verkehr im Ausland zugelassen worden sind.
+<sup>3</sup>
 
-<sup>4</sup>
+Nicht als erstmals in Verkehr gesetzt gelten eingeführte Fahrzeuge, die:
 
-Führt die Frist nach Absatz 3 zu einer wesentlichen Ungleichbehandlung von Importeuren von Fahrzeugen, die vor der Zollanmeldung bereits im Ausland zugelassen worden sind, und Importeuren von Fahrzeugen, die vor der Zollanmeldung noch nicht im Ausland zugelassen worden sind, oder kommt es zu Missbräuchen, so kann das UVEK:
+- a. vor mehr als zwölf Monaten vor der Zollanmeldung in der Schweiz zum Verkehr im Ausland zugelassen worden sind; oder
+- b.
 
-- [tab] a. die Frist kürzen oder auf höchstens ein Jahr verlängern; oder
-- [tab] b. eine erforderliche Mindestzahl an zurückgelegten Kilometern festlegen.
+  vor mehr als sechs Monaten und vor höchstens 12 Monaten vor der Zollanmeldung in der Schweiz zum Verkehr im Ausland zugelassen worden sind und zu folgendem Zeitpunkt eine Fahrleistung von 5000 km oder mehr aufweisen:
+
+  - 1\. zum Zeitpunkt der Zollanmeldung,
+  - 2\. zum Zeitpunkt der erstmaligen Zulassung zum Verkehr, wenn die Fahrleistung zum Zeitpunkt der Zollanmeldung nicht erfasst ist.[^17d-3]
+
+<sup>4</sup> …[^17d-4]
 
 [^17d-1]: Ursprünglich: Art. 17*a*. Eingefügt durch Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
 [^17d-2]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^17d-3]: Fassung gemäss Ziff. I der V vom 29. Sept. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
+[^17d-4]: Aufgehoben durch Ziff. I der V vom 29. Sept. 2023, mit Wirkung seit 1. Jan. 2024 ([AS 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
 
 #### Art. 17e
 
 **Referenzjahr**[^17e-1]
 
-Als Referenzjahr gilt das Kalenderjahr, in dem die Erreichung der individuellen Zielvorgabe überprüft wird.
+Als Referenzjahr gilt das Kalenderjahr, für das die Erreichung der individuellen Zielvorgabe überprüft wird.
 
-[^17e-1]: Ursprünglich: Art. 17*a*, dann Art. 17*a*<sup>bis</sup>. Eingefügt durch Ziff. I der V vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
+[^17e-1]: Ursprünglich: Art. 17*a*, dann Art. 17*a*<sup>bis</sup>. Eingefügt durch Ziff. I der V vom 25. Nov. 2020 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)) und Fassung gemäss Ziff. I der V vom 29. Sept. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
 
 #### Art. 17f
 
@@ -715,12 +708,13 @@ Abhängig von der Anzahl der im Jahr vor dem Referenzjahr erstmals in Verkehr ge
 
 <sup>1</sup> Ein Importeur kann mit einem Grossimporteur vereinbaren, dass dieser Fahrzeuge von ihm übernimmt und damit in Bezug auf diese Fahrzeuge in sämtliche Pflichten nach diesem Kapitel eintritt.
 
-<sup>2</sup> Er muss dies dem ASTRA vor dem erstmaligen Inverkehrsetzen der betreffenden Fahrzeuge melden. Die Meldung muss eine Einverständniserklärung des übernehmenden Grossimporteurs enthalten.
+<sup>2</sup> Er oder der Grossimporteur muss dies dem BFE vor dem erstmaligen Inverkehrsetzen der betreffenden Fahrzeuge melden.[^22a-2]
 
-<sup>3</sup> Fahrzeuge können nur einmal abgetreten werden. Ein Widerruf einer Abtretung ist nicht möglich.[^22a-2]
+<sup>3</sup> Fahrzeuge können nur einmal abgetreten werden. Ein Widerruf einer Abtretung ist nicht möglich.[^22a-3]
 
 [^22a-1]: Eingefügt durch Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
-[^22a-2]: Eingefügt durch Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^22a-2]: Fassung gemäss Ziff. I der V vom 29. Sept. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
+[^22a-3]: Eingefügt durch Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 ### 3. Abschnitt: Bemessungsgrundlagen
 
@@ -728,16 +722,22 @@ Abhängig von der Anzahl der im Jahr vor dem Referenzjahr erstmals in Verkehr ge
 
 **Pflichten der Importeure**[^23-1]
 
-<sup>1</sup> Importeure müssen dem ASTRA vor dem erstmaligen Inverkehrsetzen eines Fahrzeugs die Daten bekannt geben, die für dessen Zuweisung zum Importeur und für die Berechnung einer allfälligen Sanktion erforderlich sind.
+<sup>1</sup> Importeure müssen dem Bundesamt für Strassen (ASTRA) vor dem erstmaligen Inverkehrsetzen eines Fahrzeugs die Daten bekanntgeben, die für dessen Zuweisung zum Importeur und für die Berechnung einer allfälligen Sanktion erforderlich sind.
 
-<sup>1bis</sup> Bei Fahrzeugen mit einer Typengenehmigung oder einem Datenblatt nach den Artikeln 3 und 3*a* TGV sowie bei Lieferwagen und leichten Sattelschleppern mit einer Mehrstufen-Typengenehmigung nach Artikel 3 Ziffer 7 der Richtlinie 2007/46/EG[^23-2] oder nach Artikel 3 Ziffer 8 der Verordnung (EU) 2018/858[^23-3] kann ein Grossimporteur dem BFE für die Sanktionsberechnung bis zum 31. Januar des Folgejahres des Referenzjahres COC-basierte Daten einreichen. Das BFE kann zur Kontrolle der Daten verlangen, dass der Grossimporteur ein Duplikat oder eine Kopie des COC nachreicht.[^23-4]
+<sup>2</sup>
 
-<sup>2</sup> Ein Kleinimporteur muss dem ASTRA vor dem erstmaligen Inverkehrsetzen eines Fahrzeugs zudem die Sanktion nach Artikel 13 des CO<sub>2</sub>-Gesetzes entrichten, sofern eine solche geschuldet ist.
+Geben Grossimporteure dem BFE für die folgenden Fahrzeuge bis zum 31. Januar des auf das Referenzjahr folgenden Jahres die Daten bekannt, die auf der Übereinstimmungsbescheinigung nach Artikel 36 oder 37 der Verordnung (EU) 2018/858[^23-2] (Certificate of Conformity, COC) basieren, so berücksichtigt das BFE für die Berechnung einer allfälligen Sanktion diese Daten statt der Daten nach Absatz 1:
 
-[^23-1]: Fassung gemäss Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
+- a. Fahrzeuge mit einer Typengenehmigung oder einem Datenblatt nach den Artikeln 3 und 3*a* der Verordnung vom 19. Juni 1995[^23-3] über die Typengenehmigung von Strassenfahrzeugen (TGV);
+- b. Lieferwagen und leichte Sattelschlepper mit einer Mehrstufen-Typengenehmigung nach Artikel 3 Ziffer 8 der Verordnung (EU) 2018/858.
+
+<sup>3</sup> Das BFE kann zur Kontrolle der nach Absatz 2 bekanntgegebenen Daten verlangen, dass der Grossimporteur ein Duplikat oder eine Kopie des COC nachreicht.
+
+<sup>4</sup> Kleinimporteure müssen ein Fahrzeug vor dem erstmaligen Inverkehrsetzen beim BFE bescheinigen lassen.
+
+[^23-1]: Fassung gemäss Ziff. I der V vom 29. Sept. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
 [^23-2]: Siehe Fussnote zu Art. 17*a* Abs. 2.
-[^23-3]: Siehe Fussnote zu Art. 17 Abs. 2 Bst. b.
-[^23-4]: Eingefügt durch Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Jan. 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^23-3]: [SR 741.511](https://fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997)
 
 #### Art. 24
 
@@ -881,14 +881,18 @@ Es kann Grossimporteuren quartalsweise Anzahlungen in Anrechnung an die allfäll
 
 [^35-1]
 
-<sup>1</sup> Überschreiten die CO<sub>2</sub>-Emissionen eines Fahrzeugs eines Kleinimporteurs die individuelle Zielvorgabe, so verfügt das ASTRA die Sanktion.
+<sup>1</sup> Überschreiten die CO<sub>2</sub>-Emissionen eines Fahrzeugs eines Kleinimporteurs die individuelle Zielvorgabe, so verfügt das BFE die Sanktion.[^35-2]
+
+<sup>1bis</sup> Die Sanktion ist vor dem erstmaligen Inverkehrsetzen des Fahrzeugs zu entrichten. [^35-3]
 
 <sup>2</sup> Artikel 30 Absätze 2 und 3 gilt sinngemäss.
 
-<sup>3</sup> Allfällige Sanktionen für Lieferwagen und leichte Sattelschlepper werden im Jahr 2022 um 5 Prozent vermindert.[^35-2]
+<sup>3</sup> Allfällige Sanktionen für Lieferwagen und leichte Sattelschlepper werden im Jahr 2022 um 5 Prozent vermindert.[^35-4]
 
 [^35-1]: Fassung gemäss Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
-[^35-2]: Eingefügt durch Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Jan. 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^35-2]: Fassung gemäss Ziff. I der V vom 29. Sept. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
+[^35-3]: Eingefügt durch Ziff. I der V vom 29. Sept. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
+[^35-4]: Eingefügt durch Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Jan. 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 ### 6. Abschnitt: Berichterstattung und Information der Öffentlichkeit
 
@@ -1123,7 +1127,10 @@ Reicht der Anteil nach Absatz 2 nicht aus, um die Ansprüche vollständig zu erf
 
 <sup>5</sup> Wird der Betrieb eines Zuteilungselements eingestellt, so werden dem Betreiber ab dem Zeitpunkt der Ausserbetriebnahme für dieses Zuteilungselement keine Emissionsrechte mehr kostenlos zugeteilt.
 
+<sup>6</sup> Das Gesuch nach Absatz 2 und der Nachweis nach Absatz 3 sind gleichzeitig mit dem Monitoringbericht nach Artikel 52 einzureichen.[^46b-2]
+
 [^46b-1]: Eingefügt durch Ziff. I der V vom 8. Okt. 2014 ([AS 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)). Fassung gemäss Ziff. I der V vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
+[^46b-2]: Eingefügt durch Ziff. I der V vom 29. Sept. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
 
 #### Art. 46c
 
@@ -1155,33 +1162,50 @@ Reicht der Anteil nach Absatz 2 nicht aus, um die Ansprüche vollständig zu erf
 
 **Maximal zur Verfügung stehende Menge der Emissionsrechte**[^46e-1]
 
-<sup>1</sup> Das BAFU berechnet die Menge der Emissionsrechte, die jährlich für die Gesamtheit der Luftfahrzeugbetreiber maximal zur Verfügung stehen. Die Berechnung erfolgt nach Anhang 15 Ziffern 1–3.
+<sup>1</sup> Das BAFU berechnet die Menge der Emissionsrechte, die jährlich für die Gesamtheit der Luftfahrzeugbetreiber maximal zur Verfügung stehen. Die Berechnung erfolgt nach Anhang 15 Ziffer 1.[^46e-2]
 
 <sup>2</sup> Ändert sich der räumliche Geltungsbereich des EHS, so kann das BAFU die jährlich maximal zur Verfügung stehende Menge der Emissionsrechte für Luftfahrzeuge und die Menge der Emissionsrechte, die den Luftfahrzeugbetreibern kostenlos zuzuteilen sind, anpassen. Es berücksichtigt dabei die entsprechenden Regelungen in der EU.
 
-<sup>3</sup> Es behält jährlich einen Anteil der nach Absatz 1 berechneten Menge zurück, um ihn neuen oder wachstumsstarken Betreibern von Luftfahrzeugen zugänglich zu machen. Die Höhe des Anteils wird nach Anhang 15 Ziffer 4 berechnet.
+<sup>3</sup> Es behält jährlich einen Anteil der nach Absatz 1 berechneten Menge zurück, um ihn neuen oder wachstumsstarken Betreibern von Luftfahrzeugen zugänglich zu machen. Die Höhe des Anteils wird nach Anhang 15 Ziffer 2 berechnet.[^46e-3]
 
-<sup>4</sup> Die Menge an Emissionsrechten nach Absatz 3 wird der Sonderreserve nach Anhang IB des Abkommens vom 23. November 2017[^46e-2] zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Union zur Verknüpfung ihrer jeweiligen Systeme für den Handel mit Treibhausgasemissionen (EHS-Abkommen) zugewiesen.
+<sup>4</sup> Die Menge an Emissionsrechten nach Absatz 3 wird der Sonderreserve nach Anhang IB des Abkommens vom 23. November 2017[^46e-4] zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Union zur Verknüpfung ihrer jeweiligen Systeme für den Handel mit Treibhausgasemissionen (EHS-Abkommen) zugewiesen.
 
 [^46e-1]: Fassung gemäss Ziff. I der V vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
-[^46e-2]: [SR 0.814.011.268](https://fedlex.data.admin.ch/eli/cc/2018/124)
+[^46e-2]: Fassung gemäss Ziff. I der V vom 29. Sept. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
+[^46e-3]: Fassung gemäss Ziff. I der V vom 29. Sept. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
+[^46e-4]: [SR 0.814.011.268](https://fedlex.data.admin.ch/eli/cc/2018/124)
 
 #### Art. 46f
 
 **Kostenlose Zuteilung von Emissionsrechten**
 
-<sup>1</sup> Das BAFU berechnet die Menge der Emissionsrechte, die einem Luftfahrzeugbetreiber kostenlos zuzuteilen sind, nach Anhang 15 Ziffern 6 und 7. Die Zuteilung erfolgt nur, wenn der Luftfahrzeugbetreiber einen Tonnenkilometer-Monitoringbericht nach der Verordnung vom 2. Juni 2017[^46f-1] über die Erhebung von Tonnenkilometerdaten und die Erstellung von Monitoringplänen bei Flugstrecken eingereicht hat.[^46f-2]
+<sup>1</sup> Das BAFU berechnet die Menge der Emissionsrechte, die einem Luftfahrzeugbetreiber kostenlos zuzuteilen sind, nach Anhang 15 Ziffer 3. Die Zuteilung erfolgt nur, wenn der Luftfahrzeugbetreiber einen Tonnenkilometer-Monitoringbericht nach der Verordnung vom 2. Juni 2017[^46f-1] über die Erhebung von Tonnenkilometerdaten und die Erstellung von Monitoringplänen bei Flugstrecken eingereicht hat.[^46f-2]
 
 <sup>2</sup> …[^46f-3]
 
 <sup>3</sup> Führt ein Luftfahrzeugbetreiber, dem kostenlos Emissionsrechte zugeteilt worden sind, in einem bestimmten Jahr keine Flüge nach Anhang 13 durch, muss er die für dieses Jahr kostenlos zugeteilten Emissionsrechte bis zum 30. November des Folgejahres an das BAFU zurückgeben. Die zurückgegebenen Emissionsrechte werden gelöscht.[^46f-4]
 
-<sup>4</sup> Emissionsrechte, die nicht kostenlos zugeteilt werden können, werden gelöscht.
+<sup>4</sup> …[^46f-5]
 
-[^46f-1]: [[AS 2017 3477](https://fedlex.data.admin.ch/eli/oc/2017/378); [2019 1477](https://fedlex.data.admin.ch/eli/oc/2019/284)]
-[^46f-2]: Fassung gemäss Ziff. I der V vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
+[^46f-1]: [AS 2017 3477](https://fedlex.data.admin.ch/eli/oc/2017/378); [2019 1477](https://fedlex.data.admin.ch/eli/oc/2019/284)
+[^46f-2]: Fassung gemäss Ziff. I der V vom 29. Sept. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
 [^46f-3]: Aufgehoben durch Ziff. I der V vom 25. Nov. 2020, mit Wirkung seit 1. Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
 [^46f-4]: Fassung gemäss Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^46f-5]: Aufgehoben durch Ziff. I der V vom 29. Sept. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
+
+#### Art. 46g
+
+**Zusätzliche kostenlose Zuteilung bei Flügen in die Regionen in äusserster Randlage**[^46g-1]
+
+<sup>1</sup> Für Flüge in Regionen in äusserster Randlage werden Luftfahrzeugbetreibern zusätzlich zu den nach Artikel 46*f* kostenlos zugeteilten Emissionsrechten weitere Emissionsrechte kostenlos zugeteilt. Als Regionen in äusserster Randlage gelten die Regionen nach Anhang 13 Ziffer 1*a*.
+
+<sup>2</sup> Die Zuteilung erfolgt nur, wenn der Luftfahrzeugbetreiber bis zum 31. August 2024 nachweist, dass er im Jahr 2018 Flüge in Regionen in äusserster Randlage durchgeführt hat. Das BAFU berechnet die Menge der zusätzlich kostenlos zuzuteilenden Emissionsrechte nach Anhang 15 Ziffer 4.
+
+<sup>3</sup> Der Nachweis nach Absatz 2 muss Angaben zu den im Jahr 2018 zurückgelegten Flugstrecken und den dabei transportierten Nutzlasten umfassen. Die Angaben müssen von einer Verifizierungsstelle nach Anhang 18 Ziffer 4 verifiziert sein.
+
+<sup>4</sup> Für den Nachweis ist die vom BAFU zur Verfügung gestellte Vorlage zu verwenden.
+
+[^46g-1]: Eingefügt durch Ziff. I der V vom 29. Sept. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
 
 ### 2. Abschnitt: Versteigerung von Emissionsrechten
 
@@ -1199,14 +1223,9 @@ Zur Teilnahme an der Versteigerung von Emissionsrechten berechtigt sind Betreibe
 
 **Durchführung der Versteigerung**
 
-<sup>1</sup>
+<sup>1</sup> Das BAFU versteigert regelmässig die Emissionsrechte für Anlagen und für Luftfahrzeuge des entsprechenden Jahres, die nicht kostenlos zugeteilt werden.[^48-1]
 
-Das BAFU versteigert regelmässig:
-
-- a.[^48-1] die Emissionsrechte für Anlagen des entsprechenden Jahres, die nicht kostenlos zugeteilt werden;
-- b.[^48-2] 15 Prozent der jährlich maximal zur Verfügung stehenden Emissionsrechte für Luftfahrzeuge nach Anhang 15 Ziffer 3.
-
-<sup>1bis</sup> Die Menge der nach Absatz 1 Buchstabe a zu versteigernden Emissionsrechte wird um fünfzig Prozent reduziert, wenn die Differenz zwischen dem Angebot an Emissionsrechten für Anlagen und der Nachfrage nach Emissionsrechten für Anlagen (Umlaufmenge) mehr als fünfzig Prozent der im Vorjahr maximal zur Verfügung stehenden Menge an Emissionsrechten für Anlagen nach Artikel 45 Absatz 1 beträgt. Die Berechnung der Umlaufmenge erfolgt nach den Vorgaben von Anhang 8 Ziffer 2.[^48-3]
+<sup>1bis</sup> Die Menge der zu versteigernden Emissionsrechte für Anlagen wird um fünfzig Prozent reduziert, wenn die Differenz zwischen dem Angebot an Emissionsrechten für Anlagen und der Nachfrage nach Emissionsrechten für Anlagen (Umlaufmenge) mehr als fünfzig Prozent der im Vorjahr maximal zur Verfügung stehenden Menge an Emissionsrechten für Anlagen nach Artikel 45 Absatz 1 beträgt. Die Berechnung der Umlaufmenge erfolgt nach den Vorgaben von Anhang 8 Ziffer 2. [^48-2]
 
 <sup>2</sup>
 
@@ -1224,9 +1243,8 @@ Das BAFU kann die Versteigerung ohne Zuschlagserteilung abbrechen, wenn:
 
 <sup>6</sup> Das BAFU kann private Organisationen mit der Versteigerung beauftragen.
 
-[^48-1]: Fassung gemäss Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
-[^48-2]: Fassung gemäss Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
-[^48-3]: Eingefügt durch Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
+[^48-1]: Fassung gemäss Ziff. I der V vom 29. Sept. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
+[^48-2]: Eingefügt durch Ziff. I der V vom 24. Nov. 2021 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)). Fassung gemäss Ziff. I der V vom 29. Sept. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
 
 #### Art. 49
 
@@ -1391,12 +1409,13 @@ Betreiber von Anlagen, die eine Tätigkeit nach Anhang 6 ausüben und von der Pf
 
 <sup>2bis</sup> Hat ein Luftfahrzeugbetreiber sowohl im EHS der Schweiz als auch im EHS der EU Pflichten zu erfüllen, so rechnet das BAFU bei den Betreibern, die es verwaltet, die abgegebenen Emissionsrechte zuerst an die Erfüllung der Pflicht unter dem EHS der EU an.[^55-4]
 
-<sup>3</sup> EHS-Teilnehmer erfüllen diese Pflicht jeweils bis zum 30. April für die Treibhausgasemissionen des Vorjahres.
+<sup>3</sup> EHS-Teilnehmer erfüllen die Pflicht jeweils bis zum 30. September für die Treibhausgasemissionen des Vorjahres.[^55-5]
 
 [^55-1]: Fassung gemäss Ziff. I der V vom 13. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
 [^55-2]: Fassung gemäss Ziff. I der V vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
 [^55-3]: Fassung gemäss Ziff. I der V vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
 [^55-4]: Eingefügt durch Ziff. I der V vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
+[^55-5]: Fassung gemäss Ziff. I der V vom 29. Sept. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
 
 #### Art. 55a
 
@@ -2822,12 +2841,17 @@ Das BAFU vollzieht:
 
 **Informations- und Dokumentationssysteme**[^130a-1]
 
-- [tab] <sup>1</sup> Die folgenden Verfahren werden elektronisch über die Informations-und Dokumentationssysteme des BAFU durchgeführt:
+<sup>1</sup>
+
+Die folgenden Verfahren werden elektronisch über die Informations-und Dokumentationssysteme des BAFU durchgeführt:
+
 - a. Verfahren über die Ausstellung von Bescheinigungen für Emissionsverminderungen oder die Erhöhung der Senkenleistungen (Art. 5–11);
 - b. Verfahren über die Teilnahme am EHS (Art. 40–46*f* und Art. 50–54);
 - c. Verfahren über die Verminderungsverpflichtung (Art. 66–79).
-- [tab] <sup>2</sup> Wenn die Informations- und Dokumentationssysteme in einzelnen Bereichen noch nicht für die Durchführung von elektronischen Verfahren eingerichtet sind, müssen die Eingaben postalisch erfolgen.
-- [tab] <sup>3</sup> Das BAFU kann in Abweichung von Absatz 1 Verfügungen postalisch erlassen.
+
+<sup>2</sup> Wenn die Informations- und Dokumentationssysteme in einzelnen Bereichen noch nicht für die Durchführung von elektronischen Verfahren eingerichtet sind, müssen die Eingaben postalisch erfolgen.
+
+<sup>3</sup> Das BAFU kann in Abweichung von Absatz 1 Verfügungen postalisch erlassen.
 
 [^130a-1]: Eingefügt durch Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
@@ -2883,7 +2907,7 @@ Den Vollzugsbehörden sind auf Verlangen:
 
 Die im Rahmen des Vollzugs dieser Verordnung erhobenen Daten stehen den betroffenen Vollzugsbehörden zur Verfügung, soweit sie diese für den Vollzug benötigen. Insbesondere übermittelt:
 
-- a.[^134-1] das ASTRA dem BFE die Daten, die für den Vollzug des 3. Kapitels dieser Verordnung erforderlich sind;
+- a.[^134-1] das BAZG dem ASTRA und dem BFE die Importdaten, die für den Vollzug des 3. Kapitels erforderlich sind, und das ASTRA dem BFE die weiteren für den Vollzug des 3. Kapitels erforderlichen Daten;
 - b.[^134-2]
 
   das BAFU dem BFE die Daten, die erforderlich sind für die Prüfung der:
@@ -2913,7 +2937,7 @@ Die im Rahmen des Vollzugs dieser Verordnung erhobenen Daten stehen den betroffe
 
 <sup>3</sup> Das BAFU bietet in Übereinstimmung mit dem Archivierungsgesetz vom 26. Juni 1998[^134-7] die Personendaten, die es nicht mehr ständig benötigt, dem Bundesarchiv zur Aufbewahrung an. Vom Bundesarchiv als nicht archivwürdig beurteilte Daten werden vernichtet.[^134-8]
 
-[^134-1]: Fassung gemäss Ziff. I der V vom 1. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)).
+[^134-1]: Fassung gemäss Ziff. I der V vom 29. Sept. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
 [^134-2]: Fassung gemäss Ziff. I der V vom 8. Okt. 2014, in Kraft seit 1. Dez. 2014 ([AS 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)).
 [^134-3]: Fassung gemäss Ziff. I der V vom 8. Okt. 2014, in Kraft seit 1. Dez. 2014 ([AS 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)).
 [^134-4]: Fassung gemäss Ziff. I der V vom 13. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
@@ -2959,8 +2983,8 @@ Das UVEK passt an:
 [^135-7]: Durchführungsverordnung (EU) 2021/447 der Kommission vom 12. März 2021 zur Festlegung angepasster Benchmarkwerte für die kostenlose Zuteilung von Emissionszertifikaten für den Zeitraum 2021–2025 gemäß Artikel 10a Absatz 2 der Richtlinie 2003/87/EG des Europäischen Parlaments und des Rates, Fassung gemäss ABl. L 87 vom 15.3.2021, S. 29.
 [^135-8]: Eingefügt durch Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
 [^135-9]: Delegierter Beschluss (EU) 2019/708 der Kommission vom 15. Februar 2019 zur Ergänzung der Richtlinie 2003/87/EG des Europäischen Parlaments und des Rates hinsichtlich der Festlegung der Sektoren und Teilsektoren, bei denen davon ausgegangen wird, dass für sie im Zeitraum 2021–2030 ein Risiko der Verlagerung von CO2-Emissionen besteht, Fassung gemäss ABl. L 120 vom 8.5.2019, S. 20.
-[^135-10]: Eingefügt durch Ziff. I der V vom 13. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
-[^135-11]: Verordnung (EG) Nr. 748/2009 der Kommission vom 5. August 2009 über die Liste der Luftfahrzeugbetreiber, die am oder nach dem 1. Januar 2006 einer Luftverkehrstätigkeit im Sinne von Anhang I der Richtlinie 2003/87/EG nachgekommen sind, mit Angabe des für die einzelnen Luftfahrzeugbetreiber zuständigen Verwaltungsmitgliedstaats, ABl. L 219 vom 22.8.2009, S. 1; zuletzt geändert durch Verordnung (EU) 2018/336, ABl. L 70 vom 13.3.2018, S. 1.
+[^135-10]: Eingefügt durch Ziff. I der V vom 13. Nov. 2019 ([AS 2019 335](https://fedlex.data.admin.ch/eli/oc/2019/52)). Fassung gemäss Ziff. I der V vom 29. Sept. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
+[^135-11]: Verordnung (EG) Nr. 748/2009 der Kommission vom 5. August 2009 über die Liste der Luftfahrzeugbetreiber, die am oder nach dem 1. Januar 2006 einer Luftverkehrstätigkeit im Sinne von Anhang I der Richtlinie 2003/87/EG nachgekommen sind, mit Angabe des für die einzelnen Luftfahrzeugbetreiber zuständigen Verwaltungsmitgliedstaats, ABl. L 219 vom 22.8.2009, S. 1; zuletzt geändert durch Verordnung (EU) 2023/838, ABl. L 108 vom 21.4.2023, S. 1.
 
 #### Art. 135a
 
@@ -3370,6 +3394,28 @@ Emissionen, die durch die Stromproduktion infolge eines Reserveabrufs nach der W
 
 [^146w-1]: [SR 734.722](https://fedlex.data.admin.ch/eli/cc/2023/43)
 
+### 2*g**.* Abschnitt: Übergangsbestimmungen zur Änderung vom 29. September 2023
+
+[^chap12-sec2g-1]
+
+[^chap12-sec2g-1]: Eingefügt durch Ziff. I der V vom 29. Sept. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
+
+#### Art. 146x
+
+**Bereits verzollte Fahrzeuge**
+
+Für eingeführte Fahrzeuge, deren Zollanmeldung in der Schweiz vor Inkrafttreten der Änderung vom 29. September 2023 eingereicht wurde, gilt Artikel 17*d* Absatz 3 bis zum 31. Dezember 2024 in der bisherigen Fassung.
+
+#### Art. 146y
+
+**Emissionsrechte für Luftfahrzeugbetreiber**
+
+<sup>1</sup> In Abweichung von Artikel 46*e* Absatz 3 behält das BAFU keinen jährlichen Anteil an Emissionsrechten für neue oder wachstumsstarke Betreiber von Luftfahrzeugen zurück, solange in der Sonderreserve nach Anhang IB des EHS-Abkommens[^146y-1] ausreichend Emissionsrechte vorhanden sind.
+
+<sup>2</sup> Die Emissionsrechte, die für die Jahre 2020–2023 gestützt auf Artikel 46*f* nicht kostenlos zugeteilt wurden, werden gelöscht.
+
+[^146y-1]: [SR 0.814.011.268](https://fedlex.data.admin.ch/eli/cc/2018/124)
+
 ### 3. Abschnitt: Inkrafttreten
 
 #### Art. 147
@@ -3382,44 +3428,56 @@ Anhang 1[^t-1]
 
 ## Erwärmende Wirkung der Treibhausgase auf das Klima in CO<sub>2</sub>eq
 
-[^t-1]: Berichtigung vom 10. Nov. 2023 ([AS 2023 640](https://fedlex.data.admin.ch/eli/oc/2023/640)).
+[^t-1]: Fassung gemäss Ziff. II Abs. 2 der V vom 29. Sept. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)). Berichtigung vom 10. Nov. 2023 ([AS 2023 640](https://fedlex.data.admin.ch/eli/oc/2023/640)).
 
 <table>
-<tr><td>Treibhausgas</td><td>Chemische Formel</td><td>Wirkung in CO<sub>2</sub>eq</td></tr>
+<tr><th>Treibhausgas</th><th>Chemische Formel</th><th>Wirkung in CO<sub>2</sub>eq</th></tr>
 <tr><td>Kohlendioxid</td><td>CO<sub>2</sub></td><td>1</td></tr>
-<tr><td>Methan</td><td>CH<sub>4</sub></td><td>25</td></tr>
-<tr><td>Distickstoffmonoxid, Lachgas</td><td>N<sub>2</sub>O</td><td>298</td></tr>
+<tr><td>Methan</td><td>CH<sub>4</sub></td><td>28</td></tr>
+<tr><td>Distickstoffmonoxid, Lachgas</td><td>N<sub>2</sub>O</td><td>265</td></tr>
 <tr><td>Teilhalogenierte Fluorkohlenwasserstoffe (HFCs)</td><td></td><td></td></tr>
-<tr><td>– HFC-23</td><td>CHF<sub>3</sub></td><td>14 800</td></tr>
-<tr><td>– HFC-32</td><td>CH<sub>2</sub>F<sub>2</sub></td><td>675</td></tr>
-<tr><td>– HFC-41</td><td>CH<sub>3</sub>F</td><td>92</td></tr>
-<tr><td>– HFC-43-10mee</td><td>CF<sub>3</sub>CHFCHFCF<sub>2</sub>CF<sub>3</sub></td><td>1 640</td></tr>
-<tr><td>– HFC-125</td><td>C<sub>2</sub>HF<sub>5</sub></td><td>3 500</td></tr>
-<tr><td>– HFC-134</td><td>C<sub>2</sub>H<sub>2</sub>F<sub>4</sub> (CHF<sub>2</sub>CHF<sub>2</sub>)</td><td>1 100</td></tr>
-<tr><td>– HFC-134a</td><td>C<sub>2</sub>H<sub>2</sub>F<sub>4</sub> (CH<sub>2</sub>FCF<sub>3</sub>)</td><td>1 430</td></tr>
-<tr><td>– HFC-143</td><td>C<sub>2</sub>H<sub>3</sub>F<sub>3</sub> (CHF<sub>2</sub>CH<sub>2</sub>F)</td><td>353</td></tr>
-<tr><td>– HFC-143a</td><td>C<sub>2</sub>H<sub>3</sub>F<sub>3</sub> (CF<sub>3</sub>CH<sub>3</sub>)</td><td>4 470</td></tr>
-<tr><td>– HFC-152</td><td>CH<sub>2</sub>FCH<sub>2</sub>F</td><td>53</td></tr>
-<tr><td>– HFC-152a</td><td>C<sub>2</sub>H<sub>4</sub>F<sub>2</sub> (CH<sub>3</sub>CHF<sub>2</sub>)</td><td>38</td></tr>
-<tr><td>– HFC-161</td><td>CH<sub>3</sub>CH<sub>2</sub>F</td><td>12</td></tr>
-<tr><td>– HFC-227ea</td><td>C<sub>3</sub>HF<sub>7</sub></td><td>3 220</td></tr>
-<tr><td>– HFC-236cb</td><td>CH<sub>2</sub>FCF<sub>2</sub>CF<sub>3</sub></td><td>1 340</td></tr>
-<tr><td>– HFC-236ea</td><td>CHF<sub>2</sub>CHFCF<sub>3</sub></td><td>1 370</td></tr>
-<tr><td>– HFC-236fa</td><td>C<sub>3</sub>H<sub>2</sub>F<sub>6</sub></td><td>9 810</td></tr>
-<tr><td>– HFC-245ca</td><td>C<sub>3</sub>H<sub>3</sub>F<sub>5</sub></td><td>693</td></tr>
-<tr><td>– HFC-245fa</td><td>CHF<sub>2</sub>CH<sub>2</sub>CF<sub>3</sub></td><td>1 030</td></tr>
-<tr><td>– HFC-365mfc</td><td>CH<sub>3</sub>CF<sub>2</sub>CH<sub>2</sub>CF<sub>3</sub></td><td>794</td></tr>
+<tr><td>– HFC-23</td><td>CHF<sub>3</sub></td><td>12 400</td></tr>
+<tr><td>– HFC-32</td><td>CH<sub>2</sub>F<sub>2</sub></td><td>677</td></tr>
+<tr><td>– HFC-41</td><td>CH<sub>3</sub>F</td><td>116</td></tr>
+<tr><td>– HFC-43-10mee</td><td>CF<sub>3</sub>CHFCHFCF<sub>2</sub>CF<sub>3</sub></td><td>1 650</td></tr>
+<tr><td>– HFC-125</td><td>CHF<sub>2</sub>CF<sub>3</sub></td><td>3 170</td></tr>
+<tr><td>– HFC-134</td><td>CHF<sub>2</sub>CHF<sub>2</sub></td><td>1 120</td></tr>
+<tr><td>– HFC-134a</td><td>CH<sub>2</sub>FCF<sub>3</sub></td><td>1 300</td></tr>
+<tr><td>– HFC-143</td><td>CH<sub>2</sub>FCHF<sub>2</sub></td><td>328</td></tr>
+<tr><td>– HFC-143a</td><td>CH<sub>3</sub>CF<sub>3</sub></td><td>4 800</td></tr>
+<tr><td>– HFC-152</td><td>CH<sub>2</sub>FCH<sub>2</sub>F</td><td>16</td></tr>
+<tr><td>– HFC-152a</td><td>CH<sub>3</sub>CHF<sub>2</sub></td><td>138</td></tr>
+<tr><td>– HFC-161</td><td>CH<sub>3</sub>CH<sub>2</sub>F</td><td>4</td></tr>
+<tr><td>– HFC-227ca</td><td>CF<sub>3</sub>CF<sub>2</sub>CHF<sub>2</sub></td><td>2 640</td></tr>
+<tr><td>– HFC-227ea</td><td>CF<sub>3</sub>CHFCF<sub>3</sub></td><td>3 350</td></tr>
+<tr><td>– HFC-236cb</td><td>CH<sub>2</sub>FCF<sub>2</sub>CF<sub>3</sub></td><td>1 210</td></tr>
+<tr><td>– HFC-236ea</td><td>CHF<sub>2</sub>CHFCF<sub>3</sub></td><td>1 330</td></tr>
+<tr><td>– HFC-236fa</td><td>CF<sub>3</sub>CH<sub>2</sub>CF<sub>3</sub></td><td>8 060</td></tr>
+<tr><td>– HFC-245ca</td><td>CH<sub>2</sub>FCF<sub>2</sub>CHF<sub>2</sub></td><td>716</td></tr>
+<tr><td>– HFC-245cb</td><td>CF<sub>3</sub>CF<sub>2</sub>CH<sub>3</sub></td><td>4 620</td></tr>
+<tr><td>– HFC-245ea</td><td>CHF<sub>2</sub>CHFCHF<sub>2</sub></td><td>235</td></tr>
+<tr><td>– HFC-245eb</td><td>CH<sub>2</sub>FCHFCF<sub>3</sub></td><td>290</td></tr>
+<tr><td>– HFC-245fa</td><td>CHF<sub>2</sub>CH<sub>2</sub>CF<sub>3</sub></td><td>858</td></tr>
+<tr><td>– HFC-263fb</td><td>CH<sub>3</sub>CH<sub>2</sub>CF<sub>3</sub></td><td>76</td></tr>
+<tr><td>– HFC-272ca</td><td>CH<sub>3</sub>CF<sub>2</sub>CH<sub>3</sub></td><td>144</td></tr>
+<tr><td>– HFC-329p</td><td>CHF<sub>2</sub>CF<sub>2</sub>CF<sub>2</sub>CF<sub>3</sub></td><td>2 360</td></tr>
+<tr><td>– HFC-365mfc</td><td>CH<sub>3</sub>CF<sub>2</sub>CH<sub>2</sub>CF<sub>3</sub></td><td>804</td></tr>
 <tr><td>Perfluorierte Kohlenwasserstoffe</td><td></td><td></td></tr>
-<tr><td>– Perfluoromethan – PFC-14</td><td>CF<sub>4</sub></td><td>7 390</td></tr>
-<tr><td>– Perfluoroethan – PFC-116</td><td>C<sub>2</sub>F<sub>6</sub></td><td>12 200</td></tr>
-<tr><td>– Perfluoropropan – PFC-218</td><td>C<sub>3</sub>F<sub>8</sub></td><td>8 830</td></tr>
-<tr><td>– Perfluorobutan – PFC-3-1-10</td><td>C<sub>4</sub>F<sub>10</sub></td><td>8 860</td></tr>
-<tr><td>– Perfluorocyclobutan – PFC-318</td><td>c-C<sub>4</sub>F<sub>8</sub></td><td>10 300</td></tr>
-<tr><td>– Perfluourpentan – PFC-4-1-12</td><td>C<sub>5</sub>F<sub>12</sub></td><td>9 160</td></tr>
-<tr><td>– Perfluorohexan – PFC-5-1-14</td><td>C<sub>6</sub>F<sub>14</sub></td><td>9 300</td></tr>
-<tr><td>– Perfluorodecalin – PFC-9-1-18</td><td>C<sub>10</sub>F<sub>18</sub></td><td>&gt;7 500</td></tr>
-<tr><td>Schwefelhexafluorid</td><td>SF<sub>6</sub></td><td>22 800</td></tr>
-<tr><td>Stickstofftrifluorid</td><td>NF<sub>3</sub></td><td>17 200</td></tr>
+<tr><td>– Perfluormethan – PFC-14</td><td>CF<sub>4</sub></td><td>6 630</td></tr>
+<tr><td>– Perfluorethan – PFC-116</td><td>C<sub>2</sub>F<sub>6</sub></td><td>11 100</td></tr>
+<tr><td>– Perfluorcyclopropan – PFC c216</td><td>c-C<sub>3</sub>F<sub>6</sub></td><td>9 200</td></tr>
+<tr><td>– Perfluorpropan – PFC-218</td><td>C<sub>3</sub>F<sub>8</sub></td><td>8 900</td></tr>
+<tr><td>– Perfluorbutan – PFC-31-10</td><td>C<sub>4</sub>F<sub>10</sub></td><td>9 200</td></tr>
+<tr><td>– Perfluorcyclobutan – PFC-318</td><td>c-C<sub>4</sub>F<sub>8</sub></td><td>9 540</td></tr>
+<tr><td>– Perfluorpentan – PFC-41-12</td><td>n-C<sub>5</sub>F<sub>12</sub></td><td>8 550</td></tr>
+<tr><td>– Perfluorhexan – PFC-51-14</td><td>n-C<sub>6</sub>F<sub>14</sub></td><td>7 910</td></tr>
+<tr><td>– Perfluorheptan – PFC-61-16</td><td>n-C<sub>7</sub>F<sub>16</sub></td><td>7 820</td></tr>
+<tr><td>– Perfluoroctan – PFC-71-18</td><td>C<sub>8</sub>F<sub>18</sub></td><td>7 620</td></tr>
+<tr><td>– Perfluorodecalin – PFC-91-18</td><td>C<sub>10</sub>F<sub>18</sub></td><td>7 190</td></tr>
+<tr><td>– Perfluorodecalin (cis)</td><td>Z-C<sub>10</sub>F<sub>18</sub></td><td>7 240</td></tr>
+<tr><td>– Perfluorodecalin (trans)</td><td>E-C<sub>10</sub>F<sub>18</sub></td><td>6 290</td></tr>
+<tr><td>Schwefelhexafluorid</td><td>SF<sub>6</sub></td><td>23 500</td></tr>
+<tr><td>Stickstofftrifluorid</td><td>NF<sub>3</sub></td><td>16 100</td></tr>
 </table>
 
 Anhang 2[^t-2]
@@ -3460,7 +3518,11 @@ Anhang 2a[^t-3]
 
 [^t-3]: Eingefügt durch Ziff. II Abs. 1 der V vom 4. Mai 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)). Bereinigt gemäss Ziff. II Abs. 1 der V vom 29. Sept. 2023, in Kraft seit 1. Nov. 2023 ([AS 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
 
-\1. Für ein Projekt oder Programm im Ausland werden keine internationalen Bescheinigungen ausgestellt, wenn die Emissionsverminderungen oder die Erhöhungen der Senkenleistungen erzielt werden durch:
+**Einleitungssatz und Bst. a**
+
+<sup>1.</sup>
+
+Für ein Projekt oder Programm im Ausland werden keine internationalen Bescheinigungen ausgestellt, wenn die Emissionsverminderungen oder die Erhöhungen der Senkenleistungen erzielt werden durch:
 
 - a. Investitionen in die Nutzung fossiler Brenn- oder Treibstoffe zur Energiegewinnung oder in die Extraktion fossiler Energieträger; ausgenommen sind Investitionen, die zu einer Verbesserung der Energieeffizienz beitragen, ohne dass an der Anlage zur Nutzung fossiler Brennstoffe zur Energiegewinnung etwas geändert wird;
 - b. den Einsatz von Kernenergie;
@@ -3475,7 +3537,7 @@ Anhang 2a[^t-3]
 - k. Aktivitäten, die erhebliche negative soziale oder ökologische Auswirkungen haben;
 - l. Aktivitäten, die Anliegen der Aussen- oder Entwicklungspolitik der Schweiz widersprechen.
 
-\2. Bei Aktivitäten im Abfallsektor mit einer verzögerten energetischen Nutzung des Abfalls werden 55 Prozent der Emissionsverminderungen erst bescheinigt, wenn die energetische Nutzung tatsächlich stattfindet.
+<sup>2.</sup> Bei Aktivitäten im Abfallsektor mit einer verzögerten energetischen Nutzung des Abfalls werden 55 Prozent der Emissionsverminderungen erst bescheinigt, wenn die energetische Nutzung tatsächlich stattfindet.
 
 - [tab]
 
@@ -3597,10 +3659,14 @@ Die Terme sind wie folgt zu berechnen:
 dabei bedeuten:
 
 - W<sub>neu,i,y</sub> Erwartete Wärmelieferung an neue Bezüger im Jahr y [MWh]; dieser Parameter wird im Monitoring durch den gemessenen Wert nach Ziffer 4.2 ersetzt.
-- i Alle neuen Bezüger ohne:
-- – Neubauten,
-- – Gebäude, die vor Anschluss an den Wärmeverbund bereits CO<sub>2</sub>-neutral beheizt wurden, und
-- – Anlagen, deren Betreiber nach Artikel 96 Absatz 2 von der CO<sub>2</sub>-Abgabe befreit sind.
+- i
+
+  Alle neuen Bezüger ohne:
+
+  - – Neubauten,
+  - – Gebäude, die vor Anschluss an den Wärmeverbund bereits CO<sub>2</sub>-neutral beheizt wurden, und
+  - – Anlagen, deren Betreiber nach Artikel 96 Absatz 2 von der CO<sub>2</sub>-Abgabe befreit sind.
+
 - EF<sub>WV</sub> Pauschaler Emissionsfaktor des Wärmeverbundes = 0,211 tCO<sub>2</sub>eq/MWh.
 
 *RE**<sub>bestehend,y</sub>* *= ∑**<sub>k</sub>* *W**<sub>bestehend,k,y</sub>**\* EF**<sub>bestehend</sub>* *\* RF**<sub>y</sub>**\*1/(1–WVN))* (3)
@@ -3611,11 +3677,14 @@ dabei bedeuten:
 - <sub>k</sub> Alle bestehenden Bezüger, ohne Anlagen, deren Betreiber nach Artikel 96 Absatz 2 von der CO<sub>2</sub>-Abgabe befreit sind.
 - RF<sub>y</sub> Referenzfaktor des Jahres y; dieser beträgt 100 %, wenn das Jahr y innerhalb der ersten 20 Jahre seit der Installation der ältesten zentralen fossilen Wärmequelle liegt; in allen anderen Fällen beträgt er 70 %.
 - WVN Pauschaler Abzug für Wärmeverluste des Netzes zur Verteilung der Wärme; dieser beträgt 10 %.
-- EF<sub>bestehend</sub> Emissionsfaktor des bestehenden Wärmeverbundes inklusive Wirkungsgrad, abhängig von der Art der zu ersetzenden zentralen Wärmequelle oder den zu ersetzenden zentralen Wärmequellen; er wird wie folgt berechnet:
-- – für Projekte, die nur erdgasbetriebene Wärmequellen ersetzen: EF<sub>bestehend</sub> = 0,226 tCO<sub>2</sub>/MWh
-- <sub>–</sub> für Projekte, die nur heizölbetriebene Wärmequellen ersetzen: EF<sub>bestehend</sub> = 0,312 tCO<sub>2</sub>/MWh
-- <sub>–</sub> für Projekte, die nur erdgas- und heizölbetriebene Wärmequellen ersetzen: EF<sub>bestehend</sub> = 0,269 tCO<sub>2</sub>/MWh
-- – für Projekte, die fossile und erneuerbare Wärmequellen ersetzen: EF<sub>bestehend</sub> = 0,113 tCO<sub>2</sub>/MWh
+- EF<sub>bestehend</sub>
+
+  Emissionsfaktor des bestehenden Wärmeverbundes inklusive Wirkungsgrad, abhängig von der Art der zu ersetzenden zentralen Wärmequelle oder den zu ersetzenden zentralen Wärmequellen; er wird wie folgt berechnet:
+
+  - – für Projekte, die nur erdgasbetriebene Wärmequellen ersetzen: EF<sub>bestehend</sub> = 0,226 tCO<sub>2</sub>/MWh
+  - <sub>–</sub> für Projekte, die nur heizölbetriebene Wärmequellen ersetzen: EF<sub>bestehend</sub> = 0,312 tCO<sub>2</sub>/MWh
+  - <sub>–</sub> für Projekte, die nur erdgas- und heizölbetriebene Wärmequellen ersetzen: EF<sub>bestehend</sub> = 0,269 tCO<sub>2</sub>/MWh
+  - – für Projekte, die fossile und erneuerbare Wärmequellen ersetzen: EF<sub>bestehend</sub> = 0,113 tCO<sub>2</sub>/MWh
 
 ### 3.5 Berechnung der Projekt- oder Programmemissionen
 
@@ -3712,8 +3781,6 @@ Bei der Messung der Menge an elektrischer Energie (M<sub>Strom,y</sub>) sind die
 
 \2. Dieser Wert wird jährlich im Monitoringbericht als die dem Betreiber der Anlagen im Emissionshandelssystem ausgestellten Emissionsrechte festgelegt.
 
-- [tab]
-
 Anhang 3b[^t-6]
 
 (Art. 6 Abs. 3[^t-7])
@@ -3759,7 +3826,7 @@ Im Sinne dieses Anhangs bedeuten:
 
 Für die Festlegung des Werts für den in den Berechnungen der Emissionsverminderungen notwendige Paramater Oxidationsfaktor (OX) ist der folgende Entscheidungsbaum zu verwenden:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20231110/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20240101/de/xml/image/image1.png)
 
 ### 3.3 Ex-ante-Berechnung der Methanreduktion
 
@@ -3975,7 +4042,7 @@ Anhang 4a[^t-9]
 
 ## Berechnung der individuellen Zielvorgabe
 
-[^t-9]: Eingefügt durch Ziff. II Abs. 3 der V vom 1. Nov. 2017 ([AS 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)). Bereinigt gemäss Ziff. I der V des UVEK vom 16. Sept. 2019 ([AS 2019 2959](https://fedlex.data.admin.ch/eli/oc/2019/541)), vom 18. Sept. 2020 ([AS 2020 3911](https://fedlex.data.admin.ch/eli/oc/2020/727)), Ziff. II Abs. 1 der V vom 25. Nov. 2020 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)), vom 24. Nov. 2021 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)) und Ziff. I der V des UVEK vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 798](https://fedlex.data.admin.ch/eli/oc/2022/798)).
+[^t-9]: Eingefügt durch Ziff. II Abs. 3 der V vom 1. Nov. 2017 ([AS 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)). Bereinigt gemäss Ziff. I der V des UVEK vom 16. Sept. 2019 ([AS 2019 2959](https://fedlex.data.admin.ch/eli/oc/2019/541)), vom 18. Sept. 2020 ([AS 2020 3911](https://fedlex.data.admin.ch/eli/oc/2020/727)), Ziff. II Abs. 1 der V vom 25. Nov. 2020 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)), vom 24. Nov. 2021 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)) und Ziff. I der V des UVEK vom 23. Nov. 2022 ([AS 2022 798](https://fedlex.data.admin.ch/eli/oc/2022/798)) und Ziff. II Abs. 1 der V vom 29. Sept. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
 
 ### 1 Berechnung der individuellen Zielvorgabe
 
@@ -4007,7 +4074,8 @@ Anhang 4a[^t-9]
   - d. 2018: 1601 kg;
   - e. 2019: 1636 kg;
   - f. 2020: 1674 kg;
-  - g. 2021: 1693 kg.
+  - g. 2021: 1693 kg;
+  - h. 2022: 1727 kg.
 
 ### 2.2 Lieferwagen und leichte Sattelschlepper
 
@@ -4018,8 +4086,8 @@ Anhang 4a[^t-9]
   - a. 2018: 2056 kg;
   - b. 2019: 2067 kg;
   - c. 2020: 2089 kg;
-  - d. 2021: 2094 kg.
-  - [tab]
+  - d. 2021: 2094 kg;
+  - e. 2022: 2117 kg.
 
 Anhang 5[^t-10]
 
@@ -4027,7 +4095,7 @@ Anhang 5[^t-10]
 
 ## Sanktionsbeträge bei Überschreiten der individuellen Zielvorgabe (Art. 13 Abs. 1 des CO<sub>2</sub>-Gesetzes)
 
-[^t-10]: Fassung gemäss Ziff. I Abs. 2 der V des UVEK vom 21. Sept. 2018 ([AS 2018 3497](https://fedlex.data.admin.ch/eli/oc/2018/567)). Bereinigt gemäss Ziff. I der V des UVEK vom 16. Sept. 2019 ([AS 2019 2959](https://fedlex.data.admin.ch/eli/oc/2019/541)), vom 18. Sept. 2020 ([AS 2020 3911](https://fedlex.data.admin.ch/eli/oc/2020/727)), Ziff. II Abs. 1 der V vom 24. Nov. 2021 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)) und Ziff. I der V des UVEK vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 798](https://fedlex.data.admin.ch/eli/oc/2022/798)).
+[^t-10]: Fassung gemäss Ziff. I Abs. 2 der V des UVEK vom 21. Sept. 2018 ([AS 2018 3497](https://fedlex.data.admin.ch/eli/oc/2018/567)). Bereinigt gemäss Ziff. I der V des UVEK vom 16. Sept. 2019 ([AS 2019 2959](https://fedlex.data.admin.ch/eli/oc/2019/541)), vom 18. Sept. 2020 ([AS 2020 3911](https://fedlex.data.admin.ch/eli/oc/2020/727)), Ziff. II Abs. 1 der V vom 24. Nov. 2021 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)) und Ziff. I der V des UVEK vom 23. Nov. 2022 ([AS 2022 798](https://fedlex.data.admin.ch/eli/oc/2022/798)) und Ziff. II Abs. 1 der V vom 29. Sept. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
 
 ### 1 Sanktionsbeträge für das Referenzjahr 2017
 
@@ -4056,6 +4124,7 @@ Die zu entrichtenden Sanktionsbeträge bei Überschreiten der individuellen Ziel
 - c. für das Referenzjahr 2021: 103.50 Franken;
 - d. für das Referenzjahr 2022: 104 Franken;
 - e. für das Referenzjahr 2023: 101 Franken.
+- f. für das Referenzjahr 2024: 95 Franken.
 
 Anhang 6[^t-11]
 
@@ -4164,7 +4233,7 @@ Anhang 9[^t-14]
 
 ## Berechnung der kostenlos zugeteilten Emissionsrechte für Betreiber von Anlagen im EHS
 
-[^t-14]: Bereinigt gemäss Ziff. II der V vom 8. Okt. 2014 ([AS 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)), vom 22. Juni 2016 ([AS 2016 2473](https://fedlex.data.admin.ch/eli/oc/2016/394)), Ziff. II Abs. 1 der V vom 13. Nov. 2019 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)), vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)), der Berichtigung vom 10. Febr. 2021 ([AS 2021 80](https://fedlex.data.admin.ch/eli/oc/2021/80)), Ziff. II Abs. 1 der V vom 24. Nov. 2021 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)) und Ziff. II Abs. 3 der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^t-14]: Bereinigt gemäss Ziff. II der V vom 8. Okt. 2014 ([AS 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)), vom 22. Juni 2016 ([AS 2016 2473](https://fedlex.data.admin.ch/eli/oc/2016/394)), Ziff. II Abs. 1 der V vom 13. Nov. 2019 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)), vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)), der Berichtigung vom 10. Febr. 2021 ([AS 2021 80](https://fedlex.data.admin.ch/eli/oc/2021/80)), Ziff. II Abs. 1 der V vom 24. Nov. 2021 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)) und Ziff. II Abs. 3 der V vom 4. Mai 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)) und Ziff. II Abs. 2 der V vom 29. Sept. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
 
 ### 1 Benchmarks
 
@@ -4234,14 +4303,23 @@ Anhang 9[^t-14]
   - a. innerhalb der Systemgrenzen des Betreibers von Anlagen, der am EHS teilnimmt, genutzt wird zur Herstellung von Produkten, zur Erzeugung anderer als zur Stromerzeugung verwendeter mechanischer Energie, zur Heizung oder zur Kühlung, jedoch nicht zur Stromerzeugung; oder
   - b. an Dritte ausserhalb des EHS exportiert wird, mit Ausnahme von Exporten für die Stromerzeugung und der Weiterleitung importierter Wärme.
 
-- 1\.3 Ist weder eine Produktbenchmark noch der Wärmebenchmark anwendbar, so wird die Menge der jährlich kostenlos zuzuteilenden Emissionsrechte nach dem Brennstoffbenchmark wie folgt berechnet:
-- 42,6 Emissionsrechte pro TJ Energieeinsatz an Brennstoffen
-- 1\.4 Ist keiner der Benchmarks nach den Ziffern 1.1–1.3 anwendbar, so wird die Menge der jährlich kostenlos zuzuteilenden Emissionsrechte basierend auf dem 0,97–Fachen der Prozessemissionen berechnet.
+- 1\.3 Ist weder ein Produktbenchmark noch der Wärmebenchmark anwendbar, so wird die Menge der jährlich kostenlos zuzuteilenden Emissionsrechte nach dem Brennstoffbenchmark wie folgt berechnet:
+-
+
+  42,6 Emissionsrechte pro TJ Energieeinsatz, wenn innerhalb der Systemgrenzen des Betreibers von Anlagen, der am EHS teilnimmt:
+
+  - a. mit der Verbrennung von Energieträgern nicht messbare Wärme erzeugt und zur Herstellung von Produkten, zur Erzeugung anderer als zur Stromerzeugung verwendeter mechanischer Energie, zur Heizung oder zur Kühlung, jedoch nicht zur Stromerzeugung genutzt wird; oder
+  - b. durch Sicherheitsabfackelung nicht messbare Wärme erzeugt wird.
+
+- 1\.4 Ist keiner der Benchmarks nach den Ziffern 1.1–1.3 anwendbar, so wird die Menge der jährlich kostenlos zuzuteilenden Emissionsrechte für Emissionen, die direkt und unmittelbar aus einem Produktionsprozess resultieren, basierend auf dem 0,97‑Fachen dieser Prozessemissionen berechnet.
 - 1\.5 Beim Einsatz von Gasen, die aus Prozessen herrühren und einen wesentlichen Anteil an unvollständig oxidiertem Kohlenstoff aufweisen (Restgase), erfolgt eine zusätzliche kostenlose Zuteilung zum Ausgleich für höhere CO<sub>2</sub>-Emissionen und niedrigere Effizienz der Nutzung von Restgasen im Vergleich zu Erdgas. Diese Zuteilung erfolgt nur, wenn das Restgas ausserhalb eines Zuteilungselements mit Produktbenchmark anfällt und innerhalb der Anlage im EHS zur Erzeugung von messbarer oder nicht messbarer Wärme oder für die Produktion von Strom verwendet wird.
 - 1\.6 Für die bei der Herstellung von Salpetersäure angefallene Wärme werden keine Emissionsrechte kostenlos zugeteilt.
 - 1\.7 Wird innerhalb eines Zuteilungselements mit Produktbenchmark genutzte Wärme von Dritten ausserhalb des EHS importiert, stammt sie aus der Herstellung von Salpetersäure oder wird sie mit Strom oder durch den Einsatz von Kernenergie erzeugt, so wird die nach dem Produktbenchmark berechnete Menge der kostenlos zuzuteilenden Emissionsrechte um diese Wärmemenge, multipliziert mit dem Wärmebenchmark von 47,3 Emissionsrechten pro TJ, reduziert.
+- 1\.8 Die Menge der jährlich kostenlos zuzuteilenden Emissionsrechte wird für Anlagen, deren Hauptzweck die Entsorgung von Sonderabfällen nach Artikel 3 Buchstabe c VVEA[^annex9-lvlu1-lvl1-1] ist, nach Ziffer 1.3 für eingesetzte Stützbrennstoffe und nach Ziffer 1.4 für die Emissionen aus der Verbrennung der Sonderabfälle berechnet.
 
 ### 2 Allgemeine Berechnung der Menge der kostenlos zuzuteilenden Emissionsrechte
+
+[^annex9-lvlu1-lvl1-1]: [SR 814.600](https://fedlex.data.admin.ch/eli/cc/2015/891)
 
 - 2\.1 Die Menge der kostenlos zuzuteilenden Emissionsrechte wird pro Zuteilungselement für jedes Jahr der Teilnahme am EHS unter Vorbehalt der Ziffern 4 und 5 gemäss folgender Formel berechnet:
 - *Zuteilung**<sub>i</sub>* *= BM \* AR \* AF**<sub>i</sub>* *\* SKF**<sub>i</sub>*
@@ -4281,7 +4359,7 @@ Anhang 9[^t-14]
 ### 4 Besondere Anpassungsfaktoren bei mit Brennstoffen undStrom betriebenen Produktionsprozessen
 
 - 4\.1 Für indirekte Emissionen aus verwendetem Strom werden keine Emissionsrechte kostenlos zugeteilt. Bei Benchmarks von Produktionsprozessen, die sowohl mit Brennstoffen als auch mit Strom betrieben werden können, werden die indirekten Emissionen aus dem verwendeten Strom mit 0,376 t CO<sub>2</sub> pro MWh bestimmt.
-- [tab] Die Menge der jährlich kostenlos zuzuteilenden Emissionsrechte wird in diesen Fällen wie folgt berechnet:
+- Die Menge der jährlich kostenlos zuzuteilenden Emissionsrechte wird in diesen Fällen wie folgt berechnet:
 - *Zuteilung*<sub>i</sub> *= (**E**<sub>direkt</sub>* */ (E**<sub>direkt</sub>* *+ E**<sub>indirekt</sub>**)**) \* BM \* AR \* AF**<sub>i</sub>* *\* SKF**<sub>i</sub>*
 - Zuteilung<sub>i</sub> Zuteilung im Jahr i
 - E<sub>direkt</sub> Direkte Emissionen innerhalb des entsprechenden Zuteilungselements mit Produktbenchmark in der Bezugsperiode nach Ziffer 2. Berücksichtigt werden zusätzlich auch die Emissionen aus der innerhalb des Zuteilungselements genutzten Wärme, die direkt von anderen Anlagen im oder ausserhalb des EHS bezogen wurde; diese Emissionen werden mit 47,3 t CO<sub>2</sub> pro TJ bestimmt.
@@ -4349,7 +4427,7 @@ Anhang 10[^t-15]
 [^t-15]: Eingefügt durch Anhang 2 Ziff. 3 der V vom 29. März 2017 über das Bundesinventar der Landschaften und Naturdenkmäler, in Kraft seit 1. Juni 2017 ([AS 2017 2815](https://fedlex.data.admin.ch/eli/oc/2017/290)).
 
 <table>
-<tr><td>Zolltarifnummer[^annex10-lvlu1-1]</td><td>Warenbezeichnung</td><td>Emissionsfaktor t CO<sub>2</sub> je 1000 kg</td><td>Emissionsfaktor t CO<sub>2</sub> je TJ</td><td>Emissionsfaktor t CO<sub>2</sub> je m<sup>3</sup></td></tr>
+<tr><th>Zolltarifnummer[^annex10-lvlu1-1]</th><th>Warenbezeichnung</th><th>Emissionsfaktor t CO<sub>2</sub> je 1000 kg</th><th>Emissionsfaktor t CO<sub>2</sub> je TJ</th><th>Emissionsfaktor t CO<sub>2</sub> je m<sup>3</sup></th></tr>
 <tr><td>2710.1211</td><td>Benzin und seine Fraktionen, sowie Mineralölanteil in Mischungen dieser Nummer, ohne Flugbenzin</td><td>3,15</td><td>73,80 bei einem Heizwert (Hu) von 42,6 MJ/kg</td><td>2,32 bei einer Dichte\* von 737 kg/m<sup>3</sup></td></tr>
 <tr><td>ex 2710.1211</td><td>Flugbenzin</td><td>3,17</td><td>72,50 bei einem Heizwert (Hu) von 43,7 MJ/kg</td><td>2,27 bei einer Dichte\* von 715 kg/m<sup>3</sup></td></tr>
 <tr><td>2710.1911</td><td>Petroleum, inkl. Flugpetrol</td><td>3,14</td><td>72,80 bei einem Heizwert (Hu) von 43,2 MJ/kg</td><td>2,51 bei einer Dichte\* von 799 kg/m<sup>3</sup></td></tr>
@@ -4380,7 +4458,7 @@ Anhang 11[^t-16]
 Für die folgenden Brennstoffe gelten die folgenden Abgabesätze:
 
 <table>
-<tr><td>Zolltarifnummer[^annex11-lvlu1-lvl2-1]</td><td>Warenbezeichnung</td><td>Abgabesatz Fr.</td></tr>
+<tr><th>Zolltarifnummer[^annex11-lvlu1-lvl2-1]</th><th>Warenbezeichnung</th><th>Abgabesatz Fr.</th></tr>
 <tr><td></td><td></td><td>je 1 000 kg</td></tr>
 <tr><td>2701.</td><td>Steinkohle; Briketts und ähnliche feste Brennstoffe aus Steinkohle:</td><td></td></tr>
 <tr><td></td><td>– Steinkohle, auch in Pulverform, aber nicht agglomeriert:</td><td></td></tr>
@@ -4632,19 +4710,33 @@ Anhang 12[^t-17]
 
 Anhang 13[^t-18]
 
-(Art. 46*d*)
+(Art. 46*d,* 49*g*, 53)
 
 ## Zur Teilnahme am EHS verpflichtete Betreiber von Luftfahrzeugen
 
-[^t-18]: Eingefügt durch Ziff. II Abs. 3 der V vom 13. Nov. 2019 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)). Bereinigt gemäss Ziff. II Abs. 3 der V vom 4. Mai 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^t-18]: Eingefügt durch Ziff. II Abs. 3 der V vom 13. Nov. 2019 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)). Bereinigt gemäss Ziff. II Abs. 3 der V vom 4. Mai 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)) und Ziff. II Abs. 1 der V vom 29. Sept. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
 
 - 1\.
 
   Betreiber von Luftfahrzeugen sind zur Teilnahme am EHS verpflichtet, wenn sie folgende Flüge durchführen:
 
   - a. Inlandflüge in der Schweiz;
-  - b. Flüge von der Schweiz in die Mitgliedstaaten des EWR;
+  - b. Flüge von der Schweiz in die Mitgliedstaaten des EWR, einschliesslich Flüge in die Regionen in äusserster Randlage;
   - c. Flüge von der Schweiz in das Vereinigte Königreich von Grossbritannien und Nordirland (UK).
+
+- 1*a*.
+
+  Als Regionen in äusserster Randlage gelten:
+
+  - a. Guadeloupe;
+  - b. Französisch-Guayana;
+  - c. Martinique;
+  - d. Mayotte;
+  - e. Réunion;
+  - f. Saint-Martin;
+  - g. Azoren;
+  - h. Madeira;
+  - i. Kanarische Inseln.
 
 - 2\.
 
@@ -4661,19 +4753,7 @@ Anhang 13[^t-18]
   - i. Flüge von Luftfahrzeugen mit einer höchstzulässigen Startmasse von weniger als 5700 kg;
   - j. Flüge, die von kommerziellen Luftfahrzeugbetreibern durchgeführt werden, die in jedem von drei aufeinanderfolgenden Viermonatszeiträumen weniger als 243 Flüge nach Ziffer 1 durchführen oder deren jährliche Gesamtemissionen weniger als 10 000 Tonnen CO<sub>2</sub> betragen;
   - k. Flüge, die von nicht kommerziellen Luftfahrzeugbetreibern durchgeführt werden, sofern die jährlichen Gesamtemissionen der Flüge nach Ziffer 1 dieser Betreiber weniger als 1 000 Tonnen CO<sub>2</sub> betragen;
-  - l.
-
-    Flüge von der Schweiz zu einem Flugplatz in folgende Gebiete:
-
-    - 1\. Guadeloupe,
-    - 2\. Französisch-Guayana,
-    - 3\. Martinique,
-    - 4\. Mayotte,
-    - 5\. Réunion,
-    - 6\. Saint-Martin,
-    - 7\. Azoren,
-    - 8\. Madeira,
-    - 9\. Kanarische Inseln.
+  - l. …
 
 - 3\. Die Ausnahmeregeln nach Ziffer 2 Buchstaben j und k gelten nicht für Luftfahrzeugbetreiber, die dem europäischen EHS unterstellt sind.
 - 4\. Für die Zuordnung der Flüge zu den Viermonatszeiträumen nach Ziffer 2 Buchstabe j ist die örtliche Startzeit jedes Flugs massgebend.
@@ -4708,46 +4788,89 @@ Anhang 14[^t-19]
 
 Anhang 15[^t-20]
 
-(Art. 46*e* und 46*f*)
+(Art. 46*e*, 46*f* und 46*g*)
 
 ## Berechnung der maximal zur Verfügung stehenden Menge der Emissionsrechte und der Menge der kostenlos zuzuteilenden Emissionsrechte für Luftfahrzeuge
 
-[^t-20]: Eingefügt durch Ziff. II Abs. 3 der V vom 13. Nov. 2019 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)). Bereinigt gemäss Ziff. II Abs. 1 der V vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
+[^t-20]: Eingefügt durch Ziff. II Abs. 3 der V vom 13. Nov. 2019 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)). Fassung gemäss Ziff. II Abs. 2 der V vom 29. Sept. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
 
-- 1\. Die Menge der Emissionsrechte wird basierend auf folgendem Benchmark berechnet:
-- 0,000642186914222035 Emissionsrechte pro Tonnenkilometer
-- 2\. Die im Jahr 2020 gesamthaft maximal zur Verfügung stehende Menge der Emissionsrechte für Luftfahrzeuge wird wie folgt berechnet:
-- [tab] *Cap**<sub>2020</sub>* *= ∑tkm**<sub>CH-EHS</sub>* *\* BM \* 100 / 82*
+- **1.** **Berechnung der Menge der Emissionsrechte, die jährlich für die Gesamtheit der Luftfahrzeugbetreiber maximal zur Verfügung stehen**
+- **1.1** **Grundlage für die Berechnung**
+- 1\.1.1
+
+  Die Menge der jährlich für die Gesamtheit der Luftfahrzeugbetreiber maximal zur Verfügung stehenden Emissionsrechte wird basierend auf den folgenden Benchmark-Werten (BM) berechnet:
+
+  - a. für die Jahre 2020–2023: 0,000642186914222035 Emissionsrechte pro Tonnenkilometer (BM<sub>2020</sub>)
+  - b. für das Jahr 2024: 0,000481640185666526 Emissionsrechte pro Tonnenkilometer (BM<sub>2024</sub>)
+  - c. für das Jahr 2025: 0,000321093457111017 Emissionsrechte pro Tonnenkilometer (BM<sub>2025</sub>)
+
+- 1\.1.2
+
+  Dabei bedeuten:
+
+  - – Tonnenkilometer (tkm): Flugstrecke [km] \* Nutzlast [t].
+  - – Flugstrecke: Grosskreisentfernung zwischen Abflug- und Ankunftsflugplatz zuzüglich 95 km.
+  - – Nutzlast: Gesamtmasse von Fracht, Post, Fluggästen und Gepäck, die befördert werden
+
+- 1\.1.3
+
+  Für die Berechnung der Nutzlast gilt Folgendes:
+
+  - a. Die Zahl der Fluggäste entspricht der Zahl der an Bord befindlichen Personen abzüglich des Bordpersonals.
+  - b.
+
+    Der Luftfahrzeugbetreiber kann:
+
+    - – die in seinen Unterlagen über die Massen- und Schwerpunktberechnung eingetragene Masse (tatsächliche Masse oder Standardmasse für Fluggäste und aufgegebenes Gepäck) anwenden; oder
+    - – auf jeden Fluggast und sein aufgegebenes Gepäck einen Standardwert von 100 kg anwenden.
+
+- **1.2.** **Berechnung für die einzelnen Jahre**
+- Die jährlich für die Gesamtheit der Luftfahrzeugbetreiber maximal zur Verfügung stehende Menge der Emissionsrechte wird wie folgt berechnet:
+- 1\.2.1 Im Jahr 2020 maximal zur Verfügung stehende Menge
+- *Cap**<sub>2020</sub>* *= ∑tkm**<sub>CH-EHS</sub>* *\* BM**<sub>2020</sub>* *\* 100 / 82*
 - Cap<sub>2020</sub> Emissionsobergrenze für das Jahr 2020
-- ∑tkm<sub>CH-EHS</sub> Summe der Tonnenkilometer im Jahr 2018 im Schweizer EHS
-- BM Benchmark
-- 3\. Die ab dem Jahr 2021 jährlich maximal zur Verfügung stehende Menge der Emissionsrechte für Luftfahrzeuge wird aus der Emissionsobergrenze für das Jahr 2020 und dem jährlichen Reduktionsfaktor von 2,2 Prozent gegenüber 2020 wie folgt berechnet:
+- ∑tkm<sub>CH-EHS</sub> Summe der Tonnenkilometer im Jahr 2018 im Schweizer EHS (ohne Flüge in Regionen in äusserster Randlage)
+- BM<sub>2020</sub> Benchmark für das Jahr 2020
+- 1\.2.2 In den Jahren 2021–2023 jährlich maximal zur Verfügung stehende Menge
+- *Cap**<sub>202x</sub>* *= Cap**<sub>2020</sub>* *– x \* 0,022 \* Cap**<sub>2020</sub>*
+- Cap<sub>202x</sub> Emissionsobergrenze für das Jahr 202x; mit x = 1, 2, 3.
+- 1\.2.3 Ab dem Jahr 2024 jährlich maximal zur Verfügung stehende Menge
+- *Cap**<sub>202x</sub>* *=* *konsolidiertes Cap**<sub>2023</sub>* *+ virtuelles Cap(RäR)**<sub>2023</sub>* *– (x–3) \* 0.043 \* (konsolidiertes Cap**2020* *+* *virtuelles Cap(RäR)**<sub>2020</sub>**)*
+- *Cap**<sub>202x</sub>* Emissionsobergrenze für das Jahr 202x; mit x = 4, 5.
+- konsolidiertes Cap<sub>2023</sub> = 0,934 \* 0,97 \* Cap2020
+- virtuelles Cap(RäR)<sub>2023</sub> = 0,934 \* ∑tkmRäR \* BM<sub>2020</sub> \* 0,97 / 0,82
+- ∑tkmRäR = Summe der Tonnenkilometer im Jahr 2018 aus Flügen in Regionen in äusserster Randlage (RäR)
+- konsolidiertes Cap<sub>2020</sub> = 0,97 \* Cap<sub>2020</sub>
+- virtuelles Cap(RäR)<sub>2020</sub> = ∑tkmRäR \* BM<sub>2020</sub> \* 0,97 / 0,82
+- **2.** **Verwendung der jährlich für die Gesamtheit der Luftfahrzeugbetreiber maximal zur Verfügung stehenden Menge der Emissionsrechte**
+-
 
-*Cap**<sub>202x</sub>* *= Cap**<sub>2020</sub>* *– x \* 0.022 \* Cap**<sub>2020</sub>*
-
-- Cap<sub>202x</sub> Emissionsobergrenze für das Jahr 202x; mit x = 1, 2, 3, etc.
-- 4\.
-
-  Die jährlich maximal zur Verfügung Menge der Emissionsrechte wird wie folgt verwendet:
+  Die jährlich für die Gesamtheit der Luftfahrzeugbetreiber maximal zur Verfügung stehende Menge der Emissionsrechte wird in den Jahren 2020–2023 wie folgt verwendet:
 
   - a. 82 Prozent stehen für die kostenlose Zuteilung an Betreiber von Luftfahrzeugen zur Verfügung.
   - b. 15 Prozent werden für die Versteigerung zurückbehalten.
   - c. 3 Prozent werden für neue oder wachstumsstarke Betreiber von Luftfahrzeugen zurückbehalten.
 
-- 5\. Im Jahr 2020 wird die Menge an Emissionsrechten, die gemäss Artikel 46*e* Absatz 3 Buchstabe c für das Jahr 2020 zurückbehalten wird, gelöscht.
-- 6\. Die Menge der Emissionsrechte, die einem Luftfahrzeugbetreiber für das Jahr 2020 kostenlos zuzuteilen sind, wird gemäss folgender Formel berechnet:
-
-*Zuteilung = ∑tkm**<sub>Betreiber</sub>* *\* BM*
-
-- ∑tkm<sub>Betreiber</sub> Summe der Tonnenkilometer im Jahr 2018 des Betreibers im Schweizer EHS
-
-BM Benchmark
-
-- 7\. Die Menge der Emissionsrechte, die einem Luftfahrzeugbetreiber ab dem Jahr 2021 kostenlos zuzuteilen sind, wird gemäss folgender Formel berechnet:
-
-*Zuteilung**<sub>202x</sub>* *= Zuteilung**<sub>2020</sub>* *– x \* 0.022 \* Zuteilung**<sub>2020</sub>*
-
-Zuteilung<sub>202x</sub> Zuteilung für das Jahr 202x; mit x = 1, 2, 3 etc.
+- **3.** **Menge der einem Luftfahrzeugbetreiber nach Artikel 46***f* **kostenlos zuzuteilenden Emissionsrechte**
+- Die Menge der Emissionsrechte, die einem Luftfahrzeugbetreiber nach Artikel 46*f* jährlich kostenlos zuzuteilen sind, wird wie folgt berechnet:
+- **3.1** **Für das Jahr 2020 kostenlos zuzuteilende Menge**
+- *Zuteilung**<sub>2020</sub>* *= ∑tkm**<sub>Betreiber</sub>* *\* BM**<sub>2020</sub>*
+- ∑tkm<sub>Betreiber</sub> Summe der Tonnenkilometer im Jahr 2018 des Betreibers im Schweizer EHS (ohne Flüge in die Regionen in äusserster Randlage)
+- BM2020 Benchmark für die Jahre 2020 bis 2023
+- **3.2.** **Für die Jahre 2021–2023 kostenlos zuzuteilende Menge**
+- *Zuteilung**<sub>202x</sub>* *= Zuteilung**<sub>2020</sub>* *– x \* 0,022 \* Zuteilung**<sub>2020</sub>*
+- Zuteilung<sub>202x</sub> Zuteilung für das Jahr 202x; mit x = 1, 2, 3.
+- **3.3** **Für das Jahr 2024 kostenlos zuzuteilende Menge**
+- *Zuteilung**<sub>2024; ohne RäR</sub>* *= 0,891\*∑tkm**<sub>Betreiber</sub>* *\* BM**<sub>2024</sub>*
+- **3.4** **Für das Jahr 2025 kostenlos zuzuteilende Menge**
+- *Zuteilung**<sub>2025; ohne RäR</sub>* *= 0,848\*∑tkm**<sub>Betreiber</sub>* *\* BM**<sub>2025</sub>*
+- **4.** **Menge der einem Luftfahrzeugbetreiber nach Artikel 46***g* **zusätzlich kostenlos zuzuteilenden Emissionsrechte für Flüge in die Regionen in äusserster Randlage**
+- Die Menge der Emissionsrechte, die einem Luftfahrzeugbetreiber nach Artikel 46*g* jährlich für Flüge in die Regionen in äusserster Randlage zusätzlich kostenlos zuzuteilen sind, wird wie folgt berechnet:
+- **4.1** **Für das Jahr 2024 zusätzlich kostenlos zuzuteilende Menge**
+- *Zuteilung**<sub>2024; RäR</sub>* *= 0,891\*∑tkm**<sub>BetreiberRäR</sub>* *\* BM**<sub>2024</sub>*
+- ∑tkm<sub>BetreiberRäR</sub> Summe der Tonnenkilometer im Jahr 2018 des Betreibers aus Flügen in die Regionen in äusserster Randlage
+- **4.2.** **Für das Jahr 2025 zusätzlich kostenlos zuzuteilende Menge**
+- *Zuteilung*<sub>2025</sub>*<sub>; RäR</sub>* *= 0,848\*∑tkm**<sub>BetreiberRäR</sub>* *\* BM**<sub>2025</sub>*
 
 Anhang 16[^t-21]
 
@@ -4755,7 +4878,7 @@ Anhang 16[^t-21]
 
 ## Anforderungen an das Monitoringkonzept
 
-[^t-21]: Eingefügt durch Ziff. II Abs. 3 der V vom 13. Nov. 2019 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)). Bereinigt gemäss Ziff. II Abs. 1 der V vom 25. Nov. 2020 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)) und Ziff. II Abs. 3 der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^t-21]: Eingefügt durch Ziff. II Abs. 3 der V vom 13. Nov. 2019 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)). Bereinigt gemäss Ziff. II Abs. 1 der V vom 25. Nov. 2020 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)) und Ziff. II Abs. 3 der V vom 4. Mai 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)) und Ziff. II Abs. 1 der V vom 29. Sept. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
 
 ### 1 Monitoringkonzept für Betreiber von Anlagen
 
@@ -4795,7 +4918,7 @@ Anhang 16[^t-21]
 - 3\.1 Die CO<sub>2</sub>-Emissionen in Tonnen werden nach der folgenden Formel berechnet:
 - *CO**<sub>2</sub>**-Emissionen [t CO**<sub>2</sub>**] = verbrauchter Treibstoff [t Treibstoff] × Emis**sionsfaktor [t CO**<sub>2</sub>**/t Treibstoff]*.
 - 3\.2 Dabei sind folgende Emissionsfaktoren [t CO<sub>2</sub>/t Treibstoff] für die verschiedenen Treibstoffe anzuwenden:
-- Kerosin (Jet A-1 oder Jet A): 3,15
+- Kerosin (Jet A-1 oder Jet A): 3,16
 - Jet B: 3,10
 - Flugbenzin (AvGas): 3,10
 - 3\.3 Der Emissionsfaktor von Treibstoffen aus Biomasse ist null, sofern die eingesetzte Biomasse die Nachhaltigkeitskriterien nach Artikel 29 der Richtlinie (EU) 2018/2001[^annex16-lvlu1-lvl3-1] erfüllt.

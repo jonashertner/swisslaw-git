@@ -3,11 +3,11 @@ sr: "641.711"
 title: "Ordinanza del 30 novembre 2012 sulla riduzione delle emissioni di CO<sub>2</sub> (Ordinanza sul CO<sub>2</sub>)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/856"
 language: it
-version: 2023-11-10
+version: 2024-01-01
 adopted: 2012-11-30
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20231110/it/xml/fedlex-data-admin-ch-eli-cc-2012-856-20231110-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/856/20231110/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2012-856-20240101-it-xml-20.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/856/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/856/20231110/it"
 
 (Ordinanza sul CO<sub>2</sub>)
 
-del 30 novembre 2012 (Stato 10 novembre 2023)
+del 30 novembre 2012 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -536,30 +536,16 @@ Il rapporto deve contenere informazioni concernenti:
 
 #### Art. 17
 
-**Campo di applicazione personale[^17-2]**[^17-1]
+**Importatore**[^17-1]
 
-<sup>1</sup>
+<sup>1</sup> È considerato importatore secondo l’articolo 10 capoverso 3 della legge sul CO<sub>2</sub> chi si fa rilasciare dall’Ufficio federale dell’energia (UFE) la certificazione per un veicolo conformemente all’articolo 23 capoverso 4.
 
-Alle disposizioni del presente capitolo è assoggettato chi importa o produce in Svizzera uno dei seguenti veicoli messi in circolazione per la prima volta:
+<sup>2</sup> Se per un veicolo non è stata rilasciata alcuna certificazione, è considerato importatore chi è iscritto come tale nel sistema d’informazione sull’ammissione alla circolazione di cui all’articolo 89*a* della legge federale del 19 dicembre 1958[^17-2] sulla circolazione stradale.
 
-- a. automobili;
-- b. autofurgoni;
-- c. trattori a sella leggeri;
+<sup>3</sup> Se per un veicolo non è stata rilasciata alcuna certificazione e nel sistema d’informazione sull’ammissione alla circolazione non figura chi è l’importatore, è considerato importatore chi è indicato come tale nella dichiarazione doganale.
 
-<sup>2</sup>
-
-È considerato importatore di un veicolo chi:[^17-3]
-
-- a. è titolare dell’approvazione del tipo o della scheda tecnica di cui agli articoli 3 e 3*a* dell’ordinanza del 19 giugno 1995[^17-4] concernente l’approvazione del tipo di veicoli stradali (OATV): se per l’immatricolazione del veicolo viene utilizzata l’approvazione del tipo o la corrispondente scheda tecnica;
-- b.[^17-5] è importatore del veicolo secondo la dichiarazione doganale: se per l’omologazione del veicolo viene utilizzato il certificato di conformità in formato elettronico secondo l’articolo 37 del regolamento (UE) 2018/858[^17-6] (*Certificate of Conformity,* COC); oppure
-- c. chi ottiene dall’Ufficio federale delle strade (USTRA) la certificazione di importatore: se per l’immatricolazione non viene utilizzato alcun documento di cui alle lettere a e b.
-
-[^17-1]: Nuovo testo giusta il n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
-[^17-2]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
-[^17-3]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
-[^17-4]: [RS 741.511](https://fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997)
-[^17-5]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
-[^17-6]: Regolamento (UE) n. 2018/858 del Parlamento europeo e del Consiglio, del 30 maggio 2018, relativo all’omologazione e alla vigilanza del mercato dei veicoli a motore e dei loro rimorchi, nonché dei sistemi, dei componenti e delle entità tecniche indipendenti destinati a tali veicoli, che modifica i regolamenti (CE) n. 715/2007 e (CE) n. 595/2009 e abroga la direttiva 2007/46/CE, GU L 151 del 14.6.2018, pag. 1; modificato da ultimo dal regolamento (UE) 2019/2144, GU L 325 del 16.12.2019, pag. 1.
+[^17-1]: Nuovo testo giusta il n. I dell’O del 29 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
+[^17-2]: [RS 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
 
 #### Art. 17a
 
@@ -610,25 +596,32 @@ Alle disposizioni del presente capitolo è assoggettato chi importa o produce in
 
 <sup>3</sup> Non sono considerati messi in circolazione per la prima volta i veicoli importati la cui immatricolazione all’estero risale a più di sei mesi prima della dichiarazione doganale.
 
-<sup>3</sup> Non sono considerati messi in circolazione per la prima volta i veicoli importati la cui immatricolazione all’estero risale a più di sei mesi prima della dichiarazione doganale.
+<sup>3</sup>
 
-<sup>4</sup>
+Non sono considerati messi in circolazione per la prima volta i veicoli importati che:
 
-Se il termine di cui al capoverso 3 porta a una sostanziale disparità di trattamento fra gli importatori di veicoli che sono già stati immatricolati all’estero prima della dichiarazione doganale e gli importatori di veicoli che non sono già stati immatricolati all’estero prima della dichiarazione doganale o se si verificano abusi, il DATEC può:
+- a. sono stati immatricolati all’estero più di 12 mesi prima della dichiarazione doganale in Svizzera; oppure
+- b.
 
-- [tab] a. ridurre il termine o prorogarlo a un anno al massimo;
-- [tab] b. stabilire un numero minimo di chilometri percorsi.
+  sono stati immatricolati all’estero più di sei ma al massimo 12 mesi prima della dichiarazione doganale in Svizzera e presentano un chilometraggio pari o superiore a 5000 km:
+
+  - 1\. al momento della dichiarazione in dogana,
+  - 2\. al momento della prima ammissione alla circolazione, se il chilometraggio non è rilevato al momento della dichiarazione in dogana.[^17d-3]
+
+<sup>4</sup> *...* [^17d-4]
 
 [^17d-1]: Originario art. 17*a*. Introdotto dal n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
 [^17d-2]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^17d-3]: Nuovo testo giusta il n. I dell’O del 29 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
+[^17d-4]: Abrogato dal n. I dell’O del 29 set. 2023, con effetto dal 1° gen. 2024 ([RU 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
 
 #### Art. 17e
 
 **Anno di riferimento**[^17e-1]
 
-Per anno di riferimento si intende l’anno civile in cui è stato esaminato il raggiungimento dell’obiettivo individuale.
+Per anno di riferimento si intende l’anno civile in cui è esaminato il raggiungimento dell’obiettivo individuale.
 
-[^17e-1]: Originario art. 17*a* e 17*a*<sup>bis</sup>. Introdotto dal n. I dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
+[^17e-1]: Originario art. 17*a* e 17*a*<sup>bis</sup>. Introdotto dal n. I dell’O del 25 nov. 2020 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)). Nuovo testo giusta il n. I dell’O del 29 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
 
 #### Art. 17f
 
@@ -715,12 +708,13 @@ A un costruttore si applicano nell’anno di riferimento per analogia le disposi
 
 <sup>1</sup> Un importatore può convenire con un grande importatore che questi riprenda i suoi veicoli e risponda quindi, in relazione a detti veicoli, per tutti gli obblighi previsti nel presente capitolo.
 
-<sup>2</sup> L’importatore deve notificare tale accordo all’USTRA antecedentemente alla prima immatricolazione del veicolo. La notifica deve contenere una dichiarazione di consenso del grande importatore che riprende i veicoli.
+<sup>2</sup> L’importatore o il grande importatore deve notificare tale accordo all’UFE antecedentemente alla prima messa in circolazione dei veicoli interessati.[^22a-2]
 
-<sup>3</sup> I veicoli possono essere ceduti una sola volta. La revoca di una cessione non è possibile.[^22a-2]
+<sup>3</sup> I veicoli possono essere ceduti una sola volta. La revoca di una cessione non è possibile.[^22a-3]
 
 [^22a-1]: Introdotto dal n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
-[^22a-2]: Introdotto dal n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^22a-2]: Nuovo testo giusta il n. I dell’O del 29 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
+[^22a-3]: Introdotto dal n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 ### Sezione 3: Basi di calcolo
 
@@ -728,16 +722,22 @@ A un costruttore si applicano nell’anno di riferimento per analogia le disposi
 
 **Obblighi degli importatori**[^23-1]
 
-<sup>1</sup> Gli importatori devono comunicare all’USTRA antecedentemente alla prima immatricolazione di un veicolo i dati necessari per l’assegnazione del veicolo al suo importatore e per il calcolo di un’eventuale sanzione.
+<sup>1</sup> Gli importatori devono comunicare all’Ufficio federale delle strade (USTRA) antecedentemente alla prima messa in circolazione di un veicolo i dati necessari per l’assegnazione del veicolo al suo importatore e per il calcolo di un’eventuale sanzione.
 
-<sup>1bis</sup> Per i veicoli titolari di un’approvazione del tipo o di una scheda tecnica secondo gli articoli 3 e 3*a* OATV, nonché per gli autofurgoni e i trattori a sella leggeri con un’omologazione in più fasi secondo l’articolo 3 numero 7 della direttiva 2007/46/CE[^23-2] o secondo l’articolo 3 numero 8 del regolamento (UE) 2018/858[^23-3], un grande importatore può presentare all’UFE i dati basati sul COC per il calcolo della sanzione entro il 31 gennaio dell’anno successivo all’anno di riferimento. Ai fini del controllo dei dati, l’UFE può esigere che il grande importatore presenti un duplicato o una copia del COC.[^23-4]
+<sup>2</sup>
 
-<sup>2</sup> Un piccolo importatore deve inoltre versare all’USTRA antecedentemente alla prima immatricolazione di un veicolo un’eventuale sanzione dovuta secondo l’articolo 13 della legge sul CO<sub>2</sub>.
+Se, per i veicoli seguenti, i grandi importatori comunicano all’UFE, entro il 31 gennaio dell’anno successivo all’anno di riferimento, i dati basati sul certificato di conformità di cui all’articolo 36 o 37 del regolamento (UE) 2018/858[^23-2] (Certificate of Conformity, COC), per il calcolo di un’eventuale sanzione l’UFE tiene conto di questi dati invece di quelli di cui al capoverso 1:
 
-[^23-1]: Nuovo testo giusta il n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
-[^23-2]: Cfr. nota a piè di pagina relativa all’art. 17*a* cpv. 2.
-[^23-3]: Cfr. nota a piè di pagina relativa all’art. 17 cpv. 2 lett. b.
-[^23-4]: Introdotto dal n. I dell’O del 4 mag. 2022, in vigore dal 1° gen. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+- a. veicoli che dispongono di un’approvazione del tipo o di una scheda tecnica secondo gli articoli 3 e 3*a* dell’ordinanza del 19 giugno 1995[^23-3] concernente l’approvazione del tipo di veicoli stradali (OATV);
+- b. autofurgoni e trattori a sella leggeri con un’omologazione in più fasi secondo l’articolo 3 numero 8 del regolamento (UE) 2018/858.
+
+<sup>3</sup> Ai fini del controllo dei dati comunicati conformemente al capoverso 2, l’UFE può esigere che il grande importatore presenti un duplicato o una copia del COC.
+
+<sup>4</sup> I piccoli importatori devono farsi rilasciare dall’UFE la certificazione antecedentemente alla prima messa in circolazione del veicolo.
+
+[^23-1]: Nuovo testo giusta il n. I dell’O del 29 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
+[^23-2]: Cfr. nota relativa all’art. 17*a* cpv. 2.
+[^23-3]: [RS 741.511](https://fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997)
 
 #### Art. 24
 
@@ -879,14 +879,18 @@ Esso può chiedere ai grandi importatori il versamento di acconti trimestrali a 
 
 **Art. 35**[^chap3-sec5-1]
 
-<sup>1</sup> Se le emissioni medie di CO<sub>2</sub> di un veicolo di un piccolo importatore superano l’obiettivo individuale, l’USTRA ordina la sanzione.
+<sup>1</sup> Se le emissioni di CO<sub>2</sub> di un veicolo di un piccolo importatore superano l’obiettivo individuale, l’UFE ordina la sanzione.[^chap3-sec5-2]
+
+<sup>1bis</sup> La sanzione è dovuta antecedentemente alla prima messa in circolazione del veicolo.[^chap3-sec5-3]
 
 <sup>2</sup> L’articolo 30 capoversi 2 e 3 si applica per analogia.
 
-<sup>3</sup> Eventuali sanzioni per autofurgoni e trattori a sella leggeri sono ridotte del 5 per cento nel 2022.[^chap3-sec5-2]
+<sup>3</sup> Eventuali sanzioni per autofurgoni e trattori a sella leggeri sono ridotte del 5 per cento nel 2022.[^chap3-sec5-4]
 
 [^chap3-sec5-1]: Nuovo testo giusta il n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
-[^chap3-sec5-2]: Introdotto dal n. I dell’O del 4 mag. 2022, in vigore dal 1° gen. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^chap3-sec5-2]: Nuovo testo giusta il n. I dell’O del 29 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
+[^chap3-sec5-3]: Introdotto dal n. I dell’O del 29 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
+[^chap3-sec5-4]: Introdotto dal n. I dell’O del 4 mag. 2022, in vigore dal 1° gen. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 ### Sezione 6: Resoconto e informazione al pubblico
 
@@ -1121,7 +1125,10 @@ Se la quota di cui al capoverso 2 non è sufficiente per adempiere completamente
 
 <sup>5</sup> Se l’esercizio di un elemento di assegnazione è sospeso, al gestore non sono più attribuiti diritti di emissione a partire dalla messa fuori servizio di tale elemento di assegnazione.
 
+<sup>6</sup> La domanda di cui al capoverso 2 e la prova di cui al capoverso 3 devono essere presentate contestualmente al rapporto di monitoraggio di cui all’articolo 52.[^46b-2]
+
 [^46b-1]: Introdotto dal n. I dell’O dell’8 ott. 2014 ([RU 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)). Nuovo testo giusta il n. I dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
+[^46b-2]: Introdotto dal n. I dell’O del 29 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
 
 #### Art. 46c
 
@@ -1153,33 +1160,50 @@ Se la quota di cui al capoverso 2 non è sufficiente per adempiere completamente
 
 **Quantità massima di diritti di emissione disponibili**[^46e-1]
 
-<sup>1</sup> L’UFAM calcola la quantità massima di diritti di emissione disponibile annualmente per tutti gli operatori di aeromobili. Il calcolo avviene secondo l’allegato 15 numeri 1–3.
+<sup>1</sup> L’UFAM calcola la quantità massima di diritti di emissione disponibile annualmente per tutti gli operatori di aeromobili. Il calcolo avviene secondo l’allegato 15 numero 1.[^46e-2]
 
 <sup>2</sup> In caso di modifica del campo di applicazione geografico del SSQE, l’UFAM può adeguare la quantità massima disponibile annualmente dei diritti di emissione per aeromobili e la quantità dei diritti di emissione da assegnare a titolo gratuito agli operatori di aeromobili. A tal fine tiene conto delle normative dell’UE in materia.
 
-<sup>3</sup> L’UFAM trattiene una quota della quantità calcolata secondo il capoverso 1 per metterla a disposizione di operatori di aeromobili nuovi o in forte crescita. L’ammontare della quota è calcolato secondo l’allegato 15 numero 4.
+<sup>3</sup> L’UFAM trattiene una quota della quantità calcolata secondo il capoverso 1 per metterla a disposizione di operatori di aeromobili nuovi o in forte crescita. L’ammontare della quota è calcolato secondo l’allegato 15 numero 2.[^46e-3]
 
-<sup>4</sup> La quantità di diritti di emissione secondo il capoverso 3 è assegnata alla riserva speciale secondo l’allegato IB dell’accordo del 23 novembre 2017[^46e-2] tra la Confederazione Svizzera e l’Unione europea sul collegamento dei rispettivi sistemi di scambio di quote di emissioni di gas a effetto serra (accordo SSQE).
+<sup>4</sup> La quantità di diritti di emissione secondo il capoverso 3 è assegnata alla riserva speciale secondo l’allegato IB dell’accordo del 23 novembre 2017[^46e-4] tra la Confederazione Svizzera e l’Unione europea sul collegamento dei rispettivi sistemi di scambio di quote di emissioni di gas a effetto serra (accordo SSQE).
 
 [^46e-1]: Nuovo testo giusta il n. I dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
-[^46e-2]: [RS 0.814.011.268](https://fedlex.data.admin.ch/eli/cc/2018/124)
+[^46e-2]: Nuovo testo giusta il n. I dell’O del 29 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
+[^46e-3]: Nuovo testo giusta il n. I dell’O del 29 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
+[^46e-4]: [RS 0.814.011.268](https://fedlex.data.admin.ch/eli/cc/2018/124)
 
 #### Art. 46f
 
 **Assegnazione di diritti di emissione a titolo gratuito**
 
-<sup>1</sup> L’UFAM calcola la quantità di diritti di emissione da assegnare annualmente a titolo gratuito a un operatore di aeromobili secondo l’allegato 15 numeri 6 e 7. L’assegnazione avviene soltanto se l’operatore di aeromobili ha presentato un rapporto di monitoraggio sulle tonnellate-chilometro secondo l’ordinanza del 2 giugno 2017[^46f-1] sul rilevamento di dati concernenti le tonnellate-chilometro e sull’elaborazione di piani di monitoraggio per le rotte aeree.[^46f-2]
+<sup>1</sup> L’UFAM calcola la quantità di diritti di emissione da assegnare annualmente a titolo gratuito a un operatore di aeromobili secondo l’allegato 15 numero 3. L’assegnazione avviene soltanto se l’operatore di aeromobili ha presentato un rapporto di monitoraggio sulle tonnellate-chilometro secondo l’ordinanza del 2 giugno 2017[^46f-1] sul rilevamento di dati concernenti le tonnellate-chilometro e sull’elaborazione di piani di monitoraggio per le rotte aeree.[^46f-2]
 
 <sup>2</sup> *…*[^46f-3]
 
 <sup>3</sup> Un operatore di aeromobile a cui sono stati assegnati diritti di emissione a titolo gratuito e che in un dato anno non opera voli secondo l’allegato 13 deve restituire all’UFAM i diritti di emissione assegnati a titolo gratuito per quell’anno entro il 30 novembre dell’anno successivo. I diritti di emissione restituiti sono cancellati.[^46f-4]
 
-<sup>4</sup> I diritti di emissione che non possono essere assegnati a titolo gratuito sono cancellati.
+<sup>4</sup> ...[^46f-5]
 
-[^46f-1]: [[RU 2017 3477](https://fedlex.data.admin.ch/eli/oc/2017/378); [2019 1477](https://fedlex.data.admin.ch/eli/oc/2019/284)]
-[^46f-2]: Nuovo testo giusta il n. I dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
+[^46f-1]: [RU 2017 3477](https://fedlex.data.admin.ch/eli/oc/2017/378); [2019 1477](https://fedlex.data.admin.ch/eli/oc/2019/284)
+[^46f-2]: Nuovo testo giusta il n. I dell’O del 29 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
 [^46f-3]: Abrogato dal n. I dell’O del 25 nov. 2020, con effetto dal 1° gen. 2021 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
 [^46f-4]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^46f-5]: Abrogato dal n. I dell’O del 29 set. 2023, con effetto dal 1° gen. 2024 ([RU 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
+
+#### Art. 46g
+
+**Ulteriore assegnazione a titolo gratuito nel caso di voli verso regioni ultraperiferiche**[^46g-1]
+
+<sup>1</sup> Per i voli verso regioni ultraperiferiche, agli operatori di aeromobili sono assegnati ulteriori diritti di emissione a titolo gratuito oltre a quelli assegnati a titolo gratuito secondo l’articolo 46*f*. Sono considerate regioni ultraperiferiche le regioni di cui all’allegato 13 numero 1*a*.
+
+<sup>2</sup> L’assegnazione avviene solo se, entro il 31 agosto 2024, l’operatore di aeromobili dimostra di avere effettuato voli verso regioni ultraperiferiche nel 2018. L’UFAM calcola la quantità di diritti di emissione supplementari da assegnare a titolo gratuito secondo l’allegato 15 numero 4.
+
+<sup>3</sup> La prova di cui al capoverso 2 deve includere i dati concernenti le rotte aeree percorse e i carichi utili trasportati nel 2018. I dati devono essere verificati da un organismo di controllo di cui all’allegato 18 numero 4.
+
+<sup>4</sup> Per la prova deve essere utilizzato il modello fornito dall’UFAM.
+
+[^46g-1]: Introdotto dal n. I dell’O del 29 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
 
 ### Sezione 2: Vendita all’asta dei diritti di emissione
 
@@ -1197,14 +1221,9 @@ Hanno diritto a partecipare all’asta dei diritti di emissione i gestori di imp
 
 **Svolgimento dell’asta**
 
-<sup>1</sup>
+<sup>1</sup> L’UFAM vende all’asta regolarmente i diritti di emissione a disposizione per gli impianti e per gli aeromobili del relativo anno che non vengono assegnati a titolo gratuito.[^48-1]
 
-L’UFAM vende all’asta regolarmente:
-
-- a.[^48-1] i diritti di emissione a disposizione per gli impianti del relativo anno che non vengono assegnati a titolo gratuito;
-- b.[^48-2] il 15 per cento dei diritti di emissione disponibili annualmente per gli aeromobili secondo l’allegato 15 numero 3.
-
-<sup>1bis</sup> La quantità dei diritti di emissione da vendere all’asta secondo il capoverso 1 lettera a viene ridotta del 50 per cento se la differenza tra l’offerta di diritti di emissione per impianti e la domanda di diritti di emissione per impianti (quantità in circolazione) corrisponde a oltre il 50 per cento della quantità massima di diritti di emissione disponibili nell’anno precedente conformemente all’articolo 45 capoverso 1. Il calcolo della quantità in circolazione viene effettuato secondo quanto previsto nell’allegato 8 numero 2. [^48-3]
+<sup>1bis</sup> La quantità dei diritti di emissione per impianti da vendere all’asta viene ridotta del 50 per cento se la differenza tra l’offerta di diritti di emissione per impianti e la domanda di diritti di emissione per impianti (quantità in circolazione) corrisponde a oltre il 50 per cento della quantità massima di diritti di emissione per impianti disponibili nell’anno precedente conformemente all’articolo 45 capoverso 1. Il calcolo della quantità in circolazione viene effettuato secondo quanto previsto nell’allegato 8 numero 2.[^48-2]
 
 <sup>2</sup>
 
@@ -1222,9 +1241,8 @@ L’UFAM può interrompere l’asta senza aggiudicazioni, se:
 
 <sup>6</sup> L’UFAM può affidare l’asta ad organizzazioni private.
 
-[^48-1]: Nuovo testo giusta il n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
-[^48-2]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
-[^48-3]: Introdotto dal n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
+[^48-1]: Nuovo testo giusta il n. I dell’O del 29 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
+[^48-2]: Introdotto dal n. I dell’O del 24 nov. 2021 ([RU 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)). Nuovo testo giusta il n. I dell’O del 29 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
 
 #### Art. 49
 
@@ -1387,12 +1405,13 @@ I gestori di impianti che esercitano un’attività di cui all’allegato 6 e so
 
 <sup>2bis</sup> Se un operatore di aeromobili deve adempiere obblighi sia nel SSQE della Svizzera sia nel SSQE dell’UE, l’UFAM, per gli operatori che amministra, computa dapprima i diritti di emissione consegnati ai fini dell’adempimento dell’obbligo previsto dal SSQE europeo.[^55-4]
 
-<sup>3</sup> I partecipanti al SSQE adempiono a questo obbligo entro il 30 aprile per le emissioni di gas serra dell’anno precedente.
+<sup>3</sup> I partecipanti al SSQE adempiono questo obbligo entro il 30 settembre per le emissioni di gas serra dell’anno precedente.[^55-5]
 
 [^55-1]: Nuovo testo giusta il n. I dell’O del 13 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
 [^55-2]: Nuovo testo giusta il n. I dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
 [^55-3]: Nuovo testo giusta il n. I dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
 [^55-4]: Introdotto dal n. I dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
+[^55-5]: Nuovo testo giusta il n. I dell’O del 29 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
 
 #### Art. 55a
 
@@ -2886,7 +2905,7 @@ Su richiesta devono essere forniti alle autorità esecutive:
 
 I dati rilevati nell’ambito dell’esecuzione della presente ordinanza sono a disposizione delle autorità esecutive, nella misura necessaria all’esecuzione. In particolare:[^134-1]
 
-- a.[^134-2] l’USTRA trasmette all’UFE i dati necessari all’esecuzione del capitolo 3 della presente ordinanza;
+- a.[^134-2] l’UDSC trasmette all’USTRA e all’UFE i dati relativi alle importazioni necessari all’esecuzione del capitolo 3 e l’USTRA trasmette all’UFE gli altri dati necessari all’esecuzione del capitolo 3;
 - b.[^134-3]
 
   l’UFAM trasmette all’UFE i dati necessari all’esame:
@@ -2917,7 +2936,7 @@ I dati rilevati nell’ambito dell’esecuzione della presente ordinanza sono a 
 <sup>3</sup> L’UFAM offre per conservazione all’Archivio federale i dati personali di cui non ha più bisogno in modo permanente, conformemente alla legge sull’archiviazione del 26 giugno 1998[^134-8]. I dati che l’Archivio federale ha designato come non aventi valore archivistico sono distrutti.[^134-9]
 
 [^134-1]: Nuovo testo giusta il n. I dell’O del 13 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
-[^134-2]: Nuovo testo giusta il n. I dell’O del 1° nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)).
+[^134-2]: Nuovo testo giusta il n. I dell’O del 29 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
 [^134-3]: Nuovo testo giusta il n. I dell’O dell’8 ott. 2014, in vigore dal 1° dic. 2014 ([RU 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)).
 [^134-4]: Nuovo testo giusta il n. I dell’O dell’8 ott. 2014, in vigore dal 1° dic. 2014 ([RU 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)).
 [^134-5]: Nuovo testo giusta il n. I dell’O del 13 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
@@ -2963,8 +2982,8 @@ Il DATEC adegua:
 [^135-7]: Regolamento di esecuzione (UE) 2021/447 della Commissione del 12 marzo 2021 che determina valori riveduti dei parametri di riferimento per l’assegnazione gratuita delle quote di emissioni per il periodo dal 2021 al 2025 ai sensi dell’articolo 10 *bis* paragrafo 2 della direttiva 2003/87/CE del Parlamento europeo e del Consiglio, GU L 87 del 15.3.2021, pag. 29.
 [^135-8]: Introdotta dal n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
 [^135-9]: Decisione delegata (UE) 2019/708 della Commissione, del 15 febbraio 2019, che integra la direttiva 2003/87/CE del Parlamento europeo e del Consiglio per quanto concerne la determinazione dei settori e sottosettori considerati a rischio di rilocalizzazione delle emissioni di CO<sub>2</sub> per il periodo dal 2021 al 2030, GU L 120 dell’8.5.2019, pag. 20.
-[^135-10]: Introdotta dal n. I dell’O del 13 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
-[^135-11]: Regolamento (CE) n. 748/2009 della Commissione, del 5 agosto 2009, relativo all’elenco degli operatori aerei che hanno svolto una delle attività di trasporto aereo che figurano nell’allegato I della direttiva 2003/87/CE al 1° gennaio 2006 o successivamente a tale data, che specifica lo Stato membro di riferimento di ciascun operatore aereo, GU L 219 del 22.8.2009, pag. 1; modificata, da ultimo, dal regolamento (UE) 2018/336, GU L 70 del 13.3.2018, pag. 1.
+[^135-10]: Introdotta dal n. I dell’O del 13 nov. 2019 ([RU 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)). Nuovo testo giusta il n. I dell’O del 29 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
+[^135-11]: Regolamento (CE) n. 748/2009 della Commissione, del 5 ago. 2009, relativo all’elenco degli operatori aerei che hanno svolto una delle attività di trasporto aereo che figurano nell’allegato I della direttiva 2003/87/CE al 1° gen. 2006 o successivamente a tale data, che specifica lo Stato membro di riferimento di ciascun operatore aereo, GU L 219 del 22.8.2009, pag. 1; modificata da ultimo dal regolamento (UE) 2023/838, GU L 108 del 21.4.2023, pag. 1.
 
 #### Art. 135a
 
@@ -2995,7 +3014,7 @@ Le seguenti ordinanze sono abrogate:
 [^136-2]: [[RU 2007 2915](https://fedlex.data.admin.ch/eli/oc/2007/387); [2009 5945](https://fedlex.data.admin.ch/eli/oc/2009/726); [2010 953](https://fedlex.data.admin.ch/eli/oc/2010/153), [2167](https://fedlex.data.admin.ch/eli/oc/2010/296); [2011 17](https://fedlex.data.admin.ch/eli/oc/2011/6)art. 6, [1945](https://fedlex.data.admin.ch/eli/oc/2011/287), [3331](https://fedlex.data.admin.ch/eli/oc/2011/451)all. 3 n. 15; [2012 355](https://fedlex.data.admin.ch/eli/oc/2012/24)art. 29]
 [^136-3]: [[RU 2007 4531](https://fedlex.data.admin.ch/eli/oc/2007/638), [2011 6205](https://fedlex.data.admin.ch/eli/oc/2011/870)]
 [^136-4]: [[RU 2011 17](https://fedlex.data.admin.ch/eli/oc/2011/6)]
-[^136-5]: [[RU 2012 355](https://fedlex.data.admin.ch/eli/oc/2012/24)[1817](https://fedlex.data.admin.ch/eli/oc/2012/257)]
+[^136-5]: [[RU 2012 355](https://fedlex.data.admin.ch/eli/oc/2012/24), [1817](https://fedlex.data.admin.ch/eli/oc/2012/257)]
 
 #### Art. 137
 
@@ -3372,65 +3391,100 @@ La domanda di non considerazione delle emissioni di CO<sub>2</sub> secondo il ca
 
 Sino al 2024 le emissioni provocate dalla produzione di energia elettrica a seguito di un prelievo dalla riserva secondo l’ordinanza del 25 gennaio 2023[^sec2f-2] sulla riserva invernale non sono tenute in considerazione nella valutazione dell’adempimento o del mancato adempimento dell’impegno di riduzione.
 
-### Sezione 3: Entrata in vigore
+### Sezione 2*g*: Disposizioni transitorie concernenti la modifica del 29 settembre 2023
+
+[^sec2f-sec2g-1]
 
 [^sec2f-2]: [RS 734.722](https://fedlex.data.admin.ch/eli/cc/2023/43)
+[^sec2f-sec2g-1]: Introdotta dal n. I dell’O del 29 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
+
+#### Art. 146x
+
+**Veicoli già sdoganati**
+
+Ai veicoli importati la cui dichiarazione doganale in Svizzera è stata presentata prima dell’entrata in vigore della modifica del 29 settembre 2023, fino al 31 dicembre 2024 si applica l’articolo 17*d* capoverso 3 nella versione attuale.
+
+#### Art. 146y
+
+**Diritti di emissione per operatori di aeromobili**
+
+<sup>1</sup> In deroga all’articolo 46*e* capoverso 3, l’UFAM non trattiene alcuna quota annua di diritti di emissione per operatori di aeromobili nuovi o in forte crescita, fintanto che nella riserva speciale di cui all’allegato IB dell’accordo SSQE[^146y-1] è presente un numero sufficiente di diritti di emissione.
+
+<sup>2</sup> I diritti di emissione non assegnati a titolo gratuito per gli anni 2020–2023 ai sensi dell’articolo 46*f* sono cancellati.
+
+[^146y-1]: [RS 0.814.011.268](https://fedlex.data.admin.ch/eli/cc/2018/124)
+
+### Sezione 3: Entrata in vigore
 
 #### Art. 147
 
 La presente ordinanza entra in vigore il 1° gennaio 2013.
 
-Allegato 1
+Allegato 1[^t-1]
 
 (art. 1 cpv. 2)
 
-## Effetto riscaldante dei gas serra sul clima in CO<sub>2</sub>eq
+## Effetto riscaldante dei gas serra sul clima in CO2eq
+
+[^t-1]: Nuovo testo giusta il n. II cpv. 2 dell’O del 29 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
 
 <table>
-<tr><td>Gas serra</td><td>Formula chimica</td><td>Effetto in CO<sub>2</sub>eq</td></tr>
-<tr><td>Biossido di carbonio</td><td>CO<sub>2</sub></td><td>1</td></tr>
-<tr><td>Metano</td><td>CH<sub>4</sub></td><td>25</td></tr>
-<tr><td>Protossido di azoto, gas esilarante</td><td>N<sub>2</sub>O</td><td>298</td></tr>
+<tr><th>Gas serra</th><th>Formula chimica</th><th>Effetto in CO<sub>2</sub>eq</th></tr>
+<tr><td>Biossido di carbonio</td><td>CO2</td><td>1</td></tr>
+<tr><td>Metano</td><td>CH4</td><td>28</td></tr>
+<tr><td>Protossido di azoto, gas esilarante</td><td>N2O</td><td>265</td></tr>
 <tr><td>Idrofluorocarburi (HFC)</td><td></td><td></td></tr>
-<tr><td>– HFC-23</td><td>CHF<sub>3</sub></td><td>14 800</td></tr>
-<tr><td>– HFC-32</td><td>CH<sub>2</sub>F<sub>2</sub></td><td>675</td></tr>
-<tr><td>– HFC-41</td><td>CH<sub>3</sub>F</td><td>92</td></tr>
-<tr><td>– HFC-43-10mee</td><td>CF<sub>3</sub>CHFCHFCF<sub>2</sub>CF<sub>3</sub></td><td>1 640</td></tr>
-<tr><td>– HFC-125</td><td>C<sub>2</sub>HF<sub>5</sub></td><td>3 500</td></tr>
-<tr><td>– HFC-134</td><td>C<sub>2</sub>H<sub>2</sub>F<sub>4</sub> (CHF<sub>2</sub>CHF<sub>2</sub>)</td><td>1 100</td></tr>
-<tr><td>– HFC-134a</td><td>C<sub>2</sub>H<sub>2</sub>F<sub>4</sub> (CH<sub>2</sub>FCF<sub>3</sub>)</td><td>1 430</td></tr>
-<tr><td>– HFC-143</td><td>C<sub>2</sub>H<sub>3</sub>F<sub>3</sub> (CHF<sub>2</sub>CH<sub>2</sub>F)</td><td>353</td></tr>
-<tr><td>– HFC-143a</td><td>C<sub>2</sub>H<sub>3</sub>F<sub>3</sub> (CF<sub>3</sub>CH<sub>3</sub>)</td><td>4 470</td></tr>
-<tr><td>– HFC-152</td><td>CH<sub>2</sub>FCH<sub>2</sub>F</td><td>53</td></tr>
-<tr><td>– HFC-152a</td><td>C<sub>2</sub>H<sub>4</sub>F<sub>2</sub> (CH<sub>3</sub>CHF<sub>2</sub>)</td><td>38</td></tr>
-<tr><td>– HFC-161</td><td>CH<sub>3</sub>CH<sub>2</sub>F</td><td>12</td></tr>
-<tr><td>– HFC-227ea</td><td>C<sub>3</sub>HF<sub>7</sub></td><td>3 220</td></tr>
-<tr><td>– HFC-236cb</td><td>CH<sub>2</sub>FCF<sub>2</sub>CF<sub>3</sub></td><td>1 340</td></tr>
-<tr><td>– HFC-236ea</td><td>CHF<sub>2</sub>CHFCF<sub>3</sub></td><td>1 370</td></tr>
-<tr><td>– HFC-236fa</td><td>C<sub>3</sub>H<sub>2</sub>F<sub>6</sub></td><td>9 810</td></tr>
-<tr><td>– HFC-245ca</td><td>C<sub>3</sub>H<sub>3</sub>F<sub>5</sub></td><td>693</td></tr>
-<tr><td>– HFC-245fa</td><td>CHF<sub>2</sub>CH<sub>2</sub>CF<sub>3</sub></td><td>1 030</td></tr>
-<tr><td>– HFC-365mfc</td><td>CH<sub>3</sub>CF<sub>2</sub>CH<sub>2</sub>CF<sub>3</sub></td><td>794</td></tr>
+<tr><td>– HFC-23</td><td>CHF3</td><td>12 400</td></tr>
+<tr><td>– HFC-32</td><td>CH2F2</td><td>677</td></tr>
+<tr><td>– HFC-41</td><td>CH3F</td><td>116</td></tr>
+<tr><td>– HFC-43-10mee</td><td>CF3CHFCHFCF2CF3</td><td>1 650</td></tr>
+<tr><td>– HFC-125</td><td>CHF2CF3</td><td>3 170</td></tr>
+<tr><td>– HFC-134</td><td>CHF2CHF2</td><td>1 120</td></tr>
+<tr><td>– HFC-134a</td><td>CH2FCF3</td><td>1 300</td></tr>
+<tr><td>– HFC-143</td><td>CH2FCHF2</td><td>328</td></tr>
+<tr><td>– HFC-143a</td><td>CH3CF3</td><td>4 800</td></tr>
+<tr><td>– HFC-152</td><td>CH2FCH2F</td><td>16</td></tr>
+<tr><td>– HFC-152a</td><td>CH3CHF2</td><td>138</td></tr>
+<tr><td>– HFC-161</td><td>CH3CH2F</td><td>4</td></tr>
+<tr><td>– HFC-227ca</td><td>CF3CF2CHF2</td><td>2 640</td></tr>
+<tr><td>– HFC-227ea</td><td>CF3CHFCF3</td><td>3 350</td></tr>
+<tr><td>– HFC-236cb</td><td>CH2FCF2CF3</td><td>1 210</td></tr>
+<tr><td>– HFC-236ea</td><td>CHF2CHFCF3</td><td>1 330</td></tr>
+<tr><td>– HFC-236fa</td><td>CF3CH2CF3</td><td>8 060</td></tr>
+<tr><td>– HFC-245ca</td><td>CH2FCF2CHF2</td><td>716</td></tr>
+<tr><td>– HFC-245cb</td><td>CF3CF2CH3</td><td>4 620</td></tr>
+<tr><td>– HFC-245ea</td><td>CHF2CHFCHF2</td><td>235</td></tr>
+<tr><td>– HFC-245eb</td><td>CH2FCHFCF3</td><td>290</td></tr>
+<tr><td>– HFC-245fa</td><td>CHF2CH2CF3</td><td>858</td></tr>
+<tr><td>– HFC-263fb</td><td>CH3CH2CF3</td><td>76</td></tr>
+<tr><td>– HFC-272ca</td><td>CH3CF2CH3</td><td>144</td></tr>
+<tr><td>– HFC-329p</td><td>CHF2CF2CF2CF3</td><td>2 360</td></tr>
+<tr><td>– HFC-365mfc</td><td>CH3CF2CH2CF3</td><td>804</td></tr>
 <tr><td>Perfluorocarburi</td><td></td><td></td></tr>
-<tr><td>– Perfluorometano – PFC-14</td><td>CF<sub>4</sub></td><td>7 390</td></tr>
-<tr><td>– Perfluoroetano – PFC-116</td><td>C<sub>2</sub>F<sub>6</sub></td><td>12 200</td></tr>
-<tr><td>– Perfluoropropano – PFC-218</td><td>C<sub>3</sub>F<sub>8</sub></td><td>8 830</td></tr>
-<tr><td>– Perfluorobutano – PFC-3-1-10</td><td>C<sub>4</sub>F<sub>10</sub></td><td>8 860</td></tr>
-<tr><td>– Perfluorociclobutano – PFC-318</td><td>c-C<sub>4</sub>F<sub>8</sub></td><td>10 300</td></tr>
-<tr><td>– Perfluourpentano – PFC-4-1-12</td><td>C<sub>5</sub>F<sub>12</sub></td><td>9 160</td></tr>
-<tr><td>– Perfluoroesano – PFC-5-1-14</td><td>C<sub>6</sub>F<sub>14</sub></td><td>9 300</td></tr>
-<tr><td>– Perfluorodecalina – PFC-9-1-18</td><td>C<sub>10</sub>F<sub>18</sub></td><td>&gt;7 500</td></tr>
-<tr><td>Esafluoro di zolfo</td><td>SF<sub>6</sub></td><td>22 800</td></tr>
-<tr><td>Trifluoruro di azoto</td><td>NF<sub>3</sub></td><td>17 200</td></tr>
+<tr><td>– Perfluorometano – PFC-14</td><td>CF4</td><td>6 630</td></tr>
+<tr><td>– Perfluoroetano – PFC-116</td><td>C2F6</td><td>11 100</td></tr>
+<tr><td>– Perfluorciclopropano – PFC c216</td><td>c-C3F6</td><td>9 200</td></tr>
+<tr><td>– Perfluoropropano – PFC-218</td><td>C3F8</td><td>8 900</td></tr>
+<tr><td>– Perfluorbutano – PFC-31-10</td><td>C4F10</td><td>9 200</td></tr>
+<tr><td>– Perfluorociclobutano – PFC-318</td><td>c-C4F8</td><td>9 540</td></tr>
+<tr><td>– Perfluoropentano – PFC-41-12</td><td>n-C5F12</td><td>8 550</td></tr>
+<tr><td>– Perfluoroesano – PFC-51-14</td><td>n-C6F14</td><td>7 910</td></tr>
+<tr><td>– Perfluorettano – PFC-61-16</td><td>n-C7F16</td><td>7 820</td></tr>
+<tr><td>– Perfluorottano – PFC-71-18</td><td>C8F18</td><td>7 620</td></tr>
+<tr><td>– Perfluorodecalina – PFC-91-18</td><td>C<sub>10</sub>F<sub>18</sub></td><td>7 190</td></tr>
+<tr><td>– Perfluorodecalina (cis)</td><td>Z-C10F18</td><td>7 240</td></tr>
+<tr><td>– Perfluorodecalina (trans)</td><td>E-C10F18</td><td>6 290</td></tr>
+<tr><td>Esafluoruro di zolfo</td><td>SF6</td><td>23 500</td></tr>
+<tr><td>Trifluoruro di azoto</td><td>NF3</td><td>16 100</td></tr>
 </table>
 
-Allegato 2[^t-1]
+Allegato 2[^t-2]
 
 (art. 146*l* lett. b)
 
 ## Riduzioni delle emissioni all’estero non computabili
 
-[^t-1]: Aggiornato dal n. II dell’O dell’8 ott. 2014 ([RU 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)), dal n. II cpv. 1 dell’O del 25 nov. 2020 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)) e dal n. II 3 dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^t-2]: Aggiornato dal n. II dell’O dell’8 ott. 2014 ([RU 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)), dal n. II cpv. 1 dell’O del 25 nov. 2020 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)) e dal n. II 3 dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 \1. I seguenti certificati di riduzione delle emissioni non sono computati:
 
@@ -3454,13 +3508,13 @@ Allegato 2[^t-1]
 
 [^annex2-lvlu1-1]: [RS 0.814.011](https://fedlex.data.admin.ch/eli/cc/2004/802)
 
-Allegato 2a[^t-2]
+Allegato 2a[^t-3]
 
 (art. 5 cpv. 1 lett. a)
 
 ## Riduzioni delle emissioni o aumento delle prestazioni dei pozzi di carbonio all’estero per le quali non sono rilasciati attestati
 
-[^t-2]: Introdotto dal n. II cpv. 1 dell’O del 4 mag. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)). Aggiornato dal n. II cpv. 1 dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
+[^t-3]: Introdotto dal n. II cpv. 1 dell’O del 4 mag. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)). Aggiornato dal n. II cpv. 1 dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
 
 \1. Per un progetto o un programma realizzato all’estero non sono rilasciati attestati internazionali se le riduzioni delle emissioni o l’aumento delle prestazioni dei pozzi di carbonio sono conseguiti mediante:
 
@@ -3479,13 +3533,13 @@ Allegato 2a[^t-2]
 
 \2. Nel caso di attività nel settore dei rifiuti con utilizzo energetico differito dei rifiuti, il 55 per cento delle riduzioni delle emissioni viene attestato solo al momento dell’effettivo utilizzo energetico.
 
-Allegato 3[^t-3]
+Allegato 3[^t-4]
 
 (art. 5 cpv. 1 lett. a)
 
 ## Riduzioni delle emissioni o aumento delle prestazioni dei pozzi di carbonio in Svizzera per le quali non sono rilasciati attestati
 
-[^t-3]: Nuovo testo giusta il n. II cpv. 2 dell’O del 4 mag. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)). Aggiornato dal n. II cpv. 1 dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
+[^t-4]: Nuovo testo giusta il n. II cpv. 2 dell’O del 4 mag. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)). Aggiornato dal n. II cpv. 1 dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
 
 Per un progetto o un programma realizzato in Svizzera non sono rilasciati attestati nazionali se le riduzioni delle emissioni o l’aumento delle prestazioni dei pozzi di carbonio sono conseguiti mediante:
 
@@ -3517,13 +3571,13 @@ Per un progetto o un programma realizzato in Svizzera non sono rilasciati attest
 [^annex3-lvlu1-4]: [RS 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)
 [^annex3-lvlu1-5]: [RS 730.03](https://fedlex.data.admin.ch/eli/cc/2017/766)
 
-Allegato 3a[^t-4]
+Allegato 3a[^t-5]
 
 (art. 6 cpv. 3)
 
 ## Requisiti per il calcolo delle riduzioni delle emissioni e il piano di monitoraggio per progetti e programmi connessi a reti di riscaldamento a distanza
 
-[^t-4]: Introdotto dal n. II cpv. 1 dell’O del 21 set. 2018 ([RU 2018 3477](https://fedlex.data.admin.ch/eli/oc/2018/566)). Nuovo testo giusta il n. II cpv. 2 dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)). Correzione del 10 nov. 2023 ([RU 2023 640](https://fedlex.data.admin.ch/eli/oc/2023/640)).
+[^t-5]: Introdotto dal n. II cpv. 1 dell’O del 21 set. 2018 ([RU 2018 3477](https://fedlex.data.admin.ch/eli/oc/2018/566)). Nuovo testo giusta il n. II cpv. 2 dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)). Correzione del 10 nov. 2023 ([RU 2023 640](https://fedlex.data.admin.ch/eli/oc/2023/640)).
 
 ### 1 Campo d’applicazione
 
@@ -3711,14 +3765,14 @@ Nella misurazione della quantità di energia elettrica (Q<sub>el.,y</sub>) devon
 
 \2. Questo valore è stabilito annualmente nel rapporto di monitoraggio come i diritti di emissione rilasciati al gestore degli impianti nel sistema di scambio di quote di emissioni.
 
-Allegato 3b[^t-5]
+Allegato 3b[^t-6]
 
-(art. 6 cpv. 3[^t-6])
+(art. 6 cpv. 3[^t-7])
 
 ## Requisiti per il calcolo della riduzione delle emissioni e il piano di monitoraggio per progetti e programmi riguardanti il gas di discarica
 
-[^t-5]: Introdotto dal n. II cpv. 1 dell’O del 21 set. 2018 ([RU 2018 3477](https://fedlex.data.admin.ch/eli/oc/2018/566)). Aggiornato dal n. II cpv. 1 dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)). Correzione del 10 nov. 2023 ([RU 2023 640](https://fedlex.data.admin.ch/eli/oc/2023/640)).
-[^t-6]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
+[^t-6]: Introdotto dal n. II cpv. 1 dell’O del 21 set. 2018 ([RU 2018 3477](https://fedlex.data.admin.ch/eli/oc/2018/566)). Aggiornato dal n. II cpv. 1 dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)). Correzione del 10 nov. 2023 ([RU 2023 640](https://fedlex.data.admin.ch/eli/oc/2023/640)).
+[^t-7]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
 
 ### 1. Campo d’applicazione
 
@@ -3756,7 +3810,7 @@ Ai sensi del presente allegato si intendono per:
 
 Per la determinazione del valore del fattore di ossidazione (OX) necessario per i calcoli delle riduzioni di emissioni deve essere utilizzato il seguente albero decisionale:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20231110/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20240101/it/xml/image/image1.png)
 
 ### 3.3 Calcolo ex ante della riduzione di metano
 
@@ -3880,13 +3934,13 @@ Nella determinazione della quantità di gas (Q<sub>gas,y</sub>) devono essere ad
 - d. la misurazione deve essere continua o avvenire alla fornitura di ogni nuova bombola di gas; e
 - e. la qualità deve essere garantita secondo le specifiche del fabbricante.
 
-Allegato 4[^t-7]
+Allegato 4[^t-8]
 
 (art. 25 cpv. 2)
 
 ## Calcolo delle emissioni di CO<sub>2</sub> di veicoli in mancanza di dati di cui all’articolo 25 capoverso 2
 
-[^t-7]: Nuovo testo giusta il n. II cpv. 2 dell’O del 25 nov. 2020 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)). Aggiornato dal n. II cpv. 1 dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
+[^t-8]: Nuovo testo giusta il n. II cpv. 2 dell’O del 25 nov. 2020 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)). Aggiornato dal n. II cpv. 1 dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
 
 ### 1 Calcolo delle emissioni di CO<sub>2</sub> per le automobili
 
@@ -3934,27 +3988,23 @@ Allegato 4[^t-7]
 
 - 1\.8. Le emissioni di CO<sub>2</sub> di automobili con motore a combustione che non sono alimentate a diesel o benzina sono calcolate a seconda del motore con le corrispondenti equazioni utilizzate per le automobili alimentate a benzina.
 - 1\.9 Per le automobili alimentate solo a energia elettrica e le automobili alimentate solo con celle a combustibile si applica un valore di emissione di CO<sub>2</sub> di 0 g/km.
-  - CO<sub>2</sub>: emissioni di CO<sub>2</sub> (combinate) in g/km
-  - m: peso a vuoto del veicolo in kg
-  - p: potenza massima del motore in kW
+- CO<sub>2</sub>: emissioni di CO<sub>2</sub> (combinate) in g/km
+- m: peso a vuoto del veicolo in kg
+- p: potenza massima del motore in kW
 
 ### 2 Calcolo delle emissioni di CO<sub>2</sub> per gli autofurgoni e i trattori a sella leggeri
 
-- 2\.1
-
-  Motore diesel e cambio a comando manuale:
-
-  - [tab] CO<sub>2</sub> = 0,101 m + 0,505 p – 39.981
-
+- 2\.1 Motore diesel e cambio a comando manuale:
+- CO<sub>2</sub> = 0,101 m + 0,505 p – 39.981
 - 2\.2
 
   Motore diesel e cambio automatico:
 
   - [tab] CO<sub>2</sub> = 0,108 m – 11,462
-  - CO<sub>2</sub>: emissioni di CO<sub>2</sub> (combinate) in g/km
-  - m: peso a vuoto del veicolo in kg
-  - p: potenza massima del motore in kW
 
+- CO<sub>2</sub>: emissioni di CO<sub>2</sub> (combinate) in g/km
+- m: peso a vuoto del veicolo in kg
+- p: potenza massima del motore in kW
 - 2\.3 Le emissioni di CO<sub>2</sub> degli autofurgoni e dei trattori a sella leggeri, ai quali non si applicano i numeri 2.1 o 2.2, sono calcolate con le corrispondenti equazioni per le automobili di cui al numero 1.
 
 ### 3 Arrotondamento delle emissioni di CO<sub>2</sub>
@@ -3966,13 +4016,13 @@ Allegato 4[^t-7]
   - a. se è uguale o inferiore a 4, il valore della seconda cifra decimale è arrotondato per difetto;
   - b. se è uguale o superiore a 5, il valore della seconda cifra decimale è arrotondato per eccesso.
 
-Allegato 4a[^t-8]
+Allegato 4a[^t-9]
 
 (art. 28)
 
 ## Calcolo dell’obiettivo di emissione individuale
 
-[^t-8]: Introdotto dal n. II cpv. 3 dell’O del 1° nov. 2017 ([RU 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)). Aggiornato dal n. I dell’O del DATEC del 16 set. 2019 ([RU 2019 2959](https://fedlex.data.admin.ch/eli/oc/2019/541)), del 18 set. 2020 1° nov. 2020 ([RU 2020 3911](https://fedlex.data.admin.ch/eli/oc/2020/727)), dal. n. II cpv. 1 dell’O del 25 nov. 2020 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)), dell’O del 24 nov. 2021 ([RU 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)) e dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 798](https://fedlex.data.admin.ch/eli/oc/2022/798)).
+[^t-9]: Introdotto dal n. II cpv. 3 dell’O del 1° nov. 2017 ([RU 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)). Aggiornato dal n. I dell’O del DATEC del 16 set. 2019 ([RU 2019 2959](https://fedlex.data.admin.ch/eli/oc/2019/541)), del 18 set. 2020 1° nov. 2020 ([RU 2020 3911](https://fedlex.data.admin.ch/eli/oc/2020/727)), dal. n. II cpv. 1 dell’O del 25 nov. 2020 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)), dell’O del 24 nov. 2021 ([RU 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)), dal n. I dell’O del 23 nov. 2022 ([RU 2022 798](https://fedlex.data.admin.ch/eli/oc/2022/798)) e dal n. II cpv. 1 dell’O del 29 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
 
 ### 1 Calcolo dell’obiettivo individuale
 
@@ -3996,7 +4046,7 @@ Allegato 4a[^t-8]
 
 -
 
-  Il peso a vuoto medio delle automobili immatricolate per la prima volta era nel:
+  Il peso a vuoto medio delle automobili messe in circolazione per la prima volta era nel:
 
   - a. 2015: 1532 kg;
   - b. 2016: 1563 kg;
@@ -4004,26 +4054,28 @@ Allegato 4a[^t-8]
   - d. 2018: 1601 kg;
   - e. 2019: 1636 kg;
   - f. 2020: 1674 kg;
-  - g. 2021: 1693 kg.
+  - g. 2021: 1693 kg;
+  - h. 2022: 1727 kg.
 
 ### 2.2 Autofurgoni e trattori a sella leggeri
 
 -
 
-  Il peso a vuoto medio degli autofurgoni e dei trattori a sella leggeri immatricolati per la prima volta era nel:
+  Il peso a vuoto medio degli autofurgoni e dei trattori a sella leggeri messi in circolazione per la prima volta era nel:
 
   - a. 2018: 2056 kg;
   - b. 2019: 2067 kg;
   - c. 2021: 2089 kg;
-  - d. 2021: 2094 kg.
+  - d. 2021: 2094 kg;
+  - e. 2022: 2117 kg.
 
-Allegato 5[^t-9]
+Allegato 5[^t-10]
 
 (art. 29 cpv. 1)
 
-## Importi delle sanzioni in caso di superamento dell’obiettivo individuale (art. 13 cpv. 1 legge sul CO<sub>2</sub>)
+## Importi delle sanzioni in caso di superamento dell’obiettivo individuale (art. 13 cpv. 1 della legge sul CO<sub>2</sub>)
 
-[^t-9]: Nuovo testo giusta il n. I cpv. 2 dell’O del DATEC del 21 set. 2018 ([RU 2018 3497](https://fedlex.data.admin.ch/eli/oc/2018/567)). Aggiornato dal n. I dell’O del DATEC del 16 set. 2019 ([RU 2019 2959](https://fedlex.data.admin.ch/eli/oc/2019/541)), del 18 set. 2020, in vigore dal 1° nov. 2020 ([RU 2020 3911](https://fedlex.data.admin.ch/eli/oc/2020/727)), dal n. II cpv. 1 dell’O del 24 nov. 2021 ([RU 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)) e dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 798](https://fedlex.data.admin.ch/eli/oc/2022/798)).
+[^t-10]: Nuovo testo giusta il n. I cpv. 2 dell’O del DATEC del 21 set. 2018 ([RU 2018 3497](https://fedlex.data.admin.ch/eli/oc/2018/567)). Aggiornato dal n. I dell’O del DATEC del 16 set. 2019 ([RU 2019 2959](https://fedlex.data.admin.ch/eli/oc/2019/541)), del 18 set. 2020, in vigore dal 1° nov. 2020 ([RU 2020 3911](https://fedlex.data.admin.ch/eli/oc/2020/727)), dal n. II cpv. 1 dell’O del 24 nov. 2021 ([RU 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)), dal n. I dell’O del 23 nov. 2022 ([RU 2022 798](https://fedlex.data.admin.ch/eli/oc/2022/798)) e dal n. II cpv. 1 dell’O del 29 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
 
 ### 1 Importi delle sanzioni per l’anno di riferimento 2017
 
@@ -4050,17 +4102,17 @@ Gli importi dovuti in caso di superamento dell’obiettivo individuale per ogni 
 - a. per l’anno di riferimento 2019: 111.00 franchi;
 - b. per l’anno di riferimento 2020: 109.00 franchi;
 - c. per l’anno di riferimento 2021: 103.50 franchi;
-
 - d. per l’anno di riferimento 2022: 104.00 franchi;
-- e. per l’anno di riferimento 2023: 101 franchi.
+- e. per l’anno di riferimento 2023: 101.00 franchi;
+- f. per l’anno di riferimento 2024: 95.00 franchi.
 
-Allegato 6[^t-10]
+Allegato 6[^t-11]
 
 (art. 40 cpv. 1)
 
 ## Gestori di impianti con obbligo di partecipazione al SSQE
 
-[^t-10]: Aggiornato dal n. II dell’O dell’8 ott. 2014 ([RU 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)), dall’all. 6 n. 2 dell’O del 4 dic. 2015 sui rifiuti ([RU 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)), dai n. II cpv. 1 delle O del 13 nov. 2019 ([RU 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)) e del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
+[^t-11]: Aggiornato dal n. II dell’O dell’8 ott. 2014 ([RU 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)), dall’all. 6 n. 2 dell’O del 4 dic. 2015 sui rifiuti ([RU 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)), dai n. II cpv. 1 delle O del 13 nov. 2019 ([RU 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)) e del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
 
 Un gestore di impianti che esercita almeno una delle seguenti attività deve partecipare al SSQE:
 
@@ -4093,13 +4145,13 @@ Un gestore di impianti che esercita almeno una delle seguenti attività deve par
 
 [^annex6-lvlu1-1]: [RS 814.600](https://fedlex.data.admin.ch/eli/cc/2015/891)
 
-Allegato 7[^t-11]
+Allegato 7[^t-12]
 
 (art. 42 cpv. 1 lett. a, 66 cpv. 1 lett. a e b nonché cpv. 3 lett. a e b)
 
 ## Attività che autorizzano alla partecipazione al SSQE o all’esenzione dalla tassa con un impegno di riduzione
 
-[^t-11]: Aggiornato dai n. II dell’O dell’8 ott. 2014 ([RU 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)), II cpv. 1 dell’O del 1° nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)).
+[^t-12]: Aggiornato dai n. II dell’O dell’8 ott. 2014 ([RU 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)), II cpv. 1 dell’O del 1° nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)).
 
 - 1\. Coltivazione di piante in serra;
 - 2\. estrazione di pietre e minerali e altre attività estrattive;
@@ -4124,13 +4176,13 @@ Allegato 7[^t-11]
 - 20\. produzione di calore o freddo generata da combustibili fossili, eventualmente combinata con la produzione di energia elettrica, immessa in reti regionali di teleriscaldamento e teleraffreddamento o fornita a gestori di impianti che esercitano attività di cui ai numeri 1–19 e 21;
 - 21\. pulizia di fusti, container e altri contenitori utilizzati in relazione con attività secondo il presente allegato.
 
-Allegato 8[^t-12]
+Allegato 8[^t-13]
 
 (art. 45 cpv. 1 e 48 cpv. 1<sup>bis</sup>)
 
 ## Calcolo della quantità massima di diritti di emissione disponibili per i gestori di impianti nel SSQE e calcolo della quantità in circolazione
 
-[^t-12]: Nuovo testo giusta il n. II cpv. 2 dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
+[^t-13]: Nuovo testo giusta il n. II cpv. 2 dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
 
 ### 1 Calcolo della quantità massima di diritti di emissione disponibili per i gestori di impianti nel SSQE
 
@@ -4155,13 +4207,13 @@ La quantità massima di diritti di emissione disponibili annualmente per l’ins
 
 - 2\.3 La domanda di diritti di emissione per gli impianti è il risultato della seguente sottrazione: le emissioni rilevanti di gas serra degli impianti di cui all’articolo 55 dedotti i certificati di riduzione delle emissioni consegnati per gli anni 2013–2020 a copertura di queste emissioni di gas serra.
 
-Allegato 9[^t-13]
+Allegato 9[^t-14]
 
 (art. 46 cpv. 1, 46*a* cpv. 2 e 46*b* cpv. 1 e 3)
 
 ## Calcolo dei diritti di emissione da assegnare a titolo gratuito per i gestori di impianti nel SSQE
 
-[^t-13]: Aggiornato dai n. II delle O dell’8 ott. 2014 ([RU 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)), del 22 giu. 2016 ([RU 2016 2473](https://fedlex.data.admin.ch/eli/oc/2016/394)), dal n. II cpv. 1 delle O del 13 nov. 2019 ([RU 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)), del 25 nov. 2021 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)), dalla correzione del 10 feb. 2021 ([RU 2021 80](https://fedlex.data.admin.ch/eli/oc/2021/80)), dal n. II cpv. 1 dell’O del 24 nov. 2021 ([RU 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)) e dal n. II cpv. 3 dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^t-14]: Aggiornato dai n. II delle O dell’8 ott. 2014 ([RU 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)), del 22 giu. 2016 ([RU 2016 2473](https://fedlex.data.admin.ch/eli/oc/2016/394)), dal n. II cpv. 1 delle O del 13 nov. 2019 ([RU 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)), del 25 nov. 2021 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)), dalla correzione del 10 feb. 2021 ([RU 2021 80](https://fedlex.data.admin.ch/eli/oc/2021/80)), dal n. II cpv. 1 dell’O del 24 nov. 2021 ([RU 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)), dal n. II cpv. 3 dell’O del 4 mag. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)) e dal n. II cpv. 1 dell’O del 29 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
 
 ### 1 Parametri di riferimento
 
@@ -4231,12 +4283,21 @@ Allegato 9[^t-13]
   - a. all’interno dei limiti del sistema del gestore di impianti, che prende parte al SSQE, sia utilizzato per fabbricare prodotti, generare energia meccanica impiegata a scopi diversi dalla generazione di energia elettrica, riscaldare o refrigerare, comunque non per la generazione di energia elettrica; oppure
   - b. sia esportato a terzi al di fuori del SSQE, fatta eccezione per le esportazioni per la generazione di energia elettrica e il trasferimento del calore importato.
 
-- 1\.3 Se non è applicabile alcun parametro di riferimento relativo al prodotto né il parametro di riferimento relativo al calore, la quantità dei diritti di emissione da assegnare annualmente a titolo gratuito è calcolata secondo il parametro di riferimento relativo ai combustibili nel seguente modo:
-- 42,6 diritti di emissione per TJ di potere calorifico dei combustibili utilizzati
-- 1\.4 Se non è applicabile nessuno dei parametri di riferimento di cui ai numeri 1.1–1.3, la quantità dei diritti di emissione da assegnare annualmente a titolo gratuito è calcolata moltiplicando le emissioni di processo per 0,97.
+- 1\.3 Se non è applicabile alcun parametro di riferimento relativo al prodotto né il parametro di riferimento relativo al calore, la quantità dei diritti di emissione da assegnare annualmente a titolo gratuito è calcolata secondo il parametro di riferimento relativo ai combustibili nel modo seguente:
+-
+
+  42,6 diritti di emissione per TJ di potere calorifico se all’interno dei limiti del sistema del gestore di impianti che prende parte al SSQE:
+
+  - a. mediante combustione di vettori energetici si produce calore non misurabile utilizzato per fabbricare prodotti, generare energia meccanica impiegata a scopi diversi dalla generazione di energia elettrica, riscaldare o refrigerare, ma non per generare energia elettrica; oppure
+  - b. mediante combustione in torcia per ragioni di sicurezza si produce calore non misurabile.
+
+- 1\.4 Se non è applicabile nessuno dei parametri di riferimento di cui ai numeri 1.1–1.3, la quantità dei diritti di emissione da assegnare annualmente a titolo gratuito per le emissioni risultanti direttamente e immediatamente da un processo di produzione è calcolata moltiplicando le emissioni di processo per 0,97.
 - 1\.5 Se si utilizzano gas provenienti da processi e contenenti un elevato tenore di carbonio non completamente ossidato (gas residui), è effettuata un’ulteriore assegnazione a titolo gratuito per compensare le maggiori emissioni di CO<sub>2</sub> e la minore efficienza nell’uso dei gas residui rispetto al gas naturale. Questa assegnazione è effettuata solo se il gas residuo si trova al di fuori di un elemento di assegnazione con un parametro di riferimento relativo al prodotto ed è utilizzato all’interno dell’impianto nel SSQE per generare calore misurabile o non misurabile o per la produzione di energia elettrica.
 - 1\.6 Per il calore risultante dalla produzione di acido nitrico non sono assegnati diritti di emissione a titolo gratuito.
 - 1\.7 Se il calore utilizzato all’interno di un elemento di assegnazione con un parametro di riferimento relativo al prodotto è importato da terzi che non prendono parte al SSQE, risulta dalla produzione di acido nitrico o è generato con energia elettrica o dall’impiego di energia nucleare, l’assegnazione a titolo gratuito calcolata secondo il parametro di riferimento relativo al prodotto è ridotta di questa quantità di calore, moltiplicata per il parametro di riferimento relativo al calore di 47,3 diritti di emissione per TJ.
+- 1\.8 Per gli impianti destinati principalmente allo smaltimento dei rifiuti speciali secondo l’articolo 3 lettera c OPSR[^annex9-lvlu1-lvl1-1], la quantità dei diritti di emissione da assegnare annualmente a titolo gratuito viene calcolata secondo il numero 1.3 per i combustibili di supporto impiegati e secondo il numero 1.4 per le emissioni risultanti dalla combustione dei rifiuti speciali.
+
+[^annex9-lvlu1-lvl1-1]: [RS 814.600](https://fedlex.data.admin.ch/eli/cc/2015/891)
 
 ### 2 Calcolo generale della quantità di diritti di emissione da assegnare a titolo gratuito
 
@@ -4278,7 +4339,7 @@ Allegato 9[^t-13]
 ### [4](https://www.fedlex.admin.ch/eli/cc/2012/856/it) [Fattori di adeguamento particolari per processi di produzione alimentati con combustibili e con energia elettrica](https://www.fedlex.admin.ch/eli/cc/2012/856/it)
 
 - 4\.1 Per le emissioni indirette legate al consumo di energia elettrica non sono assegnati diritti di emissione a titolo gratuito. Nel caso di parametri di riferimento di processi di produzione che possono essere alimentati sia con combustibili sia con energia elettrica, per le emissioni indirette legate al consumo di energia elettrica sono dedotte 0,376 t di CO2 per MWh.
-- [tab] In questi casi, la quantità di diritti di emissione da assegnare annualmente a titolo gratuito è calcolata come segue:
+- In questi casi, la quantità di diritti di emissione da assegnare annualmente a titolo gratuito è calcolata come segue:
 - *Assegnazione**<sub>i</sub>* *= (E**<sub>dirette</sub>* */ (E**<sub>dirette</sub>* *+ E**<sub>indirette</sub>**)) \* PR \* QA \* FA**<sub>i</sub>* *\* FCI**<sub>i</sub>*
 - Assegnazione<sub>i</sub> assegnazione nell’anno i
 - E<sub>dirette</sub> emissioni dirette all’interno del rispettivo elemento di assegnazione con parametro di riferimento relativo al prodotto nel periodo di riferimento di cui al numero 2. Si tiene conto anche delle emissioni del calore consumato all’interno dell’elemento di assegnazione prelevato direttamente da altri impianti nel o fuori dal SSQE; queste emissioni sono calcolate in 47,3 t CO2 per TJ.
@@ -4311,10 +4372,10 @@ Allegato 9[^t-13]
 ### 5.1 Adeguamento della quantità di diritti di emissione da assegnare a titolo gratuito secondo l’articolo 46*b* capoverso 1
 
 - 5\.1.1 La quantità calcolata di diritti di emissione da assegnare a titolo gratuito è adeguata se il valore assoluto dello scarto relativo tra la media aritmetica delle quote di attività dei due anni precedenti e la quota di attività storica è superiore al 15 per cento. Il valore assoluto dello scarto relativo è calcolato come segue:
-- [tab] *ass(X**<sub>i</sub>**) = ass(mQA**<sub>i</sub>* *– sQA) / sQA*
-- [tab] ass(X<sub>i</sub>) = valore assoluto dello scarto relativo nell’anno i
-- [tab] mQA<sub>i</sub> = media aritmetica delle quote di attività dei due anni precedenti i-1 e i-2;
-- [tab] sQA = quota di attività storica
+- ass(X<sub>i</sub>) = ass(mQA<sub>i</sub> – sQA) / sQA
+- ass(X<sub>i</sub>) = valore assoluto dello scarto relativo nell’anno i
+- mQA<sub>i</sub> = media aritmetica delle quote di attività dei due anni precedenti i-1 e i‑2;
+- sQA = quota di attività storica
 - 5\.1.2
 
   Per l’adeguamento della quantità di diritti di emissione da assegnare a titolo gratuito si applica la seguente quota di attività determinante:
@@ -4325,10 +4386,10 @@ Allegato 9[^t-13]
 ### 5.2 Adeguamento della quantità di diritti di emissione da assegnare a titolo gratuito secondo l’articolo 46*b* capoverso 4
 
 - 5\.2.1 La quantità calcolata di diritti di emissione da assegnare a titolo gratuito è adeguata annualmente se il valore assoluto dello scarto relativo tra la media aritmetica dei valori di un parametro considerato nel calcolo dell’assegnazione dei due anni precedenti e il valore storico dello stesso parametro supera il 15 per cento. Il valore assoluto dello scarto relativo è calcolato come segue:
-- [tab] *ass(Z**<sub>i</sub>**) = ass(mZP**<sub>i</sub>* *– sZP) / sZP*
-- [tab] ass(Z<sub>i</sub>) = valore assoluto dello scarto nell’anno i
-- [tab] mZPi = media aritmetica dei valori di un parametro secondo il numero 5.2.3 dei due anni precedenti i-1 e i-2;
-- [tab] sZP = valore storico del parametro nel periodo di riferimento di cui al numero 2.
+- *ass(Z**<sub>i</sub>**) = ass(mZP**<sub>i</sub>* *– sZP) / sZP*
+- ass(Z<sub>i</sub>) = valore assoluto dello scarto nell’anno i
+- mZPi = media aritmetica dei valori di un parametro secondo il numero 5.2.3 dei due anni precedenti i-1 e i-2;
+- sZP = valore storico del parametro nel periodo di riferimento di cui al numero 2.
 - 5\.2.2 Per l’adeguamento della quantità di diritti di emissione da assegnare a titolo gratuito per l’anno i, mZP<sub>i</sub> è il valore determinante del parametro.
 - 5\.2.3
 
@@ -4337,16 +4398,16 @@ Allegato 9[^t-13]
   - 1\. il calore utilizzato all’interno di un elemento di assegnazione con parametro di riferimento relativo al prodotto secondo il numero 1.7;
   - 2\. il rapporto tra le emissioni dirette e la somma delle emissioni dirette e indirette secondo il numero 4.1.
 
-Allegato 10[^t-14]
+Allegato 10[^t-15]
 
 (art. 86 cpv. 1 e 89 cpv. 2)
 
 ## Carburanti le cui emissioni di CO<sub>2</sub> devono essere compensate
 
-[^t-14]: Nuovo testo giusta l’all. 2 n. 3 dell’O del 29 mar. 2017 riguardante l’inventario federale dei paesaggi, siti e monumenti naturali, in vigore dal 1° giu. 2017 ([RU 2017 2815](https://fedlex.data.admin.ch/eli/oc/2017/290)).
+[^t-15]: Nuovo testo giusta l’all. 2 n. 3 dell’O del 29 mar. 2017 riguardante l’inventario federale dei paesaggi, siti e monumenti naturali, in vigore dal 1° giu. 2017 ([RU 2017 2815](https://fedlex.data.admin.ch/eli/oc/2017/290)).
 
 <table>
-<tr><td>Voce della tariffa doganale[^annex10-lvlu1-1]</td><td>Designazione della merce</td><td>Fattore di emissione t CO<sub>2</sub> per 1000 kg</td><td>Fattore di emissione t CO<sub>2</sub> per TJ</td><td>Fattore di emissione t CO<sub>2</sub> per m<sup>3</sup></td></tr>
+<tr><th>Voce della tariffa doganale[^annex10-lvlu1-1]</th><th>Designazione della merce</th><th>Fattore di emissione t CO<sub>2</sub> per 1000 kg</th><th>Fattore di emissione t CO<sub>2</sub> per TJ</th><th>Fattore di emissione t CO<sub>2</sub> per m<sup>3</sup></th></tr>
 <tr><td>2710.1211</td><td>Benzina e sue frazioni, nonché quota di oli minerali in miscele di questa voce, senza la benzina avio</td><td>3,15</td><td>73,80 a un potere calorifico (PCI) di 42,6 MJ/kg</td><td>2,32 a una densità\* di 737 kg/m<sup>3</sup></td></tr>
 <tr><td>ex 2710.1211</td><td>Benzina avio</td><td>3,17</td><td>72,50 a un potere calorifico (PCI) di 43,7 MJ/kg</td><td>2,27 a una densità\* di 715 kg/m<sup>3</sup></td></tr>
 <tr><td>2710.1911</td><td>Petrolio, incl. cherosene</td><td>3,14</td><td>72,80 a un potere calorifico (PCI) di 43,2 MJ/kg</td><td>2,51 a una densità\* di 799 kg/m<sup>3</sup></td></tr>
@@ -4362,13 +4423,13 @@ Allegato 10[^t-14]
 
 [^annex10-lvlu1-1]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871), allegato
 
-Allegato 11[^t-15]
+Allegato 11[^t-16]
 
 (art. 94 cpv. 2)
 
 ## Tariffa della tassa sul CO<sub>2</sub> sui combustibili: 120 franchi per tonnellata di CO<sub>2</sub>
 
-[^t-15]: Nuovo testo giusta il n. II cpv. 2 dell’O del 24 nov. 2021 ([RU 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)). Aggiornato dal n. II cpv. 3 dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^t-16]: Nuovo testo giusta il n. II cpv. 2 dell’O del 24 nov. 2021 ([RU 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)). Aggiornato dal n. II cpv. 3 dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 ### 1 …
 
@@ -4466,13 +4527,13 @@ Per i combustibili menzionati qui di seguito si applicano le seguenti aliquote:
 
 - I combustibili impiegati conformemente al numero 3.1 sono assoggettati alle aliquote della tassa di cui al numero 2.
 
-Allegato 12[^t-16]
+Allegato 12[^t-17]
 
 (art. 112–113*b*)
 
 ## Impiego diretto della geotermia per la produzione di calore
 
-[^t-16]: Introdotto dal n. II cpv. 3 dell’O del 1° nov. 2017 ([RU 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)). Aggiornato dal n. II cpv. 1 dell’O del 24 nov. 2021 ([RU 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)) e dal n. III dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
+[^t-17]: Introdotto dal n. II cpv. 3 dell’O del 1° nov. 2017 ([RU 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)). Aggiornato dal n. II cpv. 1 dell’O del 24 nov. 2021 ([RU 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)) e dal n. III dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
 
 ### 1 Prospezione e sfruttamento
 
@@ -4624,21 +4685,35 @@ Allegato 12[^t-16]
 [^annex12-lvlu1-lvl5-1]: [RS 510.62](https://fedlex.data.admin.ch/eli/cc/2008/388)
 [^annex12-lvlu1-lvl5-2]: [RS 510.624](https://fedlex.data.admin.ch/eli/cc/2008/391)
 
-Allegato 13[^t-17]
+Allegato 13[^t-18]
 
-(art. 46*d*)
+(art. 46*d,* 46*g* e 53)
 
 ## Operatori di aeromobili con obbligo di partecipazione al SSQE
 
-[^t-17]: Introdotto dal n. II cpv. 3 dell’O del 13 nov. 2019 ([RU 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)). Aggiornato dal n. II cpv. 3 dell’O del 4 mag. 2022, in vigore dal 1° gen. 2023 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^t-18]: Introdotto dal n. II cpv. 3 dell’O del 13 nov. 2019 ([RU 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)). Aggiornato dal n. II cpv. 3 dell’O del 4 mag. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)) e dal n. II cpv. 1 dell’O del 29 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
 
 - 1\.
 
   Gli operatori di aeromobili hanno l’obbligo di partecipazione al SSQE se effettuano i seguenti voli:
 
   - a. voli nazionali in Svizzera;
-  - b. voli provenienti dalla Svizzera verso gli Stati membri dello SEE;
+  - b. voli provenienti dalla Svizzera verso gli Stati membri dello SEE, inclusi voli verso regioni ultraperiferiche;
   - c. voli dalla Svizzera al Regno Unito di Gran Bretagna e Irlanda del Nord (UK).
+
+- 1*a*
+
+  Sono considerate regioni ultraperiferiche:
+
+  - a. Guadalupa;
+  - b. Guyana francese;
+  - c. Martinica;
+  - d. Mayotte;
+  - e. Riunione;
+  - f. Saint-Martin;
+  - g. Azzorre;
+  - h. Madeira;
+  - i. Isole Canarie.
 
 - 2\.
 
@@ -4655,32 +4730,20 @@ Allegato 13[^t-17]
   - i. i voli con aeromobili con un peso massimo al decollo inferiore a 5700 kg;
   - j. i voli effettuati da operatori di aeromobili commerciali che, per tre quadrimestri consecutivi, effettuano meno di 243 voli ai sensi del numero 1 o le cui emissioni annue totali sono inferiori a 10 000 t di CO<sub>2</sub>;
   - k. i voli effettuati da operatori di aeromobili non commerciali, a condizione che le emissioni annue totali dei voli effettuati da tali gestori ai sensi del numero 1 siano inferiori a 1000 t di CO<sub>2</sub>;
-  - l.
-
-    i voli dalla Svizzera verso un aeroporto nelle seguenti aree:
-
-    - 1\. Guadalupa,
-    - 2\. Guyana francese,
-    - 3\. Martinica,
-    - 4\. Mayotte,
-    - 5\. Riunione,
-    - 6\. Saint-Martin,
-    - 7\. Azzorre,
-    - 8\. Madeira,
-    - 9\. Isole Canarie.
+  - l. ...
 
 - 3\. Le deroghe secondo il numero 2 lettere j e k non si applicano agli operatori di aeromobili soggetti al SSQE europeo.
 - 4\. L’assegnazione dei voli ai quadrimestri di cui al numero 2 lettera j si basa sull’ora locale di partenza di ciascun volo.
 
 [^annex13-lvlu1-1]: [RS 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
 
-Allegato 14[^t-18]
+Allegato 14[^t-19]
 
 (art. 46*d* cpv. 1 e 2, 51 cpv. 1, 2 e 4, 52 cpv. 1, 6 e 7, 53 cpv. 1 e 2, 55 cpv. 2 e 130 cpv. 1)
 
 ## Autorità competente per i partecipanti al SSQE
 
-[^t-18]: Introdotto dal n. II cpv. 3 dell’O del 13 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
+[^t-19]: Introdotto dal n. II cpv. 3 dell’O del 13 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
 
 ### 1 Gestori di impianti
 
@@ -4700,48 +4763,104 @@ Allegato 14[^t-18]
 
 [^annex14-lvlu1-lvl2-1]: Cfr. nota a piè di pagina all’art. 135 lett. f.
 
-Allegato 15[^t-19]
+Allegato 15[^t-20]
 
-(art. 46*e* e 46*f*)
+(art. 46*e,* 46*f* e 46g)
 
 ## Calcolo della quantità massima di diritti di emissione disponibili e della quantità di diritti di emissione da assegnare a titolo gratuito per gli operatori di aeromobili
 
-[^t-19]: Introdotto dal n. II cpv. 3 dell’O del 13 nov. 2019 ([RU 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)). Aggiornato dal n. II cpv. 1 dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
+[^t-20]: Introdotto dal n. II cpv. 3 dell’O del 13 nov. 2019 ([RU 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)). Nuovo testo giusta il n. II cpv. 2 dell’O del 29 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
 
-- 1\. La quantità di diritti di emissione è calcolata in base al seguente parametro di riferimento:
-- 0,000642186914222035 diritti di emissione per tonnellata-chilometro
-- 2\. La quantità massima totale di diritti di emissione disponibili nel 2020 per gli aeromobili è calcolata come segue:
-- [tab] *Cap**<sub>2020</sub>* *= ∑tkm**<sub>CH-SSQE</sub>* *\* PR \* 100 / 82*
-- Cap<sub>2020</sub> limite massimo delle emissioni per il 2020
-- ∑tkm<sub>CH-SSQE</sub> Somma delle tonnellate-chilometro nel 2018 nel SSQE svizzero
-- PR parametro di riferimento
-- 3\. La quantità massima annua di diritti di emissione disponibili dal 2021 per gli aeromobili è calcolata moltiplicando il limite massimo delle emissioni per il 2020 per il fattore di riduzione annuale del 2,2 per cento rispetto al 2020 secondo la seguente formula:
-- [tab] *Cap**<sub>202x</sub>* *= Cap**<sub>2020</sub>* *– x \* 0,022 \* Cap**<sub>2020</sub>*
-- Cap<sub>202x</sub> limite massimo delle emissioni per il 202x; con x = 1, 2, 3 ecc.
-- 4\.
+- **1.** **Calcolo della quantità massima di diritti di emissione disponibili annualmente per tutti gli operatori di aeromobili**
+- **1.1** **Base per il calcolo**
+- 1\.1.1
 
-  La quantità di diritti di emissione massima disponibile è utilizzata come segue:
+  La quantità massima di diritti di emissione disponibili annualmente per tutti gli operatori di aeromobili è calcolata in base ai seguenti valori del parametro di riferimento (PR):
+
+  - a. per gli anni dal 2020 al 2023: 0,000642186914222035 diritti di emissione per tonnellata-chilometro (PR<sub>2020</sub>);
+  - b. per l’anno 2024: 0,000481640185666526 diritti di emissione per tonnellata-chilometro (PR<sub>2024</sub>);
+  - c. per l’anno 2025: 0,000321093457111017 diritti di emissione per tonnellata-chilometro (PR<sub>2025</sub>);
+
+- 1\.1.2
+
+  Dove:
+
+  - – tonnellate-chilometro (tkm): distanza [km] \* carico utile [t];
+  - – distanza: distanza ortodromica tra l’aerodromo di partenza e l’aerodromo di arrivo maggiorata di 95 km;
+  - – carico utile: massa totale di merci, posta, passeggeri e bagagli trasportata.
+
+- 1\.1.3
+
+  Per calcolare il carico utile si applica quanto segue:
+
+  - a. il numero dei passeggeri comprende il numero di persone a bordo dell’aeromobile, escluso l’equipaggio;
+  - b.
+
+    l’operatore di aeromobile può applicare:
+
+    - – la massa (massa effettiva o massa standard riferita ai passeggeri e al bagaglio imbarcato) che figura nella sua documentazione sul calcolo della massa e del bilanciamento, o
+    - – un valore standard pari a 100 kg per passeggero e relativo bagaglio imbarcato.
+
+- **1.2.** **Calcolo** **per i singoli anni**
+- La quantità massima di diritti di emissione disponibili annualmente per tutti i gestori di aeromobili è calcolata come segue:
+- 1\.2.1 Quantità massima disponibile nel 2020
+- *Cap**<sub>2020</sub>* *= ∑**tkm**<sub>CH-SSQE</sub>* *\* PR**<sub>2020</sub>* *\* 100 / 82*
+- dove:
+- Cap<sub>2020</sub> Limite massimo delle emissioni per il 2020
+- ∑tkm<sub>CH-SSQE</sub> Somma delle tonnellate-chilometro nel 2018 nel SSQE svizzero (senza voli nelle regioni ultraperiferiche)
+- PR<sub>2020</sub> Parametro di riferimento per il 2020
+- 1\.2.2 Quantità massima annua disponibile negli anni dal 2021 al 2023
+- *Cap**<sub>202x</sub>* *= Cap**<sub>2020</sub>* *– x \* 0,022 \* Cap**<sub>2020</sub>*
+- dove:
+- Cap<sub>202x</sub> Limite massimo delle emissioni per il 202x; con x = 1, 2, 3.
+- 1\.2.3 Quantità massima annua disponibile a partire dal 2024
+- *Cap**<sub>202x</sub>* *=* *Cap**<sub>2023</sub>* *consolidato + Cap(RUP)**<sub>2023</sub>* *virtuale – (x–3) \* 0,043 \* (Cap**<sub>2020</sub>* *consolidato* *+* *Cap(RUP)**<sub>2020</sub>* *virtuale)*
+- dove:
+- Cap<sub>202x</sub> Limite massimo delle emissioni per il 202x; con x = 4, 5.
+- Cap<sub>2023</sub> consolidato = 0,934 \* 0,97 \* Cap<sub>2020</sub>
+- Cap(RUP)<sub>2023</sub> virtuale = 0,934 \* ∑tkmRUP \* PR<sub>2020</sub> \* 0,97 / 0,82
+- ∑tkmRUP = somma delle tonnellate-chilometro nel 2018 risultante dai voli nelle regioni ultraperiferiche (RUP).
+- Cap<sub>2020</sub> consolidato = 0,97 \* Cap<sub>2020</sub>
+- Cap(RUP)<sub>2020</sub> virtuale= ∑tkmRUP \* PR<sub>2020</sub> \* 0,97 / 0,82
+- **2.** **Utilizzazione della quantità massima di diritti di emissione disponibili** **annualmente** **per tutti gli operatori di aeromobili**
+-
+
+  La quantità massima di diritti di emissione disponibili annualmente per tutti gli operatori di aeromobili è utilizzata come segue negli anni dal 2020 al 2023:
 
   - a. l’82 per cento è a disposizione per l’assegnazione a titolo gratuito agli operatori di aeromobili;
   - b. il 15 per cento è trattenuto per l’asta;
   - c. il 3 per cento è trattenuto per gli operatori di aeromobili che partecipano per la prima volta o che si trovano in forte crescita.
 
-- 5\. Nel 2020 la quantità di diritti di emissione trattenuta secondo l’articolo 46*e* capoverso 3 lettera c per l’anno 2020 è eliminata.
-- 6\. La quantità di diritti di emissione assegnata a titolo gratuito a ciascun operatore di aeromobili per il 2020 è calcolata secondo la seguente formula:
-- [tab] *Assegnazione = ∑tkm**<sub>gestore</sub>* *\* PR*
-- ∑tkm<sub>gestore</sub> Somma delle tonnellate-chilometro nel 2018 del gestore nel SSQE svizzero
-- PR parametro di riferimento
-- 7\. La quantità di diritti di emissione assegnata a titolo gratuito a ciascun operatore di aeromobili dal 2021 è calcolata secondo la seguente formula:
-- *Assegnazione**<sub>202x</sub>* *=* *Assegnazione**<sub>2020</sub>* *– x \* 0,022 \* assegnazione**<sub>2020</sub>*
-- *Assegnazione**<sub>202x</sub>* Assegnazione per l’anno 202x; con x = 1, 2, 3 ecc.
+- **3.** **Quantità di diritti di emissione da assegnare a titolo gratuito a un operatore di aeromobili secondo l’articolo 46***f*
+- La quantità di diritti di emissione da assegnare a titolo gratuito a un operatore di aeromobili di cui all’articolo 46*f* è calcolata come segue:
+- **3.1** **Quantità da** **assegnare** **a titolo gratuito per il 2020**
+- *Assegnazione**<sub>2020</sub>* *= ∑tkm**<sub>gestore</sub>* *\* PR**<sub>2020</sub>*
+- dove:
+- ∑tkm<sub>gestore</sub> Somma delle tonnellate-chilometro nel 2018 del gestore nel SSQE svizzero (senza voli nelle regioni ultraperiferiche).
+- PR<sub>2020</sub> Parametro di riferimento per gli anni dal 2020 al 2023.
+- **3.2** **Quantità** **da assegnare a titolo gratuito per gli anni dal 2021 al 2023**
+- *Assegnazione**<sub>202x</sub>* *= Assegnazione**<sub>2020</sub>* *– x \* 0,022 \* assegnazione**<sub>2020</sub>*
+- dove:
+- Assegnazione<sub>202x</sub> Assegnazione per l’anno 202x; con x = 1, 2, 3.
+- **3.3** **Quantità** **da assegnare a titolo gratuito per il 2024**
+- *Assegnazione**<sub>2024; senza RUP</sub>* *= 0,891\*∑tkm**<sub>gestore</sub>* *\* PR**<sub>2024</sub>*
+- **3.4** **Quantità** **da assegnare a titolo gratuito per il 2025**
+- *Assegnazione**<sub>2025; senza RUP</sub>* *= 0,848\*∑tkm**<sub>gestore</sub>* *\* PR**<sub>2025</sub>*
+- **4.** **Quantità di diritti di emissione supplementari da assegnare a titolo gratuito a un operatore di aeromobili secondo l’articolo 46***g* **per i voli verso regioni ultraperiferiche**
+- La quantità di diritti di emissione supplementari da assegnare a titolo gratuito a un operatore di aeromobili secondo l’articolo 46*g* per i voli verso regioni ultraperiferiche è calcolata come segue:
+- **4.1** **Quantità** **supplementare da assegnare a titolo gratuito per il 2024**
+- *Assegnazione**<sub>2024; RUP</sub>* *= 0,891\*∑tkm**<sub>gestoreRUP</sub>* *\* PR**<sub>2024</sub>*
+- ∑tkm<sub>gestoreRUP</sub> Somma delle tonnellate-chilometro del gestore nel 2018 risultante dai voli nelle regioni ultraperiferiche
+- **4.2.** **Quantità** **supplementare da assegnare a titolo gratuito per il 2025**
+- *Assegnazione2025; RUP = 0,848\*∑tkmgestoreRUP \* PR2025*
 
-Allegato 16[^t-20]
+Allegato 16[^t-21]
 
 (art. 51)
 
 ## Requisiti relativi al piano di monitoraggio
 
-[^t-20]: Introdotto dal n. II cpv. 3 dell’O del 13 nov. 2019 ([RU 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)). Aggiornato dal n. II cpv. 1 dell’O del 25 nov. 2020 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)) e dal n. II cpv. 3 dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^t-21]: Introdotto dal n. II cpv. 3 dell’O del 13 nov. 2019 ([RU 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)). Aggiornato dal n. II cpv. 1 dell’O del 25 nov. 2020 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)), dal n. II cpv. 3 dell’O del 4 mag. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)) e dal n. II cpv. 1 dell’O del 29 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
 
 ### 1 Piano di monitoraggio per gestori di impianti
 
@@ -4781,20 +4900,20 @@ Allegato 16[^t-20]
 - 3\.1 Le emissioni di CO<sub>2</sub>, espresse in tonnellate, sono calcolate secondo la formula seguente:
 - *emissioni di CO**<sub>2</sub>* *[t CO**<sub>2</sub>**] = combustibile consumato [t combustibile] × fattore di emissione [t CO**<sub>2</sub>**/t combustibile].*
 - 3\.2 Devono essere utilizzati i seguenti fattori di emissione [t CO<sub>2</sub>/t combustibile] per i diversi combustibili:
-- cherosene (Jet A-1 o Jet A): 3,15
+- cherosene (Jet A-1 o Jet A): 3,16
 - Jet B: 3,10
 - carburante per aeromobili (AvGas): 3,10
 - 3\.3 Il fattore di emissione per i combustibili da biomassa è pari a zero, a condizione che la biomassa utilizzata soddisfi i criteri di sostenibilità di cui all’articolo 29 della direttiva (UE) 2018/2001[^annex16-lvlu1-lvl3-1].
 
 [^annex16-lvlu1-lvl3-1]: Direttiva (UE) 2018/2001 del Parlamento europeo e del Consiglio, dell’11 dicembre 2018, sulla promozione dell’uso dell’energia da fonti rinnovabili (rifusione), GU L 328 del 21.12.2018, pag. 82.
 
-Allegato 17[^t-21]
+Allegato 17[^t-22]
 
 (art. 52)
 
 ## Requisiti posti al rapporto di monitoraggio
 
-[^t-21]: Introdotto dal n. II cpv. 3 dell’O del 13 nov. 2019 ([RU 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)). Aggiornato dal n. II cpv. 1 dell’O del 25 nov. 2020 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)) e dal n. II cpv. 3 dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^t-22]: Introdotto dal n. II cpv. 3 dell’O del 13 nov. 2019 ([RU 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)). Aggiornato dal n. II cpv. 1 dell’O del 25 nov. 2020 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)) e dal n. II cpv. 3 dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 ### 1 Rapporto di monitoraggio per gestori di impianti
 
@@ -4831,13 +4950,13 @@ Allegato 17[^t-21]
 
 [^annex17-lvlu1-lvl2-1]: Cfr. nota a piè di pagina all’art. 52 cpv. 5.
 
-Allegato 18[^t-22]
+Allegato 18[^t-23]
 
 (art. 52)
 
 ## Verifica dei rapporti di monitoraggio degli operatori di aeromobili e dei requisiti posti all’organismo di controllo
 
-[^t-22]: Introdotto dal n. II cpv. 3 dell’O del 13 nov. 2019 ([RU 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)). Aggiornato dal n. II cpv. 3 dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^t-23]: Introdotto dal n. II cpv. 3 dell’O del 13 nov. 2019 ([RU 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)). Aggiornato dal n. II cpv. 3 dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 ### 1 Obblighi dell’organismo di controllo e dell’operatore di aeromobile
 
