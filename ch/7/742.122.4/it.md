@@ -4,11 +4,11 @@ title: "Ordinanza dell'UFT del 14 maggio 2012 concernente l'accesso alla rete fe
 short: OARF-UFT
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/371"
 language: it
-version: 2023-01-01
+version: 2024-01-01
 adopted: 2012-05-14
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/371/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2012-371-20230101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/371/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/371/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2012-371-20240101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/371/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/371/20230101/it"
 
 (OARF-UFT)[^t-1]
 
-del 14 maggio 2012 (Stato 1° gennaio 2023)
+del 14 maggio 2012 (Stato 1° gennaio 2024)
 
 [^t-1]: Nuovo testo giusta il n. I dell’O dell’UFT 21 set. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3469](https://fedlex.data.admin.ch/eli/oc/2016/585)).
 
@@ -363,10 +363,13 @@ Per veicoli per i quali all’entrata in vigore della modifica del 14 novembre 2
 
 **Disposizione transitoria concernente la modifica del 15 dicembre 2022**[^12b-1]
 
-Per i treni del traffico regionale viaggiatori beneficiario di indennità secondo l’articolo 28 della legge del 20 marzo 2009[^12b-2] sul trasporto di viaggiatori, del carico di autoveicoli e del traffico merci, compresi i relativi treni di locomotive e corse a vuoto, fino al 31 dicembre 2023 il prezzo dell’energia elettrica secondo l’articolo 3 capoverso 1 è di 12 ct./kWh.
+<sup>1</sup> Per i treni del traffico regionale viaggiatori beneficiario di indennità secondo l’articolo 28 della legge del 20 marzo 2009[^12b-2] sul trasporto di viaggiatori, del carico di autoveicoli e del traffico merci, compresi i relativi treni di locomotive e corse a vuoto, fino al 31 dicembre 2023 il prezzo dell’energia elettrica secondo l’articolo 3 capoverso 1 è di 12 ct./kWh.
+
+<sup>2</sup> Il termine di cui al capoverso 1 è prorogato fino al 31 dicembre 2024.[^12b-3]
 
 [^12b-1]: Introdotto dal n. I dell’O dell’UFT del 15 dic. 2022, in vigore dal 1° gen. 2023 ([RU 2022 829](https://fedlex.data.admin.ch/eli/oc/2022/829)).
 [^12b-2]: [RS 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
+[^12b-3]: Introdotto dal n. I dell’O dell’UFT del 27 nov. 2023, in vigore dal 1° gen. 2024 (RU **202****3**718).
 
 #### Art. 13
 

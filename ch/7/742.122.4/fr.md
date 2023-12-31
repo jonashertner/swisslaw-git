@@ -4,11 +4,11 @@ title: "Ordonnance de l'OFT du 14 mai 2012 sur l'accès au réseau ferroviaire (
 short: OARF-OFT
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/371"
 language: fr
-version: 2023-01-01
+version: 2024-01-01
 adopted: 2012-05-14
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/371/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2012-371-20230101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/371/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/371/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2012-371-20240101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/371/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/371/20230101/fr"
 
 (OARF-OFT)[^t-1]
 
-du 14 mai 2012 (État le 1<sup>er</sup> janvier 2023)
+du 14 mai 2012 (État le 1<sup>er</sup> janvier 2024)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O de l’OFT du 21 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 3469](https://fedlex.data.admin.ch/eli/oc/2016/585)).
 
@@ -363,10 +363,13 @@ Le supplément selon l’art. 20*a*, al. 3, OARF n’est pas perçu jusqu’au 3
 
 **Disposition transitoire de la modification du 15 décembre 2022**[^12b-1]
 
-Pour les trains du transport régional de voyageurs indemnisé conformément à l’art. 28 de la loi du 20 mars 2009 sur le transport de voyageurs[^12b-2] et pour ceux du chargement des automobiles et du transport de marchandises, y compris les courses à vide et trains de locomotives correspondants, le prix de l’électricité conformément à l’art. 3, al. 1, est fixé à 12 ct./kWh jusqu’au 31 décembre 2023.
+<sup>1</sup> Pour les trains du transport régional de voyageurs indemnisé conformément à l’art. 28 de la loi du 20 mars 2009 sur le transport de voyageurs[^12b-2] et pour ceux du chargement des automobiles et du transport de marchandises, y compris les courses à vide et trains de locomotives correspondants, le prix de l’électricité conformément à l’art. 3, al. 1, est fixé à 12 ct./kWh jusqu’au 31 décembre 2023.
+
+<sup>2</sup> La durée de validité visée à l’al. 1 est prolongée jusqu’au 31 décembre 2024.[^12b-3]
 
 [^12b-1]: Introduit par le ch. I de l’O de l’OFT du 15 déc. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 829](https://fedlex.data.admin.ch/eli/oc/2022/829)).
 [^12b-2]: [RS 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
+[^12b-3]: Introduit par le ch. I de l’O de l’OFT du 27 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 718](https://fedlex.data.admin.ch/eli/oc/2023/718)).
 
 #### Art. 13
 

@@ -4,11 +4,11 @@ title: Verordnung des BAV vom 14. Mai 2012 über den Eisenbahn-Netzzugang (NZV-B
 short: NZV-BAV
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/371"
 language: de
-version: 2023-01-01
+version: 2024-01-01
 adopted: 2012-05-14
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/371/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2012-371-20230101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/371/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/371/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2012-371-20240101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/371/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/371/20230101/de"
 
 (NZV-BAV)[^t-1]
 
-vom 14. Mai 2012 (Stand am 1. Januar 2023)
+vom 14. Mai 2012 (Stand am 1. Januar 2024)
 
 [^t-1]: Fassung gemäss Ziff. I der V des BAV vom 21. Sept. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 3469](https://fedlex.data.admin.ch/eli/oc/2016/585)).
 
@@ -363,10 +363,13 @@ Für Fahrzeuge, für die beim Inkrafttreten der Änderung vom 14. November 2019 
 
 **Übergangsbestimmung zur Änderung vom 15. Dezember 2022**[^12b-1]
 
-Für Züge des abgeltungsberechtigten regionalen Personenverkehrs nach Artikel 28 des Personenbeförderungsgesetzes vom 20. März 2009[^12b-2], des Autoverlads und des Güterverkehrs, einschliesslich der zugehörigen Leerfahrten und Lokzüge, beträgt der Strompreis nach Artikel 3 Absatz 1 dieser Verordnung bis zum 31. Dezember 2023 12 Rp./kWh.
+<sup>1</sup> Für Züge des abgeltungsberechtigten regionalen Personenverkehrs nach Artikel 28 des Personenbeförderungsgesetzes vom 20. März 2009[^12b-2], des Autoverlads und des Güterverkehrs, einschliesslich der zugehörigen Leerfahrten und Lokzüge, beträgt der Strompreis nach Artikel 3 Absatz 1 dieser Verordnung bis zum 31. Dezember 2023 12 Rp./kWh.
+
+<sup>2</sup> Die Geltungsdauer nach Absatz 1 wird bis zum 31. Dezember 2024 verlängert.[^12b-3]
 
 [^12b-1]: Eingefügt durch Ziff. I der V des BAV vom 15. Dez. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 829](https://fedlex.data.admin.ch/eli/oc/2022/829)).
 [^12b-2]: [SR 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
+[^12b-3]: Eingefügt durch Ziff. I der V des BAV vom 27. Nov. 2023, in Kraft seit 1. Jan. 2024 (AS **202****3** 718).
 
 #### Art. 13
 
