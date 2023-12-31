@@ -4,13 +4,12 @@ number: "722.11"
 title: Gesetz über die Gebäudeversicherung
 short: Gebäudeversicherungsgesetz; GebVG
 language: de
-version: 2019-01-01
-valid_until: 2023-12-31
-version_adopted: 2018-10-02
+version: 2024-01-01
+version_adopted: 2022-10-27
 adopted: 2016-08-25
 in_force: 2018-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/722.11"
-pdf: "https://bgs.zg.ch/api/de/versions/1904/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2489/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.zg.ch/api/de/versions/1904/pdf_file"
 
 (Gebäudeversicherungsgesetz; GebVG)
 
-Vom 25. August 2016 (Stand 1. Januar 2019)
+Vom 25. August 2016 (Stand 1. Januar 2024)
 
 Der Kantonsrat des Kantons Zug,
 
@@ -92,14 +91,12 @@ beschliesst:
 - b) wählt die Präsidentin oder den Präsidenten sowie die weiteren Mitglieder des Verwaltungsrats;
 - c) kann Mitglieder des Verwaltungsrats aus wichtigen Gründen abberufen;
 - d) wählt die Geschäftsleitung und die Revisionsstelle auf Antrag des Verwaltungsrats;
-- e) nimmt das Budget zur Kenntnis und genehmigt die Jahresrechnung, den Geschäftsbericht sowie das Reglement betreffend Einstufung von Angestellten in Gehaltsklassen und Funktionsgruppen gemäss Gesetz über das Arbeitsverhältnis des Staatspersonals (Personalgesetz)[^6-1];
+- e) nimmt das Budget zur Kenntnis und genehmigt die Jahresrechnung, den Geschäftsbericht sowie das Reglement betreffend Einreihung von Angestellten innerhalb des für die entsprechende Referenzfunktion massgebenden Lohnbandes gemäss Verordnung über Referenzfunktionen, Einreihungsplan und Lohneinreihung (Lohneinreihungsverordnung, LEVO);
 - f) legt das anwendbare Rechnungsmodell fest;
 - g) genehmigt interkantonale Vereinbarungen über ausgeschlossene Gefahren gemäss § 12 Abs. 2 dieses Gesetzes;
 - h) unterbreitet dem Kantonsrat die Jahresrechnung und den Geschäftsbericht der Gebäudeversicherung Zug zur Kenntnisnahme.
 
 <sup>3</sup> Der Regierungsrat erlässt die Vollzugsbestimmungen.
-
-[^6-1]: BGS [154.21](https://bgs.zg.ch/data/154.21/de)
 
 #### § 7
 
@@ -114,9 +111,9 @@ beschliesst:
 - c) schliesst Vereinbarungen aller Art ab, welche den Zweck und die Sicherheit der Gebäudeversicherung Zug fördern und unterstützen;
 - d) erlässt technische Ausführungsbestimmungen, insbesondere zur Ermittlung der Versicherungswerte, zur Schadenabschätzung sowie zur Abgrenzung von Gebäude- und Mobiliarversicherung;
 - e) sorgt für die finanzielle Stabilität, legt die Höhe der Prämien aufgrund versicherungstechnischer Prüfungen fest und erlässt ein Reglement für die Anlagebereiche;
-- f) genehmigt das Budget und verabschiedet zuhanden des Regierungsrats den Geschäftsbericht, die Jahresrechnung sowie ein Reglement betreffend Einstufung von Angestellten der Gebäudeversicherung Zug in Gehaltsklassen und Funktionsgruppen sowie Ausrichtung besonderer Entschädigungen gemäss Personalgesetz[^7-1];
+- f) genehmigt das Budget und verabschiedet zuhanden des Regierungsrats den Geschäftsbericht, die Jahresrechnung sowie ein Reglement betreffend Einreihung von Angestellten der Gebäudeversicherung Zug innerhalb des für die entsprechende Referenzfunktion massgebenden Lohnbandes sowie Ausrichtung besonderer Entschädigungen gemäss Personalgesetz[^7-1];
 - g) unterbreitet dem Regierungsrat Vorschläge für die Ernennung der Geschäftsleitung und der Revisionsstelle;
-- h) legt die Zeichnungs- und Anweisungsberechtigung fest, bei Arbeitsverträgen unter Gewährleistung der Doppelunterschrift des Personalamts;
+- h) legt die Zeichnungs- und Anweisungsberechtigung fest;
 - i) nimmt die ihm vom Gesetz über den Feuerschutz[^7-2] zugewiesenen Aufgaben im Bereich des Brandschutzes wahr.
 
 [^7-1]: BGS [154.21](https://bgs.zg.ch/data/154.21/de)
