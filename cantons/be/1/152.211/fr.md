@@ -4,13 +4,12 @@ number: "152.211"
 title: "Ordonnance sur l'organisation et les tâches de la Chancellerie d'Etat"
 short: "Ordonnance d'organisation CHA, OO CHA"
 language: fr
-version: 2022-03-01
-valid_until: 2023-12-31
-version_adopted: 2022-02-02
+version: 2024-01-01
+version_adopted: 2023-11-15
 adopted: 1995-10-18
 in_force: 1996-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/152.211"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2538/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2944/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2538/pdf_file"
 
 (Ordonnance d'organisation CHA, OO CHA)
 
-du 18.10.1995 (état au 01.03.2022)
+du 18.10.1995 (état au 01.01.2024)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -44,7 +43,8 @@ arrête:
 - b1 elle se charge de la procédure préliminaire en cas de révision totale de la Constitution;
 - c elle coordonne la collaboration entre l'administration cantonale et la Députation, le Conseil du Jura bernois (CJB) et le Conseil des affaires francophones de l'arrondissement de Biel/Bienne (CAF);
 - d elle traite les questions touchant aux relations extérieures du canton et à l'intégration européenne, pour autant que d'autres Directions ne soient pas compétentes;
-- e elle assure l’information du public et du personnel de l’administration cantonale;
+- e elle est responsable pour l'ensemble du canton des activités d'information et de communication envers le public et le personnel de l’administration cantonale;
+- e1 elle est responsable de l'aide aux médias, ainsi que de la promotion des compétences médiatiques et de la formation politique;
 - f elle planifie et coordonne les affaires interdirectionnelles, pour autant que d'autres Directions ne soient pas compétentes;[^1-1]
 - g elle accompagne l’activité législative du canton et veille à la publication des actes législatifs;
 - h elle traite les questions touchant au bilinguisme du canton et coordonne les travaux de traduction et de terminologie effectués dans l'administration cantonale;[^1-2]
@@ -53,7 +53,7 @@ arrête:
 - l elle est compétente pour les achats centralisés de matériel de bureau, d'imprimés, d'ouvrages spécialisés et de produits de presse, ainsi que de services de poste et de courrier;
 - m elle prend, conjointement avec les Services parlementaires, les mesures nécessaires pour que le Grand Conseil et ses organes puissent accomplir leurs tâches (art. 95, al. 1 de la loi du 4 juin 2013 sur le Grand Conseil [LGC][^1-5]), et accomplit les tâches décrites à l’article 95, alinéa 2 et 3 LGC ainsi qu’à l’article 95, alinéa 4 LGC en relation avec l’article 133 du règlement du Grand Conseil du 4 juin 2013 (RGC)[^1-6].
 - n elle exécute les tâches relevant du domaine des armoiries et est chargée de l’exécution de la législation fédérale sur la protection des armoiries;
-- o elle représente le canton de Berne au sein de l'association «Forum politique Berne» et la soutient dans l'élaboration d'une organisation solide et durable;
+- o elle nomme la représentante ou le représentant du canton au sein de l'association «Forum politique Berne»;
 - p elle se tient à la disposition du Conseil-exécutif pour établir des avis juridiques s'il n'y a pas d'autres unités administratives compétentes;
 - q elle encourage la transition numérique de l'administration en collaboration avec les Directions et les communes.
 
@@ -237,6 +237,7 @@ arrête:
 - d participe à la planification et à la documentation des sessions du Grand Conseil et soutient le Grand Conseil, ses organes et les Services parlementaires dans d’autres domaines importants;
 - e assure la préparation et le suivi des séances du Conseil-exécutif;
 - f assure le déroulement des élections et des votations;
+- f1 assure la promotion de la formation politique en collaboration avec les Directions;
 - g traite les questions juridiques et fournit des renseignements juridiques ressortissant aux domaines d’activité de la Chancellerie d’Etat;
 - h prépare la législation de la Chancellerie d’Etat pour autant que cette activité ne relève pas du domaine d’activité d’un autre office;
 - i instruit les recours à l’intention du Conseil-exécutif et du chancelier ou de la chancelière;
@@ -290,10 +291,12 @@ arrête:
 <sup>1</sup> L’Office de la communication
 
 - a garantit l'information du public sur les décisions et les intentions du Conseil-exécutif ainsi que sur les activités de l'administration cantonale;
-- b coordonne les activités touchant à l'information dans l'administration cantonale;
-- c coordonne l'information dans les situations de crise;
+- a1 permet un échange interactif avec la population;
+- b coordonne les activités d'information et de communication de l'administration cantonale;
+- c coordonne l'information et la communication en cas d'événements extraordinaires;
 - d sert d'intermédiaire dans les relations entre l'administration cantonale et les médias;
 - e traite les affaires du Conseil-exécutif concernant les médias;
+- e1 assure l'aide aux médias et la promotion des compétences médiatiques;
 - f conseille le Conseil-exécutif et l'administration cantonale sur les questions touchant aux relations publiques;
 - g se tient à la disposition du Grand Conseil, du Conseil-exécutif et de l'administration cantonale pour la formation en matière de communication;
 - h conseille les organes du Grand Conseil sur les questions touchant à l'information du public et aux relations publiques et peut être mis à contribution pour diffuser des informations;

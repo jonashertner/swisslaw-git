@@ -4,13 +4,12 @@ number: "152.211"
 title: Verordnung über die Organisation und die Aufgaben der Staatskanzlei
 short: "Organisationsverordnung STA, OrV STA"
 language: de
-version: 2022-03-01
-valid_until: 2023-12-31
-version_adopted: 2022-02-02
+version: 2024-01-01
+version_adopted: 2023-11-15
 adopted: 1995-10-18
 in_force: 1996-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/152.211"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2538/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2944/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2538/pdf_file"
 
 (Organisationsverordnung STA, OrV STA)
 
-vom 18.10.1995 (Stand 01.03.2022)
+vom 18.10.1995 (Stand 01.01.2024)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -42,7 +41,8 @@ beschliesst:
 - b1 sie betreut das Vorverfahren bei einer Totalrevision der Verfassung;
 - c sie koordiniert die Zusammenarbeit der Kantonsverwaltung mit der Deputation, dem Bernjurassischen Rat (BJR) und dem Rat für französischsprachige Angelegenheiten des Verwaltungskreises Biel/Bienne (RFB);
 - d sie behandelt Fragen im Zusammenhang mit den Aussenbeziehungen des Kantons und mit der europäischen Integration, sofern nicht andere Direktionen zuständig sind;
-- e sie besorgt die Information der Öffentlichkeit und des Personals der Kantonsverwaltung;
+- e sie ist verantwortlich für die gesamtkantonale Informations- und Kommunikationstätigkeit gegenüber der Öffentlichkeit und dem Personal der Kantonsverwaltung;
+- e1 sie ist verantwortlich für die Medienförderung sowie die Förderung der Medienkompetenz und der politischen Bildung;
 - f sie plant und koordiniert direktionsübergreifende Geschäfte, sofern nicht andere Direktionen zuständig sind;[^1-1]
 - g sie begleitet die Rechtsetzung des Kantons und besorgt die Veröffentlichung von Erlassen;
 - h sie behandelt Fragen der Zweisprachigkeit des Kantons und koordiniert die Übersetzung und die Terminologie in der Kantonsverwaltung;[^1-2]
@@ -51,7 +51,7 @@ beschliesst:
 - l sie ist zuständig für zentrale Beschaffungen von Büromaterial, Drucksachen, Fachliteratur und Presseerzeugnissen sowie Post- und Kurierdienstleistungen;
 - m sie trifft gemeinsam mit den Parlamentsdiensten die erforderlichen organisatorischen Massnahmen, damit der Grosse Rat und seine Organe ihre Aufgaben erfüllen können (Art. 95 Abs. 1 des Gesetzes vom 4. Juni 2013 über den Grossen Rat [GRG][^1-5]), und erfüllt die Aufgaben gemäss Artikel 95 Absatz 2 und 3 GRG sowie Artikel 95 Absatz 4 GRG in Verbindung mit Artikel 133 der Geschäftsordnung des Grossen Rates vom 4. Juni 2013 (GO)[^1-6];
 - n sie erfüllt Aufgaben im Bereich des Wappenwesens und ist für den Vollzug der eidgenössischen Wappenschutzgesetzgebung zuständig;
-- o sie vertritt den Kanton Bern im Verein "Polit-Forum Bern" und unterstützt diesen bei der Erarbeitung einer langfristig tragfähigen Organisation;
+- o sie wählt die Vertreterin oder den Vertreter des Kantons im Verein «Polit-Forum Bern»;
 - p sie steht dem Regierungsrat für rechtliche Begutachtungen zur Verfügung, soweit dafür nicht andere Organisationseinheiten zuständig sind;
 - q sie fördert die digitale Transformation der Verwaltung in Zusammenarbeit mit den Direktionen und den Gemeinden.
 
@@ -235,6 +235,7 @@ beschliesst:
 - d wirkt bei der Planung und Dokumentation der Sessionen des Grossen Rates mit und unterstützt den Grossen Rat, seine Organe und die Parlamentsdienste in weiteren wichtigen Belangen;
 - e betreut die Vor- und Nachbereitung der Sitzungen des Regierungsrates;
 - f besorgt die Durchführung von Wahlen und Abstimmungen;
+- f1 betreut in Zusammenarbeit mit den Direktionen die Förderung der politischen Bildung;
 - g bearbeitet Rechtsfragen und erteilt Rechtsauskünfte in den Aufgabenbereichen der Staatskanzlei;
 - h bereitet die Gesetzgebung der Staatskanzlei vor, soweit sie nicht in den Aufgabenbereich eines anderen Amts fällt;
 - i instruiert Beschwerdeverfahren zuhanden des Regierungsrates und der Staatsschreiberin oder des Staatsschreibers;
@@ -288,10 +289,12 @@ beschliesst:
 <sup>1</sup> Das Amt für Kommunikation
 
 - a gewährleistet die Information der Öffentlichkeit über Beschlüsse und Absichten des Regierungsrates und über die Tätigkeit der Kantonsverwaltung;
-- b koordiniert die Informationstätigkeit der Kantonsverwaltung;
-- c koordiniert die Information bei ausserordentlichen Ereignissen;
+- a1 ermöglicht den interaktiven Austausch mit der Bevölkerung;
+- b koordiniert die Informations- und Kommunikationstätigkeit der Kantonsverwaltung;
+- c koordiniert die Information und Kommunikation bei ausserordentlichen Ereignissen;
 - d ist Kontaktstelle für die Beziehung zwischen der Kantonsverwaltung und den Medien;
 - e bearbeitet medienpolitische Geschäfte des Regierungsrates;
+- e1 betreut die Medienförderung und die Förderung der Medienkompetenz;
 - f berät den Regierungsrat und die Kantonsverwaltung in Fragen der Öffentlichkeitsarbeit;
 - g steht dem Grossen Rat, dem Regierungsrat und der Kantonsverwaltung für die Schulung im Kommunikationsbereich zur Verfügung;
 - h berät die Organe des Grossen Rates in Fragen der Information der Öffentlichkeit und der Öffentlichkeitsarbeit und kann für die Verbreitung der Informationen beansprucht werden;
