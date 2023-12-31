@@ -4,7 +4,7 @@ number: "850.61.1"
 title: "RÈGLEMENT du 17.12.2014 d'application de la loi du 10 février 2004 sur les mesures d'aide et d'intégration des personnes handicapées (RLAIH)"
 short: RLAIH
 language: fr
-version: 2023-09-06
+version: 2024-01-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/850.61.1?id=1529594a-eeca-4a99-849a-4c37c498818a"
 ---
 
@@ -389,6 +389,43 @@ arrête
 <sup>2</sup> Le département peut retirer aux responsables en cause, temporairement ou définitivement, l'autorisation d'exploiter ou de diriger leur établissement.
 
 <sup>3</sup> Dans les cas ci-dessus, le département rend une décision après avoir pris l'avis du service. Les personnes concernées de l'organe dirigeant ou le directeur doivent être entendus.
+
+#### Art. 31a
+
+**Constitution et composition du Comité [^31-1]**
+
+<sup>1</sup> Les membres du Comité sont nommés par le chef du département pour la durée de la législature.
+
+<sup>2</sup> Le Comité se compose de :
+
+- a. Deux représentants du département en tant que président et secrétaire exécutif;
+- b. Du Médecin cantonal (Direction générale de la santé);
+- c. Trois représentants de la Direction générale de la cohésion sociale (DGCS) dont le Directeur de la direction de l'hébergement et de l'accompagnement (DIRHEB);
+- d. Deux représentants du Service des troubles du spectre de l'autisme et apparentés (STSA);
+- e. Trois représentants des associations pour la défense des personnes en situation de handicap;
+- f. Deux représentants des directions d'établissements membres de l'Association vaudoise des organisations privées pour personnes en difficulté (AVOP);
+- g. Deux représentants du personnel d'institutions membre d'Avenir Social Vaud
+- h. Deux représentants des secteurs psychiatriques, dont l'un du secteur Centre;
+- i. Le responsable du Contrôle interdisciplinaire des visites en établissements sanitaires et sociaux (CIVESS) comme membre invité permanent;
+- j. Le président de l'Organe d'évaluation des mesures de contraintes (ODEV) comme membre invité permanent;
+- k. Un éthicien externe comme membre invité;
+
+<sup>3</sup> Le chef du département peut compléter la liste par d'autres représentants des milieux intéressés.
+
+[^31-1]: Modif. 3 du 10.05.2023: Introduction tArt; entrée en vigueur au 01.01.2024; Introduction Al. 1-3; entrée en vigueur au 01.01.2024; Introduction Art. 31a; entrée en vigueur au 01.01.2024
+
+#### Art. 31b
+
+**Organisation [^31a-1]**
+
+<sup>1</sup> Le Comité peut déléguer certaines tâches :
+
+- a. Au bureau qui est notamment chargé de mener les affaires courantes du Comité;
+- b. A un groupe d'évaluation qui est notamment chargé d'analyser chaque mesure de contrainte et de la préaviser à l'attention du Comité.
+
+<sup>2</sup> Pour le surplus, les autres règles d'organisation sont fixées dans la directive du département.
+
+[^31a-1]: Modif. 3 du 10.05.2023: Introduction Art. 31b; entrée en vigueur au 01.01.2024
 
 ## Chapitre V Mesures financières
 
