@@ -4,11 +4,11 @@ title: Verordnung vom 19. Oktober 2016 über den Risikoausgleich in der Krankenv
 short: VORA
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/674"
 language: de
-version: 2023-01-01
+version: 2024-01-01
 adopted: 2016-10-19
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/674/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2016-674-20230101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/674/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/674/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2016-674-20240101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/674/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/674/20230101/de"
 
 (VORA)
 
-vom 19. Oktober 2016 (Stand am 1. Januar 2023)
+vom 19. Oktober 2016 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -79,22 +79,24 @@ Für die Zuteilung auf die Kalenderjahre ist der Zeitraum des Aufenthalts massge
 
 <sup>1</sup> Das Eidgenössische Departement des Innern (EDI) erlässt eine Liste der PCG.[^4-1]
 
-<sup>1bis</sup> Eine PCG umfasst die Arzneimittel, die bestimmte Wirkstoffe enthalten, die für die Behandlung eines bestimmten besonders kostenintensiven Krankheitsbildes eingesetzt werden.[^4-2]
+<sup>1bis</sup> Eine PCG umfasst die Arzneimittel, die für die Behandlung einer bestimmten besonders kostenintensiven Erkrankung eingesetzt werden.[^4-2]
 
-<sup>1ter</sup> Eine nicht eigenständige PCG umfasst Arzneimittel, die bestimmte Wirkstoffe enthalten, die für die Behandlung einer Erkrankung eingesetzt werden, die für sich allein nicht besonders kostenintensiv ist, die aber in Kombination mit einer bestimmten anderen besonders kostenintensiven Erkrankung zu zusätzlichen Kosten und damit zu einer weiteren Erhöhung des Krankheitsrisikos führen kann. Die nicht eigenständige PCG bildet zusammen mit der PCG für die besonders kostenintensive Erkrankung eine kombinierte PCG.[^4-3]
+<sup>1ter</sup> Eine nicht eigenständige PCG umfasst Arzneimittel, die für die Behandlung einer Erkrankung eingesetzt werden, die für sich allein nicht besonders kostenintensiv ist, die aber in Kombination mit einer bestimmten anderen besonders kostenintensiven Erkrankung zu zusätzlichen Kosten und damit zu einer weiteren Erhöhung des Krankheitsrisikos führen kann. Die nicht eigenständige PCG bildet zusammen mit der PCG für die besonders kostenintensive Erkrankung eine kombinierte PCG.[^4-3]
 
-<sup>2</sup> In der PCG-Liste werden zu jeder PCG die Arzneimittel aufgeführt, die die Wirkstoffe enthalten, die dieser PCG zugeordnet sind. Zu jedem dieser Arzneimittel wird die weltweit geltende Handelsnummer (Global Trade Item Number, GTIN-Code) und die Anzahl der standardisierten Tagesdosen pro Darreichungsform und pro Packung angegeben.
+<sup>2</sup> In der PCG-Liste werden zu jeder PCG die Arzneimittel aufgeführt, die dieser PCG zugeordnet sind. Zu jedem dieser Arzneimittel wird die weltweit geltende Handelsnummer (Global Trade Item Number, GTIN-Code) und die Anzahl der standardisierten Tagesdosen pro Darreichungsform und pro Packung angegeben.[^4-4]
 
-<sup>3</sup> Ein Wirkstoff kann nur einer einzigen PCG zugeordnet werden. Enthält ein Arzneimittel mehrere Wirkstoffe, so wird der Hauptwirkstoff der PCG zugeordnet.[^4-4]
+<sup>3</sup> Ein Arzneimittel kann nur einer einzigen PCG zugeordnet werden. [^4-5]
 
 <sup>4</sup> Das EDI kann Hierarchisierungen unter den PCG vorsehen, wenn mehrere PCG das gleiche oder ein verwandtes gesundheitliches Problem betreffen.
 
-<sup>5</sup> Die Eidgenössische Arzneimittelkommission berät das EDI bei der Zuordnung von Wirkstoffen und Arzneimitteln zu einer PCG und bei der Festlegung der standardisierten Tagesdosen, wenn Arzneimittel neu oder für eine zusätzliche Indikation in die Spezialitätenliste aufgenommen werden.
+<sup>5</sup> Die Eidgenössische Arzneimittelkommission berät das EDI bei der Zuordnung von Arzneimitteln zu einer PCG und bei der Festlegung der standardisierten Tagesdosen, wenn Arzneimittel neu oder für eine zusätzliche Indikation in die Spezialitätenliste aufgenommen werden.[^4-6]
 
 [^4-1]: Fassung gemäss Ziff. I der V vom 11. April 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 1847](https://fedlex.data.admin.ch/eli/oc/2018/278)).
-[^4-2]: Eingefügt durch Ziff. I der V vom 11. April 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 1847](https://fedlex.data.admin.ch/eli/oc/2018/278)).
-[^4-3]: Eingefügt durch Ziff. I der V vom 11. April 2018 ([AS 2018 1847](https://fedlex.data.admin.ch/eli/oc/2018/278)). Fassung gemäss Ziff. I der V vom 11. Sept. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 3917](https://fedlex.data.admin.ch/eli/oc/2020/729)).
-[^4-4]: Fassung gemäss Ziff. I der V vom 11. April 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 1847](https://fedlex.data.admin.ch/eli/oc/2018/278)).
+[^4-2]: Eingefügt durch Ziff. I der V vom 11. April 2018 ([AS 2018 1847](https://fedlex.data.admin.ch/eli/oc/2018/278)). Fassung gemäss Ziff. I der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 490](https://fedlex.data.admin.ch/eli/oc/2023/490)).
+[^4-3]: Eingefügt durch Ziff. I der V vom 11. April 2018 ([AS 2018 1847](https://fedlex.data.admin.ch/eli/oc/2018/278)). Fassung gemäss Ziff. I der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 490](https://fedlex.data.admin.ch/eli/oc/2023/490)).
+[^4-4]: Fassung gemäss Ziff. I der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 490](https://fedlex.data.admin.ch/eli/oc/2023/490)).
+[^4-5]: Fassung gemäss Ziff. I der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 490](https://fedlex.data.admin.ch/eli/oc/2023/490)).
+[^4-6]: Fassung gemäss Ziff. I der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 490](https://fedlex.data.admin.ch/eli/oc/2023/490)).
 
 #### Art. 5
 
@@ -128,10 +130,10 @@ Eine versicherte Person erfüllt die Voraussetzungen für die Einteilung in eine
 
 <sup>1</sup>
 
-Für die Gruppierung der Daten und die Berechnung des Risikoausgleichs muss der Versicherer der gemeinsamen Einrichtung nach deren Weisungen pro versicherte Person und für jede Deckungsperiode auf eigene Kosten folgende Daten liefern:
+Für die Gruppierung der Daten und die Berechnung des Risikoausgleichs muss der Versicherer der gemeinsamen Einrichtung nach deren Weisungen pro versicherte Person und Kalenderjahr auf eigene Kosten folgende Daten liefern:[^6-1]
 
 - a. Wohnkanton;
-- b. AHV-Nummer[^6-1] in pseudonymisierter Form;
+- b. AHV-Nummer[^6-2] in pseudonymisierter Form;
 - c. Geburtsjahr;
 - d. Geschlecht;
 - e. Aufenthalt in einem Spital oder Pflegeheim;
@@ -142,13 +144,14 @@ Für die Gruppierung der Daten und die Berechnung des Risikoausgleichs muss der 
 
 <sup>2</sup> Er gliedert die Daten in zwei Datensätze. Der erste Datensatz enthält die Daten für das Jahr vor der Datenlieferung, der zweite diejenigen für das vorletzte Jahr vor der Datenlieferung.
 
-<sup>3</sup> Die Versicherer müssen die Daten bis zum 31. März liefern.[^6-2]
+<sup>3</sup> Die Versicherer müssen die Daten bis zum 31. März liefern.[^6-3]
 
-<sup>4</sup> Für die Datenlieferung zu berücksichtigen sind die bis einen Monat vor Ablauf der Frist nach Absatz 3 abgerechneten Leistungen und erfassten Änderungen des Versichertenbestandes, die das für die Datenerhebung massgebliche Kalenderjahr betreffen.[^6-3]
+<sup>4</sup> Für die Datenlieferung zu berücksichtigen sind die bis Ende Februar abgerechneten Leistungen und erfassten Änderungen des Versichertenbestandes, die das für den Datensatz massgebliche Kalenderjahr betreffen. [^6-4]
 
-[^6-1]: Ausdruck gemäss Anhang Ziff. II 39 der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
-[^6-2]: Fassung gemäss Ziff. I der V vom 11. Sept. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 3917](https://fedlex.data.admin.ch/eli/oc/2020/729)).
+[^6-1]: Fassung gemäss Ziff. I der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 490](https://fedlex.data.admin.ch/eli/oc/2023/490)).
+[^6-2]: Ausdruck gemäss Anhang Ziff. II 39 der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
 [^6-3]: Fassung gemäss Ziff. I der V vom 11. Sept. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 3917](https://fedlex.data.admin.ch/eli/oc/2020/729)).
+[^6-4]: Fassung gemäss Ziff. I der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 490](https://fedlex.data.admin.ch/eli/oc/2023/490)).
 
 #### Art. 7
 
@@ -207,12 +210,13 @@ Bei der Festlegung der Versichertenstände nicht berücksichtigt werden:
 
 <sup>3</sup>
 
-Stellt sie aufgrund der Daten fest, dass eine versicherte Person im selben Kalenderjahr 13 oder mehr Versicherungsmonate aufweist, so meldet sie jedem betroffenen Versicherer:
+Stellt sie aufgrund der Daten des ersten Datensatzes nach Artikel 6 Absatz 2 fest, dass eine versicherte Person 13 oder mehr Versicherungsmonate aufweist, so meldet sie jedem betroffenen Versicherer:[^10-1]
 
 - a. die entsprechende Zeilennummer der Datenlieferung der betroffenen Versicherer;
-- b. Name und Kennnummer des oder der anderen Versicherer.[^10-1]
+- b. Name und Kennnummer des oder der anderen Versicherer.[^10-2]
 
-[^10-1]: Eingefügt durch Ziff. I der V vom 11. Sept. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 3917](https://fedlex.data.admin.ch/eli/oc/2020/729)).
+[^10-1]: Fassung gemäss Ziff. I der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 490](https://fedlex.data.admin.ch/eli/oc/2023/490)).
+[^10-2]: Eingefügt durch Ziff. I der V vom 11. Sept. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 3917](https://fedlex.data.admin.ch/eli/oc/2020/729)).
 
 #### Art. 11
 
@@ -420,25 +424,42 @@ Die gemeinsame Einrichtung meldet jedem Versicherer bis zum 10. Juni in Bezug au
 
 Die gemeinsame Einrichtung liefert dem BAG jährlich:
 
-- a. die bei den Versicherern erhobenen Daten nach Artikel 6 zum Zweck der Weiterentwicklung des Risikoausgleichs und der Durchführung der Wirkungsanalyse nach Artikel 17*a* Absatz 2 KVG;
+- a.[^22-1] die bei den Versicherern erhobenen Daten nach Artikel 6 zum Zweck der Weiterentwicklung des Risikoausgleichs, der Durchführung der Wirkungsanalyse nach Artikel 17*a* Absatz 2 KVG und der Führung von Statistiken;
 - b. die berechneten Risikoabgaben und Ausgleichsbeiträge der Versicherer nach Kantonen und für die ganze Schweiz.
 
 <sup>2</sup>
 
-Sie erstellt nach jeder Berechnung des Risikoausgleichs eine Statistik über:
+Sie erstellt nach jeder Berechnung des Risikoausgleichs eine Statistik:
 
-- a. die Versicherungsmonate, die Bruttoleistungen und die Kostenbeteiligungen: nach Risikogruppen und nach Kantonen und für die ganze Schweiz;
-- b. die Versicherungsmonate, die Bruttoleistungen und die Kostenbeteiligungen, nach PCG: für die ganze Schweiz;
-- c. die Abgabe- und Beitragssätze für die Risikogruppen: nach Kantonen;
-- d. die Zuschläge für PCG;
-- e. die Entlastung der Versicherer pro junge erwachsene Person: nach Kantonen;
-- f. die Belastung der Versicherer pro versicherte Person, die 26 Jahre und älter ist, aufgrund der Überwälzung der Anteile der Versicherer an der Finanzierung der Entlastung: nach Kantonen.[^22-1]
+- a.
+
+  auf der Basis der Daten des ersten Datensatzes nach Artikel 6 Absatz 2 über:
+
+  - 1\. die Abgabe- und Beitragssätze für die Risikogruppen, nach Kantonen,
+  - 2\. die Zuschläge für PCG,
+  - 3\. die Teuerungsfaktoren, nach Kantonen,
+  - 4\. die Entlastung der Versicherer pro junge erwachsene Person, nach Kantonen,
+  - 5\. die Belastung der Versicherer pro versicherte Person, die 26 Jahre und älter ist, aufgrund der Überwälzung der Anteile der Versicherer an der Finanzierung der Entlastung, nach Kantonen;
+
+- b.
+
+  auf der Basis der Daten der beiden Datensätze nach Artikel 6 Absatz 2 über:
+
+  - 1\. die Versicherungsmonate, die Bruttoleistungen und die Kostenbeteiligungen, nach Risikogruppen und nach Kantonen und für die ganze Schweiz,
+  - 2\. die Versicherungsmonate, die Bruttoleistungen und die Kostenbeteiligungen, nach PCG, für die ganze Schweiz,
+  - 3\. die Versicherungsmonate, die Bruttoleistungen und die Kostenbeteiligungen der Versicherten, die in PCG eingeteilt sind, nach Risikogruppen und nach PCG, für die ganze Schweiz,
+  - 4\. die Versicherungsmonate, die Bruttoleistungen und die Kostenbeteiligungen der Versicherten, die in keine PCG eingeteilt sind, nach Risikogruppen, für die ganze Schweiz,
+  - 5\. die Versicherungsmonate der Versicherten, die mindestens in eine weitere PCG eingeteilt sind, nach PCG, für die ganze Schweiz,
+  - 6\. die Anzahl der Versicherten, die 13 oder mehr Versicherungsmonate aufweisen, mit den Namen und Kenn-Nummern ihrer Versicherer, nach Kantonen,
+  - 7\. die Anzahl der Versicherten, die in zwei aufeinander folgenden Jahren jeweils 13 oder mehr Versicherungsmonate aufweisen, mit den Namen und Kenn-Nummern ihrer Versicherer, nach Kantonen.[^22-2]
+
+<sup>2bis</sup> Risikogruppen, die aus Versicherten bestehen, die zusammen weniger als 120 Versicherungsmonate aufweisen, werden in der Statistik nicht ausgewiesen.[^22-3]
 
 <sup>3</sup> Sie erstellt jährlich einen Bericht über die Durchführung des Risikoausgleichs.
 
-<sup>4</sup> Die Statistik und der Bericht sind jährlich bis zum 10. Juni zu veröffentlichen.[^22-2]
+<sup>4</sup> Die Statistik und der Bericht sind jährlich bis zum 10. Juni zu veröffentlichen.[^22-4]
 
-<sup>5</sup> Die gemeinsame Einrichtung und das BAG legen den Inhalt der Statistik und des Berichts gemeinsam fest.
+<sup>5</sup> …[^22-5]
 
 <sup>6</sup>
 
@@ -446,11 +467,14 @@ Die gemeinsame Einrichtung veröffentlicht zum Zweck der Berechnung der Prämien
 
 - a. Versicherungsmonate: nach Kantonen und für die ganze Schweiz;
 - b. Bruttoleistungen: nach Kantonen und für die ganze Schweiz;
-- c. Kostenbeteiligungen: nach Kantonen und für die ganze Schweiz.[^22-3]
+- c. Kostenbeteiligungen: nach Kantonen und für die ganze Schweiz.[^22-6]
 
-[^22-1]: Fassung gemäss Ziff. I der V vom 11. Sept. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 3917](https://fedlex.data.admin.ch/eli/oc/2020/729)).
-[^22-2]: Fassung gemäss Ziff. I der V vom 11. Sept. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 3917](https://fedlex.data.admin.ch/eli/oc/2020/729)).
-[^22-3]: Eingefügt durch Ziff. I der V vom 11. Sept. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 3917](https://fedlex.data.admin.ch/eli/oc/2020/729)).
+[^22-1]: Fassung gemäss Ziff. I der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 490](https://fedlex.data.admin.ch/eli/oc/2023/490)).
+[^22-2]: Fassung gemäss Ziff. I der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 490](https://fedlex.data.admin.ch/eli/oc/2023/490)).
+[^22-3]: Eingefügt durch Ziff. I der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 490](https://fedlex.data.admin.ch/eli/oc/2023/490)).
+[^22-4]: Fassung gemäss Ziff. I der V vom 11. Sept. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 3917](https://fedlex.data.admin.ch/eli/oc/2020/729)).
+[^22-5]: Aufgehoben durch Ziff. I der V vom 30. Aug. 2023, mit Wirkung seit 1. Jan. 2024 ([AS 2023 490](https://fedlex.data.admin.ch/eli/oc/2023/490)).
+[^22-6]: Eingefügt durch Ziff. I der V vom 11. Sept. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 3917](https://fedlex.data.admin.ch/eli/oc/2020/729)).
 
 ## 7. Abschnitt: Finanzierung
 
@@ -560,6 +584,14 @@ Die Verordnung vom 12. April 1995[^30-1] über den Risikoausgleich in der Kranke
 <sup>2</sup> Auf den PCG-Listen nach Artikel 4 Absatz 2, die für die Berechnung der Risikoausgleiche 2020–2022 nach Artikel 5 Absatz 3 massgebend sind, ist zusätzlich zum GTIN-Code der Pharmacode anzugeben.
 
 <sup>3</sup> Bis 2023 können die Versicherer bei den Datenlieferungen nach Artikel 6 der gemeinsamen Einrichtung anstelle des GTIN-Codes den Pharmacode liefern.
+
+#### Art. 32a
+
+**Übergangsbestimmung zur Änderung vom 30. August 2023**[^32a-1]
+
+Für die Ausgleichsjahre 2020–2022 ist zusätzlich zur Statistik nach Artikel 22 des bisherigen Rechts eine Statistik nach Artikel 22 Absatz 2 Buchstabe b Ziffern 3–7 und Absatz 2<sup>bis</sup> des neuen Rechts zu erstellen.
+
+[^32a-1]: Eingefügt durch Ziff. I der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 490](https://fedlex.data.admin.ch/eli/oc/2023/490)).
 
 #### Art. 33
 

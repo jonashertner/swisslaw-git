@@ -4,11 +4,11 @@ title: "Ordonnance du 19 octobre 2016 sur la compensation des risques dans l'ass
 short: OCoR
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/674"
 language: fr
-version: 2023-01-01
+version: 2024-01-01
 adopted: 2016-10-19
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/674/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-674-20230101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/674/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/674/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-674-20240101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/674/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/674/20230101/fr"
 
 (OCoR)
 
-du 19 octobre 2016 (État le 1<sup>er</sup> janvier 2023)
+du 19 octobre 2016 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -79,22 +79,24 @@ La date du traitement est déterminante pour l’attribution du séjour à une a
 
 <sup>1</sup> Le Département fédéral de l’intérieur (DFI) édicte la liste des PCG.[^4-1]
 
-<sup>1bis</sup> Un PCG regroupe les médicaments qui contiennent certains principes actifs utilisés pour traiter une pathologie donnée particulièrement coûteuse.[^4-2]
+<sup>1bis</sup> Un PCG regroupe les médicaments utilisés pour traiter une affection donnée particulièrement coûteuse.[^4-2]
 
-<sup>1ter</sup> Un PCG non autonome regroupe les médicaments qui contiennent certains principes actifs utilisés pour traiter une affection qui n’est en soi pas particulièrement coûteuse, mais qui, en combinaison avec une autre affection donnée particulièrement coûteuse, peut induire des coûts supplémentaires et augmenter encore le risque de maladie. Le PCG non autonome forme, avec le PCG relatif à l’autre affection particulièrement coûteuse, un PCG combiné.[^4-3]
+<sup>1ter</sup> Un PCG non autonome regroupe les médicaments utilisés pour traiter une affection qui n’est en soi pas particulièrement coûteuse, mais qui, en combinaison avec une autre affection donnée particulièrement coûteuse, peut induire des coûts supplémentaires et augmenter encore le risque de maladie. Le PCG non autonome forme, avec le PCG relatif à l’autre affection particulièrement coûteuse, un PCG combiné.[^4-3]
 
-<sup>2</sup> La liste indique, pour chaque PCG, les médicaments qui contiennent les principes actifs attribués à ce PCG. Pour chacun de ces médicaments, elle indique le code article international (Global Trade Item Number, code GTIN) et le nombre de doses quotidiennes standard par forme galénique et par emballage.
+<sup>2</sup> La liste indique, pour chaque PCG, les médicaments attribués à ce PCG. Pour chacun de ces médicaments, elle indique le code article international (*Global Trade Item* *Number*, code GTIN) et le nombre de doses quotidiennes standard par forme galénique et par emballage.[^4-4]
 
-<sup>3</sup> Un principe actif ne peut être attribué qu’à un seul PCG. Lorsqu’un médicament contient plusieurs principes actifs, c’est le principe actif principal qui détermine l’attribution au PCG.[^4-4]
+<sup>3</sup> Un médicament ne peut être attribué qu’à un seul PCG. [^4-5]
 
 <sup>4</sup> Lorsque plusieurs PCG renvoient à un problème de santé identique ou similaire, le DFI peut les hiérarchiser.
 
-<sup>5</sup> La Commission fédérale des médicaments conseille le DFI pour l’attribution des principes actifs et des médicaments aux PCG respectifs et pour la détermination des doses quotidiennes standard lorsqu’un médicament est admis dans la liste des spécialités pour la première fois ou pour une indication supplémentaire.
+<sup>5</sup> La Commission fédérale des médicaments conseille le DFI pour l’attribution des médicaments aux PCG et pour la détermination des doses quotidiennes standard lorsqu’un médicament est admis dans la liste des spécialités pour la première fois ou pour une indication supplémentaire.[^4-6]
 
 [^4-1]: Nouvelle teneur selon le ch. I de l’O du 11 avr. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 1847](https://fedlex.data.admin.ch/eli/oc/2018/278)).
-[^4-2]: Introduit par le ch. I de l’O du 11 avr. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 1847](https://fedlex.data.admin.ch/eli/oc/2018/278)).
-[^4-3]: Introduit par le ch. I de l’O du 11 avr. 2018 ([RO 2018 1847](https://fedlex.data.admin.ch/eli/oc/2018/278)). Nouvelle teneur selon le ch. I de l’O du 11 sept. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 3917](https://fedlex.data.admin.ch/eli/oc/2020/729)).
-[^4-4]: Nouvelle teneur selon le ch. I de l’O du 11 avr. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 1847](https://fedlex.data.admin.ch/eli/oc/2018/278)).
+[^4-2]: Introduit par le ch. I de l’O du 11 avr. 2018 ([RO 2018 1847](https://fedlex.data.admin.ch/eli/oc/2018/278)). Nouvelle teneur selon le ch. I de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 490](https://fedlex.data.admin.ch/eli/oc/2023/490)).
+[^4-3]: Introduit par le ch. I de l’O du 11 avr. 2018 ([RO 2018 1847](https://fedlex.data.admin.ch/eli/oc/2018/278)). Nouvelle teneur selon le ch. I de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 490](https://fedlex.data.admin.ch/eli/oc/2023/490)).
+[^4-4]: Nouvelle teneur selon le ch. I de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 490](https://fedlex.data.admin.ch/eli/oc/2023/490)).
+[^4-5]: Nouvelle teneur selon le ch. I de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 490](https://fedlex.data.admin.ch/eli/oc/2023/490)).
+[^4-6]: Nouvelle teneur selon le ch. I de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 490](https://fedlex.data.admin.ch/eli/oc/2023/490)).
 
 #### Art. 5
 
@@ -128,10 +130,10 @@ Remplit les conditions d’attribution à un PCG l’assuré auquel a été remi
 
 <sup>1</sup>
 
-Pour le regroupement des données et le calcul de la compensation des risques, l’assureur livre à ses frais à l’institution commune, conformément aux instructions de celle-ci, pour chaque assuré et pour chaque période de couverture, les données suivantes:
+Pour le regroupement des données et le calcul de la compensation des risques, l’assureur livre à ses frais à l’institution commune, conformément aux instructions de celle-ci, pour chaque assuré et pour chaque année civile, les données suivantes:[^6-1]
 
 - a. canton de domicile;
-- b. numéro AVS[^6-1], sous forme pseudonymisée;
+- b. numéro AVS[^6-2], sous forme pseudonymisée;
 - c. année de naissance;
 - d. sexe;
 - e. séjour dans un hôpital ou un établissement médico-social;
@@ -142,13 +144,14 @@ Pour le regroupement des données et le calcul de la compensation des risques, l
 
 <sup>2</sup> Il présente les données en deux ensembles de données. Le premier ensemble contient les données pour l’année qui précède la livraison, le deuxième, celles pour la dernière année avant l’année qui précède la livraison des données.
 
-<sup>3</sup> Les assureurs livrent les données le 31 mars au plus tard.[^6-2]
+<sup>3</sup> Les assureurs livrent les données le 31 mars au plus tard.[^6-3]
 
-<sup>4</sup> Sont pris en compte pour la livraison des données les prestations décomptées jusqu’à 1 mois avant la date prévue à l’al. 3 ainsi que les changements dans les effectifs d’assurés qui sont survenus jusqu’à 1 mois avant cette date, à condition que ces prestations et ces changements concernent l’année civile déterminante pour le relevé.[^6-3]
+<sup>4</sup> Sont pris en compte pour la livraison des données les prestations décomptées jusqu’à fin février et les changements dans l’effectif des assurés qui concernent l’année civile déterminante pour l’ensemble de données. [^6-4]
 
-[^6-1]: Nouvelle expression selon l’annexe ch. II 39 de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
-[^6-2]: Nouvelle teneur selon le ch. I de l’O du 11 sept. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 3917](https://fedlex.data.admin.ch/eli/oc/2020/729)).
+[^6-1]: Nouvelle teneur selon le ch. I de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 490](https://fedlex.data.admin.ch/eli/oc/2023/490)).
+[^6-2]: Nouvelle expression selon l’annexe ch. II 39 de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
 [^6-3]: Nouvelle teneur selon le ch. I de l’O du 11 sept. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 3917](https://fedlex.data.admin.ch/eli/oc/2020/729)).
+[^6-4]: Nouvelle teneur selon le ch. I de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 490](https://fedlex.data.admin.ch/eli/oc/2023/490)).
 
 #### Art. 7
 
@@ -207,12 +210,13 @@ Ne sont pas comptabilisés dans les effectifs:
 
 <sup>3</sup>
 
-Si elle constate, sur la base des données rassemblées, qu’un assuré est affilié pendant 13 mois ou plus pour la même année civile, elle communique à chaque assureur concerné:
+Si elle constate, sur la base du premier ensemble de données visé à l’art. 6, al. 2, qu’un assuré est affilié pendant 13 mois ou plus, elle communique à chaque assureur concerné:[^10-1]
 
 - a. le numéro de ligne correspondant de la livraison des données par les assureurs concernés;
-- b. les nom et numéro d’identification de l’autre assureur ou des autres assureurs.[^10-1]
+- b. les nom et numéro d’identification de l’autre assureur ou des autres assureurs.[^10-2]
 
-[^10-1]: Introduit par le ch. I de l’O du 11 sept. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 3917](https://fedlex.data.admin.ch/eli/oc/2020/729)).
+[^10-1]: Nouvelle teneur selon le ch. I de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 490](https://fedlex.data.admin.ch/eli/oc/2023/490)).
+[^10-2]: Introduit par le ch. I de l’O du 11 sept. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 3917](https://fedlex.data.admin.ch/eli/oc/2020/729)).
 
 #### Art. 11
 
@@ -263,7 +267,7 @@ Durant l’année qui suit l’année de compensation, le total des prestations 
 
 **Suppléments pour PCG**
 
-<sup>1</sup> Les assureurs obtiennent des suppléments pour PCG pour leurs assurés qui présentent un risque élevé de maladie sur la base de l’indicateur « PCG ». Ils ne reçoivent aucun supplément pour les PCG non autonomes.[^15-1]
+<sup>1</sup> Les assureurs obtiennent des suppléments pour PCG pour leurs assurés qui présentent un risque élevé de maladie sur la base de l’indicateur «PCG». Ils ne reçoivent aucun supplément pour les PCG non autonomes.[^15-1]
 
 <sup>2</sup> Si l’assuré est attribué à plusieurs PCG soumis à une hiérarchisation, l’assureur n’obtient un supplément que pour le PCG classé le plus haut dans la hiérarchie.
 
@@ -420,25 +424,42 @@ Pour la compensation des risques de l’année précédente, l’institution com
 
 L’institution commune livre chaque année à l’OFSP:
 
-- a. les données recueillies auprès des assureurs conformément à l’art. 6 afin de permettre le développement de la compensation des risques et l’analyse d’efficacité prévue à l’art. 17*a*, al. 2, LAMal;
+- a.[^22-1] les données recueillies auprès des assureurs conformément à l’art. 6 afin de permettre le développement de la compensation des risques, l’analyse d’efficacité prévue à l’art. 17*a*, al. 2, LAMal et la tenue de statistiques;
 - b. l’état des redevances de risque et des contributions de compensation calculées pour les assureurs, par canton et pour l’ensemble de la Suisse.
 
 <sup>2</sup>
 
 Elle établit, après chaque calcul de la compensation des risques, une statistique:
 
-- a. des mois d’assurance, des prestations brutes et des participations aux coûts, par groupe de risque et par canton, d’une part, et pour l’ensemble de la Suisse, d’autre part;
-- b. des mois d’assurance, des prestations brutes et des participations aux coûts, par PCG pour l’ensemble de la Suisse;
-- c. des taux de redevance et de contribution dans les groupes de risque, par canton;
-- d. des suppléments pour PCG;
-- e. de l’allégement des assureurs par jeune adulte, par canton;
-- f. de la charge financière des assureurs par assuré âgé de 26 ans et plus, découlant de la répercussion des parts qui incombent aux assureurs pour le financement de l’allégement, par canton.[^22-1]
+- a.
+
+  sur la base du premier ensemble de données visé à l’art. 6, al. 2:
+
+  - 1\. des taux de redevance et de contribution dans les groupes de risque, par canton,
+  - 2\. des suppléments pour PCG,
+  - 3\. des facteurs de renchérissement par canton,
+  - 4\. de l’allégement des assureurs par jeune adulte, par canton,
+  - 5\. de la charge financière des assureurs par assuré âgé de 26 ans et plus, découlant de la répercussion des parts qui incombent aux assureurs pour le financement de l’allégement, par canton;
+
+- b.
+
+  sur la base des données des deux ensembles de données visés à l’art. 6, al. 2:
+
+  - 1\. des mois d’assurance, des prestations brutes et des participations aux coûts, par groupe de risque et par canton, d’une part, et pour l’ensemble de la Suisse, d’autre part,
+  - 2\. des mois d’assurance, des prestations brutes et des participations aux coûts, par PCG pour l’ensemble de la Suisse,
+  - 3\. des mois d’assurance, des prestations brutes et des participations aux coûts des assurés qui sont attribués à un PCG, par groupe de risque et par PCG, pour l’ensemble de la Suisse,
+  - 4\. des mois d’assurance, des prestations brutes et des participations aux coûts des assurés qui ne sont pas attribués à un PCG, par groupe de risque, pour l’ensemble de la Suisse,
+  - 5\. des mois d’assurance des assurés qui sont répartis dans au moins un autre PCG, par PCG, pour l’ensemble de la Suisse,
+  - 6\. du nombre d’assurés affiliés pendant 13 mois ou plus, en indiquant le nom et le numéro d’identification de l’assureur, par canton,
+  - 7\. du nombre d’assurés qui, lors de deux années consécutives, sont affiliés chaque année pendant 13 mois ou plus, en indiquant le nom et le numéro d’identification de l’assureur, par canton.[^22-2]
+
+<sup>2bis</sup> Les groupes de risque composés d’assurés comptant ensemble moins de 120 mois d’assurance ne sont pas indiqués dans la statistique.[^22-3]
 
 <sup>3</sup> Elle établit chaque année un rapport sur la gestion de la compensation des risques.
 
-<sup>4</sup> La statistique et le rapport sont publiés chaque année, le 10 juin au plus tard.[^22-2]
+<sup>4</sup> La statistique et le rapport sont publiés chaque année, le 10 juin au plus tard.[^22-4]
 
-<sup>5</sup> L’institution commune et l’OFSP déterminent conjointement le contenu de la statistique et du rapport.
+<sup>5</sup> …[^22-5]
 
 <sup>6</sup>
 
@@ -446,11 +467,14 @@ Pour les besoins du calcul des primes des jeunes adultes, l’institution commun
 
 - a. mois d’assurance, par canton et pour l’ensemble de la Suisse;
 - b. prestations brutes, par canton et pour l’ensemble de la Suisse;
-- c. participations aux coûts, par canton et pour l’ensemble de la Suisse .[^22-3]
+- c. participations aux coûts, par canton et pour l’ensemble de la Suisse .[^22-6]
 
-[^22-1]: Nouvelle teneur selon le ch. I de l’O du 11 sept. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 3917](https://fedlex.data.admin.ch/eli/oc/2020/729)).
-[^22-2]: Nouvelle teneur selon le ch. I de l’O du 11 sept. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 3917](https://fedlex.data.admin.ch/eli/oc/2020/729)).
-[^22-3]: Introduit par le ch. I de l’O du 11 sept. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 3917](https://fedlex.data.admin.ch/eli/oc/2020/729)).
+[^22-1]: Nouvelle teneur selon le ch. I de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 490](https://fedlex.data.admin.ch/eli/oc/2023/490)).
+[^22-2]: Nouvelle teneur selon le ch. I de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 490](https://fedlex.data.admin.ch/eli/oc/2023/490)).
+[^22-3]: Introduit par le ch. I de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 490](https://fedlex.data.admin.ch/eli/oc/2023/490)).
+[^22-4]: Nouvelle teneur selon le ch. I de l’O du 11 sept. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 3917](https://fedlex.data.admin.ch/eli/oc/2020/729)).
+[^22-5]: Abrogé par le ch. I de l’O du 30 août 2023, avec effet au 1<sup>er</sup> janv. 2024 ([RO 2023 490](https://fedlex.data.admin.ch/eli/oc/2023/490)).
+[^22-6]: Introduit par le ch. I de l’O du 11 sept. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 3917](https://fedlex.data.admin.ch/eli/oc/2020/729)).
 
 ## Section 7 Financement
 
@@ -560,6 +584,14 @@ L’ordonnance du 12 avril 1995 sur la compensation des risques dans l’assuran
 <sup>2</sup> Outre le code GTIN, les listes des PCG définies à l’art. 4, al. 2, qui sont déterminantes pour le calcul de la compensation des risques de 2020 à 2022 conformément à l’art. 5, al. 3, mentionneront aussi le pharmacode.
 
 <sup>3</sup> Jusqu’en 2023, les assureurs pourront indiquer le pharmacode au lieu du code GTIN dans les données livrées à l’institution commune en vertu de l’art. 6.
+
+#### Art. 32a
+
+**Disposition transitoire concernant la modification du 30 août 2023**[^32a-1]
+
+Pour les années de compensation 2020 à 2022, une statistique conforme à l’art. 22, al. 2, let. b, ch. 3 à 7, et 2<sup>bis</sup>, du nouveau droit est établie en plus de la statistique fondée sur l’art. 22 de l’ancien droit.
+
+[^32a-1]: Introduit par le ch. I de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 490](https://fedlex.data.admin.ch/eli/oc/2023/490)).
 
 #### Art. 33
 
