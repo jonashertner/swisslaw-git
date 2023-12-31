@@ -4,13 +4,12 @@ number: "163.23"
 title: Geschäftsreglement des Regionalgerichts Bern-Mittelland
 short: GeschR RG BM
 language: de
-version: 2011-01-01
-valid_until: 2023-12-31
-version_adopted: 2011-01-01
+version: 2024-01-01
+version_adopted: 2023-11-13
 adopted: 2010-11-09
 in_force: 2010-11-09
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/163.23"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/140/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2916/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/140/pdf_file"
 
 (GeschR RG BM)
 
-vom 09.11.2010 (Stand 01.01.2011)
+vom 09.11.2010 (Stand 01.01.2024)
 
 Das Regionalgericht Bern-Mittelland,
 
@@ -37,19 +36,19 @@ beschliesst:
 
 <sup>1</sup> Das Regionalgericht ist in der Rechtsprechung unabhängig und nur dem Recht verpflichtet.
 
-<sup>2</sup> Unter Vorbehalt der Aufgaben und Befugnisse der Justizleitung und des Obergerichts ist das Regionalgericht in Verwaltung und Organisation selbstständig.
+<sup>2</sup> Unter Vorbehalt der Aufgaben und Befugnisse der Justizverwaltungsleitung und des Obergerichts ist das Regionalgericht in Verwaltung und Organisation selbstständig.
 
-<sup>3</sup> Wo nötig, sprechen sich die Leitungsorgane mit jenen der übrigen in der Region Bern-Mittelland ansässigen Zivil-, Straf- und Jugendgerichtsbehörden und dem Obergericht ab.
+<sup>3</sup> Wo nötig, sprechen sich die Leitungsorgane mit jenen der übrigen in der Region Bern-Mittelland ansässigen Zivil- und Strafgerichtsbehörden und dem Obergericht ab.
 
 #### Art. 2
 
 **Grundsätze der Selbstverwaltung**
 
-<sup>1</sup> Die Grundsätze der Führungs-, Leistungs- und Kostenorientierung gemäss Artikel 3 Absatz 2, 4 und 5 des Gesetzes vom 26. März 2002 über die Steuerung von Finanzen und Leistungen (FLG)[^2-1] sind von sämtlichen leitenden Personen und Organen des Regionalgerichts zu beachten und sinngemäss umzusetzen.
+<sup>1</sup> Die Leitungsorgane beachten sinngemäss die allgemeinen Grundsätze der Steuerung von Finanzen und Leistungen gemäss Artikel 3 des Finanzhaushaltsgesetzes vom 15. Juni 2022 (FHG)[^2-1].
 
 <sup>2</sup> Das Regionalgericht bekennt sich gegen innen und aussen zum Grundsatz der Transparenz und zum Recht auf Information, unter Beachtung des Amtsgeheimnisses und des Datenschutzes.
 
-[^2-1]: BSG 620.0
+[^2-1]: BSG [620.0](https://www.belex.sites.be.ch/data/620.0/de)
 
 #### Art. 3
 
@@ -67,7 +66,7 @@ beschliesst:
 
 - a die Richterkonferenz,
 - b die Geschäftsleitung,
-- c die zivil- und die strafrechtliche Abteilung.
+- c die Konferenzen der beiden Abteilungen.
 
 ### 2.1 Richterkonferenz
 
@@ -171,8 +170,8 @@ beschliesst:
 - e das Personalwesen des Regionalgerichts, insbesondere für die Anstellung des Personals, dessen Zuteilung auf die Abteilungen und die Aushilfe in anderen Abteilungen,
 - f die Aufsicht über den Sekretariatsbetrieb,
 - g die Aufsicht über das Rechnungswesen,
-- h den Entscheid über die Aushilfe von Gerichtpräsidentinnen und Gerichtspräsidenten in der anderen Abteilung und anderen Behörden,
-- i den Einsatz von Aushilfen aus anderen Behörden,
+- h den Entscheid über die Aushilfe von Gerichtpräsidentinnen und Gerichtspräsidenten in der anderen Abteilung,
+- i den Einsatz von vom Obergericht bezeichneten Aushilfen aus anderen Behörden,
 - k die Festlegung der Grundsätze betreffend Registratur, Dossierführung und Archivierung,
 - l die Gewährleistung einer den Bedürfnissen angepassten Weiterbildung,
 - m die Ausarbeitung und Verabschiedung des Sicherheitskonzepts und der Hausordnung,
@@ -216,13 +215,13 @@ beschliesst:
 - a Abschluss der jährlichen Ressourcenvereinbarungen mit dem Obergericht,
 - b Abschluss der notwendigen Vereinbarungen mit dem kantonalen Zwangsmassnahmengericht, dem Wirtschaftsstrafgericht, dem Jugendgericht und der regionalen Schlichtungsbehörde Bern-Mittelland,
 - c Einberufung und Leitung der Sitzungen der Geschäftsleitung und der Richterkonferenz,
-- d Vertretung des Regionalgerichts in der Erweiterten Geschäftsleitung,
-- e Vertretung und Wahrung der Interessen der in der Region Bern-Mittelland ansässigen Zivil-, Straf- und Jugendgerichtsbehörden in der Erweiterten Geschäftsleitung,
+- d Vertretung des Regionalgerichts in der Erweiterten Geschäftsleitung des Obergerichts,
+- e Vertretung und Wahrung der Interessen der in der Region Bern-Mittelland ansässigen Zivil- und Strafgerichtsbehörden in der Erweiterten Geschäftsleitung,
 - f Vertretung des Regionalgerichts gegen aussen,
-- g Führen der Jahresgespräche mit der Stellvertreterin oder dem Stellvertreter und mit den Gerichtspräsidentinnen und Gerichtspräsidenten der eigenen Abteilung,
+- g Führen der Standortgespräche mit der Stellvertreterin oder dem Stellvertreter und mit den Gerichtspräsidentinnen und Gerichtspräsidenten der eigenen Abteilung,
 - h Führung der leitenden Gerichtsschreiberin oder des leitenden Gerichtsschreibers und der oder des Ressourcenverantwortlichen.
 
-<sup>2</sup> Sie oder er sorgt für den Informationsfluss zwischen den einzelnen Organen des Regionalgerichts und zu den in der Region Bern-Mittelland ansässigen Zivil-, Straf- und Jugendgerichtsbehörden.
+<sup>2</sup> Sie oder er sorgt für den Informationsfluss zwischen den einzelnen Organen des Regionalgerichts und zu den in der Region Bern-Mittelland ansässigen Zivil- und Strafgerichtsbehörden.
 
 #### Art. 14
 
@@ -230,9 +229,9 @@ beschliesst:
 
 <sup>1</sup> Die Stellvertreterin oder der Stellvertreter unterstützt die Vorsitzende oder den Vorsitzenden der Geschäftsleitung bei der Aufgabenerfüllung und vertritt sie oder ihn im Verhinderungsfall.
 
-<sup>2</sup> Sie oder er vertritt das Regionalgericht in Angelegenheiten, welche ihre Abteilung betreffen.
+<sup>2</sup> Sie oder er vertritt das Regionalgericht in Angelegenheiten, welche die eigene Abteilung betreffen.
 
-<sup>3</sup> Sie oder er führt die Jahresgespräche mit den Gerichtspräsidentinnen und Gerichtspräsidenten der eigenen Abteilung und informiert die Vorsitzende oder den Vorsitzenden der Geschäftsleitung darüber.
+<sup>3</sup> Sie oder er führt die Standortgespräche mit den Gerichtspräsidentinnen und Gerichtspräsidenten der eigenen Abteilung und informiert die Vorsitzende oder den Vorsitzenden der Geschäftsleitung darüber.
 
 ### 2.4 Zivilrechtliche Abteilung und strafrechtliche Abteilung
 
@@ -298,7 +297,7 @@ beschliesst:
 
 - a Einberufung und Leitung der Abteilungskonferenz,
 - b Vollzug der Beschlüsse der Geschäftsleitung, der Richterkonferenz und der Abteilungskonferenz,
-- c Aufsicht über den Sekretariatsbetrieb und Führung der Leiterin oder des Leiters des Sekretariats,
+- c Aufsicht über den Kanzleibetrieb und Führung der Leiterin oder des Leiters der Kanzlei,
 - d Führung der federführenden Gerichtsschreiberin oder des federführenden Gerichtsschreibers,
 - e Pflege des Kontakts mit den Laienrichterinnen und Laienrichtern sowie den Fachrichterinnen und Fachrichtern und deren Information,
 - f Schaffung eines abteilungsinternen Belastungsausgleichs,
@@ -424,13 +423,28 @@ beschliesst:
 
 #### Art. 31
 
-**Finanzkompetenzen**
+**Finanzkompetenzen für Verwaltungsaufgaben**
 
-<sup>1</sup> Die oder der Vorsitzende der Geschäftsleitung entscheidet über einmalige Ausgaben bis zu einer Höhe von 10 000 Franken in eigener Kompetenz.
+<sup>1</sup> Die oder der Vorsitzende der Geschäftsleitung und die Ressourcenverantwortliche oder der Ressourcenverantwortliche bewilligen Ausgaben für Verwaltungsaufgaben bis zu einer Höhe von 30'000 Franken in je eigener Kompetenz. Eine Delegation an andere Mitglieder der Geschäftsleitung ist möglich.
 
-<sup>2</sup> Die Stellvertretung der oder des Vorsitzenden der Geschäftsleitung entscheidet über einmalige Ausgaben bis zu einer Höhe von 8000 Franken in eigener Kompetenz.
+<sup>2</sup> Ausgaben über 30'000 Franken bedürfen einer Ausgabenbewilligung durch die Geschäftsleitung des Obergerichts.
 
-<sup>3</sup> Die leitende Gerichtsschreiberin oder der leitende Gerichtsschreiber sowie die oder der Ressourcenverantwortliche entscheiden über einmalige Ausgaben bis zu einer Höhe von 4000 Franken in eigener Kompetenz.
+<sup>3</sup> …
+
+#### Art. 31a
+
+**Finanzkompetenzen für Verfahren in Zivil- und Strafsachen**
+
+<sup>1</sup> Für die Ausgaben in Zusammenhang mit Verfahren in Zivil- und Strafsachen gilt die finanzielle Belegfreigabe unabhängig von der Höhe als Ausgabenbewilligung (Art. 31 Abs. 1 Bst. e der Finanzhaushaltsverordnung vom 16.11.2022 [FHaV][^31a-1]).
+
+<sup>2</sup> Die Verfahrensleitung ist für die materielle Prüfung der Ausgaben zuständig. Obliegt ihr bei einer Ausgabe die finanzielle Belegfreigabe, übernimmt die im betroffenen Verfahren zuständige Gerichtsschreiberin oder Gerichtssekretärin bzw. der zuständige Gerichtsschreiber oder Gerichtssekretär die materielle Prüfung.
+
+<sup>3</sup> Die finanzielle Belegfreigabe erfolgt
+
+- a bei Ausgaben bis zu einer Höhe von 30'000 Franken durch ein Mitglied der Geschäftsleitung,
+- b bei Ausgaben über 30'000 Franken durch die oder den Vorsitzenden der Geschäftsleitung oder durch deren oder dessen Stellvertreterin oder Stellvertreter.
+
+[^31a-1]: BSG [621.1](https://www.belex.sites.be.ch/data/621.1/de)
 
 ### 3.4 Protokollierung und Information
 
@@ -452,7 +466,7 @@ beschliesst:
 
 <sup>4</sup> Nach Ablauf dieser Frist sind die Protokolle der Sitzungen der Richterkonferenz und der Geschäftsleitung allen ordentlich gewählten Gerichtspräsidentinnen und Gerichtspräsidenten, diejenigen der Abteilungskonferenz denjenigen der betroffenen Abteilung zur Kenntnis zu bringen. Zur Wahrung des Schutzes der Persönlichkeit kann in Einzelfällen davon abgewichen werden.
 
-<sup>5</sup> Dem übrigen Personal sind die Beschlüsse durch Protokollauszüge oder in anderer geeigneter Form durch die Vorsitzende oder den Vorsitzenden der Geschäftsleitung oder die Abteilungsleiterin oder den Abteilungsleiter mitzuteilen.
+<sup>5</sup> Dem übrigen Personal sind die Beschlüsse durch Protokollauszüge oder in anderer geeigneter Form mitzuteilen.
 
 #### Art. 34
 

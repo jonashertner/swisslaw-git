@@ -4,13 +4,12 @@ number: "163.23"
 title: Règlement de gestion du Tribunal régional Berne-Mittelland
 short: RG TR BM
 language: fr
-version: 2011-01-01
-valid_until: 2023-12-31
-version_adopted: 2011-01-01
+version: 2024-01-01
+version_adopted: 2023-11-13
 adopted: 2010-11-09
 in_force: 2010-11-09
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/163.23"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/140/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2916/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/140/pdf_file"
 
 (RG TR BM)
 
-du 09.11.2010 (état au 01.01.2011)
+du 09.11.2010 (état au 01.01.2024)
 
 Le Tribunal régional de Berne-Mittelland,
 
@@ -37,19 +36,19 @@ arrête:
 
 <sup>1</sup> Le Tribunal régional est indépendant dans l’exercice de ses compétences juridictionnelles et n’est soumis qu’au droit.
 
-<sup>2</sup> Sous réserve des tâches et des attributions de la Direction de la magistrature et de la Cour suprême, le Tribunal régional s’administre et s’organise lui-même.
+<sup>2</sup> Sous réserve des tâches et des attributions de la Direction administrative de la magistrature et de la Cour suprême, le Tribunal régional s’administre et s’organise lui-même.
 
-<sup>3</sup> Si nécessaire, les organes de direction se concertent avec ceux des autres autorités judiciaires civiles et pénales et des mineurs de la région de Berne-Mittelland ainsi qu’avec la Cour suprême.
+<sup>3</sup> Si nécessaire, les organes de direction se concertent avec ceux des autres autorités judiciaires civiles et pénales de la région de Berne-Mittelland ainsi qu’avec la Cour suprême.
 
 #### Art. 2
 
 **Principes de l’auto-administration**
 
-<sup>1</sup> Les personnes et les organes de direction du Tribunal régional respectent et appliquent par analogie les principes visant à mettre l’accent sur la direction stratégique, les prestations fournies et les coûts selon l’article 3, alinéas 2, 4 et 5 de la loi du 26 mars 2002 sur le pilotage des finances et des prestations (LFP)[^2-1].
+<sup>1</sup> Les organes de direction du Tribunal régional respectent par analogie les principes généraux visant à mettre l’accent sur le pilotage des finances et des prestations selon l’article 3 de la loi du 15 juin 2022 sur les finances (LFin)[^2-1].
 
 <sup>2</sup> Le Tribunal régional applique à l’interne comme à l’externe le principe de la transparence et du droit à l’information, tout en respectant le secret de fonction et la protection des données.
 
-[^2-1]: RSB 620.0
+[^2-1]: RSB [620.0](https://www.belex.sites.be.ch/data/620.0/fr)
 
 #### Art. 3
 
@@ -67,7 +66,7 @@ arrête:
 
 - a la conférence des juges,
 - b le directoire,
-- c la section civile et la section pénale.
+- c les conférences des deux sections.
 
 ### 2.1 Conférence des juges
 
@@ -171,8 +170,8 @@ arrête:
 - e les ressources humaines du Tribunal régional, en particulier l’engagement du personnel, son affectation aux sections et l’aide ponctuelle à d’autres sections;
 - f la surveillance du fonctionnement du secrétariat;
 - g la surveillance de la comptabilité;
-- h la décision d’affecter des présidents et présidentes de tribunal pour prêter main-forte à d’autres sections et autorités;
-- i la demande d’aide à d’autres autorités;
+- h la décision d’affecter des présidents et présidentes de tribunal pour prêter main-forte à d’autres sections;
+- i la demande d’aide, désignée par la Cour suprême, à d’autres autorités;
 - k la définition des principes régissant l’enregistrement, la gestion et l’archivage des dossiers;
 - l la garantie d’une formation continue adaptée aux besoins;
 - m l’élaboration et l’approbation du concept de sécurité et du règlement interne;
@@ -217,12 +216,12 @@ arrête:
 - b la conclusion des conventions nécessaires avec le Tribunal cantonal des mesures de contrainte, le Tribunal pénal économique, le Tribunal des mineurs et l’Autorité régionale de conciliation de Berne-Mittelland;
 - c la convocation et la présidence des séances du directoire et de la conférence des juges;
 - d la représentation du Tribunal régional au sein du directoire élargi de la Cour suprême;
-- e la représentation et la défense, au sein du directoire élargi, des intérêts des autorités judiciaires civile, pénale et des mineurs ayant leur siège dans la région;
+- e la représentation et la défense, au sein du directoire élargi, des intérêts des autorités judiciaires civiles et pénales ayant leur siège dans la région;
 - f la représentation du Tribunal régional à l’extérieur;
-- g la conduite des entretiens annuels avec le suppléant ou la suppléante et avec les présidents et présidentes de tribunal de sa section;
+- g la conduite des entretiens de bilan avec le suppléant ou la suppléante et avec les présidents et présidentes de tribunal de sa section;
 - h la direction du greffier ou de la greffière en chef et du ou de la responsable des ressources.
 
-<sup>2</sup> Il ou elle veille au flux de l’information entre les différents organes du Tribunal régional et avec les autorités judiciaires civile, pénale et des mineurs ayant leur siège dans la région Berne-Mittelland.
+<sup>2</sup> Il ou elle veille au flux de l’information entre les différents organes du Tribunal régional et avec les autorités judiciaires civiles et pénales ayant leur siège dans la région Berne-Mittelland.
 
 #### Art. 14
 
@@ -230,9 +229,9 @@ arrête:
 
 <sup>1</sup> Le suppléant ou la suppléante assiste le ou la juge en chef du directoire dans l’accomplissement des tâches et le ou la représente en cas d’empêchement.
 
-<sup>2</sup> Il ou elle représente le Tribunal régional dans les affaires concernant sa section.
+<sup>2</sup> Il ou elle représente le Tribunal régional dans les affaires concernant sa propre section.
 
-<sup>3</sup> Il ou elle conduit les entretiens annuels avec les présidents et présidentes de tribunal de sa section et en informe le ou la juge en chef du directoire.
+<sup>3</sup> Il ou elle conduit les entretiens de bilan avec les présidents et présidentes de tribunal de sa section et en informe le ou la juge en chef du directoire.
 
 ### 2.4 Section civile et section pénale
 
@@ -298,7 +297,7 @@ arrête:
 
 - a convoquer et présider la conférence de section;
 - b exécuter les décisions du directoire, de la conférence des juges et de la conférence de section;
-- c surveiller le fonctionnement du secrétariat et diriger le chef ou la cheffe du secrétariat;
+- c surveiller le fonctionnement de la chancellerie et diriger le chef ou la cheffe de la chancellerie;
 - d diriger le greffier ou la greffière en chef;
 - e entretenir les contacts avec les juges non professionnels et les juges spécialisés et veiller à leur information;
 - f aménager une compensation des charges au sein de la section;
@@ -424,13 +423,28 @@ arrête:
 
 #### Art. 31
 
-**Compétences financières**
+**Compétences financières pour les tâches administratives**
 
-<sup>1</sup> Le ou la juge en chef du directoire est seule compétente pour autoriser les dépenses uniques jusqu’à concurrence de 10 000 francs.
+<sup>1</sup> Le ou la juge en chef du directoire et le ou la responsable des ressources autorisent les dépenses pour les tâches administratives jusqu’à concurrence de 30'000 francs, chacun dans sa propre compétence. Une délégation à d’autres membres du directoire est possible.
 
-<sup>2</sup> Le suppléant ou la suppléante du ou de la juge en chef du directoire est seule compétente pour autoriser les dépenses uniques jusqu’à concurrence de 8 000 francs.
+<sup>2</sup> Les dépenses supérieures à 30'000 francs sont soumises à autorisation du Directoire de la Cour suprême.
 
-<sup>3</sup> Le greffier ou la greffière en chef ou le ou la responsable des ressources sont seuls compétents pour autoriser les dépenses uniques jusqu’à concurrence de 4 000 francs.
+<sup>3</sup> …
+
+#### Art. 31a
+
+**Compétences financières pour les procédures en matière civile et pénale**
+
+<sup>1</sup> Pour les dépenses liées aux procédures en matière civile et pénale, la validation financière des pièces comptables vaut autorisation de dépenses, quel que soit le montant (art. 31, al. 1, lit. e de l’ordonnance du 16.11.2022 sur les finances [OFin][^31a-1]).
+
+<sup>2</sup> La direction de la procédure est compétente pour l’examen matériel des dépenses. Si la validation financière des pièces comptables d’une dépense lui incombe, le greffier ou la greffière ou le ou la secrétaire de tribunal compétente dans la procédure concernée se charge de l’examen matériel.
+
+<sup>3</sup> La validation financière des pièces comptables est effectuée
+
+- a pour les dépenses jusqu’à 30'000 francs, par un membre du directoire;
+- b pour les dépenses supérieures à 30'000 francs, par le ou la juge en chef du directoire ou par son suppléant ou sa suppléante.
+
+[^31a-1]: RSB [621.1](https://www.belex.sites.be.ch/data/621.1/fr)
 
 ### 3.4 Procès-verbaux et information
 
@@ -452,7 +466,7 @@ arrête:
 
 <sup>4</sup> Une fois ce délai écoulé, les procès-verbaux des séances de la conférence des juges et du directoire doivent être portés à la connaissance de tous les présidents et présidentes de tribunal ordinaires, ceux de la conférence de section aux présidents et présidentes de tribunal ordinaires de la section concernée. Dans des cas déterminés, il peut être dérogé à cette règle pour des motifs de protection de la personnalité.
 
-<sup>5</sup> Les décisions peuvent être communiquées au personnel dans des extraits de procès-verbaux ou d’une autre manière appropriée par le ou la juge en chef du directoire ou par le chef ou la cheffe de section.
+<sup>5</sup> Les décisions peuvent être communiquées au personnel dans des extraits de procès-verbaux ou d’une autre manière appropriée.
 
 #### Art. 34
 
@@ -460,7 +474,7 @@ arrête:
 
 <sup>1</sup> Les membres du directoire ont accès à tous les dossiers de la conférence des juges et du directoire.
 
-<sup>2</sup> Les autres présidents et présidentes de tribunal ordinaires ont accès aux dossiers dans lamesure où ils sont personnellement concernés ou s’ils en ont besoin pour l’accomplissement de leurs tâches.
+<sup>2</sup> Les autres présidents et présidentes de tribunal ordinaires ont accès aux dossiers dans la mesure où ils sont personnellement concernés ou s’ils en ont besoin pour l’accomplissement de leurs tâches.
 
 ### 3.5 Règlement des conflits
 
