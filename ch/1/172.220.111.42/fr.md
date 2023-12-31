@@ -3,11 +3,11 @@ sr: "172.220.111.42"
 title: "Ordonnance du 5 novembre 2014 sur le traitement des données personnelles sur l'Intranet et l'Extranet du DFAE (Ordonnance Web-DFAE)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/655"
 language: fr
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2014-11-05
 in_force: 2014-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/655/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2014-655-20230901-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/655/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/655/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2014-655-20240101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/655/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2014/655/20230901/fr"
 
 (Ordonnance Web-DFAE)
 
-du 5 novembre 2014 (État le 1<sup>er</sup> septembre 2023)
+du 5 novembre 2014 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -128,7 +128,11 @@ Les personnes suivantes ont accès à l’Extranet du DFAE:
 
 <sup>2</sup> Le responsable des applications joue le rôle d’interface entre l’administrateur système et l’utilisateur. Il est employé du DFAE.
 
-## Section 3 Protection des données et sécurité informatique
+## Section 3 Protection des données et sécurité de l’information
+
+[^sec3-1]
+
+[^sec3-1]: Nouvelle teneur selon l’annexe 2 ch. II 11 de l’O du 8 nov. 2023 sur la sécurité de l’information, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
 
 #### Art. 10
 
@@ -152,17 +156,18 @@ Les personnes suivantes ont accès à l’Extranet du DFAE:
 
 <sup>1</sup>
 
-La sécurité des données et la sécurité informatique sont régies par:
+La sécurité des données et la sécurité de l’information sont régies par:[^12-1]
 
-- a.[^12-1] l’ordonnance du 31 août 2022 sur la protection des données[^12-2];
-- b. l’ordonnance du 27 mai 2020 sur les cyberrisques[^12-3].[^12-4]
+- a.[^12-2] l’ordonnance du 31 août 2022 sur la protection des données[^12-3];
+- b.[^12-4] l’ordonnance du 8 novembre 2023 sur la sécurité de l’information[^12-5].
 
 <sup>2</sup> Le SG-DFAE édicte un règlement relatif au traitement des données qui définit les mesures techniques et organisationnelles requises pour assurer la sécurité des données ainsi que le contrôle du traitement des données.
 
-[^12-1]: Nouvelle teneur selon l’annexe 2 ch. II 26 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^12-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^12-3]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^12-4]: Nouvelle teneur selon l’annexe ch. 8 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^12-1]: Nouvelle teneur selon l’annexe 2 ch. II 11 de l’O du 8 nov. 2023 sur la sécurité de l’information, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^12-2]: Nouvelle teneur selon l’annexe 2 ch. II 26 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^12-3]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^12-4]: Nouvelle teneur selon l’annexe 2 ch. II 11 de l’O du 8 nov. 2023 sur la sécurité de l’information, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^12-5]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
 
 #### Art. 13
 

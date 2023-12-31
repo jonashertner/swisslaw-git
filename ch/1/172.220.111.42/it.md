@@ -3,11 +3,11 @@ sr: "172.220.111.42"
 title: "Ordinanza del 5 novembre 2014 sull'elaborazione di dati personali nell'Intranet e nell'Extranet del DFAE (Ordinanza Web DFAE)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/655"
 language: it
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2014-11-05
 in_force: 2014-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/655/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2014-655-20230901-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/655/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/655/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2014-655-20240101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/655/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2014/655/20230901/it"
 
 (Ordinanza Web DFAE)
 
-del 5 novembre 2014 (Stato 1° settembre 2023)
+del 5 novembre 2014 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -130,7 +130,11 @@ Le seguenti persone hanno accesso all’Extranet DFAE:
 
 <sup>2</sup> Il responsabile delle applicazioni funge da interfaccia tra l’amministratore del sistema e gli utenti. Egli è impiegato presso il DFAE.
 
-## Sezione 3: Protezione dei dati e sicurezza informatica
+## Sezione 3: Protezione dei dati e sicurezza delle informazioni
+
+[^sec3-1]
+
+[^sec3-1]: Nuovo testo giusta l’all. 2 n. II 11 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
 
 #### Art. 10
 
@@ -154,17 +158,19 @@ Le seguenti persone hanno accesso all’Extranet DFAE:
 
 <sup>1</sup>
 
-La sicurezza dei dati e la sicurezza informatica sono disciplinate:
+La sicurezza dei dati e la sicurezza delle informazioni sono disciplinate:[^12-1]
 
-- a.[^12-1] dall’ordinanza del 31 agosto 2022[^12-2] sulla protezione dei dati;
-- b. dall’ordinanza del 27 maggio 2020[^12-3] sui ciber-rischi.[^12-4]
+- a.[^12-2] dall’ordinanza del 31 agosto 2022[^12-3] sulla protezione dei dati;
+- b.[^12-4] dall’ordinanza dell’8 novembre 2023[^12-5] sulla sicurezza delle informazioni.[^12-6]
 
 <sup>2</sup> La SG DFAE emana un regolamento per il trattamento dei dati. Quest’ultimo disciplina le misure organizzative e tecniche atte a garantire la sicurezza dei dati e il controllo del trattamento dei dati.
 
-[^12-1]: Nuovo testo giusta l’all. 2 n. II 26 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^12-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^12-3]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^12-4]: Nuovo testo giusta l’all. n. 8 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^12-1]: Nuovo testo giusta l’all. 2 n. II 11 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^12-2]: Nuovo testo giusta l’all. 2 n. II 26 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^12-3]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^12-4]: Nuovo testo giusta l’all. 2 n. II 11 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^12-5]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^12-6]: Nuovo testo giusta l’all. n. 8 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 13
 

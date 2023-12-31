@@ -3,11 +3,11 @@ sr: "172.220.111.42"
 title: Verordnung vom 5. November 2014 über die Bearbeitung von Personendaten im Intranet und im Extranet des EDA (Web-EDA-Verordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/655"
 language: de
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2014-11-05
 in_force: 2014-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/655/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2014-655-20230901-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/655/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/655/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2014-655-20240101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/655/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2014/655/20230901/de"
 
 (Web-EDA-Verordnung)
 
-vom 5. November 2014 (Stand am 1. September 2023)
+vom 5. November 2014 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -128,7 +128,11 @@ Folgende Personen haben Zugriff auf das Extranet EDA:
 
 <sup>2</sup> Die oder der Anwendungsverantwortliche bildet die Schnittstelle zwischen der Systemadministratorin oder dem Systemadministrator und den Benutzerinnen und Benutzern. Sie oder er ist beim EDA angestellt.
 
-## 3. Abschnitt: Datenschutz und Informatiksicherheit
+## 3. Abschnitt: Datenschutz und Informationssicherheit
+
+[^sec3-1]
+
+[^sec3-1]: Fassung gemäss Anhang 2 Ziff. II 11 der Informationssicherheitsverordnung vom 8. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
 
 #### Art. 10
 
@@ -152,17 +156,19 @@ Folgende Personen haben Zugriff auf das Extranet EDA:
 
 <sup>1</sup>
 
-Die Daten- und die Informatiksicherheit richten sich nach:
+Die Daten- und die Informationssicherheit richten sich nach:[^12-1]
 
-- a.[^12-1] der Datenschutzverordnung vom 31. August 2022[^12-2];
-- b. der Cyberrisikenverordnung vom 27. Mai 2020[^12-3].[^12-4]
+- a.[^12-2] der Datenschutzverordnung vom 31. August 2022[^12-3];
+- b.[^12-4] der Informationssicherheitsverordnung vom 8. November 2023[^12-5].[^12-6]
 
 <sup>2</sup> Das GS EDA erlässt ein Bearbeitungsreglement. Dieses regelt die organisatorischen und technischen Massnahmen zur Gewährleistung der Datensicherheit sowie die Kontrolle der Datenbearbeitung.
 
-[^12-1]: Fassung gemäss Anhang 2 Ziff. II 26 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^12-2]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^12-3]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^12-4]: Fassung gemäss Anhang Ziff. 8 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^12-1]: Fassung gemäss Anhang 2 Ziff. II 11 der Informationssicherheitsverordnung vom 8. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^12-2]: Fassung gemäss Anhang 2 Ziff. II 26 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^12-3]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^12-4]: Fassung gemäss Anhang 2 Ziff. II 11 der Informationssicherheitsverordnung vom 8. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^12-5]: [SR 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^12-6]: Fassung gemäss Anhang Ziff. 8 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 13
 
