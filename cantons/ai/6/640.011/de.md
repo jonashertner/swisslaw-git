@@ -4,20 +4,22 @@ number: "640.011"
 title: Standeskommissionsbeschluss zum Steuergesetz und zur Steuerverordnung
 short: StKB Steuern
 language: de
-version: 2022-01-01
-valid_until: 2023-12-31
-version_adopted: 2021-12-07
+version: 2024-01-01
+valid_until: 2024-05-31
+version_adopted: 2024-01-23
 adopted: 2000-12-05
 in_force: 2001-01-01
 url: "https://ai.clex.ch/app/de/texts_of_law/640.011"
-pdf: "https://ai.clex.ch/api/de/versions/1974/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/2257/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Standeskommissionsbeschluss zum Steuergesetz und zur Steuerverordnung
 
-vom 05.12.2000 (Stand 01.01.2022)
+(StKB Steuern)
+
+vom 05.12.2000 (Stand 01.01.2024)
 
 Die Standeskommission des Kantons Appenzell I.Rh.,
 
@@ -133,7 +135,7 @@ beschliesst:
 
 <sup>1</sup> Bei unselbständiger Nebenerwerbstätigkeit werden die notwendigen Berufskosten nach den für die direkte Bundessteuer massgebenden Pauschalansätzen abgezogen.
 
-<sup>2</sup> Nebenamtliche Behördenmitglieder von Kanton, Bezirk und Gemeinden können pro Jahr für allgemeine und besondere Aufwendungen pauschal 20% des entsprechenden Nettoeinkommens (Entschädigungen, Sitzungsgelder etc.) abziehen. Der Abzug beträgt höchstens Fr. 10'000.--.
+<sup>2</sup> Nebenamtliche Behördenmitglieder von Kanton, Bezirk und Gemeinden können pro Jahr für allgemeine und besondere Aufwendungen pauschal 20% des entsprechenden Nettoeinkommens (Funktionsentschädigungen etc., ohne Sitzungsgelder) abziehen. Der Abzug beträgt höchstens Fr. 10'000.--.
 
 <sup>3</sup> Der Pauschalabzug gemäss Abs. 1 und 2 ist ausgeschlossen, wenn die tatsächlichen Aufwendungen von der Geschäftsrechnung des Steuerpflichtigen oder vom Arbeitgeber getragen werden. Der Nachweis höherer Kosten bleibt vorbehalten.
 
@@ -211,7 +213,7 @@ beschliesst:
 
 <sup>2</sup> Für Grundstücke, die dem bäuerlichen Bodenrecht unterstellt sind und alle übrigen Grundstücke gilt die amtliche Verkehrswertschätzung unverändert.
 
-<sup>3</sup> Der für die jeweilige Steuerperiode anwendbare Steuerwert wird den Liegenschaftseigentümern mittels Liegenschaftsblatt jährlich im Rahmen des Steuererklärungsversands mitgeteilt.
+<sup>3</sup> …
 
 #### Art. 13
 
@@ -372,6 +374,62 @@ beschliesst:
 - h) die Erbschaftsämter: die Verfügungen von Todes wegen;
 - i) Gerichte und alle Amtsstellen von Staat und Bezirken: Tatsachen, die Anlass für die Einleitung eines Nachsteuerverfahrens sein können.
 
+#### Art. 21bis
+
+**Elektronische Steuerdeklarationslösung (Art. 123<sup>ter</sup> StG)**
+
+<sup>1</sup> Die elektronische Eingabe von Steuererklärungen muss mit einer von der Steuerverwaltung zur Verfügung gestellten Steuerdeklarationslösung vorgenommen werden.
+
+<sup>2</sup> Das Finanzdepartement kann die Verwendung anderer elektronischer Lösungen bewilligen. Es kann für deren Einsatz Auflagen anordnen und das Erforderliche festlegen.
+
+<sup>3</sup> Steuerpflichtige, die im Kanton nur aufgrund wirtschaftlicher Zugehörigkeit steuerpflichtig sind, können eine Kopie der Steuererklärung des Wohnsitzkantons über die zugelassene Steuerdeklarationslösung einreichen.
+
+<sup>4</sup> Steuerpflichtige ohne steuerrechtlichen Wohnsitz oder Aufenthalt in der Schweiz können zur Erfüllung ihrer Deklarationspflicht die Steuererklärung des Kantons mit dem grössten Teil der steuerbaren Werte elektronisch einlesen, sofern dies technisch möglich ist.
+
+#### Art. 21ter
+
+**Authentifizierung**
+
+<sup>1</sup> Die persönliche Mitteilung zur Einreichung der elektronischen Steuererklärung enthält den persönlichen Zugangscode für die elektronische Einreichung.
+
+<sup>2</sup> Für die Nutzung der Steuerdeklarationslösung ist eine Authentifizierung mit dem persönlichen Zugangscode erforderlich. Es können weitere Authentifizierungsmerkmale verlangt werden (Multifaktor-Authentifizierung).
+
+<sup>3</sup> Die Zugangsdaten dürfen für die Bearbeitung und Einreichung der Steuererklärung an damit beauftragte Personen weitergegeben werden, müssen aber ansonsten vertraulich behandelt und sicher aufbewahrt werden.
+
+#### Art. 21quater
+
+**Einreichefrist**
+
+<sup>1</sup> Die Steuererklärung muss samt Beilagen in der von der kantonalen Steuerverwaltung vorgegebenen Frist elektronisch eingereicht werden.
+
+<sup>2</sup> Sie gilt mit dem Erhalt der Übermittlungsquittung als eingereicht.
+
+<sup>3</sup> Die Bestimmungen über die verspätete Einreichung und die Fristerstreckung für die in Papierform eingereichte Steuererklärung gelten auch für die elektronisch eingereichte Steuererklärung.
+
+#### Art. 21quinquies
+
+**Übermittlung und Übermittlungsquittung**
+
+<sup>1</sup> Nach erfolgreicher Übermittlung der Steuererklärung erhalten die Steuerpflichtigen auf elektronischem Weg umgehend eine Meldung über den Eingang und eine Übermittlungsquittung. Die Meldung und die Quittung sind zu kontrollieren.
+
+<sup>2</sup> Ist die Übermittlung fehlgeschlagen und danach die Einreichungsfrist abgelaufen, gilt die Frist auch dann noch als gewahrt, wenn die Steuererklärung innert zehn Arbeitstagen nach dem fristgerechten Übermittlungsversuch mit dem amtlichen Steuererklärungsformular physisch nachgereicht wird. Der Ausdruck aus der webbasierten Steuerdeklarationslösung gilt nicht als amtliches Steuererklärungsformular.
+
+#### Art. 21sexies
+
+**Korrektur der Steuererklärung**
+
+<sup>1</sup> Nach der erfolgreichen Übermittlung haben die Steuerpflichtigen 72 Stunden Zeit, um ihre Steuererklärung elektronisch zu korrigieren und erneut zu übermitteln. Als Einreichungszeitpunkt gilt der Zeitpunkt der Erstübermittlung.
+
+<sup>2</sup> Nach Ablauf der 72 Stunden sind allfällige Änderungen an der elektronisch eingereichten Steuererklärung nur noch mittels schriftlicher Meldung an die kantonale Steuerverwaltung möglich.
+
+#### Art. 21septies
+
+**Datenhaltung und Verschlüsselung (Art. 123<sup>quater</sup> StG)**
+
+<sup>1</sup> Die von den Steuerpflichtigen übermittelten Daten werden während 72 Stunden nach der ersten elektronischen Übermittlung (Korrekturfrist) verschlüsselt gespeichert.
+
+<sup>2</sup> Nach Ablauf dieser Frist werden die Daten verschlüsselt an den Kanton zur Weiterverarbeitung zugestellt.
+
 #### Art. 22
 
 **Rückerstattung des Kirchensteueranteils (Art. 148 Abs. 3 StG)**
@@ -453,7 +511,9 @@ beschliesst:
 
 **Zinsen und Bezugsuntergrenze (Art. 160 StG)**
 
-<sup>1</sup> Die Standeskommission setzt periodisch die Sätze für den Ausgleichs- und den Verzugszins aufgrund der Marktverhältnisse durch besonderen Beschluss fest.
+<sup>1</sup> Der Ausgleichszins zugunsten und zulasten der Steuerpflichtigen beträgt 1,0 Prozent.
+
+<sup>1<sup>bis</sup></sup> Der Verzugszins sowie der Vergütungszins betragen 4,5 Prozent. Dies gilt auch für die im Sinne von Art. 161 StG gestundeten Forderungen.
 
 <sup>2</sup> Steuerbeträge einschliesslich Ausgleichszinsen aufgrund einer Schlussrechnung sowie Verzugszinsen werden nicht bezogen bzw. nicht vergütet, wenn sie pro betroffene Steuerperiode nicht mehr als Fr. 40.-- betragen.
 
