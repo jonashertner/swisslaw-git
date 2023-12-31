@@ -4,13 +4,13 @@ number: "720.015"
 title: Disposizioni esecutive della legislazione sulle imposte
 short: DELIG
 language: it
-version: 2023-01-01
-valid_until: 2023-12-31
-version_adopted: 2022-11-29
+version: 2024-01-01
+valid_until: 2024-12-31
+version_adopted: 2024-01-23
 adopted: 2007-11-27
 in_force: 2008-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/720.015"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3280/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3354/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/3280/pdf_file"
 
 (DELIG)
 
-del 27.11.2007 (stato 01.01.2023)
+del 27.11.2007 (stato 01.01.2024)
 
 emanate dal Governo il 27 novembre 2007
 
@@ -140,7 +140,7 @@ visti l'art. 182 cpv. 4 della legge federale del 14 dicembre 1990 sull'imposta f
 
 **4. Riduzione del valore locativo proprio (art. 22 cpv. 4 LIG)**
 
-<sup>1</sup> In caso di una sostanza imponibile inferiore a 600 000 franchi il valore locativo proprio imponibile può ammontare al massimo al 30 per cento delle entrate in contanti.
+<sup>1</sup> In caso di una sostanza imponibile inferiore a 600 000 franchi il valore locativo proprio imponibile può ammontare al massimo al 30 per cento delle entrate in contanti. Il valore locativo proprio deve tuttavia sempre ammontare almeno al 60 per cento del valore locativo di mercato.
 
 #### Art. 10a
 
@@ -372,37 +372,44 @@ visti l'art. 182 cpv. 4 della legge federale del 14 dicembre 1990 sull'imposta f
 - c) tariffario C: coniugi non separati legalmente o di fatto che esercitano entrambi un'attività lucrativa;
 - d) …
 - e) tariffario E: persone con imposizione secondo la procedura di conteggio semplificata di cui all'articolo 99a LIG;
-- f) tariffario F: lavoratori frontalieri secondo l'Accordo del 3 ottobre 1974[^25-1] tra la Svizzera e l'Italia relativo all'imposizione dei lavoratori frontalieri ed alla compensazione finanziaria a favore dei Comuni italiani di confine che risiedono in un Comune italiano di confine e il cui coniuge esercita un'attività lucrativa al di fuori della Svizzera. Per questo tariffario viene inserito il tariffario C; è fatta salva la prova che il coniuge domiciliato all'estero non consegue alcun reddito da attività lucrativa (tariffario B);
+- f) …
 - f<sup>bis</sup>) tariffario G: persone assoggettate all'imposta alla fonte che percepiscono proventi compensativi di cui all'articolo 27a che non sono versati tramite il datore di lavoro;
 - g) tariffario H: persone celibi o nubili, divorziate, separate legalmente o di fatto o vedove, che vivono in comunione domestica con figli o persone bisognose al cui sostentamento provvedono in modo essenziale;
-- h) tariffario L: frontalieri secondo la Convenzione dell'11 agosto 1971[^25-2] tra la Confederazione Svizzera e la Repubblica federale di Germania per evitare la doppia imposizione in materia di imposte sul reddito e sulla sostanza (CDI-D) che adempiono le condizioni richieste per il tariffario A;
+- h) tariffario L: frontalieri secondo la Convenzione dell'11 agosto 1971[^25-1] tra la Confederazione Svizzera e la Repubblica federale di Germania per evitare la doppia imposizione in materia di imposte sul reddito e sulla sostanza (CDI-D) che adempiono le condizioni richieste per il tariffario A;
 - i) tariffario M: frontalieri secondo la CDI-D che adempiono le condizioni richieste per il tariffario B;
 - j) tariffario N: frontalieri secondo la CDI-D che adempiono le condizioni richieste per il tariffario C;
 - k) …
 - l) tariffario P: frontalieri secondo la CDI-D che adempiono le condizioni richieste per il tariffario H;
-- m) tariffario Q: frontalieri secondo la CDI-D che adempiono le condizioni richieste per il tariffario G.
+- m) tariffario Q: frontalieri secondo la CDI-D che adempiono le condizioni richieste per il tariffario G;
+- n) tariffario R: lavoratori frontalieri imponibili secondo l'articolo 3 paragrafo 1 dell'Accordo del 23 dicembre 2020[^25-2] tra la Confederazione Svizzera e la Repubblica Italiana relativo all'imposizione dei lavoratori frontalieri (Accordo sui frontalieri CH-I) che adempiono le condizioni richieste per il tariffario A;
+- o) tariffario S: lavoratori frontalieri imponibili secondo l'articolo 3 paragrafo 1 dell'Accordo sui frontalieri CH-I che adempiono le condizioni richieste per il tariffario B;
+- p) tariffario T: lavoratori frontalieri imponibili secondo l'articolo 3 paragrafo 1 dell'Accordo sui frontalieri CH-I che adempiono le condizioni richieste per il tariffario C;
+- q) tariffario U: lavoratori frontalieri imponibili secondo l'articolo 3 paragrafo 1 dell'Accordo sui frontalieri CH-I che adempiono le condizioni richieste per il tariffario H;
+- r) tariffario V: lavoratori frontalieri imponibili secondo l'articolo 3 paragrafo 1 dell'Accordo sui frontalieri CH-I che adempiono le condizioni richieste per il tariffario G.
 
 <sup>1<sup>bis</sup></sup> L'imposta alla fonte (compresa la quota di comune e Chiesa) sui proventi compensativi cui si applica il tariffario G è fissata come segue:
 
-- a) 0,0 % per i primi fr. 18 000.–
-- b) 9,8 % per i successivi fr. 6000.–
-- c) 14,0 % per i successivi fr. 12 000.–
-- d) 16,4 % per i successivi fr. 12 000.–
-- e) 17,8 % per i successivi fr. 12 000.–
-- f) 17,1 % per i successivi fr. 30 000.–
-- g) 17,7 % per i successivi fr. 30 000.–
-- h) 19,1 % per i successivi fr. 60 000.–
-- i) 21,2 % per i successivi fr. 640 000.–
-- j) 20,0 % per l'intero reddito imponibile, se questo supera fr. 820 000.–.
+- a) 0,0 % per i primi fr. 19 080.–
+- b) 9,5 % per i successivi fr. 6360.–
+- c) 13,5 % per i successivi fr. 12 720.–
+- d) 16,0 % per i successivi fr. 12 720.–
+- e) 17,5 % per i successivi fr. 12 720.–
+- f) 17,0 % per i successivi fr. 31 800.–
+- g) 17,5 % per i successivi fr. 31 800.–
+- h) 18,7 % per i successivi fr. 63 600.–
+- i) 20,0 % per i successivi fr. 678 400.–
+- j) 19,0 % per l'intero reddito imponibile, se questo supera fr. 869 200.–.
 
-<sup>2</sup> L'Amministrazione cantonale delle imposte calcola le tariffe mensili secondo il capoverso 1 lettere a - c, f, g - j nonché l considerando o meno l'imposta di culto, conformemente alle deduzioni e alle tariffe vigenti per la tassazione ordinaria.
+<sup>1<sup>ter</sup></sup> L'imposta alla fonte applicata ai lavoratori frontalieri di cui all'articolo 1 lettere n - r ammonta all'80 percento dell'imposta alla fonte secondo il tariffario per il quale i lavoratori frontalieri adempiono le condizioni.
+
+<sup>2</sup> L'Amministrazione cantonale delle imposte calcola le tariffe mensili secondo il capoverso 1 lettere a - c, g - j, l nonché n - q considerando o meno l'imposta di culto, conformemente alle deduzioni e alle tariffe vigenti per la tassazione ordinaria.
 
 <sup>3</sup> Per la determinazione dell'aliquota, i proventi ordinari vengono convertiti su un anno. Per l'accertamento dell'aliquota d'imposta per il tariffario C si parte da un pari reddito da attività lucrativa dell'assoggettato all'imposta alla fonte e del coniuge; l'Amministrazione cantonale delle imposte limita il reddito dei coniugi.
 
 <sup>4</sup> …
 
-[^25-1]: RS [0.642.045.43](https://db.clex.ch/link/Bund/0.642.045.43/it)
-[^25-2]: RS [0.672.913.62](https://db.clex.ch/link/Bund/0.672.913.62/it)
+[^25-1]: RS [0.672.913.62](https://db.clex.ch/link/Bund/0.672.913.62/it)
+[^25-2]: RS [0.642.045.43](https://db.clex.ch/link/Bund/0.642.045.43/it)
 
 #### Art. 26
 
@@ -529,6 +536,8 @@ visti l'art. 182 cpv. 4 della legge federale del 14 dicembre 1990 sull'imposta f
 
 <sup>2</sup> Nell'ambito della procedura di tassazione l'autorità fiscale verifica se la persona assoggettata all'imposta alla fonte nell'anno fiscale soddisfa le condizioni della quasi residenza. A tal fine, determina secondo gli articoli 16 - 19 e 21 - 29 LIG dapprima i proventi lordi mondiali e in seguito la quota dei proventi lordi imponibili in Svizzera.
 
+<sup>3</sup> Per i lavoratori frontalieri secondo l'articolo 2 lettera b dell'Accordo sui frontalieri CH-I non può essere effettuata una tassazione ordinaria ulteriore in caso di quasi residenza.
+
 #### Art. 33b
 
 **3. Tassazione ordinaria ulteriore d'ufficio (art. 105a<sup>quater</sup> LIG)**
@@ -536,6 +545,8 @@ visti l'art. 182 cpv. 4 della legge federale del 14 dicembre 1990 sull'imposta f
 <sup>1</sup> Le competenti autorità fiscali cantonali possono procedere d'ufficio a una tassazione ordinaria ulteriore se dagli atti emerge il fondato sospetto che si è in presenza di una situazione estrema a favore o a sfavore del contribuente.
 
 <sup>2</sup> Per l'avvio di una procedura di tassazione ordinaria ulteriore d'ufficio si applica l'articolo 125 LIG sulla prescrizione del diritto di tassare.
+
+<sup>3</sup> Per i lavoratori frontalieri secondo l'articolo 2 lettera b dell'Accordo sui frontalieri CH-I non può essere effettuata una tassazione ordinaria ulteriore d'ufficio.
 
 #### Art. 34
 
