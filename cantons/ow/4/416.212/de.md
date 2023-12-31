@@ -3,20 +3,20 @@ canton: OW
 number: "416.212"
 title: Ausführungsbestimmungen über die Berufsmaturitätsschule
 language: de
-version: 2021-08-01
-valid_until: 2023-12-31
-version_adopted: 2021-07-01
+version: 2024-01-01
+valid_until: 2026-06-30
+version_adopted: 2023-12-05
 adopted: 2021-07-01
 in_force: 2021-08-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/416.212"
-pdf: "http://gdb.ow.ch/api/de/versions/1522/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1840/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Ausführungsbestimmungen über die Berufsmaturitätsschule
 
-vom 01.07.2021 (Stand 01.08.2021)
+vom 01.07.2021 (Stand 01.01.2024)
 
 Der Regierungsrat des Kantons Obwalden,
 
@@ -135,7 +135,7 @@ beschliesst:
 <sup>1</sup> In die Berufsmaturitätsschule wird aufgenommen, wer:
 
 - a. über eine abgeschlossene, mindestens dreijährige Grundbildung mit Eidgenössischem Fähigkeitszeugnis (EFZ) verfügt und
-- b. die Aufnahmeprüfung bestanden hat oder von der Aufnahmeprüfung dispensiert worden ist.
+- b. die Aufnahmeprüfung bestanden hat oder prüfungsfrei aufgenommen wird.
 
 #### Art. 10
 
@@ -144,30 +144,22 @@ beschliesst:
 <sup>1</sup> Mit der Anmeldung beim Berufs- und Weiterbildungszentrum sind einzureichen:
 
 - a. eine Kopie des Eidgenössischen Fähigkeitszeugnisses (EFZ);
-- b. allenfalls das begründete Gesuch um Befreiung von der Aufnahmeprüfung mit den nötigen Unterlagen;
+- b. allenfalls das begründete Gesuch um prüfungsfreie Aufnahme mit den nötigen Unterlagen;
 - c. der Nachweis der Kostengutsprache bei ausserkantonalem Wohnsitz.
 
 #### Art. 11
 
-**Prüfungsfreie Aufnahme**
+**Aufnahmeverfahren**
 
-<sup>1</sup> Über eine prüfungsfreie Aufnahme entscheidet das Amt für Berufsbildung bzw. die Dienststelle des Wohnsitzkantons.[^11-1]
+<sup>1</sup> Das Aufnahmeverfahren richtet sich für Personen mit Wohnsitz im Kanton nach den Ausführungsbestimmungen über die Aufnahme in Berufsmaturitätsschulen[^11-1].
 
-[^11-1]: Ausführungsbestimmungen über die Aufnahme in Berufsmaturitätsschulen und Fachmittelschulen, GDB [416.213](http://gdb.ow.ch/data/416.213/de)
+<sup>2</sup> Über die Aufnahme entscheidet das Amt für Berufsbildung bzw. die Dienststelle des Wohnsitzkantons.
+
+[^11-1]: Ausführungsbestimmungen über die Aufnahme in Berufsmaturitätsschulen, GDB [416.214](http://gdb.ow.ch/data/416.214/de)
 
 #### Art. 12
 
-**Aufnahmeprüfung**
-
-<sup>1</sup> Die Aufnahmeprüfung findet in der Regel im Frühling statt und wird zentralschweizerisch koordiniert.
-
-<sup>2</sup> Die Aufnahmeprüfung wird durch Lehrpersonen des Berufs- und Weiterbildungszentrums durchgeführt und beurteilt.
-
-<sup>3</sup> Der Prüfungsstoff entspricht dem geforderten Wissen am Schluss der Sekundarstufe I und umfasst, je nach Berufsmaturitäts-Ausrichtung, die Fächer Deutsch, Französisch, Englisch, Geometrie, Algebra und Arithmetik.
-
-<sup>4</sup> Die Aufnahmeprüfung ist bestanden, wenn der Durchschnitt aller Noten mindestens 4,0 beträgt und nicht mehr als eine Fachnote unter 4,0 liegt.
-
-<sup>5</sup> Die Aufnahmeprüfung bleibt gültig für einen Ausbildungsbeginn in den zwei folgenden Schuljahren.
+**…**
 
 ## 4. Unterricht
 
@@ -259,5 +251,11 @@ beschliesst:
 **Informationen zum Erlass**
 
 Ursprüngliche Fundstelle: OGS 2021, 25
+
+Ursprüngliches Inkrafttreten: 1. August 2021
+
+Geändert durch:
+
+\- Nachtrag vom 5. Dezember 2023, in Kraft seit 1. Januar 2024 (OGS 2023, 39)
 
 OGS 2021, 25
