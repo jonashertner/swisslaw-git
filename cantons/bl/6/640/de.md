@@ -3,20 +3,20 @@ canton: BL
 number: "640"
 title: Bildungsgesetz
 language: de
-version: 2023-10-01
-valid_until: 2023-12-31
-version_adopted: 2023-09-14
+version: 2024-01-01
+valid_until: 2024-07-31
+version_adopted: 2023-01-26
 adopted: 2002-06-06
 in_force: 2003-08-01
 url: "https://bl.clex.ch/app/de/texts_of_law/640"
-pdf: "https://bl.clex.ch/api/de/versions/3776/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3817/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Bildungsgesetz
 
-Vom 06.06.2002 (Stand 01.10.2023)
+Vom 06.06.2002 (Stand 01.01.2024)
 
 Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
@@ -172,7 +172,7 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 - d. die berufliche Grundbildung in Berufsfachschulen, Lehrbetrieben und Überbetrieblichen Kursen;
 - e. die Fachmittelschule;
 - f. das Gymnasium;
-- g. die Spezielle Förderung bis zur Beendigung der Sekundarstufe I;
+- g. die Spezielle Förderung bis zur Beendigung der Sekundarstufe II;
 - h. die Sonderschulung;
 - i. die Musikschule;
 - j. die Tertiärstufe;
@@ -354,7 +354,9 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 <sup>1</sup> Die Einwohnergemeinden können ihre Schulen und den Schulsozialdienst auf der Primarstufe mit anderen Einwohnergemeinden führen. Sie können Teile ihres Unterrichtsangebots an der Musikschule Privatschulen übertragen, sofern diese die an die öffentliche Musikschule gestellten Anforderungen erfüllen.
 
-<sup>2</sup> Der Kanton kann Schulen zusammen mit anderen Kantonen führen. Er kann Teile seines Bildungsangebots Privatschulen oder weiteren Leistungserbringenden im Bildungsbereich übertragen, sofern diese die an die öffentlichen Schulen gestellten Anforderungen erfüllen.
+<sup>2</sup> Der Kanton kann Schulen sowie bei Bedarf die betriebliche Grundbildung in der Berufsbildung zusammen mit anderen Kantonen führen. Er kann Teile seines Bildungsangebots Privatschulen oder weiteren Leistungserbringenden übertragen, sofern diese die an die öffentlichen Schulen gestellten Anforderungen erfüllen bzw. die Anforderungen an die berufliche Grundbildung gemäss Bundesgesetzgebung erfüllen.
+
+<sup>2a</sup> Der Kanton kann Beratungsangebote für Schülerinnen und Schülern mit einer Behinderung sowie für deren Erziehungsberechtige an Private übertragen.
 
 <sup>2<sup>bis</sup></sup> Die Einwohnergemeinden können ihre Schulsozialdienste anderen Einwohnergemeinden, dem Kanton oder Privaten übertragen, und der Kanton kann seine Schulsozialdienste Einwohnergemeinden oder Privaten übertragen.
 
@@ -720,6 +722,8 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 ### 2.7 Spezielle Förderung
 
+### 2.7.1 Volksschule
+
 #### § 43
 
 **Ziel**
@@ -780,6 +784,57 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 <sup>4</sup> Zur Förderung von besonders sportbegabten Jugendlichen können Sportklassen geführt werden.
 
 <sup>5</sup> Das Angebot und die Aufnahmebedingungen regelt die Verordnung.
+
+### 2.7.2 Sekundarstufe II
+
+#### § 46a
+
+**Angebot**
+
+<sup>1</sup> Die Spezielle Förderung auf der Sekundarstufe II umfasst:
+
+- a. Förderangebot in der beruflichen Grundbildung für besonders befähigte Lernende oder Lernende mit Lernschwierigkeiten bzw. Behinderungen gemäss Art. 18 des Bundesgesetzes über die Berufsbildung[^46a-1] in Verbindung mit Art. 10 der Verordnung über die Berufsbildung[^46a-2];
+- b. Deutsch als Zweitsprache für ausländische bzw. fremdsprachige Schülerinnen, Schüler und Lernende;
+- c. Förderangebot Französisch für Schülerinnen, Schüler und Lernende, die infolge Wohnsitzwechsel nicht über ausreichende Französischkenntnisse verfügen;
+- d. Logopädie;
+- e. Begabungsförderung an den Gymnasien und Fachmittelschulen.
+
+<sup>2</sup> Für Schülerinnen, Schüler und Lernende mit einer Invalidität gelten die Bestimmungen über die erstmalige berufliche Ausbildung der Invalidengesetzgebung (Art. 16 des Bundesgesetzes über die Invalidenversicherung[^46a-3] in Verbindung mit Art. 5 der Verordnung über die Invalidenversicherung[^46a-4]).
+
+<sup>3</sup> Bei Vorliegen einer von der Invalidenversicherung nicht anerkannten Behinderung kann die Bildungs-, Kultur- und Sportdirektion individuelle Unterstützungsangebote vorsehen.
+
+<sup>4</sup> Der Anspruch auf Spezielle Förderung vermittelt keinen Anspruch auf einen bestimmten Bildungsabschluss auf der Sekundarstufe II oder die Erhöhung der Qualifikationsstufe.
+
+<sup>5</sup> Das Nähere regelt die Verordnung.
+
+[^46a-1]: [SR 412.10](https://db.clex.ch/link/Bund/412.10/de)
+[^46a-2]: [SR 412.101](https://db.clex.ch/link/Bund/412.101/de)
+[^46a-3]: [SR 831.20](https://db.clex.ch/link/Bund/831.20/de)
+[^46a-4]: [SR 831.201](https://db.clex.ch/link/Bund/831.201/de)
+
+#### § 46b
+
+**Inanspruchnahme**
+
+<sup>1</sup> Die Inanspruchnahme der Logopädie richtet sich nach § 45.
+
+<sup>2</sup> Die weiteren Massnahmen der Speziellen Förderung gemäss § 46a Abs. 1 legt die Schulleitung fest und weist diese zu.
+
+<sup>3</sup> Für Leistungen der Invalidenversicherung gilt der Kriterien- und Bewilligungskatalog der Invalidenversicherung.
+
+<sup>4</sup> Die Aufnahme einer individuellen Unterstützungsmassnahme gemäss § 46a Abs. 3 setzt eine vorherige Abklärung durch eine vom Kanton bestimmte Fachstelle voraus.
+
+<sup>5</sup> Die Abklärung erfolgt im Einverständnis mit den Erziehungsberechtigten oder den volljährigen Schülerinnen, Schülern oder Lernenden.
+
+<sup>6</sup> Über die Aufnahme der Unterstützungsmassnahme entscheidet die Bildungs-, Kultur- und Sportdirektion auf Antrag der Fachstelle. Vorrang haben Massnahmen der Invalidenversicherung.
+
+#### § 46c
+
+**Spezialangebote**
+
+<sup>1</sup> Zur Förderung von besonders sportbegabten Jugendlichen können Sportklassen geführt werden.
+
+<sup>2</sup> Die Verordnung regelt das Angebot und die Aufnahmebedingungen.
 
 ### 2.8 Sonderschulung
 
@@ -1012,7 +1067,7 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 <sup>2</sup> Das Schulprogramm gibt insbesondere Auskunft über:
 
 - a. das pädagogische und organisatorische Konzept der Schule;
-- b. die Massnahmen zur Integration;
+- b. die Massnahmen zur Umsetzung der Förderung bei besonderem Bildungsbedarf;
 - c. die interne Evaluation;
 - d. den Einsatz der im Rahmen des Budgets zugesprochenen Mittel;
 - e. die Form der Mitsprache der Schülerinnen und Schüler;
