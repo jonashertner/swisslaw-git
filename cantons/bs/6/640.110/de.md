@@ -4,24 +4,24 @@ number: "640.110"
 title: Verordnung zum Gesetz über die direkten Steuern
 short: "Steuerverordnung, StV"
 language: de
-version: 2023-01-01
-valid_until: 2023-12-31
-version_adopted: 2022-09-27
+version: 2024-01-01
+valid_until: 2024-04-30
+version_adopted: 2024-01-09
 adopted: 2000-11-14
 in_force: 2001-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/640.110"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6131/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6132/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung zum Gesetz über die direkten Steuern
 
-Steuerverordnung | Allgemeine Steuern
+Direkte Steuern
 
 (Steuerverordnung, StV)
 
-Vom 14. November 2000 (Stand 1. Januar 2023)
+Vom 14. November 2000 (Stand 1. Januar 2024)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -503,9 +503,9 @@ beschliesst:
 
 #### § 43
 
-<sup>1</sup> Der Rentnerabzug steht unverheirateten, geschiedenen, getrenntlebenden oder verwitweten Personen zu, die das Alter für den Bezug der ordentlichen AHV-Rente erreicht haben.
+<sup>1</sup> Der Rentnerabzug steht unverheirateten, geschiedenen, getrenntlebenden oder verwitweten Personen zu, die das Referenzalter nach Art. 21 Abs. 1 des Bundesgesetzes über die Alters- und Hinterlassenenversicherung (AHVG) vom 20. Dezember 1946 erreicht haben.
 
-<sup>2</sup> Der Abzug steht auch alleinstehenden Personen zu, die das AHV-Rentenalter noch nicht erreicht haben, deren Einkommen jedoch zu mindestens der Hälfte aus Renten der Sozialversicherung (Säule 1), der beruflichen Vorsorge (Säule 2) und der gebundenen Selbstvorsorge (Säule 3a) besteht.
+<sup>2</sup> Der Abzug steht auch alleinstehenden Personen zu, die das Referenzalter nach Art. 21 Abs. 1 AHVG noch nicht erreicht haben, deren Einkommen jedoch zu mindestens der Hälfte aus Renten der Sozialversicherung (Säule 1), der beruflichen Vorsorge (Säule 2) und der gebundenen Selbstvorsorge (Säule 3a) besteht.
 
 ### B.III.4. Abzug wegen Kinderbetreuung
 
