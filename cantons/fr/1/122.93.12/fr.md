@@ -3,13 +3,12 @@ canton: FR
 number: "122.93.12"
 title: "Règlement concernant la Commission d'acquisition des immeubles"
 language: fr
-version: 2023-01-01
-valid_until: 2023-12-31
-version_adopted: 2022-12-20
+version: 2024-01-01
+version_adopted: 2023-12-12
 adopted: 1984-12-28
 in_force: 1985-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/122.93.12"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7691/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8388/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/7691/pdf_file"
 
 Commission d'acquisition des immeubles – R
 
-du 28.12.1984 (version entrée en vigueur le 01.01.2023)
+du 28.12.1984 (version entrée en vigueur le 01.01.2024)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -44,40 +43,43 @@ Arrête:
 
 <sup>1</sup> La Commission est composée de treize membres au maximum, comprenant:
 
-- a) des représentants des différents régimes d'exploitation de l'agriculture;
-- b) des représentants des milieux de l'aménagement du territoire et de la construction;
-- c) un juriste au moins;
-- d) des représentants de Grangeneuve et du Service des ponts et chaussées.
+- a) des représentants ou des représentantes des différents régimes d'exploitation de l'agriculture;
+- b) des représentants ou des représentantes des milieux de l'aménagement du territoire, de la construction et de l'immobilier;
+- c) un ou une juriste au moins;
+- d) des représentants ou des représentantes de Grangeneuve et du Service des ponts et chaussées.
 
-<sup>2</sup> Les représentants de l'administration sont tenus de participer aux séances qui traitent de problèmes intéressant leur service.
+<sup>2</sup> Les représentants ou les représentantes de l'administration sont tenus de participer aux séances qui traitent de problèmes intéressant leur service.
 
 #### Art. 3
 
 **Nomination**
 
-<sup>1</sup> Le Conseil d'Etat nomme les membres et le secrétaire de la Commission. Il désigne le président.
+<sup>1</sup> Le Conseil d'Etat nomme les membres et le ou la secrétaire de la Commission. Il désigne le président ou la présidente.
 
-<sup>2</sup> La Commission désigne elle-même son vice-président.
+<sup>2</sup> La Commission désigne elle-même son vice-président ou sa vice-présidente.
 
 #### Art. 4
 
 **Durée et rémunération**
 
-<sup>1</sup> La durée des fonctions des membres de la Commission est fixée par la loi réglant la durée des fonctions publiques accessoires.
+<sup>1</sup> La durée des fonctions des membres de la Commission est fixée par la loi réglant la durée des fonctions publiques accessoires[^4-1].
 
-<sup>2</sup> Les membres sont rémunérés conformément à l'ordonnance concernant la rémunération des membres des commissions de l'Etat.
+<sup>2</sup> Les membres sont rémunérés conformément à l'ordonnance concernant la rémunération des membres des commissions de l'Etat[^4-2].
+
+[^4-1]: RSF [122.8.2](https://bdlf.fr.ch/data/122.8.2/fr)
+[^4-2]: RSF [122.8.41](https://bdlf.fr.ch/data/122.8.41/fr)
 
 #### Art. 5
 
 **Bureau**
 
-<sup>1</sup> Le président, le vice-président et le secrétaire constituent le bureau de la Commission.
+<sup>1</sup> Le président ou la présidente, le vice-président ou la vice-présidente et le ou la secrétaire constituent le bureau de la Commission.
 
 #### Art. 6
 
 **Secrétaire**
 
-<sup>1</sup> Sauf exception, le secrétaire est un collaborateur de l'Etat dépendant administrativement de la Direction, par l'un de ses services.
+<sup>1</sup> Sauf exception, le ou la secrétaire est un collaborateur ou une collaboratrice de l'Etat dépendant de la Direction, par l'un de ses services.
 
 ## 2 Attributions
 
@@ -85,14 +87,18 @@ Arrête:
 
 **Compétences générales de la Commission**
 
-<sup>1</sup> La Commission accomplit les tâches que la loi place dans sa compétence, notamment celles que lui confient la loi sur l'aménagement du territoire et les constructions, la loi sur la mobilité et le règlement sur les forêts et la protection contre les catastrophes naturelles ainsi que celles de même nature que lui confie l'Etat par ses Directions et services.
+<sup>1</sup> La Commission accomplit les tâches que la loi place dans sa compétence, notamment celles que lui confient la loi sur la mobilité[^7-1] et le règlement sur les forêts et la protection contre les catastrophes naturelles[^7-2] ainsi que celles de même nature que lui confie l'Etat par ses Directions et services.
 
 <sup>2</sup> Dans le cadre de ses attributions:
 
 - a) elle fixe, sous réserve de l'approbation du Conseil d'Etat, les conditions d'achat, de vente, de location et, sauf dispositions légales contraires, les indemnités relatives aux affaires qu'elle traite;
 - b) elle formule des propositions quant au mode d'acquisition des immeubles, à l'opportunité de remembrements parcellaires, aux choix des terrains à affecter aux reboisements compensatoires;
 - c) elle peut être appelée à donner son avis sur l'opportunité d'introduire une procédure d'expropriation;
-- d) elle formule des propositions quant au montant de la contribution de plus-value prélevée en application de l'article 113a al. 2 de la loi du 2 décembre 2008 sur l'aménagement du territoire et les constructions et de l'article 20 de la loi du 2 mars 1999 sur les forêts et la protection contre les catastrophes naturelles.
+- d) elle formule des préavis quant au montant de la contribution de plus-value prélevée en application de l'article 20 de la loi du 2 mars 1999 sur les forêts et la protection contre les catastrophes naturelles[^7-3].
+
+[^7-1]: RSF [780.1](https://bdlf.fr.ch/data/780.1/fr)
+[^7-2]: RSF [921.11](https://bdlf.fr.ch/data/921.11/fr)
+[^7-3]: RSF [921.1](https://bdlf.fr.ch/data/921.1/fr)
 
 #### Art. 8
 
@@ -100,7 +106,9 @@ Arrête:
 
 <sup>1</sup> La Commission peut accepter des mandats particuliers concernant des problèmes immobiliers de la Confédération, des communes, des paroisses, des autres collectivités ou établissements de droit public.
 
-<sup>2</sup> Pour l'exécution de tels mandats, elle perçoit des frais et des honoraires selon un tarif arrêté par le Conseil d'Etat.
+<sup>2</sup> Pour l'exécution de tels mandats, elle perçoit des frais et des honoraires selon un tarif arrêté par le Conseil d'Etat[^8-1].
+
+[^8-1]: RSF [122.93.16](https://bdlf.fr.ch/data/122.93.16/fr)
 
 #### Art. 8bis
 
@@ -132,7 +140,7 @@ Arrête:
 
 **Signature**
 
-<sup>1</sup> Le président ou le vice-président, avec le secrétaire, signent la correspondance et les documents importants.
+<sup>1</sup> Le président ou la présidente ou le vice-président ou la vice-présidente, avec le ou la secrétaire, signent la correspondance et les documents importants.
 
 #### Art. 12
 
@@ -157,21 +165,21 @@ Arrête:
 
 #### Art. 15
 
-**Tâches du secrétaire**
+**Tâches du ou de la secrétaire**
 
-<sup>1</sup> Le secrétaire assume notamment les tâches suivantes:
+<sup>1</sup> Le ou la secrétaire assume notamment les tâches suivantes:
 
-- a) il enregistre les mandats et prépare les dossiers à l'intention de la Commission:
-- b) il convoque les membres aux séances de la Commission ainsi que ceux qui sont désignés à des délégations de la Commission;
-- c) il tient le journal des séances de la Commission et de ses délégations, en indiquant le mandat, les éléments constatés lors des visites des lieux, les principes et références employés et les conclusions;
-- d) il établit, sur la base du journal, le procès-verbal des séances de la Commission et ses délégations;
-- e) il conserve les archives courantes et intermédiaires et la documentation nécessaire aux travaux de la Commission;
-- f) il tient à jour un catalogue des prix des terrains, des indemnités et des conditions du marché immobilier;
-- g) il exécute toutes les démarches utiles au fonctionnement de la Commission;
-- h) il rédige et expédie la correspondance courante de la Commission;
-- i) il suit l'évolution des recettes et dépenses relatives au budget de la Commission et en informe le bureau.
+- a) il ou elle enregistre les mandats et prépare les dossiers à l'intention de la Commission;
+- b) il ou elle convoque les membres aux séances de la Commission ainsi que ceux qui sont désignés à des délégations de la Commission;
+- c) il ou elle tient le journal des séances de la Commission et de ses délégations, en indiquant le mandat, les éléments constatés lors des visites des lieux, les principes et références employés et les conclusions;
+- d) il ou elle établit, sur la base du journal, le procès-verbal des séances de la Commission et ses délégations;
+- e) il ou elle conserve les archives courantes et intermédiaires et la documentation nécessaire aux travaux de la Commission;
+- f) il ou elle tient à jour un catalogue des prix des terrains, des indemnités et des conditions du marché immobilier;
+- g) il ou elle exécute toutes les démarches utiles au fonctionnement de la Commission;
+- h) il ou elle rédige et expédie la correspondance courante de la Commission;
+- i) il ou elle suit l'évolution des recettes et dépenses relatives au budget de la Commission et en informe le bureau.
 
-<sup>2</sup> Il peut être chargé d'autres tâches en relation avec son activité.
+<sup>2</sup> Il ou elle peut être chargé‑e d'autres tâches en relation avec son activité.
 
 ## 3 Dispositions finales
 

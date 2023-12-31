@@ -3,13 +3,12 @@ canton: FR
 number: "122.93.12"
 title: Reglement betreffend die Kommission für Grundstückerwerb
 language: de
-version: 2023-01-01
-valid_until: 2023-12-31
-version_adopted: 2022-12-20
+version: 2024-01-01
+version_adopted: 2023-12-12
 adopted: 1984-12-28
 in_force: 1985-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/122.93.12"
-pdf: "https://bdlf.fr.ch/api/de/versions/7691/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8388/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/7691/pdf_file"
 
 Kommission für Grundstückerwerb – R
 
-vom 28.12.1984 (Fassung in Kraft getreten am 01.01.2023)
+vom 28.12.1984 (Fassung in Kraft getreten am 01.01.2024)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -44,40 +43,43 @@ beschliesst:
 
 <sup>1</sup> Die Kommission besteht aus höchstens dreizehn Mitgliedern, darunter:
 
-- a) Vertreter der verschiedenen landwirtschaftlichen Betriebsformen;
-- b) Vertreter des Bau- und Raumplanungswesens;
-- c) mindestens ein Jurist;
-- d) Vertreter von Grangeneuve und des Tiefbauamts.
+- a) Vertreterinnen oder Vertreter der verschiedenen landwirtschaftlichen Betriebsformen;
+- b) Vertreterinnen oder Vertreter des Bau- und Raumplanungswesens und der Immobilienbranche;
+- c) mindestens eine Juristin oder ein Jurist;
+- d) Vertreterinnen oder Vertreter von Grangeneuve und des Tiefbauamts.
 
-<sup>2</sup> Die Vertreter der Verwaltung sind verpflichtet, an den Sitzungen teilzunehmen, an denen Probleme ihrer Dienststelle behandelt werden.
+<sup>2</sup> Die Vertreterinnen oder die Vertreter der Verwaltung sind verpflichtet, an den Sitzungen teilzunehmen, an denen Probleme ihrer Dienststelle behandelt werden.
 
 #### Art. 3
 
 **Ernennung**
 
-<sup>1</sup> Der Staatsrat ernennt die Mitglieder und den Sekretär der Kommission. Er bezeichnet den Präsidenten.
+<sup>1</sup> Der Staatsrat ernennt die Mitglieder und die Sekretärin oder den Sekretär der Kommission. Er bezeichnet die Präsidentin oder den Präsidenten.
 
-<sup>2</sup> Die Kommission bestimmt ihren Vizepräsidenten selbst.
+<sup>2</sup> Die Kommission bestimmt ihre Vizepräsidentin oder ihren Vizepräsidenten selbst.
 
 #### Art. 4
 
 **Dauer und Entlöhnung**
 
-<sup>1</sup> Die Amtsdauer der Kommissionsmitglieder ist durch das Gesetz, das die Dauer der öffentlichen Nebenämter regelt, bestimmt.
+<sup>1</sup> Die Amtsdauer der Kommissionsmitglieder ist durch das Gesetz, das die Dauer der öffentlichen Nebenämter[^4-1] regelt, bestimmt.
 
-<sup>2</sup> Die Mitglieder werden gemäss der Verordnung über die Entschädigung der Mitglieder der Kommissionen des Staates entschädigt.
+<sup>2</sup> Die Mitglieder werden gemäss der Verordnung über die Entschädigung der Mitglieder der Kommissionen des Staates[^4-2] entschädigt.
+
+[^4-1]: SGF [122.8.2](https://bdlf.fr.ch/data/122.8.2/de)
+[^4-2]: SGF [122.8.41](https://bdlf.fr.ch/data/122.8.41/de)
 
 #### Art. 5
 
 **Büro**
 
-<sup>1</sup> Der Präsident, der Vizepräsident und der Sekretär bilden das Kommissionsbüro.
+<sup>1</sup> Die Präsidentin oder der Präsident, die Vizepräsidentin oder der Vizepräsident und die Sekretärin oder der Sekretär bilden das Kommissionsbüro.
 
 #### Art. 6
 
 **Sekretär**
 
-<sup>1</sup> Der Sekretär ist, Ausnahmen vorbehalten, ein Mitarbeiter des Staats, welcher verwaltungsmässig der Direktion durch eine ihrer Dienststellen unterstellt ist.
+<sup>1</sup> Die Sekretärin oder der Sekretär ist, Ausnahmen vorbehalten, eine Mitarbeiterin oder ein Mitarbeiter des Staats, die oder der verwaltungsmässig der Direktion durch eine ihrer Dienststellen unterstellt ist.
 
 ## 2 Zuständigkeitsbereich
 
@@ -85,14 +87,18 @@ beschliesst:
 
 **Allgemeine Kompetenzen der Kommission**
 
-<sup>1</sup> Die Kommission erfüllt die Aufgaben, die das Gesetz in ihren Zuständigkeitsbereich legt, insbesondere diejenigen, die ihr das Raumplanungs- und Baugesetz, das Mobilitätsgesetz, das Reglement über den Wald und den Schutz vor Naturereignissen anvertrauen, sowie gleich geartete Aufgaben, die ihr der Staat durch seine Direktionen und Dienststellen überträgt.
+<sup>1</sup> Die Kommission erfüllt die Aufgaben, die das Gesetz in ihren Zuständigkeitsbereich legt, insbesondere diejenigen, die ihr das Mobilitätsgesetz[^7-1] und das Reglement über den Wald und den Schutz vor Naturereignissen[^7-2] anvertrauen, sowie gleich geartete Aufgaben, die ihr der Staat durch seine Direktionen und Dienststellen überträgt.
 
 <sup>2</sup> Im Rahmen ihrer Befugnisse:
 
 - a) setzt sie, unter Vorbehalt der Genehmigung durch den Staatsrat, die Kauf-, Verkauf- und Mietbedingungen fest und, sofern rechtlich keine gegenteilige Verfügung besteht, die Entschädigungen bezüglich der Sachen, die sie behandelt;
 - b) unterbreitet sie Vorschläge betreffend den Erwerb von Grundstücken, die Zweckmässigkeit von Landumlegungen und die Wahl der Grundstücke, die für Ersatzaufforstungen zu bestimmen sind;
 - c) kann sie eingeladen werden, ihre Meinung über die Zweckmässigkeit der Einleitung eines Enteignungsverfahrens zu äussern;
-- d) macht sie Vorschläge zur Höhe der Mehrwertabgabe gemäss Artikel 113a Abs. 2 des Raumplanungs- und Baugesetzes vom 2. Dezember 2008 und Artikel 20 des Gesetzes vom 2. März 1999 über den Wald und den Schutz vor Naturereignissen.
+- d) macht sie Vorschläge zur Höhe der Mehrwertabgabe gemäss Artikel 20 des Gesetzes vom 2. März 1999 über den Wald und den Schutz vor Naturereignissen[^7-3].
+
+[^7-1]: SGF [780.1](https://bdlf.fr.ch/data/780.1/de)
+[^7-2]: SGF [921.11](https://bdlf.fr.ch/data/921.11/de)
+[^7-3]: SGF [921.1](https://bdlf.fr.ch/data/921.1/de)
 
 #### Art. 8
 
@@ -100,7 +106,9 @@ beschliesst:
 
 <sup>1</sup> Die Kommission kann Sonderaufträge betreffend Grundstückprobleme der Eidgenossenschaft, der Gemeinden, der Pfarreien oder anderer Vereinigungen und Institutionen öffentlichen Rechts entgegennehmen.
 
-<sup>2</sup> Für die Ausführung solcher Aufträge erhebt sie [die Kommission] Gebühren und Honorare gemäss einem vom Staatsrat festgesetzten Tarif.
+<sup>2</sup> Für die Ausführung solcher Aufträge erhebt sie [die Kommission] Gebühren und Honorare gemäss einem vom Staatsrat festgesetzten Tarif[^8-1].
+
+[^8-1]: SGF [122.93.16](https://bdlf.fr.ch/data/122.93.16/de)
 
 #### Art. 8bis
 
@@ -132,7 +140,7 @@ beschliesst:
 
 **Unterschrift**
 
-<sup>1</sup> Der Präsident oder der Vizepräsident, mit dem Sekretär, unterzeichnen die Korrespondenz und die wichtigen Dokumente.
+<sup>1</sup> Die Präsidentin oder der Präsident oder die Vizepräsidentin oder der Vizepräsident, mit der Sekretärin oder dem Sekretär, unterzeichnen die Korrespondenz und die wichtigen Dokumente.
 
 #### Art. 12
 
@@ -157,21 +165,21 @@ beschliesst:
 
 #### Art. 15
 
-**Aufgaben des Sekretärs**
+**Aufgaben der Sekretärin oder des Sekretärs**
 
-<sup>1</sup> Der Sekretär übernimmt die Verantwortung für folgende Aufgaben:
+<sup>1</sup> Die Sekretärin oder der Sekretär übernimmt die Verantwortung für folgende Aufgaben:
 
-- a) Er nimmt die Aufträge entgegen und bereitet das Dossier zuhanden der Kommission vor.
-- b) Er beruft die Mitglieder zu den Kommissionssitzungen und die in die Delegationen der Kommission ernannten Personen ein.
-- c) Er führt das Sitzungsheft der Kommission und ihrer Delegationen, wobei er den Auftrag, die bei einer Ortsbesichtigung festgestellten Elemente, die verwendeten Grundlagen und Unterlagen sowie die Schlussfolgerungen festhält.
-- d) Er verfasst das Protokoll der Sitzungen der Kommission und ihrer Delegationen gestützt auf das Sitzungsheft.
-- e) Er bewahrt das laufende Archiv und das Zwischenarchiv und die für die Arbeit der Kommission notwendigen Unterlagen auf.
-- f) Er führt einen Katalog der Grundstückpreise, der Entschädigungen und der Bedingungen des Immobilienhandels.
-- g) Er unternimmt alle für die Arbeit der Kommission zweckdienlichen Schritte.
-- h) Er verfasst und verschickt die laufende Korrespondenz der Kommission.
-- i) Er verfolgt die Entwicklung der Einnahmen und Ausgaben, vergleicht sie mit dem Budget der Kommission und informiert das Büro darüber.
+- a) Sie oder er nimmt die Aufträge entgegen und bereitet das Dossier zuhanden der Kommission vor.
+- b) Sie oder er beruft die Mitglieder zu den Kommissionssitzungen und die in die Delegationen der Kommission ernannten Personen ein.
+- c) Sie oder er führt das Sitzungsheft der Kommission und ihrer Delegationen, wobei sie oder er den Auftrag, die bei einer Ortsbesichtigung festgestellten Elemente, die verwendeten Grundlagen und Unterlagen sowie die Schlussfolgerungen festhält.
+- d) Sie oder er verfasst das Protokoll der Sitzungen der Kommission und ihrer Delegationen gestützt auf das Sitzungsheft.
+- e) Sie oder er bewahrt das laufende Archiv und das Zwischenarchiv und die für die Arbeit der Kommission notwendigen Unterlagen auf.
+- f) Sie oder er führt einen Katalog der Grundstückpreise, der Entschädigungen und der Bedingungen des Immobilienhandels.
+- g) Sie oder er unternimmt alle für die Arbeit der Kommission zweckdienlichen Schritte.
+- h) Sie oder er verfasst und verschickt die laufende Korrespondenz der Kommission.
+- i) Sie oder er verfolgt die Entwicklung der Einnahmen und Ausgaben, vergleicht sie mit dem Budget der Kommission und informiert das Büro darüber.
 
-<sup>2</sup> Er kann mit anderen Aufgaben, die im Zusammenhang mit seiner Tätigkeit stehen, beauftragt werden.
+<sup>2</sup> Sie oder er kann mit anderen Aufgaben, die im Zusammenhang mit ihrer oder seiner Tätigkeit stehen, beauftragt werden.
 
 ## 3 Schlussbestimmungen
 
