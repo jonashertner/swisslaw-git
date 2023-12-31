@@ -4,13 +4,12 @@ number: "916.141.1"
 title: Loi sur la viticulture
 short: LVit
 language: fr
-version: 2021-04-01
-valid_until: 2023-12-31
-version_adopted: 2021-02-17
+version: 2024-01-01
+version_adopted: 2023-10-25
 adopted: 1995-09-13
 in_force: 1996-08-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/916.141.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2197/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2885/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2197/pdf_file"
 
 (LVit)
 
-du 13.09.1995 (état au 01.04.2021)
+du 13.09.1995 (état au 01.01.2024)
 
 Le Grand Conseil du canton de Berne,
 
@@ -180,7 +179,7 @@ arrête:
 
 <sup>1</sup> Les organisations professionnelles sont indemnisées pour les dépenses qui découlent de la présente loi et de ses dispositions d'exécution.
 
-<sup>2</sup> Les indemnités ne peuvent pas dépasser un montant total de 20'000 francs par année.
+<sup>2</sup> Les indemnités ne peuvent pas dépasser un montant total de 23'600 francs par année.
 
 #### Art. 17
 
@@ -194,7 +193,7 @@ arrête:
 
 **Contributions des exploitants et exploitantes**
 
-<sup>1</sup> Les organisations professionnelles peuvent percevoir auprès des exploitants et exploitantes des contributions annuelles d'un montant maximal de cinq francs par are.
+<sup>1</sup> Les organisations professionnelles peuvent percevoir auprès des exploitants et exploitantes des contributions annuelles d'un montant maximal de 5.90 francs par are.
 
 <sup>2</sup> Le Conseil-exécutif peut, par voie d'ordonnance, habiliter les organisations professionnelles à percevoir des contributions annuelles supplémentaires d'un montant maximal de un franc par hectolitre de vendange vinifiée.
 

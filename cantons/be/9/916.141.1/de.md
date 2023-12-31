@@ -4,13 +4,12 @@ number: "916.141.1"
 title: Gesetz über den Rebbau
 short: RebG
 language: de
-version: 2021-04-01
-valid_until: 2023-12-31
-version_adopted: 2021-02-17
+version: 2024-01-01
+version_adopted: 2023-10-25
 adopted: 1995-09-13
 in_force: 1996-08-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/916.141.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2197/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2885/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2197/pdf_file"
 
 (RebG)
 
-vom 13.09.1995 (Stand 01.04.2021)
+vom 13.09.1995 (Stand 01.01.2024)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -180,7 +179,7 @@ beschliesst:
 
 <sup>1</sup> Den Berufsorganisationen werden die Aufwendungen abgegolten, die ihnen aufgrund dieses Gesetzes und seiner Ausführungsbestimmungen entstehen.
 
-<sup>2</sup> Die Abgeltungen dürfen den Betrag von jährlich insgesamt 20'000 Franken nicht überschreiten.
+<sup>2</sup> Die Abgeltungen dürfen den Betrag von jährlich insgesamt 23'600 Franken nicht überschreiten.
 
 #### Art. 17
 
@@ -194,7 +193,7 @@ beschliesst:
 
 **Beiträge der Bewirtschafter**
 
-<sup>1</sup> Die Berufsorganisationen können von den Bewirtschafterinnen und Bewirtschaftern jährliche Beiträge bis zum Höchstbetrag von fünf Franken je Are erheben.
+<sup>1</sup> Die Berufsorganisationen können von den Bewirtschafterinnen und Bewirtschaftern jährliche Beiträge bis zum Höchstbetrag von 5.90 Franken je Are erheben.
 
 <sup>2</sup> Der Regierungsrat kann die Berufsorganisationen durch Verordnung ermächtigen, zusätzlich jährliche Beiträge bis zum Höchstbetrag von einem Franken je Hektoliter verwerteten Traubengutes zu erheben.
 
