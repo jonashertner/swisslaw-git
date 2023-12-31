@@ -3,20 +3,20 @@ canton: BL
 number: "142.111"
 title: Reglement über die Zuständigkeiten für Ausgabenbewilligungen in der Finanz- und Kirchendirektion
 language: de
-version: 2022-07-01
-valid_until: 2023-12-31
-version_adopted: 2022-07-01
+version: 2024-01-01
+valid_until: 2025-01-31
+version_adopted: 2024-01-11
 adopted: 2018-02-01
 in_force: 2018-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/142.111"
-pdf: "https://bl.clex.ch/api/de/versions/3372/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3854/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement über die Zuständigkeiten für Ausgabenbewilligungen in der Finanz- und Kirchendirektion
 
-Vom 01.02.2018 (Stand 01.07.2022)
+Vom 01.02.2018 (Stand 01.01.2024)
 
 Der Vorsteher der Finanz- und Kirchendirektion des Kantons Basel-Landschaft,
 
@@ -44,19 +44,19 @@ beschliesst:
 
 **Besondere Zuständigkeiten (§§ 39 Abs. 1 und 41 Abs. 1 Bst. a [Vo FHG](https://bl.clex.ch/data/310.11/de/art39))**
 
-<sup>1</sup> Der Direktionsvorsteher oder die Direktionsvorsteherin ist zuständig für die Bewilligung von Ausgaben für die ordentlichen Beiträge an die Landeskirchen gemäss § 8c des Kirchengesetzes[^2-1].
+<sup>1</sup> Die gebundenen Ausgaben gemäss § 39 Abs. 1 Bst. a, b, c, e, f, k und l der Finanzhaushaltsverordnung[^2-1] gelten durch die Zahlungsanweisung der finanziellen Prüferin oder des finanziellen Prüfers als bewilligt.
 
-<sup>2</sup> Folgende Ausgaben gelten durch die Zahlungsanweisung der finanziellen Prüferin oder des finanziellen Prüfers als bewilligt:
+<sup>2</sup> Für alle anderen gebundenen Ausgaben gemäss § 39 Abs. 1 der Finanzhaushaltsverordnung[^2-2] gelten die Zuständigkeiten entsprechend § 1.
 
-- a. Ausgaben an die Sozialversicherungsanstalt für den Vollzug von Sozialversicherungen;
-- b. Ausgaben für die Übernahme der Verlustscheine für die obligatorische Krankenpflegeversicherung;
-- c. Ausgaben für den eidgenössischen Finanzausgleich;
-- d. Ausgaben für den Steueranteil der Landeskirchen;
-- e. Ausgaben aufgrund von gesetzlichen und vertraglichen Versicherungsverhältnissen;
-- f. Ausgaben an die Gemeinden für die Vergütung der Kosten in den Bereichen der Unterstützung bedürftiger Personen, der Unterstützung Asylsuchender sowie der Eingliederung bedürftiger Personen entsprechend den §§ 31, 32 sowie 34 des Sozialhilfegesetzes (SHG)[^2-2].
+- a. …
+- b. …
+- c. …
+- d. …
+- e. …
+- f. …
 
-[^2-1]: [SGS 191](https://bl.clex.ch/data/191/de/art8c)
-[^2-2]: [SGS 850](https://bl.clex.ch/data/850/de/art31)
+[^2-1]: [SGS 310.11](https://bl.clex.ch/data/310.11/de/art39)
+[^2-2]: [SGS 310.11](https://bl.clex.ch/data/310.11/de/art39)
 
 #### § 3
 
