@@ -3,18 +3,18 @@ sr: "361.3"
 title: Verordnung vom 6. Dezember 2013 über die Bearbeitung biometrischer erkennungsdienstlicher Daten
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/23"
 language: de
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2013-12-06
 in_force: 2014-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/23/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2014-23-20230901-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/23/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/23/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2014-23-20240101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/23/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über die Bearbeitung biometrischer erkennungsdienstlicher Daten
 
-vom 6. Dezember 2013 (Stand am 1. September 2023)
+vom 6. Dezember 2013 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -220,12 +220,12 @@ Für die Geschäftsplanung sowie für Tests, Systemoptimierungen und Schulungen 
 Die Datensicherheit richtet sich nach:
 
 - a.[^14-1] der DSV[^14-2];
-- b.[^14-3] der Cyberrisikenverordnung vom 27. Mai 2020[^14-4].
+- b.[^14-3] der Informationssicherheitsverordnung vom 8. November 2023[^14-4].
 
 [^14-1]: Fassung gemäss Anhang 2 Ziff. II 44 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^14-2]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^14-3]: Fassung gemäss Anhang Ziff. 20 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
-[^14-4]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^14-3]: Fassung gemäss Anhang 2 Ziff. II 20 der Informationssicherheitsverordnung vom 8. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^14-4]: [SR 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
 
 ## 3. Abschnitt: Datenbearbeitung in anderen Informationssystemen
 

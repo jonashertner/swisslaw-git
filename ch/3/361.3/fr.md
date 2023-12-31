@@ -3,18 +3,18 @@ sr: "361.3"
 title: Ordonnance du 6 décembre 2013 sur le traitement des données signalétiques biométriques
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/23"
 language: fr
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2013-12-06
 in_force: 2014-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/23/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2014-23-20230901-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/23/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/23/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2014-23-20240101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/23/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance sur le traitement des données signalétiques biométriques
 
-du 6 décembre 2013 (État le 1<sup>er</sup> septembre 2023)
+du 6 décembre 2013 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -222,12 +222,12 @@ Des données pseudonymisées peuvent être traitées à des fins de planificatio
 La sécurité des données est garantie par:
 
 - a.[^14-1] l’OPDo[^14-2];
-- b.[^14-3] l’ordonnance du 27 mai 2020 sur les cyberrisques[^14-4].
+- b.[^14-3] l’ordonnance du 8 novembre 2023 sur la sécurité de l’information[^14-4].
 
 [^14-1]: Nouvelle teneur selon l’annexe 2 ch. II 44 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^14-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^14-3]: Nouvelle teneur selon l’annexe ch. 20 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
-[^14-4]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^14-3]: Nouvelle teneur selon l’annexe 2 ch. II 20 de l’O du 8 nov. 2023 sur la sécurité de l’information, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^14-4]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
 
 ## Section 3 Traitement des données dans d’autres systèmes d’information
 
@@ -339,7 +339,7 @@ Les autorités suivantes avertissent le service chargé de la gestion d’AFIS l
 
 **Traitement des communications d’effacement**
 
-Le service chargé de la gestion d’AFIS efface conformément à la communication prévue à l’art. 22 les données dans le système IPAS en vertu de l’art. 9 de l’ordonnance IPAS du 15 octobre 2008[^23-1]. Parallèlement, il fait effacer les données signalétiques biométriques dans AFIS.
+<sup>1</sup> Le service chargé de la gestion d’AFIS efface conformément à la communication prévue à l’art. 22 les données dans le système IPAS en vertu de l’art. 9 de l’ordonnance IPAS du 15 octobre 2008[^23-1]. Parallèlement, il fait effacer les données signalétiques biométriques dans AFIS.
 
 <sup>2</sup> En l’absence d’une telle communication, fedpol efface les données signalétiques biométriques d’une personne 30 ans après la saisie des données signalétiques de la personne concernée.[^23-2]
 

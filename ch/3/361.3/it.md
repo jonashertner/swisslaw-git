@@ -3,18 +3,18 @@ sr: "361.3"
 title: Ordinanza del 6 dicembre 2013 sul trattamento dei dati segnaletici di natura biometrica
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/23"
 language: it
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2013-12-06
 in_force: 2014-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/23/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2014-23-20230901-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/23/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/23/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2014-23-20240101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/23/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza sul trattamento dei dati segnaletici di natura biometrica
 
-del 6 dicembre 2013 (Stato 1° settembre 2023)
+del 6 dicembre 2013 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -222,12 +222,12 @@ Per la pianificazione nonché per test, ottimizzazioni del sistema e formazioni 
 La sicurezza dei dati è retta da:
 
 - a.[^14-1] l’OPDa[^14-2];
-- b.[^14-3] l’ordinanza del 27 maggio 2020[^14-4] sui ciber-rischi.
+- b.[^14-3] l’ordinanza dell’8 novembre 2023[^14-4] sulla sicurezza delle informazioni.
 
 [^14-1]: Nuovo testo giusta l’all. 2 n. II 44 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^14-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^14-3]: Nuovo testo giusta l’all. n. 20 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
-[^14-4]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^14-3]: Nuovo testo giusta l’all. 2 n. II 20 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^14-4]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
 
 ## Sezione 3: Trattamento dei dati in altri sistemi d’informazione
 
