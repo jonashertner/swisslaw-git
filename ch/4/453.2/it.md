@@ -3,18 +3,18 @@ sr: "453.2"
 title: Ordinanza del 20 aprile 2016 concernente il controllo della provenienza legale dei prodotti della pesca marittima importati
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/272"
 language: it
-version: 2022-01-01
+version: 2024-01-01
 adopted: 2016-04-20
 in_force: 2017-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/272/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2016-272-20220101-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/272/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/272/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2016-272-20240101-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/272/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza concernente il controllo della provenienza legale dei prodotti della pesca marittima importati
 
-del 20 aprile 2016 (Stato 1° gennaio 2022)
+del 20 aprile 2016 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -22,7 +22,7 @@ visti gli articoli 7 capoverso 2 lettera a, 9 capoverso 1, 12 capoverso 5, 13 ca
 
 ordina:
 
-[^ingress-1]: [RS 453](https://fedlex.data.admin.ch/eli/cc/2013/600)
+[^ingress-1]: [RS 453](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7189)
 
 ## Sezione 1: Disposizioni generali
 
@@ -64,7 +64,7 @@ Nella presente ordinanza s’intende per:
 - e. *certificato sanitario:* il documento che attesta la provenienza di una partita nonché l’ottemperanza ai requisiti di polizia sanitaria, di protezione degli animali e di igiene delle derrate alimentari;
 - f. *posto di ispezione frontaliero:* la struttura in cui vengono effettuati i controlli veterinari di confine.
 
-[^3-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^3-1]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 [^3-2]: Regolamento (CE) n. 282/2004 della Commissione, del 18 febbraio 2004, che adotta un documento per la dichiarazione ed il controllo veterinario degli animali che provengono dai paesi terzi e sono introdotti nella Comunità, GU L 49 del 19.2.2004, pag. 11; modificato da ultimo dal regolamento (CE) n. 585/2004, GU L 91 del 30.3.2004, pag. 17.
 [^3-3]: Regolamento (CE) n. 136/2004 della Commissione, del 22 gennaio 2004, che fissa le modalità dei controlli veterinari da effettuare ai posti d’ispezione frontalieri della Comunità sui prodotti importati da paesi terzi, GU L 21 del 28.1.2004, pag. 11; modificato da ultimo dal regolamento di esecuzione (UE) n. 494/2014, GU L 139 del 14.5.2014, pag. 11.
 
@@ -196,9 +196,9 @@ Per la notifica preventiva, la persona responsabile deve registrare le scansioni
 
 **Organi di controllo**
 
-L’USAV e l’Ufficio federale della dogana e della sicurezza dei confini (UDSC)[^13-1] gli organi di controllo responsabili dell’applicazione della presente ordinanza.
+L’USAV e l’Ufficio federale della dogana e della sicurezza dei confini (UDSC)[^13-1] sono gli organi di controllo responsabili dell’applicazione della presente ordinanza.
 
-[^13-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^13-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 #### Art. 14
 
@@ -240,7 +240,7 @@ Le infrazioni degli articoli 4, 8, 11 e 12 sono punibili ai sensi dell’articol
 
 <sup>2</sup> Per l’esame delle partite notificate preventivamente l’USAV emette alla persona responsabile una fattura di 60 franchi per ciascuna partita.
 
-[^18-1]: [RS 916.472](https://fedlex.data.admin.ch/eli/cc/1985/1727_1727_1727)
+[^18-1]: [RS 916.472](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10942)
 
 ## Sezione 7: Trattamento dei dati
 
@@ -315,12 +315,12 @@ Se sussistono dubbi sulla provenienza legale di una partita, le scansioni dei do
 
 #### Art. 24
 
-**Sicurezza informatica**[^24-1]
+**Sicurezza delle informazioni**[^24-1]
 
-I provvedimenti volti a garantire la sicurezza informatica sono retti dall’ordinanza del 27 maggio 2020[^24-2] sui ciber-rischi.
+I provvedimenti volti a garantire la sicurezza delle informazioni sono retti dall’ordinanza dell’8 novembre 2023[^24-2] sulla sicurezza delle informazioni.
 
-[^24-1]: Nuovo testo giusta l’all. n. 27 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
-[^24-2]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^24-1]: Nuovo testo giusta l’all. 2 cifra II n. 28 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^24-2]: [RS 128.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40166)
 
 #### Art. 25
 
@@ -330,7 +330,7 @@ I provvedimenti volti a garantire la sicurezza informatica sono retti dall’ord
 
 <sup>2</sup> I dati sono cancellati al più tardi dopo dieci anni.
 
-[^25-1]: [RS 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+[^25-1]: [RS 152.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4931)
 
 ## Sezione 8: Adeguamento degli allegati
 
@@ -393,7 +393,7 @@ Allegato 1[^t-1]
 
 ## Prodotti della pesca che sottostanno alla presente ordinanza
 
-[^t-1]: Nuovo testo giusta il n. I dell’O del DFI del 3 feb. 2017, in vigore dal 1° mar. 2017 ([RU 2017 535](https://fedlex.data.admin.ch/eli/oc/2017/94)).
+[^t-1]: Nuovo testo giusta la cifra I dell’O del DFI del 3 feb. 2017, in vigore dal 1° mar. 2017 ([RU 2017 535](https://fedlex.data.admin.ch/eli/oc/2017/94)).
 
 <table>
 <tr><th colspan="2">Voce di tariffa</th><th></th></tr>
@@ -615,7 +615,7 @@ Allegato 2[^t-2]
 
 ## Stati di bandiera da cui è possibile importare prodotti della pesca senza certificato di cattura e senza procedura di notifica preventiva
 
-[^t-2]: Aggiornato dal n. I dell’O del DFI del 4 set. 2018, in vigore dal 1° nov. 2018 ([RU 2018 3369](https://fedlex.data.admin.ch/eli/oc/2018/546)).
+[^t-2]: Aggiornato dalla cifra I dell’O del DFI del 4 set. 2018, in vigore dal 1° nov. 2018 ([RU 2018 3369](https://fedlex.data.admin.ch/eli/oc/2018/546)).
 
 <table>
 <tr><th>Stati di bandiera</th><th>Codice ISO</th></tr>

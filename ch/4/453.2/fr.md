@@ -3,18 +3,18 @@ sr: "453.2"
 title: "Ordonnance du 20 avril 2016 sur le contrôle de l'origine licite des produits de la pêche maritime importés"
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/272"
 language: fr
-version: 2022-01-01
+version: 2024-01-01
 adopted: 2016-04-20
 in_force: 2017-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/272/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-272-20220101-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/272/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/272/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-272-20240101-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/272/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance sur le contrôle de l’origine licite des produits de la pêche maritime importés
 
-du 20 avril 2016 (Etat le 1<sup>er</sup> janvier 2022)
+du 20 avril 2016 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -22,7 +22,7 @@ vu les art. 7, al. 2, let. a, 9, al. 1, 12, al. 5, 13, al. 3, 20, al. 4, 21 et 2
 
 arrête:
 
-[^ingress-1]: [RS 453](https://fedlex.data.admin.ch/eli/cc/2013/600)
+[^ingress-1]: [RS 453](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7189)
 
 ## Section 1 Dispositions générales
 
@@ -64,7 +64,7 @@ Au sens de la présente ordonnance, on entend par:
 - e. *certificat sanitaire*: le document qui atteste la provenance d’un lot et le respect des exigences de police des épizooties, de protection des animaux et d’hygiène alimentaire;
 - f. *poste d’inspection frontalier:* installation où est effectué le contrôle vétérinaire de frontière.
 
-[^3-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^3-1]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 [^3-2]: Règlement (CE) n<sup>o</sup> 282/2004 de la Commission du 18 février 2004 relatif à l’établissement d’un document pour la déclaration et le contrôle vétérinaire des animaux en provenance des Etats tiers et introduits dans la Communauté, JO L 49 du 19.2.2004, p. 11; modifié en dernier lieu par le règlement (CE) n<sup>o</sup> 585/2004, JO L 91 du 30.3.2004, p. 17.
 [^3-3]: Règlement (CE) n<sup>o</sup> 136/2004 de la Commission du 22 janvier 2004 fixant les procédures des contrôles vétérinaires aux postes d’inspection frontaliers de la Communauté lors de l’importation des produits en provenance de pays tiers, JO L 21 du 28.1.2004, p. 11; modifié en dernier lieu par le règlement d’exécution (UE) n<sup>o</sup> 494/2014, JO L 139 du 14.5.2014, p. 11.
 
@@ -198,7 +198,7 @@ Pour la notification préalable, la personne responsable doit enregistrer dans l
 
 L’OSAV et l’Office fédéral de la douane et de la sécurité des frontières (OFDF)[^13-1] sont compétents pour l’exécution de la présente ordonnance en tant qu’organes de contrôle.
 
-[^13-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
+[^13-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 14
 
@@ -240,7 +240,7 @@ Les infractions aux art. 4, 8, 11 et 12 sont punies conformément à l’art. 26
 
 <sup>2</sup> L’OSAV facture à la personne responsable un émolument de 60 francs pour le contrôle des lots préalablement notifiés.
 
-[^18-1]: [RS 916.472](https://fedlex.data.admin.ch/eli/cc/1985/1727_1727_1727)
+[^18-1]: [RS 916.472](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10942)
 
 ## Section 7 Traitement des données
 
@@ -315,12 +315,12 @@ S’il existe des doutes sur l’origine licite d’un lot et pour autant que le
 
 #### Art. 24
 
-**Sécurité informatique**[^24-1]
+**Sécurité de l’information**[^24-1]
 
-Les mesures pour garantir la sécurité informatique sont régies par l’ordonnance du 27 mai 2020 sur les cyberrisques[^24-2].
+Les mesures pour garantir la sécurité de l’information sont régies par l’ordonnance du 8 novembre 2023 sur la sécurité de l’information[^24-2].
 
-[^24-1]: Nouvelle teneur selon l’annexe ch. 27 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
-[^24-2]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^24-1]: Nouvelle teneur selon l’annexe 2 ch. II 28 de l’O du 8 nov. 2023 sur la sécurité de l’information, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^24-2]: [RS 128.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40166)
 
 #### Art. 25
 
@@ -330,7 +330,7 @@ Les mesures pour garantir la sécurité informatique sont régies par l’ordonn
 
 <sup>2</sup> Les données sont supprimées au plus tard après dix ans.
 
-[^25-1]: [RS 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+[^25-1]: [RS 152.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4931)
 
 ## Section 8 Actualisation des annexes
 
@@ -377,7 +377,7 @@ Un État du pavillon est inscrit à l’annexe 2 aux conditions suivantes:
 
 <sup>2</sup> Lors des investigations, il est notamment tenu compte des informations des autorités étrangères et des organisations internationales visées à l’art. 23 et des résultats des procédures de contrôle appliquées à l’importation des produits de la pêche.
 
-E<sup>3</sup> Si l’État concerné tolère, favorise ou promeut dans une mesure considérable la pêche illicite, non déclarée ou non réglementée, l’ensemble des produits de la pêche provenant de cet État est inscrit à l’annexe 5; autrement, seuls les produits de la pêche des espèces pour lesquelles la licéité des captures n’est pas garantie y sont inscrits.
+<sup>3</sup> Si l’État concerné tolère, favorise ou promeut dans une mesure considérable la pêche illicite, non déclarée ou non réglementée, l’ensemble des produits de la pêche provenant de cet État est inscrit à l’annexe 5; autrement, seuls les produits de la pêche des espèces pour lesquelles la licéité des captures n’est pas garantie y sont inscrits.
 
 <sup>4</sup> Les États du pavillon qu’il est prévu d’inscrire à l’annexe 5 sont préalablement consultés par le DFI.
 
@@ -387,7 +387,7 @@ E<sup>3</sup> Si l’État concerné tolère, favorise ou promeut dans une mesur
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> mars 2017.
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 (art. 4, al. 1, et 26, al. 1)
 
@@ -609,7 +609,7 @@ Annexe 1*[^t-1]*
 <tr><td></td><td colspan="2">ex 5600</td></tr>
 </table>
 
-Annexe 2*[^t-2]*
+Annexe 2[^t-2]
 
 (art. 4, al. 2, 9, al. 1, 15, 26, al. 2, et 27)
 
@@ -694,7 +694,7 @@ Annexe 4
 
 ## Déclaration établie par l’usine de transformation (modèle)
 
-Je confirme, par la présente, que les produits de la pêche transformés ci-après: ...
+Je confirme, par la présente, que les produits de la pêche transformés ci-après: …
 
 (description des produits et code de la nomenclature combinée) sont issus de captures pratiquées dans les limites fixées dans les certificats de capture suivants:
 

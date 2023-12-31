@@ -3,18 +3,18 @@ sr: "453.2"
 title: Verordnung vom 20. April 2016 über die Kontrolle der rechtmässigen Herkunft von eingeführten Erzeugnissen der Meeresfischerei
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/272"
 language: de
-version: 2022-01-01
+version: 2024-01-01
 adopted: 2016-04-20
 in_force: 2017-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/272/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2016-272-20220101-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/272/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/272/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2016-272-20240101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/272/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über die Kontrolle der rechtmässigen Herkunft von eingeführten Erzeugnissen der Meeresfischerei
 
-vom 20. April 2016 (Stand am 1. Januar 2022)
+vom 20. April 2016 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -22,7 +22,7 @@ gestützt auf die Artikel 7 Absatz 2 Buchstabe a, 9 Absatz 1, 12 Absatz 5, 13 Ab
 
 verordnet:
 
-[^ingress-1]: [SR 453](https://fedlex.data.admin.ch/eli/cc/2013/600)
+[^ingress-1]: [SR 453](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7189)
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
 
@@ -64,7 +64,7 @@ In dieser Verordnung bedeuten:
 - e. *Gesundheitsbescheinigung:* Dokument, das die Herkunft einer Sendung und die Einhaltung der tierseuchenpolizeilichen, tierschutzrechtlichen und lebensmittelhygienischen Anforderungen belegt;
 - f. *Grenzkontrollstelle:* Einrichtung, an der die grenztierärztliche Kontrolle durchgeführt wird.
 
-[^3-1]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^3-1]: [SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 [^3-2]: Verordnung (EG) Nr. 282/2004 der Kommission vom 18. Februar 2004 zur Festlegung eines Dokuments für die Zollanmeldung und Veterinärkontrolle von aus Drittländern in die Gemeinschaft eingeführten Tieren, ABl. L 49 vom 19.2.2004, S. 11; zuletzt geändert durch Verordnung (EG) Nr. 585/2004, ABl. L 91 vom 30.3.2004, S. 17.
 [^3-3]: Verordnung (EG) Nr. 136/2004 der Kommission vom 22. Januar 2004 mit Verfahren für die Veterinärkontrollen von aus Drittländern eingeführten Erzeugnissen an den Grenzkontrollstellen der Gemeinschaft, ABl. L 21 vom 28.1.2004, S. 11; zuletzt geändert durch Durchführungsverordnung (EU) Nr. 494/2014, ABl. L 139 vom 14.5.2014, S. 11.
 
@@ -198,7 +198,7 @@ Für die Voranmeldung muss die verantwortliche Person folgende Dokumente als Sca
 
 Das BLV und das Bundesamt für Zoll und Grenzsicherheit (BAZG)[^13-1] sind als Kontrollorgane für den Vollzug dieser Verordnung zuständig.
 
-[^13-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
+[^13-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
 
 #### Art. 14
 
@@ -240,7 +240,7 @@ Widerhandlungen gegen die Artikel 4, 8, 11 und 12 sind strafbar nach Artikel 26 
 
 <sup>2</sup> Das BLV stellt der verantwortlichen Person für die Prüfung vorangemeldeter Sendungen eine Gebühr von 60 Franken pro Sendung in Rechnung.
 
-[^18-1]: [SR 916.472](https://fedlex.data.admin.ch/eli/cc/1985/1727_1727_1727)
+[^18-1]: [SR 916.472](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10942)
 
 ## 7. Abschnitt: Datenbearbeitung
 
@@ -315,12 +315,12 @@ Bestehen Zweifel an der rechtmässigen Herkunft einer Sendung, so können die Sc
 
 #### Art. 24
 
-**Informatiksicherheit**[^24-1]
+**Informationssicherheit**[^24-1]
 
-Die Massnahmen zur Gewährleistung der Informatiksicherheit richten sich nach der Cyberrisikenverordnung vom 27. Mai 2020[^24-2].
+Die Massnahmen zur Gewährleistung der Informationssicherheit richten sich nach der Informationssicherheitsverordnung vom 8. November 2023[^24-2].
 
-[^24-1]: Fassung gemäss Anhang Ziff. 27 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
-[^24-2]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^24-1]: Fassung gemäss Anhang 2 Ziff. II 28 der Informationssicherheitsverordnung vom 8. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^24-2]: [SR 128.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40166)
 
 #### Art. 25
 
@@ -330,7 +330,7 @@ Die Massnahmen zur Gewährleistung der Informatiksicherheit richten sich nach de
 
 <sup>2</sup> Die Daten werden nach spätestens 10 Jahren gelöscht.
 
-[^25-1]: [SR 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+[^25-1]: [SR 152.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4931)
 
 ## 8. Abschnitt: Nachführung der Anhänge
 
@@ -387,7 +387,7 @@ Voraussetzungen für die Aufnahme eines Flaggenstaates in Anhang 2 sind, dass:
 
 Diese Verordnung tritt am 1. März 2017 in Kraft.
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 4 Abs. 1 und 26 Abs. 1)
 
@@ -617,7 +617,7 @@ Anhang 1*[^t-1]*
 <tr><td></td><td colspan="2">ex 5600</td></tr>
 </table>
 
-Anhang 2*[^t-2]*
+Anhang 2[^t-2]
 
 (Art. 4 Abs. 2, 9 Abs. 1, 15, 26 Abs. 2 und 27)
 
