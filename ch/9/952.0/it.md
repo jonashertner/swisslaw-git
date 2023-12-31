@@ -4,11 +4,11 @@ title: "Legge federale dell'8 novembre 1934 sulle banche e le casse di risparmio
 short: LBCR
 eli: "https://fedlex.data.admin.ch/eli/cc/51/117_121_129"
 language: it
-version: 2023-01-01
+version: 2024-01-01
 adopted: 1934-11-08
 in_force: 1935-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/51/117_121_129/20230101/it/xml/fedlex-data-admin-ch-eli-cc-51-117_121_129-20230101-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/51/117_121_129/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/51/117_121_129/20240101/it/xml/fedlex-data-admin-ch-eli-cc-51-117_121_129-20240101-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/51/117_121_129/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/51/117_121_129/20230101/it"
 
 (Legge sulle banche, LBCR)[^t-1]
 
-dell’8 novembre 1934 (Stato 1° gennaio 2023)
+dell’8 novembre 1934 (Stato 1° gennaio 2024)
 
 [^t-1]: Nuovo testo giusta il n. I della LF del 22 apr. 1999, in vigore dal 1° ott. 1999 ([RU 1999 2405](https://fedlex.data.admin.ch/eli/oc/1999/368); FF **1998** 3007).
 
@@ -48,7 +48,7 @@ Non soggiacciono alla legge, segnatamente:
 
 <sup>4</sup> Le espressioni «banca» o «banchiere», isolate o in una parola composta, possono essere utilizzate nella ditta, nella designazione dello scopo sociale e nella pubblicità d’affari soltanto dagli istituti che hanno ricevuto un’autorizzazione come banche dall’Autorità federale di vigilanza sui mercati finanziari (FINMA). È fatto salvo l’articolo 2 capoverso 3.[^1-3]
 
-<sup>5</sup> La Banca nazionale svizzera e le centrali d’emissione di obbligazioni fondiarie soggiacciono alla presente legge soltanto in quanto quest’ultima lo disponga esplicitamente.
+<sup>5</sup> La Banca nazionale svizzera (Banca nazionale) e le centrali d’emissione di obbligazioni fondiarie soggiacciono alla presente legge soltanto in quanto quest’ultima lo disponga esplicitamente.
 
 [^1-1]: Nuovo testo giusta il n. I della LF dell’11 mar. 1971, in vigore dal 1° lug. 1971 ([RU 1971 809](https://fedlex.data.admin.ch/eli/oc/1971/808_808_809)[825](https://fedlex.data.admin.ch/eli/oc/1971/824_825_825)art. 1; [FF 1970 I 885](https://fedlex.data.admin.ch/eli/fga/1970/1_1044_1157_885)).
 [^1-2]: Nuovo testo giusta il n. I della LF del 18 mar. 1994, in vigore dal 1° feb. 1995 ([RU 1995 246](https://fedlex.data.admin.ch/eli/oc/1995/246_246_246); [FF 1993 I 609](https://fedlex.data.admin.ch/eli/fga/1993/1_805_757_609)). Vedi anche le disp. fin. della mod. del 18 mar. 1994 ([RU 1995 246](https://fedlex.data.admin.ch/eli/oc/1995/246_246_246)) alla fine del presente testo.
@@ -112,10 +112,10 @@ Sono fatte salve le seguenti disposizioni:
 [^1b-2]: Nuovo testo giusta il n. I 6 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 [^1b-3]: Nuovo testo giusta il n. I della LF del 17 dic. 2021 (Insolvenza e garanzia dei depositi), in vigore dal 1° gen. 2023 ([RU 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 5647](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
 [^1b-4]: Nuovo testo giusta il n. I della LF del 17 dic. 2021 (Insolvenza e garanzia dei depositi), in vigore dal 1° gen. 2023 ([RU 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 5647](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
-[^1b-5]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^1b-5]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^1b-6]: Nuova espr. giusta il n. I della LF del 17 dic. 2021 (Insolvenza e garanzia dei depositi), in vigore dal 1° gen. 2023 ([RU 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 5647](https://fedlex.data.admin.ch/eli/fga/2020/1555)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
-[^1b-7]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
-[^1b-8]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^1b-7]: [RS 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
+[^1b-8]: [RS 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 [^1b-9]: Nuovo testo giusta il n. I 6 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 #### Art. 2
@@ -175,8 +175,8 @@ L’autorizzazione è concessa se:
 - a.[^3-2] la banca delimita esattamente, in statuti, contratti di società e regolamenti, la sfera degli affari e prevede una organizzazione proporzionata all’importanza degli affari; essa deve, quando lo scopo aziendale o l’importanza degli affari lo esiga, istituire organi per la gestione, da una parte, e organi per l’alta direzione, la vigilanza e il controllo, dall’altra, come anche determinare le singole attribuzioni in modo da garantire un’efficace vigilanza sulla gestione;
 - b.[^3-3] la banca fornisce la prova che il capitale minimo stabilito dal Consiglio federale è interamente liberato;
 - c.[^3-4] le persone incaricate dell’amministrazione e gestione della banca godono di buona reputazione e garantiscono un’attività irreprensibile;
-- [tab] c.<sup>bis</sup> [^3-5] le persone fisiche e giuridiche che partecipano direttamente o indirettamente alla banca con almeno il 10 per cento del capitale o dei diritti di voto o possono influenzare notevolmente in altro modo la gestione della banca (partecipazione qualificata), devono fornire la garanzia che tale influsso non viene esercitato a danno di una gestione sana e prudente;
-- [tab] d.[^3-6] le persone incaricate della gestione della banca sono domiciliate in un luogo dal quale possono esercitare effettivamente la gestione e assumerne le responsabilità.
+- c.<sup>bis</sup> [^3-5] le persone fisiche e giuridiche che partecipano direttamente o indirettamente alla banca con almeno il 10 per cento del capitale o dei diritti di voto o possono influenzare notevolmente in altro modo la gestione della banca (partecipazione qualificata), devono fornire la garanzia che tale influsso non viene esercitato a danno di una gestione sana e prudente;
+- d.[^3-6] le persone incaricate della gestione della banca sono domiciliate in un luogo dal quale possono esercitare effettivamente la gestione e assumerne le responsabilità.
 
 <sup>3</sup> La banca sottopone alla FINMA lo statuto, i contratti di società e i regolamenti e l’informa di tutte le modificazioni ulteriori in quanto concernono lo scopo aziendale, l’attività dell’istituto, il capitale sociale o l’organizzazione interna. Le modificazioni possono essere iscritte nel registro di commercio soltanto dopo l’approvazione della FINMA.
 
@@ -305,7 +305,7 @@ La FINMA può inoltre fare dipendere dalle seguenti condizioni l’istituzione d
 
 <sup>1bis</sup> Se una banca fa parte di un gruppo finanziario o di un conglomerato finanziario, la FINMA può subordinare il rilascio dell’autorizzazione al consenso delle competenti autorità di sorveglianza estere.[^3bis-5]
 
-<sup>2</sup> La banca deve dare informazioni alla Banca nazionale svizzera, quanto alla sfera d’affari e ai rapporti con l’estero.
+<sup>2</sup> La banca deve dare informazioni alla Banca nazionale, quanto alla sfera d’affari e ai rapporti con l’estero.
 
 <sup>3</sup>
 
@@ -454,7 +454,7 @@ Le banche devono allestire per ogni esercizio un rapporto di gestione; questo si
 
 <sup>4</sup> In situazioni straordinarie, il Consiglio federale può prevedere deroghe al capoverso 3.
 
-[^6-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^6-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 6a
 
@@ -466,7 +466,7 @@ Le banche devono allestire per ogni esercizio un rapporto di gestione; questo si
 
 <sup>3</sup> I capoversi 1 e 2 non si applicano ai banchieri privati che non si rivolgono al pubblico per raccogliere depositi di capitali.È fatto salvo l’articolo 958*e* capoverso 2 CO[^6a-1].
 
-[^6a-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^6a-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 6b
 
@@ -480,7 +480,7 @@ Le banche devono allestire per ogni esercizio un rapporto di gestione; questo si
 
 <sup>4</sup> Alle condizioni di cui al capoverso 2, la FINMA può limitare l’utilizzazione in ambito bancario delle norme contabili riconosciute dal Consiglio federale.
 
-[^6b-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^6b-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ## Capo quinto: Banche di rilevanza sistemica
 
@@ -511,7 +511,7 @@ La rilevanza sistemica di una banca è stabilita in funzione delle sue dimension
 - c. il rapporto tra il totale di bilancio della banca e il prodotto interno lordo annuo della Svizzera;
 - d. il profilo di rischio della banca, determinato dal modello aziendale, dalla struttura del bilancio, dalla qualità degli attivi, dalla liquidità e dal grado d’indebitamento.
 
-<sup>3</sup> Dopo aver consultato la FINMA, la Banca nazionale svizzera (Banca nazionale) designa mediante decisione le banche di rilevanza sistemica e le loro funzioni di rilevanza sistemica.
+<sup>3</sup> Dopo aver consultato la FINMA, la Banca nazionale designa mediante decisione le banche di rilevanza sistemica e le loro funzioni di rilevanza sistemica.
 
 #### Art. 9
 
@@ -616,7 +616,7 @@ Per il resto, si applicano le disposizioni del CO[^12-1] sull’aumento autorizz
 - c. articolo 652*d* (aumento mediante capitale proprio);
 - d. articolo 656*b* capoversi 1 e 4 (limitazioni inerenti all’ammontare dell’aumento autorizzato del capitale di partecipazione).
 
-[^12-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^12-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 13
 
@@ -658,7 +658,7 @@ Le disposizioni del CO[^13-1] sull’aumento condizionale del capitale non si ap
 - b. articolo 653*d* capoverso 2 (tutela dei titolari di un diritto di conversione o d’opzione);
 - c. articolo 653*i* (abrogazione).
 
-[^13-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^13-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 14
 
@@ -677,7 +677,7 @@ Le disposizioni del CO[^13-1] sull’aumento condizionale del capitale non si ap
 <sup>6</sup> Ogni titolare di buoni di partecipazione può proporre all’assemblea generale che sia eseguita una verifica speciale, in quanto ciò sia necessario per l’esercizio dei suoi diritti. Se l’assemblea generale non accede alla proposta, la designazione giudiziale di un controllore speciale può essere chiesta, entro il termine di tre mesi, da titolari di buoni di partecipazione che detengano insieme almeno il 10 per cento del capitale di partecipazione o un capitale di partecipazione per un valore nominale di 2 milioni di franchi. Alla procedura si applicano per analogia gli articoli 697*a*–697*g* CO[^14-2].
 
 [^14-1]: Nuovo testo giusta l’all. n. II 14 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^14-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^14-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 14a
 
@@ -717,7 +717,7 @@ La banca cooperativa può acquistare buoni di partecipazione propri soltanto se:
 <sup>3</sup> Oltre alle disposizioni relative all’elenco dei soci della cooperativa, a tale elenco si applicano anche le disposizioni del diritto della società anonima sull’elenco dei titolari di azioni al portatore e degli aventi economicamente diritto annunciati alla società (art. 697*l* CO).
 
 [^14b-1]: Introdotto dall’all. n. II 14 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^14b-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^14b-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ## Capo settimo: Depositi a risparmio e valori depositati
 
@@ -729,7 +729,7 @@ La banca cooperativa può acquistare buoni di partecipazione propri soltanto se:
 
 <sup>1</sup> I depositi designati con l’espressione «risparmio»[^15-1] in qualunque combinazione di parole possono essere accettati soltanto dalle banche che pubblicano i loro conti. Tutte le altre imprese non sono legittimate ad accettare depositi a risparmio e non hanno il diritto di utilizzare l’espressione «risparmio» nella ragione sociale, nella designazione dello scopo sociale e nella pubblicità d’affari in relazione con i depositi effettuati presso di loro.[^15-2]
 
-<sup>2</sup> e <sup>3</sup> ... [^15-3]
+<sup>2 e <sup>3</sup></sup> ... [^15-3]
 
 [^15-1]: Testo rettificato dalla Commissione di redazione dell’AF (art. 33 LRC; [RU 1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)).
 [^15-2]: Nuovo testo giusta il n. I della LF del 18 mar. 1994, in vigore dal 1° feb. 1995 ([RU 1995 246](https://fedlex.data.admin.ch/eli/oc/1995/246_246_246); [FF 1993 I 609](https://fedlex.data.admin.ch/eli/fga/1993/1_805_757_609)).
@@ -779,9 +779,9 @@ Per valori depositati ai sensi dell’articolo 37*d* della legge si intendono:[^
 <sup>2</sup> Le banche, i gruppi finanziari e i conglomerati finanziari devono sottoporre il loro conto annuale ed eventualmente il loro conto di gruppo alla verifica di un’impresa di revisione sotto sorveglianza statale secondo i principi della revisione ordinaria del CO[^18-4].
 
 [^18-1]: Nuovo testo giusta l’all. n. 5 della L del 20 giu. 2014 (Concentrazione della sorveglianza sulle imprese di revisione e sulle società di audit), in vigore dal 1° gen. 2015 ([RU 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [FF 2013 5901](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
-[^18-2]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
-[^18-3]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
-[^18-4]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^18-2]: [RS 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
+[^18-3]: [RS 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
+[^18-4]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 19 a 22
 
@@ -812,7 +812,7 @@ La FINMA può effettuare verifiche dirette presso banche, gruppi bancari e congl
 <sup>2</sup> La FINMA può effettuare in ogni momento verifiche su queste persone.
 
 [^23bis-1]: Introdotto dal n. I della LF dell’11 mar. 1971 ([RU 1971 809](https://fedlex.data.admin.ch/eli/oc/1971/808_808_809); [FF 1970 I 885](https://fedlex.data.admin.ch/eli/fga/1970/1_1044_1157_885)). Nuovo testo giusta l’all. n. 10 della L del 19 giu. 2015 sull’infrastruttura finanziaria, in vigore dal 1° gen. 2016 ([RU 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [FF 2014 6445](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
-[^23bis-2]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^23bis-2]: [RS 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 
 #### Art. 23<sup>ter</sup>
 
@@ -882,14 +882,14 @@ Se vi sono fondati timori che una banca presenti un’eccedenza di debiti o seri
 
 <sup>2</sup> Le misure di protezione possono essere ordinate indipendentemente o in relazione a un risanamento o a un fallimento.
 
-<sup>3</sup> Le disposizioni concernenti la procedura concordataria (art. 293–336 della legge federale dell’11 aprile 1889[^25-2] sulla esecuzione e sul fallimento [LEF]), il rischio d’insolvenza (art. 725 CO[^25-3]), la perdita di capitale (art. 725*a* CO), l’eccedenza di debiti (art. 725*b* CO) e la rivalutazione di fondi e partecipazioni (art. 725*c* CO), nonché l’avviso al giudice (art. 716*a* cpv. 1 n. 7 e 728*c* cpv. 3 CO) non sono applicabili alle banche.[^25-4]
+<sup>3</sup> Le disposizioni relative alla procedura concordataria (art. 293–336 della legge federale dell’11 aprile 1889[^25-2] sulla esecuzione e sul fallimento [LEF]) e all’avviso al giudice (art. 716*a* cpv. 1 n. 7, 725*a* cpv. 3, 725*b* cpv. 3 e 728*c* cpv. 3 CO[^25-3]) non sono applicabili alle banche.[^25-4]
 
 <sup>4</sup> Gli ordini della FINMA riguardano l’intero patrimonio della banca, con attivi e passivi, e le relazioni contrattuali, si trovino essi in Svizzera o all’estero.[^25-5]
 
 [^25-1]: Nuovo espr. giusta il n. I della LF del 18 mar. 2011 (Garanzia dei depositi), in vigore dal 1° set. 2011 ([RU 2011 3919](https://fedlex.data.admin.ch/eli/oc/2011/559); [FF 2010 3513](https://fedlex.data.admin.ch/eli/fga/2010/655)). Di detta mod. é tenuto conto in tutto il presente testo.
-[^25-2]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
-[^25-3]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^25-4]: Nuovo testo giusta il n. IV n. 1 della LF del 17 dic. 2021 (Insolvenza e garanzia dei depositi), in vigore dal 1° gen. 2023 ([RU 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 5647](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
+[^25-2]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
+[^25-3]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^25-4]: Nuovo testo giusta il n. III della LF del 18 mar. 2022, in vigore dal 1° gen. 2024 ([RU 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); FF **2020** 8967).
 [^25-5]: Introdotto dal n. I della LF del 18 mar. 2011 (Garanzia dei depositi), in vigore dal 1° set. 2011 ([RU 2011 3919](https://fedlex.data.admin.ch/eli/oc/2011/559); [FF 2010 3513](https://fedlex.data.admin.ch/eli/fga/2010/655)).
 
 #### Art. 26
@@ -916,7 +916,7 @@ La FINMA può decidere misure di protezione; in particolare può:[^26-1]
 [^26-1]: Nuovo testo giusta l’all. n. 15 della LF del 22 giu. 2007 sulla vigilanza dei mercati finanziari, in vigore dal 1° gen. 2009 ([RU 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736)[5205](https://fedlex.data.admin.ch/eli/oc/2008/735); [FF 2006 2625](https://fedlex.data.admin.ch/eli/fga/2006/303)).
 [^26-2]: Nuovo testo giusta l’all. n. 15 della LF del 22 giu. 2007 sulla vigilanza dei mercati finanziari, in vigore dal 1° gen. 2009 ([RU 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736)[5205](https://fedlex.data.admin.ch/eli/oc/2008/735); [FF 2006 2625](https://fedlex.data.admin.ch/eli/fga/2006/303)).
 [^26-3]: Per. introdotto dal n. I della LF del 17 dic. 2021 (Insolvenza e garanzia dei depositi), in vigore dal 1° gen. 2023 ([RU 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 5647](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
-[^26-4]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^26-4]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 #### Art. 27
 
@@ -991,7 +991,7 @@ Esso può in particolare prevedere che:
 
 [^30-1]: Nuovo testo giusta il n. I della LF del 18 mar. 2011 (Garanzia dei depositi), in vigore dal 1° set. 2011 ([RU 2011 3919](https://fedlex.data.admin.ch/eli/oc/2011/559); [FF 2010 3513](https://fedlex.data.admin.ch/eli/fga/2010/655)).
 [^30-2]: Nuovo testo giusta il n. I della LF del 17 dic. 2021 (Insolvenza e garanzia dei depositi), in vigore dal 1° gen. 2023 ([RU 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 5647](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
-[^30-3]: [RS 221.301](https://fedlex.data.admin.ch/eli/cc/2004/320)
+[^30-3]: [RS 221.301](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5917)
 [^30-4]: Nuovo testo giusta il n. I della LF del 17 dic. 2021 (Insolvenza e garanzia dei depositi), in vigore dal 1° gen. 2023 ([RU 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 5647](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
 
 #### Art. 30a
@@ -1062,7 +1062,7 @@ La conversione di capitale di terzi in capitale proprio e la riduzione dei credi
 <sup>9</sup> La FINMA può, in via provvisoria, sospendere completamente i diritti sociali dei nuovi proprietari.
 
 [^30b-1]: Introdotto dal n. I della LF del 17 dic. 2021 (Insolvenza e garanzia dei depositi), in vigore dal 1° gen. 2023 ([RU 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 5647](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
-[^30b-2]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^30b-2]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 #### Art. 30c
 
@@ -1119,7 +1119,7 @@ Il piano di risanamento indica e chiarisce i principi fondamentali del risanamen
 <sup>3</sup> I capoversi 1 e 2 non si applicano al risanamento delle banche di rilevanza sistemica e delle società di gruppi o conglomerati finanziari di rilevanza sistemica.[^31a-3]
 
 [^31a-1]: Introdotto dal n. I della LF del 18 mar. 2011 (Garanzia dei depositi), in vigore dal 1° set. 2011 ([RU 2011 3919](https://fedlex.data.admin.ch/eli/oc/2011/559); [FF 2010 3513](https://fedlex.data.admin.ch/eli/fga/2010/655)).
-[^31a-2]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^31a-2]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 [^31a-3]: Introdotto dal n. I della LF del 30 set. 2011 (Rafforzamento della stabilità nel settore finanziario) ([RU 2012 811](https://fedlex.data.admin.ch/eli/oc/2012/126); [FF 2011 4211](https://fedlex.data.admin.ch/eli/fga/2011/762)). Nuovo testo giusta il n. I della LF del 17 dic. 2021 (Insolvenza e garanzia dei depositi), in vigore dal 1° gen. 2023 ([RU 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 5647](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
 
 #### Art. 31b
@@ -1183,7 +1183,7 @@ Il piano di risanamento produce effetti immediati, segnatamente per quanto conce
 
 <sup>4</sup> All’esercizio di pretese fondate sulla responsabilità conformemente all’articolo 39, i capoversi 1–2<sup>bis</sup> si applicano per analogia.[^32-5]
 
-[^32-1]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^32-1]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 [^32-2]: Introdotto dal n. I della LF del 30 set. 2011 (Rafforzamento della stabilità nel settore finanziario), in vigore dal 1° mar. 2012 ([RU 2012 811](https://fedlex.data.admin.ch/eli/oc/2012/126); [FF 2011 4211](https://fedlex.data.admin.ch/eli/fga/2011/762)).
 [^32-3]: Nuovo testo giusta il n. I della LF del 17 dic. 2021 (Insolvenza e garanzia dei depositi), in vigore dal 1° gen. 2023 ([RU 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 5647](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
 [^32-4]: Introdotto dal n. I della LF del 18 mar. 2011 (Garanzia dei depositi) ([RU 2011 3919](https://fedlex.data.admin.ch/eli/oc/2011/559); [FF 2010 3513](https://fedlex.data.admin.ch/eli/fga/2010/655)). Nuovo testo giusta il n. I della LF del 17 dic. 2021 (Insolvenza e garanzia dei depositi), in vigore dal 1° gen. 2023 ([RU 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 5647](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
@@ -1217,7 +1217,7 @@ Il piano di risanamento produce effetti immediati, segnatamente per quanto conce
 
 <sup>3</sup> La FINMA può disciplinare i dettagli della procedura.[^34-3]
 
-[^34-1]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^34-1]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 [^34-2]: Nuovo testo giusta il n. I della LF del 17 dic. 2021 (Insolvenza e garanzia dei depositi), in vigore dal 1° gen. 2023 ([RU 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 5647](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
 [^34-3]: Nuovo testo giusta il n. I della LF del 17 dic. 2021 (Insolvenza e garanzia dei depositi), in vigore dal 1° gen. 2023 ([RU 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 5647](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
 
@@ -1271,10 +1271,10 @@ Gli impegni che la banca ha legittimamente assunto, con l’approvazione della F
 <sup>7</sup> Il Consiglio federale definisce più precisamente i depositi e i depositanti di cui al capoverso 1. Può adeguare l’importo massimo di cui al capoverso 1 alla svalutazione monetaria.[^37a-6]
 
 [^37a-1]: Nuovo testo giusta il n. I della LF del 18 mar. 2011 (Garanzia dei depositi), in vigore dal 1° set. 2011 ([RU 2011 3919](https://fedlex.data.admin.ch/eli/oc/2011/559); [FF 2010 3513](https://fedlex.data.admin.ch/eli/fga/2010/655)).
-[^37a-2]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^37a-2]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 [^37a-3]: Abrogato dal n. I della LF del 17 dic. 2021 (Insolvenza e garanzia dei depositi), con effetto dal 1° gen. 2023 ([RU 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 5647](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
-[^37a-4]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
-[^37a-5]: [RS 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
+[^37a-4]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
+[^37a-5]: [RS 831.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10100)
 [^37a-6]: Introdotto dal n. I della LF del 17 dic. 2021 (Insolvenza e garanzia dei depositi), in vigore dal 1° gen. 2023 ([RU 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 5647](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
 
 #### Art. 37b
@@ -1291,7 +1291,7 @@ I depositi privilegiati ai sensi dell’articolo 37*a* capoverso 1 sono pagati, 
 <sup>2</sup> La FINMA fissa nei singoli casi l’importo massimo dei depositi pagabili secondo il capoverso 1. Essa tiene conto dell’ordine degli altri creditori secondo l’articolo 219 LEF[^37b-2].
 
 [^37b-1]: Nuovo testo giusta il n. I della LF del 17 dic. 2021 (Insolvenza e garanzia dei depositi), in vigore dal 1° gen. 2023 ([RU 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 5647](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
-[^37b-2]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^37b-2]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 #### Art. 37c
 
@@ -1306,7 +1306,7 @@ I depositi privilegiati ai sensi dell’articolo 37*a* capoverso 1 sono pagati, 
 I valori depositati ai sensi dell’articolo 16 della presente legge sono separati dalla massa conformemente agli articoli 17 e 18 della legge del 3 ottobre 2008[^37d-2] sui titoli contabili. In caso di sottodotazione, ai valori depositati custoditi collettivamente si applica l’articolo 19 della legge sui titoli contabili.
 
 [^37d-1]: Nuovo testo giusta il n. I 6 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
-[^37d-2]: [RS 957.1](https://fedlex.data.admin.ch/eli/cc/2009/450)
+[^37d-2]: [RS 957.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11624)
 
 #### Art. 37e
 
@@ -1318,7 +1318,7 @@ I valori depositati ai sensi dell’articolo 16 della presente legge sono separa
 
 <sup>3</sup> La FINMA prende le disposizioni necessarie per chiudere la procedura. Rende pubblicamente nota la chiusura.
 
-[^37e-1]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^37e-1]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 [^37e-2]: Nuovo testo giusta il n. I della LF del 17 dic. 2021 (Insolvenza e garanzia dei depositi), in vigore dal 1° gen. 2023 ([RU 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 5647](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
 [^37e-3]: Nuovo testo giusta il n. I della LF del 17 dic. 2021 (Insolvenza e garanzia dei depositi), in vigore dal 1° gen. 2023 ([RU 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 5647](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
 
@@ -1352,8 +1352,8 @@ La FINMA può, senza che sia eseguita una procedura in Svizzera, mettere a dispo
 <sup>5</sup> Per il rimanente si applicano gli articoli 166–175 LDIP.[^37g-5]
 
 [^37g-1]: Nuovo testo giusta il n. I della LF del 18 mar. 2011 (Garanzia dei depositi), in vigore dal 1° set. 2011 ([RU 2011 3919](https://fedlex.data.admin.ch/eli/oc/2011/559); [FF 2010 3513](https://fedlex.data.admin.ch/eli/fga/2010/655)).
-[^37g-2]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
-[^37g-3]: [RS 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)
+[^37g-2]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
+[^37g-3]: [RS 291](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6186)
 [^37g-4]: Introdotto dall’all. n. 2 della LF del 16 mar. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3263](https://fedlex.data.admin.ch/eli/oc/2018/527); [FF 2017 3531](https://fedlex.data.admin.ch/eli/fga/2017/1054)).
 [^37g-5]: Nuovo testo giusta l’all. n. 2 della LF del 16 mar. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3263](https://fedlex.data.admin.ch/eli/oc/2018/527); [FF 2017 3531](https://fedlex.data.admin.ch/eli/fga/2017/1054)).
 
@@ -1387,8 +1387,8 @@ Nelle procedure previste nei capi undicesimo e dodicesimo, i creditori e i propr
 
 <sup>3</sup> °In queste procedure è escluso il ricorso secondo l’articolo 17 LEF[^37gter-2].
 
-[^37gter-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
-[^37gter-2]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^37gter-1]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
+[^37gter-2]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 #### Art. 37g<sup>quater</sup>
 
@@ -1398,7 +1398,7 @@ Nelle procedure previste nei capi undicesimo e dodicesimo, i creditori e i propr
 
 <sup>2</sup> Il termine per interporre ricorso contro l’omologazione del piano di risanamento decorre dal giorno successivo a quello in cui sono resi noti pubblicamente i principi del piano di risanamento. Il termine per interporre ricorso contro l’approvazione dello stato di ripartizione e del conto finale decorre dal giorno successivo a quello in cui è stata resa pubblicamente nota l’approvazione.
 
-[^37gquater-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^37gquater-1]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 37g<sup>quinquies</sup>
 
@@ -1562,7 +1562,7 @@ Il termine di cui al capoverso 3 è prolungato o sospeso per i depositi:
 
 [^chap14-1]
 
-[^chap14-1]: A partire dal 1° gen. 2007 le pene e i termini di prescrizione devono essere adattati giusta la chiave di conversione dell’art. 333 cpv. 2–6 del Codice penale ([RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)), nel testo della LF del 13. dic. 2002 ([RU 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549): FF **1999** 1669).
+[^chap14-1]: A partire dal 1° gen. 2007 le pene e i termini di prescrizione devono essere adattati giusta la chiave di conversione dell’art. 333 cpv. 2–6 del Codice penale ([RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)), nel testo della LF del 13. dic. 2002 ([RU 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549): FF **1999** 1669).
 
 #### Art. 38
 
@@ -1573,7 +1573,7 @@ Il termine di cui al capoverso 3 è prolungato o sospeso per i depositi:
 <sup>2</sup> Alle altre banche è applicabile l’articolo 39.
 
 [^38-1]: Nuovo testo giusta l’all. n. 15 della LF del 22 giu. 2007 sulla vigilanza dei mercati finanziari, in vigore dal 1° gen. 2009 ([RU 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736)[5205](https://fedlex.data.admin.ch/eli/oc/2008/735); [FF 2006 2625](https://fedlex.data.admin.ch/eli/fga/2006/303)).
-[^38-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^38-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 39
 
@@ -1582,7 +1582,7 @@ Il termine di cui al capoverso 3 è prolungato o sospeso per i depositi:
 La responsabilità dei fondatori di una banca, degli organi di gestione, alta direzione, vigilanza e controllo come pure dei liquidatori nominati dalla banca è retta dalle disposizioni del diritto della società anonima (art. 752–760 CO[^39-2]).
 
 [^39-1]: Nuovo testo giusta il n. I della LF del 17 dic. 2021 (Insolvenza e garanzia dei depositi), in vigore dal 1° gen. 2023 ([RU 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 5647](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
-[^39-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^39-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 40 a 45
 
@@ -1638,7 +1638,7 @@ La responsabilità dei fondatori di una banca, degli organi di gestione, alta di
 [^47-3]: Introdotta dal n. I 2 della LF del 12 dic. 2014 sull’estensione della punibilità della violazione del segreto professionale, in vigore dal 1° lug. 2015 ([RU 2015 1535](https://fedlex.data.admin.ch/eli/oc/2015/304); [FF 2014 5347](https://fedlex.data.admin.ch/eli/fga/2014/1334)[5357](https://fedlex.data.admin.ch/eli/fga/2014/1336)).
 [^47-4]: Introdotto dal n. I 2 della LF del 12 dic. 2014 sull’estensione della punibilità della violazione del segreto professionale, in vigore dal 1° lug. 2015 ([RU 2015 1535](https://fedlex.data.admin.ch/eli/oc/2015/304); [FF 2014 5347](https://fedlex.data.admin.ch/eli/fga/2014/1334)[5357](https://fedlex.data.admin.ch/eli/fga/2014/1336)).
 [^47-5]: Abrogato dall’all. n. 10 della L del 19 giu. 2015 sull’infrastruttura finanziaria, con effetto dal 1° gen. 2016 ([RU 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [FF 2014 6445](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
-[^47-6]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^47-6]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 48
 
@@ -1706,7 +1706,7 @@ Al più tardi tre anni dopo l’entrata in vigore dei capi quinto e sesto della 
 Al più tardi tre anni dopo l’entrata in vigore della modifica del 15 giugno 2018 il Consiglio federale esamina le disposizioni interessate paragonandole con gli obiettivi in materia di vigilanza dei mercati finanziari secondo la legge del 22 giugno 2007[^52a-2] sulla vigilanza dei mercati finanziari. Ne riferisce all’Assemblea federale e presenta gli interventi legislativi necessari.
 
 [^52a-1]: Introdotto dall’all. n. II 14 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2019 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^52a-2]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^52a-2]: [RS 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 
 #### Art. 53
 
@@ -1720,7 +1720,7 @@ Con l’entrata in vigore della presente legge sono abrogati:
 <sup>2</sup> Le disposizioni cantonali sul privilegio legale in favore dei depositi a risparmio cessano di essere valide se, entro tre anni a contare dall’entrata in vigore della presente legge, non sono state sostituite da nuove disposizioni che siano conformi agli articoli 15 e 16.
 
 [^53-1]: Nuovo testo giusta l’all. n. 14 della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^53-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^53-2]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 #### Art. 54
 

@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 8. November 1934 über die Banken und Sparkassen (Banke
 short: BankG
 eli: "https://fedlex.data.admin.ch/eli/cc/51/117_121_129"
 language: de
-version: 2023-01-01
+version: 2024-01-01
 adopted: 1934-11-08
 in_force: 1935-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/51/117_121_129/20230101/de/xml/fedlex-data-admin-ch-eli-cc-51-117_121_129-20230101-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/51/117_121_129/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/51/117_121_129/20240101/de/xml/fedlex-data-admin-ch-eli-cc-51-117_121_129-20240101-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/51/117_121_129/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/51/117_121_129/20230101/de"
 
 (Bankengesetz, BankG)[^t-1]
 
-vom 8. November 1934 (Stand am 1. Januar 2023)
+vom 8. November 1934 (Stand am 1. Januar 2024)
 
 [^t-1]: Fassung des Titels gemäss Ziff. I des BG vom 22. April 1999, in Kraft seit 1. Okt. 1999 ([AS 1999 2405](https://fedlex.data.admin.ch/eli/oc/1999/368); BBl **1998** 3847).
 
@@ -49,7 +49,7 @@ Dem Gesetz unterstehen insbesondere nicht:
 
 <sup>4</sup> Der Ausdruck «Bank» oder «Bankier», allein oder in Wortverbindungen, darf in der Firma, in der Bezeichnung des Geschäftszweckes und in der Geschäftsreklame nur für Institute verwendet werden, die eine Bewilligung der Eidgenössischen Finanzmarktaufsicht (FINMA) als Bank erhalten haben. Vorbehalten bleibt Artikel 2 Absatz 3.[^1-4]
 
-<sup>5</sup> Die Schweizerische Nationalbank und die Pfandbriefzentralen fallen nur soweit unter das Gesetz, als dies ausdrücklich gesagt ist.
+<sup>5</sup> Die Schweizerische Nationalbank (Nationalbank) und die Pfandbriefzentralen fallen nur soweit unter das Gesetz, als dies ausdrücklich gesagt ist.
 
 [^1-1]: Fassung gemäss Ziff. I des BG vom 11. März 1971, in Kraft seit 1. Juli 1971 ([AS 1971 808](https://fedlex.data.admin.ch/eli/oc/1971/808_808_809)[824](https://fedlex.data.admin.ch/eli/oc/1971/824_825_825)Art. 1; [BBl 1970 I 1144](https://fedlex.data.admin.ch/eli/fga/1970/1_1144__)).
 [^1-2]: Heute: Einzelunternehmen.
@@ -58,27 +58,27 @@ Dem Gesetz unterstehen insbesondere nicht:
 
 #### Art. 1a
 
-**Banken**[^1a-1]
+**Banken**[^1bis-1]
 
 Als Bank gilt, wer hauptsächlich im Finanzbereich tätig ist und:
 
 - a. gewerbsmässig Publikumseinlagen von mehr als 100 Millionen Franken entgegennimmt oder sich öffentlich dafür empfiehlt;
-- b.[^1a-2] gewerbsmässig Publikumseinlagen bis zu 100 Millionen Franken oder vom Bundesrat bezeichnete kryptobasierte Vermögenswerte entgegennimmt oder sich öffentlich dafür empfiehlt und diese Publikumseinlagen oder Vermögenswerte anlegt oder verzinst; oder
+- b.[^1bis-2] gewerbsmässig Publikumseinlagen bis zu 100 Millionen Franken oder vom Bundesrat bezeichnete kryptobasierte Vermögenswerte entgegennimmt oder sich öffentlich dafür empfiehlt und diese Publikumseinlagen oder Vermögenswerte anlegt oder verzinst; oder
 - c. sich in erheblichem Umfang bei mehreren nicht massgebend an ihm beteiligten Banken refinanziert, um damit auf eigene Rechnung eine unbestimmte Zahl von Personen oder Unternehmen, mit denen er keine wirtschaftliche Einheit bildet, auf irgendeine Art zu finanzieren.
 
-[^1a-1]: Eingefügt durch Anhang Ziff. II 14 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^1a-2]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (Insolvenz und Einlagensicherung), in Kraft seit 1. Jan. 2023 ([AS 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [BBl 2020 6359](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
+[^1bis-1]: Eingefügt durch Anhang Ziff. II 14 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^1bis-2]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (Insolvenz und Einlagensicherung), in Kraft seit 1. Jan. 2023 ([AS 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [BBl 2020 6359](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
 
 #### Art. 1b
 
-**Innovationsförderung**[^1b-1]
+**Innovationsförderung**[^1a-1]
 
 <sup>1</sup>
 
 Die Bestimmungen dieses Gesetzes finden sinngemäss Anwendung auf Personen, die hauptsächlich im Finanzbereich tätig sind und:
 
 - a. gewerbsmässig Publikumseinlagen von bis zu 100 Millionen Franken oder vom Bundesrat bezeichnete kryptobasierte Vermögenswerte entgegennehmen oder sich öffentlich dafür empfehlen; und
-- b. diese Publikumseinlagen oder Vermögenswerte weder anlegen noch verzinsen.[^1b-2]
+- b. diese Publikumseinlagen oder Vermögenswerte weder anlegen noch verzinsen.[^1a-2]
 
 <sup>2</sup> Der Bundesrat kann den Betrag nach Absatz 1 unter Berücksichtigung der Wettbewerbs- und Innovationsfähigkeit des Finanzplatzes Schweiz anpassen.
 
@@ -95,27 +95,27 @@ Personen nach Absatz 1 müssen insbesondere:
 
 Vorbehalten bleiben die folgenden Bestimmungen:
 
-- a. Die Rechnungslegung für Personen nach Absatz 1 richtet sich ausschliesslich nach den Vorschriften des Obligationenrechts (OR)[^1b-3].
+- a. Die Rechnungslegung für Personen nach Absatz 1 richtet sich ausschliesslich nach den Vorschriften des Obligationenrechts (OR)[^1a-3].
 - b. Personen nach Absatz 1 müssen ihre Jahresrechnung und gegebenenfalls ihre Konzernrechnung nach den Vorschriften des OR prüfen lassen; Artikel 727*a* Absätze 2–5 OR ist nicht anwendbar.
-- c. Personen nach Absatz 1 beauftragen eine von der Eidgenössischen Revisionsaufsichtsbehörde nach Artikel 9*a* Absatz 1 oder Absatz 4<sup>bis</sup> des Revisionsaufsichtsgesetzes vom 16. Dezember 2005[^1b-4] zugelassene Prüfgesellschaft mit einer Prüfung nach Artikel 24 des Finanzmarktaufsichtsgesetzes vom 22. Juni 2007[^1b-5] (FINMAG).
-- d.[^1b-6] Auf Publikumseinlagen oder vom Bundesrat bezeichnete kryptobasierte Vermögenswerte bei Personen nach Absatz 1 finden die Bestimmungen über privilegierte Einlagen (Art. 37*a*) und über die sofortige Auszahlung (Art. 37*b*) keine Anwendung; die Einleger sind über diesen Umstand zu informieren, bevor sie die Einlage tätigen.
+- c. Personen nach Absatz 1 beauftragen eine von der Eidgenössischen Revisionsaufsichtsbehörde nach Artikel 9*a* Absatz 1 oder Absatz 4<sup>bis</sup> des Revisionsaufsichtsgesetzes vom 16. Dezember 2005[^1a-4] zugelassene Prüfgesellschaft mit einer Prüfung nach Artikel 24 des Finanzmarktaufsichtsgesetzes vom 22. Juni 2007[^1a-5] (FINMAG).
+- d.[^1a-6] Auf Publikumseinlagen oder vom Bundesrat bezeichnete kryptobasierte Vermögenswerte bei Personen nach Absatz 1 finden die Bestimmungen über privilegierte Einlagen (Art. 37*a*) und über die sofortige Auszahlung (Art. 37*b*) keine Anwendung; die Einleger sind über diesen Umstand zu informieren, bevor sie die Einlage tätigen.
 
 <sup>5</sup> Die FINMA kann in besonderen Fällen die Absätze 1–4 auch für Personen anwendbar erklären, die gewerbsmässig Publikumseinlagen von mehr als 100 Millionen Franken entgegennehmen oder sich öffentlich dafür empfehlen, diese weder anlegen noch verzinsen und den Schutz der Kunden durch besondere Vorkehrungen gewährleisten.
 
 <sup>6</sup> Wird der Schwellenwert von 100 Millionen Franken überschritten, so muss dies innerhalb von 10 Tagen der FINMA gemeldet und ihr innerhalb von 90 Tagen ein Bewilligungsgesuch nach Artikel 1*a* eingereicht werden. Vorbehalten bleibt Absatz 5.
 
-[^1b-1]: Eingefügt durch Anhang Ziff. II 14 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^1b-2]: Fassung gemäss Ziff. I 6 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
-[^1b-3]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^1b-4]: [SR 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
-[^1b-5]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
-[^1b-6]: Fassung gemäss Ziff. I 6 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^1a-1]: Eingefügt durch Anhang Ziff. II 14 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^1a-2]: Fassung gemäss Ziff. I 6 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^1a-3]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^1a-4]: [SR 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
+[^1a-5]: [SR 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
+[^1a-6]: Fassung gemäss Ziff. I 6 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 #### Art. 1<sup>bis</sup>
 
-[^1bis-1]
+[^1b-1]
 
-[^1bis-1]: Eingefügt durch Anhang Ziff. II 5 des Nationalbankgesetzes vom 3. Okt. 2003 ([AS 2004 1985](https://fedlex.data.admin.ch/eli/oc/2004/221); [BBl 2002 6097](https://fedlex.data.admin.ch/eli/fga/2002/997)). Aufgehoben durch Anhang Ziff. 10 des Finanzmarktinfrastrukturgesetzes vom 19. Juni 2015, mit Wirkung seit 1. Jan. 2016 ([AS 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [BBl 2014 7483](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
+[^1b-1]: Eingefügt durch Anhang Ziff. II 5 des Nationalbankgesetzes vom 3. Okt. 2003 ([AS 2004 1985](https://fedlex.data.admin.ch/eli/oc/2004/221); [BBl 2002 6097](https://fedlex.data.admin.ch/eli/fga/2002/997)). Aufgehoben durch Anhang Ziff. 10 des Finanzmarktinfrastrukturgesetzes vom 19. Juni 2015, mit Wirkung seit 1. Jan. 2016 ([AS 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [BBl 2014 7483](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
 
 #### Art. 2
 
@@ -301,7 +301,7 @@ Die FINMA kann die Bewilligung zur Errichtung einer Bank, die nach schweizerisch
 
 <sup>1bis</sup> Ist eine Bank Teil einer Finanzgruppe oder eines Finanzkonglomerates, so kann die FINMA die Bewilligung von der Zustimmung der massgeblichen ausländischen Aufsichtsbehörden abhängig machen.[^3bis-5]
 
-<sup>2</sup> Die Bank hat der Schweizerischen Nationalbank über ihren Geschäftskreis und ihre Beziehungen zum Ausland Auskunft zu erteilen.
+<sup>2</sup> Die Bank hat der Nationalbank über ihren Geschäftskreis und ihre Beziehungen zum Ausland Auskunft zu erteilen.
 
 <sup>3</sup> Eine nach schweizerischem Recht organisierte Bank fällt unter Absatz 1, wenn Ausländer mit qualifizierten Beteiligungen direkt oder indirekt mit mehr als der Hälfte der Stimmen an ihr beteiligt sind oder auf sie in anderer Weise einen beherrschenden Einfluss ausüben.[^3bis-6]
 
@@ -447,7 +447,7 @@ Die Bank erstellt für jedes Geschäftsjahr einen Geschäftsbericht; dieser best
 
 <sup>4</sup> In ausserordentlichen Lagen kann der Bundesrat Abweichungen von Absatz 3 beschliessen.
 
-[^6-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^6-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 6a
 
@@ -459,7 +459,7 @@ Die Bank erstellt für jedes Geschäftsjahr einen Geschäftsbericht; dieser best
 
 <sup>3</sup> Die Absätze 1 und 2 finden keine Anwendung auf Privatbankiers, die sich nicht öffentlich zur Annahme fremder Gelder empfehlen. Artikel 958e Absatz 2 des Obligationenrechts[^6a-1] bleibt vorbehalten.
 
-[^6a-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^6a-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 6b
 
@@ -473,7 +473,7 @@ Die Bank erstellt für jedes Geschäftsjahr einen Geschäftsbericht; dieser best
 
 <sup>4</sup> Die FINMA kann unter den Voraussetzungen von Absatz 2 die Anwendung der vom Bundesrat anerkannten Standards zur Rechnungslegung im Bereich der Banken einschränken.
 
-[^6b-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^6b-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ## Fünfter Abschnitt: Systemrelevante Banken
 
@@ -504,7 +504,7 @@ Die Systemrelevanz einer Bank beurteilt sich nach deren Grösse, deren Vernetzun
 - c. das Verhältnis zwischen der Bilanzsumme der Bank und dem jährlichen Bruttoinlandprodukt der Schweiz;
 - d. das Risikoprofil der Bank, welches sich anhand des Geschäftsmodells, der Bilanzstruktur, der Qualität der Aktiven, der Liquidität und des Verschuldungsgrades bestimmt.
 
-<sup>3</sup> Die Schweizerische Nationalbank (Nationalbank) bezeichnet nach Anhörung der FINMA durch Verfügung die systemrelevanten Banken und deren systemrelevante Funktionen.
+<sup>3</sup> Die Nationalbank bezeichnet nach Anhörung der FINMA durch Verfügung die systemrelevanten Banken und deren systemrelevante Funktionen.
 
 #### Art. 9
 
@@ -609,7 +609,7 @@ Im Übrigen gelten die Vorschriften des Obligationenrechts[^12-1] über die gene
 - c. Artikel 652*d* (Erhöhung aus Eigenkapital);
 - d. Artikel 656*b* Absätze 1 und 4 (betragsmässige Beschränkung der genehmigten Erhöhung des Partizipationskapitals).
 
-[^12-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^12-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 13
 
@@ -651,7 +651,7 @@ Die Vorschriften des Obligationenrechts[^13-1] zur bedingten Kapitalerhöhung fi
 - b. Artikel 653*d* Absatz 2 (Schutz der Wandel- und Optionsberechtigten);
 - c. Artikel 653*i* (Streichung).
 
-[^13-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^13-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 14
 
@@ -670,7 +670,7 @@ Die Vorschriften des Obligationenrechts[^13-1] zur bedingten Kapitalerhöhung fi
 <sup>6</sup> Sie können der Generalversammlung, wenn dies zur Ausübung ihrer Rechte erforderlich ist, einen Antrag um Sonderprüfung stellen. Lehnt die Generalversammlung den Antrag ab, so können sie, wenn sie zusammen mindestens 10 Prozent des Beteiligungskapitals oder Beteiligungskapital im Nennwert von 2 Millionen Franken halten, innert dreier Monate das Gericht ersuchen, einen Sonderprüfer einzusetzen. Für das Verfahren sind die Artikel 697*a*–697*g* OR[^14-2] sinngemäss anwendbar.
 
 [^14-1]: Fassung gemäss Anhang Ziff. II 14 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^14-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^14-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 14a
 
@@ -710,7 +710,7 @@ Die Genossenschaftsbank kann unter folgenden Voraussetzungen eigene Beteiligungs
 <sup>3</sup> Für das Verzeichnis gilt neben den Bestimmungen für das Genossenschafterverzeichnis die aktienrechtliche Bestimmung über das Verzeichnis der Inhaberaktionäre sowie der wirtschaftlich berechtigten Personen, die der Gesellschaft gemeldet sind, sinngemäss (Art. 697*l* OR).
 
 [^14b-1]: Eingefügt durch Anhang Ziff. II 14 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^14b-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^14b-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ## Siebenter Abschnitt: Spareinlagen und Depotwerte
 
@@ -722,7 +722,7 @@ Die Genossenschaftsbank kann unter folgenden Voraussetzungen eigene Beteiligungs
 
 <sup>1</sup> Einlagen, die in irgendeiner Wortverbindung durch den Ausdruck «Sparen» gekennzeichnet sind, dürfen nur von Banken entgegengenommen werden, die öffentlich Rechnung ablegen. Alle andern Unternehmen sind zur Entgegennahme von Spareinlagen nicht berechtigt und dürfen weder in der Firma noch in der Bezeichnung des Geschäftszweckes noch in Geschäftsreklamen den Ausdruck «Sparen» mit Bezug auf die bei ihnen gemachten Geldeinlagen verwenden.[^15-1]
 
-<sup>2</sup> <sup>–</sup><sup>3</sup> …[^15-2]
+<sup>2<sup>–</sup><sup>3</sup></sup> …[^15-2]
 
 [^15-1]: Fassung gemäss Ziff. I des BG vom 18. März 1994, in Kraft seit 1. Febr. 1995 ([AS 1995 246](https://fedlex.data.admin.ch/eli/oc/1995/246_246_246); [BBl 1993 I 805](https://fedlex.data.admin.ch/eli/fga/1993/1_805_757_609)).
 [^15-2]: Aufgehoben durch Anhang Ziff. 17 des BG vom 16. Dez. 1994, mit Wirkung seit 1. Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
@@ -771,9 +771,9 @@ Als Depotwerte im Sinne von Artikel 37*d* des Gesetzes gelten:[^16-2]
 <sup>2</sup> Die Banken, Finanzgruppen und Finanzkonglomerate müssen ihre Jahresrechnung und gegebenenfalls ihre Konzernrechnung von einem staatlich beaufsichtigten Revisionsunternehmen nach den Grundsätzen der ordentlichen Revision des Obligationenrechts[^18-4] prüfen lassen.
 
 [^18-1]: Fassung gemäss Anhang Ziff. 5 des BG vom 20. Juni 2014 (Bündelung der Aufsicht über Revisionsunternehmen und Prüfgesellschaften), in Kraft seit 1. Jan. 2015 ([AS 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [BBl 2013 6857](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
-[^18-2]: [SR 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
-[^18-3]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
-[^18-4]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^18-2]: [SR 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
+[^18-3]: [SR 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
+[^18-4]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 19–22
 
@@ -804,7 +804,7 @@ Die FINMA kann selbst direkte Prüfungen bei Banken, Bankgruppen und Finanzkongl
 <sup>2</sup> Die FINMA kann bei diesen Personen jederzeit Prüfungen vornehmen.
 
 [^23bis-1]: Eingefügt durch Ziff. I des BG vom 11. März 1971 ([AS 1971 808](https://fedlex.data.admin.ch/eli/oc/1971/808_808_809); [BBl 1970 I 1144](https://fedlex.data.admin.ch/eli/fga/1970/1_1144__)). Fassung gemäss Anhang Ziff. 10 des Finanzmarktinfrastrukturgesetzes vom 19. Juni 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [BBl 2014 7483](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
-[^23bis-2]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^23bis-2]: [SR 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 
 #### Art. 23<sup>ter</sup>
 
@@ -875,14 +875,14 @@ Besteht begründete Besorgnis, dass eine Bank überschuldet ist oder ernsthafte 
 
 <sup>2</sup> Die Schutzmassnahmen können selbständig oder in Verbindung mit einer Sanierung oder Konkursliquidation angeordnet werden.
 
-<sup>3</sup> Die Bestimmungen über das Nachlassverfahren (Art. 293–336 des Bundesgesetzes vom 11. April 1889[^25-2] über Schuldbetreibung und Konkurs [SchKG]), über die drohende Zahlungsunfähigkeit (Art. 725 OR[^25-3]), über den Kapitalverlust (Art. 725*a* OR), über die Überschuldung (Art. 725*b* OR) und über die Aufwertung von Grundstücken und Beteiligungen (Art. 725*c* OR) sowie über die Benachrichtigung des Gerichts (Art. 716*a* Abs. 1 Ziff. 7 und 728*c* Abs. 3 OR) sind auf Banken nicht anwendbar.[^25-4]
+<sup>3</sup> Die Bestimmungen über das Nachlassverfahren (Art. 293–336 des Bundesgesetzes vom 11. April 1889[^25-2] über Schuldbetreibung und Konkurs [SchKG]), und über die Benachrichtigung des Gerichts (Art. 716*a* Abs. 1 Ziff. 7, 725*a* Abs. 3, 725*b* Abs. 3 und 728*c* Abs. 3 OR[^25-3]) sind auf Banken nicht anwendbar.[^25-4]
 
 <sup>4</sup> Die Anordnungen der FINMA umfassen sämtliches Vermögen der Bank mit Aktiven und Passiven und Vertragsverhältnisse, ob sie sich nun im In- oder im Ausland befinden.[^25-5]
 
 [^25-1]: Ausdruck gemäss Ziff. I des BG vom 18. März 2011 (Sicherung der Einlagen), in Kraft seit 1. Sept. 2011 ([AS 2011 3919](https://fedlex.data.admin.ch/eli/oc/2011/559); [BBl 2010 3993](https://fedlex.data.admin.ch/eli/fga/2010/655)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
-[^25-2]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
-[^25-3]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^25-4]: Fassung gemäss Ziff. IV 1 des BG vom 17. Dez. 2021 (Insolvenz und Einlagensicherung), in Kraft seit 1. Jan. 2023 ([AS 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [BBl 2020 6359](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
+[^25-2]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
+[^25-3]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^25-4]: Fassung gemäss Ziff. III des BG vom 18. März 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [BBl 2020 8967](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
 [^25-5]: Eingefügt durch Ziff. I des BG vom 18. März 2011 (Sicherung der Einlagen), in Kraft seit 1. Sept. 2011 ([AS 2011 3919](https://fedlex.data.admin.ch/eli/oc/2011/559); [BBl 2010 3993](https://fedlex.data.admin.ch/eli/fga/2010/655)).
 
 #### Art. 26
@@ -909,7 +909,7 @@ Die FINMA kann Schutzmassnahmen verfügen; namentlich kann sie:[^26-1]
 [^26-1]: Fassung gemäss Anhang Ziff. 15 des Finanzmarktaufsichtsgesetzes vom 22. Juni 2007, in Kraft seit 1. Jan. 2009 ([AS 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736)[5205](https://fedlex.data.admin.ch/eli/oc/2008/735); [BBl 2006 2829](https://fedlex.data.admin.ch/eli/fga/2006/303)).
 [^26-2]: Fassung gemäss Anhang Ziff. 15 des Finanzmarktaufsichtsgesetzes vom 22. Juni 2007, in Kraft seit 1. Jan. 2009 ([AS 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736)[5205](https://fedlex.data.admin.ch/eli/oc/2008/735); [BBl 2006 2829](https://fedlex.data.admin.ch/eli/fga/2006/303)).
 [^26-3]: Zweiter Satz eingefügt durch Ziff. I des BG vom 17. Dez. 2021 (Insolvenz und Einlagensicherung), in Kraft seit 1. Jan. 2023 ([AS 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [BBl 2020 6359](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
-[^26-4]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^26-4]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 #### Art. 27
 
@@ -984,7 +984,7 @@ Er kann insbesondere vorsehen, dass:
 
 [^30-1]: Fassung gemäss Ziff. I des BG vom 18. März 2011 (Sicherung der Einlagen), in Kraft seit 1. Sept. 2011 ([AS 2011 3919](https://fedlex.data.admin.ch/eli/oc/2011/559); [BBl 2010 3993](https://fedlex.data.admin.ch/eli/fga/2010/655)).
 [^30-2]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (Insolvenz und Einlagensicherung), in Kraft seit 1. Jan. 2023 ([AS 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [BBl 2020 6359](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
-[^30-3]: [SR 221.301](https://fedlex.data.admin.ch/eli/cc/2004/320)
+[^30-3]: [SR 221.301](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5917)
 [^30-4]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (Insolvenz und Einlagensicherung), in Kraft seit 1. Jan. 2023 ([AS 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [BBl 2020 6359](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
 
 #### Art. 30a
@@ -1055,7 +1055,7 @@ Die Wandlung von Fremd- in Eigenkapital und die Reduktion von Forderungen sind i
 <sup>9</sup> Die FINMA kann vorübergehend die Mitwirkungsrechte der neuen Eigner vollständig suspendieren.
 
 [^30b-1]: Eingefügt durch Ziff. I des BG vom 17. Dez. 2021 (Insolvenz und Einlagensicherung), in Kraft seit 1. Jan. 2023 ([AS 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [BBl 2020 6359](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
-[^30b-2]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^30b-2]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 #### Art. 30c
 
@@ -1112,7 +1112,7 @@ Er nennt und erläutert die wesentlichen Grundzüge der Sanierung und enthält i
 <sup>3</sup> Die Absätze 1 und 2 finden keine Anwendung auf die Sanierung von systemrelevanten Banken und Gruppengesellschaften von systemrelevanten Finanzgruppen oder -konglomeraten.[^31a-3]
 
 [^31a-1]: Eingefügt durch Ziff. I des BG vom 18. März 2011 (Sicherung der Einlagen), in Kraft seit 1. Sept. 2011 ([AS 2011 3919](https://fedlex.data.admin.ch/eli/oc/2011/559); [BBl 2010 3993](https://fedlex.data.admin.ch/eli/fga/2010/655)).
-[^31a-2]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^31a-2]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 [^31a-3]: Eingefügt durch Ziff. I des BG vom 30. Sept. 2011 (Stärkung der Stabilität im Finanzsektor) ([AS 2012 811](https://fedlex.data.admin.ch/eli/oc/2012/126); [BBl 2011 4717](https://fedlex.data.admin.ch/eli/fga/2011/762)). Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (Insolvenz und Einlagensicherung), in Kraft seit 1. Jan. 2023 ([AS 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [BBl 2020 6359](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
 
 #### Art. 31b
@@ -1176,7 +1176,7 @@ Die Wirksamkeit tritt direkt ein namentlich für:
 
 <sup>4</sup> Für die Geltendmachung von Verantwortlichkeitsansprüchen nach Artikel 39 gelten die Absätze 1–2<sup>bis</sup> sinngemäss.[^32-5]
 
-[^32-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^32-1]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 [^32-2]: Eingefügt durch Ziff. I des BG vom 30. Sept. 2011 (Stärkung der Stabilität im Finanzsektor), in Kraft seit 1. März 2012 ([AS 2012 811](https://fedlex.data.admin.ch/eli/oc/2012/126); [BBl 2011 4717](https://fedlex.data.admin.ch/eli/fga/2011/762)).
 [^32-3]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (Insolvenz und Einlagensicherung), in Kraft seit 1. Jan. 2023 ([AS 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [BBl 2020 6359](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
 [^32-4]: Eingefügt durch Ziff. I des BG vom 18. März 2011 (Sicherung der Einlagen) ([AS 2011 3919](https://fedlex.data.admin.ch/eli/oc/2011/559); [BBl 2010 3993](https://fedlex.data.admin.ch/eli/fga/2010/655)). Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (Insolvenz und Einlagensicherung), in Kraft seit 1. Jan. 2023 ([AS 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [BBl 2020 6359](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
@@ -1210,7 +1210,7 @@ Die Wirksamkeit tritt direkt ein namentlich für:
 
 <sup>3</sup> Die FINMA kann das Verfahren näher regeln.[^34-3]
 
-[^34-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^34-1]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 [^34-2]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (Insolvenz und Einlagensicherung), in Kraft seit 1. Jan. 2023 ([AS 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [BBl 2020 6359](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
 [^34-3]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (Insolvenz und Einlagensicherung), in Kraft seit 1. Jan. 2023 ([AS 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [BBl 2020 6359](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
 
@@ -1264,10 +1264,10 @@ Verbindlichkeiten, die die Bank mit Genehmigung der FINMA oder eines von dieser 
 <sup>7</sup> Der Bundesrat umschreibt die Einlagen und die Einleger nach Absatz 1 näher. Er kann den Höchstbetrag nach Absatz 1 der Geldentwertung anpassen.[^37a-6]
 
 [^37a-1]: Fassung gemäss Ziff. I des BG vom 18. März 2011 (Sicherung der Einlagen), in Kraft seit 1. Sept. 2011 ([AS 2011 3919](https://fedlex.data.admin.ch/eli/oc/2011/559); [BBl 2010 3993](https://fedlex.data.admin.ch/eli/fga/2010/655)).
-[^37a-2]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^37a-2]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 [^37a-3]: Aufgehoben durch Ziff. I des BG vom 17. Dez. 2021 (Insolvenz und Einlagensicherung), mit Wirkung seit 1. Jan. 2023 ([AS 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [BBl 2020 6359](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
-[^37a-4]: [SR 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
-[^37a-5]: [SR 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
+[^37a-4]: [SR 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
+[^37a-5]: [SR 831.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10100)
 [^37a-6]: Eingefügt durch Ziff. I des BG vom 17. Dez. 2021 (Insolvenz und Einlagensicherung), in Kraft seit 1. Jan. 2023 ([AS 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [BBl 2020 6359](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
 
 #### Art. 37b
@@ -1284,7 +1284,7 @@ Privilegierte Einlagen gemäss Artikel 37*a* Absatz 1 werden aus den verfügbare
 <sup>2</sup> Die FINMA legt im Einzelfall den Höchstbetrag der nach Absatz 1 auszahlbaren Einlagen fest. Sie trägt dabei der Rangordnung der übrigen Gläubiger nach Artikel 219 SchKG[^37b-2] Rechnung.
 
 [^37b-1]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (Insolvenz und Einlagensicherung), in Kraft seit 1. Jan. 2023 ([AS 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [BBl 2020 6359](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
-[^37b-2]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^37b-2]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 #### Art. 37c
 
@@ -1299,7 +1299,7 @@ Privilegierte Einlagen gemäss Artikel 37*a* Absatz 1 werden aus den verfügbare
 Depotwerte gemäss Artikel 16 dieses Gesetzes werden nach den Artikeln 17 und 18 des Bucheffektengesetzes vom 3. Oktober 2008[^37d-2] abgesondert. Auf sammelverwahrte Depotwerte findet im Falle eines Unterbestandes Artikel 19 des Bucheffektengesetzes Anwendung.
 
 [^37d-1]: Fassung gemäss Ziff. I 6 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
-[^37d-2]: [SR 957.1](https://fedlex.data.admin.ch/eli/cc/2009/450)
+[^37d-2]: [SR 957.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11624)
 
 #### Art. 37e
 
@@ -1311,7 +1311,7 @@ Depotwerte gemäss Artikel 16 dieses Gesetzes werden nach den Artikeln 17 und 18
 
 <sup>3</sup> Die FINMA trifft die nötigen Anordnungen zur Schliessung des Verfahrens. Sie macht die Schliessung öffentlich bekannt.
 
-[^37e-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^37e-1]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 [^37e-2]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (Insolvenz und Einlagensicherung), in Kraft seit 1. Jan. 2023 ([AS 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [BBl 2020 6359](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
 [^37e-3]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (Insolvenz und Einlagensicherung), in Kraft seit 1. Jan. 2023 ([AS 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [BBl 2020 6359](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
 
@@ -1345,8 +1345,8 @@ Die FINMA kann das in der Schweiz belegene Vermögen ohne Durchführung eines in
 <sup>5</sup> Im Übrigen sind die Artikel 166–175 IPRG massgebend.[^37g-5]
 
 [^37g-1]: Fassung gemäss Ziff. I des BG vom 18. März 2011 (Sicherung der Einlagen), in Kraft seit 1. Sept. 2011 ([AS 2011 3919](https://fedlex.data.admin.ch/eli/oc/2011/559); [BBl 2010 3993](https://fedlex.data.admin.ch/eli/fga/2010/655)).
-[^37g-2]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
-[^37g-3]: [SR 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)
+[^37g-2]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
+[^37g-3]: [SR 291](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6186)
 [^37g-4]: Eingefügt durch Anhang Ziff. 2 des BG vom 16. März 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3263](https://fedlex.data.admin.ch/eli/oc/2018/527); [BBl 2017 4125](https://fedlex.data.admin.ch/eli/fga/2017/1054)).
 [^37g-5]: Fassung gemäss Anhang Ziff. 2 des BG vom 16. März 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3263](https://fedlex.data.admin.ch/eli/oc/2018/527); [BBl 2017 4125](https://fedlex.data.admin.ch/eli/fga/2017/1054)).
 
@@ -1380,8 +1380,8 @@ Gläubiger und Eigner einer Bank, einer Konzernobergesellschaft oder einer wesen
 
 <sup>3</sup> Die Beschwerde nach Artikel 17 SchKG[^37gter-2] ist in diesen Verfahren ausgeschlossen.
 
-[^37gter-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
-[^37gter-2]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^37gter-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
+[^37gter-2]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 #### Art. 37g<sup>quater</sup>
 
@@ -1391,7 +1391,7 @@ Gläubiger und Eigner einer Bank, einer Konzernobergesellschaft oder einer wesen
 
 <sup>2</sup> Der Fristenlauf für eine Beschwerde gegen die Genehmigung des Sanierungsplans beginnt am Tag nach der öffentlichen Bekanntgabe der Grundzüge des Sanierungsplans. Der Fristenlauf für eine Beschwerde gegen die Genehmigung der Verteilungsliste und der Schlussrechnung beginnt am Tag, nachdem die Genehmigung öffentlich bekannt gegeben wurde.
 
-[^37gquater-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^37gquater-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 37g<sup>quinquies</sup>
 
@@ -1562,7 +1562,7 @@ Die Frist nach Absatz 3 verlängert sich oder wird ausgesetzt bei Einlagen, bei 
 <sup>2</sup> Für die übrigen Banken gilt Artikel 39.
 
 [^38-1]: Fassung gemäss Anhang Ziff. 15 des Finanzmarktaufsichtsgesetzes vom 22. Juni 2007, in Kraft seit 1. Jan. 2009 ([AS 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736)[5205](https://fedlex.data.admin.ch/eli/oc/2008/735); [BBl 2006 2829](https://fedlex.data.admin.ch/eli/fga/2006/303)).
-[^38-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^38-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 39
 
@@ -1571,7 +1571,7 @@ Die Frist nach Absatz 3 verlängert sich oder wird ausgesetzt bei Einlagen, bei 
 Die Verantwortlichkeit der Gründer einer Bank, der Organe für die Geschäftsführung, Oberleitung, Aufsicht und Kontrolle sowie der von der Bank ernannten Liquidatoren richtet sich nach den Bestimmungen des Aktienrechts (Art. 752–760 des Obligationenrechts[^39-2]).
 
 [^39-1]: Fassung gemäss Anhang Ziff. 5 des BG vom 20. Juni 2014 (Bündelung der Aufsicht über Revisionsunternehmen und Prüfgesellschaften), in Kraft seit 1. Jan. 2015 ([AS 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [BBl 2013 6857](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
-[^39-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^39-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 40–45
 
@@ -1627,7 +1627,7 @@ Mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe wird bestraft, wer vorsä
 [^47-3]: Eingefügt durch Ziff. I 2 des BG vom 12. Dez. 2014 über die Ausweitung der Strafbarkeit der Verletzung des Berufsgeheimnisses, in Kraft seit 1. Juli 2015 ([AS 2015 1535](https://fedlex.data.admin.ch/eli/oc/2015/304); [BBl 2014 6231](https://fedlex.data.admin.ch/eli/fga/2014/1334)[6241](https://fedlex.data.admin.ch/eli/fga/2014/1336)).
 [^47-4]: Eingefügt durch Ziff. I 2 des BG vom 12. Dez. 2014 über die Ausweitung der Strafbarkeit der Verletzung des Berufsgeheimnisses, in Kraft seit 1. Juli 2015 ([AS 2015 1535](https://fedlex.data.admin.ch/eli/oc/2015/304); [BBl 2014 6231](https://fedlex.data.admin.ch/eli/fga/2014/1334)[6241](https://fedlex.data.admin.ch/eli/fga/2014/1336)).
 [^47-5]: Aufgehoben durch Anhang Ziff. 10 des Finanzmarktinfrastrukturgesetzes vom 19. Juni 2015, mit Wirkung seit 1. Jan. 2016 ([AS 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [BBl 2014 7483](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
-[^47-6]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^47-6]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 48
 
@@ -1695,7 +1695,7 @@ Der Bundesrat hat spätestens 3 Jahre nach Inkrafttreten des fünften und sechst
 Der Bundesrat hat spätestens drei Jahre nach Inkrafttreten der Änderung vom 15. Juni 2018 die Bestimmungen im Hinblick auf die Ziele der Finanzmarktaufsicht nach dem FINMAG[^52a-2] zu prüfen. Er erstattet der Bundesversammlung darüber Bericht und zeigt den allfälligen Anpassungsbedarf auf Gesetzes- und Verordnungsstufe auf.
 
 [^52a-1]: Eingefügt durch Anhang Ziff. II 14 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^52a-2]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^52a-2]: [SR 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 
 #### Art. 53
 
@@ -1709,7 +1709,7 @@ Mit dem Inkrafttreten dieses Gesetzes werden aufgehoben:
 <sup>2</sup> Bisherige kantonale Bestimmungen über ein gesetzliches Pfandrecht zugunsten von Spareinlagen, die nicht innert drei Jahren nach Inkrafttreten dieses Gesetzes durch neue Vorschriften gemäss den Artikeln 15 und 16 ersetzt sind, fallen dahin.
 
 [^53-1]: Fassung gemäss Anhang Ziff. 17 des BG vom 16. Dez. 1994, in Kraft seit 1. Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^53-2]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^53-2]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 #### Art. 54
 
