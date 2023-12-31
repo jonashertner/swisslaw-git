@@ -4,13 +4,13 @@ number: "614.11"
 title: Gesetz über die Staats- und Gemeindesteuern
 short: Steuergesetz
 language: de
-version: 2023-01-01
-valid_until: 2023-12-31
-version_adopted: 2022-05-15
+version: 2024-01-01
+valid_until: 2024-02-29
+version_adopted: 2024-09-03
 adopted: 1985-12-01
 in_force: 1986-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/614.11"
-pdf: "https://bgs.so.ch/api/de/versions/5260/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5502/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.so.ch/api/de/versions/5260/pdf_file"
 
 (Steuergesetz)
 
-Vom 01.12.1985 (Stand 01.01.2023)
+Vom 01.12.1985 (Stand 01.01.2024)
 
 Der Kantonsrat von Solothurn
 
@@ -496,7 +496,7 @@ beschliesst:
 
 <sup>1</sup> Steuerbar sind alle Einkünfte aus der Alters-, Hinterlassenen- und Invalidenversicherung sowie Renten und andere wiederkehrende Einkünfte aus Wohnrecht, Nutzniessung oder Verpfründung.
 
-<sup>2</sup> Leibrenten sowie Einkünfte aus Verpfründung sind zu 40% steuerbar.
+<sup>2</sup> Leibrentenversicherungen sowie Leibrenten- und Verpfründungsverträge sind im Umfang ihres Ertragsanteils steuerbar. Dieser bestimmt sich wie folgt:
 
 #### § 30
 
@@ -1603,6 +1603,8 @@ beschliesst:
 
 <sup>2</sup> Gewinne von juristischen Personen mit ideellen Zwecken werden nicht besteuert, sofern sie höchstens 20‘000 Franken betragen und ausschliesslich und unwiderruflich diesen Zwecken gewidmet sind.
 
+<sup>3</sup> Gewinne unter 5'000 Franken von Vereinen, Stiftungen und übrigen juristischen Personen werden nicht besteuert.
+
 #### § 98
 
 **2. Gesellschaften mit Beteiligungen**
@@ -1700,6 +1702,8 @@ beschliesst:
 <sup>1</sup> Die Kapitalsteuer beträgt 0,8 Promille des steuerbaren Eigenkapitals, mindestens jedoch 200 Franken bei persönlicher Zugehörigkeit und 100 Franken bei nur wirtschaftlicher Zugehörigkeit.
 
 <sup>2</sup> Das Kapital von juristischen Personen mit ideellen Zwecken wird nicht besteuert, sofern es höchstens 200‘000 Franken beträgt und ausschliesslich und unwiderruflich diesen Zwecken gewidmet ist.
+
+<sup>2<sup>bis</sup></sup> Das Kapital von Vereinen, Stiftungen und übrigen juristischen Personen wird nicht besteuert, sofern es höchstens 200'000 Franken beträgt.
 
 <sup>3</sup> Die Gewinnsteuer wird an die Kapitalsteuer angerechnet.
 
@@ -2307,11 +2311,14 @@ beschliesst:
 - a) juristische Personen über die den Mitgliedern der Verwaltung und anderer Organe ausgerichteten Leistungen: Stiftungen reichen zusätzlich eine Bescheinigung über die ihren Begünstigten erbrachten Leistungen ein;
 - b) einfache Gesellschaften und Personengesellschaften über alle Verhältnisse, die für die Veranlagung der Teilhaber von Bedeutung sind, insbesondere über ihren Anteil am Einkommen und Vermögen der Gesellschaft;
 - c) Einrichtungen der beruflichen Vorsorge und der gebundenen Selbstvorsorge über die den Vorsorgenehmern oder Begünstigten erbrachten Leistungen;
-- d) die kollektiven Kapitalanlagen mit direktem Grundbesitz über die Verhältnisse, die für die Besteuerung des direkten Grundbesitzes und dessen Erträge massgeblich sind.
-- e) Arbeitgeber über ihre Leistungen an die Arbeitnehmer in Form eines Exemplars des Lohnausweises oder in anderer vom Steueramt genehmigter Form.
-- f) Arbeitgeber, die ihren Angestellten Mitarbeiterbeteiligungen einräumen, über alle für deren Veranlagung notwendigen Angaben.
+- d) die kollektiven Kapitalanlagen mit direktem Grundbesitz über die Verhältnisse, die für die Besteuerung des direkten Grundbesitzes und dessen Erträge massgeblich sind;
+- e) Arbeitgeber über ihre Leistungen an die Arbeitnehmer in Form eines Exemplars des Lohnausweises oder in anderer vom Steueramt genehmigter Form;
+- f) Arbeitgeber, die ihren Angestellten Mitarbeiterbeteiligungen einräumen, über alle für deren Veranlagung notwendigen Angaben;
+- g) Organe, die Leistungen nach dem Bundesgesetz über die obligatorische Arbeitslosenversicherung und die Insolvenzentschädigung (Arbeitslosenversicherungsgesetz, AVIG) vom 25. Juni 1982[^145-1] erbringen, über ihre Leistungen an die versicherten Personen; die Übermittlung kann auf elektronischem Weg erfolgen.
 
 <sup>2</sup> Dem Steuerpflichtigen ist ein Doppel der Bescheinigung zuzustellen.
+
+[^145-1]: SR [837.0](https://db.clex.ch/link/Bund/837.0/de).
 
 #### § 146
 
@@ -2812,7 +2819,7 @@ beschliesst:
 
 <sup>4</sup> Sind Steuerbeträge, die für beide Ehegatten geleistet wurden, nach ihrer Scheidung, rechtlichen oder tatsächlichen Trennung zurückzuerstatten, erfolgt die Rückerstattung je zur Hälfte an jeden der beiden Ehegatten. Vorbehalten bleiben anders lautende Vereinbarungen der Ehegatten, welche diese der zuständigen Bezugsbehörde bekanntgegeben haben.
 
-<sup>5</sup> Weist ein Ehegatte nach, dass er nach der Scheidung, rechtlichen oder tatsächlichen Trennung Steuerbeträge für beide Ehegatten gemeinsam geleistet hat, werden sie an ihn zurückerstattet.
+<sup>5</sup> …
 
 #### § 183bis
 
@@ -3391,10 +3398,10 @@ wird mit Busse bestraft.
 
 <table>
 <tr><th>Steuer nach Klassen</th><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th></tr>
-<tr><td>für die ersten 28‘197 Franken</td><td>2%</td><td>4%</td><td>6%</td><td>9%</td><td>12%</td></tr>
-<tr><td>für die nächsten 42'297 Franken</td><td>5%</td><td>10%</td><td>15%</td><td>22,5%</td><td>30%</td></tr>
-<tr><td>für die nächsten 84'593 Franken</td><td>6%</td><td>12%</td><td>18%</td><td>27%</td><td>36%</td></tr>
-<tr><td>ab 155‘087 Franken</td><td>5%</td><td>10%</td><td>15%</td><td>22,5%</td><td>30%</td></tr>
+<tr><td>für die ersten 30‘396 Franken</td><td>2%</td><td>4%</td><td>6%</td><td>9%</td><td>12%</td></tr>
+<tr><td>für die nächsten 45'596 Franken</td><td>5%</td><td>10%</td><td>15%</td><td>22,5%</td><td>30%</td></tr>
+<tr><td>für die nächsten 91'191 Franken</td><td>6%</td><td>12%</td><td>18%</td><td>27%</td><td>36%</td></tr>
+<tr><td>ab 167‘183 Franken</td><td>5%</td><td>10%</td><td>15%</td><td>22,5%</td><td>30%</td></tr>
 </table>
 
 <sup>2</sup> Ist ein Empfänger nur für einen Teil des Vermögensüberganges im Kanton steuerpflichtig, so bestimmt sich die Steuer nach dem Steuersatz für den gesamten Übergang.
