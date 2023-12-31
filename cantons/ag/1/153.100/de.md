@@ -4,13 +4,13 @@ number: "153.100"
 title: Gesetz über die Organisation des Regierungsrates und der kantonalen Verwaltung
 short: Organisationsgesetz
 language: de
-version: 2016-01-01
-valid_until: 2023-12-31
-version_adopted: 2015-06-30
+version: 2024-01-01
+valid_until: 2024-06-30
+version_adopted: 2023-08-29
 adopted: 1985-03-26
 in_force: 1986-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/153.100"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3188/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3378/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3188/pdf_file"
 
 (Organisationsgesetz)
 
-Vom 26.03.1985 (Stand 01.01.2016)
+Vom 26.03.1985 (Stand 01.01.2024)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -101,19 +101,19 @@ beschliesst:
 
 **Organisation der beruflichen Vorsorge**
 
-<sup>1</sup> Der Grosse Rat kann für die Pensionskassen des kantonalen Personals und der Lehrkräfte der Volksschulen selbstständige öffentliche Anstalten mit eigener Rechtspersönlichkeit schaffen.
+<sup>1</sup> Der Grosse Rat kann für die Pensionskasse des kantonalen Personals und der Lehrkräfte der Volksschulen eine selbstständige öffentliche Anstalt mit eigener Rechtspersönlichkeit schaffen.
 
-<sup>2</sup> Die Pensionskassen versichern im Sinne der beruflichen Vorsorge das Alter sowie die Risiken Invalidität und Tod der Mitarbeiterinnen und Mitarbeiter des Kantons und der Lehrkräfte an den Volksschulen. Die beiden Personalkategorien sind gleichwertig zu behandeln.
+<sup>2</sup> Die Pensionskasse versichert im Sinne der beruflichen Vorsorge das Alter sowie die Risiken Invalidität und Tod der Mitarbeitenden des Kantons und der Lehrkräfte an den Volksschulen. Die beiden Personalkategorien sind gleichwertig zu behandeln.
 
-<sup>3</sup> Der Grosse Rat regelt Organisation, Verwaltung und Kontrolle der Anstalten sowie die Leistungen, die Finanzierung, das Verhältnis zu den Versicherten und Anspruchsberechtigten sowie die Frage der Aufnahme weiterer Arbeitgeber. Er kann diese Regelung teilweise den Organen der Anstalten überlassen. Die Regelungen der Anstalten bedürfen zu ihrer Gültigkeit der Genehmigung durch den Grossen Rat.
+<sup>3</sup> Der Grosse Rat regelt durch Dekret die Grundzüge der Organisation der Pensionskasse, die Massnahmen zur Behebung einer Unterdeckung sowie die Eckwerte des Kernplans für das kantonale Personal und die Lehrkräfte der Volksschulen.
+
+<sup>4</sup> Der Grosse Rat kann zur Abfederung von Senkungen des Umwandlungssatzes Einmaleinlagen in die Pensionskasse des kantonalen Personals und der Lehrkräfte der Volksschulen und Kindergärten beschliessen. Der Anteil der Gemeinden bestimmt sich nach Dekret über die Beteiligung der Gemeinden am Personalaufwand der Volksschulen und Kindergärten (Gemeindebeteiligungsdekret, GbD) vom 22. Februar 2005[^5b-1].
+
+[^5b-1]: SAR [411.250](https://gesetzessammlungen.ag.ch/data/411.250/de)
 
 #### § 5c
 
-**Umwandlung der Aargauischen Pensionskasse in eine selbstständige öffentliche Anstalt**
-
-<sup>1</sup> Die Aargauische Pensionskasse (APK) wird mit ihren Aktiven und Passiven auf den Zeitpunkt des Inkrafttretens von Regelungen gemäss § 5b dieses Gesetzes in die dafür vorgesehene selbstständige öffentliche Anstalt des Kantons umgewandelt.
-
-<sup>2</sup> Bei einer Eingliederung der Personalvorsorgekasse für Lehrpersonen in die APK oder in die dafür vorgesehene selbstständige öffentliche Anstalt ist die Bestimmung von Absatz 1 sinngemäss auf die Aargauische Lehrerwitwen- und -waisenkasse (ALWWK) anwendbar.
+**…**
 
 #### § 5d
 
