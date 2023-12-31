@@ -4,13 +4,13 @@ number: "410.12"
 title: Verordnung über das Anstellungsverhältnis der Lehrpersonen
 short: "Lehrpersonenverordnung, LPV"
 language: de
-version: 2023-01-01
-valid_until: 2023-12-31
-version_adopted: 2022-09-20
+version: 2024-01-01
+valid_until: 2024-12-31
+version_adopted: 2023-10-17
 adopted: 2008-04-25
 in_force: 2008-08-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/410.12"
-pdf: "http://gdb.ow.ch/api/de/versions/1760/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1833/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "http://gdb.ow.ch/api/de/versions/1760/pdf_file"
 
 (Lehrpersonenverordnung, LPV)
 
-vom 25.04.2008 (Stand 01.01.2023)
+vom 25.04.2008 (Stand 01.01.2024)
 
 Der Kantonsrat des Kantons Obwalden,
 
@@ -548,7 +548,9 @@ geändert durch
 
 \- Nachtrag zur Personalverordnung vom 27. Mai 2021 (OGS 2021, 20), Botschaft und Vorlage des Regierungsrats vom 22. März 2021, Kantonsratssitzungen vom 27. Mai 2021 (22.21.01), in Kraft seit 1. August 2021 (OGS 2021, 27),
 
-\- Nachtrag vom 20. September 2022, in Kraft seit 1. Januar 2023 (OGS 2022, 31 und 35) \*
+\- Nachtrag vom 20. September 2022, in Kraft seit 1. Januar 2023 (OGS 2022, 31 und 35),\*
+
+\- Nachtrag vom 17. Oktober 2023, in Kraft seit 1. Janaur 2024 (OGS 2023, 32) \*
 
 \* Änderung des Anhangs 2 durch den Regierungsrat
 
