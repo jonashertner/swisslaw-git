@@ -4,13 +4,13 @@ number: "411.114"
 title: Verordnung über die Rechtsstellung der Lehrpersonen an den Volksschulen
 short: RSV VS
 language: de
-version: 2023-01-01
-valid_until: 2023-12-31
-version_adopted: 2022-12-13
+version: 2024-01-01
+valid_until: 2024-07-31
+version_adopted: 2023-05-30
 adopted: 2005-01-25
 in_force: 2005-08-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/411.114"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2616/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2704/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ RSV VS
 
 (RSV VS)
 
-vom 25.01.2005 (Stand 01.01.2023)
+vom 25.01.2005 (Stand 01.01.2024)
 
 ## 1. Allgemeine Bestimmungen
 
@@ -29,9 +29,9 @@ vom 25.01.2005 (Stand 01.01.2023)
 
 **Geltungsbereich**
 
-<sup>1</sup> Dieser Verordnung untersteht, wer an einer öffentlichen Volksschule selbstverantwortlich mit einem pädagogisch-erzieherischen Auftrag als Lehrerin oder Lehrer im Klassenverband oder als Schulische Heilpädagogin oder Schulischer Heilpädagoge unterrichtet.
+<sup>1</sup> Dieser Verordnung untersteht, wer an einer öffentlichen Volksschule selbstverantwortlich mit einem pädagogisch-erzieherischen Auftrag als Lehrperson im Klassenverband, als Lehrperson in Deutsch als Zweitsprache (DaZ) oder als Schulische Heilpädagogin oder Schulischer Heilpädagoge unterrichtet.
 
-<sup>2</sup> Nicht dieser Verordnung unterstehen namentlich die sonderpädagogischen Fachpersonen sowie das Personal mit Aufträgen in den Bereichen Nachhilfe und Stütz- und Fördermassnahmen.
+<sup>2</sup> Nicht dieser Verordnung unterstehen namentlich die sonderpädagogischen Fachpersonen sowie das Personal mit Aufträgen in den Bereichen Nachhilfe und über Abs. 1 hinausgehende Stütz- und Fördermassnahmen.
 
 #### § 2
 
@@ -52,6 +52,8 @@ vom 25.01.2005 (Stand 01.01.2023)
 <sup>3<sup>bis</sup></sup> Personen in Ausbildung zu EDK-anerkannten Stufendiplomen können vorübergehend eingesetzt werden.
 
 <sup>4</sup> Andere Personen können zur Überbrückung ausgewiesener Notsituationen und mit Bewilligung des Amtes für Volksschule eingesetzt werden.
+
+<sup>4<sup>bis</sup></sup> Für den Unterricht in DaZ werden für die entsprechende Stufe ausgebildete Lehrpersonen und Schulische Heilpädagoginnen oder Schulische Heilpädagogen eingesetzt. Zusätzlich ist eine vom Amt anerkannte oder vorgegebene Weiterbildung erforderlich.
 
 <sup>5</sup> Für den Unterricht an der Basisstufe ist ein von der EDK anerkanntes Kindergarten- oder Primarlehrdiplom nötig sowie eine vom Amt vorgegebene Weiterbildung.
 
@@ -549,6 +551,8 @@ vom 25.01.2005 (Stand 01.01.2023)
 
 <sup>4</sup> Lehrpersonen, welche auf der Sekundarstufe I mit einem tieferen, stufenfremden anerkannten Lehrdiplom unterrichten und für das unterrichtete Fach über einen anerkannten Master verfügen, werden für dieses Fach in das Lohnband 5 eingereiht.
 
+<sup>4<sup>bis</sup></sup> Bei Schulischen Heilpädagoginnen und Schulischen Heilpädagogen, die DaZ unterrichten, erfolgt die Besoldung gemäss dem Lohnband der entsprechenden Lehrtätigkeit und Schulstufe.
+
 <sup>5</sup> Für alle übrigen Personen ohne anerkanntes Lehrdiplom beträgt die Entschädigung jeweils 85 % von Lohnband 2 bei Unterricht auf Kindergartenstufe, Basisstufe und Primarstufe und von Lohnband 3 bei Unterricht auf Sekundarstufe I.
 
 [^42-1]: RB [177.250](https://www.rechtsbuch.tg.ch/data/177.250/de)
@@ -559,11 +563,13 @@ vom 25.01.2005 (Stand 01.01.2023)
 
 <sup>1</sup> Die Einstufung innerhalb eines Lohnbandes bemisst sich nach der bisherigen Berufserfahrung. Bruchteile der Anrechnung werden auf die nächste ganze Lohnposition abgerundet. Nur bei Beginn einer unbefristeten Anstellung per 1. August erfolgt bereits auf das neue Kalenderjahr der Anstieg um eine Lohnposition.
 
-<sup>2</sup> Personen, welche auf der Kindergartenstufe, der Primarstufe oder auf der Sekundarstufe I oder II im Klassenverband unterrichten oder als Schulleiterin oder Schulleiter gewirkt haben, als Schulische Heilpädagogin oder Schulischer Heilpädagoge oder sonderpädagogische Fachperson angestellt waren, wird bei unbefristeten Anstellungsverhältnissen pro Kalenderjahr die volle Anrechnung gewährt. Befristete Anstellungsverhältnisse von mindestens zwei Jahren im thurgauischen Schuldienst oder bei demselben ausserkantonalen Arbeitgeber werden analog eines unbefristeten Anstellungsverhältnisses behandelt.
+<sup>2</sup> Personen, die in der Volksschule oder auf der Sekundarstufe II im Klassenverband oder DaZ unterrichtet haben, wird bei unbefristeten Anstellungsverhältnissen pro Kalenderjahr die volle Anrechnung gewährt. Befristete Anstellungsverhältnisse von mindestens zwei Jahren im thurgauischen Schuldienst oder bei demselben ausserkantonalen Arbeitgeber werden analog eines unbefristeten Anstellungsverhältnisses behandelt.
+
+<sup>2<sup>bis</sup></sup> Abs. 2 gilt auch für Personen, die als Schulleiterin oder Schulleiter, als Schulische Heilpädagogin oder Schulischer Heilpädagoge oder sonderpädagogische Fachperson angestellt waren.
 
 <sup>3</sup> Bei unbefristet angestellten Personen mit Tätigkeiten in anderen Berufen, bei Stütz- und Förderlehrpersonen sowie bei Personen, welche ihre eigenen Kinder betreuen, geschieht pro Kalenderjahr die Anrechnung zur Hälfte. Befristete Anstellungsverhältnisse von mindestens zwei Jahren im thurgauischen Schuldienst oder bei demselben ausserkantonalen Arbeitgeber werden analog eines unbefristeten Anstellungsverhältnisses behandelt.
 
-<sup>4</sup> Personen nach Abs. 2 mit befristeten Anstellungen erhalten die volle Anrechnung pro 400 erteilte Lektionen, bei Personen nach Abs. 3 die hälftige Anrechnung pro 600 Arbeitsstunden.
+<sup>4</sup> Personen nach Abs. 2 und Abs. 2<sup>bis</sup> mit befristeten Anstellungen erhalten die volle Anrechnung pro 400 erteilte Lektionen, Personen nach Abs. 3 die hälftige Anrechnung pro 600 Arbeitsstunden.
 
 <sup>5</sup> Verschiedene Berufserfahrungen nach Abs. 2 bis Abs. 4 können nicht kumuliert werden, es gilt jeweils die höhere Anrechnung. Tätigkeiten während einer Erstausbildung werden nicht angerechnet.
 
@@ -850,7 +856,7 @@ vom 25.01.2005 (Stand 01.01.2023)
 
 <sup>1</sup> Führen die Anwendung der Verordnung des Grossen Rates über die Besoldung der Lehrpersonen (LBV)[^65-1] sowie die Änderung dieser Verordnung zu einer tieferen Besoldung als im Vormonat, wird in diejenige Lohnposition des massgebenden Lohnbandes eingestuft, welche mindestens der bisherigen Besoldung entspricht. Der Stufenanstieg wird solange ausgesetzt, bis die ordentliche Anrechnung der Berufserfahrung erreicht ist. Liegt die bisherige Einstufung über dem Maximum des Lohnbandes, wird die bisherige Besoldung als eine separate, nicht veränderbare Lohnposition weitergeführt.
 
-<sup>2</sup> Die Besitzstandswahrung nach Abs. 1 gilt nur bei gleicher Tätigkeit und ununterbrochener Anstellung im thurgauischen Schuldienst.
+<sup>2</sup> Die Besitzstandswahrung nach Abs. 1 gilt nur bei gleicher Tätigkeit und ununterbrochener Anstellung im thurgauischen Schuldienst. Sie gilt nicht für die Neuunterstellung der DaZ-Lehrpersonen unter die vorliegende Verordnung.
 
 <sup>3</sup> …
 
@@ -859,6 +865,10 @@ vom 25.01.2005 (Stand 01.01.2023)
 #### § 66
 
 **Übergangsrecht**
+
+<sup>1–8</sup> …
+
+<sup>9</sup> DaZ dürfen auch Personen ohne Lehrdiplom unterrichten, sofern sie am 1. Januar 2024 über eine kantonale Unterrichtsberechtigung für DaZ-Unterricht verfügten.
 
 #### § 66a–67
 
