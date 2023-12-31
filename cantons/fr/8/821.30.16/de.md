@@ -4,13 +4,13 @@ number: "821.30.16"
 title: Verordnung über den Tarif der Kosten des Amts für Lebensmittelsicherheit und Veterinärwesen
 short: KLSVWV
 language: de
-version: 2014-09-01
-valid_until: 2023-12-31
-version_adopted: 2014-08-19
+version: 2024-01-01
+valid_until: 2025-02-28
+version_adopted: 2023-06-13
 adopted: 2014-08-19
 in_force: 2014-09-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/821.30.16"
-pdf: "https://bdlf.fr.ch/api/de/versions/7438/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7939/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Amt für Lebensmittelsicherheit und Veterinärwesen, Kosten – V
 
 (KLSVWV)
 
-vom 19.08.2014 (Fassung in Kraft getreten am 01.09.2014)
+vom 19.08.2014 (Fassung in Kraft getreten am 01.01.2024)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -50,7 +50,8 @@ beschliesst:
 - e) technische Massnahmen;
 - f) Inspektionen und Kontrollen;
 - g) schriftliche Auskünfte und vergleichbare Dokumente, die kein hängiges Verfahren betreffen;
-- h) Kanzleiarbeiten.
+- h) Kanzleiarbeiten;
+- i) Beurteilungen.
 
 #### Art. 2
 

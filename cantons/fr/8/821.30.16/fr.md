@@ -4,13 +4,13 @@ number: "821.30.16"
 title: Ordonnance fixant le tarif des frais du Service de la sécurité alimentaire et des affaires vétérinaires
 short: OFSAAV
 language: fr
-version: 2014-09-01
-valid_until: 2023-12-31
-version_adopted: 2014-08-19
+version: 2024-01-01
+valid_until: 2025-02-28
+version_adopted: 2023-06-13
 adopted: 2014-08-19
 in_force: 2014-09-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/821.30.16"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7438/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7939/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Service de la sécurité alimentaire et des affaires vétérinaires, frais – O
 
 (OFSAAV)
 
-du 19.08.2014 (version entrée en vigueur le 01.09.2014)
+du 19.08.2014 (version entrée en vigueur le 01.01.2024)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -50,7 +50,8 @@ Arrête:
 - e) les mesures techniques;
 - f) les inspections et contrôles;
 - g) les renseignements écrits et les documents analogues qui ne concernent pas une procédure pendante;
-- h) les travaux de chancellerie.
+- h) les travaux de chancellerie;
+- i) les évaluations.
 
 #### Art. 2
 
