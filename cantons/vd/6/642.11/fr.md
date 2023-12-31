@@ -4,7 +4,7 @@ number: "642.11"
 title: LOI du 04.07.2000 sur les impôts directs cantonaux (LI)
 short: LI
 language: fr
-version: 2023-07-01
+version: 2024-01-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/642.11?id=8df99d51-8df8-49ed-9ef5-2fa4817d0004"
 ---
 
@@ -743,7 +743,7 @@ décrète
 - 1\. être inscrit au registre des partis conformément à l'article 76a de la loi fédérale du 17 décembre 1976 sur les droits politiques,
 - 2\. être représenté dans un parlement cantonal,
 - 3\. avoir obtenu au moins 3% des voix lors des dernières élections au parlement d'un canton ;
-- k. un montant de 10'100 francs au maximum pour chaque enfant dont la garde est assurée par un tiers, si l'enfant a moins de 14 ans et vit dans le même ménage que le contribuable assurant son entretien et si les frais de garde, documentés, ont un lien de causalité direct avec l'activité lucrative, la formation ou l'incapacité de gain du contribuable.
+- k. un montant de 15'000 francs au maximum pour chaque enfant dont la garde est assurée par un tiers, si l'enfant a moins de 14 ans et vit dans le même ménage que le contribuable assurant son entretien et si les frais de garde, documentés, ont un lien de causalité direct avec l'activité lucrative, la formation ou l'incapacité de gain du contribuable.
 - l. les frais de formation et de formation continue à des fins professionnelles, frais de reconversion compris, jusqu'à concurrence de 12 000 francs pour autant que le contribuable remplisse l'une des conditions suivantes :
 - 1\. il est titulaire d'un diplôme du degré secondaire II ,
 - 2\. il a atteint l'âge de 20 ans et suit une formation visant à l'obtention d'un diplôme autre qu'un premier diplôme du degré secondaire II.
@@ -752,7 +752,7 @@ décrète
 
 <sup>3</sup> Sont déduits des gains unitaires provenant des jeux d'argent non exonérés de l'impôt selon l'article 28, lettres jbis à k, 5% à titre de mise, mais au plus 5000 francs. Sont déduits des gains unitaires provenant de la participation en ligne à des jeux de casino visés à l'article 28, lettre jbis, les mises prélevées du compte en ligne du joueur au cours de l'année fiscale, mais au plus 25 000 francs.
 
-[^sectionSectionV-1]: Modif. 4 du 21.12.2004: Modification Al. 1 h; entrée en vigueur au 01.01.2005; Introduction Al. 1 hbis; entrée en vigueur au 01.01.2005 · Modif. 8 du 14.12.2005: Modification Al. 1, i; entrée en vigueur au 01.01.2006 · Modif. 15 du 09.09.2008: Modification Al. 1 a; entrée en vigueur au 01.01.2009 · Modif. 21 du 14.12.2010: Modification Al. 1 h,i; entrée en vigueur au 01.01.2011; Introduction Al. 1 j,k; entrée en vigueur au 01.01.2011 · Modif. 29 du 08.10.2013: Introduction Al. 3; entrée en vigueur au 01.01.2014 · Modif. 30 du 07.10.2014: Introduction Al. 1, l; entrée en vigueur au 01.01.2016 · Modif. 33 du 14.12.2016: Modification Al. 1, l; entrée en vigueur au 01.01.2017; Modification Al. 1, l, 1-2; entrée en vigueur au 01.01.2017 · Modif. 36 du 12.12.2018: Modification Al. 1, k; entrée en vigueur au 01.01.2020; Modification Al. 3; entrée en vigueur au 01.01.2019 · Modif. 37 du 05.03.2019: Modification tArt; entrée en vigueur au 01.01.2020; Modification Al. 1; entrée en vigueur au 01.01.2020; Modification Al. 1, g; entrée en vigueur au 01.01.2020 · Modif. 41 du 14.12.2021: Modification Al. 1, k; entrée en vigueur au 01.01.2022 · Modif. 42 du 20.12.2022: Modification Al. 1, g; entrée en vigueur au 01.01.2023 · Modif. 42 du 20.12.2022: Modification Al. 1, k; entrée en vigueur au 01.01.2024 · Modif. 45 du 11.12.2024: Introduction Art. 26, Al. 3, a-c; entrée en vigueur au 01.01.2025; Modification Al. 1, b; entrée en vigueur au 01.01.2025
+[^sectionSectionV-1]: Modif. 4 du 21.12.2004: Modification Al. 1 h; entrée en vigueur au 01.01.2005; Introduction Al. 1 hbis; entrée en vigueur au 01.01.2005 · Modif. 8 du 14.12.2005: Modification Al. 1, i; entrée en vigueur au 01.01.2006 · Modif. 15 du 09.09.2008: Modification Al. 1 a; entrée en vigueur au 01.01.2009 · Modif. 21 du 14.12.2010: Modification Al. 1 h,i; entrée en vigueur au 01.01.2011; Introduction Al. 1 j,k; entrée en vigueur au 01.01.2011 · Modif. 29 du 08.10.2013: Introduction Al. 3; entrée en vigueur au 01.01.2014 · Modif. 30 du 07.10.2014: Introduction Al. 1, l; entrée en vigueur au 01.01.2016 · Modif. 33 du 14.12.2016: Modification Al. 1, l; entrée en vigueur au 01.01.2017; Modification Al. 1, l, 1-2; entrée en vigueur au 01.01.2017 · Modif. 36 du 12.12.2018: Modification Al. 1, k; entrée en vigueur au 01.01.2020; Modification Al. 3; entrée en vigueur au 01.01.2019 · Modif. 37 du 05.03.2019: Modification tArt; entrée en vigueur au 01.01.2020; Modification Al. 1; entrée en vigueur au 01.01.2020; Modification Al. 1, g; entrée en vigueur au 01.01.2020 · Modif. 41 du 14.12.2021: Modification Al. 1, k; entrée en vigueur au 01.01.2022 · Modif. 42 du 20.12.2022: Modification Al. 1, g; entrée en vigueur au 01.01.2023; Modification Al. 1, k; entrée en vigueur au 01.01.2024 · Modif. 45 du 11.12.2024: Introduction Art. 26, Al. 3, a-c; entrée en vigueur au 01.01.2025; Modification Al. 1, b; entrée en vigueur au 01.01.2025
 [^37-1]: Loi fédérale du 25.06.1982 sur la prévoyance professionnelle vieillesse, survivants et invalidité (RS 831.40)
 [^37-2]: Règlement du 24.11.2004 sur les allocations pour perte de gain (RS 834.11)
 [^37-3]: Loi fédérale du 25.06.1982 sur l’assurance-chômage obligatoire et l’indemnité en cas d’insolvabilité (RS 837.0)
@@ -2625,22 +2625,25 @@ Jusqu'à 1 an 30% 1 an - 2 ans 27% 2 ans - 3 ans 24% 3 ans - 4 ans 22% 4 ans- 5 
 
 **Notification [^162-1]**
 
-<sup>1</sup> Les décisions sont notifiées selon les dispositions de la loi sur la procédure administrative [^163-1] .
+<sup>1</sup> Les décisions et les prononcés sont notifiés au contribuable par écrit et doivent indiquer les voies de droit.
+
+<sup>1bis</sup> Les décisions et les prononcés sont notifiés en règle générale par voie postale.
+
+<sup>1ter</sup> L'autorité fiscale peut notifier ses décisions de taxation de l'impôt sur le revenu et la fortune (art. 181) par voie électronique au contribuable avec l'accord de ce dernier. Le Conseil d'Etat édicte les dispositions d'application réglant les conditions de la notification par voie électronique, notamment le format de la décision, les modalités de la transmission et le moment auquel la décision est réputée notifiée.
 
 <sup>2</sup> Lorsque le contribuable n'a ni domicile connu, ni représentant en Suisse, les décisions et prononcés peuvent lui être notifiés valablement par publication dans la « Feuille des avis officiels ».
 
-[^162-1]: Modif. 16 du 28.10.2008: Modification Al. 1; entrée en vigueur au 01.01.2009 · Modif. 44 du 12.12.2023: Modification Al. 1; entrée en vigueur au 01.01.2024; Introduction Al. 1bis,1ter; entrée en vigueur au 01.01.2024; Introduction Art. 166, Al. 1bis; entrée en vigueur au 01.01.2024
-[^163-1]: Loi du 28.10.2008 sur la procédure administrative ( [BLV 173.36](https://prestations.vd.ch/pub/blv-publication/actes/consolide/173.36?id=e23682d9-8d47-49d8-a8fb-54bfae0c3a2a))
+[^162-1]: Modif. 16 du 28.10.2008: Modification Al. 1; entrée en vigueur au 01.01.2009 · Modif. 44 du 12.12.2023: Modification Al. 1; entrée en vigueur au 01.01.2024; Introduction Al. 1bis,1ter; entrée en vigueur au 01.01.2024
 
 #### Art. 164
 
-**Représentation [^163-2]**
+**Représentation [^163-1]**
 
 <sup>1</sup> La représentation devant les autorités chargées de l'application de la présente loi est régie par la loi sur la procédure administrative [^164-1] .
 
 <sup>2</sup> …
 
-[^163-2]: Modif. 16 du 28.10.2008: Modification Al. 1; entrée en vigueur au 01.01.2009; Abrogation Al. 2; entrée en vigueur au 01.01.2009
+[^163-1]: Modif. 16 du 28.10.2008: Modification Al. 1; entrée en vigueur au 01.01.2009; Abrogation Al. 2; entrée en vigueur au 01.01.2009
 [^164-1]: Loi du 28.10.2008 sur la procédure administrative ( [BLV 173.36](https://prestations.vd.ch/pub/blv-publication/actes/consolide/173.36?id=e23682d9-8d47-49d8-a8fb-54bfae0c3a2a))
 
 #### Art. 165
@@ -2657,20 +2660,21 @@ Jusqu'à 1 an 30% 1 an - 2 ans 27% 2 ans - 3 ans 24% 3 ans - 4 ans 22% 4 ans- 5 
 
 **Principes [^chapterChapitreIV-4]**
 
-<sup>1</sup> Les principes relatifs aux délais, à leur computation et à leur prolongation sont régis par la loi sur la procédure administrative [^166-1] .
+<sup>1</sup> Exception faite de l'article 20, alinéa 1bis de la loi sur la procédure administrative, les principes relatifs aux délais, à leur computation et à leur prolongation sont régis par la loi sur la procédure administrative.
+
+<sup>1bis</sup> En cas de communication par voie électronique, le moment déterminant pour l'observation du délai résulte de l'article 163, alinéa 1ter de la présente loi.
 
 <sup>2</sup> …
 
 <sup>3</sup> …
 
-[^chapterChapitreIV-4]: Modif. 16 du 28.10.2008: Modification Al. 1; entrée en vigueur au 01.01.2009; Abrogation Al. 2-3; entrée en vigueur au 01.01.2009 · Modif. 44 du 12.12.2023: Introduction Art. 163, Al. 1bis,1ter; entrée en vigueur au 01.01.2024; Modification Al. 1; entrée en vigueur au 01.01.2024; Introduction Al. 1bis; entrée en vigueur au 01.01.2024
-[^166-1]: Loi du 28.10.2008 sur la procédure administrative ( [BLV 173.36](https://prestations.vd.ch/pub/blv-publication/actes/consolide/173.36?id=e23682d9-8d47-49d8-a8fb-54bfae0c3a2a))
+[^chapterChapitreIV-4]: Modif. 16 du 28.10.2008: Modification Al. 1; entrée en vigueur au 01.01.2009; Abrogation Al. 2-3; entrée en vigueur au 01.01.2009 · Modif. 44 du 12.12.2023: Modification Al. 1; entrée en vigueur au 01.01.2024; Introduction Al. 1bis; entrée en vigueur au 01.01.2024
 
 #### Art. 167
 
-**… [^166-2]**
+**… [^166-1]**
 
-[^166-2]: Modif. 16 du 28.10.2008: Abrogation Art. 167; entrée en vigueur au 01.01.2009
+[^166-1]: Modif. 16 du 28.10.2008: Abrogation Art. 167; entrée en vigueur au 01.01.2009
 
 #### Art. 168
 
@@ -2877,11 +2881,11 @@ Jusqu'à 1 an 30% 1 an - 2 ans 27% 2 ans - 3 ans 24% 3 ans - 4 ans 22% 4 ans- 5 
 
 **Notification [^180-1]**
 
-<sup>1</sup> Les décisions de taxation sont notifiées par écrit au contribuable. Elles indiquent les éléments imposables (revenu et fortune imposables, bénéfice net et capital propre imposables), le taux et le montant de l'impôt.
+<sup>1</sup> Les décisions de taxation sont notifiées par écrit au contribuable ; l'article 163 est réservé. Elles indiquent les éléments imposables (revenu et fortune imposables, bénéfice net et capital propre imposables), le taux et le montant de l'impôt.
 
 <sup>2</sup> Lorsque la taxation s'écarte de la déclaration, la décision en indique brièvement les motifs.
 
-[^180-1]: Modif. 1 du 04.12.2001: Modification Al. 1; entrée en vigueur au 01.01.2003 · Modif. 44 du 12.12.2023: Introduction Art. 163, Al. 1bis,1ter; entrée en vigueur au 01.01.2024; Introduction Art. 166, Al. 1bis; entrée en vigueur au 01.01.2024; Modification Al. 1; entrée en vigueur au 01.01.2024
+[^180-1]: Modif. 1 du 04.12.2001: Modification Al. 1; entrée en vigueur au 01.01.2003 · Modif. 44 du 12.12.2023: Modification Al. 1; entrée en vigueur au 01.01.2024
 
 #### Art. 182
 
@@ -2962,10 +2966,9 @@ Jusqu'à 1 an 30% 1 an - 2 ans 27% 2 ans - 3 ans 24% 3 ans - 4 ans 22% 4 ans- 5 
 
 <sup>5</sup> …
 
-<sup>6</sup> Pour le surplus, la loi sur la procédure administrative [^188-1] est applicable.
+<sup>6</sup> Pour le surplus, la loi sur la procédure administrative est applicable à l'exception des articles 17, 27a et 44a.
 
-[^187-1]: Modif. 1 du 04.12.2001: Modification Al. 3; entrée en vigueur au 01.01.2003 · Modif. 16 du 28.10.2008: Abrogation Al. 5; entrée en vigueur au 01.01.2009; Introduction Al. 6; entrée en vigueur au 01.01.2009 · Modif. 44 du 12.12.2023: Introduction Art. 163, Al. 1bis,1ter; entrée en vigueur au 01.01.2024; Introduction Art. 166, Al. 1bis; entrée en vigueur au 01.01.2024; Modification Al. 6; entrée en vigueur au 01.01.2024
-[^188-1]: Loi du 28.10.2008 sur la procédure administrative ( [BLV 173.36](https://prestations.vd.ch/pub/blv-publication/actes/consolide/173.36?id=e23682d9-8d47-49d8-a8fb-54bfae0c3a2a))
+[^187-1]: Modif. 1 du 04.12.2001: Modification Al. 3; entrée en vigueur au 01.01.2003 · Modif. 16 du 28.10.2008: Abrogation Al. 5; entrée en vigueur au 01.01.2009; Introduction Al. 6; entrée en vigueur au 01.01.2009 · Modif. 44 du 12.12.2023: Modification Al. 6; entrée en vigueur au 01.01.2024
 
 ### Chapitre VI Demandes d'exonération de l'impôt
 
@@ -3048,11 +3051,11 @@ Jusqu'à 1 an 30% 1 an - 2 ans 27% 2 ans - 3 ans 24% 3 ans - 4 ans 22% 4 ans- 5 
 
 **Voies de droit [^194-1]**
 
-<sup>1</sup> Les décisions concernant l'existence et l'étendue de l'assujettissement (art. 191) sont assimilées à des décisions de taxation.
+<sup>1</sup> Les décisions concernant l'existence et l'étendue de l'assujettissement (art. 191) et les décisions de perception peuvent faire l'objet d'une réclamation. Les articles 185 à 188 sont applicables.
 
-<sup>2</sup> Ces décisions et les décisions de perception peuvent faire l'objet d'une réclamation. Les articles 185 à 188 sont applicables.
+<sup>2</sup> ...
 
-[^194-1]: Modif. 13 du 06.05.2008: Modification Al. 2; entrée en vigueur au 01.01.2009 · Modif. 44 du 12.12.2023: Introduction Art. 163, Al. 1bis,1ter; entrée en vigueur au 01.01.2024; Introduction Art. 166, Al. 1bis; entrée en vigueur au 01.01.2024; Modification Al. 1; entrée en vigueur au 01.01.2024; Abrogation Al. 2; entrée en vigueur au 01.01.2024
+[^194-1]: Modif. 13 du 06.05.2008: Modification Al. 2; entrée en vigueur au 01.01.2009 · Modif. 44 du 12.12.2023: Modification Al. 1; entrée en vigueur au 01.01.2024; Abrogation Al. 2; entrée en vigueur au 01.01.2024
 
 #### Art. 196
 
