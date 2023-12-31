@@ -3,28 +3,28 @@ canton: BL
 number: "980.11"
 title: Verordnung über die Tierseuchenbekämpfung
 language: de
-version: 2015-01-01
-valid_until: 2023-12-31
-version_adopted: 2014-10-28
+version: 2024-01-01
+version_adopted: 2023-12-12
 adopted: 1997-12-02
 in_force: 1998-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/980.11"
-pdf: "https://bl.clex.ch/api/de/versions/976/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3796/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Tierseuchenbekämpfung
 
-Vom 02.12.1997 (Stand 01.01.2015)
+Vom 02.12.1997 (Stand 01.01.2024)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
-gestützt auf § 74 Absatz 2 der Verfassung des Kantons Basel-Landschaft vom 17. Mai 1984[^ingress-1],
+gestützt auf § 74 Abs. 2 der Verfassung des Kantons Basel-Landschaft vom 17. Mai 1984[^ingress-1] und das Landwirtschaftsgesetz vom 8. Januar 1998[^ingress-2],
 
 beschliesst:
 
-[^ingress-1]: GS 29.276, SGS [100](https://bl.clex.ch/data/100/de)
+[^ingress-1]: [SGS 100](https://bl.clex.ch/data/100/de/art74)
+[^ingress-2]: [SGS 510](https://bl.clex.ch/data/510/de)
 
 ## 1 Organisation
 
@@ -364,7 +364,7 @@ beschliesst:
 
 **Tierseuchenkasse**
 
-<sup>1</sup> Der Veterinärdienst führt die Tierseuchenkasse.
+<sup>1</sup> Das Amt für Lebensmittelsicherheit und Veterinärwesen (ALV) führt die Tierseuchenkasse mit eigenständiger Rechnung. Es weist diese integral in der Rechnung des ALV aus.
 
 #### § 35
 
@@ -419,9 +419,7 @@ beschliesst:
 
 #### § 38
 
-**Beitrag des Kantons**
-
-<sup>1</sup> Der Kanton leistet einen jährlichen Beitrag von 210'000 Fr. in die Tierseuchenkasse.
+**…**
 
 ## 6 Vollzugsbestimmungen
 
