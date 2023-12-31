@@ -3,24 +3,28 @@ canton: BL
 number: "175.13"
 title: Verordnung über Abschluss und Vollzug privatrechtlicher Verträge
 language: de
-version: 2021-01-01
-valid_until: 2023-12-31
-version_adopted: 2020-11-17
+version: 2024-01-01
+version_adopted: 2023-11-14
 adopted: 2008-06-17
 in_force: 2008-07-01
 url: "https://bl.clex.ch/app/de/texts_of_law/175.13"
-pdf: "https://bl.clex.ch/api/de/versions/2787/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3754/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über Abschluss und Vollzug privatrechtlicher Verträge
 
-Vom 17.06.2008 (Stand 01.01.2021)
+Vom 17.06.2008 (Stand 01.01.2024)
 
-Der Regierungsrat des Kantons Basel-Landschaft
+Der Regierungsrat des Kantons Basel-Landschaft,
+
+gestützt auf § 74 Abs. 2 der Verfassung des Kantons Basel-Landschaft vom 17. Mai 1984[^ingress-1] und das Finanzhaushaltsgesetz (FHG) vom 1. Juni 2017[^ingress-2],
 
 beschliesst:
+
+[^ingress-1]: [SGS 100](https://bl.clex.ch/data/100/de)
+[^ingress-2]: [SGS 310](https://bl.clex.ch/data/310/de)
 
 #### § 1
 
@@ -51,7 +55,7 @@ beschliesst:
 
 <sup>2</sup> …
 
-<sup>3</sup> Zuständig für die Vertragsunterzeichnung ist die durch den Vergabeentscheid ermächtigte Instanz oder, sofern nicht anderes bestimmt ist, die Dienststelle für die Verwaltungsbehörden beziehungsweise die Gerichte für die Gerichtsbehörden.
+<sup>3</sup> Zuständig für die Vertragsunterzeichnung ist die durch den Vergabeentscheid ermächtigte Instanz oder, sofern nichts anderes bestimmt ist, die Dienststelle für die Verwaltungsbehörden beziehungsweise die Gerichte für die Gerichtsbehörden.
 
 <sup>4</sup> Als Vertragspartei ist der Kanton Basel-Landschaft zu bezeichnen.
 
@@ -71,7 +75,7 @@ beschliesst:
 - d. für IT Hard- und Software — bei der Zentralen Informatik;
 - e. für IT Hard- und Software der kantonalen Schulen — beim Stab Informatik der BKSD.
 
-<sup>3</sup> Das Einholen von Offerten richtet sich nach den Bestimmungen des Beschaffungsrechts und der Verordnung vom 28. Juni 2016[^3-1] über die Beschaffungsorganisation in der Verwaltung des Kantons Basel-Landschaft.
+<sup>3</sup> Das Einholen von Offerten richtet sich nach den Bestimmungen des Beschaffungsrechts[^3-1].
 
 <sup>4</sup> Wird nur 1 Offerte eingeholt, ist dies zu begründen und der Verhandlungsspielraum ist zu nutzen.
 
@@ -79,7 +83,7 @@ beschliesst:
 
 <sup>6</sup> Bei Unsicherheiten sind Vertragsentwürfe durch die zuständige Rechtsabteilung überprüfen zu lassen. Die Direktionen bzw. die Geschäftsleitung des Kantonsgerichts können bestimmen, dass in weiteren Fällen oder generell Vertragsentwürfe durch die zuständige Rechtsabteilung zu überprüfen sind.
 
-[^3-1]: GS 2016.026, SGS [420.21](https://bl.clex.ch/data/420.21/de)
+[^3-1]: BL: IVöB, [SGS 420.121](https://bl.clex.ch/data/420.121/de); EG IVöB, [SGS 420](https://bl.clex.ch/data/420/de)
 
 #### § 4
 
@@ -98,7 +102,7 @@ beschliesst:
 - a. Vertragsparteien und unterzeichnende Personen mit Namen und Funktionsbezeichnungen;
 - b. klare Umschreibung der Vertragsleistungen, Qualitätsanforderungen, verbindliche Leistungs- und Liefertermine, Zeitpläne;
 - c. Regelung der Arbeits- und Reisezeiten sowie, sofern zutreffend, der Reaktionszeiten;
-- d. Regelung der Preise (Pauschale bzw. Globale bzw. Honoraransätze mit Kostendach), Währung, Nebenkosten, Spesen, Reisekosten etc.;
+- d. Regelung der Preise (Pauschale bzw. Globale bzw. Honoraransätze mit Kostendach) oder der Preisbasis, Währung, Nebenkosten, Spesen, Reisekosten etc.;
 - e. Zahlungsfristen, sofern zutreffend, die Regelung von Rabatten und Skonti, Mehrwertsteuerregelung, Kontierung;
 - f. Vertragsbeginn, Vertragsende bzw. Vertragsdauer, Vertragsverlängerung und Kündigung;
 - g. Folgen der Nichterfüllung; Gewährleistungs- und Garantieansprüche, Haftung, sofern nicht dispositives Gesetzesrecht anwendbar ist;
