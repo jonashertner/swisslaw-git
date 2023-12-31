@@ -4,13 +4,12 @@ number: "861.41"
 title: Verordnung zum Sozialhilfegesetz
 short: Sozialhilfeverordnung
 language: de
-version: 2016-01-01
-valid_until: 2023-12-31
-version_adopted: 2015-12-15
+version: 2024-01-01
+version_adopted: 2023-10-03
 adopted: 1983-12-20
 in_force: 1984-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/861.41"
-pdf: "https://bgs.zg.ch/api/de/versions/1512/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2505/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.zg.ch/api/de/versions/1512/pdf_file"
 
 (Sozialhilfeverordnung)
 
-Vom 20. Dezember 1983 (Stand 1. Januar 2016)
+Vom 20. Dezember 1983 (Stand 1. Januar 2024)
 
 Der Regierungsrat des Kantons Zug,
 
@@ -72,9 +71,9 @@ beschliesst:
 
 **Vermögensverzehr**
 
-<sup>1</sup> Bei der Festsetzung des Vermögensverzehrs (§§ 19 Abs. 2, 29 SHG) können besondere Lebensumstände des Betroffenen berücksichtigt werden.
+<sup>1</sup> Bei der Festsetzung des Vermögensverzehrs (§§ 19 Abs. 2, 29 SHG) können besondere Lebensumstände der oder des Betroffenen berücksichtigt werden.
 
-<sup>2</sup> Vermögenswerte gelten als nicht realisierbar (§ 19 Abs. 2 SHG), wenn der Bedürftige auf sie angewiesen ist, eine Darlehensaufnahme nicht möglich oder aus Gründen der Zinslast nicht zumutbar ist, ferner wenn kein angemessener Preis erzielt werden kann oder andere wichtige Gründe eine Realisierung als unzumutbar erscheinen lassen.
+<sup>2</sup> Vermögenswerte gelten als nicht realisierbar (§ 19 Abs. 2 SHG), wenn die oder der Bedürftige auf sie angewiesen ist, eine Darlehensaufnahme nicht möglich oder aus Gründen der Zinslast nicht zumutbar ist, ferner wenn kein angemessener Preis erzielt werden kann oder andere wichtige Gründe eine Realisierung als unzumutbar erscheinen lassen.
 
 <sup>3</sup> Besteht der Vermögenswert in einem landwirtschaftlichen Gewerbe oder Grundstück, so sind die Weisungen der Direktion des Innern einzuholen, die ihrerseits die Volkswirtschaftsdirektion einbezieht.
 
@@ -213,6 +212,57 @@ beschliesst:
 
 <sup>3</sup> Bei stationärer Unterbringung sind subsidiäre oder definitive Gutsprachen zu erteilen, soweit die Kostendeckung nicht aus eigenen Mitteln (§ 19 SHG, § 5 SHV) gesichert ist. Zahlungen haben direkt an die betreffende Institution zu erfolgen.
 
+## 2a. Datenbeschaffung und Datenbekanntgabe
+
+#### § 11a
+
+**Erforderliche Personendaten gemäss § 23a Abs. 1 SHG**
+
+<sup>1</sup> Die Sozialdienste dürfen folgende Personendaten über einen elektronischen Zugriff aus den kantonalen Personenregistern abrufen:
+
+- a) Vornamen und Namen;
+- b) Geburtsdatum und Todesdatum;
+- c) Zivilstand und Datum von Änderungen des Zivilstands sowie des Ehe- und Partnerschaftsstatus;
+- d) Niederlassung, Aufenthalt, Wohnadresse und Zustelladresse einschliesslich Postleitzahl und Ort;
+- e) Wohnungsnummer, Haushaltszugehörigkeit, Haushaltsart und Beziehungen;
+- f) Zuzugsdatum und Herkunftsort einschliesslich Adresse, Wegzugsdatum und Zielort einschliesslich Adresse, Umzugsdatum und Umzugsadresse;
+- g) Staatsangehörigkeit einschliesslich Heimatort bei Schweizerinnen und Schweizern und Art des Aufenthaltsausweises bei Ausländerinnen und Ausländern;
+- h) AHV-Nummer.
+
+<sup>2</sup> Der Bezug von Daten erfolgt durch Einzelabfragen oder durch Dienste, die einen direkten Datenabgleich mit einer Fachanwendung ermöglichen. In letzterem Fall ist ausschliesslich die AHV-Nummer unter Einhaltung der Bestimmungen des Bundesgesetzes über die von Alters- und Hinterlassenenversicherung vom 20. Dezember 1946 (AHVG)[^11a-1] als Personenidentifikator systematisch zu verwenden.
+
+[^11a-1]: SR [831.10](https://db.clex.ch/link/Bund/831.10/de)
+
+## 2b. Observation
+
+#### § 11b
+
+**Durchführung der Observation**
+
+<sup>1</sup> Als allgemein zugänglicher Ort gilt öffentlicher oder privater Grund und Boden, bei dem in der Regel geduldet wird, dass die Allgemeinheit ihn betritt. Ein Ort gilt als nicht von einem allgemein zugänglichen Ort aus frei einsehbar, wenn er zur geschützten Privatsphäre der zu observierenden Person gehört, insbesondere das Innere eines Wohnhauses, einschliesslich die von aussen durch ein Fenster einsehbaren Räume und unmittelbar zu einem Haus gehörende umfriedete Plätze, Höfe und Gärten, die üblicherweise Blicken von aussen entzogen sind.
+
+<sup>2</sup> Für Bildaufzeichnungen dürfen keine Instrumente eingesetzt werden, die das natürliche menschliche Wahrnehmungsvermögen wesentlich erweitern, namentlich keine Nachtsichtgeräte oder Wärmebildkameras. Für Tonaufzeichnungen dürfen keine Instrumente eingesetzt werden, die das natürliche menschliche Hörvermögen erweitern, namentlich keine Wanzen, Richtmikrofone und Tonverstärkungsgeräte. Aufzeichnungen des nicht öffentlich gesprochenen Wortes dürfen nicht verwertet werden.
+
+#### § 11c
+
+**Bearbeitung der Observationsakten**
+
+<sup>1</sup> Die Observationsakten müssen systematisch und vollständig geführt werden. Sie müssen sicher, sachgemäss und vor schädlichen Einwirkungen geschützt aufbewahrt werden.
+
+<sup>2</sup> Kann der begründete Verdacht auf unrechtmässigen Leistungsbezug durch die verdeckte Observation nicht bestätigt werden, werden die Observationsakten innert 60 Tagen nach Rechtskraft der Verfügung vernichtet, sofern die oder der betroffene Hilfe Suchende nicht ausdrücklich verlangt, dass die Observationsakten im Dossier aufbewahrt werden sollen.
+
+<sup>3</sup> Solange die Observationsakten nicht vernichtet wurden, kann die oder der betroffene Hilfe Suchende unter Vorbehalt überwiegender privater oder öffentlicher Interessen diese auf Gesuch hin vor Ort einsehen oder sich kostenlos Kopien zustellen lassen. Vorbehalten bleiben die Bestimmungen des Archivgesetzes vom 29. Januar 2004[^11c-1].
+
+[^11c-1]: BGS [152.4](https://db.clex.ch/link/BS/152.4/de)
+
+#### § 11d
+
+**Berichterstattungspflicht**
+
+<sup>1</sup> Die Sozialdienste sind verpflichtet, dem kantonalen Sozialamt jedes Jahr einen Bericht über die durchgeführten Observationen zu übermitteln.
+
+<sup>2</sup> Der Bericht muss sich zusammenfassend zum Grund, der Art, der Dauer und der Ergebnisse der jedes Jahr durchgeführten Observationen äussern.
+
 ## 3. Meldung von Unterstützungsfällen
 
 #### § 12
@@ -227,9 +277,9 @@ beschliesst:
 
 #### § 13
 
-**Kenntnisnahme durch den Empfänger**
+**Kenntnisnahme durch die Empfängerin oder den Empfänger**
 
-<sup>1</sup> Der Empfänger von Unterstützung hat im Sinne von § 25 Abs. 4 SHG unterschriftlich zu bestätigen, dass er von den gesetzlichen Bestimmungen über die Rückerstattungspflicht und die Fristen Kenntnis genommen hat.
+<sup>1</sup> Die Empfängerin oder der Empfänger von Unterstützung hat im Sinne von § 25 Abs. 4 SHG unterschriftlich zu bestätigen, dass er von den gesetzlichen Bestimmungen über die Rückerstattungspflicht und die Fristen Kenntnis genommen hat.
 
 <sup>2</sup> …
 
@@ -237,7 +287,7 @@ beschliesst:
 
 **Zuständigkeit**
 
-<sup>1</sup> Wurden einem Bedürftigen nacheinander von mehreren Gemeinden Unterstützungen ausgerichtet, so hat in der Regel die letztunterstützende Gemeinde die Rückerstattungsforderungen geltend zu machen.
+<sup>1</sup> Wurden einer oder einem Bedürftigen nacheinander von mehreren Gemeinden Unterstützungen ausgerichtet, so hat in der Regel die letztunterstützende Gemeinde die Rückerstattungsforderungen geltend zu machen.
 
 <sup>2</sup> Ist in einem Fall auch der Kanton für Rückerstattungsforderungen zuständig (§ 30 Abs. 2 Bst. f SHG), so verständigt er sich mit der letztunterstützenden Gemeinde.
 
