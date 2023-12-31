@@ -4,13 +4,12 @@ number: "173.000"
 title: Gerichtsorganisationsgesetz
 short: GOG
 language: de
-version: 2022-05-01
-valid_until: 2023-12-31
-version_adopted: 2022-04-24
+version: 2024-01-01
+version_adopted: 2023-04-30
 adopted: 2010-04-25
 in_force: 2011-01-01
 url: "https://ai.clex.ch/app/de/texts_of_law/173.000"
-pdf: "https://ai.clex.ch/api/de/versions/2028/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/2237/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://ai.clex.ch/api/de/versions/2028/pdf_file"
 
 (GOG)
 
-vom 25.04.2010 (Stand 01.05.2022)
+vom 25.04.2010 (Stand 01.01.2024)
 
 Die Landsgemeinde des Kantons Appenzell I. Rh.,
 
@@ -479,11 +478,11 @@ beschliesst:
 
 **Gebühren**
 
-<sup>1</sup> Die richterlichen Behörden im Sinne dieses Gesetzes erheben für ihre Entscheide grundsätzlich Gebühren bis Fr. 20'000.--.
+<sup>1</sup> Die richterlichen Behörden im Sinne dieses Gesetzes erheben für ihre Entscheide grundsätzlich Gebühren bis Fr. 90'000.--.
 
-<sup>2</sup> Der Gebührenrahmen erhöht sich in besonders aufwendigen Fällen und bei Streitwerten von mehr als Fr. 1'000'000.-- auf das Vierfache.
+<sup>2</sup> Der Gebührenrahmen erhöht sich in besonders aufwendigen Fällen oder bei Streitwerten von mehr als Fr. 1'000'000.-- auf das Vierfache.
 
-<sup>3</sup> Der Gebührenrahmen ist indexgebunden (Landesindex der Konsumentenpreise, Stand 31. März 2010).
+<sup>3</sup> Der Gebührenrahmen ist indexgebunden (Landesindex der Konsumentenpreise, Stand 31. März 2023).
 
 <sup>4</sup> Die nähere Ausgestaltung des Gebührentarifs wird durch den Grossen Rat auf dem Verordnungsweg geregelt.
 
