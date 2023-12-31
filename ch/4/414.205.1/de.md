@@ -3,18 +3,18 @@ sr: "414.205.1"
 title: Verordnung des Hochschulrates vom 29. November 2019 über die Koordination der Lehre an den Schweizer Hochschulen
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/722"
 language: de
-version: 2020-01-01
+version: 2024-01-01
 adopted: 2019-11-29
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/722/20200101/de/xml/fedlex-data-admin-ch-eli-cc-2019-722-20200101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/722/20200101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/722/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2019-722-20240101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/722/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des Hochschulrates über die Koordination der Lehre an den Schweizer Hochschulen
 
-vom 29. November 2019 (Stand am 1. Januar 2020)
+vom 29. November 2019 (Stand am 1. Januar 2024)
 
 Der Hochschulrat,
 
@@ -99,12 +99,15 @@ Die Hochschulen und die anderen Institutionen des Hochschulbereichs gliedern ihr
 
 Für die Zulassung zu den Bachelorstudiengängen im Regelungsbereich der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren (EDK) gelten die Bestimmungen in den Reglementen der EDK[^6-1]:
 
-- a. vom 28. März 2019 über die Anerkennung von Lehrdiplomen für den Unterricht auf der Primarstufe, der Sekundarstufe I und an Maturitätsschulen; und
-- b. vom 3. November 2000 über die Anerkennung der Hochschuldiplome in Logopädie und der Hochschuldiplome in Psychomotoriktherapie.
+- a. vom 28. März 2019 über die Anerkennung von Lehrdiplomen für den Unterricht auf der Primarstufe, der Sekundarstufe I und an Maturitätsschulen;
+- b.[^6-2] vom 22. Juni 2023 über die Anerkennung der Hochschuldiplome in Logopädie; und
+- c.[^6-3] vom 22. Juni 2023 über die Anerkennung der Hochschuldiplome in Psychomotoriktherapie.
 
 <sup>3</sup> Zulassungsbeschränkungen, die für alle Studienbewerberinnen und -bewerber gelten, bleiben vorbehalten.
 
-[^6-1]: www.edk.ch &gt; Dokumentation &gt; Offizielle Texte &gt; Rechtssammlung der EDK &gt; 4.2.2
+[^6-1]: [www.edk.ch](https://www.edk.ch/) &gt; Dokumentation &gt; Rechtstexte und Beschlüsse &gt; Rechtssammlung &gt; 4.2.2
+[^6-2]: Fassung gemäss Ziff. I der V des Hochschulrates vom 23. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 684](https://fedlex.data.admin.ch/eli/oc/2023/684)).
+[^6-3]: Eingefügt durch Ziff. I der V des Hochschulrates vom 23. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 684](https://fedlex.data.admin.ch/eli/oc/2023/684)).
 
 #### Art. 7
 
@@ -130,7 +133,7 @@ Für die Zulassung zu den Bachelorstudiengängen im Regelungsbereich der Schweiz
 
 <sup>4</sup> Die Hochschulen und die anderen Institutionen des Hochschulbereichs können den Abschluss eines Masterstudiums davon abhängig machen, dass während des Studiums in einer bestimmten Frist zusätzliche Kenntnisse und Fähigkeiten erworben und nachgewiesen werden.
 
-[^8-1]: www.swissuniversities.ch &gt; Themen &gt; Lehre &gt; Verordnung Koordination Lehre &gt; Studienrichtungen
+[^8-1]: [www.swissuniversities.ch](https/www.swissuniversities.ch%20)&gt; Themen &gt; Lehre &gt; Verordnung Koordination Lehre &gt; Studienrichtungen
 
 #### Art. 9
 

@@ -3,18 +3,18 @@ sr: "414.205.1"
 title: "Ordonnance du Conseil des hautes écoles du 29 novembre 2019 sur la coordination de l'enseignement dans les hautes écoles suisses"
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/722"
 language: fr
-version: 2020-01-01
+version: 2024-01-01
 adopted: 2019-11-29
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/722/20200101/fr/xml/fedlex-data-admin-ch-eli-cc-2019-722-20200101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/722/20200101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/722/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2019-722-20240101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/722/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du Conseil des hautes écoles sur la coordination de l’enseignement dans les hautes écoles suisses
 
-du 29 novembre 2019 (Etat le 1<sup>er</sup> janvier 2020)
+du 29 novembre 2019 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil des hautes écoles,
 
@@ -99,12 +99,15 @@ Les hautes écoles et les autres institutions du domaine des hautes écoles stru
 
 L’admission aux filières d’études de bachelor du ressort de la Conférence suisse des directeurs cantonaux de l’instruction publique (CDIP) est régie par les dispositions des règlements de la CDIP[^6-1]:
 
-- a. du 28 mars 2019 concernant la reconnaissance des diplômes d’enseignement du degré primaire, du degré secondaire I et pour les écoles de maturité, et
-- b. du 3 novembre 2000 concernant la reconnaissance des diplômes de hautes écoles de logopédie et des diplômes de hautes écoles de psychomotricité.
+- a. du 28 mars 2019 concernant la reconnaissance des diplômes d’enseignement du degré primaire, du degré secondaire I et pour les écoles de maturité;
+- b.[^6-2] du 22 juin 2023 concernant la reconnaissance des diplômes de hautes écoles de logopédie, et
+- c.[^6-3] du 22 juin 2023 concernant la reconnaissance des diplômes de hautes écoles de thérapie psychomotrice.
 
 <sup>3</sup> Les mesures visant à limiter l’accès aux études, applicables à tous les candidats, demeurent réservées.
 
-[^6-1]: www.edk.ch &gt; Documentation &gt; Documents officiels &gt; Recueil des bases légales de la CDIP &gt; 4.2.2
+[^6-1]: [www.edk.ch](http://www.edk.ch) &gt; Documentation &gt; Réglementations et décisions &gt; Recueil des bases légales &gt; 4.2.2
+[^6-2]: Nouvelle teneur selon le ch. I de l’O du Conseil des hautes écoles du 23 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 684](https://fedlex.data.admin.ch/eli/oc/2023/684)).
+[^6-3]: Introduite par le ch. I de l’O du Conseil des hautes écoles du 23 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 684](https://fedlex.data.admin.ch/eli/oc/2023/684)).
 
 #### Art. 7
 
@@ -130,7 +133,7 @@ L’admission aux filières d’études de bachelor du ressort de la Conférence
 
 <sup>4</sup> Elles peuvent subordonner l’obtention du titre de master à des connaissances et à des compétences supplémentaires qui doivent être acquises et attestées dans un délai déterminé durant les études.
 
-[^8-1]: www.swissuniversities.ch &gt; Thèmes &gt; Enseignement &gt; Ordonnance coordination de l’enseignement &gt; Branches d’études
+[^8-1]: [www.swissuniversities.ch](http://www.swissuniversities.ch) &gt; Thèmes &gt; Enseignement &gt; Ordonnance coordination de l’enseignement &gt; Branches d’études
 
 #### Art. 9
 
@@ -144,7 +147,7 @@ L’admission aux filières d’études de bachelor du ressort de la Conférence
 
 <sup>4</sup> Les hautes écoles et les autres institutions du domaine des hautes écoles peuvent fixer pour le titre de bachelor d’un autre type de haute école des exigences minimales de qualité concernant les plans d’études, les contenus des cours ou la note minimale.
 
-[^9-1]: www.swissuniversities.ch &gt; Thèmes &gt; Enseignement &gt; Ordonnance coordination de l’enseignement &gt; Liste de concordance
+[^9-1]: [www.swissuniversities.ch](http://www.swissuniversities.ch) &gt; Thèmes &gt; Enseignement &gt; Ordonnance coordination de l’enseignement &gt; Liste de concordance
 
 #### Art. 10
 

@@ -3,18 +3,18 @@ sr: "414.205.1"
 title: "Ordinanza del Consiglio delle scuole universitarie del 29 novembre 2019 sul coordinamento dell'insegnamento nelle scuole universitarie svizzere"
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/722"
 language: it
-version: 2020-01-01
+version: 2024-01-01
 adopted: 2019-11-29
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/722/20200101/it/xml/fedlex-data-admin-ch-eli-cc-2019-722-20200101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/722/20200101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/722/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2019-722-20240101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/722/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza del Consiglio delle scuole universitarie sul coordinamento dell’insegnamento nelle scuole universitarie svizzere
 
-del 29 novembre 2019 (Stato 1° gennaio 2020)
+del 29 novembre 2019 (Stato 1° gennaio 2024)
 
 Il Consiglio delle scuole universitarie,
 
@@ -99,12 +99,15 @@ Le scuole universitarie e gli altri istituti accademici suddividono la loro offe
 
 Per l’ammissione ai livelli di studio bachelor di competenza della Conferenza svizzera dei direttori cantonali della pubblica educazione (CDPE) si applicano le disposizioni dei regolamenti della CDPE[^6-1]:
 
-- a. del 28 marzo 2019 concernente il riconoscimento dei diplomi d’insegnamento per il livello elementare, il livello secondario I e per le scuole di maturità; e
-- b. del 3 novembre 2000 concernente il riconoscimento dei diplomi delle scuole universitarie in logopedia e dei diplomi delle scuole universitarie in terapia psicomotoria.
+- a. del 28 marzo 2019 concernente il riconoscimento dei diplomi d’insegnamento per il livello elementare, il livello secondario I e per le scuole di maturità;
+- b.[^6-2] del 22 giugno 2023 concernente il riconoscimento dei diplomi delle scuole universitarie in logopedia; e
+- c.[^6-3] del 22 giugno 2023 concernente il riconoscimento dei diplomi delle scuole universitarie in terapia psicomotoria.
 
 <sup>3</sup> Sono fatte salve le restrizioni all’ammissione valide per tutti i candidati agli studi.
 
-[^6-1]: www.cdpe.ch &gt; Documentazione &gt; Testi ufficiali &gt; Raccolta delle basi giuridiche &gt; 4.2.2
+[^6-1]: [www.cdpe.ch](http://www.cdpe.ch) &gt; Documentazione &gt; Atti normativi &gt; Raccolta delle basi giuridiche &gt; 4.2.2
+[^6-2]: Nuovo testo giusta il n. I dell’O del Consiglio delle scuole universitarie del 23 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 684](https://fedlex.data.admin.ch/eli/oc/2023/684)).
+[^6-3]: Introdotta dal n. I dell’O del Consiglio delle scuole universitarie del 23 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 684](https://fedlex.data.admin.ch/eli/oc/2023/684)).
 
 #### Art. 7
 
@@ -267,4 +270,4 @@ Sono abrogate:
 
 **Entrata in vigore**
 
-La presente ordinanza entra in vigore il 1° gennaio 2020.
+La presente ordinanza entra in vigore il 1° gennaio .
