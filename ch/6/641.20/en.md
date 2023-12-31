@@ -4,11 +4,11 @@ title: "Federal Act of 12 June 2009 on Value Added Tax (Value Added Tax Act, VAT
 short: VAT Act
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/615"
 language: en
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2009-06-12
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/615/20230901/en/xml/fedlex-data-admin-ch-eli-cc-2009-615-20230901-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/615/20230901/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/615/20240101/en/xml/fedlex-data-admin-ch-eli-cc-2009-615-20240101-en-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/615/20240101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Value Added Tax Act, VAT Act)
 
-of 12 June 2009 (Status as of 1 September 2023)
+of 12 June 2009 (Status as of 1 January 2024)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -222,7 +222,7 @@ Exempt from tax liability under paragraph 1 is any person who:
   - 2\. services whose place of supply in terms of Article 8 paragraph 1 is located on Swiss territory; not exempt from tax liability is, however, any person who supplies telecommunication or electronic services to recipients who are not liable to the tax,
   - 3\. supplies of electricity in cables, gas via the natural gas distribution network and district heating to persons liable to the tax on Swiss territory;
 
-- [tab] c.[^10-4] as a non-profit, voluntarily-run sporting or cultural association or as a charitable organisation generates on Swiss territory and abroad within one year a turnover from supplies of less than 250,000 francs that are not exempt from the tax without credit under Article 21 paragraph 2.[^10-5]
+- c.[^10-4] as a non-profit, voluntarily-run sporting or cultural association or as a charitable organisation generates on Swiss territory and abroad within one year a turnover from supplies of less than 250,000 francs that are not exempt from the tax without credit under Article 21 paragraph 2.[^10-5]
 
 <sup>2bis</sup> The turnover is calculated on the basis of the agreed considerations without the tax.[^10-6]
 
@@ -488,7 +488,7 @@ Exempt from the tax without credit are:
   - b. between private or public law companies owned wholly by public authorities and the public authorities that own them or their organisational units,
   - c. between institutions or foundations that were founded exclusively by public authorities and the public authorities that founded them or their organisational units;
 
-- [tab] 28<sup>bis</sup>*.*[^21-17] the provision of staff by public authorities to other public authorities;
+- 28<sup>bis</sup>*.*[^21-17] the provision of staff by public authorities to other public authorities;
 - 29\. the exercise of arbitration functions;
 - 30\.[^21-18] supplies between education and research institutions that are involved in education and research cooperation, provided those supplies are made as part of the cooperation, irrespective of whether the education and research cooperation is liable to value added tax.
 
@@ -618,7 +618,7 @@ Not included in the assessment basis are:
 
 <sup>4</sup> The Federal Council shall determine what is deemed to be a collectors’ item.
 
-- [tab] <sup>5</sup> If two or more collectors’ items are purchased for an overall price, the tax may be calculated on the basis of the total difference between the overall selling price and the overall purchase price. The Federal Council shall regulate the requirements.
+<sup>5</sup> If two or more collectors’ items are purchased for an overall price, the tax may be calculated on the basis of the total difference between the overall selling price and the overall purchase price. The Federal Council shall regulate the requirements.
 
 [^24a-1]: Inserted by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 
@@ -626,11 +626,11 @@ Not included in the assessment basis are:
 
 **Tax rates**
 
-<sup>1</sup> The tax rate is 7.7 per cent (standard rate),[^25-1] subject to paragraphs 2 and 3.
+<sup>1</sup> The tax rate is 8.1 per cent (standard rate), subject to paragraphs 2 and 3.[^25-1]
 
 <sup>2</sup>
 
-The reduced tax rate of 2.5 per cent applies to:[^25-2]
+The reduced tax rate of 2.6 per cent applies to:[^25-2]
 
 - a.
 
@@ -653,17 +653,18 @@ The reduced tax rate of 2.5 per cent applies to:[^25-2]
 
 <sup>3</sup> For foodstuffs that form part of restaurant supplies, the standard rate applies. A restaurant supply is the serving of foodstuffs provided the taxable person prepares or serves the foodstuffs on the customer’s premises or the taxable person maintains special installations for their consumption on the spot. If foodstuffs, with the exception of alcoholic beverages, are destined to be taken away or for delivery, the reduced tax rate applies provided suitable organisational measures are taken to differentiate these supplies from restaurant supplies; if this is not the case, the standard rate applies. Where foodstuffs, with the exception of alcoholic beverages, are offered in vending machines, the reduced tax rate applies.[^25-6]
 
-<sup>4</sup> The tax on accommodation services is 3.7 per cent (special rate). The special rate applies until 31 December 2020 or, in the event that the time limit in Article 196 number 14 paragraph 1 of the Federal Constitution is extended, until 31 December 2027 at the latest. An accommodation service is the provision of accommodation, including the serving of breakfast, even if it is invoiced separately.[^25-7]
+<sup>4</sup> The tax on accommodation services is 3.8 per cent (special rate).[^25-7] The special rate applies until 31 December 2020 or, in the event that the time limit in Article 196 number 14 paragraph 1 of the Federal Constitution is extended, until 31 December 2027 at the latest. An accommodation service is the provision of accommodation, including the serving of breakfast, even if it is invoiced separately.[^25-8]
 
 <sup>5</sup> The Federal Council shall specify in greater detail the goods and services designated in paragraph 2; in doing so it shall observe the principle of competitive neutrality.
 
-[^25-1]: First part of the sentence amended by No I of the O of 8 Nov. 2017 on the Temporary Increase in VAT Rates to Finance the Expansion of the Railway Infrastructure, in force since 1 Jan. 2018 until 31 Dec. 2030 at latest ([AS 2017 6305](https://fedlex.data.admin.ch/eli/oc/2017/695)).
-[^25-2]: Amended by No I of the O of 8 Nov. 2017 on the Temporary Increase in VAT Rates to Finance the Expansion of the Railway Infrastructure, in force since 1 Jan. 2018 until 31 Dec. 2030 at latest ([AS 2017 6305](https://fedlex.data.admin.ch/eli/oc/2017/695)).
+[^25-1]: Amended by No I of the O of 9 Dec. 2022 on the Increase in Value Added Tax- Rates to provide Additional OASI Funding, in force since 1 Jan. 2024 ([AS 2022 863](https://fedlex.data.admin.ch/eli/oc/2022/863)).
+[^25-2]: Amended by No I of the O of 9 Dec. 2022 on the Increase in Value Added Tax- Rates to provide Additional OASI Funding, in force since 1 Jan. 2024 ([AS 2022 863](https://fedlex.data.admin.ch/eli/oc/2022/863)).
 [^25-3]: Amended by Annex No II 3 of the Foodstuffs Act of 20 June 2014, in force since 1 May 2017 ([AS 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62); [BBl 2011 5571](https://fedlex.data.admin.ch/eli/fga/2011/853)).
 [^25-4]: [SR 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
 [^25-5]: Inserted by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 [^25-6]: Amended by No IV of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^25-7]: Amended by No II 1 of the FA of 16 June 2017, in force since 1 Jan. 2018 ([AS 2017 7667](https://fedlex.data.admin.ch/eli/oc/2017/838); [BBl 2017 3429](https://fedlex.data.admin.ch/eli/fga/2017/779)[3443](https://fedlex.data.admin.ch/eli/fga/2017/781)).
+[^25-7]: Amended by No I of the O of 9 Dec. 2022 on the Increase in Value Added Tax- Rates to provide Additional OASI Funding, in force since 1 Jan. 2024 ([AS 2022 863](https://fedlex.data.admin.ch/eli/oc/2022/863)).
+[^25-8]: Amended by No II 1 of the FA of 16 June 2017, in force since 1 Jan. 2018 ([AS 2017 7667](https://fedlex.data.admin.ch/eli/oc/2017/838); [BBl 2017 3429](https://fedlex.data.admin.ch/eli/fga/2017/779)[3443](https://fedlex.data.admin.ch/eli/fga/2017/781)).
 
 ### Chapter 4 Invoicing and VAT Details
 
@@ -722,11 +723,11 @@ The taxable person may in the course of his business activity, subject to Articl
 - b. the acquisition tax declared by him (Art. 45–49);
 - c. the import tax paid or payable by him which has been assessed unconditionally or has been assessed conditionally and fallen due as well as the tax declared by him for the import of goods (Art. 52 and 63).
 
-<sup>2</sup> If the taxable person has, in the course of a business activity entitling him to make an input tax deduction, procured agricultural, forestry or market garden products, cattle or milk from non-taxable farmers, foresters, gardeners, cattle dealers or milk collectors, he may deduct as input tax 2.5 per cent of the amount invoiced.[^28-1]
+<sup>2</sup> If the taxable person has, in the course of a business activity entitling him to make an input tax deduction, procured agricultural, forestry or market garden products, cattle or milk from non-taxable farmers, foresters, gardeners, cattle dealers or milk collectors, he may deduct as input tax 2.6 per cent of the amount invoiced.[^28-1]
 
 <sup>3</sup> Deduction of the input tax under paragraph 1 is permissible if the taxable person proves that he has paid the input tax.[^28-2]
 
-[^28-1]: Amended by No I of the O of 8 Nov. 2017 on the Temporary Increase in VAT Rates to Finance the Expansion of the Railway Infrastructure, in force since 1 Jan. 2017 until 31 Dec. 2030 at latest ([AS 2017 6305](https://fedlex.data.admin.ch/eli/oc/2017/695)).
+[^28-1]: Amended by No I of the O of 9 Dec. 2022 on the Increase in Value Added Tax- Rates to provide Additional OASI Funding, in force since 1 Jan. 2024 ([AS 2022 863](https://fedlex.data.admin.ch/eli/oc/2022/863)).
 [^28-2]: Originally: para. 4. Original version of para. 3 repealed by No I of the FA of 30 Sept. 2016, with effect from 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 
 #### Art. 28a
@@ -853,7 +854,7 @@ Within the tax period, the tax is reported:
 
 **Reporting using the net tax rate and the flat tax rate methods**
 
-<sup>1</sup> If a taxable person does not generate more than 5,005,000 francs turnover from taxable supplies annually and in the same period does not have to pay more than 103,000 francs in tax, calculated at the net tax rate that applies to him, he may report under the net tax rate method.[^37-1]
+<sup>1</sup> If a taxable person does not generate more than 5,024,000 francs turnover from taxable supplies annually and in the same period does not have to pay more than 108,000 francs in tax, calculated at the net tax rate that applies to him, he may report under the net tax rate method.[^37-1]
 
 <sup>2</sup> When using the net tax rate method, the tax claim is determined by multiplying the sum of the taxable considerations, including tax, generated in the reporting period by the net tax rate approved by the FTA.
 
@@ -863,7 +864,7 @@ Within the tax period, the tax is reported:
 
 <sup>5</sup> Public authorities and related institutions, in particular private hospitals and schools or licensed transport undertakings and associations and foundations may report using the flat tax rate method. The Federal Council shall regulate the details.
 
-[^37-1]: Amended by No I of the O of 8 Nov. 2017 on the Temporary Increase in VAT Rates to Finance the Expansion of the Railway Infrastructure, in force since 1 Jan. 2017 until 31 Dec. 2030 at latest ([AS 2017 6305](https://fedlex.data.admin.ch/eli/oc/2017/695)).
+[^37-1]: Amended by No I of the O of 9 Dec. 2022 on the Increase in Value Added Tax- Rates to provide Additional OASI Funding, in force since 1 Jan. 2024 ([AS 2022 863](https://fedlex.data.admin.ch/eli/oc/2022/863)).
 [^37-2]: Second sentence amended by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 
 #### Art. 38
@@ -1007,7 +1008,7 @@ The recipient of supplies under paragraph 1 is liable to the tax, provided he:[^
 
 **Supplies not subject to acquisition tax**[^45a-1]
 
-- [tab] Supplies that are exempt from domestic tax without credit under Article 21 or exempt from the domestic tax under Article 23 are not subject to the acquisition tax.
+Supplies that are exempt from domestic tax without credit under Article 21 or exempt from the domestic tax under Article 23 are not subject to the acquisition tax.
 
 [^45a-1]: Inserted by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 
@@ -1156,11 +1157,11 @@ The assessment basis must include, if not already included:
 
 **Tax rates**[^55-1]
 
-<sup>1</sup> The tax on the import of goods is 7.7 per cent, subject to paragraph 2.
+<sup>1</sup> The tax on the import of goods is 8.1 per cent, subject to paragraph 2.
 
-<sup>2</sup> The tax is 2.5 per cent on the import of goods under Article 25 paragraph 2 letter a and a<sup>bis</sup>.
+<sup>2</sup> The tax is 2.6 per cent on the import of goods under Article 25 paragraph 2 letter a and a<sup>bis</sup>.
 
-[^55-1]: Amended by No I of the O of 8 Nov. 2017 on the Temporary Increase in VAT Rates to Finance the Expansion of the Railway Infrastructure, in force since 1 Jan. 2017 until 31 Dec. 2030 at latest ([AS 2017 6305](https://fedlex.data.admin.ch/eli/oc/2017/695)).
+[^55-1]: Amended by No I of the O of 9 Dec. 2022 on the Increase in Value Added Tax- Rates to provide Additional OASI Funding, in force since 1 Jan. 2024 ([AS 2022 863](https://fedlex.data.admin.ch/eli/oc/2022/863)).
 
 #### Art. 56
 

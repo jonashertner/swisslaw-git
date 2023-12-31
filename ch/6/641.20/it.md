@@ -4,11 +4,11 @@ title: "Legge federale del 12 giugno 2009 concernente l'imposta sul valore aggiu
 short: LIVA
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/615"
 language: it
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2009-06-12
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/615/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2009-615-20230901-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/615/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/615/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2009-615-20240101-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/615/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/615/20230901/it"
 
 (Legge sull’IVA, LIVA)
 
-del 12 giugno 2009 (Stato 1° settembre 2023)
+del 12 giugno 2009 (Stato 1° gennaio 2024)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -159,7 +159,7 @@ In caso di fornitura di un bene dall’estero in territorio svizzero, il luogo d
 - b. esegua forniture di cui al capoverso 1 lettera b con beni che, ai sensi dell’articolo 53 capoverso 1 lettera a, in ragione dell’ammontare d’imposta irrilevante sono esenti dall’imposta sull’importazione, e realizzi con tali forniture una cifra d’affari di almeno 100 000 franchi all’anno.[^7-2]
 
 [^7-1]: Nuovo testo giusta il n. I della L del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^7-2]: Introdotto dal n. I della L del 30 set. 2016, in vigore dal 1° gen. 2018, la lett. b dal 1° gen. 2019 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^7-2]: Introdotto dal n. I della L del 30 set. 2016, in vigore dal 1° gen. 2018, la lett. b entra in 1° gen. 2019 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 
 #### Art. 8
 
@@ -210,7 +210,7 @@ Per evitare le distorsioni della concorrenza causate da doppie imposizioni o lac
 
 Esercita un’impresa chiunque:
 
-- a. svolge un’attività indipendente, professionale o commerciale, diretta al conseguimento, mediante prestazioni, di entrate aventi carattere di stabilità, indipendentemente dall’importo dell’afflusso di mezzi che non sono considerati controprestazione secondo l’articolo 18 capoverso 2, e
+- a. svolge un’attività indipendente, professionale o commerciale, diretta al conseguimento, mediante prestazioni, di entrate aventi carattere di stabilità, indipendentemente dall’importo dell’afflusso di mezzi che non sono considerati controprestazione secondo l’articolo 18 capoverso 2; e
 - b. agisce in nome proprio nei confronti di terzi.[^10-2]
 
 <sup>1ter</sup> L’acquisto, la detenzione e l’alienazione di partecipazioni secondo l’articolo 29 capoversi 2 e 3 costituiscono un’attività imprenditoriale.[^10-3]
@@ -483,7 +483,7 @@ Sono esclusi dall’imposta:
 - 22\. le forniture, al massimo al loro valore facciale, di francobolli valevoli per l’affrancatura sul territorio svizzero e di altri valori di bollo ufficiali;
 - 23\.[^21-15] le operazioni concernenti giochi in denaro, purché il prodotto lordo dei giochi sia assoggettato alla tassa sulle case da gioco secondo l’articolo 119 della legge federale del 29 settembre 2017[^21-16] sui giochi in denaro (LGD) o l’utile netto realizzato sia destinato interamente a scopi d’utilità pubblica ai sensi dell’articolo 125 LGD;
 - 24\. le forniture di beni mobili usati, che sono stati utilizzati unicamente per prestazioni escluse dall’imposta secondo il presente articolo;
-- 25\.[^21-17] …
+- 25\.[^21-17] ...
 - 26\. la vendita, da parte degli agricoltori, dei selvicoltori e degli orticoltori, di prodotti agricoli, forestali e orticoli della propria azienda, la vendita di bestiame da parte dei commercianti di bestiame e la vendita di latte alle aziende di trasformazione da parte dei centri di raccolta del latte;
 - 27\. le prestazioni di organizzazioni di utilità pubblica volte a promuovere l’immagine di terzi e le prestazioni di terzi volte a promuovere l’immagine di organizzazioni di utilità pubblica;
 - 28\.[^21-18]
@@ -638,11 +638,11 @@ Non sono inclusi nella base di calcolo:
 
 **Aliquote d’imposta**
 
-<sup>1</sup> L’imposta ammonta al 7,7 per cento (aliquota normale);[^25-1] sono fatti salvi i capoversi 2 e 3.
+<sup>1</sup> L’imposta ammonta al 8,1 per cento (aliquota normale); sono fatti salvi i capoversi 2 e 3.[^25-1]
 
 <sup>2</sup>
 
-L’imposta ammonta al 2,5 per cento (aliquota ridotta):[^25-2]
+L’imposta ammonta al 2,6 per cento (aliquota ridotta):[^25-2]
 
 - a.
 
@@ -665,17 +665,18 @@ L’imposta ammonta al 2,5 per cento (aliquota ridotta):[^25-2]
 
 <sup>3</sup> Alle derrate alimentari offerte nell’ambito di prestazioni della ristorazione si applica l’aliquota normale. È considerata prestazione della ristorazione la somministrazione di derrate alimentari quando il contribuente le prepara o le serve direttamente presso il cliente oppure tiene a disposizione impianti particolari per il consumo sul posto. Se le derrate alimentari, ad eccezione delle bevande alcoliche, sono destinate a essere asportate o consegnate si applica l’aliquota ridotta, purché a tale scopo siano stati adottati provvedimenti organizzativi adeguati per la delimitazione di queste prestazioni da quelle della ristorazione; diversamente si applica l’aliquota normale. Se le derrate alimentari, ad eccezione delle bevande alcoliche, sono offerte in distributori automatici si applica l’aliquota ridotta.[^25-6]
 
-<sup>4</sup> L’imposta sulle prestazioni nel settore alberghiero ammonta al 3,7 per cento (aliquota speciale). L’aliquota speciale si applica sino al 31 dicembre 2020 oppure, qualora il termine di cui all’articolo 196 numero 14 capoverso 1 della Costituzione federale venga prorogato, sino al 31 dicembre 2027 al massimo. Si considera prestazione del settore alberghiero l’alloggio con prima colazione, anche se questa è fatturata separatamente.[^25-7]
+<sup>4</sup> L’imposta sulle prestazioni nel settore alberghiero ammonta al 3,8 per cento (aliquota speciale).[^25-7] L’aliquota speciale si applica sino al 31 dicembre 2020 oppure, qualora il termine di cui all’articolo 196 numero 14 capoverso 1 della Costituzione federale venga prorogato, sino al 31 dicembre 2027 al massimo. Si considera prestazione del settore alberghiero l’alloggio con prima colazione, anche se questa è fatturata separatamente.[^25-8]
 
 <sup>5</sup> Il Consiglio federale definisce in dettaglio i beni e le prestazioni di servizi menzionati nel capoverso 2; a tal proposito osserva il principio della neutralità concorrenziale.
 
-[^25-1]: Nuovo testo giusta il n. I dell’O dell’8 nov. 2017 sull’aumento temporaneo delle aliquote dell’imposta sul valore aggiunto per finanziare l’ampliamento dell’infrastruttura ferroviaria, in vigore dal 1° gen. 2018 e con effetto al più tardi fino al 31 dic. 2030 ([RU 2017 6305](https://fedlex.data.admin.ch/eli/oc/2017/695)).
-[^25-2]: Nuovo testo giusta il n. I dell’O dell’8 nov. 2017 sull’aumento temporaneo delle aliquote dell’imposta sul valore aggiunto per finanziare l’ampliamento dell’infrastruttura ferroviaria, in vigore dal 1° gen. 2018 e con effetto al più tardi fino al 31 dic. 2030 ([RU 2017 6305](https://fedlex.data.admin.ch/eli/oc/2017/695)).
-[^25-3]: Nuovo testo giusta l’all. n. II 3 della L del 20 giu. 2014 sulle derrate alimentari, in vigore dal 1° mag. 2017 ([RU 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62); [FF 2011 5017](https://fedlex.data.admin.ch/eli/fga/2011/853)).
+[^25-1]: Nuovo testo giusta il n. I dell’O del 9 dic. 2022 sull’aumento delle aliquote dell’imposta sul valore aggiunto per il finanziamento supplementare dell’AVS, in vigore dal 1° gen. 2024 ([RU 2022 863](https://fedlex.data.admin.ch/eli/oc/2022/863)).
+[^25-2]: Nuovo testo giusta il n. I dell’O del 9 dic. 2022 sull’aumento delle aliquote dell’imposta sul valore aggiunto per il finanziamento supplementare dell’AVS, in vigore dal 1° gen. 2024 ([RU 2022 863](https://fedlex.data.admin.ch/eli/oc/2022/863)).
+[^25-3]: Nuovo testo giusta l’all. n.II 3 della L del 20 giu. 2014 sulle derrate alimentari, in vigore dal 1° mag. 2017 ([RU 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62); [FF 2011 5017](https://fedlex.data.admin.ch/eli/fga/2011/853)).
 [^25-4]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
 [^25-5]: Introdotta dal n. I della L del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 [^25-6]: Nuovo testo giusta il n. IV della L del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^25-7]: Nuovo testo giusta il n. II 1 della LF del 16 giu. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7667](https://fedlex.data.admin.ch/eli/oc/2017/838); [FF 2017 2987](https://fedlex.data.admin.ch/eli/fga/2017/779)[3003](https://fedlex.data.admin.ch/eli/fga/2017/781)).
+[^25-7]: Nuovo testo giusta il n. I dell’O del 9 dic. 2022 sull’aumento delle aliquote dell’imposta sul valore aggiunto per il finanziamento supplementare dell’AVS, in vigore dal 1° gen. 2024 ([RU 2022 863](https://fedlex.data.admin.ch/eli/oc/2022/863)).
+[^25-8]: Nuovo testo giusta il n. II 1 della LF del 16 giu. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7667](https://fedlex.data.admin.ch/eli/oc/2017/838); [FF 2017 2987](https://fedlex.data.admin.ch/eli/fga/2017/779)[3003](https://fedlex.data.admin.ch/eli/fga/2017/781)).
 
 ### Capitolo 4: Emissione della fattura e dichiarazione fiscale
 
@@ -736,11 +737,11 @@ Fatti salvi gli articoli 29 e 33, nell’ambito della sua attività imprenditori
 - b. l’imposta sull’acquisto da lui dichiarata (art. 45–49);
 - c. l’imposta sull’importazione da lui versata o da versare, il cui credito non è subordinato a condizioni o il cui credito è subordinato a condizioni ed è scaduto, nonché l’imposta sull’importazione di beni da lui dichiarata (art. 52 e 63).
 
-<sup>2</sup> Il contribuente può dedurre a titolo di imposta precedente il 2,5 per cento dell’importo fatturatogli se ha acquistato, nell’ambito della sua attività imprenditoriale che dà diritto alla deduzione dell’imposta precedente, prodotti agricoli, silvicoli, orticoli, bestiame o latte presso agricoltori, selvicoltori, orticoltori, commercianti di bestiame e centri di raccolta del latte non assoggettati all’imposta.[^28-1]
+<sup>2</sup> Il contribuente può dedurre a titolo di imposta precedente il 2,6 per cento dell’importo fatturatogli se ha acquistato, nell’ambito della sua attività imprenditoriale che dà diritto alla deduzione dell’imposta precedente, prodotti agricoli, silvicoli, orticoli, bestiame o latte presso agricoltori, selvicoltori, orticoltori, commercianti di bestiame e centri di raccolta del latte non assoggettati all’imposta.[^28-1]
 
 <sup>3</sup> Il contribuente può dedurre l’imposta precedente secondo il capoverso 1 se comprova di averla versata.[^28-2]
 
-[^28-1]: Nuovo testo giusta il n. I dell’O dell’8 nov. 2017 sull’aumento temporaneo delle aliquote dell’imposta sul valore aggiunto per finanziare l’ampliamento dell’infrastruttura ferroviaria, in vigore dal 1° gen. 2018 e con effetto al più tardi fino al 31 dic. 2030 ([RU 2017 6305](https://fedlex.data.admin.ch/eli/oc/2017/695)).
+[^28-1]: Nuovo testo giusta il n. I dell’O del 9 dic. 2022 sull’aumento delle aliquote dell’imposta sul valore aggiunto per il finanziamento supplementare dell’AVS, in vigore dal 1° gen. 2024 ([RU 2022 863](https://fedlex.data.admin.ch/eli/oc/2022/863)).
 [^28-2]: Originario cpv. 4. Cpv. 3 abrogato dal n. I della L del 30 set. 2016, con effetto dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 
 #### Art. 28a
@@ -871,7 +872,7 @@ All’interno del periodo fiscale, il periodo di rendiconto dell’imposta è:
 
 **Allestimento del rendiconto secondo i metodi delle aliquote saldo e delle aliquote forfetarie[^37-1]**
 
-<sup>1</sup> Il contribuente che realizza una cifra d’affari annua proveniente da prestazioni imponibili pari o inferiore a 5 005 000 franchi e che deve pagare nel medesimo periodo imposte pari o inferiori a 103 000 franchi, calcolate in base all’aliquota saldo determinante nei suoi confronti, può allestire il rendiconto secondo il metodo delle aliquote saldo.[^37-2]
+<sup>1</sup> Il contribuente che realizza una cifra d’affari annua proveniente da prestazioni imponibili pari o inferiore a 5 024 000 franchi e che deve pagare nel medesimo periodo imposte pari o inferiori a 108 000 franchi, calcolate in base all’aliquota saldo determinante nei suoi confronti, può allestire il rendiconto secondo il metodo delle aliquote saldo.[^37-2]
 
 <sup>2</sup> In caso di applicazione del metodo delle aliquote saldo, il credito fiscale è stabilito moltiplicando il totale di tutte le controprestazioni imponibili realizzate in un periodo di rendiconto, comprese le imposte, per l’aliquota saldo autorizzata dall’AFC.
 
@@ -882,7 +883,7 @@ All’interno del periodo fiscale, il periodo di rendiconto dell’imposta è:
 <sup>5</sup> Le collettività pubbliche e le istituzioni affini, segnatamente le cliniche e le scuole private o le imprese di trasporto concessionarie nonché le associazioni e le fondazioni, possono applicare il metodo delle aliquote forfetarie.[^37-4] Il Consiglio federale disciplina i dettagli.
 
 [^37-1]: [RU 2009 7129](https://fedlex.data.admin.ch/eli/oc/2009/864)
-[^37-2]: Nuovo testo giusta il n. I dell’O dell’8 nov. 2017 sull’aumento temporaneo delle aliquote dell’imposta sul valore aggiunto per finanziare l’ampliamento dell’infrastruttura ferroviaria, in vigore dal 1° gen. 2018 e con effetto al più tardi fino al 31 dic. 2030 ([RU 2017 6305](https://fedlex.data.admin.ch/eli/oc/2017/695)).
+[^37-2]: Nuovo testo giusta il n. I dell’O del 9 dic. 2022 sull’aumento delle aliquote dell’imposta sul valore aggiunto per il finanziamento supplementare dell’AVS, in vigore dal 1° gen. 2024 ([RU 2022 863](https://fedlex.data.admin.ch/eli/oc/2022/863)).
 [^37-3]: Nuovo testo del secondo per. giusta il n. I della L del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 [^37-4]: [RU 2009 7129](https://fedlex.data.admin.ch/eli/oc/2009/864)
 
@@ -1184,11 +1185,11 @@ Nella base di calcolo devono essere integrati, se non sono già compresi:
 
 **Aliquote d’imposta**[^55-1]
 
-<sup>1</sup> Fatto salvo il capoverso 2, l’imposta sull’importazione di beni ammonta al 7,7 per cento.
+<sup>1</sup> Fatto salvo il capoverso 2, l’imposta sull’importazione di beni ammonta al 8,1 per cento.
 
-<sup>2</sup> Sull’importazione di beni ai sensi dell’articolo 25 capoverso 2 lettere a e a<sup>bis</sup> l’imposta ammonta al 2,5 per cento.
+<sup>2</sup> Sull’importazione di beni ai sensi dell’articolo 25 capoverso 2 lettere a e a<sup>bis</sup> l’imposta ammonta al 2,6 per cento.
 
-[^55-1]: Nuovo testo giusta il n. I dell’O dell’8 nov. 2017 sull’aumento temporaneo delle aliquote dell’imposta sul valore aggiunto per finanziare l’ampliamento dell’infrastruttura ferroviaria, in vigore dal 1° gen. 2018 e con effetto al più tardi fino al 31 dic. 2030 ([RU 2017 6305](https://fedlex.data.admin.ch/eli/oc/2017/695)).
+[^55-1]: Nuovo testo giusta il n. I dell’O del 9 dic. 2022 sull’aumento delle aliquote dell’imposta sul valore aggiunto per il finanziamento supplementare dell’AVS, in vigore dal 1° gen. 2024 ([RU 2022 863](https://fedlex.data.admin.ch/eli/oc/2022/863)).
 
 #### Art. 56
 
@@ -1240,7 +1241,7 @@ Non viene riscosso un interesse moratorio se:
   - 2\. sono assegnati a un altro regime doganale (art. 47 LD);
 
 - c<sup>bis</sup>.[^58-3] in caso di beni tassati con obbligo di pagamento condizionato, al momento dell’accettazione della dichiarazione doganale l’importatore era registrato come contribuente sul territorio svizzero;
-- d.[^58-4] …
+- d.[^58-4] ...
 - e. i beni devono essere dichiarati periodicamente nella procedura d’imposizione doganale (art. 42 cpv. 1 lett. c LD) o sono tassati successivamente in base a una procedura d’imposizione doganale semplificata (art. 42 cpv. 2 LD) e l’importatore al momento dell’importazione era registrato come contribuente sul territorio svizzero.
 
 [^58-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
@@ -1380,7 +1381,7 @@ Il termine per la presentazione di una domanda è:
 
 <sup>5</sup> L’onere amministrativo che la riscossione dell’imposta comporta per il contribuente non può eccedere quanto assolutamente necessario per l’applicazione della presente legge.
 
-[^65-1]: Introdotta dal n. I 2 della LF del 18 giu. 2021 sulle procedure elettroniche in ambito fiscale, in vigore dal 1° gen. 2022 ([RU 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [FF 2020 4215](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
+[^65-1]: Introdotta dal n. I 2 della LF del 18 giu. 2021 sulle procedure elettroniche in ambito fiscale, in vigore dal 1° gen. 2022 ([RU 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673);[FF 2020 4215](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
 
 #### Art. 65a
 
@@ -1392,7 +1393,7 @@ Il termine per la presentazione di una domanda è:
 
 <sup>3</sup> In caso di presentazione per via elettronica di atti scritti per i quali la legge prescrive la firma, l’AFC può riconoscere, invece della firma elettronica qualificata, un’altra modalità di conferma dei dati per via elettronica da parte del contribuente o del richiedente.
 
-[^65a-1]: Introdotto dal n. I 2 della LF del 18 giu. 2021 sulle procedure elettroniche in ambito fiscale, in vigore dal 1° gen. 2022 ([RU 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [FF 2020 4215](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
+[^65a-1]: Introdotto dal n. I 2 della LF del 18 giu. 2021 sulle procedure elettroniche in ambito fiscale, in vigore dal 1° gen. 2022 ([RU 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673);[FF 2020 4215](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
 
 ### Capitolo 2: Diritti e obblighi del contribuente
 
@@ -1844,7 +1845,7 @@ Sono fatti salvi:
 
 <sup>3</sup> L’opposizione del contribuente comporta l’apertura della procedura di rigetto. L’AFC è competente per l’eliminazione dell’opposizione.
 
-<sup>4</sup> …[^89-2]
+<sup>4</sup> ...[^89-2]
 
 <sup>5</sup> L’AFC deve indicare i crediti fiscali negli inventari pubblici o insinuarli in caso di diffida pubblica ai creditori.[^89-3]
 
@@ -1906,7 +1907,7 @@ L’AFC può condonare in tutto o in parte un’imposta accertata e passata in g
 
 <sup>5</sup> La procedura di condono dell’imposta è gratuita. Le spese possono tuttavia essere addossate in tutto o in parte al richiedente se ha presentato una domanda manifestamente infondata.
 
-<sup>6</sup> …[^92-3]
+<sup>6</sup> ...[^92-3]
 
 [^92-1]: Nuovo testo giusta il n. I della L del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 [^92-2]: [RU 2009 7129](https://fedlex.data.admin.ch/eli/oc/2009/864)
@@ -1983,13 +1984,12 @@ Chiunque, intenzionalmente o per negligenza, riduce il credito fiscale a scapito
 
 <sup>3</sup> Chiunque riduce il credito fiscale a scapito dello Stato dichiarando in modo veritiero i fattori rilevanti ai fini della determinazione dell’imposta, ma qualificandoli in modo errato sotto il profilo fiscale, è punito con la multa sino a 200 000 franchi se intenzionalmente non applica correttamente norme legali chiare, disposizioni chiare dell’autorità o prassi chiare pubblicate e non ne informa previamente per scritto l’autorità. Se ha agito per negligenza, l’autore è punito con la multa sino a 20 000 franchi.
 
-<sup>4</sup> b. non fornendo i dati richiesti o fornendo dati inveritieri o incompleti, intenzionalmente, nell’ambito di un controllo effettuato dall’autorità o di una procedura amministrativa volta a determinare il credito fiscale o il condono dell’imposta,
-
-è punito con la multa sino a 800 000 franchi.
+<sup>4</sup> è punito con la multa sino a 800 000 franchi.
 
 Chiunque riduce il credito fiscale a scapito dello Stato:
 
 - a. non dichiarando merci, dichiarandole in modo inesatto od occultandole, intenzionalmente o per negligenza, all’atto della loro importazione;
+- b. non fornendo i dati richiesti o fornendo dati inveritieri o incompleti, intenzionalmente, nell’ambito di un controllo effettuato dall’autorità o di una procedura amministrativa volta a determinare il credito fiscale o il condono dell’imposta,
 
 <sup>5</sup> Il tentativo è punibile.
 
@@ -2014,6 +2014,8 @@ In caso di circostanze aggravanti, l’importo massimo della multa comminata è 
 
 **Violazione di obblighi procedurali**
 
+è punito con la multa, purché il fatto non sia punito da un’altra disposizione che prevede una pena più elevata.
+
 Chiunque, intenzionalmente o per negligenza:
 
 - a. non si annuncia come contribuente;
@@ -2025,7 +2027,6 @@ Chiunque, intenzionalmente o per negligenza:
 - g. indica nelle fatture un ammontare d’imposta non dovuto o diverso da quello dovuto;
 - h. indicando un numero di registro, fa credere di essere iscritto nel registro dei contribuenti;
 - i. nonostante diffida, rende difficile, intralcia o rende impossibile la regolare esecuzione di un controllo,
-- [tab] è punito con la multa, purché il fatto non sia punito da un’altra disposizione che prevede una pena più elevata.
 
 #### Art. 99
 
@@ -2124,7 +2125,7 @@ Il diritto di avviare un procedimento penale si prescrive:
   - 3\. per i delitti secondo l’articolo 97 capoverso 2 e per i delitti secondo gli articoli 14–17 DPA[^105-2], in sette anni dalla fine del periodo fiscale interessato;
 
 - c.[^105-3] nell’ambito dell’imposta sull’importazione: per tutti i delitti e le contravvenzioni secondo gli articoli 96, 97 capoverso 2 e 99 nonché per i delitti secondo gli articoli 14−17 DPA, in sette anni;
-- d. ed e.[^105-4] …
+- d. ed e.[^105-4] ...
 
 <sup>2</sup> L’azione penale non si prescrive più se prima della scadenza del termine di prescrizione è pronunciata una decisione penale o una sentenza di primo grado.
 

@@ -4,11 +4,11 @@ title: "Loi fédérale du 12 juin 2009 régissant la taxe sur la valeur ajoutée
 short: LTVA
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/615"
 language: fr
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2009-06-12
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/615/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2009-615-20230901-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/615/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/615/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2009-615-20240101-fr-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/615/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/615/20230901/fr"
 
 (Loi sur la TVA, LTVA)[^t-1]
 
-du 12 juin 2009 (État le 1<sup>er</sup> septembre 2023)
+du 12 juin 2009 (État le 1<sup>er</sup> janvier 2024)
 
 [^t-1]: <sup>∗</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -488,7 +488,7 @@ Sont exclus du champ de l’impôt:
   - b. entre des sociétés de droit privé ou de droit public détenues uniquement par des collectivités publiques et les collectivités publiques qui les détiennent, ou leurs unités organisationnelles,
   - c. entre des établissements ou fondations fondés exclusivement par des collectivités publiques et les collectivités publiques qui ont participé à leur fondation, ou leurs unités organisationnelles;
 
-- [tab] 28<sup>bis</sup>.[^21-19] la mise à disposition de personnel entre collectivités publiques;
+- 28<sup>bis</sup>.[^21-19] la mise à disposition de personnel entre collectivités publiques;
 - 29\. l’exercice de fonctions d’arbitrage;
 - 30\.[^21-20] les prestations que se fournissent entre elles des institutions de formation et de recherche participant à une coopération dans le domaine de la formation et de la recherche, dans la mesure où les prestations sont fournies dans le cadre de la coopération, que cette coopération soit assujettie à la TVA ou non.
 
@@ -632,11 +632,11 @@ N’entrent pas dans la base de calcul de l’impôt:
 
 **Taux de l’impôt**
 
-<sup>1</sup> Le taux de l’impôt est de 7,7 % (taux normal);[^25-1] les al. 2 et 3 sont réservés.
+<sup>1</sup> Le taux de l’impôt est de 8,1 % (taux normal); les al. 2 et 3 sont réservés.[^25-1]
 
 <sup>2</sup>
 
-Le taux réduit de 2,5 % est appliqué:[^25-2]
+Le taux réduit de 2,6 % est appliqué:[^25-2]
 
 - a.
 
@@ -659,17 +659,18 @@ Le taux réduit de 2,5 % est appliqué:[^25-2]
 
 <sup>3</sup> Le taux normal est applicable aux denrées alimentaires remises dans le cadre des prestations de la restauration. La remise de denrées alimentaires est considérée comme une prestation de la restauration lorsque l’assujetti les prépare ou les sert chez des clients ou qu’il tient à la disposition des clients des installations particulières pour leur consommation sur place. Lorsque des denrées alimentaires, à l’exclusion des boissons alcooliques, sont destinées à être emportées ou livrées, le taux réduit est applicable si des mesures appropriées d’ordre organisationnel ont été prises afin de distinguer ces prestations de celles de la restauration; en l’absence de telles mesures, le taux normal s’applique. Lorsque des denrées alimentaires, à l’exclusion des boissons alcooliques, sont offertes dans des automates, le taux réduit s’applique.[^25-6]
 
-<sup>4</sup> Le taux de l’impôt grevant les prestations du secteur de l’hébergement (taux spécial) est fixé à 3,7 %. Le taux spécial est appliqué jusqu’au 31 décembre 2020 ou, pour autant que le délai prévu à l’art. 196, ch. 14, al. 1, de la Constitution, soit prolongé, jusqu’au 31 décembre 2027 au plus tard. Par prestation du secteur de l’hébergement, on entend le logement avec petit-déjeuner, même si celui-ci est facturé séparément.[^25-7]
+<sup>4</sup> Le taux de l’impôt grevant les prestations du secteur de l’hébergement (taux spécial) est fixé à 3,8 %.[^25-7] Le taux spécial est appliqué jusqu’au 31 décembre 2020 ou, pour autant que le délai prévu à l’art. 196, ch. 14, al. 1, de la Constitution, soit prolongé, jusqu’au 31 décembre 2027 au plus tard. Par prestation du secteur de l’hébergement, on entend le logement avec petit-déjeuner, même si celui-ci est facturé séparément.[^25-8]
 
 <sup>5</sup> Le Conseil fédéral précise les biens et les services qui relèvent de l’al. 2 en tenant compte de la neutralité concurrentielle.
 
-[^25-1]: Nouvelle teneur selon le ch. I de l’O du 8 nov. 2017 concernant le relèvement temporaire des taux de la TVA pour le financement de l’aménagement de l’infrastructure ferroviaire, en vigueur du 1<sup>er</sup> janv. 2018 au 31 déc. 2030 au plus tard ([RO 2017 6305](https://fedlex.data.admin.ch/eli/oc/2017/695)).
-[^25-2]: Nouvelle teneur selon le ch. I de l’O du 8 nov. 2017 concernant le relèvement temporaire des taux de la TVA pour le financement de l’aménagement de l’infrastructure ferroviaire, en vigueur du 1<sup>er</sup> janv. 2018 au 31 déc. 2030 au plus tard ([RO 2017 6305](https://fedlex.data.admin.ch/eli/oc/2017/695)).
+[^25-1]: Nouvelle teneur selon le ch. I de l’O du 9 déc. 2022 concernant le relèvement des taux de la taxe sur la valeur ajoutée pour le financement additionnel de l’AVS, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 863](https://fedlex.data.admin.ch/eli/oc/2022/863)).
+[^25-2]: Nouvelle teneur selon le ch. I de l’O du 9 déc. 2022 concernant le relèvement des taux de la taxe sur la valeur ajoutée pour le financement additionnel de l’AVS, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 863](https://fedlex.data.admin.ch/eli/oc/2022/863)).
 [^25-3]: Nouvelle teneur selon l’annexe ch. II 3 de la L du 20 juin 2014 sur les denrées alimentaires, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62); [FF 2011 5181](https://fedlex.data.admin.ch/eli/fga/2011/853)).
 [^25-4]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
 [^25-5]: Introduite par le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2467](https://fedlex.data.admin.ch/eli/fga/2015/541)).
 [^25-6]: Nouvelle teneur selon le ch. IV de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2467](https://fedlex.data.admin.ch/eli/fga/2015/541)).
-[^25-7]: Nouvelle teneur selon le ch. II 1 de la LF du 16 juin 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7667](https://fedlex.data.admin.ch/eli/oc/2017/838); [FF 2017 3251](https://fedlex.data.admin.ch/eli/fga/2017/779)[3267](https://fedlex.data.admin.ch/eli/fga/2017/781)).
+[^25-7]: Nouvelle teneur selon le ch. I de l’O du 9 déc. 2022 concernant le relèvement des taux de la taxe sur la valeur ajoutée pour le financement additionnel de l’AVS, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 863](https://fedlex.data.admin.ch/eli/oc/2022/863)).
+[^25-8]: Nouvelle teneur selon le ch. II 1 de la LF du 16 juin 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7667](https://fedlex.data.admin.ch/eli/oc/2017/838); [FF 2017 3251](https://fedlex.data.admin.ch/eli/fga/2017/779)[3267](https://fedlex.data.admin.ch/eli/fga/2017/781)).
 
 ### Chapitre 4 Facturation et mention de l’impôt
 
@@ -728,11 +729,11 @@ Sous réserve des art. 29 et 33, l’assujetti peut déduire les impôts préala
 - b. l’impôt qu’il a déclaré sur ses acquisitions (art. 45 à 49);
 - c. l’impôt sur les importations acquitté ou dû dont la créance est ferme ou dont la créance conditionnelle est échue, ainsi que l’impôt qu’il a déclaré sur ses importations (art. 52 et 63).
 
-<sup>2</sup> L’assujetti qui a acquis chez un agriculteur, un sylviculteur, un horticulteur, un marchand de bétail ou dans un centre collecteur de lait non assujetti des produits agricoles, sylvicoles ou horticoles, du bétail ou du lait qu’il utilise dans le cadre de son activité entrepreneuriale donnant droit à la déduction de l’impôt préalable peut déduire, au titre de l’impôt préalable, 2,5 % du montant qui lui a été facturé.[^28-1]
+<sup>2</sup> L’assujetti qui a acquis chez un agriculteur, un sylviculteur, un horticulteur, un marchand de bétail ou dans un centre collecteur de lait non assujetti des produits agricoles, sylvicoles ou horticoles, du bétail ou du lait qu’il utilise dans le cadre de son activité entrepreneuriale donnant droit à la déduction de l’impôt préalable peut déduire, au titre de l’impôt préalable, 2,6 % du montant qui lui a été facturé.[^28-1]
 
 <sup>3</sup> L’assujetti peut déduire l’impôt préalable selon l’al. 1 pour autant qu’il prouve l’avoir réglé.[^28-2]
 
-[^28-1]: Nouvelle teneur selon le ch. I de l’O du 8 nov. 2017 concernant le relèvement temporaire des taux de la TVA pour le financement de l’aménagement de l’infrastructure ferroviaire, en vigueur du 1<sup>er</sup> janv. 2018 au 31 déc. 2030 au plus tard ([RO 2017 6305](https://fedlex.data.admin.ch/eli/oc/2017/695)).
+[^28-1]: Nouvelle teneur selon le ch. I de l’O du 9 déc. 2022 concernant le relèvement des taux de la taxe sur la valeur ajoutée pour le financement additionnel de l’AVS, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 863](https://fedlex.data.admin.ch/eli/oc/2022/863)).
 [^28-2]: Anciennement al. 4. Ancien al. 3 abrogé par le ch. I de la LF du 30 sept. 2016, avec effet au 1<sup>er</sup> janv. 2018 ([RO 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2467](https://fedlex.data.admin.ch/eli/fga/2015/541)).
 
 #### Art. 28a
@@ -859,7 +860,7 @@ Au cours de la période fiscale, le décompte d’impôt est effectué:
 
 **Décompte selon les méthodes des taux de la dette fiscale nette et des taux forfaitaires**
 
-<sup>1</sup> Tout assujetti dont le chiffre d’affaires annuel n’excède pas 5 005 000 francs provenant de prestations imposables et dont le montant d’impôt – calculé au taux de la dette fiscale nette déterminant pour lui – n’excède pas 103 000 francs pour la même période peut arrêter son décompte au moyen de la méthode des taux de la dette fiscale nette.[^37-1]
+<sup>1</sup> Tout assujetti dont le chiffre d’affaires annuel n’excède pas 5 024 000 francs provenant de prestations imposables et dont le montant d’impôt – calculé au taux de la dette fiscale nette déterminant pour lui – n’excède pas 108 000 francs pour la même période peut arrêter son décompte au moyen de la méthode des taux de la dette fiscale nette.[^37-1]
 
 <sup>2</sup> Lorsque le décompte est arrêté au moyen de la méthode des taux de la dette fiscale nette, l’assujetti détermine la créance fiscale en multipliant la somme des contre-prestations imposables (impôt inclus) réalisées au cours de la période de décompte par le taux de la dette fiscale nette autorisé par l’AFC.
 
@@ -869,7 +870,7 @@ Au cours de la période fiscale, le décompte d’impôt est effectué:
 
 <sup>5</sup> Les collectivités publiques et les institutions analogues, notamment les cliniques, les écoles privées, les entreprises de transport concessionnaires ou les associations et les fondations peuvent effectuer leurs décomptes selon la méthode des taux forfaitaires. Le Conseil fédéral règle les modalités.
 
-[^37-1]: Nouvelle teneur selon le ch. I de l’O du 8 nov. 2017 concernant le relèvement temporaire des taux de la TVA pour le financement de l’aménagement de l’infrastructure ferroviaire, en vigueur du 1<sup>er</sup> janv. 2018 au 31 déc. 2030 au plus tard ([RO 2017 6305](https://fedlex.data.admin.ch/eli/oc/2017/695)).
+[^37-1]: Nouvelle teneur selon le ch. I de l’O du 9 déc. 2022 concernant le relèvement des taux de la taxe sur la valeur ajoutée pour le financement additionnel de l’AVS, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 863](https://fedlex.data.admin.ch/eli/oc/2022/863)).
 [^37-2]: Nouvelle teneur de la phrase selon le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2467](https://fedlex.data.admin.ch/eli/fga/2015/541)).
 
 #### Art. 38
@@ -1160,11 +1161,11 @@ Pour autant qu’ils n’y soient pas déjà inclus, les éléments suivants doi
 
 **Taux de l’impôt**[^55-1]
 
-<sup>1</sup> Le taux de l’impôt sur les importations est de 7,7 %, sous réserve de l’al. 2.
+<sup>1</sup> Le taux de l’impôt sur les importations est de 8,1 %, sous réserve de l’al. 2.
 
-<sup>2</sup> Il est de 2,5 % sur l’importation des biens visés à l’art. 25, al. 2, let. a et a<sup>bis</sup>.
+<sup>2</sup> Il est de 2,6 % sur l’importation des biens visés à l’art. 25, al. 2, let. a et a<sup>bis</sup>.
 
-[^55-1]: Nouvelle teneur selon le ch. I de l’O du 8 nov. 2017 concernant le relèvement temporaire des taux de la TVA pour le financement de l’aménagement de l’infrastructure ferroviaire, en vigueur du 1<sup>er</sup> janv. 2018 au 31 déc. 2030 au plus tard ([RO 2017 6305](https://fedlex.data.admin.ch/eli/oc/2017/695)).
+[^55-1]: Nouvelle teneur selon le ch. I de l’O du 9 déc. 2022 concernant le relèvement des taux de la taxe sur la valeur ajoutée pour le financement additionnel de l’AVS, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 863](https://fedlex.data.admin.ch/eli/oc/2022/863)).
 
 #### Art. 56
 

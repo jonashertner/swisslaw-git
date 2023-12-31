@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 12. Juni 2009 über die Mehrwertsteuer (Mehrwertsteuerg
 short: MWSTG
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/615"
 language: de
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2009-06-12
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/615/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2009-615-20230901-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/615/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/615/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2009-615-20240101-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/615/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/615/20230901/de"
 
 (Mehrwertsteuergesetz, MWSTG)
 
-vom 12. Juni 2009 (Stand am 1. September 2023)
+vom 12. Juni 2009 (Stand am 1. Januar 2024)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -486,7 +486,7 @@ Von der Steuer ausgenommen sind:
   - b. zwischen privat- oder öffentlich-rechtlichen Gesellschaften, an denen ausschliesslich Gemeinwesen beteiligt sind, und den an der Gesellschaft beteiligten Gemeinwesen und deren Organisationseinheiten,
   - c. zwischen Anstalten oder Stiftungen, die ausschliesslich von Gemeinwesen gegründet wurden, und den an der Gründung beteiligten Gemeinwesen und deren Organisationseinheiten;
 
-- [tab] 28<sup>bis</sup>.[^21-17] das Zurverfügungstellen von Personal durch Gemeinwesen an andere Gemeinwesen;
+- 28<sup>bis</sup>.[^21-17] das Zurverfügungstellen von Personal durch Gemeinwesen an andere Gemeinwesen;
 - 29\. die Ausübung von Funktionen der Schiedsgerichtsbarkeit;
 - 30\.[^21-18] Leistungen zwischen Bildungs- und Forschungsinstitutionen, die an einer Bildungs- und Forschungskooperation beteiligt sind, sofern sie im Rahmen der Kooperation erfolgen, unabhängig davon, ob die Bildungs- und Forschungskooperation als Mehrwertsteuersubjekt auftritt.
 
@@ -624,11 +624,11 @@ Nicht in die Bemessungsgrundlage einbezogen werden:
 
 **Steuersätze**
 
-<sup>1</sup> Die Steuer beträgt 7,7 Prozent (Normalsatz);[^25-1] vorbehalten bleiben die Absätze 2 und 3.
+<sup>1</sup> Die Steuer beträgt 8,1 Prozent (Normalsatz); vorbehalten bleiben die Absätze 2 und 3.[^25-1]
 
 <sup>2</sup>
 
-Der reduzierte Steuersatz von 2,5 Prozent findet Anwendung:[^25-2]
+Der reduzierte Steuersatz von 2,6 Prozent findet Anwendung:[^25-2]
 
 - a.
 
@@ -651,17 +651,18 @@ Der reduzierte Steuersatz von 2,5 Prozent findet Anwendung:[^25-2]
 
 <sup>3</sup> Für Lebensmittel, die im Rahmen von gastgewerblichen Leistungen abgegeben werden, gilt der Normalsatz. Als gastgewerbliche Leistung gilt die Abgabe von Lebensmitteln, wenn die steuerpflichtige Person sie beim Kunden oder bei der Kundin zubereitet beziehungsweise serviert oder wenn sie für deren Konsum an Ort und Stelle besondere Vorrichtungen bereithält. Sind Lebensmittel, mit Ausnahme alkoholischer Getränke, zum Mitnehmen oder zur Auslieferung bestimmt, so findet der reduzierte Steuersatz Anwendung, sofern geeignete organisatorische Massnahmen zur Abgrenzung dieser Leistungen von den gastgewerblichen Leistungen getroffen worden sind; andernfalls gilt der Normalsatz. Werden Lebensmittel, mit Ausnahme alkoholischer Getränke, in Verpflegungsautomaten angeboten, so findet der reduzierte Steuersatz Anwendung.[^25-6]
 
-<sup>4</sup> Die Steuer auf Beherbergungsleistungen beträgt 3,7 Prozent (Sondersatz). Der Sondersatz gilt bis zum 31. Dezember 2020 oder, sofern die Frist nach Artikel 196 Ziffer 14 Absatz 1 Bundesverfassung verlängert wird, bis längstens zum 31. Dezember 2027. Als Beherbergungsleistung gilt die Gewährung von Unterkunft einschliesslich der Abgabe eines Frühstücks, auch wenn dieses separat berechnet wird.[^25-7]
+<sup>4</sup> Die Steuer auf Beherbergungsleistungen beträgt 3,8 Prozent (Sondersatz).[^25-7] Der Sondersatz gilt bis zum 31. Dezember 2020 oder, sofern die Frist nach Artikel 196 Ziffer 14 Absatz 1 Bundesverfassung verlängert wird, bis längstens zum 31. Dezember 2027. Als Beherbergungsleistung gilt die Gewährung von Unterkunft einschliesslich der Abgabe eines Frühstücks, auch wenn dieses separat berechnet wird.[^25-8]
 
 <sup>5</sup> Der Bundesrat bestimmt die in Absatz 2 bezeichneten Gegenstände und Dienstleistungen näher; dabei beachtet er das Gebot der Wettbewerbsneutralität.
 
-[^25-1]: Fassung des ersten Teilsatzes gemäss Ziff. I der V vom 8. Nov. 2017 über die befristete Anhebung der Mehrwertsteuersätze zur Finanzierung des Ausbaus der Eisenbahninfrastruktur, in Kraft vom 1. Jan. 2018, längstens bis zum 31. Dez. 2030 ([AS 2017 6305](https://fedlex.data.admin.ch/eli/oc/2017/695)).
-[^25-2]: Fassung gemäss Ziff. I der V vom 8. Nov. 2017 über die befristete Anhebung der Mehrwertsteuersätze zur Finanzierung des Ausbaus der Eisenbahninfrastruktur, in Kraft vom 1. Jan. 2018, längstens bis zum 31. Dez. 2030 ([AS 2017 6305](https://fedlex.data.admin.ch/eli/oc/2017/695)).
+[^25-1]: Fassung gemäss Ziff. I der V vom 9. Dez. 2022 über die Anhebung der Mehrwertsteuer- sätze zur Zusatzfinanzierung der AHV, in Kraft seit 1. Jan. 2024 ([AS 2022 863](https://fedlex.data.admin.ch/eli/oc/2022/863)).
+[^25-2]: Fassung gemäss Ziff. I der V vom 9. Dez. 2022 über die Anhebung der Mehrwertsteuer- sätze zur Zusatzfinanzierung der AHV, in Kraft seit 1. Jan. 2024 ([AS 2022 863](https://fedlex.data.admin.ch/eli/oc/2022/863)).
 [^25-3]: Fassung gemäss Anhang Ziff. II 3 des Lebensmittelgesetzes vom 20. Juni 2014, in Kraft seit 1. Mai 2017 ([AS 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62); [BBl 2011 5571](https://fedlex.data.admin.ch/eli/fga/2011/853)).
 [^25-4]: [SR 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
 [^25-5]: Eingefügt durch Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 [^25-6]: Fassung gemäss Ziff. IV des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^25-7]: Fassung gemäss Ziff. II 1 des BG vom 16. Juni 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7667](https://fedlex.data.admin.ch/eli/oc/2017/838); [BBl 2017 3429](https://fedlex.data.admin.ch/eli/fga/2017/779)[3443](https://fedlex.data.admin.ch/eli/fga/2017/781)).
+[^25-7]: Fassung gemäss Ziff. I der V vom 9. Dez. 2022 über die Anhebung der Mehrwertsteuer- sätze zur Zusatzfinanzierung der AHV, in Kraft seit 1. Jan. 2024 ([AS 2022 863](https://fedlex.data.admin.ch/eli/oc/2022/863)).
+[^25-8]: Fassung gemäss Ziff. II 1 des BG vom 16. Juni 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7667](https://fedlex.data.admin.ch/eli/oc/2017/838); [BBl 2017 3429](https://fedlex.data.admin.ch/eli/fga/2017/779)[3443](https://fedlex.data.admin.ch/eli/fga/2017/781)).
 
 ### 4. Kapitel: Rechnungsstellung und Steuerausweis
 
@@ -720,11 +721,11 @@ Die steuerpflichtige Person kann im Rahmen ihrer unternehmerischen Tätigkeit, u
 - b. die von ihr deklarierte Bezugsteuer (Art. 45–49);
 - c. die von ihr entrichtete oder zu entrichtende Einfuhrsteuer, die mit unbedingter Forderung veranlagt wurde oder die mit bedingter Forderung veranlagt wurde und fällig geworden ist, sowie die von ihr für die Einfuhr von Gegenständen deklarierte Steuer (Art. 52 und 63).
 
-<sup>2</sup> Hat die steuerpflichtige Person bei nicht steuerpflichtigen Landwirten und Landwirtinnen, Forstwirten und Forstwirtinnen, Gärtnern und Gärtnerinnen, Viehhändlern und Viehhändlerinnen und Milchsammelstellen Erzeugnisse der Landwirtschaft, der Forstwirtschaft, der Gärtnerei, Vieh oder Milch im Rahmen ihrer zum Vorsteuerabzug berechtigenden unternehmerischen Tätigkeit bezogen, so kann sie als Vorsteuer 2,5 Prozent des ihr in Rechnung gestellten Betrags abziehen.[^28-1]
+<sup>2</sup> Hat die steuerpflichtige Person bei nicht steuerpflichtigen Landwirten und Landwirtinnen, Forstwirten und Forstwirtinnen, Gärtnern und Gärtnerinnen, Viehhändlern und Viehhändlerinnen und Milchsammelstellen Erzeugnisse der Landwirtschaft, der Forstwirtschaft, der Gärtnerei, Vieh oder Milch im Rahmen ihrer zum Vorsteuerabzug berechtigenden unternehmerischen Tätigkeit bezogen, so kann sie als Vorsteuer 2,6 Prozent des ihr in Rechnung gestellten Betrags abziehen.[^28-1]
 
 <sup>3</sup> Der Abzug der Vorsteuer nach Absatz 1 ist zulässig, wenn die steuerpflichtige Person nachweist, dass sie die Vorsteuer bezahlt hat.[^28-2]
 
-[^28-1]: Fassung gemäss Ziff. I der V vom 8. Nov. 2017 über die befristete Anhebung der Mehrwertsteuersätze zur Finanzierung des Ausbaus der Eisenbahninfrastruktur, in Kraft vom 1. Jan. 2018, längstens bis zum 31. Dez. 2030 ([AS 2017 6305](https://fedlex.data.admin.ch/eli/oc/2017/695)).
+[^28-1]: Fassung gemäss Ziff. I der V vom 9. Dez. 2022 über die Anhebung der Mehrwertsteuer- sätze zur Zusatzfinanzierung der AHV, in Kraft seit 1. Jan. 2024 ([AS 2022 863](https://fedlex.data.admin.ch/eli/oc/2022/863)).
 [^28-2]: Ursprünglich: Abs. 4. Ursprünglicher Abs. 3 aufgehoben durch Ziff. I des BG vom 30. Sept. 2016, mit Wirkung seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 
 #### Art. 28a
@@ -851,7 +852,7 @@ Innerhalb der Steuerperiode erfolgt die Abrechnung der Steuer:
 
 **Abrechnung nach Saldo- und nach Pauschalsteuersätzen**
 
-<sup>1</sup> Wer als steuerpflichtige Person jährlich nicht mehr als 5 005 000 Franken Umsatz aus steuerbaren Leistungen erzielt und im gleichen Zeitraum nicht mehr als 103 000 Franken Steuern, berechnet nach dem für sie massgebenden Saldosteuersatz, zu bezahlen hat, kann nach der Saldosteuersatzmethode abrechnen.[^37-1]
+<sup>1</sup> Wer als steuerpflichtige Person jährlich nicht mehr als 5 024 000 Franken Umsatz aus steuerbaren Leistungen erzielt und im gleichen Zeitraum nicht mehr als 108 000 Franken Steuern, berechnet nach dem für sie massgebenden Saldosteuersatz, zu bezahlen hat, kann nach der Saldosteuersatzmethode abrechnen.[^37-1]
 
 <sup>2</sup> Bei Anwendung der Saldosteuersatzmethode wird die Steuerforderung durch Multiplikation des Totals aller in einer Abrechnungsperiode erzielten steuerbaren Entgelte, einschliesslich Steuer, mit dem von der ESTV bewilligten Saldosteuersatz ermittelt.
 
@@ -861,7 +862,7 @@ Innerhalb der Steuerperiode erfolgt die Abrechnung der Steuer:
 
 <sup>5</sup> Gemeinwesen und verwandte Einrichtungen, namentlich private Spitäler und Schulen oder konzessionierte Transportunternehmungen, sowie Vereine und Stiftungen können nach der Pauschalsteuersatzmethode abrechnen. Der Bundesrat regelt die Einzelheiten.
 
-[^37-1]: Fassung gemäss Ziff. I der V vom 8. Nov. 2017 über die befristete Anhebung der Mehrwertsteuersätze zur Finanzierung des Ausbaus der Eisenbahninfrastruktur, in Kraft vom 1. Jan. 2018, längstens bis zum 31. Dez. 2030 ([AS 2017 6305](https://fedlex.data.admin.ch/eli/oc/2017/695)).
+[^37-1]: Fassung gemäss Ziff. I der V vom 9. Dez. 2022 über die Anhebung der Mehrwertsteuer- sätze zur Zusatzfinanzierung der AHV, in Kraft seit 1. Jan. 2024 ([AS 2022 863](https://fedlex.data.admin.ch/eli/oc/2022/863)).
 [^37-2]: Fassung des zweiten Satzes gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 
 #### Art. 38
@@ -1154,11 +1155,11 @@ In die Bemessungsgrundlage sind einzubeziehen, soweit nicht bereits darin enthal
 
 **Steuersätze**[^55-1]
 
-<sup>1</sup> Die Steuer auf der Einfuhr von Gegenständen beträgt 7,7 Prozent; vorbehalten bleibt Absatz 2.
+<sup>1</sup> Die Steuer auf der Einfuhr von Gegenständen beträgt 8,1 Prozent; vorbehalten bleibt Absatz 2.
 
-<sup>2</sup> Auf der Einfuhr von Gegenständen nach Artikel 25 Absatz 2 Buchstaben a und a<sup>bis</sup> beträgt die Steuer 2,5 Prozent.
+<sup>2</sup> Auf der Einfuhr von Gegenständen nach Artikel 25 Absatz 2 Buchstaben a und a<sup>bis</sup> beträgt die Steuer 2,6 Prozent.
 
-[^55-1]: Fassung gemäss Ziff. I der V vom 8. Nov. 2017 über die befristete Anhebung der Mehrwertsteuersätze zur Finanzierung des Ausbaus der Eisenbahninfrastruktur, in Kraft vom 1. Jan. 2018, längstens bis zum 31. Dez. 2030 ([AS 2017 6305](https://fedlex.data.admin.ch/eli/oc/2017/695)).
+[^55-1]: Fassung gemäss Ziff. I der V vom 9. Dez. 2022 über die Anhebung der Mehrwertsteuer- sätze zur Zusatzfinanzierung der AHV, in Kraft seit 1. Jan. 2024 ([AS 2022 863](https://fedlex.data.admin.ch/eli/oc/2022/863)).
 
 #### Art. 56
 
@@ -1956,9 +1957,11 @@ Mit Busse bis zu 800 000 Franken wird bestraft, wer die Steuerforderung zulasten
 
 **Strafzumessung und qualifizierte Steuerhinterziehung**
 
-1 Die Busse wird in Anwendung von Artikel 106 Absatz 3 des Strafgesetzbuches[^97-1] (StGB) bemessen; dabei kann Artikel 34 StGB sinngemäss herangezogen werden. Sofern der durch die Tat erzielte Steuervorteil höher ist als die Strafdrohung, kann die Busse bei vorsätzlicher Begehung bis zum Doppelten des Steuervorteils erhöht werden.
+<sup>1</sup> Die Busse wird in Anwendung von Artikel 106 Absatz 3 des Strafgesetzbuches[^97-1] (StGB) bemessen; dabei kann Artikel 34 StGB sinngemäss herangezogen werden. Sofern der durch die Tat erzielte Steuervorteil höher ist als die Strafdrohung, kann die Busse bei vorsätzlicher Begehung bis zum Doppelten des Steuervorteils erhöht werden.
 
-2 Bei erschwerenden Umständen wird das Höchstmass der angedrohten Busse um die Hälfte erhöht. Zugleich kann auf eine Freiheitsstrafe von bis zu zwei Jahren erkannt werden. Als erschwerende Umstände gelten:
+<sup>2</sup>
+
+Bei erschwerenden Umständen wird das Höchstmass der angedrohten Busse um die Hälfte erhöht. Zugleich kann auf eine Freiheitsstrafe von bis zu zwei Jahren erkannt werden. Als erschwerende Umstände gelten:
 
 - a. das Anwerben einer oder mehrerer Personen für eine Widerhandlung gegen das Mehrwertsteuerrecht;
 - b. das gewerbsmässige Verüben von Widerhandlungen gegen das Mehrwertsteuerrecht.
