@@ -4,7 +4,7 @@ number: "916.125.2"
 title: RÈGLEMENT du 27.05.2009 sur les vins vaudois (RVV)
 short: RVV
 language: fr
-version: 2021-04-01
+version: 2024-01-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/916.125.2?id=b58c3698-5558-41cf-beba-72e8ff39a804"
 ---
 
@@ -390,9 +390,9 @@ Chasselas 15,7 (64° Oe) Autres blancs 17,0 (70° Oe) Pinot noir 18,2 (75° Oe) 
 
 #### Art. 22
 
-**Désignation des appellations d'origine contrôlée [^chapterChapitreVII-1]**
+**Désignation des appellations d'origine contrôlée (AOC) [^chapterChapitreVII-1]**
 
-<sup>1</sup> La mention "Appellation d'origine contrôlée" doit figurer en toutes lettres sur l'étiquette.
+<sup>1</sup> La mention « Appellation d'origine contrôlée » et/ou son acronyme « AOC » doit figurer sur l'étiquette.
 
 [^chapterChapitreVII-1]: Modif. 9 du 29.11.2023: Modification tArt; entrée en vigueur au 01.01.2024; Modification Al. 1; entrée en vigueur au 01.01.2024
 
@@ -422,7 +422,7 @@ Chasselas 15,7 (64° Oe) Autres blancs 17,0 (70° Oe) Pinot noir 18,2 (75° Oe) 
 
 <sup>2</sup> En cas de mention de plusieurs cépages, ceux-ci doivent être énumérés dans l'ordre d'importance pondérale décroissant.
 
-<sup>3</sup> L'ensemble des cépages mentionnés doit représenter au moins 85% de l'ssemblage.
+<sup>3</sup> L'ensemble des cépages mentionnés doit représenter au moins 85% de l'assemblage.
 
 <sup>4</sup> La mention d'un cépage n'est autorisée que s'il représente au moins 15% de l'assemblage, à l'exception des vins du Vully, pour lesquels cette proportion peut être inférieure.
 
@@ -927,6 +927,6 @@ Annexes [^62-1]
 
 1
 
-[Liste des cépages\_2018](https://prestations.vd.ch/pub/blv-publication/api/actes/b58c3698-5558-41cf-beba-72e8ff39a804/annexes/1?dmev=01.04.2021)
+[Liste des cépages\_2018](https://prestations.vd.ch/pub/blv-publication/api/actes/b58c3698-5558-41cf-beba-72e8ff39a804/annexes/1?dmev=01.01.2024)
 
 [^62-1]: Modif. 3 du 20.03.2013: Modification Ann; entrée en vigueur au 01.08.2012 · Modif. 4 du 28.06.2013: Modification Ann; entrée en vigueur au 01.07.2013 · Modif. 7 du 13.07.2018: Modification Ann; entrée en vigueur au 13.07.2018
