@@ -3,20 +3,20 @@ canton: FR
 number: "822.0.37"
 title: Verordnung über die Referenztarife der Spitäler und Geburtshäuser
 language: de
-version: 2022-01-01
-valid_until: 2023-12-31
-version_adopted: 2021-12-07
+version: 2024-01-01
+valid_until: 2024-12-31
+version_adopted: 2023-11-14
 adopted: 2026-01-13
 in_force: 2026-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/822.0.37"
-pdf: "https://bdlf.fr.ch/api/de/versions/7473/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7856/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Referenztarife der Spitäler und Geburtshäuser
 
-vom 07.12.2021 (Fassung in Kraft getreten am 01.01.2022)
+vom 14.11.2023 (Fassung in Kraft getreten am 01.01.2024)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -24,11 +24,11 @@ gestützt auf das Bundesgesetz vom 18. März 1994 über die Krankenversicherung 
 
 in Erwägung:
 
-Nach Artikel 41 Abs. 1bis, 2. Satz KVG müssen der Versicherer und der Wohnkanton bei stationärer Behandlung aus persönlichen Gründen in einem ausserkantonalen Listenspital die Vergütung anteilsmässig gemäss Artikel 49a KVG höchstens nach dem Tarif übernehmen, der in einem Listenspital des Wohnkantons für die betreffende Behandlung gilt.
+Nach Artikel 41 Abs. 1<sup>bis</sup>, 2. Satz, KVG müssen der Versicherer und der Wohnkanton bei stationärer Behandlung aus persönlichen Gründen in einem ausserkantonalen Listenspital die Vergütung anteilsmässig gemäss Artikel 49a KVG höchstens nach dem Tarif übernehmen, der in einem Listenspital des Wohnkantons für die betreffende Behandlung gilt.
 
 Deshalb müssen Referenztarife festgelegt werden.
 
-Aufgrund der Anpassung der Parameter, auf denen die Berechnung der Referenztarife beruht, und im Hinblick auf die Einführung der neuen, schweizweit einheitlichen Tarifstruktur ST Reha in der Rehabilitation werden sowohl der Referenztarif (Baserate) für Leistungen, die von einem Spital oder Geburtshaus des Kantons Freiburg, das in der Freiburger Spitalliste aufgeführt ist, erbracht werden können, als auch die Tarife für die Rehabilitation angepasst.
+Aufgrund der Anpassung der Parameter, auf denen die Berechnung der Referenztarife beruht, werden sowohl der Referenztarif (Baserate) für Leistungen, die von einem Spital oder Geburtshaus des Kantons Freiburg, das in der Freiburger Spitalliste verzeichnet ist, erbracht werden können, als auch die Tarife für die Rehabilitation angepasst.
 
 Auf Antrag der Direktion für Gesundheit und Soziales,
 
@@ -36,29 +36,29 @@ beschliesst:
 
 #### Art. 1
 
-<sup>1</sup> Die Referenztarife (Baserates) gemäss Artikel 41 Abs. 1bis, 2. Satz KVG für akutsomatische Spitalaufenthalte werden wie folgt festgesetzt:
+<sup>1</sup> Die Referenztarife (Baserates) gemäss Artikel 41 Abs. 1<sup>bis</sup>, 2. Satz, KVG für akutsomatische Spitalaufenthalte werden wie folgt festgesetzt:
 
-- a) Leistungen, die von einem Spital oder Geburtshaus des Kantons Freiburg, das in der Freiburger Spitalliste aufgeführt ist, erbracht werden können — Fr. 9'105.–
-- b) alle übrigen Leistungen — Fr. 10'650.–
+- a) Leistungen, die von einem Spital oder Geburtshaus des Kantons Freiburg, das in der Freiburger Spitalliste verzeichnet ist, erbracht werden können: Fr. 9146
+- b) alle übrigen Leistungen: Fr. 10'650
 
 #### Art. 2
 
-<sup>1</sup> Der Referenztarif (Baserate) gemäss Artikel 41 Abs. 1bis, 2. Satz KVG für nicht akutsomatische Spitalaufenthalte wird wie folgt festgesetzt:
+<sup>1</sup> Der Referenztarif (Baserate) gemäss Artikel 41 Abs. 1<sup>bis</sup>, 2. Satz, KVG für nicht akutsomatische Spitalaufenthalte wird wie folgt festgesetzt:
 
-- a) Rehabilitation (ausser paraplegische Rehabilitation und Frührehabilitation, für welche der geltende Tarif gemäss KVG des Leistungserbringers angewendet wird) — Fr. 680.–
+- a) Rehabilitation (ausser paraplegische Rehabilitation, für welche der geltende Tarif gemäss KVG des Leistungserbringers angewendet wird): Fr. 645
 
 #### Art. 3
 
-<sup>1</sup> Der Referenztarif (Baserate) gemäss Artikel 41 Abs. 1bis, 2. Satz KVG für psychiatrische Spitalaufenthalte wird wie folgt festgesetzt:
+<sup>1</sup> Der Referenztarif (Baserate) gemäss Artikel 41 Abs. 1<sup>bis</sup>, 2. Satz, KVG für psychiatrische Spitalaufenthalte wird wie folgt festgesetzt:
 
-- a) Psychiatrie — Fr. 680.–
+- a) Psychiatrie: Fr. 680
 
 #### Art. 4
 
-<sup>1</sup> Der Referenztarif ist ein Höchsttarif. Er wird nur dann angewandt, wenn der Tarif des ausserkantonalen Spitals oder Geburtshauses mindestens so hoch ist wie der Referenztarif. Ist der Tarif der ausserkantonalen Einrichtung tiefer als der Referenztarif, so wird der Tarif der entsprechenden Einrichtung angewandt.
+<sup>1</sup> Der Referenztarif ist ein Höchsttarif. Er wird nur dann angewandt, wenn der Tarif des ausserkantonalen Spitals oder Geburtshauses mindestens so hoch ist wie der Referenztarif. Ist der Tarif der ausserkantonalen Einrichtung tiefer als der Referenztarif, so wird der Tarif der Einrichtung angewandt.
 
 #### Art. 5
 
 <sup>1</sup> Die Referenztarife können jederzeit geändert werden. Rückwirkende Änderungen und finanzielle Ausgleiche sind jedoch ausgeschlossen.
 
-2021\_169
+2023\_098
