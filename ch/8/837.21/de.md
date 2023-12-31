@@ -4,11 +4,11 @@ title: Verordnung vom 11. Juni 2021 über Überbrückungsleistungen für ältere
 short: ÜLV
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/376"
 language: de
-version: 2023-01-01
+version: 2024-01-01
 adopted: 2021-06-11
 in_force: 2021-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/376/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2021-376-20230101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/376/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/376/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2021-376-20240101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/376/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/376/20230101/de"
 
 (ÜLV)
 
-vom 11. Juni 2021 (Stand am 1. Januar 2023)
+vom 11. Juni 2021 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -32,15 +32,22 @@ verordnet:
 
 #### Art. 1
 
-**Prüfung des Anspruchs auf Ergänzungsleistungen auf den Zeitpunkt des ordentlichen Rentenalters hin**
+**Prüfung des Anspruchs auf Ergänzungsleistungen auf den Zeitpunkt des Erreichens des Referenzalters hin**
 
 ### (Art. 3 Abs. 1 Bst. b ÜLG)
 
-<sup>1</sup> Die Durchführungsstellen prüfen von Amtes wegen, ob bei einer Person, die Überbrückungsleistungen bezieht, auf den Zeitpunkt des ordentlichen Rentenalters hin ein Anspruch auf Ergänzungsleistungen absehbar ist.
+[^1-1]
+
+<sup>1</sup> Die Durchführungsstellen prüfen von Amtes wegen, ob bei einer Person, die Überbrückungsleistungen bezieht, auf den Zeitpunkt des Erreichens des Referenzalters nach Artikel 21 Absatz 1 des Bundesgesetzes vom 20. Dezember 1946[^1-2] über die Alters- und Hinterlassenenversicherung hin ein Anspruch auf Ergänzungsleistungen absehbar ist.[^1-3]
 
 <sup>2</sup> Solange der Anspruch auf Ergänzungsleistungen nicht klar ist, sind die Überbrückungsleistungen weiter auszurichten.
 
-<sup>3</sup> Werden Überbrückungsleistungen in einen Mitgliedstaat der Europäischen Union, nach Island, Liechtenstein oder Norwegen ausgerichtet, so wird keine Prüfung eines Anspruchs auf Ergänzungsleistungen auf den Zeitpunkt des ordentlichen Rentenalters hin vorgenommen.
+<sup>3</sup> Werden Überbrückungsleistungen in einen Mitgliedstaat der Europäischen Union, nach Island, Liechtenstein oder Norwegen ausgerichtet, so wird keine Prüfung eines Anspruchs auf Ergänzungsleistungen auf den Zeitpunkt des Erreichens des Referenzalters hin vorgenommen.[^1-4]
+
+[^1-1]: Fassung gemäss Anhang Ziff. 14 der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^1-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^1-3]: Fassung gemäss Anhang Ziff. 14 der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^1-4]: Fassung gemäss Anhang Ziff. 14 der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 2
 

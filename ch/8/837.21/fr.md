@@ -4,11 +4,11 @@ title: Ordonnance du 11 juin 2021 sur les prestations transitoires pour les chô
 short: OPtra
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/376"
 language: fr
-version: 2023-01-01
+version: 2024-01-01
 adopted: 2021-06-11
 in_force: 2021-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/376/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2021-376-20230101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/376/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/376/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2021-376-20240101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/376/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/376/20230101/fr"
 
 (OPtra)
 
-du 11 juin 2021 (État le 1<sup>er</sup> janvier 2023)
+du 11 juin 2021 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -32,15 +32,22 @@ arrête:
 
 #### Art. 1
 
-**Examen du droit à des prestations complémentaires à l’âge ordinaire de la retraite**
+**Examen du droit à des prestations complémentaires à l’âge de référence**
 
 ### (Art. 3, al. 1, let. b, LPtra)
 
-<sup>1</sup> Les organes d’exécution examinent d’office s’il est prévisible qu’un bénéficiaire de prestations transitoires aura droit à des prestations complémentaires à l’âge ordinaire de la retraite.
+[^1-1]
+
+<sup>1</sup> Les organes d’exécution examinent d’office s’il est prévisible qu’un bénéficiaire de prestations transitoires aura droit à des prestations complémentaires à l’âge de référence fixé à l’art. 21, al. 1, de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants[^1-2].[^1-3]
 
 <sup>2</sup> Le versement des prestations transitoires doit être maintenu tant qu’il existe des doutes relatifs au droit à des prestations complémentaires.
 
-<sup>3</sup> Si les prestations transitoires sont versées dans un État membre de l’Union européenne, en Islande, en Norvège ou au Liechtenstein, le droit à des prestations complémentaires à l’âge ordinaire de la retraite n’est pas examiné.
+<sup>3</sup> Si les prestations transitoires sont versées dans un État membre de l’Union européenne, en Islande, en Norvège ou au Liechtenstein, le droit à des prestations complémentaires à l’âge de référence n’est pas examiné.[^1-4]
+
+[^1-1]: Nouvelle teneur selon l’annexe ch. 14 de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^1-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^1-3]: Nouvelle teneur selon l’annexe ch. 14 de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^1-4]: Nouvelle teneur selon l’annexe ch. 14 de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 2
 
@@ -439,8 +446,8 @@ Les frais de maladie et d’invalidité des enfants dont il n’est pas tenu com
 
 <sup>4</sup> Les factures doivent être conformes aux positions tarifaires des tarifs AA/AM/AI.
 
-[^32-1]: Le tarif dentaire SSO peut être consulté à l’adresse suivante: www.mtk-ctm.ch &gt; Tarifs &gt; Tarif dentaire SSO.
-[^32-2]: Le tarif pour les travaux de technique dentaire peut être consulté à l’adresse suivante: www.mtk-ctm.ch &gt; Tarifs &gt; Tarif pour les travaux de technique dentaire.
+[^32-1]: Le tarif dentaire SSO peut être consulté à l’adresse suivante: [www.mtk-ctm.ch](http://www.mtk-ctm.ch) &gt; Tarifs &gt; Tarif dentaire SSO.
+[^32-2]: Le tarif pour les travaux de technique dentaire peut être consulté à l’adresse suivante: [www.mtk-ctm.ch](http://www.mtk-ctm.ch) &gt; Tarifs &gt; Tarif pour les travaux de technique dentaire.
 
 #### Art. 33
 
@@ -719,6 +726,6 @@ Annexe
 
 Les actes mentionnés ci-après sont modifiés comme suit:
 
-...[^annexu1-lvlu1-1]
+…[^annexu1-lvlu1-1]
 
 [^annexu1-lvlu1-1]: Les mod. peuvent être consultées au [RO 2021 376](https://fedlex.data.admin.ch/eli/oc/2021/376).

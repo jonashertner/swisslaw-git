@@ -4,11 +4,11 @@ title: "Ordinanza dell'11 giugno 2021 sulle prestazioni transitorie per i disocc
 short: OPTD
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/376"
 language: it
-version: 2023-01-01
+version: 2024-01-01
 adopted: 2021-06-11
 in_force: 2021-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/376/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2021-376-20230101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/376/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/376/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2021-376-20240101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/376/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/376/20230101/it"
 
 (OPTD)
 
-dell’11 giugno 2021 (Stato 1° gennaio 2023)
+dell’11 giugno 2021 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -32,15 +32,22 @@ ordina:
 
 #### Art. 1
 
-**Verifica del diritto alle prestazioni complementari in previsione dell’età ordinaria di pensionamento**
+**Verifica del diritto alle prestazioni complementari in previsione dell’età di riferimento**
 
 ### (art. 3 cpv. 1 lett. b LPTD)
 
-<sup>1</sup> Gli organi esecutivi verificano d’ufficio se è prevedibile che un beneficiario di prestazioni transitorie avrà diritto alle prestazioni complementari al momento dell’età ordinaria di pensionamento.
+[^1-1]
+
+<sup>1</sup> Gli organi esecutivi verificano d’ufficio se è prevedibile che un beneficiario di prestazioni transitorie avrà diritto alle prestazioni complementari al raggiungimento dell’età di riferimento secondo l’articolo 21 capoverso 1 della legge federale del 20 dicembre 1946[^1-2] sull’assicurazione per la vecchiaia e per i superstiti.[^1-3]
 
 <sup>2</sup> Finché non è chiaro se sussista il diritto alle prestazioni complementari, occorre proseguire il versamento delle prestazioni transitorie.
 
-<sup>3</sup> Se le prestazioni transitorie sono versate in uno Stato membro dell’Unione europea, in Islanda, nel Liechtenstein o in Norvegia, non si procede ad alcuna verifica del diritto alle prestazioni complementari in previsione dell’età ordinaria di pensionamento.
+<sup>3</sup> Se le prestazioni transitorie sono versate in uno Stato membro dell’Unione europea, in Islanda, nel Liechtenstein o in Norvegia, non si procede ad alcuna verifica del diritto alle prestazioni complementari in previsione dell’età di riferimento.[^1-4]
+
+[^1-1]: Nuovo testo giusta l’all. n. 14 dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^1-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^1-3]: Nuovo testo giusta l’all. n. 14 dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^1-4]: Nuovo testo giusta l’all. n. 14 dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 2
 
