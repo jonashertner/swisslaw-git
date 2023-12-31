@@ -3,20 +3,20 @@ canton: VS
 number: "805.120"
 title: Arrêté fixant les coûts facturables et les contributions résiduelles des pouvoirs publics pour les structures de soins de jour ou de nuit
 language: fr
-version: 2023-01-01
-corrected: 2023-03-07
-version_adopted: 2023-03-01
+version: 2024-01-01
+valid_until: 2024-04-30
+version_adopted: 2024-01-31
 adopted: 2026-01-21
 in_force: 2026-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/805.120"
-pdf: "https://lex.vs.ch/api/fr/versions/3145/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3289/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
 # Arrêté fixant les coûts facturables et les contributions résiduelles des pouvoirs publics pour les structures de soins de jour ou de nuit
 
-du 21.12.2022 (état 01.01.2023)
+du 20.12.2023 (état 01.01.2024)
 
 Le Conseil d’Etat du canton du Valais
 
@@ -45,41 +45,41 @@ arrête:
 
 #### Art. 2
 
-**Coûts facturables 2023**
+**Coûts facturables 2024**
 
 <sup>1</sup> Pour les structures de soins de jour ou de nuit, les coûts facturables pour les prestations de soins s’élèvent, par jour, à:
 
-- a) jusqu’à 20 minutes de soins requis: — Fr. 16.00
-- b) de 21 à 40 minutes de soins requis: — Fr. 31.00
-- c) de 41 à 60 minutes de soins requis: — Fr. 49.00
-- d) de 61 à 80 minutes de soins requis: — Fr. 68.00
-- e) de 81 à 100 minutes de soins requis: — Fr. 89.50
-- f) de 101 à 120 minutes de soins requis: — Fr. 106.00
-- g) de 121 à 140 minutes de soins requis: — Fr. 125.50
-- h) de 141 à 160 minutes de soins requis: — Fr. 145.00
-- i) de 161 à 180 minutes de soins requis: — Fr. 166.00
-- j) de 181 à 200 minutes de soins requis: — Fr. 186.00
-- k) de 201 à 220 minutes de soins requis: — Fr. 204.00
-- l) plus de 220 minutes de soins requis: — Fr. 237.00
+- a) jusqu’à 20 minutes de soins requis: — Fr. 16,50
+- b) de 21 à 40 minutes de soins requis: — Fr. 31,50
+- c) de 41 à 60 minutes de soins requis: — Fr. 50,00
+- d) de 61 à 80 minutes de soins requis: — Fr. 69,50
+- e) de 81 à 100 minutes de soins requis: — Fr. 91,50
+- f) de 101 à 120 minutes de soins requis: — Fr. 108,00
+- g) de 121 à 140 minutes de soins requis: — Fr. 128,50
+- h) de 141 à 160 minutes de soins requis: — Fr. 148,50
+- i) de 161 à 180 minutes de soins requis: — Fr. 170,00
+- j) de 181 à 200 minutes de soins requis: — Fr. 190,50
+- k) de 201 à 220 minutes de soins requis: — Fr. 209,00
+- l) plus de 220 minutes de soins requis: — Fr. 243,00
 
 #### Art. 3
 
-**Contributions résiduelles 2023**
+**Contributions résiduelles 2024**
 
 <sup>1</sup> Pour les structures de soins de jour ou de nuit, les contributions résiduelles des pouvoirs publics aux coûts de soins s’élèvent, par jour, à:
 
-- a) jusqu’à 20 minutes de soins requis: — Fr. 6.40
-- b) de 21 à 40 minutes de soins requis: — Fr. 11.80
-- c) de 41 à 60 minutes de soins requis: — Fr. 20.20
-- d) de 61 à 80 minutes de soins requis: — Fr. 29.60
-- e) de 81 à 100 minutes de soins requis: — Fr. 41.50
-- f) de 101 à 120 minutes de soins requis: — Fr. 48.40
-- g) de 121 à 140 minutes de soins requis: — Fr. 58.30
-- h) de 141 à 160 minutes de soins requis: — Fr. 68.20
-- i) de 161 à 180 minutes de soins requis: — Fr. 79.60
-- j) de 181 à 200 minutes de soins requis: — Fr. 90.00
-- k) de 201 à 220 minutes de soins requis: — Fr. 98.40
-- l) plus de 220 minutes de soins requis: — Fr. 121.80
+- a) jusqu’à 20 minutes de soins requis: — Fr. 6,90
+- b) de 21 à 40 minutes de soins requis: — Fr. 12,30
+- c) de 41 à 60 minutes de soins requis: — Fr. 21,20
+- d) de 61 à 80 minutes de soins requis: — Fr. 31,10
+- e) de 81 à 100 minutes de soins requis: — Fr. 43,50
+- f) de 101 à 120 minutes de soins requis: — Fr. 50,40
+- g) de 121 à 140 minutes de soins requis: — Fr. 61,30
+- h) de 141 à 160 minutes de soins requis: — Fr. 71,70
+- i) de 161 à 180 minutes de soins requis: — Fr. 83,60
+- j) de 181 à 200 minutes de soins requis: — Fr. 94,50
+- k) de 201 à 220 minutes de soins requis: — Fr. 103,40
+- l) plus de 220 minutes de soins requis: — Fr. 127,80
 
 #### Art. 4
 
@@ -87,4 +87,4 @@ arrête:
 
 <sup>1</sup> Le département en charge de la santé est chargé de l’exécution du présent arrêté.
 
-RCV RO/AGS 2022-109
+RCV RO/AGS 2023-137
