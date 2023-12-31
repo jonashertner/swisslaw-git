@@ -4,24 +4,24 @@ number: "832.720"
 title: Verordnung über die Vergütung von Krankheits- und Behinderungskosten bei den Ergänzungsleistungen
 short: KBV
 language: de
-version: 2021-01-01
-valid_until: 2023-12-31
-version_adopted: 2020-12-15
+version: 2024-01-01
+valid_until: 2024-12-31
+version_adopted: 2023-12-12
 adopted: 2007-12-18
 in_force: 2008-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/832.720"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5191/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6293/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Vergütung von Krankheits- und Behinderungskosten bei den Ergänzungsleistungen
 
-Krankheits- und Behindertenkosten: Verordnung | AHV und IV / Alters- und Invalidenhilfe[^t-1]
+Krankheits- und Behinderungskosten: Verordnung | AHV und IV / Alters- und Invalidenhilfe[^t-1]
 
 (KBV)
 
-Vom 18. Dezember 2007 (Stand 1. Januar 2021)
+Vom 18. Dezember 2007 (Stand 1. Januar 2024)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -170,6 +170,23 @@ beschliesst:
 
 <sup>2</sup> Bei Personen, die notwendige Leistungen durch eine anerkannte Einrichtung gemäss kantonaler Liste der anerkannten Institutionen für Wohnungen mit Serviceangebot für Betagte beziehen, werden höchstens die in der Leistungsvereinbarung festgelegten Tarife vergütet.
 
+#### § 13b
+
+**Kosten für Hilfe und Betreuung zu Hause aufgrund eines Individuellen Hilfeplans (IHP) der Behindertenhilfe**
+
+<sup>1</sup> Bei Personen mit Behinderung gemäss § 4 BHG und einem Anspruch auf einen Assistenzbeitrag der Invalidenversicherung sowie bei Personen mit einem Besitzstand des Assistenzbeitrages nach Art. 43<sup>ter</sup> des Bundesgesetzes über die Alters- und Hinterlassenenversicherung (AHVG) vom 20. Dezember 1946 können Kosten für Hilfe und Betreuung vergütet werden.
+
+<sup>2</sup> Grundlage der Vergütung bildet der mittels des Instruments des Individuellen Hilfeplans (IHP) gemäss § 5 der Verordnung über die Behindertenhilfe (BHV) vom 29. November 2016 festgestellte behinderungsbedingte Bedarf.
+
+<sup>3</sup> Es werden nur Kosten vergütet für Leistungen an notwendiger Hilfe und Betreuung, die durch natürliche Personen erbracht werden.
+
+<sup>4</sup> Leistungen gemäss Abs. 1 bis 3 können auch durch Familienangehörige erbracht werden. Die fachlichen Anforderungen legt das Amt für Sozialbeiträge fest.
+
+<sup>5</sup> Die Vergütungen für Betreuungsleistungen gemäss Abs. 1 bis 4 betragen:
+
+- a) am Tag höchstens 37 Franken pro Stunde und
+- b) in der Nacht höchstens 50 Franken pro Stunde.
+
 #### § 14
 
 **Kosten für die ambulante Pflege zu Hause**
@@ -229,6 +246,8 @@ beschliesst:
 
 <sup>3</sup> …
 
+<sup>4</sup> Bei in anerkannten Wohnheimen gemäss § 27 BHG lebenden Personen werden Kosten für Hilfe, Pflege und Betreuung, die in einer Tagesstruktur für Personen im AHV-Alter erbracht wird, vergütet, wenn dies zur Deckung der Kosten des mittels des Instrumentes Individueller Hilfeplan (IHP) festgestellten behinderungsbedingten Bedarfs notwendig ist. Der Höchstbetrag gemäss Art. 14 Abs. 3 lit. b ELG wird in diesen Fällen auf 12'000 Franken erhöht.
+
 #### § 18
 
 **Transportkosten**
@@ -241,7 +260,7 @@ beschliesst:
 - b) Personenwagen: höchstens 65 Rappen pro km;
 - c) Taxi: Tatsächliche Auslagen.
 
-<sup>3</sup> Tages- und Nachtstrukturen nach § 17 sind den medizinischen Behandlungsorten im Sinne von Abs. 2 gleichgestellt. Bei Personen mit Behinderung in anerkannten Heimen, die für den Transport zu und von Werkstätten und Tagesstätten auf private Anbieter für Behindertentransporte angewiesen sind, werden diese Kosten vergütet, sofern eine Bewilligung des Leistungsbezugs gemäss § 14 BHG für den Aufenthalt in der Werk- oder Tagesstätte vorliegt. Der Höchstbetrag gemäss Art. 14 Abs. 3 lit. b ELG wird in diesen Fällen auf 25'000 Franken erhöht.
+<sup>3</sup> Tages- und Nachtstrukturen nach § 17 sind den medizinischen Behandlungsorten im Sinne von Abs. 2 gleichgestellt.
 
 <sup>4</sup> Kosten für Fahrbegleitungen werden nicht vergütet.
 
