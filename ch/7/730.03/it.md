@@ -4,11 +4,11 @@ title: "Ordinanza del 1° novembre 2017 sulla promozione della produzione di ele
 short: OPEn
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/766"
 language: it
-version: 2023-07-01
+version: 2024-01-01
 adopted: 2017-11-01
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20230701/it/xml/fedlex-data-admin-ch-eli-cc-2017-766-20230701-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/766/20230701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2017-766-20240101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/766/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/766/20230701/it"
 
 (Ordinanza sulla promozione dell’energia, OPEn)
 
-del 1° novembre 2017 (Stato 1° luglio 2023)
+del 1° novembre 2017 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -111,11 +111,9 @@ Per impianti fotovoltaici di piccole dimensioni s’intendono:
 
 #### Art. 8
 
-**Diritto di opzione nel caso di impianti fotovoltaici**
+[^8-1]
 
-<sup>1</sup> I gestori di impianti fotovoltaici di grandi dimensioni con una potenza fino a 50 MW possono scegliere se richiedere una rimunerazione per l’immissione di elettricità o una rimunerazione unica.
-
-<sup>2</sup> Essi esercitano tale diritto di opzione in modo definitivo con la presentazione della domanda per l’una o l’altra tipologia di promozione. È fatta salva una domanda per l’ottenimento di una rimunerazione unica per gli impianti fotovoltaici di piccole dimensioni presentata dopo la messa in esercizio dell’impianto (art. 41).
+[^8-1]: Abrogato dal n. I dell’O del 29 nov. 2023, con effetto dal 1° gen. 2024 ([RU 2023 764](https://fedlex.data.admin.ch/eli/oc/2023/764)).
 
 #### Art. 9
 
@@ -214,10 +212,12 @@ Al sistema di rimunerazione per l’immissione di elettricità possono partecipa
 
 <sup>3</sup> I tassi di rimunerazione vengono verificati periodicamente e adeguati in caso di modifica importante delle circostanze.
 
-<sup>4</sup> Il premio per l’immissione in rete si riduce del 7,1495 per cento per i gestori di impianti che sono assoggettati all’imposta secondo gli articoli 10–13 della legge del 12 giugno 2009[^16-1] sull’IVA (LIVA).[^16-2]
+<sup>4</sup> Per i gestori di impianti assoggettati all’imposta secondo gli articoli 10–13 della legge del 12 giugno 2009[^16-1] sull’IVA (LIVA), il premio per l’immissione in rete si riduce del fattore calcolato come segue, in base all’aliquota normale vigente secondo l’articolo 25 capoverso 1 LIVA e arrotondato alla quarta cifra decimale:
+
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20240101/it/xml/image/image1.png).[^16-2]
 
 [^16-1]: [RS 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
-[^16-2]: Introdotto il n. I dell’O del 27 feb. 2019, in vigore dal 1° apr. 2019 ([RU 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)).
+[^16-2]: Introdotto il n. I dell’O del 27 feb. 2019 ([RU 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)). Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 764](https://fedlex.data.admin.ch/eli/oc/2023/764)).
 
 #### Art. 17
 
@@ -431,11 +431,12 @@ L’organo d’esecuzione dispone l’esclusione di un gestore dal sistema di ri
 - a.[^30-1] non sono rispettati ripetutamente e per tale ragione il premio per l’immissione in rete non è stato versato nel corso di tre anni civili consecutivi (art. 29 cpv. 1);
 - b. non sono rispettati nel corso di un intero anno civile dopo la scadenza del termine di cui all’articolo 29 capoverso 3.
 
-<sup>2</sup> Un’uscita dal sistema di rimunerazione per l’immissione di elettricità è possibile in ogni momento rispettando un termine di disdetta di tre mesi per la fine di un trimestre.
+<sup>2</sup> Un’uscita dal sistema di rimunerazione per l’immissione di elettricità è possibile in ogni momento, rispettando un termine di disdetta di un mese, per la fine di un trimestre.[^30-2]
 
 <sup>3</sup> Una nuova partecipazione al sistema di rimunerazione per l’immissione di elettricità è esclusa a seguito di un’esclusione o un’uscita.
 
 [^30-1]: Nuovo testo giusta il n. I dell’O del 27 feb. 2019, in vigore dal 1° apr. 2019 ([RU 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)).
+[^30-2]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 764](https://fedlex.data.admin.ch/eli/oc/2023/764)).
 
 ## Capitolo 3: Disposizioni generali sulla rimunerazione unica e sui contributi d’investimento
 
@@ -445,9 +446,9 @@ L’organo d’esecuzione dispone l’esclusione di un gestore dal sistema di ri
 
 <sup>1</sup> Fintantoché un gestore ottiene per un impianto un finanziamento dei costi supplementari secondo l’articolo 73 capoverso 4 LEne o una rimunerazione per l’immissione in rete di elettricità non è possibile accordargli né una rimunerazione unica né un contributo d’investimento.
 
-<sup>2</sup> ...[^31-1]
+<sup>2</sup> Se un gestore ha già partecipato con una parte del suo impianto fotovoltaico al sistema di rimunerazione per l’immissione di elettricità, per questa parte dell’impianto non può chiedere una rimunerazione unica.[^31-1]
 
-[^31-1]: Introdotto dal n. I dell’O del 25 nov. 2020 ([RU 2020 6129](https://fedlex.data.admin.ch/eli/oc/2020/1013)). Abrogato dal n. I dell’O del 23 nov. 2022, con effetto dal 1° gen. 2023 ([RU 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
+[^31-1]: Introdotto dal n. I dell’O del 25 nov. 2020 ([RU 2020 6129](https://fedlex.data.admin.ch/eli/oc/2020/1013)). Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 764](https://fedlex.data.admin.ch/eli/oc/2023/764)).
 
 #### Art. 32
 
@@ -725,13 +726,15 @@ Esso rilascia un’aggiudicazione per le offerte:
 
 **Termine e notifica di messa in esercizio**
 
-<sup>1</sup> L’impianto deve essere messo in esercizio al più tardi 18 mesi dopo che il rilascio dell’aggiudicazione è passato in giudicato.
+<sup>1</sup> L’impianto deve essere messo in esercizio al più tardi 24 mesi dopo che l’aggiudicazione è passata in giudicato.[^46d-1]
 
 <sup>2</sup> La messa in esercizio deve essere notificata all’organo d’esecuzione al più tardi tre mesi dalla messa in esercizio.
 
 <sup>3</sup> La notifica di messa in esercizio deve contenere le indicazioni e i documenti di cui all’allegato 2.1 numero 4.2.
 
 <sup>4</sup> Se per ragioni non imputabili al richiedente il termine per la messa in esercizio non può essere rispettato, l’organo d’esecuzione può prorogarlo su richiesta. La richiesta deve essere presentata prima della scadenza del termine.
+
+[^46d-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 764](https://fedlex.data.admin.ch/eli/oc/2023/764)).
 
 #### Art. 46e
 
@@ -784,11 +787,19 @@ In merito alle aste per la rimunerazione unica l’organo d’esecuzione pubblic
 - f. il numero di offerte escluse;
 - g. il quantitativo offerto in kW delle offerte escluse;
 - h. il valore massimo ammissibile dell’offerta in franchi per kW;
-- i. il valore dell’offerta più bassa in franchi per kW;
-- j. il valore dell’offerta più alta in franchi per kW;
-- k. il valore di aggiudicazione medio ponderato in rapporto al quantitativo in franchi per kW;
-- l. il valore più basso dell’offerta per la quale è stata rilasciata un’aggiudicazione in franchi per kW;
-- m. il valore più alto dell’offerta per la quale è stata rilasciata un’aggiudicazione in franchi per kW.
+- i.[^46h-1] il valore dell’offerta più bassa e il valore dell’offerta più alta, in franchi per kW;
+- j. [^46h-2] il valore di aggiudicazione medio ponderato in rapporto al quantitativo, in franchi per kW;
+- k.[^46h-3] il valore dell’offerta più bassa e il valore dell’offerta più alta che hanno ottenuto un’aggiudicazione, in franchi per kW;
+- l.[^46h-4] la potenza più bassa e la potenza più alta proposte nelle offerte, in kW;
+- m.[^46h-5] la potenza più bassa e la potenza più alta proposte nelle offerte che hanno ottenuto un’aggiudicazione, in kW;
+- n.[^46h-6] la potenza media che ha ottenuto un’aggiudicazione, in kW.
+
+[^46h-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 764](https://fedlex.data.admin.ch/eli/oc/2023/764)).
+[^46h-2]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 764](https://fedlex.data.admin.ch/eli/oc/2023/764)).
+[^46h-3]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 764](https://fedlex.data.admin.ch/eli/oc/2023/764)).
+[^46h-4]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 764](https://fedlex.data.admin.ch/eli/oc/2023/764)).
+[^46h-5]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 764](https://fedlex.data.admin.ch/eli/oc/2023/764)).
+[^46h-6]: Introdotta dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 764](https://fedlex.data.admin.ch/eli/oc/2023/764)).
 
 ### Sezione 6: Procedura di domanda per gli impianti di cui all’articolo 71*a* LEne
 
@@ -822,11 +833,13 @@ Se sussistono presumibilmente i requisiti per il diritto di cui all’articolo 7
 
 **Immissione parziale di elettricità e termine di messa in esercizio**
 
-<sup>1</sup> Entro il 31 dicembre 2025 l’impianto deve immettere in rete almeno il dieci per cento della produzione attesa dell’intero impianto previsto o 10 GWh di energia elettrica all’anno.
+<sup>1</sup> Con la potenza della parte dell’impianto messa in esercizio e allacciata alla rete elettrica entro il 31 dicembre 2025 deve essere possibile raggiungere una produzione annua di almeno il 10 per cento della produzione attesa dell’intero impianto previsto o almeno 10 GWh di energia elettrica all’anno.[^46k-1]
 
 <sup>2</sup> La messa in esercizio completa deve avvenire entro il 31 dicembre 2030.
 
 <sup>3</sup> Se entro il 31 dicembre 2030 può essere messa in esercizio solo una parte dell’impianto originariamente previsto, la rimunerazione unica viene calcolata e concessa in proporzione alla parte messa in esercizio fino a quel momento, nella misura in cui tale parte soddisfa i requisiti di cui all’articolo 71*a* capoverso 2 LEne.
+
+[^46k-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 764](https://fedlex.data.admin.ch/eli/oc/2023/764)).
 
 #### Art. 46l
 
@@ -885,6 +898,18 @@ Se i requisiti per il diritto di cui all’articolo 71*a* capoverso 2 LEne sussi
 - c. 60 per cento dei costi d’investimento computabili definitivi.
 
 <sup>2</sup> I costi scoperti definitivi vengono calcolati sulla base dei costi d’investimento computabili definitivi e della produzione netta media annua notificata, sulla base del tasso d’interesse calcolatorio e dello scenario dei prezzi che vigevano al momento in cui è stata data la garanzia di principio.
+
+#### Art. 46p<sup>bis</sup>
+
+**Conseguenze del mancato rispetto dei requisiti per il diritto**[^46pbis-1]
+
+<sup>1</sup> Se al momento della notifica della produzione netta i requisiti per il diritto di cui all’articolo 71*a* capoverso 2 LEne non sono soddisfatti, la garanzia di principio è revocata.
+
+<sup>2</sup> Se per il mancato rispetto dei requisiti per il diritto vi sono ragioni non imputabili al gestore, su richiesta l’UFE può adeguare il periodo di riferimento di cui all’articolo 46*o* capoverso 1 per la determinazione della produzione netta.
+
+<sup>3</sup> Se i requisiti per il diritto non sono rispettati nonostante l’adeguamento del periodo di riferimento, la garanzia di principio è revocata.
+
+[^46pbis-1]: Introdotto dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 764](https://fedlex.data.admin.ch/eli/oc/2023/764)).
 
 #### Art. 46q
 
@@ -1176,7 +1201,10 @@ Non sono computabili in particolare i costi:
 
 <sup>2</sup> Se il contributo d’investimento supera i costi scoperti, esso è ridotto di conseguenza.
 
+<sup>3</sup> Il richiedente deve presentare all’UFE il calcolo attuale della redditività aziendale per il progetto.[^63-2]
+
 [^63-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
+[^63-2]: Introdotto dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 764](https://fedlex.data.admin.ch/eli/oc/2023/764)).
 
 #### Art. 64 a 66
 
@@ -1381,7 +1409,10 @@ Non sono computabili in particolare i costi:
 
 <sup>2</sup> Se il contributo d’investimento supera i costi scoperti, esso è ridotto di conseguenza.
 
+<sup>3</sup> L’UFE mette a disposizione le basi e i formulari necessari per il calcolo dei costi scoperti.[^83-2]
+
 [^83-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
+[^83-2]: Introdotto dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 764](https://fedlex.data.admin.ch/eli/oc/2023/764)).
 
 #### Art. 84 a 87
 
@@ -1515,6 +1546,10 @@ Non sono computabili in particolare i costi per:
 <sup>1</sup> Se vi sono indizi secondo cui per un impianto non vi sono costi scoperti (art. 29 cpv. 3 lett. b<sup>bis</sup> LEne), conformemente all’allegato 4 occorre calcolare se vi sono costi scoperti.
 
 <sup>2</sup> Se il contributo d’investimento supera i costi scoperti, esso è ridotto di conseguenza.
+
+<sup>3</sup> L’UFE mette a disposizione le basi e i formulari necessari per il calcolo dei costi scoperti.[^87m-1]
+
+[^87m-1]: Introdotto dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 764](https://fedlex.data.admin.ch/eli/oc/2023/764)).
 
 ## Capitolo 6*b*: Contributi d’investimento per la prospezione e lo sfruttamento di serbatoi geotermici e per nuovi impianti geotermici
 
@@ -1678,6 +1713,10 @@ Se al momento della notifica della conclusione dei lavori sussistono ancora tutt
 <sup>1</sup> Se vi sono indizi secondo cui per un impianto non vi sono costi scoperti (art. 29 cpv. 3 lett. b<sup>bis</sup> LEne), conformemente all’allegato 4 occorre calcolare se vi sono costi scoperti.
 
 <sup>2</sup> Se il contributo d’investimento supera i costi scoperti, esso è ridotto proporzionalmente.
+
+<sup>3</sup> L’UFE mette a disposizione le basi e i formulari necessari per il calcolo dei costi scoperti.[^87zter-1]
+
+[^87zter-1]: Introdotto dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 764](https://fedlex.data.admin.ch/eli/oc/2023/764)).
 
 ## Capitolo 7: Premio di mercato per l’elettricità proveniente dagli impianti idroelettrici di grandi dimensioni
 
@@ -1851,9 +1890,10 @@ Fintantoché un gestore ottiene per un impianto un finanziamento dei costi suppl
 
 <sup>3</sup> Gli importi del contributo vengono verificati periodicamente e adeguati in caso di modifica importante delle circostanze.
 
-<sup>4</sup> Il contributo alle spese d’esercizio si riduce del 7,1495 per cento per i gestori di impianti che sono assoggettati all’imposta secondo gli articoli 10–13 LIVA[^96b-1].
+<sup>4</sup> Il contributo alle spese d’esercizio si riduce, per i gestori di impianti assoggettati all’imposta secondo gli articoli 10–13 LIVA[^96b-1], del fattore di cui all’articolo 16 capoverso 4.[^96b-2]
 
 [^96b-1]: [RS 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
+[^96b-2]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 764](https://fedlex.data.admin.ch/eli/oc/2023/764)).
 
 ### Sezione 2: Ordine di presa in considerazione e lista d’attesa
 
@@ -2201,7 +2241,7 @@ Allegato 1.1[^t-1]
 - 2\.4.1 Se la quota destinata alla realizzazione delle opere idrauliche secondo lo stato della tecnica, condotte forzate incluse, è inferiore al 20 per cento dei costi di investimento complessivi del progetto, il diritto al bonus per le opere idrauliche decade. Se tale quota è superiore al 50 per cento, si ha diritto al bonus completo. Per i valori compresi fra il 20 e il 50 per cento viene effettuata un’interpolazione lineare secondo il seguente grafico. Le misure di cui all’articolo 83*a* LPAC[^annex11-lvlu1-lvl2-1] o all’articolo 10 LFSP[^annex11-lvlu1-lvl2-2] non sono computabili ai fini del bonus.
 - 2\.4.2 Le centrali con utilizzo di acqua di dotazione non hanno diritto al bonus per le opere idrauliche. Gli impianti accessori con una potenza superiore a 100 kW hanno diritto al bonus per le opere idrauliche solo fino alla potenza equivalente di 100 kW.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20230701/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20240101/it/xml/image/image2.png)
 
 - 2\.4.3 Il tasso per il bonus per le opere idrauliche secondo le classi di potenza ammonta dopo il 1° gennaio 2013 a:
 
@@ -2564,7 +2604,7 @@ Allegato 1.4[^t-4]
 
 - 3\.1 Gli impianti geotermici devono presentare, al più tardi dall’inizio del terzo anno civile completo dopo la messa in esercizio, un coefficiente di sfruttamento globale minimo secondo il diagramma seguente:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20230701/it/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20240101/it/xml/image/image3.png)
 
 - 3\.2 Il periodo di valutazione rilevante per la determinazione del coefficiente di sfruttamento globale è un anno civile completo; il coefficiente di sfruttamento globale si riferisce all’energia annua misurata alla testa del pozzo con:
 - coefficiente di sfruttamento del calore = calore sfruttato diviso per energia misurata alla testa del pozzo
@@ -2688,7 +2728,7 @@ Allegato 1.5[^t-5]
 - 2\.2.2 Il periodo di valutazione per i requisiti energetici minimi è l’anno civile completo.
 - 2\.2.3 I cicli del vapore, in particolare il ciclo Rankine organico, le turbine a vapore e i motori a vapore, devono raggiungere un coefficiente di sfruttamento energetico globale minimo secondo il diagramma seguente:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20230701/it/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20240101/it/xml/image/image4.png)
 
 - Per il calcolo del coefficiente di sfruttamento globale si utilizza il potere calorifico inferiore H<sub>u</sub> del combustibile impiegato.
 - Calcolo del coefficiente di sfruttamento elettrico = la produzione di energia elettrica divisa per la quantità di energia immessa nell’impianto a combustione.
@@ -2700,7 +2740,7 @@ Allegato 1.5[^t-5]
   - a. rendimento elettrico:
   - il modulo di cogenerazione deve raggiungere un rendimento elettrico minimo conformemente al seguente diagramma:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20230701/it/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20240101/it/xml/image/image5.png)
 
 - b.
 
@@ -2865,11 +2905,11 @@ Allegato 1.5[^t-5]
 
 Allegato 2.1[^t-6]
 
-(art. 7, 38, 41–43, 45, 46*d,* 46*i* e 46*l*)
+(art. 7, 38, 41–43, 45 e 46*d*)
 
 ## Rimunerazione unica per gli impianti fotovoltaici
 
-[^t-6]: Aggiornato dai n. II delle O del 27 feb. 2019 ([RU 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)), del 25 nov. 2020 ([RU 2020 6129](https://fedlex.data.admin.ch/eli/oc/2020/1013)), del 24 nov. 2021 ([RU 2021 820](https://fedlex.data.admin.ch/eli/oc/2021/820)), dal n. II cpv. 1 dell’O del 23 nov. 2022 ([RU 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)) e dal n. II dell’O del 17 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 144](https://fedlex.data.admin.ch/eli/oc/2023/144)).
+[^t-6]: Aggiornato dal n. II delle O del 27 feb. 2019 ([RU 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)), del 25 nov. 2020 ([RU 2020 6129](https://fedlex.data.admin.ch/eli/oc/2020/1013)), del 24 nov. 2021 ([RU 2021 820](https://fedlex.data.admin.ch/eli/oc/2021/820)), dal n. II cpv. 1 dell’O del 23 nov. 2022 ([RU 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)), dal n. II delle O del 17 mar. 2023 ([RU 2023 144](https://fedlex.data.admin.ch/eli/oc/2023/144)) e del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 764](https://fedlex.data.admin.ch/eli/oc/2023/764)).
 
 ### 1 Definizione degli impianti
 
@@ -2929,22 +2969,22 @@ Allegato 2.1[^t-6]
 - 2\.8 Per gli impianti integrati che sono stati messi in esercizio a partire dal 1° gennaio 2023, valgono i seguenti importi:
 
 <table>
-<tr><th></th><th>Classe di potenza</th><th></th></tr>
-<tr><td>Contributo di base (fr.)</td><td>2–5 kW</td><td>200</td></tr>
-<tr><td></td><td>&gt;5 kW</td><td>0</td></tr>
-<tr><td>Contributo legato alla potenza (fr./kW)</td><td>&lt;30 kW</td><td>440</td></tr>
-<tr><td></td><td>30–&lt;100 kW</td><td>330</td></tr>
+<tr><th></th><th>Classe di potenza</th><th>1.1.2023−31.03.2024</th><th>Dall’1.4.2024</th></tr>
+<tr><td>Contributo di base (fr.)</td><td>2–5 kW</td><td>200</td><td>0</td></tr>
+<tr><td></td><td>&gt;5 kW</td><td>0</td><td>0</td></tr>
+<tr><td>Contributo legato alla potenza (fr./kW)</td><td>&lt;30 kW</td><td>440</td><td>420</td></tr>
+<tr><td></td><td>30–&lt;100 kW</td><td>330</td><td>330</td></tr>
 </table>
 
 - 2\.9 Per gli impianti annessi e isolati che sono stati messi in esercizio a partire dal 1° gennaio 2023, valgono i seguenti importi:
 
 <table>
-<tr><th></th><th>Classe di potenza</th><th></th></tr>
-<tr><td>Contributo di base (fr.)</td><td>2–5 kW</td><td>200</td></tr>
-<tr><td></td><td>&gt;5 kW</td><td>0</td></tr>
-<tr><td>Contributo legato alla potenza (fr./kW)</td><td>&lt;30 kW</td><td>400</td></tr>
-<tr><td></td><td>30–&lt;100 kW</td><td>300</td></tr>
-<tr><td></td><td>≥100 kW</td><td>270</td></tr>
+<tr><th></th><th>Classe di potenza</th><th>1.1.2023−31.03.2024</th><th>Dall’1.4.2024</th></tr>
+<tr><td>Contributo di base (fr.)</td><td>2–5 kW</td><td>200</td><td>0</td></tr>
+<tr><td></td><td>&gt;5 kW</td><td>0</td><td>0</td></tr>
+<tr><td>Contributo legato alla potenza (fr./kW)</td><td>&lt;30 kW</td><td>400</td><td>380</td></tr>
+<tr><td></td><td>30–&lt;100 kW</td><td>300</td><td>300</td></tr>
+<tr><td></td><td>≥100 kW</td><td>270</td><td>270</td></tr>
 </table>
 
 - 2\.10 Per gli impianti nuovi senza consumo proprio con una potenza inferiore a 150 kW e per gli impianti che vengono ampliati in misura considerevole con un aumento di potenza inferiore a 150 kW, il contributo legato alla potenza ammonta a 450 franchi per kW se l’impianto nuovo o ampliato è stato messo in esercizio a partire dal 1° gennaio 2023. Per questi impianti non è versato un contributo di base.
@@ -3038,7 +3078,7 @@ Per gli impianti di cui all’articolo 71*a* LEne, il calcolo dei costi scoperti
 <tr><td>Fondazioni e ancoraggi</td><td>80</td></tr>
 <tr><td>Struttura metallica in acciaio, sistemi di montaggio, sottostruttura</td><td>50</td></tr>
 <tr><td>Moduli fotovoltaici</td><td>30</td></tr>
-<tr><td>Convertitori</td><td>15</td></tr>
+<tr><td>Inverter</td><td>15</td></tr>
 <tr><td>Generatori, trasformatori</td><td>40</td></tr>
 <tr><td>Sistema di controllo per centrali</td><td>15</td></tr>
 <tr><td>Installazioni elettriche</td><td>30</td></tr>
@@ -3054,7 +3094,7 @@ Allegato 2.2[^t-7]
 
 ## Contributi d’investimento per gli impianti idroelettrici
 
-[^t-7]: Aggiornato dal n. II cpv. 1 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
+[^t-7]: Aggiornato dal n. II cpv. 1 dell’O del 23 nov. 2022 ([RU 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)) e dal n. II dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 764](https://fedlex.data.admin.ch/eli/oc/2023/764)).
 
 ### 1 Definizione degli impianti
 
@@ -3086,7 +3126,7 @@ Allegato 2.2[^t-7]
 
 ### 3 Tabella del periodo di utilizzazione
 
-- Il calcolo dei maggiori costi non ammortizzabili si basa sul seguente periodo di utilizzazione dei singoli elementi costituenti dell’impianto:
+- Il calcolo della redditività si basa sul seguente periodo di utilizzazione dei singoli elementi costituenti dell’impianto:
 
 <table>
 <tr><td>Elemento costituente dell’impianto</td><td>anni</td></tr>
@@ -3579,7 +3619,7 @@ Allegato 4[^t-13]
 
 ## Calcolo dei costi scoperti
 
-[^t-13]: Introdotto dal n. II cpv. 3 dell’O del 23 nov. 2022 ([RU 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)). Aggiornato dal n. II dell’O del 17 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 144](https://fedlex.data.admin.ch/eli/oc/2023/144)).
+[^t-13]: Introdotto dal n. II cpv. 3 dell’O del 23 nov. 2022 ([RU 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)). Aggiornato dal n. II delle O del 17 mar. 2023 ([RU 2023 144](https://fedlex.data.admin.ch/eli/oc/2023/144)) e del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 764](https://fedlex.data.admin.ch/eli/oc/2023/764)).
 
 ### 1 Basi di calcolo generali
 
@@ -3601,18 +3641,19 @@ Allegato 4[^t-13]
 
 ### 2 Calcolo per gli impianti idroelettrici
 
-- 2\.1
+- 2\.1 Nel calcolo della redditività aziendale il costo medio ponderato del capitale può derogare dal tasso d’interesse calcolatorio di cui all’allegato 3.
+- 2\.2
 
   Per gli impianti idroelettrici, in aggiunta al numero 1.2 sono computabili i deflussi di denaro seguenti:
 
-  - a. i costi per l’energia che le eventuali pompe d’alimentazione necessitano, ai prezzi di mercato;
-  - b. i costi legati alla sostituzione dell’accumulo di acqua;
-  - c. i canoni per i diritti d’acqua;
-  - d. le imposte dirette.
+  - a) i costi per l’energia che le eventuali pompe d’alimentazione necessitano, ai prezzi di mercato;
+  - b) i costi legati alla sostituzione dell’accumulo di acqua;
+  - c) i canoni per i diritti d’acqua;
+  - d) le imposte dirette.
 
-- 2\.2 Se l’impianto idroelettrico necessita di una concessione, i deflussi di denaro computabili in deroga al numero 1.2.2 vanno considerati per il periodo di concessione restante.
-- 2\.3 Gli afflussi di denaro da computare si calcolano sulla scorta del profilo orario ottimizzato sul piano economico o sulla scorta di profili di produzione standard per la produzione netta per il periodo di concessione restante.
-- 2\.4 Gli investimenti sono ammortizzati in chiave lineare sull’arco del loro periodo di utilizzazione e gli eventuali valori residui sono considerati in qualità di afflussi di denaro alla fine del periodo di concessione.
+- 2\.3 Se l’impianto idroelettrico necessita di una concessione, i deflussi di denaro computabili vanno considerati per il periodo di concessione restante.
+- 2\.4 Gli afflussi di denaro da computare si calcolano sulla scorta dei valori attesi dello scenario dei prezzi e del volume d’acqua per il progetto sulla base di un scenario dei prezzi medio e un volume d’acqua medio nonché ulteriori ricavi.
+- 2\.5 Il richiedente deve motivare dettagliatamente e attestare le ipotesi formulate nel calcolo della redditività presentato.
 
 ### 3 Calcolo nel caso degli impianti fotovoltaici di cui all’articolo 71*a* LEne
 

@@ -4,11 +4,11 @@ title: "Verordnung vom 1. November 2017 über die Förderung der Produktion von 
 short: EnFV
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/766"
 language: de
-version: 2023-07-01
+version: 2024-01-01
 adopted: 2017-11-01
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20230701/de/xml/fedlex-data-admin-ch-eli-cc-2017-766-20230701-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/766/20230701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2017-766-20240101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/766/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/766/20230701/de"
 
 (Energieförderungsverordnung, EnFV)
 
-vom 1. November 2017 (Stand am 1. Juli 2023)
+vom 1. November 2017 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -111,11 +111,9 @@ Als kleine Photovoltaikanlagen gelten:
 
 #### Art. 8
 
-**Wahlrecht bei Photovoltaikanlagen**
+[^8-1]
 
-<sup>1</sup> Betreiber von grossen Photovoltaikanlagen mit einer Leistung von bis 50 MW können wählen, ob sie eine Einspeisevergütung oder eine Einmalvergütung beantragen wollen.
-
-<sup>2</sup> Sie üben dieses Wahlrecht mit Einreichung des Gesuchs für die eine oder andere Art der Förderung endgültig aus. Vorbehalten bleibt ein Gesuch um Einmalvergütung für kleine Photovoltaikanlagen nach Inbetriebnahme der Anlage (Art. 41).
+[^8-1]: Aufgehoben durch Ziff. I der V vom 29. Nov. 2023, mit Wirkung seit 1. Jan. 2024 ([AS 2023 764](https://fedlex.data.admin.ch/eli/oc/2023/764)).
 
 #### Art. 9
 
@@ -214,10 +212,12 @@ Am Einspeisevergütungssystem können nur grosse Photovoltaikanlagen teilnehmen.
 
 <sup>3</sup> Die Vergütungssätze werden regelmässig überprüft und bei einer wesentlichen Veränderung der Verhältnisse angepasst.
 
-<sup>4</sup> Die Einspeiseprämie reduziert sich bei Betreibern, die nach den Artikeln 10–13 des Mehrwertsteuergesetzes vom 12. Juni 2009[^16-1] (MWSTG) steuerpflichtig sind, um 7,1495 Prozent.[^16-2]
+<sup>4</sup> Die Einspeiseprämie reduziert sich bei Betreibern, die nach den Artikeln 10–13 des Mehrwertsteuergesetzes vom 12. Juni 2009[^16-1] (MWSTG) steuerpflichtig sind, um den Faktor, der gestützt auf den jeweils gültigen Normalsatzes nach Artikel 25 Absatz 1 MWSTG, gerundet auf vier Nachkommastellen, wie folgt berechnet wird:
+
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20240101/de/xml/image/image1.png).[^16-2]
 
 [^16-1]: [SR 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
-[^16-2]: Eingefügt durch Ziff. I der V vom 27. Febr. 2019, in Kraft seit 1. April 2019 ([AS 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)).
+[^16-2]: Eingefügt durch Ziff. I der V vom 27. Febr. 2019 ([AS 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)). Fassung gemäss Ziff. I der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 764](https://fedlex.data.admin.ch/eli/oc/2023/764)).
 
 #### Art. 17
 
@@ -431,11 +431,12 @@ Die Vollzugsstelle verfügt den Ausschluss eines Betreibers aus dem Einspeisever
 - a.[^30-1] wiederholt nicht eingehalten werden und die Einspeiseprämie deswegen in drei Kalenderjahren in Folge nicht ausbezahlt wurde (Art. 29 Abs. 1);
 - b. nach Ablauf der Frist nach Artikel 29 Absatz 3 nicht während eines ganzen Kalenderjahres eingehalten worden sind.
 
-<sup>2</sup> Ein Austritt aus dem Einspeisevergütungssystem ist unter Einhaltung einer Kündigungsfrist von drei Monaten auf ein Quartalsende jederzeit möglich.
+<sup>2</sup> Ein Austritt aus dem Einspeisevergütungssystem ist unter Einhaltung einer Kündigungsfrist von einem Monat auf ein Quartalsende jederzeit möglich.[^30-2]
 
 <sup>3</sup> Eine erneute Teilnahme am Einspeisevergütungssystem ist nach einem Ausschluss oder einem Austritt ausgeschlossen.
 
 [^30-1]: Fassung gemäss Ziff. I der V vom 27. Febr. 2019, in Kraft seit 1. April 2019 ([AS 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)).
+[^30-2]: Fassung gemäss Ziff. I der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 764](https://fedlex.data.admin.ch/eli/oc/2023/764)).
 
 ## 3. Kapitel: Allgemeine Bestimmungen zur Einmalvergütung und zu den Investitionsbeiträgen
 
@@ -445,9 +446,9 @@ Die Vollzugsstelle verfügt den Ausschluss eines Betreibers aus dem Einspeisever
 
 <sup>1</sup> Solange der Betreiber für eine Anlage eine Mehrkostenfinanzierung nach Artikel 73 Absatz 4 EnG oder eine Einspeisevergütung erhält, kann ihm weder eine Einmalvergütung noch ein Investitionsbeitrag zugesprochen werden.
 
-<sup>2</sup> …[^31-1]
+<sup>2</sup> Hat ein Betreiber mit einem Teil seiner Photovoltaikanlage bereits am Einspeisevergütungssystem teilgenommen, so kann er für diesen Teil der Anlage keine Einmalvergütung beantragen.[^31-1]
 
-[^31-1]: Eingefügt durch Ziff. I der V vom 25. Nov. 2020 ([AS 2020 6129](https://fedlex.data.admin.ch/eli/oc/2020/1013)). Aufgehoben durch Ziff. I der V vom 23. Nov. 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
+[^31-1]: Eingefügt durch Ziff. I der V vom 25. Nov. 2020 ([AS 2020 6129](https://fedlex.data.admin.ch/eli/oc/2020/1013)). Fassung gemäss Ziff. I der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 764](https://fedlex.data.admin.ch/eli/oc/2023/764)).
 
 #### Art. 32
 
@@ -727,13 +728,15 @@ Sie erteilt für diejenigen Gebote einen Zuschlag:
 
 **Inbetriebnahmefrist und Inbetriebnahmemeldung**
 
-<sup>1</sup> Die Anlage ist spätestens 18 Monate, nachdem die Zuschlagserteilung in Rechtskraft erwächst, in Betrieb zu nehmen.
+<sup>1</sup> Die Anlage ist spätestens 24 Monate, nachdem die Zuschlagserteilung in Rechtskraft erwächst, in Betrieb zu nehmen.[^46d-1]
 
 <sup>2</sup> Die Inbetriebnahme ist der Vollzugsstelle spätestens drei Monate ab der Inbetriebnahme zu melden.
 
 <sup>3</sup> Die Inbetriebnahmemeldung hat die Angaben und Unterlagen nach Anhang 2.1 Ziffer 4.2 zu enthalten.
 
 <sup>4</sup> Kann die Frist für die Inbetriebnahme aus Gründen, für die der Antragsteller nicht einzustehen hat, nicht eingehalten werden, so kann die Vollzugsstelle diese auf Gesuch hin erstrecken. Das Gesuch ist vor Ablauf der Frist einzureichen.
+
+[^46d-1]: Fassung gemäss Ziff. I der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 764](https://fedlex.data.admin.ch/eli/oc/2023/764)).
 
 #### Art. 46e
 
@@ -786,11 +789,19 @@ Zu den Auktionen für die Einmalvergütung publiziert die Vollzugsstelle folgend
 - f. die Anzahl der ausgeschlossenen Gebote;
 - g. die Gebotsmenge der ausgeschlossenen Gebote in kW;
 - h. den zulässigen Gebotshöchstwert in Franken pro kW;
-- i. den niedrigsten Gebotswert in Franken pro kW;
-- j. den höchsten Gebotswert in Franken pro kW;
-- k. den durchschnittlichen, mengengewichteten Zuschlagswert in Franken pro kW;
-- l. den niedrigsten Gebotswert, für den ein Zuschlag erteilt wurde, in Franken pro kW;
-- m. den höchsten Gebotswert, für den ein Zuschlag erteilt wurde, in Franken pro kW.
+- i.[^46h-1] den niedrigsten und den höchsten Gebotswert in Franken pro kW;
+- j.[^46h-2] den durchschnittlichen, mengengewichteten Zuschlagswert in Franken pro kW;
+- k.[^46h-3] den niedrigsten und den höchsten Gebotswert, für den ein Zuschlag erteilt wurde, in Franken pro kW;
+- l.[^46h-4] die niedrigste und die höchste gebotene Leistung in kW;
+- m.[^46h-5] die niedrigste und die höchste gebotene Leistung, für die ein Zuschlag erteilt wurde, in kW;
+- n.[^46h-6] die durchschnittliche Leistung, für die ein Zuschlag erteilt wurde, in kW.
+
+[^46h-1]: Fassung gemäss Ziff. I der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 764](https://fedlex.data.admin.ch/eli/oc/2023/764)).
+[^46h-2]: Fassung gemäss Ziff. I der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 764](https://fedlex.data.admin.ch/eli/oc/2023/764)).
+[^46h-3]: Fassung gemäss Ziff. I der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 764](https://fedlex.data.admin.ch/eli/oc/2023/764)).
+[^46h-4]: Fassung gemäss Ziff. I der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 764](https://fedlex.data.admin.ch/eli/oc/2023/764)).
+[^46h-5]: Fassung gemäss Ziff. I der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 764](https://fedlex.data.admin.ch/eli/oc/2023/764)).
+[^46h-6]: Eingefügt durch Ziff. I der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 764](https://fedlex.data.admin.ch/eli/oc/2023/764)).
 
 ### 6. Abschnitt: Gesuchsverfahren für Anlagen nach Artikel 71*a* EnG
 
@@ -824,11 +835,13 @@ Sind die Anspruchsvoraussetzungen nach Artikel 71*a* Absatz 2 EnG voraussichtlic
 
 **Teilweise Einspeisung von Elektrizität und Inbetriebnahmefrist**
 
-<sup>1</sup> Bis zum 31. Dezember 2025 muss die Anlage mindestens zehn Prozent der erwarteten Produktion der gesamten geplanten Anlage oder 10 GWh Elektrizität pro Jahr ins Stromnetz einspeisen.
+<sup>1</sup> Mit der Leistung des bis zum 31. Dezember 2025 in Betrieb genommenen und ans Stromnetz angeschlossenen Teils der Anlage muss jährlich mindestens zehn Prozent der erwarteten Jahresproduktion der gesamten geplanten Anlage oder mindestens 10 GWh erreicht werden können.[^46k-1]
 
 <sup>2</sup> Die vollständige Inbetriebnahme muss bis zum 31. Dezember 2030 erfolgen.
 
 <sup>3</sup> Wird bis zum 31. Dezember 2030 nur ein Teil der ursprünglich geplanten Anlage in Betrieb genommen, so wird die Einmalvergütung anteilsmässig für den bis dahin in Betrieb genommenen Teil berechnet und gewährt, sofern dieser Teil für sich die Anspruchsvoraussetzungen nach Artikel 71*a* Absatz 2 EnG erfüllt.
+
+[^46k-1]: Fassung gemäss Ziff. I der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 764](https://fedlex.data.admin.ch/eli/oc/2023/764)).
 
 #### Art. 46l
 
@@ -887,6 +900,18 @@ Sind die Anspruchsvoraussetzungen nach Artikel 71*a* Absatz 2 EnG zum Zeitpunkt 
 - c. 60 Prozent der definitiven anrechenbaren Investitionskosten.
 
 <sup>2</sup> Die definitiven ungedeckten Kosten werden aufgrund der definitiven anrechenbaren Investitionskosten und der gemeldeten durchschnittlichen jährlichen Nettoproduktion gestützt auf den kalkulatorischen Zinssatz und das Preisszenario, die zum Zeitpunkt der Zusicherung dem Grundsatz nach gegolten haben, berechnet.
+
+#### Art. 46p<sup>bis</sup>
+
+**Folgen des Nichteinhaltens von Anspruchsvoraussetzungen**[^46pbis-1]
+
+<sup>1</sup> Sind die Anspruchsvoraussetzungen nach Artikel 71*a* Absatz 2 EnG zum Zeitpunkt der Meldung der Nettoproduktion nicht erfüllt, so wird die Zusicherung dem Grundsatz nach widerrufen.
+
+<sup>2</sup> Liegen für das Nichteinhalten von Anspruchsvoraussetzungen Gründe vor, für die der Betreiber nicht einzustehen hat, so kann das BFE auf Gesuch des Betreibers hin den Betrachtungszeitraum nach Artikel 46*o* Absatz 1 für die Bestimmung der Nettoproduktion anpassen.
+
+<sup>3</sup> Werden die Anspruchsvoraussetzungen auch im angepassten Beobachtungszeitraum nicht eingehalten, so wird die Zusicherung dem Grundsatz nach widerrufen.
+
+[^46pbis-1]: Eingefügt durch Ziff. I der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 764](https://fedlex.data.admin.ch/eli/oc/2023/764)).
 
 #### Art. 46q
 
@@ -1178,7 +1203,10 @@ Nicht anrechenbar sind insbesondere Kosten:
 
 <sup>2</sup> Übersteigt der Investitionsbeitrag die ungedeckten Kosten, so wird er entsprechend gekürzt.
 
+<sup>3</sup> Die gesuchstellende Person hat die aktuelle unternehmensinterne Wirtschaftlichkeitsrechnung für das Projekt beim BFE einzureichen.[^63-2]
+
 [^63-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
+[^63-2]: Eingefügt durch Ziff. I der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 764](https://fedlex.data.admin.ch/eli/oc/2023/764)).
 
 #### Art. 64–66
 
@@ -1383,7 +1411,10 @@ Nicht anrechenbar sind insbesondere Kosten:
 
 <sup>2</sup> Übersteigt der Investitionsbeitrag die ungedeckten Kosten, so wird er entsprechend gekürzt.
 
+<sup>3</sup> Das BFE stellt die nötigen Grundlagen und Formulare für die Berechnung der ungedeckten Kosten zur Verfügung.[^83-2]
+
 [^83-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
+[^83-2]: Eingefügt durch Ziff. I der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 764](https://fedlex.data.admin.ch/eli/oc/2023/764)).
 
 #### Art. 84–87
 
@@ -1518,6 +1549,10 @@ Nicht anrechenbar sind insbesondere Kosten:
 
 <sup>2</sup> Übersteigt der Investitionsbeitrag die ungedeckten Kosten, so wird er entsprechend gekürzt.
 
+<sup>3</sup> Das BFE stellt die nötigen Grundlagen und Formulare für die Berechnung der ungedeckten Kosten zur Verfügung.[^87m-1]
+
+[^87m-1]: Eingefügt durch Ziff. I der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 764](https://fedlex.data.admin.ch/eli/oc/2023/764)).
+
 ## 6*b*. Kapitel: Investitionsbeiträge für die Prospektion und die Erschliessung von Geothermiereservoiren und für neue Geothermieanlagen
 
 [^chap6b-1]
@@ -1558,9 +1593,11 @@ Nicht anrechenbar sind insbesondere Kosten:
 
 <sup>1</sup> Reichen die Mittel nicht für eine sofortige Berücksichtigung aus, so werden die Projekte in eine Warteliste aufgenommen, es sei denn, sie erfüllen die Anspruchsvoraussetzungen offensichtlich nicht.
 
-<sup>2</sup> Das BFE teilt der Gesuchstellerin oder dem Gesuchsteller mit, dass das Projekt in die Warteliste aufgenommen wurde.
+<sup>2</sup> Das BFE teilt der gesuchstellenden Person[^87q-1] mit, dass das Projekt in die Warteliste aufgenommen wurde.
 
 <sup>3</sup> Stehen wieder Mittel zur Verfügung, so berücksichtigt das BFE die am weitesten fortgeschrittenen Projekte. Sind mehrere Projekte gleich weit fortgeschritten, so wird das Projekt berücksichtigt, für das das vollständige Gesuch am frühesten eingereicht wurde.
+
+[^87q-1]: Ausdruck gemäss Ziff. I der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 764](https://fedlex.data.admin.ch/eli/oc/2023/764)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 
 ### 3. Abschnitt: Gesuchsverfahren
 
@@ -1588,7 +1625,7 @@ Nicht anrechenbar sind insbesondere Kosten:
 
 **Vertrag und Zusicherung dem Grundsatz nach**
 
-<sup>1</sup> Sind die Anspruchsvoraussetzungen gemäss Anhang 2.5 für einen Investitionsbeitrag für eine Prospektion oder eine Erschliessung erfüllt und stehen Mittel zur Berücksichtigung des Gesuchs zur Verfügung, so schliesst der Bund mit der Gesuchstellerin oder dem Gesuchsteller einen verwaltungsrechtlichen Vertrag ab.
+<sup>1</sup> Sind die Anspruchsvoraussetzungen gemäss Anhang 2.5 für einen Investitionsbeitrag für eine Prospektion oder eine Erschliessung erfüllt und stehen Mittel zur Berücksichtigung des Gesuchs zur Verfügung, so schliesst der Bund mit der gesuchstellenden Person einen verwaltungsrechtlichen Vertrag ab.
 
 <sup>2</sup>
 
@@ -1680,6 +1717,10 @@ Sind die Anspruchsvoraussetzungen im Zeitpunkt der Bauabschlussmeldung noch erf�
 <sup>1</sup> Gibt es Anhaltspunkte, dass bei einer Anlage keine ungedeckten Kosten (Art. 29 Abs. 3 Bst. b<sup>bis</sup> EnG) vorliegen, so ist gemäss Anhang 4 zu berechnen, ob ungedeckte Kosten vorliegen.
 
 <sup>2</sup> Übersteigt der Investitionsbeitrag die ungedeckten Kosten, so wird er entsprechend gekürzt.
+
+<sup>3</sup> Das BFE stellt die nötigen Grundlagen und Formulare für die Berechnung der ungedeckten Kosten zur Verfügung.[^87zter-1]
+
+[^87zter-1]: Eingefügt durch Ziff. I der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 764](https://fedlex.data.admin.ch/eli/oc/2023/764)).
 
 ## 7. Kapitel: Marktprämie für Elektrizität aus Grosswasserkraftanlagen
 
@@ -1852,9 +1893,10 @@ Solange der Betreiber für eine Anlage eine Mehrkostenfinanzierung nach Artikel 
 
 <sup>3</sup> Die Beitragssätze werden regelmässig überprüft und bei einer wesentlichen Veränderung der Verhältnisse angepasst.
 
-<sup>4</sup> Der Betriebskostenbeitrag reduziert sich bei Betreibern, die nach den Artikeln 10–13 MWSTG[^96b-1] steuerpflichtig sind, um 7,1495 Prozent.
+<sup>4</sup> Der Betriebskostenbeitrag reduziert sich bei Betreibern, die nach den Artikeln 10–13 MWSTG[^96b-1] steuerpflichtig sind, um den Faktor nach Artikel 16 Absatz 4.[^96b-2]
 
 [^96b-1]: [SR 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
+[^96b-2]: Fassung gemäss Ziff. I der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 764](https://fedlex.data.admin.ch/eli/oc/2023/764)).
 
 ### 2. Abschnitt: Reihenfolge der Berücksichtigung und Warteliste
 
@@ -1872,7 +1914,7 @@ Solange der Betreiber für eine Anlage eine Mehrkostenfinanzierung nach Artikel 
 
 <sup>1</sup> Reichen die Mittel nicht für eine sofortige Berücksichtigung aus, so werden die Projekte entsprechend dem Einreichedatum des Gesuchs in eine Warteliste aufgenommen, es sei denn, sie erfüllen die Anspruchsvoraussetzungen offensichtlich nicht.
 
-<sup>2</sup> Die Vollzugsstelle teilt der Gesuchstellerin oder dem Gesuchsteller mit, dass das Projekt in die Warteliste aufgenommen wurde.
+<sup>2</sup> Die Vollzugsstelle teilt der gesuchstellenden Person mit, dass das Projekt in die Warteliste aufgenommen wurde.
 
 <sup>3</sup> Stehen wieder Mittel zur Verfügung, so werden zuerst diejenigen Anlagen berücksichtigt, die eine Mehrkostenfinanzierung nach Artikel 73 Absatz 4 EnG erhalten oder am Einspeisevergütungssystem teilgenommen hatten.
 
@@ -2201,7 +2243,7 @@ Anhang 1.1[^t-1]
 - 2\.4.1 Beträgt der Anteil des nach dem Stand der Technik realisierten Wasserbaus, einschliesslich der Druckleitungen, weniger als 20 Prozent der gesamten Investitionskosten des Projekts, so entfällt der Anspruch auf den Wasserbau-Bonus. Beträgt er mehr als 50 Prozent, so besteht Anspruch auf den vollen Bonus. Zwischen 20 Prozent und 50 Prozent wird er gemäss der unten stehenden Grafik linear interpoliert. Massnahmen nach Artikel 83*a* GSchG[^annex11-lvlu1-lvl2-1] oder nach Artikel 10 BGF[^annex11-lvlu1-lvl2-2] sind für den Bonus nicht anrechenbar.
 - 2\.4.2 Dotierkraftwerke haben keinen Anspruch auf den Wasserbau-Bonus. Nebennutzungsanlagen mit einer Leistung von mehr als 100 kW haben nur bis zur äquivalenten Leistung von 100 kW Anspruch auf den Wasserbau-Bonus.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20230701/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20240101/de/xml/image/image2.png)
 
 - 2\.4.3 Der Satz für den Wasserbau-Bonus beträgt ab 1. Januar 2013 je Leistungsklasse:
 
@@ -2559,7 +2601,7 @@ Anhang 1.4[^t-4]
 
 - 3\.1 Geothermieanlagen müssen spätestens ab Beginn des dritten vollen Kalenderjahres nach der Inbetriebnahme einen minimalen Gesamtnutzungsgrad respektive Elektrizitätsnutzungsgrad gemäss folgendem Diagramm aufweisen:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20230701/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20240101/de/xml/image/image3.png)
 
 - 3\.2 Die für die Bestimmung des Gesamtnutzungsgrads relevante Beurteilungsperiode ist das ganze Kalenderjahr; der Gesamtnutzungsgrad bezieht sich auf die jährliche Energie am Bohrlochkopf mit:
 - Nutzungsgrad Wärme = genutzte Wärme dividiert durch Energie am Bohrlochkopf
@@ -2684,7 +2726,7 @@ Anhang 1.5[^t-5]
 - 2\.2.2 Die Beurteilungsperiode für die energetischen Mindestanforderungen ist das ganze Kalenderjahr.
 - 2\.2.3 Dampfprozesse, insbesondere Organic-Rankine-Cycle, Dampfturbinen und Dampfmotoren müssen einen minimalen Gesamtenergienutzungsgrad gemäss folgendem Diagramm erreichen:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20230701/de/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20240101/de/xml/image/image4.png)
 
 - Für die Berechnung des Gesamtnutzungsgrades wird der untere Heizwert H<sub>u</sub> des eingesetzten Brennstoffs verwendet.
 - Berechnung:
@@ -2697,7 +2739,7 @@ Anhang 1.5[^t-5]
   - a. elektrischer Wirkungsgrad:
   - Das WKK-Modul muss einen minimalen elektrischen Wirkungsgrad gemäss folgendem Diagramm erreichen:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20230701/de/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20240101/de/xml/image/image5.png)
 
 - b.
 
@@ -2861,11 +2903,11 @@ Anhang 1.5[^t-5]
 
 Anhang 2.1[^t-6]
 
-(Art. 7, 38, 41–43, 45, 46*d,* 46*i* und 46*l*)
+(Art. 7, 38, 41–43, 45 und 46*d*)
 
 ## Einmalvergütung für Photovoltaikanlagen
 
-[^t-6]: Bereinigt gemäss Ziff. II der V vom 27. Febr. 2019 ([AS 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)), vom 25. Nov. 2020 ([AS 2020 6129](https://fedlex.data.admin.ch/eli/oc/2020/1013)), Ziff. II der V vom 24. Nov. 2021 ([AS 2021 820](https://fedlex.data.admin.ch/eli/oc/2021/820)), Ziff. II Abs. 1 der V vom 23. Nov. 2022 ([AS 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)) und Ziff. II der V vom 17. März 2023, in Kraft seit 1. April 2023 ([AS 2023 144](https://fedlex.data.admin.ch/eli/oc/2023/144)).
+[^t-6]: Bereinigt gemäss Ziff. II der V vom 27. Febr. 2019 ([AS 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)), vom 25. Nov. 2020 ([AS 2020 6129](https://fedlex.data.admin.ch/eli/oc/2020/1013)), Ziff. II der V vom 24. Nov. 2021 ([AS 2021 820](https://fedlex.data.admin.ch/eli/oc/2021/820)), Ziff. II Abs. 1 der V vom 23. Nov. 2022 ([AS 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)), Ziff. II der V vom 17. März 2023 ([AS 2023 144](https://fedlex.data.admin.ch/eli/oc/2023/144)) und vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 764](https://fedlex.data.admin.ch/eli/oc/2023/764)).
 
 ### 1 Anlagendefinition
 
@@ -2925,22 +2967,22 @@ Anhang 2.1[^t-6]
 - 2\.8 Für integrierte Anlagen, die ab dem 1. Januar 2023 in Betrieb genommen wurden, gelten die folgenden Ansätze:
 
 <table>
-<tr><th></th><th>Leistungsklasse</th><th></th></tr>
-<tr><td>Grundbeitrag (Fr.)</td><td>2–5 kW</td><td>200</td></tr>
-<tr><td></td><td>&gt;5 kW</td><td>0</td></tr>
-<tr><td>Leistungsbeitrag (Fr./kW)</td><td>&lt;30 kW</td><td>440</td></tr>
-<tr><td></td><td>30–&lt;100 kW</td><td>330</td></tr>
+<tr><th></th><th>Leistungsklasse</th><th>1.1.2023−31.03.2024</th><th>Ab 1.4.2024</th></tr>
+<tr><td>Grundbeitrag (Fr.)</td><td>2–5 kW</td><td>200</td><td>0</td></tr>
+<tr><td></td><td>&gt;5 kW</td><td>0</td><td>0</td></tr>
+<tr><td>Leistungsbeitrag (Fr./kW)</td><td>&lt;30 kW</td><td>440</td><td>420</td></tr>
+<tr><td></td><td>30–&lt;100 kW</td><td>330</td><td>330</td></tr>
 </table>
 
 - 2\.9 Für angebaute und freistehende Anlagen, die ab dem 1. Januar 2023 in Betrieb genommen wurden, gelten die folgenden Ansätze:
 
 <table>
-<tr><th></th><th>Leistungsklasse</th><th></th></tr>
-<tr><td>Grundbeitrag (Fr.)</td><td>2–5 kW</td><td>200</td></tr>
-<tr><td></td><td>&gt;5 kW</td><td>0</td></tr>
-<tr><td>Leistungsbeitrag (Fr./kW)</td><td>&lt;30 kW</td><td>400</td></tr>
-<tr><td></td><td>30–&lt;100 kW</td><td>300</td></tr>
-<tr><td></td><td>≥100 kW</td><td>270</td></tr>
+<tr><th></th><th>Leistungsklasse</th><th>1.1.2023−31.03.2024</th><th>Ab 1.4.2024</th></tr>
+<tr><td>Grundbeitrag (Fr.)</td><td>2–5 kW</td><td>200</td><td>0</td></tr>
+<tr><td></td><td>&gt;5 kW</td><td>0</td><td>0</td></tr>
+<tr><td>Leistungsbeitrag (Fr./kW)</td><td>&lt;30 kW</td><td>400</td><td>380</td></tr>
+<tr><td></td><td>30–&lt;100 kW</td><td>300</td><td>300</td></tr>
+<tr><td></td><td>≥100 kW</td><td>270</td><td>270</td></tr>
 </table>
 
 - 2\.10 Für neue Anlagen ohne Eigenverbrauch mit einer Leistung von weniger als 150 kW und für erhebliche Erweiterungen solcher Anlagen um weniger als 150 kW Leistung beträgt der Leistungsbeitrag 450 Franken pro kW, sofern die Anlage oder die Erweiterung ab dem 1. Januar 2023 in Betrieb genommen wurde. Ein Grundbeitrag wird für diese Anlagen nicht ausgerichtet.
@@ -3050,7 +3092,7 @@ Anhang 2.2[^t-7]
 
 ## Investitionsbeitrag für Wasserkraftanlagen
 
-[^t-7]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
+[^t-7]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 23. Nov. 2022 ([AS 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)) und Ziff. II der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 764](https://fedlex.data.admin.ch/eli/oc/2023/764)).
 
 ### 1 Anlagendefinition
 
@@ -3082,7 +3124,7 @@ Anhang 2.2[^t-7]
 
 ### 3 Nutzungsdauertabelle
 
-- Für die Berechnung der nicht amortisierbaren Mehrkosten wird von der folgenden Nutzungsdauer der einzelnen Anlagenbestandteile ausgegangen:
+- Für die Wirtschaftlichkeitsrechnung wird von der folgenden Nutzungsdauer der einzelnen Anlagenbestandteile ausgegangen:
 
 <table>
 <tr><th>Anlagenbestandteil</th><th>Jahre</th></tr>
@@ -3384,8 +3426,8 @@ Anhang 2.5[^t-10]
 
   Kann der Prospektionsbeitrag gewährt werden, so werden im Vertrag nach Artikel 87*t* Absatz 1 insbesondere folgende Punkte geregelt:
 
-  - a. die von der Gesuchstellerin oder dem Gesuchsteller zu erreichenden Meilensteine und die einzuhaltenden Termine;
-  - b. die Informationspflicht der Gesuchstellerin oder des Gesuchstellers gegenüber dem BFE namentlich bezüglich der Finanzrapporte, der Schlussabrechnungen und allfälliger Änderungen des Projekts;
+  - a. die von der gesuchstellenden Person zu erreichenden Meilensteine und die einzuhaltenden Termine;
+  - b. die Informationspflicht der gesuchstellenden Person gegenüber dem BFE namentlich bezüglich der Finanzrapporte, der Schlussabrechnungen und allfälliger Änderungen des Projekts;
   - c. Umfang, Bedingungen und Fälligkeiten des Prospektionsbeitrags;
   - d. die unentgeltliche Übertragung der Anlage auf den Bund und die Einräumung eines Kaufrechts am Grundstück zugunsten des Bundes, wenn ein Projekt nicht weiterverfolgt und auch nicht anderweitig genutzt wird; vorbehalten bleiben kantonale Monopole;
   - e. die Offenlegung aller finanzieller Daten, die zur Berechnung allfälliger Verluste oder Gewinne nach den Artikeln 34 und 34*a* notwendig sind;
@@ -3441,8 +3483,8 @@ Anhang 2.5[^t-10]
 
   Kann der Erschliessungsbeitrag gewährt werden, so werden im Vertrag nach Artikel 87*t* Absatz 1 insbesondere folgende Punkte geregelt:
 
-  - a. die von der Gesuchstellerin oder dem Gesuchsteller zu erreichenden Meilensteine und die einzuhaltenden Termine;
-  - b. die Informationspflicht der Gesuchstellerin oder des Gesuchstellers gegenüber dem BFE namentlich bezüglich der Finanzrapporte, der Schlussabrechnungen und allfälliger Änderungen des Projekts;
+  - a. die von der gesuchstellenden Person zu erreichenden Meilensteine und die einzuhaltenden Termine;
+  - b. die Informationspflicht der gesuchstellenden Person gegenüber dem BFE namentlich bezüglich der Finanzrapporte, der Schlussabrechnungen und allfälliger Änderungen des Projekts;
   - c. Umfang, Bedingungen und Fälligkeiten des Erschliessungsbeitrags;
   - d. die unentgeltliche Übertragung der Anlage auf den Bund und die Einräumung eines Kaufrechts am Grundstück zugunsten des Bundes, wenn ein Projekt nicht weiterverfolgt und auch nicht anderweitig genutzt wird; vorbehalten bleiben kantonale Monopole;
   - e. die Offenlegung aller finanziellen Daten, die zur Berechnung allfälliger Verluste oder Gewinne nach den Artikeln 34 und 34*a* notwendig sind;
@@ -3458,7 +3500,7 @@ Anhang 2.5[^t-10]
 
 ### 5 Zugang zu den und Nutzung der Geodaten
 
-- 5\.1 Die Gesuchstellerin oder der Gesuchsteller stellt dem swisstopo und dem Standortkanton jeweils spätestens sechs Monate nach der Erhebung die jeweiligen Geodaten nach den technischen Vorgaben des swisstopo unentgeltlich zur Verfügung.
+- 5\.1 Die gesuchstellende Person stellt dem swisstopo und dem Standortkanton jeweils spätestens sechs Monate nach der Erhebung die jeweiligen Geodaten nach den technischen Vorgaben des swisstopo unentgeltlich zur Verfügung.
 - 5\.2
 
   Die Geodaten dürfen genutzt werden:
@@ -3570,11 +3612,11 @@ Anhang 3[^t-12]
 
 Anhang 4[^t-13]
 
-(Art. 46*t*, 63, 83, 87*m*, 87*z*<sup>ter</sup>)
+(Art. 46*t*, 63, 83, 87*m* und 87*z*<sup>ter</sup>)
 
 ## Berechnung der ungedeckten Kosten
 
-[^t-13]: Eingefügt durch Ziff. II Abs. 3 der V vom 23. Nov. 2022 ([AS 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)). Bereinigt gemäss Ziff. II der V vom 17. März 2023, in Kraft seit 1. April 2023 ([AS 2023 144](https://fedlex.data.admin.ch/eli/oc/2023/144)).
+[^t-13]: Eingefügt durch Ziff. II Abs. 3 der V vom 23. Nov. 2022 ([AS 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)). Bereinigt gemäss Ziff. II der V vom 17. März 2023 ([AS 2023 144](https://fedlex.data.admin.ch/eli/oc/2023/144)) und vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 764](https://fedlex.data.admin.ch/eli/oc/2023/764)).
 
 ### 1 Allgemeine Berechnungsgrundlagen
 
@@ -3596,18 +3638,19 @@ Anhang 4[^t-13]
 
 ### 2 Berechnung bei Wasserkraftanlagen
 
-- 2\.1
+- 2\.1 Bei der unternehmensinternen Wirtschaftlichkeitsrechnung kann der durchschnittliche Kapitalkostensatz von dem kalkulatorischen Zinssatz gemäss Anhang 3 abweichen.
+- 2\.2
 
   Bei Wasserkraftanlagen sind zusätzlich zu Ziffer 1.2 folgende Geldabflüsse anrechenbar:
 
-  - a. Kosten für die Energie, die allfällige Zubringerpumpen benötigen, zu Marktpreisen;
-  - b. Kosten für den Einstauersatz;
-  - c. Wasserzinsen;
-  - d. direkte Steuern.
+  - a) Kosten für die Energie, die allfällige Zubringerpumpen benötigen, zu Marktpreisen;
+  - b) Kosten für Einstauersatz;
+  - c) Wasserzinsen;
+  - d) direkte Steuern.
 
-- 2\.2 Benötigt eine Wasserkraftanlage eine Konzession, so sind die anrechenbaren Geldabflüsse in Abweichung von Ziffer 1.2.2 über die verbleibende Konzessionsdauer zu berücksichtigen.
-- 2\.3 Die anzurechnenden Geldzuflüsse berechnen sich gestützt auf ein wirtschaftlich optimiertes stündliches Profil oder gestützt auf Standardproduktionsprofile für die Nettoproduktion über die verbleibende Konzessionsdauer.
-- 2\.4 Investitionen werden über ihre Nutzungsdauer linear abgeschrieben, und allfällige Restwerte werden am Ende der Konzessionsdauer als Geldzuflüsse berücksichtigt.
+- 2\.3 Benötigt eine Wasserkraftanlage eine Konzession, so sind die anrechenbaren Geldabflüsse über die verbleibende Konzessionsdauer zu berücksichtigen.
+- 2\.4 Die anzurechnenden Geldzuflüsse berechnen sich, gestützt auf die Erwartungswerte des Preisszenarios und des Wasseraufkommens für das Projekt, auf der Grundlage eines mittleren Preisszenarios und eines mittleren Wasseraufkommens sowie weiterer Erträge.
+- 2\.5 Die in der eingereichten Wirtschaftlichkeitsrechnung gemachten Annahmen sind durch die gesuchstellende Person detailliert zu begründen und zu belegen.
 
 ### 3 Berechnung bei Photovoltaikanlagen nach Artikel 71*a* EnG
 

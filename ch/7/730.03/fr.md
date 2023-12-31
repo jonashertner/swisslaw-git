@@ -4,11 +4,11 @@ title: "Ordonnance du 1<sup>er</sup> novembre 2017 sur l'encouragement de la pro
 short: OEneR
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/766"
 language: fr
-version: 2023-07-01
+version: 2024-01-01
 adopted: 2017-11-01
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-2017-766-20230701-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/766/20230701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-766-20240101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/766/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/766/20230701/fr"
 
 (OEneR)
 
-du 1<sup>er</sup> novembre 2017 (État le 1<sup>er</sup> juillet 2023)
+du 1<sup>er</sup> novembre 2017 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -111,11 +111,9 @@ Sont réputées petites installations photovoltaïques:
 
 #### Art. 8
 
-**Droit d’option pour les installations photovoltaïques**
+[^8-1]
 
-<sup>1</sup> Les exploitants de grandes installations photovoltaïques d’une puissance inférieure ou égale à 50 MW peuvent opter entre la rétribution de l’injection et une rétribution unique.
-
-<sup>2</sup> Ils exercent ce droit d’option de manière définitive en déposant la demande pour l’une ou l’autre forme d’encouragement. Une demande de rétribution unique pour les petites installations photovoltaïques après leur mise en service (art. 41) est réservée.
+[^8-1]: Abrogé par le ch. I de l’O du 29 nov. 2023, avec effet au 1<sup>er</sup> janv. 2024 ([RO 2023 764](https://fedlex.data.admin.ch/eli/oc/2023/764)).
 
 #### Art. 9
 
@@ -214,10 +212,12 @@ Seules les grandes installations photovoltaïques peuvent participer au système
 
 <sup>3</sup> Les taux de rétribution sont régulièrement contrôlés et adaptés en cas de modification substantielle des conditions.
 
-<sup>4</sup> La prime d’injection se réduit de 7,1495 % auprès des exploitants assujettis à l’impôt en application des art. 10 à 13 de la loi du 12 juin 2009 sur la TVA (LTVA)[^16-1].[^16-2]
+<sup>4</sup> La prime d’injection est réduite du facteur du taux normal en vigueur fixé à l’art. 25, al. 1, de la loi du 12 juin 2009 sur la TVA (LTVA)[^16-1], arrondi à la quatrième décimale, pour les exploitants assujettis à l’impôt en application des art. 10 à 13 LTVA; le facteur est calculé comme suit:
+
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20240101/fr/xml/image/image1.png) .[^16-2]
 
 [^16-1]: [RS 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
-[^16-2]: Introduit par le ch. I de l’O du 27 fév. 2019, en vigueur depuis le 1<sup>er</sup> avr. 2019 ([RO 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)).
+[^16-2]: Introduit par le ch. I de l’O du 27 fév. 2019 ([RO 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)). Nouvelle teneur selon le ch. I de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 764](https://fedlex.data.admin.ch/eli/oc/2023/764)).
 
 #### Art. 17
 
@@ -431,11 +431,12 @@ L’organe d’exécution décide l’exclusion d’un exploitant du système de
 - a.[^30-1] ne sont pas respectées à plusieurs reprises et que la prime d’injection n’a pas été versée pour cette raison pendant trois années civiles consécutives (art. 29, al. 1);
 - b. n’ont pas été respectées pendant une année civile entière après l’expiration du délai visé à l’art. 29, al. 3.
 
-<sup>2</sup> Une sortie du système de rétribution de l’injection est possible en tout temps moyennant un délai de résiliation de trois mois pour la fin d’un trimestre.
+<sup>2</sup> Une sortie du système de rétribution de l’injection est possible en tout temps moyennant un délai de résiliation d’un mois pour la fin d’un trimestre.[^30-2]
 
 <sup>3</sup> Après une exclusion ou une sortie, une nouvelle participation au système de rétribution de l’injection est exclue.
 
 [^30-1]: Nouvelle teneur selon le ch. I de l’O du 27 fév. 2019, en vigueur depuis le 1<sup>er</sup> avr. 2019 ([RO 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)).
+[^30-2]: Nouvelle teneur selon le ch. I de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 764](https://fedlex.data.admin.ch/eli/oc/2023/764)).
 
 ## Chapitre 3 Dispositions générales relatives à la rétribution unique et aux contributions d’investissement
 
@@ -445,9 +446,9 @@ L’organe d’exécution décide l’exclusion d’un exploitant du système de
 
 <sup>1</sup> Tant que l’exploitant obtient, pour une installation, un financement des frais supplémentaires au sens de l’art. 73, al. 4, LEne ou une rétribution de l’injection, aucune rétribution unique ou contribution d’investissement ne peut lui être allouée.
 
-<sup>2</sup> …[^31-1]
+<sup>2</sup> Un exploitant ayant déjà participé au système de rétribution de l’injection avec une partie de son installation photovoltaïque ne peut demander aucune rétribution unique pour cette partie.[^31-1]
 
-[^31-1]: Introduit par le ch. I de l’O du 25 nov. 2020 ([RO 2020 6129](https://fedlex.data.admin.ch/eli/oc/2020/1013)). Abrogé par le ch. I de l’O du 23 nov. 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
+[^31-1]: Introduit par le ch. I de l’O du 25 nov. 2020 ([RO 2020 6129](https://fedlex.data.admin.ch/eli/oc/2020/1013)). Nouvelle teneur selon le ch. I de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 764](https://fedlex.data.admin.ch/eli/oc/2023/764)).
 
 #### Art. 32
 
@@ -727,13 +728,15 @@ Il octroie l’adjudication aux offres qui:
 
 **Délai et avis de mise en service**
 
-<sup>1</sup> L’installation doit être mise en service au plus tard 18 mois après l’entrée en force de l’adjudication.
+<sup>1</sup> L’installation doit être mise en service au plus tard 24 mois après l’entrée en force de l’adjudication.[^46d-1]
 
 <sup>2</sup> La mise en service doit être annoncée à l’organe d’exécution dans les trois mois suivant la mise en service.
 
 <sup>3</sup> L’avis de mise en service doit comporter les données et les documents visés à l’annexe 2.1, ch. 4.2.
 
 <sup>4</sup> Si le requérant ne peut pas respecter le délai de mise en service pour des raisons qui ne lui sont pas imputables, l’organe d’exécution peut prolonger celui-ci sur demande. La demande doit être déposée avant l’expiration du délai.
+
+[^46d-1]: Nouvelle teneur selon le ch. I de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 764](https://fedlex.data.admin.ch/eli/oc/2023/764)).
 
 #### Art. 46e
 
@@ -786,11 +789,19 @@ L’organe d’exécution publie les informations suivantes sur les mises aux en
 - f. le nombre d’offres exclues;
 - g. le volume des offres exclues en kW;
 - h. l’enchère maximale admise en francs par kW;
-- i. l’enchère la plus basse en francs par kW;
-- j. l’enchère la plus élevée en francs par kW;
-- k. la valeur d’adjudication moyenne, pondérée en fonction du volume, en francs par kW;
-- l. le montant, en francs par kW, de l’enchère la plus basse ayant obtenu une adjudication;
-- m. le montant, en francs par kW, de l’enchère la plus élevée ayant obtenu une adjudication.
+- i.[^46h-1] l’enchère la plus basse et l’enchère la plus élevée en francs par kW;
+- j.[^46h-2] la valeur d’adjudication moyenne, pondérée en fonction du volume, en francs par kW;
+- k.[^46h-3] le montant, en francs par kW, de l’enchère la plus basse ayant obtenu une adjudication et de l’enchère la plus élevée ayant obtenu une adjudication;
+- l.[^46h-4] la puissance la plus basse et la puissance la plus élevée proposées dans les offres, en kW;
+- m.[^46h-5] la puissance la plus basse et la puissance la plus élevée proposées dans les offres ayant obtenu une adjudication, en kW;
+- n.[^46h-6] la puissance moyenne ayant obtenu une adjudication, en kW.
+
+[^46h-1]: Nouvelle teneur selon le ch. I de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 764](https://fedlex.data.admin.ch/eli/oc/2023/764)).
+[^46h-2]: Nouvelle teneur selon le ch. I de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 764](https://fedlex.data.admin.ch/eli/oc/2023/764)).
+[^46h-3]: Nouvelle teneur selon le ch. I de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 764](https://fedlex.data.admin.ch/eli/oc/2023/764)).
+[^46h-4]: Nouvelle teneur selon le ch. I de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 764](https://fedlex.data.admin.ch/eli/oc/2023/764)).
+[^46h-5]: Nouvelle teneur selon le ch. I de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 764](https://fedlex.data.admin.ch/eli/oc/2023/764)).
+[^46h-6]: Introduite par le ch. I de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 764](https://fedlex.data.admin.ch/eli/oc/2023/764)).
 
 ### Section 6 Procédure de demande pour les installations visées à l’art. 71*a* LEne
 
@@ -824,11 +835,13 @@ Lorsque les conditions d’octroi énumérées à l’art. 71*a*, al. 2, LEne, s
 
 **Injection partielle d’électricité et délai de mise en service**
 
-<sup>1</sup> Au 31 décembre 2025, l’installation doit injecter au moins 10% de la production attendue pour l’ensemble de l’installation prévue ou 10 GWh d’électricité par an dans le réseau électrique.
+<sup>1</sup> La puissance de la partie de l’installation mise en service et raccordée au réseau électrique au 31 décembre 2025 doit permettre de produire chaque année au moins 10 % de la production annuelle attendue pour l’ensemble de l’installation prévue ou au moins10 GWh.[^46k-1]
 
 <sup>2</sup> La mise en service complète doit avoir lieu le 31 décembre 2030 au plus tard.
 
 <sup>3</sup> Si, au 31 décembre 2030, seule une partie de l’installation initialement prévue a été mise en service, la rétribution unique est calculée et allouée proportionnellement à la partie mise en service à cette date, pour autant que cette partie remplisse les conditions d’octroi énumérées à l’art. 71*a*, al. 2, LEne.
+
+[^46k-1]: Nouvelle teneur selon le ch. I de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 764](https://fedlex.data.admin.ch/eli/oc/2023/764)).
 
 #### Art. 46l
 
@@ -887,6 +900,18 @@ Si les conditions d’octroi énumérées à l’art. 71*a*, al. 2, LEne sont en
 - c. 60% des coûts d’investissement imputables définitifs.
 
 <sup>2</sup> Les coûts non couverts définitifs sont calculés sur la base des coûts d’investissement imputables définitifs et de la moyenne annuelle de la production nette déclarée, compte tenu du taux d’intérêt calculé et du scénario de prix qui s’appliquaient au moment de l’octroi de la garantie de principe.
+
+#### Art. 46p<sup>bis</sup>
+
+**Conséquences en cas de non-respect des conditions d’octroi**[^46pbis-1]
+
+<sup>1</sup> Si les conditions d’octroi énumérées à l’art. 71*a*, al. 2, LEne ne sont pas remplies au moment de la déclaration de la production nette, la garantie de principe est révoquée.
+
+<sup>2</sup> En cas de circonstances qui ne sont pas imputables à l’exploitant et qui justifient le non-respect des conditions d’octroi, l’OFEN peut, sur demande de celui-ci, pour ce qui concerne le calcul de la production nette, adapter la période prise en compte en vertu de l’art. 46*o*, al. 1.
+
+<sup>3</sup> Si les conditions d’octroi ne sont pas respectées malgré l’adaptation de la période prise en compte, la garantie de principe est révoquée.
+
+[^46pbis-1]: Introduit par le ch. I de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 764](https://fedlex.data.admin.ch/eli/oc/2023/764)).
 
 #### Art. 46q
 
@@ -1178,7 +1203,10 @@ Ne sont notamment pas imputables:
 
 <sup>2</sup> Lorsque la contribution d’investissement est supérieure aux coûts non couverts, elle est réduite en conséquence.
 
+<sup>3</sup> Le requérant doit fournir à l’OFEN le calcul de rentabilité interne à l’entreprise actualisé pour le projet.[^63-2]
+
 [^63-1]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
+[^63-2]: Introduit par le ch. I de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 764](https://fedlex.data.admin.ch/eli/oc/2023/764)).
 
 #### Art. 64 à 66
 
@@ -1383,7 +1411,10 @@ Ne sont notamment pas imputables:
 
 <sup>2</sup> Lorsque la contribution d’investissement est supérieure aux coûts non couverts, elle est réduite en conséquence.
 
+<sup>3</sup> L’OFEN met à disposition la documentation et les formulaires nécessaires au calcul des coûts non couverts.[^83-2]
+
 [^83-1]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
+[^83-2]: Introduit par le ch. I de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 764](https://fedlex.data.admin.ch/eli/oc/2023/764)).
 
 #### Art. 84 à 87
 
@@ -1517,6 +1548,10 @@ Ne sont notamment pas imputables:
 <sup>1</sup> Lorsque des indices donnent à penser qu’il n’y a pas de coûts non couverts pour l’installation concernée (art. 29, al. 3, let. b<sup>bis</sup>, LEne), un calcul est effectué selon l’annexe 4 pour déterminer s’il y a des coûts non couverts.
 
 <sup>2</sup> Lorsque la contribution d’investissement est supérieure aux coûts non couverts, elle est réduite en conséquence.
+
+<sup>3</sup> L’OFEN met à disposition la documentation et les formulaires nécessaires au calcul des coûts non couverts.[^87m-1]
+
+[^87m-1]: Introduit par le ch. I de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 764](https://fedlex.data.admin.ch/eli/oc/2023/764)).
 
 ## Chapitre 6*b* Contributions d’investissement allouées pour la prospection et pour la mise en valeur d’un réservoir géothermique et pour de nouvelles installations géothermiques
 
@@ -1680,6 +1715,10 @@ Si les conditions d’octroi sont encore remplies au moment de l’avis de fin d
 <sup>1</sup> Lorsque des indices donnent à penser qu’il n’y a pas de coûts non couverts pour l’installation concernée (art. 29, al. 3, let. b<sup>bis</sup>, LEne), un calcul est effectué selon l’annexe 4 pour déterminer s’il y a des coûts non couverts.
 
 <sup>2</sup> Lorsque la contribution d’investissement est supérieure aux coûts non couverts, elle est réduite en conséquence.
+
+<sup>3</sup> L’OFEN met à disposition la documentation et les formulaires nécessaires au calcul des coûts non couverts.[^87zter-1]
+
+[^87zter-1]: Introduit par le ch. I de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 764](https://fedlex.data.admin.ch/eli/oc/2023/764)).
 
 ## Chapitre 7 Prime de marché rétribuant l’électricité produite par de grandes installations hydroélectriques
 
@@ -1853,9 +1892,10 @@ Tant que l’exploitant obtient, pour une installation, un financement des frais
 
 <sup>3</sup> Les taux de contribution sont régulièrement contrôlés et adaptés en cas de modification substantielle des conditions.
 
-<sup>4</sup> La contribution aux coûts d’exploitation est réduite de 7,1495 % pour les exploitants qui sont assujettis à l’impôt visé aux art. 10 à 13 LTVA[^96b-1].
+<sup>4</sup> La contribution aux coûts d’exploitation est réduite du facteur prévu à l’art. 16, al. 4, pour les exploitants assujettis à l’impôt en application des art. 10 à 13 LTVA[^96b-1].[^96b-2]
 
 [^96b-1]: [RS 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
+[^96b-2]: Nouvelle teneur selon le ch. I de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 764](https://fedlex.data.admin.ch/eli/oc/2023/764)).
 
 ### Section 2 Ordre de prise en compte et liste d’attente
 
@@ -2202,7 +2242,7 @@ Annexe 1.1[^t-1]
 - 2\.4.1 Si la part de l’aménagement des eaux, y compris les conduites sous pression, réalisée selon l’état de la technique est inférieure à 20 % de l’ensemble des coûts d’investissement du projet, il n’existe aucun droit à un bonus d’aménagement des eaux. Si cette part est supérieure à 50 %, le droit au bonus complet est donné. Entre 20 et 50 %, le calcul repose sur une interpolation linéaire selon le graphique ci-dessous. Les mesures visées à l’art. 83*a* LEaux[^annex11-lvlu1-lvl2-1] ou visées à l’art. 10 LFSP[^annex11-lvlu1-lvl2-2] ne sont pas imputables pour le bonus.
 - 2\.4.2 Les centrales de dotation n’ont pas droit au bonus d’aménagement des eaux. Les installations d’exploitation accessoire d’une puissance supérieure à 100 kW n’ont droit au bonus d’aménagement des eaux que pour la part allant jusqu’à une puissance équivalente de 100 kW.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20230701/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20240101/fr/xml/image/image2.png)
 
 - 2\.4.3 Taux du bonus d’aménagement des eaux par classe de puissance à partir du 1<sup>er</sup> janvier 2013:
 
@@ -2560,7 +2600,7 @@ Annexe 1.4[^t-4]
 
 - 3\.1 Les installations géothermiques doivent présenter le taux d’utilisation global minimal et le taux d’utilisation de l’électricité minimal indiqués dans le graphique suivant au plus tard à compter du début de la troisième année civile complète suivant la mise en service:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20230701/fr/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20240101/fr/xml/image/image3.png)
 
 - 3\.2 La période d’évaluation déterminante pour établir le taux d’utilisation global est l’année civile complète; le taux d’utilisation global se rapporte à l’énergie mesurée en une année à la tête de forage.
 - Taux d’utilisation de la chaleur = chaleur utilisée divisée par l’énergie à la tête de forage
@@ -2684,7 +2724,7 @@ Annexe 1.5[^t-5]
 - 2\.2.2 La période d’évaluation pour les exigences énergétiques minimales est l’année civile complète.
 - 2\.2.3 Les cycles vapeur, en particulier les installations ORC (*Organic Rankine Cycle*), les turbines à vapeur et les moteurs à vapeur, doivent présenter un taux d’utilisation énergétique global minimal correspondant au graphique suivant:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20230701/fr/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20240101/fr/xml/image/image4.png)
 
 - Le calcul du taux d’utilisation énergétique global se rapporte au pouvoir calorifique inférieur H<sub>u</sub> du combustible introduit.
 - Calcul:
@@ -2697,7 +2737,7 @@ Annexe 1.5[^t-5]
   - a. Taux d’efficacité électrique:
   - Le module CCF doit atteindre un taux d’efficacité électrique minimal correspondant au graphique suivant:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20230701/fr/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20240101/fr/xml/image/image5.png)
 
 - b.
 
@@ -2858,11 +2898,11 @@ Annexe 1.5[^t-5]
 
 Annexe 2.1[^t-6]
 
-(art. 7, 38, 41 à 43, 45, 46*d*, 46*i* et 46*l*)
+(art. 7, 38, 41 à 43, 45, 46*d*)
 
 ## Rétribution unique allouée pour les installations photovoltaïques
 
-[^t-6]: Mise à jour par le ch. II des O du 27 fév. 2019 ([RO 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)), du 25 nov. 2020 ([RO 2020 6129](https://fedlex.data.admin.ch/eli/oc/2020/1013)), du 24 nov. 2021 ([RO 2021 820](https://fedlex.data.admin.ch/eli/oc/2021/820)), le ch. II al. 1 de l’O du 23 nov. 2022 ([RO 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)) et le ch. II de l’O du 17 mars 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 144](https://fedlex.data.admin.ch/eli/oc/2023/144)).
+[^t-6]: Mise à jour par le ch. II des O du 27 fév. 2019 ([RO 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)), du 25 nov. 2020 ([RO 2020 6129](https://fedlex.data.admin.ch/eli/oc/2020/1013)), du 24 nov. 2021 ([RO 2021 820](https://fedlex.data.admin.ch/eli/oc/2021/820)), le ch. II al. 1 de l’O du 23 nov. 2022 ([RO 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)), le ch. II des O du 17 mars 2023 ([RO 2023 144](https://fedlex.data.admin.ch/eli/oc/2023/144)) et du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 764](https://fedlex.data.admin.ch/eli/oc/2023/764)).
 
 ### 1 Définition des installations
 
@@ -2922,22 +2962,22 @@ Annexe 2.1[^t-6]
 - 2\.8 Les taux suivants s’appliquent pour les installations intégrées mises en service à partir du 1<sup>er</sup> janvier 2023:
 
 <table>
-<tr><th></th><th>Classe de puissance</th><th></th></tr>
-<tr><td>Contribution de base (CHF)</td><td>2–5 kW</td><td>200</td></tr>
-<tr><td></td><td>&gt;5 kW</td><td>0</td></tr>
-<tr><td>Contribution liée à la puissance (CHF/kW)</td><td>&lt;30 kW</td><td>440</td></tr>
-<tr><td></td><td>30–&lt;100 kW</td><td>330</td></tr>
+<tr><th></th><th>Classe de puissance</th><th>1.1.2023–31.3.2024</th><th>À partir du 1.4.2024</th></tr>
+<tr><td>Contribution de base (CHF)</td><td>2–5 kW</td><td>200</td><td>0</td></tr>
+<tr><td></td><td>&gt;5 kW</td><td>0</td><td>0</td></tr>
+<tr><td>Contribution liée à la puissance (CHF/kW)</td><td>&lt;30 kW</td><td>440</td><td>420</td></tr>
+<tr><td></td><td>30–&lt;100 kW</td><td>330</td><td>330</td></tr>
 </table>
 
 - 2\.9 Les taux suivants s’appliquent pour les installations ajoutées et les installations isolées mises en service à partir du 1<sup>er</sup> janvier 2023:
 
 <table>
-<tr><th></th><th>Classe de puissance</th><th></th></tr>
-<tr><td>Contribution de base (CHF)</td><td>2–5 kW</td><td>200</td></tr>
-<tr><td></td><td>&gt;5 kW</td><td>0</td></tr>
-<tr><td>Contribution liée à la puissance (CHF/kW)</td><td>&lt;30 kW</td><td>400</td></tr>
-<tr><td></td><td>30–&lt;100 kW</td><td>300</td></tr>
-<tr><td></td><td>≥100 kW</td><td>270</td></tr>
+<tr><th></th><th>Classe de puissance</th><th>1.1.2023–31.3.2024</th><th>À partir du 1.4.2024</th></tr>
+<tr><td>Contribution de base (CHF)</td><td>2–5 kW</td><td>200</td><td>0</td></tr>
+<tr><td></td><td>&gt;5 kW</td><td>0</td><td>0</td></tr>
+<tr><td>Contribution liée à la puissance (CHF/kW)</td><td>&lt;30 kW</td><td>400</td><td>380</td></tr>
+<tr><td></td><td>30–&lt;100 kW</td><td>300</td><td>300</td></tr>
+<tr><td></td><td>≥100 kW</td><td>270</td><td>270</td></tr>
 </table>
 
 - 2\.10 Pour les nouvelles installations sans consommation propre d’une puissance inférieure à 150 kW et pour les agrandissements notables d’installations sans consommation propre apportant une puissance supplémentaire inférieure à 150 kW, la contribution liée à la puissance s’élève à 450 francs par kW si l’installation ou l’agrandissement a été mis en service à partir du 1<sup>er</sup> janvier 2023. Aucune contribution de base n’est versée pour les installations sans consommation propre.
@@ -3045,7 +3085,7 @@ Annexe 2.2[^t-7]
 
 ## Contribution d’investissement allouée pour les installations hydroélectriques
 
-[^t-7]: Mise à jour par le ch. II al. 1 de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
+[^t-7]: Mise à jour par le ch. II al. 1 de l’O du 23 nov. 2022 ([RO 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)) et le ch. II de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 764](https://fedlex.data.admin.ch/eli/oc/2023/764)).
 
 ### 1 Définition des installations
 
@@ -3077,7 +3117,7 @@ Annexe 2.2[^t-7]
 
 ### 3 Tableau des durées d’utilisation
 
-- Le calcul des coûts supplémentaires non amortissables se fonde sur la durée d’utilisation des différentes composantes de l’installation ci-après:
+- Le calcul de rentabilité se fonde sur la durée d’utilisation des différentes composantes de l’installation ci-après:
 
 <table>
 <tr><td>Composante de l’installation</td><td>Nombre d’années</td></tr>
@@ -3565,11 +3605,11 @@ Annexe 3[^t-12]
 
 Annexe 4[^t-13]
 
-(art. 46*t*, 63, 83, 87*m*, 87*z*<sup>ter</sup>)
+(art. 46*t*, 63, 83, 87*m* et 87*z*<sup>ter</sup>)
 
 ## Calcul des coûts non couverts
 
-[^t-13]: Introduite par le ch. II al. 3 de l’O du 23 nov. 2022 ([RO 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)). Mise à jour par le ch. II de l’O du 17 mars 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 144](https://fedlex.data.admin.ch/eli/oc/2023/144)).
+[^t-13]: Introduite par le ch. II al. 3 de l’O du 23 nov. 2022 ([RO 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)). Mise à jour par le ch. II des O du 17 mars 2023 ([RO 2023 144](https://fedlex.data.admin.ch/eli/oc/2023/144)) et du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 764](https://fedlex.data.admin.ch/eli/oc/2023/764)).
 
 ### 1 Bases de calcul générales
 
@@ -3591,18 +3631,19 @@ Annexe 4[^t-13]
 
 ### 2 Calcul relatif aux installations hydroélectriques
 
-- 2\.1
+- 2\.1 Lors du calcul de rentabilité interne à l’entreprise, le coût moyen pondéré du capital peut différer du taux d’intérêt calculé visé à l’annexe 3.
+- 2\.2
 
   Pour les installations hydroélectriques, les sorties de liquidités suivantes sont imputables en plus de celles énoncées au ch. 1.2:
 
-  - a. coûts pour l’énergie que nécessitent d’éventuelles pompes d’alimentation au prix du marché;
-  - b. coûts liés à la compensation pour retenue d’eau;
-  - c. redevances hydrauliques;
-  - d. impôts directs.
+  - a) coûts pour l’énergie que nécessitent d’éventuelles pompes d’alimentation au prix du marché;
+  - b) coûts liés à la compensation pour retenue d’eau;
+  - c) redevances hydrauliques;
+  - d) impôts directs.
 
-- 2\.2 En dérogation au ch. 1.2.2, lorsqu’une installation hydroélectrique est soumise à concession, les sorties de liquidités imputables doivent être prises en compte pour la durée de concession restante.
-- 2\.3 Les entrées de liquidités à imputer se calculent sur la base d’un profil horaire optimisé du point de vue économique ou sur la base de profils de production standard appliqués à la production nette pendant la durée de concession restante.
-- 2\.4 Les investissements sont amortis de façon linéaire sur leur durée d’utilisation, et les éventuelles valeurs résiduelles sont prises en compte en tant qu’entrées de liquidités au terme de la durée de concession.
+- 2\.3 Lorsqu’une installation hydroélectrique est soumise à concession, les sorties de liquidités imputables doivent être prises en compte pour la durée de concession restante.
+- 2\.4 Le calcul des entrées de liquidités à imputer se fonde sur l’espérance mathématique du scénario de prix et celle de l’apport d’eau pour le projet, calculées sur la base d’un scénario de prix et d’un apport d’eau moyens ainsi que d’autres recettes.
+- 2\.5 Le requérant doit démontrer en détail et à l’aide de pièces justificatives les hypothèses formulées dans le calcul de rentabilité fourni.
 
 ### 3 Calcul pour les installations photovoltaïques visées à l’art. 71*a* LEne
 
