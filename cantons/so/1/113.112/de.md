@@ -4,13 +4,12 @@ number: "113.112"
 title: Verordnung über die politischen Rechte
 short: VpR
 language: de
-version: 2015-08-01
-valid_until: 2023-12-31
-version_adopted: 2015-03-24
+version: 2024-01-01
+version_adopted: 2023-09-26
 adopted: 1996-10-28
 in_force: 1997-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/113.112"
-pdf: "https://bgs.so.ch/api/de/versions/4394/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5418/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.so.ch/api/de/versions/4394/pdf_file"
 
 (VpR)
 
-Vom 28.10.1996 (Stand 01.08.2015)
+Vom 28.10.1996 (Stand 01.01.2024)
 
 Der Regierungsrat des Kantons Solothurn
 
@@ -131,8 +130,8 @@ beschliesst:
 
 - a) für den Beweis der Stimmfähigkeit oder des Ausschlusses von der Stimmfähigkeit die Bescheinigungen der zuständigen Behörden;
 - b) für den Beweis der Stimmberechtigung am Orte:
-  - 1\. in der Einwohnergemeinde: der Schriftenempfangsschein oder Wohnsitzausweis;
-  - 2\. in der Bürgergemeinde: ein Ausweis über das Bürgerrecht und über die erfolgte Anmeldung;
+  - 1\. in der Einwohnergemeinde: der Ausweis über die erfolgte Anmeldung zur Niederlassung;
+  - 2\. in der Bürgergemeinde: ein Ausweis über das Bürgerrecht und über die erfolgte Anmeldung zur Niederlassung;
   - 3\. in der Kirchgemeinde: der unter litera a genannte Ausweis und ein Ausweis über die Konfessionsangehörigkeit.
 
 <sup>2</sup> Als Ausweis nach § 14 Absatz 2 des Gesetzes kann der Stimmrechtsausweis der bisherigen Wohngemeinde, auf welchem der Wegzug und die Nichtausübung des Wahl- und Stimmrechts amtlich bescheinigt wurde, vorgewiesen werden.
@@ -415,7 +414,7 @@ beschliesst:
 
 <sup>1</sup> Die Wahl- und Abstimmungsprotokolle werden für eidgenössische und kantonale Urnengänge von der Staatskanzlei, für regionale Urnengänge vom Oberamt und für kommunale Urnengänge von der Gemeinde vorbereitet.
 
-<sup>2</sup> Die Wahl- und Abstimmungsprotokolle sind von sämtlichen Mitgliedern des Wahlbüros, jene der Bezirke und Amteien vom Vorsteher des Oberamtes im Namen des regionalen Wahlbüros zu unterzeichnen.
+<sup>2</sup> Die Wahl- und Abstimmungsprotokolle sind von sämtlichen Mitgliedern des Wahlbüros, jene der Bezirke und Amteien vom Vorsteher oder von der Vorsteherin des Oberamtes, vom stellvertretenden Vorsteher oder von der stellvertretenden Vorsteherin im Namen des regionalen Wahlbüros zu unterzeichnen. Der Vorsteher oder die Vorsteherin des Oberamtes kann Fachmitarbeiter und -mitarbeiterinnen bezeichnen, welche die Wahl- und Abstimmungsprotokolle der Bezirke und Amteien im Namen des regionalen Wahlbüros unterzeichnen können.
 
 <sup>3</sup> Entscheide des Wahlbüros über die Gültigkeit von Wahl- und Stimmzetteln, über die Stimmabgabe bei fehlendem Stimmregistereintrag und bei Zuzug sind in den Wahl- und Abstimmungsprotokollen zu vermerken.
 
