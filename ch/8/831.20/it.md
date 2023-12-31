@@ -4,11 +4,11 @@ title: Legge federale del 19 giugno 1959 sull’assicurazione per l’invalidit�
 short: LAI
 eli: "https://fedlex.data.admin.ch/eli/cc/1959/827_857_845"
 language: it
-version: 2023-01-01
+version: 2024-01-01
 adopted: 1959-06-19
 in_force: 1959-10-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/827_857_845/20230101/it/xml/fedlex-data-admin-ch-eli-cc-1959-827_857_845-20230101-it-xml-19.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1959/827_857_845/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/827_857_845/20240101/it/xml/fedlex-data-admin-ch-eli-cc-1959-827_857_845-20240101-it-xml-20.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1959/827_857_845/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1959/827_857_845/20230101/it"
 
 (LAI)[^t-1]
 
-del 19 giugno 1959 (Stato 1° gennaio 2023)
+del 19 giugno 1959 (Stato 1° gennaio 2024)
 
 [^t-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Ulteriore sviluppo dell’AI), in vigore dal 1° gen. 2022 ([RU 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [FF 2017 2191](https://fedlex.data.admin.ch/eli/fga/2017/544)).
 
@@ -514,12 +514,13 @@ Gli stranieri che non hanno ancora compiuto il 20° anno e hanno il domicilio e 
 
 <sup>2</sup> Il diritto agli altri provvedimenti d’integrazione e ai provvedimenti di reintegrazione di cui all’articolo 8*a* nasce non appena i provvedimenti sono opportuni considerati l’età e lo stato di salute dell’assicurato.[^10-3]
 
-<sup>3</sup> Il diritto si estingue al più tardi alla fine del mese in cui l’assicurato si avvale del diritto di ottenere una rendita anticipata, conformemente all’articolo 40 capoverso 1 LAVS[^10-4], o alla fine del mese in cui raggiunge l’età del pensionamento.
+<sup>3</sup> Il diritto si estingue nel momento in cui l’assicurato anticipa la riscossione della totalità della rendita di vecchiaia in virtù dell’articolo 40 capoverso 1 LAVS[^10-4], ma al più tardi alla fine del mese in cui raggiunge l’età di riferimento secondo l’articolo 21 capoverso 1 LAVS.[^10-5]
 
 [^10-1]: Nuovo testo giusta il n. I della LF del 6 ott. 2006 (<sup>¶</sup>5<sup>a</sup> revisione dell’AI), in vigore dal 1° gen. 2008 ([RU 2007 5129](https://fedlex.data.admin.ch/eli/oc/2007/722); [FF 2005 3989](https://fedlex.data.admin.ch/eli/fga/2005/719)).
 [^10-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^10-3]: Nuovo testo giusta il n. I della LF del 18 mar. 2011 (6<sup>a</sup> revisione AI, primo pacchetto di misure), in vigore dal 1° gen. 2012 ([RU 2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799); [FF 2010 1603](https://fedlex.data.admin.ch/eli/fga/2010/340)).
 [^10-4]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^10-5]: Nuovo testo giusta l’all. n. 2 della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 
 #### Art. 11
 
@@ -1002,7 +1003,7 @@ L’assicurato che segue una formazione professionale superiore o frequenta una 
 
 <sup>3</sup> L’indennità giornaliera decorre, al più presto, dal primo giorno del mese seguente a quello in cui l’assicurato ha compiuto 18 anni. Il diritto di cui all’articolo 22 capoverso 2 nasce con l’inizio della formazione, anche se l’assicurato non ha ancora compiuto 18 anni.
 
-<sup>4</sup> Il diritto si estingue al più tardi alla fine del mese in cui l’assicurato ha fatto uso del diritto al godimento anticipato della rendita secondo l’articolo 40 capoverso 1 LAVS[^22bis-2] o in cui raggiunge l’età di pensionamento.
+<sup>4</sup> Il diritto si estingue nel momento in cui l’assicurato anticipa la riscossione della totalità della rendita di vecchiaia in virtù dell’articolo 40 capoverso 1 LAVS[^22bis-2], ma al più tardi alla fine del mese in cui raggiunge l’età di riferimento secondo l’articolo 21 capoverso 1 LAVS.[^22bis-3]
 
 <sup>5</sup> Se l’assicurato riceve una rendita, questa continua a essergli versata al posto delle indennità giornaliere durante l’esecuzione dei provvedimenti di reinserimento secondo l’articolo 14*a* e dei provvedimenti di reintegrazione di cui all’articolo 8*a*.
 
@@ -1019,6 +1020,7 @@ Il Consiglio federale stabilisce a quali condizioni sono versate le indennità g
 
 [^22bis-1]: Introdotto dal n. I della LF del 19 giu. 2020 (Ulteriore sviluppo dell’AI), in vigore dal 1° gen. 2022 ([RU 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [FF 2017 2191](https://fedlex.data.admin.ch/eli/fga/2017/544)).
 [^22bis-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^22bis-3]: Nuovo testo giusta l’all. n. 2 della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 
 #### Art. 23
 
@@ -1269,6 +1271,36 @@ I fornitori di prestazioni devono attenersi alle tariffe e ai prezzi stabiliti d
 
 [^27quinquies-1]: Originario art. 27<sup>bis</sup>. Introdotto dal n. 1 della LF del 21 mar. 2003 (4<sup>a</sup> revisione dell’AI), in vigore dal 1° gen. 2004 ([RU 2003 3837](https://fedlex.data.admin.ch/eli/oc/2003/560); [FF 2001 2851](https://fedlex.data.admin.ch/eli/fga/2001/617)).
 
+#### Art. 27<sup>sexies</sup>
+
+**Misure di gestione strategica dei costi**[^27sexies-1]
+
+<sup>1</sup> I fornitori di prestazioni o le loro federazioni e l’UFAS prevedono misure di gestione strategica dei costi nelle convenzioni di cui all’articolo 27 capoverso 1 applicabili in tutta la Svizzera.
+
+<sup>2</sup>
+
+Per ciascun settore rilevante per il tipo di fornitori di prestazioni, le misure prevedono almeno:
+
+- a. la sorveglianza dell’evoluzione quantitativa delle diverse posizioni previste per le prestazioni;
+- b. la sorveglianza dell’evoluzione dei costi fatturati.
+
+<sup>3</sup> Le convenzioni prevedono regole per correggere gli aumenti ingiustificati delle quantità o dei costi rispetto al periodo indicato nella convenzione. Indicano inoltre i fattori non influenzabili dai fornitori di prestazioni e dall’assicurazione che possono spiegare un aumento delle quantità e dei costi.
+
+<sup>4</sup> Il Consiglio federale può definire i settori di cui al capoverso 2.
+
+<sup>5</sup> Se i fornitori di prestazioni o le loro federazioni e l’UFAS non si accordano sulle misure di gestione strategica dei costi di cui al capoverso 1, queste sono stabilite dal Consiglio federale. Su richiesta, i fornitori di prestazioni e le loro federazioni comunicano gratuitamente al Consiglio federale le informazioni necessarie per stabilire le misure.
+
+<sup>6</sup>
+
+In caso di violazione dell’obbligo di comunicazione di cui al capoverso 5, il DFI può prendere sanzioni contro i fornitori di prestazioni interessati e le loro federazioni. Le sanzioni consistono:
+
+- a. nell’ammonimento;
+- b. nella multa sino a 20 000 franchi.
+
+<sup>7</sup> Tutti i fornitori di prestazioni e l’UFAS si attengono alle misure di gestione strategica dei costi convenute secondo il capoverso 1 o stabilite secondo il capoverso 5 per il rispettivo settore.
+
+[^27sexies-1]: Introdotto dall’all. n. 2 della LF del 30 set. 2022 (Misure di contenimento dei costi – Pacchetto 1*b*), in vigore dal 1° gen. 2024 ([RU 2023 630](https://fedlex.data.admin.ch/eli/oc/2023/630); [FF 2019 4981](https://fedlex.data.admin.ch/eli/fga/2019/2216)).
+
 ### D. Le rendite
 
 [^part1-chap3-lvlD-1]
@@ -1366,9 +1398,14 @@ L’assicurato ha diritto a una rendita se:
 
 **Estinzione del diritto**[^30-1]
 
-Il diritto alla rendita si estingue con l’inizio del diritto a una rendita di vecchiaia dell’AVS o con la morte dell’avente diritto.
+Il diritto alla rendita si estingue nel momento in cui l’assicurato:
 
-[^30-1]: Nuovo testo giusta l’all. n. 8 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
+- a. anticipa la riscossione della totalità della rendita di vecchiaia in virtù dell’articolo 40 capoverso 1 LAVS[^30-2], salvo se l’anticipazione è avvenuta dopo la richiesta di prestazioni dell’assicurazione invalidità e prima della concessione di una rendita d’invalidità;
+- b. acquisisce il diritto a una rendita di vecchiaia poiché ha raggiunto l’età di riferimento secondo l’articolo 21 capoverso 1 LAVS;
+- c. decede.
+
+[^30-1]: Nuovo testo giusta l’all. n. 2 della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^30-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
 #### Art. 31
 
@@ -1563,18 +1600,26 @@ Il primo giorno del mese successivo a quello in cui l’ufficio AI pronuncia la 
 
 <sup>3</sup> È considerato grande invalido anche chi a causa di un danno alla salute vive a casa e necessita in modo permanente di essere accompagnato nell’organizzazione della realtà quotidiana. Chi soffre esclusivamente di un danno alla salute psichica è considerato grande invalido soltanto se ha diritto a una rendita.[^42-3] Chi ha bisogno unicamente di essere accompagnato in modo permanente nell’organizzazione della realtà quotidiana è considerato grande invalido di grado lieve. Rimane salvo l’articolo 42<sup>bis</sup> capoverso 5.
 
-<sup>4</sup> L’assegno per grandi invalidi è accordato al più presto dalla nascita e al più tardi fino alla fine del mese in cui l’assicurato ha fatto uso del diritto al godimento anticipato della rendita secondo l’articolo 40 capoverso 1 LAVS[^42-4] o in cui raggiunge l’età di pensionamento. Il diritto nasce se l’assicurato ha presentato una grande invalidità almeno di grado lieve per un anno e senza notevoli interruzioni; rimane salvo l’articolo 42<sup>bis</sup> capoverso 3.[^42-5]
+<sup>4</sup> L’assegno per grandi invalidi è accordato al più presto dalla nascita. Il diritto nasce se l’assicurato ha presentato una grande invalidità almeno di grado lieve per un anno e senza notevoli interruzioni; rimane salvo l’articolo 42<sup>bis</sup> capoverso 3.[^42-4]
+
+<sup>4bis</sup>
+
+Il diritto all’assegno per grandi invalidi si estingue al più tardi alla fine del mese:
+
+- a. che precede quello in cui l’assicurato anticipa la riscossione della totalità della rendita di vecchiaia in virtù dell’articolo 40 capoverso 1 LAVS[^42-5]; o
+- b. in cui l’assicurato raggiunge l’età di riferimento secondo l’articolo 21 capoverso 1 LAVS.[^42-6]
 
 <sup>5</sup> In caso di soggiorno in un’istituzione per l’esecuzione di provvedimenti d’integrazione di cui all’articolo 8 capoverso 3, l’assicurato non ha più diritto all’assegno per grandi invalidi. Il Consiglio federale definisce la nozione di soggiorno. Può eccezionalmente prevedere la concessione di assegni per grandi invalidi anche in caso di soggiorno in un’istituzione se l’assicurato a causa di un grave danno agli organi sensori o di una grave infermità fisica può mantenere i contatti sociali solo grazie a servizi regolari e considerevoli di terzi.
 
-<sup>6</sup> Il Consiglio federale disciplina l’assunzione, in termini proporzionali, di un contributo all’assegno per grandi invalidi dell’assicurazione contro gli infortuni nel caso in cui la grande invalidità sia imputabile solo parzialmente a un infortunio.[^42-6]
+<sup>6</sup> Il Consiglio federale disciplina l’assunzione, in termini proporzionali, di un contributo all’assegno per grandi invalidi dell’assicurazione contro gli infortuni nel caso in cui la grande invalidità sia imputabile solo parzialmente a un infortunio.[^42-7]
 
 [^42-1]: Nuovo testo giusta il n. 1 della LF del 21 mar. 2003 (4<sup>a</sup> revisione dell’AI), in vigore dal 1° gen. 2004 ([RU 2003 3837](https://fedlex.data.admin.ch/eli/oc/2003/560); [FF 2001 2851](https://fedlex.data.admin.ch/eli/fga/2001/617)).
 [^42-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^42-3]: Nuovo testo del per. giusta il n. I della LF del 19 giu. 2020 (Ulteriore sviluppo dell’AI), in vigore dal 1° gen. 2022 ([RU 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [FF 2017 2191](https://fedlex.data.admin.ch/eli/fga/2017/544)).
-[^42-4]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^42-5]: Nuovo testo del per. giusta il n. I della LF del 19 giu. 2020 (Ulteriore sviluppo dell’AI), in vigore dal 1° gen. 2022 ([RU 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [FF 2017 2191](https://fedlex.data.admin.ch/eli/fga/2017/544)).
-[^42-6]: Nuovo testo giusta il n. I della LF del 18 mar. 2011 (6<sup>a</sup> revisione AI, primo pacchetto di misure), in vigore dal 1° gen. 2012 ([RU 2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799); [FF 2010 1603](https://fedlex.data.admin.ch/eli/fga/2010/340)).
+[^42-4]: Nuovo testo giusta l’all. n. 2 della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^42-5]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^42-6]: Introdotto dall’all. n. 2 della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^42-7]: Nuovo testo giusta il n. I della LF del 18 mar. 2011 (6<sup>a</sup> revisione AI, primo pacchetto di misure), in vigore dal 1° gen. 2012 ([RU 2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799); [FF 2010 1603](https://fedlex.data.admin.ch/eli/fga/2010/340)).
 
 #### Art. 42<sup>bis</sup>
 
@@ -1682,11 +1727,12 @@ Il Consiglio federale stabilisce:
 Il diritto si estingue nel momento in cui l’assicurato:
 
 - a. non adempie più le condizioni di cui all’articolo 42<sup>quater</sup>;
-- b. si avvale del diritto al godimento anticipato della rendita di vecchiaia secondo l’articolo 40 capoverso 1 LAVS[^42septies-2] o raggiunge l’età di pensionamento; oppure
+- [tab] b.[^42septies-2] anticipa la riscossione della totalità della rendita di vecchiaia in virtù dell’articolo 40 capoverso 1 LAVS[^42septies-3] o raggiunge l’età di riferimento secondo l’articolo 21 capoverso 1 LAVS; o
 - c. decede.
 
 [^42septies-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^42septies-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^42septies-2]: Nuovo testo giusta l’all. n. 2 della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^42septies-3]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
 #### Art. 42<sup>octies</sup>
 
@@ -1765,13 +1811,14 @@ Le rendite sono concesse:
 
 <sup>2</sup> Se una rendita sostituisce l’indennità giornaliera, in deroga all’articolo 19 capoverso 3 LPGA la rendita è versata senza riduzioni anche per il mese in cui termina il diritto all’indennità giornaliera. Per contro, in questo mese l’indennità giornaliera è ridotta di un trentesimo dell’importo della rendita.
 
-<sup>3</sup> Le rendite parziali, il cui importo non supera il 10 per cento della rendita minima completa, sono versate, in deroga all’articolo 19 capoversi 1 e 3 LPGA, in un’unica volta annualmente e posticipatamente nel mese di dicembre. L’avente diritto può esigere il versamento mensile.
+<sup>3</sup> Le rendite il cui importo non supera il 20 per cento della rendita minima completa sono versate, in deroga all’articolo 19 capoversi 1 e 3 LPGA, una volta all’anno. L’avente diritto può chiedere il versamento mensile.[^47-6]
 
 [^47-1]: Nuovo testo giusta l’all. n. 8 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
 [^47-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^47-3]: Nuovo testo giusta il n. I della LF del 18 mar. 2011 (6<sup>a</sup> revisione AI, primo pacchetto di misure), in vigore dal 1° gen. 2012 ([RU 2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799); [FF 2010 1603](https://fedlex.data.admin.ch/eli/fga/2010/340)).
 [^47-4]: Introdotto dal n. I della LF del 18 mar. 2011 (6<sup>a</sup> revisione AI, primo pacchetto di misure), in vigore dal 1° gen. 2012 ([RU 2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799); [FF 2010 1603](https://fedlex.data.admin.ch/eli/fga/2010/340)).
 [^47-5]: Introdotto dal n. I della LF del 18 mar. 2011 (6<sup>a</sup> revisione AI, primo pacchetto di misure), in vigore dal 1° gen. 2012 ([RU 2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799); [FF 2010 1603](https://fedlex.data.admin.ch/eli/fga/2010/340)).
+[^47-6]: Nuovo testo giusta l’all. n. 2 della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 
 #### Art. 47a
 
@@ -1875,16 +1922,20 @@ Il Consiglio federale può delegare all’UFAS compiti d’esecuzione nei settor
 
 <sup>3</sup> Se in un Cantone non si riesce a concludere una convenzione sull’istituzione dell’ufficio AI, il Consiglio federale può istituire l’ufficio AI cantonale sotto forma di istituto di diritto pubblico federale dotato di personalità giuridica.
 
-<sup>4</sup> La delega di compiti previsti dal diritto cantonale a un ufficio AI cantonale sottostà all’approvazione del DFI[^54-2]. L’autorizzazione può essere vincolata a condizioni e oneri.
+<sup>3bis</sup> Se l’ufficio AI cantonale fa parte di un istituto cantonale delle assicurazioni sociali (art. 61 cpv. 1<sup>bis</sup> LAVS[^54-2]) e non è dotato di personalità giuridica, l’istituto cantonale delle assicurazioni sociali garantisce che l’UFAS possa esercitare senza restrizioni la vigilanza di cui all’articolo 64*a* e che venga effettuato il rimborso delle spese di cui all’articolo 67.[^54-3]
 
-<sup>5</sup> I Cantoni possono delegare compiti previsti dal diritto federale a un ufficio AI cantonale. La delega sottostà all’approvazione del DFI; può essere vincolata a condizioni e oneri.[^54-3]
+<sup>4</sup> La delega di compiti previsti dal diritto cantonale a un ufficio AI cantonale sottostà all’approvazione del DFI[^54-4]. L’autorizzazione può essere vincolata a condizioni e oneri.
 
-<sup>6</sup> I Cantoni possono delegare compiti degli uffici AI cantonali di cui all’articolo 57 capoverso 1, inclusa la competenza di emanare decisioni, alle istituzioni pubbliche di cui all’articolo 68<sup>bis</sup> capoverso 1. La delega sottostà all’approvazione del DFI; può essere vincolata a condizioni e oneri.[^54-4]
+<sup>5</sup> I Cantoni possono delegare compiti previsti dal diritto federale a un ufficio AI cantonale. La delega sottostà all’approvazione del DFI; può essere vincolata a condizioni e oneri.[^54-5]
+
+<sup>6</sup> I Cantoni possono delegare compiti degli uffici AI cantonali di cui all’articolo 57 capoverso 1, inclusa la competenza di emanare decisioni, alle istituzioni pubbliche di cui all’articolo 68<sup>bis</sup> capoverso 1. La delega sottostà all’approvazione del DFI; può essere vincolata a condizioni e oneri.[^54-6]
 
 [^54-1]: Nuovo testo giusta il n. I della LF del 6 ott. 2006 (<sup>¶</sup>5<sup>a</sup> revisione dell’AI), in vigore dal 1° gen. 2008 ([RU 2007 5129](https://fedlex.data.admin.ch/eli/oc/2007/722); [FF 2005 3989](https://fedlex.data.admin.ch/eli/fga/2005/719)).
-[^54-2]: Nuova espr. giusta il n. I della LF del 19 giu. 2020 (Ulteriore sviluppo dell’AI), in vigore dal 1° gen. 2022 ([RU 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [FF 2017 2191](https://fedlex.data.admin.ch/eli/fga/2017/544)). Di detta mod. è tenuto conto in tutto il presente testo.
-[^54-3]: Introdotto dall’all. n. 2 della LF del 19 giu. 2020 ([RU 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 3659](https://fedlex.data.admin.ch/eli/fga/2019/1581)). Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Ulteriore sviluppo dell’AI), in vigore dal 1° gen. 2022 ([RU 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [FF 2017 2191](https://fedlex.data.admin.ch/eli/fga/2017/544)).
-[^54-4]: Introdotto dall’all. n. 2 della LF del 19 giu. 2020 ([RU 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 3659](https://fedlex.data.admin.ch/eli/fga/2019/1581)). Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Ulteriore sviluppo dell’AI), in vigore dal 1° gen. 2022 ([RU 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [FF 2017 2191](https://fedlex.data.admin.ch/eli/fga/2017/544)).
+[^54-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^54-3]: Introdotto dall’all. n. 3 della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^54-4]: Nuova espr. giusta il n. I della LF del 19 giu. 2020 (Ulteriore sviluppo dell’AI), in vigore dal 1° gen. 2022 ([RU 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [FF 2017 2191](https://fedlex.data.admin.ch/eli/fga/2017/544)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^54-5]: Introdotto dall’all. n. 2 della LF del 19 giu. 2020 ([RU 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 3659](https://fedlex.data.admin.ch/eli/fga/2019/1581)). Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Ulteriore sviluppo dell’AI), in vigore dal 1° gen. 2022 ([RU 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [FF 2017 2191](https://fedlex.data.admin.ch/eli/fga/2017/544)).
+[^54-6]: Introdotto dall’all. n. 2 della LF del 19 giu. 2020 ([RU 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 3659](https://fedlex.data.admin.ch/eli/fga/2019/1581)). Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Ulteriore sviluppo dell’AI), in vigore dal 1° gen. 2022 ([RU 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [FF 2017 2191](https://fedlex.data.admin.ch/eli/fga/2017/544)).
 
 #### Art. 54a
 
@@ -2079,12 +2130,13 @@ Il Consiglio federale disciplina la collaborazione tra gli uffici AI e gli organ
 
 **Principio**[^64-1]
 
-<sup>1</sup> La Confederazione sorveglia l’esecuzione della presente legge da parte degli uffici AI e provvede a un’applicazione uniforme. L’articolo 72 LAVS[^64-2] si applica per analogia.
+<sup>1</sup> La Confederazione sorveglia l’esecuzione della presente legge da parte degli uffici AI e provvede a un’applicazione uniforme. Gli articoli 72, 72*a* e 72*b* LAVS[^64-2] sono applicabili per analogia.[^64-3]
 
 <sup>2</sup> Per la vigilanza sugli organi dell’AVS nell’esecuzione della presente legge, le prescrizioni della LAVS si applicano per analogia.
 
 [^64-1]: Nuovo testo giusta il n. I della LF del 6 ott. 2006 (<sup>¶</sup>5<sup>a</sup> revisione dell’AI), in vigore dal 1° gen. 2008 ([RU 2007 5129](https://fedlex.data.admin.ch/eli/oc/2007/722); [FF 2005 3989](https://fedlex.data.admin.ch/eli/fga/2005/719)).
 [^64-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^64-3]: Nuovo testo del secondo per. giusta l’all. n. 3 della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 
 #### Art. 64a
 
@@ -2101,8 +2153,8 @@ L’UFAS esercita la vigilanza materiale sugli uffici AI e sui servizi medici re
 <sup>2</sup> L’UFAS esercita la vigilanza amministrativa sugli uffici AI, inclusi i servizi medici regionali. Stabilisce in particolare criteri per garantire l’efficacia, la qualità e l’uniformità dell’adempimento dei compiti di cui agli articoli 57 e 54*a*[^64a-3] e controlla il rispetto di questi criteri.
 
 [^64a-1]: Introdotto dal n. I della LF del 6 ott. 2006 (<sup>¶</sup>5<sup>a</sup> revisione dell’AI), in vigore dal 1° gen. 2008 ([RU 2007 5129](https://fedlex.data.admin.ch/eli/oc/2007/722); [FF 2005 3989](https://fedlex.data.admin.ch/eli/fga/2005/719)).
-[^64a-2]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° gen. 2022*.*
-[^64a-3]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° gen. 2022*.*
+[^64a-2]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° gen. 2022.
+[^64a-3]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° gen. 2022.
 
 #### Art. 65
 
@@ -2123,13 +2175,24 @@ La Commissione federale dell’assicurazione per la vecchiaia, i superstiti e l�
 
 **Disposizioni applicabili della LAVS**[^66-1]
 
-Per quanto la presente legge non vi deroghi, sono applicabili per analogia le disposizioni della LAVS[^66-2] concernenti i sistemi d’informazione, il trattamento di dati personali, i datori di lavoro, le casse di compensazione, il regolamento dei conti e dei pagamenti, la contabilità, la revisione delle casse e il controllo dei datori di lavoro, la copertura delle spese amministrative, l’assunzione dei costi e le tasse postali, l’Ufficio centrale di compensazione e il numero AVS[^66-3].[^66-4] La responsabilità per danni è disciplinata secondo l’articolo 78 LPGA[^66-5] e per analogia secondo gli articoli 52, 70 e 71*a* LAVS.
+<sup>1</sup>
 
-[^66-1]: Nuovo testo giusta il n. I dell’O dell’AF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [FF 2002 715](https://fedlex.data.admin.ch/eli/fga/2002/114)).
+Per quanto la presente legge non vi deroghi, sono applicabili per analogia le disposizioni della LAVS[^66-2] concernenti:
+
+- a. i sistemi d’informazione (art. 49*a*, 49*b* e 72*a* cpv. 2 lett. b LAVS);
+- b. i registri (art. 49*c*–49*e* LAVS);
+- c. il trattamento di dati personali (art. 49*f* LAVS);
+- d. l’utilizzazione sistematica del numero AVS (art. 50*c* e 153*b*–153*i* LAVS);
+- e. i datori di lavoro (art. 51 e 52 LAVS);
+- f. le casse di compensazione (art. 53–70 LAVS);
+- g. l’Ufficio centrale di compensazione (art. 71 LAVS);
+- h. il rimborso e l’assunzione delle spese (art. 95 LAVS).
+
+<sup>2</sup> La responsabilità per danni è retta dall’articolo 78 LPGA[^66-3] e, per analogia, dagli articoli 52, 70 e 71*a* LAVS.
+
+[^66-1]: Nuovo testo giusta l’all. n. 3 della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 [^66-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^66-3]: Nuova espressione giusta l’all. n. 27 della LF del 18 dic. 2020 (Utilizzazione sistematica del numero AVS da parte delle autorità), in vigore dal 1° gen. 2022 ([RU 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6043](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
-[^66-4]: Nuovo testo giusta l’all. n. 2 della LF del 21 giu. 2019, in vigore dal 1° gen. 2021 ([RU 2020 5137](https://fedlex.data.admin.ch/eli/oc/2020/892); [FF 2018 1303](https://fedlex.data.admin.ch/eli/fga/2018/671)).
-[^66-5]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^66-3]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 
 #### Art. 66a
 
@@ -2164,22 +2227,26 @@ Purché nessun interesse privato preponderante vi si opponga, gli organi incaric
 
 #### Art. 66b
 
-**Procedura di richiamo**[^66b-1]
+**Accesso ai sistemi d’informazione[^66b-2]**[^66b-1]
 
-<sup>1</sup> L’Ufficio centrale di compensazione (art. 71 LAVS[^66b-2]) tiene un registro dei beneficiari di prestazioni in natura nonché un elenco dei conti relativi a tali prestazioni. Il registro e l’elenco servono a indennizzare i costi di tali prestazioni.
+<sup>1</sup> L’Ufficio centrale di compensazione (art. 71 LAVS[^66b-3]) tiene un registro dei beneficiari di prestazioni in natura nonché un elenco dei conti relativi a tali prestazioni. Il registro e l’elenco servono a indennizzare i costi di tali prestazioni.
+
+<sup>1bis</sup> Il Fondo di compensazione AI indennizza all’Ufficio centrale di compensazione i costi della gestione e dello sviluppo del registro e dell’elenco.[^66b-4]
 
 <sup>2</sup> Gli uffici dell’AI, le casse di compensazione e l’ufficio federale competente possono accedere, mediante procedura di richiamo, al registro e all’elenco summenzionati, per i dati necessari all’adempimento dei compiti conferiti loro dalla presente legge e dalla legge sull’assicurazione per la vecchiaia e per i superstiti.
 
-<sup>2bis</sup> L’Ufficio centrale di compensazione gestisce un sistema d’informazione destinato alla determinazione delle prestazioni previste in virtù di convenzioni internazionali. Il sistema d’informazione consente agli uffici AI e alle casse di compensazione competenti di registrare e trattare le richieste di prestazioni.[^66b-3]
+<sup>2bis</sup> L’Ufficio centrale di compensazione gestisce un sistema d’informazione destinato alla determinazione delle prestazioni previste in virtù di convenzioni internazionali. Il sistema d’informazione consente agli uffici AI e alle casse di compensazione competenti di registrare e trattare le richieste di prestazioni.[^66b-5]
 
-<sup>2ter</sup> Gli uffici AI e le casse di compensazione possono, mediante procedura di richiamo, accedere al sistema d’informazione per i dati necessari all’adempimento dei compiti conferiti loro dalla presente legge, dalla LAVS e da convenzioni internazionali.[^66b-4]
+<sup>2ter</sup> Gli uffici AI e le casse di compensazione possono, mediante procedura di richiamo, accedere al sistema d’informazione per i dati necessari all’adempimento dei compiti conferiti loro dalla presente legge, dalla LAVS e da convenzioni internazionali.[^66b-6]
 
 <sup>3</sup> Il Consiglio federale disciplina la responsabilità per la protezione dei dati, i dati da raccogliere e i termini di conservazione, l’accesso ai dati, la collaborazione fra utenti nonché la sicurezza dei dati.
 
 [^66b-1]: Introdotto dal n. I della LF del 23 giu. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2685](https://fedlex.data.admin.ch/eli/oc/2000/440); [FF 2000 205](https://fedlex.data.admin.ch/eli/fga/2000/99)).
-[^66b-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^66b-3]: Introdotto dall’all. n. 2 della LF del 21 giu. 2019, in vigore dal 1° gen. 2021 ([RU 2020 5137](https://fedlex.data.admin.ch/eli/oc/2020/892); [FF 2018 1303](https://fedlex.data.admin.ch/eli/fga/2018/671)).
-[^66b-4]: Introdotto dall’all. n. 2 della LF del 21 giu. 2019, in vigore dal 1° gen. 2021 ([RU 2020 5137](https://fedlex.data.admin.ch/eli/oc/2020/892); [FF 2018 1303](https://fedlex.data.admin.ch/eli/fga/2018/671)).
+[^66b-2]: Nuovo testo giusta l’all. n. 3 della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^66b-3]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^66b-4]: Introdotto dall’all. n. 3 della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^66b-5]: Introdotto dall’all. n. 2 della LF del 21 giu. 2019, in vigore dal 1° gen. 2021 ([RU 2020 5137](https://fedlex.data.admin.ch/eli/oc/2020/892); [FF 2018 1303](https://fedlex.data.admin.ch/eli/fga/2018/671)).
+[^66b-6]: Introdotto dall’all. n. 2 della LF del 21 giu. 2019, in vigore dal 1° gen. 2021 ([RU 2020 5137](https://fedlex.data.admin.ch/eli/oc/2020/892); [FF 2018 1303](https://fedlex.data.admin.ch/eli/fga/2018/671)).
 
 #### Art. 66c
 
@@ -2446,12 +2513,13 @@ L’assicurazione assegna sussidi alle associazioni centrali, attive a livello d
 - c. organizzazione di corsi destinati a sviluppare le attitudini degli invalidi;
 - d.[^74-3] prestazioni per il sostegno e la promozione dell’integrazione degli invalidi.
 
-<sup>2</sup> I sussidi continuano ad essere versati se gli invalidi interessati raggiungono l’età che dà diritto alla rendita AVS.[^74-4]
+<sup>2</sup> I sussidi continuano a essere versati se gli invalidi interessati raggiungono l’età di riferimento secondo l’articolo 21 capoverso 1 LAVS[^74-4].[^74-5]
 
 [^74-1]: Nuovo testo giusta il n. II 25 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 [^74-2]: Nuovo testo giusta il n. II 25 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 [^74-3]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Ulteriore sviluppo dell’AI), in vigore dal 1° gen. 2022 ([RU 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [FF 2017 2191](https://fedlex.data.admin.ch/eli/fga/2017/544)).
-[^74-4]: Introdotto dal n. I della LF del 9 ott. 1986, in vigore dal 1° lug. 1987 ([RU 1987 447](https://fedlex.data.admin.ch/eli/oc/1987/447_447_447); [FF 1985 I 17](https://fedlex.data.admin.ch/eli/fga/1985/1_17_21_17)). Vedi anche il cpv. 2 delle disp. fin. mod. 21 gen. 1987 OAI ([RS 831.201](https://fedlex.data.admin.ch/eli/cc/1961/29_29_29)).
+[^74-4]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^74-5]: Introdotto dal n. I della LF del 9 ott. 1986 ([RU 1987 447](https://fedlex.data.admin.ch/eli/oc/1987/447_447_447); [FF 1985 I 17](https://fedlex.data.admin.ch/eli/fga/1985/1_17_21_17)). Nuovo testo giusta l’all. n. 2 della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 
 #### Art. 75
 
