@@ -3,20 +3,20 @@ canton: AG
 number: "751.125"
 title: Verordnung über die Innerortsstrecken an Kantonsstrassen
 language: de
-version: 2023-01-01
-valid_until: 2023-12-31
-version_adopted: 2022-10-26
+version: 2024-01-01
+valid_until: 2024-12-31
+version_adopted: 2023-11-22
 adopted: 1999-03-10
 in_force: 2000-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/751.125"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3267/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3376/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Innerortsstrecken an Kantonsstrassen
 
-Vom 10.03.1999 (Stand 01.01.2023)
+Vom 10.03.1999 (Stand 01.01.2024)
 
 Der Regierungsrat des Kantons Aargau,
 
