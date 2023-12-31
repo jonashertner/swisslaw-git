@@ -3,18 +3,18 @@ sr: "837.174"
 title: Verordnung vom 3. März 1997 über die obligatorische berufliche Vorsorge von arbeitslosen Personen
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/1101_1101_1101"
 language: de
-version: 2022-01-01
+version: 2024-01-01
 adopted: 1997-03-03
 in_force: 1997-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/1101_1101_1101/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1997-1101_1101_1101-20220101-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/1101_1101_1101/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/1101_1101_1101/20240101/de/xml/fedlex-data-admin-ch-eli-cc-1997-1101_1101_1101-20240101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/1101_1101_1101/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über die obligatorische berufliche Vorsorge von arbeitslosen Personen
 
-vom 3. März 1997 (Stand am 1. Januar 2022)
+vom 3. März 1997 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -100,9 +100,9 @@ Der koordinierte Tageslohn ist die positive Differenz aus:
 
 <sup>1</sup> Als Grundlage für die Berechnung der Leistungen im Todesfalle oder bei Invalidität gilt der koordinierte Tageslohn jener Kontrollperiode, in welcher das versicherte Ereignis eingetreten ist. Konnte die versicherte Person aufgrund des Ereignisses ihre Kontrollpflicht nicht ordnungsgemäss erfüllen, so gelten die Tage jener Kontrollperiode bis und mit auslösendem Ereignis als kontrolliert.
 
-<sup>2</sup> Die Höhe der Renten berechnet sich aus dem vor dem Beginn der Versicherung angesammelten Altersguthaben sowie der Summe der Altersgutschriften für die vom Beginn der Versicherung bis zum Rentenalter fehlenden Jahre, ohne Zins.[^6-1]
+<sup>2</sup> Die Höhe der Renten berechnet sich aus dem vor dem Beginn der Versicherung angesammelten Altersguthaben sowie der Summe der Altersgutschriften für die vom Beginn der Versicherung bis zum Erreichen des Referenzalters nach Artikel 13 Absatz 1 BVG fehlenden Jahre, ohne Zins.[^6-1]
 
-[^6-1]: Fassung gemäss Ziff. I der V vom 19. Dez. 2001, in Kraft seit 1. Jan. 2002 ([AS 2002 202](https://fedlex.data.admin.ch/eli/oc/2002/36)).
+[^6-1]: Fassung gemäss Anhang Ziff. 13 der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 7
 

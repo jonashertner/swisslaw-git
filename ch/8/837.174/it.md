@@ -3,18 +3,18 @@ sr: "837.174"
 title: Ordinanza del 3 marzo 1997 sulla previdenza professionale obbligatoria dei disoccupati
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/1101_1101_1101"
 language: it
-version: 2022-01-01
+version: 2024-01-01
 adopted: 1997-03-03
 in_force: 1997-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/1101_1101_1101/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1997-1101_1101_1101-20220101-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/1101_1101_1101/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/1101_1101_1101/20240101/it/xml/fedlex-data-admin-ch-eli-cc-1997-1101_1101_1101-20240101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/1101_1101_1101/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza sulla previdenza professionale obbligatoria dei disoccupati
 
-del 3 marzo 1997 (Stato 1° gennaio 2022)
+del 3 marzo 1997 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -100,9 +100,9 @@ Il salario giornaliero coordinato equivale alla differenza positiva tra:
 
 <sup>1</sup> Le prestazioni in caso di morte o invalidità si calcolano sulla base del salario giornaliero coordinato del periodo di controllo nel quale si è verificato l’evento assicurato. Nel caso in cui l’assicurato non abbia potuto adempiere il suo obbligo regolamentare di controllo a causa dell’evento, si tiene conto dei giorni del periodo di controllo precedente e sino al verificarsi dell’evento in questione.
 
-<sup>2</sup> L’importo delle rendite è calcolato in base all’avere di vecchiaia acquisito dall’assicurato prima dell’inizio dell’assicurazione e alla somma degli accrediti di vecchiaia per gli anni mancanti dall’inizio dell’assicurazione sino all’età che dà diritto al pensionamento, senza interessi.[^6-1]
+<sup>2</sup> L’importo delle rendite è calcolato in base all’avere di vecchiaia acquisito dall’assicurato prima dell’inizio dell’assicurazione e alla somma degli accrediti di vecchiaia per gli anni mancanti dall’inizio dell’assicurazione fino al raggiungimento dell’età di riferimento secondo l’articolo 13 capoverso 1 LPP, senza interessi.[^6-1]
 
-[^6-1]: Nuovo testo giusta il n. I dell’O del 19 dic. 2001, in vigore dal 1° gen. 2002 ([RU 2002 202](https://fedlex.data.admin.ch/eli/oc/2002/36)).
+[^6-1]: Nuovo testo giusta l’all. n. 13 dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 7
 

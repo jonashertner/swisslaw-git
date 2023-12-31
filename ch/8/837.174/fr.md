@@ -3,18 +3,18 @@ sr: "837.174"
 title: Ordonnance du 3 mars 1997 sur la prévoyance professionnelle obligatoire des chômeurs
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/1101_1101_1101"
 language: fr
-version: 2022-01-01
+version: 2024-01-01
 adopted: 1997-03-03
 in_force: 1997-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/1101_1101_1101/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1997-1101_1101_1101-20220101-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/1101_1101_1101/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/1101_1101_1101/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-1997-1101_1101_1101-20240101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/1101_1101_1101/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance sur la prévoyance professionnelle obligatoire des chômeurs
 
-du 3 mars 1997 (État le 1<sup>er</sup> janvier 2022)
+du 3 mars 1997 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -74,7 +74,7 @@ Sont soumis à l’assurance obligatoire pour les risques de décès et d’inva
 
 <sup>4</sup> Le salaire minimal assuré prévu à l’al. 3 est aussi valable pour l’assurance obligatoire des personnes pour lesquelles les montants-limites ont été réduits conformément à l’art. 3, al. 1.[^4-1]
 
-[^4-1]: Introduit par le ch. 3 de l’annexe à l’O du 10 juin 2005, en vigueur depuis le 1<sup>er</sup> janv. 2006 ([RO 2005 4279](https://fedlex.data.admin.ch/eli/oc/2005/559)).
+[^4-1]: Introduit par l’annexe ch. 3 de l’O du 10 juin 2005, en vigueur depuis le 1<sup>er</sup> janv. 2006 ([RO 2005 4279](https://fedlex.data.admin.ch/eli/oc/2005/559)).
 
 #### Art. 5
 
@@ -100,9 +100,9 @@ Le salaire journalier coordonné correspond à la somme:
 
 <sup>1</sup> Les prestations versées en cas de décès ou d’invalidité se calculent sur la base du salaire coordonné de la période de contrôle au cours de laquelle l’événement assuré s’est produit. Si l’assuré ne peut se conformer aux prescriptions de contrôle, en raison de l’événement, les jours de chaque période de contrôle antérieurs à la survenance de l’événement sont considérés comme contrôlés.
 
-<sup>2</sup> Le montant des rentes se calcule sur la base de l’avoir de vieillesse acquis par l’assuré avant le début de l’assurance et de la somme des bonifications de vieillesse afférentes aux années manquantes depuis le début de l’assurance jusqu’à l’âge ouvrant le droit à la retraite, sans intérêts.[^6-1]
+<sup>2</sup> Le montant des rentes se calcule sur la base de l’avoir de vieillesse acquis par l’assuré avant le début de l’assurance et de la somme des bonifications de vieillesse afférentes aux années manquantes depuis le début de l’assurance jusqu’à l’âge de référence fixé à l’art. 13, al. 1, LPP, sans intérêts.[^6-1]
 
-[^6-1]: Nouvelle teneur selon le ch. I de l’O du 19 déc. 2001, en vigueur depuis le 1<sup>er</sup> janv. 2002 ([RO 2002 202](https://fedlex.data.admin.ch/eli/oc/2002/36)).
+[^6-1]: Nouvelle teneur selon l’annexe ch. 13 de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 7
 
