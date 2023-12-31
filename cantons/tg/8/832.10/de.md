@@ -1,27 +1,27 @@
 ---
 canton: TG
 number: "832.10"
-title: Verordnung zum Gesetz über die Krankenversicherung
+title: Krankenversicherungsverordnung
 short: TG KVV
 language: de
-version: 2023-01-01
-valid_until: 2023-12-31
-version_adopted: 2022-11-29
+version: 2024-01-01
+valid_until: 2024-06-30
+version_adopted: 2023-12-05
 adopted: 2011-12-20
 in_force: 2012-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/832.10"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2590/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2730/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung zum Gesetz über die Krankenversicherung
+# Krankenversicherungsverordnung
 
 TG KVV
 
 (TG KVV)
 
-vom 20.12.2011 (Stand 01.01.2023)
+vom 20.12.2011 (Stand 01.01.2024)
 
 ## 1. Allgemeine Bestimmungen
 
@@ -42,21 +42,15 @@ vom 20.12.2011 (Stand 01.01.2023)
 
 <sup>2</sup> Soweit nicht anders bestimmt, obliegt der Vollzug dem Amt für Gesundheit. Es erteilt den beauftragten Stellen die erforderlichen Weisungen und amtet als Ausstandsmeldestelle der Leistungserbringer.
 
-<sup>3</sup> Für die Durchführung der Bestimmungen über die Versicherungspflicht sind die Politischen Gemeinden (nachfolgend: Gemeinde) zuständig.
+<sup>3</sup> Für die Durchführung der Bestimmungen über die Versicherungspflicht sind die Politischen Gemeinden (nachfolgend: Gemeinden) zuständig. Dies umfasst die Prüfung der obligatorischen Krankenpflegeversicherung und allfällige Befreiungsgesuche, die Individuelle Prämienverbilligung sowie die Bestimmungen zur Vollstreckung der Prämienzahlungspflicht.
 
 <sup>4</sup> Das Departement beauftragt die kantonale Ausgleichskasse als kantonale Durchführungsstelle auf der Grundlage von Leistungsvereinbarungen mit Vollzugsaufgaben in den Bereichen Prämienverbilligung, Pflegefinanzierung und Versicherungspflicht.
 
-<sup>5</sup> Das Departement beauftragt die kantonale Dienststelle für Statistik auf der Grundlage einer Leistungsvereinbarung mit der Bearbeitung von Daten der Leistungserbringer gemäss Art. 59a KVG.
+<sup>5</sup> Es beauftragt die kantonale Dienststelle für Statistik auf der Grundlage einer Leistungsvereinbarung mit der Bearbeitung von Daten der Leistungserbringer zur Qualitätsentwicklung.
 
-## 2. Versicherungspflicht
+## 2. Vollstreckung der Prämienzahlungspflicht
 
-#### § 3
-
-**Zuweisung**
-
-<sup>1</sup> Bei der Zuweisung von Personen, die der Versicherungspflicht nicht nachkommen, ist auf eine angemessene Verteilung auf die Versicherer zu achten.
-
-#### § 4
+#### § 3–4
 
 **…**
 
@@ -79,17 +73,17 @@ vom 20.12.2011 (Stand 01.01.2023)
 
 **Beiträge an Verlustscheine und gleichwertige Rechtstitel**
 
-<sup>1</sup> Die Gemeinde übernimmt nach Massgabe des KVG die in der Schlussabrechnung des Versicherers ausgewiesenen Forderungen aus der obligatorischen Krankenpflegeversicherung, die zur Ausstellung eines Verlustscheins geführt haben.
+<sup>1–2</sup> …
 
-<sup>2</sup> Rückvergütungen nach KVG werden den Gemeinden erstattet, die Forderungen gemäss Abs. 1 übernommen haben.
+<sup>3</sup> Die Gemeinde, die Forderungen für Verlustscheine und gleichwertige Rechtstitel übernommen hat, hat gegenüber früheren Wohnsitz- und Aufenthaltsgemeinden im Kanton das Rückgriffsrecht anteilmässig für dort entstandene Forderungen. Rückvergütungen sind anteilmässig zurückzuerstatten. Massgebend ist der Zeitpunkt der Forderungsentstehung.
 
-<sup>3</sup> Die Gemeinde, die Forderungen gemäss Abs. 1 übernommen hat, hat gegenüber früheren Wohnsitz- und Aufenthaltsgemeinden im Kanton das Rückgriffsrecht anteilmässig für dort entstandene Forderungen, die in den Verlustscheinen und gleichwertigen Rechtstiteln zusammengefasst wurden. Rückvergütungen gemäss Abs. 2 sind anteilmässig zurückzuerstatten.
+<sup>4</sup> Ist die Forderung ausserkantonal entstanden, ist das Datum des Verlustscheines oder des gleichwertigen Rechtstitels massgebend.
 
 #### § 7
 
-**Rückgriffsrecht, Rückerstattung von übernommenen Ausständen**
+**Rückgriffsrecht von übernommenen Ausständen**
 
-<sup>1</sup> Übernimmt die Gemeinde die gesamten ausstehenden Prämienrückstände, Kostenbeteiligungen, Verzugszinsen und Betreibungskosten, hat sie gegenüber früheren Wohnsitz- und Aufenthaltsgemeinden im Kanton das Rückgriffsrecht für dort entstandene Prämienrückstände und Kostenbeteiligungen, abzüglich die bezogenen Entschädigungen gemäss § 8 Abs. 2.
+<sup>1</sup> Übernimmt die Gemeinde ausstehende Prämien, Kostenbeteiligungen, Verzugszinsen und Betreibungskosten vor Entstehung von Forderungen für einen Verlustschein oder gleichwertigen Rechtstitel, hat sie gegenüber früheren Wohnsitz- und Aufenthaltsgemeinden im Kanton das Rückgriffsrecht für dort entstandene Ausstände. Beiträge aus der Prämienverbilligung sind anzurechnen. Massgebend ist der Zeitpunkt der Forderungsentstehung.
 
 <sup>2</sup> Von der Gemeinde übernommene Ausstände sind vom Versicherten zurückzuerstatten.
 
@@ -97,21 +91,34 @@ vom 20.12.2011 (Stand 01.01.2023)
 
 **Beiträge aus der Prämienverbilligung**
 
-<sup>1</sup> Zur Abgeltung der von den Gemeinden übernommenen Ausstände von Versicherten wird aus den Mitteln der Prämienverbilligung ein vom Regierungsrat jährlich festzulegender Betrag zur Verfügung gestellt. An die Beiträge der Gemeinden für Verlustscheine und gleichwertige Rechtstitel aus Vorjahren erfolgt keine Mitfinanzierung.
+<sup>1</sup> Der Regierungsrat legt jährlich einen Betrag fest, der zur Abgeltung der von den Gemeinden vor der Entstehung von Forderungen aus Verlustscheinen oder gleichwertigen Rechtstiteln übernommenen Ausstände von Versicherten verwendet wird. An die Beiträge der Gemeinden für Verlustscheine und gleichwertige Rechtstitel aus Vorjahren erfolgt keine Mitfinanzierung.
 
 <sup>2</sup> Liegen die Aufwendungen der Gemeinden über dem Betrag gemäss Abs. 1, werden die Gemeinden für ihre Aufwendungen anteilmässig entschädigt.
 
-<sup>3</sup> Die Gemeinden reichen dem Kanton die Abrechnungen der von ihnen im Kalenderjahr übernommenen Aufwendungen bis zum 15. Januar des Folgejahres ein.
+<sup>3</sup> Die Gemeinden reichen dem Kanton die Abrechnungen der von ihnen im Kalenderjahr übernommenen Aufwendungen bis zum 15. Januar des Folgejahres ein. Ansonsten ist der Anspruch verwirkt.
 
 #### § 9
 
 **Liste der säumigen Prämienzahler**
 
-<sup>1</sup> Die kantonale Durchführungsstelle führt eine Liste von volljährigen Personen, die ihrer Prämienpflicht nicht nachkommen. Sie betreibt dafür eine elektronische Applikation und macht die Liste den Berechtigten zugänglich.
+<sup>1</sup> Die kantonale Durchführungsstelle führt die Liste in einer elektronischen Applikation und macht sie den Berechtigten zugänglich.
 
 <sup>2</sup> Zum Zugriff auf die elektronische Applikation berechtigt sind die kantonale Durchführungsstelle, die Gemeinden des Kantons sowie das Amt für Gesundheit.
 
 <sup>3</sup> Zur Einsicht in die Liste der säumigen Prämienzahler berechtigt sind die Stellen gemäss Abs. 2 und die zur obligatorischen Krankenpflegeversicherung zugelassenen Leistungserbringer, sofern sie über eine Zahlstellennummer der Versicherer verfügen.
+
+#### § 9a
+
+**Mutationen**
+
+<sup>1</sup> Die kantonale Durchführungsstelle nimmt den Eintrag in die Liste der säumigen Prämienzahler vor, wenn innert 30 Tagen nach Betreibungsmeldung weder die vollständige Bezahlung der ausstehenden Forderungen noch die Einstellung des Betreibungsverfahrens zu verzeichnen ist und die Ausstände im Kanton Thurgau entstanden sind. Massgebend ist der Zeitpunkt der Forderungsentstehung.
+
+<sup>2</sup> Der Listeneintrag wird mit der Mitteilung des Versicherers oder einem anderweitigen Nachweis, dass die ausstehenden Forderungen vollständig bezahlt sind, gelöscht. Der Leistungsaufschub wird aufgehoben.
+
+<sup>3</sup> Der Listeneintrag wird gelöscht und der Leistungsaufschub sistiert:
+
+- 1\. mit der Verlegung des zivilrechtlichen Wohnsitzes oder des gewöhnlichen Aufenthaltes in einen anderen Kanton oder einen anderen Staat oder im Todesfall
+- 2\. bei Beendigung der Grenzgängertätigkeit im Kanton
 
 #### § 10
 
@@ -131,21 +138,13 @@ vom 20.12.2011 (Stand 01.01.2023)
 
 **Case Management**
 
-<sup>1</sup> Die Gemeinden setzen Versicherte mit Leistungsaufschub über die Eintragung auf der Liste der säumigen Prämienzahler und die damit verbundenen Folgen in Kenntnis.
+<sup>1</sup> Die Gemeinden setzen Versicherte mit Leistungsaufschub über die Eintragung auf der Liste der säumigen Prämienzahler und die damit verbundenen Folgen sowie über die Löschung des Listeneintrages schriftlich in Kenntnis.
 
-<sup>2</sup> Sie betreiben ein Case Management mit dem Ziel, den Versicherungsschutz wieder vollumfänglich herzustellen und die Entstehung von Verlustscheinen zu vermeiden.
+<sup>2</sup> …
 
 <sup>3</sup> Versicherte mit Leistungsaufschub sind zur Mitwirkung im Case Management verpflichtet.
 
-#### § 12
-
-**Verlustscheine**
-
-<sup>1</sup> Die kantonale Durchführungsstelle erfasst die Verlustscheinmeldungen der Versicherer in der elektronischen Applikation.
-
-<sup>2</sup> Sie erstellt die Schlussabrechnung über die im Vorjahr angefallenen Verlustscheine und gleichwertigen Rechtstitel zur Weiterverrechnung an die Gemeinden bis zum 31. August.
-
-#### § 13
+#### § 12–13
 
 **…**
 
@@ -157,13 +156,13 @@ vom 20.12.2011 (Stand 01.01.2023)
 
 <sup>1</sup> Die Prämienverbilligungen betragen:
 
-- 1\. Fr. 2'868 bis zum Steuerbetrag von Fr. 400 einfache satzbestimmende Steuer zu 100 % und ohne steuerbares Vermögen
-- 2\. Fr. 2'148 bis zum Steuerbetrag von Fr. 600 einfache satzbestimmende Steuer zu 100 % und ohne steuerbares Vermögen
-- 3\. Fr. 1'428 bis zum Steuerbetrag von Fr. 800 einfache satzbestimmende Steuer zu 100 % und ohne steuerbares Vermögen
+- 1\. Fr. 3'180 bis zum Steuerbetrag von Fr. 400 einfache satzbestimmende Steuer zu 100 % und ohne steuerbares Vermögen
+- 2\. Fr. 2'388 bis zum Steuerbetrag von Fr. 600 einfache satzbestimmende Steuer zu 100 % und ohne steuerbares Vermögen
+- 3\. Fr. 1'596 bis zum Steuerbetrag von Fr. 800 einfache satzbestimmende Steuer zu 100 % und ohne steuerbares Vermögen
 - 4\. …
-- 5\. Fr. 1'080 für Kinder bis zum Steuerbetrag von Fr. 1'600 einfache satzbestimmende Steuer zu 100 % und ohne steuerbares Vermögen der Eltern
-- 6\. Fr. 5'160 für erwachsene Sozialhilfeempfänger
-- 7\. Fr. 1'080 für Sozialhilfeempfänger bis zum 18. Altersjahr
+- 5\. Fr. 1'164 für Kinder bis zum Steuerbetrag von Fr. 1'600 einfache satzbestimmende Steuer zu 100 % und ohne steuerbares Vermögen der Eltern
+- 6\. Fr. 5'724 für erwachsene Sozialhilfeempfänger
+- 7\. Fr. 1'164 für Sozialhilfeempfänger bis zum 18. Altersjahr
 
 #### § 15
 
@@ -710,7 +709,7 @@ vom 20.12.2011 (Stand 01.01.2023)
 <sup>1</sup> Für Notfallbehandlungen gilt:
 
 - 1\. Leistungserbringer mit Standort ausserhalb des Kantons: Ein Notfall liegt vor, wenn der Zustand der zu behandelnden Person es nicht erlaubt, diese in ein innerkantonales Listenspital zu transportieren
-- 2\. Massgebend für die Behandlung von Notfällen sind die Bestimmungen gemäss Art. 64a Abs. 7 KVG in Verbindung mit § 9 dieser Verordnung über die Liste der säumigen Prämienzahler
+- 2\. Für Personen mit einem Leistungsaufschub beurteilen die Leistungserbringer abschliessend, ob ein Notfall nach Art. 64a Abs. 7 KVG vorliegt
 
 <sup>2</sup> Notfälle sind dem kantonsärztlichen Dienst innert drei Tagen zu melden, sofern Anspruch auf Entschädigungen gestellt werden, die höher sind als die geltenden Referenztarife.
 
@@ -718,7 +717,7 @@ vom 20.12.2011 (Stand 01.01.2023)
 
 <sup>4</sup> Für Behandlungen von Personen mit Leistungsaufschub des Krankenversicherers, die über Abs. 1 hinaus gehen, kommt der Kanton nicht auf. Die Behandlungskosten sind dem Patienten oder der Patientin in Rechnung zu stellen.
 
-<sup>5</sup> Wird der Kanton in diesen Fällen dennoch für Behandlungskosten in Anspruch genommen, steht ihm das Rückgriffsrecht auf den Patienten oder die Patientin zu.
+<sup>5</sup> …
 
 #### § 63
 
