@@ -4,13 +4,13 @@ number: "800.011"
 title: Standeskommissionsbeschluss über die Pflegefinanzierung
 short: StKB Pflegefinanzierung
 language: de
-version: 2023-01-01
-valid_until: 2023-12-31
-version_adopted: 2022-11-22
+version: 2024-01-01
+valid_until: 2024-06-30
+version_adopted: 2023-06-20
 adopted: 2010-11-30
 in_force: 2011-01-01
 url: "https://ai.clex.ch/app/de/texts_of_law/800.011"
-pdf: "https://ai.clex.ch/api/de/versions/2170/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/2226/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://ai.clex.ch/api/de/versions/2170/pdf_file"
 
 (StKB Pflegefinanzierung)
 
-vom 30.11.2010 (Stand 01.01.2023)
+vom 30.11.2010 (Stand 01.01.2024)
 
 Die Standeskommission des Kantons Appenzell I. Rh.,
 
@@ -35,7 +35,9 @@ beschliesst:
 
 <sup>1</sup> Die Patienten[^1-1] beteiligen sich an den ambulanten Pflegeleistungen. Von der Patientenbeteiligung ausgenommen sind Leistungen der Akut- und Übergangspflege.
 
-<sup>2</sup> Die Patientenbeteiligung beträgt je Tag höchstens die Hälfte des bundesrechtlichen Maximums, gerundet auf 10 Rappen.
+<sup>2</sup> Die Patientenbeteiligung beträgt je Tag pauschal die Hälfe des nach Bundesrecht zulässigen Maximums, gerundet auf 10 Rappen.
+
+<sup>3</sup> Für Kinder und Jugendliche bis zum vollendeten 18. Altersjahr besteht keine Beitragspflicht.
 
 [^1-1]: Die Verwendung der männlichen Bezeichnungen gilt sinngemäss für beide Geschlechter.
 
@@ -43,7 +45,9 @@ beschliesst:
 
 **Restkosten und Finanzierung**
 
-<sup>1</sup> Die Leistungen nach Art. 7 Abs. 2 der Verordnung des EDI über Leistungen in der obligatorischen Krankenpflegeversicherung vom 29. September 1995 (KLV) sowie die Restkosten und die Finanzierung im Sinne von Art. 25a Abs. 1 des Bundesgesetzes über die Krankenversicherung vom 18. März 1994 (KVG) richten sich nach dem Anhang.
+<sup>1</sup> Die Leistungen nach Art. 7 Abs. 2 der Verordnung des EDI über Leistungen in der obligatorischen Krankenpflegeversicherung vom 29. September 1995 (KLV) sowie die Restkosten und die Finanzierung im Sinne von Art. 25a des Bundesgesetzes über die Krankenversicherung vom 18. März 1994 (KVG) richten sich nach dem Anhang.
+
+<sup>1a</sup> Die Restkosten reduzieren sich um den Betrag der Patientenbeteiligung.
 
 <sup>2</sup> …
 
