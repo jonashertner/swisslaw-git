@@ -3,20 +3,20 @@ canton: SO
 number: "614.159.20"
 title: "Steuerverordnung Nr. 20: Anpassung von Tarifstufen, allgemeinen Abzügen und Sozialabzügen an die Teuerung"
 language: de
-version: 2009-01-01
-valid_until: 2023-12-31
-version_adopted: 2008-09-23
+version: 2024-01-01
+valid_until: 2025-12-31
+version_adopted: 2023-10-31
 adopted: 1996-02-12
 in_force: 1997-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/614.159.20"
-pdf: "https://bgs.so.ch/api/de/versions/3419/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5422/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Steuerverordnung Nr. 20: Anpassung von Tarifstufen, allgemeinen Abzügen und Sozialabzügen an die Teuerung
 
-Vom 12.02.1996 (Stand 01.01.2009)
+Vom 12.02.1996 (Stand 01.01.2024)
 
 Der Regierungsrat des Kantons Solothurn
 
@@ -30,13 +30,17 @@ beschliesst:
 
 **Gegenstand der Anpassung**
 
-<sup>1</sup> Der Regierungsrat passt bei jedem Anstieg der Teuerung um 5 % seit dem 31. Dezember 2007 oder seit der letzten Anpassung folgende Beträge dem Stand des Landesindexes der Konsumentenpreise an:
+<sup>1</sup> Der Regierungsrat passt bei jedem Anstieg der Teuerung um 5 % seit dem 31. Dezember 2022 oder seit der letzten Anpassung folgende Beträge dem Stand des Landesindexes der Konsumentenpreise an:
 
 - a) die Tarifstufen der Einkommenssteuer (§ 44 Absatz 1 des Gesetzes);
 - b) die allgemeinen Abzüge bei der Einkommenssteuer:
   - 1\. Abzug vom niedrigeren Erwerbseinkommen, wenn beide Ehegatten unabhängig von einander ein Erwerbseinkommen erzielen (§ 41 Absatz 1 Buchstabe c des Gesetzes);
   - 2\. Höchstbetrag der Kosten für die Betreuung von Kindern (§ 41 Absatz 1 Buchstabe d des Gesetzes);
-  - 3\. Höchstbeträge der Einlagen, Prämien und Beiträge für Lebensversicherungen, Kranken- und Unfallversicherung (§ 41 Absätze 2 und 3 des Gesetzes);
+  - 3\. Höchstbetrag der Mitgliederbeiträge und Zuwendungen an politische Parteien (§ 41 Absatz 1 Buchstabe n des Gesetzes);
+  - 4\. Höchstbetrag der Einsatzkosten bei Geldspielen (§ 41 Absatz 1 Buchstabe o des Gesetzes);
+  - 5\. Höchstbetrag der Spieleinsätze bei der Online-Teilnahme an Spielbankenspielen (§ 41 Absatz 1 Buchstabe o<sup>bis</sup>);
+  - 6\. Höchstbetrag der berufsorientierten Aus- und Weiterbildungskosten (§ 41 Absatz 1 Buchstabe p des Gesetzes);
+  - 7\. Höchstbeträge der Einlagen, Prämien und Beiträge für Lebensversicherungen, Kranken- und Unfallversicherung (§ 41 Absätze 2 und 3 des Gesetzes);
 - c) die Sozialabzüge nach § 43 Absatz 1 des Gesetzes.
 
 <sup>2</sup> Der Regierungsrat passt bei jedem Anstieg der Teuerung um 7 % seit der letzten Anpassung folgende Beträge dem Stand des Landesindexes der Konsumentenpreise an:
@@ -48,21 +52,21 @@ beschliesst:
 
 **Tarifstufen der Erbschafts- und Schenkungssteuer**
 
-<sup>1</sup> Die Tarifstufen der Erbschafts- und Schenkungssteuern nach § 232 Absatz 1 des Gesetzes werden ab 1. Januar 2006 wie folgt festgelegt (Klassen 1-5):
+<sup>1</sup> Die Tarifstufen der Erbschafts- und Schenkungssteuern nach § 232 Absatz 1 des Gesetzes werden ab 1. Januar 2024 wie folgt festgelegt (Klassen 1-5):
 
 <table>
 <tr><th>Steuer</th><th>Klasse 1</th><th>Klasse 2</th><th>Klasse 3</th><th>Klasse 4</th><th>Klasse 5</th></tr>
-<tr><td>für die ersten 28'197 Franken</td><td>2%</td><td>4%</td><td>6%</td><td>9%</td><td>12%</td></tr>
-<tr><td>für die nächsten 42'297 Franken</td><td>5%</td><td>10%</td><td>15%</td><td>22.5%</td><td>30%</td></tr>
-<tr><td>für die nächsten 84'593 Franken</td><td>6%</td><td>12%</td><td>18%</td><td>27%</td><td>36%</td></tr>
-<tr><td>ab 155'087 Franken</td><td>5%</td><td>10%</td><td>15%</td><td>22.5%</td><td>30%</td></tr>
+<tr><td>für die ersten 30'396 Franken</td><td>2%</td><td>4%</td><td>6%</td><td>9%</td><td>12%</td></tr>
+<tr><td>für die nächsten 45'596 Franken</td><td>5%</td><td>10%</td><td>15%</td><td>22.5%</td><td>30%</td></tr>
+<tr><td>für die nächsten 91'191 Franken</td><td>6%</td><td>12%</td><td>18%</td><td>27%</td><td>36%</td></tr>
+<tr><td>ab 167'183 Franken</td><td>5%</td><td>10%</td><td>15%</td><td>22.5%</td><td>30%</td></tr>
 </table>
 
 #### § 3
 
 **Freibetrag der Schenkungssteuer**
 
-<sup>1</sup> Der Abzug gemäss § 239 Absatz 2 des Gesetzes von Zuwendungen, die der Schenkungssteuer unterliegen, wird ab dem 1. Januar 2006 auf Fr. 14'100.-- festgesetzt
+<sup>1</sup> Der Abzug gemäss § 239 Absatz 2 des Gesetzes von Zuwendungen, die der Schenkungssteuer unterliegen, wird ab dem 1. Januar 2024 auf Fr. 15'200.-- festgesetzt.
 
 #### § 4
 
@@ -76,11 +80,11 @@ beschliesst:
 
 **Indexstand**
 
-<sup>1</sup> Der Landesindex der Konsumentenpreise (Basis Mai 2000 = 100.0 Punkte) stand am 31. Dezember 2004 bei 104.2 Punkten, am 31. Dezember 2007 bei 108.0 Punkten.
+<sup>1</sup> Der Landesindex der Konsumentenpreise (Basis Mai 2000 = 100.0 Punkte) stand am 31. Dezember 2022 bei 112.4 Punkten.
 
-<sup>2</sup> Die nächste Anpassung der Tarifstufen und Abzüge gemäss § 1 Absatz 1 der Verordnung wird vorgenommen, wenn der Indexstand am Ende eines Jahres 113.4 Punkte erreicht oder übersteigt.
+<sup>2</sup> Die nächste Anpassung der Tarifstufen und Abzüge gemäss § 1 Absatz 1 der Verordnung wird vorgenommen, wenn der Indexstand am Ende eines Jahres 118.0 Punkte erreicht oder übersteigt.
 
-<sup>3</sup> Bei der Erbschafts- und Schenkungssteuer wird die nächste Anpassung der Tarifstufen und des steuerfreien Betrages gemäss § 1 Absatz 2 der Verordnung vorgenommen, wenn der Indexstand am Ende eines Jahres 111.5 Punkte erreicht oder übersteigt.
+<sup>3</sup> Bei der Erbschafts- und Schenkungssteuer wird die nächste Anpassung der Tarifstufen und des steuerfreien Betrages gemäss § 1 Absatz 2 der Verordnung vorgenommen, wenn der Indexstand am Ende eines Jahres 120.3 Punkte erreicht oder übersteigt.
 
 #### § 6
 
