@@ -3,20 +3,19 @@ canton: FR
 number: "731.3.12"
 title: Tarif der Kosten der Feuerwehreinsätze
 language: de
-version: 2023-01-01
-valid_until: 2023-12-31
-version_adopted: 2022-09-20
+version: 2024-01-01
+version_adopted: 2023-12-12
 adopted: 2022-09-20
 in_force: 2023-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/731.3.12"
-pdf: "https://bdlf.fr.ch/api/de/versions/7564/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7906/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Tarif der Kosten der Feuerwehreinsätze
 
-vom 20.09.2022 (Fassung in Kraft getreten am 01.01.2023)
+vom 20.09.2022 (Fassung in Kraft getreten am 01.01.2024)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -45,7 +44,7 @@ beschliesst:
 <sup>1</sup> Die Kosten der Feuerwehreinsätze werden wie folgt berechnet:
 
 - a) Personal: 50 Franken pro Stunde, verrechnet pro Viertelstunde, mindestens aber 1 Stunde;
-- b) Material und Geräte: 15 % der Personalkosten, mindestens aber 50 Franken und höchstens 1500 Franken;
+- b) Material, Verbrauchsgüter und Geräte: 15 % der Personalkosten, mindestens aber 50 Franken und höchstens 1500 Franken, unter Vorbehalt von Absatz 1a;
 - c) leichtes Fahrzeug, bis 3,5 Tonnen:
   - 1\. Einsatzpauschale: 110 Franken;
   - 2\. Kilometerentschädigung: Fr. 1.20 pro Kilometer;
@@ -55,7 +54,11 @@ beschliesst:
   - 3\. Kilometerentschädigung: Fr. 3.50 pro Kilometer;
 - e) Schiff:
   - 1\. stationärer Einsatz: 130 Franken pro Stunde, verrechnet pro halbe Stunde;
-- f) Verwaltungskosten: 3 % der Personalkosten, aber mindestens 10 Franken und höchstens 200 Franken.
+- f) Verwaltungskosten: 3 % der Personalkosten, aber mindestens 10 Franken und höchstens 200 Franken, unter Vorbehalt von Absatz 1a;
+
+<sup>1a</sup> Bei einem Grosseinsatz, bei dem die Summe der effektiven Kosten für Verbrauchsgüter 15'000 Franken übersteigt, wird die Höchstgrenze von 1500 Franken nach Absatz 1 Bst. b aufgehoben und die Höchstgrenze für die Verwaltungskosten auf 1000 Franken erhöht.
+
+<sup>1b</sup> Kosten von nicht-öffentlichen Hilfsdiensten, die für die Zwecke des Einsatzes benötigt werden (z. B. Miete einer Kehrmaschine), und Kosten, die der Feuerwehr entstehen, wenn der eigentliche Einsatz bereits beendet ist (z. B. Kosten für die Entsorgung von Feuerwehrabfällen nach einem Einsatz), werden zur Weiterverrechnung zu den Einsatzkosten hinzugezählt.
 
 <sup>2</sup> Die Gemeindeverbände können ausnahmsweise beschliessen, Dritten die Kosten der Feuerwehreinsätze nicht in Rechnung zu stellen und diese allein zu tragen, wenn sie geringfügig sind und es die Umstände rechtfertigen.
 

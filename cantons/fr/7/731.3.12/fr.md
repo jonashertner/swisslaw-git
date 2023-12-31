@@ -3,20 +3,19 @@ canton: FR
 number: "731.3.12"
 title: "Tarif des frais d'intervention des sapeurs-pompiers"
 language: fr
-version: 2023-01-01
-valid_until: 2023-12-31
-version_adopted: 2022-09-20
+version: 2024-01-01
+version_adopted: 2023-12-12
 adopted: 2022-09-20
 in_force: 2023-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/731.3.12"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7564/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7906/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
 
 # Tarif des frais d'intervention des sapeurs-pompiers
 
-du 20.09.2022 (version entrée en vigueur le 01.01.2023)
+du 20.09.2022 (version entrée en vigueur le 01.01.2024)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -45,7 +44,7 @@ Arrête:
 <sup>1</sup> Les frais d'intervention des sapeurs-pompiers sont calculés comme suit:
 
 - a) Personnel: 50 francs par heure, facturé au quart d'heure, mais au minimum 1 heure;
-- b) Matériel et engins: 15 % du coût en personnel, mais au minimum 50 francs et au maximum 1500 francs;
+- b) Matériel, consommables et engins: 15 % du coût en personnel, mais au minimum 50 francs et au maximum 1500 francs, sous réserve de l'alinéa 1a;
 - c) Véhicule léger de 3,5 tonnes et moins:
   - 1\. Forfait de sortie: 110 francs;
   - 2\. Indemnité kilométrique: 1,20 francs par kilomètre;
@@ -55,7 +54,11 @@ Arrête:
   - 3\. Indemnité kilométrique: 3,50 francs par kilomètre;
 - e) Bateau:
   - 1\. Utilisation en stationnaire: 130 francs par heure, facturé à la demi-heure;
-- f) Frais administratifs: 3 % du coût en personnel, mais au minimum 10 francs et au maximum 200 francs.
+- f) Frais administratifs: 3 % du coût en personnel, mais au minimum 10 francs et au maximum 200 francs, sous réserve de l'alinéa 1a.
+
+<sup>1a</sup> En cas d'intervention d'envergure dont la somme des frais effectifs de consommable dépasse les 15'000 francs, la limite maximale de 1500 francs prévue à l'alinéa 1 let. b est levée et la limite maximale pour les frais administratifs relevée à 1000 francs.
+
+<sup>1b</sup> Les frais liés à des services auxiliaires non-publics requis pour les besoins de l'intervention (p.ex. location d'une balayeuse) ainsi que ceux engagés par les sapeurs-pompiers alors que l'intervention à proprement parler est terminée (p. ex. frais d'élimination des déchets pompiers à la suite d'une intervention) sont ajoutés aux frais d'intervention pour leur refacturation.
 
 <sup>2</sup> L'association des communes peut exceptionnellement décider de ne pas refacturer aux tiers les frais d'intervention des sapeurs-pompiers et en assumer seule la charge, si ceux-ci sont minimes et que les circonstances le justifient.
 
