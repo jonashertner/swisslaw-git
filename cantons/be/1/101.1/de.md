@@ -4,28 +4,26 @@ number: "101.1"
 title: Verfassung des Kantons Bern
 short: KV
 language: de
-version: 2022-05-15
-valid_until: 2023-12-31
-version_adopted: 2022-05-15
+version: 2024-01-01
+valid_until: 2024-03-02
+version_adopted: 2023-03-12
 adopted: 1993-06-06
 in_force: 1995-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/101.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2614/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2876/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verfassung des Kantons Bern
 
-(KV[^ingress-1])
+(KV)
 
-vom 06.06.1993 (Stand 15.05.2022)
+vom 06.06.1993 (Stand 01.01.2024)
 
 In der Absicht, Freiheit und Recht zu schützen und ein Gemeinwesen zu gestalten, in dem alle in Verantwortung gegenüber der Schöpfung zusammenleben,
 
 gibt sich das Volk des Kantons Bern folgende Verfassung:
-
-[^ingress-1]: Nicht offfizielle Legalabkürzung
 
 ## 1 Allgemeine Grundsätze
 
@@ -745,15 +743,18 @@ gibt sich das Volk des Kantons Bern folgende Verfassung:
 <sup>1</sup> Dem Grossen Rat dürfen nicht gleichzeitig angehören
 
 - a die Mitglieder des Regierungsrates,
-- b die Mitglieder der kantonalen richterlichen Behörden,
+- b die Mitglieder der kantonalen richterlichen Behörden und der Staatsanwaltschaft,
 - c das Personal der zentralen und der dezentralen kantonalen Verwaltung,
+- c1 das Personal der Gerichtsbehörden und der Staatsanwaltschaft,
 - d weitere Personen, sofern das Gesetz es vorsieht.
 
-<sup>2</sup> Wer Mitglied einer kantonalen richterlichen Behörde ist, darf nicht gleichzeitig dem Regierungsrat oder der kantonalen Verwaltung angehören.
+<sup>1a</sup> Das Gesetz kann in begründeten Fällen Ausnahmen von Absatz 1 Buchstabe c vorsehen.
+
+<sup>2</sup> Wer Mitglied einer kantonalen Gerichtsbehörde oder der Staatsanwaltschaft ist, darf nicht gleichzeitig dem Regierungsrat oder der zentralen oder dezentralen kantonalen Verwaltung angehören.
 
 <sup>3</sup> Die Mitglieder des Regierungsrates dürfen nicht der Bundesversammlung angehören.
 
-<sup>4</sup> Mitglieder von Behörden sowie Mitarbeiterinnen und Mitarbeiter der kantonalen Verwaltung haben sich bei Geschäften, die sie unmittelbar betreffen, in den Ausstand zu begeben.
+<sup>4</sup> Mitglieder von Behörden sowie das Personal der kantonalen Verwaltung, der Gerichtsbehörden und der Staatsanwaltschaft haben bei Geschäften, die sie unmittelbar betreffen, in den Ausstand zu treten.
 
 #### Art. 69
 
@@ -836,7 +837,7 @@ gibt sich das Volk des Kantons Bern folgende Verfassung:
 - b den Geschäftsbericht,
 - c die Steueranlage,
 - d den Rahmen einer Neuverschuldung,
-- e Ausgaben, soweit sie nicht in die Zuständigkeit des Regierungsrates fallen.
+- e Ausgaben, soweit sie nicht in die Zuständigkeit des Regierungsrates oder der Justizverwaltungsleitung fallen.
 
 #### Art. 77
 
@@ -848,8 +849,8 @@ gibt sich das Volk des Kantons Bern folgende Verfassung:
 - b die Regierungspräsidentin oder den Regierungspräsidenten,
 - c die Staatsschreiberin oder den Staatsschreiber,
 - d die Präsidentin oder den Präsidenten von Obergericht und Verwaltungsgericht,
-- e die übrigen Mitglieder der Gerichte, soweit diese Befugnis nicht dem Volk übertragen ist,
-- f die Generalprokuratorin oder den Generalprokurator.
+- e die übrigen Mitglieder der Gerichte, soweit das Gesetz nichts anderes bestimmt,
+- f die Generalstaatsanwältin oder den Generalstaatsanwalt sowie die stellvertretenden Generalstaatsanwältinnen und Generalstaatsanwälte.
 
 <sup>2</sup> Das Gesetz kann ihm weitere Wahlen übertragen.
 
@@ -857,7 +858,12 @@ gibt sich das Volk des Kantons Bern folgende Verfassung:
 
 **Aufsicht**
 
-<sup>1</sup> Der Grosse Rat beaufsichtigt die Regierung und die Geschäftsführung der obersten Gerichte und führt die Oberaufsicht über die Verwaltung und die anderen Träger öffentlicher Aufgaben.
+<sup>1</sup> Der Grosse Rat beaufsichtigt
+
+- a die Regierung,
+- b die Geschäftsführung der Justizverwaltungsleitung, der obersten Gerichte und der Generalstaatsanwaltschaft.
+
+<sup>2</sup> Er übt die Oberaufsicht über die Verwaltung und die anderen Träger öffentlicher Aufgaben aus.
 
 #### Art. 79
 
@@ -916,6 +922,16 @@ gibt sich das Volk des Kantons Bern folgende Verfassung:
 <sup>2</sup> Er nimmt an den Sitzungen des Grossen Rates mit beratender Stimme teil.
 
 <sup>3</sup> Er kann sich durch seine Mitglieder vertreten lassen.
+
+#### Art. 83a
+
+**Stellung der Justizverwaltungsleitung im Grossen Rat**
+
+<sup>1</sup> Die Justizverwaltungsleitung hat das Recht, dem Grossen Rat in den im Gesetz vorgesehenen Geschäften Anträge zu stellen.
+
+<sup>2</sup> Sie nimmt bei diesen Geschäften an den Sitzungen des Grossen Rates mit beratender Stimme teil.
+
+<sup>3</sup> Das Gesetz regelt die Mitwirkung des Regierungsrates bei der Vorbereitung der Geschäfte.
 
 ### 5.3 Regierungsrat
 
@@ -1066,17 +1082,33 @@ gibt sich das Volk des Kantons Bern folgende Verfassung:
 
 <sup>1</sup> Durch Gesetz kann eine kantonale Ombudsstelle geschaffen werden.
 
-### 5.5 Gerichte
+### 5.5 Gerichte und Staatsanwaltschaft
 
 #### Art. 97
 
 **Allgemeines**
 
-<sup>1</sup> Die Unabhängigkeit der Gerichte ist gewährleistet.
+<sup>1</sup> Die Gerichte und die Staatsanwaltschaft sind in der Rechtsprechung und der Strafverfolgung unabhängig und nur dem Recht verpflichtet.
+
+<sup>1a</sup> Sie verwalten sich selbst, soweit das Gesetz nichts anderes bestimmt.
 
 <sup>2</sup> Die Gerichtsverhandlungen sind öffentlich. Die Urteile sind schriftlich zu begründen. Das Gesetz bezeichnet die Ausnahmen.
 
-<sup>3</sup> Das Gesetz regelt die Zuständigkeit der Gerichte.
+<sup>3</sup> Das Gesetz regelt die Organisation und die Zuständigkeit der Gerichte und der Staatsanwaltschaft.
+
+#### Art. 97a
+
+**Justizverwaltungsleitung**
+
+<sup>1</sup> Die Justizverwaltungsleitung ist das gemeinsame Organ von Obergericht, Verwaltungsgericht und Generalstaatsanwaltschaft für die Selbstverwaltung der Justiz.
+
+<sup>2</sup> Das Gesetz regelt die Zusammensetzung und die Zuständigkeit der Justizverwaltungsleitung.
+
+<sup>3</sup> Die Justizverwaltungsleitung beschliesst über
+
+- a neue einmalige Ausgaben bis eine Million Franken,
+- b neue wiederkehrende Ausgaben bis 200'000 Franken,
+- c gebundene Ausgaben.
 
 #### Art. 98
 
@@ -1084,10 +1116,11 @@ gibt sich das Volk des Kantons Bern folgende Verfassung:
 
 <sup>1</sup> Die Zivilgerichtsbarkeit wird ausgeübt durch
 
-- a die Gerichtspräsidentinnen und Gerichtspräsidenten,
-- b das Obergericht.
+- a die Schlichtungsbehörden,
+- b die Regionalgerichte,
+- c das Obergericht.
 
-<sup>2</sup> Durch Gesetz können besondere richterliche Behörden eingesetzt werden, namentlich für die Beurteilung von arbeitsrechtlichen, mietrechtlichen oder handelsrechtlichen Streitigkeiten.
+<sup>2</sup> Durch Gesetz können besondere richterliche Behörden eingesetzt werden.
 
 #### Art. 99
 
@@ -1095,11 +1128,11 @@ gibt sich das Volk des Kantons Bern folgende Verfassung:
 
 <sup>1</sup> Die Strafgerichtsbarkeit wird ausgeübt durch
 
-- a die Gerichtspräsidentinnen und Gerichtspräsidenten,
-- b die Kreisgerichte oder die regionalen Kollegialgerichte,
-- c die Jugendgerichte,
-- d das Wirtschaftsstrafgericht,
+- a die Regionalgerichte,
+- b–d …
 - e das Obergericht.
+
+<sup>1a</sup> Durch Gesetz können besondere richterliche Behörden eingesetzt werden.
 
 <sup>2</sup> Durch Gesetz können Verwaltungsstrafbefugnisse auch den Verwaltungsbehörden des Kantons und der Gemeinden übertragen werden. Die richterliche Überprüfung bleibt vorbehalten.
 
@@ -1110,6 +1143,12 @@ gibt sich das Volk des Kantons Bern folgende Verfassung:
 <sup>1</sup> Das Verwaltungsgericht beurteilt letztinstanzlich verwaltungsrechtliche Streitigkeiten, soweit das Gesetz sie nicht in die endgültige Zuständigkeit einer anderen Behörde legt.
 
 <sup>2</sup> Durch Gesetz können für die Beurteilung von verwaltungsrechtlichen Streitigkeiten besondere richterliche Behörden eingesetzt werden.
+
+#### Art. 100a
+
+**Staatsanwaltschaft**
+
+<sup>1</sup> Die Staatsanwaltschaft nimmt die ihr im Gesetz zugewiesenen Aufgaben im Bereich der Strafverfolgung wahr.
 
 ## 6 Finanzordnung
 
@@ -1127,17 +1166,17 @@ gibt sich das Volk des Kantons Bern folgende Verfassung:
 
 #### Art. 101a
 
-**Schuldenbremse für die Laufende Rechnung**
+**Schuldenbremse für die Erfolgsrechnung**
 
-<sup>1</sup> Der Voranschlag darf keinen Aufwandüberschuss ausweisen.
+<sup>1</sup> Das Budget darf nur einen Aufwandüberschuss aufweisen, wenn dieser durch einen Bilanzüberschuss gedeckt ist.
 
-<sup>2</sup> Ein Aufwandüberschuss des Geschäftsberichts wird dem Voranschlag des übernächsten Jahres belastet, soweit er nicht durch Eigenkapital gedeckt ist.
+<sup>2</sup> Ein Aufwandüberschuss im Geschäftsbericht ist innert zwei Jahren abzutragen, wenn er nicht durch einen Bilanzüberschuss gedeckt ist.
 
-<sup>3</sup> Der Grosse Rat kann bei der Verabschiedung des Voranschlags von Absatz 1 abweichen, wenn mindestens drei Fünftel seiner Mitglieder es beschliessen. Bei der Genehmigung des Geschäftsberichts ist Absatz 2 im Umfang des im Voranschlag beschlossenen Aufwandüberschusses nicht anwendbar. Der Fehlbetrag ist innert vier Jahren abzutragen.
+<sup>3</sup> Der Grosse Rat kann bei der Verabschiedung des Budgets mit Zustimmung von drei Fünfteln seiner Mitglieder von Absatz 1 abweichen. Bei der Genehmigung des Geschäftsberichts ist Absatz 2 im Umfang des im Budget beschlossenen Aufwandüberschusses nicht anwendbar. Ein Fehlbetrag ist innert fünf Jahren abzutragen.
 
-<sup>4</sup> Der Grosse Rat kann bei der Genehmigung des Geschäftsberichts von Absatz 2 in einem festzulegenden Umfang abweichen, wenn mindestens drei Fünftel seiner Mitglieder es beschliessen. Ein Fehlbetrag ist innert vier Jahren abzutragen.
+<sup>4</sup> Der Grosse Rat kann bei der Genehmigung des Geschäftsberichts mit Zustimmung von drei Fünfteln seiner Mitglieder in einem festzulegenden Umfang von Absatz 2 abweichen. Ein Fehlbetrag ist innert fünf Jahren abzutragen.
 
-<sup>5</sup> Buchgewinne und Abschreibungen auf Anlagen des Finanzvermögens werden für die Anwendung der Absätze 1 und 2 nicht berücksichtigt.
+<sup>5</sup> Buchgewinne und Wertberichtigungen auf Anlagen des Finanzvermögens werden für die Anwendung der Absätze 1 und 2 nicht berücksichtigt.
 
 #### Art. 101b
 
@@ -1145,13 +1184,13 @@ gibt sich das Volk des Kantons Bern folgende Verfassung:
 
 <sup>1</sup> Der Selbstfinanzierungsgrad der Nettoinvestitionen hat mittelfristig mindestens 100 Prozent zu betragen.
 
-<sup>2</sup> Ein Selbstfinanzierungsgrad der Nettoinvestitionen unter 100 Prozent im Voranschlag ist im Aufgaben- und Finanzplan zu kompensieren.
+<sup>2</sup> Ein Selbstfinanzierungsgrad der Nettoinvestitionen unter 100 Prozent im Budget ist im Aufgaben- und Finanzplan zu kompensieren, soweit er nicht durch Finanzierungsüberschüsse der fünf dem Budgetjahr vorausgegangenen Jahre gedeckt ist.
 
-<sup>3</sup> Ein Finanzierungsfehlbetrag im Geschäftsbericht ist im Voranschlag des übernächsten Jahres und der drei daran anschliessenden Jahre zu kompensieren.
+<sup>3</sup> Ein Finanzierungsfehlbetrag im Geschäftsbericht ist innert fünf Jahren zu kompensieren, soweit er nicht durch Finanzierungsüberschüsse der fünf dem Rechnungsjahr vorausgegangenen Jahre gedeckt ist.
 
-<sup>4</sup> Der Grosse Rat kann die Frist für die Kompensation des Finanzierungsfehlbetrags auf acht Jahre verlängern oder auf die Kompensation ganz verzichten, wenn mindestens drei Fünftel seiner Mitglieder es beschliessen.
+<sup>4</sup> Der Grosse Rat kann die Frist für die Kompensation des Finanzierungsfehlbetrags mit Zustimmung von drei Fünfteln seiner Mitglieder auf neun Jahre verlängern oder ganz auf die Kompensation verzichten.
 
-<sup>5</sup> Die Absätze 1 bis 4 gelangen zur Anwendung, wenn die Bruttoschuldenquote, definiert als Bruttoschuld relativ zum kantonalen Volkseinkommen, einen Wert von 12 Prozent übersteigt. Massgebend ist die Quote am Ende des vorausgegangenen Kalenderjahres.
+<sup>5</sup> Die Absätze 1 bis 4 gelangen zur Anwendung, wenn die Nettoschuldenquote, definiert als Nettoschuld I relativ zum kantonalen Bruttoinlandprodukt, einen Wert von sechs Prozent übersteigt. Massgebend ist die Quote am Ende des vorausgegangenen Kalenderjahres.
 
 #### Art. 101c
 

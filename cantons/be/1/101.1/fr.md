@@ -1,31 +1,29 @@
 ---
 canton: BE
 number: "101.1"
-title: Constitution du canton de Berne
+title: "Constitution du canton de Berne *"
 short: ConstC
 language: fr
-version: 2022-05-15
-valid_until: 2023-12-31
-version_adopted: 2022-05-15
+version: 2024-01-01
+valid_until: 2024-03-02
+version_adopted: 2023-03-12
 adopted: 1993-06-06
 in_force: 1995-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/101.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2614/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2876/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
 
 # Constitution du canton de Berne
 
-(ConstC[^ingress-1])
+(ConstC)
 
-du 06.06.1993 (état au 15.05.2022)
+du 06.06.1993 (état au 01.01.2024)
 
 Dans l'intention de protéger la liberté et le droit et d'aménager une collectivité dans laquelle tous vivent solidairement et sont conscients de leur responsabilité envers la création,
 
 le peuple bernois se donne la Constitution suivante:
-
-[^ingress-1]: Abréviation non officielle
 
 ## 1 Principes généraux
 
@@ -745,15 +743,18 @@ le peuple bernois se donne la Constitution suivante:
 <sup>1</sup> Ne peuvent être simultanément membres du Grand Conseil
 
 - a les membres du Conseil-exécutif,
-- b les membres des autorités judiciaires cantonales,
+- b les membres des autorités judiciaires cantonales et du Ministère public,
 - c le personnel de l’administration centrale et de l’administration décentralisée du canton,
+- c1 le personnel des autorités judiciaires et du Ministère public,
 - d les personnes assumant d'autres fonctions déclarées incompatibles par la loi.
 
-<sup>2</sup> Les membres d'une autorité judiciaire cantonale ne peuvent pas simultanément être membres du Conseil-exécutif, ni appartenir à l'administration cantonale.
+<sup>1a</sup> Dans des cas motivés, la loi peut prévoir des exceptions à l’alinéa 1, lettre c.
+
+<sup>2</sup> Les membres d'une autorité judiciaire cantonale ou du Ministère public ne peuvent pas simultanément être membres du Conseil-exécutif, ni appartenir à l'administration centrale ou décentralisée du canton.
 
 <sup>3</sup> Il est interdit aux membres du Conseil-exécutif de siéger à l'Assemblée fédérale.
 
-<sup>4</sup> Les membres des autorités ainsi que les agents et agentes de l'administration cantonale doivent se récuser lorsque sont traitées des affaires qui les concernent directement.
+<sup>4</sup> Les membres des autorités ainsi que le personnel de l'administration cantonale, des autorités judiciaires et du Ministère public doivent se récuser lorsque sont traitées des affaires qui les concernent directement.
 
 #### Art. 69
 
@@ -836,7 +837,7 @@ le peuple bernois se donne la Constitution suivante:
 - b le rapport de gestion,
 - c la quotité de l'impôt,
 - d le cadre d'un nouvel endettement,
-- e les dépenses qui ne sont pas de la compétence du Conseil-exécutif.
+- e les dépenses qui ne sont pas de la compétence du Conseil-exécutif ou de la Direction administrative de la magistrature.
 
 #### Art. 77
 
@@ -848,8 +849,8 @@ le peuple bernois se donne la Constitution suivante:
 - b le président ou la présidente du Conseil-exécutif;
 - c le chancelier ou la chancelière d'Etat;
 - d le président ou la présidente de la Cour suprême et celui ou celle du Tribunal administratif;
-- e les autres membres des tribunaux, dans la mesure où cette compétence n'est pas attribuée au corps électoral;
-- f le procureur général ou la procureure générale.
+- e les autres membres des tribunaux, dans la mesure où la loi n'en dispose pas autrement;
+- f le procureur général ou la procureure générale ainsi que les procureurs généraux suppléants ou les procureures générales suppléantes.
 
 <sup>2</sup> La loi peut le charger d'élire d'autres autorités.
 
@@ -857,7 +858,12 @@ le peuple bernois se donne la Constitution suivante:
 
 **Surveillance**
 
-<sup>1</sup> Le Grand Conseil exerce la surveillance sur le Conseil-exécutif et sur la gestion des tribunaux suprêmes ainsi que la haute surveillance sur l'administration et sur les autres organisations chargées de tâches publiques.
+<sup>1</sup> Le Grand Conseil exerce la surveillance sur
+
+- a le Conseil-exécutif,
+- b la gestion de la Direction administrative de la magistrature, des tribunaux suprêmes et du Parquet général.
+
+<sup>2</sup> Il exerce la haute surveillance sur l'administration et sur les autres organisations chargées de tâches publiques.
 
 #### Art. 79
 
@@ -916,6 +922,16 @@ le peuple bernois se donne la Constitution suivante:
 <sup>2</sup> Il participe aux séances du Grand Conseil avec voix consultative.
 
 <sup>3</sup> Il peut se faire représenter par ses membres.
+
+#### Art. 83a
+
+**Statut de la Direction administrative de la magistrature devant le Grand Conseil**
+
+<sup>1</sup> La Direction administrative de la magistrature a le droit de soumettre au Grand Conseil des propositions concernant les affaires prévues par la loi.
+
+<sup>2</sup> Elle participe aux séances du Grand Conseil avec voix consultative lors du traitement de ces affaires.
+
+<sup>3</sup> La loi règle la participation du Conseil-exécutif à la préparation des affaires.
 
 ### 5.3 Conseil-exécutif
 
@@ -1066,17 +1082,33 @@ le peuple bernois se donne la Constitution suivante:
 
 <sup>1</sup> La loi peut créer un service cantonal de médiation.
 
-### 5.5 Tribunaux
+### 5.5 Tribunaux et Ministère public
 
 #### Art. 97
 
 **Généralités**
 
-<sup>1</sup> L'indépendance des tribunaux est garantie.
+<sup>1</sup> Les tribunaux et le Ministère public sont indépendants dans l’exercice de leurs compétences juridictionnelles et de la poursuite pénale, et ne sont soumis qu’au droit.
+
+<sup>1a</sup> Ils s’administrent eux-mêmes, pour autant que la loi n’en dispose pas autrement.
 
 <sup>2</sup> Les débats devant les tribunaux sont publics. Les jugements des tribunaux sont motivés par écrit. La loi règle les exceptions.
 
-<sup>3</sup> La loi règle la compétence des tribunaux.
+<sup>3</sup> La loi règle l'organisation et la compétence des tribunaux et du Ministère public.
+
+#### Art. 97a
+
+**Direction administrative de la magistrature**
+
+<sup>1</sup> La Direction administrative de la magistrature est l'organe d'autoadministration de la justice commun à la Cour suprême, au Tribunal administratif et au Parquet général.
+
+<sup>2</sup> La loi règle la composition et les compétences de la Direction administrative de la magistrature.
+
+<sup>3</sup> La Direction administrative de la magistrature arrête
+
+- a les dépenses nouvelles uniques jusqu'à concurrence d'un million de francs,
+- b les dépenses nouvelles périodiques jusqu'à concurrence de 200'000 francs,
+- c les dépenses liées.
 
 #### Art. 98
 
@@ -1084,10 +1116,11 @@ le peuple bernois se donne la Constitution suivante:
 
 <sup>1</sup> La juridiction civile est exercée par
 
-- a les présidents et présidentes des tribunaux,
-- b la Cour suprême.
+- a les autorités de conciliation,
+- b les tribunaux régionaux,
+- c la Cour suprême.
 
-<sup>2</sup> La loi peut instituer des autorités judiciaires spéciales pour connaître de litiges de droit civil, notamment dans les domaines du droit du travail, du droit du bail ou du droit commercial.
+<sup>2</sup> La loi peut instituer des autorités judiciaires spéciales.
 
 #### Art. 99
 
@@ -1095,13 +1128,13 @@ le peuple bernois se donne la Constitution suivante:
 
 <sup>1</sup> La juridiction pénale est exercée par
 
-- a les présidents et présidentes des tribunaux,
-- b les tribunaux d'arrondissement ou les tribunaux collégiaux régionaux,
-- c les tribunaux des mineurs,
-- d le Tribunal pénal économique,
+- a les tribunaux régionaux,
+- b–d …
 - e la Cour suprême.
 
-<sup>2</sup> La loi peut attribuer des compétences en matière de droit pénal administratif aux autorités administratives du canton et des communes. Le contrôle judiciaire est réservé.
+<sup>1a</sup> La loi peut instituer des autorités judiciaires spéciales.
+
+<sup>2</sup> Elle peut attribuer des compétences en matière de droit pénal administratif aux autorités administratives du canton et des communes. Le contrôle judiciaire est réservé.
 
 #### Art. 100
 
@@ -1110,6 +1143,12 @@ le peuple bernois se donne la Constitution suivante:
 <sup>1</sup> Le Tribunal administratif connaît en dernière instance des contestations administratives qui, de par la loi, ne sont pas de la compétence définitive d'une autre autorité.
 
 <sup>2</sup> La loi peut instituer des autorités judiciaires spéciales pour connaître de contestations administratives.
+
+#### Art. 100a
+
+**Ministère public**
+
+<sup>1</sup> Le Ministère public accomplit les tâches que la loi lui attribue en matière de poursuite pénale.
 
 ## 6 Régime des finances
 
@@ -1127,17 +1166,17 @@ le peuple bernois se donne la Constitution suivante:
 
 #### Art. 101a
 
-**Frein à l’endettement appliqué au compte de fonctionnement**
+**Frein à l’endettement appliqué au compte de résultats**
 
-<sup>1</sup> Le budget ne peut présenter d'excédent de charges.
+<sup>1</sup> Le budget ne peut présenter d’excédent de charges que si celui-ci est couvert par un excédent du bilan.
 
-<sup>2</sup> L'excédent de charges du rapport de gestion est reporté au budget du deuxième exercice suivant, dans la mesure où il ne peut pas être couvert par le capital propre.
+<sup>2</sup> Un excédent de charges dans le rapport de gestion doit être amorti dans un délai de deux ans, à moins qu'il ne soit couvert par un excédent du bilan.
 
-<sup>3</sup> Lors de l'adoption du budget, le Grand Conseil peut déroger à l'alinéa 1, si trois cinquièmes au moins de ses membres le décident. Lors de l'approbation du rapport de gestion, l'alinéa 2 n'est pas applicable au montant de l'excédent de charges fixé dans le budget. Le découvert doit être amorti dans les quatre ans.
+<sup>3</sup> Lors de l'adoption du budget, le Grand Conseil peut déroger à l'alinéa 1 avec l'approbation de trois cinquièmes de ses membres. Lors de l'approbation du rapport de gestion, l'alinéa 2 n'est pas applicable au montant de l'excédent de charges fixé dans le budget. Un découvert doit être amorti dans les cinq ans.
 
-<sup>4</sup> Lors de l'approbation du rapport de gestion, le Grand Conseil peut déroger à l'alinéa 2, dans une mesure à déterminer, si trois cinquièmes au moins de ses membres le décident. Le découvert doit être amorti dans les quatre ans.
+<sup>4</sup> Lors de l'approbation du rapport de gestion, le Grand Conseil peut déroger à l'alinéa 2 avec l'approbation de trois cinquièmes de ses membres, dans une mesure à déterminer. Le découvert doit être amorti dans les cinq ans.
 
-<sup>5</sup> Les gains comptables et les amortissements réalisés sur les placements du patrimoine financier ne sont pas pris en compte dans l’application des alinéas 1 et 2.
+<sup>5</sup> Les gains comptables et les corrections de valeur réalisés sur les placements du patrimoine financier ne sont pas pris en compte dans l’application des alinéas 1 et 2.
 
 #### Art. 101b
 
@@ -1145,13 +1184,13 @@ le peuple bernois se donne la Constitution suivante:
 
 <sup>1</sup> Le degré d’autofinancement de l’investissement net doit être de 100 pour cent au moins à moyen terme.
 
-<sup>2</sup> Si le degré d’autofinancement de l’investissement net inscrit dans le budget est inférieur à 100 pour cent, il doit être compensé dans le plan intégré «mission-financement».
+<sup>2</sup> Si le degré d’autofinancement de l’investissement net inscrit au budget est inférieur à 100 pour cent, il doit être compensé dans le plan intégré mission-financement, dans la mesure où il n'est pas couvert par des excédents de financement des cinq années précédant l'exercice du budget.
 
-<sup>3</sup> Un découvert figurant dans le rapport de gestion doit être compensé dans le budget de la deuxième année qui suit ainsi que les trois années suivantes.
+<sup>3</sup> Un découvert figurant dans le rapport de gestion doit être compensé dans un délai de cinq ans, dans la mesure où il n'est pas couvert par des excédents de financement des cinq années précédant l'exercice du rapport.
 
-<sup>4</sup> Le Grand Conseil peut décider à la majorité de trois cinquièmes de ses membres de prolonger à huit ans le délai de la compensation du découvert ou de renoncer entièrement à la compensation.
+<sup>4</sup> Avec l'approbation de trois cinquièmes de ses membres, le Grand Conseil peut décider de prolonger à neuf ans le délai de la compensation du découvert ou de renoncer entièrement à la compensation.
 
-<sup>5</sup> Les alinéas 1 à 4 s’appliquent uniquement lorsque la quote-part de l’endettement brut, qui se définit comme le rapport entre l’endettement brut et le revenu cantonal, excède un taux de 12 pour cent. La valeur déterminante est la quote-part à la fin de l’année civile qui précède.
+<sup>5</sup> Les alinéas 1 à 4 s’appliquent uniquement lorsque la quote-part de l’endettement net, qui se définit comme le rapport entre l’endettement net I et le produit intérieur brut cantonal, excède un taux de six pour cent. La valeur déterminante est la quote-part à la fin de l’année civile qui précède.
 
 #### Art. 101c
 
