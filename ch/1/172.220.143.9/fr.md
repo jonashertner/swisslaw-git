@@ -4,11 +4,11 @@ title: Règlement de prévoyance du 17 septembre 2012 pour les personnes employ�
 short: RP-METAS
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/848"
 language: fr
-version: 2021-01-01
+version: 2024-01-01
 adopted: 2012-09-17
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/848/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2012-848-20210101-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/848/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/848/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2012-848-20240101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/848/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,8 +17,8 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/848/20210101/fr"
 
 (RP-METAS)[^t-1]
 
-du 17 septembre 2012 (État le 1<sup>er</sup> janvier 2021)
+du 17 septembre 2012 (État le 1<sup>er</sup> janvier 2024)
 
-[^t-1]: Ce R fait partie du contrat d’affiliation du 17 sept. 2012 à la Caisse de prévoyance de METAS ([FF 2012 8771](https://fedlex.data.admin.ch/eli/fga/2012/1761); [2019 8097](https://fedlex.data.admin.ch/eli/fga/2019/2931)). Il n’est pas publié au RO ([RO 2012 6975](https://fedlex.data.admin.ch/eli/oc/2012/848); [2014 3465](https://fedlex.data.admin.ch/eli/oc/2014/603); [2017 3325](https://fedlex.data.admin.ch/eli/oc/2017/353); [2018 2521](https://fedlex.data.admin.ch/eli/oc/2018/364), [4769](https://fedlex.data.admin.ch/eli/oc/2018/764); [2019 4751](https://fedlex.data.admin.ch/eli/oc/2019/779); [2022 68](https://fedlex.data.admin.ch/eli/oc/2022/68)). Il peut être obtenu auprès de PUBLICA. Le texte est publié sur Internet sous www.publica.ch &gt; Caisses de prévoyance.
+[^t-1]: Ce R fait partie du contrat d’affiliation du 17 sept. 2012 à la Caisse de prévoyance de METAS ([FF 2012 8771](https://fedlex.data.admin.ch/eli/fga/2012/1761); [2019 8097](https://fedlex.data.admin.ch/eli/fga/2019/2931)). Le présent règlement est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2023/785](https://fedlex.data.admin.ch/eli/oc/2023/785) &gt; Informations générales &gt; Étendue de la publication &gt; Publication sous la forme d’un renvoi.
 
 Entrée en vigueur le 1<sup>er</sup> janvier 2013
