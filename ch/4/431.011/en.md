@@ -3,11 +3,11 @@ sr: "431.011"
 title: Ordinance of 30 June 1993 on the Organisation of Federal Statistics
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093"
 language: en
-version: 2023-09-01
+version: 2024-01-01
 adopted: 1993-06-30
 in_force: 1993-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093/20230901/en/xml/fedlex-data-admin-ch-eli-cc-1993-2093_2093_2093-20230901-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/2093_2093_2093/20230901/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093/20240101/en/xml/fedlex-data-admin-ch-eli-cc-1993-2093_2093_2093-20240101-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/2093_2093_2093/20240101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/2093_2093_2093/20230901/en"
 
 English is not an official language of the Swiss Confederation. This translation is provided for information purposes only and has no legal force.
 
-of 30 June 1993 (Status as on 1 September 2023)
+of 30 June 1993 (Status as of 1 January 2024)
 
 The Swiss Federal Council,
 
@@ -169,13 +169,14 @@ The Federal Statistics Committee (the Committee) advises the Federal Council and
 
 <sup>1</sup> In order to guarantee the protection of personal data, in addition to the provisions of the Act and the Ordinance of 30 June 1993[^10-2] on the Conduct of Federal Statistical Surveys, the provisions of the Data Protection Act of 25 September 2020[^10-3] and the Data Protection Ordinance of 31 August 2022[^10-4] (DPO) apply.
 
-<sup>2</sup> In order to guarantee security of personal data and data relating to legal entities, in addition to the provisions of the Act, the provisions of the Cyber Risks Ordinance of 27 May 2020[^10-5] and the DPO apply. For data relating to legal entities, the DPO applies *mutatis mutandis*.
+<sup>2</sup> In order to guarantee security of personal data and data relating to legal entities, in addition to the provisions of the Act, the provisions of the Information Security Ordinance of 8 November 2023[^10-5] and the DPO apply. For data relating to legal entities, the DPO applies *mutatis mutandis*.[^10-6]
 
 [^10-1]: Amended by Annex 2 No II 51 of the Data Protection Ordinance of 31 Aug. 2022, in force since 1 Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^10-2]: [SR 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
 [^10-3]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 [^10-4]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^10-5]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^10-5]: [SR 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^10-6]: Amended by Annex 2 No II 25 of the Information Security Ordinance of 8 Nov. 2023, in force since 1 Jan. 2024 ([AS 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
 
 #### Art. 11
 

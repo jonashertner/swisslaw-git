@@ -3,18 +3,18 @@ sr: "431.011"
 title: Verordnung vom 30. Juni 1993 über die Organisation der Bundesstatistik
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093"
 language: de
-version: 2023-09-01
+version: 2024-01-01
 adopted: 1993-06-30
 in_force: 1993-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093/20230901/de/xml/fedlex-data-admin-ch-eli-cc-1993-2093_2093_2093-20230901-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/2093_2093_2093/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093/20240101/de/xml/fedlex-data-admin-ch-eli-cc-1993-2093_2093_2093-20240101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/2093_2093_2093/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über die Organisation der Bundesstatistik
 
-vom 30. Juni 1993 (Stand am 1. September 2023)
+vom 30. Juni 1993 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -167,13 +167,14 @@ Die Kommission für die Bundesstatistik (Kommission) berät den Bundesrat und di
 
 <sup>1</sup> Für die Gewährleistung des Datenschutzes von Personendaten gelten neben den Bestimmungen des Gesetzes und der Verordnung vom 30. Juni 1993[^10-2] über die Durchführung von statistischen Erhebungen des Bundes auch die Bestimmungen des Datenschutzgesetzes vom 25. September 2020[^10-3] und der Datenschutzverordnung vom 31. August 2022[^10-4] (DSV).
 
-<sup>2</sup> Für die Gewährleistung der Datensicherheit von Personendaten sowie von Daten juristischer Personen gelten neben den Bestimmungen des Gesetzes auch diejenigen der Cyberrisikenverordnung vom 27. Mai 2020[^10-5] und der DSV. Für Daten juristischer Personen gilt die DSV sinngemäss.
+<sup>2</sup> Für die Gewährleistung der Datensicherheit von Personendaten sowie von Daten juristischer Personen gelten neben den Bestimmungen des Gesetzes auch diejenigen der der Informationssicherheitsverordnung vom 8. November 2023[^10-5] und der DSV. Für Daten juristischer Personen gilt die DSV sinngemäss.[^10-6]
 
 [^10-1]: Fassung gemäss Anhang 2 Ziff. II 51 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^10-2]: [SR 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
 [^10-3]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 [^10-4]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^10-5]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^10-5]: [SR 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^10-6]: Fassung gemäss Anhang 2 Ziff. II 25 der Informationssicherheitsverordnung vom 8. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
 
 #### Art. 11
 

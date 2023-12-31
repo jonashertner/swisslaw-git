@@ -3,18 +3,18 @@ sr: "431.011"
 title: "Ordonnance du 30 juin 1993 concernant l'organisation de la statistique fédérale"
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093"
 language: fr
-version: 2023-09-01
+version: 2024-01-01
 adopted: 1993-06-30
 in_force: 1993-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-1993-2093_2093_2093-20230901-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/2093_2093_2093/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-1993-2093_2093_2093-20240101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/2093_2093_2093/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance concernant l’organisation de la statistique fédérale
 
-du 30 juin 1993 (État le 1<sup>er</sup> septembre 2023)
+du 30 juin 1993 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -166,13 +166,14 @@ La Commission de la statistique fédérale (commission) conseille le Conseil fé
 
 <sup>1</sup> La protection des données est assurée par les dispositions spécifiques de la loi et de l’ordonnance du 30 juin 1993 sur les relevés statistiques[^10-2], ainsi que par celles de la loi fédérale du 25 septembre 2020 sur la protection des données[^10-3] et de l’ordonnance du 31 août 2022 sur la protection des données (OPDo)[^10-4].
 
-<sup>2</sup> La sécurité des données personnelles et des données des personnes morales est assurée par les dispositions spécifiques de la loi, ainsi que par celles de l’ordonnance du 27 mai 2020 sur les cyberrisques[^10-5] et de l’OPDo. L’OPDo s’applique par analogie pour les personnes morales.
+<sup>2</sup> La sécurité des données personnelles et des données des personnes morales est assurée par les dispositions spécifiques de la loi, ainsi que par celles de l’ordonnance du 8 novembre 2023 sur la sécurité de l’information[^10-5] et de l’OPDo. L’OPDo s’applique par analogie pour les personnes morales.[^10-6]
 
 [^10-1]: Nouvelle teneur selon l’annexe 2 ch. II 51 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^10-2]: [RS 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
 [^10-3]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 [^10-4]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^10-5]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^10-5]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^10-6]: Nouvelle teneur selon l’annexe 2 ch. II 25 de l’O du 8 nov. 2023 sur la sécurité de l’information, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
 
 #### Art. 11
 

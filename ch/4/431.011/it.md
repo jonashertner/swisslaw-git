@@ -3,18 +3,18 @@ sr: "431.011"
 title: "Ordinanza del 30 giugno 1993 sull'organizzazione della statistica federale"
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093"
 language: it
-version: 2023-09-01
+version: 2024-01-01
 adopted: 1993-06-30
 in_force: 1993-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093/20230901/it/xml/fedlex-data-admin-ch-eli-cc-1993-2093_2093_2093-20230901-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/2093_2093_2093/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093/20240101/it/xml/fedlex-data-admin-ch-eli-cc-1993-2093_2093_2093-20240101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/2093_2093_2093/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza sull’organizzazione della statistica federale
 
-del 30 giugno 1993 (Stato 1° settembre 2023)
+del 30 giugno 1993 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -167,13 +167,14 @@ La Commissione della statistica federale (Commissione) presta consulenza al Cons
 
 <sup>1</sup> La protezione dei dati personali è assicurata dalle disposizioni della legge e dell’ordinanza del 30 giugno 1993[^10-2] sull’esecuzione di rilevazioni statistiche federali, nonché da quelle della legge federale del 25 settembre 2020[^10-3] sulla protezione dei dati e dell’ordinanza del 31 agosto 2022[^10-4] sulla protezione dei dati (OPDa).
 
-<sup>2</sup> La sicurezza dei dati personali dei dati delle persone giuridiche è garantita dalle disposizioni della legge nonché da quelle dell’ordinanza del 27 maggio 2020[^10-5] sui ciber-rischi e dell’OPDa. Le disposizioni dell’OPDa si applicano per analogia ai dati delle persone giuridiche.
+<sup>2</sup> La sicurezza dei dati personali nonché dei dati delle persone giuridiche è garantita dalle disposizioni della legge nonché da quelle dell’ordinanza dell’8 novembre 2023[^10-5] sulla sicurezza delle informazioni e dell’OPDa. Le disposizioni dell’OPDa si applicano per analogia ai dati delle persone giuridiche.[^10-6]
 
 [^10-1]: Nuovo testo giusta l’all. 2 n. II 51 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^10-2]: [RS 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
 [^10-3]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 [^10-4]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^10-5]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^10-5]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^10-6]: Nuovo testo giusta l’all. 2 n. II 25 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
 
 #### Art. 11
 
