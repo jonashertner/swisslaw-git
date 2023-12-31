@@ -4,13 +4,12 @@ number: "400"
 title: Raumplanungs- und Baugesetz
 short: RBG
 language: de
-version: 2023-09-01
-valid_until: 2023-12-31
-version_adopted: 2023-03-30
+version: 2024-01-01
+version_adopted: 2023-01-26
 adopted: 1998-01-08
 in_force: 1999-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/400"
-pdf: "https://bl.clex.ch/api/de/versions/3703/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3813/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3703/pdf_file"
 
 (RBG)
 
-Vom 08.01.1998 (Stand 01.09.2023)
+Vom 08.01.1998 (Stand 01.01.2024)
 
 Der Landrat des Kantons Basel-Landschaft,
 
@@ -1498,17 +1497,19 @@ beschliesst:[^ingress-2]
 
 #### § 108
 
-**Behindertengerechte Bauweise**
+**Hindernisfreies Bauen**
 
-<sup>1</sup> Bauten und Anlagen mit Publikumsverkehr und öffentlichem Zugang sind so zu gestalten, dass ihre Benützung auch Behinderten möglich ist.
+<sup>1</sup> Öffentlich zugängliche Bauten und Anlagen sind so zu gestalten, dass sie auch für Menschen mit Behinderungen zugänglich und benutzbar sind.
 
-<sup>2</sup> In Mehrfamilienhäusern mit mehr als 6 Wohnungen sind die Wohnungen im Erdgeschoss, bei solchen mit Erschliessung durch Lift zum Teil auch in den Obergeschossen, so zu erstellen, dass eine Anpassung an die Bedürfnisse Behinderter möglich ist. Die Zugänge zu den Wohnungen und Nebenräumen sowie Aussenanlagen sind hindernisfrei (rollstuhlgängig) zu gestalten. In schwierigen topographischen Verhältnissen können Ausnahmen gestattet werden.
+<sup>2</sup> Bei Mehrfamilienhäusern mit 6 und mehr Wohnungen sind die Zugänge zum Haus, den Wohnungen und Nebenräumen sowie Aussenanlagen rollstuhlgerecht zu gestalten. Bei schwierigen topographischen Verhältnissen kann die Bewilligungsbehörde Ausnahmen gestatten. Die Wohnungen im Erdgeschoss und solche, die durch einen Lift erschlossen werden, sind so zu gestalten, dass sie an die Bedürfnisse von Menschen mit Behinderungen anpassbar sind.
 
-<sup>3</sup> Für Bauten, die Arbeitsplätze enthalten, gilt Abs. 2 sinngemäss.
+<sup>3</sup> Gebäude mit mehr als 50 Arbeitsplätzen sind so zu gestalten, dass sie auch für Menschen mit Behinderungen zugänglich und benutzbar sind.
 
-<sup>4</sup> Bei Umbauten und bei Nutzungsänderungen kann auf eine behindertengerechte Bauweise verzichtet werden, wenn der Aufwand und die Mehrkosten unverhältnismässig wären oder denkmalpflegerische Gründe dagegen sprechen.
+<sup>4</sup> Die Bewilligungsbehörde kann Ausnahmen bei Umbauten oder bei Nutzungsänderungen gestatten, wenn der Aufwand und die Mehrkosten unverhältnismässig wären oder andere überwiegende öffentliche Interessen dagegensprechen.
 
-<sup>5</sup> Bei Parkplätzen von öffentlichen Gebäuden und Gebäuden mit Publikumsverkehr sind Parkfelder für Rollstuhlbenützerinnen und -benützer in der Nähe der Eingänge vorzusehen und deutlich zu kennzeichnen.
+<sup>5</sup> Parkplätze von öffentlich zugänglichen Bauten und Anlagen, von Mehrfamilienhäusern mit mehr als 6 Wohnungen und Gebäuden mit mehr als 50 Arbeitsplätzen sind mit rollstuhlgerechten Parkfeldern in der Nähe des Eingangs zu versehen. Diese Parkfelder sind deutlich zu kennzeichnen.
+
+<sup>6</sup> Der Regierungsrat bezeichnet in der Verordnung die einschlägigen Definitionen und die massgeblichen Regelwerke.
 
 ## 5. Bestandesgarantie, Ausnahmen von den allgemeinen Bauvorschriften und Bauen ausserhalb der Bauzone
 
