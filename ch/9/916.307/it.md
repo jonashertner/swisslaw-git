@@ -4,11 +4,11 @@ title: "Ordinanza del 26 ottobre 2011 concernente la produzione e l'immissione s
 short: OsAlA
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/772"
 language: it
-version: 2023-01-01
+version: 2024-01-01
 adopted: 2011-10-26
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/772/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2011-772-20230101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/772/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/772/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2011-772-20240101-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/772/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,11 +17,11 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/772/20230101/it"
 
 (Ordinanza sugli alimenti per animali, OsAlA)
 
-del 26 ottobre 2011 (Stato 1° gennaio 2023)
+del 26 ottobre 2011 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
-visti gli articoli 27*a* capoverso 2, 148*a* capoverso 3, 158 capoverso 2, 159*a*, 160 capoversi 1–5, 161, 164, 177 e 181 capoverso 1<sup>bis</sup> della legge del 29 aprile 1998[^ingress-1] sull’agricoltura (LAgr); visto l’articolo 29 della legge del 7 ottobre 1983[^ingress-2] sull’ambiente (LPAmb); visti gli articoli 16 capoverso 2 e 17 della legge del 21 marzo 2003[^ingress-3] sull’ingegneria genetica (LIG); visto l’articolo 9 capoverso 2 lettera c della legge del 24 gennaio 1991[^ingress-4] sulla protezione delle acque (LPAc); in esecuzione della legge federale del 6 ottobre 1995[^ingress-5] sugli ostacoli tecnici al commercio (LOTC),
+visti gli articoli 27*a* capoverso 2, 148*a* capoverso 3, 158 capoverso 2, 159*a*, 160 capoversi 1–5, 161, 164, 164*a* capoverso 2, 177 e 181 capoverso 1<sup>bis</sup> della legge del 29 aprile 1998[^ingress-1] sull’agricoltura (LAgr); visto l’articolo 29 della legge del 7 ottobre 1983[^ingress-2] sulla protezione dell’ambiente (LPAm); visti gli articoli 16 capoverso 2 e 17 della legge del 21 marzo 2003[^ingress-3] sull’ingegneria genetica (LIG); visto l’articolo 9 capoverso 2 lettera c della legge del 24 gennaio 1991[^ingress-4] sulla protezione delle acque (LPAc); in esecuzione della legge federale del 6 ottobre 1995[^ingress-5] sugli ostacoli tecnici al commercio (LOTC),[^ingress-6]
 
 ordina:
 
@@ -30,6 +30,7 @@ ordina:
 [^ingress-3]: [RS 814.91](https://fedlex.data.admin.ch/eli/cc/2003/705)
 [^ingress-4]: [RS 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
 [^ingress-5]: [RS 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+[^ingress-6]: Nuovo testo giusta l’all. n. 3 dell’O del 13 apr. 2022, in vigore dal 1° gen. 2024 ([RU 2022 265](https://fedlex.data.admin.ch/eli/oc/2022/265)).
 
 ## Capitolo 1: Disposizioni generali
 
@@ -845,6 +846,21 @@ Le imprese del settore dell’alimentazione animale devono:
 <sup>2</sup> Le aziende attive nella produzione primaria che producono alimenti per animali utilizzando additivi per alimenti per animali, fatta eccezione per gli additivi per l’insilamento, o premiscele che li contengono devono notificare tale attività all’UFAG ai fini della registrazione o dell’omologazione.[^47-1]
 
 [^47-1]: Nuovo testo giusta il n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 757](https://fedlex.data.admin.ch/eli/oc/2022/757)).
+
+#### Art. 47a
+
+**Obbligo di comunicare per le forniture di foraggio concentrato**[^47a-1]
+
+<sup>1</sup> Le imprese del settore dell’alimentazione animale comunicano la cessione di foraggio concentrato in virtù dell’articolo 29 dell’ordinanza del 7 dicembre 1998[^47a-2] sulla terminologia agricola a imprese, gestori e ad altre persone nonché la ripresa di foraggio concentrato da gestori con la relativa quantità e i quantitativi di sostanze nutritive in essa contenuti ai sensi dell’ordinanza del 23 ottobre 2013[^47a-3] sui sistemi d’informazione nel campo dell’agricoltura.
+
+<sup>2</sup> I gestori e le altre persone che forniscono foraggio concentrato, comunicano la fornitura con la relativa quantità e i quantitativi di sostanze nutritive in essa contenuti.
+
+<sup>3</sup> Non devono essere comunicate le quantità fino al massimo 105 chilogrammi di azoto e 15 chilogrammi di fosforo per anno civile, a condizione che il gestore non sia tenuto a fornire la prova che le esigenze ecologiche sono rispettate in virtù dell’articolo 11 dell’ordinanza del 23 ottobre 2013[^47a-4] sui pagamenti diretti.
+
+[^47a-1]: Introdotto dall’all. n. 3 dell’O del 13 apr. 2022, in vigore dal 1° gen. 2024 ([RU 2022 265](https://fedlex.data.admin.ch/eli/oc/2022/265)).
+[^47a-2]: [RS 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
+[^47a-3]: [RS 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
+[^47a-4]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
 
 #### Art. 48
 

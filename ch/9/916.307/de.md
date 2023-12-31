@@ -4,11 +4,11 @@ title: "Verordnung vom 26. Oktober 2011 über die Produktion und das Inverkehrbr
 short: FMV
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/772"
 language: de
-version: 2023-01-01
+version: 2024-01-01
 adopted: 2011-10-26
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/772/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2011-772-20230101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/772/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/772/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2011-772-20240101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/772/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,11 +17,9 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/772/20230101/de"
 
 (Futtermittel-Verordnung, FMV)
 
-vom 26. Oktober 2011 (Stand am 1. Januar 2023)
+vom 26. Oktober 2011 (Stand am 1. Januar 2024)
 
-Der Schweizerische Bundesrat,
-
-gestützt auf die Artikel 27*a* Absatz 2, 148*a* Absatz 3, 158 Absatz 2, 159*a*, 160 Absätze 1–5, 161, 164, 177 und 181 Absatz 1<sup>bis</sup> des Landwirtschaftsgesetzes vom 29. April 1998[^ingress-1] (LwG), auf Artikel 29 des Umweltschutzgesetzes vom 7. Oktober 1983[^ingress-2] (USG), auf die Artikel 16 Absatz 2 und 17 des Gentechnikgesetzes vom 21. März 2003[^ingress-3] (GTG) und auf Artikel 9 Absatz 2 Buchstabe c des Gewässerschutzgesetzes vom 24. Januar 1991[^ingress-4] (GSchG), sowie in Ausführung des Bundesgesetzes vom 6. Oktober 1995[^ingress-5] über die technischen Handelshemmnisse (THG),
+gestützt auf die Artikel 27*a* Absatz 2, 148*a* Absatz 3, 158 Absatz 2, 159*a*, 160 Absätze 1–5, 161, 164, 164*a* Absatz 2, 177 und 181 Absatz 1<sup>bis</sup> des Landwirtschaftsgesetzes vom 29. April 1998[^ingress-1] (LwG), auf Artikel 29 des Umweltschutzgesetzes vom 7. Oktober 1983[^ingress-2] (USG), auf die Artikel 16 Absatz 2 und 17 des Gentechnikgesetzes vom 21. März 2003[^ingress-3] (GTG) und auf Artikel 9 Absatz 2 Buchstabe c des Gewässerschutzgesetzes vom 24. Januar 1991[^ingress-4] (GSchG), sowie in Ausführung des Bundesgesetzes vom 6. Oktober 1995[^ingress-5] über die technischen Handelshemmnisse (THG),[^ingress-6]
 
 verordnet:
 
@@ -30,6 +28,7 @@ verordnet:
 [^ingress-3]: [SR 814.91](https://fedlex.data.admin.ch/eli/cc/2003/705)
 [^ingress-4]: [SR 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
 [^ingress-5]: [SR 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+[^ingress-6]: Fassung gemäss Anhang Ziff. 3 der V vom 13. April 2022, in Kraft seit 1. Jan. 2024 ([AS 2022 265](https://fedlex.data.admin.ch/eli/oc/2022/265)).
 
 ## 1. Kapitel: Allgemeine Bestimmungen
 
@@ -843,6 +842,21 @@ Die Futtermittelunternehmen:
 <sup>2</sup> Betriebe der Primärproduktion, die Futtermittel unter Verwendung von Futtermittelzusatzstoffen, mit Ausnahme von Silierzusatzstoffen, oder von Vormischungen, die solche enthalten, erzeugen, müssen diese Tätigkeit dem BLW zwecks Registrierung oder Zulassung melden.[^47-1]
 
 [^47-1]: Fassung gemäss Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 757](https://fedlex.data.admin.ch/eli/oc/2022/757)).
+
+#### Art. 47a
+
+**Mitteilungspflicht für Kraftfutterlieferungen**[^47a-1]
+
+<sup>1</sup> Die Futtermittelunternehmen teilen die Abgabe von Kraftfutter nach Artikel 29 der Landwirtschaftlichen Begriffs-Verordnung vom 7. Dezember 1998[^47a-2] an Unternehmen, an Bewirtschafterinnen und Bewirtschafter und andere Personen sowie die Rücknahme von Kraftfutter von Bewirtschafterinnen und Bewirtschaftern mit Menge und den darin enthaltenden Nährstoffmengen nach der Verordnung vom 23. Oktober 2013[^47a-3] über Informationssysteme im Bereich der Landwirtschaft mit.
+
+<sup>2</sup> Die Bewirtschafterinnen und Bewirtschafter und die anderen Personen, die Kraftfutter weitergeben, teilen die Weitergabe mit Menge und den darin enthaltenen Nährstoffmengen mit.
+
+<sup>3</sup> Nicht mitgeteilt werden müssen Mengen bis höchstens 105 kg Stickstoff und 15 kg Phosphor pro Kalenderjahr, sofern der Bewirtschafter oder die Bewirtschafterin den ökologischen Leistungsnachweis nach Artikel 11 der Direktzahlungsverordnung vom 23. Oktober 2013[^47a-4] nicht erbringen muss.
+
+[^47a-1]: Eingefügt durch Anhang Ziff. 3 der V vom 13. April 2022, in Kraft seit 1. Jan. 2024 ([AS 2022 265](https://fedlex.data.admin.ch/eli/oc/2022/265)).
+[^47a-2]: [SR 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
+[^47a-3]: [SR 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
+[^47a-4]: [SR 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
 
 #### Art. 48
 

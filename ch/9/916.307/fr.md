@@ -4,11 +4,11 @@ title: "Ordonnance du 26 octobre 2011 sur la production et la mise en circulatio
 short: OSALA
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/772"
 language: fr
-version: 2023-01-01
+version: 2024-01-01
 adopted: 2011-10-26
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/772/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2011-772-20230101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/772/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/772/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2011-772-20240101-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/772/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,11 +17,11 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/772/20230101/fr"
 
 (Ordonnance sur les aliments pour animaux, OSALA)
 
-du 26 octobre 2011 (État le 1<sup>er</sup> janvier 2023)
+du 26 octobre 2011 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
-vu les art. 27*a*, al. 2, 148*a*, al. 3, 158, al. 2, 159*a*, 160, al. 1 à 5, 161, 164, 177 et 181, al. 1<sup>bis</sup>, de la loi du 29 avril 1998 sur l’agriculture (LAgr)[^ingress-1], vu l’art. 29 de la loi du 7 octobre 1983 sur la protection de l’environnement (LPE)[^ingress-2], vu les art. 16, al. 2, et 17 de la loi du 21 mars 2003 sur le génie génétique (LGG)[^ingress-3], vu l’art. 9, al. 2, let. c, de la loi fédérale du 24 janvier 1991 sur la protection des eaux (LEaux)[^ingress-4], vu la loi fédérale du 6 octobre 1995 sur les entraves techniques au commerce (LETC)[^ingress-5],
+vu les art. 27*a*, al. 2, 148*a*, al. 3, 158, al. 2, 159*a*, 160, al. 1 à 5, 161, 164, 164*a*, al. 2, 177 et 181, al. 1<sup>bis</sup>, de la loi du 29 avril 1998 sur l’agriculture (LAgr)[^ingress-1], vu l’art. 29 de la loi du 7 octobre 1983 sur la protection de l’environnement (LPE)[^ingress-2], vu les art. 16, al. 2, et 17 de la loi du 21 mars 2003 sur le génie génétique (LGG)[^ingress-3], vu l’art. 9, al. 2, let. c, de la loi du 24 janvier 1991 sur la protection des eaux (LEaux)[^ingress-4], vu la loi fédérale du 6 octobre 1995 sur les entraves techniques au commerce (LETC)[^ingress-5],[^ingress-6]
 
 arrête:
 
@@ -30,6 +30,7 @@ arrête:
 [^ingress-3]: [RS 814.91](https://fedlex.data.admin.ch/eli/cc/2003/705)
 [^ingress-4]: [RS 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
 [^ingress-5]: [RS 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+[^ingress-6]: Nouvelle teneur selon l’annexe ch. 3 de l’O du 13 avr. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 265](https://fedlex.data.admin.ch/eli/oc/2022/265)).
 
 ## Chapitre 1 Dispositions générales
 
@@ -845,6 +846,21 @@ Les entreprises du secteur de l’alimentation animale:
 <sup>2</sup> Les exploitations actives dans la production primaire qui produisent des aliments pour animaux en utilisant des additifs, à l’exception des additifs liés aux activités d’ensilage, ou des prémélanges en contenant, doivent annoncer cette activité à l’OFAG aux fins d’enregistrement ou d’agrément.[^47-1]
 
 [^47-1]: Nouvelle teneur selon le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 757](https://fedlex.data.admin.ch/eli/oc/2022/757)).
+
+#### Art. 47a
+
+**Obligation de communiquer les livraisons d’aliments concentrés pour animaux**[^47a-1]
+
+<sup>1</sup> Les entreprises du secteur de l’alimentation animale communiquent la remise d’aliments concentrés selon l’art. 29 de l’ordonnance du 7 décembre 1998 sur la terminologie agricole[^47a-2] aux entreprises, aux exploitants et aux autres personnes, ainsi que la reprise d’aliments concentrés auprès des exploitants en indiquant la quantité remise ou reprise et les quantités d’éléments nutritifs contenus selon l’ordonnance du 23 octobre 2013 sur les systèmes d’information dans le secteur agricole[^47a-3].
+
+<sup>2</sup> Les exploitants et les autres personnes qui transfèrent des aliments concentrés communiquent ces transferts en indiquant la quantité et les quantités d’éléments nutritifs contenus.
+
+<sup>3</sup> Les quantités ne dépassant pas 105 kg d’azote et 15 kg de phosphore par année civile ne doivent pas être communiquées si l’exploitant n’est pas soumis à l’obligation de réaliser les prestations écologiques requises visées à l’art. 11 de l’ordonnance du 23 octobre 2013 sur les paiements directs[^47a-4].
+
+[^47a-1]: Introduit par l’annexe ch. 3 de l’O du 13 avr. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 265](https://fedlex.data.admin.ch/eli/oc/2022/265)).
+[^47a-2]: [RS 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
+[^47a-3]: [RS 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
+[^47a-4]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
 
 #### Art. 48
 
