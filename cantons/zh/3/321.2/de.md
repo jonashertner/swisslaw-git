@@ -4,11 +4,11 @@ number: "321.2"
 title: Kantonale Ordnungsbussenverordnung (KOBV)
 short: KOBV
 language: de
-version: "2023-01-01"
-nachtrag: "119"
-valid_until: 2024-01-01
+version: "2024-01-01"
+nachtrag: "123"
+valid_until: 2025-06-01
 adopted: 2019-12-10
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-321_2-2019_12_10-2020_01_01-119.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-321_2-2019_12_10-2020_01_01-123.html"
 text: pdf
 ---
 
@@ -79,7 +79,7 @@ Die weiteren Organe gemäss Anhang 2 sind für die Erhebung von bundes- und kant
 
 **1**
 
-- 1\. 1. 23 - 119
+- 1\. 1. 24 - 123
 
 <sup>2</sup> Die Kantonspolizei und die Stadtpolizeien Zürich und Winterthur können für die Erhebung von bundesrechtlichen Ordnungsbussen für Übertretungen nach dem Strassenverkehrsgesetz vom 19. Dezember 1958[^7-1] und dem Bundesgesetz vom 3. Oktober 1951 über die Betäubungsmittel und die psychotropen Stoffe[^7-2] sowie von kantonalrechtlichen Ordnungsbussen Hilfskräfte anstellen.
 
@@ -277,28 +277,122 @@ oder den Wirt (§ 22 Abs. 1)
 
 - d. Verstoss gegen die kantonalrechtlichen Bestimmungen über die Verwendung von Waffen und Munition
 
+**Fr. 100**
+
+[^h9h4Hundeverordnun-1]: LS 922.1.
+[^h9h4Hundeverordnun-2]: Eingefügt durch RRB vom 24. Mai 2023 (OS 78, 528; ABl 2023-06-09). In Kraft seit 1. Januar 2024 (ABl 2023-09-29).
+
+### 10. Gesetz über den Personentransport mit Taxis
+
+[^h9h4Hundeverordnun-2]
+
+und Limousinen vom 25. März 2019[^h10h9h4Hundeverord-1]:
+
+- a. Ausführen von Taxidiensten ohne, mit einem defekten oder mit einem vorschriftswidrigen Taxameter (§ 4 Abs. 1 lit. b)
+
 **Fr. 60**
 
 **Fr. 100**
 
 **5**
 
-- 1\. 1. 23 - 119
+- 1\. 1. 24 - 123
 
-[^h9h4Hundeverordnun-1]: LS 922.1.
-[^h9h4Hundeverordnun-2]: Fassung gemäss RRB vom 5. Oktober 2022 (OS 77, 633; ABl 2022-11-04). In Kraft seit 1. Januar 2023. 1. 1. 23 - 119 3
+- b. Unterlassen der rechtzeitigen Überprüfung des Taxameters bei einer offiziellen Montagestelle (§ 6 Abs. 2)
+
+**Fr. 80**
+
+**Fr. 40**
+
+- c. Nichtmitführen des Taxameter-Prüfberichts (§ 6 Abs. 2)
+
+**Fr. 80**
+
+- d. Verwenden einer vorschriftswidrigen Taxilampe (§ 7)
+
+**Fr. 40**
+
+- e. Nichtanbringen oder ungenügende Sicht- und Lesbarkeit des Taxiausweises (§ 8 Abs. 2)
+
+**Fr. 100 Fr. 100**
+
+- f. Unerlaubtes Verweigern einer Taxifahrt (§ 9 Abs. 1)
+
+- g. Missachten der freien Taxiwahl (§ 10)
+
+- h. Nichtmitführen oder Nichtvorweisen einer Bestellbestätigung oder einer Quittungskopie mit Zeitangabe beim Ausführen von Taxidiensten (§ 12)
+
+**Fr. 150**
+
+**Fr. 80**
+
+- i. Verletzung der Meldepflichten bei Limousinendiensten (§ 15)
+
+- j. Nichtmitführen oder Nichtvorweisen der zur Berufsausübung notwendigen Bewilligungen (Taxiausweis, Taxifahrzeugbewilligung und Zusatzbewilligung) (§ 17)
+
+**Fr. 40**
+
+**11.23**
+
+[^h10h9h4Hundeverord-1]: LS 935.51.
+
+### Verordnung über den Personentransport mit Taxis
+
+und Limousinen vom 24. Mai 2023[^hVerordnungüberden-1]:
+
+- a. Unterlassenes oder unvollständiges Angeben von Verfehlungen im Zusammenhang mit der Berufsausübung im Taxigewerbe (§ 4 Abs. 1 lit. f) Fr. 100
+
+**Fr. 40**
+
+- b. Verletzung der Meldepflichten (§ 11)
+
+**Fr. 80**
+
+- c. Missachten der Vorschriften zur Struktur und Bekanntgabe des Tarifs (§§ 12 und 13)
+
+- d. Ausführen von Taxidiensten zu einem anderen als dem vereinbarten oder am oder im Fahrzeug angeschriebenen Tarif (§ 13 Abs. 1 und 2 sowie § 14 Abs. 1)
+
+**Fr. 100**
+
+**Fr. 100**
+
+- e. Ungenügende Sicht- und Lesbarkeit des Taxameters (§ 14 Abs. 3)
+
+**Fr. 80**
+
+- f. Ausführen von Taxidiensten ohne Taxilampe (§ 16 Abs. 1) g.[^hVerordnungüberden-2] Nichtausschalten der Taxilampe bei Privatfahrten oder beim Parkieren auf einem öffentlichen Parkplatz in Sichtweite eines Taxistandplatzes (§ 16 Abs. 2)
+
+**Fr. 100**
+
+- h. Anwerben von Fahrgästen für Taxi- oder Limousinendienste durch Zurufe, Winken oder auf ähnliche Weise (§ 17 Abs. 1 und § 20) i.[^hVerordnungüberden-2] Abstellen von Taxis oder Limousinen auf öffentlichen Parkplätzen in Sichtweite von Taxistandplätzen, um auf Fahrgäste oder Fahrgastaufträge zu warten (§ 17 Abs. 2 und § 20)
+
+**Fr. 80**
+
+**Fr. 80**
+
+**Fr. 80**
+
+- j. Nichtanbringen oder vorschriftswidriges Anbringen der Plakette (§ 19 Abs. 2)
+
+**7**
+
+- 1\. 1. 24 - 123
+
+[^hVerordnungüberden-1]: LS 935.511.
+[^hVerordnungüberden-2]: Noch nicht in Kraft. 1. 1. 24 - 123 3
+[^hVerordnungüberden-3]: Fassung gemäss RRB vom 24. Mai 2023 (OS 78, 528; ABl 2023-06-09). In Kraft seit 1. Januar 2024 (ABl 2023-09-29).
 
 ### Anhang 2 Weitere Organe (§ 5)
 
-[^h9h4Hundeverordnun-2]
+[^hVerordnungüberden-3]
 
-**X X**
+**Jagdliche Revieraufsicht**
 
-Jagdliche Revieraufsicht X X X
+**X**
 
-**X X**
+X X X X Naturschutz- und Reservatsaufsicht (Rangerinnen und X X X X X X
 
-Naturschutz- und Reservatsaufsicht (Rangerinnen und X X X X X
+**X**
 
 **Ranger)**
 
@@ -306,22 +400,28 @@ Naturschutz- und Reservatsaufsicht (Rangerinnen und X X X X X
 
 Staats- und Revierförsterin- X
 
-**X X**
+**X**
 
-Wildhüterinnen und -hüter X X X X X
-
-**X X**
-
-**-aufseher Mit der Führung**
-
-Fischereiaufseherinnen und X X X X X
+Wildhüterinnen und -hüter X X X X X X Fischereiaufseherinnen und X X X X X X
 
 **X**
 
-des Einwohnerregisters betraute Personen der Gemeinden
+**-aufseher**
+
+**nerregisters betraute**
+
+Mit der Führung des Einwoh-X Personen der Gemeinden Polizeistundenkontrolleurinnen und -kontrolleure der
 
 **X**
 
 **Gemeinden**
 
-Polizeistundenkontrolleurinnen und -kontrolleure der
+**X X**
+
+**für Mobilität**
+
+Mit dem Vollzug des Taxi- und Limousinenwesens betraute Personen des Amtes
+
+## Weitere Fussnoten
+
+- [22] Fassung gemäss RRB vom 5. Oktober 2022 (OS 77, 633; ABl 2022-11-04). In Kraft seit 1. Januar 2023.
