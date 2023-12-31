@@ -4,11 +4,11 @@ title: Bundespersonalgesetz vom 24. März 2000 (BPG)
 short: BPG
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/123"
 language: de
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2000-03-24
 in_force: 2001-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/123/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2001-123-20230901-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/123/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/123/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2001-123-20240101-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/123/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/123/20230901/de"
 
 (BPG)
 
-vom 24. März 2000 (Stand am 1. September 2023)
+vom 24. März 2000 (Stand am 1. Januar 2024)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -419,11 +419,32 @@ Die Ausführungsbestimmungen:
 
 #### Art. 20a
 
-**Auszug aus dem Strafregister**[^20a-1]
+**Auszug aus dem Strafregister und dem Betreibungsregister**[^20a-1]
 
-Die Arbeitgeber können von den Stellenbewerberinnen und ‑bewerbern und von den Angestellten verlangen, dass sie einen Auszug aus dem Strafregister vorlegen, sofern dies für die Wahrung der Interessen des Arbeitgebers erforderlich ist.
+Die Arbeitgeber können von Stellenbewerberinnen und Stellenbewerbern sowie von Angestellten verlangen, dass sie einen Auszug aus dem Strafregister und aus dem Betreibungsregister vorlegen, sofern dies zur Wahrung der Interessen des Arbeitgebers erforderlich ist.
 
-[^20a-1]: Eingefügt durch Anhang 1 Ziff. 1 des Strafregistergesetzes vom 17. Juni 2016, in Kraft seit 23. Jan. 2023 ([AS 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [BBl 2014 5713](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
+[^20a-1]: Eingefügt durch Anhang 1 Ziff. 1 des Strafregistergesetzes vom 17. Juni 2016 ([AS 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [BBl 2014 5713](https://fedlex.data.admin.ch/eli/fga/2014/1229)). Fassung gemäss Anhang 2 Ziff. 2 des Informationssicherheitsgesetzes vom 18. Dez. 2020, in Kraft seit 1. Jan. 2024 ([AS 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [BBl 2017 2953](https://fedlex.data.admin.ch/eli/fga/2017/647)).
+
+#### Art. 20b
+
+**Prüfung der Vertrauenswürdigkeit**[^20b-1]
+
+<sup>1</sup>
+
+Die Arbeitgeber nach Artikel 3 Absatz 1 Buchstaben a, b und e–g sowie Absatz 3 können Stellenbewerberinnen und Stellenbewerber sowie Angestellte auf deren Vertrauenswürdigkeit hin prüfen lassen, wenn diese im Rahmen ihrer Funktion:
+
+- a. die Schweiz im Ausland regelmässig vertreten sollen und dabei das Ansehen des Bundes erheblich beeinträchtigen könnten;
+- b. in wesentlichen Finanz- oder Steuersachen Entscheide fällen oder Aufsichtsaufgaben wahrnehmen sollen und dabei die finanziellen Interessen des Bundes erheblich beeinträchtigen könnten;
+- c. Strafverfolgungs- oder polizeiliche Aufgaben wahrnehmen und dabei die öffentlichen Interessen des Bundes, insbesondere die Sicherheit der Bundesverwaltung, erheblich gefährden könnten.
+
+<sup>2</sup> Sie beschränken sich bei der Prüfung auf das erforderliche Mindestmass.
+
+<sup>3</sup> Die Vertrauenswürdigkeitsprüfungen werden von den Fachstellen nach Artikel 31 Absatz 2 des Informationssicherheitsgesetzes vom 18. Dezember 2020[^20b-2] (ISG) durchgeführt. Das Verfahren richtet sich sinngemäss nach den entsprechenden Bestimmungen des ISG.
+
+<sup>4</sup> Werden die Stellenbewerberinnen und Stellenbewerber sowie die Angestellten gleichzeitig einer Personensicherheitsprüfung nach dem ISG unterzogen, so werden die beiden Verfahren vereinigt.
+
+[^20b-1]: Eingefügt durch Anhang 1 Ziff. 4 des Informationssicherheitsgesetzes vom 18. Dez. 2020, in Kraft seit 1. Jan. 2024 ([AS 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [BBl 2017 2953](https://fedlex.data.admin.ch/eli/fga/2017/647)).
+[^20b-2]: [SR 128](https://fedlex.data.admin.ch/eli/cc/2022/232)
 
 #### Art. 21
 

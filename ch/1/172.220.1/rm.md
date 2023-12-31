@@ -4,11 +4,11 @@ title: Lescha dals 24 da mars 2000 davart il persunal da la Confederaziun (LPers
 short: LPers
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/123"
 language: rm
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2000-03-24
 in_force: 2001-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/123/20230901/rm/xml/fedlex-data-admin-ch-eli-cc-2001-123-20230901-rm-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/123/20230901/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/123/20240101/rm/xml/fedlex-data-admin-ch-eli-cc-2001-123-20240101-rm-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/123/20240101/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (LPers)
 
-dals 24 da mars 2000 (versiun dal 1. da settember 2023)
+dals 24 da mars 2000 (versiun dal 1. da schaner 2024)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -421,11 +421,32 @@ Las disposiziuns executivas:
 
 #### Art. 20a
 
-**Extract dal register penal**[^20a-1]
+**Extract dal register penal e dal register da scussiun**[^20a-1]
 
-Sch’igl è necessari per mantegnair ils agens interess, pon ils patruns pretender, ch’ils candidats per ina plazza sco er ils emploiads preschentian in extract dal register penal.
+Sch’igl è necessari per mantegnair ils agens interess, pon ils patruns pretender, ch’ils candidats per ina plazza sco er ils emploiads preschentian in extract dal register penal e dal register da scussiun.
 
-[^20a-1]: Integrà tras la cifra 1 da l’agiunta 1 da la LF dals 17 da zer. 2016 davart il register penal, en vigur dapi ils 23 da schan. 2023 ([AS 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [BBl 2014 5713](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
+[^20a-1]: Integrà tras la cifra 1 da l’agiunta 1 da la LF dals 17 da zer. 2016 davart il register penal ([AS 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [BBl 2014 5713](https://fedlex.data.admin.ch/eli/fga/2014/1229)). Versiun tenor la cifra 2 da l’agiunta 2 da la LF dals 18 da dec. 2020 davart la segirezza da las infurmaziuns, en vigur dapi il 1. da schan. 2024 ([AS 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [BBl 2017 2953](https://fedlex.data.admin.ch/eli/fga/2017/647)).
+
+#### Art. 20b
+
+**Examinaziun da la confidenza**[^20b-1]
+
+<sup>1</sup>
+
+Ils patruns tenor l’artitgel 3 alinea 1 literas a, b ed e–g sco er alinea 3 pon laschar examinar la confidenza dals candidats per ina plazza sco er dals emploiads en ils suandants cas:
+
+- a. els duain, en il rom da lur funcziun, represchentar regularmain la Svizra a l’exteriur e pudessan donnegiar en quest connex considerablamain la reputaziun da la Confederaziun;
+- b. els duain, en il rom da lur funcziun, prender decisiuns en chaussas finanzialas u fiscalas essenzialas u ademplir incumbensas da surveglianza e pudessan donnegiar en quest connex considerablamain ils interess da la Confederaziun;
+- c. els duain, en il rom da lur funcziun, ademplir incumbensas da persecuziun penala u incumbensas polizialas e pudessan periclitar en quest connex considerablamain ils interess publics da la Confederaziun, en spezial la segirezza da l’administraziun federala.
+
+<sup>2</sup> Ils patruns limiteschan l’examinaziun al minimum necessari.
+
+<sup>3</sup> La confidenza vegn examinada tras ils posts spezialisads tenor l’artitgel 31 alinea 2 da la Lescha dals 18 da december 2020[^20b-2] davart la segirezza da las infurmaziuns (LSIn). Per la procedura vegnan applitgadas analogamain las disposiziuns respectivas da la LSIn.
+
+<sup>4</sup> Sch’ils candidats per ina plazza ed ils emploiads vegnan suttamess a medem temp ad ina controlla da segirezza da persunas tenor la LSIn, vegnan cumbinadas las duas proceduras.
+
+[^20b-1]: Integrà tras la cifra 4 da l’agiunta 1 da la LF dals 18 da dec. 2020 davart la segirezza da las infurmaziuns, en vigur dapi il 1. da schan. 2024 ([AS 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [BBl 2017 2953](https://fedlex.data.admin.ch/eli/fga/2017/647)).
+[^20b-2]: [SR 128](https://fedlex.data.admin.ch/eli/cc/2022/232)
 
 #### Art. 21
 

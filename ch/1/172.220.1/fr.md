@@ -4,11 +4,11 @@ title: Loi du 24 mars 2000 sur le personnel de la Confédération (LPers)
 short: LPers
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/123"
 language: fr
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2000-03-24
 in_force: 2001-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/123/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2001-123-20230901-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/123/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/123/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2001-123-20240101-fr-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/123/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/123/20230901/fr"
 
 (LPers)
 
-du 24 mars 2000 (État le 1<sup>er</sup> septembre 2023)
+du 24 mars 2000 (État le 1<sup>er</sup> janvier 2024)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -420,11 +420,32 @@ Les dispositions d’exécution:
 
 #### Art. 20a
 
-**Extrait du casier judiciaire**[^20a-1]
+**Extrait du casier judiciaire et du registre des poursuites**[^20a-1]
 
-L’employeur peut exiger des candidats à un poste et de ses employés qu’ils produisent un extrait de leur casier judiciaire, si cela est nécessaire pour préserver ses intérêts.
+L’employeur peut exiger des candidats à un poste et de ses employés qu’ils produisent un extrait de leur casier judiciaire et du registre des poursuites, si cela est nécessaire pour préserver ses intérêts.
 
-[^20a-1]: Introduit par l’annexe 1 ch. 1 de la L du 17 juin 2016 sur le casier judiciaire, en vigueur depuis le 23 janv. 2023 ([RO 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [FF 2014 5525](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
+[^20a-1]: Introduit par l’annexe 1 ch. 1 de la LF du 17 juin 2016 sur le casier judiciaire ([RO 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [FF 2014 5525](https://fedlex.data.admin.ch/eli/fga/2014/1229)). Nouvelle teneur selon l’annexe 2 ch. 2 de la L du 18 déc. 2020 sur la sécurité de l’information, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [FF 2017 2765](https://fedlex.data.admin.ch/eli/fga/2017/647)).
+
+#### Art. 20b
+
+**Contrôle de loyauté**[^20b-1]
+
+<sup>1</sup>
+
+Les employeurs au sens de l’art. 3, al. 1, let. a, b, et e à g, et al. 3, peuvent faire contrôler la loyauté des candidats à un poste et de leurs employés dans les cas suivants:
+
+- a. les personnes concernées sont régulièrement appelées à représenter la Suisse à l’étranger dans le cadre de leur fonction et pourraient porter à ce titre une atteinte considérable à l’image de la Confédération;
+- b. les personnes concernées sont appelées à exercer dans le cadre de leur fonction des compétences décisionnelles ou des tâches de surveillance dans d’importantes affaires financières ou fiscales et pourraient porter à ce titre une atteinte considérable aux intérêts financiers de la Confédération.
+- c. les personnes concernées sont appelées à exercer, dans le cadre de leurs fonctions, des tâches relevant de la poursuite pénale ou des tâches policières et pourraient porter à ce titre une atteinte considérable à l’intérêt public de la Confédération, en particulier à la sécurité de l’administration fédérale.
+
+<sup>2</sup> Ils limitent le contrôle au strict nécessaire.
+
+<sup>3</sup> Les services spécialisés chargés de réaliser les contrôles de sécurité relatifs aux personnes au sens de l’art. 31, al. 2, de la loi du 18 décembre 2020 sur la sécurité de l’information (LSI)[^20b-2] réalisent le contrôle. Les dispositions de la LSI relatives au contrôle de sécurité s’appliquent par analogie.
+
+<sup>4</sup> Lorsque les candidats à un poste et les employés sont soumis simultanément à un contrôle de sécurité au sens de la LSI, les deux procédures sont combinées.
+
+[^20b-1]: Introduit par l’annexe 1 ch. 4 de la LF du 18 déc. 2020 sur la sécurité de l’information, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232), [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [FF 2017 2765](https://fedlex.data.admin.ch/eli/fga/2017/647)).
+[^20b-2]: [RS 128](https://fedlex.data.admin.ch/eli/cc/2022/232)
 
 #### Art. 21
 
@@ -781,8 +802,8 @@ Les dispositions d’exécution peuvent également prévoir:
 
 <sup>3</sup> Les caisses de prévoyance assument leur part des frais. Dans le cas des caisses de prévoyance communes, PUBLICA établit un décompte séparé pour chaque employeur.
 
-[^32d-1]: Phrase introduite par l’annexe ch. II 2 de la L du 16 juin 2017 sur les fonds de compensation, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7563](https://fedlex.data.admin.ch/eli/oc/2017/820); [FF 2016 271](https://fedlex.data.admin.ch/eli/fga/2016/68)).
-[^32d-2]: Phrase introduite par l’annexe ch. II 2 de la L du 16 juin 2017 sur les fonds de compensation, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7563](https://fedlex.data.admin.ch/eli/oc/2017/820); [FF 2016 271](https://fedlex.data.admin.ch/eli/fga/2016/68)).
+[^32d-1]: Troisième phrase introduite par l’annexe ch. II 2 de la L du 16 juin 2017 sur les fonds de compensation, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7563](https://fedlex.data.admin.ch/eli/oc/2017/820); [FF 2016 271](https://fedlex.data.admin.ch/eli/fga/2016/68)).
+[^32d-2]: Segonde phrase introduite par l’annexe ch. II 2 de la L du 16 juin 2017 sur les fonds de compensation, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7563](https://fedlex.data.admin.ch/eli/oc/2017/820); [FF 2016 271](https://fedlex.data.admin.ch/eli/fga/2016/68)).
 [^32d-3]: Anciennement 2<sup>e</sup> phrase.
 [^32d-4]: Introduit par l’annexe ch. II 2 de la L du 16 juin 2017 sur les fonds de compensation, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7563](https://fedlex.data.admin.ch/eli/oc/2017/820); [FF 2016 271](https://fedlex.data.admin.ch/eli/fga/2016/68)).
 

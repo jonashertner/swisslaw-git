@@ -4,11 +4,11 @@ title: Legge del 24 marzo 2000 sul personale federale (LPers)
 short: LPers
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/123"
 language: it
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2000-03-24
 in_force: 2001-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/123/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2001-123-20230901-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/123/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/123/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2001-123-20240101-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/123/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/123/20230901/it"
 
 (LPers)
 
-del 24 marzo 2000 (Stato 1° settembre 2023)
+del 24 marzo 2000 (Stato 1° gennaio 2024)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -83,31 +83,31 @@ La presente legge non si applica:[^2-17]
 [^2-17]: Nuovo testo giusta il n. I della L del 14 dic. 2012, in vigore dal 1° lug. 2013 ([RU 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [FF 2011 5959](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
 [^2-18]: Nuovo testo giusta il n. I della L del 14 dic. 2012, in vigore dal 1° lug. 2013 ([RU 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [FF 2011 5959](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
 [^2-19]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^2-20]: Nuovo testo giusta il n. I della L del 14 dic. 2012, in vigore dal 1° lug. 2013 ([RU 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [FF 2011 5959](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
-[^2-21]: Nuovo testo giusta il n. I della L del 14 dic. 2012, in vigore dal 1° lug. 2013 ([RU 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [FF 2011 5959](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
+[^2-20]: Introdotta dal n. I della L del 14 dic. 2012, in vigore dal 1° lug. 2013 ([RU 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [FF 2011 5959](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
+[^2-21]: Introdotta dal n. I della L del 14 dic. 2012, in vigore dal 1° lug. 2013 ([RU 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [FF 2011 5959](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
 
 #### Art. 3
 
 **Datori di lavoro**
 
-<sup>1</sup> f.[^3-1] il Ministero pubblico della Confederazione;
+<sup>1</sup>
 
 Datori di lavoro ai sensi della presente legge sono:
 
 - a. il Consiglio federale quale organo direttivo supremo dell’amministrazione federale;
 - b. l’Assemblea federale per i Servizi del Parlamento;
-- c.[^3-2] ...
+- c.[^3-1] ...
 - d. le Ferrovie federali svizzere;
 - e. il Tribunale federale;
-
+- f.[^3-2] il Ministero pubblico della Confederazione;
 - g.[^3-3] l’autorità di vigilanza sul Ministero pubblico della Confederazione.
 
 <sup>2</sup> I dipartimenti, la Cancelleria federale, i gruppi e uffici, nonché le unità amministrative decentralizzate sono considerati datori di lavoro, per quanto il Consiglio federale deleghi loro le corrispondenti competenze.[^3-4]
 
 <sup>3</sup> Il Tribunale amministrativo federale, il Tribunale penale federale e il Tribunale federale dei brevetti sono considerati datori di lavoro, per quanto le pertinenti leggi o il Consiglio federale deleghino loro le corrispondenti competenze.[^3-5]
 
-[^3-1]: Introdotta dall’all. n. II 4 della L del 19 mar. 2010 sull’organizzazione delle autorità penali, in vigore dal 1° gen. 2011 ([RU 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [FF 2008 7093](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
-[^3-2]: Abrogata dall’all. n. II 1 della L del 17 dic. 2010 sull’organizzazione della Posta, con effetto dal 1° ott. 2012 ([RU 2012 5043](https://fedlex.data.admin.ch/eli/oc/2012/587); [FF 2009 4573](https://fedlex.data.admin.ch/eli/fga/2009/919)).
+[^3-1]: Abrogata dall’all. n. II 1 della L del 17 dic. 2010 sull’organizzazione della Posta, con effetto dal 1° ott. 2012 ([RU 2012 5043](https://fedlex.data.admin.ch/eli/oc/2012/587); [FF 2009 4573](https://fedlex.data.admin.ch/eli/fga/2009/919)).
+[^3-2]: Introdotta dall’all. n. II 4 della L del 19 mar. 2010 sull’organizzazione delle autorità penali, in vigore dal 1° gen. 2011 ([RU 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [FF 2008 7093](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
 [^3-3]: Introdotta dall’all. n. II 4 della L del 19 mar. 2010 sull’organizzazione delle autorità penali, in vigore dal 1° gen. 2011 ([RU 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [FF 2008 7093](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
 [^3-4]: Nuovo testo giusta l’all. n. 12 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^3-5]: Introdotto dall’all. n. 5 della LF del 4 ott. 2002 sul Tribunale penale federale ([RU 2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)). Nuovo testo giusta l’all. n. 1 della L del 20 mar. 2009 sul Tribunale federale dei brevetti, in vigore dal 1° mar. 2010 ([RU 2010 513](https://fedlex.data.admin.ch/eli/oc/2010/72); [FF 2008 349](https://fedlex.data.admin.ch/eli/fga/2008/145)).
@@ -423,11 +423,32 @@ Le disposizioni d’esecuzione:
 
 #### Art. 20a
 
-**Estratto del casellario giudiziale**[^20a-1]
+**Estratto del casellario giudiziale e del registro delle esecuzioni**[^20a-1]
 
-Se necessario per tutelare i suoi interessi, il datore di lavoro può esigere dai candidati a un impiego e dagli impiegati che presentino un estratto del casellario giudiziale.
+Se necessario per tutelare i suoi interessi, il datore di lavoro può esigere dai candidati a un impiego e dagli impiegati che presentino un estratto del casellario giudiziale e del registro delle esecuzioni.
 
-[^20a-1]: Introdotto dall’all. 1 n. 1 della L del 17 giu. 2016 sul casellario giudiziale, in vigore dal 23 gen. 2023 ([RU 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [FF 2014 4929](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
+[^20a-1]: Introdotto dall’all. 1 n. 1 della L del 17 giu. 2016 sul casellario giudiziale ([RU 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [FF 2014 4929](https://fedlex.data.admin.ch/eli/fga/2014/1229)). Nuovo testo giusta l’all. 2 n. 2 della L del 18 dic. 2020 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [FF 2017 2563](https://fedlex.data.admin.ch/eli/fga/2017/647)).
+
+#### Art. 20b
+
+**Verifica dell’affidabilità**[^20b-1]
+
+<sup>1</sup>
+
+I datori di lavoro secondo l’articolo 3 capoverso 1 lettere a, b ed e−g nonché capoverso 3 possono richiedere la verifica dell’affidabilità dei loro impiegati nonché dei candidati a un impiego, se nel quadro della loro funzione questi:
+
+- a. rappresentano regolarmente la Svizzera all’estero e in tale contesto potrebbero pregiudicare considerevolmente l’immagine della Confederazione;
+- b. prendono decisioni ed esercitano compiti di vigilanza in affari finanziari o fiscali essenziali e in tale contesto potrebbero pregiudicare considerevolmente gli interessi finanziari della Confederazione;
+- c. esercitano compiti di perseguimento penale o di polizia e in tale contesto potrebbero pregiudicare considerevolmente gli interessi pubblici della Confederazione, in particolare la sicurezza dell’Amministrazione federale.
+
+<sup>2</sup> Limitano la verifica allo stretto necessario.
+
+<sup>3</sup> I servizi specializzati di cui all’articolo 31 capoverso 2 della legge del 18 dicembre 2020[^20b-2] sulla sicurezza delle informazioni (LSIn) eseguono le verifiche dell’affidabilità. La procedura si fonda per analogia sulle pertinenti disposizioni della LSIn.
+
+<sup>4</sup> Se i candidati a un impiego e gli impiegati sono sottoposti contemporaneamente a un controllo di sicurezza relativo alle persone secondo la LSIn, le due procedure sono riunite.
+
+[^20b-1]: Introdotto dall’all. 1 n. 4 della L del 18 dic. 2020 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [FF 2017 2563](https://fedlex.data.admin.ch/eli/fga/2017/647)).
+[^20b-2]: [RS 128](https://fedlex.data.admin.ch/eli/cc/2022/232)
 
 #### Art. 21
 
@@ -784,8 +805,8 @@ Le disposizioni d’esecuzione possono inoltre prevedere:
 
 <sup>3</sup> Le casse di previdenza stesse assumono i propri costi. Per le casse di previdenza comuni, PUBLICA tiene una contabilità separata per datore di lavoro.
 
-[^32d-1]: Per. introdotto dall’all. n. II 2 della LF del 16 giu. 2017 sui fondi di compensazione, in vigore dal 1° gen. 2018 ([RU 2017 7563](https://fedlex.data.admin.ch/eli/oc/2017/820); [FF 2016 255](https://fedlex.data.admin.ch/eli/fga/2016/68)).
-[^32d-2]: Frase introdotta all’all. n. II 2 della LF del 16 giu. 2017 sui fondi di compensazione, in vigore dal 1° gen. 2018 ([RU 2017 7563](https://fedlex.data.admin.ch/eli/oc/2017/820); [FF 2016 255](https://fedlex.data.admin.ch/eli/fga/2016/68)).
+[^32d-1]: Terzo per. introdotto dall’all. n. II 2 della LF del 16 giu. 2017 sui fondi di compensazione, in vigore dal 1° gen. 2018 ([RU 2017 7563](https://fedlex.data.admin.ch/eli/oc/2017/820); [FF 2016 255](https://fedlex.data.admin.ch/eli/fga/2016/68)).
+[^32d-2]: Secondo per. introdotto all’all. n. II 2 della LF del 16 giu. 2017 sui fondi di compensazione, in vigore dal 1° gen. 2018 ([RU 2017 7563](https://fedlex.data.admin.ch/eli/oc/2017/820); [FF 2016 255](https://fedlex.data.admin.ch/eli/fga/2016/68)).
 [^32d-3]: Originario: secondo per.
 [^32d-4]: Introdotto dall’all. n. II 2 della LF del 16 giu. 2017 sui fondi di compensazione, in vigore dal 1° gen. 2018 ([RU 2017 7563](https://fedlex.data.admin.ch/eli/oc/2017/820); [FF 2016 255](https://fedlex.data.admin.ch/eli/fga/2016/68)).
 
