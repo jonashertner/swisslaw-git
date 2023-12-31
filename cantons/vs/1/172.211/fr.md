@@ -4,13 +4,12 @@ number: "172.211"
 title: "Règlement sur le temps de travail dans l'administration cantonale"
 short: RTTr
 language: fr
-version: 2022-12-01
-valid_until: 2023-12-31
-version_adopted: 2022-11-02
+version: 2024-01-01
+version_adopted: 2023-12-06
 adopted: 2011-11-29
 in_force: 2012-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/172.211"
-pdf: "https://lex.vs.ch/api/fr/versions/3082/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3251/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/3082/pdf_file"
 
 (RTTr)
 
-du 29.11.2011 (état 01.12.2022)
+du 29.11.2011 (état 01.01.2024)
 
 Le Conseil d'Etat du canton du Valais
 
@@ -77,7 +76,7 @@ ordonne:[^ingress-1]
 
 <sup>3</sup> Lorsque des circonstances particulières de service l’exigent, le droit d’une ou de plusieurs personnes à bénéficier de l’horaire de travail annuel peut être limité par le chef de service, après entente avec le SRH, partiellement ou totalement, de façon momentanée ou permanente.
 
-<sup>4</sup> Les chefs de service, les secrétaires généraux des états-majors et les délégués des départements bénéficient de l’horaire de travail annuel, hormis les possibilités de compensation, s’ils ne sont pas soumis au dispositif d’enregistrement du temps de travail.
+<sup>4</sup> Les chefs de service, les secrétaires généraux des états-majors, les délégués des départements, les collaborateurs/conseillers personnels des chefs de départements, les adjoints des chefs de service et les officiers d’Etat-major de la Police cantonale bénéficient de l’horaire de travail annuel et ne sont pas soumis au dispositif d’enregistrement du temps de travail.
 
 #### Art. 5
 
@@ -344,13 +343,15 @@ ordonne:[^ingress-1]
 
 **Règles particulières**
 
-<sup>1</sup> Les chefs de service, les secrétaires généraux des états-majors, les délégués des départements et les conseillers personnels des chefs de départements gèrent leur temps de travail en fonction de l’activité professionnelle.
+<sup>1</sup> Les chefs de service, les secrétaires généraux des états-majors, les délégués des départements, les collaborateurs/conseillers personnels des chefs de départements, les adjoints des chefs de service et les officiers d’Etat-major de la Police cantonale gèrent leur temps de travail en fonction de l’activité professionnelle.
 
-<sup>2</sup> Ils bénéficient de l’horaire de travail annuel et ne sont pas soumis au dispositif d’enregistrement du temps de travail.
+<sup>2</sup> …
 
 <sup>3</sup> Les heures de travail effectuées en sus de la durée du temps de référence ne donnent droit à aucune compensation financière et ne peuvent pas être comptabilisées.
 
-<sup>4</sup> Le chef de département peut, afin de compenser les éventuelles heures supplémentaires effectuées par le personnel non soumis au dispositif d’enregistrement, et sur demande dûment motivée de celui-ci, lui accorder jusqu’à cinq jours de vacances supplémentaires par année civile. La décision du chef de département est transmise au SRH pour enregistrement.
+<sup>4</sup> Le chef de département peut, afin de compenser les heures de travail effectuées en sus de la durée du temps de référence par les chefs de service, les secrétaires généraux des états-majors, les délégués des départements et les collaborateurs/conseillers personnels des chefs de départements, et sur demande dûment motivée de ceux-ci, leur accorder jusqu’à cinq jours de congés supplémentaires par année civile. La décision du chef de département est transmise au SRH pour enregistrement.
+
+<sup>5</sup> Le chef de service peut, afin de compenser les heures de travail effectuées en sus de la durée du temps de référence par son adjoint, respectivement par les officiers d’Etat-major de la Police cantonale, et sur demande dûment motivée de ces derniers, leur accorder jusqu’à cinq jours de congés supplémentaires par année civile. La décision du chef de service est transmise au SRH pour enregistrement.
 
 #### Art. 24
 
@@ -395,5 +396,11 @@ ordonne:[^ingress-1]
 <sup>1</sup> Le présent règlement est publié dans le Bulletin officiel pour entrer en vigueur le 1<sup>er</sup> janvier 2012.
 
 <sup>2</sup> Il abroge toutes les dispositions et décisions antérieures en la matière qui lui sont contraires, notamment le règlement sur le temps de travail dans l’administration cantonale du 14 novembre 2001.
+
+## T1 Disposition transitoire de la modification du 6 décembre 2023
+
+#### Art. T1-1
+
+<sup>1</sup> Les employés qui ne sont plus soumis au dispositif d’enregistrement du temps de travail disposent d’un délai au 31 décembre 2025 pour épuiser leur solde acquis au moment de la modification, respectivement les éventuels soldes négatifs sont compensés par le solde des vacances. Les heures qui n’ont pas été récupérée en nature dans ce délai sont abandonnées sans indemnités ni recomptabilisation.
 
 RCV BO/Abl. 50/2011

@@ -4,13 +4,12 @@ number: "172.211"
 title: "Reglement über die Arbeitszeit in der kantonalen Verwaltung *"
 short: RAZ
 language: de
-version: 2022-12-01
-valid_until: 2023-12-31
-version_adopted: 2022-11-02
+version: 2024-01-01
+version_adopted: 2023-12-06
 adopted: 2011-11-29
 in_force: 2012-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/172.211"
-pdf: "https://lex.vs.ch/api/de/versions/3082/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3251/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/de/versions/3082/pdf_file"
 
 (RAZ)
 
-vom 29.11.2011 (Stand 01.12.2022)
+vom 29.11.2011 (Stand 01.01.2024)
 
 Der Staatsrat des Kantons Wallis
 
@@ -77,7 +76,7 @@ beschliesst:[^ingress-1]
 
 <sup>3</sup> Wenn besondere dienstliche Umstände es erfordern, kann der Anspruch von einer oder mehrerer Personen auf Nutzung der Jahresarbeitszeit durch den Dienstchef, nach Absprache mit der DPM, teilweise oder vollständig, dauerhaft oder vorübergehend beschränkt werden.
 
-<sup>4</sup> Die Dienstchefs, die Generalsekretäre des Führungsstabes und die Departementsdelegierten nutzen die Jahresarbeitszeit, ausgenommen die Kompensationsmöglichkeiten, wenn sie nicht dem Kontrolldispositiv für die Arbeitszeit unterstehen.
+<sup>4</sup> Die Dienstchefs, die Generalsekretäre des Führungsstabes, die Departementsdelegierten, die persönlichen Mitarbeiter/Berater der Departementsvorsteher, die Stellvertreter der Dienstchefs und die Stabsoffiziere der Kantonspolizei nutzen die Jahresarbeitszeit und unterstehen keiner Zeitererfassungspflicht.
 
 #### Art. 5
 
@@ -344,13 +343,15 @@ beschliesst:[^ingress-1]
 
 **Besondere Bestimmungen**
 
-<sup>1</sup> Die Dienstchefs, die Generalsekretäre des Führungsstabes, die Departementsdelegierten und die persönlichen Mitarbeiter der Departementsvorsteher verwalten ihre Arbeitszeit entsprechend der beruflichen Tätigkeit.
+<sup>1</sup> Die Dienstchefs, die Generalsekretäre des Führungsstabes, die Departementsdelegierten, die persönlichen Mitarbeiter/Berater der Departementsvorsteher, die Stellvertreter der Dienstchefs und die Stabsoffiziere der Kantonspolizei verwalten ihre Arbeitszeit entsprechend der beruflichen Tätigkeit.
 
-<sup>2</sup> Sie kommen in den Genuss der Jahresarbeitszeit und unterstehen keiner Zeitererfassungspflicht.
+<sup>2</sup> …
 
 <sup>3</sup> Die Arbeitsstunden, welche die Referenzarbeitszeit übersteigen, geben keinen Anspruch auf jegliche finanzielle Entschädigung und können nicht verbucht werden.
 
-<sup>4</sup> Der Departementsvorsteher kann zum Ausgleich allfälliger Überstunden des nicht registrierungspflichtigen Personals und auf dessen begründeten Antrag hin bis zu fünf zusätzliche Ferientage pro Kalenderjahr gewähren. Der Entscheid des Departementsvorstehers wird zur Registrierung an die DPM weitergeleitet.
+<sup>4</sup> Der Departementsvorsteher kann zum Ausgleich der von den Dienstchefs, den Generalsekretären des Führungsstabes, der Departementsdelegierten und der persönlichen Mitarbeiter/Berater der Departementsvorsteher geleisteten Arbeitsstunden, welche die Referenzarbeitszeit übersteigen und auf deren begründeten Antrag hin bis zu fünf zusätzliche freie Tage pro Kalenderjahr gewähren. Der Entscheid des Departementsvorstehers wird zur Registrierung an die DPM weitergeleitet.
+
+<sup>5</sup> Der Dienstchef kann zum Ausgleich der von seinem Stellvertreter, beziehungsweise von den Stabsoffizieren der Kantonspolizei geleisteten Arbeitsstunden, welche die Referenzarbeitszeit übersteigen und auf dessen begründeten Antrag hin bis zu fünf zusätzliche freie Tage pro Kalenderjahr gewähren. Der Entscheid des Dienstchefs wird zur Registrierung an die DPM weitergeleitet.
 
 #### Art. 24
 
@@ -395,5 +396,11 @@ beschliesst:[^ingress-1]
 <sup>1</sup> Das vorliegende Reglement wird im Amtsblatt vom publiziert und tritt am 1. Januar 2012 in Kraft.
 
 <sup>2</sup> Es hebt alle vorgängigen, ihm widersprechenden Bestimmungen und Entscheide auf, insbesondere das Reglement über die Arbeitszeit in der kantonalen Verwaltung vom 14. November 2001.
+
+## T1 Übergangsbestimmung der Änderung vom 6. Dezember 2023
+
+#### Art. T1-1
+
+<sup>1</sup> Angestellte, die nicht mehr der Arbeitszeiterfassung unterliegen, haben eine Frist bis zum 31. Dezember 2025, um ihr zum Zeitpunkt der Änderung erworbenes Guthaben aufzubrauchen, bzw. werden eventuelle negative Salden mit dem Urlaubssaldo verrechnet. Die Stunden, die innerhalb dieser Frist nicht bezogen wurden, werden ohne Entschädigung oder Neuanrechnung aufgehoben.
 
 CSW BO/Abl. 50/2011
