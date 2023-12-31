@@ -3,22 +3,22 @@ canton: BS
 number: "772.420"
 title: Gebührentarif der IWB Industrielle Werke Basel betreffend den Anschluss und die Nutzung des Netzes für elektrische Energie
 language: de
-version: 2023-01-01
-valid_until: 2023-12-31
-version_adopted: 2022-06-30
+version: 2024-01-01
+valid_until: 2024-12-31
+version_adopted: 2023-06-29
 adopted: 2025-07-03
 in_force: 2026-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/772.420"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5774/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6110/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Gebührentarif der IWB Industrielle Werke Basel betreffend den Anschluss und die Nutzung des Netzes für elektrische Energie
 
-Netznutzung elektrische Energie: Gebührentarif | Energie- und Wasserversorgung
+Wasser / Energie
 
-Vom 4. Juli 2011 (Stand 1. Januar 2023)
+Vom 4. Juli 2011 (Stand 1. Januar 2024)
 
 Der Verwaltungsrat der IWB Industrielle Werke Basel,
 
@@ -34,25 +34,27 @@ beschliesst:
 
 **Netzebenenzugang**
 
-<sup>1</sup> Für eine transparente Zuweisung der Netzkosten wird das Schweizerische Übertragungs- und Verteilnetz in vier Spannungs- und drei Transformationsebenen und somit also in sieben Netzebenen aufgeteilt. Zusätzlich zu den sieben Netzebenen führen die IWB für die Versorgung des öffentlichen Verkehrs eine separate Netzebene (auf Gleichspannung).
+<sup>1</sup> Für eine transparente Zuweisung der Netzkosten wird das Schweizerische Übertragungs- und Verteilnetz in vier Spannungs- und drei Transformationsebenen und somit also in sieben Netzebenen aufgeteilt. Zusätzlich zu den sieben Netzebenen führt die IWB für die Versorgung des öffentlichen Verkehrs eine separate Netzebene (auf Gleichspannung).
 
 <sup>2</sup> Die Kriterien des Netzzugangs sind kundensegmentunabhängig und sind in den Ausführungsbestimmungen von IWB Industrielle Werke Basel für Leistungen im Bereich Elektrizität vom 21. Februar 2020 festgelegt.
 
-<sup>3</sup> Über die Zuteilung einer Verbrauchsstelle zu einer Netzebene entscheiden die IWB aufgrund netztopologischer Anforderungen abschliessend.
+<sup>3</sup> Über die Zuteilung einer Verbrauchsstelle zu einer Netzebene entscheidet die IWB aufgrund netztopologischer Anforderungen abschliessend.
 
 #### § 2
 
 **Grundsätze der Tarifgestaltung**
 
-<sup>1</sup> Die Tarife für die Netznutzung bestehen entweder aus Einfachtarifen in Rp./kWh oder aus nach Zeiten differenzierten Doppeltarifen (Normal und Spartarif) in Rp./kWh.
+<sup>1</sup> Die Tarife für die Netznutzung bestehen entweder aus Einfachtarifen in Rp./kWh oder aus nach Zeiten differenzierten Doppeltarifen (Normal- und Spartarif) in Rp./kWh.
 
-<sup>2</sup> Für Bezugsstellen mit einer Bezügersicherung kleiner 100 A ist für die Bemessung des Netznutzungsentgelts die Höhe des Wirkenergieverbrauchs massgebend.
+<sup>1<sup>bis</sup></sup> Der Einfachtarif gilt unabhängig von der Sicherungsgrösse als Basistarif für Endverbrauchende auf der Netzebene 7 mit einem Jahresverbrauch bis zu 50 MWh.
 
-<sup>3</sup> Für Bezugsstellen mit einer Bezügersicherung gleich 100 A ist für die Bemessung des Netznutzungsentgelts zusätzlich die höchste monatlich beanspruchte viertelstündliche Wirkleistung während der Normaltarifzeit massgebend.
+<sup>2</sup> Für Verbrauchsstätten mit einer Bezügersicherung kleiner 100 A ist für die Bemessung des Netznutzungsentgelts die Höhe des Wirkenergieverbrauchs massgebend.
 
-<sup>4</sup> Für Bezugsstellen mit einer Bezügersicherung grösser 100 A kann für die Bemessung des Netznutzungsentgelts zusätzlich die Höhe des Blindenergieverbrauchs berücksichtigt werden.
+<sup>3</sup> Für Verbrauchsstätten mit einer Bezügersicherung gleich 100 A ist für die Bemessung des Netznutzungsentgelts zusätzlich die höchste monatlich beanspruchte viertelstündliche Wirkleistung während der Normaltarifzeit massgebend.
 
-<sup>5</sup> Für Bezugsstellen ohne oder mit sehr geringem Energieverbrauch wird für die Bemessung des Netznutzungsentgelts ein Minimalentgelt in Rechnung gestellt.
+<sup>4</sup> Für Verbrauchsstätten mit einer Bezügersicherung grösser 100 A kann für die Bemessung des Netznutzungsentgelts zusätzlich die Höhe des Blindenergieverbrauchs berücksichtigt werden.
+
+<sup>5</sup> Für Verbrauchsstätten ohne oder mit sehr geringem Energieverbrauch wird für die Bemessung des Netznutzungsentgelts ein Minimalentgelt in Rechnung gestellt.
 
 <sup>6</sup> Die Tarife für elektrische Energie sind im Gebührentarif für elektrische Energie geregelt.
 
@@ -76,7 +78,7 @@ beschliesst:
 
 <sup>2</sup> …
 
-<sup>3</sup> Die IWB legt fest, welche Bezugsstellen mit einer Steuerung ausgerüstet werden müssen, damit bestimmte Verbrauchsapparate lediglich in den Spartarifzeiten betrieben werden können.
+<sup>3</sup> Die IWB legt fest, welche Verbrauchsstätten mit einer Steuerung ausgerüstet werden müssen, damit bestimmte Verbrauchsapparate lediglich in den Spartarifzeiten betrieben werden können.
 
 #### § 5
 
@@ -86,9 +88,9 @@ beschliesst:
 
 #### § 6
 
-**Blindenergiebezug**
+**Blindenergieverbrauch**
 
-<sup>1</sup> Ist der Blindenergiebezug grösser als 50 % des Wirkenergiebezuges, wird der die Hälfte des Wirkenergiebezuges übersteigende Blindenergiebezug mit 3.00 Rp./kVarh in Rechnung gestellt.
+<sup>1</sup> Ist der Blindenergieverbrauch grösser als 50 % des Wirkenergieverbrauchs, wird der die Hälfte des Wirkenergieverbrauchs übersteigende Blindenergieverbrauch mit 3.00 Rp./kVarh in Rechnung gestellt.
 
 #### § 7
 
@@ -100,28 +102,29 @@ beschliesst:
 
 <sup>3</sup> Gemäss §§ 17–27 Energiegesetz vom 9. September 1998 erhebt der Kanton zusätzlich eine Lenkungsabgabe in Rp./kWh.
 
-<sup>4</sup> Die Finanzierung der bundesrechtlich vorgeschriebenen kostendekenden Einspeisevergütung (KEV) wird zusätzlich zu den Netznutzungsentgelten erhoben.
+<sup>4</sup> Die Finanzierung der bundesrechtlich vorgeschriebenen kostendeckenden Einspeisevergütung (KEV) wird zusätzlich zu den Netznutzungsentgelten erhoben.
 
 <sup>5</sup> Es wird zusätzlich eine Konzessionsgebühr gemäss § 30 Abs. 3 IWB-Gesetz erhoben.
 
 #### § 8
 
-**Gebühren und Kosten für Systemdienstleistungen, öffentliche Beleuchtung, Uhren und Leistungen**
+**Gebühren und Kosten für Systemdienstleistungen, Winterreserve, öffentliche Beleuchtung, Uhren und Leistungen**
 
 <sup>1</sup> Die Kosten für Leistungen an den Kanton Basel-Stadt in den Bereichen öffentliche Beleuchtung und öffentliche Uhren sowie die Finanzierung der ungedeckten Kosten für die Vergütungen von Solarstrom, die nicht durch den Verkauf von Solarstrom oder durch die Einspeisevergütung des Bundes gedeckt werden gemäss § 14 Abs. 4 Energiegesetz (EnG) vom 16. November 2016, werden zusätzlich zu den Netznutzungsentgelten gemäss den folgenden Abs. 2 und 3 erhoben:
 
 <sup>2</sup> Kosten für öffentliche Beleuchtung und Uhren und Finanzierung der ungedeckten Kosten der Vergütung von Solarstrom:
 
-- a) Netzebene 3 — 0.37 Rp./kWh
-- b) Netzebene 5 — 0.55 Rp./kWh
-- c) Netzebene 7 (mit Leistungsmessung Zone 2) — 0.55 Rp./kWh
-- d) Netzebene 7 (mit Leistungsmessung Zone 1) — 0.95 Rp./kWh
-- e) Netzebene 7 (ohne Leistungsmessung) — 0.95 Rp./kWh
+- a) Netzebene 3 — 0.27 Rp./kWh
+- b) Netzebene 5 — 0.45 Rp./kWh
+- c) Netzebene 7 (mit Leistungsmessung Zone 2) — 0.45 Rp./kWh
+- d) Netzebene 7 (mit Leistungsmessung Zone 1) — 0.85 Rp./kWh
+- e) Netzebene 7 (ohne Leistungsmessung) — 0.85 Rp./kWh
 - f) …
 
 <sup>3</sup> Kosten für Systemdienstleistungen an die Swissgrid:
 
-- - Systemdienstleistung — 0.46 Rp./kWh
+- - Systemdienstleistung — 0.75 Rp./kWh
+- ‑ Winterreserve — 1.20 Rp./kWh
 
 ## II. Netznutzungsentgelt Netzebene 7 (Niederspannungsebene)
 
@@ -131,19 +134,19 @@ beschliesst:
 
 **Definition**
 
-<sup>1</sup> Diese Netzebene entspricht dem Verteilnetz kleiner 1000 Volt AC mit direktem Anschluss an das öffentliche Versorgungsnetz sowie einer Bezugstelle mit einer Bezügersicherung kleiner 100 A. Die Tarife richten sich nach den folgenden §§ 10 bis 12.
+<sup>1</sup> Diese Netzebene entspricht dem Verteilnetz kleiner 1000 Volt AC mit direktem Anschluss an das öffentliche Versorgungsnetz sowie einer Verbrauchsstätte mit einer Bezügersicherung kleiner 100 A. Die Tarife richten sich nach den folgenden §§ 10 bis 12.
 
 #### § 10
 
 **Einfachtarif**
 
-<sup>1</sup> Der Einfachtarif beträgt 13.60 Rp./kWh.
+<sup>1</sup> Der Einfachtarif beträgt 13.90 Rp./kWh.
 
 #### § 10a
 
 **Tarif für unterbrechbare Verbraucher**
 
-<sup>1</sup> Für unterbrechbare Stromlieferungen gemäss § 2 Abs. 8 und Abs. 9 beträgt der Tarif 8.55 Rp./kWh. Falls im Notfall die Unterbrechung aufgehoben wird, gilt in diesem Zeitraum ein erhöhtes Entgelt in Höhe von 41.40 Rp./kWh. Dies entspricht dem Dreifachen des Normaltarifs gemäss § 11 Abs. 1 lit. a.
+<sup>1</sup> Für unterbrechbare Stromlieferungen gemäss § 2 Abs. 8 und Abs. 9 beträgt der Tarif 8.80 Rp./kWh. Falls im Notfall die Unterbrechung aufgehoben wird, gilt in diesem Zeitraum ein erhöhtes Entgelt in Höhe von 42.30 Rp./kWh. Dies entspricht dem Dreifachen des Normaltarifs gemäss § 11 Abs. 1 lit. a.
 
 #### § 10b
 
@@ -155,14 +158,14 @@ beschliesst:
 
 <sup>1</sup> Der Doppeltarif beträgt:
 
-- a) als Normaltarif — 13.80 Rp./kWh
-- b) als Spartarif — 8.55 Rp./kWh
+- a) als Normaltarif — 14.10 Rp./kWh
+- b) als Spartarif — 8.80 Rp./kWh
 
 #### § 12
 
 **Minimalentgelt**
 
-<sup>1</sup> Für jede Bezugsstelle werden mindestens CHF 10 pro Monat in Rechnung gestellt.
+<sup>1</sup> Für jede Verbrauchsstätte werden mindestens CHF 10 pro Monat in Rechnung gestellt.
 
 ### B. Netzebene 7 mit Leistungsmessung
 
@@ -172,7 +175,7 @@ beschliesst:
 
 **Definition**
 
-<sup>1</sup> Die Bestimmungen dieser Netzebene kommen beim Verteilnetz kleiner 1'000 Volt AC mit direktem Anschluss an das öffentliche Versorgungsnetz sowie einer Bezugsstelle mit einer Bezügersicherung grösser oder gleich 100 A zur Anwendung. Die Tarife richten sich nach den folgenden §§ 14 bis 16.
+<sup>1</sup> Die Bestimmungen dieser Netzebene kommen beim Verteilnetz kleiner 1'000 Volt AC mit direktem Anschluss an das öffentliche Versorgungsnetz sowie einer Verbrauchsstätte mit einer Bezügersicherung grösser oder gleich 100 A zur Anwendung. Die Tarife richten sich nach den folgenden §§ 14 bis 16.
 
 #### § 14
 
@@ -180,23 +183,23 @@ beschliesst:
 
 <sup>1</sup> Der Doppeltarif beträgt:
 
-- a) als Normaltarif bis und mit 50'000 kWh — 8.40 Rp./kWh
-- b) als Normaltarif ab 50'000 kWh — 5.30 Rp./kWh
-- c) als Spartarif bis und mit 50'000 kWh — 5.60 Rp./kWh
-- d) als Spartarif ab 50'000 kWh — 3.60 Rp./kWh
+- a) als Normaltarif bis und mit 50'000 kWh — 9.00 Rp./kWh
+- b) als Normaltarif ab 50'000 kWh — 5.60 Rp./kWh
+- c) als Spartarif bis und mit 50'000 kWh — 6.00 Rp./kWh
+- d) als Spartarif ab 50'000 kWh — 3.90 Rp./kWh
 
 #### § 15
 
 <sup>1</sup> Der viertelstündliche Höchstwert der bezogenen Wirkleistung wird monatlich ermittelt und beträgt:
 
-- a) bis und mit 27 kW — 13.90 CHF/kW
-- b) ab 27 kW — 10.00 CHF/kW
+- a) bis und mit 27 kW — 14.80 CHF/kW
+- b) ab 27 kW — 10.80 CHF/kW
 
 #### § 16
 
 **Minimalentgelt**
 
-<sup>1</sup> Für jede Bezugsstelle werden mindestens CHF 50 pro Monat in Rechnung gestellt.
+<sup>1</sup> Für jede Verbrauchsstätte werden mindestens CHF 50 pro Monat in Rechnung gestellt.
 
 ### 2.
 
@@ -228,13 +231,13 @@ beschliesst:
 
 **Einfachtarif**
 
-<sup>1</sup> Für Baustellen und temporäre Netzanschlüsse mit einer Bezugsstelle mit einer Bezügersicherung bis und mit 100 A wird ein Einfachtarif festgelegt. Er beträgt 13.60 Rp./kWh.
+<sup>1</sup> Für Baustellen und temporäre Netzanschlüsse mit einer Bezugsstelle mit einer Bezügersicherung bis und mit 100 A wird ein Einfachtarif festgelegt. Er beträgt 13.90 Rp./kWh.
 
 #### § 23
 
 **Minimalentgelt**
 
-<sup>1</sup> Für jede Bezugsstelle werden mindestens CHF 10 pro Monat in Rechnung gestellt.
+<sup>1</sup> Für jede Verbrauchsstätte werden mindestens CHF 10 pro Monat in Rechnung gestellt.
 
 #### § 24
 
@@ -248,7 +251,7 @@ beschliesst:
 
 #### § 25
 
-<sup>1</sup> Ist die Installation einer Messeinrichtung unverhältnismässig, kann die IWB mit den Netznutzenden individuelle Pauschalen pro Bezugstelle vereinbaren.
+<sup>1</sup> Ist die Installation einer Messeinrichtung unverhältnismässig, kann die IWB mit den Netznutzenden individuelle Pauschalen pro Verbrauchsstätte vereinbaren.
 
 <sup>2</sup> Änderungen der vereinbarten Bezugssituation sind der IWB schriftlich zu melden.
 
@@ -266,8 +269,8 @@ beschliesst:
 
 <sup>1</sup> Der Doppeltarif beträgt:
 
-- a) als Normaltarif — 4.80 Rp./kWh
-- b) als Spartarif — 3.20 Rp./kWh
+- a) als Normaltarif — 4.90 Rp./kWh
+- b) als Spartarif — 3.30 Rp./kWh
 
 #### § 28
 
@@ -297,20 +300,20 @@ beschliesst:
 
 <sup>1</sup> Der Doppeltarif beträgt:
 
-- a) als Normaltarif — 3.40 Rp./kWh
-- b) als Spartarif — 2.20 Rp./kWh
+- a) als Normaltarif — 3.50 Rp./kWh
+- b) als Spartarif — 2.30 Rp./kWh
 
 #### § 32
 
 **Leistungstarif**
 
-<sup>1</sup> Der viertelstündliche Höchstwert der bezogenen Wirkleistung wird monatlich ermittelt und mit 6.30 CHF/kW verrechnet.
+<sup>1</sup> Der viertelstündliche Höchstwert der bezogenen Wirkleistung wird monatlich ermittelt und mit 6.40 CHF/kW verrechnet.
 
 #### § 33
 
 **Minimalentgelt**
 
-<sup>1</sup> Für jede Bezugsstelle werden mindestens CHF 400 pro Monat in Rechnung gestellt.
+<sup>1</sup> Für jede Verbrauchsstätte werden mindestens CHF 400 pro Monat in Rechnung gestellt.
 
 ## V. Netznutzungsentgelt Netzebene «öffentlicher Verkehr» (Gleichspannungsebene)
 
@@ -318,33 +321,39 @@ beschliesst:
 
 <sup>1</sup> Die IWB schliesst mit Netznutzenden auf der Netzebene «öffentlicher Verkehr» individuelle Netznutzungsverträge ab.
 
-## V<sup>bis</sup>. Anschlussgebühren und Netzkostenbeiträge
+## V<sup>bis</sup>. Netzanschluss- und Netzkostenbeiträge
 
 #### § 34a
 
-**Anschlussgebühren der Netzebene 7 mit und ohne Grabarbeiten**
+**Netzanschlussbeiträge der Netzebene 7 mit und ohne Tiefbauarbeiten**
 
-<sup>1</sup> Für die Netzebene 7 gelten die Anschlussgebühren gemäss Anhang 2.
+<sup>1</sup> Auf Netzebene 7 setzt sich der Netzanschlussbeitrag aus einem Grundbetrag und einem Pauschalbetrag pro Meter Anschlussleitung (Meterpauschale) zusammen. Massgebend für die Höhe des Grundbetrages und die Meterpauschale auf Netzebene 7 sind die maximale Sicherungsgrösse des Anschlussüberstromunterbrechers, die maximal übertragbare Leistung sowie die Erforderlichkeit von Tiefbauarbeiten. Die Meterpauschale wird für jeden Meter Anschlussleitung (vom Netzanschlusspunkt bis zum Übergabepunkt) erhoben. Es gelten die Netzanschlussbeiträge gemäss Anhang 2.
 
 #### § 34b
 
-**Anschlussgebühren der Netzebene 3 oder 5**
+**Netzanschlussbeiträge der Netzebene 5 ohne und mit Tiefbauarbeiten**
 
-<sup>1</sup> Hochspannungskabel der Netzebene 3 oder 5 werden auf Kundschaftswunsch hin offeriert und gegen Aufwand verrechnet.
+<sup>1</sup> Auf Netzebene 5 setzt sich der Netzanschlussbeitrag aus einem Grundbetrag und einem Pauschalbetrag pro Meter Anschlussleitung (Meterpauschale) zusammen. Massgebend für die Höhe des Grundbetrages und der Meterpauschale auf Netzebene 5 sind der Leitungsquerschnitt sowie die Erforderlichkeit von Tiefbauarbeiten. Die Meterpauschale wird für jeden Meter Anschlussleitung (vom Netzanschlusspunkt bis zum Übergabepunkt) erhoben. Es gelten die Netzanschlussbeiträge gemäss Anhang 3.
 
 #### § 34c
 
 **Netzkostenbeiträge bei Ausspeisung ab Netzebenen 3, 5 oder 7**
 
-<sup>1</sup> Ab Netzebene 3 (Ausspeisung ab 150 / 50 kV-Netz) gilt ein Netzkostenbeitrag von CHF 20 pro kVA.
+<sup>1</sup> Ab Netzebene 3 gilt ein Netzkostenbeitrag von CHF 40 pro kVA.
 
-<sup>2</sup> Ab Netzebene 5 (Ausspeisung ab 12 kV-Netz, Stichleitung) gilt ein Netzkostenbeitrag von CHF 50 pro kVA.
+<sup>2</sup> Ab Netzebene 5 gilt ein Netzkostenbeitrag von CHF 150 pro kVA.
 
-<sup>3</sup> Ab Netzebene 5 für öffentlichen Verkehr (Ausspeisung ab 12 kV-Netz, Stichleitung) gilt ein Netzkostenbeitrag von CHF 50 pro kVA.
+<sup>3</sup> …
 
-<sup>4</sup> Ab Netzebene 7 (Ausspeisung ab 400 V / 500 V-Netz), Anschluss ab IWB-Trafostation auf der gleichen Parzelle, gilt ein Netzkostenbeitrag von CHF 60 pro kVA.
+<sup>4</sup> Ab Netzebene 7, Anschluss ab IWB-Trafostation auf der gleichen Parzelle, gilt ein Netzkostenbeitrag von CHF 160 pro kVA.
 
-<sup>5</sup> Ab Netzebene 7 (Ausspeisung ab 400 V / 500 V-Netz), Anschluss ab öffentlichem Raum, gilt ein Netzkostenbeitrag von CHF 100 pro kVA.
+<sup>5</sup> Ab Netzebene 7, Anschluss ab Allmend, gilt ein Netzkostenbeitrag von CHF 200 pro kVA.
+
+#### § 34d
+
+**Netzanschlussbeiträge der Netzebene 3**
+
+<sup>1</sup> Der Netzanschlussbeitrag auf Netzebene 3 richtet sich nach den effektiven Kosten des Netzanschlusses und wird in Form eines Pauschalbetrages erhoben.
 
 ## VI. Übergangs und Schlussbestimmungen
 
