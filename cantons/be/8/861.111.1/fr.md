@@ -4,13 +4,12 @@ number: "861.111.1"
 title: Ordonnance de Direction sur l’aide sociale dans le domaine de l’asile
 short: ODAA
 language: fr
-version: 2020-07-01
-valid_until: 2023-12-31
-version_adopted: 2020-06-10
+version: 2024-01-01
+version_adopted: 2023-12-12
 adopted: 2020-06-10
 in_force: 2020-07-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/861.111.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1895/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2975/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1895/pdf_file"
 
 (ODAA)
 
-du 10.06.2020 (état au 01.07.2020)
+du 10.06.2020 (état au 01.01.2024)
 
 La Direction de la santé, des affaires sociales et de l’intégration du canton de Berne,
 
@@ -39,14 +38,14 @@ arrête:
 
 <table>
 <tr><th>Unité d’assistance</th><th>Forfait par unité</th><th>Forfait par personne</th></tr>
-<tr><td>une personne</td><td>CHF 382</td><td>CHF 382</td></tr>
-<tr><td>deux personnes</td><td>CHF 702</td><td>CHF 351</td></tr>
-<tr><td>trois personnes</td><td>CHF 960</td><td>CHF 320</td></tr>
-<tr><td>quatre personnes</td><td>CHF 1160</td><td>CHF 290</td></tr>
-<tr><td>cinq personnes</td><td>CHF 1375</td><td>CHF 275</td></tr>
-<tr><td>six personnes</td><td>CHF 1554</td><td>CHF 259</td></tr>
-<tr><td>sept personnes</td><td>CHF 1708</td><td>CHF 244</td></tr>
-<tr><td>par personne supplémentaire</td><td>+ CHF 124</td><td></td></tr>
+<tr><td>une personne</td><td>CHF 393</td><td>CHF 393</td></tr>
+<tr><td>deux personnes</td><td>CHF 723</td><td>CHF 362</td></tr>
+<tr><td>trois personnes</td><td>CHF 989</td><td>CHF 330</td></tr>
+<tr><td>quatre personnes</td><td>CHF 1195</td><td>CHF 299</td></tr>
+<tr><td>cinq personnes</td><td>CHF 1416</td><td>CHF 283</td></tr>
+<tr><td>six personnes</td><td>CHF 1601</td><td>CHF 267</td></tr>
+<tr><td>sept personnes</td><td>CHF 1759</td><td>CHF 251</td></tr>
+<tr><td>par personne supplémentaire</td><td>+ CHF 128</td><td></td></tr>
 </table>
 
 #### Art. 2
@@ -57,13 +56,13 @@ arrête:
 
 <table>
 <tr><th>Taille du ménage</th><th>Forfait par ménage</th><th>Forfait par personne</th></tr>
-<tr><td>une personne</td><td>CHF 696</td><td>CHF 696</td></tr>
-<tr><td>deux personnes</td><td>CHF 1065</td><td>CHF 533</td></tr>
-<tr><td>trois personnes</td><td>CHF 1295</td><td>CHF 432</td></tr>
-<tr><td>quatre personnes</td><td>CHF 1489</td><td>CHF 372</td></tr>
-<tr><td>cinq personnes</td><td>CHF 1684</td><td>CHF 337</td></tr>
-<tr><td>six personnes</td><td>CHF 1825</td><td>CHF 304</td></tr>
-<tr><td>par personne supplémentaire</td><td>+ CHF 141</td><td></td></tr>
+<tr><td>une personne</td><td>CHF 717</td><td>CHF 717</td></tr>
+<tr><td>deux personnes</td><td>CHF 1097</td><td>CHF 549</td></tr>
+<tr><td>trois personnes</td><td>CHF 1334</td><td>CHF 445</td></tr>
+<tr><td>quatre personnes</td><td>CHF 1534</td><td>CHF 384</td></tr>
+<tr><td>cinq personnes</td><td>CHF 1735</td><td>CHF 347</td></tr>
+<tr><td>six personnes</td><td>CHF 1880</td><td>CHF 313</td></tr>
+<tr><td>par personne supplémentaire</td><td>+ CHF 145</td><td></td></tr>
 </table>
 
 #### Art. 3
@@ -75,8 +74,8 @@ arrête:
 - a jusqu’à 11 ans révolus — CHF 60 au plus
 - b jusqu’à 14 ans révolus — de CHF 70 à 90
 - c jusqu’à 16 ans révolus — de CHF 120 à 140
-- d jusqu’à 17 ans révolus — de CHF 140 à 180
-- e dès 18 ans — de CHF 180 à 200
+- d jusqu’à 17 ans révolus — de CHF 140 à 190
+- e dès 18 ans — de CHF 190 à 210
 
 #### Art. 4
 
@@ -87,15 +86,15 @@ arrête:
 - a jusqu’à 11 ans révolus — CHF 60 au plus
 - b jusqu’à 14 ans révolus — de CHF 70 à 90
 - c jusqu’à 16 ans révolus — de CHF 120 à 140
-- d jusqu’à 17 ans révolus — de CHF 140 à 180
+- d jusqu’à 17 ans révolus — de CHF 140 à 190
 
-<sup>2</sup> Si une personne continue de vivre dans un foyer pour mineurs non accompagnés ou au sein d'une famille d’accueil après ses 17 ans révolus, le forfait pour ses frais d’habillement et d’hygiène ainsi que ses dépenses personnelles est fixé à 200 francs par mois au plus.
+<sup>2</sup> Si une personne continue de vivre dans un foyer pour mineurs non accompagnés ou au sein d'une famille d’accueil après ses 17 ans révolus, le forfait pour ses frais d’habillement et d’hygiène ainsi que ses dépenses personnelles est fixé à 210 francs par mois au plus.
 
 #### Art. 5
 
 **Pour les mineurs non accompagnés en communauté d’habitation**
 
-<sup>1</sup> Le forfait pour les frais de nourriture, d’habillement et d’hygiène ainsi que les dépenses personnelles en faveur des mineurs non accompagnés vivant dans une communauté d’habitation est fixé à 510 francs par mois au plus.
+<sup>1</sup> Le forfait pour les frais de nourriture, d’habillement et d’hygiène ainsi que les dépenses personnelles en faveur des mineurs non accompagnés vivant dans une communauté d’habitation est fixé à 525 francs par mois au plus.
 
 #### Art. 6
 
@@ -138,6 +137,14 @@ arrête:
 - h les frais d’acquisition du revenu indispensables à l’exercice de l’activité;
 - i les frais de formation indispensables à l’achèvement de celle-ci;
 - k les frais de traduction et d’interprétariat en lien avec des consultations médicales ou des mesures volontaires de protection de l’enfant et de l’adulte.
+
+## T1 Disposition transitoire de la modification du 12.12.2023
+
+#### Art. T1-1
+
+<sup>1</sup> D’ici le 1<sup>er</sup> mai 2024 au plus tard, les partenaires régionaux adaptent aux nouveaux montants fixés aux articles 1 et 2 les forfaits pour l’entretien à octroyer aux personnes qui, avant l’entrée en vigueur de la présente modification, percevaient déjà une aide matérielle en vertu de la loi du 3 décembre 2019 sur l’aide sociale dans le domaine de l’asile et des réfugiés (LAAR)[^T11-1]; ils versent aux ayants droit la différence entre les nouveaux et les anciens forfaits rétroactivement au 1<sup>er</sup> janvier 2024.
+
+[^T11-1]: RSB [861.1](https://www.belex.sites.be.ch/data/861.1/fr)
 
 Berne, le 10 juin 2020
 

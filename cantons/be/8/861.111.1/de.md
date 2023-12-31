@@ -4,13 +4,12 @@ number: "861.111.1"
 title: Direktionsverordnung über die Sozialhilfe im Asylbereich
 short: SADV
 language: de
-version: 2020-07-01
-valid_until: 2023-12-31
-version_adopted: 2020-06-10
+version: 2024-01-01
+version_adopted: 2023-12-12
 adopted: 2020-06-10
 in_force: 2020-07-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/861.111.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1895/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2975/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1895/pdf_file"
 
 (SADV)
 
-vom 10.06.2020 (Stand 01.07.2020)
+vom 10.06.2020 (Stand 01.01.2024)
 
 Die Gesundheits-, Sozial- und Integrationsdirektion des Kantons Bern,
 
@@ -35,18 +34,18 @@ beschliesst:
 
 **Für Personen in Kollektivunterkünften**
 
-<sup>1</sup> 1 Der Grundbedarf für den Lebensunterhalt wird unabhängig vom Alter nach Unterstützungseinheit festgelegt. Er beträgt pro Monat für Personen in Kollektivunterkünften für:
+<sup>1</sup> Der Grundbedarf für den Lebensunterhalt wird unabhängig vom Alter nach Unterstützungseinheit festgelegt. Er beträgt pro Monat für Personen in Kollektivunterkünften für:
 
 <table>
 <tr><th>Unterstützungseinheit</th><th>Pauschale pro Einheit</th><th>Pauschale pro Person</th></tr>
-<tr><td>eine Person</td><td>CHF 382</td><td>CHF 382</td></tr>
-<tr><td>zwei Personen</td><td>CHF 702</td><td>CHF 351</td></tr>
-<tr><td>drei Personen</td><td>CHF 960</td><td>CHF 320</td></tr>
-<tr><td>vier Personen</td><td>CHF 1160</td><td>CHF 290</td></tr>
-<tr><td>fünf Personen</td><td>CHF 1375</td><td>CHF 275</td></tr>
-<tr><td>sechs Personen</td><td>CHF 1554</td><td>CHF 259</td></tr>
-<tr><td>sieben Personen</td><td>CHF 1708</td><td>CHF 244</td></tr>
-<tr><td>jede weitere Person</td><td>plus CHF 124</td><td></td></tr>
+<tr><td>eine Person</td><td>CHF 393</td><td>CHF 393</td></tr>
+<tr><td>zwei Personen</td><td>CHF 723</td><td>CHF 362</td></tr>
+<tr><td>drei Personen</td><td>CHF 989</td><td>CHF 330</td></tr>
+<tr><td>vier Personen</td><td>CHF 1195</td><td>CHF 299</td></tr>
+<tr><td>fünf Personen</td><td>CHF 1416</td><td>CHF 283</td></tr>
+<tr><td>sechs Personen</td><td>CHF 1601</td><td>CHF 267</td></tr>
+<tr><td>sieben Personen</td><td>CHF 1759</td><td>CHF 251</td></tr>
+<tr><td>jede weitere Person</td><td>plus CHF 128</td><td></td></tr>
 </table>
 
 #### Art. 2
@@ -57,13 +56,13 @@ beschliesst:
 
 <table>
 <tr><th>Haushaltsgrösse</th><th>Pauschale pro Haushalt</th><th>Pauschale pro Person</th></tr>
-<tr><td>eine Person</td><td>CHF 696</td><td>CHF 696</td></tr>
-<tr><td>zwei Personen</td><td>CHF 1065</td><td>CHF 533</td></tr>
-<tr><td>drei Personen</td><td>CHF 1295</td><td>CHF 432</td></tr>
-<tr><td>vier Personen</td><td>CHF 1489</td><td>CHF 372</td></tr>
-<tr><td>fünf Personen</td><td>CHF 1684</td><td>CHF 337</td></tr>
-<tr><td>sechs Personen</td><td>CHF 1825</td><td>CHF 304</td></tr>
-<tr><td>jede weitere Person</td><td>plus CHF 141</td><td></td></tr>
+<tr><td>eine Person</td><td>CHF 717</td><td>CHF 717</td></tr>
+<tr><td>zwei Personen</td><td>CHF 1097</td><td>CHF 549</td></tr>
+<tr><td>drei Personen</td><td>CHF 1334</td><td>CHF 445</td></tr>
+<tr><td>vier Personen</td><td>CHF 1534</td><td>CHF 384</td></tr>
+<tr><td>fünf Personen</td><td>CHF 1735</td><td>CHF 347</td></tr>
+<tr><td>sechs Personen</td><td>CHF 1880</td><td>CHF 313</td></tr>
+<tr><td>jede weitere Person</td><td>plus CHF 145</td><td></td></tr>
 </table>
 
 #### Art. 3
@@ -75,8 +74,8 @@ beschliesst:
 - a bis zum vollendeten 11. Altersjahr — höchstens CHF 60
 - b bis zum vollendeten 14. Altersjahr — CHF 70 bis 90
 - c bis zum vollendeten 16. Altersjahr — CHF 120 bis 140
-- d bis zum vollendeten 17. Altersjahr — CHF 140 bis 180
-- e ab dem 18. Altersjahr — CHF 180 bis 200
+- d bis zum vollendeten 17. Altersjahr — CHF 140 bis 190
+- e ab dem 18. Altersjahr — CHF 190 bis 210
 
 #### Art. 4
 
@@ -87,15 +86,15 @@ beschliesst:
 - a bis zum vollendeten 11. Altersjahr — höchstens CHF 60
 - b bis zum vollendeten 14. Altersjahr — CHF 70 bis 90
 - c bis zum vollendeten 16. Altersjahr — CHF 120 bis 140
-- d bis zum vollendeten 17. Altersjahr — CHF 140 bis 180
+- d bis zum vollendeten 17. Altersjahr — CHF 140 bis 190
 
-<sup>2</sup> Verbleibt eine Person nach Vollendung ihres 17. Altersjahrs in einem Wohnheim für unbegleitete Minderjährige oder bei einer Pflegefamilie, beträgt ihre Pauschale für Bekleidung, Hygiene und persönliche Auslagen pro Monat höchstens 200 Franken.
+<sup>2</sup> Verbleibt eine Person nach Vollendung ihres 17. Altersjahrs in einem Wohnheim für unbegleitete Minderjährige oder bei einer Pflegefamilie, beträgt ihre Pauschale für Bekleidung, Hygiene und persönliche Auslagen pro Monat höchstens 210 Franken.
 
 #### Art. 5
 
 **Für unbegleitete Minderjährige in Wohngruppen**
 
-<sup>1</sup> Für unbegleitete Minderjährige in Wohngruppen beträgt die Pauschale für Verpflegung, Bekleidung, Hygiene und persönliche Auslagen pro Monat höchstens 510 Franken.
+<sup>1</sup> Für unbegleitete Minderjährige in Wohngruppen beträgt die Pauschale für Verpflegung, Bekleidung, Hygiene und persönliche Auslagen pro Monat höchstens 525 Franken.
 
 #### Art. 6
 
@@ -138,6 +137,14 @@ beschliesst:
 - h Erwerbsunkosten, soweit sie für die Ausübung der Tätigkeit unabdingbar sind,
 - i weitere Ausbildungsunkosten, soweit sie für das Absolvieren der Ausbildung unabdingbar sind,
 - k Kosten für Übersetzungen im Zusammenhang mit medizinischen Abklärungen oder mit freiwilligen Massnahmen im Kindes- und Erwachsenenschutz.
+
+## T1 Übergangsbestimmung der Änderung vom 12.12.2023
+
+#### Art. T1-1
+
+<sup>1</sup> Die regionalen Partner setzen den Grundbedarf für den Lebensunterhalt für Personen, die bereits vor Inkrafttreten dieser Änderung wirtschaftliche Hilfe gestützt auf die Bestimmungen des Gesetzes vom 3. Dezember 2019 über die Sozialhilfe im Asyl- und Flüchtlingsbereich (SAFG)[^T11-1] erhalten haben, aufgrund der in den Artikeln 1 und 2 geänderten Pauschalen bis 1. Mai 2024 neu fest und zahlen die Differenz zwischen dem neuen und dem alten Ansatz rückwirkend per 1. Januar 2024 an die berechtigte Person nach.
+
+[^T11-1]: BSG [861.1](https://www.belex.sites.be.ch/data/861.1/de)
 
 Bern, 10. Juni 2020
 
