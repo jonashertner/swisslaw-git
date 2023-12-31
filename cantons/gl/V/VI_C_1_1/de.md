@@ -4,13 +4,13 @@ number: VI C/1/1
 title: Steuergesetz
 short: StG
 language: de
-version: 2023-01-01
-valid_until: 2023-12-31
-version_adopted: 2023-05-07
+version: 2024-01-01
+valid_until: 2024-12-31
+version_adopted: 2023-10-03
 adopted: 2000-05-07
 in_force: 2001-01-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/VI-C.1.1"
-pdf: "https://gesetze.gl.ch/api/de/versions/2436/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2445/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2436/pdf_file"
 
 (StG)
 
-Vom 07.05.2000 (Stand 01.01.2023)
+Vom 07.05.2000 (Stand 01.01.2024)
 
 (Erlassen von der Landsgemeinde am 7. Mai 2000)
 
@@ -196,9 +196,9 @@ Vom 07.05.2000 (Stand 01.01.2023)
 
 <sup>2</sup> Ehegatten, die in rechtlich und tatsächlich ungetrennter Ehe leben, müssen beide die Voraussetzungen nach Absatz 1 erfüllen.
 
-<sup>3</sup> Die Steuer wird nach den jährlichen, in der Bemessungsperiode im In- und Ausland entstandenen Lebenshaltungskosten der steuerpflichtigen Person und der von ihr unterhaltenen Personen, mindestens aber nach dem höchsten der folgenden Beträge bemessen:
+<sup>3</sup> Die Steuer wird nach den jährlichen, in der Bemessungsperiode im In- und Ausland entstandenen Lebenshaltungskosten der steuerpflichtigen Person und der von ihr unterhaltenen Personen, mindestens aber nach dem höchsten der folgenden Beträge bemessen[^13-1]:
 
-- 1\. 400 000 Franken;
+- 1\. 429 100 Franken;
 - 2\. für Steuerpflichtige mit eigenem Haushalt: dem Siebenfachen des jährlichen Mietzinses oder Eigenmietwerts;
 - 3\. für die übrigen Steuerpflichtigen: dem Dreifachen des jährlichen Pensionspreises für Unterkunft und Verpflegung.
 - 4\.–6. …
@@ -217,6 +217,8 @@ Vom 07.05.2000 (Stand 01.01.2023)
 - 6\. der Einkünfte, für die die steuerpflichtige Person aufgrund eines von der Schweiz abgeschlossenen Abkommens zur Vermeidung der Doppelbesteuerung gänzliche oder teilweise Entlastung von ausländischen Steuern beansprucht.
 
 <sup>7</sup> Werden Einkünfte aus einem Staat nur dann von dessen Steuern entlastet, wenn die Schweiz diese Einkünfte allein oder mit anderen Einkünften zum Satz des Gesamteinkommens besteuert, so wird die Steuer nicht nur nach den in Absatz 6 bezeichneten Einkünften, sondern auch nach allen aufgrund des betreffenden Doppelbesteuerungsabkommens der Schweiz zugewiesenen Einkommensbestandteilen aus dem Quellenstaat bemessen.
+
+[^13-1]: Betrag geändert gemäss Art. 6 der Kantonalen Verordnung über die Kalte Progression, in Kraft seit 1. Januar 2024 (SBE 2023 32).
 
 #### Art. 14
 
@@ -370,6 +372,10 @@ Vom 07.05.2000 (Stand 01.01.2023)
 
 <sup>7</sup> Entspricht bei der Rückgabe von Beteiligungsrechten an einer Kapitalgesellschaft oder Genossenschaft, die an einer schweizerischen Börse kotiert ist, die Rückzahlung der Reserven aus Kapitaleinlagen nicht mindestens der Hälfte des erhaltenen Liquidationsüberschusses, so vermindert sich der steuerbare Anteil dieses Liquidationsüberschusses um die halbe Differenz zwischen diesem Anteil und der Rückzahlung, höchstens aber im Umfang der in der Gesellschaft vorhandenen Reserven aus Kapitaleinlagen, die auf diese Beteiligungsrechte entfallen.
 
+<sup>8</sup> Absatz 3 gilt für Einlagen und Aufgelder, die während eines Kapitalbands nach Artikel 653s bis Artikel 653v des Obligationenrechts (OR)[^20-1] geleistet werden, nur soweit sie die Rückzahlungen von Reserven im Rahmen dieses Kapitalbandes übersteigen.
+
+[^20-1]: SR 220
+
 #### Art. 20a
 
 **Besondere Fälle**
@@ -421,7 +427,7 @@ Vom 07.05.2000 (Stand 01.01.2023)
 
 #### Art. 24
 
-<sup>1</sup> Steuerfrei sind:
+<sup>1</sup> Steuerfrei sind[^24-1]:
 
 - 1\. der Erlös aus Bezugsrechten, sofern die Vermögensrechte zum Privatvermögen gehören;
 - 2\. Vermögensanfälle infolge Erbschaft, Vermächtnis, Schenkung oder güterrechtlicher Auseinandersetzung;
@@ -432,16 +438,17 @@ Vom 07.05.2000 (Stand 01.01.2023)
 - 7\. die Leistungen in Erfüllung familienrechtlicher Verpflichtungen, ausgenommen die Unterhaltsbeiträge gemäss Artikel 23 Ziffer 6 dieses Gesetzes;
 - 8\. der Sold für Militär- und Schutzdienst sowie das Taschengeld für Zivildienst;
 - 9\. die Zahlung von Genugtuungssummen;
-- 9a. der Sold der Milizfeuerwehrleute bis zum Betrag von 5200 Franken für Dienstleistungen im Zusammenhang mit der Erfüllung der Kernaufgaben der Feuerwehr, wie Übungen, Pikettdienste, Kurse, Inspektionen und Ernstfalleinsätze zur Rettung, Brandbekämpfung, allgemeine Schadenwehr, Elementarschadenbewältigung. Ausgenommen sind Pauschalzulagen für Kader sowie Funktionszulagen und Entschädigungen für administrative Arbeiten und für Dienstleistungen, welche die Feuerwehr freiwillig erbringt;
+- 9a. der Sold der Milizfeuerwehrleute bis zum Betrag von 5300 Franken für Dienstleistungen im Zusammenhang mit der Erfüllung der Kernaufgaben der Feuerwehr, wie Übungen, Pikettdienste, Kurse, Inspektionen und Ernstfalleinsätze zur Rettung, Brandbekämpfung, allgemeine Schadenwehr, Elementarschadenbewältigung. Ausgenommen sind Pauschalzulagen für Kader sowie Funktionszulagen und Entschädigungen für administrative Arbeiten und für Dienstleistungen, welche die Feuerwehr freiwillig erbringt;
 - 10\. die Einkünfte aufgrund der Bundesgesetzgebung über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung;
-- 11\. die Gewinne, die in Spielbanken mit Spielbankenspielen erzielt werden, die nach dem Geldspielgesetz vom 29. September 2017 (BGS)[^24-1] zugelassen sind, sofern diese Gewinne nicht aus selbstständiger Erwerbstätigkeit stammen;
-- 11a. die einzelnen Gewinne bis zum Betrag von 1 038 300 Franken aus der Teilnahme an Grossspielen, die nach dem BGS zugelassen sind, und aus der Online-Teilnahme an Spielbankenspielen, die nach dem BGS zugelassen sind;
+- 11\. die Gewinne, die in Spielbanken mit Spielbankenspielen erzielt werden, die nach dem Geldspielgesetz vom 29. September 2017 (BGS)[^24-2] zugelassen sind, sofern diese Gewinne nicht aus selbstständiger Erwerbstätigkeit stammen;
+- 11a. die einzelnen Gewinne bis zum Betrag von 1 056 600 Franken aus der Teilnahme an Grossspielen, die nach dem BGS zugelassen sind, und aus der Online-Teilnahme an Spielbankenspielen, die nach dem BGS zugelassen sind;
 - 11b. die Gewinne aus Kleinspielen, die nach dem BGS zugelassen sind;
-- 12\. die einzelnen Gewinne aus Lotterien und Geschicklichkeitsspielen zur Verkaufsförderung, die nach Artikel 1 Absatz 2 Buchstaben d und e BGS diesem nicht unterstehen, sofern die Grenze von 1000 Franken nicht überschritten wird.
-- 13\. Einkünfte aufgrund des Bundesgesetzes über Überbrückungsleistungen für ältere Arbeitslose[^24-2].
+- 12\. die einzelnen Gewinne aus Lotterien und Geschicklichkeitsspielen zur Verkaufsförderung, die nach Artikel 1 Absatz 2 Buchstaben d und e BGS diesem nicht unterstehen, sofern die Grenze von 1100 Franken nicht überschritten wird;
+- 13\. Einkünfte aufgrund des Bundesgesetzes über Überbrückungsleistungen für ältere Arbeitslose[^24-3].
 
-[^24-1]: SR 935.51
-[^24-2]: SR 837.2
+[^24-1]: Beträge geändert gemäss Art. 7 der Kantonalen Verordnung über die Kalte Progression, in Kraft seit 1. Januar 2024 (SBE 2023 32).
+[^24-2]: SR 935.51
+[^24-3]: SR 837.2
 
 ### 1.2.2.3. Ermittlung des Reineinkommens
 
@@ -479,8 +486,19 @@ Vom 07.05.2000 (Stand 01.01.2023)
 - 4\. die Zuwendungen an Vorsorgeeinrichtungen zugunsten des eigenen Personals, sofern jede zweckwidrige Verwendung ausgeschlossen ist;
 - 5\. Zinsen auf Geschäftsschulden sowie Zinsen, die auf Beteiligungen nach Artikel 18 Absatz 2 dieses Gesetzes entfallen;
 - 6\. die Kosten der berufsorientierten Aus- und Weiterbildung, einschliesslich Umschulungskosten, des eigenen Personals.
+- 7\. gewinnabschöpfende Sanktionen, soweit sie keinen Strafzweck haben.
 
-<sup>3</sup> Nicht abziehbar sind Zahlungen von Bestechungsgeldern im Sinne des schweizerischen Strafrechts an schweizerische oder fremde Amtsträger.
+<sup>3</sup> Nicht abziehbar sind insbesondere:
+
+- 1\. Zahlungen von Bestechungsgeldern im Sinne des schweizerischen Strafrechts;
+- 2\. Aufwendungen zur Ermöglichung von Straftaten oder als Gegenleistung für die Begehung von Straftaten;
+- 3\. Bussen und Geldstrafen;
+- 4\. finanzielle Verwaltungssanktionen, soweit sie einen Strafzweck haben.
+
+<sup>4</sup> Sind Sanktionen nach Absatz 3 Ziffer 3 und 4 von einer ausländischen Straf- oder Verwaltungsbehörde verhängt worden, so sind sie abziehbar, wenn:
+
+- 1\. die Sanktion gegen den schweizerischen Ordre public verstösst; oder
+- 2\. die steuerpflichtige Person glaubhaft darlegt, dass sie alles Zumutbare unternommen hat, um sich rechtskonform zu verhalten.
 
 #### Art. 28
 
@@ -520,7 +538,7 @@ Vom 07.05.2000 (Stand 01.01.2023)
 
 **Allgemeine Abzüge**
 
-<sup>1</sup> Von den Einkünften werden abgezogen:
+<sup>1</sup> Von den Einkünften werden abgezogen[^31-1]:
 
 - 1\. die privaten Schuldzinsen im Umfang der nach den Artikeln 20, 20a und 21 steuerbaren Vermögenserträge und weiterer 50 000 Franken. Nicht abzugsfähig sind Schuldzinsen für Darlehen, die eine Kapitalgesellschaft einer an ihrem Kapital massgeblich beteiligten oder ihr sonst wie nahe stehenden natürlichen Personen zu Bedingungen gewährt, die erheblich von den im Geschäftsverkehr unter Dritten üblichen Bedingungen abweichen;
 - 2\. die dauernden Lasten sowie 40 Prozent der bezahlten Leibrenten;
@@ -528,22 +546,26 @@ Vom 07.05.2000 (Stand 01.01.2023)
 - 4\. die gemäss Gesetz, Statut oder Reglement geleisteten Einlagen, Prämien und Beiträge zum Erwerb von Ansprüchen aus der Alters-, Hinterlassenen- und Invalidenversicherung und aus Einrichtungen der beruflichen Vorsorge;
 - 5\. Einlagen, Prämien und Beiträge zum Erwerb von vertraglichen Ansprüchen aus anerkannten Formen der gebundenen Selbstvorsorge im Sinn und im Umfang von Artikel 82 BVG;
 - 6\. die Prämien und Beiträge für die Erwerbsersatzordnung, die Arbeitslosenversicherung und die obligatorische Unfallversicherung;
-- 7\. die Einlagen, Prämien und Beiträge für die Lebens-, die Kranken- und die nicht unter Ziffer 6 fallende Unfallversicherung sowie die Zinsen von Sparkapitalien des Steuerpflichtigen und der von ihm unterhaltenen Personen, bis zum Gesamtbetrag von 6000 Franken für in ungetrennter Ehe lebende Steuerpflichtige und von bis zu 3000 Franken für die übrigen Steuerpflichtigen. Für Steuerpflichtige ohne Beiträge gemäss den Ziffern 4 und 5 erhöhen sich diese Ansätze um die Hälfte. Zudem erhöhen sich diese Abzüge um 1000 Franken für jedes Kind, für das der Steuerpflichtige einen Kinderabzug geltend machen kann;
+- 7\. die Einlagen, Prämien und Beiträge für die Lebens-, die Kranken- und die nicht unter Ziffer 6 fallende Unfallversicherung sowie die Zinsen von Sparkapitalien des Steuerpflichtigen und der von ihm unterhaltenen Personen, bis zum Gesamtbetrag von 6100 Franken für in ungetrennter Ehe lebende Steuerpflichtige und von bis zu 3100 Franken für die übrigen Steuerpflichtigen. Für Steuerpflichtige ohne Beiträge gemäss den Ziffern 4 und 5 erhöhen sich diese Ansätze um die Hälfte. Zudem erhöhen sich diese Abzüge um 1000 Franken für jedes Kind, für das der Steuerpflichtige einen Kinderabzug geltend machen kann;
 - 8\. die Krankheits- und Unfallkosten des Steuerpflichtigen und der von ihm unterhaltenen Personen, soweit der Steuerpflichtige die Kosten selbst trägt und diese 2 Prozent der Nettoeinkünfte übersteigen;
 - 8a. die behinderungsbedingten Kosten des Steuerpflichtigen oder der von ihm unterhaltenen Personen mit Behinderungen im Sinne des Behindertengleichstellungsgesetzes vom 13. Dezember 2002, soweit der Steuerpflichtige die Kosten selber trägt;
 - 9\. die freiwilligen Leistungen von Geld und übrigen Vermögenswerten an juristische Personen mit Sitz in der Schweiz, die im Hinblick auf ihre öffentlichen oder gemeinnützigen Zwecke von der Steuerpflicht befreit sind (Art. 60 Abs. 1 Ziff. 7), wenn diese Leistungen im Steuerjahr 100 Franken erreichen und insgesamt 20 Prozent der um die Aufwendungen (Art. 26–31) verminderten Einkünfte nicht übersteigen. Im gleichen Umfang abzugsfähig sind entsprechende freiwillige Leistungen an Bund, Kantone, Gemeinden und deren Anstalten (Art. 60 Abs. 1 Ziff. 1–4).
-- 10\. die nachgewiesenen Kosten, jedoch höchstens 25 000 Franken, für die Drittbetreuung jedes Kindes, welches das 14. Altersjahr noch nicht vollendet hat und mit der steuerpflichtigen Person, die für seinen Unterhalt sorgt, im gleichen Haushalt lebt, soweit diese Kosten in direktem und kausalem Zusammenhang mit der Erwerbstätigkeit, Ausbildung oder Erwerbsunfähigkeit der steuerpflichtigen Person stehen;
-- 11\. die Mitgliederbeiträge und Zuwendungen bis zum Gesamtbetrag von 10 300 Franken an politische Parteien, die:
+- 10\. die nachgewiesenen Kosten, jedoch höchstens 25 500 Franken, für die Drittbetreuung jedes Kindes, welches das 14. Altersjahr noch nicht vollendet hat und mit der steuerpflichtigen Person, die für seinen Unterhalt sorgt, im gleichen Haushalt lebt, soweit diese Kosten in direktem und kausalem Zusammenhang mit der Erwerbstätigkeit, Ausbildung oder Erwerbsunfähigkeit der steuerpflichtigen Person stehen;
+- 11\. die Mitgliederbeiträge und Zuwendungen bis zum Gesamtbetrag von 10 400 Franken an politische Parteien, die:
   - a. im Parteienregister nach Artikel 76a des Bundesgesetzes vom 17. Dezember 1976 über die politischen Rechte eingetragen sind,
   - b. in einem kantonalen Parlament vertreten sind, oder
   - c. in einem Kanton bei den letzten Wahlen des kantonalen Parlaments mindestens 3 Prozent der Stimmen erreicht haben.
-- 12\. die Kosten der berufsorientierten Aus- und Weiterbildung, einschliesslich der Umschulungskosten, bis zum Gesamtbetrag von 12 700 Franken, sofern:
+- 12\. die Kosten der berufsorientierten Aus- und Weiterbildung, einschliesslich der Umschulungskosten, bis zum Gesamtbetrag von 12 900 Franken, sofern:
   - a. ein erster Abschluss auf der Sekundarstufe II vorliegt, oder
   - b. das 20. Altersjahr vollendet ist und soweit es sich nicht um die Ausbildungskosten bis zum ersten Abschluss auf der Sekundarstufe II handelt.
 
-<sup>2</sup> Leben Ehegatten in rechtlich und tatsächlich ungetrennter Ehe und erzielen beide ein Erwerbseinkommen, so werden vom niedrigeren Erwerbseinkommen 10 Prozent, jedoch mindestens 3500 Franken und höchstens 10'000 Franken abgezogen. Als Erwerbseinkommen gelten die steuerbaren Einkünfte aus unselbständiger oder selbständiger Erwerbstätigkeit abzüglich der Aufwendungen nach den Artikeln 26–29 und der allgemeinen Abzüge nach Absatz 1 Ziffern 4–6. Bei erheblicher Mitarbeit eines Ehegatten im Beruf, Geschäft oder Gewerbe des andern Ehegatten oder bei gemeinsamer selbständiger Erwerbstätigkeit wird jedem Ehegatten die Hälfte des gemeinsamen Erwerbseinkommens zugewiesen. Eine abweichende Aufteilung ist vom Ehepaar nachzuweisen.
+<sup>2</sup> Leben Ehegatten in rechtlich und tatsächlich ungetrennter Ehe und erzielen beide ein Erwerbseinkommen, so werden vom niedrigeren Erwerbseinkommen 10 Prozent, jedoch mindestens 3600 Franken und höchstens 10 200 Franken abgezogen. Als Erwerbseinkommen gelten die steuerbaren Einkünfte aus unselbständiger oder selbständiger Erwerbstätigkeit abzüglich der Aufwendungen nach den Artikeln 26–29 und der allgemeinen Abzüge nach Absatz 1 Ziffern 4–6. Bei erheblicher Mitarbeit eines Ehegatten im Beruf, Geschäft oder Gewerbe des andern Ehegatten oder bei gemeinsamer selbständiger Erwerbstätigkeit wird jedem Ehegatten die Hälfte des gemeinsamen Erwerbseinkommens zugewiesen. Eine abweichende Aufteilung ist vom Ehepaar nachzuweisen[^31-2].
 
-<sup>3</sup> Von den einzelnen Gewinnen aus der Teilnahme an Geldspielen, welche nicht nach Artikel 24 Ziffern 11–12 steuerfrei sind, werden 5 Prozent, jedoch höchstens 5200 Franken, als Einsatzkosten abgezogen. Von den einzelnen Gewinnen aus der Online-Teilnahme an Spielbankenspielen nach Artikel 24 Ziffer 11a werden die vom Online-Spielerkonto abgebuchten Spieleinsätze im Steuerjahr, jedoch höchstens 26 000 Franken abgezogen.
+<sup>3</sup> Von den einzelnen Gewinnen aus der Teilnahme an Geldspielen, welche nicht nach Artikel 24 Ziffern 11–12 steuerfrei sind, werden 5 Prozent, jedoch höchstens 5300 Franken, als Einsatzkosten abgezogen. Von den einzelnen Gewinnen aus der Online-Teilnahme an Spielbankenspielen nach Artikel 24 Ziffer 11a werden die vom Online-Spielerkonto abgebuchten Spieleinsätze im Steuerjahr, jedoch höchstens 26 400 Franken abgezogen[^31-3].
+
+[^31-1]: Beträge geändert gemäss Art. 3 Abs. 1–4 der Kantonalen Verordnung über die Kalte Progression, in Kraft seit 1. Januar 2024 (SBE 2023 32).
+[^31-2]: Beträge geändert gemäss Art. 3 Abs. 5 der Kantonalen Verordnung über die Kalte Progression, in Kraft seit 1. Januar 2024 (SBE 2023 32).
+[^31-3]: Beträge geändert gemäss Art. 3 Abs. 6 der Kantonalen Verordnung über die Kalte Progression, in Kraft seit 1. Januar 2024 (SBE 2023 32).
 
 #### Art. 32
 
@@ -561,11 +583,11 @@ Vom 07.05.2000 (Stand 01.01.2023)
 
 **Sozialabzüge**
 
-<sup>1</sup> Vom Reineinkommen werden für die Steuerberechnung abgezogen:
+<sup>1</sup> Vom Reineinkommen werden für die Steuerberechnung abgezogen[^33-1]:
 
 - 1\. als Kinderabzug:
-  - a. für minderjährige Kinder unter der elterlichen Sorge oder Obhut des Steuerpflichtigen sowie für volljährige Kinder, die in der schulischen oder beruflichen Ausbildung stehen und deren Unterhalt der Steuerpflichtige zur Hauptsache bestreitet, je 7000 Franken;
-  - b. für jedes unter der elterlichen Sorge oder Obhut des Steuerpflichtigen stehende oder volljährige Kind, das in der schulischen oder beruflichen Ausbildung steht und sich hiefür ständig am Ausbildungsort ausserhalb des Kantons aufhalten muss und dessen Unterhalt der Steuerpflichtige zur Hauptsache bestreitet; zusätzlich je 7000 Franken;
+  - a. für minderjährige Kinder unter der elterlichen Sorge oder Obhut des Steuerpflichtigen sowie für volljährige Kinder, die in der schulischen oder beruflichen Ausbildung stehen und deren Unterhalt der Steuerpflichtige zur Hauptsache bestreitet, je 7100 Franken;
+  - b. für jedes unter der elterlichen Sorge oder Obhut des Steuerpflichtigen stehende oder volljährige Kind, das in der schulischen oder beruflichen Ausbildung steht und sich hiefür ständig am Ausbildungsort ausserhalb des Kantons aufhalten muss und dessen Unterhalt der Steuerpflichtige zur Hauptsache bestreitet; zusätzlich je 7100 Franken;
   - c. stehen Kinder unter gemeinsamer elterlicher Sorge nicht gemeinsam besteuerter Eltern, kommt der Kinderabzug jenem Elternteil zu, der für das Kind Unterhaltsbeiträge gemäss Artikel 23 Ziffer 6 dieses Gesetzes erhält; werden keine Unterhaltsbeiträge geleistet, kommt der Kinderabzug jenem Elternteil zu, der für den Unterhalt des Kindes zur Hauptsache aufkommt und keinen Abzug gemäss Artikel 23 Ziffer 6 dieses Gesetzes beansprucht;
 - 2\. als weiterer Abzug für allein stehende AHV/IV-Rentner soweit das satzbestimmende Einkommen 30 000 Franken und das satzbestimmende Vermögen 300 000 Franken nicht übersteigt 2000 Franken;
 - 3\. als Unterstützungsabzug: für erwerbsunfähige oder beschränkt erwerbsfähige Personen, an deren Unterhalt der Steuerpflichtige mindestens in der Höhe des Abzuges beiträgt, je 2000 Franken;
@@ -575,45 +597,49 @@ Vom 07.05.2000 (Stand 01.01.2023)
 
 <sup>3</sup> Die Sozialabzüge gemäss Absatz 1 werden nach den Verhältnissen am Ende der Steuerperiode oder der Steuerpflicht festgelegt.
 
+[^33-1]: Beträge geändert gemäss Art. 4 der Kantonalen Verordnung über die Kalte Progression, in Kraft seit 1. Januar 2024 (SBE 2023 32).
+
 ### 1.2.2.4. Steuerberechnung
 
 #### Art. 34
 
 **Steuertarife**
 
-<sup>1</sup> Die einfache Einkommenssteuer beträgt (Grundtarif):
+<sup>1</sup> Die einfache Einkommenssteuer beträgt (Grundtarif)[^34-1]:
 
-- a. bis 10 000 Franken Einkommen
+- a. bis 10 200 Franken
   - 1\. Basis — ––.–– Franken
   - 2\. und für je weitere 100 Franken — 8.00 Franken
-- b. für 20 000 Franken Einkommen
-  - 1\. Basis — 800.00 Franken
+- b. für 20 400 Franken
+  - 1\. Basis — 816.00 Franken
   - 2\. und für je weitere 100 Franken — 11.00 Franken
-- c. für 30 000 Franken Einkommen
-  - 1\. Basis — 1 900.00 Franken
+- c. für 30 500 Franken
+  - 1\. Basis — 1931.67 Franken
   - 2\. und für je weitere 100 Franken — 13.00 Franken
-- d. für 50 000 Franken Einkommen
-  - 1\. Basis — 4 500.00 Franken
+- d. für 50 900 Franken
+  - 1\. Basis — 4581.00 Franken
   - 2\. und für je weitere 100 Franken — 15.00 Franken
-- e. für 100 000 Franken Einkommen
-  - 1\. Basis — 12 000.00 Franken
+- e. für 101 800 Franken
+  - 1\. Basis — 12 216.00 Franken
   - 2\. und für je weitere 100 Franken — 16.00 Franken
-- f. für 150 000 Franken Einkommen
-  - 1\. Basis — 20 000.00 Franken
+- f. für 152 600 Franken
+  - 1\. Basis — 20 346.67 Franken
   - 2\. und für je weitere 100 Franken — 17.50 Franken
-- g. für 250 000 Franken Einkommen
-  - 1\. Basis — 37 500.00 Franken
+- g. für 254 400 Franken
+  - 1\. Basis — 38 160.00 Franken
   - 2\. und für je weitere 100 Franken — 19.00 Franken
-- h. für 400 000 Franken Einkommen
-  - 1\. Basis — 66 000.00 Franken
+- h. für 407 000 Franken
+  - 1\. Basis — 67 155.00 Franken
   - 2\. und für je weitere 100 Franken — 21.00 Franken
-- i. für 450 000 Franken Einkommen
-  - 1\. Basis — 76 500.00 Franken
+- i. für 457 900 Franken
+  - 1\. Basis — 77 843.00 Franken
   - 2\. für höhere Einkommen beträgt der Satz einheitlich 17 Prozent.
 
-<sup>2</sup> Für in ungetrennter Ehe lebende Steuerpflichtige sowie für getrennt lebende, geschiedene, verwitwete und ledige Steuerpflichtige, die mit Kindern im Sinne von Artikel 33 dieses Gesetzes zusammenleben, ist für die Ermittlung des satzbestimmenden Einkommens das steuerbare Gesamteinkommen durch den Divisor 1,6 zu teilen.
+<sup>2</sup> Für in ungetrennter Ehe lebende Steuerpflichtige sowie für getrennt lebende, geschiedene, verwitwete und ledige Steuerpflichtige, die mit Kindern im Sinne von Artikel 33 dieses Gesetzes zusammenleben, ist für die Ermittlung des satzbestimmenden Einkommens das steuerbare Gesamteinkommen durch den Divisor 1,7 zu teilen.
 
 <sup>3</sup> …
+
+[^34-1]: Beträge geändert gemäss Art. 2 der Kantonalen Verordnung über die Kalte Progression, in Kraft seit 1. Januar 2024 (SBE 2023 32).
 
 #### Art. 35
 
@@ -745,14 +771,16 @@ Vom 07.05.2000 (Stand 01.01.2023)
 
 **Steuerfreie Beträge**
 
-<sup>1</sup> Vom Reinvermögen werden für die Berechnung des steuerbaren Vermögens abgezogen:
+<sup>1</sup> Vom Reinvermögen werden für die Berechnung des steuerbaren Vermögens abgezogen[^45-1]:
 
-- 1\. 75 000 Franken für alleinstehende Steuerpflichtige;
-- 2\. 150 000 Franken für gemeinsam steuerpflichtige Ehegatten sowie verwitwete, gerichtlich oder tatsächlich getrennt lebende, geschiedene und ledige Steuerpflichtige, die allein mit Kindern im Sinne von Artikel 33 dieses Gesetzes zusammenleben;
-- 3\. 25 000 Franken für jedes minderjährige, unter der elterlichen Sorge oder Obhut des Steuerpflichtigen stehende Kind;
-- 4\. zusätzlich 25 000 Franken für Steuerpflichtige, die mindestens eine halbe Rente der eidgenössischen Invalidenversicherung beziehen.
+- 1\. 76 300 Franken für alleinstehende Steuerpflichtige;
+- 2\. 152 600 Franken für gemeinsam steuerpflichtige Ehegatten sowie verwitwete, gerichtlich oder tatsächlich getrennt lebende, geschiedene und ledige Steuerpflichtige, die allein mit Kindern im Sinne von Artikel 33 dieses Gesetzes zusammenleben;
+- 3\. 25 400 Franken für jedes minderjährige, unter der elterlichen Sorge oder Obhut des Steuerpflichtigen stehende Kind;
+- 4\. zusätzlich 25 400 Franken für Steuerpflichtige, die mindestens eine halbe Rente der eidgenössischen Invalidenversicherung beziehen.
 
 <sup>2</sup> Die steuerfreien Beträge bemessen sich nach den Verhältnissen am Ende der Steuerperiode oder der Steuerpflicht.
+
+[^45-1]: Beträge geändert gemäss Art. 5 der Kantonalen Verordnung über die Kalte Progression, in Kraft seit 1. Januar 2024 (SBE 2023 32).
 
 #### Art. 46
 
@@ -1027,16 +1055,27 @@ Vom 07.05.2000 (Stand 01.01.2023)
 
 **Geschäftsmässig begründeter Aufwand**
 
-<sup>1</sup> Zum geschäftsmässig begründeten Aufwand gehören auch:
+<sup>1</sup> Zum geschäftsmässig begründeten Aufwand gehören insbesondere:
 
-- 1\. die Steuern, nicht aber Steuerbussen;
+- 1\. eidgenössische, kantonale und kommunale Steuern;
 - 2\. die Zuwendungen an Vorsorgeeinrichtungen zugunsten des eigenen Personals, sofern jede zweckwidrige Verwendung ausgeschlossen ist;
 - 3\. die freiwilligen Leistungen von Geld und übrigen Vermögenswerten bis zu 20 Prozent des Reingewinns an juristische Personen mit Sitz in der Schweiz, die im Hinblick auf ihre öffentlichen oder gemeinnützigen Zwecke von der Steuerpflicht befreit sind (Art. 60 Abs. 1 Ziff. 7), sowie an Bund, Kantone, Gemeinden und deren Anstalten (Art. 60 Abs. 1 Ziff. 1–4);
 - 4\. die Rabatte, Skonti, Umsatzbonifikationen und Rückvergütungen auf dem Entgelt für Lieferungen und Leistungen sowie zur Verteilung an die Versicherten bestimmte Überschüsse von Versicherungsgesellschaften;
 - 5\. die Rücklagen für künftige Forschungs- und Entwicklungsaufträge an Dritte bis zu 10 Prozent des steuerbaren Gewinns, insgesamt jedoch höchstens bis 1 Million Franken;
-- 6\. die Kosten der berufsorientierten Aus- und Weiterbildung, einschliesslich Umschulungskosten, des eigenen Personals.
+- 6\. die Kosten der berufsorientierten Aus- und Weiterbildung, einschliesslich Umschulungskosten, des eigenen Personals;
+- 7\. gewinnabschöpfende Sanktionen, soweit sie keinen Strafzweck haben.
 
-<sup>2</sup> Nicht zum geschäftsmässig begründeten Aufwand gehören Zahlungen von Bestechungsgeldern im Sinne des schweizerischen Strafrechts an schweizerische oder fremde Amtsträger.
+<sup>2</sup> Nicht zum geschäftsmässig begründeten Aufwand gehören insbesondere:
+
+- 1\. Zahlungen von Bestechungsgeldern im Sinne des schweizerischen Strafrechts;
+- 2\. Aufwendungen zur Ermöglichung von Straftaten oder als Gegenleistung für die Begehung von Straftaten;
+- 3\. Bussen;
+- 4\. finanzielle Verwaltungssanktionen, soweit sie einen Strafzweck haben.
+
+<sup>3</sup> Sind Sanktionen nach Absatz 3 Buchstaben c und d von einer ausländischen Straf- oder Verwaltungsbehörde verhängt worden, so sind sie abziehbar, wenn:
+
+- 1\. die Sanktion gegen den schweizerischen Ordre public verstösst; oder
+- 2\. die steuerpflichtige Person glaubhaft darlegt, dass sie alles Zumutbare unternommen hat, um sich rechtskonform zu verhalten.
 
 #### Art. 65
 
@@ -1245,6 +1284,8 @@ Vom 07.05.2000 (Stand 01.01.2023)
 
 <sup>3</sup> Wird eine juristische Person aufgelöst oder verlegt sie ihren Sitz, die Verwaltung, einen Geschäftsbetrieb oder eine Betriebsstätte ins Ausland, so werden die aus nicht versteuertem Gewinn gebildeten stillen Reserven zusammen mit dem Reingewinn des letzten Geschäftsjahrs besteuert.
 
+<sup>4</sup> Lautet der Geschäftsabschluss auf eine ausländische Währung, so ist der steuerbare Reingewinn in Franken umzurechnen. Massgebend ist der durchschnittliche Devisenkurs (Verkauf) der Steuerperiode.
+
 #### Art. 84
 
 **Bemessung des Eigenkapitals**
@@ -1252,6 +1293,8 @@ Vom 07.05.2000 (Stand 01.01.2023)
 <sup>1</sup> Das steuerbare Eigenkapital bemisst sich nach dem Stand am Ende der Steuerperiode.
 
 <sup>2</sup> Bei über- oder unterjährigen Geschäftsabschlüssen bestimmt sich die Höhe der Kapitalsteuer nach der Dauer des Geschäftsjahrs.
+
+<sup>3</sup> Lautet der Geschäftsabschluss auf eine ausländische Währung, so ist das steuerbare Eigenkapital in Franken umzurechnen. Massgebend ist der Devisenkurs (Verkauf) am Ende der Steuerperiode.
 
 #### Art. 85
 
