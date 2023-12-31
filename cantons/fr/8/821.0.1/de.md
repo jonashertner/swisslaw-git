@@ -4,13 +4,13 @@ number: "821.0.1"
 title: Gesundheitsgesetz
 short: GesG
 language: de
-version: 2020-07-01
-valid_until: 2023-12-31
-version_adopted: 2019-10-16
+version: 2024-01-01
+valid_until: 2024-12-31
+version_adopted: 2023-10-12
 adopted: 1999-11-16
 in_force: 2001-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/821.0.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/7213/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7915/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Gesundheitsgesetz
 
 (GesG)
 
-vom 16.11.1999 (Fassung in Kraft getreten am 01.07.2020)
+vom 16.11.1999 (Fassung in Kraft getreten am 01.01.2024)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -677,7 +677,7 @@ beschliesst:
 
 <sup>2</sup> Dieser Anspruch erstreckt sich weder auf die von der Gesundheitsfachperson zum persönlichen Gebrauch verfassten Notizen noch auf Daten, die Dritte betreffen und dem Berufsgeheimnis unterstehen.
 
-<sup>3</sup> Muss die Gesundheitsfachperson befürchten, dass die Einsichtnahme schwerwiegende Folgen für die Patientin oder den Patienten haben könnte, so kann sie verlangen, dass die Einsichtnahme nur in ihrer Gegenwart oder in Gegenwart einer anderen, von der Patientin oder dem Patienten bezeichneten Gesundheitsfachperson erfolgt.
+<sup>3</sup> Muss die Gesundheitsfachperson befürchten, dass die Einsichtnahme schwerwiegende Folgen für die Patientin oder den Patienten haben könnte, so kann sie vorschlagen, dass die Einsichtnahme nur in ihrer Gegenwart oder in Gegenwart einer anderen, von der Patientin oder vom Patienten bezeichneten Gesundheitsfachperson erfolgt.
 
 ### 4.4 Besondere medizinische Massnahmen
 

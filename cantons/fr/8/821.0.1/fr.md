@@ -4,13 +4,13 @@ number: "821.0.1"
 title: Loi sur la santé
 short: LSan
 language: fr
-version: 2020-07-01
-valid_until: 2023-12-31
-version_adopted: 2019-10-16
+version: 2024-01-01
+valid_until: 2024-12-31
+version_adopted: 2023-10-12
 adopted: 1999-11-16
 in_force: 2001-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/821.0.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7213/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7915/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Santé – L
 
 (LSan)
 
-du 16.11.1999 (version entrée en vigueur le 01.07.2020)
+du 16.11.1999 (version entrée en vigueur le 01.01.2024)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -677,7 +677,7 @@ Décrète:
 
 <sup>2</sup> Ce droit ne s'étend pas aux notes rédigées par le ou la professionnel-le de la santé exclusivement pour son usage personnel, ni aux données concernant des tiers couvertes par le secret professionnel.
 
-<sup>3</sup> Si le ou la professionnel-le de la santé a des raisons de craindre que la consultation du dossier ne puisse avoir de graves conséquences pour le patient ou la patiente, il ou elle peut demander que la consultation n'ait lieu qu'en sa présence ou celle d'un ou d'une autre professionnel-le désigné-e par le patient ou la patiente.
+<sup>3</sup> Si le ou la professionnel-le de la santé a des raisons de craindre que la consultation du dossier ne puisse avoir de graves conséquences pour le patient ou la patiente, il ou elle peut proposer que la consultation n'ait lieu qu'en sa présence ou celle d'un ou d'une autre professionnel-le désigné-e par le patient ou la patiente.
 
 ### 4.4 Mesures médicales spéciales
 
