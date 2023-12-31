@@ -4,13 +4,12 @@ number: "162.627"
 title: Règlement d’organisation de la Commission des améliorations foncières
 short: ROr CAF
 language: fr
-version: 2011-01-01
-valid_until: 2023-12-31
-version_adopted: 2010-10-08
+version: 2024-01-01
+version_adopted: 2023-10-31
 adopted: 2010-10-08
 in_force: 2011-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/162.627"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/133/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2980/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/133/pdf_file"
 
 (ROr CAF)
 
-du 08.10.2010 (état au 01.01.2011)
+du 08.10.2010 (état au 01.01.2024)
 
 La Commission des améliorations foncières du canton de Berne,
 
@@ -123,9 +122,11 @@ arrête:
 
 **Constitution de l’autorité appelée à statuer**
 
-<sup>1</sup> Pour chaque cas de recours à traiter, le greffier ou la greffière fait appel, en accord avec la personne assumant la présidence, en règle générale à deux juges spécialisés. Les connaissances professionnelles des juges spécialisés et leurs connaissances des lieux doivent être prises en considération.
+<sup>1</sup> Le greffier ou la greffière fait appel, en accord avec la personne assumant la présidence, à deux juges spécialisés. Les connaissances professionnelles des juges spécialisés et leurs connaissances des lieux doivent être prises en considération.
 
 <sup>2</sup> La personne assumant la présidence et les juges spécialisés constituent l’autorité appelée à statuer. Le greffier ou la greffière participe avec voix consultative.
+
+<sup>3</sup> La Commission des améliorations foncières statue dans une composition de trois juges. Le président, la présidente, le vice-président ou la vice-présidente statue en tant que juge unique lorsqu'une opposition ou un recours est retiré, devient sans objet ou est irrecevable.
 
 #### Art. 10
 
@@ -148,6 +149,8 @@ arrête:
 <sup>2</sup> Les cas simples et clairs peuvent être liquidés par voie de circulation. Si un membre n’est pas d’accord ou souhaite une délibération, la personne assumant la présidence convoque une séance.
 
 <sup>3</sup> La Commission des améliorations foncières statue à la majorité des voix. L’abstention est exclue.
+
+<sup>4</sup> Les décisions de radiation du rôle et les décisions de non-entrée en matière sont rendues par le président ou la présidente, ou le vice-président ou la vice-présidente, en tant que juge unique.
 
 #### Art. 12
 

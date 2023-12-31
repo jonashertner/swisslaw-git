@@ -4,13 +4,12 @@ number: "162.627"
 title: Geschäftsreglement der Bodenverbesserungskommission
 short: GeschR BVK
 language: de
-version: 2011-01-01
-valid_until: 2023-12-31
-version_adopted: 2010-10-08
+version: 2024-01-01
+version_adopted: 2023-10-31
 adopted: 2010-10-08
 in_force: 2011-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/162.627"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/133/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2980/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/133/pdf_file"
 
 (GeschR BVK)
 
-vom 08.10.2010 (Stand 01.01.2011)
+vom 08.10.2010 (Stand 01.01.2024)
 
 Die Bodenverbesserungskommission des Kantons Bern,
 
@@ -123,9 +122,11 @@ beschliesst:
 
 **Bildung des Spruchkörpers**
 
-<sup>1</sup> Die Gerichtsschreiberin oder der Gerichtsschreiber setzt nach Absprache mit der oder dem Vorsitzenden für jeden zu behandelnden Rechtsmittelfall in der Regel zwei Fachrichterinnen und Fachrichter ein. Bei der Einsetzung ist auf die fachlichen und örtlichen Kenntnisse der eingesetzten Personen zur Beurteilung des Rechtsmittelfalls zu achten.
+<sup>1</sup> Die Gerichtsschreiberin oder der Gerichtsschreiber setzt nach Absprache mit der oder dem Vorsitzenden die mitwirkenden zwei Fachrichterinnen und Fachrichter ein. Bei der Einsetzung ist auf die fachlichen und örtlichen Kenntnisse der eingesetzten Personen zur Beurteilung des Rechtsmittelfalls zu achten.
 
 <sup>2</sup> Die oder der Vorsitzende und die eingesetzten Fachrichterinnen und Fachrichter bilden den Spruchkörper. Die Gerichtsschreiberin oder der Gerichtsschreiber wirkt mit beratender Stimme mit.
+
+<sup>3</sup> Die Bodenverbesserungskommission urteilt in Dreierbesetzung. Die Präsidentin, der Präsident, die Vizepräsidentin oder der Vizepräsident entscheidet als Einzelrichterin oder als Einzelrichter, wenn eine Einsprache oder eine Beschwerde zurückgezogen oder gegenstandslos wird oder nicht darauf eingetreten werden kann.
 
 #### Art. 10
 
@@ -148,6 +149,8 @@ beschliesst:
 <sup>2</sup> Einfache und klare Fälle können auf dem Zirkulationsweg erledigt werden. Stimmt ein Mitglied nicht zu oder wünscht es eine Beratung, so setzt die oder der Vorsitzende eine Sitzung an.
 
 <sup>3</sup> Die Bodenverbesserungskommission entscheidet mit der Mehrheit der Stimmen. Stimmenthaltung ist nicht zulässig.
+
+<sup>4</sup> Abschreibungsverfügungen und Nichteintretensentscheide werden von der oder dem Vorsitzenden als Einzelrichterin oder als Einzelrichter entschieden.
 
 #### Art. 12
 
