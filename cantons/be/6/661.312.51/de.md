@@ -4,13 +4,12 @@ number: "661.312.51"
 title: "Verordnung über die Unterhalts-, Betriebs- und Verwaltungskosten von Grundstücken"
 short: VUBV
 language: de
-version: 2020-01-01
-valid_until: 2023-12-31
-version_adopted: 2019-09-04
+version: 2024-01-01
+version_adopted: 2023-10-18
 adopted: 1980-11-12
 in_force: 1981-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/661.312.51"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1699/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2872/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,17 +18,17 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1699/pdf_file"
 
 (VUBV)
 
-vom 12.11.1980 (Stand 01.01.2020)
+vom 12.11.1980 (Stand 01.01.2024)
 
 Der Regierungsrat des Kantons Bern,
 
-gestützt auf Artikel 34 Absatz 2 des Gesetzes vom 29. Oktober 1944 über die direkten Staats- und Gemeindesteuern (StG[^ingress-1]),
+gestützt auf Artikel 36 Absatz 4 des Steuergesetzes vom 21. Mai 2000 (StG)[^ingress-1],
 
 auf Antrag der Finanzdirektion,
 
 beschliesst:
 
-[^ingress-1]: Aufgehoben durch Steuergesetz vom 21. 5. 2000; BSG 661.11
+[^ingress-1]: BSG [661.11](https://www.belex.sites.be.ch/data/661.11/de)
 
 ## 1 Gegenstand des Abzuges
 
@@ -44,9 +43,7 @@ beschliesst:
 - c die Auslagen für den Ersatz bereits vorhandener Anlagen (sanitäre Einrichtungen, Kochherde, Heizeinrichtungen usw.), soweit sie keinen Mehrwert bewirken;
 - d die Einlagen in den Reparatur- und Erneuerungsfonds von Stockwerkeigentümergemeinschaften, sofern dessen Mittel nur zur Bestreitung von Unterhaltskosten für die Gemeinschaftsanlagen verwendet werden;
 - e der Gartenunterhalt (Pflege und Ersatz der Pflanzen, die das Jahr überdauern, Zaunreparaturen, Wegausbesserungen usw.), soweit es sich nicht um Privataufwand (Rasenmähen, Schneeräumen, Gartenreinigungs- und -räumungsarbeiten, Aufwand für Blumen- und Gemüsekulturen) handelt oder bei Fremdnutzung den Mietern dafür nicht gesondert Rechnung gestellt wird;
-- f Investitionen, die zur rationellen Energieverwendung oder zur Nutzung erneuerbarer Energien beitragen. Diese Massnahmen beziehen sich auf den Ersatz von veralteten und die erstmalige Anbringung von neuen Bauteilen oder Installationen in bestehenden Gebäuden;
-- g die Kosten denkmalpflegerischer Arbeiten, die die steuerpflichtige Person aufgrund gesetzlicher Vorschriften im Einvernehmen mit den Behörden oder auf deren Anordnung hin vorgenommen hat, soweit diese Arbeiten nicht subventioniert sind;
-- h die Rückbaukosten im Hinblick auf einen Ersatzneubau.
+- f–h …
 
 <sup>2</sup> Nicht abziehbar sind insbesondere:
 
@@ -57,9 +54,21 @@ beschliesst:
 
 #### Art. 1a
 
+**Investitionskosten, die dem Energiesparen und dem Umweltschutz dienen**
+
+<sup>1</sup> Als Investitionskosten, die dem Energiesparen und dem Umweltschutz dienen (Art. 36 Abs. 1a StG), gelten Aufwendungen für Massnahmen, die zur rationellen Energieverwendung oder zur Nutzung erneuerbarer Energien beitragen.
+
+<sup>2</sup> Diese Massnahmen beziehen sich mit Ausnahme derjenigen gemäss Artikel 36 Absatz 1c StG auf den Ersatz von veralteten und die erstmalige Anbringung von neuen Bauteilen oder Installationen in bestehenden Gebäuden.
+
+<sup>3</sup> Werden die Massnahmen durch öffentliche Gemeinwesen subventioniert, so kann die steuerpflichtige Person nur die Kosten abziehen, die sie selbst trägt.
+
+<sup>4–5</sup> …
+
+#### Art. 1b
+
 **Rückbaukosten im Hinblick auf einen Ersatzneubau**
 
-<sup>1</sup> Als abziehbare Rückbaukosten im Hinblick auf den Ersatzneubau (Art. 1 Abs. 1 Bst. h) gelten die Kosten der Demontage von Installationen, des Abbruchs des vorbestehenden Gebäudes sowie des Abtransports und der Entsorgung des Bauabfalls.
+<sup>1</sup> Als abziehbare Rückbaukosten im Hinblick auf einen Ersatzneubau (Art. 36 Abs. 1a StG) gelten die Kosten der Demontage von Installationen, des Abbruchs des vorbestehenden Gebäudes sowie des Abtransports und der Entsorgung des Bauabfalls.
 
 <sup>2</sup> Nicht abziehbar sind insbesondere die Kosten von Altlastensanierungen des Bodens sowie von Geländeverschiebungen, Rodungen, Planierungsarbeiten und Aushubarbeiten im Hinblick auf den Ersatzneubau.
 
@@ -69,7 +78,7 @@ beschliesst:
 
 <sup>5</sup> Als Ersatzneubau gilt ein Bau, der nach Abschluss des Rückbaus eines Wohngebäudes oder eines gemischt genutzten Gebäudes innert angemessener Frist auf dem gleichen Grundstück errichtet wird und eine gleichartige Nutzung aufweist.
 
-#### Art. 1b
+#### Art. 1c
 
 **Übertrag auf zwei nachfolgende Steuerperioden**
 

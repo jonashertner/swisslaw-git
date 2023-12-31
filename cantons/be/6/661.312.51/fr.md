@@ -4,13 +4,12 @@ number: "661.312.51"
 title: "Ordonnance concernant la défalcation des frais d'entretien, d'exploitation et de gérance d'immeubles"
 short: OFI
 language: fr
-version: 2020-01-01
-valid_until: 2023-12-31
-version_adopted: 2019-09-04
+version: 2024-01-01
+version_adopted: 2023-10-18
 adopted: 1980-11-12
 in_force: 1981-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/661.312.51"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1699/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2872/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,17 +18,17 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1699/pdf_file"
 
 (OFI)
 
-du 12.11.1980 (état au 01.01.2020)
+du 12.11.1980 (état au 01.01.2024)
 
 Le Conseil-exécutif du canton de Berne,
 
-vu l'article 34, 2<sup>e</sup> alinéa de la loi du 29 octobre 1944 sur les impôts directs de l'Etat et des communes (LI)[^ingress-1],
+vu l'article 36, alinéa 4 de la loi du 21 mai 2000 sur les impôts (LI)[^ingress-1],
 
 sur proposition de la Direction des finances,
 
 arrête:
 
-[^ingress-1]: RSB 661.11
+[^ingress-1]: RSB [661.11](https://www.belex.sites.be.ch/data/661.11/fr)
 
 ## 1 Objet de la défalcation
 
@@ -44,9 +43,7 @@ arrête:
 - c les dépenses pour le remplacement d'installations déjà existantes (installations sanitaires ou de chauffage, cuisinières, etc.), dans la mesure où il ne s'ensuit pas une plus-value;
 - d les versements dans des fonds de rénovations ou de réparations de propriétés par étages, lorsque ces affectations ne servent à couvrir que les frais d'entretien d'installations communes;
 - e l'entretien de jardins (soin et remplacement de plantes vivaces, réparation de clôtures, réfection de chemins, etc.), pour autant qu'il ne s'agisse pas de dépenses privées (p. ex. pour tondre le gazon, enlever la neige, nettoyer ou ranger le jardin, cultiver des fleurs ou des légumes) ou que, lors de remise en location, le coût ne soit pas facturé à part aux locataires;
-- f les investissements qui favorisent une consommation rationnelle de l'énergie ou le recours aux énergies renouvelables. Ces investissements concernent le remplacement d'éléments de construction ou d'installations vétustes et l'adjonction d'éléments de construction ou d'installations dans des bâtiments existants;
-- g les frais occasionnés par des travaux de restauration de monuments historiques que la personne contribuable entreprend en vertu des dispositions légales en accord avec les autorités ou sur leur ordre à condition que ces travaux ne soient pas subventionnés;
-- h les frais de démolition en vue d'une construction de remplacement.
+- f–h …
 
 <sup>2</sup> Ne sont pas déductibles en particulier:
 
@@ -57,9 +54,21 @@ arrête:
 
 #### Art. 1a
 
+**Frais d’investissement destinés à économiser l’énergie et à ménager l’environnement**
+
+<sup>1</sup> Sont réputés investissements destinés à économiser l’énergie et à ménager l’environnement (art.36, al. 1a LI) les frais encourus en vue de rationaliser la consommation d’énergie ou de recourir aux énergies renouvelables.
+
+<sup>2</sup> À l’exception de celles prévues à l’article 36, alinéa 1c LI, ces mesures concernent le remplacement d’éléments de construction ou d’installations vétustes et la première adjonction d’éléments de construction ou d’installations dans des bâtiments existants.
+
+<sup>3</sup> Si les mesures sont subventionnées par la collectivité publique, la personne contribuable ne peut déduire que les frais qu’elle assume elle-même.
+
+<sup>4–5</sup> …
+
+#### Art. 1b
+
 **Frais de démolition en vue d'une construction de remplacement**
 
-<sup>1</sup> Sont déductibles au titre de frais de démolition en vue d’une construction de remplacement (art. 1, al. 1, lit. h) les frais de démontage d’installations, de démolition du bâtiment existant, ainsi que d’enlèvement et d’élimination des déchets de chantier.
+<sup>1</sup> Sont déductibles au titre de frais de démolition en vue d’une construction de remplacement (art. 36, al. 1a LI) les frais de démontage d’installations, de démolition du bâtiment existant, ainsi que d’enlèvement et d’élimination des déchets de chantier.
 
 <sup>2</sup> Ne sont en particulier pas déductibles les frais de décontamination du sol, de terrassement, de défrichage, de nivellement et d’excavation nécessaires à la construction de remplacement.
 
@@ -69,7 +78,7 @@ arrête:
 
 <sup>5</sup> Est réputée construction de remplacement une construction qui, à l’issue de la démolition d’un bâtiment d’habitation ou d’un bâtiment à affectation mixte, est érigée dans un délai approprié sur le même terrain et présente une affectation similaire.
 
-#### Art. 1b
+#### Art. 1c
 
 **Report sur les deux périodes fiscales suivantes**
 
@@ -81,7 +90,7 @@ arrête:
 
 <sup>4</sup> Si des frais sont reportés sur une période fiscale suivante, la personne contribuable ne peut pas non plus prétendre à la déduction forfaitaire pour cette période fiscale.
 
-<sup>5</sup> La personne contribuable qui déménage en Suisse ou transfert la propriété de l’immeuble après avoir réalisé la construction de remplacement conserve le droit de déduire le solde des frais pouvant être reportés. Cela vaut également si elle part à l'étranger, à condition qu'elle reste propriétaire de l'immeuble.
+<sup>5</sup> La personne contribuable qui déménage en Suisse ou transfère la propriété de l’immeuble après avoir réalisé la construction de remplacement conserve le droit de déduire le solde des frais pouvant être reportés. Cela vaut également si elle part à l'étranger, à condition qu'elle reste propriétaire de l'immeuble.
 
 #### Art. 2
 
@@ -135,7 +144,7 @@ arrête:
 
 <sup>3</sup> Le choix peut être fait pour chaque immeuble pris séparément.
 
-<sup>4</sup> Lorsque le contribuable déduit ses versements au fonds de réparations ou de rénovations d'une propriété par étages, il ne peut revendiquer de déduction forfaitaire pour les frais d'entretien, d'exploitation et de gérance.[^5-1]
+<sup>4</sup> Lorsque la personne contribuable déduit ses versements au fonds de réparation ou de rénovation d'une propriété par étages, elle ne peut revendiquer de déduction forfaitaire pour les frais d'entretien, d'exploitation et de gérance.[^5-1]
 
 [^5-1]: Ancien alinéa 3
 
