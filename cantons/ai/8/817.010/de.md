@@ -1,140 +1,150 @@
 ---
 canton: AI
 number: "817.010"
-title: Verordnung zum Bundesgesetz über Lebensmittel und Gebrauchsgegenstände
-short: LGV
+title: Einführungsverordnung zum Lebensmittelgesetz
+short: EV LMG
 language: de
-version: 2014-12-01
-corrected: 2018-09-04
-version_adopted: 2014-12-01
+version: 2024-01-01
+version_adopted: 2023-12-04
 adopted: 2023-12-04
 in_force: 2024-01-01
 url: "https://ai.clex.ch/app/de/texts_of_law/817.010"
-pdf: "https://ai.clex.ch/api/de/versions/777/pdf_file"
-text: pdf
+pdf: "https://ai.clex.ch/api/de/versions/2250/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung zum Bundesgesetz über Lebensmittel und Gebrauchsgegenstände (LGV)
+# Einführungsverordnung zum Lebensmittelgesetz
 
-vom 30. Oktober 19951
+(EV LMG)
 
-Der Grosse Rat des Kantons Appenzell I. Rh.,
+vom 04.12.2023 (Stand 01.01.2024)
 
-gestützt auf Art. 27 Abs. 1 der Kantonsverfassung vom 24. Wintermonat 1872 und Art. 39 des Bundesgesetzes über Lebensmittel und Gebrauchsgegenstände vom 9. Oktober 1992 (Lebensmittelgesetz, LMG),2
+Der Grosse Rat des Kantons Appenzell I.Rh.,
+
+gestützt auf Art. 27 Abs. 1 der Kantonsverfassung vom 24. Wintermonat 1872 und Art. 50 Abs. 1 des Bundesgesetzes über Lebensmittel und Gebrauchsgegenstände vom 20. Juni 2014 (Lebensmittelgesetz, LMG),
 
 beschliesst:
 
-### A. Geltungsbereich
-
-#### Art. 13
+#### Art. 1
 
 **Gegenstand**
 
-Die Verordnung regelt den Vollzug des Lebensmittelgesetzes, soweit er dem Kanton obliegt.
+<sup>1</sup> Diese Verordnung regelt den kantonalen Vollzug des Bundesrechts über Lebensmittel und Gebrauchsgegenstände.
 
-### B. Aufsicht und Organisation
+#### Art. 2
 
-#### Art. 24
+**Zuständigkeit des Kantons**
 
-**Aufsicht**
+<sup>1</sup> Der Kanton vollzieht das Bundesrecht über Lebensmittel und Gebrauchsgegenstände, soweit nach eidgenössischem und kantonalem Recht keine anderen Zuständigkeiten festgelegt sind.
 
-<sup>1</sup> Die Standeskommission wählt den Kantonschemiker\*, die Lebensmittelinspektoren sowie die Lebensmittelkontrolleure und erlässt einen Gebührentarif.
+#### Art. 3
 
-<sup>2</sup> Sie kann für den Vollzug der Lebensmittelkontrolle mit anderen Kantonen Vereinbarungen abschliessen.
+**Zusammenarbeit mit anderen Kantonen**
 
-<sup>3</sup> Das Gesundheits- und Sozialdepartement übt die unmittelbare Aufsicht über den Vollzug der Gesetzgebung über Lebensmittel und Gebrauchsgegenstände aus.
+<sup>1</sup> Die Standeskommission kann mit anderen Kantonen Vereinbarungen über einen gemeinsamen Vollzug und den Betrieb gemeinsamer Einrichtungen abschliessen.
 
-<sup>4</sup> Es genehmigt die Ausbildungsreglemente für die Lebensmittelkontrolleure.
+#### Art. 4
 
-#### Art. 31
+**Zuständigkeit der Bezirke**
 
-Vollzugsorgane <sup>1</sup>Die Lebensmittelkontrolle (einschliesslich die Trinkwasserkontrolle) wird vollzogen: und Aufgaben a) vom Kantonschemiker und den ihm unterstellten Laboratorien, Lebensmittelinspektoren und Lebensmittelkontrolleuren;
-
-- b) vom Kantonstierarzt und den ihm unterstellten kantonalen Behörden.
-
-<sup>2</sup> Im jeweiligen Zuständigkeitsbereich fallen namentlich folgende Aufgaben und Zuständigkeiten an:
-
-- a) die Durchführung der Kontrolle gemäss Art. 24 - Art. 27 LMG;
-
-- b) die Anordnung von Massnahmen gemäss Art. 28 - Art. 31 LMG;
-
-- c) die Bewilligungserteilung;
-
-- d) die Aus- und Weiterbildung der mit der Kontrolle betrauten Personen gemäss Art. 41 Abs. 2 LMG;
-
-- e) die Zusammenarbeit mit dem Bund;
-
-- f) die Information der Öffentlichkeit gemäss Art. 43 LMG.
-
-<sup>3</sup> Die Laboratorien untersuchen Lebensmittel und Gebrauchsgegenstände. Sie können, soweit erforderlich, weitere kantonale Fachstellen für besondere Aufgaben beiziehen.
-
-<sup>4</sup> Die Lebensmittelinspektoren vollziehen die Lebensmittelkontrolle im Aussendienst. Sie koordinieren und kontrollieren die Tätigkeit allfälliger Lebensmittelkontrolleure.
-
-<sup>5</sup> Die Vollzugsorgane der Lebensmittelkontrolle beurteilen die Gesuchsunterlagen für Neubauten, Umbauten und Einrichtungen von Betrieben, welche der Lebensmittelgesetzgebung unterstehen, auf deren Rechtmässigkeit.
-
-#### Art. 42
-
-Abgrenzung <sup>1</sup>Der Kantonschemiker leitet die Lebensmittelkontrolle, soweit sie nicht dem Kanzwischen den tonstierarzt übertragen ist.
-
-kantonalen <sup>2</sup>Der Kantonstierarzt leitet die Lebensmittelkontrolle im Bereich der Tierhaltung, der Zuständigkeiten Schlachtung und der Zerlegebetriebe, die einer Schlachtanlage angegliedert sind. Auf kantonstierärztlichen Antrag hin führt das kantonale Laboratorium soweit möglich mikrobiologische und chemische Untersuchungen im kantonstierärztlichen Zuständigkeitsbereich durch.
-
-<sup>3</sup> Der Kantonschemiker und der Kantonstierarzt koordinieren ihre Vollzugstätigkeit.
+<sup>1</sup> Die Bezirke können Fachpersonen für die Durchführung der Pilzkontrolle stellen.
 
 #### Art. 5
 
-Information über Die Betreiber von öffentlichen Wasserversorgungsanlagen informieren jährlich min-Trinkwasser destens einmal umfassend über die Qualität des Trinkwassers.
+**Aufsicht**
 
-#### Art. 61
+<sup>1</sup> Die Standeskommission übt die Aufsicht über den Vollzug des Bundesrechts über Lebensmittel und Gebrauchsgegenstände aus.
 
-**Pilzkontrolle**
+<sup>2</sup> Das Gesundheits- und Sozialdepartement nimmt die unmittelbare Aufsicht wahr, soweit der Vollzug der Kantonschemikerin oder dem Kantonschemiker obliegt.
 
-Die Bezirke können Pilzkontrolleure für die Durchführung der amtlichen Pilzkontrolle bestellen.
+<sup>3</sup> Das Land- und Forstwirtschaftsdepartement nimmt die unmittelbare Aufsicht wahr, soweit der Vollzug der Kantonstierärztin oder dem Kantonstierarzt obliegt.
 
-#### Art. 72
+<sup>4</sup> Die Standeskommission wählt die Kantonschemikerin oder den Kantonschemiker sowie die Kantonstierärztin oder den Kantonstierarzt.
 
-**Strafverfolgung**
+#### Art. 6
 
-<sup>1</sup> Die Strafverfolgung von Widerhandlungen gegen Vorschriften der Bundesgesetzgebung über Lebensmittel- und Gebrauchsgegenstände sowie gestützt darauf erlassener kantonaler Vollzugsbestimmungen und Verfügungen richtet sich nach der Strafprozessgesetzgebung.
+**Vollzugsbehörden**
 
-<sup>2</sup> Den Vollzugsorganen kommen bei der Erfüllung ihrer Vollzugsaufgaben sinngemäss die gleichen Befugnisse wie der Kantonspolizei zu. Namentlich untersuchen sie strafbare Handlungen im Bereich der Lebensmittelgesetzgebung, erheben die nötigen Beweismittel und verzeigen der Widerhandlung verdächtige Personen der Staatsanwaltschaft.
+<sup>1</sup> Vollzugsbehörde des Gesundheits- und Sozialdepartements ist das Interkantonale Labor, Vollzugsbehörde des Land- und Forstwirtschaftsdepartements ist das Veterinäramt.
 
-<sup>3</sup> Soweit erforderlich können die Vollzugsorgane die Mitwirkung der Kantonspolizei beanspruchen.
+<sup>2</sup> Das Interkantonale Labor ist zuständige Vollzugsbehörde, soweit der Vollzug des Bundesrechts über Lebensmittel und Gebrauchsgegenstände der Kantonschemikerin oder dem Kantonschemiker obliegt.
 
-### C. Gebühren
+<sup>3</sup> Das Veterinäramt ist zuständige Vollzugsbehörde, soweit der Vollzug des Bundesrechts über Lebensmittel und Gebrauchsgegenstände der Kantonstierärztin oder dem Kantonstierarzt obliegt.
+
+<sup>4</sup> Das Interkantonale Labor und das Veterinäramt koordinieren, sofern erforderlich, ihre Vollzugstätigkeiten und stellen sich gegenseitig die zur Erfüllung ihrer gesetzlichen Aufgaben benötigten Daten zur Verfügung.
+
+#### Art. 7
+
+**Vollzugsorgane und Zuständigkeiten**
+
+<sup>1</sup> Die Kantonschemikerin oder der Kantonschemiker vollzieht die Bundesgesetzgebung über Lebensmittel und Gebrauchsgegenstände, soweit nicht die Kantonstierärztin oder der Kantonstierarzt zuständig ist.
+
+<sup>2</sup> Die Kantonstierärztin oder der Kantonstierarzt ist in folgenden Bereichen zuständig:
+
+- a) Primärproduktion von Lebensmitteln tierischer Herkunft;
+- b) Schlachtung und Fleischkontrolle.
+
+<sup>3</sup> Die Kantonschemikerin oder der Kantonschemiker und die Kantonstierärztin oder der Kantonstierarzt können Aufgaben an die ihnen unterstellten Vollzugsorgane delegieren.
 
 #### Art. 8
 
-**Umfang**
+**Schlachttier- und Fleischuntersuchung**
 
-Die kantonalen Vollzugsorgane erheben für ihre Verwaltungstätigkeit Gebühren, soweit das eidgenössische Lebensmittelrecht dies zulässt.
+<sup>1</sup> Die Kantonstierärztin oder der Kantonstierarzt ernennt die Fleischkontrollorgane und organisiert die Fleischkontrolle.
+
+<sup>2</sup> Die Fleischkontrollorgane melden der Kantonstierärztin oder dem Kantonstierarzt Verstösse gegen die Tierschutz-, Tierseuchen-, Lebensmittel- und Heilmittelgesetzgebung.
 
 #### Art. 9
 
-**Entschädigung für Proben**
+**Schlachtung von krankem Schlachtvieh, Notschlachtung**
 
-<sup>1</sup> Auf Gesuch hin werden dem Betroffenen vom Kanton nicht beanstandete Proben gemäss Art. 25 Abs. 4 LMG zum Ankaufswert vergütet, sofern sie den vom Bundesrat festgelegten Mindestwert erreichen.
+<sup>1</sup> Die Schlachtung von krankem Schlachtvieh darf nur in den von der Kantonstierärztin oder dem Kantonstierarzt bezeichneten Schlachtbetrieben erfolgen.
 
-<sup>2</sup> Der Vergütungsanspruch erlischt ein Jahr nach Zustellung des Untersuchungsberichtes.
+<sup>2</sup> Krankes Schlachtvieh muss zeitlich oder örtlich getrennt von anderen Tieren geschlachtet werden. Die Schlachttierkörper sind bis zur abgeschlossenen Beurteilung durch die Fleischkontrollorgane getrennt von anderen Schlachtkörpern gekühlt aufzubewahren.
 
-Art. 10 - Art. 131
+<sup>3</sup> Die Bezirke sorgen dafür, dass für Notschlachtungen geeignete Anlagen zur Verfügung stehen. Für Notschlachtungen dürfen kostendeckende Gebühren in Rechnung gestellt werden.
 
-### D. Schlussbestimmung
+#### Art. 10
+
+**Ergebnisse von Trinkwasseruntersuchungen**
+
+<sup>1</sup> Die Vollzugsbehörde kann Ergebnisse von Trinkwasseruntersuchungen in geeigneter Form veröffentlichen.
+
+#### Art. 11
+
+**Öffentlich zugängliche Bäder**
+
+<sup>1</sup> Die Betreiberin oder der Betreiber eines öffentlich zugänglichen Bads informiert die Besucherinnen und Besucher über die Resultate der amtlichen und der im Rahmen der Selbstkontrolle durchgeführten Untersuchungen in geeigneter Form.
+
+<sup>2</sup> Als anerkannte Regeln der Technik gelten für öffentlich zugängliche Bäder grundsätzlich die Normen des Schweizerischen Ingenieur- und Architektenvereins (SIA).
+
+#### Art. 12
+
+**Gebühren und Entschädigungen**
+
+<sup>1</sup> Für behördliche Verrichtungen wie die Erteilung von Bewilligungen, Inspektionen, Kontrollen und weitere Dienstleistungen erheben die Vollzugsorgane nach Vorgabe des Bundesrechts Gebühren.
+
+<sup>2</sup> Die Standeskommission erlässt einen Gebührentarif für die Kontrolle von Lebensmitteln und Gebrauchsgegenständen sowie für die Schlachttier- und Fleischuntersuchung und regelt die Entschädigung der amtlich beauftragten Kontrollorgane.
+
+<sup>3</sup> Die Gebühren für die Kontrolle von Lebensmitteln und Gebrauchsgegenständen werden auf der Basis von Aufwandpunkten erhoben.
+
+#### Art. 13
+
+**Rechtsschutz**
+
+<sup>1</sup> Beschwerdeinstanz nach Art. 69 des Bundesgesetzes über Lebensmittel und Gebrauchsgegenstände vom 20. Juni 2014 ist die Standeskommission.
 
 #### Art. 14
 
-Inkrafttreten Diese Verordnung tritt nach Annahme durch den Grossen Rat am 1. Januar 1996 in Kraft.
+**Mitteilung von Strafentscheiden**
 
-## Weitere Fussnoten
+<sup>1</sup> Die Strafbehörden teilen abschliessende Strafentscheide, welche aufgrund der Strafbestimmungen der Lebensmittelgesetzgebung ergehen, den für den Vollzug des Bundesrechts über Lebensmittel und Gebrauchsgegenstände zuständigen Behörden mit.
 
-- [1] Mit Revisionen vom 25. Oktober 2004 und 1. Dezember 2014.
-- [2] Titel und Ingress abgeändert durch GrRB vom 25. Oktober 2004.
-- [3] Abgeändert durch GrRB vom 25. Oktober 2004.
-- [4] Abgeändert (Abs. 3) durch GrRB vom 25. Oktober 2004.
-- [*] Die Verwendung der männlichen Bezeichnungen gilt sinngemäss für beide Geschlechter.
-- [1] Abgeändert (Abs. 2 lit. a und b) durch GrRB vom 25. Oktober 2004.
-- [2] Abgeändert (Abs. 2) durch GrRB vom 25. Oktober 2004.
-- [1] Abgeändert durch GrRB vom 25. Oktober 2004.
-- [2] Abgeändert (Abs. 2) durch GrRB vom 25. Oktober 2004. Abgeändert (Abs. 1) durch GrRB vom 1. Dezember 2014.
-- [1] Aufgehoben durch GrRB vom 25. Oktober 2004.
+#### Art. 15
+
+**Inkrafttreten**
+
+<sup>1</sup> Diese Verordnung tritt am 1. Januar 2024 in Kraft.
+
+cGS 2023-21
