@@ -4,11 +4,11 @@ title: Ordinanza del 16 agosto 2017 concernente la vigilanza sulle attività inf
 short: OVAIn
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/497"
 language: it
-version: 2021-12-01
+version: 2024-01-01
 adopted: 2017-08-16
 in_force: 2017-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/497/20211201/it/xml/fedlex-data-admin-ch-eli-cc-2017-497-20211201-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/497/20211201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/497/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2017-497-20240101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/497/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/497/20211201/it"
 
 (OVAIn)
 
-del 16 agosto 2017 (Stato 1° dicembre 2021)
+del 16 agosto 2017 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -122,16 +122,21 @@ L’AVI-AIn presenta ogni anno, tramite il Dipartimento federale della difesa, d
 
 Per l’esercizio del suo mandato di controllo l’ACI può, in particolare, svolgere le seguenti attività:
 
-- a. verificare la legalità dei mandati di esplorazione radio che il SIC e il SIEs assegnano al Centro operazioni elettroniche (COE);
+- a.[^10-1] verificare la legalità dei mandati di esplorazione radio che il SIC e il SIEs assegnano al Servizio delle attività ciber ed elettromagnetiche (ACE);
 - b. esaminare le domande di esplorazione dei segnali via cavo, le decisioni sulle autorizzazioni e sui nullaosta nonché i mandati di esplorazione dei segnali via cavo;
-- c. esaminare i documenti del COE sulla pianificazione, la realizzazione e l’utilità dell’esplorazione radio e dell’esplorazione dei segnali via cavo;
+- c.[^10-2] esaminare i documenti dell’ACE sulla pianificazione, la realizzazione e l’utilità dell’esplorazione radio e dell’esplorazione dei segnali via cavo;
 - d. verificare i risultati dell’esplorazione radio e dell’esplorazione dei segnali via cavo mediante controlli a campione;
-- e. esaminare le procedure, i dati e i sistemi del COE, che può farsi documentare separatamente secondo le proprie istruzioni;
-- f. interrogare oralmente o per scritto i collaboratori del SIC, del SIEs e del COE.
+- e.[^10-3] esaminare le procedure, i dati e i sistemi dell’ACE, che può farsi documentare separatamente secondo le proprie istruzioni;
+- f.[^10-4] interrogare oralmente o per scritto i collaboratori del SIC, del SIEs e dell’ACE.
 
 <sup>2</sup> Controlla di regola ogni anno i mandati di esplorazione radio. Controlla l’esecuzione dei mandati di esplorazione dei segnali via cavo entro sei mesi dall’inizio dell’esplorazione. Se l’esecuzione di un mandato di esplorazione dei segnali via cavo dura più di sei mesi, effettua un controllo dell’esecuzione almeno una volta all’anno.
 
 <sup>3</sup> Presenta annualmente al DDPS un rapporto sulle proprie verifiche. Il DDPS trasmette il rapporto al Consiglio federale e lo informa sulle raccomandazioni dell’ACI e sulla loro attuazione.
+
+[^10-1]: Nuovo testo giusta il n. II 2 dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
+[^10-2]: Nuovo testo giusta il n. II 2 dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
+[^10-3]: Nuovo testo giusta il n. II 2 dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
+[^10-4]: Nuovo testo giusta il n. II 2 dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
 
 ## Sezione 4: Autorità di vigilanza cantonale
 

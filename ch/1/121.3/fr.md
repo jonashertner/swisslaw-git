@@ -4,11 +4,11 @@ title: Ordonnance du 16 août 2017 sur la surveillance des activités de renseig
 short: OSRens
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/497"
 language: fr
-version: 2021-12-01
+version: 2024-01-01
 adopted: 2017-08-16
 in_force: 2017-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/497/20211201/fr/xml/fedlex-data-admin-ch-eli-cc-2017-497-20211201-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/497/20211201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/497/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-497-20240101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/497/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/497/20211201/fr"
 
 (OSRens)
 
-du 16 août 2017 (Etat le 1<sup>er</sup> décembre 2021)
+du 16 août 2017 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -122,16 +122,21 @@ L’AS-Rens remet chaque année, par l’intermédiaire du Département fédéra
 
 L’OCI peut notamment procéder aux vérifications suivantes dans l’exercice de son mandat de contrôle:
 
-- a. contrôler la légalité des mandats d’exploration radio que le SRC et le SRA confient au Centre des opérations électroniques (COE);
+- a.[^10-1] contrôler la légalité des mandats d’exploration radio que le SRC et le SRA confient au service Actions dans le cyberespace et dans l’espace électromagnétique (ACEM);
 - b. consulter les demandes concernant l’exploration du réseau câblé, les décisions d’approbation et de validation et les mandats d’exploration du réseau câblé;
-- c. consulter les documents du COE relatifs à la planification, au développement et à l’utilité des mandats d’exploration radio et d’exploration du réseau câblé;
+- c.[^10-2] consulter les documents de l’ACEM relatifs à la planification, au développement et à l’utilité des mandats d’exploration radio et d’exploration du réseau câblé;
 - d. analyser ponctuellement les résultats obtenus par l’exploration radio et l’exploration du réseau câblé;
-- e. analyser les procédures, les données et les systèmes du COE; il peut les faire documenter séparément selon ses directives;
-- f. interroger, oralement ou par écrit, des collaborateurs du SRC, du SRA et du COE.
+- e.[^10-3] analyser les procédures, les données et les systèmes de l’ACEM qui, selon ses directives, peuvent être documentés séparément;
+- f.[^10-4] interroger, oralement ou par écrit, des collaborateurs du SRC, du SRA et de l’ACEM.
 
 <sup>2</sup> Il vérifie, en général annuellement, les mandats d’exploration radio. Il contrôle l’exécution des mandats d’exploration du réseau câblé dans les six mois qui suivent le début de l’exploration. Si la réalisation d’un mandat d’exploration du réseau câblé dure plus de six mois, l’OCI en contrôle l’exécution au moins une fois par année.
 
 <sup>3</sup> Il établit chaque année, à l’intention du DDPS, un rapport sur ses investigations. Le DDPS transmet le rapport au Conseil fédéral et l’informe des recommandations de l’OCI et de leur mise en œuvre.
+
+[^10-1]: Nouvelle teneur selon le ch. II 2 de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
+[^10-2]: Nouvelle teneur selon le ch. II 2 de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
+[^10-3]: Nouvelle teneur selon le ch. II 2 de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
+[^10-4]: Nouvelle teneur selon le ch. II 2 de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
 
 ## Section 4 Autorité cantonale de surveillance
 

@@ -4,11 +4,11 @@ title: Verordnung vom 16. August 2017 über die Aufsicht über die nachrichtendi
 short: VAND
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/497"
 language: de
-version: 2021-12-01
+version: 2024-01-01
 adopted: 2017-08-16
 in_force: 2017-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/497/20211201/de/xml/fedlex-data-admin-ch-eli-cc-2017-497-20211201-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/497/20211201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/497/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2017-497-20240101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/497/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/497/20211201/de"
 
 (VAND)
 
-vom 16. August 2017 (Stand am 1. Dezember 2021)
+vom 16. August 2017 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -122,16 +122,21 @@ Die AB-ND reicht den Entwurf ihres Budgets jährlich via das Eidgenössische Dep
 
 Die UKI kann zur Ausübung ihres Kontrollauftrags insbesondere folgende Prüfhandlungen durchführen:
 
-- a. Sie überprüft die Funkaufklärungsaufträge, die der NDB und der NDA dem Zentrum für elektronische Operationen (ZEO) erteilen, auf ihre Rechtmässigkeit.
+- a.[^10-1] Sie überprüft die Funkaufklärungsaufträge, die der NDB und der NDA dem Dienst für Cyber- und elektromagnetische Aktionen (CEA) erteilen, auf ihre Rechtmässigkeit.
 - b. Sie sieht die Anträge zur Kabelaufklärung, die Entscheide über Genehmigungen und Freigaben sowie die Kabelaufklärungsaufträge ein.
-- c. Sie sieht die Dokumente des ZEO zu Planung, Aufbau und Nutzen der Funk- und Kabelaufklärungsaufträge ein.
+- c.[^10-2] Sie sieht die Dokumente des CEA zu Planung, Aufbau und Nutzen der Funk- und Kabelaufklärungsaufträge ein.
 - d. Sie untersucht die Resultate der Funk- und Kabelaufklärung stichprobenweise.
-- e. Sie untersucht Abläufe, Daten und Systeme des ZEO, die sie sich nach ihren Weisungen separat dokumentieren lassen kann.
-- f. Sie kann die Mitarbeiterinnen und Mitarbeiter des NDB und des NDA sowie des ZEO mündlich oder schriftlich befragen.
+- e.[^10-3] Sie untersucht Abläufe, Daten und Systeme des CEA, die sie sich nach ihren Weisungen separat dokumentieren lassen kann.
+- f.[^10-4] Sie kann die Mitarbeiterinnen und Mitarbeiter des NDB, des NDA und des CEA mündlich oder schriftlich befragen.
 
 <sup>2</sup> Sie prüft die Funkaufklärungsaufträge in der Regel jährlich. Sie prüft den Vollzug der Kabelaufklärungsaufträge innerhalb von sechs Monaten ab Beginn der Aufklärung. Dauert die Ausführung eines Kabelaufklärungsauftrags länger als sechs Monate, so prüft sie den Vollzug mindestens jährlich.
 
 <sup>3</sup> Sie erstattet dem VBS jährlich Bericht über ihre Prüfungen. Das VBS stellt dem Bundesrat den Bericht zu und informiert ihn über die Empfehlungen der UKI sowie die Umsetzung der Empfehlungen.
+
+[^10-1]: Fassung gemäss Ziff. II 2 der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
+[^10-2]: Fassung gemäss Ziff. II 2 der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
+[^10-3]: Fassung gemäss Ziff. II 2 der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
+[^10-4]: Fassung gemäss Ziff. II 2 der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
 
 ## 4. Abschnitt: Kantonale Dienstaufsicht
 
