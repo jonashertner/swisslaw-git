@@ -4,11 +4,11 @@ title: Verordnung vom 8. Dezember 2017 über die Erstellung elektronischer öffe
 short: EÖBV
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/29"
 language: de
-version: 2023-10-01
+version: 2024-01-01
 adopted: 2017-12-08
 in_force: 2018-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/29/20231001/de/xml/fedlex-data-admin-ch-eli-cc-2018-29-20231001-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/29/20231001/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/29/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2018-29-20240101-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/29/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,16 +17,18 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/29/20231001/de"
 
 (EÖBV)
 
-vom 8. Dezember 2017 (Stand am 1. Oktober 2023)
+vom 8. Dezember 2017 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
-gestützt auf die Artikel 48 Absatz 5 des Zivilgesetzbuches[^ingress-1] und 55*a* Absatz 4 des Schlusstitels des Zivilgesetzbuches und die Artikel 929 und 929*a* des Obligationenrechts[^ingress-2],
+gestützt auf die Artikel 48 Absatz 5 des Zivilgesetzbuches und 55*a* Absatz 4 des Schlusstitels des Zivilgesetzbuches[^ingress-1], die Artikel 929 und 929*a* des Obligationenrechts[^ingress-2] und Artikel 33 Absatz 3 Buchstabe b des Geoinformationsgesetzes vom 5. Oktober 2007[^ingress-3],[^ingress-4]
 
 verordnet:
 
 [^ingress-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 [^ingress-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^ingress-3]: [SR 510.62](https://fedlex.data.admin.ch/eli/cc/2008/388)
+[^ingress-4]: Fassung gemäss Anhang Ziff. 3 der V vom 23. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
 
@@ -36,13 +38,15 @@ verordnet:
 
 <sup>1</sup>
 
-Diese Verordnung regelt im Bereich des Privatrechts die technischen Anforderungen und das Verfahren für die Erstellung von:
+Diese Verordnung regelt im Bereich des Privatrechts und der amtlichen Vermessung die technischen Anforderungen und das Verfahren für die Erstellung von:[^1-1]
 
 - a. elektronischen öffentlichen Urkunden, einschliesslich der elektronischen amtlichen Auszüge, Bestätigungen und Bescheinigungen aus öffentlichen Registern;
 - b. elektronischen Beglaubigungen von Kopien und Unterschriften;
 - c. Beglaubigungen von Papierausdrucken elektronischer Dokumente.
 
 <sup>2</sup> Sie soll sicherstellen, dass elektronische öffentliche Urkunden gleich sicher sind wie öffentliche Urkunden auf Papier und zwischen unterschiedlichen Informatiksystemen ausgetauscht werden können.
+
+[^1-1]: Fassung gemäss Anhang Ziff. 3 der V vom 23. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 2
 
@@ -56,13 +60,16 @@ In dieser Verordnung bedeuten:
 
   - 1\. freiberufliche Notarin oder freiberuflicher Notar,
   - 2\. Amtsnotarin oder Amtsnotar,
-  - 3\. Mitarbeiterin oder Mitarbeiter von Grundbuch-, Handelsregister-, oder Zivilstandsbehörden;
+  - 3\. Mitarbeiterin oder Mitarbeiter von Grundbuch-, Handelsregister-, oder Zivilstandsbehörden,
+  - 4\.[^2-1] Ingenieur-Geometerin oder Ingenieur-Geometer, die oder der im Geometerregister eingetragen ist und vom Kanton die Befugnis nach Artikel 46*a* Absatz 1 der Verordnung vom 18. November 1992[^2-2] über die amtliche Vermessung erhalten hat;
 
 - b. *Zulassungsbestätigung*: elektronischer Nachweis, wonach die Person, die eine elektronische öffentliche Urkunde oder eine elektronische Beglaubigung erstellt, im Zeitpunkt der Erstellung dazu befugt ist;
 - c. *Verbal*: Vermerk, in dem die Urkundsperson die Feststellungen festhält, die sie bei der Erstellung von elektronischen öffentlichen Urkunden und elektronischen Beglaubigungen macht;
-- d. *Zertifikat*: digitales Zertifikat einer gemäss Bundesgesetz vom 18. März 2016[^2-1] über die elektronische Signatur (ZertES) anerkannten Anbieterin von Zertifizierungsdiensten.
+- d. *Zertifikat*: digitales Zertifikat einer gemäss Bundesgesetz vom 18. März 2016[^2-3] über die elektronische Signatur (ZertES) anerkannten Anbieterin von Zertifizierungsdiensten.
 
-[^2-1]: [SR 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
+[^2-1]: Eingefügt durch Anhang Ziff. 3 der V vom 23. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
+[^2-2]: [SR 211.432.2](https://fedlex.data.admin.ch/eli/cc/1992/2446_2446_2446)
+[^2-3]: [SR 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
 
 #### Art. 3
 
@@ -424,7 +431,7 @@ II
 
 Die nachstehenden Verordnungen werden wie folgt geändert:
 
-…[^annexu1-lvlu1-2]
+...[^annexu1-lvlu1-2]
 
-[^annexu1-lvlu1-1]: [[AS 2011 4779](https://fedlex.data.admin.ch/eli/oc/2011/680); [2012 5433](https://fedlex.data.admin.ch/eli/oc/2012/627); [2016 4667](https://fedlex.data.admin.ch/eli/oc/2016/753)Anhang Ziff. II 11]
+[^annexu1-lvlu1-1]: [[AS 2011 4779](https://fedlex.data.admin.ch/eli/oc/2011/680), [2012 5433](https://fedlex.data.admin.ch/eli/oc/2012/627), [2016 4667](https://fedlex.data.admin.ch/eli/oc/2016/753)Anhang Ziff. II 11]
 [^annexu1-lvlu1-2]: Die Änderungen können unter [AS 2018 89](https://fedlex.data.admin.ch/eli/oc/2018/29)konsultiert werden.

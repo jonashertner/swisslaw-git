@@ -4,11 +4,11 @@ title: "Ordinanza dell' 8 dicembre 2017 sulla realizzazione di atti pubblici e a
 short: OAPuE
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/29"
 language: it
-version: 2023-10-01
+version: 2024-01-01
 adopted: 2017-12-08
 in_force: 2018-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/29/20231001/it/xml/fedlex-data-admin-ch-eli-cc-2018-29-20231001-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/29/20231001/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/29/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2018-29-20240101-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/29/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,16 +17,18 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/29/20231001/it"
 
 (OAPuE)
 
-dell’8 dicembre 2017 (Stato 1° ottobre 2023)
+dell’8 dicembre 2017 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
-visti gli articoli 48 capoverso 5 del Codice civile[^ingress-1] e 55*a* capoverso 4 del titolo finale del Codice civile nonché gli articoli 929 e 929*a* del Codice delle obbligazioni[^ingress-2],
+visti gli articoli 48 capoverso 5 del Codice civile e 55*a* capoverso 4 del titolo finale del Codice civile[^ingress-1]; visti gli articoli 929 e 929*a* del Codice delle obbligazioni[^ingress-2]; visto l’articolo 33 capoverso 3 lettera b della legge del 5 ottobre 2007[^ingress-3] sulla geoinformazione,[^ingress-4]
 
 ordina:
 
 [^ingress-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 [^ingress-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^ingress-3]: [RS 510.62](https://fedlex.data.admin.ch/eli/cc/2008/388)
+[^ingress-4]: Nuovo testo giusta l’all. n. 3 dell’O del 23 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 ## Sezione 1: Disposizioni generali
 
@@ -36,13 +38,15 @@ ordina:
 
 <sup>1</sup>
 
-La presente ordinanza disciplina, nell’ambito del diritto privato, i requisiti tecnici e la procedura per la realizzazione di:
+La presente ordinanza disciplina, nell’ambito del diritto privato e della misurazione ufficiale, i requisiti tecnici e la procedura per la creazione di:[^1-1]
 
 - a. atti pubblici in forma elettronica, compresi gli estratti, le conferme e le attestazioni in forma elettronica da registri pubblici;
 - b. autenticazioni elettroniche di copie e di firme;
 - c. autenticazioni di stampe di documenti elettronici.
 
 <sup>2</sup> Ha lo scopo di assicurare che gli atti pubblici in forma elettronica siano altrettanto sicuri di quelli cartacei e di permetterne lo scambio tra diversi sistemi informatici.
+
+[^1-1]: Nuovo testo giusta l’all. n. 3 dell’O del 23 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 2
 
@@ -56,13 +60,16 @@ Nella presente ordinanza s’intende per:
 
   - 1\. notai liberi professionisti,
   - 2\. notai pubblici,
-  - 3\. collaboratori di un’autorità del registro fondiario, del registro di commercio e del registro dello stato civile;
+  - 3\. collaboratori di un’autorità del registro fondiario, del registro di commercio e del registro dello stato civile,
+  - 4\.[^2-1] un ingegnere geometra iscritto nel registro dei geometri che ha ottenuto l’autorizzazione dal Cantone ai sensi dell’articolo 46*a* capoverso 1 dell’ordinanza del 18 novembre 1992[^2-2] concernente la misurazione ufficiale;
 
 - b. *conferma di ammissione*: prova elettronica che la persona che realizza un atto pubblico o un’autenticazione in forma elettronica ne è autorizzata al momento della realizzazione;
 - c. *verbale*: annotazione in cui il pubblico ufficiale verbalizza ciò che constata nel realizzare atti pubblici e autenticazioni in forma elettronica;
-- d. *certificato*: certificato digitale di un prestatore di servizi di certificazione riconosciuto ai sensi della legge del 18 marzo 2016[^2-1] sulla firma elettronica (FiEle).
+- d. *certificato*: certificato digitale di un prestatore di servizi di certificazione riconosciuto ai sensi della legge del 18 marzo 2016[^2-3] sulla firma elettronica (FiEle).
 
-[^2-1]: [RS 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
+[^2-1]: Introdotto dall’all. n. 3 dell’O del 23 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
+[^2-2]: [RS 211.432.2](https://fedlex.data.admin.ch/eli/cc/1992/2446_2446_2446)
+[^2-3]: [RS 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
 
 #### Art. 3
 
@@ -215,8 +222,6 @@ Allestisce una copia autentica in forma elettronica:
 #### Art. 12
 
 **Atti pubblici in forma elettronica da un registro pubblico**
-
-<sup>1</sup>
 
 Il pubblico ufficiale realizza un atto pubblico in forma elettronica da un registro pubblico:
 

@@ -4,11 +4,11 @@ title: "Ordonnance du 8 décembre 2017 sur l'établissement d'actes authentiques
 short: OAAE
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/29"
 language: fr
-version: 2023-10-01
+version: 2024-01-01
 adopted: 2017-12-08
 in_force: 2018-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/29/20231001/fr/xml/fedlex-data-admin-ch-eli-cc-2018-29-20231001-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/29/20231001/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/29/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2018-29-20240101-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/29/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,16 +17,18 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/29/20231001/fr"
 
 (OAAE)
 
-du 8 décembre 2017 (État le 1<sup>er</sup> octobre 2023)
+du 8 décembre 2017 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
-vu les art. 48, al. 5, du code civil[^ingress-1] et 55*a*, al. 4, titre final, du code civil, vu les art. 929 et 929*a* du code des obligations[^ingress-2],
+vu les art. 48, al. 5, du code civil et 55*a*, al. 4, du titre final du code civil[^ingress-1], vu les art. 929 et 929*a*, du code des obligations[^ingress-2], vu l’art. 33, al. 3, let. b, de la loi du 5 octobre 2007 sur la géoinformation[^ingress-3],[^ingress-4]
 
 arrête:
 
 [^ingress-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 [^ingress-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^ingress-3]: [RS 510.62](https://fedlex.data.admin.ch/eli/cc/2008/388)
+[^ingress-4]: Nouvelle teneur selon l’annexe ch. 3 de l’O du 23 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 ## Section 1 Dispositions générales
 
@@ -36,7 +38,7 @@ arrête:
 
 <sup>1</sup>
 
-La présente ordonnance règle, dans le domaine du droit privé, les exigences techniques ainsi que la procédure relatives à:
+La présente ordonnance règle, dans le domaine du droit privé et de la mensuration officielle, les exigences techniques ainsi que la procédure relatives à:[^1-1]
 
 - a. l’établissement des actes authentiques électroniques, y compris les extraits, attestations et certificats électroniques officiels tirés des registres publics;
 - b. la légalisation électronique de copies et de signatures;
@@ -44,24 +46,27 @@ La présente ordonnance règle, dans le domaine du droit privé, les exigences t
 
 <sup>2</sup> Elle vise à garantir que les actes authentiques électroniques offrent autant de sécurité que les actes authentiques sur papier et à permettre leur échange entre différents systèmes informatiques.
 
+[^1-1]: Nouvelle teneur selon l’annexe ch. 3 de l’O du 23 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
+
 #### Art. 2
 
 **Définitions**
-
-<sup>1</sup>
 
 Au sens de la présente ordonnance, on entend par:
 
 - a. *officier public:* une personne à laquelle le droit fédéral ou le droit cantonal octroie officiellement la compétence d’établir des actes authentiques électroniques ou de procéder à une légalisation électronique, soit
   - 1\. un notaire indépendant,
   - 2\. un notaire de fonction,
-  - 3\. un collaborateur d’une autorité du registre foncier, du registre du commerce ou de l’état civil;
+  - 3\. un collaborateur d’une autorité du registre foncier, du registre du commerce ou de l’état civil,
+  - 4\.[^2-1] un ingénieur géomètre inscrit au registre des géomètres, habilité par le canton en vertu de l’art. 46*a*, al. 1, de l’ordonnance du 18 novembre 1992 sur la mensuration officielle[^2-2];
 
 - b. *confirmation d’admission*: une preuve électronique que la personne qui établit un acte authentique électronique ou procède à une légalisation électronique dispose de la compétence de le faire au moment de cet établissement;
 - c. *formule de verbalisation*: formule par laquelle l’officier public verbalise ce qu’il constate lors de l’établissement d’un acte authentique électronique et d’une légalisation électronique.
-- d. *certificat*: certificat numérique d’un fournisseur de services de certification reconnu conformément à la loi fédérale du 18 mars 2016 sur la signature électronique (SCSE)[^2-1].
+- d. *certificat*: certificat numérique d’un fournisseur de services de certification reconnu conformément à la loi fédérale du 18 mars 2016 sur la signature électronique (SCSE)[^2-3].
 
-[^2-1]: [RS 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
+[^2-1]: Introduit par l’annexe ch. 3 de l’O du 23 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
+[^2-2]: [RS 211.432.2](https://fedlex.data.admin.ch/eli/cc/1992/2446_2446_2446)
+[^2-3]: [RS 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
 
 #### Art. 3
 
@@ -266,7 +271,7 @@ L’officier public légalise électroniquement une signature autographe ou un p
 
 **Légalisation électronique d’une signature électronique**
 
-L’officier public légalise de manière électronique une signature électronique en joignant au document électronique la formule de verbalisation constatant que la signature électronique;
+L’officier public légalise de manière électronique une signature électronique en joignant au document électronique la formule de verbalisation constatant que la signature électronique:
 
 - a. a été apposée en sa présence par le signataire, ou
 - b. a été reconnue par le signataire comme étant une signature électronique qu’il a lui-même insérée.
@@ -289,7 +294,7 @@ L’officier public légalise de manière électronique une signature électroni
 
 L’OFJ met à disposition un programme ou des parties de programme qui comprennent les fonctions de programme en lien avec la vérification ainsi que l’obtention et l’insertion des confirmations d’admission.[^18-1]
 
-[^18-1]: Le programme ou les parties de programme peuvent être obtenus auprès de l’OFJ sous www.openegov.admin.ch &gt; Produits Open eGov &gt; Signature.
+[^18-1]: Le programme ou les parties de programme peuvent être obtenus auprès de l’OFJ sous [www.openegov.admin.ch](http://www.openegov.admin.ch) &gt; Produits Open eGov &gt; Signature.
 
 ## Section 6 Système de validation
 
@@ -383,7 +388,7 @@ Le DFJP règle le moyen par lequel les offices du registre du commerce et les of
 
 <sup>1</sup>
 
-En dérogation aux art. 10 et 13, les règles suivantes peuvent être appliquées à l’établissement d’une copie électronique légalisée d’un document sur papier à des fins de conservation jusqu'au 31 décembre 2022:
+En dérogation aux art. 10 et 13, les règles suivantes peuvent être appliquées à l’établissement d’une copie électronique légalisée d’un document sur papier à des fins de conservation jusqu’au 31 décembre 2022:
 
 - a. les copies électroniques issues de la numérisation des documents sur papier doivent être munies d’une signature électronique qualifiée au sens de l’art. 2, let. e et j, SCSE[^27-2].
 - b.
