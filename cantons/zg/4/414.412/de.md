@@ -4,13 +4,12 @@ number: "414.412"
 title: Verordnung über die Gebühren an der Pädagogischen Hochschule Zug
 short: PHGeb
 language: de
-version: 2015-08-01
-valid_until: 2023-12-31
-version_adopted: 2015-03-03
+version: 2024-01-01
+version_adopted: 2024-05-07
 adopted: 2013-07-09
 in_force: 2013-08-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/414.412"
-pdf: "https://bgs.zg.ch/api/de/versions/1417/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2570/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.zg.ch/api/de/versions/1417/pdf_file"
 
 (PHGeb)
 
-Vom 9. Juli 2013 (Stand 1. August 2015)
+Vom 9. Juli 2013 (Stand 1. Januar 2024)
 
 Der Regierungsrat des Kantons Zug,
 
@@ -86,6 +85,12 @@ beschliesst:
 
 <sup>2</sup> Sofern kein Studienunterbruch erfolgt, wird bei einem Wechsel des Studiengangs keine zusätzliche Einschreibegebühr erhoben.
 
+#### § 7a
+
+**Bearbeitung von Gesuchen zur Anerkennung von Vorleistungen**
+
+<sup>1</sup> Die Gebühr für die Bearbeitung von Gesuchen zur Anerkennung von Vorleistungen beträgt je nach Aufwand zwischen Fr. 200.– und Fr. 300.–.
+
 #### § 8
 
 **Studium**
@@ -121,7 +126,7 @@ beschliesst:
 
 <sup>1</sup> Die Prüfungsgebühren betragen
 
-- a) für die Bachelorprüfung: Fr. 400.–;
+- a) für die Bachelor‑ oder Masterprüfung: Fr. 400.–;
 - b) für die Studienprogrammprüfung zur Stufen- oder Facherweiterung pro Fach: Fr. 200.–.
 
 <sup>2</sup> Im Wiederholungsfall wird die Hälfte der Gebühr gemäss Abs. 1 erhoben.
@@ -132,7 +137,7 @@ beschliesst:
 
 <sup>1</sup> Die Kanzleigebühren betragen für die Ausstellung von
 
-- a) Abschlussdiplomen (Bachelor und Stufen- oder Facherweiterung): Fr. 220.–;
+- a) Abschlussdiplomen (Bachelor, Master und Stufen- oder Facherweiterung): Fr. 220.–;
 - b) Ausbildungsbestätigungen: Fr. 150.–;
 - c) Duplikaten pro Stück: Fr. 50.–.
 
@@ -217,12 +222,10 @@ beschliesst:
 
 <sup>3</sup> Ab der zweiten Mahnung wird eine Mahngebühr von Fr. 20.– erhoben.
 
-## 7. Schlussbestimmung
+## 7.
 
 #### § 21
 
-**Inkrafttreten**
-
-<sup>1</sup> Diese Verordnung tritt am 1. August 2013 in Kraft.
+**…**
 
 GS 2013/040
