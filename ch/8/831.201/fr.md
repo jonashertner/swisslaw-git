@@ -4,11 +4,11 @@ title: "Règlement du 17 janvier 1961 sur l'assurance-invalidité (RAI)"
 short: RAI
 eli: "https://fedlex.data.admin.ch/eli/cc/1961/29_29_29"
 language: fr
-version: 2023-10-01
+version: 2024-01-01
 adopted: 1961-01-17
 in_force: 1961-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1961/29_29_29/20231001/fr/xml/fedlex-data-admin-ch-eli-cc-1961-29_29_29-20231001-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1961/29_29_29/20231001/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1961/29_29_29/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-1961-29_29_29-20240101-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1961/29_29_29/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1961/29_29_29/20231001/fr"
 
 (RAI)[^t-1]
 
-du 17 janvier 1961 (État le 1<sup>er</sup> octobre 2023)
+du 17 janvier 1961 (État le 1<sup>er</sup> janvier 2024)
 
 [^t-1]: Nouvelle teneur selon le ch. II 1 de l’O du 11 oct. 1972, en vigueur depuis le 1<sup>er</sup> janv. 1973 ([RO 1972 2560](https://fedlex.data.admin.ch/eli/oc/1972/2507_2560_2338)). Selon cette disp., les tit. marginaux ont été remplacés par des tit. médians.
 
@@ -419,7 +419,7 @@ Les mesures de réinsertion s’achèvent en particulier lorsque:
 - b. des mesures de réadaptation plus appropriées s’imposent, ou que
 - c. la poursuite des mesures de réinsertion ne peut, pour des raisons d’ordre médical, être raisonnablement exigée.
 
-<sup>4</sup> ...[^4sexies-3]
+<sup>4</sup> …[^4sexies-3]
 
 <sup>5</sup>
 
@@ -1311,9 +1311,10 @@ L’al. 2 n’est pas applicable lorsque:
 
 <sup>2</sup> Si l’assuré ne réalise pas de revenu déterminant, le revenu avec invalidité est déterminé en fonction des valeurs statistiques visées à l’art. 25, al. 3. Pour les assurés visés à l’art. 26, al. 6, des valeurs indépendantes du sexe sont utilisées, en dérogation à l’art. 25, al. 3.
 
-<sup>3</sup> Si, du fait de l’invalidité, les capacités fonctionnelles de l’assuré au sens de l’art. 49, al. 1<sup>bis</sup>, ne lui permettent de travailler qu’à un taux d’occupation de 50 % ou moins, une déduction de 10 % pour le travail à temps partiel est opérée sur la valeur statistique.
+<sup>3</sup> Une déduction de 10 % est opérée sur la valeur statistique visée à l’al. 2. Si, du fait de l’invalidité, l’assuré ne peut travailler qu’avec une capacité fonctionnelle au sens de l’art. 49, al. 1<sup>bis</sup>, de 50 % ou moins, une déduction de 20 % est opérée. Aucune déduction supplémentaire n’est possible.[^26bis-2]
 
 [^26bis-1]: Introduit par le ch. I de l’ACF du 15 janv. 1968 ([RO 1968 43](https://fedlex.data.admin.ch/eli/oc/1968/43_43_43)). Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^26bis-2]: Nouvelle teneur selon le ch. I de l’O du 18 oct. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 635](https://fedlex.data.admin.ch/eli/oc/2023/635)). Voir aussi les disp. trans. de cette mod. à la fin du texte.
 
 #### Art. 27
 
@@ -1321,7 +1322,7 @@ L’al. 2 n’est pas applicable lorsque:
 
 <sup>1</sup> Par travaux habituels, visés à l’art. 7, al. 2, de la loi, des assurés travaillant dans le ménage, il faut entendre l’activité usuelle dans le ménage, ainsi que les soins et l’assistance apportés aux proches.
 
-<sup>2</sup> ...[^27-3]
+<sup>2</sup> …[^27-3]
 
 [^27-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> déc. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7581](https://fedlex.data.admin.ch/eli/oc/2017/822)).
 [^27-2]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
@@ -1401,9 +1402,12 @@ Il y a interruption notable de l’incapacité de travail au sens de l’art. 28
 
 #### Art. 29<sup>quater</sup>
 
-[^29quater-1]
+**Versement en cas d’anticipation de la rente de vieillesse**[^29quater-1]
 
-[^29quater-1]: Introduit par le ch. I de l’O du 28 sept. 2007 ([RO 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)). Abrogé par le ch. I de l’O du 16 nov. 2011, avec effet au 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
+La rente d’invalidité n’est versée que si l’assuré révoque l’anticipation de sa rente de vieillesse ou y renonce, comme prévu à l’art. 56<sup>ter</sup> RAVS[^29quater-2].
+
+[^29quater-1]: Introduit par le ch. I de l’O du 28 sept. 2007 ([RO 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)). Nouvelle teneur selon l’annexe ch. 4 de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^29quater-2]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
 
 ### III. Prestation transitoire
 
@@ -1546,9 +1550,9 @@ L’art. 54<sup>bis</sup> RAVS[^34-2], s’applique par analogie en cas de rédu
 <sup>5</sup> …[^35bis-6]
 
 [^35bis-1]: Introduit par le ch. I de l’O du 21 mai 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 3859](https://fedlex.data.admin.ch/eli/oc/2003/561)).
-[^35bis-2]: Nouvelle teneur de la phrase selon le ch. I 1 de l’O du 7 oct. 2020 sur l'amélioration de la conciliation entre activité professionnelle et prise en charge de proches, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4545](https://fedlex.data.admin.ch/eli/oc/2020/801)).
-[^35bis-3]: Introduit par le ch. I 1 de l’O du 7 oct. 2020 sur l'amélioration de la conciliation entre activité professionnelle et prise en charge de proches, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4545](https://fedlex.data.admin.ch/eli/oc/2020/801)).
-[^35bis-4]: Introduit par le ch. I 1 de l’O du 7 oct. 2020 sur l'amélioration de la conciliation entre activité professionnelle et prise en charge de proches, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4545](https://fedlex.data.admin.ch/eli/oc/2020/801)).
+[^35bis-2]: Nouvelle teneur de la phrase selon le ch. I 1 de l’O du 7 oct. 2020 sur l’amélioration de la conciliation entre activité professionnelle et prise en charge de proches, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4545](https://fedlex.data.admin.ch/eli/oc/2020/801)).
+[^35bis-3]: Introduit par le ch. I 1 de l’O du 7 oct. 2020 sur l’amélioration de la conciliation entre activité professionnelle et prise en charge de proches, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4545](https://fedlex.data.admin.ch/eli/oc/2020/801)).
+[^35bis-4]: Introduit par le ch. I 1 de l’O du 7 oct. 2020 sur l’amélioration de la conciliation entre activité professionnelle et prise en charge de proches, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4545](https://fedlex.data.admin.ch/eli/oc/2020/801)).
 [^35bis-5]: Nouvelle teneur selon le ch. I de l’O du 19 sept. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 3177](https://fedlex.data.admin.ch/eli/oc/2014/537)).
 [^35bis-6]: Abrogé par le ch. I de l’O du 28 sept. 2007, avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
 
@@ -1593,7 +1597,7 @@ Un logement collectif n’est pas assimilé à un home:
 
 [^36-1]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 3859](https://fedlex.data.admin.ch/eli/oc/2003/561)).
 [^36-2]: Abrogé par le ch. I de l’O du 16 nov. 2011, avec effet au 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
-[^36-3]: Phrase introduite par le ch. I 1 de l’O du 7 oct. 2020 sur l'amélioration de la conciliation entre activité professionnelle et prise en charge de proches, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4545](https://fedlex.data.admin.ch/eli/oc/2020/801)).
+[^36-3]: Phrase introduite par le ch. I 1 de l’O du 7 oct. 2020 sur l’amélioration de la conciliation entre activité professionnelle et prise en charge de proches, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4545](https://fedlex.data.admin.ch/eli/oc/2020/801)).
 [^36-4]: Abrogé par le ch. I de l’O du 18 avr. 2012, avec effet au 1<sup>er</sup> juin 2012 ([RO 2012 2403](https://fedlex.data.admin.ch/eli/oc/2012/292)).
 
 #### Art. 37
@@ -1636,12 +1640,12 @@ Le besoin d’un accompagnement pour faire face aux nécessités de la vie au se
 - b. faire face aux nécessités de la vie et établir des contacts sociaux sans l’accompagnement d’une tierce personne, ou
 - c. éviter un risque important de s’isoler durablement du monde extérieur.
 
-<sup>2</sup> ...[^38-2]
+<sup>2</sup> L’assuré conserve son droit à l’allocation pour impotent en vertu de l’art. 42, al. 3, LAI s’il a droit à une rente d’invalidité de l’AI mais que celle-ci ne lui est pas versée en raison de la perception anticipée d’une partie de sa rente de vieillesse de l’AVS.[^38-2]
 
 <sup>3</sup> N’est pris en considération que l’accompagnement qui est régulièrement nécessaire et lié aux situations mentionnées à l’al. 1. En particulier, les activités de représentation et d’administration dans le cadre des mesures de protection de l’adulte au sens des art. 390 à 398 du code civil[^38-3] ne sont pas prises en compte.[^38-4]
 
 [^38-1]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 3859](https://fedlex.data.admin.ch/eli/oc/2003/561)).
-[^38-2]: Abrogé par le ch. I de l’O du 3 nov. 2021, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^38-2]: Nouvelle teneur selon l’annexe ch. 4 de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 [^38-3]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 [^38-4]: Nouvelle teneur selon le ch. I de l’O du 19 sept. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 3177](https://fedlex.data.admin.ch/eli/oc/2014/537)).
 
@@ -1896,13 +1900,13 @@ L’office AI exécute, outre les tâches explicitement mentionnées dans la loi
 - b.[^41-2] recevoir les communications visées à l’art. 77 relatives au droit aux prestations;
 - c.[^41-3] transmettre immédiatement les communications concernant le droit aux indemnités journalières, aux rentes et aux allocations pour impotent pour les assurés majeurs en cours à la caisse de compensation compétente;
 - d.[^41-4] notifier les communications, les préavis et les décisions, ainsi que la correspondance y relative;
-- [tab] e. et f.[^41-5]...
-- f<sup>bis</sup>. et f<sup>ter</sup>.[^41-6] ...
+- [tab] e. et f.[^41-5]…
+- f<sup>bis</sup>. et f<sup>ter</sup>.[^41-6] …
 - g.[^41-7] donner des renseignements conformément à l’art. 27 LPGA;
 - h. conserver les dossiers AI;
 - i.[^41-8] rédiger les avis en cas de recours et interjeter recours devant le tribunal fédéral;
 - k.[^41-9] évaluer le taux d’invalidité des personnes qui sollicitent l’octroi d’une prestation complémentaire au sens de l’art. 4, al. 1, let. d, de la loi fédérale du 6 octobre 2006 sur les prestations complémentaires[^41-10];
-- l.[^41-11] ...
+- l.[^41-11] …
 
 <sup>2</sup> …[^41-12]
 
@@ -2002,14 +2006,9 @@ Les art. 122 à 125<sup>bis</sup> RAVS[^44-2] sont applicables par analogie lors
 
 #### Art. 45
 
-**Changement de caisse**
+[^45-1]
 
-<sup>1</sup> L’art. 125 RAVS[^45-1] est applicable par analogie en cas de changement de la caisse de compensation compétente pour calculer et verser les indemnités journalières, les rentes et les allocations pour impotent pour les assurés majeurs.[^45-2]
-
-<sup>2</sup> Si une rente de l’assurance-invalidité est remplacée par une rente de l’assurance-vieillesse et survivants, la compétence pour fixer les prestations et notifier les décisions passe de l’office AI à la caisse de compensation qui était déjà compétente pour verser la rente.
-
-[^45-1]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
-[^45-2]: Nouvelle teneur selon le ch. I de l’O du 28 janv. 2004, en vigueur depuis le 1<sup>er</sup> mars 2004 ([RO 2004 743](https://fedlex.data.admin.ch/eli/oc/2004/74)).
+[^45-1]: Abrogé par l’annexe ch. 4 de l’O du 30 août 2023, avec effet au 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 46
 
@@ -2120,10 +2119,11 @@ L’OFAS peut, dans le cadre de ses contrôles relatifs au respect des critères
 
 <sup>2</sup> La caisse de compensation tient des comptes séparés pour l’office AI. Sont également comptabilisés séparément les cotisations et les prestations de l’assurance d’une part et les frais de gestion de l’office AI au sens de l’art. 67, al. 1, let. a, LAI, d’autre part. L’OFAS édicte des directives à ce sujet.
 
-<sup>3</sup> Les art. 159, 160 et 164 à 170 RAVS[^54-2] s’appliquent par analogie à la révision de la tenue des comptes de l’office AI. En dérogation à l’art. 160, al. 2, RAVS, la révision de l’application quant au fond des dispositions légales est effectuée par l’OFAS, dans le cadre de l’art. 64*a*, al. 1, let. a, LAI.
+<sup>3</sup> Les art. 159, let. b et c, et 160, al. 1 et 3 à 5, RAVS[^54-2] s’appliquent par analogie à la révision de la tenue des comptes de l’office AI.[^54-3]
 
 [^54-1]: Nouvelle teneur selon le ch. I de l’O du 28 sept. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
 [^54-2]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^54-3]: Nouvelle teneur selon l’annexe ch. 3 de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 (RO **20****23** 750).
 
 #### Art. 55
 
@@ -2311,7 +2311,7 @@ Le préavis sera notifié en particulier:
 
 **Procédure de préavis**[^73ter-1]
 
-<sup>1</sup> ...[^73ter-2]
+<sup>1</sup> …[^73ter-2]
 
 <sup>2</sup> L’assuré peut communiquer ses observations à l’office AI par écrit ou oralement, lors d’un entretien personnel. Si l’audition a lieu oralement, l’office AI établit un procès-verbal sommaire qui est signé par l’assuré.
 
@@ -2430,9 +2430,9 @@ L’ayant droit ou son représentant légal, ainsi que toute personne ou autorit
 
 <sup>1</sup> L’assurance paie, dans les limites de la prise en charge par l’office AI, les mesures de réadaptation préalablement déterminées par cet office. Elle prend en outre à sa charge, aux conditions fixées à l’art. 10, al. 2, LAI, les mesures de réadaptation déjà exécutées.[^78-2]
 
-<sup>2</sup> ...[^78-3]
+<sup>2</sup> …[^78-3]
 
-<sup>3</sup> ...[^78-4]
+<sup>3</sup> …[^78-4]
 
 <sup>4</sup> Les mesures de réadaptation sont payées par la Centrale de compensation, de même que les mesures d’instruction et les frais de voyage. L’art. 79<sup>bis</sup> est réservé.[^78-5]
 
@@ -3464,3 +3464,13 @@ e. Conventions existantes concernant le remboursement de médicaments par l’as
 Les conventions existantes entre l’OFAS et les titulaires d’autorisation qui ont été conclues avant l’entrée en vigueur de la modification du 3 novembre 2021 restent applicables jusqu’à l’inscription du médicament sur la liste des spécialités ou sur la liste des spécialités en matière d’infirmités congénitales.
 
 [^u18-2]: [RO 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338)
+
+## Dispositions transitoires relatives à la modification du 18 octobre 2023
+
+[^u19-1]
+
+[^u19-1]: [RO 2023 635](https://fedlex.data.admin.ch/eli/oc/2023/635)
+
+<sup>1</sup> Pour les rentes en cours à l’entrée en vigueur de la modification du 18 octobre 2023 qui correspondent à un taux d’invalidité inférieur à 70 % et pour lesquelles le revenu avec invalidité a été déterminé sur la base de valeurs statistiques et n’a pas déjà fait l’objet d’une déduction de 20 %, une révision est engagée dans les trois ans qui suivent l’entrée en vigueur de la présente modification. Si la révision devait conduire à une diminution ou à une suppression de la rente, il y sera renoncé. Si elle devait conduire à une augmentation de la rente, celle-ci prendra effet à l’entrée en vigueur de la présente modification.
+
+<sup>2</sup> Lorsque l’octroi d’une rente ou d’un reclassement a été refusé avant l’entrée en vigueur de la modification du 18 octobre 2023 parce que le taux d’invalidité était insuffisant, une nouvelle demande n’est examinée que s’il est établi de façon plausible qu’un calcul du taux d’invalidité effectué en application de l’art. 26<sup>bis</sup>, al. 3, pourrait aboutir cette fois à la reconnaissance d’un droit à la rente ou au reclassement.

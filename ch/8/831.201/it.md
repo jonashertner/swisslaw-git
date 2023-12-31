@@ -4,11 +4,11 @@ title: "Ordinanza del 17 gennaio 1961 sull'assicurazione per l'invalidità (OAI)
 short: OAI
 eli: "https://fedlex.data.admin.ch/eli/cc/1961/29_29_29"
 language: it
-version: 2023-10-01
+version: 2024-01-01
 adopted: 1961-01-17
 in_force: 1961-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1961/29_29_29/20231001/it/xml/fedlex-data-admin-ch-eli-cc-1961-29_29_29-20231001-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1961/29_29_29/20231001/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1961/29_29_29/20240101/it/xml/fedlex-data-admin-ch-eli-cc-1961-29_29_29-20240101-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1961/29_29_29/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1961/29_29_29/20231001/it"
 
 (OAI)[^t-1]
 
-del 17 gennaio 1961 (Stato 1° ottobre 2023)
+del 17 gennaio 1961 (Stato 1° gennaio 2024)
 
 [^t-1]: Nuovo tit. giusta il n. II 1 dell’O dell’11 ott. 1972, in vigore dal 1° gen. 1973 ([RU 1972 2338](https://fedlex.data.admin.ch/eli/oc/1972/2507_2560_2338)). Giusta detta disp., i titoli marginali sono accentrati.
 
@@ -1314,9 +1314,10 @@ Il capoverso 2 non è applicabile, se:
 
 <sup>2</sup> Se non vi è alcun reddito lavorativo computabile, il reddito con invalidità è determinato in base ai valori statistici di cui all’articolo 25 capoverso 3. In deroga all’articolo 25 capoverso 3, per gli assicurati di cui all’articolo 26 capoverso 6 vanno impiegati valori indipendenti dal sesso.
 
-<sup>3</sup> Se a causa dell’invalidità l’assicurato può lavorare soltanto con una capacità funzionale secondo l’articolo 49 capoverso 1<sup>bis</sup> pari o inferiore al 50 per cento, al valore determinato in base a valori statistici è applicata una deduzione del dieci per cento per attività lucrativa a tempo parziale.
+<sup>3</sup> Al valore determinato in base a valori statistici secondo il capoverso 2 è applicata una deduzione del 10 per cento. Se a causa dell’invalidità l’assicurato può lavorare soltanto con una capacità funzionale secondo l’articolo 49 capoverso 1<sup>bis</sup> pari o inferiore al 50 per cento, è applicata una deduzione del 20 per cento. Non sono ammesse ulteriori deduzioni.[^26bis-2]
 
 [^26bis-1]: Introdotto dal n. I del DCF del 15 gen. 1968 ([RU 1968 43](https://fedlex.data.admin.ch/eli/oc/1968/43_43_43)). Nuovo testo giusta il n. I dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^26bis-2]: Nuovo testo giusta il n. I dell’O del 18 ott. 2023, in vigore dal 1° gen. 2024 ([RU 2023 635](https://fedlex.data.admin.ch/eli/oc/2023/635)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
 
 #### Art. 27
 
@@ -1404,9 +1405,12 @@ Vi è interruzione notevole dell’incapacità al lavoro, secondo l’articolo 2
 
 #### Art. 29<sup>quater</sup>
 
-[^29quater-1]
+**Versamento in caso di anticipazione della rendita di vecchiaia**[^29quater-1]
 
-[^29quater-1]: Introdotto dal n. I dell’O del 28 set. 2007 ([RU 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)). Abrogato dal n. I dell’O del 16 nov. 2011, con effetto dal 1° gen. 2012 ([RU 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
+La rendita d’invalidità è versata soltanto se l’assicurato rinuncia all’anticipazione della rendita di vecchiaia o la revoca conformemente all’articolo 56<sup>ter</sup> OAVS[^29quater-2].
+
+[^29quater-1]: Introdotto dal n. I dell’O del 28 set. 2007 ([RU 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)). Nuovo testo giusta l’all. n. 4 dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^29quater-2]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
 
 ### III. Prestazione transitoria
 
@@ -1639,12 +1643,12 @@ Esiste un bisogno di accompagnamento nell’organizzazione della realtà quotidi
 - b. non può compiere le attività della vita quotidiana e intrattenere contatti fuori casa senza l’accompagnamento di una terza persona; oppure
 - c. rischia seriamente l’isolamento permanente dal mondo esterno.
 
-<sup>2</sup> ...[^38-2]
+<sup>2</sup> L’assicurato continua ad avere diritto all’assegno per grandi invalidi secondo l’articolo 42 capoverso 3 LAI se ha diritto a una rendita d’invalidità dell’AI, ma questa non gli viene versata poiché riscuote anticipatamente una parte della rendita di vecchiaia dell’AVS.[^38-2]
 
 <sup>3</sup> È considerato unicamente l’accompagnamento nell’organizzazione della realtà quotidiana che è regolare e necessario in relazione a una delle situazioni di cui al capoverso 1. Fra queste non rientrano in particolare le attività di rappresentanza e di amministrazione nel quadro delle misure di protezione degli adulti conformemente agli articoli 390–398 del Codice civile[^38-3].[^38-4]
 
 [^38-1]: Nuovo testo giusta il n. I dell’O del 21 mag. 2003, in vigore dal 1° gen. 2004 ([RU 2003 3859](https://fedlex.data.admin.ch/eli/oc/2003/561)).
-[^38-2]: Abrogato dal n. I dell’O del 3 nov. 2021, con effetto dal 1° gen. 2022 ([RU 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^38-2]: Nuovo testo giusta l’all. n. 4 dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 [^38-3]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 [^38-4]: Nuovo testo giusta il n. I dell’O del 19 set. 2014, in vigore dal 1° gen. 2015 ([RU 2014 3177](https://fedlex.data.admin.ch/eli/oc/2014/537)).
 
@@ -2005,14 +2009,9 @@ Gli articoli 122–125<sup>bis</sup> OAVS[^44-2] si applicano per analogia per d
 
 #### Art. 45
 
-**Passaggio da una cassa all’altra**
+[^45-1]
 
-<sup>1</sup> L’articolo 125 OAVS[^45-1] si applica per analogia in caso di cambiamento della cassa di compensazione competente per calcolare e versare le indennità giornaliere, le rendite e gli assegni per grandi invalidi per gli assicurati maggiorenni.[^45-2]
-
-<sup>2</sup> Se una rendita dell’assicurazione per l’invalidità è sostituita con una dell’assicurazione per la vecchiaia e per i superstiti, la competenza per fissare le prestazioni e notificare le decisioni passa dall’ufficio AI alla cassa di compensazione che era competente finora per versare la rendita.
-
-[^45-1]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
-[^45-2]: Nuovo testo giusta il n. I dell’O del 28 gen. 2004, in vigore dal 1° mar. 2004 ([RU 2004 743](https://fedlex.data.admin.ch/eli/oc/2004/74)).
+[^45-1]: Abrogato dall’all. n. 4 dell’O del 30 ago. 2023, con effetto dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 46
 
@@ -2123,10 +2122,11 @@ Nel quadro dei controlli sul rispetto dei criteri prescritti per garantire l’e
 
 <sup>2</sup> La cassa di compensazione tiene una contabilità separata per l’ufficio AI. Sono contabilizzati separatamente anche i contributi e le prestazioni dell’assicurazione, da una parte, e le spese di gestione dell’ufficio AI conformemente all’articolo 67 capoverso 1 lettera a LAI, dall’altra. L’UFAS emana istruzioni in proposito.
 
-<sup>3</sup> Gli articoli 159, 160 e 164–170 OAVS[^54-2] si applicano per analogia alla revisione della contabilità degli uffici AI. In deroga all’articolo 160 capoverso 2 OAVS, il controllo dell’applicazione materiale delle disposizioni legali nell’ambito dell’articolo 64*a* capoverso 1 lettera a LAI è effettuato dall’UFAS.
+<sup>3</sup> Gli articoli 159 lettere b e c nonché 160 capoversi 1 e 3–5 OAVS[^54-2] si applicano per analogia alla revisione della contabilità degli uffici AI.[^54-3]
 
 [^54-1]: Nuovo testo giusta il n. I dell’O del 28 set. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
 [^54-2]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^54-3]: Nuovo testo giusta l’all. n. 3 dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 #### Art. 55
 
@@ -3457,3 +3457,13 @@ e. Convenzioni esistenti per il rimborso di medicamenti da parte dell’assicura
 Le convenzioni esistenti concluse tra l’UFAS e il titolare dell’omologazione prima dell’entrata in vigore della modifica del 3 novembre 2021 restano applicabili fino all’ammissione del medicamento nell’elenco delle specialità per le infermità congenite o nell’elenco delle specialità.
 
 [^u18-2]: [RU 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338)
+
+## Disposizione transitoria della modifica del 18 ottobre 2023
+
+[^u19-1]
+
+[^u19-1]: [RU 2023 635](https://fedlex.data.admin.ch/eli/oc/2023/635)
+
+<sup>1</sup> Le rendite correnti al momento dell’entrata in vigore della modifica del 18 ottobre 2023 per un grado d’invalidità inferiore al 70 per cento per le quali il reddito con invalidità è stato determinato in base a valori statistici senza applicarvi già una deduzione del 20 per cento sono sottoposte a revisione entro tre anni dall’entrata in vigore della presente modifica. Nei casi in cui la revisione determinerebbe una riduzione o soppressione della rendita, vi si rinuncia. Un aumento della rendita ha effetto dal momento dell’entrata in vigore della presente modifica.
+
+<sup>2</sup> In caso di presentazione di una nuova richiesta di prestazioni da parte di un assicurato cui prima dell’entrata in vigore della modifica del 18 ottobre 2023 è stata negata una rendita o una riformazione professionale perché il suo grado d’invalidità era insufficiente, si entra nel merito della richiesta qualora sia reso verosimile che l’applicazione della nuova regolamentazione di cui all’articolo 26<sup>bis</sup> capoverso 3 al calcolo del grado d’invalidità potrebbe determinare il diritto a una rendita o a una riformazione professionale.

@@ -4,11 +4,11 @@ title: Verordnung vom 17. Januar 1961 über die Invalidenversicherung (IVV)
 short: IVV
 eli: "https://fedlex.data.admin.ch/eli/cc/1961/29_29_29"
 language: de
-version: 2023-10-01
+version: 2024-01-01
 adopted: 1961-01-17
 in_force: 1961-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1961/29_29_29/20231001/de/xml/fedlex-data-admin-ch-eli-cc-1961-29_29_29-20231001-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1961/29_29_29/20231001/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1961/29_29_29/20240101/de/xml/fedlex-data-admin-ch-eli-cc-1961-29_29_29-20240101-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1961/29_29_29/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1961/29_29_29/20231001/de"
 
 (IVV)[^t-1]
 
-vom 17. Januar 1961 (Stand am 1. Oktober 2023)
+vom 17. Januar 1961 (Stand am 1. Januar 2024)
 
 [^t-1]: Fassung des Tit. gemäss Ziff. II 1 der V vom 11. Okt. 1972, in Kraft seit 1. Jan. 1973 ([AS 1972 2507](https://fedlex.data.admin.ch/eli/oc/1972/2507_2560_2338)). Gemäss derselben Bestimmung wurden die Randtit. in Sachüberschriften umgewandelt.
 
@@ -1312,9 +1312,10 @@ Absatz 2 findet keine Anwendung, wenn:
 
 <sup>2</sup> Liegt kein anrechenbares Erwerbseinkommen vor, so wird das Einkommen mit Invalidität nach statistischen Werten nach Artikel 25 Absatz 3 bestimmt. Bei versicherten Personen nach Artikel 26 Absatz 6 sind in Abweichung von Artikel 25 Absatz 3 geschlechtsunabhängige Werte zu verwenden.
 
-<sup>3</sup> Kann die versicherte Person aufgrund ihrer Invalidität nur noch mit einer funktionellen Leistungsfähigkeit nach Artikel 49 Absatz 1<sup>bis</sup> von 50 Prozent oder weniger tätig sein, so werden vom statistisch bestimmten Wert zehn Prozent für Teilzeitarbeit abgezogen.
+<sup>3</sup> Vom statistisch bestimmten Wert nach Absatz 2 werden 10 Prozent abgezogen. Kann die versicherte Person aufgrund ihrer Invalidität nur noch mit einer funktionellen Leistungsfähigkeit nach Artikel 49 Absatz 1<sup>bis</sup> von 50 Prozent oder weniger tätig sein, so werden 20 Prozent abgezogen. Weitere Abzüge sind nicht zulässig.[^26bis-2]
 
 [^26bis-1]: Eingefügt durch Ziff. I des BRB vom 15. Jan. 1968 ([AS 1968 43](https://fedlex.data.admin.ch/eli/oc/1968/43_43_43)). Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^26bis-2]: Fassung gemäss Ziff. I der V vom 18. Okt. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 635](https://fedlex.data.admin.ch/eli/oc/2023/635)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
 
 #### Art. 27
 
@@ -1402,9 +1403,12 @@ Ein wesentlicher Unterbruch der Arbeitsunfähigkeit im Sinne von Artikel 28 Absa
 
 #### Art. 29<sup>quater</sup>
 
-[^29quater-1]
+**Auszahlung bei Vorbezug der Altersrente**[^29quater-1]
 
-[^29quater-1]: Eingefügt durch Ziff. I der V vom 28. Sept. 2007 ([AS 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)). Aufgehoben durch Ziff. I der V vom 16. Nov. 2011, mit Wirkung seit 1. Jan. 2012 ([AS 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
+Die Invalidenrente wird nur ausbezahlt, wenn die versicherte Person gemäss Artikel 56<sup>ter</sup> AHVV[^29quater-2] auf den Vorbezug der Altersrente verzichtet oder diesen widerruft.
+
+[^29quater-1]: Eingefügt durch Ziff. I der V vom 28. Sept. 2007 ([AS 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)). Fassung gemäss Anhang Ziff. 4 der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^29quater-2]: [SR 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
 
 ### III. Übergangsleistung
 
@@ -1637,12 +1641,12 @@ Ein Bedarf an lebenspraktischer Begleitung im Sinne von Artikel 42 Absatz 3 IVG 
 - b. für Verrichtungen und Kontakte ausserhalb der Wohnung auf Begleitung einer Drittperson angewiesen ist; oder
 - c. ernsthaft gefährdet ist, sich dauernd von der Aussenwelt zu isolieren.
 
-<sup>2</sup> …[^38-2]
+<sup>2</sup> Die versicherte Person behält ihren Anspruch auf eine Hilflosenentschädigung nach Artikel 42 Absatz 3 IVG, wenn sie Anspruch auf eine Invalidenrente der IV hat, ihr diese wegen des Vorbezugs eines Teils ihrer Altersrente der AHV aber nicht ausbezahlt wird.[^38-2]
 
 <sup>3</sup> Zu berücksichtigen ist nur die lebenspraktische Begleitung, die regelmässig und im Zusammenhang mit einer der Situationen nach Absatz 1 erforderlich ist. Nicht darunter fallen insbesondere Vertretungs- und Verwaltungstätigkeiten im Rahmen von Massnahmen des Erwachsenenschutzes nach den Artikeln 390–398 des Zivilgesetzbuches[^38-3].[^38-4]
 
 [^38-1]: Aufgehoben durch Ziff. I der V vom 11. Sept. 2002 ([AS 2002 3721](https://fedlex.data.admin.ch/eli/oc/2002/576)). Fassung gemäss Ziff. I der V vom 21. Mai 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 3859](https://fedlex.data.admin.ch/eli/oc/2003/561)).
-[^38-2]: Aufgehoben durch Ziff. I der V vom 3. Nov. 2021, mit Wirkung seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^38-2]: Fassung gemäss Anhang Ziff. 4 der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 [^38-3]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 [^38-4]: Fassung gemäss Ziff. I der V vom 19. Sept. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 3177](https://fedlex.data.admin.ch/eli/oc/2014/537)).
 
@@ -2005,14 +2009,9 @@ Für die Zuständigkeit der Ausgleichskassen für die Berechnung und Auszahlung 
 
 #### Art. 45
 
-**Kassenwechsel**
+[^45-1]
 
-<sup>1</sup> Für den Wechsel der für die Berechnung und Auszahlung von Taggeldern, Renten und Hilflosenentschädigungen für Volljährige zuständigen Ausgleichskasse ist Artikel 125 AHVV[^45-1] sinngemäss anwendbar.[^45-2]
-
-<sup>2</sup> Wird eine Rente der Invalidenversicherung durch eine solche der Alters- und Hinterlassenenversicherung abgelöst, so geht auch die Zuständigkeit für die Festsetzung der Leistungen und für den Erlass von Verfügungen von der IV-Stelle auf die Ausgleichskasse über, welche bisher für die Rentenauszahlung zuständig war.
-
-[^45-1]: [SR 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
-[^45-2]: Fassung gemäss Ziff. I der V vom 28. Jan. 2004, in Kraft seit 1. März 2004 ([AS 2004 743](https://fedlex.data.admin.ch/eli/oc/2004/74)).
+[^45-1]: Aufgehoben durch Anhang Ziff. 4 der V vom 30. Aug. 2023, mit Wirkung seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 46
 
@@ -2123,10 +2122,11 @@ Das BSV kann im Rahmen der Überprüfungen der Einhaltung der vorgegebenen Krite
 
 <sup>2</sup> Die Ausgleichskasse führt für die IV-Stelle eine eigene Rechnung. Darin sind die Beiträge und Leistungen der Versicherung einerseits und die administrativen Durchführungskosten der IV-Stelle nach Artikel 67 Absatz 1 Buchstabe a IVG andererseits getrennt zu verbuchen. Das BSV erlässt dazu Weisungen.
 
-<sup>3</sup> Für die Revision der Rechnungsführung der IV-Stellen sind die Artikel 159, 160 und 164–170 AHVV[^54-2] sinngemäss anwendbar. In Abweichung von Artikel 160 Absatz 2 AHVV erfolgt die Überprüfung der materiellen Rechtsanwendung im Rahmen von Artikel 64*a* Absatz 1 Buchstabe a IVG durch das BSV.
+<sup>3</sup> Für die Revision der Rechnungsführung der IV-Stellen sind die Artikel 159 Buchstaben b und c sowie 160 Absätze 1 und 3–5 AHVV[^54-2] sinngemäss anwendbar.[^54-3]
 
 [^54-1]: Aufgehoben durch Ziff. I der V vom 15. Juni 1992 ([AS 1992 1251](https://fedlex.data.admin.ch/eli/oc/1992/1251_1251_1251)). Fassung gemäss Ziff. I der V vom 28. Sept. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
 [^54-2]: [SR 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^54-3]: Fassung gemäss Anhang Ziff. 3 der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 #### Art. 55
 
@@ -2551,9 +2551,9 @@ Für den ambulanten Bereich und den Bereich medizinische Rehabilitation ist Arti
 
 <sup>1bis</sup>
 
-Während der erstmaligen beruflichen Ausbildung werden die Taggelder, vorbehaltlich Artikel 24<sup>quater</sup> IVG, ausbezahlt an:
+Während der erstmaligen beruflichen Ausbildung werden die Taggelder, vorbehaltlich Artikel 24<sup>quater</sup> IVG, ausbezahlt:
 
-- a. das Ausbildungszentrum oder die Ausbildungseinrichtung, das beziehungsweise die die Taggelder an die versicherte Person weiterleitet;
+- a. an das Ausbildungszentrum oder die Ausbildungseinrichtung, das beziehungsweise die die Taggelder an die versicherte Person weiterleitet;
 - b. direkt an die versicherte Person, wenn diese eine höhere Berufsausbildung oder eine Hochschule besucht.[^80-4]
 
 <sup>2</sup> Bedürfen der Versicherte oder seine Angehörigen des Taggeldes in kürzeren Zeitabständen, so sind auf Gesuch hin Teilzahlungen auszurichten.[^80-5]
@@ -3464,3 +3464,13 @@ e. Bestehende Vereinbarungen zur Vergütung von Arzneimitteln durch die Invalide
 Bestehende Vereinbarungen zwischen dem BSV und der Zulassungsinhaberin, die vor dem Inkrafttreten der Änderung vom 3. November 2021 abgeschlossen wurden, bleiben bis zur Aufnahme des Arzneimittels in die Geburtsgebrechen-Spezialitätenliste oder in die Spezialitätenliste anwendbar.
 
 [^u18-2]: [AS 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338)
+
+## Übergangsbestimmung zur Änderung vom 18. Oktober 2023
+
+[^u19-1]
+
+[^u19-1]: [AS 2023 635](https://fedlex.data.admin.ch/eli/oc/2023/635)
+
+<sup>1</sup> Für zum Zeitpunkt des Inkrafttretens der Änderung vom 18. Oktober 2023 laufende Renten mit einem Invaliditätsgrad unter 70 Prozent, bei denen das Einkommen mit Invalidität aufgrund statistischer Werte festgelegt wurde und bei denen vom Einkommen mit Invalidität nicht bereits 20 Prozent abgezogen wurden, ist innerhalb von drei Jahren nach Inkrafttreten dieser Änderung eine Revision einzuleiten. Würde diese Revision zu einer Herabsetzung oder Aufhebung der Rente führen, so wird auf die Revision verzichtet. Eine Erhöhung der Rente erfolgt auf den Zeitpunkt des Inkrafttretens dieser Änderung.
+
+<sup>2</sup> Wurde eine Rente oder eine Umschulung vor dem Inkrafttreten der Änderung vom 18. Oktober 2023 wegen eines zu geringen Invaliditätsgrades verweigert, so wird auf eine erneute Anmeldung eingetreten, wenn glaubhaft gemacht wird, dass die Berechnung des Invaliditätsgrades durch die Anwendung der Regelung von Artikel 26<sup>bis</sup> Absatz 3 neu zu einem Rentenanspruch oder zu einem Anspruch auf eine Umschulung führen kann.
