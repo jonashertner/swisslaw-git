@@ -1,147 +1,188 @@
 ---
 canton: VS
 number: "414.733"
-title: Reglement über die Verwertung und Nutzung der Forschungsergebnisse der FH-Wallis und der FHW-GS
+title: "Reglement über das geistige Eigentum, die Verwertung und Nutzung der Forschungsergebnisse der HES-SO Valais/Wallis"
 short: RGEVHES
 language: de
-version: 2010-01-01
-corrected: 2017-07-11
-version_adopted: 2010-02-24
+version: 2024-01-01
+version_adopted: 2024-10-09
 adopted: 2024-10-09
 in_force: 2024-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/414.733"
-pdf: "https://lex.vs.ch/api/de/versions/494/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/de/versions/3382/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Reglement über die Verwertung und Nutzung der Forschungsergebnisse der FH-Wallis und der FHW-GS
+# Reglement über das geistige Eigentum, die Verwertung und Nutzung der Forschungsergebnisse der HES-SO Valais/Wallis
 
-vom 16. Januar 2008
+(RGEVHES)
+
+vom 09.10.2024 (Stand 01.01.2024)
 
 Der Staatsrat des Kantons Wallis
 
-eingesehen Artikel 9 des Bundesgesetzes über die Fachhochschulen (FHSG) vom 6. Oktober1995;
+eingesehen den Artikel 57 Absatz 1 der Kantonsverfassung;
 
-eingesehen die Artikel 5 und 37 des Ausführungsgesetzes über die Fachhochschule Wallis (FH-Wallis) vom 22. September 1999;
+eingesehen das Bundesgesetz über die Erfindungspatente vom 25. Juni 1954;
 
-eingesehen die Artikel 5 und 29 des Gesetzes zur Schaffung der Fachhochschule Wallis für Gesundheit und Soziale Arbeit (FHW-GS) vom 22. März 2002;
+eingesehen den Artikel 9 des Bundesgesetzes über die Förderung der Hochschulen und die Koordination im schweizerischen Hochschulbereich vom 30. September 2011 (HFKG);
 
-eingesehen Artikel 25 des Gesetzes über das Dienstverhältnis des Personals der Fachhochschule Wallis (FH-Wallis) vom 26. Juni 2000;
+eingesehen die Artikel 1, 4, 5, 11, 15, 40, 53 und 55 der Interkantonalen Vereinbarung der Fachhochschule der Westschweiz (HES-SO) vom 26. Mai 2011;
 
-eingesehen Artikel 21 des Reglements über das Dienstverhältnis des Personals der Fachhochschule Wallis für Gesundheit und Soziale Arbeit vom 16. Oktober 2002;
+eingesehen das Gesetz über den Beitritt zur Interkantonalen Vereinbarung der Fachhochschule Westschweiz (HES-SO) vom 16. November 2011;
 
-eingesehen das Reglement der strategischen Ausschüsse der HES-SO und der HES-S2 über die Verwertung der Forschungsergebnisse vom 2. Juli 2004; auf Antrag des Departements für Erziehung, Kultur und Sport,
+eingesehen das Reglement über die Verwertung der Forschungsergebnisse der HES-SO vom 11. Dezember 2014;
 
-beschliesst:[^t-1]
+eingesehen die Artikel 2, 8, 9, 11, 23 et 30 des Gesetzes über die Fachhochschule Westschweiz vom 16. November 2012;
 
-[^t-1]: GS/VS 2008, 319
+eingesehen die Artikel 24 und fortfolgende, 61 und 77 der Verordnung betreffend das Statut des Personals der Fachhochschule Westschweiz Valais/Wallis vom 16. Dezember 2014;
+
+eingesehen die Verordnung betreffend die Besoldung des Personals der Fachhochschule Westschweiz Valais/Wallis vom 16. Dezember 2014;
+
+eingesehen das Finanzreglement der HES-SO Valais/Wallis vom 26. März 2018;
+
+auf Antrag des für die Bildung zuständigen Departements,
+
+verordnet: [^ingress-1]
+
+[^ingress-1]: Im vorliegenden Reglement gilt jede Bezeichnung der Person, des Status oder der Funktion in gleicher Weise für Mann und Frau.
 
 #### Art. 1
 
 **Anwendungsbereich**
 
-<sup>1</sup> Das vorliegende Reglement legt die gemeinsamen Regeln für die FH-Wallis und die FHW-GS (nachfolgend die Schulen) für die Verwertung und Nutzung der Ergebnisse ihrer anwendungsorientierten Forschungs- und Entwicklungsarbeiten (nachfolgend die Forschung) fest.
+<sup>1</sup> Das vorliegende Reglement legt die Regeln der HES-SO Valais/Wallis für das geistige Eigentum, die Verwertung und Nutzung der Ergebnisse ihrer Forschungs-, Entwicklungs- und Dienstleistungstätigkeiten (nachfolgend: die Forschung) fest.
 
-<sup>2</sup> Es legt die Verantwortlichkeiten und Zuständigkeiten für die Verwertung der Ergebnisse fest und bestimmt die Anwendungsbestimmungen für die Unterzeichnung der Forschungsverträge, die Verwaltung des geistigen Eigentums und die Verteilung allfälliger Erträge aus der kommerziellen Nutzung der patentierbaren oder nicht patentierbaren Forschungsergebnisse.
+<sup>2</sup> Es legt die Verantwortlichkeiten und Zuständigkeiten im Bereich der Verwertung der Ergebnisse fest und präzisiert die Anwendungsbestimmungen für die Unterzeichnung der Forschungsverträge, das geistige Eigentum und die Verteilung allfälliger Erträge aus der Nutzung der patentierbaren oder nicht patentierbaren Forschungsergebnisse.
+
+<sup>3</sup> Die Urheberrechte sowie die von der HES-SO Valais/Wallis erbrachten Ausbildungstätigkeiten, einschliesslich die Bachelor- und Masterarbeiten, werden nicht in dieser Verordnung, sondern im Bundesgesetz über das Urheberrecht und verwandte Schutzrechte oder in den diesbezüglichen eidgenössischen Bestimmungen geregelt.
 
 #### Art. 2
 
-**Verantwortlichkeiten der Schulen**
+**Begriffe**
 
-Zusätzlich zu ihren Forschungsaktivitäten sind die Schulen für den Kanton insbesondere für die Verwertung der Forschungsresultate verantwortlich, die von wirtschaftlicher Bedeutung sind, mittels eines aktiven Wissens- und Technologietransfers in Zusammenarbeit mit bestehenden Unternehmen, mit Start-ups und/oder Spin-offs oder mit anderen Partnern (insbesondere Gemeinwesen, Sozial- und Gesundheitseinrichtungen).
+<sup>1</sup> Als geistiges Eigentum im Sinne dieses Reglements gelten alle geistigen Erfindungen oder Schöpfungen literarischer, wissenschaftlicher, künstlerischer oder industrieller Art, die aus der von der HES-SO Valais/Wallis betriebenen Forschung hervorgehen, unabhängig davon, ob diese alleine oder in Partnerschaft mit Dritten erbracht wurde.
+
+<sup>2</sup> Als Verwertung wird in diesem Reglement die absichtlich herbeigeführte Steigerung des Marktwerts eines Forschungsergebnisses verstanden.
 
 #### Art. 3
 
-**Zusammenarbeit**
+**Verantwortlichkeit der HES-SO Valais/Wallis**
 
-Die Modalitäten der Zusammenarbeit der Schulen mit der Wirtschaft oder anderen Partnern betreffend den Wissens- und Technologietransfer im Rahmen von gemeinsamen, von den Behörden mitfinanzierten oder nicht mitfinanzierten Projekten, sind in den Verträgen bezüglich dieser Zusammenarbeit festgehalten.
+<sup>1</sup> Zusätzlich zu ihren Forschungsaktivitäten ist die HES-SO Valais/Wallis insbesondere für die Verwertung der Forschungsergebnisse verantwortlich, die von wirtschaftlicher Bedeutung sind, mittels eines aktiven Wissens- und Technologietransfers in Zusammenarbeit mit bestehenden Unternehmen, mit Start-ups und/oder Spin-offs oder gegebenenfalls mit anderen Partnern (insbesondere Gemeinwesen, Sozial- und Gesundheitseinrichtungen) oder im Rahmen ihrer Lehre.
+
+<sup>2</sup> In ihren internen Richtlinien für die Verwertung und die Zusammenarbeit bestimmt die HES-SO Valais/Wallis geeignete Massnahmen zum Umgang mit Interessenkonflikten betreffend die Zusammenarbeit mit externen Partnern und/oder die Beteiligung von Lehr- und Forschungspersonal an Drittunternehmen, insbesondere Start-ups und/oder Spin-offs, die aus der Verwertung der Forschungsergebnisse hervorgegangen sind.
 
 #### Art. 4
 
-**Unterschriftsberechtigung für Verträge**
+**Zusammenarbeit**
 
-<sup>1</sup> Der gesamte Prozess der Verhandlung und des Abschlusses eines Forschungsvertrags muss den spezifischen internen Richtlinien der Schulen entsprechen und jeder Mitarbeiter muss sich daran halten.
-
-<sup>2</sup> Der Direktor der FH-Wallis und der FHW-GS ist dazu berechtigt, Verbindlichkeiten bis zu einem Betrag von 50'000 Franken einzugehen bei der Unterzeichnung von:
-
-- a) Forschungsverträgen mit der Wirtschaft oder anderen Partnern im Bereich des Wissens- oder Technologietransfers, die das Resultat von gemeinsamen, von den Behörden mitfinanzierten oder nicht mitfinanzierten Projekten sind;
-
-- b) Zusammenarbeitsverträgen mit den Wirtschaftspartnern, Partnern aus dem Gesundheits- oder Sozialwesen oder anderen Partnern;
-
-- c) Zusammenarbeitsverträgen mit Bildungsstätten im In- und Ausland.
-
-<sup>3</sup> Der Staatsrat kann diese Berechtigung an die stellvertretenden Direktoren, der für die Bereiche der FH-Wallis / FHW-GS verantwortlich sind, übertragen.[^4-1]
-
-[^4-1]: Fassung gemäss Ziff. I der Änderung vom 24. Feb. 2010, in Kraft seit dem 1. Jan. 2010 (Abl. Nr. 9/2010)
+<sup>1</sup> Die Modalitäten der Zusammenarbeit der HES-SO Valais/Wallis mit Partnern betreffend den Wissens- und Technologietransfer im Rahmen von gemeinsamen, von den Behörden mitfinanzierten oder nicht mitfinanzierten Projekten, sind in den Verträgen bezüglich dieser Zusammenarbeit festgelegt.
 
 #### Art. 5
 
-**Rechte an Immaterialgütern**
+**Unterschriftsberechtigung für Verträge**
 
-<sup>1</sup> Die schützbaren und nicht schützbaren Forschungsergebnisse der Mitglieder des Lehrkörpers und/oder des Mittelbaus, die diese im Rahmen der Ausübung ihrer beruflichen Tätigkeit im Dienste der Schulen erzielt haben, sind Eigentum des Kantons. Im Fall einer Beteiligung der Schulen an gemeinsamen Forschungsprogrammen bleiben die Rechte Dritter vorbehalten.
-
-<sup>2</sup> Die Rechte der Wirtschafts- oder anderer Partner bezüglich der Nutzung von Immaterialgütern, die aus den im Rahmen der Zusammenarbeit erzielten Forschungsergebnissen stammen, werden im Vertrag geregelt, der die Modalitäten dieser Zusammenarbeit im Sinne von Artikel 3 hiervor regelt.
+<sup>1</sup> Der gesamte Prozess der Verhandlung und des Abschlusses eines Forschungsvertrags hält das Finanzreglement der HES-SO Valais/Wallis und die spezifischen internen Richtlinien der HES-SO Valais/Wallis ein, die insbesondere die Unterschriftsberechtigungen regeln. Jeder Mitarbeiter muss sich daran halten.
 
 #### Art. 6
 
-**Meldepflicht**
+**Rechte an Immaterialgütern**
 
-<sup>1</sup> Die Mitarbeiter der Schulen müssen die Forschungsergebnisse, die zu einem Patent führen können, vor deren Offenbarung melden.
+<sup>1</sup> Die schützbaren und nicht schützbaren Forschungsergebnisse der Mitglieder des Lehrkörpers und/oder des Mittelbaus, die diese im Rahmen der Ausübung ihrer beruflichen Tätigkeit im Dienste der HES-SO Valais/Wallis erzielt haben, sind Eigentum der HES-SO Valais/Wallis. Im Fall einer Beteiligung der HES-SO Valais/Wallis an gemeinsamen Forschungsprogrammen bleiben die Rechte Dritter vorbehalten.
 
-<sup>2</sup> Im Allgemeinen sind die Mitarbeiter der Schulen, die eine Verwertung und/oder den Schutz ihrer Forschungsergebnisse wünschen, dazu verpflichtet, die Direktion ihrer Schule vor jeglicher Offenbarung zu informieren, ungeachtet der Art des Immaterialguts, das diesen Ergebnissen entspricht.
+<sup>2</sup> Wenn das Personal der HES-SO Valais/Wallis die von Studenten der HES-SO Valais/Wallis in ihren Arbeiten erzielten Ergebnisse verwenden will, muss es sowohl von der HES-SO Valais/Wallis als auch vom Studenten selbst gemäss geltendem Urheberrecht die Zustimmung dafür einholen.
+
+<sup>3</sup> Die Rechte der Partner bezüglich der Nutzung von Immaterialgütern, die aus den im Rahmen der Zusammenarbeit erzielten Forschungsergebnissen stammen, werden im Vertrag geregelt, der die Modalitäten dieser Zusammenarbeit im Sinne von Artikel 3 dieses Reglements regelt.
 
 #### Art. 7
 
-**Beurteilung**
+**Meldepflicht**
 
-<sup>1</sup> In Zusammenarbeit mit den Erfindern und dem Leiter des Instituts führt der stellvertretende Direktor, der für die Forschung verantwortlich ist, eine Beurteilung der Erfindung durch, insbesondere in Bezug auf die möglichen Anwendungsbereiche, ihr Wirtschaftspotenzial und ihre Patentierbarkeit. Anschliessend beschliessen sie in Übereinkunft mit der Direktion eine Verwertungsstrategie.
+<sup>1</sup> Die Mitarbeiter der HES-SO Valais/Wallis melden unaufgefordert vor der Offenlegung:
 
-<sup>2</sup> Falls kein Interesse besteht, kann der Kanton den Erfindern seine Rechte ganz oder teilweise schriftlich in einem Vertrag abtreten.
+- a) jede Erfindung und jedes Resultat, das potenziell patentierbar ist;
+- b) jede Software, Datenbank und jedes andere Werk, das urheberrechtlich schützbar ist;
+- c) jedes andere geistige Eigentum, das potenziell kommerziell verwertbar ist, wie Marken, Designs, Pflanzenzüchtungen, Topografien.
+
+<sup>2</sup> Im Allgemeinen sind die Mitarbeiter der HES-SO Valais/Wallis, die eine Verwertung und/oder den Schutz ihrer Forschungsergebnisse wünschen, dazu verpflichtet, die Direktion der betreffenden Hochschule vor jeglicher Offenlegung zu informieren, ungeachtet der Art des Immaterialguts, das diesen Ergebnissen entspricht.
+
+<sup>3</sup> Die Erfindungsmeldungen werden von einer einzigen, in einer spezifischen Richtlinie der HES-SO Valais/Wallis bestimmten Instanz entgegengenommen.
 
 #### Art. 8
 
-**Schutz des geistigen Eigentums**
+**Beurteilungen**
 
-<sup>1</sup> Die Schulen können den Schutz und/oder die Verwertung von Immaterialgütern je nach Fall in eigener Verantwortung oder in Zusammenarbeit mit ihren Kooperationspartnern sicherstellen, indem sie eine Patentanmeldung einreichen oder durch jegliche andere geeignete Methode.
+<sup>1</sup> Auf Antrag der betreffenden Hochschule führt die Instanz eine Beurteilung der Erfindung durch und beschliesst anschliessend im Einklang mit den spezifischen Richtlinien der HES-SO Valais/Wallis eine Verwertungsstrategie.
 
-<sup>2</sup> Unter Vorbehalt der Rechte Dritter können die Schulen im Prinzip über und im Namen der Stiftung The Ark gemäss dem Auftrag des Staates unter Nennung der Erfinder eine Patentanmeldung einreichen. Gegebenenfalls werden die Modalitäten dieser Partnerschaft in einer Vereinbarung festgelegt.
+<sup>2</sup> Der Schutz und die Verwertung der Forschungsergebnisse werden insbesondere über die Fortführung der Forschung im entsprechenden Bereich, über die Anmeldung von Patenten und deren direkte oder indirekte Nutzung oder die Vergabe von Lizenzen sichergestellt. Bestimmt die einzige Instanz innerhalb von 12 Monaten keinen Schutz bzw. keine Verwertung, gehen die Rechte, die der HES-SO Valais/Wallis übertragen wurden, an die Urheber der betreffenden Erfindungen zurück.
 
-<sup>3</sup> Neben der im vorgehenden Absatz festgehaltenen Aufgabe ist The Ark für die Verwaltung der Patente verantwortlich und übernimmt die gesamten Kosten für die erste Patentanmeldung (Schweizer Patent).
-
-<sup>4</sup> Jede vollständige oder teilweise Abtretung einer Patentanmeldung oder eines Patents muss in einem schriftlichen Vertrag geregelt werden, der die genauen Bedingungen der Abtretung einschliesslich der Art der Vergütung festhält.
+<sup>3</sup> Falls innerhalb von 12 Monaten kein Interesse besteht, kann die HES-SO Valais/Wallis den Erfindern ihre Rechte ganz oder teilweise schriftlich in einem Vertrag abtreten.
 
 #### Art. 9
 
-**Beteiligung an den Erträgen**
+**Schutz des geistigen Eigentums**
 
-<sup>1</sup> Allfällige Erträge aus der Verwertung und/oder der kommerziellen Nutzung von Forschungsresultaten, die von Mitgliedern des Personals der betroffenen Schulen stammen, werden gemäss den in Absatz 2 vorgesehenen Bestimmungen verteilt.
+<sup>1</sup> Die HES-SO Valais/Wallis kann, vorbehältlich allfälliger Rechte Dritter, den Schutz und/oder die Verwertung von Immaterialgütern je nach Fall in eigener Verantwortung oder in Zusammenarbeit mit ihren Kooperationspartnern sicherstellen, indem sie eine Patentanmeldung einreicht oder durch jegliche andere geeignete Methode.
 
-<sup>2</sup> In erster Linie dienen diese Erträge zur Deckung der für den Schutz des betroffenen Immaterialguts verursachten Kosten. Der Rest wird anschliessend wie folgt verteilt:
+<sup>2</sup> Sie kann über Dritte handeln, insbesondere über die Stiftung The Ark. Gegebenenfalls werden die Modalitäten dieser Partnerschaft in einer Vereinbarung festgelegt, die zur Information vorgängig der für das Hochschulwesen zuständigen Dienststelle des Staates Wallis vorgelegt wird.
 
-- a) ein Drittel wird der betroffenen Schule, Rubrik Forschung, gutgeschrieben für die Beteiligung an der Finanzierung von Aktionen zur Förderung der Innovation innerhalb der Institution;
+<sup>3</sup> Jede vollständige oder teilweise Abtretung einer Patentanmeldung oder eines Patents muss in einem schriftlichen Vertrag geregelt werden, der die genauen Bedingungen der Abtretung einschliesslich der Art der Vergütung festhält.
 
-- b) ein Drittel wird dem Fonds des Forschungsinstituts bzw. der Forschungsinstitute der betroffenen Schule gutgeschrieben;
+<sup>4</sup> Die Schöpfer von Immaterialgütern sind verpflichtet, beim Verfahren zum Schutz der Immaterialgüter sowie beim Verwertungsprozess mitzuwirken. Diese Mitwirkungspflicht bleibt grundsätzlich während 12 Monaten nach Beendigung des Arbeitsverhältnisses mit der HES-SO Valais/Wallis bestehen. Bei mangelnder Mitwirkung kann die Beteiligung an den Erträgen gemäss Artikel 9 Absatz 2 Buchstabe c dieses Reglements entzogen werden.
 
-- c) ein Drittel geht an die Urheber des Immaterialguts (Erfinder).
-
-<sup>3</sup> Diese Verteilungsregel kann in besonderen Fällen eine Ausnahme erfahren, insbesondere wenn:
-
-- a) für die betroffene Forschungsarbeit besonders umfangreiche personelle, technische, finanzielle oder andere Ressourcen der Schule zur Verfügung gestellt wurden;
-
-- b) wenn der erzielte Ertrag besonders hoch ist.
-
-<sup>4</sup> Der Vorsteher des Departements für Erziehung, Kultur und Sport ist befugt, die in Absatz 3 aufgeführten Ausnahmen zu bestimmen.
-
-<sup>5</sup> Wenn sich der Wirtschaftspartner im Rahmen eines Technologietransfers oder eines Forschungsvertrags verpflichtet, die Weiterführung der Forschungsarbeiten zu finanzieren, werden die entsprechenden Beiträge nicht als Erträge aus der kommerziellen Nutzung eines Immaterialguts betrachtet.
+<sup>5</sup> Die Schöpfer von Immaterialgütern dürfen den Schutz der Immaterialgüter nicht durch eine vorzeitige Veröffentlichung oder auf andere Weise beeinträchtigen.
 
 #### Art. 10
 
-**Inkrafttreten**
+**Beteiligung an den Erträgen**
 
-Das vorliegende Reglement wird im Amtsblatt veröffentlicht, um rückwirkend auf den 1. Januar 2007 in Kraft zu treten.
+<sup>1</sup> Allfällige Erträge aus der Verwertung und/oder kommerziellen Nutzung von Forschungsergebnissen, die von Mitgliedern des betroffenen Personals der HES-SO Valais/Wallis stammen, werden gemäss den in Absatz 2 vorgesehenen Bestimmungen verteilt.
 
-So beschlossen im Staatsrat zu Sitten, den 16. Januar 2008.
+<sup>2</sup> In erster Linie dienen diese Erträge zur Deckung der für den Schutz des betroffenen Immaterialguts entstandenen und voraussichtlichen Kosten. Der Rest wird anschliessend wie folgt verteilt:
 
-Der Präsident des Staatsrats: Jean-Jacques Rey-Bellet Der Staatskanzler: Henri v. Roten
+- a) ein Drittel wird der HES-SO Valais/Wallis gutgeschrieben für die Beteiligung an der Finanzierung von Aktionen zur Förderung der Innovation innerhalb der Institution;
+- b) ein Drittel wird der betroffenen Hochschule gutgeschrieben, im Prinzip für ihr Forschungsinstitut bzw. ihre Forschungsinstitute für die aF&E, wobei der Entscheid von der Hochschule getroffen wird;
+- c) ein Drittel geht an die Schöpfer des Immaterialguts (Erfinder, je nach Verteilungsentscheid).
+
+<sup>3</sup> Der Urheber der Schöpfung kann zugunsten der Einheit, der er angegliedert ist, auf seinen persönlichen Anteil verzichten.
+
+<sup>4</sup> In Ausnahmefällen kann die Generaldirektion der HES-SO Valais/Wallis von der Verteilungsregel in Absatz 2 abweichen, namentlich wenn:
+
+- a) für die betroffene Forschungsarbeit besonders umfangreiche personelle, technische, finanzielle oder andere Ressourcen der HES-SO Valais/Wallis zur Verfügung gestellt wurden;
+- b) der bei der HES-SO Valais/Wallis erzielte Ertrag einen Bruttojahreslohn der betroffenen Person übersteigt.
+
+<sup>5</sup> Die Generaldirektion der HES-SO Valais/Wallis ist befugt, die in Absatz 3 aufgeführten Ausnahmen zu bestimmen.
+
+<sup>6</sup> Wenn sich der Partner im Rahmen eines Technologietransfers oder eines Forschungsvertrags verpflichtet, die Weiterführung der Forschungsarbeiten zu finanzieren, werden die entsprechenden Beiträge von Dritten nicht als Erträge aus der kommerziellen Nutzung eines Immaterialguts betrachtet.
+
+#### Art. 11
+
+**Sanktionen**
+
+<sup>1</sup> Ein Mitarbeiter, der vorsätzlich oder fahrlässig gegen seine in diesem Reglement festgelegten Pflichten verstösst, ist für sein Handeln haftbar.
+
+<sup>2</sup> Die Bestimmungen betreffend die administrativen Massnahmen für das Personal des Staates Wallis gelten sinngemäss.
+
+#### Art. 12
+
+**Zuständigkeit**
+
+<sup>1</sup> Die Anwendung des vorliegenden Reglements wird der Generaldirektion der HES-SO Valais/Wallis übertragen. Sie informiert die für die Aufsicht über die HES-SO Valais/Wallis zuständige Dienststelle über nicht ausdrücklich vorgesehene Fälle.
+
+#### Art. 13
+
+**Beschwerde**
+
+<sup>1</sup> Gegen Entscheide der HES-SO Valais/Wallis kann innert 30 Tagen nach deren Eröffnung Beschwerde beim Staatsrat eingelegt werden.
+
+<sup>2</sup> Das Beschwerdeverfahren richtet sich nach dem Gesetz über das Verwaltungsverfahren und die Verwaltungsrechtspflege (VVRG).
+
+#### Art. 14
+
+**Übergangsbestimmungen**
+
+<sup>1</sup> Für Verwertungsverfahren, die vor dem Inkrafttreten des vorliegenden Reglements im Gange sind, bleibt das Reglement über die Verwertung und Nutzung der Forschungsergebnisse der FH-Wallis und der FHW-GS vom 16. Januar 2008 anwendbar.
+
+CSW RO/AGS 2024-111
