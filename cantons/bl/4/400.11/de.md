@@ -4,13 +4,13 @@ number: "400.11"
 title: Verordnung zum Raumplanungs- und Baugesetz
 short: RBV
 language: de
-version: 2023-11-01
-valid_until: 2023-12-31
-version_adopted: 2023-10-31
+version: 2024-01-01
+valid_until: 2025-02-28
+version_adopted: 2023-12-12
 adopted: 1998-10-27
 in_force: 1999-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/400.11"
-pdf: "https://bl.clex.ch/api/de/versions/3738/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3836/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3738/pdf_file"
 
 (RBV)
 
-Vom 27.10.1998 (Stand 01.11.2023)
+Vom 27.10.1998 (Stand 01.01.2024)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -879,6 +879,19 @@ Hauptdächer, Vordächer und offene, durchgehende Balkone. Andere Bauteile dürf
 
 [^70-1]: Vgl. Anhang 1, S. 11-12.
 [^70-2]: [SR 814.01](https://db.clex.ch/link/Bund/814.01/de)
+
+#### § 70a
+
+**Hindernisfreies Bauen**
+
+<sup>1</sup> Die Begriffsdefinitionen sowie die Beurteilung der Verhältnismässigkeit richten sich nach den entsprechenden Bestimmungen des Bundesgesetzes über die Beseitigung von Benachteiligungen von Menschen mit Behinderungen (Behindertengleichstellungsgesetz, BehiG) vom 13. Dezember 2002[^70a-1], der Verordnung über die Beseitigung von Benachteiligungen von Menschen mit Behinderungen (Behindertengleichstellungsverordnung, BehiV) vom 19. November 2003[^70a-2] sowie des Gesetzes über die Rechte von Menschen mit Behinderungen (Behindertenrechtegesetz BL, BRG BL) vom 26. Januar 2023[^70a-3].
+
+<sup>2</sup> Die erforderlichen baulichen Massnahmen richten sich nach den Richtlinien «Hindernisfreie Bauten» des Schweizerischen Ingenieur- und Architektenvereins (SIA)[^70a-4].
+
+[^70a-1]: [SR 151.3](https://db.clex.ch/link/Bund/151.3/de)
+[^70a-2]: [SR 151.31](https://db.clex.ch/link/Bund/151.31/de)
+[^70a-3]: [SGS 109](https://bl.clex.ch/data/109/de)
+[^70a-4]: Norm SIA 500:2009 «Hindernisfreie Bauten» inkl. Korrigenda C1-C4.
 
 ## 5 Baupolizeivorschriften
 
