@@ -4,11 +4,11 @@ title: "Ordinanza del DFAE del 20 settembre 2002 concernente l'ordinanza sul per
 short: O-OPers-DFAE
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/427"
 language: it
-version: 2022-03-01
+version: 2024-01-01
 adopted: 2002-09-20
 in_force: 2002-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/427/20220301/it/xml/fedlex-data-admin-ch-eli-cc-2002-427-20220301-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/427/20220301/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/427/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2002-427-20240101-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/427/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/427/20220301/it"
 
 (O-OPers–DFAE)
 
-del 20 settembre 2002 (Stato 1° marzo 2022)
+del 20 settembre 2002 (Stato 1° gennaio 2024)
 
 Il Dipartimento federale degli affari esteri (DFAE), d’intesa con il Dipartimento federale delle finanze (DFF),
 
@@ -597,7 +597,7 @@ Le rappresentanze all’estero non forniscono alcun servizio di picchetto.
 
 [^51-1]
 
-<sup>1</sup> e <sup>2</sup> ...[^51-2]
+<sup>1 e <sup>2</sup></sup> ...[^51-2]
 
 <sup>3</sup> Gli impiegati in servizio all’estero prendono congedi sabbatici in occasione dei trasferimenti o dopo la fine di un impiego. In casi particolari, la DR può autorizzarli a prendere questi congedi in un altro momento.[^51-3]
 
@@ -684,13 +684,13 @@ Gli impiegati in servizio all’estero hanno diritto a vacanze di:[^56-1]
 - b. sette settimane a partire dall’anno civile in cui compiono il 50° anno d’età;
 - c. otto settimane a partire dall’anno civile in cui compiono il 60° anno d’età.
 
-<sup>2</sup> Per gli impiegati in luoghi d’impiego con condizioni di vita difficili il diritto alle vacanze aumenta di una settimana, con condizioni di vita molto difficili di due settimane. La base è data dall’indice di cui all’articolo 23.
+<sup>2 e <sup>3</sup></sup> ...[^56-2]
 
-<sup>3</sup> Se nell’indice di cui all’articolo 23 il luogo d’impiego ha al massimo 55 punti nel settore della sanità, sussiste il diritto a una settimana di vacanza supplementare, ma non deve essere superato il massimo per i luoghi d’impiego con condizioni di vita molto difficili.
-
-<sup>4</sup> Il diritto alle vacanze in caso di trasferimenti in luoghi d’impiego con altre condizioni di vita durante un anno civile si basa sulla durata dell’impiego nei diversi luoghi d’impiego.
+<sup>4</sup> Se un impiego all’estero inizia o termina durante un anno civile, il diritto alle vacanze è calcolato in modo proporzionale alla durata del soggiorno all’estero e in Svizzera.[^56-3]
 
 [^56-1]: Nuovo testo giusta il n. I dell’O del DFAE del 28 set. 2005, in vigore dal 1° nov. 2005 ([RU 2005 4703](https://fedlex.data.admin.ch/eli/oc/2005/623)).
+[^56-2]: Abrogati dal n. I dell’O del DFAE del 2 lug. 2023, con effetto dal 1° gen. 2024 ([RU 2023 420](https://fedlex.data.admin.ch/eli/oc/2023/420)).
+[^56-3]: Nuovo testo giusta il n. I dell’O del DFAE del 2 lug. 2023, in vigore dal 1° gen. 2024 ([RU 2023 420](https://fedlex.data.admin.ch/eli/oc/2023/420)).
 
 #### Art. 57
 
@@ -726,11 +726,32 @@ Agli impiegati che prestano volontariamente il servizio militare o civile, obbli
 
 #### Art. 60
 
-<sup>1</sup> Gli impiegati in servizio all’estero possono ricevere un congedo pagato in particolare per le attività e gli eventi indicati nell’allegato 3.[^60-1]
+[^60-1]
 
-<sup>2</sup> Per matrimoni, nascite, lutti come pure per malattie e infortuni conformemente all’articolo 40 capoverso 3 O-OPers[^60-2] il congedo può esser prolungato per la durata del viaggio di quattro giorni al massimo.
+<sup>1</sup> Gli impiegati in servizio all’estero possono ricevere un congedo pagato in particolare per le attività e gli eventi indicati nell’allegato 3.
 
-[^60-1]: Nuovo testo giusta il n. I dell’O del DFAE del 28 set. 2005, in vigore dal 1° nov. 2005 ([RU 2005 4703](https://fedlex.data.admin.ch/eli/oc/2005/623)).
+<sup>2</sup> Per matrimoni, malattie, infortuni e decessi conformemente all’articolo 40 capoverso 3 lettere a–e O-OPers[^60-2] e per nascite conformemente all’articolo 60*b* OPers il congedo può essere prolungato per la durata del viaggio di quattro giorni al massimo.
+
+<sup>3</sup>
+
+Agli impiegati in servizio all’estero viene concesso, su richiesta, un congedo pagato per anno civile della durata seguente:
+
+- a.
+
+  nei luoghi d’impiego secondo l’articolo 23 capoverso 2:
+
+  - 1\. con condizioni di vita difficili: 5 giorni lavorativi,
+  - 2\. con condizioni di vita molto difficili: 10 giorni lavorativi;
+
+- b. nei luoghi d’impiego che in occasione dell’indicizzazione di cui all’articolo 23 capoverso 1 ottengono al massimo 55 punti nel settore della sanità: 5 giorni lavorativi, purché non venga superata la durata del congedo per i luoghi d’impiego con condizioni di vita molto difficili.
+
+<sup>4</sup> Una richiesta secondo il capoverso 3 è ammessa solo se il saldo delle vacanze e del congedo di cui al capoverso 3 degli anni precedenti è nullo. La data di presentazione della richiesta non influisce sul numero dei giorni di congedo.
+
+<sup>5</sup> In caso di trasferimenti in luoghi d’impiego con altre condizioni di vita durante un anno civile, il congedo di cui al capoverso 3 è calcolato in modo proporzionale alla durata del soggiorno nei diversi luoghi d’impiego*.*
+
+<sup>6</sup> Il congedo pagato di cui al capoverso 3 deve essere preso nell’anno civile in cui è stato concesso. Se ciò non è possibile a causa di impellenti motivi di servizio o a causa di malattia o infortunio, il congedo pagato deve essere preso l’anno successivo. Il congedo pagato viene a cadere senza risarcimento se non viene preso per altri motivi, ma al più tardi al termine dell’impiego all’estero.
+
+[^60-1]: Nuovo testo giusta il n. I dell’O del DFAE del 2 lug. 2023, in vigore dal 1° gen. 2024 ([RU 2023 420](https://fedlex.data.admin.ch/eli/oc/2023/420)).
 [^60-2]: [RS 172.220.111.31](https://fedlex.data.admin.ch/eli/cc/2001/485)
 
 ## Capitolo 7: Altre prestazioni del datore di lavoro per gli impiegati in servizio all’estero
@@ -1896,7 +1917,7 @@ Allo scadere delle seguenti durate minime di soggiorno in luoghi d’impiego dal
 <sup>4</sup> Nella decisione di trasferimento degli impiegati si prendono in considerazione gli interessi di servizio e le pari opportunità nonché la formazione, l’esperienza, le competenze, le conoscenze specifiche e il potenziale degli impiegati ai fini dello svolgimento della funzione prevista come pure il loro stato di salute. Se possibile si tiene conto anche dello stato di salute della persona di accompagnamento come pure dello stato di salute e delle possibilità di formazione per i figli.
 
 [^132-1]: Nuovo testo giusta il n. I dell’O del DFAE del 3 mag. 2018, in vigore dal 1° gen. 2019 ([RU 2018 1867](https://fedlex.data.admin.ch/eli/oc/2018/285)).
-[^132-2]: L del 24 mar. 2000 sul personale federale ([RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123))
+[^132-2]: L del 24 mar. 2000 sul personale federale ([RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)).
 
 #### Art. 133
 
@@ -2148,21 +2169,24 @@ La DR emana istruzioni nei seguenti settori:
 
 #### Art. 157
 
-<sup>1</sup> ...[^157-1]
+<sup>1</sup>
 
 Sono abrogati i seguenti regolamenti:
 
-- a. il regolamento d’esecuzione I del 21 dicembre 2001[^157-2];
-- b. il regolamento d’esecuzione II del 6 aprile 1976[^157-3];
-- c. il regolamento d’esecuzione V del 1° gennaio 2002[^157-4];
-- d. il regolamento d’esecuzione VII del 1° gennaio 2002[^157-5].
-- [tab] <sup>2</sup> I seguenti regolamenti sono modificati come segue:
+- a. il regolamento d’esecuzione I del 21 dicembre 2001[^157-1];
+- b. il regolamento d’esecuzione II del 6 aprile 1976[^157-2];
+- c. il regolamento d’esecuzione V del 1° gennaio 2002[^157-3];
+- d. il regolamento d’esecuzione VII del 1° gennaio 2002[^157-4].
 
-[^157-1]: Le mod. possono essere consultate alla [RU 2002 2917](https://fedlex.data.admin.ch/eli/oc/2002/427).
+<sup>2</sup> I seguenti regolamenti sono modificati come segue:
+
+...[^157-5]
+
+[^157-1]: Non pubblicato nella RU.
 [^157-2]: Non pubblicato nella RU.
 [^157-3]: Non pubblicato nella RU.
 [^157-4]: Non pubblicato nella RU.
-[^157-5]: Non pubblicato nella RU.
+[^157-5]: Le mod. possono essere consultate alla [RU 2002 2917](https://fedlex.data.admin.ch/eli/oc/2002/427).
 
 ### Sezione 3: Disposizioni transitorie
 

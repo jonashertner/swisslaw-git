@@ -4,11 +4,11 @@ title: Verordnung des EDA vom 20. September 2002 zur Bundespersonalverordnung (V
 short: VBPV-EDA
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/427"
 language: de
-version: 2022-03-01
+version: 2024-01-01
 adopted: 2002-09-20
 in_force: 2002-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/427/20220301/de/xml/fedlex-data-admin-ch-eli-cc-2002-427-20220301-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/427/20220301/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/427/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2002-427-20240101-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/427/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/427/20220301/de"
 
 (VBPV–EDA)
 
-vom 20. September 2002 (Stand am 1. März 2022)
+vom 20. September 2002 (Stand am 1. Januar 2024)
 
 Das Eidgenössische Departement für auswärtige Angelegenheiten (EDA), im Einvernehmen mit dem Eidgenössischen Finanzdepartement (EFD),
 
@@ -598,7 +598,7 @@ Die Auslandvertretungen leisten keinen Pikettdienst.
 
 [^51-1]
 
-<sup>1</sup> und <sup>2</sup> …[^51-2]
+<sup>1 und <sup>2</sup></sup> …[^51-2]
 
 <sup>3</sup> Im Ausland eingesetzte Angestellte beziehen Auszeiten anlässlich von Versetzungen oder nach Beendigung eines Einsatzes. In besonderen Fällen kann die DR dem Bezug zu einem anderen Zeitpunkt zustimmen.[^51-3]
 
@@ -685,13 +685,13 @@ Die Angestellten im Ausland haben Anspruch auf Ferien von:[^56-1]
 - b. sieben Wochen vom Beginn des Kalenderjahres an, in dem sie das 50. Altersjahr vollenden;
 - c. acht Wochen vom Beginn des Kalenderjahres an, in dem sie das 60. Altersjahr vollenden.
 
-<sup>2</sup> Für Angestellte an Einsatzorten mit schwierigen Lebensbedingungen erhöht sich der Anspruch auf Ferien um eine Woche, bei sehr schwierigen Lebensbedingungen um zwei Wochen. Als Basis dient der Index nach Artikel 23.
+<sup>2 und <sup>3</sup></sup> …[^56-2]
 
-<sup>3</sup> Hat der Einsatzort im Index nach Artikel 23 höchstens 55 Indexpunkte im Bereich Gesundheit, so besteht ein Anspruch auf eine zusätzliche Ferienwoche, wobei das Maximum für Einsatzorte mit sehr schwierigen Lebensbedingungen nicht überschritten werden darf.
-
-<sup>4</sup> Der Ferienanspruch bei Versetzungen nach Einsatzorten mit anderen Lebensbedingungen während eines Kalenderjahres richtet sich nach der Aufenthaltsdauer an den verschiedenen Einsatzorten.
+<sup>4</sup> Beginnt oder endet ein Auslandeinsatz während eines Kalenderjahres, so richtet sich der Ferienanspruch anteilmässig nach der Aufenthaltsdauer im Ausland und in der Schweiz.[^56-3]
 
 [^56-1]: Fassung gemäss Ziff. I der V des EDA vom 28. Sept. 2005, in Kraft seit 1. Nov. 2005 ([AS 2005 4703](https://fedlex.data.admin.ch/eli/oc/2005/623)).
+[^56-2]: Aufgehoben durch Ziff. I der V des EDA vom 2. Juli 2023, mit Wirkung seit 1. Jan. 2024 ([AS 2023 420](https://fedlex.data.admin.ch/eli/oc/2023/420)).
+[^56-3]: Fassung gemäss Ziff. I der V des EDA vom 2. Juli 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 420](https://fedlex.data.admin.ch/eli/oc/2023/420)).
 
 #### Art. 57
 
@@ -727,11 +727,32 @@ Den Angestellten, die den bei Wohnsitz in der Schweiz obligatorischen Militär- 
 
 #### Art. 60
 
-<sup>1</sup> Den Angestellten im Ausland kann insbesondere für die im Anhang 3 aufgeführten Aktivitäten und Ereignisse bezahlter Urlaub gewährt werden.[^60-1]
+[^60-1]
 
-<sup>2</sup> Bei Hochzeiten, Geburten, Todesfällen sowie bei Erkrankungen und Unfällen nach Artikel 40 Absatz 3 VBPV[^60-2] kann der Urlaub für die Dauer der Reise um höchstens vier Tage verlängert werden.
+<sup>1</sup> Den Angestellten im Ausland kann insbesondere für die im Anhang 3 aufgeführten Aktivitäten und Ereignisse bezahlter Urlaub gewährt werden.
 
-[^60-1]: Fassung gemäss Ziff. I der V des EDA vom 28. Sept. 2005, in Kraft seit 1. Nov. 2005 ([AS 2005 4703](https://fedlex.data.admin.ch/eli/oc/2005/623)).
+<sup>2</sup> Bei Hochzeiten, Erkrankungen, Unfällen und Todesfällen nach Artikel 40 Absatz 3 Buchstaben a–e VBPV[^60-2] und bei Geburten nach Artikel 60*b* BPV kann der Urlaub für die Dauer der Reise um höchstens vier Tage verlängert werden.
+
+<sup>3</sup>
+
+Den Angestellten im Ausland wird auf Gesuch hin pro Kalenderjahr bezahlter Urlaub gewährt:
+
+- a.
+
+  an Einsatzorten nach Artikel 23 Absatz 2:
+
+  - 1\. mit schwierigen Lebensbedingungen: 5 Arbeitstage,
+  - 2\. mit sehr schwierigen Lebensbedingungen: 10 Arbeitstage;
+
+- b. an Einsatzorten, die bei der Indexierung nach Artikel 23 Absatz 1 höchstens 55 Indexpunkte im Bereich Gesundheit erhalten: 5 Arbeitstage, wobei die Urlaubsdauer für Einsatzorte mit sehr schwierigen Lebensbedingungen nicht überschritten werden darf.
+
+<sup>4</sup> Ein Gesuch nach Absatz 3 ist nur zulässig, wenn kein Feriensaldo und kein Urlaubsaldo nach Absatz 3 aus den Vorjahren besteht. Der Zeitpunkt der Gesuchseinreichung hat keinen Einfluss auf die Anzahl Urlaubstage.
+
+<sup>5</sup> Bei Versetzungen während eines Kalenderjahres an Einsatzorte mit anderen Lebensbedingungen richtet sich die Urlaubsgewährung nach Absatz 3 anteilmässig nach der Aufenthaltsdauer an den verschiedenen Einsatzorten*.*
+
+<sup>6</sup> Der bezahlte Urlaub nach Absatz 3 ist in dem Kalenderjahr zu beziehen, in dem er gewährt wird. Ist dies aus zwingenden betrieblichen Gründen oder wegen Krankheit oder Unfall nicht möglich, so ist er im Folgejahr zu beziehen. Der bezahlte Urlaub verfällt entschädigungslos, wenn er aus anderen Gründen nicht bezogen wird, spätestens aber am Ende des Auslandeinsatzes.
+
+[^60-1]: Fassung gemäss Ziff. I der V des EDA vom 2. Juli 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 420](https://fedlex.data.admin.ch/eli/oc/2023/420)).
 [^60-2]: [SR 172.220.111.31](https://fedlex.data.admin.ch/eli/cc/2001/485)
 
 ## 7. Kapitel: Weitere Leistungen des Arbeitgebers an Angestellte im Ausland
@@ -2286,8 +2307,6 @@ Ausbildungskostenbeiträge in der Schweiz, die Angestellten zum Zeitpunkt des In
 <sup>2</sup> Die Artikel 26 Absatz 3, 108 Absatz 1 Buchstabe a und 112 Absatz 4 treten am 1. Januar 2003 in Kraft.
 
 <sup>3</sup> Artikel 157 Absatz 2 Buchstaben a und b treten wie folgt in Kraft: Artikel 9 des Vollzugsreglementes III vom 1. April 1997 und Artikel 10.1 Absatz 3 des Vollzugsreglementes IV vom 1. Januar 2002 treten am 1. Januar 2003 in Kraft.
-
-- [tab]
 
 Anhang 1[^t-1]
 

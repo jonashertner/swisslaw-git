@@ -4,11 +4,11 @@ title: "Ordonnance du DFAE du 20 septembre 2002 concernant l'ordonnance sur le p
 short: O-OPers-DFAE
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/427"
 language: fr
-version: 2022-03-01
+version: 2024-01-01
 adopted: 2002-09-20
 in_force: 2002-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/427/20220301/fr/xml/fedlex-data-admin-ch-eli-cc-2002-427-20220301-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/427/20220301/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/427/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2002-427-20240101-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/427/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/427/20220301/fr"
 
 (O-OPers – DFAE)
 
-du 20 septembre 2002 (État le 1<sup>er</sup> mars 2022)
+du 20 septembre 2002 (État le 1<sup>er</sup> janvier 2024)
 
 Le Département fédéral des affaires étrangères (DFAE), en accord avec le Département fédéral des finances (DFF),
 
@@ -601,7 +601,7 @@ Les représentations à l’étranger n’assurent pas de service de permanence.
 
 [^51-1]
 
-<sup>1</sup> et <sup>2</sup> …[^51-2]
+<sup>1 et <sup>2</sup></sup> …[^51-2]
 
 <sup>3</sup> Les employés affectés à l’étranger font usage de leur congé sabbatique à l’occasion des transferts ou à la fin d’une affectation. Dans des cas particuliers, la DR peut autoriser la prise d’un congé sabbatique à un autre moment.[^51-3]
 
@@ -688,13 +688,13 @@ Les employés affectés à l’étranger ont droit à:[^56-1]
 - b. sept semaines de vacances à partir du début de l’année civile pendant laquelle ils atteignent l’âge de 50 ans révolus;
 - c. huit semaines de vacances à partir du début de l’année civile pendant laquelle ils atteignent l’âge de 60 ans révolus.
 
-<sup>2</sup> Le droit aux vacances est augmenté d’une semaine pour les employés dans des lieux d’affectations aux conditions de vie difficiles, de deux semaines pour les lieux d’affectation aux conditions de vie très difficiles. L’indice d’après l’art. 23 est déterminant.
+<sup>2 et <sup>3</sup></sup> ...[^56-2]
 
-<sup>3</sup> Si le lieu d’affectation, selon l’indice visé à l’art. 23, let. a, au plus 55 points d’indice dans le domaine de la santé, il y a droit à une semaine supplémentaire de vacances à condition de ne pas dépasser le maximum pour les lieux d’affectations aux conditions de vie très difficiles.
-
-<sup>4</sup> En cas de transfert en cours d’année civile à un lieu d’affectation ayant d’autres conditions de vie, le droit aux vacances se calcule proportionnellement en fonction de la durée d’affectation dans les différents lieux.
+<sup>4</sup> Lorsqu’une affectation à l’étranger commence ou se termine en cours d’année civile, le droit aux vacances se calcule au prorata de la durée du séjour à l’étranger et en Suisse.[^56-3]
 
 [^56-1]: Nouvelle teneur selon le ch. I de l’O du DFAE du 28 sept. 2005, en vigueur depuis le 1<sup>er</sup> nov. 2005 ([RO 2005 4703](https://fedlex.data.admin.ch/eli/oc/2005/623)).
+[^56-2]: Abrogés par le ch. I de l’O du DFAE du 2 juil. 2023, avec effet au 1<sup>er</sup> janv. 2024 ([RO 2023 420](https://fedlex.data.admin.ch/eli/oc/2023/420)).
+[^56-3]: Nouvelle teneur selon le ch. I de l’O du DFAE du 2 juil. 2023, avec effet au 1<sup>er</sup> janv. 2024 ([RO 2023 420](https://fedlex.data.admin.ch/eli/oc/2023/420)).
 
 #### Art. 57
 
@@ -730,11 +730,32 @@ Le droit supplémentaire aux vacances à l’étranger par rapport au droit aux 
 
 #### Art. 60
 
-<sup>1</sup> Un congé payé peut être accordé aux employés affectés à l’étranger, en particulier pour les activités et événements mentionnés dans l’annexe 3.[^60-1]
+[^60-1]
 
-<sup>2</sup> En cas de mariage, naissance, décès, ainsi qu’en cas de maladie et d’accident d’après l’art. 40, al. 3, O-OPers[^60-2], le congé peut être prolongé de quatre jours au maximum pour tenir compte de la durée du voyage.
+<sup>1</sup> Un congé payé peut être accordé aux employés affectés à l’étranger en particulier pour les activités et événements mentionnés dans l’annexe 3.
 
-[^60-1]: Nouvelle teneur selon le ch. I de l’O du DFAE du 28 sept. 2005, en vigueur depuis le 1<sup>er</sup> nov. 2005 ([RO 2005 4703](https://fedlex.data.admin.ch/eli/oc/2005/623)).
+<sup>2</sup> En cas de mariage, de maladie, d’accident ou de décès conformément à l’art. 40, al. 3, let. a à e, O-OPers[^60-2], ainsi qu’en cas de naissance conformément à l’art. 60*b* OPers, le congé peut être prolongé de quatre jours au maximum pour tenir compte de la durée du voyage.
+
+<sup>3</sup>
+
+Sur demande, le congé payé ci-après est accordé aux employés affectés à l’étranger:
+
+- a.
+
+  dans les lieux d’affectation visés à l’art. 23, al. 2:
+
+  - 1\. aux conditions de vie difficiles: 5 jours ouvrés par année civile,
+  - 2\. aux conditions de vie très difficiles: 10 jours ouvrés par année civile;
+
+- b. dans les lieux d’affectation qui, lors de l’indexation visée à l’art. 23, al. 1, obtiennent au plus 55 points d’indice dans le domaine de la santé: 5 jours ouvrés par année civile, à condition de ne pas dépasser la durée du congé prévu pour les lieux d’affectation aux conditions de vie très difficiles.
+
+<sup>4</sup> La demande visée à l’al. 3 est uniquement recevable si le solde de vacances et de congé prévu à l’al. 3 des années précédentes est nul. Le moment où la demande est déposée est sans effet sur le nombre de jours de congé.
+
+<sup>5</sup> En cas de transfert en cours d’année civile à un lieu d’affectation présentant d’autres conditions de vie, l’octroi d’un congé prévu à l’al. 3 se calcule au prorata de la durée du séjour dans les différents lieux d’affectation*.*
+
+<sup>6</sup> Le congé payé visé à l’al. 3 doit être pris pendant l’année civile au cours de laquelle il est accordé. Si cela est impossible pour des raisons d’exploitation majeures ou en raison d’un accident ou d’une maladie, il doit être pris l’année suivante. S’il n’est pas pris pour d’autres raisons, et au plus tard à la fin de l’affectation à l’étranger, il est perdu sans donner droit à un dédommagement.
+
+[^60-1]: Nouvelle teneur selon le ch. I de l’O du DFAE du 2 juil. 2023, avec effet au 1<sup>er</sup> janv. 2024 ([RO 2023 420](https://fedlex.data.admin.ch/eli/oc/2023/420)).
 [^60-2]: [RS 172.220.111.31](https://fedlex.data.admin.ch/eli/cc/2001/485)
 
 ## Chapitre 7 Autres prestations de l’employeur pour les employés affectés à l’étranger
