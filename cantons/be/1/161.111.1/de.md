@@ -1,25 +1,24 @@
 ---
 canton: BE
 number: "161.111.1"
-title: Reglement der Justizleitung
+title: Reglement der Justizverwaltungsleitung
 short: JLR
 language: de
-version: 2017-07-01
-valid_until: 2023-12-31
-version_adopted: 2017-01-12
+version: 2024-01-01
+version_adopted: 2023-11-09
 adopted: 2010-05-26
 in_force: 2011-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/161.111.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1246/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2911/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Reglement der Justizleitung
+# Reglement der Justizverwaltungsleitung
 
 (JLR)
 
-vom 26.05.2010 (Stand 01.07.2017)
+vom 26.05.2010 (Stand 01.01.2024)
 
 Die Justizleitung des Kantons Bern,
 
@@ -37,13 +36,13 @@ beschliesst:
 
 **Stellung**
 
-<sup>1</sup> Die Justizleitung ist das gemeinsame Organ von Obergericht, Verwaltungsgericht und Generalstaatsanwaltschaft.
+<sup>1</sup> Die Justizverwaltungsleitung ist das gemeinsame Organ von Obergericht, Verwaltungsgericht und Generalstaatsanwaltschaft.
 
 #### Art. 2
 
 **Auftrag**
 
-<sup>1</sup> Die Justizleitung vertritt die Gerichtsbehörden und die Staatsanwaltschaft (Justiz) gegen aussen.
+<sup>1</sup> Die Justizverwaltungsleitung vertritt die Gerichtsbehörden und die Staatsanwaltschaft (Justiz) gegen aussen.
 
 <sup>2</sup> Sie gewährleistet die koordinierte und vernetzte Aufgabenerfüllung in der Gerichtsbarkeit und der Strafverfolgung im Bestreben, die Qualität und Effizienz der Aufgabenerfüllung zu fördern.
 
@@ -51,7 +50,7 @@ beschliesst:
 
 **Sitz**
 
-<sup>1</sup> Die Justizleitung hat ihren Sitz in Bern.
+<sup>1</sup> Die Justizverwaltungsleitung hat ihren Sitz in Bern.
 
 ## 2 Aufgaben
 
@@ -59,7 +58,7 @@ beschliesst:
 
 **Allgemeines**
 
-<sup>1</sup> Die Justizleitung
+<sup>1</sup> Die Justizverwaltungsleitung
 
 - a nimmt die Aufgaben gemäss Artikel 18 Absatz 1 GSOG wahr,
 - b weist die Zuständigkeiten im Personal-, Finanz- und Rechnungswesen sowie bezüglich Informatikausstattung und -management den Steuerungsebenen zu,
@@ -71,12 +70,12 @@ beschliesst:
 
 **Personal**
 
-<sup>1</sup> Die Justizleitung
+<sup>1</sup> Die Justizverwaltungsleitung
 
 - a legt die Personalstrategie für die Justiz auf der Grundlage der regierungsrätlichen Personalpolitik fest, sorgt für deren Umsetzung und definiert das Controlling,
 - b legt die Grundsätze und Ziele der Aus- und Weiterbildung für die Mitarbeiterinnen und Mitarbeiter der Justiz fest,
 - c führt die Personalkosten- und Stellenplanung,
-- d beantragt im Rahmen des Voranschlags die Schaffung neuer Stellen für Richterinnen, Richter, Staatsanwältinnen, Staatsanwälte, Jugendanwältinnen und Jugendanwälte,
+- d beantragt im Rahmen des Budgets die Schaffung neuer Stellen für Richterinnen, Richter, Staatsanwältinnen, Staatsanwälte, Assistenzstaatsanwältinnen, Assistenzstaatsanwälte, Jugendanwältinnen, Jugendanwälte, Assistenzjugendanwältinnen und Assistenzjugendanwälte,
 - e beschliesst über die Schaffung neuer unbefristeter Stellen für das übrige Personal,
 - f beantragt die Bewilligung von Nebenbeschäftigungen gemäss Artikel 30 Absatz 2 Buchstabe a GSOG,
 - g sichert die Koordination bezüglich Rekrutierung, Einreihung und Einstufung, Integration, Entwicklung und Administration.
@@ -85,18 +84,18 @@ beschliesst:
 
 **Finanz- und Rechnungswesen**
 
-<sup>1</sup> Die Justizleitung
+<sup>1</sup> Die Justizverwaltungsleitung
 
 - a legt die Finanzstrategie der Justiz fest und sorgt für deren Umsetzung,
 - b regelt die Art und Weise der Rechnungsführung und die Ausgabenbefugnisse durch besonderes Reglement,
-- c zeichnet verantwortlich für den Voranschlag sowie den Aufgaben- und Finanzplan der Justiz,
+- c zeichnet verantwortlich für das Budget sowie den Aufgaben- und Finanzplan der Justiz,
 - d führt das Finanz- und Rechnungswesen der Justiz und definiert das Controlling.
 
 #### Art. 7
 
 **Infrastruktur**
 
-<sup>1</sup> Die Justizleitung
+<sup>1</sup> Die Justizverwaltungsleitung
 
 - a legt die Strategien für die verschiedenen Bereiche der Infrastruktur und den Bedarf der von der Justiz benötigten Grundstücke und Gebäude sowie Informatik- und Kommunikationsmittel fest,
 - b wahrt die Interessen der Justiz gegenüber den zuständigen kantonalen Direktionen.
@@ -105,7 +104,7 @@ beschliesst:
 
 **Öffentlichkeitsarbeit**
 
-<sup>1</sup> Die Justizleitung
+<sup>1</sup> Die Justizverwaltungsleitung
 
 - a informiert nach den Grundsätzen der Verfassung und des Informationsgesetzes über Gegenstände, welche die Justiz als Ganzes betreffen,
 - b regelt die Öffentlichkeitsarbeit der Justiz und koordiniert die Akkreditierung von Gerichtsjournalistinnen und -journalisten.
@@ -116,7 +115,7 @@ beschliesst:
 
 **Aufsicht**
 
-<sup>1</sup> Die Justizleitung koordiniert die Wahrnehmung der Aufsicht über die Gerichtsbehörden durch das Obergericht und das Verwaltungsgericht.
+<sup>1</sup> Die Justizverwaltungsleitung koordiniert die Wahrnehmung der Aufsicht über die Gerichtsbehörden durch das Obergericht und das Verwaltungsgericht.
 
 ## 3 Organisation und Verfahren
 
@@ -124,27 +123,27 @@ beschliesst:
 
 **Zusammensetzung**
 
-<sup>1</sup> Die Justizleitung setzt sich aus den Präsidentinnen oder Präsidenten des Obergerichts und des Verwaltungsgerichts sowie aus der Generalstaatsanwältin oder dem Generalstaatsanwalt zusammen.
+<sup>1</sup> Die Justizverwaltungsleitung setzt sich aus den Präsidentinnen oder Präsidenten des Obergerichts und des Verwaltungsgerichts sowie aus der Generalstaatsanwältin oder dem Generalstaatsanwalt zusammen.
 
-<sup>2</sup> Die Leiterin oder der Leiter der Stabsstelle für Ressourcen nimmt an den Sitzungen der Justizleitung mit beratender Stimme teil.
+<sup>2</sup> Die Leiterin oder der Leiter der Stabsstelle für Ressourcen nimmt an den Sitzungen der Justizverwaltungsleitung mit beratender Stimme teil.
 
 #### Art. 11
 
 **Vorsitz**
 
-<sup>1</sup> Die Mitglieder der Justizleitung wählen aus ihren Reihen die Vorsitzende oder den Vorsitzenden.
+<sup>1</sup> Die Mitglieder der Justizverwaltungsleitung wählen aus ihren Reihen die Vorsitzende oder den Vorsitzenden.
 
 <sup>2</sup> Die Amtsdauer beträgt zwei Jahre. Wiederwahl ist zulässig.
 
-<sup>3</sup> Die oder der Vorsitzende vertritt die Justizleitung gegen aussen und insbesondere gegenüber dem Grossen Rat im Sinn von Artikel 18 Absatz 1 Buchstabe f GSOG.
+<sup>3</sup> Die oder der Vorsitzende vertritt die Justizverwaltungsleitung gegen aussen und insbesondere gegenüber dem Grossen Rat im Sinn von Artikel 6a Absatz 2 GSOG.
 
-<sup>4</sup> Sie oder er sorgt dafür, dass die Aufgaben der Justizleitung zeitgerecht, zweckmässig und koordiniert aufgenommen und abgeschlossen werden.
+<sup>4</sup> Sie oder er sorgt dafür, dass die Aufgaben der Justizverwaltungsleitung zeitgerecht, zweckmässig und koordiniert aufgenommen und abgeschlossen werden.
 
 #### Art. 12
 
 **Vertretung**
 
-<sup>1</sup> Die Mitglieder der Justizleitung wählen aus ihren Reihen die Stellvertreterin oder den Stellvertreter der oder des Vorsitzenden.
+<sup>1</sup> Die Mitglieder der Justizverwaltungsleitung wählen aus ihren Reihen die Stellvertreterin oder den Stellvertreter der oder des Vorsitzenden.
 
 <sup>2</sup> Die Amtsdauer beträgt ein Jahr. Wiederwahl ist zulässig.
 
@@ -154,27 +153,27 @@ beschliesst:
 
 **Sitzungen**
 
-<sup>1</sup> Die Justizleitung tagt, so oft es die Geschäfte erfordern.
+<sup>1</sup> Die Justizverwaltungsleitung tagt, so oft es die Geschäfte erfordern.
 
 <sup>2</sup> Die oder der Vorsitzende lädt schriftlich zu den Sitzungen ein.
 
 <sup>3</sup> Traktandenliste und Unterlagen sind in der Regel mindestens zehn Tage vor der Sitzung zuzustellen.
 
-<sup>4</sup> Die Mitglieder der Justizleitung können jederzeit verlangen, dass eine Sitzung einberufen wird.
+<sup>4</sup> Die Mitglieder der Justizverwaltungsleitung können jederzeit verlangen, dass eine Sitzung einberufen wird.
 
-<sup>5</sup> Die Sitzungen der Justizleitung sind nicht öffentlich.
+<sup>5</sup> Die Sitzungen der Justizverwaltungsleitung sind nicht öffentlich.
 
 #### Art. 14
 
 **Erweiterte Sitzungen**
 
-<sup>1</sup> Die Justizleitung kann zu ihren Sitzungen interne oder externe Personen beiziehen.
+<sup>1</sup> Die Justizverwaltungsleitung kann zu ihren Sitzungen interne oder externe Personen beiziehen.
 
 #### Art. 15
 
 **Verhinderung**
 
-<sup>1</sup> Die Mitglieder der Justizleitung lassen sich im Verhinderungsfall an Sitzungen der Justizleitung durch ihre ordentlichen Stellvertreterinnen oder Stellvertreter vertreten.
+<sup>1</sup> Die Mitglieder der Justizverwaltungsleitung lassen sich im Verhinderungsfall an Sitzungen der Justizverwaltungsleitung durch ihre ordentlichen Stellvertreterinnen oder Stellvertreter vertreten.
 
 <sup>2</sup> Sind auch die ordentlichen Stellvertreterinnen oder Stellvertreter verhindert, bestimmt das verhinderte Mitglied eine ausserordentliche Vertreterin oder einen ausserordentlichen Vertreter.
 
@@ -182,29 +181,29 @@ beschliesst:
 
 **Beschlussfassung**
 
-<sup>1</sup> Die Justizleitung fasst ihre Beschlüsse einstimmig.
+<sup>1</sup> Die Justizverwaltungsleitung fasst ihre Beschlüsse einstimmig.
 
-<sup>2</sup> Die Beschlussfassung der Justizleitung erfordert die Anwesenheit aller drei Mitglieder bzw. derer Stellvertreterinnen oder Stellvertreter.
+<sup>2</sup> Die Beschlussfassung der Justizverwaltungsleitung erfordert die Anwesenheit aller drei Mitglieder bzw. derer Stellvertreterinnen oder Stellvertreter.
 
-<sup>3</sup> Die Justizleitung kann ausnahmsweise einen Beschluss im Zirkulationsverfahren fassen, sofern keines der Mitglieder die ordentliche Behandlung des Geschäfts verlangt.
+<sup>3</sup> Die Justizverwaltungsleitung kann ausnahmsweise einen Beschluss im Zirkulationsverfahren fassen, sofern keines der Mitglieder die ordentliche Behandlung des Geschäfts verlangt.
 
 #### Art. 17
 
 **Protokoll**
 
-<sup>1</sup> Über die Sitzungen der Justizleitung wird ein Protokoll geführt.
+<sup>1</sup> Über die Sitzungen der Justizverwaltungsleitung wird ein Protokoll geführt.
 
 #### Art. 18
 
 **Unterschriftsregelung**
 
-<sup>1</sup> In Geschäften, welche in die Zuständigkeit der Justizleitung fallen, zeichnen die oder der Vorsitzende der Justizleitung und die Leiterin oder der Leiter der Stabsstelle für Ressourcen gemeinsam.
+<sup>1</sup> In Geschäften, welche in die Zuständigkeit der Justizverwaltungsleitung fallen, zeichnen die oder der Vorsitzende der Justizverwaltungsleitung und die Leiterin oder der Leiter der Stabsstelle für Ressourcen gemeinsam.
 
 #### Art. 19
 
 **Ausschüsse und Kommissionen**
 
-<sup>1</sup> Die Justizleitung kann Ausschüsse bilden und ständige oder nicht ständige Kommissionen einsetzen.
+<sup>1</sup> Die Justizverwaltungsleitung kann Ausschüsse bilden und ständige oder nicht ständige Kommissionen einsetzen.
 
 <sup>2</sup> Die Einsetzung ständiger Kommissionen erfolgt durch Reglement.
 
@@ -218,9 +217,9 @@ beschliesst:
 
 <sup>1</sup> Die Stabsstelle für Ressourcen
 
-- a führt das Sekretariat der Justizleitung,
-- b berät und unterstützt die Justizleitung bei der Erfüllung ihrer Aufgaben,
-- c prüft zuhanden der Justizleitung die Anträge und Vorlagen, welche das Obergericht, das Verwaltungsgericht oder die Staatsanwaltschaft der Justizleitung unterbreiten,
+- a führt das Sekretariat der Justizverwaltungsleitung,
+- b berät und unterstützt die Justizverwaltungsleitung bei der Erfüllung ihrer Aufgaben,
+- c prüft zuhanden der Justizverwaltungsleitung die Anträge und Vorlagen, welche das Obergericht, das Verwaltungsgericht oder die Staatsanwaltschaft der Justizverwaltungsleitung unterbreiten,
 - d bearbeitet zusammen mit den zuständigen Stellen der Gerichtsbehörden und der Staatsanwaltschaft Fragen, welche für die Justiz von grundsätzlicher Bedeutung sind,
 - e koordiniert die Information der Öffentlichkeit über die Tätigkeit der Justiz,
 - f stellt auf Stabsebene die Verbindung der Justiz gegen aussen sicher,
@@ -244,7 +243,7 @@ beschliesst:
 
 <sup>1</sup> Die Mitarbeiterinnen und Mitarbeiter der Stabsstelle für Ressourcen sind der Leiterin oder dem Leiter der Stabsstelle für Ressourcen unterstellt.
 
-<sup>2</sup> Sie werden von der Justizleitung auf Vorschlag der Leiterin oder des Leiters der Stabsstelle für Ressourcen angestellt.
+<sup>2</sup> Sie werden von der Justizverwaltungsleitung auf Vorschlag der Leiterin oder des Leiters der Stabsstelle für Ressourcen angestellt.
 
 <sup>3</sup> Die Leiterin oder der Leiter der Stabsstelle für Ressourcen legt die Aufgaben und die Zuständigkeiten der Mitarbeiterinnen und Mitarbeiter schriftlich fest und regelt die Organisation und die Abläufe in einer Geschäftsordnung.
 

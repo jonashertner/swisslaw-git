@@ -1,25 +1,24 @@
 ---
 canton: BE
 number: "161.111.1"
-title: Règlement de la Direction de la magistrature
+title: "Règlement de la Direction administrative de la magistrature *"
 short: RDM
 language: fr
-version: 2017-07-01
-valid_until: 2023-12-31
-version_adopted: 2017-01-12
+version: 2024-01-01
+version_adopted: 2023-11-09
 adopted: 2010-05-26
 in_force: 2011-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/161.111.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1246/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2911/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
 
-# Règlement de la Direction de la magistrature
+# Règlement de la Direction administrative de la magistrature
 
 (RDM)
 
-du 26.05.2010 (état au 01.07.2017)
+du 26.05.2010 (état au 01.01.2024)
 
 La Direction de la magistrature du canton de Berne,
 
@@ -37,13 +36,13 @@ arrête:
 
 **Statut**
 
-<sup>1</sup> La Direction de la magistrature est un organe commun à la Cour suprême, au Tribunal administratif et au Parquet général.
+<sup>1</sup> La Direction administrative de la magistrature est un organe commun à la Cour suprême, au Tribunal administratif et au Parquet général.
 
 #### Art. 2
 
 **Mandat**
 
-<sup>1</sup> La Direction de la magistrature représente les autorités judiciaires et le Ministère public envers les tiers.
+<sup>1</sup> La Direction administrative de la magistrature représente les autorités judiciaires et le Ministère public envers les tiers.
 
 <sup>2</sup> Elle garantit l’accomplissement coordonné et en réseau des tâches dans la juridiction et les poursuites pénales, en vue de promouvoir la qualité et l’efficacité de l’accomplissement des tâches.
 
@@ -51,7 +50,7 @@ arrête:
 
 **Siège**
 
-<sup>1</sup> La Direction de la magistrature a son siège à Berne.
+<sup>1</sup> La Direction administrative de la magistrature a son siège à Berne.
 
 ## 2 Tâches
 
@@ -59,7 +58,7 @@ arrête:
 
 **Généralités**
 
-<sup>1</sup> La Direction de lamagistrature
+<sup>1</sup> La Direction administrative de la magistrature
 
 - a assume les tâches selon l’article 18, alinéa 1 LOJM,
 - b délègue aux niveaux du pilotage les compétences en matière de personnel, de finances et de comptabilité ainsi que concernant l’équipement et la gestion informatiques,
@@ -71,12 +70,12 @@ arrête:
 
 **Personnel**
 
-<sup>1</sup> La Direction de la magistrature
+<sup>1</sup> La Direction administrative de la magistrature
 
 - a fixe la stratégie de personnel pour les autorités judiciaires et le Ministère public sur la base de la politique du personnel du Conseil-exécutif, veille à sa mise en oeuvre et définit le controlling,
-- b fixe les principes et les objectifs de formation et de formation continue pour les collaborateurs et les collaboratrices des autorités judiciaires et du Ministère public,
+- b fixe les principes et les objectifs de formation et de formation continue pour les collaboratrices et les collaborateurs des autorités judiciaires et du Ministère public,
 - c gère la planification des coûts du personnel et des postes,
-- d demande dans le cadre du budget la création de nouveaux postes de juges, de procureurs ou procureures, ainsi que de procureurs ou procureures des mineurs,
+- d demande dans le cadre du budget la création de nouveaux postes de juges, de procureures ou procureurs, de procureures-assistantes ou procureurs-assistants, de procureures ou procureurs des mineurs, ainsi que de procureures-assistantes ou procureurs-assistants des mineurs,
 - e décide de créer de nouveaux postes à durée indéterminée pour le reste du personnel,
 - f demande l’autorisation d’activités annexes selon l’article 30, alinéa 2, lettre a LOJM,
 - g garantit la coordination en matière de recrutement, de classification et d’échelonnement, d’intégration, de développement et d’administration.
@@ -85,7 +84,7 @@ arrête:
 
 **Finances et comptabilité**
 
-<sup>1</sup> La Direction de lamagistrature
+<sup>1</sup> La Direction administrative de la magistrature
 
 - a fixe la stratégie financière des autorités judiciaires et du Ministère public et veille à sa mise en œuvre,
 - b règle la manière dont les comptes doivent être tenus ainsi que les compétences en matière d’autorisations des dépenses dans un règlement spécial,
@@ -96,7 +95,7 @@ arrête:
 
 **Infrastructure**
 
-<sup>1</sup> La Direction de la magistrature
+<sup>1</sup> La Direction administrative de la magistrature
 
 - a détermine les stratégies pour les différents domaines de l’infrastructure et le besoin en immeubles et bâtiments des autorités judiciaires et du Ministère public, ainsi que les moyens informatiques et de communication,
 - b représente les intérêts des autorités judiciaires et du Ministère public envers les directions cantonales compétentes.
@@ -105,7 +104,7 @@ arrête:
 
 **Relations publiques**
 
-<sup>1</sup> La Direction de la magistrature
+<sup>1</sup> La Direction administrative de la magistrature
 
 - a donne, selon les principes de la Constitution et de la loi sur l’information, des informations sur des objets concernant les autorités judiciaires et le Ministère public dans leur ensemble,
 - b règle les relations publiques des autorités judiciaires et du Ministère public et coordonne l’accréditation des journalistes judiciaires.
@@ -116,7 +115,7 @@ arrête:
 
 **Surveillance**
 
-<sup>1</sup> La Direction de la magistrature coordonne l’exercice de la surveillance des autorités judiciaires par la Cour suprême et le Tribunal administratif.
+<sup>1</sup> La Direction administrative de la magistrature coordonne l’exercice de la surveillance des autorités judiciaires par la Cour suprême et le Tribunal administratif.
 
 ## 3 Organisation et procédure
 
@@ -124,87 +123,87 @@ arrête:
 
 **Composition**
 
-<sup>1</sup> La Direction de la magistrature se compose des présidents ou présidentes de la Cour suprême et du Tribunal administratif, ainsi que du procureur général ou de la procureure générale.
+<sup>1</sup> La Direction administrative de la magistrature se compose des présidentes ou présidents de la Cour suprême et du Tribunal administratif, ainsi que de la procureure générale ou du procureur général.
 
-<sup>2</sup> Le chef ou la cheffe de l’état-major des ressources participe avec voix consultative aux séances de la Direction de la magistrature.
+<sup>2</sup> La cheffe ou le chef de l’état-major des ressources participe avec voix consultative aux séances de la Direction administrative de la magistrature.
 
 #### Art. 11
 
 **Présidence**
 
-<sup>1</sup> Les membres de la Direction de la magistrature élisent parmi eux le président ou la présidente.
+<sup>1</sup> Les membres de la Direction administrative de la magistrature élisent parmi eux la présidente ou le président.
 
 <sup>2</sup> La période de fonction est de deux ans. La réélection est possible.
 
-<sup>3</sup> Le président ou la présidente représente la Direction de la magistrature envers les tiers et en particulier devant le Grand Conseil au sens de l’article 18, alinéa 1, lettre f LOJM.
+<sup>3</sup> La présidente ou le président représente la Direction administrative de la magistrature envers les tiers et en particulier devant le Grand Conseil au sens de l’article 6a, alinéa 2 LOJM.
 
-<sup>4</sup> Il ou elle veille à ce que les tâches de la Direction de la magistrature soient assumées et exécutées dans les délais, de manière adéquate et coordonnée.
+<sup>4</sup> Elle ou il veille à ce que les tâches de la Direction administrative de la magistrature soient assumées et exécutées dans les délais, de manière adéquate et coordonnée.
 
 #### Art. 12
 
 **Suppléance**
 
-<sup>1</sup> Les membres de la Direction de la magistrature élisent parmi eux le suppléant ou la suppléante du président ou de la présidente.
+<sup>1</sup> Les membres de la Direction administrative de la magistrature élisent parmi eux la suppléante ou le suppléant de la présidente ou du président.
 
 <sup>2</sup> La période de fonction est d’une année. La réélection est possible.
 
-<sup>3</sup> Le suppléant ou la suppléante soutient et décharge le président ou la présidente dans toutes ses fonctions, et assume la suppléance en cas d’empêchement du président ou de la présidente.
+<sup>3</sup> La suppléante ou le suppléant soutient et décharge la présidente ou le président dans toutes ses fonctions, et assume la suppléance en cas d’empêchement de la présidente ou du président.
 
 #### Art. 13
 
 **Séances**
 
-<sup>1</sup> La Direction de la magistrature se réunit aussi souvent que les affaires l’exigent.
+<sup>1</sup> La Direction administrative de la magistrature se réunit aussi souvent que les affaires l’exigent.
 
-<sup>2</sup> Le président ou la présidente convoque aux séances par écrit.
+<sup>2</sup> La présidente ou le président convoque aux séances par écrit.
 
 <sup>3</sup> L’ordre du jour et les documents doivent généralement être envoyés au moins dix jours avant la séance.
 
-<sup>4</sup> Les membres de la Direction de la magistrature peuvent exiger en tout temps la convocation d’une séance.
+<sup>4</sup> Les membres de la Direction administrative de la magistrature peuvent exiger en tout temps la convocation d’une séance.
 
-<sup>5</sup> Les séances de la Direction de la magistrature ne sont pas publiques.
+<sup>5</sup> Les séances de la Direction administrative de la magistrature ne sont pas publiques.
 
 #### Art. 14
 
 **Séances élargies**
 
-<sup>1</sup> La Direction de la magistrature peut faire participer à ses séances des personnes internes ou externes.
+<sup>1</sup> La Direction administrative de la magistrature peut faire participer à ses séances des personnes internes ou externes.
 
 #### Art. 15
 
 **Empêchement**
 
-<sup>1</sup> En cas d’empêchement de participer aux séances, les membres de la Direction de la magistrature se font représenter par leurs suppléants ou suppléantes ordinaires.
+<sup>1</sup> En cas d’empêchement de participer aux séances, les membres de la Direction administrative de la magistrature se font représenter par leurs suppléantes ou suppléants ordinaires.
 
-<sup>2</sup> Lorsque les suppléants ou suppléantes ordinaires sont également empêchés, le membre empêché désigne un suppléant ou une suppléante extraordinaire.
+<sup>2</sup> Lorsque les suppléantes ou suppléants ordinaires sont également empêchés, le membre empêché désigne une suppléante ou un suppléant extraordinaire.
 
 #### Art. 16
 
 **Décisions**
 
-<sup>1</sup> La Direction de la magistrature prend ses décisions à l’unanimité.
+<sup>1</sup> La Direction administrative de la magistrature prend ses décisions à l’unanimité.
 
-<sup>2</sup> La présence des trois membres ou de leurs suppléants ou suppléantes est requise pour que la Direction de la magistrature puisse décider valablement.
+<sup>2</sup> La présence des trois membres ou de leurs suppléantes ou suppléants est requise pour que la Direction administrative de la magistrature puisse décider valablement.
 
-<sup>3</sup> La Direction de la magistrature peut exceptionnellement prendre une décision par voie de circulation dans la mesure où aucun membre n’exige le traitement ordinaire de l’affaire.
+<sup>3</sup> La Direction administrative de la magistrature peut exceptionnellement prendre une décision par voie de circulation dans la mesure où aucun membre n’exige le traitement ordinaire de l’affaire.
 
 #### Art. 17
 
 **Procès-verbal**
 
-<sup>1</sup> Les séances de la Direction de la magistrature font l’objet d’un procès-verbal.
+<sup>1</sup> Les séances de la Direction administrative de la magistrature font l’objet d’un procès-verbal.
 
 #### Art. 18
 
 **Réglementation des signatures**
 
-<sup>1</sup> Pour les affaires ressortissant à la Direction de la magistrature, le président ou la présidente de la Direction de la magistrature et le chef ou la cheffe de l’état-major des ressources signent collectivement.
+<sup>1</sup> Pour les affaires ressortissant à la Direction administrative de la magistrature, la présidente ou le président de la Direction administrative de la magistrature et la cheffe ou le chef de l’état-major des ressources signent collectivement.
 
 #### Art. 19
 
 **Comités et commissions**
 
-<sup>1</sup> La Direction de la magistrature peut constituer des comités et mettre en place des commissions permanentes ou non permanentes.
+<sup>1</sup> La Direction administrative de la magistrature peut constituer des comités et mettre en place des commissions permanentes ou non permanentes.
 
 <sup>2</sup> La mise en place de commissions permanentes se fait par un règlement.
 
@@ -218,9 +217,9 @@ arrête:
 
 <sup>1</sup> L’état-major des ressources
 
-- a dirige le secrétariat de la Direction de la magistrature,
-- b conseille et soutient la Direction de la magistrature dans l’accomplissement de ses tâches,
-- c examine, à l’intention de la Direction de la magistrature, les propositions et les projets que la Cour suprême, le Tribunal administratif ou le Ministère public soumettent à la Direction de la magistrature,
+- a dirige le secrétariat de la Direction administrative de la magistrature,
+- b conseille et soutient la Direction administrative de la magistrature dans l’accomplissement de ses tâches,
+- c examine, à l’intention de la Direction administrative de la magistrature, les propositions et les projets que la Cour suprême, le Tribunal administratif ou le Ministère public soumettent à la Direction administrative de la magistrature,
 - d traite en collaboration avec les services compétents des autorités judiciaires et du Ministère public les questions ayant une importance fondamentale pour les autorités judiciaires et le Ministère public,
 - e coordonne l’information du public concernant les activités des autorités judiciaires et du Ministère public,
 - f garantit au niveau de l’état-major les contacts des autorités judiciaires et du Ministère public avec l’extérieur,
@@ -242,11 +241,11 @@ arrête:
 
 **Organisation**
 
-<sup>1</sup> Les collaborateurs et les collaboratrices de l’état-major des ressources sont subordonnées au chef ou à la cheffe de l’état-major des ressources
+<sup>1</sup> Les collaboratrices et les collaborateurs de l’état-major des ressources sont subordonnés à la cheffe ou au chef de l’état-major des ressources
 
-<sup>2</sup> Ils ou elles sont engagées par la Direction de la magistrature, sur proposition du chef ou de la cheffe de l’état-major des ressources.
+<sup>2</sup> Elles et ils sont engagés par la Direction administrative de la magistrature, sur proposition de la cheffe ou du chef de l’état-major des ressources.
 
-<sup>3</sup> Le chef ou la cheffe de l’état-major des ressources fixe par écrit les tâches et les compétences des collaborateurs et des collaboratrices et règle l’organisation et les processus dans un règlement interne.
+<sup>3</sup> La cheffe ou le chef de l’état-major des ressources fixe par écrit les tâches et les compétences des collaboratrices et des collaborateurs et règle l’organisation et les processus dans un règlement interne.
 
 ## 5 Disposition finale
 
