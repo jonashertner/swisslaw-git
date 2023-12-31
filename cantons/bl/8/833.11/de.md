@@ -4,20 +4,21 @@ number: "833.11"
 title: Verordnung zum Ergänzungsleistungsgesetz zur AHV und IV
 short: "Ergänzungsleistungsverordnung, ELV BL"
 language: de
-version: 2021-01-01
-valid_until: 2023-12-31
-version_adopted: 2021-01-12
+version: 2024-01-01
+version_adopted: 2023-06-27
 adopted: 2007-12-18
 in_force: 2008-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/833.11"
-pdf: "https://bl.clex.ch/api/de/versions/2912/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4402/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung zum Ergänzungsleistungsgesetz zur AHV und IV
 
-Vom 18.12.2007 (Stand 01.01.2021)
+(Ergänzungsleistungsverordnung, ELV BL)
+
+Vom 18.12.2007 (Stand 01.01.2024)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -82,6 +83,16 @@ beschliesst:
 **Rückerstattung**
 
 <sup>1</sup> Forderungen aus Ergänzungsleistungen gehen den Forderungen aus Zusatzbeiträgen vor.
+
+#### § 3c
+
+**Anspruchsberechtigung betreutes Wohnen**
+
+<sup>1</sup> Zur Abklärung der Anspruchsberechtigung für das betreute Wohnen dient die Verfügung der Sozialversicherungsanstalt.
+
+<sup>2</sup> Für Personen, welche noch keine Ergänzungsleistungen beziehen, erlässt die Sozialversicherungsanstalt nach erfolgter Anmeldung eine Verfügung für zu Hause lebende Personen.
+
+<sup>3</sup> Die anrechenbaren Einnahmen und gegebenenfalls die Ergänzungsleistungen aus der EL-Verfügung dienen der Gemeinde zur Prüfung des Anspruchs und zur Festlegung des Umfangs der Beiträge.
 
 ## 2 Alters- und Pflegeheime sowie Spitäler
 
@@ -190,7 +201,7 @@ beschliesst:
 
 <sup>1</sup> Anspruch auf Vergütung der Kosten gemäss Art. 14 ELG[^10-1] besteht nur im Rahmen einer einfachen, wirtschaftlichen und zweckmässigen Leistungserbringung sowie unter der Voraussetzung, dass nicht andere Versicherungen für die Kosten aufkommen.
 
-<sup>2</sup> Von den anerkannten Kosten für die Betreuung gemäss den §§ 19a–19d werden die monatlichen Hilfslosenentschädigungen der AHV/IV und der Unfallversicherung sowie der monatliche Assistenzbeitrag der IV abgezogen.
+<sup>2</sup> Von den anerkannten Kosten für die Betreuung gemäss den §§ 19a–19d werden die monatlichen Hilflosenentschädigungen der AHV/IV und der Unfallversicherung sowie der monatliche Assistenzbeitrag der IV abgezogen.
 
 <sup>2<sup>bis</sup></sup> Kein Abzug gemäss Abs. 2 erfolgt, wenn die Hilflosenentschädigung an den Kantonsbeiträgen gemäss der Behindertenhilfegesetzgebung abgezogen worden ist.
 
@@ -275,18 +286,18 @@ beschliesst:
 
 <sup>1</sup> Kosten für die Hilfe im Haushalt werden vergütet, wenn die Hilfe erbracht wird:
 
-- a. von Familienangehörigen, die nicht im selben Haushalt wohnen;
-- b. von einer direkt angestellten Person;
+- a. von einer direkt angestellten Person, die nicht im selben Haushalt wohnt;
+- b. …
 - c. von einem anderen Leistungserbringer.
 
 <sup>2</sup> Die Vergütungen betragen pro Haushalt:
 
-- a. im Falle von Abs. 1 Bst. a bis CHF 25.– pro Stunde;
-- b. im Falle von Abs. 1 Bst. b bis CHF 25.– pro Stunde zuzüglich der Kosten für die obligatorischen Sozialversicherungen (AHV/IV/EO/ALV/UVG);
-- c. im Falle von Abs. 1 Bst. c bis CHF 27.90 pro Stunde;
-- d. in allen Fällen höchstens CHF 5‘500.– pro Kalenderjahr.
+- a. bis CHF 27.90 pro Stunde;
+- b. …
+- c. …
+- d. höchstens CHF 5‘500.– pro Kalenderjahr.
 
-<sup>3</sup> Im Falle von Abs. 2 Bst. b werden die Kosten für die obligatorischen Sozialversicherungen direkt an den entsprechenden Träger der Sozialversicherungen überwiesen.
+<sup>3</sup> …
 
 <sup>4</sup> …
 
