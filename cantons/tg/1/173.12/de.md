@@ -1,24 +1,27 @@
 ---
 canton: TG
 number: "173.12"
-title: Verordnung des Obergerichts über die personelle Organisation der Bezirksgerichte
+title: Verordnung über die personelle Organisation der Bezirksgerichte
 language: de
-version: 2021-01-01
-valid_until: 2023-12-31
-version_adopted: 2021-03-26
+version: 2024-01-01
+version_adopted: 2024-07-11
 adopted: 2010-02-18
 in_force: 2011-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/173.12"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2414/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2851/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung des Obergerichts über die personelle Organisation der Bezirksgerichte
+# Verordnung über die personelle Organisation der Bezirksgerichte
 
-Personelle Organisation der Bezirksgerichte - V des Obergerichts
+Verordnung über die personelle Organisation der Bezirksgerichte
 
-vom 18.02.2010 (Stand 01.01.2021)
+vom 18.02.2010 (Stand 01.01.2024)
+
+Erlassen vom Obergericht gestützt auf § 2 Abs. 4 des Gesetzes über die Zivil- und Strafrechtspflege (ZSRG)[^ingress-1].
+
+[^ingress-1]: RB [271.1](https://www.rechtsbuch.tg.ch/data/271.1/de)
 
 #### § 1
 
@@ -26,8 +29,8 @@ vom 18.02.2010 (Stand 01.01.2021)
 
 <sup>1</sup> Es sind zu wählen:
 
-- 1\. für die Bezirksgerichte Arbon und Frauenfeld: Präsidentin oder Präsident, drei weitere Berufsrichterinnen oder Berufsrichter, vier nebenamtliche Mitglieder und drei Ersatzmitglieder;
-- 2\. für die Bezirksgerichte Kreuzlingen, Münchwilen und Weinfelden: Präsidentin oder Präsident, zwei weitere Berufsrichterinnen oder Berufsrichter, vier nebenamtliche Mitglieder und drei Ersatzmitglieder.
+- 1\. für die Bezirksgerichte Arbon und Frauenfeld: Präsidentin oder Präsident, drei weitere Berufsrichterinnen oder Berufsrichter, vier nebenamtliche Mitglieder und drei Ersatzmitglieder
+- 2\. für die Bezirksgerichte Kreuzlingen, Münchwilen und Weinfelden: Präsidentin oder Präsident, zwei weitere Berufsrichterinnen oder Berufsrichter, vier nebenamtliche Mitglieder und drei Ersatzmitglieder
 
 #### § 2
 
@@ -35,11 +38,11 @@ vom 18.02.2010 (Stand 01.01.2021)
 
 <sup>1</sup> Der gesamte Beschäftigungsgrad der Berufsrichterinnen und Berufsrichter einschliesslich Präsidium beträgt:
 
-- 1\. für das Bezirksgericht Arbon: — 340 %;
-- 2\. für das Bezirksgericht Frauenfeld: — 380 %;
-- 3\. für das Bezirksgericht Kreuzlingen: — 310 %;
-- 4\. für das Bezirksgericht Münchwilen: — 260 %;
-- 5\. für das Bezirksgericht Weinfelden: — 300 %.
+- 1\. für das Bezirksgericht Arbon: — 340 %
+- 2\. für das Bezirksgericht Frauenfeld: — 380 %
+- 3\. für das Bezirksgericht Kreuzlingen: — 310 %
+- 4\. für das Bezirksgericht Münchwilen: — 260 %
+- 5\. für das Bezirksgericht Weinfelden: — 300 %
 
 #### § 3
 
@@ -63,11 +66,11 @@ vom 18.02.2010 (Stand 01.01.2021)
 
 <sup>1</sup> Das Gesamtpensum der Gerichtsschreiberinnen und Gerichtsschreiber des Bezirksgerichts beträgt:
 
-- 1\. für das Bezirksgericht Arbon: — 290 %;
-- 2\. für das Bezirksgericht Frauenfeld: — 325 %;
-- 3\. für das Bezirksgericht Kreuzlingen: — 265 %;
-- 4\. für das Bezirksgericht Münchwilen: — 220 %;
-- 5\. für das Bezirksgericht Weinfelden: — 255 %.
+- 1\. für das Bezirksgericht Arbon: — 340 %
+- 2\. für das Bezirksgericht Frauenfeld: — 380 %
+- 3\. für das Bezirksgericht Kreuzlingen: — 310 %
+- 4\. für das Bezirksgericht Münchwilen: — 260 %
+- 5\. für das Bezirksgericht Weinfelden: — 300 %
 
 <sup>2</sup> Der Beschäftigungsgrad der einzelnen Gerichtsschreiberinnen und Gerichtsschreiber wird vom Bezirksgericht festgelegt.
 
@@ -87,8 +90,6 @@ vom 18.02.2010 (Stand 01.01.2021)
 
 #### § 6
 
-**Inkrafttreten**
-
-<sup>1</sup> Diese Verordnung tritt auf den 1. Januar 2011 in Kraft.
+**…**
 
 ABl. 9/2010
