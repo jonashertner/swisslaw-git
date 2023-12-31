@@ -4,13 +4,12 @@ number: "154.221"
 title: Verordnung über besondere Entschädigungen
 short: Entschädigungsverordnung
 language: de
-version: 2019-01-01
-valid_until: 2023-12-31
-version_adopted: 2018-12-18
+version: 2024-01-01
+version_adopted: 2023-11-28
 adopted: 2010-08-10
 in_force: 2010-12-31
 url: "https://bgs.zg.ch/app/de/texts_of_law/154.221"
-pdf: "https://bgs.zg.ch/api/de/versions/1928/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2499/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.zg.ch/api/de/versions/1928/pdf_file"
 
 (Entschädigungsverordnung)
 
-Vom 10. August 2010 (Stand 1. Januar 2019)
+Vom 10. August 2010 (Stand 1. Januar 2024)
 
 Der Regierungsrat des Kantons Zug,
 
@@ -210,7 +209,7 @@ beschliesst:
 
 <sup>2</sup> Bei einem Beschäftigungsgrad von 100 % werden pro Jahr folgende Belastungszulagen ausgerichtet:
 
-- a) Fr. 5700.– für Mitarbeitende der Zuger Polizei und des Rettungsdienstes in Funktionen der Stufe A, Fr. 4800.– in Funktionen der Stufe B und Fr. 1500.– in Funktionen der Stufe C. Mitarbeitende, welche in Funktionen der Stufen A und B neu in den Polizei- oder Rettungsdienst eintreten, erhalten im ersten Jahr eine reduzierte Belastungszulage von Fr. 1800.– und im zweiten Jahr von Fr. 3600.–. Ab dem dritten Berufsjahr erhalten sie die der Funktion entsprechende ganze Belastungszulage. Den Mitarbeitenden, die über eine Ausnahmebewilligung von der Wohnsitzpflicht verfügen, wird die Belastungszulage um Fr. 600.– gekürzt.
+- a) Fr. 5700.– für Mitarbeitende der Zuger Polizei und des Rettungsdienstes in Funktionen der Stufe A, Fr. 4800.– in Funktionen der Stufe B und Fr. 1500.– in Funktionen der Stufe C. Mitarbeitende, welche in Funktionen der Stufen A und B neu in den Polizei- oder Rettungsdienst eintreten, erhalten im ersten Jahr eine reduzierte Belastungszulage von Fr. 1800.– und im zweiten Jahr von Fr. 3600.–. Ab dem dritten Berufsjahr erhalten sie die der Funktion entsprechende ganze Belastungszulage.
 - b) Fr. 3600.– für Mitarbeitende der Abteilung Strassenunterhalt des kantonalen Tiefbauamtes und für das Aufsichts-Personal der Strafanstalt Zug.
 - c) Fr. 2500.– für Försterinnen oder Förster, Forstwartinnen oder Forstwarte und Waldarbeiterinnen oder Waldarbeiter des Kantonsforstamtes sowie für Aufseherinnen oder Aufseher des Amtes für Wald und Wild.
 
