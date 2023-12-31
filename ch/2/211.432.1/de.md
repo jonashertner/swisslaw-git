@@ -4,11 +4,11 @@ title: Grundbuchverordnung vom 23. September 2011 (GBV)
 short: GBV
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/667"
 language: de
-version: 2023-01-01
+version: 2024-01-01
 adopted: 2011-09-23
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/667/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2011-667-20230101-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/667/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/667/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2011-667-20240101-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/667/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/667/20230101/de"
 
 (GBV)
 
-vom 23. September 2011 (Stand am 1. Januar 2023)
+vom 23. September 2011 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -332,9 +332,14 @@ Die Grundstücksbeschreibung enthält Angaben wie:
 
 #### Art. 21
 
-**Darstellung von Grundstücken im Plan für das Grundbuch**
+**Darstellung von Grundstücken im Plan für das Grundbuch**[^21-1]
 
-Liegenschaften und flächenmässig ausgeschiedene, im Grundbuch aufzunehmende selbstständige und dauernde Rechte werden nach den Vorschriften über die amtliche Vermessung erfasst, verwaltet und dargestellt.
+<sup>1</sup> Die Grenzpunkte und Grenzlinien der Liegenschaften und der flächenmässig ausgeschiedenen selbstständigen und dauernden Rechte an Grundstücken sowie die Bergwerke werden nach den Vorschriften über die amtliche Vermessung erhoben, verwaltet, nachgeführt und dargestellt.
+
+<sup>2</sup> Die Veränderung der Grenzlinien von Liegenschaften, von flächenmässig ausgeschiedenen selbstständigen und dauernden Rechten sowie die räumliche Veränderung von Bergwerken im Grundbuch setzen das Vorliegen von Mutationsurkunden voraus, die von dem zuständigen Ingenieur-Geometer oder der zuständigen Ingenieur-Geometerin (Art. 46*a* VAV[^21-2]) unterzeichnet sind.
+
+[^21-1]: Fassung gemäss Anhang Ziff. 1 der V vom 23. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
+[^21-2]: [SR 211.432.2](https://fedlex.data.admin.ch/eli/cc/1992/2446_2446_2446)
 
 #### Art. 22
 
@@ -832,7 +837,7 @@ Es kann die Zugriffsberechtigung entziehen, wenn:
 
 <sup>2</sup> Der Gebührenbetrag einer Behörde errechnet sich aufgrund folgender Formel:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/667/20230101/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/667/20240101/de/xml/image/image1.png)
 
 <sup>3</sup> Er beträgt aber höchstens 2 Franken pro Abfrage.
 

@@ -4,11 +4,11 @@ title: Ordonnance du 23 septembre 2011 sur le registre foncier (ORF)
 short: ORF
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/667"
 language: fr
-version: 2023-01-01
+version: 2024-01-01
 adopted: 2011-09-23
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/667/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2011-667-20230101-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/667/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/667/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2011-667-20240101-fr-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/667/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/667/20230101/fr"
 
 (ORF)
 
-du 23 septembre 2011 (Etat le 1<sup>er</sup> janvier 2023)
+du 23 septembre 2011 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -332,9 +332,14 @@ L’état descriptif de l’immeuble peut contenir les données telles que:
 
 #### Art. 21
 
-**Représentation des immeubles sur le plan du registre foncier**
+**Représentation des immeubles sur le plan du registre foncier**[^21-1]
 
-Les biens-fonds et les droits distincts et permanents portant sur une surface délimitée destinés à être immatriculés au registre foncier sont saisis, administrés et représentés conformément aux règles de la mensuration officielle.
+<sup>1</sup> Les points limites et le tracé des limites des biens-fonds et des droits distincts et permanents sur des immeubles différenciés par la surface ainsi que les mines sont saisis, administrés, mis à jour et représentés conformément aux règles de la mensuration officielle.
+
+<sup>2</sup> La modification du tracé des limites des biens-fonds et des droits distincts et permanents différenciés par la surface ainsi que la modification spatiale des mines ne peuvent être inscrites au registre foncier que sur présentation de documents de mutation signés par l’ingénieur géomètre compétent (art. 46*a* OMO[^21-2]).
+
+[^21-1]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 23 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
+[^21-2]: [RS 211.432.2](https://fedlex.data.admin.ch/eli/cc/1992/2446_2446_2446)
 
 #### Art. 22
 
@@ -834,7 +839,7 @@ Il peut retirer l’autorisation d’accès:
 
 <sup>2</sup> Le montant des émoluments d’une autorité est calculé selon la formule suivante:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/667/20230101/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/667/20240101/fr/xml/image/image1.png)
 
 <sup>3</sup> Il est toutefois de 2 francs au plus par recherche.
 
@@ -1993,8 +1998,6 @@ L’inscription indique:
 #### Art. 120
 
 **Hypothèques légales des artisans et entrepreneurs et hypothèques légales en matière de droit de superficie**
-
-<sup>1</sup>
 
 Outre les énonciations prévues à l’art. 101, l’inscription des hypothèques légales suivantes contient:
 

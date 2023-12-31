@@ -4,11 +4,11 @@ title: Ordinanza del 23 settembre 2011 sul registro fondiario (ORF)
 short: ORF
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/667"
 language: it
-version: 2023-01-01
+version: 2024-01-01
 adopted: 2011-09-23
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/667/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2011-667-20230101-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/667/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/667/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2011-667-20240101-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/667/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/667/20230101/it"
 
 (ORF)
 
-del 23 settembre 2011 (Stato 1° gennaio 2023)
+del 23 settembre 2011 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -332,9 +332,14 @@ La descrizione del fondo contiene dati quali:
 
 #### Art. 21
 
-**Rappresentazione dei fondi nel piano per il registro fondiario**
+**Rappresentazione dei fondi nel piano per il registro fondiario**[^21-1]
 
-Gli immobili e i diritti per sé stanti e permanenti limitati per superficie che devono essere intavolati nel registro fondiario sono raccolti, gestiti e rappresentati conformemente alle norme per la misurazione ufficiale.
+<sup>1</sup> I punti e le linee di confine degli immobili e dei diritti per sé stanti e permanenti costituiti sui fondi e differenziati secondo la superficie nonché le miniere sono raccolti, gestiti, aggiornati e rappresentati conformemente alle norme per la misurazione ufficiale.
+
+<sup>2</sup> La modifica delle linee di confine di immobili, di diritti per sé stanti e permanenti differenziati secondo la superficie nonché la modifica spaziale di miniere nel registro fondiario presuppongono l’esistenza di documenti di mutazione firmati dall’ingegnere geometra competente (art. 46*a* OMU[^21-2]).
+
+[^21-1]: Nuovo testo giusta l’all. n. 1 dell’O del 23 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
+[^21-2]: [RS 211.432.2](https://fedlex.data.admin.ch/eli/cc/1992/2446_2446_2446)
 
 #### Art. 22
 
@@ -552,7 +557,8 @@ I Cantoni possono prevedere di consentire l’accesso per via elettronica ai dat
   - 2\. sui quali hanno diritti, se tali dati sono necessari all’esercizio della loro attività o dei loro diritti;
 
 - e. gli amministratori immobiliari autorizzati all’accesso dalle persone di cui alla lettera d, in quanto ausiliari di questi ultimi.
-- [tab] <sup>2</sup> I Cantoni possono concedere l’accesso ai documenti giustificativi soltanto agli aventi diritto di cui al capoverso 1 lettere a e d numero 1. Adottano misure volte a garantire il rispetto dell’articolo 949*b* capoverso 2 CC e la confidenzialità dei documenti giustificativi.[^28-7]
+
+<sup>2</sup> I Cantoni possono concedere l’accesso ai documenti giustificativi soltanto agli aventi diritto di cui al capoverso 1 lettere a e d numero 1. Adottano misure volte a garantire il rispetto dell’articolo 949*b* capoverso 2 CC e la confidenzialità dei documenti giustificativi.[^28-7]
 
 <sup>3</sup> Sono esclusi dall’accesso i documenti allegati per l’identificazione secondo l’articolo 51 capoverso 1 lettera a.[^28-8]
 
@@ -831,7 +837,7 @@ Può revocare il diritto d’accesso se:
 
 <sup>2</sup> L’importo degli emolumenti di un’autorità è calcolato in base alla seguente formula:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/667/20230101/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/667/20240101/it/xml/image/image1.png)
 
 <sup>3</sup> L’importo ammonta tuttavia al massimo a due franchi per interrogazione.
 
