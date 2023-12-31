@@ -4,11 +4,11 @@ title: "Ordinanza del 31 ottobre 1947 sull'assicurazione per la vecchiaia e per 
 short: OAVS
 eli: "https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185"
 language: it
-version: 2023-09-01
+version: 2024-01-01
 adopted: 1947-10-31
 in_force: 1947-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/63/1185_1183_1185/20230901/it/xml/fedlex-data-admin-ch-eli-cc-63-1185_1183_1185-20230901-it-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/63/1185_1183_1185/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/63/1185_1183_1185/20240101/it/xml/fedlex-data-admin-ch-eli-cc-63-1185_1183_1185-20240101-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/63/1185_1183_1185/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/63/1185_1183_1185/20230901/it"
 
 (OAVS)[^t-1]
 
-del 31 ottobre 1947 (Stato 1° settembre 2023)
+del 31 ottobre 1947 (Stato 1° gennaio 2024)
 
 [^t-1]: Nuovo tit. giusta il n. I 1 dell’O dell’11 ott. 1972, in vigore dal 1° gen. 1973 ([RU 1972 2338](https://fedlex.data.admin.ch/eli/oc/1972/2507_2560_2338)). Secondo la medesima disp. i tit. marg. sono stati accentrati.
 
@@ -54,10 +54,11 @@ Il Comitato internazionale della Croce Rossa è un’organizzazione internaziona
 
 <sup>1</sup> Si intendono per organizzazioni private di assistenza sostenute in modo sostanziale dalla Confederazione secondo l’articolo 1a capoverso 1 lettera c numero 3 LAVS, le organizzazioni con le quali esiste una relazione contrattuale regolare come un contratto di programma o che ricevono sussidi regolari dalla Direzione dello sviluppo e della Cooperazione (DSC), comprese quelle sostenute tramite UNITE[^1a-1].[^1a-2]
 
-<sup>2</sup> L’Ufficio federale delle assicurazioni sociali (Ufficio federale) allestisce in collaborazione con la DSC la lista delle organizzazioni interessate.
+<sup>2</sup> L’Ufficio federale delle assicurazioni sociali (UFAS) allestisce in collaborazione con la DSC la lista delle organizzazioni interessate.[^1a-3]
 
 [^1a-1]: Associazione Svizzera per lo scambio di persone nella cooperazione internazionale.
 [^1a-2]: Nuovo testo giusta il n. I dell’O dell’11 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3710](https://fedlex.data.admin.ch/eli/oc/2002/570)).
+[^1a-3]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 ### B. Esenzioni dall’assicurazione
 
@@ -135,7 +136,7 @@ Le persone che lavorano all’estero per un datore di lavoro in Svizzera possono
 
 **Richiesta**[^5a-1]
 
-Per continuare l’assicurazione occorre presentare alla competente cassa di compensa-zione una richiesta in forma scritta o tramite un sistema d’informazione previsto nell’ambito dell’assoggettamento assicurativo.
+Per continuare l’assicurazione occorre presentare alla competente cassa di compensazione una richiesta in forma scritta o tramite un sistema d’informazione previsto nell’ambito dell’assoggettamento assicurativo.
 
 [^5a-1]: Nuovo testo giusta il n. I dell’O del 26 ott. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4057](https://fedlex.data.admin.ch/eli/oc/2016/673)).
 
@@ -303,13 +304,21 @@ Sono eccettuati dal calcolo dei contributi i redditi d’attività lucrativa che
 
 #### Art. 6<sup>quater</sup>
 
-**Contributi dovuti dagli assicurati dopo il 64° o il 65° anno di età**[^6quater-1]
+**Contributi dovuti dagli assicurati esercitanti un’attività lucrativa dopo il raggiungimento dell’età di riferimento**[^6quater-1]
 
-<sup>1</sup> I contributi delle persone esercitanti un’attività lucrativa dipendente dopo il compimento dei 64 anni, se di sesso femminile, o dei 65 anni, se di sesso maschile, sono riscossi dal datore di lavoro soltanto sulla parte del reddito eccedente 1400 franchi mensili o 16 800 franchi l’anno.
+<sup>1</sup> I contributi dei salariati che hanno raggiunto l’età di riferimento secondo l’articolo 21 capoverso 1 LAVS sono percepiti soltanto sulla parte del reddito da attività lucrativa dipendente eccedente la franchigia di 16 800 franchi l’anno per datore di lavoro, a partire dal mese successivo a quello in cui i salariati hanno raggiunto l’età di riferimento. Se l’attività non è esercitata per l’intero anno o se l’età di riferimento è raggiunta nel corso dell’anno, la franchigia è ridotta in misura proporzionale.
 
-<sup>2</sup> I contributi delle persone esercitanti un’attività lucrativa indipendente che hanno compiuto i 64 anni, se di sesso femminile, o i 65 anni, se di sesso maschile, sono percepiti soltanto sulla parte del reddito eccedente 16 800 franchi l’anno.
+<sup>2</sup> Se un salariato desidera che i contributi siano riscossi dall’intero salario, lo comunica a ogni singolo datore di lavoro al più tardi al versamento del primo salario dopo il raggiungimento dell’età di riferimento o del primo salario di ogni anno successivo.
 
-[^6quater-1]: Originario art. 6<sup>ter</sup>. Introdotto dal n. I dell’O del 5 apr. 1978 ([RU 1978 420](https://fedlex.data.admin.ch/eli/oc/1978/420_420_420)). Nuovo testo giusta il n. I dell’O del 23 nov. 2005, in vigore dal 1° gen. 2006 ([RU 2005 5631](https://fedlex.data.admin.ch/eli/oc/2005/767)).
+<sup>3</sup> La modalità di riscossione dei contributi scelta è mantenuta automaticamente per l’anno di contribuzione successivo, se il salariato non comunica al datore di lavoro la sua intenzione di modificarla al più tardi al versamento del primo salario dell’anno.
+
+<sup>4</sup> I contributi dei lavoratori indipendenti che hanno raggiunto l’età di riferimento secondo l’articolo 21 capoverso 1 LAVS sono percepiti a partire dal mese successivo soltanto sulla parte del reddito da attività lucrativa indipendente eccedente la franchigia di 16 800 franchi l’anno. Se un’attività non è esercitata per l’intero anno o se l’età di riferimento è raggiunta nel corso dell’anno, la franchigia è ridotta in misura proporzionale.
+
+<sup>5</sup> Se un lavoratore indipendente desidera rinunciare all’applicazione della franchigia, lo comunica alla cassa di compensazione competente entro il 31 dicembre dell’anno di contribuzione.
+
+<sup>6</sup> La modalità di riscossione dei contributi scelta è mantenuta automaticamente per l’anno di contribuzione successivo, se il lavoratore indipendente non ne comunica la modifica alla cassa di compensazione competente entro detto termine.
+
+[^6quater-1]: Originario art. 6<sup>ter</sup>. Introdotto dal n. I dell’O del 5 apr. 1978 ([RU 1978 420](https://fedlex.data.admin.ch/eli/oc/1978/420_420_420)). Nuovo testo giusta il n. I dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 ### I. Contributi previsti sul reddito proveniente da un’attività dipendente
 
@@ -335,7 +344,7 @@ Il salario determinante per il calcolo dei contributi comprende in particolare:[
 - n. le prestazioni eseguite dai datori di lavoro per compensare la perdita di salario subìta a causa di servizio militare;
 - o. le indennità di vacanza o per i giorni festivi;
 - p.[^7-9] le prestazioni del datore di lavoro risultanti dall’assunzione del pagamento del contributo dovuto dal salariato all’assicurazione per la vecchiaia, i superstiti e l’invalidità, all’ordinamento delle indennità di perdita di guadagno e all’assicurazione contro la disoccupazione come pure del pagamento delle imposte; è eccettuata l’assunzione del pagamento dei contributi dovuti dal salariato sui redditi in natura e sui salari globali;
-- q.[^7-10] le prestazioni del datore di lavoro al termine del rapporto di lavoro, per quanto non siano escluse dal salario determinante conformemente agli articoli 8<sup>bis</sup> o 8<sup>ter</sup>. Le rendite sono convertite in capitale. L’Ufficio federale allestisce a tal fine tavole vincolanti.
+- q.[^7-10] le prestazioni del datore di lavoro al termine del rapporto di lavoro, per quanto non siano escluse dal salario determinante conformemente agli articoli 8<sup>bis</sup> o 8<sup>ter</sup>. Le rendite sono convertite in capitale. L’UFAS[^7-11] allestisce a tal fine tavole vincolanti.
 
 [^7-1]: Nuovo testo giusta il n. I dell’O del 26 set. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4711](https://fedlex.data.admin.ch/eli/oc/2008/658)).
 [^7-2]: Nuovo testo giusta il n. I 1 dell’O dell’11 ott. 1972, in vigore dal 1° gen. 1973 ([RU 1972 2338](https://fedlex.data.admin.ch/eli/oc/1972/2507_2560_2338)).
@@ -347,6 +356,7 @@ Il salario determinante per il calcolo dei contributi comprende in particolare:[
 [^7-8]: Nuovo testo giusta il n. I del DCF del 30 dic. 1953, in vigore dal 1° gen. 1954 ([RU 1954 110](https://fedlex.data.admin.ch/eli/oc/1954/219_226_110)).
 [^7-9]: Introdotta dal n. I dell’O del 5 apr. 1978 ([RU 1978 420](https://fedlex.data.admin.ch/eli/oc/1978/420_420_420)). Nuovo testo giusta il n. I dell’O del 17 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5125](https://fedlex.data.admin.ch/eli/oc/2007/721)).
 [^7-10]: Introdotta dal n. I dell’O del 27 mag. 1981 ([RU 1981 538](https://fedlex.data.admin.ch/eli/oc/1981/538_538_538)). Nuovo testo giusta il n. I dell’O del 17 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5125](https://fedlex.data.admin.ch/eli/oc/2007/721)).
+[^7-11]: Nuova espressione giusta il n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)). Di detta mod. è tenuto conto in tutto il testo.
 
 #### Art. 8
 
@@ -653,13 +663,13 @@ Se il reddito proveniente da attività indipendenti esercitate a titolo accessor
 
 **Comunicazione delle autorità fiscali**[^27-1]
 
-<sup>1</sup> Per le persone esercitanti un’attività lucrativa indipendente a esse affiliate, le casse di compensazione domandano alle competenti autorità fiscali cantonali le indicazioni necessarie al calcolo dei contributi. L’Ufficio federale emana direttive in merito alle indicazioni necessarie e alla procedura di notifica.[^27-2]
+<sup>1</sup> Per le persone esercitanti un’attività lucrativa indipendente a esse affiliate, le casse di compensazione domandano alle competenti autorità fiscali cantonali le indicazioni necessarie al calcolo dei contributi. L’UFAS emana direttive in merito alle indicazioni necessarie e alla procedura di notifica.[^27-2]
 
 <sup>2</sup> Le autorità fiscali cantonali trasmettono man mano le indicazioni per ogni anno fiscale alle casse di compensazione.
 
 <sup>3</sup> L’autorità fiscale cantonale che non ha ricevuto nessuna domanda di comunicazione per una persona esercitante un’attività lucrativa indipendente il cui reddito può essere stabilito conformemente all’articolo 23 trasmette spontaneamente gli elementi di calcolo alla cassa cantonale di compensazione. Questa li inoltra, ove occorra, alla cassa di compensazione competente.
 
-<sup>4</sup> Per ogni persona esercitante un’attività lucrativa indipendente, le autorità fiscali che trasmettono le comunicazioni attraverso la piattaforma informatica e di comunicazione centrale della Confederazione Sedex ricevono per ogni anno di contribuzione un’indennità di 7 franchi prelevata dal Fondo di compensazione dell’assicurazione per la vecchiaia e per i superstiti. L’Ufficio federale calcola le indennità per le autorità fiscali cantonali interessate.[^27-3]
+<sup>4</sup> Per ogni persona esercitante un’attività lucrativa indipendente, le autorità fiscali che trasmettono le comunicazioni attraverso la piattaforma informatica e di comunicazione centrale della Confederazione Sedex ricevono per ogni anno di contribuzione un’indennità di 7 franchi prelevata dal Fondo di compensazione dell’assicurazione per la vecchiaia e per i superstiti. L’UFAS calcola le indennità per le autorità fiscali cantonali interessate.[^27-3]
 
 [^27-1]: Nuovo testo giusta il n. I dell’O del 1° mar. 2000, in vigore dal 1° gen. 2001 ([RU 2000 1441](https://fedlex.data.admin.ch/eli/oc/2000/226)).
 [^27-2]: Nuovo testo giusta il n. I dell’O del 19 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2011 4759](https://fedlex.data.admin.ch/eli/oc/2011/674)).
@@ -1206,7 +1216,7 @@ Si ha un anno intero di contribuzione quando una persona è stata assicurata sec
 
 <sup>1</sup> La cassa di compensazione può ricorrere ad una procedura semplificata per determinare la durata di contribuzione delle persone che hanno esercitato un’attività lucrativa in Svizzera tra il 1948 e il 1968 pur essendo domiciliate all’estero secondo il dritto civile e i cui periodi di contribuzione corrispondenti a questi anni d’attività non possono essere ricostituiti esattamente.
 
-<sup>2</sup> L’Ufficio federale elabora tavole vincolanti per determinare la durata di contribuzione degli anni 1948–1968.
+<sup>2</sup> L’UFAS elabora tavole vincolanti per determinare la durata di contribuzione degli anni 1948–1968.
 
 [^50a-1]: Originario art. 50<sup>bis</sup>. Introdotto dal n. I dell’O del 26 set. 1994, in vigore dal 1° gen. 1995 ([RU 1994 2162](https://fedlex.data.admin.ch/eli/oc/1994/2162_2162_2162)).
 
@@ -1312,13 +1322,16 @@ Il reddito proveniente da un’attività lucrativa iscritto nel conto individual
 
 **Fattori di rivalutazione**[^51bis-1]
 
-<sup>1</sup> L’Ufficio federale stabilisce ogni anno i fattori di rivalutazione dell’ammontare dei redditi dell’attività lucrativa secondo l’articolo 30 capoverso 1 LAVS.[^51bis-2]
+<sup>1</sup> L’UFAS stabilisce ogni anno i fattori di rivalutazione dell’ammontare dei redditi dell’attività lucrativa secondo l’articolo 30 capoverso 1 LAVS.[^51bis-2]
 
 <sup>2</sup> Per determinare i fattori di rivalutazione si divide l’indice delle rendite, secondo l’articolo 33<sup>ter</sup> capoverso 2 LAVS, per la media, ponderata con il fattore 1,1, degli indici dei salari di tutti gli anni civili registrati dalla prima iscrizione nel conto individuale dell’assicurato fino all’anno precedente l’evento assicurativo.[^51bis-3]
+
+<sup>3</sup> L’articolo 30 capoverso 1 LAVS non è applicabile all’ammontare dei redditi dell’attività lucrativa conseguiti dopo il raggiungimento dell’età di riferimento.[^51bis-4]
 
 [^51bis-1]: Introdotto dal n. I dell’O del 5 apr. 1978, in vigore dal 1° gen. 1979 ([RU 1978 420](https://fedlex.data.admin.ch/eli/oc/1978/420_420_420)).
 [^51bis-2]: Nuovo testo giusta il n. I dell’O del 29 nov. 1995, in vigore dal 1° gen. 1997 ([RU 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)).
 [^51bis-3]: Nuovo testo giusta il n. I dell’O del 17 set. 1997, in vigore dal 1° gen. 1998 ([RU 1997 2219](https://fedlex.data.admin.ch/eli/oc/1997/2219_2219_2219)).
+[^51bis-4]: Introdotto dal n. I dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 51<sup>ter</sup>
 
@@ -1326,24 +1339,25 @@ Il reddito proveniente da un’attività lucrativa iscritto nel conto individual
 
 <sup>1</sup>
 
-L’Ufficio federale informa la Commissione federale dell’assicurazione per la vecchiaia, i superstiti e l’invalidità dell’evoluzione dell’indice svizzero dei prezzi al consumo dell’Ufficio federale di statistica nonché dell’indice dei salari dell’Ufficio federale dell’industria, delle arti e mestieri e del lavoro. La Commissione sottopone al Consiglio federale proposte circa la fissazione dell’indice delle rendite al 1° gennaio seguente se:
+L’UFAS informa la Commissione federale dell’assicurazione per la vecchiaia, i superstiti e l’invalidità (Commissione) dell’evoluzione dell’indice dei salari e dell’indice svizzero dei prezzi al consumo determinati dall’Ufficio federale di statistica. La Commissione sottopone al Consiglio federale proposte circa la fissazione dell’indice delle rendite al 1° gennaio seguente se:[^51ter-2]
 
 - a. l’indice svizzero dei prezzi al consumo del mese di giugno è aumentato di più del 4 per cento negli ultimi dodici mesi; o
-- b. le rendite non sono state aumentate il 1° gennaio precedente.[^51ter-2]
+- b. le rendite non sono state aumentate il 1° gennaio precedente.[^51ter-3]
 
 <sup>1bis</sup>
 
 La base (valore 100 punti) dell’indice delle rendite secondo l’articolo 33<sup>ter</sup> capoverso 2 LAVS è costituita:
 
 - a. dal livello di 104,1 punti (settembre 1977 = 100) dell’indice svizzero dei prezzi al consumo;
-- b.[^51ter-3] dal livello di 1004 punti (giugno 1939 = 100) dell’indice dei salari nominali.[^51ter-4]
+- b.[^51ter-4] dal livello di 1004 punti (giugno 1939 = 100) dell’indice dei salari nominali.[^51ter-5]
 
-<sup>2</sup> L’Ufficio federale esamina periodicamente la situazione finanziaria dell’assicurazione per la vecchiaia e per i superstiti. Sottopone per esame i risultati delle indagini alla Commissione federale dell’assicurazione per la vecchiaia, i superstiti e l’invalidità. Questa Commissione propone, se necessario, modificazioni del rapporto tra i due indici menzionati all’articolo 33<sup>ter</sup> capoverso 2 LAVS, tenendo conto dell’articolo 212 OAVS.
+<sup>2</sup> L’UFAS esamina periodicamente la situazione finanziaria dell’assicurazione per la vecchiaia e per i superstiti. Sottopone per esame i risultati delle indagini alla Commissione federale dell’assicurazione per la vecchiaia, i superstiti e l’invalidità. Questa Commissione propone, se necessario, modificazioni del rapporto tra i due indici menzionati all’articolo 33<sup>ter</sup> capoverso 2 LAVS, tenendo conto dell’articolo 212 OAVS.
 
 [^51ter-1]: Introdotto dal n. I dell’O del 5 apr. 1978, in vigore dal 1° gen. 1979 ([RU 1978 420](https://fedlex.data.admin.ch/eli/oc/1978/420_420_420)).
-[^51ter-2]: Nuovo testo giusta il n. I dell’O del 24 giu. 1992, in vigore dal 1° gen. 1992 ([RU 1992 1288](https://fedlex.data.admin.ch/eli/oc/1992/1288_1288_1288)).
-[^51ter-3]: Nuovo testo giusta il n. I dell’O del 24 set. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4361](https://fedlex.data.admin.ch/eli/oc/2004/660)).
-[^51ter-4]: Introdotto dall’art. 11 dell’O 82 del 24 giu. 1981 su gli adeguamenti all’evoluzione dei prezzi e dei salari nell’AVS/AI, in vigore dal 1° gen. 1982 ([RU 1981 1014](https://fedlex.data.admin.ch/eli/oc/1981/1014_1014_1014)).
+[^51ter-2]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
+[^51ter-3]: Nuovo testo giusta il n. I dell’O del 24 giu. 1992, in vigore dal 1° gen. 1992 ([RU 1992 1288](https://fedlex.data.admin.ch/eli/oc/1992/1288_1288_1288)).
+[^51ter-4]: Nuovo testo giusta il n. I dell’O del 24 set. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4361](https://fedlex.data.admin.ch/eli/oc/2004/660)).
+[^51ter-5]: Introdotto dall’art. 11 dell’O 82 del 24 giu. 1981 su gli adeguamenti all’evoluzione dei prezzi e dei salari nell’AVS/AI, in vigore dal 1° gen. 1982 ([RU 1981 1014](https://fedlex.data.admin.ch/eli/oc/1981/1014_1014_1014)).
 
 #### Art. 51<sup>quater</sup>
 
@@ -1360,7 +1374,7 @@ L’importo della rendita adeguata all’indice delle rendite secondo l’artico
 <sup>1</sup> Le rendite parziali corrispondono alle seguenti percentuali della rendita completa:
 
 <table>
-<tr><th colspan="2">Rapporto tra il numero di anni interi di contribuzione dell’assicurato e quello degli assicurati della sua classe d’età, in per cento</th><th></th><th>Rendita parzialein per cento della rendita completa</th><th>Numero della scala delle rendite</th></tr>
+<tr><th colspan="2">Rapporto tra il numero di anni interi di contribuzione dell’assicurato e quello degli assicurati della sua classe d’età, in per cento</th><th></th><th>Rendita parziale in per cento della rendita completa</th><th>Numero della scala delle rendite</th></tr>
 <tr><th>di almeno</th><th colspan="2">ma inferiore a</th><th></th><th></th></tr>
 <tr><td></td><td colspan="2">2,28</td><td>2,27</td><td>1</td></tr>
 <tr><td>2,28</td><td colspan="2">4,55</td><td>4,55</td><td>2</td></tr>
@@ -1408,31 +1422,34 @@ L’importo della rendita adeguata all’indice delle rendite secondo l’artico
 <tr><td>97,73</td><td colspan="2">100,00</td><td>100,00</td><td>44</td></tr>
 </table>
 
-<sup>1bis</sup> L’Ufficio federale emana tavole relative alla graduazione delle rendite parziali in caso di anticipazione del diritto alla rendita.[^52-2]
+<sup>1bis</sup> L’UFAS emana prescrizioni relative alla graduazione delle rendite parziali in caso di anticipazione della rendita. È determinante il rapporto tra il numero degli anni interi di contribuzione dell’assicurato al momento dell’anticipazione della rendita e quello degli assicurati della sua classe d’età al raggiungimento dell’età di riferimento.[^52-2]
 
 <sup>2</sup> Viene assegnata una rendita completa qualora il rapporto tra il numero degli anni interi di contribuzione dell’assicurato e quello degli assicurati della sua classe d’età comporti almeno il 97,73 per cento.
 
 <sup>3</sup> e <sup>4</sup> ...[^52-3].
 
 [^52-1]: Nuovo testo giusta il n. I dell’O del 5 apr. 1978, in vigore dal 1° gen. 1979 ([RU 1978 420](https://fedlex.data.admin.ch/eli/oc/1978/420_420_420)).
-[^52-2]: Introdotto dal n. I dell’O del 16 set. 1998, in vigore dal 1° gen. 1999 ([RU 1998 2579](https://fedlex.data.admin.ch/eli/oc/1998/2579_2579_2579)).
+[^52-2]: Introdotto dal n. I dell’O del 16 set. 1998 ([RU 1998 2579](https://fedlex.data.admin.ch/eli/oc/1998/2579_2579_2579)). Nuovo testo giusta il n. I dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 [^52-3]: Abrogato dal n. I dell’O del 18 ott. 2000, con effetto dal 1° giu. 2002 ([RU 2002 1351](https://fedlex.data.admin.ch/eli/oc/2002/201)).
 
 #### Art. 52a
 
-**Insorgere dell’evento assicurato prima di compiere 21 anni**[^52a-1]
+**Durata di contribuzione inferiore a un anno all’insorgere dell’evento assicurato[^52a-2]**[^52a-1]
 
 Se una persona non ha una durata di contribuzione di un anno intero, tra il 1°gennaio che segue il compimento dei 20 anni e il 31 dicembre precedente l’insorgere dell’evento assicurato, la somma di tutti i redditi provenienti da un’attività lucrativa sui quali sono stati versati contributi dall’età di 17 anni compiuti fino al sorgere del diritto alla rendita, nonché la somma degli accrediti per compiti educativi e per compiti assistenziali sono divisi per la somma degli anni e dei mesi durante i quali la persona ha versato contributi.
 
 [^52a-1]: Introdotto dal n. I dell’O del 29 nov. 1995, in vigore dal 1° gen. 1997 ([RU 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)).
+[^52a-2]: Nuovo testo giusta il n. I dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 52b
 
-**Conteggio dei periodi di contribuzione compiuti prima dei 20 anni**[^52b-1]
+**Computo dei periodi di contribuzione precedenti il compimento dei 20 anni**[^52b-1]
 
-Quando la durata di contribuzione è incompleta ai sensi dell’articolo 29<sup>ter</sup> LAVS, i periodi di contribuzione compiuti prima del 1° gennaio che segue il compimento dei 20 anni sono computati ai fini di colmare lacune successive contributive.
+<sup>1</sup> Quando la durata di contribuzione è incompleta ai sensi dell’articolo 29<sup>ter</sup> o dell’articolo 40 capoverso 4 LAVS, i periodi di contribuzione precedenti il 1° gennaio che segue il compimento dei 20 anni sono computati ai fini di colmare successive lacune contributive.
 
-[^52b-1]: Introdotto dal n. I dell’O del 29 nov. 1995, in vigore dal 1° gen. 1997 ([RU 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)).
+<sup>2</sup> Al momento dell’anticipazione della rendita, i periodi di contribuzione di cui al capoverso 1 possono essere computati soltanto per colmare le lacune contributive sorte prima dell’anticipazione della rendita.
+
+[^52b-1]: Introdotto dal n. I dell’O del 29 nov. 1995 ([RU 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)). Nuovo testo giusta il n. I dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 52c
 
@@ -1458,6 +1475,30 @@ Per compensare gli anni di contribuzione mancanti anteriori al 1° gennaio 1979 
 
 [^52d-1]: Introdotto dal n. I dell’O del 29 nov. 1995, in vigore dal 1° gen. 1997 ([RU 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)).
 [^52d-2]: Nuovo testo giusta il n. I dell’O dell’11 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3710](https://fedlex.data.admin.ch/eli/oc/2002/570)).
+
+#### Art. 52d<sup>bis</sup>
+
+**Nuovo calcolo della rendita**[^52dbis-1]
+
+Il nuovo calcolo della rendita secondo l’articolo 29<sup>bis</sup> capoversi 3 e 4 LAVS è effettuato una sola volta e su richiesta. Si può tenere conto soltanto dei contributi versati tra il raggiungimento dell’età di riferimento e il mese della richiesta, ma al massimo dei contributi versati fino a cinque anni dopo il raggiungimento dell’età di riferimento.
+
+[^52dbis-1]: Introdotto dal n. I dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+
+#### Art. 52d<sup>ter</sup>
+
+**Inizio del diritto alla rendita risultante dal nuovo calcolo**[^52dter-1]
+
+Il diritto alla rendita ricalcolata secondo l’articolo 29<sup>bis</sup> capoversi 3 e 4 LAVS nasce il primo giorno del mese seguente la presentazione della richiesta.
+
+[^52dter-1]: Introdotto dal n. I dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+
+#### Art. 52d<sup>quater</sup>
+
+**Redditi da attività lucrativa considerati per colmare eventuali lacune contributive**[^52dquater-1]
+
+Per la determinazione dell’importo corrispondente al 40 per cento di cui all’articolo 29<sup>bis</sup> capoverso 4 lettera a LAVS sono considerati tutti i redditi da attività lucrativa, indipendentemente dal loro assoggettamento a contribuzione.
+
+[^52dquater-1]: Introdotto dal n. I dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 52e
 
@@ -1548,14 +1589,15 @@ Per la determinazione dell’importo degli accrediti per compiti assistenziali, 
 
 #### Art. 53
 
-**Tavole delle rendite**[^53-1]
+**Prescrizioni per il calcolo delle rendite e tavole delle rendite[^53-2]**[^53-1]
 
-<sup>1</sup> L’Ufficio federale stabilisce tavole delle rendite d’uso obbligatorio. La digradazione delle rendite mensili, relativa alla rendita semplice e completa di vecchiaia ammonta al massimo al 2,6 per cento dell’importo minimo della stessa.[^53-2]
+<sup>1</sup> L’UFAS emana prescrizioni per il calcolo delle rendite e stabilisce tavole delle rendite d’uso obbligatorio. La digradazione delle rendite mensili, relativa alla rendita semplice e completa di vecchiaia ammonta al massimo al 2,6 per cento dell’importo minimo della stessa.[^53-3]
 
 <sup>2</sup> Le rendite mensili vengono arrotondate al franco superiore qualora l’importo considerato comprenda una frazione uguale o superiore a 50 centesimi e al franco inferiore se detta frazione non raggiunge i 50 centesimi.
 
 [^53-1]: Nuovo testo giusta il n. I dell’O del 5 apr. 1978, in vigore dal 1° gen. 1979 ([RU 1978 420](https://fedlex.data.admin.ch/eli/oc/1978/420_420_420)).
-[^53-2]: Nuovo testo giusta il n. I dell’O del 31 ago. 1992, in vigore dal 1° gen. 1993 ([RU 1992 1830](https://fedlex.data.admin.ch/eli/oc/1992/1830_1830_1830)).
+[^53-2]: Nuovo testo giusta il n. I dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^53-3]: Nuovo testo giusta il n. I dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 53<sup>bis</sup>
 
@@ -1564,6 +1606,16 @@ Per la determinazione dell’importo degli accrediti per compiti assistenziali, 
 Se uno dei due coniugi non presenta una durata di contribuzione completa, l’importo massimo delle due rendite corrisponde a una percentuale dell’importo massimo in caso di rendite complete (art. 35 cpv. 1 LAVS). Questo importo è determinato addizionando la percentuale corrispondente alla scala di rendite più bassa e il doppio della percentuale corrispondente alla scala di rendite più elevata (art. 52). Questo totale deve essere diviso per tre.
 
 [^53bis-1]: Introdotto dal n. I 1 dell’O dell’11 ott. 1972 ([RU 1972 2338](https://fedlex.data.admin.ch/eli/oc/1972/2507_2560_2338)). Nuovo testo giusta il n. I dell’O del 29 nov. 1995, in vigore dal 1° gen. 1997 ([RU 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)).
+
+#### Art. 53<sup>ter</sup>
+
+**Somma delle rendite dei coniugi in caso di riscossione di una percentuale di rendita**[^53ter-1]
+
+<sup>1</sup> In caso di riscossione anticipata di una percentuale della rendita di vecchiaia, l’importo massimo delle due rendite determinato conformemente all’articolo 53<sup>bis</sup> è ulteriormente moltiplicato per la percentuale di rendita più elevata. Questo vale per analogia anche quando uno dei coniugi riscuote anticipatamente una parte della rendita di vecchiaia e l’altro riscuote una rendita d’invalidità.
+
+<sup>2</sup> In caso di rinvio di una parte della rendita di vecchiaia, si considera sempre la rendita intera.
+
+[^53ter-1]: Introdotto dal n. I dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 54
 
@@ -1595,7 +1647,7 @@ Quando la persona deceduta ha compiuto l’età indicata qui sotto, l’aumento 
 
 <sup>1</sup> ...[^54bis-2]
 
-<sup>2</sup> Esse non sono ridotte quando, addizionate alla rendita del padre o della madre, non superano la somma del 150 per cento dell’importo minimo della rendita di vecchiaia a cui si aggiungono gli importi minimi di tre rendite per figli o per orfani. Questo importo è aumentato, a partire dal quarto figlio, e per ciascuno dei seguenti, dell’importo mensile massimo della rendita di vecchiaia (art. 34 cpv. 3 LAVS).
+<sup>2</sup> Le rendite per i figli o le rendite per orfani non sono ridotte quando, addizionate alla rendita del padre o della madre, non superano la somma tra il 150 per cento dell’importo minimo della rendita di vecchiaia e gli importi minimi di tre rendite per i figli o per orfani. Questo importo è aumentato, a partire dal quarto figlio, e per ciascuno dei seguenti, dell’importo mensile massimo della rendita di vecchiaia (art. 34 cpv. 3 LAVS).[^54bis-3]
 
 <sup>3</sup> La riduzione è ripartita tra ciascuna delle rendite per figli o delle rendite per orfani.
 
@@ -1603,6 +1655,7 @@ Quando la persona deceduta ha compiuto l’età indicata qui sotto, l’aumento 
 
 [^54bis-1]: Introdotto dal n. I dell’O del 29 nov. 1995, in vigore dal 1° gen. 1997 ([RU 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)).
 [^54bis-2]: Abrogato dal n. II 2 dell’O del 28 set. 2007, con effetto dal 1° gen. 2008 ([RU 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
+[^54bis-3]: Nuovo testo giusta il n. I dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 ### C. Rendite straordinarie
 
@@ -1619,11 +1672,11 @@ La riduzione delle rendite straordinarie per figli e per orfani (art. 43 cpv. 3 
 
 [^55-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 1995, in vigore dal 1° gen. 1997 ([RU 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)).
 
-### D. Età flessibile per il godimento della rendita
+### D. Riscossione flessibile della rendita
 
 [^chap3-lvlD-1]
 
-[^chap3-lvlD-1]: Introdotto dal n. I dell’O del 29 nov. 1995, in vigore dal 1° gen. 1997 ([RU 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)).
+[^chap3-lvlD-1]: Introdotto dal n. I dell’O del 29 nov. 1995 ([RU 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)). Nuovo testo giusta il n. I dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 ### I. Rinvio della rendita
 
@@ -1638,27 +1691,29 @@ La riduzione delle rendite straordinarie per figli e per orfani (art. 43 cpv. 3 
 Sono escluse dal rinvio previsto all’articolo 39 LAVS[^55bis-3]:
 
 - a.[^55bis-4] ...
-- b.[^55bis-5] le rendite di vecchiaia che succedono a una rendita d’invalidità;
+- b.[^55bis-5] le rendite intere di vecchiaia che succedono a rendite intere d’invalidità;
+- b<sup>bis</sup>.[^55bis-6] le percentuali di rendite di vecchiaia corrispondenti alle quote percentuali di rendite d’invalidità cui succedono;
 - c. le rendite di vecchiaia cui è aggiunto un assegno per grande invalido;
-- [tab] d. a f. ...[^55bis-6]
-- g. le rendite di vecchiaia degli assicurati facoltativamente i quali, fino all’età prevista all’articolo 21 capoversi 1 e 2 LAVS, abbiano beneficiato di un assegno assistenziale secondo l’articolo 92 LAVS, o l’articolo 76 LAI[^55bis-7].
+- [tab] d. a f. ...[^55bis-7]
+- g. le rendite di vecchiaia degli assicurati facoltativamente i quali, fino all’età prevista all’articolo 21 capoversi 1 e 2 LAVS, abbiano beneficiato di un assegno assistenziale secondo l’articolo 92 LAVS, o l’articolo 76 LAI[^55bis-8].
 
 [^55bis-1]: Introdotto dal n. I del DCF del 10 gen. 1969, in vigore 1° gen. 1969 ([RU 1969 135](https://fedlex.data.admin.ch/eli/oc/1969/125_135_135)).
 [^55bis-2]: Nuovo testo giusta il n. I dell’O del 5 apr. 1978, in vigore dal 1° gen. 1979 ([RU 1978 420](https://fedlex.data.admin.ch/eli/oc/1978/420_420_420)).
 [^55bis-3]: Nuovo testo giusta il n. I dell’O del 5 apr. 1978, in vigore dal 1° gen. 1979 ([RU 1978 420](https://fedlex.data.admin.ch/eli/oc/1978/420_420_420)).
 [^55bis-4]: Abrogata dal n. I dell’O del 29 giu. 1983, con effetto dal 1° gen. 1984 ([RU 1983 903](https://fedlex.data.admin.ch/eli/oc/1983/903_903_903)).
-[^55bis-5]: Nuovo testo giusta il n. I dell’O del 29 nov. 1995, in vigore dal 1° gen. 1997 ([RU 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)).
-[^55bis-6]: Abrogate dal n. I dell’O del 29 nov. 1995, con effetto dal 1° gen. 19997 ([RU 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)).
-[^55bis-7]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845). Abbreviazione introdotta dal n. I dell’O del 5 apr. 1978, in vigore dal 1° gen. 1979 ([RU 1978 420](https://fedlex.data.admin.ch/eli/oc/1978/420_420_420)).
+[^55bis-5]: Nuovo testo giusta il n. I dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^55bis-6]: Introdotta dal n. I dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^55bis-7]: Abrogate dal n. I dell’O del 29 nov. 1995, con effetto dal 1° gen. 19997 ([RU 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)).
+[^55bis-8]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845). Abbreviazione introdotta dal n. I dell’O del 5 apr. 1978, in vigore dal 1° gen. 1979 ([RU 1978 420](https://fedlex.data.admin.ch/eli/oc/1978/420_420_420)).
 
 #### Art. 55<sup>ter</sup>
 
-**Supplemento per il rinvio della rendita**[^55ter-1]
+**Aumento in caso di rinvio della rendita**[^55ter-1]
 
-<sup>1</sup> In caso di rinvio, il supplemento percentuale della rendita è il seguente:
+<sup>1</sup> In caso di rinvio della rendita di vecchiaia sono applicabili le seguenti aliquote di aumento in percentuale della rendita:
 
 <table>
-<tr><th>Anni</th><th>e 0–2 mesi</th><th>e 3–5 mesi</th><th>e 6–8 mesi</th><th>e 9–11 mesi</th></tr>
+<tr><th>Durata del rinvio in anni</th><th>e 0–2 mesi</th><th>e 3–5 mesi</th><th>e 6–8 mesi</th><th>e 9–11 mesi</th></tr>
 <tr><td>1</td><td>5,2</td><td>6,6</td><td>8,0</td><td>9,4</td></tr>
 <tr><td>2</td><td>10,8</td><td>12,3</td><td>13,9</td><td>15,5</td></tr>
 <tr><td>3</td><td>17,1</td><td>18,8</td><td>20,5</td><td>22,2</td></tr>
@@ -1666,40 +1721,35 @@ Sono escluse dal rinvio previsto all’articolo 39 LAVS[^55bis-3]:
 <tr><td>5</td><td>31,5</td><td></td><td></td><td></td></tr>
 </table>
 
-<sup>2</sup> Il supplemento è determinato dividendo la somma delle quote mensili rinviate per il numero di mesi corrispondenti. Questa somma è moltiplicata per il tasso d’aumento corrispondente in virtù del capoverso 1.
+<sup>2</sup> L’importo dell’aumento è determinato dividendo la somma delle rendite rinviate per il numero di mesi corrispondenti e moltiplicando il risultato per la corrispondente aliquota di aumento secondo il capoverso 1.
 
-<sup>3</sup>
+<sup>3</sup> In caso di riduzione della percentuale di rendita rinviata, l’aliquota di aumento è stabilita nuovamente per la percentuale di rendita non più rinviata. L’importo dell’aumento così determinato è pagato insieme alla percentuale della rendita di vecchiaia non più rinviata.
 
-Quando rendite di superstite succedono a una rendita di vecchiaia rinviata, l’importo del supplemento ammonta:
+<sup>4</sup> Se oltre alla rendita di vecchiaia sono accordate anche rendite per i figli o rendite completive, la somma di tutti gli importi degli aumenti non può superare l’importo dell’aumento della rendita di vecchiaia.
 
-- a. per le rendite di vedove e di vedovi, all’80 per cento del supplemento versato sino ad allora;
-- b. per le rendite di orfani, al 40 per cento del supplemento versato sino ad allora.
+<sup>5</sup> L’importo dell’aumento è adeguato all’evoluzione dei salari e dei prezzi.
 
-<sup>4</sup> La somma di tutti i supplementi non deve superare l’importo del supplemento della rendita di vecchiaia.
-
-<sup>5</sup> L’importo della riduzione è adeguato all’evoluzione dei salari e dei prezzi.
-
-[^55ter-1]: Introdotto dal n. I del DCF del 10 gen. 1969 ([RU 1969 135](https://fedlex.data.admin.ch/eli/oc/1969/125_135_135)). Nuovo testo giusta il n. I dell’O del 29 nov. 1995, in vigore dal 1° gen. 1997 ([RU 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)).
+[^55ter-1]: Introdotto dal n. I del DCF del 10 gen. 1969 ([RU 1969 135](https://fedlex.data.admin.ch/eli/oc/1969/125_135_135)). Nuovo testo giusta il n. I dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 55<sup>quater</sup>
 
 **Dichiarazione di rinvio e revoca**[^55quater-1]
 
-<sup>1</sup> Il periodo di rinvio comincia il primo giorno del mese seguente il raggiungimento dell’età di pensionamento secondo l’articolo 21 capoverso 1 LAVS. La dichiarazione di rinvio va presentata tramite il modulo ufficiale entro un anno dall’inizio del periodo di rinvio. Se, durante questo termine, nessuna domanda di rinvio fu presentata, la rendita di vecchiaia va stabilita, e pagata, secondo le disposizioni generali vigenti.[^55quater-2]
+<sup>1</sup> Il periodo di rinvio comincia il primo giorno del mese seguente il raggiungimento dell’età di riferimento secondo l’articolo 21 capoverso 1 LAVS. La dichiarazione di rinvio va presentata tramite il modulo ufficiale entro un anno dall’inizio del periodo di rinvio. Se durante questo termine nessuna domanda di rinvio è stata presentata, la rendita di vecchiaia va stabilita e pagata secondo le disposizioni generali vigenti.[^55quater-2]
 
-<sup>2</sup> La revoca va fatta tramite il modulo ufficiale [^55quater-3]
+<sup>2</sup> La revoca va fatta tramite il modulo ufficiale.[^55quater-3]
 
 <sup>3</sup> Quando il rinvio di una rendita è revocato, essa è pagata dal mese seguente; è escluso il pagamento retroattivo delle rendite.
 
 <sup>4</sup> Il decesso dell’avente diritto alla rendita comporta la revoca del rinvio.[^55quater-4]
 
-<sup>5</sup> ...[^55quater-5]
+<sup>5</sup> Una riduzione della percentuale di rendita rinviata va richiesta mediante il modulo ufficiale. La modifica può prendere effetto al più presto dal mese seguente quello della richiesta.[^55quater-5]
 
 [^55quater-1]: Introdotto dal n. I del DCF del 10 gen. 1969 ([RU 1969 135](https://fedlex.data.admin.ch/eli/oc/1969/125_135_135)). Nuovo testo giusta il n. I dell’O del 5 apr. 1978, in vigore dal 1° gen. 1979 ([RU 1978 420](https://fedlex.data.admin.ch/eli/oc/1978/420_420_420)).
-[^55quater-2]: Nuovo testo giusta il n. I dell’O del 12 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 603](https://fedlex.data.admin.ch/eli/oc/2022/603)).
+[^55quater-2]: Nuovo testo giusta il n. I dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 [^55quater-3]: Nuovo testo giusta il n. I dell’O del 12 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 603](https://fedlex.data.admin.ch/eli/oc/2022/603)).
 [^55quater-4]: Nuovo testo giusta il n. I dell’O del 29 nov. 1995, in vigore dal 1° gen. 1997 ([RU 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)).
-[^55quater-5]: Abrogato dal n. I dell’O del 29 nov. 1995, con effetto dal 1° gen. 1997 ([RU 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)).
+[^55quater-5]: Nuovo testo giusta il n. I dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 ### II. Anticipazione della rendita
 
@@ -1709,33 +1759,60 @@ Quando rendite di superstite succedono a una rendita di vecchiaia rinviata, l’
 
 #### Art. 56
 
-**Importo della riduzione**[^56-1]
+**Anticipazione della rendita di vecchiaia**[^56-1]
 
-<sup>1</sup> La rendita viene ridotta dell’equivalente della rendita anticipata.
+<sup>1</sup> Il calcolo della rendita anticipata si basa sulla durata di contribuzione effettiva determinata conformemente all’articolo 52 capoverso 1<sup>bis</sup> e sul reddito fino al 31 dicembre dell’anno precedente l’inizio della riscossione anticipata della rendita.
 
-<sup>2</sup> Fino all’età del pensionamento, questo importo corrisponde al 6,8 per cento per anno d’anticipazione della rendita anticipata.[^56-2]
+<sup>2</sup> In caso di aumento della percentuale di rendita durante il periodo di riscossione anticipata sono utilizzate le medesime basi di calcolo applicate all’inizio della riscossione anticipata.
 
-<sup>3</sup> Dopo aver compiuto l’età di pensionamento, questo importo corrisponde al 6,8 per cento per anno d’anticipazione della somma delle rendite non ridotte, divisa per il numero dei mesi durante i quali la rendita è stata anticipata.
+<sup>3</sup> Un aumento della percentuale di rendita anticipata va richiesto mediante il modulo ufficiale. La modifica può prendere effetto al più presto dal mese seguente quello della richiesta.
+
+<sup>4</sup> Al raggiungimento dell’età di riferimento la rendita è fissata conformemente alle disposizioni generali per il calcolo della rendita di cui all’articolo 29<sup>bis</sup> LAVS. Fa stato il fattore di rivalutazione determinato al raggiungimento dell’età di riferimento conformemente all’articolo 51<sup>bis</sup> capoverso 2.
+
+[^56-1]: Nuovo testo giusta il n. I dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+
+#### Art. 56<sup>bis</sup>
+
+**Riduzione in caso di anticipazione della rendita**[^56bis-1]
+
+<sup>1</sup> In caso di anticipazione della riscossione della rendita di vecchiaia sono applicabili le seguenti aliquote di riduzione in percentuale della rendita:
+
+<table>
+<tr><th>Durata dell’anticipazione in anni</th><th colspan="12">e mesi</th></tr>
+<tr><th></th><th>0</th><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th><th>7</th><th>8</th><th>9</th><th>10</th><th>11</th></tr>
+<tr><td>0</td><td>–</td><td>0,6</td><td>1,1</td><td>1,7</td><td>2,3</td><td>2,8</td><td>3,4</td><td>4,0</td><td>4,5</td><td>5,1</td><td>5,7</td><td>6,2</td></tr>
+<tr><td>1</td><td>6,8</td><td>7,4</td><td>7,9</td><td>8,5</td><td>9,1</td><td>9,6</td><td>10,2</td><td>10,8</td><td>11,3</td><td>11,9</td><td>12,5</td><td>13,0</td></tr>
+<tr><td>2</td><td>13,6</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+</table>
+
+<sup>2</sup> In caso di aumento della percentuale di rendita anticipata, è stabilita una nuova aliquota di riduzione per la percentuale di rendita anticipata aggiuntiva.
+
+<sup>3</sup> Al raggiungimento dell’età di riferimento secondo l’articolo 21 capoverso 1 LAVS viene determinato l’importo definitivo della riduzione. A tal fine la somma delle rendite anticipate non ridotte è divisa per il numero di mesi durante i quali la rispettiva rendita o percentuale di rendita è stata riscossa anticipatamente; il risultato è moltiplicato per l’aliquota di riduzione applicabile per la corrispondente durata di riscossione anticipata. L’importo della riduzione della rendita applicabile a partire dal raggiungimento dell’età di riferimento risulta dalla somma degli importi delle riduzioni determinati per le singole percentuali di rendita.
 
 <sup>4</sup> L’importo della riduzione è adeguato all’evoluzione dei salari e dei prezzi.
 
-[^56-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 1995, in vigore dal 1° gen. 1997 ([RU 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)).
-[^56-2]: Vedi anche le disp. fin. della mod. del 29 nov. 1995 alla fine del presente testo (n. II [RU 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)).
+[^56bis-1]: Introdotto dal n. I dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+
+#### Art. 56<sup>t</sup>
+
+**<sup>er</sup> [^56t-1]Rinuncia all’anticipazione della rendita di vecchiaia e revoca della medesima in caso di diritto a una rendita d’invalidità**
+
+<sup>1</sup> Se un assicurato che riscuote anticipatamente una parte della rendita di vecchiaia richiede prestazioni dell’assicurazione invalidità durante il periodo di riscossione anticipata e si vede accordare una rendita d’invalidità secondo l’articolo 29 LAI[^56t-2], può rinunciare alla riscossione anticipata della rendita di vecchiaia. La rinuncia ha effetto dalla nascita del diritto alla rendita d’invalidità.
+
+<sup>2</sup> La rendita di vecchiaia riscossa anticipatamente che è stata versata tra l’inizio del diritto alla rendita d’invalidità e la rinuncia alla riscossione anticipata va restituita. L’importo da restituire può essere compensato con la rendita d’invalidità versata retroattivamente.
+
+<sup>3</sup> Se la riscossione anticipata di una parte o della totalità della rendita inizia dopo la presentazione della richiesta all’assicurazione per l’invalidità e prima della concessione della rendita d’invalidità, l’assicurato può revocare la riscossione anticipata della rendita di vecchiaia. La revoca ha effetto dall’inizio della riscossione anticipata della rendita.
+
+<sup>4</sup> Se è revocata, la rendita di vecchiaia riscossa anticipatamente va restituita. L’importo da restituire può essere compensato con la rendita d’invalidità versata retroattivamente.
+
+[^56t-1]: Introdotto dal n. I dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^56t-2]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
 
 #### Art. 57
 
-**Riduzione delle rendite per superstiti**[^57-1]
+[^57-1]
 
-<sup>1</sup>
-
-Quando una rendita per superstiti succede a una rendita di vecchiaia anticipata, la rendita è ridotta soltanto di una percentuale dell’importo della riduzione determinata in virtù dell’articolo 56. Questa percentuale ammonta:
-
-- a. all’80 per cento per le rendite per vedove e per vedovi;
-- b. al 40 per cento per le rendite per orfani.
-
-<sup>2</sup> La somma delle riduzioni delle rendite per vedove, per vedovi o per orfani non deve superare l’importo della riduzione secondo l’articolo 56. Quando il numero d’aventi diritto cambia, l’importo della riduzione deve essere adeguato.
-
-[^57-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 1995, in vigore dal 1° gen. 1997 ([RU 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)).
+[^57-1]: Abrogato dal n. I dell’O del 30 ago. 2023, con effetto dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 ### E. Calcolo anticipato della rendita
 
@@ -1772,13 +1849,14 @@ Il calcolo anticipato è effettuato dalla cassa di compensazione competente per 
 
 **Basi di calcolo**[^60-1]
 
-<sup>1</sup> Di massima, il calcolo anticipato è effettuato conformemente agli articoli 50–57. Per il calcolo anticipato delle rendite per superstiti, è determinante il momento dell’inoltro della domanda. Per il calcolo anticipato della rendita di vecchiaia è determinante l’età ordinaria di pensionamento o la data di anticipazione della rendita.
+<sup>1</sup> Il calcolo anticipato è effettuato conformemente agli articoli 50–56<sup>ter</sup>. Per il calcolo anticipato delle rendite per superstiti, è determinante il momento dell’inoltro della domanda. Per il calcolo anticipato della rendita di vecchiaia è determinante la data del raggiungimento dell’età di riferimento secondo l’articolo 21 capoverso 1 LAVS o quella dell’anticipazione della rendita.[^60-2]
 
 <sup>2</sup> La cassa di compensazione può effettuare il calcolo sulla base dei dati forniti nella domanda.
 
 <sup>3</sup> La cassa di compensazione si procura d’ufficio gli estratti di conti.
 
 [^60-1]: Nuovo testo giusta il n. I dell’O del 18 set. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2629](https://fedlex.data.admin.ch/eli/oc/2000/423)).
+[^60-2]: Nuovo testo giusta il n. I dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 61 a 66
 
@@ -1852,7 +1930,9 @@ Il calcolo anticipato è effettuato dalla cassa di compensazione competente per 
 
 <sup>1ter</sup> L’articolo 66 OAI[^67-4] è applicabile all’esercizio del diritto ad assegni per grandi invalidi e a mezzi ausiliari.[^67-5] [^67-6]
 
-<sup>2</sup> Una volta l’anno almeno, le casse cantonali di compensazione devono, mediante pubblicazioni, richiamare l’attenzione degli assicurati sulle prestazioni assicurative, le condizioni di diritto e la richiesta.[^67-7]
+<sup>1quater</sup> Se l’avente diritto a una rendita di vecchiaia muore, la richiesta di nuovo calcolo della rendita secondo l’articolo 29<sup>bis</sup> capoversi 3 e 4 LAVS può essere inoltrata dai superstiti.[^67-7]
+
+<sup>2</sup> Una volta l’anno almeno, le casse cantonali di compensazione devono, mediante pubblicazioni, richiamare l’attenzione degli assicurati sulle prestazioni assicurative, le condizioni di diritto e la richiesta.[^67-8]
 
 [^67-1]: Nuovo testo del per. giusta il n. I dell’O dell’11 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3710](https://fedlex.data.admin.ch/eli/oc/2002/570)).
 [^67-2]: Introdotto dal n. I del DCF del 10 gen. 1969 ([RU 1969 135](https://fedlex.data.admin.ch/eli/oc/1969/125_135_135)). Nuovo testo giusta l’art. 143 dell’O del 20 dic. 1982 sull’assicurazione contro gli infortuni, in vigore dal 1° gen. 1984 ([RU 1983 38](https://fedlex.data.admin.ch/eli/oc/1983/38_38_38)).
@@ -1860,7 +1940,8 @@ Il calcolo anticipato è effettuato dalla cassa di compensazione competente per 
 [^67-4]: [RS 831.201](https://fedlex.data.admin.ch/eli/cc/1961/29_29_29)
 [^67-5]: Introdotto dal n. I dell’O del 29 giu. 1983, in vigore dal 1° gen. 1984 ([RU 1983 903](https://fedlex.data.admin.ch/eli/oc/1983/903_903_903)).
 [^67-6]: Originario cpv. 1<sup>bis</sup>.
-[^67-7]: Nuovo testo giusta il n. I del DCF del 19 nov. 1965, in vigore dal 1° gen. 1966 ([RU 1965 1019](https://fedlex.data.admin.ch/eli/oc/1965/1021_1033_1019)).
+[^67-7]: Introdotto dal n. I dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^67-8]: Nuovo testo giusta il n. I del DCF del 19 nov. 1965, in vigore dal 1° gen. 1966 ([RU 1965 1019](https://fedlex.data.admin.ch/eli/oc/1965/1021_1033_1019)).
 
 ### II. Determinazione delle rendite
 
@@ -1878,7 +1959,7 @@ La decisione di assegnazione della rendita dev’essere notificata alle parti, s
 
 - a. all’avente diritto, personalmente, o al suo rappresentante legale;
 - b.[^68-4] alla terza persona o all’autorità che ha fatto valere il diritto alla rendita o alla quale è versata la rendita;
-- c.[^68-5] all’assicuratore contro gli infortuni competente, se è tenuto a fornire prestazioni.
+- c.[^68-5] all’assicuratore contro gli infortuni competente, se è tenuto a fornire prestazioni;
 - d.[^68-6] ...
 
 [^68-1]: Nuovo testo giusta il n. I dell’O del 7 nov. 2007, in vigore dal 1° dic. 2007 ([RU 2007 5271](https://fedlex.data.admin.ch/eli/oc/2007/748)).
@@ -1942,11 +2023,11 @@ La decisione concernente l’assegno per grandi invalidi è notificata ai destin
 
 #### Art. 70
 
-**Comunicazione dei dati concernenti le rendite e registro delle rendite**[^70-1]
+**Comunicazione dei dati concernenti le rendite e registro delle prestazioni in denaro correnti**[^70-1]
 
-Le casse di compensazione comunicano, in modo adeguato, all’UCC i dati necessari alla tenuta del registro centrale delle rendite. Va tenuto, inoltre, un registro nel quale deve essere annotata qualsiasi modificazione circa ogni rendita e assegno per grandi invalidi versati dalla cassa di compensazione o da un datore di lavoro che regola i conti con essa.
+Le casse di compensazione comunicano, in modo adeguato, all’UCC i dati necessari alla tenuta del registro delle prestazioni in denaro correnti. Va tenuto, inoltre, un registro nel quale deve essere annotata qualsiasi modificazione circa ogni rendita e assegno per grandi invalidi versati dalla cassa di compensazione o da un datore di lavoro che regola i conti con essa.
 
-[^70-1]: Nuovo testo giusta l’art. 61 dell’O del 18 apr. 1984 sulla previdenza professionale per la vecchiaia, i superstiti e l’invalidità, in vigore dal 1° gen. 1985 ([RU 1984 543](https://fedlex.data.admin.ch/eli/oc/1984/543_543_543)),
+[^70-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 #### Art. 70<sup>bis</sup>
 
@@ -1970,8 +2051,11 @@ Le casse di compensazione comunicano, in modo adeguato, all’UCC i dati necessa
 
 <sup>2</sup> Se un avente diritto deve regolare contemporaneamente, in qualità di persona tenuta a pagare i contributi, i conti con la cassa di compensazione, le rendite e gli assegni per grandi invalidi possono essere compensati con i contributi dovuti.
 
+<sup>3</sup> I versamenti diretti secondo l’articolo 44 capoverso 1 LAVS sono effettuati mediante polizze di pagamento con numeri di riferimento della Posta Svizzera.[^71-3]
+
 [^71-1]: Nuovo testo giusta il n. I del DCF del 10 gen. 1969, in vigore dal 1° gen. 1997 ([RU 1969 135](https://fedlex.data.admin.ch/eli/oc/1969/125_135_135)).
 [^71-2]: Abrogato dal n. I dell’O del 29 nov. 1995, con effetto dal 1° gen. 1997 ([RU 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)).
+[^71-3]: Introdotto dal n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 #### Art. 71<sup>bis</sup>
 
@@ -2133,7 +2217,7 @@ Conformemente all’articolo 53 LAVS, una cassa di compensazione in comune può 
 
 **Condizioni per la costituzione di una cassa di compensazione professionale**[^85-1]
 
-La prova che la costituenda cassa di compensazione adempie le condizioni dell’articolo 53 capoverso 1 lettera a LAVS deve essere fornita in modo appropriato all’Ufficio federale fino al 1° aprile[^85-2] dell’anno precedente la costituzione, mediante l’elenco aggiornato dei datori di lavoro e delle persone esercitanti un’attività lucrativa indipendente che saranno affiliati alla cassa di compensazione.
+La prova che la costituenda cassa di compensazione adempie le condizioni dell’articolo 53 capoverso 1 lettera a LAVS deve essere fornita in modo appropriato all’UFAS fino al 1° aprile[^85-2] dell’anno precedente la costituzione, mediante l’elenco aggiornato dei datori di lavoro e delle persone esercitanti un’attività lucrativa indipendente che saranno affiliati alla cassa di compensazione.
 
 [^85-1]: Nuovo testo giusta il n. I dell’O del 5 apr. 1978, in vigore dal 1° gen. 1979 ([RU 1978 420](https://fedlex.data.admin.ch/eli/oc/1978/420_420_420)).
 [^85-2]: Nuovo termine giusta il n. I dell’O del 29 giu. 1988, in vigore dal 1° gen. 1989 ([RU 1988 1480](https://fedlex.data.admin.ch/eli/oc/1988/1480_1480_1480)).
@@ -2150,42 +2234,13 @@ Le associazioni che intendono costituire una cassa di compensazione devono prova
 
 Un’associazione la cui decisione di costituire una cassa è contestata mediante azione giudiziaria; può essere autorizzata a costituire provvisoriamente una cassa di compensazione. L’autorizzazione è revocata se la decisione di costituzione è stata revocata per sentenza giudiziaria e se entro i sei mesi dalla sentenza passata in giudicato non è stata presa una nuova decisione di costituzione.
 
-### II. Casse di compensazione professionali paritetiche
+### II. ...
 
-#### Art. 88
+#### Art. 88 a 91
 
-**Nozione delle associazioni di salariati**
+[^8891-1]
 
-<sup>1</sup> Sono considerate come associazioni di salariati nel senso dell’articolo 54 LAVS le associazioni che hanno la forma giuridica di un’associazione conformemente agli articoli 60 e seguenti del Codice civile svizzero[^88-1] o di una società cooperativa conformemente agli articoli 828 e seguenti del CO[^88-2].
-
-<sup>2</sup> Le organizzazioni generali svizzere di associazioni indipendenti di salariati non possono domandare la partecipazione paritetica all’amministrazione della cassa.
-
-[^88-1]: RS **210**RS **210**
-[^88-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-
-#### Art. 89
-
-**Partecipazione delle organizzazioni della minoranza**
-
-Se è costituita una cassa di compensazione paritetica, alle associazioni di salariati cui appartiene almeno il 10 per cento di tutti i salariati membri della cassa di compensazione deve esser reso possibile di partecipare, a loro richiesta scritta, all’amministrazione della cassa, sempreché esse approvino il regolamento della cassa e assumano la parte degli obblighi che ne derivano loro.
-
-#### Art. 90
-
-**Condizioni della partecipazione paritetica**
-
-<sup>1</sup> Le associazioni di salariati interessate devono provare all’Ufficio federale che adempiono le condizioni indicate nell’articolo 54 capoverso 1 LAVS e nell’articolo 89 della presente ordinanza. Le associazioni di datori di lavoro interessate sono tenute a mettere a disposizione delle associazioni di salariati o dell’Ufficio federale i documenti necessari per la prova.
-
-<sup>2</sup> Si può rinunciare, con il consenso delle associazioni di datori di lavoro, alla prova che le condizioni sono adempite, se le associazioni interessate di datori di lavoro e di salariati si accordano sulla costituzione di una cassa di compensazione paritetica.
-
-<sup>3</sup> Se le associazioni di datori di lavoro interessate contestano l’esattezza delle prove addotte dalle associazioni di salariati, il DFI decide se le condizioni della partecipazione paritetica all’amministrazione della cassa sono o no adempite.
-
-#### Art. 91
-
-**Spese di amministrazione**
-
-<sup>1</sup> Se le associazioni interessate dei datori di lavoro e dei salariati non possono accordarsi sulla copertura delle spese di amministrazione di una cassa di compensazione paritetica, le associazioni dei salariati devono assumere la metà di tali spese.
-
-<sup>2</sup> La cassa di compensazione non può prelevare dai singoli salariati l’aliquota delle spese di amministrazione dovuta dalle associazioni dei salariati.
+[^8891-1]: Abrogati dal n. I dell’O del 22 nov. 2023, con effetto dal 1° gen. 2024 ([RU 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 ### III. Prestazione della garanzia
 
@@ -2248,7 +2303,7 @@ In quanto la presente ordinanza non contenga prescrizioni derogative, sono appli
 
 **Importo della garanzia**[^97-1]
 
-Per la fissazione dell’importo della garanzia è determinante, anno per anno, la somma dei contributi dell’anno civile precedente. Se l’importo della garanzia non è più conforme alle prescrizioni legali, l’ufficio federale assegna all’associazione fondatrice un termine massimo di tre mesi per coprire la differenza.
+Per la fissazione dell’importo della garanzia è determinante, anno per anno, la somma dei contributi dell’anno civile precedente. Se l’importo della garanzia non è più conforme alle prescrizioni legali, l’UFAS assegna all’associazione fondatrice un termine massimo di tre mesi per coprire la differenza.
 
 [^97-1]: Nuovo testo giusta il n. I dell’O del 7 dic. 1981, con effetto dal 1° gen. 1982 ([RU 1981 2042](https://fedlex.data.admin.ch/eli/oc/1981/2042_2042_2042)).
 
@@ -2258,7 +2313,7 @@ Per la fissazione dell’importo della garanzia è determinante, anno per anno, 
 
 **Domanda**[^98-1]
 
-La domanda di costituire una cassa di compensazione professionale deve essere presentata dalle associazioni fondatrici all’Ufficio federale; alla stessa vanno allegate due copie della decisione di costituzione documentata con atto pubblico e degli statuti dell’associazione.
+La domanda di costituire una cassa di compensazione professionale deve essere presentata dalle associazioni fondatrici all’UFAS; alla stessa vanno allegate due copie della decisione di costituzione documentata con atto pubblico e degli statuti dell’associazione.
 
 [^98-1]: Nuovo testo giusta il n. II lett. B n. 4 del DCF del 23 dic. 1968, in vigore dal 1° gen. 1969 ([RU 1969 81](https://fedlex.data.admin.ch/eli/oc/1969/77_81_81)).
 
@@ -2270,15 +2325,16 @@ La domanda di costituire una cassa di compensazione professionale deve essere pr
 
 <sup>2</sup> La fusione di casse di compensazione è attuabile in qualsiasi momento, nella misura in cui i membri affiliati alla nuova cassa di compensazione nata dalla fusione sono approssimativamente gli stessi di quelli delle casse che fusionano.
 
-<sup>3</sup> Le associazioni fondatrici la cui cassa di compensazione è sciolta, possono, con il consenso dell’Ufficio federale, partecipare in qualsiasi momento all’amministrazione di una cassa di compensazione già esistente, sempre che ciò appaia indicato dalle circostanze particolari.
+<sup>3</sup> Le associazioni fondatrici la cui cassa di compensazione è sciolta, possono, con il consenso dell’UFAS, partecipare in qualsiasi momento all’amministrazione di una cassa di compensazione già esistente, sempre che ciò appaia indicato dalle circostanze particolari.
 
-<sup>4</sup> Lo stato delle associazioni fondatrici di una cassa di compensazione può essere modificato in ogni tempo, con il consenso dell’Ufficio federale, a patto che i mutamenti non tocchino per nulla i membri finora affiliati alla cassa di compensazione.
+<sup>4</sup> Lo stato delle associazioni fondatrici di una cassa di compensazione può essere modificato in ogni tempo, con il consenso dell’UFAS, a patto che i mutamenti non tocchino per nulla i membri finora affiliati alla cassa di compensazione.
 
-<sup>5</sup> La trasformazione di una cassa di compensazione non paritetica in una cassa di compensazione paritetica o viceversa, nonché la partecipazione di altre associazioni di salariati all’amministrazione di una cassa di compensazione o le dimissioni di associazioni di salariati dall’amministrazione di una cassa di compensazione sono ammesse soltanto alla scadenza del periodo di tre e di cinque anni indicato nel capoverso 1.
+<sup>5</sup> La partecipazione di altre associazioni di salariati all’amministrazione di una cassa di compensazione o le dimissioni di associazioni di salariati dall’amministrazione di una cassa di compensazione sono ammesse soltanto alla scadenza del periodo di tre e di cinque anni indicato nel capoverso 1.[^99-2]
 
-<sup>6</sup> L’Ufficio federale assegna il termine entro il quale devono essere prese le misure necessarie per la costituzione di nuove casse di compensazione o per la trasformazione di casse di compensazione esistenti.
+<sup>6</sup> L’UFAS assegna il termine entro il quale devono essere prese le misure necessarie per la costituzione di nuove casse di compensazione o per la trasformazione di casse di compensazione esistenti.
 
 [^99-1]: Nuovo testo giusta il n. I dell’O del 5 apr. 1978, in vigore dal 1° gen. 1979 ([RU 1978 420](https://fedlex.data.admin.ch/eli/oc/1978/420_420_420)).
+[^99-2]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 ### V. Regolamento della cassa
 
@@ -2286,7 +2342,7 @@ La domanda di costituire una cassa di compensazione professionale deve essere pr
 
 **Approvazione**[^100-1]
 
-Il regolamento della cassa deve essere presentato all’Ufficio federale il quale ha la competenza di approvarlo.
+Il regolamento della cassa deve essere presentato all’UFAS il quale ha la competenza di approvarlo.
 
 [^100-1]: Nuovo testo giusta il n. II lett. B n. 4 del DCF del 23 dic. 1968, in vigore dal 1° gen. 1969 ([RU 1969 81](https://fedlex.data.admin.ch/eli/oc/1969/77_81_81)).
 
@@ -2296,15 +2352,9 @@ Il regolamento della cassa deve essere presentato all’Ufficio federale il qual
 
 <sup>1</sup> Il regolamento della cassa deve contenere disposizioni sul diritto di voto dei membri del comitato direttivo della cassa e degli eventuali supplenti, nonché per stabilire la validità delle deliberazioni e delle decisioni.
 
-<sup>2</sup>
+<sup>2</sup> ...[^101-1]
 
-Il regolamento delle casse di compensazione paritetiche deve contenere, oltre a quelle citate nell’articolo 57 capoverso 2 LAVS, e nel capoverso 1 del presente articolo, disposizioni su:
-
-- a. la partecipazione alle spese di amministrazione, nonché all’obbligo di fare versamenti supplementari conformemente all’articolo 97 ...[^101-1];
-- b. la nomina del presidente e del vicepresidente del comitato direttivo della cassa, e la durata della loro carica;
-- c. la ripartizione dell’eventuale attivo o la copertura di un eventuale disavanzo delle spese di amministrazione nel caso di liquidazione.
-
-[^101-1]: Parole cancellate dal n. I dell’O del 29 giu. 1983, con effetto dal 1° gen. 1984 ([RU 1983 903](https://fedlex.data.admin.ch/eli/oc/1983/903_903_903)).
+[^101-1]: Abrogato dal n. I dell’O del 22 nov. 2023, con effetto dal 1° gen. 2024 ([RU 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 ### VI. Comitato direttivo della cassa
 
@@ -2314,9 +2364,11 @@ Il regolamento delle casse di compensazione paritetiche deve contenere, oltre a 
 
 <sup>1</sup> Il comitato direttivo della cassa stabilisce il proprio regolamento interno.
 
-<sup>2</sup> Un membro del comitato direttivo della cassa può essere revocato dalla sua carica soltanto dall’associazione che lo ha nominato.
+<sup>2</sup> Un membro del comitato direttivo della cassa può essere revocato dalla sua carica soltanto dall’associazione che lo ha nominato. È fatto salvo l’articolo 72*b* lettere f e g LAVS.[^102-1]
 
 <sup>3</sup> Il gerente della cassa non può essere membro del comitato direttivo della cassa.
+
+[^102-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 #### Art. 103
 
@@ -2340,26 +2392,31 @@ Il regolamento delle casse di compensazione paritetiche deve contenere, oltre a 
 
 **Rappresentanza delle associazioni di salariati**
 
-<sup>1</sup> Il diritto di essere rappresentate nel comitato direttivo della cassa è conferito soltanto ad associazioni di salariati che adempiono le condizioni indicate nell’articolo 88.
+<sup>1</sup> Il diritto di essere rappresentate nel comitato direttivo della cassa è conferito soltanto ad associazioni di salariati che hanno la forma giuridica di un’associazione ai sensi degli articoli 60 e seguenti del Codice civile svizzero[^105-1] o di una società cooperativa ai sensi degli articoli 828 e seguenti CO[^105-2] e cui appartiene almeno il 10 per cento di tutti i salariati membri della cassa di compensazione.[^105-3]
 
 <sup>2</sup> Le associazioni di salariati devono disporre insieme di almeno due seggi.
 
-<sup>3</sup> Per la prova relativa alla determinazione del numero dei salariati e dell’appartenenza degli stessi all’associazione, sono applicabili le disposizioni dell’articolo 90 capoverso 1.
+<sup>3</sup> Le associazioni di salariati interessate devono provare all’UFAS che adempiono le condizioni di cui al capoverso 1. Le associazioni di datori di lavoro interessate sono tenute a mettere a disposizione delle associazioni di salariati e dell’UFAS i documenti necessari per la prova.[^105-4]
 
-<sup>4</sup> Il Tribunale arbitrale decide delle controversie relative al diritto di rappresentanza delle associazioni di salariati giusta l’articolo 54 capoverso 3 LAVS. Sono applicabili le disposizioni della legge federale del 20 dicembre 1968[^105-1] sulla procedura amministrativa.[^105-2]
+<sup>4</sup> ...[^105-5]
 
-[^105-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
-[^105-2]: Nuovo testo giusta il n. I dell’O del 7 dic. 1981, in vigore dal 1° gen. 1982 ([RU 1981 2042](https://fedlex.data.admin.ch/eli/oc/1981/2042_2042_2042)).
+[^105-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^105-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^105-3]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
+[^105-4]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
+[^105-5]: Abrogato dal n. I dell’O del 22 nov. 2023, con effetto dal 1° gen. 2024 ([RU 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 ### VII. Gerente della cassa
 
 #### Art. 106
 
-<sup>1</sup> Il gerente della cassa deve essere cittadino svizzero. Egli non deve essere in rapporto di dipendenza con un datore di lavoro, con una persona che esercita un’attività lucrativa indipendente o con una persona che non esercita attività lucrativa ed è affiliata alla cassa, e deve occuparsi della gestione della cassa a titolo di attività principale; ove le circostanze lo giustificano, l’Ufficio federale può consentire eccezioni.
+<sup>1</sup> ...[^106-1]
 
 <sup>2</sup> I poteri di rappresentanza del gerente della cassa devono essere delimitati nel regolamento della cassa. Questo non può tuttavia escludere né la competenza del gerente della cassa a prendere decisioni nei casi particolari, né i rapporti diretti tra il gerente della cassa e gli uffici federali e tra il gerente della cassa e i datori di lavoro e gli assicurati affiliati alla cassa di compensazione.
 
 <sup>3</sup> Il rapporto di servizio tra la cassa di compensazione e il gerente deve essere regolato mediante contratto. È vietato affidare la gerenza della cassa a una persona giuridica o a una corporazione.
+
+[^106-1]: Abrogato dal n. I dell’O del 22 nov. 2023, con effetto dal 1° gen. 2024 ([RU 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 ### VIII. Scioglimento della cassa di compensazione
 
@@ -2367,26 +2424,46 @@ Il regolamento delle casse di compensazione paritetiche deve contenere, oltre a 
 
 [^107-1]
 
-<sup>1</sup> L’Ufficio federale determina il momento dello scioglimento della cassa di compensazione. Ne ordina i provvedimenti necessari e stabilisce, con il consenso delle associazioni fondatrici, l’assegnazione dell’eventuale sostanza restante.
+<sup>1</sup> L’UFAS determina il momento dello scioglimento della cassa di compensazione. Ne ordina i provvedimenti necessari e stabilisce, con il consenso delle associazioni fondatrici, l’assegnazione dell’eventuale sostanza restante.
 
-<sup>2</sup> La cassa di compensazione che non adempie più durante tre anni consecutivi le condizioni indicate nell’articolo 53 capoverso 1 lettera a o nell’articolo 60 capoverso 2 secondo e terzo periodo LAVS è sciolta. L’Ufficio federale può autorizzare la continuazione della gestione della cassa per tre anni al massimo, se è reso verosimile che entro questo tempo le condizioni saranno nuovamente adempiute.[^107-2]
+<sup>2</sup> La cassa di compensazione che non adempie più durante tre anni consecutivi le condizioni indicate nell’articolo 53 capoverso 1 lettera a o nell’articolo 60 capoverso 2 secondo e terzo periodo LAVS è sciolta. L’UFAS può autorizzare la continuazione della gestione della cassa per tre anni al massimo, se è reso verosimile che entro questo tempo le condizioni saranno nuovamente adempiute.[^107-2]
 
 [^107-1]: Nuovo testo giusta il n. I dell’O del 5 apr. 1978, in vigore dal 1° gen. 1979 ([RU 1978 420](https://fedlex.data.admin.ch/eli/oc/1978/420_420_420)).
 [^107-2]: Nuovo testo giusta il n. I dell’O del 29 nov. 1995, in vigore dal 1° gen. 1997 ([RU 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)).
+
+#### Art. 107a
+
+**Riserve di liquidazione**[^107a-1]
+
+<sup>1</sup> L’ammontare delle riserve in grado di coprire i costi derivanti da uno scioglimento (riserve di liquidazione) è calcolato in funzione del numero dei casi di rendita e dei conti individuali gestiti dalla cassa di compensazione.
+
+<sup>2</sup> L’UFAS stabilisce le modalità di calcolo.
+
+[^107a-1]: Introdotto dal n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 ### C. Casse di compensazione cantonali
 
 #### Art. 108
 
-[^108-1]
+**Organizzazione dell’istituto delle assicurazioni sociali**[^108-1]
 
-[^108-1]: Abrogato dal n. II dell’O del 15 giu. 1992, con effetto dal 1° lug. 1992 ([RU 1992 1251](https://fedlex.data.admin.ch/eli/oc/1992/1251_1251_1251)).
+Se fanno parte di un istituto cantonale delle assicurazioni sociali secondo l’articolo 61 capoverso 1<sup>bis</sup> LAVS, la cassa di compensazione e l’ufficio AI sono organizzati quali unità organizzative a sé stanti.
+
+[^108-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 #### Art. 109
 
 **Rappresentanza esterna**
 
 La cassa di compensazione cantonale è rappresentata, di fronte ai terzi, dal gerente della cassa. Questi cura i rapporti diretti con gli uffici federali, nonché con i datori di lavoro e gli assicurati affiliati alla cassa.
+
+#### Art. 109a
+
+**Commissione amministrativa**[^109a-1]
+
+Nella commissione amministrativa dell’istituto cantonale delle assicurazioni sociali i rappresentanti del Governo cantonale o dell’Amministrazione cantonale non possono rappresentare la maggioranza.
+
+[^109a-1]: Introdotto dal n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 ### D. Casse di compensazione della Confederazione
 
@@ -2436,9 +2513,9 @@ Sono affiliate alla Cassa di compensazione federale l’Amministrazione federale
 
 **Agenzie delle casse di compensazione professionali**
 
-<sup>1</sup> Se nonostante la richiesta di un numero importante di datori di lavoro o di persone esercitanti un’attività lucrativa indipendente, una cassa di compensazione non istituisce agenzie in singole regioni linguistiche oppure in determinati Cantoni, l’Ufficio federale, ordina, a richiesta degli interessati, l’istituzione di agenzie.
+<sup>1</sup> Se nonostante la richiesta di un numero importante di datori di lavoro o di persone esercitanti un’attività lucrativa indipendente, una cassa di compensazione non istituisce agenzie in singole regioni linguistiche oppure in determinati Cantoni, l’UFAS, ordina, a richiesta degli interessati, l’istituzione di agenzie.
 
-<sup>2</sup> L’istituzione di un’agenzia comune da parte di più casse di compensazione professionali può essere autorizzata dall’Ufficio federale, per quanto sia garantita la separazione delle contabilità e degli atti.
+<sup>2</sup> L’istituzione di un’agenzia comune da parte di più casse di compensazione professionali può essere autorizzata dall’UFAS, per quanto sia garantita la separazione delle contabilità e degli atti.
 
 <sup>3</sup> L’istituzione di agenzie per singole professioni rappresentate in una cassa di compensazione non è permessa.
 
@@ -2456,23 +2533,14 @@ Sono affiliate alla Cassa di compensazione federale l’Amministrazione federale
 
 **Compiti delle agenzie**
 
-<sup>1</sup> Alle agenzie comunali possono essere affidati altri compiti.
+<sup>1</sup> Se istituiscono agenzie delle casse di compensazione cantonali, i Cantoni ne disciplinano i compiti nel decreto cantonale di cui all’articolo 61 capoverso 1 LAVS.[^116-1]
 
-Alle agenzie comunali delle casse di compensazione cantonali incombono in ogni caso i compiti seguenti:
-
-- a. dare informazioni;
-- b. ricevere e trasmettere la corrispondenza;
-- c. distribuire i moduli e i testi legali;
-- d. collaborare al regolamento dei conti;
-- e. collaborare all’assunzione dei documenti necessari per la fissazione delle rendite straordinarie[^116-1];
-- f. collaborare all’accertamento delle condizioni di reddito e di sostanza delle persone che esercitano un’attività lucrativa indipendente e delle persone che non esercitano un’attività lucrativa;
-- g. collaborare all’assoggettamento di tutte le persone tenute al pagamento dei contributi.
-
-<sup>2</sup> Alle agenzie delle casse di compensazione professionali incombono in ogni caso i compiti enumerati nel capoverso 1 lettere a a d. Il regolamento della cassa può prevedere altri compiti.
+<sup>2</sup> Se istituiscono agenzie, le casse di compensazione professionali ne disciplinano i compiti nel regolamento della cassa.[^116-2]
 
 <sup>3</sup> Se a un’agenzia è data la competenza di emanare decisioni in nome della cassa, questa può esigere una copia di ogni decisione, verificare le decisioni e, all’occorrenza, rettificarle.
 
-[^116-1]: Nuova denominazione giusta il n. II del DCF del 5 feb. 1960, in vigore dal 1° gen. 1960 ([RU 1960 242](https://fedlex.data.admin.ch/eli/oc/1960/235_247_242)).
+[^116-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
+[^116-2]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 ### F. Affiliazione alle casse
 
@@ -2486,7 +2554,7 @@ Alle agenzie comunali delle casse di compensazione cantonali incombono in ogni c
 
 <sup>2</sup> I datori di lavoro e le persone esercitanti un’attività lucrativa indipendente che non sono membri di un’associazione fondatrice, sono affiliati alla cassa di compensazione del loro Cantone di domicilio o del Cantone in cui ha sede legale l’azienda. Se il domicilio o la sede non corrisponde al luogo dell’amministrazione o dell’azienda, con il consenso delle casse di compensazione può essere considerato come determinante il luogo dove si trova l’amministrazione, l’azienda o una parte principale di questa.
 
-<sup>3</sup> Le succursali sono affiliate alla cassa di compensazione di cui fa parte la sede principale dell’azienda. Ove circostanze speciali lo giustifichino, l’Ufficio federale può consentire eccezioni.
+<sup>3</sup> Le succursali sono affiliate alla cassa di compensazione di cui fa parte la sede principale dell’azienda. Ove circostanze speciali lo giustifichino, l’UFAS può consentire eccezioni.
 
 <sup>4</sup> I datori di lavoro e le persone che esercitano un’attività lucrativa indipendente possono essere affiliati a una sola cassa di compensazione. Sono riservati gli articoli 119 capoverso 2 e 120 capoverso 1.
 
@@ -2500,7 +2568,7 @@ Alle agenzie comunali delle casse di compensazione cantonali incombono in ogni c
 
 <sup>3</sup> Gli studenti che non esercitano un’attività lucrativa domiciliati in Svizzera devono pagare i contributi alla cassa di compensazione del Cantone in cui si trova l’istituto degli studi. Gli studenti domiciliati all’estero assicurati in virtù dell’articolo 1*a* capoverso 3 lettera b LAVS pagano i contributi alla Cassa svizzera di compensazione.[^118-3] [^118-4]
 
-<sup>4</sup> Per le persone che non esercitano un’attività lucrativa, ricoverate in uno stabilimento o membri di comunità religiose, l’Ufficio federale può prescrivere che i contributi siano riscossi dalla cassa di compensazione del Cantone in cui si trova lo stabilimento o ha sede la comunità.[^118-5]
+<sup>4</sup> Per le persone che non esercitano un’attività lucrativa, ricoverate in uno stabilimento o membri di comunità religiose, l’UFAS può prescrivere che i contributi siano riscossi dalla cassa di compensazione del Cantone in cui si trova lo stabilimento o ha sede la comunità.[^118-5]
 
 [^118-1]: Nuovo testo giusta il n. I dell’O dell’11 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3710](https://fedlex.data.admin.ch/eli/oc/2002/570)).
 [^118-2]: Nuovo testo giusta il n. I dell’O del 19 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2011 4759](https://fedlex.data.admin.ch/eli/oc/2011/674)).
@@ -2542,7 +2610,7 @@ Alle agenzie comunali delle casse di compensazione cantonali incombono in ogni c
 
 <sup>4</sup> Se cessa, a causa della perdita della qualità di membro di una associazione fondatrice, la competenza di una cassa di compensazione professionale, questa è tenuta a darne comunicazione alla cassa di compensazione del Cantone di domicilio dell’ex-membro dell’associazione.
 
-<sup>5</sup> Il passaggio da una cassa di compensazione all’altra può avvenire soltanto alla fine di ogni anno. Tuttavia, il passaggio da una cassa di compensazione cantonale all’altra, a causa di cambiamento di domicilio, può avere luogo in ogni tempo. L’Ufficio federale può consentire eccezioni in casi motivati.
+<sup>5</sup> Il passaggio da una cassa di compensazione all’altra può avvenire soltanto alla fine di ogni anno. Tuttavia, il passaggio da una cassa di compensazione cantonale all’altra, a causa di cambiamento di domicilio, può avere luogo in ogni tempo. L’UFAS può consentire eccezioni in casi motivati.
 
 ### II. Cassa competente a fissare e a pagare le rendite
 
@@ -2562,9 +2630,9 @@ Alle agenzie comunali delle casse di compensazione cantonali incombono in ogni c
 
 **Rendite ordinarie all’estero**[^123-1]
 
-<sup>1</sup> Gli aventi diritto che abitano all’estero ricevono le loro rendite dalla Cassa svizzera di compensazione. L’Ufficio federale può consentire eccezioni per i membri di comunità religiose che abitano all’estero.
+<sup>1</sup> Gli aventi diritto che abitano all’estero ricevono le loro rendite dalla Cassa svizzera di compensazione. L’UFAS può consentire eccezioni per i membri di comunità religiose che abitano all’estero.
 
-<sup>2</sup> L’Ufficio federale regola la questione della competenza a pagare le rendite agli aventi diritto che rientrano in Svizzera dopo il verificarsi dell’evento assicurato.
+<sup>2</sup> L’UFAS regola la questione della competenza a pagare le rendite agli aventi diritto che rientrano in Svizzera dopo il verificarsi dell’evento assicurato.
 
 [^123-1]: Nuovo testo giusta il n. I del DCF del 20 apr. 1951, in vigore dal 1° gen. 1951 ([RU 1951 392](https://fedlex.data.admin.ch/eli/oc/1951/394_396_392)).
 
@@ -2585,7 +2653,7 @@ Un cambiamento della cassa di compensazione competente a pagare le rendite ha lu
 - a. quando il datore di lavoro che versa la rendita è affiliato a un’altra cassa di compensazione;
 - b. quando il beneficiario trasferisce il domicilio dalla Svizzera all’estero o dall’estero in Svizzera;
 - c. quando il beneficiario d’una rendita straordinaria[^125-2], versata da una cassa cantonale di compensazione, trasferisce il domicilio in un altro Cantone;
-- d.[^125-3] quando un avente diritto alla rendita beneficia di prestazioni complementari e se l’Ufficio federale ha autorizzato le competenti casse di compensazione a procedere al cambiamento.
+- d.[^125-3] quando un avente diritto alla rendita beneficia di prestazioni complementari e se l’UFAS ha autorizzato le competenti casse di compensazione a procedere al cambiamento.
 
 [^125-1]: Nuovo testo giusta il n. I del DCF del 10 mag. 1957, in vigore dal 1° gen. 1957 ([RU 1957 422](https://fedlex.data.admin.ch/eli/oc/1957/406_407_422)).
 [^125-2]: Nuova denominazione giusta il n. II del DCF del 5 feb. 1960, in vigore dal 1° gen. 1960 ([RU 1960 242](https://fedlex.data.admin.ch/eli/oc/1960/235_247_242)).
@@ -2607,13 +2675,21 @@ La cassa cantonale di compensazione del Cantone di domicilio della persona assis
 
 [^125ter-1]: Introdotto dal n. I dell’O del 29 nov. 1995, in vigore dal 1° gen. 1997 ([RU 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)).
 
-### III. Disposizioni comuni
+#### Art. 125<sup>quater</sup>
+
+**Sostituzione di prestazioni dell’AI con prestazioni dell’AVS**[^125quater-1]
+
+La fissazione delle prestazioni dell’assicurazione per la vecchiaia e per i superstiti e la notifica delle decisioni nel caso dei beneficiari di prestazioni dell’assicurazione per l’invalidità che riscuotono anticipatamente la rendita di vecchiaia secondo l’articolo 40 capoverso 1 LAVS o raggiungono l’età di riferimento secondo l’articolo 21 capoverso 1 LAVS sono di competenza della cassa di compensazione che ha versato fino a quel momento le prestazioni dell’assicurazione per l’invalidità.
+
+[^125quater-1]: Introdotto dal n. I dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+
+### III. ...
 
 #### Art. 126
 
-**Disposizioni particolari**
+[^126-1]
 
-Se dall’affiliazione di tutto un gruppo professionale dell’industria a domicilio a una cassa di compensazione deriva una sensibile semplificazione amministrativa e una migliore applicazione dell’assicurazione, il DFI può obbligare una cassa di compensazione a riscuotere i contributi e a pagare le rendite per tutti i membri di questo gruppo professionale.
+[^126-1]: Abrogato dal n. I dell’O del 22 nov. 2023, con effetto dal 1° gen. 2024 ([RU 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 #### Art. 127
 
@@ -2633,41 +2709,44 @@ Se dall’affiliazione di tutto un gruppo professionale dell’industria a domic
 
 **Controllo dell’assoggettamento di tutte le persone tenute a pagare i contributi**
 
-<sup>1</sup> Le casse di compensazione professionali hanno l’obbligo di notificare l’affiliazione delle persone tenute al pagamento dei contributi alla cassa di compensazione del Cantone dove la persona assoggettata al pagamento dei contributi ha eletto domicilio. L’Ufficio federale regola la procedura di notifica.[^129-1]
+<sup>1</sup> Le casse di compensazione professionali hanno l’obbligo di notificare l’affiliazione delle persone tenute al pagamento dei contributi alla cassa di compensazione del Cantone dove la persona assoggettata al pagamento dei contributi ha eletto domicilio. L’UFAS regola la procedura di notifica.[^129-1]
 
-<sup>2</sup> L’Ufficio federale può prescrivere alle casse di compensazione cantonali controlli particolari dell’assoggettamento di tutte le persone tenute a pagare i contributi conformemente all’articolo 63 capoverso 2 LAVS.
+<sup>2</sup> L’UFAS può prescrivere alle casse di compensazione cantonali controlli particolari dell’assoggettamento di tutte le persone tenute a pagare i contributi conformemente all’articolo 63 capoverso 2 LAVS.
 
 [^129-1]: Nuovo testo giusta il n. I dell’O del 7 dic. 1981, in vigore dal 1° gen. 1982 ([RU 1981 2042](https://fedlex.data.admin.ch/eli/oc/1981/2042_2042_2042)).
 
 #### Art. 130
 
-**Condizioni per l’assegnazione di altri compiti**[^130-1]
+**Condizioni per la delega[^130-2] di altri compiti**[^130-1]
 
 <sup>1</sup>
 
-I Cantoni e le associazioni professionali fondatrici possono affidare alle casse di compensazione:
+I Cantoni e le associazioni professionali fondatrici possono delegare[^130-3] alle casse di compensazione:
 
 - a. compiti inerenti all’assicurazione sociale;
 - b. compiti che servono alla previdenza professionale e sociale;
 - c. compiti che servono alla formazione e al perfezionamento professionale; oppure
-- d. ulteriori compiti senza scopo di lucro che vanno a beneficio dei Cantoni o delle associazioni professionali fondatrici.[^130-2]
+- d. ulteriori compiti senza scopo di lucro che vanno a beneficio dei Cantoni o delle associazioni professionali fondatrici.[^130-4]
 
-<sup>2</sup> L’assegnazione di questi compiti non deve pregiudicare la regolare applicazione dell’assicurazione per la vecchiaia e per i superstiti.
+<sup>2</sup> Se delegano compiti alle casse di compensazione, i Cantoni disciplinano esplicitamente, in appositi decreti cantonali, la revisione e la presentazione dei rapporti.[^130-5]
 
 [^130-1]: Nuovo testo giusta il n. I 1 dell’O dell’11 ott. 1972, in vigore dal 1° gen. 1973 ([RU 1972 2338](https://fedlex.data.admin.ch/eli/oc/1972/2507_2560_2338)).
-[^130-2]: Nuovo testo giusta il n. I dell’O del 30 set. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5183](https://fedlex.data.admin.ch/eli/oc/2009/608)).
+[^130-2]: Nuova espressione giusta il n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
+[^130-3]: Nuova espressione giusta il n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
+[^130-4]: Nuovo testo giusta il n. I dell’O del 30 set. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5183](https://fedlex.data.admin.ch/eli/oc/2009/608)).
+[^130-5]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 #### Art. 131
 
-**Procedura per l’assegnazione di altri compiti**[^131-1]
+**Procedura per la delega di altri compiti**[^131-1]
 
-<sup>1</sup> I Cantoni e le associazioni fondatrici, che intendono affidare altri compiti alle loro casse di compensazione, devono presentare domanda scritta all’Ufficio federale, precisando i nuovi compiti e i provvedimenti organizzativi previsti.
+<sup>1</sup> I Cantoni e le associazioni fondatrici, che intendono delegare altri compiti alle loro casse di compensazione, devono presentare domanda scritta all’UFAS, precisando i nuovi compiti e i provvedimenti organizzativi previsti.
 
-<sup>1bis</sup> I Cantoni che intendono affidare altri compiti a tutte le casse di compensazione attive sul loro territorio devono presentare un’unica domanda scritta all’Ufficio federale, precisando i nuovi compiti e i provvedimenti organizzativi previsti.[^131-2]
+<sup>1bis</sup> I Cantoni che intendono delegare altri compiti a tutte le casse di compensazione attive sul loro territorio devono presentare un’unica domanda scritta all’UFAS, precisando i nuovi compiti e i provvedimenti organizzativi previsti.[^131-2]
 
-<sup>2</sup> L’Ufficio federale decide le domande. Esso può sottoporre a determinate condizioni l’autorizzazione d’affidare altri compiti alle casse di compensazione.
+<sup>2</sup> L’UFAS decide le domande. Esso può sottoporre a determinate condizioni l’autorizzazione di delegare altri compiti alle casse di compensazione.
 
-<sup>3</sup> L’Ufficio federale può revocare l’autorizzazione se, più tardi, risulta che il conferimento di questi nuovi compiti pregiudica la regolare applicazione dell’assicurazione per la vecchiaia e per i superstiti.
+<sup>3</sup> L’UFAS può revocare l’autorizzazione se, più tardi, risulta che il conferimento di questi nuovi compiti pregiudica la regolare applicazione dell’assicurazione per la vecchiaia e per i superstiti.
 
 [^131-1]: Nuovo testo giusta il n. I del DCF del 19 nov. 1965, in vigore dal 1° gen. 1966 ([RU 1965 1019](https://fedlex.data.admin.ch/eli/oc/1965/1021_1033_1019)).
 [^131-2]: Introdotto dal n. I dell’O del 15 ott. 2014, in vigore dal 1° gen. 2015 ([RU 2014 3331](https://fedlex.data.admin.ch/eli/oc/2014/575)).
@@ -2676,23 +2755,25 @@ I Cantoni e le associazioni professionali fondatrici possono affidare alle casse
 
 **Disposizioni particolari**
 
-<sup>1</sup> Le casse di compensazione ricevono un’indennità per l’adempimento dei compiti loro assegnati. Per coprire le spese di amministrazione derivanti dall’adempimento di tali compiti non possono essere impiegati né i contributi per le spese di amministrazione né i sussidi per le spese di amministrazione prelevati dal Fondo di compensazione dell’assicurazione per la vecchiaia e per i superstiti secondo l’articolo 69 LAVS.[^132-1]
+<sup>1</sup> Le casse di compensazione ricevono un’indennità per l’adempimento dei compiti loro delegati. Per coprire le spese di amministrazione derivanti dall’adempimento di tali compiti non possono essere impiegati né i contributi per le spese di amministrazione né i sussidi per le spese di amministrazione prelevati dal Fondo di compensazione dell’assicurazione per la vecchiaia e per i superstiti secondo l’articolo 69 LAVS.[^132-1]
 
-<sup>2</sup> Le revisioni delle casse conformemente all’articolo 68 capoverso 1 LAVS devono essere estese anche agli altri compiti affidati alle casse, per quanto ciò sia necessario per la revisione della cassa di compensazione relativa all’applicazione dell’assicurazione per la vecchiaia e i superstiti. Se parte di questi compiti è stata affidata a un datore di lavoro, il controllo dei datori di lavoro conformemente all’articolo 68 capoverso 2 LAVS si estende pure all’adempimento di tali compiti.
+<sup>2</sup> Le revisioni delle casse secondo l’articolo 68*a* LAVS devono essere estese anche agli altri compiti delegati alle casse, per quanto ciò sia necessario per la revisione della cassa di compensazione relativa all’applicazione dell’assicurazione per la vecchiaia e per i superstiti. Se parte di questi compiti è stata delegata a un datore di lavoro, il controllo dei datori di lavoro secondo l’articolo 68*b* LAVS si estende pure all’adempimento di tali compiti.[^132-2]
 
 [^132-1]: Nuovo testo giusta il n. I dell’O del 30 set. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5183](https://fedlex.data.admin.ch/eli/oc/2009/608)).
+[^132-2]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 #### Art. 132<sup>bis</sup>
 
 **Esecuzione tramite terzi di compiti incombenti alle casse di compensazione**[^132bis-1]
 
-<sup>1</sup> L’autorizzazione per l’esecuzione di determinati compiti spettanti alle casse di compensazione tramite terzi, previste all’articolo 63 capoverso 5 LAVS, è rilasciata dall’Ufficio federale.
+<sup>1</sup> L’approvazione per l’esecuzione di determinati compiti spettanti alle casse di compensazione tramite terzi, prevista all’articolo 63*b* capoverso 1 LAVS, è data dall’UFAS.[^132bis-2]
 
 <sup>2</sup> La domanda deve essere presentata dal Cantone o dall’associazione fondatrice e deve descrivere con esattezza i compiti da eseguire, i provvedimenti da prendere in vista del mantenimento dell’obbligo del segreto e della custodia degli atti e enunciare i principi determinanti la rimunerazione per l’adempimento dei compiti.
 
-<sup>3</sup> L’Ufficio federale può revocare l’autorizzazione se l’esecuzione dei compiti tramite terzi ostacola o compromette l’applicazione regolare dell’assicurazione per la vecchiaia e per i superstiti.
+<sup>3</sup> L’UFAS può revocare l’autorizzazione se l’esecuzione dei compiti tramite terzi ostacola o compromette l’applicazione regolare dell’assicurazione per la vecchiaia e per i superstiti.
 
 [^132bis-1]: Introdotto dal n. I dell’O del 5 apr. 1978, in vigore dal 1° gen. 1979 ([RU 1978 420](https://fedlex.data.admin.ch/eli/oc/1978/420_420_420)).
+[^132bis-2]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 #### Art. 132<sup>ter</sup>
 
@@ -2704,6 +2785,66 @@ I Cantoni e le associazioni professionali fondatrici possono affidare alle casse
 
 [^132ter-1]: Introdotto dal n. I dell’O del 7 lug. 1982, in vigore dal 1° gen. 1983 ([RU 1982 1279](https://fedlex.data.admin.ch/eli/oc/1982/1279_1279_1279)).
 [^132ter-2]: [RS 172.041.0](https://fedlex.data.admin.ch/eli/cc/1969/760_780_777)
+
+#### Art. 132<sup>quater</sup>
+
+**Sistema di gestione dei rischi**[^132quater-1]
+
+<sup>1</sup> La direzione della cassa documenta sistematicamente in un elenco i rischi e la loro valutazione nonché le decisioni su come affrontarli.
+
+<sup>2</sup> Il comitato direttivo della cassa o la commissione amministrativa approva annualmente l’elenco dei rischi e, se del caso, ordina l’adozione di provvedimenti.
+
+[^132quater-1]: Introdotto dal n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
+
+#### Art. 132<sup>quinquies</sup>
+
+**Sistema di gestione della qualità**[^132quinquies-1]
+
+<sup>1</sup> La direzione della cassa stabilisce per scritto l’impostazione e gli obiettivi della gestione della qualità.
+
+<sup>2</sup> Il comitato direttivo della cassa o la commissione amministrativa approva una volta l’anno lo stato di attuazione della gestione della qualità e, se del caso, ordina l’adozione di provvedimenti.
+
+[^132quinquies-1]: Introdotto dal n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
+
+#### Art. 132<sup>sexies</sup>
+
+**Sistema di controllo interno**[^132sexies-1]
+
+<sup>1</sup> La direzione della cassa stabilisce per scritto l’impostazione del sistema di controllo interno. Esso deve comprendere tutti i settori di attività.
+
+<sup>2</sup> Lo svolgimento dei controlli deve essere documentato.
+
+<sup>3</sup> Il comitato direttivo della cassa o la commissione amministrativa approva annualmente il sistema di controllo interno e, se del caso, ordina l’adozione di provvedimenti.
+
+[^132sexies-1]: Introdotto dal n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
+
+#### Art. 132<sup>septies</sup>
+
+**Garanzia di un’attività irreprensibile**[^132septies-1]
+
+<sup>1</sup> Il competente organo di nomina emana le prescrizioni sulla garanzia di un’attività irreprensibile delle persone di cui all’articolo 66*a* LAVS.
+
+<sup>2</sup>
+
+Occorre in particolare tenere conto di:
+
+- a. iscrizioni nel casellario giudiziale;
+- b. attestati di carenza di beni;
+- c. referenze di precedenti datori di lavoro.
+
+<sup>3</sup> Il competente organo di nomina valuta il rispetto delle prescrizioni a intervalli regolari, ma almeno ogni cinque anni.
+
+[^132septies-1]: Introdotto dal n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
+
+#### Art. 132<sup>octies</sup>
+
+**Relazioni d’interesse**[^132octies-1]
+
+<sup>1</sup> Le relazioni d’interesse delle persone di cui all’articolo 66*a* LAVS devono essere rilevate dal competente organo di nomina, documentate presso la cassa di compensazione e verificate annualmente.
+
+<sup>2</sup> La cassa di compensazione può pubblicare le relazioni d’interesse.
+
+[^132octies-1]: Introdotto dal n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 ### H. Numero AVS
 
@@ -2883,9 +3024,9 @@ Il numero AVS può essere registrato automaticamente in una banca dati se è sta
 
 **Conto individuale**[^137-1]
 
-Ogni cassa di compensazione tiene, sotto il numero AVS, un conto individuale dei redditi da attività lucrative sui quali le sono stati versati contributi fino all’insorgenza del diritto a una rendita di vecchiaia.
+Ogni cassa di compensazione tiene, sotto il numero AVS, un conto individuale dei redditi da attività lucrativa sui quali le sono stati versati contributi.
 
-[^137-1]: Nuovo testo giusta il n. I dell’O del 7 nov. 2007, in vigore dal 1° lug. 2008 ([RU 2007 5271](https://fedlex.data.admin.ch/eli/oc/2007/748)).
+[^137-1]: Nuovo testo giusta il n. I dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 138
 
@@ -3010,7 +3151,7 @@ Nel sistema d’informazione destinato alla determinazione delle prestazioni pre
 
 <sup>2</sup> Il sistema d’informazione permette lo scambio elettronico di tutti i dati necessari per la determinazione dell’assoggettamento assicurativo tra gli organi svizzeri nonché tra questi e quelli esteri.
 
-<sup>3</sup> Il sistema d’informazione è messo a disposizione dall’Ufficio federale.
+<sup>3</sup> Il sistema d’informazione è messo a disposizione dall’UFAS.
 
 <sup>4</sup> Le casse di compensazione e l’organismo di collegamento registrano nel sistema d’informazione tutti i dati di loro competenza prescritti per la determinazione della legislazione applicabile secondo gli atti giuridici dell’Unione europea, secondo altre convenzioni internazionali e secondo gli articoli 1*a* e 2 LAVS.
 
@@ -3028,6 +3169,34 @@ Nel sistema d’informazione nell’ambito dell’assoggettamento assicurativo s
 
 <sup>2</sup> Le casse di compensazione e l’organismo di collegamento possono trattare i dati nell’ambito dei loro compiti legali. I datori di lavoro e gli assicurati possono registrare e consultare i dati.
 
+### H<sup>quater</sup>. Sistema d’informazione per la trasmissione di richieste
+
+[^chap4-lvlHquater-1]
+
+[^chap4-lvlHquater-1]: Introdotto dal n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
+
+#### Art. 141<sup>sexies</sup>
+
+<sup>1</sup> Il sistema d’informazione secondo l’articolo 71 capoverso 4<sup>bis</sup> LAVS consente ai richiedenti di compilare elettronicamente i moduli per rivendicare il diritto alle prestazioni secondo l’articolo 29 capoverso 2 LPGA.
+
+<sup>2</sup> L’UCC trasmette in modo automatizzato agli organi esecutivi competenti le richieste in forma strutturata e leggibile elettronicamente.
+
+<sup>3</sup> Il sistema d’informazione contiene tutti i dati necessari per rivendicare il diritto alle prestazioni che sono stati registrati direttamente dai richiedenti.
+
+### H<sup>quinquies</sup>. Obbligo di comunicazione in caso di danni ai sistemi d’informazione
+
+[^chap4-lvlHquinquies-1]
+
+[^chap4-lvlHquinquies-1]: Introdotto dal n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
+
+#### Art. 141<sup>septies</sup>
+
+<sup>1</sup> Gli organi esecutivi comunicano immediatamente all’UFAS eventuali danni e limitazioni significative nel funzionamento dei sistemi, in particolare in seguito a un ciberincidente, e gli fanno rapporto sulla loro risoluzione.
+
+<sup>2</sup> Le comunicazioni secondo il capoverso 1 non sostituiscono le notifiche di violazioni della sicurezza dei dati all’Incaricato federale della protezione dei dati e della trasparenza secondo la legge del 25 settembre 2020[^141septies-1] sulla protezione dei dati o alle autorità cantonali preposte alla protezione dei dati secondo le leggi cantonali in materia di protezione dei dati.
+
+[^141septies-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+
 ### J. Regolamento dei conti e dei pagamenti
 
 ### I. Regolamento dei conti e dei pagamenti con le casse di compensazione
@@ -3038,12 +3207,13 @@ Nel sistema d’informazione nell’ambito dell’assoggettamento assicurativo s
 
 <sup>1</sup> L’obbligo del regolamento dei pagamenti e dei conti si estende a tutti i contributi dovuti da chi è tenuto a pagarli sia come assicurato, sia come datore di lavoro; esso si estende anche ai contributi alle spese di amministrazione. I contributi devono, di regola, essere compensati con le rendite alle quali la persona tenuta a pagare i contributi aveva diritto durante il periodo di conteggio o con quelle che essa ha pagato ai suoi salariati nel corso di tale periodo. ...[^142-1]
 
-<sup>2</sup> Se alla cassa di compensazione sono stati affidati altri compiti, nel senso dell’articolo 63 capoverso 4 LAVS, i contributi necessari per tale scopo e le prestazioni fatte possono, con il consenso dell’Ufficio federale, essere comprese nel conteggio, a condizione che ciò non complichi il regolamento dei conti.
+<sup>2</sup> Se alla cassa di compensazione sono stati delegati altri compiti conformemente all’articolo 63*a* capoverso 1 LAVS, i contributi necessari per tale scopo e le prestazioni fatte possono, con l’approvazione dell’UFAS, essere compresi nel conteggio, a condizione che ciò non complichi il regolamento dei conti.[^142-2]
 
-<sup>3</sup> ...[^142-2]
+<sup>3</sup> ...[^142-3]
 
 [^142-1]: Per. abrogato dal n. I del DCF del 19 nov. 1965, con effetto dal 1° gen. 1966 ([RU 1965 1019](https://fedlex.data.admin.ch/eli/oc/1965/1021_1033_1019)).
-[^142-2]: Abrogato dal n. I dell’O del 17 giu. 1985, con effetto dal 1° gen. 1986 ([RU 1985 913](https://fedlex.data.admin.ch/eli/oc/1985/913_913_913)).
+[^142-2]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
+[^142-3]: Abrogato dal n. I dell’O del 17 giu. 1985, con effetto dal 1° gen. 1986 ([RU 1985 913](https://fedlex.data.admin.ch/eli/oc/1985/913_913_913)).
 
 #### Art. 143
 
@@ -3095,7 +3265,7 @@ La cassa di compensazione comunica a ogni persona tenuta a pagare i contributi e
 
 **Consegna degli importi disponibili**[^148-1]
 
-Le casse di compensazione versano ogni giorno all’UCC, in importi arrotondati, i contributi sociali riscossi in virtù del diritto federale. L’Ufficio federale emana le istruzioni sulle modalità del movimento di fondi, d’intesa con l’UCC.
+Le casse di compensazione versano ogni giorno all’UCC, in importi arrotondati, i contributi sociali riscossi in virtù del diritto federale. L’UFAS emana le istruzioni sulle modalità del movimento di fondi, d’intesa con l’UCC.
 
 [^148-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2005, in vigore dal 1° gen. 2006 ([RU 2005 5631](https://fedlex.data.admin.ch/eli/oc/2005/767)).
 
@@ -3121,7 +3291,7 @@ Le casse di compensazione tengono un registro sulla determinazione delle loro di
 
 **Mutui**[^149bis-1]
 
-Se si avverano circostanze particolari, alle casse di compensazione possono essere concessi per la momentanea copertura delle spese di amministrazione mutui prelevati dal Fondo di compensazione dell’assicurazione per la vecchiaia e per i superstiti. Le relative domande devono essere indirizzate all’Ufficio federale. Detto Ufficio può subordinare il suo consenso a determinate condizioni ed esigere garanzie.
+Se si avverano circostanze particolari, alle casse di compensazione possono essere concessi per la momentanea copertura delle spese di amministrazione mutui prelevati dal Fondo di compensazione dell’assicurazione per la vecchiaia e per i superstiti. Le relative domande devono essere indirizzate all’UFAS. Detto Ufficio può subordinare il suo consenso a determinate condizioni ed esigere garanzie.
 
 [^149bis-1]: Introdotto dal n. I del DCF del 20 apr. 1951, in vigore dal 1° gen. 1951 ([RU 1951 392](https://fedlex.data.admin.ch/eli/oc/1951/394_396_392)).
 
@@ -3161,7 +3331,7 @@ La contabilità delle casse di compensazione riguardante l’assicurazione per l
 
 **Piano contabile e prescrizioni sulla tenuta dei conti**[^154-1]
 
-L’Ufficio federale fissa, d’intesa con l’UCC, il piano dei conti per la contabilità delle casse di compensazione ed emana le necessarie istruzioni sulla tenuta dei conti.
+L’UFAS fissa, d’intesa con l’UCC, il piano dei conti per la contabilità delle casse di compensazione ed emana le necessarie istruzioni sulla tenuta dei conti.
 
 [^154-1]: Nuovo testo giusta il n. I dell’O dell’11 ago. 1976, in vigore dal 1° gen. 1977 ([RU 1976 1720](https://fedlex.data.admin.ch/eli/oc/1976/1720_1720_1720)).
 
@@ -3173,13 +3343,25 @@ Le casse di compensazione devono presentare all’UCC, entro il 20 del mese succ
 
 [^155-1]: Nuovo testo giusta il n. I dell’O del 13 set. 1995, in vigore dal 1° gen. 1996 ([RU 1995 4376](https://fedlex.data.admin.ch/eli/oc/1995/4376_4376_4376)).
 
+#### Art. 155a
+
+**Conto d’amministrazione degli istituti delle assicurazioni sociali**[^155a-1]
+
+<sup>1</sup> Se vi è un istituto delle assicurazioni sociali secondo l’articolo 61 capoverso 1<sup>bis</sup> LAVS, questo deve tenere un bilancio e un conto d’amministrazione separati per ciascuna unità organizzativa e per l’organo direttivo sovraordinato, se ve n’è uno.
+
+<sup>2</sup> L’organo direttivo sovraordinato può rifatturare alle unità organizzative che gli sono subordinate soltanto le spese che hanno un nesso diretto con i loro compiti e che sorgerebbero anche in mancanza di una struttura direttiva superiore.
+
+<sup>3</sup> Le spese che non sono imputabili né alle varie assicurazioni né ai compiti delegati sono a carico del Cantone.
+
+[^155a-1]: Introdotto dal n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
+
 ### V. Conservazione degli atti
 
 #### Art. 156
 
 <sup>1</sup> Gli atti delle casse di compensazione devono essere conservati accuratamente e in modo che nessuna persona non autorizzata possa prendere conoscenza del contenuto.
 
-<sup>2</sup> L’Ufficio federale può emanare prescrizioni particolari sulla conservazione degli atti, nonché sulla consegna o distruzione di atti vecchi.
+<sup>2</sup> L’UFAS può emanare prescrizioni particolari sulla conservazione degli atti, nonché sulla consegna o distruzione di atti vecchi.
 
 ### K. Copertura delle spese di amministrazione
 
@@ -3213,7 +3395,7 @@ Il Fondo di compensazione dell’assicurazione per la vecchiaia e per i supersti
 - b. 80 franchi per ogni domanda di continuazione ai sensi dell’articolo 88 LEF[^158bis-2];
 - c. 700 franchi per ogni richiesta di risarcimento del danno secondo l’articolo 52 capoverso 1 LAVS fatta valere nei confronti di uno o più datori di lavoro tenuti al risarcimento; l’indennità non è versata per i casi risolti mediante transazione.
 
-<sup>2</sup> L’Ufficio federale delle assicurazioni sociali è incaricato dell’esecuzione e del controllo.
+<sup>2</sup> L’UFAS è incaricato dell’esecuzione e del controllo.
 
 [^158bis-1]: Introdotto dal n. I dell’O del 30 set. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5183](https://fedlex.data.admin.ch/eli/oc/2009/608)).
 [^158bis-2]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
@@ -3226,17 +3408,39 @@ Il Fondo di compensazione dell’assicurazione per la vecchiaia e per i supersti
 
 **Regola**[^159-1]
 
-Conformemente all’articolo 68 capoverso 1 LAVS, le casse di compensazione devono essere controllate due volte l’anno mediante revisioni. La prima revisione dev’essere fatta nel corso dell’anno di esercizio, la seconda dopo la chiusura dell’anno di esercizio.
+Per le casse di compensazione vanno svolte tre revisioni secondo l’articolo 68*a* LAVS, con un rapporto separato per ciascuna di esse:
 
-[^159-1]: Nuovo testo giusta il n. I dell’O del 15 ott. 2014, in vigore dal 1° gen. 2015 ([RU 2014 3331](https://fedlex.data.admin.ch/eli/oc/2014/575)).
+- a. una revisione principale;
+- b. una revisione di chiusura;
+- c. una verifica dei sistemi d’informazione.
+
+[^159-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 #### Art. 160
 
-**Estensione**
+**Estensione**[^160-1]
 
 <sup>1</sup> L’estensione delle revisioni deve essere adattata al movimento degli affari della cassa di compensazione.
 
-<sup>2</sup> Le revisioni devono estendersi in particolare alla contabilità, al regolamento dei conti, all’applicazione materiale delle disposizioni legali, nonché all’organizzazione interna della cassa di compensazione. L’Ufficio federale può impartire agli uffici di revisione istruzioni in merito.
+<sup>2</sup> La revisione principale deve comprendere la verifica dell’applicazione materiale del diritto, del regolamento dei conti e dell’organizzazione interna della cassa di compensazione. Essa deve essere effettuata nel corso dell’anno d’esercizio.
+
+<sup>3</sup> La revisione di chiusura deve comprendere la verifica del conto annuale, della corretta imputazione dei costi ai compiti delegati e dell’impiego conforme alla legge dei contributi per le spese di amministrazione e dei sussidi secondo l’articolo 69 capoverso 3 LAVS.
+
+<sup>4</sup> La verifica dei sistemi d’informazione deve comprendere la valutazione dell’attuazione dei requisiti di cui all’articolo 72*a* capoverso 2 lettera b LAVS. Può essere effettuata simultaneamente a una delle altre verifiche o indipendentemente da essa.
+
+<sup>5</sup> L’UFAS emana istruzioni in merito.
+
+[^160-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
+
+#### Art. 160<sup>bis</sup>
+
+**Revisione dell’esecuzione dei compiti delegati**[^160bis-1]
+
+<sup>1</sup> L’UFAS emana istruzioni per le revisioni dell’esecuzione dei compiti delegati alle casse di compensazione.
+
+<sup>2</sup> Le istruzioni per le revisioni contengono le prescrizioni per la presentazione dei rapporti.
+
+[^160bis-1]: Introdotto dal n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 #### Art. 161
 
@@ -3244,13 +3448,15 @@ Conformemente all’articolo 68 capoverso 1 LAVS, le casse di compensazione devo
 
 <sup>1</sup> Le disposizioni degli articoli 159 e 160 sono applicabili alla revisione delle agenzie che adempiono, nel loro ambito, tutti i compiti di una cassa di compensazione.
 
-<sup>2</sup> Le agenzie che non sono della categoria indicata nel capoverso 1, ma che non adempiono soltanto i compiti enumerati nell’articolo 116 capoverso 1, devono essere controllate sul posto almeno una volta l’anno. L’estensione della revisione va adeguata ai compiti affidati alle singole agenzie.
+<sup>2</sup> Le agenzie che non sono della categoria indicata nel capoverso 1, ma che emanano decisioni autonomamente, devono essere controllate sul posto almeno una volta l’anno. L’estensione della revisione va adeguata ai compiti delegati alle singole agenzie.[^161-1]
 
-<sup>3</sup> Le agenzie che adempiono unicamente i compiti enumerati nell’articolo 116 capoverso 1 devono essere controllate almeno una volta ogni tre anni.[^161-1]
+<sup>3</sup> *...*[^161-2]
 
-<sup>4</sup> Previa approvazione dell’Ufficio federale, le casse di compensazione decidono se i capoversi 1 a 3 sono applicabili alle singole agenzie.
+<sup>4</sup> Previa approvazione dell’UFAS, le casse di compensazione decidono se i capoversi 1 e 2 sono applicabili alle singole agenzie.[^161-3]
 
-[^161-1]: Nuovo testo giusta il n. I dell’O del 21 ago. 1991, in vigore dal 1° gen. 1992 ([RU 1991 2110](https://fedlex.data.admin.ch/eli/oc/1991/2110_2110_2110)).
+[^161-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
+[^161-2]: Abrogato dal n. I dell’O del 22 nov. 2023, con effetto dal 1° gen. 2024 ([RU 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
+[^161-3]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 ### II. Controllo dei datori di lavoro
 
@@ -3258,16 +3464,16 @@ Conformemente all’articolo 68 capoverso 1 LAVS, le casse di compensazione devo
 
 **Norma**[^162-1]
 
-<sup>1</sup> Il controllo periodico dei datori di lavoro di cui all’articolo 68 capoverso 2 primo periodo LAVS è effettuato in linea di massima sul posto. L’ufficio di revisione può rinunciare al controllo sul posto, se ha accesso ai dati e ai documenti necessari per via elettronica.[^162-2]
+<sup>1</sup> Il controllo periodico dei datori di lavoro di cui all’articolo 68*b* LAVS è effettuato in linea di massima sul posto. L’organo incaricato di svolgere il controllo dei datori di lavoro può rinunciare al controllo sul posto, se ha accesso ai dati e ai documenti necessari per via elettronica.[^162-2]
 
 <sup>2</sup> Se un datore di lavoro passa da una cassa a un’altra, la prima cassa deve vigilare che egli sia controllato per il periodo anteriore al cambiamento di cassa.
 
 <sup>3</sup> Il gerente della cassa ha la responsabilità di ordinare i controlli e di stabilire i periodi di controllo.[^162-3] A tal fine tiene conto in particolare del risultato dell’ultimo controllo e della valutazione costante dei rischi relativa al datore di lavoro in questione. Il controllo deve essere annunciato in tempo utile al datore di lavoro.[^162-4]
 
-<sup>4</sup> L’Ufficio federale impartisce alle casse di compensazione istruzioni sulle modalità dei controlli.[^162-5]
+<sup>4</sup> L’UFAS impartisce alle casse di compensazione istruzioni sulle modalità dei controlli.[^162-5]
 
 [^162-1]: Nuovo testo giusta il n. I del DCF del 30 dic. 1953, in vigore dal 1° gen. 1954 ([RU 1954 110](https://fedlex.data.admin.ch/eli/oc/1954/219_226_110)).
-[^162-2]: Nuovo testo giusta il n. I dell’O del 14 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4605](https://fedlex.data.admin.ch/eli/oc/2020/818)).
+[^162-2]: NT
 [^162-3]: Nuovo testo giusta il n. I dell’O del 14 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4605](https://fedlex.data.admin.ch/eli/oc/2020/818)).
 [^162-4]: Nuovo testo giusta il n. I dell’O del 17 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5125](https://fedlex.data.admin.ch/eli/oc/2007/721)).
 [^162-5]: Introdotto dal n. I dell’O del 17 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5125](https://fedlex.data.admin.ch/eli/oc/2007/721)).
@@ -3276,88 +3482,37 @@ Conformemente all’articolo 68 capoverso 1 LAVS, le casse di compensazione devo
 
 **Estensione**[^163-1]
 
-<sup>1</sup> L’Ufficio di revisione deve verificare se il datore di lavoro adempie correttamente i compiti che gli spettano. Il controllo deve estendersi a tutti i documenti che sono necessari per tale verificazione.
+<sup>1</sup> L’organo incaricato di svolgere il controllo dei datori di lavoro deve verificare se il datore di lavoro adempie correttamente i compiti che gli spettano. Il controllo deve estendersi a tutti i documenti che sono necessari per tale verificazione.[^163-2]
 
-<sup>2</sup> Il controllo verte sul periodo di contribuzione non ancora caduto in prescrizione. Esso è effettuato in una misura tale da garantire una verificazione efficace e da permettere l’accertamento di eventuali lacune.[^163-2]
+<sup>2</sup> Il controllo verte sul periodo di contribuzione non ancora caduto in prescrizione. Esso è effettuato in una misura tale da garantire una verificazione efficace e da permettere l’accertamento di eventuali lacune.[^163-3]
 
-<sup>3</sup> I verificatori devono limitarsi al controllo. Essi non possono emanare decisioni né impartire ordini. Possono assumere anche funzioni consultive.[^163-3]
+<sup>3</sup> I verificatori devono limitarsi al controllo. Essi non possono emanare decisioni né impartire ordini. Possono assumere anche funzioni consultive.[^163-4]
 
 [^163-1]: Nuovo testo giusta il n. I del DCF del 30 dic. 1953, in vigore dal 1° gen. 1954 ([RU 1954 110](https://fedlex.data.admin.ch/eli/oc/1954/219_226_110)).
-[^163-2]: Nuovo testo giusta il n. I dell’O del 17 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5125](https://fedlex.data.admin.ch/eli/oc/2007/721)).
+[^163-2]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 [^163-3]: Nuovo testo giusta il n. I dell’O del 17 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5125](https://fedlex.data.admin.ch/eli/oc/2007/721)).
+[^163-4]: Nuovo testo giusta il n. I dell’O del 17 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5125](https://fedlex.data.admin.ch/eli/oc/2007/721)).
 
-### III. Uffici di revisione e di controllo
+### III. Requisiti per l’ufficio di revisione e il capo revisore
+
+[^chap4-lvlL-lvlIII-1]
+
+[^chap4-lvlL-lvlIII-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 #### Art. 164
 
-**Regola**
+**Regola**[^164-1]
 
-<sup>1</sup> Le casse di compensazione, nonché le agenzie nel senso dell’articolo 161 capoverso 1, devono essere controllate da uffici di revisione che adempiono le condizioni indicate nell’articolo 68 capoverso 3 LAVS (detti qui di seguito «Uffici di revisione esterni»).
+I requisiti di cui all’articolo 68 capoverso 4 LAVS sono disciplinati negli articoli 11*n*–11*q* dell’ordinanza del 22 agosto 2007[^164-2] sui revisori.
 
-<sup>2</sup> Le agenzie nel senso dell’articolo 161 capoversi 2 e 3, nonché i datori di lavoro, possono essere controllati da servizi speciali delle casse di compensazione (detti qui di seguito «Uffici di revisione interni»).
+[^164-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
+[^164-2]: [RS 221.302.3](https://fedlex.data.admin.ch/eli/cc/2007/534)
 
-#### Art. 165
+#### Art. 165 a 168
 
-**Condizioni pel riconoscimento**
+[^165168-1]
 
-<sup>1</sup>
-
-Il riconoscimento di uffici di revisione e di controllo è subordinato alle condizioni seguenti:
-
-- a.[^165-1] le persone che si occupano della revisione delle casse e dei controlli dei datori di lavoro devono conoscere a fondo la tecnica della revisione, la contabilità, le prescrizioni della LPGA e della LAVS e le loro disposizioni d’esecuzione nonché le istruzioni dell’Ufficio federale;
-- b.[^165-2] le persone che devono eseguire le revisioni e i controlli devono dedicare la loro attività in modo principale a lavori di revisione e, se sono salariate, essere legate da un contratto di lavoro all’ufficio di revisione o, nei casi indicati nell’articolo 164 capoverso 2, alla cassa di compensazione;
-- c.[^165-3] la revisione è diretta da persone fisiche abilitate a esercitare la funzione di perito revisore conformemente alla legge del 16 dicembre 2005[^165-4] sui revisori (LSR). Queste persone possono svolgere il mandato per sette esercizi annuali al massimo e rinnovarlo solo dopo un’interruzione di tre anni d’esercizio.
-
-<sup>2</sup>
-
-Gli uffici di revisione esterni, per quanto non si tratti di servizi di controllo cantonali, devono adempire inoltre le condizioni seguenti:
-
-- a.[^165-5] sono imprese di revisione abilitate a esercitare la funzione di perito revisore conformemente alla LSR;
-- b.[^165-6] per la revisione delle casse, devono provare di essere stati incaricati della revisione di almeno tre casse di compensazione o agenzie ai sensi dell’articolo 161 capoverso 1 e, per i controlli dei datori di lavoro, del controllo di almeno dieci datori di lavoro l’anno; l’Ufficio federale può autorizzare eccezioni, a condizione che l’ufficio di revisione provi altrimenti la qualità del suo lavoro;
-- c. essi devono impegnarsi ad annunciare all’Ufficio federale le attività esercitate oltre alla revisione e ai controlli e, volta per volta, gli eventuali cambiamenti;
-- d. essi devono impegnarsi a mettere tutti i documenti a disposizione dell’Ufficio federale e a fornire a questo tutte le informazioni necessarie per il controllo dell’adempimento delle condizioni del riconoscimento.
-
-<sup>3</sup> Gli uffici di revisione interni devono occuparsi in modo preponderante di revisioni e di controlli ed essere indipendenti dalla direzione della cassa riguardo all’esercizio della loro attività. Essi non possono essere organizzati nel seno delle agenzie.
-
-<sup>4</sup> Gli uffici di revisione esterni e interni possono, verso adeguata rimunerazione, eseguire contemporaneamente altre revisioni e controlli per conto dell’associazione o del Cantone, qualora ciò permetta una revisione più razionale e non pregiudichi l’esecuzione regolare delle revisioni delle casse e dei controlli dei datori di lavoro.
-
-[^165-1]: Nuovo testo giusta il n. I dell’O dell’11 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3710](https://fedlex.data.admin.ch/eli/oc/2002/570)).
-[^165-2]: Nuovo testo giusta il n. I dell’O del 31 ago. 1992, in vigore dal 1° gen. 1993 ([RU 1992 1830](https://fedlex.data.admin.ch/eli/oc/1992/1830_1830_1830)).
-[^165-3]: Nuovo testo giusta il n. I dell’O del 21 set. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6329](https://fedlex.data.admin.ch/eli/oc/2012/746)).
-[^165-4]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
-[^165-5]: Nuovo testo giusta il n. I dell’O del 21 set. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6329](https://fedlex.data.admin.ch/eli/oc/2012/746)).
-[^165-6]: Nuovo testo giusta il n. I dell’O del 21 set. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6329](https://fedlex.data.admin.ch/eli/oc/2012/746)).
-
-#### Art. 166
-
-**Procedura pel riconoscimento e revoca dello stesso**
-
-<sup>1</sup> Gli uffici di revisione esterni, che intendono farsi riconoscere, devono presentare una domanda scritta all’Ufficio federale e provare che adempiono le condizioni del riconoscimento. La domanda di riconoscimento degli uffici di revisione interni dev’essere presentata dalla cassa di compensazione.
-
-<sup>2</sup> L’Ufficio federale decide del riconoscimento degli uffici di revisione. La sua decisione dev’essere notificata per iscritto.
-
-<sup>3</sup> Il riconoscimento dev’essere revocato quando l’ufficio di revisione non adempie più le condizioni del riconoscimento, non offre più la garanzia di esecuzione regolare e oggettiva delle revisioni e dei controlli o non osserva, malgrado intimazioni, le istruzioni impartite dalle autorità.
-
-#### Art. 167
-
-**Indipendenza e astensione**
-
-<sup>1</sup> Gli uffici di revisione devono essere indipendenti dalla direzione delle associazioni fondatrici della cassa di compensazione sottoposta a revisione, nonché dai datori di lavoro da controllare.
-
-<sup>2</sup>
-
-Quando essi hanno ragioni di dubitare che esista questa indipendenza, gli uffici di revisione o le persone incaricate di eseguire le revisioni o i controlli devono astenersi. I motivi di astensione sono in particolare:
-
-- a. una rilevante partecipazione finanziaria o di natura analoga all’associazione fondatrice, all’azienda da controllare o a un’azienda concorrente;
-- b. un contratto di lavoro o un rapporto di mandato, che non concerna l’esecuzione di una revisione o di un controllo, con il datore di lavoro da controllare o con un’impresa concorrente.
-
-#### Art. 168
-
-**Mandato di revisione**
-
-<sup>1</sup> Gli uffici di revisione devono essere incaricati di eseguire la revisione delle casse o i controlli dei datori di lavoro entro un termine che sarà fissato dall’Ufficio federale. Il mandato a un ufficio di revisione esterno deve sempre estendersi almeno a un anno di esercizio.
-
-<sup>2</sup> Le casse di compensazione devono annunciare i loro uffici di revisione all’Ufficio federale.
+[^165168-1]: Abrogati dal n. I dell’O del 22 nov. 2023, con effetto dal 1° gen. 2024 ([RU 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 #### Art. 169
 
@@ -3365,25 +3520,33 @@ Quando essi hanno ragioni di dubitare che esista questa indipendenza, gli uffici
 
 <sup>1</sup> Del risultato di ogni revisione di una cassa di compensazione o di una agenzia, e di ogni controllo dei datori di lavoro è steso un rapporto.
 
-<sup>2</sup> I rapporti di revisione e di controllo devono indicare esaurientemente l’estensione e l’oggetto delle verificazioni fatte, nonché i difetti e le irregolarità rilevati. Essi devono indicare il risultato formale e materiale delle verificazioni fatte ed esporre chiaramente se e come le prescrizioni legali e amministrative, nonché le istruzioni sono state osservate esattamente. I rapporti devono inoltre informare se i difetti precedentemente rilevati sono stati eliminati. L’Ufficio federale può impartire istruzioni particolari concernenti la formazione dei rapporti di revisione e di controllo e respingere rapporti che non rispondono alle esigenze poste. Infine, esso può ordinare la compilazione dei rapporti di controllo mediante un modulo prescritto.
+<sup>2</sup> I rapporti di revisione e di controllo devono indicare esaurientemente l’estensione e l’oggetto delle verificazioni fatte, nonché i difetti e le irregolarità rilevati. Essi devono indicare il risultato formale e materiale delle verificazioni fatte ed esporre chiaramente se e come le prescrizioni legali e amministrative, nonché le istruzioni sono state osservate esattamente. I rapporti devono inoltre informare se i difetti precedentemente rilevati sono stati eliminati. L’UFAS può impartire istruzioni particolari concernenti la formazione dei rapporti di revisione e di controllo e respingere rapporti che non rispondono alle esigenze poste. Infine, esso può ordinare la compilazione dei rapporti di controllo mediante un modulo prescritto.
 
 <sup>3</sup> I rapporti di revisione e di controllo devono essere firmati dal revisore e, per gli uffici di revisione esterni, dalle persone rappresentanti l’ufficio di revisione o di controllo.
 
-<sup>4</sup> I rapporti di revisione devono essere trasmessi in due copie all’Ufficio federale entro un termine da fissarsi da quest’ultimo. Altri duplicati devono essere inviati direttamente alla cassa di compensazione e alle loro associazioni fondatrici. I rapporti di controllo devono essere inviati alle casse di compensazione.[^169-1]
+<sup>4</sup> I rapporti di revisione devono essere trasmessi all’UFAS entro un termine da fissarsi da quest’ultimo. Altri esemplari devono essere inviati direttamente all’UCC, alla cassa di compensazione e alle sue associazioni fondatrici. I rapporti di controllo devono essere inviati alle casse di compensazione.[^169-1]
 
-[^169-1]: Nuovo testo giusta il n. I 1 dell’O dell’11 ott. 1972, in vigore dal 1° gen. 1973 ([RU 1972 2338](https://fedlex.data.admin.ch/eli/oc/1972/2507_2560_2338)).
+[^169-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
+
+### III*a*. Spese di revisione delle casse e di controllo dei datori di lavoro
+
+[^chap4-lvlL-lvlIIIa-1]
+
+[^chap4-lvlL-lvlIIIa-1]: Introdotto dal n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 #### Art. 170
 
-**Tariffa**
+**... [^170-1]**
 
-<sup>1</sup> Le indennità dovute agli uffici di revisione esterni sono fissate in una tariffa che sarà compilata dal DFI, previa consultazione degli interessati.
+<sup>1</sup> ... [^170-2]
 
 <sup>2</sup> Le spese di revisione delle casse e di controllo dei datori di lavoro sono considerate come spese di amministrazione delle casse di compensazione.
 
-<sup>3</sup> Laddove, con un comportamento contrario ai suoi obblighi, il datore di lavoro complica l’esecuzione di un controllo, segnatamente allorché non iscrive i salari e altre indicazioni richieste ai sensi dell’articolo 143 capoverso 2 OAVS, o procede a dette iscrizioni soltanto in modo incompleto, o se tenta di sottrarsi al controllo, la cassa di compensazione può addossargli le spese supplementari cui essa va incontro.[^170-1]
+<sup>3</sup> Laddove, con un comportamento contrario ai suoi obblighi, il datore di lavoro complica l’esecuzione di un controllo, segnatamente allorché non iscrive i salari e altre indicazioni richieste ai sensi dell’articolo 143 capoverso 2 OAVS, o procede a dette iscrizioni soltanto in modo incompleto, o se tenta di sottrarsi al controllo, la cassa di compensazione può addossargli le spese supplementari cui essa va incontro.[^170-3]
 
-[^170-1]: Introdotto dal n. I dell’O del 5 apr. 1978, in vigore dal 1° gen. 1979 ([RU 1978 420](https://fedlex.data.admin.ch/eli/oc/1978/420_420_420)).
+[^170-1]: Abrogato dal n. I dell’O del 22 nov. 2023, con effetto dal 1° gen. 2024 ([RU 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
+[^170-2]: Abrogato dal n. I dell’O del 22 nov. 2023, con effetto dal 1° gen. 2024 ([RU 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
+[^170-3]: Introdotto dal n. I dell’O del 5 apr. 1978, in vigore dal 1° gen. 1979 ([RU 1978 420](https://fedlex.data.admin.ch/eli/oc/1978/420_420_420)).
 
 ### IV. Revisioni complementari e controlli
 
@@ -3393,9 +3556,11 @@ Quando essi hanno ragioni di dubitare che esista questa indipendenza, gli uffici
 
 #### Art. 171
 
-<sup>1</sup> L’Ufficio federale può, all’occorrenza, eseguire esso stesso revisioni complementari delle casse o farle eseguire dall’UCC o da un ufficio di revisione riconosciuto.
+<sup>1</sup> L’UFAS può, all’occorrenza, eseguire esso stesso revisioni complementari delle casse o farle eseguire dall’UCC o da un ufficio di revisione riconosciuto.
 
-<sup>2</sup> L’Ufficio federale è competente a ordinare i controlli conformemente all’articolo 68 capoverso 2 in fine LAVS.
+<sup>2</sup> L’UFAS è competente a ordinare i controlli conformemente all’articolo 72b lettera d LAVS.[^171-1]
+
+[^171-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 ### M. ...
 
@@ -3418,31 +3583,37 @@ All’UCC incombono, oltre a quelli indicati nell’articolo 71 LAVS e negli art
 - a.[^174-2] ...
 - b.[^174-3] ...
 - c.[^174-4] riunire i conti individuali di un assicurato al verificarsi dell’evento assicurato;
-- d.[^174-5] trarre dagli annunci fatti[^174-6] in conformità dell’articolo 140 capoverso 2 e dal registro delle prestazioni correnti le informazioni necessarie richieste dall’Ufficio federale;
-- e.[^174-7] ricevere in consegna gli avvisi di morte inviati dagli uffici dello stato civile e inoltrarli alla cassa di compensazione, se gli avvisi riguardano i beneficiari di prestazioni che sono iscritti nel registro centrale;
-- f.[^174-8] gestire un registro centrale di tutti i beneficiari di prestazioni complementari che non riscuotono una rendita AVS o AI;
-- g.[^174-9] confrontare i dati secondo l’articolo 93 LAVS;
-- h.[^174-10] gestire il servizio di pseudonimizzazione di cui all’articolo 31 capoverso 1 lettera c della legge federale del 18 marzo 2016[^174-11] sulla registrazione delle malattie tumorali.
+- d.[^174-5] trarre dagli annunci fatti in conformità dell’articolo 140 capoverso 2 e dal registro delle prestazioni in denaro correnti le informazioni necessarie richieste dall’UFAS;
+- e.[^174-6] comunicare alle casse di compensazione le date di decesso figuranti nel registro degli assicurati, se gli avvisi riguardano beneficiari di prestazioni che sono iscritti nel registro delle prestazioni in denaro correnti;
+- f.[^174-7] gestire un registro centrale di tutti i beneficiari di prestazioni complementari che non riscuotono una rendita AVS o AI;
+- g.[^174-8] confrontare i dati secondo l’articolo 93 LAVS;
+- h.[^174-9] gestire il servizio di pseudonimizzazione di cui all’articolo 31 capoverso 1 lettera c della legge federale del 18 marzo 2016[^174-10] sulla registrazione delle malattie tumorali;
+- i.[^174-11] per quanto concerne i registri che gestisce, garantire la protezione dei dati e la sicurezza dei dati conformemente alla legislazione federale sulla protezione dei dati[^174-12], all’ordinanza del 27 maggio 2020[^174-13] sui ciber-rischi e alle istruzioni del Consiglio federale del 16 gennaio 2019[^174-14] sulla sicurezza TIC nell’Amministrazione federale;
+- j.[^174-15] conservare i dati suscettibili di conferire il diritto a una prestazione per dieci anni dopo l’estinzione dell’ultimo diritto a una prestazione; successivamente, i dati vengono distrutti, se è certo che questi non saranno più necessari per prestazioni concesse successivamente; l’UFAS disciplina i dettagli.
 
-<sup>1bis</sup> L’UCC confronta i dati dell’assicurazione contro la disoccupazione forniti dalla Segreteria di Stato dell’economia (SECO) entro il 31 marzo dell’anno successivo al periodo di conteggio con quelli forniti dalle casse di compensazione. Nell’anno successivo al periodo di conteggio, trasmette ogni mese alla SECO i dati risultanti dal confronto, la prima volta entro il 15 aprile e l’ultima volta entro il 15 novembre.[^174-12]
+<sup>1bis</sup> L’UCC confronta i dati dell’assicurazione contro la disoccupazione forniti dalla Segreteria di Stato dell’economia (SECO) entro il 31 marzo dell’anno successivo al periodo di conteggio con quelli forniti dalle casse di compensazione. Nell’anno successivo al periodo di conteggio, trasmette ogni mese alla SECO i dati risultanti dal confronto, la prima volta entro il 15 aprile e l’ultima volta entro il 15 novembre.[^174-16]
 
-<sup>2</sup> ...[^174-13]
+<sup>2</sup> ...[^174-17]
 
-<sup>3</sup> L’UCC stende ogni anno un rapporto particolareggiato sull’adempimento dei compiti che a esso incombono in virtù del primo capoverso e lo trasmette all’Ufficio federale.
+<sup>3</sup> L’UCC stende ogni anno un rapporto particolareggiato sull’adempimento dei compiti che a esso incombono in virtù del primo capoverso e lo trasmette all’UFAS.
 
 [^174-1]: Nuovo testo giusta il n. I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
 [^174-2]: Abrogata dal n. I dell’O del 17 nov. 2021, con effetto dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
 [^174-3]: Abrogata dal n. I dell’O del 22 nov. 2000, con effetto dal 1° gen. 2001 ([RU 2000 2905](https://fedlex.data.admin.ch/eli/oc/2000/506)).
 [^174-4]: Nuovo testo giusta il n. I del DCF del 10 gen. 1969, in vigore dal 1° gen. 1997 ([RU 1969 135](https://fedlex.data.admin.ch/eli/oc/1969/125_135_135)).
-[^174-5]: Nuovo testo giusta il n. I del DCF del 10 gen. 1969, in vigore dal 1° gen. 1997 ([RU 1969 135](https://fedlex.data.admin.ch/eli/oc/1969/125_135_135)).
-[^174-6]: Nuovo testo giusta il n. I dell’O del 17 giu. 1985, in vigore dal 1° gen. 1986 ([RU 1985 913](https://fedlex.data.admin.ch/eli/oc/1985/913_913_913)).
-[^174-7]: Introdotta dal n. 1 dell’O del 18 ott. 1974, in vigore dal 1° gen. 1975 ([RU 1974 1594](https://fedlex.data.admin.ch/eli/oc/1974/1594_1594_1594)).
-[^174-8]: Introdotta dal n. I dell’O del 29 nov. 1995, in vigore dal 1° gen. 1997 ([RU 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)).
-[^174-9]: Introdotta dal n. I dell’O del 20 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4519](https://fedlex.data.admin.ch/eli/oc/2013/798)).
-[^174-10]: Introdotta dall’all. 2 n. 2 dell’O dell’11 apr. 2018 sulla registrazione delle malattie tumorali, in vigore dal 1° giu. 2018 ([RU 2018 2019](https://fedlex.data.admin.ch/eli/oc/2018/290)).
-[^174-11]: [RS 818.33](https://fedlex.data.admin.ch/eli/cc/2018/289)
-[^174-12]: Introdotto dal n. I dell’O del 20 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4519](https://fedlex.data.admin.ch/eli/oc/2013/798)).
-[^174-13]: Abrogato dal n. I dell’O del 26 ott. 2016, con effetto dal 1° gen. 2017 ([RU 2016 4057](https://fedlex.data.admin.ch/eli/oc/2016/673)).
+[^174-5]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
+[^174-6]: Introdotta dal n. 1 dell’O del 18 ott. 1974 ([RU 1974 1594](https://fedlex.data.admin.ch/eli/oc/1974/1594_1594_1594)). Nuovo testo giusta il n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
+[^174-7]: Introdotta dal n. I dell’O del 29 nov. 1995, in vigore dal 1° gen. 1997 ([RU 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)).
+[^174-8]: Introdotta dal n. I dell’O del 20 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4519](https://fedlex.data.admin.ch/eli/oc/2013/798)).
+[^174-9]: Introdotta dall’all. 2 n. 2 dell’O dell’11 apr. 2018 sulla registrazione delle malattie tumorali, in vigore dal 1° giu. 2018 ([RU 2018 2019](https://fedlex.data.admin.ch/eli/oc/2018/290)).
+[^174-10]: [RS 818.33](https://fedlex.data.admin.ch/eli/cc/2018/289)
+[^174-11]: Introdotta dal n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
+[^174-12]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491); [235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^174-13]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^174-14]: [FF 2019 1173](https://fedlex.data.admin.ch/eli/fga/2019/278)
+[^174-15]: Introdotta dal n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
+[^174-16]: Introdotto dal n. I dell’O del 20 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4519](https://fedlex.data.admin.ch/eli/oc/2013/798)).
+[^174-17]: Abrogato dal n. I dell’O del 26 ott. 2016, con effetto dal 1° gen. 2017 ([RU 2016 4057](https://fedlex.data.admin.ch/eli/oc/2016/673)).
 
 #### Art. 175
 
@@ -3456,23 +3627,24 @@ L’UCC è sottoposto al DFF. Questo ne disciplina l’organizzazione interna.
 
 #### Art. 176
 
-**DFI e Ufficio federale**
+**Autorità di vigilanza[^176-1]**
 
-<sup>1</sup> Il DFI è incaricato di eseguire i compiti che in conformità dell’articolo 76 LPGA e dell’articolo 72 LAVS incombono al Consiglio federale.[^176-1] Esso può affidare determinati compiti all’Ufficio federale, perché li disbrighi direttamente.
+<sup>1</sup> L’autorità di vigilanza di cui all’articolo 72 LAVS è l’UFAS.[^176-2]
 
-<sup>2</sup> L’Ufficio federale può, in generale e nei casi particolari, impartire ai servizi incaricati dell’applicazione dell’assicurazione istruzioni che ne garantiscano l’uniformità.[^176-2]
+<sup>2</sup> ... [^176-3]
 
-<sup>3</sup> ...[^176-3]
+<sup>3</sup> ...[^176-4]
 
-<sup>4</sup> L’Ufficio federale disciplina la collaborazione tra le casse di compensazione e l’UCC e provvede all’impiego razionale delle installazioni tecniche. Le prescrizioni concernenti l’organizzazione e l’attività dell’UCC sono emanate d’intesa con l’Amministrazione federale delle finanze.[^176-4]
+<sup>4</sup> L’UFAS disciplina la collaborazione tra le casse di compensazione e l’UCC e provvede all’impiego razionale delle installazioni tecniche. Le prescrizioni concernenti l’organizzazione e l’attività dell’UCC sono emanate d’intesa con l’Amministrazione federale delle finanze.[^176-5]
 
-<sup>5</sup> ...[^176-5]
+<sup>5</sup> ...[^176-6]
 
-[^176-1]: Nuovo testo giusta il n. I dell’O dell’11 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3710](https://fedlex.data.admin.ch/eli/oc/2002/570)).
-[^176-2]: Nuovo testo giusta il n. I dell’O del 21 gen. 1987, in vigore dal 1° lug. 1987 ([RU 1987 445](https://fedlex.data.admin.ch/eli/oc/1987/445_445_445)).
-[^176-3]: Abrogato dal n. I dell’O del 21 gen. 1987, con effetto dal 1° lug. 1987 ([RU 1987 445](https://fedlex.data.admin.ch/eli/oc/1987/445_445_445)).
-[^176-4]: Introdotto dal n. I del DCF del 3 apr. 1964, ([RU 1964 324](https://fedlex.data.admin.ch/eli/oc/1964/332_324_324)). Nuovo testo giusta il n. I dell’O del 21 gen. 1987, in vigore dal 1° lug. 1987 ([RU 1987 445](https://fedlex.data.admin.ch/eli/oc/1987/445_445_445)).
-[^176-5]: Introdotto dall’all. n. 20 dell’O del 3 feb. 1993 sulle autorità le cui decisioni possono essere deferite al TF e al TFA ([RU 1993 901](https://fedlex.data.admin.ch/eli/oc/1993/901_901_901)). Abrogato dal n. I dell’O dell’11 set. 2002, con effetto dal 1° gen. 2003 ([RU 2002 3710](https://fedlex.data.admin.ch/eli/oc/2002/570)).
+[^176-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
+[^176-2]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
+[^176-3]: Abrogato dal n. I dell’O del 22 nov. 2023, con effetto dal 1° gen. 2024 ([RU 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
+[^176-4]: Abrogato dal n. I dell’O del 21 gen. 1987, con effetto dal 1° lug. 1987 ([RU 1987 445](https://fedlex.data.admin.ch/eli/oc/1987/445_445_445)).
+[^176-5]: Introdotto dal n. I del DCF del 3 apr. 1964, ([RU 1964 324](https://fedlex.data.admin.ch/eli/oc/1964/332_324_324)). Nuovo testo giusta il n. I dell’O del 21 gen. 1987, in vigore dal 1° lug. 1987 ([RU 1987 445](https://fedlex.data.admin.ch/eli/oc/1987/445_445_445)).
+[^176-6]: Introdotto dall’all. n. 20 dell’O del 3 feb. 1993 sulle autorità le cui decisioni possono essere deferite al TF e al TFA ([RU 1993 901](https://fedlex.data.admin.ch/eli/oc/1993/901_901_901)). Abrogato dal n. I dell’O dell’11 set. 2002, con effetto dal 1° gen. 2003 ([RU 2002 3710](https://fedlex.data.admin.ch/eli/oc/2002/570)).
 
 #### Art. 177
 
@@ -3482,24 +3654,21 @@ L’UCC è sottoposto al DFF. Questo ne disciplina l’organizzazione interna.
 
 <sup>2</sup> La Commissione stabilisce il suo regolamento.
 
-<sup>3</sup> L’Ufficio federale assume l’ufficio di segretariato della Commissione.
+<sup>3</sup> L’UFAS assume l’ufficio di segretariato della Commissione.
 
 [^177-1]: Nuova denominazione giusta il n. II lett. a del DCF del 10 gen. 1969, in vigore dal 1° gen. 1997 ([RU 1969 135](https://fedlex.data.admin.ch/eli/oc/1969/125_135_135)).
 
 #### Art. 178
 
-**Rapporti di gestione delle casse di compensazione**[^178-1]
+[^178-1]
 
-Le casse di compensazione devono presentare ogni anno all’Ufficio federale, in conformità delle istruzioni da esso impartite, un rapporto di gestione. ...[^178-2]
-
-[^178-1]: Nuovo testo giusta il n. I del DCF del 20 apr. 1951, in vigore dal 1° gen. 1951 ([RU 1951 392](https://fedlex.data.admin.ch/eli/oc/1951/394_396_392)).
-[^178-2]: Per. abrogato dal n. I del DCF del 15 gen. 1971, con effetto dal 1° gen. 1954 ([RU 1971 29](https://fedlex.data.admin.ch/eli/oc/1971/29_29_29)).
+[^178-1]: Abrogato dal n. I dell’O del 22 nov. 2023, con effetto dal 1° gen. 2024 ([RU 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 #### Art. 179
 
 **Eliminazione dei difetti**[^179-1]
 
-Le casse di compensazione devono eliminare i difetti rilevati entro un termine adeguato. Se una cassa di compensazione non ottempera a tale dovere, l’Ufficio federale le assegna un termine supplementare.
+Le casse di compensazione devono eliminare i difetti rilevati entro un termine adeguato. Se una cassa di compensazione non ottempera a tale dovere, l’UFAS le assegna un termine supplementare.
 
 [^179-1]: Nuovo testo giusta il n. I del DCF del 30 dic. 1953, in vigore dal 1° gen. 1954 ([RU 1954 110](https://fedlex.data.admin.ch/eli/oc/1954/219_226_110)).
 
@@ -3507,13 +3676,17 @@ Le casse di compensazione devono eliminare i difetti rilevati entro un termine a
 
 **Amministrazione da parte di un commissario**
 
-<sup>1</sup> L’amministrazione da parte di un commissario conformemente all’articolo 72 capoverso 3 LAVS dev’essere ordinata dal DFI nei casi di grave e ripetuta inosservanza delle disposizioni legali e delle istruzioni delle autorità.
+<sup>1</sup> *...*[^180-1]
 
-<sup>2</sup> Il DFI nomina il commissario previa consultazione del Cantone o delle associazioni fondatrici. Il commissario sostituisce l’organo superiore della cassa e il gerente della cassa e ne assume tutti gli obblighi e le competenze.
+<sup>2</sup> Se in applicazione dell’articolo 72*b* lettera h LAVS si ordina l’amministrazione della cassa di compensazione da parte di un commissario, l’UFAS nomina il commissario previa consultazione del Cantone o delle associazioni fondatrici. Il commissario sostituisce l’organo superiore della cassa e il gerente della cassa e ne assume tutti gli obblighi e le competenze.[^180-2]
 
-<sup>3</sup> Il commissario deve amministrare la cassa di compensazione in conformità delle istruzioni dell’Ufficio federale. Le spese derivanti dall’amministrazione da parte di un commissario sono a carico della cassa di compensazione.
+<sup>3</sup> Il commissario deve amministrare la cassa di compensazione in conformità delle istruzioni dell’UFAS. Le spese derivanti dall’amministrazione da parte di un commissario sono a carico della cassa di compensazione.
 
-<sup>4</sup> L’amministrazione da parte di un commissario è revocata appena è data la garanzia che i compiti incombenti alla cassa di compensazione saranno adempiti in conformità delle prescrizioni. Il commissario deve stendere un rapporto finale per il DFI.
+<sup>4</sup> L’amministrazione da parte di un commissario è revocata appena è data la garanzia che i compiti incombenti alla cassa di compensazione saranno adempiti in conformità delle prescrizioni. Il commissario deve stendere un rapporto finale per l’UFAS.[^180-3]
+
+[^180-1]: Abrogato dal n. I dell’O del 22 nov. 2023, con effetto dal 1° gen. 2024 ([RU 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
+[^180-2]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
+[^180-3]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 ## Capo quinto: ...
 
@@ -3543,7 +3716,7 @@ Se un ricorrente assicurato obbligatoriamente è domiciliato all’estero, l’a
 
 **Competenze delle autorità in materia di ricorso**[^201-1]
 
-<sup>1</sup> L’Ufficio federale, le casse di compensazione e gli uffici AI interessati sono autorizzati a impugnare le decisioni dei tribunali cantonali delle assicurazioni al Tribunale federale. L’Ufficio federale e la Cassa svizzera di compensazione sono anche autorizzati a impugnare le decisioni del Tribunale amministrativo federale.[^201-2]
+<sup>1</sup> L’UFAS, le casse di compensazione e gli uffici AI interessati sono autorizzati a impugnare le decisioni dei tribunali cantonali delle assicurazioni al Tribunale federale. L’UFAS e la Cassa svizzera di compensazione sono anche autorizzati a impugnare le decisioni del Tribunale amministrativo federale.[^201-2]
 
 <sup>2</sup> Le decisioni sono notificate alle autorità legittimate a ricorrere mediante invio raccomandato.
 
@@ -3616,7 +3789,7 @@ I gerenti delle casse di compensazione sono obbligati a denunciare all’istanza
 
 <sup>2</sup> Le persone che esercitano un’attività lucrativa indipendente, le persone che non esercitano un’attività lucrativa e i salariati i cui datori di lavoro non sono obbligati a pagare i contributi sono tenuti a fornire alle casse di compensazione informazioni conformi alla verità per quanto ciò sia necessario per l’applicazione dell’assicurazione per la vecchiaia e per i superstiti.
 
-<sup>3</sup> Le casse di compensazione, i datori di lavoro, tutte le altre persone e gli uffici incaricati dell’esecuzione della LAVS e del controllo della stessa, nonché gli assicurati, sono obbligati a fornire all’Ufficio federale tutte le informazioni, e a inviare allo stesso, in visione, tutti gli atti necessari per l’esercizio della vigilanza.[^209-2]
+<sup>3</sup> Le casse di compensazione, i datori di lavoro, tutte le altre persone e gli uffici incaricati dell’esecuzione della LAVS e del controllo della stessa, nonché gli assicurati, sono obbligati a fornire all’UFAS tutte le informazioni, e a inviare allo stesso, in visione, tutti gli atti necessari per l’esercizio della vigilanza.[^209-2]
 
 [^209-1]: Nuovo testo giusta l’art. 61 dell’O del 18 apr. 1984 sulla previdenza professionale per la vecchiaia, i superstiti e l’invalidità, in vigore dal 1° gen. 1985 ([RU 1984 543](https://fedlex.data.admin.ch/eli/oc/1984/543_543_543)).
 [^209-2]: Nuovo testo giusta l’art. 61 dell’O del 18 apr. 1984 sulla previdenza professionale per la vecchiaia, i superstiti e l’invalidità, in vigore dal 1° gen. 1985 ([RU 1984 543](https://fedlex.data.admin.ch/eli/oc/1984/543_543_543)).
@@ -3625,7 +3798,7 @@ I gerenti delle casse di compensazione sono obbligati a denunciare all’istanza
 
 **Vertenze concernenti la comunicazione di dati**[^209bis-1]
 
-L’Ufficio federale statuisce in materia di vertenze concernenti la comunicazione dei dati conformemente all’articolo 50*a* LAVS mediante decisione.
+L’UFAS statuisce in materia di vertenze concernenti la comunicazione dei dati conformemente all’articolo 50*a* LAVS mediante decisione.
 
 [^209bis-1]: Introdotto dal n. I dell’O del 21 gen. 1987 ([RU 1987 445](https://fedlex.data.admin.ch/eli/oc/1987/445_445_445)). Nuovo testo giusta il n. I dell’O del 22 nov. 2000, in vigore dal 1° gen. 2001([RU 2000 2905](https://fedlex.data.admin.ch/eli/oc/2000/506)).
 
@@ -3642,11 +3815,19 @@ L’Ufficio federale statuisce in materia di vertenze concernenti la comunicazio
 [^209ter-1]: Introdotto dal n. I dell’O del 22 nov. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2905](https://fedlex.data.admin.ch/eli/oc/2000/506)).
 [^209ter-2]: [RS 172.041.0](https://fedlex.data.admin.ch/eli/cc/1969/760_780_777)
 
+#### Art. 209<sup>quater</sup>
+
+**Spese di accesso al registro delle prestazioni in denaro correnti e al registro degli assicurati**[^209quater-1]
+
+Gli assicuratori contro gli infortuni e l’assicurazione militare secondo l’articolo 50*b* capoverso 1 lettere c e d LAVS versano all’UCC un emolumento che copre le spese effettive per l’accesso online al registro delle prestazioni in denaro correnti e al registro degli assicurati.
+
+[^209quater-1]: Introdotto dal n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
+
 #### Art. 210
 
 **Moduli**[^210-1]
 
-<sup>1</sup> L’Ufficio federale ordina l’uso di determinati moduli ufficiali e provvede alla loro edizione. Esso può prescrivere l’uso di altri moduli uniformi.
+<sup>1</sup> L’UFAS ordina l’uso di determinati moduli ufficiali e provvede alla loro edizione. Esso può prescrivere l’uso di altri moduli uniformi.
 
 <sup>2</sup> ...[^210-2]
 
@@ -3655,38 +3836,36 @@ L’Ufficio federale statuisce in materia di vertenze concernenti la comunicazio
 
 #### Art. 211
 
-**Affrancatura in blocco**[^211-1]
+**Tasse postali e tasse di pagamento**[^211-1]
 
-<sup>1</sup> L’affrancatura in blocco comprende le tasse ed i diritti per gli invii postali e versamenti interni delle casse di compensazione e dell’UCC. Essa può essere estesa anche ad altri organi, come pure agli invii postali e versamenti delle casse di compensazione concernenti i compiti che sono loro conferiti secondo l’articolo 63 capoverso 4 LAVS.
+<sup>1</sup> Le tasse e i diritti per gli invii postali e i versamenti interni, nonché all’estero in virtù di accordi bilaterali, derivanti dall’applicazione dell’assicurazione per la vecchiaia e per i superstiti presso le casse di compensazione e l’UCC sono finanziati dal Fondo di compensazione AVS.
 
-<sup>2</sup> L’ufficio federale, d’intesa con l’unità aziendale Postfinance della Posta Svizzera, prescrive i particolari d’applicazione.[^211-2]
+<sup>2</sup> L’assunzione delle tasse e dei diritti può essere estesa ai compiti delegati secondo l’articolo 63*a* LAVS, se questi sono svolti insieme con un invio secondo il capoverso 1. Le tasse e i diritti addebitati esclusivamente in relazione a questi compiti delegati devono essere finanziati direttamente a carico dei medesimi.
 
-<sup>3</sup> Gli abusi sono puniti, come l’elusione della tassa, in conformità dell’articolo 62 della legge federale del 2 ottobre 1924[^211-3] sul servizio delle poste.
+<sup>3</sup> L’UFAS, d’intesa con le unità aziendali interessate della Posta Svizzera, prescrive i particolari d’applicazione.
 
-[^211-1]: Nuovo testo giusta il n. I del DCF del 19 nov. 1965, in vigore dal 1° gen. 1966 ([RU 1965 1019](https://fedlex.data.admin.ch/eli/oc/1965/1021_1033_1019)).
-[^211-2]: Nuovo testo giusta il n. II 58 dell’O del 1° dic. 1997, in vigore dal 1° gen. 1998 ([RU 1997 2779](https://fedlex.data.admin.ch/eli/oc/1997/2779_2779_2779)).
-[^211-3]: [CS **7** 698; [RU 1949 851](https://fedlex.data.admin.ch/eli/oc/1949/827_849_851)art. 1, [1967 1527](https://fedlex.data.admin.ch/eli/oc/1967/1485_1533_1527)n. I, II, [1969 1139](https://fedlex.data.admin.ch/eli/oc/1969/1117_1137_1139)n. II, [1972 2500](https://fedlex.data.admin.ch/eli/oc/1972/2667_2720_2500), [1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857)all. n. 17, [1975 2027](https://fedlex.data.admin.ch/eli/oc/1975/2027_2027_2027), [1977 2117](https://fedlex.data.admin.ch/eli/oc/1977/2117_2117_2117), [1979 1170](https://fedlex.data.admin.ch/eli/oc/1979/1170_1170_1170)n. VI, [1986 1974](https://fedlex.data.admin.ch/eli/oc/1986/1974_1974_1974)art. 54 n. 4, [1993 901](https://fedlex.data.admin.ch/eli/oc/1993/901_901_901)all. n. 17 [3128](https://fedlex.data.admin.ch/eli/oc/1993/3128_3128_3128)art. 22, [1995 5489](https://fedlex.data.admin.ch/eli/oc/1995/5489_5489_5489). [RU 1997 2452](https://fedlex.data.admin.ch/eli/oc/1997/2452_2452_2452)app. n. 1]. Vedi ora la LF del 17 dic. 2010 sulle poste ([RS 783.0](https://fedlex.data.admin.ch/eli/cc/2012/585)).
+[^211-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 #### Art. 211<sup>bis</sup>
 
 **Impiego di mezzi del Fondo di compensazione AVS per l’informazione degli assicurati**[^211bis-1]
 
-<sup>1</sup> Il Fondo di compensazione dell’assicurazione per la vecchiaia e per i superstiti contribuisce finanziariamente alla realizzazione di campagne informative d’importanza nazionale. L’Ufficio federale provvede all’ideazione e al coordinamento di tali campagne. A tal fine, può farsi assistere da organizzazioni esterne.
+<sup>1</sup> Il Fondo di compensazione dell’assicurazione per la vecchiaia e per i superstiti contribuisce finanziariamente alla realizzazione di campagne informative d’importanza nazionale. L’UFAS provvede all’ideazione e al coordinamento di tali campagne. A tal fine, può farsi assistere da organizzazioni esterne.
 
 <sup>2</sup> L’ammontare dei contributi devoluti a favore delle campagne informative dipende dalla natura e dall’importanza del progetto in questione.
 
-<sup>3</sup> Il DFI approva l’importo da devolvere alle campagne informative. Il consiglio di amministrazione di compenswiss (Fondi di compensazione AVS/AI/IPG) è previamente consultato.[^211bis-2]
+<sup>3</sup> ...[^211bis-2]
 
 [^211bis-1]: Introdotto dal n. I dell’O del 16 set. 1996, in vigore dal 1° gen. 1997 ([RU 1996 2758](https://fedlex.data.admin.ch/eli/oc/1996/2758_2758_2758)).
-[^211bis-2]: Nuovo testo giusta il n. I dell’O del 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 5077](https://fedlex.data.admin.ch/eli/oc/2018/789)).
+[^211bis-2]: Abrogato dal n. I dell’O del 22 nov. 2023, con effetto dal 1° gen. 2024 ([RU 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 #### Art. 211<sup>ter</sup>
 
 **Esecuzione della procedura di conteggio semplificata**[^211ter-1]
 
-<sup>1</sup> Il Fondo di compensazione dell’assicurazione per la vecchiaia e per i superstiti accorda alle casse di compensazione contributi per le spese iniziali legate all’introduzione della procedura di conteggio semplificata secondo gli articoli 2 e 3 LLN[^211ter-2]. L’Ufficio federale provvede all’ideazione e al coordinamento.
+<sup>1</sup> Il Fondo di compensazione dell’assicurazione per la vecchiaia e per i superstiti accorda alle casse di compensazione contributi per le spese iniziali legate all’introduzione della procedura di conteggio semplificata secondo gli articoli 2 e 3 LLN[^211ter-2]. L’UFAS provvede all’ideazione e al coordinamento.
 
-<sup>2</sup> Il Fondo di compensazione dell’assicurazione per la vecchiaia e per i superstiti accorda alle casse di compensazione sussidi forfetari alle spese di amministrazione per l’esecuzione della procedura di conteggio semplificata secondo gli articoli 2 e 3 LLN. Per i datori di lavoro che applicano la procedura di conteggio semplificata, il sussidio forfetario copre le spese di amministrazione che, nonostante una gestione razionale, non possono essere finanziate dai contributi alle spese di amministrazione. L’Ufficio federale provvede all’ideazione e al coordinamento dei sussidi.
+<sup>2</sup> Il Fondo di compensazione dell’assicurazione per la vecchiaia e per i superstiti accorda alle casse di compensazione sussidi forfetari alle spese di amministrazione per l’esecuzione della procedura di conteggio semplificata secondo gli articoli 2 e 3 LLN. Per i datori di lavoro che applicano la procedura di conteggio semplificata, il sussidio forfetario copre le spese di amministrazione che, nonostante una gestione razionale, non possono essere finanziate dai contributi alle spese di amministrazione. L’UFAS provvede all’ideazione e al coordinamento dei sussidi.
 
 <sup>3</sup> In caso di aumento dei sussidi forfetari di cui al capoverso 2, l’importo da devolvere sottostà all’approvazione del DFI.[^211ter-3]
 
@@ -3700,27 +3879,43 @@ L’Ufficio federale statuisce in materia di vertenze concernenti la comunicazio
 
 <sup>1</sup> Il Fondo di compensazione dell’assicurazione per la vecchiaia e per i superstiti rimborsa alle casse di compensazione le spese di esecuzione anticipate conformemente all’articolo 68 LEF[^211quater-2] se il debitore non le paga ed è stato rilasciato un attestato di carenza di beni.
 
-<sup>2</sup> L’Ufficio federale delle assicurazioni sociali è incaricato dell’esecuzione e del controllo.
+<sup>2</sup> L’UFAS delle assicurazioni sociali è incaricato dell’esecuzione e del controllo.
 
 [^211quater-1]: Introdotto dal n. I dell’O del 30 set. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5183](https://fedlex.data.admin.ch/eli/oc/2009/608)).
 [^211quater-2]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+
+#### Art. 211<sup>quinquies</sup>
+
+**Assunzione delle spese per i sistemi d’informazione**[^211quinquies-1]
+
+<sup>1</sup>
+
+Le spese per sistemi d’informazione utilizzabili a livello nazionale sono assunte dal Fondo di compensazione AVS, se sono adempiute le seguenti condizioni:
+
+- a. i sistemi d’informazione comportano agevolazioni per gli organi esecutivi, gli assicurati o i datori di lavoro nello svolgimento dei compiti di cui all’articolo 63 LAVS;
+- b. i sistemi d’informazione servono allo scambio di informazioni tra più organi esecutivi;
+- c. i sistemi d’informazione possono essere sviluppati o gestiti dall’UCC in modo centralizzato ed economico.
+
+<sup>2</sup> L’UFAS verifica l’adempimento delle condizioni e decide, previa consultazione degli organi esecutivi, in merito all’assunzione delle spese da parte del Fondo di compensazione AVS.
+
+[^211quinquies-1]: Introdotto dal n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 #### Art. 212
 
 **Controllo periodico**[^212-1]
 
-<sup>1</sup> L’Ufficio federale esamina periodicamente le basi tecniche dell’assicurazione. Le direttive applicabili a tale scopo soggiacciono all’approvazione di una sottocommissione della Commissione federale dell’assicurazione per la vecchiaia, i superstiti e l’invalidità.[^212-2]
+<sup>1</sup> L’UFAS esamina periodicamente le basi tecniche dell’assicurazione. Le direttive applicabili a tale scopo soggiacciono all’approvazione di una sottocommissione della Commissione federale dell’assicurazione per la vecchiaia, i superstiti e l’invalidità.[^212-2]
 
-<sup>2</sup> Gli elementi di calcolo sono desunti, in primo luogo, dai dati statistici di cui dispone l’UCC; detti dati saranno elaborati per ordine e secondo le istruzioni dell’Ufficio federale. L’elaborazione può aver luogo secondo il metodo delle indagini saltuarie, eseguite su un quantitativo adeguato di materiale statistico.
+<sup>2</sup> Gli elementi di calcolo sono desunti, in primo luogo, dai dati statistici di cui dispone l’UCC; detti dati saranno elaborati per ordine e secondo le istruzioni dell’UFAS. L’elaborazione può aver luogo secondo il metodo delle indagini saltuarie, eseguite su un quantitativo adeguato di materiale statistico.
 
 [^212-1]: Nuovo testo giusta il n. I del DCF del 3 apr. 1964, in vigore dal 1° gen. 1964 ([RU 1964 324](https://fedlex.data.admin.ch/eli/oc/1964/332_324_324)).
 [^212-2]: Nuovo testo giusta il n. I del DCF del 10 gen. 1969, in vigore dal 1° gen. 1997 ([RU 1969 135](https://fedlex.data.admin.ch/eli/oc/1969/125_135_135)).
 
 #### Art. 212<sup>bis</sup>
 
-**Rapporto dell’Ufficio federale**[^212bis-1]
+**Rapporto dell’UFAS**[^212bis-1]
 
-L’Ufficio federale stenderà un rapporto su ogni anno di esercizio dell’assicurazione per la vecchiaia e per i superstiti. Questo rapporto sarà pubblicato dopo esser stato approvato dal Consiglio federale.
+L’UFAS un rapporto su ogni anno di esercizio dell’assicurazione per la vecchiaia e per i superstiti. Questo rapporto sarà pubblicato dopo esser stato approvato dal Consiglio federale.
 
 [^212bis-1]: Introdotto dal n. I del DCF del 20 apr. 1951, in vigore dal 1° gen. 1951 ([RU 1951 392](https://fedlex.data.admin.ch/eli/oc/1951/394_396_392)).
 
@@ -3764,7 +3959,7 @@ L’Ufficio federale stenderà un rapporto su ogni anno di esercizio dell’assi
 
 <sup>1</sup> I sussidi devono essere restituiti integralmente, quando le costruzioni per cui essi furono erogati sono alienate dallo scopo a cui erano destinate, o sono trasferite a un soggetto giuridico che non è di utilità pubblica, prima che siano trascorsi 25 anni dal pagamento finale[^221-2].
 
-<sup>2</sup> La restituzione deve essere richiesta dall’Ufficio federale entro cinque anni dall’alienazione.
+<sup>2</sup> La restituzione deve essere richiesta dall’UFAS entro cinque anni dall’alienazione.
 
 <sup>3</sup> Per l’importo da restituire, a favore della Confederazione, esiste un diritto legale di pegno senza iscrizione nel registro fondiario e posto[^221-3] dopo le ipoteche legali esistenti.
 
@@ -3791,15 +3986,15 @@ Hanno diritto agli aiuti finanziari secondo l’articolo 3 capoverso 1 della leg
 - b. organizzano corsi di perfezionamento per il personale ausiliario operante nell’ambito dell’aiuto alla vecchiaia;
 - c. organizzano corsi per anziani allo scopo di favorirne l’indipendenza ed agevolarne i contatti sociali.
 
-<sup>2</sup> L’Ufficio federale stipula con le organizzazioni ai sensi del capoverso 1 contratti di prestazioni della durata massima di quattro anni in cui sono definiti gli obiettivi da raggiungere e le prestazioni computabili.
+<sup>2</sup> L’UFAS stipula con le organizzazioni ai sensi del capoverso 1 contratti di prestazioni della durata massima di quattro anni in cui sono definiti gli obiettivi da raggiungere e le prestazioni computabili.
 
-<sup>3</sup> L’assicurazione partecipa agli aiuti finanziari versati dall’assicurazione per l’invalidità alle organizzazioni private d’aiuto agli invalidi secondo gli articoli 108–110 OAI[^222-4], se queste organizzazioni forniscono in misura rilevante prestazioni in favore delle persone che hanno subito un danno alla salute dopo aver raggiunto l’età di pensionamento. L’ammontare della partecipazione dell’assicurazione è stabilito in funzione delle prestazioni effettivamente fornite a questa categoria di persone.[^222-5]
+<sup>3</sup> L’assicurazione partecipa agli aiuti finanziari versati dall’assicurazione per l’invalidità alle organizzazioni private d’aiuto agli invalidi secondo gli articoli 108–110 OAI[^222-4], se queste organizzazioni forniscono in misura rilevante prestazioni in favore delle persone che hanno subito un danno alla salute dopo aver raggiunto l’età di riferimento secondo l’articolo 21 capoverso 1 LAVS. L’ammontare della partecipazione dell’assicurazione è stabilito in funzione delle prestazioni effettivamente fornite a questa categoria di persone.[^222-5]
 
 [^222-1]: Nuovo testo giusta il n. I 16 dell’O del 7 nov. 2007 sulla nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni, in vigore dal 1° gen. 2008 ([RU 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)). Vedi anche la disp. fin. di detta mod. alla fine del presente testo.
 [^222-2]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
 [^222-3]: Nuovo testo giusta l’all. n. 2 dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 [^222-4]: [RS 831.201](https://fedlex.data.admin.ch/eli/cc/1961/29_29_29)
-[^222-5]: Nuovo testo giusta l’all. n. 2 dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^222-5]: Nuovo testo giusta il n. I dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 223
 
@@ -3811,7 +4006,7 @@ Hanno diritto agli aiuti finanziari secondo l’articolo 3 capoverso 1 della leg
 
 <sup>3</sup> Gli aiuti finanziari per i compiti di cui all’articolo 101<sup>bis</sup> capoverso 1 lettere d LAVS sono versati in funzione del numero di prestazioni fornite. I requisiti per la formazione continua del personale ausiliario sono disciplinati nel contratto di prestazioni.
 
-<sup>4</sup> L’Ufficio federale stabilisce le basi di calcolo nei contratti di prestazioni e può subordinare il versamento degli aiuti finanziari a condizioni ed obblighi.
+<sup>4</sup> L’UFAS stabilisce le basi di calcolo nei contratti di prestazioni e può subordinare il versamento degli aiuti finanziari a condizioni ed obblighi.
 
 [^223-1]: Nuovo testo giusta l’all. n. 2 dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
@@ -3831,7 +4026,7 @@ Hanno diritto agli aiuti finanziari secondo l’articolo 3 capoverso 1 della leg
 
 <sup>1</sup> Il Consiglio federale fissa ogni quattro anni, tenendo conto del rincaro, l’importo massimo annuo per il versamento degli aiuti finanziari alle organizzazioni per l’assistenza alle persone anziane e la partecipazione finanziaria dell’assicurazione alle prestazioni dell’aiuto privato agli invalidi secondo l’articolo 222 capoverso 3.
 
-<sup>2</sup> L’Ufficio federale stabilisce le basi per la fissazione dell’importo massimo. Verifica l’appropriatezza, l’economicità e l’efficacia degli aiuti finanziari concessi e determina il bisogno.
+<sup>2</sup> L’UFAS stabilisce le basi per la fissazione dell’importo massimo. Verifica l’appropriatezza, l’economicità e l’efficacia degli aiuti finanziari concessi e determina il bisogno.
 
 <sup>3</sup> I mandati esterni conferiti per verificare l’appropriatezza, l’economicità e l’efficacia degli aiuti finanziari e per determinare il bisogno sono a carico dell’assicurazione. Sull’arco di quattro anni, i costi non possono superare lo 0,3 per cento del volume complessivo annuo degli aiuti finanziari versati.
 
@@ -3852,7 +4047,7 @@ Se i finanziamenti richiesti superano l’importo dei mezzi disponibili, questi 
 - e. ulteriori prestazioni destinate in particolare a persone vulnerabili;
 - f. altre prestazioni.
 
-<sup>2</sup> L’Ufficio federale disciplina i dettagli.
+<sup>2</sup> L’UFAS disciplina i dettagli.
 
 [^224ter-1]: Introdotto dall’all. n. 2 dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
@@ -3862,13 +4057,13 @@ Se i finanziamenti richiesti superano l’importo dei mezzi disponibili, questi 
 
 <sup>1</sup> Le organizzazioni che richiedono aiuti finanziari dovranno fornire indicazioni sull’organizzazione, sul programma di attività e sulla situazione finanziaria.
 
-<sup>2</sup> L’Ufficio federale stabilisce quali documenti devono essere presentati in vista della conclusione di un contratto di prestazioni.
+<sup>2</sup> L’UFAS stabilisce quali documenti devono essere presentati in vista della conclusione di un contratto di prestazioni.
 
 <sup>3</sup> Stabilisce quali documenti devono essere presentati dall’organizzazione, vigente il contratto, e fissa i termini. Prima della loro scadenza, questi termini possono essere prorogati dietro richiesta scritta debitamente motivata. L’inosservanza, senza motivo valido, dei termini ordinari o prorogati comporta una riduzione degli aiuti finanziari di un quinto per ritardi fino a un mese e di un altro quinto per ogni ulteriore mese di ritardo.
 
-<sup>4</sup> L’Ufficio federale esamina i documenti e stabilisce gli aiuti finanziari dovuti. Può essere concordato il versamento di acconti.
+<sup>4</sup> L’UFAS esamina i documenti e stabilisce gli aiuti finanziari dovuti. Può essere concordato il versamento di acconti.
 
-<sup>5</sup> L’organizzazione è tenuta ad informare in qualsiasi momento l’Ufficio federale circa l’impiego degli aiuti finanziari e a garantire agli organi di controllo l’accesso alla contabilità analitica.
+<sup>5</sup> L’organizzazione è tenuta ad informare in qualsiasi momento l’UFAS circa l’impiego degli aiuti finanziari e a garantire agli organi di controllo l’accesso alla contabilità analitica.
 
 [^225-1]: Nuovo testo giusta l’all. n. 2 dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
@@ -3886,7 +4081,7 @@ Se i finanziamenti richiesti superano l’importo dei mezzi disponibili, questi 
 
 <sup>2</sup> Gli articoli 22 a 26, 29, 67, 69, 83 a 127, 131, 133, 134, 174 a 177, 186, 187, 194 a 198, 205 a 217 e 219 capoverso 3 entrano in vigore il 1° novembre 1947.
 
-<sup>3</sup> Il DFI è incaricato di eseguire la presente ordinanza. Esso può emanare prescrizioni complementari o delegare tale competenza all’Ufficio federale.
+<sup>3</sup> Il DFI è incaricato di eseguire la presente ordinanza. Esso può emanare prescrizioni complementari o delegare tale competenza all’UFAS.
 
 [^226-1]: Originario art. 222.
 
@@ -3920,7 +4115,7 @@ c. Età flessibile per il godimento della rendita
 
 <sup>2</sup> All’atto della conversione delle rendite per coniugi beneficianti di un supplemento per il rinvio secondo il numero 1 lettera c capoverso 5 delle disposizioni transitorie della decima revisione dell’AVS, il supplemento è ripartito per metà tra le due nuove rendite. Dopo il decesso di uno dei coniugi il supplemento è aumentato di un terzo.
 
-<sup>3</sup> Per le donne nate tra il 1939 e il 1947, la percentuale dell’importo della riduzione in caso di anticipazione della rendita secondo l’articolo 56 capoverso 2 OAVS è del 3,4 per cento della rendita anticipata per anno di anticipazione.
+<sup>3</sup> Per le donne nate tra il 1939 e il 1947, la percentuale dell’importo della riduzione in caso di anticipazione della rendita secondo l’articolo 56bis capoverso 1 è del 3,4 per cento della rendita anticipata per anno di anticipazione.[^u3-3]
 
 d. Versamento della rendita da parte del datore di lavoro
 
@@ -3932,7 +4127,7 @@ d. Versamento della rendita da parte del datore di lavoro
 
 <sup>4</sup> I datori di lavoro che versano le rendite ai loro salariati sono autorizzati a trasmettere loro, con lo stesso versamento, senza spese di porto, altre prestazioni periodiche d’assicurazione o di previdenza versate da loro stessi o da un’istituzione d’assicurazione o di previdenza indipendente in rapporto con la loro impresa.
 
-<sup>5</sup> I datori di lavoro hanno il diritto di versare le rendite a un terzo o a un’autorità soltanto se la cassa di compensazione lo ha deciso.[^u3-3]
+<sup>5</sup> I datori di lavoro hanno il diritto di versare le rendite a un terzo o a un’autorità soltanto se la cassa di compensazione lo ha deciso.[^u3-4]
 
 <sup>6</sup> I datori di lavoro possono esigere dalla cassa di compensazione che essa metta mensilmente a loro disposizione, sotto forma di un anticipo senza interessi, i fondi necessari al versamento delle rendite e degli assegni per grandi invalidi.
 
@@ -3942,7 +4137,8 @@ d. Versamento della rendita da parte del datore di lavoro
 - b. se il vecchio reddito annuo medio determinante ammonta almeno all’importo minimo della rendita di vecchiaia moltiplicato per 72, il nuovo valore corrisponde all’importo minimo della rendita di vecchiaia moltiplicato per 48.
 
 [^u3-2]: Abrogata dal n. IV 42 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
-[^u3-3]: Nuovo testo giusta il n. I dell’O dell’11 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3710](https://fedlex.data.admin.ch/eli/oc/2002/570)).
+[^u3-3]: Nuovo testo giusta il n. I dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^u3-4]: Nuovo testo giusta il n. I dell’O dell’11 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3710](https://fedlex.data.admin.ch/eli/oc/2002/570)).
 
 ## Disposizioni finali della modifica del 16 settembre 1996
 

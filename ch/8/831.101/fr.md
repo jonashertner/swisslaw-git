@@ -4,11 +4,11 @@ title: "Règlement du 31 octobre 1947 sur l'assurance-vieillesse et survivants (
 short: RAVS
 eli: "https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185"
 language: fr
-version: 2023-09-01
+version: 2024-01-01
 adopted: 1947-10-31
 in_force: 1947-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/63/1185_1183_1185/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-63-1185_1183_1185-20230901-fr-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/63/1185_1183_1185/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/63/1185_1183_1185/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-63-1185_1183_1185-20240101-fr-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/63/1185_1183_1185/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/63/1185_1183_1185/20230901/fr"
 
 (RAVS)[^t-1]
 
-du 31 octobre 1947 (État le 1<sup>er</sup> septembre 2023)
+du 31 octobre 1947 (État le 1<sup>er</sup> janvier 2024)
 
 [^t-1]: Nouvelle teneur du titre selon le ch. I 1 de l’O du 11 oct. 1972, en vigueur depuis le 1<sup>er</sup> janv. 1973 ([RO 1972 2560](https://fedlex.data.admin.ch/eli/oc/1972/2507_2560_2338)). Selon la même disp., les tit. marginaux ont été remplacés par des tit. médians.
 
@@ -306,13 +306,21 @@ Sont exceptés du calcul des cotisations les revenus d’activité lucrative qu�
 
 #### Art. 6<sup>quater</sup>
 
-**Cotisations dues par les assurés actifs après l’âge de 64 ans ou de 65 ans**[^6quater-1]
+**Cotisations dues par les assurés actifs après avoir atteint l’âge de référence**[^6quater-1]
 
-<sup>1</sup> Les cotisations des personnes exerçant une activité dépendante ayant accompli leur 64<sup>e</sup> année pour les femmes et leur 65<sup>e</sup> année pour les hommes ne sont perçues auprès de chaque employeur que sur la part du gain qui excède 1400 francs par mois ou 16 800 francs par an.
+<sup>1</sup> À compter du mois qui suit celui où les salariés ont atteint l’âge de référence fixé à l’art. 21, al. 1, LAVS, les cotisations ne sont perçues que sur la part du salaire qui excède la franchise de 16 800 francs par an et par employeur. Lorsque l’activité n’est pas exercée durant toute l’année ou que l’âge de référence est atteint en cours d’année, la franchise est réduite proportionnellement.
 
-<sup>2</sup> Les cotisations des personnes ayant une activité indépendante qui ont accompli leur 64<sup>e</sup> année pour les femmes et leur 65<sup>e</sup> année pour les hommes ne sont perçues que sur la part du revenu qui excède 16 800 francs par an.
+<sup>2</sup> Si le salarié veut que les cotisations soient perçues sur l’intégralité du salaire, il le communique à chaque employeur séparément, au plus tard lors du paiement du premier salaire après qu’il a atteint l’âge de référence ou du premier salaire de toute année subséquente.
 
-[^6quater-1]: Anciennement art. 6<sup>ter</sup>. Introduit par le ch. I de l’O du 5 avr. 1978 ([RO 1978 420](https://fedlex.data.admin.ch/eli/oc/1978/420_420_420)). Nouvelle teneur selon le ch. I de l’O du 23 nov. 2005, en vigueur depuis le 1<sup>er</sup> janv. 2006 ([RO 2005 5631](https://fedlex.data.admin.ch/eli/oc/2005/767)).
+<sup>3</sup> Le choix relatif à la perception des cotisations est automatiquement reconduit l’année suivante si le salarié ne communique pas de modification au plus tard lors du paiement du premier salaire de l’année suivante.
+
+<sup>4</sup> À compter du mois qui suit celui où elles ont atteint l’âge de référence fixé à l’art. 21, al. 1, LAVS, les personnes exerçant une activité indépendante ne versent des cotisations que sur la part du revenu qui excède la franchise de 16 800 francs par an. Lorsque l’activité n’est pas exercée durant toute l’année ou que l’âge de référence est atteint en cours d’année, la franchise est réduite proportionnellement.
+
+<sup>5</sup> La personne exerçant une activité indépendante qui veut renoncer à la franchise le communique à la caisse de compensation compétente jusqu’au 31 décembre de l’année de cotisation.
+
+<sup>6</sup> Le choix relatif à la perception des cotisations est automatiquement reconduit l’année suivante si la personne exerçant une activité indépendante ne communique pas de modification à la caisse de compensation compétente dans le même délai.
+
+[^6quater-1]: Anciennement art. 6<sup>ter</sup>. Introduit par le ch. I de l’O du 5 avr. 1978 ([RO 1978 420](https://fedlex.data.admin.ch/eli/oc/1978/420_420_420)). Nouvelle teneur selon le ch. I de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 ### I. Les cotisations perçues sur le revenu provenant d’une activité dépendante
 
@@ -1316,15 +1324,20 @@ Le revenu provenant d’une activité lucrative inscrit au compte individuel en 
 
 <sup>2</sup> Pour déterminer les facteurs de revalorisation, on divise l’indice des rentes selon l’art. 33<sup>ter</sup>, al. 2, LAVS par la moyenne, pondérée par le facteur 1,1, des indices des salaires de toutes les années civiles inscrites depuis la première inscription dans le compte individuel de l’assuré jusqu’à l’année précédant la survenance du cas d’assurance.[^51bis-3]
 
+<sup>3</sup> L’art. 30, al. 1, LAVS n’est pas applicable à la somme des revenus de l’activité lucrative réalisés après l’âge de référence.[^51bis-4]
+
 [^51bis-1]: Introduit par le ch. I de l’O du 5 avr. 1978, en vigueur depuis le 1<sup>er</sup> janv. 1979 ([RO 1978 420](https://fedlex.data.admin.ch/eli/oc/1978/420_420_420)).
 [^51bis-2]: Nouvelle teneur selon le ch. I de l’O du 29 nov. 1995, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)).
 [^51bis-3]: Nouvelle teneur selon le ch. I de l’O du 17 sept. 1997, en vigueur depuis le 1<sup>er</sup> janv. 1998 ([RO 1997 2219](https://fedlex.data.admin.ch/eli/oc/1997/2219_2219_2219)).
+[^51bis-4]: Introduit par le ch. I de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 51<sup>ter</sup>
 
 **Adaptation des rentes à l’évolution des salaires et des prix**[^51ter-1]
 
-<sup>1</sup> L’OFAS informe la Commission fédérale de l’assurance-vieillesse, survivants et invalidité (ci-après: la Commission) de l’évolution de l’indice suisse des prix à la consommation de l’Office fédéral de la statistique ainsi que de l’indice des salaires du Secrétariat d’État à l’économie[^51ter-2]. La Commission présente au Conseil fédéral des propositions quant à la fixation de l’indice des rentes au 1<sup>er</sup> janvier suivant, si
+<sup>1</sup>
+
+L’OFAS informe la Commission fédérale de l’assurance-vieillesse, survivants et invalidité (Commission) de l’évolution de l’indice suisse des prix à la consommation ainsi que de l’indice des salaires de l’Office fédéral de la statistique. La Commission présente au Conseil fédéral des propositions quant à la fixation de l’indice des rentes au 1<sup>er</sup> janvier suivant, si:[^51ter-2]
 
 - a. l’indice suisse des prix à la consommation du mois de juin a augmenté de plus de 4 % par rapport aux douze mois précédents, ou
 - b. les rentes n’ont pas été augmentées au 1<sup>er</sup> janvier précédent.[^51ter-3]
@@ -1339,7 +1352,7 @@ La base (valeur de 100 points) de l’indice des rentes selon l’art. 33<sup>te
 <sup>2</sup> L’OFAS examine périodiquement la situation financière de l’assurance-vieillesse et survivants. Il soumet ses constatations à la Commission. Cette Commission propose au besoin une modification de la relation entre les deux indices mentionnés à l’art. 33<sup>ter</sup>, al. 2, LAVS, compte tenu de l’art. 212 RAVS.
 
 [^51ter-1]: Introduit par le ch. I de l’O du 5 avr. 1978, en vigueur depuis le 1<sup>er</sup> janv. 1979 ([RO 1978 420](https://fedlex.data.admin.ch/eli/oc/1978/420_420_420)).
-[^51ter-2]: Nouvelle dénomination selon l’ACF du 19 déc. 1997 (non publié). Il a été tenu compte de cette mod. dans tout le texte.
+[^51ter-2]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 [^51ter-3]: Nouvelle teneur selon le ch. I de l’O du 24 juin 1992, en vigueur depuis le 1<sup>er</sup> janv. 1992 ([RO 1992 1288](https://fedlex.data.admin.ch/eli/oc/1992/1288_1288_1288)).
 [^51ter-4]: Nouvelle teneur selon le ch. I de l’O du 24 sept. 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 4361](https://fedlex.data.admin.ch/eli/oc/2004/660)).
 [^51ter-5]: Introduit par l’art. 11 de l’O 82 du 24 juin 1981 sur les adaptations à l’évolution des prix et des salaires dans le régime de l’AVS et de l’AI, en vigueur depuis le 1<sup>er</sup> janv. 1982 ([RO 1981 1014](https://fedlex.data.admin.ch/eli/oc/1981/1014_1014_1014)).
@@ -1407,31 +1420,34 @@ Le montant de la rente adaptée à l’indice des rentes selon l’art. 33<sup>t
 <tr><td>97,73</td><td colspan="2">100,00</td><td>100,00</td><td>44</td></tr>
 </table>
 
-<sup>1bis</sup> L’OFAS édicte des tables relatives à l’échelonnement des rentes partielles en cas d’anticipation du droit à la rente.[^52-2]
+<sup>1bis</sup> L’OFAS édicte des prescriptions sur l’échelonnement des rentes partielles en cas d’anticipation du versement de la rente. Le rapport entre les années entières de cotisations de l’assuré au moment de l’anticipation de la rente et celles de sa classe d’âge à l’âge de référence est déterminant.[^52-2]
 
 <sup>2</sup> Une rente complète est attribuée lorsque le rapport entre les années entières de cotisations de l’assuré et celles de sa classe d’âge est d’au moins 97,73 %.
 
 <sup>3</sup> et <sup>4</sup> …[^52-3]
 
 [^52-1]: Abrogé par le ch. I de l’ACF du 10 mai 1957 ([RO 1957 407](https://fedlex.data.admin.ch/eli/oc/1957/406_407_422)). Nouvelle teneur selon le ch. I de l’O du 5 avr. 1978, en vigueur depuis le 1<sup>er</sup> janv. 1979 ([RO 1978 420](https://fedlex.data.admin.ch/eli/oc/1978/420_420_420)).
-[^52-2]: Introduit par le ch. I de l’O du 16 sept. 1998, en vigueur depuis le 1<sup>er</sup> janv. 1999 ([RO 1998 2579](https://fedlex.data.admin.ch/eli/oc/1998/2579_2579_2579)).
+[^52-2]: Introduit par le ch. I de l’O du 16 sept. 1998 ([RO 1998 2579](https://fedlex.data.admin.ch/eli/oc/1998/2579_2579_2579)). Nouvelle teneur selon le ch. I de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 [^52-3]: Abrogés par le ch. I de l’O du 18 oct. 2000, avec effet au 1<sup>er</sup> juin 2002 ([RO 2002 1351](https://fedlex.data.admin.ch/eli/oc/2002/201)).
 
 #### Art. 52a
 
-**Réalisation du cas d’assurance avant l’âge de 21 ans révolus**[^52a-1]
+**Période de cotisations de moins d’un an lors de la réalisation du cas d’assurance[^52a-2]**[^52a-1]
 
 Si une personne ne présente pas, entre le 1<sup>er</sup> janvier qui suit l’accomplissement de la 20<sup>e</sup> année et le 31 décembre précédant la réalisation du cas d’assurance, une durée de cotisations d’une année entière, la somme de tous les revenus provenant d’une activité lucrative sur lesquels des cotisations ont été versées dès l’âge de 17 ans révolus jusqu’à la naissance du droit à la rente, ainsi que la somme des bonifications pour tâches éducatives et pour tâches d’assistance sont divisées par l’ensemble des années et des mois durant lesquels la personne a versé des cotisations.
 
 [^52a-1]: Introduit par le ch. I de l’O du 29 nov. 1995, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)).
+[^52a-2]: Nouvelle teneur selon le ch. I de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 52b
 
 **Prise en compte des périodes de cotisations accomplies avant la 20<sup>e</sup> année de l’assuré**[^52b-1]
 
-Lorsque la durée de cotisations est incomplète au sens de l’art. 29<sup>ter</sup> LAVS, les périodes de cotisations accomplies avant le 1<sup>er</sup> janvier suivant l’accomplissement des 20 ans révolus seront prises en compte à titre subsidiaire aux fins de combler les lacunes de cotisations apparues depuis cette date.
+<sup>1</sup> Lorsque la durée de cotisations n’est pas réputée complète au sens des art. 29<sup>ter</sup> ou 40, al. 4, LAVS, les périodes de cotisations accomplies avant le 1<sup>er</sup> janvier qui suit la date à laquelle l’assuré atteint l’âge de 20 ans sont prises en compte pour combler les lacunes de cotisations apparues depuis cette date.
 
-[^52b-1]: Introduit par le ch. I de l’O du 29 nov. 1995, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)).
+<sup>2</sup> Au moment de l’anticipation du versement de la rente, les périodes de cotisation visées à l’al. 1 peuvent uniquement être prises en compte pour combler des lacunes de cotisations apparues avant l’anticipation.
+
+[^52b-1]: Introduit par le ch. I de l’O du 29 nov. 1995 ([RO 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)). Nouvelle teneur selon le ch. I de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 52c
 
@@ -1457,6 +1473,30 @@ Pour compenser les années de cotisations manquantes avant le 1<sup>er</sup> jan
 
 [^52d-1]: Introduit par le ch. I de l’O du 29 nov. 1995, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)).
 [^52d-2]: Nouvelle teneur selon le ch. I de l’O du 11 sept. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3710](https://fedlex.data.admin.ch/eli/oc/2002/570)).
+
+#### Art. 52d<sup>bis</sup>
+
+**Nouveau calcul de la rente**[^52dbis-1]
+
+Le nouveau calcul de la rente selon l’art. 29<sup>bis</sup>, al. 3 et 4, LAVS est établi une seule fois, sur demande. Seules peuvent être prises en compte les cotisations versées entre le moment où l’âge de référence a été atteint et le mois au cours duquel la demande a été déposée, mais pour une période de cinq années au plus après que l’âge de référence a été atteint.
+
+[^52dbis-1]: Introduit par le ch. I de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+
+#### Art. 52d<sup>ter</sup>
+
+**Début du droit à la rente recalculée**[^52dter-1]
+
+Le droit à la rente résultant du nouveau calcul selon l’art. 29<sup>bis</sup>, al. 3 et 4, LAVS naît le premier jour du mois qui suit le dépôt de la demande.
+
+[^52dter-1]: Introduit par le ch. I de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+
+#### Art. 52d<sup>quater</sup>
+
+**Revenus provenant d’une activité lucrative pris en compte pour le comblement des lacunes de cotisation**[^52dquater-1]
+
+Tous les revenus provenant d’une activité lucrative sont pris en compte pour déterminer si le seuil de 40 % fixé à l’art. 29<sup>bis</sup>, al. 4, let. a, LAVS est atteint, indépendamment du fait qu’ils aient été soumis à cotisation.
+
+[^52dquater-1]: Introduit par le ch. I de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 52e
 
@@ -1547,14 +1587,15 @@ Pour la détermination du montant des bonifications pour tâches d’assistance,
 
 #### Art. 53
 
-**Tables de rentes**[^53-1]
+**Prescriptions de calcul et tables de rentes[^53-2]**[^53-1]
 
-<sup>1</sup> L’OFAS établit des tables de rentes dont l’usage est obligatoire. L’échelonnement des rentes mensuelles, rapporté à la rente simple et complète de vieillesse, s’élève à 2,6 % au plus du montant minimum de celle-ci.[^53-2]
+<sup>1</sup> L’OFAS édicte des prescriptions de calcul des rentes et établit des tables de rentes dont l’usage est obligatoire. L’échelonnement des rentes mensuelles, rapporté à la rente simple et complète de vieillesse, s’élève à 2,6 % au plus du montant minimum de celle-ci.[^53-3]
 
 <sup>2</sup> Les rentes mensuelles seront arrondies au franc supérieur lorsque le montant considéré comprend une fraction égale ou supérieure à 50 centimes et au franc inférieur lorsque cette fraction n’atteint pas 50 centimes.
 
 [^53-1]: Nouvelle teneur selon le ch. I de l’O du 5 avr. 1978, en vigueur depuis le 1<sup>er</sup> janv. 1979 ([RO 1978 420](https://fedlex.data.admin.ch/eli/oc/1978/420_420_420)).
-[^53-2]: Nouvelle teneur selon le ch. I de l’O du 31 août 1992, en vigueur depuis le 1<sup>er</sup> janv. 1993 ([RO 1992 1830](https://fedlex.data.admin.ch/eli/oc/1992/1830_1830_1830)).
+[^53-2]: Nouvelle teneur selon le ch. I de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^53-3]: Nouvelle teneur selon le ch. I de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 53<sup>bis</sup>
 
@@ -1563,6 +1604,16 @@ Pour la détermination du montant des bonifications pour tâches d’assistance,
 Si l’un des deux conjoints ne présente pas une durée de cotisations complète, le montant maximum des deux rentes correspond alors à un pourcentage du montant maximum en cas de rente complète (art. 35, al. 1, LAVS). Ce montant est déterminé en additionnant le pourcentage correspondant à l’échelle de rentes la plus basse et le double du pourcentage correspondant à l’échelle de rentes la plus élevée (art. 52). Ce total doit être divisé par trois.
 
 [^53bis-1]: Nouvelle teneur selon le ch. I de l’O du 29 nov. 1995, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)).
+
+#### Art. 53<sup>ter</sup>
+
+**Somme des rentes des conjoints percevant des pourcentages de rente**[^53ter-1]
+
+<sup>1</sup> En cas de perception anticipée d’un pourcentage de la rente de vieillesse, le montant maximal des deux rentes calculées conformément à l’art. 53<sup>bis</sup> est multiplié par le pourcentage de rente le plus élevé. Cette règle s’applique par analogie lorsqu’un conjoint anticipe la perception d’un pourcentage de la rente de vieillesse et que l’autre perçoit une rente d’invalidité.
+
+<sup>2</sup> En cas d’ajournement d’un pourcentage de la rente de vieillesse, la rente de vieillesse entière est déterminante.
+
+[^53ter-1]: Introduit par le ch. I de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 54
 
@@ -1594,7 +1645,7 @@ Lorsque la personne décédée a accompli l’âge indiqué ci-dessous, l’augm
 
 <sup>1</sup> …[^54bis-2]
 
-<sup>2</sup> Elles ne sont pas réduites lorsque, ajoutées à la rente du père ou de la mère, elles ne dépassent pas la somme de 150 % du montant minimum de la rente de vieillesse auquel s’ajoutent les montants minimums de trois rentes pour enfants ou d’orphelins. Ce montant est augmenté, à partir du quatrième enfant, et pour chacun des suivants, du montant maximum de la rente mensuelle de vieillesse (art. 34, al. 3, LAVS).
+<sup>2</sup> Les rentes pour enfants et les rentes d’orphelins ne sont pas réduites lorsque, ajoutées à la rente du père ou de la mère, elles ne dépassent pas la somme de 150 % du montant minimum de la rente de vieillesse auquel s’ajoutent les montants minimums de trois rentes pour enfants ou rentes d’orphelins. Ce montant est augmenté, à partir du quatrième enfant, et pour chacun des suivants, du montant maximum de la rente mensuelle de vieillesse (art. 34, al. 3, LAVS).[^54bis-3]
 
 <sup>3</sup> La réduction est répartie entre chacune des rentes pour enfants et des rentes d’orphelins.
 
@@ -1602,6 +1653,7 @@ Lorsque la personne décédée a accompli l’âge indiqué ci-dessous, l’augm
 
 [^54bis-1]: Introduit par le ch. I de l’O du 29 nov. 1995, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)).
 [^54bis-2]: Abrogé par le ch. II 2 de l’O du 28 sept. 2007, avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
+[^54bis-3]: Nouvelle teneur selon le ch. I de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 ### C. Rentes extraordinaires
 
@@ -1617,11 +1669,11 @@ La réduction des rentes extraordinaires pour enfants et des rentes extraordinai
 
 [^55-1]: Nouvelle teneur selon le ch. I de l’O du 29 nov. 1995, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)).
 
-### D. L’âge flexible de la retraite
+### D. La flexibilisation de la retraite
 
 [^chap3-lvlD-1]
 
-[^chap3-lvlD-1]: Introduit par le ch. I de l’O du 29 nov. 1995, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)).
+[^chap3-lvlD-1]: Introduit par le ch. I de l’O du 29 nov. 1995 ([RO 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)). Nouvelle teneur selon le ch. I de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 ### I. L’ajournement de la rente
 
@@ -1636,25 +1688,27 @@ La réduction des rentes extraordinaires pour enfants et des rentes extraordinai
 Sont exclues de l’ajournement prévu à l’art. 39 LAVS:
 
 - a.[^55bis-2] …
-- b.[^55bis-3] les rentes de vieillesse succédant à une rente d’invalidité;
+- b.[^55bis-3] les rentes de vieillesse entières succédant à une rente d’invalidité entière;
+- b<sup>bis</sup>.[^55bis-4] le pourcentage de la rente de vieillesse correspondant à la quotité de la rente d’invalidité à laquelle succède ladite rente de vieillesse;
 - c. les rentes de vieillesse assorties d’une allocation pour impotent;
-- [tab] d. à f.[^55bis-4] …
-- g. les rentes de vieillesse des assurés facultatifs qui, jusqu’à la limite d’âge prévue à l’art. 21, al. 1 et 2, LAVS, ont bénéficié d’une allocation de secours conformément à l’art. 92 LAVS ou à l’art. 76 LAI[^55bis-5].
+- [tab] d. à f.[^55bis-5] …
+- g. les rentes de vieillesse des assurés facultatifs qui, jusqu’à la limite d’âge prévue à l’art. 21, al. 1 et 2, LAVS, ont bénéficié d’une allocation de secours conformément à l’art. 92 LAVS ou à l’art. 76 LAI[^55bis-6].
 
 [^55bis-1]: Introduit par le ch. I de l’ACF du 10 janv. 1969, en vigueur depuis le 1<sup>er</sup> janv. 1969 ([RO 1969 135](https://fedlex.data.admin.ch/eli/oc/1969/125_135_135)).
 [^55bis-2]: Abrogée par le ch. I de l’O du 29 juin 1983, avec effet au 1<sup>er</sup> janv. 1993 ([RO 1983 903](https://fedlex.data.admin.ch/eli/oc/1983/903_903_903)).
-[^55bis-3]: Nouvelle teneur selon le ch. I de l’O du 29 nov. 1995, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)).
-[^55bis-4]: Abrogées par le ch. I de l’O du 29 nov. 1995, avec effet au 1<sup>er</sup> janv. 1997 ([RO 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)).
-[^55bis-5]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845). Abréviation introduite par le ch. I de l’O du 5 avr. 1978, en vigueur depuis le 1<sup>er</sup> janv. 1979 ([RO 1978 420](https://fedlex.data.admin.ch/eli/oc/1978/420_420_420)).
+[^55bis-3]: Nouvelle teneur selon le ch. I de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^55bis-4]: Introduite par le ch. I de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^55bis-5]: Abrogées par le ch. I de l’O du 29 nov. 1995, avec effet au 1<sup>er</sup> janv. 1997 ([RO 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)).
+[^55bis-6]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845). Abréviation introduite par le ch. I de l’O du 5 avr. 1978, en vigueur depuis le 1<sup>er</sup> janv. 1979 ([RO 1978 420](https://fedlex.data.admin.ch/eli/oc/1978/420_420_420)).
 
 #### Art. 55<sup>ter</sup>
 
-**Taux d’augmentation en cas d’ajournement**[^55ter-1]
+**Augmentation de la rente en cas d’ajournement**[^55ter-1]
 
-<sup>1</sup> En cas d’ajournement, le taux d’augmentation de la rente, en pour-cent, est le suivant:
+<sup>1</sup> En cas d’ajournement, les taux d’augmentation de la rente de vieillesse, en pour-cent, sont les suivants:
 
 <table>
-<tr><td>Années</td><td>et 0 à 2 mois</td><td>et 3 à 5 mois</td><td>et 6 à 8 mois</td><td>et 9 à 11 mois</td></tr>
+<tr><th>Durée d’ajournement Années</th><th>et 0 à 2 mois</th><th>et 3 à 5 mois</th><th>et 6 à 8 mois</th><th>et 9 à 11 mois</th></tr>
 <tr><td>1</td><td>5,2</td><td>6,6</td><td>8,0</td><td>9,4</td></tr>
 <tr><td>2</td><td>10,8</td><td>12,3</td><td>13,9</td><td>15,5</td></tr>
 <tr><td>3</td><td>17,1</td><td>18,8</td><td>20,5</td><td>22,2</td></tr>
@@ -1662,26 +1716,21 @@ Sont exclues de l’ajournement prévu à l’art. 39 LAVS:
 <tr><td>5</td><td>31,5</td><td></td><td></td><td></td></tr>
 </table>
 
-<sup>2</sup> Le montant de l’augmentation sera déterminé en divisant la somme des montants des rentes ajournées par le nombre de mois correspondants. Cette somme est multipliée par le taux d’augmentation correspondant en vertu de l’al. 1.
+<sup>2</sup> Le montant de l’augmentation est déterminé en divisant la somme des rentes ajournées par le nombre de mois correspondant, puis en multipliant le résultat obtenu par le taux d’augmentation correspondant fixé à l’al. 1.
 
-<sup>3</sup>
+<sup>3</sup> En cas de réduction du pourcentage de rente ajourné, le taux d’augmentation du pourcentage de rente dont l’ajournement a été révoqué est redéfini. Le montant de l’augmentation de la rente ainsi calculé est versé avec le pourcentage de la rente de vieillesse non ajourné.
 
-Lorsque des rentes de survivants succèdent à une rente de vieillesse ajournée, le montant de l’augmentation s’élève:
+<sup>4</sup> Si des rentes pour enfant ou des rentes complémentaires sont accordées en plus de la rente de vieillesse, la somme de tous les montants de l’augmentation ne doit pas dépasser le montant de l’augmentation de la rente de vieillesse.
 
-- a. pour les rentes de veuves et de veufs, à 80 % du montant de l’augmentation versé jusque-là;
-- b. pour les rentes d’orphelins, à 40 % du montant de l’augmentation versé jusque-là.
+<sup>5</sup> Le montant de l’augmentation est adapté à l’évolution des salaires et des prix.
 
-<sup>4</sup> La somme de toutes les augmentations ne doit pas dépasser le montant de l’augmentation de la rente de vieillesse.
-
-<sup>5</sup> Le montant de l’augmentation sera adapté à l’évolution des salaires et des prix.
-
-[^55ter-1]: Introduit par le ch. I de l’ACF du 10 janv. 1969 ([RO 1969 135](https://fedlex.data.admin.ch/eli/oc/1969/125_135_135)). Nouvelle teneur selon le ch. I de l’O du 29 nov. 1995, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)).
+[^55ter-1]: Introduit par le ch. I de l’ACF du 10 janv. 1969 ([RO 1969 135](https://fedlex.data.admin.ch/eli/oc/1969/125_135_135)). Nouvelle teneur selon le ch. I de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 55<sup>quater</sup>
 
 **Déclaration d’ajournement et révocation**[^55quater-1]
 
-<sup>1</sup> La période d’ajournement commence le premier jour du mois qui suit celui où l’âge de la retraite selon l’art. 21, al. 1, LAVS a été atteint. La déclaration d’ajournement doit être présentée au moyen de la formule officielle dans un délai d’un an à compter du début de la période d’ajournement. Si aucune déclaration d’ajournement n’intervient durant ce délai, la rente de vieillesse doit être fixée et versée selon les prescriptions générales en vigueur.[^55quater-2]
+<sup>1</sup> La période d’ajournement commence le premier jour du mois qui suit celui au cours duquel l’âge de référence fixé à l’art. 21, al. 1, LAVS est atteint. La déclaration d’ajournement doit être présentée au moyen de la formule officielle dans un délai d’un an à compter du début de la période d’ajournement. Si aucune déclaration d’ajournement n’intervient durant ce délai, la rente de vieillesse doit être fixée et versée selon les prescriptions générales en vigueur.[^55quater-2]
 
 <sup>2</sup> La révocation doit se faire au moyen de la formule officielle.[^55quater-3]
 
@@ -1689,13 +1738,13 @@ Lorsque des rentes de survivants succèdent à une rente de vieillesse ajournée
 
 <sup>4</sup> Le décès de l’ayant droit à la rente de vieillesse entraîne la révocation de l’ajournement.[^55quater-4]
 
-<sup>5</sup> …[^55quater-5]
+<sup>5</sup> Une réduction du pourcentage de la rente ajourné doit être demandée au moyen de la formule officielle. Le changement peut avoir lieu au plus tôt le mois qui suit celui du dépôt de la demande.[^55quater-5]
 
 [^55quater-1]: Introduit par le ch. I de l’ACF du 10 janv. 1969, en vigueur depuis le 1<sup>er</sup> janv. 1969 ([RO 1969 135](https://fedlex.data.admin.ch/eli/oc/1969/125_135_135)).
-[^55quater-2]: Nouvelle teneur selon le ch. I de l’O du 12 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 603](https://fedlex.data.admin.ch/eli/oc/2022/603)).
+[^55quater-2]: Nouvelle teneur selon le ch. I de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 [^55quater-3]: Nouvelle teneur selon le ch. I de l’O du 12 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 603](https://fedlex.data.admin.ch/eli/oc/2022/603)).
 [^55quater-4]: Nouvelle teneur selon le ch. I de l’O du 29 nov. 1995, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)).
-[^55quater-5]: Abrogé par le ch. I de l’O du 29 nov. 1995, avec effet au 1<sup>er</sup> janv. 1997 ([RO 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)).
+[^55quater-5]: Nouvelle teneur selon le ch. I de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 ### II. L’anticipation de la rente
 
@@ -1705,32 +1754,60 @@ Lorsque des rentes de survivants succèdent à une rente de vieillesse ajournée
 
 #### Art. 56
 
-**Montant de la réduction**[^56-1]
+**Anticipation du versement de la rente de vieillesse**[^56-1]
 
-<sup>1</sup> La rente est réduite de la contre-valeur de la rente anticipée.
+<sup>1</sup> Le calcul de la rente anticipée se fonde sur la durée effective de cotisations déterminée en application de l’art. 52, al. 1<sup>bis</sup>, et sur les revenus réalisés jusqu’au 31 décembre précédant le début du versement anticipé de la rente.
 
-<sup>2</sup> Jusqu’à l’âge de la retraite, ce montant correspond à 6,8 % par année d’anticipation de la rente anticipée.
+<sup>2</sup> En cas d’augmentation du pourcentage de rente pendant la période d’anticipation, les mêmes bases de calcul qu’au début de la période de versement anticipé sont appliquées.
 
-<sup>3</sup> Après l’accomplissement de l’âge de la retraite, ce montant correspond à 6,8 % par année d’anticipation de la somme des rentes non réduites, divisée par le nombre de mois pendant lesquels la rente a déjà été anticipée.
+<sup>3</sup> Une augmentation du pourcentage de la rente anticipé doit être demandée au moyen de la formule officielle. Le changement peut avoir lieu au plus tôt le mois qui suit celui du dépôt de la demande.
+
+<sup>4</sup> Lorsque l’assuré atteint l’âge de référence, le montant de la rente est déterminé conformément aux dispositions générales relatives au calcul de la rente de l’art. 29<sup>bis</sup> LAVS. Le facteur de revalorisation calculé conformément à l’art. 51<sup>bis</sup>, al. 2, au moment où l’assuré atteint l’âge de référence est déterminant.
+
+[^56-1]: Nouvelle teneur selon le ch. I de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+
+#### Art. 56<sup>bis</sup>
+
+**Réduction en cas d’anticipation de la rente**[^56bis-1]
+
+<sup>1</sup> En cas d’anticipation, les taux de réduction de la rente de vieillesse, en pour-cent, sont les suivants:
+
+<table>
+<tr><th>Durée d’anticipation en années</th><th colspan="12">et en mois</th></tr>
+<tr><th></th><th>0</th><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th><th>7</th><th>8</th><th>9</th><th>10</th><th>11</th></tr>
+<tr><td>0</td><td>–</td><td>0,6</td><td>1,1</td><td>1,7</td><td>2,3</td><td>2,8</td><td>3,4</td><td>4,0</td><td>4,5</td><td>5,1</td><td>5,7</td><td>6,2</td></tr>
+<tr><td>1</td><td>6,8</td><td>7,4</td><td>7,9</td><td>8,5</td><td>9,1</td><td>9,6</td><td>10,2</td><td>10,8</td><td>11,3</td><td>11,9</td><td>12,5</td><td>13,0</td></tr>
+<tr><td>2</td><td>13,6</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+</table>
+
+<sup>2</sup> En cas d’augmentation du pourcentage de rente anticipé, le taux de réduction du pourcentage dont la rente anticipée a été augmenté est redéfini.
+
+<sup>3</sup> Le montant définitif de la réduction est déterminé au moment où l’assuré atteint l’âge de référence fixé à l’art. 21, al. 1, LAVS. La somme des rentes anticipées non réduites, est divisée par le nombre de mois durant lesquels la rente ou le pourcentage de la rente ont été versés, puis le résultat est multiplié par le taux de réduction applicable à la durée d’anticipation correspondante. Les réductions établies pour chaque pourcentage de rente constituent ensemble le montant de la réduction appliqué à la rente à partir de l’âge de référence.
 
 <sup>4</sup> Le montant de la réduction est adapté à l’évolution des salaires et des prix.
 
-[^56-1]: Nouvelle teneur selon le ch. I de l’O du 29 nov. 1995, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)). Voir aussi la let. c, al. 3 des disp. fin. de cette mod. à la fin du texte.
+[^56bis-1]: Introduit par le ch. I de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+
+#### Art. 56<sup>ter</sup>
+
+**Renonciation et révocation de l’anticipation de la rente de vieillesse en cas de droit à une rente d’invalidité**[^56ter-1]
+
+<sup>1</sup> Si l’assuré qui perçoit une partie de sa rente de vieillesse de manière anticipée s’annonce auprès de l’assurance-invalidité durant la phase d’anticipation et qu’une rente d’invalidité au sens de l’art. 29 LAI[^56ter-2] lui est octroyée, il peut renoncer à l’anticipation de la rente de vieillesse. La renonciation prend effet dès la naissance du droit à la rente d’invalidité.
+
+<sup>2</sup> L’assuré doit restituer la rente de vieillesse anticipée perçue entre la naissance du droit à la rente d’invalidité et la renonciation à l’anticipation. Le montant à restituer peut être déduit de la rente d’invalidité versée rétroactivement.
+
+<sup>3</sup> L’assuré peut révoquer l’anticipation de sa rente de vieillesse si la perception anticipée d’une partie ou de la totalité de celle-ci débute entre le moment où l’assuré s’annonce auprès de l’assurance-invalidité et celui où la rente d’invalidité lui est octroyée. La révocation prend effet dès le début de l’anticipation.
+
+<sup>4</sup> En cas de révocation, l’assuré doit restituer la rente de vieillesse perçue de manière anticipée. Le montant à restituer peut être déduit de la rente d’invalidité versée rétroactivement.
+
+[^56ter-1]: Introduit par le ch. I de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^56ter-2]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
 
 #### Art. 57
 
-**Réduction des rentes de survivants**[^57-1]
+[^57-1]
 
-<sup>1</sup>
-
-Lorsqu’une rente de survivants succède à une rente de vieillesse anticipée, la rente n’est réduite que d’un pourcentage du montant de la réduction déterminé en vertu de l’art. 56. Ce pourcentage s’élève:
-
-- a. à 80 % pour les rentes de veuves et de veufs;
-- b. à 40 % pour les rentes d’orphelins.
-
-<sup>2</sup> La somme des réductions des rentes de veuves, de veufs ou d’orphelins ne doit pas dépasser le montant de la réduction de l’art. 56. Lorsque le droit à la rente se modifie, le montant de la réduction doit être adapté.
-
-[^57-1]: Nouvelle teneur selon le ch. I de l’O du 29 nov. 1995, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)).
+[^57-1]: Abrogé par le ch. I de l’O du 30 août 2023, avec effet au 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 ### E. Calcul anticipé de la rente
 
@@ -1767,13 +1844,14 @@ Le calcul anticipé est effectué par la caisse de compensation qui est compéte
 
 **Bases de calcul**[^60-1]
 
-<sup>1</sup> Le calcul anticipé est en principe effectué selon les art. 50 à 57. Pour le calcul des rentes de survivant, est déterminante la date du dépôt de la demande. Pour le calcul d’une rente de vieillesse, est déterminant l’âge réglementaire de la retraite ou la date qui entre en ligne de compte pour une rente anticipée.
+<sup>1</sup> Le calcul anticipé est effectué en se fondant sur les art. 50 à 56<sup>ter</sup>. Pour le calcul des rentes de survivant, la date du dépôt de la demande est déterminante. Pour le calcul d’une rente de vieillesse, la date à laquelle l’assuré atteint l’âge de référence fixé à l’art. 21, al. 1, LAVS ou celle de l’anticipation de la rente est déterminante.[^60-2]
 
 <sup>2</sup> La caisse de compensation peut baser le calcul sur les indications figurant sur la demande.
 
 <sup>3</sup> La caisse de compensation se procure d’office les extraits des comptes individuels.
 
 [^60-1]: Nouvelle teneur selon le ch. I de l’O du 18 sept. 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2629](https://fedlex.data.admin.ch/eli/oc/2000/423)).
+[^60-2]: Nouvelle teneur selon le ch. I de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 61 à 66
 
@@ -1847,14 +1925,17 @@ Le calcul anticipé est effectué par la caisse de compensation qui est compéte
 
 <sup>1ter</sup> L’exercice du droit aux allocations pour impotents et aux moyens auxiliaires est régi par l’art. 66 RAI[^67-4].[^67-5]
 
-<sup>2</sup> Les caisses de compensation cantonales feront au moins une fois par année des publications pour attirer l’attention des assurés sur les prestations de l’assurance et leurs conditions, ainsi que sur l’exercice du droit aux prestations.[^67-6]
+<sup>1quater</sup> Si l’ayant droit à la rente de vieillesse décède, ses survivants peuvent déposer une demande de nouveau calcul au sens de l’art. 29<sup>bis</sup>, al. 3 et 4, LAVS.[^67-6]
+
+<sup>2</sup> Les caisses de compensation cantonales feront au moins une fois par année des publications pour attirer l’attention des assurés sur les prestations de l’assurance et leurs conditions, ainsi que sur l’exercice du droit aux prestations.[^67-7]
 
 [^67-1]: Nouvelle teneur de la phrase selon le ch. I de l’O du 11 sept. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3710](https://fedlex.data.admin.ch/eli/oc/2002/570)).
 [^67-2]: Nouvelle teneur selon l’art. 143 de l’O du 20 déc. 1982 sur l’assurance-accidents, en vigueur depuis le 1<sup>er</sup> janv. 1984 ([RO 1983 38](https://fedlex.data.admin.ch/eli/oc/1983/38_38_38)).
 [^67-3]: Introduit par le ch. I de l’O du 29 nov. 1995, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)).
 [^67-4]: [RS 831.201](https://fedlex.data.admin.ch/eli/cc/1961/29_29_29)
 [^67-5]: Anciennement al. 1<sup>bis</sup>. Introduit par le ch. I de l’O du 29 juin 1983, en vigueur depuis le 1<sup>er</sup> janv. 1984 ([RO 1983 903](https://fedlex.data.admin.ch/eli/oc/1983/903_903_903)).
-[^67-6]: Nouvelle teneur selon le ch. I de l’ACF du 19 nov. 1965, en vigueur depuis le 1<sup>er</sup> janv. 1966 ([RO 1965 1033](https://fedlex.data.admin.ch/eli/oc/1965/1021_1033_1019)).
+[^67-6]: Introduit par le ch. I de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^67-7]: Nouvelle teneur selon le ch. I de l’ACF du 19 nov. 1965, en vigueur depuis le 1<sup>er</sup> janv. 1966 ([RO 1965 1033](https://fedlex.data.admin.ch/eli/oc/1965/1021_1033_1019)).
 
 ### II. Fixation des rentes
 
@@ -1936,11 +2017,11 @@ La décision concernant l’allocation pour impotent est notifiée aux destinata
 
 #### Art. 70
 
-**Communication des données concernant les rentes et registre des rentes**[^70-1]
+**Communication des données concernant les rentes et le registre des prestations courantes en espèces**[^70-1]
 
-Les caisses de compensation communiquent de façon appropriée, à la CdC, les données nécessaires à la tenue du registre central des rentes. En outre, on tiendra un registre dans lequel sera portée chaque modification, pour toutes les rentes et allocations pour impotents servies par un employeur effectuant le règlement des comptes avec elle.
+Les caisses de compensation communiquent de façon appropriée, à la CdC, les données nécessaires à la tenue du registre des prestations courantes en espèces. En outre, il sera tenu un registre dans lequel sera portée chaque modification touchant les rentes et les allocations pour impotents servies par la caisse de compensation ou par un employeur effectuant le règlement des comptes avec elle.
 
-[^70-1]: Nouvelle teneur selon l’art. 61 de l’O du 18 avr. 1984 sur la prévoyance professionnelle vieillesse, survivants et invalidité, en vigueur depuis le 1<sup>er</sup> janv. 1985 ([RO 1984 543](https://fedlex.data.admin.ch/eli/oc/1984/543_543_543)).
+[^70-1]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 #### Art. 70<sup>bis</sup>
 
@@ -1964,8 +2045,11 @@ Les caisses de compensation communiquent de façon appropriée, à la CdC, les d
 
 <sup>2</sup> Si un ayant droit à la rente doit simultanément, en tant que personne soumise à l’obligation de payer des cotisations, régler les comptes avec la caisse de compensation, les rentes et les allocations pour impotents peuvent être compensées par les cotisations dues.
 
+<sup>3</sup> Les versements directs visés à l’art. 44, al. 1, LAVS se font au moyen de bulletins de paiement avec numéro de référence de la Poste Suisse.[^71-3]
+
 [^71-1]: Nouvelle teneur selon le ch. I de l’ACF du 10 janv. 1969, en vigueur depuis le 1<sup>er</sup> janv. 1969 ([RO 1969 135](https://fedlex.data.admin.ch/eli/oc/1969/125_135_135)).
 [^71-2]: Abrogé par le ch. I de l’O du 29 nov. 1995, avec effet au 1<sup>er</sup> janv. 1997 ([RO 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)).
+[^71-3]: Introduit par le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 #### Art. 71<sup>bis</sup>
 
@@ -2144,42 +2228,13 @@ Les associations qui veulent créer une caisse de compensation doivent apporter 
 
 Une association dont la décision de créer une caisse de compensation est attaquée en justice peut être autorisée à créer provisoirement une caisse de compensation. L’autorisation est caduque si la décision est annulée judiciairement et si, dans les six mois qui suivent le jugement passé en force, il n’est pas pris une nouvelle décision portant création d’une caisse de compensation.
 
-### II. Caisses de compensation professionnelles paritaires
+### II. …
 
-#### Art. 88
+#### Art. 88 à 91
 
-**Définition des associations de salariés**
+[^8891-1]
 
-<sup>1</sup> Sont considérées comme associations de salariés au sens de l’art. 54 LAVS, les associations qui revêtent la forme légale d’une association conformément aux art. 60 ss du code civil suisse[^88-1] ou d’une société coopérative conformément aux art. 828 ss du code des obligations[^88-2].
-
-<sup>2</sup> Les organisations centrales d’associations suisses autonomes de salariés ne peuvent pas exiger la participation paritaire à l’administration de la caisse.
-
-[^88-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^88-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-
-#### Art. 89
-
-**Participation des groupements minoritaires**
-
-Lorsqu’une caisse de compensation paritaire est créée, les associations de salariés auxquelles sont affiliés au total 10 % au moins des salariés englobés par la caisse de compensation doivent avoir la faculté, sur demande écrite, de participer à l’administration de la caisse, si elles approuvent le règlement de la caisse et acceptent les obligations en résultant pour elles.
-
-#### Art. 90
-
-**Conditions de la participation paritaire**
-
-<sup>1</sup> La preuve que les conditions prévues à l’art. 54, al. 1, LAVS et à l’art. 89 du présent règlement sont remplies doit être apportée à l’OFAS par les associations de salariés intéressées. Les associations d’employeurs intéressées sont tenues de mettre les pièces nécessaires à cet effet à la disposition des associations de salariés ou de l’OFAS.
-
-<sup>2</sup> Si les associations d’employeurs et de salariés intéressées se mettent d’accord sur la création d’une caisse de compensation paritaire, il peut être renoncé, avec l’assentiment des associations d’employeurs, à la preuve que les conditions requises sont remplies.
-
-<sup>3</sup> Si les associations d’employeurs intéressées contestent l’exactitude des pièces produites par les associations de salariés, le DFI décide si les conditions de la participation paritaire à l’administration de la caisse sont remplies ou non.
-
-#### Art. 91
-
-**Frais d’administration**
-
-<sup>1</sup> Si les associations intéressées d’employeurs et de salariés ne parviennent pas à s’entendre au sujet de la couverture des frais d’administration d’une caisse de compensation paritaire, les associations de salariés doivent prendre à leur charge la moitié des frais d’administration.
-
-<sup>2</sup> La part des associations de salariés aux frais d’administration ne doit pas être perçue par la caisse de compensation auprès des salariés individuellement.
+[^8891-1]: Abrogés par le ch. I de l’O du 22 nov. 2023, avec effet au 1<sup>er</sup> janv. 2024 ([RO 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 ### III. Sûretés
 
@@ -2265,11 +2320,12 @@ La demande de création d’une caisse de compensation professionnelle doit êtr
 
 <sup>4</sup> L’état des associations fondatrices d’une caisse de compensation peut être modifié en tout temps avec l’approbation de l’OFAS, à condition que les changements ne touchent en rien les membres affiliés jusqu’ici à la caisse de compensation.
 
-<sup>5</sup> La transformation d’une caisse de compensation non paritaire en une caisse de compensation paritaire ou vice versa, ainsi que la participation d’autres associations de salariés à l’administration d’une caisse de compensation ou le retrait d’associations de salariés de l’administration d’une caisse de compensation ne sont autorisés qu’à l’échéance des périodes de trois ou cinq ans prévues à l’al. 1.
+<sup>5</sup> La participation d’autres associations de salariés à l’administration d’une caisse de compensation ou le retrait d’associations de salariés de l’administration d’une caisse de compensation ne sont autorisés qu’à l’échéance des périodes de trois ou cinq ans prévues à l’al. 1.[^99-2]
 
 <sup>6</sup> L’OFAS fixe les délais dans lesquels les mesures nécessaires doivent être prises pour la création de nouvelles caisses de compensation ainsi que pour la fusion ou la transformation de caisses de compensation existantes.
 
 [^99-1]: Nouvelle teneur selon le ch. I de l’O du 5 avr. 1978, en vigueur depuis le 1<sup>er</sup> janv. 1979 ([RO 1978 420](https://fedlex.data.admin.ch/eli/oc/1978/420_420_420)).
+[^99-2]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 ### V. Règlement de la caisse
 
@@ -2288,15 +2344,9 @@ Le règlement de la caisse doit être remis[^100-2] à l’OFAS qui est compéte
 
 <sup>1</sup> Le règlement de la caisse doit contenir des dispositions sur le droit de vote des membres du comité de direction et des suppléants éventuels, ainsi que sur la capacité de prendre des décisions et des modalités des décisions.
 
-<sup>2</sup>
+<sup>2</sup> …[^101-1]
 
-Le règlement des caisses de compensation paritaire doit contenir, outre les dispositions énumérées à l’art. 57, al. 2, LAVS, ainsi qu’à l’al. 1 du présent article, des dispositions concernant:
-
-- a. la participation aux frais d’administration, ainsi qu’à l’obligation de compléter le montant des sûretés conformément à l’art. 97; …[^101-1]
-- b. le choix du président et du vice-président du comité de direction de la caisse et la durée de leurs charges;
-- c. la répartition d’un actif et la couverture d’un déficit éventuels résultant des frais d’administration, en cas de liquidation.
-
-[^101-1]: Mots biffés par le ch. I de l’O du 29 juin 1983, avec effet au 1<sup>er</sup> janv. 1993 ([RO 1983 903](https://fedlex.data.admin.ch/eli/oc/1983/903_903_903)).
+[^101-1]: Abrogé par le ch. I de l’O du 22 nov. 2023, avec effet au 1<sup>er</sup> janv. 2024 ([RO 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 ### VI. Comité de direction de la caisse
 
@@ -2306,9 +2356,11 @@ Le règlement des caisses de compensation paritaire doit contenir, outre les dis
 
 <sup>1</sup> Le comité de direction de la caisse se constitue lui-même.
 
-<sup>2</sup> Un membre du comité de direction de la caisse ne peut être révoqué que par l’association qui l’a élu.
+<sup>2</sup> Un membre du comité de direction de la caisse ne peut être révoqué que par l’association qui l’a élu. L’art. 72*b*, let. f et g, LAVS est réservé.[^102-1]
 
 <sup>3</sup> Le gérant de la caisse ne peut être membre du comité de direction.
+
+[^102-1]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 #### Art. 103
 
@@ -2332,26 +2384,31 @@ Le règlement des caisses de compensation paritaire doit contenir, outre les dis
 
 **Représentation des associations de salariés**
 
-<sup>1</sup> Le droit d’être représentées au sein du comité de direction n’appartient qu’aux associations de salariés qui remplissent les conditions prévues à l’art. 88.
+<sup>1</sup> Seules ont le droit d’être représentées au sein du comité de direction les associations de salariés revêtant la forme légale d’une association au sens des art. 60 ss du code civil[^105-1] suisse ou d’une société coopérative au sens des art. 828 ss CO[^105-2] auxquelles sont affiliés au total 10 % au moins des salariés englobés par la caisse de compensation.[^105-3]
 
 <sup>2</sup> Les associations de salariés doivent disposer au total de deux sièges au moins.
 
-<sup>3</sup> Les dispositions de l’art. 90, al. 1, sont applicables à la preuve à apporter pour déterminer l’effectif des salariés et l’affiliation de ces salariés à l’association.
+<sup>3</sup> Il incombe aux associations de salariés intéressées d’apporter à l’OFAS la preuve que les conditions prévues à l’al. 1 sont remplies. Les associations d’employeurs intéressées sont tenues de mettre les pièces nécessaires à cet effet à la disposition des associations de salariés et de l’OFAS.[^105-4]
 
-<sup>4</sup> Les différends relatifs au droit des associations de salariés d’être représentées sont tranchés par le Tribunal arbitral selon l’art. 54, al. 3, LAVS; les dispositions de la loi fédérale du 20 décembre 1968 sur la procédure administrative[^105-1] sont applicables en l’espèce.[^105-2]
+<sup>4</sup> …[^105-5]
 
-[^105-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
-[^105-2]: Nouvelle teneur selon le ch. I de l’O du 7 déc. 1981, en vigueur depuis le 1<sup>er</sup> janv. 1982 ([RO 1981 2042](https://fedlex.data.admin.ch/eli/oc/1981/2042_2042_2042)).
+[^105-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^105-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^105-3]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
+[^105-4]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
+[^105-5]: Abrogé par le ch. I de l’O du 22 nov. 2023, avec effet au 1<sup>er</sup> janv. 2024 ([RO 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 ### VII. Gérant de la caisse
 
 #### Art. 106
 
-<sup>1</sup> Le gérant de la caisse de compensation doit être ressortissant suisse. Il ne doit pas se trouver dans un rapport de dépendance envers un employeur, une personne exerçant une activité lucrative indépendante ou une personne n’exerçant aucune activité lucrative affiliés à la caisse et doit s’occuper de la gestion de la caisse à titre d’activité principale; si les circonstances le justifient, l’OFAS peut autoriser des exceptions à la règle.
+<sup>1</sup> …[^106-1]
 
 <sup>2</sup> Le pouvoir de représentation du gérant de la caisse doit être fixé par le règlement de la caisse. Ce règlement ne peut toutefois exclure ni la compétence du gérant de prendre dans des cas d’espèces des décisions rentrant dans le cadre des tâches de la caisse, ni les rapports directs entre le gérant de la caisse et les autorités fédérales ou entre le gérant et les employeurs et assurés affiliés à la caisse.
 
 <sup>3</sup> Le gérant doit être lié à la caisse de compensation par un contrat de travail. Il est interdit de remettre la gérance d’une caisse de compensation à une personne morale ou à une collectivité.
+
+[^106-1]: Abrogé par le ch. I de l’O du 22 nov. 2023, avec effet au 1<sup>er</sup> janv. 2024 ([RO 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 ### VIII. Dissolution de la caisse de compensation
 
@@ -2366,19 +2423,39 @@ Le règlement des caisses de compensation paritaire doit contenir, outre les dis
 [^107-1]: Nouvelle teneur selon le ch. I de l’O du 5 avr. 1978, en vigueur depuis le 1<sup>er</sup> janv. 1979 ([RO 1978 420](https://fedlex.data.admin.ch/eli/oc/1978/420_420_420)).
 [^107-2]: Nouvelle teneur selon le ch. I de l’O du 29 nov. 1995, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)).
 
+#### Art. 107a
+
+**Réserves de liquidation**[^107a-1]
+
+<sup>1</sup> Le montant des réserves qui permettent de couvrir les coûts résultant d’une dissolution (réserves de liquidation) est calculé sur la base du nombre de rentes et de comptes individuels gérés par la caisse de compensation.
+
+<sup>2</sup> L’OFAS détermine la méthode de calcul.
+
+[^107a-1]: Introduit par le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
+
 ### C. Les caisses de compensation cantonales
 
 #### Art. 108
 
-[^108-1]
+**Structure de l’établissement d’assurances sociales**[^108-1]
 
-[^108-1]: Abrogé par le ch. II de l’O du 15 juin 1992, avec effet au 1<sup>er</sup> juil. 1992 ([RO 1992 1251](https://fedlex.data.admin.ch/eli/oc/1992/1251_1251_1251)).
+Si la caisse de compensation et l’office AI font partie d’un établissement cantonal d’assurances sociales visé à l’art. 61, al. 1<sup>bis</sup>, LAVS, ils doivent être organisés en tant qu’unités organisationnelles distinctes en son sein.
+
+[^108-1]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 #### Art. 109
 
 **Représentation envers les tiers**
 
 La caisse cantonale de compensation est représentée envers les tiers par le gérant. Celui-ci entretient des rapports directs tant avec les autorités fédérales qu’avec les employeurs et assurés affiliés à la caisse.
+
+#### Art. 109a
+
+**Commission de gestion**[^109a-1]
+
+Les représentants du gouvernement cantonal ou de l’administration cantonale ne doivent pas constituer la majorité des membres de la commission de gestion de l’établissement cantonal d’assurances sociales.
+
+[^109a-1]: Introduit par le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 ### D. Les caisses de compensation de la Confédération
 
@@ -2448,23 +2525,14 @@ Sont affiliés à la Caisse de compensation fédérale l’administration fédé
 
 **Obligations des agences**
 
-<sup>1</sup> D’autres tâches peuvent être confiées aux agences communales.
+<sup>1</sup> Si les cantons créent des agences de caisses de compensation cantonales, ils en fixent les tâches dans le décret cantonal visé à l’art. 61, al. 1, LAVS.[^116-1]
 
-Les agences communales des caisses de compensation cantonales doivent dans tous les cas assumer les obligations suivantes:
-
-- a. donner des renseignements;
-- b. recevoir et transmettre la correspondance;
-- c. délivrer les formules et les prescriptions en la matière;
-- d. collaborer au règlement des comptes;
-- e. collaborer à la réunion des pièces nécessaires pour fixer les rentes extraordinaires[^116-1];
-- f. collaborer à la détermination des conditions de revenu et de fortune des personnes exerçant une activité lucrative indépendante et des personnes n’exerçant aucune activité lucrative;
-- g. collaborer à l’affiliation de toutes les personnes tenues de payer des cotisations.
-
-<sup>2</sup> Les agences des caisses de compensation professionnelles doivent se charger dans tous les cas des obligations énumérées à l’al. 1, let. a à d. Le règlement de la caisse peut leur confier d’autres tâches.
+<sup>2</sup> Si les caisses de compensation professionnelles créent des agences, elles en fixent les tâches dans le règlement de la caisse.[^116-2]
 
 <sup>3</sup> Si la compétence de prendre des décisions pour une caisse est accordée à une agence, la caisse de compensation peut demander la remise d’une copie de cette décision qu’elle peut vérifier et, le cas échéant, rectifier.
 
-[^116-1]: Nouvelle dénomination selon le ch. II de l’ACF du 5 fév. 1960, en vigueur depuis le 1<sup>er</sup> janv. 1960 ([RO 1960 247](https://fedlex.data.admin.ch/eli/oc/1960/235_247_242)).
+[^116-1]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
+[^116-2]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 ### F. L’affiliation aux caisses
 
@@ -2598,13 +2666,21 @@ La caisse cantonale de compensation du canton du domicile de la personne qui re�
 
 [^125ter-1]: Introduit par le ch. I de l’O du 29 nov. 1995, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)).
 
-### III. Dispositions communes
+#### Art. 125<sup>quater</sup>
+
+**Prestations de l’AVS succédant à des prestations de l’AI**[^125quater-1]
+
+Si un bénéficiaire de prestations de l’assurance-invalidité anticipe la perception de sa rente de vieillesse en vertu de l’art. 40, al. 1, LAVS ou atteint l’âge de référence fixé à l’art. 21, al. 1, LAVS, la caisse de compensation compétente pour fixer les prestations de l’assurance-vieillesse et survivants et notifier les décisions est celle qui était déjà compétente pour verser les prestations de l’assurance-invalidité.
+
+[^125quater-1]: Introduit par le ch. I de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+
+### III. …
 
 #### Art. 126
 
-**Dispositions particulières**
+[^126-1]
 
-Si l’affiliation globale d’un groupe professionnel du travail à domicile à une caisse de compensation permet une simplification administrative notable et une meilleure application de l’assurance, le DFI peut obliger une caisse de compensation à percevoir les cotisations et à servir les rentes pour tous les membres de ce groupe professionnel.
+[^126-1]: Abrogé par le ch. I de l’O du 22 nov. 2023, avec effet au 1<sup>er</sup> janv. 2024 ([RO 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 #### Art. 127
 
@@ -2632,37 +2708,41 @@ Si l’affiliation globale d’un groupe professionnel du travail à domicile à
 
 #### Art. 130
 
-**Conditions pour la remise d’autres tâches**[^130-1]
+**Conditions pour la délégation d’autres tâches[^130-2]**[^130-1]
 
 <sup>1</sup>
 
-Les cantons et les associations fondatrices peuvent confier aux caisses de compensation:
+Les cantons et les associations fondatrices peuvent déléguer aux caisses de compensation:[^130-3]
 
 - a. des tâches qui ressortissent aux assurances sociales;
 - b. des tâches qui servent la prévoyance sociale et professionnelle;
 - c. des tâches qui servent la formation et le perfectionnement professionnels, ou
-- d. d’autres tâches sans but lucratif qui profitent aux cantons ou aux associations fondatrices.[^130-2]
+- d. d’autres tâches sans but lucratif qui profitent aux cantons ou aux associations fondatrices.[^130-4]
 
-<sup>2</sup> Ces tâches ne peuvent être confiées aux caisses que si elles ne nuisent pas à l’application régulière de l’assurance-vieillesse et survivants.
+<sup>2</sup> Si les cantons délèguent des tâches aux caisses de compensation, elles règlent expressément dans le décret cantonal afférent les modalités de la révision et de l’établissement du rapport de gestion.[^130-5]
 
 [^130-1]: Nouvelle teneur selon le ch. I 1 de l’O du 11 oct. 1972, en vigueur depuis le 1<sup>er</sup> janv. 1973 ([RO 1972 2560](https://fedlex.data.admin.ch/eli/oc/1972/2507_2560_2338)).
-[^130-2]: Nouvelle teneur selon le ch. I de l’O du 30 sept. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 5183](https://fedlex.data.admin.ch/eli/oc/2009/608)).
+[^130-2]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
+[^130-3]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
+[^130-4]: Nouvelle teneur selon le ch. I de l’O du 30 sept. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 5183](https://fedlex.data.admin.ch/eli/oc/2009/608)).
+[^130-5]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 #### Art. 131
 
-**Procédure de la remise d’autres tâches**[^131-1]
+**Procédure de la délégation d’autres tâches[^131-2]**[^131-1]
 
-<sup>1</sup> Les cantons et les associations fondatrices qui veulent confier d’autres tâches encore à leur caisse de compensation présentent une requête écrite à l’OFAS en indiquant ces nouvelles tâches et les mesures d’organisation prévues.[^131-2]
+<sup>1</sup> Les cantons et les associations fondatrices qui veulent confier d’autres tâches encore à leur caisse de compensation présentent une requête écrite à l’OFAS en indiquant ces nouvelles tâches et les mesures d’organisation prévues.[^131-3]
 
-<sup>1bis</sup> Les cantons qui veulent confier d’autres tâches à toutes les caisses de compensation actives sur leur territoire présentent à l’OFAS une requête écrite unique en ce sens, en indiquant les nouvelles tâches et les mesures d’organisation prévues.[^131-3]
+<sup>1bis</sup> Les cantons qui veulent confier d’autres tâches à toutes les caisses de compensation actives sur leur territoire présentent à l’OFAS une requête écrite unique en ce sens, en indiquant les nouvelles tâches et les mesures d’organisation prévues.[^131-4]
 
 <sup>2</sup> L’OFAS se prononce sur ces requêtes. Il peut subordonner à certaines conditions l’autorisation de confier d’autres tâches aux caisses de compensation.
 
 <sup>3</sup> L’OFAS peut retirer son autorisation s’il se révèle que l’accomplissement de ces tâches supplémentaires nuit à l’application régulière de l’assurance-vieillesse et survivants.
 
 [^131-1]: Nouvelle teneur selon le ch. I de l’ACF du 19 nov. 1965, en vigueur depuis le 1<sup>er</sup> janv. 1966 ([RO 1965 1033](https://fedlex.data.admin.ch/eli/oc/1965/1021_1033_1019)).
-[^131-2]: Nouvelle teneur selon le ch. I de l’O du 15 oct. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 3331](https://fedlex.data.admin.ch/eli/oc/2014/575)).
-[^131-3]: Introduit par le ch. I de l’O du 15 oct. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 3331](https://fedlex.data.admin.ch/eli/oc/2014/575)).
+[^131-2]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
+[^131-3]: Nouvelle teneur selon le ch. I de l’O du 15 oct. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 3331](https://fedlex.data.admin.ch/eli/oc/2014/575)).
+[^131-4]: Introduit par le ch. I de l’O du 15 oct. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 3331](https://fedlex.data.admin.ch/eli/oc/2014/575)).
 
 #### Art. 132
 
@@ -2670,21 +2750,23 @@ Les cantons et les associations fondatrices peuvent confier aux caisses de compe
 
 <sup>1</sup> Les caisses de compensation sont dédommagées pour les tâches qui leur sont confiées. Les contributions aux frais d’administration et les subsides prélevés sur le fonds de compensation de l’assurance-vieillesse et survivants prévus en vertu de l’art. 69 LAVS ne peuvent pas être utilisés pour couvrir les frais d’administration découlant de ces tâches.[^132-1]
 
-<sup>2</sup> Les révisions des caisses conformément à l’art. 68, al. 1, LAVS doivent aussi porter sur les opérations concernant les tâches supplémentaires confiées aux caisses, si une telle mesure est nécessaire à la révision de la caisse du point de vue de l’application de l’assurance-vieillesse et survivants. Si l’exécution de ces tâches a été confiée en partie à un employeur, le contrôle des employeurs conformément à l’art. 68, al. 2, LAVS portera également sur cette exécution.
+<sup>2</sup> Les révisions des caisses au sens de l’art. 68*a* LAVS doivent aussi porter sur les opérations concernant les tâches supplémentaires qui leur sont déléguées, si une telle mesure est nécessaire à la révision du point de vue de l’application de l’assurance-vieillesse et survivants. Si l’exécution de ces tâches a été déléguée en partie à un employeur, le contrôle des employeurs prévu à l’art. 68*b* LAVS portera également sur cette exécution.[^132-2]
 
 [^132-1]: Nouvelle teneur selon le ch. I de l’O du 30 sept. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 5183](https://fedlex.data.admin.ch/eli/oc/2009/608)).
+[^132-2]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 #### Art. 132<sup>bis</sup>
 
 **Exécution par des tiers de tâches incombant aux caisses de compensation**[^132bis-1]
 
-<sup>1</sup> L’autorisation de faire exécuter certains travaux des caisses de compensation par des tiers, prévue à l’art. 63, al. 5, LAVS, est donnée par l’OFAS.
+<sup>1</sup> L’approbation de l’exécution de certaines tâches des caisses de compensation par des tiers, prévue à l’art. 63*b*, al. 1, LAVS, est délivrée par l’OFAS.[^132bis-2]
 
 <sup>2</sup> La requête doit être présentée par le canton ou par l’association fondatrice. Elle doit décrire avec précision les tâches à exécuter, les mesures à prendre en vue du maintien du secret et de la conservation des dossiers, et énoncer les principes d’après lesquels est fixée la rémunération pour l’exécution des tâches.
 
 <sup>3</sup> L’OFAS peut retirer son autorisation lorsque l’exécution de tâches par des tiers entrave ou compromet l’application régulière de l’assurance-vieillesse et survivants.
 
 [^132bis-1]: Introduit par le ch. I de l’O du 5 avr. 1978, en vigueur depuis le 1<sup>er</sup> janv. 1979 ([RO 1978 420](https://fedlex.data.admin.ch/eli/oc/1978/420_420_420)).
+[^132bis-2]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 #### Art. 132<sup>ter</sup>
 
@@ -2696,6 +2778,66 @@ Les cantons et les associations fondatrices peuvent confier aux caisses de compe
 
 [^132ter-1]: Introduit par le ch. I de l’O du 7 juil. 1982, en vigueur depuis le 1<sup>er</sup> janv. 1983 ([RO 1982 1279](https://fedlex.data.admin.ch/eli/oc/1982/1279_1279_1279)).
 [^132ter-2]: [RS 172.041.0](https://fedlex.data.admin.ch/eli/cc/1969/760_780_777)
+
+#### Art. 132<sup>quater</sup>
+
+**Système de gestion des risques**[^132quater-1]
+
+<sup>1</sup> Le gérant de la caisse documente systématiquement dans une liste les risques et leur évaluation ainsi que les décisions relatives à la manière d’y répondre.
+
+<sup>2</sup> Le comité de direction de la caisse ou la commission de gestion de l’établissement approuve annuellement la liste des risques et ordonne des mesures au besoin.
+
+[^132quater-1]: Introduit par le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
+
+#### Art. 132<sup>quinquies</sup>
+
+**Système de gestion de la qualité**[^132quinquies-1]
+
+<sup>1</sup> Le gérant de la caisse fixe par écrit l’organisation de la gestion de la qualité, ainsi que les objectifs en la matière.
+
+<sup>2</sup> Le comité de direction de la caisse ou la commission de gestion de l’établissement approuve annuellement l’état de la mise en œuvre de la gestion de la qualité et ordonne des mesures au besoin.
+
+[^132quinquies-1]: Introduit par le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
+
+#### Art. 132<sup>sexies</sup>
+
+**Système de contrôle interne**[^132sexies-1]
+
+<sup>1</sup> Le gérant de la caisse fixe par écrit l’organisation du système de contrôle interne. Ce dernier doit englober toutes les tâches des caisses.
+
+<sup>2</sup> L’exécution des contrôles est documentée.
+
+<sup>3</sup> Le comité de direction de la caisse ou la commission de gestion de l’établissement approuve annuellement le système de contrôle interne et ordonne des mesures au besoin.
+
+[^132sexies-1]: Introduit par le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
+
+#### Art. 132<sup>septies</sup>
+
+**Garantie d’une activité irréprochable**[^132septies-1]
+
+<sup>1</sup> L’organe de nomination compétent édicte les prescriptions relatives à la garantie d’une activité irréprochable de la part des personnes visées à l’art. 66*a* LAVS.
+
+<sup>2</sup>
+
+Il tient notamment compte des éléments suivants:
+
+- a. inscriptions au casier judiciaire;
+- b. actes de défaut de biens;
+- c. renseignements fournis par les employeurs précédents cités en référence.
+
+<sup>3</sup> L’organe de nomination compétent vérifie régulièrement, mais au moins tous les cinq ans, le respect des prescriptions visées à l’al. 1.
+
+[^132septies-1]: Introduit par le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
+
+#### Art. 132<sup>octies</sup>
+
+**Liens d’intérêts**[^132octies-1]
+
+<sup>1</sup> Les liens d’intérêts des personnes visées à l’art. 66*a* LAVS doivent être recensés par l’organe de nomination compétent, documentés auprès de la caisse de compensation et soumis à un contrôle annuel.
+
+<sup>2</sup> La caisse de compensation peut publier les liens d’intérêts.
+
+[^132octies-1]: Introduit par le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 ### H. Numéro AVS
 
@@ -2877,9 +3019,9 @@ Le numéro AVS peut être saisi automatiquement dans une banque de données lors
 
 **Compte individuel**[^137-1]
 
-Chaque caisse de compensation tient, sous le numéro AVS, un compte individuel des revenus d’activités lucratives pour lesquels les cotisations lui ont été versées jusqu’à l’ouverture du droit à une rente de vieillesse.
+Chaque caisse de compensation tient, sous le numéro AVS, un compte individuel des revenus provenant d’activités lucratives pour lesquels les cotisations lui ont été versées.
 
-[^137-1]: Abrogé par le ch. I de l’ACF du 19 nov. 1965 ([RO 1965 1033](https://fedlex.data.admin.ch/eli/oc/1965/1021_1033_1019)). Nouvelle teneur selon le ch. I de l’O du 7 nov. 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2007 5271](https://fedlex.data.admin.ch/eli/oc/2007/748)).
+[^137-1]: Nouvelle teneur selon le ch. I de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 138
 
@@ -3023,6 +3165,34 @@ Le système d’information dans le domaine de l’assujettissement à l’assur
 
 <sup>2</sup> Les caisses de compensation et l’organisme de liaison sont autorisés à traiter les données dans le cadre de leurs tâches légales. Les employeurs et les assurés sont autorisés à saisir et à consulter les données.
 
+### H<sup>quater</sup>. Système d’information pour la transmission des demandes
+
+[^chap4-lvlHquater-1]
+
+[^chap4-lvlHquater-1]: Introduit par le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
+
+#### Art. 141<sup>sexie</sup><sup>s</sup>
+
+<sup>1</sup> Le système d’information visé à l’art. 71, al. 4<sup>bis</sup>, LAVS permet à la personne requérante de remplir par voie électronique les formulaires destinées à faire valoir le droit aux prestations conformément à l’art. 29, al. 2, LPGA.
+
+<sup>2</sup> La CdC transmet automatiquement les demandes aux organes d’exécution compétents sous une forme structurée et lisible par machine.
+
+<sup>3</sup> Le système d’information contient toutes les données qui sont nécessaires pour faire valoir le droit aux prestations et qui ont été saisies par la personne requérante elle-même.
+
+### H<sup>quinquies</sup>. Obligation de signaler les atteintes aux systèmes d’information
+
+[^chap4-lvlHquinquies-1]
+
+[^chap4-lvlHquinquies-1]: Introduit par le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
+
+#### Art. 141<sup>septies</sup>
+
+<sup>1</sup> Les organes d’exécution signalent immédiatement à l’OFAS toute atteinte ou altération importante du fonctionnement des systèmes, en particulier due à un cyberincident, et lui font rapport sur les mesures prises pour y remédier.
+
+<sup>2</sup> Les signalements visés à l’al. 1 ne remplacent pas les signalements de violations de la sécurité des données au Préposé fédéral à la protection des données et à la transparence prévues par la loi du 25 septembre 2020 sur la protection des données[^141septies-1] ou aux autorités cantonales de protection des données conformément aux lois cantonales sur la protection des données.
+
+[^141septies-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+
 ### J. Le règlement des paiements et des comptes
 
 ### I. Règlement des paiements et des comptes avec les caisses de compensation
@@ -3033,12 +3203,13 @@ Le système d’information dans le domaine de l’assujettissement à l’assur
 
 <sup>1</sup> L’obligation du règlement des paiements et des comptes porte sur toutes les cotisations dues par celui qui est astreint à leur paiement tant en qualité d’assuré que d’employeur; elle s’étend aux contributions aux frais d’administration. Les cotisations doivent, en règle générale, être compensées avec les rentes auxquelles la personne tenue de payer des cotisations avait elle-même droit durant la période du relevé de compte ou avec les rentes qu’elle a servies à cette époque à ses salariés.[^142-1]
 
-<sup>2</sup> Lorsque d’autres tâches sont confiées à la caisse de compensation, conformément à l’art. 63, al. 4, LAVS, les cotisations qui en découlent ainsi que les prestations qui doivent être servies peuvent, avec le consentement de l’OFAS, être comprises dans le relevé de compte à la condition que le règlement des comptes n’en soit pas rendu plus difficile.
+<sup>2</sup> Lorsque d’autres tâches sont déléguées à la caisse de compensation en vertu de l’art. 63*a*, al. 1, LAVS, les cotisations qui en découlent ainsi que les prestations qui doivent être servies peuvent, avec l’approbation de l’OFAS, être comprises dans le relevé de compte à condition que le règlement des comptes n’en soit pas rendu plus difficile.[^142-2]
 
-<sup>3</sup> …[^142-2]
+<sup>3</sup> …[^142-3]
 
 [^142-1]: Nouvelle teneur selon le ch. I de l’ACF du 19 nov. 1965, en vigueur depuis le 1<sup>er</sup> janv. 1966 ([RO 1965 1033](https://fedlex.data.admin.ch/eli/oc/1965/1021_1033_1019)).
-[^142-2]: Abrogé par le ch. I de l’O du 17 juin 1985, avec effet au 1<sup>er</sup> janv. 1986 ([RO 1985 913](https://fedlex.data.admin.ch/eli/oc/1985/913_913_913)).
+[^142-2]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
+[^142-3]: Abrogé par le ch. I de l’O du 17 juin 1985, avec effet au 1<sup>er</sup> janv. 1986 ([RO 1985 913](https://fedlex.data.admin.ch/eli/oc/1985/913_913_913)).
 
 #### Art. 143
 
@@ -3168,6 +3339,18 @@ Les caisses présentent à la CdC, jusqu’au 20 de chaque mois, le bilan du moi
 
 [^155-1]: Nouvelle teneur selon le ch. I de l’O du 13 sept. 1995, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1995 4376](https://fedlex.data.admin.ch/eli/oc/1995/4376_4376_4376)).
 
+#### Art. 155a
+
+**Compte d’administration de l’établissement d’assurances sociales**[^155a-1]
+
+<sup>1</sup> S’il existe un établissement cantonal d’assurances sociales au sens de l’art. 61, al. 1<sup>bis</sup>, LAVS, celui-ci doit tenir un bilan et un compte d’administration séparés pour chacune de ses unités organisationnelles ainsi que, le cas échéant, pour leur organisation supérieure de gestion.
+
+<sup>2</sup> L’organisation supérieure de gestion ne peut répercuter sur les unités organisationnelles que les coûts qui sont en rapport direct avec les tâches que celles-ci exercent et qu’elles devraient assumer même en l’absence d’une structure de gestion supérieure.
+
+<sup>3</sup> Les coûts qui ne sont imputables ni aux diverses assurances ni aux tâches déléguées incombent au canton.
+
+[^155a-1]: Introduit par le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
+
 ### V. Conservation des dossiers
 
 #### Art. 156
@@ -3222,17 +3405,39 @@ Le fonds de compensation de l’assurance-vieillesse et survivants verse aux cai
 
 **Principe**[^159-1]
 
-Les caisses de compensation doivent être révisées deux fois par an conformément à l’art. 68, al. 1, LAVS. La première révision doit avoir lieu au cours de l’année, la seconde après la clôture de l’exercice.
+Trois révisions au sens de l’art. 68*a* LAVS sont effectuées annuellement dans les caisses de compensation, chacune faisant l’objet d’un compte rendu distinct:
 
-[^159-1]: Nouvelle teneur selon le ch. I de l’O du 15 oct. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 3331](https://fedlex.data.admin.ch/eli/oc/2014/575)).
+- a. une révision principale;
+- b. une révision de clôture;
+- c. un contrôle des systèmes d’information.
+
+[^159-1]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 #### Art. 160
 
-**Étendue de la révision**
+**Étendue de la révision**[^160-1]
 
 <sup>1</sup> L’étendue des révisions doit être adaptée au mouvement des affaires de la caisse de compensation.
 
-<sup>2</sup> Les révisions doivent s’étendre en particulier à la comptabilité, au règlement des comptes, à l’application quant au fond des dispositions légales, ainsi qu’à l’organisation interne de la caisse de compensation. L’OFAS peut donner à cet effet des instructions aux bureaux de révision.
+<sup>2</sup> La révision principale inclut le contrôle de l’application quant au fond des dispositions légales, du règlement des comptes ainsi que de l’organisation interne de la caisse de compensation. Elle a lieu durant l’exercice en cours.
+
+<sup>3</sup> La révision de clôture inclut le contrôle des comptes annuels ainsi que la vérification que les coûts sont correctement imputés aux tâches déléguées et que les contributions aux frais d’administration et les subsides visés à l’art. 69, al. 3, LAVS sont utilisés conformément à la loi.
+
+<sup>4</sup> Le contrôle des systèmes d’information consiste en l’évaluation de l’application des exigences visées à l’art. 72*a*, al. 2, let. b, LAVS. Il peut se faire en même temps que l’une des autres révisions ou indépendamment de celles-ci.
+
+<sup>5</sup> L’OFAS édicte des directives en la matière.
+
+[^160-1]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
+
+#### Art. 160<sup>bis</sup>
+
+**Révisions de l’exécution des tâches déléguées**[^160bis-1]
+
+<sup>1</sup> L’OFAS édicte des directives relatives aux révisions de l’exécution par les caisses de compensation des tâches qui leur ont été déléguées.
+
+<sup>2</sup> Les directives relatives aux révisions comprennent les prescriptions applicables à la rédaction des rapports.
+
+[^160bis-1]: Introduit par le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 #### Art. 161
 
@@ -3240,13 +3445,15 @@ Les caisses de compensation doivent être révisées deux fois par an conformém
 
 <sup>1</sup> Les dispositions des art. 159 et 160 sont applicables à la révision des agences qui remplissent dans leur ressort toutes les tâches d’une caisse de compensation.
 
-<sup>2</sup> Les agences auxquelles ne s’applique pas l’al. 1, mais qui ont d’autres tâches que les attributions minimums énumérées à l’art. 116, al. 1, doivent être révisées sur place au moins une fois par an. L’étendue de la révision sera adaptée au champ d’activité de chaque agence.
+<sup>2</sup> Les agences auxquelles ne s’applique pas l’al. 1, mais qui ont elles aussi la compétence de prendre des décisions, doivent être révisées sur place au moins une fois par an. L’étendue de la révision sera adaptée au champ d’activité de chaque agence.[^161-1]
 
-<sup>3</sup> Les agences qui ne remplissent que les attributions minimums énumérées à l’art. 116, al. 1, doivent être contrôlées au moins une fois tous les trois ans.[^161-1]
+<sup>3</sup> …[^161-2]
 
-<sup>4</sup> Les caisses de compensation décident, sous réserve de l’approbation par l’OFAS, de l’application des al. 1 à 3 à chaque agence.
+<sup>4</sup> Les caisses de compensation décident, sous réserve de l’approbation par l’OFAS, de l’application des al. 1 et 2 à chaque agence.[^161-3]
 
-[^161-1]: Nouvelle teneur selon le ch. I de l’O du 21 août 1991, en vigueur depuis le 1<sup>er</sup> janv. 1992 ([RO 1991 2110](https://fedlex.data.admin.ch/eli/oc/1991/2110_2110_2110)).
+[^161-1]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
+[^161-2]: Abrogé par le ch. I de l’O du 22 nov. 2023, avec effet au 1<sup>er</sup> janv. 2024 ([RO 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
+[^161-3]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 ### II. Contrôle des employeurs
 
@@ -3254,7 +3461,7 @@ Les caisses de compensation doivent être révisées deux fois par an conformém
 
 **Principe**[^162-1]
 
-<sup>1</sup> Le contrôle périodique des employeurs prévu à l’art. 68, al. 2, 1<sup>re</sup> phrase, LAVS, s’effectue en principe sur place. Le bureau de révision peut renoncer au contrôle sur place s’il a accès par voie électronique aux données et aux documents nécessaires au contrôle.[^162-2]
+<sup>1</sup> Le contrôle périodique des employeurs prévu à l’art. 68*b* LAVS s’effectue en principe sur place. Le service chargé du contrôle des employeurs peut renoncer au contrôle sur place s’il a accès par voie électronique aux données et aux documents nécessaires au contrôle.[^162-2]
 
 <sup>2</sup> Lorsqu’un employeur change de caisse de compensation, la caisse compétente jusqu’alors veille qu’il soit contrôlé pour la période précédant le transfert.
 
@@ -3263,7 +3470,7 @@ Les caisses de compensation doivent être révisées deux fois par an conformém
 <sup>4</sup> L’OFAS donne des instructions aux caisses de compensation sur les modalités des contrôles.[^162-5]
 
 [^162-1]: Nouvelle teneur selon le ch. I de l’ACF du 30 déc. 1953, en vigueur depuis le 1<sup>er</sup> janv. 1954 ([RO 1954 226](https://fedlex.data.admin.ch/eli/oc/1954/219_226_110)).
-[^162-2]: Nouvelle teneur selon le ch. I de l’O du 14 oct. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4605](https://fedlex.data.admin.ch/eli/oc/2020/818)).
+[^162-2]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 [^162-3]: Nouvelle teneur selon le ch. I de l’O du 14 oct. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4605](https://fedlex.data.admin.ch/eli/oc/2020/818)).
 [^162-4]: Nouvelle teneur selon le ch. I de l’O du 17 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5125](https://fedlex.data.admin.ch/eli/oc/2007/721)).
 [^162-5]: Introduit par le ch. I de l’O du 17 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5125](https://fedlex.data.admin.ch/eli/oc/2007/721)).
@@ -3272,90 +3479,37 @@ Les caisses de compensation doivent être révisées deux fois par an conformém
 
 **Étendue du contrôle**[^163-1]
 
-<sup>1</sup> Le bureau de révision doit vérifier si l’employeur s’acquitte correctement de ses tâches. Le contrôle s’étendra à tous les documents requis par cette vérification.
+<sup>1</sup> Le service chargé du contrôle des employeurs doit vérifier si l’employeur s’acquitte correctement de ses tâches. Le contrôle s’étendra à tous les documents requis par cette vérification.[^163-2]
 
-<sup>2</sup> Le contrôle portera sur la période de contribution non prescrite. Il sera effectué dans une mesure qui garantisse une vérification sérieuse et permette de constater les lacunes éventuelles.[^163-2]
+<sup>2</sup> Le contrôle portera sur la période de contribution non prescrite. Il sera effectué dans une mesure qui garantisse une vérification sérieuse et permette de constater les lacunes éventuelles.[^163-3]
 
-<sup>3</sup> Les organes de contrôle doivent se limiter au contrôle. Ils ne peuvent ni prendre des décisions ni donner des ordres. Ils peuvent jouer un rôle consultatif.[^163-3]
+<sup>3</sup> Les organes de contrôle doivent se limiter au contrôle. Ils ne peuvent ni prendre des décisions ni donner des ordres. Ils peuvent jouer un rôle consultatif.[^163-4]
 
 [^163-1]: Nouvelle teneur selon le ch. I de l’ACF du 30 déc. 1953, en vigueur depuis le 1<sup>er</sup> janv. 1954 ([RO 1954 226](https://fedlex.data.admin.ch/eli/oc/1954/219_226_110)).
-[^163-2]: Nouvelle teneur selon le ch. I de l’O du 17 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5125](https://fedlex.data.admin.ch/eli/oc/2007/721)).
+[^163-2]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 [^163-3]: Nouvelle teneur selon le ch. I de l’O du 17 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5125](https://fedlex.data.admin.ch/eli/oc/2007/721)).
+[^163-4]: Nouvelle teneur selon le ch. I de l’O du 17 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5125](https://fedlex.data.admin.ch/eli/oc/2007/721)).
 
-### III. Bureaux de révision et de contrôle
+### III. Exigences applicables à l’organe de révision et au réviseur responsable
+
+[^chap4-lvlL-lvlIII-1]
+
+[^chap4-lvlL-lvlIII-1]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 #### Art. 164
 
-**Principe**
+**Principe**[^164-1]
 
-<sup>1</sup> Les caisses de compensation, ainsi que les agences au sens de l’art. 161, al. 1, doivent être révisées par des bureaux de révision (appelés par la suite «bureaux de révision externes») remplissant les conditions de l’art. 68, al. 3, LAVS.
+Les exigences prévues à l’art. 68, al. 4, LAVS sont fixées aux art. 11*n* à 11*q* de l’ordonnance du 22 août 2007 sur la surveillance de la révision[^164-2].
 
-<sup>2</sup> Les agences au sens de l’art. 161, al. 2 et 3, ainsi que les employeurs, peuvent être révisés par des services spéciaux des caisses de compensation (appelés par la suite «bureaux de révision internes»).
+[^164-1]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
+[^164-2]: [RS 221.302.3](https://fedlex.data.admin.ch/eli/cc/2007/534)
 
-#### Art. 165
+#### Art. 165 à 168
 
-**Conditions de la reconnaissance**
+[^165168-1]
 
-<sup>1</sup>
-
-Pour la reconnaissance des bureaux de révision et de contrôle les conditions suivantes doivent être remplies:[^165-1]
-
-- a.[^165-2] les personnes qui s’occupent des révisions des caisses et des contrôles des employeurs doivent posséder une connaissance approfondie de la technique de la révision, de la comptabilité, des dispositions de la LPGA et de la LAVS, ainsi que de leurs prescriptions d’exécution, y compris celles édictées par l’OFAS.
-- b.[^165-3] les personnes qui effectuent les révisions et les contrôles doivent, dans l’exercice de leur profession principale, se consacrer exclusivement à des travaux de révision. Si elles sont salariées, elles doivent être liées par un contrat de travail au bureau de révision ou, dans les cas prévus par l’art. 164, al. 2, à la caisse de compensation.
-- c.[^165-4] les personnes qui ont à diriger les révisions doivent être agréées en qualité d’expert-réviseur selon la loi du 16 décembre 2005 sur la surveillance de la révision (LSR)[^165-5]. Celles-ci peuvent exercer un mandat durant sept exercices annuels au plus et ne peuvent reprendre le même mandat qu’après une interruption de trois exercices.
-
-<sup>2</sup>
-
-Les bureaux de révision externes doivent, en outre, s’il ne s’agit pas de services de contrôle cantonaux, remplir les conditions suivantes:[^165-6]
-
-- a.[^165-7] ils doivent être agréés en qualité d’expert-réviseur selon la LSR;
-- b.[^165-8] ils doivent, pour la révision de caisses de compensation ou d’agences au sens de l’art. 161, al. 1, prouver qu’ils ont été chargés de la révision d’au moins trois caisses ou agences et, pour les contrôles d’employeurs, qu’ils sont mandatés pour dix contrôles au moins par année; l’OFAS peut autoriser des exceptions, pour autant que le bureau de révision prouve la qualité de son travail d’une autre manière.
-- c. s’engager à faire connaître à l’OFAS les activités qu’ils exercent en dehors des révisions et des contrôles et à en annoncer au fur et à mesure tous les changements;
-- d. s’engager à fournir à l’OFAS tous les documents et tous les renseignements nécessaires pour lui permettre de vérifier si les conditions de la reconnaissance sont remplies et respectées.
-
-<sup>3</sup> Les bureaux de révision internes doivent s’occuper essentiellement des révisions et des contrôles et les exécuter de manière indépendante à l’égard de la direction de la caisse. Ils ne peuvent être organisés au sein des agences.
-
-<sup>4</sup> Les bureaux de révision externes et internes peuvent, contre une rémunération adéquate, effectuer simultanément d’autres révisions et contrôles pour le compte de l’association ou du canton, si cela permet un travail plus rationnel et ne nuit pas à une exécution conforme aux prescriptions des révisions des caisses et des contrôles d’employeurs.
-
-[^165-1]: Nouvelle teneur selon le ch. I de l’O du 21 sept. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6329](https://fedlex.data.admin.ch/eli/oc/2012/746)).
-[^165-2]: Nouvelle teneur selon le ch. I de l’O du 11 sept. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3710](https://fedlex.data.admin.ch/eli/oc/2002/570)).
-[^165-3]: Nouvelle teneur selon le ch. I de l’O du 31 août 1992, en vigueur depuis le 1<sup>er</sup> janv. 1993 ([RO 1992 1830](https://fedlex.data.admin.ch/eli/oc/1992/1830_1830_1830)).
-[^165-4]: Nouvelle teneur selon le ch. I de l’O du 21 sept. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6329](https://fedlex.data.admin.ch/eli/oc/2012/746)).
-[^165-5]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
-[^165-6]: Nouvelle teneur selon le ch. I de l’O du 21 sept. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6329](https://fedlex.data.admin.ch/eli/oc/2012/746)).
-[^165-7]: Nouvelle teneur selon le ch. I de l’O du 21 sept. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6329](https://fedlex.data.admin.ch/eli/oc/2012/746)).
-[^165-8]: Nouvelle teneur selon le ch. I de l’O du 21 sept. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6329](https://fedlex.data.admin.ch/eli/oc/2012/746)).
-
-#### Art. 166
-
-**Procédure de reconnaissance et retrait de la reconnaissance**
-
-<sup>1</sup> Les bureaux de révision externes qui veulent se faire reconnaître doivent en faire la demande écrite à l’OFAS et apporter la preuve qu’ils remplissent les conditions requises pour la reconnaissance. La demande de reconnaissance des bureaux de révision internes doit être présentée par la caisse de compensation.
-
-<sup>2</sup> L’OFAS se prononce sur la reconnaissance des bureaux de révision. Sa décision doit être communiquée par écrit.
-
-<sup>3</sup> La reconnaissance doit être retirée à un bureau de révision lorsqu’il ne remplit plus les conditions de la reconnaissance, ne donne plus toute garantie pour une exécution irréprochable et objective des révisions et des contrôles, ou si, malgré les avertissements donnés, il n’observe pas les instructions officielles.
-
-#### Art. 167
-
-**Indépendance des bureaux de contrôle et récusation**
-
-<sup>1</sup> Les bureaux de révision doivent être indépendants de la direction des associations fondatrices de la caisse de compensation à réviser, ainsi que des employeurs à contrôler.
-
-<sup>2</sup>
-
-Lorsque l’indépendance n’est pas garantie, les bureaux de révision ou les personnes chargées de la révision ou du contrôle doivent se récuser. Les motifs de récusation sont notamment:
-
-- a. le fait d’avoir un intérêt important, financier ou analogue, dans l’association fondatrice, l’entreprise à contrôler ou une entreprise concurrente;
-- b. un contrat de travail ou un rapport de mandat avec l’employeur à contrôler ou avec une entreprise concurrente, si ce contrat ou ce rapport ne concernent pas l’exécution d’une révision ou d’un contrôle.
-
-#### Art. 168
-
-**Mandat de révision**
-
-<sup>1</sup> Les bureaux de révision doivent être chargés d’effectuer les révisions des caisses ou les contrôles des employeurs durant un délai fixé par l’OFAS. Un bureau de révision externe recevra toujours un mandat pour au moins un exercice.
-
-<sup>2</sup> Les caisses de compensation doivent indiquer à l’OFAS quel est leur bureau de révision.
+[^165168-1]: Abrogés par le ch. I de l’O du 22 nov. 2023, avec effet au 1<sup>er</sup> janv. 2024 ([RO 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 #### Art. 169
 
@@ -3367,21 +3521,29 @@ Lorsque l’indépendance n’est pas garantie, les bureaux de révision ou les 
 
 <sup>3</sup> Les rapports de révision et de contrôle doivent être signés par le réviseur, ainsi que, s’il s’agit d’un bureau de révision externe, par les personnes ayant le droit d’engager, par leur signature, le bureau de révision ou de contrôle.
 
-<sup>4</sup> Les rapports de révision doivent être adressés en deux exemplaires à l’OFAS, dans un délai qu’il fixera. Des copies en sont envoyées directement à la caisse de compensation et aux associations fondatrices de la caisse de compensation. Les rapports de contrôle doivent être adressés aux caisses de compensation.[^169-1]
+<sup>4</sup> Les rapports de révision doivent être adressés à l’OFAS, dans un délai qu’il fixera. Des exemplaires supplémentaires en sont envoyés directement à la CdC, à la caisse de compensation et aux associations fondatrices de la caisse de compensation. Les rapports de contrôle doivent être adressés aux caisses de compensation.[^169-1]
 
-[^169-1]: Nouvelle teneur selon le ch. I 1 de l’O du 11 oct. 1972, en vigueur depuis le 1<sup>er</sup> janv. 1973 ([RO 1972 2560](https://fedlex.data.admin.ch/eli/oc/1972/2507_2560_2338)).
+[^169-1]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
+
+### III*a*. Frais de révision des caisses et du contrôle des employeurs
+
+[^chap4-lvlL-lvlIIIa-1]
+
+[^chap4-lvlL-lvlIIIa-1]: Introduit par le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 #### Art. 170
 
-**Tarif**
+**…[^170-1]**
 
-<sup>1</sup> Les indemnités à verser aux bureaux de révision externes sont fixées par un tarif qui sera établi par le DFI après consultation des milieux intéressés.
+<sup>1</sup> …[^170-2]
 
 <sup>2</sup> Les frais de révision des caisses et du contrôle des employeurs font partie des frais d’administration des caisses de compensation.
 
-<sup>3</sup> Lorsque, par un comportement contraire à ses obligations, l’employeur complique l’exécution d’un contrôle, notamment s’il n’inscrit pas les salaires et autres indications exigées au sens de l’art. 143, al. 2, RAVS ou n’effectue ces inscriptions que d’une manière défectueuse, ou s’il tente de se soustraire au contrôle, la caisse de compensation peut mettre à sa charge les frais supplémentaires qu’elle encourt de ce chef.[^170-1]
+<sup>3</sup> Lorsque, par un comportement contraire à ses obligations, l’employeur complique l’exécution d’un contrôle, notamment s’il n’inscrit pas les salaires et autres indications exigées au sens de l’art. 143, al. 2, RAVS ou n’effectue ces inscriptions que d’une manière défectueuse, ou s’il tente de se soustraire au contrôle, la caisse de compensation peut mettre à sa charge les frais supplémentaires qu’elle encourt de ce chef.[^170-3]
 
-[^170-1]: Introduit par le ch. I de l’O du 5 avr. 1978, en vigueur depuis le 1<sup>er</sup> janv. 1979 ([RO 1978 420](https://fedlex.data.admin.ch/eli/oc/1978/420_420_420)).
+[^170-1]: Abrogé par le ch. I de l’O du 22 nov. 2023, avec effet au 1<sup>er</sup> janv. 2024 ([RO 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
+[^170-2]: Abrogé par le ch. I de l’O du 22 nov. 2023, avec effet au 1<sup>er</sup> janv. 2024 ([RO 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
+[^170-3]: Introduit par le ch. I de l’O du 5 avr. 1978, en vigueur depuis le 1<sup>er</sup> janv. 1979 ([RO 1978 420](https://fedlex.data.admin.ch/eli/oc/1978/420_420_420)).
 
 ### IV. Révisions complémentaires et contrôles
 
@@ -3393,7 +3555,9 @@ Lorsque l’indépendance n’est pas garantie, les bureaux de révision ou les 
 
 <sup>1</sup> L’OFAS peut, en cas de besoin, procéder lui-même à des révisions complémentaires de caisses ou y faire procéder par la CdC ou par un bureau de révision reconnu.
 
-<sup>2</sup> L’OFAS est compétent pour ordonner des contrôles en application de l’art. 68, al. 2, dernière phrase, LAVS.
+<sup>2</sup> L’OFAS est compétent pour ordonner des contrôles en application de l’art. 72*b*, let. d, LAVS.[^171-1]
+
+[^171-1]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 ### M. …
 
@@ -3416,15 +3580,17 @@ La CdC doit, en sus des tâches mentionnées à l’art. 71 LAVS et aux art. 133
 - a.[^174-2] …
 - b.[^174-3] …
 - c.[^174-4] rassembler les comptes individuels d’un assuré lorsque survient l’événement assuré;
-- d.[^174-5] extraire des annonces faites[^174-6] conformément à l’art. 140, al. 2, ainsi que du registre des prestations en cours les renseignements que lui demande l’OFAS;
-- e.[^174-7] recevoir les avis de décès envoyés par les offices de l’état civil et les remettre aux caisses de compensation s’ils concernent des bénéficiaires de prestations dont les noms figurent au registre central;
-- f.[^174-8] gérer un registre central de tous les bénéficiaires de prestations complémentaires qui ne touchent pas de rente de l’AVS ou de l’AI;
-- g.[^174-9] effectuer la comparaison des données conformément à l’art. 93 LAVS;
-- h.[^174-10] gérer le service de pseudonymisation visé à l’art. 31, al. 1, let. c, de la loi fédérale du 18 mars 2016 sur l’enregistrement des maladies oncologiques[^174-11].
+- d.[^174-5] extraire des annonces faites conformément à l’art. 140, al. 2, ainsi que du registre des prestations courantes en espèces les renseignements que lui demande l’OFAS;
+- e.[^174-6] communiquer aux caisses de compensation les dates de décès inscrites dans le registre des assurés, si elles concernent des bénéficiaires de prestations dont les noms figurent au registre des prestations courantes en espèces;
+- f.[^174-7] gérer un registre central de tous les bénéficiaires de prestations complémentaires qui ne touchent pas de rente de l’AVS ou de l’AI;
+- g.[^174-8] effectuer la comparaison des données conformément à l’art. 93 LAVS;
+- h.[^174-9] gérer le service de pseudonymisation visé à l’art. 31, al. 1, let. c, de la loi fédérale du 18 mars 2016 sur l’enregistrement des maladies oncologiques[^174-10];
+- i.[^174-11] concernant les registres qu’elle exploite, garantir la protection des données et la sécurité des données conformément à la législation fédérale sur la protection des données[^174-12], à l’ordonnance du 27 mai 2020 sur les cyberrisques[^174-13] et aux directives du Conseil fédéral du 16 janvier 2019 concernant la sécurité informatique dans l’administration fédérale[^174-14];
+- j.[^174-15] conserver les données susceptibles de donner le droit aux prestations d’assurance dix ans à compter de l’extinction du dernier droit à une prestation; au terme de cette période, les données seront détruites s’il est certain qu’elles ne seront plus nécessaires pour des prestations octroyées ultérieurement; l’OFAS fixe les modalités.
 
-<sup>1bis</sup> La CdC compare les données de l’assurance-chômage fournies par le SECO d’ici au 31 mars de l’année qui suit la période de décompte avec celles fournies par les caisses de compensation. Elle communique mensuellement le résultat de la comparaison au SECO au cours de l’année qui suit la période de décompte, la première fois d’ici au 15 avril et la dernière fois d’ici au 15 novembre.[^174-12]
+<sup>1bis</sup> La CdC compare les données de l’assurance-chômage fournies par le Secrétariat d’État à l’économie (SECO) d’ici au 31 mars de l’année qui suit la période de décompte avec celles fournies par les caisses de compensation. Elle communique mensuellement le résultat de la comparaison au SECO au cours de l’année qui suit la période de décompte, la première fois d’ici au 15 avril et la dernière fois d’ici au 15 novembre.[^174-16]
 
-<sup>2</sup> …[^174-13]
+<sup>2</sup> …[^174-17]
 
 <sup>3</sup> La CdC établit chaque année, à l’intention de l’OFAS, un rapport détaillé sur l’exécution des tâches qui lui incombent en vertu de l’al. 1.
 
@@ -3432,15 +3598,19 @@ La CdC doit, en sus des tâches mentionnées à l’art. 71 LAVS et aux art. 133
 [^174-2]: Abrogée par le ch. I de l’O du 17 nov. 2021, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
 [^174-3]: Abrogée par le ch. I de l’O du 22 nov. 2000, avec effet au 1<sup>er</sup> janv. 2001 ([RO 2000 2905](https://fedlex.data.admin.ch/eli/oc/2000/506)).
 [^174-4]: Nouvelle teneur selon le ch. I de l’ACF du 10 janv. 1969, en vigueur depuis le 1<sup>er</sup> janv. 1969 ([RO 1969 135](https://fedlex.data.admin.ch/eli/oc/1969/125_135_135)).
-[^174-5]: Nouvelle teneur selon le ch. I de l’ACF du 10 janv. 1969, en vigueur depuis le 1<sup>er</sup> janv. 1969 ([RO 1969 135](https://fedlex.data.admin.ch/eli/oc/1969/125_135_135)).
-[^174-6]: Nouvelle teneur selon le ch. I de l’O du 17 juin 1985, en vigueur depuis le 1<sup>er</sup> janv. 1986 ([RO 1985 913](https://fedlex.data.admin.ch/eli/oc/1985/913_913_913)).
-[^174-7]: Introduite par le ch. I de l’O du 18 oct. 1974, en vigueur depuis le 1<sup>er</sup> janv. 1975 ([RO 1974 1594](https://fedlex.data.admin.ch/eli/oc/1974/1594_1594_1594)).
-[^174-8]: Introduite par le ch. I de l’O du 29 nov. 1995, en vigueur depuis le 1<sup>er janv.</sup> 1997 ([RO 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)).
-[^174-9]: Introduite par le ch. I de l’O du 20 nov. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4519](https://fedlex.data.admin.ch/eli/oc/2013/798)).
-[^174-10]: Introduite par l’annexe 2 ch. 2 de l’O du 11 avr. 2018 sur l’enregistrement des maladies oncologiques, en vigueur depuis le 1<sup>er</sup> juin 2018 ([RO 2018 2019](https://fedlex.data.admin.ch/eli/oc/2018/290)).
-[^174-11]: [RS 818.33](https://fedlex.data.admin.ch/eli/cc/2018/289)
-[^174-12]: Introduit par le ch. I de l’O du 20 nov. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4519](https://fedlex.data.admin.ch/eli/oc/2013/798)).
-[^174-13]: Abrogé par le ch. I de l’O du 26 oct. 2016, avec effet au 1<sup>er</sup> janv. 2017 ([RO 2016 4057](https://fedlex.data.admin.ch/eli/oc/2016/673)).
+[^174-5]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
+[^174-6]: Introduite par le ch. I de l’O du 18 oct. 1974 ([RO 1974 1594](https://fedlex.data.admin.ch/eli/oc/1974/1594_1594_1594)). Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
+[^174-7]: Introduite par le ch. I de l’O du 29 nov. 1995, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)).
+[^174-8]: Introduite par le ch. I de l’O du 20 nov. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4519](https://fedlex.data.admin.ch/eli/oc/2013/798)).
+[^174-9]: Introduite par l’annexe 2 ch. 2 de l’O du 11 avr. 2018 sur l’enregistrement des maladies oncologiques, en vigueur depuis le 1<sup>er</sup> juin 2018 ([RO 2018 2019](https://fedlex.data.admin.ch/eli/oc/2018/290)).
+[^174-10]: [RS 818.33](https://fedlex.data.admin.ch/eli/cc/2018/289)
+[^174-11]: Introduite par le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
+[^174-12]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491); [235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^174-13]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^174-14]: [FF 2019 1283](https://fedlex.data.admin.ch/eli/fga/2019/278)
+[^174-15]: Introduite par le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
+[^174-16]: Introduit par le ch. I de l’O du 20 nov. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4519](https://fedlex.data.admin.ch/eli/oc/2013/798)).
+[^174-17]: Abrogé par le ch. I de l’O du 26 oct. 2016, avec effet au 1<sup>er</sup> janv. 2017 ([RO 2016 4057](https://fedlex.data.admin.ch/eli/oc/2016/673)).
 
 #### Art. 175
 
@@ -3454,23 +3624,24 @@ La CdC dépend du DFF. Celui-ci règle son organisation interne.
 
 #### Art. 176
 
-**DFI et OFAS**
+**Autorité de surveillance[^176-1]**
 
-<sup>1</sup> Le DFI est chargé de l’exécution des tâches ressortissant au Conseil fédéral aux termes des art. 76 LPGA et 72 LAVS.[^176-1] Il peut confier certaines de ces tâches à l’OFAS pour qu’il s’en acquitte de manière indépendante.
+<sup>1</sup> L’autorité de surveillance visée à l’art. 72 LAVS est l’OFAS.[^176-2]
 
-<sup>2</sup> L’OFAS peut, en général et dans des cas particuliers, donner aux services chargés d’appliquer la législation sur l’assurance des instructions garantissant l’uniformité de cette application.[^176-2]
+<sup>2</sup> …[^176-3]
 
-<sup>3</sup> …[^176-3]
+<sup>3</sup> …[^176-4]
 
-<sup>4</sup> L’OFAS règle la collaboration entre les caisses de compensation et la CdC et veille à l’utilisation rationnelle des installations techniques. Les prescriptions qui touchent à l’organisation et à l’activité de la CdC sont arrêtées avec l’accord de l’Administration fédérale des finances.[^176-4]
+<sup>4</sup> L’OFAS règle la collaboration entre les caisses de compensation et la CdC et veille à l’utilisation rationnelle des installations techniques. Les prescriptions qui touchent à l’organisation et à l’activité de la CdC sont arrêtées avec l’accord de l’Administration fédérale des finances.[^176-5]
 
-<sup>5</sup> …[^176-5]
+<sup>5</sup> …[^176-6]
 
-[^176-1]: Nouvelle teneur selon le ch. I de l’O du 11 sept. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3710](https://fedlex.data.admin.ch/eli/oc/2002/570)).
-[^176-2]: Nouvelle teneur selon le ch. I de l’O du 21 janv. 1987, en vigueur depuis le 1<sup>er</sup> juil. 1987 ([RO 1987 445](https://fedlex.data.admin.ch/eli/oc/1987/445_445_445)).
-[^176-3]: Abrogé par le ch. I de l’O du 21 janv. 1987, avec effet au 1<sup>er</sup> juil. 1987 ([RO 1987 445](https://fedlex.data.admin.ch/eli/oc/1987/445_445_445)).
-[^176-4]: Introduit par le ch. I de l’ACF du 3 avr. 1964 ([RO 1964 324](https://fedlex.data.admin.ch/eli/oc/1964/332_324_324)). Nouvelle teneur selon le ch. I de l’O du 21 janv. 1987, en vigueur depuis le 1<sup>er</sup> juil. 1987 ([RO 1987 445](https://fedlex.data.admin.ch/eli/oc/1987/445_445_445)).
-[^176-5]: Introduit par l’annexe ch. 20 de l’O du 3 fév. 1993 sur les autorités dont les décisions peuvent être déférées au TF ou au TFA [[RO 1993 901](https://fedlex.data.admin.ch/eli/oc/1993/901_901_901)]. Abrogé par le ch. I de l’O du 11 sept. 2002, avec effet au 1<sup>er</sup> janv. 2003 ([RO 2002 3710](https://fedlex.data.admin.ch/eli/oc/2002/570)).
+[^176-1]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
+[^176-2]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
+[^176-3]: Abrogé par le ch. I de l’O du 22 nov. 2023, avec effet au 1<sup>er</sup> janv. 2024 ([RO 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
+[^176-4]: Abrogé par le ch. I de l’O du 21 janv. 1987, avec effet au 1<sup>er</sup> juil. 1987 ([RO 1987 445](https://fedlex.data.admin.ch/eli/oc/1987/445_445_445)).
+[^176-5]: Introduit par le ch. I de l’ACF du 3 avr. 1964 ([RO 1964 324](https://fedlex.data.admin.ch/eli/oc/1964/332_324_324)). Nouvelle teneur selon le ch. I de l’O du 21 janv. 1987, en vigueur depuis le 1<sup>er</sup> juil. 1987 ([RO 1987 445](https://fedlex.data.admin.ch/eli/oc/1987/445_445_445)).
+[^176-6]: Introduit par l’annexe ch. 20 de l’O du 3 fév. 1993 sur les autorités dont les décisions peuvent être déférées au TF ou au TFA [[RO 1993 901](https://fedlex.data.admin.ch/eli/oc/1993/901_901_901)]. Abrogé par le ch. I de l’O du 11 sept. 2002, avec effet au 1<sup>er</sup> janv. 2003 ([RO 2002 3710](https://fedlex.data.admin.ch/eli/oc/2002/570)).
 
 #### Art. 177
 
@@ -3486,12 +3657,9 @@ La CdC dépend du DFF. Celui-ci règle son organisation interne.
 
 #### Art. 178
 
-**Rapport de gestion des caisses de compensation**[^178-1]
+[^178-1]
 
-Les caisses de compensation doivent adresser chaque année à l’OFAS, et conformément aux instructions de celui-ci, un rapport de gestion. …[^178-2]
-
-[^178-1]: Nouvelle teneur selon le ch. I de l’ACF du 20 avr. 1951, en vigueur depuis le 1<sup>er</sup> janv. 1951 ([RO 1951 396](https://fedlex.data.admin.ch/eli/oc/1951/394_396_392)).
-[^178-2]: Dernière phrase abrogée par le ch. I de l’ACF du 15 janv. 1971, avec effet au 1<sup>er</sup> janv. 1971 ([RO 1971 29](https://fedlex.data.admin.ch/eli/oc/1971/29_29_29)).
+[^178-1]: Abrogé par le ch. I de l’O du 22 nov. 2023, avec effet au 1<sup>er</sup> janv. 2024 ([RO 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 #### Art. 179
 
@@ -3505,13 +3673,17 @@ Les caisses de compensation doivent remédier dans un délai convenable aux insu
 
 **Gestion par commissaire**
 
-<sup>1</sup> La gestion par commissaire prévue à l’art. 72, al. 3, LAVS doit être ordonnée par le DFI en cas d’inobservation grave et réitérée de prescriptions légales ou d’instructions officielles.
+<sup>1</sup> …[^180-1]
 
-<sup>2</sup> Le DFI, après avoir consulté le canton ou les associations fondatrices, désigne le commissaire. Celui-ci remplace l’organe supérieur et le gérant de la caisse. Il en assume toutes les obligations et en exerce toutes les attributions.
+<sup>2</sup> Si la gestion par commissaire est ordonnée en application de l’art. 72*b*, let. h, LAVS, l’OFAS, après avoir consulté le canton ou les associations fondatrices, désigne le commissaire. Celui-ci remplace l’organe supérieur et le gérant de la caisse, en assume toutes les obligations et en exerce toutes les attributions.[^180-2]
 
 <sup>3</sup> La gestion par commissaire est exercée conformément aux instructions de l’OFAS. Les frais en sont à la charge de la caisse de compensation.
 
-<sup>4</sup> La gestion par commissaire est supprimée dès que la garantie existe que les tâches incombant à la caisse de compensation seront exécutées conformément aux prescriptions. Le commissaire doit remettre un rapport final au DFI.
+<sup>4</sup> La gestion par commissaire est supprimée dès que la garantie existe que les tâches incombant à la caisse de compensation seront exécutées conformément aux prescriptions. Le commissaire remet un rapport final à l’OFAS.[^180-3]
+
+[^180-1]: Abrogé par le ch. I de l’O du 22 nov. 2023, avec effet au 1<sup>er</sup> janv. 2024 ([RO 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
+[^180-2]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
+[^180-3]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 ## Chapitre V …
 
@@ -3640,6 +3812,14 @@ L’OFAS statue par une décision sur les litiges concernant la communication de
 [^209ter-1]: Introduit par le ch. I de l’O du 22 nov. 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2905](https://fedlex.data.admin.ch/eli/oc/2000/506)).
 [^209ter-2]: [RS 172.041.0](https://fedlex.data.admin.ch/eli/cc/1969/760_780_777)
 
+#### Art. 209<sup>quater</sup>
+
+**Frais d’accès au registre des prestations courantes en espèces et au registre des assurés**[^209quater-1]
+
+Les assureurs-accidents et l’assurance militaire visés à l’art. 50*b*, al. 1, let. c et d, LAVS versent à la CdC un émolument couvrant les frais effectifs de l’accès en ligne au registre des prestations courantes en espèces et au registre des assurés.
+
+[^209quater-1]: Introduit par le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
+
 #### Art. 210
 
 **Formules**[^210-1]
@@ -3653,17 +3833,15 @@ L’OFAS statue par une décision sur les litiges concernant la communication de
 
 #### Art. 211
 
-**Affranchissement à forfait**[^211-1]
+**Taxes postales et droits de paiement**[^211-1]
 
-<sup>1</sup> L’affranchissement à forfait couvre les taxes et droits des envois postaux, ainsi que les paiements internes des caisses de compensation et de la CdC. Il peut être étendu à d’autres organes, ainsi qu’aux envois postaux et aux paiements des caisses de compensation se rapportant aux tâches qui leur sont confiées conformément à l’art. 63, al. 4, LAVS.
+<sup>1</sup> Le fonds de compensation de l’assurance-vieillesse et survivants finance les taxes et droits des envois postaux, des paiements internes et des paiements à l’étranger dans le cadre des accords bilatéraux qui résultent pour les caisses de compensation et la CdC de la mise en œuvre de l’assurance-vieillesse et survivants.
 
-<sup>2</sup> L’OFAS réglera les modalités d’application d’entente avec l’unité d’affaires Postfinance de La Poste Suisse.[^211-2]
+<sup>2</sup> La prise en charge des taxes et droits peut être étendue aux tâches déléguées au sens de l’art. 63*a* LAVS, pour autant qu’elles soient traitées en même temps qu’un envoi au sens de l’al. 1. Les taxes et droits qui ne sont dus que pour ces tâches déléguées doivent être couverts directement par les responsables de ces tâches.
 
-<sup>3</sup> Les abus seront punis comme les détournements de taxe selon l’art. 62 de la loi fédérale du 2 octobre 1924 sur le Service des postes[^211-3].
+<sup>3</sup> L’OFAS réglera les modalités d’application d’entente avec les unités d’affaires concernées de La Poste Suisse.
 
-[^211-1]: Nouvelle teneur selon le ch. I de l’ACF du 19 nov. 1965, en vigueur depuis le 1<sup>er</sup> janv. 1966 ([RO 1965 1033](https://fedlex.data.admin.ch/eli/oc/1965/1021_1033_1019)).
-[^211-2]: Nouvelle teneur selon le ch. II 58 de l’O du 1<sup>er</sup> déc. 1997, en vigueur depuis le 1<sup>er</sup> janv. 1998 ([RO 1997 2779](https://fedlex.data.admin.ch/eli/oc/1997/2779_2779_2779)).
-[^211-3]: [RS **7** 752; [RO 1949 849](https://fedlex.data.admin.ch/eli/oc/1949/827_849_851)art. 1, [1967 1533](https://fedlex.data.admin.ch/eli/oc/1967/1485_1533_1527)ch. I, II, [1969 1137](https://fedlex.data.admin.ch/eli/oc/1969/1117_1137_1139)ch. II, [1972 2720](https://fedlex.data.admin.ch/eli/oc/1972/2667_2720_2500), [1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857)annexe ch. 17, [1975 2027](https://fedlex.data.admin.ch/eli/oc/1975/2027_2027_2027), [1977 2117](https://fedlex.data.admin.ch/eli/oc/1977/2117_2117_2117), [1979 1170](https://fedlex.data.admin.ch/eli/oc/1979/1170_1170_1170)ch. VI, [1986 1974](https://fedlex.data.admin.ch/eli/oc/1986/1974_1974_1974)art. 54 ch. 4, [1993 901](https://fedlex.data.admin.ch/eli/oc/1993/901_901_901)annexe ch. 17 [3128](https://fedlex.data.admin.ch/eli/oc/1993/3128_3128_3128)art. 22, [1995 5489](https://fedlex.data.admin.ch/eli/oc/1995/5489_5489_5489). [RO 1997 2452](https://fedlex.data.admin.ch/eli/oc/1997/2452_2452_2452)app. ch. 1]. Voir actuellement la LF du 17 déc. 2010 sur la poste ([RS 783.0](https://fedlex.data.admin.ch/eli/cc/2012/585)).
+[^211-1]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 #### Art. 211<sup>bis</sup>
 
@@ -3673,10 +3851,10 @@ L’OFAS statue par une décision sur les litiges concernant la communication de
 
 <sup>2</sup> Le montant de ces contributions dépend de la nature et de l’importance du projet.
 
-<sup>3</sup> Le DFI approuve le montant qui peut être prélevé pour l’information des assurés. Le conseil d’administration de compenswiss (Fonds de compensation AVS/AI/ APG) est entendu.[^211bis-2]
+<sup>3</sup> …[^211bis-2]
 
 [^211bis-1]: Introduit par le ch. I de l’O du 16 sept. 1996, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 2758](https://fedlex.data.admin.ch/eli/oc/1996/2758_2758_2758)).
-[^211bis-2]: Nouvelle teneur selon le ch. I de l’O du 30 nov. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5077](https://fedlex.data.admin.ch/eli/oc/2018/789)).
+[^211bis-2]: Abrogé par le ch. I de l’O du 22 nov. 2023, avec effet au 1<sup>er</sup> janv. 2024 ([RO 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 #### Art. 211<sup>ter</sup>
 
@@ -3702,6 +3880,22 @@ L’OFAS statue par une décision sur les litiges concernant la communication de
 
 [^211quater-1]: Introduit par le ch. I de l’O du 30 sept. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 5183](https://fedlex.data.admin.ch/eli/oc/2009/608)).
 [^211quater-2]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+
+#### Art. 211<sup>quinquies</sup>
+
+**Prise en charge des frais des systèmes d’information**[^211quinquies-1]
+
+<sup>1</sup>
+
+Le fonds de compensation de l’assurance-vieillesse et survivants prend en charge les frais des systèmes d’information utilisables à l’échelle suisse lorsque les conditions suivantes sont remplies:
+
+- a. les systèmes d’information simplifient pour les organes d’exécution, les assurés ou les employeurs l’exécution des tâches visées à l’art. 63 LAVS;
+- b. les systèmes d’information servent à l’échange d’informations entre plusieurs organes d’exécution;
+- c. les systèmes d’information peuvent être développés ou exploités par la CdC de manière centralisée et économique.
+
+<sup>2</sup> L’OFAS examine les conditions et décide après consultation des organes d’exécution de la prise en charge des frais par le fonds de compensation de l’assurance-vieillesse et survivants.
+
+[^211quinquies-1]: Introduit par le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 #### Art. 212
 
@@ -3789,13 +3983,13 @@ Ont droit aux aides financières au sens de l’art. 3, al. 1, de la loi du 5 oc
 
 <sup>2</sup> L’OFAS conclut avec les organisations visées à l’al. 1 des contrats de prestations portant sur les objectifs à atteindre et les prestations à prendre en compte, pour une durée de quatre ans au maximum.
 
-<sup>3</sup> L’assurance participe aux aides financières de l’assurance-invalidité allouées aux organisations de l’aide privée aux invalides au sens des art. 108 à 110 RAI[^222-4], pour autant que ces organisations fournissent dans une large mesure des prestations dans l’intérêt de personnes qui n’ont été atteintes dans leur santé qu’après l’âge de la retraite. Le montant de la participation de l’assurance est établi en fonction des prestations effectivement fournies à ce groupe de personnes.[^222-5]
+<sup>3</sup> L’assurance participe aux aides financières de l’assurance-invalidité allouées aux organisations de l’aide privée aux invalides au sens des art. 108 à 110 RAI[^222-4], pour autant que ces organisations fournissent dans une large mesure des prestations dans l’intérêt de personnes qui n’ont été atteintes dans leur santé qu’après l’âge de référence fixé à l’art. 21, al. 1, LAVS. Le montant de la participation de l’assurance est établi en fonction des prestations effectivement fournies à ce groupe de personnes.[^222-5]
 
 [^222-1]: Nouvelle teneur selon le ch. I 16 de l’O du 7 nov. 2007 sur la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)). Voir aussi la disp. fin. mod. 7 nov. 2007 à la fin du texte.
 [^222-2]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
 [^222-3]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 [^222-4]: [RS 831.201](https://fedlex.data.admin.ch/eli/cc/1961/29_29_29)
-[^222-5]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^222-5]: Nouvelle teneur selon le ch. I de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 223
 
@@ -3916,7 +4110,7 @@ c. Age flexible de la retraite
 
 <sup>2</sup> Lors du transfert des rentes pour couple bénéficiant d’un supplément d’ajournement selon la let. c, al. 5, des dispositions transitoires relatives à la dixième révision de l’AVS, le supplément est réparti par moitié sur les deux nouvelles rentes. Après le décès de l’un des conjoints, l’augmentation est augmentée d’un tiers.
 
-<sup>3</sup> Pour les femmes nées entre 1939 et 1947, le pourcentage du montant de la réduction lors de l’anticipation de la rente selon l’art. 56, al. 2, RAVS, s’élève à 3,4 % de la rente anticipée par année d’anticipation.
+<sup>3</sup> Pour les femmes nées entre 1939 et 1947, le pourcentage du montant de la réduction lors de l’anticipation de la rente selon l’art. 56<sup>bis</sup>, al. 1, s’élève à 3,4 % de la rente anticipée par année d’anticipation.[^u3-3]
 
 d. Versement de la rente par l’employeur
 
@@ -3928,7 +4122,7 @@ d. Versement de la rente par l’employeur
 
 <sup>4</sup> Les employeurs qui versent les rentes à leurs salariés peuvent leur servir sans frais de port d’autres prestations périodiques d’assurance ou de prévoyance versées par eux-mêmes ou par une institution d’assurance ou de prévoyance indépendante en rapport avec leur entreprise.
 
-<sup>5</sup> Les employeurs ont le droit de verser les rentes à un tiers ou à une autorité uniquement si la caisse de compensation en a pris la décision.[^u3-3]
+<sup>5</sup> Les employeurs ont le droit de verser les rentes à un tiers ou à une autorité uniquement si la caisse de compensation en a pris la décision.[^u3-4]
 
 <sup>6</sup> Les employeurs peuvent exiger de la caisse de compensation qu’elle mette mensuellement à leur disposition, sous forme d’une avance sans intérêt, les fonds nécessaires au versement des rentes et allocations pour impotents.
 
@@ -3938,7 +4132,8 @@ d. Versement de la rente par l’employeur
 - b. si l’ancien revenu annuel moyen déterminant s’élève au moins au montant minimum de la rente de vieillesse multiplié par 72, la nouvelle valeur correspondra au montant minimum de la rente de vieillesse multiplié par 48.
 
 [^u3-2]: Abrogée par le ch. IV 42 de l’O du 22 août 2007 relative à la mise à jour formelle du droit fédéral, avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
-[^u3-3]: Nouvelle teneur selon le ch. I de l’O du 11 sept. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3710](https://fedlex.data.admin.ch/eli/oc/2002/570)).
+[^u3-3]: Nouvelle teneur selon le ch. I de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^u3-4]: Nouvelle teneur selon le ch. I de l’O du 11 sept. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3710](https://fedlex.data.admin.ch/eli/oc/2002/570)).
 
 ## Disposition finale de la modification du 16 septembre 1996
 
