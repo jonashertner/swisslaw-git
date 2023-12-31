@@ -4,13 +4,13 @@ number: "651.712"
 title: Verordnung über die Quellensteuer
 short: QStV-AG
 language: de
-version: 2023-01-01
-valid_until: 2023-12-31
-version_adopted: 2022-11-23
+version: 2024-01-01
+valid_until: 2024-12-31
+version_adopted: 2023-11-22
 adopted: 2020-11-11
 in_force: 2021-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/651.712"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3274/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3678/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3274/pdf_file"
 
 (QStV-AG)
 
-Vom 11.11.2020 (Stand 01.01.2023)
+Vom 11.11.2020 (Stand 01.01.2024)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -253,13 +253,13 @@ beschliesst:
 
 **Ablieferung der Quellensteuer durch die AHV-Ausgleichskassen**
 
-<sup>1</sup> Die AHV-Ausgleichskassen mit Sitz im Kanton haben die im vereinfachten Verfahren erhobenen Quellensteuern an die Steuerbehörde des Kantons abzuliefern, in dem der Arbeitnehmende am 31. Dezember der massgebenden Abrechnungsperiode seinen Wohnsitz hatte.
+<sup>1</sup> Die AHV-Ausgleichskasse überweist die einkassierten Steuerzahlungen nach Abzug der ihr zustehenden Bezugsprovision an die Steuerbehörde des Kantons, in dem die quellensteuerpflichtige Person ihren Wohnsitz hat.
 
-<sup>2</sup> Hat der Arbeitnehmende Wohnsitz oder Aufenthalt im Ausland, haben die AHV-Ausgleichskassen die im vereinfachten Verfahren erhobenen Quellensteuern an die Steuerbehörde des Kantons abzuliefern, in dem der Arbeitnehmende am 31. Dezember der massgebenden Abrechnungsperiode seinen Arbeitsort hatte.
+<sup>2</sup> …
 
-<sup>3</sup> Sind der AHV-Ausgleichskasse weder Wohnsitz noch Arbeitsort des Arbeitnehmenden bekannt, sind die Quellensteuern mit der Steuerbehörde am Sitz des Arbeitgebenden abzurechnen.
+<sup>3</sup> …
 
-<sup>4</sup> Die Abrechnungen der Quellensteuern haben bis spätestens Ende Juni des nächsten Jahres zu erfolgen.
+<sup>4</sup> …
 
 #### § 25
 
