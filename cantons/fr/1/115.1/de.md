@@ -4,13 +4,13 @@ number: "115.1"
 title: Gesetz über die Ausübung der politischen Rechte
 short: PRG
 language: de
-version: 2023-06-01
-valid_until: 2023-12-31
-version_adopted: 2023-05-17
+version: 2024-01-01
+valid_until: 2026-06-30
+version_adopted: 2023-10-10
 adopted: 2001-04-06
 in_force: 2001-08-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/115.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/7769/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8106/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Politische Rechte – G
 
 (PRG)
 
-vom 06.04.2001 (Fassung in Kraft getreten am 01.06.2023)
+vom 06.04.2001 (Fassung in Kraft getreten am 01.01.2024)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -228,7 +228,7 @@ beschliesst:
 
 <sup>1</sup> Vor jedem eidgenössischen, kantonalen oder kommunalen Urnengang erhält jede stimmberechtigte Person von der Gemeindeschreiberei:
 
-- a) den Stimmrechtsausweis, der die im Ausführungsreglement aufgeführten Angaben enthält;
+- a) den Stimmrechtsausweis mit einem Code oder einer anderen elektronischen Lösung, die das Stimmrecht bescheinigt, und den im Ausführungsreglement aufgeführten Angaben;
 - b) das im Ausführungsreglement vorgesehene Stimm- und Informationsmaterial.
 
 <sup>2</sup> Die Stimmberechtigten müssen das Stimmmaterial innerhalb der folgenden Fristen erhalten:
@@ -239,6 +239,15 @@ beschliesst:
 <sup>3</sup> Bei eidgenössischen und kantonalen Urnengängen hat jede stimmberechtigte Person das Recht, das Material in der Amtssprache ihrer Wahl zu erhalten. Dies gilt in Gemeinden, in denen die Zweisprachigkeit allgemein praktiziert wird, auch für kommunale Urnengänge.
 
 <sup>4</sup> Das Wahlbüro sorgt dafür, dass das Stimmmaterial den Stimmberechtigten beim Urnengang zur Verfügung steht.
+
+<sup>5</sup> Der Code oder die andere elektronische Lösung im Sinne von Absatz 1 enthält die persönliche Identifikationsnummer, welche die Stimmberechtigten mit dem Stimmrechtsausweis verbindet, und, wenn nötig, die folgenden Daten:
+
+- a) die Erwähnung der schweizerischen oder ausländischen Staatsangehörigkeit (ohne Angabe der Staatsangehörigkeit);
+- b) das Geschlecht;
+- c) das Geburtsjahr;
+- d) die Nummer der Wohnsitzgemeinde.
+
+<sup>6</sup> Die im vorangehenden Absatz genannten Daten dürfen nur zum Zweck der Überprüfung der Stimmberechtigung verwendet werden.
 
 #### Art. 12a
 
@@ -1403,7 +1412,7 @@ beschliesst:
 
 #### Art. 91
 
-**Zweiter Wahlgang – Rückzug von Kandidaturen und Ersatz**
+**Zweiter Wahlgang – Einreichung der Wahllisten**
 
 <sup>1</sup> Die zum zweiten Wahlgang zugelassenen Personen können ihre Kandidatur zurückziehen. Sie müssen dies bis spätestens am Mittwoch der dritten Woche vor der Wahl um 12 Uhr mitteilen:
 
@@ -2035,7 +2044,7 @@ beschliesst:
 
 #### Art. 136h
 
-<sup>1</sup> Steht dem Inkrafttreten eines Erlasses unter dem Gesichtspunkt der Ausübung der Volksrechte nichts oder nichts mehr entgegen, so veröffentlicht die Staatskanzlei diese Angabe unverzüglich in der Amtlichen Sammlung.
+<sup>1</sup> Steht dem Inkrafttreten eines Erlasses, der dem Referendum untersteht, unter dem Gesichtspunkt der Ausübung der Volksrechte nichts mehr entgegen, so veröffentlicht die Staatskanzlei diese Angabe unverzüglich in der Amtlichen Sammlung.
 
 ### 4.4 Initiative und Referendum in Gemeindeangelegenheiten
 

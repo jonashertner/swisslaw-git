@@ -4,13 +4,13 @@ number: "115.1"
 title: "Loi sur l'exercice des droits politiques"
 short: LEDP
 language: fr
-version: 2023-06-01
-valid_until: 2023-12-31
-version_adopted: 2023-05-17
+version: 2024-01-01
+valid_until: 2026-06-30
+version_adopted: 2023-10-10
 adopted: 2001-04-06
 in_force: 2001-08-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/115.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7769/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8106/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Droits politiques – L
 
 (LEDP)
 
-du 06.04.2001 (version entrée en vigueur le 01.06.2023)
+du 06.04.2001 (version entrée en vigueur le 01.01.2024)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -173,7 +173,7 @@ Décrète:
 
 <sup>3</sup> Le conseil communal peut dispenser les personnes qui, sur demande écrite, justifient d'un empêchement majeur.
 
-[^8-1]: Actuellement: Service des affaires institutionnelles, des naturalisations et de l'état civil.
+[^8-1]: Actuellement: Service de l'état civil et des naturalisations.
 
 #### Art. 9
 
@@ -228,7 +228,7 @@ Décrète:
 
 <sup>1</sup> Avant tout scrutin fédéral, cantonal ou communal, chaque personne habile à voter reçoit, par l'intermédiaire du secrétariat communal:
 
-- a) le certificat de capacité civique comprenant les mentions prévues dans le règlement d'exécution;
+- a) le certificat de capacité civique, comprenant un code ou une autre solution électronique attestant de la capacité civique, ainsi que les mentions prévues dans le règlement d'exécution;
 - b) le matériel de vote et d'information prévu dans le règlement d'exécution.
 
 <sup>2</sup> Les délais pour la réception du matériel de vote sont les suivants:
@@ -239,6 +239,15 @@ Décrète:
 <sup>3</sup> En matière fédérale et cantonale, les personnes ayant l'exercice des droits politiques ont le droit d'obtenir le matériel de vote dans la langue officielle de leur choix. Il en va de même en matière communale, dans les communes où une pratique bilingue est généralisée.
 
 <sup>4</sup> Le bureau électoral veille à ce que du matériel de vote soit à la disposition des électeurs et électrices lors du scrutin.
+
+<sup>5</sup> Le code ou l'autre solution électronique au sens de l'aliéna premier contient le numéro d'identification personnel reliant le citoyen ou la citoyenne au certificat de capacité civique ainsi que, au besoin, les données suivantes:
+
+- a) la mention de la nationalité suisse ou étrangère (sans indication de la nationalité);
+- b) le genre;
+- c) l'année de naissance;
+- d) le numéro de la commune de domicile.
+
+<sup>6</sup> Les données mentionnées à l'alinéa qui précède ne peuvent être utilisées qu'aux fins de vérification de la qualité d'électeur ou d'électrice.
 
 #### Art. 12a
 
@@ -2035,7 +2044,7 @@ Décrète:
 
 #### Art. 136h
 
-<sup>1</sup> Lorsque, sous l'angle de l'exercice des droits populaires, rien ou plus rien ne s'oppose à l'entrée en vigueur d'un acte, la Chancellerie d'Etat publie sans délai cette information dans le Recueil officiel fribourgeois.
+<sup>1</sup> Lorsque, sous l'angle de l'exercice des droits populaires, plus rien ne s'oppose à l'entrée en vigueur d'un acte soumis à referendum, la Chancellerie d'Etat publie sans délai cette information dans le Recueil officiel fribourgeois.
 
 ### 4.4 Initiative et referendum en matière communale
 
