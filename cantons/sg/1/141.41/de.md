@@ -1,25 +1,25 @@
 ---
 canton: SG
 number: "141.41"
-title: Ermächtigungsverordnung
-short: ErmV
+title: Delegationsverordnung
+short: DelV
 language: de
-version: 2023-06-01
-valid_until: 2023-12-31
-version_adopted: 2023-04-25
+version: 2024-01-01
+valid_until: 2024-06-30
+version_adopted: 2023-11-21
 adopted: 2011-01-04
 in_force: 2011-02-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/141.41"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3503/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3581/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Ermächtigungsverordnung
+# Delegationsverordnung
 
-(ErmV)
+(DelV)
 
-vom 04.01.2011 (Stand 01.06.2023)
+vom 04.01.2011 (Stand 01.01.2024)
 
 Die Regierung des Kantons St.Gallen
 
@@ -30,7 +30,7 @@ gestützt auf Art. 27 des Staatsverwaltungsgesetzes vom 16. Juni 1994[^ingress-1
 als Verordnung:[^ingress-2]
 
 [^ingress-1]: sGS [140.1](https://www.gesetzessammlung.sg.ch/data/140.1/de).
-[^ingress-2]: Abgekürzt ErmV. In Vollzug ab 1. Februar 2011.
+[^ingress-2]: Abgekürzt DelV. In Vollzug ab 1. Februar 2011.
 
 #### Art. 1
 
