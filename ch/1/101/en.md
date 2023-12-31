@@ -4,11 +4,11 @@ title: Federal Constitution of 18 April 1999 of the Swiss Confederation
 short: Cst.
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/404"
 language: en
-version: 2022-02-13
+version: 2024-01-01
 adopted: 1999-04-18
 in_force: 2000-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/404/20220213/en/xml/fedlex-data-admin-ch-eli-cc-1999-404-20220213-en-xml-14.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/404/20220213/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/404/20240101/en/xml/fedlex-data-admin-ch-eli-cc-1999-404-20240101-en-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/404/20240101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/404/20220213/en"
 
 English is not an official language of the Swiss Confederation. This translation is provided for information purposes only and has no legal force.
 
-of 18 April 1999 (Status as of 13 February 2022)
+of 18 April 1999 (Status as of 1 January 2024)
 
 **Preamble**
 
@@ -1928,6 +1928,25 @@ The Confederation may levy a direct tax:
 
 <sup>3</sup> The Confederation may issue regulations to prevent unjustified tax benefits.
 
+#### Art. 129a
+
+**Special taxation of large corporate groups**[^129a-1]
+
+<sup>1</sup> The Confederation may issue regulations for large corporate groups on being taxed in the market state and on a minimum rate of tax.
+
+<sup>2</sup> In doing so, it shall be guided by international standards und model regulations.
+
+<sup>3</sup>
+
+In order to safeguard the interests of the Swiss economy as a whole, it may derogate from:
+
+- a. the principles of universality and uniformity of taxation and the principle of taxation according to ability to pay in accordance with Article 127 paragraph 2;
+- b. the maximum tax rates in accordance with Article 128 paragraph 1;
+- c. the regulations on enforcement in accordance with the first sentence of Article 128 paragraph 4;
+- d. the matters excluded from tax harmonisation in accordance with the second sentence of Article 129 paragraph 2.
+
+[^129a-1]: Adopted by the popular vote on 18 June 2023, in force since 1 Jan. 2024 (FedD of 16 Dec. 2022, FCD of 12 April 2023, FCD of 28 Aug. 2023 – [AS 2023 482](https://fedlex.data.admin.ch/eli/oc/2023/482); [BBl 2022 1700](https://fedlex.data.admin.ch/eli/fga/2022/1700); [2023 970](https://fedlex.data.admin.ch/eli/fga/2023/970), [2015](https://fedlex.data.admin.ch/eli/fga/2023/2015)).
+
 #### Art. 130
 
 **Value added tax<sup>\*</sup>**[^130-1]
@@ -1936,16 +1955,22 @@ The Confederation may levy a direct tax:
 
 <sup>2</sup> The law may provide for the taxation of accommodation services at a rate between the reduced rate and the standard rate.[^130-2]
 
-<sup>3</sup> If, due to demographic changes, the financing of the Old-Age, Survivors’ and Invalidity Insurance is no longer guaranteed, the standard rate may be increased by federal act by a maximum of 1 percentage point and the reduced rate by a maximum of 0.3 of a percentage point.[^130-3]
+<sup>3</sup> If, due to demographic changes, the funding of the Old-Age, Survivors’ and Invalidity Insurance is no longer guaranteed, the standard rate may be increased by federal act by a maximum of 1 percentage point and the reduced rate by a maximum of 0.3 of a percentage point.[^130-3]
 
 <sup>3bis</sup> In order to finance railway infrastructure, the rates shall be increased by 0.1 of a percentage point.[^130-4]
+
+<sup>3ter</sup> In order to safeguard funding for the Old-Age and Survivors’ Insurance, the Federal Council shall raise the standard rate by 0.4 of a percentage point, and the reduced rate and special rate for accommodation services each by 0.1 of a percentage point, provided the principle of standardising the reference age for men and women in the Old-Age and Survivors’ Insurance is enshrined in law.[^130-5]
+
+<sup>3quater</sup> The entire revenue from the increase in accordance with paragraph 3<sup>ter</sup> shall be allocated to the Compensation Fund for the Old-Age and Survivors’ Insurance.[^130-6]
 
 <sup>4</sup> 5 per cent of the non-earmarked revenues shall be used to reduce the health insurance premiums of persons on low incomes, unless an alternative method of assisting such persons is provided for by law.
 
 [^130-1]: Adopted by the popular vote on 28 Nov. 2004, in force since 1 Jan. 2007 (FedD of 19 March 2004, FCD of 26 Jan. 2005, FCD of 2 Feb. 2006; AS **2006** 1057; BBl **2003** 1531, **2004** 1363, **2005** 951). <sup>\*</sup> With transitional provision
-[^130-2]: The legislature has made use of this power; see Art. 25 para. 4 of the Value Added Tax Act of 12 June 2009 ([SR 641.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8079)), under which the rate of value added tax amounts to 3.7% (special rate for accommodation services), valid from 1 Jan. 2018 until 31 Dec. 2027.
-[^130-3]: The legislature has made use of this power; see Art. 25 para. 1 and 2 of the Value Added Tax Act of 12 June 2009 ([SR 641.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8079)) under which the rates of value added tax amounts to 7.7% (standard rate) and 2.5% (reduced rate) valid from 1 Jan. 2018 until 31 Dec. 2027.
+[^130-2]: The legislature has made use of this power; see Art. 25 para. 4 of the Value Added Tax Act of 12 June 2009 ([SR 641.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8079)), under which the rate of value added tax amounts to 3.8% (special rate for accommodation services).
+[^130-3]: The legislature has made use of this power; see Art. 25 para. 1 and 2 of the Value Added Tax Act of 12 June 2009 ([SR 641.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8079)) under which the rates of value added tax amounts to 8.1% (standard rate) and 2.6% (reduced rate).
 [^130-4]: Adopted by the popular vote on 9 Feb. 2014, in force since 1 Jan. 2016 (FedD of 20 June 2013, FCD of 13 May 2014, FCD of 2 June 2014, FCD of 6 June 2014; [AS 2015 645](https://fedlex.data.admin.ch/eli/oc/2015/104); [BBl 20106637](https://fedlex.data.admin.ch/eli/fga/2010/1168), [2012 1577](https://fedlex.data.admin.ch/eli/fga/2012/305), [2013 4725](https://fedlex.data.admin.ch/eli/fga/2013/897)[6518](https://fedlex.data.admin.ch/eli/fga/2013/1136), [2014 4113](https://fedlex.data.admin.ch/eli/fga/2014/970)[4117](https://fedlex.data.admin.ch/eli/fga/2014/972)).
+[^130-5]: Adopted by the popular vote on 25 Sept. 2022, in force since 1 Jan. 2024 (FedD of 17 Dec. 2021, FCD of 9 Dec. 2022, FCD of 20 Feb. 2023 – [AS 2023 91](https://fedlex.data.admin.ch/eli/oc/2023/91); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267); [2021 2991](https://fedlex.data.admin.ch/eli/fga/2021/2991); [2023 486](https://fedlex.data.admin.ch/eli/fga/2023/486)).
+[^130-6]: Adopted by the popular vote on 25 Sept. 2022, in force since 1 Jan. 2024 (FedD of 17 Dec. 2021, FCD of 9 Dec. 2022, FCD of 20 Feb. 2023 – [AS 2023 91](https://fedlex.data.admin.ch/eli/oc/2023/91); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267); [2021 2991](https://fedlex.data.admin.ch/eli/fga/2021/2991); [2023 486](https://fedlex.data.admin.ch/eli/fga/2023/486)).
 
 #### Art. 131
 
@@ -2949,11 +2974,17 @@ From the date on which the Federal Decree of 3 October 2003[^197-subdivu4-2] on 
 
 [^197-subdivu6-1]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
-### 7. Transitional Provision to Art. 120 (Non-human gene technology)
+### 6.
 
 [^197-subdivu7-1]
 
-[^197-subdivu7-1]: Adopted by the popular vote on 27 Nov. 2005, in force since 27 Nov. 2005 (FedD of 17 June 2005, FCD of 19 Jan. 2006; [AS 2006 89](https://fedlex.data.admin.ch/eli/oc/2006/23); [BBl 2003 6903](https://fedlex.data.admin.ch/eli/fga/2003/1148), [2004 4937](https://fedlex.data.admin.ch/eli/fga/2004/882), [2005 4039](https://fedlex.data.admin.ch/eli/fga/2005/591), [2006 1061](https://fedlex.data.admin.ch/eli/fga/2006/111)).
+[^197-subdivu7-1]: This number has no provision.
+
+### 7. Transitional Provision to Art. 120 (Non-human gene technology)
+
+[^197-subdivu8-1]
+
+[^197-subdivu8-1]: Adopted by the popular vote on 27 Nov. 2005, in force since 27 Nov. 2005 (FedD of 17 June 2005, FCD of 19 Jan. 2006; [AS 2006 89](https://fedlex.data.admin.ch/eli/oc/2006/23); [BBl 2003 6903](https://fedlex.data.admin.ch/eli/fga/2003/1148), [2004 4937](https://fedlex.data.admin.ch/eli/fga/2004/882), [2005 4039](https://fedlex.data.admin.ch/eli/fga/2005/591), [2006 1061](https://fedlex.data.admin.ch/eli/fga/2006/111)).
 
 Swiss agriculture shall remain free of gene technology for a period of five years following the adoption of this constitutional provision. In particular, the following may neither be imported nor placed on the market:
 
@@ -2962,17 +2993,17 @@ Swiss agriculture shall remain free of gene technology for a period of five year
 
 ### 8. Transitional provision to Art. 121 (Residence and Permanent Settlement of Foreign Nationals)
 
-[^197-subdivu8-1]
+[^197-subdivu9-1]
 
-[^197-subdivu8-1]: Adopted by the popular vote on 28 Nov. 2010, in force since 28 Nov. 2010 (FedD of 18 June 2010, FCD of 17 March 2011; [AS 2011 1199](https://fedlex.data.admin.ch/eli/oc/2011/175); [BBl 2008 1927](https://fedlex.data.admin.ch/eli/fga/2008/430), [2009 5097](https://fedlex.data.admin.ch/eli/fga/2009/876), [2010 4241](https://fedlex.data.admin.ch/eli/fga/2010/717), [2011 2771](https://fedlex.data.admin.ch/eli/fga/2011/395)).
+[^197-subdivu9-1]: Adopted by the popular vote on 28 Nov. 2010, in force since 28 Nov. 2010 (FedD of 18 June 2010, FCD of 17 March 2011; [AS 2011 1199](https://fedlex.data.admin.ch/eli/oc/2011/175); [BBl 2008 1927](https://fedlex.data.admin.ch/eli/fga/2008/430), [2009 5097](https://fedlex.data.admin.ch/eli/fga/2009/876), [2010 4241](https://fedlex.data.admin.ch/eli/fga/2010/717), [2011 2771](https://fedlex.data.admin.ch/eli/fga/2011/395)).
 
 The legislature must define and add to the offences covered by Article 121 paragraph 3 and issue the criminal provisions relating to illegal entry in accordance with Article 121 paragraph 6 within five years of the adoption of Article 121 paragraphs 3–6 by the People and the Cantons.
 
 ### 9. Transitional provision to Art. 75b (Second homes)
 
-[^197-subdivu9-1]
+[^197-subdivu10-1]
 
-[^197-subdivu9-1]: Adopted by the popular vote on 11 March 2012, in force since 11 March 2012 (FedD of 17 June 2011, FCD of 20 June 2012; [AS 2012 3627](https://fedlex.data.admin.ch/eli/oc/2012/416); [BBl 2008 1113](https://fedlex.data.admin.ch/eli/fga/2008/235)[8757](https://fedlex.data.admin.ch/eli/fga/2008/1556), [2011 4825](https://fedlex.data.admin.ch/eli/fga/2011/766), [2012 6623](https://fedlex.data.admin.ch/eli/fga/2012/969)).
+[^197-subdivu10-1]: Adopted by the popular vote on 11 March 2012, in force since 11 March 2012 (FedD of 17 June 2011, FCD of 20 June 2012; [AS 2012 3627](https://fedlex.data.admin.ch/eli/oc/2012/416); [BBl 2008 1113](https://fedlex.data.admin.ch/eli/fga/2008/235)[8757](https://fedlex.data.admin.ch/eli/fga/2008/1556), [2011 4825](https://fedlex.data.admin.ch/eli/fga/2011/766), [2012 6623](https://fedlex.data.admin.ch/eli/fga/2012/969)).
 
 <sup>1</sup> If the relevant legislation does not come into force within two years of the adoption of Article 75*b*, the Federal Council shall issue the required implementing provisions on construction, sale and recording in the land register by ordinance.
 
@@ -2980,17 +3011,17 @@ The legislature must define and add to the offences covered by Article 121 parag
 
 ### 10. Transitional provision to Art. 95 para. 3
 
-[^197-subdivu10-1]
+[^197-subdivu11-1]
 
-[^197-subdivu10-1]: Adopted by the popular vote on 3 March 2013, in force since 3 March 2013 (FCD of 15 Nov. 2012 und 30 April 2013; [AS 2013 1303](https://fedlex.data.admin.ch/eli/oc/2013/297); [BBl 2006 8755](https://fedlex.data.admin.ch/eli/fga/2006/1115), [2008 2577](https://fedlex.data.admin.ch/eli/fga/2008/557), [2009 299](https://fedlex.data.admin.ch/eli/fga/2009/37), [2012 9219](https://fedlex.data.admin.ch/eli/fga/2012/1688), [2013 3129](https://fedlex.data.admin.ch/eli/fga/2013/646)).
+[^197-subdivu11-1]: Adopted by the popular vote on 3 March 2013, in force since 3 March 2013 (FCD of 15 Nov. 2012 und 30 April 2013; [AS 2013 1303](https://fedlex.data.admin.ch/eli/oc/2013/297); [BBl 2006 8755](https://fedlex.data.admin.ch/eli/fga/2006/1115), [2008 2577](https://fedlex.data.admin.ch/eli/fga/2008/557), [2009 299](https://fedlex.data.admin.ch/eli/fga/2009/37), [2012 9219](https://fedlex.data.admin.ch/eli/fga/2012/1688), [2013 3129](https://fedlex.data.admin.ch/eli/fga/2013/646)).
 
 Until the statutory provisions come into force, the Federal Council shall issue the required implementing provisions within one year of the adoption of Article 95 paragraph 3 by the People and the Cantons.
 
 ### 11. Transitional provision to Art. 121a (Control of immigration)
 
-[^197-subdivu11-1]
+[^197-subdivu12-1]
 
-[^197-subdivu11-1]: Adopted by the popular vote on 9 Feb. 2014, in force since 9 Feb. 2014 (FedD of 27 Sept. 2013, FCD of 13 May 2014; [AS 2014 1391](https://fedlex.data.admin.ch/eli/oc/2014/295); [BBl 2011 6269](https://fedlex.data.admin.ch/eli/fga/2011/924), [2012 3869](https://fedlex.data.admin.ch/eli/fga/2012/506), [2013 291](https://fedlex.data.admin.ch/eli/fga/2013/50)[7351](https://fedlex.data.admin.ch/eli/fga/2013/1414), [2014 4117](https://fedlex.data.admin.ch/eli/fga/2014/972)).
+[^197-subdivu12-1]: Adopted by the popular vote on 9 Feb. 2014, in force since 9 Feb. 2014 (FedD of 27 Sept. 2013, FCD of 13 May 2014; [AS 2014 1391](https://fedlex.data.admin.ch/eli/oc/2014/295); [BBl 2011 6269](https://fedlex.data.admin.ch/eli/fga/2011/924), [2012 3869](https://fedlex.data.admin.ch/eli/fga/2012/506), [2013 291](https://fedlex.data.admin.ch/eli/fga/2013/50)[7351](https://fedlex.data.admin.ch/eli/fga/2013/1414), [2014 4117](https://fedlex.data.admin.ch/eli/fga/2014/972)).
 
 <sup>1</sup> International agreements that contradict Article 121*a* must be renegotiated and amended within three years of its adoption by the People and the Cantons.
 
@@ -2998,17 +3029,17 @@ Until the statutory provisions come into force, the Federal Council shall issue 
 
 ### 12. Transitional provision to Art. 10a (Ban on covering the face)
 
-[^197-subdivu12-1]
+[^197-subdivu13-1]
 
-[^197-subdivu12-1]: Adopted by the popular vote on 7 March 2021, in force since 7 March 2021 (FedD of 19 June 2020, FCD of 31 May 2021 – [AS 2021 310](https://fedlex.data.admin.ch/eli/oc/2021/310); [BBl 2017 6447](https://fedlex.data.admin.ch/eli/fga/2017/1844); [2019 2913](https://fedlex.data.admin.ch/eli/fga/2019/868); [2020 5507](https://fedlex.data.admin.ch/eli/fga/2020/1295); [2021 1185](https://fedlex.data.admin.ch/eli/fga/2021/1185)).
+[^197-subdivu13-1]: Adopted by the popular vote on 7 March 2021, in force since 7 March 2021 (FedD of 19 June 2020, FCD of 31 May 2021 – [AS 2021 310](https://fedlex.data.admin.ch/eli/oc/2021/310); [BBl 2017 6447](https://fedlex.data.admin.ch/eli/fga/2017/1844); [2019 2913](https://fedlex.data.admin.ch/eli/fga/2019/868); [2020 5507](https://fedlex.data.admin.ch/eli/fga/2020/1295); [2021 1185](https://fedlex.data.admin.ch/eli/fga/2021/1185)).
 
 The implementing legislation for Article 10*a* must be drawn up within two years of its adoption by the People and the Cantons.
 
 ### 13. Transitional provision to Art. 117b (Nursing care)
 
-[^197-subdivu13-1]
+[^197-subdivu14-1]
 
-[^197-subdivu13-1]: Adopted by the popular vote on 28 Nov. 2021, in force since 28 Nov. 2021 (FedD of 18 June 2021, FCD of 11 April 2022 – [AS 2022 240](https://fedlex.data.admin.ch/eli/oc/2022/240); [BBl 2017 7724](https://fedlex.data.admin.ch/eli/fga/2017/2238), [2018 7653](https://fedlex.data.admin.ch/eli/fga/2018/2676), [2021 1488](https://fedlex.data.admin.ch/eli/fga/2021/1488), [2022 894](https://fedlex.data.admin.ch/eli/fga/2022/894)).
+[^197-subdivu14-1]: Adopted by the popular vote on 28 Nov. 2021, in force since 28 Nov. 2021 (FedD of 18 June 2021, FCD of 11 April 2022 – [AS 2022 240](https://fedlex.data.admin.ch/eli/oc/2022/240); [BBl 2017 7724](https://fedlex.data.admin.ch/eli/fga/2017/2238), [2018 7653](https://fedlex.data.admin.ch/eli/fga/2018/2676), [2021 1488](https://fedlex.data.admin.ch/eli/fga/2021/1488), [2022 894](https://fedlex.data.admin.ch/eli/fga/2022/894)).
 
 <sup>1</sup>
 
@@ -3029,15 +3060,60 @@ The Confederation shall, within the scope of its powers, enact implementing prov
 
 ### 14. Transitional provision to Art. 118 para. 2 let. b (Health protection)
 
-[^197-subdivu14-1]
+[^197-subdivu15-1]
 
-[^197-subdivu14-1]: Adopted by the popular vote on 13 Feb. 2022, in force since 13 Feb. 2022 (FedD of 1 Oct. 2021, FCD of 11 April 2022 – [AS 2022 241](https://fedlex.data.admin.ch/eli/oc/2022/241); [BBl 2019 6883](https://fedlex.data.admin.ch/eli/fga/2019/2386); [2020 7049](https://fedlex.data.admin.ch/eli/fga/2020/1895); [2021 2315](https://fedlex.data.admin.ch/eli/fga/2021/2315); [2022 895](https://fedlex.data.admin.ch/eli/fga/2022/895)).
+[^197-subdivu15-1]: Adopted by the popular vote on 13 Feb. 2022, in force since 13 Feb. 2022 (FedD of 1 Oct. 2021, FCD of 11 April 2022 – [AS 2022 241](https://fedlex.data.admin.ch/eli/oc/2022/241); [BBl 2019 6883](https://fedlex.data.admin.ch/eli/fga/2019/2386); [2020 7049](https://fedlex.data.admin.ch/eli/fga/2020/1895); [2021 2315](https://fedlex.data.admin.ch/eli/fga/2021/2315); [2022 895](https://fedlex.data.admin.ch/eli/fga/2022/895)).
 
 The Federal Assembly shall approve the statutory implementing provisions within three years of the adoption of Article 118 paragraph 2 letter b by the People and Cantons.
 
-Commencement Date: 1 January 2000[^197-subdivu14-2]
+### 15. Transitional provision to Art. 129a (Special taxation of large corporate groups)
 
-[^197-subdivu14-2]: FedD of 28 Sept. 1999 ([AS 1999 2555](https://fedlex.data.admin.ch/eli/oc/1999/403); [BBl 1999 7922](https://fedlex.data.admin.ch/eli/fga/1999/1_7922_7145_6784)).
+[^197-subdivu16-1]
+
+[^197-subdivu16-1]: Adopted by the popular vote on 18 June 2023, in force since 1 Jan. 2024 (FedD of 16 Dec. 2022, FCD of 12 April 2023, FCD of 28 Aug. 2023 – [AS 2023 482](https://fedlex.data.admin.ch/eli/oc/2023/482); [BBl 2022 1700](https://fedlex.data.admin.ch/eli/fga/2022/1700); [2023 970](https://fedlex.data.admin.ch/eli/fga/2023/970), [2015](https://fedlex.data.admin.ch/eli/fga/2023/2015)).
+
+<sup>1</sup> Until the statutory provisions come into force, the Federal Council may issue the required regulations on the minimum rate of tax for large corporate groups.
+
+<sup>2</sup>
+
+In doing so, it shall observe the following principles:
+
+- a. The regulations apply to the business units of any multinational corporate group that achieves a consolidated annual turnover of 750 million euros.
+- b. If the total tax payable by the business units in Switzerland or in another tax jurisdiction fall below the minimum tax payable at a rate of 15 per cent of the relevant profits, the Confederation shall levy a supplementary tax to compensate for the difference between the effective tax rate and the minimum tax rate.
+- c. Relevant taxes are in particular the direct taxes indicated in the income statement of the business units.
+- d. The relevant profit of a business unit is the profit or loss calculated for the consolidated financial statements of the group of companies in accordance with a recognised accounting standard before eliminating transactions between the business units and after taking other adjustments into account; profits and losses from international shipping are not taken into account.
+- e. The effective tax rate in a tax jurisdiction is calculated by dividing the sum of the relevant taxes payable by all business units in this tax jurisdiction by the sum of the relevant profits of these business units.
+- f. The supplementary tax for a tax jurisdiction is calculated by multiplying the profit surplus by the supplementary tax rate.
+- g. The profit surplus in a tax jurisdiction is the sum of the relevant profits of all business units in this tax jurisdiction after the permitted deduction for tangible assets and labour costs.
+- h. The supplementary tax rate for a tax jurisdiction corresponds to the positive difference between 15 per cent and the effective tax rate.
+- i. In the event of under-taxation in Switzerland, the supplementary tax is levied on the domestic business units in proportion to the extent to which they have contributed to the under-taxation.
+- j. In the event of under-taxation in another tax jurisdiction, the supplementary tax is primarily levied on the principal domestic business unit and secondarily on all domestic business units.
+
+<sup>3</sup>
+
+The Federal Council may issue supplementary regulations on implementing the minimum rate of tax, in particular on:
+
+- a. taking account of the specific company circumstances;
+- b. whether the supplementary tax may be deducted as an expense for the purpose of federal and cantonal income taxes;
+- c. the procedure and rights of appeal;
+- d. the criminal provisions in accordance with other criminal provisions of tax law;
+- e. the transitional arrangements.
+
+<sup>4</sup> Where the Federal Council deems it necessary in order to implement the minimum rate of tax, it may derogate from the principles set out in paragraph 2. It may declare international model regulations and related sets of rules to be applicable. It may delegate these powers to the Federal Department of Finance.
+
+<sup>5</sup> The regulations on the supplementary tax shall be enforced by the cantons under the supervision of the Federal Tax Administration. The Federal Council may provide for the reimbursement of the administrative costs incurred in enforcing these regulations.
+
+<sup>6</sup> The cantons to which the business units belong for tax purposes are entitled to 75 per cent of the gross revenue from the supplementary tax. The cantons shall take appropriate account of the communes. The gross revenue from the supplementary tax from profit tax-exempt activities of federal, cantonal and communal business units, shall be paid to the collective body concerned.
+
+<sup>7</sup> The cantonal share of the gross revenue from the supplementary tax shall be recognised as additional tax revenue in the context of the equalisation of financial resources and burdens.
+
+<sup>8</sup> If the Federal Council makes use of its power in paragraph 1, it shall submit the statutory provisions on the minimum taxation of large multinational corporate groups to Parliament within six years of the ordinance coming into force.
+
+<sup>9</sup> The Confederation shall use its share of the gross revenue from the supplementary tax, after deducting its additional expenditure for the equalisation of financial resources and burdens caused by the supplementary tax, to further promote Switzerland's attractiveness as a business location.
+
+Commencement Date: 1 January 2000[^197-subdivu16-2]
+
+[^197-subdivu16-2]: FedD of 28 Sept. 1999 ([AS 1999 2555](https://fedlex.data.admin.ch/eli/oc/1999/403); [BBl 1999 7922](https://fedlex.data.admin.ch/eli/fga/1999/1_7922_7145_6784)).
 
 ## Final Provisions of the Federal Decree of 18 December 1998
 

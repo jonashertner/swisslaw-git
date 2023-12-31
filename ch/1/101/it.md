@@ -4,18 +4,18 @@ title: Costituzione federale della Confederazione Svizzera del 18 aprile 1999
 short: Cost.
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/404"
 language: it
-version: 2022-02-13
+version: 2024-01-01
 adopted: 1999-04-18
 in_force: 2000-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/404/20220213/it/xml/fedlex-data-admin-ch-eli-cc-1999-404-20220213-it-xml-14.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/404/20220213/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/404/20240101/it/xml/fedlex-data-admin-ch-eli-cc-1999-404-20240101-it-xml-19.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/404/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Costituzione federale della Confederazione Svizzera
 
-del 18 aprile 1999 (Stato 13 febbraio 2022)
+del 18 aprile 1999 (Stato 1° gennaio 2024)
 
 **Preambolo**
 
@@ -1522,7 +1522,7 @@ In tale ambito si attiene ai principi seguenti:
 L’assicurazione è finanziata:
 
 - a. con i contributi degli assicurati; la metà dei contributi dei dipendenti è a carico del datore di lavoro;
-- [tab] b.[^112-2]con prestazioni finanziarie della Confederazione.
+- b.[^112-2] con prestazioni finanziarie della Confederazione.
 
 <sup>4</sup> Le prestazioni della Confederazione assommano a non oltre la metà delle spese.[^112-3]
 
@@ -1912,8 +1912,8 @@ La Confederazione può riscuotere un’imposta diretta:
 <sup>4</sup> I Cantoni provvedono all’imposizione e all’esazione. Ad essi spetta almeno il 17 per cento del gettito fiscale lordo. Questa quota può essere ridotta sino al 15 per cento qualora lo esigano gli effetti della perequazione finanziaria.[^128-4]
 
 [^128-1]: <sup>\*</sup> Con disposizione transitoria.
-[^128-2]: Accettata nella [votazione popolare del 28 nov. 2004](http://www.admin.ch/ch/i/pore/va/20041128/index.html), in vigore dal 1° gen. 2007 (DF del del 19 mar. 2004, DCF del 26 gen. 2005, DCF del 2 feb. 2006 – [RU 2006 1057](https://fedlex.data.admin.ch/eli/oc/2006/184); [FF 2003 1361](https://fedlex.data.admin.ch/eli/fga/2003/220), [2004 1175](https://fedlex.data.admin.ch/eli/fga/2004/254), [2005 849](https://fedlex.data.admin.ch/eli/fga/2005/116)).
-[^128-3]: Abrogata nella [votazione popolare del 28 nov. 2004](http://www.admin.ch/ch/i/pore/va/20041128/index.html), con effetto dal 1° gen. 2007 (DF del del 19 mar. 2004, DCF del 26 gen. 2005, DCF del 2 feb. 2006 – [RU 2006 1057](https://fedlex.data.admin.ch/eli/oc/2006/184); [FF 2003 1361](https://fedlex.data.admin.ch/eli/fga/2003/220), [2004 1175](https://fedlex.data.admin.ch/eli/fga/2004/254), [2005 849](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^128-2]: Accettata nella [votazione popolare del 28 nov. 2004](http://www.admin.ch/ch/i/pore/va/20041128/index.html), in vigore dal 1° gen. 2007 (DF del 19 mar. 2004, DCF del 26 gen. 2005, DCF del 2 feb. 2006 – [RU 2006 1057](https://fedlex.data.admin.ch/eli/oc/2006/184); [FF 2003 1361](https://fedlex.data.admin.ch/eli/fga/2003/220), [2004 1175](https://fedlex.data.admin.ch/eli/fga/2004/254), [2005 849](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^128-3]: Abrogata nella [votazione popolare del 28 nov. 2004](http://www.admin.ch/ch/i/pore/va/20041128/index.html), con effetto dal 1° gen. 2007 (DF del 19 mar. 2004, DCF del 26 gen. 2005, DCF del 2 feb. 2006 – [RU 2006 1057](https://fedlex.data.admin.ch/eli/oc/2006/184); [FF 2003 1361](https://fedlex.data.admin.ch/eli/fga/2003/220), [2004 1175](https://fedlex.data.admin.ch/eli/fga/2004/254), [2005 849](https://fedlex.data.admin.ch/eli/fga/2005/116)).
 [^128-4]: Accettato nella [votazione popolare del 28 nov. 2004](http://www.admin.ch/ch/i/pore/va/20041128/index.html), in vigore dal 1° gen. 2008 (DF del 3 ott. 2003, DCF del 26 gen. 2005, DCF del 7 nov. 2007 – [RU 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [FF 2002 2065](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 5745](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 849](https://fedlex.data.admin.ch/eli/fga/2005/116)).
 
 #### Art. 129
@@ -1925,6 +1925,25 @@ La Confederazione può riscuotere un’imposta diretta:
 <sup>2</sup> L’armonizzazione si estende all’assoggettamento, all’oggetto e al periodo di calcolo delle imposte, alla procedura e alle disposizioni penali. Rimangono escluse dall’armonizzazione in particolare le tariffe e aliquote fiscali e gli importi esenti da imposta.
 
 <sup>3</sup> La Confederazione può emanare prescrizioni contro il conferimento di agevolazioni fiscali ingiustificate.
+
+#### Art. 129a
+
+**Imposizione speciale dei grandi gruppi di imprese**[^129a-1]
+
+<sup>1</sup> La Confederazione può emanare, per i grandi gruppi di imprese, disposizioni concernenti un’imposizione nello Stato di commercializzazione e un’imposizione minima.
+
+<sup>2</sup> A tal fine si basa su standard e modelli di prescrizioni internazionali.
+
+<sup>3</sup>
+
+Per tutelare gli interessi dell’economia nazionale, la Confederazione può derogare:
+
+- a. ai principi della generalità e dell’uniformità dell’imposizione come pure al principio dell’imposizione secondo la capacità economica di cui all’articolo 127 capoverso 2;
+- b. alle aliquote massime di cui all’articolo 128 capoverso 1;
+- c. alle disposizioni concernenti l’esecuzione di cui all’articolo 128 capoverso 4 primo periodo;
+- d. alle esclusioni dall’armonizzazione fiscale di cui all’articolo 129 capoverso 2, secondo periodo.
+
+[^129a-1]: Accettato nella [votazione popolare del 18 giu. 2023](http://www.admin.ch/ch/i/pore/va/20230618/index.html), in vigore dal 1° gen. 2024 (DF del 16 dic. 2022, DCF del 12 apr. 2023, DCF del 28 ago. 2023 – [RU 2023 482](https://fedlex.data.admin.ch/eli/oc/2023/482); [FF 2022 1700](https://fedlex.data.admin.ch/eli/fga/2022/1700); [2023 970](https://fedlex.data.admin.ch/eli/fga/2023/970), [2015](https://fedlex.data.admin.ch/eli/fga/2023/2015)).
 
 #### Art. 130
 
@@ -1938,13 +1957,19 @@ La Confederazione può riscuotere un’imposta diretta:
 
 <sup>3bis</sup> Per finanziare l’infrastruttura ferroviaria le aliquote sono aumentate di 0,1 punti percentuali.[^130-5]
 
+<sup>3ter</sup> Per garantire il finanziamento dell’assicurazione per la vecchiaia e per i superstiti, il Consiglio federale aumenta l’aliquota ordinaria di 0,4 punti percentuali, l’aliquota ridotta di 0,1 punti percentuali e l’aliquota speciale per prestazioni del settore alberghiero di 0,1 punti percentuali, sempreché la legge sancisca il principio dell’armonizzazione dell’età di riferimento per gli uomini e per le donne nell’assicurazione per la vecchiaia e per i superstiti.[^130-6]
+
+<sup>3quater</sup> I proventi degli aumenti di cui al capoverso 3<sup>ter</sup> sono devoluti integralmente al fondo di compensazione dell’assicurazione per la vecchiaia e per i superstiti.[^130-7]
+
 <sup>4</sup> Il 5 per cento del gettito d’imposta la cui destinazione non è vincolata è impiegato per la riduzione dei premi dell’assicurazione malattie a favore delle classi di reddito inferiori, per quanto non si stabilisca per legge un’altra utilizzazione volta a sgravare queste classi di reddito.
 
-[^130-1]: Accettato nella [votazione popolare del 28 nov. 2004](http://www.admin.ch/ch/i/pore/va/20041128/index.html), in vigore dal 1° gen. 2007 (DF del del 19 mar. 2004, DCF del 26 gen. 2005, DCF del 2 feb. 2006 – [RU 2006 1057](https://fedlex.data.admin.ch/eli/oc/2006/184); [FF 2003 1361](https://fedlex.data.admin.ch/eli/fga/2003/220), [2004 1175](https://fedlex.data.admin.ch/eli/fga/2004/254), [2005 849](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^130-1]: Accettato nella [votazione popolare del 28 nov. 2004](http://www.admin.ch/ch/i/pore/va/20041128/index.html), in vigore dal 1° gen. 2007 (DF del 19 mar. 2004, DCF del 26 gen. 2005, DCF del 2 feb. 2006 – [RU 2006 1057](https://fedlex.data.admin.ch/eli/oc/2006/184); [FF 2003 1361](https://fedlex.data.admin.ch/eli/fga/2003/220), [2004 1175](https://fedlex.data.admin.ch/eli/fga/2004/254), [2005 849](https://fedlex.data.admin.ch/eli/fga/2005/116)).
 [^130-2]: <sup>\*</sup> Con disposizione transitoria.
-[^130-3]: Dal 1° gen. 2018 fino al massimo il 31 dic. 2027 l’aliquota speciale per le prestazioni del settore alberghiero ammonta al 3,7 % (art. 25 cpv. 4 della L del 12 giu. 2009 sull’IVA; [RS 641.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8079)).
-[^130-4]: Dal 1° gen. 2018 fino al massimo il 31 dic. 2030 l’aliquota normale ammonta al 7,7 % e l’aliquota ridotta al 2,5 % (art. 25 cpv. 1 e 2 della L del 12 giu. 2009 sull’IVA; [RS 641.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8079)).
-[^130-5]: Accettato nella [votazione popolare del 9 feb. 2014](http://www.admin.ch/ch/i/pore/va/20140209/index.html), in vigore dal 1° gen. 2016 (DF del 20 giu. 2013, DCF 13 mag. 2014, DCF 2 giu. 2014, DCF 6 giu. 2014 – [RU 2015 645](https://fedlex.data.admin.ch/eli/oc/2015/104); [FF 2010 5843](https://fedlex.data.admin.ch/eli/fga/2010/1168), [2012 1283](https://fedlex.data.admin.ch/eli/fga/2012/305), [2013 4003](https://fedlex.data.admin.ch/eli/fga/2013/897)5646, [2014 3507](https://fedlex.data.admin.ch/eli/fga/2014/970)[3511](https://fedlex.data.admin.ch/eli/fga/2014/972)).
+[^130-3]: Dal 1° gen. 2024 l’aliquota speciale per le prestazioni del settore alberghiero ammonta al 3,8 % (art. 25 cpv. 4 della L del 12 giu. 2009 sull’IVA; [RS 641.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8079)).
+[^130-4]: Dal 1° gen. 2024 l’aliquota normale ammonta al 8,1 % e l’aliquota ridotta al 2,6 % (art. 25 cpv. 1 e 2 della L del 12 giu. 2009 sull’IVA; [RS 641.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8079)).
+[^130-5]: Accettato nella [votazione popolare del 9 feb. 2014](http://www.admin.ch/ch/i/pore/va/20140209/index.html), in vigore dal 1° gen. 2016 (DF del 20 giu. 2013, DCF del 13 mag. 2014, DCF del 2 giu. 2014, DCF del 6 giu. 2014 – [RU 2015 645](https://fedlex.data.admin.ch/eli/oc/2015/104); [FF 2010 5843](https://fedlex.data.admin.ch/eli/fga/2010/1168), [2012 1283](https://fedlex.data.admin.ch/eli/fga/2012/305), [2013 4003](https://fedlex.data.admin.ch/eli/fga/2013/897)5646, [2014 3507](https://fedlex.data.admin.ch/eli/fga/2014/970)[3511](https://fedlex.data.admin.ch/eli/fga/2014/972)).
+[^130-6]: Accettato nella [votazione popolare del 25 set. 2022](http://www.admin.ch/ch/i/pore/va/20220925/index.html), in vigore dal 1° gen. 2024 (DF del 17 dic. 2021, DCF del 9 dic. 2022, DCF del 20 feb. 2023; [RU 2023 91](https://fedlex.data.admin.ch/eli/oc/2023/91); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267); [2021 2991](https://fedlex.data.admin.ch/eli/fga/2021/2991); [2023 486](https://fedlex.data.admin.ch/eli/fga/2023/486)).
+[^130-7]: Accettato nella [votazione popolare del 25 set. 2022](http://www.admin.ch/ch/i/pore/va/20220925/index.html), in vigore dal 1° gen. 2024 (DF del 17 dic. 2021, DCF del 9 dic. 2022, DCF del 20 feb. 2023; [RU 2023 91](https://fedlex.data.admin.ch/eli/oc/2023/91); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267); [2021 2991](https://fedlex.data.admin.ch/eli/fga/2021/2991); [2023 486](https://fedlex.data.admin.ch/eli/fga/2023/486)).
 
 #### Art. 131
 
@@ -2865,7 +2890,7 @@ La facoltà di riscuotere l’imposta federale diretta decade alla fine del 2035
 
 [^196-subdivu14-1][^196-subdivu14-2]
 
-[^196-subdivu14-1]: Accettato nella [votazione popolare del 28 nov. 2004](http://www.admin.ch/ch/i/pore/va/20041128/index.html), in vigore dal 1° gen. 2007 (DF del del 19 mar. 2004, DCF del 26 gen. 2005, DCF del 2 feb. 2006 – [RU 2006 1057](https://fedlex.data.admin.ch/eli/oc/2006/184); [FF 2003 1361](https://fedlex.data.admin.ch/eli/fga/2003/220), [2004 1175](https://fedlex.data.admin.ch/eli/fga/2004/254), [2005 849](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^196-subdivu14-1]: Accettato nella [votazione popolare del 28 nov. 2004](http://www.admin.ch/ch/i/pore/va/20041128/index.html), in vigore dal 1° gen. 2007 (DF del 19 mar. 2004, DCF del 26 gen. 2005, DCF del 2 feb. 2006 – [RU 2006 1057](https://fedlex.data.admin.ch/eli/oc/2006/184); [FF 2003 1361](https://fedlex.data.admin.ch/eli/fga/2003/220), [2004 1175](https://fedlex.data.admin.ch/eli/fga/2004/254), [2005 849](https://fedlex.data.admin.ch/eli/fga/2005/116)).
 [^196-subdivu14-2]: Accettato nella [votazione popolare del 26 set. 2009](http://www.admin.ch/ch/i/pore/va/20090926/index.html), in vigore dal 1° gen. 2011 (DF del 13 giu. 2008 e del 12 giu. 2009, DCF del 7 set. 2010 – [RU 2010 3821](https://fedlex.data.admin.ch/eli/oc/2010/542); [FF 2005 4151](https://fedlex.data.admin.ch/eli/fga/2005/721), [2008 4573](https://fedlex.data.admin.ch/eli/fga/2008/933), [2009 3753](https://fedlex.data.admin.ch/eli/fga/2009/772)[3759](https://fedlex.data.admin.ch/eli/fga/2009/774)[3761](https://fedlex.data.admin.ch/eli/fga/2009/775)[7599](https://fedlex.data.admin.ch/eli/fga/2009/1477)).
 
 <sup>1</sup> La facoltà di riscuotere l’imposta sul valore aggiunto decade alla fine del 2035.[^196-subdivu14-3]
@@ -2929,7 +2954,7 @@ Dall’entrata in vigore del decreto federale del 3 ottobre 2003[^197-subdivu2-2
 
 [^197-subdivu3-1]
 
-[^197-subdivu3-1]: L'art. 83 ha un nuovo testo. Accettato nella [votazione popolare del 28 nov. 2004](http://www.admin.ch/ch/i/pore/va/20041128/index.html), in vigore dal 1° gen. 2008 (DF del 3 ott. 2003, DCF del 26 gen. 2005, DCF del 7 nov. 2007 – [RU 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [FF 2002 2065](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 5745](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 849](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^197-subdivu3-1]: L’art. 83 ha un nuovo testo. Accettato nella [votazione popolare del 28 nov. 2004](http://www.admin.ch/ch/i/pore/va/20041128/index.html), in vigore dal 1° gen. 2008 (DF del 3 ott. 2003, DCF del 26 gen. 2005, DCF del 7 nov. 2007 – [RU 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [FF 2002 2065](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 5745](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 849](https://fedlex.data.admin.ch/eli/fga/2005/116)).
 
 I Cantoni portano a termine la costruzione delle strade nazionali elencate nel decreto federale del 21 giugno 1960[^197-subdivu3-2] concernente la rete delle strade nazionali (stato all’entrata in vigore del DF del 3 ott. 2003[^197-subdivu3-3] concernente la nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni) secondo le prescrizioni e sotto l’alta vigilanza della Confederazione. La Confederazione e i Cantoni sopperiscono insieme alle spese. La quota a carico dei singoli Cantoni è commisurata all’onere causato loro dalle strade nazionali, nonché al loro interesse per quest’ultime e alla loro capacità finanziaria.
 
@@ -2956,11 +2981,17 @@ Fino all’entrata in vigore di un disciplinamento cantonale in materia, i Canto
 
 [^197-subdivu5-2]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
-### 7. Disposizione transitoria dell’art. 120 (Ingegneria genetica in ambito non umano)
+### 6.
 
 [^197-subdivu6-1]
 
-[^197-subdivu6-1]: Accettato nella [votazione popolare del 27 nov. 2005](http://www.admin.ch/ch/i/pore/va/20051127/index.html), in vigore dal 27 nov. 2005 (DF del 17 giu. 2005, DCF del 19 gen. 2006 – [RU 2006 89](https://fedlex.data.admin.ch/eli/oc/2006/23); [FF 2003 6017](https://fedlex.data.admin.ch/eli/fga/2003/1148), [2004 4365](https://fedlex.data.admin.ch/eli/fga/2004/882), [2005 3637](https://fedlex.data.admin.ch/eli/fga/2005/591), [2006 973](https://fedlex.data.admin.ch/eli/fga/2006/111)).
+[^197-subdivu6-1]: Questa cifra non è stata utilizzata.
+
+### 7. Disposizione transitoria dell’art. 120 (Ingegneria genetica in ambito non umano)
+
+[^197-subdivu7-1]
+
+[^197-subdivu7-1]: Accettato nella [votazione popolare del 27 nov. 2005](http://www.admin.ch/ch/i/pore/va/20051127/index.html), in vigore dal 27 nov. 2005 (DF del 17 giu. 2005, DCF del 19 gen. 2006 – [RU 2006 89](https://fedlex.data.admin.ch/eli/oc/2006/23); [FF 2003 6017](https://fedlex.data.admin.ch/eli/fga/2003/1148), [2004 4365](https://fedlex.data.admin.ch/eli/fga/2004/882), [2005 3637](https://fedlex.data.admin.ch/eli/fga/2005/591), [2006 973](https://fedlex.data.admin.ch/eli/fga/2006/111)).
 
 Nei cinque anni seguenti l’accettazione della presente disposizione costituzionale l’agricoltura svizzera non utilizza organismi geneticamente modificati. Non possono in particolare essere importati né messi in circolazione:
 
@@ -2969,17 +3000,17 @@ Nei cinque anni seguenti l’accettazione della presente disposizione costituzio
 
 ### 8. Disposizione transitoria dell’art. 121 (Dimora e domicilio degli stranieri)
 
-[^197-subdivu7-1]
+[^197-subdivu8-1]
 
-[^197-subdivu7-1]: Accettato nella [votazione popolare del 28 nov. 2010](http://www.admin.ch/ch/i/pore/va/20101128/index.html), in vigore dal 28 nov. 2010 (DF del 18 giu. 2010, DCF del 17 mag. 2011 – [RU 2011 1199](https://fedlex.data.admin.ch/eli/oc/2011/175); [FF 2008 1649](https://fedlex.data.admin.ch/eli/fga/2008/430), [2009 4427](https://fedlex.data.admin.ch/eli/fga/2009/876), **2010** 3171, [2011 2529](https://fedlex.data.admin.ch/eli/fga/2011/395)).
+[^197-subdivu8-1]: Accettato nella [votazione popolare del 28 nov. 2010](http://www.admin.ch/ch/i/pore/va/20101128/index.html), in vigore dal 28 nov. 2010 (DF del 18 giu. 2010, DCF del 17 mag. 2011 – [RU 2011 1199](https://fedlex.data.admin.ch/eli/oc/2011/175); [FF 2008 1649](https://fedlex.data.admin.ch/eli/fga/2008/430), [2009 4427](https://fedlex.data.admin.ch/eli/fga/2009/876), **2010** 3171, [2011 2529](https://fedlex.data.admin.ch/eli/fga/2011/395)).
 
 Entro cinque anni dall’accettazione dell’articolo 121 capoversi 3–6 da parte del Popolo e dei Cantoni, il legislatore definisce e completa le fattispecie di cui all’articolo 121 capoverso 3 ed emana le disposizioni penali relative all’entrata illegale di cui all’articolo 121 capoverso 6.
 
 ### 9. Disposizioni transitorie dell’art. 75b (Abitazioni secondarie)
 
-[^197-subdivu8-1]
+[^197-subdivu9-1]
 
-[^197-subdivu8-1]: Accettato nella votazione popolare dell’11 mar. 2012, in vigore dall’11 mar. 2012 (DF del 17 giu. 2011, DCF del 20 giu. 2012 – [RU 2012 3627](https://fedlex.data.admin.ch/eli/oc/2012/416); [FF 2008 955](https://fedlex.data.admin.ch/eli/fga/2008/235)[7597](https://fedlex.data.admin.ch/eli/fga/2008/1556), [2011 4317](https://fedlex.data.admin.ch/eli/fga/2011/766), [2012 5909](https://fedlex.data.admin.ch/eli/fga/2012/969)).
+[^197-subdivu9-1]: Accettato nella votazione popolare dell’11 mar. 2012, in vigore dall’11 mar. 2012 (DF del 17 giu. 2011, DCF del 20 giu. 2012 – [RU 2012 3627](https://fedlex.data.admin.ch/eli/oc/2012/416); [FF 2008 955](https://fedlex.data.admin.ch/eli/fga/2008/235)[7597](https://fedlex.data.admin.ch/eli/fga/2008/1556), [2011 4317](https://fedlex.data.admin.ch/eli/fga/2011/766), [2012 5909](https://fedlex.data.admin.ch/eli/fga/2012/969)).
 
 <sup>1</sup> Se la pertinente legislazione non entra in vigore entro due anni dall’accettazione dell’articolo 75*b*, il Consiglio federale emana mediante ordinanza le necessarie disposizioni d’esecuzione per la costruzione, la vendita e l’iscrizione nel registro fondiario.
 
@@ -2987,17 +3018,17 @@ Entro cinque anni dall’accettazione dell’articolo 121 capoversi 3–6 da par
 
 ### 10. Disposizione transitoria dell’art. 95 cpv. 3
 
-[^197-subdivu9-1]
+[^197-subdivu10-1]
 
-[^197-subdivu9-1]: Accettato nella [votazione popolare del 3 mar. 2013](http://www.admin.ch/ch/i/pore/va/20130303/index.html), in vigore dal 3 mar. 2013 (DCF del 15 nov. 2012 e 30 apr. 2013 – [RU 2013 1303](https://fedlex.data.admin.ch/eli/oc/2013/297); [FF 2006 8055](https://fedlex.data.admin.ch/eli/fga/2006/1115), [2008 2225](https://fedlex.data.admin.ch/eli/fga/2008/557), [2009 265](https://fedlex.data.admin.ch/eli/fga/2009/37), [2012 8099](https://fedlex.data.admin.ch/eli/fga/2012/1689), [2013 2619](https://fedlex.data.admin.ch/eli/fga/2013/646)).
+[^197-subdivu10-1]: Accettato nella [votazione popolare del 3 mar. 2013](http://www.admin.ch/ch/i/pore/va/20130303/index.html), in vigore dal 3 mar. 2013 (DCF del 15 nov. 2012 e 30 apr. 2013 – [RU 2013 1303](https://fedlex.data.admin.ch/eli/oc/2013/297); [FF 2006 8055](https://fedlex.data.admin.ch/eli/fga/2006/1115), [2008 2225](https://fedlex.data.admin.ch/eli/fga/2008/557), [2009 265](https://fedlex.data.admin.ch/eli/fga/2009/37), [2012 8099](https://fedlex.data.admin.ch/eli/fga/2012/1689), [2013 2619](https://fedlex.data.admin.ch/eli/fga/2013/646)).
 
 Entro un anno dall’accettazione dell’articolo 95 capoverso 3 da parte del Popolo e dei Cantoni, il Consiglio federale emana le disposizioni di esecuzione necessarie, che rimangono valide fino all’entrata in vigore delle disposizioni legali.
 
 ### 11. Disposizione transitoria dell’art. 121a (Regolazione dell’immigrazione)
 
-[^197-subdivu10-1]
+[^197-subdivu11-1]
 
-[^197-subdivu10-1]: Accettato nella [votazione popolare del 9 feb. 2014](http://www.admin.ch/ch/i/pore/va/20140209/index.html), in vigore dal 9 feb. 2014 (DF del 27 set. 2013, DCF del 13 mag. 2014 – RU**2014**1391;[FF 2011 5663](https://fedlex.data.admin.ch/eli/fga/2011/924), [2012 3451](https://fedlex.data.admin.ch/eli/fga/2012/506),[2013 275](https://fedlex.data.admin.ch/eli/fga/2013/50)[6303](https://fedlex.data.admin.ch/eli/fga/2013/1414),[2014 3511](https://fedlex.data.admin.ch/eli/fga/2014/972)).
+[^197-subdivu11-1]: Accettato nella [votazione popolare del 9 feb. 2014](http://www.admin.ch/ch/i/pore/va/20140209/index.html), in vigore dal 9 feb. 2014 (DF del 27 set. 2013, DCF del 13 mag. 2014 – RU**2014**1391;[FF 2011 5663](https://fedlex.data.admin.ch/eli/fga/2011/924), [2012 3451](https://fedlex.data.admin.ch/eli/fga/2012/506),[2013 275](https://fedlex.data.admin.ch/eli/fga/2013/50)[6303](https://fedlex.data.admin.ch/eli/fga/2013/1414),[2014 3511](https://fedlex.data.admin.ch/eli/fga/2014/972)).
 
 <sup>1</sup> I trattati internazionali che contraddicono all’articolo 121*a* devono essere rinegoziati e adeguati entro tre anni dall’accettazione di detto articolo da parte del Popolo e dei Cantoni.
 
@@ -3005,17 +3036,17 @@ Entro un anno dall’accettazione dell’articolo 95 capoverso 3 da parte del Po
 
 ### 12. Disposizione transitoria dell’art. 10a (Divieto di dissimulare il proprio viso)
 
-[^197-subdivu11-1]
+[^197-subdivu12-1]
 
-[^197-subdivu11-1]: Accettato nella [votazione popolare del 7 mar. 2001](http://www.admin.ch/ch/i/pore/va/20010307/index.html), in vigore dal 7 mar. 2021 (DF del 19 giu. 2020, DCF 31 mag. 2021 – [RU 2021 310](https://fedlex.data.admin.ch/eli/oc/2021/310); [FF 2017 5515](https://fedlex.data.admin.ch/eli/fga/2017/1844); [2019 2519](https://fedlex.data.admin.ch/eli/fga/2019/868); [2020 4923](https://fedlex.data.admin.ch/eli/fga/2020/1295); [2021 1185](https://fedlex.data.admin.ch/eli/fga/2021/1185)).
+[^197-subdivu12-1]: Accettato nella [votazione popolare del 7 mar. 2001](http://www.admin.ch/ch/i/pore/va/20010307/index.html), in vigore dal 7 mar. 2021 (DF del 19 giu. 2020, DCF 31 mag. 2021 – [RU 2021 310](https://fedlex.data.admin.ch/eli/oc/2021/310); [FF 2017 5515](https://fedlex.data.admin.ch/eli/fga/2017/1844); [2019 2519](https://fedlex.data.admin.ch/eli/fga/2019/868); [2020 4923](https://fedlex.data.admin.ch/eli/fga/2020/1295); [2021 1185](https://fedlex.data.admin.ch/eli/fga/2021/1185)).
 
 La legislazione d’esecuzione relativa all’articolo 10*a* è elaborata entro due anni dall’accettazione di detto articolo da parte del Popolo e dei Cantoni.
 
 ### 13. Disposizione transitoria dell’art. 117b (Cure infermieristiche)
 
-[^197-subdivu12-1]
+[^197-subdivu13-1]
 
-[^197-subdivu12-1]: Accettato nella [votazione popolare del 28 nov. 2021](http://www.admin.ch/ch/i/pore/va/20211128/index.html), in vigore dal 28 nov. 2021 (DF del 18 giu. 2021, DCF dell’11 apr. 2022 – [RU 2022 240](https://fedlex.data.admin.ch/eli/oc/2022/240); [FF 2017 6626](https://fedlex.data.admin.ch/eli/fga/2017/2238); [2018 6465](https://fedlex.data.admin.ch/eli/fga/2018/2676); [2021 1488](https://fedlex.data.admin.ch/eli/fga/2021/1488), [2022 894](https://fedlex.data.admin.ch/eli/fga/2022/894)).
+[^197-subdivu13-1]: Accettato nella [votazione popolare del 28 nov. 2021](http://www.admin.ch/ch/i/pore/va/20211128/index.html), in vigore dal 28 nov. 2021 (DF del 18 giu. 2021, DCF dell’11 apr. 2022 – [RU 2022 240](https://fedlex.data.admin.ch/eli/oc/2022/240); [FF 2017 6626](https://fedlex.data.admin.ch/eli/fga/2017/2238); [2018 6465](https://fedlex.data.admin.ch/eli/fga/2018/2676); [2021 1488](https://fedlex.data.admin.ch/eli/fga/2021/1488), [2022 894](https://fedlex.data.admin.ch/eli/fga/2022/894)).
 
 <sup>1</sup>
 
@@ -3036,15 +3067,60 @@ Nell’ambito delle sue competenze, la Confederazione emana disposizioni di esec
 
 ### 14. Disposizione transitoria dell’art. 118 cpv. 2 lett. b (Protezione della salute)
 
-[^197-subdivu13-1]
+[^197-subdivu14-1]
 
-[^197-subdivu13-1]: Accettato nella [votazione popolare del 13 feb. 2022](http://www.admin.ch/ch/i/pore/va/20220213/index.html), in vigore dal 13 feb. 2022 (DF del 1° ott. 2021, DCF dell’11 apr. 2022 – [RU 2022 241](https://fedlex.data.admin.ch/eli/oc/2022/241); [FF 2019 5707](https://fedlex.data.admin.ch/eli/fga/2019/2386); [2020 6165](https://fedlex.data.admin.ch/eli/fga/2020/1895); [2021 2315](https://fedlex.data.admin.ch/eli/fga/2021/2315); [2022 895](https://fedlex.data.admin.ch/eli/fga/2022/895)).
+[^197-subdivu14-1]: Accettato nella [votazione popolare del 13 feb. 2022](http://www.admin.ch/ch/i/pore/va/20220213/index.html), in vigore dal 13 feb. 2022 (DF del 1° ott. 2021, DCF dell’11 apr. 2022 – [RU 2022 241](https://fedlex.data.admin.ch/eli/oc/2022/241); [FF 2019 5707](https://fedlex.data.admin.ch/eli/fga/2019/2386); [2020 6165](https://fedlex.data.admin.ch/eli/fga/2020/1895); [2021 2315](https://fedlex.data.admin.ch/eli/fga/2021/2315); [2022 895](https://fedlex.data.admin.ch/eli/fga/2022/895)).
 
 L’Assemblea federale adotta le disposizioni legislative di esecuzione entro tre anni dall’accettazione dell’articolo 118 capoverso 2 lettera b da parte del Popolo e dei Cantoni.
 
-Data dell’entrata in vigore: 1° gennaio 2000[^197-subdivu13-2]
+### 15. Disposizione transitoria dell’art. 129a (Imposizione speciale dei grandi gruppi di imprese)
 
-[^197-subdivu13-2]: DF del 28 set. 1999 ([RU 1999 2555](https://fedlex.data.admin.ch/eli/oc/1999/403); [FF 1999 6784](https://fedlex.data.admin.ch/eli/fga/1999/1_7922_7145_6784)).
+[^197-subdivu15-1]
+
+[^197-subdivu15-1]: Accettato nella [votazione popolare del 18 giu. 2023](http://www.admin.ch/ch/i/pore/va/20230618/index.html), in vigore dal 1° gen. 2024 (DF del 16 dic. 2022, DCF del 12 apr. 2023, DCF del 28 ago. 2023 – [RU 2023 482](https://fedlex.data.admin.ch/eli/oc/2023/482); [FF 2022 1700](https://fedlex.data.admin.ch/eli/fga/2022/1700); [2023 970](https://fedlex.data.admin.ch/eli/fga/2023/970), [2015](https://fedlex.data.admin.ch/eli/fga/2023/2015)).
+
+<sup>1</sup> Fino all’entrata in vigore delle disposizioni di legge, il Consiglio federale può emanare le disposizioni necessarie concernenti l’imposizione minima dei grandi gruppi di imprese.
+
+<sup>2</sup>
+
+A tal fine osserva i principi seguenti:
+
+- a. le disposizioni sono applicabili alle unità operative di un gruppo di imprese multinazionale che consegue una cifra d’affari annua consolidata di almeno 750 milioni di euro;
+- b. se in Svizzera o in un’altra giurisdizione fiscale le imposte determinanti delle unità operative sono complessivamente inferiori all’imposizione minima con aliquota del 15 per cento degli utili determinanti, per compensare la differenza tra l’aliquota d’imposta effettiva e quella minima la Confederazione preleva un’imposta integrativa;
+- c. sono determinanti in particolare le imposte dirette contabilizzate nel conto economico delle unità operative;
+- d. l’utile determinante di un’unità operativa corrisponde all’utile o alla perdita calcolati per il conto annuale consolidato del gruppo di imprese, secondo uno standard di presentazione dei conti riconosciuto, prima di dedurre le transazioni tra le unità operative e tenuto conto di altre correzioni; gli utili e le perdite correlati al traffico marittimo internazionale non sono presi in considerazione;
+- e. l’aliquota d’imposta effettiva per una giurisdizione fiscale è calcolata dividendo la somma delle imposte determinanti di tutte le unità operative in questa giurisdizione fiscale per la somma degli utili determinanti di queste unità operative;
+- f. l’imposta integrativa per una giurisdizione fiscale è calcolata moltiplicando l’utile eccedente per l’aliquota dell’imposta integrativa;
+- g. l’utile eccedente in una giurisdizione fiscale corrisponde alla somma degli utili determinanti di tutte le unità operative in questa giurisdizione fiscale al netto della deduzione ammessa per i valori patrimoniali materiali e i costi salariali;
+- h. l’aliquota dell’imposta integrativa per una giurisdizione fiscale corrisponde alla differenza positiva tra l’aliquota minima del 15 per cento e l’aliquota d’imposta effettiva;
+- i. in caso di imposizione ridotta in Svizzera, l’imposta integrativa è imputata alle unità operative svizzere proporzionalmente alla loro corresponsabilità in relazione all’imposizione ridotta;
+- j. in caso di imposizione ridotta in un’altra giurisdizione fiscale, l’imposta integrativa è imputata in primo luogo all’unità operativa svizzera di livello più elevato e in secondo luogo a tutte le unità operative svizzere.
+
+<sup>3</sup>
+
+Il Consiglio federale può emanare disposizioni complementari per l’attuazione dell’imposizione minima, riguardanti in particolare:
+
+- a. la considerazione di particolari situazioni imprenditoriali;
+- b. la deducibilità dell’imposta integrativa come spesa in relazione alle imposte sull’utile della Confederazione e dei Cantoni;
+- c. la procedura e i rimedi giuridici;
+- d. le disposizioni penali, conformemente alle altre disposizioni del diritto penale fiscale;
+- e. le regolamentazioni transitorie.
+
+<sup>4</sup> Se lo ritiene necessario per l’attuazione dell’imposizione minima, il Consiglio federale può derogare ai principi di cui al capoverso 2. Può dichiarare applicabili i modelli di prescrizioni internazionali e le relative regolamentazioni. Può delegare tali competenze al Dipartimento federale delle finanze.
+
+<sup>5</sup> Le disposizioni sull’imposta integrativa sono eseguite dai Cantoni sotto la vigilanza dell’Amministrazione federale delle contribuzioni. Il Consiglio federale può prevedere un indennizzo per compensare l’onere amministrativo derivante dall’esecuzione di tali disposizioni.
+
+<sup>6</sup> Il gettito lordo dell’imposta integrativa spetta per il 75 per cento ai Cantoni in cui le unità operative sono assoggettate fiscalmente. I Cantoni tengono adeguatamente conto dei Comuni. Il gettito lordo dell’imposta integrativa su attività delle unità operative di Confederazione, Cantoni e Comuni esentate dall’imposta sull’utile spetta al rispettivo ente pubblico.
+
+<sup>7</sup> Nell’ambito della perequazione finanziaria e della compensazione degli oneri, la quota del gettito lordo dell’imposta integrativa spettante ai Cantoni è tenuta in considerazione come entrata fiscale supplementare.
+
+<sup>8</sup> Se si avvale della competenza attribuitagli nel capoverso 1, entro sei anni dall’entrata in vigore della relativa ordinanza il Consiglio federale sottopone al Parlamento le disposizioni legali sull’imposizione minima dei grandi gruppi di imprese multinazionali.
+
+<sup>9</sup> La Confederazione utilizza la propria quota del gettito lordo dell’imposta integrativa, al netto delle maggiori uscite per la perequazione finanziaria e la compensazione degli oneri generate da tale imposta, per promuovere ulteriormente l’attrattiva della piazza economica svizzera.
+
+Data dell’entrata in vigore: 1° gennaio 2000[^197-subdivu15-2]
+
+[^197-subdivu15-2]: DF del 28 set. 1999 ([RU 1999 2555](https://fedlex.data.admin.ch/eli/oc/1999/403); [FF 1999 6784](https://fedlex.data.admin.ch/eli/fga/1999/1_7922_7145_6784)).
 
 ## Disposizioni finali del Decreto federale del 18 dicembre 1998
 
@@ -3768,7 +3844,13 @@ Deputati
 - – dei Cantoni 150
 - – del Popolo 149
 
-**Deroga** al diritto cantonale 49
+**Deroga**
+
+- – al diritto cantonale 49
+- – al principi dell’imposizione secondo la capacità economica 129*a*
+- – al principi dell’uniformità dell’imposizione 129*a*
+- – al principi della generalità 129*a*
+- – al principio della libertà economica 94, 100, 101, 102, 103, 104
 
 **Destinazione vincolata** delle imposte 85, 86, 112, 196 n. 3
 
@@ -3869,7 +3951,7 @@ Divieto
 - – dell’arbitrio 9
 - – di dissimulare il proprio viso 10*a*
 - – dell’edificazione di minareti 72
-- – d'entrata 121
+- – d’entrata 121
 - – di ricevere istruzioni 161
 
 **Domanda di grazia** 157, 173
@@ -4216,7 +4298,10 @@ Imposizione fiscale
 - – esclusione 134
 - – princìpi 127
 
-**Imposizione** secondo la capacità economica 127
+**Imposizione**
+
+- – dei grandi gruppi di imprese 129*a*
+- – secondo la capacità economica 127
 
 Imposta
 
@@ -4361,6 +4446,8 @@ Istruzione
 ### J
 
 **Jackpot** 106
+
+### K
 
 ### L
 
@@ -5632,6 +5719,10 @@ Voto
 - – espressione fedele del 34
 
 ### W
+
+### X
+
+### Y
 
 ### Z
 

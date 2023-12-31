@@ -4,18 +4,18 @@ title: Constitution fédérale de la Confédération suisse du 18 avril 1999
 short: Cst.
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/404"
 language: fr
-version: 2022-02-13
+version: 2024-01-01
 adopted: 1999-04-18
 in_force: 2000-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/404/20220213/fr/xml/fedlex-data-admin-ch-eli-cc-1999-404-20220213-fr-xml-14.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/404/20220213/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/404/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-1999-404-20240101-fr-xml-19.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/404/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Constitution fédérale de la Confédération suisse
 
-du 18 avril 1999 (État le 13 février 2022)
+du 18 avril 1999 (État le 1<sup>er</sup> janvier 2024)
 
 **Préambule**
 
@@ -1925,6 +1925,25 @@ La Confédération peut percevoir des impôts directs:
 
 <sup>3</sup> La Confédération peut légiférer afin de lutter contre l’octroi d’avantages fiscaux injustifiés.
 
+#### Art. 129a
+
+**Imposition particulière des grands groupes d’entreprises**[^129a-1]
+
+<sup>1</sup> La Confédération peut édicter, pour les grands groupes d’entreprises, des dispositions sur une imposition dans l’État du marché et sur une imposition minimale.
+
+<sup>2</sup> Elle tient compte des normes et règles types internationales.
+
+<sup>3</sup>
+
+Pour préserver les intérêts de l’économie suisse, elle peut déroger:
+
+- a. aux principes de l’universalité, de l’égalité de traitement et de la capacité économique énoncés à l’art. 127, al. 2;
+- b. aux taux d’imposition maximaux prévus à l’art. 128, al. 1;
+- c. aux dispositions sur l’exécution énoncées à l’art. 128, al. 4, 1<sup>re</sup> phrase;
+- d. aux exceptions à l’harmonisation fiscale prévues à l’art. 129, al. 2, 2<sup>e</sup> phrase.
+
+[^129a-1]: Accepté en [votation populaire du 18 juin 2023](http://www.admin.ch/ch/f/pore/va/20230618/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2024 (AF du 16 déc. 2022, ACF du 12 avr. 2023, ACF du 28 août 2023; [RO 2023 482](https://fedlex.data.admin.ch/eli/oc/2023/482); [FF 2022 1700](https://fedlex.data.admin.ch/eli/fga/2022/1700); [2023 970](https://fedlex.data.admin.ch/eli/fga/2023/970), [2015](https://fedlex.data.admin.ch/eli/fga/2023/2015)).
+
 #### Art. 130
 
 **Taxe sur la valeur ajoutée[^130-2]\**[^130-1]*
@@ -1937,13 +1956,19 @@ La Confédération peut percevoir des impôts directs:
 
 <sup>3bis</sup> Les taux sont augmentés de 0,1 point pour financer l’infrastructure ferroviaire.[^130-5]
 
+<sup>3ter</sup> Pour garantir le financement de l’assurance-vieillesse et survivants, le Conseil fédéral relève le taux normal de 0,4 point, le taux réduit de 0,1 point et l’impôt grevant les prestations du secteur de l’hébergement de 0,1 point, si le principe de l’harmonisation de l’âge de référence des femmes et des hommes dans l’assurance-vieillesse et survivants est inscrit dans la loi.[^130-6]
+
+<sup>3quater</sup> Le produit du relèvement visé à l’al. 3<sup>ter</sup> est attribué intégralement au Fonds de compensation de l’assurance-vieillesse et survivants.[^130-7]
+
 <sup>4</sup> 5 % du produit non affecté de la taxe sont employés à la réduction des primes de l’assurance-maladie en faveur des classes de revenus inférieures, à moins que la loi n’attribue ce montant à une autre utilisation en faveur de ces classes.
 
 [^130-1]: Accepté en [votation populaire du 28 nov. 2004](http://www.admin.ch/ch/f/pore/va/20041128/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2007 (AF du 19 mars 2004, ACF du 26 janv. 2005, ACF du 2 fév. 2006; [RO 2006 1057](https://fedlex.data.admin.ch/eli/oc/2006/184); [FF 2003 1388](https://fedlex.data.admin.ch/eli/fga/2003/220), [2004 1245](https://fedlex.data.admin.ch/eli/fga/2004/254), [2005 883](https://fedlex.data.admin.ch/eli/fga/2005/116)).
 [^130-2]: <sup>\*</sup> avec disposition transitoire
-[^130-3]: Du 1<sup>er</sup> janv. 2018 au 31 déc. 2027 au plus tard, l’impôt grevant les prestations du secteur de l’hébergement est fixé à 3,7 % (art. 25 al. 4 de la LF du 12 juin 2009 sur la TVA; [RS 641.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8079)).
-[^130-4]: Du 1<sup>er</sup> janv. 2018 au 31 déc. 2030 au plus tard, le taux normal de la taxe sur la valeur ajoutée est fixé à 7,7 % et le taux réduit à 2,5 % (art. 25 al. 1 et 2 de la LF du 12 juin 2009 sur la TVA; [RS 641.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8079)).
+[^130-3]: Depuis le 1<sup>er</sup> janv. 2024, l’impôt grevant les prestations du secteur de l’hébergement est fixé à 3,8 % (art. 25 al. 4 de la LF du 12 juin 2009 sur la TVA; [RS 641.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8079)).
+[^130-4]: Depuis le 1<sup>er</sup> janv. 2024, le taux normal de la taxe sur la valeur ajoutée est fixé à 8,1 % et le taux réduit à 2,6 % (art. 25 al. 1 et 2 de la LF du 12 juin 2009 sur la TVA; [RS 641.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8079)).
 [^130-5]: Accepté en [votation populaire du 9 fév. 2014](http://www.admin.ch/ch/f/pore/va/20140209/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2016 (AF du 20 juin 2013, ACF du 13 mai 2014, ACF du 2 juin 2014, ACF du 6 juin 2014; [RO 2015 645](https://fedlex.data.admin.ch/eli/oc/2015/104); [FF 2010 6049](https://fedlex.data.admin.ch/eli/fga/2010/1168), [2012 1371](https://fedlex.data.admin.ch/eli/fga/2012/305), [2013 4191](https://fedlex.data.admin.ch/eli/fga/2013/897)[5872](https://fedlex.data.admin.ch/eli/fga/2013/1136), [2014 3953](https://fedlex.data.admin.ch/eli/fga/2014/970)[3957](https://fedlex.data.admin.ch/eli/fga/2014/972)).
+[^130-6]: Accepté en [votation populaire du 25 sept. 2022](http://www.admin.ch/ch/f/pore/va/20220925/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2024 (AF du 17 déc. 2021, ACF du 9 déc. 2022, ACF du 20 fév. 2023; [RO 2023 91](https://fedlex.data.admin.ch/eli/oc/2023/91); [FF 2019 5979](https://fedlex.data.admin.ch/eli/fga/2019/2267); [2021 2991](https://fedlex.data.admin.ch/eli/fga/2021/2991); [2023 486](https://fedlex.data.admin.ch/eli/fga/2023/486)).
+[^130-7]: Accepté en [votation populaire du 25 sept. 2022](http://www.admin.ch/ch/f/pore/va/20220925/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2024 (AF du 17 déc. 2021, ACF du 9 déc. 2022, ACF du 20 fév. 2023; [RO 2023 91](https://fedlex.data.admin.ch/eli/oc/2023/91); [FF 2019 5979](https://fedlex.data.admin.ch/eli/fga/2019/2267); [2021 2991](https://fedlex.data.admin.ch/eli/fga/2021/2991); [2023 486](https://fedlex.data.admin.ch/eli/fga/2023/486)).
 
 #### Art. 131
 
@@ -3043,9 +3068,54 @@ La Confédération édicte, dans les limites de ses compétences, des dispositio
 
 L’Assemblée fédérale adopte les dispositions législatives d’exécution dans les trois ans qui suivent l’acceptation de l’art. 118, al. 2, let. b, par le peuple et les cantons.
 
-Date de l’entrée en vigueur: 1<sup>er</sup> janvier 2000[^197-subdivu14-2]
+### 15. Dispositions transitoires relatives à l’art. 129a (Imposition particulière des grands groupes d’entreprises)
 
-[^197-subdivu14-2]: AF du 28 sept. 1999 ([RO 1999 2555](https://fedlex.data.admin.ch/eli/oc/1999/403); [FF 1999 7145](https://fedlex.data.admin.ch/eli/fga/1999/1_7922_7145_6784))
+[^197-subdivu15-1]
+
+[^197-subdivu15-1]: Accepté en [votation populaire du 18 juin 2023](http://www.admin.ch/ch/f/pore/va/20230618/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2024 (AF du 16 déc. 2022, ACF du 12 avr. 2023, ACF du 28 août 2023; [RO 2023 482](https://fedlex.data.admin.ch/eli/oc/2023/482); [FF 2022 1700](https://fedlex.data.admin.ch/eli/fga/2022/1700); [2023 970](https://fedlex.data.admin.ch/eli/fga/2023/970), [2015](https://fedlex.data.admin.ch/eli/fga/2023/2015)).
+
+<sup>1</sup> Le Conseil fédéral peut édicter les dispositions permettant d’appliquer une imposition minimale aux grands groupes d’entreprises jusqu’à l’entrée en vigueur des dispositions légales.
+
+<sup>2</sup>
+
+Il se conforme aux principes suivants:
+
+- a. les dispositions s’appliquent aux entités constitutives d’un groupe d’entreprises multinational qui atteint un chiffre d’affaires annuel consolidé de 750 millions d’euros;
+- b. si le total des impôts déterminants des entités constitutives situées en Suisse ou dans une autre juridiction fiscale est inférieur à l’impôt minimal au taux de 15 % des bénéfices déterminants, la Confédération perçoit un impôt complémentaire afin de combler l’écart entre le taux d’imposition effectif et le taux d’imposition minimal;
+- c. les impôts déterminants comprennent notamment les impôts directs comptabilisés dans le compte de résultat des entités constitutives;
+- d. le bénéfice déterminant d’une entité constitutive correspond au bénéfice ou à la perte déterminé pour les comptes annuels consolidés du groupe, établis selon une norme comptable reconnue, avant l’élimination des transactions entre les entités constitutives et après la prise en compte d’autres corrections; les bénéfices et les pertes des activités de transport maritime international ne sont pas pris en compte;
+- e. le taux d’imposition effectif pour une juridiction fiscale se calcule en divisant la somme des impôts déterminants de toutes les entités constitutives situées dans cette juridiction fiscale par la somme des bénéfices déterminants de ces mêmes entités constitutives;
+- f. l’impôt complémentaire pour une juridiction fiscale se calcule en multipliant le bénéfice excédentaire par le taux de l’impôt complémentaire;
+- g. le bénéfice excédentaire dans une juridiction fiscale correspond à la somme des bénéfices déterminants de toutes les entités constitutives situées dans cette juridiction fiscale, après déduction admise pour les actifs corporels et les charges salariales;
+- h. le taux de l’impôt complémentaire pour une juridiction fiscale correspond à la différence positive entre 15 % et le taux d’imposition effectif;
+- i. en cas de sous-imposition en Suisse, l’impôt complémentaire est imputé aux entités constitutives situées en Suisse au prorata de leur responsabilité respective dans cette sous-imposition;
+- j. en cas de sous-imposition dans une autre juridiction fiscale, l’impôt complémentaire est imputé en priorité à l’entité constitutive la plus élevée du groupe située en Suisse et, en second lieu, à toutes les entités constitutives situées en Suisse.
+
+<sup>3</sup>
+
+Le Conseil fédéral peut arrêter des dispositions complémentaires relatives à la mise en œuvre de l’imposition minimale, concernant notamment:
+
+- a. la prise en compte des situations d’entreprises particulières;
+- b. la déductibilité de l’impôt complémentaire à titre de charge pour les impôts sur le bénéfice de la Confédération et des cantons;
+- c. la procédure et les voies de droit;
+- d. les dispositions pénales, conformément aux autres dispositions du droit pénal fiscal;
+- e. les réglementations transitoires.
+
+<sup>4</sup> Le Conseil fédéral peut déroger aux principes énoncés à l’al. 2 s’il estime que cela est nécessaire pour permettre la mise en œuvre de l’imposition minimale. Il peut déclarer applicables les règles types internationales et les réglementations connexes. Il peut aussi déléguer ces compétences au Département fédéral des finances.
+
+<sup>5</sup> Les cantons exécutent les dispositions régissant l’impôt complémentaire sous la surveillance de l’Administration fédérale des contributions. Le Conseil fédéral peut octroyer des indemnités pour les charges administratives liées à l’exécution de ces dispositions.
+
+<sup>6</sup> Le produit brut de l’impôt complémentaire revient à raison de 75 % aux cantons auxquels les entités constitutives sont rattachées fiscalement. Les cantons tiennent compte des communes de manière appropriée. Le produit brut de l’impôt complémentaire sur les activités exonérées de l’impôt sur le bénéfice des entités constitutives de la Confédération, des cantons et des communes revient à la collectivité publique concernée.
+
+<sup>7</sup> La part cantonale au produit brut de l’impôt complémentaire est assimilée à des recettes fiscales supplémentaires dans le cadre de la péréquation financière et de la compensation des charges.
+
+<sup>8</sup> Si le Conseil fédéral fait usage de la compétence que lui confère l’al. 1, il soumet au Parlement les dispositions légales relatives à l’imposition minimale des grands groupes d’entreprises multinationaux dans un délai de six ans à compter de l’entrée en vigueur de l’ordonnance.
+
+<sup>9</sup> Après déduction des dépenses supplémentaires induites au titre de la péréquation financière et de la compensation des charges, la Confédération affecte sa part du produit brut de l’impôt complémentaire au renforcement de la promotion de l’attrait économique de la Suisse.
+
+Date de l’entrée en vigueur: 1<sup>er</sup> janvier 2000[^197-subdivu15-2]
+
+[^197-subdivu15-2]: AF du 28 sept. 1999 ([RO 1999 2555](https://fedlex.data.admin.ch/eli/oc/1999/403); [FF 1999 7145](https://fedlex.data.admin.ch/eli/fga/1999/1_7922_7145_6784))
 
 ## Dispositions finales de l’arrêté fédéral du 18 décembre 1998
 
@@ -4295,6 +4365,7 @@ Imposition
 
 - – principes généraux de l’ 127
 - – exclusion de l’ 134
+- – particulière des grands groupes d’entreprises 129*a*
 
 Impôt
 
@@ -4466,6 +4537,8 @@ Jurisprudence
 - – en matière de droit civil 122, 191*b*
 - – en matière de droit pénal 123
 - – du Tribunal fédéral 188, 189
+
+### K
 
 ### L
 
@@ -5043,6 +5116,8 @@ Protection
 
 **Publicité des débats** 30
 
+### Q
+
 ### R
 
 **Rabais**, afin de stabiliser la conjoncture 100
@@ -5568,6 +5643,12 @@ Votations populaires
 - – sur des lois fédérales déclarées urgentes 165
 
 **Vulgarisation**, agricole 104
+
+### W
+
+### X
+
+### Y
 
 ### Z
 

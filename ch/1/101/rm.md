@@ -4,11 +4,11 @@ title: "Constituziun federala da la Confederaziun svizra dals 18 d'avrigl 1999"
 short: Cst.
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/404"
 language: rm
-version: 2022-02-13
+version: 2024-01-01
 adopted: 1999-04-18
 in_force: 2000-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/404/20220213/rm/xml/fedlex-data-admin-ch-eli-cc-1999-404-20220213-rm-xml-14.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/404/20220213/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/404/20240101/rm/xml/fedlex-data-admin-ch-eli-cc-1999-404-20240101-rm-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/404/20240101/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/404/20220213/rm"
 
 Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Confederaziun, numnadamain en la correspundenza cun persunas da lingua rumantscha. La translaziun d’in decret federal serva a l’infurmaziun, n’ha dentant nagina validitad legala.
 
-dals 18 d’avrigl 1999 (versiun dals 13 da favrer 2022)
+dals 18 d’avrigl 1999 (versiun dal 1. da schaner 2024)
 
 **Preambel**
 
@@ -37,7 +37,7 @@ savend che liber è be quel che dovra sia libertad e che la fermezza dal pievel 
 
 sa dattan la sequenta constituziun:[^ingress-1]
 
-[^ingress-1]: Acceptà en la votaziun dal pievel dals 18 d’avr. 1999 (COF dals 18 da dec. 1998, COCF dals 11 d’avust 1999 – [AS 1999 2556](https://fedlex.data.admin.ch/eli/oc/1999/404); [BBl 1997 I 1](https://fedlex.data.admin.ch/eli/fga/1997/1_1_1_1), **1999** 162 [5986](https://fedlex.data.admin.ch/eli/fga/1999/1_5986_5306_4968)).
+[^ingress-1]: Acceptà en la votaziun dal pievel dals 18 d’avr. 1999 (COF dals 18 da dec. 1998, COCF dals 11 d’avust 1999 – [AS 1999 2556](https://fedlex.data.admin.ch/eli/oc/1999/404); [BBl 1997 I 1](https://fedlex.data.admin.ch/eli/fga/1997/1_1_1_1); **1999** 162, [5986](https://fedlex.data.admin.ch/eli/fga/1999/1_5986_5306_4968)).
 
 ## 1. titel Disposiziuns generalas
 
@@ -89,7 +89,7 @@ Las linguas naziunalas èn il tudestg, il franzos, il talian ed il rumantsch.
 
 Tar l’attribuziun e tar l’adempliment d’incumbensas dal stadi sto vegnir resguardà il princip da la subsidiaritad.
 
-[^5a-1]: Acceptà en la votaziun dal pievel dals 28 da nov. 2004, en vigur dapi il 1. da schan. 2008 (COF dals 3 d’oct. 2003, COCF dals 26 da schan. 2005, COCF dals 7 da nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^5a-1]: Acceptà en la votaziun dal pievel dals 28 da nov. 2004, en vigur dapi il 1. da schan. 2008 (COF dals 3 d’oct. 2003, COCF dals 26 da schan. 2005, COCF dals 7 da nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316); [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089); [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
 
 #### Art. 6
 
@@ -312,7 +312,7 @@ La libertad da l’art è garantida.
 
 En cas da dispitas giuridicas ha mintga persuna il dretg da vegnir giuditgada tras in’autoritad giudiziala. En cas excepziunals pon la Confederaziun ed ils chantuns excluder tras lescha il giudicament giudizial.
 
-[^29a-1]: Acceptà en la votaziun dal pievel dals 12 da mars 2000, en vigur dapi il 1. da schan. 2007 (COF dals 8 d’oct. 1999, COCF dals 17 da matg 2000, COF dals 8 da mars 2005 –[AS 2002 3148](https://fedlex.data.admin.ch/eli/oc/2002/467), [2006 1059](https://fedlex.data.admin.ch/eli/oc/2006/185); [BBl 1997 I 1](https://fedlex.data.admin.ch/eli/fga/1997/1_1_1_1), [1999 8633](https://fedlex.data.admin.ch/eli/fga/1999/1_8633_7831_7454), [2000 2990](https://fedlex.data.admin.ch/eli/fga/2000/615), [2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^29a-1]: Acceptà en la votaziun dal pievel dals 12 da mars 2000, en vigur dapi il 1. da schan. 2007 (COF dals 8 d’oct. 1999, COCF dals 17 da matg 2000, COF dals 8 da mars 2005 –[AS 2002 3148](https://fedlex.data.admin.ch/eli/oc/2002/467); [2006 1059](https://fedlex.data.admin.ch/eli/oc/2006/185); [BBl 1997 I 1](https://fedlex.data.admin.ch/eli/fga/1997/1_1_1_1); [1999 8633](https://fedlex.data.admin.ch/eli/fga/1999/1_8633_7831_7454); [2000 2990](https://fedlex.data.admin.ch/eli/fga/2000/615); [2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 30
 
@@ -409,7 +409,7 @@ Ella facilitescha la natiralisaziun da:
 - a. persunas estras da la terza generaziun;
 - b. uffants senza naziunalitad.[^38-1]
 
-[^38-1]: Acceptà en la votaziun dal pievel dals 12 da favr. 2017, en vigur dapi ils 12 da favr. 2017 (COF dals 30 da sett. 2016, COCF dals 13 d’avr. 2017 – [AS 2017 2643](https://fedlex.data.admin.ch/eli/oc/2017/259); [BBl 2015 769](https://fedlex.data.admin.ch/eli/fga/2015/62)[1327](https://fedlex.data.admin.ch/eli/fga/2015/132), [2017 3387](https://fedlex.data.admin.ch/eli/fga/2017/748)).
+[^38-1]: Acceptà en la votaziun dal pievel dals 12 da favr. 2017, en vigur dapi ils 12 da favr. 2017 (COF dals 30 da sett. 2016, COCF dals 13 d’avr. 2017 – [AS 2017 2643](https://fedlex.data.admin.ch/eli/oc/2017/259); [BBl 2015 769](https://fedlex.data.admin.ch/eli/fga/2015/62), [1327](https://fedlex.data.admin.ch/eli/fga/2015/132); [2017 3387](https://fedlex.data.admin.ch/eli/fga/2017/748)).
 
 #### Art. 39
 
@@ -453,7 +453,7 @@ Cumplettond la responsabladad persunala e l’iniziativa privata s’engaschan l
 
 <sup>4</sup> Da las finamiras socialas na pon ins betg deducir dretgs directs da prestaziuns dal stadi.
 
-[^41-1]: Acceptà en la votaziun dal pievel dals 13 da favr. 2022, en vigur dapi ils 13 da favr. 2022 (COF dal 1. d’oct. 2021, COCF dals 11 d’avr. 2022 – [AS 2022 241](https://fedlex.data.admin.ch/eli/oc/2022/241); [BBl 2019 6883](https://fedlex.data.admin.ch/eli/fga/2019/2386), [2020 7049](https://fedlex.data.admin.ch/eli/fga/2020/1895), [2021 2315](https://fedlex.data.admin.ch/eli/fga/2021/2315), [2022 895](https://fedlex.data.admin.ch/eli/fga/2022/895)).
+[^41-1]: Acceptà en la votaziun dal pievel dals 13 da favr. 2022, en vigur dapi ils 13 da favr. 2022 (COF dal 1. d’oct. 2021, COCF dals 11 d’avr. 2022 – [AS 2022 241](https://fedlex.data.admin.ch/eli/oc/2022/241); [BBl 2019 6883](https://fedlex.data.admin.ch/eli/fga/2019/2386); [2020 7049](https://fedlex.data.admin.ch/eli/fga/2020/1895); [2021 2315](https://fedlex.data.admin.ch/eli/fga/2021/2315); [2022 895](https://fedlex.data.admin.ch/eli/fga/2022/895)).
 
 ## 3. titel Confederaziun, chantuns e vischnancas
 
@@ -469,7 +469,7 @@ Cumplettond la responsabladad persunala e l’iniziativa privata s’engaschan l
 
 <sup>2</sup> …[^42-1]
 
-[^42-1]: Abolì en la votaziun dal pievel dals 28 da nov. 2004, cun effect dapi il 1. da schan. 2008 (COF dals 3 d’oct. 2003, COCF dals 26 da schan. 2005, COCF dals 7 da nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^42-1]: Abolì en la votaziun dal pievel dals 28 da nov. 2004, cun effect dapi il 1. da schan. 2008 (COF dals 3 d’oct. 2003, COCF dals 26 da schan. 2005, COCF dals 7 da nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316); [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089); [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
 
 #### Art. 43
 
@@ -491,7 +491,7 @@ Ils chantuns determineschan tge incumbensas ch’els accumpleschan en il rom da 
 
 <sup>5</sup> Las incumbensas dal stadi ston vegnir ademplidas a moda raziunala ed adequata als basegns.
 
-[^43a-1]: Acceptà en la votaziun dal pievel dals 28 da nov. 2004, en vigur dapi il 1. da schan. 2008 (COF dals 3 d’oct. 2003, COCF dals 26 da schan. 2005, COCF dals 7 da nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^43a-1]: Acceptà en la votaziun dal pievel dals 28 da nov. 2004, en vigur dapi il 1. da schan. 2008 (COF dals 3 d’oct. 2003, COCF dals 26 da schan. 2005, COCF dals 7 da nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316); [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089); [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
 
 ### 2. partiziun Collavuraziun da la Confederaziun e dals chantuns
 
@@ -523,8 +523,8 @@ Ils chantuns determineschan tge incumbensas ch’els accumpleschan en il rom da 
 
 <sup>3</sup> La Confederaziun lascha als chantuns ina libertad creativa uschè gronda sco pussaivel e tegna quint da lur particularitads chantunalas.[^46-2]
 
-[^46-1]: Acceptà en la votaziun dal pievel dals 28 da nov. 2004, en vigur dapi il 1. da schan. 2008 (COF dals 3 d’oct. 2003, COCF dals 26 da schan. 2005, COCF dals 7 da nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
-[^46-2]: Acceptà en la votaziun dal pievel dals 28 da nov. 2004, en vigur dapi il 1. da schan. 2008 (COF dals 3 d’oct. 2003, COCF dals 26 da schan. 2005, COCF dals 7 da nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^46-1]: Acceptà en la votaziun dal pievel dals 28 da nov. 2004, en vigur dapi il 1. da schan. 2008 (COF dals 3 d’oct. 2003, COCF dals 26 da schan. 2005, COCF dals 7 da nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316); [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089); [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^46-2]: Acceptà en la votaziun dal pievel dals 28 da nov. 2004, en vigur dapi il 1. da schan. 2008 (COF dals 3 d’oct. 2003, COCF dals 26 da schan. 2005, COCF dals 7 da nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316); [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089); [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
 
 #### Art. 47
 
@@ -534,7 +534,7 @@ Ils chantuns determineschan tge incumbensas ch’els accumpleschan en il rom da 
 
 <sup>2</sup> Ella lascha als chantuns suffizientamain atgnas incumbensas e respecta lur autonomia d’organisaziun. Ella als lascha funtaunas da finanziaziun suffizientas e contribuescha ch’els disponian dals meds finanzials necessaris per ademplir lur incumbensas.[^47-1]
 
-[^47-1]: Acceptà en la votaziun dal pievel dals 28 da nov. 2004, en vigur dapi il 1. da schan. 2008 (COF dals 3 d’oct. 2003, COCF dals 26 da schan. 2005, COCF dals 7 da nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^47-1]: Acceptà en la votaziun dal pievel dals 28 da nov. 2004, en vigur dapi il 1. da schan. 2008 (COF dals 3 d’oct. 2003, COCF dals 26 da schan. 2005, COCF dals 7 da nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316); [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089); [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
 
 #### Art. 48
 
@@ -555,8 +555,8 @@ Tras in contract interchantunal pon ils chantuns autorisar organs interchantunal
 
 <sup>5</sup> Ils chantuns resguardan il dretg interchantunal.[^48-2]
 
-[^48-1]: Acceptà en la votaziun dal pievel dals 28 da nov. 2004, en vigur dapi il 1. da schan. 2008 (COF dals 3 d’oct. 2003, COCF dals 26 da schan. 2005, COCF dals 7 da nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
-[^48-2]: Acceptà en la votaziun dal pievel dals 28 da nov. 2004, en vigur dapi il 1. da schan. 2008 (COF dals 3 d’oct. 2003, COCF dals 26 da schan. 2005, COCF dals 7 da nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^48-1]: Acceptà en la votaziun dal pievel dals 28 da nov. 2004, en vigur dapi il 1. da schan. 2008 (COF dals 3 d’oct. 2003, COCF dals 26 da schan. 2005, COCF dals 7 da nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316); [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089); [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^48-2]: Acceptà en la votaziun dal pievel dals 28 da nov. 2004, en vigur dapi il 1. da schan. 2008 (COF dals 3 d’oct. 2003, COCF dals 26 da schan. 2005, COCF dals 7 da nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316); [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089); [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
 
 #### Art. 48a
 
@@ -580,9 +580,9 @@ Sin dumonda da chantuns interessads po la Confederaziun declerar contracts inter
 
 <sup>3</sup> La lescha fixescha las premissas per la decleraziun cun vigur lianta e per l’obligaziun da participaziun e regla la procedura.
 
-[^48a-1]: Acceptà en la votaziun dal pievel dals 28 da nov. 2004, en vigur dapi il 1. da schan. 2008 (COF dals 3 d’oct. 2003, COCF dals 26 da schan. 2005, COCF dals 7 da nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
-[^48a-2]: Acceptà en la votaziun dal pievel dals 21 da matg 2006, en vigur dapi ils 21 da matg 2006 (COF dals 16 da dec. 2005, COCF dals 27 da fan. 2006 – [AS 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [BBl 2005 5479](https://fedlex.data.admin.ch/eli/fga/2005/860)[5547](https://fedlex.data.admin.ch/eli/fga/2005/862)[7273](https://fedlex.data.admin.ch/eli/fga/2005/1171), [2006 6725](https://fedlex.data.admin.ch/eli/fga/2006/818)).
-[^48a-3]: Acceptà en la votaziun dal pievel dals 21 da matg 2006, en vigur dapi ils 21 da matg 2006 (COF dals 16 da dec. 2005, COCF dals 27 da fan. 2006 – [AS 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [BBl 2005 5479](https://fedlex.data.admin.ch/eli/fga/2005/860)[5547](https://fedlex.data.admin.ch/eli/fga/2005/862)[7273](https://fedlex.data.admin.ch/eli/fga/2005/1171), [2006 6725](https://fedlex.data.admin.ch/eli/fga/2006/818)).
+[^48a-1]: Acceptà en la votaziun dal pievel dals 28 da nov. 2004, en vigur dapi il 1. da schan. 2008 (COF dals 3 d’oct. 2003, COCF dals 26 da schan. 2005, COCF dals 7 da nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316); [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089); [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^48a-2]: Acceptà en la votaziun dal pievel dals 21 da matg 2006, en vigur dapi ils 21 da matg 2006 (COF dals 16 da dec. 2005, COCF dals 27 da fan. 2006 – [AS 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [BBl 2005 5479](https://fedlex.data.admin.ch/eli/fga/2005/860), [5547](https://fedlex.data.admin.ch/eli/fga/2005/862), [7273](https://fedlex.data.admin.ch/eli/fga/2005/1171); [2006 6725](https://fedlex.data.admin.ch/eli/fga/2006/818)).
+[^48a-3]: Acceptà en la votaziun dal pievel dals 21 da matg 2006, en vigur dapi ils 21 da matg 2006 (COF dals 16 da dec. 2005, COCF dals 27 da fan. 2006 – [AS 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [BBl 2005 5479](https://fedlex.data.admin.ch/eli/fga/2005/860), [5547](https://fedlex.data.admin.ch/eli/fga/2005/862), [7273](https://fedlex.data.admin.ch/eli/fga/2005/1171); [2006 6725](https://fedlex.data.admin.ch/eli/fga/2006/818)).
 
 #### Art. 49
 
@@ -686,7 +686,7 @@ Sin dumonda da chantuns interessads po la Confederaziun declerar contracts inter
 
 <sup>3</sup> Las acziuns da l’armada èn chaussa da la Confederaziun.[^58-1]
 
-[^58-1]: Acceptà en la votaziun dal pievel dals 28 da nov. 2004, en vigur dapi il 1. da schan. 2008 (COF dals 3 d’oct. 2003, COCF dals 26 da schan. 2005, COCF dals 7 da nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^58-1]: Acceptà en la votaziun dal pievel dals 28 da nov. 2004, en vigur dapi il 1. da schan. 2008 (COF dals 3 d’oct. 2003, COCF dals 26 da schan. 2005, COCF dals 7 da nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316); [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089); [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
 
 #### Art. 59
 
@@ -712,7 +712,7 @@ Sin dumonda da chantuns interessads po la Confederaziun declerar contracts inter
 
 <sup>3</sup> La Confederaziun po surpigliar indrizs militars dals chantuns cunter ina indemnisaziun commensurada.
 
-[^60-1]: Abolì en la votaziun dal pievel dals 28 da nov. 2004, cun effect dapi il 1. da schan. 2008 (COF dals 3 d’oct. 2003, COCF dals 26 da schan. 2005, COCF dals 7 da nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^60-1]: Abolì en la votaziun dal pievel dals 28 da nov. 2004, cun effect dapi il 1. da schan. 2008 (COF dals 3 d’oct. 2003, COCF dals 26 da schan. 2005, COCF dals 7 da nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316); [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089); [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
 
 #### Art. 61
 
@@ -740,7 +740,7 @@ Sin dumonda da chantuns interessads po la Confederaziun declerar contracts inter
 
 <sup>3</sup> Ademplind lur incumbensas[^61a-2] s’engaschan la Confederaziun ed ils chantuns che las vias da furmaziun generala e da furmaziun professiunala chattian ina renconuschientscha equivalenta en la societad.
 
-[^61a-1]: Acceptà en la votaziun dal pievel dals 21 da matg 2006, en vigur dapi ils 21 da matg 2006 (COF dals 16 da dec. 2005, COCF dals 27 da fan. 2006 – [AS 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [BBl 2005 5479](https://fedlex.data.admin.ch/eli/fga/2005/860)[5547](https://fedlex.data.admin.ch/eli/fga/2005/862)[7273](https://fedlex.data.admin.ch/eli/fga/2005/1171), [2006 6725](https://fedlex.data.admin.ch/eli/fga/2006/818)).
+[^61a-1]: Acceptà en la votaziun dal pievel dals 21 da matg 2006, en vigur dapi ils 21 da matg 2006 (COF dals 16 da dec. 2005, COCF dals 27 da fan. 2006 – [AS 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [BBl 2005 5479](https://fedlex.data.admin.ch/eli/fga/2005/860), [5547](https://fedlex.data.admin.ch/eli/fga/2005/862), [7273](https://fedlex.data.admin.ch/eli/fga/2005/1171); [2006 6725](https://fedlex.data.admin.ch/eli/fga/2006/818)).
 [^61a-2]: Rectifitgà da la Cumissiun da redacziun da l’AF (art. 58 al. 1 LParl; [SR 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 
 #### Art. 62
@@ -760,11 +760,11 @@ Sin dumonda da chantuns interessads po la Confederaziun declerar contracts inter
 <sup>6</sup> Tar la preparaziun da decrets federals che concernan la cumpetenza dals chantuns vegn attribuì in pais spezial a la cooperaziun dals chantuns.[^62-6]
 
 [^62-1]: <sup>\*</sup> Cun disposiziun transitorica.
-[^62-2]: Acceptà en la votaziun dal pievel dals 21 da matg 2006, en vigur dapi ils 21 da matg 2006 (COF dals 16 da dec. 2005, COCF dals 27 da fan. 2006 – [AS 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [BBl 2005 5479](https://fedlex.data.admin.ch/eli/fga/2005/860)[5547](https://fedlex.data.admin.ch/eli/fga/2005/862)[7273](https://fedlex.data.admin.ch/eli/fga/2005/1171), [2006 6725](https://fedlex.data.admin.ch/eli/fga/2006/818)).
-[^62-3]: Acceptà en la votaziun dal pievel dals 28 da nov. 2004, en vigur dapi il 1. da schan. 2008 (COF dals 3 d’oct. 2003, COCF dals 26 da schan. 2005, COCF dals 7 da nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
-[^62-4]: Acceptà en la votaziun dal pievel dals 21 da matg 2006, en vigur dapi ils 21 da matg 2006 (COF dals 16 da dec. 2005, COCF dals 27 da fan. 2006 – [AS 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [BBl 2005 5479](https://fedlex.data.admin.ch/eli/fga/2005/860)[5547](https://fedlex.data.admin.ch/eli/fga/2005/862)[7273](https://fedlex.data.admin.ch/eli/fga/2005/1171), [2006 6725](https://fedlex.data.admin.ch/eli/fga/2006/818)).
-[^62-5]: Acceptà en la votaziun dal pievel dals 21 da matg 2006, en vigur dapi ils 21 da matg 2006 (COF dals 16 da dec. 2005, COCF dals 27 da fan. 2006 – [AS 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [BBl 2005 5479](https://fedlex.data.admin.ch/eli/fga/2005/860)[5547](https://fedlex.data.admin.ch/eli/fga/2005/862)[7273](https://fedlex.data.admin.ch/eli/fga/2005/1171), [2006 6725](https://fedlex.data.admin.ch/eli/fga/2006/818)).
-[^62-6]: Acceptà en la votaziun dal pievel dals 21 da matg 2006, en vigur dapi ils 21 da matg 2006 (COF dals 16 da dec. 2005, COCF dals 27 da fan. 2006 – [AS 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [BBl 2005 5479](https://fedlex.data.admin.ch/eli/fga/2005/860)[5547](https://fedlex.data.admin.ch/eli/fga/2005/862)[7273](https://fedlex.data.admin.ch/eli/fga/2005/1171), [2006 6725](https://fedlex.data.admin.ch/eli/fga/2006/818)).
+[^62-2]: Acceptà en la votaziun dal pievel dals 21 da matg 2006, en vigur dapi ils 21 da matg 2006 (COF dals 16 da dec. 2005, COCF dals 27 da fan. 2006 – [AS 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [BBl 2005 5479](https://fedlex.data.admin.ch/eli/fga/2005/860), [5547](https://fedlex.data.admin.ch/eli/fga/2005/862), [7273](https://fedlex.data.admin.ch/eli/fga/2005/1171); [2006 6725](https://fedlex.data.admin.ch/eli/fga/2006/818)).
+[^62-3]: Acceptà en la votaziun dal pievel dals 28 da nov. 2004, en vigur dapi il 1. da schan. 2008 (COF dals 3 d’oct. 2003, COCF dals 26 da schan. 2005, COCF dals 7 da nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316); [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089); [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^62-4]: Acceptà en la votaziun dal pievel dals 21 da matg 2006, en vigur dapi ils 21 da matg 2006 (COF dals 16 da dec. 2005, COCF dals 27 da fan. 2006 – [AS 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [BBl 2005 5479](https://fedlex.data.admin.ch/eli/fga/2005/860), [5547](https://fedlex.data.admin.ch/eli/fga/2005/862), [7273](https://fedlex.data.admin.ch/eli/fga/2005/1171); [2006 6725](https://fedlex.data.admin.ch/eli/fga/2006/818)).
+[^62-5]: Acceptà en la votaziun dal pievel dals 21 da matg 2006, en vigur dapi ils 21 da matg 2006 (COF dals 16 da dec. 2005, COCF dals 27 da fan. 2006 – [AS 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [BBl 2005 5479](https://fedlex.data.admin.ch/eli/fga/2005/860), [5547](https://fedlex.data.admin.ch/eli/fga/2005/862), [7273](https://fedlex.data.admin.ch/eli/fga/2005/1171); [2006 6725](https://fedlex.data.admin.ch/eli/fga/2006/818)).
+[^62-6]: Acceptà en la votaziun dal pievel dals 21 da matg 2006, en vigur dapi ils 21 da matg 2006 (COF dals 16 da dec. 2005, COCF dals 27 da fan. 2006 – [AS 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [BBl 2005 5479](https://fedlex.data.admin.ch/eli/fga/2005/860), [5547](https://fedlex.data.admin.ch/eli/fga/2005/862), [7273](https://fedlex.data.admin.ch/eli/fga/2005/1171); [2006 6725](https://fedlex.data.admin.ch/eli/fga/2006/818)).
 
 #### Art. 63
 
@@ -774,7 +774,7 @@ Sin dumonda da chantuns interessads po la Confederaziun declerar contracts inter
 
 <sup>2</sup> Ella promova la diversitad e la permeabilitad da la purschida en il sectur da la furmaziun professiunala.
 
-[^63-1]: Acceptà en la votaziun dal pievel dals 21 da matg 2006, en vigur dapi ils 21 da matg 2006 (COF dals 16 da dec. 2005, COCF dals 27 da fan. 2006 – [AS 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [BBl 2005 5479](https://fedlex.data.admin.ch/eli/fga/2005/860)[5547](https://fedlex.data.admin.ch/eli/fga/2005/862)[7273](https://fedlex.data.admin.ch/eli/fga/2005/1171), [2006 6725](https://fedlex.data.admin.ch/eli/fga/2006/818)).
+[^63-1]: Acceptà en la votaziun dal pievel dals 21 da matg 2006, en vigur dapi ils 21 da matg 2006 (COF dals 16 da dec. 2005, COCF dals 27 da fan. 2006 – [AS 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [BBl 2005 5479](https://fedlex.data.admin.ch/eli/fga/2005/860), [5547](https://fedlex.data.admin.ch/eli/fga/2005/862), [7273](https://fedlex.data.admin.ch/eli/fga/2005/1171); [2006 6725](https://fedlex.data.admin.ch/eli/fga/2006/818)).
 
 #### Art. 63a
 
@@ -790,7 +790,7 @@ Sin dumonda da chantuns interessads po la Confederaziun declerar contracts inter
 
 <sup>5</sup> Sche la Confederaziun ed ils chantuns na cuntanschan betg las finamiras communablas tras coordinaziun, decretescha la Confederaziun prescripziuns davart ils stgalims da studi, davart ils passadis d’in stgalim a l’auter, davart la furmaziun supplementara e davart la renconuschientscha d’instituziuns e da diploms. Ultra da quai po la Confederaziun liar il sustegn da las scolas autas a princips da finanziaziun unitars e far depender il sustegn da la repartiziun da las incumbensas tranter las scolas autas en secturs che chaschunan custs spezialmain auts.
 
-[^63a-1]: Acceptà en la votaziun dal pievel dals 21 da matg 2006, en vigur dapi ils 21 da matg 2006 (COF dals 16 da dec. 2005, COCF dals 27 da fan. 2006 – [AS 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [BBl 2005 5479](https://fedlex.data.admin.ch/eli/fga/2005/860)[5547](https://fedlex.data.admin.ch/eli/fga/2005/862)[7273](https://fedlex.data.admin.ch/eli/fga/2005/1171), [2006 6725](https://fedlex.data.admin.ch/eli/fga/2006/818)).
+[^63a-1]: Acceptà en la votaziun dal pievel dals 21 da matg 2006, en vigur dapi ils 21 da matg 2006 (COF dals 16 da dec. 2005, COCF dals 27 da fan. 2006 – [AS 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [BBl 2005 5479](https://fedlex.data.admin.ch/eli/fga/2005/860), [5547](https://fedlex.data.admin.ch/eli/fga/2005/862), [7273](https://fedlex.data.admin.ch/eli/fga/2005/1171); [2006 6725](https://fedlex.data.admin.ch/eli/fga/2006/818)).
 
 #### Art. 64
 
@@ -802,8 +802,8 @@ Sin dumonda da chantuns interessads po la Confederaziun declerar contracts inter
 
 <sup>3</sup> Ella po fabritgar, surpigliar u manar centers da perscrutaziun.
 
-[^64-1]: Acceptà en la votaziun dal pievel dals 21 da matg 2006, en vigur dapi ils 21 da matg 2006 (COF dals 16 da dec. 2005, COCF dals 27 da fan. 2006 – [AS 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [BBl 2005 5479](https://fedlex.data.admin.ch/eli/fga/2005/860)[5547](https://fedlex.data.admin.ch/eli/fga/2005/862)[7273](https://fedlex.data.admin.ch/eli/fga/2005/1171), [2006 6725](https://fedlex.data.admin.ch/eli/fga/2006/818)).
-[^64-2]: Acceptà en la votaziun dal pievel dals 21 da matg 2006, en vigur dapi ils 21 da matg 2006 (COF dals 16 da dec. 2005, COCF dals 27 da fan. 2006 – [AS 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [BBl 2005 5479](https://fedlex.data.admin.ch/eli/fga/2005/860)[5547](https://fedlex.data.admin.ch/eli/fga/2005/862)[7273](https://fedlex.data.admin.ch/eli/fga/2005/1171), [2006 6725](https://fedlex.data.admin.ch/eli/fga/2006/818)).
+[^64-1]: Acceptà en la votaziun dal pievel dals 21 da matg 2006, en vigur dapi ils 21 da matg 2006 (COF dals 16 da dec. 2005, COCF dals 27 da fan. 2006 – [AS 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [BBl 2005 5479](https://fedlex.data.admin.ch/eli/fga/2005/860), [5547](https://fedlex.data.admin.ch/eli/fga/2005/862), [7273](https://fedlex.data.admin.ch/eli/fga/2005/1171); [2006 6725](https://fedlex.data.admin.ch/eli/fga/2006/818)).
+[^64-2]: Acceptà en la votaziun dal pievel dals 21 da matg 2006, en vigur dapi ils 21 da matg 2006 (COF dals 16 da dec. 2005, COCF dals 27 da fan. 2006 – [AS 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [BBl 2005 5479](https://fedlex.data.admin.ch/eli/fga/2005/860), [5547](https://fedlex.data.admin.ch/eli/fga/2005/862), [7273](https://fedlex.data.admin.ch/eli/fga/2005/1171); [2006 6725](https://fedlex.data.admin.ch/eli/fga/2006/818)).
 
 #### Art. 64a
 
@@ -815,7 +815,7 @@ Sin dumonda da chantuns interessads po la Confederaziun declerar contracts inter
 
 <sup>3</sup> La lescha fixescha ils secturs ed ils criteris.
 
-[^64a-1]: Acceptà en la votaziun dal pievel dals 21 da matg 2006, en vigur dapi ils 21 da matg 2006 (COF dals 16 da dec. 2005, COCF dals 27 da fan. 2006 – [AS 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [BBl 2005 5479](https://fedlex.data.admin.ch/eli/fga/2005/860)[5547](https://fedlex.data.admin.ch/eli/fga/2005/862)[7273](https://fedlex.data.admin.ch/eli/fga/2005/1171), [2006 6725](https://fedlex.data.admin.ch/eli/fga/2006/818)).
+[^64a-1]: Acceptà en la votaziun dal pievel dals 21 da matg 2006, en vigur dapi ils 21 da matg 2006 (COF dals 16 da dec. 2005, COCF dals 27 da fan. 2006 – [AS 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [BBl 2005 5479](https://fedlex.data.admin.ch/eli/fga/2005/860), [5547](https://fedlex.data.admin.ch/eli/fga/2005/862), [7273](https://fedlex.data.admin.ch/eli/fga/2005/1171); [2006 6725](https://fedlex.data.admin.ch/eli/fga/2006/818)).
 
 #### Art. 65
 
@@ -825,7 +825,7 @@ Sin dumonda da chantuns interessads po la Confederaziun declerar contracts inter
 
 <sup>2</sup> Ella po decretar prescripziuns davart l’armonisaziun e la direcziun da registers uffizials per limitar ils sforzs per las retschertgas.
 
-[^65-1]: Acceptà en la votaziun dal pievel dals 21 da matg 2006, en vigur dapi ils 21 da matg 2006 (COF dals 16 da dec. 2005, COCF dals 27 da fan. 2006 – [AS 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [BBl 2005 5479](https://fedlex.data.admin.ch/eli/fga/2005/860)[5547](https://fedlex.data.admin.ch/eli/fga/2005/862)[7273](https://fedlex.data.admin.ch/eli/fga/2005/1171), [2006 6725](https://fedlex.data.admin.ch/eli/fga/2006/818)).
+[^65-1]: Acceptà en la votaziun dal pievel dals 21 da matg 2006, en vigur dapi ils 21 da matg 2006 (COF dals 16 da dec. 2005, COCF dals 27 da fan. 2006 – [AS 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [BBl 2005 5479](https://fedlex.data.admin.ch/eli/fga/2005/860), [5547](https://fedlex.data.admin.ch/eli/fga/2005/862), [7273](https://fedlex.data.admin.ch/eli/fga/2005/1171); [2006 6725](https://fedlex.data.admin.ch/eli/fga/2006/818)).
 
 #### Art. 66
 
@@ -835,8 +835,8 @@ Sin dumonda da chantuns interessads po la Confederaziun declerar contracts inter
 
 <sup>2</sup> Ella po ultra da quai prender atgnas mesiras per promover la furmaziun; quai succeda sco cumplettaziun da las mesiras chantunalas e resguardond la suveranitad chantunala da scola.
 
-[^66-1]: Acceptà en la votaziun dal pievel dals 21 da matg 2006, en vigur dapi ils 21 da matg 2006 (COF dals 16 da dec. 2005, COCF dals 27 da fan. 2006 – [AS 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [BBl 2005 5479](https://fedlex.data.admin.ch/eli/fga/2005/860)[5547](https://fedlex.data.admin.ch/eli/fga/2005/862)[7273](https://fedlex.data.admin.ch/eli/fga/2005/1171), [2006 6725](https://fedlex.data.admin.ch/eli/fga/2006/818)).
-[^66-2]: Acceptà en la votaziun dal pievel dals 21 da matg 2006, en vigur dapi ils 21 da matg 2006 (COF dals 16 da dec. 2005, COCF dals 27 da fan. 2006 – [AS 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [BBl 2005 5479](https://fedlex.data.admin.ch/eli/fga/2005/860)[5547](https://fedlex.data.admin.ch/eli/fga/2005/862)[7273](https://fedlex.data.admin.ch/eli/fga/2005/1171), [2006 6725](https://fedlex.data.admin.ch/eli/fga/2006/818)).
+[^66-1]: Acceptà en la votaziun dal pievel dals 21 da matg 2006, en vigur dapi ils 21 da matg 2006 (COF dals 16 da dec. 2005, COCF dals 27 da fan. 2006 – [AS 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [BBl 2005 5479](https://fedlex.data.admin.ch/eli/fga/2005/860), [5547](https://fedlex.data.admin.ch/eli/fga/2005/862), [7273](https://fedlex.data.admin.ch/eli/fga/2005/1171); [2006 6725](https://fedlex.data.admin.ch/eli/fga/2006/818)).
+[^66-2]: Acceptà en la votaziun dal pievel dals 21 da matg 2006, en vigur dapi ils 21 da matg 2006 (COF dals 16 da dec. 2005, COCF dals 27 da fan. 2006 – [AS 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [BBl 2005 5479](https://fedlex.data.admin.ch/eli/fga/2005/860), [5547](https://fedlex.data.admin.ch/eli/fga/2005/862), [7273](https://fedlex.data.admin.ch/eli/fga/2005/1171); [2006 6725](https://fedlex.data.admin.ch/eli/fga/2006/818)).
 
 #### Art. 67
 
@@ -846,8 +846,8 @@ Sin dumonda da chantuns interessads po la Confederaziun declerar contracts inter
 
 <sup>2</sup> En cumplettaziun da mesiras chantunalas po la Confederaziun sustegnair la lavur cun uffants e cun giuvenils ordaifer la scola.[^67-2]
 
-[^67-1]: Acceptà en la votaziun dal pievel dals 21 da matg 2006, en vigur dapi ils 21 da matg 2006 (COF dals 16 da dec. 2005, COCF dals 27 da fan. 2006 – [AS 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [BBl 2005 5479](https://fedlex.data.admin.ch/eli/fga/2005/860)[5547](https://fedlex.data.admin.ch/eli/fga/2005/862)[7273](https://fedlex.data.admin.ch/eli/fga/2005/1171), [2006 6725](https://fedlex.data.admin.ch/eli/fga/2006/818)).
-[^67-2]: Acceptà en la votaziun dal pievel dals 21 da matg 2006, en vigur dapi ils 21 da matg 2006 (COF dals 16 da dec. 2005, COCF dals 27 da fan. 2006 – [AS 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [BBl 2005 5479](https://fedlex.data.admin.ch/eli/fga/2005/860)[5547](https://fedlex.data.admin.ch/eli/fga/2005/862)[7273](https://fedlex.data.admin.ch/eli/fga/2005/1171), [2006 6725](https://fedlex.data.admin.ch/eli/fga/2006/818)).
+[^67-1]: Acceptà en la votaziun dal pievel dals 21 da matg 2006, en vigur dapi ils 21 da matg 2006 (COF dals 16 da dec. 2005, COCF dals 27 da fan. 2006 – [AS 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [BBl 2005 5479](https://fedlex.data.admin.ch/eli/fga/2005/860), [5547](https://fedlex.data.admin.ch/eli/fga/2005/862), [7273](https://fedlex.data.admin.ch/eli/fga/2005/1171); [2006 6725](https://fedlex.data.admin.ch/eli/fga/2006/818)).
+[^67-2]: Acceptà en la votaziun dal pievel dals 21 da matg 2006, en vigur dapi ils 21 da matg 2006 (COF dals 16 da dec. 2005, COCF dals 27 da fan. 2006 – [AS 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [BBl 2005 5479](https://fedlex.data.admin.ch/eli/fga/2005/860), [5547](https://fedlex.data.admin.ch/eli/fga/2005/862), [7273](https://fedlex.data.admin.ch/eli/fga/2005/1171); [2006 6725](https://fedlex.data.admin.ch/eli/fga/2006/818)).
 
 #### Art. 67a
 
@@ -859,7 +859,7 @@ Sin dumonda da chantuns interessads po la Confederaziun declerar contracts inter
 
 <sup>3</sup> En cooperaziun cun ils chantuns determinescha la Confederaziun princips per l’access da la giuventetgna al far musica e per la promoziun da talents musicals.
 
-[^67a-1]: Acceptà en la votaziun dal pievel dals 23 da sett. 2012, en vigur dapi ils 23 da sett. 2012 (COF dals 15 da mars 2012, COCF dals 29 da schan. 2013 – [AS 2013 435](https://fedlex.data.admin.ch/eli/oc/2013/85); [BBl 2009 613](https://fedlex.data.admin.ch/eli/fga/2009/122), [2010 1](https://fedlex.data.admin.ch/eli/fga/2010/1), [2012 3443](https://fedlex.data.admin.ch/eli/fga/2012/452)[6899](https://fedlex.data.admin.ch/eli/fga/2012/1001), [2013 1135](https://fedlex.data.admin.ch/eli/fga/2013/166)).
+[^67a-1]: Acceptà en la votaziun dal pievel dals 23 da sett. 2012, en vigur dapi ils 23 da sett. 2012 (COF dals 15 da mars 2012, COCF dals 29 da schan. 2013 – [AS 2013 435](https://fedlex.data.admin.ch/eli/oc/2013/85); [BBl 2009 613](https://fedlex.data.admin.ch/eli/fga/2009/122); [2010 1](https://fedlex.data.admin.ch/eli/fga/2010/1); [2012 3443](https://fedlex.data.admin.ch/eli/fga/2012/452), [6899](https://fedlex.data.admin.ch/eli/fga/2012/1001); [2013 1135](https://fedlex.data.admin.ch/eli/fga/2013/166)).
 
 #### Art. 68
 
@@ -913,7 +913,7 @@ Sin dumonda da chantuns interessads po la Confederaziun declerar contracts inter
 
 <sup>3</sup> Igl è scumandà da construir minarets.[^72-1]
 
-[^72-1]: Acceptà en la votaziun dal pievel dals 29 da nov. 2009, en vigur dapi ils 29 da nov. 2009 (COF dals 12 da zer. 2009, COCF dals 5 da matg 2010 – [AS 2010 2161](https://fedlex.data.admin.ch/eli/oc/2010/293); [BBl 2008 6851](https://fedlex.data.admin.ch/eli/fga/2008/1174)[7603](https://fedlex.data.admin.ch/eli/fga/2008/1294), [2009 4381](https://fedlex.data.admin.ch/eli/fga/2009/776), [2010 3437](https://fedlex.data.admin.ch/eli/fga/2010/606)).
+[^72-1]: Acceptà en la votaziun dal pievel dals 29 da nov. 2009, en vigur dapi ils 29 da nov. 2009 (COF dals 12 da zer. 2009, COCF dals 5 da matg 2010 – [AS 2010 2161](https://fedlex.data.admin.ch/eli/oc/2010/293); [BBl 2008 6851](https://fedlex.data.admin.ch/eli/fga/2008/1174), [7603](https://fedlex.data.admin.ch/eli/fga/2008/1294); [2009 4381](https://fedlex.data.admin.ch/eli/fga/2009/776); [2010 3437](https://fedlex.data.admin.ch/eli/fga/2010/606)).
 
 ### 4. partiziun Ambient e planisaziun dal territori
 
@@ -953,7 +953,7 @@ La Confederaziun ed ils chantuns han en mira ina relaziun equilibrada persistent
 
 <sup>3</sup> Ella po decretar prescripziuns davart l’armonisaziun d’infurmaziuns uffizialas che concernan il funs ed il terren.
 
-[^75a-1]: Acceptà en la votaziun dal pievel dals 28 da nov. 2004, en vigur dapi il 1. da schan. 2008 (COF dals 3 d’oct. 2003, COCF dals 26 da schan. 2005, COCF dals 7 da nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^75a-1]: Acceptà en la votaziun dal pievel dals 28 da nov. 2004, en vigur dapi il 1. da schan. 2008 (COF dals 3 d’oct. 2003, COCF dals 26 da schan. 2005, COCF dals 7 da nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316); [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089); [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
 
 #### Art. 75b
 
@@ -963,7 +963,7 @@ La Confederaziun ed ils chantuns han en mira ina relaziun equilibrada persistent
 
 <sup>2</sup> La lescha oblighescha las vischnancas da publitgar mintga onn lur plan da quotas d’emprimas abitaziuns ed il stadi detaglià da sia execuziun.
 
-[^75b-1]: Acceptà en la votaziun dal pievel dals 11 da mars 2012, en vigur dapi ils 11 da mars 2012 (COF dals 17 da zer. 2011, COCF dals 20 da zer. 2012 – [AS 2012 3627](https://fedlex.data.admin.ch/eli/oc/2012/416); [BBl 2008 1113](https://fedlex.data.admin.ch/eli/fga/2008/235)[8757](https://fedlex.data.admin.ch/eli/fga/2008/1556), [2011 4825](https://fedlex.data.admin.ch/eli/fga/2011/766), [2012 6623](https://fedlex.data.admin.ch/eli/fga/2012/969)).
+[^75b-1]: Acceptà en la votaziun dal pievel dals 11 da mars 2012, en vigur dapi ils 11 da mars 2012 (COF dals 17 da zer. 2011, COCF dals 20 da zer. 2012 – [AS 2012 3627](https://fedlex.data.admin.ch/eli/oc/2012/416); [BBl 2008 1113](https://fedlex.data.admin.ch/eli/fga/2008/235), [8757](https://fedlex.data.admin.ch/eli/fga/2008/1556); [2011 4825](https://fedlex.data.admin.ch/eli/fga/2011/766); [2012 6623](https://fedlex.data.admin.ch/eli/fga/2012/969)).
 [^75b-2]: <sup>\*</sup> Cun disposiziun transitorica.
 
 #### Art. 76
@@ -1047,7 +1047,7 @@ La Confederaziun po realisar e metter en funcziun ovras publicas u sustegnair lu
 
 <sup>2</sup> Ils custs dal traffic public vegnan cuvrids per ina part cunvegnenta tras ils pretschs pajads da las utilisadras e dals utilisaders dal traffic public.
 
-[^81a-1]: Acceptà en la votaziun dal pievel dals 9 da favr. 2014, en vigur dapi il 1. da schan. 2016 (COF dals 20 da zer. 2013, COCF dals 13 da matg 2014, COCF dals 2 da zer. 2014, COCF dals 6 da zer. 2014 – [AS 2015 645](https://fedlex.data.admin.ch/eli/oc/2015/104); [BBl 2010 6637](https://fedlex.data.admin.ch/eli/fga/2010/1168), [2012 1577](https://fedlex.data.admin.ch/eli/fga/2012/305), [2013 4725](https://fedlex.data.admin.ch/eli/fga/2013/897)[6518](https://fedlex.data.admin.ch/eli/fga/2013/1136), [2014 4113](https://fedlex.data.admin.ch/eli/fga/2014/970)[4117](https://fedlex.data.admin.ch/eli/fga/2014/972)).
+[^81a-1]: Acceptà en la votaziun dal pievel dals 9 da favr. 2014, en vigur dapi il 1. da schan. 2016 (COF dals 20 da zer. 2013, COCF dals 13 da matg 2014, COCF dals 2 da zer. 2014, COCF dals 6 da zer. 2014 – [AS 2015 645](https://fedlex.data.admin.ch/eli/oc/2015/104); [BBl 2010 6637](https://fedlex.data.admin.ch/eli/fga/2010/1168); [2012 1577](https://fedlex.data.admin.ch/eli/fga/2012/305); [2013 4725](https://fedlex.data.admin.ch/eli/fga/2013/897), [6518](https://fedlex.data.admin.ch/eli/fga/2013/1136); [2014 4113](https://fedlex.data.admin.ch/eli/fga/2014/970), [4117](https://fedlex.data.admin.ch/eli/fga/2014/972)).
 
 #### Art. 82
 
@@ -1067,7 +1067,7 @@ La Confederaziun po realisar e metter en funcziun ovras publicas u sustegnair lu
 
 <sup>2</sup> La Confederaziun garantescha la realisaziun e l’utilisabladad d’ina rait da vias naziunalas. Ella construescha, maina e mantegna las vias naziunalas. Ella surpiglia ils custs respectivs. Ella po delegar questas incumbensas cumplettamain u parzialmain a purtaders publics, privats u maschadads.
 
-[^83-1]: Acceptà en la votaziun dal pievel dals 12 da favr. 2017, en vigur dapi il 1. da schan. 2018 (COF dals 30 da sett. 2016, COCF dals 10 da nov. 2016 – [AS 2017 6731](https://fedlex.data.admin.ch/eli/oc/2017/751); [BBl 2015 2065](https://fedlex.data.admin.ch/eli/fga/2015/416), [2016 7587](https://fedlex.data.admin.ch/eli/fga/2016/1628), [2017 3387](https://fedlex.data.admin.ch/eli/fga/2017/748)).
+[^83-1]: Acceptà en la votaziun dal pievel dals 12 da favr. 2017, en vigur dapi il 1. da schan. 2018 (COF dals 30 da sett. 2016, COCF dals 10 da nov. 2016 – [AS 2017 6731](https://fedlex.data.admin.ch/eli/oc/2017/751); [BBl 2015 2065](https://fedlex.data.admin.ch/eli/fga/2015/416); [2016 7587](https://fedlex.data.admin.ch/eli/fga/2016/1628); [2017 3387](https://fedlex.data.admin.ch/eli/fga/2017/748)).
 
 #### Art. 84
 
@@ -1092,7 +1092,7 @@ La Confederaziun po realisar e metter en funcziun ovras publicas u sustegnair lu
 <sup>3</sup> Ils chantuns vegnan participads al retgav net. Tar la calculaziun da las parts èn da resguardar particularmain ils effects da la taxa sin las regiuns muntagnardas e periferas.
 
 [^85-1]: <sup>\*</sup> Cun disposiziun transitorica.
-[^85-2]: Acceptà en la votaziun dal pievel dals 9 da favr. 2014, en vigur dapi il 1. da schan. 2016 (COF dals 20 da zer. 2013, COCF dals 13 da matg 2014, COCF dals 2 da zer. 2014, COCF dals 6 da zer. 2014 – [AS 2015 645](https://fedlex.data.admin.ch/eli/oc/2015/104); [BBl 2010 6637](https://fedlex.data.admin.ch/eli/fga/2010/1168), [2012 1577](https://fedlex.data.admin.ch/eli/fga/2012/305), [2013 4725](https://fedlex.data.admin.ch/eli/fga/2013/897)[6518](https://fedlex.data.admin.ch/eli/fga/2013/1136), [2014 4113](https://fedlex.data.admin.ch/eli/fga/2014/970)[4117](https://fedlex.data.admin.ch/eli/fga/2014/972)).
+[^85-2]: Acceptà en la votaziun dal pievel dals 9 da favr. 2014, en vigur dapi il 1. da schan. 2016 (COF dals 20 da zer. 2013, COCF dals 13 da matg 2014, COCF dals 2 da zer. 2014, COCF dals 6 da zer. 2014 – [AS 2015 645](https://fedlex.data.admin.ch/eli/oc/2015/104); [BBl 2010 6637](https://fedlex.data.admin.ch/eli/fga/2010/1168); [2012 1577](https://fedlex.data.admin.ch/eli/fga/2012/305); [2013 4725](https://fedlex.data.admin.ch/eli/fga/2013/897), [6518](https://fedlex.data.admin.ch/eli/fga/2013/1136); [2014 4113](https://fedlex.data.admin.ch/eli/fga/2014/970), [4117](https://fedlex.data.admin.ch/eli/fga/2014/972)).
 
 #### Art. 85a
 
@@ -1100,7 +1100,7 @@ La Confederaziun po realisar e metter en funcziun ovras publicas u sustegnair lu
 
 La Confederaziun incassescha ina taxa per l’utilisaziun da las vias naziunalas cun vehichels a motor e cun chars annexs che n’èn betg suttamess a la taxa sin il traffic da camiuns pesants.
 
-[^85a-1]: Acceptà en la votaziun dal pievel dals 12 da favr. 2017, en vigur dapi il 1. da schan. 2018 (COF dals 30 da sett. 2016, COCF dals 10 da nov. 2016 – [AS 2017 6731](https://fedlex.data.admin.ch/eli/oc/2017/751); [BBl 2015 2065](https://fedlex.data.admin.ch/eli/fga/2015/416), [2016 7587](https://fedlex.data.admin.ch/eli/fga/2016/1628), [2017 3387](https://fedlex.data.admin.ch/eli/fga/2017/748)).
+[^85a-1]: Acceptà en la votaziun dal pievel dals 12 da favr. 2017, en vigur dapi il 1. da schan. 2018 (COF dals 30 da sett. 2016, COCF dals 10 da nov. 2016 – [AS 2017 6731](https://fedlex.data.admin.ch/eli/oc/2017/751); [BBl 2015 2065](https://fedlex.data.admin.ch/eli/fga/2015/416); [2016 7587](https://fedlex.data.admin.ch/eli/fga/2016/1628); [2017 3387](https://fedlex.data.admin.ch/eli/fga/2017/748)).
 
 #### Art. 86
 
@@ -1137,7 +1137,7 @@ Per las suandantas incumbensas ed expensas en connex cun il traffic sin via vegn
 
 <sup>5</sup> Sch’il basegn è cumprovà en la finanziaziun speziala e sch’i duai vegnir furmada ina retenziun adequata en la finanziaziun speziala, ston ils retgavs da la taglia da consum tenor l’artitgel 131 alinea 1 litera d vegnir assegnads a la finanziaziun speziala empè al fond.
 
-[^86-1]: Acceptà en la votaziun dal pievel dals 12 da favr. 2017, en vigur dapi il 1. da schan. 2018, al. 2 lit. g e 3 lit. g en vigur dapi il 1. da schan. 2020 (COF dals 30 da sett. 2016, COCF dals 10 da nov. 2016 – [AS 2017 6731](https://fedlex.data.admin.ch/eli/oc/2017/751); [BBl 2015 2065](https://fedlex.data.admin.ch/eli/fga/2015/416), [2016 7587](https://fedlex.data.admin.ch/eli/fga/2016/1628), [2017 3387](https://fedlex.data.admin.ch/eli/fga/2017/748)).
+[^86-1]: Acceptà en la votaziun dal pievel dals 12 da favr. 2017, en vigur dapi il 1. da schan. 2018, al. 2 lit. g e 3 lit. g en vigur dapi il 1. da schan. 2020 (COF dals 30 da sett. 2016, COCF dals 10 da nov. 2016 – [AS 2017 6731](https://fedlex.data.admin.ch/eli/oc/2017/751); [BBl 2015 2065](https://fedlex.data.admin.ch/eli/fga/2015/416); [2016 7587](https://fedlex.data.admin.ch/eli/fga/2016/1628); [2017 3387](https://fedlex.data.admin.ch/eli/fga/2017/748)).
 [^86-2]: <sup>\*</sup> Cun disposiziun transitorica.
 
 #### Art. 87
@@ -1167,7 +1167,7 @@ L’infrastructura da viafier vegn finanziada sur in fond. Al fond vegnan attrib
 
 <sup>4</sup> La lescha po prevair ina finanziaziun cumplementara tras terzas persunas.
 
-[^87a-1]: Acceptà en la votaziun dal pievel dals 9 da favr. 2014, en vigur dapi il 1. da schan. 2016 (COF dals 20 da zer. 2013, COCF dals 13 da matg 2014, COCF dals 2 da zer. 2014, COCF dals 6 da zer. 2014 – [AS 2015 645](https://fedlex.data.admin.ch/eli/oc/2015/104); [BBl 2010 6637](https://fedlex.data.admin.ch/eli/fga/2010/1168), [2012 1577](https://fedlex.data.admin.ch/eli/fga/2012/305), [2013 4725](https://fedlex.data.admin.ch/eli/fga/2013/897)[6518](https://fedlex.data.admin.ch/eli/fga/2013/1136), [2014 4113](https://fedlex.data.admin.ch/eli/fga/2014/970)[4117](https://fedlex.data.admin.ch/eli/fga/2014/972)).
+[^87a-1]: Acceptà en la votaziun dal pievel dals 9 da favr. 2014, en vigur dapi il 1. da schan. 2016 (COF dals 20 da zer. 2013, COCF dals 13 da matg 2014, COCF dals 2 da zer. 2014, COCF dals 6 da zer. 2014 – [AS 2015 645](https://fedlex.data.admin.ch/eli/oc/2015/104); [BBl 2010 6637](https://fedlex.data.admin.ch/eli/fga/2010/1168); [2012 1577](https://fedlex.data.admin.ch/eli/fga/2012/305); [2013 4725](https://fedlex.data.admin.ch/eli/fga/2013/897), [6518](https://fedlex.data.admin.ch/eli/fga/2013/1136); [2014 4113](https://fedlex.data.admin.ch/eli/fga/2014/970), [4117](https://fedlex.data.admin.ch/eli/fga/2014/972)).
 [^87a-2]: <sup>\*</sup> Cun disposiziun transitorica.
 
 #### Art. 87b
@@ -1180,7 +1180,7 @@ La mesadad dal retgav net da la taglia da consum sin carburants d’aviatica ed 
 - b. las contribuziuns a mesiras da segirezza per proteger il traffic aviatic cunter acts illegals, en spezial attentats terroristics e rapiments, uschenavant che questas mesiras n’èn betg chaussa d’autoritads statalas;
 - c. las contribuziuns a mesiras per promover in aut nivel da segirezza tecnica en il traffic aviatic.
 
-[^87b-1]: Acceptà en la votaziun dal pievel dals 12 da favr. 2017, en vigur dapi il 1. da schan. 2018 (COF dals 30 da sett. 2016, COCF dals 10 da nov. 2016 – [AS 2017 6731](https://fedlex.data.admin.ch/eli/oc/2017/751); [BBl 2015 2065](https://fedlex.data.admin.ch/eli/fga/2015/416), [2016 7587](https://fedlex.data.admin.ch/eli/fga/2016/1628), [2017 3387](https://fedlex.data.admin.ch/eli/fga/2017/748)).
+[^87b-1]: Acceptà en la votaziun dal pievel dals 12 da favr. 2017, en vigur dapi il 1. da schan. 2018 (COF dals 30 da sett. 2016, COCF dals 10 da nov. 2016 – [AS 2017 6731](https://fedlex.data.admin.ch/eli/oc/2017/751); [BBl 2015 2065](https://fedlex.data.admin.ch/eli/fga/2015/416); [2016 7587](https://fedlex.data.admin.ch/eli/fga/2016/1628); [2017 3387](https://fedlex.data.admin.ch/eli/fga/2017/748)).
 
 #### Art. 88
 
@@ -1192,7 +1192,7 @@ La mesadad dal retgav net da la taglia da consum sin carburants d’aviatica ed 
 
 <sup>3</sup> Ademplind sias incumbensas resguarda ella talas raits. Ella remplazza vias ch’ella ha d’eliminar.
 
-[^88-1]: Acceptà en la votaziun dal pievel dals 23 da sett. 2018, en vigur dapi ils 23 da sett. 2018 (COF dals 13 da mars 2018, COCF dals 21 da schan. 2019 – [AS 2019 525](https://fedlex.data.admin.ch/eli/oc/2019/91); [BBl 2016 1791](https://fedlex.data.admin.ch/eli/fga/2016/385), [2017 5901](https://fedlex.data.admin.ch/eli/fga/2017/1639), [2018 1859](https://fedlex.data.admin.ch/eli/fga/2018/685), [2019 1311](https://fedlex.data.admin.ch/eli/fga/2019/279)).
+[^88-1]: Acceptà en la votaziun dal pievel dals 23 da sett. 2018, en vigur dapi ils 23 da sett. 2018 (COF dals 13 da mars 2018, COCF dals 21 da schan. 2019 – [AS 2019 525](https://fedlex.data.admin.ch/eli/oc/2019/91); [BBl 2016 1791](https://fedlex.data.admin.ch/eli/fga/2016/385); [2017 5901](https://fedlex.data.admin.ch/eli/fga/2017/1639); [2018 1859](https://fedlex.data.admin.ch/eli/fga/2018/685); [2019 1311](https://fedlex.data.admin.ch/eli/fga/2019/279)).
 
 ### 6. partiziun Energia e communicaziun
 
@@ -1280,7 +1280,7 @@ Per proteger l’economia publica, la proprietad privata ed ils acziunaris ed er
 - d. La violaziun da las disposiziuns tenor las literas a–c vegn sancziunada cun in chasti da detenziun fin a trais onns e cun in chasti pecuniar fin a sis remuneraziuns annualas.[^95-2]
 
 [^95-1]: <sup>\*</sup> Cun disposiziun transitorica.
-[^95-2]: Acceptà en la votaziun dal pievel dals 3 da mars 2013, en vigur dapi ils 3 da mars 2013 (COF dals 15 da nov. 2012 e dals 30 d’avr. 2013 – [AS 2013 1303](https://fedlex.data.admin.ch/eli/oc/2013/297); [BBl 2006 8755](https://fedlex.data.admin.ch/eli/fga/2006/1115), [2008 2577](https://fedlex.data.admin.ch/eli/fga/2008/557), [2009 299](https://fedlex.data.admin.ch/eli/fga/2009/37), [2012 9219](https://fedlex.data.admin.ch/eli/fga/2012/1688), [2013 3129](https://fedlex.data.admin.ch/eli/fga/2013/646)).
+[^95-2]: Acceptà en la votaziun dal pievel dals 3 da mars 2013, en vigur dapi ils 3 da mars 2013 (COF dals 15 da nov. 2012 e dals 30 d’avr. 2013 – [AS 2013 1303](https://fedlex.data.admin.ch/eli/oc/2013/297); [BBl 2006 8755](https://fedlex.data.admin.ch/eli/fga/2006/1115); [2008 2577](https://fedlex.data.admin.ch/eli/fga/2008/557); [2009 299](https://fedlex.data.admin.ch/eli/fga/2009/37); [2012 9219](https://fedlex.data.admin.ch/eli/fga/2012/1688); [2013 3129](https://fedlex.data.admin.ch/eli/fga/2013/646)).
 
 #### Art. 96
 
@@ -1408,7 +1408,7 @@ Per garantir il provediment da la populaziun cun victualias stgaffescha la Confe
 - d. relaziuns commerzialas transcunfinalas che gidan a sviluppar en moda persistenta l’agricultura e l’economia alimentara;
 - e. in diever da victualias che spargna resursas.
 
-[^104a-1]: Acceptà en la votaziun dal pievel dals 24 da sett. 2017, en vigur dapi ils 24 da sett. 2017 (COF dals 14 da mars 2017, COCF dals 30 da nov. 2017 – [AS 2017 6735](https://fedlex.data.admin.ch/eli/oc/2017/752); [BBl 2014 6135](https://fedlex.data.admin.ch/eli/fga/2014/1287), [2015 5753](https://fedlex.data.admin.ch/eli/fga/2015/1320), [2017 2495](https://fedlex.data.admin.ch/eli/fga/2017/484)[7829](https://fedlex.data.admin.ch/eli/fga/2017/2279)).
+[^104a-1]: Acceptà en la votaziun dal pievel dals 24 da sett. 2017, en vigur dapi ils 24 da sett. 2017 (COF dals 14 da mars 2017, COCF dals 30 da nov. 2017 – [AS 2017 6735](https://fedlex.data.admin.ch/eli/oc/2017/752); [BBl 2014 6135](https://fedlex.data.admin.ch/eli/fga/2014/1287); [2015 5753](https://fedlex.data.admin.ch/eli/fga/2015/1320); [2017 2495](https://fedlex.data.admin.ch/eli/fga/2017/484), [7829](https://fedlex.data.admin.ch/eli/fga/2017/2279)).
 
 #### Art. 105
 
@@ -1440,7 +1440,7 @@ Ils chantuns èn cumpetents per permetter e per survegliar:
 
 <sup>7</sup> La Confederaziun ed ils chantuns sa coordineschan per ademplir lur incumbensas. Perquai stgaffescha la lescha in organ cuminaivel che sa cumpona mintgamai per la mesadad da commembers dals organs executivs da la Confederaziun e dals chantuns.
 
-[^106-1]: Acceptà en la votaziun dal pievel dals 11 da mars 2012, en vigur dapi ils 11 da mars 2012 (COF dals 29 da sett. 2011, COCF dals 20 da zer. 2012 – [AS 2012 3629](https://fedlex.data.admin.ch/eli/oc/2012/417); [BBl 2009 7019](https://fedlex.data.admin.ch/eli/fga/2009/1248), [2010 7961](https://fedlex.data.admin.ch/eli/fga/2010/1467), [2012 6623](https://fedlex.data.admin.ch/eli/fga/2012/969)).
+[^106-1]: Acceptà en la votaziun dal pievel dals 11 da mars 2012, en vigur dapi ils 11 da mars 2012 (COF dals 29 da sett. 2011, COCF dals 20 da zer. 2012 – [AS 2012 3629](https://fedlex.data.admin.ch/eli/oc/2012/417); [BBl 2009 7019](https://fedlex.data.admin.ch/eli/fga/2009/1248); [2010 7961](https://fedlex.data.admin.ch/eli/fga/2010/1467); [2012 6623](https://fedlex.data.admin.ch/eli/fga/2012/969)).
 
 #### Art. 107
 
@@ -1532,10 +1532,10 @@ L’assicuranza vegn finanziada:
 
 <sup>6</sup> …[^112-4]
 
-[^112-1]: Acceptà en la votaziun dal pievel dals 28 da nov. 2004, en vigur dapi il 1. da schan. 2008 (COF dals 3 d’oct. 2003, COCF dals 26 da schan. 2005, COCF dals 7 da nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
-[^112-2]: Acceptà en la votaziun dal pievel dals 28 da nov. 2004, en vigur dapi il 1. da schan. 2008 (COF dals 3 d’oct. 2003, COCF dals 26 da schan. 2005, COCF dals 7 da nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
-[^112-3]: Acceptà en la votaziun dal pievel dals 28 da nov. 2004, en vigur dapi il 1. da schan. 2008 (COF dals 3 d’oct. 2003, COCF dals 26 da schan. 2005, COCF dals 7 da nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
-[^112-4]: Abolì en la votaziun dal pievel dals 28 da nov. 2004, cun effect dapi il 1. da schan. 2008 (COF dals 3 d’oct. 2003, COCF dals 26 da schan. 2005, COCF dals 7 da nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^112-1]: Acceptà en la votaziun dal pievel dals 28 da nov. 2004, en vigur dapi il 1. da schan. 2008 (COF dals 3 d’oct. 2003, COCF dals 26 da schan. 2005, COCF dals 7 da nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316); [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089); [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^112-2]: Acceptà en la votaziun dal pievel dals 28 da nov. 2004, en vigur dapi il 1. da schan. 2008 (COF dals 3 d’oct. 2003, COCF dals 26 da schan. 2005, COCF dals 7 da nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316); [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089); [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^112-3]: Acceptà en la votaziun dal pievel dals 28 da nov. 2004, en vigur dapi il 1. da schan. 2008 (COF dals 3 d’oct. 2003, COCF dals 26 da schan. 2005, COCF dals 7 da nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316); [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089); [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^112-4]: Abolì en la votaziun dal pievel dals 28 da nov. 2004, cun effect dapi il 1. da schan. 2008 (COF dals 3 d’oct. 2003, COCF dals 26 da schan. 2005, COCF dals 7 da nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316); [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089); [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
 
 #### Art. 112a
 
@@ -1545,7 +1545,7 @@ L’assicuranza vegn finanziada:
 
 <sup>2</sup> La lescha fixescha la dimensiun da las prestaziuns supplementaras sco er las incumbensas e las cumpetenzas da la Confederaziun e dals chantuns.
 
-[^112a-1]: Acceptà en la votaziun dal pievel dals 28 da nov. 2004, en vigur dapi il 1. da schan. 2008 (COF dals 3 d’oct. 2003, COCF dals 26 da schan. 2005, COCF dals 7 da nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^112a-1]: Acceptà en la votaziun dal pievel dals 28 da nov. 2004, en vigur dapi il 1. da schan. 2008 (COF dals 3 d’oct. 2003, COCF dals 26 da schan. 2005, COCF dals 7 da nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316); [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089); [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
 
 #### Art. 112b
 
@@ -1557,7 +1557,7 @@ L’assicuranza vegn finanziada:
 
 <sup>3</sup> La lescha fixescha las finamiras, ils princips ed ils criteris da l’integraziun.
 
-[^112b-1]: Acceptà en la votaziun dal pievel dals 28 da nov. 2004, en vigur dapi il 1. da schan. 2008 (COF dals 3 d’oct. 2003, COCF dals 26 da schan. 2005, COCF dals 7 da nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^112b-1]: Acceptà en la votaziun dal pievel dals 28 da nov. 2004, en vigur dapi il 1. da schan. 2008 (COF dals 3 d’oct. 2003, COCF dals 26 da schan. 2005, COCF dals 7 da nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316); [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089); [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
 [^112b-2]: <sup>\*</sup> Cun disposiziun transitorica.
 
 #### Art. 112c
@@ -1568,7 +1568,7 @@ L’assicuranza vegn finanziada:
 
 <sup>2</sup> La Confederaziun sustegna stentas per tut la Svizra en favur dals attempads e dals impedids a chasa. Per quest intent po ella impunder meds finanzials da l’assicuranza da vegls, survivents ed invalids.
 
-[^112c-1]: Acceptà en la votaziun dal pievel dals 28 da nov. 2004, en vigur dapi il 1. da schan. 2008 (COF dals 3 d’oct. 2003, COCF dals 26 da schan. 2005, COCF dals 7 da nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^112c-1]: Acceptà en la votaziun dal pievel dals 28 da nov. 2004, en vigur dapi il 1. da schan. 2008 (COF dals 3 d’oct. 2003, COCF dals 26 da schan. 2005, COCF dals 7 da nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316); [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089); [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
 [^112c-2]: <sup>\*</sup> Cun disposiziun transitorica.
 
 #### Art. 113
@@ -1652,7 +1652,7 @@ La Confederaziun decretescha prescripziuns davart:
 - a. la scolaziun e la furmaziun supplementara per professiuns dal provediment medicinal da basa e las pretensiuns per pratitgar questas professiuns;
 - b. l’indemnisaziun adequata da las prestaziuns da la medischina da famiglia.
 
-[^117a-1]: Acceptà en la votaziun dal pievel dals 18 da matg 2014, en vigur dapi ils 18 da matg 2014 (COF dals 19 da sett. 2013, COCF dals 18 d’avust 2014 – [AS 2014 2769](https://fedlex.data.admin.ch/eli/oc/2014/476); [BBl 2010 2939](https://fedlex.data.admin.ch/eli/fga/2010/515), [2011 4435](https://fedlex.data.admin.ch/eli/fga/2011/670), [2013 7347](https://fedlex.data.admin.ch/eli/fga/2013/1412), [2014 6349](https://fedlex.data.admin.ch/eli/fga/2014/1415)).
+[^117a-1]: Acceptà en la votaziun dal pievel dals 18 da matg 2014, en vigur dapi ils 18 da matg 2014 (COF dals 19 da sett. 2013, COCF dals 18 d’avust 2014 – [AS 2014 2769](https://fedlex.data.admin.ch/eli/oc/2014/476); [BBl 2010 2939](https://fedlex.data.admin.ch/eli/fga/2010/515); [2011 4435](https://fedlex.data.admin.ch/eli/fga/2011/670); [2013 7347](https://fedlex.data.admin.ch/eli/fga/2013/1412); [2014 6349](https://fedlex.data.admin.ch/eli/fga/2014/1415)).
 
 #### Art. 117b
 
@@ -1662,7 +1662,7 @@ La Confederaziun decretescha prescripziuns davart:
 
 <sup>2</sup> Ella ed els garanteschan ch’i dettia in dumber suffizient da tgirunzas e tgirunzs diplomads per il basegn pli e pli grond e che las persunas che lavuran en la tgira vegnian incaricadas confurm a lur scolaziun e confurm a lur cumpetenzas.
 
-[^117b-1]: Acceptà en la votaziun dal pievel dals 28 da nov. 2021, en vigur dapi ils 28 da nov. 2021 (COF dals 18 da zer. 2021, COCF dals 11 d’avr. 2022 – [AS 2022 240](https://fedlex.data.admin.ch/eli/oc/2022/240); [BBl 2017 7724](https://fedlex.data.admin.ch/eli/fga/2017/2238), [2018 7653](https://fedlex.data.admin.ch/eli/fga/2018/2676), [2021 1488](https://fedlex.data.admin.ch/eli/fga/2021/1488), [2022 894](https://fedlex.data.admin.ch/eli/fga/2022/894)).
+[^117b-1]: Acceptà en la votaziun dal pievel dals 28 da nov. 2021, en vigur dapi ils 28 da nov. 2021 (COF dals 18 da zer. 2021, COCF dals 11 d’avr. 2022 – [AS 2022 240](https://fedlex.data.admin.ch/eli/oc/2022/240); [BBl 2017 7724](https://fedlex.data.admin.ch/eli/fga/2017/2238); [2018 7653](https://fedlex.data.admin.ch/eli/fga/2018/2676); [2021 1488](https://fedlex.data.admin.ch/eli/fga/2021/1488); [2022 894](https://fedlex.data.admin.ch/eli/fga/2022/894)).
 [^117b-2]: <sup>\*</sup> Cun disposiziun transitorica.
 
 #### Art. 118
@@ -1679,7 +1679,7 @@ Ella decretescha prescripziuns davart:
 - b.[^118-1] il cumbat cunter malsognas d’umans u d’animals transmissiblas e fitg derasadas u privlusas; ella scumonda particularmain reclama da tut gener per products da tubac, che cuntanscha uffants e giuvenils;[^118-2]\*
 - c. la protecziun cunter radis ionisants.
 
-[^118-1]: Acceptà en la votaziun dal pievel dals 13 da favr. 2022, en vigur dapi ils 13 da favr. 2022 (COF dal 1. d’oct. 2021, COCF dals 11 d’avr. 2022 – [AS 2022 241](https://fedlex.data.admin.ch/eli/oc/2022/241); [BBl 2019 6883](https://fedlex.data.admin.ch/eli/fga/2019/2386), [2020 7049](https://fedlex.data.admin.ch/eli/fga/2020/1895), [2021 2315](https://fedlex.data.admin.ch/eli/fga/2021/2315), [2022 895](https://fedlex.data.admin.ch/eli/fga/2022/895)).
+[^118-1]: Acceptà en la votaziun dal pievel dals 13 da favr. 2022, en vigur dapi ils 13 da favr. 2022 (COF dal 1. d’oct. 2021, COCF dals 11 d’avr. 2022 – [AS 2022 241](https://fedlex.data.admin.ch/eli/oc/2022/241); [BBl 2019 6883](https://fedlex.data.admin.ch/eli/fga/2019/2386); [2020 7049](https://fedlex.data.admin.ch/eli/fga/2020/1895); [2021 2315](https://fedlex.data.admin.ch/eli/fga/2021/2315); [2022 895](https://fedlex.data.admin.ch/eli/fga/2022/895)).
 [^118-2]: <sup>\*</sup> Cun disposiziun transitorica.
 
 #### Art. 118a
@@ -1688,7 +1688,7 @@ Ella decretescha prescripziuns davart:
 
 En il rom da lur cumpetenzas procuran la Confederaziun ed ils chantuns ch’i vegnia tegnì quint da la medischina cumplementara.
 
-[^118a-1]: Acceptà en la votaziun dal pievel dals 17 da matg 2009, en vigur dapi ils 17 da matg 2009 (COF dals 3 d’oct. 2008, COCF dals 21 d’oct. 2009 – [AS 2009 5325](https://fedlex.data.admin.ch/eli/oc/2009/633); [BBl 2005 6001](https://fedlex.data.admin.ch/eli/fga/2005/966), [2006 7591](https://fedlex.data.admin.ch/eli/fga/2006/947), [2008 8229](https://fedlex.data.admin.ch/eli/fga/2008/1400), [2009 7539](https://fedlex.data.admin.ch/eli/fga/2009/1326)).
+[^118a-1]: Acceptà en la votaziun dal pievel dals 17 da matg 2009, en vigur dapi ils 17 da matg 2009 (COF dals 3 d’oct. 2008, COCF dals 21 d’oct. 2009 – [AS 2009 5325](https://fedlex.data.admin.ch/eli/oc/2009/633); [BBl 2005 6001](https://fedlex.data.admin.ch/eli/fga/2005/966); [2006 7591](https://fedlex.data.admin.ch/eli/fga/2006/947); [2008 8229](https://fedlex.data.admin.ch/eli/fga/2008/1400); [2009 7539](https://fedlex.data.admin.ch/eli/fga/2009/1326)).
 
 #### Art. 118b
 
@@ -1705,7 +1705,7 @@ Per la perscrutaziun biologica e medicinala vi da l’uman resguarda ella ils pr
 - c. in project da perscrutaziun dastga vegnir realisà cun persunas incapablas da giuditgar sulettamain, sche enconuschientschas equivalentas na pon betg vegnir cuntanschidas cun persunas capablas da giuditgar. Sch’il project da perscrutaziun na lascha betg spetgar in niz direct per las persunas incapablas da giuditgar, dastgan ils ristgs e las grevezzas esser mo minimals;
 - d. ina examinaziun independenta dal project da perscrutaziun sto confermar che la protecziun da las persunas che sa participeschan a quest project è garantida.
 
-[^118b-1]: Acceptà en la votaziun dal pievel dals 7 da mars 2010, en vigur dapi ils 7 da mars 2010 (COF dals 25 da sett. 2009, COCF dals 15 d’avr. 2010 – [AS 2010 1569](https://fedlex.data.admin.ch/eli/oc/2010/224); [BBl 2007 6713](https://fedlex.data.admin.ch/eli/fga/2007/1025), [2009 6649](https://fedlex.data.admin.ch/eli/fga/2009/1171), [2010 2625](https://fedlex.data.admin.ch/eli/fga/2010/455)).
+[^118b-1]: Acceptà en la votaziun dal pievel dals 7 da mars 2010, en vigur dapi ils 7 da mars 2010 (COF dals 25 da sett. 2009, COCF dals 15 d’avr. 2010 – [AS 2010 1569](https://fedlex.data.admin.ch/eli/oc/2010/224); [BBl 2007 6713](https://fedlex.data.admin.ch/eli/fga/2007/1025); [2009 6649](https://fedlex.data.admin.ch/eli/fga/2009/1171); [2010 2625](https://fedlex.data.admin.ch/eli/fga/2010/455)).
 
 #### Art. 119
 
@@ -1725,7 +1725,7 @@ La Confederaziun decretescha prescripziuns davart il tractament da schermenza e 
 - f. Il patrimoni genetic d’ina persuna dastga sulettamain vegnir analisà, registrà u palesà, sche la persuna pertutgada dat il consentiment u sche la lescha prescriva quai.
 - g. Mintga persuna ha access a las datas davart ses origin genetic.
 
-[^119-1]: Acceptà en la votaziun dal pievel dals 14 da zer. 2015, en vigur dapi ils 14 da zer. 2015 (COF dals 12 da dec. 2014, COCF dals 21 d’avust 2015 – [AS 2015 2887](https://fedlex.data.admin.ch/eli/oc/2015/541); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075), [2014 9675](https://fedlex.data.admin.ch/eli/fga/2014/2098), [2015 6313](https://fedlex.data.admin.ch/eli/fga/2015/1509)).
+[^119-1]: Acceptà en la votaziun dal pievel dals 14 da zer. 2015, en vigur dapi ils 14 da zer. 2015 (COF dals 12 da dec. 2014, COCF dals 21 d’avust 2015 – [AS 2015 2887](https://fedlex.data.admin.ch/eli/oc/2015/541); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075); [2014 9675](https://fedlex.data.admin.ch/eli/fga/2014/2098); [2015 6313](https://fedlex.data.admin.ch/eli/fga/2015/1509)).
 
 #### Art. 119a
 
@@ -1737,7 +1737,7 @@ La Confederaziun decretescha prescripziuns davart il tractament da schermenza e 
 
 <sup>3</sup> La donaziun d’organs, da tessids e da cellas d’umans è gratuita. Il commerzi cun organs umans è scumandà.
 
-[^119a-1]: Acceptà en la votaziun dal pievel dals 7 da favr. 1999, en vigur dapi il 1. da schan 2000 (COF dals 26 da zer. 1998, COCF dals 23 da mars 1999 – [AS 1999 1341](https://fedlex.data.admin.ch/eli/oc/1999/186); [BBl 1997 III 653](https://fedlex.data.admin.ch/eli/fga/1997/3_653_613_557), **1998** 3473, **1999** 2912 [8768](https://fedlex.data.admin.ch/eli/fga/1999/1_8768_7967_7589)).
+[^119a-1]: Acceptà en la votaziun dal pievel dals 7 da favr. 1999, en vigur dapi il 1. da schan 2000 (COF dals 26 da zer. 1998, COCF dals 23 da mars 1999 – [AS 1999 1341](https://fedlex.data.admin.ch/eli/oc/1999/186); [BBl 1997 III 653](https://fedlex.data.admin.ch/eli/fga/1997/3_653_613_557); **1998** 3473; **1999** 2912, [8768](https://fedlex.data.admin.ch/eli/fga/1999/1_8768_7967_7589)).
 
 #### Art. 120
 
@@ -1773,11 +1773,11 @@ Ellas perdan lur dretg da dimora sco er las pretensiuns da dretg che stattan en 
 <sup>6</sup> Tgi che violescha il scumond d’entrar en Svizra u tgi ch’entra en autra moda u maniera illegalmain en Svizra, è culpabel. Il legislatur decretescha las disposiziuns correspundentas.[^121-6]
 
 [^121-1]: <sup>\*</sup> Cun disposiziun transitorica.
-[^121-2]: Acceptà en la votaziun dal pievel dals 9 da favr. 2014, en vigur dapi ils 9 da favr. 2014 (COF dals 27 da sett. 2013, COCF dals 13 matg 2014 – [AS 2014 1391](https://fedlex.data.admin.ch/eli/oc/2014/295); [BBl 2011 6269](https://fedlex.data.admin.ch/eli/fga/2011/924), [2012 3869](https://fedlex.data.admin.ch/eli/fga/2012/506), [2013 291](https://fedlex.data.admin.ch/eli/fga/2013/50)[7351](https://fedlex.data.admin.ch/eli/fga/2013/1414), [2014 4117](https://fedlex.data.admin.ch/eli/fga/2014/972)).
-[^121-3]: Acceptà en la votaziun dal pievel dals 28 da nov. 2010, en vigur dapi ils 28 da nov. 2010 (COF dals 18 da zer. 2010, COCF dals 17 mars 2011 – [AS 2011 1199](https://fedlex.data.admin.ch/eli/oc/2011/175); [BBl 2008 1927](https://fedlex.data.admin.ch/eli/fga/2008/430), [2009 5097](https://fedlex.data.admin.ch/eli/fga/2009/876), [2010 4241](https://fedlex.data.admin.ch/eli/fga/2010/717), [2011 2771](https://fedlex.data.admin.ch/eli/fga/2011/395)).
-[^121-4]: Acceptà en la votaziun dal pievel dals 28 da nov. 2010, en vigur dapi ils 28 da nov. 2010 (COF dals 18 da zer. 2010, COCF dals 17 mars 2011 – [AS 2011 1199](https://fedlex.data.admin.ch/eli/oc/2011/175); [BBl 2008 1927](https://fedlex.data.admin.ch/eli/fga/2008/430), [2009 5097](https://fedlex.data.admin.ch/eli/fga/2009/876), [2010 4241](https://fedlex.data.admin.ch/eli/fga/2010/717), [2011 2771](https://fedlex.data.admin.ch/eli/fga/2011/395)).
-[^121-5]: Acceptà en la votaziun dal pievel dals 28 da nov. 2010, en vigur dapi ils 28 da nov. 2010 (COF dals 18 da zer. 2010, COCF dals 17 mars 2011 – [AS 2011 1199](https://fedlex.data.admin.ch/eli/oc/2011/175); [BBl 2008 1927](https://fedlex.data.admin.ch/eli/fga/2008/430), [2009 5097](https://fedlex.data.admin.ch/eli/fga/2009/876), [2010 4241](https://fedlex.data.admin.ch/eli/fga/2010/717), [2011 2771](https://fedlex.data.admin.ch/eli/fga/2011/395)).
-[^121-6]: Acceptà en la votaziun dal pievel dals 28 da nov. 2010, en vigur dapi ils 28 da nov. 2010 (COF dals 18 da zer. 2010, COCF dals 17 mars 2011 – [AS 2011 1199](https://fedlex.data.admin.ch/eli/oc/2011/175); [BBl 2008 1927](https://fedlex.data.admin.ch/eli/fga/2008/430), [2009 5097](https://fedlex.data.admin.ch/eli/fga/2009/876), [2010 4241](https://fedlex.data.admin.ch/eli/fga/2010/717), [2011 2771](https://fedlex.data.admin.ch/eli/fga/2011/395)).
+[^121-2]: Acceptà en la votaziun dal pievel dals 9 da favr. 2014, en vigur dapi ils 9 da favr. 2014 (COF dals 27 da sett. 2013, COCF dals 13 matg 2014 – [AS 2014 1391](https://fedlex.data.admin.ch/eli/oc/2014/295); [BBl 2011 6269](https://fedlex.data.admin.ch/eli/fga/2011/924); [2012 3869](https://fedlex.data.admin.ch/eli/fga/2012/506); [2013 291](https://fedlex.data.admin.ch/eli/fga/2013/50), [7351](https://fedlex.data.admin.ch/eli/fga/2013/1414); [2014 4117](https://fedlex.data.admin.ch/eli/fga/2014/972)).
+[^121-3]: Acceptà en la votaziun dal pievel dals 28 da nov. 2010, en vigur dapi ils 28 da nov. 2010 (COF dals 18 da zer. 2010, COCF dals 17 mars 2011 – [AS 2011 1199](https://fedlex.data.admin.ch/eli/oc/2011/175); [BBl 2008 1927](https://fedlex.data.admin.ch/eli/fga/2008/430); [2009 5097](https://fedlex.data.admin.ch/eli/fga/2009/876); [2010 4241](https://fedlex.data.admin.ch/eli/fga/2010/717); [2011 2771](https://fedlex.data.admin.ch/eli/fga/2011/395)).
+[^121-4]: Acceptà en la votaziun dal pievel dals 28 da nov. 2010, en vigur dapi ils 28 da nov. 2010 (COF dals 18 da zer. 2010, COCF dals 17 mars 2011 – [AS 2011 1199](https://fedlex.data.admin.ch/eli/oc/2011/175); [BBl 2008 1927](https://fedlex.data.admin.ch/eli/fga/2008/430); [2009 5097](https://fedlex.data.admin.ch/eli/fga/2009/876); [2010 4241](https://fedlex.data.admin.ch/eli/fga/2010/717); [2011 2771](https://fedlex.data.admin.ch/eli/fga/2011/395)).
+[^121-5]: Acceptà en la votaziun dal pievel dals 28 da nov. 2010, en vigur dapi ils 28 da nov. 2010 (COF dals 18 da zer. 2010, COCF dals 17 mars 2011 – [AS 2011 1199](https://fedlex.data.admin.ch/eli/oc/2011/175); [BBl 2008 1927](https://fedlex.data.admin.ch/eli/fga/2008/430); [2009 5097](https://fedlex.data.admin.ch/eli/fga/2009/876); [2010 4241](https://fedlex.data.admin.ch/eli/fga/2010/717); [2011 2771](https://fedlex.data.admin.ch/eli/fga/2011/395)).
+[^121-6]: Acceptà en la votaziun dal pievel dals 28 da nov. 2010, en vigur dapi ils 28 da nov. 2010 (COF dals 18 da zer. 2010, COCF dals 17 mars 2011 – [AS 2011 1199](https://fedlex.data.admin.ch/eli/oc/2011/175); [BBl 2008 1927](https://fedlex.data.admin.ch/eli/fga/2008/430); [2009 5097](https://fedlex.data.admin.ch/eli/fga/2009/876); [2010 4241](https://fedlex.data.admin.ch/eli/fga/2010/717); [2011 2771](https://fedlex.data.admin.ch/eli/fga/2011/395)).
 
 #### Art. 121a
 
@@ -1793,7 +1793,7 @@ Ellas perdan lur dretg da dimora sco er las pretensiuns da dretg che stattan en 
 
 <sup>5</sup> La lescha regla ils detagls.
 
-[^121a-1]: Acceptà en la votaziun dal pievel dals 9 da favr. 2014, en vigur dapi ils 9 da favr. 2014 (COF dals 27 da sett. 2013, COCF dals 13 matg 2014 – [AS 2014 1391](https://fedlex.data.admin.ch/eli/oc/2014/295); [BBl 2011 6269](https://fedlex.data.admin.ch/eli/fga/2011/924), [2012 3869](https://fedlex.data.admin.ch/eli/fga/2012/506), [2013 291](https://fedlex.data.admin.ch/eli/fga/2013/50)[7351](https://fedlex.data.admin.ch/eli/fga/2013/1414), [2014 4117](https://fedlex.data.admin.ch/eli/fga/2014/972)).
+[^121a-1]: Acceptà en la votaziun dal pievel dals 9 da favr. 2014, en vigur dapi ils 9 da favr. 2014 (COF dals 27 da sett. 2013, COCF dals 13 matg 2014 – [AS 2014 1391](https://fedlex.data.admin.ch/eli/oc/2014/295); [BBl 2011 6269](https://fedlex.data.admin.ch/eli/fga/2011/924); [2012 3869](https://fedlex.data.admin.ch/eli/fga/2012/506); [2013 291](https://fedlex.data.admin.ch/eli/fga/2013/50), [7351](https://fedlex.data.admin.ch/eli/fga/2013/1414); [2014 4117](https://fedlex.data.admin.ch/eli/fga/2014/972)).
 [^121a-2]: <sup>\*</sup> Cun disposiziun transitorica.
 
 ### 10. partiziun Dretg civil, dretg penal, metrologia
@@ -1806,7 +1806,7 @@ Ellas perdan lur dretg da dimora sco er las pretensiuns da dretg che stattan en 
 
 <sup>2</sup> Ils chantuns èn cumpetents per l’organisaziun da las dretgiras e la giurisdicziun en fatgs civils, uschenavant che la lescha na prevesa nagut auter.
 
-[^122-1]: Acceptà en la votaziun dal pievel dals 12 da mars 2000, en vigur dapi il 1. da schan. 2007 (COF dals 8 d’oct. 1999, COCF dals 17 da matg 2000, COF dals 8 da mars 2005 – [AS 2002 3148](https://fedlex.data.admin.ch/eli/oc/2002/467), [2006 1059](https://fedlex.data.admin.ch/eli/oc/2006/185); [BBl 1997 I 1](https://fedlex.data.admin.ch/eli/fga/1997/1_1_1_1), [1999 8633](https://fedlex.data.admin.ch/eli/fga/1999/1_8633_7831_7454), [2000 2990](https://fedlex.data.admin.ch/eli/fga/2000/615), [2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^122-1]: Acceptà en la votaziun dal pievel dals 12 da mars 2000, en vigur dapi il 1. da schan. 2007 (COF dals 8 d’oct. 1999, COCF dals 17 da matg 2000, COF dals 8 da mars 2005 – [AS 2002 3148](https://fedlex.data.admin.ch/eli/oc/2002/467); [2006 1059](https://fedlex.data.admin.ch/eli/oc/2006/185); [BBl 1997 I 1](https://fedlex.data.admin.ch/eli/fga/1997/1_1_1_1); [1999 8633](https://fedlex.data.admin.ch/eli/fga/1999/1_8633_7831_7454); [2000 2990](https://fedlex.data.admin.ch/eli/fga/2000/615); [2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 123
 
@@ -1824,8 +1824,8 @@ La Confederaziun po decretar prescripziuns davart l’execuziun da chastis e da 
 - b. meglieraziuns da l’execuziun da chastis e da mesiras;
 - c. instituziuns ch’exequeschan mesiras educativas en favur d’uffants, giuvenils e giuvens creschids.[^123-2]
 
-[^123-1]: Acceptà en la votaziun dal pievel dals 12 da mars 2000, en vigur dapi il 1. d’avr. 2003 (COF dals 8 d’oct. 1999, COCF dals 17 da matg 2000, COF dals 24 da sett. 2002 – [AS 2002 3148](https://fedlex.data.admin.ch/eli/oc/2002/467); [BBl 1997 I 1](https://fedlex.data.admin.ch/eli/fga/1997/1_1_1_1), [1999 8633](https://fedlex.data.admin.ch/eli/fga/1999/1_8633_7831_7454), [2000 2990](https://fedlex.data.admin.ch/eli/fga/2000/615), [2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^123-2]: Acceptà en la votaziun dal pievel dals 28 da nov. 2004, en vigur dapi il 1. da schan. 2008 (COF dals 3 d’oct. 2003, COCF dals 26 da schan. 2005, COCF dals 7 da nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^123-1]: Acceptà en la votaziun dal pievel dals 12 da mars 2000, en vigur dapi il 1. d’avr. 2003 (COF dals 8 d’oct. 1999, COCF dals 17 da matg 2000, COF dals 24 da sett. 2002 – [AS 2002 3148](https://fedlex.data.admin.ch/eli/oc/2002/467); [BBl 1997 I 1](https://fedlex.data.admin.ch/eli/fga/1997/1_1_1_1); [1999 8633](https://fedlex.data.admin.ch/eli/fga/1999/1_8633_7831_7454); [2000 2990](https://fedlex.data.admin.ch/eli/fga/2000/615); [2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^123-2]: Acceptà en la votaziun dal pievel dals 28 da nov. 2004, en vigur dapi il 1. da schan. 2008 (COF dals 3 d’oct. 2003, COCF dals 26 da schan. 2005, COCF dals 7 da nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316); [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089); [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
 
 #### Art. 123a
 
@@ -1837,7 +1837,7 @@ La Confederaziun po decretar prescripziuns davart l’execuziun da chastis e da 
 
 <sup>3</sup> Tut las expertisas necessarias per giuditgar ils delinquents sexuals e violents ston vegnir fatgas duas spezialists independents vicendaivlamain e cun experientscha, e quai resguardond tut ils elements impurtants per il giudicament.
 
-[^123a-1]: Acceptà en la votaziun dal pievel dals 8 da favr. 2004, en vigur dapi ils 8 da favr. 2004 (COF dals 20 da zer. 2003, COCF dals 21 d’avr. 2004 – [AS 2004 2341](https://fedlex.data.admin.ch/eli/oc/2004/272); [BBl 2000 3336](https://fedlex.data.admin.ch/eli/fga/2000/693), [2001 3433](https://fedlex.data.admin.ch/eli/fga/2001/638), [2003 4434](https://fedlex.data.admin.ch/eli/fga/2003/678), [2004 2199](https://fedlex.data.admin.ch/eli/fga/2004/404)).
+[^123a-1]: Acceptà en la votaziun dal pievel dals 8 da favr. 2004, en vigur dapi ils 8 da favr. 2004 (COF dals 20 da zer. 2003, COCF dals 21 d’avr. 2004 – [AS 2004 2341](https://fedlex.data.admin.ch/eli/oc/2004/272); [BBl 2000 3336](https://fedlex.data.admin.ch/eli/fga/2000/693); [2001 3433](https://fedlex.data.admin.ch/eli/fga/2001/638); [2003 4434](https://fedlex.data.admin.ch/eli/fga/2003/678); [2004 2199](https://fedlex.data.admin.ch/eli/fga/2004/404)).
 
 #### Art. 123b
 
@@ -1845,7 +1845,7 @@ La Confederaziun po decretar prescripziuns davart l’execuziun da chastis e da 
 
 La persecuziun da delicts sexuals u pornografics vi d’uffants che n’èn betg anc en la pubertad ed il chasti per tals delicts na scadan betg.
 
-[^123b-1]: Acceptà en la votaziun dal pievel dals 30 da nov. 2008, en vigur dapi ils 30 da nov. 2008 (COF dals 13 da zer. 2008, COCF dals 23 da schan. 2009 – [AS 2009 471](https://fedlex.data.admin.ch/eli/oc/2009/82); [BBl 2006 3657](https://fedlex.data.admin.ch/eli/fga/2006/386), [2007 5369](https://fedlex.data.admin.ch/eli/fga/2007/758), [2008 5245](https://fedlex.data.admin.ch/eli/fga/2008/935), [2009 605](https://fedlex.data.admin.ch/eli/fga/2009/121)).
+[^123b-1]: Acceptà en la votaziun dal pievel dals 30 da nov. 2008, en vigur dapi ils 30 da nov. 2008 (COF dals 13 da zer. 2008, COCF dals 23 da schan. 2009 – [AS 2009 471](https://fedlex.data.admin.ch/eli/oc/2009/82); [BBl 2006 3657](https://fedlex.data.admin.ch/eli/fga/2006/386); [2007 5369](https://fedlex.data.admin.ch/eli/fga/2007/758); [2008 5245](https://fedlex.data.admin.ch/eli/fga/2008/935); [2009 605](https://fedlex.data.admin.ch/eli/fga/2009/121)).
 
 #### Art. 123c
 
@@ -1853,7 +1853,7 @@ La persecuziun da delicts sexuals u pornografics vi d’uffants che n’èn betg
 
 Tgi ch’è vegnì sentenzià, perquai ch’el ha violà l’integritad sexuala d’in uffant u d’ina persuna dependenta, perda definitivamain il dretg da pratitgar in’activitad professiunala u onurara cun persunas minorennas u dependentas.
 
-[^123c-1]: Acceptà en la votaziun dal pievel dals 18 da matg 2014, en vigur dapi ils 18 da matg 2014 (COCF dals 20 da favr. 2014 – [AS 2014 2771](https://fedlex.data.admin.ch/eli/oc/2014/477); [BBl 2009 7021](https://fedlex.data.admin.ch/eli/fga/2009/1249), [2011 4435](https://fedlex.data.admin.ch/eli/fga/2011/670), [2012 8819](https://fedlex.data.admin.ch/eli/fga/2012/1575), [2014 6349](https://fedlex.data.admin.ch/eli/fga/2014/1415)[1779](https://fedlex.data.admin.ch/eli/fga/2014/304)).
+[^123c-1]: Acceptà en la votaziun dal pievel dals 18 da matg 2014, en vigur dapi ils 18 da matg 2014 (COCF dals 20 da favr. 2014 – [AS 2014 2771](https://fedlex.data.admin.ch/eli/oc/2014/477); [BBl 2009 7021](https://fedlex.data.admin.ch/eli/fga/2009/1249); [2011 4435](https://fedlex.data.admin.ch/eli/fga/2011/670); [2012 8819](https://fedlex.data.admin.ch/eli/fga/2012/1575); [2014 6349](https://fedlex.data.admin.ch/eli/fga/2014/1415), [1779](https://fedlex.data.admin.ch/eli/fga/2014/304)).
 
 #### Art. 124
 
@@ -1883,7 +1883,7 @@ La legislaziun davart la metrologia è chaussa da la Confederaziun.
 
 <sup>5</sup> La lescha regla ils detagls.
 
-[^126-1]: Acceptà en la votaziun dal pievel dals 2 da dec. 2001, en vigur dapi ils 2 da dec. 2001 (COF dals 22 da zer. 2001, COCF dals 4 da favr. 2002 – [AS 2002 241](https://fedlex.data.admin.ch/eli/oc/2002/51); [BBl 2000 4653](https://fedlex.data.admin.ch/eli/fga/2000/962), [2001 2387](https://fedlex.data.admin.ch/eli/fga/2001/510)[2878](https://fedlex.data.admin.ch/eli/fga/2001/554), [2002 1209](https://fedlex.data.admin.ch/eli/fga/2002/150)).
+[^126-1]: Acceptà en la votaziun dal pievel dals 2 da dec. 2001, en vigur dapi ils 2 da dec. 2001 (COF dals 22 da zer. 2001, COCF dals 4 da favr. 2002 – [AS 2002 241](https://fedlex.data.admin.ch/eli/oc/2002/51); [BBl 2000 4653](https://fedlex.data.admin.ch/eli/fga/2000/962); [2001 2387](https://fedlex.data.admin.ch/eli/fga/2001/510), [2878](https://fedlex.data.admin.ch/eli/fga/2001/554); [2002 1209](https://fedlex.data.admin.ch/eli/fga/2002/150)).
 
 #### Art. 127
 
@@ -1914,9 +1914,9 @@ La Confederaziun po incassar ina taglia directa:
 <sup>4</sup> La taglia vegn fixada ed incassada dals chantuns. Dal retgav brut da taglia van almain 17 pertschient als chantuns. Questa procentuala po vegnir reducida fin a 15 pertschient, sch’ils effects da la gulivaziun da finanzas pretendan quai.[^128-4]
 
 [^128-1]: <sup>\*</sup> Cun disposiziun transitorica.
-[^128-2]: Acceptà en la votaziun dal pievel dals 28 da nov. 2004, en vigur dapi il 1. da schan. 2007 (COF dals 19 da mars 2004, COCF dals 26 da schan. 2005, COCF dals 2 da favr. 2006 – [AS 2006 1057](https://fedlex.data.admin.ch/eli/oc/2006/184); [BBl 2003 1531](https://fedlex.data.admin.ch/eli/fga/2003/220), [2004 1363](https://fedlex.data.admin.ch/eli/fga/2004/254), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
-[^128-3]: Abolì en la votaziun dal pievel dals 28 da nov. 2004, cun effect dapi il 1. da schan. 2007 (COF dals 19 da mars 2004, COCF dals 26 da schan. 2005, COCF dals 2 da favr. 2006 – [AS 2006 1057](https://fedlex.data.admin.ch/eli/oc/2006/184); [BBl 2003 1531](https://fedlex.data.admin.ch/eli/fga/2003/220), [2004 1363](https://fedlex.data.admin.ch/eli/fga/2004/254), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
-[^128-4]: Acceptà en la votaziun dal pievel dals 28 da nov. 2004, en vigur dapi il 1. da schan. 2008 (COF dals 3 d’oct. 2003, COCF dals 26 da schan. 2005, COCF dals 7 da nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^128-2]: Acceptà en la votaziun dal pievel dals 28 da nov. 2004, en vigur dapi il 1. da schan. 2007 (COF dals 19 da mars 2004, COCF dals 26 da schan. 2005, COCF dals 2 da favr. 2006 – [AS 2006 1057](https://fedlex.data.admin.ch/eli/oc/2006/184); [BBl 2003 1531](https://fedlex.data.admin.ch/eli/fga/2003/220); [2004 1363](https://fedlex.data.admin.ch/eli/fga/2004/254); [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^128-3]: Abolì en la votaziun dal pievel dals 28 da nov. 2004, cun effect dapi il 1. da schan. 2007 (COF dals 19 da mars 2004, COCF dals 26 da schan. 2005, COCF dals 2 da favr. 2006 – [AS 2006 1057](https://fedlex.data.admin.ch/eli/oc/2006/184); [BBl 2003 1531](https://fedlex.data.admin.ch/eli/fga/2003/220); [2004 1363](https://fedlex.data.admin.ch/eli/fga/2004/254); [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^128-4]: Acceptà en la votaziun dal pievel dals 28 da nov. 2004, en vigur dapi il 1. da schan. 2008 (COF dals 3 d’oct. 2003, COCF dals 26 da schan. 2005, COCF dals 7 da nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316); [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089); [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
 
 #### Art. 129
 
@@ -1927,6 +1927,25 @@ La Confederaziun po incassar ina taglia directa:
 <sup>2</sup> L’armonisaziun s’extenda a l’obligaziun da pajar taglia, a l’object ed a la fixaziun temporara da las taglias, al dretg da procedura ed al dretg penal fiscal. Exclus da l’armonisaziun èn particularmain las tariffas da taglia, ils pes da taglia ed ils imports libers da la taglia.
 
 <sup>3</sup> La Confederaziun po decretar prescripziuns cunter la concessiun d’avantatgs fiscals nungiustifitgads.
+
+#### Art. 129a
+
+**Imposiziun speziala da las grondas gruppas d’interpresas**[^129a-1]
+
+<sup>1</sup> Per las grondas gruppas d’interpresas po la Confederaziun decretar prescripziuns davart ina imposiziun en il stadi dal martgà e davart ina imposiziun minimala.
+
+<sup>2</sup> Per quest intent sa basa ella sin standards e sin models da prescripziuns internaziunals.
+
+<sup>3</sup>
+
+Per defender ils interess da l’economia svizra po ella divergiar:
+
+- a. dals princips da la generalitad e da la regularitad da l’imposiziun sco er dal princip da l’imposiziun sin basa da la capacitad economica tenor l’artitgel 127 alinea 2;
+- b. da las tariffas da taglia maximalas tenor l’artitgel 128 alinea 1;
+- c. da las prescripziuns davart l’execuziun tenor l’artitgel 128 alinea 4 emprima frasa;
+- d. da las excepziuns da l’armonisaziun da taglia tenor l’artitgel 129 alinea 2 segunda frasa.
+
+[^129a-1]: Acceptà en la votaziun dal pievel dals 18 da zer. 2023, en vigur dapi il 1. da schan. 2024 (COF dals 16 da dec. 2022, COCF dals 12 d’avr. 2023, COCF dals 28 d’avust 2023 – [AS 2023 482](https://fedlex.data.admin.ch/eli/oc/2023/482); [BBl 2022 1700](https://fedlex.data.admin.ch/eli/fga/2022/1700); [2023 970](https://fedlex.data.admin.ch/eli/fga/2023/970), [2015](https://fedlex.data.admin.ch/eli/fga/2023/2015)).
 
 #### Art. 130
 
@@ -1940,13 +1959,19 @@ La Confederaziun po incassar ina taglia directa:
 
 <sup>3bis</sup> Per finanziar l’infrastructura da viafier vegnan augmentadas las tariffas per 0,1 puncts procentuals.[^130-5]
 
+<sup>3ter</sup> Per garantir la finanziaziun da l’assicuranza per vegls e survivents augmenta il Cussegl federal la tariffa normala per 0,4 puncts procentuals sco er la tariffa reducida e la tariffa speziala per prestaziuns d’alloschament per mintgamai 0,1 puncts procentuals, premess ch’il princip da l’unificaziun da la vegliadetgna da referenza da las dunnas e dals umens en l’assicuranza per vegls e survivents vegnia francà en la lescha.[^130-6]
+
+<sup>3quater</sup> Il retgav da l’augment tenor l’alinea 3<sup>ter</sup> vegn attribuì cumplainamain al Fond da cumpensaziun da l’assicuranza per vegls e survivents.[^130-7]
+
 <sup>4</sup> 5 pertschient dal retgav betg lià ad in intent vegn impundì per la reducziun da las premias en l’assicuranza da malsauns a favur da las classas d’entradas bassas, sch’i na vegn betg fixada tras la lescha in’autra utilisaziun per distgargiar las classas d’entradas bassas.
 
-[^130-1]: Acceptà en la votaziun dal pievel dals 28 da nov. 2004, en vigur dapi il 1. da schan. 2007 (COF dals 19 da mars 2004, COCF dals 26 da schan. 2005, COCF dals 2 da favr. 2006 – [AS 2006 1057](https://fedlex.data.admin.ch/eli/oc/2006/184); [BBl 2003 1531](https://fedlex.data.admin.ch/eli/fga/2003/220), [2004 1363](https://fedlex.data.admin.ch/eli/fga/2004/254), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^130-1]: Acceptà en la votaziun dal pievel dals 28 da nov. 2004, en vigur dapi il 1. da schan. 2007 (COF dals 19 da mars 2004, COCF dals 26 da schan. 2005, COCF dals 2 da favr. 2006 – [AS 2006 1057](https://fedlex.data.admin.ch/eli/oc/2006/184); [BBl 2003 1531](https://fedlex.data.admin.ch/eli/fga/2003/220); [2004 1363](https://fedlex.data.admin.ch/eli/fga/2004/254); [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
 [^130-2]: <sup>\*</sup> Cun disposiziun transitorica.
-[^130-3]: Dal 1. da schan. 2018 fin maximalmain ils 31 da dec. 2027 importa la taxa speziala per prestaziuns dal sectur d’alloschament 3,7 % (art. 25 al. 4 da la LF dals 12 da zer. 2009 davart la taglia sin la plivalur – [SR 641.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8079)).
-[^130-4]: Dal 1. da schan. 2018 fin maximalmain ils 31 da dec. 2030 importan las taxas da la taglia sin la plivalur 7,7 % (taxa normala) e 2,5 % (taxa reducida) (art. 25 al. 1 e 2 da la LF dals 12 da zer. 2009 davart la taglia sin la plivalur – [SR 641.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8079)).
-[^130-5]: Acceptà en la votaziun dal pievel dals 9 da favr. 2014, en vigur dapi il 1. da schan. 2016 (COF dals 20 da zer. 2013, COCF dals 13 da matg 2014, COCF dals 2 da zer. 2014, COCF dals 6 da zer. 2014 – [AS 2015 645](https://fedlex.data.admin.ch/eli/oc/2015/104); [BBl 2010 6637](https://fedlex.data.admin.ch/eli/fga/2010/1168), [2012 1577](https://fedlex.data.admin.ch/eli/fga/2012/305), [2013 4725](https://fedlex.data.admin.ch/eli/fga/2013/897)[6518](https://fedlex.data.admin.ch/eli/fga/2013/1136), [2014 4113](https://fedlex.data.admin.ch/eli/fga/2014/970)[4117](https://fedlex.data.admin.ch/eli/fga/2014/972)).
+[^130-3]: Dapi il 1. da schan. 2024 importa la taxa speziala per prestaziuns dal sectur d’alloschament 3,8 % (art. 25 al. 4 da la LF dals 12 da zer. 2009 davart la taglia sin la plivalur – [SR 641.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8079)).
+[^130-4]: Dapi il 1. da schan. 2024 importan las taxas da la taglia sin la plivalur 8,1 % (taxa normala) e 2,6 % (taxa reducida) (art. 25 al. 1 e 2 da la LF dals 12 da zer. 2009 davart la taglia sin la plivalur – [SR 641.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8079)).
+[^130-5]: Acceptà en la votaziun dal pievel dals 9 da favr. 2014, en vigur dapi il 1. da schan. 2016 (COF dals 20 da zer. 2013, COCF dals 13 da matg 2014, COCF dals 2 da zer. 2014, COCF dals 6 da zer. 2014 – [AS 2015 645](https://fedlex.data.admin.ch/eli/oc/2015/104); [BBl 2010 6637](https://fedlex.data.admin.ch/eli/fga/2010/1168); [2012 1577](https://fedlex.data.admin.ch/eli/fga/2012/305); [2013 4725](https://fedlex.data.admin.ch/eli/fga/2013/897), [6518](https://fedlex.data.admin.ch/eli/fga/2013/1136); [2014 4113](https://fedlex.data.admin.ch/eli/fga/2014/970), [4117](https://fedlex.data.admin.ch/eli/fga/2014/972)).
+[^130-6]: Acceptà en la votaziun dal pievel dals 25 da sett. 2022, en vigur dapi il 1. da schan. 2024 (COF dals 17 da dec. 2021, COCF dals 9 da dec. 2022, COCF dals 20 da favr. 2023 – [AS 2023 91](https://fedlex.data.admin.ch/eli/oc/2023/91); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267); [2021 2991](https://fedlex.data.admin.ch/eli/fga/2021/2991); [2023 486](https://fedlex.data.admin.ch/eli/fga/2023/486)).
+[^130-7]: Acceptà en la votaziun dal pievel dals 25 da sett. 2022, en vigur dapi il 1. da schan. 2024 (COF dals 17 da dec. 2021, COCF dals 9 da dec. 2022, COCF dals 20 da favr. 2023 – [AS 2023 91](https://fedlex.data.admin.ch/eli/oc/2023/91); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267); [2021 2991](https://fedlex.data.admin.ch/eli/fga/2021/2991); [2023 486](https://fedlex.data.admin.ch/eli/fga/2023/486)).
 
 #### Art. 131
 
@@ -1974,8 +1999,8 @@ Ultra da quai po ella incassar:
 <sup>3</sup> Ils chantuns obtegnan 10 pertschient dal retgav net or da l’imposiziun da taglia sin vinars. Quests meds èn d’applitgar per cumbatter ils motivs e las consequenzas dal consum da substanzas che chaschunan dependenza.
 
 [^131-1]: <sup>\*</sup> Cun disposiziun transitorica.
-[^131-2]: Acceptà en la votaziun dal pievel dals 12 da favr. 2017, en vigur dapi il 1. da schan. 2018 (COF dals 30 da sett. 2016, COCF dals 10 da nov. 2016 – [AS 2017 6731](https://fedlex.data.admin.ch/eli/oc/2017/751); [BBl 2015 2065](https://fedlex.data.admin.ch/eli/fga/2015/416), [2016 7587](https://fedlex.data.admin.ch/eli/fga/2016/1628), [2017 3387](https://fedlex.data.admin.ch/eli/fga/2017/748)).
-[^131-3]: Acceptà en la votaziun dal pievel dals 12 da favr. 2017, en vigur dapi il 1. da schan. 2018 (COF dals 30 da sett. 2016, COCF dals 10 da nov. 2016 – [AS 2017 6731](https://fedlex.data.admin.ch/eli/oc/2017/751); [BBl 2015 2065](https://fedlex.data.admin.ch/eli/fga/2015/416), [2016 7587](https://fedlex.data.admin.ch/eli/fga/2016/1628), [2017 3387](https://fedlex.data.admin.ch/eli/fga/2017/748)).
+[^131-2]: Acceptà en la votaziun dal pievel dals 12 da favr. 2017, en vigur dapi il 1. da schan. 2018 (COF dals 30 da sett. 2016, COCF dals 10 da nov. 2016 – [AS 2017 6731](https://fedlex.data.admin.ch/eli/oc/2017/751); [BBl 2015 2065](https://fedlex.data.admin.ch/eli/fga/2015/416); [2016 7587](https://fedlex.data.admin.ch/eli/fga/2016/1628); [2017 3387](https://fedlex.data.admin.ch/eli/fga/2017/748)).
+[^131-3]: Acceptà en la votaziun dal pievel dals 12 da favr. 2017, en vigur dapi il 1. da schan. 2018 (COF dals 30 da sett. 2016, COCF dals 10 da nov. 2016 – [AS 2017 6731](https://fedlex.data.admin.ch/eli/oc/2017/751); [BBl 2015 2065](https://fedlex.data.admin.ch/eli/fga/2015/416); [2016 7587](https://fedlex.data.admin.ch/eli/fga/2016/1628); [2017 3387](https://fedlex.data.admin.ch/eli/fga/2017/748)).
 
 #### Art. 132
 
@@ -1985,7 +2010,7 @@ Ultra da quai po ella incassar:
 
 <sup>2</sup> La Confederaziun po incassar ina taglia anticipada sin il retgav da facultads moviblas da chapital, sin gudogns da lottaria sco er sin prestaziuns d’assicuranzas. 10 pertschient dal retgav da taglia van als chantuns.[^132-1]
 
-[^132-1]: Acceptà en la votaziun dal pievel dals 28 da nov. 2004, en vigur dapi il 1. da schan. 2008 (COF dals 3 d’oct. 2003, COCF dals 26 da schan. 2005, COCF dals 7 da nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^132-1]: Acceptà en la votaziun dal pievel dals 28 da nov. 2004, en vigur dapi il 1. da schan. 2008 (COF dals 3 d’oct. 2003, COCF dals 26 da schan. 2005, COCF dals 7 da nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316); [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089); [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
 
 #### Art. 133
 
@@ -2017,7 +2042,7 @@ La gulivaziun da finanzas e da grevezzas duai spezialmain:
 
 <sup>3</sup> Ils meds per la gulivaziun da las resursas vegnan mess a disposiziun dals chantuns cun bleras resursas e da la Confederaziun. Las prestaziuns dals chantuns cun bleras resursas muntan almain a dus terzs e maximal ad 80 pertschient da las prestaziuns da la Confederaziun.
 
-[^135-1]: Acceptà en la votaziun dal pievel dals 28 da nov. 2004, en vigur dapi il 1. da schan. 2008 (COF dals 3 d’oct. 2003, COCF dals 26 da schan. 2005, COCF dals 7 da nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^135-1]: Acceptà en la votaziun dal pievel dals 28 da nov. 2004, en vigur dapi il 1. da schan. 2008 (COF dals 3 d’oct. 2003, COCF dals 26 da schan. 2005, COCF dals 7 da nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316); [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089); [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
 
 ## 4. titel Pievel e chantuns
 
@@ -2047,7 +2072,7 @@ Las partidas politicas gidan a furmar l’opiniun e la voluntad dal pievel.
 
 <sup>2</sup> Questa proposta è da suttametter al pievel per la votaziun.
 
-[^138-1]: Acceptà en la votaziun dal pievel dals 9 da favr. 2003, en vigur dapi il 1. d’avust 2003 (COF dals 4 d’oct. 2002, COCF dals 25 da mars 2003, COF dals 19 da zer. 2003 – [AS 2003 1949](https://fedlex.data.admin.ch/eli/oc/2003/296); [BBl 2001 4803](https://fedlex.data.admin.ch/eli/fga/2001/781)[6080](https://fedlex.data.admin.ch/eli/fga/2001/1021), [2002 6485](https://fedlex.data.admin.ch/eli/fga/2002/1020), [2003 3111](https://fedlex.data.admin.ch/eli/fga/2003/390)[3954](https://fedlex.data.admin.ch/eli/fga/2003/586)[3960](https://fedlex.data.admin.ch/eli/fga/2003/588)).
+[^138-1]: Acceptà en la votaziun dal pievel dals 9 da favr. 2003, en vigur dapi il 1. d’avust 2003 (COF dals 4 d’oct. 2002, COCF dals 25 da mars 2003, COF dals 19 da zer. 2003 – [AS 2003 1949](https://fedlex.data.admin.ch/eli/oc/2003/296); [BBl 2001 4803](https://fedlex.data.admin.ch/eli/fga/2001/781), [6080](https://fedlex.data.admin.ch/eli/fga/2001/1021); [2002 6485](https://fedlex.data.admin.ch/eli/fga/2002/1020); [2003 3111](https://fedlex.data.admin.ch/eli/fga/2003/390), [3954](https://fedlex.data.admin.ch/eli/fga/2003/586), [3960](https://fedlex.data.admin.ch/eli/fga/2003/588)).
 
 #### Art. 139
 
@@ -2063,13 +2088,13 @@ Las partidas politicas gidan a furmar l’opiniun e la voluntad dal pievel.
 
 <sup>5</sup> Ina iniziativa en furma d’in sboz elavurà vegn suttamessa a la votaziun dal pievel e dals chantuns. L’Assamblea federala recumonda d’acceptar u da refusar l’iniziativa. Ella po confruntar l’iniziativa cun ina cuntraproposta.
 
-[^139-1]: Acceptà en la votaziun dal pievel dals 27 da sett. 2009, en vigur dapi ils 27 da sett. 2009 (COF dals 19 da dec. 2008, COCF dal 1. da dec. 2009 – [AS 2009 6409](https://fedlex.data.admin.ch/eli/oc/2009/783); [BBl 2008 2891](https://fedlex.data.admin.ch/eli/fga/2008/642)[2907](https://fedlex.data.admin.ch/eli/fga/2008/644), [2009 13](https://fedlex.data.admin.ch/eli/fga/2009/3)[8719](https://fedlex.data.admin.ch/eli/fga/2009/1477)).
+[^139-1]: Acceptà en la votaziun dal pievel dals 27 da sett. 2009, en vigur dapi ils 27 da sett. 2009 (COF dals 19 da dec. 2008, COCF dal 1. da dec. 2009 – [AS 2009 6409](https://fedlex.data.admin.ch/eli/oc/2009/783); [BBl 2008 2891](https://fedlex.data.admin.ch/eli/fga/2008/642), [2907](https://fedlex.data.admin.ch/eli/fga/2008/644); [2009 13](https://fedlex.data.admin.ch/eli/fga/2009/3), [8719](https://fedlex.data.admin.ch/eli/fga/2009/1477)).
 
 #### Art. 139a
 
 [^139a-1]
 
-[^139a-1]: Acceptà en la votaziun dal pievel dals 9 da favr. 2003 (COF dals 4 d’oct. 2002, COCF dals 25 da mars 2003 – [AS 2003 1949](https://fedlex.data.admin.ch/eli/oc/2003/296); [BBl 2001 4803](https://fedlex.data.admin.ch/eli/fga/2001/781)[6080](https://fedlex.data.admin.ch/eli/fga/2001/1021), [2002 6485](https://fedlex.data.admin.ch/eli/fga/2002/1020), [2003 3111](https://fedlex.data.admin.ch/eli/fga/2003/390)). Abolì en la votaziun dal pievel dals 27 da sett. 2009, cun effect dapi ils 27 da sett. 2009 (COF dals 19 da dec. 2008, COCF dal 1. da dec. 2009 – [AS 2009 6409](https://fedlex.data.admin.ch/eli/oc/2009/783); [BBl 2008 2891](https://fedlex.data.admin.ch/eli/fga/2008/642)[2907](https://fedlex.data.admin.ch/eli/fga/2008/644), [2009 13](https://fedlex.data.admin.ch/eli/fga/2009/3)[8719](https://fedlex.data.admin.ch/eli/fga/2009/1477)). Quest art. n’è mai entrà en vigur en la versiun dal COF dals 4 d’oct. 2002.
+[^139a-1]: Acceptà en la votaziun dal pievel dals 9 da favr. 2003 (COF dals 4 d’oct. 2002, COCF dals 25 da mars 2003 – [AS 2003 1949](https://fedlex.data.admin.ch/eli/oc/2003/296); [BBl 2001 4803](https://fedlex.data.admin.ch/eli/fga/2001/781), [6080](https://fedlex.data.admin.ch/eli/fga/2001/1021); [2002 6485](https://fedlex.data.admin.ch/eli/fga/2002/1020); [2003 3111](https://fedlex.data.admin.ch/eli/fga/2003/390)). Abolì en la votaziun dal pievel dals 27 da sett. 2009, cun effect dapi ils 27 da sett. 2009 (COF dals 19 da dec. 2008, COCF dal 1. da dec. 2009 – [AS 2009 6409](https://fedlex.data.admin.ch/eli/oc/2009/783); [BBl 2008 2891](https://fedlex.data.admin.ch/eli/fga/2008/642), [2907](https://fedlex.data.admin.ch/eli/fga/2008/644); [2009 13](https://fedlex.data.admin.ch/eli/fga/2009/3), [8719](https://fedlex.data.admin.ch/eli/fga/2009/1477)). Quest art. n’è mai entrà en vigur en la versiun dal COF dals 4 d’oct. 2002.
 
 #### Art. 139b
 
@@ -2081,8 +2106,8 @@ Las partidas politicas gidan a furmar l’opiniun e la voluntad dal pievel.
 
 <sup>3</sup> Cur ch’ina midada da la constituziun vegn acceptada, ma che in project obtegna en la dumonda decisiva la maioritad da las vuschs dal pievel e l’auter la maioritad da las vuschs dals chantuns, alura entra en vigur quel project, tar il qual la summa da la procentuala da las vuschs dal pievel e da las vuschs dals chantuns en la dumonda decisiva è pli auta.
 
-[^139b-1]: Acceptà en la votaziun dal pievel dals 9 da favr. 2003, entrada en vigur dals al. 2 e 3 il 1. d’avust 2003 (COF dals 4 d’oct. 2002, COCF dals 25 da mars 2003, COF dals 19 da zer. 2003 – [AS 2003 1949](https://fedlex.data.admin.ch/eli/oc/2003/296); [BBl 2001 4803](https://fedlex.data.admin.ch/eli/fga/2001/781)[6080](https://fedlex.data.admin.ch/eli/fga/2001/1021), [2002 6485](https://fedlex.data.admin.ch/eli/fga/2002/1020), [2003 3111](https://fedlex.data.admin.ch/eli/fga/2003/390)[3954](https://fedlex.data.admin.ch/eli/fga/2003/586)[3960](https://fedlex.data.admin.ch/eli/fga/2003/588)). L’al. 1 n’è mai entrà en vigur en la versiun dal COF dals 4 d’oct. 2002.
-[^139b-2]: Acceptà en la votaziun dal pievel dals 27 da sett. 2009, en vigur dapi ils 27 da sett. 2009 (COF dals 19 da dec. 2008, COCF dal 1. da dec. 2009 – [AS 2009 6409](https://fedlex.data.admin.ch/eli/oc/2009/783); [BBl 2008 2891](https://fedlex.data.admin.ch/eli/fga/2008/642)[2907](https://fedlex.data.admin.ch/eli/fga/2008/644), [2009 13](https://fedlex.data.admin.ch/eli/fga/2009/3)[8719](https://fedlex.data.admin.ch/eli/fga/2009/1477)).
+[^139b-1]: Acceptà en la votaziun dal pievel dals 9 da favr. 2003, entrada en vigur dals al. 2 e 3 il 1. d’avust 2003 (COF dals 4 d’oct. 2002, COCF dals 25 da mars 2003, COF dals 19 da zer. 2003 – [AS 2003 1949](https://fedlex.data.admin.ch/eli/oc/2003/296); [BBl 2001 4803](https://fedlex.data.admin.ch/eli/fga/2001/781), [6080](https://fedlex.data.admin.ch/eli/fga/2001/1021); [2002 6485](https://fedlex.data.admin.ch/eli/fga/2002/1020); [2003 3111](https://fedlex.data.admin.ch/eli/fga/2003/390), [3954](https://fedlex.data.admin.ch/eli/fga/2003/586), [3960](https://fedlex.data.admin.ch/eli/fga/2003/588)). L’al. 1 n’è mai entrà en vigur en la versiun dal COF dals 4 d’oct. 2002.
+[^139b-2]: Acceptà en la votaziun dal pievel dals 27 da sett. 2009, en vigur dapi ils 27 da sett. 2009 (COF dals 19 da dec. 2008, COCF dal 1. da dec. 2009 – [AS 2009 6409](https://fedlex.data.admin.ch/eli/oc/2009/783); [BBl 2008 2891](https://fedlex.data.admin.ch/eli/fga/2008/642), [2907](https://fedlex.data.admin.ch/eli/fga/2008/644); [2009 13](https://fedlex.data.admin.ch/eli/fga/2009/3), [8719](https://fedlex.data.admin.ch/eli/fga/2009/1477)).
 
 #### Art. 140
 
@@ -2105,8 +2130,8 @@ Al pievel vegnan suttamessas per la votaziun:
 - b.[^140-2] las iniziativas dal pievel per ina revisiun parziala da la Constituziun federala en furma d’ina proposta generala, las qualas èn vegnidas refusadas da l’Assamblea federala;
 - c. la dumonda, sch’i saja da realisar ina revisiun totala da la Constituziun federala, en cas ch’ils dus cussegls n’èn betg da la medema opiniun.
 
-[^140-1]: Acceptà en la votaziun dal pievel dals 9 da favr. 2003 (COF dals 4 d’oct. 2002, COCF dals 25 da mars 2003 – [AS 2003 1949](https://fedlex.data.admin.ch/eli/oc/2003/296); [BBl 2001 4803](https://fedlex.data.admin.ch/eli/fga/2001/781)[6080](https://fedlex.data.admin.ch/eli/fga/2001/1021), [2002 6485](https://fedlex.data.admin.ch/eli/fga/2002/1020), [2003 3111](https://fedlex.data.admin.ch/eli/fga/2003/390)). Abolì en la votaziun dal pievel dals 27 da sett. 2009, cun effect dapi ils 27 da sett. 2009 (COF dals 19 da dec. 2008, COCF dal 1. da dec. 2009 – [AS 2009 6409](https://fedlex.data.admin.ch/eli/oc/2009/783); [BBl 2008 2891](https://fedlex.data.admin.ch/eli/fga/2008/642)[2907](https://fedlex.data.admin.ch/eli/fga/2008/644), [2009 13](https://fedlex.data.admin.ch/eli/fga/2009/3)[8719](https://fedlex.data.admin.ch/eli/fga/2009/1477)). Questa lit. n’è mai entrà en vigur en la versiun dal COF dals 4 d’oct. 2002.
-[^140-2]: Acceptà en la votaziun dal pievel dals 27 da sett. 2009, en vigur dapi ils 27 da sett. 2009 (COF dals 19 da dec. 2008, COCF dal 1. da dec. 2009 – [AS 2009 6409](https://fedlex.data.admin.ch/eli/oc/2009/783); [BBl 2008 2891](https://fedlex.data.admin.ch/eli/fga/2008/642)[2907](https://fedlex.data.admin.ch/eli/fga/2008/644), [2009 13](https://fedlex.data.admin.ch/eli/fga/2009/3)[8719](https://fedlex.data.admin.ch/eli/fga/2009/1477)).
+[^140-1]: Acceptà en la votaziun dal pievel dals 9 da favr. 2003 (COF dals 4 d’oct. 2002, COCF dals 25 da mars 2003 – [AS 2003 1949](https://fedlex.data.admin.ch/eli/oc/2003/296); [BBl 2001 4803](https://fedlex.data.admin.ch/eli/fga/2001/781), [6080](https://fedlex.data.admin.ch/eli/fga/2001/1021); [2002 6485](https://fedlex.data.admin.ch/eli/fga/2002/1020); [2003 3111](https://fedlex.data.admin.ch/eli/fga/2003/390)). Abolì en la votaziun dal pievel dals 27 da sett. 2009, cun effect dapi ils 27 da sett. 2009 (COF dals 19 da dec. 2008, COCF dal 1. da dec. 2009 – [AS 2009 6409](https://fedlex.data.admin.ch/eli/oc/2009/783); [BBl 2008 2891](https://fedlex.data.admin.ch/eli/fga/2008/642), [2907](https://fedlex.data.admin.ch/eli/fga/2008/644); [2009 13](https://fedlex.data.admin.ch/eli/fga/2009/3), [8719](https://fedlex.data.admin.ch/eli/fga/2009/1477)). Questa lit. n’è mai entrà en vigur en la versiun dal COF dals 4 d’oct. 2002.
+[^140-2]: Acceptà en la votaziun dal pievel dals 27 da sett. 2009, en vigur dapi ils 27 da sett. 2009 (COF dals 19 da dec. 2008, COCF dal 1. da dec. 2009 – [AS 2009 6409](https://fedlex.data.admin.ch/eli/oc/2009/783); [BBl 2008 2891](https://fedlex.data.admin.ch/eli/fga/2008/642), [2907](https://fedlex.data.admin.ch/eli/fga/2008/644); [2009 13](https://fedlex.data.admin.ch/eli/fga/2009/3), [8719](https://fedlex.data.admin.ch/eli/fga/2009/1477)).
 
 #### Art. 141
 
@@ -2126,9 +2151,9 @@ Sche 50 000 votantas e votants u otg chantuns pretendan aifer 100 dis dapi la pu
 
 <sup>2</sup> …[^141-3]
 
-[^141-1]: Acceptà en la votaziun dal pievel dals 9 da favr. 2003, en vigur dapi il 1. d’avust 2003 (COF dals 4 d’oct. 2002, COCF dals 25 da mars 2003, COF dals 19 da zer. 2003 – [AS 2003 1949](https://fedlex.data.admin.ch/eli/oc/2003/296); [BBl 2001 4803](https://fedlex.data.admin.ch/eli/fga/2001/781)[6080](https://fedlex.data.admin.ch/eli/fga/2001/1021), [2002 6485](https://fedlex.data.admin.ch/eli/fga/2002/1020), [2003 3111](https://fedlex.data.admin.ch/eli/fga/2003/390)[3954](https://fedlex.data.admin.ch/eli/fga/2003/586)[3960](https://fedlex.data.admin.ch/eli/fga/2003/588)).
-[^141-2]: Acceptà en la votaziun dal pievel dals 9 da favr. 2003, en vigur dapi il 1. d’avust 2003 (COF dals 4 d’oct. 2002, COCF dals 25 da mars 2003, COF dals 19 da zer. 2003 – [AS 2003 1949](https://fedlex.data.admin.ch/eli/oc/2003/296); [BBl 2001 4803](https://fedlex.data.admin.ch/eli/fga/2001/781)[6080](https://fedlex.data.admin.ch/eli/fga/2001/1021), [2002 6485](https://fedlex.data.admin.ch/eli/fga/2002/1020), [2003 3111](https://fedlex.data.admin.ch/eli/fga/2003/390)[3954](https://fedlex.data.admin.ch/eli/fga/2003/586)[3960](https://fedlex.data.admin.ch/eli/fga/2003/588)).
-[^141-3]: Abolì en la votaziun dal pievel dals 9 da favr. 2003, cun effect dapi il 1. d’avust 2003 (COF dals 4 d’oct. 2002, COCF dals 25 da mars 2003, COF dals 19 da zer. 2003 – [AS 2003 1949](https://fedlex.data.admin.ch/eli/oc/2003/296); [BBl 2001 4803](https://fedlex.data.admin.ch/eli/fga/2001/781)[6080](https://fedlex.data.admin.ch/eli/fga/2001/1021), [2002 6485](https://fedlex.data.admin.ch/eli/fga/2002/1020), [2003 3111](https://fedlex.data.admin.ch/eli/fga/2003/390)[3954](https://fedlex.data.admin.ch/eli/fga/2003/586)[3960](https://fedlex.data.admin.ch/eli/fga/2003/588)).
+[^141-1]: Acceptà en la votaziun dal pievel dals 9 da favr. 2003, en vigur dapi il 1. d’avust 2003 (COF dals 4 d’oct. 2002, COCF dals 25 da mars 2003, COF dals 19 da zer. 2003 – [AS 2003 1949](https://fedlex.data.admin.ch/eli/oc/2003/296); [BBl 2001 4803](https://fedlex.data.admin.ch/eli/fga/2001/781), [6080](https://fedlex.data.admin.ch/eli/fga/2001/1021); [2002 6485](https://fedlex.data.admin.ch/eli/fga/2002/1020); [2003 3111](https://fedlex.data.admin.ch/eli/fga/2003/390), [3954](https://fedlex.data.admin.ch/eli/fga/2003/586), [3960](https://fedlex.data.admin.ch/eli/fga/2003/588)).
+[^141-2]: Acceptà en la votaziun dal pievel dals 9 da favr. 2003, en vigur dapi il 1. d’avust 2003 (COF dals 4 d’oct. 2002, COCF dals 25 da mars 2003, COF dals 19 da zer. 2003 – [AS 2003 1949](https://fedlex.data.admin.ch/eli/oc/2003/296); [BBl 2001 4803](https://fedlex.data.admin.ch/eli/fga/2001/781), [6080](https://fedlex.data.admin.ch/eli/fga/2001/1021); [2002 6485](https://fedlex.data.admin.ch/eli/fga/2002/1020); [2003 3111](https://fedlex.data.admin.ch/eli/fga/2003/390), [3954](https://fedlex.data.admin.ch/eli/fga/2003/586), [3960](https://fedlex.data.admin.ch/eli/fga/2003/588)).
+[^141-3]: Abolì en la votaziun dal pievel dals 9 da favr. 2003, cun effect dapi il 1. d’avust 2003 (COF dals 4 d’oct. 2002, COCF dals 25 da mars 2003, COF dals 19 da zer. 2003 – [AS 2003 1949](https://fedlex.data.admin.ch/eli/oc/2003/296); [BBl 2001 4803](https://fedlex.data.admin.ch/eli/fga/2001/781), [6080](https://fedlex.data.admin.ch/eli/fga/2001/1021); [2002 6485](https://fedlex.data.admin.ch/eli/fga/2002/1020); [2003 3111](https://fedlex.data.admin.ch/eli/fga/2003/390), [3954](https://fedlex.data.admin.ch/eli/fga/2003/586), [3960](https://fedlex.data.admin.ch/eli/fga/2003/588)).
 
 #### Art. 141a
 
@@ -2138,7 +2163,7 @@ Sche 50 000 votantas e votants u otg chantuns pretendan aifer 100 dis dapi la pu
 
 <sup>2</sup> Sch’il conclus d’approvaziun d’in contract internaziunal è suttamess al referendum facultativ, po l’Assamblea federala integrar en quel las midadas legalas che servan a la realisaziun dal contract.
 
-[^141a-1]: Acceptà en la votaziun dal pievel dals 9 da favr. 2003, en vigur dapi il 1. d’avust 2003 (COF dals 4 d’oct. 2002, COCF dals 25 da mars 2003, COF dals 19 da zer. 2003 – [AS 2003 1949](https://fedlex.data.admin.ch/eli/oc/2003/296); [BBl 2001 4803](https://fedlex.data.admin.ch/eli/fga/2001/781)[6080](https://fedlex.data.admin.ch/eli/fga/2001/1021), [2002 6485](https://fedlex.data.admin.ch/eli/fga/2002/1020), [2003 3111](https://fedlex.data.admin.ch/eli/fga/2003/390)[3954](https://fedlex.data.admin.ch/eli/fga/2003/586)[3960](https://fedlex.data.admin.ch/eli/fga/2003/588)).
+[^141a-1]: Acceptà en la votaziun dal pievel dals 9 da favr. 2003, en vigur dapi il 1. d’avust 2003 (COF dals 4 d’oct. 2002, COCF dals 25 da mars 2003, COF dals 19 da zer. 2003 – [AS 2003 1949](https://fedlex.data.admin.ch/eli/oc/2003/296); [BBl 2001 4803](https://fedlex.data.admin.ch/eli/fga/2001/781), [6080](https://fedlex.data.admin.ch/eli/fga/2001/1021); [2002 6485](https://fedlex.data.admin.ch/eli/fga/2002/1020); [2003 3111](https://fedlex.data.admin.ch/eli/fga/2003/390), [3954](https://fedlex.data.admin.ch/eli/fga/2003/586), [3960](https://fedlex.data.admin.ch/eli/fga/2003/588)).
 
 #### Art. 142
 
@@ -2281,9 +2306,9 @@ La lescha prevesa disposiziuns per garantir ch’i dettia – en cas da divergen
 - c.[^156-2] la realisaziun d’in conclus federal ch’il pievel ha approvà per iniziar ina revisiun totala da la Constituziun federala;
 - d. il preventiv u in supplement a tal.[^156-3]
 
-[^156-1]: Acceptà en la votaziun dal pievel dals 27 da sett. 2009, en vigur dapi ils 27 da sett. 2009 (COF dals 19 da dec. 2008, COCF dal 1. da dec. 2009 – [AS 2009 6409](https://fedlex.data.admin.ch/eli/oc/2009/783); [BBl 2008 2891](https://fedlex.data.admin.ch/eli/fga/2008/642)[2907](https://fedlex.data.admin.ch/eli/fga/2008/644), [2009 13](https://fedlex.data.admin.ch/eli/fga/2009/3)[8719](https://fedlex.data.admin.ch/eli/fga/2009/1477)).
-[^156-2]: Acceptà en la votaziun dal pievel dals 27 da sett. 2009, en vigur dapi ils 27 da sett. 2009 (COF dals 19 da dec. 2008, COCF dal 1. da dec. 2009 – [AS 2009 6409](https://fedlex.data.admin.ch/eli/oc/2009/783); [BBl 2008 2891](https://fedlex.data.admin.ch/eli/fga/2008/642)[2907](https://fedlex.data.admin.ch/eli/fga/2008/644), [2009 13](https://fedlex.data.admin.ch/eli/fga/2009/3)[8719](https://fedlex.data.admin.ch/eli/fga/2009/1477)).
-[^156-3]: Acceptà en la votaziun dal pievel dals 9 da favr. 2003, entrada en vigur da las lit. a e d il 1. d’avust 2003 (COF dals 4 d’oct. 2002, COCF dals 25 da mars 2003, COF dals 19 da zer. 2003 – [AS 2003 1949](https://fedlex.data.admin.ch/eli/oc/2003/296); [BBl 2001 4803](https://fedlex.data.admin.ch/eli/fga/2001/781)[6080](https://fedlex.data.admin.ch/eli/fga/2001/1021), [2002 6485](https://fedlex.data.admin.ch/eli/fga/2002/1020), [2003 3111](https://fedlex.data.admin.ch/eli/fga/2003/390)[3954](https://fedlex.data.admin.ch/eli/fga/2003/586)[3960](https://fedlex.data.admin.ch/eli/fga/2003/588)).
+[^156-1]: Acceptà en la votaziun dal pievel dals 27 da sett. 2009, en vigur dapi ils 27 da sett. 2009 (COF dals 19 da dec. 2008, COCF dal 1. da dec. 2009 – [AS 2009 6409](https://fedlex.data.admin.ch/eli/oc/2009/783); [BBl 2008 2891](https://fedlex.data.admin.ch/eli/fga/2008/642), [2907](https://fedlex.data.admin.ch/eli/fga/2008/644); [2009 13](https://fedlex.data.admin.ch/eli/fga/2009/3), [8719](https://fedlex.data.admin.ch/eli/fga/2009/1477)).
+[^156-2]: Acceptà en la votaziun dal pievel dals 27 da sett. 2009, en vigur dapi ils 27 da sett. 2009 (COF dals 19 da dec. 2008, COCF dal 1. da dec. 2009 – [AS 2009 6409](https://fedlex.data.admin.ch/eli/oc/2009/783); [BBl 2008 2891](https://fedlex.data.admin.ch/eli/fga/2008/642), [2907](https://fedlex.data.admin.ch/eli/fga/2008/644); [2009 13](https://fedlex.data.admin.ch/eli/fga/2009/3), [8719](https://fedlex.data.admin.ch/eli/fga/2009/1477)).
+[^156-3]: Acceptà en la votaziun dal pievel dals 9 da favr. 2003, entrada en vigur da las lit. a e d il 1. d’avust 2003 (COF dals 4 d’oct. 2002, COCF dals 25 da mars 2003, COF dals 19 da zer. 2003 – [AS 2003 1949](https://fedlex.data.admin.ch/eli/oc/2003/296); [BBl 2001 4803](https://fedlex.data.admin.ch/eli/fga/2001/781), [6080](https://fedlex.data.admin.ch/eli/fga/2001/1021); [2002 6485](https://fedlex.data.admin.ch/eli/fga/2002/1020); [2003 3111](https://fedlex.data.admin.ch/eli/fga/2003/390), [3954](https://fedlex.data.admin.ch/eli/fga/2003/586), [3960](https://fedlex.data.admin.ch/eli/fga/2003/588)).
 
 #### Art. 157
 
@@ -2323,8 +2348,8 @@ Il consentiment da la maioritad dals commembers da mintgin dals dus cussegls dov
 
 <sup>4</sup> Cun in’ordinaziun po l’Assamblea federala adattar a la chareschia ils imports tenor l’alinea 3 litera b.[^159-2]
 
-[^159-1]: Acceptà en la votaziun dal pievel dals 2 da dec. 2001, en vigur dapi ils 2 da dec. 2001 (COF dals 22 da zer. 2001, COCF dals 4 da favr. 2002 – [AS 2002 241](https://fedlex.data.admin.ch/eli/oc/2002/51); [BBl 2000 4653](https://fedlex.data.admin.ch/eli/fga/2000/962), [2001 2387](https://fedlex.data.admin.ch/eli/fga/2001/510)[2878](https://fedlex.data.admin.ch/eli/fga/2001/554), [2002 1209](https://fedlex.data.admin.ch/eli/fga/2002/150)).
-[^159-2]: Acceptà en la votaziun dal pievel dals 2 da dec. 2001 (COF dals 22 da zer. 2001, COCF dals 4 da favr. 2002 – [AS 2002 241](https://fedlex.data.admin.ch/eli/oc/2002/51); [BBl 2000 4653](https://fedlex.data.admin.ch/eli/fga/2000/962), [2001 2387](https://fedlex.data.admin.ch/eli/fga/2001/510)[2878](https://fedlex.data.admin.ch/eli/fga/2001/554), [2002 1209](https://fedlex.data.admin.ch/eli/fga/2002/150)).
+[^159-1]: Acceptà en la votaziun dal pievel dals 2 da dec. 2001, en vigur dapi ils 2 da dec. 2001 (COF dals 22 da zer. 2001, COCF dals 4 da favr. 2002 – [AS 2002 241](https://fedlex.data.admin.ch/eli/oc/2002/51); [BBl 2000 4653](https://fedlex.data.admin.ch/eli/fga/2000/962); [2001 2387](https://fedlex.data.admin.ch/eli/fga/2001/510), [2878](https://fedlex.data.admin.ch/eli/fga/2001/554); [2002 1209](https://fedlex.data.admin.ch/eli/fga/2002/150)).
+[^159-2]: Acceptà en la votaziun dal pievel dals 2 da dec. 2001 (COF dals 22 da zer. 2001, COCF dals 4 da favr. 2002 – [AS 2002 241](https://fedlex.data.admin.ch/eli/oc/2002/51); [BBl 2000 4653](https://fedlex.data.admin.ch/eli/fga/2000/962); [2001 2387](https://fedlex.data.admin.ch/eli/fga/2001/510), [2878](https://fedlex.data.admin.ch/eli/fga/2001/554); [2002 1209](https://fedlex.data.admin.ch/eli/fga/2002/150)).
 
 #### Art. 160
 
@@ -2487,8 +2512,8 @@ Il Cussegl federal è l’autoritad directiva ed executiva suprema da la Confede
 
 <sup>4</sup> Latiers sto vegnir procurà che las regiuns dal pajais e las regiuns linguisticas vegnian represchentadas adequatamain.[^175-2]
 
-[^175-1]: Acceptà en la votaziun dal pievel dals 7 da favr. 1999, en vigur dapi il 1. da schan. 2000 (COF dals 9 d’oct. 1998, COCF dals 2 da mars 1999 – [AS 1999 1239](https://fedlex.data.admin.ch/eli/oc/1999/168); [BBl 1993 IV 554](https://fedlex.data.admin.ch/eli/fga/1993/4_554_566_501), [1994 III 1370](https://fedlex.data.admin.ch/eli/fga/1994/3_1370_1356_1236), **1998** 4800, **1999** 2475 [8768](https://fedlex.data.admin.ch/eli/fga/1999/1_8768_7967_7589)).
-[^175-2]: Acceptà en la votaziun dal pievel dals 7 da favr. 1999, en vigur dapi il 1. da schan. 2000 (COF dals 9 d’oct. 1998, COCF dals 2 da mars 1999 – [AS 1999 1239](https://fedlex.data.admin.ch/eli/oc/1999/168); [BBl 1993 IV 554](https://fedlex.data.admin.ch/eli/fga/1993/4_554_566_501), [1994 III 1370](https://fedlex.data.admin.ch/eli/fga/1994/3_1370_1356_1236), **1998** 4800, **1999** 2475 [8768](https://fedlex.data.admin.ch/eli/fga/1999/1_8768_7967_7589)).
+[^175-1]: Acceptà en la votaziun dal pievel dals 7 da favr. 1999, en vigur dapi il 1. da schan. 2000 (COF dals 9 d’oct. 1998, COCF dals 2 da mars 1999 – [AS 1999 1239](https://fedlex.data.admin.ch/eli/oc/1999/168); [BBl 1993 IV 554](https://fedlex.data.admin.ch/eli/fga/1993/4_554_566_501); [1994 III 1370](https://fedlex.data.admin.ch/eli/fga/1994/3_1370_1356_1236); **1998** 4800; **1999** 2475, [8768](https://fedlex.data.admin.ch/eli/fga/1999/1_8768_7967_7589)).
+[^175-2]: Acceptà en la votaziun dal pievel dals 7 da favr. 1999, en vigur dapi il 1. da schan. 2000 (COF dals 9 d’oct. 1998, COCF dals 2 da mars 1999 – [AS 1999 1239](https://fedlex.data.admin.ch/eli/oc/1999/168); [BBl 1993 IV 554](https://fedlex.data.admin.ch/eli/fga/1993/4_554_566_501); [1994 III 1370](https://fedlex.data.admin.ch/eli/fga/1994/3_1370_1356_1236); **1998** 4800; **1999** 2475, [8768](https://fedlex.data.admin.ch/eli/fga/1999/1_8768_7967_7589)).
 
 #### Art. 176
 
@@ -2611,7 +2636,7 @@ Il Cussegl federal ha ultra da quai las suandantas incumbensas e cumpetenzas:
 
 [^tit5-chap4-1]
 
-[^tit5-chap4-1]: Acceptà en la votaziun dal pievel dals 12 da mars 2000, en vigur dapi il 1. da schan. 2007 (COF dals 8 d’oct. 1999, COCF dals 17 da matg 2000, COF dals 8 da mars 2005 – [AS 2002 3148](https://fedlex.data.admin.ch/eli/oc/2002/467), [2006 1059](https://fedlex.data.admin.ch/eli/oc/2006/185); [BBl 1997 I 1](https://fedlex.data.admin.ch/eli/fga/1997/1_1_1_1), [1999 8633](https://fedlex.data.admin.ch/eli/fga/1999/1_8633_7831_7454), [2000 2990](https://fedlex.data.admin.ch/eli/fga/2000/615), [2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^tit5-chap4-1]: Acceptà en la votaziun dal pievel dals 12 da mars 2000, en vigur dapi il 1. da schan. 2007 (COF dals 8 d’oct. 1999, COCF dals 17 da matg 2000, COF dals 8 da mars 2005 – [AS 2002 3148](https://fedlex.data.admin.ch/eli/oc/2002/467); [2006 1059](https://fedlex.data.admin.ch/eli/oc/2006/185); [BBl 1997 I 1](https://fedlex.data.admin.ch/eli/fga/1997/1_1_1_1); [1999 8633](https://fedlex.data.admin.ch/eli/fga/1999/1_8633_7831_7454); [2000 2990](https://fedlex.data.admin.ch/eli/fga/2000/615); [2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 188
 
@@ -2646,7 +2671,7 @@ Il Tribunal federal giuditgescha dispitas pervia da violaziun:
 
 <sup>4</sup> Acts da l’Assamblea federala e dal Cussegl federal na pon betg vegnir contestads tar il Tribunal federal. La lescha fixescha las excepziuns.
 
-[^189-1]: Acceptà en la votaziun dal pievel dals 9 da favr. 2003 (COF dals 4 d’oct. 2002, COCF dals 25 da mars 2003 – [AS 2003 1949](https://fedlex.data.admin.ch/eli/oc/2003/296); [BBl 2001 4803](https://fedlex.data.admin.ch/eli/fga/2001/781)[6080](https://fedlex.data.admin.ch/eli/fga/2001/1021), [2002 6485](https://fedlex.data.admin.ch/eli/fga/2002/1020), [2003 3111](https://fedlex.data.admin.ch/eli/fga/2003/390)). Abolì en la votaziun dal pievel dals 27 da sett. 2009, cun effect dapi ils 27 da sett. 2009 (COF dals 19 da dec. 2008, COCF dal 1. da dec. 2009 – [AS 2009 6409](https://fedlex.data.admin.ch/eli/oc/2009/783); [BBl 2008 2891](https://fedlex.data.admin.ch/eli/fga/2008/642)[2907](https://fedlex.data.admin.ch/eli/fga/2008/644), [2009 13](https://fedlex.data.admin.ch/eli/fga/2009/3)[8719](https://fedlex.data.admin.ch/eli/fga/2009/1477)). Quest al. n’è mai entrà en vigur en la versiun dal COF dals 4 d’oct. 2002.
+[^189-1]: Acceptà en la votaziun dal pievel dals 9 da favr. 2003 (COF dals 4 d’oct. 2002, COCF dals 25 da mars 2003 – [AS 2003 1949](https://fedlex.data.admin.ch/eli/oc/2003/296); [BBl 2001 4803](https://fedlex.data.admin.ch/eli/fga/2001/781), [6080](https://fedlex.data.admin.ch/eli/fga/2001/1021); [2002 6485](https://fedlex.data.admin.ch/eli/fga/2002/1020); [2003 3111](https://fedlex.data.admin.ch/eli/fga/2003/390)). Abolì en la votaziun dal pievel dals 27 da sett. 2009, cun effect dapi ils 27 da sett. 2009 (COF dals 19 da dec. 2008, COCF dal 1. da dec. 2009 – [AS 2009 6409](https://fedlex.data.admin.ch/eli/oc/2009/783); [BBl 2008 2891](https://fedlex.data.admin.ch/eli/fga/2008/642), [2907](https://fedlex.data.admin.ch/eli/fga/2008/644); [2009 13](https://fedlex.data.admin.ch/eli/fga/2009/3), [8719](https://fedlex.data.admin.ch/eli/fga/2009/1477)). Quest al. n’è mai entrà en vigur en la versiun dal COF dals 4 d’oct. 2002.
 
 #### Art. 190
 
@@ -2676,7 +2701,7 @@ Leschas federalas ed il dretg internaziunal èn decisivs per il Tribunal federal
 
 <sup>3</sup> La lescha po prevair ulteriuras autoritads giudizialas da la Confederaziun.
 
-[^191a-1]: Acceptà en la votaziun dal pievel dals 12 da mars 2000, entrada en vigur da l’al. 1 il 1. d’avr. 2003, entrada en vigur dals al. 2 e 3 il 1. da sett. 2005 (COF dals 8 d’oct. 1999, COCF dals 17 da matg 2000, COF dals 24 da sett. 2002 e dals 2 da mars 2005 – [AS 2002 3148](https://fedlex.data.admin.ch/eli/oc/2002/467), [2005 1475](https://fedlex.data.admin.ch/eli/oc/2005/222); [BBl 1997 I 1](https://fedlex.data.admin.ch/eli/fga/1997/1_1_1_1), [1999 8633](https://fedlex.data.admin.ch/eli/fga/1999/1_8633_7831_7454), [2000 2990](https://fedlex.data.admin.ch/eli/fga/2000/615), [2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731), [2004 4787](https://fedlex.data.admin.ch/eli/fga/2004/845)).
+[^191a-1]: Acceptà en la votaziun dal pievel dals 12 da mars 2000, entrada en vigur da l’al. 1 il 1. d’avr. 2003, entrada en vigur dals al. 2 e 3 il 1. da sett. 2005 (COF dals 8 d’oct. 1999, COCF dals 17 da matg 2000, COF dals 24 da sett. 2002 e dals 2 da mars 2005 – [AS 2002 3148](https://fedlex.data.admin.ch/eli/oc/2002/467); [2005 1475](https://fedlex.data.admin.ch/eli/oc/2005/222); [BBl 1997 I 1](https://fedlex.data.admin.ch/eli/fga/1997/1_1_1_1); [1999 8633](https://fedlex.data.admin.ch/eli/fga/1999/1_8633_7831_7454); [2000 2990](https://fedlex.data.admin.ch/eli/fga/2000/615); [2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731); [2004 4787](https://fedlex.data.admin.ch/eli/fga/2004/845)).
 
 #### Art. 191b
 
@@ -2740,7 +2765,7 @@ La Constituziun federala revedida entiramain u parzialmain va en vigur suenter c
 
 ### Disposiziun transitorica tar l’art. 84 (Transit da las Alps)
 
-[^196-1]: Acceptà en la votaziun dal pievel dals 3 da mars 2002, en vigur dapi ils 3 da mars 2002 (COF dals 5 d’oct. 2001, COCF dals 26 d’avr. 2002 – [AS 2002 885](https://fedlex.data.admin.ch/eli/oc/2002/156); [BBl 2000 2453](https://fedlex.data.admin.ch/eli/fga/2000/488), [2001 1183](https://fedlex.data.admin.ch/eli/fga/2001/230)[5731](https://fedlex.data.admin.ch/eli/fga/2001/891), [2002 3690](https://fedlex.data.admin.ch/eli/fga/2002/523)).
+[^196-1]: Acceptà en la votaziun dal pievel dals 3 da mars 2002, en vigur dapi ils 3 da mars 2002 (COF dals 5 d’oct. 2001, COCF dals 26 d’avr. 2002 – [AS 2002 885](https://fedlex.data.admin.ch/eli/oc/2002/156); [BBl 2000 2453](https://fedlex.data.admin.ch/eli/fga/2000/488); [2001 1183](https://fedlex.data.admin.ch/eli/fga/2001/230), [5731](https://fedlex.data.admin.ch/eli/fga/2001/891); [2002 3690](https://fedlex.data.admin.ch/eli/fga/2002/523)).
 
 Il transferiment dal transport da rauba da transit sin la viafier sto esser terminà 10 onns suenter l’acceptaziun da l’iniziativa dal pievel per proteger il territori da las Alps dal traffic da transit.
 
@@ -2783,7 +2808,7 @@ Il transferiment dal transport da rauba da transit sin la viafier sto esser term
 
 [^196-subdivu3-1]
 
-[^196-subdivu3-1]: Acceptà en la votaziun dal pievel dals 12 da favr. 2017, en vigur dapi il 1. da schan. 2018 (COF dals 30 da sett. 2016, COCF dals 10 da nov. 2016 – [AS 2017 6731](https://fedlex.data.admin.ch/eli/oc/2017/751); [BBl 2015 2065](https://fedlex.data.admin.ch/eli/fga/2015/416), [2016 7587](https://fedlex.data.admin.ch/eli/fga/2016/1628), [2017 3387](https://fedlex.data.admin.ch/eli/fga/2017/748)).
+[^196-subdivu3-1]: Acceptà en la votaziun dal pievel dals 12 da favr. 2017, en vigur dapi il 1. da schan. 2018 (COF dals 30 da sett. 2016, COCF dals 10 da nov. 2016 – [AS 2017 6731](https://fedlex.data.admin.ch/eli/oc/2017/751); [BBl 2015 2065](https://fedlex.data.admin.ch/eli/fga/2015/416); [2016 7587](https://fedlex.data.admin.ch/eli/fga/2016/1628); [2017 3387](https://fedlex.data.admin.ch/eli/fga/2017/748)).
 
 <sup>1</sup> Ils gronds projects da viafier cumpiglian la nova viafier transversala da las Alps (NVTA), la VIAFIER 2000, la colliaziun da la Svizra da l’ost e dal vest a la rait da viafier europeica d’auta prestaziun sco er la meglieraziun da las mesiras da protecziun cunter la canera lung ils trajects da viafier cun mesiras activas e passivas.
 
@@ -2799,10 +2824,10 @@ Il transferiment dal transport da rauba da transit sin la viafier sto esser term
 
 <sup>5</sup> Questa disposiziun vala fin al mument da la terminaziun da las lavurs da construcziun e da la finanziaziun (restituziun dals pajaments anticipads) dals gronds projects da viafier menziunads en l’alinea 1.
 
-[^196-subdivu3-2]: Acceptà en la votaziun dal pievel dals 12 da favr. 2017, en vigur dapi il 1. da schan. 2018 (COF dals 30 da sett. 2016, COCF dals 10 da nov. 2016 – [AS 2017 6731](https://fedlex.data.admin.ch/eli/oc/2017/751); [BBl 2015 2065](https://fedlex.data.admin.ch/eli/fga/2015/416), [2016 7587](https://fedlex.data.admin.ch/eli/fga/2016/1628), [2017 3387](https://fedlex.data.admin.ch/eli/fga/2017/748)).
-[^196-subdivu3-3]: Acceptà en la votaziun dal pievel dals 12 da favr. 2017, en vigur dapi il 1. da schan. 2018 (COF dals 30 da sett. 2016, COCF dals 10 da nov. 2016 – [AS 2017 6731](https://fedlex.data.admin.ch/eli/oc/2017/751); [BBl 2015 2065](https://fedlex.data.admin.ch/eli/fga/2015/416), [2016 7587](https://fedlex.data.admin.ch/eli/fga/2016/1628), [2017 3387](https://fedlex.data.admin.ch/eli/fga/2017/748)).
-[^196-subdivu3-4]: Acceptà en la votaziun dal pievel dals 12 da favr. 2017, en vigur dapi il 1. da schan. 2018 (COF dals 30 da sett. 2016, COCF dals 10 da nov. 2016 – [AS 2017 6731](https://fedlex.data.admin.ch/eli/oc/2017/751); [BBl 2015 2065](https://fedlex.data.admin.ch/eli/fga/2015/416), [2016 7587](https://fedlex.data.admin.ch/eli/fga/2016/1628), [2017 3387](https://fedlex.data.admin.ch/eli/fga/2017/748)).
-[^196-subdivu3-5]: Acceptà en la votaziun dal pievel dals 9 da favr. 2014, en vigur dapi il 1. da schan. 2016 (COF dals 20 da zer. 2013, COCF dals 13 da matg 2014, COCF dals 2 da zer. 2014, COCF dals 6 da zer. 2014 – [AS 2015 645](https://fedlex.data.admin.ch/eli/oc/2015/104); [BBl 2010 6637](https://fedlex.data.admin.ch/eli/fga/2010/1168), [2012 1577](https://fedlex.data.admin.ch/eli/fga/2012/305), [2013 4725](https://fedlex.data.admin.ch/eli/fga/2013/897)[6518](https://fedlex.data.admin.ch/eli/fga/2013/1136), [2014 4113](https://fedlex.data.admin.ch/eli/fga/2014/970)[4117](https://fedlex.data.admin.ch/eli/fga/2014/972)).
+[^196-subdivu3-2]: Acceptà en la votaziun dal pievel dals 12 da favr. 2017, en vigur dapi il 1. da schan. 2018 (COF dals 30 da sett. 2016, COCF dals 10 da nov. 2016 – [AS 2017 6731](https://fedlex.data.admin.ch/eli/oc/2017/751); [BBl 2015 2065](https://fedlex.data.admin.ch/eli/fga/2015/416); [2016 7587](https://fedlex.data.admin.ch/eli/fga/2016/1628); [2017 3387](https://fedlex.data.admin.ch/eli/fga/2017/748)).
+[^196-subdivu3-3]: Acceptà en la votaziun dal pievel dals 12 da favr. 2017, en vigur dapi il 1. da schan. 2018 (COF dals 30 da sett. 2016, COCF dals 10 da nov. 2016 – [AS 2017 6731](https://fedlex.data.admin.ch/eli/oc/2017/751); [BBl 2015 2065](https://fedlex.data.admin.ch/eli/fga/2015/416); [2016 7587](https://fedlex.data.admin.ch/eli/fga/2016/1628); [2017 3387](https://fedlex.data.admin.ch/eli/fga/2017/748)).
+[^196-subdivu3-4]: Acceptà en la votaziun dal pievel dals 12 da favr. 2017, en vigur dapi il 1. da schan. 2018 (COF dals 30 da sett. 2016, COCF dals 10 da nov. 2016 – [AS 2017 6731](https://fedlex.data.admin.ch/eli/oc/2017/751); [BBl 2015 2065](https://fedlex.data.admin.ch/eli/fga/2015/416); [2016 7587](https://fedlex.data.admin.ch/eli/fga/2016/1628); [2017 3387](https://fedlex.data.admin.ch/eli/fga/2017/748)).
+[^196-subdivu3-5]: Acceptà en la votaziun dal pievel dals 9 da favr. 2014, en vigur dapi il 1. da schan. 2016 (COF dals 20 da zer. 2013, COCF dals 13 da matg 2014, COCF dals 2 da zer. 2014, COCF dals 6 da zer. 2014 – [AS 2015 645](https://fedlex.data.admin.ch/eli/oc/2015/104); [BBl 2010 6637](https://fedlex.data.admin.ch/eli/fga/2010/1168); [2012 1577](https://fedlex.data.admin.ch/eli/fga/2012/305); [2013 4725](https://fedlex.data.admin.ch/eli/fga/2013/897), [6518](https://fedlex.data.admin.ch/eli/fga/2013/1136); [2014 4113](https://fedlex.data.admin.ch/eli/fga/2014/970), [4117](https://fedlex.data.admin.ch/eli/fga/2014/972)).
 
 ### Disposiziun transitorica tar l’art. 90 (Energia nucleara)
 
@@ -2840,7 +2865,7 @@ Ils chantuns pon mantegnair durant maximalmain 10 onns a partir da l’entrada e
 
 [^196-subdivu10-1]
 
-[^196-subdivu10-1]: Abolì en la votaziun dal pievel dals 28 da nov. 2004, cun effect dapi il 1. da schan. 2008 (COF dals 3 d’oct. 2003, COCF dals 26 da schan. 2005, COCF dals 7 da nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^196-subdivu10-1]: Abolì en la votaziun dal pievel dals 28 da nov. 2004, cun effect dapi il 1. da schan. 2008 (COF dals 3 d’oct. 2003, COCF dals 26 da schan. 2005, COCF dals 7 da nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316); [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089); [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
 
 ### Disposiziun transitorica tar l’art. 113 (Prevenziun professiunala)
 
@@ -2856,7 +2881,7 @@ Assicurads ch’appartegnan a la generaziun d’entrada e na disponan per quest 
 
 [^196-subdivu13-1]
 
-[^196-subdivu13-1]: Acceptà en la votaziun dal pievel dals 4 da mars 2018, en vigur dapi il 1. da schan. 2021 (COF dals 16 da zer. 2017, COCF dals 13 da favr. 2019 – [AS 2019 769](https://fedlex.data.admin.ch/eli/oc/2019/137); [BBl 2016 6221](https://fedlex.data.admin.ch/eli/fga/2016/1193), [2017 4205](https://fedlex.data.admin.ch/eli/fga/2017/1059), [2018 2761](https://fedlex.data.admin.ch/eli/fga/2018/1088)).
+[^196-subdivu13-1]: Acceptà en la votaziun dal pievel dals 4 da mars 2018, en vigur dapi il 1. da schan. 2021 (COF dals 16 da zer. 2017, COCF dals 13 da favr. 2019 – [AS 2019 769](https://fedlex.data.admin.ch/eli/oc/2019/137); [BBl 2016 6221](https://fedlex.data.admin.ch/eli/fga/2016/1193); [2017 4205](https://fedlex.data.admin.ch/eli/fga/2017/1059); [2018 2761](https://fedlex.data.admin.ch/eli/fga/2018/1088)).
 
 La taglia federala directa po vegnir incassada fin la fin da l’onn 2035.
 
@@ -2864,8 +2889,8 @@ La taglia federala directa po vegnir incassada fin la fin da l’onn 2035.
 
 [^196-subdivu14-1][^196-subdivu14-2]
 
-[^196-subdivu14-1]: Acceptà en la votaziun dal pievel dals 28 da nov. 2004, en vigur dapi il 1. da schan. 2007 (COF dals 19 da mars 2004, COCF dals 26 da schan. 2005, COCF dals 2 da favr. 2006 – [AS 2006 1057](https://fedlex.data.admin.ch/eli/oc/2006/184); [BBl 2003 1531](https://fedlex.data.admin.ch/eli/fga/2003/220), [2004 1363](https://fedlex.data.admin.ch/eli/fga/2004/254), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
-[^196-subdivu14-2]: Acceptà en la votaziun dal pievel dals 27 da sett. 2009, en vigur dapi il 1. da schan. 2011 (COF dals 13 da zer. 2008 e dals 12 da zer. 2009, COCF dals 7 da sett. 2010 – [AS 2010 3821](https://fedlex.data.admin.ch/eli/oc/2010/542); [BBl 2005 4623](https://fedlex.data.admin.ch/eli/fga/2005/721), [2008 5241](https://fedlex.data.admin.ch/eli/fga/2008/933), [2009 4371](https://fedlex.data.admin.ch/eli/fga/2009/772)[4377](https://fedlex.data.admin.ch/eli/fga/2009/774)[4379](https://fedlex.data.admin.ch/eli/fga/2009/775)[8719](https://fedlex.data.admin.ch/eli/fga/2009/1477)).
+[^196-subdivu14-1]: Acceptà en la votaziun dal pievel dals 28 da nov. 2004, en vigur dapi il 1. da schan. 2007 (COF dals 19 da mars 2004, COCF dals 26 da schan. 2005, COCF dals 2 da favr. 2006 – [AS 2006 1057](https://fedlex.data.admin.ch/eli/oc/2006/184); [BBl 2003 1531](https://fedlex.data.admin.ch/eli/fga/2003/220); [2004 1363](https://fedlex.data.admin.ch/eli/fga/2004/254); [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^196-subdivu14-2]: Acceptà en la votaziun dal pievel dals 27 da sett. 2009, en vigur dapi il 1. da schan. 2011 (COF dals 13 da zer. 2008 e dals 12 da zer. 2009, COCF dals 7 da sett. 2010 – [AS 2010 3821](https://fedlex.data.admin.ch/eli/oc/2010/542); [BBl 2005 4623](https://fedlex.data.admin.ch/eli/fga/2005/721); [2008 5241](https://fedlex.data.admin.ch/eli/fga/2008/933); [2009 4371](https://fedlex.data.admin.ch/eli/fga/2009/772), [4377](https://fedlex.data.admin.ch/eli/fga/2009/774), [4379](https://fedlex.data.admin.ch/eli/fga/2009/775), [8719](https://fedlex.data.admin.ch/eli/fga/2009/1477)).
 
 <sup>1</sup> La taglia sin la plivalur po vegnir incassada fin la fin da l’onn 2035.[^196-subdivu14-3]
 
@@ -2877,23 +2902,23 @@ La taglia federala directa po vegnir incassada fin la fin da l’onn 2035.
 
 <sup>5</sup> Il retgav che resulta da l’augment tenor l’alinea 4 vegn attribuì cumplainamain al fond tenor l’artitgel 87*a*.[^196-subdivu14-7]
 
-[^196-subdivu14-3]: Acceptà en la votaziun dal pievel dals 4 da mars 2018, en vigur dapi il 1. da schan. 2021 (COF dals 16 da zer. 2017, COCF dals 13 da favr. 2019 – [AS 2019 769](https://fedlex.data.admin.ch/eli/oc/2019/137); [BBl 2016 6221](https://fedlex.data.admin.ch/eli/fga/2016/1193), [2017 4205](https://fedlex.data.admin.ch/eli/fga/2017/1059), [2018 2761](https://fedlex.data.admin.ch/eli/fga/2018/1088)).
-[^196-subdivu14-4]: Acceptà en la votaziun dal pievel dals 27 da sett. 2009, en vigur dapi il 1. da schan. 2011 (COF dals 13 da zer. 2008 e dals 12 da zer. 2009, COCF dals 7 da sett. 2010 – [AS 2010 3821](https://fedlex.data.admin.ch/eli/oc/2010/542); [BBl 2005 4623](https://fedlex.data.admin.ch/eli/fga/2005/721), [2008 5241](https://fedlex.data.admin.ch/eli/fga/2008/933), [2009 4371](https://fedlex.data.admin.ch/eli/fga/2009/772)[4377](https://fedlex.data.admin.ch/eli/fga/2009/774)[4379](https://fedlex.data.admin.ch/eli/fga/2009/775)[8719](https://fedlex.data.admin.ch/eli/fga/2009/1477)).
+[^196-subdivu14-3]: Acceptà en la votaziun dal pievel dals 4 da mars 2018, en vigur dapi il 1. da schan. 2021 (COF dals 16 da zer. 2017, COCF dals 13 da favr. 2019 – [AS 2019 769](https://fedlex.data.admin.ch/eli/oc/2019/137); [BBl 2016 6221](https://fedlex.data.admin.ch/eli/fga/2016/1193); [2017 4205](https://fedlex.data.admin.ch/eli/fga/2017/1059); [2018 2761](https://fedlex.data.admin.ch/eli/fga/2018/1088)).
+[^196-subdivu14-4]: Acceptà en la votaziun dal pievel dals 27 da sett. 2009, en vigur dapi il 1. da schan. 2011 (COF dals 13 da zer. 2008 e dals 12 da zer. 2009, COCF dals 7 da sett. 2010 – [AS 2010 3821](https://fedlex.data.admin.ch/eli/oc/2010/542); [BBl 2005 4623](https://fedlex.data.admin.ch/eli/fga/2005/721); [2008 5241](https://fedlex.data.admin.ch/eli/fga/2008/933); [2009 4371](https://fedlex.data.admin.ch/eli/fga/2009/772), [4377](https://fedlex.data.admin.ch/eli/fga/2009/774), [4379](https://fedlex.data.admin.ch/eli/fga/2009/775), [8719](https://fedlex.data.admin.ch/eli/fga/2009/1477)).
 [^196-subdivu14-5]: [SR 641.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8079)
-[^196-subdivu14-6]: Acceptà en la votaziun dal pievel dals 9 da favr. 2014, en vigur dapi il 1. da schan. 2016 (COF dals 20 da zer. 2013, COCF dals 13 da matg 2014, COCF dals 2 da zer. 2014, COCF dals 6 da zer. 2014 – [AS 2015 645](https://fedlex.data.admin.ch/eli/oc/2015/104); [BBl 2010 6637](https://fedlex.data.admin.ch/eli/fga/2010/1168), [2012 1577](https://fedlex.data.admin.ch/eli/fga/2012/305), [2013 4725](https://fedlex.data.admin.ch/eli/fga/2013/897)[6518](https://fedlex.data.admin.ch/eli/fga/2013/1136), [2014 4113](https://fedlex.data.admin.ch/eli/fga/2014/970)[4117](https://fedlex.data.admin.ch/eli/fga/2014/972)).
-[^196-subdivu14-7]: Acceptà en la votaziun dal pievel dals 9 da favr. 2014, en vigur dapi il 1. da schan. 2016 (COF dals 20 da zer. 2013, COCF dals 13 da matg 2014, COCF dals 2 da zer. 2014, COCF dals 6 da zer. 2014 – [AS 2015 645](https://fedlex.data.admin.ch/eli/oc/2015/104); [BBl 2010 6637](https://fedlex.data.admin.ch/eli/fga/2010/1168), [2012 1577](https://fedlex.data.admin.ch/eli/fga/2012/305), [2013 4725](https://fedlex.data.admin.ch/eli/fga/2013/897)[6518](https://fedlex.data.admin.ch/eli/fga/2013/1136), [2014 4113](https://fedlex.data.admin.ch/eli/fga/2014/970)[4117](https://fedlex.data.admin.ch/eli/fga/2014/972)).
+[^196-subdivu14-6]: Acceptà en la votaziun dal pievel dals 9 da favr. 2014, en vigur dapi il 1. da schan. 2016 (COF dals 20 da zer. 2013, COCF dals 13 da matg 2014, COCF dals 2 da zer. 2014, COCF dals 6 da zer. 2014 – [AS 2015 645](https://fedlex.data.admin.ch/eli/oc/2015/104); [BBl 2010 6637](https://fedlex.data.admin.ch/eli/fga/2010/1168); [2012 1577](https://fedlex.data.admin.ch/eli/fga/2012/305); [2013 4725](https://fedlex.data.admin.ch/eli/fga/2013/897), [6518](https://fedlex.data.admin.ch/eli/fga/2013/1136); [2014 4113](https://fedlex.data.admin.ch/eli/fga/2014/970), [4117](https://fedlex.data.admin.ch/eli/fga/2014/972)).
+[^196-subdivu14-7]: Acceptà en la votaziun dal pievel dals 9 da favr. 2014, en vigur dapi il 1. da schan. 2016 (COF dals 20 da zer. 2013, COCF dals 13 da matg 2014, COCF dals 2 da zer. 2014, COCF dals 6 da zer. 2014 – [AS 2015 645](https://fedlex.data.admin.ch/eli/oc/2015/104); [BBl 2010 6637](https://fedlex.data.admin.ch/eli/fga/2010/1168); [2012 1577](https://fedlex.data.admin.ch/eli/fga/2012/305); [2013 4725](https://fedlex.data.admin.ch/eli/fga/2013/897), [6518](https://fedlex.data.admin.ch/eli/fga/2013/1136); [2014 4113](https://fedlex.data.admin.ch/eli/fga/2014/970), [4117](https://fedlex.data.admin.ch/eli/fga/2014/972)).
 
 ### 15. …
 
 [^196-subdivu15-1]
 
-[^196-subdivu15-1]: Abolì en la votaziun dal pievel dals 4 da mars 2018, cun effect dapi il 1. da schan. 2021 (COF dals 16 da zer. 2017, COCF dals 13 da favr. 2019 – [AS 2019 769](https://fedlex.data.admin.ch/eli/oc/2019/137); [BBl 2016 6221](https://fedlex.data.admin.ch/eli/fga/2016/1193), [2017 4205](https://fedlex.data.admin.ch/eli/fga/2017/1059), [2018 2761](https://fedlex.data.admin.ch/eli/fga/2018/1088)).
+[^196-subdivu15-1]: Abolì en la votaziun dal pievel dals 4 da mars 2018, cun effect dapi il 1. da schan. 2021 (COF dals 16 da zer. 2017, COCF dals 13 da favr. 2019 – [AS 2019 769](https://fedlex.data.admin.ch/eli/oc/2019/137); [BBl 2016 6221](https://fedlex.data.admin.ch/eli/fga/2016/1193); [2017 4205](https://fedlex.data.admin.ch/eli/fga/2017/1059); [2018 2761](https://fedlex.data.admin.ch/eli/fga/2018/1088)).
 
 ### 16. …
 
 [^196-subdivu16-1]
 
-[^196-subdivu16-1]: Abolì en la votaziun dal pievel dals 28 da nov. 2004, cun effect dapi il 1. da schan. 2008 (COF dals 3 d’oct. 2003, COCF dals 26 da schan. 2005, COCF dals 7 da nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^196-subdivu16-1]: Abolì en la votaziun dal pievel dals 28 da nov. 2004, cun effect dapi il 1. da schan. 2008 (COF dals 3 d’oct. 2003, COCF dals 26 da schan. 2005, COCF dals 7 da nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316); [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089); [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
 
 #### Art. 197
 
@@ -2901,7 +2926,7 @@ La taglia federala directa po vegnir incassada fin la fin da l’onn 2035.
 
 ### Adesiun da la Svizra a l’ONU
 
-[^197-1]: Acceptà en la votaziun dal pievel dals 3 da mars 2002, en vigur dapi ils 3 da mars 2002 (COF dals 5 d’oct. 2001, COCF dals 26 d’avr. 2002 – [AS 2002 885](https://fedlex.data.admin.ch/eli/oc/2002/156); [BBl 2000 2453](https://fedlex.data.admin.ch/eli/fga/2000/488), [2001 1183](https://fedlex.data.admin.ch/eli/fga/2001/230)[5731](https://fedlex.data.admin.ch/eli/fga/2001/891), [2002 3690](https://fedlex.data.admin.ch/eli/fga/2002/523)).
+[^197-1]: Acceptà en la votaziun dal pievel dals 3 da mars 2002, en vigur dapi ils 3 da mars 2002 (COF dals 5 d’oct. 2001, COCF dals 26 d’avr. 2002 – [AS 2002 885](https://fedlex.data.admin.ch/eli/oc/2002/156); [BBl 2000 2453](https://fedlex.data.admin.ch/eli/fga/2000/488); [2001 1183](https://fedlex.data.admin.ch/eli/fga/2001/230), [5731](https://fedlex.data.admin.ch/eli/fga/2001/891); [2002 3690](https://fedlex.data.admin.ch/eli/fga/2002/523)).
 
 <sup>1</sup> La Svizra aderescha a l’Organisaziun da las Naziuns Unidas.
 
@@ -2913,7 +2938,7 @@ La taglia federala directa po vegnir incassada fin la fin da l’onn 2035.
 
 [^197-subdivu2-1]
 
-[^197-subdivu2-1]: Acceptà en la votaziun dal pievel dals 28 da nov. 2004, en vigur dapi il 1. da schan. 2008 (COF dals 3 d’oct. 2003, COCF dals 26 da schan. 2005, COCF dals 7 da nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^197-subdivu2-1]: Acceptà en la votaziun dal pievel dals 28 da nov. 2004, en vigur dapi il 1. da schan. 2008 (COF dals 3 d’oct. 2003, COCF dals 26 da schan. 2005, COCF dals 7 da nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316); [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089); [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
 
 A partir da l’entrada en vigur dal conclus federal dals 3 d’october 2003[^197-subdivu2-2] davart la refurma da la gulivaziun da finanzas e da la repartiziun da las incumbensas tranter la Confederaziun ed ils chantuns surpiglian ils chantuns las prestaziuns da fin uss da l’assicuranza d’invalids vi da la scolaziun speziala (inclusiv l’educaziun prescolara pedagogic-curativa tenor l’artitgel 19 da la Lescha federala dals 19 da zercladur 1959[^197-subdivu2-3] davart l’assicuranza d’invalids), fin ch’els disponan da concepts da scolaziun speziala ch’èn approvads dal chantun, almain dentant durant trais onns.
 
@@ -2924,7 +2949,7 @@ A partir da l’entrada en vigur dal conclus federal dals 3 d’october 2003[^19
 
 [^197-subdivu3-1]
 
-[^197-subdivu3-1]: L’art. 83 ha ussa ina nova versiun. Acceptà en la votaziun dal pievel dals 28 da nov. 2004, en vigur dapi il 1. da schan. 2008 (COF dals 3 d’oct. 2003, COCF dals 26 da schan. 2005, COCF dals 7 da nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^197-subdivu3-1]: L’art. 83 ha ussa ina nova versiun. Acceptà en la votaziun dal pievel dals 28 da nov. 2004, en vigur dapi il 1. da schan. 2008 (COF dals 3 d’oct. 2003, COCF dals 26 da schan. 2005, COCF dals 7 da nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316); [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089); [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
 
 Ils chantuns construeschan las vias naziunalas ch’èn enumeradas en il conclus federal dals 21 da zercladur 1960[^197-subdivu3-2] davart la rait da las vias naziunalas (stadi tar l’entrada en vigur dal conclus federal dals 3 d’october 2003[^197-subdivu3-3] davart la refurma da la gulivaziun da finanzas e da la repartiziun da las incumbensas tranter la Confederaziun ed ils chantuns) tenor las prescripziuns e sut la surveglianza suprema da la Confederaziun. La Confederaziun ed ils chantuns portan communablamain ils custs. La part dals custs dals singuls chantuns sa drizza tenor la grevezza che las vias naziunalas muntan per els, tenor lur interess per talas vias e tenor lur capacitad finanziala.
 
@@ -2935,7 +2960,7 @@ Ils chantuns construeschan las vias naziunalas ch’èn enumeradas en il conclus
 
 [^197-subdivu4-1]
 
-[^197-subdivu4-1]: Acceptà en la votaziun dal pievel dals 28 da nov. 2004, en vigur dapi il 1. da schan. 2008 (COF dals 3 d’oct. 2003, COCF dals 26 da schan. 2005, COCF dals 7 da nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^197-subdivu4-1]: Acceptà en la votaziun dal pievel dals 28 da nov. 2004, en vigur dapi il 1. da schan. 2008 (COF dals 3 d’oct. 2003, COCF dals 26 da schan. 2005, COCF dals 7 da nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316); [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089); [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
 
 A partir da l’entrada en vigur dal conclus federal dals 3 d’october 2003[^197-subdivu4-2] davart la refurma da la gulivaziun da finanzas e da la repartiziun da las incumbensas tranter la Confederaziun ed ils chantuns surpiglian ils chantuns las prestaziuns da fin uss da l’assicuranza d’invalids vi da stabiliments, chasas da dimora e lavuratoris, fin ch’els disponan da concepts approvads dal chantun en favur dals invalids, che reglan la concessiun da contribuziuns vi da la construcziun e vi da la gestiun d’instituziuns che dattan accoglientscha a persunas extrachantunalas, almain dentant durant trais onns.
 
@@ -2945,17 +2970,23 @@ A partir da l’entrada en vigur dal conclus federal dals 3 d’october 2003[^19
 
 [^197-subdivu5-1]
 
-[^197-subdivu5-1]: Acceptà en la votaziun dal pievel dals 28 da nov. 2004, en vigur dapi il 1. da schan. 2008 (COF dals 3 d’oct. 2003, COCF dals 26 da schan. 2005, COCF dals 7 da nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^197-subdivu5-1]: Acceptà en la votaziun dal pievel dals 28 da nov. 2004, en vigur dapi il 1. da schan. 2008 (COF dals 3 d’oct. 2003, COCF dals 26 da schan. 2005, COCF dals 7 da nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316); [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089); [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
 
 Las prestaziuns da fin uss tenor l’artitgel 101<sup>bis</sup> da la Lescha federala dals 20 da december 1946[^197-subdivu5-2] davart l’assicuranza per vegls e survivents per l’agid e per la tgira dals attempads e dals impedids a chasa vegnan pajadas vinavant dals chantuns fin a l’entrada en vigur d’ina regulaziun chantunala da finanziaziun per l’agid e per la tgira a chasa.
 
 [^197-subdivu5-2]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
-### 7. Disposiziun transitorica tar l’art. 120 (Tecnologia da gens en il sectur betg uman)
+### 6.
 
 [^197-subdivu6-1]
 
-[^197-subdivu6-1]: Acceptà en la votaziun dal pievel dals 27 da nov. 2005, en vigur dapi ils 27 da nov. 2005 (COF dals 17 da zer. 2005, COCF dals 19 da schan. 2006 – [AS 2006 89](https://fedlex.data.admin.ch/eli/oc/2006/23); [BBl 2003 6903](https://fedlex.data.admin.ch/eli/fga/2003/1148), [2004 4937](https://fedlex.data.admin.ch/eli/fga/2004/882), [2005 4039](https://fedlex.data.admin.ch/eli/fga/2005/591), [2006 1061](https://fedlex.data.admin.ch/eli/fga/2006/111)).
+[^197-subdivu6-1]: Questa cifra n'è betg vegnida duvrada.
+
+### 7. Disposiziun transitorica tar l’art. 120 (Tecnologia da gens en il sectur betg uman)
+
+[^197-subdivu7-1]
+
+[^197-subdivu7-1]: Acceptà en la votaziun dal pievel dals 27 da nov. 2005, en vigur dapi ils 27 da nov. 2005 (COF dals 17 da zer. 2005, COCF dals 19 da schan. 2006 – [AS 2006 89](https://fedlex.data.admin.ch/eli/oc/2006/23); [BBl 2003 6903](https://fedlex.data.admin.ch/eli/fga/2003/1148); [2004 4937](https://fedlex.data.admin.ch/eli/fga/2004/882); [2005 4039](https://fedlex.data.admin.ch/eli/fga/2005/591); [2006 1061](https://fedlex.data.admin.ch/eli/fga/2006/111)).
 
 L’agricultura svizra n’utilisescha nagins organissems modifitgads geneticamain durant tschintg onns suenter che questa disposiziun constituziunala è vegnida acceptada. En spezial na dastgan ni vegnir importads ni vegnir mess en circulaziun:
 
@@ -2964,17 +2995,17 @@ L’agricultura svizra n’utilisescha nagins organissems modifitgads geneticama
 
 ### 8. Disposiziun transitorica tar l’art. 121 (Dimora e domicil da persunas estras)
 
-[^197-subdivu7-1]
+[^197-subdivu8-1]
 
-[^197-subdivu7-1]: Acceptà en la votaziun dal pievel dals 28 da nov. 2010, en vigur dapi ils 28 da nov. 2010 (COF dals 18 da zer. 2010, COCF dals 17 da mars 2011 – [AS 2011 1199](https://fedlex.data.admin.ch/eli/oc/2011/175); [BBl 2008 1927](https://fedlex.data.admin.ch/eli/fga/2008/430), [2009 5097](https://fedlex.data.admin.ch/eli/fga/2009/876), [2010 4241](https://fedlex.data.admin.ch/eli/fga/2010/717), [2011 2771](https://fedlex.data.admin.ch/eli/fga/2011/395)).
+[^197-subdivu8-1]: Acceptà en la votaziun dal pievel dals 28 da nov. 2010, en vigur dapi ils 28 da nov. 2010 (COF dals 18 da zer. 2010, COCF dals 17 da mars 2011 – [AS 2011 1199](https://fedlex.data.admin.ch/eli/oc/2011/175); [BBl 2008 1927](https://fedlex.data.admin.ch/eli/fga/2008/430); [2009 5097](https://fedlex.data.admin.ch/eli/fga/2009/876); [2010 4241](https://fedlex.data.admin.ch/eli/fga/2010/717); [2011 2771](https://fedlex.data.admin.ch/eli/fga/2011/395)).
 
 Il legislatur sto definir ed agiuntar ils causals tenor artitgel 121 alinea 3 e decretar las prescripziuns penalas davart l’entrada illegala tenor artitgel 121 alinea 6 entaifer maximalmain 5 onns dapi l’acceptanza da l’artitgel 121 alineas 3–6 tras il pievel ed ils chantuns.
 
 ### 9. Disposiziun transitorica tar l’art. 75b (Abitaziuns secundaras)
 
-[^197-subdivu8-1]
+[^197-subdivu9-1]
 
-[^197-subdivu8-1]: Acceptà en la votaziun dal pievel dals 11 da mars 2012, en vigur dapi ils 11 da mars 2012 (COF dals 17 da zer. 2011, COCF dals 20 da zer. 2012 – [AS 2012 3627](https://fedlex.data.admin.ch/eli/oc/2012/416); [BBl 2008 1113](https://fedlex.data.admin.ch/eli/fga/2008/235)[8757](https://fedlex.data.admin.ch/eli/fga/2008/1556), [2011 4825](https://fedlex.data.admin.ch/eli/fga/2011/766), [2012 6623](https://fedlex.data.admin.ch/eli/fga/2012/969)).
+[^197-subdivu9-1]: Acceptà en la votaziun dal pievel dals 11 da mars 2012, en vigur dapi ils 11 da mars 2012 (COF dals 17 da zer. 2011, COCF dals 20 da zer. 2012 – [AS 2012 3627](https://fedlex.data.admin.ch/eli/oc/2012/416); [BBl 2008 1113](https://fedlex.data.admin.ch/eli/fga/2008/235), [8757](https://fedlex.data.admin.ch/eli/fga/2008/1556); [2011 4825](https://fedlex.data.admin.ch/eli/fga/2011/766); [2012 6623](https://fedlex.data.admin.ch/eli/fga/2012/969)).
 
 <sup>1</sup> Sche la legislaziun correspundenta n’entra betg en vigur entaifer dus onns suenter che l’artitgel 75*b* è vegnì acceptà, decretescha il Cussegl federal in’ordinaziun cun las disposiziuns executivas necessarias davart la construcziun, davart la vendita e davart l’inscripziun en il register funsil.
 
@@ -2982,17 +3013,17 @@ Il legislatur sto definir ed agiuntar ils causals tenor artitgel 121 alinea 3 e 
 
 ### 10. Disposiziun transitorica tar l’art. 95 al. 3
 
-[^197-subdivu9-1]
+[^197-subdivu10-1]
 
-[^197-subdivu9-1]: Acceptà en la votaziun dal pievel dals 3 da mars 2013, en vigur dapi ils 3 da mars 2013 (COF dals 15 da nov. 2012 e dals 30 d’avr. 2013 – [AS 2013 1303](https://fedlex.data.admin.ch/eli/oc/2013/297); [BBl 2006 8755](https://fedlex.data.admin.ch/eli/fga/2006/1115), [2008 2577](https://fedlex.data.admin.ch/eli/fga/2008/557), [2009 299](https://fedlex.data.admin.ch/eli/fga/2009/37), [2012 9219](https://fedlex.data.admin.ch/eli/fga/2012/1688), [2013 3129](https://fedlex.data.admin.ch/eli/fga/2013/646)).
+[^197-subdivu10-1]: Acceptà en la votaziun dal pievel dals 3 da mars 2013, en vigur dapi ils 3 da mars 2013 (COF dals 15 da nov. 2012 e dals 30 d’avr. 2013 – [AS 2013 1303](https://fedlex.data.admin.ch/eli/oc/2013/297); [BBl 2006 8755](https://fedlex.data.admin.ch/eli/fga/2006/1115); [2008 2577](https://fedlex.data.admin.ch/eli/fga/2008/557); [2009 299](https://fedlex.data.admin.ch/eli/fga/2009/37); [2012 9219](https://fedlex.data.admin.ch/eli/fga/2012/1688); [2013 3129](https://fedlex.data.admin.ch/eli/fga/2013/646)).
 
 Fin che las disposiziuns legalas entran en vigur, decretescha il Cussegl federal las disposiziuns executivas necessarias entaifer in onn suenter che l’alinea 3 da l’artitgel 95 è vegnì acceptà dal pievel e dals chantuns.
 
 ### 11. Disposiziun transitorica tar l’art. 121a (Regulaziun da l’immigraziun)
 
-[^197-subdivu10-1]
+[^197-subdivu11-1]
 
-[^197-subdivu10-1]: Acceptà en la votaziun dal pievel dals 9 da favr. 2014, en vigur dapi ils 9 da favr. 2014 (COF dals 27 da sett. 2013, COCF dals 13 matg 2014 – [AS 2014 1391](https://fedlex.data.admin.ch/eli/oc/2014/295); [BBl 2011 6269](https://fedlex.data.admin.ch/eli/fga/2011/924), [2012 3869](https://fedlex.data.admin.ch/eli/fga/2012/506), [2013 291](https://fedlex.data.admin.ch/eli/fga/2013/50)[7351](https://fedlex.data.admin.ch/eli/fga/2013/1414), [2014 4117](https://fedlex.data.admin.ch/eli/fga/2014/972)).
+[^197-subdivu11-1]: Acceptà en la votaziun dal pievel dals 9 da favr. 2014, en vigur dapi ils 9 da favr. 2014 (COF dals 27 da sett. 2013, COCF dals 13 matg 2014 – [AS 2014 1391](https://fedlex.data.admin.ch/eli/oc/2014/295); [BBl 2011 6269](https://fedlex.data.admin.ch/eli/fga/2011/924); [2012 3869](https://fedlex.data.admin.ch/eli/fga/2012/506); [2013 291](https://fedlex.data.admin.ch/eli/fga/2013/50), [7351](https://fedlex.data.admin.ch/eli/fga/2013/1414); [2014 4117](https://fedlex.data.admin.ch/eli/fga/2014/972)).
 
 <sup>1</sup> Contracts internaziunals che s’opponan a l’artitgel 121*a* ston vegnir tractads da nov ed adattads entaifer 3 onns suenter ch’el è vegnì acceptà tras il pievel ed ils chantuns.
 
@@ -3000,17 +3031,17 @@ Fin che las disposiziuns legalas entran en vigur, decretescha il Cussegl federal
 
 ### 12. Disposiziun transitorica tar l’art 10a (Scumond da cuvrir l’atgna fatscha)
 
-[^197-subdivu11-1]
+[^197-subdivu12-1]
 
-[^197-subdivu11-1]: Acceptà en la votaziun dal pievel dals 7 da mars 2021, en vigur dapi ils 7 da mars 2021 (COF dals 19 da zer. 2020, COCF dals 31 da matg 2021 – [AS 2021 310](https://fedlex.data.admin.ch/eli/oc/2021/310); [BBl 2017 6447](https://fedlex.data.admin.ch/eli/fga/2017/1844); [2019 2913](https://fedlex.data.admin.ch/eli/fga/2019/868); [2020 5507](https://fedlex.data.admin.ch/eli/fga/2020/1295); [2021 1185](https://fedlex.data.admin.ch/eli/fga/2021/1185)).
+[^197-subdivu12-1]: Acceptà en la votaziun dal pievel dals 7 da mars 2021, en vigur dapi ils 7 da mars 2021 (COF dals 19 da zer. 2020, COCF dals 31 da matg 2021 – [AS 2021 310](https://fedlex.data.admin.ch/eli/oc/2021/310); [BBl 2017 6447](https://fedlex.data.admin.ch/eli/fga/2017/1844); [2019 2913](https://fedlex.data.admin.ch/eli/fga/2019/868); [2020 5507](https://fedlex.data.admin.ch/eli/fga/2020/1295); [2021 1185](https://fedlex.data.admin.ch/eli/fga/2021/1185)).
 
 La legislaziun executiva tar l’artitgel 10*a* sto vegnir elavurada entaifer 2 onns suenter che quel è vegnì acceptà dal pievel e dals chantuns.
 
 ### 13. Disposiziun transitorica tar l’art. 117b (Tgira)
 
-[^197-subdivu12-1]
+[^197-subdivu13-1]
 
-[^197-subdivu12-1]: Acceptà en la votaziun dal pievel dals 28 da nov. 2021, en vigur dapi ils 28 da nov. 2021 (COF dals 18 da zer. 2021, COCF dals 11 d’avr. 2022 – [AS 2022 240](https://fedlex.data.admin.ch/eli/oc/2022/240); [BBl 2017 7724](https://fedlex.data.admin.ch/eli/fga/2017/2238), [2018 7653](https://fedlex.data.admin.ch/eli/fga/2018/2676), [2021 1488](https://fedlex.data.admin.ch/eli/fga/2021/1488), [2022 894](https://fedlex.data.admin.ch/eli/fga/2022/894)).
+[^197-subdivu13-1]: Acceptà en la votaziun dal pievel dals 28 da nov. 2021, en vigur dapi ils 28 da nov. 2021 (COF dals 18 da zer. 2021, COCF dals 11 d’avr. 2022 – [AS 2022 240](https://fedlex.data.admin.ch/eli/oc/2022/240); [BBl 2017 7724](https://fedlex.data.admin.ch/eli/fga/2017/2238); [2018 7653](https://fedlex.data.admin.ch/eli/fga/2018/2676); [2021 1488](https://fedlex.data.admin.ch/eli/fga/2021/1488); [2022 894](https://fedlex.data.admin.ch/eli/fga/2022/894)).
 
 <sup>1</sup>
 
@@ -3031,15 +3062,60 @@ En il rom da sias cumpetenzas decretescha la Confederaziun disposiziuns executiv
 
 ### 14. Disposiziun transitorica tar l’art. 118 al. 2 lit. b (Protecziun da la sanadad)
 
-[^197-subdivu13-1]
+[^197-subdivu14-1]
 
-[^197-subdivu13-1]: Acceptà en la votaziun dal pievel dals 13 da favr. 2022, en vigur dapi ils 13 da favr. 2022 (COF dal 1. d’oct. 2021, COCF dals 11 d’avr. 2022 – [AS 2022 241](https://fedlex.data.admin.ch/eli/oc/2022/241); [BBl 2019 6883](https://fedlex.data.admin.ch/eli/fga/2019/2386), [2020 7049](https://fedlex.data.admin.ch/eli/fga/2020/1895), [2021 2315](https://fedlex.data.admin.ch/eli/fga/2021/2315), [2022 895](https://fedlex.data.admin.ch/eli/fga/2022/895)).
+[^197-subdivu14-1]: Acceptà en la votaziun dal pievel dals 13 da favr. 2022, en vigur dapi ils 13 da favr. 2022 (COF dal 1. d’oct. 2021, COCF dals 11 d’avr. 2022 – [AS 2022 241](https://fedlex.data.admin.ch/eli/oc/2022/241); [BBl 2019 6883](https://fedlex.data.admin.ch/eli/fga/2019/2386); [2020 7049](https://fedlex.data.admin.ch/eli/fga/2020/1895); [2021 2315](https://fedlex.data.admin.ch/eli/fga/2021/2315); [2022 895](https://fedlex.data.admin.ch/eli/fga/2022/895)).
 
 L’Assamblea federala deliberescha las disposiziuns executivas legalas entaifer 3 onns suenter l’acceptaziun da l’artitgel 118 alinea 2 litera b tras il pievel ed ils chantuns.
 
-Data da l’entrada en vigur: 1. da schaner 2000[^197-subdivu13-2]
+### 15. Disposiziuns transitoricas tar l’art. 129a (Imposiziun speziala da las grondas gruppas d’interpresas)
 
-[^197-subdivu13-2]: COF dals 28 da sett. 1999 ([AS 1999 2555](https://fedlex.data.admin.ch/eli/oc/1999/403); [BBl 1999 7922](https://fedlex.data.admin.ch/eli/fga/1999/1_7922_7145_6784)).
+[^197-subdivu15-1]
+
+[^197-subdivu15-1]: Acceptà en la votaziun dal pievel dals 18 da zer. 2023, en vigur dapi il 1. da schan. 2024 (COF dals 16 da dec. 2022, COCF dals 12 d’avr. 2023, COCF dals 28 d’avust 2023 – [AS 2023 482](https://fedlex.data.admin.ch/eli/oc/2023/482); [BBl 2022 1700](https://fedlex.data.admin.ch/eli/fga/2022/1700); [2023 970](https://fedlex.data.admin.ch/eli/fga/2023/970), [2015](https://fedlex.data.admin.ch/eli/fga/2023/2015)).
+
+<sup>1</sup> Fin a l’entrada en vigur da las disposiziuns legalas po il Cussegl federal decretar las prescripziuns necessarias pertutgant l’imposiziun minimala da las grondas gruppas d’interpresas.
+
+<sup>2</sup>
+
+El observa ils suandants princips:
+
+- a. las prescripziuns vegnan applitgadas per las unitads da fatschenta d’ina gruppa d’interpresas multinaziunala che cuntanscha ina svieuta annuala consolidada da 750 milliuns euros;
+- b. sche las taglias decisivas da las unitads da fatschenta en Svizra u en in’autra suveranitad fiscala sutpassan tut en tut l’imposiziun minimala cun la tariffa da 15 pertschient dals gudogns decisivs, incassescha la Confederaziun ina taglia cumplementara per gulivar la differenza tranter la tariffa da taglia effectiva e la tariffa da taglia minimala;
+- c. las taglias decisivas èn particularmain las taglias directas cudeschadas en il quint economic da las unitads da fatschenta;
+- d. il gudogn decisiv d’ina unitad da fatschenta è il gudogn u la perdita ch’è vegnì eruì tenor in standard da rendaquint renconuschì per il quint annual consolidà da la gruppa d’interpresas avant l’eliminaziun da las transacziuns tranter las unitads da fatschenta e suenter la consideraziun d’autras correcturas; ils gudogns e las perditas dal traffic maritim internaziunal na vegnan betg resguardads;
+- e. la tariffa da taglia effectiva per ina suveranitad fiscala vegn calculada cun divider la summa da las taglias decisivas da tut las unitads da fatschenta situadas en questa suveranitad fiscala tras la summa dals gudogns decisivs da questas unitads da fatschenta;
+- f. la taglia cumplementara per ina suveranitad fiscala vegn calculada cun multiplitgar il surpli dal gudogn cun la tariffa da la taglia cumplementara;
+- g. il surpli dal gudogn en ina suveranitad fiscala è la summa dals gudogns decisivs da tut las unitads da fatschenta situadas en questa suveranitad fiscala, suenter la deducziun admessa per las valurs da facultad materialas e per ils custs da salari;
+- h. la tariffa da la taglia cumplementara per ina suveranitad fiscala correspunda a la differenza positiva tranter 15 pertschient e la tariffa da taglia effectiva;
+- i. en cas d’ina imposiziun pli bassa en Svizra vegn la taglia cumplementara messa a quint a las unitads da fatschenta svizras en proporziun da la dimensiun da lur cunresponsabladad per l’imposiziun pli bassa;
+- j. en cas d’ina imposiziun pli bassa en in’autra suveranitad fiscala vegn la taglia cumplementara messa a quint en emprima lingia a l’unitad da fatschenta suprema svizra ed en segunda lingia a tut las unitads da fatschenta svizras.
+
+<sup>3</sup>
+
+Il Cussegl federal po decretar prescripziuns cumplementaras per realisar l’imposiziun minimala, particularmain davart:
+
+- a. l’observanza da relaziuns spezialas da las interpresas;
+- b. la pussaivladad da deducir la taglia cumplementara sco custs tar las taglias federalas e chantunalas sin il gudogn;
+- c. la procedura ed ils meds legals;
+- d. las disposiziuns penalas a norma da l’ulteriur dretg penal fiscal;
+- e. las regulaziuns transitoricas.
+
+<sup>4</sup> Sch’il Cussegl federal considerescha che quai saja necessari per realisar l’imposiziun minimala, po el divergiar dals princips tenor l’alinea 2. El po declerar che models da prescripziuns internaziunals e reglamentaziuns respectivas sajan applitgabels. El po er surdar questas cumpetenzas al Departament federal da finanzas.
+
+<sup>5</sup> Las disposiziuns davart la taglia cumplementara vegnan exequidas dals chantuns sut la surveglianza da l’Administraziun federala da taglia. Il Cussegl federal po prevair ina indemnisaziun per ils custs administrativs che resultan tras l’execuziun da questas disposiziuns.
+
+<sup>6</sup> Il retgav brut da la taglia cumplementara va per 75 pertschient a favur dals chantuns, en ils quals las unitads da fatschenta èn obligadas da pajar taglia. Ils chantuns tegnan quint commensuradamain da las vischnancas. Il retgav brut da la taglia cumplementara sin las activitads betg suttamessas a la taglia sin il gudogn da las unitads da fatschenta da la Confederaziun, dals chantuns e da las vischnancas, va a favur da la communitad respectiva.
+
+<sup>7</sup> La cumpart chantunala dal retgav brut da la taglia cumplementara vegn considerada sco entrada fiscala supplementara en il rom da la gulivaziun da finanzas e da grevezzas.
+
+<sup>8</sup> Sch’il Cussegl federal fa valair sia cumpetenza tenor l’alinea 1, suttametta el al parlament las disposiziuns legalas davart l’imposiziun minimala da las grondas gruppas d’interpresas entaifer 6 onns suenter l’entrada en vigur da l’ordinaziun.
+
+<sup>9</sup> Suenter la deducziun dals custs supplementars per la gulivaziun da finanzas e da grevezzas dovra la Confederaziun sia cumpart dal retgav brut da la taglia cumplementara per rinforzar la promoziun da l’attractivitad economica da la Svizra.
+
+Data da l’entrada en vigur: 1. da schaner 2000[^197-subdivu15-2]
+
+[^197-subdivu15-2]: COF dals 28 da sett. 1999 ([AS 1999 2555](https://fedlex.data.admin.ch/eli/oc/1999/403); [BBl 1999 7922](https://fedlex.data.admin.ch/eli/fga/1999/1_7922_7145_6784)).
 
 ## Disposiziuns finalas dal Conclus federal dals 18 da december 1998 davart ina nova Constituziun federala
 
@@ -3083,7 +3159,7 @@ IV
 - 2\. sch’el preferescha la cuntraproposta al dretg en vigur;
 - 3\. tgenin dals dus projects che duai entrar en vigur, sche pievel e chantuns duessan dar la preferenza a domadus projects avant il dretg en vigur.
 
-[^u1-1]: [BS **1** 3; [AS 1949 1511](https://fedlex.data.admin.ch/eli/oc/1949/1511_1614_1544); [1951 60](https://fedlex.data.admin.ch/eli/oc/1951/60_60_60); [1957 1027](https://fedlex.data.admin.ch/eli/oc/1957/1027_1041_1065); [1958 362](https://fedlex.data.admin.ch/eli/oc/1958/362_371_375), [768](https://fedlex.data.admin.ch/eli/oc/1958/768_798_804), [770](https://fedlex.data.admin.ch/eli/oc/1958/770_800_806); [1959 224](https://fedlex.data.admin.ch/eli/oc/1959/224_234_234), [912](https://fedlex.data.admin.ch/eli/oc/1959/912_942_933); [1961 476](https://fedlex.data.admin.ch/eli/oc/1961/476_486_498); [1962 749](https://fedlex.data.admin.ch/eli/oc/1962/749_783_803), [1637](https://fedlex.data.admin.ch/eli/oc/1962/1637_1695_1717), [1804](https://fedlex.data.admin.ch/eli/oc/1962/1804_1858_1888); [1964 97](https://fedlex.data.admin.ch/eli/oc/1964/97_93_93); [1966 1672](https://fedlex.data.admin.ch/eli/oc/1966/1672_1730_1714); [1969 1249](https://fedlex.data.admin.ch/eli/oc/1969/1249_1265_1267); [1970 1649](https://fedlex.data.admin.ch/eli/oc/1970/1649_1653_1653); [1971 325](https://fedlex.data.admin.ch/eli/oc/1971/325_329_329), [905](https://fedlex.data.admin.ch/eli/oc/1971/905_905_905), [907](https://fedlex.data.admin.ch/eli/oc/1971/907_907_907); [1972 1481](https://fedlex.data.admin.ch/eli/oc/1972/1481_1509_1681), [1484](https://fedlex.data.admin.ch/eli/oc/1972/1484_1512_1684); [1973 429](https://fedlex.data.admin.ch/eli/oc/1973/429_429_429), [1051](https://fedlex.data.admin.ch/eli/oc/1973/1051_1051_1049), [1455](https://fedlex.data.admin.ch/eli/oc/1973/1455_1455_1455); [1974 721](https://fedlex.data.admin.ch/eli/oc/1974/721_721_721); [1975 1205](https://fedlex.data.admin.ch/eli/oc/1975/1205_1205_1205); [1976 713](https://fedlex.data.admin.ch/eli/oc/1976/713_713_713), [715](https://fedlex.data.admin.ch/eli/oc/1976/715_715_715), [2003](https://fedlex.data.admin.ch/eli/oc/1976/2003_2003_2003); [1977 807](https://fedlex.data.admin.ch/eli/oc/1977/807_807_807), [1849](https://fedlex.data.admin.ch/eli/oc/1977/1849_1849_1849), [2228](https://fedlex.data.admin.ch/eli/oc/1977/2228_2228_2228), [2230](https://fedlex.data.admin.ch/eli/oc/1977/2230_2230_2230); [1978 212](https://fedlex.data.admin.ch/eli/oc/1978/212_212_212), [484](https://fedlex.data.admin.ch/eli/oc/1978/484_484_484), [1578](https://fedlex.data.admin.ch/eli/oc/1978/1578_1578_1578); [1979 678](https://fedlex.data.admin.ch/eli/oc/1979/678_678_678); [1980 380](https://fedlex.data.admin.ch/eli/oc/1980/380_380_380); [1981 1243](https://fedlex.data.admin.ch/eli/oc/1981/1243_1243_1243), [1244](https://fedlex.data.admin.ch/eli/oc/1981/1244_1244_1244); [1982 138](https://fedlex.data.admin.ch/eli/oc/1982/138_138_138); [1983 240](https://fedlex.data.admin.ch/eli/oc/1983/240_240_240), [444](https://fedlex.data.admin.ch/eli/oc/1983/444_444_444); [1984 290](https://fedlex.data.admin.ch/eli/oc/1984/290_290_290); [1985 150](https://fedlex.data.admin.ch/eli/oc/1985/150_150_150), [151](https://fedlex.data.admin.ch/eli/oc/1985/151_151_151), [658](https://fedlex.data.admin.ch/eli/oc/1985/658_658_658), [659](https://fedlex.data.admin.ch/eli/oc/1985/659_659_659), [1025](https://fedlex.data.admin.ch/eli/oc/1985/1025_1025_1025), [1026](https://fedlex.data.admin.ch/eli/oc/1985/1026_1026_1026), [1648](https://fedlex.data.admin.ch/eli/oc/1985/1648_1648_1648); [1987 282](https://fedlex.data.admin.ch/eli/oc/1987/282_282_282), [1125](https://fedlex.data.admin.ch/eli/oc/1987/1125_1125_1125); [1988 352](https://fedlex.data.admin.ch/eli/oc/1988/352_352_352); [1991 246](https://fedlex.data.admin.ch/eli/oc/1991/246_246_246), [247](https://fedlex.data.admin.ch/eli/oc/1991/247_247_247), [1122](https://fedlex.data.admin.ch/eli/oc/1991/1122_1122_1122); [1992 1578](https://fedlex.data.admin.ch/eli/oc/1992/1578_1578_1578), [1579](https://fedlex.data.admin.ch/eli/oc/1992/1579_1579_1579); [1993 3040](https://fedlex.data.admin.ch/eli/oc/1993/3040_3040_3040), [3041](https://fedlex.data.admin.ch/eli/oc/1993/3041_3041_3041); [1994 258](https://fedlex.data.admin.ch/eli/oc/1994/258_258_258), [263](https://fedlex.data.admin.ch/eli/oc/1994/263_263_263), [265](https://fedlex.data.admin.ch/eli/oc/1994/265_265_265), [267](https://fedlex.data.admin.ch/eli/oc/1994/267_267_267), [1096](https://fedlex.data.admin.ch/eli/oc/1994/1096_1096_1096), [1097](https://fedlex.data.admin.ch/eli/oc/1994/1097_1097_1097), [1099](https://fedlex.data.admin.ch/eli/oc/1994/1099_1099_1099), [1101](https://fedlex.data.admin.ch/eli/oc/1994/1101_1101_1101); [1995 1455](https://fedlex.data.admin.ch/eli/oc/1995/1455_1455_1455); [1996 1490](https://fedlex.data.admin.ch/eli/oc/1996/1490_1490_1490), [1491](https://fedlex.data.admin.ch/eli/oc/1996/1491_1491_1491), [1492](https://fedlex.data.admin.ch/eli/oc/1996/1492_1492_1492), [2502](https://fedlex.data.admin.ch/eli/oc/1996/2502_2502_2502); [1998 918](https://fedlex.data.admin.ch/eli/oc/1998/918_918_918), [2031](https://fedlex.data.admin.ch/eli/oc/1998/2031_2031_2031); [1999 741](https://fedlex.data.admin.ch/eli/oc/1999/110), [743](https://fedlex.data.admin.ch/eli/oc/1999/111), [1239](https://fedlex.data.admin.ch/eli/oc/1999/168), [1341](https://fedlex.data.admin.ch/eli/oc/1999/186)]
+[^u1-1]: [BS **1** 3; [AS 1949 1511](https://fedlex.data.admin.ch/eli/oc/1949/1511_1614_1544); [1951 60](https://fedlex.data.admin.ch/eli/oc/1951/60_60_60); [1957 1027](https://fedlex.data.admin.ch/eli/oc/1957/1027_1041_1065); [1958 362](https://fedlex.data.admin.ch/eli/oc/1958/362_371_375), [768](https://fedlex.data.admin.ch/eli/oc/1958/768_798_804), [770](https://fedlex.data.admin.ch/eli/oc/1958/770_800_806); [1959 224](https://fedlex.data.admin.ch/eli/oc/1959/224_234_234), [912](https://fedlex.data.admin.ch/eli/oc/1959/912_942_933); [1961 476](https://fedlex.data.admin.ch/eli/oc/1961/476_486_498); [1962 749](https://fedlex.data.admin.ch/eli/oc/1962/749_783_803), [1637](https://fedlex.data.admin.ch/eli/oc/1962/1637_1695_1717), [1804](https://fedlex.data.admin.ch/eli/oc/1962/1804_1858_1888); [1964 97](https://fedlex.data.admin.ch/eli/oc/1964/97_93_93); [1966 1672](https://fedlex.data.admin.ch/eli/oc/1966/1672_1730_1714); [1969 1249](https://fedlex.data.admin.ch/eli/oc/1969/1249_1265_1267); [1970 1649](https://fedlex.data.admin.ch/eli/oc/1970/1649_1653_1653); [1971 325](https://fedlex.data.admin.ch/eli/oc/1971/325_329_329), [905](https://fedlex.data.admin.ch/eli/oc/1971/905_905_905), [907](https://fedlex.data.admin.ch/eli/oc/1971/907_907_907); [1972 1481](https://fedlex.data.admin.ch/eli/oc/1972/1481_1509_1681), [1484](https://fedlex.data.admin.ch/eli/oc/1972/1484_1512_1684); [1973 429](https://fedlex.data.admin.ch/eli/oc/1973/429_429_429), [1051](https://fedlex.data.admin.ch/eli/oc/1973/1051_1051_1049), [1455](https://fedlex.data.admin.ch/eli/oc/1973/1455_1455_1455); [1974 721](https://fedlex.data.admin.ch/eli/oc/1974/721_721_721); [1975 1205](https://fedlex.data.admin.ch/eli/oc/1975/1205_1205_1205); [1976 713](https://fedlex.data.admin.ch/eli/oc/1976/713_713_713), [715](https://fedlex.data.admin.ch/eli/oc/1976/715_715_715); [2003](https://fedlex.data.admin.ch/eli/oc/1976/2003_2003_2003); [1977 807](https://fedlex.data.admin.ch/eli/oc/1977/807_807_807), [1849](https://fedlex.data.admin.ch/eli/oc/1977/1849_1849_1849), [2228](https://fedlex.data.admin.ch/eli/oc/1977/2228_2228_2228), [2230](https://fedlex.data.admin.ch/eli/oc/1977/2230_2230_2230); [1978 212](https://fedlex.data.admin.ch/eli/oc/1978/212_212_212), [484](https://fedlex.data.admin.ch/eli/oc/1978/484_484_484), [1578](https://fedlex.data.admin.ch/eli/oc/1978/1578_1578_1578); [1979 678](https://fedlex.data.admin.ch/eli/oc/1979/678_678_678); [1980 380](https://fedlex.data.admin.ch/eli/oc/1980/380_380_380); [1981 1243](https://fedlex.data.admin.ch/eli/oc/1981/1243_1243_1243), [1244](https://fedlex.data.admin.ch/eli/oc/1981/1244_1244_1244); [1982 138](https://fedlex.data.admin.ch/eli/oc/1982/138_138_138); [1983 240](https://fedlex.data.admin.ch/eli/oc/1983/240_240_240), [444](https://fedlex.data.admin.ch/eli/oc/1983/444_444_444); [1984 290](https://fedlex.data.admin.ch/eli/oc/1984/290_290_290); [1985 150](https://fedlex.data.admin.ch/eli/oc/1985/150_150_150), [151](https://fedlex.data.admin.ch/eli/oc/1985/151_151_151), [658](https://fedlex.data.admin.ch/eli/oc/1985/658_658_658), [659](https://fedlex.data.admin.ch/eli/oc/1985/659_659_659), [1025](https://fedlex.data.admin.ch/eli/oc/1985/1025_1025_1025), [1026](https://fedlex.data.admin.ch/eli/oc/1985/1026_1026_1026), [1648](https://fedlex.data.admin.ch/eli/oc/1985/1648_1648_1648); [1987 282](https://fedlex.data.admin.ch/eli/oc/1987/282_282_282), [1125](https://fedlex.data.admin.ch/eli/oc/1987/1125_1125_1125); [1988 352](https://fedlex.data.admin.ch/eli/oc/1988/352_352_352); [1991 246](https://fedlex.data.admin.ch/eli/oc/1991/246_246_246), [247](https://fedlex.data.admin.ch/eli/oc/1991/247_247_247), [1122](https://fedlex.data.admin.ch/eli/oc/1991/1122_1122_1122); [1992 1578](https://fedlex.data.admin.ch/eli/oc/1992/1578_1578_1578), [1579](https://fedlex.data.admin.ch/eli/oc/1992/1579_1579_1579); [1993 3040](https://fedlex.data.admin.ch/eli/oc/1993/3040_3040_3040), [3041](https://fedlex.data.admin.ch/eli/oc/1993/3041_3041_3041); [1994 258](https://fedlex.data.admin.ch/eli/oc/1994/258_258_258), [263](https://fedlex.data.admin.ch/eli/oc/1994/263_263_263), [265](https://fedlex.data.admin.ch/eli/oc/1994/265_265_265), [267](https://fedlex.data.admin.ch/eli/oc/1994/267_267_267), [1096](https://fedlex.data.admin.ch/eli/oc/1994/1096_1096_1096), [1097](https://fedlex.data.admin.ch/eli/oc/1994/1097_1097_1097), [1099](https://fedlex.data.admin.ch/eli/oc/1994/1099_1099_1099), [1101](https://fedlex.data.admin.ch/eli/oc/1994/1101_1101_1101); [1995 1455](https://fedlex.data.admin.ch/eli/oc/1995/1455_1455_1455); [1996 1490](https://fedlex.data.admin.ch/eli/oc/1996/1490_1490_1490), [1491](https://fedlex.data.admin.ch/eli/oc/1996/1491_1491_1491), [1492](https://fedlex.data.admin.ch/eli/oc/1996/1492_1492_1492), [2502](https://fedlex.data.admin.ch/eli/oc/1996/2502_2502_2502); [1998 918](https://fedlex.data.admin.ch/eli/oc/1998/918_918_918); [2031](https://fedlex.data.admin.ch/eli/oc/1998/2031_2031_2031); [1999 741](https://fedlex.data.admin.ch/eli/oc/1999/110), [743](https://fedlex.data.admin.ch/eli/oc/1999/111), [1239](https://fedlex.data.admin.ch/eli/oc/1999/168), [1341](https://fedlex.data.admin.ch/eli/oc/1999/186)]
 [^u1-2]: Art. 105
 [^u1-3]: Art. 86 al. 2
 [^u1-4]: Guardar ussa: art. 139*b*.
