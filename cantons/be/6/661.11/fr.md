@@ -4,13 +4,13 @@ number: "661.11"
 title: Loi sur les impôts
 short: LI
 language: fr
-version: 2021-03-01
-valid_until: 2023-12-31
-version_adopted: 2020-03-10
+version: 2024-01-01
+valid_until: 2024-02-29
+version_adopted: 2023-09-13
 adopted: 2000-05-21
 in_force: 2001-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/661.11"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2139/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2866/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2139/pdf_file"
 
 (LI)
 
-du 21.05.2000 (état au 01.03.2021)
+du 21.05.2000 (état au 01.01.2024)
 
 Le Grand Conseil du canton de Berne,
 
@@ -463,6 +463,8 @@ arrête:
 
 <sup>3</sup> Le remboursement d’apports, d’agios et de versements supplémentaires (réserves issues d’apports de capital) effectués par les détenteurs ou détentrices des droits de participation après le 31 décembre 1996 est traité de la même manière que le remboursement du capital-actions ou du capital social. L’alinéa 4 est réservé.
 
+<sup>3a</sup> L’alinéa 3 ne s’applique aux apports et aux agios qui sont versés pendant la durée d’une marge de fluctuation du capital au sens des articles 653s et suivants du Code des obligations (CO)[^24-2] que dans la mesure où ils dépassent les remboursements de réserves dans le cadre de ladite marge de fluctuation du capital.
+
 <sup>4</sup> Si, lors du remboursement de réserves issues d’apports de capital conformément à l’alinéa 3, une société de capitaux ou une société coopérative cotée dans une bourse suisse ne distribue pas d’autres réserves d'un montant au moins équivalent, la moitié de la différence entre le remboursement et la distribution des autres réserves est imposable, dans la limite du montant des autres réserves disponibles dans la société pouvant être distribuées en vertu du droit commercial.
 
 <sup>5</sup> L'alinéa 4 ne s'applique pas aux réserves issues d’apports de capital
@@ -476,6 +478,7 @@ arrête:
 <sup>7</sup> Si, lors de la restitution de droits de participation à une société de capitaux ou une société coopérative cotée dans une bourse suisse, le remboursement des réserves issues d’apports de capital ne correspond pas au moins à la moitié de l’excédent de liquidation obtenu, la part imposable de cet excédent de liquidation est réduite d’un montant correspondant à la moitié de la différence entre cette part et le remboursement, mais au plus du montant des réserves issues d'apports de capital qui sont imputables à ces droits de participation et qui sont disponibles dans la société.
 
 [^24-1]: RS [642.21](https://db.clex.ch/link/Bund/642.21/fr)
+[^24-2]: RS [220](https://db.clex.ch/link/Bund/220/fr)
 
 #### Art. 24a
 
@@ -501,13 +504,15 @@ arrête:
 
 <sup>2</sup> La location d’un immeuble à un proche à un loyer inférieur à la valeur locative de l’immeuble est assimilée à un usage personnel du bien au sens de l’alinéa 1, lettre b.
 
-<sup>3</sup> La valeur locative des exploitations agricoles qui ne sont pas considérées comme des entreprises agricoles au sens de la loi fédérale sur le droit foncier rural (LDFR)[^25-1] est réduite de manière appropriée pour autant que leur exploitation nécessite au moins une demi-unité de main d’oeuvre standard.
+<sup>2a</sup> L'électricité consommée par celui qui la produit n'est pas considérée comme étant réservée à l'usage personnel au sens de l'alinéa 1, lettre b.
+
+<sup>3</sup> La valeur locative des exploitations agricoles qui ne sont pas considérées comme des entreprises agricoles au sens de la loi fédérale du 4 octobre 1991 sur le droit foncier rural (LDFR)[^25-1] est réduite de manière appropriée pour autant que leur exploitation nécessite au moins une demi-unité de main d’œuvre standard.
 
 <sup>4</sup> Les valeurs locatives des immeubles affectés à l’usage personnel sont fixées de manière modérée sur la base de la valeur marchande locale, compte tenu de l’encouragement de l’accès à la propriété et de la prévoyance individuelle. La valeur locative des immeubles qui ne servent pas de résidence principale est la valeur locative retenue en matière d’impôt fédéral direct.[^25-2]
 
 <sup>5</sup> Lorsque les revenus selon le premier alinéa, lettres c et d reposent sur des transactions juridiques assimilées à une aliénation partielle, ils ne sont imposables que pour autant qu’ils excèdent la part du prix d’acquisition.[^25-3]
 
-[^25-1]: RS 211.412.11
+[^25-1]: RS [211.412.11](https://db.clex.ch/link/Bund/211.412.11/fr)
 [^25-2]: Anciens alinéas 3 et 4
 [^25-3]: Anciens alinéas 3 et 4
 
@@ -555,20 +560,22 @@ arrête:
 - d les subsides provenant de fonds publics ou privés;
 - e les prestations versées en exécution d'une obligation fondée sur le droit de la famille, à l'exception des pensions alimentaires et des contributions d'entretien mentionnées à l'article 28, alinéa 1, lettre f;
 - f la solde du service militaire et du service de protection civile;
-- g la solde des sapeurs-pompiers de milice, jusqu’à concurrence d’un montant annuel de 5000 francs, pour les activités liées à l’accomplissement de leurs tâches essentielles (exercices, services de piquet, cours, inspections et interventions, notamment pour le sauvetage, la lutte contre le feu, la lutte contre les sinistres en général et la lutte contre les sinistres causés par les éléments naturels), sachant que les indemnités supplémentaires forfaitaires pour les cadres, les indemnités supplémentaires de fonction, les indemnités pour les travaux administratifs et les indemnités pour les prestations fournies volontairement ne sont pas exonérées;
+- g la solde des sapeurs-pompiers de milice, jusqu’à concurrence d’un montant annuel de 5200 francs, pour les activités liées à l’accomplissement de leurs tâches essentielles (exercices, services de piquet, cours, inspections et interventions, notamment pour le sauvetage, la lutte contre le feu, la lutte contre les sinistres en général et la lutte contre les sinistres causés par les éléments naturels), sachant que les indemnités supplémentaires forfaitaires pour les cadres, les indemnités supplémentaires de fonction, les indemnités pour les travaux administratifs et les indemnités pour les prestations fournies volontairement ne sont pas exonérées;
 - h les versements à titre de réparation du tort moral;[^29-1]
 - i les revenus perçus en vertu de la législation fédérale sur les prestations complémentaires à l'assurance-vieillesse, survivants et invalidité;[^29-2]
-- k les gains en capital réalisés lors de l'aliénation d'éléments de la fortune mobilière privée;[^29-3]
+- i1 les revenus perçus en vertu de la loi fédérale du 19 juin 2020 sur les prestations transitoires pour les chômeurs âgés (LPtra)[^29-3]
+- k les gains en capital réalisés lors de l'aliénation d'éléments de la fortune mobilière privée;[^29-4]
 - l les indemnités pour le travail consacré à la famille, dans la mesure où elles pourraient être déduites par leur débiteur ou leur débitrice mais sans que celui-ci ou celle-ci ait pu ou puisse effectivement les déduire;
-- m les gains provenant des jeux de casino exploités dans les maisons de jeu et autorisés par la loi fédérale du 29 septembre 2017 sur les jeux d'argent (LJAr)[^29-4], pour autant que ces gains ne soient pas issus d'une activité lucrative indépendante;
-- n les gains unitaires jusqu'à concurrence d'un montant d'un million de francs provenant de la participation à un jeu de grande envergure autorisé par la LJAr ou de la participation en ligne à des jeux de casino autorisés par la LJAr;
+- m les gains provenant des jeux de casino exploités dans les maisons de jeu et autorisés par la loi fédérale du 29 septembre 2017 sur les jeux d'argent (LJAr)[^29-5], pour autant que ces gains ne soient pas issus d'une activité lucrative indépendante;
+- n les gains unitaires jusqu'à concurrence d'un montant de 1'037'000 francs provenant de la participation à un jeu de grande envergure autorisé par la LJAr ou de la participation en ligne à des jeux de casino autorisés par la LJAr;
 - o les gains provenant d'un jeu de petite envergure autorisé par la LJAr;
 - p les gains unitaires jusqu'à concurrence de 1000 francs provenant d'un jeu d'adresse ou d'une loterie destinés à promouvoir les ventes qui ne sont pas soumis à la LJAr selon l'article 1, alinéa 2, lettres d et e de cette loi.
 
 [^29-1]: Anciennes lettres g à i
 [^29-2]: Anciennes lettres g à i
-[^29-3]: Anciennes lettres g à i
-[^29-4]: RS [935.51](https://db.clex.ch/link/Bund/935.51/fr)
+[^29-3]: RS [837.2](https://db.clex.ch/link/Bund/837.2/fr)
+[^29-4]: Anciennes lettres g à i
+[^29-5]: RS [935.51](https://db.clex.ch/link/Bund/935.51/fr)
 
 ### 2.2.2 Détermination du revenu net
 
@@ -578,9 +585,9 @@ arrête:
 
 <sup>1</sup> Le revenu net se calcule en défalquant du total des revenus imposables les déductions générales et les frais.
 
-<sup>2</sup> Sont déduits des gains unitaires provenant des jeux d'argent non exonérés de l'impôt selon l'article 29, alinéa 1, lettres m à p, cinq pour cent à titre de mise, mais au plus 5000 francs.
+<sup>2</sup> Sont déduits des gains unitaires provenant des jeux d'argent non exonérés de l'impôt selon l'article 29, alinéa 1, lettres m à p, cinq pour cent à titre de mise, mais au plus 5200 francs.
 
-<sup>3</sup> Sont déduits des gains unitaires provenant de la participation en ligne à des jeux de casino visés à l'article 29, alinéa 1, lettre n, les mises prélevées du compte en ligne du joueur ou de la joueuse au cours de l'année fiscale, mais au plus 25'000 francs.
+<sup>3</sup> Sont déduits des gains unitaires provenant de la participation en ligne à des jeux de casino visés à l'article 29, alinéa 1, lettre n, les mises prélevées du compte en ligne du joueur ou de la joueuse au cours de l'année fiscale, mais au plus 25'900 francs.
 
 #### Art. 31
 
@@ -588,7 +595,7 @@ arrête:
 
 <sup>1</sup> Les frais professionnels déductibles sont:
 
-- a les frais de déplacement nécessaires entre le domicile et le lieu de travail, dans la limite de 6700 francs;
+- a les frais de déplacement nécessaires entre le domicile et le lieu de travail, dans la limite de 7000 francs;
 - b les frais supplémentaires résultant des repas pris hors du domicile et du travail par équipes;
 - c les autres frais indispensables à l’exercice de la profession, sous réserve de l’article 38, alinéa 1, lettre n;
 - d …
@@ -611,9 +618,20 @@ arrête:
 - c les contributions uniques et les contributions périodiques versées en vertu de la loi fédérale du 25 juin 1982 sur la prévoyance professionnelle vieillesse, survivants et invalidité (LPP)[^32-1] à des institutions de prévoyance en faveur du personnel, à condition que toute utilisation contraire à leur but soit exclue;
 - d les intérêts des dettes commerciales, ainsi que les intérêts versés sur les participations visées à l'article 21, 2<sup>e</sup> alinéa;
 - e les frais qu’une entreprise engage pour la formation et la formation continue professionnelles de son personnel, frais de reconversion compris;
-- f les cotisations versées à des associations professionnelles.
+- f les cotisations versées à des associations professionnelles;
+- g les sanctions visant à réduire le bénéfice dans la mesure où elles n'ont pas de caractère pénal.
 
-<sup>3</sup> Les commissions occultes, au sens du droit pénal suisse, versées à des agents ou agentes publics suisses ou étrangers ne sont pas déductibles.
+<sup>3</sup> Ne sont en particulier pas déductibles:
+
+- a les commissions occultes au sens du droit pénal suisse;
+- b les dépenses qui permettent la commission d’infractions ou qui constituent la contrepartie à la commission d’infractions;
+- c les amendes et les peines pécuniaires;
+- d les sanctions financières administratives dans la mesure où elles ont un caractère pénal.
+
+<sup>3a</sup> Les sanctions au sens de l’alinéa 3, lettres c et d ayant été prononcées par une autorité pénale ou administrative étrangère sont déductibles dans l'une ou l'autre des conditions suivantes:
+
+- a la sanction est contraire à l’ordre public suisse;
+- b la personne contribuable peut démontrer de manière plausible qu’elle a entrepris tout ce qui était raisonnablement exigible pour se conformer au droit.
 
 <sup>4</sup> L’article 90, alinéas 3 à 6 s’applique par analogie à la déduction des charges de recherche et de développement en cas d’activité lucrative indépendante.
 
@@ -623,11 +641,9 @@ arrête:
 
 **Amortissements**
 
-<sup>1</sup> Les amortissements des actifs justifiés par l'usage commercial sont autorisés, à condition qu'ils soient comptabilisés ou, en cas de comptabilité simplifiée selon l'article 957, alinéa 2 du Code des obligations (CO)[^33-1], qu'ils apparaissent dans un plan spécial d'amortissements. Lors de la taxation par appréciation, il est tenu compte des moins-values déterminées par l'expérience.
+<sup>1</sup> Les amortissements des actifs justifiés par l'usage commercial sont autorisés, à condition qu'ils soient comptabilisés ou, en cas de comptabilité simplifiée selon l'article 957, alinéa 2 CO, qu'ils apparaissent dans un plan spécial d'amortissements. Lors d'une taxation d'office, il est tenu compte des moins-values déterminées par l'expérience.
 
 <sup>2</sup> Les amortissements justifiés par l'usage commercial sont calculés en fonction de chaque élément de fortune.
-
-[^33-1]: RS [220](https://db.clex.ch/link/Bund/220/fr)
 
 #### Art. 34
 
@@ -664,13 +680,15 @@ arrête:
 
 #### Art. 36
 
-**Frais d'entretien et d'administration des immeubles**
+**Frais immobiliers**
 
 <sup>1</sup> La personne contribuable qui possède des immeubles dans sa fortune privée peut déduire les frais nécessaires à leur entretien, les primes d'assurances relatives à ces immeubles, les taxes immobilières communales et les frais d'administration par des tiers.
 
 <sup>1a</sup> Les frais d'investissement destinés à économiser l’énergie et à ménager l’environnement sont également déductibles. Les frais de démolition en vue d'une construction de remplacement sont assimilés aux frais d'entretien.
 
 <sup>1b</sup> Les frais d'investissement au sens de l'alinéa 1a sont déductibles pendant les deux périodes fiscales suivantes, pour autant qu'ils ne puissent pas être entièrement pris en compte fiscalement lors de la période fiscale en cours, durant laquelle les charges ont été encourues.
+
+<sup>1c</sup> Les frais d'investissement au sens de l'alinéa 1a comprennent aussi les coûts d'installation d'un système photovoltaïque ou solaire thermique durant la construction.
 
 <sup>2</sup> Au lieu du montant effectif des frais et primes se rapportant aux immeubles de sa fortune privée, la personne contribuable peut faire valoir une déduction forfaitaire.
 
@@ -697,23 +715,23 @@ arrête:
 - e les primes, cotisations et montants versés en vue de l'acquisition de droits contractuels dans les formes reconnues de la prévoyance individuelle liée, jusqu'à concurrence des déductions autorisées par le droit fédéral;
 - f les primes et cotisations versées en vertu de la réglementation sur les allocations pour perte de gain, des dispositions sur l'assurance-chômage et l'assurance-accidents obligatoire;
 - g pour les cotisations versées aux caisses maladie, à l’assurance-accidents et à l’assurance-invalidité, pour la prévoyance individuelle vieillesse et survivants, pour une assurance-vie et d’autres assurances similaires, ainsi que pour les intérêts des capitaux d’épargne:
-  - 1\. 4800 francs en tout pour les personnes mariées vivant en ménage commun;
-  - 2\. 2400 francs pour les autres personnes contribuables;
-  - 3\. pour les personnes contribuables qui ne déduisent pas de cotisations à des institutions de la prévoyance professionnelle ou à des formes reconnues de la prévoyance individuelle liée, cette déduction se monte au maximum à 7000 francs pour les personnes mariées et au maximum à 3500 francs pour les autres;
+  - 1\. 4900 francs en tout pour les personnes mariées vivant en ménage commun;
+  - 2\. 2450 francs pour les autres personnes contribuables;
+  - 3\. pour les personnes contribuables qui ne déduisent pas de cotisations à des institutions de la prévoyance professionnelle ou à des formes reconnues de la prévoyance individuelle liée, cette déduction se monte au maximum à 7200 francs pour les personnes mariées et au maximum à 3600 francs pour les autres;
   - 4\. ces montants sont augmentés de 700 francs pour chaque enfant pour lequel la personne contribuable peut faire valoir la déduction pour enfants;
 - h …
 - i les frais liés à un handicap au sens de la loi du 13 décembre 2002 sur l'élimination des inégalités frappant les personnes handicapées (loi sur l’égalité pour les handicapés, LHand)[^38-1] que la personne contribuable supporte elle-même pour son propre handicap ou celui d'une personne à l'entretien de laquelle elle subvient;
 - k …
-- l jusqu’à 12'000 francs au maximum, les frais supplémentaires prouvés, engendrés par la garde, par des tierces personnes, de chaque enfant de moins de 14 ans vivant dans le ménage de la personne contribuable qui assure son entretien pour autant que ces frais aient un lien de causalité direct avec l’activité lucrative, la formation ou l’incapacité de gain de la personne contribuable;
-- m les cotisations et les versements à concurrence d’un montant de 5200 francs en faveur d’un parti politique, si ce parti répond à l’une des conditions suivantes:
+- l jusqu’à 16'000 francs au maximum, les frais supplémentaires prouvés, engendrés par la garde, par des tierces personnes, de chaque enfant de moins de 14 ans vivant dans le ménage de la personne contribuable qui assure son entretien pour autant que ces frais aient un lien de causalité direct avec l’activité lucrative, la formation ou l’incapacité de gain de la personne contribuable;
+- m les cotisations et les versements à concurrence d’un montant de 5300 francs en faveur d’un parti politique, si ce parti répond à l’une des conditions suivantes:
   - 1\. être inscrit au registre des partis conformément à l’article 76a de la loi fédérale du 17 décembre 1976 sur les droits politiques (LDP)[^38-2];
   - 2\. être représenté dans un parlement cantonal,
   - 3\. avoir obtenu au moins trois pour cent de voix lors des dernières élections législatives d’un canton.
-- n les frais de formation et de formation continue professionnelles, frais de reconversion compris, dans la limite de 12'000 francs, pour autant que la personne contribuable remplisse l’une des conditions suivantes:
+- n les frais de formation et de formation continue professionnelles, frais de reconversion compris, dans la limite de 12'500 francs, pour autant que la personne contribuable remplisse l’une des conditions suivantes:
   - 1\. elle est titulaire d’un diplôme du degré secondaire II;
   - 2\. elle a plus de 20 ans et ces frais ne sont pas inhérents à une formation menant à l’obtention d’un premier diplôme du degré secondaire II.
 
-<sup>2</sup> Les époux vivant en ménage commun peuvent déduire deux pour cent du revenu des deux conjoints, mais au maximum 9300 francs:
+<sup>2</sup> Les époux vivant en ménage commun peuvent déduire deux pour cent du revenu des deux conjoints, mais au maximum 9500 francs:
 
 - a lorsque chaque conjoint exerce une activité lucrative indépendante de celle de l'autre; cette déduction ne peut pas excéder le revenu du travail le moins élevé après prise en compte des frais d'obtention du revenu selon les articles 31 à 35 et des déductions selon le 1<sup>er</sup> alinéa, lettres d à f;
 - b lorsque l'un des conjoints seconde l'autre de façon importante et régulière dans sa profession ou son entreprise.
@@ -748,26 +766,26 @@ arrête:
 
 **Déductions ordinaires**
 
-<sup>1</sup> Les personnes physiques taxées à titre indépendant peuvent déduire 5200 francs de leur revenu net. Les époux vivant en ménage commun peuvent déduire 5200 francs chacun.
+<sup>1</sup> Les personnes physiques taxées à titre indépendant peuvent déduire 5300 francs de leur revenu net. Les époux vivant en ménage commun peuvent déduire 5300 francs chacun.
 
 <sup>2</sup> Les personnes veuves, divorcées ou célibataires, ainsi que les conjoints ayant chacun un domicile indépendant ou taxés séparément peuvent déduire 2400 francs supplémentaires, pour autant qu'ils tiennent un ménage indépendant seuls, avec leurs enfants ou avec des personnes nécessiteuses.
 
 <sup>3</sup> Pour les enfants, la personne contribuable peut déduire:
 
-- a 8000 francs par enfant mineur ou accomplissant sa formation professionnelle ou des études dont elle assure l’entretien; lorsque les parents sont imposés séparément, la déduction est partagée par moitié entre eux s’ils exercent l’autorité parentale commune sur l’enfant et qu’ils ne demandent pas la déduction de contributions d’entretien au sens de l’article 38, alinéa 1, lettre c pour l’enfant;
-- b une somme supplémentaire de 6200 francs au maximum pour chaque enfant recevant son instruction au dehors ou pour des frais de formation supplémentaires prouvés. Les frais supplémentaires effectifs sont pris en considération dans les limites de ce montant;
-- c 1200 francs par enfant pour les personnes seules (personnes veuves, divorcées ou célibataires, ainsi que conjoints taxés séparément) qui tiennent un ménage indépendant avec leurs enfants pour lesquels ils ont droit à la déduction prévue à la lettre a ou à l’alinéa 5.
+- a 8300 francs par enfant mineur ou accomplissant sa formation professionnelle ou des études dont elle assure l’entretien; lorsque les parents sont imposés séparément, la déduction est partagée par moitié entre eux s’ils exercent l’autorité parentale commune sur l’enfant et qu’ils ne demandent pas la déduction de contributions d’entretien au sens de l’article 38, alinéa 1, lettre c pour l’enfant;
+- b une somme supplémentaire de 6400 francs au maximum pour chaque enfant recevant son instruction au dehors ou pour des frais de formation supplémentaires prouvés. Les frais supplémentaires effectifs sont pris en considération dans les limites de ce montant;
+- c 1300 francs par enfant pour les personnes seules (personnes veuves, divorcées ou célibataires, ainsi que conjoints taxés séparément) qui tiennent un ménage indépendant avec leurs enfants pour lesquels ils ont droit à la déduction prévue à la lettre a ou à l’alinéa 5.
 
 <sup>4</sup> La personne qui peut déduire de son revenu la pension alimentaire qu'elle verse à ses enfants n'a pas droit aux déductions prévues au 3<sup>e</sup> alinéa.
 
-<sup>5</sup> La personne contribuable peut déduire 4600 francs pour les prestations qu'elle fournit à des personnes nécessiteuses incapables d'exercer une activité rémunérée à condition que sa contribution à l'entretien de ces personnes atteigne au moins le montant de cette déduction. Elle a droit à la même déduction pour les prestations allouées à des descendants et à son père et à sa mère exigeant des soins durables ou placés à ses frais dans une institution ou dans un centre de soins, ainsi que pour les frais supplémentaires occasionnés par des descendants atteints d'infirmité.
+<sup>5</sup> La personne contribuable peut déduire 4800 francs pour les prestations qu'elle fournit à des personnes nécessiteuses incapables d'exercer une activité rémunérée à condition que sa contribution à l'entretien de ces personnes atteigne au moins le montant de cette déduction. Elle a droit à la même déduction pour les prestations allouées à des descendants et à son père et à sa mère exigeant des soins durables ou placés à ses frais dans une institution ou dans un centre de soins, ainsi que pour les frais supplémentaires occasionnés par des descendants atteints d'infirmité.
 
-<sup>6</sup> Les personnes physiques taxées à titre indépendant dont le revenu à prendre en compte n'excède pas 15'000 francs peuvent déduire 1000 francs. Cette déduction est augmentée de 500 francs pour chaque enfant pour lequel la personne contribuable a droit à la déduction prévue au 3<sup>e</sup> alinéa; elle est diminuée de 150 francs par tranche de revenu supplémentaire de 2000 francs. Le revenu à prendre en compte se compose
+<sup>6</sup> Les personnes physiques taxées à titre indépendant dont le revenu à prendre en compte n'excède pas 16'700 francs peuvent déduire 1100 francs. Cette déduction est augmentée de 600 francs pour chaque enfant pour lequel la personne contribuable a droit à la déduction prévue au 3<sup>e</sup> alinéa; elle est diminuée de 150 francs par tranche de revenu supplémentaire de 2000 francs. Le revenu à prendre en compte se compose
 
 - a du revenu imposable sans cette déduction et
 - b de dix pour cent de la fortune imposable.
 
-<sup>7</sup> Les époux vivant en ménage commun dont le revenu à prendre en compte n'excède pas 20'000 francs peuvent déduire 2000 francs. Cette déduction est augmentée de 500 francs pour chaque enfant pour lequel la personne contribuable a droit à la déduction prévue au 3<sup>e</sup> alinéa; elle est diminuée de 300 francs par tranche de revenu supplémentaire de 2000 francs. Le revenu à prendre en compte est défini au 6<sup>e</sup> alinéa.
+<sup>7</sup> Les époux vivant en ménage commun dont le revenu à prendre en compte n'excède pas 22'300 francs peuvent déduire 2200 francs. Cette déduction est augmentée de 600 francs pour chaque enfant pour lequel la personne contribuable a droit à la déduction prévue au 3<sup>e</sup> alinéa; elle est diminuée de 300 francs par tranche de revenu supplémentaire de 2000 francs. Le revenu à prendre en compte est défini au 6<sup>e</sup> alinéa.
 
 <sup>8</sup> Les parents qui ont chacun droit à la demi-déduction pour leur enfant mineur commun (al. 3, lit. a) ont également chacun droit à la moitié des déductions qui lui sont liées (déduction pour assurance de l’art. 38, al. 1, lit. g, ch. 4; frais de formation de l’al. 3, lit. b; déduction pour revenu modique des al. 6 et 7).
 
@@ -791,19 +809,19 @@ arrête:
 
 <table>
 <tr><th>Impôt simple en pour cent</th><th>Revenu imposable en CHF</th></tr>
-<tr><td>1,55 pour les premiers</td><td>3100</td></tr>
-<tr><td>1,65 pour les</td><td>3100 suivants</td></tr>
-<tr><td>2,85 pour les</td><td>9400 suivants</td></tr>
-<tr><td>3,65 pour les</td><td>15'400 suivants</td></tr>
-<tr><td>3,80 pour les</td><td>25'700 suivants</td></tr>
-<tr><td>4,30 pour les</td><td>25'700 suivants</td></tr>
-<tr><td>4,85 pour les</td><td>25'700 suivants</td></tr>
-<tr><td>5,20 pour les</td><td>25'700 suivants</td></tr>
-<tr><td>5,70 pour les</td><td>39'700 suivants</td></tr>
-<tr><td>5,85 pour les</td><td>51'800 suivants</td></tr>
-<tr><td>5,95 pour les</td><td>51'800 suivants</td></tr>
-<tr><td>6,20 pour les</td><td>51'800 suivants</td></tr>
-<tr><td>6,40 pour les</td><td>134'700 suivants</td></tr>
+<tr><td>1,55 pour les premiers</td><td>3200</td></tr>
+<tr><td>1,65 pour les</td><td>3200 suivants</td></tr>
+<tr><td>2,85 pour les</td><td>9600 suivants</td></tr>
+<tr><td>3,65 pour les</td><td>15'800 suivants</td></tr>
+<tr><td>3,80 pour les</td><td>26'300 suivants</td></tr>
+<tr><td>4,30 pour les</td><td>26'300 suivants</td></tr>
+<tr><td>4,85 pour les</td><td>26'300 suivants</td></tr>
+<tr><td>5,20 pour les</td><td>26'300 suivants</td></tr>
+<tr><td>5,70 pour les</td><td>40'700 suivants</td></tr>
+<tr><td>5,85 pour les</td><td>53'100 suivants</td></tr>
+<tr><td>5,95 pour les</td><td>53'100 suivants</td></tr>
+<tr><td>6,20 pour les</td><td>53'100 suivants</td></tr>
+<tr><td>6,40 pour les</td><td>138'100 suivants</td></tr>
 <tr><td>6,50 pour le surplus</td><td></td></tr>
 </table>
 
@@ -811,19 +829,19 @@ arrête:
 
 <table>
 <tr><th>Impôt simple en pour cent</th><th>Revenu imposable en CHF</th></tr>
-<tr><td>1,95 pour les premiers</td><td>3100</td></tr>
-<tr><td>2,90 pour les</td><td>3100 suivants</td></tr>
-<tr><td>3,60 pour les</td><td>9400 suivants</td></tr>
-<tr><td>4,15 pour les</td><td>15'400 suivants</td></tr>
-<tr><td>4,45 pour les</td><td>25'700 suivants</td></tr>
-<tr><td>5,00 pour les</td><td>25'700 suivants</td></tr>
-<tr><td>5,60 pour les</td><td>25'700 suivants</td></tr>
-<tr><td>5,75 pour les</td><td>25'700 suivants</td></tr>
-<tr><td>5,90 pour les</td><td>25'700 suivants</td></tr>
-<tr><td>6,05 pour les</td><td>25'700 suivants</td></tr>
-<tr><td>6,15 pour les</td><td>35'900 suivants</td></tr>
-<tr><td>6,30 pour les</td><td>82'900 suivants</td></tr>
-<tr><td>6,40 pour les</td><td>145'100 suivants</td></tr>
+<tr><td>1,95 pour les premiers</td><td>3200</td></tr>
+<tr><td>2,90 pour les</td><td>3200 suivants</td></tr>
+<tr><td>3,60 pour les</td><td>9600 suivants</td></tr>
+<tr><td>4,15 pour les</td><td>15'800 suivants</td></tr>
+<tr><td>4,45 pour les</td><td>26'300 suivants</td></tr>
+<tr><td>5,00 pour les</td><td>26'300 suivants</td></tr>
+<tr><td>5,60 pour les</td><td>26'300 suivants</td></tr>
+<tr><td>5,75 pour les</td><td>26'300 suivants</td></tr>
+<tr><td>5,90 pour les</td><td>26'300 suivants</td></tr>
+<tr><td>6,05 pour les</td><td>26'300 suivants</td></tr>
+<tr><td>6,15 pour les</td><td>36'800 suivants</td></tr>
+<tr><td>6,30 pour les</td><td>85'000 suivants</td></tr>
+<tr><td>6,40 pour les</td><td>148'700 suivants</td></tr>
 <tr><td>6,50 pour le surplus</td><td></td></tr>
 </table>
 
@@ -845,7 +863,7 @@ arrête:
 
 <sup>1</sup> Le total des réserves latentes réalisées au cours des deux derniers exercices commerciaux est imposable séparément des autres revenus si la personne contribuable cesse définitivement d’exercer son activité lucrative indépendante après l’âge de 55 ans ou si elle est incapable de poursuivre cette activité pour cause d’invalidité. Les rachats au sens de l’article 38, alinéa 1, lettre d sont d’abord déductibles des autres revenus.
 
-<sup>2</sup> L’impôt frappant la part des réserves latentes réalisées qui équivaut au montant dont la personne contribuable prouve l’admissibilité comme rachat au sens de l’article 38, alinéa 1, lettre d est calculé selon le barème applicable aux prestations en capital provenant de la prévoyance selon l’article 44. Le même barème s’applique à la part du bénéfice de liquidation excédant le montant des réserves latentes réalisées, jusqu’à concurrence de 260'000 francs en tout.
+<sup>2</sup> L’impôt frappant la part des réserves latentes réalisées qui équivaut au montant dont la personne contribuable prouve l’admissibilité comme rachat au sens de l’article 38, alinéa 1, lettre d est calculé selon le barème applicable aux prestations en capital provenant de la prévoyance selon l’article 44. Le même barème s’applique à la part du bénéfice de liquidation excédant le montant des réserves latentes réalisées, jusqu’à concurrence de 265'000 francs en tout.
 
 <sup>3</sup> Seul un cinquième du solde des réserves latentes réalisées est pris en compte pour déterminer le taux d’imposition applicable selon le barème de l’article 42.
 
@@ -865,13 +883,13 @@ arrête:
 
 <table>
 <tr><th>Impôt simple en pour cent</th><th>Prestation en capital imposable en CHF</th></tr>
-<tr><td>0,65 pour les premiers</td><td>52'800</td></tr>
-<tr><td>0,90 pour les</td><td>52'800 suivants</td></tr>
-<tr><td>1,15 pour les</td><td>105'600 suivants</td></tr>
-<tr><td>1,30 pour les</td><td>105'600 suivants</td></tr>
-<tr><td>1,50 pour les</td><td>211'300 suivants</td></tr>
-<tr><td>1,80 pour les</td><td>316'900 suivants</td></tr>
-<tr><td>1,90 pour les</td><td>528'200 suivants</td></tr>
+<tr><td>0,65 pour les premiers</td><td>54'100</td></tr>
+<tr><td>0,90 pour les</td><td>54'100 suivants</td></tr>
+<tr><td>1,15 pour les</td><td>108'300 suivants</td></tr>
+<tr><td>1,30 pour les</td><td>108'300 suivants</td></tr>
+<tr><td>1,50 pour les</td><td>216'500 suivants</td></tr>
+<tr><td>1,80 pour les</td><td>324'800 suivants</td></tr>
+<tr><td>1,90 pour les</td><td>541'400 suivants</td></tr>
 <tr><td>2,00 pour le surplus</td><td></td></tr>
 </table>
 
@@ -879,18 +897,18 @@ arrête:
 
 <table>
 <tr><th>Impôt simple en pour cent</th><th>Prestation en capital imposable en CHF</th></tr>
-<tr><td>0,65 pour les premiers</td><td>26'500</td></tr>
-<tr><td>0,85 pour les</td><td>26'500 suivants</td></tr>
-<tr><td>1,10 pour les</td><td>52'800 suivants</td></tr>
-<tr><td>1,15 pour les</td><td>52'800 suivants</td></tr>
-<tr><td>1,30 pour les</td><td>105'600 suivants</td></tr>
-<tr><td>1,60 pour les</td><td>158'400 suivants</td></tr>
-<tr><td>1,85 pour les</td><td>264'100 suivants</td></tr>
-<tr><td>1,90 pour les</td><td>528'200 suivants</td></tr>
+<tr><td>0,65 pour les premiers</td><td>27'100</td></tr>
+<tr><td>0,85 pour les</td><td>27'100 suivants</td></tr>
+<tr><td>1,10 pour les</td><td>54'100 suivants</td></tr>
+<tr><td>1,15 pour les</td><td>54'100 suivants</td></tr>
+<tr><td>1,30 pour les</td><td>108'300 suivants</td></tr>
+<tr><td>1,60 pour les</td><td>162'400 suivants</td></tr>
+<tr><td>1,85 pour les</td><td>270'700 suivants</td></tr>
+<tr><td>1,90 pour les</td><td>541'400 suivants</td></tr>
 <tr><td>2,00 pour le surplus</td><td></td></tr>
 </table>
 
-<sup>4</sup> Les prestations en capital inférieures à 5'200 francs sont exonérées d’impôt. Toutes les prestations en capital perçues la même année sont additionnées en vue de l’impôt annuel. L’Intendance cantonale des impôts complète d’office les taxations entrées en force lorsqu’elle apprend le versement d’autres prestations en capital la même année.
+<sup>4</sup> Les prestations en capital inférieures à 5'300 francs sont exonérées d’impôt. Toutes les prestations en capital perçues la même année sont additionnées en vue de l’impôt annuel. L’Intendance cantonale des impôts complète d’office les taxations entrées en force lorsqu’elle apprend le versement d’autres prestations en capital la même année.
 
 <sup>5</sup> Les fractions inférieures à 100 francs sont abandonnées.
 
@@ -950,6 +968,8 @@ arrête:
 <sup>4</sup> Les participations de collaborateur prévues à l’article 20b, alinéa 1 sont évaluées à leur valeur vénale, en tenant compte des délais de blocage au moyen de l’escompte prévu à l’article 20b, alinéa 2.
 
 <sup>5</sup> A leur perception, les participations de collaborateur prévues aux articles 20b, alinéa 3 et 20c doivent être déclarées pour mémoire à une valeur nulle.
+
+<sup>6</sup> La valeur fiscale des installations photovoltaïques ou solaires thermiques est égale à 20 pour cent de leur valeur d'acquisition.
 
 #### Art. 50
 
@@ -1032,19 +1052,20 @@ arrête:
 - c d'après la valeur vénale pour les forces hydrauliques, compte tenu de leur puissance, de leur constance et du profit économique qui en est tiré;
 - d d'après la valeur vénale pour les autres immeubles, les droits qui leur sont assimilés et les concessions, compte tenu de la valeur de rendement et de la valeur réelle, pour autant que la présente loi ne prévoie pas d'exceptions; la valeur officielle est fixée modérément en prenant en considération l'encouragement à la prévoyance et à l'accès à la propriété du logement ainsi que la charge que représente la taxe immobilière.
 
-<sup>2</sup> La valeur officielle des exploitations agricoles qui ne sont pas considérées comme des entreprises agricoles au sens de la loi fédérale du 4 octobre 1991 sur le droit foncier rural (LDFR)[^56-1] est réduite de manière appropriée pour autant que leur exploitation nécessite au moins une demi-unité de main-d’œuvre standard.\*[^56-2]
+<sup>1a</sup> Les systèmes photovoltaïques ou solaires thermiques installés sur des immeubles au sens de l'alinéa 1, lettre d ne sont pas évalués.
 
-<sup>3</sup> La valeur officielle est fixée suivant l'état et l'étendue des immeubles et des forces hydrauliques à la date déterminante.[^56-3]
+<sup>2</sup> La valeur officielle des exploitations agricoles qui ne sont pas considérées comme des entreprises agricoles au sens de la LDFR est réduite de manière appropriée pour autant que leur exploitation nécessite au moins une demi-unité de main-d’œuvre standard.\*[^56-1]
 
-<sup>4</sup> Les droits et les charges inscrits au registre foncier sont pris en considération pour autant qu'ils influent sur la valeur de l'immeuble.[^56-4]
+<sup>3</sup> La valeur officielle est fixée suivant l'état et l'étendue des immeubles et des forces hydrauliques à la date déterminante.[^56-2]
 
-<sup>5</sup> L'évaluation des immeubles à utilisation mixte est effectuée selon des valeurs réparties en fonction de l'affectation.[^56-5]
+<sup>4</sup> Les droits et les charges inscrits au registre foncier sont pris en considération pour autant qu'ils influent sur la valeur de l'immeuble.[^56-3]
 
-[^56-1]: RS [211.412.11](https://db.clex.ch/link/Bund/211.412.11/fr)
-[^56-2]: (\*) Rectifié le 28 juin 2013 par la Commission de rédaction en application de l’article 25 de la loi sur les publications officielles.
+<sup>5</sup> L'évaluation des immeubles à utilisation mixte est effectuée selon des valeurs réparties en fonction de l'affectation.[^56-4]
+
+[^56-1]: (\*) Rectifié le 28 juin 2013 par la Commission de rédaction en application de l’article 25 de la loi sur les publications officielles.
+[^56-2]: Anciens alinéas 2 à 4
 [^56-3]: Anciens alinéas 2 à 4
 [^56-4]: Anciens alinéas 2 à 4
-[^56-5]: Anciens alinéas 2 à 4
 
 #### Art. 57
 
@@ -1129,20 +1150,20 @@ arrête:
 
 <table>
 <tr><th>Impôt simple en pour mille</th><th>Fortune imposable en CHF</th></tr>
-<tr><td>0,00 pour les premiers</td><td>35'000</td></tr>
-<tr><td>0,40 pour les</td><td>40'000 suivants</td></tr>
-<tr><td>0,70 pour les</td><td>135'000 suivants</td></tr>
-<tr><td>0,80 pour les</td><td>215'000 suivants</td></tr>
-<tr><td>1,00 pour les</td><td>360'000 suivants</td></tr>
-<tr><td>1,20 pour les</td><td>535'000 suivants</td></tr>
-<tr><td>1,30 pour les</td><td>2'300'000 suivants</td></tr>
-<tr><td>1,35 pour les</td><td>2'500'000 suivants</td></tr>
+<tr><td>0,00 pour les premiers</td><td>36'000</td></tr>
+<tr><td>0,40 pour les</td><td>41'000 suivants</td></tr>
+<tr><td>0,70 pour les</td><td>139'000 suivants</td></tr>
+<tr><td>0,80 pour les</td><td>221'000 suivants</td></tr>
+<tr><td>1,00 pour les</td><td>371'000 suivants</td></tr>
+<tr><td>1,20 pour les</td><td>551'000 suivants</td></tr>
+<tr><td>1,30 pour les</td><td>2'369'000 suivants</td></tr>
+<tr><td>1,35 pour les</td><td>2'575'000 suivants</td></tr>
 <tr><td>1,25 pour le surplus</td><td></td></tr>
 </table>
 
 <sup>2</sup> …
 
-<sup>3</sup> L’impôt sur la fortune n’est pas perçu lorsque la fortune déterminant le taux d’imposition est inférieure à 97'000 francs.
+<sup>3</sup> L’impôt sur la fortune n’est pas perçu lorsque la fortune déterminant le taux d’imposition est inférieure à 100'000 francs.
 
 <sup>4</sup> Les fractions inférieures à 1000 francs sont abandonnées.
 
@@ -1267,11 +1288,11 @@ arrête:
 - b les associations, fondations et autres personnes morales;
 - c …
 
-<sup>2</sup> Les placements collectifs qui possèdent des immeubles en propriété directe au sens de l’article 58 LPCC[^75-1] sont assimilés aux autres personnes morales. Les sociétés d’investissement à capital fixe au sens de l’article 110 LPCC sont imposées comme des sociétés de capitaux.
+<sup>2</sup> Les placements collectifs qui possèdent des immeubles en propriété directe au sens des articles 58 ou 118a LPCC[^75-1] sont assimilés aux autres personnes morales. Les sociétés d’investissement à capital fixe au sens de l’article 110 LPCC sont imposées comme des sociétés de capitaux.
 
 <sup>3</sup> Les personnes morales étrangères, ainsi que les sociétés commerciales et les communautés étrangères de personnes sans personnalité juridique qui sont assujetties à l'impôt en raison de leur rattachement économique sont imposées d'après les dispositions applicables aux personnes morales suisses dont elles se rapprochent le plus par leur forme juridique ou leur structure effective.
 
-[^75-1]: RS 951.31
+[^75-1]: RS [951.31](https://db.clex.ch/link/Bund/951.31/fr)
 
 #### Art. 76
 
@@ -1563,14 +1584,27 @@ arrête:
 
 <sup>1</sup> Les charges justifiées par l’usage commercial comprennent également
 
-- a les impôts fédéraux, cantonaux et communaux, mais non les amendes fiscales;
+- a les impôts fédéraux, cantonaux et communaux;
 - b les versements à des institutions de prévoyance en faveur du personnel de l’entreprise, à condition que toute utilisation contraire à leur but soit exclue;
 - c les dons en espèces ou sous forme d’autres valeurs patrimoniales en faveur de personnes morales qui ont leur siège en Suisse et sont exonérées de l’impôt en raison de leurs buts de service public ou de pure utilité publique, ainsi qu’en faveur de la Confédération, des cantons, des communes et de leurs établissements (art. 83, al. 1, lit. a à d), jusqu’à concurrence de 20 pour cent du bénéfice net;
 - d les rabais, escomptes, bonifications et ristournes accordés sur la contre-valeur de livraisons et de prestations, ainsi que les parts de bénéfice des compagnies d’assurances destinées à être réparties entre les assurés;
 - e les frais que l’entreprise engage pour la formation et la formation continue professionnelles de son personnel, frais de reconversion compris;
-- f les charges de recherche et de développement.
+- f les charges de recherche et de développement;
+- g les sanctions visant à réduire le bénéfice dans la mesure où elles n'ont pas de caractère pénal.
 
-<sup>2</sup> Les commissions occultes, au sens du droit pénal suisse, versées à des agents ou agentes publics suisses ou étrangers ne sont pas déductibles.
+<sup>1a</sup> Les articles 85, alinéa 3, 85b et 90, alinéa 3 ne sont pas pris en compte pour déterminer le bénéfice net au sens de l'alinéa 1, lettre c.
+
+<sup>2</sup> Ne font notamment pas partie des charges justifiées par l’usage commercial:
+
+- a les commissions occultes au sens du droit pénal suisse;
+- b les dépenses qui permettent la commission d’infractions ou qui constituent la contrepartie à la commission d’infractions;
+- c les amendes;
+- d les sanctions financières administratives dans la mesure où elles ont un caractère pénal.
+
+<sup>2a</sup> Les sanctions au sens de l’alinéa 2, lettres c et d ayant été prononcées par une autorité pénale ou administrative étrangère sont déductibles dans l'une ou l'autre des conditions suivantes:
+
+- a la sanction est contraire à l’ordre public suisse;
+- b la personne contribuable peut démontrer de manière plausible qu’elle a entrepris tout ce qui était raisonnablement exigible pour se conformer au droit.
 
 <sup>3</sup> Sur demande, la déduction des charges de recherche et de développement que la personne contribuable a engagées en Suisse, directement ou par l’intermédiaire de tiers, est admise à raison d’un montant égal aux charges de recherche et de développement justifiées par l’usage commercial augmentées de 50 pour cent.
 
@@ -1599,7 +1633,7 @@ arrête:
 
 **Amortissements**
 
-<sup>1</sup> Les amortissements des actifs justifiés par l'usage commercial sont autorisés, à condition qu'ils soient comptabilisés ou, en cas de comptabilité simplifiée selon l'article 957, alinéa 2 du Code des obligations (CO), qu'ils apparaissent dans un plan spécial d'amortissements. Lors de la taxation par appréciation, il est tenu compte des moins-values déterminées par l'expérience.
+<sup>1</sup> Les amortissements des actifs justifiés par l'usage commercial sont autorisés, à condition qu'ils soient comptabilisés ou, en cas de comptabilité simplifiée selon l'article 957, alinéa 2 CO, qu'ils apparaissent dans un plan spécial d'amortissements. Lors d'une taxation d'office, il est tenu compte des moins-values déterminées par l'expérience.
 
 <sup>2</sup> Les amortissements justifiés par l'usage commercial sont calculés en fonction de chaque élément de fortune.
 
@@ -1656,7 +1690,7 @@ arrête:
 
 **Buts idéaux**
 
-<sup>1</sup> Les bénéfices des personnes morales qui poursuivent des buts idéaux sont exonérés de l’impôt, pour autant qu’ils n’excèdent pas 20'000 francs et qu’ils soient affectés exclusivement et irrévocablement à ces buts.
+<sup>1</sup> Les bénéfices des personnes morales qui poursuivent des buts idéaux sont exonérés de l’impôt, pour autant qu’ils n’excèdent pas 20'800 francs et qu’ils soient affectés exclusivement et irrévocablement à ces buts.
 
 ### 3.2.2 Calcul de l'impôt
 
@@ -1666,8 +1700,8 @@ arrête:
 
 <sup>1</sup> L'impôt simple sur le bénéfice est de
 
-- a 1,55 pour cent sur 20 pour cent du bénéfice net imposable, mais sur 10'000 francs au moins,
-- b 3,1 pour cent sur les 50'000 francs suivants,
+- a 1,55 pour cent sur 20 pour cent du bénéfice net imposable, mais sur 11'100 francs au moins,
+- b 3,1 pour cent sur les 55'700 francs suivants,
 - c 4,6 pour cent sur le reste du bénéfice net.
 
 <sup>2</sup> Les fractions inférieures à 100 francs sont abandonnées.
@@ -1718,7 +1752,7 @@ arrête:
 
 <sup>1</sup> L'impôt simple des associations, fondations et autres personnes morales est de deux pour cent du bénéfice net.
 
-<sup>2</sup> Le bénéfice n'est pas imposé lorsqu'il n'atteint pas 20'000 francs.
+<sup>2</sup> Le bénéfice n'est pas imposé lorsqu'il n'atteint pas 20'800 francs.
 
 #### Art. 101
 
@@ -1774,7 +1808,7 @@ arrête:
 
 <sup>1</sup> L'impôt simple sur le capital est de 0,05 pour mille.
 
-<sup>2</sup> L'imposition des associations, fondations et autres personnes morales commence dès que le capital propre atteint 77'000 francs.
+<sup>2</sup> L'imposition des associations, fondations et autres personnes morales commence dès que le capital propre atteint 80'000 francs.
 
 <sup>3</sup> …
 
@@ -1802,6 +1836,8 @@ arrête:
 
 <sup>1</sup> L'impôt sur le bénéfice net est calculé sur la base du bénéfice net réalisé pendant la période fiscale.
 
+<sup>1a</sup> Si les comptes annuels sont établis en monnaie étrangère, il faut convertir le bénéfice net imposable en francs. Le taux de change est le cours moyen de la devise (vente) sur la période fiscale.
+
 <sup>2</sup> Lors de la liquidation d'une personne morale ou du transfert à l'étranger de son siège, de son administration, d'une entreprise ou d'un établissement stable, les réserves latentes constituées au moyen de bénéfices non soumis à l'impôt sont imposées avec le bénéfice net du dernier exercice.
 
 <sup>3</sup> Lorsque l'exercice commercial comprend plus ou moins de douze mois, les bénéfices et les charges ordinaires sont calculés sur douze mois pour déterminer le taux de l'impôt. Toutefois, les bénéfices et les charges extraordinaires, ainsi que les pertes qui peuvent être compensées ne sont pas convertis en montants annuels.
@@ -1811,6 +1847,8 @@ arrête:
 **Détermination du capital propre**
 
 <sup>1</sup> L'impôt sur le capital propre est calculé sur la base du capital propre existant à la fin de la période fiscale et après utilisation du bénéfice.
+
+<sup>1a</sup> Si les comptes annuels sont établis en monnaie étrangère, il faut convertir le capital propre imposable en francs. Le taux de change est le cours moyen de la devise (vente) sur la période fiscale.
 
 <sup>2</sup> Lorsque l'exercice commercial est supérieur ou inférieur à douze mois, l'impôt sur le capital est calculé sur la base de la durée de cet exercice.
 
@@ -1872,7 +1910,7 @@ arrête:
 
 <sup>2b</sup> L'Administration fédérale des contributions (AFC) et les cantons uniformisent ensemble les éléments déterminant le taux d'imposition et la manière de tenir compte en particulier du 13<sup>e</sup> mois de salaire, des gratifications, des horaires variables, des salaires horaires et des activités professionnelles accessoires ou à temps partiel. En outre, l'AFC règle comment procéder en cas de changement de barème, d'adaptation ou de rectification rétroactive du traitement et de versement de prestations avant un engagement ou après son terme.
 
-<sup>3</sup> Les impôts cantonaux sont déterminés selon la quotité de l'impôt de l'année précédente.
+<sup>3</sup> Les impôts cantonaux sont déterminés selon la quotité de l'impôt de l'année en cours.
 
 <sup>4</sup> Les impôts communaux sont déterminés selon la moyenne pondérée des quotités d'impôt, arrêtées l'année précédente, des communes comptant des personnes assujetties aux impôts à la source.
 
@@ -2087,7 +2125,7 @@ arrête:
 
 <sup>1</sup> L'impôt sur les gains immobiliers a pour objet les gains provenant de l'aliénation de tout ou partie d'un immeuble ou d'une force hydraulique, ainsi que de l'aliénation de droits sur ces objets.
 
-<sup>2</sup> Les gains inférieurs à 5200 francs ne sont pas imposés.
+<sup>2</sup> Les gains inférieurs à 5300 francs ne sont pas imposés.
 
 #### Art. 129
 
@@ -2262,6 +2300,7 @@ arrête:
 <sup>3</sup> Ne sont pas considérés comme impenses en particulier
 
 - a les dépenses faites pour l’entretien ordinaire et l’administration,
+- a1 les dépenses assimilées à des frais d'entretien selon l'article 36, alinéas 1a et 3,
 - b les sommes rapportées après un partage successoral ou un avancement d’hoirie,
 - c les impôts payés sur une succession ou une donation.
 
@@ -2269,7 +2308,7 @@ arrête:
 
 **Imputation des pertes**
 
-<sup>1</sup> La personne contribuable peut déduire du gain immobilier imposable les pertes qu'elle subit ou a subies pendant la même année civile, l'année précédente ou l'année suivante, en aliénant des immeubles ou des forces hydrauliques, ou en octroyant des droits sur de tels objets, à condition que l'assujettissement subjectif à l'impôt dans le canton de Berne ait existé pour les transactions concernées. Les pertes inférieures à 5200 francs[^143-1] ne sont pas prises en compte.
+<sup>1</sup> La personne contribuable peut déduire du gain immobilier imposable les pertes qu'elle subit ou a subies pendant la même année civile, l'année précédente ou l'année suivante, en aliénant des immeubles ou des forces hydrauliques, ou en octroyant des droits sur de tels objets, à condition que l'assujettissement subjectif à l'impôt dans le canton de Berne ait existé pour les transactions concernées. Les pertes inférieures à 5300 francs[^143-1] ne sont pas prises en compte.
 
 <sup>2</sup> Si, dans la période d'évaluation durant laquelle a été réalisé un gain immobilier sur un immeuble faisant partie de la fortune commerciale, les exercices commerciaux d'une personne contribuable tenant comptabilité se sont soldés dans leur ensemble par une perte, celle-ci peut être déduite de ce gain immobilier imposable.
 
@@ -2295,7 +2334,7 @@ arrête:
 
 <sup>1</sup> Les fractions de gain immobilier imposable inférieures à 100 francs ne sont pas comptées dans le calcul de l'impôt.
 
-<sup>2</sup> Tous les gains immobiliers de 5200[^145-1] francs au moins qui sont réalisés au cours d'une année civile sont additionnés pour l'imposition.
+<sup>2</sup> Tous les gains immobiliers de 5300[^145-1] francs au moins qui sont réalisés au cours d'une année civile sont additionnés pour l'imposition.
 
 [^145-1]: Rectifié le 26 novembre 2010 par la Commission de rédaction en application de l'article 25 de la loi sur les publications officielles
 
@@ -2309,13 +2348,13 @@ arrête:
 
 <table>
 <tr><th>Taux unitaire en pour cent</th><th>Gain imposable en CHF</th></tr>
-<tr><td>1,44 pour les premiers</td><td>2700</td></tr>
-<tr><td>2,40 pour les</td><td>2700 suivants</td></tr>
-<tr><td>4,08 pour les</td><td>7900 suivants</td></tr>
-<tr><td>4,92 pour les</td><td>13'000 suivants</td></tr>
-<tr><td>6,41 pour les</td><td>26'100 suivants</td></tr>
-<tr><td>7,26 pour les</td><td>78'100 suivants</td></tr>
-<tr><td>7,81 pour les</td><td>195'300 suivants</td></tr>
+<tr><td>1,44 pour les premiers</td><td>2800</td></tr>
+<tr><td>2,40 pour les</td><td>2800 suivants</td></tr>
+<tr><td>4,08 pour les</td><td>8200 suivants</td></tr>
+<tr><td>4,92 pour les</td><td>13'400 suivants</td></tr>
+<tr><td>6,41 pour les</td><td>26'800 suivants</td></tr>
+<tr><td>7,26 pour les</td><td>80'400 suivants</td></tr>
+<tr><td>7,81 pour les</td><td>201'100 suivants</td></tr>
 <tr><td>8,10 pour le surplus de gains</td><td></td></tr>
 </table>
 
@@ -2608,6 +2647,8 @@ arrête:
 
 <sup>2</sup> Lorsque, malgré sommation, la personne contribuable ne produit pas les attestations requises, l'Intendance cantonale des impôts peut les exiger directement de tierces personnes. Le secret professionnel protégé légalement est réservé.
 
+<sup>3</sup> L'Intendance des impôts peut prévoir que certaines attestations lui soient transmises directement par voie électronique si la personne contribuable y consent.
+
 #### Art. 169
 
 **Renseignements de tiers**
@@ -2650,18 +2691,22 @@ arrête:
 
 **Informations de tiers**
 
-<sup>1</sup> Sont tenus de fournir une attestation à l'Intendance cantonale des impôts pour chaque période fiscale
+<sup>1</sup> Sont tenus de fournir en tant que tiers une attestation à l'Intendance cantonale des impôts pour chaque période fiscale
 
 - a les personnes morales, sur les prestations versées aux membres de l'administration ou d'autres organes; les fondations, en outre, sur les prestations fournies à leurs bénéficiaires,
 - b les institutions de la prévoyance professionnelle et de la prévoyance individuelle liée, sur les prestations fournies à leurs preneurs ou preneuses de prévoyance ou bénéficiaires,
 - c les sociétés simples et les sociétés de personnes, sur tous les éléments qui revêtent de l'importance pour la taxation de leurs associés et associées en particulier sur les parts de ces derniers au revenu et à la fortune de la société,
-- d les employeurs, sur tous les salaires, les bonifications de frais et autres prestations.
+- d les employeurs, sur tous les salaires, les bonifications de frais et autres prestations,
+- e la caisse de chômage, sur les indemnités versées en application de l'article 30, alinéa 1 de l’ordonnance fédérale du 31 août 1983 sur l’assurance-chômage obligatoire et l’indemnité en cas d’insolvabilité (ordonnance sur l’assurance-chômage, OACI)[^172-1].
 
 <sup>2</sup> Les informations visées à l’alinéa 1, lettre d doivent être communiquées sur formulaire officiel ou sous toute autre forme agréée par l’Intendance cantonale des impôts. Les avantages appréciables en argent dérivant de participations de collaborateur, ainsi que l’attribution et l’exercice d’options de collaborateur doivent également faire l’objet d’une attestation.
 
-<sup>3</sup> Un double de l'attestation doit être adressé à la personne contribuable.[^172-1]
+<sup>3</sup> Un double de l'attestation doit être adressé à la personne contribuable.[^172-2]
 
-[^172-1]: Ancien alinéa 2
+<sup>4</sup> Si le droit fédéral permet que la législation cantonale soit complétée en ce sens, le Conseil-exécutif peut obliger d'autres tiers à transmettre directement à l'Intendance des impôts les attestations qu'ils établissent.
+
+[^172-1]: RS [837.02](https://db.clex.ch/link/Bund/837.02/fr)
+[^172-2]: Ancien alinéa 2
 
 #### Art. 173
 
@@ -2842,8 +2887,8 @@ arrête:
 
 - a de signaler à l'autorité compétente les personnes qui sont soumises à l'impôt à la source,
 - b de retenir l'impôt dû à l'échéance des prestations en espèces et de prélever auprès de la personne soumise à l'impôt à la source l'impôt dû sur d'autres prestations (notamment les revenus en nature et les pourboires),
-- c de remettre à la personne soumise à l’impôt à la source un relevé ou une attestation de chaque retenue d’impôt et un relevé du total des montants retenus sur l’année civile,
-- d de verser périodiquement les impôts à l'autorité compétente, d'en établir les relevés à son intention en temps utile et de permettre à l'Intendance cantonale des impôts de consulter lors de ses contrôles les documents déterminants pour l'imposition,
+- c de remettre à la personne soumise à l’impôt à la source un décompte ou une attestation de chaque retenue d’impôt et un relevé du total des montants retenus sur l’année civile,
+- d de verser périodiquement les impôts à l'autorité compétente, d'en établir les décomptes à son intention en temps utile et de permettre à l'Intendance cantonale des impôts de consulter lors de ses contrôles les documents déterminants pour l'imposition,
 - e de reverser l’impôt à la source dû au prorata sur les options de collaborateur exercées à l’étranger, même si l’avantage appréciable en argent est distribué par un groupe étranger.
 - f …
 
@@ -2858,13 +2903,13 @@ arrête:
 <sup>1</sup> Dans la procédure simplifiée selon l’article 115a, l’employeur est tenu
 
 - a de retenir l’impôt dû à l’échéance des prestations en espèces et de prélever auprès des travailleurs ou travailleuses l’impôt dû sur d’autres prestations (notamment les revenus en nature et les pourboires),
-- b de verser périodiquement les impôts à la caisse de compensation AVS compétente et d’en établir les relevés à son intention en temps utile.
+- b de verser périodiquement les impôts à la caisse de compensation AVS compétente et d’en établir les décomptes à son intention en temps utile.
 
 <sup>2</sup> L’impôt est également retenu lorsque le travailleur ou la travailleuse est domiciliée ou en séjour dans un autre canton.
 
 <sup>3</sup> L’employeur répond du paiement de l’impôt.
 
-<sup>4</sup> La caisse de compensation AVS remet à la personne contribuable un relevé ou une attestation indiquant le montant de l’impôt retenu. Elle verse les impôts encaissés à l’Intendance cantonale des impôts.
+<sup>4</sup> La caisse de compensation AVS remet à la personne contribuable un décompte ou une attestation indiquant le montant de l’impôt retenu. Elle verse les impôts encaissés à l’Intendance cantonale des impôts.
 
 <sup>5</sup> La caisse de compensation AVS reçoit une commission de perception dont le Conseil-exécutif fixe le montant.
 
@@ -2925,11 +2970,11 @@ arrête:
 
 <sup>2</sup> La réclamation peut se limiter à contester une amende prononcée par l'Intendance des impôts.
 
-<sup>3</sup> La personne contribuable qui a été taxée d'office peut déposer une réclamation contre cette taxation uniquement pour le motif qu'elle est manifestement inexacte.
+<sup>3</sup> La personne contribuable qui a été taxée d'office peut déposer une réclamation contre cette taxation uniquement pour le motif qu'elle est manifestement inexacte. La réclamation doit être motivée et indiquer les éventuels moyens de preuve.
 
 <sup>4</sup> Les valeurs officielles passées en force ne peuvent pas faire l'objet d'une réclamation dans le cadre de la taxation de l'impôt sur la fortune.
 
-<sup>5</sup> La réclamation doit être motivée et indiquer, le cas échéant, les moyens de preuve.
+<sup>5</sup> …
 
 #### Art. 192
 
@@ -3522,7 +3567,7 @@ arrête:
 
 **Perception définitive des impôts**
 
-<sup>1</sup> Les relevés sont établis définitivement sur la base de la décision de taxation et des versements déjà effectués.
+<sup>1</sup> Les décomptes sont établis définitivement sur la base de la décision de taxation et des versements déjà effectués.
 
 <sup>2</sup> Les montants non acquittés sont réclamés après coup. Les montants payés en trop sont remboursés à moins d’être compensés.
 

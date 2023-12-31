@@ -4,13 +4,13 @@ number: "661.11"
 title: Steuergesetz
 short: StG
 language: de
-version: 2021-03-01
-valid_until: 2023-12-31
-version_adopted: 2020-03-10
+version: 2024-01-01
+valid_until: 2024-02-29
+version_adopted: 2023-09-13
 adopted: 2000-05-21
 in_force: 2001-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/661.11"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2139/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2866/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2139/pdf_file"
 
 (StG)
 
-vom 21.05.2000 (Stand 01.03.2021)
+vom 21.05.2000 (Stand 01.01.2024)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -465,6 +465,8 @@ beschliesst:
 
 <sup>3</sup> Die Rückzahlung von Einlagen, Aufgeldern und Zuschüssen (Reserven aus Kapitaleinlagen), die von den Inhaberinnen und Inhabern der Beteiligungsrechte nach dem 31. Dezember 1996 geleistet worden sind, wird gleich behandelt wie die Rückzahlung von Grund- oder Stammkapital. Absatz 4 bleibt vorbehalten.
 
+<sup>3a</sup> Absatz 3 gilt für Einlagen und Aufgelder, die während eines Kapitalbands nach den Artikeln 653s ff. des Obligationenrechts (OR)[^24-2] geleistet werden, nur soweit sie die Rückzahlungen von Reserven im Rahmen dieses Kapitalbands übersteigen.
+
 <sup>4</sup> Schüttet eine Kapitalgesellschaft oder Genossenschaft, die an einer schweizerischen Börse kotiert ist, bei der Rückzahlung von Reserven aus Kapitaleinlagen nach Absatz 3 nicht mindestens im gleichen Umfang übrige Reserven aus, so ist die Rückzahlung im Umfang der halben Differenz zwischen der Rückzahlung und der Ausschüttung der übrigen Reserven steuerbar, höchstens aber im Umfang der in der Gesellschaft vorhandenen, handelsrechtlich ausschüttungsfähigen übrigen Reserven.
 
 <sup>5</sup> Absatz 4 ist nicht anwendbar auf Reserven aus Kapitaleinlagen,
@@ -478,6 +480,7 @@ beschliesst:
 <sup>7</sup> Entspricht bei der Rückgabe von Beteiligungsrechten an einer Kapitalgesellschaft oder Genossenschaft, die an einer schweizerischen Börse kotiert ist, die Rückzahlung der Reserven aus Kapitaleinlagen nicht mindestens der Hälfte des erhaltenen Liquidationsüberschusses, so vermindert sich der steuerbare Anteil dieses Liquidationsüberschusses um die halbe Differenz zwischen diesem Anteil und der Rückzahlung, höchstens aber im Umfang der in der Gesellschaft vorhandenen Reserven aus Kapitaleinlagen, die auf diese Beteiligungsrechte entfallen.
 
 [^24-1]: SR [642.21](https://db.clex.ch/link/Bund/642.21/de)
+[^24-2]: SR [220](https://db.clex.ch/link/Bund/220/de)
 
 #### Art. 24a
 
@@ -503,7 +506,9 @@ beschliesst:
 
 <sup>2</sup> Als Eigengebrauch im Sinne von Absatz 1 Buchstabe b gilt auch die Vermietung an eine nahestehende Person zu einem Mietzins unter dem Eigenmietwert.
 
-<sup>3</sup> Bei Landwirtschaftsbetrieben, die nicht als landwirtschaftliche Gewerbe im Sinne des Bundesgesetzes über das bäuerliche Bodenrecht (BGBB)[^25-1] gelten, wird der Eigenmietwert angemessen reduziert, sofern zu deren Bewirtschaftung mindestens eine halbe Standardarbeitskraft notwendig ist.
+<sup>2a</sup> Nicht als Eigengebrauch im Sinne von Absatz 1 Buchstabe b gilt der Verbrauch selbst erzeugter Energie.
+
+<sup>3</sup> Bei Landwirtschaftsbetrieben, die nicht als landwirtschaftliche Gewerbe im Sinne des Bundesgesetzes vom 4. Oktober 1991 über das bäuerliche Bodenrecht (BGBB)[^25-1] gelten, wird der Eigenmietwert angemessen reduziert, sofern zu deren Bewirtschaftung mindestens eine halbe Standardarbeitskraft notwendig ist.
 
 <sup>4</sup> Die Mietwerte bei Eigengebrauch sind, ausgehend vom ortsüblichen Marktwert, unter Berücksichtigung der Förderung von Eigentumsbildung und Selbstvorsorge massvoll festzulegen. Bei Liegenschaften, die nicht als Wohnsitz dienen, gilt der für die direkte Bundessteuer massgebliche Eigenmietwert.[^25-2]
 
@@ -557,17 +562,19 @@ beschliesst:
 - d die Unterstützungen aus öffentlichen oder privaten Mitteln,
 - e die Leistungen in Erfüllung familienrechtlicher Verpflichtungen, ausgenommen die Unterhaltsbeiträge nach Artikel 28 Absatz 1 Buchstabe f,
 - f der Sold für Militär- und Zivilschutzdienst,
-- g der Sold der Milizfeuerwehrleute bis zum Betrag von jährlich 5000 Franken für Dienstleistungen im Zusammenhang mit der Erfüllung der Kernaufgaben der Feuerwehr (Übungen, Pikettdienste, Kurse, Inspektionen und Ernstfalleinsätze zur Rettung, Brandbekämpfung, allgemeinen Schadenwehr, Elementarschadenbewältigung und dergleichen), wobei Pauschalzulagen für Kader, Funktionszulagen sowie Entschädigungen für administrative Arbeiten und für Dienstleistungen, welche die Feuerwehr freiwillig erbringt, ausgenommen sind,
+- g der Sold der Milizfeuerwehrleute bis zum Betrag von jährlich 5200 Franken für Dienstleistungen im Zusammenhang mit der Erfüllung der Kernaufgaben der Feuerwehr (Übungen, Pikettdienste, Kurse, Inspektionen und Ernstfalleinsätze zur Rettung, Brandbekämpfung, allgemeinen Schadenwehr, Elementarschadenbewältigung und dergleichen), wobei Pauschalzulagen für Kader, Funktionszulagen sowie Entschädigungen für administrative Arbeiten und für Dienstleistungen, welche die Feuerwehr freiwillig erbringt, ausgenommen sind,
 - h die Zahlung von Genugtuungssummen,
 - i die Einkünfte aufgrund der Bundesgesetzgebung über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung,
+- i1 die Einkünfte aufgrund des Bundesgesetzes vom 19. Juni 2020 über Überbrückungsleistungen für ältere Arbeitslose (ÜLG)[^29-1],
 - k die Kapitalgewinne aus der Veräusserung von beweglichem Privatvermögen,
 - l Lidlöhne in dem Umfang, als sie für die Schuldnerin oder den Schuldner abzugsfähig wären, von dieser oder diesem aber nicht haben abgezogen werden können bzw. nicht abgezogen werden können,
-- m die Gewinne, die in Spielbanken mit Spielbankenspielen erzielt werden, die nach dem Bundesgesetz vom 29. September 2017 über Geldspiele (Geldspielgesetz, BGS)[^29-1] zugelassen sind, sofern diese Gewinne nicht aus selbstständiger Erwerbstätigkeit stammen,
-- n die einzelnen Gewinne bis zum Betrag von einer Million Franken aus der Teilnahme an Grossspielen, die nach dem BGS zugelassen sind, und aus der Online-Teilnahme an Spielbankenspielen, die nach dem BGS zugelassen sind,
+- m die Gewinne, die in Spielbanken mit Spielbankenspielen erzielt werden, die nach dem Bundesgesetz vom 29. September 2017 über Geldspiele (Geldspielgesetz, BGS)[^29-2] zugelassen sind, sofern diese Gewinne nicht aus selbstständiger Erwerbstätigkeit stammen,
+- n die einzelnen Gewinne bis zum Betrag von 1'037'000 Franken aus der Teilnahme an Grossspielen, die nach dem BGS zugelassen sind, und aus der Online-Teilnahme an Spielbankenspielen, die nach dem BGS zugelassen sind,
 - o die Gewinne aus Kleinspielen, die nach dem BGS zugelassen sind,
 - p die einzelnen Gewinne aus Lotterien und Geschicklichkeitsspielen zur Verkaufsförderung, die nach Artikel 1 Absatz 2 Buchstaben d und e BGS diesem nicht unterstehen, sofern die Grenze von 1000 Franken nicht überschritten wird.
 
-[^29-1]: SR [935.51](https://db.clex.ch/link/Bund/935.51/de)
+[^29-1]: SR [837.2](https://db.clex.ch/link/Bund/837.2/de)
+[^29-2]: SR [935.51](https://db.clex.ch/link/Bund/935.51/de)
 
 ### 2.2.2 Ermittlung des Reineinkommens
 
@@ -577,9 +584,9 @@ beschliesst:
 
 <sup>1</sup> Zur Ermittlung des Reineinkommens werden von den gesamten steuerbaren Einkünften die Aufwendungen und allgemeinen Abzüge abgezogen.
 
-<sup>2</sup> Von den einzelnen Gewinnen aus der Teilnahme an Geldspielen, die nicht nach Artikel 29 Absatz 1 Buchstaben m bis p steuerfrei sind, werden fünf Prozent, jedoch höchstens 5000 Franken, als Einsatzkosten abgezogen.
+<sup>2</sup> Von den einzelnen Gewinnen aus der Teilnahme an Geldspielen, die nicht nach Artikel 29 Absatz 1 Buchstaben m bis p steuerfrei sind, werden fünf Prozent, jedoch höchstens 5200 Franken, als Einsatzkosten abgezogen.
 
-<sup>3</sup> Von den einzelnen Gewinnen aus der Online-Teilnahme an Spielbankenspielen nach Artikel 29 Absatz 1 Buchstabe n werden die vom Online-Spielerkonto abgebuchten Spieleinsätze im Steuerjahr, jedoch höchstens 25'000 Franken, abgezogen.
+<sup>3</sup> Von den einzelnen Gewinnen aus der Online-Teilnahme an Spielbankenspielen nach Artikel 29 Absatz 1 Buchstabe n werden die vom Online-Spielerkonto abgebuchten Spieleinsätze im Steuerjahr, jedoch höchstens 25'900 Franken, abgezogen.
 
 #### Art. 31
 
@@ -587,7 +594,7 @@ beschliesst:
 
 <sup>1</sup> Als Berufskosten werden abgezogen
 
-- a die notwendigen Kosten bis zu einem Maximalbetrag von 6700 Franken für Fahrten zwischen Wohn- und Arbeitsstätte,
+- a die notwendigen Kosten bis zu einem Maximalbetrag von 7000 Franken für Fahrten zwischen Wohn- und Arbeitsstätte,
 - b die notwendigen Mehrkosten für Verpflegung ausserhalb der Wohnstätte und bei Schichtarbeit,
 - c die übrigen für die Ausübung des Berufs erforderlichen Kosten, wobei Artikel 38 Absatz 1 Buchstabe n vorbehalten bleibt,
 - d …
@@ -610,9 +617,20 @@ beschliesst:
 - c die im Rahmen des Bundesgesetzes vom 25. Juni 1982 über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge (BVG)[^32-1] geleisteten periodischen und einmaligen Beiträge an Vorsorgeeinrichtungen zu Gunsten des eigenen Personals, sofern jede zweckwidrige Verwendung ausgeschlossen ist,
 - d Zinsen auf Geschäftsschulden sowie Zinsen, die auf Beteiligungen nach Artikel 21 Absatz 2 entfallen,
 - e die Kosten der berufsorientierten Aus- und Weiterbildung des eigenen Personals, einschliesslich Umschulungskosten,
-- f die Beiträge an Berufsverbände.
+- f die Beiträge an Berufsverbände,
+- g gewinnabschöpfende Sanktionen, soweit sie keinen Strafzweck haben.
 
-<sup>3</sup> Nicht abziehbar sind Zahlungen von Bestechungsgeldern im Sinne des schweizerischen Strafrechts an schweizerische oder fremde Amtsträgerinnen und Amtsträger.
+<sup>3</sup> Nicht abziehbar sind insbesondere
+
+- a Zahlungen von Bestechungsgeldern im Sinne des schweizerischen Strafrechts,
+- b Aufwendungen zur Ermöglichung von Straftaten oder als Gegenleistung für die Begehung von Straftaten,
+- c Bussen und Geldstrafen,
+- d finanzielle Verwaltungssanktionen, soweit sie einen Strafzweck haben.
+
+<sup>3a</sup> Sind Sanktionen nach Absatz 3 Buchstaben c und d von einer ausländischen Straf- oder Verwaltungsbehörde verhängt worden, so sind sie abziehbar, wenn
+
+- a die Sanktion gegen den schweizerischen Ordre public verstösst oder
+- b die steuerpflichtige Person glaubhaft darlegt, dass sie alles Zumutbare unternommen hat, um sich rechtskonform zu verhalten.
 
 <sup>4</sup> Für den Abzug von Forschungs- und Entwicklungsaufwand bei selbstständiger Erwerbstätigkeit ist Artikel 90 Absätze 3 bis 6 sinngemäss anwendbar.
 
@@ -622,11 +640,9 @@ beschliesst:
 
 **Abschreibungen**
 
-<sup>1</sup> Geschäftsmässig begründete Abschreibungen von Aktiven sind zulässig, soweit sie buchmässig oder, bei vereinfachter Buchführung nach Artikel 957 Absatz 2 des Obligationenrechts (OR)[^33-1], in besonderen Abschreibungstabellen ausgewiesen sind. Bei Veranlagung nach Ermessen ist der erfahrungsgemässen Wertverminderung Rechnung zu tragen.
+<sup>1</sup> Geschäftsmässig begründete Abschreibungen von Aktiven sind zulässig, soweit sie buchmässig oder, bei vereinfachter Buchführung nach Artikel 957 Absatz 2 OR, in besonderen Abschreibungstabellen ausgewiesen sind. Bei Veranlagung nach Ermessen ist der erfahrungsgemässen Wertverminderung Rechnung zu tragen.
 
 <sup>2</sup> Die geschäftsmässig begründeten Abschreibungen werden auf dem einzelnen Vermögensteil bemessen.
-
-[^33-1]: SR [220](https://db.clex.ch/link/Bund/220/de)
 
 #### Art. 34
 
@@ -663,13 +679,15 @@ beschliesst:
 
 #### Art. 36
 
-**Grundstücksunterhalt und -verwaltung**
+**Grundstückskosten**
 
 <sup>1</sup> Bei Grundstücken im Privatvermögen können die Unterhaltskosten, die Versicherungsprämien, die Liegenschaftssteuern der Gemeinde und die Kosten der Verwaltung durch Dritte abgezogen werden.
 
 <sup>1a</sup> Abziehbar sind auch Investitionskosten, die dem Energiesparen und dem Umweltschutz dienen. Den Unterhaltskosten gleichgestellt sind auch die Rückbaukosten im Hinblick auf einen Ersatzneubau.
 
 <sup>1b</sup> Investitionskosten gemäss Absatz 1a sind in den zwei nachfolgenden Steuerperioden abziehbar, soweit sie in der laufenden Steuerperiode, in welcher die Aufwendungen angefallen sind, steuerlich nicht vollständig berücksichtigt werden können.
+
+<sup>1c</sup> Zu den Investitionskosten gemäss Absatz 1a zählen auch die Kosten für die Installation von Photovoltaikanlagen und Solarthermieanlagen, die im Rahmen eines Neubaus anfallen.
 
 <sup>2</sup> Die steuerpflichtige Person kann für Grundstücke des Privatvermögens anstelle der tatsächlichen Kosten und Prämien einen Pauschalabzug geltend machen.
 
@@ -696,23 +714,23 @@ beschliesst:
 - e Einlagen, Prämien und Beiträge zum Erwerb von vertraglichen Ansprüchen aus anerkannten Formen der gebundenen Selbstvorsorge bis zu den nach Bundesrecht zulässigen Beträgen,
 - f die Prämien und Beiträge für die Erwerbsersatzordnung, die Arbeitslosenversicherung und die obligatorische Unfallversicherung,
 - g für Beiträge an Krankenkassen, Unfall- und Invalidenversicherung, für die private Alters- und Hinterbliebenenvorsorge, Lebensversicherung und dergleichen, sowie für Zinsen auf Sparkapitalien
-  - 1\. für Verheiratete in rechtlich und tatsächlich ungetrennter Ehe zusammen 4800 Franken,
-  - 2\. für die übrigen steuerpflichtigen Personen 2400 Franken,
-  - 3\. für Steuerpflichtige, die keine Beiträge an Einrichtungen der beruflichen Vorsorge oder an anerkannte Formen der gebundenen Selbstvorsorge abziehen, erhöht sich der Abzug für Verheiratete auf höchstens 7000 Franken und für die übrigen steuerpflichtigen Personen auf höchstens 3500 Franken,
+  - 1\. für Verheiratete in rechtlich und tatsächlich ungetrennter Ehe zusammen 4900 Franken,
+  - 2\. für die übrigen steuerpflichtigen Personen 2450 Franken,
+  - 3\. für Steuerpflichtige, die keine Beiträge an Einrichtungen der beruflichen Vorsorge oder an anerkannte Formen der gebundenen Selbstvorsorge abziehen, erhöht sich der Abzug für Verheiratete auf höchstens 7200 Franken und für die übrigen steuerpflichtigen Personen auf höchstens 3600 Franken,
   - 4\. für jedes Kind, für das ein Kinderabzug zulässig ist, können 700 Franken abgezogen werden.
 - h …
 - i die behinderungsbedingten Kosten der steuerpflichtigen Person und der von ihr unterhaltenen Personen mit Behinderungen im Sinne des Bundesgesetzes vom 13. Dezember 2002 über die Beseitigung von Benachteiligungen von Menschen mit Behinderungen (Behindertengleichstellungsgesetz, BehiG)[^38-1], soweit die steuerpflichtige Person die Kosten selber trägt,
 - k …
-- l die nachgewiesenen Kosten bis höchstens 12'000 Franken für die Drittbetreuung jedes Kindes, welches das 14. Altersjahr noch nicht vollendet hat und mit der steuerpflichtigen Person, die für seinen Unterhalt sorgt, im gleichen Haushalt lebt, soweit diese Kosten in direktem kausalem Zusammenhang mit der Erwerbstätigkeit, Ausbildung oder Erwerbsunfähigkeit der steuerpflichtigen Person stehen,
-- m die Mitgliederbeiträge und Zuwendungen bis zum Gesamtbetrag von 5200 Franken an politische Parteien, die
+- l die nachgewiesenen Kosten bis höchstens 16'000 Franken für die Drittbetreuung jedes Kindes, welches das 14. Altersjahr noch nicht vollendet hat und mit der steuerpflichtigen Person, die für seinen Unterhalt sorgt, im gleichen Haushalt lebt, soweit diese Kosten in direktem kausalem Zusammenhang mit der Erwerbstätigkeit, Ausbildung oder Erwerbsunfähigkeit der steuerpflichtigen Person stehen,
+- m die Mitgliederbeiträge und Zuwendungen bis zum Gesamtbetrag von 5300 Franken an politische Parteien, die
   - 1\. im Parteienregister nach Artikel 76a des Bundesgesetzes vom 17. Dezember 1976 über die politischen Rechte (BPR)[^38-2] eingetragen sind,
   - 2\. in einem kantonalen Parlament vertreten sind oder
   - 3\. in einem Kanton bei den letzten Wahlen des kantonalen Parlaments mindestens drei Prozent der Stimmen erreicht haben,
-- n die Kosten der berufsorientierten Aus- und Weiterbildung, einschliesslich Umschulungskosten, bis zum Gesamtbetrag von 12'000 Franken, sofern
+- n die Kosten der berufsorientierten Aus- und Weiterbildung, einschliesslich Umschulungskosten, bis zum Gesamtbetrag von 12'500 Franken, sofern
   - 1\. ein erster Abschluss auf der Sekundarstufe II vorliegt oder
   - 2\. das 20. Lebensjahr vollendet ist und es sich nicht um die Ausbildungskosten bis zum ersten Abschluss auf der Sekundarstufe II handelt.
 
-<sup>2</sup> Bei rechtlich und tatsächlich ungetrennter Ehe können vom Erwerbseinkommen beider Ehegatten zwei Prozent, jedoch höchstens 9300 Franken, abgezogen werden,
+<sup>2</sup> Bei rechtlich und tatsächlich ungetrennter Ehe können vom Erwerbseinkommen beider Ehegatten zwei Prozent, jedoch höchstens 9500 Franken, abgezogen werden,
 
 - a wenn beide Ehegatten unabhängig voneinander erwerbstätig sind; dieser Abzug darf unter Berücksichtigung der Gewinnungskosten (Art. 31–35) und der Abzüge gemäss Absatz 1 Buchstaben d bis f nicht mehr als das kleinere Erwerbseinkommen betragen;
 - b wenn ein Ehegatte regelmässig und in beträchtlichem Masse im Beruf oder Betrieb des anderen Ehegatten mitarbeitet.
@@ -747,26 +765,26 @@ beschliesst:
 
 **Ordentliche Abzüge**
 
-<sup>1</sup> Selbstständig veranlagte, natürliche Personen können von ihrem Reineinkommen 5200 Franken abziehen. Bei rechtlich und tatsächlich ungetrennter Ehe können für jeden Ehegatten 5200 Franken abgezogen werden.
+<sup>1</sup> Selbstständig veranlagte, natürliche Personen können von ihrem Reineinkommen 5300 Franken abziehen. Bei rechtlich und tatsächlich ungetrennter Ehe können für jeden Ehegatten 5300 Franken abgezogen werden.
 
 <sup>2</sup> Verwitwete, geschiedene oder ledige Personen sowie Ehegatten, die je einen selbstständigen Wohnsitz haben oder getrennt veranlagt werden, können weitere 2400 Franken abziehen, sofern sie allein, mit eigenen Kindern oder unterstützungsbedürftigen Personen einen selbstständigen Haushalt führen.
 
 <sup>3</sup> Für Kinder können abgezogen werden
 
-- a 8000 Franken für jedes minderjährige oder in der beruflichen oder schulischen Ausbildung stehende Kind, für dessen Unterhalt die steuerpflichtige Person sorgt; werden die Eltern getrennt besteuert, so wird der Kinderabzug hälftig aufgeteilt, wenn das Kind unter gemeinsamer elterlicher Sorge steht und keine Unterhaltsbeiträge nach Artikel 38 Absatz 1 Buchstabe c für das Kind geltend gemacht werden,
-- b höchstens weitere 6200 Franken pro Kind bei auswärtiger Ausbildung oder für nachgewiesene zusätzliche Ausbildungskosten. Im Rahmen dieses Betrags sind die tatsächlichen Mehrkosten zu berücksichtigen,
-- c 1200 Franken pro Kind für Alleinstehende (verwitwete, geschiedene oder ledige Personen sowie getrennt veranlagte Ehegatten), die mit eigenen Kindern, für die der Abzug nach Buchstabe a oder Absatz 5 zulässig ist, einen eigenen Haushalt führen.
+- a 8300 Franken für jedes minderjährige oder in der beruflichen oder schulischen Ausbildung stehende Kind, für dessen Unterhalt die steuerpflichtige Person sorgt; werden die Eltern getrennt besteuert, so wird der Kinderabzug hälftig aufgeteilt, wenn das Kind unter gemeinsamer elterlicher Sorge steht und keine Unterhaltsbeiträge nach Artikel 38 Absatz 1 Buchstabe c für das Kind geltend gemacht werden,
+- b höchstens weitere 6400 Franken pro Kind bei auswärtiger Ausbildung oder für nachgewiesene zusätzliche Ausbildungskosten. Im Rahmen dieses Betrags sind die tatsächlichen Mehrkosten zu berücksichtigen,
+- c 1300 Franken pro Kind für Alleinstehende (verwitwete, geschiedene oder ledige Personen sowie getrennt veranlagte Ehegatten), die mit eigenen Kindern, für die der Abzug nach Buchstabe a oder Absatz 5 zulässig ist, einen eigenen Haushalt führen.
 
 <sup>4</sup> Die Abzüge gemäss Absatz 3 kann nicht beanspruchen, wer Kinderalimente von seinem Einkommen abziehen kann.
 
-<sup>5</sup> Für Leistungen der steuerpflichtigen Person an unterstützungsbedürftige erwerbsunfähige Personen können 4600 Franken abgezogen werden, wenn die steuerpflichtige Person mindestens in der Höhe des Abzugs an deren Unterhalt beiträgt. Der gleiche Abzug ist zulässig für Leistungen an Nachkommen und die Eltern, die dauernd pflegebedürftig oder die auf Kosten der steuerpflichtigen Person in einer Anstalt oder an einem Pflegeplatz versorgt sind, sowie für die Mehrkosten, die für behinderte Nachkommen entstehen.
+<sup>5</sup> Für Leistungen der steuerpflichtigen Person an unterstützungsbedürftige erwerbsunfähige Personen können 4800 Franken abgezogen werden, wenn die steuerpflichtige Person mindestens in der Höhe des Abzugs an deren Unterhalt beiträgt. Der gleiche Abzug ist zulässig für Leistungen an Nachkommen und die Eltern, die dauernd pflegebedürftig oder die auf Kosten der steuerpflichtigen Person in einer Anstalt oder an einem Pflegeplatz versorgt sind, sowie für die Mehrkosten, die für behinderte Nachkommen entstehen.
 
-<sup>6</sup> Selbstständig veranlagte natürliche Personen können 1000 Franken abziehen, sofern ihr anrechenbares Einkommen 15'000 Franken nicht übersteigt. Für jedes Kind, für das der Abzug nach Absatz 3 zulässig ist, erhöht sich der Abzug um 500 Franken. Pro 2000 Franken Mehreinkommen wird der Abzug um 150 Franken vermindert. Das anrechenbare Einkommen setzt sich zusammen aus
+<sup>6</sup> Selbstständig veranlagte natürliche Personen können 1100 Franken abziehen, sofern ihr anrechenbares Einkommen 16'700 Franken nicht übersteigt. Für jedes Kind, für das der Abzug nach Absatz 3 zulässig ist, erhöht sich der Abzug um 600 Franken. Pro 2000 Franken Mehreinkommen wird der Abzug um 150 Franken vermindert. Das anrechenbare Einkommen setzt sich zusammen aus
 
 - a dem steuerbaren Einkommen ohne den Abzug und
 - b zehn Prozent des steuerbaren Vermögens.
 
-<sup>7</sup> Bei rechtlich und tatsächlich ungetrennter Ehe können 2000 Franken abgezogen werden, sofern das anrechenbare Einkommen 20'000 Franken nicht übersteigt. Für jedes Kind, für das der Abzug nach Absatz 3 zulässig ist, erhöht sich der Abzug um 500 Franken. Pro 2000 Franken Mehreinkommen wird der Abzug um 300 Franken vermindert. Das anrechenbare Einkommen richtet sich nach Absatz 6.
+<sup>7</sup> Bei rechtlich und tatsächlich ungetrennter Ehe können 2200 Franken abgezogen werden, sofern das anrechenbare Einkommen 22'300 Franken nicht übersteigt. Für jedes Kind, für das der Abzug nach Absatz 3 zulässig ist, erhöht sich der Abzug um 600 Franken. Pro 2000 Franken Mehreinkommen wird der Abzug um 300 Franken vermindert. Das anrechenbare Einkommen richtet sich nach Absatz 6.
 
 <sup>8</sup> Steht den Eltern für ein gemeinsames minderjähriges Kind der Kinderabzug je hälftig zu (Abs. 3 Bst. a), können sie die mit dem Kinderabzug zusammenhängenden Abzüge (Versicherungsabzug nach Art. 38 Abs. 1 Bst. g Ziff. 4; Ausbildungskosten nach Abs. 3 Bst. b; Abzug bei bescheidenem Einkommen nach Abs. 6 und 7) je hälftig geltend machen.
 
@@ -790,19 +808,19 @@ beschliesst:
 
 <table>
 <tr><th>Einfache Steuer in Prozent</th><th>zu versteuerndes Einkommen in CHF</th></tr>
-<tr><td>1,55 für die ersten</td><td>3100</td></tr>
-<tr><td>1,65 für die weiteren</td><td>3100</td></tr>
-<tr><td>2,85 für die weiteren</td><td>9400</td></tr>
-<tr><td>3,65 für die weiteren</td><td>15'400</td></tr>
-<tr><td>3,80 für die weiteren</td><td>25'700</td></tr>
-<tr><td>4,30 für die weiteren</td><td>25'700</td></tr>
-<tr><td>4,85 für die weiteren</td><td>25'700</td></tr>
-<tr><td>5,20 für die weiteren</td><td>25'700</td></tr>
-<tr><td>5,70 für die weiteren</td><td>39'700</td></tr>
-<tr><td>5,85 für die weiteren</td><td>51'800</td></tr>
-<tr><td>5,95 für die weiteren</td><td>51'800</td></tr>
-<tr><td>6,20 für die weiteren</td><td>51'800</td></tr>
-<tr><td>6,40 für die weiteren</td><td>134'700</td></tr>
+<tr><td>1,55 für die ersten</td><td>3200</td></tr>
+<tr><td>1,65 für die weiteren</td><td>3200</td></tr>
+<tr><td>2,85 für die weiteren</td><td>9600</td></tr>
+<tr><td>3,65 für die weiteren</td><td>15'800</td></tr>
+<tr><td>3,80 für die weiteren</td><td>26'300</td></tr>
+<tr><td>4,30 für die weiteren</td><td>26'300</td></tr>
+<tr><td>4,85 für die weiteren</td><td>26'300</td></tr>
+<tr><td>5,20 für die weiteren</td><td>26'300</td></tr>
+<tr><td>5,70 für die weiteren</td><td>40'700</td></tr>
+<tr><td>5,85 für die weiteren</td><td>53'100</td></tr>
+<tr><td>5,95 für die weiteren</td><td>53'100</td></tr>
+<tr><td>6,20 für die weiteren</td><td>53'100</td></tr>
+<tr><td>6,40 für die weiteren</td><td>138'100</td></tr>
 <tr><td>6,50 für jedes weitere Einkommen</td><td></td></tr>
 </table>
 
@@ -810,19 +828,19 @@ beschliesst:
 
 <table>
 <tr><th>Einfache Steuer in Prozent</th><th>zu versteuerndes Einkommen in CHF</th></tr>
-<tr><td>1,95 für die ersten</td><td>3100</td></tr>
-<tr><td>2,90 für die weiteren</td><td>3100</td></tr>
-<tr><td>3,60 für die weiteren</td><td>9400</td></tr>
-<tr><td>4,15 für die weiteren</td><td>15'400</td></tr>
-<tr><td>4,45 für die weiteren</td><td>25'700</td></tr>
-<tr><td>5,00 für die weiteren</td><td>25'700</td></tr>
-<tr><td>5,60 für die weiteren</td><td>25'700</td></tr>
-<tr><td>5,75 für die weiteren</td><td>25'700</td></tr>
-<tr><td>5,90 für die weiteren</td><td>25'700</td></tr>
-<tr><td>6,05 für die weiteren</td><td>25'700</td></tr>
-<tr><td>6,15 für die weiteren</td><td>35'900</td></tr>
-<tr><td>6,30 für die weiteren</td><td>82'900</td></tr>
-<tr><td>6,40 für die weiteren</td><td>145'100</td></tr>
+<tr><td>1,95 für die ersten</td><td>3200</td></tr>
+<tr><td>2,90 für die weiteren</td><td>3200</td></tr>
+<tr><td>3,60 für die weiteren</td><td>9600</td></tr>
+<tr><td>4,15 für die weiteren</td><td>15'800</td></tr>
+<tr><td>4,45 für die weiteren</td><td>26'300</td></tr>
+<tr><td>5,00 für die weiteren</td><td>26'300</td></tr>
+<tr><td>5,60 für die weiteren</td><td>26'300</td></tr>
+<tr><td>5,75 für die weiteren</td><td>26'300</td></tr>
+<tr><td>5,90 für die weiteren</td><td>26'300</td></tr>
+<tr><td>6,05 für die weiteren</td><td>26'300</td></tr>
+<tr><td>6,15 für die weiteren</td><td>36'800</td></tr>
+<tr><td>6,30 für die weiteren</td><td>85'000</td></tr>
+<tr><td>6,40 für die weiteren</td><td>148'700</td></tr>
 <tr><td>6,50 für jedes weitere Einkommen</td><td></td></tr>
 </table>
 
@@ -842,7 +860,7 @@ beschliesst:
 
 <sup>1</sup> Wird die selbstständige Erwerbstätigkeit nach dem vollendeten 55. Altersjahr oder wegen Unfähigkeit zur Weiterführung infolge Invalidität definitiv aufgegeben, so ist die Summe der in den letzten zwei Geschäftsjahren realisierten stillen Reserven getrennt vom übrigen Einkommen zu besteuern. Einkaufsbeiträge gemäss Artikel 38 Absatz 1 Buchstabe d sind in erster Linie vom übrigen Einkommen abziehbar.
 
-<sup>2</sup> Die Steuer auf dem Betrag der realisierten stillen Reserven, für den die steuerpflichtige Person die Zulässigkeit eines Einkaufs gemäss Artikel 38 Absatz 1 Buchstabe d nachweist, wird zum Tarif für Kapitalleistungen aus Vorsorge nach Artikel 44 berechnet. Für den darüber hinaus gehenden Liquidationsgewinn bis zur Höhe von insgesamt 260'000 Franken findet der gleiche Tarif Anwendung.
+<sup>2</sup> Die Steuer auf dem Betrag der realisierten stillen Reserven, für den die steuerpflichtige Person die Zulässigkeit eines Einkaufs gemäss Artikel 38 Absatz 1 Buchstabe d nachweist, wird zum Tarif für Kapitalleistungen aus Vorsorge nach Artikel 44 berechnet. Für den darüber hinaus gehenden Liquidationsgewinn bis zur Höhe von insgesamt 265'000 Franken findet der gleiche Tarif Anwendung.
 
 <sup>3</sup> Für die Bestimmung des auf den weiteren Restbetrag der realisierten stillen Reserven anwendbaren Satzes nach Artikel 42 ist ein Fünftel dieses Restbetrags massgebend.
 
@@ -862,13 +880,13 @@ beschliesst:
 
 <table>
 <tr><th>Einfache Steuer in Prozent</th><th>zu versteuernde Kapitalleistung in CHF</th></tr>
-<tr><td>0,65 für die ersten</td><td>52'800</td></tr>
-<tr><td>0,90 für die weiteren</td><td>52'800</td></tr>
-<tr><td>1,15 für die weiteren</td><td>105'600</td></tr>
-<tr><td>1,30 für die weiteren</td><td>105'600</td></tr>
-<tr><td>1,50 für die weiteren</td><td>211'300</td></tr>
-<tr><td>1,80 für die weiteren</td><td>316'900</td></tr>
-<tr><td>1,90 für die weiteren</td><td>528'200</td></tr>
+<tr><td>0,65 für die ersten</td><td>54'100</td></tr>
+<tr><td>0,90 für die weiteren</td><td>54'100</td></tr>
+<tr><td>1,15 für die weiteren</td><td>108'300</td></tr>
+<tr><td>1,30 für die weiteren</td><td>108'300</td></tr>
+<tr><td>1,50 für die weiteren</td><td>216'500</td></tr>
+<tr><td>1,80 für die weiteren</td><td>324'800</td></tr>
+<tr><td>1,90 für die weiteren</td><td>541'400</td></tr>
 <tr><td>2,00 für jedes weitere Einkommen</td><td></td></tr>
 </table>
 
@@ -876,18 +894,18 @@ beschliesst:
 
 <table>
 <tr><th>Einfache Steuer in Prozent</th><th>zu versteuernde Kapitalleistung in CHF</th></tr>
-<tr><td>0,65 für die ersten</td><td>26'500</td></tr>
-<tr><td>0,85 für die weiteren</td><td>26'500</td></tr>
-<tr><td>1,10 für die weiteren</td><td>52'800</td></tr>
-<tr><td>1,15 für die weiteren</td><td>52'800</td></tr>
-<tr><td>1,30 für die weiteren</td><td>105'600</td></tr>
-<tr><td>1,60 für die weiteren</td><td>158'400</td></tr>
-<tr><td>1,85 für die weiteren</td><td>264'100</td></tr>
-<tr><td>1,90 für die weiteren</td><td>528'200</td></tr>
+<tr><td>0,65 für die ersten</td><td>27'100</td></tr>
+<tr><td>0,85 für die weiteren</td><td>27'100</td></tr>
+<tr><td>1,10 für die weiteren</td><td>54'100</td></tr>
+<tr><td>1,15 für die weiteren</td><td>54'100</td></tr>
+<tr><td>1,30 für die weiteren</td><td>108'300</td></tr>
+<tr><td>1,60 für die weiteren</td><td>162'400</td></tr>
+<tr><td>1,85 für die weiteren</td><td>270'700</td></tr>
+<tr><td>1,90 für die weiteren</td><td>541'400</td></tr>
 <tr><td>2,00 für jedes weitere Einkommen</td><td></td></tr>
 </table>
 
-<sup>4</sup> Kapitalleistungen unter 5200 Franken sind steuerfrei. Mehrere Kapitalleistungen des gleichen Jahres werden für die Jahressteuer zusammengerechnet. Bereits rechtskräftige Veranlagungen werden von Amtes wegen ergänzt, wenn die kantonale Steuerverwaltung von weiteren Kapitalleistungen im gleichen Jahr Kenntnis erhält.
+<sup>4</sup> Kapitalleistungen unter 5300 Franken sind steuerfrei. Mehrere Kapitalleistungen des gleichen Jahres werden für die Jahressteuer zusammengerechnet. Bereits rechtskräftige Veranlagungen werden von Amtes wegen ergänzt, wenn die kantonale Steuerverwaltung von weiteren Kapitalleistungen im gleichen Jahr Kenntnis erhält.
 
 <sup>5</sup> Restbeträge unter 100 Franken werden nicht berücksichtigt.
 
@@ -947,6 +965,8 @@ beschliesst:
 <sup>4</sup> Mitarbeiterbeteiligungen nach Artikel 20b Absatz 1 sind zum Verkehrswert zu bewerten. Sperrfristen sind mit einem Diskont nach Artikel 20b Absatz 2 zu berücksichtigen.
 
 <sup>5</sup> Mitarbeiterbeteiligungen nach den Artikeln 20b Absatz 3 und 20c sind bei Zuteilung mit null Franken zu bewerten und nur pro memoria zu deklarieren.
+
+<sup>6</sup> Photovoltaikanlagen und Solarthermieanlagen werden mit 20 Prozent des Anschaffungswertes bewertet.
 
 #### Art. 50
 
@@ -1029,19 +1049,20 @@ beschliesst:
 - c für Wasserkräfte zum Verkehrswert unter Berücksichtigung ihrer Grösse und Beständigkeit und des wirtschaftlichen Nutzens,
 - d für die übrigen Grundstücke und die ihnen gleichgestellten Rechte sowie für Konzessionen aufgrund des Verkehrswerts unter Berücksichtigung von Ertrags- und Realwert, soweit dieses Gesetz keine Ausnahme vorsieht; die Festlegung erfolgt massvoll unter Berücksichtigung der Förderung der Vorsorge, der Eigentumsbildung und der Belastung durch die Liegenschaftssteuer.
 
-<sup>2</sup> Bei Landwirtschaftsbetrieben, die nicht als landwirtschaftliche Gewerbe im Sinne des Bundesgesetzes vom 4. Oktober 1991 über das bäuerliche Bodenrecht (BGBB)[^56-1] gelten, wird der amtliche Wert angemessen reduziert, sofern zu deren Bewirtschaftung mindestens eine halbe Standardarbeitskraft notwendig ist\*.[^56-2]
+<sup>1a</sup> Bei den übrigen Grundstücken nach Absatz 1 Buchstabe d werden Photovoltaikanlagen und Solarthermieanlagen nicht bewertet.
 
-<sup>3</sup> Massgebend für die Festsetzung des amtlichen Wertes sind Bestand und Umfang der Grundstücke und Wasserkräfte am Stichtag.[^56-3]
+<sup>2</sup> Bei Landwirtschaftsbetrieben, die nicht als landwirtschaftliche Gewerbe im Sinne des BGBB gelten, wird der amtliche Wert angemessen reduziert, sofern zu deren Bewirtschaftung mindestens eine halbe Standardarbeitskraft notwendig ist\*.[^56-1]
 
-<sup>4</sup> Die im Grundbuch eingetragenen Rechte und Lasten sind zu berücksichtigen, soweit sie den Wert des Grundstücks beeinflussen.[^56-4]
+<sup>3</sup> Massgebend für die Festsetzung des amtlichen Wertes sind Bestand und Umfang der Grundstücke und Wasserkräfte am Stichtag.[^56-2]
 
-<sup>5</sup> Bei verschiedenartiger Nutzung des gleichen Grundstücks findet eine aufgeteilte Bewertung statt.[^56-5]
+<sup>4</sup> Die im Grundbuch eingetragenen Rechte und Lasten sind zu berücksichtigen, soweit sie den Wert des Grundstücks beeinflussen.[^56-3]
 
-[^56-1]: SR [211.412.11](https://db.clex.ch/link/Bund/211.412.11/de)
-[^56-2]: Durch die Redaktionskommission am 28. Juni 2013 in Anwendung von Artikel 25 des Publikationsgesetzes berichtigt.
+<sup>5</sup> Bei verschiedenartiger Nutzung des gleichen Grundstücks findet eine aufgeteilte Bewertung statt.[^56-4]
+
+[^56-1]: Durch die Redaktionskommission am 28. Juni 2013 in Anwendung von Artikel 25 des Publikationsgesetzes berichtigt.
+[^56-2]: Die Absätze 3 bis 5 entsprechen den bisherigen Absätzen 2 bis 4
 [^56-3]: Die Absätze 3 bis 5 entsprechen den bisherigen Absätzen 2 bis 4
 [^56-4]: Die Absätze 3 bis 5 entsprechen den bisherigen Absätzen 2 bis 4
-[^56-5]: Die Absätze 3 bis 5 entsprechen den bisherigen Absätzen 2 bis 4
 
 #### Art. 57
 
@@ -1126,20 +1147,20 @@ beschliesst:
 
 <table>
 <tr><th>Einfache Steuer (Promille)</th><th>zu versteuerndes Vermögen (CHF)</th></tr>
-<tr><td>0,0 für die ersten</td><td>35'000</td></tr>
-<tr><td>0,40 für die weiteren</td><td>40'000</td></tr>
-<tr><td>0,70 für die weiteren</td><td>135'000</td></tr>
-<tr><td>0,80 für die weiteren</td><td>215'000</td></tr>
-<tr><td>1,00 für die weiteren</td><td>360'000</td></tr>
-<tr><td>1,20 für die weiteren</td><td>535'000</td></tr>
-<tr><td>1,30 für die weiteren</td><td>2'300'000</td></tr>
-<tr><td>1,35 für die weiteren</td><td>2'500'000</td></tr>
+<tr><td>0,0 für die ersten</td><td>36'000</td></tr>
+<tr><td>0,40 für die weiteren</td><td>41'000</td></tr>
+<tr><td>0,70 für die weiteren</td><td>139'000</td></tr>
+<tr><td>0,80 für die weiteren</td><td>221'000</td></tr>
+<tr><td>1,00 für die weiteren</td><td>371'000</td></tr>
+<tr><td>1,20 für die weiteren</td><td>551'000</td></tr>
+<tr><td>1,30 für die weiteren</td><td>2'369'000</td></tr>
+<tr><td>1,35 für die weiteren</td><td>2'575'000</td></tr>
 <tr><td>1,25 für jedes weitere Vermögen</td><td></td></tr>
 </table>
 
 <sup>2</sup> …
 
-<sup>3</sup> Die Vermögenssteuer wird nicht erhoben, wenn das satzbestimmende Vermögen kleiner ist als 97'000 Franken.
+<sup>3</sup> Die Vermögenssteuer wird nicht erhoben, wenn das satzbestimmende Vermögen kleiner ist als 100'000 Franken.
 
 <sup>4</sup> Restbeträge unter 1000 Franken werden nicht berücksichtigt.
 
@@ -1264,7 +1285,7 @@ beschliesst:
 - b die Vereine, die Stiftungen und die übrigen juristischen Personen,
 - c …
 
-<sup>2</sup> Den übrigen juristischen Personen gleichgestellt sind die kollektiven Kapitalanlagen mit direktem Grundbesitz nach Artikel 58 KAG. Die Investmentgesellschaften mit festem Kapital nach Artikel 110 KAG werden wie Kapitalgesellschaften besteuert.
+<sup>2</sup> Den übrigen juristischen Personen gleichgestellt sind die kollektiven Kapitalanlagen mit direktem Grundbesitz nach Artikel 58 oder 118a KAG. Die Investmentgesellschaften mit festem Kapital nach Artikel 110 KAG werden wie Kapitalgesellschaften besteuert.
 
 <sup>3</sup> Ausländische juristische Personen sowie ausländische Handelsgesellschaften und ausländische Personengesamtheiten ohne juristische Persönlichkeit, die aufgrund wirtschaftlicher Zugehörigkeit steuerpflichtig sind, werden nach den Bestimmungen für inländische juristische Personen besteuert, denen sie rechtlich und tatsächlich am ähnlichsten sind.
 
@@ -1557,14 +1578,27 @@ beschliesst:
 
 <sup>1</sup> Zum geschäftsmässig begründeten Aufwand gehören auch
 
-- a die eidgenössischen, kantonalen und kommunalen Steuern, nicht aber Steuerbussen,
+- a die eidgenössischen, kantonalen und kommunalen Steuern,
 - b die Zuwendungen an Vorsorgeeinrichtungen zugunsten des eigenen Personals, sofern jede zweckwidrige Verwendung ausgeschlossen ist,
 - c die freiwilligen Leistungen von Geld und anderen Vermögenswerten bis zu 20 Prozent des Reingewinns an juristische Personen mit Sitz in der Schweiz, die im Hinblick auf öffentliche oder auf ausschliesslich gemeinnützige Zwecke von der Steuerpflicht befreit sind; ebenso abzugsfähig sind freiwillige Leistungen an Bund, Kanton, Gemeinden und deren Anstalten (Art. 83 Abs. 1 Bst. a bis d),
 - d die Rabatte, Skonti, Umsatzbonifikationen und Rückvergütungen auf dem Entgelt für Lieferungen und Leistungen sowie zur Verteilung an die Versicherten bestimmte Überschüsse von Versicherungsgesellschaften,
 - e die Kosten der berufsorientierten Aus- und Weiterbildung des eigenen Personals, einschliesslich Umschulungskosten,
-- f der Forschungs- und Entwicklungsaufwand.
+- f der Forschungs- und Entwicklungsaufwand,
+- g gewinnabschöpfende Sanktionen, soweit sie keinen Strafzweck haben.
 
-<sup>2</sup> Nicht abziehbar sind Zahlungen von Bestechungsgeldern im Sinne des schweizerischen Strafrechts an schweizerische oder fremde Amtsträgerinnen und Amtsträger.
+<sup>1a</sup> Bei der Bestimmung des Reingewinns nach Absatz 1 Buchstabe c werden die Artikel 85 Absatz 3, 85b und 90 Absatz 3 nicht berücksichtigt.
+
+<sup>2</sup> Nicht zum geschäftsmässig begründeten Aufwand gehören insbesondere
+
+- a Zahlungen von Bestechungsgeldern im Sinne des schweizerischen Strafrechts,
+- b Aufwendungen zur Ermöglichung von Straftaten oder als Gegenleistung für die Begehung von Straftaten,
+- c Bussen,
+- d finanzielle Verwaltungssanktionen, soweit sie einen Strafzweck haben.
+
+<sup>2a</sup> Sind Sanktionen nach Absatz 2 Buchstaben c und d von einer ausländischen Straf- oder Verwaltungsbehörde verhängt worden, so sind sie abziehbar, wenn
+
+- a die Sanktion gegen den schweizerischen Ordre public verstösst oder
+- b die steuerpflichtige Person glaubhaft darlegt, dass sie alles Zumutbare unternommen hat, um sich rechtskonform zu verhalten.
 
 <sup>3</sup> Der Forschungs- und Entwicklungsaufwand, welcher der steuerpflichtigen Person direkt oder durch Dritte im Inland indirekt entstanden ist, wird auf Antrag um 50 Prozent über den geschäftsmässig begründeten Forschungs- und Entwicklungsaufwand hinaus zum Abzug zugelassen.
 
@@ -1650,7 +1684,7 @@ beschliesst:
 
 **Ideelle Zwecke**
 
-<sup>1</sup> Gewinne von juristischen Personen mit ideellen Zwecken werden nicht besteuert, sofern sie höchstens 20'000 Franken betragen und ausschliesslich und unwiderruflich diesen Zwecken gewidmet sind.
+<sup>1</sup> Gewinne von juristischen Personen mit ideellen Zwecken werden nicht besteuert, sofern sie höchstens 20'800 Franken betragen und ausschliesslich und unwiderruflich diesen Zwecken gewidmet sind.
 
 ### 3.2.2 Steuerberechnung
 
@@ -1660,8 +1694,8 @@ beschliesst:
 
 <sup>1</sup> Die einfache Steuer für die Gewinnsteuer beträgt
 
-- a 1,55 Prozent auf 20 Prozent des steuerbaren Reingewinnes, mindestens jedoch auf 10'000 Franken,
-- b 3,1 Prozent auf den weiteren 50'000 Franken,
+- a 1,55 Prozent auf 20 Prozent des steuerbaren Reingewinnes, mindestens jedoch auf 11'100 Franken,
+- b 3,1 Prozent auf den weiteren 55'700 Franken,
 - c 4,6 Prozent auf dem übrigen Reingewinn.
 
 <sup>2</sup> Restbeträge unter 100 Franken werden nicht berücksichtigt.
@@ -1712,7 +1746,7 @@ beschliesst:
 
 <sup>1</sup> Die einfache Steuer der Vereine, Stiftungen und übrigen juristischen Personen beträgt zwei Prozent des Reingewinns.
 
-<sup>2</sup> Gewinne unter 20'000 Franken werden nicht besteuert.
+<sup>2</sup> Gewinne unter 20'800 Franken werden nicht besteuert.
 
 #### Art. 101
 
@@ -1768,7 +1802,7 @@ beschliesst:
 
 <sup>1</sup> Die einfache Steuer der Kapitalsteuer beträgt 0,05 Promille.
 
-<sup>2</sup> Die Besteuerung der Vereine, Stiftungen und übrigen juristischen Personen beginnt bei einem Eigenkapital von 77'000 Franken.
+<sup>2</sup> Die Besteuerung der Vereine, Stiftungen und übrigen juristischen Personen beginnt bei einem Eigenkapital von 80'000 Franken.
 
 <sup>3</sup> …
 
@@ -1796,6 +1830,8 @@ beschliesst:
 
 <sup>1</sup> Der steuerbare Reingewinn bemisst sich nach dem Ergebnis der Steuerperiode.
 
+<sup>1a</sup> Lautet der Geschäftsabschluss auf eine ausländische Währung, so ist der steuerbare Reingewinn in Franken umzurechnen. Massgebend ist der durchschnittliche Devisenkurs (Verkauf) der Steuerperiode.
+
 <sup>2</sup> Wird eine juristische Person aufgelöst oder verlegt sie ihren Sitz, die Verwaltung, einen Geschäftsbetrieb oder eine Betriebsstätte ins Ausland, so werden die aus nicht versteuertem Gewinn gebildeten stillen Reserven zusammen mit dem Reingewinn des letzten Geschäftsjahres besteuert.
 
 <sup>3</sup> Umfasst das Geschäftsjahr mehr oder weniger als zwölf Monate, werden für die Bestimmung des Steuersatzes die ordentlichen Gewinne und Aufwendungen auf zwölf Monate umgerechnet. Ausserordentliche Gewinne und Aufwendungen sowie verrechenbare Verluste werden nicht umgerechnet.
@@ -1805,6 +1841,8 @@ beschliesst:
 **Bemessung des Eigenkapitals**
 
 <sup>1</sup> Das steuerbare Eigenkapital bemisst sich nach dem Stand am Ende der Steuerperiode und nach Gewinnverwendung.
+
+<sup>1a</sup> Lautet der Geschäftsabschluss auf eine ausländische Währung, so ist das steuerbare Eigenkapital in Franken umzurechnen. Massgebend ist der Devisenkurs (Verkauf) am Ende der Steuerperiode.
 
 <sup>2</sup> Bei über- oder unterjährigen Geschäftsabschlüssen bestimmt sich die Höhe der Kapitalsteuer nach der Dauer des Geschäftsjahres.
 
@@ -1864,7 +1902,7 @@ beschliesst:
 
 <sup>2b</sup> Die Eidgenössische Steuerverwaltung legt zusammen mit den Kantonen einheitlich fest, wie insbesondere der 13. Monatslohn, Gratifikationen, unregelmässige Beschäftigung, Stundenlöhne sowie Teilzeit- oder Nebenerwerb und welche satzbestimmenden Elemente zu berücksichtigen sind. Weiter regelt sie, wie bei Tarifwechseln, rückwirkenden Gehaltsanpassungen und -korrekturen sowie Leistungen vor Beginn und nach Beendigung einer Anstellung zu verfahren ist.
 
-<sup>3</sup> Für die Kantonssteuer massgebend ist die Steueranlage des Vorjahres.
+<sup>3</sup> Für die Kantonssteuer massgebend ist die Steueranlage des laufenden Jahres.
 
 <sup>4</sup> Für die Gemeindesteuer massgebend ist das gewogene Mittel der Steueranlagen des Vorjahres der Gemeinden mit quellenbesteuerten Personen.
 
@@ -2079,7 +2117,7 @@ beschliesst:
 
 <sup>1</sup> Der Grundstückgewinnsteuer unterliegen Gewinne aus der Veräusserung eines Grundstücks oder einer Wasserkraft, von Teilen davon sowie von Rechten an solchen.
 
-<sup>2</sup> Gewinne unter 5200 Franken sind steuerfrei.
+<sup>2</sup> Gewinne unter 5300 Franken sind steuerfrei.
 
 #### Art. 129
 
@@ -2254,6 +2292,7 @@ beschliesst:
 <sup>3</sup> Nicht als Aufwendungen gelten insbesondere
 
 - a Ausgaben für den ordentlichen Unterhalt und die Verwaltung,
+- a1 Ausgaben, die nach Artikel 36 Absätze 1a und 3 den Unterhaltskosten gleichgestellt sind,
 - b Ausgleichszahlungen infolge Erbteilung oder Erbvorbezug,
 - c entrichtete Erbschafts- oder Schenkungssteuern.
 
@@ -2261,7 +2300,7 @@ beschliesst:
 
 **Verlustanrechnung**
 
-<sup>1</sup> Vom steuerbaren Grundstückgewinn werden die Verluste abgezogen, die die steuerpflichtige Person im gleichen, im vorangegangenen oder im nachfolgenden Kalenderjahr bei der Veräusserung von Grundstücken oder Wasserkräften und aus der Einräumung von Rechten an solchen erleidet oder erlitten hat, sofern für die betreffenden Geschäfte die subjektive Steuerpflicht im Kanton Bern gegeben war. Verluste unter 5200 Franken[^143-1] werden nicht angerechnet.
+<sup>1</sup> Vom steuerbaren Grundstückgewinn werden die Verluste abgezogen, die die steuerpflichtige Person im gleichen, im vorangegangenen oder im nachfolgenden Kalenderjahr bei der Veräusserung von Grundstücken oder Wasserkräften und aus der Einräumung von Rechten an solchen erleidet oder erlitten hat, sofern für die betreffenden Geschäfte die subjektive Steuerpflicht im Kanton Bern gegeben war. Verluste unter 5300 Franken[^143-1] werden nicht angerechnet.
 
 <sup>2</sup> Schliesst das Geschäftsjahr einer buchführenden, steuerpflichtigen Person in der Bemessungsperiode, in der ein Grundstückgewinn auf einem zum Geschäftsvermögen gehörenden Grundstück erzielt wurde, mit einem Verlust ab, so kann dieser vom betreffenden steuerbaren Grundstückgewinn abgezogen werden.
 
@@ -2287,7 +2326,7 @@ beschliesst:
 
 <sup>1</sup> Für die Steuerberechnung werden Restbeträge des steuerbaren Grundstückgewinns unter 100 Franken nicht mitgerechnet.
 
-<sup>2</sup> Für die Besteuerung werden alle während eines Kalenderjahres erzielten Grundstückgewinne von mindestens 5200 Franken[^145-1] zusammengerechnet.
+<sup>2</sup> Für die Besteuerung werden alle während eines Kalenderjahres erzielten Grundstückgewinne von mindestens 5300 Franken[^145-1] zusammengerechnet.
 
 [^145-1]: Durch die Redaktionskommission am 26. November 2010 in Anwendung von Artikel 25 des Publikationsgesetzes berichtigt.
 
@@ -2301,13 +2340,13 @@ beschliesst:
 
 <table>
 <tr><th>Einheitsansatz (Prozent)</th><th>Zu versteuernder Gewinn (CHF)</th></tr>
-<tr><td>1,44 für die ersten</td><td>2700</td></tr>
-<tr><td>2,40 für die nächsten</td><td>2700</td></tr>
-<tr><td>4,08 für die nächsten</td><td>7900</td></tr>
-<tr><td>4,92 für die nächsten</td><td>13'000</td></tr>
-<tr><td>6,41 für die nächsten</td><td>26'100</td></tr>
-<tr><td>7,26 für die nächsten</td><td>78'100</td></tr>
-<tr><td>7,81 für die nächsten</td><td>195'300</td></tr>
+<tr><td>1,44 für die ersten</td><td>2800</td></tr>
+<tr><td>2,40 für die nächsten</td><td>2800</td></tr>
+<tr><td>4,08 für die nächsten</td><td>8200</td></tr>
+<tr><td>4,92 für die nächsten</td><td>13'400</td></tr>
+<tr><td>6,41 für die nächsten</td><td>26'800</td></tr>
+<tr><td>7,26 für die nächsten</td><td>80'400</td></tr>
+<tr><td>7,81 für die nächsten</td><td>201'100</td></tr>
 <tr><td>8,10 für die weiteren Gewinne</td><td></td></tr>
 </table>
 
@@ -2600,6 +2639,8 @@ beschliesst:
 
 <sup>2</sup> Reicht die steuerpflichtige Person trotz Mahnung die nötigen Bescheinigungen nicht ein, so kann die kantonale Steuerverwaltung diese von Dritten einfordern. Das gesetzlich geschützte Berufsgeheimnis bleibt vorbehalten.
 
+<sup>3</sup> Die Steuerverwaltung kann vorsehen, dass ihr bestimmte Bescheinigungen mit Zustimmung der steuerpflichtigen Person auf dem elektronischen Weg direkt übermittelt werden können.
+
 #### Art. 169
 
 **Auskunftspflicht Dritter**
@@ -2642,16 +2683,21 @@ beschliesst:
 
 **Meldepflicht Dritter**
 
-<sup>1</sup> Der kantonalen Steuerverwaltung müssen für jede Steuerperiode Bescheinigungen einreichen
+<sup>1</sup> Der kantonalen Steuerverwaltung müssen als Dritte für jede Steuerperiode Bescheinigungen einreichen
 
 - a juristische Personen über die den Mitgliedern der Verwaltung und anderer Organe ausgerichteten Leistungen; Stiftungen reichen zusätzlich eine Bescheinigung über die ihren Begünstigten erbrachten Leistungen ein,
 - b Einrichtungen der beruflichen Vorsorge und der gebundenen Selbstvorsorge über die den Vorsorgenehmerinnen und Vorsorgenehmern oder Begünstigten erbrachten Leistungen,
 - c einfache Gesellschaften und Personengesellschaften über alle Verhältnisse, die für die Veranlagung der Teilhaberinnen und Teilhaber von Bedeutung sind, insbesondere über ihren Anteil an Einkommen und Vermögen der Gesellschaft,
-- d Arbeitgeber über sämtliche von ihnen ausgerichteten Löhne, Spesenvergütungen und andere Leistungen.
+- d Arbeitgeber über sämtliche von ihnen ausgerichteten Löhne, Spesenvergütungen und anderen Leistungen,
+- e die Arbeitslosenkasse über ausgerichtete Entschädigungen gemäss Artikel 30 Absatz 1 der Verordnung vom 31. August 1983 über die obligatorische Arbeitslosenversicherung und die Insolvenzentschädigung (Arbeitslosenversicherungsverordnung, AVIV)[^172-1].
 
 <sup>2</sup> Die Angaben gemäss Absatz 1 Buchstabe d sind auf amtlichem Formular oder in anderer von der kantonalen Steuerverwaltung genehmigten Form einzureichen. Ebenfalls zu bescheinigen sind geldwerte Vorteile aus Mitarbeiterbeteiligungen sowie die Zuteilung und die Ausübung von Mitarbeiteroptionen.
 
 <sup>3</sup> Der steuerpflichtigen Person ist ein Doppel der Bescheinigung zuzustellen.
+
+<sup>4</sup> Der Regierungsrat kann vorsehen, dass weitere Dritte Bescheinigungen direkt der Steuerverwaltung einreichen müssen, sofern das Bundesrecht eine solche Ergänzung des kantonalen Rechts gestattet.
+
+[^172-1]: SR [837.02](https://db.clex.ch/link/Bund/837.02/de)
 
 #### Art. 173
 
@@ -2828,7 +2874,7 @@ beschliesst:
 
 **Pflichten der Schuldnerin oder des Schuldners**
 
-<sup>1</sup> Schuldnerinnen oder Schuldner der steuerbaren Leistung sind insbesondere verpflichtet,
+<sup>1</sup> Schuldnerinnen und Schuldner der steuerbaren Leistung sind insbesondere verpflichtet,
 
 - a der zuständigen Behörde Personen zu melden, die der Besteuerung an der Quelle unterworfen sind,
 - b bei Fälligkeit von Geldleistungen die geschuldete Steuer zurückzubehalten und bei andern Leistungen (namentlich Naturalleistungen und Trinkgeldern) bei der quellensteuerpflichtigen Person einzufordern,
@@ -2837,7 +2883,7 @@ beschliesst:
 - e die anteilsmässigen Steuern auf im Ausland ausgeübten Mitarbeiteroptionen zu entrichten, und zwar auch dann, wenn der geldwerte Vorteil von einer ausländischen Konzerngesellschaft ausgerichtet wird.
 - f …
 
-<sup>2</sup> Schuldnerinnen oder Schuldner der steuerbaren Leistung haften für die Entrichtung der Quellensteuer.
+<sup>2</sup> Schuldnerinnen und Schuldner der steuerbaren Leistung haften für die Entrichtung der Quellensteuer.
 
 <sup>3</sup> Sie erhalten für ihre Mitwirkung eine Bezugsprovision von ein bis zwei Prozent der rechtzeitig abgerechneten und abgelieferten Beträge. Der Regierungsrat bestimmt die Höhe der Bezugsprovision durch Verordnung. Für Kapitalleistungen beträgt die Bezugsprovision ein Prozent des gesamten Quellensteuerbetrags, jedoch höchstens 50 Franken pro Kapitalleistung für die Quellensteuer von Bund, Kanton und Gemeinde.
 
@@ -2915,11 +2961,11 @@ beschliesst:
 
 <sup>2</sup> Die Einsprache kann auf eine von der Steuerverwaltung ausgesprochene Busse beschränkt werden.
 
-<sup>3</sup> Eine Veranlagung nach pflichtgemässem Ermessen kann die steuerpflichtige Person nur wegen offensichtlicher Unrichtigkeit anfechten.
+<sup>3</sup> Eine Veranlagung nach pflichtgemässem Ermessen kann die steuerpflichtige Person nur wegen offensichtlicher Unrichtigkeit anfechten. Die Einsprache ist zu begründen und muss allfällige Beweismittel nennen.
 
 <sup>4</sup> Im Rahmen der Veranlagung der Vermögenssteuer können rechtskräftig festgesetzte amtliche Werte nicht angefochten werden.
 
-<sup>5</sup> Die Einsprache ist zu begründen und muss allfällige Beweismittel nennen.
+<sup>5</sup> …
 
 #### Art. 192
 
