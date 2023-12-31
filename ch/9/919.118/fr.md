@@ -3,18 +3,18 @@ sr: "919.118"
 title: "Ordonnance du 7 décembre 1998 sur l'évaluation de la durabilité de l'agriculture"
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/58"
 language: fr
-version: 2023-01-01
+version: 2024-01-01
 adopted: 1998-12-07
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/58/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-1999-58-20230101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/58/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/58/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-1999-58-20240101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/58/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance sur l’évaluation de la durabilité de l’agriculture
 
-du 7 décembre 1998 (État le 1<sup>er</sup> janvier 2023)
+du 7 décembre 1998 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -169,8 +169,10 @@ L’office se base pour l’évaluation écologique notamment sur les indicateur
 
 D’ici à 2030, les pertes doivent être réduites comme suit par rapport à la valeur moyenne des années 2014 à 2016:
 
-- a. au moins 20 % pour l’azote;
+- a.[^10a-1] au moins 15 % pour l’azote;
 - b. au moins 20 % pour le phosphore.
+
+[^10a-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 707](https://fedlex.data.admin.ch/eli/oc/2023/707)).
 
 #### Art. 10b
 
@@ -178,7 +180,7 @@ D’ici à 2030, les pertes doivent être réduites comme suit par rapport à la
 
 Les pertes d’azote et de phosphore visées à l’art. 10*a* sont calculées à l’aide d’une méthode nationale basée sur le bilan des intrants et des extrants pour l’agriculture suisse. La méthode déterminante est décrite dans la publication «Bilan de fumure de l’agriculture suisse pour les années 1975 à 2018»[^10b-1].
 
-[^10b-1]: Agroscope (2020): Bilan de fumure de l’agriculture suisse pour les années 1975 à 2018, chap. 2 (Matériel et méthodes). Agroscope Science n<sup>o</sup> 100 / 2020, disponible sous www.agroscope.admin.ch &gt; Publications &gt; Agroscope Science.
+[^10b-1]: Agroscope (2020): Bilan de fumure de l’agriculture suisse pour les années 1975 à 2018, chap. 2 (Matériel et méthodes). Agroscope Science n<sup>o</sup> 100 / 2020, disponible sous [www.agroscope.admin.ch](http://www.agroscope.admin.ch) &gt; Publications &gt; Agroscope Science.
 
 #### Art. 10c
 

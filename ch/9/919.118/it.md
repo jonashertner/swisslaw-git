@@ -3,18 +3,18 @@ sr: "919.118"
 title: "Ordinanza del 7 dicembre 1998 concernente l'analisi della sostenibilità in agricoltura"
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/58"
 language: it
-version: 2023-01-01
+version: 2024-01-01
 adopted: 1998-12-07
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/58/20230101/it/xml/fedlex-data-admin-ch-eli-cc-1999-58-20230101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/58/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/58/20240101/it/xml/fedlex-data-admin-ch-eli-cc-1999-58-20240101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/58/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza concernente l’analisi della sostenibilità in agricoltura
 
-del 7 dicembre 1998 (Stato 1° gennaio 2023) (Stato 1° gennaio 2023)
+del 7 dicembre 1998 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -111,7 +111,7 @@ Inoltre:
 
 <sup>2</sup> Il salario comparabile corrisponde alla media dei salari di tutti gli impiegati attivi nei settori secondario e terziario. Comprende il salario annuale lordo standardizzato, così come i pagamenti speciali e la tredicesima.
 
-<sup>3</sup> Il salari degli impiegati a tempo parziale è convertito nel salario annuale corrisposto per un impiego a tempo pieno.
+<sup>3</sup> Il salario degli impiegati a tempo parziale è convertito nel salario annuale corrisposto per un impiego a tempo pieno.
 
 #### Art. 7
 
@@ -169,8 +169,10 @@ Per l’analisi ecologica l’Ufficio federale si fonda sui seguenti indicatori:
 
 Rispetto al valore medio degli anni 2014–2016, entro il 2030 le perdite sono ridotte come segue:
 
-- a. azoto: di almeno il 10 per cento;
+- a.[^10a-1] azoto: di almeno il 15 per cento;
 - b. fosforo: di almeno il 20 per cento.
+
+[^10a-1]: Nuovo testo giusta il n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 707](https://fedlex.data.admin.ch/eli/oc/2023/707)).
 
 #### Art. 10b
 
@@ -178,7 +180,7 @@ Rispetto al valore medio degli anni 2014–2016, entro il 2030 le perdite sono r
 
 Per calcolare le perdite di azoto e di fosforo di cui all’articolo 10*a* si utilizza un metodo di bilancio nazionale input-output per l’agricoltura svizzera. È determinante il metodo di calcolo descritto nella pubblicazione «Bilancio delle sostanze nutritive dell’agricoltura svizzera per gli anni 1975–2018»[^10b-1].
 
-[^10b-1]: Agroscope (2020): Bilancio delle sostanze nutritive dell’agricoltura svizzera per gli anni 1975–2018, capitolo 2 (Materiale e metodi). Agroscope Science N. 100 / 2020, consultabile sotto www. agroscope.admin.ch &gt; Pubblicazioni &gt; Agroscope Science.
+[^10b-1]: Agroscope (2020): Bilancio delle sostanze nutritive dell’agricoltura svizzera per gli anni 1975–2018, capitolo 2 (Materiale e metodi). Agroscope Science N. 100 / 2020, consultabile sotto [www.agroscope.admin.ch](http://www.agroscope.admin.ch/) &gt; Pubblicazioni &gt; Agroscope Science.
 
 #### Art. 10c
 

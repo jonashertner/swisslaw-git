@@ -3,18 +3,18 @@ sr: "919.118"
 title: Verordnung vom 7. Dezember 1998 über die Beurteilung der Nachhaltigkeit in der Landwirtschaft
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/58"
 language: de
-version: 2023-01-01
+version: 2024-01-01
 adopted: 1998-12-07
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/58/20230101/de/xml/fedlex-data-admin-ch-eli-cc-1999-58-20230101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/58/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/58/20240101/de/xml/fedlex-data-admin-ch-eli-cc-1999-58-20240101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/58/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über die Beurteilung der Nachhaltigkeit in der Landwirtschaft
 
-vom 7. Dezember 1998 (Stand am 1. Januar 2023)
+vom 7. Dezember 1998 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -169,8 +169,10 @@ Das Bundesamt stützt sich für die ökologische Beurteilung auf folgende Indika
 
 Im Vergleich zum Mittelwert der Jahre 2014–2016 werden bis zum Jahr 2030 die Verluste wie folgt reduziert:
 
-- a. Stickstoff: um mindestens 20 Prozent;
+- a.[^10a-1] Stickstoff: um mindestens 15 Prozent;
 - b. Phosphor: um mindestens 20 Prozent.
+
+[^10a-1]: Fassung gemäss Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 707](https://fedlex.data.admin.ch/eli/oc/2023/707)).
 
 #### Art. 10b
 
@@ -178,7 +180,7 @@ Im Vergleich zum Mittelwert der Jahre 2014–2016 werden bis zum Jahr 2030 die V
 
 Zur Berechnung der Stickstoff- und Phosphorverluste nach Artikel 10*a* wird eine nationale Input-Output-Bilanz-Methode für die Schweizer Landwirtschaft verwendet. Massgebend ist die in der Publikation «Nährstoffbilanz der schweizerischen Landwirtschaft für die Jahre 1975 bis 2018»[^10b-1] beschriebene Berechnungsmethode.
 
-[^10b-1]: Agroscope (2020): Nährstoffbilanz der schweizerischen Landwirtschaft für die Jahre 1975 bis 2018, Kapitel 2 (Material und Methoden). Agroscope Science Nr. 100 / 2020, abrufbar unter: www.agroscope.admin.ch &gt; Publikationen &gt; Agroscope Science.
+[^10b-1]: Agroscope (2020): Nährstoffbilanz der schweizerischen Landwirtschaft für die Jahre 1975 bis 2018, Kapitel 2 (Material und Methoden). Agroscope Science Nr. 100 / 2020, abrufbar unter: [www.agroscope.admin.ch](https/:www.agroscope.admin.ch%20)&gt; Publikationen &gt; Agroscope Science.
 
 #### Art. 10c
 
