@@ -4,11 +4,11 @@ title: Legge federale del 21 marzo 1997 sulle misure per la salvaguardia della s
 short: LMSI
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546"
 language: it
-version: 2023-09-01
+version: 2024-01-01
 adopted: 1997-03-21
 in_force: 1998-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546/20230901/it/xml/fedlex-data-admin-ch-eli-cc-1998-1546_1546_1546-20230901-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/1546_1546_1546/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546/20240101/it/xml/fedlex-data-admin-ch-eli-cc-1998-1546_1546_1546-20240101-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/1546_1546_1546/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/1546_1546_1546/20230901/it"
 
 (LMSI)
 
-del 21 marzo 1997 (Stato 1° settembre 2023)
+del 21 marzo 1997 (Stato 1° gennaio 2024)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -48,15 +48,16 @@ La presente legge ha lo scopo di garantire i fondamenti democratici e costituzio
 
 Sono misure preventive di polizia:
 
-- a. i controlli di sicurezza relativi alle persone;
+- a.[^2-2] ...
 - b. le misure atte a proteggere le autorità federali, le persone che beneficiano della protezione del diritto internazionale pubblico, nonché le missioni diplomatiche permanenti, i posti consolari e le organizzazioni internazionali;
 - c. la messa al sicuro, il sequestro e la confisca di materiale di propaganda con contenuti che incitano alla violenza;
 - d. il sequestro di oggetti pericolosi secondo l’articolo 13*f*, sempre che sia necessario per l’adempimento dei compiti secondo la presente legge;
-- d<sup>bis</sup>.[^2-2] le misure di cui alla sezione 5 atte a prevenire attività terroristiche;
+- d<sup>bis</sup>.[^2-3] le misure di cui alla sezione 5 atte a prevenire attività terroristiche;
 - e. le misure di cui alla sezione 5*a* atte a prevenire la violenza in occasione di manifestazioni sportive.
 
 [^2-1]: Nuovo testo giusta l’all. n. II 1 della LF del 25 set. 2015 sulle attività informative, in vigore dal 1° set. 2017 ([RU 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 1885](https://fedlex.data.admin.ch/eli/fga/2014/407)).
-[^2-2]: Introdotta dal n. I 1 della LF del 25 set. 2020 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 3935](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^2-2]: Abrogata dall’all. 1 n. 1 della L del 18 dic. 2020 sulla sicurezza delle informazioni, con effetto dal 1° gen. 2024 ([RU 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [FF 2017 2563](https://fedlex.data.admin.ch/eli/fga/2017/647)).
+[^2-3]: Introdotta dal n. I 1 della LF del 25 set. 2020 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 3935](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 
 #### Art. 3
 
@@ -163,7 +164,7 @@ Fedpol informa gli altri organi di sicurezza della Confederazione e i Cantoni no
 In caso di diffusione via Internet di materiale di propaganda ai sensi del capoverso 1, fedpol, previa consultazione del SIC, può:
 
 - a. ordinare la cancellazione del sito Internet in questione, se il materiale di pro-paganda si trova su un server svizzero;
-- [tab] a<sup>bis</sup>.[^13e-4]ordinare la revoca di nomi di dominio di secondo livello impiegati per la diffusione del materiale e subordinati a domini Internet la cui gestione è di competenza della Svizzera;
+- a<sup>bis</sup>.[^13e-4] ordinare la revoca di nomi di dominio di secondo livello impiegati per la diffusione del materiale e subordinati a domini Internet la cui gestione è di competenza della Svizzera;
 - b. raccomandare ai fornitori svizzeri di accesso Internet (provider) il blocco del sito Internet, se il materiale di propaganda non si trova su un server svizzero.
 
 [^13e-1]: Introdotto dal n. I della LF 23 dic. 2011, in vigore dal 16 lug. 2012 ([RU 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [FF 2007 4613](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 6923](https://fedlex.data.admin.ch/eli/fga/2010/1444)).
@@ -214,78 +215,19 @@ I dati personali possono essere raccolti con:
 
 [^1518-1]: Abrogato dall’all. n. II 1 della LF del 25 set. 2015 sulle attività informative, con effetto dal 1° set. 2017 ([RU 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 1885](https://fedlex.data.admin.ch/eli/fga/2014/407)).
 
-## Sezione 4: Controlli di sicurezza relativi alle persone
+## Sezione 4: ...
 
-#### Art. 19
+#### Art. 19 a 21
 
-**Cerchia delle persone sottoposte a controllo**
+[^1921-1]
 
-<sup>1</sup>
-
-Il Consiglio federale può prevedere controlli di sicurezza per agenti della Confederazione, militari, militi della protezione civile e terzi che collaborano a progetti classificati nell’ambito della sicurezza interna ed esterna e che nell’esercizio della loro attività:[^19-1]
-
-- a. hanno conoscenza, in modo regolare e approfondito, dell’attività governativa o di importanti affari di politica della sicurezza e possono avere influsso sugli stessi;
-- b. hanno regolarmente accesso a segreti concernenti la sicurezza interna o esterna o ad informazioni che, se svelate, potrebbero minacciare l’adempimento di compiti importanti della Confederazione;
-- c.[^19-2] hanno, in quanto militari o militi della protezione civile, accesso a informazioni, materiali o impianti classificati;
-- d. collaborano, in quanto partner contrattuali o impiegati di questi ultimi, a progetti classificati della Confederazione o devono essere oggetto di controllo in virtù di convenzioni sulla protezione di segreti;
-- e. hanno regolarmente accesso a dati personali degni di particolare protezione, la cui divulgazione potrebbe gravemente pregiudicare i diritti individuali delle persone interessate.
-
-<sup>2</sup> I Cantoni possono ugualmente introdurre un controllo di sicurezza per i loro agenti che cooperano direttamente a compiti della Confederazione secondo la presente legge. Essi possono richiedere la collaborazione del SIC.
-
-<sup>3</sup> Il controllo di sicurezza è effettuato prima dell’elezione alla carica o funzione o dell’attribuzione del mandato. Il controllo può essere effettuato unicamente previo consenso della persona interessata. I militari possono essere sottoposti al controllo anche senza il loro consenso, a condizione che il controllo sia necessario per l’esercizio della funzione militare attuale o prevista. Il Consiglio federale può prevedere la ripetizione periodica del controllo.[^19-3]
-
-<sup>4</sup> Il Consiglio federale emana una lista degli uffici dell’Amministrazione federale e delle funzioni dell’esercito per i quali è necessario il controllo di sicurezza. I capi dei Dipartimenti e il cancelliere della Confederazione possono in casi eccezionali fare controllare le persone il cui ufficio o la cui funzione non figurano ancora nella lista, ma che rispondono alle esigenze secondo il capoverso 1.
-
-[^19-1]: Nuovo testo giusta il n. II 1 della LF del 17 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 5891](https://fedlex.data.admin.ch/eli/oc/2011/816); [FF 2010 5293](https://fedlex.data.admin.ch/eli/fga/2010/1098)).
-[^19-2]: Nuovo testo giusta il n. II 1 della LF del 17 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 5891](https://fedlex.data.admin.ch/eli/oc/2011/816); [FF 2010 5293](https://fedlex.data.admin.ch/eli/fga/2010/1098)).
-[^19-3]: Nuovo testo giusta l’all. n. 1 della LF del 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-
-#### Art. 20
-
-**Contenuto del controllo di sicurezza**
-
-<sup>1</sup> Il controllo consiste nel raccogliere i dati rilevanti in materia di sicurezza concernenti il modo di vita della persona interessata, segnatamente le relazioni personali strette e quelle familiari, la situazione finanziaria, i rapporti con l’estero e le attività atte a minacciare in maniera illegale la sicurezza interna ed esterna. Non sono raccolti dati sull’esercizio dei diritti costituzionali.
-
-<sup>2</sup>
-
-I dati possono essere rilevati:
-
-- a. tramite il SIC, dai registri degli organi federali e cantonali preposti alla sicurezza e al perseguimento penale nonché dal casellario giudiziale;
-- b. dai registri degli uffici cantonali d’esecuzione e fallimento nonché dai controlli degli abitanti;
-- c.[^20-1] su incarico delle autorità di controllo (art. 21 cpv. 1), tramite inchieste condotte dalla polizia cantonale competente in merito alla persona soggetta al controllo;
-- d.[^20-2] tramite richiesta, alle competenti autorità di perseguimento penale, ai competenti tribunali e alle competenti autorità di esecuzione delle pene, di informazioni e atti concernenti procedimenti penali in corso, conclusi o abbandonati nonché esecuzioni di pene;
-- e. mediante interrogazione di terze persone, se l’interessato è consenziente;
-- f. mediante interrogazione personale dell’interessato.
-
-[^20-1]: Nuovo testo giusta il n. I della LF 23 dic. 2011, in vigore dal 16 lug. 2012 ([RU 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [FF 2007 4613](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 6923](https://fedlex.data.admin.ch/eli/fga/2010/1444)).
-[^20-2]: Nuovo testo giusta l’all. n. 1 della LF del 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-
-#### Art. 21
-
-**Esecuzione del controllo di sicurezza**
-
-<sup>1</sup> Il Consiglio federale designa le autorità di controllo che procedono ai controlli di sicurezza in collaborazione con il SIC. Le autorità di controllo non sono vincolate da istruzioni.[^21-1]
-
-<sup>2</sup> L’autorità di controllo comunica alla persona controllata il risultato delle indagini e della valutazione del rischio per la sicurezza. La persona controllata può consultare, entro dieci giorni, i documenti relativi al controllo e chiedere la rettificazione dei dati errati; per i documenti della Confederazione, può esigere la distruzione dei dati superati o l’apposizione di una nota di contestazione. Alla restrizione dei diritti d’accesso si applica l’articolo 26 della legge federale del 25 settembre 2020[^21-2] sulla protezione dei dati (LPD).[^21-3]
-
-<sup>3</sup> Se la dichiarazione di sicurezza non viene rilasciata o è vincolata a riserve, la persona interessata può ricorrere al Tribunale amministrativo federale.[^21-4]
-
-<sup>4</sup> L’autorità di controllo sottopone per scritto la valutazione del rischio per la sicurezza all’autorità decisionale competente per la nomina o il conferimento della funzione. L’autorità decisionale non è vincolata dalla valutazione fornita dall’autorità di controllo. Il Consiglio federale disciplina le competenze in merito ai controlli di sicurezza giusta l’articolo 19 capoverso 1 lettera d.[^21-5]
-
-<sup>5</sup> Il Consiglio federale disciplina i dettagli del controllo di sicurezza, segnatamente i diritti di consultazione delle persone interessate e dell’autorità di nomina nonché la conservazione, l’ulteriore utilizzazione e la distruzione dei dati. …[^21-6]
-
-[^21-1]: Nuovo testo giusta il n. I della LF 23 dic. 2011, in vigore dal 16 lug. 2012 ([RU 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [FF 2007 4613](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 6923](https://fedlex.data.admin.ch/eli/fga/2010/1444)).
-[^21-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^21-3]: Nuovo testo giusta l’all. 1 n. II 1 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^21-4]: Nuovo testo giusta il n. II 1 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, in vigore dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
-[^21-5]: Nuovo testo giusta il n. I della LF 23 dic. 2011, in vigore dal 16 lug. 2012 ([RU 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [FF 2007 4613](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 6923](https://fedlex.data.admin.ch/eli/fga/2010/1444)).
-[^21-6]: Per. abrogato dal n. II 1 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
+[^1921-1]: Abrogati dall’all. 1 n. 1 della L del 18 dic. 2020 sulla sicurezza delle informazioni, con effetto dal 1° gen. 2024 ([RU 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [FF 2017 2563](https://fedlex.data.admin.ch/eli/fga/2017/647)).
 
 ## Sezione 4*a*: Compiti relativi alla protezione di persone ed edifici
 
 [^sec4a-1]
 
-[^sec4a-1]: Originaria sez. 5.
+[^sec4a-1]: Originaria Sez. 5.
 
 #### Art. 22
 
@@ -663,20 +605,21 @@ Nel sistema d’informazione possono essere registrate informazioni su persone c
 
 <sup>6</sup> Fedpol verifica se le informazioni che gli pervengono sono esatte e rilevanti ai sensi del capoverso 2. Distrugge le informazioni inesatte o non rilevanti e ne informa il mittente.
 
-<sup>7</sup> Il sistema d’informazione è a disposizione dei servizi di fedpol competenti per l’esecuzione della presente legge, delle autorità di polizia dei Cantoni e dell’UDSC, mediante una procedura di richiamo.[^24a-2] Il Consiglio federale stabilisce le condizioni per la conservazione e la cancellazione dei dati. Determina nei particolari le condizioni per il collegamento degli organi cantonali di sicurezza e disciplina i diritti d’accesso.
+<sup>7</sup> Il sistema d’informazione è a disposizione dei servizi di fedpol competenti per l’esecuzione della presente legge, delle autorità di polizia dei Cantoni, dell’AFD e dei servizi specializzati competenti per l’esecuzione dei controlli di sicurezza relativi alle persone secondo l’articolo 31 capoverso 2 della legge del 18 dicembre 2020[^24a-2] sulla sicurezza delle informazioni, mediante una procedura di richiamo.[^24a-3] Il Consiglio federale stabilisce le condizioni per la conservazione e la cancellazione dei dati. Determina nei particolari le condizioni per il collegamento degli organi cantonali di sicurezza e disciplina i diritti d’accesso.
 
 <sup>8</sup> Le autorità preposte all’esecuzione possono comunicare i dati personali di cui al capoverso 1 agli organizzatori di manifestazioni sportive in Svizzera, se i dati sono necessari per ordinare misure intese a impedire atti di violenza in occasione di determinate manifestazioni. I destinatari dei dati possono comunicarli a terzi solo nell’ambito dell’esecuzione delle misure. Il Consiglio federale disciplina le modalità di trattamento dei dati da parte dei destinatari e di terzi.
 
-<sup>9</sup> Fedpol può comunicare dati personali ad autorità di polizia e organi di sicurezza esteri. L’articolo 61 capoversi 1, 2, 5 e 6 LAIn[^24a-3] si applica per analogia. I dati possono essere comunicati soltanto se l’autorità o l’organo garantisce che servono esclusivamente a ordinare misure intese a impedire atti di violenza in occasione di manifestazioni sportive. La protezione della fonte va garantita.[^24a-4]
+<sup>9</sup> Fedpol può comunicare dati personali ad autorità di polizia e organi di sicurezza esteri. L’articolo 61 capoversi 1, 2, 5 e 6 LAIn[^24a-4] si applica per analogia. I dati possono essere comunicati soltanto se l’autorità o l’organo garantisce che servono esclusivamente a ordinare misure intese a impedire atti di violenza in occasione di manifestazioni sportive. La protezione della fonte va garantita.[^24a-5]
 
-<sup>10</sup> Il diritto di ottenere informazioni relative ai dati che figurano nel sistema d’informazione e il diritto di farli rettificare sono retti dagli articoli 25 e 41 capoverso 2 lettera a LPD[^24a-5]. Fedpol comunica alla persona interessata la registrazione e la cancellazione dei dati che la riguardano nel sistema d’informazione.[^24a-6]
+<sup>10</sup> Il diritto di ottenere informazioni relative ai dati che figurano nel sistema d’informazione e il diritto di farli rettificare sono retti dagli articoli 25 e 41 capoverso 2 lettera a LPD[^24a-6]. Fedpol comunica alla persona interessata la registrazione e la cancellazione dei dati che la riguardano nel sistema d’informazione.[^24a-7]
 
 [^24a-1]: Nuovo testo giusta il n. I della LF del 3 ott. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5091](https://fedlex.data.admin.ch/eli/oc/2009/592); [FF 2007 5875](https://fedlex.data.admin.ch/eli/fga/2007/964)).
-[^24a-2]: Nuovo testo giusta il n. I 1 della LF del 25 set. 2020 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 3935](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
-[^24a-3]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
-[^24a-4]: Nuovo testo giusta il n. I 1 della LF del 25 set. 2020 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 3935](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
-[^24a-5]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^24a-6]: Nuovo testo giusta l’all. 1 n. II 1 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^24a-2]: [RS 128](https://fedlex.data.admin.ch/eli/cc/2022/232)
+[^24a-3]: Nuovo testo giusta l’all. 2 n. 1 della L del 18 dic. 2020 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [FF 2017 2563](https://fedlex.data.admin.ch/eli/fga/2017/647)).
+[^24a-4]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^24a-5]: Nuovo testo giusta il n. I 1 della LF del 25 set. 2020 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 3935](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^24a-6]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^24a-7]: Nuovo testo giusta l’all. 1 n. II 1 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 24b
 

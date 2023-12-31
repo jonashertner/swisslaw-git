@@ -4,11 +4,11 @@ title: Bundesgesetz vom 21. März 1997 über Massnahmen zur Wahrung der inneren 
 short: BWIS
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546"
 language: de
-version: 2023-09-01
+version: 2024-01-01
 adopted: 1997-03-21
 in_force: 1998-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546/20230901/de/xml/fedlex-data-admin-ch-eli-cc-1998-1546_1546_1546-20230901-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/1546_1546_1546/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546/20240101/de/xml/fedlex-data-admin-ch-eli-cc-1998-1546_1546_1546-20240101-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/1546_1546_1546/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/1546_1546_1546/20230901/de"
 
 (BWIS)
 
-vom 21. März 1997 (Stand am 1. September 2023)
+vom 21. März 1997 (Stand am 1. Januar 2024)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -47,15 +47,16 @@ Dieses Gesetz dient der Sicherung der demokratischen und rechtsstaatlichen Grund
 
 Vorbeugende polizeiliche Massnahmen sind:
 
-- a. Personensicherheitsprüfungen;
+- a.[^2-2] …
 - b. Massnahmen zum Schutz von Bundesbehörden, völkerrechtlich geschützten Personen, ständigen diplomatischen Missionen, konsularischen Posten und internationalen Organisationen;
 - c. Sicherstellung, Beschlagnahme und Einziehung von Propagandamaterial mit zu Gewalt aufrufendem Inhalt;
 - d. Beschlagnahme gefährlicher Gegenstände nach Artikel 13*f*, soweit dies zur Erfüllung der Aufgaben nach diesem Gesetz erforderlich ist;
-- d<sup>bis</sup>.[^2-2] Massnahmen nach dem 5. Abschnitt zur Verhinderung terroristischer Aktivitäten;
+- d<sup>bis</sup>.[^2-3] Massnahmen nach dem 5. Abschnitt zur Verhinderung terroristischer Aktivitäten;
 - e. Massnahmen nach dem 5*a*. Abschnitt zur Verhinderung von Gewalt anlässlich von Sportveranstaltungen.
 
 [^2-1]: Fassung gemäss Anhang Ziff. II 1 des Nachrichtendienstgesetzes vom 25. Sept. 2015, in Kraft seit 1. Sept. 2017 ([AS 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [BBl 2014 2105](https://fedlex.data.admin.ch/eli/fga/2014/407)).
-[^2-2]: Eingefügt durch Ziff. I 1 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^2-2]: Aufgehoben durch Anhang 1 Ziff. 1 des Informationssicherheitsgesetzes vom 18. Dez. 2020, mit Wirkung seit 1. Jan. 2024 ([AS 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [BBl 2017 2953](https://fedlex.data.admin.ch/eli/fga/2017/647)).
+[^2-3]: Eingefügt durch Ziff. I 1 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 
 #### Art. 3
 
@@ -213,72 +214,13 @@ Personendaten können beschafft werden durch:
 
 [^1518-1]: Aufgehoben durch Anhang Ziff. II 1 des Nachrichtendienstgesetzes vom 25. Sept. 2015, mit Wirkung seit 1. Sept. 2017 ([AS 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [BBl 2014 2105](https://fedlex.data.admin.ch/eli/fga/2014/407)).
 
-## 4. Abschnitt: Personensicherheitsprüfungen
+## 4. Abschnitt: …
 
-#### Art. 19
+#### Art. 19–21
 
-**Personenkreis**
+[^1921-1]
 
-<sup>1</sup>
-
-Der Bundesrat kann Sicherheitsprüfungen vorsehen für Bedienstete des Bundes, Angehörige der Armee und des Zivilschutzes sowie Dritte, die an klassifizierten Projekten im Bereich der inneren und äusseren Sicherheit mitwirken, wenn sie bei ihrer Tätigkeit:[^19-1]
-
-- a. regelmässigen und weit reichenden Einblick in die Regierungstätigkeit oder in wichtige sicherheitspolitische Geschäfte haben und darauf Einfluss nehmen können;
-- b. regelmässig Zugang zu Geheimnissen der inneren oder der äusseren Sicherheit oder zu Informationen haben, deren Aufdeckung die Erfüllung wesentlicher Aufgaben des Bundes gefährden könnte;
-- c.[^19-2] als Angehörige der Armee und des Zivilschutzes Zugang zu klassifizierten Informationen, Materialien oder Anlagen haben;
-- d. als Vertragspartner oder deren Mitarbeiter an klassifizierten Projekten des Bundes mitwirken oder aufgrund von Geheimschutzvereinbarungen überprüft werden müssen;
-- e. regelmässig Zugang zu besonders schützenswerten Personendaten haben, deren Offenbarung die Persönlichkeitsrechte der Betroffenen schwerwiegend beeinträchtigen könnte.
-
-<sup>2</sup> Die Kantone können für ihre Bediensteten, die unmittelbar bei Aufgaben des Bundes nach diesem Gesetz mitwirken, ebenfalls eine Sicherheitsprüfung durchführen. Sie können die Mitwirkung des NDB beanspruchen.
-
-<sup>3</sup> Die Sicherheitsprüfung wird durchgeführt, bevor das Amt oder die Funktion übertragen oder der Auftrag erteilt wird. Die Prüfung darf nur durchgeführt werden, wenn die betreffende Person ihre Einwilligung gegeben hat. Angehörige der Armee dürfen auch ohne Einwilligung überprüft werden, sofern die Prüfung für die Ausübung der aktuellen oder vorgesehenen militärischen Funktion erforderlich ist. Der Bundesrat kann die periodische Wiederholung vorsehen.[^19-3]
-
-<sup>4</sup> Der Bundesrat erlässt eine Liste der Ämter in der Bundesverwaltung und der Funktionen der Armee, für die eine Sicherheitsprüfung durchgeführt werden muss. Die Departementsvorsteher und der Bundeskanzler können in Ausnahmefällen Personen prüfen lassen, deren Amt oder Funktion noch nicht in der Liste aufgenommen ist, jedoch die Voraussetzungen nach Absatz 1 erfüllt.
-
-[^19-1]: Fassung gemäss Ziff. II 1 des BG vom 17. Juni 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 5891](https://fedlex.data.admin.ch/eli/oc/2011/816); [BBl 2010 6055](https://fedlex.data.admin.ch/eli/fga/2010/1098)).
-[^19-2]: Fassung gemäss Ziff. II 1 des BG vom 17. Juni 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 5891](https://fedlex.data.admin.ch/eli/oc/2011/816); [BBl 2010 6055](https://fedlex.data.admin.ch/eli/fga/2010/1098)).
-[^19-3]: Fassung gemäss Anhang Ziff. 1 des BG vom 18. März 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-
-#### Art. 20
-
-**Prüfungsinhalt**
-
-<sup>1</sup> Bei der Sicherheitsprüfung werden sicherheitsrelevante Daten über die Lebensführung der betroffenen Person erhoben, insbesondere über ihre engen persönlichen Beziehungen und familiären Verhältnisse, ihre finanzielle Lage, ihre Beziehungen zum Ausland und Aktivitäten, welche die innere oder die äussere Sicherheit in rechtswidriger Weise gefährden können. Über die Ausübung verfassungsmässiger Rechte werden keine Daten erhoben.
-
-<sup>2</sup>
-
-Die Daten können erhoben werden:
-
-- a. über den NDB aus den Registern der Sicherheits- und der Strafverfolgungsorgane von Bund und Kantonen sowie aus dem Strafregister;
-- b. aus den Registern der Betreibungs- und Konkursbehörden der Kantone und der Einwohnerkontrollen;
-- c.[^20-1] im Auftrag der Prüfbehörden (Art. 21 Abs. 1) durch Erhebung der zuständigen kantonalen Polizei über die zu prüfende Person;
-- d.[^20-2] durch Einholen von Auskünften und Akten bei den zuständigen Strafverfolgungsbehörden, Gerichten und Strafvollzugsbehörden über laufende, abgeschlossene oder eingestellte Strafverfahren sowie Strafvollzüge;
-- e. durch Befragung von Drittpersonen, wenn die betroffene Person zugestimmt hat;
-- f. durch persönliche Befragung der betroffenen Person.
-
-[^20-1]: Fassung gemäss Ziff. I des BG vom 23. Dez. 2011, in Kraft seit 16. Juli 2012 ([AS 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [BBl 2007 5037](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 7841](https://fedlex.data.admin.ch/eli/fga/2010/1444)).
-[^20-2]: Fassung gemäss Anhang Ziff. 1 des BG vom 18. März 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-
-#### Art. 21
-
-**Durchführung der Prüfung**
-
-<sup>1</sup> Der Bundesrat bezeichnet die Prüfbehörden, welche die Sicherheitsprüfungen in Zusammenarbeit mit dem NDB durchführen. Die Prüfbehörden sind weisungsungebunden.[^21-1]
-
-<sup>2</sup> Die Prüfbehörde teilt der geprüften Person das Ergebnis der Abklärungen und ihre Beurteilung des Sicherheitsrisikos mit. Die geprüfte Person kann innert zehn Tagen Einsicht in die Prüfungsunterlagen nehmen und die Berichtigung falscher Daten verlangen sowie bei Akten des Bundes die Entfernung überholter Daten verlangen oder einen Bestreitungsvermerk anbringen lassen. Für die Einschränkung der Auskunft gilt Artikel 26 des Datenschutzgesetzes vom 25. September 2020[^21-2] (DSG).[^21-3]
-
-<sup>3</sup> Wird die Sicherheitserklärung nicht erteilt oder mit Vorbehalten versehen, so kann die betroffene Person Beschwerde beim Bundesverwaltungsgericht führen.[^21-4]
-
-<sup>4</sup> Die Prüfbehörde unterbreitet ihre Beurteilung des Sicherheitsrisikos schriftlich der entscheidenden Instanz, die für die Wahl oder die Übertragung der Funktion zuständig ist. Die entscheidende Instanz ist an die Beurteilung der Prüfbehörde nicht gebunden. Der Bundesrat regelt die Zuständigkeiten bei den Sicherheitsprüfungen nach Artikel 19 Absatz 1 Buchstabe d.[^21-5]
-
-<sup>5</sup> Der Bundesrat regelt die Einzelheiten der Sicherheitsprüfung, insbesondere die Einsichtsrechte der Betroffenen und der ernennenden Behörde, sowie Aufbewahrung, weitere Verwendung und Löschung der Daten.[^21-6]
-
-[^21-1]: Fassung gemäss Ziff. I des BG vom 23. Dez. 2011, in Kraft seit 16. Juli 2012 ([AS 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [BBl 2007 5037](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 7841](https://fedlex.data.admin.ch/eli/fga/2010/1444)).
-[^21-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^21-3]: Fassung gemäss Anhang 1 Ziff. II 1 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^21-4]: Fassung gemäss Ziff. II 1 des BG vom 20. März 2008 zur formellen Bereinigung des Bundesrechts, in Kraft seit 1. Aug. 2008 ([AS 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [BBl 2007 6121](https://fedlex.data.admin.ch/eli/fga/2007/885)).
-[^21-5]: Fassung gemäss Ziff. I des BG vom 23. Dez. 2011, in Kraft seit 16. Juli 2012 ([AS 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [BBl 2007 5037](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 7841](https://fedlex.data.admin.ch/eli/fga/2010/1444)).
-[^21-6]: Zweiter Satz aufgehoben durch Ziff. II 1 des BG vom 20. März 2008 zur formellen Bereinigung des Bundesrechts, mit Wirkung seit 1. Aug. 2008 ([AS 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [BBl 2007 6121](https://fedlex.data.admin.ch/eli/fga/2007/885)).
+[^1921-1]: Aufgehoben durch Anhang 1 Ziff. 1 des Informationssicherheitsgesetzes vom 18. Dez. 2020, mit Wirkung seit 1. Jan. 2024 ([AS 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [BBl 2017 2953](https://fedlex.data.admin.ch/eli/fga/2017/647)).
 
 ## 4*a*. Abschnitt: Aufgaben zum Schutz von Personen und Gebäuden
 
@@ -662,20 +604,21 @@ In das Informationssystem dürfen Informationen über Personen, gegen die Ausrei
 
 <sup>6</sup> Fedpol prüft, ob die Informationen, die ihm übermittelt werden, richtig und erheblich im Sinne von Absatz 2 sind. Es vernichtet unrichtige oder unerhebliche Informationen und benachrichtigt darüber den Absender.
 
-<sup>7</sup> Das Informationssystem steht den für den Vollzug dieses Gesetzes zuständigen Stellen von fedpol sowie den Polizeibehörden der Kantone und dem BAZG über ein Abrufverfahren zur Verfügung.[^24a-2] Der Bundesrat legt die Voraussetzungen für die Aufbewahrung und Löschung der Daten fest. Er bestimmt den Anschluss der kantonalen Sicherheitsorgane im Einzelnen und regelt die Zugriffsrechte.
+<sup>7</sup> Das Informationssystem steht den für den Vollzug dieses Gesetzes zuständigen Stellen von fedpol sowie den Polizeibehörden der Kantone, der EZV und den für die Durchführung der Personensicherheitsprüfungen zuständigen Fachstellen nach Artikel 31 Absatz 2 des Informationssicherheitsgesetzes vom 18. Dezember 2020[^24a-2] über ein Abrufverfahren zur Verfügung.[^24a-3] Der Bundesrat legt die Voraussetzungen für die Aufbewahrung und Löschung der Daten fest. Er bestimmt den Anschluss der kantonalen Sicherheitsorgane im Einzelnen und regelt die Zugriffsrechte.
 
 <sup>8</sup> Die Vollzugsbehörden können Personendaten nach Absatz 1 an Organisatoren von Sportveranstaltungen in der Schweiz weitergeben, wenn die Daten für die Anordnung von Massnahmen zur Verhinderung von Gewalttätigkeiten anlässlich bestimmter Veranstaltungen nötig sind. Die Empfänger der Daten dürfen diese nur im Rahmen des Vollzuges der Massnahmen an Dritte weitergeben. Der Bundesrat regelt, wie die Daten durch die Empfänger und durch Dritte bearbeitet werden.
 
-<sup>9</sup> Fedpol kann Personendaten an ausländische Polizeibehörden und Sicherheitsorgane weitergeben. Artikel 61 Absätze 1, 2, 5 und 6 NDG[^24a-3] ist sinngemäss anwendbar. Die Daten dürfen nur weitergegeben werden, wenn die Behörde oder das Organ garantiert, dass die Daten ausschliesslich der Anordnung von Massnahmen zur Verhinderung von Gewalttätigkeiten anlässlich von Sportveranstaltungen dienen. Der Quellenschutz ist zu wahren.[^24a-4]
+<sup>9</sup> Fedpol kann Personendaten an ausländische Polizeibehörden und Sicherheitsorgane weitergeben. Artikel 61 Absätze 1, 2, 5 und 6 NDG[^24a-4] ist sinngemäss anwendbar. Die Daten dürfen nur weitergegeben werden, wenn die Behörde oder das Organ garantiert, dass die Daten ausschliesslich der Anordnung von Massnahmen zur Verhinderung von Gewalttätigkeiten anlässlich von Sportveranstaltungen dienen. Der Quellenschutz ist zu wahren.[^24a-5]
 
-<sup>10</sup> Das Recht, Auskünfte über die Daten im Informationssystem zu bekommen, und das Recht, die Daten berichtigen zu lassen, richten sich nach Artikel 25 und 41 Absatz 2 Buchstabe a des DSG[^24a-5]. Fedpol teilt der betroffenen Person die Erfassung und Löschung ihrer Daten im Informationssystem mit.[^24a-6]
+<sup>10</sup> Das Recht, Auskünfte über die Daten im Informationssystem zu bekommen, und das Recht, die Daten berichtigen zu lassen, richten sich nach Artikel 25 und 41 Absatz 2 Buchstabe a des DSG[^24a-6]. Fedpol teilt der betroffenen Person die Erfassung und Löschung ihrer Daten im Informationssystem mit.[^24a-7]
 
 [^24a-1]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2008, in Kraft seit 1. Jan. 2010 ([AS 2009 5091](https://fedlex.data.admin.ch/eli/oc/2009/592); [BBl 2007 6465](https://fedlex.data.admin.ch/eli/fga/2007/964)).
-[^24a-2]: Fassung gemäss Ziff. I 1 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
-[^24a-3]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
-[^24a-4]: Fassung gemäss Ziff. I 1 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
-[^24a-5]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^24a-6]: Fassung gemäss Anhang 1 Ziff. II 1 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^24a-2]: [SR 128](https://fedlex.data.admin.ch/eli/cc/2022/232)
+[^24a-3]: Fassung gemäss Anhang 2 Ziff. 1 des Informationssicherheitsgesetzes vom 18. Dez. 2020, in Kraft seit 1. Jan. 2024 ([AS 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [BBl 2017 2953](https://fedlex.data.admin.ch/eli/fga/2017/647)).
+[^24a-4]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^24a-5]: Fassung gemäss Ziff. I 1 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^24a-6]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^24a-7]: Fassung gemäss Anhang 1 Ziff. II 1 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 24b
 
@@ -694,7 +637,7 @@ Einer Person kann die Ausreise aus der Schweiz in ein bestimmtes Land für eine 
 - a.[^24c-1] gegen sie ein Rayonverbot oder eine Meldeauflage besteht, weil sie sich anlässlich von Sportveranstaltungen nachweislich an Gewalttätigkeiten gegen Personen oder Sachen beteiligt hat; und
 - b. aufgrund ihres Verhaltens angenommen werden muss, dass sie sich anlässlich einer Sportveranstaltung im Bestimmungsland an Gewalttätigkeiten beteiligen wird.
 
-<sup>2</sup> Eine Ausreisebeschränkung kann auch gegen eine Person verfügt werden, gegen die kein Rayonverbot besteht, sofern konkrete und aktuelle Tatsachen die Annahme begründen, dass sie sich im Bestimmungsland an Gewalttätigkeiten beteiligen werden.
+<sup>2</sup> Eine Ausreisebeschränkung kann auch gegen eine Person verfügt werden, gegen die kein Rayonverbot besteht, sofern konkrete und aktuelle Tatsachen die Annahme begründen, dass sie sich im Bestimmungsland an Gewalttätigkeiten beteiligen wird.
 
 <sup>3</sup> Die Ausreisebeschränkung gilt frühestens drei Tage vor der Sportveranstaltung und dauert längstens bis einen Tag nach deren Ende.
 
@@ -816,11 +759,9 @@ Der Bundesrat vollzieht dieses Gesetz. Er erlässt die Ausführungsbestimmungen.
 
 **Änderung bisherigen Rechts**
 
-### …
+…[^31-1]
 
-[^31-subdiv-1]
-
-[^31-subdiv-1]: Die Änderung kann unter [AS 1998 1546](https://fedlex.data.admin.ch/eli/oc/1998/1546_1546_1546)konsultiert werden.
+[^31-1]: Die Änderung kann unter [AS 1998 1546](https://fedlex.data.admin.ch/eli/oc/1998/1546_1546_1546)konsultiert werden.
 
 #### Art. 32
 
