@@ -3,20 +3,19 @@ canton: SO
 number: "614.159.10"
 title: "Steuerverordnung Nr. 10 über Bezug, Fälligkeit und Verzinsung der Haupt- und Nebensteuern"
 language: de
-version: 2021-01-01
-valid_until: 2023-12-31
-version_adopted: 2020-09-22
+version: 2024-01-01
+version_adopted: 2023-05-08
 adopted: 1994-07-05
 in_force: 1995-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/614.159.10"
-pdf: "https://bgs.so.ch/api/de/versions/5001/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5385/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Steuerverordnung Nr. 10 über Bezug, Fälligkeit und Verzinsung der Haupt- und Nebensteuern
 
-Vom 05.07.1994 (Stand 01.01.2021)
+Vom 05.07.1994 (Stand 01.01.2024)
 
 Der Regierungsrat des Kantons Solothurn
 
@@ -54,19 +53,23 @@ beschliesst:
 
 #### § 3
 
-**1. Direkte Staatssteuern a) Verfalltag und Fälligkeitstermine**
+**1. Direkte Staatssteuern a) Verfalltage und Fälligkeitstermine**
 
-<sup>1</sup> Die direkten Staatssteuern der natürlichen Personen verfallen am 31. Juli der Steuerperiode, jene der juristischen Personen am 31. Juli des Kalenderjahres, in welchem die Steuerperiode endet (Verfalltag).
+<sup>1</sup> Die direkten Staatssteuern der natürlichen Personen werden während der Steuerperiode in drei Raten erhoben. Sie verfallen je zu einem Drittel am 31. Mai, 30. September und am 31. Dezember (Verfalltage).
+
+<sup>1<sup>bis</sup></sup> Bei einem Zuzug nach dem 30. April verfallen die direkten Staatssteuern der natürlichen Personen am 31. Dezember (Verfalltag), frühestens aber 30 Tage ab Zustellung der provisorischen oder definitiven Rechnung (Fälligkeitstermin).
+
+<sup>1<sup>ter</sup></sup> Die direkten Staatssteuern der juristischen Personen verfallen am 31. Juli des Kalenderjahres, in welchem die Steuerperiode endet (Verfalltag), frühestens aber 30 Tage ab Zustellung der provisorischen oder definitiven Rechnung (Fälligkeitstermin).
 
 <sup>2</sup> Vorbehalten sind die besonderen Fälligkeitstermine nach § 177 Absätze 3-5 des Gesetzes.
 
-<sup>3</sup> Steuerbeträge, die nach dem Verfalltag in Rechnung gestellt werden, werden mit der Zustellung der provisorischen oder definitiven Rechnung zur Zahlung fällig.
+<sup>3</sup> Steuerbeträge, die nach dem jeweiligen Verfalltag oder Fälligkeitstermin in Rechnung gestellt werden, sind innert 30 Tagen ab Zustellung der provisorischen oder definitiven Rechnung zu bezahlen.
 
 #### § 4
 
 **b) Vorbezug und Abrechnung**
 
-<sup>1</sup> Als Vorbezug wird der Steuerbetrag gemäss der letzten Veranlagung oder der mutmasslich geschuldete Betrag in Rechnung gestellt. Natürliche und juristische Personen erhalten die Vorbezugsrechnung bis Ende April der Steuerperiode, bei Zuzug im Verlaufe der Steuerperiode innert vier Monaten seit Zuzug. Vorbezüge unter 300 Franken werden nicht in Rechnung gestellt.
+<sup>1</sup> Als Vorbezug wird der Steuerbetrag gemäss der letzten Veranlagung oder der mutmasslich geschuldete Betrag in Rechnung gestellt. Natürliche und juristische Personen erhalten die Vorbezugsrechnung bis Ende März. Bei Zuzug im Verlaufe der Steuerperiode erhalten natürliche Personen die Vorbezugsrechnung innert vier Monaten seit Zuzug, bei juristischen Personen erfolgt der Steuerbezug mit Zustellung der provisorischen oder definitiven Veranlagung. Vorbezüge unter 300 Franken werden nicht in Rechnung gestellt.
 
 <sup>2</sup> Die Steuerpflichtigen erhalten Gelegenheit, den Vorbezug auf einmal oder in drei Raten zu bezahlen.
 
@@ -110,15 +113,15 @@ beschliesst:
 
 **2. Verzugszins a) Grundsatz**
 
-<sup>1</sup> Wird der Steuerbetrag nicht bis zum Verfalltag oder innert 30 Tagen seit der Zustellung der Rechnung entrichtet (§ 179 Absätze 2 und 3 des Gesetzes), wird ein Verzugszins erhoben.
+<sup>1</sup> Wird der Steuerbetrag nicht bis zum jeweiligen Verfalltag oder innert 30 Tagen seit der Zustellung der Rechnung entrichtet (§ 179 Absätze 2 und 3 des Gesetzes), wird ein Verzugszins erhoben.
 
 #### § 12
 
 **b) Berechnung**
 
-<sup>1</sup> Der Verzugszins wird vom Tage nach dem Verfalltag oder nach dem Ablauf der Zahlungsfrist bis zum Tage des Zahlungseinganges berechnet.
+<sup>1</sup> Der Verzugszins wird vom Tage nach dem jeweiligen Verfalltag oder nach dem Ablauf der Zahlungsfrist bis zum Tage des Zahlungseinganges berechnet.
 
-<sup>2</sup> Für Nachsteuern beginnt die Zinspflicht am Tage nach dem Verfalltag der betreffenden Steuerperiode.
+<sup>2</sup> Für Nachsteuern beginnt die Zinspflicht am 1. Januar des auf die Steuerperiode folgenden Kalenderjahres.
 
 #### § 13
 
