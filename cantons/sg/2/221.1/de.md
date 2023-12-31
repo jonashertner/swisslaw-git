@@ -4,13 +4,12 @@ number: "221.1"
 title: Gesetz über Beiträge für familien- und schulergänzende Kinderbetreuung
 short: KiBG
 language: de
-version: 2021-01-01
-valid_until: 2023-12-31
-version_adopted: 2020-11-29
+version: 2024-01-01
+version_adopted: 2023-11-19
 adopted: 2020-11-29
 in_force: 2021-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/221.1"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3446/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3558/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3446/pdf_file"
 
 (KiBG)
 
-vom 29.11.2020 (Stand 01.01.2021)
+vom 29.11.2020 (Stand 01.01.2024)
 
 Der Kantonsrat des Kantons St.Gallen
 
@@ -36,7 +35,7 @@ als Gesetz:[^ingress-2]
 
 **Grundsatz und Zweck**
 
-<sup>1</sup> Der Kanton richtet den politischen Gemeinden im Rahmen der bewilligten Kredite jährliche Beiträge an die familien- und schulergänzende Kinderbetreuung aus.
+<sup>1</sup> Der Kanton richtet den politischen Gemeinden jährliche Beiträge an die familien- und schulergänzende Kinderbetreuung aus.
 
 <sup>2</sup> Die Kantonsbeiträge werden vollständig zur Förderung und langfristigen Sicherung eines für Eltern bezahlbaren und qualitativ angemessenen Angebots der familien- und schulergänzenden Kinderbetreuung verwendet. Sie ergänzen bestehende oder geplante Beiträge der politischen Gemeinden.
 
@@ -44,15 +43,12 @@ als Gesetz:[^ingress-2]
 
 **Umfang der Kantonsbeiträge**
 
-<sup>1</sup> Die Kantonsbeiträge für die familien- und schulergänzende Kinderbetreuung je Jahr setzen sich zusammen aus:
+<sup>1</sup> Die Kantonsbeiträge für die familien- und schulergänzende Kinderbetreuung je Jahr betragen 10 Mio. Franken. Allfällige Bundesbeiträge für die familien- und schulergänzende Kinderbetreuung sind darin nicht enthalten.
 
-- a) einem Betrag, der sich an der Höhe der Mehreinnahmen aus Einkommenssteuern im Jahr 2020 orientiert, die sich für Kanton und Gemeinden aus dem Nachtrag[^2-1] zum Einführungsgesetz zur Bundesgesetzgebung über die Familienzulagen vom 27. Juni 2017[^2-2] ergeben, wenigstens aber 5 Mio. Franken;
-- b) allfälligen Bundesbeiträgen für die familien- und schulergänzende Kinderbetreuung.
+- a) …
+- b) …
 
-<sup>2</sup> Die Regierung beantragt dem Kantonsrat den Umfang der Kantonsbeiträge im Rahmen des Budgets.
-
-[^2-1]: nGS 2019-046.
-[^2-2]: sGS [371.1](https://www.gesetzessammlung.sg.ch/data/371.1/de).
+<sup>2</sup> …
 
 #### Art. 3
 
@@ -64,7 +60,10 @@ als Gesetz:[^ingress-2]
   - 1\. der Bestand eines Angebots in der politischen Gemeinde oder
   - 2\. die Ausrichtung von Beiträgen an ein Angebot in oder ausserhalb der Gemeinde oder
   - 3\. die Ausrichtung von Beiträgen an die Eltern für die familien- oder schulergänzende Kinderbetreuung;
-- b) die in diesem Erlass vorgesehenen Kantonsbeiträge vollständig zur Senkung der Drittbetreuungskosten für die Eltern einsetzt.
+- b) die in diesem Erlass vorgesehenen Kantonsbeiträge vollständig und nachhaltig für einen oder mehrere der folgenden Zwecke einsetzt:
+  - 1\. zur Senkung der Drittbetreuungskosten für die Eltern;
+  - 2\. zur Ausweitung des Angebots;
+  - 3\. zur Verbesserung des Betreuungsschlüssels.
 
 #### Art. 4
 
