@@ -3,10 +3,9 @@ canton: ZH
 number: "921.51"
 title: "Staatsvertrag zwischen den Regierungen der Kantone Schaffhausen und Zürich über die gemeinsame Führung eines Forstbetriebs in Form einer gemeinsamen Anstalt durch die Schaffhauser Einwohnergemeinden Buchberg und Rüdlingen sowie die Zürcher Politischen Gemeinden Eglisau, Hüntwangen, Rafz, Wasterkingen und Wil"
 language: de
-nachtrag: "122"
-valid_until: 2024-01-01
+nachtrag: "123"
 adopted: 2023-09-13
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-921_51-2023_09_13-2024_01_01-122.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-921_51-2023_09_13-2024_01_01-123.html"
 text: pdf
 ---
 
@@ -14,7 +13,7 @@ text: pdf
 
 # Staatsvertrag zwischen den Regierungen der Kantone Schaffhausen und Zürich über die gemeinsame Führung eines Forstbetriebs in Form einer gemeinsamen Anstalt durch die Schaffhauser Einwohnergemeinden Buchberg und Rüdlingen sowie die Zürcher Politischen Gemeinden Eglisau, Hüntwangen, Rafz, Wasterkingen und Wil
 
-(vom 25. Oktober 2022 / vom 13. September 2023)[^t-1]
+(vom 25. Oktober 2022 / 13. September 2023)[^t-1]
 
 Der Kanton Schaffhausen und der Kanton Zürich, vertreten durch die Regierungsräte,
 
