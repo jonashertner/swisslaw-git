@@ -4,11 +4,11 @@ title: Verordnung des EJPD vom 15. November 2017 über die Durchführung der Üb
 short: VD-ÜPF
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/35"
 language: de
-version: 2023-12-04
+version: 2024-01-01
 adopted: 2017-11-15
 in_force: 2018-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/35/20231204/de/xml/fedlex-data-admin-ch-eli-cc-2018-35-20231204-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/35/20231204/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/35/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2018-35-20240101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/35/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/35/20231204/de"
 
 (VD-ÜPF)
 
-vom 15. November 2017 (Stand am 4. Dezember 2023)
+vom 15. November 2017 (Stand am 1. Januar 2024)
 
 Das Eidgenössische Justiz- und Polizeidepartement (EJPD),
 
@@ -32,9 +32,11 @@ verordnet:
 
 #### Art. 1
 
-**Geltungsbereich**
+**Geltungsbereich**[^1-1]
 
-Diese Verordnung gilt für den Dienst Überwachung Post- und Fernmeldeverkehr (Dienst ÜPF) und die Mitwirkungspflichtigen gemäss Artikel 2 BÜPF.
+Diese Verordnung gilt für den Dienst Überwachung Post- und Fernmeldeverkehr (Dienst ÜPF), die Behörden gemäss Artikel 1 Absatz 2 Buchstabe a–f VÜPF und die Mitwirkungspflichtigen gemäss Artikel 2 BÜPF.
+
+[^1-1]: Fassung gemäss Ziff. I der V des EJPD vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 686](https://fedlex.data.admin.ch/eli/oc/2023/686)).
 
 #### Art. 2
 
@@ -50,12 +52,19 @@ Die Mitwirkungspflichtigen sind verpflichtet, für Überwachungen zuständige Mi
 
 #### Art. 3
 
-**Absicherung der Kommunikation**
+**Absicherung der Kommunikation**[^3-1]
 
-Bei der Kommunikation zwischen den Mitwirkungspflichtigen und dem Dienst ÜPF sind folgende Vorgaben einzuhalten:
+<sup>1</sup>
 
-- a. Vertrauliche Mitteilungen dürfen nur von im Voraus bestimmten Personen verschickt und an solche adressiert werden.
-- b. E-Mails sind zu verschlüsseln und zu signieren.
+Der Dienst ÜPF, die Behörden und die Mitwirkungspflichtigen kommunizieren miteinander über die folgenden sicheren Übertragungsmittel:
+
+- a. das Verarbeitungssystem des Dienstes ÜPF;
+- b. die Verschlüsselungslösungen für E-Mails gemäss Anhang 1; oder
+- c. nach Absprache mit dem Dienst ÜPF, ein anderes gleichwertiges Mittel.
+
+<sup>2</sup> Vertrauliche Mitteilungen zwischen den Mitwirkungspflichtigen und dem Dienst ÜPF dürfen nur von im Voraus bestimmten Personen verschickt und an solche adressiert werden.
+
+[^3-1]: Fassung gemäss Ziff. I der V des EJPD vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 686](https://fedlex.data.admin.ch/eli/oc/2023/686)).
 
 #### Art. 4
 
@@ -134,13 +143,21 @@ Störungen in den Ausleitungsnetzen, die im gemeinsamen Verantwortungsbereich li
 
 <sup>2</sup> Die Datenlieferung gemäss Artikel 16 Buchstabe b VÜPF besteht in der laufenden Mitteilung der Daten gemäss den Ziffern 1–4 der genannten Bestimmung, ohne dass die Zustellung der betreffenden Postsendungen unterbrochen wird.
 
+<sup>2bis</sup> Der Dienst ÜPF übermittelt der Anbieterin von Postdiensten den Auftrag zur Ausführung einer Echtzeitüberwachung innerhalb einer Stunde ab Eingang der Anordnung.[^10-1]
+
 <sup>3</sup> Die Echtzeitüberwachung gemäss Artikel 16 Buchstaben a und b VÜPF ist von den Anbieterinnen von Postdiensten innerhalb eines Arbeitstags ab Eingang des Auftrags einzurichten. Sie dauert bis zum Zeitpunkt der Aufhebung.
+
+[^10-1]: Eingefügt durch Ziff. I der V des EJPD vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 686](https://fedlex.data.admin.ch/eli/oc/2023/686)).
 
 #### Art. 11
 
-**Rückwirkende Überwachung**
+**Rückwirkende Überwachung**[^11-1]
 
-Die Anbieterinnen von Postdiensten führen die rückwirkende Überwachung gemäss Artikel 16 Buchstabe c VÜPF innerhalb von drei Arbeitstagen ab Eingang des Auftrags aus.
+<sup>1</sup> Der Dienst ÜPF übermittelt der Anbieterin von Postdiensten den Auftrag innerhalb einer Stunde ab Eingang der Anordnung.
+
+<sup>2</sup> Die Anbieterinnen von Postdiensten führen die rückwirkende Überwachung gemäss Artikel 16 Buchstabe c VÜPF innerhalb von drei Arbeitstagen ab Eingang des Auftrags aus.
+
+[^11-1]: Fassung gemäss Ziff. I der V des EJPD vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 686](https://fedlex.data.admin.ch/eli/oc/2023/686)).
 
 ## 3. Abschnitt: Auskünfte zum Fernmeldeverkehr
 
@@ -180,12 +197,31 @@ Die flexible Suche gemäss Artikel 27 in Verbindung mit den Artikeln 35, 40, 42 
 
 <sup>2</sup>
 
-Die Anbieterinnen von Fernmeldediensten, ausgenommen jene mit reduzierten Überwachungspflichten gemäss Artikel 51 VÜPF, und die Anbieterinnen abgeleiteter Kommunikationsdienste mit weitergehenden Auskunftspflichten gemäss Artikel 22 VÜPF müssen Auskunftsgesuche, nachdem sie bei ihnen eingegangen sind, wie folgt beantworten:
+Die Anbieterinnen von Fernmeldediensten (FDA) mit Ausnahme derjenigen mit reduzierten Überwachungspflichten (Art. 51 VÜPF) und die Anbieterinnen abgeleiteter Kommunikationsdienste (AAKD) mit weitergehenden Pflichten gemäss Artikel 22 oder 52 VÜPF müssen Auskunftsgesuche, nachdem sie bei ihnen eingegangen sind, innerhalb der folgenden Fristen beantworten, soweit sie dazu nach Artikel 18 VÜPF verpflichtet sind:
 
-- a. Auskunftsgesuche gemäss den Artikeln 35–37 und 40–42 VÜPF sowie gemäss Artikel 27 in Verbindung mit den Artikeln 35, 40 und 42 VÜPF: innerhalb einer Stunde;
-- b. Auskunftsgesuche gemäss den Artikeln 38, 39 und 43–48 VÜPF sowie gemäss Artikel 27 in Verbindung mit Artikel 43 VÜPF: innerhalb eines Arbeitstags.
+- a. Auskunftsgesuche gemäss Artikel 48*b* VÜPF: sofort;
+- b. Auskunftsgesuche gemäss den Artikeln 35–37, 40, 41 und 48*a* VÜPF sowie gemäss Artikel 27 in Verbindung mit den Artikeln 35 und 40 VÜPF: innerhalb einer Stunde;
+- c.
 
-<sup>3</sup> Die Anbieterinnen von Fernmeldediensten mit reduzierten Überwachungspflichten, Anbieterinnen abgeleiteter Kommunikationsdienste ohne weitergehende Auskunftspflichten und Betreiberinnen interner Fernmeldenetze müssen Auskunftsgesuche, nachdem sie bei ihnen eingegangen sind, innerhalb von zwei Arbeitstagen beantworten.
+  Auskunftsgesuche gemäss den Artikeln 38, 39, 42, 43 und 48*c* VÜPF sowie gemäss Artikel 27 in Verbindung mit den Artikeln 42 und 43 VÜPF:
+
+  - 1\. bei einem Eingang während der Normalarbeitszeiten: innerhalb eines Arbeitstags,
+  - 2\. bei einem Eingang ausserhalb der Normalarbeitszeiten und an Feiertagen: innerhalb von sechs Stunden,
+
+- d. Auskunftsgesuche gemäss den Artikeln 44–48 VÜPF: innerhalb eines Arbeitstags.[^14-1]
+
+<sup>3</sup>
+
+Die FDA mit reduzierten Überwachungspflichten müssen Auskunftsgesuche, nachdem sie bei ihnen eingegangen sind, wie folgt beantworten:
+
+- a. Auskunftsgesuche gemäss den Artikeln 35–37, 40, 41 und 48*a* VÜPF sowie gemäss Artikel 27 in Verbindung mit den Artikeln 35 und 40 VÜPF: innerhalb eines Arbeitstags;
+- b. Auskunftsgesuche gemäss den Artikeln 38, 39, 42–48 und 48*c* VÜPF sowie gemäss Artikel 27 in Verbindung mit den Artikeln 42 und 43 VÜPF: innerhalb von zwei Arbeitstagen.[^14-2]
+
+<sup>4</sup> Die AAKD ohne weitergehende Pflichten und die Betreiberinnen interner Fernmeldenetze müssen Auskunftsgesuche, nachdem sie bei ihnen eingegangen sind, innerhalb von zwei Arbeitstagen beantworten.[^14-3]
+
+[^14-1]: Fassung gemäss Ziff. I der V des EJPD vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 686](https://fedlex.data.admin.ch/eli/oc/2023/686)).
+[^14-2]: Fassung gemäss Ziff. I der V des EJPD vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 686](https://fedlex.data.admin.ch/eli/oc/2023/686)).
+[^14-3]: Eingefügt durch Ziff. I der V des EJPD vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 686](https://fedlex.data.admin.ch/eli/oc/2023/686)).
 
 ## 4. Abschnitt: Überwachung des Fernmeldeverkehrs
 
@@ -236,9 +272,12 @@ Die Anbieterinnen von Fernmeldediensten, ausgenommen jene mit reduzierten Überw
 
 <sup>1</sup> Der Dienst ÜPF übermittelt Aufträge zur Ausführung von Notsuchen und Fahndungen so rasch wie möglich an die Anbieterin, höchstens aber innerhalb einer Stunde ab Eingang der Anordnung.
 
-<sup>2</sup> Handelt es sich um eine Notsuche gemäss Artikel 67 Buchstaben a–c VÜPF oder um eine Echtzeitüberwachung aufgrund einer Fahndung gemäss Artikel 68 Buchstaben a oder b VÜPF, so muss die Anbieterin die Überwachung so rasch wie möglich, in der Regel aber spätestens innerhalb einer Stunde ab Eingang des Auftrags durchführen beziehungsweise aktivieren.
+<sup>2</sup> Handelt es sich um eine Notsuche gemäss Artikel 67 Buchstaben a–e VÜPF oder um eine Fahndung gemäss Artikel 68 Absatz 1 Buchstaben a–e VÜPF, so muss die Anbieterin die Überwachung so rasch wie möglich, in der Regel aber spätestens innerhalb einer Stunde ab Eingang des Auftrags durchführen beziehungsweise aktivieren.[^18-1]
 
-<sup>3</sup> Handelt es sich um eine Notsuche gemäss Artikel 67 Buchstabe d VÜPF oder eine rückwirkende Überwachung aufgrund einer Fahndung gemäss Artikel 68 Buchstabe c oder d VÜPF, so muss die Anbieterin die Überwachung so rasch wie möglich, in der Regel aber spätestens innerhalb von vier Stunden ab Eingang des Auftrags durchführen.
+<sup>3</sup> Handelt es sich um eine Notsuche gemäss Artikel 67 Buchstabe f VÜPF oder um eine Fahndung gemäss Artikel 68 Absatz 1 Buchstabe f oder g VÜPF, so muss die Anbieterin die Überwachung so rasch wie möglich, in der Regel aber spätestens innerhalb von vier Stunden ab Eingang des Auftrags durchführen.[^18-2]
+
+[^18-1]: Fassung gemäss Ziff. I der V des EJPD vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 686](https://fedlex.data.admin.ch/eli/oc/2023/686)).
+[^18-2]: Fassung gemäss Ziff. I der V des EJPD vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 686](https://fedlex.data.admin.ch/eli/oc/2023/686)).
 
 #### Art. 19
 
@@ -265,15 +304,17 @@ Die Annullierung ist wie folgt durchzuführen:
 
 **Anbindung der Systeme einer Anbieterin an das Verarbeitungssystem des Dienstes ÜPF**
 
-<sup>1</sup> Die Anbieterinnen von Fernmeldediensten und die Anbieterinnen abgeleiteter Kommunikationsdienste mit weitergehenden Auskunftspflichten informieren den Dienst ÜPF über ihre Auskunftsbereitschaft bezüglich der von ihnen angebotenen Dienste und wie sie die standardisierten Auskunftstypen für die einzelnen Dienste realisieren.[^20-1]
+<sup>1</sup> Die FDA[^20-1] und die AAKD[^20-2] mit weitergehenden Auskunftspflichten informieren den Dienst ÜPF über ihre Auskunftsbereitschaft bezüglich der von ihnen angebotenen Dienste und wie sie die standardisierten Auskunftstypen für die einzelnen Dienste realisieren.[^20-3]
 
-<sup>2</sup> Die Anbieterinnen von Fernmeldediensten, ausser jenen mit reduzierten Überwachungspflichten, und die Anbieterinnen abgeleiteter Kommunikationsdienste mit weitergehenden Überwachungspflichten gemäss Artikel 52 VÜPF informieren den Dienst ÜPF über ihre Überwachungsbereitschaft bezüglich der von ihnen angebotenen Dienste und wie sie die standardisierten Überwachungstypen für die einzelnen Dienste realisieren.
+<sup>2</sup> Die FDA, ausser jenen mit reduzierten Überwachungspflichten, und die AAKD mit weitergehenden Überwachungspflichten gemäss Artikel 52 VÜPF informieren den Dienst ÜPF über ihre Überwachungsbereitschaft bezüglich der von ihnen angebotenen Dienste und wie sie die standardisierten Überwachungstypen für die einzelnen Dienste realisieren.
 
 <sup>3</sup> Der Dienst ÜPF legt nach Anhörung der Anbieterin die Einzelheiten zur Auftragsabwicklung, zum Ausleitungsnetz sowie die für die einzelnen Auskunfts- und Überwachungstypen zutreffenden Identifikatoren wie Typ oder Format fest.
 
 <sup>4</sup> Die Anbieterin implementiert das Ausleitungsnetz gemäss Anhang 2 und den Anweisungen des Dienstes ÜPF.
 
-[^20-1]: Die Berichtigung vom 4. Dez. 2023 betrifft nur den französischen Text ([AS 2023 730](https://fedlex.data.admin.ch/eli/oc/2023/730)).
+[^20-1]: Ausdruck gemäss Ziff. I der V des EJPD vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 686](https://fedlex.data.admin.ch/eli/oc/2023/686)). Diese Änd. wurde in den in der AS genannten Bestimmungen vorgenommen.
+[^20-2]: Ausdruck gemäss Ziff. I der V des EJPD vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 686](https://fedlex.data.admin.ch/eli/oc/2023/686)). Diese Änd. wurde in den in der AS genannten Bestimmungen vorgenommen.
+[^20-3]: Die Berichtigung vom 4. Dez. 2023 betrifft nur den französischen Text ([AS 2023 730](https://fedlex.data.admin.ch/eli/oc/2023/730)).
 
 #### Art. 21
 
@@ -341,7 +382,7 @@ Die technischen Vorschriften zur Durchführung der Überwachung des Fernmeldever
 
 **Übergangsbestimmung**
 
-Bis die Anbieterinnen von Fernmeldediensten und die Anbieterinnen abgeleiteter Kommunikationsdienste mit weitergehenden Auskunftspflichten ihre Systeme nach Artikel 74 Absatz 8 VÜPF angepasst haben, gilt für die Bearbeitung der Auskunftsgesuche gemäss den Artikeln 36 und 41 VÜPF eine Frist von höchstens einem Arbeitstag.
+Bis die FDA und die AAKD mit weitergehenden Auskunftspflichten ihre Systeme nach Artikel 74 Absatz 8 VÜPF angepasst haben, gilt für die Bearbeitung der Auskunftsgesuche gemäss den Artikeln 36 und 41 VÜPF eine Frist von höchstens einem Arbeitstag.
 
 #### Art. 27a
 
@@ -361,17 +402,20 @@ Anhang 1[^t-1]
 
 (Art. 7 Abs. 3 Bst. a, 26 und 27*a*)
 
-## Technische Vorschriften für die Schnittstellen für die Durchführung der Fernmeldeüberwachung (Ausgabe 2.2)
+## Technische Vorschriften für die Schnittstellen für die Durchführung der Fernmeldeüberwachung (Ausgabe 3.0)
 
 [^annex1-lvlu1-1]
 
-[^t-1]: Fassung gemäss Ziff. II der V des EJPD vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 302](https://fedlex.data.admin.ch/eli/oc/2022/302)).
-[^annex1-lvlu1-1]: Dieser Anhang wird in der AS nicht veröffentlicht. Er kann kostenlos im Internet unter www.li.admin.ch &gt; Dokumentation &gt; Downloads abgerufen oder beim Dienst ÜPF, 3003 Bern bezogen werden.
+[^t-1]: Fassung gemäss Ziff. II der V des EJPD vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 686](https://fedlex.data.admin.ch/eli/oc/2023/686)).
+[^annex1-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter [https://fedlex.data.admin.ch/eli/oc/2023/686](https://fedlex.data.admin.ch/eli/oc/2023/686) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 Anhang 2[^t-2]
 
 (Art. 20 Abs. 4 und 26)
 
-## Technische Vorschriften für die Ausleitungsnetze für die Durchführung der Fernmeldeüberwachung (Ausgabe 1.1)
+## Technische Vorschriften für die Ausleitungsnetze für die Durchführung der Fernmeldeüberwachung (Ausgabe 2.0)
 
-[^t-2]: Dieser Anhang wird in der AS nicht veröffentlicht ([AS 2019 571](https://fedlex.data.admin.ch/eli/oc/2019/96)). Er kann kostenlos im Internet unter www.li.admin.ch abgerufen oder beim Dienst ÜPF, Fellerstrasse 15, 3003 Bern, bezogen werden.
+[^annex2-lvlu1-1]
+
+[^t-2]: Fassung gemäss Ziff. II der V des EJPD vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 686](https://fedlex.data.admin.ch/eli/oc/2023/686)).
+[^annex2-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter [https://fedlex.data.admin.ch/eli/oc/2023/686](https://fedlex.data.admin.ch/eli/oc/2023/686) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.

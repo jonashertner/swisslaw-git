@@ -4,11 +4,11 @@ title: Ordonnance du DFJP du 15 novembre 2017 sur la mise en uvre de la survei
 short: OME-SCPT
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/35"
 language: fr
-version: 2023-12-04
+version: 2024-01-01
 adopted: 2017-11-15
 in_force: 2018-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/35/20231204/fr/xml/fedlex-data-admin-ch-eli-cc-2018-35-20231204-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/35/20231204/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/35/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2018-35-20240101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/35/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/35/20231204/fr"
 
 (OME-SCPT)
 
-du 15 novembre 2017 (État le 4 décembre 2023)
+du 15 novembre 2017 (État le 1<sup>er</sup> janvier 2024)
 
 Le Département fédéral de justice et police (DFJP),
 
@@ -32,9 +32,11 @@ arrête:
 
 #### Art. 1
 
-**Champ d’application**
+**Champ d’application**[^1-1]
 
-La présente ordonnance s’applique au Service Surveillance de la correspondance par poste et télécommunication (Service SCPT) et aux personnes obligées de collaborer selon l’art. 2 LSCPT.
+La présente ordonnance s’applique au Service Surveillance de la correspondance par poste et télécommunication (Service SCPT), aux autorités selon l’art. 1, al. 2, let. a à f, OSCPT et aux personnes obligées de collaborer selon l’art. 2 LSCPT.
+
+[^1-1]: Nouvelle teneur selon le ch. I de l’O du DFJP du 15 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 686](https://fedlex.data.admin.ch/eli/oc/2023/686)).
 
 #### Art. 2
 
@@ -50,12 +52,19 @@ Les personnes obligées de collaborer sont tenues d’informer leurs employés c
 
 #### Art. 3
 
-**Sécurisation de la communication**
+**Sécurisation de la communication**[^3-1]
 
-La communication entre les personnes obligées de collaborer et le Service SCPT doit respecter les prescriptions suivantes:
+<sup>1</sup>
 
-- a. seules des personnes définies au préalable sont autorisées à envoyer et à recevoir des communications confidentielles;
-- b. les courriels sont cryptés et signés.
+Le Service SCPT, les autorités et les personnes obligées de collaborer communiquent entre eux via les moyens de transmission sécurisés suivants:
+
+- a. le système de traitement du Service SCPT,
+- b. les solutions de cryptage de courriels selon l’annexe 1, ou
+- c. après concertation avec le Service SCPT, un autre moyen équivalent.
+
+<sup>2</sup> S’agissant de la communication entre le Service SCPT et les personnes obligées de collaborer, seules des personnes définies au préalable sont autorisées à envoyer et à recevoir des communications confidentielles.
+
+[^3-1]: Nouvelle teneur selon le ch. I de l’O du DFJP du 15 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 686](https://fedlex.data.admin.ch/eli/oc/2023/686)).
 
 #### Art. 4
 
@@ -132,13 +141,21 @@ Les parties concernées éliminent en étroite coopération les dérangements af
 
 <sup>2</sup> La transmission de données selon l’art. 16, let. b, OSCPT consiste en la communication en continu des données selon les ch. 1 à 4 de ladite disposition, sans interrompre le processus de distribution de l’envoi postal concerné.
 
+<sup>2</sup> <sup>bis</sup> Le Service SCPT transmet au fournisseur de services postaux le mandat d’exécution d’une surveillance en temps réel dans un délai d’une heure suivant la réception de l’ordre.[^10-1]
+
 <sup>3</sup> Le fournisseur de services postaux dispose d’un jour ouvré suivant la réception du mandat pour mettre en place les surveillances en temps réel selon l’art. 16, let. a et b, OSCPT. La surveillance se poursuit aussi longtemps qu’elle n’est pas levée.
+
+[^10-1]: Introduit par le ch. I de l’O du DFJP du 15 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 686](https://fedlex.data.admin.ch/eli/oc/2023/686)).
 
 #### Art. 11
 
-**Surveillance rétroactive**
+**Surveillance rétroactive**[^11-1]
 
-Les fournisseurs de services postaux exécutent les surveillances rétroactives selon l’art. 16, let. c, OSCPT dans les trois jours ouvrés suivant la réception du mandat.
+<sup>1</sup> Le Service SCPT transmet le mandat au fournisseur de services postaux dans un délai d’une heure suivant la réception de l’ordre.
+
+<sup>2</sup> Les fournisseurs de services postaux exécutent la surveillance rétroactive selon l’art. 16, let. c, OSCPT dans un délai de trois jours ouvrés suivant la réception du mandat.
+
+[^11-1]: Nouvelle teneur selon le ch. I de l’O du DFJP du 15 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 686](https://fedlex.data.admin.ch/eli/oc/2023/686)).
 
 ## Section 3 Renseignements sur la correspondance par télécommunication
 
@@ -178,12 +195,31 @@ La recherche flexible selon l’art. 27, en relation avec les art. 35, 40, 42 et
 
 <sup>2</sup>
 
-Les fournisseurs de services de télécommunication, à l’exception de ceux qui ont des obligations restreintes en matière de surveillance visés à l’art. 51 OSCPT, et les fournisseurs de services de communications dérivés ayant des obligations étendues en matière de fourniture de renseignements, visés à l’art. 22 OSCPT, traitent les demandes de renseignements comme suit:
+Les fournisseurs de services de télécommunication (FST), à l’exception de ceux qui ont des obligations restreintes en matière de surveillance (art. 51 OSCPT), et les fournisseurs de services de communication dérivés (FSCD) ayant des obligations étendues selon les art. 22 ou 52 OSCPT traitent les demandes de renseignements dans les délais suivants, dans la mesure où ils y sont tenus selon l’art. 18 OSCPT:
 
-- a. dans un délai d’une heure suivant leur réception pour les demandes selon les art. 35 à 37 et 40 à 42 OSCPT et l’art. 27 en relation avec les art. 35, 40 et 42 OSCPT;
-- b. dans un délai d’un jour ouvré suivant leur réception pour les demandes selon les art. 38, 39 et 43 à 48 OSCPT et l’art. 27 en relation avec l’art. 43 OSCPT.
+- a. demandes selon l’art. 48*b* OSCPT: immédiatement;
+- b. demandes selon les art. 35 à 37, 40, 41 et 48*a* OSCPT, ainsi que selon l’art. 27 en relation avec les art. 35 et 40 OSCPT: dans un délai d’une heure suivant leur réception;
+- c.
 
-<sup>3</sup> Les fournisseurs de services de télécommunication ayant des obligations restreintes en matière de surveillance, les fournisseurs de services de communication dérivés n’ayant pas d’obligations étendues en matière de fourniture de renseignements et les exploitants de réseaux de communication internes traitent les demandes de renseignements dans un délai de deux jours ouvrés suivant leur réception.
+  demandes selon les art. 38, 39, 42, 43 et 48*c* OSCPT, ainsi que selon l’art. 27 en relation avec les art. 42 et 43 OSCPT:
+
+  - 1\. en cas de réception durant les heures normales de travail: dans un délai d’un jour ouvré,
+  - 2\. en cas de réception en dehors des heures normales de travail ou les jours fériés: dans un délai de six heures;
+
+- d. demandes selon les art. 44 à 48 OSCPT: dans un délai d’un jour ouvré suivant leur réception.[^14-1]
+
+<sup>3</sup>
+
+Les FST ayant des obligations restreintes en matière de surveillance traitent les demandes de renseignements comme suit:
+
+- a. demandes selon les art. 35 à 37, 40, 41 et 48*a* OSCPT, ainsi que selon l’art. 27 en relation avec les art. 35 et 40 OSCPT: dans un délai d’un jour ouvré suivant leur réception;
+- b. demandes selon les art. 38, 39, 42 à 48 et 48*c* OSCPT, ainsi que selon l’art. 27 en relation avec les art. 42 et 43 OSCPT: dans un délai de deux jours ouvrés suivant leur réception.[^14-2]
+
+<sup>4</sup> Les FSCD n’ayant pas d’obligations étendues et les exploitants de réseaux de communication internes traitent les demandes de renseignements dans un délai de deux jours ouvrés suivant leur réception.[^14-3]
+
+[^14-1]: Nouvelle teneur selon le ch. I de l’O du DFJP du 15 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 686](https://fedlex.data.admin.ch/eli/oc/2023/686)).
+[^14-2]: Nouvelle teneur selon le ch. I de l’O du DFJP du 15 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 686](https://fedlex.data.admin.ch/eli/oc/2023/686)).
+[^14-3]: Introduit par le ch. I de l’O du DFJP du 15 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 686](https://fedlex.data.admin.ch/eli/oc/2023/686)).
 
 ## Section 4 Surveillance de la correspondance par télécommunication
 
@@ -236,9 +272,12 @@ Tous les types de surveillance en temps réel (art. 54 à 59 OSCPT), de surveill
 
 <sup>1</sup> Le Service SCPT transmet aux fournisseurs dans les meilleurs délais, mais au plus tard dans un délai d’une heure suivant la réception des ordres, les mandats d’exécution de recherches en cas d’urgence ou de recherches de personnes condamnées.
 
-<sup>2</sup> Dans le cas de recherches d’urgence selon l’art. 67, let. a à c, OSCPT ou de surveillances en temps réel aux fins de la recherche de personnes condamnées selon l’art. 68, let. a ou b, OSCPT, les fournisseurs exécutent ou activent la surveillance dans les meilleurs délais, mais en règle générale au plus tard dans un délai d’une heure suivant la réception du mandat.
+<sup>2</sup> Dans le cas de recherches d’urgence selon l’art. 67, let. a à e, OSCPT ou de recherches de personnes condamnées selon l’art. 68, al. 1, let. a à e, OSCPT, les fournisseurs exécutent ou activent la surveillance dans les meilleurs délais, mais en règle générale au plus tard dans un délai d’une heure suivant la réception du mandat.[^18-1]
 
-<sup>3</sup> Dans le cas de recherches d’urgence selon l’art. 67, let. d, OSCPT ou de surveillances rétroactives aux fins de la recherche de personnes condamnées selon l’art. 68, let. c ou d, OSCPT, les fournisseurs exécutent la surveillance dans les meilleurs délais, mais en règle générale au plus tard dans un délai de quatre heures suivant la réception du mandat.
+<sup>3</sup> Dans le cas de recherches d’urgence selon l’art. 67, let. f, OSCPT ou de recherches de personnes condamnées selon l’art. 68, al. 1, let. f ou g, OSCPT, les fournisseurs exécutent la surveillance dans les meilleurs délais, mais en règle générale au plus tard dans un délai de quatre heures suivant la réception du mandat.[^18-2]
+
+[^18-1]: Nouvelle teneur selon le ch. I de l’O du DFJP du 15 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 686](https://fedlex.data.admin.ch/eli/oc/2023/686)).
+[^18-2]: Nouvelle teneur selon le ch. I de l’O du DFJP du 15 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 686](https://fedlex.data.admin.ch/eli/oc/2023/686)).
 
 #### Art. 19
 
@@ -265,15 +304,17 @@ L’annulation s’effectue comme suit:
 
 **Raccordement des systèmes des fournisseurs au système de traitement du Service SCPT**
 
-<sup>1</sup> Les fournisseurs de services de télécommunication et les fournisseurs de services de communication dérivés ayant des obligations étendues en matière de fourniture de renseignements informent le Service SCPT de leur disponibilité à renseigner concernant les services qu’ils offrent et des modalités d’exécution, pour chacun de leurs services, des demandes portant sur des types de renseignements ayant fait l’objet d’une standardisation.[^20-1]
+<sup>1</sup> Les FST[^20-1] et les FSCD[^20-2] ayant des obligations étendues en matière de fourniture de renseignements informent le Service SCPT de leur disponibilité à renseigner concernant les services qu’ils offrent et des modalités d’exécution, pour chacun de leurs services, des demandes portant sur des types de renseignements ayant fait l’objet d’une standardisation.[^20-3]
 
-<sup>2</sup> Les fournisseurs de services de télécommunication, à l’exception de ceux qui ont des obligations restreintes en matière de surveillance, et les fournisseurs de services de communication dérivés ayant des obligations étendues en matière de surveillance visés à l’art. 52 OSCPT informent le Service SCPT de leur disponibilité à surveiller les services qu’ils offrent et des modalités d’exécution, pour chacun de leurs services, des types de surveillance ayant fait l’objet d’une standardisation.
+<sup>2</sup> Les FST, à l’exception de ceux qui ont des obligations restreintes en matière de surveillance, et les FSCD ayant des obligations étendues en matière de surveillance visés à l’art. 52 OSCPT informent le Service SCPT de leur disponibilité à surveiller les services qu’ils offrent et des modalités d’exécution, pour chacun de leurs services, des types de surveillance ayant fait l’objet d’une standardisation.
 
 <sup>3</sup> Le Service SCPT fixe, après avoir entendu les fournisseurs, les modalités concernant l’exécution du mandat et le réseau de transmission, et détermine pour chaque type de renseignements et de surveillance les identifiants pertinents, comme le type ou le format.
 
 <sup>4</sup> Les fournisseurs mettent en place le réseau de transmission conformément à l’annexe 2 et aux instructions du Service SCPT.
 
-[^20-1]: Erratum du 4 déc. 2023 ([RO 2023 730](https://fedlex.data.admin.ch/eli/oc/2023/730)).
+[^20-1]: Nouvelle expression selon le ch. I de l’O du DFJP du 15 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 686](https://fedlex.data.admin.ch/eli/oc/2023/686)). Il n’a été tenu compte de cette mod. que dans les disp. mentionnées au RO.
+[^20-2]: Nouvelle expression selon le ch. I de l’O du DFJP du 15 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 686](https://fedlex.data.admin.ch/eli/oc/2023/686)). Il n’a été tenu compte de cette mod. que dans les disp. mentionnées au RO.
+[^20-3]: Erratum du 4 déc. 2023 ([RO 2023 730](https://fedlex.data.admin.ch/eli/oc/2023/730)).
 
 #### Art. 21
 
@@ -341,7 +382,7 @@ Les prescriptions techniques relatives à la mise en œuvre de la surveillance e
 
 **Disposition finale**
 
-Jusqu’à ce que les fournisseurs de services de télécommunication et les fournisseurs de services de communication dérivés ayant des obligations étendues en matière de fourniture de renseignements aient adapté leurs systèmes conformément à l’art. 74, al. 8, OSCPT, le délai imparti pour le traitement des demandes de renseignements selon les art. 36 et 41 OSCPT est d’un jour ouvré au plus.
+Jusqu’à ce que les FST et les FSCD ayant des obligations étendues en matière de fourniture de renseignements aient adapté leurs systèmes conformément à l’art. 74, al. 8, OSCPT, le délai imparti pour le traitement des demandes de renseignements selon les art. 36 et 41 OSCPT est d’un jour ouvré au plus.
 
 #### Art. 27a
 
@@ -361,17 +402,20 @@ Annexe 1[^t-1]
 
 (art. 7, al. 3, let. a, 26 et 27*a*)
 
-## Prescriptions techniques relatives aux interfaces pour la mise en œuvre de la surveillance de la correspondance par poste et télécommunication (version 2.2)
+## Prescriptions techniques relatives aux interfaces pour la mise en œuvre de la surveillance de la correspondance par poste et télécommunications (version 3.0)
 
 [^annex1-lvlu1-1]
 
-[^t-1]: Nouvelle teneur selon le ch. II de l’O du 4 mai 2022, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 302](https://fedlex.data.admin.ch/eli/oc/2022/302)).
-[^annex1-lvlu1-1]: La présente annexe n’est pas publiée au RO. Elle peut être obtenue gratuitement sur le site [www.li.admin.ch](http://www.li.admin.ch) &gt; Documentation &gt; Téléchargements ou auprès du Service SCPT, 3003 Berne.
+[^t-1]: Nouvelle teneur selon le ch. II de l’O du DFJP du 15 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 686](https://fedlex.data.admin.ch/eli/oc/2023/686)).
+[^annex1-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement par renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2023/686](https://fedlex.data.admin.ch/eli/oc/2023/686) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
 Annexe 2[^t-2]
 
-(art. 20, al. 4, et art. 26)
+(art. 20, al. 4, et 26)
 
-## Prescriptions techniques relatives aux réseaux de transmission pour la mise en œuvre de la surveillance de la correspondance par poste et télécommunications (version 1.1)
+## Prescriptions techniques relatives aux réseaux de transmission pour la mise en œuvre de la surveillance de la correspondance par poste et télécommunication (version 2.0)
 
-[^t-2]: Cette annexe n’est pas publiée au RO ([RO 2019 571](https://fedlex.data.admin.ch/eli/oc/2019/96)). Elle peut être obtenue gratuitement sur le site [www.li.admin.ch](http://www.li.admin.ch) ou auprès du Service SCPT, Fellerstrasse 15, 3003 Berne.
+[^annex2-lvlu1-1]
+
+[^t-2]: Nouvelle teneur selon le ch. II de l’O du DFJP du 15 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 686](https://fedlex.data.admin.ch/eli/oc/2023/686)).
+[^annex2-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement par renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2023/686](https://fedlex.data.admin.ch/eli/oc/2023/686) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
