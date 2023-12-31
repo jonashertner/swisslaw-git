@@ -4,13 +4,13 @@ number: "731.21"
 title: Verordnung zur Interkantonalen Vereinbarung über das öffentliche Beschaffungswesen
 short: IVöBV
 language: de
-version: 2023-01-01
-valid_until: 2023-12-31
-version_adopted: 2022-11-16
+version: 2024-01-01
+valid_until: 2024-08-31
+version_adopted: 2023-10-25
 adopted: 2021-11-17
 in_force: 2022-02-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/731.21"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2736/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2894/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2736/pdf_file"
 
 (IVöBV)
 
-vom 17.11.2021 (Stand 01.01.2023)
+vom 17.11.2021 (Stand 01.01.2024)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -261,7 +261,7 @@ beschliesst:
 
 - a die Direktionen und die Staatskanzlei für die Aufträge der ihnen unterstellten Organisationseinheiten,
 - b der Regierungsrat für die Aufträge der Direktionen und der Staatskanzlei,
-- c die Justizleitung für die Aufträge der Gerichtsbehörden und der Staatsanwaltschaft,
+- c die Justizverwaltungsleitung für die Aufträge der Gerichtsbehörden und der Staatsanwaltschaft,
 - d der Regierungsrat, auf Antrag der für den betreffenden Aufgabenbereich zuständigen Direktion oder der Staatskanzlei, für die Aufträge der anderen Trägerinnen und Träger kantonaler Aufgaben (Art. 95 Abs. 3 der Verfassung des Kantons Bern[^20-1]),
 - e die Regierungsstatthalterinnen und Regierungsstatthalter für die Aufträge der Gemeinden (Art. 87 des Gemeindegesetzes vom 16. März 1998 [GG][^20-2]),
 - f die Gemeinden für die Aufträge der Trägerinnen und Träger kommunaler Aufgaben (Art. 65 Abs. 2 und Art. 69 Abs. 1 GG).

@@ -4,13 +4,13 @@ number: "731.21"
 title: Ordonnance concernant l’accord intercantonal sur les marchés publics
 short: OAIMP
 language: fr
-version: 2023-01-01
-valid_until: 2023-12-31
-version_adopted: 2022-11-16
+version: 2024-01-01
+valid_until: 2024-08-31
+version_adopted: 2023-10-25
 adopted: 2021-11-17
 in_force: 2022-02-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/731.21"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2736/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2894/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2736/pdf_file"
 
 (OAIMP)
 
-du 17.11.2021 (état au 01.01.2023)
+du 17.11.2021 (état au 01.01.2024)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -261,7 +261,7 @@ arrête:
 
 - a les Directions et la Chancellerie d'Etat pour les marchés passés par des services qui leur sont subordonnés,
 - b le Conseil-exécutif pour les marchés des Directions et de la Chancellerie d'Etat,
-- c la Direction de la magistrature pour les marchés des autorités judiciaires et du Ministère public,
+- c la Direction administrative de la magistrature pour les marchés des autorités judiciaires et du Ministère public,
 - d le Conseil-exécutif, à la demande de la Direction compétente pour le domaine d'activité concerné ou de la Chancellerie d'Etat, pour les marchés des autres organisations chargées de tâches publiques (art. 95, al. 3 de la Constitution cantonale[^20-1]),
 - e les préfets et préfètes pour les marchés des communes (art. 87 de la loi du 16 mars 1998 sur les communes [LCo][^20-2]),
 - f les communes pour les marchés des organisations chargées de tâches communales (art. 65, al. 2 et art. 69, al. 1 LCo).
