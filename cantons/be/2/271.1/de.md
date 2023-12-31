@@ -4,13 +4,13 @@ number: "271.1"
 title: "Einführungsgesetz zur Zivilprozessordnung, zur Strafprozessordnung und zur Jugendstrafprozessordnung"
 short: EG ZSJ
 language: de
-version: 2023-04-01
-valid_until: 2023-12-31
-version_adopted: 2022-09-13
+version: 2024-01-01
+valid_until: 2026-04-30
+version_adopted: 2022-09-05
 adopted: 2009-06-11
 in_force: 2010-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/271.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2835/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2940/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2835/pdf_file"
 
 (EG ZSJ)
 
-vom 11.06.2009 (Stand 01.04.2023)
+vom 11.06.2009 (Stand 01.01.2024)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -60,17 +60,18 @@ beschliesst:
 <sup>1</sup> Die Akteneinsicht richtet sich
 
 - a bei hängigen Verfahren nach der ZPO bzw. der StPO,
-- b bei abgeschlossenen Verfahren nach dem Datenschutzgesetz vom 19. Februar 1986 (KDSG)[^3-1] und den nachfolgenden Bestimmungen.
+- b bei abgeschlossenen Verfahren nach dem Datenschutzgesetz vom 19. Februar 1986 (KDSG)[^3-1], dem Gesetz vom 2. November 1993 über die Information und die Medienförderung (IMG)[^3-2] sowie den nachfolgenden Bestimmungen.
 
-<sup>2</sup> Über die Einsichtnahme in Akten von abgeschlossenen Verfahren entscheidet jene Behörde, die das Verfahren geführt hat. Das Verfahren richtet sich nach dem Gesetz vom 23. Mai 1989 über die Verwaltungsrechtspflege (VRPG)[^3-2].
+<sup>2</sup> Über die Einsichtnahme in Akten von abgeschlossenen Verfahren entscheidet jene Behörde, die das Verfahren geführt hat. Das Verfahren richtet sich nach dem Gesetz vom 23. Mai 1989 über die Verwaltungsrechtspflege (VRPG)[^3-3].
 
-<sup>3</sup> Gegen Verfügungen nach Absatz 2 kann nach den Vorschriften des VRPG Beschwerde bei der zuständigen Aufsichtsbehörde gemäss Artikel 13 Absatz 2 und 4 GSOG geführt werden.
+<sup>3</sup> Gegen Verfügungen gemäss Absatz 2 kann nach den Vorschriften des VRPG Beschwerde bei der zuständigen Aufsichtsbehörde gemäss Artikel 13 Absatz 2 und 4 GSOG geführt werden.
 
-<sup>4</sup> Die Aufbewahrung der Akten der Zivil- und Strafgerichte, des Jugendgerichts sowie der Staatsanwaltschaft erfolgt nach den Bestimmungen des Gesetzes vom 31. März 2009 über die Archivierung (ArchG)[^3-3].
+<sup>4</sup> Die Aufbewahrung der Akten der Zivil- und Strafgerichte, des Jugendgerichts sowie der Staatsanwaltschaft erfolgt nach den Bestimmungen des Gesetzes vom 31. März 2009 über die Archivierung (ArchG)[^3-4].
 
-[^3-1]: BSG 152.04
-[^3-2]: BSG 155.21
-[^3-3]: BSG 108.1
+[^3-1]: BSG [152.04](https://www.belex.sites.be.ch/data/152.04/de)
+[^3-2]: BSG [107.1](https://www.belex.sites.be.ch/data/107.1/de)
+[^3-3]: BSG 155.21
+[^3-4]: BSG 108.1
 
 #### Art. 4
 
@@ -421,6 +422,20 @@ beschliesst:
 
 <sup>3</sup> Ist die Schutzbedürftigkeit nicht mehr gegeben oder hält sich die Person nicht an die ihr erteilten Auflagen, hebt die Kantonspolizei die Massnahmen auf. Die Kantonspolizei teilt dem kantonalen Zwangsmassnahmengericht die Aufhebung einer Massnahme nach Absatz 2 mit.
 
+### 3.1a Assistenzstaatsanwältinnen und Assistenzstaatsanwälte
+
+#### Art. 32b
+
+<sup>1</sup> Die Assistenzstaatsanwältinnen und Assistenzstaatsanwälte nehmen alle durch die StPO den Staatsanwältinnen und Staatsanwälten zugewiesenen Aufgaben und Kompetenzen wahr. Ausgenommen sind
+
+- a Nichtanhandnahme,
+- b Eröffnung der Untersuchung,
+- c Antrag auf Anordnung von Untersuchungs- oder Sicherheitshaft sowie auf Haftverlängerung,
+- d Anordnung von Zwangsmassnahmen,
+- e Sistierung und Einstellung des Verfahrens,
+- f Erhebung und Vertretung der Anklage,
+- g Klage auf Ungültigkeit einer Ehe oder einer eingetragenen Partnerschaft.
+
 ### 3.2 Rechtshängigkeit der Zivilklage
 
 #### Art. 33
@@ -433,7 +448,7 @@ beschliesst:
 
 **Einvernahmen (Art. 142 StPO)**
 
-<sup>1</sup> Die Staatsanwältinnen und Staatsanwälte führen die staatsanwaltlichen Einvernahmen durch.
+<sup>1</sup> Die Staatsanwältinnen und Staatsanwälte sowie die Assistenzstaatsanwältinnen und Assistenzstaatsanwälte führen die staatsanwaltlichen Einvernahmen durch.
 
 <sup>2</sup> Haben Sachbearbeiterinnen oder Sachbearbeiter Strafbefehle erlassen (Art. 59 Abs. 2), so können sie mit Beschuldigten, die Einsprache erhoben haben, zur Klärung der Einsprachegründe eine Einvernahme durchführen. Sie können das Protokoll selbst führen.
 
@@ -471,10 +486,20 @@ beschliesst:
 
 **Anordnung, Genehmigung und Verlängerung durch die Zwangsmassnahmengerichte 1. Haftentscheide**
 
-<sup>1</sup> Für die Haftentscheide sind zuständig
+<sup>1</sup> Die regionalen Zwangsmassnahmengerichte sind bei entsprechenden Gesuchen der regionalen Staatsanwaltschaften Berner Jura-Seeland, Emmental-Oberaargau und Oberland sowie der jeweiligen Regionalgerichte zuständig für die Anordnung
 
-- a das kantonale Zwangsmassnahmengericht bei Gesuchen der kantonalen Staatsanwaltschaften und der regionalen Staatsanwaltschaft Bern-Mittelland, bei Gesuchen gegen Anordnungen dieser Staatsanwaltschaften sowie bei Gesuchen des Wirtschaftsstrafgerichts und des Regionalgerichts Bern-Mittelland,
-- b die regionalen Zwangsmassnahmengerichte bei Gesuchen der regionalen Staatsanwaltschaften Berner Jura-Seeland, Emmental-Oberaargau und Oberland, bei Gesuchen gegen Anordnungen dieser Staatsanwaltschaften und bei Gesuchen der dortigen Regionalgerichte.
+- a–b …
+- c der Untersuchungshaft (Abs. 2 Bst. b),
+- d der Sicherheitshaft (Abs. 2 Bst. e) ohne vorbestehende Untersuchungshaft,
+- e der Ersatzmassnahmen (Abs. 2 Bst. h) ohne vorbestehende Untersuchungshaft,
+- f der Haft im selbstständigen Verfahren betreffend Friedensbürgschaft (Abs. 2 Bst. k),
+- g der Sicherheitshaft zur Sicherung von Rückversetzungsverfahren und selbstständigen nachträglichen richterlichen Entscheiden (Abs. 2 Bst. m).
+
+<sup>1a</sup> Das kantonale Zwangsmassnahmengericht ist zuständig für
+
+- a sämtliche Haftentscheide bei Gesuchen der kantonalen Staatsanwaltschaften und der regionalen Staatsanwaltschaft Bern-Mittelland sowie bei Gesuchen des Wirtschaftsstrafgerichts,
+- b die Überprüfung sämtlicher Anordnungen der regionalen und der kantonalen Staatsanwaltschaften auf Gesuch hin,
+- c alle übrigen in Absatz 1 nicht den regionalen Zwangsmassnahmengerichten zugewiesenen Haftentscheide nach Absatz 2 bei entsprechenden Gesuchen der regionalen Staatsanwaltschaften Berner Jura-Seeland, Emmental-Oberaargau und Oberland und der jeweiligen Regionalgerichte.
 
 <sup>2</sup> Als Haftentscheide gelten Entscheide über
 
@@ -485,7 +510,7 @@ beschliesst:
 - e die Anordnung der Sicherheitshaft (Art. 229 StPO),
 - f Gesuche um Entlassung aus der Sicherheitshaft (Art. 230 StPO),
 - g Einschränkungen des freien Verkehrs zwischen der inhaftierten Person und der Verteidigung (Art. 235 Abs. 4 StPO),
-- h Ersatzmassnahmen (Art. 237 StPO) sowie Hafturlaub während des Vorverfahrens und des erstinstanzlichen Hauptverfahrens, ,
+- h Ersatzmassnahmen (Art. 237 StPO) sowie Hafturlaub während des Vorverfahrens und des erstinstanzlichen Hauptverfahrens,
 - i die Anordnung von Friedensbürgschaft (Art. 373 Abs. 1 StPO),
 - k die Anordnung von Haft im selbstständigen Verfahren betreffend Friedensbürgschaft (Art. 373 Abs. 5 StPO),
 - l die Fortsetzung von Haft zur Sicherung des Vollzugs eines Strafbefehls (Art. 440 Abs. 2 Bst. b StPO),
@@ -497,7 +522,7 @@ beschliesst:
 
 **2. Entscheide über Entsiegelungsgesuche**
 
-<sup>1</sup> Die Zuständigkeit für die Behandlung von Gesuchen um Entsiegelung von Aufzeichnungen und Gegenständen (Art. 248 Abs. 3 Bst. a StPO) richtet sich sinngemäss nach Artikel 38 Absatz 1.
+<sup>1</sup> Für die Behandlung von Gesuchen um Entsiegelung von Aufzeichnungen und Gegenständen (Art. 248 Abs. 3 Bst. a StPO) ist das kantonale Zwangsmassnahmengericht zuständig.
 
 #### Art. 40
 
@@ -568,7 +593,7 @@ beschliesst:
 
 <sup>2</sup> Probenahmen und Analysen zur Identifizierung ausserhalb von Strafverfahren (Art. 6 DNA-Profil-Gesetz) können auch durch die Polizei angeordnet werden.
 
-<sup>3</sup> Die zuständige Stelle der Justizleitung ist die zentrale kantonale Stelle, welche der verantwortlichen Bundesbehörde das Eintreten der gesetzlichen Voraussetzungen für die Löschung von Profilen nach den Artikeln 16 bis 19 des DNA-Profil-Gesetzes zu melden hat.
+<sup>3</sup> Die zuständige Stelle der Justizverwaltungsleitung ist die zentrale kantonale Stelle, welche der verantwortlichen Bundesbehörde das Eintreten der gesetzlichen Voraussetzungen für die Löschung von Profilen nach den Artikeln 16 bis 19 des DNA-Profil-Gesetzes zu melden hat.
 
 <sup>4</sup> Die Behörde, die zuletzt mit der Sache befasst war, informiert die zentrale kantonale Stelle umgehend über das Eintreten der gesetzlichen Löschungsvoraussetzungen und holt gegebenenfalls die nach Artikel 17 des DNA-Profil-Gesetzes erforderliche richterliche Zustimmung ein.
 
@@ -578,7 +603,7 @@ beschliesst:
 
 **Löschung von biometrischen erkennungsdienstlichen Daten des Bundes**
 
-<sup>1</sup> Die zuständige Stelle der Justizleitung ist die zentrale kantonale Stelle, die der verantwortlichen Bundesbehörde das Eintreten der gesetzlichen Voraussetzungen für die Löschung von biometrischen erkennungsdienstlichen Daten nach den Artikeln 17 bis 21 der Verordnung des Bundesrates vom 6. Dezember 2013 über die Bearbeitung biometrischer erkennungsdienstlicher Daten[^46b-1] zu melden hat.
+<sup>1</sup> Die zuständige Stelle der Justizverwaltungsleitung ist die zentrale kantonale Stelle, die der verantwortlichen Bundesbehörde das Eintreten der gesetzlichen Voraussetzungen für die Löschung von biometrischen erkennungsdienstlichen Daten nach den Artikeln 17 bis 21 der Verordnung des Bundesrates vom 6. Dezember 2013 über die Bearbeitung biometrischer erkennungsdienstlicher Daten[^46b-1] zu melden hat.
 
 <sup>2</sup> Die Behörde, die zuletzt mit der Sache befasst war, informiert die zentrale kantonale Stelle umgehend über das Eintreten der gesetzlichen Löschungsvoraussetzungen und holt gegebenenfalls die nach Artikel 19 der Verordnung nach Absatz 1 erforderliche richterliche Zustimmung ein.
 
@@ -724,7 +749,7 @@ beschliesst:
 
 **Strafbefehlsverfahren 1. Strafbefehlskompetenzen**
 
-<sup>1</sup> Der Erlass eines Strafbefehls obliegt den Staatsanwältinnen und Staatsanwälten.
+<sup>1</sup> Der Erlass eines Strafbefehls obliegt den Staatsanwältinnen und Staatsanwälten sowie den Assistenzstaatsanwältinnen und Assistenzstaatsanwälten.
 
 <sup>2</sup> Unter der Verantwortung einer Staatsanwältin oder eines Staatsanwalts und gestützt auf ihre persönlichen Pflichtenhefte können erfahrene Sachbearbeiterinnen und Sachbearbeiter der Staatsanwaltschaft Strafbefehle für Übertretungen erlassen, soweit sich die Höhe der ausgefällten Busse aus einem gesetzlichen Bussenkatalog oder aus auf kantonaler Ebene festgelegten und von der Generalstaatsanwaltschaft genehmigten Richtlinien ergibt.
 
@@ -1016,6 +1041,22 @@ beschliesst:
 
 <sup>2</sup> Können sich im Verfahren gegen Jugendliche und Erwachsene die zuständigen Strafverfolgungsbehörden über den Verzicht auf die Trennung nicht einigen, entscheidet die Generalstaatsanwaltschaft.
 
+### 4.1a Assistenzjugendanwältinnen und Assistenzjugendanwälte
+
+#### Art. 84a
+
+<sup>1</sup> Die Assistenzjugendanwältinnen und Assistenzjugendanwälte nehmen alle durch die JStPO und die StPO den Jugendanwältinnen und Jugendanwälten zugewiesenen Aufgaben und Kompetenzen wahr. Ausgenommen sind
+
+- a Nichtanhandnahme,
+- b Eröffnung der Untersuchung,
+- c Antrag auf Anordnung von Untersuchungs- oder Sicherheitshaft sowie auf Haftverlängerung,
+- d Anordnung von Zwangsmassnahmen,
+- e Sistierung und Einstellung des Verfahrens,
+- f Erhebung und Vertretung der Anklage,
+- g Klage auf Ungültigkeit einer Ehe oder einer eingetragenen Partnerschaft,
+- h Unterhaltsklage,
+- i Anordnung und Aufhebung der vorsorglichen Schutzmassnahmen, der ambulanten Behandlung und Unterbringung.
+
 ### 4.2 Vorverfahren
 
 #### Art. 85
@@ -1110,7 +1151,7 @@ beschliesst:
 
 <sup>1</sup> Die Jugendanwaltschaft hat in jedem Massnahmenvollzugsfall die finanziellen Verhältnisse der Unterhaltspflichtigen abzuklären. Diese sind zur sachdienlichen Mitarbeit verpflichtet.
 
-<sup>2</sup> Die Jugendanwältin oder der Jugendanwalt schliesst mit den Unterhaltspflichtigen einen Unterhaltsvertrag ab. Die darin festzusetzenden Vollzugskostenbeiträge werden grundsätzlich in analoger Anwendung der Berechnungsgrundsätze des Gesetzes vom 3. Dezember 2020 über die Leistungen für Kinder mit besonderem Förder- und Schutzbedarf (KFSG)[^93-1] und dessen Ausführungsverordnung bestimmt. Der Unterhaltsvertrag wird der Leitung der Jugendanwaltschaft zur Genehmigung vorgelegt.
+<sup>2</sup> Die Jugendanwältin, der Jugendanwalt, die Assistenzjugendanwältin oder der Assistenzjugendanwalt schliesst mit den Unterhaltspflichtigen einen Unterhaltsvertrag ab. Die darin festzusetzenden Vollzugskostenbeiträge werden grundsätzlich in analoger Anwendung der Berechnungsgrundsätze des Gesetzes vom 3. Dezember 2020 über die Leistungen für Kinder mit besonderem Förder- und Schutzbedarf (KFSG)[^93-1] und dessen Ausführungsverordnung bestimmt. Der Unterhaltsvertrag wird der Leitung der Jugendanwaltschaft zur Genehmigung vorgelegt.
 
 <sup>3</sup> …
 

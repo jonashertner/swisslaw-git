@@ -4,13 +4,13 @@ number: "271.1"
 title: "Loi portant introduction du code de procédure civile, du code de procédure pénale et de la loi sur la procédure pénale applicable aux mineurs"
 short: LiCPM
 language: fr
-version: 2023-04-01
-valid_until: 2023-12-31
-version_adopted: 2022-09-13
+version: 2024-01-01
+valid_until: 2026-04-30
+version_adopted: 2022-09-05
 adopted: 2009-06-11
 in_force: 2010-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/271.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2835/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2940/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2835/pdf_file"
 
 (LiCPM)
 
-du 11.06.2009 (état au 01.04.2023)
+du 11.06.2009 (état au 01.01.2024)
 
 Le Grand Conseil du canton de Berne,
 
@@ -57,17 +57,18 @@ arrête:
 <sup>1</sup> La consultation des dossiers est régie,
 
 - a dans le cas des procédures pendantes, par le code de procédure civile ou le code de procédure pénale,
-- b dans le cas des procédures closes, par la loi du 19 février 1986 sur la protection des données (LCPD)[^3-1] et les dispositions ci-après.
+- b dans le cas des procédures closes, par la loi du 19 février 1986 sur la protection des données (LCPD)[^3-1], par la loi du 2 novembre 1993 sur l'information et l'aide aux médias (LIAM)[^3-2] et par les dispositions ci-après.
 
-<sup>2</sup> L'autorité qui a conduit la procédure statue sur les demandes de consultation du dossier d'une procédure close. La procédure est régie par les dispositions de la loi du 23 mai 1989 sur la procédure et la juridiction administratives (LPJA)[^3-2].
+<sup>2</sup> L'autorité qui a conduit la procédure statue sur les demandes de consultation du dossier d'une procédure close. La procédure est régie par les dispositions de la loi du 23 mai 1989 sur la procédure et la juridiction administratives (LPJA)[^3-3].
 
 <sup>3</sup> Les décisions rendues en application de l'alinéa 2 sont susceptibles de recours devant l'autorité de surveillance compétente au sens de l'article 13, alinéas 2 et 4 LOJM, conformément aux dispositions de la loi sur la procédure et la juridiction administratives.
 
-<sup>4</sup> La conservation des dossiers des tribunaux civils, des tribunaux pénaux, du Tribunal des mineurs ainsi que du Ministère public est régie par la loi du 31 mars 2009 sur l'archivage (LArch)[^3-3].
+<sup>4</sup> La conservation des dossiers des tribunaux civils, des tribunaux pénaux, du Tribunal des mineurs ainsi que du Ministère public est régie par la loi du 31 mars 2009 sur l'archivage (LArch)[^3-4].
 
-[^3-1]: RSB 152.04
-[^3-2]: RSB 155.21
-[^3-3]: RSB 108.1
+[^3-1]: RSB [152.04](https://www.belex.sites.be.ch/data/152.04/fr)
+[^3-2]: RSB [107.1](https://www.belex.sites.be.ch/data/107.1/fr)
+[^3-3]: RSB 155.21
+[^3-4]: RSB 108.1
 
 #### Art. 4
 
@@ -418,6 +419,20 @@ arrête:
 
 <sup>3</sup> Si la protection n’est plus requise ou que la personne concernée ne respecte pas les conditions qui ont été fixées, la Police cantonale lève la mesure. Elle communique la levée de la mesure visée à l’alinéa 2 au Tribunal cantonal des mesures de contrainte.
 
+### 3.1a Procureurs-assistants et procureures-assistantes
+
+#### Art. 32b
+
+<sup>1</sup> Les procureurs-assistants et procureures-assistantes assument toutes les tâches et compétences que le CPP attribue aux procureurs et procureures, à l'exception
+
+- a des ordonnances de non-entrée en matière,
+- b de l’ouverture de l’instruction,
+- c de la demande de mise en détention provisoire ou de mise en détention pour des motifs de sûreté, ou encore de prolongation de la détention,
+- d de la prescription de mesures de contrainte,
+- e de la suspension et du classement de la procédure,
+- f de la mise en accusation et de la soutenance de l'accusation,
+- g des actions en annulation du mariage ou du partenariat enregistré.
+
 ### 3.2 Litispendance de l'action civile
 
 #### Art. 33
@@ -430,7 +445,7 @@ arrête:
 
 **Auditions (art. 142 CPP)**
 
-<sup>1</sup> Les procureurs et procureures procèdent aux auditions incombant au Ministère public.
+<sup>1</sup> Les procureurs et procureures ainsi que les procureurs-assistants et les procureures-assistantes procèdent aux auditions incombant au Ministère public.
 
 <sup>2</sup> Si des collaborateurs ou des collaboratrices spécialisés ont rendu des ordonnances pénales (art. 59, al. 2), ils peuvent procéder à une audition des personnes prévenues qui ont formé opposition afin de clarifier leurs motifs. Ils sont habilités à tenir le procès-verbal.
 
@@ -468,10 +483,20 @@ arrête:
 
 **Décisions des tribunaux des mesures de contrainte ordonnant, autorisant ou prolongeant des mesures 1. Décisions de mise en détention**
 
-<sup>1</sup> Les décisions de mise en détention sont rendues
+<sup>1</sup> Les tribunaux régionaux des mesures de contrainte rendent, à la demande des ministères publics régionaux du Jura bernois-Seeland, de l'Emmental-Haute-Argovie et de l'Oberland ou des tribunaux des régions éponymes, les décisions ordonnant
 
-- a par le Tribunal cantonal des mesures de contrainte lors de demandes des ministères publics cantonaux et du Ministère public régional de Berne-Mittelland, de demandes dirigées contre des mesures ordonnées par ces ministères publics ou de demandes émanant du Tribunal pénal économique et du Tribunal régional de Berne-Mittelland;
-- b par les tribunaux régionaux des mesures de contrainte lors de demandes des ministères publics régionaux du Jura bernois-Seeland, de l'Emmental-Haute-Argovie et de l'Oberland, de demandes dirigées contre des mesures ordonnées par ces ministères publics ou de demandes émanant des tribunaux des régions éponymes.
+- a–b …
+- c la détention provisoire (al. 2, lit. b),
+- d la détention pour des motifs de sûreté (al. 2, lit. e) lorsqu’il n’y a pas eu de détention provisoire préalable,
+- e des mesures de substitution (al. 2, lit. h) lorsqu’il n’y a pas eu de détention provisoire préalable,
+- f la mise en détention pendant la procédure distincte concernant le cautionnement préventif (al. 2, lit. k),
+- g la mise en détention pour des motifs de sécurité relevant du droit de l'exécution des peines et mesures, afin de garantir l'exécution d'une réintégration ou d'une décision judiciaire ultérieure indépendante (al. 2, lit. m).
+
+<sup>1a</sup> Le Tribunal cantonal des mesures de contrainte est compétent pour
+
+- a rendre toutes les décisions de mise en détention à la demande des ministères publics cantonaux, du Ministère public régional de Berne-Mittelland ou du Tribunal pénal économique;
+- b réexaminer sur demande toutes les ordonnances émanant des ministères publics cantonaux et régionaux;
+- c rendre toutes les décisions de mise en détention au sens de l'alinéa 2 qui ne ressortissent pas, selon l'alinéa 1, aux tribunaux régionaux des mesures de contrainte sur demande des ministères publics régionaux du Jura bernois-Seeland, de l'Emmental-Haute-Argovie et de l'Oberland ou des tribunaux des régions éponymes.
 
 <sup>2</sup> Sont réputées décisions de mise en détention les décisions concernant
 
@@ -494,7 +519,7 @@ arrête:
 
 **2. Décisions concernant la levée des scellés**
 
-<sup>1</sup> L’article 38, alinéa 1 s’applique par analogie à la compétence de traiter les demandes de levée des scellés apposés sur des documents, enregistrements ou autres objets (art. 248, al. 3, lit. a CPP).
+<sup>1</sup> Le Tribunal cantonal des mesures de contrainte statue sur les demandes de levée des scellés apposés sur des documents, enregistrements ou autres objets (art. 248, al. 3, lit. a CPP).
 
 #### Art. 40
 
@@ -565,7 +590,7 @@ arrête:
 
 <sup>2</sup> Le prélèvement d'échantillons et leur analyse à des fins d'identification en dehors d'une procédure pénale (art. 6 de la loi sur les profils d'ADN) peuvent également être ordonnés par la police.
 
-<sup>3</sup> Le service compétent de la Direction de la magistrature est le service central cantonal chargé d'avertir les autorités fédérales responsables lorsque les conditions légales sont remplies pour l'effacement de profils au sens des articles 16 à 19 de la loi sur les profils d'ADN.
+<sup>3</sup> Le service compétent de la Direction administrative de la magistrature est le service central cantonal chargé d'avertir les autorités fédérales responsables lorsque les conditions légales sont remplies pour l'effacement de profils au sens des articles 16 à 19 de la loi sur les profils d'ADN.
 
 <sup>4</sup> L'autorité qui a traité l'affaire en dernier lieu avertit sans délai le service central cantonal lorsque les conditions légales sont remplies pour l'effacement de profils et requiert s'il y a lieu l'approbation de l'autorité judiciaire compétente conformément à l'article 17 de la loi sur les profils d'ADN.
 
@@ -575,7 +600,7 @@ arrête:
 
 **Effacement de données signalétiques biométriques de la Confédération**
 
-<sup>1</sup> Le service compétent de la Direction de la magistrature est le service central cantonal chargé d'avertir l’autorité fédérale responsable lorsque les conditions légales sont remplies pour l'effacement de données signalétiques biométriques selon les articles 17 à 21 de l’ordonnance fédérale du 6 décembre 2013 sur le traitement des données signalétiques biométriques[^46b-1].
+<sup>1</sup> Le service compétent de la Direction administrative de la magistrature est le service central cantonal chargé d'avertir l’autorité fédérale responsable lorsque les conditions légales sont remplies pour l'effacement de données signalétiques biométriques selon les articles 17 à 21 de l’ordonnance fédérale du 6 décembre 2013 sur le traitement des données signalétiques biométriques[^46b-1].
 
 <sup>2</sup> L'autorité qui a traité l'affaire en dernier lieu avertit sans délai le service central cantonal lorsque les conditions légales sont remplies pour l'effacement de données et requiert s'il y a lieu l'approbation de l'autorité judiciaire compétente conformément à l'article 19 de l’ordonnance mentionnée à l'alinéa 1.
 
@@ -721,7 +746,7 @@ arrête:
 
 **Procédure de l'ordonnance pénale Compétence**
 
-<sup>1</sup> Les procureurs et procureures rendent les ordonnances pénales.
+<sup>1</sup> Les procureurs et procureures ainsi que les procureurs-assistants et les procureures-assistantes rendent les ordonnances pénales.
 
 <sup>2</sup> Des collaborateurs et collaboratrices spécialisés expérimentés du Ministère public peuvent, sous la responsabilité d'un procureur ou d'une procureure et sur la base de leur cahier des charges personnel, rendre des ordonnances pénales sanctionnant des contraventions pour autant que le montant de l'amende infligée découle d'une liste légale d'amendes ou de directives édictées au niveau cantonal et approuvées par le Parquet général.
 
@@ -1015,6 +1040,22 @@ arrête:
 
 <sup>2</sup> Si, dans une procédure concernant à la fois des majeurs et des mineurs, les autorités de poursuite pénale compétentes ne parviennent pas à s’entendre sur la renonciation à la disjonction des procédures, le Parquet général tranche.
 
+### 4.1a Procureurs-assistants et procureures-assistantes des mineurs
+
+#### Art. 84a
+
+<sup>1</sup> Les procureurs-assistants et procureures-assistantes des mineurs assument toutes les tâches et compétences que la PPMin et le CPP attribuent aux procureurs et procureures des mineurs, à l'exception
+
+- a des ordonnances de non-entrée en matière,
+- b de l'ouverture de l'instruction,
+- c de la demande de mise en détention provisoire ou de mise en détention pour des motifs de sûreté, ou encore de prolongation de la détention,
+- d de la prescription de mesures de contrainte,
+- e de la suspension et du classement de la procédure,
+- f de la mise en accusation et de la soutenance de l'accusation,
+- g des actions en annulation du mariage ou du partenariat enregistré,
+- h des actions alimentaires,
+- i des décisions ordonnant ou levant une mesure de protection à titre provisionnel, un traitement ambulatoire ou un placement.
+
 ### 4.2 Procédure préliminaire
 
 #### Art. 85
@@ -1109,7 +1150,7 @@ arrête:
 
 <sup>1</sup> Le Ministère public des mineurs examine la situation financière des personnes ayant une obligation d’entretien dans chaque cas d’exécution de mesure. Ces personnes sont tenues de coopérer de manière appropriée.
 
-<sup>2</sup> Le procureur ou la procureure des mineurs passe une convention d’entretien avec les personnes ayant une obligation d’entretien. Les montants de la participation aux frais d’exécution qui doivent y être fixés sont en principe déterminés par analogie avec les principes de calcul de la loi du 3 décembre 2020 sur les prestations particulières d’encouragement et de protection destinées aux enfants (LPEP)[^93-1] et de son ordonnance d’application. La convention d’entretien est soumise pour approbation au procureur ou à la procureure des mineurs en chef.
+<sup>2</sup> Le procureur ou procureur-assistant ou la procureure ou procureure-assistante des mineurs passe une convention d’entretien avec les personnes ayant une obligation d’entretien. Les montants de la participation aux frais d’exécution qui doivent y être fixés sont en principe déterminés par analogie avec les principes de calcul de la loi du 3 décembre 2020 sur les prestations particulières d’encouragement et de protection destinées aux enfants (LPEP)[^93-1] et de son ordonnance d’application. La convention d’entretien est soumise pour approbation au procureur ou à la procureure des mineurs en chef.
 
 <sup>3</sup> …
 
