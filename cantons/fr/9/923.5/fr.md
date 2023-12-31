@@ -3,13 +3,12 @@ canton: FR
 number: "923.5"
 title: Concordat sur la pêche dans le lac de Neuchâtel
 language: fr
-version: 2004-01-01
-valid_until: 2023-12-31
-version_adopted: 2003-05-19
+version: 2024-01-01
+version_adopted: 2022-12-20
 adopted: 2003-05-19
 in_force: 2004-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/923.5"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6188/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8060/pdf_file"
 text: pdf
 ---
 
@@ -17,7 +16,7 @@ text: pdf
 
 # Concordat sur la pêche dans le lac de Neuchâtel
 
-du 19.05.2003 (version entrée en vigueur le 01.01.2004)
+du 19.05.2003 (version entrée en vigueur le 01.01.2024)
 
 ## Le canton de Fribourg, le canton de Vaud et la République et canton de Neuchâtel
 
@@ -425,7 +424,9 @@ Les propriétaires, les locataires et les fermiers de biens-fonds peuvent être 
 
 **Mesures économiques**
 
-La Commission intercantonale peut coordonner les mesures techniques ou financières prises par les cantons concordataires pour favoriser l’écoulement du poisson du lac capturé par les titulaires de permis professionnel.
+<sup>1</sup> Les autorités compétentes de chaque canton peuvent prendre toutes mesures techniques ou financières en vue de soutenir la pêche professionnelle.
+
+<sup>2</sup> La commission intercantonale coordonne la mise en œuvre de ces mesures, dans un but d’uniformisation des pratiques cantonales.
 
 #### Art. 36
 
@@ -697,7 +698,7 @@ Le concordat du 21 mars 1980 sur la pêche dans le lac de Neuchâtel est abrogé
 
 **Entrée en vigueur**
 
-Le présent concordat entre en vigueur le 1<sup>er</sup> janvier 2004.
+Le présent concordat entre en vigueur le 1er janvier 2004.
 
 #### Art. 63
 
@@ -705,7 +706,7 @@ Le présent concordat entre en vigueur le 1<sup>er</sup> janvier 2004.
 
 Le présent concordat peut être dénoncé par chaque canton pour la fin d’une année civile, moyennant un avis donné au moins douze mois à l’avance aux deux autres cantons.
 
-## Approbation
+### Approbation
 
 Les articles 3, 6, 14, 23 à 29 et 62 de ce concordat ont été approuvés par le Département fédéral de l’environnement, des transports, de l’énergie et de la communication le 6.10.2003.
 
@@ -713,12 +714,14 @@ Adhésion par décret du 8.10.2003 Entrée en vigueur pour le canton de Fribourg
 
 ### Tableau des modifications – Par date d'adoption
 
-### Adoption Elément touché Type de modification Entrée en Source (ROF depuis 2002)
+### Adoption Elément touché Type de Entrée en Source (ROF depuis 2002)
 
-vigueur 19.05.2003 Acte acte de base 01.01.2004 2003\_128
+modification vigueur
+
+19.05.2003 Acte acte de base 01.01.2004 2003\_128 20.12.2022 Art. 35 al. 1 modifié 01.01.2024 2022\_148 20.12.2022 Art. 35 al. 2 introduit 01.01.2024 2022\_148
 
 ### Tableau des modifications – Par article
 
-### Elément touché Type de modification Adoption Entrée en Source (ROF depuis 2002)
+### Elément touché Type de Adoption Entrée en Source (ROF depuis 2002)
 
-vigueur Acte acte de base 19.05.2003 01.01.2004 2003\_128
+modification vigueur Acte acte de base 26.11.2002 01.01.2004 2003\_128 Art. 35 al. 1 modifié 20.12.2022 01.01.2024 2022\_148 Art. 35 al. 2 introduit 20.12.2022 01.01.2024 2022\_148

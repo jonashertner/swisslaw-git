@@ -3,13 +3,12 @@ canton: FR
 number: "923.5"
 title: Konkordat über die Fischerei im Neuenburgersee
 language: de
-version: 2004-01-01
-valid_until: 2023-12-31
-version_adopted: 2003-05-19
+version: 2024-01-01
+version_adopted: 2022-12-20
 adopted: 2003-05-19
 in_force: 2004-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/923.5"
-pdf: "https://bdlf.fr.ch/api/de/versions/6188/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8060/pdf_file"
 text: pdf
 ---
 
@@ -17,7 +16,7 @@ text: pdf
 
 # Konkordat über die Fischerei im Neuenburgersee
 
-vom 19.05.2003 (Fassung in Kraft getreten am 01.01.2004)
+vom 19.05.2003 (Fassung in Kraft getreten am 01.01.2024)
 
 ## Der Kanton Freiburg, der Kanton Waadt und die Republik und der Kanton Neuenburg
 
@@ -183,7 +182,7 @@ Die zuständige kantonale Behörde kann Kollektivpatente ausstellen und zwar fü
 
 - a) die Absicht hat, den Betrieb selbst zu übernehmen, und wenn er die Bedingungen nach Absatz 1 erfüllt; dieses Recht erlischt, falls der Betroffene die Berufsprüfung nach Absatz 1 Bst. f nicht innert 2 Jahren nach dem Tod des Patentinhabers besteht;
 
-- b) ein mindestens 15-jähriges Kind hat, das den Betrieb mit seiner Zustimmung selbst übernehmen will und die Bedingungen nach Absatz 1 erfüllt; in diesem Fall muss das Kind die Berufsprüfung nach Absatz 1 Bst. f so schnell wie möglich ablegen; die Interkantonale Kommission legt das Datum der Prüfung fest. Besteht es die Prüfung, so bleibt der überlebende Ehegatte Patentinhaber, und das Kind wird zum Gehilfen im Sinne von Artikel 21, bis es nach Vollendung des 18. Altersjahres von Amtes wegen selbst zum Patentinhaber wird.
+- b) ein mindestens 15 jähriges Kind hat, das den Betrieb mit seiner Zustimmung selbst übernehmen will und die Bedingungen nach Absatz 1 erfüllt; in diesem Fall muss das Kind die Berufsprüfung nach Absatz 1 Bst. f so schnell wie möglich ablegen; die Interkantonale Kommission legt das Datum der Prüfung fest. Besteht es die Prüfung, so bleibt der überlebende Ehegatte Patentinhaber, und das Kind wird zum Gehilfen im Sinne von Artikel 21, bis es nach Vollendung des 18. Altersjahres von Amtes wegen selbst zum Patentinhaber wird.
 
 <sup>6</sup> Im Falle von vollständiger Invalidität des Patentinhabers gelten die Bestimmungen von Absatz 5 sinngemäss.
 
@@ -431,7 +430,9 @@ Die Eigentümer, Mieter und Pächter von Grundstücken können von der zuständi
 
 **Wirtschaftliche Massnahmen**
 
-Die Interkantonale Kommission kann die von den Konkordatskantonen getroffenen technischen oder finanziellen Massnahmen koordinieren, die den Absatz der von den Inhabern des Berufspatents im See gefangenen Fische fördern.
+<sup>1</sup> Die zuständigen Behörden jedes Kantons können alle technischen oder finanziellen Massnahmen zur Unterstützung der Berufsfischerei ergreifen.
+
+<sup>2</sup> Die Interkantonale Kommission koordiniert die Umsetzung dieser Massnahmen mit dem Ziel, die kantonalen Praktiken zu vereinheitlichen.
 
 #### Art. 36
 
@@ -529,7 +530,9 @@ Die Fischer sind verpflichtet, das Patent und einen Identitätsausweis bei sich 
 
 Die Konkordatskantone treffen die nötigen Massnahmen zur Überwachung des Fischverkaufs während der Schonzeit.
 
-### KAPITEL 6 Ausführung des Konkordats
+- 6\. KAPITEL
+
+### Ausführung des Konkordats
 
 #### Art. 45
 
@@ -613,7 +616,9 @@ Die Konkordatskantone treffen die nötigen Massnahmen zur Überwachung des Fisch
 
 <sup>2</sup> Wenn eine Behörde oder Dienststelle einen Entscheid gefasst hat, übernimmt der Kanton, dem sie angehört, die durch den Vollzug des Entscheides entstandenen Kosten.
 
-### 7. KAPITEL Strafbestimmungen
+- 7\. KAPITEL
+
+### Strafbestimmungen
 
 #### Art. 53
 
@@ -711,20 +716,20 @@ Dieses Konkordat tritt am 1. Januar 2004 in Kraft.
 
 Dieses Konkordat kann von jedem Kanton auf das Ende eines Kalenderjahres durch Benachrichtigung der anderen Kantone mindestens zwölf Monate im Voraus gekündigt werden.
 
-## Genehmigung
+### Genehmigung
 
-Die Artikel 3, 6, 14, 23 bis 29 und 62 dieses Konkordates sind vom Eidgenössischen Departement für Umwelt, Verkehr, Energie und Kommunikation am 6.10.2003 genehmigt worden.
+Die Artikel 3, 6, 14, 23 bis 29 und 62 dieses Konkordates sind vom Eidgenössischen Departement für Umwelt, Verkehr, Energie und Kommunikation am 06.10.2003 genehmigt worden.
 
-Beitritt durch Dekret vom 8.10.2003 Inkrafttreten für den Kanton Freiburg: 1.1.2004
+Beitritt durch Dekret vom 08.10.2003 Inkrafttreten für den Kanton Freiburg: 01.01.2004
 
 ### Änderungstabelle – Nach Beschlussdatum
 
 ### Beschluss Berührtes Element Änderungstyp Inkrafttreten Quelle (ASF seit 2002)
 
-19.05.2003 Erlass Grunderlass 01.01.2004 2003\_128
+19.05.2003 Erlass Grunderlass 01.01.2004 2003\_128 20.12.2022 Art. 35 Ab. 1 geändert 01.01.2024 2022\_148 20.12.2022 Art. 35 Abs. 2 eingefügt 01.01.2024 2022\_148
 
 ### Änderungstabelle – Nach Artikel
 
 ### Berührtes Element Änderungstyp Beschluss Inkrafttreten Quelle (ASF seit 2002)
 
-Erlass Grunderlass 19.05.2003 01.01.2004 2003\_128
+Erlass Grunderlass 19.05.2003 01.01.2004 2003\_128 Art. 35 Ab. 1 geändert 20.12.2022 01.01.2024 2022\_148 Art. 35 Abs. 2 eingefügt 20.12.2022 01.01.2024 2022\_148
