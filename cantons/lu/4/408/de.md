@@ -3,20 +3,19 @@ canton: LU
 number: "408"
 title: Verordnung über die Schuldienste
 language: de
-version: 2018-04-01
-valid_until: 2023-12-31
-version_adopted: 2018-02-20
+version: 2024-01-01
+version_adopted: 2023-06-27
 adopted: 1999-12-21
 in_force: 2000-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/408"
-pdf: "https://srl.lu.ch/api/de/versions/3248/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4146/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Schuldienste
 
-vom 21.12.1999 (Stand 01.04.2018)
+vom 21.12.1999 (Stand 01.01.2024)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -256,7 +255,7 @@ beschliesst:
 
 <sup>1</sup> In den vom Kanton gestützt auf § 62 des Gesetzes über die Volksschulbildung[^18-1] gewährten Staatsbeiträgen an die Volksschulen sind die Beiträge an die Schuldienste enthalten.
 
-<sup>2</sup> Für die Schulsozialarbeit werden den Standortgemeinden separate Betriebsbeiträge im Rahmen der vom Kantonsrat bewilligten Mittel ausgerichtet.
+<sup>2</sup> …
 
 [^18-1]: SRL Nr. [400a](https://srl.lu.ch/data/400a/de)
 
