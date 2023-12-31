@@ -4,7 +4,7 @@ number: "175.31.1"
 title: RÈGLEMENT du 14.12.1979 sur la comptabilité des communes (RCCom)
 short: RCCom
 language: fr
-version: 2006-07-01
+version: 2024-01-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/175.31.1?id=a49d3cec-88cc-4a0f-93d2-9528d0a0e770"
 ---
 
@@ -37,7 +37,9 @@ arrête
 
 <sup>2</sup> Les ententes intercommunales sont également soumises au présent règlement.
 
-[^chapterChapitreI-1]: Modif. 5 du 22.02.2006: Modification Al. 1; entrée en vigueur au 01.03.2006 · Modif. 7 du 29.11.2023: Introduction Al. 3; entrée en vigueur au 01.01.2024; Introduction Art. 17, Al. 2,3,4,5,5; entrée en vigueur au 01.01.2024; Introduction Annexes, Ann. 1; entrée en vigueur au 01.01.2024
+<sup>3</sup> En dérogation au présent règlement, les collectivités publiques mentionnées aux alinéas précédents peuvent établir leurs budgets et tenir leurs comptes selon les dispositions du manuel MCH2 édité par la Direction générale des affaires institutionnelles et des communes.
+
+[^chapterChapitreI-1]: Modif. 5 du 22.02.2006: Modification Al. 1; entrée en vigueur au 01.03.2006 · Modif. 7 du 29.11.2023: Introduction Al. 3; entrée en vigueur au 01.01.2024
 
 #### Art. 2
 
@@ -166,12 +168,20 @@ arrête
 
 **[^16-1]**
 
-<sup>1</sup> Les investissements obligatoirement amortissables portés à l'actif du bilan doivent être amortis dans les délais suivants:
+<sup>1</sup> Les durées d'amortissement des investissements obligatoirement amortissables portés à l'actif du bilan (y compris stations d'épuration, réseaux d'eau et chauffages à distance) sont fixées en fonction de la catégorie d'immobilisations dans l'annexe 1.
 
-- a. dix ans au plus pour le mobilier, l'équipement et les installations techniques, les machines, les véhicules, les subventions, les participations et les indemnités d'expropriation;
-- b. trente ans au plus pour les ouvrages de génie civil et d'assainissement, les bâtiments et constructions. Ce délai peut être prolongé très exceptionnellement par le Conseil d'Etat.
+- a. ...
+- b. ...
 
-[^16-1]: Modif. 3 du 12.06.1987: Modification Art. 17; entrée en vigueur au 12.06.1987 · Modif. 7 du 29.11.2023: Introduction Art. 1, Al. 3; entrée en vigueur au 01.01.2024; Modification Al. 1; entrée en vigueur au 01.01.2024; Abrogation Al. 1, a-b; entrée en vigueur au 01.01.2024; Introduction Al. 2,3,4,5,5; entrée en vigueur au 01.01.2024; Introduction Annexes, Ann. 1; entrée en vigueur au 01.01.2024
+<sup>2</sup> Le département peut exceptionnellement autoriser des durées d'amortissement spécifiques pour des immobilisations n'ayant pas de catégorie correspondante ou assimilable dans l'annexe 1.
+
+<sup>3</sup> Les investissements dans les infrastructures gazières sont amortis conformément au document de base Standard de la branche régissant le calcul de la rétribution pour l'utilisation des réseaux de gaz locaux, édité par l'Association suisse de l'industrie gazière, dans sa teneur au 1er novembre 2018.
+
+<sup>4</sup> Les investissements dans les infrastructures électriques sont amortis conformément au schéma de calcul des coûts pour les gestionnaires de réseau de distribution CH, édité par l'Association des entreprises électriques suisses, édition 2023.
+
+<sup>5</sup> Les durées d'amortissement prévues par les préavis adoptés par le conseil général ou communal avant le 1er janvier 2024 continuent à s'appliquer et ne peuvent pas être modifiées.
+
+[^16-1]: Modif. 3 du 12.06.1987: Modification Art. 17; entrée en vigueur au 12.06.1987 · Modif. 7 du 29.11.2023: Modification Al. 1; entrée en vigueur au 01.01.2024; Abrogation Al. 1, a-b; entrée en vigueur au 01.01.2024; Introduction Al. 2,3,4,5,5; entrée en vigueur au 01.01.2024
 
 ## Chapitre IV Plan des dépenses d'investissements
 
@@ -539,4 +549,11 @@ arrête
 
 <sup>1</sup> Le Département de l'intérieur et de la santé publique[^52-1] est chargé de l'exécution du présent règlement.
 
+Annexes [^52-2]
+
+1
+
+[Annexe 1](https://prestations.vd.ch/pub/blv-publication/api/actes/a49d3cec-88cc-4a0f-93d2-9528d0a0e770/annexes/1?dmev=01.01.2024)
+
 [^52-1]: [Voir l'organigramme de l'Etat de Vaud](https://www.vd.ch/toutes-les-autorites/)
+[^52-2]: Modif. 7 du 29.11.2023: Introduction Annexes, Ann. 1; entrée en vigueur au 01.01.2024
