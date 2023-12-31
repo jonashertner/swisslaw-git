@@ -4,11 +4,11 @@ title: Verordnung vom 21. Mai 2008 über die geografischen Namen (GeoNV)
 short: GeoNV
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/393"
 language: de
-version: 2017-07-01
+version: 2024-01-01
 adopted: 2008-05-21
 in_force: 2008-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/393/20170701/de/xml/fedlex-data-admin-ch-eli-cc-2008-393-20170701-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/393/20170701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/393/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2008-393-20240101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/393/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/393/20170701/de"
 
 (GeoNV)
 
-vom 21. Mai 2008 (Stand am 1. Juli 2017)
+vom 21. Mai 2008 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -50,16 +50,17 @@ Diese Verordnung regelt die Zuständigkeit, das Verfahren und die Kostentragung 
 In dieser Verordnung bedeuten:
 
 - a.[^3-1] *geografische Namen:* Namen von Gemeinden, Ortschaften, Strassen, Gebäuden, Stationen und topografischen Objekten;
-- b. *geografische Namen der amtlichen Vermessung:* Namen der topografischen Objekte, die in den Informationsebenen Nomenklatur (Flurnamen, Ortsnamen und Geländenamen), Bodenbedeckung und Einzelobjekte verwendet werden;
+- b.[^3-2] *geografische Namen der amtlichen Vermessung:* Namen der topografischen Objekte gemäss den Daten der amtlichen Vermessung;
 - c. *geografische Namen der Landesvermessung:* Namen der topografischen Objekte gemäss topografischem Landschaftsmodell der Landesvermessung;
 - d. *Gemeinden*: die kleinsten politischen Einheiten, die nach der kantonalen Gesetzgebung die Aufgaben der politischen Gemeinde wahrnehmen und durch ein Hoheitsgebiet und einen Namen eindeutig bestimmt sind;
 - e. *Ortschaften:* bewohnte geografisch abgrenzbare Siedlungsgebiete mit eigenem Namen und eigener Postleitzahl;
 - f. *Strassen:* Strassen, Wege, Gassen, Plätze und benannte Gebiete, die als Strassenbezeichnungen für Adressen dienen;
-- g. *Stationen:* Bahnhöfe, Stationen, einschliesslich Tal-, Berg- und Zwischenstationen, sowie Haltestellen aller regelmässigen, der Personenbeförderung dienenden Fahrten nach Artikel 1 Absatz 2 der Fahrplanverordnung vom 25. November 1998[^3-2];
+- g. *Stationen:* Bahnhöfe, Stationen, einschliesslich Tal-, Berg- und Zwischenstationen, sowie Haltestellen aller regelmässigen, der Personenbeförderung dienenden Fahrten nach Artikel 1 Absatz 2 der Fahrplanverordnung vom 25. November 1998[^3-3];
 - h. *topografische Objekte:* Gewässer (z.B. Flüsse, Bäche, Seen, Weiher, Wasserfälle, Quellen), Gletscher, Siedlungen (z.B. Stadt, Dorf, Quartier, Weiler, Einzelhöfe), Gelände (z.B. Berge und Hügel), Landschaften (z.B. Gebiete, Täler, Alpen, Fluren, Wälder), kulturelle Objekte (z.B. Burgen, Schlösser, Klöster, Kirchen, Kapellen), öffentliche Bauten (z.B. Schulhäuser, Spitäler, Berghütten) sowie besondere Objekte von Verkehrsverbindungen (z.B. Brücken, Pässe, Tunnels, Flugplätze).
 
 [^3-1]: Fassung gemäss Anhang 2 Ziff. II 3 der V vom 9. Juni 2017 über das eidgenössische Gebäude- und Wohnungsregister, in Kraft seit 1. Juli 2017 ([AS 2017 3459](https://fedlex.data.admin.ch/eli/oc/2017/376)).
-[^3-2]: [[AS 1999 698](https://fedlex.data.admin.ch/eli/oc/1999/103). [AS 2009 6055](https://fedlex.data.admin.ch/eli/oc/2009/740)Art. 15]. Siehe heute: Art. 1 Abs. 1 der Fahrplanverord-nung vom 11. Nov. 2009 ([SR 745.13](https://fedlex.data.admin.ch/eli/cc/2009/740)).
+[^3-2]: Fassung gemäss Anhang Ziff. 8 der V vom 23. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
+[^3-3]: [[AS 1999 698](https://fedlex.data.admin.ch/eli/oc/1999/103). [AS 2009 6055](https://fedlex.data.admin.ch/eli/oc/2009/740)Art. 15]. Siehe heute: Art. 1 Abs. 1 der Fahrplanverord-nung vom 11. Nov. 2009 ([SR 745.13](https://fedlex.data.admin.ch/eli/cc/2009/740)).
 
 #### Art. 4
 
@@ -357,7 +358,7 @@ Dieses enthält für alle Strassen im Sinne von Artikel 3 Buchstabe f die folgen
 
 [^26a-1]: Eingefügt durch Anhang 2 Ziff. II 3 der V vom 9. Juni 2017 über das eidgenössische Gebäude- und Wohnungsregister, in Kraft seit 1. Juli 2017 ([AS 2017 3459](https://fedlex.data.admin.ch/eli/oc/2017/376)).
 
-## 6*a*. Abschnitt:**** Gebäudeadressen
+## 6*a*. Abschnitt: Gebäudeadressen
 
 [^sec6a-1]
 

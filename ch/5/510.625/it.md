@@ -4,11 +4,11 @@ title: Ordinanza del 21 maggio 2008 sui nomi geografici (ONGeo)
 short: ONGeo
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/393"
 language: it
-version: 2017-07-01
+version: 2024-01-01
 adopted: 2008-05-21
 in_force: 2008-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/393/20170701/it/xml/fedlex-data-admin-ch-eli-cc-2008-393-20170701-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/393/20170701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/393/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2008-393-20240101-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/393/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/393/20170701/it"
 
 (ONGeo)
 
-del 21 maggio 2008 (Stato 1° luglio 2017)
+del 21 maggio 2008 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -27,7 +27,7 @@ ordina:
 
 [^ingress-1]: [RS 431.02](https://fedlex.data.admin.ch/eli/cc/2006/619)
 [^ingress-2]: [RS 510.62](https://fedlex.data.admin.ch/eli/cc/2008/388)
-[^ingress-3]: [[RU 1986 1974](https://fedlex.data.admin.ch/eli/oc/1986/1974_1974_1974), [1994 2290](https://fedlex.data.admin.ch/eli/oc/1994/2290_2290_2290)n. V, [1995 3517](https://fedlex.data.admin.ch/eli/oc/1995/3517_3517_3517)n. I 10 [4093](https://fedlex.data.admin.ch/eli/oc/1995/4093_4093_4093)all. n. 13, [1998 2856](https://fedlex.data.admin.ch/eli/oc/1998/2856_2856_2856). [RU 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679)n. III]. Vedi ora: la LF del 20 mar. 2009 sul trasporto di viaggiatori ([RS 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)).
+[^ingress-3]: [[RU 1986 1974](https://fedlex.data.admin.ch/eli/oc/1986/1974_1974_1974); [1994 2290](https://fedlex.data.admin.ch/eli/oc/1994/2290_2290_2290)n. V; [1995 3517](https://fedlex.data.admin.ch/eli/oc/1995/3517_3517_3517)n. I 10, [4093](https://fedlex.data.admin.ch/eli/oc/1995/4093_4093_4093)all. n. 13; [1998 2856](https://fedlex.data.admin.ch/eli/oc/1998/2856_2856_2856). [RU 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679)n. III]. Vedi ora: la LF del 20 mar. 2009 sul trasporto di viaggiatori ([RS 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)).
 
 ## Sezione 1: Disposizioni generali
 
@@ -50,16 +50,17 @@ La presente ordinanza disciplina la competenza, la procedura e l’assunzione de
 Ai sensi della presente ordinanza si intendono per:
 
 - a.[^3-1] *nomi geografici:* nomi di Comuni, località, vie, edifici, stazioni e oggetti topografici;
-- b. *nomi geografici della misurazione ufficiale:* nomi degli oggetti topografici utilizzati nei livelli d’informazione «nomenclatura» (nomi locali, nomi di località e nomi di luogo), «copertura del suolo» e «oggetti singoli»;
+- b.[^3-2] *nomi geografici della misurazione ufficiale:* nomi degli oggetti topografici secondo i dati della misurazione ufficiale;
 - c. *nomi geografici della misurazione nazionale:* nomi degli oggetti topografici conformemente al modello topografico del paesaggio della misurazione nazionale;
 - d. *Comuni:* le più piccole unità politiche che secondo la legislazione cantonale assumono i compiti dei Comuni politici e sono univocamente definite da un territorio giurisdizionale e un nome;
 - e. *località:* insediamenti abitati geograficamente delimitabili, con un nome e un numero postale d’avviamento propri;
 - f. *vie:* vie, strade, vicoli, piazze e zone provviste di denominazione che servono da indicazione della via per gli indirizzi;
-- g. *stazioni:* stazioni ferroviarie, stazioni, comprese le stazioni a valle, a monte e intermedie nonché le fermate di tutte le corse regolari destinate al trasporto di viaggiatori secondo l’articolo 1 capoverso 2 dell’ordinanza del 25 novembre 1998[^3-2] sugli orari;
+- g. *stazioni:* stazioni ferroviarie, stazioni, comprese le stazioni a valle, a monte e intermedie nonché le fermate di tutte le corse regolari destinate al trasporto di viaggiatori secondo l’articolo 1 capoverso 2 dell’ordinanza del 25 novembre 1998[^3-3] sugli orari;
 - h. *oggetti topografici:* acque (p. es. fiumi, ruscelli, laghi, stagni, cascate, sorgenti), ghiacciai, insediamenti (p. es. città, villaggio, quartiere, frazione, fattorie isolate), rilievi (p. es. montagne e colline), paesaggi (p. es. siti, valli, alpi, terreni agricoli, boschi), oggetti culturali (p. es. rocche, castelli, conventi, chiese, cappelle), edifici pubblici (p. es. scuole, ospedali, capanne alpine) e oggetti particolari delle vie di comunicazione (p. es. ponti, passi, gallerie, aeroporti).
 
-[^3-1]: Nuovo testo giusta il n. II 3 dell’all. 2 all’O del 9 giu. 2017 sul Registro federale degli edifici e delle abitazioni, in vigore dal 1° lug. 2017 ([RU 2017 3459](https://fedlex.data.admin.ch/eli/oc/2017/376)).
-[^3-2]: [[RU 1999 698](https://fedlex.data.admin.ch/eli/oc/1999/103). [RU 2009 6055](https://fedlex.data.admin.ch/eli/oc/2009/740)art. 15]. Vedi ora: l’art. 1 cpv. 1 dell’O dell’11 nov. 2009 sugli orari ([RS 745.13](https://fedlex.data.admin.ch/eli/cc/2009/740)).
+[^3-1]: Nuovo testo giusta l’all. 2 n. II 3 dell’O del 9 giu. 2017 sul Registro federale degli edifici e delle abitazioni, in vigore dal 1° lug. 2017 ([RU 2017 3459](https://fedlex.data.admin.ch/eli/oc/2017/376)).
+[^3-2]: Nuovo testo giusta l’all. n. 8 dell’O del 23 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
+[^3-3]: [[RU 1999 698](https://fedlex.data.admin.ch/eli/oc/1999/103). [RU 2009 6055](https://fedlex.data.admin.ch/eli/oc/2009/740)art. 15]. Vedi ora: l’art. 1 cpv. 1 dell’O dell’11 nov. 2009 sugli orari ([RS 745.13](https://fedlex.data.admin.ch/eli/cc/2009/740)).
 
 #### Art. 4
 
@@ -319,7 +320,7 @@ L’Ufficio federale di topografia allestisce, gestisce e pubblica l’elenco uf
 
 <sup>3</sup> L’ortografia dei nomi delle vie che riprendono elementi dei nomi geografici della misurazione ufficiale è armonizzata a livello regionale.
 
-[^25-1]: Nuovo testo giusta il n. II 3 dell’all. 2 all’O del 9 giu. 2017 sul Registro federale degli edifici e delle abitazioni, in vigore dal 1° lug. 2017 ([RU 2017 3459](https://fedlex.data.admin.ch/eli/oc/2017/376)).
+[^25-1]: Nuovo testo giusta l’all. 2 n. II 3 dell’O del 9 giu. 2017 sul Registro federale degli edifici e delle abitazioni, in vigore dal 1° lug. 2017 ([RU 2017 3459](https://fedlex.data.admin.ch/eli/oc/2017/376)).
 
 #### Art. 26
 
@@ -355,13 +356,13 @@ L’elenco contiene per tutte le vie ai sensi dell’articolo 3 lettera f i dati
 
 <sup>4</sup> L’elenco ufficiale delle vie è vincolante per le autorità ad eccezione dei dati di cui al capoverso 2 lettera e.
 
-[^26a-1]: Introdotto dal n. II 3 dell’all. 2 all’O del 9 giu. 2017 sul Registro federale degli edifici e delle abitazioni, in vigore dal 1° lug. 2017 ([RU 2017 3459](https://fedlex.data.admin.ch/eli/oc/2017/376)).
+[^26a-1]: Introdotto dall’all. 2 n. II 3 dell’O del 9 giu. 2017 sul Registro federale degli edifici e delle abitazioni, in vigore dal 1° lug. 2017 ([RU 2017 3459](https://fedlex.data.admin.ch/eli/oc/2017/376)).
 
-## Sezione 6*a*:**** Indirizzi degli edifici
+## Sezione 6*a*: Indirizzi degli edifici
 
 [^sec6a-1]
 
-[^sec6a-1]: Introdotta dal n. II 3 dell’all. 2 all’O del 9 giu. 2017 sul Registro federale degli edifici e delle abitazioni, in vigore dal 1° lug. 2017 ([RU 2017 3459](https://fedlex.data.admin.ch/eli/oc/2017/376)).
+[^sec6a-1]: Introdotta dall’all. 2 n. II 3 dell’O del 9 giu. 2017 sul Registro federale degli edifici e delle abitazioni, in vigore dal 1° lug. 2017 ([RU 2017 3459](https://fedlex.data.admin.ch/eli/oc/2017/376)).
 
 #### Art. 26b
 
@@ -489,7 +490,7 @@ Non sono addebitati costi se la determinazione o la modifica è la conseguenza:
 
 L’elenco dei nomi delle stazioni è pubblicato nel quadro della pubblicazione ufficiale degli orari secondo gli articoli 9 e 10 dell’ordinanza del 4 novembre 2009[^34-2] sugli orari.
 
-[^34-1]: Nuovo testo giusta il n. II 3 dell’all. 2 all’O del 9 giu. 2017 sul Registro federale degli edifici e delle abitazioni, in vigore dal 1° lug. 2017 ([RU 2017 3459](https://fedlex.data.admin.ch/eli/oc/2017/376)).
+[^34-1]: Nuovo testo giusta l’all. 2 n. II 3 dell’O del 9 giu. 2017 sul Registro federale degli edifici e delle abitazioni, in vigore dal 1° lug. 2017 ([RU 2017 3459](https://fedlex.data.admin.ch/eli/oc/2017/376)).
 [^34-2]: [RS 745.13](https://fedlex.data.admin.ch/eli/cc/2009/740)
 
 ## Sezione 8: Coordinamento e partecipazione
@@ -528,7 +529,7 @@ In occasione dell’elaborazione di regolamentazioni esecutive, l’Ufficio fede
 
 <sup>4</sup> Sino alla convalida dell’elenco ufficiale delle vie, per le autorità è vincolante l’ortografia dei nomi delle vie della misurazione ufficiale nel rispettivo territorio.
 
-[^37a-1]: Introdotto dal n. II 3 dell’all. 2 all’O del 9 giu. 2017 sul Registro federale degli edifici e delle abitazioni, in vigore dal 1° lug. 2017 ([RU 2017 3459](https://fedlex.data.admin.ch/eli/oc/2017/376)).
+[^37a-1]: Introdotto dall’all. 2 n. II 3 dell’O del 9 giu. 2017 sul Registro federale degli edifici e delle abitazioni, in vigore dal 1° lug. 2017 ([RU 2017 3459](https://fedlex.data.admin.ch/eli/oc/2017/376)).
 
 #### Art. 38
 

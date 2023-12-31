@@ -4,11 +4,11 @@ title: Ordonnance du 21 mai 2008 sur les noms géographiques (ONGéo)
 short: ONGéo
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/393"
 language: fr
-version: 2017-07-01
+version: 2024-01-01
 adopted: 2008-05-21
 in_force: 2008-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/393/20170701/fr/xml/fedlex-data-admin-ch-eli-cc-2008-393-20170701-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/393/20170701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/393/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-393-20240101-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/393/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/393/20170701/fr"
 
 (ONGéo)
 
-du 21 mai 2008 (Etat le 1<sup>er</sup> juillet 2017)
+du 21 mai 2008 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -31,7 +31,7 @@ arrête:
 
 [^ingress-1]: [RS 431.02](https://fedlex.data.admin.ch/eli/cc/2006/619)
 [^ingress-2]: [RS 510.62](https://fedlex.data.admin.ch/eli/cc/2008/388)
-[^ingress-3]: [[RO 1986 1974](https://fedlex.data.admin.ch/eli/oc/1986/1974_1974_1974), [1994 2290](https://fedlex.data.admin.ch/eli/oc/1994/2290_2290_2290)ch. V, [1995 3517](https://fedlex.data.admin.ch/eli/oc/1995/3517_3517_3517)ch. I 10 [4093](https://fedlex.data.admin.ch/eli/oc/1995/4093_4093_4093)annexe ch. 13, [1998 2856](https://fedlex.data.admin.ch/eli/oc/1998/2856_2856_2856). [RO 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679)ch. III]. Voir actuellement la LF du 20 mars 2009 sur le transport de voyageurs ([RS 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680))
+[^ingress-3]: [[RO 1986 1974](https://fedlex.data.admin.ch/eli/oc/1986/1974_1974_1974); [1994 2290](https://fedlex.data.admin.ch/eli/oc/1994/2290_2290_2290)ch. V; [1995 3517](https://fedlex.data.admin.ch/eli/oc/1995/3517_3517_3517)ch. I 10, [4093](https://fedlex.data.admin.ch/eli/oc/1995/4093_4093_4093)annexe ch. 13; [1998 2856](https://fedlex.data.admin.ch/eli/oc/1998/2856_2856_2856). [RO 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679)ch. III]. Voir actuellement la LF du 20 mars 2009 sur le transport de voyageurs ([RS 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680))
 
 ## Section 1 Dispositions générales
 
@@ -54,16 +54,17 @@ La présente ordonnance fixe la compétence, la procédure et la prise en charge
 Dans la présente ordonnance, on entend par:
 
 - a.[^3-1] *noms géographiques:* noms des communes, des localités, des rues, des bâtiments, des stations et des objets topographiques;
-- b. *noms géographiques de la mensuration officielle:* noms des objets topographiques utilisés dans les couches d’information de la nomenclature (noms locaux, noms de lieux et lieux-dits), de la couverture du sol et des objets divers;
+- b.[^3-2] *noms géographiques de la mensuration officielle*: noms des objets topographiques conformément aux données de la mensuration officielle;
 - c. *noms géographiques de la mensuration nationale:* noms des objets topographiques, conformément au modèle topographique du paysage de la mensuration nationale;
 - d. *communes:* entités politiques les plus petites assumant les tâches dévolues à la commune politique par la législation cantonale et définies sans équivoque par un territoire et un nom;
 - e. *localités:* zones urbanisées, habitées et géographiquement délimitables, pourvues d’un nom et d’un code postal qui leur sont propres;
 - f. *rues:* rues, routes, chemins, ruelles, places et lieux dénommés servant de désignations de rues pour des adresses;
-- g. *stations:* gares, stations, y compris les stations amont, aval et intermédiaires, de même que les arrêts de toutes les courses régulières servant au transport des voyageurs visées à l’art. 1, al. 2, de l’ordonnance du 25 novembre 1998 sur les horaires[^3-2];
+- g. *stations:* gares, stations, y compris les stations amont, aval et intermédiaires, de même que les arrêts de toutes les courses régulières servant au transport des voyageurs visées à l’art. 1, al. 2, de l’ordonnance du 25 novembre 1998 sur les horaires[^3-3];
 - h. *objets topographiques:* cours d’eau et plans d’eau (par ex.: fleuves et rivières, ruisseaux, lacs, étangs, cascades, sources), glaciers, agglomérations (par ex.: villes, villages, quartiers, hameaux, fermes isolées), terrain (par ex.: montagnes et collines), paysages (par ex.: sites, vallées, alpages, champs, forêts), objets culturels (par ex.: châteaux forts, châteaux, couvents et monastères, églises, chapelles), constructions publiques (par ex.: écoles, hôpitaux, cabanes de montagne) et objets particuliers des voies de communication (par ex.: ponts, cols, tunnels, aérodromes).
 
-[^3-1]: Nouvelle teneur selon le ch. II 3 de l’annexe 2 à l’O du 9 juin 2017 sur le Registre fédéral des bâtiments et des logements, en vigueur depuis le 1<sup>er</sup> juil. 2017 ([RO 2017 3459](https://fedlex.data.admin.ch/eli/oc/2017/376)).
-[^3-2]: [[RO 1999 698](https://fedlex.data.admin.ch/eli/oc/1999/103). [RO 2009 6055](https://fedlex.data.admin.ch/eli/oc/2009/740)art. 15]. Voir actuellement l’art. 1 al. 1de l’O du 11 nov. 2009 sur les horaires ([RS 745.13](https://fedlex.data.admin.ch/eli/cc/2009/740)).
+[^3-1]: Nouvelle teneur selon l’annexe 2 ch. II 3 de l’O du 9 juin 2017 sur le Registre fédéral des bâtiments et des logements, en vigueur depuis le 1<sup>er</sup> juil. 2017 ([RO 2017 3459](https://fedlex.data.admin.ch/eli/oc/2017/376)).
+[^3-2]: Nouvelle teneur selon l’annexe ch. 8 de l’O du 23 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
+[^3-3]: [[RO 1999 698](https://fedlex.data.admin.ch/eli/oc/1999/103). [RO 2009 6055](https://fedlex.data.admin.ch/eli/oc/2009/740)art. 15]. Voir actuellement l’art. 1 al. 1de l’O du 11 nov. 2009 sur les horaires ([RS 745.13](https://fedlex.data.admin.ch/eli/cc/2009/740)).
 
 #### Art. 4
 
@@ -303,7 +304,7 @@ Les prescriptions relatives à l’examen préalable et à l’approbation de no
 
 <sup>4</sup> Il fixe les frais dans la décision d’approbation.
 
-[^23-1]: [[RO 1997 2452](https://fedlex.data.admin.ch/eli/oc/1997/2452_2452_2452), [2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374)annexe ch. 23, [2003 4297](https://fedlex.data.admin.ch/eli/oc/2003/638), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 85, [2007 5645](https://fedlex.data.admin.ch/eli/oc/2007/776). [RO 2012 4993](https://fedlex.data.admin.ch/eli/oc/2012/585)annexe ch. I]. Actuellement: au sens de l’art. 14 de la L du 17 déc. 2010 sur la poste ([SR 783.0](https://fedlex.data.admin.ch/eli/cc/2012/585)).
+[^23-1]: [[RO 1997 2452](https://fedlex.data.admin.ch/eli/oc/1997/2452_2452_2452); [2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374)annexe ch. 23; [2003 4297](https://fedlex.data.admin.ch/eli/oc/2003/638); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 85; [2007 5645](https://fedlex.data.admin.ch/eli/oc/2007/776). [RO 2012 4993](https://fedlex.data.admin.ch/eli/oc/2012/585)annexe ch. I]. Actuellement: au sens de l’art. 14 de la L du 17 déc. 2010 sur la poste ([SR 783.0](https://fedlex.data.admin.ch/eli/cc/2012/585)).
 
 #### Art. 24
 
@@ -323,7 +324,7 @@ L’Office fédéral de topographie établit, gère et publie le répertoire off
 
 <sup>3</sup> L’orthographe des noms de rues reprenant des éléments des noms géographiques de la mensuration officielle est harmonisée au niveau régional.
 
-[^25-1]: Nouvelle teneur selon le ch. II 3 de l’annexe 2 à l’O du 9 juin 2017 sur le Registre fédéral des bâtiments et des logements, en vigueur depuis le 1<sup>er</sup> juil. 2017 ([RO 2017 3459](https://fedlex.data.admin.ch/eli/oc/2017/376)).
+[^25-1]: Nouvelle teneur selon l’annexe 2 ch. II 3 de l’O du 9 juin 2017 sur le Registre fédéral des bâtiments et des logements, en vigueur depuis le 1<sup>er</sup> juil. 2017 ([RO 2017 3459](https://fedlex.data.admin.ch/eli/oc/2017/376)).
 
 #### Art. 26
 
@@ -335,7 +336,7 @@ L’Office fédéral de topographie établit, gère et publie le répertoire off
 
 <sup>3</sup> Les noms de rues fixés sont communiqués au service cantonal du cadastre et à l’Office fédéral de la statistique, ainsi qu’aux fournisseurs de services universels au sens des art. 2 à 4 de la loi fédérale du 30 avril 1997 sur la poste[^26-1].
 
-[^26-1]: [[RO 1997 2452](https://fedlex.data.admin.ch/eli/oc/1997/2452_2452_2452), [2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374)annexe ch. 23, [2003 4297](https://fedlex.data.admin.ch/eli/oc/2003/638), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 85, [2007 5645](https://fedlex.data.admin.ch/eli/oc/2007/776). [RO 2012 4993](https://fedlex.data.admin.ch/eli/oc/2012/585)annexe ch. I]. Actuellement: les prestataires de services postaux enregistrés au sens de l’art. 4 de la L du 17 déc. 2010 sur la poste ([RS 783.0](https://fedlex.data.admin.ch/eli/cc/2012/585)).
+[^26-1]: [[RO 1997 2452](https://fedlex.data.admin.ch/eli/oc/1997/2452_2452_2452); [2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374)annexe ch. 23; [2003 4297](https://fedlex.data.admin.ch/eli/oc/2003/638); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 85; [2007 5645](https://fedlex.data.admin.ch/eli/oc/2007/776). [RO 2012 4993](https://fedlex.data.admin.ch/eli/oc/2012/585)annexe ch. I]. Actuellement: les prestataires de services postaux enregistrés au sens de l’art. 4 de la L du 17 déc. 2010 sur la poste ([RS 783.0](https://fedlex.data.admin.ch/eli/cc/2012/585)).
 
 #### Art. 26a
 
@@ -359,13 +360,13 @@ Ce répertoire comprend les données suivantes pour toutes les rues au sens de l
 
 <sup>4</sup> Le répertoire officiel des rues a force obligatoire pour les autorités, à l’exception des données selon l’al. 2, let. e.
 
-[^26a-1]: Introduit par le ch. II 3 de l’annexe 2 à l’O du 9 juin 2017 sur le Registre fédéral des bâtiments et des logements, en vigueur depuis le 1<sup>er</sup> juil. 2017 ([RO 2017 3459](https://fedlex.data.admin.ch/eli/oc/2017/376)).
+[^26a-1]: Introduit par l’annexe 2 ch. II 3 de l’O du 9 juin 2017 sur le Registre fédéral des bâtiments et des logements, en vigueur depuis le 1<sup>er</sup> juil. 2017 ([RO 2017 3459](https://fedlex.data.admin.ch/eli/oc/2017/376)).
 
-## Section 6*a***** Adresses de bâtiments
+## Section 6*a* Adresses de bâtiments
 
 [^sec6a-1]
 
-[^sec6a-1]: Introduite par le ch. II 3 de l’annexe 2 à l’O du 9 juin 2017 sur le Registre fédéral des bâtiments et des logements, en vigueur depuis le 1<sup>er</sup> juil. 2017 ([RO 2017 3459](https://fedlex.data.admin.ch/eli/oc/2017/376)).
+[^sec6a-1]: Introduite par l’annexe 2 ch. II 3 de l’O du 9 juin 2017 sur le Registre fédéral des bâtiments et des logements, en vigueur depuis le 1<sup>er</sup> juil. 2017 ([RO 2017 3459](https://fedlex.data.admin.ch/eli/oc/2017/376)).
 
 #### Art. 26b
 
@@ -416,7 +417,7 @@ Chacun des bâtiments suivants au sens du RegBL se voit attribuer une ou plusieu
 
 <sup>2</sup> La station se voit attribuer le nom de la localité qu’elle dessert.
 
-3 Si une station dessert plusieurs localités ou n’en dessert aucune, le nom le plus pertinent pour le ou les réseaux de transport considérés lui est associé. En règle générale, elle ne porte qu’un seul nom.
+<sup>3</sup> Si une station dessert plusieurs localités ou n’en dessert aucune, le nom le plus pertinent pour le ou les réseaux de transport considérés lui est associé. En règle générale, elle ne porte qu’un seul nom.
 
 <sup>4</sup> Si plusieurs stations desservent une même localité, elles sont distinguées les unes des autres par des compléments au nom de la localité. Le complément ne doit pas reprendre le nom d’une entreprise, sauf si ce dernier est identique à un nom géographique.
 
@@ -493,7 +494,7 @@ Aucun frais n’est facturé si la détermination ou la modification est la cons
 
 Le répertoire des noms de stations est publié dans le cadre de la parution officielle des horaires au sens des art. 9 et 10 de l’ordonnance du 4 novembre 2009 sur les horaires[^34-2].
 
-[^34-1]: Nouvelle teneur selon le ch. II 3 de l’annexe 2 à l’O du 9 juin 2017 sur le Registre fédéral des bâtiments et des logements, en vigueur depuis le 1<sup>er</sup> juil. 2017 ([RO 2017 3459](https://fedlex.data.admin.ch/eli/oc/2017/376)).
+[^34-1]: Nouvelle teneur selon l’annexe 2 ch. II 3 de l’O du 9 juin 2017 sur le Registre fédéral des bâtiments et des logements, en vigueur depuis le 1<sup>er</sup> juil. 2017 ([RO 2017 3459](https://fedlex.data.admin.ch/eli/oc/2017/376)).
 [^34-2]: [RS 745.13](https://fedlex.data.admin.ch/eli/cc/2009/740)
 
 ## Section 8 Coordination et participation
@@ -532,7 +533,7 @@ L’office fédéral compétent assure une participation adaptée des cantons et
 
 <sup>4</sup> L’orthographe des noms de rues de la mensuration officielle a force obligatoire pour les autorités dans la zone concernée jusqu’à l’existence d’un répertoire des rues validé.
 
-[^37a-1]: Introduit par le ch. II 3 de l’annexe 2 à l’O du 9 juin 2017 sur le Registre fédéral des bâtiments et des logements, en vigueur depuis le 1<sup>er</sup> juil. 2017 ([RO 2017 3459](https://fedlex.data.admin.ch/eli/oc/2017/376)).
+[^37a-1]: Introduit par l’annexe 2 ch. II 3 de l’O du 9 juin 2017 sur le Registre fédéral des bâtiments et des logements, en vigueur depuis le 1<sup>er</sup> juil. 2017 ([RO 2017 3459](https://fedlex.data.admin.ch/eli/oc/2017/376)).
 
 #### Art. 38
 
@@ -540,7 +541,7 @@ L’office fédéral compétent assure une participation adaptée des cantons et
 
 L’ordonnance du 30 décembre 1970 concernant les noms des lieux, des communes et des gares[^38-1] est abrogée.
 
-[^38-1]: [RO **1970** 1651, [1991 370](https://fedlex.data.admin.ch/eli/oc/1991/370_370_370)annexe ch. 3, [1997 2779](https://fedlex.data.admin.ch/eli/oc/1997/2779_2779_2779)ch. II 28, [1999 704](https://fedlex.data.admin.ch/eli/oc/1999/104)ch. II 14]
+[^38-1]: [RO **1970** 1651; [1991 370](https://fedlex.data.admin.ch/eli/oc/1991/370_370_370)annexe ch. 3; [1997 2779](https://fedlex.data.admin.ch/eli/oc/1997/2779_2779_2779)ch. II 28; [1999 704](https://fedlex.data.admin.ch/eli/oc/1999/104)ch. II 14]
 
 #### Art. 39
 
