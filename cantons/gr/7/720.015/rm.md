@@ -5,12 +5,12 @@ title: Disposiziuns executivas tar la legislaziun da taglia
 short: DERtLT
 language: rm
 version: 2024-01-01
-valid_until: 2024-12-31
+corrected: 2023-12-12
 version_adopted: 2024-01-23
 adopted: 2007-11-27
 in_force: 2008-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/720.015"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3354/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3281/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -372,44 +372,37 @@ relaschada da la regenza ils 27 da november 2007
 - c) code tariffar C: conjugals che vivan en ina lètg giuridicamain ed effectivamain nunseparada, tar ils quals omadus conjugals han in'activitad da gudogn;
 - d) …
 - e) code tariffar E: persunas che vegnan suttamessas a la taglia en la procedura da rendaquint simplifitgada tenor l'artitgel 99a LT;
-- f) …
+- f) code tariffar F: cunfinarias e cunfinaris tenor la Cunvegna dals 3 d'october 1974[^25-1] tranter la Svizra e l'Italia davart l'imposiziun dals lavurants da cunfin e la cumpensaziun finanziala a favur da las vischnancas talianas limitrofas, che vivan en ina vischnanca taliana da cunfin e dals quals il conjugal u la conjugala ha in'activitad da gudogn ordaifer la Svizra. Per quest code tariffar vegn deposità il code tariffar C; resalvada resta la cumprova ch'il conjugal che viva a l'exteriur n'obtegna betg in'entrada da gudogn (code tariffar B);
 - f<sup>bis</sup>) code tariffar G: entradas substitutivas tenor l'artitgel 27a che na vegnan betg pajadas da las patrunas e dals patruns a las persunas ch'èn obligadas da pajar la taglia a la funtauna;
 - g) code tariffar H: persunas nubilas, persunas divorziadas, persunas che vivan en ina lètg u en in partenadi giuridicamain ed effectivamain separada u separà e persunas vaivas, las qualas vivan en la medema chasada cun uffants u cun persunas che basegnan sustegn, per ils quals ellas procuran principalmain per il mantegniment;
-- h) code tariffar L: cunfinarias e cunfinaris tenor la convenziun dals 11 d'avust 1971[^25-1] tranter la confederaziun svizra e la republica federala tudestga per evitar l'imposiziun dubla en il sectur da las taglias sin las entradas e sin la facultad (CID-D), che adempleschan las premissas per il code tariffar A;
+- h) code tariffar L: cunfinarias e cunfinaris tenor la convenziun dals 11 d'avust 1971[^25-2] tranter la confederaziun svizra e la republica federala tudestga per evitar l'imposiziun dubla en il sectur da las taglias sin las entradas e sin la facultad (CID-D), che adempleschan las premissas per il code tariffar A;
 - i) code tariffar M: cunfinarias e cunfinaris tenor la CID-D che adempleschan las premissas per il code tariffar B;
 - j) code tariffar N: cunfinarias e cunfinaris tenor la CID-D che adempleschan las premissas per il code tariffar C;
 - k) …
 - l) code tariffar P: cunfinarias e cunfinaris tenor la CID-D che adempleschan las premissas per il code tariffar H;
-- m) code tariffar Q: cunfinarias e cunfinaris tenor la CID-D che adempleschan las premissas per il code tariffar G;
-- n) code tariffar R: cunfinarias e cunfinaris che vegnan suttamess a la taglia tenor l'artitgel 3 alinea 1 da la Cunvegna dals 23 da december 2020[^25-2] tranter la Confederaziun svizra e la Republica taliana davart l'imposiziun da taglia da las cunfinarias e dals cunfinaris (Cunvegna da cunfinarias e cunfinaris CH-IT) e che adempleschan las premissas per il code tariffar A;
-- o) code tariffar S: cunfinarias e cunfinaris che vegnan suttamess a la taglia tenor l'artitgel 3 alinea 1 da la Cunvegna da cunfinarias e cunfinaris CH-IT e che adempleschan las premissas per il code tariffar B;
-- p) code tariffar T: cunfinarias e cunfinaris che vegnan suttamess a la taglia tenor l'artitgel 3 alinea 1 da la Cunvegna da cunfinarias e cunfinaris CH-IT e che adempleschan las premissas per il code tariffar C;
-- q) coder tariffar U: cunfinarias e cunfinaris che vegnan suttamess a la taglia tenor l'artitgel 3 alinea 1 da la Cunvegna da cunfinarias e cunfinaris CH-IT e che adempleschan las premissas per il code tariffar H;
-- r) code tariffar V: cunfinarias e cunfinaris che vegnan suttamess a la taglia tenor l'artitgel 3 alinea 1 da la Cunvegna da cunfinarias e cunfinaris CH-IT e che adempleschan las premissas per il code tariffar G.
+- m) code tariffar Q: cunfinarias e cunfinaris tenor la CID-D che adempleschan las premissas per il code tariffar G.
 
 <sup>1<sup>bis</sup></sup> La taglia a la funtauna (incl. part a la vischnanca ed a la baselgia) sin las entradas substitutivas cun il code tariffar G importa:
 
-- a) 0,0 % per ils emprims 19 080.– fr.
-- b) 9,5 % per ils ulteriurs 6360.– fr.
-- c) 13,5 % per ils ulteriurs 12 720.– fr.
-- d) 16,0 % per ils ulteriurs 12 720.– fr.
-- e) 17,5 % per ils ulteriurs 12 720.– fr.
-- f) 17,0 % per ils ulteriurs 31 800.– fr.
-- g) 17,5 % per ils ulteriurs 31 800.– fr.
-- h) 18,7 % per ils ulteriurs 63 600.– fr.
-- i) 20,0 % per ils ulteriurs 678 400.– fr.
-- j) 19,0 % per tut las entradas suttamessas a la taglia, sche quellas surpassan 869 200.– fr.
+- a) 0,0 % per ils emprims 18 000.– fr.
+- b) 9,8 % per ils ulteriurs 6000.– fr.
+- c) 14,0 % per ils ulteriurs 12 000.– fr.
+- d) 16,4 % per ils ulteriurs 12 000.– fr.
+- e) 17,8 % per ils ulteriurs 12 000.– fr.
+- f) 17,1 % per ils ulteriurs 30 000.– fr.
+- g) 17,7 % per ils ulteriurs 30 000.– fr.
+- h) 19,1 % per ils ulteriurs 60 000.– fr.
+- i) 21,2 % per ils ulteriurs 640 000.– fr.
+- j) 20,0 % per tut las entradas suttamessas a la taglia, sche quellas surpassan 820 000.– fr.
 
-<sup>1<sup>ter</sup></sup> La taglia a la funtauna da las cunfinarias e dals cunfinaris tenor l'alinea 1 literas n - r importa 80 pertschient da la taglia a la funtauna tenor il code tariffar, per il qual ellas ed els adempleschan las premissas.
-
-<sup>2</sup> L'Administraziun chantunala da taglia calculescha las tariffas per mais tenor l'alinea 1 literas a - c, g - j, l sco er n - q, e quai – cun e senza resguardar la taglia da baselgia – confurm a las deducziuns ed a las tariffas che valan per ina taxaziun ordinaria.
+<sup>2</sup> L'Administraziun chantunala da taglia calculescha las tariffas per mais tenor l'alinea 1 literas a - c, f, g - j sco er l, e quai – cun e senza resguardar la taglia da baselgia – confurm a las deducziuns ed a las tariffas che valan per ina taxaziun ordinaria.
 
 <sup>3</sup> Per fixar las tariffas vegnan las entradas ordinarias convertidas sin in onn. Per eruir la tariffa fiscala tar il code tariffar C vegn presumada in'entrada da gudogn dal medem import sco quel da la persuna obligada da pajar la taglia a la funtauna e da sia conjugala u da ses conjugal, en moda che l'Administraziun chantunala da taglia plafonescha l'entrada da la conjugala u dal conjugal.
 
 <sup>4</sup> …
 
-[^25-1]: CS [0.672.913.62](https://db.clex.ch/link/Bund/0.672.913.62/rm)
-[^25-2]: CS [0.642.045.43](https://db.clex.ch/link/Bund/0.642.045.43/rm)
+[^25-1]: CS [0.642.045.43](https://db.clex.ch/link/Bund/0.642.045.43/rm)
+[^25-2]: CS [0.672.913.62](https://db.clex.ch/link/Bund/0.672.913.62/rm)
 
 #### Art. 26
 
@@ -536,8 +529,6 @@ relaschada da la regenza ils 27 da november 2007
 
 <sup>2</sup> En la procedura da taxaziun examinescha l'autoritad da taglia, sche la persuna obligada da pajar la taglia a la funtauna ademplescha durant l'onn fiscal las premissas per esser ina persuna quasi-domiciliada. Per quest intent eruescha ella tenor ils artitgels 16 - 19 e 21 - 29 LT l'emprim las entradas bruttas sin l'entir mund e suenter la part da las entradas bruttas suttamessas a la taglia en Svizra.
 
-<sup>3</sup> Per cunfinarias e cunfinaris tenor l'artitgel 2 litera b da la Cunvegna da cunfinarias e cunfinaris CH-IT na dastga vegnir fatga nagina imposiziun ordinaria posteriura per persunas quasi-domiciliadas.
-
 #### Art. 33b
 
 **3. Taxaziun ordinaria posteriura d'uffizi (art. 105a<sup>quater</sup> LT)**
@@ -545,8 +536,6 @@ relaschada da la regenza ils 27 da november 2007
 <sup>1</sup> Las autoritads da taglia chantunalas responsablas pon far d'uffizi ina taxaziun ordinaria posteriura, sch'i resulta da las actas il suspect motivà ch'igl existian relaziuns nuncunvegnentas a favur u a disfavur da la pajataglia u dal pajataglia.
 
 <sup>2</sup> Per introducir ina taxaziun ordinaria posteriura d'uffizi vala l'artitgel 125 LT davart la surannaziun da la taxaziun.
-
-<sup>3</sup> Per cunfinarias e cunfinaris tenor l'artitgel 2 litera b da la Cunvegna da cunfinarias e cunfinaris CH-IT na dastga vegnir fatga d'uffizi nagina imposiziun ordinaria posteriura.
 
 #### Art. 34
 

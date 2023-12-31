@@ -5,12 +5,12 @@ title: Ausführungsbestimmungen zur Steuergesetzgebung
 short: ABzStG
 language: de
 version: 2024-01-01
-valid_until: 2024-12-31
+corrected: 2023-12-12
 version_adopted: 2024-01-23
 adopted: 2007-11-27
 in_force: 2008-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/720.015"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3354/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3281/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -374,44 +374,37 @@ Abzug = (Mietwert ohne Garage x Anzahl nicht genutzter Räume) / (Anzahl Zimmer 
 - c) Tarifcode C: in rechtlich und tatsächlich ungetrennter Ehe lebenden Ehegatten, bei welchen beide Ehegatten erwerbstätig sind;
 - d) …
 - e) Tarifcode E: Personen, die im vereinfachten Abrechnungsverfahren nach Artikel 99a StG besteuert werden;
-- f) …
+- f) Tarifcode F: Grenzgängerinnen und Grenzgängern nach der Vereinbarung vom 3. Oktober 1974[^25-1] zwischen der Schweiz und Italien über die Besteuerung der Grenzgänger und den finanziellen Ausgleich zugunsten der italienischen Grenzgemeinden, die in einer italienischen Grenzgemeinde leben und deren Ehemann oder Ehefrau ausserhalb der Schweiz erwerbstätig ist. Für diesen Tarifcode wird Tarifcode C hinterlegt; vorbehalten bleibt der Nachweis, dass der im Ausland wohnhafte Ehegatte kein Erwerbseinkommen erzielt (Tarifcode B);
 - f<sup>bis</sup>) Tarifcode G: Ersatzeinkünfte nach Artikel 27a, die nicht über die Arbeitgeber an die quellensteuerpflichtigen Personen ausbezahlt werden;
 - g) Tarifcode H: ledigen, geschiedenen, gerichtlich oder tatsächlich getrennt lebenden und verwitweten Personen, die mit Kindern oder unterstützungsbedürftigen Personen im gleichen Haushalt zusammenleben und deren Unterhalt zur Hauptsache bestreiten;
-- h) Tarifcode L: Grenzgängerinnen und Grenzgängern nach dem Abkommen vom 11. August 1971[^25-1] zwischen der Schweizerischen Eidgenossenschaft und der Bundesrepublik Deutschland zur Vermeidung der Doppelbesteuerung auf dem Gebiete der Steuern vom Einkommen und vom Vermögen (DBA-D), welche die Voraussetzungen für den Tarifcode A erfüllen;
+- h) Tarifcode L: Grenzgängerinnen und Grenzgängern nach dem Abkommen vom 11. August 1971[^25-2] zwischen der Schweizerischen Eidgenossenschaft und der Bundesrepublik Deutschland zur Vermeidung der Doppelbesteuerung auf dem Gebiete der Steuern vom Einkommen und vom Vermögen (DBA-D), welche die Voraussetzungen für den Tarifcode A erfüllen;
 - i) Tarifcode M: Grenzgängerinnen und Grenzgängern nach dem DBA-D, welche die Voraussetzungen für den Tarifcode B erfüllen;
 - j) Tarifcode N: Grenzgängerinnen und Grenzgängern nach dem DBA-D, welche die Voraussetzungen für den Tarifcode C erfüllen;
 - k) …
 - l) Tarifcode P: Grenzgängerinnen und Grenzgängern nach dem DBA-D, welche die Voraussetzungen für den Tarifcode H erfüllen;
-- m) Tarifcode Q: Grenzgängerinnen und Grenzgängern nach dem DBA-D, welche die Voraussetzungen für den Tarifcode G erfüllen;
-- n) Tarifcode R: Grenzgängerinnen und Grenzgängern, die nach Artikel 3 Absatz 1 des Abkommens vom 23. Dezember 2020[^25-2] zwischen der Schweizerischen Eidgenossenschaft und der Italienischen Republik über die Besteuerung der Grenzgängerinnen und Grenzgänger (Grenzgängerabkommen CH-IT) besteuert werden und die Voraussetzungen für den Tarifcode A erfüllen;
-- o) Tarifcode S: Grenzgängerinnen und Grenzgängern, die nach Artikel 3 Absatz 1 des Grenzgängerabkommens CH-IT besteuert werden und die Voraussetzungen für den Tarifcode B erfüllen;
-- p) Tarifcode T: Grenzgängerinnen und Grenzgängern, die nach Artikel 3 Absatz 1 des Grenzgängerabkommens CH-IT besteuert werden und die Voraussetzungen für den Tarifcode C erfüllen;
-- q) Tarifcode U: Grenzgängerinnen und Grenzgängern, die nach Artikel 3 Absatz 1 des Grenzgängerabkommens CH-IT besteuert werden und die Voraussetzungen für den Tarifcode H erfüllen;
-- r) Tarifcode V: Grenzgängerinnen und Grenzgängern, die nach Artikel 3 Absatz 1 des Grenzgängerabkommens CH-IT besteuert werden und die Voraussetzungen für den Tarifcode G erfüllen.
+- m) Tarifcode Q: Grenzgängerinnen und Grenzgängern nach dem DBA-D, welche die Voraussetzungen für den Tarifcode G erfüllen.
 
 <sup>1<sup>bis</sup></sup> Die Quellensteuer (inkl. Anteil Gemeinde und Kirche) auf Ersatzeinkünfte mit dem Tarifcode G beträgt:
 
-- a) 0,0 % für die ersten Fr. 19 080.–
-- b) 9,5 % für die weiteren Fr. 6360.–
-- c) 13,5 % für die weiteren Fr. 12 720.–
-- d) 16,0 % für die weiteren Fr. 12 720.–
-- e) 17,5 % für die weiteren Fr. 12 720.–
-- f) 17,0 % für die weiteren Fr. 31 800.–
-- g) 17,5 % für die weiteren Fr. 31 800.–
-- h) 18,7 % für die weiteren Fr. 63 600.–
-- i) 20,0 % für die weiteren Fr. 678 400.–
-- j) 19,0 % für das gesamte steuerbare Einkommen, wenn dieses Fr. 869 200.– übersteigt.
+- a) 0,0 % für die ersten Fr. 18 000.–
+- b) 9,8 % für die weiteren Fr. 6000.–
+- c) 14,0 % für die weiteren Fr. 12 000.–
+- d) 16,4 % für die weiteren Fr. 12 000.–
+- e) 17,8 % für die weiteren Fr. 12 000.–
+- f) 17,1 % für die weiteren Fr. 30 000.–
+- g) 17,7 % für die weiteren Fr. 30 000.–
+- h) 19,1 % für die weiteren Fr. 60 000.–
+- i) 21,2 % für die weiteren Fr. 640 000.–
+- j) 20,0 % für das gesamte steuerbare Einkommen, wenn dieses Fr. 820 000.– übersteigt.
 
-<sup>1<sup>ter</sup></sup> Die Quellensteuer der Grenzgängerinnen und Grenzgänger nach Absatz 1 Litera n - r beträgt 80 Prozent der Quellensteuer nach dem Tarifcode, für den sie die Voraussetzungen erfüllen.
-
-<sup>2</sup> Die Kantonale Steuerverwaltung berechnet die Monatstarife gemäss Absatz 1 Litera a - c, g - j, l sowie n - q mit und ohne Berücksichtigung der Kirchensteuer entsprechend den bei ordentlicher Veranlagung geltenden Abzügen und Tarifen.
+<sup>2</sup> Die Kantonale Steuerverwaltung berechnet die Monatstarife gemäss Absatz 1 Litera a - c, f, g - j sowie l mit und ohne Berücksichtigung der Kirchensteuer entsprechend den bei ordentlicher Veranlagung geltenden Abzügen und Tarifen.
 
 <sup>3</sup> Für die Satzbestimmung werden die ordentlichen Einkünfte auf ein Jahr umgerechnet. Für die Ermittlung des Steuersatzes bei Tarifcode C wird vom gleich hohen Erwerbseinkommen des Quellensteuerpflichtigen und seines Ehegatten ausgegangen, wobei die Kantonale Steuerverwaltung das Ehegatteneinkommen plafoniert.
 
 <sup>4</sup> …
 
-[^25-1]: SR [0.672.913.62](https://db.clex.ch/link/Bund/0.672.913.62/de)
-[^25-2]: SR [0.642.045.43](https://db.clex.ch/link/Bund/0.642.045.43/de)
+[^25-1]: SR [0.642.045.43](https://db.clex.ch/link/Bund/0.642.045.43/de)
+[^25-2]: SR [0.672.913.62](https://db.clex.ch/link/Bund/0.672.913.62/de)
 
 #### Art. 26
 
@@ -538,8 +531,6 @@ Abzug = (Mietwert ohne Garage x Anzahl nicht genutzter Räume) / (Anzahl Zimmer 
 
 <sup>2</sup> Die Steuerbehörde prüft im Veranlagungsverfahren, ob die quellensteuerpflichtige Person im Steuerjahr die Voraussetzungen der Quasi-Ansässigkeit erfüllt. Dazu ermittelt sie nach den Artikeln 16 - 19 und 21 - 29 StG zuerst die weltweiten Bruttoeinkünfte und danach den Anteil der in der Schweiz steuerbaren Bruttoeinkünfte.
 
-<sup>3</sup> Für Grenzgängerinnen und Grenzgänger nach Artikel 2 Litera b des Grenzgängerabkommens CH-IT darf keine nachträgliche ordentliche Veranlagung bei Quasi-Ansässigkeit durchgeführt werden.
-
 #### Art. 33b
 
 **3. Nachträgliche ordentliche Veranlagung von Amtes wegen (Art. 105a<sup>quater</sup> StG)**
@@ -547,8 +538,6 @@ Abzug = (Mietwert ohne Garage x Anzahl nicht genutzter Räume) / (Anzahl Zimmer 
 <sup>1</sup> Die zuständigen kantonalen Steuerbehörden können von Amtes wegen eine nachträgliche ordentliche Veranlagung durchführen, wenn sich aus der Aktenlage der begründete Verdacht ergibt, dass stossende Verhältnisse zugunsten oder zuungunsten der steuerpflichtigen Person vorliegen.
 
 <sup>2</sup> Für die Einleitung einer nachträglichen ordentlichen Veranlagung von Amtes wegen gilt Artikel 125 StG über die Veranlagungsverjährung.
-
-<sup>3</sup> Für Grenzgängerinnen und Grenzgänger nach Artikel 2 Litera b des Grenzgängerabkommens CH-IT darf keine nachträgliche ordentliche Veranlagung von Amtes wegen durchgeführt werden.
 
 #### Art. 34
 
