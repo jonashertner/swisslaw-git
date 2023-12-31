@@ -4,13 +4,13 @@ number: "161.12"
 title: Dekret betreffend die Verfahrenskosten und die Verwaltungsgebühren der Gerichtsbehörden und der Staatsanwaltschaft
 short: "Verfahrenskostendekret, VKD"
 language: de
-version: 2013-06-01
-valid_until: 2023-12-31
-version_adopted: 2012-11-20
+version: 2024-01-01
+valid_until: 2026-04-30
+version_adopted: 2022-06-14
 adopted: 2010-03-24
 in_force: 2011-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/161.12"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1134/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2882/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1134/pdf_file"
 
 (Verfahrenskostendekret, VKD)
 
-vom 24.03.2010 (Stand 01.06.2013)
+vom 24.03.2010 (Stand 01.01.2024)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -105,7 +105,7 @@ beschliesst:
 
 <sup>1</sup> Die Verfahrenskosten werden durch die jeweils in der Sache zuständige Gerichtsbehörde oder Staatsanwaltschaft erhoben.
 
-<sup>2</sup> Der Bezug auf dem Wege der Schuldbetreibung erfolgt durch die Stabsstelle für Ressourcen der Justizleitung. Das Obergericht und das Verwaltungsgericht können mit der Finanzdirektion vereinbaren, dass diese Aufgabe durch deren zuständige Stelle erfüllt wird.
+<sup>2</sup> Der Bezug auf dem Wege der Schuldbetreibung erfolgt durch die Stabsstelle für Ressourcen der Justizverwaltungsleitung. Das Obergericht und das Verwaltungsgericht können mit der Finanzdirektion vereinbaren, dass diese Aufgabe durch deren zuständige Stelle erfüllt wird.
 
 #### Art. 10
 

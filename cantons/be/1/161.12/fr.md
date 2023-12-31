@@ -4,13 +4,13 @@ number: "161.12"
 title: Décret concernant les frais de procédure et les émoluments administratifs des autorités judiciaires et du Ministère public
 short: "Décret sur les frais de procédure, DFP"
 language: fr
-version: 2013-06-01
-valid_until: 2023-12-31
-version_adopted: 2012-11-20
+version: 2024-01-01
+valid_until: 2026-04-30
+version_adopted: 2022-06-14
 adopted: 2010-03-24
 in_force: 2011-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/161.12"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1134/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2882/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1134/pdf_file"
 
 (Décret sur les frais de procédure, DFP)
 
-du 24.03.2010 (état au 01.06.2013)
+du 24.03.2010 (état au 01.01.2024)
 
 Le Grand Conseil du canton de Berne,
 
@@ -105,7 +105,7 @@ arrête:
 
 <sup>1</sup> Les frais de procédure sont perçus par l’autorité judiciaire ou le ministère public compétents sur le fond.
 
-<sup>2</sup> Le recouvrement par voie de poursuite incombe à l’état-major des ressources de la Direction de la magistrature. La Cour suprême et le Tribunal administratif peuvent, d’entente avec la Direction des finances, déléguer cette tâche au service compétent de cette dernière.
+<sup>2</sup> Le recouvrement par voie de poursuite incombe à l’état-major des ressources de la Direction administrative de la magistrature. La Cour suprême et le Tribunal administratif peuvent, d’entente avec la Direction des finances, déléguer cette tâche au service compétent de cette dernière.
 
 #### Art. 10
 
