@@ -4,11 +4,11 @@ title: Ordinanza del 24 novembre 2004 sulle indennità di perdita di guadagno (O
 short: OIPG
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/187"
 language: it
-version: 2023-01-01
+version: 2024-01-01
 adopted: 2004-11-24
 in_force: 2005-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/187/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2005-187-20230101-it-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/187/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/187/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2005-187-20240101-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/187/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/187/20230101/it"
 
 (OIPG)
 
-del 24 novembre 2004 (Stato 1° gennaio 2023)
+del 24 novembre 2004 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -80,21 +80,22 @@ L’indennità per lavoratori salariati è calcolata sulla base dell’ultimo sa
 - b. infortunio;
 - c. disoccupazione;
 - d. servizio ai sensi dell’articolo 1*a* LIPG;
-- e.[^4-2] maternità o paternità;
-- f.[^4-3] assistenza a un figlio con gravi problemi di salute ai sensi dell’articolo 16*o* LIPG;
-- g.[^4-4] accoglimento di un bambino di età inferiore a quattro anni in vista dell’adozione (adottando);
-- h.[^4-5] altri motivi non imputabili a colpa propria.
+- e.[^4-2] un congedo di maternità ai sensi dell’articolo 329*f* del Codice delle obbligazioni (CO)[^4-3] o di un congedo per l’altro genitore ai sensi dell’articolo 329*g* o 329*g*<sup>bis</sup> CO;
+- f.[^4-4] assistenza a un figlio con gravi problemi di salute ai sensi dell’articolo 16*o* LIPG;
+- g.[^4-5] accoglimento di un bambino di età inferiore a quattro anni in vista dell’adozione (adottando);
+- h.[^4-6] altri motivi non imputabili a colpa propria.
 
 <sup>2</sup> Per la persona che prova che nel corso del servizio avrebbe intrapreso un’attività lucrativa dipendente per un periodo più lungo o che avrebbe percepito un salario significativamente superiore a quello percepito prima dell’entrata in servizio, l’indennità è calcolata sulla base del salario che essa avrebbe potuto percepire. Se ha portato a termine la sua formazione subito prima dell’entrata in servizio o l’avrebbe conclusa durante il medesimo, l’indennità è calcolata sulla base del salario iniziale percepito di norma per la professione in questione nella regione in cui sarebbe stata esercitata.
 
-<sup>3</sup> Per chi collabora ad un’azienda della propria famiglia senza essere retribuito in termini monetari e presta servizio prima del 1° gennaio dell’anno successivo a quello in cui ha compiuto vent’anni, l’indennità è calcolata sulla base del salario mensile globale ai sensi dell’articolo 14 capoverso 3 dell’ordinanza del 31 ottobre 1947[^4-6] sull’assicurazione per la vecchiaia e per i superstiti (OAVS).
+<sup>3</sup> Per chi collabora ad un’azienda della propria famiglia senza essere retribuito in termini monetari e presta servizio prima del 1° gennaio dell’anno successivo a quello in cui ha compiuto vent’anni, l’indennità è calcolata sulla base del salario mensile globale ai sensi dell’articolo 14 capoverso 3 dell’ordinanza del 31 ottobre 1947[^4-7] sull’assicurazione per la vecchiaia e per i superstiti (OAVS).
 
 [^4-1]: Nuovo testo giusta il n. I dell’O del 12 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
-[^4-2]: Nuovo testo giusta il n. I dell’O del 24 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
-[^4-3]: Nuovo testo giusta il n. I dell’O del 12 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
-[^4-4]: Introdotta dal n. I dell’O del 12 mag. 2021 ([RU 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)). Nuovo testo giusta il n. I dell’O del 24 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
-[^4-5]: Introdotta dal n. I dell’O del 24 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
-[^4-6]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^4-2]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
+[^4-3]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^4-4]: Nuovo testo giusta il n. I dell’O del 12 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
+[^4-5]: Introdotta dal n. I dell’O del 12 mag. 2021 ([RU 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)). Nuovo testo giusta il n. I dell’O del 24 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
+[^4-6]: Introdotta dal n. I dell’O del 24 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
+[^4-7]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
 
 #### Art. 5
 
@@ -107,7 +108,7 @@ L’indennità per lavoratori salariati è calcolata sulla base dell’ultimo sa
 È considerato salariato con reddito regolare chi:
 
 - a. ha un rapporto di lavoro a tempo indeterminato o della durata di almeno un anno e il cui reddito non è soggetto a importanti oscillazioni;
-- b. ha interrotto il lavoro a causa di malattia, infortunio, disoccupazione, servizio o per altri motivi indipendenti dalla sua volontà.
+- b.[^5-1] ha interrotto il lavoro per uno dei motivi di cui all’articolo 4 capoverso 1.
 
 <sup>2</sup>
 
@@ -120,6 +121,8 @@ Il reddito giornaliero medio percepito prima dell’entrata in servizio è calco
 <sup>3</sup> Se il reddito medio percepito prima dell’entrata in servizio non può essere calcolato in base al capoverso 2, poiché l’inizio dell’ultimo rapporto lavorativo del salariato risale a poco prima dell’entrata in servizio, fa stato il salario convenuto dalle parti.
 
 <sup>4</sup> Le parti del salario pagate regolarmente ma solo una volta all’anno o a intervalli di più mesi, sono convertite in salario giornaliero medio e aggiunte al reddito determinato in base al capoverso 2.
+
+[^5-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
 
 #### Art. 6
 
@@ -144,18 +147,20 @@ L’indennità per lavoratori indipendenti è calcolata sulla base del reddito d
 - a. malattia;
 - b. infortunio;
 - c. servizio ai sensi dell’articolo 1*a* LIPG;
-- d. maternità;
-- e. assistenza a un figlio con gravi problemi di salute ai sensi dell’articolo 16*o* LIPG.[^7-1]
+- d.[^7-1] un congedo di maternità ai sensi dell’articolo 329*f* CO[^7-2] o di un congedo per l’altro genitore ai sensi dell’articolo 329*g*<sup>bis</sup> CO;
+- e. assistenza a un figlio con gravi problemi di salute ai sensi dell’articolo 16*o* LIPG.[^7-3]
 
-<sup>1bis</sup> Se in seguito viene stabilito un altro contributo AVS per l’anno del servizio, può essere richiesto un nuovo calcolo dell’indennità.[^7-2]
+<sup>1bis</sup> Se in seguito viene stabilito un altro contributo AVS per l’anno del servizio, può essere richiesto un nuovo calcolo dell’indennità.[^7-4]
 
 <sup>2</sup> Per la persona che prova che nel corso del servizio avrebbe intrapreso un’attività indipendente per un periodo più lungo, l’indennità è calcolata sulla base del reddito che avrebbe potuto conseguire.
 
-<sup>3</sup> Nel caso di un lavoratore indipendente che non è tenuto a pagare prima dell’entrata in servizio i contributi previsti dalla legge federale del 20 dicembre 1946[^7-3] sull’assicurazione per la vecchiaia e per i superstiti (LAVS), l’indennità è calcolata sulla base del reddito conseguito durante l’anno precedente l’entrata in servizio.
+<sup>3</sup> Nel caso di un lavoratore indipendente che non è tenuto a pagare prima dell’entrata in servizio i contributi previsti dalla legge federale del 20 dicembre 1946[^7-5] sull’assicurazione per la vecchiaia e per i superstiti (LAVS), l’indennità è calcolata sulla base del reddito conseguito durante l’anno precedente l’entrata in servizio.
 
-[^7-1]: Nuovo testo giusta il n. I dell’O del 12 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
-[^7-2]: Introdotto dal n. I dell’O del 12 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
-[^7-3]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^7-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
+[^7-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^7-3]: Nuovo testo giusta il n. I dell’O del 12 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
+[^7-4]: Introdotto dal n. I dell’O del 12 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
+[^7-5]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
 #### Art. 8
 
@@ -352,11 +357,11 @@ Competente per ricevere i formulari, fissare e pagare le indennità è:
 
 [^22-1]: [RS 831.111](https://fedlex.data.admin.ch/eli/cc/1961/419_429_439)
 
-## Capitolo 2: Indennità in caso di maternità e di paternità
+## Capitolo 2: Indennità di maternità e indennità per l’altro genitore
 
 [^chap2-1]
 
-[^chap2-1]: Nuovo testo giusta il n. I dell’O del 21 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
+[^chap2-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
 
 ### Sezione 1: Inizio ed estinzione del diritto all’indennità
 
@@ -402,13 +407,13 @@ Il diritto all’indennità di maternità si estingue il giorno in cui la madre 
 
 [^26-1]
 
-Per determinare la durata minima del periodo d’assicurazione secondo l’articolo 16*b* capoverso 1 lettera a o 16*i* capoverso 1 lettera b LIPG si tiene conto anche dei periodi di assoggettamento all’assicurazione obbligatoria della madre o del padre avente diritto in uno Stato:[^26-2]
+Per determinare la durata minima del periodo d’assicurazione secondo l’articolo 16*b* capoverso 1 lettera a o 16*i* capoverso 1 lettera b LIPG si tiene conto anche dei periodi di assoggettamento all’assicurazione obbligatoria della madre o dell’altro genitore avente diritto in uno Stato:[^26-2]
 
 - a. che applica l’accordo del 21 giugno 1999[^26-3] tra la Confederazione svizzera, da una parte, e la Comunità europea ed i suoi Stati membri, dall’altra, sulla libera circolazione delle persone, con il suo allegato II, e i regolamenti n. 1408/71 e n. 574/72[^26-4] nella loro versione modificata[^26-5];
 - b. facente parte dell’Associazione europea di libero scambio.
 
 [^26-1]: Nuovo testo giusta il n. I dell’O del 21 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
-[^26-2]: Nuovo testo giusta il n. I dell’O del 21 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
+[^26-2]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
 [^26-3]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
 [^26-4]: R (CEE) n. 574/72 del Consiglio, del 21 mar. 1972, che stabilisce le modalità di applicazione del R (CEE) n. 1408/71, GU L 74 del 27 mar. 1972, pag. 1 (parimenti codificato dal R (CE) n. 118/97 del Consiglio, del 2 dic. 1996, GU L 28 del 30 gen. 1997, pag. 1); modificato da ultimo dal R (CE) n. 307/1999 del Consiglio, dell’8 feb. 1999 (GU L 38 del 12 feb. 1999, pag. 1).
 [^26-5]: Una versione consolidata provvisoria del testo dei R (CEE) n. 1408/71 e n. 574/72, ivi comprese le mod. introdotte mediante il R (CE) del Consiglio n. 307/1999, può essere richiesta all’Ufficio federale delle assicurazioni sociali, 3003 Berna. Fa fede solo la versione pubblicata sulla Gazzetta Ufficiale della Comunità europea.
@@ -463,7 +468,7 @@ Per determinare la durata minima del periodo di attività lucrativa secondo l’
 
 #### Art. 29
 
-**Madri e padri disoccupati**
+**Disoccupazione della madre o dell’altro genitore**
 
 ### (art. 16*b* cpv. 3 e 16*i* cpv. 3 LIPG)
 
@@ -485,34 +490,47 @@ Una madre secondo il capoverso 1 lettera a ha diritto al versamento dell’inden
 
 <sup>2</sup>
 
-Il padre che, al momento della nascita del figlio, è disoccupato, oppure che, a causa di un periodo di disoccupazione, non adempie le condizioni di cui all’articolo 16*i* capoverso 1 lettera c LIPG, ha diritto all’indennità se:
+L’altro genitore che, al momento della nascita del figlio, è disoccupato, oppure che, a causa di un periodo di disoccupazione, non adempie la condizione della durata minima del periodo di attività lucrativa di cui all’articolo 16*i* capoverso 1 lettera c LIPG, ha diritto all’indennità se:[^29-4]
 
 - a. fino alla nascita del figlio ha beneficiato di un’indennità giornaliera dell’assicurazione contro la disoccupazione; o
-- b. il giorno della nascita del figlio presta servizio ai sensi dell’articolo 1*a* LIPG e quel giorno adempie il periodo di contribuzione necessario per beneficiare di un’indennità giornaliera ai sensi della legge federale sull’assicurazione contro la disoccupazione.[^29-4]
+- b. il giorno della nascita del figlio presta servizio ai sensi dell’articolo 1*a* LIPG e quel giorno adempie il periodo di contribuzione necessario per beneficiare di un’indennità giornaliera ai sensi della legge federale sull’assicurazione contro la disoccupazione.[^29-5]
 
-[^29-1]: Nuovo testo giusta il n. I dell’O del 21 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
+<sup>3</sup>
+
+L’altro genitore secondo il capoverso 2 lettera a ha diritto a indennità giornaliere supplementari in caso di decesso della madre (art. 16*k*<sup>bis</sup> cpv. 2 LIPG), se:
+
+- a. non ha esaurito le indennità giornaliere dell’assicurazione contro la disoccupazione prima della nascita del figlio e il termine quadro per la riscossione delle prestazioni è ancora aperto il giorno dopo la fine del congedo per l’altro genitore in caso di decesso della madre; e
+- b. è disponibile un attestato medico secondo l’articolo 24.[^29-6]
+
+[^29-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
 [^29-2]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
 [^29-3]: Introdotto dal n. I dell’O del 12 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
-[^29-4]: Introdotto dal n. I dell’O del 21 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
+[^29-4]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
+[^29-5]: Introdotto dal n. I dell’O del 21 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
+[^29-6]: Introdotto dal n. I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
 
 #### Art. 30
 
-**Madri e padri incapaci al lavoro**[^30-1]
+**Incapacità al lavoro della madre o dell’altro genitore**[^30-1]
 
 ### (art. 16*b* cpv. 3 e 16*i* cpv. 3 LIPG)
 
-Le madri e i padri che, al momento della nascita del figlio, sono incapaci al lavoro, oppure che, a causa di un periodo di incapacità al lavoro, non adempiono le condizioni di cui all’articolo 16*b* capoverso 1 lettera b o 16*i* capoverso 1 lettera c LIPG, hanno diritto all’indennità se:
+[^30-2]
+
+La madre o l’altro genitore che, al momento della nascita del figlio, sono incapaci al lavoro, oppure che, a causa di un periodo di incapacità al lavoro, non adempiono la condizione della durata minima del periodo di attività lucrativa di cui all’articolo 16*b* capoverso 1 lettera b o 16*i* capoverso 1 lettera c LIPG, hanno diritto all’indennità se:[^30-3]
 
 - a. fino alla nascita del figlio hanno beneficiato di un’indennità per perdita di guadagno dovuta a malattia o infortunio versata da un’assicurazione sociale o da un’assicurazione privata oppure di indennità giornaliere dell’assicurazione per l’invalidità; o
 - b. al momento della nascita del figlio, pur avendo già perso il diritto a percepire il salario, hanno un rapporto di lavoro ancora valido.
 
 [^30-1]: Nuovo testo giusta il n. I dell’O del 21 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
+[^30-2]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
+[^30-3]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
 
 ### Sezione 4: Calcolo dell’indennità
 
 #### Art. 31
 
-**Indennità per lavoratrici o lavoratori salariati**
+**Indennità per la madre o l’altro genitore che esercita un’attività lucrativa dipendente**
 
 ### (art. 16*e* e 16*l* LIPG)
 
@@ -520,49 +538,50 @@ Le madri e i padri che, al momento della nascita del figlio, sono incapaci al la
 
 <sup>1</sup>
 
-L’indennità è calcolata sulla base dell’ultimo salario determinante percepito prima della nascita del figlio, convertito in salario giornaliero medio. Per la conversione non si tiene conto dei giorni in cui la madre o il padre non ha percepito o ha percepito solo parzialmente un salario a causa di:[^31-2]
+L’indennità è calcolata sulla base dell’ultimo salario determinante percepito prima della nascita del figlio, convertito in salario giornaliero medio. Per la conversione non si tiene conto dei giorni in cui la madre o l’altro genitore non ha percepito o ha percepito solo parzialmente un salario a causa di:[^31-2]
 
 - a. malattia;
 - b. infortunio;
 - c. disoccupazione;
 - d. servizio ai sensi dell’articolo 1*a* LIPG;
-- e.[^31-3] maternità o paternità;
-- f.[^31-4] assistenza a un figlio con gravi problemi di salute ai sensi dell’articolo 16*o* LIPG;
-- g.[^31-5] accoglimento di un adottando di età inferiore a quattro anni;
-- h.[^31-6] altri motivi non imputabili a colpa propria.
+- e.[^31-3] un congedo di maternità ai sensi dell’articolo 329*f* CO[^31-4] o di un congedo per l’altro genitore ai sensi dell’articolo 329*g* o 329*g*<sup>bis</sup> CO;
+- f.[^31-5] assistenza a un figlio con gravi problemi di salute ai sensi dell’articolo 16*o* LIPG;
+- g.[^31-6] accoglimento di un adottando di età inferiore a quattro anni;
+- h.[^31-7] altri motivi non imputabili a colpa propria.
 
-<sup>2</sup> L’indennità della madre e quella del padre sono calcolate separatamente.[^31-7]
+<sup>2</sup> L’indennità di maternità e quella per l’altro genitore sono calcolate separatamente.[^31-8]
 
-<sup>3</sup> Gli articoli 5 e 6 si applicano per analogia.[^31-8]
+<sup>3</sup> Gli articoli 5 e 6 si applicano per analogia.[^31-9]
 
 [^31-1]: Nuovo testo giusta il n. I dell’O del 21 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
-[^31-2]: Nuovo testo giusta il n. I dell’O del 21 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
-[^31-3]: Nuovo testo giusta il n. I dell’O del 24 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
-[^31-4]: Introdotta dal n. I dell’O del 24 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
+[^31-2]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
+[^31-3]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
+[^31-4]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 [^31-5]: Introdotta dal n. I dell’O del 24 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
 [^31-6]: Introdotta dal n. I dell’O del 24 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
-[^31-7]: Nuovo testo giusta il n. I dell’O del 21 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
-[^31-8]: Introdotto dal n. I dell’O del 21 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
+[^31-7]: Introdotta dal n. I dell’O del 24 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
+[^31-8]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
+[^31-9]: Introdotto dal n. I dell’O del 21 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
 
 #### Art. 32
 
-**Indennità per lavoratrici e lavoratori indipendenti**[^32-1]
+**Indennità per la madre o l’altro genitore che esercita un’attività lucrativa indipendente**[^32-1]
 
 ### (art. 16*e* e 16*l* LIPG)
 
-Alle madri e ai padri che esercitano un’attività lucrativa indipendente si applica per analogia l’articolo 7 capoversi 1 e 1<sup>bis</sup>.
+Alla madre o all’altro genitore che esercita un’attività lucrativa indipendente si applica per analogia l’articolo 7 capoversi 1 e 1<sup>bis</sup>.
 
-[^32-1]: Nuovo testo giusta il n. I dell’O del 24 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
+[^32-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
 
-#### [Art. 33](https://www.fedlex.admin.ch/eli/cc/2005/187/it)
+#### Art. 33
 
-**[Indennità per madri e padri che esercitano contemporaneamente un’attività lucrativa dipendente e una indipendente](https://www.fedlex.admin.ch/eli/cc/2005/187/it)**[^33-1]
+**Indennità per la madre o l’altro genitore che esercita contemporaneamente un’attività lucrativa dipendente e una indipendente**[^33-1]
 
 ### (art. 16*e* e 16*l* LIPG)
 
-L’indennità per madri e padri che esercitano contemporaneamente un’attività lucrativa dipendente e una indipendente è calcolata sommando i redditi da attività lucrativa dipendente e quelli da attività lucrativa indipendente, accertati in base agli articoli 7 capoversi 1 e 1<sup>bis</sup> e 31.
+Se la madre o l’altro genitore esercita contemporaneamente un’attività lucrativa dipendente e una indipendente, l’indennità è calcolata sommando i redditi da attività lucrativa dipendente e quelli da attività lucrativa indipendente, accertati in base agli articoli 7 capoversi 1 e 1<sup>bis</sup> e 31.
 
-[^33-1]: Nuovo testo giusta il n. I dell’O del 24 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
+[^33-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
 
 ### Sezione 5: Esercizio del diritto, fissazione e pagamento dell’indennità
 
@@ -576,13 +595,13 @@ L’indennità per madri e padri che esercitano contemporaneamente un’attivit�
 
 Competente per ricevere i formulari nonché fissare e pagare le indennità è:
 
-- a. per le madri tenute a pagare i contributi AVS: la cassa di compensazione competente per la riscossione dei contributi al momento del parto;
-- b. per i padri tenuti a pagare i contributi AVS: la cassa di compensazione competente per la riscossione dei contributi l’ultimo giorno di congedo di paternità fruito;
-- c. per le madri e i padri domiciliati all’estero, che non sono più obbligatoriamente assicurati in base alla LAVS: la Cassa svizzera di compensazione.
+- a. per la madre tenuta a pagare i contributi AVS: la cassa di compensazione competente per la riscossione dei contributi al momento del parto;
+- b. per l’altro genitore tenuto a pagare i contributi AVS: la cassa di compensazione competente per la riscossione dei contributi l’ultimo giorno di fruizione del congedo per l’altro genitore;
+- c. per la madre e l’altro genitore domiciliati all’estero che non sono più obbligatoriamente assicurati in base alla LAVS: la Cassa svizzera di compensazione.
 
 <sup>2</sup> L’articolo 19 capoversi 2 e 3 si applica per analogia.
 
-[^34-1]: Nuovo testo giusta il n. I dell’O del 21 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
+[^34-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
 
 #### Art. 34a
 
@@ -590,13 +609,13 @@ Competente per ricevere i formulari nonché fissare e pagare le indennità è:
 
 ### (art. 17–19 LIPG)
 
-<sup>1</sup> Per le madri e i padri che al momento della nascita del figlio esercitano un’attività lucrativa dipendente, il datore di lavoro è tenuto ad attestare, mediante il formulario per l’esercizio del diritto all’indennità, il salario determinante per il calcolo della stessa, il salario versato durante il periodo di diritto all’indennità nonché la durata dell’impiego.
+<sup>1</sup> Per la madre e l’altro genitore che al momento della nascita del figlio esercitano un’attività lucrativa dipendente, il datore di lavoro è tenuto ad attestare, mediante il formulario per l’esercizio del diritto all’indennità, il salario determinante per il calcolo della stessa, il salario versato durante il periodo di diritto all’indennità nonché la durata dell’impiego.
 
-<sup>2</sup> Per le madri e i padri che al momento della nascita del figlio sono disoccupati oppure incapaci al lavoro, l’ultimo datore di lavoro attesta, sul formulario per l’esercizio del diritto all’indennità, il salario determinante per il calcolo della stessa nonché la durata dell’impiego.
+<sup>2</sup> Per la madre e l’altro genitore che al momento della nascita del figlio sono disoccupati oppure incapaci al lavoro, l’ultimo datore di lavoro attesta, sul formulario per l’esercizio del diritto all’indennità, il salario determinante per il calcolo della stessa nonché la durata dell’impiego.
 
-<sup>3</sup> Il datore di lavoro presso il quale il padre è impiegato durante il congedo di paternità o la cassa di disoccupazione del padre attesta la fruizione dei giorni di congedo.
+<sup>3</sup> Il datore di lavoro presso il quale l’altro genitore è impiegato durante il suo congedo o la cassa di disoccupazione dell’altro genitore attesta la fruizione dei giorni di congedo.
 
-[^34a-1]: Introdotto dal n. I dell’O del 21 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
+[^34a-1]: Introdotto dal n. I dell’O del 21 ott. 2020 ([RU 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)). Nuovo testo giusta il n. I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
 
 #### Art. 35
 
@@ -606,16 +625,16 @@ Competente per ricevere i formulari nonché fissare e pagare le indennità è:
 
 <sup>1</sup> Per la fissazione dell’indennità si applicano per analogia gli articoli 20 e 22.
 
-<sup>2</sup> L’indennità per la madre è versata mensilmente e posticipatamente. Se è inferiore a 200 franchi mensili, è versata in una sola volta alla fine del diritto.[^35-1]
+<sup>2</sup> L’indennità di maternità è versata mensilmente e posticipatamente. Se è inferiore a 200 franchi mensili, è versata in una sola volta alla fine del diritto. Lo stesso vale per le indennità giornaliere supplementari per l’altro genitore in caso di decesso della madre di cui all’articolo 16*k*<sup>bis</sup> LIPG.[^35-1]
 
-<sup>3</sup> L’indennità per il padre è versata in una sola volta posticipatamente, dopo l’estinzione del diritto secondo l’articolo 16*j* capoverso 3 LIPG.[^35-2]
+<sup>3</sup> L’indennità per l’altro genitore è versata in una sola volta, dopo l’estinzione del diritto secondo l’articolo 16*j* capoverso 3 LIPG. Lo stesso vale per l’indennità di maternità supplementare in caso di decesso dell’altro genitore di cui all’articolo 16*c*<sup>bis</sup> LIPG.[^35-2]
 
 <sup>4</sup> È fatta salva la compensazione di cui all’articolo 19 capoverso 2 LPGA oppure all’articolo 20 capoverso 2 LAVS[^35-3].[^35-4]
 
 <sup>5</sup> Per il versamento dell’indennità si applica per analogia l’articolo 21 capoversi 3 e 4.[^35-5]
 
-[^35-1]: Nuovo testo giusta il n. I dell’O del 21 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
-[^35-2]: Nuovo testo giusta il n. I dell’O del 21 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
+[^35-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
+[^35-2]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
 [^35-3]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 [^35-4]: Introdotto dal n. I dell’O del 21 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
 [^35-5]: Introdotto dal n. I dell’O del 21 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
@@ -626,7 +645,11 @@ Competente per ricevere i formulari nonché fissare e pagare le indennità è:
 
 [^chap2a-1]: Introdotto dal n. I dell’O del 12 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
 
-### Sezione 1: Diritto di genitori affilianti, matrigne e patrigni nonché madri e padri disoccupati o incapaci al lavoro
+### Sezione 1: Diritto di genitori affilianti, matrigne e patrigni nonché della madre e dell’altro genitore disoccupati o incapaci al lavoro
+
+[^chap2a-sec1-1]
+
+[^chap2a-sec1-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
 
 #### Art. 35a
 
@@ -651,22 +674,30 @@ Una matrigna o un patrigno ha diritto secondo l’articolo 16*n* capoversi 1 e 2
 
 #### Art. 35c
 
-**Madri e padri disoccupati**
+**Disoccupazione della madre o dell’altro genitore**[^35c-1]
 
 ### (art. 16*n* LIPG)
 
-- [tab] Il diritto della madre disoccupata o del padre disoccupato è retto dall’articolo 16*n* capoversi 1 e 2 LIPG, se l’assistenza al figlio necessita della presenza della madre o del padre e fino all’inizio del diritto la madre o il padre ha percepito un’indennità giornaliera dell’assicurazione contro la disoccupazione.
+Il diritto della madre disoccupata o dell’altro genitore disoccupato è retto dall’articolo 16*n* capoversi 1 e 2 LIPG, se l’assistenza al figlio necessita della presenza della madre o dell’altro genitore e fino all’inizio del diritto la madre o l’altro genitore ha percepito un’indennità giornaliera dell’assicurazione contro la disoccupazione.
+
+[^35c-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
 
 #### Art. 35d
 
-**Madri e padri incapaci al lavoro**
+**Incapacità al lavoro della madre o dell’altro genitore**
 
 ### (art. 16*n* LIPG)
 
-Il diritto della madre o del padre incapace al lavoro è retto dall’articolo 16*n* capoversi 1 e 2 LIPG, se l’assistenza al figlio necessita della presenza della madre o del padre e:
+[^35d-1]
 
-- a. fino all’inizio del diritto, la madre o il padre incapace al lavoro ha percepito indennità giornaliere dell’assicurazione per l’invalidità o un’indennità per perdita di guadagno dovuta a malattia o infortunio versata da un’altra assicurazione sociale o da un’assicurazione privata; o
+Il diritto della madre o dell’altro genitore incapace al lavoro è retto dall’articolo 16n capoversi 1 e 2 LIPG, se l’assistenza al figlio necessita della presenza della madre o dell’altro genitore e:[^35d-2]
+
+- a.[^35d-3] fino all’inizio del diritto, la madre o l’altro genitore incapace al lavoro ha percepito indennità giornaliere dell’assicurazione per l’invalidità o un’indennità per perdita di guadagno dovuta a malattia o infortunio versata da un’altra assicurazione sociale o da un’assicurazione privata; o
 - b. all’inizio del diritto, pur avendo già perso il diritto a percepire il salario, ha un rapporto di lavoro ancora valido.
+
+[^35d-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
+[^35d-2]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
+[^35d-3]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
 
 ### Sezione 2: Calcolo dell’indennità
 
@@ -692,18 +723,19 @@ L’indennità è calcolata sulla base dell’ultimo salario determinante percep
 - b. infortunio;
 - c. disoccupazione;
 - d. servizio ai sensi dell’articolo 1*a* LIPG;
-- e.[^35f-1] maternità o paternità;
+- e.[^35f-1] un congedo di maternità ai sensi dell’articolo 329*f* CO[^35f-2] o di un congedo per l’altro genitore ai sensi dell’articolo 329*g* o 329*g*<sup>bis</sup> CO;
 - f. assistenza a un figlio con gravi problemi di salute ai sensi dell’articolo 16*o* LIPG;
-- g.[^35f-2] accoglimento di un adottando di età inferiore a quattro anni;
-- h.[^35f-3] altri motivi non imputabili a colpa propria.
+- g.[^35f-3] accoglimento di un adottando di età inferiore a quattro anni;
+- h.[^35f-4] altri motivi non imputabili a colpa propria.
 
 <sup>2</sup> L’indennità giornaliera è ricalcolata se il salario determinante cambia durante la fruizione dei giorni di congedo.
 
 <sup>3</sup> Gli articoli 5 e 6 si applicano per analogia.
 
-[^35f-1]: Nuovo testo giusta il n. I dell’O del 24 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
-[^35f-2]: Nuovo testo giusta il n. I dell’O del 24 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
-[^35f-3]: Introdotta dal n. I dell’O del 24 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
+[^35f-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
+[^35f-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^35f-3]: Nuovo testo giusta il n. I dell’O del 24 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
+[^35f-4]: Introdotta dal n. I dell’O del 24 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
 
 #### Art. 35g
 
@@ -811,12 +843,15 @@ L’indennità è calcolata sulla base dell’ultimo salario determinante percep
 - b. infortunio;
 - c. disoccupazione;
 - d. servizio ai sensi dell’articolo 1*a* LIPG;
-- e. maternità o paternità;
+- e.[^35n-1] un congedo di maternità ai sensi dell’articolo 329*f* CO[^35n-2] o di un congedo per l’altro genitore ai sensi dell’articolo 329*g* o 329*g*<sup>bis</sup> CO;
 - f. assistenza a un figlio con gravi problemi di salute ai sensi dell’articolo 16*o* LIPG;
 - g. accoglimento di un adottando di età inferiore a quattro anni;
 - h. altri motivi non imputabili a colpa propria.
 
 <sup>2</sup> Gli articoli 5 e 6 si applicano per analogia.
+
+[^35n-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
+[^35n-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
 #### Art. 35o
 
@@ -930,11 +965,12 @@ L’indennità per gli aventi diritto che esercitano contemporaneamente un’att
 
 <sup>5</sup> Sull’assegno per spese di custodia non sono prelevati contributi a carico dei lavoratori salariati.
 
-<sup>6</sup> L’articolo 34*d* OAVS[^37-2] concernente il salario di poco conto non è applicabile.[^37-3]
+<sup>6</sup> L’articolo 6<sup>quater</sup> OAVS[^37-2] concernente i contributi dovuti dagli assicurati esercitanti un’attività lucrativa dopo il raggiungimento dell’età di riferimento secondo l’articolo 21 capoverso 1 LAVS[^37-3] e l’articolo 34*d* OAVS concernente il salario di poco conto non sono applicabili.[^37-4]
 
 [^37-1]: [RS 836.1](https://fedlex.data.admin.ch/eli/cc/1952/823_843_839)
 [^37-2]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
-[^37-3]: Nuovo testo giusta il n. I dell’O del 30 set. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5191](https://fedlex.data.admin.ch/eli/oc/2009/611)).
+[^37-3]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^37-4]: Nuovo testo giusta l’all. n. 11 dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 38
 
@@ -946,9 +982,11 @@ L’indennità per gli aventi diritto che esercitano contemporaneamente un’att
 
 <sup>2</sup> Sull’assegno per spese di custodia non sono prelevati contributi.
 
-<sup>3</sup> L’articolo 19 OAVS[^38-1] concernente le rimunerazioni di poco momento provenienti da attività accessorie non è applicabile.
+<sup>3</sup> L’articolo 6<sup>quater</sup> OAVS[^38-1] concernente i contributi dovuti dagli assicurati esercitanti un’attività lucrativa dopo il raggiungimento dell’età di riferimento secondo l’articolo 21 capoverso 1 LAVS[^38-2] e l’articolo 19 OAVS concernente il reddito di poco conto proveniente da attività indipendenti esercitate a titolo accessorio non sono applicabili.[^38-3]
 
 [^38-1]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^38-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^38-3]: Nuovo testo giusta l’all. n. 11 dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 39
 
@@ -980,11 +1018,12 @@ Ai crediti per restituzione di rendite irrecuperabili è applicato l’articolo 
 
 #### Art. 42
 
-**Disposizioni applicabili**
+**Disposizioni applicabili**[^42-1]
 
-Se la LIPG e la presente ordinanza non stabiliscono altrimenti, sono applicabili per analogia le disposizioni del capo quarto come pure degli articoli 34–43, 200–203, 205–211, 212<sup>bis</sup> e 213 OAVS[^42-1].
+Se la LIPG e la presente ordinanza non stabiliscono altrimenti, sono applicabili per analogia le disposizioni dei capi quarto e sesto nonché gli articoli 34–43 e 205–212<sup>bis</sup> OAVS[^42-2].
 
-[^42-1]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^42-1]: Nuovo testo giusta l’all. n. 7 dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
+[^42-2]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
 
 ## Capitolo 4: Disposizioni finali
 
