@@ -4,10 +4,10 @@ number: "823.44"
 title: Vollzugsverordnung zum Bundesgesetz gegen die Schwarzarbeit (VVSA)
 short: VVSA
 language: de
-nachtrag: "60"
-valid_until: 2024-01-01
+version: "2024-01-01"
+nachtrag: "123"
 adopted: 2008-01-30
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-823_44-2008_01_30-2008_01_01-060.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-823_44-2008_01_30-2008_01_01-123.html"
 text: pdf
 ---
 
@@ -20,13 +20,14 @@ text: pdf
 Der Regierungsrat beschliesst:
 
 [^t-1]: OS 63, 49; Begründung siehe ABl 2008, 145.
-[^t-2]: SR 822.41. 1. 4. 08 - 60 1
+[^t-2]: Fassung gemäss RRB vom 12. Dezember 2023 (OS 78, 557; ABl 2023-12-15). In Kraft seit 1. Januar 2024. 1. 1. 24 - 123 1
+[^t-3]: SR 822.41.
 
 #### § 1
 
 **Kontrollorgan**
 
-Das Amt für Wirtschaft und Arbeit ist das kantonale Kontrollorgan im Sinne von Art. 4 Abs. 1 des Bundesgesetzes über Massnahmen zur Bekämpfung der Schwarzarbeit vom 17. Juni 2005 (BGSA)[^t-2].
+Das Amt für Wirtschaft[^t-2] ist das kantonale Kontrollorgan im Sinne von Art. 4 Abs. 1 des Bundesgesetzes über Massnahmen zur Bekämpfung der Schwarzarbeit vom 17. Juni 2005 (BGSA)[^t-3].
 
 [^1-1]: SR 220.
 
@@ -40,7 +41,7 @@ Das Amt für Wirtschaft und Arbeit ist das kantonale Kontrollorgan im Sinne von 
 
 <sup>3</sup> Die tripartite Kommission hat bei der Bezeichnung der zu kontrollierenden Branchen beratende Funktion.
 
-[^2-1]: SR 822.41. 1. 4. 08 - 60 1
+[^2-1]: SR 822.41.
 
 #### § 3
 
@@ -48,7 +49,7 @@ Das Amt für Wirtschaft und Arbeit ist das kantonale Kontrollorgan im Sinne von 
 
 Die Behörden und Organisationen nach Art. 11 BGSA[^2-1] teilen dem kantonalen Kontrollorgan die gebührenpflichtigen Verfügungen und Bussenverfügungen nach Eintritt der Rechtskraft mit.
 
-[^3-1]: SR 822.41. 1. 4. 08 - 60 1
+[^3-1]: SR 822.41.
 
 #### § 4
 
