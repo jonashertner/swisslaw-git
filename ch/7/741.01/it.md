@@ -4,11 +4,11 @@ title: Legge federale del 19 dicembre 1958 sulla circolazione stradale (LCStr)
 short: LCStr
 eli: "https://fedlex.data.admin.ch/eli/cc/1959/679_705_685"
 language: it
-version: 2023-10-01
+version: 2024-01-01
 adopted: 1958-12-19
 in_force: 1959-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/679_705_685/20231001/it/xml/fedlex-data-admin-ch-eli-cc-1959-679_705_685-20231001-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1959/679_705_685/20231001/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/679_705_685/20240101/it/xml/fedlex-data-admin-ch-eli-cc-1959-679_705_685-20240101-it-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1959/679_705_685/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1959/679_705_685/20231001/it"
 
 (LCStr)
 
-del 19 dicembre 1958 (Stato 1° ottobre 2023)
+del 19 dicembre 1958 (Stato 1° gennaio 2024)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -57,7 +57,7 @@ Il Consiglio federale, consultati i Cantoni, può:
 - b. vietare temporaneamente, in tutta la svizzera, la circolazione dei veicoli a motore o di singole categorie di essi;
 - c.[^2-1] ...
 
-<sup>2</sup> La circolazione degli autoveicoli pesanti adibiti al trasporto di merci è vietata la notte dalle 22.00 alle 05.00 e la domenica. Il Consiglio federale disciplina i dettagli e stabilisce le eccezioni.[^2-2] [^2-3]
+<sup>2</sup> La circolazione degli autoveicoli pesanti adibiti al trasporto di merci è vietata la notte dalle 22.00 alle 05.00 e la domenica. . Il Consiglio federale disciplina i dettagli e stabilisce le eccezioni.[^2-2] [^2-3]
 
 <sup>3</sup> Il Consiglio federale stabilisce un elenco delle strade aperte soltanto agli autoveicoli. Esso le designa, per quanto ciò non spetti all’Assemblea federale, dopo aver sentito i Cantoni interessati e a proposta dei medesimi. Esso determina le specie degli autoveicoli ammessi a circolare su tali strade.[^2-4]
 
@@ -602,7 +602,7 @@ Dopo un’infrazione commessa all’estero, la licenza per allievo conducente o 
 
 <sup>2</sup> Per stabilire la durata della revoca della licenza devono essere adeguatamente considerate le conseguenze, per la persona interessata, del divieto di condurre pronunciato all’estero. La durata minima della revoca può essere ridotta. Per le persone sul cui conto non figurano provvedimenti amministrativi nel sistema d’informazione sull’ammissione alla circolazione (art. 89*c* lett. d), la durata della revoca non può eccedere la durata del divieto di condurre pronunciato all’estero nel luogo dell’infrazione. [^16cbis-2]
 
-[^16cbis-1]: Nuovo testo giusta il n. I della LF del 20 mar. 2008. in vigore dal 1° set. 2008 ([RU 2008 3939](https://fedlex.data.admin.ch/eli/oc/2008/530); [FF 2007 6889](https://fedlex.data.admin.ch/eli/fga/2007/1189)).
+[^16cbis-1]: Introdotto dal n. I della LF del 20 mar. 2008. in vigore dal 1° set. 2008 ([RU 2008 3939](https://fedlex.data.admin.ch/eli/oc/2008/530); [FF 2007 6889](https://fedlex.data.admin.ch/eli/fga/2007/1189)).
 [^16cbis-2]: Nuovo testo del per. giusta il n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2019 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744), [2018 4985](https://fedlex.data.admin.ch/eli/oc/2018/781); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
 
 ### Revoca della licenza di condurre a causa di inidoneità alla guida
@@ -1280,7 +1280,9 @@ Esso emana disposizioni concernenti:
 
 <sup>4</sup> ...[^57-2]
 
-<sup>5</sup> Il Consiglio federale può prescrivere che
+<sup>5</sup>
+
+Il Consiglio federale può prescrivere che:
 
 - a. gli occupanti di autoveicoli abbiano ad usare dispositivi di trattenuta (cinture di sicurezza e simili);
 - b.[^57-3] i conducenti e i passeggeri di veicoli motorizzati a due ruote nonché di veicoli a motore leggeri, di quadricicli e tricicli a motore devono portare il casco di protezione.[^57-4]
@@ -1662,44 +1664,53 @@ Il Consiglio federale disciplina:
 
 [^76-1]
 
-<sup>1</sup> Gli istituti d’assicurazione ammessi in Svizzera a esercitare un’assicurazione di responsabilità civile per i veicoli a motore costituiscono e gestiscono in comune il Fondo nazionale di garanzia che è dotato di personalità giuridica propria.
+<sup>1</sup> Gli istituti d’assicurazione ammessi in Svizzera a esercitare un’assicurazione di responsabilità civile per i veicoli a motore costituiscono e gestiscono in comune il Fondo nazionale di garanzia.
 
-<sup>2</sup>
+<sup>2</sup> Il Fondo nazionale di garanzia è dotato di personalità giuridica propria.
+
+<sup>3</sup>
 
 Il Fondo nazionale di garanzia ha i seguenti compiti:
 
-- a.[^76-2]
+- a.
 
   copre la responsabilità per i danni causati in Svizzera da:
 
   - 1\. veicoli a motore e rimorchi non identificati o non assicurati, per quanto essi siano sottoposti all’obbligo dell’assicurazione conformemente alla presente legge,
   - 2\. ciclisti o utenti di mezzi simili a veicoli, se l’autore del danno non può essere identificato o il danno non è coperto né dall’autore stesso né da un’assicurazione per la responsabilità civile né da una persona per esso responsabile o da un’altra assicurazione;
 
-- b. copre la responsabilità per i danni causati da veicoli a motore e rimorchi immatricolati in Svizzera nel caso in cui sia stato dichiarato il fallimento dell’assicuratore della responsabilità civile tenuto a versare prestazioni;
-- c. gestisce l’organismo d’indennizzo di cui all’articolo 79*d*.
+- b. gestisce l’organismo d’indennizzo di cui all’articolo 79*d*.
 
-<sup>3</sup>
+<sup>4</sup>
 
-Il Consiglio federale disciplina:
+Se nei confronti di un assicuratore di responsabilità civile degli autoveicoli tenuto a risarcire i danni causati da veicoli a motore e rimorchi immatricolati in Svizzera:
 
-- a. i compiti del Fondo nazionale di garanzia conformemente al capoverso 2;
-- b. la franchigia a carico della parte lesa per i danni materiali;
-- c. la coordinazione delle prestazioni delle assicurazioni sociali con quelle del Fondo nazionale di garanzia
-
-<sup>4</sup> Nei casi previsti dal capoverso 2 lettera a, gli obblighi a carico del Fondo nazionale di garanzia si riducono in proporzione equivalente alle prestazioni che la parte lesa può pretendere da un’assicurazione contro i danni o un’assicurazione sociale.
+- a. è stato dichiarato il fallimento dell’assicurazione, il Fondo nazionale di garanzia conduce la procedura per la liquidazione privilegiata delle pretese esigibili e copre la parte delle pretese per le quali l’amministrazione del fallimento rilascia un attestato di carenza di beni;
+- b. è stata avviata una procedura di risanamento secondo l’articolo 52*a* della legge del 17 dicembre 2004[^76-2] sulla sorveglianza degli assicuratori nell’ambito della quale l’autorità competente ha ordinato una riduzione dei versamenti per sinistri, il Fondo nazionale di garanzia si assume l’importo corrispondente a tale riduzione.
 
 <sup>5</sup>
 
-Il Consiglio federale può, nei casi previsti dal capoverso 2 lettera a:
+Il Consiglio federale disciplina:
 
-- a.[^76-3] obbligare il Fondo nazionale di garanzia a versare anticipazioni quando l’autore del danno non ha un’assicurazione per la responsabilità civile tenuta a risarcire il danno oppure quando l’assenza di una simile assicurazione è contestata;
+- a. i compiti del Fondo nazionale di garanzia conformemente al capoverso 3;
+- b. la copertura del fallimento e del risanamento secondo il capoverso 4, segnatamente la loro entità massima;
+- c. la franchigia a carico della parte lesa per i danni materiali;
+- d. il coordinamento tra le prestazioni delle assicurazioni sociali e quelle del Fondo nazionale di garanzia;
+- e. la procedura applicabile alla liquidazione privilegiata delle pretese che possono essere soddisfatte dopo l’apertura di una procedura di fallimento che ha imposto al Fondo nazionale di garanzia l’obbligo di fornire una prestazione.
+
+<sup>6</sup> Nei casi previsti dal capoverso 3 lettera a, gli obblighi a carico del Fondo nazionale di garanzia si riducono proporzionalmente alle prestazioni che la parte lesa può far valere presso un’assicurazione contro i danni o un’assicurazione sociale.
+
+<sup>7</sup>
+
+Il Consiglio federale può, nei casi previsti dal capoverso 3 lettera a:
+
+- a. obbligare il Fondo nazionale di garanzia a versare anticipazioni quando l’autore del danno non ha un’assicurazione di responsabilità civile tenuta a risarcire il danno oppure quando l’assenza di una simile assicurazione è contestata;
 - b. limitare o escludere dalle prestazioni del Fondo nazionale di garanzia le parti lese estere che risiedono in Paesi che non applicano la reciprocità.
 
-<sup>6</sup> Mediante il pagamento dell’indennità alla parte lesa, il Fondo nazionale di garanzia subentra a quest’ultima nei diritti relativi ai danni di natura analoga a quelli per i quali esso risponde.
+<sup>8</sup> Mediante il pagamento dell’indennità alla parte lesa, il Fondo nazionale di garanzia subentra a quest’ultima nei diritti relativi ai danni di natura analoga a quelli per i quali esso risponde. Per le prestazioni di cui al capoverso 4, il Fondo nazionale di garanzia esercita l’azione di regresso soltanto se il detentore o il conducente del veicolo ha cagionato il danno intenzionalmente o per negligenza grave. Se il Fondo nazionale di garanzia è tenuto a risarcire il danno ai sensi del capoverso 4, la parte lesa non può far valere le sue pretese nei confronti del detentore o del conducente del veicolo con il quale è stato causato il danno.
 
-[^76-1]: Nuovo testo giusta il n. I della LF del 4 ott. 2002, in vigore dal 1° feb. 2003 ([RU 2003 222](https://fedlex.data.admin.ch/eli/oc/2003/30); FF **2002** 4093).
-[^76-2]: Nuovo testo giusta il n. I della LF del 1° ott. 2010, in vigore dal 1° gen. 2012 ([RU 2011 4925](https://fedlex.data.admin.ch/eli/oc/2011/710); [FF 2010 3633](https://fedlex.data.admin.ch/eli/fga/2010/680)[3645](https://fedlex.data.admin.ch/eli/fga/2010/682)).
-[^76-3]: Nuovo testo giusta il n. I della LF del 1° ott. 2010, in vigore dal 1° gen. 2012 ([RU 2011 4925](https://fedlex.data.admin.ch/eli/oc/2011/710); [FF 2010 3633](https://fedlex.data.admin.ch/eli/fga/2010/680)[3645](https://fedlex.data.admin.ch/eli/fga/2010/682)).
+[^76-1]: Nuovo testo giusta l’all. n. 2 della LF del 18 mar. 2022, in vigore dal 1° gen. 2024 ([RU 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [FF 2020 7833](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
+[^76-2]: [RS 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
 
 ### Finanziamento ed esecuzione
 
@@ -1715,12 +1726,16 @@ Il Consiglio federale può, nei casi previsti dal capoverso 2 lettera a:
 
 <sup>4</sup> La Confederazione, le sue aziende e i suoi istituti sono esonerati dall’obbligo di contribuire. I Cantoni detentori di veicoli a motore, che non soggiacciono all’obbligo d’assicurazione sulla responsabilità civile (art. 73 cpv. 1), sono tenuti a pagare il contributo nella misura in cui i loro veicoli sono assicurati.
 
+<sup>4bis</sup> Se nei confronti di un assicuratore di responsabilità civile degli autoveicoli la FINMA ha avviato una procedura di risanamento o aperto una procedura di fallimento dell’assicurazione, il Fondo nazionale di garanzia effettua una stima delle obbligazioni di pagamento attese in futuro. Queste obbligazioni devono essere documentate esclusivamente nell’allegato del conto annuale (art. 959*c* del Codice delle obbligazioni[^76a-5]).[^76a-6]
+
 <sup>5</sup> Il Consiglio federale disciplina i particolari; stabilisce segnatamente le basi di calcolo del contributo e la procedura d’approvazione.
 
 [^76a-1]: Introdotto dal n. I della LF del 20 giu. 1980, in vigore dal 1° gen. 1981 ([RU 1980 1509](https://fedlex.data.admin.ch/eli/oc/1980/1509_1509_1509); [FF 1980 I 469](https://fedlex.data.admin.ch/eli/fga/1980/1_477_477_469)). Vedi anche l’art. 108, qui di seguito.
 [^76a-2]: Nuovo testo giusta il n. I della LF del 4 ott. 2002, in vigore dal 1° feb. 2003 ([RU 2003 222](https://fedlex.data.admin.ch/eli/oc/2003/30)).
 [^76a-3]: Nuovo testo giusta l’all. n. 10 della LF del 22 giu. 2007 concernente l’Autorità federale di vigilanza sui mercati finanziari, in vigore dal 1° gen. 2009 ([RU 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [FF 2006 2625](https://fedlex.data.admin.ch/eli/fga/2006/303)).
 [^76a-4]: Nuovo testo giusta il n. I della LF del 23 giu. 1995, in vigore dal 1° gen. 1996 ([RU 1995 5462](https://fedlex.data.admin.ch/eli/oc/1995/5462_5462_5462); [FF 1995 I 29](https://fedlex.data.admin.ch/eli/fga/1995/1_49_49_29)).
+[^76a-5]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^76a-6]: Introdotto dall’all. n. 2 della della LF del 18 mar. 2022, in vigore dal 1° gen. 2024 ([RU 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [FF 2020 7833](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
 
 ### Disposizioni comuni per l’Ufficio nazionale di assicurazione e il Fondo nazionale di garanzia
 
@@ -1749,7 +1764,7 @@ Il Consiglio federale emana disposizioni sui compiti e sulle competenze dell’U
 - b. la promozione e lo sviluppo della protezione assicurativa e della protezione delle vittime della circolazione nel traffico transfrontaliero.
 
 [^76b-1]: Introdotto dal n. I della LF del 4 ott. 2002, in vigore dal 1° feb. 2003 ([RU 2003 222](https://fedlex.data.admin.ch/eli/oc/2003/30); FF **2002** 4093).
-[^76b-2]: Nuova espr. giusta il n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^76b-2]: Nuova espressione giusta il n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)). Di detta mod. è tenuto conto in tutto il presente testo.
 [^76b-3]: Nuovo testo del per giusta l’all. 1 n. II 60 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### Veicoli non assicurati
@@ -2361,7 +2376,7 @@ Il Consiglio federale disciplina:
 [^90-1]: Nuovo testo giusta il n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
 [^90-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^90-3]: Introdotto dal n. I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
-[^90-4]: Introdotto dal n. I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)
+[^90-4]: Introdotto dal n. I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
 [^90-5]: Nuovo testo giusta il n. I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
 [^90-6]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
@@ -2400,11 +2415,12 @@ Il giudice può ordinare la confisca di un veicolo a motore se:
 
 È punito con una pena detentiva sino a tre anni o una pena pecuniaria chiunque:
 
-- a. conduce un veicolo a motore in stato di ebrietà con una concentrazione qualificata di alcol nell’alito o nel sangue;
+- a. conduce un veicolo a motore in stato di ebrietà con una concentrazione qualificata di alcol nell’alito o nel sangue[^91-3];
 - b. conduce un veicolo a motore in stato di inattitudine alla guida per altri motivi.
 
 [^91-1]: Nuovo testo giusta il n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2014 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744), [2013 4669](https://fedlex.data.admin.ch/eli/oc/2013/821); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
 [^91-2]: Aggiornata dal n. I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^91-3]: La disp. riguardante la concentrazione di alcol nell’alito si applica dall’entrata in vigore dell’art. 55 cpv. 3, 3<sup>bis</sup>, 6 e 6<sup>bis</sup> secondo il n. I della LF del 15 giu. 2012 e l’O dell’AF del 15 giu. 2012 concernente i valori limite di alcolemia nella circolazione stradale.
 
 ### Elusione di provvedimenti per accertare l’inattitudine alla guida
 
@@ -2602,7 +2618,9 @@ Il giudice può ordinare la confisca di un veicolo a motore se:
 
 [^99-1]
 
-1 <sup>1</sup> È punito con la multa, chiunque:
+<sup>1</sup>
+
+È punito con la multa, chiunque:
 
 - a. mette in commercio veicoli, componenti o accessori sottoposti all’approvazione del tipo non conformi a un modello approvato;
 - b. conduce un veicolo senza portare con sé le licenze o le autorizzazioni necessarie;
@@ -2756,7 +2774,7 @@ Il giudice può ordinare la confisca di un veicolo a motore se:
 
 <sup>1</sup>
 
-Il Consiglio federale può concludere con gli Stati esteri trattati concernenti il traffico transfrontaliero di veicoli a motore. Nell’ambito di questi trattati può:
+Il Consiglio federale può concludere con gli Stati esteri trattati concer-nenti il traffico transfrontaliero di veicoli a motore. Nell’ambito di questi trattati può:
 
 - a. rinunciare allo scambio delle licenze di condurre in caso di cambiamento di domicilio oltre i confini nazionali;
 - b. prevedere permessi per i viaggi di veicoli svizzeri o esteri con pesi superiori a quelli stabiliti nell’articolo 9 della presente legge; esso rilascia i permessi soltanto in via eccezionale e nella misura in cui lo consentano gli interessi della sicurezza della circolazione e della protezione dell’ambiente.
@@ -2770,13 +2788,11 @@ Il Consiglio federale può concludere con gli Stati esteri trattati concernenti 
 [^106a-1]: Introdotto dal n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
 [^106a-2]: [RS 0.741.621](https://fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249)
 
-### Disposizioni finali
-
 #### Art. 107
 
-<sup>1</sup> Il Consiglio federale stabilisce la data dell’entrata in vigore della presente legge.
+<sup>1</sup> Il Consiglio federale stabilisce la data dell’entrata in vigore della pre-sente legge.
 
-<sup>2</sup> Esso emana le disposizioni transitorie necessarie, in particolare per adeguare alla presente legge i contratti di assicurazione per la responsabilità civile esistenti.
+<sup>2</sup> Esso emana le disposizioni transitorie necessarie, in particolare per adeguare alla presente legge i contratti di assicurazione per la respon-sabilità civile esistenti.
 
 <sup>3</sup> Sono abrogate tutte le disposizioni contrarie alla presente legge, in particolare la legge federale del 15 marzo 1932[^107-1] sulla circolazione degli autoveicoli e dei velocipedi.
 

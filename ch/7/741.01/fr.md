@@ -4,11 +4,11 @@ title: Loi fédérale du 19 décembre 1958 sur la circulation routière (LCR)
 short: LCR
 eli: "https://fedlex.data.admin.ch/eli/cc/1959/679_705_685"
 language: fr
-version: 2023-10-01
+version: 2024-01-01
 adopted: 1958-12-19
 in_force: 1959-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/679_705_685/20231001/fr/xml/fedlex-data-admin-ch-eli-cc-1959-679_705_685-20231001-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1959/679_705_685/20231001/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/679_705_685/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-1959-679_705_685-20240101-fr-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1959/679_705_685/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1959/679_705_685/20231001/fr"
 
 (LCR)
 
-du 19 décembre 1958 (État le 1<sup>er</sup> octobre 2023)
+du 19 décembre 1958 (État le 1<sup>er</sup> janvier 2024)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -1674,44 +1674,53 @@ Le Conseil fédéral réglemente:
 
 [^76-1]
 
-<sup>1</sup> Les institutions d’assurance autorisées à exercer leur activité en Suisse dans le secteur de l’assurance-responsabilité civile pour véhicules automobiles constituent et exploitent en commun le Fonds national de garantie, qui est doté de la personnalité juridique.
+<sup>1</sup> Les institutions d’assurance autorisées à exercer leur activité en Suisse dans le secteur de l’assurance-responsabilité civile pour véhicules automobiles constituent et exploitent en commun le Fonds national de garantie.
 
-<sup>2</sup>
+<sup>2</sup> Le Fonds national de garantie est doté de la personnalité juridique.
 
-Le Fonds national de garantie accomplit les tâches suivantes:
+<sup>3</sup>
 
-- a.[^76-2]
+Il accomplit les tâches suivantes:
+
+- a.
 
   il couvre la responsabilité civile pour les dommages causés en Suisse:
 
   - 1\. par des véhicules automobiles ou des remorques non identifiés ou non assurés, dans la mesure où la présente loi prévoit une obligation d’assurance,
-  - 2\. par des cycles ou des engins assimilés à des véhicules, lorsque l’auteur du dommage ne peut être identifié ou que le dommage n’est couvert ni par lui-même, ni par une assurance responsabilité civile, ni par un tiers responsable du dommage à la place de l’auteur, ni par une autre assurance;
+  - 2\. par des cycles ou des engins assimilés à des véhicules, lorsque l’auteur du dommage ne peut être identifié ou que le dommage n’est couvert ni par lui-même, ni par une assurance-responsabilité civile, ni par un tiers responsable du dommage à la place de l’auteur, ni par une autre assurance;
 
-- b. il couvre la responsabilité civile pour les dommages causés par des véhicules automobiles ou des remorques immatriculés en Suisse, lorsque l’assureur en responsabilité civile tenu à des prestations est déclaré en faillite.
-- c. il exploite l’organisme d’indemnisation visé à l’art. 79*d*.
+- b. il exploite l’organisme d’indemnisation visé à l’art. 79*d*.
 
-<sup>3</sup>
+<sup>4</sup>
 
-Le Conseil fédéral réglemente:
+Si un assureur en responsabilité civile pour véhicules automobiles est tenu de fournir une prestation pour des dommages causés par des véhicules automobiles ou des remorques immatriculés en Suisse et qu’il fait l’objet:
 
-- a. les tâches du Fonds national de garantie énoncées à l’al. 2;
-- b. l’assujettissement du lésé à une franchise pour les dommages matériels;
-- c. la coordination des prestations des assurances sociales avec celles du Fonds national de garantie.
-
-<sup>4</sup> Dans les cas prévus à l’al. 2, let. a, l’obligation incombant au Fonds national de garantie se réduit dans une proportion correspondant aux prétentions que le lésé peut faire valoir auprès d’une assurance-dommages ou d’une assurance sociale.
+- a. d’une procédure de faillite assurantielle, le Fonds national de garantie mène la procédure applicable en matière de règlement préférentiel des prétentions exécutables et couvre la part des prétentions pour laquelle l’administration de la faillite a délivré un acte de défaut de biens;
+- b. d’une procédure d’assainissement au sens de l’art. 52*a* de la loi du 17 décembre 2004 sur la surveillance des assurances[^76-2], assortie d’une décision de réduction des prestations rendue par l’autorité compétente, le Fonds national de garantie prend en charge le montant correspondant à la réduction des prestations.
 
 <sup>5</sup>
 
-Le Conseil fédéral peut, dans les cas prévus à l’al. 2, let. a:
+Le Conseil fédéral réglemente:
 
-- a.[^76-3] obliger le Fonds national de garantie à verser des prestations anticipées, lorsque l’auteur du dommage ne dispose pas d’une assurance responsabilité civile tenue à des prestations ou que l’absence d’assureur tenu à des prestations est contestée;
-- b. limiter ou supprimer, en cas d’absence de réciprocité, l’obligation de prestation du Fonds national de garantie à l’égard des lésés de nationalité étrangère qui ont leur domicile à l’étranger.
+- a. les tâches du Fonds national de garantie définies à l’al. 3;
+- b. la couverture en cas de faillite ou d’assainissement visée à l’al. 4, en particulier son étendue maximale;
+- c. l’assujettissement du lésé à une franchise pour les dommages matériels;
+- d. la coordination des prestations des assurances sociales avec celles du Fonds national de garantie;
+- e. la procédure applicable en matière de règlement préférentiel des prétentions exécutables après l’ouverture d’une procédure de faillite assurantielle assujettissant le Fonds national de garantie à l’obligation de fournir une prestation.
 
-<sup>6</sup> Par le paiement de l’indemnité au lésé, le Fonds national de garantie est subrogé à celui-ci dans ses droits pour les dommages de même nature que ceux qu’il couvre.
+<sup>6</sup> Dans les cas prévus à l’al. 3, let. a, l’obligation incombant au Fonds national de garantie se réduit dans une proportion correspondant aux prétentions que le lésé peut faire valoir auprès d’une assurance contre les dommages ou d’une assurance sociale.
 
-[^76-1]: Nouvelle teneur selon le ch. I de la LF du 4 oct. 2002, en vigueur depuis le 1<sup>er</sup> fév. 2003 ([RO 2003 222](https://fedlex.data.admin.ch/eli/oc/2003/30); [FF 2002 4093](https://fedlex.data.admin.ch/eli/fga/2002/692)).
-[^76-2]: Nouvelle teneur selon le ch. I de la LF du 1<sup>er</sup> oct. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4925](https://fedlex.data.admin.ch/eli/oc/2011/710); [FF 2010 3767](https://fedlex.data.admin.ch/eli/fga/2010/680)[3779](https://fedlex.data.admin.ch/eli/fga/2010/682)).
-[^76-3]: Nouvelle teneur selon le ch. I de la LF du 1<sup>er</sup> oct. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4925](https://fedlex.data.admin.ch/eli/oc/2011/710); [FF 2010 3767](https://fedlex.data.admin.ch/eli/fga/2010/680)[3779](https://fedlex.data.admin.ch/eli/fga/2010/682)).
+<sup>7</sup>
+
+Dans les cas prévus à l’al. 3, let. a, le Conseil fédéral peut:
+
+- a. obliger le Fonds national de garantie à prendre en charge les prestations à titre provisoire, lorsque l’auteur du dommage ne dispose pas d’une assurance-responsabilité civile tenue de fournir une prestation ou que l’absence d’une telle assurance est contestée;
+- b. limiter ou supprimer, en cas d’absence de réciprocité, l’obligation, pour le Fonds national de garantie, de fournir une prestation à des lésés de nationalité étrangère qui ont leur domicile à l’étranger.
+
+<sup>8</sup> En versant une indemnité au lésé, le Fonds national de garantie se subroge à ce dernier dans ses droits pour des dommages semblables à ceux qu’il couvre. Il peut exercer une action récursoire pour les prestations visées à l’al. 4 uniquement si le détenteur ou le conducteur du véhicule a causé le dommage par négligence grave ou intentionnellement. Lorsque le Fonds national de garantie est tenu de fournir des prestations en vertu de l’al. 4, le lésé n’a pas de prétention envers le détenteur ou le conducteur du véhicule ayant causé les dommages.
+
+[^76-1]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 18 mars 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [FF 2020 8637](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
+[^76-2]: [RS 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
 
 ### Financement et exécution
 
@@ -1727,12 +1736,16 @@ Le Conseil fédéral peut, dans les cas prévus à l’al. 2, let. a:
 
 <sup>4</sup> La Confédération ainsi que ses entreprises et établissements sont exonérés du paiement de la contribution. Les cantons détenteurs de véhicules automobiles qui ne sont pas assujettis à l’assurance-responsabilité civile (art. 73, al. 1) ne sont astreints à la contribution que si leurs véhicules sont assurés.
 
+<sup>4bis</sup> Si la FINMA a ouvert une procédure d’assainissement ou de faillite assurantielle contre un assureur en responsabilité civile pour véhicules automobiles, le Fonds national de garantie estime les obligations de paiement auxquelles il y a lieu de s’attendre. Celles-ci doivent être documentées uniquement dans l’annexe aux comptes annuels (art. 959*c* du code des obligations[^76a-5]).[^76a-6]
+
 <sup>5</sup> Le Conseil fédéral règle les modalités. Il détermine notamment les bases de calcul de la contribution et fixe la procédure d’approbation.
 
 [^76a-1]: Introduit par le ch. I de la LF du 20 juin 1980, en vigueur depuis le 1<sup>er</sup> janv. 1981 ([RO 1980 1509](https://fedlex.data.admin.ch/eli/oc/1980/1509_1509_1509); [FF 1980 I 477](https://fedlex.data.admin.ch/eli/fga/1980/1_477_477_469)). Voir aussi l’art. 108 ci-après.
 [^76a-2]: Nouvelle teneur selon le ch. I de la LF du 4 oct. 2002, en vigueur depuis le 1<sup>er</sup> fév. 2003 ([RO 2003 222](https://fedlex.data.admin.ch/eli/oc/2003/30); [FF 2002 4093](https://fedlex.data.admin.ch/eli/fga/2002/692)).
 [^76a-3]: Nouvelle teneur selon l’annexe ch. 10 de la LF du 22 juin 2007 sur la surveillance des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [FF 2006 2741](https://fedlex.data.admin.ch/eli/fga/2006/303)).
 [^76a-4]: Nouvelle teneur selon le ch. I de la LF du 23 juin 1995, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1995 5462](https://fedlex.data.admin.ch/eli/oc/1995/5462_5462_5462); [FF 1995 I 49](https://fedlex.data.admin.ch/eli/fga/1995/1_49_49_29)).
+[^76a-5]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^76a-6]: Introduit par l’annexe ch. 2 de la LF du 18 mars 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [FF 2020 8637](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
 
 ### Dispositions communes au Bureau national d’assurance et au Fonds national de garantie
 
@@ -1816,7 +1829,10 @@ Le Conseil fédéral édicte des dispositions sur les tâches et les compétence
 
 <sup>3</sup> Les représentants chargés du règlement des sinistres sont des personnes physiques ou morales qui représentent, dans leur pays d’activité, des institutions d’assurance dont le siège se trouve dans un autre État. Ils traitent et règlent les demandes d’indemnisation faites par les lésés domiciliés dans leur pays d’activité à l’encontre de l’institution d’assurance qu’ils représentent, conformément à l’art. 79*c*.
 
-- [tab] <sup>4</sup> Ils doivent:
+<sup>4</sup>
+
+Ils doivent:
+
 - a. être domiciliés dans leur pays d’activité;
 - b. disposer de pouvoirs suffisants pour représenter valablement l’institution d’assurance à l’égard des lésés et satisfaire à leurs demandes d’indemnisation en totalité;
 - c. être en mesure de traiter les cas dans la ou les langues officielles de leur pays d’activité.
@@ -2622,7 +2638,7 @@ Est puni de l’amende celui qui:
 - e. fait usage, sans droit, des attributs servant à reconnaître la police de la circulation;
 - f. emploie, sans droit, un haut-parleur monté sur un véhicule automobile;
 - g. organise, sans droit, des manifestations sportives automobiles ou de cycles, effectue des courses d’essai ou ne prend pas les mesures de sécurité prescrites lors de manifestations autorisées de ce type;
-- [tab] h. à j.[^99-2] …
+- h. à j.[^99-2] …
 
 <sup>2</sup> Le détenteur qui, après avoir repris d’un autre détenteur un véhicule automobile ou sa remorque, ou en avoir transféré le lieu de stationnement d’un canton dans un autre, ne sollicite pas à temps un nouveau permis de circulation est puni d’une amende de 100 francs au plus.
 

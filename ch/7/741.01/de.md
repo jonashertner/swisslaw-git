@@ -4,11 +4,11 @@ title: Strassenverkehrsgesetz vom 19. Dezember 1958 (SVG)
 short: SVG
 eli: "https://fedlex.data.admin.ch/eli/cc/1959/679_705_685"
 language: de
-version: 2023-10-01
+version: 2024-01-01
 adopted: 1958-12-19
 in_force: 1959-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/679_705_685/20231001/de/xml/fedlex-data-admin-ch-eli-cc-1959-679_705_685-20231001-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1959/679_705_685/20231001/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/679_705_685/20240101/de/xml/fedlex-data-admin-ch-eli-cc-1959-679_705_685-20240101-de-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1959/679_705_685/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1959/679_705_685/20231001/de"
 
 (SVG)[^t-1]
 
-vom 19. Dezember 1958 (Stand am 1. Oktober 2023)
+vom 19. Dezember 1958 (Stand am 1. Januar 2024)
 
 [^t-1]: Tit. gemäss Ziff. I des BG vom 6. Okt. 1989, in Kraft seit 1. Febr. 1991 ([AS 1991 71](https://fedlex.data.admin.ch/eli/oc/1991/71_71_71); [BBl 1986 III 209](https://fedlex.data.admin.ch/eli/fga/1986/3_209_197_185)).
 
@@ -1278,7 +1278,9 @@ Er erlässt Bestimmungen über:
 
 <sup>4</sup> …[^57-2]
 
-<sup>5</sup> Der Bundesrat kann vorschreiben, dass
+<sup>5</sup>
+
+Der Bundesrat kann vorschreiben, dass:
 
 - a. Insassen von Motorwagen Rückhaltevorrichtungen (Sicherheitsgurten u. dgl.) benützen;
 - b.[^57-3] Führer und Mitfahrer von motorisierten Zweirädern sowie von Leicht-, Klein- und dreirädrigen Motorfahrzeugen Schutzhelme tragen.[^57-4]
@@ -1660,44 +1662,53 @@ Der Bundesrat regelt:
 
 [^76-1]
 
-<sup>1</sup> Die in der Schweiz zum Betrieb der Motorfahrzeug-Haftpflichtversicherung zugelassenen Versicherungseinrichtungen bilden und betreiben gemeinsam den Nationalen Garantiefonds, der eigene Rechtspersönlichkeit hat.
+<sup>1</sup> Die in der Schweiz zum Betrieb der Motorfahrzeug-Haftpflichtversicherung zugelassenen Versicherungseinrichtungen bilden und betreiben gemeinsam den Nationalen Garantiefonds.
 
-<sup>2</sup>
+<sup>2</sup> Der Nationale Garantiefonds hat eigene Rechtspersönlichkeit.
 
-Der Nationale Garantiefonds hat folgende Aufgaben:
+<sup>3</sup>
 
-- a.[^76-2]
+Er hat folgende Aufgaben:
+
+- a.
 
   Er deckt die Haftung für Schäden, die in der Schweiz verursacht werden durch:
 
   - 1\. nicht ermittelte oder nicht versicherte Motorfahrzeuge und Anhänger, soweit nach diesem Gesetz eine Versicherungspflicht besteht,
-  - 2\. Radfahrer oder Benützer fahrzeugähnlicher Geräte, sofern der Schädiger nicht ermittelt werden kann oder der Schaden weder vom Schädiger noch von einer Haftpflichtversicherung noch von einer für ihn verantwortlichen Person oder einer anderen Versicherung gedeckt wird.
+  - 2\. Radfahrer oder Benützer fahrzeugähnlicher Geräte, sofern der Schädiger nicht ermittelt werden kann oder der Schaden weder vom Schädiger noch von einer Haftpflichtversicherung noch von einer für ihn verantwortlichen Person oder einer anderen Versicherung gedeckt wird;
 
-- b. Er deckt die Haftung für Schäden, die durch in der Schweiz zugelassene Motorfahrzeuge und Anhänger verursacht werden, wenn über den leistungspflichtigen Haftpflichtversicherer der Konkurs eröffnet worden ist.
-- c. Er betreibt die Entschädigungsstelle nach Artikel 79*d*.
+- b. Er betreibt die Entschädigungsstelle nach Artikel 79*d.*
 
-<sup>3</sup>
+<sup>4</sup>
 
-Der Bundesrat regelt:
+Wird über einen Motorfahrzeug-Haftpflichtversicherer, der aus Schäden leistungspflichtig ist, die durch in der Schweiz zugelassene Motorfahrzeuge und Anhänger verursacht worden sind:
 
-- a. die Aufgaben des Nationalen Garantiefonds nach Absatz 2;
-- a. einen Selbstbehalt des Geschädigten für Sachschäden;
-- b. die Koordination der Leistungen der Sozialversicherungen mit den Schadenersatzleistungen des Nationalen Garantiefonds.
-
-<sup>4</sup> Im Falle von Absatz 2 Buchstabe a entfällt die Leistungspflicht des Nationalen Garantiefonds in dem Umfange, in dem der Geschädigte Leistungen aus einer Schadensversicherung oder einer Sozialversicherung beanspruchen kann.
+- a. der Versicherungskonkurs eröffnet, so führt der Nationale Garantiefonds das Verfahren zur vorgezogenen Regulierung erfüllbarer Ansprüche und deckt denjenigen Teil der Ansprüche, für den die Konkursverwaltung einen Verlustschein ausstellt;
+- b. ein Sanierungsverfahren nach Artikel 52*a* des Versicherungsaufsichtsgesetzes vom 17. Dezember 2004[^76-2] eröffnet und dabei von der zuständigen Behörde eine Kürzung der Schadenzahlungen verfügt, so übernimmt der Nationale Garantiefonds den Betrag, um den die betreffenden Schadenzahlungen gekürzt worden sind.
 
 <sup>5</sup>
 
-Der Bundesrat kann im Falle von Absatz 2 Buchstabe a:
+Der Bundesrat regelt:
 
-- a.[^76-3] den Nationalen Garantiefonds zur Vorleistung verpflichten, wenn der Schädiger keine leistungspflichtige Haftpflichtversicherung hat oder das Fehlen einer solchen Versicherung strittig ist;
+- a. die Aufgaben des Nationalen Garantiefonds nach Absatz 3;
+- b. die Konkurs- und Sanierungsdeckung nach Absatz 4, namentlich deren maximalen Umfang;
+- c. einen Selbstbehalt der geschädigten Person für Sachschäden;
+- d. die Koordination der Leistungen der Sozialversicherungen mit den Schadenersatzleistungen des Nationalen Garantiefonds;
+- e. das Verfahren zur vorgezogenen Regulierung erfüllbarer Ansprüche nach der Eröffnung eines eine Leistungspflicht des Nationalen Garantiefonds auslösenden Konkursverfahrens.
+
+<sup>6</sup> Im Falle von Absatz 3 Buchstabe a entfällt die Leistungspflicht des Nationalen Garantiefonds in dem Umfang, in dem die geschädigte Person Leistungen aus einer Schadensversicherung oder einer Sozialversicherung beanspruchen kann.
+
+<sup>7</sup>
+
+Der Bundesrat kann im Falle von Absatz 3 Buchstabe a:
+
+- a. den Nationalen Garantiefonds zur Vorleistung verpflichten, wenn der Schädiger keine leistungspflichtige Haftpflichtversicherung hat oder das Fehlen einer solchen Versicherung strittig ist;
 - b. die Leistungspflicht des Nationalen Garantiefonds gegenüber im Ausland wohnhaften ausländischen Geschädigten bei fehlender Reziprozität beschränken oder aufheben.
 
-<sup>6</sup> Mit der Zahlung der Ersatzleistung an den Geschädigten tritt der Nationale Garantiefonds für die von ihm gedeckten gleichartigen Schadensposten in die Rechte des Geschädigten ein.
+<sup>8</sup> Mit der Zahlung der Ersatzleistung an die geschädigte Person tritt der Nationale Garantiefonds für die von ihm gedeckten gleichartigen Schadensposten in die Rechte der geschädigten Person ein. Für Leistungen nach Absatz 4 nimmt der Nationale Garantiefonds nur dann Rückgriff, wenn der Halter oder Lenker des Fahrzeugs den Schaden grobfahrlässig oder absichtlich verursacht hat. Ist der Nationale Garantiefonds nach Absatz 4 leistungspflichtig, so hat die geschädigte Person keine Ansprüche gegenüber dem Halter oder Lenker des Fahrzeugs, mit dem der Schaden verursacht wurde.
 
-[^76-1]: Fassung gemäss Ziff. I des BG vom 4. Okt. 2002, in Kraft seit 1. Febr. 2003 ([AS 2003 222](https://fedlex.data.admin.ch/eli/oc/2003/30); [BBl 2002 4397](https://fedlex.data.admin.ch/eli/fga/2002/692)).
-[^76-2]: Fassung gemäss Ziff. I des BG vom 1. Okt. 2010, in Kraft seit 1. Jan. 2012 ([AS 2011 4925](https://fedlex.data.admin.ch/eli/oc/2011/710); [BBl 2010 4137](https://fedlex.data.admin.ch/eli/fga/2010/680)[4149](https://fedlex.data.admin.ch/eli/fga/2010/682)).
-[^76-3]: Fassung gemäss Ziff. I des BG vom 1. Okt. 2010, in Kraft seit 1. Jan. 2012 ([AS 2011 4925](https://fedlex.data.admin.ch/eli/oc/2011/710); [BBl 2010 4137](https://fedlex.data.admin.ch/eli/fga/2010/680)[4149](https://fedlex.data.admin.ch/eli/fga/2010/682)).
+[^76-1]: Fassung gemäss Anhang Ziff. 2 des BG vom 18. März 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [BBl 2020 8967](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
+[^76-2]: [SR 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
 
 ### Finanzierung, Durchführung
 
@@ -1713,12 +1724,16 @@ Der Bundesrat kann im Falle von Absatz 2 Buchstabe a:
 
 <sup>4</sup> Der Bund sowie seine Betriebe und Anstalten sind von der Beitragspflicht ausgenommen. Kantone als Halter von Motorfahrzeugen, für die keine Haftpflichtversicherungspflicht besteht (Art. 73 Abs. 1), sind insoweit beitragspflichtig, als ihre Fahrzeuge versichert sind.
 
+<sup>4bis</sup> Hat die FINMA ein Sanierungs- oder ein Versicherungskonkursverfahren über einen Motorfahrzeug-Haftpflichtversicherer eröffnet, so erstellt der Nationale Garantiefonds eine Schätzung über die zu erwartenden künftigen Zahlungsverpflichtungen. Diese sind ausschliesslich im Anhang zur Jahresrechnung (Art. 959*c* des Obligationenrechts[^76a-5]) zu dokumentieren.[^76a-6]
+
 <sup>5</sup> Der Bundesrat bestimmt die Einzelheiten; er regelt namentlich die Berechnungsgrundlagen für den Beitrag und dessen Genehmigung.
 
 [^76a-1]: Eingefügt durch Ziff. I des BG vom 20. Juni 1980, in Kraft seit 1. Jan. 1981 ([AS 1980 1509](https://fedlex.data.admin.ch/eli/oc/1980/1509_1509_1509); [BBl 1980 I 477](https://fedlex.data.admin.ch/eli/fga/1980/1_477_477_469)). Siehe auch Art. 108 hiernach.
 [^76a-2]: Fassung gemäss Ziff. I des BG vom 4. Okt. 2002, in Kraft seit 1. Febr. 2003 ([AS 2003 222](https://fedlex.data.admin.ch/eli/oc/2003/30); [BBl 2002 4397](https://fedlex.data.admin.ch/eli/fga/2002/692)).
 [^76a-3]: Fassung gemäss Anhang Ziff. 10 des Finanzmarktaufsichtsgesetzes vom 22. Juni 2007, in Kraft seit 1. Jan. 2009 ([AS 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [BBl 2006 2829](https://fedlex.data.admin.ch/eli/fga/2006/303)).
 [^76a-4]: Fassung gemäss Ziff. I des BG vom 23. Juni 1995, in Kraft seit 1. Jan. 1996 ([AS 1995 5462](https://fedlex.data.admin.ch/eli/oc/1995/5462_5462_5462); [BBl 1995 I 49](https://fedlex.data.admin.ch/eli/fga/1995/1_49_49_29)).
+[^76a-5]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^76a-6]: Eingefügt durch Anhang Ziff. 2 des BG vom 18. März 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [BBl 2020 8967](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
 
 ### Gemeinsame Bestimmungen für das Nationale Versicherungsbüro und den Nationalen Garantiefonds
 
@@ -2080,7 +2095,7 @@ Folgende Behörden und Stellen bearbeiten die Daten des IVZ:[^89d-1]
 Folgende Behörden und Stellen können durch ein Abrufverfahren Einsicht in die folgenden Daten nehmen:[^89e-1]
 
 - a.[^89e-2] die nach Artikel 89*d* zur Datenbearbeitung berechtigten Behörden und Stellen: in die Daten, die sie gestützt auf jene Bestimmung bearbeiten;
-- a.<sup>bis</sup> [^89e-3] die Polizeiorgane: in die Daten, die für die Kontrolle der Fahrberechtigung und der Verkehrszulassung, für die Identifikation des Halters und des Versicherers sowie für die Fahrzeugfahndung erforderlich sind;
+- a<sup>bis</sup>. [^89e-3] die Polizeiorgane: in die Daten, die für die Kontrolle der Fahrberechtigung und der Verkehrszulassung, für die Identifikation des Halters und des Versicherers sowie für die Fahrzeugfahndung erforderlich sind;
 - b.[^89e-4] das Bundesamt für Zoll und Grenzsicherheit: in die Daten, die für die Kontrolle der Fahrberechtigung und der Verkehrszulassung sowie für die Fahrzeugfahndung erforderlich sind;
 - c. die Strafverfolgungs- und Gerichtsbehörden: im Rahmen von Verfahren zur Beurteilung von Strassenverkehrswiderhandlungen in die Fahrberechtigungs- und Administrativmassnahmendaten;
 - d. die für die Fahrzeugprüfungen zuständigen Behörden des Bundes und der Kantone sowie die für die Durchführung von amtlichen Fahrzeugprüfungen bezeichneten Stellen: in die Daten der Fahrzeugzulassung und der Fahrzeugtypen;

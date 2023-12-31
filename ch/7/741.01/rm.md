@@ -4,11 +4,11 @@ title: Lescha davart il traffic sin via dals 19 da december 1958 (LTV)
 short: LTV
 eli: "https://fedlex.data.admin.ch/eli/cc/1959/679_705_685"
 language: rm
-version: 2023-10-01
+version: 2024-01-01
 adopted: 1958-12-19
 in_force: 1959-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/679_705_685/20231001/rm/xml/fedlex-data-admin-ch-eli-cc-1959-679_705_685-20231001-rm-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1959/679_705_685/20231001/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/679_705_685/20240101/rm/xml/fedlex-data-admin-ch-eli-cc-1959-679_705_685-20240101-rm-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1959/679_705_685/20240101/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (LTV)[^t-1]
 
-dals 19 da december 1958 (versiun dal 1. d’october 2023)
+dals 19 da december 1958 (versiun dal 1. da schaner 2024)
 
 [^t-1]: Titel tenor la cifra I da la LF dals 6 d’oct. 1989, en vigur dapi il 1. da favr. 1991 ([AS 1991 71](https://fedlex.data.admin.ch/eli/oc/1991/71_71_71); [BBl 1986 III 209](https://fedlex.data.admin.ch/eli/fga/1986/3_209_197_185)).
 
@@ -1664,44 +1664,53 @@ Il Cussegl federal regla:
 
 [^76-1]
 
-<sup>1</sup> Las instituziuns d’assicuranza, ch’èn autorisadas d’exercitar en Svizra lur activitads sin il sectur da l’assicuranza da responsabladad per vehichels a motor, furman e mainan cuminaivlamain il Fond naziunal da garanzia, il qual ha in’atgna persunalitad giuridica.
+<sup>1</sup> Las instituziuns d’assicuranza, ch’èn autorisadas d’exercitar en Svizra lur activitads sin il sectur da l’assicuranza da responsabladad per vehichels a motor, furman e mainan cuminaivlamain il Fond naziunal da garanzia.
 
-<sup>2</sup>
+<sup>2</sup> Il Fond naziunal da garanzia ha in’atgna persunalitad giuridica.
 
-Il Fond naziunal da garanzia ha las suandantas incumbensas:
+<sup>3</sup>
 
-- a.[^76-2]
+El ha las suandantas incumbensas:
+
+- a.
 
   cuvrir la responsabladad per donns che vegnan chaschunads en Svizra tras:
 
   - 1\. vehichels a motor e chars annexs betg eruids u betg assicurads, sch’igl exista in’obligaziun d’assicuranza tenor questa lescha,
   - 2\. ciclists u utilisaders d’urdains sumegliants a vehichels, sch’il donnegiader na po betg vegnir eruì u sch’il donn na vegn cuvrì ni dal donnegiader ni d’ina assicuranza da responsabladad ni d’ina persuna ch’è responsabla per el ni d’ina autra assicuranza;
 
-- b. cuvrir la responsabladad per donns che vegnan chaschunads tras vehichels a motor e tras chars annexs immatriculads en Svizra, sch’il concurs è vegnì declerà cunter l’assicurader da responsabladad che fiss obligà da pajar;
-- c. manar il post d’indemnisaziun tenor l’artitgel 79*d*.
+- b. manar il post d’indemnisaziun tenor l’artitgel 79*d*.
 
-<sup>3</sup>
+<sup>4</sup>
 
-Il Cussegl federal regla:
+Sch’in assicurader da responsabladad per vehichels a motor è obligà da pajar per donns ch’èn vegnids chaschunads tras vehichels a motor e tras chars annexs immatriculads en Svizra, e:
 
-- a. las incumbensas dals Fond naziunal da garanzia tenor l’alinea 2;
-- a. ina resalva persunala dal donnegià per donns materials;
-- b. la coordinaziun da las prestaziuns da las assicuranzas socialas cun las prestaziuns d’indemnisaziun dal Fond naziunal da garanzia.
-
-<sup>4</sup> En cas da l’alinea 2 litera a croda davent l’obligaziun da prestaziun dal Fond naziunal da garanzia en la dimensiun da las prestaziuns ch’il donnegià po far valair tar in’assicuranza da donns u tar in’assicuranza sociala.
+- a. sch’il concurs d’assicuranza è vegnì declerà cunter el, maina il Fond naziunal da garanzia la procedura per reglar anticipadamain las pretensiuns adempliblas e cuvra quella part da las pretensiuns, per la quala l’administraziun dal concurs emetta in attest da perdita;
+- b. sch’ina procedura da sanaziun tenor l’artitgel 52*a* da la Lescha dals 17 da december 2004[^76-2] davart la surveglianza da las assicuranzas è vegnida declerada cunter el, entant che l’autoritad cumpetenta ha disponì da reducir ils pajaments per donns, surpiglia il Fond naziunal da garanzia l’import, per il qual ils pajaments respectivs per donns èn vegnids reducids.
 
 <sup>5</sup>
 
-En cas da l’alinea 2 litera a po il Cussegl federal:
+Il Cussegl federal regla:
 
-- a.[^76-3] obligar il Fond naziunal da garanzia da far pajaments anticipads, sch’il donnegiader n’ha betg in’assicuranza da responsabladad ch’è obligada da pajar u sche la mancanza d’ina tala assicuranza è dispitaivla;
+- a. las incumbensas dal Fond naziunal da garanzia tenor l’alinea 3;
+- b. la cuvrida en cas da concurs e da sanaziun tenor l’alinea 4, en spezial la dimensiun maximala da tala;
+- c. ina resalva persunala dal donnegià per donns materials;
+- d. la coordinaziun da las prestaziuns da las assicuranzas socialas cun las prestaziuns d’indemnisaziun dal Fond naziunal da garanzia;
+- e. la procedura applitgabla per reglar anticipadamain pretensiuns adempliblas suenter l’avertura d’ina procedura da concurs, che oblighescha il Fond naziunal da garanzia da furnir ina prestaziun.
+
+<sup>6</sup> En cas da l’alinea 3 litera a scroda l’obligaziun da prestaziun dal Fond naziunal da garanzia en la dimensiun da las prestaziuns ch’il donnegià po far valair tar in’assicuranza da donns u tar in’assicuranza sociala.
+
+<sup>7</sup>
+
+En cas da l’alinea 3 litera a po il Cussegl federal:
+
+- a. obligar il Fond naziunal da garanzia da far pajaments anticipads, sch’il donnegiader n’ha betg in’assicuranza da responsabladad ch’è obligada da pajar u sche la mancanza d’ina tala assicuranza è dispitaivla;
 - b. restrenscher u abolir l’obligaziun da prestaziun dal Fond naziunal da garanzia envers donnegiads esters domiciliads en pajais che n’applitgeschan betg la reciprocitad.
 
-<sup>6</sup> Tras il pajament da l’indemnisaziun al donnegià substituescha il Fond naziunal da garanzia ils dretgs dal donnegià per ils donns da medema natira sco quels ch’el cuvra.
+<sup>8</sup> Tras il pajament da l’indemnisaziun al donnegià substituescha il Fond naziunal da garanzia ils dretgs dal donnegià per ils donns da medema natira sco quels ch’el cuvra. Per prestaziuns tenor l’alinea 4 prenda il Fond naziunal da garanzia mo regress, sch’il possessur u il manischunz dal vehichel ha chaschunà il donn per greva negligientscha u intenziunadamain. Sch’il Fond naziunal da garanzia è obligà da pajar indemnisaziuns tenor l’alinea 4, na po il donnegià far valair naginas pretensiuns envers il possessur u il manischunz dal vehichel, cun il qual il donn è vegnì chaschunà.
 
-[^76-1]: Versiun tenor la cifra I da la LF dals 4 d’oct. 2002, en vigur dapi il 1. da favr. 2003 ([AS 2003 222](https://fedlex.data.admin.ch/eli/oc/2003/30); [BBl 2002 4397](https://fedlex.data.admin.ch/eli/fga/2002/692)).
-[^76-2]: Versiun tenor la cifra I da la LF dal 1. d’oct. 2010, en vigur dapi il 1. da schan. 2012 ([AS 2011 4925](https://fedlex.data.admin.ch/eli/oc/2011/710); [BBl 2010 4137](https://fedlex.data.admin.ch/eli/fga/2010/680)[4149](https://fedlex.data.admin.ch/eli/fga/2010/682)).
-[^76-3]: Versiun tenor la cifra I da la LF dal 1. d’oct. 2010, en vigur dapi il 1. da schan. 2012 ([AS 2011 4925](https://fedlex.data.admin.ch/eli/oc/2011/710); [BBl 2010 4137](https://fedlex.data.admin.ch/eli/fga/2010/680)[4149](https://fedlex.data.admin.ch/eli/fga/2010/682)).
+[^76-1]: Versiun tenor la cifra 2 da l’agiunta da la LF dals 18 da mars 2022, en vigur dapi il 1. da schan. 2024 ([AS 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355), [BBl 2020 8967](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
+[^76-2]: [SR 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
 
 ### Finanziaziun, execuziun
 
@@ -1717,12 +1726,16 @@ En cas da l’alinea 2 litera a po il Cussegl federal:
 
 <sup>4</sup> La Confederaziun sco er ses manaschis e sias instituziuns èn liberads da pajar questa contribuziun. Ils chantuns sco possessurs da vehichels a motor che n’èn betg suttamess a l’obligaziun d’avair in’assicuranza da responsabladad (art. 73 al. 1) ston pajar la contribuziun, uschenavant che lur vehichels èn assicurads.
 
+<sup>4bis</sup> Sche la FINMA ha avert ina procedura da sanaziun u ina procedura da concurs d’assicuranza cunter in assicurader da responsabladad per vehichels a motor, fa il Fond naziunal da garanzia ina stimaziun da las obligaziuns da pajament che vegnan spetgadas en l’avegnir. Quellas ston vegnir documentadas unicamain en l’agiunta dal quint annual (art. 959*c* dal Dretg d’obligaziuns[^76a-5]).[^76a-6]
+
 <sup>5</sup> Il Cussegl federal fixescha ils detagls; el regla en spezial las basas per calcular la contribuziun e la procedura d’approvaziun.
 
 [^76a-1]: Integrà tras la cifra I da la LF dals 20 da zer. 1980, en vigur dapi il 1. da schan. 1981 ([AS 1980 1509](https://fedlex.data.admin.ch/eli/oc/1980/1509_1509_1509); [BBl 1980 I 477](https://fedlex.data.admin.ch/eli/fga/1980/1_477_477_469)). Guardar er l’art. 108 qua sutvart.
 [^76a-2]: Versiun tenor la cifra I da la LF dals 4 d’oct. 2002, en vigur dapi il 1. da favr. 2003 ([AS 2003 222](https://fedlex.data.admin.ch/eli/oc/2003/30); [BBl 2002 4397](https://fedlex.data.admin.ch/eli/fga/2002/692)).
 [^76a-3]: Versiun tenor la cifra 10 da l’agiunta da la LF dals 22 da zer. 2007 davart la surveglianza dals martgads da finanzas, en vigur dapi il 1. da schan. 2009 ([AS 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [BBl 2006 2829](https://fedlex.data.admin.ch/eli/fga/2006/303)).
 [^76a-4]: Versiun tenor la cifra I da la LF dals 23 da zer. 1995, en vigur dapi il 1. da schan. 1996 ([AS 1995 5462](https://fedlex.data.admin.ch/eli/oc/1995/5462_5462_5462); [BBl 1995 I 49](https://fedlex.data.admin.ch/eli/fga/1995/1_49_49_29)).
+[^76a-5]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^76a-6]: Integrà tras la cifra 2 da l’agiunta da la LF dals 18 da mars 2022, en vigur dapi il 1. da schan. 2024 ([AS 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [BBl 2020 8967](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
 
 ### Disposiziuns cuminaivlas per il Biro naziunal d’assicuranza e per il Fond naziunal da garanzia
 
