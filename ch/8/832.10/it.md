@@ -4,11 +4,11 @@ title: "Legge federale del 18 marzo 1994 sull'assicurazione malattie (LAMal)"
 short: LAMal
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328"
 language: it
-version: 2023-09-01
+version: 2024-01-01
 adopted: 1994-03-18
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328/20230901/it/xml/fedlex-data-admin-ch-eli-cc-1995-1328_1328_1328-20230901-it-xml-11.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328/20240101/it/xml/fedlex-data-admin-ch-eli-cc-1995-1328_1328_1328-20240101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20230901/it"
 
 (LAMal)
 
-del 18 marzo 1994 (Stato 1° settembre 2023)
+del 18 marzo 1994 (Stato 1° gennaio 2024)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -142,9 +142,13 @@ Sono assicurati presso lo stesso assicuratore:
 
 <sup>1</sup> Se l’affiliazione è tempestiva (art. 3 cpv. 1), l’assicurazione inizia dall’acquisizione del domicilio o dalla nascita in Svizzera. Il Consiglio federale stabilisce l’inizio dell’assicurazione delle persone menzionate nell’articolo 3 capoverso 3.
 
+<sup>2bis</sup> In caso d’affiliazione tardiva di un figlio, i genitori in solido o il genitore sono tenuti a versare il supplemento di premio, sempre che siano responsabili del ritardo.[^5-1]
+
 <sup>2</sup> In caso d’affiliazione tardiva, l’assicurazione inizia dal giorno dell’affiliazione. L’assicurato deve pagare un supplemento di premio se il ritardo non è giustificabile. Il Consiglio federale ne stabilisce i tassi indicativi, tenendo conto del livello dei premi nel luogo di residenza dell’assicurato e della durata del ritardo. Se il pagamento del supplemento risulta oltremodo gravoso per l’assicurato, l’assicuratore lo riduce, considerate equamente la situazione dell’assicurato e le circostanze del ritardo.
 
 <sup>3</sup> L’assicurazione ha termine quando l’assicurato cessa di essere soggetto all’obbligo d’assicurazione.
+
+[^5-1]: Introdotto dal n. I della LF del 18 mar. 2022 (Esecuzione dell’obbligo di pagare i premi), in vigore dal 1° gen. 2024 ([RU 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [FF 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745),[1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)).
 
 #### Art. 6
 
@@ -999,6 +1003,34 @@ In caso di violazione dell’obbligo di comunicare i dati di cui al capoverso 1,
 
 [^47b-1]: Introdotto dal n. I della LF del 18 giu. 2021 (Misure di contenimento dei costi – Pacchetto 1*a*), in vigore dal 1° gen. 2023 ([RU 2021 837](https://fedlex.data.admin.ch/eli/oc/2021/837); [2022 808](https://fedlex.data.admin.ch/eli/oc/2022/808); [FF 2019 4981](https://fedlex.data.admin.ch/eli/fga/2019/2216)).
 
+#### Art. 47c
+
+**Sorveglianza dei costi**[^47c-1]
+
+<sup>1</sup> Nei settori per i quali devono concludere una convenzione tariffale secondo l’articolo 43 capoverso 4, i fornitori di prestazioni e gli assicuratori o le loro rispettive federazioni prevedono un monitoraggio congiunto dell’evoluzione delle quantità, dei volumi e dei costi, nonché misure correttive in caso di evoluzione non spiegabile delle quantità, dei volumi e dei costi.
+
+<sup>2</sup>
+
+Le misure di cui al capoverso 1 vanno integrate:
+
+- a. in convenzioni tariffali applicabili a livello cantonale; o
+- b. in convenzioni tariffali applicabili in tutta la Svizzera; se concernono strutture tariffali uniformi stabilite a livello nazionale, le misure vanno integrate in convenzioni applicabili in tutta la Svizzera.
+
+<sup>3</sup> Le convenzioni di cui al capoverso 2 sono sottoposte per approvazione all’autorità competente secondo il loro campo d’applicazione. L’autorità di approvazione considera adeguatamente il rischio di un approvvigionamento insufficiente o eccessivo.
+
+<sup>4</sup>
+
+Per ciascun settore rilevante per il tipo di fornitore di prestazioni, le misure di cui al capoverso 1 prevedono almeno:
+
+- a. la sorveglianza dell’evoluzione quantitativa delle diverse posizioni previste per le prestazioni;
+- b. la sorveglianza dell’evoluzione dei costi o volumi fatturati.
+
+<sup>5</sup> Le convenzioni di cui al capoverso 2 indicano i fattori non influenzabili dai fornitori di prestazioni e dagli assicuratori che possono spiegare un aumento delle quantità e dei costi, segnatamente i progressi medico-tecnici, l’evoluzione socio-demografica e gli sviluppi politici. Prevedono regole per correggere gli aumenti ingiustificati delle quantità, dei volumi o dei costi rispetto al periodo indicato nella convenzione.
+
+<sup>6</sup> Tutti i fornitori di prestazioni e gli assicuratori si attengono alle misure convenute secondo il capoverso 1 per il rispettivo settore.
+
+[^47c-1]: Introdotto dal n. I della LF del 30 set. 2022 (Misure di contenimento dei costi – Pacchetto 1*b*), in vigore dal 1° gen. 2024 ([RU 2023 630](https://fedlex.data.admin.ch/eli/oc/2023/630); [FF 2019 4981](https://fedlex.data.admin.ch/eli/fga/2019/2216)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
+
 #### Art. 48
 
 **Convenzioni tariffali con associazioni di medici**
@@ -1110,25 +1142,31 @@ Sentite le competenti commissioni e conformemente ai principi di cui agli artico
   - 2\. un elenco, con tariffa, dei preparati e delle sostanze attive e ausiliarie impiegati per la prescrizione magistrale; la tariffa comprende anche le prestazioni del farmacista;
   - 3\.[^52-1] disposizioni sull’obbligo d’assunzione delle prestazioni e sull’entità della rimunerazione di mezzi e d’apparecchi diagnostici e terapeutici utilizzati secondo gli articoli 25 capoverso 2 lettera b e 25*a* capoversi 1 e 2;
 
-- b. l’UFSP appronta un elenco delle specialità farmaceutiche e dei medicamenti confezionati, con l’indicazione dei prezzi (elenco delle specialità). Tale elenco deve contenere anche i prodotti generici a prezzi più vantaggiosi che possono sostituire i preparati originali.
+- b.[^52-2] l’UFSP appronta un elenco delle specialità farmaceutiche e dei medicamenti confezionati, con l’indicazione dei prezzi (elenco delle specialità).
 
-<sup>2</sup> In materia di infermità congenite (art. 3 cpv. 2 LPGA[^52-2]), sono inoltre assunti i costi dei medicamenti che figurano nel catalogo delle prestazioni dell’assicurazione per l’invalidità secondo l’articolo 14<sup>ter</sup> capoverso 5 della legge federale del 19 giugno 1959[^52-3] sull’assicurazione per l’invalidità, ai prezzi massimi stabiliti in virtù di tale disposizione.[^52-4]
+<sup>2</sup> In materia di infermità congenite (art. 3 cpv. 2 LPGA[^52-3]), sono inoltre assunti i costi dei medicamenti che figurano nel catalogo delle prestazioni dell’assicurazione per l’invalidità secondo l’articolo 14<sup>ter</sup> capoverso 5 della legge federale del 19 giugno 1959[^52-4] sull’assicurazione per l’invalidità, ai prezzi massimi stabiliti in virtù di tale disposizione.[^52-5]
 
-<sup>3</sup> Le analisi, i medicamenti, i mezzi e gli apparecchi diagnostici e terapeutici possono essere fatturati al massimo secondo le tariffe, i prezzi e i tassi di rimunerazione ai sensi del capoverso 1. Il DFI designa le analisi effettuate nel laboratorio dello studio medico per le quali la tariffa può essere stabilita secondo gli articoli 46 e 48. Può inoltre designare i mezzi e gli apparecchi diagnostici e terapeutici di cui al capoverso 1 lettera a numero 3 per i quali può essere convenuta una tariffa secondo l’articolo 46.[^52-5]
+<sup>3</sup> Le analisi, i medicamenti, i mezzi e gli apparecchi diagnostici e terapeutici possono essere fatturati all’assicurazione obbligatoria delle cure medico-sanitarie al massimo secondo le tariffe, i prezzi e i tassi di remunerazione ai sensi del capoverso 1.[^52-6] Il DFI designa le analisi effettuate nel laboratorio dello studio medico per le quali la tariffa può essere stabilita secondo gli articoli 46 e 48. Può inoltre designare i mezzi e gli apparecchi diagnostici e terapeutici di cui al capoverso 1 lettera a numero 3 per i quali può essere convenuta una tariffa secondo l’articolo 46.[^52-7]
 
 [^52-1]: Nuovo testo giusta il n. I della LF del 18 dic. 2020 (Rimunerazione del materiale sanitario), in vigore dal 1° ott. 2021 ([RU 2021 345](https://fedlex.data.admin.ch/eli/oc/2021/345), [FF 2020 4317](https://fedlex.data.admin.ch/eli/fga/2020/1157)). Vedi anche le disp. trans. della mod. del 18 dic. 2020 alla fine del presente testo.
-[^52-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^52-3]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
-[^52-4]: Nuovo testo giusta l’all. n. 4 della LF del 19 giu. 2020 (Ulteriore sviluppo dell’AI), in vigore dal 1° gen. 2022 ([RU 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [FF 2017 2191](https://fedlex.data.admin.ch/eli/fga/2017/544)).
-[^52-5]: Nuovo testo del secondo e terzo per. giusta n. I della LF del 18 dic. 2020 (Rimunerazione del materiale sanitario), in vigore dal 1° ott. 2021 ([RU 2021 345](https://fedlex.data.admin.ch/eli/oc/2021/345); [FF 2020 4317](https://fedlex.data.admin.ch/eli/fga/2020/1157)).
+[^52-2]: Nuovo testo giusta il n. I della LF del 30 set. 2022 (Misure di contenimento dei costi – Pacchetto 1*b*), in vigore dal 1° gen. 2024 ([RU 2023 630](https://fedlex.data.admin.ch/eli/oc/2023/630); [FF 2019 4981](https://fedlex.data.admin.ch/eli/fga/2019/2216)).
+[^52-3]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^52-4]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^52-5]: Nuovo testo giusta l’all. n. 4 della LF del 19 giu. 2020 (Ulteriore sviluppo dell’AI), in vigore dal 1° gen. 2022 ([RU 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [FF 2017 2191](https://fedlex.data.admin.ch/eli/fga/2017/544)).
+[^52-6]: Nuovo testo giusta il n. I della LF del 30 set. 2022 (Misure di contenimento dei costi – Pacchetto 1*b*), in vigore dal 1° gen. 2024 ([RU 2023 630](https://fedlex.data.admin.ch/eli/oc/2023/630); [FF 2019 4981](https://fedlex.data.admin.ch/eli/fga/2019/2216)).
+[^52-7]: Nuovo testo del secondo e terzo per. giusta n. I della LF del 18 dic. 2020 (Rimunerazione del materiale sanitario), in vigore dal 1° ott. 2021 ([RU 2021 345](https://fedlex.data.admin.ch/eli/oc/2021/345); [FF 2020 4317](https://fedlex.data.admin.ch/eli/fga/2020/1157)).
 
 #### Art. 52a
 
 **Diritto di sostituzione**[^52a-1]
 
-Se il medico oppure il chiropratico non esigono esplicitamente la consegna del preparato originale, il farmacista può sostituire preparati originali dell’elenco delle specialità con i prodotti generici di questo stesso elenco a prezzi più vantaggiosi. In questo caso, comunica al medico o al chiropratico che ha fatto la ricetta quale preparato è stato effettivamente fornito.
+<sup>1</sup> Se nell’elenco delle specialità figurano più medicamenti con la stessa composizione di principi attivi, a parità di idoneità medica il farmacista può consegnare all’assicurato il medicamento più vantaggioso sotto il profilo economico, salvo che il medico o il chiropratico abbia prescritto esplicitamente la consegna del preparato originale.
 
-[^52a-1]: Introdotto dal n. I della LF del 24 mar. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2305](https://fedlex.data.admin.ch/eli/oc/2000/365); FF **1999** 687).
+<sup>2</sup> Se sostituisce il medicamento prescritto con uno più vantaggioso, la persona che consegna il medicamento ne informa la persona che l’ha prescritto.
+
+<sup>3</sup> Il Consiglio federale può stabilire condizioni alle quali i medicamenti non sono considerati di pari idoneità medica.
+
+[^52a-1]: Introdotto dal n. I della LF del 24 mar. 2000 ([RU 2000 2305](https://fedlex.data.admin.ch/eli/oc/2000/365); FF **1999** 687). Nuovo testo giusta il n. I della LF del 30 set. 2022 (Misure di contenimento dei costi – Pacchetto 1*b*), in vigore dal 1° gen. 2024 ([RU 2023 630](https://fedlex.data.admin.ch/eli/oc/2023/630); [FF 2019 4981](https://fedlex.data.admin.ch/eli/fga/2019/2216)).
 
 #### Art. 53
 
@@ -1136,9 +1174,11 @@ Se il medico oppure il chiropratico non esigono esplicitamente la consegna del p
 
 <sup>1</sup> Contro le decisioni dei governi cantonali ai sensi degli articoli 39, 45, 46 capoverso 4, 47, 47*b* capoverso 2, 48 capoversi 1–3, 51, 54 e 55 può essere interposto ricorso al Tribunale amministrativo federale.[^53-2]
 
+<sup>1bis</sup> Le organizzazioni degli assicuratori d’importanza nazionale o regionale che, conformemente agli statuti, si dedicano alla tutela degli interessi dei propri membri nell’ambito dell’applicazione della presente legge sono legittimate a ricorrere contro le decisioni prese dai governi cantonali in virtù dell’articolo 39.[^53-3]
+
 <sup>2</sup>
 
-La procedura di ricorso è retta dalla legge del 17 giugno 2005[^53-3] sul Tribunale amministrativo federale e dalla legge federale del 20 dicembre 1968[^53-4] sulla procedura amministrativa (PA). Sono fatte salve le eccezioni seguenti:
+La procedura di ricorso è retta dalla legge del 17 giugno 2005[^53-4] sul Tribunale amministrativo federale e dalla legge federale del 20 dicembre 1968[^53-5] sulla procedura amministrativa (PA). Sono fatte salve le eccezioni seguenti:
 
 - a. nuovi fatti e nuovi mezzi di prova possono essere addotti soltanto se ne dà adito la decisione impugnata; nuove conclusioni non sono ammissibili;
 - b. gli articoli 22*a* e 53 PA non sono applicabili;
@@ -1148,8 +1188,9 @@ La procedura di ricorso è retta dalla legge del 17 giugno 2005[^53-3] sul Tribu
 
 [^53-1]: Nuovo testo giusta il n. I della LF del 21 dic. 2007 (Finanziamento ospedaliero), in vigore dal 1° gen. 2009 ([RU 2008 2049](https://fedlex.data.admin.ch/eli/oc/2008/291); [FF 2004 4903](https://fedlex.data.admin.ch/eli/fga/2004/1024)).
 [^53-2]: Nuovo testo giusta il n. IV della LF del 18 giu. 2021 (Misure di contenimento dei costi – Pacchetto 1*a*), in vigore dal 1° gen. 2023 ([RU 2021 837](https://fedlex.data.admin.ch/eli/oc/2021/837); [2022 808](https://fedlex.data.admin.ch/eli/oc/2022/808); [FF 2019 4981](https://fedlex.data.admin.ch/eli/fga/2019/2216)).
-[^53-3]: [RS 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352)
-[^53-4]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^53-3]: Introdotto dal n. I della LF del 30 set. 2022 (Misure di contenimento dei costi – Pacchetto 1*b*), in vigore dal 1° gen. 2024 ([RU 2023 630](https://fedlex.data.admin.ch/eli/oc/2023/630); [FF 2019 4981](https://fedlex.data.admin.ch/eli/fga/2019/2216)).
+[^53-4]: [RS 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352)
+[^53-5]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
 
 ### Sezione 5: Misure straordinarie destinate a contenere l’evoluzione dei costi
 
@@ -1550,11 +1591,28 @@ I progetti pilota che concernono uno degli ambiti qui appresso possono derogare 
 
 #### Art. 61a
 
-**Riscossione dei premi degli assicurati residenti in uno Stato membro dell’Unione europea, in Islanda o in Norvegia**[^61a-1]
+**Debitori dei premi dei figli**[^61a-1]
+
+<sup>1</sup> I genitori sono gli unici debitori dei premi dei figli fino alla fine del mese in cui questi diventano maggiorenni. I figli non possono essere tenuti responsabili di questi premi nemmeno una volta raggiunta la maggiore età; le esecuzioni avviate nei loro confronti per questo motivo sono nulle.
+
+<sup>2</sup> I genitori sono debitori solidali dei premi.
+
+<sup>3</sup>
+
+Un genitore è unico debitore dei premi se l’altro genitore attesta che:
+
+- a. in virtù di un contratto di mantenimento o di una decisione giudiziaria, è tenuto a pagare all’altro genitore contributi di mantenimento per i figli e che tali contributi comprendono i premi; e
+- b. ha pagato tali contributi di mantenimento.
+
+[^61a-1]: Introdotto dal n. I della LF del 18 mar. 2022 (Esecuzione dell’obbligo di pagare i premi), in vigore dal 1° gen. 2024 ([RU 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [FF 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745),[1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
+
+#### Art. 61b
+
+**Riscossione dei premi degli assicurati residenti in uno Stato membro dell’Unione europea, in Islanda o in Norvegia**[^61b-1]
 
 I premi dei familiari di una persona assicurata in virtù di un’attività lucrativa esercitata in Svizzera o perché percepisce una rendita svizzera o una prestazione dell’assicurazione svizzera contro la disoccupazione sono riscossi presso questa persona.
 
-[^61a-1]: Introdotto dal n. I della LF del 6 ott. 2000 ([RU 2002 858](https://fedlex.data.admin.ch/eli/oc/2002/151); [FF 2000 3537](https://fedlex.data.admin.ch/eli/fga/2000/875)). Nuovo testo giusta il n. I 8 della LF del 14 dic. 2001 relativa alle disposizioni concernenti la libera circolazione delle persone dell’Acc. di emendamento della Conv. istitutiva dell’AELS, in vigore dal 1° giu. 2002 ([RU 2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139); [FF 2001 4435](https://fedlex.data.admin.ch/eli/fga/2001/845)).
+[^61b-1]: Originario art 61*a*. Introdotto dal n. I della LF del 6 ott. 2000 ([RU 2002 858](https://fedlex.data.admin.ch/eli/oc/2002/151); [FF 2000 3537](https://fedlex.data.admin.ch/eli/fga/2000/875)). Nuovo testo giusta il n. I 8 della LF del 14 dic. 2001 relativa alle disposizioni concernenti la libera circolazione delle persone dell’Acc. di emendamento della Conv. istitutiva dell’AELS, in vigore dal 1° giu. 2002 ([RU 2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139); [FF 2001 4435](https://fedlex.data.admin.ch/eli/fga/2001/845)).
 
 #### Art. 62
 
@@ -1593,6 +1651,8 @@ Il Consiglio federale può autorizzare l’esercizio di altre forme di assicuraz
 
 <sup>1</sup> Gli assicurati partecipano ai costi delle prestazioni ottenute.
 
+<sup>1bis</sup> La partecipazione ai costi per i figli è coperta, fino alla fine del mese in cui diventano maggiorenni, esclusivamente dalle persone debitrici dei premi. I figli non possono essere tenuti responsabili di questa partecipazione ai costi nemmeno una volta raggiunta la maggiore età; le esecuzioni avviate nei loro confronti per questo motivo sono nulle.[^64-1]
+
 <sup>2</sup>
 
 La partecipazione ai costi comprende:
@@ -1613,20 +1673,21 @@ Il Consiglio federale può:
 - a. prevedere una partecipazione ai costi più alta per determinate prestazioni;
 - b. ridurre o sopprimere la partecipazione ai costi per cure di lunga durata e per cura di affezioni gravi;
 - c. sopprimere la partecipazione ai costi per assicurazioni con scelta limitata del fornitore di prestazioni ai sensi dell’articolo 41 capoverso 4, se la stessa risulta inappropriata;
-- d.[^64-1] escludere dalla franchigia singole misure di prevenzione. Si tratta di misure attuate nel quadro di programmi di prevenzione in scala nazionale o cantonale.
+- d.[^64-2] escludere dalla franchigia singole misure di prevenzione. Si tratta di misure attuate nel quadro di programmi di prevenzione in scala nazionale o cantonale.
 
 <sup>7</sup>
 
 L’assicuratore non può riscuotere alcuna partecipazione ai costi per:
 
 - a. le prestazioni di cui all’articolo 29 capoverso 2;
-- b. le prestazioni di cui agli articoli 25 e 25*a*, fornite a partire dalla tredicesima settimana di gravidanza, durante il parto e sino a otto settimane dopo il parto.[^64-2]
+- b. le prestazioni di cui agli articoli 25 e 25*a*, fornite a partire dalla tredicesima settimana di gravidanza, durante il parto e sino a otto settimane dopo il parto.[^64-3]
 
-<sup>8</sup> Le partecipazioni ai costi non possono essere assicurate né presso una cassa malati né presso un istituto d’assicurazione privato. È parimenti vietato ad associazioni, fondazioni o altre istituzioni prevedere l’assunzione dei costi derivanti da simili forme di assicurazione. Questo divieto non si applica all’assunzione dei costi in virtù di disposizioni di diritto pubblico federale o cantonale.[^64-3]
+<sup>8</sup> Le partecipazioni ai costi non possono essere assicurate né presso una cassa malati né presso un istituto d’assicurazione privato. È parimenti vietato ad associazioni, fondazioni o altre istituzioni prevedere l’assunzione dei costi derivanti da simili forme di assicurazione. Questo divieto non si applica all’assunzione dei costi in virtù di disposizioni di diritto pubblico federale o cantonale.[^64-4]
 
-[^64-1]: Introdotta dal n. I della LF del 24 mar. 2000, in vigore dal 1° ott. 2000 ([RU 2000 2305](https://fedlex.data.admin.ch/eli/oc/2000/365); FF **1999** 687).
-[^64-2]: Nuovo testo giusta il n. I della LF del 21 giu. 2013, in vigore dal 1° mar. 2014 ([RU 2014 387](https://fedlex.data.admin.ch/eli/oc/2014/56); [FF 2013 2105](https://fedlex.data.admin.ch/eli/fga/2013/418)[2115](https://fedlex.data.admin.ch/eli/fga/2013/420)).
-[^64-3]: Nuovo testo giusta il n. I della LF del 24 mar. 2000, in vigore dal 1° ott. 2000 ([RU 2000 2305](https://fedlex.data.admin.ch/eli/oc/2000/365); FF **1999** 687). Vedi anche le disp. fin. di detta mod. alla fine del presente testo.
+[^64-1]: Introdotto dal n. I della LF del 18 mar. 2022 (Esecuzione dell’obbligo di pagare i premi), in vigore dal 1° gen. 2024 ([RU 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [FF 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745),[1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
+[^64-2]: Introdotta dal n. I della LF del 24 mar. 2000, in vigore dal 1° ott. 2000 ([RU 2000 2305](https://fedlex.data.admin.ch/eli/oc/2000/365); FF **1999** 687).
+[^64-3]: Nuovo testo giusta il n. I della LF del 21 giu. 2013, in vigore dal 1° mar. 2014 ([RU 2014 387](https://fedlex.data.admin.ch/eli/oc/2014/56); [FF 2013 2105](https://fedlex.data.admin.ch/eli/fga/2013/418)[2115](https://fedlex.data.admin.ch/eli/fga/2013/420)).
+[^64-4]: Nuovo testo giusta il n. I della LF del 24 mar. 2000, in vigore dal 1° ott. 2000 ([RU 2000 2305](https://fedlex.data.admin.ch/eli/oc/2000/365); FF **1999** 687). Vedi anche le disp. fin. di detta mod. alla fine del presente testo.
 
 ### Sezione 3*a*: Mancato pagamento dei premi e delle partecipazioni ai costi
 
@@ -1640,25 +1701,37 @@ L’assicuratore non può riscuotere alcuna partecipazione ai costi per:
 
 <sup>1</sup> Se l’assicurato non paga premi o partecipazioni ai costi entro la scadenza prevista, l’assicuratore, dopo almeno un sollecito scritto, deve diffidarlo assegnandogli un termine supplementare di 30 giorni e indicandogli le conseguenze della mora (cpv. 2).
 
+<sup>1bis</sup> Se l’assicurato è minorenne, le disposizioni relative al mancato pagamento dei premi e delle partecipazioni ai costi si applicano ai suoi genitori o al genitore debitore del premio.[^64a-2]
+
 <sup>2</sup> Se, nonostante la diffida, l’assicurato non paga i premi, le partecipazioni ai costi e gli interessi di mora entro il termine assegnato, l’assicuratore deve richiedere l’esecuzione. Il Cantone può esigere che l’assicuratore comunichi all’autorità cantonale competente il nome dei debitori escussi.
 
 <sup>3</sup> L’assicuratore comunica all’autorità cantonale competente il nome degli assicurati interessati nonché, per ogni debitore, l’importo complessivo dei crediti relativi all’assicurazione obbligatoria delle cure medico-sanitarie (premi e partecipazioni ai costi in arretrato, interessi di mora e spese di esecuzione) per i quali, durante il periodo considerato, è stato rilasciato un attestato di carenza di beni o un titolo equivalente. L’assicuratore chiede all’organo di revisione designato dal Cantone di confermare l’esattezza dei dati che ha comunicato al Cantone e trasmette la conferma a quest’ultimo.
 
-<sup>4</sup> Il Cantone assume l’85 per cento dei crediti oggetto della comunicazione di cui al capoverso 3.[^64a-2]
+<sup>4</sup> Il Cantone assume l’85 per cento dei crediti oggetto della comunicazione di cui al capoverso 3.[^64a-3]
 
 <sup>5</sup> L’assicuratore conserva gli attestati di carenza di beni e i titoli equivalenti sino al pagamento integrale dei crediti in arretrato. Non appena l’assicurato ha saldato in tutto o in parte il debito verso l’assicuratore, questi restituisce al Cantone il 50 per cento dell’importo ricevuto dall’assicurato.
 
-<sup>6</sup> In deroga all’articolo 7, l’assicurato in mora non può cambiare assicuratore finché non ha pagato integralmente i premi e le partecipazioni ai costi in arretrato, nonché gli interessi di mora e le spese di esecuzione. È fatto salvo l’articolo 7 capoversi 3 e 4.
+<sup>6</sup> In deroga all’articolo 7, l’assicurato in mora non può cambiare assicuratore finché non sono stati pagati integralmente i premi, le partecipazioni ai costi, gli interessi di mora e le spese di esecuzione in arretrato. I figli non possono cambiare assicuratore se per loro esistono arretrati di questo tipo. Gli assicurati i cui arretrati concernono soltanto i loro figli possono cambiare assicuratore. È fatto salvo l’articolo 7 capoversi 3 e 4.[^64a-4]
 
-<sup>7</sup> Gli assicurati che nonostante l’esecuzione non pagano i premi possono essere registrati dai Cantoni in un elenco accessibile unicamente ai fornitori di prestazioni, ai Comuni e al Cantone interessato. Su notificazione del Cantone, l’assicuratore sospende l’assunzione dei costi delle prestazioni fornite a questi assicurati, salvo nei casi d’urgenza medica, e informa l’autorità cantonale competente della sospensione delle prestazioni e dell’annullamento di tale sospensione dopo il pagamento dei crediti in arretrato da parte degli assicurati.
+<sup>7</sup> Gli assicurati che nonostante l’esecuzione non pagano i premi possono essere registrati dai Cantoni in un elenco accessibile unicamente ai fornitori di prestazioni, ai Comuni e al Cantone interessato. Su notificazione del Cantone, l’assicuratore sospende l’assunzione dei costi delle prestazioni fornite a questi assicurati, salvo nei casi d’urgenza medica, e informa l’autorità cantonale competente della sospensione delle prestazioni e dell’annullamento di tale sospensione dopo il pagamento dei crediti in arretrato da parte degli assicurati. Vi è urgenza medica quando un trattamento non può essere differito. Tale è il caso quando l’assicurato, in assenza di un trattamento immediato, deve temere danni alla salute o la morte, oppure può mettere in pericolo la salute di altre persone.[^64a-5]
 
-<sup>8</sup> Il Consiglio federale stabilisce i compiti dell’organo di revisione e designa i titoli considerati equivalenti all’attestato di carenza di beni. Disciplina le modalità relative alla procedura di diffida e di esecuzione, alla comunicazione dei dati ai Cantoni da parte degli assicuratori, nonché ai versamenti dei Cantoni agli assicuratori.
+<sup>7bis</sup> Gli assicurati diventati maggiorenni possono cambiare assicuratore alla fine dell’anno civile, in deroga al capoverso 6, anche se vi sono premi, partecipazioni ai costi, interessi di mora o spese di esecuzione in arretrato risalenti al periodo della loro minore età. Ai familiari tenuti ad assicurarsi che risiedono in uno Stato membro dell’Unione europea, in Islanda o in Norvegia si applica l’articolo 4*a*.[^64a-6]
 
-<sup>9</sup> Il Consiglio federale emana disposizioni relative al mancato pagamento dei premi e delle partecipazioni ai costi per le persone tenute ad assicurarsi residenti in uno Stato membro dell’Unione europea, in Islanda o in Norvegia. Se il diritto di tale Stato permette all’assicuratore di recuperare i premi e le partecipazioni ai costi non pagati, il Consiglio federale può obbligare i Cantoni ad assumere l’85 per cento dei crediti oggetto della comunicazione di cui al capoverso 3. Se il diritto di tale Stato non lo permette, il Consiglio federale può accordare agli assicuratori il diritto di sospendere l’assunzione dei costi delle prestazioni.[^64a-3]
+<sup>7ter</sup> I Cantoni e gli assicuratori scambiano i loro dati sulla base di uno standard uniforme. Il Consiglio federale disciplina le modalità dopo aver sentito i Cantoni e gli assicuratori.[^64a-7]
+
+<sup>8</sup> Il Consiglio federale stabilisce i compiti dell’organo di revisione e designa i titoli considerati equivalenti all’attestato di carenza di beni. Disciplina inoltre le spese di sollecito e di diffida, le modalità relative alla procedura di diffida e di esecuzione e le modalità di pagamento dei Cantoni agli assicuratori.[^64a-8]
+
+<sup>9</sup> Il Consiglio federale emana disposizioni relative al mancato pagamento dei premi e delle partecipazioni ai costi per le persone tenute ad assicurarsi residenti in uno Stato membro dell’Unione europea, in Islanda o in Norvegia. Se il diritto di tale Stato permette all’assicuratore di recuperare i premi e le partecipazioni ai costi non pagati, il Consiglio federale può obbligare i Cantoni ad assumere l’85 per cento dei crediti oggetto della comunicazione di cui al capoverso 3. Se il diritto di tale Stato non lo permette, il Consiglio federale può accordare agli assicuratori il diritto di sospendere l’assunzione dei costi delle prestazioni.[^64a-9]
 
 [^64a-1]: Nuovo testo giusta il n. I della LF del 19 mar. 2010, in vigore dal 1° gen. 2012 ([RU 2011 3523](https://fedlex.data.admin.ch/eli/oc/2011/476); [FF 2009 5757](https://fedlex.data.admin.ch/eli/fga/2009/1165)[5771](https://fedlex.data.admin.ch/eli/fga/2009/1167)).
-[^64a-2]: Vedi anche la disp. trans. della mod. del 19 mar. 2010 alla fine del presente testo.
-[^64a-3]: Secondo e terzo per. introdotti dal n. I della LF del 30 set. 2016 (Adeguamento delle disposizioni con pertinenza internazionale), in vigore dal 1° gen. 2018 ([RU 2017 6717](https://fedlex.data.admin.ch/eli/oc/2017/748); [FF 2016 1](https://fedlex.data.admin.ch/eli/fga/2016/1)).
+[^64a-2]: Introdotto dal n. I della LF del 18 mar. 2022 (Esecuzione dell’obbligo di pagare i premi), in vigore dal 1° gen. 2024 ([RU 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [FF 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745),[1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)).
+[^64a-3]: Vedi anche la disp. trans. della mod. del 19 mar. 2010 alla fine del presente testo.
+[^64a-4]: Nuovo testo giusta il n. I della LF del 18 mar. 2022 (Esecuzione dell’obbligo di pagare i premi), in vigore dal 1° gen. 2024 (RU **2003** 678; [FF 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745),[1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)).
+[^64a-5]: Terzo e quarto per. introdotti dal n. I della LF del 18 mar. 2022 (Esecuzione dell’obbligo di pagare i premi), in vigore dal 1° gen. 2024 ([RU 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [FF 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745),[1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)).
+[^64a-6]: Introdotto dal n. I della LF del 18 mar. 2022 (Esecuzione dell’obbligo di pagare i premi), in vigore dal 1° gen. 2024 ([RU 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [FF 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745),[1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)).
+[^64a-7]: Introdotto dal n. I della LF del 18 mar. 2022 (Esecuzione dell’obbligo di pagare i premi), in vigore dal 1° gen. 2024 ([RU 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [FF 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745),[1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)).
+[^64a-8]: Nuovo testo del secondo per. giusta il n. I della LF del 18 mar. 2022 (Esecuzione dell’obbligo di pagare i premi), in vigore dal 1° gen. 2024 ([RU 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [FF 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745),[1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)).
+[^64a-9]: Secondo e terzo per. introdotti dal n. I della LF del 30 set. 2016 (Adeguamento delle disposizioni con pertinenza internazionale), in vigore dal 1° gen. 2018 ([RU 2017 6717](https://fedlex.data.admin.ch/eli/oc/2017/748); [FF 2016 1](https://fedlex.data.admin.ch/eli/fga/2016/1)).
 
 ### Sezione 4: Riduzione dei premi mediante sussidi dell’ente pubblico
 
@@ -2541,6 +2614,26 @@ Per un anno dall’entrata in vigore della modifica del 18 dicembre 2020, la rim
 [^u19-1]: [RU 2021 837](https://fedlex.data.admin.ch/eli/oc/2021/837); [FF 2019 4981](https://fedlex.data.admin.ch/eli/fga/2019/2216)
 
 L’organizzazione di cui all’articolo 47*a* è istituita entro due anni dall’entrata in vigore della modifica del 18 giugno 2021.
+
+## Disposizioni transitorie della modifica del 18 marzo 2022
+
+[^u20-1]
+
+[^u20-1]: [RU 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [FF 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745), [1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)
+
+<sup>1</sup> ...[^u20-2]
+
+<sup>2</sup> Gli articoli 61*a* e 64 capoverso 1<sup>bis</sup> si applicano agli assicurati ancora minorenni al momento dell’entrata in vigore della modifica del 18 marzo 2022. Si applicano anche ai premi, alle partecipazioni ai costi, agli interessi di mora e alle spese di esecuzione di questi assicurati non ancora pagati al momento dell’entrata in vigore.
+
+[^u20-2]: In vigore dal 1° lug. 2025.
+
+## Disposizione transitoria della modifica del 30 settembre 2022
+
+[^u21-1]
+
+[^u21-1]: [RU 2023 630](https://fedlex.data.admin.ch/eli/oc/2023/630); [FF 2019 4981](https://fedlex.data.admin.ch/eli/fga/2019/2216)
+
+Le convenzioni concernenti il monitoraggio dei costi e le misure correttive di cui all’articolo 47*c* capoverso 2 vanno sottoposte per approvazione all’autorità competente entro due anni dall’entrata in vigore della modifica del 30 settembre 2022.
 
 Allegato
 

@@ -4,11 +4,11 @@ title: "Loi fédérale du 18 mars 1994 sur l'assurance-maladie (LAMal)"
 short: LAMal
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328"
 language: fr
-version: 2023-09-01
+version: 2024-01-01
 adopted: 1994-03-18
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-1995-1328_1328_1328-20230901-fr-xml-11.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-1995-1328_1328_1328-20240101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20230901/fr"
 
 (LAMal)
 
-du 18 mars 1994 (État le 1<sup>er</sup> septembre 2023)
+du 18 mars 1994 (État le 1<sup>er</sup> janvier 2024)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -144,7 +144,11 @@ Sont assurées par le même assureur:
 
 <sup>2</sup> En cas d’affiliation tardive, l’assurance déploie ses effets dès l’affiliation. L’assuré doit verser un supplément de prime si le retard n’est pas excusable. Le Conseil fédéral fixe, à cette fin, des taux indicatifs en tenant compte du niveau des primes au lieu de résidence de l’assuré et de la durée du retard. Si le paiement du supplément de prime met l’assuré dans la gêne, l’assureur réduit ce montant en tenant compte équitablement de la situation de l’assuré et des circonstances du retard.
 
+<sup>2bis</sup> En cas d’affiliation tardive d’un enfant, le supplément de prime est dû par les parents solidairement, ou par un parent, pour autant qu’ils soient responsables du retard.[^5-1]
+
 <sup>3</sup> La couverture d’assurance prend fin lorsque l’assuré cesse d’être soumis à l’obligation de s’assurer.
+
+[^5-1]: Introduit par le ch. I de la LF du 18 mars 2022 (Exécution de l’obligation de payer les primes), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [FF 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745), [1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)).
 
 #### Art. 6
 
@@ -1011,6 +1015,34 @@ En cas de manquement à l’obligation de communiquer les données prévue à l�
 
 [^47b-1]: Introduit par le ch. I de la LF du 18 juin 2021 (Mesure visant à freiner la hausse des coûts, volet 1*a*), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 837](https://fedlex.data.admin.ch/eli/oc/2021/837); [2022 808](https://fedlex.data.admin.ch/eli/oc/2022/808); [FF 2019 5765](https://fedlex.data.admin.ch/eli/fga/2019/2216)).
 
+#### Art. 47c
+
+**Surveillance des coûts**[^47c-1]
+
+<sup>1</sup> Les assureurs et les fournisseurs de prestations, ou leurs fédérations respectives prévoient, dans les domaines pour lesquels ils doivent conclure une convention tarifaire conformément à l’art. 43, al. 4, un monitorage commun de l’évolution des quantités, des volumes et des coûts ainsi que des mesures de correction en cas d’évolution inexplicable des quantités, des volumes et des coûts.
+
+<sup>2</sup>
+
+Les mesures visées à l’al. 1 doivent répondre à l’une des conditions suivantes:
+
+- a. être intégrées dans des conventions tarifaires dont la validité s’étend au territoire cantonal;
+- b. être intégrées dans des conventions tarifaires dont la validité s’étend à toute la Suisse; si les mesures concernent des structures tarifaires uniformes fixées sur le plan suisse, elles doivent être définies dans des conventions valables pour toute la Suisse.
+
+<sup>3</sup> Les conventions visées à l’al. 2 doivent être soumises pour approbation à l’autorité d’approbation compétente selon l’étendue de leur validité. L’autorité d’approbation tient compte de manière appropriée de la menace d’une insuffisance ou d’un excédent de l’offre.
+
+<sup>4</sup>
+
+Les mesures visées à l’al. 1 doivent au moins prévoir, pour chaque domaine pertinent pour la catégorie de fournisseurs de prestations concernée:
+
+- a. une surveillance de l’évolution quantitative des diverses positions prévues pour les prestations;
+- b. une surveillance de l’évolution des coûts facturés ou des volumes.
+
+<sup>5</sup> Les conventions visées à l’al. 2 définissent les facteurs qui peuvent expliquer une augmentation des quantités et des coûts, mais qui échappent à l’influence des fournisseurs de prestations et des assureurs, en particulier le progrès médical et technique et les développements sociodémographiques ou politiques. Elles doivent prévoir des règles correctrices en cas d’augmentation injustifiée des quantités et des coûts ou des volumes par rapport à une période définie dans la convention.
+
+<sup>6</sup> Tous les fournisseurs de prestations et tous les assureurs sont tenus de respecter les mesures convenues conformément à l’al. 1 pour le domaine en question.
+
+[^47c-1]: Introduit par le ch. I de la LF du 30 sept. 2022 (Mesures visant à freiner la hausse des coûts, volet 1*b*), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 630](https://fedlex.data.admin.ch/eli/oc/2023/630); [FF 2019 5765](https://fedlex.data.admin.ch/eli/fga/2019/2216)). Voir aussi la disp. trans. de cette mod. à la fin du texte.
+
 #### Art. 48
 
 **Conventions tarifaires avec les associations de médecins**
@@ -1122,26 +1154,32 @@ Après avoir consulté les commissions compétentes et conformément aux princip
   - 2\. une liste avec tarif des produits et des substances actives et auxiliaires employés pour la prescription magistrale; le tarif comprend aussi les prestations du pharmacien;
   - 3\.[^52-1] des dispositions sur l’obligation de prise en charge et l’étendue de la rémunération des moyens et appareils diagnostiques ou thérapeutiques utilisés conformément aux art. 25, al. 2, let. b, et 25*a*, al. 1 et 2;
 
-- b. l’OFSP établit une liste, avec prix, des préparations pharmaceutiques et des médicaments confectionnés (liste des spécialités). Celle-ci doit également comprendre les génériques meilleur marché qui sont interchangeables avec les préparations originales.
+- b.[^52-2] l’OFSP établit une liste, avec prix, des préparations pharmaceutiques et des médicaments confectionnés (liste des spécialités).
 
-<sup>2</sup> Pour les infirmités congénitales (art. 3, al. 2, LPGA[^52-2]), les coûts des médicaments inclus dans le catalogue des prestations de l’assurance-invalidité en vertu de l’art. 14<sup>ter</sup>, al. 5, de la loi fédérale du 19 juin 1959 sur l’assurance-invalidité[^52-3] sont également pris en charge aux prix maximaux fixés sur la base de cette disposition.[^52-4]
+<sup>2</sup> Pour les infirmités congénitales (art. 3, al. 2, LPGA[^52-3]), les coûts des médicaments inclus dans le catalogue des prestations de l’assurance-invalidité en vertu de l’art. 14<sup>ter</sup>, al. 5, de la loi fédérale du 19 juin 1959 sur l’assurance-invalidité[^52-4] sont également pris en charge aux prix maximaux fixés sur la base de cette disposition.[^52-5]
 
-<sup>3</sup> Les analyses, médicaments, moyens et appareils diagnostiques ou thérapeutiques peuvent être facturés au plus d’après les tarifs, prix et taux de rémunération au sens de l’al. 1. Le DFI désigne les analyses effectuées dans le laboratoire du cabinet médical pour lesquelles le tarif peut être fixé conformément aux art. 46 et 48.[^52-5] Il peut également désigner les moyens et appareils diagnostiques ou thérapeutiques visés à l’al. 1, let. a, ch. 3, pour lesquels un tarif peut être convenu conformément à l’art. 46.[^52-6]
+<sup>3</sup> Les analyses, les médicaments et les moyens et appareils diagnostiques ou thérapeutiques ne peuvent être facturés à l’assurance obligatoire des soins qu’au plus d’après les tarifs, prix et taux de rémunération au sens de l’al. 1.[^52-6] Le DFI désigne les analyses effectuées dans le laboratoire du cabinet médical pour lesquelles le tarif peut être fixé conformément aux art. 46 et 48.[^52-7] Il peut également désigner les moyens et appareils diagnostiques ou thérapeutiques visés à l’al. 1, let. a, ch. 3, pour lesquels un tarif peut être convenu conformément à l’art. 46.[^52-8]
 
 [^52-1]: Nouvelle teneur selon le ch. I de la LF du 18 déc. 2020 (Rémunération du matériel de soins), en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2021 345](https://fedlex.data.admin.ch/eli/oc/2021/345); [FF 2020 4695](https://fedlex.data.admin.ch/eli/fga/2020/1157)). Voir aussi la disp. trans. de la mod. du 18 déc. 2020 à la fin du texte.
-[^52-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^52-3]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
-[^52-4]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 19 juin 2020 (Développement continu de l’AI), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [FF 2017 2363](https://fedlex.data.admin.ch/eli/fga/2017/544)).
-[^52-5]: Nouvelle teneur de la phrase selon le ch. I de la LF du 18 déc. 2020 (Rémunération du matériel de soins), en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2021 345](https://fedlex.data.admin.ch/eli/oc/2021/345); [FF 2020 4695](https://fedlex.data.admin.ch/eli/fga/2020/1157)).
-[^52-6]: Phrase introduite par le ch. I de la LF du 18 déc. 2020 (Rémunération du matériel de soins), en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2021 345](https://fedlex.data.admin.ch/eli/oc/2021/345); [FF 2020 4695](https://fedlex.data.admin.ch/eli/fga/2020/1157)).
+[^52-2]: Nouvelle teneur selon le ch. I de la LF du 30 sept. 2022 (Mesures visant à freiner la hausse des coûts, volet 1*b*), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 630](https://fedlex.data.admin.ch/eli/oc/2023/630); [FF 2019 5765](https://fedlex.data.admin.ch/eli/fga/2019/2216)).
+[^52-3]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^52-4]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^52-5]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 19 juin 2020 (Développement continu de l’AI), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [FF 2017 2363](https://fedlex.data.admin.ch/eli/fga/2017/544)).
+[^52-6]: Nouvelle teneur selon le ch. I de la LF du 30 sept. 2022 (Mesures visant à freiner la hausse des coûts, volet 1*b*), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 630](https://fedlex.data.admin.ch/eli/oc/2023/630); [FF 2019 5765](https://fedlex.data.admin.ch/eli/fga/2019/2216)).
+[^52-7]: Nouvelle teneur de la phrase selon le ch. I de la LF du 18 déc. 2020 (Rémunération du matériel de soins), en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2021 345](https://fedlex.data.admin.ch/eli/oc/2021/345); [FF 2020 4695](https://fedlex.data.admin.ch/eli/fga/2020/1157)).
+[^52-8]: Phrase introduite par le ch. I de la LF du 18 déc. 2020 (Rémunération du matériel de soins), en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2021 345](https://fedlex.data.admin.ch/eli/oc/2021/345); [FF 2020 4695](https://fedlex.data.admin.ch/eli/fga/2020/1157)).
 
 #### Art. 52a
 
 **Droit de substitution**[^52a-1]
 
-Le pharmacien peut remplacer des préparations originales de la liste des spécialités par des génériques meilleur marché de cette liste, à moins que le médecin ou le chiropraticien n’exige expressément la délivrance d’une préparation originale. Il informe la personne qui a prescrit la médication de la préparation qu’il a délivrée.
+<sup>1</sup> Lorsque plusieurs médicaments ayant la même composition de substances actives sont admis dans la liste des spécialités, les pharmaciens peuvent remettre un médicament dont le prix est plus avantageux, pour autant qu’il soit tout aussi adéquat du point de vue médical pour l’assuré, à moins que le médecin ou le chiropraticien n’exige expressément la délivrance d’une préparation originale.
 
-[^52a-1]: Introduit par le ch. I de la LF du 24 mars 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2305](https://fedlex.data.admin.ch/eli/oc/2000/365); FF **1999** 727).
+<sup>2</sup> Si la personne qui remet le médicament remplace le médicament prescrit par un médicament plus avantageux, elle en informe l’auteur de la prescription.
+
+<sup>3</sup> Le Conseil fédéral peut fixer les conditions auxquelles les médicaments ne sont pas considérés comme tout aussi adéquats du point de vue médical.
+
+[^52a-1]: Introduit par le ch. I de la LF du 24 mars 2000 ([RO 2000 2305](https://fedlex.data.admin.ch/eli/oc/2000/365); FF **1999** 727). Nouvelle teneur selon le ch. I de la LF du 30 sept. 2022 (Mesures visant à freiner la hausse des coûts, volet 1*b*), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 630](https://fedlex.data.admin.ch/eli/oc/2023/630); [FF 2019 5765](https://fedlex.data.admin.ch/eli/fga/2019/2216)).
 
 #### Art. 53
 
@@ -1149,9 +1187,11 @@ Le pharmacien peut remplacer des préparations originales de la liste des spéci
 
 <sup>1</sup> Les décisions des gouvernements cantonaux visées aux art. 39, 45, 46, al. 4, 47, 47*b*, al. 2, 48, al. 1 à 3, 51, 54 et 55 peuvent faire l’objet d’un recours au Tribunal administratif fédéral.[^53-2]
 
+<sup>1bis</sup> Les organisations d’assureurs d’importance nationale ou régionale qui, conformément à leurs statuts, ont pour but de défendre les intérêts de leurs membres dans le cadre de l’application de la présente loi, ont qualité pour recourir contre les décisions prises par les gouvernements cantonaux en vertu de l’art. 39.[^53-3]
+
 <sup>2</sup>
 
-La procédure de recours est régie par la loi du 17 juin 2005 sur le Tribunal administratif fédéral[^53-3] et la loi fédérale du 20 décembre 1968 sur la procédure administrative (PA)[^53-4]. Les exceptions suivantes sont réservées:
+La procédure de recours est régie par la loi du 17 juin 2005 sur le Tribunal administratif fédéral[^53-4] et la loi fédérale du 20 décembre 1968 sur la procédure administrative (PA)[^53-5]. Les exceptions suivantes sont réservées:
 
 - a. les preuves et faits nouveaux ne peuvent être présentés que s’ils résultent de l’acte attaqué; toute conclusion nouvelle est irrecevable;
 - b. les art. 22*a* et 53 PA ne sont pas applicables;
@@ -1161,8 +1201,9 @@ La procédure de recours est régie par la loi du 17 juin 2005 sur le Tribunal a
 
 [^53-1]: Nouvelle teneur selon le ch. I de la LF du 21 déc. 2007 (Financement hospitalier), en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 2049](https://fedlex.data.admin.ch/eli/oc/2008/291); [FF 2004 5207](https://fedlex.data.admin.ch/eli/fga/2004/1024)).
 [^53-2]: Nouvelle teneur selon le ch. IV de la LF du 18 juin 2021 (Mesure visant à freiner la hausse des coûts, volet 1*a*), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 837](https://fedlex.data.admin.ch/eli/oc/2021/837); [2022 808](https://fedlex.data.admin.ch/eli/oc/2022/808); [FF 2019 5765](https://fedlex.data.admin.ch/eli/fga/2019/2216)).
-[^53-3]: [RS 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352)
-[^53-4]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^53-3]: Introduit par le ch. I de la LF du 30 sept. 2022 (Mesures visant à freiner la hausse des coûts, volet 1*b*), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 630](https://fedlex.data.admin.ch/eli/oc/2023/630); [FF 2019 5765](https://fedlex.data.admin.ch/eli/fga/2019/2216)).
+[^53-4]: [RS 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352)
+[^53-5]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
 
 ### Section 5 Mesures extraordinaires de maîtrise des coûts
 
@@ -1563,11 +1604,28 @@ Les projets pilotes qui concernent l’un des domaines suivants peuvent déroger
 
 #### Art. 61a
 
-**Prélèvement des primes des assurés qui résident dans un État membre de l’Union européenne, en Islande ou en Norvège**[^61a-1]
+**Débiteur de prime pour les enfants**[^61a-1]
+
+<sup>1</sup> Les parents sont exclusivement débiteurs des primes de leur enfant jusqu’à la fin du mois où celui-ci devient majeur. L’enfant ne peut être tenu responsable de ces primes même après avoir atteint l’âge de la majorité; toute poursuite introduite contre lui pour ce motif est nulle.
+
+<sup>2</sup> Les parents sont débiteurs des primes de manière solidaire.
+
+<sup>3</sup>
+
+Un parent est seul débiteur des primes si l’autre parent atteste que:
+
+- a. en vertu d’une convention d’entretien ou d’une décision judiciaire, il est tenu de payer à l’autre parent des contributions d’entretien pour l’enfant qui englobent les primes, et
+- b. il a payé les contributions dues.
+
+[^61a-1]: Introduit par le ch. I de la LF du 18 mars 2022 (Exécution de l’obligation de payer les primes), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [FF 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745), [1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)). Voir aussi les disp. trans. de cette mod. à la fin du texte.
+
+#### Art. 61b
+
+**Prélèvement des primes des assurés qui résident dans un État membre de l’Union européenne, en Islande ou en Norvège**[^61b-1]
 
 Les primes des membres de la famille d’une personne qui est assurée parce qu’elle exerce une activité lucrative en Suisse, parce qu’elle touche une rente suisse ou parce qu’elle perçoit une prestation de l’assurance-chômage suisse sont prélevées auprès de ladite personne.
 
-[^61a-1]: Introduit par le ch. I de la LF du 6 oct. 2000 ([RO 2002 858](https://fedlex.data.admin.ch/eli/oc/2002/151); [FF 2000 3751](https://fedlex.data.admin.ch/eli/fga/2000/875)). Nouvelle teneur selon le ch. I 8 de la LF du 14 déc. 2001 relative aux disp. concernant la libre circulation des personnes de l’Ac. amendant la Conv. instituant l’AELE, en vigueur depuis le 1<sup>er</sup> juin 2002 ([RO 2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139); [FF 2001 4729](https://fedlex.data.admin.ch/eli/fga/2001/845)).
+[^61b-1]: Anciennement art. 61*a*. Introduit par le ch. I de la LF du 6 oct. 2000 ([RO 2002 858](https://fedlex.data.admin.ch/eli/oc/2002/151); [FF 2000 3751](https://fedlex.data.admin.ch/eli/fga/2000/875)). Nouvelle teneur selon le ch. I 8 de la LF du 14 déc. 2001 relative aux disp. concernant la libre circulation des personnes de l’Ac. amendant la Conv. instituant l’AELE, en vigueur depuis le 1<sup>er</sup> juin 2002 ([RO 2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139); [FF 2001 4729](https://fedlex.data.admin.ch/eli/fga/2001/845)).
 
 #### Art. 62
 
@@ -1606,6 +1664,8 @@ Le Conseil fédéral peut autoriser la pratique d’autres formes d’assurance,
 
 <sup>1</sup> Les assurés participent aux coûts des prestations dont ils bénéficient.
 
+<sup>1bis</sup> La participation aux coûts pour l’enfant est exclusivement couverte, jusqu’à la fin du mois où il devient majeur, par les personnes débitrices des primes. L’enfant ne peut être tenu responsable de cette participation aux coûts même après avoir atteint l’âge de la majorité; toute poursuite introduite contre lui pour ce motif est nulle.[^64-1]
+
 <sup>2</sup>
 
 Leur participation comprend:
@@ -1626,20 +1686,21 @@ Le Conseil fédéral peut:
 - a. prévoir une participation aux coûts plus élevée pour certaines prestations;
 - b. réduire ou supprimer la participation aux coûts des traitements de longue durée et du traitement de maladies graves;
 - c. supprimer la participation aux coûts pour une assurance impliquant un choix limité d’après l’art. 41, al. 4, lorsque cette participation se révèle inappropriée;
-- d.[^64-1] supprimer la franchise pour certaines mesures de prévention exécutées dans le cadre de programmes organisés au niveau national ou cantonal
+- d.[^64-2] supprimer la franchise pour certaines mesures de prévention exécutées dans le cadre de programmes organisés au niveau national ou cantonal
 
 <sup>7</sup>
 
 L’assureur ne peut prélever aucune participation aux coûts des prestations suivantes:
 
 - a. prestations visées à l’art. 29, al. 2;
-- b. prestations visées aux art. 25 et 25*a* qui sont fournies à partir de la 13<sup>e</sup> semaine de grossesse, pendant l’accouchement, et jusqu’à huit semaines après l’accouchement.[^64-2]
+- b. prestations visées aux art. 25 et 25*a* qui sont fournies à partir de la 13<sup>e</sup> semaine de grossesse, pendant l’accouchement, et jusqu’à huit semaines après l’accouchement.[^64-3]
 
-<sup>8</sup> La participation aux coûts ne peut être assurée ni par une caisse-maladie, ni par une institution d’assurance privée. Il est également interdit aux associations, aux fondations ou à d’autres institutions de prévoir la prise en charge de ces coûts. Les dispositions de droit public de la Confédération et des cantons sont réservées.[^64-3]
+<sup>8</sup> La participation aux coûts ne peut être assurée ni par une caisse-maladie, ni par une institution d’assurance privée. Il est également interdit aux associations, aux fondations ou à d’autres institutions de prévoir la prise en charge de ces coûts. Les dispositions de droit public de la Confédération et des cantons sont réservées.[^64-4]
 
-[^64-1]: Introduite par le ch. I de la LF du 24 mars 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2305](https://fedlex.data.admin.ch/eli/oc/2000/365); FF **1999** 727).
-[^64-2]: Nouvelle teneur selon le ch. I de la LF du 21 juin 2013, en vigueur depuis le 1<sup>er</sup> mars 2014 ([RO 2014 387](https://fedlex.data.admin.ch/eli/oc/2014/56); [FF 2013 2191](https://fedlex.data.admin.ch/eli/fga/2013/418)[2201](https://fedlex.data.admin.ch/eli/fga/2013/420))
-[^64-3]: Introduit par le ch. I de la LF du 24 mars 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2305](https://fedlex.data.admin.ch/eli/oc/2000/365); FF **1999** 727). Voir aussi l’al. 1 des disp. fin. de cette mod. à la fin du texte.
+[^64-1]: Introduit par le ch. I de la LF du 18 mars 2022 (Exécution de l’obligation de payer les primes), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [FF 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745), [1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)). Voir aussi les disp. trans. de cette mod. à la fin du texte.
+[^64-2]: Introduite par le ch. I de la LF du 24 mars 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2305](https://fedlex.data.admin.ch/eli/oc/2000/365); FF **1999** 727).
+[^64-3]: Nouvelle teneur selon le ch. I de la LF du 21 juin 2013, en vigueur depuis le 1<sup>er</sup> mars 2014 ([RO 2014 387](https://fedlex.data.admin.ch/eli/oc/2014/56); [FF 2013 2191](https://fedlex.data.admin.ch/eli/fga/2013/418)[2201](https://fedlex.data.admin.ch/eli/fga/2013/420))
+[^64-4]: Introduit par le ch. I de la LF du 24 mars 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2305](https://fedlex.data.admin.ch/eli/oc/2000/365); FF **1999** 727). Voir aussi l’al. 1 des disp. fin. de cette mod. à la fin du texte.
 
 ### Section 3*a* Non-paiement des primes et des participations aux coûts
 
@@ -1653,25 +1714,37 @@ L’assureur ne peut prélever aucune participation aux coûts des prestations s
 
 <sup>1</sup> Lorsque l’assuré n’a pas payé des primes ou des participations aux coûts échues, l’assureur lui envoie une sommation, précédée d’au moins un rappel écrit; il lui impartit un délai de 30 jours et l’informe des conséquences d’un retard de paiement (al. 2).
 
+<sup>1bis</sup> Si l’assuré est mineur, les dispositions concernant le non-paiement des primes et des participations aux coûts s’appliquent à ses parents ou au parent débiteur des primes.[^64a-2]
+
 <sup>2</sup> Si, malgré la sommation, l’assuré ne paie pas dans le délai imparti les primes, les participations aux coûts et les intérêts moratoires dus, l’assureur doit engager des poursuites. Le canton peut exiger que l’assureur annonce à l’autorité cantonale compétente les débiteurs qui font l’objet de poursuites.
 
 <sup>3</sup> L’assureur annonce à l’autorité cantonale compétente les débiteurs concernés et, pour chacun, le montant total des créances relevant de l’assurance obligatoire des soins (primes et participations aux coûts arriérées, intérêts moratoires et frais de poursuite) pour lesquelles un acte de défaut de biens ou un titre équivalent a été délivré durant la période considérée. Il demande à l’organe de contrôle désigné par le canton d’attester l’exactitude des données communiquées et transmet cette attestation au canton.
 
-<sup>4</sup> Le canton prend en charge 85 % des créances ayant fait l’objet de l’annonce prévue à l’al. 3.[^64a-2]
+<sup>4</sup> Le canton prend en charge 85 % des créances ayant fait l’objet de l’annonce prévue à l’al. 3.[^64a-3]
 
 <sup>5</sup> L’assureur conserve les actes de défaut de biens et les titres équivalents jusqu’au paiement intégral des créances arriérées. Dès que l’assuré a payé tout ou partie de sa dette à l’assureur, celui-ci rétrocède au canton 50 % du montant versé par l’assuré.
 
-<sup>6</sup> En dérogation à l’art. 7, l’assuré en retard de paiement ne peut pas changer d’assureur tant qu’il n’a pas payé intégralement les primes et les participations aux coûts arriérées ainsi que les intérêts moratoires et les frais de poursuite. L’art. 7, al. 3 et 4, est réservé.
+<sup>6</sup> En dérogation à l’art. 7, l’assuré en retard de paiement ne peut pas changer d’assureur tant que ses arriérés de primes, de participations aux coûts, d’intérêts moratoires et de frais de poursuite ne sont pas payés intégralement. Les enfants ne peuvent pas changer d’assureur s’il existe pour eux de tels arriérés. Les assurés qui n’ont des arriérés que pour leurs enfants peuvent changer d’assureur. L’art. 7, al. 3 et 4, est réservé.[^64a-4]
 
-<sup>7</sup> Les cantons peuvent tenir une liste des assurés qui ne paient pas leurs primes malgré les poursuites, liste à laquelle n’ont accès que les fournisseurs de prestations, la commune et le canton. Sur notification du canton, l’assureur suspend la prise en charge des prestations fournies à ces assurés, à l’exception de celles relevant de la médecine d’urgence, et avise l’autorité cantonale compétente de la suspension de sa prise en charge et, lorsque les assurés ont acquitté leurs créances, de l’annulation de cette suspension.
+<sup>7</sup> Les cantons peuvent tenir une liste des assurés qui ne paient pas leurs primes malgré les poursuites, liste à laquelle n’ont accès que les fournisseurs de prestations, la commune et le canton. Sur notification du canton, l’assureur suspend la prise en charge des prestations fournies à ces assurés, à l’exception de celles relevant de la médecine d’urgence, et avise l’autorité cantonale compétente de la suspension de sa prise en charge et, lorsque les assurés ont acquitté leurs créances, de l’annulation de cette suspension. Une prestation relevant de la médecine d’urgence consiste en une prestation qui ne peut pas être repoussée. C’est le cas lorsque l’assuré, en l’absence d’un traitement immédiat, doit craindre une atteinte à la santé, voire la mort, ou qu’il peut mettre en danger la santé d’autres personnes.[^64a-5]
 
-<sup>8</sup> Le Conseil fédéral règle les tâches de l’organe de révision et désigne les titres jugés équivalents à un acte de défaut de biens. Il règle également les modalités de la procédure de sommation et de poursuite ainsi que les modalités de transmission des données des assureurs aux cantons et des versements des cantons aux assureurs.
+<sup>7bis</sup> Les assurés qui deviennent majeurs peuvent changer d’assureur à la fin de l’année civile en dérogation à l’al. 6 même si des arriérés de primes et de participations aux coûts, des intérêts moratoires et des frais de poursuite datant de la période de leur minorité sont impayés. Pour les membres de la famille tenus de s’assurer qui résident dans un État membre de l’Union européenne, en Islande ou en Norvège, l’art. 4*a* s’applique.[^64a-6]
 
-<sup>9</sup> Le Conseil fédéral édicte des dispositions sur le non-paiement des primes et des participations aux coûts des personnes tenues de s’assurer qui résident dans un État membre de l’Union européenne, en Islande ou en Norvège. Si le droit de l’État concerné permet à l’assureur de recouvrer les primes et participations aux coûts impayées, le Conseil fédéral peut obliger les cantons à prendre en charge 85 % des créances ayant fait l’objet de l’annonce visée à l’al. 3. Si le droit de l’État concerné ne le permet pas, le Conseil fédéral peut accorder aux assureurs le droit de suspendre la prise en charge des coûts des prestations.[^64a-3]
+<sup>7ter</sup> Les cantons et les assureurs échangent leurs données selon une procédure uniforme. Le Conseil fédéral règle les modalités après avoir entendu les cantons et les assureurs.[^64a-7]
+
+<sup>8</sup> Le Conseil fédéral règle les tâches de l’organe de révision et désigne les titres jugés équivalents à un acte de défaut de biens. Il règle également les frais de rappel et de sommation, les modalités de la procédure de sommation et de poursuite ainsi que les modalités des versements des cantons aux assureurs.[^64a-8]
+
+<sup>9</sup> Le Conseil fédéral édicte des dispositions sur le non-paiement des primes et des participations aux coûts des personnes tenues de s’assurer qui résident dans un État membre de l’Union européenne, en Islande ou en Norvège. Si le droit de l’État concerné permet à l’assureur de recouvrer les primes et participations aux coûts impayées, le Conseil fédéral peut obliger les cantons à prendre en charge 85 % des créances ayant fait l’objet de l’annonce visée à l’al. 3. Si le droit de l’État concerné ne le permet pas, le Conseil fédéral peut accorder aux assureurs le droit de suspendre la prise en charge des coûts des prestations.[^64a-9]
 
 [^64a-1]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 3523](https://fedlex.data.admin.ch/eli/oc/2011/476), [FF 2009 5973](https://fedlex.data.admin.ch/eli/fga/2009/1165)[5987](https://fedlex.data.admin.ch/eli/fga/2009/1167)).
-[^64a-2]: Voir aussi les dips. trans. de la mod. du 19 mars 2010 à la fin du texte.
-[^64a-3]: 2<sup>e</sup> et 3<sup>e</sup> phrases introduites par le ch. I de la LF du 30 sept. 2016 (Adaptation de dispositions à caractère international), en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6717](https://fedlex.data.admin.ch/eli/oc/2017/748); [FF 2016 1](https://fedlex.data.admin.ch/eli/fga/2016/1)).
+[^64a-2]: Introduit par le ch. I de la LF du 18 mars 2022 (Exécution de l’obligation de payer les primes), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [FF 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745), [1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)).
+[^64a-3]: Voir aussi les dips. trans. de la mod. du 19 mars 2010 à la fin du texte.
+[^64a-4]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2022 (Exécution de l’obligation de payer les primes), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [FF 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745), [1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)).
+[^64a-5]: 3<sup>e</sup> et 4<sup>e</sup> phrases introduites par le ch. I de la LF du 18 mars 2022 (Exécution de l’obligation de payer les primes), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [FF 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745), [1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)).
+[^64a-6]: Introduit par le ch. I de la LF du 18 mars 2022 (Exécution de l’obligation de payer les primes), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [FF 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745), [1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)).
+[^64a-7]: Introduit par le ch. I de la LF du 18 mars 2022 (Exécution de l’obligation de payer les primes), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [FF 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745), [1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)).
+[^64a-8]: Nouvelle teneur de la phrase selon le ch. I de la LF du 18 mars 2022 (Exécution de l’obligation de payer les primes), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [FF 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745), [1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)).
+[^64a-9]: 2<sup>e</sup> et 3<sup>e</sup> phrases introduites par le ch. I de la LF du 30 sept. 2016 (Adaptation de dispositions à caractère international), en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6717](https://fedlex.data.admin.ch/eli/oc/2017/748); [FF 2016 1](https://fedlex.data.admin.ch/eli/fga/2016/1)).
 
 ### Section 4 Réduction des primes par les subsides des pouvoirs publics
 
@@ -2557,6 +2630,26 @@ Pendant une année après l’entrée en vigueur de la modification du 18 décem
 [^u19-1]: [RO 2021 837](https://fedlex.data.admin.ch/eli/oc/2021/837); [FF 2019 5765](https://fedlex.data.admin.ch/eli/fga/2019/2216)
 
 L’organisation visée à l’art. 47*a* doit être instituée dans les deux ans qui suivent l’entrée en vigueur de la modification du 18 juin 2021.
+
+## Dispositions transitoires de la modification du 18 mars 2022
+
+[^u20-1]
+
+[^u20-1]: [RO 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [FF 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745), [1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)
+
+<sup>1</sup> ...[^u20-2]
+
+<sup>2</sup> Les art. 61*a* et 64, al. 1<sup>bis</sup>, s’appliquent aux assurés encore mineurs au moment de l’entrée en vigueur de la modification du 18 mars 2022. Ils s’appliquent également pour les primes, participations aux coûts, intérêts moratoires et frais de poursuite non payés de ces assurés au moment de l’entrée en vigueur.
+
+[^u20-2]: En vigueur le 1<sup>er</sup> juil. 2025.
+
+## Disposition transitoire relative à la modification du 30 septembre 2022
+
+[^u21-1]
+
+[^u21-1]: [RO 2023 630](https://fedlex.data.admin.ch/eli/oc/2023/630); [FF 2019 5765](https://fedlex.data.admin.ch/eli/fga/2019/2216)
+
+Les conventions qui visent à définir le monitorage et les mesures de correction conformément à l’art. 47*c*, al. 2, doivent être soumises pour approbation à l’autorité compétente dans les deux ans qui suivent l’entrée en vigueur de la modification du 30 septembre 2022.
 
 Annexe
 

@@ -4,11 +4,11 @@ title: Bundesgesetz vom 18. März 1994 über die Krankenversicherung (KVG)
 short: KVG
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328"
 language: de
-version: 2023-09-01
+version: 2024-01-01
 adopted: 1994-03-18
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328/20230901/de/xml/fedlex-data-admin-ch-eli-cc-1995-1328_1328_1328-20230901-de-xml-11.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328/20240101/de/xml/fedlex-data-admin-ch-eli-cc-1995-1328_1328_1328-20240101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20230901/de"
 
 (KVG)
 
-vom 18. März 1994 (Stand am 1. September 2023)
+vom 18. März 1994 (Stand am 1. Januar 2024)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -143,7 +143,11 @@ Es sind beim selben Versicherer versichert:
 
 <sup>2</sup> Bei verspätetem Beitritt beginnt die Versicherung im Zeitpunkt des Beitritts. Bei nicht entschuldbarer Verspätung entrichtet die versicherte Person einen Prämienzuschlag. Der Bundesrat legt dafür die Richtsätze fest und berücksichtigt dabei die Höhe der Prämien am Wohnort der versicherten Person und die Dauer der Verspätung. Für Versicherte, bei denen die Entrichtung des Beitragszuschlages eine Notlage zur Folge hätte, setzt der Versicherer den Beitragszuschlag herab, wobei er der Lage der Versicherten und den Umständen der Verspätung angemessen Rechnung trägt.
 
+<sup>2bis</sup> Bei verspätetem Beitritt eines Kindes ist der Prämienzuschlag von den Eltern solidarisch oder von einem Elternteil geschuldet, soweit sie oder er die Verspätung verschuldet haben.[^5-1]
+
 <sup>3</sup> Die Versicherung endet, wenn die versicherte Person der Versicherungspflicht nicht mehr untersteht.
+
+[^5-1]: Eingefügt durch Ziff. I des BG vom 18. März 2022 (Vollstreckung der Prämienzahlungspflicht), in Kraft seit 1. Jan. 2024 ([AS 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [BBl 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745), [1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)).
 
 #### Art. 6
 
@@ -1008,6 +1012,34 @@ Bei einem Verstoss gegen die Pflicht zur Datenbekanntgabe nach Absatz 1 kann das
 
 [^47b-1]: Eingefügt durch Ziff. I des BG vom 18. Juni 2021 (Massnahmen zur Kostendämpfung – Paket 1*a*), in Kraft seit 1. Jan. 2023 ([AS 2021 837](https://fedlex.data.admin.ch/eli/oc/2021/837); [2022 808](https://fedlex.data.admin.ch/eli/oc/2022/808); [BBl 2019 6071](https://fedlex.data.admin.ch/eli/fga/2019/2216)).
 
+#### Art. 47c
+
+**Überwachung der Kosten**[^47c-1]
+
+<sup>1</sup> Die Leistungserbringer oder deren Verbände und die Versicherer oder deren Verbände sehen in den Bereichen, in denen sie einen Tarifvertrag nach Artikel 43 Absatz 4 abschliessen müssen, ein gemeinsames Monitoring der Entwicklung der Mengen, Volumen und Kosten sowie Korrekturmassnahmen bei nicht erklärbaren Mengen-, Volumen- und Kostenentwicklungen vor.
+
+<sup>2</sup>
+
+Die Massnahmen nach Absatz 1 sind:
+
+- a. in kantonal geltende Tarifverträge zu integrieren; oder
+- b. in gesamtschweizerisch geltende Tarifverträge zu integrieren; betreffen die Massnahmen gesamtschweizerisch einheitliche Tarifstrukturen, so müssen sie in gesamtschweizerisch geltenden Verträgen festgelegt werden.
+
+<sup>3</sup> Die Verträge nach Absatz 2 sind der nach ihrem Geltungsbereich zuständigen Behörde zur Genehmigung zu unterbreiten. Die Genehmigungsbehörde berücksichtigt dabei sowohl eine drohende Unter- wie auch Überversorgung in sachgerechter Weise.
+
+<sup>4</sup>
+
+Die Massnahmen nach Absatz 1 müssen pro Bereich, der für die jeweilige Art von Leistungserbringer relevant ist, mindestens vorsehen:
+
+- a. die Überwachung der mengenmässigen Entwicklung der verschiedenen Positionen, die für die Leistungen vorgesehen sind;
+- b. die Überwachung der Entwicklung der abgerechneten Kosten oder Volumen.
+
+<sup>5</sup> Die Verträge nach Absatz 2 legen die von den Leistungserbringern und den Versicherern nicht beeinflussbaren Faktoren fest, die eine Erhöhung der Mengen und der Kosten erklären können, insbesondere medizin-technischer Fortschritt und sozio-demographische oder politische Entwicklungen. Sie müssen Regeln zur Korrektur bei ungerechtfertigten Erhöhungen der Mengen und der Kosten oder Volumen gegenüber einem im Vertrag festgelegten Zeitraum vorsehen.
+
+- [tab] <sup>6</sup> Alle Leistungserbringer und alle Versicherer sind verpflichtet, die für den jeweiligen Bereich vereinbarten Massnahmen nach Absatz 1 einzuhalten.
+
+[^47c-1]: Eingefügt durch Ziff. I des BG vom 30. Sept. 2022 (Massnahmen zur Kostendämpfung – Paket 1*b*), in Kraft seit 1. Jan. 2024 ([AS 2023 630](https://fedlex.data.admin.ch/eli/oc/2023/630); [BBl 2019 6071](https://fedlex.data.admin.ch/eli/fga/2019/2216)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
+
 #### Art. 48
 
 **Tarifverträge mit Ärzteverbänden**
@@ -1119,26 +1151,32 @@ Nach Anhören der zuständigen Kommissionen und unter Berücksichtigung der Grun
   - 2\. eine Liste der in der Rezeptur verwendeten Präparate, Wirk- und Hilfsstoffe mit Tarif; dieser umfasst auch die Leistungen des Apothekers oder der Apothekerin,
   - 3\.[^52-1] Bestimmungen über die Leistungspflicht und den Umfang der Vergütung von der Untersuchung oder Behandlung dienenden Mitteln und Gegenständen, die nach den Artikeln 25 Absatz 2 Buchstabe b und 25*a* Absätze 1 und 2 verwendet werden;
 
-- b. erstellt das BAG eine Liste der pharmazeutischen Spezialitäten und konfektionierten Arzneimittel mit Preisen (Spezialitätenliste). Diese hat auch die mit den Originalpräparaten austauschbaren preisgünstigeren Generika zu enthalten.
+- b.[^52-2] erstellt das BAG eine Liste der pharmazeutischen Spezialitäten und konfektionierten Arzneimittel mit Preisen (Spezialitätenliste).
 
-<sup>2</sup> Für Geburtsgebrechen (Art. 3 Abs. 2 ATSG[^52-2]) werden zusätzlich Kosten für die zum Leistungskatalog der Invalidenversicherung gehörenden Arzneimittel nach Artikel 14<sup>ter</sup> Absatz 5 des Bundesgesetzes vom 19. Juni 1959[^52-3] über die Invalidenversicherung zu den gestützt auf diese Bestimmung festgelegten Höchstpreisen übernommen.[^52-4]
+<sup>2</sup> Für Geburtsgebrechen (Art. 3 Abs. 2 ATSG[^52-3]) werden zusätzlich Kosten für die zum Leistungskatalog der Invalidenversicherung gehörenden Arzneimittel nach Artikel 14<sup>ter</sup> Absatz 5 des Bundesgesetzes vom 19. Juni 1959[^52-4] über die Invalidenversicherung zu den gestützt auf diese Bestimmung festgelegten Höchstpreisen übernommen.[^52-5]
 
-<sup>3</sup> Analysen, Arzneimittel und der Untersuchung oder der Behandlung dienende Mittel und Gegenstände dürfen höchstens nach den Tarifen, Preisen und Vergütungsansätzen gemäss Absatz 1 verrechnet werden. Das EDI bezeichnet die im Praxislaboratorium des Arztes oder der Ärztin vorgenommenen Analysen, für die der Tarif nach den Artikeln 46 und 48 festgesetzt werden kann.[^52-5] Es kann zudem die der Untersuchung oder Behandlung dienenden Mittel und Gegenstände nach Absatz 1 Buchstabe a Ziffer 3 bezeichnen, für die ein Tarif nach Artikel 46 vereinbart werden kann.[^52-6]
+<sup>3</sup> Analysen, Arzneimittel und der Untersuchung oder der Behandlung dienende Mittel und Gegenstände dürfen der obligatorischen Krankenpflegeversicherung höchstens nach den Tarifen, Preisen und Vergütungsansätzen nach Absatz 1 in Rechnung gestellt werden.[^52-6] Das EDI bezeichnet die im Praxislaboratorium des Arztes oder der Ärztin vorgenommenen Analysen, für die der Tarif nach den Artikeln 46 und 48 festgesetzt werden kann.[^52-7] Es kann zudem die der Untersuchung oder Behandlung dienenden Mittel und Gegenstände nach Absatz 1 Buchstabe a Ziffer 3 bezeichnen, für die ein Tarif nach Artikel 46 vereinbart werden kann.[^52-8]
 
 [^52-1]: Fassung gemäss Ziff. I des BG vom 18. Dez. 2020 (Vergütung des Pflegematerials), in Kraft seit 1. Okt. 2021 ([AS 2021 345](https://fedlex.data.admin.ch/eli/oc/2021/345); [BBl 2020 4825](https://fedlex.data.admin.ch/eli/fga/2020/1157)). Siehe auch die UeB Änd. 18.12.2020 am Schluss dieses Textes.
-[^52-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^52-3]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
-[^52-4]: Fassung gemäss Anhang Ziff. 4 des BG vom 19. Juni 2020 (Weiterentwicklung der IV), in Kraft seit 1. Jan. 2022 ([AS 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [BBl 2017 2535](https://fedlex.data.admin.ch/eli/fga/2017/544)).
-[^52-5]: Fassung des zweiten Satzes gemäss Ziff. I des BG vom 18. Dez. 2020 (Vergütung des Pflegematerials), in Kraft seit 1. Okt. 2021 ([AS 2021 345](https://fedlex.data.admin.ch/eli/oc/2021/345); [BBl 2020 4825](https://fedlex.data.admin.ch/eli/fga/2020/1157)).
-[^52-6]: Dritter Satz eingefügt durch Ziff. I des BG vom 18. Dez. 2020 (Vergütung des Pflegematerials), in Kraft seit 1. Okt. 2021 ([AS 2021 345](https://fedlex.data.admin.ch/eli/oc/2021/345); [BBl 2020 4825](https://fedlex.data.admin.ch/eli/fga/2020/1157)).
+[^52-2]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2022 (Massnahmen zur Kostendämpfung – Paket 1*b*), in Kraft seit 1. Jan. 2024 ([AS 2023 630](https://fedlex.data.admin.ch/eli/oc/2023/630); [BBl 2019 6071](https://fedlex.data.admin.ch/eli/fga/2019/2216)).
+[^52-3]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^52-4]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^52-5]: Fassung gemäss Anhang Ziff. 4 des BG vom 19. Juni 2020 (Weiterentwicklung der IV), in Kraft seit 1. Jan. 2022 ([AS 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [BBl 2017 2535](https://fedlex.data.admin.ch/eli/fga/2017/544)).
+[^52-6]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2022 (Massnahmen zur Kostendämpfung – Paket 1*b*), in Kraft seit 1. Jan. 2024 ([AS 2023 630](https://fedlex.data.admin.ch/eli/oc/2023/630); [BBl 2019 6071](https://fedlex.data.admin.ch/eli/fga/2019/2216)).
+[^52-7]: Fassung des zweiten Satzes gemäss Ziff. I des BG vom 18. Dez. 2020 (Vergütung des Pflegematerials), in Kraft seit 1. Okt. 2021 ([AS 2021 345](https://fedlex.data.admin.ch/eli/oc/2021/345); [BBl 2020 4825](https://fedlex.data.admin.ch/eli/fga/2020/1157)).
+[^52-8]: Dritter Satz eingefügt durch Ziff. I des BG vom 18. Dez. 2020 (Vergütung des Pflegematerials), in Kraft seit 1. Okt. 2021 ([AS 2021 345](https://fedlex.data.admin.ch/eli/oc/2021/345); [BBl 2020 4825](https://fedlex.data.admin.ch/eli/fga/2020/1157)).
 
 #### Art. 52a
 
 **Substitutionsrecht**[^52a-1]
 
-Apotheker oder Apothekerinnen können Originalpräparate der Spezialitätenliste durch die billigeren Generika dieser Liste ersetzen, wenn nicht der Arzt oder die Ärztin beziehungsweise der Chiropraktor oder die Chiropraktorin ausdrücklich die Abgabe des Originalpräparates verlangt. Im Falle einer Substitution informieren sie die verschreibende Person über das abgegebene Präparat.
+<sup>1</sup> Sind mehrere Arzneimittel mit gleicher Wirkstoffzusammensetzung auf der Spezialitätenliste aufgeführt, so können Apotheker oder Apothekerinnen bei gleicher medizinischer Eignung für die versicherte Person ein preisgünstigeres Arzneimittel abgeben, wenn nicht der Arzt oder die Ärztin beziehungsweise der Chiropraktor oder die Chiropraktorin ausdrücklich die Abgabe des Originalpräparates verlangt.
 
-[^52a-1]: Eingefügt durch Ziff. I des BG vom 24. März 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2305](https://fedlex.data.admin.ch/eli/oc/2000/365); BBl **1999** 793).
+<sup>2</sup> Ersetzt die abgebende Person das verschriebene durch ein preisgünstigeres Arzneimittel, so informiert sie die verschreibende Person darüber.
+
+<sup>3</sup> Der Bundesrat kann festlegen, unter welchen Voraussetzungen Arzneimittel als medizinisch nicht gleich geeignet gelten.
+
+[^52a-1]: Eingefügt durch Ziff. I des BG vom 24. März 2000 ([AS 2000 2305](https://fedlex.data.admin.ch/eli/oc/2000/365); BBl **1999** 793). Fassung gemäss Ziff. I des BG vom 30. Sept. 2022 (Massnahmen zur Kostendämpfung – Paket 1*b*), in Kraft seit 1. Jan. 2024 ([AS 2023 630](https://fedlex.data.admin.ch/eli/oc/2023/630); [BBl 2019 6071](https://fedlex.data.admin.ch/eli/fga/2019/2216)).
 
 #### Art. 53
 
@@ -1146,9 +1184,11 @@ Apotheker oder Apothekerinnen können Originalpräparate der Spezialitätenliste
 
 <sup>1</sup> Gegen Beschlüsse der Kantonsregierungen nach den Artikeln 39, 45, 46 Absatz 4, 47, 47*b* Absatz 2, 48 Absätze 1–3, 51, 54 und 55 kann beim Bundesverwaltungsgericht Beschwerde geführt werden.[^53-2]
 
+<sup>1bis</sup> Organisationen der Versicherer von nationaler oder regionaler Bedeutung, die sich gemäss ihren Statuten dem Schutz der Interessen ihrer Mitglieder im Rahmen der Anwendung dieses Gesetzes widmen, steht das Beschwerderecht gegen Beschlüsse der Kantonsregierungen nach Artikel 39 zu.[^53-3]
+
 <sup>2</sup>
 
-Das Beschwerdeverfahren richtet sich nach dem Verwaltungsgerichtsgesetz vom 17. Juni 2005[^53-3] und dem Bundesgesetz vom 20. Dezember 1968[^53-4] über das Verwaltungsverfahren (VwVG). Vorbehalten bleiben folgende Ausnahmen:
+Das Beschwerdeverfahren richtet sich nach dem Verwaltungsgerichtsgesetz vom 17. Juni 2005[^53-4] und dem Bundesgesetz vom 20. Dezember 1968[^53-5] über das Verwaltungsverfahren (VwVG). Vorbehalten bleiben folgende Ausnahmen:
 
 - a. Neue Tatsachen und Beweismittel dürfen nur so weit vorgebracht werden, als erst der angefochtene Beschluss dazu Anlass gibt. Neue Begehren sind unzulässig.
 - b. Die Artikel 22*a* und 53 VwVG sind nicht anwendbar.
@@ -1158,8 +1198,9 @@ Das Beschwerdeverfahren richtet sich nach dem Verwaltungsgerichtsgesetz vom 17. 
 
 [^53-1]: Fassung gemäss Ziff. I des BG vom 21. Dez. 2007 (Spitalfinanzierung), in Kraft seit 1. Jan. 2009 ([AS 2008 2049](https://fedlex.data.admin.ch/eli/oc/2008/291); [BBl 2004 5551](https://fedlex.data.admin.ch/eli/fga/2004/1024)).
 [^53-2]: Fassung gemäss Ziff. IV des BG vom 18. Juni 2021 (Massnahmen zur Kostendämpfung – Paket 1*a*), in Kraft seit 1. Jan. 2023 ([AS 2021 837](https://fedlex.data.admin.ch/eli/oc/2021/837); [2022 808](https://fedlex.data.admin.ch/eli/oc/2022/808); [BBl 2019 6071](https://fedlex.data.admin.ch/eli/fga/2019/2216)).
-[^53-3]: [SR 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352)
-[^53-4]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^53-3]: Eingefügt durch Ziff. I des BG vom 30. Sept. 2022 (Massnahmen zur Kostendämpfung – Paket 1*b*), in Kraft seit 1. Jan. 2024 ([AS 2023 630](https://fedlex.data.admin.ch/eli/oc/2023/630); [BBl 2019 6071](https://fedlex.data.admin.ch/eli/fga/2019/2216)).
+[^53-4]: [SR 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352)
+[^53-5]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
 
 ### 5. Abschnitt: Ausserordentliche Massnahmen zur Eindämmung der Kostenentwicklung
 
@@ -1559,11 +1600,28 @@ Pilotprojekte, die einen der folgenden Bereiche betreffen, dürfen von Bestimmun
 
 #### Art. 61a
 
-**Prämienerhebung für Versicherte mit Wohnort in einem Mitgliedstaat der Europäischen Union, in Island oder in Norwegen**[^61a-1]
+**Prämienschuldnerin und -schuldner bei Kindern**[^61a-1]
+
+<sup>1</sup> Die Prämien für das Kind sind bis zum Ende des Monats, in dem dieses volljährig wird, ausschliesslich von dessen Eltern geschuldet. Das Kind kann für diese Prämien auch nach Eintritt der Volljährigkeit nicht belangt werden; eine dazu eingeleitete Betreibung ist nichtig.
+
+<sup>2</sup> Die Prämien sind von den Eltern solidarisch geschuldet.
+
+<sup>3</sup>
+
+Der eine Elternteil schuldet die Prämien allein, wenn der andere Elternteil nachweist, dass er:
+
+- a. gemäss einem Unterhaltsvertrag oder einem gerichtlichen Entscheid verpflichtet ist, Unterhaltsbeiträge für das Kind zu bezahlen, welche die Prämien enthalten; und
+- b. diese Unterhaltsbeiträge bezahlt hat.
+
+[^61a-1]: Eingefügt durch Ziff. I des BG vom 18. März 2022 (Vollstreckung der Prämienzahlungspflicht), in Kraft seit 1. Jan. 2024 ([AS 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [BBl 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745), [1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
+
+#### Art. 61b
+
+**Prämienerhebung für Versicherte mit Wohnort in einem Mitgliedstaat der Europäischen Union, in Island oder in Norwegen**[^61b-1]
 
 Die Prämien der Familienangehörigen einer auf Grund einer Erwerbstätigkeit in der Schweiz, des Bezugs einer schweizerischen Rente oder einer Leistung der schweizerischen Arbeitslosenversicherung versicherten Person werden bei dieser Person erhoben.
 
-[^61a-1]: Eingefügt durch Ziff. I des BG vom 6. Okt. 2000 ([AS 2002 858](https://fedlex.data.admin.ch/eli/oc/2002/151); [BBl 2000 4083](https://fedlex.data.admin.ch/eli/fga/2000/875)). Fassung gemäss Ziff. I 8 des BG vom 14. Dez. 2001 betreffend die Bestimmungen über die Personenfreizügigkeit im Abk. zur Änd. des Übereink. zur Errichtung der EFTA, in Kraft seit 1. Juni 2002 ([AS 2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139); [BBl 2001 4963](https://fedlex.data.admin.ch/eli/fga/2001/845)).
+[^61b-1]: Ursprünglich: Art. 61*a*. Eingefügt durch Ziff. I des BG vom 6. Okt. 2000 ([AS 2002 858](https://fedlex.data.admin.ch/eli/oc/2002/151); [BBl 2000 4083](https://fedlex.data.admin.ch/eli/fga/2000/875)). Fassung gemäss Ziff. I 8 des BG vom 14. Dez. 2001 betreffend die Bestimmungen über die Personenfreizügigkeit im Abk. zur Änd. des Übereink. zur Errichtung der EFTA, in Kraft seit 1. Juni 2002 ([AS 2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139); [BBl 2001 4963](https://fedlex.data.admin.ch/eli/fga/2001/845)).
 
 #### Art. 62
 
@@ -1602,6 +1660,8 @@ Der Bundesrat kann weitere Versicherungsformen zulassen, namentlich solche, bei 
 
 <sup>1</sup> Die Versicherten beteiligen sich an den Kosten der für sie erbrachten Leistungen.
 
+<sup>1bis</sup> Die Kostenbeteiligung für das Kind ist bis zum Ende des Monats, in dem dieses volljährig wird, ausschliesslich von den Personen geschuldet, die die Prämien schulden. Das Kind kann für diese Kostenbeteiligung auch nach Eintritt der Volljährigkeit nicht belangt werden; eine dazu eingeleitete Betreibung ist nichtig.[^64-1]
+
 <sup>2</sup>
 
 Diese Kostenbeteiligung besteht aus:
@@ -1622,20 +1682,21 @@ Der Bundesrat kann:
 - a. für bestimmte Leistungen eine höhere Kostenbeteiligung vorsehen;
 - b. für Dauerbehandlungen sowie für Behandlungen schwerer Krankheiten die Kostenbeteiligung herabsetzen oder aufheben;
 - c. die Kostenbeteiligung bei einer Versicherung mit eingeschränkter Wahl des Leistungserbringers nach Artikel 41 Absatz 4 aufheben, wenn sie sich als nicht zweckmässig erweist;
-- d.[^64-1] einzelne Leistungen der medizinischen Prävention von der Franchise ausnehmen. Dabei handelt es sich um Leistungen, die im Rahmen von national oder kantonal organisierten Präventionsprogrammen durchgeführt werden.
+- d.[^64-2] einzelne Leistungen der medizinischen Prävention von der Franchise ausnehmen. Dabei handelt es sich um Leistungen, die im Rahmen von national oder kantonal organisierten Präventionsprogrammen durchgeführt werden.
 
 <sup>7</sup>
 
 Für folgende Leistungen darf der Versicherer keine Kostenbeteiligung erheben:
 
 - a. Leistungen nach Artikel 29 Absatz 2;
-- b. Leistungen nach den Artikeln 25 und 25*a*, die ab der 13. Schwangerschaftswoche, während der Niederkunft und bis acht Wochen nach der Niederkunft erbracht werden.[^64-2]
+- b. Leistungen nach den Artikeln 25 und 25*a*, die ab der 13. Schwangerschaftswoche, während der Niederkunft und bis acht Wochen nach der Niederkunft erbracht werden.[^64-3]
 
-<sup>8</sup> Kostenbeteiligungen dürfen weder bei einer Krankenkasse noch bei einer privaten Versicherungseinrichtung versichert werden. Ebenso ist es Vereinen, Stiftungen oder anderen Institutionen verboten, die Übernahme dieser Kosten vorzusehen. Von diesem Verbot ausgenommen ist die Übernahme von Kostenbeteiligungen auf Grund öffentlich-rechtlicher Vorschriften des Bundes oder der Kantone.[^64-3]
+<sup>8</sup> Kostenbeteiligungen dürfen weder bei einer Krankenkasse noch bei einer privaten Versicherungseinrichtung versichert werden. Ebenso ist es Vereinen, Stiftungen oder anderen Institutionen verboten, die Übernahme dieser Kosten vorzusehen. Von diesem Verbot ausgenommen ist die Übernahme von Kostenbeteiligungen auf Grund öffentlich-rechtlicher Vorschriften des Bundes oder der Kantone.[^64-4]
 
-[^64-1]: Eingefügt durch Ziff. I des BG vom 24. März 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2305](https://fedlex.data.admin.ch/eli/oc/2000/365); BBl **1999** 793).
-[^64-2]: Fassung gemäss Ziff. I des BG vom 21. Juni 2013, in Kraft seit 1. März 2014 ([AS 2014 387](https://fedlex.data.admin.ch/eli/oc/2014/56); [BBl 2013 2459](https://fedlex.data.admin.ch/eli/fga/2013/418)[2469](https://fedlex.data.admin.ch/eli/fga/2013/420)).
-[^64-3]: Eingefügt durch Ziff. I des BG vom 24. März 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2305](https://fedlex.data.admin.ch/eli/oc/2000/365); BBl **1999** 793). Siehe auch die SchlB dieser Änd. am Ende dieses Textes.
+[^64-1]: Eingefügt durch Ziff. I des BG vom 18. März 2022 (Vollstreckung der Prämienzahlungspflicht), in Kraft seit 1. Jan. 2024 ([AS 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [BBl 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745), [1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
+[^64-2]: Eingefügt durch Ziff. I des BG vom 24. März 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2305](https://fedlex.data.admin.ch/eli/oc/2000/365); BBl **1999** 793).
+[^64-3]: Fassung gemäss Ziff. I des BG vom 21. Juni 2013, in Kraft seit 1. März 2014 ([AS 2014 387](https://fedlex.data.admin.ch/eli/oc/2014/56); [BBl 2013 2459](https://fedlex.data.admin.ch/eli/fga/2013/418)[2469](https://fedlex.data.admin.ch/eli/fga/2013/420)).
+[^64-4]: Eingefügt durch Ziff. I des BG vom 24. März 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2305](https://fedlex.data.admin.ch/eli/oc/2000/365); BBl **1999** 793). Siehe auch die SchlB dieser Änd. am Ende dieses Textes.
 
 ### 3*a*. Abschnitt: Nichtbezahlung von Prämien und Kostenbeteiligungen
 
@@ -1649,25 +1710,37 @@ Für folgende Leistungen darf der Versicherer keine Kostenbeteiligung erheben:
 
 <sup>1</sup> Bezahlt die versicherte Person fällige Prämien oder Kostenbeteiligungen nicht, so hat der Versicherer ihr, nach mindestens einer schriftlichen Mahnung, eine Zahlungsaufforderung zuzustellen, ihr eine Nachfrist von 30 Tagen einzuräumen und sie auf die Folgen des Zahlungsverzuges (Abs. 2) hinzuweisen.
 
+<sup>1bis</sup> Ist die versicherte Person minderjährig, so sind die Bestimmungen über die Nichtbezahlung von Prämien und Kostenbeteiligungen auf ihre Eltern oder den Elternteil, der die Prämien schuldet, anzuwenden.[^64a-2]
+
 <sup>2</sup> Bezahlt die versicherte Person trotz Zahlungsaufforderung die Prämien, Kostenbeteiligungen und Verzugszinse nicht innert der gesetzten Frist, so muss der Versicherer die Betreibung anheben. Der Kanton kann verlangen, dass der Versicherer der zuständigen kantonalen Behörde die Schuldnerinnen und Schuldner, die betrieben werden, bekannt gibt.
 
 <sup>3</sup> Der Versicherer gibt der zuständigen kantonalen Behörde die betroffenen Versicherten sowie, pro Schuldner und Schuldnerin, den Gesamtbetrag der Forderungen aus der obligatorischen Krankenpflegeversicherung (ausstehende Prämien und Kostenbeteiligungen sowie Verzugszinse und Betreibungskosten) bekannt, die während des berücksichtigten Zeitraumes zur Ausstellung eines Verlustscheines oder eines gleichwertigen Rechtstitels geführt haben. Er ersucht die vom Kanton bezeichnete Revisionsstelle, die Richtigkeit der Daten, die er dem Kanton bekannt gegeben hat, zu bestätigen und übermittelt die Bestätigung dem Kanton.
 
-<sup>4</sup> Der Kanton übernimmt 85 Prozent der Forderungen, die Gegenstand der Bekanntgabe nach Absatz 3 waren.[^64a-2]
+<sup>4</sup> Der Kanton übernimmt 85 Prozent der Forderungen, die Gegenstand der Bekanntgabe nach Absatz 3 waren.[^64a-3]
 
 <sup>5</sup> Der Versicherer bewahrt die Verlustscheine und die gleichwertigen Rechtstitel bis zur vollständigen Bezahlung der ausstehenden Forderungen auf. Sobald die versicherte Person ihre Schuld vollständig oder teilweise gegenüber dem Versicherer beglichen hat, erstattet dieser 50 Prozent des von der versicherten Person erhaltenen Betrages an den Kanton zurück.
 
-<sup>6</sup> In Abweichung von Artikel 7 kann die säumige versicherte Person den Versicherer nicht wechseln, solange sie die ausstehenden Prämien und Kostenbeteiligungen sowie die Verzugszinse und Betreibungskosten nicht vollständig bezahlt hat. Artikel 7 Absätze 3 und 4 bleibt vorbehalten.
+<sup>6</sup> In Abweichung von Artikel 7 kann die säumige versicherte Person den Versicherer nicht wechseln, solange die ausstehenden Prämien, Kostenbeteiligungen, Verzugszinse und Betreibungskosten nicht vollständig bezahlt sind. Kinder können den Versicherer nicht wechseln, wenn solche Ausstände für sie bestehen. Versicherte, die nur Ausstände für ihre Kinder haben, dürfen den Versicherer trotzdem wechseln. Artikel 7 Absätze 3 und 4 bleibt vorbehalten.[^64a-4]
 
-<sup>7</sup> Die Kantone können versicherte Personen, die ihrer Prämienpflicht trotz Betreibung nicht nachkommen, auf einer Liste erfassen, welche nur den Leistungserbringern, der Gemeinde und dem Kanton zugänglich ist. Die Versicherer schieben für diese Versicherten auf Meldung des Kantons die Übernahme der Kosten für Leistungen mit Ausnahme der Notfallbehandlungen auf und erstatten der zuständigen kantonalen Behörde Meldung über den Leistungsaufschub und dessen Aufhebung nach Begleichung der ausstehenden Forderungen.
+<sup>7</sup> Die Kantone können versicherte Personen, die ihrer Prämienpflicht trotz Betreibung nicht nachkommen, auf einer Liste erfassen, welche nur den Leistungserbringern, der Gemeinde und dem Kanton zugänglich ist. Die Versicherer schieben für diese Versicherten auf Meldung des Kantons die Übernahme der Kosten für Leistungen mit Ausnahme der Notfallbehandlungen auf und erstatten der zuständigen kantonalen Behörde Meldung über den Leistungsaufschub und dessen Aufhebung nach Begleichung der ausstehenden Forderungen. Eine Notfallbehandlung liegt vor, wenn die Behandlung nicht aufgeschoben werden kann. Dies ist der Fall, wenn die versicherte Person ohne sofortige Behandlung gesundheitliche Schäden oder den Tod befürchten muss oder die Gesundheit anderer Personen gefährden kann.[^64a-5]
 
-<sup>8</sup> Der Bundesrat legt die Aufgaben der Revisionsstelle fest und bezeichnet die einem Verlustschein gleichzusetzenden Rechtstitel. Er regelt die Einzelheiten des Mahn- und Betreibungsverfahrens, der Datenbekanntgabe der Versicherer an die Kantone sowie der Zahlungen der Kantone an die Versicherer.
+<sup>7bis</sup> Versicherte, die volljährig geworden sind, können den Versicherer in Abweichung von Absatz 6 auf das Ende des Kalenderjahres auch wechseln, wenn Prämien, Kostenbeteiligungen, Verzugszinse oder Betreibungskosten aus der Zeit ihrer Minderjährigkeit ausstehen. Bei versicherungspflichtigen Familienangehörigen mit Wohnort in einem Mitgliedstaat der Europäischen Union, in Island oder Norwegen geht Artikel 4*a* vor.[^64a-6]
 
-<sup>9</sup> Der Bundesrat erlässt Bestimmungen über die Nichtbezahlung von Prämien und Kostenbeteiligungen der versicherungspflichtigen Personen, die in einem Mitgliedstaat der Europäischen Union, in Island oder in Norwegen wohnen. Ist es nach dem Recht des betreffenden Staates möglich, dass der Versicherer die unbezahlten Prämien und Kostenbeteiligungen einbringt, so kann der Bundesrat die Kantone zur Übernahme von 85 Prozent der Forderungen, die Gegenstand der Bekanntgabe nach Absatz 3 waren, verpflichten. Ist es nach dem Recht des betreffenden Staates nicht möglich, so kann der Bundesrat den Versicherern das Recht gewähren, die Übernahme der Kosten für die Leistungen aufzuschieben.[^64a-3]
+<sup>7ter</sup> Die Kantone und die Versicherer tauschen ihre Daten nach einem einheitlichen Standard aus. Der Bundesrat regelt die Einzelheiten, nachdem er die Kantone und die Versicherer angehört hat.[^64a-7]
+
+<sup>8</sup> Der Bundesrat legt die Aufgaben der Revisionsstelle fest und bezeichnet die einem Verlustschein gleichzusetzenden Rechtstitel. Er regelt zudem die Gebühren für Mahnungen und Zahlungsaufforderungen, die Einzelheiten des Mahn- und Betreibungsverfahrens sowie der Zahlungen der Kantone an die Versicherer.[^64a-8]
+
+<sup>9</sup> Der Bundesrat erlässt Bestimmungen über die Nichtbezahlung von Prämien und Kostenbeteiligungen der versicherungspflichtigen Personen, die in einem Mitgliedstaat der Europäischen Union, in Island oder in Norwegen wohnen. Ist es nach dem Recht des betreffenden Staates möglich, dass der Versicherer die unbezahlten Prämien und Kostenbeteiligungen einbringt, so kann der Bundesrat die Kantone zur Übernahme von 85 Prozent der Forderungen, die Gegenstand der Bekanntgabe nach Absatz 3 waren, verpflichten. Ist es nach dem Recht des betreffenden Staates nicht möglich, so kann der Bundesrat den Versicherern das Recht gewähren, die Übernahme der Kosten für die Leistungen aufzuschieben.[^64a-9]
 
 [^64a-1]: Fassung gemäss Ziff. I des BG vom 19. März 2010, in Kraft seit 1. Jan. 2012 ([AS 2011 3523](https://fedlex.data.admin.ch/eli/oc/2011/476); [BBl 2009 6617](https://fedlex.data.admin.ch/eli/fga/2009/1165)[6631](https://fedlex.data.admin.ch/eli/fga/2009/1167)).
-[^64a-2]: Siehe auch die UeB Änd. 19.3.2010 am Schluss dieses Textes.
-[^64a-3]: Zweiter und dritter Satz eingefügt durch Ziff. I des BG vom 30. Sept. 2016 (Anpassung von Bestimmungen mit internationalem Bezug), in Kraft seit 1. Jan. 2018 ([AS 2017 6717](https://fedlex.data.admin.ch/eli/oc/2017/748); [BBl 2016 1](https://fedlex.data.admin.ch/eli/fga/2016/1)).
+[^64a-2]: Eingefügt durch Ziff. I des BG vom 18. März 2022 (Vollstreckung der Prämienzahlungspflicht), in Kraft seit 1. Jan. 2024 ([AS 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [BBl 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745), [1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
+[^64a-3]: Siehe auch die UeB Änd. 19.3.2010 am Schluss dieses Textes.
+[^64a-4]: Fassung gemäss Ziff. I des BG vom 18. März 2022 (Vollstreckung der Prämienzahlungspflicht), in Kraft seit 1. Jan. 2024 ([AS 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [BBl 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745), [1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)).
+[^64a-5]: Dritter und vierter Satz eingefügt durch Ziff. I des BG vom 18. März 2022 (Vollstreckung der Prämienzahlungspflicht), in Kraft seit 1. Jan. 2024 ([AS 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [BBl 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745), [1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)).
+[^64a-6]: Eingefügt durch Ziff. I des BG vom 18. März 2022 (Vollstreckung der Prämienzahlungspflicht), in Kraft seit 1. Jan. 2024 ([AS 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [BBl 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745), [1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)).
+[^64a-7]: Eingefügt durch Ziff. I des BG vom 18. März 2022 (Vollstreckung der Prämienzahlungspflicht), in Kraft seit 1. Jan. 2024 ([AS 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [BBl 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745), [1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)).
+[^64a-8]: Fassung des zweiten Satzes gemäss Ziff. I des BG vom 18. März 2022 (Vollstreckung der Prämienzahlungspflicht), in Kraft seit 1. Jan. 2024 ([AS 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [BBl 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745), [1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)).
+[^64a-9]: Zweiter und dritter Satz eingefügt durch Ziff. I des BG vom 30. Sept. 2016 (Anpassung von Bestimmungen mit internationalem Bezug), in Kraft seit 1. Jan. 2018 ([AS 2017 6717](https://fedlex.data.admin.ch/eli/oc/2017/748); [BBl 2016 1](https://fedlex.data.admin.ch/eli/fga/2016/1)).
 
 ### 4. Abschnitt: Prämienverbilligung durch Beiträge der öffentlichen Hand
 
@@ -2549,6 +2622,26 @@ Während eines Jahres ab Inkrafttreten der Änderung vom 18. Dezember 2020 erfol
 [^u19-1]: [AS 2021 837](https://fedlex.data.admin.ch/eli/oc/2021/837); [BBl 2019 6071](https://fedlex.data.admin.ch/eli/fga/2019/2216)
 
 Die Organisation nach Artikel 47*a* ist innerhalb von zwei Jahren nach dem Inkrafttreten der Änderung vom 18. Juni 2021 einzusetzen.
+
+## Übergangsbestimmungen zur Änderung vom 18. März 2022
+
+[^u20-1]
+
+[^u20-1]: [AS 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [BBl 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745), [1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)
+
+<sup>1</sup> …[^u20-2]
+
+<sup>2</sup> Die Artikel 61*a* und 64 Absatz 1<sup>bis</sup> sind auf die Versicherten anzuwenden, die beim Inkrafttreten der Änderung vom 18. März 2022 minderjährig sind. Sie gelten auch für die Prämien, Kostenbeteiligungen, Verzugszinse und Betreibungskosten dieser Versicherten, die vor dem Inkrafttreten unbezahlt waren.
+
+[^u20-2]: Tritt am 1. Juli 2025 in Kraft.
+
+## Übergangsbestimmung zur Änderung vom 30. September 2022
+
+[^u21-1]
+
+[^u21-1]: [AS 2023 630](https://fedlex.data.admin.ch/eli/oc/2023/630); [BBl 2019 6071](https://fedlex.data.admin.ch/eli/fga/2019/2216)
+
+Die Verträge über das Kostenmonitoring und die Korrekturmassnahmen nach Artikel 47*c* Absatz 2 sind der zuständigen Behörde innerhalb von zwei Jahren ab Inkrafttreten der Änderung vom 30. September 2022 zur Genehmigung vorzulegen.
 
 Anhang
 
