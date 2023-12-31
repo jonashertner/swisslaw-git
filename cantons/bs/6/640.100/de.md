@@ -4,13 +4,13 @@ number: "640.100"
 title: Gesetz über die direkten Steuern
 short: "Steuergesetz, StG"
 language: de
-version: 2023-01-01
-valid_until: 2023-12-31
-version_adopted: 2023-03-28
+version: 2024-01-01
+valid_until: 2024-02-29
+version_adopted: 2023-09-12
 adopted: 2000-04-12
 in_force: 2001-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/640.100"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5968/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6147/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Steuergesetz | Allgemeine Steuern
 
 (Steuergesetz, StG)
 
-Vom 12. April 2000 (Stand 1. Januar 2023)
+Vom 12. April 2000 (Stand 1. Januar 2024)
 
 Der Grosse Rat des Kantons Basel-Stadt
 
@@ -435,7 +435,8 @@ beschliesst:
 - k) die Gewinne, die in Spielbanken mit Spielbankenspielen erzielt werden, die nach dem Geldspielgesetz vom 29. September 2017 (BGS) zugelassen sind, sofern diese Gewinne nicht aus selbstständiger Erwerbstätigkeit stammen;
 - k<sup>bis</sup>) die einzelnen Gewinne bis zum Betrag von 1 Million Franken aus der Teilnahme an Grossspielen, die nach dem BGS zugelassen sind, und aus der Online-Teilnahme an Spielbankenspielen, die nach dem BGS zugelassen sind;
 - k<sup>ter</sup>) die Gewinne aus Kleinspielen, die nach dem BGS zugelassen sind;
-- l) die einzelnen Gewinne aus Lotterien und Geschicklichkeitsspielen zur Verkaufsförderung, die nach Art. 1 Abs. 2 lit. d und e BGS diesem nicht unterstehen, sofern die Grenze von 1'000 Franken nicht überschritten wird.
+- l) die einzelnen Gewinne aus Lotterien und Geschicklichkeitsspielen zur Verkaufsförderung, die nach Art. 1 Abs. 2 lit. d und e BGS diesem nicht unterstehen, sofern die Grenze von 1'000 Franken nicht überschritten wird;
+- m) Einkünfte aufgrund des Bundesgesetzes vom 19. Juni 2020 über Überbrückungsleistungen für ältere Arbeitslose (ÜLG).
 
 ### (1. Teil/2. Abschn./B.) III. Ermittlung des Reineinkommens
 
@@ -2235,7 +2236,8 @@ Von 100 Franken bis 403’100 Franken: 21 Franken je 100 Franken.
 - b) Einrichtungen der beruflichen Vorsorge und der gebundenen Selbstvorsorge über die den Vorsorgenehmern, Vorsorgenehmerinnen oder Begünstigten erbrachten Leistungen;
 - c) einfache Gesellschaften und Personengesellschaften über alle Verhältnisse, die für die Veranlagung der Teilhaber oder Teilhaberinnen von Bedeutung sind, insbesondere über ihren Anteil an Einkommen und Vermögen der Gesellschaft;
 - d) Kollektive Kapitalanlagen mit direktem Grundbesitz über die Verhältnisse, die für die Besteuerung des direkten Grundbesitzes und dessen Erträge massgeblich sind;
-- e) Arbeitgebende über ihre Leistungen an die Arbeitnehmer und Arbeitnehmerinnen in Form eines Exemplars des Lohnausweises oder in anderer von der Steuerverwaltung genehmigter Form; ebenfalls zu bescheinigen sind geldwerte Vorteile aus echten Mitarbeiterbeteiligungen sowie die Zuteilung und die Ausübung von Mitarbeiteroptionen.
+- e) Arbeitgebende über ihre Leistungen an die Arbeitnehmer und Arbeitnehmerinnen in Form eines Exemplars des Lohnausweises oder in anderer von der Steuerverwaltung genehmigter Form; ebenfalls zu bescheinigen sind geldwerte Vorteile aus echten Mitarbeiterbeteiligungen sowie die Zuteilung und die Ausübung von Mitarbeiteroptionen;
+- f) Organe, die Leistungen nach dem Bundesgesetz über die obligatorische Arbeitslosenversicherung und die Insolvenzentschädigung vom 25. Juni 1982 (Arbeitslosenversicherungsgesetz, AVIG) erbringen, über ihre Leistungen an die versicherten Personen.
 
 <sup>2</sup> Der steuerpflichtigen Person ist ein Doppel der Bescheinigung zuzustellen.
 
