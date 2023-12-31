@@ -4,11 +4,11 @@ title: Ordinanza sulla protezione civile (OPCi)
 short: OPCi
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/888"
 language: it
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2020-11-11
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/888/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2020-888-20230901-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/888/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/888/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2020-888-20240101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/888/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/888/20230901/it"
 
 (OPCi)
 
-dell’11 novembre 2020 (Stato 1° settembre 2023)
+dell’11 novembre 2020 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -394,11 +394,14 @@ Danno diritto al soldo:
 
 **Calcolo del soldo**
 
-<sup>1</sup> L’ammontare del soldo si basa sui gradi nella protezione civile; è disciplinato nell’allegato 1.
+<sup>1</sup> L’ammontare del soldo si basa sul grado secondo l’articolo 31 capoverso 1 dell’ordinanza del 21 febbraio 2018[^27-1] concernente l’amministrazione dell’esercito.[^27-2]
 
 <sup>2</sup> Prestazioni di servizio corrispondenti a una funzione superiore a quella del proprio grado non danno diritto a un soldo più elevato.
 
 <sup>3</sup> Le prestazioni di servizio di almeno due ore, ma inferiori alle otto ore, sono sommate e retribuite con il soldo alla fine dell’anno civile; ogni periodo di otto ore o una rimanenza di almeno due ore danno diritto a un soldo giornaliero completo.
+
+[^27-1]: [RS 510.301](https://fedlex.data.admin.ch/eli/cc/2018/161)
+[^27-2]: Nuovo testo giusta il n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 647](https://fedlex.data.admin.ch/eli/oc/2023/647)).
 
 #### Art. 28
 
@@ -493,7 +496,7 @@ La tenuta dei controlli da parte della protezione civile nel Sistema di gestione
 
 <sup>3</sup> Titolare dei dati contenuti nel PISA è il comando Istruzione (art. 2*a* e allegato 1 OSIM). L’UFPP è titolare dei dati contenuti nel PISA per il settore protezione civile.[^37-3]
 
-[^37-1]: Nuovo testo giusta l’all. n. 8 dell’O del 3 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+[^37-1]: Nuovo testo giusta l’all. n. 8 dell’O del 3 mar. 2023, in vigore dal 1° apr. 2023 ([[RU 2023 133](https://www.fedlex.admin.ch/eli/oc/2023/133/it)](https://fedlex.data.admin.ch/eli/oc/2023/133))
 [^37-2]: [RS 510.911](https://fedlex.data.admin.ch/eli/cc/2009/824)
 [^37-3]: Nuovo testo giusta l’all. 2 n. II 66 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
@@ -1387,11 +1390,13 @@ L’abrogazione e la modifica di altri atti normativi sono disciplinate nell’a
 
 La presente ordinanza entra in vigore il 1° gennaio 2021.
 
-Allegato 1
+Allegato 1[^t-1]
 
-(art. 27 cpv. 1 nonché 30 cpv. 2 e 3)
+(art. 30 cpv. 2 e 3)
 
-## Funzioni e gradi nella protezione civile, soldo
+## Funzioni e gradi nella protezione civile
+
+[^t-1]: Aggiornato dal n. II dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 647](https://fedlex.data.admin.ch/eli/oc/2023/647)).
 
 <table>
 <tr><th>Livello</th><th>Funzione</th><th>Grado</th></tr>
@@ -1406,29 +1411,13 @@ Allegato 1
 <tr><td>Funzioni di base (livello truppa)</td><td>Aiutante della condotta Addetto all’assistenza Pioniere Cuoco Sorvegliante dell’infrastruttura Sorvegliante del materiale</td><td>Appuntato, soldato, recluta</td></tr>
 </table>
 
-<table>
-<tr><td>Funzione / Grado</td><td>Soldo in fr.</td></tr>
-<tr><td>Tenente colonnello</td><td>20.–</td></tr>
-<tr><td>Maggiore</td><td>18.–</td></tr>
-<tr><td>Capitano</td><td>16.–</td></tr>
-<tr><td>Primo tenente</td><td>14.–</td></tr>
-<tr><td>Tenente</td><td>12.–</td></tr>
-<tr><td>Furiere</td><td>10.–</td></tr>
-<tr><td>Sergente maggiore</td><td>9.–</td></tr>
-<tr><td>Sergente</td><td>8.–</td></tr>
-<tr><td>Caporale</td><td>7.–</td></tr>
-<tr><td>Appuntato</td><td>6.–</td></tr>
-<tr><td>Soldato</td><td>5.–</td></tr>
-<tr><td>Recluta</td><td>4.–</td></tr>
-</table>
-
-Allegato 2[^t-1]
+Allegato 2[^t-2]
 
 (art. 62 e 112 cpv. 2)
 
 ## Ripartizione, condizioni d’ammissione, servizi d’istruzione da adempiere, competenze e durata dell’istruzione dei quadri
 
-[^t-1]: La correzione del 2 giu. 2021 concerne soltanto il testo francese ([RU 2021 320](https://fedlex.data.admin.ch/eli/oc/2021/320)).
+[^t-2]: La correzione del 2 giu. 2021 concerne soltanto il testo francese ([RU 2021 320](https://fedlex.data.admin.ch/eli/oc/2021/320)).
 
 ### 1. Condotta
 
@@ -1500,13 +1489,13 @@ Allegato 2[^t-1]
 <tr><td>1 organi di condotta cantonali 2 organi di condotta comunali AiC aiuto alla condotta assist assistenza bat battaglione C capo mat materiale NBC nucleare, biologico e chimico OC organo di condotta pi pioniere PBC protezione dei beni culturali</td><td>cdt comandante C gr capo gruppo cond condotta CQ corso quadri (istruzione dei quadri) CQT corso quadri tecnico (istruzione dei quadri) san sanitario sez sezione sgtm sergente maggiore sost sostituto spec specialista</td><td>cp compagnia C sez capo sezione cuc cucina fur furiere infra infrastruttura log logistica ST supporto tecnico trsp trasporti suff sottufficiale uff ufficiale</td></tr>
 </table>
 
-Allegato 3[^t-2]
+Allegato 3[^t-3]
 
 (art. 65 cpv. 2)
 
 ## Dati registrati nel sistema di amministrazione dei corsi
 
-[^t-2]: Aggiornato dall’all. n. II 23 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
+[^t-3]: Aggiornato dall’all. n. II 23 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
 
 ### Dati personali
 

@@ -4,11 +4,11 @@ title: Ordonnance du 11 novembre 2020 sur la protection civile (OPCi)
 short: OPCi
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/888"
 language: fr
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2020-11-11
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/888/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2020-888-20230901-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/888/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/888/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-888-20240101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/888/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/888/20230901/fr"
 
 (OPCi)
 
-du 11 novembre 2020 (État le 1<sup>er</sup> septembre 2023)
+du 11 novembre 2020 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -388,11 +388,14 @@ Donnent droit à la solde:
 
 **Calcul de la solde**
 
-<sup>1</sup> Le montant de la solde est calculé en fonction du grade; les montants auxquels les grades donnent droit sont fixés dans l’annexe 1.
+<sup>1</sup> Le montant de la solde est calculé en fonction du grade conformément à l’art. 31, al. 1, de l’ordonnance du 21 février 2018 sur l’administration de l’armée[^27-1].[^27-2]
 
 <sup>2</sup> Les services qui correspondent à un grade supérieur ne donnent pas droit à une solde plus élevée.
 
 <sup>3</sup> Les services qui durent au moins deux heures mais moins de huit heures sont comptabilisés et indemnisés à la fin de l’année civile; huit heures ou un reste d’au moins deux heures donnent droit à une solde journalière.
+
+[^27-1]: [RS 510.301](https://fedlex.data.admin.ch/eli/cc/2018/161)
+[^27-2]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 647](https://fedlex.data.admin.ch/eli/oc/2023/647)).
 
 #### Art. 28
 
@@ -1385,11 +1388,13 @@ L’abrogation et la modification d’autres actes sont réglées dans l’annex
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2021.
 
-Annexe 1
+Annexe 1[^t-1]
 
-(art. 27, al. 1, et 30, al. 2 et 3)
+(art. 30, al. 2 et 3)
 
-## Fonctions et grades dans la protection civile, solde
+## Fonctions et grades dans la protection civile
+
+[^t-1]: Mise à jour par le ch. II de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 647](https://fedlex.data.admin.ch/eli/oc/2023/647)).
 
 <table>
 <tr><th>Échelon</th><th>Fonction</th><th>Grade</th></tr>
@@ -1404,29 +1409,13 @@ Annexe 1
 <tr><td>Fonctions de base (échelon du personnel)</td><td>Préposé à l’aide à la conduite Préposé à l’assistance Pionnier Cuisinier Préposé à l’infrastructure Préposé au matériel</td><td>Appointé, soldat, recrue</td></tr>
 </table>
 
-<table>
-<tr><td>Fonction / Grade</td><td>Solde en francs</td></tr>
-<tr><td>Lieutenant-colonel</td><td>20.–</td></tr>
-<tr><td>Major</td><td>18.–</td></tr>
-<tr><td>Capitaine</td><td>16.–</td></tr>
-<tr><td>Premier-lieutenant</td><td>14.–</td></tr>
-<tr><td>Lieutenant</td><td>12.–</td></tr>
-<tr><td>Fourrier</td><td>10.–</td></tr>
-<tr><td>Sergent-major</td><td>9.–</td></tr>
-<tr><td>Sergent</td><td>8.–</td></tr>
-<tr><td>Caporal</td><td>7.–</td></tr>
-<tr><td>Appointé</td><td>6.–</td></tr>
-<tr><td>Soldat</td><td>5.–</td></tr>
-<tr><td>Recrue</td><td>4.–</td></tr>
-</table>
-
-Annexe 2[^t-1]
+Annexe 2[^t-2]
 
 (art. 62 et 112, al. 2)
 
 ## Répartition, conditions d’admission, services d’instruction à accomplir, compétences et durée de l’instruction des cadres
 
-[^t-1]: Erratum du 2 juin 2021 ([RO 2021 320](https://fedlex.data.admin.ch/eli/oc/2021/320)).
+[^t-2]: Erratum du 2 juin 2021 ([RO 2021 320](https://fedlex.data.admin.ch/eli/oc/2021/320)).
 
 ### 1. Conduite
 
@@ -1498,13 +1487,13 @@ Annexe 2[^t-1]
 <tr><td>1 Organes de conduite cantonaux 2 Organes de conduite communaux AiC Aide à la conduite Assist Assistance AT Appui technique Bat Bataillon C Chef CC Cours de cadres CCT Cours de cadres technique Cdt Commandant C gr Chef de groupe</td><td>Cond Conduite Cp Compagnie CS Chef de service C sct Chef de section Cuis Cuisine Four Fourrier Infra Infrastructure Log Logistique Mat Matériel NBC Nucléaire, biologique et chimique OC Organe de conduite Of Officier</td><td>PBC Protection des biens culturels Pi Pionnier Rempl Remplaçant San Sanitaire Sct Section Sgtm Sergent-major Sof Sous-officier Spéc Spécialiste Trsp Transports</td></tr>
 </table>
 
-Annexe 3[^t-2]
+Annexe 3[^t-3]
 
 (art. 65, al. 2)
 
 ## Données saisies dans le système de gestion des cours
 
-[^t-2]: Mise à jour par l’annexe ch. II 23 de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
+[^t-3]: Mise à jour par l’annexe ch. II 23 de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
 
 ### Données personnelles
 

@@ -4,11 +4,11 @@ title: "Verordnung vom 11. November 2020 über den Zivilschutz (Zivilschutzveror
 short: ZSV
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/888"
 language: de
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2020-11-11
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/888/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2020-888-20230901-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/888/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/888/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2020-888-20240101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/888/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/888/20230901/de"
 
 (Zivilschutzverordnung, ZSV)
 
-vom 11. November 2020 (Stand am 1. September 2023)
+vom 11. November 2020 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -392,11 +392,14 @@ Anspruch auf Sold besteht für:
 
 **Berechnung des Solds**
 
-<sup>1</sup> Die Soldansätze richten sich nach dem Grad; sie sind in Anhang 1 festgelegt.
+<sup>1</sup> Die Soldansätze richten sich, entsprechend dem Grad, nach Artikel 31 Absatz 1 der Verordnung vom 21. Februar 2018[^27-1] über die Verwaltung der Armee.[^27-2]
 
 <sup>2</sup> Dienstleistungen, die der Funktion in einem höheren Grad entsprechen, berechtigen nicht zu einem höheren Sold.
 
 <sup>3</sup> Dienstleistungen, die mindestens zwei, aber weniger als acht Stunden dauern, werden am Ende des Kalenderjahrs zusammengerechnet und vergütet; je acht Stunden und ein Rest von mindestens zwei Stunden geben Anrecht auf einen Tagessold.
+
+[^27-1]: [SR 510.301](https://fedlex.data.admin.ch/eli/cc/2018/161)
+[^27-2]: Fassung gemäss Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 647](https://fedlex.data.admin.ch/eli/oc/2023/647)).
 
 #### Art. 28
 
@@ -1389,11 +1392,13 @@ Die Aufhebung und die Änderung anderer Erlasse sind in Anhang 6 geregelt.
 
 Diese Verordnung tritt am 1. Januar 2021 in Kraft.
 
-Anhang 1
+Anhang 1[^t-1]
 
-(Art. 27 Abs. 1 sowie 30 Abs. 2 und 3)
+(Art. 30 Abs. 2 und 3)
 
-## Funktionen und Grade im Zivilschutz, Sold
+## Funktionen und Grade im Zivilschutz
+
+[^t-1]: Bereinigt gemäss Ziff. II der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 647](https://fedlex.data.admin.ch/eli/oc/2023/647)).
 
 <table>
 <tr><th>Stufe</th><th>Funktion</th><th>Grade</th></tr>
@@ -1408,29 +1413,13 @@ Anhang 1
 <tr><td>Grundfunktionen (Stufe Mannschaft)</td><td>Führungsunterstützer/in Betreuer/in Pionier/in Koch/Köchin Infrastrukturwart/in Materialwart/in</td><td>Gefreiter, Soldat, Rekrut</td></tr>
 </table>
 
-<table>
-<tr><th>Funktion / Grad</th><th>Sold in Fr.</th></tr>
-<tr><td>Oberstleutnant</td><td>20.–</td></tr>
-<tr><td>Major</td><td>18. –</td></tr>
-<tr><td>Hauptmann</td><td>16. –</td></tr>
-<tr><td>Oberleutnant</td><td>14.–</td></tr>
-<tr><td>Leutnant</td><td>12.–</td></tr>
-<tr><td>Fourier</td><td>10.–</td></tr>
-<tr><td>Feldweibel</td><td>9.–</td></tr>
-<tr><td>Wachtmeister</td><td>8.–</td></tr>
-<tr><td>Korporal</td><td>7.–</td></tr>
-<tr><td>Gefreiter</td><td>6.–</td></tr>
-<tr><td>Soldat</td><td>5.–</td></tr>
-<tr><td>Rekrut</td><td>4.–</td></tr>
-</table>
-
-Anhang 2[^t-1]
+Anhang 2[^t-2]
 
 (Art. 62 und 112 Abs. 2)
 
 ## Aufteilung, Zulassungsbedingungen, zu bestehende Ausbildungsdienste, Zuständigkeiten und Dauer der Kaderausbildung
 
-[^t-1]: Die Berichtigung vom 2. Juni 2021 betrifft nur den französischen Text ([AS 2021 320](https://fedlex.data.admin.ch/eli/oc/2021/320)).
+[^t-2]: Die Berichtigung vom 2. Juni 2021 betrifft nur den französischen Text ([AS 2021 320](https://fedlex.data.admin.ch/eli/oc/2021/320)).
 
 ### 1. Führung
 
@@ -1502,13 +1491,13 @@ Anhang 2[^t-1]
 <tr><td>1 Kantonale Führungsorgane 2 Kommunale Führungsorgane ABC atomar, biologisch und chemisch Bat Bataillon Betreu Betreuung C Chef/in Fhr Führung FO Führungsorgan Four Fourier/in FU Führungsunterstützung Fw Feldweibel</td><td>Grfhr Gruppenführer/in Infra Infrastruktur Kdt Kommandant/in KGS Kulturgüterschutz KK Kaderkurs (Kaderausbildung) KKT Kaderkurs Technik (Kaderausbildung) Kp Kompanie Kü Küche Log Logistik Mat Material Of Offizier/in</td><td>Pi Pionier/in San Sanität Spez Spezialist/in Stv Stellvertreter/in TH Technische Hilfe Trsp Transport Uof Unteroffizier/in Z Zug Zfhr Zugführer/in</td></tr>
 </table>
 
-Anhang 3[^t-2]
+Anhang 3[^t-3]
 
 (Art. 65 Abs. 2)
 
 ## Im Veranstaltungsadministratorsystem erfasste Daten
 
-[^t-2]: Bereinigt gemäss Anhang Ziff. II 23 der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
+[^t-3]: Bereinigt gemäss Anhang Ziff. II 23 der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
 
 ### Personalien
 
