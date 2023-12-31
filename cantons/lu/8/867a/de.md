@@ -4,13 +4,13 @@ number: 867a
 title: Verordnung zum Betreuungs- und Pflegegesetz
 short: BPV
 language: de
-version: 2023-01-01
-valid_until: 2023-12-31
-version_adopted: 2023-01-10
+version: 2024-01-01
+valid_until: 2024-06-30
+version_adopted: 2023-12-12
 adopted: 2010-11-30
 in_force: 2011-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/867a"
-pdf: "https://srl.lu.ch/api/de/versions/4025/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4186/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,11 +19,11 @@ pdf: "https://srl.lu.ch/api/de/versions/4025/pdf_file"
 
 (BPV)
 
-vom 30.11.2010 (Stand 01.01.2023)
+vom 30.11.2010 (Stand 01.01.2024)
 
 Der Regierungsrat des Kantons Luzern,
 
-gestützt auf die §§ 1b Absatz 3, 1c Absatz 2, 1d Absatz 1, 2b Absatz 4, 3a Absatz 2, 4, 7 Absatz 2, 11, 12a Absatz 4 und 13 Absatz 5 des Betreuungs- und Pflegegesetzes (BPG) vom 13. September 2010[^ingress-1],
+gestützt auf die §§ 1b Absatz 3, 1c Absatz 2, 1d Absatz 1, 2b Absatz 4, 3a Absatz 2, 4, 7 Absatz 2, 11, 12a Absatz 4, 12c Absatz 2, 12d Absatz 2 und 13 Absatz 5 des Betreuungs- und Pflegegesetzes (BPG) vom 13. September 2010[^ingress-1],
 
 auf Antrag des Gesundheits- und Sozialdepartementes,
 
@@ -233,7 +233,7 @@ beschliesst:
 
 <sup>2</sup> Die Verbände erstellen jährlich einen Bericht zuhanden der Kommission. Dieser gibt insbesondere Aufschluss über die eingezogenen und die ausbezahlten Ausbildungsbeiträge.
 
-<sup>2<sup>bis</sup></sup> Die Kommission hat spätestens drei Jahre nach Einführung der Möglichkeit zur Übertragung von Ausbildungsleistungen gemäss § 5f Absatz 3 deren Auswirkungen zu überprüfen und dem Regierungsrat einen Bericht vorzulegen.
+<sup>2<sup>bis</sup></sup> …
 
 <sup>3</sup> Die Verbände, die Gemeinden und der Kanton tragen die Kosten ihrer Vertretung selbst.
 
@@ -286,15 +286,15 @@ beschliesst:
 
 #### § 5f
 
-**Erbringung und Übertragung der Ausbildungsleistung**
+**Erbringung der Ausbildungsleistung**
 
 <sup>1</sup> Die Leistungserbringer bestimmen selbst, in welchen Berufen gemäss § 5d Absatz 2 sie Personal ausbilden, um die Ausbildungsleistung zu erbringen.
 
 <sup>2</sup> Sie können die Ausbildungsleistung im eigenen Betrieb erbringen oder Ausbildungsverbünde mit Leistungserbringern im Sinn von § 5d Absatz 1 bilden. Mit Bewilligung des zuständigen Verbandes nach § 5b kann die Ausbildungsleistung auch in einem Ausbildungsverbund mit einem Spital mit Standort im Kanton Luzern erbracht werden.
 
-<sup>3</sup> Leistungserbringer, die Fachkräfte auf der Sekundarstufe II EFZ und der Tertiärstufe ausbilden und das Soll im Ausbildungsniveau Tertiärstufe zu mindestens 50 Prozent erfüllen, können Ausbildungsleistungen an andere Leistungserbringer übertragen. Die übertragenen Ausbildungsleistungen werden ausschliesslich dem beziehenden Leistungserbringer angerechnet. Die Kommission legt das Vorgehen fest.
+<sup>3</sup> …
 
-<sup>4</sup> Vereinbarungen betreffend die Übertragung von Ausbildungsleistungen sind schriftlich abzuschliessen und von dem gemäss § 5b zur Beitragserhebung ermächtigten Verband zu genehmigen. Überträgt ein Leistungserbringer in einem Kalenderjahr Ausbildungsleistungen an mehrere Leistungserbringer, hat er zusätzlich eine Übersicht über alle besetzten Ausbildungsplätze einzureichen und anzugeben, wie viele davon an welchen Leistungserbringer übertragen wurden.
+<sup>4</sup> …
 
 #### § 5g
 
@@ -339,7 +339,9 @@ beschliesst:
 
 #### § 5k
 
-<sup>1</sup> Die Wohnsitzgemeinde hat eine Kostengutsprache für die Sicherstellung der von der pflegebedürftigen Person selbst zu tragenden Kosten des Aufenthalts im Pflegeheim (Hotellerie und Betreuung) zu leisten, wenn die pflegebedürftige Person über ein Vermögen von weniger als 10 000 Franken verfügt.
+<sup>1</sup> Die Wohnsitzgemeinde hat eine Kostengutsprache für die Sicherstellung der von der pflegebedürftigen Person selbst zu tragenden Kosten des Aufenthalts im Pflegeheim (Hotellerie und Betreuung) zu leisten, wenn die pflegebedürftige Person über ein Vermögen von weniger als 10 000 Franken verfügt. Massgebend sind die Vermögensverhältnisse gemäss letzter Verfügung betreffend die Ergänzungsleistungen oder letztem rechtskräftigem Steuerveranlagungsprotokoll. Weichen die tatsächlichen Vermögensverhältnisse bei der Antragstellung wesentlich von den massgebenden Werten ab, werden die tatsächlichen Verhältnisse berücksichtigt.
+
+<sup>1<sup>bis</sup></sup> Zuständig ist die Gemeinde, in der die pflegebedürftige Person vor Eintritt in das Heim ihren Wohnsitz hatte.
 
 <sup>2</sup> Die Kostengutsprache beläuft sich auf ein Monatsbetreffnis der selbst zu tragenden Kosten, maximal jedoch auf 6000 Franken.
 
@@ -348,6 +350,18 @@ beschliesst:
 - a. gegen die pflegebedürftige Person Verlustscheine bestehen,
 - b. eine konkursamtliche Nachlassliquidation eröffnet wurde oder
 - c. die fehlenden finanziellen Mittel anderweitig nachgewiesen sind.
+
+## 2c Unentgeltliche Betreuung durch Angehörige
+
+#### § 5l
+
+**Leistungen zur Anerkennung und zur Entlastung**
+
+<sup>1</sup> Die Anerkennungszulage pro anspruchsberechtigte Person beträgt pro Kalenderjahr 800 Franken.
+
+<sup>2</sup> Der Wert des Gutscheins für Leistungen Dritter zur Entlastung der betreuenden Angehörigen (Entlastungsangebote) beträgt pro Jahr 1200 Franken.
+
+<sup>3</sup> Die Anmeldung für Leistungen für die unentgeltliche Betreuung durch Angehörige ist jährlich beim Sozialversicherungszentrum nach dessen Vorgaben einzureichen.
 
 ## 3 Schlussbestimmungen
 
@@ -371,6 +385,12 @@ beschliesst:
 
 <sup>1</sup> Die Führung der Kostenrechnung durch die Leistungserbringer der ambulanten Krankenpflege gemäss § 3a Absatz 2a und die Erfassung des Pflegebedarfs durch die Leistungserbringer der Krankenpflege im Pflegheim und in Tages- und Nachtstrukturen gemäss § 4a Absatz 1 haben spätestens ab 1. Januar 2024 zu erfolgen. Solange die Umstellung nicht vollzogen ist, gelten diesbezüglich die Vorgaben gemäss dem bisherigen Recht.
 
+#### § 9
+
+**Übergangsbestimmung der Änderung vom 12. Dezember 2023**
+
+<sup>1</sup> Für die Tertiärstufe ist im Erhebungsjahr 2025 ein Erfüllungsgrad von 75 Prozent des Soll-Wertes massgebend.
+
 ## A1
 
 #### § A1-1
@@ -383,21 +403,21 @@ beschliesst:
 
 <sup>1</sup> Für die Bemessung der zu erbringenden Ausbildungsleistung sind folgende Kosten pro Auszubildenden und Auszubildende und Jahr anrechenbar:
 
-- a. Ausbildungsniveau Tertiärstufe: ambulante Krankenpflege Fr. 12 000 / Krankenpflege im Pflegeheim Fr. 8000
-- b. Ausbildungsniveau Sekundarstufe II EFZ: ambulante Krankenpflege Fr. 8000 / Krankenpflege im Pflegeheim Fr. 6000
-- c. Ausbildungsniveau Sekundarstufe II EBA (Assistenzstufe): ambulante Krankenpflege Fr. 5000 / Krankenpflege im Pflegeheim Fr. 4000
+- a. Ausbildungsniveau Tertiärstufe: ambulante Krankenpflege Fr. 8520 / Krankenpflege im Pflegeheim Fr. 8520
+- b. Ausbildungsniveau Sekundarstufe II EFZ: ambulante Krankenpflege Fr. 4000 / Krankenpflege im Pflegeheim Fr. 3000
+- c. Ausbildungsniveau Sekundarstufe II EBA (Assistenzstufe): ambulante Krankenpflege Fr. 2500 / Krankenpflege im Pflegeheim Fr. 2000
 
 <sup>2</sup> Für die Ermittlung der erbrachten Ausbildungsleistungen sind folgende Kosten pro Auszubildenden und Auszubildende und Jahr anrechenbar:
 
 - a. Ausbildungsniveau Tertiärstufe
-  - 1\. dipl. Pflegefachmann / dipl. Pflegefachfrau HF: ambulante Krankenpflege Fr. 12 000 / Krankenpflege im Pflegeheim Fr. 8000
-  - 2\. dipl. Pflegefachmann / dipl. Pflegefachfrau FH: ambulante Krankenpflege Fr. 12 000 / Krankenpflege im Pflegeheim Fr. 8000
-  - 3\. Fachmann/Fachfrau Langzeitpflege und -betreuung FA: Krankenpflege im Pflegeheim Fr. 6000
+  - 1\. dipl. Pflegefachmann / dipl. Pflegefachfrau HF: ambulante Krankenpflege Fr. 9000 / Krankenpflege im Pflegeheim Fr. 9000
+  - 2\. dipl. Pflegefachmann / dipl. Pflegefachfrau FH: ambulante Krankenpflege Fr. 4200 / Krankenpflege im Pflegeheim Fr. 4200
+  - 3\. Fachmann/Fachfrau Langzeitpflege und -betreuung FA: Krankenpflege im Pflegeheim Fr. 3000
 - b. Ausbildungsniveau Sekundarstufe II EFZ
-  - 1\. Fachmann/Fachfrau Gesundheit (FaGe) EFZ: ambulante Krankenpflege Fr. 8000 / Krankenpflege im Pflegeheim Fr. 6000
+  - 1\. Fachmann/Fachfrau Gesundheit (FaGe) EFZ: ambulante Krankenpflege Fr. 4000 / Krankenpflege im Pflegeheim Fr. 3000
   - 2\. …
-  - 3\. Fachmann/Fachfrau Betreuung EFZ: Krankenpflege im Pflegeheim Fr. 6000
-- c. Ausbildungsniveau Sekundarstufe II EBA (Assistenzstufe): Assistent/Assistentin Gesundheit und Soziales EBA: ambulante Krankenpflege Fr. 5000 / Krankenpflege im Pflegeheim Fr. 4000
+  - 3\. Fachmann/Fachfrau Betreuung EFZ: Krankenpflege im Pflegeheim Fr. 3000
+- c. Ausbildungsniveau Sekundarstufe II EBA (Assistenzstufe): Assistent/Assistentin Gesundheit und Soziales EBA: ambulante Krankenpflege Fr. 2500 / Krankenpflege im Pflegeheim Fr. 2000
 
 ## A3 Anhang 3: Kantonaler Bedarf an Abschlüssen (§ 5e Abs. 3)
 
@@ -407,18 +427,18 @@ beschliesst:
 
 <table>
 <tr><th>Ausbildungsniveau</th><th>jährlicher Bedarf Abschlüsse</th><th>Ausbildungsjahre bis zum Abschluss</th><th>kantonaler Bedarf</th></tr>
-<tr><td>Tertiärstufe</td><td>53</td><td>3</td><td>159</td></tr>
-<tr><td>Sekundarstufe II EFZ</td><td>62</td><td>3</td><td>186</td></tr>
-<tr><td>Sekundarstufe II EBA (Assistenzstufe)</td><td>11</td><td>2</td><td>22</td></tr>
+<tr><td>Tertiärstufe</td><td>49.0</td><td>2.8</td><td>137.2</td></tr>
+<tr><td>Sekundarstufe II EFZ</td><td>59.0</td><td>2.9</td><td>171.1</td></tr>
+<tr><td>Sekundarstufe II EBA (Assistenzstufe)</td><td>15.0</td><td>2.0</td><td>30.0</td></tr>
 </table>
 
 <sup>2</sup> Krankenpflege im Pflegeheim
 
 <table>
 <tr><th>Ausbildungsniveau</th><th>jährlicher Bedarf Abschlüsse</th><th>Ausbildungsjahre bis zum Abschluss</th><th>kantonaler Bedarf</th></tr>
-<tr><td>Tertiärstufe</td><td>68</td><td>3</td><td>204</td></tr>
-<tr><td>Sekundarstufe II EFZ</td><td>88</td><td>3</td><td>264</td></tr>
-<tr><td>Sekundarstufe II EBA (Assistenzstufe)</td><td>58</td><td>2</td><td>116</td></tr>
+<tr><td>Tertiärstufe</td><td>92.0</td><td>2.8</td><td>257.6</td></tr>
+<tr><td>Sekundarstufe II EFZ</td><td>165.0</td><td>2.9</td><td>478.5</td></tr>
+<tr><td>Sekundarstufe II EBA (Assistenzstufe)</td><td>79.0</td><td>2.0</td><td>158.0</td></tr>
 </table>
 
 G 2010 308
