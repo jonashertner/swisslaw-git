@@ -3,11 +3,11 @@ sr: "818.102"
 title: "Legge federale del 25 settembre 2020 sulle basi legali delle ordinanze del Consiglio federale volte a far fronte all'epidemia di COVID-19 (Legge COVID-19)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/711"
 language: it
-version: 2023-01-01
+version: 2024-01-01
 adopted: 2020-09-25
 in_force: 2020-09-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/711/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2020-711-20230101-it-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/711/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/711/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2020-711-20240101-it-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/711/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/711/20230101/it"
 
 (Legge COVID-19)
 
-del 25 settembre 2020 (Stato 1° gennaio 2023)
+del 25 settembre 2020 (Stato 1° gennaio 2024)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -84,9 +84,11 @@ Per garantire un approvvigionamento sufficiente della popolazione con materiale 
 
 <sup>4</sup> ...
 
-- [tab] <sup>4bis</sup> Al fine di rafforzare i servizi del settore sanitario nella crisi da COVID‑19, i Cantoni finanziano le riserve di capacità necessarie per far fronte ai picchi di attività. Definiscono le capacità necessarie previa consultazione della Confederazione.[^3-4]
-- [tab] <sup>4ter</sup> Il Consiglio federale può obbligare i Cantoni a notificare le loro capacità nell’assistenza sanitaria, segnatamente il numero complessivo e l’occupazione dei posti letto ospedalieri destinati al trattamento dei malati di COVID‑19.[^3-5]
-- [tab] <sup>5</sup> e <sup>6</sup> ...
+<sup>4bis</sup> Al fine di rafforzare i servizi del settore sanitario nella crisi da COVID‑19, i Cantoni finanziano le riserve di capacità necessarie per far fronte ai picchi di attività. Definiscono le capacità necessarie previa consultazione della Confederazione.[^3-4]
+
+<sup>4ter</sup> Il Consiglio federale può obbligare i Cantoni a notificare le loro capacità nell’assistenza sanitaria, segnatamente il numero complessivo e l’occupazione dei posti letto ospedalieri destinati al trattamento dei malati di COVID‑19.[^3-5]
+
+<sup>5 e <sup>6</sup></sup> ...
 
 <sup>6bis</sup> ...[^3-6]
 
@@ -94,7 +96,7 @@ Per garantire un approvvigionamento sufficiente della popolazione con materiale 
 
 La Confederazione adotta i provvedimenti seguenti di concerto con i Cantoni:
 
-- [tab] a. a c. ...
+- a. a c. ...
 - d.[^3-7] ...
 - e. ...
 
@@ -124,7 +126,7 @@ La Confederazione adotta i provvedimenti seguenti di concerto con i Cantoni:
 
 <sup>1</sup> Il Consiglio federale può ordinare provvedimenti per la protezione dei lavoratori particolarmente a rischio. Può in particolare imporre i relativi obblighi ai datori di lavoro, segnatamente quello di permettere ai lavoratori particolarmente a rischio di adempiere da casa i loro obblighi lavorativi o di svolgere un lavoro alternativo equivalente.[^4-2]
 
-<sup>2</sup> a <sup>4</sup> ...
+<sup>2 a <sup>4</sup></sup> ...
 
 [^4-1]: In vigore sino al 31 dic. 2022, fatto eccezione il cpv. 1 ([RU 2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)II cpv. 2; [FF 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
 [^4-2]: Nuovo testo giusta il n. I della LF del 16 dic. 2022, in vigore dal 1° gen. 2023 al 30 giu. 2024 ([RU 2022 817](https://fedlex.data.admin.ch/eli/oc/2022/817); [FF 2022 1549](https://fedlex.data.admin.ch/eli/fga/2022/1549)).
@@ -271,11 +273,11 @@ I servizi e le persone seguenti sono tenuti a fornire ai servizi competenti dei 
 
 **Provvedimenti nel settore dello sport: contributi a fondo perso per club degli sport di squadra di livello professionistico e semiprofessionistico**[^12b-1]
 
-<sup>1</sup> a <sup>4</sup> ...
+<sup>1 a <sup>4</sup></sup> ...
 
 <sup>5</sup> ...[^12b-2]
 
-<sup>6</sup> e <sup>7</sup> ...
+<sup>6 e <sup>7</sup></sup> ...
 
 <sup>8</sup> Se le condizioni di cui al capoverso 6 lettera a o d oppure l’obbligo di cui al capoverso 7 primo periodo non sono osservati, la restituzione dei contributi è retta dalla legge del 5 ottobre 1990[^12b-3] sui sussidi. Se le condizioni di cui al capoverso 6 lettera b o c non sono osservate, il club è tenuto a restituire quanto eccede il 50 per cento delle entrate non realizzate dalla biglietteria secondo il capoverso 4.[^12b-4]
 
@@ -319,17 +321,15 @@ I servizi e le persone seguenti sono tenuti a fornire ai servizi competenti dei 
 
 Il Consiglio federale può emanare disposizioni che deroghino alla legge del 25 giugno 1982[^17-1] sull’assicurazione contro la disoccupazione (LADI) con riguardo a:
 
-- a.[^17-2] il diritto all’indennità per lavoro ridotto dei formatori professionali che si occupano di apprendisti e il versamento di tale indennità;
-- b.[^17-3] la non considerazione dei periodi di conteggio a partire dal 1° marzo 2020 nei quali la perdita di lavoro è ammontata a oltre l’85 per cento dell’orario normale di lavoro dell’azienda (art. 35 cpv. 1<sup>bis</sup> LADI);
-- c.[^17-4] il prolungamento del termine quadro per la riscossione della prestazione e per il periodo di contribuzione degli assicurati che, tra il 1° marzo e il 31 agosto 2020, hanno avuto diritto a un massimo di 120 indennità giornaliere supplementari;
+- a.[^17-2] ...
+- b.[^17-3] ...
+- c.[^17-4] ...
 - d.[^17-5] ...
 - e.[^17-6] ...
-- [tab] f. e g.[^17-7]...
+- f. e g.[^17-7] ...
 - h.[^17-8] ...
 
-<sup>2</sup> A tutte le persone aventi diritto all’indennità secondo la LADI è riconosciuto per i periodi di controllo di marzo, aprile e maggio 2021 un massimo di 66 indennità giornaliere supplementari. Queste indennità non sono computate nell’attuale numero massimo di indennità giornaliere di cui all’articolo 27 LADI.[^17-9]
-
-<sup>3</sup> Per gli assicurati che hanno diritto alle indennità giornaliere supplementari di cui al capoverso 2, il termine quadro per la riscossione della prestazione è prolungato della durata corrispondente al periodo di riscossione delle indennità giornaliere supplementari. Il termine quadro per il periodo di contribuzione è prolungato all’occorrenza della stessa durata.[^17-10]
+<sup>2 e <sup>3</sup></sup> ...[^17-9]
 
 [^17-1]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
 [^17-2]: In vigore sino al 31 dic. 2023 (art. 21 cpv. 7).
@@ -339,8 +339,7 @@ Il Consiglio federale può emanare disposizioni che deroghino alla legge del 25 
 [^17-6]: In vigore sino al 31 dic. 2022 ([RU 2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)II cpv. 2; [FF 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
 [^17-7]: Introdotte dal n. I della LF del 18 dic. 2020 (Cultura, casi di rigore, sport, assicurazione contro la disoccupazione, multe disciplinari), in vigore dal 19 dic. 2020 al 31 dic. 2021, prorogato sino al 31 dic. 2022 ([RU 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)II cpv. 2; [FF 2020 7713](https://fedlex.data.admin.ch/eli/fga/2020/2359); [2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
 [^17-8]: Introdotta dal n. I della LF del 19 mar. 2021 (Casi di rigore, assicurazione contro la disoccupazione, custodia di bambini complementare alla famiglia, operatori culturali, eventi), in vigore dal 20 mar. 2021 al 31 dic. 2022 ([RU 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [FF 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)).
-[^17-9]: Introdotto dal n. I della LF del 19 mar. 2021 (Casi di rigore, assicurazione contro la disoccupazione, custodia di bambini complementare alla famiglia, operatori culturali, eventi), in vigore dal 20 mar. 2021 al 31 dic. 2023 ([RU 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [FF 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)).
-[^17-10]: Introdotto dal n. I della LF del 19 mar. 2021 (Casi di rigore, assicurazione contro la disoccupazione, custodia di bambini complementare alla famiglia, operatori culturali, eventi), in vigore dal 20 mar. 2021 al 31 dic. 2021, prorogato sino al 31 dic. 2023 ([RU 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [FF 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)).
+[^17-9]: Introdotti dal n. I della LF del 19 mar. 2021 (Casi di rigore, assicurazione contro la disoccupazione, custodia di bambini complementare alla famiglia, operatori culturali, eventi), in vigore dal 20 mar. 2021 al 31 dic. 2023 ([RU 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [FF 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)).
 
 #### Art. 17a
 

@@ -3,11 +3,11 @@ sr: "818.102"
 title: Federal Act of 25 September 2020 on the Statutory Principles for Federal Council Ordinances on Combating the COVID-19 Epidemic (COVID-19 Act)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/711"
 language: en
-version: 2023-01-01
+version: 2024-01-01
 adopted: 2020-09-25
 in_force: 2020-09-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/711/20230101/en/xml/fedlex-data-admin-ch-eli-cc-2020-711-20230101-en-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/711/20230101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/711/20240101/en/xml/fedlex-data-admin-ch-eli-cc-2020-711-20240101-en-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/711/20240101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Act)
 
-of 25 September 2020 (Status as of 1 January 2023)
+of 25 September 2020 (Status as of 1 January 2024)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -323,17 +323,15 @@ The following entities and persons are obliged to provide the competent cantonal
 
 The Federal Council may issue provisions in derogation from the Unemployment Insurance Act of 25 June 1982[^17-1] (UIA) on:
 
-- a.[^17-2] the right to and payment of the short-time work compensation for vocational trainers who supervise apprentices;
-- b.[^17-3] the non-consideration of accounting periods from 1 March 2020 in which the person concerned was unable to work for more than 85 per cent of normal working hours (Art. 35 para. 1<sup>bis</sup> UIA);
-- c.[^17-4] the extension of the period for claiming payments and of the contribution period for insured persons who between 1 March 2020 and 31 August 2020 were entitled to claim a maximum of 120 additional daily allowance payments;
+- a.[^17-2] …
+- b.[^17-3] …
+- c.[^17-4] …
 - d.[^17-5] ...
 - e.[^17-6] ...
 - f. and g.[^17-7] ...
 - h.[^17-8] ...
 
-<sup>2</sup> All persons entitled to claim under the UIA shall receive a maximum of 66 additional daily allowance payments for March, April and May 2021. The current right to the maximum number of daily allowances under Article 27 UIA shall not be reduced thereby.[^17-9]
-
-<sup>3</sup> For insured persons who are entitled to additional daily allowance payments under paragraph 2, the timeframe for claiming payment shall be extended for as long as the additional daily allowance is paid. The timeframe for the contribution period shall be extended by the same duration if required.[^17-10]
+<sup>2</sup> and <sup>3</sup> …[^17-9]
 
 [^17-1]: [SR 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
 [^17-2]: Applies until 31 Dec. 2023 (Art. 21 para. 7).
@@ -344,7 +342,6 @@ The Federal Council may issue provisions in derogation from the Unemployment Ins
 [^17-7]: Inserted by No I of the FA of 18 Dec. 2020 (Culture. Hardship Cases. Sport, Unemployment Insurance, Fixed Penalty Fines), in force from 19 Dec. 2020 to 31 Dec. 2021, extended to 31 Dec. 2022 ([AS 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980), [2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)No II para. 2; [BBl 2020 8819](https://fedlex.data.admin.ch/eli/fga/2020/2359), [2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
 [^17-8]: Inserted by No I of the FA of 19 March 2021 (Hardship Cases, Unemployment Insurance, Childcare, Creative Artists, Events), in force from 20 March 2021 to 31 Dec. 2022 ([AS 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [BBl 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)).
 [^17-9]: Inserted by No I of the FA of 19 March 2021 (Hardship Cases, Unemployment Insurance, Childcare, Creative Artists, Events), in force from 20 March 2021 to 31 Dec. 2023 ([AS 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [BBl 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)).
-[^17-10]: Inserted by No I of the FA of 19 March 2021 (Hardship Cases, Unemployment Insurance, Childcare, Creative Artists, Events), in force from 20 March 2021 to 31 Dec. 2023 ([AS 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [BBl 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)).
 
 #### Art. 17a
 
@@ -356,7 +353,7 @@ The Federal Council may issue provisions in derogation from the Unemployment Ins
 
 [^17b-1]
 
-[^17b-1]: Inserted by No I of the FA of 19 March 2021 (Hardship Cases, Unemployment Insurance, Childcare, Creative Artists, Events) ([AS 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153), [354](https://fedlex.data.admin.ch/eli/oc/2021/354); [BBl 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)). Amended by No I of the FA of 17 Dec. 2021, in force from 18 Dec. 2021 until 31 Dec. 2022 ([AS 2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878); [BBl 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
+[^17b-1]: Inserted by No I of the FA of 19 March 2021 (Hardship Cases, Unemployment Insurance, Childcare, Creative Artists, Events) ([AS 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [BBl 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)). Amended by No I of the FA of 17 Dec. 2021, in force from 18 Dec. 2021 until 31 Dec. 2022 ([AS 2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878); [BBl 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
 
 #### Art. 17c
 
@@ -368,7 +365,7 @@ The Federal Council may issue provisions in derogation from the Unemployment Ins
 
 [^17d-1]
 
-[^17d-1]: Inserted by No I of the FA of 19 March 2021 (Hardship Cases, Unemployment Insurance, Childcare, Creative Artists, Events), in force from 20 March 2021 to 31 Dec. 2022 ([AS 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153), [878](https://fedlex.data.admin.ch/eli/oc/2021/878)No II para. 2; [BBl 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285), [2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
+[^17d-1]: Inserted by No I of the FA of 19 March 2021 (Hardship Cases, Unemployment Insurance, Childcare, Creative Artists, Events), in force from 20 March 2021 to 31 Dec. 2021, extendet till 31 Dec. 2022 ([AS 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153), [878](https://fedlex.data.admin.ch/eli/oc/2021/878)No II para. 2; [BBl 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285), [2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
 
 #### Art. 18
 

@@ -3,11 +3,11 @@ sr: "818.102"
 title: Bundesgesetz vom 25. September 2020 über die gesetzlichen Grundlagen für Verordnungen des Bundesrates zur Bewältigung der Covid-19-Epidemie (Covid-19-Gesetz)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/711"
 language: de
-version: 2023-01-01
+version: 2024-01-01
 adopted: 2020-09-25
 in_force: 2020-09-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/711/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2020-711-20230101-de-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/711/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/711/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2020-711-20240101-de-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/711/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/711/20230101/de"
 
 (Covid-19-Gesetz)
 
-vom 25. September 2020 (Stand am 1. Januar 2023)
+vom 25. September 2020 (Stand am 1. Januar 2024)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -88,7 +88,7 @@ Er kann zur Gewährleistung einer ausreichenden Versorgung der Bevölkerung mit 
 
 <sup>4ter</sup> Der Bundesrat kann die Kantone verpflichten, ihre Kapazitäten in der Gesundheitsversorgung zu melden, namentlich die Gesamtzahl und die Auslastung der Spitalbetten, die für die Behandlung von Covid-19-Erkrankungen bestimmt sind.[^3-5]
 
-<sup>5</sup> und <sup>6</sup> …
+<sup>5 und <sup>6</sup></sup> …
 
 <sup>6bis</sup> …[^3-6]
 
@@ -271,13 +271,13 @@ Folgende Stellen und Personen sind verpflichtet, den zuständigen Amtsstellen de
 
 #### Art. 12b
 
-**Massnahmen im Sportbereich: A-Fonds-perdu-Beiträge für Klubs des professionellen und semiprofessionellen Mannschaftssports**[^12b-1]
+[^12b-1]
 
 <sup>1–4</sup> …
 
 <sup>5</sup> …[^12b-2]
 
-<sup>6</sup> und <sup>7</sup> …
+<sup>6 und <sup>7</sup></sup> …
 
 <sup>8</sup> Werden Bedingungen nach Absatz 6 Buchstabe a oder d oder die Pflicht nach Absatz 7 erster Satz nicht eingehalten, so richtet sich die Rückforderung der Beiträge nach dem Subventionsgesetz vom 5. Oktober 1990[^12b-3]. Werden die Bedingungen nach Absatz 6 Buchstabe b oder c nicht eingehalten, so hat ein Klub diejenigen Beiträge zurückzuerstatten, die 50 Prozent der entgangenen Ticketeinnahmen nach Absatz 4 übersteigen.[^12b-4]
 
@@ -321,17 +321,15 @@ Folgende Stellen und Personen sind verpflichtet, den zuständigen Amtsstellen de
 
 Der Bundesrat kann vom Arbeitslosenversicherungsgesetz vom 25. Juni 1982[^17-1] (AVIG) abweichende Bestimmungen erlassen über:
 
-- a.[^17-2] den Anspruch und die Auszahlung der Kurzarbeitsentschädigung für Berufsbildnerinnen und Berufsbildner, die sich um Lernende kümmern;
-- b.[^17-3] die Nichtberücksichtigung der Abrechnungsperioden ab dem 1. März 2020, für die der Arbeitsausfall 85 Prozent der betrieblichen Arbeitszeit (Art. 35 Abs. 1<sup>bis</sup> AVIG) überschritten hat;
-- c.[^17-4] die Verlängerung der Rahmenfrist für den Leistungsbezug und für die Beitragszeit für Versicherte, die zwischen dem 1. März 2020 und dem 31. August 2020 Anspruch auf maximal 120 zusätzliche Taggelder gehabt haben;
+- a.[^17-2] …
+- b.[^17-3] …
+- c.[^17-4] …
 - d.[^17-5] …
 - e.[^17-6] …
 - f. und g.[^17-7] …
 - h.[^17-8] …
 
-<sup>2</sup> Alle anspruchsberechtigten Personen gemäss AVIG erhalten für die Kontrollperioden März, April und Mai 2021 zusätzlich höchstens 66 Taggelder. Der aktuelle Anspruch auf die Höchstzahl an Taggeldern nach Artikel 27 AVIG wird dadurch nicht belastet.[^17-9]
-
-<sup>3</sup> Für Versicherte, die Anspruch auf zusätzliche Taggelder nach Absatz 2 haben, wird die Rahmenfrist für den Leistungsbezug um die Dauer des zusätzlichen Taggeldbezuges verlängert. Die Rahmenfrist für die Beitragszeit wird bei Bedarf um dieselbe Dauer verlängert.[^17-10]
+<sup>2 und <sup>3</sup></sup> …[^17-9]
 
 [^17-1]: [SR 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
 [^17-2]: Gilt bis zum 31. Dez. 2023 (Art. 21 Abs. 7).
@@ -342,7 +340,6 @@ Der Bundesrat kann vom Arbeitslosenversicherungsgesetz vom 25. Juni 1982[^17-1] 
 [^17-7]: Eingefügt durch Ziff. I des BG vom 18. Dez. 2020 (Kultur, Härtefälle, Sport, Arbeitslosenversicherung, Ordnungsbussen), in Kraft vom 19. Dez. 2020 bis zum 31. Dez. 2021, verlängert bis zum 31. Dez. 2022 ([AS 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)Ziff. II Abs. 2; [BBl 2020 8819](https://fedlex.data.admin.ch/eli/fga/2020/2359); [2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
 [^17-8]: Eingefügt durch Ziff. I des BG vom 19. März 2021 (Härtefälle, Arbeitslosenversicherung, familienergänzende Kinderbetreuung, Kulturschaffende, Veranstaltungen), in Kraft vom 20. März 2021 bis zum 31. Dez. 2022 ([AS 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [BBl 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)).
 [^17-9]: Eingefügt durch Ziff. I des BG vom 19. März 2021 (Härtefälle, Arbeitslosenversicherung, familienergänzende Kinderbetreuung, Kulturschaffende, Veranstaltungen), in Kraft vom 20. März 2021 bis zum 31. Dez. 2023 ([AS 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [BBl 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)).
-[^17-10]: Eingefügt durch Ziff. I des BG vom 19. März 2021 (Härtefälle, Arbeitslosenversicherung, familienergänzende Kinderbetreuung, Kulturschaffende, Veranstaltungen), in Kraft vom 20. März 2021 bis zum 31. Dez. 2023 ([AS 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [BBl 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)).
 
 #### Art. 17a
 
