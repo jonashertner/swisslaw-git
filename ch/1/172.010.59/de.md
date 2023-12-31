@@ -4,11 +4,11 @@ title: Verordnung vom 19. Oktober 2016 über Identitätsverwaltungs-Systeme und 
 short: IAMV
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/610"
 language: de
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2016-10-19
 in_force: 2017-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/610/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2016-610-20230901-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/610/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/610/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2016-610-20240101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/610/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,18 +17,20 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/610/20230901/de"
 
 (IAMV)
 
-vom 19. Oktober 2016 (Stand am 1. September 2023)
+vom 19. Oktober 2016 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
-gestützt auf das Regierungs- und Verwaltungsorganisationsgesetz vom 21. März 1997[^ingress-1] (RVOG), auf Artikel 27 Absätze 5 und 6 des Bundespersonalgesetzes vom 24. März 2000[^ingress-2] und auf die Artikel 2*a* Absatz 2 und 186 Absätze 1 und 2 des Bundesgesetzes vom 3. Oktober 2008[^ingress-3] über militärische und andere Informationssysteme im VBS (MIG),[^ingress-4]
+gestützt auf Artikel 26 und 84 Absatz 1 des Informationssicherheitsgesetzes vom 18. Dezember 2020[^ingress-1] (ISG), auf das Bundesgesetz vom 17. März 2023[^ingress-2] über den Einsatz elektronischer Mittel zur Erfüllung von Behördenaufgaben (EMBAG), auf das Regierungs- und Verwaltungsorganisationsgesetz vom 21. März 1997[^ingress-3] (RVOG), auf Artikel 27 Absätze 5 und 6 des Bundespersonalgesetzes vom 24. März 2000[^ingress-4] und auf Artikel 186 des Bundesgesetzes vom 3. Oktober 2008[^ingress-5] über militärische und andere Informationssysteme im VBS,[^ingress-6]
 
 verordnet:
 
-[^ingress-1]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^ingress-2]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
-[^ingress-3]: [SR 510.91](https://fedlex.data.admin.ch/eli/cc/2009/823)
-[^ingress-4]: Fassung gemäss Anhang Ziff. 2 der V vom 3. März 2023, in Kraft seit 1. April 2023 ([AS 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+[^ingress-1]: [SR 128](https://fedlex.data.admin.ch/eli/cc/2022/232)
+[^ingress-2]: [SR 172.019](https://fedlex.data.admin.ch/eli/cc/2023/682)
+[^ingress-3]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^ingress-4]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^ingress-5]: [SR 510.91](https://fedlex.data.admin.ch/eli/cc/2009/823)
+[^ingress-6]: Fassung gemäss Ziff. I der V vom 8. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 738](https://fedlex.data.admin.ch/eli/oc/2023/738)).
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
 
@@ -42,20 +44,20 @@ Diese Verordnung regelt für die Identitätsverwaltungs-Systeme (IAM[^1-1]-Syste
 
 #### Art. 2
 
-**Geltungsbereich**
+**Geltungsbereich**[^2-1]
 
-<sup>1</sup> Diese Verordnung gilt für die Verwaltungseinheiten der zentralen Bundesverwaltung nach Artikel 7 der Regierungs- und Verwaltungsorganisationsverordnung vom 25. November 1998[^2-1] (RVOV).
+<sup>1</sup>
 
-<sup>2</sup>
+Die Artikel 24 und 25 ISG sowie diese Verordnung gelten für:
 
-Folgende Behörden und Stellen können sich, unter Vorbehalt anders lautender Organisationsbestimmungen des Bundesrechts, durch Vereinbarung verpflichten, diese Verordnung und die darauf gestützten Vorgaben einzuhalten:
+- a. die Verwaltungseinheiten der zentralen Bundesverwaltung nach Artikel 7 der Regierungs- und Verwaltungsorganisationsverordnung vom 25. November 1998[^2-2] (RVOV);
+- b. die Armee.
 
-- a. Einheiten der dezentralen Bundesverwaltung nach Artikel 7*a* RVOV;
-- b. andere Bundesbehörden;
-- c. Organisationen und Personen des öffentlichen oder privaten Rechts, die nicht der Bundesverwaltung angehören, aber mit Bundesverwaltungsaufgaben betraut sind (Art. 2 Abs. 4 RVOG);
-- d. bundesnahe Institutionen mit öffentlicher Zweckbestimmung, wenn ihre Systeme mit den Systemen der Bundesverwaltung verbunden werden sollen.
+<sup>2</sup> Die Geltung dieser Verordnung für die Verwaltungseinheiten der dezentralen Bundesverwaltung nach Artikel 2 Absatz 3 RVOG und Organisationen nach Artikel 2 Absatz 4 RVOG richtet sich nach Artikel 2 Absätze 2 Buchstabe b und 3 der Informationssicherheitsverordnung vom 8. November 2023[^2-3] (ISV).
 
-[^2-1]: [SR 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
+[^2-1]: Fassung gemäss Ziff. I der V vom 8. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 738](https://fedlex.data.admin.ch/eli/oc/2023/738)).
+[^2-2]: [SR 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
+[^2-3]: [SR 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
 
 ## 2. Abschnitt: Zweck und grundsätzliche Funktion der Systeme
 
@@ -79,21 +81,40 @@ Der Zweck eines Verzeichnisdienstes ist es, Informationen über Benutzerinnen un
 
 #### Art. 5
 
-**IAM-Systeme**
+**IAM-Systeme**[^5-1]
 
 <sup>1</sup>
 
-Die für IAM-Systeme verantwortlichen Bundesorgane sind:
+Die folgenden Bundesorgane sind für die nachstehenden IAM-Systeme der zentralen Bundesverwaltung verantwortlich:
 
-- a.[^5-1] der Bereich digitale Transformation und IKT-Lenkung der Bundeskanzlei (Bereich DTI der BK) für alle als Standarddienste angebotenen oder dem Bereich DTI der BK ausdrücklich zugewiesenen IAM-Systeme;
+- a.
+
+  der Bereich digitale Transformation und IKT-Lenkung der Bundeskanzlei (Bereich DTI der BK) für:
+
+  - 1\. alle als Standarddienste angebotenen oder dem Bereich DTI der BK ausdrücklich zugewiesenen IAM-Systeme einschliesslich derer Zurverfügungstellung an Kantone und Gemeinden sowie Organisationen und Personen des öffentlichen oder privaten Rechts nach Artikel 11 Absatz 3 EMBAG,
+  - 2\. das IAM-System der Supportprozesse Finanzen, Beschaffung, Immobilien und Logistik einschliesslich der Cloud-Anbindungen;
+
 - b. die Direktion für Ressourcen im Eidgenössischen Departement für auswärtige Angelegenheiten (EDA) für das von der Informatik EDA betriebene IAM-System;
-- c.[^5-2] das Generalsekretariat des Eidgenössischen Departements für Verteidigung, Bevölkerungsschutz und Sport für das von der Führungsunterstützungsbasis (FUB) der Schweizer Armee betriebene IAM-System;
-- d. das Generalsekretariat des Eidgenössischen Departements für Wirtschaft, Bildung und Forschung (WBF) für das beim Information Service Center WBF (ISCeco) betriebene IAM-System.
+- c. das Generalsekretariat des Eidgenössischen Departements für Verteidigung, Bevölkerungsschutz und Sport für die von der Gruppe Verteidigung (Gruppe V) betriebenen IAM-Systeme;
+- d. die Eidgenössische Finanzverwaltung für das in der zentralen Ausgleichsstelle betriebene IAM-System zur Versorgung der Sozialversicherungssysteme der 1. Säule und deren Prozessunterstützung;
+- e. das Generalsekretariat des Eidgenössischen Departements für Wirtschaft, Bildung und Forschung (WBF) für das beim Information Service Center WBF (ISCeco) betriebene IAM-System;
+- f. das Bundesamt für Strassen für sein IAM-System zum Betrieb der Betriebs- und Sicherheitsausrüstungen der Nationalstrassen.
 
-<sup>2</sup> Die Verantwortung für das nachgelagerte System, insbesondere für den Zugang dazu, bleibt bei der zuständigen Fachstelle.
+<sup>2</sup> Sie sorgen dafür, dass die Bearbeitung der Personendaten in den IAM-Systemen, für die sie verantwortlich sind, mindestens alle vier Jahre von einer externen Stelle überprüft wird.
 
-[^5-1]: Fassung gemäss Anhang Ziff. 8 der V vom 25. Nov. 2020 über die digitale Transformation und die Informatik, in Kraft seit 1. Jan. 2021 ([AS 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
-[^5-2]: Fassung gemäss Ziff. I der V vom 14. Nov. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4739](https://fedlex.data.admin.ch/eli/oc/2018/752)).
+<sup>3</sup>
+
+Die folgenden Organe sind für die nachstehenden IAM-Systeme verantwortlich:
+
+- a. die Gruppe V für die IAM-Systeme der Armee;
+- b. die jeweiligen Verwaltungseinheiten für die IAM-Systeme der Verwaltungseinheiten der dezentralen Bundesverwaltung;
+- c. die jeweiligen Organisationen für die IAM-Systeme der Organisationen nach Artikel 2 Absatz 4 RVOG.
+
+<sup>4</sup> Verpflichtete Behörden nach Artikel 2 Absatz 1 Buchstaben a und c–e ISG, auf die diese Verordnung gemäss Artikel 84 Absatz 3 ISG anwendbar ist, legen fest, welche die in ihrem Bereich verantwortlichen Bundesorgane sind.
+
+<sup>5</sup> Die Verantwortung für das nachgelagerte System, insbesondere für den Zugang dazu, bleibt bei der Fachstelle, die für dieses zuständig ist.
+
+[^5-1]: Fassung gemäss Ziff. I der V vom 8. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 738](https://fedlex.data.admin.ch/eli/oc/2023/738)).
 
 #### Art. 6
 
@@ -108,11 +129,12 @@ Die für Verzeichnisdienste ausserhalb von IAM-Systemen verantwortlichen Bundeso
 
   - 1\. die Informatik EDA der Direktion für Ressourcen im EDA,
   - 2\. das Informatik Service Center des Eidgenössischen Justiz- und Polizeidepartements (ISC-EJPD),
-  - 3\. die FUB,
+  - 3\.[^6-2] die Gruppe V,
   - 4\. das Bundesamt für Informatik und Telekommunikation (BIT),
   - 5\. das ISCeco.
 
 [^6-1]: Ausdruck gemäss Anhang Ziff. 8 der V vom 25. Nov. 2020 über die digitale Transformation und die Informatik, in Kraft seit 1. Jan. 2021 ([AS 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
+[^6-2]: Fassung gemäss Ziff. I der V vom 8. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 738](https://fedlex.data.admin.ch/eli/oc/2023/738)).
 
 #### Art. 7
 
@@ -121,7 +143,14 @@ Die für Verzeichnisdienste ausserhalb von IAM-Systemen verantwortlichen Bundeso
 Die betroffenen Personen machen ihre Rechte in Bezug auf IAM-Systeme und Verzeichnisdienste bei den folgenden Stellen geltend:
 
 - a. ihr Auskunftsrecht: bei den verantwortlichen Organen;
-- b. ihr Berichtigungs- und Vernichtungsrecht: beim Personaldienst ihrer Verwaltungseinheit oder ihrer Organisation oder bei der sonst für die Nachführung ihrer Daten zuständigen Stelle.
+- b.[^7-1]
+
+  ihr Berichtigungs- und Vernichtungsrecht:
+
+  - 1\. beim Personaldienst ihrer Verwaltungseinheit oder ihrer Organisation oder bei der sonst für die Nachführung ihrer Daten zuständigen Stelle,
+  - 2\. im Falle von Artikel 9 Buchstabe b: bei den verantwortlichen Organen.
+
+[^7-1]: Fassung gemäss Ziff. I der V vom 8. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 738](https://fedlex.data.admin.ch/eli/oc/2023/738)).
 
 ## 4. Abschnitt: Bearbeitete Daten, Bezug der Daten und Aufbewahrungsfrist
 
@@ -171,7 +200,9 @@ Weiter können in den IAM-Systemen und den Verzeichnisdiensten Daten über die f
 In den IAM-Systemen können, zusätzlich zu den Daten nach Artikel 8, Daten der folgenden Personen bearbeitet werden:
 
 - a. von Angehörigen kantonaler oder kommunaler Behörden, wenn diese Personen vom Bund bereitgestellte Informationssysteme benutzen;
-- b. von Privatpersonen und Vertreterinnen oder Vertretern von Organisationen, die auf vom Bund bereitgestellte Informationssysteme, wie E-Government-Anwendungen, zugreifen.
+- b.[^9-1] von Privatpersonen und Vertreterinnen oder Vertretern von Organisationen, die auf vom Bund oder, für den Vollzug von kantonalem Recht, von Kantonen und Gemeinden sowie Organisationen und Personen des öffentlichen oder privaten Rechts bereitgestellte Informationssysteme, wie E-Government-Anwendungen, zugreifen.
+
+[^9-1]: Fassung gemäss Ziff. I der V vom 8. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 738](https://fedlex.data.admin.ch/eli/oc/2023/738)).
 
 #### Art. 10
 
@@ -185,13 +216,15 @@ In den Verzeichnisdiensten können, zusätzlich zu den Daten nach Artikel 8, Dat
 
 <sup>1</sup> In den IAM-Systemen, den Verzeichnisdiensten und dem zentralen Identitätsspeicher nach Artikel 13 dürfen Personendaten gemäss Anhang bearbeitet werden.
 
-<sup>2</sup> …[^11-1]
+<sup>2</sup> Es darf in diesen Systemen kein Profiling nach Artikel 5 Buchstaben f und g des Datenschutzgesetzes vom 25. September 2020[^11-1] durchgeführt werden.[^11-2]
 
-<sup>3</sup> Es dürfen in diesen Systemen, sofern hierfür keine besondere rechtliche Grundlage besteht, keine besonders schützenswerten Personendaten bearbeitet werden.
+<sup>3</sup> Es dürfen in diesen Systemen, sofern hierfür keine besondere rechtliche Grundlage besteht, keine besonders schützenswerten Personendaten bearbeitet werden. Davon ausgenommen ist die Bearbeitung biometrischer Daten durch IAM-Systeme zur risikogerechten Identifizierung von Personen nach den Artikeln 8 und 9 Buchstabe a (Art. 20 Abs. 2 ISG).[^11-3]
 
 <sup>4</sup> Die im Anhang mit einem Stern gekennzeichneten Daten von Personen nach Artikel 8 dürfen in einem Personenverzeichnis publiziert werden, das allen darin erfassten Personen zugänglich ist.
 
-[^11-1]: Aufgehoben durch Anhang 2 Ziff. II 18 der Datenschutzverordnung vom 31. Aug. 2022, mit Wirkung seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^11-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^11-2]: Fassung gemäss Ziff. I der V vom 8. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 738](https://fedlex.data.admin.ch/eli/oc/2023/738)).
+[^11-3]: Fassung gemäss Ziff. I der V vom 8. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 738](https://fedlex.data.admin.ch/eli/oc/2023/738)).
 
 #### Art. 12
 
@@ -203,9 +236,12 @@ In den Verzeichnisdiensten können, zusätzlich zu den Daten nach Artikel 8, Dat
 
 <sup>3</sup> Sie können Daten von externen Personen mit regelmässigem Zugang zu Ressourcen des Bundes automatisch von den jeweiligen Informationssystemen beziehen.
 
+<sup>4</sup> Sie können Daten von externen Personen automatisch von externen IAM-Systemen beziehen, die nach den Artikeln 21–24 mit den IAM-Systemen des Bundes verbunden sind.[^12-4]
+
 [^12-1]: [SR 172.220.111.4](https://fedlex.data.admin.ch/eli/cc/2017/793)
 [^12-2]: Fassung gemäss Anhang 8 Ziff. II 1 der V vom 22. Nov. 2017 über den Schutz von Personendaten des Bundespersonals, in Kraft seit 1. Jan. 2018 ([AS 2017 7271](https://fedlex.data.admin.ch/eli/oc/2017/793)).
 [^12-3]: Audruck gemäss Anhang 8 Ziff. II 1 der V vom 22. Nov. 2017 über den Schutz von Personendaten des Bundespersonals, in Kraft seit 1. Jan. 2018 ([AS 2017 7271](https://fedlex.data.admin.ch/eli/oc/2017/793)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
+[^12-4]: Eingefügt durch Ziff. I der V vom 8. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 738](https://fedlex.data.admin.ch/eli/oc/2023/738)).
 
 #### Art. 13
 
@@ -221,19 +257,20 @@ In den Verzeichnisdiensten können, zusätzlich zu den Daten nach Artikel 8, Dat
 
 Die Daten können weiteren bundesinternen Informationssystemen automatisch zur Übernahme und zum Abgleich bereitgestellt werden, sofern das jeweilige System:
 
-- a. über eine Rechtsgrundlage und ein Bearbeitungsreglement nach Artikel 6 der Datenschutzverordnung vom 31. August 2022[^13-1] (DSV) verfügt; und
-- b. beim Eidgenössischen Datenschutz- und Öffentlichkeitsbeauftragten nach Artikel 12 Absatz 4 des Datenschutzgesetzes vom 25. September 2020[^13-2] angemeldet wurde.[^13-3]
+- a.[^13-1] über eine Rechtsgrundlage, welche die Bearbeitung der bereitzustellenden Daten vorsieht, und ein Bearbeitungsreglement nach Artikel 6 der Datenschutzverordnung vom 31. August 2022[^13-2] (DSV) verfügt; und
+- b. beim Eidgenössischen Datenschutz- und Öffentlichkeitsbeauftragten nach Artikel 12 Absatz 4 des Datenschutzgesetzes vom 25. September 2020[^13-3] angemeldet wurde.[^13-4]
 
-<sup>4bis</sup> Die AHV-Nummer wird nur bereitgestellt, sofern ihre Verwendung der Zentralen Ausgleichsstelle nach Artikel 134<sup>ter</sup> der Verordnung vom 31. Oktober 1947[^13-4] über die Alters- und Hinterlassenenversicherung gemeldet wird.[^13-5]
+<sup>4bis</sup> Die AHV-Nummer wird nur bereitgestellt, sofern ihre Verwendung der Zentralen Ausgleichsstelle nach Artikel 134<sup>ter</sup> der Verordnung vom 31. Oktober 1947[^13-5] über die Alters- und Hinterlassenenversicherung gemeldet wird.[^13-6]
 
-<sup>5</sup> Die für die Publikation des Eidgenössischen Staatskalenders nötigen Daten nach Artikel 5 der Organisationsverordnung vom 29. Oktober 2008[^13-6] für die Bundeskanzlei werden regelmässig an die Bundeskanzlei übermittelt.
+<sup>5</sup> Die für die Publikation des Eidgenössischen Staatskalenders nötigen Daten nach Artikel 5 der Organisationsverordnung vom 29. Oktober 2008[^13-7] für die Bundeskanzlei werden regelmässig an die Bundeskanzlei übermittelt.
 
-[^13-1]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^13-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^13-3]: Fassung gemäss Anhang 2 Ziff. II 18 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^13-4]: [SR 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
-[^13-5]: Eingefügt durch Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 282](https://fedlex.data.admin.ch/eli/oc/2022/282)).
-[^13-6]: [SR 172.210.10](https://fedlex.data.admin.ch/eli/cc/2008/719)
+[^13-1]: Fassung gemäss Ziff. I der V vom 8. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 738](https://fedlex.data.admin.ch/eli/oc/2023/738)).
+[^13-2]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^13-3]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^13-4]: Fassung gemäss Anhang 2 Ziff. II 18 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^13-5]: [SR 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^13-6]: Eingefügt durch Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 282](https://fedlex.data.admin.ch/eli/oc/2022/282)).
+[^13-7]: [SR 172.210.10](https://fedlex.data.admin.ch/eli/cc/2008/719)
 
 #### Art. 14
 
@@ -241,9 +278,9 @@ Die Daten können weiteren bundesinternen Informationssystemen automatisch zur �
 
 <sup>1</sup> Ist eine Person aus dem Geltungsbereich dieser Verordnung ausgeschieden, so werden ihre Daten in den IAM-Systemen und den Verzeichnisdiensten spätestens nach zwei Jahren vernichtet.
 
-<sup>2</sup> Vorbehalten bleiben die Bestimmungen über die Vernichtung von biometrischen Daten nach Artikel 2*a* MIG.[^14-1]
+<sup>2</sup> Vorbehalten bleiben die Bestimmungen über die Vernichtung von biometrischen Daten nach Artikel 20 Absatz 2 ISG.[^14-1]
 
-[^14-1]: Eingefügt durch Ziff. I der V vom 14. Nov. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4739](https://fedlex.data.admin.ch/eli/oc/2018/752)).
+[^14-1]: Eingefügt durch Ziff. I der V vom 14. Nov. 2018 ([AS 2018 4739](https://fedlex.data.admin.ch/eli/oc/2018/752)). Fassung gemäss Ziff. I der V vom 8. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 738](https://fedlex.data.admin.ch/eli/oc/2023/738)).
 
 ## 5. Abschnitt: Datenbekanntgaben bei IAM-Systemen
 
@@ -275,22 +312,27 @@ Das IAM-System authentifiziert Personen, Maschinen oder Systeme, die den Zugang 
 
 [^17-1]: Fassung gemäss Anhang 2 Ziff. II 18 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
-## 6. Abschnitt: Massnahmen zum Schutz der IAM-Systeme
+## 6. Abschnitt: Massnahmen zum Schutz der IAM-Systeme und Verzeichnisdienste
+
+[^sec6-1]
+
+[^sec6-1]: Fassung gemäss Ziff. I der V vom 8. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 738](https://fedlex.data.admin.ch/eli/oc/2023/738)).
 
 #### Art. 18
 
 **Anforderungen an die Informationssicherheit**
 
-<sup>1</sup> Interne und externe Betreiber von Komponenten eines IAM-Systems müssen über dokumentierte Vorgaben für die Handhabung der Informationssicherheit und der Risiken verfügen. Insbesondere erlässt jedes verantwortliche Organ eines Systems nach dieser Verordnung ein Bearbeitungsreglement nach Artikel 6 DSV[^18-1].[^18-2]
+<sup>1</sup> Interne und externe Betreiber von Komponenten eines IAM-Systems oder Verzeichnisdiensts müssen über schriftlich festgehaltene Vorgaben für die Handhabung der Informationssicherheit und der Risiken verfügen. Insbesondere erlässt jedes nach dieser Verordnung verantwortliche Organ eines Systems oder Verzeichnisdiensts ein Bearbeitungsreglement nach Artikel 6 DSV[^18-1].[^18-2]
 
-<sup>2</sup> IAM-Systeme, die nicht von Stellen nach Artikel 2 oder in deren Auftrag geführt werden, dürfen nur mit bundesinternen IAM-Systemen verbunden werden, wenn sie die vordefinierten Minimalanforderungen bezüglich der Informationssicherheit erfüllen.
+<sup>2</sup> IAM-Systeme und Verzeichnisdienste, die nicht von Stellen nach Artikel 2 oder in deren Auftrag geführt werden, dürfen nur mit bundesinternen IAM-Systemen oder Verzeichnisdiensten verbunden werden, wenn sie die Minimalanforderungen bezüglich der Informationssicherheit erfüllen.[^18-3]
 
 <sup>3</sup> Für den Zugang zu bestimmten Informationssystemen können von der zuständigen Stelle oder vom Bereich DTI der BK die Einhaltung höherer Anforderungen und bestimmte Zertifizierungen verlangt werden.
 
 <sup>4</sup> Der Bereich DTI der BK regelt in Weisungen die einzuhaltenden Sicherheitsanforderungen und Verfahren.
 
 [^18-1]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^18-2]: Fassung des zweiten Satzes gemäss Anhang 2 Ziff. II 18 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^18-2]: Fassung gemäss Ziff. I der V vom 8. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 738](https://fedlex.data.admin.ch/eli/oc/2023/738)).
+[^18-3]: Fassung gemäss Ziff. I der V vom 8. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 738](https://fedlex.data.admin.ch/eli/oc/2023/738)).
 
 #### Art. 19
 
@@ -306,20 +348,25 @@ Das IAM-System authentifiziert Personen, Maschinen oder Systeme, die den Zugang 
 
 #### Art. 20
 
-**IAM-Verbund des Bundes**
+**IAM-Gesamtsystem**[^20-1]
 
-Die IAM-Systeme der Bundesverwaltung können untereinander und mit den IAM-Systemen der Parlamentsdienste oder der Armee zu einem Gesamtsystem verbunden werden.
+Die IAM-Systeme des Bundes können untereinander und mit den externen IAM-Systemen nach Artikel 21 zu einem Gesamtsystem verbunden werden.
+
+[^20-1]: Fassung gemäss Ziff. I der V vom 8. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 738](https://fedlex.data.admin.ch/eli/oc/2023/738)).
 
 #### Art. 21
 
 **Anschluss externer IAM-Systeme: Voraussetzungen**
 
-Nachstehende externe IAM-Systeme können für den Zugang der in ihnen geführten Personen zu den Ressourcen des Bundes an die IAM-Systeme des Bundes angeschlossen werden, sofern sie die Bedingungen und Verfahren nach den Artikeln 22 und 23 einhalten:
+Die nachstehenden externen IAM-Systeme können für den Zugang der in ihnen geführten Personen zu den Ressourcen des Bundes an die IAM-Systeme des Bundes angeschlossen werden, sofern sie die Bedingungen und Verfahren nach den Artikeln 22 und 23 einhalten und ihre Betreiber sich verpflichten, diese Verordnung und die gestützt darauf erlassenen Vorgaben einzuhalten oder im Falle der Kantone diese eine mindestens gleichwertige Informationssicherheit gewährleisten:[^21-1]
 
-- a. IAM-Systeme mit kantonalen und kommunalen Mitarbeiterinnen und Mitarbeitern nach Artikel 9 Buchstabe a;
+- a.[^21-2] IAM-Systeme mit kantonalen und kommunalen Mitarbeiterinnen und Mitarbeitern nach Artikel 9 Buchstabe a sowie IAM-Systeme des Fürstentums Liechtenstein;
 - b. vom Bereich DTI der BK anerkannte IAM-Systeme, die für den Identitätsverbund im E‑Government vorgesehen sind;
 - c. ausländische IAM-Systeme oder Identitätsverbunde, deren gegenseitige Anbindung in einem Staatsvertrag vorgesehen ist; oder
 - d. Attribut-Register, die Angaben zu beruflichen Funktionen gemäss Anhang Buchstabe b für den Abruf bereitstellen.
+
+[^21-1]: Fassung gemäss Ziff. I der V vom 8. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 738](https://fedlex.data.admin.ch/eli/oc/2023/738)).
+[^21-2]: Fassung gemäss Ziff. I der V vom 8. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 738](https://fedlex.data.admin.ch/eli/oc/2023/738)).
 
 #### Art. 22
 
@@ -358,13 +405,21 @@ Der Antrag enthält insbesondere:
 
 IAM-Systeme des Bundes können als Lieferant von Identitäts- und Authentifizierungsinformationen an ein externes IAM-System oder einen externen Identitätsverbund angeschlossen werden, wenn die folgenden Voraussetzungen erfüllt sind:
 
-- a. Der Anschluss dient dazu, Personen nach Artikel 8 oder 9 den Zugang zu im Auftrag des Bundes von Externen betriebenen Informationssystemen oder zu fremden Informationssystemen zu gewähren, auf die sie zur Erfüllung ihrer gesetzlichen Aufgaben zugreifen müssen.
+- a.[^24-1]
+
+  Der Anschluss dient dazu, Personen nach Artikel 8 oder 9 den Zugang:
+
+  - 1\. zu im Auftrag des Bundes von Externen betriebenen Informationssystemen oder zu fremden Informationssystemen zu gewähren, auf die sie zur Erfüllung ihrer gesetzlichen Aufgaben zugreifen müssen; oder
+  - 2\. zu für den Vollzug von kantonalem Recht von Kantonen und Gemeinden sowie Organisationen und Personen des öffentlichen oder privaten Rechts bereitgestellten Informationssystemen, wie E-Government-Anwendungen, zu gewähren.
+
 - b. Es besteht eine Vereinbarung zwischen dem Bund und dem Betreiber des empfangenden Informationssystems, welche die Beziehung in rechtlicher, organisatorischer und technischer Hinsicht regelt.
 - c. Die Verbindung ist so konfiguriert, dass sie einzig für den Zugang zu bestimmten, vordefinierten Informationssystemen verwendet werden kann.
 
 <sup>2</sup> Der Bereich DTI der BK regelt in Weisungen die einzuhaltenden Sicherheitsanforderungen in Absprache mit dem für das entsprechende IAM-System verantwortlichen Organ und überprüft die Einhaltung periodisch.
 
 <sup>3</sup> Ebenfalls möglich ist die Teilnahme an einem internationalen Identitätsverbund auf der Basis eines Staatsvertrags, sofern gewährleistet ist, dass die Anforderungen an die Informationssicherheit eingehalten werden.
+
+[^24-1]: Fassung gemäss Ziff. I der V vom 8. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 738](https://fedlex.data.admin.ch/eli/oc/2023/738)).
 
 ## 8. Abschnitt: Protokollierung, Statistiken und Dokumentation
 
@@ -437,29 +492,32 @@ Diese Verordnung tritt am 1. Januar 2017 in Kraft.
 
 Anhang[^t-1]
 
-(Art. 11 Abs. 1 und 4 sowie 13 Abs. 1 und 2)
+(Art. 11 sowie 13 Abs. 1 und 2)
 
 ## Datenkategorien
 
-[^t-1]: Bereinigt gemäss Ziff. II der V vom 14. Nov. 2018 ([AS 2018 4739](https://fedlex.data.admin.ch/eli/oc/2018/752)) und Ziff. II der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 282](https://fedlex.data.admin.ch/eli/oc/2022/282)).
+[^t-1]: Fassung gemäss Ziff. II der V vom 8. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 738](https://fedlex.data.admin.ch/eli/oc/2023/738)).
 
 Vorbemerkung: Zur Bedeutung der Sterne (\*) siehe Artikel 11 Absatz 4.
 
 <table>
-<tr><th></th><th>Verzeichnis-Dienste</th><th>IAM-Systeme, mit Personen nach Art. 8 und 9 Bst. a</th><th>IAM-Systeme mit Personen nach Art. 9 Bst. b</th></tr>
-<tr><td>a. Angaben zur Person</td><td></td><td></td><td></td></tr>
-<tr><td>1. derzeitige(r) Familienname(n)\*</td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td>2. derzeitige(r) Vorname(n)\*</td><td>x</td><td>x</td><td>x</td></tr>
+<tr><th></th><th>Verzeichnisdienste</th><th>IAM-Systeme mit Personen nach Art. 8 und 9 Bst. a</th><th>IAM-Systeme mit Personen nach Art. 9 Bst. b</th></tr>
+<tr><td>a. Angaben zur Person</td><td>[tab]</td><td>[tab]</td><td>[tab]</td></tr>
+<tr><td>1. Name\*</td><td>x</td><td>x</td><td>x</td></tr>
+<tr><td>2. Vornamen\*</td><td>x</td><td>x</td><td>x</td></tr>
 <tr><td>3. Geburtsdatum</td><td></td><td>x</td><td>x</td></tr>
-<tr><td>4. Geschlecht</td><td></td><td>x</td><td>x</td></tr>
-<tr><td>5. Anrede\*</td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td>6. Titel\*</td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td>7. Initialen\*</td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td>8. Lokale Personenidentifikatoren</td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td>9. Berufsbezeichnung\*</td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td>10. Korrespondenzsprache\*</td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td>11. Gesichtsbild für Ausweise</td><td>x</td><td>x</td><td></td></tr>
-<tr><td>12. AHV-Nummer</td><td>x</td><td>x</td><td>x</td></tr>
+<tr><td>4. Geburtsort</td><td></td><td></td><td>x</td></tr>
+<tr><td>5. Nationalität</td><td></td><td></td><td>x</td></tr>
+<tr><td>6. Geschlecht</td><td></td><td>x</td><td>x</td></tr>
+<tr><td>7. Anrede\*</td><td>x</td><td>x</td><td>x</td></tr>
+<tr><td>8. Titel\*</td><td>x</td><td>x</td><td>x</td></tr>
+<tr><td>9. Initialen\*</td><td>x</td><td>x</td><td>x</td></tr>
+<tr><td>10. lokale Personenidentifikatoren</td><td>x</td><td>x</td><td>x</td></tr>
+<tr><td>11. Berufsbezeichnung\*</td><td>x</td><td>x</td><td>x</td></tr>
+<tr><td>12. Korrespondenzsprache\*</td><td>x</td><td>x</td><td>x</td></tr>
+<tr><td>13. besondere biometrische Personenmerkmale, insbesondere Irisbild, Retina, Venenscan, Fingerabdruck, Handabdruck, Gesichtsformmerkmale und Stimmprofil</td><td>[tab]</td><td>x</td><td>[tab]</td></tr>
+<tr><td>14. Gesichtsbild</td><td>x</td><td>x</td><td>x</td></tr>
+<tr><td>15. AHV-Nummer</td><td>x</td><td>x</td><td>x</td></tr>
 <tr><td>b. Angaben zum Verhältnis zum Arbeit-/Auftraggeber</td><td></td><td></td><td></td></tr>
 <tr><td>1. Anstellungsverhältnis (intern/extern)\*</td><td>x</td><td>x</td><td></td></tr>
 <tr><td>2. Informationen zur Organisation und zu den Planstellen\*</td><td>x</td><td>x</td><td>x</td></tr>
@@ -470,31 +528,29 @@ Vorbemerkung: Zur Bedeutung der Sterne (\*) siehe Artikel 11 Absatz 4.
 <tr><td>7. Stellenbezeichnung\*</td><td>x</td><td>x</td><td></td></tr>
 <tr><td>8. Kennung des Personalinformationssystems (Quelle)</td><td>x</td><td>x</td><td></td></tr>
 <tr><td>9. Eintritts- und Austrittsdatum</td><td>x</td><td>x</td><td></td></tr>
-<tr><td>[tab]</td><td></td><td></td><td></td></tr>
 <tr><td>10. Ausweis- und/oder Badgenummer</td><td>x</td><td>x</td><td>x</td></tr>
 <tr><td>c. Kontaktangaben</td><td></td><td></td><td></td></tr>
 <tr><td>1. Arbeitsort und geschäftliche Postadresse\*</td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td>2. Büronummer\*</td><td>x</td><td></td><td></td></tr>
-<tr><td>3. geschäftliche Adressierungselemente\* wie E‑Mail‑Adresse\*, Telefonnummern\*, Faxnummer\*, VOIP-Adresse\*</td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td>4. externe Adressierungselemente\* (für Mitarbeiter/innen und Beauftragte\*) oder private Adressierungselemente</td><td>x</td><td>x</td><td>x</td></tr>
+<tr><td>2. private Postadresse</td><td></td><td></td><td>x</td></tr>
+<tr><td>3. Büronummer\*</td><td>x</td><td>x</td><td></td></tr>
+<tr><td>4. geschäftliche Adressierungselemente\* wie E‑Mail‑Adresse\*, Telefonnummern\*, Faxnummer\*, VOIP‑Adresse\*</td><td>x</td><td>x</td><td>x</td></tr>
+<tr><td>5. externe Adressierungselemente\* (für Mitarbeiter/innen und Beauftragte\*) oder private Adressierungselemente</td><td>x</td><td>x</td><td>x</td></tr>
 <tr><td>d. Angaben zu beruflichen Funktionen</td><td></td><td></td><td></td></tr>
 <tr><td>1. Einträge aus offiziellen Berufsregistern (Arzt/Ärztin, Urkundsperson, Anwalt/Anwältin usw.)</td><td></td><td>x</td><td>x</td></tr>
 <tr><td>2. Funktionen gemäss Handelsregister und weiteren Vertretungsregistern</td><td></td><td>x</td><td>x</td></tr>
 <tr><td>e. technische Angaben</td><td></td><td></td><td></td></tr>
-<tr><td>1. Zugeordnete Geräte, Anschlüsse, Systeme, Anwendungen usw.</td><td>x</td><td>x</td><td>x</td></tr>
+<tr><td>1. zugeordnete Geräte, Anschlüsse, Systeme, Anwendungen usw.</td><td>x</td><td>x</td><td>x</td></tr>
 <tr><td>2. Adressierungselemente, Kennnummern usw.</td><td>x</td><td></td><td></td></tr>
 <tr><td>3. Systemsprache der Geräte, Anschlüsse usw.</td><td>x</td><td>x</td><td>x</td></tr>
 <tr><td>4. öffentliche Schlüssel der digitalen Zertifikate\*</td><td>x</td><td>x</td><td>x</td></tr>
 <tr><td>5. Berechtigungsgruppen</td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td>6. Namen für Anmeldung an den IT-Systemen</td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td>7. Passwort(e)</td><td></td><td>x</td><td>x</td></tr>
-<tr><td>8. Letztes Login</td><td></td><td>x</td><td>x</td></tr>
-<tr><td>9. Fehlgeschlagene Login-Versuche</td><td></td><td>x</td><td>x</td></tr>
+<tr><td>6. Namen für die Anmeldung an den IT-Systemen</td><td>x</td><td>x</td><td>x</td></tr>
+<tr><td>7. Passwörter (kryptographisch gesichert)</td><td></td><td>x</td><td>x</td></tr>
+<tr><td>8. letztes Login</td><td></td><td>x</td><td>x</td></tr>
+<tr><td>9. fehlgeschlagene Login-Versuche</td><td></td><td>x</td><td>x</td></tr>
 <tr><td>10. Status (aktiv/passiv)</td><td></td><td>x</td><td>x</td></tr>
-<tr><td>f. Daten über die Personensicherheitsprüfung, sofern diese zu einer auflagenfreien Sicherheitserklärung geführt hat oder die entscheidende Instanz einen positiven Entscheid gefällt hat</td><td></td><td></td><td></td></tr>
+<tr><td>[tab] 11. Authentisierungsqualität</td><td></td><td>x</td><td>x</td></tr>
+<tr><td>f. Daten über die Personensicherheitsprüfung, sofern diese zu einer vorbehaltlosen Sicherheitserklärung geführt hat oder die entscheidende Instanz einen positiven Entscheid gefällt hat.</td><td></td><td></td><td></td></tr>
 <tr><td>1. Prüfstufe</td><td></td><td>x</td><td></td></tr>
-<tr><td>2. Zeitpunkt der nächsten Wiederholung der Personensicherheitsprüfung</td><td></td><td>x</td><td></td></tr>
-<tr><td>[tab] g. Daten, die nur in dem von der Führungsunterstützungsbasis der Schweizer Armee betriebenen IAM-System (Art. 5 Abs. 1 Bst. c) bearbeitet werden dürfen</td><td></td><td></td><td></td></tr>
-<tr><td>1. …</td><td></td><td></td><td></td></tr>
-<tr><td>2. besondere biometrische Personenmerkmale: Irisbild, Venenscan, Fingerabdruck, Handabdruck, Gesichtsformmerkmale und Stimmprofil (Art. 2*a* MIG)</td><td></td><td>x</td><td></td></tr>
+<tr><td>2. Geltungsdauer der Sicherheitserklärung</td><td></td><td>x</td><td></td></tr>
 </table>
