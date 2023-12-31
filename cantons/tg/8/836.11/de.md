@@ -1,27 +1,27 @@
 ---
 canton: TG
 number: "836.11"
-title: Verordnung des Regierungsrates zum Gesetz über die Familienzulagen
+title: Familienzulagenverordnung
 short: TG FamZV
 language: de
-version: 2022-01-01
-valid_until: 2023-12-31
-version_adopted: 2021-10-26
+version: 2024-01-01
+valid_until: 2025-12-31
+version_adopted: 2023-07-04
 adopted: 2008-11-11
 in_force: 2009-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/836.11"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/1946/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2714/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung des Regierungsrates zum Gesetz über die Familienzulagen
+# Familienzulagenverordnung
 
 TG FamZV
 
 (TG FamZV)
 
-vom 11.11.2008 (Stand 01.01.2022)
+vom 11.11.2008 (Stand 01.01.2024)
 
 #### § 1
 
@@ -83,7 +83,11 @@ vom 11.11.2008 (Stand 01.01.2022)
 
 **Finanzierung der Familienzulagen für Nichterwerbstätige**
 
-<sup>1</sup> Nichterwerbstätige haben einen Anteil von 34 % ihrer AHV-Beiträge zu leisten, sofern diese den Mindestbeitrag nach Art. 10 des Bundesgesetzes über die Alters- und Hinterlassenenversicherung[^7a-1] übersteigen.
+<sup>1</sup> Nichterwerbstätige leisten einen prozentualen Anteil ihrer AHV-Beiträge, sofern diese den Mindestbeitrag nach Art. 10 des Bundesgesetzes über die Alters- und Hinterlassenenversicherung[^7a-1] übersteigen.
+
+<sup>2</sup> Die Höhe des prozentualen Anteils wird jährlich für das Folgejahr berechnet und auf eine Dezimalstelle gerundet.
+
+<sup>3</sup> Er entspricht dem auf der Grundlage der vorangehenden acht Jahre ermittelten Verhältnis der durchschnittlich von der kantonalen Familienausgleichskasse geleisteten Aufwendungen für die Familienzulagen an Nichterwerbstätige und der durchschnittlichen Gesamtsumme der eingenommenen Beiträge der Nichterwerbstätigen aus der AHV.
 
 [^7a-1]: SR [831.10](https://db.clex.ch/link/Bund/831.10/de)
 
