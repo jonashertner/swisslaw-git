@@ -4,11 +4,11 @@ title: Ordinanza del 21 dicembre 2006 sugli impianti a fune adibiti al trasporto
 short: OIFT
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/14"
 language: it
-version: 2020-07-01
+version: 2024-01-01
 adopted: 2006-12-21
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/14/20200701/it/xml/fedlex-data-admin-ch-eli-cc-2007-14-20200701-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/14/20200701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/14/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2007-14-20240101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/14/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/14/20200701/it"
 
 (Ordinanza sugli impianti a fune; OIFT)
 
-del 21 dicembre 2006 (Stato 1° luglio 2020) (Stato 1° luglio 2020)
+del 21 dicembre 2006 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -32,7 +32,7 @@ ordina:
 
 ## Capitolo 1: Disposizioni generali
 
-### Sezione 1: Oggetto, campo d’applicazione e definizioni****
+### Sezione 1: Oggetto, campo d’applicazione e definizioni
 
 [^chap1-sec1-1]
 
@@ -128,7 +128,7 @@ Gli obblighi degli operatori economici riportati di seguito sono retti dalle seg
 [^3a-1]: Introdotto dal n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
 [^3a-2]: Cfr. nota a piè di pagina relativa all’art. 3 cpv. 4.
 
-### Sezione 2: Impianti soggetti ad autorizzazione cantonale****
+### Sezione 2: Impianti soggetti ad autorizzazione cantonale
 
 [^chap1-sec2-1]
 
@@ -180,7 +180,7 @@ L’autorizzazione non può essere rilasciata se:
 [^4a-1]: Introdotto dal n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
 [^4a-2]: [RS 745.11](https://fedlex.data.admin.ch/eli/cc/2009/739)
 
-### Sezione 3: Requisiti essenziali, disposizioni complementari, deroghe alle norme tecniche****
+### Sezione 3: Requisiti essenziali, disposizioni complementari, deroghe alle norme tecniche
 
 [^chap1-sec3-1]
 
@@ -218,7 +218,7 @@ Chi intende mettere in esercizio impianti a fune o mettere a disposizione sul me
 
 [^6a-1]: Introdotto dal n. I dell’O del 2 set. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)). Nuovo testo giusta il n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
 
-### Sezione 4: Disposizioni varie****
+### Sezione 4: Disposizioni varie
 
 [^chap1-sec4-1]
 
@@ -262,13 +262,13 @@ Chi intende mettere in esercizio impianti a fune o mettere a disposizione sul me
 
 [^10-1]: [RS 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
 
-## Capitolo 2: Costruzione e modifica di impianti a fune soggetti a concessione federale****
+## Capitolo 2: Costruzione e modifica di impianti a fune soggetti a concessione federale
 
 [^chap2-1]
 
 [^chap2-1]: Nuovo testo giusta il n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
 
-### Sezione 1: Procedura d’approvazione dei piani****
+### Sezione 1: Procedura d’approvazione dei piani
 
 [^chap2-sec1-1]
 
@@ -937,7 +937,7 @@ L’autorità di vigilanza vieta a una persona, a tempo indeterminato, di eserci
 
 [^47a-1]: Introdotto dal n. I dell’O del 2 set. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)). Nuovo testo giusta il n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
 
-### Sezione 3*a*:**** Capacità di prestare servizio
+### Sezione 3*a*: Capacità di prestare servizio
 
 [^chap3-sec3a-1]
 
@@ -1176,6 +1176,16 @@ Notifica immediatamente all’autorità di vigilanza:
 [^56-4]: [RS 742.161](https://fedlex.data.admin.ch/eli/cc/2015/26)
 [^56-5]: Introdotto dal n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
 
+#### Art. 56a
+
+**Notifiche al servizio cantonale di vigilanza sulle misurazioni**[^56a-1]
+
+<sup>1</sup> L’UFT informa il servizio cantonale di vigilanza sulle misurazioni in merito all’apertura di una procedura d’approvazione dei piani.
+
+<sup>2</sup> L’impresa di trasporto a fune è tenuta a informare tale servizio entro un termine di 20 giorni in merito alle modifiche di sue costruzioni e suoi impianti che rendono necessaria una tenuta a giorno della misurazione ufficiale.
+
+[^56a-1]: Introdotto dall’all. n. 13 dell’O del 23 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
+
 #### Art. 57
 
 **Obbligo di conservare**[^57-1]
@@ -1363,7 +1373,7 @@ I documenti e la corrispondenza relativi alle procedure di valutazione della con
 
 [^66-1]: Nuovo testo giusta il n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
 
-### Sezione 3:**** Periti
+### Sezione 3: Periti
 
 [^chap5-sec3-1]
 
@@ -1440,8 +1450,8 @@ Sono abrogate le seguenti ordinanze:
 - d. ordinanza del 24 ottobre 1961[^70-4] sulle funivie sussidiate esenti dalla concessione federale;
 - e. ordinanza del 15 febbraio 1957[^70-5] concernente la prevenzione degli infortuni nella costruzione e nell’esercizio di teleferiche e di funicolari che servono al trasporto di persone sui cantieri e nelle imprese commerciali e industriali.
 
-[^70-1]: [[RU 1986 632](https://fedlex.data.admin.ch/eli/oc/1986/632_632_632), [1991 1476](https://fedlex.data.admin.ch/eli/oc/1991/1476_1476_1476)art. 34 n. 4, [1994 1233](https://fedlex.data.admin.ch/eli/oc/1994/1233_1233_1233)art. 145, [1997 1008](https://fedlex.data.admin.ch/eli/oc/1997/1008_1008_1008)all. n. 6, [1999 754](https://fedlex.data.admin.ch/eli/oc/1999/116)all. n. 5, [2000 2103](https://fedlex.data.admin.ch/eli/oc/2000/320)all. II 3 [2538](https://fedlex.data.admin.ch/eli/oc/2000/405)[2777](https://fedlex.data.admin.ch/eli/oc/2000/468), [2005 4957](https://fedlex.data.admin.ch/eli/oc/2005/677)]
-[^70-2]: [[RU 1978 1806](https://fedlex.data.admin.ch/eli/oc/1978/1806_1806_1806), [1987 1052](https://fedlex.data.admin.ch/eli/oc/1987/1052_1052_1052)art. 52 lett. e,[1989 342](https://fedlex.data.admin.ch/eli/oc/1989/342_342_342), [1996 146](https://fedlex.data.admin.ch/eli/oc/1996/146_146_146)I 7, [1997 2779](https://fedlex.data.admin.ch/eli/oc/1997/2779_2779_2779)II 50, [1999 704](https://fedlex.data.admin.ch/eli/oc/1999/104)II 25 [754](https://fedlex.data.admin.ch/eli/oc/1999/116)all n. 4]
+[^70-1]: [[RU 1986 632](https://fedlex.data.admin.ch/eli/oc/1986/632_632_632); [1991 1476](https://fedlex.data.admin.ch/eli/oc/1991/1476_1476_1476)art. 34 n. 4; [1994 1233](https://fedlex.data.admin.ch/eli/oc/1994/1233_1233_1233)art. 145; [1997 1008](https://fedlex.data.admin.ch/eli/oc/1997/1008_1008_1008)all. n. 6; [1999 754](https://fedlex.data.admin.ch/eli/oc/1999/116)all. n. 5; [2000 2103](https://fedlex.data.admin.ch/eli/oc/2000/320)all. II 3, [2538](https://fedlex.data.admin.ch/eli/oc/2000/405), [2777](https://fedlex.data.admin.ch/eli/oc/2000/468); [2005 4957](https://fedlex.data.admin.ch/eli/oc/2005/677)]
+[^70-2]: [[RU 1978 1806](https://fedlex.data.admin.ch/eli/oc/1978/1806_1806_1806); [1987 1052](https://fedlex.data.admin.ch/eli/oc/1987/1052_1052_1052)art. 52 lett. e;[1989 342](https://fedlex.data.admin.ch/eli/oc/1989/342_342_342); [1996 146](https://fedlex.data.admin.ch/eli/oc/1996/146_146_146)I 7; [1997 2779](https://fedlex.data.admin.ch/eli/oc/1997/2779_2779_2779)II 50; [1999 704](https://fedlex.data.admin.ch/eli/oc/1999/104)II 25, [754](https://fedlex.data.admin.ch/eli/oc/1999/116)all n. 4]
 [^70-3]: [[RU 1972 596](https://fedlex.data.admin.ch/eli/oc/1972/664_672_596), [1974 1973](https://fedlex.data.admin.ch/eli/oc/1974/1973_1973_1973), [1991 370](https://fedlex.data.admin.ch/eli/oc/1991/370_370_370)all. n. 5, [1999 704](https://fedlex.data.admin.ch/eli/oc/1999/104)II 27]
 [^70-4]: [[RU 1961 958](https://fedlex.data.admin.ch/eli/oc/1961/921_937_958), [1972 2489](https://fedlex.data.admin.ch/eli/oc/1972/2655_2709_2489)]
 [^70-5]: [[RU 1957 153](https://fedlex.data.admin.ch/eli/oc/1957/143_146_153), [2002 3933](https://fedlex.data.admin.ch/eli/oc/2002/615)]
@@ -1510,7 +1520,7 @@ Per gli impianti e le parti di impianti realizzati prima del 1° gennaio 2007 ri
 
 La presente ordinanza entra in vigore il 1° gennaio 2007.
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 (art. 4 cpv. 2, 11 cpv. 1 lett. a e 12)
 
@@ -1553,7 +1563,7 @@ Allegato 1*[^t-1]*
 
 <sup>3</sup> Il capoverso 2 numero 3 non si applica alle sciovie a fune bassa.
 
-Allegato 2*[^t-2]*
+Allegato 2[^t-2]
 
 (art. 4 cpv. 3 e 16 lett. a)
 
@@ -1579,7 +1589,7 @@ Nel quadro della procedura di approvazione dei piani, sulla base dei documenti p
 - 14\. il rapporto di sicurezza e i suoi fondamenti;
 - 15\. il rapporto di perizia di cui all’allegato 1.
 
-Allegato 3*[^t-3]*
+Allegato 3[^t-3]
 
 (art. 26 cpv. 2 lett. c)
 

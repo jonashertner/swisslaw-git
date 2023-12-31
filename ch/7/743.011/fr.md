@@ -4,11 +4,11 @@ title: "Ordonnance du 21 décembre 2006 sur les installations à câbles transpo
 short: OICa
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/14"
 language: fr
-version: 2020-07-01
+version: 2024-01-01
 adopted: 2006-12-21
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/14/20200701/fr/xml/fedlex-data-admin-ch-eli-cc-2007-14-20200701-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/14/20200701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/14/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-14-20240101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/14/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/14/20200701/fr"
 
 (Ordonnance sur les installations à câbles, OICa)
 
-du 21 décembre 2006 (Etat le 1<sup>er</sup> juillet 2020)
+du 21 décembre 2006 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -32,7 +32,7 @@ arrête:
 
 ## Chapitre 1 Dispositions générales
 
-### Section 1 Objet, champ d’application et définitions****
+### Section 1 Objet, champ d’application et définitions
 
 [^chap1-sec1-1]
 
@@ -129,7 +129,7 @@ Les obligations des opérateurs économiques énumérés ci-après sont régies 
 [^3a-1]: Introduit par le ch. I de l’O du 11 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
 [^3a-2]: Cf. note de bas de page relative à l’art. 3, al. 4.
 
-### Section 2 Installations soumises à autorisation cantonale****
+### Section 2 Installations soumises à autorisation cantonale
 
 [^chap1-sec2-1]
 
@@ -181,7 +181,7 @@ L’autorisation ne peut pas être octroyée:
 [^4a-1]: Introduit par le ch. I de l’O du 2 sept. 2015, en vigueur depuis le 1<sup>er</sup> oct. 2015 ([RO 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
 [^4a-2]: [RS 745.11](https://fedlex.data.admin.ch/eli/cc/2009/739)
 
-### Section 3 Exigences essentielles, prescriptions complémentaires, dérogations aux normes techniques****
+### Section 3 Exigences essentielles, prescriptions complémentaires, dérogations aux normes techniques
 
 [^chap1-sec3-1]
 
@@ -219,7 +219,7 @@ Quiconque veut mettre en service une installation à câbles ou mettre à dispos
 
 [^6a-1]: Introduit par le ch. I de l’O du 2 sept. 2015 ([RO 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)). Nouvelle teneur selon le ch. I de l’O du 11 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
 
-### Section 4 Dispositions diverses****
+### Section 4 Dispositions diverses
 
 [^chap1-sec4-1]
 
@@ -263,7 +263,7 @@ Quiconque veut mettre en service une installation à câbles ou mettre à dispos
 
 [^10-1]: [RS 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
 
-## Chapitre 2 Construction et modification d’installations à câbles soumises à concession fédérale****
+## Chapitre 2 Construction et modification d’installations à câbles soumises à concession fédérale
 
 [^chap2-1]
 
@@ -937,7 +937,7 @@ L’autorité de surveillance interdit, pour une durée indéterminée, d’exer
 
 [^47a-1]: Introduit par le ch. I de l’O du 2 sept. 2015 ([RO 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)). Nouvelle teneur selon le ch. I de l’O du 11 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
 
-### Section 3*a***** Capacité d’assurer le service
+### Section 3*a* Capacité d’assurer le service
 
 [^chap3-sec3a-1]
 
@@ -1053,7 +1053,7 @@ Le transport des marchandises dangereuses est régi par les dispositions:
 - a. de l’ordonnance du 31 octobre 2012 sur les contenants de marchandises dangereuses[^49-2], et
 - b. de l’ordonnance du 31 octobre 2012 sur le transport de marchandises dangereuses par chemin de fer et par installation à câbles[^49-3].
 
-[^49-1]: Nouvelle teneur selon le ch. II 2 de l’annexe 3 à l’O du 31 oct. 2012 sur le transport de marchandises dangereuses par chemin de fer et par installation à câbles, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6541](https://fedlex.data.admin.ch/eli/oc/2012/785)).
+[^49-1]: Nouvelle teneur selon l’annexe 3 ch. II 2 de l’O du 31 oct. 2012 sur le transport de marchandises dangereuses par chemin de fer et par installation à câbles, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6541](https://fedlex.data.admin.ch/eli/oc/2012/785)).
 [^49-2]: [RS 930.111.4](https://fedlex.data.admin.ch/eli/cc/2012/797)
 [^49-3]: [RS 742.412](https://fedlex.data.admin.ch/eli/cc/2012/785)
 
@@ -1177,6 +1177,16 @@ L’entreprise de transport à câbles annonce immédiatement à l’autorité d
 [^56-3]: Nouvelle teneur selon le ch. I de l’O du 11 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
 [^56-4]: [RS 742.161](https://fedlex.data.admin.ch/eli/cc/2015/26)
 [^56-5]: Introduit par le ch. I de l’O du 2 sept. 2015, en vigueur depuis le 1<sup>er</sup> oct. 2015 ([RO 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+
+#### Art. 56a
+
+**Annonces au service cantonal du cadastre**[^56a-1]
+
+<sup>1</sup> L’OFT informe le service cantonal du cadastre de l’ouverture d’une procédure d’approbation des plans.
+
+<sup>2</sup> L’entreprise de transport à câbles doit informer ce service dans un délai de 20 jours de toute modification de ses constructions et installations rendant nécessaire une mise à jour de la mensuration officielle.
+
+[^56a-1]: Introduit par l’annexe ch. 13 de l’O du 23 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 57
 
@@ -1366,7 +1376,7 @@ Les dossiers et la correspondance relatifs aux procédures d’évaluation de la
 
 [^66-1]: Nouvelle teneur selon le ch. I de l’O du 11 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
 
-### Section 3**** Experts
+### Section 3 Experts
 
 [^chap5-sec3-1]
 
@@ -1513,7 +1523,7 @@ S’agissant des contrôles périodiques, les dispositions qui figurent aux ch. 
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2007.
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 (art. 4, al. 2, 11, al. 1, let. a, et 12)
 
@@ -1556,7 +1566,7 @@ Annexe 1*[^t-1]*
 
 <sup>3</sup> L’al. 2, ch. 3, n’est pas applicable aux téléskis à câble bas.
 
-Annexe 2*[^t-2]*
+Annexe 2[^t-2]
 
 (art. 4, al. 3, et 16, let. a)
 
@@ -1582,7 +1592,7 @@ Sur la base des documents présentés, l’autorité qui délivre l’autorisati
 - 14\. le rapport de sécurité et ses bases;
 - 15\. le rapport d’expert selon l’annexe 1.
 
-Annexe 3*[^t-3]*
+Annexe 3[^t-3]
 
 (art. 26, al. 2, let. c)
 

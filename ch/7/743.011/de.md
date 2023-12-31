@@ -4,11 +4,11 @@ title: "Verordnung vom 21. Dezember 2006 über Seilbahnen zur Personenbeförderu
 short: SebV
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/14"
 language: de
-version: 2020-07-01
+version: 2024-01-01
 adopted: 2006-12-21
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/14/20200701/de/xml/fedlex-data-admin-ch-eli-cc-2007-14-20200701-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/14/20200701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/14/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2007-14-20240101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/14/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/14/20200701/de"
 
 (Seilbahnverordnung, SebV)
 
-vom 21. Dezember 2006 (Stand am 1. Juli 2020)
+vom 21. Dezember 2006 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -32,7 +32,7 @@ verordnet:
 
 ## 1. Kapitel: Allgemeine Bestimmungen
 
-### 1. Abschnitt: Gegenstand, Geltungsbereich und Begriffe****
+### 1. Abschnitt: Gegenstand, Geltungsbereich und Begriffe
 
 [^chap1-sec1-1]
 
@@ -128,7 +128,7 @@ Die Pflichten der folgenden Wirtschaftsakteure richten sich nach den nachstehend
 [^3a-1]: Eingefügt durch Ziff. I der V vom 11. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
 [^3a-2]: Siehe Fussnote zu Art. 3 Abs. 4.
 
-### 2. Abschnitt: Anlagen mit kantonaler Bewilligung****
+### 2. Abschnitt: Anlagen mit kantonaler Bewilligung
 
 [^chap1-sec2-1]
 
@@ -181,7 +181,7 @@ Die Bewilligung darf nicht erteilt werden, wenn:
 [^4a-1]: Eingefügt durch Ziff. I der V vom 2. Sept. 2015, in Kraft seit 1. Okt. 2015 ([AS 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
 [^4a-2]: [SR 745.11](https://fedlex.data.admin.ch/eli/cc/2009/739)
 
-### 3. Abschnitt: Grundlegende Anforderungen, Ergänzende Vorschriften, Abweichungen von technischen Normen****
+### 3. Abschnitt: Grundlegende Anforderungen, Ergänzende Vorschriften, Abweichungen von technischen Normen
 
 [^chap1-sec3-1]
 
@@ -219,7 +219,7 @@ Wer Seilbahnen in Betrieb nehmen oder Teilsysteme oder Sicherheitsbauteile auf d
 
 [^6a-1]: Eingefügt durch Ziff. I der V vom 2. Sept. 2015 ([AS 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)). Fassung gemäss Ziff. I der V vom 11. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
 
-### 4. Abschnitt: Vermischte Bestimmungen****
+### 4. Abschnitt: Vermischte Bestimmungen
 
 [^chap1-sec4-1]
 
@@ -263,7 +263,7 @@ Wer Seilbahnen in Betrieb nehmen oder Teilsysteme oder Sicherheitsbauteile auf d
 
 [^10-1]: [SR 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
 
-## 2. Kapitel: Bau und Änderung von Seilbahnen mit Bundeskonzession****
+## 2. Kapitel: Bau und Änderung von Seilbahnen mit Bundeskonzession
 
 [^chap2-1]
 
@@ -931,7 +931,7 @@ Die Aufsichtsbehörde verbietet einer Person die Ausübung der Tätigkeit als te
 
 [^47a-1]: Eingefügt durch Ziff. I der V vom 2. Sept. 2015 ([AS 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)). Fassung gemäss Ziff. I der V vom 11. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
 
-### 3*a*. Abschnitt:**** Dienstfähigkeit
+### 3*a*. Abschnitt: Dienstfähigkeit
 
 [^chap3-sec3a-1]
 
@@ -1170,6 +1170,16 @@ Es hat der Aufsichtsbehörde unverzüglich zu melden:
 [^56-4]: [SR 742.161](https://fedlex.data.admin.ch/eli/cc/2015/26)
 [^56-5]: Eingefügt durch Ziff. I der V vom 2. Sept. 2015, in Kraft seit 1. Okt. 2015 ([AS 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
 
+#### Art. 56a
+
+**Meldungen an die kantonale Vermessungsaufsicht**[^56a-1]
+
+<sup>1</sup> Das BAV informiert die kantonale Vermessungsaufsicht über die Eröffnung eines Plangenehmigungsverfahrens.
+
+<sup>2</sup> Das Seilbahnunternehmen hat diese Stelle innert 20 Tagen über Änderungen seiner Bauten und Anlagen zu informieren, die eine Nachführung der amtlichen Vermessung notwendig machen.
+
+[^56a-1]: Eingefügt durch Anhang Ziff. 13 der V vom 23. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
+
 #### Art. 57
 
 **Aufbewahrungspflicht**[^57-1]
@@ -1357,7 +1367,7 @@ Aufzeichnungen und Schriftwechsel im Zusammenhang mit den Konformitätsbewertung
 
 [^66-1]: Fassung gemäss Ziff. I der V vom 11. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
 
-### 3. Abschnitt:**** Sachverständige
+### 3. Abschnitt: Sachverständige
 
 [^chap5-sec3-1]
 
@@ -1504,7 +1514,7 @@ Für Anlagen und Anlagenteile, die vor dem 1. Januar 2007 errichtet wurden, blei
 
 Diese Verordnung tritt am 1. Januar 2007 in Kraft.
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 4 Abs. 2, 11 Abs. 1 Bst. a und 12)
 
@@ -1547,7 +1557,7 @@ Anhang 1*[^t-1]*
 
 <sup>3</sup> Absatz 2 Ziffer 3 findet auf Skilifte mit niedriger Seilführung keine Anwendung.
 
-Anhang 2*[^t-2]*
+Anhang 2[^t-2]
 
 (Art. 4 Abs. 3 und 16 Bst. a)
 
@@ -1573,7 +1583,7 @@ Die Bewilligungsbehörde kann im Rahmen des Plangenehmigungsverfahrens betreffen
 - 14\. den Sicherheitsbericht und dessen Grundlagen;
 - 15\. den Sachverständigenbericht nach Anhang 1.
 
-Anhang 3*[^t-3]*
+Anhang 3[^t-3]
 
 (Art. 26 Abs. 2 Bst. c)
 
