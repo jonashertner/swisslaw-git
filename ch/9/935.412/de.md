@@ -4,11 +4,11 @@ title: Verordnung vom 12. August 2015 über das Datenbearbeitungssystem private 
 short: VDPS
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/530"
 language: de
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2015-08-12
 in_force: 2015-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/530/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2015-530-20230901-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/530/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/530/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2015-530-20240101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/530/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/530/20230901/de"
 
 (VDPS)
 
-vom 12. August 2015 (Stand am 1. September 2023)
+vom 12. August 2015 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -113,17 +113,18 @@ Im DPS können alle Dokumente zu elektronisch gespeicherten Geschäften erfasst 
 
 <sup>1</sup>
 
-Die Daten- und die Informatiksicherheit richten sich nach:
+Die Daten- und die Informationssicherheit richten sich nach:[^9-1]
 
-- a.[^9-1] der Datenschutzverordnung vom 31. August 2022[^9-2];
-- b. der Cyberrisikenverordnung vom 27. Mai 2020[^9-3].[^9-4]
+- a.[^9-2] der Datenschutzverordnung vom 31. August 2022[^9-3];
+- b.[^9-4] der Informationssicherheitsverordnung vom 8. November 2023[^9-5].
 
 <sup>2</sup> Die PD erlässt ein Bearbeitungsreglement. Dieses regelt die organisatorischen und technischen Massnahmen zur Gewährleistung der Datensicherheit sowie die Kontrolle der Datenbearbeitung.
 
-[^9-1]: Fassung gemäss Anhang 2 Ziff. II 133 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^9-2]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^9-3]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^9-4]: Fassung gemäss Anhang Ziff. 36 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^9-1]: Fassung gemäss Anhang 2 Ziff. II 42 der Informationssicherheitsverordnung vom 8. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^9-2]: Fassung gemäss Anhang 2 Ziff. II 133 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^9-3]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^9-4]: Fassung gemäss Anhang 2 Ziff. II 42 der Informationssicherheitsverordnung vom 8. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^9-5]: [SR 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
 
 #### Art. 10
 

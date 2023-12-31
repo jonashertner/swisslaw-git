@@ -4,11 +4,11 @@ title: Ordinanza del 12 agosto 2015 sul sistema di trattamento dei dati concerne
 short: ODPSP
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/530"
 language: it
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2015-08-12
 in_force: 2015-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/530/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2015-530-20230901-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/530/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/530/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2015-530-20240101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/530/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/530/20230901/it"
 
 (ODPSP)
 
-del 12 agosto 2015 (Stato 1° settembre 2023)
+del 12 agosto 2015 (Stato 1° gennaio 2024)
 
 Il Consiglio federale Svizzero,
 
@@ -113,17 +113,18 @@ Nel sistema di trattamento dei dati possono essere immessi tutti i documenti rel
 
 <sup>1</sup>
 
-La sicurezza dei dati e la sicurezza informatica sono rette:
+La sicurezza dei dati e la sicurezza delle informazioni sono rette:[^9-1]
 
-- a.[^9-1] dall’ordinanza del 31 agosto 2022[^9-2] sulla protezione dei dati;
-- b. dall’ordinanza del 27 maggio 2020[^9-3] sui ciber-rischi.[^9-4]
+- a.[^9-2] dall’ordinanza del 31 agosto 2022[^9-3] sulla protezione dei dati;
+- b.[^9-4] dall’ordinanza dell’8 novembre 2023[^9-5] sulla sicurezza delle informazioni.
 
 <sup>2</sup> La DP emana un regolamento sul trattamento dei dati. Il regolamento disciplina le misure organizzative e tecniche volte ad assicurare la sicurezza dei dati e il controllo del trattamento dei dati.
 
-[^9-1]: Nuovo testo giusta l’all. 2 n. II 133 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^9-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^9-3]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^9-4]: Nuovo testo giusta l’all. n. 36 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^9-1]: Nuovo testo giusta l’all. 2 n. II 42 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^9-2]: Nuovo testo giusta l’all. 2 n. II 133 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^9-3]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^9-4]: Nuovo testo giusta l’all. 2 n. II 42 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^9-5]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
 
 #### Art. 10
 
