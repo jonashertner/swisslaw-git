@@ -4,13 +4,13 @@ number: "615.11"
 title: Gebührentarif
 short: GT
 language: de
-version: 2022-07-01
-valid_until: 2023-12-31
-version_adopted: 2021-08-31
+version: 2024-01-01
+valid_until: 2024-03-31
+version_adopted: 2022-09-07
 adopted: 2016-03-08
 in_force: 2016-07-15
 url: "https://bgs.so.ch/app/de/texts_of_law/615.11"
-pdf: "https://bgs.so.ch/api/de/versions/5186/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5315/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.so.ch/api/de/versions/5186/pdf_file"
 
 (GT)
 
-Vom 08.03.2016 (Stand 01.07.2022)
+Vom 08.03.2016 (Stand 01.01.2024)
 
 Der Kantonsrat von Solothurn
 
@@ -1575,18 +1575,18 @@ beschliesst:
 
 <sup>1</sup> Die Gebühren für das Ausstellen eines Jagdpasses betragen für den
 
-- a) Jahresjagdpass für Jagdpächter mit Wohnsitz im Kanton — 100
-- b) Jahresjagdpass für Jagdpächter mit Wohnsitz ausserhalb des Kantons — 200
-- c) Jahresjagdpass für Jagdgäste mit Wohnsitz im Kanton — 180
-- d) Jahresjagdpass für Jagdgäste mit Wohnsitz ausserhalb des Kantons — 320
+- a) Jahresjagdpass für Jagdpächter mit Niederlassung im Kanton — 100
+- b) Jahresjagdpass für Jagdpächter mit Niederlassung ausserhalb des Kantons — 200
+- c) Jahresjagdpass für Jagdgäste mit Niederlassung im Kanton — 180
+- d) Jahresjagdpass für Jagdgäste mit Niederlassung ausserhalb des Kantons — 320
   - 1\. …
   - 2\. …
   - 3\. …
-- e) Mehrjahresjagdpass für Jagdpächter mit Wohnsitz im Kanton (pro Jahr) — 80
+- e) Mehrjahresjagdpass für Jagdpächter mit Niederlassung im Kanton (pro Jahr) — 80
   - 1\. …
   - 2\. …
   - 3\. …
-- f) Mehrjahresjagdpass für Jagdpächter mit Wohnsitz ausserhalb des Kantons (pro Jahr) — 160
+- f) Mehrjahresjagdpass für Jagdpächter mit Niederlassung ausserhalb des Kantons (pro Jahr) — 160
 - g) Jagdpass für Auszubildende — 100
 - h) Tagesjagdpass — 30
 
@@ -1638,7 +1638,7 @@ beschliesst:
 - f) Jugend-Wochenpatent — 30
 - g) Jugend-Tagespatent — 15
 
-<sup>2</sup> Für Personen mit Wohnsitz ausserhalb des Kantons Solothurn kann ein Zuschlag auf die Patentgebühren von bis zu 100 Prozent erhoben werden.
+<sup>2</sup> Für Personen mit Niederlassung ausserhalb des Kantons Solothurn kann ein Zuschlag auf die Patentgebühren von bis zu 100 Prozent erhoben werden.
 
 <sup>3</sup> Die Gebühren, die für andere fischereiliche Bewilligungen erhoben werden, betragen für
 
