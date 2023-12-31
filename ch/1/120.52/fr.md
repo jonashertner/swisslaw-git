@@ -4,11 +4,11 @@ title: "Ordonnance du 4 décembre 2009 sur les mesures de police administrative 
 short: OMAH
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/847"
 language: fr
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2009-12-04
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/847/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2009-847-20230901-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/847/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/847/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2009-847-20240101-fr-xml-19.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/847/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/847/20230901/fr"
 
 (OMAH)[^t-1]
 
-du 4 décembre 2009 (État le 1<sup>er</sup> septembre 2023)
+du 4 décembre 2009 (État le 1<sup>er</sup> janvier 2024)
 
 [^t-1]: Nouvelle teneur selon l’appendice 2 ch. 1 de l’O du 21 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
 
@@ -27,7 +27,7 @@ vu les art. 24*a*, al. 7 et 8, et 30 de la loi fédérale du 21 mars 1997 instit
 
 arrête:
 
-[^ingress-1]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
+[^ingress-1]: [RS 120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4735)
 [^ingress-2]: Nouvelle teneur selon le ch. I de l’O du 14 déc. 2012, en vigueur depuis le 1<sup>er</sup> fév. 2013 ([RO 2013 1](https://fedlex.data.admin.ch/eli/oc/2013/1)).
 
 ## Section 1 Dispositions générales
@@ -40,7 +40,7 @@ La présente ordonnance règle:
 
 - a. l’exécution de mesures de police administrative par l’Office fédéral de la police (fedpol) sur la base de la LMSI;
 - b. le système d’information HOOGAN de fedpol;
-- c.[^1-1] ...
+- c.[^1-1] …
 
 [^1-1]: Abrogée par l’appendice 2 ch. 1 de l’O du 21 nov. 2012, avec effet au 1<sup>er</sup> janv. 2013 ([RO 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
 
@@ -89,7 +89,7 @@ Il y a notamment comportement violent et actes de violence lorsqu’une personne
 
 [^4-1]: Nouvelle teneur selon le ch. I de l’O du 14 déc. 2012, en vigueur depuis le 1<sup>er</sup> fév. 2013 ([RO 2013 1](https://fedlex.data.admin.ch/eli/oc/2013/1)).
 [^4-2]: Nouvelle teneur selon le ch. I de l’O du 14 déc. 2012, en vigueur depuis le 1<sup>er</sup> fév. 2013 ([RO 2013 1](https://fedlex.data.admin.ch/eli/oc/2013/1)).
-[^4-3]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^4-3]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^4-4]: Nouvelle teneur selon le ch. I de l’O du 14 déc. 2012, en vigueur depuis le 1<sup>er</sup> fév. 2013 ([RO 2013 1](https://fedlex.data.admin.ch/eli/oc/2013/1)).
 [^4-5]: Nouvelle teneur selon le ch. I de l’O du 14 déc. 2012, en vigueur depuis le 1<sup>er</sup> fév. 2013 ([RO 2013 1](https://fedlex.data.admin.ch/eli/oc/2013/1)).
 [^4-6]: Nouvelle teneur selon le ch. I de l’O du 14 déc. 2012, en vigueur depuis le 1<sup>er</sup> fév. 2013 ([RO 2013 1](https://fedlex.data.admin.ch/eli/oc/2013/1)).
@@ -111,7 +111,7 @@ Sont considérés comme preuve d’un comportement violent:
 
 <sup>2</sup> Les témoignages visés à l’al. 1, let. b, doivent être déposés par écrit et signés.
 
-[^5-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
+[^5-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 6
 
@@ -137,7 +137,7 @@ Les cantons informent en outre fedpol:
 
 <sup>3</sup> Fedpol détermine l’échelle des plans visés à l’al. 2, let. c.[^6-2]
 
-[^6-1]: Nouvelle teneur selon le ch. I 1 de l’O du 4 mai 2022 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup>er juin 2022 ([RO 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^6-1]: Nouvelle teneur selon le ch. I 1 de l’O du 4 mai 2022 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 [^6-2]: Nouvelle teneur selon le ch. I de l’O du 14 déc. 2012, en vigueur depuis le 1<sup>er</sup> fév. 2013 ([RO 2013 1](https://fedlex.data.admin.ch/eli/oc/2013/1)).
 
 #### Art. 7
@@ -170,8 +170,8 @@ Il y a des éléments concrets et actuels pouvant motiver une interdiction de se
 
 <sup>7</sup> L’interdiction de se rendre dans un pays donné doit être consignée dans le système de recherches informatisées de la police (RIPOL) et communiquée à l’OFDF, aux autorités cantonales de police et aux autorités policières et douanières étrangères compétentes.[^7-2]
 
-[^7-1]: Nouvelle teneur selon le ch. I 1 de l’O du 4 mai 2022 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup>er juin 2022 ([RO 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
-[^7-2]: Nouvelle teneur selon le ch. I 1 de l’O du 4 mai 2022 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup>er juin 2022 ([RO 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^7-1]: Nouvelle teneur selon le ch. I 1 de l’O du 4 mai 2022 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^7-2]: Nouvelle teneur selon le ch. I 1 de l’O du 4 mai 2022 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 
 #### Art. 7a
 
@@ -182,8 +182,8 @@ Il y a des éléments concrets et actuels pouvant motiver une interdiction de se
 <sup>2</sup> Il peut aussi demander aux autorités cantonales de police de prononcer une interdiction de périmètre ou une obligation de se présenter.[^7a-3]
 
 [^7a-1]: Introduit par le ch. I de l’O du 14 déc. 2012, en vigueur depuis le 1<sup>er</sup> fév. 2013 ([RO 2013 1](https://fedlex.data.admin.ch/eli/oc/2013/1)).
-[^7a-2]: Nouvelle teneur selon le ch. I 1 de l’O du 4 mai 2022 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup>er juin 2022 ([RO 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
-[^7a-3]: Nouvelle teneur selon le ch. I 1 de l’O du 4 mai 2022 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup>er juin 2022 ([RO 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^7a-2]: Nouvelle teneur selon le ch. I 1 de l’O du 4 mai 2022 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^7a-3]: Nouvelle teneur selon le ch. I 1 de l’O du 4 mai 2022 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 
 ## Section 4 Système d’information HOOGAN
 
@@ -216,50 +216,56 @@ Les autorités ci-après ont accès à HOOGAN exclusivement aux fins suivantes:
 - b.[^9-3] les collaborateurs des autorités cantonales de police chargés d’empêcher la violence lors de manifestations sportives: pour les interdictions de périmètre, les obligations de se présenter et les gardes à vue, pour l’évaluation de l’analyse et l’appréciation de la situation, ainsi que pour la communication de données personnelles aux organisateurs de manifestations sportives en Suisse;
 - c. les services des autorités cantonales de police: pour l’identification des personnes en cas de violence lors de manifestations sportives;
 - d.[^9-4] les collaborateurs de l’OFDF affectés au contrôle des personnes: pour l’exécution des interdictions de se rendre dans un pays donné et d’entrer sur le territoire suisse;
-- e.[^9-5] ...
+- e.[^9-5] …
+- f.[^9-6] les services spécialisés chargés de réaliser les contrôles de sécurité relatifs aux personnes (services spécialisés CSP) visés à l’art. 31, al. 2, de la loi du 18 décembre 2020 sur la sécurité de l’information[^9-7]: pour les procédures visées à l’art. 1, al. 1, de l’ordonnance du 8 novembre 2023 sur les contrôles de sécurité relatifs aux personnes[^9-8].
 
-<sup>2</sup> Un accès complet ou un accès partiel à HOOGAN peut être autorisé. L’accès complet permet la lecture, la saisie, la modification et l’effacement de données. L’accès partiel ne permet que la lecture des données actives dans un cas concret.[^9-6]
+<sup>2</sup> Un accès complet ou un accès partiel à HOOGAN peut être autorisé. L’accès complet permet la lecture, la saisie, la modification et l’effacement de données. L’accès partiel ne permet que la lecture des données actives dans un cas concret.[^9-9]
 
 <sup>3</sup>
 
 Disposent d’un accès complet:
 
 - a. le Domaine Hooliganisme;
-- b. les collaborateurs des autorités cantonales et communales de police chargés d’empêcher la violence lors de manifestations sportives et les collaborateurs de l’OFDF affectés au contrôle des personnes.[^9-7]
+- b. les collaborateurs des autorités cantonales et communales de police chargés d’empêcher la violence lors de manifestations sportives et les collaborateurs de l’OFDF affectés au contrôle des personnes;
+- c.[^9-10] les services spécialisés CSP.[^9-11]
 
 <sup>4</sup>
 
 Disposent d’un accès partiel:
 
 - a. la centrale d’engagement de fedpol;
-- b.[^9-8] le conseiller à la protection des données de fedpol;
+- b.[^9-12] le conseiller à la protection des données de fedpol;
 - c. les autorités cantonales de police;
-- d.[^9-9] les collaborateurs de l’OFDF affectés au contrôle des personnes.
+- d.[^9-13] les collaborateurs de l’OFDF affectés au contrôle des personnes.
 
-<sup>5</sup> L’accès partiel des autorités cantonales de police et de l’OFDF passe par l’interface du RIPOL.[^9-10]
+<sup>5</sup> L’accès partiel des autorités cantonales de police et de l’OFDF passe par l’interface du RIPOL.[^9-14]
 
-<sup>6</sup> Les champs de données et les droits de traitement sont mentionnés dans l’annexe.[^9-11]
+<sup>6</sup> Les champs de données et les droits de traitement sont mentionnés dans l’annexe.[^9-15]
 
-<sup>7</sup> Les autorités mentionnées à l’al. 1 veillent au respect des dispositions relatives à la protection des données et à la sécurité informatique.[^9-12]
+<sup>7</sup> Les autorités mentionnées à l’al. 1 veillent au respect des dispositions relatives à la protection des données et à la sécurité de l’information.[^9-16]
 
-<sup>8</sup> Le chef du Domaine Hooliganisme de fedpol, ou son suppléant, statue sur les demandes d’accès individuelles des autorités visées à l’al. 1.[^9-13]
+<sup>8</sup> Le chef du Domaine Hooliganisme de fedpol, ou son suppléant, statue sur les demandes d’accès individuelles des autorités visées à l’al. 1.[^9-17]
 
-<sup>9</sup> La responsabilité du système HOOGAN incombe au Domaine Hooliganisme.[^9-14]
+<sup>9</sup> La responsabilité du système HOOGAN incombe au Domaine Hooliganisme.[^9-18]
 
-[^9-1]: Nouvelle teneur selon le ch. I 1 de l’O du 4 mai 2022 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup>er juin 2022 ([RO 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^9-1]: Nouvelle teneur selon le ch. I 1 de l’O du 4 mai 2022 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 [^9-2]: Nouvelle teneur selon l’annexe 2 ch. II 2 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^9-3]: Nouvelle teneur selon le ch. I 1 de l’O du 4 mai 2022 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup>er juin 2022 ([RO 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
-[^9-4]: Nouvelle teneur selon le ch. I 1 de l’O du 4 mai 2022 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup>er juin 2022 ([RO 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
-[^9-5]: Abrogée par le ch. I 1 de l’O du 4 mai 2022 sur les mesures policières de lutte contre le terrorisme, avec effet au 1<sup>er</sup>er juin 2022 ([RO 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
-[^9-6]: Nouvelle teneur selon le ch. I de l’O du 14 déc. 2012, en vigueur depuis le 1<sup>er</sup> fév. 2013 ([RO 2013 1](https://fedlex.data.admin.ch/eli/oc/2013/1)).
-[^9-7]: Nouvelle teneur selon le ch. I 1 de l’O du 4 mai 2022 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup>er juin 2022 ([RO 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
-[^9-8]: Nouvelle teneur selon l’annexe 2 ch. II 2 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^9-9]: Nouvelle teneur selon le ch. I 1 de l’O du 4 mai 2022 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup>er juin 2022 ([RO 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
-[^9-10]: Nouvelle teneur selon le ch. I 1 de l’O du 4 mai 2022 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup>er juin 2022 ([RO 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
-[^9-11]: Nouvelle teneur selon le ch. I de l’O du 14 déc. 2012, en vigueur depuis le 1<sup>er</sup> fév. 2013 ([RO 2013 1](https://fedlex.data.admin.ch/eli/oc/2013/1)).
-[^9-12]: Nouvelle teneur selon le ch. I de l’O du 14 déc. 2012, en vigueur depuis le 1<sup>er</sup> fév. 2013 ([RO 2013 1](https://fedlex.data.admin.ch/eli/oc/2013/1)).
-[^9-13]: Nouvelle teneur selon le ch. I 1 de l’O du 4 mai 2022 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup>er juin 2022 ([RO 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
-[^9-14]: Introduit par le ch. I de l’O du 14 déc. 2012 ([RO 2013 1](https://fedlex.data.admin.ch/eli/oc/2013/1)). Nouvelle teneur selon le ch. I 1 de l’O du 4 mai 2022 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup>er juin 2022 ([RO 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^9-3]: Nouvelle teneur selon le ch. I 1 de l’O du 4 mai 2022 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^9-4]: Nouvelle teneur selon le ch. I 1 de l’O du 4 mai 2022 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^9-5]: Abrogée par le ch. I 1 de l’O du 4 mai 2022 sur les mesures policières de lutte contre le terrorisme, avec effet au 1<sup>er</sup> juin 2022 ([RO 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^9-6]: Introduite par l’annexe 8 ch. II 1 de l’O du 8 nov. 2023 sur les contrôles de sécurité relatifs aux personnes, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 736](https://fedlex.data.admin.ch/eli/oc/2023/736)).
+[^9-7]: [RS 128](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40013)
+[^9-8]: [RS 128.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40162)
+[^9-9]: Nouvelle teneur selon le ch. I de l’O du 14 déc. 2012, en vigueur depuis le 1<sup>er</sup> fév. 2013 ([RO 2013 1](https://fedlex.data.admin.ch/eli/oc/2013/1)).
+[^9-10]: Introduite par l’annexe 8 ch. II 1 de l’O du 8 nov. 2023 sur les contrôles de sécurité relatifs aux personnes, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 736](https://fedlex.data.admin.ch/eli/oc/2023/736)).
+[^9-11]: Nouvelle teneur selon le ch. I 1 de l’O du 4 mai 2022 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^9-12]: Nouvelle teneur selon l’annexe 2 ch. II 2 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^9-13]: Nouvelle teneur selon le ch. I 1 de l’O du 4 mai 2022 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^9-14]: Nouvelle teneur selon le ch. I 1 de l’O du 4 mai 2022 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^9-15]: Nouvelle teneur selon le ch. I de l’O du 14 déc. 2012, en vigueur depuis le 1<sup>er</sup> fév. 2013 ([RO 2013 1](https://fedlex.data.admin.ch/eli/oc/2013/1)).
+[^9-16]: Nouvelle teneur selon l’annexe 2 ch. II 1 de l’O du 8 nov. 2023 sur la sécurité de l’information, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^9-17]: Nouvelle teneur selon le ch. I 1 de l’O du 4 mai 2022 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^9-18]: Introduit par le ch. I de l’O du 14 déc. 2012 ([RO 2013 1](https://fedlex.data.admin.ch/eli/oc/2013/1)). Nouvelle teneur selon le ch. I 1 de l’O du 4 mai 2022 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 
 #### Art. 10
 
@@ -309,7 +315,7 @@ Il signale au destinataire que:
 Pour garantir la sécurité des données, sont applicables:
 
 - a.[^13-1] les art. 1 à 4 et 6 de l’ordonnance du 31 août 2022 sur la protection des données[^13-2];
-- b.[^13-3] l’ordonnance du 27 mai 2020 sur les cyberrisques.
+- b.[^13-3] l’ordonnance du 8 novembre 2023 sur la sécurité de l’information[^13-4].
 
 <sup>2</sup>
 
@@ -320,10 +326,11 @@ Fedpol précise dans un règlement de traitement:
 - c. les exigences techniques auxquelles doivent satisfaire les terminaux des utilisateurs.
 
 [^13-1]: Nouvelle teneur selon l’annexe 2 ch. II 2 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^13-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^13-3]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^13-2]: [RS 235.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5994)
+[^13-3]: Nouvelle teneur selon l’annexe 2 ch. II 1 de l’O du 8 nov. 2023 sur la sécurité de l’information, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^13-4]: [RS 128.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40166)
 
-## Section 5 ...
+## Section 5 …
 
 #### Art. 14 à 28
 
@@ -343,7 +350,7 @@ Annexe[^t-2]
 
 ## Champs de données et droits de traitement
 
-[^t-2]: Introduite par le ch. II de l’O du 14 déc. 2012 ([RO 2013 1](https://fedlex.data.admin.ch/eli/oc/2013/1)). Nouvelle teneur selon le ch. I 1 de l’O du 4 mai 2022 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup>er juin 2022 ([RO 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^t-2]: Introduite par le ch. II de l’O du 14 déc. 2012 ([RO 2013 1](https://fedlex.data.admin.ch/eli/oc/2013/1)). Nouvelle teneur selon le ch. I 1 de l’O du 4 mai 2022 sur les mesures policières de lutte contre le terrorisme ([RO 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)). Mise à jour par l’annexe 8 ch. II 1 de l’O du 8 nov. 2023 sur les contrôles de sécurité relatifs aux personnes, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 736](https://fedlex.data.admin.ch/eli/oc/2023/736)).
 
 <table>
 <tr><td>L</td><td>=</td><td>Lecture</td></tr>
@@ -355,12 +362,12 @@ Annexe[^t-2]
 <tr><td>OFDF</td><td>=</td><td>Office fédéral de la douane et de la sécurité des frontières</td></tr>
 <tr><td>E</td><td>=</td><td>Police municipale</td></tr>
 <tr><td>F</td><td>=</td><td>Postes frontière</td></tr>
-<tr><td>R</td><td>=</td><td>Police cantonale</td></tr>
+<tr><td>R</td><td>=</td><td>Police cantonale.</td></tr>
 </table>
 
 <table>
 <tr><td></td><td></td><td></td><td></td><td colspan="6">**Accès complet à HOOGAN dans le domaine de la production**</td><td></td><td></td><td></td><td></td><td></td><td colspan="2">**Accès partiel à HOOGAN via le RIPOL**</td></tr>
-<tr><td></td><td></td><td></td><td>**Service**</td><td>fedpol H</td><td>fedpol H</td><td>OFDF, cantons</td><td>fedpol H</td><td>fedpol H, CSI</td><td colspan="6">Cantons</td><td colspan="2">Unités organisationnelles E, F, R</td></tr>
+<tr><td></td><td></td><td></td><td>**Service**</td><td>fedpol H</td><td>fedpol H</td><td>OFDF, cantons, services spécialisés CSP</td><td>fedpol H</td><td>fedpol H, CSI</td><td colspan="6">Cantons</td><td colspan="2">Unités organisationnelles E, F, R</td></tr>
 <tr><td></td><td></td><td></td><td>**Rôle**</td><td>Analyse préliminaire fedpol − −&gt;</td><td>Assurance qualité fedpol − −&gt;</td><td>Utilisateur − −&gt;</td><td>Administrateur − −&gt;</td><td>Administrateur technique − −&gt;</td><td colspan="6">Collaborateur spécialisé − −&gt;</td><td>Utilisateur via le RIPOL</td><td>Administrateur des utilisateurs du RIPOL</td></tr>
 <tr><td>**Domaines de données**</td><td>**Champs de données**</td><td>**Droits de traitement**</td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="6"></td><td></td><td></td></tr>
 <tr><td>Personne</td><td>Données personnelles, adresse, mesures, violations de mesures, événement lié à une personne, lien</td><td colspan="2">présaisir</td><td>LMS</td><td>-</td><td>-</td><td>-</td><td>-</td><td colspan="6">LMS</td><td>-</td><td>-</td></tr>
