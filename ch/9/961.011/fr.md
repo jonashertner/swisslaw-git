@@ -4,11 +4,11 @@ title: "Ordonnance du 9 novembre 2005 sur la surveillance des entreprises d'assu
 short: OS
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/735"
 language: fr
-version: 2023-01-23
+version: 2024-01-01
 adopted: 2005-11-09
 in_force: 2006-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/735/20230123/fr/xml/fedlex-data-admin-ch-eli-cc-2005-735-20230123-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/735/20230123/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/735/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2005-735-20240101-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/735/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/735/20230123/fr"
 
 (Ordonnance sur la surveillance, OS)
 
-du 9 novembre 2005 (État le 23 janvier 2023)
+du 9 novembre 2005 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -30,7 +30,17 @@ arrête:
 [^ingress-3]: [RS 0.961.1](https://fedlex.data.admin.ch/eli/cc/1992/1894_1894_1894)
 [^ingress-4]: [RS 0.961.514](https://fedlex.data.admin.ch/eli/cc/2001/43)
 
-## Titre 1 Champ d’application
+## Titre 1 Généralités
+
+[^tit1-1]
+
+[^tit1-1]: Nouvelle teneur selon le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+
+### Chapitre 1 Champ d’application
+
+[^tit1-chap1-1]
+
+[^tit1-chap1-1]: Introduit par le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 #### Art. 1
 
@@ -53,6 +63,140 @@ Les entreprises d’assurance ayant leur siège à l’étranger mais aucune suc
 
 <sup>3</sup> Les al. 1 et 2 s’appliquent par analogie à l’intermédiation en assurance.
 
+#### Art. 1a
+
+**Caractère significatif des fonctions des sociétés d’un groupe ou d’un conglomérat**[^1a-1]
+
+### (art. 2*a*, al. 2, LSA)
+
+Les fonctions des sociétés d’un groupe ou d’un conglomérat sont significatives pour les activités soumises à autorisation lorsqu’elles sont nécessaires à la poursuite de processus opérationnels importants, notamment dans la sélection des risques, la gestion des risques, la gestion du portefeuille, la liquidation des sinistres, la comptabilité, les ressources humaines, les technologies de l’information, le droit, la compliance et le placement des capitaux.
+
+[^1a-1]: Introduit par le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+
+### Chapitre 2 Principes
+
+[^tit1-chap2-1]
+
+[^tit1-chap2-1]: Introduit par le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+
+#### Art. 1b
+
+**Principes de la surveillance**[^1b-1]
+
+### (art. 1, al. 2, LSA)
+
+<sup>1</sup>
+
+Pour la surveillance au sens de la présente ordonnance, l’Autorité fédérale de surveillance des marchés financiers (FINMA) tient compte notamment:
+
+- a. de la vulnérabilité des assurés;
+- b. des risques auxquels les entreprises d’assurance sont exposées;
+- c. de la taille ainsi que de la complexité des affaires et de l’organisation des entreprises d’assurance.
+
+<sup>2</sup> La FINMA classe les entreprises d’assurance dans les catégories mentionnées à l’annexe 2 en fonction du total de leur bilan statutaire.
+
+<sup>3</sup> La FINMA peut classer une entreprise d’assurance dont le bilan est proche de la limite entre deux catégories dans la catégorie immédiatement supérieure ou immédiatement inférieure lorsque sa complexité et son profil de risque le justifient.
+
+[^1b-1]: Introduit par le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+
+#### Art. 1c
+
+**Allégements pour les petites entreprises d’assurance**[^1c-1]
+
+### (art. 2, al. 5, let. b, et 14, al. 1, LSA)
+
+La FINMA accorde des allégements aux entreprises d’assurance directe des catégories 4 et 5, notamment sur le plan de la nature, de l’étendue et de la fréquence des rapports, lorsqu’elles remplissent les conditions suivantes:
+
+- a. elles disposent d’un quotient du test suisse de solvabilité (SST) défini à l’art. 39 (quotient SST) d’au moins 250 % en moyenne sur trois ans;
+- b. leur fortune liée est couverte à raison d’au moins 130 % du débit, et la couverture provient exclusivement de biens mentionnés à l’art. 79, al. 2;
+- c. leur capital minimal au titre du droit de la surveillance est couvert en permanence à 150 %;
+- d. leur bilan au 31 décembre ne présente ni un report de perte des années précédentes ni un report de perte de l’année en cours;
+- e. elles disposent d’une planification solide, d’une direction prévoyante et irréprochable et d’indicateurs stables;
+- f. elles disposent d’un plan de liquidation approuvé par la FINMA lorsqu’elles ne souscrivent plus de nouvelles affaires;
+- g. elles ne bénéficient d’aucun autre allégement, en rapport notamment avec le SST ou la fortune liée, et aucun autre allégement de ce type n’est déjà prévu réglementairement par ailleurs;
+- h. la FINMA n’a pris à leur encontre aucune mesure en droit de la surveillance ni ouvert de procédure au sens de l’art. 30 de la loi du 22 juin 2007 sur la surveillance des marchés financiers (LFINMA)[^1c-2].
+
+[^1c-1]: Introduit par le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^1c-2]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+
+#### Art. 1d
+
+**Allégements pour les entreprises de réassurance**[^1d-1]
+
+### (art. 35, al. 4, LSA)
+
+La FINMA accorde aux entreprises de réassurance des catégories 4 et 5 les allégements applicables aux petites entreprises d’assurance lorsqu’elles remplissent les conditions suivantes:
+
+- a. elles confirment chaque année à la FINMA, par une déclaration, qu’elles respectent les principes de gouvernance d’entreprise et les exigences réglementaires relatives à la gestion des risques, au système de contrôle interne et à la révision interne;
+- b. la FINMA n’a pris à leur encontre aucune mesure en droit de la surveillance ni ouvert de procédure au sens de l’art. 30 LFINMA[^1d-2];
+- c. elles disposent d’un plan de liquidation approuvé par la FINMA lorsqu’elles ne souscrivent plus de nouvelles affaires.
+
+[^1d-1]: Introduit par le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^1d-2]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+
+#### Art. 1e
+
+**Allégements en cas de nouvel agrément**[^1e-1]
+
+### (art. 2, al. 5, let. b, LSA)
+
+La FINMA peut accorder des allégements supplémentaires aux entreprises d’assurance de la catégorie 5 pour une période maximale de trois ans après l’octroi de l’agrément pour l’exercice de l’activité d’assurance, notamment en ce qui concerne:
+
+- a. le degré de respect des exigences en matière de solvabilité; l’entreprise d’assurance doit soumettre à cet effet un plan indiquant la manière dont les exigences SST seront remplies dans les trois ans;
+- b. les exigences relatives à l’organisation.
+
+[^1e-1]: Introduit par le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+
+#### Art. 1f
+
+**Libération de la surveillance**[^1f-1]
+
+### (art. 2, al. 5, let. b, LSA)
+
+Les entreprises d’assurances qui développent des produits d’assurance et les distribuent directement sont libérées de la surveillance au sens de la présente ordonnance lorsqu’elles remplissent les conditions suivantes:
+
+- a. elles ont leur siège en Suisse;
+- b. elles revêtent la forme d’une société anonyme ou d’une coopérative;
+- c. elles sont soumises au contrôle ordinaire au sens de l’art. 727 du code des obligations (CO)[^1f-2];
+- d. leurs produits d’assurance peuvent être affectés aux branches d’assurance B3 à B9 et B14 à B18 mentionnées à l’annexe 1;
+- e. leur distribution couvre au maximum 5 000 polices pour un volume total de primes ne dépassant pas 5 millions de francs;
+- f. elles s’engagent à informer les preneurs d’assurance sur le fait qu’elles ne sont pas soumises à la surveillance de la FINMA.
+
+[^1f-1]: Introduit par le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^1f-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+
+#### Art. 1g
+
+**Conditions imposées aux entreprises d*’*assurance libérées de la surveillance**[^1g-1]
+
+### (art. 2, al. 5, let. b, LSA)
+
+<sup>1</sup> L’entreprise d’assurance libérée de la surveillance conformément à l’art. 1*f* qui dépasse l’une des valeurs limites définies à l’art. 1*f*, let. e, peut poursuivre son activité pendant au maximum un an à compter de la date du dépassement desdites valeurs.
+
+<sup>2</sup> Pour pouvoir poursuivre son activité au-delà de ce délai, elle doit disposer d’un agrément pour l’exercice de l’activité d’assurance délivré par la FINMA avant l’expiration du délai d’un an fixé à l’al. 1.
+
+<sup>3</sup> La demande d’agrément doit être présentée à la FINMA au plus tard six mois avant l’expiration du délai d’un an fixé à l’al. 1. La FINMA peut accorder une prolongation de trois mois au maximum du délai pour la présentation de la demande d’agrément.
+
+<sup>4</sup> La FINMA statue sur la demande d’agrément dans les trois mois qui suivent la réception du dossier complet.
+
+<sup>5</sup> En cas de rejet de la demande, les contrats d’assurance encore en cours doivent être liquidés dans les six mois ou être transférés à une entreprise d’assurance autorisée.
+
+[^1g-1]: Introduit par le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+
+#### Art. 1h
+
+**Activité des intermédiaires d’assurance non soumise à la surveillance**[^1h-1]
+
+### (art. 2, al. 2, let. f, et 4, let. c, LSA)
+
+L’activité des intermédiaires d’assurance n’est pas soumise à la surveillance lorsqu’elle répond aux conditions suivantes:
+
+- a. la prime annuelle pour l’assurance procurée ne dépasse pas 600 francs hors impôts;
+- b. l’assurance procurée est une prestation subordonnée à la livraison d’un produit ou à la fourniture d’un service par un prestataire quelconque;
+- c. l’intermédiation d’assurance constitue une activité accessoire.
+
+[^1h-1]: Introduit par le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+
 #### Art. 2
 
 [^2-1]
@@ -67,7 +211,11 @@ Les entreprises d’assurance ayant leur siège à l’étranger mais aucune suc
 
 **Portée de l’agrément**
 
-<sup>1</sup> L’Autorité fédérale de surveillance des marchés financiers (FINMA) accorde l’agrément pour l’exercice d’une activité dans une ou plusieurs des branches mentionnées à l’annexe 1.[^3-1]
+### (art. 3 LSA)
+
+[^3-1]
+
+<sup>1</sup> La FINMA accorde l’agrément pour l’exercice d’une activité dans une ou plusieurs des branches mentionnées à l’annexe 1.[^3-2]
 
 <sup>2</sup>
 
@@ -87,7 +235,8 @@ Le risque compris dans la branche d’assurance B17 peut être couvert sans agr�
 
 <sup>5</sup> L’agrément pour l’exercice de l’assurance directe autorise également l’exercice de la réassurance dans les branches pour lesquelles l’agrément a été octroyé.
 
-[^3-1]: Nouvelle teneur selon le ch. I de l’O du 25 mars 2015, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
+[^3-1]: Nouvelle teneur selon le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^3-2]: Nouvelle teneur selon le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 #### Art. 4
 
@@ -105,9 +254,13 @@ Le risque compris dans la branche d’assurance B17 peut être couvert sans agr�
 
 #### Art. 5
 
-**Devoir d’information lors de modifications du plan d’exploitation**
+**Devoir d’information lors de modifications du plan d’exploitation**[^5-1]
 
-Les communications au sens de l’art. 5, al. 2 LSA sont faites par l’entreprise d’assurance dans le délai de quinze jours à compter de la survenance du fait à l’origine de la modification.
+### (art. 5, al. 2 LSA)
+
+Les communications au sens de l’art. 5, al. 2 LSA sont faites par l’entreprise d’assurance dans le délai de quatorze jours à compter de la survenance du fait à l’origine de la modification.
+
+[^5-1]: Nouvelle teneur selon le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 #### Art. 5a
 
@@ -117,6 +270,51 @@ Les caisses-maladie au sens de l’art. 2 de la loi du 26 septembre 2014 sur la 
 
 [^5a-1]: Introduit par l’annexe ch. 6 de l’O du 18 nov. 2015 sur la surveillance de l’assurance-maladie, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)).
 [^5a-2]: [RS 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
+
+#### Art. 5b
+
+**Activités en rapport avec l’activité d’assurance**[^5b-1]
+
+### (art. 11, al. 1, let. a, LSA)
+
+<sup>1</sup>
+
+Les activités sont en rapport avec l’activité d’assurance:
+
+- a. lorsqu’elles présentent un lien fonctionnel avec l’activité d’assurance, et
+- b. lorsque leur portée est étroitement limitée.
+
+<sup>2</sup>
+
+L’entreprise d’assurance qui exerce des activités en rapport avec l’activité d’assurance doit:
+
+- a. satisfaire aux prescriptions des art. 96 à 98*a*;
+- b. tenir compte des activités dans le SST, et
+- c. déterminer, limiter et contrôler en permanence les risques opérationnels et juridiques liés aux activités.
+
+<sup>3</sup> Elle doit rendre compte séparément de ses activités en rapport avec l’activité d’assurance dans le cadre des rapports visés à l’art. 25 LSA.
+
+<sup>4</sup> Les activités qui ne répondent plus aux exigences de l’al. 1 doivent être immédiatement transférées à une unité juridique autonome, avec annonce à la FINMA. L’art. 5*c* est réservé.
+
+[^5b-1]: Introduit par le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+
+#### Art. 5c
+
+**Activités sans rapport avec l’activité d’assurance**[^5c-1]
+
+### (art. 11, al. 1, let. b, LSA)
+
+<sup>1</sup>
+
+La FINMA peut autoriser l’exercice d’activités sans rapport avec l’activité d’assurance si les conditions suivantes sont remplies:
+
+- a. les intérêts des assurés ne sont pas compromis;
+- b. l’entreprise d’assurance maîtrise les risques y afférents;
+- c. la surveillance de la FINMA n’est pas entravée de manière disproportionnée.
+
+<sup>2</sup> Les dispositions contraires de traités internationaux sont réservées.
+
+[^5c-1]: Introduit par le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 ### Chapitre 2 Conditions d’octroi de l’agrément
 
@@ -213,6 +411,57 @@ La FINMA peut, dans le cadre des limites fixées à l’art. 8, al. 1, LSA, s’
 
 [^14-1]: Nouvelle teneur selon l’annexe ch. II 11 de l’O du 22 août 2007 sur la surveillance de la révision, en vigueur depuis le 1<sup>er</sup> sept. 2007 ([RO 2007 3989](https://fedlex.data.admin.ch/eli/oc/2007/534)).
 
+#### Art. 14a
+
+**Organisation**[^14a-1]
+
+### (art. 14 LSA)
+
+<sup>1</sup> Une entreprise d’assurance doit disposer d’une organisation adaptée à son activité et documentée.
+
+<sup>2</sup> Elle doit veiller à ce que les personnes chargées de la haute direction, de la surveillance et du contrôle jouissent d’une indépendance suffisante.
+
+<sup>3</sup> Elle doit fixer des règles et processus appropriés en matière de gouvernance et de contrôle d’entreprise.
+
+[^14a-1]: Introduit par le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+
+### Chapitre 3*a* Conflits d’intérêts
+
+[^tit2-chap3a-1]
+
+[^tit2-chap3a-1]: Introduit par le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+
+#### Art. 14b
+
+**Définition**
+
+### (art. 14*a* LSA)
+
+Il y a conflit d’intérêts au sens de la loi en particulier lorsque l’entreprise d’assurance:
+
+- a. peut, en violation des règles de la bonne foi, obtenir un avantage financier ou éviter une perte financière aux dépens de certains preneurs d’assurance;
+- b. a un intérêt contraire à celui du preneur d’assurance dans le résultat d’une prestation d’assurance.
+
+#### Art. 14c
+
+**Communication**
+
+### (art. 14*a*, al. 2, LSA)
+
+<sup>1</sup> Si, malgré les mesures organisationnelles prévues à l’art. 14*a*, al. 1, LSA, il n’est pas possible d’éviter de désavantager les preneurs d’assurance ou seulement moyennant des efforts disproportionnés, l’entreprise d’assurance doit le communiquer de manière adéquate.
+
+<sup>2</sup>
+
+À cette fin, elle doit décrire les conflits d’intérêts découlant de la fourniture de la prestation d’assurance concernée. Elle présente au preneur d’assurance de façon générale et compréhensible:
+
+- a. les circonstances à l’origine du conflit d’intérêts;
+- b. les risques qui pourraient en découler pour lui;
+- c. les mesures prises par l’entreprise d’assurance pour réduire ces risques.
+
+<sup>3</sup> La communication peut se faire sous une forme standardisée et par voie électronique. Dans ce contexte, l’entreprise d’assurance doit s’assurer que le preneur d’assurance peut recueillir la communication sur un support de données durable.
+
+<sup>4</sup> Par support de données durable, on entend le papier ou tout autre support permettant de stocker des informations et de les reproduire à l’identique.
+
 ### Chapitre 4 Conditions complémentaires pour les entreprises d’assurance étrangères
 
 ### Section 1 …
@@ -280,13 +529,28 @@ Ne sont pas de sa compétence les déclarations portant sur:
 
 **Activités à l’étranger**
 
-<sup>1</sup> L’entreprise d’assurance étrangère, qui exerce son activité depuis la Suisse mais uniquement à l’étranger, doit prouver qu’elle possède l’autorisation d’exercer une activité d’assurance dans l’État où elle a son siège et que la FINMA de cet État a approuvé son établissement en Suisse.[^20-1]
+### (art. 2, al. 4, let. b, LSA)
+
+[^20-1]
+
+<sup>1</sup> L’entreprise d’assurance étrangère, qui exerce son activité depuis la Suisse mais uniquement à l’étranger, doit prouver qu’elle possède l’autorisation d’exercer une activité d’assurance dans l’État où elle a son siège et que la FINMA de cet État a approuvé son établissement en Suisse.[^20-2]
+
+<sup>1bis</sup> Elle est soumise à la même surveillance que les succursales ayant des activités en Suisse.[^20-3]
+
+<sup>1ter</sup> Une activité est réputée être exercée depuis la Suisse lorsque des preneurs d’assurance ayant leur domicile à l’étranger sont parties à un contrat d’assurance.[^20-4]
 
 <sup>2</sup> Les dispositions concernant le mandataire général s’appliquent par analogie.
 
-[^20-1]: Nouvelle teneur selon l’annexe ch. 11 de l’O du 15 oct. 2008 sur les audits des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5363](https://fedlex.data.admin.ch/eli/oc/2008/750)).
+[^20-1]: Nouvelle teneur selon le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^20-2]: Nouvelle teneur selon l’annexe ch. 11 de l’O du 15 oct. 2008 sur les audits des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5363](https://fedlex.data.admin.ch/eli/oc/2008/750)).
+[^20-3]: Introduit par le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^20-4]: Introduit par le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 ## Titre 3 Solvabilité
+
+[^tit3-1]
+
+[^tit3-1]: Mise à jour par le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 ### Chapitre 1 Dispositions générales
 
@@ -296,462 +560,609 @@ Ne sont pas de sa compétence les déclarations portant sur:
 
 #### Art. 21
 
-**Sécurité financière**
+**But du test suisse de solvabilité**
 
-La sécurité financière se mesure en fonction de la solvabilité et des provisions techniques.
+### (art. 9 LSA)
+
+Le SST détermine la dotation en capital (solvabilité) dont une entreprise d’assurance doit disposer pour protéger les assurés de manière appropriée (niveau de protection) contre les risques d’insolvabilité auxquels elle est exposée, afin de satisfaire à leurs prétentions garanties par les contrats d’assurance.
 
 #### Art. 22
 
-**Détermination de la solvabilité**[^22-1]
+**Niveau de protection du SST**
 
-<sup>1</sup> La solvabilité des entreprises d’assurance est déterminée selon le test suisse de solvabilité (*Swiss Solvency Test*, SST). Lorsque des dispositions internationales l’exigent, elle est déterminée en outre selon la solvabilité I.
+### (art. 9 et 9*b* LSA)
 
-<sup>2</sup> Le SST détermine les fonds propres exigés en fonction des risques auxquels est exposée l’entreprise d’assurance (capital cible) et des fonds propres pouvant être pris en compte (capital porteur de risques).
+<sup>1</sup> Le niveau de protection à atteindre avec le SST à une date de référence est respecté lorsque les assurés ne subissent aucune perte sur leurs prétentions garanties dans toutes les évolutions déterminantes pour le respect du niveau de protection. Les évolutions déterminantes sont celles qui pourraient survenir dans les douze mois suivants, à la fin desquels le capital porteur de risque de l’entreprise d’assurance est supérieur à la moyenne des montants en capital porteur de risque les plus faibles présentant ensemble une probabilité de 1 % (expected shortfall selon l’art. 36).
 
-<sup>3</sup> La solvabilité I détermine les fonds propres exigés en fonction du volume des affaires (marge de solvabilité exigée) et des fonds propres pouvant être pris en compte (marge de solvabilité disponible).
+<sup>2</sup> Les assurés ne subissent aucune perte sur leurs prétentions garanties conformément à l’al. 1 lorsqu’à la fin des douze mois, l’entreprise d’assurance dispose d’actifs suffisants pour lui permettre de satisfaire dès lors régulièrement, sans nouvelles affaires, à ses engagements assurantiels tout en maintenant le niveau de protection du SST.
 
-[^22-1]: Nouvelle teneur selon le ch. I de l’O du 25 mars 2015, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
+#### Art. 22a à 22c
 
-#### Art. 22a
+[^22a22c-1]
 
-**Instruments de capital amortisseurs de risque**[^22a-1]
+*Abrogés*
 
-<sup>1</sup>
+[^22a22c-1]: Introduits par le ch. I de l’O du 25 mars 2015, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
 
-Les instruments de capital amortisseurs de risque, notamment le capital hybride, peuvent être pris en compte dans la marge de solvabilité disponible, selon la solvabilité I, et dans le capital porteur de risques ou le capital cible, selon le SST, avec l’approbation de la FINMA et aux conditions suivantes:
+#### Art. 23
 
-- a. ils sont effectivement versés et ne sont pas garantis par des biens de l’entreprise d’assurance;
-- b. ils ne peuvent être compensés par des créances de l’entreprise d’assurance;
-- c. ils sont irrévocablement postpositionnés par rapport aux créances de tous les autres créanciers en cas de liquidation, de faillite ou de concordat de l’entreprise d’assurance ou la réalisation de certaines conditions les transforme en capital propre statutaire;
-- d. le contrat autorise l’entreprise d’assurance ou l’oblige, sous certaines conditions, à différer ou à annuler le paiement d’intérêts échus;
-- e. le contrat stipule que la dette et les intérêts impayés supportent une perte sans que l’entreprise d’assurance soit contrainte de suspendre son activité;
-- f. le contrat ne contient pas de clauses selon lesquelles la dette est remboursable avant la date prévue dans des cas autres que la liquidation de l’entreprise d’assurance;
-- g. ils ne sont remboursables avant la date convenue qu’avec l’approbation préalable de la FINMA, et non à l’initiative du propriétaire. L’approbation est octroyée si l’entreprise d’assurance démontre que le remboursement n’entraîne pas la mise en péril de la solvabilité.
+**Prise en compte des nouvelles affaires pour déterminer la solvabilité**
 
-<sup>2</sup> La FINMA peut préciser les critères pour la prise en compte d’instruments de capital amortisseurs de risque, notamment concernant l’évaluation de la qualité de ces instruments, leur applicabilité légale, la fongibilité du capital et le risque de défaillance du prestataire de services.
+### (art. 9 LSA)
 
-[^22a-1]: Introduit par le ch. I de l’O du 25 mars 2015, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
+La FINMA peut autoriser une entreprise d’assurance qui en fait la demande à prendre en compte également la souscription de nouvelles affaires en fonction de la situation pour déterminer la solvabilité au sens de l’art. 21, en sus de la satisfaction du niveau de protection du SST.
 
-#### Art. 22b
+### Chapitre 2 Évaluation conforme au marché
 
-**Limitation de la prise en compte selon le SST**[^22b-1]
+#### Art. 24
 
-<sup>1</sup> Les instruments de capital amortisseurs de risque peuvent être pris en compte pour autant que la somme des effets sur le capital cible et sur le capital porteur de risques ne dépasse pas le capital de base.
+**Valeur conforme au marché**
 
-<sup>2</sup> La prise en compte de ces instruments dans le capital porteur de risques ou dans le capital cible est par ailleurs soumise aux restrictions énoncées aux art. 47 et 49.
+### (art. 9*a* LSA)
 
-[^22b-1]: Introduit par le ch. I de l’O du 25 mars 2015, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
+<sup>1</sup> La valeur conforme au marché des actifs est leur valeur de marché si celle-ci est fiable conformément à l’art. 26, al. 1.
 
-#### Art. 22c
+<sup>2</sup> En l’absence de valeur de marché fiable, la valeur conforme au marché est déterminée sur la base d’un modèle (modèle d’évaluation).
 
-**Limitation de la prise en compte selon la solvabilité I**[^22c-1]
-
-<sup>1</sup>
-
-Les instruments de capital amortisseurs de risque sont pris en compte selon la solvabilité I dans les limites suivantes:
-
-- a. les instruments de capital amortisseurs de risque peuvent être pris en compte globalement jusqu’à concurrence de 50 % de la marge de solvabilité disponible ou de la marge de solvabilité exigée, le plus bas des deux montants étant déterminant;
-- b. les instruments de capital amortisseurs de risque à durée fixe peuvent être pris en compte jusqu’à concurrence de 25 % de la marge de solvabilité disponible ou de la marge de solvabilité exigée, le plus bas des deux montants étant déterminant.
-
-<sup>2</sup> Le montant nominal initial des instruments de capital amortisseurs de risque à durée fixe est réduit de 20 % chaque année au cours des cinq ans précédant le remboursement.
-
-<sup>3</sup> Si un droit de résiliation est accordé au créancier, la première possibilité de remboursement tient lieu de fin déterminante de la durée. La FINMA peut autoriser des dérogations dans des cas particuliers justifiés.
-
-[^22c-1]: Introduit par le ch. I de l’O du 25 mars 2015, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
-
-### Chapitre 2 Solvabilité I
-
-### Section 1 …
-
-#### Art. 23 à 26
-
-[^2326-1]
-
-[^2326-1]: Abrogés par le ch. I de l’O du 25 mars 2015, avec effet au 1<sup>er</sup> juil. 2015 ([RO 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
-
-### Section 2 Marge de solvabilité exigée pour les entreprises d’assurance qui exploitent l’assurance dommages
-
-#### Art. 27
-
-**Calcul**
-
-<sup>1</sup> La marge de solvabilité exigée est calculée à partir des primes annuelles brutes (art. 28) ou de la charge moyenne des sinistres pour les trois derniers exercices (art. 29). Le plus élevé de ces deux montants est déterminant.
-
-<sup>2</sup> Lorsqu’une entreprise d’assurance ne couvre essentiellement que les risques de crédit, de tempête, de grêle ou de gel, la charge moyenne des sinistres est calculée sur les sept derniers exercices.
-
-#### Art. 28
-
-**Indice des primes**
-
-<sup>1</sup> L’indice des primes est calculé sur la base des primes brutes émises ou des primes brutes acquises. Le plus élevé des deux montants est déterminant.
-
-<sup>2</sup> Si les primes des branches B11, B12 et B13 ne peuvent être déterminées de manière précise, elles pourront l’être par des méthodes statistiques, moyennant l’accord de la FINMA. Les montants des primes pour ces branches sont dans tous les cas majorés de 50 %.
-
-<sup>3</sup>
-
-L’indice des primes est obtenu comme suit:
-
-- a. du total des primes brutes perçues dans le cadre des affaires directes et des affaires de réassurance au cours du dernier exercice, accessoires compris, on déduit les primes annulées et les impôts et taxes afférant directement aux primes;
-- b. on calcule et additionne 18 % des premiers 80 millions de francs du résultat obtenu selon la let. a et 16 % du montant qui excède ce chiffre;
-- c. le montant intermédiaire selon la let. b est multiplié par le rapport existant, pour les trois derniers exercices, entre le montant des sinistres demeurant à la charge de l’entreprise d’assurance, après déduction des sinistres réassurés, et le montant brut des sinistres, ce rapport ne pouvant en aucun cas être inférieur à 0,5.
-
-#### Art. 29
-
-**Indice des sinistres**
-
-<sup>1</sup> L’indice des sinistres est calculé sur la base du total des prestations résultant des activités d’assurance directe et de réassurance versées pendant la période de référence visée à l’art. 27, augmentées des provisions pour sinistres en cours constituées à la fin du dernier exercice dans ces deux activités.
-
-<sup>2</sup> Si les sinistres, provisions ou recours des branches B11, B12 et B13 ne peuvent être déterminés de manière précise, ils pourront l’être par des méthodes statistiques, moyennant l’accord de la FINMA. Les montants des sinistres, provisions et recours pour ces branches sont dans tous les cas majorés de 50 %.
-
-<sup>3</sup>
-
-L’indice des sinistres est obtenu comme suit:
-
-- a. du montant final visé à l’al. 1, on déduit le montant des recours encaissés au cours des périodes visées à l’art. 27, ainsi que les provisions pour sinistres en cours constituées au début de l’exercice précédant de deux ans le dernier exercice inventorié, tant pour les affaires directes que pour les acceptations en réassurance. Si la période de référence visée à l’art. 27 est de sept ans, le montant à déduire sera celui des provisions pour sinistres en cours constituées au début de l’exercice précédant de six ans le dernier exercice inventorié;
-- b. on calcule et additionne 26 % des premiers 56 millions de francs de la moyenne annuelle du montant ainsi obtenu et 23 % du montant qui excède ce chiffre. Ceci constitue le résultat intermédiaire;
-- c. on multiplie le résultat intermédiaire par le rapport existant, pour les trois derniers exercices, entre le montant des sinistres demeurant à la charge de l’entreprise d’assurance, après déduction des sinistres réassurés, et le montant brut des sinistres, ce rapport ne pouvant en aucun cas être inférieur à 0,5.
-
-#### Art. 30
-
-**Réduction de la marge de solvabilité exigée**
-
-<sup>1</sup> Si les calculs des art. 27 à 29 donnent une marge de solvabilité exigée inférieure à celle de l’exercice précédent, la marge de solvabilité désormais exigée sera au moins égale à celle de l’exercice précédent, multipliée par le rapport entre les provisions pour sinistres en cours à la fin du dernier exercice et les provisions pour sinistres en cours au début du dernier exercice, ce rapport ne pouvant pas être supérieur à 1.
-
-<sup>2</sup> Les provisions sont calculées sans tenir compte de la réassurance.
-
-#### Art. 31
-
-**Assurance-maladie**
-
-Les pourcentages des art. 28, al. 3, let. b, et 29, al. 3, let. b, sont réduits à un tiers en ce qui concerne l’assurance-maladie gérée suivant une technique apparentée à celle de l’assurance sur la vie, dans la mesure où:
-
-- a. les primes perçues sont calculées sur la base de tables de morbidité selon les méthodes mathématiques appliquées en matière d’assurance;
-- b. une provision de vieillissement est constituée;
-- c. un supplément de sécurité approprié est perçu, et
-- d. l’entreprise d’assurance ne peut dénoncer le contrat qu’avant l’échéance de la troisième année d’assurance au plus tard.
-
-#### Art. 32
-
-**Assistance touristique**
-
-Pour la branche d’assurance B18, la somme des prestations d’assurance déterminante pour le calcul de l’indice des sinistres est le coût, pour l’entreprise, de l’intervention d’assistance effectuée.
-
-### Section 3 …
-
-#### Art. 33 à 36
-
-[^3336-1]
-
-[^3336-1]: Abrogés par le ch. I de l’O du 25 mars 2015, avec effet au 1<sup>er</sup> juil. 2015 ([RO 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
-
-### Section 4 Marge de solvabilité disponible
-
-#### Art. 37
-
-**Fonds propres pouvant être pris en compte**
-
-<sup>1</sup>
-
-Les fonds propres pouvant être pris en compte sont:[^37-1]
-
-- a. le capital versé;
-- b. l’agio;
-- c. un éventuel capital de bons de participation;
-- d. les réserves légales, statutaires et libres;
-- e. le fonds d’organisation;
-- f. le report de bénéfice de l’exercice précédent;
-- g. le bénéfice de l’exercice écoulé;
-- h.[^37-2] …
-
-<sup>2</sup>
-
-Sur demande justifiée de l’entreprise d’assurance, la FINMA peut autoriser la prise en compte d’autres éléments comme fonds propres, en particulier:
-
-- a.[^37-3] …
-- b. les provisions constituées pour des engagements et des pertes ultérieurs qui, manifestement, ne se rapportent pas à une seule affaire déterminée;
-- c. les réserves d’évaluation résultant de la différence entre les valeurs comptabilisées au bilan et les valeurs de marché pour tous les biens, sauf les provisions techniques et les papiers-valeurs à taux fixe visés à l’art. 110, al. 1, pour autant qu’au moins 50 % de la marge de solvabilité exigée soient couverts par d’autres fonds propres;
-- d.[^37-4] les instruments de capital amortisseurs de risque répondant aux conditions des art. 22*a* à 22*c*.
-
-<sup>3</sup>
-
-Sont déduits des fonds propres pouvant être pris en compte:
-
-- a.[^37-5] …
-- b. les biens incorporels;
-- c. le report de perte de l’exercice précédent;
-- d. la perte de l’exercice écoulé;
-- e. les dividendes prévus et les remboursements de capital.
-
-[^37-1]: Nouvelle teneur selon le ch. I de l’O du 25 mars 2015, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
-[^37-2]: Abrogée par le ch. I de l’O du 25 mars 2015, avec effet au 1<sup>er</sup> juil. 2015 ([RO 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
-[^37-3]: Abrogée par le ch. I de l’O du 25 mars 2015, avec effet au 1<sup>er</sup> juil. 2015 ([RO 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
-[^37-4]: Nouvelle teneur selon le ch. I de l’O du 25 mars 2015, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
-[^37-5]: Abrogée par le ch. I de l’O du 25 mars 2015, avec effet au 1<sup>er</sup> juil. 2015 ([RO 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
-
-#### Art. 38
-
-**Cas particuliers**
-
-Pour les entreprises d’assurance qui exploitent l’assurance dommages ou la réassurance dommages et qui escomptent ou réduisent leurs provisions techniques, la marge de solvabilité disponible sera diminuée de la différence entre les provisions techniques avant escompte ou réduction et les provisions techniques après escompte ou réduction. Un tel ajustement n’est pas nécessaire pour l’escompte des rentes contenues dans les provisions techniques.
-
-#### Art. 39
-
-[^39-1]
-
-[^39-1]: Abrogé par le ch. I de l’O du 25 mars 2015, avec effet au 1<sup>er</sup> juil. 2015 ([RO 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
-
-#### Art. 40
-
-**Contrôle et rapport**
-
-<sup>1</sup> L’entreprise d’assurance charge un organe interne de contrôler la marge de solvabilité disponible. À la fin de chaque exercice annuel, cet organe établit un rapport et le présente à la direction et à la FINMA dans un délai de trois mois.
-
-<sup>2</sup> Dans des situations particulières, la FINMA peut ordonner que le rapport soit établi plus d’une fois par année.
-
-### Chapitre 3 Test suisse de solvabilité (Schweizer Solvenztest/SST)
-
-### Section 1 Capital cible
-
-#### Art. 41
-
-**Notion**[^41-1]
-
-<sup>1</sup> Le capital cible correspond au capital porteur de risques (art. 47 à 49) qui doit être disponible au début d’une année pour que les valeurs moyennes possibles du capital porteur de risques qui se trouvent en dessous d’un seuil fixé (*value at risk*) (*expected shortfall* selon l’annexe 2) soient à la fin de l’année supérieures ou égales au montant minimum visé à l’al. 3.
-
-<sup>2</sup> Le seuil du capital porteur de risques est la valeur au-dessous de laquelle le capital porteur de risques ne descendra qu’au plus avec une certaine probabilité. La FINMA détermine la valeur de cette probabilité et communique les modifications éventuelles au moins douze mois avant la date à laquelle se réfère la première détermination SST concernée par cette modification.
-
-<sup>3</sup> Le montant minimum est le besoin en capital nécessaire pour constituer le capital porteur de risques pendant la durée de liquidation des engagements actuariels.
-
-[^41-1]: Nouvelle teneur selon le ch. I de l’O du 25 mars 2015, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
-
-#### Art. 42
-
-**Détermination**
-
-<sup>1</sup>
-
-Le capital cible est déterminé par:
-
-- a. un modèle de quantification des risques pertinents;
-- b. l’évaluation d’un certain nombre de scénarios, et
-- c. une procédure d’agrégation qui regroupe les résultats du modèle et de l’éva-luation des scénarios.
-
-<sup>2</sup> La FINMA définit les risques pertinents; les risques de marché, les risques de crédit et les risques d’assurance en font dans tous les cas partie.[^42-1]
-
-<sup>3</sup> à <sup>5</sup> …[^42-2]
-
-[^42-1]: Nouvelle teneur selon le ch. I de l’O du 25 mars 2015, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
-[^42-2]: Abrogés par le ch. I de l’O du 25 mars 2015, avec effet au 1<sup>er</sup> juil. 2015 ([RO 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
-
-#### Art. 43
-
-[^43-1]
-
-[^43-1]: Abrogé par le ch. I de l’O du 25 mars 2015, avec effet au 1<sup>er</sup> juil. 2015 ([RO 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
-
-#### Art. 44
-
-**Scénarios**
-
-<sup>1</sup> La FINMA définit les événements hypothétiques ou les combinaisons d’événements (scénarios) dont la survenance peut être envisagée durant l’année qui suit avec une probabilité déterminée et qui sont susceptibles d’avoir des effets négatifs d’une ampleur déterminée sur l’entreprise d’assurance.[^44-1]
-
-<sup>2</sup> L’entreprise d’assurance définit ses propres scénarios en tenant compte de sa situation individuelle de risques.
-
-<sup>3</sup> En cas de situations de risques particulières, l’entreprise d’assurance soumet à la FINMA une proposition visant à modifier les scénarios prédéterminés.
-
-[^44-1]: Nouvelle teneur selon le ch. I de l’O du 25 mars 2015, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
-
-#### Art. 45
-
-**Agrégation**
-
-La FINMA détermine comment agréger les résultats de l’application des modèles de l’art. 43 et ceux de l’évaluation des scénarios de l’art. 44. Pour les modèles internes, elle peut approuver d’autres méthodes d’agrégation.
-
-#### Art. 46
-
-**Procédure de calcul**[^46-1]
-
-<sup>1</sup>
-
-Lors du calcul du capital cible, on tient compte, pour autant qu’ils soient significatifs:
-
-- a. des garanties et des options intégrées dans les contrats d’assurance;
-- b. des autres garanties octroyées de même que des engagements conditionnels.
-
-<sup>2</sup> Lors du calcul du capital cible, la réassurance et la rétrocession de risques dans le cadre du transfert de risques quantifié est intégralement reconnue. Le risque de défaillance des réassurances doit être pris en compte.
-
-<sup>3</sup>
-
-Il est possible de prendre en compte, afin de diminuer le capital cible, des instruments de transfert de risque et de capital supplémentaires, notamment les garanties reçues ou les instruments de capital amortisseurs de risque visés aux art. 22*a* et 22*b,* à condition que leur modélisation:
-
-- a. respecte les principes d’évaluation et de quantification des risques énoncés dans la présente section;
-- b. suive le modèle applicable au SST de groupe visé aux art. 198*a* à 198*c*, dans la mesure où bénéficiaires et fournisseurs de prestations sont des unités d’un groupe d’assurance placé sous la surveillance de la FINMA.
-
-<sup>4</sup> Les instruments pris en compte conformément à l’al. 3 afin de diminuer le capital cible ne peuvent pas être intégrés simultanément dans le capital complémentaire.
-
-<sup>5</sup> Les instruments qui ne sont pas concernés par les dispositions des art. 22*a* à 22*c* peuvent être pris en compte globalement jusqu’à concurrence de 50 % du capital de base au début de l’année.
-
-[^46-1]: Nouvelle teneur selon le ch. I de l’O du 25 mars 2015, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
-
-### Section 2 Capital porteur de risque
-
-#### Art. 47
-
-**Notion et prise en compte**[^47-1]
-
-<sup>1</sup> Le capital porteur de risques sert à couvrir le capital cible. Il est égal à la somme du capital de base et du capital complémentaire.
-
-<sup>2</sup> Le capital complémentaire peut être pris en compte dans le capital porteur de risques jusqu’à concurrence de 100 % du capital de base. Le capital complémentaire inférieur selon l’art. 49, al. 2, ne peut toutefois être pris en compte que jusqu’à concurrence de 50 % du capital de base.
-
-<sup>3</sup> Sur demande, la FINMA peut autoriser des dérogations à ces limites. L’entreprise d’assurance doit en particulier démontrer comment les risques, la sécurité et la disponibilité des parties constituant le capital porteur de risques sont représentés.
-
-[^47-1]: Nouvelle teneur selon le ch. I de l’O du 25 mars 2015, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
-
-#### Art. 48
-
-**Capital de base**[^48-1]
-
-<sup>1</sup>
-
-Le capital de base correspond à la différence entre la valeur proche du marché des actifs et la valeur proche du marché du capital étranger (annexe 3), ajoutée au montant minimum (art. 41, al. 3) et après déduction:
-
-- a. des dividendes prévus et des remboursements de capital;
-- b. des actions propres que l’entreprise d’assurance détient directement et à ses propres risques;
-- c. des biens incorporels;
-- d. de la taxe immobilière différée, pour un montant ne permettant aucune compensation.
-
-<sup>2</sup> Le capital de base est déterminé sur la base d’un bilan à la valeur de marché dans lequel l’ensemble des positions économiquement pertinentes sont prises en compte (approche de bilan global). La FINMA édicte des règles sur l’établissement du bilan à la valeur de marché.
-
-[^48-1]: Nouvelle teneur selon le ch. I de l’O du 25 mars 2015, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
-
-#### Art. 49
-
-**Capital complémentaire**[^49-1]
-
-<sup>1</sup> Constituent le capital complémentaire supérieur les instruments de capital amortisseurs de risque qui satisfont aux prescriptions de l’art. 22*a*, al. 1, et qui n’ont pas d’échéance fixe de remboursement.
-
-<sup>2</sup> Constituent le capital complémentaire inférieur les instruments de capital amortisseurs de risque qui satisfont aux prescriptions de l’art. 22*a*, al. 1, et qui ont une durée initiale de cinq ans au moins.
-
-<sup>3</sup>
-
-Les instruments de capital amortisseurs de risque visés à l’al. 2 sont pris en compte dans les limites suivantes:
-
-- a. le montant nominal initial est réduit de 20 % chaque année au cours des cinq ans précédant le remboursement;
-- b. si un droit de résiliation est accordé au créancier, la première possibilité de remboursement tient lieu de fin déterminante de la durée. La FINMA peut autoriser des dérogations dans des cas particuliers justifiés.
-
-[^49-1]: Nouvelle teneur selon le ch. I de l’O du 25 mars 2015, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
-
-#### Art. 50
-
-[^50-1]
-
-[^50-1]: Abrogé par le ch. I de l’O du 25 mars 2015, avec effet au 1<sup>er</sup> juil. 2015 ([RO 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
-
-### Section 3 Modèles
-
-[^tit3-chap3-sec3-1]
-
-[^tit3-chap3-sec3-1]: Introduit par le ch. I de l’O du 25 mars 2015, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
-
-#### Art. 50a
+#### Art. 25
 
 **Principe**
 
-<sup>1</sup> L’entreprise d’assurance détermine sa solvabilité au moyen d’un modèle standard de la FINMA.
+### (art. 9*a* LSA)
 
-<sup>2</sup> L’entreprise d’assurance peut déterminer sa solvabilité partiellement ou totalement au moyen d’un modèle propre (modèle interne) si celui-ci est approuvé par la FINMA.
+Une évaluation conforme au marché doit s’appuyer sur les données et informations les plus récentes pouvant être tirées de transactions réalisées sur des marchés financiers transparents, et ne doit pas être en contradiction avec ces données et informations.
 
-#### Art. 50b
+#### Art. 26
+
+**Évaluation des actifs**
+
+### (art. 9*a* LSA)
+
+<sup>1</sup>
+
+La valeur de marché des actifs est fiable:
+
+- a. lorsqu’un nombre suffisant de transactions sont réalisées entre partenaires commerciaux indépendants compétents, ou
+- b. lorsqu’un nombre suffisant de maisons de titres ou de courtiers, en tant que partenaires commerciaux, offrent des prix à des fins de conclusion d’affaires portant sur des volumes significatifs.
+
+<sup>2</sup> Si les conditions énoncées à l’al. 1 ne sont pas remplies, on vérifie lors de l’utilisation de prix de transaction observés que leur caractère approprié est plausible.
+
+<sup>3</sup> La valeur conforme au marché des actifs calculée à l’aide de modèles d’évaluation correspond au prix auquel des partenaires commerciaux indépendants compétents qui sont désireux de contracter achèteraient ou vendraient les actifs.
+
+#### Art. 27
+
+**Évaluation des engagements**
+
+### (art. 9*a* LSA)
+
+La valeur conforme au marché des engagements correspond à la charge financière que fait peser leur exécution sur l’entreprise d’assurance.
+
+#### Art. 28
+
+**Modèles d*’*évaluation des actifs**
+
+### (art. 9*a* et 9*b* LSA)
+
+<sup>1</sup>
+
+Les modèles d’évaluation utilisés pour calculer la valeur conforme au marché des actifs doivent remplir les conditions suivantes:
+
+- a. ils sont reconnus actuariellement;
+- b. ils s’alignent dans toute la mesure possible sur des grandeurs du marché observées.
+
+<sup>2</sup> Ils doivent être intégrés dans les processus internes de l’entreprise d’assurance.
+
+#### Art. 29
+
+**Prise en compte du risque de défaillance**
+
+### (art. 9*a* et 9*b* LSA)
+
+<sup>1</sup> Une valeur conforme au marché d’actifs ou de flux d’entrées de trésorerie déterminée à l’aide de modèles d’évaluation tient compte du risque de défaillance des contreparties pertinentes et des autres risques pertinents.
+
+<sup>2</sup> La valeur conforme au marché des engagements et des flux de sorties de trésorerie ne tient pas compte du risque de défaillance de l’entreprise d’assurance, ni des incidences de la solvabilité de l’entreprise d’assurance réduisant les engagements, si les engagements ne sont pas intégrés dans le capital porteur de risque ou pris en compte dans le capital cible en tant qu’instruments de capital amortisseurs de risque.
+
+#### Art. 30
+
+**Évaluation des engagements d’assurance**
+
+### (art. 9*a* LSA)
+
+<sup>1</sup> La valeur conforme au marché des engagements d’assurance correspond à la charge financière à laquelle est soumise l’entreprise d’assurance pour satisfaire elle-même aux prétentions garanties par les contrats d’assurance en maintenant le niveau de protection visé à l’art. 22.
+
+<sup>2</sup> Elle est égale à la somme de la valeur estimative la meilleure possible des engagements d’assurance visée à l’al. 3 et du montant minimum visé à l’al. 4.
+
+<sup>3</sup> La valeur estimative la meilleure possible des engagements d’assurance est l’espérance mathématique des flux de paiements futurs garantis, escomptés sans risque. Les flux de paiements comprennent l’ensemble des prestations, primes et coûts futurs liés à l’exécution propre des engagements d’assurance visés à l’al. 1, à l’exception des coûts du capital.
+
+<sup>4</sup> Le montant minimum correspond à la provision pour coûts du capital qui est nécessaire à l’exécution propre des engagements d’assurance conformément à l’al. 1, visant à pouvoir financer le capital porteur de risque à hauteur de ce qui est prévu par le niveau de protection.
+
+#### Art. 31
+
+**Courbes de taux**
+
+### (art. 9*b* LSA)
+
+<sup>1</sup> Les courbes de taux sans risque à utiliser pour évaluer les positions du bilan, notamment les engagements d’assurance, à l’aide de modèles d’évaluation sont fixées par la FINMA pour les principales monnaies.
+
+<sup>2</sup> Elle ne fixe aucune courbe de taux présentant une déviation inexplicable par rapport à des cotations de marché fiables et sans risque.
+
+<sup>3</sup> La FINMA peut autoriser l’utilisation par une entreprise d’assurance de ses propres courbes de taux sans risque, dans le cadre d’un modèle interne, au lieu des courbes de taux sans risque prescrites par elle.
+
+<sup>4</sup> Pour les monnaies pour lesquelles la FINMA ne prescrit aucune courbe de taux, l’entreprise d’assurance doit utiliser les courbes de taux sans risque qu’elle a fixées ou choisies. La méthode appliquée pour les fixer doit répondre par analogie aux exigences énoncées à l’art. 28 concernant les modèles d’évaluation.
+
+<sup>5</sup> Pour l’évaluation des contrats d’assurance de filiales implantées dans une juridiction étrangère, il est possible d’utiliser dans le cadre du SST des courbes de taux sans risque conformes aux règles de cette juridiction en matière de solvabilité.
+
+### Chapitre 3 Capital porteur de risque
+
+#### Art. 32
+
+**Définitions**
+
+### (art. 9*a* et 9*b* LSA)
+
+<sup>1</sup>
+
+Le capital porteur de risque est égal à la somme:
+
+- a. du capital de base, et
+- b. du capital complémentaire.
+
+<sup>2</sup>
+
+Le capital de base est égal à la somme:
+
+- a. des actifs nets SST, et
+- b. du montant des instruments de capital amortisseurs de risque de Tier 1 qui sont pris en compte dans le capital de base en vertu de l’art. 34, al. 5.
+
+<sup>3</sup> Les actifs nets SST correspondent à la différence entre, d’une part, la valeur conforme au marché des actifs et, d’autre part, la valeur conforme au marché des engagements, y compris des instruments de capital amortisseurs de risque visés à l’art. 37, sur la base du bilan global selon l’art. 9*a*, al. 1, LSA (bilan SST), à l’exclusion des propres impôts de l’entreprise, moins les déductions mentionnées à l’al. 4.
+
+<sup>4</sup>
+
+Les déductions sont égales à la somme:
+
+- a. des dividendes prévus et des remboursements de capital;
+- b. des actions propres que l’entreprise d’assurance détient directement et à ses propres risques; les actions propres dont la vente est garantie contractuellement ne doivent pas être déduites si les risques qui y sont liés sont représentés dans le SST;
+- c. des biens incorporels;
+- d. des impôts fonciers et des droits de mutation différés, pour un montant ne permettant aucune compensation.
+
+<sup>5</sup> Le capital complémentaire correspond au montant imputable des instruments de capital amortisseurs de risque visés à l’art. 37 qui sont intégrés dans le capital porteur de risque, mais pas dans le capital de base.
+
+#### Art. 33
+
+**Établissement du bilan SST**
+
+### (art. 9*a* et 9*b* LSA)
+
+La FINMA édicte des règles sur l’établissement du bilan SST.
+
+#### Art. 34
+
+**Prise en compte des instruments de capital amortisseurs de risque**
+
+### (art. 9*a* et 9*b* LSA)
+
+<sup>1</sup>
+
+L’effet en montant des instruments de capital amortisseurs de risque sur le SST est donné:
+
+- a. par la valeur conforme au marché à la date de référence pour l’imputation au capital porteur de risque, et
+- b. par l’effet sur le capital cible pour la prise en compte dans le capital cible.
+
+<sup>2</sup> Les instruments de capital amortisseurs de risque d’une échéance résiduelle ne dépassant pas douze mois à compter de la date de référence ne peuvent être imputés au capital porteur de risque que si le calcul du capital cible prend pour hypothèse que ces instruments seront remboursés à leur valeur nominale à l’échéance.
+
+<sup>3</sup>
+
+Les instruments de capital amortisseurs de risque assortis d’une option de remboursement dans les douze mois à compter de la date de référence ne peuvent être imputés au capital porteur de risque qu’aux conditions suivantes:
+
+- a. l’entreprise d’assurance signale tous les instruments de ce type dans le rapport sur sa situation financière et comptabilise leur valeur conforme au marché à la date de référence;
+- b. avant le remboursement, le respect des exigences découlant de l’art. 37, al. 1, let. d et e, est attesté par une preuve admise par la FINMA; si un instrument de capital amortisseur de risque n’est pas préalablement remplacé par un instrument d’une valeur équivalente ou supérieure, la preuve est fournie par une détermination SST.
+
+<sup>4</sup> Si le remboursement des instruments de capital amortisseurs de risque visés à l’al. 3 dans les douze mois à compter de la date de référence entraîne une modification de la situation de risque telle que décrite à l’art. 48, al. 3, l’entreprise d’assurance indique la solvabilité après remboursement dans le rapport sur sa situation financière au plus tard dix jours après le remboursement.
+
+<sup>5</sup> Les instruments de capital amortisseurs de risque de Tier 1 peuvent globalement être imputés au capital de base jusqu’à un effet en montant de maximum 20 % du capital de base.
+
+<sup>6</sup> Les instruments de capital amortisseurs de risque qui ne sont pas imputés au capital de base peuvent globalement être intégrés ou pris en compte à la fois dans le capital porteur de risque et dans le capital cible jusqu’à un effet en montant de maximum 100 % des actifs nets SST.
+
+<sup>7</sup> Sur demande de l’entreprise d’assurance, la FINMA peut autoriser des dérogations à ces limites si les circonstances le justifient. L’entreprise d’assurance doit notamment démontrer comment les risques, la sécurité et la disponibilité des parties constituant le capital porteur de risque sont représentés.
+
+### Chapitre 4 Capital cible
+
+#### Art. 35
+
+**Définition et calcul**
+
+### (art. 9*a* et 9*b* LSA)
+
+<sup>1</sup> Si aucun instrument de capital amortisseur de risque n’est imputé sur le capital porteur de risque, le capital cible correspond aux actifs nets SST qui doivent être présents au minimum à la date de référence pour que l’expected shortfall (au sens de l’art. 36) des actifs nets SST ne soit pas négatif à la fin des douze mois à compter de la date de référence.
+
+<sup>2</sup>
+
+Le capital cible correspond à la valeur négative de l’expected shortfall de la différence entre:
+
+- a. le capital porteur de risque escompté sans risque à la date de référence existant à la fin des douze mois à compter de la date de référence, et
+- b. le capital porteur de risque à la date de référence.
+
+<sup>3</sup> Le capital cible doit prendre dûment en compte les paiements d’intérêts et les éventuels autres versements provenant d’instruments de capital amortisseurs de risque pendant les douze mois à compter de la date de référence. Sont exceptés les remboursements de créances en capital effectués par l’exercice éventuel d’options de remboursement lorsque les instruments de capital amortisseurs de risque correspondants sont imputés au capital porteur de risque.
+
+#### Art. 36
+
+**Expected shortfall**
+
+### (art. 9*a* et 9*b* LSA)
+
+L’expected shortfall est calculé selon les formules figurant à l’annexe 3.
+
+### Chapitre 5 Instruments de capital amortisseurs de risque
+
+#### Art. 37
+
+**Imputation, prise en compte et constatation du surendettement**
+
+### (art. 9*b* et 51*a*, al. 4, LSA)
+
+<sup>1</sup>
+
+Les instruments de capital amortisseurs de risque peuvent, aux conditions suivantes et avec l’approbation de la FINMA, soit être imputés au capital porteur de risque, soit être pris en compte dans le capital cible:
+
+- a. ils sont effectivement versés et ne sont pas garantis par des actifs de l’entreprise d’assurance;
+- b. ils ne peuvent être compensés par des créances de l’entreprise d’assurance;
+- c.
+
+  il est irrévocablement stipulé dans le contrat:
+
+  - 1\. que, pour les instruments de capital amortisseurs de risque de Tier 2, l’entreprise d’assurance est tenue d’ajourner le paiement de la créance en capital et des intérêts passifs échus en cas de survenance d’événements *trigger* définis contractuellement, mais au moins si le seuil de 100 % du quotient SST n’est pas atteint et en cas de risque d’insolvabilité; en outre, il convient de veiller dans le contrat à ce que les conditions prévues à l’art. 51*a*, al. 4, LSA soient remplies,
+  - 2\. en complément au ch. 1, que les instruments de capital amortisseurs de risque de Tier 1 disparaissent par la réduction intégrale des créances ou sont transformés en capital propre statutaire en cas de survenance d’événements *trigger* définis contractuellement, mais au moins lorsque le seuil de 80 % du quotient SST n’est plus atteint, en cas de surendettement imminent ou de retrait de l’autorisation; pour la constatation du surendettement imminent, les instruments de capital amortisseurs de risque sont pris en compte en tant que fonds étrangers,
+  - 3\. que la FINMA peut établir définitivement qu’un événement déclencheur au sens du ch. 1 ou du ch. 2 est survenu au moyen d’une communication à l’entreprise d’assurance,
+  - 4\. que les créanciers doivent accepter la constatation énoncée au ch. 3 ainsi que les éventuelles mesures ordonnées par la FINMA en cas de risque d’insolvabilité;
+
+- d. ils sont axés sur le long terme et ne peuvent être remboursés par anticipation qu’avec l’accord de l’entreprise d’assurance et uniquement avec l’approbation préalable de la FINMA; l’approbation est octroyée si l’entreprise d’assurance démontre que le remboursement n’entraîne pas la mise en péril de la solvabilité;
+- e.
+
+  le contrat stipule que le remboursement d’un instrument de capital amortisseur de risque de durée limitée est autorisé uniquement:
+
+  - 1\. si le remboursement ne fait pas tomber le quotient SST en dessous du seuil de 100 % ou n’entraîne pas un risque d’insolvabilité, ou
+  - 2\. si l’instrument est remplacé par un instrument de valeur équivalente ou supérieure.
+
+<sup>2</sup> Le contrat relatif à un instrument de capital amortisseur de risque lié à une réduction de créance conditionnelle conformément à l’al. 1, let. c, de Tier 1 peut accorder au bailleur de fonds un droit conditionnel différé de participer à l’amélioration de la situation financière de l’entreprise d’assurance; cela ne doit pas porter atteinte de façon substantielle au renforcement de la base de capital de l’entreprise d’assurance au moment de la réduction de créance.
+
+<sup>3</sup> Les instruments de capital amortisseurs de risque de Tier 2 peuvent contenir une incitation modérée au remboursement de l’instrument dès lors que cette incitation ne produit pas d’effet avant l’expiration de dix années à compter de la date d’émission.
+
+<sup>4</sup> Aucun mécanisme ne doit entraver notablement l’effet amortisseur de risque des instruments de capital amortisseurs de risque.
+
+<sup>5</sup>
+
+Les exigences suivantes s’appliquent aux garanties émises par l’entreprise d’assurance en lien avec le financement du donneur de l’instrument de capital amortisseur de risque:
+
+- a. les garanties remplissent les conditions énumérées aux al. 1 et 2 par analogie mais ne doivent pas avoir été effectivement versées;
+- b. il est assuré de manière adéquate qu’elles ne sont pas prises en compte lors de la détermination du surendettement de l’entreprise d’assurance;
+- c. le risque d’éventuels doubles paiements, en particulier au titre des créances découlant de garanties et des instruments de capital amortisseurs de risque, est limité de manière appropriée.
+
+<sup>6</sup>
+
+Les créances découlant de garanties liées à des instruments de capital amortisseurs de risque approuvés par la FINMA ne sont pas prises en compte lors de la constatation du surendettement de la société mère qui se porte garante ou d’une autre société du groupe qui se porte garante:
+
+- a. si la société mère qui se porte garante ou la société du groupe qui se porte garante est domiciliée en Suisse, et
+- b. si les garanties remplissent par analogie les conditions énumérées à l’art. 51*a*, al. 4, let. a à c, LSA.
+
+<sup>7</sup> L’al. 6 s’applique notamment aussi lorsque l’entreprise d’assurance est elle-même une société mère domiciliée en Suisse ou une autre société du groupe domiciliée en Suisse agissant en tant que garant pour le financement du donneur de l’instrument de capital amortisseur de risque.
+
+<sup>8</sup> La FINMA peut régler les critères pour l’imputation ou la prise en compte des instruments de capital amortisseurs de risque, concernant notamment l’évaluation de la qualité de ces instruments, leur applicabilité légale, la fongibilité du capital et le risque de défaillance du prestataire de services. Dans certains cas, elle peut imposer des exigences supplémentaires.
+
+#### Art. 38
+
+**Échéance**
+
+### (art. 9*b* LSA)
+
+<sup>1</sup> Les instruments de capital amortisseurs de risque de Tier 1 visés à l’art. 37 n’ont pas d’échéance fixe de remboursement.
+
+<sup>2</sup> Les instruments de capital amortisseurs de risque de Tier 2 visés à l’art. 37 n’ont pas d’échéance fixe de remboursement ou ont une échéance initiale d’au moins cinq ans.
+
+### Chapitre 6 Quotient SST et calcul du SST
+
+#### Art. 39
+
+**Quotient SST**
+
+### (art. 9*b* LSA)
+
+<sup>1</sup> Le quotient SST correspond au capital porteur de risque divisé par le capital cible.
+
+<sup>2</sup> Si le capital cible n’est pas positif, aucun quotient SST ne peut être comptabilisé.
+
+#### Art. 40
+
+**Détermination du SST**
+
+### (art. 9*a* et 9*b* LSA)
+
+<sup>1</sup> La détermination du SST couvre toutes les positions du bilan SST et les risques qui en découlent.
+
+<sup>2</sup> La réassurance et la rétrocession de risques dans le cadre du transfert de risques quantifié doivent être intégralement prises en compte lors du calcul du capital cible. Dans ce contexte, le risque de défaillance doit être pris en considération dans la modélisation, et l’al. 3 doit être respecté par analogie.
+
+<sup>3</sup>
+
+Les instruments de transfert de capital et de risque qui ne relèvent pas des dispositions de l’al. 2 et des art. 37 et 38, notamment les garanties reçues, ne peuvent être pris en compte pour réduire le capital cible qu’aux conditions suivantes:
+
+- a. ils sont juridiquement contraignants et applicables;
+- b. ils sont modélisés conformément aux principes d’évaluation et de quantification des risques du SST;
+- c. les éventuelles interactions entre l’entreprise d’assurance et les contreparties, découlant notamment des instruments de transfert de capital et de risque ainsi que des rapports de participation, sont prises en compte dans la modélisation;
+- d. les droits d’option de l’entreprise d’assurance convenus contractuellement sont modélisés dans le SST selon l’exercice le moins favorable pour le SST;
+- e. l’annulation des contrats ou les modifications des contrats correspondants après la date de référence sont préalablement soumises à la FINMA pour approbation;
+- f. les éventuelles restrictions de l’effet de réduction du risque ou du capital peuvent être quantifiées et sont représentées de manière appropriée dans la modélisation.
+
+<sup>4</sup> Les instruments visés à l’al. 3 peuvent globalement être pris en compte jusqu’à concurrence maximale de 50 % du capital de base à la date de référence.
+
+<sup>5</sup> Pour les instruments de transfert de capital et de risque relevant des dispositions des art. 37 et 38, l’al. 3 s’applique par analogie. Sont exceptés les droits d’option visés à l’al. 3, let. d, si leur exercice est soumis à l’approbation de la FINMA.
+
+#### Art. 41
+
+**Hypothèses retenues pour la détermination**
+
+### (art. 9*a* et 9*b* LSA)
+
+<sup>1</sup>
+
+Les hypothèses sous-tendant la détermination du SST sont retenues en prenant en compte autant que possible les critères suivants:
+
+- a. elles se rapportent de manière réaliste à la situation observée;
+- b. elles sont aussi cohérentes que possible entre elles;
+- c. elles ne sont pas en contradiction avec les données et informations pertinentes;
+- d. leur caractère incertain est pris en compte dans le SST dans une mesure appropriée.
+
+<sup>2</sup> Les entreprises d’assurance doivent pouvoir identifier les hypothèses et les éventuelles incohérences entre celles-ci.
+
+#### Art. 42
+
+**Caractère significatif et simplifications**
+
+### (art. 9*a* et 9*b* LSA)
+
+<sup>1</sup> Les simplifications dans la détermination du SST sont admissibles dès lors qu’elles n’ont pas d’incidence significative sur le SST.
+
+<sup>2</sup>
+
+Une incidence sur le SST est significative:
+
+- a.
+
+  lorsqu’elle entraîne globalement, sur l’ensemble des simplifications:
+
+  - 1\. une modification relative du quotient SST d’au moins 10 %, ou
+  - 2\. un franchissement d’un seuil d’intervention, ou
+
+- b. lorsqu’elle pourrait influer sur les décisions ou le jugement des destinataires de l’entreprise d’assurance ou de la FINMA.
+
+#### Art. 43
+
+**Scénarios**
+
+### (art. 9*a* et 9*b* LSA)
+
+<sup>1</sup> La FINMA définit les événements hypothétiques ou les combinaisons d’événements (scénarios prédéterminés) dont la survenance peut être envisagée avec une certaine probabilité durant les douze mois à compter de la date de référence et qui sont susceptibles d’avoir des effets négatifs d’une ampleur déterminée sur certaines entreprises d’assurance.
+
+<sup>2</sup> En cas de situations de risques particulières, l’entreprise d’assurance doit adapter les scénarios prédéterminés concernés et motiver sa décision.
+
+<sup>3</sup> L’entreprise d’assurance doit définir ses propres scénarios en tenant compte de sa situation individuelle de risques et de la couverture de celle-ci par le modèle utilisé. Il convient en particulier de tenir compte des événements extrêmes, portant notamment sur plusieurs catégories de risques, ainsi que des concentrations de risques.
+
+<sup>4</sup> Il y a concentration de risques lorsque la survenance possible d’un événement isolé ou la survenance de plusieurs événements simultanés est susceptible d’entraîner une modification considérable du quotient SST, le cas échéant par des effets subséquents.
+
+<sup>5</sup> Les entreprises d’assurance doivent déterminer les effets des scénarios prédéterminés et de leurs propres scénarios sur le capital porteur de risque à la fin des douze mois à compter de la date de référence et tenir compte des événements de manière appropriée dans la gestion des risques.
+
+<sup>6</sup> Si le modèle utilisé ne reflète pas suffisamment les scénarios, ces scénarios doivent être pris en compte dans le capital cible.
+
+<sup>7</sup> La FINMA détermine la manière dont les scénarios doivent être pris en compte le cas échéant dans le capital cible, notamment par l’agrégation, l’adaptation du modèle ou des suppléments au capital cible.
+
+### Chapitre 7 Modèles
+
+#### Art. 44
+
+**Principe**
+
+### (art. 9*b* LSA)
+
+<sup>1</sup> Les entreprises d’assurance doivent déterminer leur solvabilité au moyen d’un modèle standard de la FINMA.
+
+<sup>2</sup> Une entreprise d’assurance peut déterminer sa solvabilité partiellement ou totalement au moyen d’un modèle propre (modèle interne) si celui-ci est approuvé par la FINMA.
+
+#### Art. 45
 
 **Modèles standard**
 
-<sup>1</sup> La FINMA élabore ou fixe des modèles standard qui reflètent les profils de risque de la plupart des entreprises d’assurance.
+### (art. 9*b* LSA)
 
-<sup>2</sup> Elle décide quel modèle standard une entreprise d’assurance doit appliquer.
+<sup>1</sup> La FINMA élabore ou fixe des modèles standard qui reflètent suffisamment les profils de risque de la plupart des entreprises d’assurance.
 
-<sup>3</sup> Elle peut exiger l’adaptation du modèle standard ou son remplacement par un autre modèle standard ou un modèle interne au sens de l’art. 50*c* si le modèle standard utilisé n’est pas adapté à la situation de l’entreprise d’assurance en matière de risques.
+<sup>2</sup> Elle décide du modèle standard qu’une entreprise d’assurance doit utiliser.
 
-#### Art. 50c
+<sup>3</sup>
 
-**Modèles internes**
+Si le modèle standard appliqué ne reflète pas suffisamment les risques encourus par l’entreprise d’assurance, la FINMA peut exiger:
 
-La FINMA autorise une entreprise d’assurance à utiliser un modèle interne si:
+- a. que le modèle standard soit adapté;
+- b. que des scénarios soient pris en compte dans le capital cible, ou
+- c. qu’un autre modèle standard ou un modèle interne soit utilisé.
 
-- a. les modèles standard ne reflètent pas suffisamment les risques encourus;
-- b. les exigences quantitatives, qualitatives et organisationnelles de la FINMA sont remplies.
+<sup>4</sup> Pour les placements garantis directement ou indirectement par des gages immobiliers, le modèle standard pour les risques de crédit dans le SST s’appuie sur les prescriptions régissant l’approche standard internationale (AS-BRI) de l’ordonnance du 1<sup>er</sup> juin 2012 sur les fonds propres[^45-1]. La FINMA peut tenir compte de points de vue propres à l’assurance en ce qui concerne la mise en œuvre.
 
-#### Art. 50d
+<sup>5</sup> La FINMA peut utiliser des logiciels *open source* pour les applications de modèles standard.
 
-**Approbation, changement et adaptation du modèle**
+[^45-1]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
 
-<sup>1</sup> Le choix du modèle, le changement de modèle et les modifications importantes doivent être approuvés par la FINMA. En attendant cette approbation, la FINMA peut ordonner l’utilisation d’un modèle interne adapté ou d’un modèle standard.
+#### Art. 46
 
-<sup>2</sup> La FINMA accorde dans des cas particuliers des modalités et des délais de transition adaptés au passage d’un modèle interne à un modèle standard en tenant compte de la charge financière qui en résulte pour les entreprises d’assurance, en particulier de la charge liée aux frais de capital.
+**Modèle interne ou adaptation d’un modèle standard**
 
-<sup>3</sup> L’entreprise d’assurance réexamine régulièrement son modèle et le révise au besoin.
+### (art. 9*b* LSA)
 
-### Section 4 Autres dispositions
+<sup>1</sup>
 
-[^tit3-chap3-sec4-1]
+La FINMA autorise une entreprise d’assurance à utiliser un modèle interne ou la version adaptée d’un modèle standard désignée par la FINMA comme étant soumise à approbation:
 
-[^tit3-chap3-sec4-1]: Anciennement Section 3. Nouvelle teneur selon le ch. I de l’O du 25 mars 2015, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
+- a. si les modèles standard ne reflètent pas suffisamment les risques encourus, et
+- b. si certaines exigences quantitatives, qualitatives et organisationnelles sont remplies.
 
-#### Art. 50e
+<sup>2</sup> La FINMA fixe les exigences quantitatives, qualitatives et organisationnelles.
 
-**Simplifications**[^50e-1]
+#### Art. 47
 
-La FINMA peut accorder à certaines entreprises d’assurance des simplifications pour mener le SST si des circonstances particulières, notamment le petit volume des affaires, la faible complexité ou la légèreté des risques, le justifient.
+**Choix, changement et modification du modèle**
 
-[^50e-1]: Introduit par le ch. I de l’O du 25 mars 2015, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
+### (art. 9*b* LSA)
 
-#### Art. 50f
+<sup>1</sup> Le choix du modèle, le changement de modèle et les modifications significatives apportées au modèle doivent être approuvés par la FINMA. En attendant cette approbation, la FINMA peut ordonner l’utilisation d’un modèle interne adapté ou d’un modèle standard avec ou sans adaptations.
 
-**Suppléments de capital cible et déductions de capital porteur de risques**[^50f-1]
+<sup>2</sup> La FINMA accorde dans le cas particulier des modalités et des délais de transition adaptés en cas de passage d’un modèle interne à un modèle standard.
 
-La FINMA peut, en fonction des risques encourus, décider des suppléments de capital cible ou des déductions de capital porteur de risques:
+<sup>3</sup> L’entreprise d’assurance doit réexaminer régulièrement le modèle utilisé et le réviser au besoin.
 
-- a. en cas de modélisation insuffisante;
-- b. pour couvrir des risques supplémentaires non pris en compte, en particulier des risques opérationnels et des risques de concentration.
+### Chapitre 8 Fréquence du calcul et rapport concernant le SST
 
-[^50f-1]: Introduit par le ch. I de l’O du 25 mars 2015, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
+#### Art. 48
 
-#### Art. 51
+**Fréquence du calcul**
 
-**Fréquence du calcul**[^51-1]
+### (art. 9*b* LSA)
 
-<sup>1</sup> Le capital cible et le capital porteur de risques sont calculés une fois par an.
+<sup>1</sup> Le capital porteur de risque et le capital cible sont calculés une fois par an.
 
-<sup>2</sup> La FINMA peut accroître la fréquence du calcul si les risques encourus par l’entreprise d’assurance l’exigent. Dans ce cas, elle peut se contenter d’une estimation du capital cible ou du capital porteur de risques.
+<sup>2</sup> La FINMA peut accroître la fréquence du calcul si les risques encourus par l’entreprise d’assurance l’exigent. Dans ce cas, elle peut aussi exiger une estimation du capital porteur de risque ou du capital cible.
 
-[^51-1]: Nouvelle teneur selon le ch. I de l’O du 25 mars 2015, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
+<sup>3</sup> Les modifications de la situation en matière de risques entraînant une réduction considérable du quotient SST, y compris le fait qu’un seuil d’intervention (art. 51) n’est pas atteint, doivent être communiquées sans délai à la FINMA, tout comme une estimation du capital porteur de risque et du capital cible.
 
-#### Art. 52
+<sup>4</sup> En ce qui concerne les transactions qui doivent être approuvées par la FINMA, l’entreprise d’assurance doit indiquer leurs effets estimatifs sur le capital porteur de risque et le capital cible lors du processus d’approbation de la FINMA.
 
-**Collecte des données**[^52-1]
+#### Art. 49
 
-L’entreprise d’assurance collecte et saisit les données pertinentes de manière à pouvoir calculer le capital cible, le capital porteur de risques et la valeur proche du marché des engagements d’assurance.
+**Collecte des données**
 
-[^52-1]: Nouvelle teneur selon le ch. I de l’O du 25 mars 2015, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
+### (art. 9*b* LSA)
 
-#### Art. 53
+<sup>1</sup> Les entreprises d’assurance doivent collecter et saisir les données pertinentes de manière à pouvoir calculer la valeur conforme au marché des engagements d’assurance, le capital porteur de risque et le capital cible.
+
+<sup>2</sup> Les entreprises d’assurance doivent utiliser des procédures documentées et vérifiées pour garantir la qualité des données utilisées pour le SST, notamment leur exhaustivité, leur exactitude et leur actualité.
+
+#### Art. 50
 
 **Rapport SST**
 
-<sup>1</sup> L’entreprise d’assurance établit chaque année un rapport sur le calcul du capital cible et du capital porteur de risques. Celui-ci est signé par la direction et remis à la FINMA. Cette dernière peut exiger des informations plus fréquentes, à condition que les risques encourus justifient une telle mesure.[^53-1]
+### (art. 9*b* LSA)
 
-<sup>2</sup> Le rapport SST contient toutes les informations déterminantes permettant de comprendre le calcul du capital cible et celui du capital porteur de risques, ainsi que la situation de risques de l’entreprise d’assurance.
+<sup>1</sup> Les entreprises d’assurance doivent communiquer chaque année à la FINMA des données et des informations sur le calcul du capital porteur de risque et du capital cible (rapport SST). La FINMA peut exiger des informations plus fréquentes si les risques encourus l’imposent.
 
-<sup>3</sup> La FINMA fixe chaque année un délai raisonnable pour la remise du rapport SST.
+<sup>2</sup> Le rapport SST doit contenir toutes les informations pertinentes nécessaires pour comprendre le calcul du capital porteur de risque et celui du capital cible, ainsi que les risques encourus par l’entreprise d’assurance. Il doit notamment permettre d’apprécier le caractère approprié de la détermination SST par rapport à la situation en matière de risques, ainsi que de comprendre les changements intervenus depuis le dernier rapport SST.
 
-[^53-1]: Nouvelle teneur selon le ch. I de l’O du 25 mars 2015, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
+<sup>3</sup> La FINMA fixe un délai raisonnable pour la remise du rapport SST.
+
+<sup>4</sup> Le rapport SST doit être signé par la direction et être remis à la FINMA sous la forme prescrite.
+
+<sup>5</sup> La FINMA peut édicter des dispositions d’exécution concernant le contenu du rapport SST.
+
+#### Art. 50a
+
+**Tests de résistance**[^50a-1]
+
+### (art. 9*b* LSA)
+
+<sup>1</sup> La FINMA peut exiger, en plus du rapport SST, des calculs SST et des tests de résistance normalisés, notamment pour établir des comparaisons sur le marché.
+
+<sup>2</sup> Les résultats des tests de résistance ne sont pas publiés par entreprise d’assurance et groupe d’assurance, sauf si la FINMA l’ordonne sur la base de l’art. 22 LFINMA[^50a-2].
+
+[^50a-1]: Introduit par le ch. I de l’O du 25 mars 2015, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
+[^50a-2]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+
+#### Art. 50b à 50f
+
+[^50b50f-1]
+
+*Abrogés*
+
+[^50b50f-1]: Introduits par le ch. I de l’O du 25 mars 2015, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
+
+### Chapitre 9 Mesures et interventions
+
+#### Art. 51
+
+**Seuils d’intervention**
+
+### (art. 9*b* LSA)
+
+<sup>1</sup> La FINMA prend des mesures protectrices au sens de l’art. 51 LSA lorsque le quotient SST d’une entreprise d’assurance n’atteint plus certains seuils (seuils d’intervention).
+
+<sup>2</sup>
+
+Le contenu et l’étendue des mesures protectrices sont fonction des zones suivantes:
+
+- a. zone verte: le quotient SST dépasse le seuil de 100 %;
+- b. zone jaune: le quotient SST se situe entre les seuils de 100 % et de 33 %;
+- c. zone rouge: le quotient SST est inférieur au seuil de 33 %.
+
+#### Art. 52
+
+**Mesures générales**
+
+### (art. 9*b* LSA)
+
+<sup>1</sup> Les entreprises d’assurance doivent faire approuver par la FINMA les actions pertinentes en matière de solvabilité avant leur mise en œuvre lorsqu’elles risquent de ne pas se retrouver dans la zone verte immédiatement après la mise en œuvre. Sont concernées notamment les sorties de trésorerie comme les paiements de dividendes et les remboursements de capital, la dissolution de couvertures de réassurance passives, la conversion volontaire d’emprunts propres, les opérations internes au groupe y compris les transactions et la distribution d’excédents aux assurés.
+
+<sup>2</sup> Si une entreprise d’assurance se trouve dans la zone jaune, la FINMA peut, en appréciant dûment le cas particulier, appliquer toutes les mesures protectrices prévues à l’art. 51 LSA qui lui paraissent nécessaires pour sauvegarder les intérêts des assurés de l’entreprise d’assurance, notamment suspendre la conclusion de nouvelles affaires et prescrire la liquidation ordonnée du portefeuille d’assurance existant.
+
+<sup>3</sup> Si une entreprise d’assurance tombe dans la zone rouge et ne peut pas immédiatement présenter à la FINMA des mesures d’urgence directement reconnaissables par celle-ci comme le gage d’une sortie rapide de cette zone, elle ne peut plus conclure de nouveaux contrats d’assurance et il est procédé à la liquidation. La FINMA prend les mesures requises en application de l’art. 51 LSA.
+
+<sup>4</sup> Conformément à l’art. 37 LFINMA[^52-1], la FINMA peut retirer leur agrément aux entreprises d’assurance qui se trouvent dans la zone rouge.
+
+<sup>5</sup> Si les circonstances le justifient, la FINMA peut autoriser des dérogations aux dispositions de l’al. 3. Sont en particulier déterminants à cet égard le niveau de protection effectif des assurés, ainsi que la disponibilité et l’efficacité des mesures.
+
+[^52-1]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+
+#### Art. 53
+
+**Plan de mesures**
+
+### (art. 9*b* LSA)
+
+<sup>1</sup> Une entreprise d’assurance qui se retrouve dans la zone jaune doit soumettre dans les deux mois à la FINMA pour approbation un plan de mesures reposant sur des hypothèses réalistes. Dans ce contexte, elle doit tenir compte d’un éventuel plan de stabilisation au sens de l’art. 22*a* LSA.
+
+<sup>2</sup>
+
+Le plan de mesures doit remplir les exigences suivantes:
+
+- a. il doit être conçu de manière à offrir une probabilité élevée que l’entreprise d’assurance puisse revenir dans la zone verte dans les 24 mois à compter de la date où il a été approuvé; la FINMA peut prolonger ce délai;
+- b. il définit des valeurs cibles appropriées, y compris le quotient SST, qui devront être atteintes à des moments déterminés pendant sa durée de validité, en vue de suivre le respect des exigences énoncées à la let. a pendant cette durée;
+- c. il démontre le respect des exigences énoncées à la let. a en évaluant l’évolution des valeurs cibles selon différents scénarios pendant sa durée de validité.
+
+<sup>3</sup> L’entreprise d’assurance soumet à la FINMA pour approbation pendant la durée de validité du plan de mesures un plan de mesures actualisé lorsque cela s’avère nécessaire pour atteindre les valeurs cibles.
+
+<sup>4</sup> La FINMA peut édicter des dispositions d’exécution relatives au plan de mesures et définir des éléments du plan de mesures dans le cas particulier.
+
+<sup>5</sup> Si l’entreprise d’assurance n’établit aucun plan de mesures approuvé par la FINMA ou si les valeurs cibles définies dans le plan de mesures s’avèrent impossibles à atteindre, la FINMA prend des mesures en application de l’art. 51 LSA.
+
+### Chapitre 10 Autres dispositions
 
 #### Art. 53a
 
-**Tests de résistance**[^53a-1]
+**Simplifications**[^53a-1]
 
-La FINMA peut exiger, en plus du rapport SST, des calculs SST et des tests de résistance normalisés, notamment pour établir des comparaisons sur le marché.
+### (art. 9*b* LSA)
+
+La FINMA peut accorder à certaines entreprises d’assurance des simplifications pour mener le SST:
+
+- a. si des circonstances particulières, notamment le petit volume des affaires, la faible complexité ou la légèreté des risques, le justifient, et
+- b. si cela ne compromet pas le respect du niveau de protection.
 
 [^53a-1]: Introduit par le ch. I de l’O du 25 mars 2015, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
+
+#### Art. 53b
+
+**Suppléments et réductions**
+
+### (art. 9*b* LSA)
+
+En cas de modélisation insuffisante ou pour couvrir des risques supplémentaires non pris en compte, en particulier des risques opérationnels et des risques de concentration, la FINMA peut ordonner de procéder:
+
+- a. à des suppléments de capital cible en fonction des risques encourus;
+- b. à des réductions du capital porteur de risque, ou
+- c. à l’agrégation des scénarios.
 
 ## Titre 4 Provisions techniques et fortune liée
 
@@ -845,13 +1256,19 @@ L’entreprise d’assurance constitue toutes les provisions techniques sans pre
 
 **Renforcement des provisions techniques**[^62-1]
 
-<sup>1</sup> La FINMA peut autoriser un plan de renforcement des provisions techniques pour une période de dix ans au plus.
+### (art. 16 LSA)
+
+[^62-2]
+
+<sup>1</sup> La FINMA peut autoriser un plan de renforcement des provisions techniques pour une partie du portefeuille d’assurance (portefeuille partiel) sur une période de cinq ans au maximum, pour autant que les provisions techniques constituées pour ce portefeuille partiel contiennent une marge de sécurité non négligeable.[^62-3]
 
 <sup>2</sup> Les provisions techniques sont renforcées pour chaque assuré si elles doivent lui être remises lors de sa sortie du contrat collectif.
 
 <sup>3</sup> La FINMA peut ordonner des renforcements supplémentaires des provisions techniques s’il existe de justes motifs.
 
 [^62-1]: Nouvelle teneur selon le ch. I de l’O du 25 mars 2015, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
+[^62-2]: Nouvelle teneur selon le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^62-3]: Nouvelle teneur selon le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 #### Art. 63
 
@@ -925,7 +1342,50 @@ Sont des provisions techniques:
 
 [^69-1]: Nouvelle teneur selon le ch. I de l’O du 25 mars 2015, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
 
-### Chapitre 2 Fortune liée
+### Chapitre 2 Principes du placement
+
+[^tit4-chap2-1]
+
+[^tit4-chap2-1]: Introduit par le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+
+### (art. 16 LSA)
+
+#### Art. 69a
+
+<sup>1</sup>
+
+Les entreprises d’assurance doivent placer leurs actifs selon le principe de la personne prudente en respectant les exigences suivantes:
+
+- a. elles ne peuvent investir que dans des biens et des instruments dont elles peuvent suffisamment apprécier, évaluer, surveiller, piloter et intégrer dans leurs rapports les risques;
+- b. elles doivent placer leurs actifs de manière à garantir la sécurité, la qualité, la liquidité et la rentabilité du portefeuille dans son ensemble; la localisation des actifs doit en assurer la disponibilité;
+- c.
+
+  elles doivent placer les actifs détenus à titre de couverture des provisions techniques:
+
+  - 1\. d’une manière adaptée à la nature et à l’échéance des engagements d’assurance de l’entreprise,
+  - 2\. dans le meilleur intérêt des preneurs d’assurance et des ayants droit, et
+  - 3\. en tenant compte des objectifs stratégiques;
+
+- d. en cas de conflit d’intérêts, elles doivent veiller à ce que les actifs soient placés dans l’intérêt des preneurs d’assurance et des ayants droit;
+- e. elles doivent détenir à un niveau prudent les placements et les biens qui ne sont pas admis au négoce sur un marché financier réglementé;
+- f. elles doivent mélanger et répartir les placements de façon appropriée afin d’éviter une dépendance excessive vis-à-vis d’une catégorie de placements, d’un actif, d’un émetteur, d’un groupe d’entreprises, d’un marché ou d’une région géographique, ainsi qu’une concentration de risques excessive dans le portefeuille dans son ensemble;
+- g. l’utilisation d’instruments financiers dérivés n’est admise que si ceux-ci servent à réduire les risques ou à gérer efficacement les placements de capitaux; les opérations pour lesquelles il n’existe pas de portefeuilles de titres correspondants (ventes à découvert) sont interdites.
+
+<sup>2</sup>
+
+Lorsque des placements dont le risque de placement est assumé par le preneur d’assurance sont effectués pour des contrats d’assurance sur la vie, sont applicables l’al. 1, let. a à d, ainsi que les dispositions suivantes:
+
+- a. dans la mesure où des prestations découlant d’un contrat sont directement liées à la valeur de parts de placements collectifs ou à des actifs détenus dans un fonds cantonné, les provisions techniques correspondantes doivent être couvertes aussi précisément que possible par les parts en question ou par les actifs concernés dès lors qu’aucune part n’a été constituée pour le fonds cantonné;
+- b. dans la mesure où des prestations découlant d’un contrat sont directement liées à un indice ou à une valeur de référence autre que celles citées à la let. a, les provisions techniques correspondantes doivent être couvertes aussi précisément que possible par les actifs sur lesquels repose l’indice ou la valeur de référence; si aucune part n’est constituée, les provisions doivent être couvertes par des actifs présentant la sécurité et la réalisabilité appropriées, correspondant aussi précisément que possible aux valeurs sur lesquelles repose la valeur de référence concernée;
+- c. dans la mesure où un contrat prévoit, outre les prestations citées aux let. a et b, une garantie concernant le résultat des placements ou une autre prestation garantie, l’al. 1, let. e à g, doit être appliqué aux actifs détenus pour couvrir les provisions techniques supplémentaires correspondantes; en cas de garantie relative au résultat des placements, les actifs détenus en vue de couvrir la provision correspondante doivent refléter au mieux les fluctuations de valeur de la garantie.
+
+<sup>3</sup> L’entreprise d’assurance doit documenter de manière transparente et surveiller sa stratégie de placement ainsi que le respect des principes de placement.
+
+### Chapitre 2*a* Fortune liée
+
+[^tit4-chap2a-1]
+
+[^tit4-chap2a-1]: Nouvelle teneur selon le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 ### Section 1 Généralités
 
@@ -988,13 +1448,29 @@ La FINMA édicte des prescriptions concernant le prêt de valeurs mobilières (*
 
 #### Art. 76
 
-**Principes généraux**
+**Constitution**[^76-1]
 
-<sup>1</sup> L’entreprise d’assurance constitue la fortune liée en y affectant des biens. Elle enregistre et distingue les biens affectés à la fortune liée de façon à pouvoir prouver en tout temps et sans retard quels biens appartiennent à la fortune liée et que le débit de la fortune liée est couvert.
+### (art. 17 et 20 LSA)
 
-<sup>2</sup> Les biens appartenant à la fortune liée sont choisis en premier lieu en fonction de leur sécurité, de la situation financière effective, de la structure du portefeuille d’assurance et de ses perspectives d’évolution.
+<sup>1</sup> L’entreprise d’assurance doit constituer la fortune liée en y affectant des biens. Elle applique ce faisant le principe de la personne prudente conformément à l’art. 69*a*.
 
-<sup>3</sup> On tendra à un rendement conforme au marché en application des principes de diversification adéquats et on veillera à ce que le besoin prévisible de liquidités soit assuré en tout temps.
+<sup>2</sup> Elle doit enregistrer et distinguer les biens affectés à la fortune liée de façon à pouvoir démontrer à tout moment et sans retard quels biens appartiennent à la fortune liée et que le débit de la fortune liée est couvert. L’utilisation des biens appartenant à la fortune liée et la possibilité de les réaliser au profit des assurés doivent être garanties.
+
+[^76-1]: Nouvelle teneur selon le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+
+#### Art. 76a
+
+**Biens garantis**[^76a-1]
+
+### (art. 17 et 20 LSA)
+
+<sup>1</sup> Les biens garantis et les sûretés constituées pour eux sont considérés comme une unité aux fins de la fortune liée. Aussi longtemps qu’un bien est affecté à une fortune liée, la sûreté doit également lui être affectée.
+
+<sup>2</sup> Les différentes fortunes liées doivent être séparées contractuellement de manière que toute compensation entre les valeurs des fortunes liées ou entre fortune liée et fortune libre reste exclue à tout moment.
+
+<sup>3</sup> La FINMA peut édicter des dispositions d’exécution.
+
+[^76a-1]: Introduit par le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 #### Art. 77
 
@@ -1036,30 +1512,34 @@ L’entreprise d’assurance dispose:
 
 #### Art. 79
 
-**Biens admis**
+**Biens admis**[^79-1]
 
-<sup>1</sup>
+### (art. 17 et 20 LSA)
 
-Les biens suivants peuvent être affectés à la fortune liée:
+<sup>1</sup> À la demande d’une entreprise d’assurance, la FINMA peut approuver une liste de biens propres à être affectés à la fortune liée.
 
-- a.[^79-1] le numéraire, notamment les avoirs en banque, les dépôts à terme et autres placements sur le marché monétaire;
-- b. les créances dont le montant est fixe, notamment les obligations et les emprunts à option, ainsi que les emprunts convertibles avec caractère d’obligations;
-- c. les produits de placement structurés, les créances titrisées et les dérivés de crédit;
-- d. d’autres reconnaissances de dette;
-- e. les actions, bons de jouissance, bons de participation, emprunts convertibles avec caractère d’actions, les parts de sociétés coopératives et les papiers-valeurs analogues, lorsqu’ils sont négociables sur un marché réglementé et à court terme;
-- f. les immeubles d’habitation et commerciaux situés en Suisse qui sont propriété de l’entreprise d’assurance, et les participations à des sociétés dont le but social vise uniquement l’acquisition et la vente, ainsi que la location et l’affermage de leurs propres immeubles (sociétés immobilières), si ces participations sont supérieures à 50 %;
-- g. les créances garanties par un gage sur un immeuble situé en Suisse;
-- h. les placements financiers alternatifs tels les *Hedge Funds* et la *Private Equity*;
-- i. les instruments financiers dérivés utilisés à des fins de garantie et n’exerçant aucun effet de levier sur la fortune liée, si les sous-jacents sont affectés à la fortune liée à une valeur d’affectation tenant compte des variations du marché;
-- j. les participations à des placements collectifs et à des fonds à investisseur unique.
+<sup>2</sup>
 
-<sup>2</sup> Dans certaines limites et à certaines conditions, les instruments financiers dérivés détenus aux fins de préparer des acquisitions, augmenter le revenu ou garantir des flux de paiement découlant des obligations techniques peuvent être affectés à la fortune liée. La FINMA définit les limites et les conditions.[^79-2]
+Si l’entreprise d’assurance ne dispose pas d’une liste approuvée par la FINMA, les biens suivants peuvent être affectés à la fortune liée:
 
-<sup>3</sup> Sur demande, la FINMA peut autoriser l’entreprise d’assurance à affecter d’autres biens à la fortune liée pour autant que cela ne compromette pas la sécurité.[^79-3]
+- a. les espèces, les dépôts à échéance d’un an au maximum et les placements sur le marché monétaire auprès de banques présentant une solvabilité suffisante;
+- b. les obligations d’emprunt de débiteurs présentant une solvabilité suffisante et compte tenu de leur rang, dès lors qu’elles sont négociables sur un marché réglementé et à court terme;
+- c. les actions, les bons de jouissance, les bons de participation ou les parts de sociétés coopératives et les papiers-valeurs analogues, dès lors qu’ils sont négociables sur un marché réglementé et à court terme;
+- d. les immeubles d’habitation et commerciaux situés en Suisse qui sont la propriété directe de l’entreprise d’assurance;
+- e. les instruments financiers dérivés, dès lors qu’ils servent à couvrir les biens appartenant à la fortune liée correspondante;
+- f.
 
-[^79-1]: Nouvelle teneur selon le ch. I de l’O du 25 mars 2015, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
-[^79-2]: Nouvelle teneur selon le ch. I de l’O du 25 mars 2015, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
-[^79-3]: Introduit par le ch. I de l’O du 25 mars 2015, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
+  les parts de placements collectifs dont les placements peuvent être détachés ou disjoints en cas de faillite, si les conditions suivantes sont remplies:
+
+  - 1\. elles peuvent être aliénées à tout moment,
+  - 2\. le placement collectif est investi directement ou indirectement uniquement dans des placements visés aux let. a à e,
+  - 3\. la direction du fonds ou sa société d’administration est soumise à une réglementation et à une surveillance appropriées en Suisse ou à l’étranger.
+
+<sup>3</sup> Les placements internes du groupe ne peuvent pas être affectés à la fortune liée. La FINMA peut autoriser des dérogations si la sécurité de la fortune liée n’est pas compromise.
+
+<sup>4</sup> La FINMA peut édicter des dispositions d’exécution relatives aux biens admis.
+
+[^79-1]: Nouvelle teneur selon le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 #### Art. 80
 
@@ -1069,63 +1549,66 @@ Les biens suivants peuvent être affectés à la fortune liée:
 
 #### Art. 81
 
-**Biens admis pour les assurances vie liées à des participations**[^81-1]
+**Biens admis pour les assurances sur la vie liées à des participations**[^81-1]
 
-<sup>1</sup> La fortune liée pour les droits des assurés découlant de contrats d’assurance dans les branches A2.1, A2.2, A2.3 et A6.1 doit être constituée des parts sous-jacentes aux contrats d’assurance.
+### (art. 17 et 20 LSA)
 
-<sup>2</sup>
+Pour les fortunes liées séparées dans l’assurance sur la vie liée à des participations relevant des branches d’assurance A2.1, A2.2, A2.3, A2.4, A2.5, A2.6, A6.1 et A6.2, les biens à constituer pour la couverture sont réputés appropriés dans la mesure requise dès lors qu’une couverture congruente est prévue conformément à l’art. 69*a*, al. 2, let. a et b.
 
-La fortune liée pour les droits des assurés découlant de contrats d’assurance dans les branches A2.4, A2.5, A2.6 et A6.2 peut être constituée de valeurs mentionnées à l’art. 79 aux conditions suivantes:
-
-- a. si les prestations sont directement liées à la valeur d’un fonds cantonné, la fortune liée doit être couverte par les participations à ce fonds ou, si de telles participations ne sont pas créées, par les valeurs constituant ce fonds;
-- b. si les prestations sont liées à un indice ou à une autre valeur de référence, la fortune liée doit être couverte par des valeurs qui correspondent à celles sur lesquelles est fondée la valeur de référence.
-
-[^81-1]: Nouvelle teneur selon le ch. I de l’O du 25 mars 2015, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
+[^81-1]: Nouvelle teneur selon le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 #### Art. 82
 
-**Placements collectifs et fonds à investisseur unique**
+[^82-1]
 
-<sup>1</sup>
-
-L’entreprise d’assurance peut prendre en compte pour la fortune liée des participations à des placements collectifs dans la mesure où:
-
-- a. ceux-ci sont soumis à une surveillance effective visant la protection des investisseurs, et
-- b. les participations sont négociées sur un marché réglementé et liquide ou sont en tout temps négociables.
-
-<sup>2</sup>
-
-Elle peut prendre en compte pour la fortune liée des participations à des fonds à investisseur unique dans la mesure où ceux-ci:
-
-- a. sont soumis à une surveillance effective;
-- b. sont détenus à 100 % par l’entreprise d’assurance;
-- c. garantissent en tout temps la mainmise sur les placements individuels du fonds;
-- d. effectuent des placements selon l’art. 79, et
-- e. remplissent les conditions de l’art. 87.
-
-<sup>3</sup> L’organisation des placements collectifs et des fonds à investisseur unique est réglée, en ce qui concerne les directives de placement et le règlement des compétences, ainsi que la détermination, l’achat et la reprise des parts, de manière que les intérêts des entreprises d’assurance participantes soient préservés.
-
-<sup>4</sup> Les participations à des sociétés d’investissement qui ne sont pas cotées en bourse peuvent être prises en compte pour la fortune liée si elles remplissent les conditions des al. 1 ou 2.
+[^82-1]: Abrogé par le ch. I de l’O du 2 juin 2023, avec effet au 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 #### Art. 83
 
-**Limites**
+**Limites**[^83-1]
 
-La FINMA peut fixer des limites pour certaines catégories de placements.
+### (art. 17 et 20 LSA)
 
-### Section 3 Admission et contrôle
+<sup>1</sup> La FINMA définit des limites pour les placements qui sont affectés à la fortune liée par les entreprises d’assurance conformément à l’art. 79, al. 2.
+
+<sup>2</sup> Les entreprises d’assurance qui soumettent à la FINMA pour approbation une liste de biens propres à être affectés à la fortune liée au sens de l’art. 79, al. 1, doivent définir pour chaque catégorie de placements des limites quantitatives applicables en matière de placement de capitaux. Les limites doivent garantir le respect des exigences énoncées à l’art. 69*a*, al. 1, let. c et e à g. L’entreprise d’assurance doit documenter cela de manière transparente.
+
+<sup>3</sup>
+
+Les valeurs d’affectation des biens affectés sont soumises pour chaque fortune liée aux limites suivantes, indépendamment du fait que l’entreprise d’assurance dispose d’une liste approuvée au sens de l’art. 79, al. 1, ou qu’elle affecte ses placements conformément aux dispositions de l’art. 79, al. 2:
+
+- a. la valeur d’affectation de tous les biens qui sont exposés à un risque inhérent à une contrepartie déterminée se limite au total à 5 % du débit; cette limite doit être déterminée en tenant aussi compte des placements indirects; les sociétés d’un groupe comptent comme une contrepartie; la FINMA peut prévoir des dérogations;
+- b. ne sont pas soumis à la limite prévue à la let. a en tant que contreparties la Confédération, les cantons, les banques cantonales bénéficiant d’une garantie totale de l’État, les établissements suisses d’émission de lettres de gage, ainsi que les États présentant une solvabilité maximale; les contreparties dont les engagements sont intégralement garantis par un État présentant une solvabilité maximale sont également exceptées;
+- c. la valeur d’affectation des placements dans un placement collectif unique se limite à 5 % du débit; sont exceptés les fonds à investisseur unique ainsi que les placements collectifs pour lesquels il est garanti contractuellement qu’ils ne sont pas investis dans des placements à haut risque, et que les principes de base concernant la fortune liée sont respectés;
+- d. la valeur d’affectation de tous les placements directs ou indirects dans l’immobilier et dans les hypothèques se limite dans tous les cas à 25 % du débit; pour l’immobilier et les hypothèques pris ensemble, la limite applicable est de 35 % du débit.
+
+<sup>4</sup> Les fortunes liées séparées dans les branches d’assurance A2.1, A2.2, A2.3, A2.4, A2.5, A2.6, A6.1 et A6.2 ne sont pas soumises aux limites fixées à l’al. 3 dès lors qu’elles présentent une couverture congruente conformément à l’art. 69*a*, al. 2.
+
+[^83-1]: Nouvelle teneur selon le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+
+### Section 3 Affectation et contrôle
+
+[^tit4-chap2a-sec3-1]
+
+[^tit4-chap2a-sec3-1]: Nouvelle teneur selon le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 #### Art. 84
 
-**Admission des biens**
+**Caractère approprié des biens**
 
-<sup>1</sup> La FINMA décide si les biens peuvent être affectés à la fortune liée. Elle fixe un délai à l’échéance duquel les biens non admis à la fortune liée doivent être remplacés.
+### (art. 17 et 20 LSA)
+
+[^84-1]
+
+<sup>1</sup> Si un bien n’est pas propre à être affecté à la fortune liée, la FINMA ordonne son remplacement. Elle fixe un délai raisonnable pour ce faire.[^84-2]
 
 <sup>2</sup> Les biens affectés à la fortune liée doivent être libres de tout engagement. Les engagements de l’entreprise d’assurance ne peuvent être compensés par des créances appartenant à la fortune liée. L’art. 91, al. 3 (instruments financiers dérivés), est réservé.
 
-<sup>2bis</sup> La FINMA peut autoriser des dérogations pour autant que cela ne compromette pas la sécurité de la fortune liée.[^84-1]
+<sup>2bis</sup> La FINMA peut autoriser des dérogations pour autant que cela ne compromette pas la sécurité de la fortune liée.[^84-3]
 
-[^84-1]: Introduit par le ch. I de l’O du 25 mars 2015, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
+[^84-1]: Nouvelle teneur selon le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^84-2]: Nouvelle teneur selon le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^84-3]: Introduit par le ch. I de l’O du 25 mars 2015, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
 
 #### Art. 85
 
@@ -1165,18 +1648,29 @@ La FINMA vérifie au moins une fois par an:
 
 #### Art. 87
 
-**Communication et responsabilité**
+**Communication et responsabilité du dépositaire**
+
+### (art. 17 et 20 LSA)
+
+[^87-1]
 
 <sup>1</sup> L’entreprise d’assurance communique à la FINMA le lieu de dépôt, le dépositaire et le mode de dépôt, ainsi que tout changement concernant ces indications.
 
-<sup>2</sup> La conservation par des tiers n’est autorisée que si le dépositaire répond en Suisse envers l’entreprise d’assurance de l’exécution des obligations de garde.
+<sup>2</sup>
 
-<sup>3</sup> La conservation par des tiers à l’étranger est autorisée si la primauté de la fortune liée au sens du droit suisse reste garantie.[^87-1]
+La conservation par des tiers en la personne d’un dépositaire approprié est autorisée. Sont notamment applicables à cet égard les principes énoncés à l’art. 69*a* et les conditions suivantes:
 
-<sup>4</sup> La FINMA peut autoriser d’autres dérogations s’il existe des sûretés appropriées.[^87-2]
+- a. il convient de veiller à ce que le dépositaire réponde envers l’entreprise d’assurance de l’exécution des obligations de garde; la responsabilité doit être adaptée et tenir compte du but de la fortune liée;
+- b. en cas de conservation par des tiers à l’étranger, la primauté de la fortune liée au sens du droit suisse doit en outre rester garantie.[^87-2]
 
-[^87-1]: Introduit par le ch. I de l’O du 25 mars 2015, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
-[^87-2]: Introduit par le ch. I de l’O du 25 mars 2015, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
+<sup>3</sup> …[^87-3]
+
+<sup>4</sup> La FINMA peut autoriser d’autres dérogations s’il existe des sûretés appropriées.[^87-4]
+
+[^87-1]: Nouvelle teneur selon le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^87-2]: Nouvelle teneur selon le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^87-3]: Introduit par le ch. I de l’O du 25 mars 2015 ([RO 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)). Abrogé par le ch. I de l’O du 2 juin 2023, avec effet au 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^87-4]: Introduit par le ch. I de l’O du 25 mars 2015, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
 
 ### Section 4 Évaluation des biens
 
@@ -1210,54 +1704,95 @@ L’évaluation des placements tient compte également des intérêts courus.
 
 #### Art. 90
 
-**Immeubles d’habitation et commerciaux et sociétés immobilières**
+**Immeubles d’habitation et commerciaux**
+
+### (art. 17 et 20 LSA)
+
+[^90-1]
 
 <sup>1</sup> L’entreprise d’assurance affecte les immeubles d’habitation et commerciaux qui sont sa propriété jusqu’à concurrence de leur valeur du marché. La FINMA arrête la procédure d’estimation de la valeur du marché.
 
-<sup>2</sup> Pour les sociétés immobilières dont plus de 50 % sont détenus par l’entreprise d’assurance, la FINMA fixe la valeur d’affectation. Elle se fonde pour cela sur la valeur estimative des immeubles présents en tenant compte d’éventuels engagements.
+<sup>2</sup> …[^90-2]
+
+[^90-1]: Nouvelle teneur selon le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^90-2]: Abrogé par le ch. I de l’O du 2 juin 2023, avec effet au 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 #### Art. 91
 
 **Instruments financiers dérivés**
 
-<sup>1</sup> Les instruments financiers dérivés visés à l’art. 79, al. 1, let. i, peuvent être affectés au maximum à la valeur du marché. S’ils ne sont pas cotés en bourse, ils sont affectés à une valeur obtenue selon une méthode d’évaluation usuelle sur le marché.
+### (art. 17 et 20 LSA)
 
-<sup>2</sup> Pour les instruments financiers dérivés visés l’art. 79, al. 2, la FINMA détermine la valeur d’affectation.
+[^91-1]
+
+<sup>1</sup> Les instruments financiers dérivés peuvent être affectés au maximum à la valeur du marché. S’ils ne sont pas cotés en bourse, ils sont affectés à une valeur obtenue selon une méthode d’évaluation usuelle sur le marché.[^91-2]
+
+<sup>2</sup> …[^91-3]
 
 <sup>3</sup> La compensation (netting) de toutes les opérations dérivées conclues dans un contrat cadre n’est autorisée que si un tel contrat cadre est conclu séparément pour chaque fortune liée. Les postes négatifs qui découleraient de tels accords de compensation sont déduits de la fortune liée. L’autorité peut édicter des règles concernant le contenu des contrats cadres.
 
+[^91-1]: Nouvelle teneur selon le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^91-2]: Nouvelle teneur selon le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^91-3]: Abrogé par le ch. I de l’O du 2 juin 2023, avec effet au 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+
 #### Art. 91a
 
-**Constitution de sûretés**[^91a-1]
+**Valeur d’affectation des biens garantis**[^91a-1]
 
-<sup>1</sup> Lors de la conclusion d’opérations sur dérivés, la constitution de sûretés par prélèvement sur la fortune liée est autorisée. Cette disposition est valable tant pour le dépôt de marge initial que pour les dépôts supplémentaires.
+### (art. 17 et 20 LSA)
 
-<sup>2</sup>
+Pour les biens qui sont généralement garantis, il est tenu compte en tant que valeur d’affectation, pour l’unité composée du bien et de la sûreté obtenue, d’une valeur qui ne dépasse pas la valeur d’affectation de la sûreté obtenue, dans la mesure où celle-ci existe effectivement dans la fortune liée correspondante et qu’elle reste à l’entreprise d’assurance en cas de *close-out netting*. Par ailleurs, les autres limites de l’évaluation, notamment celles prévues à l’art. 93, doivent être respectées.
 
-La constitution de sûretés peut prendre la forme d’un droit de gage régulier ou d’un droit de gage irrégulier selon le droit suisse ou selon un droit comparable au droit suisse, pour autant:
+[^91a-1]: Introduit par le ch. I de l’O du 25 mars 2015 ([RO 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)). Nouvelle teneur selon le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
-- a. que le dépôt de marge initial ait lieu auprès d’un tiers indépendant sous ségrégation complète, et
-- b. que le contrat garantisse qu’en cas de faillite, le dépôt de marge initial ne peut servir à chacune des parties contractantes qu’à compenser par des créances ouvertes vis-à-vis de l’assureur des opérations sur dérivés effectuées par lui par l’intermédiaire de la contrepartie centrale ou du *clearing broker*.
+#### Art. 91b
 
-<sup>3</sup> La FINMA règle les détails concernant l’affectation et la prise en compte de ces biens. Elle peut limiter la constitution de sûretés ou autoriser des dérogations pour de justes motifs.
+**Constitution de sûretés pour les instruments financiers dérivés**[^91b-1]
 
-[^91a-1]: Introduit par le ch. I de l’O du 25 mars 2015, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
+### (art. 17 et 20 LSA)
+
+<sup>1</sup> Si l’entreprise d’assurance effectue le dépôt supplémentaire par prélèvement sur la fortune liée, les biens concernés ne peuvent plus être pris en compte.
+
+<sup>2</sup> Si l’entreprise d’assurance effectue le dépôt de marge initial par prélèvement sur la fortune liée et si une affectation doit intervenir au sens de l’al. 3, le bien constitué, mais également les créances telles que les créances en restitution, en rétrocession et en rétrocession de propriété doivent être affectées à la fortune liée.
+
+<sup>3</sup> L’entreprise d’assurance détermine, en tenant compte notamment du risque inhérent à la sûreté, la valeur d’affectation appropriée au sens d’une valeur estimative la meilleure possible des créances visées à l’al. 2. La valeur d’affectation ne doit pas dépasser 75 % de la valeur de marché actuelle de la part du dépôt de marge initial dévolue aux dérivés.
+
+[^91b-1]: Introduit par le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 #### Art. 92
 
-**Placements collectifs**
+**Placements collectifs**[^92-1]
 
-<sup>1</sup> Les placements collectifs selon l’art. 82, al. 1, peuvent être pris en compte à la valeur du marché ou, si les participations ne sont pas cotées en bourse, à la valeur nette d’inventaire.
+### (art. 17 et 20 LSA)
 
-<sup>2</sup> Les titres contenus dans les fonds à investisseur unique selon l’art. 82, al. 2, figurent individuellement dans la fortune liée et sont évalués comme les placements directs selon la présente section.
+<sup>1</sup> Les placements collectifs peuvent être pris en compte à la valeur du marché ou, si les participations ne sont pas cotées en bourse, à la valeur nette d’inventaire.
+
+<sup>2</sup> Les titres contenus dans les fonds à investisseur unique figurent individuellement dans la fortune liée et sont évalués comme les placements directs selon la présente section.
+
+[^92-1]: Nouvelle teneur selon le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 #### Art. 93
 
-**Autres biens**
+**Autres biens**[^93-1]
 
-<sup>1</sup> Les placements effectués selon l’art. 79, al. 1, let. c, e et h, ainsi que les créances comptables et les papiers-valeurs à taux d’intérêt variable et sans échéance fixe peuvent être affectés au maximum à des valeurs du marché. S’ils ne sont pas cotés en bourse, ils sont affectés à une valeur obtenue selon une méthode d’évaluation usuelle sur le marché.
+### (art. 17 et 20 LSA)
 
-<sup>2</sup> Les autres biens, y compris les créances garanties par un gage immobilier et les dépôts à terme, sont évalués compte tenu de leur sûreté et de leur rendement, à une somme qui ne peut toutefois dépasser leur valeur nominale.
+<sup>1</sup> Les biens pour lesquels la présente section ne prévoit aucune autre réglementation ne doivent pas être affectés à la fortune liée à une valeur supérieure à la valeur de marché. La base des valeurs de marché utilisées doit être documentée.
+
+<sup>2</sup>
+
+Les engagements éventuels doivent être déduits dans la mesure:
+
+- a. où ils réduisent la fortune qui sert à couvrir les engagements actuariels, et
+- b. où ils présentent un rapport économique avec le bien concerné.
+
+<sup>3</sup> Si des placements ne sont pas négociés sur un marché réglementé, la méthode de détermination des valeurs de marché doit être documentée, et l’incertitude grevant leur évaluation doit être prise en compte.
+
+<sup>4</sup> Si un placement évalué conformément à l’art. 88 est couvert par des dérivés, la valeur d’affectation combinée des dérivés y afférents et du placement couvert ne doit pas dépasser la valeur indiquée à l’art. 88.
+
+<sup>5</sup> Dans tous les cas, le produit de la réalisation escompté sur la base des valeurs de marché constitue la limite supérieure pour l’évaluation de la fortune liée.
+
+[^93-1]: Nouvelle teneur selon le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 #### Art. 93a
 
@@ -1275,13 +1810,21 @@ L’entreprise d’assurance ne peut convertir en francs suisses les valeurs lib
 
 #### Art. 95
 
-**Décision d’évaluation**
+**Décision d*’*évaluation**
 
-<sup>1</sup> La FINMA décide en ce qui concerne l’évaluation des valeurs affectées à la fortune liée.
+### (art. 17 et 20 LSA)
 
-<sup>2</sup> Elle peut fixer des valeurs d’affectation inférieures pour certaines valeurs et catégories de placements si cela paraît judicieux pour protéger les assurés.
+[^95-1]
+
+<sup>1</sup> …[^95-2]
+
+<sup>2</sup> La FINMA peut fixer des valeurs d’affectation inférieures pour certaines valeurs et catégories de placements si cela paraît judicieux pour protéger les assurés.[^95-3]
 
 <sup>3</sup> Elle peut en tout temps ordonner une évaluation des biens appartenant à la fortune liée.
+
+[^95-1]: Nouvelle teneur selon le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^95-2]: Abrogé par le ch. I de l’O du 2 juin 2023, avec effet au 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^95-3]: Nouvelle teneur selon le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 ## Titre 5 Autres dispositions pour l’exercice de la surveillance
 
@@ -1291,99 +1834,184 @@ L’entreprise d’assurance ne peut convertir en francs suisses les valeurs lib
 
 **But et contenu**
 
+### (art. 22 LSA)
+
+[^96-1]
+
 <sup>1</sup>
 
-Par une gestion des risques appropriée à son activité et des mécanismes internes de contrôle, l’entreprise d’assurance s’assure que:
+Par une gestion des risques appropriée à son activité et par des mécanismes internes de contrôle, l’entreprise d’assurance doit s’assurer:
 
-- a. les risques potentiels sont reconnus et évalués à temps, et
-- b. les mesures nécessaires pour empêcher ou couvrir des risques importants et des cumuls de risques sont prises à temps.
+- a. que les risques potentiels sont reconnus et évalués à temps;
+- b. que les mesures nécessaires pour empêcher ou couvrir des risques importants et des cumuls de risques sont prises à temps, et
+- c. que l’activité de l’entreprise se déroule dans les limites de la capacité à assumer les risques.[^96-2]
 
 <sup>2</sup>
 
 La gestion des risques comporte notamment:
 
 - a. la détermination et l’examen régulier, par les organes de l’entreprise d’assurance, des stratégies et des mesures concernant tous les risques encourus;
-- b. une politique de couverture tenant compte des effets de la stratégie d’entreprise et comprenant une dotation en capital adéquate;
+- b.[^96-3] une politique en matière de risque tenant compte de la stratégie d’entreprise et comprenant une dotation en capital adéquate;
 - c. des procédures adéquates garantissant que la surveillance des risques est intégrée dans l’organisation d’entreprise;
-- d.[^96-1] l’identification, la surveillance, la quantification et le pilotage de tous les risques importants;
-- e. un système de rapports internes pour déterminer, évaluer et contrôler les risques et les concentrations de risques, ainsi que les processus qui leur sont liés.
+- d.[^96-4] l’identification, l’évaluation, le pilotage et la surveillance de tous les risques importants et de toutes les concentrations importantes de risques, avec exercice d’une communication interne et externe appropriée;
+- e.[^96-5] …
 
-<sup>3</sup> Les mécanismes de contrôle internes comprennent une fonction et des processus de compliance efficaces. Ils garantissent dans leur globalité le respect des règles de droit et des directives internes.[^96-2]
+<sup>3</sup> Les mécanismes de contrôle internes comprennent une fonction et des processus de compliance efficaces. Ils garantissent dans leur globalité le respect des règles de droit et des directives internes.[^96-6]
 
-<sup>4</sup> Les fonctions de gestion des risques et de compliance doivent être indépendantes. Elles doivent être en adéquation avec la taille de l’entreprise d’assurance, la complexité de ses affaires et de son organisation et les risques qu’elle encourt.[^96-3]
+<sup>4</sup> Les fonctions de gestion des risques et de compliance doivent être indépendantes. Elles doivent être en adéquation avec la taille de l’entreprise d’assurance, la complexité de ses affaires et de son organisation et les risques qu’elle encourt. La fonction de gestion des risques doit aider l’entreprise d’assurance à encourager une culture du risque au sein de l’ensemble de l’entreprise.[^96-7]
 
-[^96-1]: Nouvelle teneur selon le ch. I de l’O du 25 mars 2015, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
-[^96-2]: Introduit par le ch. I de l’O du 25 mars 2015, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
-[^96-3]: Introduit par le ch. I de l’O du 25 mars 2015, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
+[^96-1]: Nouvelle teneur selon le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^96-2]: Nouvelle teneur selon le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^96-3]: Nouvelle teneur selon le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^96-4]: Nouvelle teneur selon le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^96-5]: Abrogée par le ch. I de l’O du 2 juin 2023, avec effet au 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^96-6]: Introduit par le ch. I de l’O du 25 mars 2015, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
+[^96-7]: Introduit par le ch. I de l’O du 25 mars 2015 ([RO 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)). Nouvelle teneur selon le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 #### Art. 96a
 
 **Évaluation interne des risques et des besoins en capital**[^96a-1]
 
+### (art. 22 LSA)
+
 <sup>1</sup>
 
-L’entreprise d’assurance procède au moins une fois par an à une évaluation prospective:
+L’entreprise d’assurance doit procéder au moins une fois par an à une évaluation interne prospective sur l’ensemble de la période de planification incluant la situation actuelle de l’exercice en cours et au moins deux autres années, concernant:
 
-- a. des risques auxquels elle est exposée, y compris des concentrations de risques significatives et des risques menaçant le groupe dans son ensemble (profil de risque global);
-- b. de la totalité des besoins en capital;
-- c. du respect des exigences en matière de provisions techniques et de fortune liée;
-- d. du bien-fondé et de l’efficacité de la gestion des risques.
+- a. les risques auxquels elle est exposée pendant la période de planification, y compris les concentrations de risques significatives et les risques menaçant le groupe dans son ensemble (profil de risque global);
+- b. la totalité des besoins en capital;
+- c. le respect des exigences en matière de provisions techniques et de fortune liée;
+- d. le bien-fondé et l’efficacité de la gestion des risques.
 
-<sup>2</sup> Cette évaluation interne des risques et des besoins en capital doit être prise en compte dans la stratégie de l’entreprise et dans le plan d’exploitation.
+<sup>2</sup> Les sociétés liées économiquement doivent être prises en compte dans l’évaluation interne. Les groupes d’assurance prennent en compte toutes les unités et tous les domaines essentiels, réglementés et non réglementés, en Suisse comme à l’étranger. Ils prennent également en compte les principaux domaines hors bilan et non consolidés.
 
-<sup>3</sup> L’entreprise d’assurance rend compte à la FINMA des résultats de cette évaluation une fois par an.
+<sup>3</sup> L’évaluation interne doit être réalisée sur la période de planification à l’aide de différents scénarios, dont au moins un doit mettre en péril la survie de l’entreprise, doit être documentée et doit être prise en compte aussi bien dans la stratégie de l’entreprise que dans le plan d’exploitation.
 
-<sup>4</sup> La FINMA peut imposer un compte rendu à intervalles plus rapprochés si les risques encourus l’exigent. Elle peut, dans les cas justifiés, autoriser des dérogations à l’obligation de rendre compte.
+<sup>4</sup> L’entreprise doit fixer les principes de l’évaluation interne dans des instructions internes et veiller à une documentation appropriée.
 
-[^96a-1]: Introduit par le ch. I de l’O du 25 mars 2015, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
+<sup>5</sup> Elle doit soumettre une fois par an à la FINMA un rapport approuvé par le conseil d’administration portant sur les résultats de l’évaluation interne.
+
+<sup>6</sup> La FINMA peut imposer un compte rendu à intervalles plus rapprochés si les risques encourus l’exigent. Si les circonstances le justifient, elle peut autoriser des dérogations à l’obligation de rendre compte.
+
+[^96a-1]: Introduit par le ch. I de l’O du 25 mars 2015 ([RO 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)). Nouvelle teneur selon le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 #### Art. 97
 
 **Documentation**
 
+### (art. 22 LSA)
+
+[^97-1]
+
 <sup>1</sup> L’entreprise d’assurance décrit sa gestion des risques dans une documentation. Celle-ci est actualisée en permanence.
 
 <sup>2</sup>
 
-Cette documentation couvre notamment les points suivants:
+Cette documentation doit couvrir notamment les points suivants:[^97-2]
 
-- a. la description de l’organisation de la gestion des risques au niveau de l’entreprise dans son ensemble, ainsi que des compétences et responsabilités correspondantes;
+- a.[^97-3] la description de l’organisation de la gestion des risques au niveau de l’entreprise dans son ensemble, ainsi que des tâches, compétences et responsabilités correspondantes;
 - b. les exigences en matière de gestion des risques;
-- c. la politique en matière de risque, y compris la tolérance au risque;
+- c.[^97-4] la politique en matière de risque, y compris la capacité à assumer les risques et la propension au risque;
 - d. la procédure d’identification des risques importants, ainsi que les méthodes, instruments et processus permettant de les mesurer, les surveiller et les maîtriser;
 - e. la présentation des systèmes de limites en vigueur pour les expositions au risque, ainsi que des mécanismes de contrôle;
 - f. les directives internes de l’entreprise en matière de gestion des risques et des processus qui lui sont liés.
 
+[^97-1]: Nouvelle teneur selon le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^97-2]: Nouvelle teneur selon le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^97-3]: Nouvelle teneur selon le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^97-4]: Nouvelle teneur selon le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+
 #### Art. 98
 
-**Risques opérationnels**
+**Risques opérationnels**[^98-1]
 
-<sup>1</sup> L’entreprise d’assurance saisit et évalue ses risques opérationnels sous sa propre responsabilité.
+### (art. 22 LSA)
 
-<sup>2</sup> La FINMA discute périodiquement les résultats de cette évaluation avec l’entreprise d’assurance.
+<sup>1</sup> L’entreprise d’assurance doit identifier, évaluer, surveiller et documenter ses risques opérationnels. Elle doit évaluer ceux-ci au moins une fois par an.
 
-<sup>3</sup> Elle peut remettre des questionnaires facilitant l’auto-évaluation. Une fois remplis et signés par la direction, ces documents lui sont retournés dans les trois mois suivant le bouclement annuel.
+<sup>2</sup> Elle doit rassembler et analyser les données relatives aux dommages survenus suite à la réalisation des risques opérationnels.
 
-<sup>4</sup> Si l’évaluation montre que certains risques pourraient conduire à une solvabilité insuffisante, la FINMA peut notamment intensifier ses contrôles auprès de l’entreprise d’assurance.[^98-1]
+<sup>3</sup> Elle doit analyser les scénarios défavorables et procéder aux tests correspondants pour déterminer l’exposition au risque.
 
-<sup>5</sup> L’entreprise d’assurance rassemble et analyse les données relatives aux dommages survenus suite à la réalisation des risques opérationnels.
+<sup>4</sup> Elle doit prendre des mesures destinées à protéger les personnes, les processus et les infrastructures. De plus, elle doit disposer d’un plan visant à assurer la continuité des activités en situation d’urgence contenant les stratégies, les mesures, les responsabilités et les canaux de communication nécessaires.
 
-[^98-1]: Nouvelle teneur selon le ch. I de l’O du 25 mars 2015, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
+[^98-1]: Nouvelle teneur selon le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 #### Art. 98a
 
 **Exigences en matière de liquidités**[^98a-1]
 
-<sup>1</sup> L’entreprise d’assurance doit disposer à tout moment de liquidités suffisantes pour être capable d’assumer ses engagements financiers, y compris en situation de crise (exigences quantitatives en matière de liquidités).
+### (art. 22 LSA)
+
+<sup>1</sup> L’entreprise d’assurance doit disposer à tout moment de liquidités suffisantes pour être capable d’assumer ses engagements financiers, même en situation de crise (exigences quantitatives en matière de liquidités).
 
 <sup>2</sup>
 
-Elle doit répondre en outre aux exigences qualitatives suivantes en matière de liquidités:
+Elle doit procéder à une planification des liquidités au moins dans le cadre de la planification annuelle du capital, en prenant en compte notamment:
 
-- a. elle dispose de scénarios défavorables à partir desquels elle procède à des tests de résistance pour déterminer ses liquidités. Elle doit en particulier tenir compte des flux de liquidités provenant de transactions hors bilan et d’autres engagements conditionnels;
-- b. elle dispose d’un plan d’urgence qui contient des stratégies efficaces de gestion des problèmes de liquidités. Elle fixe les responsabilités, les canaux de communication et les mesures envisagées.
+- a. les sorties de liquidités provenant de transactions hors bilan et d’autres engagements conditionnels;
+- b. les scénarios défavorables et les tests de résistance destinés à déterminer ses liquidités.
 
-[^98a-1]: Introduit par le ch. I de l’O du 25 mars 2015, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
+<sup>3</sup> Elle doit disposer d’un plan d’urgence contenant des stratégies efficaces de gestion des problèmes de liquidités. Elle doit fixer les responsabilités, les canaux de communication et les mesures envisagées.
+
+<sup>4</sup> Elle doit présenter une fois par an à la FINMA un rapport sur la planification des liquidités. La FINMA fixe les exigences relatives à ce rapport en fonction de la taille et de la complexité de l’entreprise d’assurance. Dans le cas particulier, elle peut libérer une entreprise d’assurance de l’obligation d’établir un rapport.
+
+[^98a-1]: Introduit par le ch. I de l’O du 25 mars 2015 ([RO 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)). Nouvelle teneur selon le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+
+### Chapitre 1*a* Plans de stabilisation
+
+[^tit5-chap1a-1]
+
+[^tit5-chap1a-1]: Introduit par le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+
+#### Art. 98b
+
+**Importance économique**
+
+### (art. 22*a* LSA)
+
+Une entreprise d’assurance est réputée importante économiquement lorsque le total de son bilan dépasse 5 milliards de francs ou que sa complexité, son interdépendance ou son profil de risque le justifient.
+
+#### Art. 98c
+
+**Critères justifiant l’établissement d’un plan de stabilisation**
+
+### (art. 22*a* LSA)
+
+La FINMA peut exiger d’une entreprise d’assurance importante économiquement qu’elle établisse un plan de stabilisation lorsque l’un des critères suivants est rempli:
+
+- a. l’entreprise d’assurance est active dans un domaine où les assurés se trouveraient fortement impactés en cas d’insolvabilité;
+- b. l’entreprise d’assurance propose des solutions d’assurance difficilement remplaçables;
+- c. l’insolvabilité de l’entreprise d’assurance serait de nature à porter atteinte au système financier ou à l’économie réelle.
+
+#### Art. 98d
+
+**Contenu, établissement et approbation**
+
+### (art. 22*a* LSA)
+
+<sup>1</sup>
+
+Le plan de stabilisation couvre notamment:
+
+- a. les scénarios possibles qui sont susceptibles, s’ils se produisent, de déstabiliser l’entreprise d’assurance;
+- b. les mesures à prendre en cas de crise et les ressources requises pour les mettre en œuvre;
+- c. les critères concrets permettant l’identification précoce des crises et la mise en place de mesures;
+- d. l’organisation de crise et le plan de communication de l’entreprise d’assurance.
+
+<sup>2</sup> Le plan de stabilisation doit être établi par l’entreprise d’assurance et être approuvé par l’organe chargé de sa haute direction, de sa surveillance et de son contrôle.
+
+<sup>3</sup> Le plan de stabilisation doit être soumis chaque année à la FINMA pour approbation.
+
+#### Art. 98e
+
+**Rapport**
+
+### (art. 22*a* LSA)
+
+<sup>1</sup> La FINMA présente une fois par an l’état des plans de stabilisation.
+
+<sup>2</sup> Elle commence à établir les rapports individuels au plus tôt deux ans à compter de la naissance de l’obligation d’établir un plan de stabilisation.
 
 ### Chapitre 2 Actuaire responsable
 
@@ -1399,77 +2027,48 @@ Elle doit répondre en outre aux exigences qualitatives suivantes en matière de
 
 #### Art. 100
 
-**Principe**
+**Principe**[^100-1]
 
-<sup>1</sup> Les entreprises d’assurance ne peuvent utiliser des instruments financiers dérivés que pour réduire les risques d’investissement ou les risques liés à leurs obligations à l’égard des assurés, ou encore pour gérer efficacement leurs placements de capitaux.
+### (art. 9*b* LSA)
 
-<sup>2</sup> Tous les engagements découlant de transactions portant sur des instruments financiers dérivés doivent être couverts.
+<sup>1</sup>
 
-#### Art. 101
+Les entreprises d’assurance qui utilisent des dérivés doivent disposer de liquidités suffisantes pour être capables de s’acquitter à tout moment des engagements de paiement et de livraison susceptibles de découler de transactions financières portant sur des dérivés. Le cas échéant, elles peuvent prendre en compte:
 
-**Stratégie d’investissement**
+- a. la possibilité d’effectuer un paiement au lieu d’une livraison;
+- b. le fait que des sûretés ont déjà été constituées, ou
+- c. la possibilité de dénouer à tout moment des positions sur dérivés sur le marché.
 
-Les entreprises d’assurance soumises à la surveillance qui utilisent des instruments financiers dérivés sont tenues de mettre en place une stratégie d’investissement pour ces instruments. La direction de l’entreprise d’assurance élabore la stratégie d’investissement, la soumet pour approbation au conseil d’administration et en supervise la mise en oeuvre.
+<sup>2</sup> Elles sont tenues de prendre des mesures appropriées pour empêcher que la sécurité d’une fortune liée ne puisse être compromise par l’utilisation de dérivés. L’utilisation de dérivés ne doit pas produire d’effet de levier sur la fortune liée ni d’engagement non couvert.
 
-#### Art. 102
+<sup>3</sup> La FINMA édicte les dispositions d’exécution relatives à l’utilisation des dérivés.
 
-**Contenu de la stratégie d’investissement**
+[^100-1]: Nouvelle teneur selon le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
-<sup>1</sup> La stratégie d’investissement fixe les conditions cadres auxquelles les instruments financiers dérivés peuvent être utilisés, en particulier les limites d’engagement et les règles d’analyse des risques.
+#### Art. 101 à 108
 
-<sup>2</sup> Elle obéit en outre aux principes usuels régissant les placements de capitaux, notamment en matière de sécurité, de liquidité, de rendement, de répartition et de diversification.
+[^101108-1]
 
-#### Art. 103
-
-**Limites d’engagement**
-
-Les limites d’engagement sont fixées en fonction des capacités financières de l’entreprise d’assurance et de son organisation.
-
-#### Art. 104
-
-**Analyse des risques**
-
-<sup>1</sup> Les risques inhérents à la contrepartie sont pris en compte avant l’utilisation d’instruments financiers dérivés.
-
-<sup>2</sup> Les risques sont analysés aussi souvent que la situation l’exige, mais au moins une fois par semaine pour les risques de marché et une fois par mois pour les risques de crédit.
-
-<sup>3</sup> L’analyse des risques de marché et de crédit consiste entre autres à évaluer les positions ouvertes et à les comparer avec les limites d’engagement fixées.
-
-<sup>4</sup> Le résultat de l’analyse des risques est remis à la direction aussi souvent que la situation l’exige, mais au moins une fois par mois pour les risques de marché et au moins tous les trois mois pour les risques de crédit.
-
-#### Art. 105
-
-**Organisation**
-
-Les entreprises d’assurance qui utilisent des instruments financiers dérivés sont tenues de s’organiser de façon appropriée; elles respectent notamment les art. 106 à 108.
-
-#### Art. 106
-
-**Gestion et contrôle**
-
-<sup>1</sup> L’entreprise d’assurance donne des directives précises aux personnes chargées de la gestion, notamment en ce qui concerne l’analyse des risques.
-
-<sup>2</sup> Elle met en place un système de contrôle adapté au volume et à la complexité des affaires opérées en instruments financiers dérivés.
-
-<sup>3</sup> La gestion des instruments financiers dérivés et le contrôle sont assumés par des personnes indépendantes l’une de l’autre.
-
-#### Art. 107
-
-**Qualification du personnel**
-
-Les personnes chargées de la gestion et du contrôle doivent avoir les connaissances et les qualifications nécessaires à leur fonction.
-
-#### Art. 108
-
-**Rapport d’activité**
-
-Un rapport d’activité sur l’utilisation des instruments financiers dérivés est présenté au conseil d’administration au moins tous les six mois.
+[^101108-1]: Abrogés par le ch. I de l’O du 2 juin 2023, avec effet au 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 #### Art. 109
 
-**Surveillance**
+**Surveillance**[^109-1]
 
-L’entreprise d’assurance adresse une fois par an à la FINMA un rapport sur les opérations en instruments financiers dérivés.
+### (art. 25 LSA)
+
+<sup>1</sup>
+
+L’entreprise d’assurance doit adresser au moins une fois par an à la FINMA un rapport sur les opérations en instruments financiers dérivés. Ce rapport décrit:
+
+- a. de façon sommaire la stratégie de l’entreprise d’assurance en matière d’utilisation des dérivés;
+- b. les dérivés utilisés à l’échelon des différents compartiments, leurs objectifs d’utilisation et leur volume;
+- c. les principales contreparties;
+- d. la procédure de constitution des sûretés et les conventions contractuelles sous-jacentes.
+
+<sup>2</sup> La FINMA édicte les dispositions d’exécution relatives aux rapports.
+
+[^109-1]: Nouvelle teneur selon le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 ### Chapitre 4 Présentation des comptes
 
@@ -1477,15 +2076,21 @@ L’entreprise d’assurance adresse une fois par an à la FINMA un rapport sur 
 
 **Papiers-valeurs et instruments financiers dérivés**
 
+### (art. 26 LSA)
+
+[^110-1]
+
 <sup>1</sup> Les entreprises d’assurance suisses peuvent faire figurer dans le bilan les papiers-valeurs à intérêt fixe, libellés dans une monnaie donnée et remboursables à une date déterminée ou d’après un plan d’amortissement au maximum à la valeur obtenue selon la méthode scientifique ou linéaire d’amortissement des coûts présentée à l’art. 89. Les produits structurés et les combinaisons d’instruments financiers comparables à des papiers-valeurs à intérêt fixe apparaissent au bilan au maximum à la valeur obtenue selon la méthode scientifique ou linéaire d’amortissement des coûts.
 
-<sup>2</sup> Concernant les participations à des fonds à investisseur unique selon l’art. 82, al. 2, les dispositions du présent article s’appliquent aux placements directs de la fortune du fonds.
+<sup>2</sup> Concernant les participations à des fonds à investisseur unique, les dispositions d’exécution relatives à la structure minimale des comptes annuels selon l’art. 111*b*, al. 1, s’appliquent par analogie à la présentation des placements directs de la fortune du fonds.[^110-2]
 
-<sup>3</sup> …[^110-1]
+<sup>2bis</sup> Les papiers-valeurs et les instruments financiers dérivés doivent être évalués conformément aux dispositions du présent article.[^110-3]
+
+<sup>3</sup> …[^110-4]
 
 <sup>4</sup> Avec l’autorisation de la FINMA, l’entreprise d’assurance peut estimer les papiers-valeurs concernant les domaines d’activité à l’étranger selon les prescriptions du droit de la surveillance des pays concernés.
 
-<sup>5</sup> Les placements qui servent à garantir des contrats d’assurance conclus dans les branches d’assurance A2, A6.1 et A6.2 figurent dans le bilan à la valeur du marché.[^110-2]
+<sup>5</sup> Les placements qui servent à garantir des contrats d’assurance conclus dans les branches d’assurance A2, A6.1 et A6.2 figurent dans le bilan à la valeur du marché.[^110-5]
 
 <sup>6</sup>
 
@@ -1494,8 +2099,11 @@ Les instruments financiers dérivés ouverts à la date du bilan peuvent:
 - a. être pris en considération pour l’évaluation des sous-jacents, en se fondant sur des hypothèses prudentes, ou
 - b. figurer de façon indépendante dans le bilan. Dans ce cas, ils sont évalués en se fondant sur des hypothèses prudentes, mais au maximum à la valeur du marché. Pour les instruments financiers dérivés qui n’ont pas de valeur du marché, l’évaluation ne peut excéder celle calculée sur la base de modèles d’évaluation reconnus.
 
-[^110-1]: Abrogé par le ch. I de l’O du 25 mars 2015, avec effet au 1<sup>er</sup> juil. 2015 ([RO 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
-[^110-2]: Nouvelle teneur selon le ch. I de l’O du 25 mars 2015, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
+[^110-1]: Nouvelle teneur selon le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^110-2]: Nouvelle teneur selon le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^110-3]: Introduit par le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^110-4]: Abrogé par le ch. I de l’O du 25 mars 2015, avec effet au 1<sup>er</sup> juil. 2015 ([RO 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
+[^110-5]: Nouvelle teneur selon le ch. I de l’O du 25 mars 2015, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
 
 #### Art. 111
 
@@ -1511,6 +2119,10 @@ Les instruments financiers dérivés ouverts à la date du bilan peuvent:
 
 **Rapport sur la situation financière**[^111a-1]
 
+### (art. 25 LSA)
+
+[^111a-2]
+
 <sup>1</sup> Les entreprises d’assurance publient au moins une fois par an un rapport relatif à leur situation financière dans le cadre du compte rendu en matière de surveillance.
 
 <sup>2</sup>
@@ -1525,13 +2137,37 @@ Ce rapport contient des informations quantitatives et qualitatives et décrit en
 - f. la gestion du capital;
 - g. la solvabilité.
 
+<sup>2bis</sup> La FINMA peut prescrire des modèles standardisés concernant les informations à publier.[^111a-3]
+
 <sup>3</sup> Les entreprises d’assurance publient le rapport relatif à la situation financière sur leur site Internet le 30 avril au plus tard.
 
-<sup>4</sup> Celles qui ne disposent pas d’un site Internet propre mettent leur rapport à la disposition du public gratuitement, sur simple demande.
+<sup>4</sup> Les entreprises d’assurance qui ne disposent pas d’un site Internet propre doivent mettre leur rapport à la disposition du public gratuitement et sur simple demande dans les 20 jours.[^111a-4]
 
-<sup>5</sup> La FINMA règle les détails. Elle peut notamment prévoir des dérogations à l’obligation de publication.
+<sup>5</sup> Les entreprises d’assurance qui disposent d’un agrément pour la branche d’assurance C3 (réassurance exercée par les captives) sont dispensées de l’obligation de publication.[^111a-5]
+
+<sup>6</sup>
+
+La FINMA peut dispenser de l’obligation de publication:
+
+- a.
+
+  les entreprises d’assurance qui remplissent, durant la période sous revue et la période précédente, les conditions suivantes:
+
+  - 1\. les primes brutes comptabilisées (opérations globales) s’élèvent à moins de 10 millions de francs,
+  - 2\. les provisions techniques brutes (opérations globales) s’élèvent à moins de 50 millions de francs,
+  - 3\. le cercle des assurés est peu étendu;
+
+- b. les entreprises d’assurance ayant leur siège à l’étranger lorsqu’elles sont soumises à leur siège à un régime de publication équivalent.[^111a-6]
+
+<sup>7</sup> La FINMA peut accorder des dérogations supplémentaires dans le cas particulier.[^111a-7]
 
 [^111a-1]: Introduit par le ch. I de l’O du 25 mars 2015, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
+[^111a-2]: Nouvelle teneur selon le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^111a-3]: Introduit par le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^111a-4]: Nouvelle teneur selon le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^111a-5]: Nouvelle teneur selon le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^111a-6]: Introduit par le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^111a-7]: Introduit par le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 #### Art. 111b
 
@@ -1548,6 +2184,261 @@ Elle peut prévoir des dérogations aux art. 959*a*, al. 1 et 2, 959*b*, al. 2 e
 
 [^111b-1]: Introduit par le ch. I de l’O du 25 mars 2015, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
 [^111b-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+
+### Chapitre 4*a* Entreprises d’assurance assurant des preneurs d’assurance professionnels
+
+[^tit5-chap4a-1]
+
+[^tit5-chap4a-1]: Introduit par le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+
+#### Art. 111c
+
+**Preneurs d’assurance professionnels**
+
+### (art. 30*a* et 30*b* LSA)
+
+<sup>1</sup> Les preneurs d’assurance professionnels au sens de l’art. 98*a*, al. 2, let. e et f, de la loi du 2 avril 1908 sur le contrat d’assurance[^111c-1] disposent d’une gestion professionnelle des risques lorsqu’en interne ou en externe et à titre permanent, une personne spécialisée, expérimentée dans le domaine financier, est chargée de recenser, de mesurer et d’évaluer les risques découlant du rapport d’assurance, notamment les risques de contrepartie.
+
+<sup>2</sup> Est aussi considéré comme la conclusion d’un contrat au sens de l’art. 30*b* LSA tout renouvellement ou toute modification importante d’un contrat.
+
+[^111c-1]: [RS 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
+
+### Chapitre 4*b* Entités ad hoc d’assurance
+
+[^tit5-chap4b-1]
+
+[^tit5-chap4b-1]: Introduit par le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+
+### Section 1 Généralités
+
+#### Art. 111d
+
+**Applicabilité des dispositions relatives aux entreprises d’assurance**
+
+### (art. 30*e*, al. 2, LSA)
+
+<sup>1</sup> Sauf dispositions contraires du présent chapitre, les art. 3 à 13, 15 à 20, 23, 24, 30*a* à 30*d*, 31 à 39*k*, 51 à 54*j*, 57 à 59 et 62 LSA ne s’appliquent pas aux entités ad hoc d’assurance.
+
+<sup>2</sup> Les dispositions de la présente ordonnance s’appliquent par analogie aux entités ad hoc d’assurance, à l’exception des dispositions qui ne se fondent pas sur les articles de la loi mentionnés à l’al. 1.
+
+#### Art. 111e
+
+**Définitions**
+
+### (art. 30*e* et 30*f* LSA)
+
+<sup>1</sup> Sont considérés comme des instruments financiers au sens des art. 30*e* et 30*f* LSA les instruments financiers qui sont mentionnés à l’art. 3, let. a, de la loi du 15 juin 2018 sur les services financiers (LSFin)[^111e-1].
+
+<sup>2</sup> Sont considérés comme un risque spécifique au sens de l’art. 30*f*, al. 1, LSA les risques équivalents ou différents d’une ou de plusieurs branches d’assurance d’une ou de plusieurs entreprises d’assurance.
+
+<sup>3</sup> Sont considérés comme des investisseurs au sens du présent chapitre les détenteurs ou les créanciers des instruments financiers de l’entité ad hoc d’assurance.
+
+[^111e-1]: [RS 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
+
+#### Art. 111f
+
+**Agrément**
+
+### (art. 30*e* LSA)
+
+<sup>1</sup> La FINMA accorde l’agrément à une entité ad hoc d’assurance lorsque celle-ci remplit les conditions énoncées dans la LSA et dans la présente ordonnance.
+
+<sup>2</sup> Si l’entité ad hoc d’assurance fait partie d’un groupe d’assurance étranger ou d’un conglomérat d’assurance étranger, l’agrément peut être subordonné à l’existence d’une surveillance consolidée appropriée par une autorité étrangère de surveillance des marchés financiers.
+
+<sup>3</sup> La FINMA publie les agréments accordés.
+
+#### Art. 111g
+
+**Demande d’agrément**
+
+### (art. 30*e* LSA)
+
+<sup>1</sup>
+
+La demande d’agrément doit contenir les informations et documents suivants relatifs à l’entité ad hoc d’assurance:
+
+- a. les statuts;
+- b. des indications relatives à l’organisation;
+- c. des indications relatives à la dotation financière;
+- d. les comptes annuels des trois derniers exercices ou, pour une nouvelle entité ad hoc d’assurance, le bilan d’ouverture;
+- e. l’identité des personnes chargées de la haute direction, de la surveillance, du contrôle et de la gestion;
+- f. les contrats et autres ententes par lesquels l’entité ad hoc d’assurance veut déléguer des fonctions importantes à des tiers.
+
+#### Art. 111h
+
+**Modifications apportées aux informations et documents relatifs à la demande d’agrément**
+
+### (art. 30*e* LSA)
+
+<sup>1</sup> L’entité ad hoc d’assurance doit annoncer à la FINMA toute modification des faits sous-tendant l’agrément.
+
+<sup>2</sup> Si les modifications revêtent une importance significative, la poursuite de l’activité est soumise à l’obtention préalable d’un agrément de la FINMA.
+
+#### Art. 111i
+
+**Consolidation**
+
+### (art. 26, al. 3, LSA)
+
+Les entités ad hoc d’assurance qui font partie d’un groupe d’assurance ou d’un conglomérat d’assurance ne doivent pas être totalement consolidées.
+
+### Section 2 Conditions d’agrément
+
+#### Art. 111j
+
+**Forme juridique**
+
+### (art. 30*e*, al. 2, LSA)
+
+L’entité ad hoc d’assurance doit être constituée en société anonyme, en coopérative ou en fondation.
+
+#### Art. 111k
+
+**Capital minimum**
+
+### (art. 30*e* et 30*f* LSA)
+
+Le capital minimum d’une entité ad hoc d’assurance s’élève à 100 000 francs.
+
+#### Art. 111l
+
+**Règles de garantie**
+
+### (art. 30*e*, al. 3, let. b et d, LSA)
+
+<sup>1</sup> La délégation des fonctions de gestion et de contrôle est admissible, à l’exception de la haute direction, de la haute surveillance et du contrôle assurés par l’organe de haute direction de l’entité ad hoc d’assurance.
+
+<sup>2</sup> L’organe chargé de la haute direction de l’entité ad hoc d’assurance peut notamment déléguer tout ou partie de la gestion et de l’administration à certains membres ou à des tiers, qu’il s’agisse de personnes physiques ou morales, en vertu d’un règlement d’organisation.
+
+### Section 3 Groupes de risques
+
+#### Art. 111m
+
+**Constitution**
+
+### (art. 30*f* LSA)
+
+<sup>1</sup> Les statuts peuvent habiliter l’organe chargé de la haute direction de l’entité ad hoc d’assurance à constituer des groupes de risques sur la base d’un règlement sur les groupes de risques.
+
+<sup>2</sup>
+
+Le règlement sur les groupes de risque doit contenir des dispositions relatives:
+
+- a. aux types de risques assumés par le groupe de risques;
+- b. à la nature, à l’émission, aux droits, au transfert et à la reprise des instruments financiers concernant le groupe de risques;
+- c. aux droits et obligations des investisseurs;
+- d. à l’organisation et à la représentation du groupe de risques;
+- e. aux organes de publication;
+- f. à la participation aux frais à la charge du groupe de risques;
+- g. aux directives de placement.
+
+<sup>3</sup> L’organe chargé de la haute direction de l’entité ad hoc d’assurance doit mettre le règlement sur les groupes de risques à la disposition des investisseurs. Si ce règlement n’est pas accessible par voie électronique, chaque investisseur peut demander qu’il lui soit transmis.
+
+#### Art. 111n
+
+**Compartiments**
+
+### (art. 30*f* LSA)
+
+<sup>1</sup> La fortune totale de l’entité ad hoc d’assurance comprend l’actif social et l’actif à risque des groupes de risques (compartiments). L’actif social comprend la fortune qui n’est pas attribuée aux divers groupes de risques.
+
+<sup>2</sup> Les actifs et les engagements des divers compartiments doivent être clairement identifiables et être détenus séparément les uns des autres ainsi que de l’actif social.
+
+<sup>3</sup>
+
+Les compartiments peuvent être réunis. Lors de la réunion de deux compartiments, les investisseurs du compartiment repris reçoivent des parts du compartiment repreneur d’une valeur équivalente. Le compartiment repris est supprimé. Le règlement sur les groupes de risque règle la procédure de réunion. À cet égard, il contient notamment des dispositions relatives:
+
+- a. à l’information des investisseurs;
+- b. à la prise de décisions par les investisseurs;
+- c. aux obligations de vérification de la société d’audit lors de la réunion.
+
+#### Art. 111o
+
+**Instruments financiers**
+
+### (art. 30*f* LSA)
+
+<sup>1</sup> Le règlement sur les groupes de risques peut prévoir différentes catégories d’instruments financiers. Des droits et des obligations différents sont dévolus aux groupes de risques en fonction de la catégorie des instruments financiers.
+
+<sup>2</sup> Si l’entité ad hoc d’assurance est une société anonyme, celle-ci peut émettre des titres de participation relevant de différentes catégories (actions, bons de participation, bons de jouissance ou autres valeurs accordant des droits de participation ou de créance) pour les divers compartiments. Les détenteurs des titres de participation n’ont cependant droit qu’à la fortune et au rendement du compartiment auquel ils participent.
+
+<sup>3</sup> Les dispositions relatives aux actions privilégiées sont applicables par analogie à l’émission de titres de participation et aux privilèges associés aux diverses catégories de titres de participation.
+
+<sup>4</sup> Les statuts doivent contenir des dispositions correspondantes relatives à l’émission des titres de participation concernant les différents compartiments et les droits qui y sont associés.
+
+#### Art. 111p
+
+**Assemblée des investisseurs**
+
+### (art. 30*f* LSA)
+
+<sup>1</sup> Une assemblée des investisseurs est instituée pour chaque groupe de risques. La convocation et la tenue de l’assemblée des investisseurs sont régies par analogie par les art. 699, 699*a*, 699*b*, 700 et 701*a* à 703 CO[^111p-1].
+
+<sup>2</sup>
+
+L’assemblée des investisseurs a les compétences suivantes:
+
+- a. adopter des modifications du règlement sur les groupes de risques;
+- b. se prononcer sur la réunion de deux compartiments;
+- c. se prononcer sur les objets qui sont réservés à l’assemblée des investisseurs par la loi, la présente ordonnance, les statuts de l’entité ad hoc d’assurance ou le règlement sur les groupes de risques.
+
+[^111p-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+
+#### Art. 111q
+
+**Placement de la fortune des groupes de risques**
+
+### (art. 30*f* LSA)
+
+<sup>1</sup> L’organe chargé de la haute direction de l’entité ad hoc d’assurance édicte, pour chaque groupe de risques, des directives de placement qui exposent clairement et intégralement la stratégie de placement ainsi que les placements autorisés et les restrictions de placement pour le groupe de risques.
+
+<sup>2</sup> Les compartiments peuvent instituer des filiales et des participations en vue de mettre en œuvre la stratégie de placement.
+
+#### Art. 111r
+
+**Participation aux frais**
+
+### (art. 30*f* LSA)
+
+<sup>1</sup> L’organe chargé de la haute direction de l’entité ad hoc d’assurance édicte des instructions relatives à la participation aux frais des groupes de risques.
+
+<sup>2</sup> La nature et le montant de la participation aux frais ainsi que les bases permettant de déterminer les frais doivent être présentés de manière transparente.
+
+#### Art. 111s
+
+**Renseignement**
+
+### (art. 30*f* LSA)
+
+<sup>1</sup> Les investisseurs d’un groupe de risques peuvent solliciter à tout moment auprès de l’entité ad hoc d’assurance des renseignements sur la gestion l’entité ad hoc d’assurance et demander à consulter la comptabilité du groupe de risques qui les concerne.
+
+<sup>2</sup> Les demandes de renseignements ou de consultation peuvent être refusés avec l’accord du président de l’organe chargé de la haute direction de l’entité ad hoc d’assurance lorsqu’elles sont susceptibles de compromettre des intérêts dignes de protection ou des secrets d’affaires. Le refus d’accorder les renseignements ou la consultation doit être justifié par écrit.
+
+#### Art. 111t
+
+**Comptabilité et présentation des comptes**
+
+### (art. 26, al. 3, et 30*f* LSA)
+
+<sup>1</sup> Une comptabilité séparée doit être tenue pour l’actif social et les différents groupes de risques.
+
+<sup>2</sup> La FINMA peut édicter d’autres prescriptions concernant la structure des comptes annuels. Dans les comptes annuels, le bilan et le compte de résultats ainsi que l’annexe doivent être désignés comme tels.
+
+<sup>3</sup> L’entité ad hoc d’assurance établit et publie chaque année un rapport de situation qui renseigne sur la marche des affaires, la situation économique de l’entité ad hoc d’assurance et de chaque groupe de risques ainsi que les coûts et les rendements de chaque groupe de risques. La FINMA fixe les indicateurs déterminants. Si les circonstances le justifient, elle peut exempter de l’obligation de publication.
+
+#### Art. 111u
+
+**Suppression**
+
+### (art. 30*f* LSA)
+
+<sup>1</sup> L’organe chargé de la haute direction de l’entité ad hoc d’assurance peut décider de supprimer certains groupes de risques.
+
+<sup>2</sup> En cas de suppression d’un groupe de risques, il convient de veiller à l’égalité de traitement de tous les investisseurs ainsi qu’à leur information rapide.
+
+<sup>3</sup> Après la suppression d’un groupe de risques, l’organe chargé de la haute direction de l’entité ad hoc d’assurance doit demander à l’organe de révision de confirmer que cette opération a été effectuée dans les règles.
+
+<sup>4</sup> Pour chaque compartiment, une assemblée des créanciers ou une commission des créanciers peuvent être instituées en cas d’insolvabilité.
 
 ### Chapitre 5 …
 
@@ -1589,6 +2480,18 @@ Constituent des abus au sens de l’art. 46, al. 1, let. f, LSA les préjudices 
 
 La montant total des dépôts de primes que l’entreprise d’assurance gère pour un preneur d’assurance ne doit pas être supérieur au montant total des primes futures.
 
+#### Art. 119a
+
+**Remise de documents au preneur d’assurance**[^119a-1]
+
+### (art. 80 LSA)
+
+<sup>1</sup> Lorsque la remise d’une copie du dossier et d’autres documents est demandée conformément à l’art. 80 LSA, les entreprises d’assurance et les intermédiaires d’assurance doivent la fournir sur un support durable au sens de l’art. 14*c*, al. 4.
+
+<sup>2</sup> Si la remise de la copie est demandée une nouvelle fois sans justification suffisante, l’entreprise d’assurance ou l’intermédiaire d’assurance peut facturer l’établissement et la remise de cette nouvelle copie.
+
+[^119a-1]: Introduit par le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+
 ## Titre 6 Dispositions particulières à certaines branches d’assurance
 
 ### Chapitre 1 Assurance sur la vie
@@ -1599,41 +2502,112 @@ La montant total des dépôts de primes que l’entreprise d’assurance gère p
 
 **Principes**
 
-<sup>1</sup> Pour la tarification de ses contrats, l’entreprise d’assurance qui exploite l’assurance sur la vie est tenue d’utiliser des bases et des méthodes de calcul conformes au risque, de nature biométrique et liées aux conditions du marché des capitaux. Les périodes de validité des bases et des méthodes de calcul sont indiquées dans le plan d’exploitation.
+### (art. 38 LSA)
+
+[^120-1]
+
+<sup>1</sup> Pour la tarification de ses contrats, l’entreprise d’assurance qui pratique l’assurance sur la vie est tenue d’utiliser des bases et des méthodes de calcul biométriques et liées aux conditions du marché des capitaux ainsi que des bases de coûts adéquates. Les périodes de validité des bases et des méthodes de calcul utilisées sont indiquées dans le plan d’exploitation.[^120-2]
 
 <sup>2</sup> L’entreprise d’assurance vérifie chaque année sur la base d’estimations statistiques que les bases de la tarification sont encore adéquates. Si elles s’avèrent insuffisantes, elles ne peuvent plus être utilisées pour de nouveaux contrats.
 
+[^120-1]: Nouvelle teneur selon le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^120-2]: Nouvelle teneur selon le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+
 #### Art. 121
 
-**Bases de tarification liées au marché des capitaux en dehors de la prévoyance professionnelle**
+**Tarification en dehors de la prévoyance professionnelle: taux d’intérêt technique pour les assurances sur la vie libellées en francs suisses**[^121-1]
 
-<sup>1</sup> Lorsque des contrats d’assurance sur la vie comportent une garantie d’intérêt, le taux d’intérêt technique utilisé pour la tarification en dehors de la prévoyance professionnelle ne peut dépasser 60 % de la moyenne roulante sur dix ans du taux d’intérêt de référence. La FINMA fixe le taux d’intérêt de référence.
+### (art. 36 LSA)
 
-<sup>2</sup> Dans les cas justifiés, la FINMA peut modifier cette limite.[^121-1]
+<sup>1</sup> Pour les contrats d’assurance sur la vie libellés en francs suisses, le taux d’intérêt technique maximum se calcule d’après une moyenne roulante sur quatre ans adaptée du taux d’intérêt de référence.
 
-<sup>3</sup> Si l’entreprise d’assurance donne des garanties dont la tarification repose sur des bases liées au marché des capitaux autres que des taux d’intérêt techniques, elle doit fixer ces bases prudemment et en fonction de la garantie.
+<sup>2</sup> La moyenne roulante sur quatre ans est calculée au moyen des valeurs mensuelles du taux d’intérêt de référence. Le taux d’intérêt de référence est le taux d’intérêt au comptant de la Banque nationale suisse pour les obligations de la Confédération suisse d’une échéance de 10 ans.
 
-[^121-1]: Nouvelle teneur selon le ch. I de l’O du 25 mars 2015, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
+<sup>3</sup> Si la moyenne roulante sur quatre ans est positive, elle est subdivisée et les différentes parts sont pondérées selon l’al. 4. La moyenne roulante sur quatre ans adaptée est déterminée en additionnant les parts pondérées et en déduisant 0,1 % de la valeur obtenue.
+
+<sup>4</sup>
+
+Les parts ci-après de la moyenne roulante sur quatre ans sont multipliés par les facteurs de pondération suivants:
+
+- a. part de 0 % à 0,5 %: facteur de pondération 1;
+- b. part restante entre 0,5 % et 1 %: facteur de pondération 0,8;
+- c. part restante entre 1 % et 1,5 %: facteur de pondération 0,6;
+- d. part restante entre 1,5 % et 2 %: facteur de pondération 0,4;
+- e. part restante supérieure à 2 %: facteur de pondération 0,3.
+
+<sup>5</sup> Si la moyenne roulante sur quatre ans est négative, la moyenne roulante sur quatre ans adaptée équivaut à la moyenne roulante sur quatre ans moins 0,1 %.
+
+<sup>6</sup> Si la moyenne roulante sur quatre ans adaptée calculée selon les al. 3 à 5 affiche, pendant trois mois consécutifs, un niveau supérieur d’au moins 0,25 points de pourcentage ou inférieur d’au moins 0,25 point de pourcentage à celui du taux d’intérêt technique maximal actuel, le taux d’intérêt technique maximal est modifié; il correspond à la moyenne roulante sur quatre ans adaptée.
+
+<sup>7</sup> Si les conditions ont changé de manière déterminante, notamment dans le domaine du marché des capitaux, la FINMA peut corriger de façon adéquate le taux d’intérêt technique maximal calculé selon les al. 1 à 6.
+
+[^121-1]: Nouvelle teneur selon le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+
+#### Art. 121a
+
+**Tarification en dehors de la prévoyance professionnelle: taux d’intérêt technique pour les assurances sur la vie non libellées en francs suisses**[^121a-1]
+
+### (art. 36 LSA)
+
+Dans le cas de contrats d’assurance sur la vie non libellés en francs suisses, la FlNMA fixe le taux d’intérêt technique maximal par analogie aux prescriptions de l’art. 121.
+
+[^121a-1]: Introduit par le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+
+#### Art. 121b
+
+**Tarification en dehors de la prévoyance professionnelle: dispositions communes relatives au taux d’intérêt technique applicable aux assurances sur la vie**[^121b-1]
+
+### (art. 36 LSA)
+
+<sup>1</sup> Sur demande motivée d’une entreprise d’assurance, la FINMA peut approuver des taux d’intérêt techniques plus élevés que ceux des art. 121 et 121*a* pour certaines durées de police prescrites ou pour certains produits.
+
+<sup>2</sup> Elle publie sur son site Internet le taux d’intérêt technique maximal en vigueur. En cas d’abaissement du taux d’intérêt technique, celui-ci doit être appliqué au plus tard dans un délai de 6 mois à compter de sa publication.
+
+[^121b-1]: Introduit par le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+
+#### Art. 121c
+
+**Tarification en dehors de la prévoyance professionnelle: assurance sur la vie avec tarification non fondée sur des taux d’intérêt techniques**[^121c-1]
+
+### (art. 36 LSA)
+
+Si les contrats d’assurance sur la vie contiennent des garanties dont la tarification s’appuie sur d’autres bases liées aux conditions du marché des capitaux que les taux d’intérêt techniques, ces bases doivent être déterminées avec prudence en fonction des garanties.
+
+[^121c-1]: Introduit par le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 #### Art. 122
 
 **Tables de mortalité et autres bases statistiques**
 
-<sup>1</sup> Pour la tarification des contrats d’assurance sur la vie, l’entreprise d’assurance utilise des tables de mortalité et d’autres bases statistiques reconnues par la FINMA. Elle peut y intégrer les données statistiques provenant de son propre portefeuille d’assurés selon une procédure appropriée, reconnue par la FINMA.
+### (art. 36 LSA)
+
+[^122-1]
+
+<sup>1</sup> Pour la tarification des contrats d’assurance sur la vie, l’entreprise d’assurance doit utiliser des bases biométriques et démographiques reconnues par la FINMA.[^122-2]
 
 <sup>2</sup> L’entreprise d’assurance révise régulièrement ses propres bases statistiques utilisées pour la tarification et les adapte au moins tous les dix ans, sur la base des connaissances les plus récentes.
+
+[^122-1]: Nouvelle teneur selon le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^122-2]: Nouvelle teneur selon le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 #### Art. 123
 
 **Classes tarifaires et tarification empirique**
 
+### (art. 36 LSA)
+
+[^123-1]
+
 <sup>1</sup> L’entreprise d’assurance ne peut répartir les risques assurés en classes tarifaires et appliquer la tarification selon le cours individuel des sinistres (tarification empirique) que si cela a été convenu dans le contrat avec le preneur d’assurance.
 
 <sup>2</sup> Les modifications de primes résultant d’un changement de classe tarifaire ou de l’application du tarif empirique ne sont autorisées que si les conditions régissant ce changement vers le haut ou vers le bas sont convenues avec le preneur d’assurance.
 
-<sup>3</sup> Si l’entreprise d’assurance applique la répartition en classes tarifaires ou la tarification empirique, elle tient compte de manière appropriée du cours collectif des sinistres en plus du cours individuel des sinistres pour déterminer les primes.
+<sup>3</sup> Si l’entreprise d’assurance applique des classes tarifaires ou des tarifications empiriques, la fixation des primes doit tenir dûment compte non seulement du cours individuel des sinistres du portefeuille collectif partiel à tarifier, mais également du cours collectif des sinistres du portefeuille sous-tendant les classes tarifaires ou la tarification empirique. Des statistiques transversales peuvent être également prises en considération dès lors qu’elles complètent de manière adéquate les données du portefeuille propre.[^123-2]
 
 <sup>4</sup> La tarification est effectuée selon des méthodes actuarielles reconnues.
+
+[^123-1]: Nouvelle teneur selon le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^123-2]: Nouvelle teneur selon le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 #### Art. 124
 
@@ -1683,6 +2657,10 @@ Lorsqu’elle accorde une garantie d’assurabilité, l’entreprise d’assuran
 
 **Valeurs de règlement**
 
+### (art. 36 LSA)
+
+[^127-1]
+
 <sup>1</sup> Les valeurs de règlement sont soumises à la FINMA pour approbation avant leur application. Font exception les valeurs de règlement que l’entreprise accorde de son plein gré.
 
 <sup>2</sup>
@@ -1690,18 +2668,19 @@ Lorsqu’elle accorde une garantie d’assurabilité, l’entreprise d’assuran
 Les valeurs de règlement sont approuvées aux conditions suivantes:
 
 - a. elles sont équitables;
-- b.[^127-1] elles sont déterminées en fonction des provisions mathématiques d’inventaire calculées avec les bases techniques du contrat d’assurance correspondant;
-- c.[^127-2] des déductions des provisions mathématiques d’inventaire ne sont autorisées que pour le risque d’intérêt et pour les frais d’acquisition non amortis;
+- b.[^127-2] elles sont déterminées en fonction des provisions mathématiques d’inventaire calculées avec les bases techniques du contrat d’assurance correspondant;
+- c.[^127-3] des déductions des provisions mathématiques d’inventaire ne sont autorisées que pour le risque d’intérêt et pour les frais d’acquisition non amortis;
 - d. l’assurance réduite est de même nature que l’assurance sur la vie initiale; si l’entreprise d’assurance s’écarte de cette règle, elle doit le justifier;
 - e. le taux de zillmérisation à la base de la déduction pour frais d’acquisition non amortis ne peut excéder les pourcentages fixés par la FINMA. Ces pourcentages tiennent compte des différences entre les couvertures contractuelles;
 - f. la FINMA communique de manière appropriée les pourcentages selon la let. e et la base ayant servi à leur calcul;
-- g.[^127-3] le total des déductions pour risque d’intérêt et pour frais d’acquisition non amortis ne doit pas être supérieur au tiers des provisions mathématiques d’inventaire si le preneur d’assurance a payé les primes pendant trois ans au moins.
+- g.[^127-4] le total des déductions pour risque d’intérêt et pour frais d’acquisition non amortis ne doit pas dépasser un tiers des provisions mathématiques d’inventaire.
 
 <sup>3</sup> Pour son approbation, la FINMA peut se fonder sur un rapport de l’actuaire responsable.
 
-[^127-1]: Nouvelle teneur selon le ch. I de l’O du 25 mars 2015, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
+[^127-1]: Nouvelle teneur selon le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 [^127-2]: Nouvelle teneur selon le ch. I de l’O du 25 mars 2015, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
 [^127-3]: Nouvelle teneur selon le ch. I de l’O du 25 mars 2015, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
+[^127-4]: Nouvelle teneur selon le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 #### Art. 128
 
@@ -1718,6 +2697,147 @@ Si l’entreprise d’assurance permet d’opter pour un capital, la prestation 
 <sup>2</sup> La somme des prêts sur police que l’entreprise d’assurance accorde à un preneur d’assurance ne peut excéder la valeur de rachat du contrat d’assurance.
 
 ### Section 3 Exigences concernant les contrats d’assurance sur la vie
+
+#### Art. 129a
+
+**Information dans l’assurance sur la vie non qualifiée: offre individuelle**[^129a-1]
+
+### (art. 31 LSA)
+
+<sup>1</sup> Avant la conclusion d’une assurance sur la vie non qualifiée, l’entreprise d’assurance doit fournir au preneur d’assurance les informations prévues au présent article. Cette disposition ne porte pas atteinte aux autres obligations d’information incombant à l’entreprise d’assurance.
+
+<sup>2</sup> L’entreprise d’assurance doit informer sur le niveau d’une éventuelle évolution future de la valeur des contrats d’assurance avec processus d’épargne du point de vue du preneur d’assurance. Dans ce but, elle soumet plusieurs exemples de calcul tenant compte des prélèvements techniques prévus au contrat.
+
+<sup>3</sup> Ces exemples de calcul comprennent au moins un scénario de rendement favorable, un scénario défavorable et un scénario moyen.
+
+<sup>4</sup> Pour chacun des trois scénarios de rendement prévus à l’al. 3, le calcul de la prestation à l’échéance et des valeurs de rachat doit être indiqué compte tenu des éventuelles garanties contractuelles et des excédents dégagés le cas échéant dans le scénario de rendement en question.
+
+<sup>5</sup> Le scénario de rendement moyen doit présenter tous les coûts sauf les coûts liés aux risques sous forme de réduction de rendement en pour-cent par an et les coûts liés aux risques en termes nominaux. Les primes des assurances complémentaires à l’assurance sur la vie peuvent être comptabilisées séparément.
+
+<sup>6</sup> L’entreprise d’assurance doit signaler que les exemples de calcul reposent sur des hypothèses et ne permettent pas de prévoir avec certitude les évolutions futures. Elle doit préciser par ailleurs qu’aucun engagement contractuel ne peut être déduit des exemples de calcul.
+
+<sup>7</sup> La FINMA peut édicter des dispositions d’exécution pour les al. 2 à 6.
+
+[^129a-1]: Introduit par le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+
+#### Art. 129b
+
+**Information dans l’assurance sur la vie qualifiée: offre individuelle**[^129b-1]
+
+### (art. 31 LSA)
+
+<sup>1</sup> Avant la conclusion d’une assurance sur la vie qualifiée, l’entreprise d’assurance doit informer le preneur d’assurance des variantes de produits proposées et des caractéristiques propres à chaque produit, notamment au moyen d’exemples de calcul individualisés. Cette disposition ne porte pas atteinte aux autres obligations d’information incombant à l’entreprise d’assurance.
+
+<sup>2</sup>
+
+Les exemples de calcul individualisés comprennent au moins les éléments suivants:
+
+- a. le montant et la nature du dépôt;
+- b. l’échéance du contrat d’assurance;
+- c. au moins un scénario de rendement favorable, un scénario de rendement moyen et un scénario de rendement défavorable; les exemples de calcul doivent illustrer, dans ces scénarios de rendement, les avantages et les risques de l’assurance vie qualifiée, en tenant compte notamment des actifs sous-jacents et de la durée du contrat; le scénario de rendement défavorable doit présenter un rendement inférieur à celui d’un placement sans risque; les rendements comptabilisés sont les rendements bruts;
+- d. le cas échéant, les prestations garanties;
+- e. le calcul de la prestation à l’échéance et des valeurs de rachat dans les trois scénarios de rendement; le cas échéant, les garanties contractuelles doivent être prises en compte;
+- f.
+
+  l’indication des coûts dans le scénario de rendement moyen, composée:
+
+  - 1\. du rendement brut,
+  - 2\. de la réduction du rendement en pourcentage pour tous les coûts sauf les coûts liés aux risques,
+  - 3\. du rendement net en tant que différence entre le rendement brut et la réduction du rendement,
+  - 4\. des coûts liés aux risques en termes nominaux,
+  - 5\. le cas échéant, des primes comptabilisées séparément pour les assurances complémentaires à l’assurance sur la vie qualifiée.
+
+<sup>3</sup>
+
+Les informations mentionnées à l’al. 2 doivent être déterminées de la façon suivante:
+
+- a. le rendement brut est le rendement des actifs sous-jacents au processus de placement avant toute déduction telle que celle des commissions sur les fonds, qui est pris pour base dans le calcul à la prestation à l’échéance;
+- b. les coûts liés aux risques sont la somme des primes de risque versées pour couvrir le risque biométrique;
+- c. le rendement net est déterminé de manière à ce que les contributions de paiement rémunérées par le rendement net correspondent exactement au total des coûts liés aux risques et de la prestation à l’échéance;
+- d. la réduction du rendement est la différence entre le rendement brut et le rendement net.
+
+<sup>4</sup> Les exemples de calcul individualisés doivent être conçus de manière à tenir compte des particularités des opérations de capitalisation et des tontines.
+
+<sup>5</sup> L’entreprise d’assurance doit signaler que les exemples de calcul reposent sur des hypothèses et ne permettent pas de prévoir l’avenir avec certitude. Elle doit par ailleurs préciser qu’aucun engagement contractuel ne peut être déduit des exemples de calcul.
+
+<sup>6</sup> La FINMA peut édicter des dispositions d’exécution pour les al. 2 à 5.
+
+[^129b-1]: Introduit par le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+
+#### Art. 129c
+
+**Information dans l’assurance sur la vie qualifiée: indemnisation de tiers**[^129c-1]
+
+### (art. 39*h*, al 2, LSA)
+
+<sup>1</sup> Les indemnisations perçues par des tiers en lien avec les assurances sur la vie qualifiées et qui, par nature, ne peuvent pas être transmises aux preneurs d’assurance, notamment les indemnisations non monétaires, doivent être publiées par l’entreprise d’assurance en tant que conflit d’intérêts au sens de l’art. 14*a* LSA.
+
+<sup>2</sup> Les sociétés du groupe auquel appartient l’entreprise d’assurance sont considérées comme des tiers pour l’entreprise d’assurance.
+
+[^129c-1]: Introduit par le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+
+#### Art. 129d à 129l
+
+[^129d129l-1]
+
+[^129d129l-1]: Entrent en vigueur le 1<sup>er</sup> janv. 2026 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)ch. IV al. 2).
+
+#### Art. 129m
+
+**Vérification du caractère approprié dans l’assurance sur la vie qualifiée**[^129m-1]
+
+### (art. 39*j* LSA)
+
+<sup>1</sup>
+
+Lors de la vérification du caractère approprié de l’assurance sur la vie pour les preneurs d’assurance, l’entreprise d’assurance ou l’intermédiaire d’assurance doit examiner:
+
+- a. si l’assurance sur la vie qualifiée est financièrement supportable pour le preneur d’assurance;
+- b. si le profil de risque de l’assurance sur la vie qualifiée correspond à la capacité de risque du preneur d’assurance;
+- c. si l’échéance de l’assurance sur la vie qualifiée est conciliable avec la situation de vie et les objectifs de placement du preneur d’assurance.
+
+<sup>2</sup> Pour les preneurs d’assurance qui agissent par l’intermédiaire d’un mandataire, l’entreprise d’assurance ou l’intermédiaire d’assurance tient compte des connaissances et de l’expérience de ce mandataire pour vérifier le caractère approprié de l’assurance sur la vie qualifiée.
+
+[^129m-1]: Introduit par le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+
+#### Art. 129n
+
+**Documentation dans l’assurance sur la vie qualifiée**[^129n-1]
+
+### (art. 39*k* LSA)
+
+Les entreprises d’assurance et les intermédiaires d’assurance doivent établir la documentation de manière à pouvoir rendre des comptes aux preneurs d’assurance dans les dix jours ouvrables.
+
+[^129n-1]: Introduit par le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+
+#### Art. 129o
+
+**Reddition de compte dans l’assurance sur la vie qualifiée**[^129o-1]
+
+### (art. 39*k* LSA)
+
+La reddition de comptes s’effectue au moyen d’un support durable au sens de l’art. 14*c*, al. 4. Elle intervient aux intervalles de temps convenus avec les preneurs d’assurance ou à leur demande.
+
+[^129o-1]: Introduit par le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+
+#### Art. 129p
+
+**Publicité dans l’assurance sur la vie qualifiée**[^129p-1]
+
+### (art. 39*i* LSA)
+
+<sup>1</sup> Est considérée comme publicité toute communication adressée aux preneurs d’assurance et visant à attirer l’attention sur certaines assurances sur la vie qualifiées.
+
+<sup>2</sup>
+
+Ne sont pas considérées comme publicités en tant que telles:
+
+- a. l’identification d’assurances sur la vie qualifiées, qu’elle soit accompagnée ou non de la publication de prix, de cours ou de valeurs nettes d’inventaire, de listes ou d’évolutions de cours, d’impôts ou de valeurs de rachat;
+- b. les annonces concernant les émetteurs ou les transactions, en particulier lorsque celles-ci sont prescrites par la loi, par le droit de la surveillance ou par des règlements régissant des plateformes de négociation;
+- c. la mise à disposition ou la transmission de communications par l’entreprise d’assurance aux preneurs d’assurance actuels;
+- d. les articles parus dans la presse spécialisée.
+
+[^129p-1]: Introduit par le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 #### Art. 130
 
@@ -1861,7 +2981,11 @@ L’entreprise d’assurance transmet aux preneurs d’assurance, dans les cinq 
 
 #### Art. 143
 
-**Processus et composante d’épargne**
+**Processus d’épargne et composante épargne**
+
+### (art. 37, al. 2, let. b, LSA)
+
+[^143-1]
 
 <sup>1</sup>
 
@@ -1871,9 +2995,17 @@ Le processus d’épargne comprend:
 - b. la conversion de l’avoir de vieillesse en rentes de vieillesse;
 - c. le règlement des rentes de vieillesse en cours et des rentes d’enfants de retraités qui leur sont liées.
 
-<sup>2</sup> Le produit du processus d’épargne (composante épargne) correspond aux produits des capitaux comptabilisés, après déduction des frais de placement et de gestion des capitaux (produit net du capital).
+<sup>2</sup>
+
+Le produit du processus d’épargne (composante épargne) correspond:
+
+- a. aux produits des capitaux comptabilisés, après déduction des frais de placement et de gestion des capitaux (produit net du capital), et
+- b. aux primes de garantie versées pour la conversion en rentes.[^143-2]
 
 <sup>3</sup> Les dépenses du processus d’épargne correspondent au paiement des intérêts techniques au taux d’intérêt garanti et à la liquidation des rentes de vieillesse en cours et des rentes d’enfants de retraités, ainsi que des polices de libre passage.
+
+[^143-1]: Nouvelle teneur selon le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^143-2]: Nouvelle teneur selon le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 #### Art. 144
 
@@ -1919,20 +3051,26 @@ Le processus de risque comprend:
 
 **Quote-part minimum et quote-part de distribution**
 
+### (art. 37, al. 3, let. c, LSA)
+
+[^147-1]
+
 <sup>1</sup> Une partie des composantes visées aux art. 143 à 145 doit être utilisée en faveur des preneurs d’assurance (quote-part de distribution). La quote-part de distribution comprend au moins 90 % des composantes (quote-part minimum).
 
 <sup>2</sup>
 
-Si la composante épargne atteint 6 % ou plus de la réserve mathématique et que le taux minimum prévu à l’art. 15 de la loi fédérale du 25 juin 1982 sur la prévoyance professionnelle vieillesse, survivants et invalidité (LPP)[^147-1] correspond à deux tiers ou moins de ce taux en pour-cent, les excédents sont répartis de la manière suivante:
+Si la composante épargne atteint 6 % ou plus de la réserve mathématique et que le taux minimum prévu à l’art. 15 de la loi fédérale du 25 juin 1982 sur la prévoyance professionnelle vieillesse, survivants et invalidité (LPP)[^147-2] correspond à deux tiers ou moins de ce taux en pour-cent, les excédents sont répartis de la manière suivante:
 
-- a. le produit net du rendement des capitaux de la marge de solvabilité en faveur de l’entreprise d’assurance;
+- a.[^147-3] 4 % de la composante épargne en faveur de l’entreprise d’assurance;
 - b. 90 % du résultat en faveur des preneurs d’assurance et 10 % en faveur de l’entreprise d’assurance. Par résultat, on entend le solde total positif selon l’art. 149, al. 1 et 3, déduction faite des montants prévus par le plan d’exploitation pour la constitution de provisions, selon l’art. 149, al. 1, let. a.
 
 <sup>3</sup> Si une entreprise d’assurance doit accroître ses fonds propres pour satisfaire aux exigences en matière de solvabilité, ou que la part de la différence entre la somme des composantes et la quote-part de distribution, qui est attribuée au capital propre, est disproportionnée par rapport à l’attribution au fonds d’excédents, elle en informe la FINMA. Celle-ci peut, sur demande ou d’office, adopter une réglementation s’écartant des al. 1 et 2.
 
 <sup>4</sup> La quote-part de distribution est soumise pour approbation, avec la preuve de l’utilisation.
 
-[^147-1]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^147-1]: Nouvelle teneur selon le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^147-2]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^147-3]: Nouvelle teneur selon le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 #### Art. 148
 
@@ -2019,13 +3157,49 @@ Si le solde global est négatif, les mesures suivantes sont prises l’une aprè
 
 ### Chapitre 4 Assurance-maladie et assurance-accidents
 
+#### Art. 154a
+
+**Utilisation de provisions techniques qui ne sont plus nécessaires**[^154a-1]
+
+### (art. 31, al. 1, 38 et 46, al. 1, let. f et g, LSA)
+
+<sup>1</sup> Dans le domaine de l’assurance complémentaire à l’assurance-maladie sociale, la FINMA peut édicter des dispositions d’exécution concernant l’utilisation des fonds libérés par la dissolution de provisions techniques qui ne sont plus nécessaires.
+
+<sup>2</sup> Elle tient compte en particulier de la personne qui a financé les provisions.
+
+<sup>3</sup> L’art. 155, al. 1, est réservé.
+
+[^154a-1]: Introduit par le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+
 #### Art. 155
 
-**Restitution de provisions de vieillissement**
+**Restitution de provisions de vieillissement**[^155-1]
 
-<sup>1</sup> Si l’entreprise d’assurance constitue des provisions de vieillissement et qu’elle se réserve le droit de résilier les contrats d’assurance après la survenance d’un sinistre assuré ou qu’elle ne s’engage pas à prolonger le contrat à son échéance, elle doit restituer à l’assuré une partie appropriée des provisions de vieillissement, pour autant que l’une des parties au contrat y mette fin ou que l’entreprise d’assurance ne prolonge pas le contrat à son échéance.
+### (art. 16 LSA)
 
-<sup>2</sup> Elle soumet pour approbation à la FINMA un plan concernant la restitution d’une fraction des provisions de vieillissement. Ce plan contient en particulier les bases de calcul et le montant de la part à rembourser. Ces éléments doivent figurer dans les bases contractuelles.
+<sup>1</sup> L’entreprise d’assurance qui est tenue de constituer des provisions de vieillissement peut prévoir le remboursement d’une partie d’entre elles à la personne assurée en cas de dissolution anticipée du contrat.
+
+<sup>2</sup> L’entreprise d’assurance doit soumettre à la FINMA pour approbation un plan pour le remboursement d’une part des provisions de vieillissement. Ce plan doit notamment contenir les bases de calcul des valeurs de règlement. Les dispositions relatives à la valeur de règlement doivent être intégrées dans les conditions générales d’assurance.
+
+<sup>3</sup>
+
+Les valeurs de règlement sont approuvées aux conditions suivantes:
+
+- a. elles s’appuient sur le montant qui a été cumulé pour le preneur d’assurance jusqu’au moment de la dissolution du contrat et calculé à l’aide des bases tarifaires du contrat d’assurance correspondant;
+- b. le cours individuel des sinistres du preneur d’assurance n’est pas pris en compte;
+- c. des déductions appropriées ne sont possibles que pour réduire le risque de cessation en masse et pour les coûts de conclusion non amortis.
+
+<sup>4</sup> Les provisions techniques doivent couvrir à tout moment les valeurs de règlement.
+
+<sup>5</sup>
+
+L’entreprise d’assurance doit informer le preneur d’assurance du montant de la valeur de règlement:
+
+- a. au moins une fois par an;
+- b. à la demande du preneur d’assurance;
+- c. à chaque adaptation des primes.
+
+[^155-1]: Nouvelle teneur selon le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 #### Art. 156
 
@@ -2337,130 +3511,319 @@ L’ayant droit supporte les franchises suivantes:
 
 <sup>3</sup> Le plan est approuvé s’il prévoit une répartition équilibrée des frais.
 
-## Titre 7 Intermédiaires d’assurance
+### Chapitre 7 Réassurance
+
+[^tit6-chap7-1]
+
+[^tit6-chap7-1]: Introduit par le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+
+### (art. 35, al. 3, LSA)
+
+#### Art. 181a
+
+Dans le cadre de la surveillance exercée sur la réassurance en matière d’organisation, de plan d’exploitation, de gouvernance d’entreprise et de délégation de fonction, la FINMA tient compte de la faible vulnérabilité et des particularités du modèle d’exploitation de la réassurance, en particulier de son caractère international et de son besoin accru de diversification.
+
+## Titre 7 Intermédiation d’assurance
+
+[^tit7-1]
+
+[^tit7-1]: Nouvelle teneur selon le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+
+### Chapitre 1 Champ d’application et définitions
 
 #### Art. 182
 
-**Exclusion du champ d’application**
+**Activité à l’étranger**
 
-Lorsqu’un intermédiaire ayant son siège ou son domicile en Suisse exerce son activité à l’étranger, celle-ci n’est pas soumise à la surveillance en Suisse.
+### (art. 42, al. 4, LSA)
+
+Lorsqu’un intermédiaire d’assurance ayant son siège ou son domicile en Suisse exerce son activité d’intermédiation en assurance à l’étranger, celle-ci n’est pas soumise à la surveillance en Suisse.
+
+#### Art. 182a
+
+**Intermédiaires d’assurance**
+
+### (art. 40 LSA)
+
+<sup>1</sup>
+
+Sont notamment aussi considérées comme des intermédiaires d’assurance au sens de l’art. 40, al. 1, LSA, les personnes:
+
+- a. qui conseillent des preneurs d’assurance en vue de la conclusion d’un contrat d’assurance, ou
+- b. qui proposent des contrats d’assurance.
+
+<sup>2</sup>
+
+Sont aussi considérées comme des intermédiaires d’assurance les personnes qui ont un intérêt économique à proposer ou à conclure un contrat d’assurance par l’intermédiaire d’un site Internet ou d’un autre moyen électronique et:
+
+- a. qui mettent à disposition des informations portant sur un ou plusieurs contrats d’assurance sur la base de critères individualisés qu’un preneur d’assurance peut choisir par l’intermédiaire de ce site Internet ou de cet autre moyen électronique, ou
+- b. qui établissent un classement des produits d’assurance, y compris une comparaison des prix et des produits.
+
+<sup>3</sup> Les personnes qui fournissent uniquement des données ou des informations ne sont pas considérées comme des intermédiaires d’assurance.
+
+#### Art. 182b
+
+**Statut apparent d’intermédiaires en assurance non liés**
+
+### (art. 40 LSA)
+
+Les personnes qui donnent au preneur d’assurance l’impression de fournir les prestations en tant qu’intermédiaires d’assurance non liés doivent également satisfaire aux exigences imposées aux intermédiaires d’assurance non liés.
+
+#### Art. 182c
+
+**Comportements prohibés et conflits d’intérêts**
+
+### (art. 14*a*, 44, al. 1, let. b, 45*a*, al. 3, et 45*b* LSA)
+
+<sup>1</sup>
+
+Les comportements ou les circonstances suivants sont considérés dans tous les cas comme prohibés en raison de conflits d’intérêts:
+
+- a.
+
+  lorsque des intermédiaires d’assurance non liés:
+
+  - 1\. ont conclu avec une entreprise d’assurance des accords de collaboration ou d’autres accords qui entravent leur liberté à exercer également une activité pour d’autres entreprises d’assurance,
+  - 2\. participent directement ou indirectement au capital social d’une entreprise d’assurance à hauteur de plus de 10 %;
+
+- b.
+
+  lorsque des intermédiaires d’assurance ou les personnes chargées de l’administration et de la gestion ainsi que les personnes qui détiennent une participation directe ou indirecte de plus de 10 % dans l’intermédiaire d’assurance non lié:
+
+  - 1\. exercent une fonction dirigeante dans une entreprise d’assurance, ou
+  - 2\. sont susceptibles d’exercer d’une autre manière une influence sur la marche des affaires d’une entreprise d’assurance;
+
+- c. lorsqu’une entreprise d’assurance participe directement ou indirectement au capital social d’un intermédiaire d’assurance non lié à hauteur de plus de 10 %;
+- d.
+
+  lorsqu’une entreprise d’assurance ou les personnes chargées de l’administration et de la gestion ainsi que les personnes qui détiennent une participation directe ou indirecte de plus de 10 % à l’entreprise d’assurance:
+
+  - 1\. exercent une fonction dirigeante auprès d’un intermédiaire d’assurance non lié, ou
+  - 2\. sont susceptibles d’exercer d’une autre manière une influence sur la marche des affaires d’un intermédiaire d’assurance non lié.
+
+<sup>2</sup> L’art. 14c s’applique par analogie à la divulgation de conflits d’intérêts par les intermédiaires d’assurance.
+
+### Chapitre 2 Registre
+
+#### Art. 182d
+
+**Contenu**
+
+### (art. 42, al. 1, LSA)
+
+<sup>1</sup>
+
+Le registre contient les informations suivantes relatives aux intermédiaires d’assurance non liés:
+
+- a. le nom et l’adresse;
+- b. la nature juridique;
+- c. les branches d’assurance dans lesquelles l’intermédiaire est actif;
+- d. l’employeur, si l’intermédiaire conclu un contrat de travail;
+- e. la date de la première inscription au registre;
+- f. le numéro d’enregistrement.
+
+<sup>2</sup> La FINMA peut exiger d’autres informations concernant l’inscription au registre et la publication.
 
 #### Art. 183
 
 **Obligation d’enregistrement**
 
-<sup>1</sup>
+### (art. 42, al. 1, LSA)
 
-L’intermédiaire d’assurance n’est pas soumis à l’obligation de se faire inscrire dans le registre selon l’art. 43, al. 1, LSA:
+L’obligation de s’enregistrer vaut pour les intermédiaires d’assurance non liés en tant:
 
-- a. si ses commissions proviennent en majorité d’une ou de deux entreprises d’assurance au cours d’une année civile;
-- b. si les dédommagements ou autres avantages pécuniaires qu’il reçoit d’une entreprise d’assurance ne correspondent pas à la rémunération usuelle de l’intermédiation en assurance et sont ainsi de nature à entamer son indépendance;
-- c. si des accords de collaboration ou autres arrangements qu’il a conclus avec une entreprise d’assurance entament sa liberté de choisir une entreprise d’assurance;
-- d. s’il possède directement ou indirectement une participation s’élevant à plus de 10 % du capital d’une entreprise d’assurance, ou
-- e. s’il exerce une fonction dirigeante dans une entreprise d’assurance ou peut exercer d’une autre manière une influence sur la marche des affaires de l’entreprise d’assurance.
-
-<sup>2</sup>
-
-L’intermédiaire d’assurance n’est pas non plus soumis à l’obligation de se faire inscrire dans le registre selon l’art. 43, al. 1, LSA, si une entreprise d’assurance:
-
-- a. possède une participation de plus de 10 % dans le capital de son entreprise d’intermédiation en assurance;
-- b. exerce une fonction dirigeante dans son entreprise d’intermédiation ou peut exercer d’une autre manière une influence sur la marche des affaires de son entreprise d’intermédiation.
-
-<sup>3</sup> La FINMA peut déroger aux al. 1 et 2 en ce qui concerne l’obligation d’enregistrement, pour autant que des circonstances particulières le justifient.
+- a. qu’entreprises individuelles et sociétés de personnes;
+- b. que personnes morales;
+- c. que personnes physiques salariées.
 
 #### Art. 184
 
-**Qualification professionnelle**
+**Demande d’enregistrement**
 
-<sup>1</sup> L’intermédiaire démontre sa qualification professionnelle en réussissant un examen ou en présentant un titre équivalent.
+### (art. 41, al. 2, LSA)
 
-<sup>2</sup> La FINMA règle le contenu de l’examen. Elle peut édicter des prescriptions sur le déroulement de l’examen ou sur les motifs de dispense.
+<sup>1</sup> La demande d’enregistrement doit contenir les informations et documents cités à l’annexe 6.
 
-<sup>3</sup> La FINMA décide si un autre titre est équivalent.
+<sup>2</sup> La FINMA peut demander des informations et des documents supplémentaires dans la mesure où cela est requis pour vérifier la garantie du respect des obligations prévues par la LSA.
+
+<sup>3</sup> Elle peut édicter des dispositions d’exécution concernant l’enregistrement.
 
 #### Art. 185
 
-**Conditions personnelles**
+**Modification de faits**
 
-L’intermédiaire doit remplir les conditions personnelles suivantes:
+### (art. 41, al. 1, LSA)
 
-- a. il a l’exercice des droits civils;
-- b.[^185-1] l’extrait du casier judiciaire destiné aux particuliers ou, s’il a son domicile à l’étranger, une attestation équivalente des autorités étrangères ne comporte aucune condamnation pénale pour des faits qui ne sont pas compatibles avec l’activité d’intermédiaire;
-- c.[^185-2] il n’existe à son encontre aucun acte de défaut de biens lié à un comportement incompatible avec l’activité d’intermédiaire d’assurance.
+<sup>1</sup> Les intermédiaires d’assurance qui figurent au registre doivent communiquer à la FINMA toute modification des faits sur lesquels était fondé leur enregistrement.
 
-[^185-1]: Nouvelle teneur selon l’annexe 10 ch. II 31 de l’O du 19 oct. 2022 sur le casier judiciaire, en vigueur depuis le 23 janv. 2023 ([RO 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
-[^185-2]: Nouvelle teneur selon le ch. I de l’O du 25 mars 2015, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
+<sup>2</sup> Si les modifications sont d’une importance déterminante, l’autorisation de la FINMA doit être obtenue avant la poursuite de l’activité.
+
+<sup>3</sup> L’entreprise d’assurance avec laquelle un intermédiaire d’assurance a conclu une assurance responsabilité civile professionnelle au sens de l’art. 189, al. 1, doit informer immédiatement la FINMA lorsque cette assurance est suspendue ou supprimée. Il en va de même si la couverture est inférieure au minimum prescrit.
+
+<sup>4</sup> La même obligation incombe à la personne qui fournit une forme de garantie financière équivalente en faveur de l’intermédiaire conformément à l’art. 189, al. 7.
+
+### Chapitre 3 Conditions à remplir pour exercer l’activité d’intermédiaire
 
 #### Art. 186
 
-**Sûretés financières**
+**Siège, domicile ou succursale**
 
-<sup>1</sup> L’intermédiaire dispose d’un contrat d’assurance de responsabilité civile professionnelle pour couvrir les dommages patrimoniaux résultant d’une violation du devoir de diligence professionnelle. La somme d’assurance s’élève à au moins deux millions de francs pour tous les dommages d’une année.
+### (art. 41, al. 2, let. a, et 5 LSA)
 
-<sup>2</sup> Il est délié de cette obligation si un tiers a conclu une assurance de responsabilité civile professionnelle qui l’inclut dans la couverture.
+<sup>1</sup> Les intermédiaires d’assurance non liés qui agissent en leur propre nom doivent avoir leur siège, leur domicile ou une succursale en Suisse.
 
-<sup>3</sup> À la place d’un contrat d’assurance de responsabilité civile professionnelle, il peut fournir une sûreté financière équivalente. La FINMA décide dans chaque cas si la sûreté financière peut être considérée comme équivalente.
+<sup>2</sup> Pour les personnes physiques salariées au sens de l’art. 183, let. c, est réputé lieu du domicile le siège ou le lieu de la succursale de l’entreprise individuelle, de la société de personnes ou de la personne morale au nom de laquelle elles proposent ou concluent des contrats d’assurance.
 
-<sup>4</sup> La personne qui souhaite s’inscrire au registre en tant qu’intermédiaire aussi bien selon l’art. 43, al. 1, que selon l’art. 43, al. 2, LSA, doit prouver l’existence des sûretés financières requises pour les deux formes d’intermédiation.
+<sup>3</sup>
+
+La FINMA peut accorder des dérogations aux conditions fixées aux al. 1 et 2:
+
+- a. lorsque l’État de siège ou de domicile accorde la réciprocité aux intermédiaires d’assurance non liés ayant leur siège, leur domicile ou une succursale en Suisse;
+- b. lorsqu’il existe une réglementation internationale correspondante, ou
+- c. lorsque l’intermédiaire d’assurance ne fournit en Suisse que des contrats de réassurance.
 
 #### Art. 187
 
-**Registre**
+**Conditions à remplir sur le plan personnel et bonne réputation**
 
-<sup>1</sup>
+### (art. 41, al. 2, let. b, et 46, al. 1, let. b, LSA)
 
-Le registre contient les renseignements suivants concernant les intermédiaires d’assurance:
+<sup>1</sup> Les intermédiaires d’assurance doivent avoir l’exercice des droits civils.
 
-- a. leurs nom et adresse;
-- b. s’il s’agit d’une personne physique ou morale;
-- c. les entreprises d’assurance qu’ils représentent, au sens de l’art. 43, al. 2, LSA;
-- d. les branches d’assurance dans lesquelles ils exercent leur activité, en précisant le cas échéant les liens qu’ils entretiennent avec les entreprises d’assurance;
-- e. l’employeur, lorsqu’ils sont employés;
-- f. la date de la première inscription au registre;
-- g. le numéro d’enregistrement.
+<sup>2</sup>
 
-<sup>2</sup> L’intermédiaire peut s’inscrire au registre à la fois selon l’art. 43, al. 1, et selon l’art. 43, al. 2 LSA, mais pas pour la même branche d’assurance.
+Le critère de bonne réputation selon l’art. 41, al. 2, let. b, LSA n’est pas rempli notamment si les intermédiaires d’assurance, les personnes chargées de l’administration et de la gestion ou les personnes qui détiennent une participation directe ou indirecte de plus de 10% à l’intermédiaire d’assurance:
 
-<sup>3</sup> Les personnes morales exerçant une activité d’intermédiaire au sens de l’art. 43, al. 1, LSA s’inscrivent au registre en tant qu’intermédiaires. Elles doivent prouver qu’elles emploient suffisamment de personnes possédant les qualifications exigées et elles-mêmes inscrites au registre.
+- a. sont frappés d’une condamnation pénale pour actes incompatibles avec l’activité d’intermédiaire d’assurance dont l’inscription au casier judiciaire n’est pas radiée;
+- b. sont visés par des actes de défaut de bien liés à un comportement incompatible avec l’activité d’intermédiaire.
 
 #### Art. 188
 
-**Publicité du registre**
+**Exigences relatives à la gouvernance d’entreprise**
 
-Les données du registre sont publiques et peuvent être mises à disposition au moyen d’une banque de données électronique en ligne.
+### (art. 41, al. 2, let. b, et 46, al. 1, let. b, LSA)
+
+<sup>1</sup> Les intermédiaires d’assurance garantissent le respect des obligations découlant de la LSA par des prescriptions internes et par une organisation opérationnelle appropriée.
+
+<sup>2</sup>
+
+Ils doivent notamment respecter les principes de la gouvernance d’entreprise suivants, en tenant compte d’une part des risques, d’autre part de leur taille, de leur complexité, de leur forme juridique et des prestations d’intermédiation en assurance qu’ils fournissent:
+
+- a. attribution et documentation claire des tâches, des compétences et des voies hiérarchiques;
+- b. séparation claire entre activités opérationnelles et activités de contrôle;
+- c. documentation des décisions significatives et de la mise en œuvre de l’obligation d’information prévue à l’art. 45 LSA;
+- d. détermination des principes, processus et structures destinés à assurer le respect des prescriptions légales, réglementaires et internes;
+- e. détermination des principes relatifs aux comportements attendus de la part des salariés et aux compétences et connaissances requises pour leur activité conformément à l’art. 43 LSA;
+- f. mise en place de mécanismes de contrôle appropriés, également en lien avec les tiers mandatés.
 
 #### Art. 189
 
-**Modification de faits déterminants pour l’enregistrement**
+**Garanties financières**
 
-<sup>1</sup>
+### (art. 41, al. 2, let. d, et 4, et 46, al. 1, let. b, LSA)
 
-Les intermédiaires inscrits communiquent les modifications suivantes à la FINMA, dans les 15 jours à compter de celui où ils en ont connaissance:
+<sup>1</sup> Les intermédiaires d’assurance doivent disposer d’une assurance responsabilité civile professionnelle pour les dommages matériels afin de couvrir leur responsabilité civile découlant d’une violation de leur obligation de diligence professionnelle.
 
-- a. un changement de nom;
-- b. la suppression d’une sûreté financière ou son abaissement à un niveau inférieur à la garantie minimum selon l’art. 186;
-- c. le remplacement d’une assurance de responsabilité civile par une sûreté financière équivalente ou vice-versa;
-- d. la fin de l’activité d’intermédiation;
-- e. le passage d’une activité d’intermédiation au sens de l’art. 43, al. 1, LSA à une activité d’intermédiaire au sens de l’art. 43, al. 2, LSA, ou vice-versa;
-- f. le changement de l’entreprise d’assurance pour qui l’intermédiaire au sens de l’art. 43, al. 2, LSA conclut des contrats;
-- g. le changement de l’entreprise d’intermédiation pour laquelle l’intermédiaire exerce son activité;
-- h. un changement d’adresse;
-- i.[^189-1] une condamnation pénale inscrite au casier judiciaire informatique VOSTRA pour l’une des infractions contre le patrimoine visées aux art. 137 à 172<sup>ter</sup> du code pénal[^189-2];
-- k.[^189-3] un acte de défaut de biens.
+<sup>2</sup> Cette obligation n’existe pas lorsqu’un tiers a conclu une assurance responsabilité civile professionnelle dont la couverture inclut l’intermédiaire d’assurance.
 
-<sup>2</sup> L’entreprise d’assurance avec laquelle l’intermédiaire a conclu une assurance de responsabilité civile professionnelle en vertu de l’art. 186, al. 1, doit informer immédiatement la FINMA lorsque cette assurance est suspendue ou supprimée. Il en est de même lorsque la couverture descend en dessous du minimum prescrit.
+<sup>3</sup>
 
-<sup>3</sup> La même obligation incombe à la personne qui fournit une forme de garantie financière équivalente en faveur de l’intermédiaire.
+Le montant de la couverture disponible pour tous les sinistres d’une année doit s’élever à au moins 2 millions de francs. Pour les intermédiaires d’assurance qui emploient des salariés assurant l’intermédiation de contrats d’assurance, le montant de la couverture correspond au minimum aux montants suivants:
 
-[^189-1]: Introduite par le ch. I de l’O du 25 mars 2015 ([RO 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)). Nouvelle teneur selon l’annexe 10 ch. II 31 de l’O du 19 oct. 2022 sur le casier judiciaire, en vigueur depuis le 23 janv. 2023 ([RO 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
-[^189-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^189-3]: Introduite par le ch. I de l’O du 25 mars 2015, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
+- a. 3 millions de francs pour deux à quatre salariés;
+- b. 4 millions de francs pour cinq à huit salariés;
+- c. 5 millions de francs pour plus de huit salariés.
+
+<sup>4</sup> Le montant de la couverture doit être adapté conformément à l’al. 3, let. a à c, si l’utilisation de systèmes informatiques ou d’autres supports dans l’intermédiation en assurance entraîne une augmentation du nombre des contrats d’assurance qui correspondrait à l’augmentation du nombre de salariés nécessaires.
+
+<sup>5</sup> L’assurance responsabilité civile professionnelle doit être conclue auprès d’une entreprise d’assurance soumise à la LSA et comporter un délai de résiliation ordinaire d’au moins trois mois.
+
+<sup>6</sup>
+
+Elle doit également couvrir les sinistres invoqués dans les cinq ans suivant l’expiration du contrat d’assurance:
+
+- a. s’ils ont été provoqués pendant sa durée de validité, et
+- b. pour autant qu’il n’existe aucune obligation de prestation équivalente prévue par un autre contrat d’assurance.
+
+<sup>7</sup> À la place d’une assurance responsabilité civile professionnelle, l’intermédiaire d’assurance peut fournir une garantie financière équivalente. La FINMA se prononce au cas par cas sur les autres garanties financières pouvant être considérées comme équivalentes.
+
+### Chapitre 4 Formation initiale et formation continue
 
 #### Art. 190
 
-**Devoir d’information**
+**Normes minimales**
 
-Si des changements surviennent dans les informations données aux assurés selon l’art. 45, al. 1, LSA, l’intermédiaire doit renseigner ses clients lors du prochain contact qu’il a avec eux.
+### (art. 43, al. 1 et 3, LSA)
+
+<sup>1</sup> Les normes minimales applicables à la formation initiale et à la formation continue des intermédiaires d’assurance doivent être conçues de manière à permettre l’exercice professionnel de l’activité et à garantir la protection des assurés.
+
+<sup>2</sup>
+
+Elles doivent couvrir les exigences suivantes relatives aux intermédiaires d’assurance:
+
+- a.
+
+  les compétences, notamment dans les domaines:
+
+  - 1\. de l’acquisition de clientèle,
+  - 2\. du conseil à la clientèle,
+  - 3\. de l’assistance de la clientèle;
+
+- b. les connaissances de base du secteur de l’assurance;
+- c.
+
+  selon l’activité, des connaissances spécifiques dans les domaines:
+
+  - 1\. des assurances de choses, de personnes et du patrimoine,
+  - 2\. des bases juridiques et des prescriptions réglementaires,
+  - 3\. des produits.
+
+<sup>3</sup> La formation initiale et la formation continue doivent être attestées par la réussite à un examen ou par un autre certificat équivalent. La formation continue peut également être attestée par des activités d’apprentissage documentées.
+
+#### Art. 190a
+
+**Respect des normes minimales**
+
+### (art. 41, al. 2, let. c, et 43, al. 2, LSA)
+
+<sup>1</sup> Les organisations de branche dont les normes minimales sont reconnues par la FINMA doivent contrôler le respect de ces normes.
+
+<sup>2</sup> Elles peuvent charger des tiers du contrôle.
+
+<sup>3</sup> Elles doivent faire un signalement à la FINMA lorsqu’un intermédiaire d’assurance ne respecte plus les normes minimales pour la formation continue.
+
+<sup>4</sup> La FINMA édicte des dispositions d’exécution relatives à ce signalement.
+
+### Chapitre 5 Rapports et obligation d’information
+
+#### Art. 190b
+
+**Rapports**
+
+### (art. 41 et 46, al. 1, let. b et f, LSA)
+
+<sup>1</sup> Chaque année, la FINMA recueille auprès des intermédiaires d’assurance qui figurent au registre les principaux indicateurs et les informations essentielles qui sont nécessaires à la surveillance de leur activité.
+
+<sup>2</sup> Pour les personnes physiques salariées visées à l’art. 183, let. c, elle collecte les données et les informations par l’intermédiaire de l’entreprise individuelle, de la société de personnes ou de la personne morale au nom de laquelle elles proposent ou concluent des contrats d’assurance.
+
+<sup>3</sup>
+
+Sont nécessaires à la surveillance les indicateurs et les informations qui permettent à la FINMA:
+
+- a. de vérifier si les intermédiaires d’assurance qui figurent au registre respectent les conditions d’enregistrement;
+- b. de vérifier si les intermédiaires d’assurance qui figurent au registre jouissent d’une bonne réputation et présentent toutes les garanties de respect des obligations découlant de la LSA.
+
+<sup>4</sup> La nature et l’étendue des indicateurs et des informations collectés par la FINMA dépendent de la taille et du type d’activité, ainsi que des risques qui y sont liés.
+
+<sup>5</sup> La FINMA peut édicter des dispositions d’exécution techniques relatives au rapport.
+
+#### Art. 190c
+
+**Obligation d’information**
+
+### (art. 45, al. 1, LSA)
+
+Lorsque les informations prévues à l’art. 45, al. 1, LSA sont modifiées, l’intermédiaire d’assurance est tenu d’en informer les clients lors de son prochain contact avec eux.
 
 ## Titre 8 Groupes et conglomérats d’assurance
 
@@ -2528,11 +3891,19 @@ Les transactions internes sont les opérations par lesquelles des entreprises su
 
 **But et contenu**[^195-1]
 
+### (art. 14 et 24 LSA)
+
+[^195-2]
+
 <sup>1</sup> Les art. 96, 96*a*, 98 et 98*a* s’appliquent par analogie au but et au contenu de la gestion des risques.
 
 <sup>2</sup> Le groupe d’assurance assure, au niveau du groupe et sous sa responsabilité globale, des fonctions de gestion des risques et des fonctions de compliance distinctes.
 
+<sup>3</sup> Les groupes d’assurance doivent assumer, au niveau du groupe, une fonction d’actuaire incluant des responsabilités et des tâches à l’échelle de l’ensemble du groupe par analogie avec l’art. 24 LSA.[^195-3]
+
 [^195-1]: Nouvelle teneur selon le ch. I de l’O du 25 mars 2015, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
+[^195-2]: Nouvelle teneur selon le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^195-3]: Introduit par le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 #### Art. 196
 
@@ -2548,21 +3919,93 @@ Les transactions internes sont les opérations par lesquelles des entreprises su
 
 [^197-1]: Abrogé par le ch. I de l’O du 25 mars 2015, avec effet au 1<sup>er</sup> juil. 2015 ([RO 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
 
+### Section 2*a* Instruments de surveillance des groupes
+
+[^tit8-chap1-sec2a-1]
+
+[^tit8-chap1-sec2a-1]: Introduite par le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+
+#### Art. 197a
+
+**Établissement du plan de liquidation**
+
+### (art. 67 LSA)
+
+La FINMA peut établir un plan de dissolution:
+
+- a. lorsque l’insolvabilité d’un groupe d’assurance serait susceptible de menacer le système financier ou l’économie réelle, ou que
+- b.
+
+  lorsque les caractéristiques suivantes, en particulier, d’un groupe d’assurance le justifient:
+
+  - 1\. la taille,
+  - 2\. la complexité,
+  - 3\. la cohésion,
+  - 4\. le profil de risque.
+
+#### Art. 197b
+
+**Contrôle du plan de liquidation**
+
+### (art. 67 LSA)
+
+La FINMA contrôle régulièrement le plan de liquidation et se procure les informations requises à cet effet auprès de l’entreprise d’assurance.
+
+#### Art. 197c
+
+**Rapports**
+
+### (art. 67 LSA)
+
+<sup>1</sup> La FINMA renseigne chaque année sur l’état des plans de liquidation.
+
+<sup>2</sup> Elle commence à établir les rapports individuels au plus tôt deux ans après la décision de mettre sur pied un plan de liquidation.
+
+#### Art. 197d
+
+**Système d’information à l’échelle du groupe**
+
+### (art. 67 LSA)
+
+Le groupe d’assurance doit disposer d’un système d’information qui fournisse en temps opportun à la FINMA des informations jusqu’à l’échelon des unités juridiques aux fins de l’établissement des plans de liquidation et de l’adoption de mesures conformément à l’art. 51*a* LSA.
+
+#### Art. 197e
+
+**Groupes d’assurance actifs à l’international**
+
+### (art. 67 LSA)
+
+La FINMA désigne les groupes d’assurance réputés exercer une activité internationale et publie leurs noms. Elle s’appuie pour cela sur les critères découlant des *Insurance Core Principles and Common Framework for the Supervision of Internationally Active Insurance Groups* de novembre 2019[^197e-1] élaborés par l’Association internationale des contrôleurs d’assurance.
+
+[^197e-1]: Consultables à l’adresse [www.iaisweb.org](http://www.iaisweb.org)
+
 ### Section 3 Solvabilité
 
 #### Art. 198
 
-**Évaluation et compte rendu**[^198-1]
+**Calcul et rapport**[^198-1]
 
-L’évaluation de la solvabilité des groupes d’assurance et le compte rendu correspondant s’effectuent par analogie avec les art. 41 à 53*a* relatifs au test suisse de solvabilité (SST de groupe).
+### (art. 69 LSA)
 
-[^198-1]: Nouvelle teneur selon le ch. I de l’O du 25 mars 2015, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
+<sup>1</sup> Pour évaluer leur solvabilité et établir les rapports correspondants (SST de groupe), les groupes d’assurance s’appuient par analogie sur les art. 21 à 53*b* relatifs au SST.
+
+<sup>2</sup> Ils doivent exposer la manière dont leur modèle de groupe est intégré dans la gestion des risques afin de préserver la stabilité financière du groupe et les intérêts des assurés.
+
+<sup>3</sup> Les transactions qui ont pour conséquence directe que la solvabilité du groupe n’est plus garantie doivent être communiquées à la FINMA.
+
+[^198-1]: Nouvelle teneur selon le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 #### Art. 198a
 
 **SST de groupe consolidé**[^198a-1]
 
-<sup>1</sup> Le groupe d’assurance évalue sa solvabilité au moyen d’un SST de groupe consolidé. Ce dernier est fondé sur un bilan consolidé proche du marché pour déterminer le capital porteur de risques et le capital cible.
+### (art. 69 LSA)
+
+[^198a-2]
+
+<sup>1</sup> Les groupes d’assurance doivent déterminer leur solvabilité au moyen d’un SST de groupe consolidé. Dans ce cadre, le capital porteur de risque déterminant et le capital cible sont définis sur la base d’un bilan consolidé conforme au marché (bilan consolidé).[^198a-3]
+
+<sup>1bis</sup> Le groupe d’assurance remplit le SST de groupe consolidé lorsque la solvabilité selon l’art. 9, al. 2, LSA est suffisante sur la base du bilan consolidé.[^198a-4]
 
 <sup>2</sup>
 
@@ -2572,10 +4015,17 @@ La FINMA peut:
 - b. ordonner d’augmenter le capital cible ou de réduire le capital porteur de risques si la fongibilité est fortement restreinte et que le modèle n’en tient pas suffisamment compte.
 
 [^198a-1]: Introduit par le ch. I de l’O du 25 mars 2015, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
+[^198a-2]: Nouvelle teneur selon le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^198a-3]: Nouvelle teneur selon le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^198a-4]: Introduit par le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 #### Art. 198b
 
 **SST de groupe granulaire**[^198b-1]
+
+### (art. 69 LSA)
+
+[^198b-2]
 
 <sup>1</sup> Le groupe d’assurance peut, avec l’approbation de la FINMA, évaluer sa solvabilité au moyen d’un SST de groupe granulaire.
 
@@ -2585,11 +4035,19 @@ La FINMA peut:
 
 <sup>4</sup> La FINMA peut accorder à un groupe d’assurance des simplifications concernant le SST de groupe granulaire, par exemple le regroupement de plusieurs entités juridiques dans une entité virtuelle (*cluster*).
 
+<sup>5</sup> Le groupe d’assurance remplit le SST de groupe granulaire lorsque la solvabilité selon l’art. 9, al. 2, LSA est suffisante pour chaque unité granulaire ne faisant pas partie d’un cluster ainsi que pour chaque cluster.[^198b-3]
+
 [^198b-1]: Introduit par le ch. I de l’O du 25 mars 2015, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
+[^198b-2]: Nouvelle teneur selon le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^198b-3]: Introduit par le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 #### Art. 198c
 
 **Respect des exigences**[^198c-1]
+
+### (art. 69 LSA)
+
+[^198c-2]
 
 Un groupe d’assurance répond aux exigences en matière de solvabilité:
 
@@ -2597,6 +4055,31 @@ Un groupe d’assurance répond aux exigences en matière de solvabilité:
 - b. s’il satisfait aux exigences du SST de groupe granulaire approuvé par la FINMA.
 
 [^198c-1]: Introduit par le ch. I de l’O du 25 mars 2015, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
+[^198c-2]: Nouvelle teneur selon le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+
+#### Art. 198d
+
+**Instruments de capital amortisseurs de risque**[^198d-1]
+
+### (art. 69 LSA)
+
+<sup>1</sup>
+
+Dans le SST de groupe consolidé, les instruments de capital amortisseurs de risque peuvent, avec l’approbation de la FINMA, soit être imputés au capital porteur de risque, soit être pris en compte dans le capital cible. Les conditions suivantes au moins doivent être remplies:
+
+- a. les instruments de capital amortisseurs de risque remplissent les exigences prévues à l’art. 37 eu égard aux sociétés émettrices du groupe;
+- b. les instruments de capital amortisseurs de risque ne sont pas garantis par les valeurs patrimoniales de la société mère ou d’autres sociétés du groupe;
+- c. les événements *trigger* au sens de l’art. 37, al. 1, let. c, se rapportent également au quotient SST découlant du SST de groupe consolidé ainsi qu’au risque d’insolvabilité de la société mère du groupe;
+- d. si la société mère ou une autre société du groupe fournissent, dans le cadre des instruments de capital amortisseurs de risque, des garanties, notamment celles destinées à financer le donneur de l’instrument de capital amortisseur de risque, les conditions énoncées aux let. a à c s’appliquent par analogie aux sociétés garantes et aux garanties; le risque d’éventuels doubles paiements est limité de manière appropriée;
+- e. des dispositions appropriées sont prises pour que l’effet d’absorption des risques soit préservé du point de vue du groupe.
+
+<sup>2</sup> Les créances découlant de garanties liées à des instruments de capital amortisseurs de risque approuvés par la FINMA ne sont pas prises en compte lors de la constatation du surendettement de la société mère suisse qui se porte garante ou d’une autre société suisse du groupe qui se porte garante, si les garanties remplissent par analogie les conditions énumérées à l’art. 51*a*, al. 4, let. a à c, LSA.
+
+<sup>3</sup> L’art. 37, al. 4, s’applique par analogie aux instruments de capital amortisseurs de risque au sens du présent article.
+
+<sup>4</sup> La FINMA peut régler les critères d’imputation et de prise en compte des instruments de capital amortisseurs de risque, notamment en ce qui concerne l’évaluation de la qualité des instruments, leur applicabilité juridique, le caractère fongible du capital et le risque de défaillance du fournisseur de services. Dans le cas particulier, elle peut définir des exigences supplémentaires.
+
+[^198d-1]: Introduit par le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 #### Art. 199 à 202
 
@@ -2608,11 +4091,11 @@ Un groupe d’assurance répond aux exigences en matière de solvabilité:
 
 **Vérification externe**
 
-<sup>1</sup> Le groupe d’assurance mandate une société d’audit[^203-1]. Celui-ci vérifie annuellement que le groupe d’assurance respecte les obligations contenues dans la présente ordonnance et qu’il applique les processus de contrôle de risques décrits dans la documentation visée à l’art. 196. Il rédige à ce sujet un rapport à l’attention de la FINMA.
+<sup>1</sup> Le groupe d’assurance doit mandater une société d’audit pour vérifier chaque année si le groupe d’assurance respecte les obligations prévues par la présente ordonnance. La société d’audit rédige un rapport à l’intention de la FINMA.[^203-1]
 
 <sup>2</sup> La FINMA fixe des directives pour la vérification. Elle peut autoriser qu’une tierce personne, qualifiée et indépendante, effectue la vérification.
 
-[^203-1]: Nouvelle expression selon l’annexe ch. 11 de l’O du 15 oct. 2008 sur les audits des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5363](https://fedlex.data.admin.ch/eli/oc/2008/750)).
+[^203-1]: Nouvelle teneur selon le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 #### Art. 203a
 
@@ -2622,15 +4105,13 @@ L’art. 111*a* s’applique par analogie aux groupes d’assurance. Pour décri
 
 [^203a-1]: Introduit par le ch. I de l’O du 25 mars 2015, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
 
-### Section 4 Faillite
-
-[^tit8-chap1-sec4-1]
-
-[^tit8-chap1-sec4-1]: Introduit par l’annexe 1 ch. 14 de l’O du 25 nov. 2015 sur l’infrastructure des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
+### Section 4 …
 
 #### Art. 203b
 
-Les fonctions d’une société du groupe sont significatives pour les activités soumises à autorisation lorsqu’elles sont nécessaires à la poursuite de processus opérationnels importants, notamment dans la sélection des risques, la gestion du portefeuille, la liquidation des sinistres et la comptabilité, les ressources humaines, les technologies de l’information ainsi que le placement des capitaux.
+[^203b-1]
+
+[^203b-1]: Introduit par l’annexe 1 ch. 14 de l’O du 25 nov. 2015 sur l’infrastructure des marchés financiers ([RO 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)). Abrogé par le ch. I de l’O du 2 juin 2023, avec effet au 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 ### Chapitre 2 Conglomérats d’assurance
 
@@ -2660,11 +4141,9 @@ Les art. 191 à 203*a* relatifs aux groupes d’assurance s’appliquent par ana
 
 #### Art. 206a
 
-**Faillite**[^206a-1]
+[^206a-1]
 
-Les fonctions d’une société du conglomérat sont significatives pour les activités soumises à autorisation lorsqu’elles sont nécessaires à la poursuite de processus opérationnels importants, notamment dans la sélection des risques, la gestion du portefeuille, la liquidation des sinistres et la comptabilité, les ressources humaines, les technologies de l’information ainsi que le placement des capitaux.
-
-[^206a-1]: Introduit par l’annexe 1 ch. 14 de l’O du 25 nov. 2015 sur l’infrastructure des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
+[^206a-1]: Introduit par l’annexe 1 ch. 14 de l’O du 25 nov. 2015 sur l’infrastructure des marchés financiers ([RO 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)). Abrogé par le ch. I de l’O du 2 juin 2023, avec effet au 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 ## Titre 9 …
 
@@ -2744,6 +4223,34 @@ Concernant le capital cible (art. 41 à 46) et le capital porteur de risques (ar
 <sup>3</sup> La FINMA décide de la date à laquelle le premier rapport sur la situation financière doit être publié conformément à l’art. 111*a* et à laquelle la structure minimale au sens de l’art. 111*b* doit être appliquée pour la première fois.
 
 [^216b-1]: Introduit par le ch. I de l’O du 25 mars 2015, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
+
+#### Art. 216c
+
+**Disposition transitoire relative à la modification du 2 juin 2023**[^216c-1]
+
+<sup>1</sup> Les instruments de capital amortisseurs de risque qui ont été approuvés par la FINMA conformément à l’ancien droit pour leur imputation au capital porteur de risque ou leur prise en compte dans le capital cible et qui ne remplissent pas les nouvelles conditions prévues à l’art. 37 relatives au Tier 2 pour la prise en compte réglementaire, peuvent être imputés en tant qu’instruments de capital amortisseurs de risque de Tier 2 jusqu’au remboursement, mais au maximum jusqu’à dix ans après l’entrée en vigueur de cette modification. La FINMA peut prolonger ce délai si les circonstances le justifient.
+
+<sup>2</sup> La disposition de l’art. 31, al. 5 peut également être appliquée aux succursales étrangères jusqu’au 31 décembre 2027 si l’entreprise d’assurance peut démontrer qu’il existe vis-à-vis des assurés étrangers une limitation de responsabilité comparable à celle qui existe pour une filiale.
+
+<sup>3</sup>
+
+Pendant trois ans à compter de l’entrée en vigueur de la présente modification, les entreprises d’assurance peuvent également attribuer à la fortune liée les biens qui pouvaient précédemment être attribués à celle-ci mais qui ne relèvent pas des biens admissibles selon l’art. 79, al. 2, aux conditions suivantes:
+
+- a. les biens remplissent les exigences de l’art. 76;
+- b. l’entreprise d’assurance a déjà investi, de façon admissible et dans une mesure comparable, dans des biens de cette nature avant l’entrée en vigueur;
+- c. dans la mesure où les biens ont été attribués à la fortune liée après l’entrée en vigueur, l’entreprise d’assurance a formulé, conformément à l’art. 79, al. 1, une demande qui englobe ces biens et qui n’est ni retirée ni rejetée par la FINMA.
+
+<sup>4</sup> La FINMA peut prolonger les délais transitoires lorsque cela est nécessaire pour préserver la confiance des entreprises d’assurance lors de décisions d’investissement prises avant l’entrée en vigueur de cette modification.
+
+<sup>5</sup> Les intermédiaires d’assurance non liés déjà inscrits au registre selon l’ancien droit au moment de l’entrée en vigueur de cette modification doivent fournir à la FINMA les informations et documents relatifs à la demande d’enregistrement selon l’art. 184 au plus tard six mois après l’entrée en vigueur de la présente ordonnance.
+
+<sup>6</sup> Si, au moment de l’entrée en vigueur de la modification du 2 juin 2023, une réglementation internationale prévoyant des dérogations à l’art. 186, al. 1 et 2, est prévue, la FINMA peut accorder une dérogation temporaire à l’art. 186, al. 1 et 2, dans le domaine d’application de la convention internationale concernée.
+
+<sup>7</sup> Les intermédiaires d’assurance inscrits au registre de la FINMA selon l’ancien droit au moment de l’entrée en vigueur de la modification du 2 juin 2023 doivent remplir les exigences en matière de formation continue prévues à l’art. 190 dans les deux ans suivant l’entrée en vigueur de la modification du 2 juin 2023, mais au plus tard deux ans après la reconnaissance de la norme minimale par la FINMA.
+
+<sup>8</sup> Les entreprises d’assurance doivent fournir des informations spécifiques aux produits dans le cadre de l’assurance sur la vie non qualifiée (art. 129*a*) et de l’assurance sur la vie qualifiée (art. 129*b*) un an après l’entrée en vigueur de la présente ordonnance.
+
+[^216c-1]: Introduit par le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 #### Art. 217
 
@@ -2910,92 +4417,125 @@ Annexe 1[^t-1]
 
 Annexe 2[^t-2]
 
-(art. 41, al. 1)
+(art. 1*b*, al. 2)
 
-## Expected Shortfall
+## Catégorisation des entreprises d’assurance
 
-[^t-2]: Nouvelle teneur selon le ch. II al. 2 de l’O du 25 mars 2015, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
-
-### 1. Définitions
-
-- ES Expected Shortfall
-- E Espérance mathématique
-- X Variable stochastique pour la modélisation de la perte dans le calcul concerné (pertes précédées du signe positif [+])
-- P Mesure de probabilité
-- α Probabilité de survenance (où *α* ≪ 1)
-- q<sub>α</sub> Seuil de la probabilité de survenance α
-
-### 2. Seuil qα
-
-Le seuil q<sub>α</sub> de la probabilité de survenance α est le plus grand minorant de tous les nombres réels x pour lesquels:
+[^t-2]: Nouvelle teneur selon le ch. II al. 1 de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 <table>
-<tr><td>P[X &gt; x] ≤ α.</td><td>(1)</td></tr>
+<tr><th>Catégorie</th><th>Total du bilan en milliards de francs</th></tr>
+<tr><td>1</td><td>&gt; 250</td></tr>
+<tr><td>2</td><td>&gt; 50</td></tr>
+<tr><td>3</td><td>&gt; 1</td></tr>
+<tr><td>4</td><td>&gt; 0,1</td></tr>
+<tr><td>5</td><td>≤0,1</td></tr>
 </table>
-
-### 3. Expected Shortfall dans le cas particulier d’une fonction de répartition continue de X
-
-L’Expected Shortfall de X avec la probabilité de survenance α est l’espérance mathématique de X si X est plus grand que qα:
-
-<table>
-<tr><td>ES[X] = E[X | X &gt; q<sub>α</sub>].</td><td>(2)</td></tr>
-</table>
-
-### 4. Expected Shortfall dans le cas général
-
-L’Expected Shortfall de X avec la probabilité de survenance α est donné par l’égalité:
-
-<table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/735/20230123/fr/xml/image/image1.png)</td><td>(3)</td></tr>
-</table>
-
-Le cas avec une répartition continue est compris dans le cas général. Dans le cas avec répartition continue, les formules (2) et (3) sont confondues.
 
 Annexe 3[^t-3]
 
-(art. 48, al. 1)
+(art. 36)
 
-## Évaluation proche du marché
+## Expected shortfall
 
-[^t-3]: Mise à jour selon le ch. I de l’O du 30 nov. 2012 ([RO 2012 7263](https://fedlex.data.admin.ch/eli/oc/2012/884)) et le ch. II al. 1 de l’O du 25 mars 2015, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
+[^t-3]: Nouvelle teneur selon le ch. II al. 1 de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
-### 1. Définition
+Pour une probabilité de survenance *u* ∈ (0,1), le *u* – quantile *q**<sub>u</sub>* *(X)* d’une variable aléatoire *X* (signe négatif pour les pertes) avec la mesure de probabilité *P* est défini comme
 
-<sup>1</sup> Par valeur proche du marché, on entend la valeur de marché si elle existe («*Marking-to-Market*»).
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/735/20240101/fr/xml/image/image1.png)
 
-<sup>2</sup> S’il n’y a pas de valeur du marché disponible, la valeur proche du marché est déterminée sur la base d’un modèle correspondant («*Marking-to-Model*»).
+L’expected shortfall *ES**<sub>α</sub>* *[X]* d’une variable aléatoire *X* pour une probabilité de survenance *α* ∈ (0,1) (typiquement faible) est défini comme
 
-### 2. Actifs
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/735/20240101/fr/xml/image/image2.png)
 
-<sup>1</sup> Lorsqu’il existe une valeur de marché sûre pour les actifs, celle-ci sert de base d’évaluation. Entrent notamment dans cette catégorie les espèces, les emprunts d’État et les actions cotées en bourse.
+Si la répartition de *X* est continue, l’expected shortfall *ES**<sub>α</sub>* *[X]* est donné par l’espérance mathématique conditionnelle
 
-<sup>2</sup> La FINMA règle l’évaluation des actifs dont la valeur de marché ne peut être que difficilement déterminée. La valeur du marché est éventuellement déduite des modèles se rapportant à des instruments financiers analogues, mais cotés en bourse (combinaison de «*Marking-to-Market*» et de «*Marking-to-Model*»).
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/735/20240101/fr/xml/image/image3.png)
 
-<sup>3</sup> Des modèles ne peuvent être utilisés pour déterminer la valeur proche du marché que:
+Annexe 4[^t-4]
 
-- a. s’ils sont reconnus actuariellement;
-- b. s’ils reposent dans toute la mesure possible sur des grandeurs du marché observées;
-- c. s’ils sont intégrés dans les processus internes de l’entreprise d’assurance.
+(art. 129*f*)
 
-### 3. Capital étranger
+[^t-4]: Introduite par le ch. II al. 2 de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
-<sup>1</sup> La valeur proche du marché du capital étranger est égale à la somme de la valeur proche du marché des engagements d’assurance et de la valeur proche du marché des autres engagements. Cette dernière valeur doit cependant être corrigée de l’effet de sa propre solvabilité lorsqu’il s’agit d’instruments qui ne peuvent être pris en compte en tant que capital complémentaire dans le capital porteur de risques.
+Annexe 5[^t-5]
 
-<sup>2</sup> La valeur proche du marché des engagements d’assurance se compose de la valeur estimative la meilleure possible des engagements d’assurance et du montant minimum selon l’art. 41, al. 3. La valeur estimative la meilleure possible des engagements d’assurance est l’espérance mathématique des flux de paiements futurs garantis contractuellement, escomptés avec une courbe de l’intérêt sans risque en tenant compte des principes suivants:
+(art. 129*l*)
 
-- a.
+[^t-5]: Introduite par le ch. II al. 2 de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
-  *exhaustivité:* tous les engagements sont évalués, en particulier les garanties et les options significatives intégrées dans les contrats d’assurance, les points suivants devant être observés:
+Annexe 6[^t-6]
 
-  - 1\. les options financières sont évaluées selon des méthodes de mathématiques financières reconnues, en tenant compte des particularités des options comme la durée ou du comportement des assurés,
-  - 2\. pour l’évaluation d’options intégrées dans les produits, comme les annulations, les options de rachat, les augmentations de couverture garanties et les transformations de contrats avec tarif garanti, il ne faut pas se fonder exclusivement sur des preneurs d’assurance rationnels, mais il est possible de recourir à des données empiriques (par ex. probabilités d’exercice estimées) pour réaliser les modèles d’exercice des options. Dans tous les cas, il faut cependant prendre en considération la dépendance du comportement des assurés à l’égard des marchés financiers,
-  - 3\. les rentes de bonus et d’excédents attribuées, les parts de bonus final en cas de vie ou en raison d’un cours des sinistres favorable sont réservées de manière proche du marché, en tenant compte de façon appropriée du caractère obligatoire plus ou moins grand de leur garantie,
-  - 4\. les prestations d’excédents futures, non garanties, ainsi que les impôts d’entreprise, ne sont pas pris en considération,
-  - 5\. les options de réassurance, comme les clauses de participation au bénéfice, sont prises en considération de manière appropriée.
+(art. 184)
 
-- Pour les sinistres dont le montant n’est pas encore connu, on constitue une provision à hauteur de la valeur escomptée du montant du sinistre. Pour les sinistres déjà survenus mais non encore annoncés (IBNyR), une provision appropriée est constituée;
-- b. *principe de la valeur estimative la meilleure possible:* l’évaluation ne comprend pas de suppléments implicites ou explicites de sécurité, de fluctuations ou autres suppléments pour le risque d’assurance, mais se rapporte exclusivement à la valeur attendue des engagements. Les suppléments pour risque d’assurance vont exclusivement dans le capital cible. Par exemple, on fait les calculs avec des bases biométriques de deuxième ordre ou on incorpore les provisions pour sinistres en cours dans le renchérissement du coût des sinistres;
-- c. *actualité:* l’évaluation est faite sur la base des informations disponibles les plus récentes;
-- d. *transparence:* les modèles, les paramètres et les écarts par rapport aux bases reconnues sont exposés explicitement et soumis à la FINMA.
+## Informations et documents à fournir pour la demande d’enregistrement
 
-<sup>3</sup> Durant une période exceptionnelle de taux bas, la FINMA peut aussi autoriser des courbes de l’intérêt avec risque pour l’escompte des engagements en cours, en tenant compte des principes énumérés à l’al. 2.
+[^t-6]: Introduite par le ch. II al. 2 de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+
+### 1. Entreprises individuelles et sociétés de personnes
+
+- 1\.1 Extrait du registre du commerce et numéro IDE, s’il est disponible
+- 1\.2 Description des activités commerciales et du type d’assurance fourni, y compris les branches d’assurance et, le cas échéant, la structure du groupe
+- 1\.3 Instructions internes, relatives notamment à la gestion, qui garantissent le respect des obligations conformément à l’art. 188
+- 1\.4 Déclaration attestant de l’absence de comportements ou de circonstances prohibés au sens de l’art. 182*c*
+- 1\.5 Pièce d’identité, numéro AVS et curriculum vitae pour les personnes chargées de l’administration ou de la gestion
+- 1\.6 Extrait du casier judiciaire ou, pour les personnes domiciliées à l’étranger, document équivalent de l’autorité compétente et datant de moins de trois mois, pour les personnes chargées de l’administration ou de la gestion
+- 1\.7 Extrait du registre des poursuites ou, pour les personnes domiciliées à l’étranger, un document équivalent de l’autorité compétente et datant de moins de trois mois, pour les personnes chargées de l’administration ou de la gestion
+- 1\.8
+
+  Informations sur toutes les procédures civiles, pénales, administratives, de surveillance, disciplinaires, de poursuites ou de faillite en suspens ou achevées en Suisse et à l’étranger, contre:
+
+  - a. l’entreprise individuelle ou la société de personnes;
+  - b. les personnes chargées de l’administration et de la gestion;
+  - c. les entreprises dans lesquelles les personnes chargées de l’administration ou de la gestion ont occupé ou occupent une position leur permettant d’exercer une influence sur les activités de l’entreprise;
+  - d. les personnes morales ou physiques qui détiennent plus de 10 % du capital ou des droits de vote dans la société de personnes
+
+- 1\.9 Informations sur les participations de l’entreprise individuelle ou de la société de personnes dans des entreprises supérieures à 10 % du capital ou des droits de vote
+- 1\.10 Informations sur d’autres mandats, activités accessoires et contrats de travail des personnes chargées de l’administration et de la gestion
+- 1\.11 Confirmation que tous les employés et toutes les personnes chargées de l’administration et de la gestion qui agissent en tant qu’intermédiaires d’assurance remplissent les exigences en matière de formation initiale et de formation continue selon l’art. 43 LSA
+- 1\.12 Attestation de couverture par l’assurance en responsabilité civile professionnelle requise ou attestation de l’existence de garanties financières équivalentes
+- 1\.13 Informations sur les relations contractuelles avec les entreprises d’assurance qui sous-traitent certaines activités à l’entreprise individuelle ou à la société de personnes qui dépose la demande d’enregistrement, avec mention de l’objet du contrat et de la raison sociale de ces entreprises
+
+### 2. Personnes morales
+
+- 2\.1 Extrait du registre du commerce et numéro IDE
+- 2\.2 Description des activités commerciales et du type d’assurance fourni, y compris les branches d’assurance et, le cas échéant, la structure du groupe
+- 2\.3 Instructions internes, notamment relatives à la gestion, qui garantissent le respect des obligations conformément à l’art. 188
+- 2\.4 Déclaration attestant de l’absence de comportements ou de circonstances prohibés au sens de l’art. 182c
+- 2\.5 Pièce d’identité, numéro AVS et curriculum vitae pour les personnes chargées de l’administration ou de la gestion
+- 2\.6 Extrait du casier judiciaire ou, pour les personnes domiciliées à l’étranger, d’un document équivalent établi par l’autorité compétente et datant de moins de trois mois pour les personnes chargées de l’administration ou de la gestion
+- 2\.7 Extrait du registre des poursuites ou, pour les personnes domiciliées à l’étranger, d’un document équivalent établi par l’autorité compétente et datant de moins de trois mois pour les personnes chargées de l’administration ou de la gestion
+- 2\.8
+
+  Informations sur toutes les procédures civiles, pénales, administratives, de surveillance, disciplinaires, de poursuites ou de faillite en suspens ou achevées en Suisse ou à l’étranger, contre:
+
+  - a. la personne morale;
+  - b. les personnes chargées de l’administration ou de la gestion;
+  - c. les entreprises dans lesquelles les personnes chargées de l’administration ou de la gestion ont occupé ou occupent une position leur permettant d’exercer une influence sur les activités de l’entreprise;
+  - d. les personnes morales ou physiques qui détiennent plus de 10 % du capital ou des droits de vote dans la personne morale
+
+- 2\.9 Informations sur les participations dans des entreprises supérieures à 10 % du capital ou des droits de vote
+- 2\.10 Informations sur d’autres mandats, activités accessoires et contrats de travail des personnes chargées de l’administration ou de la gestion
+- 2\.11 Confirmation que tous les employés et toutes les personnes chargées de l’administration ou de la gestion qui agissent en tant qu’intermédiaires d’assurance remplissent les exigences en matière de formation initiale et de formation continue selon l’art. 43 LSA
+- 2\.12 Attestation de couverture par l’assurance en responsabilité civile professionnelle requise ou attestation de l’existence de garanties financières équivalentes
+- 2\.13 Informations sur les relations contractuelles avec les entreprises d’assurance qui sous-traitent certaines activités à la personne morale qui dépose la demande d’enregistrement, avec mention de l’objet du contrat et de la raison sociale de ces entreprises
+
+### 3. Personnes physiques salariées
+
+- 3\.1 Pièce d’identité et numéro AVS
+- 3\.2 Curriculum vitae
+- 3\.3 Description du type d’assurance fournie et des branches d’assurance
+- 3\.4 Déclaration attestant de l’absence de comportements ou de circonstances prohibés au sens de l’art. 182*c*
+- 3\.5 Extrait du casier judiciaire ou, pour les personnes domiciliées à l’étranger, d’un document équivalent établi par l’autorité compétente et datant de moins de trois mois
+- 3\.6 Extrait du registre des poursuites ou, pour les personnes domiciliées à l’étranger, d’un document équivalent établi par l’autorité compétente et datant de moins de trois mois
+- 3\.7
+
+  Informations sur toutes les procédures civiles, pénales, administratives, de surveillance, disciplinaires, de poursuites ou de faillite en suspens ou achevées en Suisse et à l’étranger, contre:
+
+  - a. la personne physique;
+  - b. les entreprises dans lesquelles la personne physique a occupé ou occupe une position lui permettant d’exercer une influence sur les activités de l’entreprise
+
+- 3\.8 Informations sur les participations dans des entreprises supérieures à 10 % du capital ou des droits de vote
+- 3\.9 Informations sur d’autres mandats, activités accessoires et contrats de travail
+- 3\.10 Attestation de la formation requise et déclaration attestant de la disposition à suivre la formation continue requise
+- 3\.11 Informations et confirmation fournies par l’employeur avec lequel le contrat de travail est conclu
