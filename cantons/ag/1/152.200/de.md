@@ -4,13 +4,13 @@ number: "152.200"
 title: "Gesetz über die Organisation des Grossen Rates und über den Verkehr zwischen dem Grossen Rat, dem Regierungsrat und der Justizleitung"
 short: "Geschäftsverkehrsgesetz, GVG"
 language: de
-version: 2023-01-01
-valid_until: 2023-12-31
-version_adopted: 2022-01-18
+version: 2024-01-01
+valid_until: 2025-12-31
+version_adopted: 2023-03-14
 adopted: 1990-06-19
 in_force: 1991-08-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/152.200"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3256/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3341/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3256/pdf_file"
 
 (Geschäftsverkehrsgesetz, GVG)
 
-Vom 19.06.1990 (Stand 01.01.2023)
+Vom 19.06.1990 (Stand 01.01.2024)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -393,6 +393,8 @@ beschliesst:
 
 <sup>2</sup> Wird Nichteintreten beschlossen, ist das Geschäft erledigt. Sämtliche einschlägigen parlamentarischen Vorstösse sind damit abgeschrieben, soweit der Rat nicht anders beschliesst.
 
+<sup>3</sup> Der Rat muss auf Vorlagen, die er von der Verfassung oder von Gesetzes wegen behandeln muss, namentlich auf den Aufgaben- und Finanzplan sowie den Budgetentwurf des Regierungsrats, eintreten.
+
 #### § 33
 
 **Beratungen**
@@ -411,9 +413,11 @@ beschliesst:
 
 **Gesamt- und Schlussabstimmung**
 
-<sup>1</sup> Nach der ersten Beratung einer Vorlage erfolgt eine Gesamtabstimmung, nach der zweiten Beratung die Schlussabstimmung.
+<sup>1</sup> Nach der ersten Beratung einer Vorlage erfolgt eine Gesamtabstimmung, nach der zweiten Beratung die Schlussabstimmung. Bei Vorlagen, die nur eine Beratung erfordern, erfolgt nur die Schlussabstimmung.
 
 <sup>2</sup> Wird in der Gesamt- oder Schlussabstimmung die Vorlage abgelehnt, ist das Geschäft erledigt, und es sind sämtliche einschlägigen parlamentarischen Vorstösse abgeschrieben.
+
+<sup>3</sup> Wird in der Schlussabstimmung eine Vorlage abgelehnt, die der Rat von der Verfassung oder von Gesetzes wegen behandeln muss, geht das Geschäft zur erneuten Ausarbeitung einer Vorlage an den Regierungsrat zurück.
 
 #### § 34a
 
@@ -625,7 +629,8 @@ beschliesst:
 - g) Auswirkungen auf die Gesellschaft,
 - h) Auswirkungen auf die Umwelt,
 - i) Auswirkungen auf die Gemeinden,
-- k) Auswirkungen auf die Beziehungen zum Bund und zu anderen Kantonen.
+- k) Auswirkungen auf die Beziehungen zum Bund und zu anderen Kantonen,
+- l) Notwendigkeit, Zeitpunkt und Form der Wirkungsprüfung der Vorlage.
 
 #### § 51
 
