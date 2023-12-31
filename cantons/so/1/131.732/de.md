@@ -1,22 +1,22 @@
 ---
 canton: SO
 number: "131.732"
-title: Steuerungsgrössen im Finanz- und Lastenausgleich der Einwohnergemeinden für das Jahr 2023
+title: Steuerungsgrössen im Finanz- und Lastenausgleich der Einwohnergemeinden für das Jahr 2024
 language: de
-version: 2023-01-01
-valid_until: 2023-12-31
-version_adopted: 2022-09-07
+version: 2024-01-01
+valid_until: 2024-12-31
+version_adopted: 2023-09-13
 adopted: 2015-09-01
 in_force: 2016-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/131.732"
-pdf: "https://bgs.so.ch/api/de/versions/5300/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5426/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Steuerungsgrössen im Finanz- und Lastenausgleich der Einwohnergemeinden für das Jahr 2023
+# Steuerungsgrössen im Finanz- und Lastenausgleich der Einwohnergemeinden für das Jahr 2024
 
-Vom 01.09.2015 (Stand 01.01.2023)
+Vom 01.09.2015 (Stand 01.01.2024)
 
 Der Kantonsrat von Solothurn
 
@@ -75,9 +75,9 @@ beschliesst:
 
 <sup>1</sup> Die Prozentanteile der einzelnen Städte betragen:
 
-- a) für Solothurn: 53.27 Prozent;
-- b) für Grenchen: 7.78 Prozent;
-- c) für Olten: 38.95 Prozent.
+- a) für Solothurn: 48.48 Prozent;
+- b) für Grenchen: 6.93 Prozent;
+- c) für Olten: 44.59 Prozent.
 
 #### § 5bis
 
@@ -111,13 +111,13 @@ beschliesst:
 
 **…**
 
-## 3. Steuerungsgrössen für die Jahre 2020 - 2023
+## 3. Steuerungsgrössen für die Jahre 2024 - 2027
 
 #### § 8
 
 **Schülerpauschalen**
 
-<sup>1</sup> Der Beitragsprozentsatz des Kantons beträgt 38.00 Prozent.
+<sup>1</sup> Der Beitragsprozentsatz des Kantons beträgt 39.00 Prozent.
 
 ## 4. Vollzug
 
