@@ -4,11 +4,11 @@ title: "Ordonnance du 29 mars 2017 sur les structures de l'armée (OStrA)"
 short: OStrA
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/218"
 language: fr
-version: 2023-01-01
+version: 2024-01-01
 adopted: 2017-03-29
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/218/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-218-20230101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/218/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/218/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-218-20240101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/218/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/218/20230101/fr"
 
 (OStrA)
 
-du 29 mars 2017 (État le 1<sup>er</sup> janvier 2023)
+du 29 mars 2017 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -149,7 +149,7 @@ Annexe 1[^t-1]
 
 ## Structures de l’armée
 
-[^t-1]: Mise à jour par le ch. II de l’O du 20 nov. 2019 ([RO 2019 4319](https://fedlex.data.admin.ch/eli/oc/2019/749)), le ch. I de l’O du 24 nov. 2021 ([RO 2021 856](https://fedlex.data.admin.ch/eli/oc/2021/856)) et le ch. II de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 826](https://fedlex.data.admin.ch/eli/oc/2022/826)).
+[^t-1]: Mise à jour par le ch. II de l’O du 20 nov. 2019 ([RO 2019 4319](https://fedlex.data.admin.ch/eli/oc/2019/749)), le ch. I de l’O du 24 nov. 2021 ([RO 2021 856](https://fedlex.data.admin.ch/eli/oc/2021/856)), le ch. II de l’O du 23 nov. 2022 ([RO 2022 826](https://fedlex.data.admin.ch/eli/oc/2022/826)) et le ch. II 10 de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
 
 <table>
 <tr><th>1<sup>er</sup> échelon de l’articulation</th><th>2<sup>e</sup> échelon de l’articulation</th><th>3<sup>e</sup> échelon de l’articulation</th><th>Échelon de la structure</th></tr>
@@ -276,7 +276,7 @@ Annexe 1[^t-1]
 <tr><td></td><td></td><td></td><td>Bataillon de support sanitaire 9</td></tr>
 <tr><td></td><td>Domaine sanitaire</td><td></td><td></td></tr>
 <tr><td></td><td>État-major des Affaires sanitaires</td><td></td><td></td></tr>
-<tr><td>Base d’aide au commandement</td><td></td><td></td><td></td></tr>
+<tr><td>Commandement Cyber</td><td></td><td></td><td></td></tr>
 <tr><td></td><td>Brigade d’aide au commandement 41</td><td></td><td></td></tr>
 <tr><td></td><td></td><td></td><td>Commandement d’aide au commandement système/instruction/support</td></tr>
 <tr><td></td><td></td><td></td><td>Brigade d’aide au commandement Bataillon d’état-major 41</td></tr>

@@ -4,11 +4,11 @@ title: Verordnung vom 29. März 2017 über die Strukturen der Armee (VSA)
 short: VSA
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/218"
 language: de
-version: 2023-01-01
+version: 2024-01-01
 adopted: 2017-03-29
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/218/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2017-218-20230101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/218/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/218/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2017-218-20240101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/218/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/218/20230101/de"
 
 (VSA)
 
-vom 29. März 2017 (Stand am 1. Januar 2023)
+vom 29. März 2017 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -149,7 +149,7 @@ Anhang 1[^t-1]
 
 ## Strukturen der Armee
 
-[^t-1]: Bereinigt gemäss Ziff. II der V vom 20. Nov. 2019 ([AS 2019 4319](https://fedlex.data.admin.ch/eli/oc/2019/749)), Ziff. I der V vom 24. Nov. 2021 ([AS 2021 856](https://fedlex.data.admin.ch/eli/oc/2021/856)) und Ziff. II der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 826](https://fedlex.data.admin.ch/eli/oc/2022/826)).
+[^t-1]: Bereinigt gemäss Ziff. II der V vom 20. Nov. 2019 ([AS 2019 4319](https://fedlex.data.admin.ch/eli/oc/2019/749)), Ziff. I der V vom 24. Nov. 2021 ([AS 2021 856](https://fedlex.data.admin.ch/eli/oc/2021/856)), Ziff. II der V vom 23. Nov. 2022 ([AS 2022 826](https://fedlex.data.admin.ch/eli/oc/2022/826)) und Ziff. II 10 der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
 
 <table>
 <tr><th>1. Gliederungsebene</th><th>2. Gliederungsebene</th><th>3. Gliederungsebene</th><th>Strukturebene</th></tr>
@@ -275,7 +275,7 @@ Anhang 1[^t-1]
 <tr><td></td><td></td><td></td><td>Sanitätslogistikbataillon 81</td></tr>
 <tr><td></td><td></td><td></td><td>Sanitätssupportbataillon 9</td></tr>
 <tr><td></td><td>Stab Sanität</td><td></td><td></td></tr>
-<tr><td>Führungsunterstützungsbasis</td><td></td><td></td><td></td></tr>
+<tr><td>Kommando Cyber</td><td></td><td></td><td></td></tr>
 <tr><td></td><td>Führungsunterstützungsbrigade 41</td><td></td><td></td></tr>
 <tr><td></td><td></td><td></td><td>Kommando Führungsunterstützung Systeme/Kurse/Support</td></tr>
 <tr><td></td><td></td><td></td><td>Führungsunterstützungsbrigade Stabsbataillon 41</td></tr>

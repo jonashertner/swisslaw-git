@@ -4,11 +4,11 @@ title: "Ordinanza del 29 marzo 2017 sulle strutture dell'esercito (OStrE)"
 short: OStrE
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/218"
 language: it
-version: 2023-01-01
+version: 2024-01-01
 adopted: 2017-03-29
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/218/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2017-218-20230101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/218/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/218/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2017-218-20240101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/218/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/218/20230101/it"
 
 (OStrE)
 
-del 29 marzo 2017 (Stato 1° gennaio 2023)
+del 29 marzo 2017 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -149,7 +149,7 @@ Allegato 1[^t-1]
 
 ## Strutture dell’esercito
 
-[^t-1]: Aggiornato dal n. II dell’O del 20 nov. 2019 ([RU 2019 4319](https://fedlex.data.admin.ch/eli/oc/2019/749)), dal n. I dell’O del 24 nov. 2021 ([RU 2021 856](https://fedlex.data.admin.ch/eli/oc/2021/856)) e dal n. II dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 826](https://fedlex.data.admin.ch/eli/oc/2022/826)).
+[^t-1]: Aggiornato dal n. II dell’O del 20 nov. 2019 ([RU 2019 4319](https://fedlex.data.admin.ch/eli/oc/2019/749)), dal n. I dell’O del 24 nov. 2021 ([RU 2021 856](https://fedlex.data.admin.ch/eli/oc/2021/856)), dal n. II dell’O del 23 nov. 2022 ([RU 2022 826](https://fedlex.data.admin.ch/eli/oc/2022/826)) e dal n. II 10 dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
 
 <table>
 <tr><th colspan="2">1. Livello dell’articolazione</th><th colspan="2">2. Livello dell’articolazione</th><th colspan="2">3. Livello dell’articolazione</th><th colspan="2">Livello della struttura</th></tr>
@@ -276,7 +276,7 @@ Allegato 1[^t-1]
 <tr><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2">Battaglione di supporto sanitario 9</td></tr>
 <tr><td colspan="2"></td><td colspan="2">Ambito sanitario</td><td colspan="2"></td><td colspan="2"></td></tr>
 <tr><td colspan="2"></td><td colspan="2">Stato maggiore sanitario</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Base d’aiuto alla condotta dell’esercito</td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2">Comando Ciber</td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td></tr>
 <tr><td colspan="2"></td><td colspan="2">Brigata d’aiuto alla condotta 41</td><td colspan="2"></td><td colspan="2"></td></tr>
 <tr><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2">Comando aiuto alla condotta Sistemi/Istruzione/Supporto</td></tr>
 <tr><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2">Battaglione di stato maggiore della brigata d’aiuto alla condotta 41</td></tr>
