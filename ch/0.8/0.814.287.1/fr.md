@@ -3,11 +3,11 @@ sr: "0.814.287.1"
 title: "Protocole de 1996 du 7 novembre 1996 à la Convention de 1972 sur la prévention de la pollution des mers résultant de l'immersion de déchets et d'autres matières (avec annexes)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/327"
 language: fr
-version: 2023-01-15
+version: 2024-01-01
 adopted: 1996-11-07
 in_force: 2006-03-24
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/327/20230115/fr/xml/fedlex-data-admin-ch-eli-cc-2006-327-20230115-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/327/20230115/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/327/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2006-327-20240101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/327/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,7 +20,7 @@ Texte original
 
 Conclu à Londres le 7 novembre 1996 Approuvé par l’Assemblée fédérale le 7 juin 2000[^t-1] Instrument de ratification déposé par la Suisse le 8 septembre 2000 Entré en vigueur pour la Suisse le 24 mars 2006
 
-(État le 15 janvier 2023)
+(État le 1<sup>er</sup> janvier 2024)
 
 [^t-1]: [RO 2006 2047](https://fedlex.data.admin.ch/eli/oc/2006/326)
 
@@ -126,7 +126,16 @@ Les Parties contractantes interdisent l’incinération en mer de déchets ou au
 
 **Exportation de déchets ou autres matières**
 
-Les Parties contractantes n’autorisent pas l’exportation de déchets ou autres matières vers d’autres pays aux fins d’immersion ou d’incinération en mer.
+<sup>1.</sup> Les Parties contractantes n’autorisent pas l’exportation de déchets ou autres matières vers d’autres pays aux fins d’immersion ou d’incinération en mer.
+
+<sup>2.</sup> Une Partie contractante qui conclut un tel accord ou arrangement le notifie à l’Organisation.[^6-1]
+
+Nonobstant les dispositions du par. 1, l’exportation des flux de dioxyde de carbone à évacuer conformément à l’annexe 1 peut être effectuée, à condition qu’un accord ou arrangement ait été conclu par les pays intéressés. Cet accord ou arrangement prévoit:
+
+- 2\.1 la répartition des responsabilités en matière d’octroi de permis entre les pays qui exportent des déchets et ceux qui les reçoivent, conformément aux dispositions du présent Protocole et du droit international applicable, et
+- 2\.2 dans le cas d’une exportation vers des parties non contractantes, des dispositions au moins équivalentes à celles qui figurent dans le présent Protocole, y compris celles qui portent sur la délivrance des permis et les conditions dont le permis est assorti, en vue du respect des dispositions de l’annexe 2, afin de garantir que l’accord ou arrangement ne déroge pas aux obligations de protéger et de préserver le milieu marin, lesquelles incombent aux Parties contractantes en vertu du présent Protocole.
+
+[^6-1]: Introduit par la résolution de la 4<sup>e</sup> Réunion des Parties contractantes du 30 oct. 2009, appliquée provisoirement par la Suisse depuis le 1<sup>er</sup> janv. 2024 ([RO 2024 57](https://fedlex.data.admin.ch/eli/oc/2024/57)).
 
 #### Art. 7
 
@@ -717,7 +726,7 @@ Champ d’application le 21 mars 2019[^t-4]
 <tr><td>Uruguay</td><td>17 décembre</td><td>2013 A</td><td>16 janvier</td><td>2014</td></tr>
 <tr><td>Vanuatu</td><td>18 février</td><td>1999 A</td><td>24 mars</td><td>2006</td></tr>
 <tr><td>Yémen</td><td>24 janvier</td><td>2011 A</td><td>23 février</td><td>2011</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations Les réserves et déclarations ne sont pas publiées au RO. Les textes en anglais peuvent être obtenus à l’adresse du site Internet l’Organisation maritime internationale (OMI): [www.imo.org](http://www.imo.org/) &gt; Publications &gt; Catalogue & Code Listings, ou auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Le protocole ne s’applique pas à la Région administrative spéciale (RAS) Macao. <sup>b</sup> Le protocole ne s’applique pas aux Îles Féroé.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations Les réserves et déclarations ne sont pas publiées au RO. Les textes en anglais peuvent être obtenus à l’adresse du site Internet l’Organisation maritime internationale (OMI): [www.imo.org](http://www.imo.org/) &gt; Qui nous sommes &gt; Conventions &gt; État des conventions &gt; Status Book, ou auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Le protocole ne s’applique pas à la Région administrative spéciale (RAS) Macao. <sup>b</sup> Le protocole ne s’applique pas aux Îles Féroé.</td></tr>
 </table>
 
 [^t-4]: [RO 2006 2049](https://fedlex.data.admin.ch/eli/oc/2006/327); [2008 2383](https://fedlex.data.admin.ch/eli/oc/2008/340); [2012 1573](https://fedlex.data.admin.ch/eli/oc/2012/225); [2016 3867](https://fedlex.data.admin.ch/eli/oc/2016/654); [2019 1077](https://fedlex.data.admin.ch/eli/oc/2019/203). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).

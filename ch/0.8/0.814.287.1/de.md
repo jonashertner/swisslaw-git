@@ -3,11 +3,11 @@ sr: "0.814.287.1"
 title: Protokoll von 1996 vom 7. November 1996 zum Übereinkommen von 1972 über die Verhütung der Meeresverschmutzung durch das Einbringen von Abfällen und anderen Stoffen (mit Anlagen)
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/327"
 language: de
-version: 2023-01-15
+version: 2024-01-01
 adopted: 1996-11-07
 in_force: 2006-03-24
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/327/20230115/de/xml/fedlex-data-admin-ch-eli-cc-2006-327-20230115-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/327/20230115/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/327/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2006-327-20240101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/327/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Ratifikationsurkunde von der Schweiz hinterlegt am 8. September 2000
 
 In Kraft getreten für die Schweiz am 24. März 2006
 
-(Stand am 15. Januar 2023)
+(Stand am 1. Januar 2024)
 
 [^t-1]: [AS 2006 2047](https://fedlex.data.admin.ch/eli/oc/2006/326)
 
@@ -132,7 +132,16 @@ Die Vertragsparteien verbieten die Verbrennung von Abfällen oder sonstigen Stof
 
 **Ausfuhr von Abfällen oder sonstigen Stoffen**
 
-Die Vertragsparteien erlauben nicht die Ausfuhr von Abfällen oder sonstigen Stoffen in andere Länder zum Zweck einer Einbringung oder Verbrennung auf See.
+<sup>1.</sup> Die Vertragsparteien erlauben nicht die Ausfuhr von Abfällen oder sonstigen Stoffen in andere Länder zum Zweck einer Einbringung oder Verbrennung auf See.
+
+<sup>2.</sup> Eine Vertragspartei, die eine solche Übereinkunft schliesst oder Abmachung trifft, notifiziert dies der Organisation.[^6-1]
+
+Ungeachtet des Absatzes 1 kann die Ausfuhr von Kohlendioxidströmen zum Zweck der Beseitigung nach Anlage 1 erfolgen, sofern die betroffenen Länder eine Übereinkunft geschlossen oder eine Abmachung getroffen haben. Eine solche Übereinkunft oder Abmachung muss Folgendes beinhalten:
+
+- 2\.1 die Bestätigung und Verteilung der Zuständigkeiten für die Erlaubniserteilung zwischen dem Ausfuhr- und dem Empfängerland im Einklang mit diesem Protokoll und anderen anwendbaren Regeln des Völkerrechts; sowie
+- 2\.2 im Fall der Ausfuhr an Nichtvertragsparteien Bestimmungen, die den in diesem Protokoll enthaltenen mindestens gleichwertig sind, einschliesslich derer betreffend die Erteilung von Erlaubnissen und die hierfür geltenden Bedingungen zur Einhaltung der Bestimmungen der Anlage 2, um sicherzustellen, dass die Übereinkunft oder Abmachung nicht von den nach diesem Protokoll bestehenden Verpflichtungen der Vertragsparteien zum Schutz und zur Erhaltung der Meeresumwelt abweicht.
+
+[^6-1]: Eingefügt durch die Entschliessung der 4. Vertragsparteienkonferenz vom 30. Okt. 2009, vorläufig angewendet von der Schweiz ab 1. Jan. 2024 ([AS 2024 57](https://fedlex.data.admin.ch/eli/oc/2024/57)).
 
 #### Art. 7
 
@@ -717,10 +726,10 @@ Geltungsbereich am 21. März 2019[^t-4]
 <tr><td>Jersey</td><td>15. Dezember</td><td>1998</td><td>24. März</td><td>2006</td></tr>
 <tr><td>Kaimaninseln</td><td>15. Dezember</td><td>1998</td><td>24. März</td><td>2006</td></tr>
 <tr><td>Montserrat</td><td>15. Dezember</td><td>1998</td><td>24. März</td><td>2006</td></tr>
-<tr><td>St. Helena und Nebengebiete (Ascension und Tristan da Cunha)</td><td>15. Dezember</td><td>1998</td><td>24. März</td><td>2006</td></tr>
+<tr><td>St. Helena und Nebengebiete Ascension und Tristan da Cunha)</td><td>15. Dezember</td><td>1998</td><td>24. März</td><td>2006</td></tr>
 <tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die englischen Texte können auf der Internetseite der Internationalen Seeschifffahrtsorganisation (OMI): [www.imo.org](https://www.imo.org/en/publications/Pages/English.aspx)/Publications bezogen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, eingesehen werden.</td></tr>
 <tr><td colspan="5"><sup>a</sup> Das Protokoll gilt nicht für die Besondere Verwaltungsregion (SAR) Macao.</td></tr>
 <tr><td colspan="5"><sup>b</sup> Das Protokoll gilt nicht für die Färöer.</td></tr>
 </table>
 
-[^t-4]: [AS 2006 2049](https://fedlex.data.admin.ch/eli/oc/2006/327); [2008 2383](https://fedlex.data.admin.ch/eli/oc/2008/340); [2012 1573](https://fedlex.data.admin.ch/eli/oc/2012/225), [2016 3867](https://fedlex.data.admin.ch/eli/oc/2016/654)und [2019 1077](https://fedlex.data.admin.ch/eli/oc/2019/203). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
+[^t-4]: [AS 2006 2049](https://fedlex.data.admin.ch/eli/oc/2006/327); [2008 2383](https://fedlex.data.admin.ch/eli/oc/2008/340); [2012 1573](https://fedlex.data.admin.ch/eli/oc/2012/225); [2016 3867](https://fedlex.data.admin.ch/eli/oc/2016/654); [2019 1077](https://fedlex.data.admin.ch/eli/oc/2019/203). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
