@@ -1,481 +1,369 @@
 ---
 canton: BE
 number: "107.111"
-title: "Ordonnance sur l'information du public"
-short: "Ordonnance sur l'information; OIn"
+title: "Ordonnance sur l'information et l'aide aux médias"
+short: OIAM
 language: fr
-version: 2019-01-01
-valid_until: 2023-12-31
-version_adopted: 2018-11-07
+version: 2024-01-01
+valid_until: 2025-05-31
+version_adopted: 2023-11-15
 adopted: 2023-11-15
 in_force: 2024-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/107.111"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1551/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2941/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
 
-# Ordonnance sur l'information du public
+# Ordonnance sur l'information et l'aide aux médias
 
-(Ordonnance sur l'information; OIn)
+(OIAM)
 
-du 26.10.1994 (état au 01.01.2019)
+du 15.11.2023 (état au 01.01.2024)
 
 Le Conseil-exécutif du canton de Berne,
 
-vu les articles 32, alinéa 3 et 36, alinéa 1 de la loi du 2 novembre 1993 sur l'information du public (loi sur l'information, LIn)[^ingress-1] et l'article 78 de la loi cantonale du 24 juillet 2004 sur la protection de la population et sur la protection civile (LCPPCi)[^ingress-2].
+vu l'article 15b, alinéa 3, l'article 16a, alinéa 4, l'article 31a, alinéa 2, l'article 34e, alinéa 1, l'article 34l, alinéa 1 et l'article 36, alinéa 1 de la loi du 2 novembre 1993 sur l'information et l'aide aux médias (LIAM)[^ingress-1],
 
 sur proposition de la Chancellerie d'Etat,
 
 arrête:
 
-[^ingress-1]: RSB 107.1
-[^ingress-2]: Abrogée par L cantonale du 19. 3. 2014 sur la protection de la population et sur la protection civile (LCPPCi); RSB 521.1
+[^ingress-1]: RSB [107.1](https://www.belex.sites.be.ch/data/107.1/fr)
 
-## 1 Information sur demande
+## 1 Information du public
 
-### 1.1 Demandes informelles
+### 1.1 Principes
 
 #### Art. 1
 
-**Compétence**
+**Intelligibilité de l'information et de la communication des autorités (art. 14 et 14a, al. 1 LIAM)**
 
-<sup>1</sup> Les réponses aux demandes informelles sont fournies par les services administratifs du canton et des communes, compétents à raison de la matière.
+<sup>1</sup> Les autorités informent et communiquent de façon intelligible pour le public.
 
-<sup>2</sup> Les demandes informelles sont transmises immédiatement au service administratif compétent.
+<sup>2</sup> Elles proposent aux personnes en situation de handicap et aux personnes aux connaissances linguistiques limitées, dans la mesure du possible et pour autant que cela soit opportun, des outils supplémentaires et des traductions, en particulier lorsque les informations ou offres de communication
 
-<sup>3</sup> Les communes peuvent déroger à ce régime des compétences dans leurs règlements, notamment désigner un service d'information centralisé.
+- a s'adressent en premier lieu à ces personnes;
+- b sont essentielles pour leur sécurité ou leur santé;
+- c sont nécessaires pour l'exercice de leurs droits et l'accomplissement de leurs devoirs ou
+- d leur permettent d'exercer leur droit à la participation politique.
 
 #### Art. 2
+
+**Communication de données personnelles sur Internet (art. 15b LIAM)**
+
+<sup>1</sup> Avant de communiquer des données personnelles sur Internet, l'autorité compétente vérifie s'il existe des risques particuliers pour les personnes concernées, qui l'emportent sur les intérêts publics à une telle publication. Si de tels risques subsistent, l'autorité renonce à la publication sur Internet.
+
+<sup>2</sup> La personne concernée peut demander le blocage de ses données à condition qu'elle prouve un intérêt digne de protection.
+
+#### Art. 3
+
+**Retrait de données personnelles d'Internet (art. 15b LIAM)**
+
+<sup>1</sup> L'autorité compétente pour l'information définit au moment de la publication quand les données personnelles devront être retirées d'Internet.
+
+<sup>2</sup> Les délais jusqu'au retrait au sens de l'alinéa 1 peuvent être fixés de façon générale par catégorie de publication dans une directive.
+
+#### Art. 4
+
+**Compétences en matière d'information et de communication**
+
+<sup>1</sup> L'Office de la communication de la Chancellerie d'Etat planifie et coordonne les activités d'information et de communication pour l'ensemble de l'administration cantonale en vertu de l'article 21, alinéa 1 LIAM.
+
+<sup>2</sup> Les Directions, la Chancellerie d'Etat et les Services parlementaires sont compétents pour l'information et la communication relatives à leur activité administrative.
+
+<sup>3</sup> Les préfètes et les préfets
+
+- a sont compétents pour l'information et la communication relatives à leur activité administrative;
+- b se concertent dans la mesure du possible au préalable avec l'Office de la communication.
+
+### 1.2 Information d'office
+
+#### Art. 5
+
+**Intérêt général (art. 16, al. 1, lit. a LIAM)**
+
+<sup>1</sup> Il y a intérêt général au sens de l'article 16, alinéa 1, lettre a LIAM notamment lorsqu'une information touche à la garantie des droits démocratiques ou à la garantie du processus de formation de l'opinion sur l'actualité du canton ou de la commune concernée.
+
+#### Art. 6
+
+**Information et communication lors de catastrophes et de situations d'urgence**
+
+<sup>1</sup> L'information et la communication lors de catastrophes et de situations d'urgence sont régies en premier lieu par la législation sur la protection de la population.
+
+#### Art. 7
+
+**Caractère bilingue des informations du Conseil-exécutif et de l'administration cantonale (art 16a, al. 4 LIAM et art. 20 LIAM)**
+
+<sup>1</sup> Le Conseil-exécutif et l'administration cantonale publient simultanément dans les deux langues officielles les informations qui concernent l'ensemble du canton, sous réserve de l'alinéa 2.
+
+<sup>2</sup> Il peut notamment être dérogé à une publication simultanée
+
+- a en cas d'événements extraordinaires qui touchent des biens juridiques importants, lorsque les ressources nécessaires ne sont pas disponibles en raison de la situation;
+- b pour les interventions parlementaires et les propositions faites dans le cadre des sessions du Grand Conseil.
+
+<sup>3</sup> Les rapports, études et expertises d'intérêt général contiennent, quelle que soit leur langue d'origine, un résumé rédigé dans les deux langues officielles.
+
+### 1.3 Information sur demande
+
+### 1.3.1 Compétence
+
+#### Art. 8
+
+**Principe (art. 31a LIAM)**
+
+<sup>1</sup> L'autorité compétente pour répondre aux demandes informelles ou pour évaluer les demandes d'accès à des informations est celle, sous réserve des articles 9 à 12, qui
+
+- a a enregistré les informations souhaitées;
+- b les a reçues en qualité de destinataire principale de la part de tiers qui ne sont pas soumis à la LIAM ou
+- c les a archivées, dans la mesure où elles sont closes sur le plan administratif interne.
+
+<sup>2</sup> Si l'autorité à qui la demande a été faite n'est pas compétente,
+
+- a elle transmet immédiatement la demande informelle ou la demande d'accès à des informations à l'autorité compétente;
+- b se concerte si nécessaire avec les autres autorités impliquées.
+
+#### Art. 9
+
+**Compétence pour les informations détenues par plusieurs autorités (art. 31a, al. 2 LIAM)**
+
+<sup>1</sup> La compétence pour les demandes informelles et les demandes d'accès à des informations qui sont détenues par plusieurs autorités appartient à l'autorité au sens de l'article 8, alinéa 1.
+
+<sup>2</sup> Si la compétence n'est pas claire ou si plusieurs autorités ont traité conjointement l'information, l'autorité ayant reçu la demande établit l'entente sur la compétence avec les autres autorités impliquées.
+
+#### Art. 10
+
+**Compétence pour les informations des organes du Grand Conseil**
+
+<sup>1</sup> La compétence pour les demandes informelles et les demandes d'accès à des affaires issues d'organes du Grand Conseil appartient à l'organe parlementaire en charge de l'affaire.
+
+<sup>2</sup> Si l'organe du Grand Conseil n'existe plus, la compétence appartient au Bureau du Grand Conseil.
+
+#### Art. 11
+
+**Compétence pour les informations du Conseil-exécutif et de l'administration cantonale**
+
+<sup>1</sup> La compétence pour les demandes informelles et les demandes d'accès à des affaires du Conseil-exécutif appartient au secrétariat général de la Direction en charge du dossier ou à l'office compétent de la Chancellerie d'Etat.
+
+<sup>2</sup> La compétence pour les demandes d'accès à des documents relatifs aux affaires du Conseil-exécutif classés secrets appartient au membre du Conseil-exécutif compétent ou à la chancelière ou au chancelier.
+
+<sup>3</sup> La compétence pour les demandes informelles et les demandes d'accès à des informations d'une Direction ou de la Chancellerie d'Etat appartient au secrétariat général ou à l'office responsable.
+
+#### Art. 12
+
+**Compétence pour les informations détenues aux Archives de l'Etat**
+
+<sup>1</sup> Les demandes informelles et les demandes d'accès à des informations qui se trouvent aux Archives de l'Etat sont traitées par
+
+- a l'autorité compétente au sens de l'article 31a LIAM et des articles 8 à 11, durant un délai administratif de 30 ans,
+- b les Archives de l'Etat après l'échéance du délai administratif.
+
+<sup>2</sup> Le délai administratif court
+
+- a à partir de la date de la décision mettant fin à la procédure, pour les documents des autorités judiciaires et du Ministère public ainsi que des autorités de justice administrative,
+- b à partir de la date du dernier traitement, pour toutes les autres informations.
+
+<sup>3</sup> La compétence est fixée en fonction de la date à laquelle la demande informelle ou la demande d'accès aux informations a été déposée.
+
+### 1.3.2 Demandes informelles
+
+#### Art. 13
 
 **Forme de la réponse**
 
 <sup>1</sup> En règle générale, il est répondu oralement aux demandes formulées par oral, et par écrit aux demandes écrites.
 
-#### Art. 3
-
-**Restrictions**
-
-<sup>1</sup> Les restrictions prévues aux articles 27 à 29 LIn sont également applicables aux demandes informelles.
-
-#### Art. 4
-
-**Délimitation par rapport à la consultation des dossiers officiels**
-
-<sup>1</sup> Une demande de renseignement n'est pas considérée comme une demande informelle au sens de l'article 31 LIn
-
-- a lorsque l'accord exprès d'une personne concernée est nécessaire (art. 28 LIn);
-- b lorsque la demande a pour objet des données personnelles qui, selon la législation sur la protection des données ou la législation spéciale, ne sauraient être communiquées sans que soit opérée une pesée des intérêts approfondie ou
-- c lorsqu'il doit être procédé à une pesée des intérêts approfondie pour déterminer s'il existe des intérêts publics prépondérants (art. 29, 1er al. LIn).
-
-<sup>2</sup> En pareil cas, la personne qui a formulé la demande est renvoyée à la procédure applicable aux requêtes de consultation de dossiers officiels (art. 30 LIn[^4-1]); elle est en même temps informée des éventuels frais que peut entraîner une telle procédure.
-
-[^4-1]: RSB 107.1
-
-### 1.2 Consultation de dossiers officiels
-
-#### Art. 5
-
-**Compétences a Principe**
-
-<sup>1</sup> La compétence de statuer sur les requêtes de consultation de dossiers appartient à l'autorité qui s'occupe de l'affaire, ou, si celle-ci est close sur le plan administratif interne, à l'autorité qui gère le dossier. Les articles 6 à 8 sont réservés.
-
-<sup>2</sup> Les communes peuvent déroger à ce régime des compétences dans leurs règlements.
-
-<sup>3</sup> Si plusieurs autorités disposent du même dossier, l'autorité dont émane celui-ci ou l'autorité supérieure peut en désigner une, seule compétente pour traiter les requêtes concernant la consultation de ce dossier.
-
-#### Art. 6
-
-**b Commissions du Grand Conseil**
-
-<sup>1</sup> Les commissions du Grand Conseil statuent elles-mêmes sur les requêtes de consultation concernant leurs dossiers.
-
-<sup>2</sup> Si la commission n'existe plus, la compétence de statuer appartient
-
-- a au Bureau du Grand Conseil pour les dossiers émanant d'une commission d'enquête parlementaire;
-- b à l'autorité qui gère le dossier pour les procès-verbaux des délibérations relatives aux projets d'actes législatifs;
-- c au président ou à la présidente du Grand Conseil dans les autres cas.
-
-#### Art. 7
-
-**c Conseil-exécutif et Directions**
-
-<sup>1</sup> Le secrétariat général ou l’office qui a préparé l’affaire statue sur les requêtes de consultation de dossiers concernant des affaires du Conseil-exécutif, des Directions ou de la Chancellerie d’Etat. L’article 13, alinéa 2 de l’ordonnance du 16 décembre 2009 sur la classification, la publication et l’archivage des arrêtés du Conseil-exécutif et des rapports y relatifs est réservé.
-
-#### Art. 8
-
-**d Archives de l'Etat**
-
-<sup>1</sup> Les requêtes concernant la consultation de dossiers versés aux Archives de l'Etat sont traitées,
-
-- a durant un délai administratif de 30 ans, par l'autorité compétente au sens des articles 5, 1er alinéa, 6 ou 7;
-- b après l'échéance dudit délai, par les Archives de l'Etat.
-
-<sup>2</sup> Le délai administratif court
-
-- a à partir de la date de la décision mettant fin à la procédure pour les dossiers judiciaires et les dossiers de justice administrative;
-- b à partir de la date d'établissement pour tous les autres documents.
-
-<sup>3</sup> La compétence est déterminée à la date du dépôt de la requête.
-
-#### Art. 9
-
-**Dépôt de la requête**
-
-<sup>1</sup> La requête de consultation de dossiers doit être déposée par écrit auprès de l'autorité compétente (art. 5 à 8).
-
-<sup>2</sup> La personne requérante indiquera de manière aussi précise que possible les documents qu'elle désire consulter et les données qui l'intéressent. La requête ne doit être motivée que si la législation spéciale l'exige.
-
-#### Art. 10
-
-**Examen préalable**
-
-<sup>1</sup> L'autorité examine sans retard si elle est compétente et, si tel n'est pas le cas, transmet la requête à l'autorité compétente.
-
-<sup>2</sup> Si la personne requérante n'indique pas de manière suffisamment précise les documents qu'elle désire consulter et les données qui l'intéressent, l'autorité lui enjoint de fournir des précisions ou des indications complémentaires. Si la personne requérante ne s'exécute pas dans le délai imparti, sa requête est considérée comme retirée.
-
-<sup>3</sup> Si la requête est susceptible d'entraîner des frais considérables (art. 30, 2e al. LIn[^10-1]), l'autorité en informe la personne requérante.
-
-[^10-1]: RSB 107.1
-
-#### Art. 11
-
-**Intérêts publics prépondérants**
-
-<sup>1</sup> L'autorité examine dans tous les cas si des intérêts publics prépondérants s'opposent à l'octroi du droit de consulter un document (art. 29, 1er al. LIn[^11-1] ou obligations particulières de garder le secret).
-
-<sup>2</sup> Le travail occasionné à l'autorité est réputé disproportionné au sens de l'article 29, 1er alinéa, lettre c LIn lorsque celle-ci n'est pas en mesure, avec le personnel et l'infrastructure dont elle dispose ordinairement, de satisfaire à la demande de consultation dans un délai utile sans négliger l'accomplissement de ses tâches.
-
-[^11-1]: RSB 107.1
-
-#### Art. 12
-
-**Intérêts privés prépondérants a Caviardage de données**
-
-<sup>1</sup> La protection des intérêts privés prépondérants est assurée dans la mesure du possible par le caviardage des données sensibles.
-
-#### Art. 13
-
-**b Données personnelles particulièrement dignes de protection**
-
-<sup>1</sup> Si des données personnelles particulièrement dignes de protection sont touchées et qu'elles ne puissent pas être caviardées, l'autorité demande l'accord de la personne concernée et l'informe qu'elle a le droit de le refuser.
-
-<sup>2</sup> L'autorité rejette la requête lorsque la personne concernée ne donne pas son accord, qu'il est présumé que la personne concernée ne le donnera pas ou que la consultation de celle-ci entraîne un travail administratif disproportionné.
+<sup>2</sup> En outre, l'article 23 s'applique par analogie à l'octroi de l'accès à des informations.
 
 #### Art. 14
 
-**c Données personnelles qui ne sont pas particulièrement dignes de protection**
+**Restrictions**
 
-<sup>1</sup> Si des données personnelles qui ne sont pas particulièrement dignes de protection sont touchées et qu'elles ne puissent pas être caviardées, l'autorité examine si des intérêts privés prépondérants au sens de l'article 29, 2e alinéa LIn ou des dispositions fixant des obligations particulières de garder le secret (art. 5, 5e al., 12 et 14, 2e al. de la loi du 19 février 1986 sur la protection des données[^14-1], LPD) s'opposent à l'octroi du droit de consulter un dossier.
-
-<sup>2</sup> En cas de doute, l'autorité entend toutes les personnes mentionnées dans un document
-
-- a lorsqu'il pourrait s'agir de données personnelles particulièrement dignes de protection ou
-- b lorsque des intérêts privés prépondérants pourraient être touchés.
-
-<sup>3</sup> Dans les autres cas, l'autorité peut renoncer à entendre ces personnes.
-
-[^14-1]: RSB 152.04
+<sup>1</sup> Les restrictions prévues aux articles 27 à 29 LIAM sont également applicables aux demandes informelles.
 
 #### Art. 15
 
-**Notification**
+**Délimitation par rapport à la demande d'accès à des informations**
 
-<sup>1</sup> La décision peut être communiquée oralement à la personne requérante si celle-ci est seule à participer à la procédure et qu'il soit fait entièrement droit à sa requête.
+<sup>1</sup> Une demande ne peut être traitée comme une demande informelle au sens de l'article 31 LIAM
+
+- a lorsque l'accès à des données personnelles particulièrement dignes de protection est demandé (art. 28 LIAM);
+- b lorsque la demande a pour objet des données personnelles qui, selon la législation sur la protection des données ou la législation spéciale, ne sauraient être communiquées sans que soit opérée une pesée des intérêts approfondie ou
+- c lorsqu'il doit être procédé à une pesée des intérêts approfondie pour déterminer s'il existe d'autres intérêts privés prépondérants (art. 29, al. 2 LIAM) ou des intérêts publics prépondérants (art. 29, al. 1 LIAM).
+
+<sup>2</sup> En pareils cas, la personne qui a formulé la demande est renvoyée à la procédure applicable aux demandes d'accès à des informations (art. 30 LIAM); elle est en même temps informée des éventuels émoluments que peut entraîner une telle procédure.
+
+### 1.3.3 Demande d'accès à des informations
 
 #### Art. 16
 
-**Consultation**
+**Dépôt de la demande**
 
-<sup>1</sup> La consultation a lieu en règle générale durant les heures d'ouverture ordinaires auprès de l'autorité qui s'occupe de l'affaire ou auprès de celle qui gère le dossier.
+<sup>1</sup> La demande d'accès à des informations doit être déposée par écrit auprès de l'autorité compétente (art. 8 à 12).
 
-<sup>2</sup> L'autorité peut, par dérogation au 1er alinéa, envoyer une copie du dossier à la personne requérante si le travail administratif en est ainsi réduit.
+<sup>2</sup> Dans la demande doivent figurer des indications aussi précises que possible sur les informations pour lesquelles l'accès est demandé.
 
-<sup>3</sup> L'autorité veille à la sécurité des données durant la consultation.
-
-## 2 Information d'office par les autorités cantonales
-
-### 2.1 Principes
+<sup>3</sup> La requête ne doit être motivée que si la législation spéciale l'exige.
 
 #### Art. 17
 
-**Intérêt général**
+**Information sur les émoluments**
 
-<sup>1</sup> Il y a intérêt général au sens de l'article 16, 1er alinéa LIn[^17-1] chaque fois qu'une information touche à la garantie des droits démocratiques ou à la protection du processus de formation de l'opinion sur l'actualité cantonale.
-
-[^17-1]: RSB 107.1
+<sup>1</sup> Si la requête est susceptible d'entraîner des frais considérables (art. 30, al. 2 LIAM), l'autorité en informe la personne requérante.
 
 #### Art. 18
 
-**Diffusion**
+**Caviardage des données dignes de protection**
 
-<sup>1</sup> En principe, l'information est diffusée par l'intermédiaire des médias.
+<sup>1</sup> La protection d'intérêts publics ou privés prépondérants est assurée dans la mesure du possible par le caviardage des informations dignes de protection.
 
 #### Art. 19
 
-**Information émanant des Directions**
+**Intérêt public prépondérant: travail disproportionné (art. 29, al. 1, lit. c LIAM)**
 
-<sup>1</sup> L'information relative à l'activité administrative de la Direction relève de la compétence du directeur ou de la directrice. Celui-ci ou celle-ci peut déléguer cette compétence.
-
-<sup>2</sup> Lorsqu'une Direction informe d'office, elle veille, par l'intermédiaire de l'Office de la communication, à garantir une information adaptée aux besoins des médias.
-
-<sup>3</sup> Les commissions du Conseil-exécutif informent par l'intermédiaire de la Direction compétente.
+<sup>1</sup> Le travail occasionné à l'autorité est réputé disproportionné au sens de l'article 29, alinéa 1, lettre c LIAM lorsque celle-ci n'est pas en mesure, avec le personnel et l'infrastructure dont elle dispose ordinairement, de satisfaire à la demande d'accès à des informations dans un délai utile sans négliger l'accomplissement de ses tâches.
 
 #### Art. 20
 
-**Information émanant des préfectures**
+**Intérêt privé prépondérant: données personnelles particulièrement dignes de protection (art. 28 LIAM)**
 
-<sup>1</sup> Les préfets et les préfètes sont compétents pour fournir l'information relative à l'activité administrative des préfectures.
+<sup>1</sup> Si des données personnelles particulièrement dignes de protection sont touchées et ne peuvent être caviardées, l'autorité demande l'accord de la personne concernée et l'informe qu'elle a le droit de le refuser.
 
-<sup>2</sup> Dans la mesure du possible, ils se mettent d'accord avec l'Office de la communication avant de fournir l'information.
+<sup>2</sup> L'autorité rejette la demande
 
-### 2.2 Rapports et expertises
+- a lorsque la personne concernée ne donne pas son accord;
+- b lorsqu'il y a lieu de présumer que la personne concernée ne le donnera pas ou
+- c lorsque la consultation de celle-ci entraîne un travail administratif disproportionné.
 
 #### Art. 21
 
-<sup>1</sup> Tous les rapports et expertises d'intérêt général contiennent, quelle que soit leur langue d'origine, un résumé rédigé dans les deux langues officielles. Celui-ci comprend les points principaux et les conclusions.
+**Intérêt privé prépondérant: données personnelles qui ne sont pas particulièrement dignes de protection (art. 29, al. 2 LIAM)**
 
-<sup>2</sup> Les rapports et expertises sont entièrement traduits dans l'autre langue officielle avant leur publication lorsqu'ils concernent particulièrement la région linguistique en cause.
+<sup>1</sup> Si des données personnelles qui ne sont pas particulièrement dignes de protection sont touchées et ne peuvent être caviardées, l'autorité examine si des intérêts privés prépondérants vont à l'encontre de l'octroi de l'accès à des informations.
 
-### 2.3 Procédures administratives et de justice administrative closes
+<sup>2</sup> Les personnes mentionnées dans les informations demandées sont consultées si un doute subsiste
+
+- a quant au caractère particulièrement digne de protection des données personnelles ou
+- b quant à l'existence d'intérêts privés prépondérants.
+
+<sup>3</sup> Dans les autres cas, l'autorité peut renoncer à consulter ces personnes.
 
 #### Art. 22
 
-**Information des personnes participant à la procédure**
+**Notification informelle**
 
-<sup>1</sup> Les personnes participant à une procédure administrative ou de justice administrative sont dans toute la mesure du possible informées avant les médias du contenu de la décision, de la décision sur recours ou du jugement.
+<sup>1</sup> L'accès à l'information peut être communiqué de façon informelle à la personne ayant fait la demande si celle-ci est seule à participer à la procédure et que sa demande est acceptée dans son intégralité.
 
 #### Art. 23
 
-**Publication de décisions de justice administrative**
+**Octroi de l'accès à des informations**
 
-<sup>1</sup> Les décisions de justice administrative peuvent, dans les limites fixées par l'article 24 LIn[^23-1], être publiées intégralement ou sous forme d'extraits dans les périodiques spécialisés.
+<sup>1</sup> En règle générale, l'accès à l'information est octroyé sous forme numérique.
 
-<sup>2</sup> Il convient de garantir la protection de la personnalité.
+<sup>2</sup> Il peut revêtir la forme d'une consultation auprès de l'autorité compétente ou de l'envoi de copies sur papier si la charge administrative est plus petite que sous forme numérique.
 
-[^23-1]: RSB 107.1
+<sup>3</sup> L'autorité veille à la sécurité des données personnelles et des informations lors de l'octroi de l'accès à celles-ci.
 
-## 2a Information dans les situations extraordinaires
-
-#### Art. 23a
-
-**Principes**
-
-<sup>1</sup> L'information active selon les principes de la loi sur l'information[^23a-1] est dès le début partie intégrante de la conduite en cas de catastrophe ou en situation d'urgence.
-
-<sup>2</sup> Les organes de conduite à tous les échelons veillent à ce que la population soit informée à temps, régulièrement et de manière ouverte.
-
-<sup>3</sup> L'information de la population directement touchée et des organes de conduite est prioritaire.
-
-[^23a-1]: RSB 107.1
-
-#### Art. 23b
-
-**Compétence**
-
-<sup>1</sup> La compétence est régie par l'article 35 LCPPCi[^23b-1].
-
-<sup>2</sup> Les autorités compétentes organisent le service d'information selon leurs possibilités et leurs besoins en vue de maîtriser les catastrophes et les situations d'urgence.
-
-<sup>3</sup> Les autorités à l'échelon de l’arrondissement administratif et de la commune qui ne sont pas en mesure d'assurer le service de l'information par leurs propres moyens font appel à des professionnels qualifiés.
-
-<sup>4</sup> L'Office de la communication peut constituer une équipe de professionnels qualifiés pour fournir un soutien et des conseils aux organes de conduite.
-
-[^23b-1]: Abrogée par L cantonale du 19. 3. 2014 sur la protection de la population et sur la protection civile (LCPPCi); RSB 521.1
-
-#### Art. 23c
-
-**Moyens d'information**
-
-<sup>1</sup> L'information est en principe diffusée par l'intermédiaire des médias.
-
-<sup>2</sup> Lorsque la situation l'exige, la population peut être directement informée, notamment par
-
-- a des estafettes,
-- b des haut-parleurs,
-- c des affiches,
-- d des feuilles d'information,
-- e des moyens de communication électroniques.
-
-<sup>3</sup> Les organes de conduite à tous les échelons procèdent aux préparatifs pour l'exploitation des postes d'information et de renseignements (p. ex. numéro d'urgence).
-
-#### Art. 23d
-
-**Mesures immédiates**
-
-<sup>1</sup> Le commandement de la police adopte des mesures immédiates pour l'information de la population. Il convoque les médias, diffuse les premières consignes sur le comportement à adopter et donne les premières informations.
-
-<sup>2</sup> Il charge l'organe de conduite compétent de la direction de l'information dès que cet organe est en mesure d'assurer lui-même la mission d'informer.
-
-#### Art. 23e
-
-**Instruction**
-
-<sup>1</sup> L'Office de la sécurité civile, du sport et des affaires militaires, sous la direction technique de l'Office de la communication, organise périodiquement des cours à l'intention des spécialistes de l'information à tous les niveaux.
-
-<sup>2</sup> Les membres des organes de conduite d'arrondissement peuvent être convoqués à ces cours.
-
-#### Art. 23f
-
-**Concepts d'information**
-
-<sup>1</sup> Les organes de conduite à tous les échelons établissent des concepts pour la transmission de l'information. Ils règlent notamment la répartition des compétences et les procédures de manière simple.
-
-<sup>2</sup> L'Office de la communication tient à disposition un concept d'information à titre de modèle.
-
-## 3 Accréditation des professionnels des médias
+## 2 Publicité des séances
 
 #### Art. 24
 
-**Compétence**
+**Assemblées communales (art. 10, al. 2 LIAM)**
 
-<sup>1</sup> L'Office de la communication est compétent pour accorder et pour retirer l'accréditation.
+<sup>1</sup> La personne qui désire faire des prises de vue ou de son lors d'une assemblée communale ou les retransmettre s'annonce auprès de la présidente ou du président de l'assemblée avant le début de la séance.
+
+<sup>2</sup> Les propositions concernant les prises de vues ou de son ou leur retransmission sont soumises à la décision de l'assemblée au début de la séance. Si l'assemblée les accepte, la présidente ou le président informe les personnes présentes de leurs droits.
+
+<sup>3</sup> Si l'assemblée autorise les prises de vue ou de son ou leur retransmission, les personnes opposées à l'enregistrement de leurs interventions ou de leurs votes sont tenues de le faire savoir avant d'intervenir ou de voter.
+
+## 3 Mesures de soutien dans les domaines des médias et de la formation politique
+
+### 3.1 Mesures de soutien aux médias
 
 #### Art. 25
 
-**Demande d'accréditation**
+**Agences de presse (art. 34c, al. 1, lit. a LIAM)**
 
-<sup>1</sup> Les demandes d'accréditation sont présentées par écrit auprès de l'Office de la communication.
+<sup>1</sup> Le canton peut, dans un contrat de prestations, accorder des subventions à l'exploitation à des institutions qui fournissent des prestations d'informations journalistiques aux médias, dans la mesure où leur offre
 
-<sup>2</sup> La personne requérante doit prouver qu'en tant que professionnel ou professionnelle des médias, elle suit régulièrement les affaires bernoises. Elle peut notamment présenter à titre de preuve l'attestation d'un membre responsable de la rédaction du média pour lequel elle travaille.
+- a est ouverte à l’ensemble des fournisseuses et fournisseurs de prestations médiatiques intéressés et
+- b renforce l’offre d’informations en français ou en allemand sur des sujets cantonaux, régionaux et locaux présentant un intérêt politique.
+
+<sup>2</sup> Les subventions sont calculées en fonction du besoin de financement avéré et n'excèdent pas 100'000 francs par année et par institution.
+
+<sup>3</sup> L'article 13c de la loi du 16 septembre 1992 sur les subventions cantonales (LCSu)[^25-1] s'applique au contrat de prestations conclu entre le canton et les institutions soutenant les médias.
+
+[^25-1]: RSB [641.1](https://www.belex.sites.be.ch/data/641.1/fr)
 
 #### Art. 26
 
-**Droits des professionnels des médias accrédités a Carte de légitimation**
+**Soutien de projets (art. 34c, al. 1, lit. b et c LIAM)**
 
-<sup>1</sup> L'Office de la communication délivre une carte de légitimation aux professionnels des médias accrédités.
+<sup>1</sup> L'encouragement d'institutions qui soutiennent des médias ou des journalistes par le financement d'offres journalistiques nouvelles ou liées à un projet (art. 34c, al. 1, lit. c LIAM) prend la forme de subventions limitées dans le temps.
+
+<sup>2</sup> Le montant des subventions
+
+- a est calculé en fonction du besoin de financement avéré, les bénéficiaires devant fournir des prestations propres adéquates;
+- b n'excède pas 20'000 francs par année et par projet soutenu.
+
+<sup>3</sup> La décision de subventionnement est assortie de charges pour garantir le respect des prescriptions de la LIAM.
+
+<sup>4</sup> Les alinéas 1 à 3 s'appliquent par analogie au soutien d'organismes responsables d'infrastructures numériques (art. 34c, al. 1, lit. b LIAM).
+
+### 3.2 Mesures de promotion de la formation politique
 
 #### Art. 27
 
-**b Prestations de service, accès aux locaux**
+**Mesures de promotion (art. 34l LIAM)**
 
-<sup>1</sup> Les professionnels des médias accrédités disposent des droits suivants:
+<sup>1</sup> Le canton peut soutenir l'association «Forum politique Berne» pour ses activités dans le domaine de la formation politique au moyen de subventions annuelles à l'exploitation s'élevant au maximum à 20 pour cent du besoin de financement avéré.
 
-- a ils reçoivent les invitations aux manifestations organisées pour les médias par les autorités et l'administration cantonale;
-- b ils reçoivent gratuitement tous les documents mis à la disposition des médias par les autorités et l'administration cantonale, tels que l'Annuaire officiel, le rapport de gestion, les documents faisant l'objet des délibérations du Grand Conseil et les publications de l'Office de la communication;
-- c ils reçoivent les communications des commissions du Grand Conseil (art. 18, 2e al. de la loi du 8 novembre 1988 sur le Grand Conseil, LGC[^27-1]);
-- d ils ont accès à la tribune des journalistes de la salle du Grand Conseil et aux locaux qui sont mis à leur disposition pour l'exercice de leur activité;
-- e ils ont accès en priorité à toutes les séances de commission au sens des articles 4, 2e alinéa et 8, 2e alinéa LIn[^27-2].
+<sup>2</sup> Le soutien à d'autres institutions proposant des offres dans le domaine de la formation politique, en particulier auprès des jeunes, prend la forme de subventions à l'exploitation ou à des projets. Les montants n'excèdent pas 20'000 francs par an et par institution dans les deux cas, les bénéficiaires devant fournir des prestations propres adéquates.
 
-<sup>2</sup> Durant les séances, les professionnels des médias accrédités qui font des prises de vue ou de son ou des retransmissions télévisées ou radiophoniques ont accès à la salle du Grand Conseil.
+<sup>3</sup> Pour les contrats de prestations et les décisions de subventionnement, les articles 25, alinéa 3 et 26, alinéa 3 s'appliquent par analogie.
 
-[^27-1]: Abrogée par L du 4. 6. 2013 sur le Grand Conseil (LGC); RSB 151.21
-[^27-2]: RSB 107.1
+## 4 Dispositions finales
 
 #### Art. 28
-
-**Retrait de l'accréditation**
-
-<sup>1</sup> L'Office de la communication peut retirer l'accréditation
-
-- a pour la session en cours si les activités parlementaires sont perturbées (art. 9, al. 2 du règlement du Grand Conseil du 4 juin 2013 [RGC][^28-1], et en cas de récidive pour une durée pouvant aller jusqu’à une année;
-- b pour une durée déterminée n'excédant pas trois ans, en application de l'article 32, 2e alinéa LIn[^28-2];[^28-3]
-- c pour une durée indéterminée, lorsque les conditions de l'accréditation ne sont plus remplies.[^28-4]
-
-<sup>2</sup> Il entend préalablement la personne concernée ainsi que l'entreprise pour laquelle elle travaille si elle est rédacteur ou rédactrice responsable. Dans les cas prévus au 1er alinéa, lettre a , il entend également les organisations de professionnels des médias.
-
-<sup>3</sup> Les professionnels des médias auxquels l'accréditation a été retirée sont tenus de rendre sans délai leur carte de légitimation.
-
-[^28-1]: RSB 151.211
-[^28-2]: RSB 107.1
-[^28-3]: Ancienne lettre a
-[^28-4]: Ancienne lettre b
-
-#### Art. 29
-
-**Professionnels des médias non accrédités**
-
-<sup>1</sup> Les professionnels des médias qui ne sont pas accrédités reçoivent sur demande les documents qu'ils désirent.
-
-## 4 Assemblées communales
-
-#### Art. 30
-
-<sup>1</sup> La personne qui désire faire des prises de vue ou de son ou des retransmissions télévisées ou radiophoniques lors d'une assemblée communale s'annonce auprès du président ou de la présidente de l'assemblée avant le début de la séance.
-
-<sup>2</sup> Les propositions concernant les prises de vues ou de son ou leur retransmission sont soumises à la décision de l'assemblée au début de la séance. Si l'assemblée les accepte, le président ou la présidente informe les personnes présentes de leurs droits.
-
-<sup>3</sup> Si l'assemblée communale autorise les prises de vue ou de son ou leur retransmission, les personnes opposées à l'enregistrement de leurs interventions ou de leurs votes sont tenues de le faire savoir avant d'intervenir ou de voter.
-
-## 5 Voies de droit
-
-#### Art. 31
-
-<sup>1</sup> Les compétences des autorités de la juridiction administrative sont régies en principe par les dispositions de la loi du 23 mai 1989 sur la procédure et la juridiction administratives (LPJA)[^31-1].
-
-<sup>2</sup> Les décisions concernant la consultation de dossiers des établissements et des collectivités du canton et celles de personnes privées qui assument des tâches publiques cantonales sont susceptibles de recours auprès de la Direction qui assume la surveillance ou auprès de celle dont le champ d’activité est le plus proche de l’objet du dossier.
-
-<sup>3–4</sup> …
-
-[^31-1]: RSB 155.21
-
-## 6 Dispositions transitoires et finales
-
-### 6.1 Dispositions transitoires
-
-#### Art. 32
-
-**Adaptation des règlements communaux**
-
-<sup>1</sup> Les communes adaptent leurs règlements à la nouvelle législation sur l'information du public d'ici le 1er janvier 1997. Les groupements de communes et les autres corporations de droit communal les adaptent d'ici le 1er janvier 1999.
-
-#### Art. 33
-
-**Archives communales**
-
-<sup>1</sup> Les articles 8 et 9 de l'ordonnance du 14 juin 1978 sur les archives communales[^33-1] restent en vigueur jusqu'à la révision de ladite ordonnance, mais au plus tard jusqu'au 31 décembre 1996.
-
-[^33-1]: Abrogée par O du 16. 12. 1998 sur les communes; RSB 170.111
-
-#### Art. 34
-
-**Professionnels des médias accrédités**
-
-<sup>1</sup> Les professionnels des médias qui, à la date d'entrée en vigueur de la présente ordonnance, disposent d'une accréditation au sens de l'article 5 de l'ordonnance du 13 août 1980 concernant l'information du public la conservent après cette date.
-
-### 6.2 Dispositions finales
-
-#### Art. 35
 
 **Modification d'actes législatifs**
 
 <sup>1</sup> Les actes législatifs suivants sont modifiés:
 
-- 1\. Ordonnance du 10 décembre 1980 concernant le registre des électeurs (ORE) [^35-1] :
-- 2\. Ordonnance du 30 novembre 1977 sur les communes [^35-2] :
-- 3\. Ordonnance du 3 juillet 1991 sur la gestion financière des communes (OGFCo) [^35-3] :
-- 4\. Ordonnance du 2 avril 1946 sur les registres des votants ainsi que les élections et votations en matière ecclésiastique [^35-4] :
-- 5\. Ordonnance du 24 juin 1992 sur les Archives de l'Etat de Berne [^35-5] :
-- 6\. Ordonnance du 29 juin 1983 sur les rives des lacs et des rivières [^35-6] :
+- a ordonnance du 14 décembre 2005 sur la communication de données personnelles (OCDP)[^28-1],
+- b ordonnance du 13 mars 2013 sur la classification, la publication et l'archivage des documents relatifs aux affaires du Conseil-exécutif (ordonnance sur la classification, OCACE)[^28-2],
+- c ordonnance du 18 octobre 1995 sur l'organisation et les tâches de la Chancellerie d'Etat (ordonnance d'organisation CHA, OO CHA)[^28-3],
+- d ordonnance du 30 juin 2021 sur l'organisation et les tâches de la Direction de la santé, des affaires sociales et de l'intégration (ordonnance d'organisation DSSI, OO DSSI)[^28-4],
+- e ordonnance du 22 février 1995 fixant les émoluments de l'administration cantonale (ordonnance sur les émoluments; OEmo)[^28-5],
+- f ordonnance du 16 décembre 1998 sur les communes (OCo)[^28-6].
 
-[^35-1]: RSB 141.113
-[^35-2]: Abrogée par O du 16. 12. 1998 sur les communes; RSB 170.111
-[^35-3]: Abrogée par O du 16. 12. 1998 sur les communes; RSB 170.111
-[^35-4]: Abrogée, actuellement O du 19. 10. 2011 sur les rapports de travail des titulaires de poste d’ecclésiastique ou d’ecclésiastique auxiliaire (OREA); RSB 414.311
-[^35-5]: Abrogée par O du 4. 11. 2009 sur l'archivage (OArch); RSB 108.111
-[^35-6]: RSB 704.111
+[^28-1]: RSB [152.041.1](https://www.belex.sites.be.ch/data/152.041.1/fr)
+[^28-2]: RSB [152.17](https://www.belex.sites.be.ch/data/152.17/fr)
+[^28-3]: RSB [152.211](https://www.belex.sites.be.ch/data/152.211/fr)
+[^28-4]: RSB [152.221.121](https://www.belex.sites.be.ch/data/152.221.121/fr)
+[^28-5]: RSB [154.21](https://www.belex.sites.be.ch/data/154.21/fr)
+[^28-6]: RSB [170.111](https://www.belex.sites.be.ch/data/170.111/fr)
 
-#### Art. 36
+#### Art. 29
 
-**Abrogation d'actes législatifs**
+**Abrogation d'un acte législatif**
 
-<sup>1</sup> Les actes législatifs suivants sont abrogés:
+<sup>1</sup> L'ordonnance du 26 octobre 1994 sur l'information du public (ordonnance sur l'information; OIn)[^29-1] est abrogée.
 
-- 1\. ordonnance du 22 mai 1991 sur l'accès aux renseignements et aux documents ouvert aux membres du Grand Conseil, aux groupes parlementaires et au Secrétariat du parlement (OARD),
-- 2\. ordonnance du 13 août 1980 concernant l'information du public.
+[^29-1]: RSB [107.111](https://www.belex.sites.be.ch/data/107.111/fr)
 
-#### Art. 37
+#### Art. 30
 
 **Entrée en vigueur**
 
-<sup>1</sup> La présente ordonnance entre en vigueur le 1er janvier 1995.
+<sup>1</sup> La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2024.
 
-Berne, le 26 octobre 1994
+Berne, le 15 novembre 2023
 
 Au nom du Conseil-exécutif,
 
-le président: Annoni
+le président: Müller
 
-le chancelier: Nuspliger
+le chancelier: Auer
 
-94-126
+23-075

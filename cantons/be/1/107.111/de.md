@@ -1,480 +1,369 @@
 ---
 canton: BE
 number: "107.111"
-title: Verordnung über die Information der Bevölkerung
-short: Informationsverordnung; IV
+title: Verordnung über die Information und die Medienförderung
+short: IMV
 language: de
-version: 2019-01-01
-valid_until: 2023-12-31
-version_adopted: 2018-11-07
+version: 2024-01-01
+valid_until: 2025-05-31
+version_adopted: 2023-11-15
 adopted: 2023-11-15
 in_force: 2024-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/107.111"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1551/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2941/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung über die Information der Bevölkerung
+# Verordnung über die Information und die Medienförderung
 
-(Informationsverordnung; IV)
+(IMV)
 
-vom 26.10.1994 (Stand 01.01.2019)
+vom 15.11.2023 (Stand 01.01.2024)
 
 Der Regierungsrat des Kantons Bern,
 
-gestützt auf Artikel 32 Absatz 3 und Artikel 36 Absatz 1 des Gesetzes vom 2. November 1993 über die Information der Bevölkerung (Informationsgesetz; IG)[^ingress-1] und auf Artikel 78 des Kantonalen Bevölkerungsschutz- und Zivilschutzgesetzes vom 24. Juli 2004 (KBZG)[^ingress-2]
+gestützt auf Artikel 15b Absatz 3, Artikel 16a Absatz 4, Artikel 31a Absatz 2, Artikel 34e Absatz 1, Artikel 34l Absatz 1 und Artikel 36 Absatz 1 des Gesetzes vom 2. November 1993 über die Information und die Medienförderung (IMG)[^ingress-1],
 
 auf Antrag der Staatskanzlei,
 
 beschliesst:
 
-[^ingress-1]: BSG 107.1
-[^ingress-2]: BSG 521.1
+[^ingress-1]: BSG [107.1](https://www.belex.sites.be.ch/data/107.1/de)
 
-## 1 Information auf Anfrage
+## 1 Information der Öffentlichkeit
 
-### 1.1 Formlose Anfrage
+### 1.1 Grundsätze
 
 #### Art. 1
 
-**Zuständigkeit**
+**Verständlichkeit der behördlichen Information und Kommunikation (Art. 14 und 14a Abs. 1 IMG)**
 
-<sup>1</sup> Formlose Anfragen werden durch die fachlich zuständigen Dienststellen von Kanton und Gemeinden beantwortet.
+<sup>1</sup> Die Behörden informieren und kommunizieren in einer für die Öffentlichkeit allgemein verständlichen Sprache.
 
-<sup>2</sup> Anfragen sind unverzüglich an die zuständige Dienststelle weiterzuleiten.
+<sup>2</sup> Sie bieten für Menschen mit Behinderungen oder mit geringen Sprachkenntnissen soweit möglich und geboten zusätzliche Hilfsmittel und Übersetzungen an, insbesondere wenn die Informationen oder Kommunikationsangebote
 
-<sup>3</sup> Die Gemeinden können in ihren Reglementen bezüglich der Zuständigkeit abweichende Regelungen vorsehen und namentlich eine zentrale Informationsstelle bezeichnen.
+- a sich primär an diese Personen richten,
+- b wesentlich sind für ihre Sicherheit oder Gesundheit,
+- c erforderlich sind für die Wahrnehmung ihrer Rechte und Pflichten oder
+- d ihnen ermöglichen, ihr Recht auf politische Teilhabe auszuüben.
 
 #### Art. 2
+
+**Bekanntgabe von Personendaten im Internet (Art. 15b IMG)**
+
+<sup>1</sup> Vor der Bekanntgabe von Personendaten im Internet prüft die verantwortliche Behörde, ob für die betroffenen Personen besondere Risiken bestehen, welche die öffentlichen Interessen an der Publikation überwiegen. Bestehen solche Risiken, so verzichtet die Behörde auf die Publikation im Internet.
+
+<sup>2</sup> Die betroffene Person kann die Bekanntgabe ihrer Daten sperren lassen, wenn sie ein schützenswertes Interesse nachweist.
+
+#### Art. 3
+
+**Entfernung von Personendaten vom Internet (Art. 15b IMG)**
+
+<sup>1</sup> Die für die Information zuständige Behörde legt zum Zeitpunkt der Publikation fest, wann die Personendaten zu entfernen sind.
+
+<sup>2</sup> Die Fristen bis zur Entfernung gemäss Absatz 1 können durch Weisung schematisch festgelegt werden und sich nach Publikationskategorien richten.
+
+#### Art. 4
+
+**Zuständigkeiten zur Information und Kommunikation**
+
+<sup>1</sup> Das Amt für Kommunikation der Staatskanzlei plant und koordiniert die gesamtkantonale Informations- und Kommunikationstätigkeit gemäss Artikel 21 Absatz 1 IMG.
+
+<sup>2</sup> Die Direktionen, die Staatskanzlei und die Parlamentsdienste sind für die Information und Kommunikation über ihre Verwaltungstätigkeit zuständig.
+
+<sup>3</sup> Die Regierungsstatthalterinnen und Regierungsstatthalter
+
+- a sind für die Information und Kommunikation über ihre Verwaltungstätigkeit zuständig,
+- b sprechen sich nach Möglichkeit vorgängig mit dem Amt für Kommunikation ab.
+
+### 1.2 Information von Amtes wegen
+
+#### Art. 5
+
+**Allgemeines Interesse (Art. 16 Abs. 1 Bst. a IMG)**
+
+<sup>1</sup> Ein allgemeines Interesse im Sinne von Artikel 16 Absatz 1 Buchstabe a IMG liegt namentlich dann vor, wenn eine Information zur Wahrung der demokratischen Rechte und zur Sicherstellung der Meinungsbildung über das Geschehen im Kanton oder in der betreffenden Gemeinde von Bedeutung ist.
+
+#### Art. 6
+
+**Information und Kommunikation bei Katastrophen und in Notlagen**
+
+<sup>1</sup> Für die Information und Kommunikation bei Katastrophen und in Notlagen gilt primär die Gesetzgebung über den Bevölkerungsschutz.
+
+#### Art. 7
+
+**Zweisprachigkeit der Informationen des Regierungsrates und der Kantonsverwaltung (Art. 16a Abs. 4 IMG und Art. 20 IMG)**
+
+<sup>1</sup> Der Regierungsrat und die Kantonsverwaltung veröffentlichen Informationen, die den gesamten Kanton betreffen, unter Vorbehalt von Absatz 2 zeitgleich in beiden Amtssprachen.
+
+<sup>2</sup> Von einer zeitgleichen Veröffentlichung kann insbesondere abgewichen werden
+
+- a bei ausserordentlichen Ereignissen, die bedeutende Rechtsgüter betreffen, wenn situationsbedingt die erforderlichen Ressourcen nicht verfügbar sind,
+- b bei parlamentarischen Vorstössen und Anträgen im Rahmen der Sessionen des Grossen Rates.
+
+<sup>3</sup> Berichte, Studien und Gutachten von allgemeinem Interesse weisen ungeachtet ihrer Originalsprache eine Zusammenfassung in beiden Amtssprachen auf.
+
+### 1.3 Information auf Anfrage
+
+### 1.3.1 Zuständigkeit
+
+#### Art. 8
+
+**Grundsatz (Art. 31a IMG)**
+
+<sup>1</sup> Für die Beantwortung einer formlosen Anfrage oder die Beurteilung eines Gesuchs um Zugang zu Informationen ist unter Vorbehalt der Artikel 9 bis 12 jene Behörde zuständig, welche die Information
+
+- a aufgezeichnet hat,
+- b von Dritten, die nicht dem IMG unterstehen, als Hauptadressatin erhalten hat, oder
+- c archiviert, sofern die Angelegenheit verwaltungsintern abgeschlossen ist.
+
+<sup>2</sup> Ist die ersuchte Behörde nicht zuständig, so
+
+- a leitet sie die formlose Anfrage oder das Gesuch unverzüglich an die zuständige Behörde weiter,
+- b spricht sie sich nötigenfalls mit den übrigen beteiligten Behörden ab.
+
+#### Art. 9
+
+**Zuständigkeit bei Informationen von mehreren Behörden (Art. 31a Abs. 2 IMG)**
+
+<sup>1</sup> Für formlose Anfragen und Gesuche um Zugang zu Informationen, die bei mehreren Behörden vorhanden sind, ist die Behörde gemäss Artikel 8 Absatz 1 zuständig.
+
+<sup>2</sup> Ist die Zuständigkeit unklar oder haben mehrere Behörden die Information gemeinsam erarbeitet, stellt die ersuchte Behörde das Einvernehmen über die Zuständigkeit mit den übrigen beteiligten Behörden her.
+
+#### Art. 10
+
+**Zuständigkeit bei Informationen der Organe des Grossen Rates**
+
+<sup>1</sup> Für formlose Anfragen und Gesuche um Zugang zu Geschäften von Organen des Grossen Rates ist das jeweils mit der Sache befasste Ratsorgan zuständig.
+
+<sup>2</sup> Besteht das Ratsorgan nicht mehr, ist das Büro des Grossen Rates zuständig.
+
+#### Art. 11
+
+**Zuständigkeit bei Informationen des Regierungsrates und der Kantonsverwaltung**
+
+<sup>1</sup> Für formlose Anfragen und Gesuche um Zugang zu Regierungsratsgeschäften ist das jeweilige Generalsekretariat der federführenden Direktion bzw. das jeweilige Amt der federführenden Staatskanzlei zuständig.
+
+<sup>2</sup> Für Gesuche um Zugang zu Dokumenten von Regierungsratsgeschäften, die als «Geheim» klassifiziert sind, ist das zuständige Mitglied des Regierungsrates oder die Staatschreiberin oder der Staatsschreiber zuständig.
+
+<sup>3</sup> Für formlose Anfragen und Gesuche um Zugang zu Informationen der Direktion und der Staatskanzlei ist das jeweilige Generalsekretariat oder das federführende Amt zuständig.
+
+#### Art. 12
+
+**Zuständigkeit bei Informationen im Staatsarchiv**
+
+<sup>1</sup> Formlose Anfragen und Gesuche um Zugang zu Informationen, die sich im Staatsarchiv befinden, behandelt
+
+- a die zuständige Behörde gemäss Artikel 31a IMG bzw. Artikel 8 bis 11 während einer Verwaltungsfrist von 30 Jahren,
+- b das Staatsarchiv nach Ablauf der Verwaltungsfrist.
+
+<sup>2</sup> Die Verwaltungsfrist beginnt
+
+- a bei Unterlagen der Gerichtsbehörden und der Staatsanwaltschaft sowie von Verwaltungsjustizbehörden mit dem Datum des verfahrensabschliessenden Entscheids,
+- b bei allen übrigen Informationen mit dem Datum ihrer letzten Bearbeitung.
+
+<sup>3</sup> Massgebend für die Bestimmung der Zuständigkeit ist der Zeitpunkt, in dem die formlose Anfrage oder das Gesuch eingereicht wird.
+
+### 1.3.2 Formlose Anfrage
+
+#### Art. 13
 
 **Form der Antwort**
 
 <sup>1</sup> Mündliche Anfragen werden in der Regel mündlich, schriftliche Anfragen in der Regel schriftlich beantwortet.
 
-#### Art. 3
-
-**Einschränkungen**
-
-<sup>1</sup> Die Einschränkungen von Artikel 27 bis 29 IG[^3-1] gelten auch für formlose Anfragen.
-
-[^3-1]: BSG 107.1
-
-#### Art. 4
-
-**Abgrenzung zur Akteneinsicht**
-
-<sup>1</sup> Eine Anfrage kann nicht als formlose Anfrage im Sinne von Artikel 31 IG[^4-1] behandelt werden, wenn
-
-- a die ausdrückliche Zustimmung einer betroffenen Person erforderlich ist (Art. 28 IG);
-- b sie Personendaten zum Gegenstand hat, deren Bekanntgabe nach der Datenschutzgesetzgebung oder der besonderen Gesetzgebung ohne vertiefte Interessenabwägung nicht zugelassen ist, oder
-- c eine vertiefte Interessenabwägung im Hinblick auf das Vorliegen überwiegender öffentlicher Interessen (Art. 29 Abs. 1 IG) vorgenommen werden muss.
-
-<sup>2</sup> In diesen Fällen wird die anfragende Person in das Verfahren betreffend Akteneinsicht (Art. 30 IG[^4-2]) verwiesen und gleichzeitig auf die möglichen Kostenfolgen hingewiesen.
-
-[^4-1]: BSG 107.1
-[^4-2]: BSG 107.1
-
-### 1.2 Akteneinsicht
-
-#### Art. 5
-
-**Zuständigkeit a Grundsatz**
-
-<sup>1</sup> Zuständig zur Behandlung von Gesuchen um Akteneinsicht ist die mit der Sache befasste Behörde oder, wenn die Angelegenheit verwaltungsintern abgeschlossen ist, die Behörde, welche die Akten verwaltet. Vorbehalten bleiben die Artikel 6 bis 8.
-
-<sup>2</sup> Die Gemeinden können in ihren Reglementen bezüglich der Zuständigkeit abweichende Regelungen vorsehen.
-
-<sup>3</sup> Sind die gleichen Akten bei mehreren Behörden vorhanden, so kann die Behörde, von der die Akten ausgehen, oder die übergeordnete Behörde anordnen, dass zur Behandlung der Gesuche nur eine Behörde zuständig ist.
-
-#### Art. 6
-
-**b Kommissionen des Grossen Rates**
-
-<sup>1</sup> Zuständig zur Behandlung von Gesuchen um Einsicht in Akten von Kommissionen des Grossen Rates sind diese selbst.
-
-<sup>2</sup> Besteht die Kommission nicht mehr, ist für die Behandlung zuständig
-
-- a das Büro des Grossen Rates für Akten einer parlamentarischen Untersuchungskommission,
-- b die Behörde, welche die Akten verwaltet, für Protokolle der Verhandlungen über rechtsetzende Erlasse,
-- c die Präsidentin oder der Präsident des Grossen Rates in den übrigen Fällen.
-
-#### Art. 7
-
-**c Regierungsrat und Direktionen**
-
-<sup>1</sup> Gesuche um Einsicht in Akten zu Geschäften des Regierungsrates, einer Direktion oder der Staatskanzlei werden vom Direktionssekretariat oder Amt behandelt welches das Geschäft vorbereitet hat. Artikel 13 Absatz 2 der Verordnung vom 16. Dezember 2009 über die Klassifizierung, die Veröffentlichung und die Archivierung von Beschlüssen des Regierungsrates und Vorträgen bleibt vorbehalten.
-
-#### Art. 8
-
-**d Staatsarchiv**
-
-<sup>1</sup> Gesuche um Einsicht in Akten, welche sich im Staatsarchiv befinden, behandelt
-
-- a während einer Verwaltungsfrist von 30 Jahren die gemäss Artikel 5 Absatz 1 oder Artikel 6 und 7 zuständige Behörde,
-- b nach Ablauf der Verwaltungsfrist das Staatsarchiv.
-
-<sup>2</sup> Die Verwaltungsfrist beginnt
-
-- a bei Gerichtsakten und Akten von Verwaltungsjustizverfahren mit dem Datum des verfahrensabschliessenden Entscheids,
-- b bei allen übrigen Dokumenten mit dem Datum ihrer Ausstellung.
-
-<sup>3</sup> Massgebend für die Zuständigkeit ist der Zeitpunkt, in welchem das Gesuch eingereicht wird.
-
-#### Art. 9
-
-**Einreichen des Gesuches**
-
-<sup>1</sup> Das Gesuch um Akteneinsicht ist schriftlich bei der zuständigen Behörde (Art. 5 bis 8) einzureichen.
-
-<sup>2</sup> Im Gesuch sollen die Akten, in die Einsicht verlangt wird, sowie die interessierenden Daten möglichst genau umschrieben werden. Das Gesuch muss nur begründet werden, wenn es die besondere Gesetzgebung vorsieht.
-
-#### Art. 10
-
-**Vorläufige Prüfung**
-
-<sup>1</sup> Die Behörde prüft unverzüglich ihre Zuständigkeit und leitet das Gesuch gegebenenfalls an die zuständige Behörde weiter.
-
-<sup>2</sup> Umschreibt das Gesuch die Akten, in die Einsicht verlangt wird, sowie die interessierenden Daten nicht hinreichend genau, so verlangt die Behörde von der gesuchstellenden Person ergänzende und präzisierende Angaben. Reicht die gesuchstellende Person diese Angaben nicht innert der gesetzten Frist ein, gilt das Gesuch als zurückgezogen.
-
-<sup>3</sup> Die Behörde informiert die gesuchstellende Person, wenn diese mit erheblichen Kostenfolgen rechnen muss (Art. 30 Abs. 2 IG).
-
-#### Art. 11
-
-**Überwiegende öffentliche Interessen**
-
-<sup>1</sup> Die Behörde prüft in jedem Fall, ob der Gewährung von Einsicht überwiegende öffentliche Interessen entgegenstehen (Art. 29 Abs. 1 IG oder besondere Geheimhaltungspflichten).
-
-<sup>2</sup> Ein unverhältnismässiger Aufwand gemäss Artikel 29 Absatz 1 Buchstabe c IG[^11-1] liegt dann vor, wenn die Behörde mit ihren ordentlichen personellen Mitteln und ihrer Infrastruktur nicht in der Lage ist, das Einsichtsgesuch innert nützlicher Frist zu erledigen, ohne ihre Aufgaben zu vernachlässigen.
-
-[^11-1]: BSG 107.1
-
-#### Art. 12
-
-**Überwiegende private Interessen a Abdecken von Daten**
-
-<sup>1</sup> Der Schutz überwiegender privater Interessen wird soweit möglich durch Abdecken von Daten gewährleistet.
-
-#### Art. 13
-
-**b Besonders schützenswerte Personendaten**
-
-<sup>1</sup> Sind besonders schützenswerte Personendaten betroffen und können diese nicht abgedeckt werden, so holt die Behörde die Zustimmung der betroffenen Person ein und macht sie auf ihr Verweigerungsrecht aufmerksam.
-
-<sup>2</sup> Die Behörde lehnt das Gesuch ab, wenn die Zustimmung verweigert wird, die Verweigerung der Zustimmung vermutet werden muss oder wenn das Einholen der Zustimmung mit unverhältnismässigem Aufwand verbunden ist.
+<sup>2</sup> Für die Gewährung des Zugangs zu Informationen gilt zudem sinngemäss Artikel 23.
 
 #### Art. 14
 
-**c Nicht besonders schützenswerte Personendaten**
+**Einschränkungen**
 
-<sup>1</sup> Sind nicht besonders schützenswerte Personendaten betroffen und können diese nicht abgedeckt werden, so prüft die Behörde, ob der Gewährung von Einsicht überwiegende private Interessen im Sinne von Artikel 29 Absatz 2 IG oder Bestimmungen über besondere Geheimhaltungspflichten (Art. 5 Abs. 5, Art. 12 und Art. 14 Abs. 2 des Datenschutzgesetzes vom 19. Februar 1986, DSG[^14-1]) entgegenstehen.
-
-<sup>2</sup> Alle in den Akten erwähnten Personen werden angehört, wenn Zweifel bestehen,
-
-- a ob es sich um besonders schützenswerte Personendaten handelt oder
-- b ob überwiegende private Interessen betroffen sind.
-
-<sup>3</sup> In den übrigen Fällen kann die Behörde auf eine Anhörung verzichten.
-
-[^14-1]: BSG 152.04
+<sup>1</sup> Die Einschränkungen von Artikel 27 bis 29 IMG gelten auch für formlose Anfragen.
 
 #### Art. 15
 
-**Eröffnung**
+**Abgrenzung zum Gesuchsverfahren um Zugang zu Informationen**
 
-<sup>1</sup> Ist einzig die gesuchstellende Person am Verfahren beteiligt und wird dem Gesuch vollumfänglich stattgegeben, kann der Beschluss auch mündlich mitgeteilt werden.
+<sup>1</sup> Eine Anfrage kann nicht als formlose Anfrage im Sinne von Artikel 31 IMG behandelt werden, wenn
+
+- a um Zugang zu besonders schützenswerten Personendaten ersucht wird (Art. 28 IMG),
+- b sie Personendaten zum Gegenstand hat, deren Bekanntgabe nach der Datenschutzgesetzgebung oder der besonderen Gesetzgebung ohne vertiefte Interessenabwägung nicht zugelassen ist, oder
+- c eine vertiefte Interessenabwägung im Hinblick auf das Vorliegen anderer überwiegender privater Interessen (Art. 29 Abs. 2 IMG) oder überwiegender öffentlicher Interessen (Art. 29 Abs. 1 IMG) vorgenommen werden muss.
+
+<sup>2</sup> In diesen Fällen wird die anfragende Person in das Gesuchsverfahren um Zugang zu Informationen (Art. 30 IMG) verwiesen und gleichzeitig auf die mögliche Gebührenpflicht hingewiesen.
+
+### 1.3.3 Gesuch um Zugang zu Informationen
 
 #### Art. 16
 
-**Einsichtnahme**
+**Einreichen des Gesuchs**
 
-<sup>1</sup> Die Einsichtnahme erfolgt grundsätzlich während den ordentlichen Öffnungszeiten bei der Behörde, die sich mit der Sache befasst oder die Akten verwaltet.
+<sup>1</sup> Das Gesuch um Zugang zu Informationen ist schriftlich bei der zuständigen Behörde (Art. 8 bis 12) einzureichen.
 
-<sup>2</sup> Die Behörde kann in Abweichung von Absatz 1 die Einsichtnahme auch durch Zusendung einer Aktenkopie gewähren, wenn der Verwaltungsaufwand kleiner ist.
+<sup>2</sup> Im Gesuch sind die Informationen, zu denen Zugang verlangt wird, möglichst genau zu umschreiben.
 
-<sup>3</sup> Die Behörde sorgt für die Sicherheit der Daten während der Einsichtnahme.
-
-## 2 Information von Amtes wegen durch kantonale Behörden
-
-### 2.1 Grundsätze
+<sup>3</sup> Das Gesuch muss nur begründet werden, wenn es die besondere Gesetzgebung vorsieht.
 
 #### Art. 17
 
-**Allgemeines Interesse**
+**Information zur Gebührenpflicht**
 
-<sup>1</sup> Ein allgemeines Interesse im Sinne von Artikel 16 Absatz 1 IG[^17-1] liegt immer dann vor, wenn eine Information zur Wahrung der demokratischen Rechte und zur Sicherstellung der Meinungsbildung über das Geschehen im Kanton von Bedeutung ist.
-
-[^17-1]: BSG 107.1
+<sup>1</sup> Die Behörde informiert die gesuchstellende Person, wenn diese mit erheblichen Kostenfolgen rechnen muss (Art. 30 Abs. 2 IMG).
 
 #### Art. 18
 
-**Primat der Medien**
+**Abdecken der schützenswerten Informationen**
 
-<sup>1</sup> Die Information erfolgt grundsätzlich über die Medien.
+<sup>1</sup> Der Schutz überwiegender öffentlicher oder privater Interessen wird soweit möglich durch Abdecken der schützenswerten Informationen gewährleistet.
 
 #### Art. 19
 
-**Information durch die Direktionen**
+**Überwiegendes öffentliches Interesse: Unverhältnismässiger Aufwand (Art. 29 Abs. 1 Bst. c IMG)**
 
-<sup>1</sup> Für Informationen über die Verwaltungstätigkeit einer Direktion ist die Direktorin oder der Direktor zuständig. Sie oder er kann diese Zuständigkeit übertragen.
-
-<sup>2</sup> Informiert eine Direktion von Amtes wegen, so ist über das Amt für Kommunikation eine mediengerechte Verbreitung sicherzustellen.
-
-<sup>3</sup> Die Kommissionen des Regierungsrates informieren durch die fachlich zuständige Direktion.
+<sup>1</sup> Ein unverhältnismässiger Aufwand gemäss Artikel 29 Absatz 1 Buchstabe c IMG liegt dann vor, wenn die Behörde mit ihren ordentlichen personellen Mitteln und ihrer Infrastruktur nicht in der Lage ist, das Gesuch um Zugang zu Informationen innert nützlicher Frist zu erledigen, ohne ihre Aufgaben zu vernachlässigen.
 
 #### Art. 20
 
-**Information durch die Regierungsstatthalterämter**
+**Überwiegendes privates Interesse: Besonders schützenswerte Personendaten (Art. 28 IMG)**
 
-<sup>1</sup> Die Regierungsstatthalterinnen und Regierungsstatthalter sind für die Information über ihre Verwaltungstätigkeit zuständig.
+<sup>1</sup> Sind besonders schützenswerte Personendaten betroffen und können diese nicht abgedeckt werden, so holt die Behörde die Zustimmung der betroffenen Person ein und macht sie auf ihr Verweigerungsrecht aufmerksam.
 
-<sup>2</sup> Sie sprechen sich nach Möglichkeit vorgängig mit dem Amt für Kommunikation ab.
+<sup>2</sup> Die Behörde lehnt das Gesuch ab, wenn
 
-### 2.2 Berichte und Gutachten
+- a die Zustimmung verweigert wird,
+- b die Verweigerung der Zustimmung vermutet werden muss oder
+- c das Einholen der Zustimmung mit unverhältnismässigem Aufwand verbunden ist.
 
 #### Art. 21
 
-<sup>1</sup> Alle Berichte und Gutachten von allgemeinem Interesse weisen ungeachtet ihrer Originalsprache eine Zusammenfassung in beiden Amtssprachen auf. Diese enthält die wichtigsten Aussagen und Schlussfolgerungen.
+**Überwiegendes privates Interesse: Nicht besonders schützenswerte Personendaten (Art. 29 Abs. 2 IMG)**
 
-<sup>2</sup> Berichte und Gutachten werden vor ihrer Veröffentlichung in vollem Umfang in die andere Amtssprache übersetzt, wenn sie das entsprechende Sprachgebiet besonders betreffen.
+<sup>1</sup> Sind nicht besonders schützenswerte Personendaten betroffen und können diese nicht abgedeckt werden, so prüft die Behörde, ob der Gewährung des Zugangs zu Informationen überwiegende private Interessen entgegenstehen.
 
-### 2.3 Abgeschlossene Verwaltungs- und Verwaltungsjustizverfahren
+<sup>2</sup> Die in den ersuchten Informationen erwähnten Personen werden angehört, wenn Zweifel bestehen, ob
+
+- a es sich um besonders schützenswerte Personendaten handelt oder
+- b überwiegende private Interessen betroffen sind.
+
+<sup>3</sup> In den übrigen Fällen kann die Behörde auf eine Anhörung verzichten.
 
 #### Art. 22
 
-**Information der Verfahrensbeteiligten**
+**Formlose Eröffnung**
 
-<sup>1</sup> In Verwaltungs- und Verwaltungsjustizverfahren werden die am Verfahren Beteiligten wenn immer möglich vor den Medien über den Inhalt der Verfügung bzw. des Entscheids informiert.
+<sup>1</sup> Ist einzig die gesuchstellende Person am Verfahren beteiligt und wird dem Gesuch vollumfänglich stattgegeben, kann der Zugang zur Information formlos gewährt werden.
 
 #### Art. 23
 
-**Veröffentlichung von Verwaltungsjustizentscheiden**
+**Gewährung des Zugangs zu Informationen**
 
-<sup>1</sup> Verwaltungsjustizentscheide können im Rahmen von Artikel 24 IG[^23-1] ganz oder auszugsweise in Fachzeitschriften veröffentlicht werden.
+<sup>1</sup> Der Zugang zur Information wird in der Regel in digitaler Form gewährt.
 
-<sup>2</sup> Der Persönlichkeitsschutz ist sicherzustellen.
+<sup>2</sup> Er kann durch Einsicht bei der zuständigen Behörde oder durch Zustellung von Papierkopien stattfinden, wenn der Verwaltungsaufwand dadurch kleiner ist als in digitaler Form.
 
-[^23-1]: BSG 107.1
+<sup>3</sup> Die Behörde sorgt für die Sicherheit der Personendaten und Informationen bei der Gewährung des Zugangs.
 
-## 2a Information in ausserordentlichen Lagen
-
-#### Art. 23a
-
-**Grundsätze**
-
-<sup>1</sup> Die aktive Information nach den Grundsätzen des Informationsgesetzes ist von Beginn weg Teil der Führung bei Katastrophen und in Notlagen.
-
-<sup>2</sup> Die Führungsorgane aller Stufen stellen sicher, dass die Bevölkerung zeitgerecht, regelmässig und offen informiert wird.
-
-<sup>3</sup> Die Information der direkt betroffenen Bevölkerung und der Führungsorgane hat Vorrang.
-
-#### Art. 23b
-
-**Zuständigkeit**
-
-<sup>1</sup> Die Zuständigkeit richtet sich nach Artikel 35 KBZG vom 24. Juli 2004[^23b-1].
-
-<sup>2</sup> Die zuständigen Behörden organisieren das Informationswesen entsprechend ihren Möglichkeiten und den Erfordernissen zur Bewältigung der Katastrophen und Notlagen.
-
-<sup>3</sup> Sind Behörden der Verwaltungskreis- und Gemeindeebene nicht in der Lage, das Informationswesen mit eigenen Mitteln sicherzustellen, ziehen sie geeignete Fachleute bei.
-
-<sup>4</sup> Das Amt für Kommunikation kann zur fachlichen Unterstützung und Beratung der Führungsorgane ein Team von geeigneten Fachleuten zusammenstellen.
-
-[^23b-1]: BSG 521.1
-
-#### Art. 23c
-
-**Informationsmittel**
-
-<sup>1</sup> Die Information erfolgt grundsätzlich über die Medien.
-
-<sup>2</sup> Wenn es die Verhältnisse erfordern, kann die Bevölkerung direkt informiert werden, namentlich mittels
-
-- a Meldeläuferinnen und -läufer,
-- b Lautsprecher,
-- c Anschläge,
-- d Flugblätter,
-- e eigene elektronische Kommunikationsmittel.
-
-<sup>3</sup> Die Führungsorgane aller Stufen treffen Vorbereitungen für den Betrieb von Informations- und Auskunftsstellen (z. B. Sorgentelefon).
-
-#### Art. 23d
-
-**Sofortmassnahmen**
-
-<sup>1</sup> Das Polizeikommando trifft Sofortmassnahmen zur Information der Bevölkerung. Es bietet die Medien auf, verbreitet erste Verhaltensanweisungen und stellt die Primärinformation sicher.
-
-<sup>2</sup> Es übergibt die Informationsführung an das zuständige Führungsorgan, sobald dieses in der Lage ist, den Informationsauftrag selber zu erfüllen.
-
-#### Art. 23e
-
-**Schulung**
-
-<sup>1</sup> Das Amt für Bevölkerungsschutz, Sport und Militär führt unter fachlicher Leitung des Amts für Kommunikation periodisch Kurse zur Schulung der Informationsfachleute aller Stufen durch.
-
-<sup>2</sup> Die Angehörigen der Kreisführungsorgane können zu diesen Kursen aufgeboten werden.
-
-#### Art. 23f
-
-**Informationskonzepte**
-
-<sup>1</sup> Die Führungsorgane aller Stufen erstellen Konzepte für die Informationsvermittlung. Diese regeln in einfacher Form insbesondere die Zuständigkeiten und Abläufe.
-
-<sup>2</sup> Das Amt für Kommunikation stellt ein Musterinformationskonzept zur Verfügung.
-
-## 3 Akkreditierung von Medienschaffenden
+## 2 Öffentlichkeit der Sitzungen
 
 #### Art. 24
 
-**Zuständigkeit**
-
-<sup>1</sup> Zuständig für die Akkreditierung und für den Entzug der Akkreditierung ist das Amt für Kommunikation.
-
-#### Art. 25
-
-**Gesuch**
-
-<sup>1</sup> Akkreditierungsgesuche sind schriftlich beim Amt für Kommunikation einzureichen.
-
-<sup>2</sup> Die gesuchstellende Person muss nachweisen, dass sie sich als Medienschaffende oder Medienschaffender beruflich regelmässig mit bernischen Angelegenheiten befasst. Sie kann den Nachweis namentlich durch Bestätigungen der Chefredaktionen jener Medien erbringen, für welche sie arbeitet.
-
-#### Art. 26
-
-**Rechte der Akkreditierten a Ausweis**
-
-<sup>1</sup> Das Amt für Kommunikation stellt den akkreditierten Medienschaffenden eine Ausweiskarte aus.
-
-#### Art. 27
-
-**b Dienstleistungen, Zutritt**
-
-<sup>1</sup> Akkreditierten Medienschaffenden stehen folgende Rechte zu:
-
-- a Sie erhalten die Einladungen zu sämtlichen Anlässen, welche die Behörden und die kantonale Verwaltung für die Medien organisieren.
-- b Sie erhalten unentgeltlich alle Dokumente, die den Medien von den Behörden und von der kantonalen Verwaltung zur Verfügung gestellt werden, namentlich den Staatskalender, den Verwaltungsbericht, die Unterlagen für die Sessionen des Grossen Rates und die Veröffentlichungen des Amtes für Kommunikation.
-- c Sie erhalten die Mitteilungen der Kommissionen des Grossen Rates (Art. 18 Abs. 2 des Gesetzes vom 8. November 1988 über den Grossen Rat, GRG[^27-1]).
-- d Sie haben Zutritt zur Pressetribühne des Grossratssaales und zu den Räumen, die ihnen für die Ausübung ihrer Tätigkeit zur Verfügung gestellt werden.
-- e Sie haben vorrangigen Zutritt zu allen Kommissionssitzungen im Sinne der Artikel 4 Absatz 2 und 8 Absatz 2 IG[^27-2].
-
-<sup>2</sup> Während der Sitzungen des Grossen Rates haben akkreditierte Medienschaffende, die Bild- und Tonaufnahmen oder Bild- und Tonübertragungen machen, Zutritt zum Ratssaal.
-
-[^27-1]: Aufgehoben durch G vom 4. 6. 2013 über den Grossen Rat, BSG 151.21
-[^27-2]: BSG 107.1
-
-#### Art. 28
-
-**Entzug der Akkreditierung**
-
-<sup>1</sup> Das Amt für Kommunikation kann die Akkreditierung entziehen,
-
-- a für die laufende Session bei schwerwiegender Beeinträchtigung des Ratsbetriebs (Art. 9 Abs. 2 Geschäftsordnung des Grossen Rates vom 4. Juni 2013 [GO[^28-1]]), im Wiederholungsfall bis maximal ein Jahr.
-- b befristet auf maximal drei Jahre in Anwendung von Artikel 32 Absatz 2 IG[^28-2];[^28-3]
-- c unbefristet, wenn die Voraussetzungen zur Akkreditierung weggefallen sind.[^28-4]
-
-<sup>2</sup> Es gibt vorgängig der betroffenen Person und bei zeichnungsberechtigten Redaktorinnen und Redaktoren dem Medienunternehmen Gelegenheit zur Stellungnahme. In den Fällen von Absatz 1 Buchstabe a sind zudem die journalistischen Berufsorganisationen anzuhören.
-
-<sup>3</sup> Medienschaffende, denen die Akkreditierung entzogen worden ist, sind verpflichtet, ihren Ausweis umgehend zurückzugeben.
-
-[^28-1]: BSG 151.211
-[^28-2]: BSG 107.1
-[^28-3]: Die Buchstaben b und c entsprechen den bisherigen Buchstaben a und b
-[^28-4]: Die Buchstaben b und c entsprechen den bisherigen Buchstaben a und b
-
-#### Art. 29
-
-**Nicht akkreditierte Medienschaffende**
-
-<sup>1</sup> Nicht akkreditierte Medienschaffende erhalten die gewünschten Dokumente auf Anfrage.
-
-## 4 Gemeindeversammlungen
-
-#### Art. 30
+**Gemeindeversammlungen (Art. 10 Abs. 2 IMG)**
 
 <sup>1</sup> Wer Bild- und Tonaufnahmen oder -übertragungen von Gemeindeversammlungen machen will, hat dies der Versammlungsleitung bis zum Beginn der Versammlung anzumelden.
 
-<sup>2</sup> Anträge für Bild- und Tonaufzeichnungen oder -übertragungen werden den Stimmberechtigten zu Beginn der Versammlung zum Beschluss vorgelegt. Stimmt die Versammlung zu, macht die Versammlungsleitung die Anwesenden auf ihre Rechte aufmerksam.
+<sup>2</sup> Anträge für Bild- und Tonaufnahmen oder -übertragungen werden den Stimmberechtigten zu Beginn der Versammlung zum Beschluss vorgelegt. Stimmt die Versammlung zu, macht die Versammlungsleitung die Anwesenden auf ihre Rechte aufmerksam.
 
-<sup>3</sup> Lässt die Gemeindeversammlung Bild- und Tonaufzeichnungen oder -übertragungen zu, so haben Personen, welche ihre Äusserung oder Stimmabgabe nicht aufgezeichnet haben wollen, die Ablehnung der Aufzeichnung vor ihrer Äusserung oder Stimmabgabe bekanntzugeben.
+<sup>3</sup> Lässt die Versammlung Bild- und Tonaufnahmen oder -übertragungen zu, so haben Personen, die ihre Äusserung oder Stimmabgabe nicht aufgezeichnet haben wollen, die Ablehnung der Aufzeichnung vor ihrer Äusserung oder Stimmabgabe bekanntzugeben.
 
-## 5 Rechtspflege
+## 3 Förderungsmassnahmen in den Bereichen Medien und politische Bildung
 
-#### Art. 31
+### 3.1 Massnahmen zur Medienförderung
 
-<sup>1</sup> Die Zuständigkeiten der Behörden der Verwaltungsrechtspflege richten sich grundsätzlich nach den Bestimmungen des Gesetzes vom 23. Mai 1989 über die Verwaltungsrechtspflege (VRPG)[^31-1].
+#### Art. 25
 
-<sup>2</sup> Gegen Verfügungen betreffend die Akteneinsicht von Anstalten und Körperschaften des Kantons sowie von Privaten, die kantonale öffentliche Aufgaben erfüllen, kann bei jener Direktion Beschwerde geführt werden, welche die Aufsicht wahrnimmt oder welche dem Fachbereich am nächsten steht.
+**Nachrichtenagenturen (Art. 34c Abs. 1 Bst. a IMG)**
 
-<sup>3–4</sup> …
+<sup>1</sup> Der Kanton kann Institutionen, die publizistische Nachrichtendienste für Medien erbringen, durch Leistungsvertrag Betriebsbeiträge gewähren, sofern das Angebot
 
-[^31-1]: BSG [155.21](https://www.belex.sites.be.ch/data/155.21/de)
+- a allen interessierten Medienanbieterinnen und -anbietern offensteht und
+- b die französischsprachige oder deutschsprachige Berichterstattung zu kantonalen, regionalen und lokalen Themen von politischer Relevanz stärkt.
 
-## 6 Übergangs- und Schlussbestimmungen
+<sup>2</sup> Die Beiträge bemessen sich anhand des ausgewiesenen Finanzbedarfs und betragen höchstens 100’000 Franken pro Jahr und Institution.
 
-### 6.1 Übergangsbestimmungen
+<sup>3</sup> Für den Leistungsvertrag des Kantons mit Institutionen, die Medien fördern, gilt Artikel 13c des Staatsbeitragsgesetzes vom 16. September 1992 (StBG)[^25-1].
 
-#### Art. 32
+[^25-1]: BSG [641.1](https://www.belex.sites.be.ch/data/641.1/de)
 
-**Anpassung von Gemeindereglementen**
+#### Art. 26
 
-<sup>1</sup> Die Gemeinden passen ihre Reglemente bis zum 1. Januar 1997, die Gemeindeverbindungen und die übrigen gemeinderechtlichen Körperschaften bis zum 1. Januar 1999 an die neue Gesetzgebung über die Information der Bevölkerung an.
+**Unterstützung von Projekten (Art. 34c Abs. 1 Bst. b und c IMG)**
 
-#### Art. 33
+<sup>1</sup> Die Förderung von Institutionen, die Medien oder Medienschaffende durch die Finanzierung von projektbezogenen oder neuen Medienangeboten unterstützen (Art. 34c Abs. 1 Bst. c IMG), erfolgt in Form von befristeten Beiträgen.
 
-**Gemeindearchive**
+<sup>2</sup> Die Höhe der Beiträge
 
-<sup>1</sup> Bis zur Revision der Verordnung vom 14. Juni 1978 über die Gemeindearchive[^33-1] , längstens aber bis zum 31. Dezember 1996, gelten die Artikel 8 und 9 der Verordnung weiter.
+- a bemisst sich am ausgewiesenen Finanzbedarf, wobei die Beitragsempfängerin oder der Beitragsempfänger angemessene Eigenleistungen erbringen muss,
+- b darf 20'000 Franken pro Jahr und unterstütztes Vorhaben nicht überschreiten.
 
-[^33-1]: Aufgehoben durch Gemeindeverordnung vom 16. 12. 1998; BSG 170.111
+<sup>3</sup> Die Durchsetzung der Vorgaben des IMG ist durch Auflagen in der Beitragsverfügung sicherzustellen.
 
-#### Art. 34
+<sup>4</sup> Für die Unterstützung von Trägerschaften digitaler Infrastrukturen (Art. 34c Abs. 1 Bst. b IMG) gelten die Absätze 1 bis 3 sinngemäss.
 
-**Akkreditierte Medienschaffende**
+### 3.2 Massnahmen zur Förderung der politischen Bildung
 
-<sup>1</sup> Medienschaffende, die beim Inkrafttreten dieser Verordnung gemäss den Vorschriften von Artikel 5 der Verordnung vom 13. August 1980 über die Information der Öffentlichkeit akkreditiert sind, bleiben bis auf weiteres akkreditiert.
+#### Art. 27
 
-### 6.2 Schlussbestimmungen
+**Förderungsmassnahmen (Art. 34l IMG)**
 
-#### Art. 35
+<sup>1</sup> Der Kanton kann den Verein «Polit-Forum Bern» für das Wirken im Bereich der politischen Bildung mit jährlichen Betriebsbeiträgen von höchstens 20 Prozent des ausgewiesenen Finanzbedarfs unterstützen.
+
+<sup>2</sup> Die Unterstützung weiterer Institutionen mit Angeboten auf dem Gebiet der politischen Bildung, insbesondere zur Förderung der politischen Bildung von Jugendlichen, erfolgt durch die Gewährung von Betriebs- oder Projektbeiträgen. Die Beiträge belaufen sich in beiden Fällen auf höchstens 20'000 Franken pro Jahr und Institution, wobei die Beitragsempfängerin oder der Beitragsempfänger angemessene Eigenleistungen erbringen muss.
+
+<sup>3</sup> Für Leistungsverträge und Beitragsverfügungen gelten die Artikel 25 Absatz 3 und 26 Absatz 3 sinngemäss.
+
+## 4 Schlussbestimmungen
+
+#### Art. 28
 
 **Änderung von Erlassen**
 
 <sup>1</sup> Folgende Erlasse werden geändert:
 
-- 1\. Verordnung vom 10. Dezember 1980 über das Stimmregister [^35-1] :
-- 2\. Gemeindeverordnung vom 30. November 1977 (GV) [^35-2] :
-- 3\. Verordnung vom 3. Juli 1991 über den Finanzhaushalt der Gemeinden (VFHG) [^35-3] :
-- 4\. Verordnung vom 2. April 1946 über die kirchlichen Stimmregister und das Verfahren bei kirchlichen Wahlen und Abstimmungen [^35-4] :
-- 5\. Verordnung vom 24. Juni 1992 über das Staatsarchiv des Kantons Bern [^35-5] :
-- 6\. See- und Flussuferverordnung vom 29. Juni 1983 [^35-6] :
+- a Verordnung vom 14. Dezember 2005 über die Bekanntgabe von Personaldaten (Personaldatenbekanntgabeverordnung, PDBV)[^28-1],
+- b Verordnung vom 13. März 2013 über die Klassifizierung, die Veröffentlichung und die Archivierung von Dokumenten zu Regierungsratsgeschäften (Klassifizierungsverordnung, KRGV)[^28-2],
+- c Verordnung vom 18. Oktober 1995 über die Organisation und die Aufgaben der Staatskanzlei (Organisationsverordnung STA, OrV STA)[^28-3],
+- d Verordnung vom 30. Juni 2021 über die Organisation und die Aufgaben der Gesundheits-, Sozial- und Integrationsdirektion (Organisationsverordnung GSI, OrV GSI)[^28-4],
+- e Verordnung vom 22. Februar 1995 über die Gebühren der Kantonsverwaltung (Gebührenverordnung; GebV)[^28-5],
+- f Gemeindeverordnung vom 16. Dezember 1998 (GV)[^28-6].
 
-[^35-1]: BSG 141.113
-[^35-2]: Aufgehoben durch Gemeindeverordnung vom 16.12.1998; BSG 170.111
-[^35-3]: Aufgehoben durch Gemeindeverordnung vom 16.12.1998; BSG 170.111
-[^35-4]: Aufgehoben, jetzt V vom 19. 10. 2011 über das Arbeitsverhältnis der Inhaberinnen und Inhaber von Pfarr- und Hilfspfarrstellen, BSG 414.311
-[^35-5]: Aufgehoben durch V vom 4. 11. 2009 über die Archivierung, BSG 108.111
-[^35-6]: BSG 704.111
+[^28-1]: BSG [152.041.1](https://www.belex.sites.be.ch/data/152.041.1/de)
+[^28-2]: BSG [152.17](https://www.belex.sites.be.ch/data/152.17/de)
+[^28-3]: BSG [152.211](https://www.belex.sites.be.ch/data/152.211/de)
+[^28-4]: BSG [152.221.121](https://www.belex.sites.be.ch/data/152.221.121/de)
+[^28-5]: BSG [154.21](https://www.belex.sites.be.ch/data/154.21/de)
+[^28-6]: BSG [170.111](https://www.belex.sites.be.ch/data/170.111/de)
 
-#### Art. 36
+#### Art. 29
 
-**Aufhebung von Erlassen**
+**Aufhebung eines Erlasses**
 
-<sup>1</sup> Folgende Erlasse werden aufgehoben:
+<sup>1</sup> Die Verordnung vom 26. Oktober 1994 über die Information der Bevölkerung (Informationsverordnung; IV)[^29-1] wird aufgehoben.
 
-- 1\. Verordnung vom 22. Mai 1991 über die Erteilung von Auskünften und die Gewährung von Akteneinsicht gegenüber den Mitgliedern des Grossen Rates, den Fraktionen und dem Ratssekretariat (VAA);
-- 2\. Verordnung vom 13. August 1980 über die Information der Öffentlichkeit.
+[^29-1]: BSG 107.111
 
-#### Art. 37
+#### Art. 30
 
 **Inkrafttreten**
 
-<sup>1</sup> Diese Verordnung tritt am 1. Januar 1995 in Kraft.
+<sup>1</sup> Diese Verordnung tritt am 1. Januar 2024 in Kraft.
 
-Bern, 26. Oktober 1994
+Bern, 15. November 2023
 
 Im Namen des Regierungsrates
 
-Der Präsident: Annoni
+Der Präsident: Müller
 
-Der Staatsschreiber: Nuspliger
+Der Staatsschreiber: Auer
 
-94-126
+23-075
