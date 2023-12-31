@@ -4,11 +4,11 @@ title: "Ordonnance du 4 décembre 2015 sur la limitation et l'élimination des d
 short: OLED
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/891"
 language: fr
-version: 2023-09-26
+version: 2024-01-01
 adopted: 2015-12-04
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/891/20230926/fr/xml/fedlex-data-admin-ch-eli-cc-2015-891-20230926-fr-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20230926/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/891/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2015-891-20240101-fr-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20230926/fr"
 
 (Ordonnance sur les déchets, OLED)
 
-du 4 décembre 2015 (État le 26 septembre 2023)
+du 4 décembre 2015 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -258,10 +258,9 @@ Les biodéchets doivent faire l’objet d’une valorisation matière ou d’une
 
 <sup>2</sup> Le phosphore contenu dans les farines animales et les poudres d’os doit faire l’objet d’une valorisation matière, à moins que ces farines et poudres ne soient utilisées comme fourrage.
 
-<sup>3</sup> Lors du recyclage du phosphore contenu dans les déchets visés aux al. 1 ou 2, les polluants présents doivent être éliminés selon l’état de la technique. Si le phosphore récupéré est utilisé pour la fabrication d’un engrais, il faut en plus satisfaire aux exigences figurant dans l’annexe 2.6, ch. 2.2.4, ORRChim[^15-1].[^15-2]
+<sup>3</sup> Lors du recyclage du phosphore contenu dans les déchets visés aux al. 1 ou 2, les polluants présents doivent être éliminés selon l’état de la technique. Si le phosphore récupéré est utilisé pour la fabrication d’un engrais, il faut en plus satisfaire aux exigences figurant dans l’annexe 2.6, ch. 2.2.2.1, ORRChim.[^15-1]
 
-[^15-1]: [RS 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
-[^15-2]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 31 oct. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4205](https://fedlex.data.admin.ch/eli/oc/2018/681)).
+[^15-1]: Nouvelle teneur selon l’annexe 5 ch. II 2 de l’O du 1<sup>er</sup> nov. 2023 sur les engrais, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 711](https://fedlex.data.admin.ch/eli/oc/2023/711)).
 
 #### Art. 16
 
@@ -558,7 +557,7 @@ Les biodéchets emballés ne peuvent être décomposés ou méthanisés dans des
 
 <sup>3</sup> Au surplus, les dispositions de l’OEng et de l’ORRChim[^34-2] concernant le compost et le digestat s’appliquent.
 
-[^34-1]: [RS 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)
+[^34-1]: [[RO 2001 522](https://fedlex.data.admin.ch/eli/oc/2001/105); [2003 940](https://fedlex.data.admin.ch/eli/oc/2003/171)annexe ch. 3, [4793](https://fedlex.data.admin.ch/eli/oc/2003/703)ch. I 7, [4923](https://fedlex.data.admin.ch/eli/oc/2003/727); [2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)ch. II 18; [2007 6295](https://fedlex.data.admin.ch/eli/oc/2007/835); [2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)annexe 5 ch. 12; [2010 2631](https://fedlex.data.admin.ch/eli/oc/2010/350)annexe ch. 3; [2011 2403](https://fedlex.data.admin.ch/eli/oc/2011/348), [2699](https://fedlex.data.admin.ch/eli/oc/2011/372)annexe 8 ch. II 3; [2013 3971](https://fedlex.data.admin.ch/eli/oc/2013/724); [2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)annexe 6 ch. 7; [2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)annexe ch. 8; [2018 4205](https://fedlex.data.admin.ch/eli/oc/2018/681); [2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)annexe ch. 4; [2021 686](https://fedlex.data.admin.ch/eli/oc/2021/686); [2022 265](https://fedlex.data.admin.ch/eli/oc/2022/265)annexe ch. 2. [RO 2023 711](https://fedlex.data.admin.ch/eli/oc/2023/711)annexe 5 ch. I]. Voir actuellement l’O du 1<sup>er</sup> nov. 2023 ([RS 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)).
 [^34-2]: [RS 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
 
 ### Section 5 Décharges
@@ -818,7 +817,7 @@ Les cendres volantes et les poussières de filtres issues du traitement thermiqu
 
 **Dioxines et furanes**[^52b-1]
 
-Les résidus du traitement thermique des déchets doivent contenir aussi peu de dioxines (PCDD) et de furanes (PCDF) que l’état de la technique le permet (annexe 5, ch. 3.3 et 4.2). La teneur maximale est de 3 μg d’équivalents toxiques (TEQ) par kg jusqu’au 31 décembre 2026.
+Les résidus du traitement thermique des déchets doivent contenir aussi peu de dioxines (PCDD) et de furanes (PCDF) que l’état de la technique le permet (annexe 5, ch. 3.3 et 4.2). La teneur maximale est de 3 µg d’équivalents toxiques (TEQ) par kg jusqu’au 31 décembre 2026.
 
 [^52b-1]: Introduit par le ch. I de l’O du 23 fév. 2022, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)).
 
@@ -1232,7 +1231,7 @@ Annexe 4[^t-3]
 - 1\.6 La teneur en métaux lourds d’un clinker fabriqué avec des déchets ne doit pas dépasser les valeurs limites (teneurs totales) suivantes; est excepté un dépassement qui n’est pas dû à l’activité humaine:
 
 <table>
-<tr><td>Substance</td><td>Valeur limite en mg/kg</td></tr>
+<tr><th>Substance</th><th>Valeur limite en mg/kg</th></tr>
 <tr><td>Arsenic</td><td>15</td></tr>
 <tr><td>Antimoine</td><td>15</td></tr>
 <tr><td>Plomb</td><td>250</td></tr>
@@ -1266,7 +1265,7 @@ Annexe 4[^t-3]
   - a. si leur teneur en polluants ne dépasse pas les valeurs limites (teneurs totales) suivantes:
 
 <table>
-<tr><td>Substance</td><td colspan="2">Valeur limite en mg/kg</td></tr>
+<tr><th>Substance</th><th colspan="2">Valeur limite en mg/kg</th></tr>
 <tr><td>Arsenic</td><td colspan="2">30</td></tr>
 <tr><td>Antimoine</td><td colspan="2">300</td></tr>
 <tr><td>Plomb</td><td colspan="2">500</td></tr>
@@ -1497,7 +1496,7 @@ Test 2
 <tr><td>pH</td><td>6–12</td></tr>
 </table>
 
-- 3\.3 Les résidus du traitement thermique des déchets doivent contenir aussi peu de dioxines (PCDD) et de furanes (PCDF) que l’état de la technique le permet, mais au maximum 1 μg TEQ par kg. La teneur est calculée à partir de facteurs d’équivalence toxique (FET), conformément à l’état de la technique.
+- 3\.3 Les résidus du traitement thermique des déchets doivent contenir aussi peu de dioxines (PCDD) et de furanes (PCDF) que l’état de la technique le permet, mais au maximum 1 µg TEQ par kg. La teneur est calculée à partir de facteurs d’équivalence toxique (FET), conformément à l’état de la technique.
 - 3\.4 La teneur des déchets en substances organiques selon le ch. 3.1, let. c à e, ne dépasse pas les valeurs limites suivantes (teneurs totales):
 
 <table>
@@ -1531,7 +1530,7 @@ Test 2
   - g. les cendres de grille et de foyer issues du traitement thermique de bois qui n’est pas réputé bois de chauffage au sens de l’annexe 5, ch. 31, al. 2, OPair et dont la teneur en COT ne dépasse pas 20 000 mg par kg;
   - h. les matériaux minéraux non combustibles provenant des buttes pare-balles.
 
-- 4\.2 Les résidus du traitement thermique des déchets doivent contenir aussi peu de dioxines (PCDD) et de furanes (PCDF) que l’état de la technique le permet, mais au maximum 1 μg TEQ par kg. La teneur est calculée à partir de facteurs d’équivalence toxique (FET), conformément à l’état de la technique.
+- 4\.2 Les résidus du traitement thermique des déchets doivent contenir aussi peu de dioxines (PCDD) et de furanes (PCDF) que l’état de la technique le permet, mais au maximum 1 µg TEQ par kg. La teneur est calculée à partir de facteurs d’équivalence toxique (FET), conformément à l’état de la technique.
 - 4\.3
 
   Les mâchefers provenant d’installations d’incinération des déchets urbains ou des déchets de composition analogue peuvent être stockés définitivement dans des décharges ou des compartiments de type D:

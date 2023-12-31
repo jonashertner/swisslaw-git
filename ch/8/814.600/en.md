@@ -4,11 +4,11 @@ title: "Ordinance of 4 December 2015 on the Avoidance and the Disposal of Waste 
 short: ADWO
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/891"
 language: en
-version: 2023-09-26
+version: 2024-01-01
 adopted: 2015-12-04
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/891/20230926/en/xml/fedlex-data-admin-ch-eli-cc-2015-891-20230926-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20230926/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/891/20240101/en/xml/fedlex-data-admin-ch-eli-cc-2015-891-20240101-en-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20240101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Waste Ordinance, ADWO)
 
-of 4 December 2015 (Status as of 26 September 2023)
+of 4 December 2015 (Status as of 1 January 2024)
 
 The Swiss Federal Council,
 
@@ -261,10 +261,9 @@ Biogenic waste must be recovered solely by recycling or by fermentation, provide
 
 <sup>2</sup> Phosphorus in animal and bone meal must be recycled, unless the animal and bone meal is used as animal feedstuffs.
 
-<sup>3</sup> When recovering phosphorous from waste in accordance with paragraph 1 or 2, the pollutants in the waste must be removed according to the state of the art. If the phosphorous recovered is used to manufacture a fertiliser, the requirements of Annex 2.6 Number 2.2.4 ORRChem[^15-1] must also be met.[^15-2]
+<sup>3</sup> When recovering phosphorous from waste in accordance with paragraph 1 or 2, the pollutants in the waste must be removed according to the state of the art. If the phosphorous recovered is used to manufacture a fertiliser, the requirements of Annex 2.6 Number 2.2.2.2 ORRChem must also be met.[^15-1]
 
-[^15-1]: [SR 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
-[^15-2]: Amended by Annex No 1 of the O of 31 Oct. 2018, in force since 1 Jan. 2019 ([AS 2018 4205](https://fedlex.data.admin.ch/eli/oc/2018/681)).
+[^15-1]: Amended by Annex 5 No II 2 of the O of 1 Nov. 2023, in force since 1 Jan. 2024 ([AS 2023 711](https://fedlex.data.admin.ch/eli/oc/2023/711)).
 
 #### Art. 16
 
@@ -563,7 +562,7 @@ Packaged biogenic waste may only be allowed to decompose or ferment in compostin
 
 <sup>3</sup> The regulations in the FertO and the ORRChem[^34-2] relating to compost and digestates also apply.
 
-[^34-1]: [SR 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)
+[^34-1]: [[AS 2001 522](https://fedlex.data.admin.ch/eli/oc/2001/105); [2003 940](https://fedlex.data.admin.ch/eli/oc/2003/171)annex No 3, [4793](https://fedlex.data.admin.ch/eli/oc/2003/703)No I 7, [4923](https://fedlex.data.admin.ch/eli/oc/2003/727); [2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)No II 18; [2007 6295](https://fedlex.data.admin.ch/eli/oc/2007/835); [2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)annex No 12; [2010 2631](https://fedlex.data.admin.ch/eli/oc/2010/350)annex No 3; [2011 2403](https://fedlex.data.admin.ch/eli/oc/2011/348), [2699](https://fedlex.data.admin.ch/eli/oc/2011/372)annex 8 No II 3; [2013 3971](https://fedlex.data.admin.ch/eli/oc/2013/724); [2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)annex 6 No 7; [2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)annex No 8; [2018 4205](https://fedlex.data.admin.ch/eli/oc/2018/681); [2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)annex 4; [2021 686](https://fedlex.data.admin.ch/eli/oc/2021/686); [2022 265](https://fedlex.data.admin.ch/eli/oc/2022/265)annex No 2. [AS 2023 711](https://fedlex.data.admin.ch/eli/oc/2023/711)annex 5 No I]. See the O of 1 Nov. 2023 ([SR 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)).
 [^34-2]: [SR 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
 
 ### Section 5 Landfills

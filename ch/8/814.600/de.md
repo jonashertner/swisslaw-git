@@ -4,11 +4,11 @@ title: "Verordnung vom 4. Dezember 2015 über die Vermeidung und die Entsorgung 
 short: VVEA
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/891"
 language: de
-version: 2023-09-26
+version: 2024-01-01
 adopted: 2015-12-04
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/891/20230926/de/xml/fedlex-data-admin-ch-eli-cc-2015-891-20230926-de-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20230926/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/891/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2015-891-20240101-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20230926/de"
 
 (Abfallverordnung, VVEA)
 
-vom 4. Dezember 2015 (Stand am 26. September 2023)
+vom 4. Dezember 2015 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -259,10 +259,9 @@ Biogene Abfälle sind rein stofflich oder durch Vergären zu verwerten, sofern:
 
 <sup>2</sup> In Tier- und Knochenmehl enthaltener Phosphor ist stofflich zu verwerten, soweit das Tier- und Knochenmehl nicht als Futtermittel verwendet wird.
 
-<sup>3</sup> Bei der Rückgewinnung von Phosphor aus Abfällen nach Absatz 1 oder 2 sind die in diesen Abfällen enthaltenen Schadstoffe nach dem Stand der Technik zu entfernen. Wird der zurückgewonnene Phosphor für die Herstellung eines Düngers verwendet, so müssen zudem die Anforderungen Anhang 2.6 Ziffer 2.2.4 ChemRRV[^15-1] erfüllt sein.[^15-2]
+<sup>3</sup> Bei der Rückgewinnung von Phosphor aus Abfällen nach Absatz 1 oder 2 sind die in diesen Abfällen enthaltenen Schadstoffe nach dem Stand der Technik zu entfernen. Wird der zurückgewonnene Phosphor für die Herstellung eines Düngers verwendet, so müssen zudem die Anforderungen nach Anhang 2.6 Ziffer 2.2.2.2 ChemRRV erfüllt sein.[^15-1]
 
-[^15-1]: [SR 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
-[^15-2]: Fassung gemäss Anhang Ziff. 1 der V vom vom 31. Okt. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4205](https://fedlex.data.admin.ch/eli/oc/2018/681)).
+[^15-1]: Fassung gemäss Anhang 5 Ziff. II 2 der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 711](https://fedlex.data.admin.ch/eli/oc/2023/711)).
 
 #### Art. 16
 
@@ -560,7 +559,7 @@ Verpackte biogene Abfälle dürfen in Kompostierungs- und Vergärungsanlagen nac
 
 <sup>3</sup> Im Übrigen gelten die Vorschriften der DüV und der ChemRRV[^34-2] betreffend Kompost und Gärgut.
 
-[^34-1]: [SR 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)
+[^34-1]: [[AS 2001 522](https://fedlex.data.admin.ch/eli/oc/2001/105); [2003 940](https://fedlex.data.admin.ch/eli/oc/2003/171)Anhang Ziff. 3, [4793](https://fedlex.data.admin.ch/eli/oc/2003/703)Ziff. I 7, [4923](https://fedlex.data.admin.ch/eli/oc/2003/727); [2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)Ziff. II 18; [2007 6295](https://fedlex.data.admin.ch/eli/oc/2007/835); [2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)Anhang 5 Ziff. 12; [2010 2631](https://fedlex.data.admin.ch/eli/oc/2010/350)Anhang Ziff. 3; [2011 2403](https://fedlex.data.admin.ch/eli/oc/2011/348), [2699](https://fedlex.data.admin.ch/eli/oc/2011/372)Anhang 8 Ziff. II 3; [2013 3971](https://fedlex.data.admin.ch/eli/oc/2013/724); [2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Anhang 6 Ziff. 7; [2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)Anhang Ziff. 8; [2018 4205](https://fedlex.data.admin.ch/eli/oc/2018/681); [2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)Anhang Ziff. 4; [2021 686](https://fedlex.data.admin.ch/eli/oc/2021/686); [2022 265](https://fedlex.data.admin.ch/eli/oc/2022/265)Anhang Ziff. 2. As **2023** 711 Anhang 5 Ziff. I]. siehe V vom 1. Nov. 2023 ([SR 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)).
 [^34-2]: [SR 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
 
 ### 5. Abschnitt: Deponien

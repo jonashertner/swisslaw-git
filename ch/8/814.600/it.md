@@ -4,11 +4,11 @@ title: "Ordinanza del 4 dicembre 2015 sulla prevenzione e lo smaltimento dei rif
 short: OPSR
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/891"
 language: it
-version: 2023-09-26
+version: 2024-01-01
 adopted: 2015-12-04
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/891/20230926/it/xml/fedlex-data-admin-ch-eli-cc-2015-891-20230926-it-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20230926/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/891/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2015-891-20240101-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20230926/it"
 
 (Ordinanza sui rifiuti, OPSR)
 
-del 4 dicembre 2015 (Stato 26 settembre 2023)
+del 4 dicembre 2015 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -259,10 +259,9 @@ I rifiuti biogeni devono essere riciclati esclusivamente come materiale oppure m
 
 <sup>2</sup> Il fosforo presente nelle farine animali e ossee dev’essere riciclato, sempre che tali farine non siano impiegate come alimenti per animali.
 
-<sup>3</sup> Nel processo di recupero del fosforo dai rifiuti di cui al capoverso 1 o 2 le sostanze nocive contenute in detti rifiuti devono essere eliminate utilizzando le più recenti tecnologie. Se il fosforo recuperato è impiegato per la produzione di un concime devono essere soddisfatti i requisiti di cui all’allegato 2.6 numero 2.2.4 ORRPChim[^15-1].[^15-2]
+<sup>3</sup> Nel processo di recupero del fosforo dai rifiuti di cui al capoverso 1 o 2 le sostanze nocive contenute in detti rifiuti devono essere eliminate utilizzando le più recenti tecnologie. Se il fosforo recuperato è impiegato per la produzione di un concime devono essere soddisfatti i requisiti di cui all’allegato 2.6 numero 2.2.2.1 ORRPChim.[^15-1]
 
-[^15-1]: [RS 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
-[^15-2]: Nuovo testo giusta l’all. n. 1 dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4205](https://fedlex.data.admin.ch/eli/oc/2018/681)).
+[^15-1]: Nuovo testo giusta l’all. 5 n. II 2 dell’O del 1° nov. 2023 sui concimi, in vigore dal 1° gen. 2024 ([RU 2023 711](https://fedlex.data.admin.ch/eli/oc/2023/711)).
 
 #### Art. 16
 
@@ -561,7 +560,7 @@ I rifiuti biogeni imballati possono essere decomposti o fatti fermentare negli i
 
 <sup>3</sup> Per il resto si applicano le prescrizioni dell’OCon e della ORRPChim[^34-2] concernenti il compost e il digestato.
 
-[^34-1]: [RS 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)
+[^34-1]: [[RU 2001 522](https://fedlex.data.admin.ch/eli/oc/2001/105); [2003 940](https://fedlex.data.admin.ch/eli/oc/2003/171)all. n. 3, [4793](https://fedlex.data.admin.ch/eli/oc/2003/703)I 7, [4923](https://fedlex.data.admin.ch/eli/oc/2003/727); [2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)II 18; [2007 6295](https://fedlex.data.admin.ch/eli/oc/2007/835); [2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)all. 5 n. 12; [2010 2631](https://fedlex.data.admin.ch/eli/oc/2010/350)all. n. 3; [2011 2403](https://fedlex.data.admin.ch/eli/oc/2011/348), [2699](https://fedlex.data.admin.ch/eli/oc/2011/372)all. 8 n. II 3; [2013 3971](https://fedlex.data.admin.ch/eli/oc/2013/724); [2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)all. 6 n. 7; [2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)all. n. 8; [2018 4205](https://fedlex.data.admin.ch/eli/oc/2018/681); [2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)all.n. 4; [2021 686](https://fedlex.data.admin.ch/eli/oc/2021/686); [2022 265](https://fedlex.data.admin.ch/eli/oc/2022/265)all.n. 2. [RU 2023 711](https://fedlex.data.admin.ch/eli/oc/2023/711)]. Vedi ora l’O 1° nov. 2023 ([RS 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)).
 [^34-2]: [RS 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
 
 ### Sezione 5: Discariche
