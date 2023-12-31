@@ -3,11 +3,11 @@ sr: "412.101.221.47"
 title: Ordinanza della SEFRI del 27 ottobre 2010 sulla formazione professionale di base Panettiera-pasticciera-confettiera/Panettiere-pasticciere-confettiere con attestato federale di capacità (AFC)
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/865"
 language: it
-version: 2018-01-01
+version: 2024-01-01
 adopted: 2010-10-27
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/865/20180101/it/xml/fedlex-data-admin-ch-eli-cc-2010-865-20180101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/865/20180101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/865/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2010-865-20240101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/865/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/865/20180101/it"
 
 sulla formazione professionale di base Panettiera-pasticciera-confettiera/ Panettiere-pasticciere-confettiere con attestato federale di capacità (AFC)
 
-del 27 ottobre 2010 (Stato 1° gennaio 2018)
+del 27 ottobre 2010 (Stato 1° gennaio 2024)
 
 <table>
 <tr><td>21104</td><td>Panettiera-pasticciera-confettiera AFC/ Panettiere-pasticciere-confettiere AFC Bäckerin-Konditorin-Confiseurin EFZ/ Bäcker-Konditor-Confiseur EFZ Boulangère-pâtissière-confiseuse CFC/ Boulanger-pâtissier-confiseur CFC</td></tr>
@@ -232,7 +232,7 @@ Il formatore soddisfa i requisiti professionali se possiede una delle qualifiche
 [^13-3]: Nuovo testo giusta il n. I dell’O della SEFRI del 1° nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6569](https://fedlex.data.admin.ch/eli/oc/2017/726)).
 [^13-4]: Nuovo testo giusta il n. I dell’O della SEFRI del 1° nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6569](https://fedlex.data.admin.ch/eli/oc/2017/726)).
 
-## Sezione 7: Documentazione dell’apprendimento, rapporto di formazione e documentazione delle prestazioni****
+## Sezione 7: Documentazione dell’apprendimento, rapporto di formazione e documentazione delle prestazioni
 
 [^sec7-1]
 
@@ -369,7 +369,9 @@ Per il calcolo della nota complessiva valgono le note sotto elencate con la segu
 
 <sup>1</sup> Chi ha superato una procedura di qualificazione consegue l’attestato federale di capacità (AFC).
 
-<sup>2</sup> L’attestato federale di capacità conferisce il diritto di avvalersi del titolo legalmente protetto di «panettiera-pasticciera-confettiera AFC»/«panettiere-pasticciere-confettiere AFC».[^22-1]
+<sup>2</sup> L’attestato federale di capacità conferisce il diritto di avvalersi del titolo legalmente protetto di «panettiera-pasticciera-confettiera AFC»/«panettiere-pasticciere-confet-tiere AFC».[^22-1]
+
+<sup>2bis</sup> L’attestato federale di capacità riporta l’indirizzo professionale.[^22-2]
 
 <sup>3</sup>
 
@@ -380,8 +382,9 @@ Nel certificato delle note relativo all’attestato federale di capacità conseg
 - c. l’indirizzo professionale.
 
 [^22-1]: Nuovo testo giusta il n. I dell’O della SEFRI del 1° nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6569](https://fedlex.data.admin.ch/eli/oc/2017/726)).
+[^22-2]: Introdotto dal n. I dell’O della SEFRI del 26 ott. 2023, in vigore dal 1° gen. 2024 ([RU 2023 637](https://fedlex.data.admin.ch/eli/oc/2023/637)).
 
-## Sezione 10: Commissione svizzera per lo sviluppo professionale e la qualità della formazione nelle professioni di produzione della panetteria‑pasticceria-confetteria****
+## Sezione 10: Commissione svizzera per lo sviluppo professionale e la qualità della formazione nelle professioni di produzione della panetteria‑pasticceria-confetteria
 
 [^sec10-1]
 

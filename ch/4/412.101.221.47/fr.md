@@ -3,18 +3,18 @@ sr: "412.101.221.47"
 title: Ordonnance du SEFRI du 27 octobre 2010 sur la formation professionnelle initiale de boulangère-pâtissière-confiseuse/boulanger-pâtissier-confiseur avec certificat fédéral de capacité (CFC)
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/865"
 language: fr
-version: 2018-01-01
+version: 2024-01-01
 adopted: 2010-10-27
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/865/20180101/fr/xml/fedlex-data-admin-ch-eli-cc-2010-865-20180101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/865/20180101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/865/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2010-865-20240101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/865/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Ordonnance du SEFRI sur la formation professionnelle initiale de boulangère‑pâtissière‑confiseuse/boulanger-pâtissier-confiseur avec certificat fédéral de capacité (CFC)**\***
+# Ordonnance du SEFRI sur la formation professionnelle initiale de boulangère‑pâtissière‑confiseuse/boulanger-pâtissier-confiseur avec certificat fédéral de capacité (CFC)\*
 
-du 27 octobre 2010 (Etat le 1<sup>er</sup> janvier 2018)[^t-1]
+du 27 octobre 2010 (État le 1<sup>er</sup> janvier 2024)[^t-1]
 
 [^t-1]: <sup>\*</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -24,7 +24,7 @@ du 27 octobre 2010 (Etat le 1<sup>er</sup> janvier 2018)[^t-1]
 <tr><td>21106</td><td colspan="2">Pâtisserie-confiserie</td></tr>
 </table>
 
-Le Secrétariat d’Etat à la formation, à la recherche et à l’innovation (SEFRI),
+Le Secrétariat d’État à la formation, à la recherche et à l’innovation (SEFRI),
 
 vu l’art. 19 de la loi fédérale du 13 décembre 2002 sur la formation professionnelle (LFPr)[^ingress-1], vu l’art. 12 de l’ordonnance du 19 novembre 2003 sur la formation professionnelle (OFPr)[^ingress-2], vu l’art. 4, al. 4, de l’ordonnance du 28 septembre 2007 sur la protection des jeunes travailleurs (OLT 5)[^ingress-3],[^ingress-4]
 
@@ -231,7 +231,7 @@ Les personnes ci-après remplissent les exigences posées aux formateurs:[^12-2]
 [^13-3]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 1<sup>er</sup> nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6569](https://fedlex.data.admin.ch/eli/oc/2017/726)).
 [^13-4]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 1<sup>er</sup> nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6569](https://fedlex.data.admin.ch/eli/oc/2017/726)).
 
-## Section 7 Dossier de formation, rapport de formation et dossier des prestations****
+## Section 7 Dossier de formation, rapport de formation et dossier des prestations
 
 [^sec7-1]
 
@@ -298,7 +298,7 @@ Les procédures de qualification visent à démontrer que les compétences opér
 
 #### Art. 18
 
-**Etendue et organisation de la procédure de qualification avec examen final**
+**Étendue et organisation de la procédure de qualification avec examen final**
 
 <sup>1</sup>
 
@@ -369,6 +369,8 @@ Pour le calcul de la note globale, les notes sont pondérées de la manière sui
 
 <sup>2</sup> Le CFC autorise ses titulaires à porter le titre légalement protégé de «boulangère-pâtissière-confiseuse CFC»/«boulanger-pâtissier-confiseur CFC».[^22-1]
 
+<sup>2bis</sup> Le CFC mentionne l’orientation.[^22-2]
+
 <sup>3</sup>
 
 Si le CFC a été obtenu par le biais de la procédure de qualification avec examen final, le bulletin de notes mentionne:
@@ -378,8 +380,9 @@ Si le CFC a été obtenu par le biais de la procédure de qualification avec exa
 - c. l’orientation choisie.
 
 [^22-1]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 1<sup>er</sup> nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6569](https://fedlex.data.admin.ch/eli/oc/2017/726)).
+[^22-2]: Introduit par le ch. I de l’O du SEFRI du 26 oct. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 637](https://fedlex.data.admin.ch/eli/oc/2023/637)).
 
-## Section 10 Commission suisse pour le développement de la profession et la qualité de la formation des professions de production de la boulangerie‑pâtisserie-confiserie****
+## Section 10 Commission suisse pour le développement de la profession et la qualité de la formation des professions de production de la boulangerie‑pâtisserie-confiserie
 
 [^sec10-1]
 
@@ -392,7 +395,7 @@ Si le CFC a été obtenu par le biais de la procédure de qualification avec exa
 La Commission suisse pour le développement de la profession et la qualité de la formation des professions de production de la boulangerie-pâtisserie-confiserie (commission) comprend:
 
 - a. six à huit représentants de l’Association suisse des patrons boulangers-confiseurs (BCS);
-- b. un représentant de l’Ecole professionnelle Richemont;
+- b. un représentant de l’École professionnelle Richemont;
 - c. un représentant des enseignants des connaissances professionnelles;
 - d. un représentant de l’Association suisse du personnel de la boulangerie-pâtisserie et confiserie (aspbpc);
 - e. au moins un représentant de la Confédération et au moins un représentant des cantons.[^23-1]

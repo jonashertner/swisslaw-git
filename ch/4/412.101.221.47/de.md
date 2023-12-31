@@ -3,18 +3,18 @@ sr: "412.101.221.47"
 title: Verordnung des SBFI vom 27. Oktober 2010 über die berufliche Grundbildung Bäckerin-Konditorin-Confiseurin/Bäcker-Konditor-Confiseur mit eidgenössischem Fähigkeitszeugnis (EFZ)
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/865"
 language: de
-version: 2018-01-01
+version: 2024-01-01
 adopted: 2010-10-27
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/865/20180101/de/xml/fedlex-data-admin-ch-eli-cc-2010-865-20180101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/865/20180101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/865/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2010-865-20240101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/865/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des SBFI über die berufliche Grundbildung Bäckerin-Konditorin-Confiseurin/Bäcker-Konditor-Confiseur mit eidgenössischem Fähigkeitszeugnis (EFZ)
 
-vom 27. Oktober 2010 (Stand am 1. Januar 2018)
+vom 27. Oktober 2010 (Stand am 1. Januar 2024)
 
 <table>
 <tr><td>21104</td><td>Bäckerin-Konditorin-Confiseurin EFZ/ Bäcker-Konditor-Confiseur EFZ Boulangère-pâtissière-confiseuse CFC/ Boulanger-pâtissier-confiseur CFC Panettiera-pasticciera-confettiera AFC/ Panettiere-pasticciere-confettiere AFC</td></tr>
@@ -230,7 +230,7 @@ Die fachlichen Anforderungen an eine Berufsbildnerin oder einen Berufsbildner er
 [^13-3]: Fassung gemäss Ziff. I der V des SBFI vom 1. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6569](https://fedlex.data.admin.ch/eli/oc/2017/726)).
 [^13-4]: Fassung gemäss Ziff. I der V des SBFI vom 1. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6569](https://fedlex.data.admin.ch/eli/oc/2017/726)).
 
-## 7. Abschnitt: Lerndokumentation, Bildungsbericht und Leistungsdokumentation****
+## 7. Abschnitt: Lerndokumentation, Bildungsbericht und Leistungsdokumentation
 
 [^sec7-1]
 
@@ -368,6 +368,8 @@ Für die Berechnung der Gesamtnote werden die einzelnen Noten wie folgt gewichte
 
 <sup>2</sup> Das Fähigkeitszeugnis berechtigt, den gesetzlich geschützten Titel «Bäckerin-Konditorin-Confiseurin EFZ» oder «Bäcker-Konditor-Confiseur EFZ» zu führen.[^22-1]
 
+<sup>2bis</sup> Es führt die Fachrichtung auf.[^22-2]
+
 <sup>3</sup>
 
 Ist das Fähigkeitszeugnis mittels Qualifikationsverfahren mit Abschlussprüfung erworben worden, so wird im Notenausweis aufgeführt:
@@ -377,8 +379,9 @@ Ist das Fähigkeitszeugnis mittels Qualifikationsverfahren mit Abschlussprüfung
 - c. die Fachrichtung.
 
 [^22-1]: Fassung gemäss Ziff. I der V des SBFI vom 1. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6569](https://fedlex.data.admin.ch/eli/oc/2017/726)).
+[^22-2]: Eingefügt durch Ziff. I der V des SBFI vom 26. Okt. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 637](https://fedlex.data.admin.ch/eli/oc/2023/637)).
 
-## 10. Abschnitt: Schweizerische Kommission für Berufsentwicklung und Qualität der Produktionsberufe der Bäckerei-Konditorei-Confiserie****
+## 10. Abschnitt: Schweizerische Kommission für Berufsentwicklung und Qualität der Produktionsberufe der Bäckerei-Konditorei-Confiserie
 
 [^sec10-1]
 
