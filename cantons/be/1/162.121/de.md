@@ -2,24 +2,23 @@
 canton: BE
 number: "162.121"
 title: Geschäftsreglement des kantonalen Zwangsmassnahmengerichts
-short: GeschR kZGM
+short: GeschR KZMG
 language: de
-version: 2011-01-01
-valid_until: 2023-12-31
-version_adopted: 2010-09-14
+version: 2024-01-01
+version_adopted: 2023-10-25
 adopted: 2010-09-14
 in_force: 2011-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/162.121"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/121/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2924/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Geschäftsreglement des kantonalen Zwangsmassnahmengerichts
 
-(GeschR kZGM)
+(GeschR KZMG)
 
-vom 14.09.2010 (Stand 01.01.2011)
+vom 14.09.2010 (Stand 01.01.2024)
 
 Das kantonale Zwangsmassnahmengericht des Kantons Bern,
 
@@ -35,13 +34,13 @@ beschliesst:
 
 <sup>1</sup> Das kantonale Zwangsmassnahmengericht ist in der Rechtsprechung unabhängig und nur dem Recht verpflichtet.
 
-<sup>2</sup> Im Rahmen der gesetzlichen Vorgaben und unter Vorbehalt der Aufgaben und Befugnisse der Justizleitung und des Obergerichts verwaltet es sich selbst. Dabei beachten seine Mitglieder sinngemäss die Grundsätze der Führungs-, Leistungs- und Kostenorientierung gemäss Artikel 3 Absatz 2, 4 und 5 des Gesetzes vom 26. März 2002 über die Steuerung von Finanzen und Leistungen (FLG)[^1-1].
+<sup>2</sup> Im Rahmen der gesetzlichen Vorgaben und unter Vorbehalt der Aufgaben und Befugnisse der Justizverwaltungsleitung und des Obergerichts verwaltet es sich selbst. Die Leitungsorgane beachten dabei sinngemäss die allgemeinen Grundsätze der Steuerung von Finanzen und Leistungen gemäss Artikel 3 des Finanzhaushaltsgesetzes vom 15. Juni 2022 (FHG)[^1-1].
 
-<sup>3</sup> Wo nötig, spricht sich die Geschäftsleiterin oder der Geschäftsleiter des kantonalen Zwangsmassnahmengerichts mit den Leitungsorganen der in der Region Bern-Mittelland ansässigen Zivil-, Straf- und Jugendgerichtsbehörden und dem Obergericht ab.
+<sup>3</sup> Wo nötig, spricht sich die Geschäftsleiterin oder der Geschäftsleiter des kantonalen Zwangsmassnahmengerichts mit den Leitungsorganen der in der Region Bern-Mittelland ansässigen Zivil- und Strafgerichtsbehörden und dem Obergericht ab.
 
 <sup>4</sup> Das kantonale Zwangsmassnahmengericht bekennt sich gegen innen und aussen zum Grundsatz der Transparenz und zum Recht auf Information, unter Beachtung des Amtsgeheimnisses und des Datenschutzes.
 
-[^1-1]: BSG 620.0
+[^1-1]: BSG [620.0](https://www.belex.sites.be.ch/data/620.0/de)
 
 ## 2 Organisation des kantonalen Zwangsmassnahmengerichts
 
@@ -97,7 +96,7 @@ beschliesst:
 
 <sup>2</sup> Die gewählten Gerichtspräsidentinnen und Gerichtspräsidenten, die Ersatzmitglieder und die ausserordentlichen Richterinnen und Richter können bei der Geschäftsleiterin oder dem Geschäftsleiter die Traktandierung eines Geschäfts verlangen.
 
-<sup>3</sup> Eine Vertreterin oder ein Vertreter der Gerichtsschreiberinnen und Gerichtsschreiber nimmt mit beratender Stimme an den Sitzungen teil. Die Gerichtsschreiberinnen und Gerichtsschreiber bestimmen ihre Vertreterin oder ihren Vertreter selbst. Diese oder dieser führt das Protokoll der Richterkonferenz.
+<sup>3</sup> Eine Vertreterin oder ein Vertreter der Gerichtsschreiberinnen und Gerichtsschreiber kann bei Bedarf zu den Sitzungen beigezogen werden. In einem solchen Fall führt diese oder dieser das Protokoll der Richterkonferenz.
 
 <sup>4</sup> Die Teilnahmeberechtigten werden schriftlich zu den Sitzungen eingeladen.
 
@@ -124,10 +123,10 @@ beschliesst:
 - a die Einberufung und Leitung der Richterkonferenz,
 - b die Vertretung des kantonalen Zwangsmassnahmengerichts gegenüber den Regionalgerichten, dem Obergericht, dem Verwaltungsgericht und der Staatsanwaltschaft,
 - c die Vertretung des kantonalen Zwangsmassnahmengerichts gegen aussen,
-- d die Führung der Jahresgespräche mit den Richterinnen und Richtern,
+- d die Führung der Standortgespräche mit den Richterinnen und Richtern,
 - e die Anstellung und Führung der Gerichtsschreiberinnen und Gerichtsschreiber sowie des Sekretariatspersonals,
-- f der Entscheid über die Aushilfe von Richterinnen und Richtern in anderen Gerichtsbehörden, insbesondere den Regionalgerichten,
-- g der Einsatz von Aushilfen aus anderen Behörden,
+- f …
+- g der Einsatz von vom Obergericht bezeichneten Aushilfen aus anderen Behörden,
 - h die Festlegung der Grundsätze betreffend Registratur, Dossierführung und Archivierung,
 - i die Gewährleistung einer den Bedürfnissen angepassten Weiterbildung.
 
@@ -171,7 +170,23 @@ beschliesst:
 
 #### Art. 12
 
-<sup>1</sup> Die Geschäftsleiterin oder der Geschäftsleiter entscheidet über Ausgaben bis zu einer Höhe von 10 000 Franken in eigener Kompetenz.
+**Finanzkompetenzen für Verwaltungsaufgaben**
+
+<sup>1</sup> Die Geschäftsleiterin oder der Geschäftsleiter bewilligt Ausgaben für Verwaltungsaufgaben bis zu einer Höhe von 30'000 Franken in eigener Kompetenz. Eine Delegation an die Stellvertreterin oder den Stellvertreter der Geschäftsleiterin oder des Geschäftsleiters ist möglich.
+
+<sup>2</sup> Ausgaben über 30'000 Franken bedürfen einer Ausgabenbewilligung durch die Geschäftsleitung des Obergerichts.
+
+#### Art. 12a
+
+**Finanzkompetenzen für Verfahren in Strafsachen**
+
+<sup>1</sup> Für die Ausgaben in Zusammenhang mit Verfahren in Strafsachen gilt die finanzielle Belegfreigabe unabhängig von der Höhe als Ausgabenbewilligung (Art. 31 Abs. 1 Bst. e der Finanzhaushaltsverordnung vom 16.11.2022 [FHaV][^12a-1]).
+
+<sup>2</sup> Die Verfahrensleitung ist für die materielle Prüfung der Ausgaben zuständig. Obliegt ihr bei einer Ausgabe die finanzielle Belegfreigabe, übernimmt die im betroffenen Verfahren zuständige Gerichtsschreiberin oder der zuständige Gerichtsschreiber die materielle Prüfung.
+
+<sup>3</sup> Die finanzielle Belegfreigabe erfolgt durch die Geschäftsleiterin oder den Geschäftsleiter oder durch deren oder dessen Stellvertreterin oder Stellvertreter.
+
+[^12a-1]: BSG [621.1](https://www.belex.sites.be.ch/data/621.1/de)
 
 ## 3 Richterinnen und Richter
 

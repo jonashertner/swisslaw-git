@@ -1,16 +1,15 @@
 ---
 canton: BE
 number: "162.121"
-title: Règlement de gestion du Tribunal cantonal des mesures de contrainte
+title: "Règlement de gestion du Tribunal cantonal des mesures de contrainte *"
 short: RG TCMC
 language: fr
-version: 2011-01-01
-valid_until: 2023-12-31
-version_adopted: 2010-09-14
+version: 2024-01-01
+version_adopted: 2023-10-25
 adopted: 2010-09-14
 in_force: 2011-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/162.121"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/121/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2924/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/121/pdf_file"
 
 (RG TCMC)
 
-du 14.09.2010 (état au 01.01.2011)
+du 14.09.2010 (état au 01.01.2024)
 
 Le Tribunal cantonal des mesures de contrainte du canton de Berne,
 
@@ -35,13 +34,13 @@ arrête:
 
 <sup>1</sup> Le Tribunal cantonal des mesures de contrainte est indépendant dans l’exercice de ses compétences juridictionnelles et n’est soumis qu’au droit.
 
-<sup>2</sup> Dans les limites définies par la loi et sous réserve des tâches et des attributions de la Direction de la magistrature et de la Cour suprême, il s’administre lui-même. Ses membres respectent par analogie les principes visant à mettre l’accent sur la direction stratégique, les prestations et les coûts selon l’article 3, alinéas 2, 4 et 5 de la loi du 26 mars 2002 sur le pilotage des finances et des prestations (LFP)[^1-1].
+<sup>2</sup> Dans les limites définies par la loi et sous réserve des tâches et des attributions de la Direction administrative de la magistrature et de la Cour suprême, il s’administre lui-même. Les organes de direction respectent par analogie les principes généraux visant à mettre l’accent sur le pilotage des finances et des prestations selon l’article 3 de la loi du 15 juin 2022 sur les finances (LFin)[^1-1].
 
-<sup>3</sup> Si nécessaire, le ou la juge en chef du Tribunal cantonal des mesures de contrainte se concerte avec les organes de direction des autorités judiciaires civiles, pénales et des mineurs ayant leur siège dans la région de Berne-Mittelland ainsi qu’avec la Cour suprême.
+<sup>3</sup> Si nécessaire, le ou la juge en chef du Tribunal cantonal des mesures de contrainte se concerte avec les organes de direction des autorités judiciaires civiles et pénales ayant leur siège dans la région de Berne-Mittelland ainsi qu’avec la Cour suprême.
 
 <sup>4</sup> Le Tribunal cantonal des mesures de contrainte applique à l’interne comme à l’externe le principe de la transparence et du droit à l’information, tout en respectant le secret de fonction et la protection des données.
 
-[^1-1]: RSB 620.0
+[^1-1]: RSB [620.0](https://www.belex.sites.be.ch/data/620.0/fr)
 
 ## 2 Organisation du Tribunal cantonal des mesures de contrainte
 
@@ -97,7 +96,7 @@ arrête:
 
 <sup>2</sup> Les présidents et présidentes de tribunal élus, les membres suppléants et les juges extraordinaires peuvent exiger du ou de la juge en chef l’inscription d’une affaire à l’ordre du jour.
 
-<sup>3</sup> Un représentant ou une représentante des greffiers et des greffières participe aux séances avec voix consultative. Les greffiers et les greffières désignent eux-mêmes leur représentant ou leur représentante. Celui-ci ou celle-ci tient le procès-verbal de la conférence des juges.
+<sup>3</sup> Un représentant ou une représentante des greffiers et des greffières peut, en cas de besoin, être appelée à participer aux séances. Dans un tel cas, celui-ci ou celle-ci tient le procès-verbal de la conférence des juges.
 
 <sup>4</sup> Les personnes qui ont le droit de participer sont convoquées aux séances par écrit.
 
@@ -124,10 +123,10 @@ arrête:
 - a convoquer et diriger la conférence des juges;
 - b représenter le Tribunal cantonal des mesures de contrainte vis-à-vis des tribunaux régionaux, de la Cour suprême, du Tribunal administratif et du Ministère public;
 - c représenter le Tribunal cantonal des mesures de contrainte à l’extérieur;
-- d conduire les entretiens annuels avec les juges;
+- d conduire les entretiens de bilan avec les juges;
 - e engager et diriger les greffiers et les greffières ainsi que le personnel du secrétariat;
-- f décider si les juges doivent prêter main-forte à d’autres autorités judiciaires, en particulier aux tribunaux régionaux;
-- g demander de l’aide à d’autres autorités;
+- f …
+- g demander de l’aide, désignée par la Cour suprême, à d’autres autorités;
 - h définir les principes concernant l’enregistrement, la gestion et l’archivage des dossiers;
 - i garantir une formation continue adaptée aux besoins.
 
@@ -171,7 +170,23 @@ arrête:
 
 #### Art. 12
 
-<sup>1</sup> Le ou la juge en chef est seule compétente pour autoriser les dépenses jusqu’à concurrence de 10 000 francs.
+**Compétences financières pour les tâches administratives**
+
+<sup>1</sup> Le ou la juge en chef est seule compétente pour autoriser les dépenses pour les tâches administratives jusqu’à concurrence de 30'000 francs. Une délégation au suppléant ou à la suppléante du ou de la juge en chef est possible.
+
+<sup>2</sup> Les dépenses supérieures à 30'000 francs sont soumises à autorisation du directoire de la Cour suprême.
+
+#### Art. 12a
+
+**Compétences financières pour les procédures en matière pénale**
+
+<sup>1</sup> Pour les dépenses liées aux procédures en matière pénale, la validation financière des pièces comptables vaut autorisation de dépenses, quel que soit le montant (art. 31, al. 1, lit. e de l’ordonnance du 16.11.2022 sur les finances [OFin][^12a-1]).
+
+<sup>2</sup> La direction de la procédure est compétente pour l’examen matériel des dépenses. Si la validation financière des pièces comptables d’une dépense lui incombe, le greffier compétent ou la greffière compétente dans la procédure concernée se charge de l’examen matériel.
+
+<sup>3</sup> La validation financière des pièces comptables est effectuée par le ou la juge en chef ou par son suppléant ou sa suppléante.
+
+[^12a-1]: RSB [621.1](https://www.belex.sites.be.ch/data/621.1/fr)
 
 ## 3 Juges
 
