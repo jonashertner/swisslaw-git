@@ -3,11 +3,11 @@ sr: "361.0"
 title: Verordnung vom 26. Oktober 2016 über das automatisierte Polizeifahndungssystem (RIPOL-Verordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/665"
 language: de
-version: 2023-10-15
+version: 2024-01-01
 adopted: 2016-10-26
 in_force: 2016-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/665/20231015/de/xml/fedlex-data-admin-ch-eli-cc-2016-665-20231015-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/665/20231015/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/665/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2016-665-20240101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/665/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/665/20231015/de"
 
 (RIPOL-Verordnung)
 
-vom 26. Oktober 2016 (Stand am 15. Oktober 2023)
+vom 26. Oktober 2016 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -40,8 +40,10 @@ Diese Verordnung regelt für das automatisierte Polizeifahndungssystem (RIPOL):
 - d. die Bekanntgabe von Daten;
 - e. die Struktur und den Inhalt der Datenbank;
 - f. die Arten und Verbreitung der Ausschreibungen;
-- g. den Datenschutz und die Informatiksicherheit;
+- g. den Datenschutz und die Informationssicherheit[^1-1];
 - h. die Verwendung von RIPOL-Daten zu Statistik- und Planungszwecken.
+
+[^1-1]: Ausdruck gemäss Anhang 2 Ziff. II 18 der V vom 8. Nov. 2023 über die Informationssicherheit in der Bundesverwaltung und der Armee, in Kraft seit 1. Jan. 2024 ([AS 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)). Diese Änd. ist im ganzen Erlass berücksichtigt.
 
 #### Art. 2
 
@@ -51,7 +53,7 @@ Diese Verordnung regelt für das automatisierte Polizeifahndungssystem (RIPOL):
 
 Das Bundesamt für Polizei (fedpol) ist das für RIPOL verantwortliche Bundesorgan. Es übernimmt dabei folgende Aufgaben:[^2-1]
 
-- a. Es ist verantwortlich für die rechtmässige Nutzung und Bearbeitung der Datenbank und gewährt die Informatiksicherheit.
+- a. Es ist verantwortlich für die rechtmässige Nutzung und Bearbeitung der Datenbank und gewährt die Informationssicherheit.
 - b. Es koordiniert seine Tätigkeiten mit den am RIPOL beteiligten Behörden.
 - c. Es behandelt Auskunftsbegehren.
 - d. Es erteilt der Benutzerin oder dem Benutzer die notwendigen Bewilligungen für den Gebrauch des Systems.
@@ -272,10 +274,11 @@ Diese Daten können zwecks Erfüllung ihrer gesetzlichen Aufgaben nach Artikel 1
 
 <sup>4</sup> Fedpol kann auf Anfrage Daten aus dem RIPOL schriftlich oder mündlich dem Europäischen Polizeiamt (Europol) im Rahmen der Zusammenarbeit bei der Bekämpfung der internationalen Kriminalität in den Kriminalitätsbereichen nach Artikel 3 des Abkommens vom 24. September 2004[^9-1] zwischen der Schweizerischen Eidgenossenschaft und dem Europäischen Polizeiamt bekanntgeben.
 
-<sup>5</sup> Die Bekanntgabe von Daten ist mit einem Hinweis zu versehen, wonach die Auskunft intern gemäss der Informationsschutzverordnung vom 4. Juli 2007[^9-2] zu behandeln ist und nicht an weitere Interessierte weitergegeben werden darf.
+<sup>5</sup> Die Bekanntgabe von Daten ist mit einem Hinweis zu versehen, wonach die Auskunft intern gemäss der Informationssicherheitsverordnung vom 8. November 2023[^9-2] zu behandeln ist und nicht an weitere Interessierte weitergegeben werden darf.[^9-3]
 
 [^9-1]: [SR 0.362.2](https://fedlex.data.admin.ch/eli/cc/2006/181)
-[^9-2]: [SR 510.411](https://fedlex.data.admin.ch/eli/cc/2007/414)
+[^9-2]: [SR 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^9-3]: Fassung gemäss Anhang 2 Ziff. II 18 der V vom 8. Nov. 2023 über die Informationssicherheit in der Bundesverwaltung und der Armee, in Kraft seit 1. Jan. 2024 ([AS 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
 
 #### Art. 10
 
@@ -335,7 +338,7 @@ Das RIPOL kann zusätzlich mit folgenden Informationssystemen elektronisch Daten
 
 Die Arten der Ausschreibungen sowie deren Prüfung und Verbreitung müssen von fedpol im Bearbeitungsreglement geregelt werden.
 
-## 5. Abschnitt: Datenschutz und Informatiksicherheit
+## 5. Abschnitt: Datenschutz und Informationssicherheit
 
 #### Art. 13
 
@@ -358,7 +361,7 @@ Die Arten der Ausschreibungen sowie deren Prüfung und Verbreitung müssen von f
 
 #### Art. 14
 
-**Informatiksicherheit**
+**Informationssicherheit**
 
 <sup>1</sup> Die Datenübermittlung an die schweizerischen Vertretungen mit konsularischen Aufgaben und ausländischen Interpol-Stellen erfolgt chiffriert.
 
@@ -367,7 +370,7 @@ Die Arten der Ausschreibungen sowie deren Prüfung und Verbreitung müssen von f
 Die Datensicherheit richtet sich nach:
 
 - a.[^14-1] der DSV[^14-2];
-- b. der Cyberrisikenverordnung vom 27. Mai 2020[^14-3].[^14-4]
+- b.[^14-3] die Informationssicherheitsverordnung vom 8. November 2023[^14-4].[^14-5]
 
 <sup>3</sup> Die beteiligten Behörden treffen in ihren Bereichen die gemäss den datenschutzrechtlichen Bestimmungen angemessenen organisatorischen und technischen Massnahmen.
 
@@ -375,8 +378,9 @@ Die Datensicherheit richtet sich nach:
 
 [^14-1]: Fassung gemäss Anhang 2 Ziff. II 42 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^14-2]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^14-3]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^14-4]: Fassung gemäss Anhang Ziff. 18 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^14-3]: Fassung gemäss Anhang 2 Ziff. II 18 der V vom 8. Nov. 2023 über die Informationssicherheit in der Bundesverwaltung und der Armee, in Kraft seit 1. Jan. 2024 ([AS 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^14-4]: [SR 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^14-5]: Fassung gemäss Anhang Ziff. 18 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 15
 

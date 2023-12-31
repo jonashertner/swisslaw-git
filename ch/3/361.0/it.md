@@ -3,11 +3,11 @@ sr: "361.0"
 title: Ordinanza del 26 ottobre 2016 sul sistema di ricerca informatizzato di polizia (Ordinanza RIPOL)
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/665"
 language: it
-version: 2023-10-15
+version: 2024-01-01
 adopted: 2016-10-26
 in_force: 2016-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/665/20231015/it/xml/fedlex-data-admin-ch-eli-cc-2016-665-20231015-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/665/20231015/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/665/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2016-665-20240101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/665/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/665/20231015/it"
 
 (Ordinanza RIPOL)
 
-del 26 ottobre 2016 (Stato 15 ottobre 2023)
+del 26 ottobre 2016 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -40,8 +40,10 @@ La presente ordinanza disciplina per il sistema di ricerca informatizzato di pol
 - d. la comunicazione di dati;
 - e. la struttura e il contenuto della banca dati;
 - f. i tipi di segnalazione e la loro diffusione;
-- g. la protezione dei dati e la sicurezza informatica;
+- g. la protezione dei dati e la sicurezza delle informazioni[^1-1];
 - h. l’utilizzo dei dati del RIPOL per scopi statistici e pianificatori.
+
+[^1-1]: Nuova espr. giusta l’all. 2 n. II 18 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)). Di detta mod. é tenuto conto in tutto il presente testo.
 
 #### Art. 2
 
@@ -51,7 +53,7 @@ La presente ordinanza disciplina per il sistema di ricerca informatizzato di pol
 
 L’Ufficio federale di polizia (fedpol) è l’organo federale responsabile del RIPOL. Assolve i compiti seguenti:[^2-1]
 
-- a. è responsabile dell’utilizzo e del trattamento conformi alla legge della banca dati e garantisce la sicurezza informatica;
+- a. è responsabile dell’utilizzo e del trattamento conformi alla legge della banca dati e garantisce la sicurezza delle informazioni;
 - b. coordina le proprie attività con le autorità partecipanti al RIPOL;
 - c. tratta le richieste di informazioni;
 - d. rilascia all’utente le autorizzazioni necessarie per l’utilizzo del sistema;
@@ -272,10 +274,11 @@ Tali dati possono essere comunicati alle autorità seguenti per l’adempimento 
 
 <sup>4</sup> Su richiesta, fedpol può comunicare per iscritto o verbalmente dati del RIPOL all’Ufficio europeo di polizia (Europol) nell’ambito della cooperazione per la lotta contro la criminalità internazionale nei settori della criminalità di cui all’articolo 3 dell’accordo del 24 settembre 2004[^9-1] tra la Confederazione svizzera e l’Ufficio europeo di polizia.
 
-<sup>5</sup> La comunicazione dei dati deve essere corredata da un’indicazione dalla quale risulti che l’informazione ha carattere interno ai sensi dell’ordinanza del 4 luglio 2007[^9-2] sulla protezione delle informazioni e non può essere trasmessa ad altri interessati.
+<sup>5</sup> La comunicazione dei dati deve essere corredata da un’indicazione dalla quale risulti che l’informazione ha carattere interno ai sensi dell’ordinanza dell’8 novembre 2023[^9-2] sulla sicurezza delle informazioni e non può essere trasmessa ad altri interessati.[^9-3]
 
 [^9-1]: [RS 0.362.2](https://fedlex.data.admin.ch/eli/cc/2006/181)
-[^9-2]: [RS 510.411](https://fedlex.data.admin.ch/eli/cc/2007/414)
+[^9-2]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^9-3]: Nuovo testo giusta l’all. 2 n. II 18 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
 
 #### Art. 10
 
@@ -322,7 +325,7 @@ Il RIPOL può inoltre scambiare elettronicamente dati con i sistemi d’informaz
 
 [^11-1]: Nuovo testo giusta l’all. 4 n. II 2 dell’O del 30 nov. 2018 concernente il sistema d’informazione sull’ammissione alla circolazione, in vigore dal 1° gen. 2019 ([RU 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
 [^11-2]: Nuovo testo giusta l’all. 4 n. II 2 dell’O del 30 nov. 2018 concernente il sistema d’informazione sull’ammissione alla circolazione, in vigore dal 1° gen. 2019 ([RU 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
-[^11-3]: Abrogata dall’all. n. 2 dell’O del 15 set. 2023, con effetto dal 15 ott. 2023 (RU **202****3**552).
+[^11-3]: Abrogata dall’all. n. 2 dell’O del 15 set. 2023, con effetto dal 15 ott. 2023 ([RU 2023 552](https://fedlex.data.admin.ch/eli/oc/2023/552)).
 [^11-4]: Nuovo testo giusta l’all. 4 n. II 2 dell’O del 30 nov. 2018 concernente il sistema d’informazione sull’ammissione alla circolazione, in vigore dal 1° gen. 2019 ([RU 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
 [^11-5]: Nuovo testo giusta l’all. 4 n. II 2 dell’O del 30 nov. 2018 concernente il sistema d’informazione sull’ammissione alla circolazione, in vigore dal 1° gen. 2019 ([RU 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
 [^11-6]: Abrogata dall’all. n. 2 dell’O del 15 set. 2023, con effetto dal 15 ott. 2023 ([RU 2023 552](https://fedlex.data.admin.ch/eli/oc/2023/552)).
@@ -335,7 +338,7 @@ Il RIPOL può inoltre scambiare elettronicamente dati con i sistemi d’informaz
 
 Fedpol disciplina nel regolamento sul trattamento dei dati i tipi di segnalazioni nonché la loro verifica e diffusione.
 
-## Sezione 5: Protezione dei dati e sicurezza informatica
+## Sezione 5: Protezione dei dati e sicurezza delle informazioni
 
 #### Art. 13
 
@@ -358,7 +361,7 @@ Fedpol disciplina nel regolamento sul trattamento dei dati i tipi di segnalazion
 
 #### Art. 14
 
-**Sicurezza informatica**
+**sicurezza delle informazioni**
 
 <sup>1</sup> La comunicazione di dati alle rappresentanze svizzere all’estero con compiti consolari e ai servizi esteri Interpol avviene in forma cifrata.
 
@@ -367,7 +370,7 @@ Fedpol disciplina nel regolamento sul trattamento dei dati i tipi di segnalazion
 La sicurezza dei dati è disciplinata:
 
 - a.[^14-1] dall’OPDa[^14-2];
-- b. dall’ordinanza del 27 maggio 2020[^14-3] sui ciber-rischi.[^14-4]
+- b.[^14-3] dall’ordinanza dell’8 novembre 2023[^14-4] sulla sicurezza delle informazioni.[^14-5]
 
 <sup>3</sup> Le autorità partecipanti adottano, nei rispettivi settori, le misure adeguate d’ordine organizzativo e tecnico in virtù delle disposizioni in materia di protezione dei dati.
 
@@ -375,8 +378,9 @@ La sicurezza dei dati è disciplinata:
 
 [^14-1]: Nuovo testo giusta l’all. 2 n. II 42 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^14-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^14-3]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^14-4]: Nuovo testo giusta l’all. n. 18 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^14-3]: Nuovo testo giusta l’all. 2 n. II 18 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^14-4]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^14-5]: Nuovo testo giusta l’all. n. 18 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 15
 

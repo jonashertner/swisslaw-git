@@ -3,11 +3,11 @@ sr: "361.0"
 title: Ordonnance du 26 octobre 2016 sur le système de recherches informatisées de police (Ordonnance RIPOL)
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/665"
 language: fr
-version: 2023-10-15
+version: 2024-01-01
 adopted: 2016-10-26
 in_force: 2016-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/665/20231015/fr/xml/fedlex-data-admin-ch-eli-cc-2016-665-20231015-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/665/20231015/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/665/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-665-20240101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/665/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/665/20231015/fr"
 
 (Ordonnance RIPOL)
 
-du 26 octobre 2016 (État le 15 octobre 2023)
+du 26 octobre 2016 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -40,8 +40,10 @@ La présente ordonnance règle, pour le système de recherches informatisées de
 - d. la communication des données;
 - e. la structure et le contenu de la banque de données;
 - f. le genre de signalements et leur diffusion;
-- g. la protection des données et la sécurité informatique;
+- g. la protection des données et la sécurité de l’information[^1-1];
 - h. l’utilisation des données du RIPOL à des fins de statistique et de planification.
+
+[^1-1]: Nouvelle expression selon l’annexe 2 ch. II 18 de l’O du 8 nov. 2023 sur la sécurité de l’information, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 2
 
@@ -51,7 +53,7 @@ La présente ordonnance règle, pour le système de recherches informatisées de
 
 L’Office fédéral de la police (fedpol) est l’organe fédéral responsable du RIPOL. Il assume les tâches suivantes:[^2-1]
 
-- a. il est responsable de l’utilisation et du traitement licite des données du système et en garantit la sécurité informatique;
+- a. il est responsable de l’utilisation et du traitement licite des données du système et en garantit la sécurité de l’information;
 - b. il coordonne ses activités avec les autorités qui participent au RIPOL;
 - c. il traite les demandes de renseignement;
 - d. il délivre aux utilisateurs les autorisations nécessaires à l’emploi du système;
@@ -273,10 +275,11 @@ Ces données peuvent être remises aux autorités suivantes en vue de l’accomp
 
 <sup>4</sup> Fedpol peut, sur demande, communiquer par écrit ou oralement des données figurant dans le RIPOL à l’Office européen de police (Europol) dans le cadre de la coopération en matière de lutte contre la criminalité internationale dans les domaines de la criminalité visés à l’art. 3 de l’Accord du 24 septembre 2004 entre la Confédération suisse et l’Office européen de police[^9-1].
 
-<sup>5</sup> La communication de données doit être assortie d’une remarque précisant que les renseignements doivent être traités de manière interne conformément à l’ordonnance du 4 juillet 2007 concernant la protection des informations de la Confédération[^9-2] et qu’ils ne peuvent être transmis à d’autres intéressés.
+<sup>5</sup> La communication de données doit être assortie d’une remarque précisant que les renseignements doivent être traités de manière interne conformément à l’ordonnance du 8 novembre 2023 sur la sécurité de l’information[^9-2] et qu’ils ne peuvent être transmis à d’autres intéressés.[^9-3]
 
 [^9-1]: [RS 0.362.2](https://fedlex.data.admin.ch/eli/cc/2006/181)
-[^9-2]: [RS 510.411](https://fedlex.data.admin.ch/eli/cc/2007/414)
+[^9-2]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^9-3]: Nouvelle teneur selon l’annexe 2 ch. II 18 de l’O du 8 nov. 2023 sur la sécurité de l’information, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
 
 #### Art. 10
 
@@ -336,7 +339,7 @@ Le RIPOL peut au surplus échanger électroniquement des données avec les syst�
 
 Fedpol règle dans son règlement de traitement les sortes de signalements ainsi que leur vérification et leur mode de diffusion.
 
-## Section 5 Protection des données et sécurité informatique
+## Section 5 Protection des données et sécurité de l’information
 
 #### Art. 13
 
@@ -359,7 +362,7 @@ Fedpol règle dans son règlement de traitement les sortes de signalements ainsi
 
 #### Art. 14
 
-**Sécurité informatique**
+**Sécurité de l’information**
 
 <sup>1</sup> La transmission de données aux représentations suisses à l’étranger assumant des tâches consulaires ainsi qu’aux bureaux nationaux d’Interpol se fait sous forme chiffrée.
 
@@ -368,7 +371,7 @@ Fedpol règle dans son règlement de traitement les sortes de signalements ainsi
 La sécurité des données est régie par:
 
 - a.[^14-1] l’OPDo[^14-2];
-- b. l’ordonnance du 27 mai 2020 sur les cyberrisques[^14-3].[^14-4]
+- b.[^14-3] l’ordonnance du 8 novembre 2023 sur la sécurité de l’information[^14-4].[^14-5]
 
 <sup>3</sup> Les autorités concernées adoptent, dans leur domaine, les mesures organisationnelles et techniques qui s’imposent conformément aux dispositions légales sur la protection des données.
 
@@ -376,8 +379,9 @@ La sécurité des données est régie par:
 
 [^14-1]: Nouvelle teneur selon l’annexe 2 ch. II 42 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^14-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^14-3]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^14-4]: Nouvelle teneur selon l’annexe ch. 18 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^14-3]: Nouvelle teneur selon l’annexe 2 ch. II 18 de l’O du 8 nov. 2023 sur la sécurité de l’information, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^14-4]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^14-5]: Nouvelle teneur selon l’annexe ch. 18 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 15
 
