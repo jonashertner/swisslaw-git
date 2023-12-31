@@ -3,20 +3,20 @@ canton: BL
 number: "850.15"
 title: Verordnung über die Kinder- und Jugendhilfe
 language: de
-version: 2022-01-01
-valid_until: 2023-12-31
-version_adopted: 2021-09-14
+version: 2024-01-01
+valid_until: 2024-12-31
+version_adopted: 2023-12-19
 adopted: 2013-12-03
 in_force: 2014-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/850.15"
-pdf: "https://bl.clex.ch/api/de/versions/3095/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3951/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Kinder- und Jugendhilfe
 
-Vom 03.12.2013 (Stand 01.01.2022)
+Vom 03.12.2013 (Stand 01.01.2024)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -69,7 +69,7 @@ beschliesst:
 
 <sup>2<sup>bis</sup></sup> Der Anerkennungsentscheid ist befristet und kann mit Auflagen verbunden werden.
 
-<sup>3</sup> Das Amt unterstellt anerkannte Wohnheime, welche die Voraussetzungen der Interkantonalen Vereinbarung vom 13. Dezember 2002[^3-1] für soziale Einrichtungen (kurz: IVSE) erfüllen, dieser Vereinbarung.
+<sup>3</sup> Das Amt unterstellt anerkannte Wohnheime, welche die Voraussetzungen der Interkantonalen Vereinbarung für soziale Einrichtungen (kurz: IVSE) vom 13. Dezember 2002[^3-1] erfüllen, dieser Vereinbarung.
 
 [^3-1]: [SGS 855.2](https://bl.clex.ch/data/855.2/de)
 
@@ -120,7 +120,7 @@ beschliesst:
 
 <sup>1</sup> Der Kanton kann ein inländisches oder benachbartes ausländisches Heim auf Antrag der anordnenden oder indizierenden Stelle für die Dauer des Aufenthaltes eines bestimmten Kindes oder Jugendlichen anerkennen.
 
-<sup>2</sup> Eine Anerkennung im Einzelfall kann nur erteilt werden, wenn die Voraussetzungen gemäss § 7 Abs. 1 Bst. b und Abs. 2 erfüllt sind, wobei ausländische Heime im Besitze einer Betriebsbewilligung des Standortlandes und für die Unterbringung die Voraussetzungen gemäss Art. 2a Abs. 1 Bst. a und b der Verordnung vom 19. Oktober 1977[^8-1] über die Aufnahme von Pflegekindern erfüllt sein müssen.
+<sup>2</sup> Eine Anerkennung im Einzelfall kann nur erteilt werden, wenn die Voraussetzungen gemäss § 7 Abs. 1 Bst. b und Abs. 2 erfüllt sind, wobei ausländische Heime im Besitze einer Betriebsbewilligung des Standortlandes und für die Unterbringung die Voraussetzungen gemäss Art. 2a Abs. 1 Bst. a und b der Verordnung über die Aufnahme von Pflegekindern vom 19. Oktober 1977[^8-1] erfüllt sein müssen.
 
 <sup>3</sup> Die Kindesschutzbehörde oder die indizierende Stelle muss im Rahmen des Gesuchs um Anerkennung den Nachweis erbringen, dass kein geeigneter Platz in einem anerkannten kantonalen oder ausserkantonalen Wohnheim zur Verfügung steht bzw. innert angemessener Frist zur Verfügung stehen wird und dass die Bedingungen gemäss Abs. 2 erfüllt sind.
 
@@ -134,7 +134,7 @@ beschliesst:
 
 **Anerkennung (§ 30 Abs. 2 [SHG](https://bl.clex.ch/data/850/de/art30))**
 
-<sup>1</sup> Pflegefamilien, die Minderjährige im Sinne von Art. 4 Abs. 1 und 2 der Verordnung vom 19. Oktober 1977[^9-1] über die Aufnahme von Pflegekindern aufnehmen, können anerkannt werden.
+<sup>1</sup> Pflegefamilien, die Minderjährige im Sinne von Art. 4 Abs. 1 und 2 der Verordnung über die Aufnahme von Pflegekindern vom 19. Oktober 1977[^9-1] aufnehmen, können anerkannt werden.
 
 <sup>2</sup> Anerkannt werden können auch Pflegefamilien, die Minderjährige zur regelmässigen Kurzzeit- (Wochenende oder Einzeltage) oder Ferienpflege in ihren Haushalt aufnehmen.
 
@@ -150,11 +150,11 @@ beschliesst:
 
 **Anerkennung als Pflegefamilie**
 
-<sup>1</sup> Eine Pflegefamilie kann als Pflegefamilie für ein bestimmtes Pflegekind anerkannt werden:
+<sup>1</sup> Eine Pflegefamilie kann als Pflegefamilie für ein bestimmtes Pflegekind anerkannt werden, wenn sie:
 
-- a. wenn sie im Besitze einer Bewilligung zur Aufnahme des Pflegekindes gemäss § 76 Abs. 1 des Gesetzes vom 16. November 2006[^10-1] über die Einführung des Zivilgesetzbuches (EG ZGB) ist oder
-- b. wenn sie einen empfehlenden Bericht einer Fachstelle in Sozial- oder Familienberatung vorlegt, sofern sie in einem Kanton wohnt, der für das fragliche Pflegekinderverhältnis keine Bewilligung vorsieht, oder
-- c. wenn sie eine Minderjährige oder einen Minderjährigen, die oder der nicht bereits untergebracht ist, zur regelmässigen Kurzzeit- (Wochenende oder Einzeltage) oder Ferienpflege aufnimmt.
+- a. im Besitze einer Bewilligung zur Aufnahme des Pflegekindes gemäss § 76 Abs. 1 des Gesetzes über die Einführung des Zivilgesetzbuches (EG ZGB) vom 16. November 2006[^10-1] ist oder
+- b. einen empfehlenden Bericht einer Fachstelle in Sozial- oder Familienberatung vorlegt, sofern sie in einem Kanton wohnt, der für das fragliche Pflegekinderverhältnis keine Bewilligung vorsieht, oder
+- c. eine Minderjährige oder einen Minderjährigen, die oder der nicht bereits untergebracht ist, zur regelmässigen Kurzzeit- (Wochenende oder Einzeltage) oder Ferienpflege aufnimmt.
 
 <sup>2</sup> Die Anerkennung setzt einen schriftlichen Pflegevertrag zwischen den Pflegeeltern und der gesetzlichen Vertretung des Pflegekindes voraus.
 
@@ -217,7 +217,7 @@ beschliesst:
 
 <sup>1</sup> Anbietende ambulanter erzieherischer Hilfen können anerkannt werden, wenn:
 
-- a. sie aufsuchende sozialpädagogische Unterstützung für Kinder, Jugendliche und Familien erbringen;
+- a. sie aufsuchende sozialpädagogische Unterstützung oder intensive multisystemische Leistungen für Kinder, Jugendliche und Familien erbringen;
 - b. ihr Leistungsangebot und ihr Konzept einem ausgewiesenen qualitativen und quantitativen Bedarf des Kantons entsprechen;
 - c. sie über die notwendigen fachlichen Voraussetzungen für die Leistungserbringung verfügen, insbesondere hinsichtlich Methodik und Qualitätsmanagement;
 - d. sie über die notwendigen personellen Voraussetzungen für die Leistungserbringung verfügen, insbesondere hinsichtlich Bestand, Qualifikation und Eignung ihres Personals;
@@ -311,23 +311,21 @@ beschliesst:
 
 <sup>2</sup> Der Beitrag für die Unterbringung in einer anerkannten Pflegefamilie entspricht dem vereinbarten Pflegegeld, beträgt jedoch höchstens:
 
-- a. bei Wochenpflege CHF 1'250.– für ein Pflegekind pro Monat;
-- b. bei Dauerpflege CHF 1'680.– für ein Pflegekind pro Monat;
-- c. bei regelmässiger Kurzzeit- (Wochenende oder Einzeltage) oder Ferienpflege CHF 52.– für ein Pflegekind pro Tag.
+- a. bei Wochenpflege CHF 1'313.– für ein Pflegekind pro Monat;
+- b. bei Dauerpflege CHF 1'764.– für ein Pflegekind pro Monat;
+- c. bei regelmässiger Kurzzeit- (Wochenende oder Einzeltage) oder Ferienpflege CHF 55.– für ein Pflegekind pro Tag.
 
-<sup>3</sup> Der Beitrag für die Unterbringung in einer anerkannten Fachpflegefamilie entspricht
+<sup>3</sup> Der Beitrag für die Unterbringung in einer anerkannten Fachpflegefamilie entspricht dem vereinbarten Pflegegeld, beträgt jedoch höchstens:
 
-dem vereinbarten Pflegegeld, beträgt jedoch höchstens:
-
-- a. bei Wochenpflege CHF 2'030.– für ein Pflegekind pro Monat;
-- b. bei Dauerpflege CHF 2'560.– für ein Pflegekind pro Monat;
-- c. bei regelmässiger Kurzzeit- (Wochenende oder Einzeltage) oder Ferienpflege CHF 85.– für ein Pflegekind pro Tag.
+- a. bei Wochenpflege CHF 2’132.– für ein Pflegekind pro Monat;
+- b. bei Dauerpflege CHF 2’688.– für ein Pflegekind pro Monat;
+- c. bei regelmässiger Kurzzeit- (Wochenende oder Einzeltage) oder Ferienpflege CHF 89.– für ein Pflegekind pro Tag.
 
 <sup>4</sup> In begründeten, strukturbedingten Fällen kann bei ausserkantonalen Unterbringungen sowie in Härtefällen bei allen Unterbringungen von den Höchstbeträgen gemäss Abs. 2 und 3 bis zu einer maximalen Höhe von CHF 7500.– für ein Pflegekind pro Monat abgewichen werden.
 
 <sup>5</sup> Bei Wochenpflege und Dauerpflege wird der Beitrag für den Eintritts- und Austrittsmonat abhängig vom Eintritts- bzw. Austrittsdatum anteilsmässig ausgerichtet.
 
-<sup>6</sup> Der Beitrag an die Pflege in einer Krisensituation durch eine anerkannte Pflegefamilie für Kriseninterventionen entspricht dem vereinbarten Pflegegeld, beträgt jedoch höchstens CHF 96.– für ein Pflegekind pro Tag. Er wird höchstens während 90 Tagen ausgerichtet.
+<sup>6</sup> Der Beitrag an die Pflege in einer Krisensituation durch eine anerkannte Pflegefamilie für Kriseninterventionen entspricht dem vereinbarten Pflegegeld, beträgt jedoch höchstens CHF 101.– für ein Pflegekind pro Tag. Er wird höchstens während 90 Tagen ausgerichtet.
 
 <sup>7</sup> Die Beträge gemäss Abs. 2, 3, 4 und 6 beinhalten pauschalierte Auslagen für Unterkunft und Verpflegung sowie Kleidung (in Ergänzung zur Herkunftsfamilie) von CHF 1070.– pro Monat bei Dauerpflege und Wochenpflege bzw. CHF 35.70 pro Tag bei Kriseninterventionen und regelmässiger Kurzzeit- (Wochenende oder Einzeltage) oder Ferienpflege.
 
@@ -341,7 +339,7 @@ dem vereinbarten Pflegegeld, beträgt jedoch höchstens:
 
 <sup>2</sup> Liegt eine unselbständige Tätigkeit im Sinne der Bundesgesetzgebung über die Alters- und Hinterlassenenversicherung vor, ist der Kanton AHV-rechtlicher Arbeitgeber. Vorbehalten sind Anstellungen von Pflegeeltern bei einer Organisation mit einem Dienstleistungsangebot in Familienplatzierung. Diesfalls besteht ausschliesslich ein Arbeitsverhältnis mit dieser Organisation.
 
-<sup>3</sup> Die im Rahmen der AHV-rechtlichen Arbeitgeberstellung des Kantons übernommenen Verpflichtungen sind in der Verordnung vom 12. März 2013[^18-1] über die Vergütung von Mandaten an unselbständig Erwerbende geregelt, wobei die Bestimmungen über die Vergütungsfortzahlung gemäss § 12 dieser Verordnung nur zum Tragen kommen, wenn sie zur Unmöglichkeit der Weiterführung des Pflegeverhältnisses führen.
+<sup>3</sup> Die im Rahmen der AHV-rechtlichen Arbeitgeberstellung des Kantons übernommenen Verpflichtungen sind in der Verordnung über die Vergütung von Mandaten an unselbständig Erwerbende vom 12. März 2013[^18-1] geregelt, wobei die Bestimmungen über die Vergütungsfortzahlung gemäss § 12 dieser Verordnung nur zum Tragen kommen, wenn sie zur Unmöglichkeit der Weiterführung des Pflegeverhältnisses führen.
 
 <sup>4</sup> Es erfolgt keine Anstellung im Sinne des Personalgesetzes. Für personalrechtliche Fragen gilt das Obligationenrecht.
 
@@ -565,7 +563,7 @@ dem vereinbarten Pflegegeld, beträgt jedoch höchstens:
 
 <sup>2</sup> Das Amt prüft bei Unterbringungen den Sachverhalt, verfügt die Kostenbeteiligungen und zieht diese bei den Unterhaltspflichtigen sowie den jungen Erwachsenen, die gemäss § 28 Abs. 3 des Sozialhilfegesetzes weiterhin Anspruch auf Beiträge haben, und gegebenenfalls bei den Minderjährigen mit eigenem Einkommen, Unterhaltsbeiträgen bzw. Verwandtenunterstützung ein.
 
-<sup>3</sup> Es kann bei Heimaufenthalt den Kosteneinzug dem Heim übertragen.
+<sup>3</sup> Das Amt kann den Kosteneinzug bei Heimaufenthalt dem Heim und bei Pflegefamilienunterbringung dem Dienstleistungsanbietenden in der Familienpflege übertragen.
 
 ## 4.2
 
@@ -575,17 +573,17 @@ dem vereinbarten Pflegegeld, beträgt jedoch höchstens:
 
 <sup>1</sup> Die Kostenbeteiligung aufgrund der finanziellen Leistungskraft beträgt für in gemeinsamem Haushalt lebende gemeinsam Unterhaltspflichtige, Unterhaltspflichtige mit Beistand einer gesetzlich verpflichteten Person und Unterhaltspflichtige in gefestigter Lebensgemeinschaft mit einem massgebenden Jahreseinkommen:
 
-- a. über CHF 100'000 — 13,5 % desselben pro rata, jedoch höchstens CHF 2'500 pro Monat;
-- b. über CHF 95'000 bis CHF 100'000 — 12,5 % desselben pro rata;
-- c. über CHF 90'000 bis CHF 95'000 — 11,5 % desselben pro rata;
-- d. über CHF 85'000 bis CHF 90'000 — 10,5 % desselben pro rata;
-- e. über CHF 80'000 bis CHF 85'000 — 9,5 % desselben pro rata;
-- f. über CHF 75'000 bis CHF 80'000 — 8,5 % desselben pro rata;
-- g. über CHF 70'000 bis CHF 75'000 — 7,5 % desselben pro rata;
-- h. über CHF 65'000 bis CHF 70'000 — 6,5 % desselben pro rata;
-- i. über CHF 60'000 bis CHF 65'000 — 5,5 % desselben pro rata;
-- j. über CHF 55'000 bis CHF 60'000 — 4,5 % desselben pro rata;
-- k. bis CHF 55'000 — null.
+- a. über CHF 100'000.– — 13,5 % desselben pro rata, jedoch höchstens CHF 2'500.– pro Monat;
+- b. über CHF 95'000.– bis CHF 100'000.– — 12,5 % desselben pro rata;
+- c. über CHF 90'000.– bis CHF 95'000.– — 11,5 % desselben pro rata;
+- d. über CHF 85'000.– bis CHF 90'000.– — 10,5 % desselben pro rata;
+- e. über CHF 80'000.– bis CHF 85'000.– — 9,5 % desselben pro rata;
+- f. über CHF 75'000.– bis CHF 80'000.– — 8,5 % desselben pro rata;
+- g. über CHF 70'000.– bis CHF 75'000.– — 7,5 % desselben pro rata;
+- h. über CHF 65'000.– bis CHF 70'000.– — 6,5 % desselben pro rata;
+- i. über CHF 60'000.– bis CHF 65'000.– — 5,5 % desselben pro rata;
+- j. über CHF 55'000.– bis CHF 60'000.– — 4,5 % desselben pro rata;
+- k. bis CHF 55'000.– — null.
 
 #### § 33
 
@@ -593,19 +591,19 @@ dem vereinbarten Pflegegeld, beträgt jedoch höchstens:
 
 <sup>1</sup> Die Kostenbeteiligung aufgrund der finanziellen Leistungskraft beträgt für die übrigen Unterhaltspflichtigen mit einem massgebenden Jahreseinkommen:
 
-- a. über CHF 95'000 — 15 % desselben pro rata,jedoch höchstens CHF 2'500 pro Monat;
-- b. über CHF 90'000 bis CHF 95'000 — 14 % desselben pro rata;
-- c. über CHF 85'000 bis CHF 90'000 — 13 % desselben pro rata;
-- d. über CHF 80'000 bis CHF 85'000 — 12 % desselben pro rata;
-- e. über CHF 75'000 bis CHF 80'000 — 11 % desselben pro rata;
-- f. über CHF 70'000 bis CHF 75'000 — 10 % desselben pro rata;
-- g. über CHF 65'000 bis CHF 70'000 — 9 % desselben pro rata;
-- h. über CHF 60'000 bis CHF 65'000 — 8 % desselben pro rata;
-- i. über CHF 55'000 bis CHF 60'000 — 7 % desselben pro rata;
-- j. über CHF 50'000 bis CHF 55'000 — 6 % desselben pro rata;
-- k. über CHF 45'000 bis CHF 50'000 — 5 % desselben pro rata;
-- l. über CHF 40'000 bis CHF 45'000 — 4 % desselben pro rata;
-- m. bis CHF 40'000 — null.
+- a. über CHF 95'000.– — 15 % desselben pro rata,jedoch höchstens CHF 2'500.– pro Monat;
+- b. über CHF 90'000.– bis CHF 95'000.– — 14 % desselben pro rata;
+- c. über CHF 85'000.– bis CHF 90'000.– — 13 % desselben pro rata;
+- d. über CHF 80'000.– bis CHF 85'000.– — 12 % desselben pro rata;
+- e. über CHF 75'000.– bis CHF 80'000.– — 11 % desselben pro rata;
+- f. über CHF 70'000.– bis CHF 75'000.– — 10 % desselben pro rata;
+- g. über CHF 65'000.– bis CHF 70'000.– — 9 % desselben pro rata;
+- h. über CHF 60'000.– bis CHF 65'000.– — 8 % desselben pro rata;
+- i. über CHF 55'000.– bis CHF 60'000.– — 7 % desselben pro rata;
+- j. über CHF 50'000.– bis CHF 55'000.– — 6 % desselben pro rata;
+- k. über CHF 45'000.– bis CHF 50'000.– — 5 % desselben pro rata;
+- l. über CHF 40'000.– bis CHF 45'000.– — 4 % desselben pro rata;
+- m. bis CHF 40'000.– — null.
 
 #### § 34
 
@@ -613,20 +611,20 @@ dem vereinbarten Pflegegeld, beträgt jedoch höchstens:
 
 <sup>1</sup> Die Kostenbeteiligung aufgrund der finanziellen Leistungskraft beträgt für Minderjährige, die ein eigenes Einkommen erzielen bzw. Verwandtenunterstützung erhalten und die keine Unterhaltspflichtigen haben, sowie für junge Erwachsene, die gemäss § 28 Abs. 3 des Sozialhilfegesetzes weiterhin Anspruch auf Beiträge haben, mit einem massgebenden Jahreseinkommen
 
-- a. über CHF 35'000 — 60 % desselben pro rata, jedoch höchstens CHF 2'500 pro Monat;
-- b. über CHF 30'000 bis CHF 35'000 — 55 % desselben pro rata;
-- c. über CHF 25'000 bis CHF 30'000 — 45 % desselben pro rata;
-- d. über CHF 20'000 bis CHF 25'000 — 35 % desselben pro rata;
-- e. über CHF 15'000 bis CHF 20'000 — 25 % desselben pro rata;
-- f. über CHF 10'000 bis CHF 15'000 — 15 % desselben pro rata;
-- g. über CHF 9'000 bis CHF 10'000 — 5 % desselben pro rata;
-- h. bis CHF 9'000 — null.
+- a. über CHF 35'000.– — 60 % desselben pro rata, jedoch höchstens CHF 2'500.– pro Monat;
+- b. über CHF 30'000.– bis CHF 35'000.– — 55 % desselben pro rata;
+- c. über CHF 25'000.– bis CHF 30'000.– — 45 % desselben pro rata;
+- d. über CHF 20'000.– bis CHF 25'000.– — 35 % desselben pro rata;
+- e. über CHF 15'000.– bis CHF 20'000.– — 25 % desselben pro rata;
+- f. über CHF 10'000.– bis CHF 15'000.– — 15 % desselben pro rata;
+- g. über CHF 9'000.– bis CHF 10'000.– — 5 % desselben pro rata;
+- h. bis CHF 9'000.– — null.
 
 #### § 35
 
 **Kostenbeteiligung der Minderjährigen, deren Einkommen, Unterhaltsbeiträge bzw. Verwandtenunterstützung nicht den Unterhaltspflichtigen zukommen**
 
-<sup>1</sup> Kommen Einkommen, vorbehältlich dem Einkommen aus Erwebstätigkeit, Unterhaltsbeiträge bzw. Verwandtenunterstützung einer oder eines untergebrachten Minderjährigen nicht den Unterhaltspflichtigen zu, wird sowohl die Kostenbeteiligung der oder des untergebrachten Minderjährigen gemäss § 34 wie auch die Kostenbeteiligung der Unterhaltspflichtigen gemäss § 32 oder § 33 ermittelt.
+<sup>1</sup> Kommen Einkommen, vorbehältlich dem Einkommen aus Erwerbstätigkeit, Unterhaltsbeiträge bzw. Verwandtenunterstützung einer oder eines untergebrachten Minderjährigen nicht den Unterhaltspflichtigen zu, wird sowohl die Kostenbeteiligung der oder des untergebrachten Minderjährigen gemäss § 34 wie auch die Kostenbeteiligung der Unterhaltspflichtigen gemäss § 32 oder § 33 ermittelt.
 
 <sup>2</sup> Die Kostenbeteiligung beträgt für die oder den untergebrachten Minderjährigen den errechneten Betrag gemäss § 34.
 
@@ -709,9 +707,9 @@ dem vereinbarten Pflegegeld, beträgt jedoch höchstens:
 <sup>2</sup> Die Verordnung vom 12. März 2013[^39-3] über die Vergütung von Mandaten an unselbständig Erwerbende wird wie folgt geändert: ...[^39-4]
 
 [^39-1]: [SGS 261.31](https://bl.clex.ch/data/261.31/de)
-[^39-2]: GS 38.330
+[^39-2]: [GS 38.330](https://www.baselland.ch/themen/g/gesetzessammlung/chronologische-sammlung-bis-2013/gs-band-38-2/38-0318.pdf/@@download/file/38.0318.pdf)
 [^39-3]: [SGS 153.18](https://bl.clex.ch/data/153.18/de)
-[^39-4]: GS 38.331
+[^39-4]: [GS 38.331](https://www.baselland.ch/themen/g/gesetzessammlung/chronologische-sammlung-bis-2013/gs-band-38-2/38-0318.pdf/@@download/file/38.0318.pdf)
 
 #### § 40
 
