@@ -1,27 +1,27 @@
 ---
 canton: TG
 number: "412.214"
-title: "Verordnung des Regierungsrates über die Brückenange-bote, das niederschwellige Ausbildungsangebot und die kantonalen Integrationskurse"
+title: "Verordnung über die Brückenangebote, die niederschwelligen Ausbildungsangebote und die kantonalen Integrationskurse"
 short: BbB
 language: de
-version: 2022-01-01
-valid_until: 2023-12-31
-version_adopted: 2021-12-21
+version: 2024-01-01
+valid_until: 2025-12-31
+version_adopted: 2023-12-05
 adopted: 2014-11-25
 in_force: 2015-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/412.214"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2372/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2729/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung des Regierungsrates über die Brückenange-bote, das niederschwellige Ausbildungsangebot und die kantonalen Integrationskurse
+# Verordnung über die Brückenangebote, die niederschwelligen Ausbildungsangebote und die kantonalen Integrationskurse
 
 BbB
 
 (BbB)
 
-vom 25.11.2014 (Stand 01.01.2022)
+vom 25.11.2014 (Stand 01.01.2024)
 
 ## 1. Brückenangebote
 
@@ -35,7 +35,7 @@ vom 25.11.2014 (Stand 01.01.2022)
 
 **Dauer**
 
-<sup>1</sup> Das Brückenangebot dauert ein Jahr und umfasst Unterricht und Praxiseinsätze, wovon zwei Wochen während den Schulferien.
+<sup>1</sup> Das Brückenangebot dauert ein Jahr und umfasst Unterricht und Praxiseinsätze, davon zwei Wochen während der Schulferien.
 
 #### § 3
 
@@ -51,15 +51,17 @@ vom 25.11.2014 (Stand 01.01.2022)
 
 <sup>1</sup> Das Aufnahmeverfahren wird durch das Amt für Berufsbildung und Berufsberatung (Amt) zentral geführt.
 
-<sup>2</sup> Die Klassenlehrperson der Sekundarschule und die Berufs- und Studienberatung stellen Antrag.
+<sup>2</sup> Die Klassenlehrperson der Sekundarschule und die Berufs- und Studienberatung sprechen eine Empfehlung aus.
 
-<sup>3</sup> Der Aufnahmeentscheid wird durch eine vom Departement eingesetzte Aufnahmekommission getroffen.
+<sup>3</sup> Das Departement setzt eine Aufnahmekommission ein. Sie wird durch eine Vertretung des Amts geleitet.
+
+<sup>4</sup> Der Aufnahmeentscheid wird durch die Aufnahmekommission getroffen.
 
 #### § 5
 
 **Ausserkantonale Angebote**
 
-<sup>1</sup> Das Amt kann auf Antrag der Aufnahmekommission den Besuch eines ausserkantonalen Brückenangebots bewilligen, sofern dieses einen berufsspezifischen Charakter hat und nicht durch das bestehende kantonale Angebot abgedeckt wird.
+<sup>1</sup> Das Amt kann auf Empfehlung der Aufnahmekommission den Besuch eines ausserkantonalen Brückenangebots bewilligen, sofern dieses einen berufsspezifischen Charakter hat und nicht durch das bestehende kantonale Angebot abgedeckt wird.
 
 #### § 6
 
@@ -106,11 +108,11 @@ vom 25.11.2014 (Stand 01.01.2022)
 
 **Gebühren**
 
-<sup>1</sup> Es wird eine Anmeldegebühr und ein Materialgeld erhoben.
+<sup>1</sup> Es wird eine Anmeldegebühr und eine schulorganisatorische Dienstleistungsgebühr erhoben.
 
 <sup>2</sup> Das Departement legt die Tarife fest.
 
-<sup>3</sup> In Härtefällen kann teilweise oder ganz auf die Erhebung verzichtet werden. Zuständig für den Verzicht ist beim Materialgeld die Schulleitung, bei den Anmeldegebühren das Amt.
+<sup>3</sup> In Härtefällen kann teilweise oder ganz auf die Erhebung verzichtet werden. Zuständig für den Verzicht ist bei der schulorganisatorischen Dienstleistungsgebühr die Schulleitung, bei den Anmeldegebühren das Amt.
 
 #### § 10
 
@@ -122,29 +124,29 @@ vom 25.11.2014 (Stand 01.01.2022)
 
 **Fachkonferenz**
 
-<sup>1</sup> Die Leiter und Leiterinnen der Brückenangebote, der Präsident oder die Präsidentin der Aufnahmekommission Brückenangebote und eine Vertretung des Amtes bilden die Fachkonferenz.
+<sup>1</sup> Die Leiter und Leiterinnen der Brückenangebote, der Präsident oder die Präsidentin der Aufnahmekommission Brückenangebote und eine Vertretung der Berufs- und Studienberatung bilden die Fachkonferenz.
 
 <sup>2</sup> Die Fachkonferenz stellt die einheitliche Umsetzung des gesetzlichen Auftrags sicher. Sie bespricht Fragen der Zusammenarbeit und der Koordination. Sie kann Anträge in Bezug auf Änderungen oder Präzisierungen des Auftrages zuhanden des Amtes stellen.
 
-<sup>3</sup> Die Leitung obliegt dem Vertreter oder der Vertreterin des Amtes.
+<sup>3</sup> Die Leitung obliegt dem Präsidenten oder der Präsidentin der Aufnahmekommission.
 
-## 2. Niederschwelliges Ausbildungsangebot
+## 2. Niederschwelliges Ausbildungsangebot und niederschwellige Integrationsausbildung
 
 #### § 12
 
 **Angebot**
 
-<sup>1</sup> Der Kanton führt für Jugendliche ein niederschwelliges Ausbildungsangebot im ersten Arbeitsmarkt. Es umfasst wöchentlich vier Tage Ausbildung in einem Betrieb im Kanton Thurgau und einen Tag Unterricht in einer Berufsfachschule.
+<sup>1</sup> Der Kanton führt für Jugendliche ein niederschwelliges Ausbildungsangebot und für fremdsprachige Erwachsene eine niederschwellige Integrationsausbildung im ersten Arbeitsmarkt. Sie umfassen wöchentlich vier Tage Ausbildung in einem Betrieb im Kanton Thurgau und einen Tag Unterricht in einer Berufsfachschule.
 
 #### § 13
 
 **Dauer**
 
-<sup>1</sup> Das niederschwellige Ausbildungsangebot dauert zwei Jahre.
+<sup>1</sup> Das niederschwellige Ausbildungsangebot und die niederschwellige Integrationsausbildung dauern zwei Jahre.
 
 #### § 14
 
-**Aufnahmevoraussetzungen**
+**Aufnahmevoraussetzungen niederschwelliges Ausbildungsangebot**
 
 <sup>1</sup> Das Angebot steht kognitiv schwachen, arbeitswilligen Jugendlichen ohne Anspruch auf berufliche Massnahmen der Invalidenversicherung (IV) offen.
 
@@ -152,13 +154,23 @@ vom 25.11.2014 (Stand 01.01.2022)
 
 <sup>3</sup> Der oder die Jugendliche muss zu Beginn der Ausbildung zwischen 15 und 18 Jahre alt sein. Das Amt entscheidet über Ausnahmen.
 
-<sup>4</sup> Der Wechsel von einer eidgenössischen Grundbildung in das niederschwellige Ausbildungsangebot bedingt eine Empfehlung der kantonalen Berufs- und Studienberatung.
+<sup>4</sup> Der Wechsel von einer beruflichen Grundbildung in das niederschwellige Ausbildungsangebot bedingt eine Empfehlung der kantonalen Berufs- und Studienberatung.
+
+#### § 14a
+
+**Aufnahmevoraussetzungen niederschwellige Integrationsausbildung**
+
+<sup>1</sup> Das Angebot steht fremdsprachigen Personen ab 18 Jahren offen.
+
+<sup>2</sup> Die Aufnahme setzt zivilrechtlichen Wohnsitz im Kanton Thurgau voraus.
+
+<sup>3</sup> Voraussetzung ist mindestens das Sprachniveau A1 schriftlich und A2 mündlich des Gemeinsamen Europäischen Referenzrahmens (GER).
 
 #### § 15
 
 **Ausbildungsvertrag**
 
-<sup>1</sup> Grundlage für das Ausbildungsangebot bildet ein Ausbildungsvertrag mit einem Betrieb im Kanton Thurgau, welcher durch das Amt zu bewilligen ist. Die Überprüfung erfasst insbesondere die Aufnahmevoraussetzungen gemäss § 14.
+<sup>1</sup> Grundlage für die Ausbildungsangebote bildet ein Ausbildungsvertrag mit einem Betrieb im Kanton Thurgau, der durch das Amt zu bewilligen ist. Die Überprüfung erfasst insbesondere die Aufnahmevoraussetzungen gemäss § 14 und § 14a.
 
 <sup>2</sup> Die Auflösung des Ausbildungsvertrages erfolgt analog der Auflösung eines Lehrvertrages.
 
@@ -166,7 +178,11 @@ vom 25.11.2014 (Stand 01.01.2022)
 
 **Unterricht an der Berufsfachschule**
 
-<sup>1</sup> Die Schwerpunkte der Ausbildung an der Berufsfachschule liegen in der Allgemeinbildung, der Förderung der sozialen Kompetenzen sowie der am beruflichen Alltag orientierten Bildung. Das Departement legt den Rahmenlehrplan fest.
+<sup>1</sup> Die Schwerpunkte des niederschwelligen Ausbildungsangebots an der Berufsfachschule liegen in der Allgemeinbildung, der Förderung der sozialen Kompetenzen sowie der am beruflichen Alltag orientierten Bildung.
+
+<sup>1<sup>bis</sup></sup> Die Schwerpunkte der niederschwelligen Integrationsausbildung liegen in der Sprachförderung, der Allgemeinbildung sowie im Erwerb von arbeitsweltspezifischen Kompetenzen.
+
+<sup>1<sup>ter</sup></sup> Das Departement legt die Rahmenlehrpläne fest.
 
 <sup>2</sup> Der wöchentliche Unterricht umfasst sieben Lektionen und schliesst eine bis zwei Lektionen begleitetes, individuelles Arbeiten mit ein.
 
@@ -174,19 +190,23 @@ vom 25.11.2014 (Stand 01.01.2022)
 
 **Gebühren**
 
-<sup>1</sup> Es werden Gebühren analog der beruflichen Grundbildung erhoben.
+<sup>1</sup> Für das niederschwellige Ausbildungsangebot werden Gebühren analog der beruflichen Grundbildung erhoben.
+
+<sup>2</sup> Für die niederschwellige Integrationsausbildung werden ein Schulgeld und eine schulorganisatorische Dienstleistungsgebühr erhoben.
+
+<sup>3</sup> Das Departement legt die Tarife fest.
 
 #### § 18
 
 **Kompetenznachweis**
 
-<sup>1</sup> Die Berufsfachschule sowie der Ausbildungsbetrieb stellen jährlich zuhanden des oder der Jugendlichen einen schulischen und einen betrieblichen Kompetenznachweis aus. Das Amt stellt eine Vorlage zur Verfügung.
+<sup>1</sup> Die Berufsfachschule sowie der Ausbildungsbetrieb stellen jährlich zuhanden der Teilnehmenden einen schulischen und einen betrieblichen Kompetenznachweis aus. Das Amt stellt eine Vorlage zur Verfügung.
 
 #### § 19
 
 **Berichterstattung**
 
-<sup>1</sup> Das Amt erstattet dem Departement jährlich Bericht über das niederschwellige Ausbildungsangebot.
+<sup>1</sup> Das Amt erstattet dem Departement jährlich Bericht über das niederschwellige Ausbildungsangebot und die niederschwellige Integrationsausbildung.
 
 <sup>2</sup> Im Bericht werden insbesondere die Anzahl Ausbildungsverhältnisse, die Anschlusslösungen, die erfüllten Ausbildungen, die Abbrüche sowie die ausbildenden Branchen dargelegt.
 
@@ -196,7 +216,7 @@ vom 25.11.2014 (Stand 01.01.2022)
 
 **Angebot**
 
-<sup>1</sup> Der Kanton führt für fremdsprachige Jugendliche kantonale Integrationskurse durch. Auf der Sekundarstufe II werden die Integrationskurse 1b und 2 angeboten. Sie dienen der Vorbereitung auf eine eidgenössische Grundbildung.
+<sup>1</sup> Der Kanton führt für fremdsprachige junge Erwachsene kantonale Integrationskurse durch. Auf der Sekundarstufe II werden die Integrationskurse 1b und 2 angeboten. Sie dienen der Vorbereitung auf eine berufliche Grundbildung.
 
 #### § 21
 
@@ -220,9 +240,9 @@ vom 25.11.2014 (Stand 01.01.2022)
 
 <sup>1</sup> Die Aufnahme setzt zivilrechtlichen Wohnsitz im Kanton Thurgau voraus.
 
-<sup>2</sup> Fremdsprachige Jugendliche können ab dem Schuljahr aufgenommen werden, in welchem sie das 17. Altersjahr vollenden. Sie werden längstens in dem Schuljahr aufgenommen, in dem sie das 24. Altersjahr vollenden. Das Amt entscheidet über Ausnahmen.
+<sup>2</sup> Fremdsprachige junge Erwachsene können ab dem Schuljahr aufgenommen werden, in dem sie das 17. Altersjahr vollenden. Sie werden längstens in dem Schuljahr aufgenommen, in dem sie das 34. Altersjahr vollenden. Das Amt entscheidet über Ausnahmen.
 
-<sup>3</sup> Das Angebot ist auf 15 Klassen beschränkt. Die Klassengrösse beträgt zwischen zehn und zwölf Jugendliche.
+<sup>3</sup> Die Klassengrösse beträgt zwischen zehn und zwölf Teilnehmende.
 
 <sup>4</sup> Voraussetzung für den Integrationskurs 2 ist das Sprachniveau A2 des Gemeinsamen Europäischen Referenzrahmens für Sprachen (GER).
 
@@ -252,7 +272,9 @@ vom 25.11.2014 (Stand 01.01.2022)
 
 **Gebühren**
 
-<sup>1</sup> Es werden Gebühren analog der beruflichen Grundbildung erhoben.
+<sup>1</sup> Es werden ein Schulgeld und eine schulorganisatorische Dienstleistungsgebühr erhoben.
+
+<sup>2</sup> Das Departement legt die Tarife fest.
 
 #### § 28
 
