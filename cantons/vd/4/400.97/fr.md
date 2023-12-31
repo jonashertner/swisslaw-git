@@ -4,7 +4,7 @@ number: "400.97"
 title: "CONVENTION du 09.12.2002 sur la création et l'exploitation du Gymnase intercantonal de la Broye (C-GIB)"
 short: C-GIB
 language: fr
-version: 2018-07-01
+version: 2024-01-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/400.97?id=412ffe34-3495-4cb2-a2f3-3135a64a3cc7"
 ---
 
@@ -60,7 +60,7 @@ conviennent de ce qui suit
 
 <sup>1</sup> L'aire de recrutement s'étend :
 
-- a. pour le canton de Fribourg : aux communes du district de la Broye, à la commune de Villarepos (district du Lac) ainsi qu'à la commune de Châtonnaye (district de la Glâne) ;
+- a. pour le canton de Fribourg : aux communes du district de la Broye, à la commune de Villarepos (district du Lac) ainsi qu'aux communes de Châtonnaye et d'Ecublens (district de la Glâne) ;
 - b. pour le Canton de Vaud : aux communes des districts d'Avenches et de Payerne ainsi qu'aux communes de Brenles, Bussy-sur-Moudon, Chavannes-sur-Moudon, Chesalles-sur-Moudon, Cremin, Curtilles, Denezy, Dompierre, Forel-sur-Lucens, Hermenches, Lovatens, Lucens, Martherenges, Moudon, Neyruz-sur-Moudon, Oulens-sur-Lucens, Prévonloup, Rossenges, Sarzens et Villars-le-Comte (district de Moudon) [^5-1] .
 
 <sup>2</sup> L'aire de recrutement peut être modifiée par les Conseils d'Etat des deux cantons, sur proposition du Conseil du Gymnase.
