@@ -3,11 +3,11 @@ canton: ZH
 number: "181.40"
 title: Personalverordnung der Evangelisch-reformierten Landeskirche des Kantons Zürich
 language: de
-version: "2023-01-01"
-nachtrag: "120"
-valid_until: 2024-01-01
+version: "2024-01-01"
+nachtrag: "123"
+valid_until: 2026-01-01
 adopted: 2010-05-11
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-181_40-2010_05_11-2012_01_01-120.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-181_40-2010_05_11-2012_01_01-123.html"
 text: pdf
 ---
 
@@ -62,7 +62,7 @@ beschliesst:
 
 **1**
 
-- 1\. 4. 23 - 120
+- 1\. 1. 24 - 123
 
 [^2-1]: Fassung gemäss B vom 5. April 2016 (OS 71, 269; ABl 2016-04-22). In Kraft seit 1. September 2016 (ABl 2016-06-10).
 [^2-2]: LS 181.10.
@@ -170,7 +170,7 @@ Der Kirchenrat legt für die kirchlichen Berufe Aufgaben und Anforderungen fest.
 
 **3**
 
-- 1\. 4. 23 - 120
+- 1\. 1. 24 - 123
 
 ### D. Anwendbares Recht
 
@@ -255,17 +255,17 @@ Das Arbeitsverhältnis von Pfarrerinnen, Pfarrern und Angestellten ist öffentli
 
 <sup>1</sup> Das Anstellungsverhältnis beginnt am Tag, der in der Anstellungsverfügung bezeichnet ist.
 
-<sup>2</sup> Der Amtsantritt gewählter Pfarrerinnen und Pfarrer erfolgt nach rechtskräftig zustande gekommener Wahl auf den in der Verfügung gemäss § 18 Abs. 2 dieser Verordnung bezeichneten Zeitpunkt.
-
-#### § 22
+<sup>2</sup> Der Amtsantritt gewählter Pfarrerinnen und Pfarrer erfolgt nach rechtskräftig zustande gekommener Wahl auf den in der Verfügung gemäss § 18 Abs. 2 bezeichneten Zeitpunkt.[^21-1]
 
 **Probezeit**
 
-<sup>1</sup> Die ersten drei Monate eines unbefristeten oder eines befristeten Anstellungsverhältnisses von mindestens sechs Monaten Dauer gelten als Probezeit.
+§ 22. <sup>1</sup> Die ersten drei Monate eines unbefristeten oder eines befristeten Anstellungsverhältnisses von mindestens sechs Monaten Dauer gelten als Probezeit.
 
 <sup>2</sup> Die Probezeit wird vor ihrem Ablauf im Rahmen eines Probezeitgesprächs beurteilt und dessen Ergebnis schriftlich festgehalten.
 
 <sup>3</sup> Gewählte Pfarrerinnen und Pfarrer unterliegen keiner Probezeit.
+
+[^21-1]: Fassung gemäss B vom 11. Juli 2023 (OS 78, 419; ABl 2023-07-14). In Kraft seit 1. Januar 2024.
 
 #### § 23
 
@@ -277,7 +277,7 @@ Das Arbeitsverhältnis von Pfarrerinnen, Pfarrern und Angestellten ist öffentli
 
 **5**
 
-- 1\. 4. 23 - 120
+- 1\. 1. 24 - 123
 
 <sup>3</sup> Die Anstellung von Stellvertreterinnen und Stellvertretern gemäss Art. 121 Abs. 1 der Kirchenordnung[^23-1] gilt als befristetes Anstellungsverhältnis. Sie erfolgt auf bestimmte Dauer oder bis zum Wegfall des Grundes, welcher der Errichtung einer Stellvertretung zugrunde liegt. Abs. 2 ist nicht anwendbar.
 
@@ -318,9 +318,7 @@ Das Arbeitsverhältnis gewählter Pfarrerinnen und Pfarrer ist durch die Amtsdau
 
 - b. Kündigung,
 
-- c. Kündigung aus wichtigen Gründen,
-
-- d. Abberufung gemäss Art. 133 der Kirchenordnung[^26-1],
+- c. Kündigung aus wichtigen Gründen, d.[^26-1]
 
 - e. Beendigung invaliditätshalber,
 
@@ -328,12 +326,13 @@ Das Arbeitsverhältnis gewählter Pfarrerinnen und Pfarrer ist durch die Amtsdau
 
 <sup>2</sup> Es endet ohne Weiteres:
 
-- a. durch Ablauf der Befristung des Anstellungsverhältnisses, bei Stellvertreterinnen und Stellvertretern gemäss Art. 121 Abs. 1 der Kirchenordnung[^26-1] zudem durch Wegfall des Grundes, welcher der Errichtung einer Stellvertretung zugrunde liegt, b.[^26-2] am Ende des Monats, in welchem das Altersjahr vollendet wird, das für Männer den Anspruch auf eine Altersrente der Alters- und Hinterlassenenversicherung begründet, unter Vorbehalt einer früheren Beendigung des Anstellungsverhältnisses nach den Bestimmungen der zuständigen Einrichtung der beruflichen Vorsorge,
+- a. durch Ablauf der Befristung des Anstellungsverhältnisses, bei Stellvertreterinnen und Stellvertretern gemäss Art. 121 Abs. 1 der Kirchenordnung[^26-2] zudem durch Wegfall des Grundes, welcher der Errichtung einer Stellvertretung zugrunde liegt, b.[^26-3] am Ende des Monats, in welchem das Altersjahr vollendet wird, das für Männer den Anspruch auf eine Altersrente der Alters- und Hinterlassenenversicherung begründet, unter Vorbehalt einer früheren Beendigung des Anstellungsverhältnisses nach den Bestimmungen der zuständigen Einrichtung der beruflichen Vorsorge,
 
 - c. durch Tod.
 
-[^26-1]: LS 181.10.
-[^26-2]: Fassung gemäss B vom 5. April 2016 (OS 71, 269; ABl 2016-04-22). In Kraft seit 1. September 2016 (ABl 2016-06-10).
+[^26-1]: Aufgehoben durch B vom 11. Juli 2023 (OS 78, 419; ABl 2023-07-14). In Kraft seit 1. Januar 2024.
+[^26-2]: LS 181.10.
+[^26-3]: Fassung gemäss B vom 5. April 2016 (OS 71, 269; ABl 2016-04-22). In Kraft seit 1. September 2016 (ABl 2016-06-10).
 
 #### § 27
 
@@ -393,7 +392,7 @@ Die Anstellungsinstanz belegt Gründe, die Anlass zu einer Kündigung geben. Sie
 
 **7**
 
-- 1\. 4. 23 - 120 § 31. <sup>1</sup> Eine Kündigung aus wichtigen Gründen kann beidseitig, ohne Einhaltung von Fristen, jederzeit erfolgen.
+- 1\. 1. 24 - 123 § 31. <sup>1</sup> Eine Kündigung aus wichtigen Gründen kann beidseitig, ohne Einhaltung von Fristen, jederzeit erfolgen.
 
 **c. Fristlos aus wichtigen Gründen**
 
@@ -491,7 +490,7 @@ Der Rücktritt gewählter Pfarrerinnen und Pfarrer sowie die Abberufung richten 
 
 **9**
 
-- 1\. 4. 23 - 120
+- 1\. 1. 24 - 123
 
 <sup>3</sup> Die Auflösung erfolgt in der Regel auf das Ende des dritten der Invaliderklärung folgenden Monats oder, falls der Feststellung der Invalidität eine Dienstaussetzung von mehr als drei Monaten vorausgegangen ist, auf das Ende des nächsten Monats der Dienstaussetzung. Eine Auflösung ist der betreffenden Person mindestens einen Monat im Voraus mitzuteilen.
 
@@ -583,7 +582,7 @@ c.[^39-4] Dem Arbeitsverhältnis liegt keine Weiterbeschäftigung gemäss § 24 
 
 **11**
 
-- 1\. 4. 23 - 120
+- 1\. 1. 24 - 123
 
 <sup>3</sup> Die Abfindung wird nach den Umständen des Einzelfalls festgelegt. Angemessen mitberücksichtigt werden insbesondere die persönlichen Verhältnisse, die Dienstjahre, der Grund der Beendigung des Arbeitsverhältnisses sowie die Wahrscheinlichkeit, eine neue Arbeitsstelle zu finden.
 
@@ -668,7 +667,7 @@ Der Weiterzug von personalrechtlichen Anordnungen richtet sich nach dem Kircheng
 
 **13**
 
-- 1\. 4. 23 - 120
+- 1\. 1. 24 - 123
 
 <sup>2</sup> Ausgenommen sind Auseinandersetzungen, die für Pfarrerinnen, Pfarrer und Angestellte hinsichtlich der Ausübung ihres Amtes oder Dienstes keine nachteiligen Folgen haben.
 
@@ -750,7 +749,7 @@ Die Bekanntgabe von Personendaten von Pfarrerinnen, Pfarrern und Angestellten ri
 
 **15**
 
-- 1\. 4. 23 - 120 § 56. <sup>1</sup> Der Lohn bildet das Entgelt für die gesamte Tätigkeit.
+- 1\. 1. 24 - 123 § 56. <sup>1</sup> Der Lohn bildet das Entgelt für die gesamte Tätigkeit.
 
 **Gesamtvergütung**
 
@@ -866,7 +865,7 @@ Wohnen gewählte Pfarrerinnen und Pfarrer, die gemäss Art. 122 der Kirchenordnu
 
 **17**
 
-- 1\. 4. 23 - 120 § 67. <sup>1</sup> Pfarrerinnen und Pfarrern, die ein Pfarrhaus oder eine Pfarrwohnung bewohnen, wird vom Lohn ein Mietwertanteil abgezogen. Der Kirchenrat setzt den Mietwertanteil fest.
+- 1\. 1. 24 - 123 § 67. <sup>1</sup> Pfarrerinnen und Pfarrern, die ein Pfarrhaus oder eine Pfarrwohnung bewohnen, wird vom Lohn ein Mietwertanteil abgezogen. Der Kirchenrat setzt den Mietwertanteil fest.
 
 **Pfarrhaus, Pfarrwohnung und Dienstwohnung**
 
@@ -968,7 +967,7 @@ Der Kirchenrat regelt in der Vollzugsverordnung[^76-1] den Ersatz von Sachschade
 
 **19**
 
-- 1\. 4. 23 - 120 § 78. <sup>1</sup> Pfarrerinnen, Pfarrern und Angestellten steht im Kalenderjahr ein Ferienanspruch von fünf Wochen zu. Er beträgt sechs Wochen ab Beginn des Kalenderjahres, in dem sie das 60. Altersjahr vollenden.
+- 1\. 1. 24 - 123 § 78. <sup>1</sup> Pfarrerinnen, Pfarrern und Angestellten steht im Kalenderjahr ein Ferienanspruch von fünf Wochen zu. Er beträgt sechs Wochen ab Beginn des Kalenderjahres, in dem sie das 60. Altersjahr vollenden.
 
 **Ferien**
 
@@ -1072,13 +1071,40 @@ Das Recht, Personalverbände zu gründen und diesen anzugehören, ist gewährlei
 
 **21**
 
-- 1\. 4. 23 - 120
+- 1\. 1. 24 - 123
 
 <sup>2</sup> Ordinierte Theologinnen und Theologen sind an das Ordinationsgelübde gemäss Art. 108 Abs. 3 der Kirchenordnung[^87-1] gebunden.
 
 <sup>3</sup> Angestellte unterlassen alles, was ihre Vertrauenswürdigkeit hinsichtlich der dienstlichen Pflichten beeinträchtigt.
 
+**Privatauszug und Sonderprivatauszug a. Pfarrerinnen, Pfarrer und Angestellte**
+
+§ 87 a.[^87-2] <sup>1</sup> Pfarrerinnen und Pfarrer reichen der Anstellungsinstanz im Rahmen des Anstellungsverfahrens sowie jeweils auf Beginn der Amtsdauer der Pfarrerinnen und Pfarrer einen Privatauszug und einen Sonderprivatauszug aus dem Strafregister ein.
+
+<sup>2</sup> Angestellte reichen der Anstellungsinstanz im Rahmen des Anstellungsverfahrens sowie jeweils auf Beginn der Amtsdauer der Pfarrerinnen und Pfarrer einen Privatauszug und einen Sonderprivatauszug aus dem Strafregister ein, sofern sie regelmässig mit Minderjährigen oder anderen besonders schutzbedürftigen Personen tätig sind.
+
+<sup>3</sup> Privatauszug und Sonderprivatauszug, die im Rahmen eines Anstellungsverfahrens eingereicht werden, dürfen nicht älter als ein Jahr sein.
+
+<sup>4</sup> Die Verpflichtung gemäss Abs. 1 und 2 entfällt, wenn sich im Personaldossier bei der Anstellungsinstanz ein Privatauszug und ein Sonderprivatauszug finden, die nicht älter als zwei Jahre sind.
+
+<sup>5</sup> Die Anstellungsinstanz kann Pfarrerinnen, Pfarrer und Angestellte in begründeten Fällen jederzeit verpflichten, einen aktuellen Privat- und Sonderprivatauszug einzureichen.
+
+**b. Freiwillige**
+
+§ 87 b.[^87-2] <sup>1</sup> Volljährige Freiwillige, die regelmässig mit Minderjährigen oder anderen besonders schutzbedürftigen Personen tätig sind, reichen dem personalverantwortlichen Mitglied der Kirchenpflege oder der von der Kirchenpflege bezeichneten Person vor Aufnahme ihrer Tätigkeit und jeweils auf Beginn der Amtsdauer der Pfarrerinnen und Pfarrer einen Privatauszug und einen Sonderprivatauszug aus dem Strafregister ein.
+
+<sup>2</sup> Der Privatauszug und der Sonderprivatauszug, die vor Aufnahme der Tätigkeit eingereicht werden, dürfen nicht älter als ein Jahr sein.
+
+<sup>3</sup> Die Verpflichtung gemäss Abs. 1 entfällt, wenn sich beim personalverantwortlichen Mitglied der Kirchenpflege oder bei der von der Kirchenpflege bezeichneten Person ein Privatauszug und ein Sonderprivatauszug finden, die nicht älter als zwei Jahre sind.
+
+<sup>4</sup> Die Kirchenpflege kann Freiwillige in begründeten Fällen jederzeit verpflichten, einen aktuellen Privat- und Sonderprivatauszug einzureichen.
+
+**c. Vollzug**
+
+§ 87 c.[^87-2] Der Kirchenrat regelt die Einzelheiten des Vollzugs.
+
 [^87-1]: LS 181.10.
+[^87-2]: Eingefügt durch B vom 11. Juli 2023 (OS 78, 419; ABl 2023-07-14). In Kraft seit 1. Januar 2024.
 
 #### § 88
 
@@ -1132,6 +1158,10 @@ Das Recht, Personalverbände zu gründen und diesen anzugehören, ist gewährlei
 
 <sup>1</sup> Die Ausübung einer Nebenbeschäftigung ist nur zulässig, wenn sie die Aufgabenerfüllung nicht beeinträchtigt und mit der amtlichen oder dienstlichen Stellung vereinbar ist. Das gesamte Arbeitspensum darf die Höchstarbeitszeit gemäss Arbeitsgesetz nicht überschreiten.
 
+**23**
+
+- 1\. 1. 24 - 123
+
 <sup>2</sup> Ist eine Bewilligung erforderlich, so kann diese mit Auflagen zur Kompensation beanspruchter Arbeitszeit und zur Abgabe von Nebeneinkünften verbunden werden. Der Kirchenrat regelt die Einzelheiten in der Vollzugsverordnung[^93-1].
 
 [^93-1]: LS 181.401.
@@ -1168,12 +1198,13 @@ Das Recht, Personalverbände zu gründen und diesen anzugehören, ist gewährlei
 
 § 97. Pfarrerinnen, Pfarrer und Angestellte sind verpflichtet, sich einer von der Anstellungsinstanz in begründeten Fällen angeordneten vertrauensärztlichen Untersuchung zu unterziehen. Der Kirchenrat regelt die Einzelheiten in der Vollzugsverordnung[^96-2].
 
-**23**
+**Administrativuntersuchung**
 
-- 1\. 4. 23 - 120
+§ 97 a.[^96-3] Die in eine Administrativuntersuchung einbezogenen Pfarrerinnen, Pfarrer und Angestellten sind verpflichtet, an der Abklärung des Sachverhalts persönlich mitzuwirken. Die Mitwirkungspflicht entfällt, wenn sie sich dadurch strafrechtlich belasten würden oder soweit sie aufgrund einer gesetzlichen Bestimmung berechtigt sind, die Aussage zu verweigern.
 
 [^96-1]: Fassung gemäss B vom 26. November 2013 (OS 69, 98; ABl 2013-12-06). In Kraft seit 1. April 2014.
 [^96-2]: LS 181.401.
+[^96-3]: Eingefügt durch B vom 11. Juli 2023 (OS 78, 419; ABl 2023-07-14). In Kraft seit 1. Januar 2024.
 
 ### 5. Abschnitt: Versicherungen
 
@@ -1216,6 +1247,10 @@ Das Recht, Personalverbände zu gründen und diesen anzugehören, ist gewährlei
 <sup>2</sup> Die Beiträge für die Krankentaggeldversicherung trägt die Anstellungsinstanz mindestens zur Hälfte. Die Beiträge von Pfarrerinnen, Pfarrern und Angestellten werden mit dem Lohn verrechnet.
 
 <sup>3</sup> Der Kirchenrat regelt die Einzelheiten in der Vollzugsverordnung[^100-1].
+
+**25**
+
+- 1\. 1. 24 - 123
 
 [^100-1]: LS 181.401.
 
@@ -1271,11 +1306,11 @@ Dieser Verordnung widersprechende Verordnungen, Richtlinien, Weisungen und Besch
 
 <sup>2</sup> Soweit bisherige Arbeitsverhältnisse mit dem neuen Recht nicht übereinstimmen, gehen dessen Bestimmungen vor. Vorbehalten bleiben §§ 107–111.
 
-**25**
-
-- 1\. 4. 23 - 120 § 107. <sup>1</sup> Die beim Inkrafttreten dieser Verordnung auf Amtsdauer gewählten Angestellten der Kirchgemeinden gelten ab diesem Zeitpunkt als unbefristet angestellt, sofern ihre Wahl oder Wiederwahl mit einem Vorbehalt in Bezug auf die Aufhebung der Amtsdauer erfolgt ist.
+#### § 107
 
 **Angestellte im Wahlverhältnis**
+
+<sup>1</sup> Die beim Inkrafttreten dieser Verordnung auf Amtsdauer gewählten Angestellten der Kirchgemeinden gelten ab diesem Zeitpunkt als unbefristet angestellt, sofern ihre Wahl oder Wiederwahl mit einem Vorbehalt in Bezug auf die Aufhebung der Amtsdauer erfolgt ist.
 
 <sup>2</sup> Für ohne Vorbehalt gewählte Angestellte der Kirchgemeinden gilt bis zum Ablauf der Amtsdauer für die Beendigung des Arbeitsverhältnisses das bisherige Recht.
 
@@ -1311,20 +1346,27 @@ Die Anrechnung von Dienstjahren aus Arbeitsverhältnissen bei einer Kirchgemeind
 
 <sup>3</sup> Anwartschaften auf anteilmässige Auszahlung eines Dienstaltersgeschenkes gemäss bisherigem Recht, die im Zeitpunkt des Inkrafttretens dieser Verordnung bereits bestanden, verwirken.
 
-[^111-1]: Inkrafttreten: 1. Januar 2012.
-
-#### § 112
+**27**
 
 **Inkrafttreten**
 
-Der Kirchenrat bestimmt den Zeitpunkt des Inkrafttretens[^111-1] dieser Verordnung.
+- 1\. 1. 24 - 123 § 112. Der Kirchenrat bestimmt den Zeitpunkt des Inkrafttretens[^111-1] dieser Verordnung.
 
-[^112-1]: Fassung gemäss B vom 30. November 2022 (OS 78, 29). In Kraft seit 1. Januar 2023. 1. 4. 23 - 120 27
+[^111-1]: Inkrafttreten: 1. Januar 2012.
+[^111-2]: Fassung gemäss B vom 29. November 2023 (OS 78, 541). In Kraft seit 1. Januar 2024.
 
 ### Anhang: Beträge des Minimums sowie der Maxima der Lohnklassen
 
-[^112-1]
+[^111-2]
 
-**mittlerer oberer Bereich Bereich 67 466 73 753 69 581 76 063 72 042 78 754 74 866 81 841 78 080 85 354 81 727 89 341 85 826 93 822 90 412 98 836 95 516 104 415 101 169 110 595 107 402 117 407 114 251 124 896 121 745 133 088 128 869 140 875 137 771 150 607 147 423 161 159 156 812 171 422 168 088 183 748 180 231 197 023 193 276 211 283 207 267 226 577**
+**mittlerer oberer Bereich Bereich 68 613 75 007 70 764 77 356 73 267 80 093 76 139 83 232 79 407 86 805 83 116 90 860 87 285 95 417 91 949 100 516 97 140 106 190 102 889 112 475 109 228 119 403 116 193 127 019 123 815 135 350 131 060 143 270 140 113 153 167 149 929 163 899 159 478 174 336 170 945 186 872 183 295 200 372 196 562 214 875 210 791 230 429**
 
-Lohnklasse Minimum Maximum Maximum Maximum unterer unterer Bereich Bereich 1 52 381 61 181 2 54 022 63 098 3 55 933 65 330 4 58 126 67 891 5 60 621 70 805 6 63 453 74 112 7 66 635 77 830 8 70 196 81 990 9 74 159 86 617 10 78 547 91 744 11 83 386 97 396 12 88 704 103 606 13 94 522 110 402 14 100 053 116 863 15 106 965 124 936 16 114 460 133 688 17 121 749 142 202 18 130 503 152 428 19 139 931 163 439 20 105 059 175 269 21 160 922 187 956
+Lohnklasse Minimum Maximum Maximum Maximum unterer unterer Bereich Bereich 1 53 271 62 221 2 54 940 64 171 3 56 884 66 441 4 59 114 69 045 5 61 652 72 009 6 64 532 75 372 7 67 768 79 153 8 71 389 83 384 9 75 420 88 089 10 79 882 93 304 11 84 804 99 052 12 90 212 105 367 13 96 129 112 279 14 101 754 118 850 15 108 783 127 060 16 116 406 135 961 17 123 819 144 619 18 132 722 155 019 19 142 310 166 217 20 152 610 178 249 21 163 658 191 151
+
+**29**
+
+- 1\. 1. 24 - 123
+
+## Weitere Fussnoten
+
+- [16] Fassung gemäss B vom 30. November 2022 (OS 78, 29). In Kraft seit 1. Januar 2023.
