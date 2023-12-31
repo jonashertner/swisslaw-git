@@ -3,20 +3,20 @@ canton: SO
 number: "122.218"
 title: Verordnung über die Delegation der Unterschriftsberechtigung in den Departementen
 language: de
-version: 2023-10-01
-valid_until: 2023-12-31
-version_adopted: 2023-06-06
+version: 2024-01-01
+valid_until: 2024-06-30
+version_adopted: 2023-09-26
 adopted: 2004-05-25
 in_force: 2004-08-01
 url: "https://bgs.so.ch/app/de/texts_of_law/122.218"
-pdf: "https://bgs.so.ch/api/de/versions/5393/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5420/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Delegation der Unterschriftsberechtigung in den Departementen
 
-Vom 25.05.2004 (Stand 01.10.2023)
+Vom 25.05.2004 (Stand 01.01.2024)
 
 Der Regierungsrat des Kantons Solothurn
 
@@ -115,7 +115,7 @@ beschliesst:
   - 1\. Verfügungen im Bereich der Spitalaufenthalte nach der Gesetzgebung über die Krankenversicherung;
   - 1<sup>bis</sup>. Verfügungen betreffend den ärztlichen Nachweis für eine einwandfreie Berufsausübung von Gesundheitsfachpersonen mit vollendetem 75. Altersjahr;
   - 1<sup>ter</sup>. Verfügungen im Zusammenhang mit dem Umgang mit Patientendokumentationen bei Berufsaufgabe und im Todesfall;
-  - 2\. Verfügungen nach der Epidemiengesetzgebung entsprechend den Zuständigkeiten gemäss der Verordnung über den Vollzug der eidgenössischen Epidemiengesetzgebung (kantonale Epidemienverordnung, V EpG) vom 30. April 2019[^4-1]; Leichenpässe werden aufgrund des Sterbeortes vom Vorsteher oder der Vorsteherin des Oberamtes oder deren bezeichneter Stellvertretung ausgestellt;
+  - 2\. Verfügungen nach der Epidemiengesetzgebung entsprechend den Zuständigkeiten gemäss der Verordnung über den Vollzug der eidgenössischen Epidemiengesetzgebung (kantonale Epidemienverordnung, V EpG) vom 30. April 2019[^4-1];
   - 3\. Bewilligungen von Methadonprogrammen;
   - 4\. Bewilligungen für ärztliche Verschreibung von Heroin;
   - 5\. …
@@ -137,7 +137,7 @@ beschliesst:
   - 1<sup>bis</sup>. Massnahmen im Zusammenhang mit Bewilligungsentzugs- und Disziplinarverfahren gemäss der Gesundheitsgesetzgebung;
   - 1<sup>ter</sup>. Verfügungen über Zulassungsentzugs- und Disziplinarverfahren gemäss der Krankenversicherungsgesetzgebung;
   - 1<sup>quater</sup>. Genehmigungsentscheide betreffend kommunale Reglemente in den Bereichen schulärztlicher Dienst und Schulzahnpflege;
-  - 1<sup>quinquies</sup>. Verfügungen und Anordnungen im Zusammenhang mit Aufsichtsbeschwerden im Bereich des Kindes- und Erwachsenenschutzes;
+  - 1<sup>quinquies</sup>. Verfügungen und Anordnungen im Zusammenhang mit Aufsichtsbeschwerden und Ausstandsbegehren im Bereich des Kindes- und Erwachsenenschutzes;
   - 1<sup>sexies</sup>. Beschwerdeentscheide im Bereich des Notfalldienstes;
   - 1<sup>septies</sup>. Beschwerdeentscheide in den Bereichen schulärztlicher Dienst und Schulzahnpflege;
   - 1<sup>octies</sup>. Beschwerdeentscheide im Bereich der Ausbildungsverpflichtung in Spitälern, Heimen und bei der Spitex;
@@ -191,7 +191,7 @@ beschliesst:
   - 6\. den Kindes- und Erwachsenenschutz.
 - j) vom Vorsteher oder von der Vorsteherin des Oberamtes Verfügungen und Anordnungen nach der Gesetzgebung über
   - 1\. die Alimentenbevorschussung und das Alimenteninkasso;
-  - 2\. Miete und Pacht;
+  - 2\. ...
   - 3\. …
   - 4\. Vollstreckungen;
   - 5\. …
@@ -322,6 +322,8 @@ beschliesst:
   - 2\. das Bürgerrecht; diese Verrichtungen können auch vom Leiter oder von der Leiterin Bürgerrecht unterzeichnet werden;
   - 3\. den Zivilstand und das Zivilstandswesen; diese Verrichtungen können auch vom Leiter oder von der Leiterin Zivilstand oder dem Zivilstandsinspektor oder der Zivilstandsinspektorin unterzeichnet werden.
   - 4\. Bestattungswesen; diese Verrichtungen können auch vom Leiter oder der Leiterin Gemeindeorganisation unterzeichnet werden.
+- h) vom zuständigen Zivilstandsbeamten oder der zuständigen Zivilstandsbeamtin:
+  - 1\. Leichenpässe.
 
 ### 2.2.6. Geschäftskreis der Staatskanzlei
 
