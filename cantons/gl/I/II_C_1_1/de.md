@@ -4,13 +4,13 @@ number: II C/1/1
 title: Verordnung über die Entlöhnung der Behördenmitglieder sowie des Staats- und Lehrpersonals
 short: "Lohnverordnung, LohnV"
 language: de
-version: 2023-01-01
-valid_until: 2023-12-31
-version_adopted: 2022-11-23
+version: 2024-01-01
+valid_until: 2025-05-31
+version_adopted: 2023-11-22
 adopted: 2017-06-28
 in_force: 2018-07-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/II-C.1.1"
-pdf: "https://gesetze.gl.ch/api/de/versions/2371/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2457/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2371/pdf_file"
 
 (Lohnverordnung, LohnV)
 
-Vom 28.06.2017 (Stand 01.01.2023)
+Vom 28.06.2017 (Stand 01.01.2024)
 
 Der Landrat,
 
@@ -334,7 +334,7 @@ erlässt:
 
 **Richterinnen und Richter**
 
-<sup>1</sup> Nebenamtliche Richterinnen und Richter haben Anspruch auf ein Sitzungsgeld von 200 Franken, präsidierende nebenamtliche Richterinnen und Richter auf ein solches von 250 Franken.
+<sup>1</sup> Nebenamtliche Richterinnen und Richter haben Anspruch auf ein Sitzungsgeld von 250 Franken, präsidierende nebenamtliche Richterinnen und Richter auf ein solches von 300 Franken.
 
 <sup>2</sup> In besonders aufwändigen Streitsachen können zusätzliche Sitzungsgelder ausgerichtet werden.
 
@@ -362,12 +362,14 @@ erlässt:
 
 **Sitzungsgeld**
 
-<sup>1</sup> Die Ratsmitglieder haben Anspruch auf ein Sitzungsgeld von 150 Franken.
+<sup>1</sup> Die Ratsmitglieder haben Anspruch auf ein Sitzungsgeld von 250 Franken.
+
+<sup>1a</sup> Pro Halbtag wird maximal ein Sitzungsgeld ausbezahlt. Vorbehalten bleibt Absatz 3.
 
 <sup>2</sup> Das Sitzungsgeld wird ausgerichtet für:
 
 - a. Landratssitzungen;
-- b. Sitzungen des Büros;
+- b. Sitzungen des Büros und des erweiterten Büros;
 - c. Sitzungen der Kommissionen.
 
 <sup>3</sup> Das Landratspräsidium und die Kommissionspräsidien haben für die von ihnen geleiteten Sitzungen Anspruch auf das doppelte Sitzungsgeld.
@@ -415,7 +417,7 @@ erlässt:
 
 **Kantonale Schlichtungsbehörde**
 
-<sup>1</sup> Die Mitglieder der Kantonalen Schlichtungsbehörde haben Anspruch auf ein Sitzungsgeld von 200 Franken, das vorsitzende Mitglied auf ein solches von 250 Franken.
+<sup>1</sup> Die Mitglieder der Kantonalen Schlichtungsbehörde haben Anspruch auf ein Sitzungsgeld von 250 Franken, das vorsitzende Mitglied auf ein solches von 300 Franken.
 
 <sup>2</sup> Für das Studium umfangreicher Akten oder Rechtsschriften kann ein zusätzliches Sitzungsgeld und in besonders aufwändigen Streitsachen ein doppeltes Sitzungsgeld ausgerichtet werden.
 
@@ -427,9 +429,9 @@ erlässt:
 
 #### Art. 31
 
-**Kindes- und Erwachsenenschutzbehörden, Rekurs- und Anwaltskommissionen**
+**Kindes- und Erwachsenenschutzbehörde, Rekurs- und Anwaltskommissionen**
 
-<sup>1</sup> Die Mitglieder der Rekurskommissionen, der Anwaltskommission, der Anwaltsprüfungskommission und die Mitglieder der Kindes- und Erwachsenenschutzbehörde haben Anspruch auf ein Sitzungsgeld von 200 Franken, die nicht vollamtlichen Präsidien auf ein solches von 250 Franken.
+<sup>1</sup> Die Mitglieder der Rekurskommissionen, der Anwaltskommission, der Anwaltsprüfungskommission und die Mitglieder der Kindes- und Erwachsenenschutzbehörde haben Anspruch auf ein Sitzungsgeld von 250 Franken, die nicht vollamtlichen Präsidien auf ein solches von 300 Franken.
 
 <sup>2</sup> Für das Studium umfangreicher Akten oder Rechtsschriften kann ein zusätzliches Sitzungsgeld und in besonders aufwändigen Streitsachen ein doppeltes Sitzungsgeld ausgerichtet werden.
 
@@ -439,7 +441,7 @@ erlässt:
 
 **Übrige Kommissionen**
 
-<sup>1</sup> Die Mitglieder der übrigen Kommissionen haben Anspruch auf ein Sitzungsgeld von 150 Franken.
+<sup>1</sup> Die Mitglieder der übrigen Kommissionen haben Anspruch auf ein Sitzungsgeld von 250 Franken.
 
 <sup>2</sup> Bei ungewöhnlich starker Beanspruchung kann ihnen der Regierungsrat oder die Verwaltungskommission der Gerichte eine ausserordentliche Vergütung ausrichten.
 
