@@ -4,13 +4,13 @@ number: "867"
 title: Betreuungs- und Pflegegesetz
 short: BPG
 language: de
-version: 2023-01-01
-valid_until: 2023-12-31
-version_adopted: 2022-10-24
+version: 2024-01-01
+valid_until: 2024-06-30
+version_adopted: 2023-01-31
 adopted: 2010-09-13
 in_force: 2011-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/867"
-pdf: "https://srl.lu.ch/api/de/versions/4019/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4185/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/4019/pdf_file"
 
 (BPG)
 
-vom 13.09.2010 (Stand 01.01.2023)
+vom 13.09.2010 (Stand 01.01.2024)
 
 Der Kantonsrat des Kantons Luzern,
 
@@ -36,9 +36,10 @@ beschliesst:
 <sup>1</sup> Dieses Gesetz bezweckt
 
 - a. den Schutz von Betagten, von Personen mit Behinderungen und von Betreuungsbedürftigen, denen Unterkunft, Betreuung und Pflege in Heimen und sonstigen Einrichtungen sowie in Privathaushalten gewährt wird,
-- b. die Sicherstellung eines bedarfsgerechten ambulanten und stationären Angebots für die Betreuung und Pflege von Betagten und Pflegebedürftigen unter Berücksichtigung der Grundsätze der Wirtschaftlichkeit und der Qualität, wie sie das Bundesgesetz über die Krankenversicherung[^1-1] (KVG) vom 18. März 1994 vorsieht.
+- b. die Sicherstellung eines bedarfsgerechten ambulanten und stationären Angebots für die Betreuung und Pflege von Betagten und Pflegebedürftigen unter Berücksichtigung der Grundsätze der Wirtschaftlichkeit und der Qualität, wie sie das Bundesgesetz über die Krankenversicherung[^1-1] (KVG) vom 18. März 1994 vorsieht,
+- c. die Anerkennung der unentgeltlichen Betreuung von erwachsenen Personen sowie die Entlastung der betreuenden Angehörigen.
 
-<sup>2</sup> Es regelt die Bewilligungspflicht für Betreuungs- und Pflegeeinrichtungen und die Aufsicht, die Bereitstellung und die Planung des Angebots an Krankenpflege und Hilfe zu Hause (Spitex) und an Krankenpflege im Pflegeheim und dessen Finanzierung, die Förderung der Ausbildung des Pflegepersonals und das Verfahren.
+<sup>2</sup> Es regelt die Bewilligungspflicht für Betreuungs- und Pflegeeinrichtungen und die Aufsicht, die Bereitstellung und die Planung des Angebots an Krankenpflege und Hilfe zu Hause (Spitex) und an Krankenpflege im Pflegeheim und dessen Finanzierung, die Leistungen zur Anerkennung der unentgeltlichen Betreuung durch Angehörige und zu deren Entlastung, die Förderung der Ausbildung des Pflegepersonals und das Verfahren.
 
 <sup>3</sup> Die Planung und Steuerung, die Anerkennung und die Aufsicht sowie die Finanzierung von sozialen Einrichtungen richten sich nach dem Gesetz über soziale Einrichtungen vom 19. März 2007[^1-2].
 
@@ -283,6 +284,47 @@ beschliesst:
 
 <sup>4</sup> Der Regierungsrat regelt die Einzelheiten durch Verordnung.
 
+## 2b Unentgeltliche Betreuung durch Angehörige
+
+#### § 12b
+
+**Grundsätze**
+
+<sup>1</sup> Der Kanton und die Gemeinden erbringen Leistungen zur Anerkennung der unentgeltlich und regelmässig erbrachten Betreuung von hilflosen Personen durch Angehörige sowie zur Entlastung der unentgeltlich betreuenden Angehörigen.
+
+<sup>2</sup> Anspruchsberechtigt sind erwachsene, zu Hause lebende Personen mit Wohnsitz im Kanton Luzern und mit einem Anspruch auf eine Hilflosenentschädigung gemäss dem Bundesgesetz über die Invalidenversicherung (IVG) vom 19. Juni 1959[^12b-1], gemäss dem Bundesgesetz über die Alters- und Hinterlassenenversicherung (AHVG) vom 20. Dezember 1946[^12b-2] oder gemäss dem Bundesgesetz über die Unfallversicherung (UVG) vom 20. März 1981[^12b-3].
+
+<sup>3</sup> Als Angehörige gelten die Ehegatten, Verwandte in auf- und absteigender Linie, die Geschwister, die Schwiegerkinder und Schwiegereltern der betreuten Person sowie deren Lebenspartner oder Lebenspartnerin und andere Personen, die ihr in ähnlicher Weise nahestehen.
+
+<sup>4</sup> Das Sozialversicherungszentrum des Kantons Luzern ist zuständig für den Vollzug der Leistungen für die unentgeltliche Betreuung durch Angehörige. Es führt diese Aufgabe als übertragene Aufgabe nach § 2 Absatz 3 des Gesetzes über das Sozialversicherungszentrum vom 10. September 2018[^12b-4] aus. Der Kanton vergütet ihm die daraus entstehenden Verwaltungskosten.
+
+<sup>5</sup> Der Kanton und die Gemeinden tragen die Kosten der Leistungen sowie die Verwaltungskosten je hälftig. Der Anteil der einzelnen Gemeinden am Aufwand berechnet sich nach Massgabe ihrer ständigen Wohnbevölkerung des Vorjahres gemäss den Erhebungen der Lustat Statistik Luzern.
+
+[^12b-1]: SR [831.20](https://db.clex.ch/link/Bund/831.20/de)
+[^12b-2]: SR [831.10](https://db.clex.ch/link/Bund/831.10/de)
+[^12b-3]: SR [832.20](https://db.clex.ch/link/Bund/832.20/de)
+[^12b-4]: SRL Nr. [880](https://srl.lu.ch/data/880/de)
+
+#### § 12c
+
+**Anerkennungszulage**
+
+<sup>1</sup> Die anspruchsberechtigte Person hat Anrecht auf eine jährliche Zulage, die als Anerkennung für die Betreuung an maximal zwei von ihr bezeichnete Angehörige ausgerichtet wird.
+
+<sup>2</sup> Die Höhe der Anerkennungszulage pro anspruchsberechtigte Person wird vom Regierungsrat festgesetzt.
+
+<sup>3</sup> Die Anerkennungszulage wird ganz beziehungsweise je zur Hälfte an die von der anspruchsberechtigten Person bezeichneten Angehörigen ausgezahlt. Die Auszahlung erfolgt jährlich ab dem Jahr der Anmeldung des Anspruchs. Ein Anspruch auf rückwirkende Auszahlung der Zulage für vergangene Jahre besteht nicht.
+
+#### § 12d
+
+**Gutschein für Entlastungsangebote**
+
+<sup>1</sup> Der anspruchsberechtigten Person wird jährlich ein Gutschein für Leistungen Dritter zur Entlastung der betreuenden Angehörigen (Entlastungsangebote) ausgerichtet, namentlich für Hilfe im Notfall und im Haushalt sowie für Aufenthalte in Pflege- und Betreuungseinrichtungen.
+
+<sup>2</sup> Der Regierungsrat legt den Wert des Gutscheins durch Verordnung fest. Der Gutschein ist nicht übertragbar und ein Jahr ab Ausstellung gültig.
+
+<sup>3</sup> Die zuständige kantonale Behörde bezeichnet die zugelassenen Entlastungsangebote in einer Liste. Die Liste ist zu veröffentlichen.
+
 ## 3 Förderung der Ausbildung
 
 #### § 13
@@ -306,21 +348,27 @@ beschliesst:
 
 **Information**
 
-<sup>1</sup> Die Gemeinden sorgen zusammen mit den Krankenversicherern und den Leistungserbringern für eine angemessene Information der Bevölkerung über den Anspruch auf einen Beitrag der Gemeinden an die Kosten der Pflegeleistungen.
+<sup>1</sup> Die Gemeinden sorgen zusammen mit den Krankenversicherern und den Leistungserbringern für eine angemessene Information der Bevölkerung über den Anspruch auf einen Beitrag der Gemeinden an die Kosten der Pflegeleistungen sowie zusammen mit dem Sozialversicherungszentrum und der zuständigen kantonalen Behörde über die Leistungen für die unentgeltliche Betreuung durch Angehörige.
 
 #### § 15
 
 **Anmeldung**
 
-<sup>1</sup> Die anspruchsberechtigte Person oder ihre gesetzlichen oder bevollmächtigten Vertreter haben die Beiträge an die Kosten der Pflegeleistungen mit einem Anmeldeformular bei der zuständigen Gemeinde geltend zu machen.
+<sup>1</sup> Die anspruchsberechtigte Person oder ihre gesetzlichen oder bevollmächtigten Vertreterinnen und Vertreter haben die Beiträge an die Kosten der Pflegeleistungen mit einem Anmeldeformular bei der zuständigen Gemeinde geltend zu machen.
+
+<sup>2</sup> Die Leistungen für die unentgeltliche Betreuung durch Angehörige sind mit einem Anmeldeformular beim Sozialversicherungszentrum geltend zu machen. Die anspruchsberechtigte Person oder ihre gesetzlichen oder bevollmächtigten Vertreterinnen und Vertreter haben das Sozialversicherungszentrum zur Abfrage sie betreffender Angaben im Register nach Artikel 71 Absatz 4b AHVG[^15-1] zu ermächtigen.
+
+[^15-1]: SR [831.10](https://db.clex.ch/link/Bund/831.10/de)
 
 #### § 16
 
 **Rechtsverweis**
 
-<sup>1</sup> Soweit das KVG nichts anderes bestimmt, gelten für das Beitragsverhältnis und das Verfahren die Bestimmungen des Bundesgesetzes über den Allgemeinen Teil des Sozialversicherungsrechts vom 6. Oktober 2000[^16-1]. Den Gemeinden kommt dabei die Rolle eines Versicherungsträgers zu.
+<sup>1</sup> Soweit das KVG nichts anderes bestimmt, gelten für das Beitragsverhältnis und das Verfahren betreffend die Restfinanzierung der Kosten der Pflegeleistungen die Bestimmungen des Bundesgesetzes über den Allgemeinen Teil des Sozialversicherungsrechts vom 6. Oktober 2000[^16-1]. Den Gemeinden kommt dabei die Rolle eines Versicherungsträgers zu.
 
-[^16-1]: SR [830.1](https://db.clex.ch/link/Bund/830.1/de). Auf dieses Gesetz wird im Folgenden nicht mehr hingewiesen.
+<sup>2</sup> Soweit dieses Gesetz nichts anderes bestimmt, richtet sich das Verfahren betreffend die Leistungen bei unentgeltlicher Betreuung durch Angehörige nach den Bestimmungen des Bundesgesetzes über den Allgemeinen Teil des Sozialversicherungsrechts.
+
+[^16-1]: SR [830.1](https://db.clex.ch/link/Bund/830.1/de)
 
 #### § 17
 
@@ -330,7 +378,7 @@ beschliesst:
 
 <sup>2</sup> Die Beschwerde gegen Entscheide des Regierungsrates über die Pflegeheimliste richtet sich nach den Bestimmungen des Bundesgesetzes über die Krankenversicherung[^17-2].
 
-<sup>3</sup> Das Recht zur Einsprache und Beschwerde gegen Entscheide der Gemeinden im Zusammenhang mit dem Restfinanzierungsbeitrag an die ambulante Krankenpflege und die Krankenpflege im Pflegeheim und mit dem Beitrag an die Akut- und Übergangspflege richtet sich nach den Bestimmungen des Bundesgesetzes über den Allgemeinen Teil des Sozialversicherungsrechts[^17-3].
+<sup>3</sup> Das Recht zur Einsprache und Beschwerde gegen Entscheide der Gemeinden im Zusammenhang mit dem Restfinanzierungsbeitrag an die ambulante Krankenpflege und die Krankenpflege im Pflegeheim und mit dem Beitrag an die Akut- und Übergangspflege sowie gegen Entscheide des Sozialversicherungszentrums im Zusammenhang mit den Leistungen bei unentgeltlicher Betreuung durch Angehörige richtet sich nach den Bestimmungen des Bundesgesetzes über den Allgemeinen Teil des Sozialversicherungsrechts[^17-3].
 
 [^17-1]: SRL Nr. [40](https://srl.lu.ch/data/40/de)
 [^17-2]: SR [832.10](https://db.clex.ch/link/Bund/832.10/de)
