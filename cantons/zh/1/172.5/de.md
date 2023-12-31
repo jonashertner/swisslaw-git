@@ -4,11 +4,11 @@ number: "172.5"
 title: Verordnung über die strategische Führung und den Einsatz der kantonalen Führungsorganisation (KFOV)
 short: KFOV
 language: de
-version: "2021-05-01"
-nachtrag: "113"
-valid_until: 2024-01-01
+version: "2024-01-01"
+nachtrag: "123"
+valid_until: 2025-06-01
 adopted: 2010-12-22
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-172_5-2010_12_22-2011_04_01-113.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-172_5-2010_12_22-2011_04_01-123.html"
 text: pdf
 ---
 
@@ -64,11 +64,11 @@ Diese Verordnung regelt a. die Organisation und den Betrieb der Kantonalen Führ
 
 **1**
 
-- 1\. 7. 21 - 113
+- 1\. 1. 24 - 123
 
 - e. des Kantonsärztlichen Dienstes,
 
-- f. des Amtes für Wirtschaft und Arbeit,
+- f. des Amtes für Wirtschaft[^2-3],
 
 - g. der Kommunikationsabteilung des Regierungsrates,
 
@@ -85,7 +85,8 @@ Diese Verordnung regelt a. die Organisation und den Betrieb der Kantonalen Führ
 <sup>3</sup> Der Fachstab kann zusätzliche Fachleute beiziehen.
 
 [^2-1]: Eingefügt durch RRB vom 17. März 2021 (OS 76, 116; ABl 2021-03-26). In Kraft seit 1. Mai 2021.
-[^2-2]: Fassung gemäss RRB vom 17. März 2021 (OS 76, 116; ABl 2021-03-26). In Kraft seit 1. Mai 2021. 1. 7. 21 - 113 5
+[^2-2]: Fassung gemäss RRB vom 17. März 2021 (OS 76, 116; ABl 2021-03-26). In Kraft seit 1. Mai 2021.
+[^2-3]: Fassung gemäss RRB vom 12. Dezember 2023 (OS 78, 547; ABl 2023-12-15). In Kraft seit 1. Januar 2024. 1. 1. 24 - 123 5
 
 #### § 4
 
@@ -150,7 +151,7 @@ Die Vorsteherin oder der Vorsteher der Sicherheitsdirektion a. lässt sich in re
 <sup>2</sup> Die Vorsteherin oder der Vorsteher der Sicherheitsdirektion informiert den Regierungsrat.
 
 [^8-1]: LS 520.
-[^8-2]: Fassung gemäss RRB vom 17. März 2021 (OS 76, 116; ABl 2021-03-26). In Kraft seit 1. Mai 2021. 1. 7. 21 - 113 5
+[^8-2]: Fassung gemäss RRB vom 17. März 2021 (OS 76, 116; ABl 2021-03-26). In Kraft seit 1. Mai 2021.
 
 #### § 9
 
@@ -162,7 +163,7 @@ Die Vorsteherin oder der Vorsteher der Sicherheitsdirektion a. lässt sich in re
 
 **3**
 
-- 1\. 7. 21 - 113 § 10. <sup>1</sup> Der Regierungsrat entscheidet über Unterstützungsbegehren des Bundes, anderer Kantone und des benachbarten Auslands. Er koordiniert gemeinsame Einsätze mit ausserkantonalen Behörden.
+- 1\. 1. 24 - 123 § 10. <sup>1</sup> Der Regierungsrat entscheidet über Unterstützungsbegehren des Bundes, anderer Kantone und des benachbarten Auslands. Er koordiniert gemeinsame Einsätze mit ausserkantonalen Behörden.
 
 **b. Verkehr mit ausserkantonalen Behörden**
 
@@ -188,7 +189,7 @@ Der Regierungsrat setzt bei der Informationsführung die eigene Kommunikationsab
 
 Ist rechtzeitiges Handeln des Regierungsrates nicht möglich, trifft an dessen Stelle die Kommandantin oder der Kommandant der Kantonspolizei die erforderlichen Massnahmen. Sie oder er informiert den Regierungsrat unverzüglich.
 
-[^13-1]: Fassung gemäss RRB vom 17. März 2021 (OS 76, 116; ABl 2021-03-26). In Kraft seit 1. Mai 2021. 1. 7. 21 - 113 5
+[^13-1]: Fassung gemäss RRB vom 17. März 2021 (OS 76, 116; ABl 2021-03-26). In Kraft seit 1. Mai 2021.
 
 #### § 14
 
