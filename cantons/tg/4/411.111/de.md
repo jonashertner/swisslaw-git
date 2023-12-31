@@ -4,13 +4,12 @@ number: "411.111"
 title: Volksschulverordnung
 short: VSV
 language: de
-version: 2022-08-01
-valid_until: 2023-12-31
-version_adopted: 2022-06-21
+version: 2024-01-01
+version_adopted: 2023-01-24
 adopted: 2007-12-11
 in_force: 2008-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/411.111"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2529/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2702/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ VSV
 
 (VSV)
 
-vom 11.12.2007 (Stand 01.08.2022)
+vom 11.12.2007 (Stand 01.01.2024)
 
 ## 1. Aufsicht und kantonale Leistungen
 
@@ -372,6 +371,22 @@ vom 11.12.2007 (Stand 01.08.2022)
 
 <sup>3</sup> Das Förderkonzept ist dem Amt zur Genehmigung vorzulegen.
 
+#### § 28a
+
+**Abklärung des Förderbedarfs**
+
+<sup>1</sup> Vorschulische Sprachförderung richtet sich an Kinder mit Schulort im Kanton Thurgau. Ausgenommen sind Kinder, die dispensiert werden.
+
+<sup>2</sup> Die Abklärung des Förderbedarfs wird vom Departement durch Richtlinie vorgegeben.
+
+#### § 28b
+
+**Angebote der vorschulischen Sprachförderung**
+
+<sup>1</sup> Die Angebote der vorschulischen Sprachförderung umfassen 4 bis 6 Stunden pro Woche. Während der Schulferien müssen keine Angebote besucht werden.
+
+<sup>2</sup> Das Departement regelt die weiteren Anforderungen sowie das Verfahren durch Richtlinie.
+
 #### § 29
 
 **Aufgabenhilfe**
@@ -390,9 +405,13 @@ vom 11.12.2007 (Stand 01.08.2022)
 
 **Niederschwellige sonderpädagogische Massnahmen**
 
-<sup>1</sup> Niederschwellige sonderpädagogische Massnahmen können für Schülerinnen und Schüler angeordnet werden, welche in einzelnen Bereichen, unter anderem in Folge Fremdsprachigkeit, keine genügende Leistung zu erbringen vermögen. Sie sind in der Regel unentgeltlich.
+<sup>1</sup> Niederschwellige sonderpädagogische Massnahmen können für Schülerinnen und Schüler angeordnet werden, die in einzelnen Bereichen keine genügende Leistung zu erbringen vermögen. Sie sind in der Regel unentgeltlich.
 
 <sup>2</sup> Sie werden durch Lehrpersonen oder andere geeignete Personen durchgeführt. Deren Rechtsstellung regelt die Schulgemeinde.
+
+<sup>3</sup> Niederschwellige sonderpädagogische Massnahmen für das Erlernen von Deutsch als Zweitsprache werden durch Lehrpersonen oder Schulische Heilpädagoginnen und Heilpädagogen durchgeführt. Deren Rechtsstellung wird in der Verordnung über die Rechtsstellung der Lehrpersonen an den Volksschulen (RSV VS)[^31-1] geregelt.
+
+[^31-1]: RB [411.114](https://www.rechtsbuch.tg.ch/data/411.114/de)
 
 #### § 32
 
@@ -590,13 +609,7 @@ vom 11.12.2007 (Stand 01.08.2022)
 
 <sup>2</sup> Die fünf bisherigen Versuchsschulen sind an ihren Standort gebunden und gelten durch den Versuch als bewilligt.
 
-#### § 48
-
-**Übergangsregelung Förderkonzept**
-
-<sup>1</sup> Die Schulgemeinden erstellen das Förderkonzept nach § 28 bis spätestens zu Beginn des Schuljahres 2014/2015.
-
-#### § 49–50
+#### § 48–50
 
 **…**
 
