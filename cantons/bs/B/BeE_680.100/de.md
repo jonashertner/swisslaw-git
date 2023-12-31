@@ -4,13 +4,13 @@ number: BeE 680.100
 title: Benützungs- und Gebührenreglement Baslerhofscheune Bettingen
 short: Benützungs- und Gebührenreglement Baslerhofscheune
 language: de
-version: 2020-07-01
-valid_until: 2023-12-31
-version_adopted: 2020-01-13
+version: 2024-01-01
+valid_until: 2024-12-31
+version_adopted: 2023-12-18
 adopted: 2015-12-14
 in_force: 2016-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/BeE%20680.100"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5534/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6107/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Benützungs- und Gebührenreglement Baslerhofscheune | Bettingen: Einwohnergemei
 
 (Benützungs- und Gebührenreglement Baslerhofscheune)
 
-Vom 14. Dezember 2015 (Stand 1. Juli 2020)
+Vom 14. Dezember 2015 (Stand 1. Januar 2024)
 
 Der Gemeinderat Bettingen,
 
@@ -95,7 +95,7 @@ beschliesst:
 
 <sup>7</sup> Bei Annullierung einer Reservation bis 30 Tage vor dem Anlass ist eine Bearbeitungsgebühr von Fr. 50.00 zu entrichten. Bei Annullierung innerhalb eines Monats vor dem Reservationstermin sind die ganzen Benützungsgebühren (ohne Reinigungspauschale) zur Zahlung fällig. Bei unentgeltlicher Nutzung wird in jedem Fall ein Betrag von Fr. 50.00 erhoben.
 
-<sup>8</sup> Die Fälligkeit der Mietgebühr ist 30 Tage nach Rechnungsstellung durch die Gemeindeverwaltung.
+<sup>8</sup> Die Benützungsgebühr ist vor der Nutzung fällig.
 
 #### § 6
 
@@ -135,11 +135,11 @@ Montag bis Donnerstag 07:00 - 01:00 Uhr
 
 Freitag und Samstag 07:00 - 02:00 Uhr
 
-Sonntag / Feiertage 07:00 - 23:00 Uhr
+Sonntag / Feiertage 07:00 - 22:00 Uhr
 
-<sup>3</sup> Für den Innenhof gelten folgende Nutzungszeiten: 07:00 - 23:00 Uhr
+<sup>3</sup> Für den Innenhof gelten folgende Nutzungszeiten: 07:00 - 22:00 Uhr
 
-<sup>4</sup> Ein dauernder Aufenthalt im Innenhof ist aufgrund der Nachtruhe ab 23:00 Uhr zu vermeiden.
+<sup>4</sup> Ein dauernder Aufenthalt im Innenhof ist ab 22:00 Uhr zu vermeiden.
 
 <sup>5</sup> Die Küche dient lediglich zur Warmhaltung angelieferter Speisen.
 
