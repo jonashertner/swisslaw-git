@@ -1,27 +1,26 @@
 ---
 canton: FR
 number: "124.1"
-title: Loi sur la publication des actes législatifs
+title: Loi sur la publication des actes législatifs et de la Feuille officielle
 short: LPAL
 language: fr
-version: 2019-01-01
-valid_until: 2023-12-31
-version_adopted: 2016-11-03
+version: 2024-01-01
+version_adopted: 2023-10-10
 adopted: 2001-10-16
 in_force: 2002-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/124.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/8576/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8577/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
 
-# Loi sur la publication des actes législatifs
+# Loi sur la publication des actes législatifs et de la Feuille officielle
 
 Publication des actes législatifs – L
 
 (LPAL)
 
-du 16.10.2001 (version entrée en vigueur le 01.01.2019)
+du 16.10.2001 (version entrée en vigueur le 01.01.2024)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -37,7 +36,10 @@ Décrète:
 
 **Etendue**
 
-<sup>1</sup> La présente loi règle la publication des actes législatifs dont l'adoption ou l'approbation entre dans la compétence des autorités cantonales.
+<sup>1</sup> La présente loi règle:
+
+- a) la publication des actes législatifs dont l'adoption ou l'approbation entre dans la compétence des autorités cantonales;
+- b) les questions générales liées à la publication de la Feuille officielle.
 
 <sup>2</sup> La législation spéciale est réservée, notamment celle sur l'exercice des droits politiques et celle sur le Grand Conseil.
 
@@ -67,7 +69,7 @@ Décrète:
 
 <sup>2</sup> Les règles sur la publication extraordinaire (art. 15) sont réservées.
 
-<sup>3</sup> La liste des actes parus dans le Recueil officiel ainsi que les informations complémentaires mentionnées à l'article 6 al. 2 sont publiées dans la Feuille officielle.
+<sup>3</sup> La liste des actes parus dans le Recueil officiel ainsi que les informations complémentaires mentionnées à l'article 6 al. 2 sont diffusées de manière appropriée auprès du public à l'aide des technologies de l'information et de la communication.
 
 <sup>4</sup> Les deux recueils sont publiés sous forme électronique dans une banque de données commune. Le Conseil d'Etat peut en outre décider de faire imprimer ces recueils ou l'un d'eux à des fins de commercialisation ou de conservation et de sécurité.
 
@@ -160,11 +162,44 @@ Décrète:
 
 #### Art. 9
 
+**Contenu et publication**
+
 <sup>1</sup> La Feuille officielle du canton de Fribourg (Feuille officielle, FO) est l'organe qui, sauf disposition contraire, sert à la publication des décisions et des communications des autorités cantonales. Les actes ou les communications des autres autorités y sont publiés si la loi le prescrit ou si un intérêt général suffisant le justifie.
 
-<sup>2</sup> La Feuille officielle est bilingue et paraît hebdomadairement. Elle est en outre diffusée, en tout ou partie, sous forme électronique.
+<sup>2</sup> La Feuille officielle est bilingue et paraît hebdomadairement. Elle est publiée sous forme électronique et peut en outre l'être sous forme imprimée.
 
 <sup>3</sup> Le Conseil d'Etat détermine la forme, le contenu, notamment les insertions admises, et les autres éléments essentiels de la Feuille officielle, dans la mesure où ils ne sont pas prescrits par la présente loi ou par la législation spéciale.
+
+#### Art. 9a
+
+**Effets de la publication et foi publique**
+
+<sup>1</sup> Le contenu de la Feuille officielle est réputé connu dès sa parution.
+
+<sup>2</sup> En cas de divergence entre le contenu de la Feuille officielle sous forme imprimée et celui de sa forme électronique, cette dernière fait foi.
+
+<sup>3</sup> L'organe en charge des publications officielles veille à:
+
+- a) l'intégrité, l'authenticité et la disponibilité de la FO;
+- b) la conservation de toutes les publications effectuées dans la FO jusqu'à leur versement aux archives historiques.
+
+#### Art. 9b
+
+**Frais de publication**
+
+<sup>1</sup> Sous réserve de prescriptions découlant de la législation spéciale, l'organe qui fait procéder à une publication dans la FO en assume en principe les frais. Le Conseil d'Etat règle les détails et peut prévoir des exceptions.
+
+#### Art. 9c
+
+**Protection des données personnelles**
+
+<sup>1</sup> Les publications effectuées dans la Feuille officielle peuvent contenir des données personnelles et des données personnelles sensibles lorsque cela est rendu nécessaire par le but de la publication. Conformément à la législation sur la protection des données, elles ne doivent alors pas contenir plus d'informations et ne doivent pas être accessibles sur internet plus longtemps que ne l'exige leur but.
+
+<sup>2</sup> L'autorité qui fait procéder à une publication dans la Feuille officielle est responsable du traitement des données personnelles qu'elle contient, veille au respect de l'alinéa 1 et traite les demandes des personnes concernées qui font valoir les droits que leur confère la législation sur la protection des données.
+
+<sup>3</sup> L'organe en charge des publications officielles prend les mesures nécessaires pour limiter, autant que l'état de la technique le permet, l'indexation des publications par des moteurs de recherche externes.
+
+<sup>4</sup> Le Conseil d'Etat fixe, pour autant que besoin, les autres mesures nécessaires à la protection des données personnelles publiées dans la Feuille officielle sur internet.
 
 ### 2.6 Consultation et vente
 
@@ -172,7 +207,7 @@ Décrète:
 
 **Consultation**
 
-<sup>1</sup> L'accès à la Banque de données depuis Internet est gratuit.
+<sup>1</sup> L'accès sur internet à la Banque de données et à la Feuille officielle est gratuit.
 
 <sup>2</sup> Toute personne peut en outre consulter gratuitement la Banque de données et la Feuille officielle auprès de la Chancellerie d'Etat, des préfectures et des secrétariats communaux. La consultation peut être soumise à une annonce préalable et à des horaires déterminés.
 
@@ -184,9 +219,9 @@ Décrète:
 
 **Vente**
 
-<sup>1</sup> Le Conseil d'Etat fixe le prix de vente des diverses publications officielles et détermine les cas de remise gratuite ou à prix réduit.
+<sup>1</sup> Le Conseil d'Etat fixe le prix de vente des diverses publications officielles sous forme imprimée et détermine les cas de remise gratuite ou à prix réduit.
 
-<sup>2</sup> Les communes reçoivent gratuitement les publications officielles qu'elles doivent tenir à la disposition du public.
+<sup>2</sup> …
 
 <sup>3</sup> L'exploitation commerciale de données officielles protégées par le droit d'auteur est soumise à concession et peut être subordonnée au versement d'une contre-prestation.
 
@@ -196,7 +231,9 @@ Décrète:
 
 **Publication ordinaire**
 
-<sup>1</sup> Les actes législatifs sont publiés dans le Recueil officiel immédiatement après leur adoption.
+<sup>1</sup> Les actes législatifs sont publiés dans le Recueil officiel dès que possible après leur adoption.
+
+<sup>1a</sup> Dans le Recueil systématique, la publication de la version consolidée intervient dès l'entrée en vigueur des actes ou dispositions concernés; elle ne peut toutefois avoir lieu avant la publication au Recueil officiel.
 
 <sup>2</sup> …
 
@@ -248,6 +285,12 @@ Décrète:
 
 <sup>3</sup> Les autorités favorisent l'information des personnes directement concernées par des actes législatifs importants, notamment en diffusant des communiqués sur les grandes étapes des travaux en cours ainsi que sur les principales règles nouvellement adoptées.
 
+#### Art. 17a
+
+**Actes soumis au referendum**
+
+<sup>1</sup> Les informations relatives à la soumission des actes au referendum sont mises en évidence de manière centralisée dans la BDLF.
+
 #### Art. 18
 
 **Langues**
@@ -263,6 +306,8 @@ Décrète:
 <sup>1</sup> Les actes soumis à l'exercice des droits populaires sont promulgués conformément à la législation en la matière.
 
 <sup>2</sup> Le Conseil d'Etat fixe la date d'entrée en vigueur des actes du Grand Conseil lorsqu'elle ne résulte ni de l'acte lui-même ni de la législation spéciale.
+
+<sup>2a</sup> Il fixe ou précise la date d'entrée en vigueur des conventions intercantonales lorsqu'elle ne résulte pas de manière explicite de la convention elle-même ou de l'acte d'adhésion.
 
 <sup>3</sup> La date d'entrée en vigueur des actes législatifs doit être exprimée de manière explicite et, en principe, être postérieure à celle de la publication prévisible de l'acte dans le Recueil officiel.
 
@@ -321,6 +366,14 @@ Décrète:
 
 <sup>2</sup> Toutefois, le Bureau du Grand Conseil est compétent s'il s'agit de rectifier uniquement la formulation d'un acte du Grand Conseil, notamment pour assurer la cohérence interne du texte ou le parallélisme des versions linguistiques. Il décide simultanément si la publication de la rectification fait courir à nouveau un éventuel délai référendaire.
 
+#### Art. 23a
+
+**Entrée en vigueur des rectifications**
+
+<sup>1</sup> Les rectifications entrent en vigueur au jour de l'entrée en vigueur de l'acte rectifié ou, si des motifs pratiques ou techniques s'y opposent, au jour de leur publication.
+
+<sup>2</sup> Sont toutefois réservés les cas dans lesquels l'autorité d'adoption fixe elle-même la date d'entrée en vigueur de la rectification.
+
 #### Art. 24
 
 **Adaptation terminologique**
@@ -339,7 +392,7 @@ Décrète:
 
 **Actes invalidés**
 
-<sup>1</sup> Si le Tribunal fédéral ou une autre autorité compétente annule tout ou partie d'un acte législatif, le Conseil d'Etat en prend acte et fait publier un avis à ce sujet dans le Recueil officiel. Les dispositions annulées sont retirées des publications systématiques.
+<sup>1</sup> Si le Tribunal fédéral ou une autre autorité compétente annule tout ou partie d'un acte législatif, le Conseil d'Etat en prend acte et fait publier un avis à ce sujet dans le Recueil officiel. Les dispositions annulées sont retirées du Recueil systématique ou font l'objet d'une annotation mentionnant leur annulation.
 
 <sup>2</sup> S'il y a lieu de poser de nouvelles règles qui relèvent de la compétence du Grand Conseil, le Conseil d'Etat peut arrêter une solution provisoire.
 
@@ -349,7 +402,7 @@ Décrète:
 
 **Publication**
 
-<sup>1</sup> Les actes de caractère normatif édictés par des établissements ou d'autres organismes pour assurer l'exécution de tâches de droit public cantonal dont ils sont chargés sont portés de manière adéquate à la connaissance des personnes concernées.
+<sup>1</sup> Les établissements et les autres organismes qui édictent des actes de caractère normatif pour assurer l'exécution de tâches de droit public cantonal portent ces actes de manière adéquate à la connaissance des personnes concernées et, lorsqu'ils revêtent un intérêt public suffisant, les publient sur Internet.
 
 <sup>2</sup> Ces actes peuvent être publiés, le cas échéant sous la forme d'une publication restreinte (art. 13s.), dans le Recueil officiel s'ils présentent un intérêt général suffisant.
 

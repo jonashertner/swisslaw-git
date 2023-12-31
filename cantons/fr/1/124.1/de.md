@@ -1,27 +1,26 @@
 ---
 canton: FR
 number: "124.1"
-title: Gesetz über die Veröffentlichung der Erlasse
+title: Gesetz über die Veröffentlichung der Erlasse und des Amtsblatts
 short: VEG
 language: de
-version: 2019-01-01
-valid_until: 2023-12-31
-version_adopted: 2016-11-03
+version: 2024-01-01
+version_adopted: 2023-10-10
 adopted: 2001-10-16
 in_force: 2002-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/124.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/8576/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8577/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Gesetz über die Veröffentlichung der Erlasse
+# Gesetz über die Veröffentlichung der Erlasse und des Amtsblatts
 
 Veröffentlichung der Erlasse – G
 
 (VEG)
 
-vom 16.10.2001 (Fassung in Kraft getreten am 01.01.2019)
+vom 16.10.2001 (Fassung in Kraft getreten am 01.01.2024)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -37,7 +36,10 @@ beschliesst:
 
 **Umfang**
 
-<sup>1</sup> Dieses Gesetz regelt die Veröffentlichung der rechtsetzenden Erlasse (im Folgenden: Erlasse), deren Verabschiedung oder Genehmigung in die Zuständigkeit der kantonalen Behörden fällt.
+<sup>1</sup> Dieses Gesetz regelt:
+
+- a) die Veröffentlichung der rechtsetzenden Erlasse, deren Verabschiedung oder Genehmigung in die Zuständigkeit der kantonalen Behörden fällt;
+- b) allgemeine Fragen im Zusammenhang mit der Veröffentlichung des Amtsblatts.
 
 <sup>2</sup> Die Spezialgesetzgebung bleibt vorbehalten, insbesondere diejenige über die Ausübung der politischen Rechte und diejenige über den Grossen Rat.
 
@@ -67,7 +69,7 @@ beschliesst:
 
 <sup>2</sup> Die Bestimmungen über die ausserordentliche Veröffentlichung (Art. 15) bleiben vorbehalten.
 
-<sup>3</sup> Die Liste der in der Amtlichen Sammlung veröffentlichten Erlasse und die ergänzenden Angaben gemäss Artikel 6 Abs. 2 werden im Amtsblatt veröffentlicht.
+<sup>3</sup> Die Liste der in der Amtlichen Sammlung erschienenen Erlasse und die zusätzlichen Informationen gemäss Artikel 6 Abs. 2 werden mithilfe der Informations- und Kommunikationstechnologien in geeigneter Weise in der Öffentlichkeit verbreitet.
 
 <sup>4</sup> Die beiden Sammlungen werden in elektronischer Form in einer gemeinsamen Datenbank veröffentlicht. Der Staatsrat kann zudem bestimmen, dass eine dieser Sammlungen oder beide zum Verkauf oder aus Gründen der Aufbewahrung und Sicherheit gedruckt werden.
 
@@ -160,11 +162,44 @@ beschliesst:
 
 #### Art. 9
 
+**Inhalt und Veröffentlichung**
+
 <sup>1</sup> Das Amtsblatt des Kantons Freiburg (Amtsblatt, ABl) ist das Organ zur Veröffentlichung der Entscheide und Mitteilungen der kantonalen Behörden; anders lautende Bestimmungen bleiben vorbehalten. Beschlüsse und Mitteilungen anderer Behörden werden darin veröffentlicht, wenn das Gesetz dies vorschreibt oder ein hinreichendes allgemeines Interesse dies rechtfertigt.
 
-<sup>2</sup> Das Amtsblatt ist zweisprachig und erscheint wöchentlich. Es wird zudem ganz oder teilweise in elektronischer Form verbreitet.
+<sup>2</sup> Das ABl ist zweisprachig und erscheint wöchentlich. Es wird in elektronischer Form veröffentlicht und kann ausserdem in gedruckter Form veröffentlicht werden.
 
 <sup>3</sup> Der Staatsrat bestimmt die Form und den Inhalt, insbesondere die zulässigen Veröffentlichungen, sowie die übrigen wesentlichen Eigenschaften des Amtsblatts, soweit sie nicht in diesem Gesetz oder in der Spezialgesetzgebung festgelegt sind.
+
+#### Art. 9a
+
+**Wirkungen der Veröffentlichung und öffentlicher Glaube**
+
+<sup>1</sup> Der Inhalt des ABl gilt ab seinem Erscheinen als bekannt.
+
+<sup>2</sup> Weicht der Inhalt des ABl in gedruckter Form von demjenigen der elektronischen Form ab, so ist letztere massgebend.
+
+<sup>3</sup> Das für amtliche Veröffentlichungen zuständige Organ sorgt für:
+
+- a) die Unversehrtheit, die Authentizität und die Verfügbarkeit des ABl;
+- b) die Aufbewahrung aller Veröffentlichungen im ABl bis zu ihrer Abgabe an das historische Archiv.
+
+#### Art. 9b
+
+**Kosten für die Veröffentlichung**
+
+<sup>1</sup> Das Organ, das eine Veröffentlichung im ABl veranlasst, trägt grundsätzlich die Kosten dafür; Vorschriften, die sich aus der Sondergesetzgebung ergeben, bleiben vorbehalten. Der Staatsrat regelt die Einzelheiten und kann Ausnahmen vorsehen.
+
+#### Art. 9c
+
+**Schutz der Personendaten**
+
+<sup>1</sup> Die Veröffentlichungen im ABl dürfen Personendaten und besonders schützenswerte Personendaten enthalten, wenn das für den Zweck der Veröffentlichung nötig ist. Gemäss der Gesetzgebung über den Datenschutz dürfen sie nicht mehr Informationen enthalten und nicht länger im Internet zugänglich sein, als es ihr Zweck erfordert.
+
+<sup>2</sup> Die Behörde, die eine Veröffentlichung im ABl veranlasst, ist verantwortlich für die Bearbeitung der darin enthaltenen Personendaten, sorgt dafür, dass Absatz 1 eingehalten wird, und behandelt die Gesuche der betroffenen Personen, welche die Rechte, die ihnen in der Datenschutzgesetzgebung gewährt werden, geltend machen.
+
+<sup>3</sup> Das für die amtlichen Veröffentlichungen zuständige Organ trifft die erforderlichen Massnahmen, um die Indexierung der Veröffentlichungen durch externe Suchmaschinen zu begrenzen, soweit dies nach dem Stand der Technik möglich ist.
+
+<sup>4</sup> Der Staatsrat legt, soweit nötig, die weiteren Massnahmen fest, die erforderlich sind, um die Personendaten, die im ABl im Internet veröffentlicht werden, zu schützen.
 
 ### 2.6 Einsichtnahme und Verkauf
 
@@ -172,7 +207,7 @@ beschliesst:
 
 **Einsichtnahme**
 
-<sup>1</sup> Der Zugang zur Datenbank über das Internet ist gratis.
+<sup>1</sup> Der Internetzugang zur Datenbank und zum ABl ist kostenlos.
 
 <sup>2</sup> Jede und jeder kann zudem die Datenbank und das Amtsblatt bei der Staatskanzlei, den Oberämtern und den Gemeindeschreibereien unentgeltlich einsehen. Diese können für die Einsichtnahme eine Vorankündigung verlangen und bestimmte Zeiten festlegen.
 
@@ -184,9 +219,9 @@ beschliesst:
 
 **Verkauf**
 
-<sup>1</sup> Der Staatsrat setzt den Verkaufspreis der einzelnen amtlichen Publikationsorgane fest und bestimmt, in welchen Fällen sie kostenlos oder zu einem ermässigten Preis abgegeben werden.
+<sup>1</sup> Der Staatsrat setzt den Verkaufspreis der gedruckten Form der einzelnen amtlichen Publikationsorgane fest und bestimmt, in welchen Fällen sie kostenlos oder zu einem ermässigten Preis abgegeben werden.
 
-<sup>2</sup> Die Gemeinden erhalten die amtlichen Publikationen, die sie für die Öffentlichkeit bereithalten müssen, kostenlos.
+<sup>2</sup> …
 
 <sup>3</sup> Die gewerbliche Nutzung urheberrechtlich geschützter amtlicher Daten ist konzessionspflichtig und kann von einer Gegenleistung abhängig gemacht werden.
 
@@ -196,7 +231,9 @@ beschliesst:
 
 **Ordentliche Veröffentlichung**
 
-<sup>1</sup> Die Erlasse werden sogleich nach ihrer Verabschiedung in der Amtlichen Sammlung veröffentlicht.
+<sup>1</sup> Die Erlasse werden nach ihrer Verabschiedung so bald wie möglich in der Amtlichen Sammlung veröffentlicht.
+
+<sup>1a</sup> In der Systematischen Sammlung wird die konsolidierte Fassung veröffentlicht, sobald die betreffenden Erlasse oder Bestimmungen in Kraft getreten sind; vor der Veröffentlichung in der Amtlichen Sammlung dürfen sie jedoch nicht in die Systematische Sammlung aufgenommen werden.
 
 <sup>2</sup> …
 
@@ -248,6 +285,12 @@ beschliesst:
 
 <sup>3</sup> Die Behörden fördern die Information der Personen, die von wichtigen Erlassen unmittelbar betroffen sind, insbesondere durch Bekanntmachungen über die Hauptetappen der laufenden Rechtsetzungsarbeiten sowie über die wichtigsten neuen Regelungen.
 
+#### Art. 17a
+
+**Dem Referendum unterstehende Erlasse**
+
+<sup>1</sup> Die Informationen über die Unterstellung der Erlasse unter das Referendum werden zentral in der BDLF hervorgehoben.
+
 #### Art. 18
 
 **Sprachen**
@@ -263,6 +306,8 @@ beschliesst:
 <sup>1</sup> Die Erlasse, die der Ausübung der Volksrechte unterstehen, werden gemäss der einschlägigen Gesetzgebung promulgiert.
 
 <sup>2</sup> Der Zeitpunkt des Inkrafttretens der Erlasse des Grossen Rates wird vom Staatsrat bestimmt, wenn er sich weder aus dem Erlass selbst noch aus der Spezialgesetzgebung ergibt.
+
+<sup>2a</sup> Er legt das Datum des Inkrafttretens interkantonaler Vereinbarungen fest oder präzisiert es, wenn es sich nicht ausdrücklich aus der Vereinbarung selbst oder aus dem Beitrittserlass ergibt.
 
 <sup>3</sup> Das Datum, an dem ein Erlass in Kraft tritt, muss ausdrücklich bestimmt werden und in der Regel auf einen späteren Zeitpunkt fallen als die voraussichtliche Veröffentlichung in der Amtlichen Sammlung.
 
@@ -321,6 +366,14 @@ beschliesst:
 
 <sup>2</sup> Das Büro des Grossen Rates ist jedoch zuständig, wenn bei einem Erlass des Grossen Rates bloss die Formulierung berichtigt werden muss, insbesondere um die interne Kohärenz des Textes oder die Übereinstimmung der Sprachfassungen sicherzustellen. Es entscheidet zugleich, ob mit der Veröffentlichung der Berichtigung eine allfällige Referendumsfrist neu zu laufen beginnt.
 
+#### Art. 23a
+
+**Inkrafttreten der Berichtigungen**
+
+<sup>1</sup> Berichtigungen treten am Tag des Inkrafttretens des berichtigten Erlasses oder, wenn praktische oder technische Gründe dagegen sprechen, am Tag ihrer Veröffentlichung in Kraft.
+
+<sup>2</sup> Vorbehalten bleiben jedoch Fälle, in denen die Erlassbehörde das Datum des Inkrafttretens der Berichtigung selbst festlegt.
+
 #### Art. 24
 
 **Terminologische Anpassung**
@@ -339,7 +392,7 @@ beschliesst:
 
 **Für ungültig erklärte Erlasse**
 
-<sup>1</sup> Hebt das Bundesgericht oder eine andere zuständige Behörde einen Erlass ganz oder teilweise auf, so nimmt der Staatsrat dies zur Kenntnis und lässt in der Amtlichen Sammlung einen Hinweis darauf veröffentlichen. Die aufgehobenen Bestimmungen werden aus den systematischen Publikationen entfernt.
+<sup>1</sup> Hebt das Bundesgericht oder eine andere zuständige Behörde einen Erlass ganz oder teilweise auf, so nimmt der Staatsrat dies zur Kenntnis und lässt in der Amtlichen Sammlung einen Hinweis darauf veröffentlichen. Die für nichtig erklärten Bestimmungen werden aus der Systematischen Gesetzessammlung entfernt oder mit einem Vermerk versehen, in dem auf ihre Aufhebung hingewiesen wird.
 
 <sup>2</sup> Sind neue Regeln, für die der Grosse Rat zuständig ist, erforderlich, so kann der Staatsrat eine vorläufige Regelung erlassen.
 
@@ -349,9 +402,9 @@ beschliesst:
 
 **Veröffentlichung**
 
-<sup>1</sup> Die Erlasse, die von Anstalten oder anderen Institutionen beschlossen werden, um die Erfüllung ihnen übertragener Aufgaben des kantonalen öffentlichen Rechts sicherzustellen, werden den betroffenen Personen auf geeignete Weise zur Kenntnis gebracht.
+<sup>1</sup> Anstalten und andere Organisationen, die Erlasse normativer Natur erlassen, um die Erfüllung von Aufgaben des kantonalen öffentlichen Rechts sicherzustellen, geben diese Erlasse den betroffenen Personen in geeigneter Weise bekannt und veröffentlichen sie im Internet, wenn sie von hinreichendem öffentlichem Interesse sind.
 
-<sup>2</sup> Solche Erlasse können bei hinreichendem allgemeinem Interesse in der Amtlichen Sammlung veröffentlicht werden, gegebenenfalls in Form einer beschränkten Veröffentlichung (Art. 13 f.).
+<sup>2</sup> Solche Erlasse können bei hinreichendem allgemeinem Interesse in der Amtlichen Sammlung veröffentlicht werden, gegebenenfalls in Form einer beschränkten Veröffentlichung (Art. 13f.).
 
 #### Art. 27
 
