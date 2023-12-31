@@ -4,7 +4,7 @@ number: "923.99"
 title: CONCORDAT du 19.05.2003 sur la pêche dans le lac de Neuchâtel (C-Pêche-NE)
 short: C-Pêche-NE
 language: fr
-version: 2004-01-01
+version: 2024-01-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/923.99?id=ff9fd2f5-788a-4f09-a4c2-0ed3c160385c"
 ---
 
@@ -420,7 +420,9 @@ Conviennent de ce qui suit :
 
 **Mesures économiques [^34-1]**
 
-<sup>1</sup> La Commission intercantonale peut coordonner les mesures techniques ou financières prises par les cantons concordataires pour favoriser l'écoulement du poisson du lac capturé par les titulaires de permis professionnel.
+<sup>1</sup> Les autorités compétentes de chaque canton peuvent prendre toutes mesures techniques ou financières en vue de soutenir la pêche professionnelle.
+
+<sup>2</sup> La Commission intercantonale coordonne la mise en oeuvre de ces mesures, dans un but d'uniformisation des pratiques cantonales.
 
 [^34-1]: Modif. 1 du 22.11.2023: Modification Al. 1; entrée en vigueur au 01.01.2024; Introduction Al. 2; entrée en vigueur au 01.01.2024
 
