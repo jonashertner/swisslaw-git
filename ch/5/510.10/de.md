@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 3. Februar 1995 über die Armee und die Militärverwalt
 short: MG
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093"
 language: de
-version: 2023-09-01
+version: 2024-01-01
 adopted: 1995-02-03
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093/20230901/de/xml/fedlex-data-admin-ch-eli-cc-1995-4093_4093_4093-20230901-de-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/4093_4093_4093/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093/20240101/de/xml/fedlex-data-admin-ch-eli-cc-1995-4093_4093_4093-20240101-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/4093_4093_4093/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/4093_4093_4093/20230901/de"
 
 (Militärgesetz, MG)
 
-vom 3. Februar 1995 (Stand am 1. September 2023)
+vom 3. Februar 1995 (Stand am 1. Januar 2024)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -25,7 +25,7 @@ gestützt auf die Artikel 40 Absatz 2, 54 Absatz 1, 58 Absatz 2 und 60 Absatz 1 
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 1993 IV 1](https://fedlex.data.admin.ch/eli/fga/1993/4_1_1_1)
 [^ingress-3]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 
@@ -51,7 +51,7 @@ Sie unterstützt die zivilen Behörden im Inland, wenn deren Mittel nicht mehr a
 
 - a. bei der Abwehr schwerwiegender Bedrohungen der inneren Sicherheit;
 - b. bei der Bewältigung von Katastrophen und anderer ausserordentlicher Lagen;
-- c. beim Schutz von Personen und besonders schutzwürdigen Sachen, insbesondere von Infrastrukturen, die für Gesellschaft, Wirtschaft und Staat unerlässlich sind (kritische Infrastrukturen);
+- c.[^1-1] beim Schutz von Personen und besonders schutzwürdigen Sachen, insbesondere der Trinkwasser- und Energieversorgung, von Informations-, Kommunikations- und Transportinfrastrukturen sowie von weiteren Prozessen, Systemen und Einrichtungen, die essenziell für das Funktionieren der Wirtschaft beziehungsweise das Wohlergehen der Bevölkerung sind (kritische Infrastrukturen);
 - d. bei der Erfüllung von Aufgaben im Rahmen des Sicherheitsverbundes Schweiz und der koordinierten Dienste;
 - e. bei der Bewältigung von Spitzenbelastungen oder von Aufgaben, die die Behörden mangels geeigneter Personen oder Mittel nicht bewältigen können;
 - f. bei der Erfüllung anderer Aufgaben von nationaler oder internationaler Bedeutung.
@@ -71,6 +71,8 @@ Sie kann zivilen Behörden und Dritten:
 
 - a. für zivile oder ausserdienstliche Tätigkeiten im Inland militärische Mittel zu Verfügung stellen;
 - b. mit Truppen im Ausbildungsdienst und mit Berufsformationen Spontanhilfe zur Bewältigung von unvorhergesehenen Ereignissen leisten.
+
+[^1-1]: Fassung gemäss Anhang 1 Ziff. 12 des Informationssicherheitsgesetzes vom 18. Dez. 2020, in Kraft seit 1. Jan. 2024 ([AS 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [BBl 2017 2953](https://fedlex.data.admin.ch/eli/fga/2017/647)).
 
 ## Zweiter Titel: Militärdienstpflicht
 
@@ -332,9 +334,23 @@ Der Bundesrat kann:
 
 #### Art. 14
 
-[^14-1]
+**Prüfung der Vertrauenswürdigkeit**[^14-1]
 
-[^14-1]: Aufgehoben durch Ziff. I des BG vom 4. Okt. 2002, mit Wirkung seit 1. Jan. 2004 ([AS 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [BBl 2002 858](https://fedlex.data.admin.ch/eli/fga/2002/118)).
+<sup>1</sup>
+
+Die Angehörigen der Armee können auf ihre Vertrauenswürdigkeit hin geprüft werden, wenn sie im Rahmen ihrer Funktion:
+
+- a. die Schweiz im Ausland regelmässig vertreten sollen und dabei das Ansehen des Bundes erheblich beeinträchtigen könnten;
+- b. in wesentlichen finanziellen Angelegenheiten Entscheide fällen oder Aufsichtsaufgaben wahrnehmen sollen und dabei die finanziellen Interessen des Bundes erheblich beeinträchtigen könnten.
+
+<sup>2</sup> Der Bundesrat legt fest, welche Funktionen geprüft werden müssen. Er beschränkt sich dabei auf das erforderliche Mindestmass.
+
+<sup>3</sup> Die Vertrauenswürdigkeitsprüfungen werden von der Fachstelle nach Artikel 31 Absatz 2 des Informationssicherheitsgesetzes vom 18. Dezember 2020[^14-2] (ISG) durchgeführt. Das Verfahren richtet sich sinngemäss nach den entsprechenden Bestimmungen des ISG.
+
+<sup>4</sup> Werden die Angehörigen der Armee gleichzeitig einer Personensicherheitsprüfung nach dem ISG unterzogen, so werden die beiden Verfahren vereinigt.
+
+[^14-1]: Fassung gemäss Anhang 1 Ziff. 12 des Informationssicherheitsgesetzes vom 18. Dez. 2020, in Kraft seit 1. Jan. 2024 ([AS 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [BBl 2017 2953](https://fedlex.data.admin.ch/eli/fga/2017/647)).
+[^14-2]: [SR 128](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40013)
 
 #### Art. 15
 
@@ -435,7 +451,7 @@ Ein schriftliches und begründetes Gesuch um Neubeurteilung stellen können:
 <sup>3</sup> Der Bundesrat regelt die Voraussetzungen und das Verfahren.
 
 [^20-1]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^20-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2019 angepasst.
+[^20-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)) auf den 1. Jan. 2019 angepasst.
 [^20-3]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 [^20-4]: Richtig: Kommando Ausbildung.
 [^20-5]: Richtig: Kommando Ausbildung.
@@ -734,8 +750,8 @@ Die Versicherung der Stellungspflichtigen und der Angehörigen der Armee gegen K
 <sup>3</sup> Er kann vorsehen, dass Stellungspflichtigen und Angehörigen der Armee freiwillige Blutuntersuchungen und Impfungen angeboten werden.[^35-6]
 
 [^35-1]: Fassung gemäss Ziff. I des BG vom 18. März 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [BBl 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
-[^35-2]: [SR 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)
-[^35-3]: [SR 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
+[^35-2]: [SR 818.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9783)
+[^35-3]: [SR 916.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10835)
 [^35-4]: Fassung gemäss Ziff. I des BG vom 18. März 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [BBl 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
 [^35-5]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 [^35-6]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
@@ -772,7 +788,7 @@ Das VBS kann für die höheren Stabsoffiziere, für das militärische Personal d
 
 <sup>2</sup> Die Dienstbeschwerde ist auch in Kommandosachen zulässig.
 
-[^37-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^37-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 38
 
@@ -794,7 +810,7 @@ Gegen Entscheide der medizinischen Untersuchungskommissionen über die Beurteilu
 
 <sup>2</sup> Gegen Entscheide der Bewilligungsinstanzen für den waffenlosen Militärdienst (Art. 16 Abs. 2) kann beim VBS und gegen dessen Entscheid beim Bundesverwaltungsgericht Beschwerde erhoben werden.[^40-2]
 
-[^40-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^40-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 [^40-2]: Fassung gemäss Anhang Ziff. 46 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### 5. Kapitel: Titel und Orden ausländischer Behörden
@@ -821,7 +837,7 @@ Gegen Entscheide der medizinischen Untersuchungskommissionen über die Beurteilu
 
 <sup>2</sup> Ist das Werk von grossem Nutzen für den Bund, so kann dem Angehörigen der Armee eine angemessene Entschädigung ausgerichtet werden.
 
-[^40b-1]: [SR 231.1](https://fedlex.data.admin.ch/eli/cc/1993/1798_1798_1798)
+[^40b-1]: [SR 231.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5952)
 
 ## Vierter Titel: Ausbildung der Armee
 
@@ -1121,7 +1137,7 @@ Der Bundesrat kann für Angehörige der Armee mit bestimmten Funktionen besonder
 Der Bundesrat regelt:
 
 - a. welche weiteren Ausbildungsdienste für einen höheren Grad, eine neue Funktion oder eine Umschulung zu bestehen sind;
-- [tab] b.[^55-2] welche besonderen Dienste Unteroffiziere, höhere Unteroffiziere und Offiziere zu leisten haben;
+- b.[^55-2] welche besonderen Dienste Unteroffiziere, höhere Unteroffiziere und Offiziere zu leisten haben;
 - c. die maximale Dauer der Kaderausbildung und der Ausbildungsdienste.
 
 <sup>4</sup> Er kann das VBS ermächtigen, die Einzelheiten zu den Ausbildungsdiensten wie Aufteilung, Teilnehmer und Zulassungsbedingungen zu regeln.
@@ -1678,7 +1694,7 @@ Der Bundesrat regelt unter Berücksichtigung der Art der Aufgaben und des Ausbil
 - b. die Aufgaben, zu deren Erfüllung die Angestellten der Militärverwaltung des Bundes bewaffnet werden dürfen.
 
 [^92-1]: Fassung gemäss Ziff. I des BG vom 18. März 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [BBl 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
-[^92-2]: [SR 364](https://fedlex.data.admin.ch/eli/cc/2008/759)
+[^92-2]: [SR 364](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6323)
 
 #### Art. 92a
 
@@ -1812,7 +1828,7 @@ Der Bundesrat regelt:
 
 [^99-1]: Fassung gemäss Anhang Ziff. 2 des BG vom 3. Okt. 2008 über die Zuständigkeiten im Bereich des zivilen Nachrichtendienstes, in Kraft seit 1. Jan. 2010 ([AS 2009 6565](https://fedlex.data.admin.ch/eli/oc/2009/809); [BBl 2008 4015](https://fedlex.data.admin.ch/eli/fga/2008/810)[4035](https://fedlex.data.admin.ch/eli/fga/2008/812)).
 [^99-2]: Zweiter Satz eingefügt durch Ziff. I des BG vom 18. März 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [BBl 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
-[^99-3]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^99-3]: [SR 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
 [^99-4]: Eingefügt durch Anhang Ziff. 4 des BG vom 23. Dez. 2011 ([AS 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428)[5525](https://fedlex.data.admin.ch/eli/oc/2012/637); [BBl 2007 5037](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 7841](https://fedlex.data.admin.ch/eli/fga/2010/1444)). Fassung gemäss Anhang Ziff. II 8 des Nachrichtendienstgesetzes vom 25. Sept. 2015, in Kraft seit 1. Sept. 2017 ([AS 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [BBl 2014 2105](https://fedlex.data.admin.ch/eli/fga/2014/407)).
 [^99-5]: Eingefügt durch Anhang Ziff. 4 des BG vom 23. Dez. 2011, in Kraft seit 1. Nov. 2012 ([AS 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428)[5525](https://fedlex.data.admin.ch/eli/oc/2012/637); [BBl 2007 5037](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 7841](https://fedlex.data.admin.ch/eli/fga/2010/1444)).
 [^99-6]: Eingefügt durch Anhang Ziff. 4 des BG vom 23. Dez. 2011 ([AS 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428)[5525](https://fedlex.data.admin.ch/eli/oc/2012/637); [BBl 2007 5037](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 7841](https://fedlex.data.admin.ch/eli/fga/2010/1444)). Fassung gemäss Anhang Ziff. II 8 des Nachrichtendienstgesetzes vom 25. Sept. 2015, in Kraft seit 1. Sept. 2017 ([AS 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [BBl 2014 2105](https://fedlex.data.admin.ch/eli/fga/2014/407)).
@@ -1872,8 +1888,8 @@ Der Bundesrat regelt:
 [^100-1]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 [^100-2]: Fassung gemäss Anhang 1 Ziff. II 40 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^100-3]: Fassung gemäss Anhang 1 Ziff. II 40 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^100-4]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^100-5]: [SR 364](https://fedlex.data.admin.ch/eli/cc/2008/759)
+[^100-4]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^100-5]: [SR 364](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6323)
 [^100-6]: Fassung gemäss Anhang 1 Ziff. II 40 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### 4. Kapitel: Berufsformationen
@@ -2140,16 +2156,17 @@ Die bundesinterne Prüfbehörde kann zur Beurteilung des Gefährdungs- oder Miss
 - d.[^113-2] bei den zuständigen Straf- und Strafvollzugsbehörden Auskünfte und Akten über laufende, abgeschlossene oder eingestellte Strafverfahren sowie Strafvollzüge einholen;
 - e. die zu beurteilende Person und Dritte befragen, falls aufgrund der vorliegenden Daten ein Gefährdungs- oder Missbrauchspotenzial nicht eindeutig ausgeschlossen werden kann.
 
-<sup>6</sup> Das Verfahren richtet sich im Übrigen nach den Artikeln 19–21 des Bundesgesetzes vom 21. März 1997[^113-3] über Massnahmen zur Wahrung der inneren Sicherheit. Ist gleichzeitig aus anderen Gründen eine Sicherheitsprüfung durchzuführen, so können die beiden Verfahren vereinigt werden.
+<sup>6</sup> Das Verfahren richtet sich sinngemäss nach den Bestimmungen über die Grundsicherheitsprüfung nach Artikel 30 Buchstabe a ISG[^113-3]. Ist gleichzeitig aus anderen Gründen eine Grundsicherheitsprüfung durchzuführen, so werden die beiden Verfahren vereinigt.[^113-4]
 
-<sup>7</sup> Behörden des Bundes, der Kantone und der Gemeinden, Ärztinnen und Ärzte, Seelsorgerinnen und Seelsorger, Psychologinnen und Psychologen, Sozialarbeiterinnen und Sozialarbeiter sowie Angehörige der Betreuungsdienste der Armee sind ohne Rücksicht auf die Bindung an das Amts- oder Berufsgeheimnis ermächtigt, Anzeichen oder Hinweise nach Absatz 1 oder einen entsprechenden Verdacht den zuständigen Stellen des VBS zu melden.[^113-4]
+<sup>7</sup> Behörden des Bundes, der Kantone und der Gemeinden, Ärztinnen und Ärzte, Seelsorgerinnen und Seelsorger, Psychologinnen und Psychologen, Sozialarbeiterinnen und Sozialarbeiter sowie Angehörige der Betreuungsdienste der Armee sind ohne Rücksicht auf die Bindung an das Amts- oder Berufsgeheimnis ermächtigt, Anzeichen oder Hinweise nach Absatz 1 oder einen entsprechenden Verdacht den zuständigen Stellen des VBS zu melden.[^113-5]
 
 <sup>8</sup> Dritte können, unter Angabe der Gründe, Anzeichen oder Hinweise nach Absatz 1 oder einen entsprechenden Verdacht den zuständigen Stellen des VBS melden.
 
 [^113-1]: Fassung gemäss Ziff. I 3 des BG vom 25. Sept. 2015 über Verbesserungen beim Informationsaustausch zwischen Behörden im Umgang mit Waffen, in Kraft seit 1. Juli 2016 ([AS 2016 1831](https://fedlex.data.admin.ch/eli/oc/2016/326); [BBl 2014 303](https://fedlex.data.admin.ch/eli/fga/2014/67)).
 [^113-2]: Die Berichtigung der RedK der BVers vom 23. Aug. 2016, veröffentlicht am 13. Sept. 2016 betrifft nur den französischen Text ([AS 2016 3167](https://fedlex.data.admin.ch/eli/oc/2016/530)).
-[^113-3]: [SR 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
-[^113-4]: Fassung gemäss Ziff. I des BG vom 18. März 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [BBl 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^113-3]: [SR 128](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40013)
+[^113-4]: Fassung gemäss Anhang 1 Ziff. 12 des Informationssicherheitsgesetzes vom 18. Dez. 2020, in Kraft seit 1. Jan. 2024 ([AS 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [BBl 2017 2953](https://fedlex.data.admin.ch/eli/fga/2017/647)).
+[^113-5]: Fassung gemäss Ziff. I des BG vom 18. März 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [BBl 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
 
 #### Art. 114
 
@@ -2320,7 +2337,7 @@ Sie erheben keine Gebühren für:
 
 <sup>4</sup> Die Plangenehmigung für Vorhaben, die sich erheblich auf Raum und Umwelt auswirken, setzt grundsätzlich einen Sachplan nach dem Bundesgesetz über die Raumplanung vom 22. Juni 1979[^126-1] voraus.
 
-[^126-1]: [SR 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^126-1]: [SR 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 
 #### Art. 126a
 
@@ -2331,8 +2348,8 @@ Sie erheben keine Gebühren für:
 <sup>2</sup> Sind Enteignungen notwendig, finden zudem die Vorschriften des Bundesgesetzes vom 20. Juni 1930[^126a-3] über die Enteignung (EntG) Anwendung.
 
 [^126a-1]: Fassung gemäss Anhang Ziff. 6 des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [BBl 2018 4713](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
-[^126a-2]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
-[^126a-3]: [SR 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^126a-2]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
+[^126a-3]: [SR 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 ### 2. Abschnitt: Plangenehmigungsverfahren
 
@@ -2380,9 +2397,9 @@ Das Plangenehmigungsgesuch ist mit den erforderlichen Unterlagen bei der Genehmi
 
 <sup>3</sup> Die betroffenen Gemeinden wahren ihre Interessen mit Einsprache.
 
-[^126f-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^126f-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 [^126f-2]: Fassung gemäss Anhang Ziff. 6 des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [BBl 2018 4713](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
-[^126f-3]: [SR 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^126f-3]: [SR 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 [^126f-4]: Fassung gemäss Anhang Ziff. 6 des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [BBl 2018 4713](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
 
 #### Art. 126g
@@ -2391,7 +2408,7 @@ Das Plangenehmigungsgesuch ist mit den erforderlichen Unterlagen bei der Genehmi
 
 Das Bereinigungsverfahren in der Bundesverwaltung richtet sich nach Artikel 62*b* des Regierungs- und Verwaltungsorganisationsgesetzes vom 21. März 1997[^126g-1].
 
-[^126g-1]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^126g-1]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 #### Art. 127
 
@@ -2429,7 +2446,7 @@ Das vereinfachte Plangenehmigungsverfahren wird angewendet bei:
 
 <sup>2</sup> Das vereinfachte Plangenehmigungsverfahren ist sinngemäss anwendbar. Dem Geheimhaltungsinteresse ist dabei Rechnung zu tragen.
 
-[^128a-1]: [SR 510.518](https://fedlex.data.admin.ch/eli/cc/1950/1474_1519_1485)
+[^128a-1]: [SR 510.518](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7325)
 
 ### 3. Abschnitt: Einigungs- und Schätzungsverfahren; vorzeitige Besitzeinweisung
 
@@ -2445,7 +2462,7 @@ Das vereinfachte Plangenehmigungsverfahren wird angewendet bei:
 
 <sup>3</sup> Der Präsident der Schätzungskommission kann gestützt auf einen vollstreckbaren Plangenehmigungsentscheid die vorzeitige Besitzeinweisung bewilligen. Dabei wird vermutet, dass dem Enteigner ohne die vorzeitige Besitzeinweisung bedeutende Nachteile entstünden. Im Übrigen gilt Artikel 76 EntG.
 
-[^129-1]: [SR 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^129-1]: [SR 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 [^129-2]: Fassung gemäss Anhang Ziff. 6 des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [BBl 2018 4713](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
 [^129-3]: Aufgehoben durch Anhang Ziff. 6 des BG vom 19. Juni 2020, mit Wirkung seit 1. Jan. 2021 ([AS 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [BBl 2018 4713](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
 
@@ -2522,7 +2539,7 @@ Die Gemeinden stellen unentgeltlich zur Verfügung:
 
 <sup>3</sup> Das VBS erlässt Vorschriften über Lage, Bau und Betrieb von Schiessanlagen für das Schiesswesen ausser Dienst sowie über die zulasten der Schiessvereine gehenden Einrichtungen. Es berücksichtigt dabei die Bedürfnisse der Sicherheit, des Umweltschutzes sowie des Natur- und Heimatschutzes.
 
-[^133-1]: [SR 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^133-1]: [SR 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 #### Art. 134
 
@@ -2603,7 +2620,7 @@ Hat der Bund eine Entschädigung geleistet, so steht ihm der Rückgriff auf die 
 
 <sup>3</sup> Bei der Festsetzung der Entschädigung, die Formationen leisten müssen, werden ausserdem die Art des Dienstes und die besonderen Umstände angemessen berücksichtigt.
 
-[^141-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^141-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 142
 
@@ -2618,7 +2635,7 @@ Hat der Bund eine Entschädigung geleistet, so steht ihm der Rückgriff auf die 
 <sup>4</sup> Die Entscheide dieser Behörden können mit Beschwerde an das Bundesverwaltungsgericht weitergezogen werden.[^142-3]
 
 [^142-1]: Fassung gemäss Ziff. I des BG vom 4. Okt. 2002, in Kraft seit 1. Jan. 2004 ([AS 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [BBl 2002 858](https://fedlex.data.admin.ch/eli/fga/2002/118)).
-[^142-2]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^142-2]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 [^142-3]: Fassung gemäss Ziff. I des BG vom 19. März 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [BBl 2009 5917](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
 
 #### Art. 143
@@ -2634,7 +2651,7 @@ Hat der Bund eine Entschädigung geleistet, so steht ihm der Rückgriff auf die 
 <sup>4</sup> Der Rückgriffsanspruch des Bundes gegenüber Angehörigen der Armee verjährt innert drei Jahren seit der Anerkennung oder der rechtskräftigen Feststellung der Schadenersatzpflicht des Bundes, jedenfalls aber mit Ablauf von zehn Jahren, bei Tötung eines Menschen oder bei Körperverletzung mit Ablauf von zwanzig Jahren, vom Tage an gerechnet, an welchem das schädigende Verhalten erfolgte oder aufhörte.
 
 [^143-1]: Fassung gemäss Anhang Ziff. 6 des BG vom 15. Juni 2018 (Revision des Verjährungsrechts), in Kraft seit 1. Jan. 2020 ([AS 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [BBl 2014 235](https://fedlex.data.admin.ch/eli/fga/2014/65)).
-[^143-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^143-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### 6. Kapitel: Aufgebote, Verschiebungen, Dispensationen und Urlaub
 
@@ -2676,7 +2693,7 @@ Für die Erfüllung wichtiger Aufgaben in den zivilen Bereichen des Sicherheitsv
 Die Bearbeitung von Personendaten in Informationssystemen und beim Einsatz von Überwachungsmitteln der Armee und der Militärverwaltung wird im Bundesgesetz vom 3. Oktober 2008[^146-2] über militärische und andere Informationssysteme im VBS geregelt.
 
 [^146-1]: Fassung gemäss Anhang Ziff. 1 des BG vom 17. Juni 2022, in Kraft seit 1. Sept. 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
-[^146-2]: [SR 510.91](https://fedlex.data.admin.ch/eli/cc/2009/823)
+[^146-2]: [SR 510.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7377)
 
 #### Art. 146a
 
@@ -2758,9 +2775,9 @@ Der Bundesrat kann Einrichtungen und Material der Armee für Massnahmen der inte
 
 <sup>3</sup> Er kann das VBS ermächtigen, zur Wahrung der militärischen Geheimhaltung Vorschriften zu erlassen.
 
-<sup>4</sup> Er kann mit andern Staaten Vereinbarungen zur Wahrung der militärischen Geheimhaltung abschliessen.[^150-1]
+<sup>4</sup> …[^150-1]
 
-[^150-1]: Eingefügt durch Ziff. I des BG vom 4. Okt. 2002, in Kraft seit 1. Jan. 2004 ([AS 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [BBl 2002 858](https://fedlex.data.admin.ch/eli/fga/2002/118)).
+[^150-1]: Eingefügt durch Ziff. I des BG vom 4. Okt. 2002 ([AS 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [BBl 2002 858](https://fedlex.data.admin.ch/eli/fga/2002/118)). Aufgehoben durch Anhang 1 Ziff. 12 des Informationssicherheitsgesetzes vom 18. Dez. 2020, mit Wirkung seit 1. Jan. 2024 ([AS 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [BBl 2017 2953](https://fedlex.data.admin.ch/eli/fga/2017/647)).
 
 #### Art. 150a
 
@@ -2797,7 +2814,7 @@ Während dieser Dauer kann er aus zwingenden Gründen abweichen von den gesetzli
 <sup>3</sup> Er regelt für diese Dauer durch Verordnung die Ausbildung und Organisation der Armee sowie deren Zusammenarbeit und Koordination mit den anderen Akteuren des Sicherheitsverbundes Schweiz.
 
 [^151-1]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^151-2]: [SR 513.1](https://fedlex.data.admin.ch/eli/cc/2017/217); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)
+[^151-2]: [SR 513.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7452); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)
 
 #### Art. 152
 

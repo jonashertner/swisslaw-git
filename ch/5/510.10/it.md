@@ -4,11 +4,11 @@ title: "Legge federale del 3 febbraio 1995 sull'esercito e sull'amministrazione 
 short: LM
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093"
 language: it
-version: 2023-09-01
+version: 2024-01-01
 adopted: 1995-02-03
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093/20230901/it/xml/fedlex-data-admin-ch-eli-cc-1995-4093_4093_4093-20230901-it-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/4093_4093_4093/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093/20240101/it/xml/fedlex-data-admin-ch-eli-cc-1995-4093_4093_4093-20240101-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/4093_4093_4093/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/4093_4093_4093/20230901/it"
 
 (Legge militare, LM)
 
-del 3 febbraio 1995 (Stato 1° settembre 2023)
+del 3 febbraio 1995 (Stato 1° gennaio 2024)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -25,7 +25,7 @@ visti gli articoli 40 capoverso 2, 54 capoverso 1, 58 capoverso 2 e 60 capoverso
 
 decreta:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 1993 IV 1](https://fedlex.data.admin.ch/eli/fga/1993/4_1_1_1)
 [^ingress-3]: Nuovo testo giusta il n. I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 
@@ -51,7 +51,7 @@ Quando i loro mezzi non sono più sufficienti, appoggia le autorità civili in S
 
 - a. nel far fronte a gravi minacce per la sicurezza interna;
 - b. nel far fronte a catastrofi e ad altre situazioni straordinarie;
-- c. nella protezione di persone e di oggetti degni di particolare protezione, in particolare di infrastrutture indispensabili per la società, l’economia e lo Stato (infrastrutture critiche);
+- c.[^1-1] nella protezione di persone e di oggetti degni di particolare protezione, in particolare di infrastrutture per l’approvvigionamento di acqua potabile e di energia, di infrastrutture nei settori dell’informazione, della comunicazione e dei trasporti nonché di altri processi, sistemi e installazioni essenziali per il funzionamento dell’economia e il benessere della popolazione (infrastrutture critiche);
 - d. nell’adempimento di compiti nel quadro della Rete integrata Svizzera per la sicurezza e dei servizi coordinati;
 - e. nel far fronte a situazioni di acuto sovraccarico o a compiti che le autorità non sono in grado di adempiere per mancanza di personale o mezzi adeguati;
 - f. nell’adempimento di altri compiti di importanza nazionale o internazionale.
@@ -71,6 +71,8 @@ L’esercito può:
 
 - a. mettere a disposizione di autorità civili o di terzi mezzi militari a favore di attività civili in Svizzera o attività fuori del servizio in Svizzera;
 - b. prestare, mediante truppe in servizio d’istruzione o formazioni di professionisti, aiuto spontaneo ad autorità civili o a terzi per la gestione di eventi imprevisti.
+
+[^1-1]: Nuovo testo giusta l’all. 1 n. 12 della L del 18 dic. 2020 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [FF 2017 2563](https://fedlex.data.admin.ch/eli/fga/2017/647)).
 
 ## Titolo secondo: Obbligo di prestare servizio militare
 
@@ -332,9 +334,23 @@ Il Consiglio federale può:
 
 #### Art. 14
 
-[^14-1]
+**Verifica dell’affidabilità**[^14-1]
 
-[^14-1]: Abrogato dal n. I della LF del 4 ott. 2002, con effetto dal 1° gen. 2004 ([RU 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
+<sup>1</sup>
+
+I militari possono essere sottoposti a una verifica dell’affidabilità se nel quadro della loro funzione:
+
+- a. rappresentano regolarmente la Svizzera all’estero e in tale contesto potrebbero pregiudicare considerevolmente l’immagine della Confederazione;
+- b. prendono decisioni ed esercitano compiti di vigilanza in affari finanziari essenziali e in tale contesto potrebbero pregiudicare considerevolmente gli interessi finanziari della Confederazione.
+
+<sup>2</sup> Il Consiglio federale designa le funzioni soggette alla verifica. Al riguardo si limita allo stretto necessario.
+
+<sup>3</sup> Il servizio specializzato di cui all’articolo 31 capoverso 2 della legge federale del 18 dicembre 2020[^14-2] sulla sicurezza delle informazioni (LSIn) esegue le verifiche dell’affidabilità. La procedura è retta per analogia dalle pertinenti disposizioni della LSIn.
+
+<sup>4</sup> Se i militari sono sottoposti contemporaneamente a un controllo di sicurezza relativo alle persone secondo la LSIn, le due procedure sono riunite.
+
+[^14-1]: Nuovo testo giusta l’all. 1 n. 12 della L del 18 dic. 2020 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [FF 2017 2563](https://fedlex.data.admin.ch/eli/fga/2017/647)).
+[^14-2]: [RS 128](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40013)
 
 #### Art. 15
 
@@ -436,8 +452,8 @@ Possono presentare una domanda scritta e motivata di riesame:
 
 [^20-1]: Nuovo testo giusta il n. I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
 [^20-2]: Nuovo testo giusta il n. I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^20-3]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2019.
-[^20-4]: Nuovo testo giusta il n. I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^20-3]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), con effetto dal 1° gen. 2019.
+[^20-4]: Introdotto dal n. I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 [^20-5]: Corretto: Comando Istruzione.
 [^20-6]: Corretto: Comando Istruzione.
 [^20-7]: Nuovo testo del secondo e terzo per. giusta n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
@@ -735,8 +751,8 @@ L’assicurazione contro le malattie e gli infortuni delle persone soggette all�
 <sup>3</sup> Può offrire alle persone soggette all’obbligo di leva e ai militari la possibilità di effettuare esami del sangue e vaccinazioni.[^35-6]
 
 [^35-1]: Nuovo testo giusta n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
-[^35-2]: [RS 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)
-[^35-3]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
+[^35-2]: [RS 818.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9783)
+[^35-3]: [RS 916.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10835)
 [^35-4]: Nuovo testo giusta n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
 [^35-5]: Introdotto dal n. I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 [^35-6]: Introdotto dal n. I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
@@ -775,7 +791,7 @@ Il DDPS può prevedere esami medici di routine periodici effettuati da un medico
 
 <sup>2</sup> Anche gli affari in materia di comando sono impugnabili con reclamo.
 
-[^37-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^37-1]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 38
 
@@ -799,7 +815,7 @@ Le decisioni circa l’idoneità al servizio militare pronunciate dalle Commissi
 
 <sup>2</sup> Le decisioni delle istanze d’autorizzazione per il servizio militare non armato (art. 16 cpv. 2) possono essere impugnate con ricorso al DDPS, e la decisione di quest’ultimo con ricorso al Tribunale amministrativo federale.[^40-2]
 
-[^40-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^40-1]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 [^40-2]: Nuovo testo giusta l’all. n. 46 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### Capitolo 5: Liberalità e onorificenze di autorità estere
@@ -826,7 +842,7 @@ Le decisioni circa l’idoneità al servizio militare pronunciate dalle Commissi
 
 <sup>2</sup> Se l’opera è di grande utilità per la Confederazione, al militare può essere versata un’indennità adeguata.
 
-[^40b-1]: [RS 231.1](https://fedlex.data.admin.ch/eli/cc/1993/1798_1798_1798)
+[^40b-1]: [RS 231.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5952)
 
 ## Titolo quarto: Istruzione dell’esercito
 
@@ -1686,7 +1702,7 @@ Il Consiglio federale, tenendo conto del tipo di compiti e del livello d’istru
 - b. i compiti per il cui adempimento gli impiegati dell’amministrazione militare della Confederazione possono essere armati.
 
 [^92-1]: Nuovo testo giusta n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
-[^92-2]: [RS 364](https://fedlex.data.admin.ch/eli/cc/2008/759)
+[^92-2]: [RS 364](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6323)
 
 #### Art. 92a
 
@@ -1820,7 +1836,7 @@ Il Consiglio federale disciplina:
 
 [^99-1]: Nuovo testo giusta l’all. n. 2 della LF del 3 ott. 2008 sul servizio informazioni civile, in vigore dal 1° gen. 2010 ([RU 2009 6565](https://fedlex.data.admin.ch/eli/oc/2009/809); [FF 2008 3439](https://fedlex.data.admin.ch/eli/fga/2008/810)[3457](https://fedlex.data.admin.ch/eli/fga/2008/812)).
 [^99-2]: Per. introdotto dal n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
-[^99-3]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^99-3]: [RS 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
 [^99-4]: Introdotto dall’all. n. 4 dellla LF del 23 dic. 2011 ([RU 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428)[5525](https://fedlex.data.admin.ch/eli/oc/2012/637); [FF 2007 4613](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 6923](https://fedlex.data.admin.ch/eli/fga/2010/1444)). Nuovo testo giusta l’all. n. II 8 della LF del 25 set. 2015 sulle attività informative, in vigore dal 1° set. 2017 ([RU 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 1885](https://fedlex.data.admin.ch/eli/fga/2014/407)).
 [^99-5]: Introdotto dall’all. n. 4 dellla LF del 23 dic. 2011, in vigore dal 1° nov. 2012 ([RU 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428)[5525](https://fedlex.data.admin.ch/eli/oc/2012/637); [FF 2007 4613](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 6923](https://fedlex.data.admin.ch/eli/fga/2010/1444)).
 [^99-6]: Introdotto dall’all. n. II 8 della LF del 25 set. 2015 sulle attività informative, in vigore dal 1° set. 2017 ([RU 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 1885](https://fedlex.data.admin.ch/eli/fga/2014/407)).
@@ -1880,8 +1896,8 @@ Il Consiglio federale disciplina:
 [^100-1]: Nuovo testo giusta il n. I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 [^100-2]: Nuovo testo giusta l’all. 1 n. II 40 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^100-3]: Nuovo testo giusta l’all. 1 n. II 40 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^100-4]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^100-5]: [RS 364](https://fedlex.data.admin.ch/eli/cc/2008/759)
+[^100-4]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^100-5]: [RS 364](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6323)
 [^100-6]: Nuovo testo giusta l’all. 1 n. II 40 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### Capitolo 4: Formazioni di professionisti
@@ -2149,16 +2165,17 @@ Per valutare il potenziale di pericolo o di abuso, l’autorità di controllo de
 - d.[^113-2] chiedere alle competenti autorità penali e d’esecuzione penale informazioni e atti relativi a procedimenti penali in corso, conclusi o abbandonati, e all’esecuzione delle pene;
 - e. interrogare la persona interessata e terzi, qualora in base ai dati disponibili non sia possibile escludere inequivocabilmente un potenziale di pericolo o di abuso.
 
-<sup>6</sup> Del rimanente, la procedura è retta dagli articoli 19–21 della legge federale del 21 marzo 1997[^113-3] sulle misure per la salvaguardia della sicurezza interna. Se per altri motivi occorre eseguire anche un controllo di sicurezza, i due procedimenti possono essere riuniti.
+<sup>6</sup> La procedura è retta per analogia dalle disposizioni relative al controllo di sicurezza di base secondo l’articolo 30 lettera a LSIn[^113-3]. Se contemporaneamente deve essere eseguito un controllo di sicurezza di base anche per altri motivi, le due procedure sono riunite.[^113-4]
 
-<sup>7</sup> Le autorità della Confederazione, dei Cantoni e dei Comuni, i medici, i cappellani, gli psicologi, gli assistenti sociali e i membri dei servizi d’assistenza dell’esercito sono liberati dal segreto d’ufficio o dal segreto professionale se si tratta di comunicare ai servizi competenti del DDPS qualsiasi segno o indizio ai sensi del capoverso 1 o un corrispondente sospetto.[^113-4]
+<sup>7</sup> Le autorità della Confederazione, dei Cantoni e dei Comuni, i medici, i cappellani, gli psicologi, gli assistenti sociali e i membri dei servizi d’assistenza dell’esercito sono liberati dal segreto d’ufficio o dal segreto professionale se si tratta di comunicare ai servizi competenti del DDPS qualsiasi segno o indizio ai sensi del capoverso 1 o un corrispondente sospetto.[^113-5]
 
 <sup>8</sup> I terzi possono comunicare ai servizi competenti del DDPS, indicandone i motivi, qualsiasi segno o indizio ai sensi del capoverso 1 o un corrispondente sospetto.
 
 [^113-1]: Nuovo testo giusta il n. I 3 della LF del 25 set. 2015 sul miglioramento dello scambio d’informazioni tra autorità in materia di armi, in vigore dal 1° lug. 2016 ([RU 2016 1831](https://fedlex.data.admin.ch/eli/oc/2016/326); [FF 2014 277](https://fedlex.data.admin.ch/eli/fga/2014/67)).
 [^113-2]: La correzione della CdR dell’AF del 23 ago. 2016, pubblicata il 13 set. 2016 concerne soltanto il testo francese ([RU 2016 3167](https://fedlex.data.admin.ch/eli/oc/2016/530)).
-[^113-3]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
-[^113-4]: Nuovo testo giusta n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^113-3]: [RS 128](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40013)
+[^113-4]: Nuovo testo giusta l’all. 1 n. 12 della L del 18 dic. 2020 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [FF 2017 2563](https://fedlex.data.admin.ch/eli/fga/2017/647)).
+[^113-5]: Nuovo testo giusta n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
 
 #### Art. 114
 
@@ -2331,7 +2348,7 @@ Non riscuotono emolumenti per:
 
 <sup>4</sup> Per progetti che incidono considerevolmente sulla pianificazione del territorio e sull’ambiente, occorre di regola un piano settoriale secondo la legge federale del 22 giugno 1979[^126-1] sulla pianificazione del territorio.
 
-[^126-1]: [RS 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^126-1]: [RS 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 
 #### Art. 126a
 
@@ -2342,8 +2359,8 @@ Non riscuotono emolumenti per:
 <sup>2</sup> Se sono necessarie espropriazioni, si applicano inoltre le disposizioni della legge federale del 20 giugno 1930[^126a-3] sull’espropriazione (LEspr).
 
 [^126a-1]: Nuovo testo giusta l’all. n. 6 della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4031](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
-[^126a-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
-[^126a-3]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^126a-2]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
+[^126a-3]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 ### Sezione 2: Procedura di approvazione dei piani
 
@@ -2391,9 +2408,9 @@ La domanda di approvazione dei piani va presentata, con la documentazione necess
 
 <sup>3</sup> I Comuni interessati salvaguardano i loro interessi mediante opposizione.
 
-[^126f-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^126f-1]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 [^126f-2]: Nuovo testo giusta l’all. n. 6 della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4031](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
-[^126f-3]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^126f-3]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 [^126f-4]: Nuovo testo giusta l’all. n. 6 della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4031](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
 
 #### Art. 126g
@@ -2402,7 +2419,7 @@ La domanda di approvazione dei piani va presentata, con la documentazione necess
 
 La procedura di eliminazione delle divergenze nell’amministrazione federale è disciplinata dall’articolo 62*b* della legge federale del 21 marzo 1997[^126g-1] sull’organizzazione del Governo e dell’Amministrazione.
 
-[^126g-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^126g-1]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 #### Art. 127
 
@@ -2440,7 +2457,7 @@ La procedura semplificata di approvazione dei piani è applicata a:
 
 <sup>2</sup> La procedura semplificata d’approvazione dei piani si applica per analogia. Occorre tener conto dell’interesse a mantenere il segreto.
 
-[^128a-1]: [RS 510.518](https://fedlex.data.admin.ch/eli/cc/1950/1474_1519_1485)
+[^128a-1]: [RS 510.518](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7325)
 [^128a-2]: Nuovo testo giusta il n. I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 
 ### Sezione 3: Procedura di conciliazione e di stima; immissione in possesso anticipata
@@ -2457,7 +2474,7 @@ La procedura semplificata di approvazione dei piani è applicata a:
 
 <sup>3</sup> Il presidente della Commissione di stima può, sulla base di una decisione esecutiva d’approvazione dei piani, autorizzare l’immissione in possesso anticipata. Si presume che, senza l’immissione in possesso anticipata, l’espropriante subirebbe un significativo pregiudizio. Per il rimanente si applica l’articolo 76 LEspr.
 
-[^129-1]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^129-1]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 [^129-2]: Nuovo testo giusta l’all. n. 6 della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4031](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
 [^129-3]: Abrogato dall’all. n. 6 della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4031](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
 
@@ -2534,7 +2551,7 @@ I Comuni mettono gratuitamente a disposizione:
 
 <sup>3</sup> Il DDPS emana prescrizioni sull’ubicazione, la costruzione e l’esercizio degli impianti per il tiro fuori del servizio, come pure sulle installazioni a carico delle società di tiro. Tiene conto delle esigenze di sicurezza, di protezione dell’ambiente e di protezione della natura e del paesaggio.
 
-[^133-1]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^133-1]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 #### Art. 134
 
@@ -2615,7 +2632,7 @@ Risarcito il danno, la Confederazione ha diritto di regresso contro i militari c
 
 <sup>3</sup> Nello stabilire le indennità che devono essere versate dalle formazioni è tenuto inoltre equamente conto del genere del servizio e delle circostanze particolari.
 
-[^141-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^141-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 142
 
@@ -2630,7 +2647,7 @@ Risarcito il danno, la Confederazione ha diritto di regresso contro i militari c
 <sup>4</sup> Le decisioni di queste autorità possono essere impugnate mediante ricorso al Tribunale amministrativo federale.[^142-3]
 
 [^142-1]: Nuovo testo giusta il n. I della LF del 4 ott. 2002, in vigore dal 1° gen. 2004 ([RU 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
-[^142-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^142-2]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 [^142-3]: Nuovo testo giusta il n. I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
 
 #### Art. 143
@@ -2646,7 +2663,7 @@ Risarcito il danno, la Confederazione ha diritto di regresso contro i militari c
 <sup>4</sup> Il diritto di regresso della Confederazione contro un militare si prescrive in tre anni dal riconoscimento o dall’accertamento con forza di giudicato della responsabilità della Confederazione, ma comunque in dieci anni o, in caso di morte di una persona o di lesione corporale, in 20 anni dal giorno in cui il fatto dannoso è stato commesso o è cessato.
 
 [^143-1]: Nuovo testo giusta l’all. n. 6 della LF del 15 giu. 2018 (Revisione della disciplina della prescrizione), in vigore dal 1° gen. 2020 ([RU 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [FF 2014 211](https://fedlex.data.admin.ch/eli/fga/2014/65)).
-[^143-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^143-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### Capitolo 6: Chiamate in servizio, differimenti, dispense e congedi
 
@@ -2688,7 +2705,7 @@ Per l’adempimento di compiti importanti nei settori civili della Rete integrat
 Il trattamento di dati personali nei sistemi d’informazione e nell’ambito dell’impiego di mezzi di sorveglianza dell’esercito e dell’amministrazione militare è disciplinato nella legge federale del 3 ottobre 2008[^146-2] sui sistemi d’informazione militari e su altri sistemi d’informazione nel DDPS.
 
 [^146-1]: Nuovo testo giusta l’all. n. 1 della LF del 17 giu. 2022, in vigore dal 1° set. 2023 ([RU 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
-[^146-2]: [RS 510.91](https://fedlex.data.admin.ch/eli/cc/2009/823)
+[^146-2]: [RS 510.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7377)
 
 #### Art. 146a
 
@@ -2770,9 +2787,9 @@ Il Consiglio federale può mettere a disposizione installazioni e materiale dell
 
 <sup>3</sup> Può autorizzare il DDPS ad emanare prescrizioni destinate a garantire la tutela del segreto militare.
 
-<sup>4</sup> Può concludere con altri Stati convenzioni destinate a garantire la tutela del segreto militare.[^150-1]
+<sup>4</sup> ...[^150-1]
 
-[^150-1]: Introdotto dal n. I della LF del 4 ott. 2002, in vigore dal 1° gen. 2004 ([RU 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
+[^150-1]: Introdotto dal n. I della LF del 4 ott. 2002 ([RU 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)). Abrogato dall’all. 1 n. 12 della L del 18 dic. 2020 sulla sicurezza delle informazioni, con effetto dal 1° gen. 2024 ([RU 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [FF 2017 2563](https://fedlex.data.admin.ch/eli/fga/2017/647)).
 
 #### Art. 150a
 
@@ -2809,7 +2826,7 @@ Nel suddetto periodo il Consiglio federale può, per motivi imperativi, derogare
 <sup>3</sup> Per il suddetto periodo il Consiglio federale disciplina, mediante ordinanza, l’istruzione e l’organizzazione dell’esercito nonché la collaborazione e il coordinamento dell’esercito con gli altri attori della Rete integrata Svizzera per la sicurezza.
 
 [^151-1]: Nuovo testo giusta il n. I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^151-2]: [RS 513.1](https://fedlex.data.admin.ch/eli/cc/2017/217); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)
+[^151-2]: [RS 513.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7452); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)
 
 #### Art. 152
 
@@ -2837,7 +2854,7 @@ Appendice
 
 [^annexu1-lvlu1-lvl7-1]
 
-[^annexu1-lvlu1-lvl7-1]: [CS **5** 3; [RU 1948 365](https://fedlex.data.admin.ch/eli/oc/1948/425_417_365); [1949 1525](https://fedlex.data.admin.ch/eli/oc/1949/1491_1595_1525)art. 1 a 3, 5 lett. a a d; **1952** 339, 346 art. 2; **1959** 2125 art. 48 cpv. 2 lett. d**; 1961** 241**;** **1968** 74 n. I, III**;** **1970** 46; **1972** 1069 art. 15 n; **1975**; **1979** 114 art. 72 lett; **1984** 1; **1990** 1; **1991** 857 all. n. 10, 1412; **1992** 288 all. n. 20, 2392 n. I 2, 2521 art. 55 n. 3; **1993** 901 all. n. 5, 3043 all. n. 2; **1994** 1622 art. 22 cpv. 2]
+[^annexu1-lvlu1-lvl7-1]: [CS **5** 3; [RU 1948 365](https://fedlex.data.admin.ch/eli/oc/1948/425_417_365); [1949 1525](https://fedlex.data.admin.ch/eli/oc/1949/1491_1595_1525)art. 1 a 3, 5 lett. a a d; **1952** 339, 346 art. 2; **1959** 2125 art. 48 cpv. 2 lett. d; **1961** 241; **1968** 74 n. I, III**;** **1970** 46; **1972** 1069 art. 15 n; **1975**; **1979** 114 art. 72 lett; **1984** 1; **1990** 1; **1991** 857 all. n. 10, 1412; **1992** 288 all. n. 20, 2392 n. I 2, 2521 art. 55 n. 3; **1993** 901 all. n. 5, 3043 all. n. 2; **1994** 1622 art. 22 cpv. 2]
 
 Abrogata
 
