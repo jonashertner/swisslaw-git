@@ -1,45 +1,198 @@
 ---
 canton: OW
 number: "641.421"
-title: Ausführungsbestimmungen über die Digitalisierung von Steuerakten
+title: Ausführungsbestimmungen über die Digitalisierung des Steuerverfahrens
 language: de
-version: 2016-01-01
-valid_until: 2023-12-31
-version_adopted: 2015-12-01
+version: 2024-01-01
+valid_until: 2025-12-31
+version_adopted: 2023-12-05
 adopted: 2023-12-05
 in_force: 2024-01-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/641.421"
-pdf: "http://gdb.ow.ch/api/de/versions/1021/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1843/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Ausführungsbestimmungen über die Digitalisierung von Steuerakten
+# Ausführungsbestimmungen über die Digitalisierung des Steuerverfahrens
 
-vom 01.12.2015 (Stand 01.01.2016)
+vom 05.12.2023 (Stand 01.01.2024)
 
 Der Regierungsrat des Kantons Obwalden,
 
-gestützt auf Artikel 189a des Steuergesetzes vom 30. Oktober 1994[^ingress-1] und Artikel 65 Absatz 2 des Staatsverwaltungsgesetzes vom 8. Juni 1997[^ingress-2],
+gestützt auf Artikel 189a sowie Artikel 190a des Steuergesetzes vom 30. Oktober 1994[^ingress-1] und Artikel 65 Absatz 2 des Staatsverwaltungsgesetzes vom 8. Juni 1997[^ingress-2],
 
 beschliesst:
 
 [^ingress-1]: StG, GDB [641.4](http://gdb.ow.ch/data/641.4/de)
 [^ingress-2]: GDB [130.1](http://gdb.ow.ch/data/130.1/de)
 
+## 1. Allgemeine Bestimmung
+
 #### Art. 1
+
+**Gegenstand**
+
+<sup>1</sup> Diese Ausführungsbestimmungen regeln:
+
+- a. die Organisation, den Betrieb und die Nutzung des elektronischen Kundenportals der Steuerverwaltung;
+- b. die elektronische Einreichung der Steuererklärung;
+- c. die Bearbeitung der elektronischen Daten.
+
+## 2. Kundenportal
+
+#### Art. 2
+
+**Zweck des Kundenportals**
+
+<sup>1</sup> Die Steuerverwaltung betreibt für die elektronische Geschäftsabwicklung mit den Steuerpflichtigen ein Kundenportal.
+
+#### Art. 3
+
+**Registrierung**
+
+<sup>1</sup> Die Nutzung des Kundenportals setzt die Eröffnung eines Benutzerkontos voraus. Dazu müssen folgende Daten angegeben werden:
+
+- a. Vorname und Name;
+- b. Geburtsdatum;
+- c. Persönliche Identifikationsnummer (PID);
+- d. E-Mail Adresse;
+- e. Mobiltelefonnummer.
+
+<sup>2</sup> Nach der Verifizierung der E-Mail-Adresse und der Mobiltelefonnummer erfolgt der Zugriff auf das Kundenportal mittels eines persönlichen Passworts, dessen Anforderungen von der Steuerverwaltung festgelegt werden.
+
+<sup>3</sup> Mit der Registrierung im Kundenportal kann die Steuererklärung elektronisch eingereicht oder die Frist zur Einreichung der Steuererklärung verlängert werden.
+
+#### Art. 4
+
+**Steuerkonto**
+
+<sup>1</sup> Im Kundenportal kann die Aktivierung des Steuerkontos beantragt werden. Nach Zustimmung zu den Nutzungsbedingungen wird dem bzw. der Steuerpflichtigen ein Aktivierungscode zugesandt. Der Versand erfolgt mit A-Post Plus an den Wohn- resp. Hauptsitz des oder der Steuerpflichtigen.
+
+<sup>2</sup> Mit dem Steuerkonto können im Kundenportal persönliche Steuerdaten und Steuerdokumente eingesehen werden und es kann mit der Steuerverwaltung verschlüsselt kommuniziert werden.
+
+<sup>3</sup> Das Steuerkonto wird nach erfolgreicher Eingabe des Aktivierungscodes im Kundenportal freigeschaltet. Der Zugriff erfolgt über eine zweistufige Authentisierung.
+
+<sup>4</sup> Wer sich so legitimiert, gilt gegenüber der Steuerverwaltung als zur Benutzung des Steuerkontos berechtigter Nutzer oder berechtigte Nutzerin.
+
+#### Art. 5
+
+**Ermächtigung**
+
+<sup>1</sup> Der Inhaber oder die Inhaberin des Steuerkontos kann weitere Personen für das Steuerkonto ermächtigen.
+
+<sup>2</sup> Ermächtige Personen müssen sich auf dem Kundenportal registrieren.
+
+<sup>3</sup> Ermächtigte Personen gelten bis zum Widerruf im Steuerkonto als zur Benutzung des Steuerkontos berechtigt.
+
+<sup>4</sup> Handlungen ermächtigter Personen werden dem oder der Steuerpflichtigen angerechnet.
+
+#### Art. 6
+
+**Speicherung von Daten**
+
+<sup>1</sup> Im Kundenportal werden die notwendigen Daten für die Identifikation der steuerpflichtigen Personen und ihrer ermächtigten Personen sowie Daten ihrer persönlichen Einstellungen gespeichert. Dies betrifft insbesondere: Vornamen, Namen, E-Mailadresse, Mobiltelefonnummer, Verknüpfungen zur ermächtigten Person sowie persönliche Einstellungen im Benutzerprofil zur Kommunikations- und Notifikationsart.
+
+<sup>2</sup> Im Kundenportal werden keine Steuerdaten gespeichert.
+
+## 3. Elektronische Kommunikation
+
+#### Art. 7
+
+**Zustellungsart und Benachrichtigung**
+
+<sup>1</sup> Nutzer und Nutzerinnen des Kundenportals mit aktiviertem Steuerkonto können im Kundenportal die Zustellungsart der Steuerdokumente durch die Steuerverwaltung wählen. Die Zustellung der Dokumente kann elektronisch in das Kundenportal oder mittels Briefpost erfolgen.
+
+<sup>2</sup> Bei elektronischer Zustellung der Dokumente, kann die Art der elektronischen Benachrichtigung (SMS oder E-Mail) gewählt werden.
+
+<sup>3</sup> Bei Zustellung per Briefpost erfolgt keine zusätzliche elektronische Benachrichtigung.
+
+#### Art. 8
+
+**Zeitpunkt der Zustellung**
+
+<sup>1</sup> Bei elektronischer Zustellung in das Kundenportal gelten die Dokumente an dem Tag als zugestellt, an welchem der Nutzer oder die Nutzerin über die Zustellung per SMS oder E-Mail benachrichtigt wird.
+
+#### Art. 9
+
+**Weitere Rechte und Pflichten**
+
+<sup>1</sup> Die Einzelheiten zur Nutzung des Kundenportals werden in den Nutzungsbedingungen geregelt.
+
+#### Art. 10
+
+**Deaktivierung des Kundenportals**
+
+<sup>1</sup> Bei Verstössen gegen die Nutzungsbedingungen kann die Steuerverwaltung den Nutzer oder die Nutzerin nach entsprechender Vorankündigung vom Kundenportal ausschliessen und eine Reaktivierung verhindern.
+
+## 4. Elektronische Einreichung der Steuererklärung
+
+#### Art. 11
+
+**Steuerdeklarationslösungen**
+
+<sup>1</sup> Die Steuerpflichtigen, die ihre Steuererklärung auf elektronischem Weg einreichen, müssen eine der folgenden Lösungen verwenden:
+
+- a. die von der Steuerverwaltung zur Verfügung gestellte webbasierte Steuerdeklarationslösung im Kundenportal;
+- b. von der Steuerverwaltung bezeichnete Anwendungen.
+
+#### Art. 12
+
+**Authentisierung**
+
+<sup>1</sup> Die Steuerpflichtigen werden durch Zustellung einer Mitteilung zur elektronischen Einreichung der Steuererklärung aufgefordert. Die Mitteilung enthält den Identifikations-Code, mit welchem sich die Steuerpflichtigen für die webbasierte Steuerdeklarationslösung registrieren und ihre Identität bestätigen.
+
+<sup>2</sup> Für Steuerpflichtige mit einem aktivierten Steuerkonto erfolgt die Mitteilung zur elektronischen Einreichung der Steuererklärung gemäss Art. 7 dieser Ausführungsbestimmungen. Die Identität ergibt sich durch die Anmeldung im Steuerkonto.
+
+<sup>3</sup> Für die Einreichung der Steuererklärung, die mit einer Steuerdeklarationslösung gemäss Art. 11 Bst. b dieser Ausführungsbestimmungen erstellt wurde, bescheinigen die Steuerpflichtigen ihre Identität während des Übermittlungsvorgangs mit dem persönlichen Identifikations-Code.
+
+#### Art. 13
+
+**Einreichefrist**
+
+<sup>1</sup> Die Steuererklärung gilt, vorbehältlich der nachfolgenden Bestimmungen, mit dem Erhalt der Übermittlungsquittung als eingereicht.
+
+<sup>2</sup> Die Bestimmungen über die verspätete Einreichung und die Fristerstreckung für die per Post eingereichte Steuererklärung gelten auch für die elektronisch eingereichte Steuererklärung.
+
+<sup>3</sup> Sofern von der Möglichkeit einer Freigabequittung Gebrauch gemacht wird, gilt der Eingang der von der steuerpflichtigen Person unterzeichneten Freigabequittung bei der Steuerverwaltung als Einreichezeitpunkt. Die Steuerverwaltung hat auf die Steuererklärung erst Zugriff, wenn die Freigabequittung bei ihr eingetroffen ist.
+
+#### Art. 14
+
+**Übermittlung und Übermittlungsquittung**
+
+<sup>1</sup> Nach Übermittlung der Steuererklärung erhalten die Steuerpflichtigen umgehend eine Meldung im Kundenportal. Darin ist ersichtlich, ob die Übermittlung erfolgreich war oder nicht. Die Übermittlungsquittung ist durch die Steuerpflichtigen zu kontrollieren.
+
+<sup>2</sup> Ist die Übermittlung fehlgeschlagen, gilt die Einreichefrist als gewahrt, wenn die Steuererklärung innert fünf Arbeitstagen nach dem Übermittlungsversuch in Papierform eingereicht wird.
+
+#### Art. 15
+
+**Korrektur der Steuererklärung**
+
+<sup>1</sup> Nach der erfolgreichen Übermittlung haben die Steuerpflichtigen 72 Stunden Zeit, um ihre Steuererklärung zu korrigieren. Als Einreichezeitpunkt gilt auch in diesem Fall der Zeitpunkt der erstmaligen Übermittlung gemäss der Übermittlungsquittung.
+
+#### Art. 16
+
+**Datenhaltung und Entschlüsselung**
+
+<sup>1</sup> Die von den Steuerpflichtigen übermittelten Daten werden während 72 Stunden nach der ersten elektronischen Übermittlung (Korrekturfrist) verschlüsselt auf einem kantonalen Server aufbewahrt.
+
+<sup>2</sup> Nach Ablauf dieser Frist werden die Daten entschlüsselt und an die Steuerverwaltung weitergeleitet.
+
+## 5. Datenbearbeitung
+
+#### Art. 17
 
 **Digitalisierung von Steuerakten a. Grundsatz**
 
-<sup>1</sup> Steuererklärungen und Veranlagungsakten natürlicher und juristischer Personen (Hilfsblätter, Auflagen, interne und externe Meldungen, Aktennotizen usw.) werden zum Zwecke der elektronischen Verarbeitung und zur Aufbewahrung digitalisiert, d. h. in die elektronische Form konvertiert.
+<sup>1</sup> Steuererklärungen und Veranlagungsakten (Hilfsblätter, Auflagen, interne und externe Meldungen, Aktennotizen usw.) werden zum Zwecke der elektronischen Verarbeitung und zur Aufbewahrung digitalisiert, d. h. in die elektronische Form konvertiert.
 
-<sup>2</sup> Zu den Steuerakten gehören auch die Akten aus dem Verfahren zur Schätzung von Liegenschaften.
+<sup>2</sup> Zu den Steuerakten gehören auch die Akten aus dem Verfahren zur Schätzung von Grundstücken.
 
 <sup>3</sup> Werden Steuerakten in elektronischer Form eingereicht, werden nur die noch nicht elektronisch vorhandenen Dokumente digitalisiert.
 
-<sup>4</sup> Die Digitalisierung erfolgt in der Regel nach rechtskräftigem Abschluss des Verfahrens.
+<sup>4</sup> Die Digitalisierung erfolgt grundsätzlich direkt nach dem Eingang bei der Steuerverwaltung, spätestens nach rechtskräftigem Abschluss des Verfahrens.
 
-#### Art. 2
+#### Art. 18
 
 **b. Anforderungen**
 
@@ -53,21 +206,7 @@ beschliesst:
 
 <sup>2</sup> Die Dokumentation und das Protokoll des Digitalisierungsverfahrens sind so lange wie die digitalisierten Steuerakten aufzubewahren.
 
-#### Art. 3
-
-**c. Auslagerung an Dritte**
-
-<sup>1</sup> Die Digitalisierung der Steuerakten kann unter den Voraussetzungen von Art. 189a Abs. 3 des Steuergesetzes durch die kantonale Steuerverwaltung an Dritte ausgelagert werden.
-
-<sup>2</sup> Dabei ist zudem sicherzustellen, dass:
-
-- a. der beauftragte Dritte schriftlich gewährleistet, dass die Datenschutzgesetzgebung und das Amts- und das Steuergeheimnis eingehalten wird;
-- b. die Originalakten zu keiner Zeit die Schweiz verlassen;
-- c. Steuerakten nur so lange wie notwendig ausgehändigt werden.
-
-<sup>3</sup> Nach Überführung der elektronischen Steuerakten in das Informatiksystem der Steuerverwaltung sind sämtliche elektronischen Steuerakten auf den Systemen des Dritten vollständig zu löschen. Die Steuerverwaltung bestimmt den Zeitpunkt der Löschung.
-
-#### Art. 4
+#### Art. 19
 
 **Datenhaltung**
 
@@ -77,18 +216,18 @@ beschliesst:
 - b. die digitalisierten Steuerakten grundsätzlich nicht verändert oder gelöscht werden können;
 - c. allfällige Löschungen oder Veränderungen protokolliert werden und gelöschte oder veränderte Daten wiederhergestellt werden können;
 - d. der Zugriff auf digitalisierte Steuerakten protokolliert wird;
-- e. die Les- und Druckbarkeit der digitalisierten Steuerakten bis Ablauf der Aufbewahrungsfrist gewährleistet ist;
+- e. die Lese- und Druckbarkeit der digitalisierten Steuerakten bis zum Ablauf der Aufbewahrungsfrist gewährleistet ist;
 - f. das Staatsarchiv die Daten übernehmen kann.
 
 <sup>2</sup> Die digitalisierten Steuerakten müssen zu jedem Zeitpunkt in der Schweiz verbleiben.
 
 <sup>3</sup> Die Aufbewahrungsdauer der elektronischen Steuerakten richtet sich nach Art. 189a Abs. 4 StG. Vor Löschung der elektronischen Steuerakten sind diese dem Staatsarchiv anzubieten.
 
-#### Art. 5
+#### Art. 20
 
 **Datenzugriff**
 
-<sup>1</sup> Das Informationssystem der Steuerverwaltung ist vor unberechtigtem Zugriff zu schützen.
+<sup>1</sup> Das Administrationssystem der Steuerverwaltung ist vor unberechtigtem Zugriff zu schützen. Die Steuerverwaltung definiert den Schutzbedarf für die Daten, welche im Bearbeitungsprozess im Kundenportal erzeugt, angezeigt oder übertragen werden.
 
 <sup>2</sup> Mitarbeiter und Mitarbeiterinnen der Steuerverwaltung haben Zugriff auf diejenigen Daten, welche sie zur Erfüllung ihrer Aufgaben benötigen.
 
@@ -96,15 +235,23 @@ beschliesst:
 
 <sup>4</sup> Der Datenzugriff im Rahmen der Amtshilfe richtet sich nach Art. 179b Abs. 2 bis 4 StG.
 
-#### Art. 6
+#### Art. 21
 
-**Akteneinsicht**
+**Dateneinsicht**
 
-<sup>1</sup> Steuerpflichtige oder bevollmächtigten Vertretern können im Beisein eines Mitarbeiters oder einer Mitarbeiterin der Steuerverwaltung Einblick in deren digitalisierten Steuerakten nehmen.
+<sup>1</sup> Steuerpflichtige und bevollmächtige Vertreter können im Beisein eines Mitarbeiters oder einer Mitarbeiterin der Steuerverwaltung Einblick in ihre digitalisierten Steuerakten nehmen.
 
-<sup>2</sup> Für einen Ausdruck der digitalisierten Steuerakten ist eine Gebühr von Fr. 0.10 pro gedruckter Seite zu entrichten.
+<sup>2</sup> Für einen Ausdruck der digitalisierten Steuerakten ist eine Gebühr von Fr. 0.10 pro gedruckte Seite zu entrichten.
 
-#### Art. 7
+#### Art. 22
+
+**Automatisierte Einzelentscheide**
+
+<sup>1</sup> Die Steuerverwaltung kann Veranlagungsverfügungen als automatisierte Einzelentscheidungen nach Art. 21 des Bundesgesetzes über den Datenschutz (DSG)[^22-1] erlassen.
+
+[^22-1]: SR [235.1](https://db.clex.ch/link/Bund/235.1/de)
+
+#### Art. 23
 
 **Vernichtung von Papierakten**
 
@@ -114,10 +261,27 @@ beschliesst:
 
 <sup>3</sup> Vor der Vernichtung der Papierakten muss sichergestellt sein, dass diese vollständig digitalisiert wurden. Die Papierakten müssen dem Staatsarchiv nicht angeboten werden, soweit eine Übernahme der elektronischen Daten durch das Staatsarchiv gewährleistet wird.
 
-#### Art. 8
+#### Art. 24
 
 **Zuständigkeit**
 
-<sup>1</sup> Für die Vernichtung der Papierakten ist die Steuerverwaltung zuständig. Diese kann Dritte mit der Vernichtung beauftragen, wobei Art. 3 dieser Ausführungsbestimmungen sinngemäss gilt.
+<sup>1</sup> Für die Vernichtung der Papierakten ist die Steuerverwaltung zuständig. Diese kann Dritte mit der Vernichtung beauftragen.
 
-OGS 2016, 68
+<sup>2</sup> Dabei ist sicherzustellen, dass:
+
+- a. der beauftragte Dritte schriftlich gewährleistet, dass die Datenschutzgesetzgebung und das Amts- und das Steuergeheimnis eingehalten wird;
+- b. die Originalakten zu keiner Zeit die Schweiz verlassen.
+
+**Informationen zum Erlass**
+
+Ursprüngliche Fundstelle: OGS 2023, 37
+
+Ursprüngliches Inkrafttreten: 1. Januar 2024
+
+Aufgehobene Erlasse:
+
+\- Ausführungsbestimmungen über die Digitalisierung von Steuerakten vom 1. Dezember 2015 (OGS 2016, 68)
+
+\- Ausführungsbestimmungen über die elektronische Einreichung der Steuererklärung vom 5. Dezember 2017 (OGS 2017, 60, OGS 2021, 49)
+
+OGS 2023, 37
