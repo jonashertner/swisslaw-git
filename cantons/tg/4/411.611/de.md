@@ -4,13 +4,13 @@ number: "411.611"
 title: Verordnung zum Gesetz über Beitragsleistungen an die Schulgemeinden
 short: Beitragsverordnung
 language: de
-version: 2023-01-01
-valid_until: 2023-12-31
-version_adopted: 2022-12-20
+version: 2024-01-01
+valid_until: 2024-12-31
+version_adopted: 2023-12-12
 adopted: 2010-09-28
 in_force: 2011-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/411.611"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2617/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2731/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Beitragsverordnung
 
 (Beitragsverordnung)
 
-vom 28.09.2010 (Stand 01.01.2023)
+vom 28.09.2010 (Stand 01.01.2024)
 
 ## 1. Beiträge an den Besoldungsaufwand
 
@@ -35,7 +35,7 @@ vom 28.09.2010 (Stand 01.01.2023)
 
 <sup>2</sup> Der Regierungsrat legt die durchschnittliche Lehrerbesoldung pro Lektion jährlich fest.
 
-<sup>3</sup> Die durchschnittliche Lehrerbesoldung pro Lektion erhöht sich um 19.8 % zur Deckung der Besoldungsnebenkosten und um weitere 2 % zur Finanzierung der Stellvertretung.
+<sup>3</sup> Die durchschnittliche Lehrerbesoldung pro Lektion erhöht sich um 19.6 % zur Deckung der Besoldungsnebenkosten und um weitere 2 % zur Finanzierung der Stellvertretung.
 
 #### § 2
 
@@ -51,7 +51,7 @@ vom 28.09.2010 (Stand 01.01.2023)
 
 - 1\. Kindergarten: — 1.67
 - 2\. Primarschule: — 1.72
-- 3\. Sekundarschule: — 2.10
+- 3\. Sekundarschule: — 2.11
 
 #### § 3
 
