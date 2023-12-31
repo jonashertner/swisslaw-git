@@ -4,11 +4,11 @@ title: "Ordonnance du 23 octobre 2013 sur les systèmes d'information dans le do
 short: OSIAgr
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/733"
 language: fr
-version: 2022-06-01
+version: 2024-01-01
 adopted: 2013-10-23
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/733/20220601/fr/xml/fedlex-data-admin-ch-eli-cc-2013-733-20220601-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/733/20220601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/733/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2013-733-20240101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/733/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,17 +17,18 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/733/20220601/fr"
 
 (OSIAgr)
 
-du 23 octobre 2013 (Etat le 1<sup>er</sup> juin 2022)
+du 23 octobre 2013 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
-vu les art. 165*c*, al. 3, let. d, 165*g*, 177, al. 1, 181, al. 1<sup>bis</sup>, et 185, al. 2, de la loi du 29 avril 1998 sur l’agriculture (LAgr)[^ingress-1], vu l’art. 25 de la loi du 9 octobre 1992 sur la statistique fédérale[^ingress-2] vu l’art. 54*a* de la loi du 1<sup>er</sup> juillet 1966 sur les épizooties[^ingress-3],
+vu les art. 164*a*, al. 2, 164*b*, al. 2, 165*c*, al. 3, let. d, 165*g*, 177, 181, al. 1<sup>bis</sup>, et 185, al. 2, de la loi du 29 avril 1998 sur l’agriculture (LAgr)[^ingress-1], vu l’art. 25 de la loi du 9 octobre 1992 sur la statistique fédérale[^ingress-2], vu l’art. 45*c*, al. 4, de la loi du 1<sup>er</sup> juillet 1966 sur les épizooties[^ingress-3],[^ingress-4]
 
 arrête:
 
 [^ingress-1]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
 [^ingress-2]: [RS 431.01](https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080)
 [^ingress-3]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
+[^ingress-4]: Nouvelle teneur selon le ch. I de l’O du 13 avr. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 265](https://fedlex.data.admin.ch/eli/oc/2022/265)).
 
 ## Section 1 Objet
 
@@ -40,7 +41,8 @@ La présente ordonnance régit le traitement des données dans les systèmes d�
 - a. système d’information pour les données sur les exploitations, les structures et les contributions (art. 165*c* LAgr);
 - b. système d’information pour les données de contrôle (art. 165*d* LAgr);
 - c. système d’information géographique (art. 165*e* LAgr);
-- d. système d’information centralisé relatif aux flux d’éléments fertilisants (art. 165*f* LAgr);
+- d.[^1-1] système central d’information sur la gestion des éléments fertilisants (art. 164*a* et 165*f* LAgr);
+- d<sup>bis</sup>.[^1-2] système central d’information sur l’utilisation de produits phytosanitaires (art. 164*b* et 165*f*<sup>bis</sup> LAgr);
 - e. système d’information sur les projets d’améliorations foncières et de crédits agricoles;
 - f. portail Internet Agate;
 - g. système de soutien à la décision.
@@ -48,6 +50,9 @@ La présente ordonnance régit le traitement des données dans les systèmes d�
 <sup>2</sup> Au surplus, elle règle la façon dont les données visées à l’al. 1 sont acquises et transmises.
 
 <sup>3</sup> On entend par acquisition, le relevé et la saisie des données.
+
+[^1-1]: Nouvelle teneur selon le ch. I de l’O du 13 avr. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 265](https://fedlex.data.admin.ch/eli/oc/2022/265)).
+[^1-2]: Introduite par le ch. I de l’O du 13 avr. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 265](https://fedlex.data.admin.ch/eli/oc/2022/265)).
 
 ## Section 2 Système d’information pour les données sur les exploitations, les structures et les contributions
 
@@ -118,10 +123,12 @@ Les données visées à l’art. 2 peuvent être transmises aux services suivant
 - d. Office fédéral de la douane et de la sécurité des frontières[^5-1];
 - e.[^5-2] …
 - f. Institut suisse des produits thérapeutiques;
-- g. Service d’accréditation suisse.
+- g. Service d’accréditation suisse;
+- h.[^5-3] Office fédéral du service civil.
 
 [^5-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 [^5-2]: Abrogée par l’annexe 2 ch. II 10 de l’O du 15 sept. 2017 sur l’alcool, avec effet au 1<sup>er</sup> janv. 2018 ([RO 2017 5161](https://fedlex.data.admin.ch/eli/oc/2017/568)).
+[^5-3]: Introduite par le ch. I de l’O du 13 avr. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 265](https://fedlex.data.admin.ch/eli/oc/2022/265)).
 
 #### Art. 5a
 
@@ -245,34 +252,132 @@ Le système d’information géographique (SIG) comprend les géodonnées suivan
 [^13-1]: [RS 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
 [^13-2]: Introduit par l’annexe 4 ch. II 11 de l’O du 27 avr. 2022 concernant les systèmes d’information de l’OSAV liés à la chaîne agroalimentaire, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
 
-## Section 5 Système d’information centralisé relatif aux flux d’éléments fertilisants
+## Section 5 Système central d’information sur la gestion des éléments fertilisants et des éléments nutritifs
+
+[^sec5-1]
+
+[^sec5-1]: Nouvelle teneur selon le ch. I de l’O du 13 avr. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 265](https://fedlex.data.admin.ch/eli/oc/2022/265)).
 
 #### Art. 14
 
 **Données**
 
-Le système d’information centralisé relatif aux flux d’éléments fertilisants (HODUFLU) comprend les données suivantes:
+<sup>1</sup>
 
-- a. informations sur l’exploitant ou sur l’exploitation, visées à l’annexe 1, ch. 1.1 et 1.2;
-- b. contrats portant sur les flux d’éléments fertilisants entre les exploitations;
-- c. données sur les produits et quantités d’éléments fertilisants transférés;
-- d.[^14-1] le cas échéant, indication de l’existence d’une convention passée entre un canton et un exploitant quant à l’utilisation d’aliments appauvris en azote et en phosphore.
+Le système central d’information sur la gestion des éléments fertilisants et des éléments nutritifs (SI GEFEN) contient les données suivantes:
 
-[^14-1]: Introduite par le ch. I de l’O du 31 oct. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4279](https://fedlex.data.admin.ch/eli/oc/2018/684)).
+- a. données sur les engrais, y compris les engrais de ferme et les engrais de recyclage, sur les matières premières d’origine agricole et non agricole acquises par les exploitations prenant en charge et remettant des engrais de ferme et des engrais de recyclage et sur les aliments pour animaux, y compris le fourrage de base, et sur leur utilisation, ainsi que les données sur les entreprises et les personnes qui remettent et prennent en charge de tels produits;
+- b. données sur les entreprises et les personnes qui remettent, transfèrent ou reprennent des engrais contenant de l’azote ou du phosphore au sens de l’art. 24*b*, al. 1, de l’ordonnance du 10 janvier 2001 sur les engrais[^14-1] ou des aliments concentrés pour animaux au sens de l’art. 47*a*, al. 1 et 2, de l’ordonnance du 26 octobre 2011 sur les aliments pour animaux[^14-2], ou qui sont chargées de l’épandage des produits;
+- c. données selon l’annexe 1, ch. 1.1 et 1.2, sur l’exploitant et sur l’exploitation ou, si le produit visé à la let. b est remis à une autre personne, sur l’utilisateur;
+- d. données sur les quantités de produits selon la let. b remises, transférées, reprises ou épandues sur mandat, avec indication pour chacun d’entre eux des quantités d’éléments fertilisants ou d’éléments nutritifs;
+- e. données sur les réserves, à la fin de l’année civile, de chaque produit visé à la let. b chez les personnes visées à la let. c, avec les quantités d’éléments fertilisants ou d’éléments nutritifs concernés;
+- f. données sur la convention passée entre le canton et l’exploitant concernant l’utilisation d’aliments pour animaux à teneur réduite en éléments nutritifs selon l’art. 82*c* de l’ordonnance du 23 octobre 2013 sur les paiements directs (OPD)[^14-3].
+
+<sup>2</sup> Les catégories de données pertinentes sont fixées à l’annexe 3*a*.
+
+[^14-1]: [RS 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)
+[^14-2]: [RS 916.307](https://fedlex.data.admin.ch/eli/cc/2011/772)
+[^14-3]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
 
 #### Art. 15
 
-**Traitement des données**
+**Saisie et transmission des données**
 
-<sup>1</sup> Les données visées à l’art. 14, let. b et c, sont directement saisies et mises à jour par l’exploitant au moyen de l’application en ligne HODUFLU.
+<sup>1</sup> L’OFAG saisit les données de base relatives aux entreprises et aux personnes visées à l’art. 14, al. 1, let. b. Pour ce faire, les entreprises et les personnes doivent s’annoncer à l’avance auprès de l’OFAG.
 
-<sup>2</sup> L’autorité cantonale compétente acquiert, rectifie ou complète les données visées à l’art. 14, let. a et c, dans le cadre de sa compétence d’exécution.
+<sup>2</sup>
+
+Les entreprises et les personnes visées à l’art. 14, al. 1, let. b, saisissent:
+
+- a. la remise et le transfert de produits selon l’art. 14, al. 1, let. b, à une entreprise, à un utilisateur ou à un exploitant ainsi que la reprise de tels produits par une entreprise ou un exploitant;
+- b. les données visées à l’art. 14, al. 1, let. d, relatives à chaque produit pour chaque remise, transfert ou reprise.
+
+<sup>3</sup> Les entreprises et les personnes qui remettent des engrais de ferme et des engrais de recyclage saisissent chaque prise en charge de matières premières d’origine agricole; dans le cas des matières premières d’origine non agricole, il suffit d’indiquer la quantité annuelle totale.
+
+<sup>4</sup> Les exploitants et les utilisateurs visés à l’art. 14, al. 1, let. c, saisissent les données sur les réserves visées à l’art. 14, al. 1, let. e.
+
+<sup>5</sup>
+
+Pour la saisie des données visées aux al. 2 à 4, les possibilités suivantes existent:
+
+- a. saisie directe dans le SI GEFEN;
+- b. saisie par l’intermédiaire d’une interface pour le transfert de données dans le SI GEFEN, ou
+- c. saisie dans une application mise à disposition par un fournisseur privé ou par un canton.
+
+<sup>6</sup> L’OFAG définit l’interface pour la transmission de données selon l’al. 5, let. b et c, au SI GEFEN.
+
+<sup>7</sup> Les corrections de données doivent être effectuées par les entreprises et les personnes visées aux al. 2 à 4.
+
+<sup>8</sup> La saisie des données visées aux al. 2 à 4 et la correction des données selon l’al. 7 pour une année civile doivent être achevées au plus tard le 31 janvier de l’année suivante.
+
+<sup>9</sup> L’autorité cantonale compétente peut saisir, corriger ou compléter les données visées à l’art. 14, al. 1, let. c, d et e, relatives à une année civile jusqu’à la fin du mois de mars de l’année suivante.
 
 #### Art. 16
 
-**Lien avec d’autres systèmes d’information**
+**Couplage avec d’autres systèmes d’information**
 
-Les données visées à l’art. 14, let. a, peuvent être obtenues à partir de SIPA.
+Les données visées à l’art. 14, al. 1, let. c et f, peuvent être obtenues à partir du SIPA.
+
+## Section 5*a* Système central d’information sur l’utilisation de produits phytosanitaires
+
+[^sec5a-1]
+
+[^sec5a-1]: Introduite par le ch. I de l’O du 13 avr. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 265](https://fedlex.data.admin.ch/eli/oc/2022/265)).
+
+#### Art. 16a
+
+**Données**
+
+<sup>1</sup>
+
+Le système central d’information sur l’utilisation de produits phytosanitaires (SI PPh) contient les données suivantes:
+
+- a. données sur les entreprises et les personnes qui mettent en circulation des produits phytosanitaires ou des semences traitées avec des produits phytosanitaires selon l’art. 62, al. 1, de l’ordonnance du 12 mai 2010 sur les produits phytosanitaires (OPPh)[^16a-1];
+- b. données selon l’annexe 1, ch. 1.1 et 1.2, sur l’exploitant et sur l’exploitation ou, si le produit est utilisé par une autre personne, sur l’utilisateur;
+- c. données sur les entreprises qui utilisent des produits phytosanitaires ou qui sont chargées de les épandre;
+- d. données sur les produits phytosanitaires mis en circulation ou sur les semences traitées avec des produits phytosanitaires selon l’art. 62, al. 1, OPPh;
+- e. données sur chaque utilisation professionnelle de produits phytosanitaires conformément à l’art. 62, al. 1<sup>bis</sup>, OPPh, c’est-à-dire sur chaque cas concret de traitement (application).
+
+<sup>2</sup> Les catégories de données pertinentes sont fixées à l’annexe 3*b*.
+
+[^16a-1]: [RS 916.161](https://fedlex.data.admin.ch/eli/cc/2010/340)
+
+#### Art. 16b
+
+**Saisie et transmission des données**
+
+<sup>1</sup> L’OFAG saisit les données de base relatives aux entreprises et aux personnes visées à l’art. 16*a*, al. 1, let. a. Pour ce faire, les entreprises et les personnes doivent s’annoncer à l’avance auprès de l’OFAG.
+
+<sup>2</sup>
+
+Les entreprises et les personnes visées à l’art. 16*a*, al. 1, let. a, saisissent:
+
+- a. la remise de produits phytosanitaires ou de semences traitées avec des produits phytosanitaires à une entreprise, à un exploitant ou à un autre utilisateur;
+- b. les données sur les produits phytosanitaires remis ou sur les semences traitées avec des produits phytosanitaires visées à l’art. 16*a*, al. 1, let. d.
+
+<sup>3</sup> Les entreprises et les personnes qui chargent une autre personne d’épandre des produits phytosanitaires selon l’art. 16*a*, al. 1, let. c, saisissent les données sur l’utilisateur mandaté dans le SI PPh.
+
+<sup>4</sup> Les entreprises, les exploitants et les autres utilisateurs selon l’art. 16*a*, al. 1, let. b et c, saisissent les données sur les produits phytosanitaires selon l’art. 16*a*, al. 1, let. e, qu’ils ont utilisés à titre professionnel.
+
+<sup>5</sup>
+
+Pour la saisie des données visées aux al. 2 à 4, les possibilités suivantes existent:
+
+- a. saisie directe dans le SI PPh;
+- b. saisie par l’intermédiaire d’une interface pour le transfert de données dans le SI PPh, ou
+- c. saisie dans une application mise à disposition par un fournisseur privé ou par un canton.
+
+<sup>6</sup> L’OFAG définit l’interface pour la transmission de données selon l’al. 5, let. b et c, au SI PPh.
+
+<sup>7</sup> Les corrections de données doivent être effectuées par les entreprises et les personnes visées aux al. 2 à 4.
+
+<sup>8</sup> La saisie des données visées aux al. 2 à 4 et la correction des données selon l’al. 7 pour une année civile doivent être achevées au plus tard le 31 janvier de l’année suivante.
+
+#### Art. 16c
+
+**Couplage avec d’autres systèmes d’information**
+
+Les données visées à l’art. 16*a*, al. 1, let. b, peuvent être obtenues à partir du SIPA.
 
 ## Section 6 Autres systèmes d’information
 
@@ -420,9 +525,10 @@ En accord avec les offices fédéraux concernés, l’OFAG émet des instruction
 
 <sup>1</sup> La Confédération développe, en collaboration avec les cantons, les systèmes d’informations mentionnés à l’art. 1 et en assume la responsabilité métier.
 
-<sup>2</sup> Le fournisseur de prestations informatiques du Département fédéral de l’économie, de la formation et de la recherche, l’Office fédéral de l’informatique et de la télécommunication et l’Office fédéral de topographie soutiennent l’OFAG et l’Office fédéral de la sécurité alimentaire et des affaires vétérinaires (OSAV) pour ce qui est des exigences techniques liées au développement des systèmes. Ils mettent à disposition l’infrastructure nécessaire et sont responsables de la sécurité de l’exploitation des systèmes d’information et du service de calcul des contributions (SCC) visé à l’art. 114 de l’ordonnance du 23 octobre 2013 sur les paiements directs (OPD)[^26-1].
+<sup>2</sup> Le fournisseur de prestations informatiques du Département fédéral de l’économie, de la formation et de la recherche, l’Office fédéral de l’informatique et de la télécommunication et l’Office fédéral de topographie soutiennent l’OFAG et l’Office fédéral de la sécurité alimentaire et des affaires vétérinaires (OSAV) pour ce qui est des exigences techniques liées au développement des systèmes. Ils mettent à disposition l’infrastructure nécessaire et sont responsables de la sécurité de l’exploitation des systèmes d’information et du service de calcul des contributions (SCC) visé à l’art. 114 OPD[^26-1].[^26-2]
 
 [^26-1]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^26-2]: Nouvelle teneur selon le ch. I de l’O du 13 avr. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 265](https://fedlex.data.admin.ch/eli/oc/2022/265)).
 
 #### Art. 27
 
@@ -430,7 +536,7 @@ En accord avec les offices fédéraux concernés, l’OFAG émet des instruction
 
 <sup>1</sup> L’OFAG peut rendre accessible ou transmettre des données anonymisées au public.
 
-<sup>2</sup> L’OFAG peut transmettre les données visées aux art. 2, 6, let. a à d, 10 et 14 de la présente ordonnance à des hautes écoles en Suisse et à leurs stations de recherche à des fins d’étude et de recherche ainsi que de suivi et d’évaluation au sens de l’art. 185, al. 1<sup>bis</sup> et 1<sup>ter</sup>, LAgr. La transmission de données à des tiers est possible si ces derniers travaillent sous mandat de l’OFAG.[^27-1]
+<sup>2</sup> L’OFAG peut transmettre les données visées aux art. 2, 6, let. a à d, 10, 14 et 16*a* de la présente ordonnance à des hautes écoles en Suisse et à leurs stations de recherche à des fins d’étude et de recherche ainsi que de suivi et d’évaluation au sens de l’art. 185, al. 1<sup>bis</sup> et 1<sup>ter</sup>, LAgr. La transmission de données à des tiers est possible si ces derniers travaillent sur mandat de la Confédération ou de plusieurs cantons.[^27-1]
 
 <sup>3</sup> …[^27-2]
 
@@ -446,12 +552,12 @@ En accord avec les offices fédéraux concernés, l’OFAG émet des instruction
 
 <sup>9</sup>
 
-Il peut, sur demande, rendre accessibles en ligne aux tiers mentionnés ci-dessous les données visées aux art. 2, 6 – à l’exception des données visées à l’art. 6, let. e – et 14, à condition que la personne concernée ait donné son accord:
+Il peut, sur demande, rendre accessibles en ligne aux tiers mentionnés ci-dessous les données visées aux art. 2, 6 (à l’exception des données visées à l’art. 6, let. e), 14 et 16*a*, à condition que la personne concernée ait donné son accord:[^27-10]
 
 - a. les personnes, organisations ou entreprises qui soutiennent les exploitants ou détenteurs d’animaux pour ce qui est de la création de valeur ajoutée pour leurs produits;
-- b. les exploitants d’autres systèmes d’information non accessibles par l’intermédiaire du portail Agate qui fournissent aux exploitants et détenteurs d’animaux un accès électronique aux données qui les concernent et qui les soutiennent ainsi dans le cadre de leur exploitation ou de leur élevage.[^27-10]
+- b. les exploitants d’autres systèmes d’information non accessibles par l’intermédiaire du portail Agate qui fournissent aux exploitants et détenteurs d’animaux un accès électronique aux données qui les concernent et qui les soutiennent ainsi dans le cadre de leur exploitation ou de leur élevage.[^27-11]
 
-[^27-1]: Nouvelle teneur selon le ch. I de l’O du 11 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5759](https://fedlex.data.admin.ch/eli/oc/2020/967)).
+[^27-1]: Nouvelle teneur selon le ch. I de l’O du 13 avr. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 265](https://fedlex.data.admin.ch/eli/oc/2022/265)).
 [^27-2]: Abrogé par le ch. I de l’O du 11 nov. 2020, avec effet au 1<sup>er</sup> janv. 2021 ([RO 2020 5759](https://fedlex.data.admin.ch/eli/oc/2020/967)).
 [^27-3]: Abrogé par le ch. I de l’O du 31 oct. 2018, avec effet au 1<sup>er</sup> janv. 2019 ([RO 2018 4279](https://fedlex.data.admin.ch/eli/oc/2018/684)).
 [^27-4]: Nouvelle teneur selon le ch. I de l’O du 28 oct. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4581](https://fedlex.data.admin.ch/eli/oc/2015/772)).
@@ -460,7 +566,8 @@ Il peut, sur demande, rendre accessibles en ligne aux tiers mentionnés ci-desso
 [^27-7]: [RS 910.19](https://fedlex.data.admin.ch/eli/cc/2011/340)
 [^27-8]: [RS 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
 [^27-9]: Introduit par le ch. I de l’O du 18 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6157](https://fedlex.data.admin.ch/eli/oc/2017/682)).
-[^27-10]: Introduit par le ch. I de l’O du 18 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6157](https://fedlex.data.admin.ch/eli/oc/2017/682)).
+[^27-10]: Nouvelle teneur selon le ch. I de l’O du 13 avr. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 265](https://fedlex.data.admin.ch/eli/oc/2022/265)).
+[^27-11]: Introduit par le ch. I de l’O du 18 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6157](https://fedlex.data.admin.ch/eli/oc/2017/682)).
 
 #### Art. 28
 
@@ -489,7 +596,7 @@ Elles peuvent être conservées au plus:
 
 L’ordonnance du 7 décembre 1998 sur les données agricoles[^29-1] est abrogée.
 
-[^29-1]: [[RO 1999 540](https://fedlex.data.admin.ch/eli/oc/1999/70), [2000 1492](https://fedlex.data.admin.ch/eli/oc/2000/235), [2001 3554](https://fedlex.data.admin.ch/eli/oc/2001/531), [2003 3687](https://fedlex.data.admin.ch/eli/oc/2003/525)annexe ch. II 5 [4963](https://fedlex.data.admin.ch/eli/oc/2003/739), [2006 897](https://fedlex.data.admin.ch/eli/oc/2006/160), [2007 141](https://fedlex.data.admin.ch/eli/oc/2007/33)art. 12 [6443](https://fedlex.data.admin.ch/eli/oc/2007/844), **2****0****08** 3857, [2010 2551](https://fedlex.data.admin.ch/eli/oc/2010/346)[5885](https://fedlex.data.admin.ch/eli/oc/2010/843), **20**[1](https://fedlex.data.admin.ch/eli/oc/2010/1)**1** 5297 annexe 2 ch. 9 5453 annexe 2 ch. II 5, [2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)annexe ch. 3]
+[^29-1]: [[RO 1999 540](https://fedlex.data.admin.ch/eli/oc/1999/70), [2000 1492](https://fedlex.data.admin.ch/eli/oc/2000/235), [2001 3554](https://fedlex.data.admin.ch/eli/oc/2001/531), [2003 3687](https://fedlex.data.admin.ch/eli/oc/2003/525)annexe ch. II 5 [4963](https://fedlex.data.admin.ch/eli/oc/2003/739), [2006 897](https://fedlex.data.admin.ch/eli/oc/2006/160), [2007 141](https://fedlex.data.admin.ch/eli/oc/2007/33)art. 12 [6443](https://fedlex.data.admin.ch/eli/oc/2007/844), [2008 3857](https://fedlex.data.admin.ch/eli/oc/2008/524), [2010 2551](https://fedlex.data.admin.ch/eli/oc/2010/346)[5885](https://fedlex.data.admin.ch/eli/oc/2010/843), [2011 5297](https://fedlex.data.admin.ch/eli/oc/2011/766)annexe 2 ch. 9 [5453](https://fedlex.data.admin.ch/eli/oc/2011/775)annexe 2 ch. II 5, [2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)annexe ch. 3]
 
 #### Art. 30
 
@@ -517,13 +624,13 @@ L’ordonnance du 7 décembre 1998 sur les données agricoles[^29-1] est abrogé
 
 <sup>2</sup> Les art. 17 à 19 entrent en vigueur le 1<sup>er</sup> juillet 2015.
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
-(art. 2, 6, let. a à c, 13, 14, let. a, et 27, al. 5)
+(art. 2, 6, let. a à c, 13, 14, al. 1, let. c, 16*a*, al. 1, let. b, et 27, al. 5)
 
 ## 1. Données sur les exploitations
 
-[^t-1]: Mise à jour par le ch. II de l’O du 28 oct. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4581](https://fedlex.data.admin.ch/eli/oc/2015/772)).
+[^t-1]: Mise à jour par le ch. II de l’O du 28 oct. 2015 ([RO 2015 4581](https://fedlex.data.admin.ch/eli/oc/2015/772)) et le ch. II al. 1 de l’O du 13 avr. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 265](https://fedlex.data.admin.ch/eli/oc/2022/265)).
 
 ### 1.1 Informations sur l’exploitant
 
@@ -589,7 +696,7 @@ Annexe 1*[^t-1]*
 - 3\.2.4 Réductions des contributions en francs avec mention de la base légale de la réduction en vertu de l’OPD
 - 3\.2.5 Demandes de restitution et versements supplémentaires de contributions des années précédentes en francs
 
-Annexe 2*[^t-2]*
+Annexe 2[^t-2]
 
 (art. 6, let. d à f, et 27, al. 5)
 
@@ -597,7 +704,7 @@ Annexe 2*[^t-2]*
 
 [^t-2]: Mise à jour par le ch. II de l’O du 18 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6157](https://fedlex.data.admin.ch/eli/oc/2017/682)).
 
-### 1 Données de base des contrôles relevant du champ d’application de l’OCCEA**** et des ordonnances visées à l’art. 2, al. 4, de l’ordonnance du 16 décembre 2016 sur le plan de contrôle national de la chaîne alimentaire et des objets usuels (OPCN)****
+### 1 Données de base des contrôles relevant du champ d’application de l’OCCEA et des ordonnances visées à l’art. 2, al. 4, de l’ordonnance du 16 décembre 2016 sur le plan de contrôle national de la chaîne alimentaire et des objets usuels (OPCN)
 
 [^annex2-lvlu1-lvl1-1][^annex2-lvlu1-lvl1-2]
 
@@ -617,7 +724,7 @@ Annexe 2*[^t-2]*
 - 2\.1 Manquements constatés avec description et informations complémentaires (ampleur, récidive et degré de gravité)
 - 2\.2 Éléments non contrôlés et non pertinents d’une rubrique de contrôle
 
-### 3 Informations sur les mesures administratives et les procédures pénales relevant du champ d’application de l’OCCEA et sur la production primaire végétale relevant de l’ordonnance du 23 novembre 2005 sur la production primaire****
+### 3 Informations sur les mesures administratives et les procédures pénales relevant du champ d’application de l’OCCEA et sur la production primaire végétale relevant de l’ordonnance du 23 novembre 2005 sur la production primaire
 
 [^annex2-lvlu1-lvl3-1]
 
@@ -626,7 +733,7 @@ Annexe 2*[^t-2]*
 - 3\.1 Mesures administratives générales
 - 3\.2 Réductions des contributions en CHF ou en points et demandes de remboursement des contributions en CHF
 
-Annexe 3*[^t-3]*
+Annexe 3[^t-3]
 
 (art. 10 et 27, al. 5)
 
@@ -666,13 +773,117 @@ Annexe 3*[^t-3]*
 - 3\.4 Données de mensuration officielles et orthophotos de l’Office fédéral de topographie
 - 3\.5 Carte des risques d’érosion
 
-Annexe 4*[^t-4]*
+Annexe 3a[^t-4]
+
+(art. 14, al. 2)
+
+## Données relatives au SI GEFEN
+
+[^t-4]: Introduite par le ch. II al. 2 de l’O du 13 avr. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 265](https://fedlex.data.admin.ch/eli/oc/2022/265)).
+
+### 1 Numéros d’identification des entreprises
+
+- 1\.1 Numéro d’identification (IDE) de l’entreprise qui remet, transfère, reprend ou prend en charge les éléments fertilisants (entité juridique)
+- 1\. 2 Numéro REE de l’entité locale (site)
+
+### 2 Données d’adresse relatives à l’entité juridique et locale
+
+- 2\.1 Nom de l’entreprise
+- 2\.2 Adresse de notification
+- 2\.3 Rue
+- 2\.4 NPA
+- 2\.5 Localité
+- 2\.6 Langue de correspondance
+
+### 3 Données de contact
+
+- 3\.1 Numéro de téléphone
+- 3\.2 Adresse électronique
+
+### 4 Données sur les produits contenant des éléments fertilisants ou des éléments nutritifs
+
+- 4\.1 Engrais, y compris les engrais de ferme et les engrais de recyclage
+- 4\.2 Aliments pour animaux, y compris les fourrages de base
+- 4\.3 Matières premières d’origine agricole
+- 4\.4 Matières premières d’origine non agricole
+
+### 5 Données sur la remise, le transfert, la reprise, la prise en charge et l’utilisation de produits contenant des éléments fertilisants ou des éléments nutritifs, ainsi que leurs réserves
+
+- 5\.1 Remettant et utilisateur
+- 5\.2 Désignation du produit
+- 5\.3 Date de la remise, du transfert, de la reprise, de la prise en charge, del’application
+- 5\.4 Données sur les quantités remises, transférées, reprises ou prises en charge
+- 5\.5 Données sur les quantités d’éléments fertilisants ou d’éléments nutritifs
+- 5\.6 Réserves à la fin de l’année civile
+
+Annexe 3b[^t-5]
+
+(art. 16*a*, al. 2)
+
+## Données relatives au SI PPh
+
+[^t-5]: Introduite par le ch. II al. 2 de l’O du 13 avr. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 265](https://fedlex.data.admin.ch/eli/oc/2022/265)).
+
+### 1 Numéros d’identification
+
+### 1.1 Numéros d’identification des entreprises
+
+- 1\.1.1 Numéro d’identification (IDE) de l’entreprise qui remet des produits phytosanitaires et des semences traitées (entité juridique)
+- 1\.1.2 Numéro REE de l’entité locale (site)
+
+### 1.2 Numéro d’identification de l’utilisateur
+
+- 1\.2.1 Numéro d’identification (IDE) de l’entreprise, si l’utilisateur dispose d’un IDE
+- 1\.2.2 Numéro personnel de l’utilisateur
+
+### 2 Données relatives aux adresses
+
+### 2.1 Données d’adresse relative à l’entité juridique et locale
+
+- 2\.1.1 Nom de l’entreprise
+- 2\.1.2 Adresse de notification
+- 2\.1.3 Rue
+- 2\.1.4 NPA
+- 2\.1.5 Localité
+- 2\.1.6 Langue de correspondance
+
+### 2.2 Données d’adresse de l’utilisateur (adresse professionnelle)
+
+- 2\.2.1 Nom de l’utilisateur
+- 2\.2.2 Prénom de l’utilisateur
+- 2\.2.3 Rue
+- 2\.2.4 NPA
+- 2\.2.5 Localité
+- 2\.2.6 Langue de correspondance
+
+### 3 Données de contact de l’entreprise et de l’utilisateur
+
+- 3\.1 Numéro de téléphone
+- 3\.2 Adresse électronique
+
+### 4 Données relatives à la mise en circulation de produits phytosanitaires et de semences traitées avec des produits phytosanitaires
+
+- 4\.1 Désignation du produit phytosanitaire
+- 4\.2 Informations sur les semences traitées (culture et substances actives)
+- 4\.3 Date de la mise en circulation
+- 4\.4 Quantité mise en circulation
+- 4\.5 Utilisateur (entreprise ou personne)
+
+### 5 Données sur l’utilisation de produits phytosanitaires
+
+- 5\.1 Désignation du produit phytosanitaire
+- 5\.2 Date de l’utilisation
+- 5\.3 Quantité utilisée
+- 5\.4 Surface traitée
+- 5\.5 Plante cultivée ou objet traité
+
+Annexe 4[^t-6]
 
 (art. 20, al. 2)
 
 ## Données d’utilisateur dans Agate
 
-[^t-4]: Mise à jour par le ch. II de l’O du 28 oct. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4581](https://fedlex.data.admin.ch/eli/oc/2015/772)).
+[^t-6]: Mise à jour par le ch. II de l’O du 28 oct. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4581](https://fedlex.data.admin.ch/eli/oc/2015/772)).
 
 ### 1 Numéros d’identification
 

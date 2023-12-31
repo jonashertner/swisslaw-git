@@ -4,11 +4,11 @@ title: Verordnung vom 23. Oktober 2013 über Informationssysteme im Bereich der 
 short: ISLV
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/733"
 language: de
-version: 2022-06-01
+version: 2024-01-01
 adopted: 2013-10-23
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/733/20220601/de/xml/fedlex-data-admin-ch-eli-cc-2013-733-20220601-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/733/20220601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/733/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2013-733-20240101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/733/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,17 +17,18 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/733/20220601/de"
 
 (ISLV)
 
-vom 23. Oktober 2013 (Stand am 1. Juni 2022)
+vom 23. Oktober 2013 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
-gestützt auf die Artikel 165*c* Absatz 3 Buchstabe d, 165*g*, 177 Absatz 1, 181 Absatz 1<sup>bis</sup> und 185 Absatz 2 des Landwirtschaftsgesetzes vom 29. April 1998[^ingress-1] (LwG), Artikel 25 des Bundesstatistikgesetzes vom 9. Oktober 1992[^ingress-2] sowie Artikel 54*a* des Tierseuchengesetzes vom 1. Juli 1966[^ingress-3],
+gestützt auf die Artikel 164*a* Absatz 2, 164*b* Absatz 2, 165*c* Absatz 3 Buchstabe d, 165*g*, 177, 181 Absatz 1<sup>bis</sup> und 185 Absatz 2 des Landwirtschaftsgesetzes vom 29. April 1998[^ingress-1] (LwG), auf Artikel 25 des Bundesstatistikgesetzes vom 9. Oktober 1992[^ingress-2] sowie auf Artikel 45*c* Absatz 4 des Tierseuchengesetzes vom 1. Juli 1966[^ingress-3],[^ingress-4]
 
 verordnet:
 
 [^ingress-1]: [SR 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
 [^ingress-2]: [SR 431.01](https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080)
 [^ingress-3]: [SR 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
+[^ingress-4]: Fassung gemäss Ziff. I der V vom 13. April 2022, in Kraft seit 1. Jan. 2024 ([AS 2022 265](https://fedlex.data.admin.ch/eli/oc/2022/265)).
 
 ## 1. Abschnitt: Gegenstand
 
@@ -40,7 +41,8 @@ Diese Verordnung regelt die Bearbeitung von Daten in folgenden Informationssyste
 - a. Informationssystem für Betriebs-, Struktur- und Beitragsdaten (Art. 165*c* LwG);
 - b. Informationssystem für Kontrolldaten (Art. 165*d* LwG);
 - c. geografisches Informationssystem (Art. 165*e* LwG);
-- d. zentrales Informationssystem zu Nährstoffverschiebungen (Art. 165*f* LwG);
+- d.[^1-1] zentrales Informationssystem zum Nährstoffmanagement (Art. 164*a* und 165*f* LwG);
+- d<sup>bis</sup>.[^1-2] zentrales Informationssystem zur Verwendung von Pflanzenschutzmitteln (Art. 164*b* und 165*f*<sup>bis</sup> LwG);
 - e. Meliorations- und Agrarkredit-Projekt-Informationssystem;
 - f. Internetportal Agate;
 - g. Entscheidunterstützungssystem.
@@ -48,6 +50,9 @@ Diese Verordnung regelt die Bearbeitung von Daten in folgenden Informationssyste
 <sup>2</sup> Sie regelt ausserdem, wie die Daten nach Absatz 1 beschafft und übermittelt werden.
 
 <sup>3</sup> Als Beschaffung gilt die Erhebung und Erfassung der Daten.
+
+[^1-1]: Fassung gemäss Ziff. I der V vom 13. April 2022, in Kraft seit 1. Jan. 2024 ([AS 2022 265](https://fedlex.data.admin.ch/eli/oc/2022/265)).
+[^1-2]: Eingefügt durch Ziff. I der V vom 13. April 2022, in Kraft seit 1. Jan. 2024 ([AS 2022 265](https://fedlex.data.admin.ch/eli/oc/2022/265)).
 
 ## 2. Abschnitt: Informationssystem für Betriebs-, Struktur- und Beitragsdaten
 
@@ -118,10 +123,12 @@ Die Daten nach Artikel 2 können an folgende Stellen zur Erfüllung der ihnen ü
 - d. Bundesamt für Zoll und Grenzsicherheit[^5-1];
 - e.[^5-2] …
 - f. Schweizerisches Heilmittelinstitut;
-- g. Schweizerische Akkreditierungsstelle.
+- g. Schweizerische Akkreditierungsstelle;
+- h.[^5-3] Bundesamt für Zivildienst.
 
 [^5-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 [^5-2]: Aufgehoben durch Anhang 2 Ziff. II 10 der Alkoholverordnung vom 15. Sept. 2017, mit Wirkung seit 1. Jan. 2018 ([AS 2017 5161](https://fedlex.data.admin.ch/eli/oc/2017/568)).
+[^5-3]: Eingefügt durch Ziff. I der V vom 13. April 2022, in Kraft seit 1. Jan. 2024 ([AS 2022 265](https://fedlex.data.admin.ch/eli/oc/2022/265)).
 
 #### Art. 5a
 
@@ -246,34 +253,131 @@ Das geografische Informationssystem (GIS) enthält die folgenden Geodaten:
 [^13-1]: [SR 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
 [^13-2]: Eingefügt durch Anhang 4 Ziff. II 11 der V vom 27. April 2022 über Informationssysteme des BLV für die Lebensmittelkette, in Kraft seit 1. Juni 2022 ([AS 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
 
-## 5. Abschnitt: Zentrales Informationssystem zu Nährstoffverschiebungen
+## 5. Abschnitt: Zentrales Informationssystem zum Nährstoffmanagement
+
+[^sec5-1]
+
+[^sec5-1]: Fassung gemäss Ziff. I der V vom 13. April 2022, in Kraft seit 1. Jan. 2024 ([AS 2022 265](https://fedlex.data.admin.ch/eli/oc/2022/265)).
 
 #### Art. 14
 
 **Daten**
 
-Das zentrale Informationssystem zu Nährstoffverschiebungen (HODUFLU) enthält folgende Daten:
+<sup>1</sup>
 
-- a. Informationen zum Bewirtschafter oder zur Bewirtschafterin und Informationen zum Betrieb nach Anhang 1 Ziffern 1.1 und 1.2;
-- b. Verträge zu Nährstoffverschiebungen zwischen Betrieben;
-- c. Daten zu den verschobenen Produkten und Mengen an Nährstoffen;
-- d.[^14-1] Angabe, ob eine Vereinbarung zwischen einem Kanton und einem Bewirtschafter oder einer Bewirtschafterin über die Verwendung von stickstoff- und phosphorreduziertem Futter besteht.
+Das zentrale Informationssystem zum Nährstoffmanagement (IS NSM) enthält folgende Daten:
 
-[^14-1]: Fassung gemäss Ziff. I der V vom 31. Okt. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4279](https://fedlex.data.admin.ch/eli/oc/2018/684)).
+- a. Daten zu Düngern, einschliesslich Hof- und Recyclingdüngern, zu Zufuhrmaterialien landwirtschaftlicher und nicht landwirtschaftlicher Herkunft in Unternehmen mit Hof- und Recyclingdüngerabgabe und -übernahme und zu Futtermitteln, einschliesslich Grundfutter, und zu deren Anwendung sowie Daten zu den Unternehmen und Personen, die solche Produkte abgeben und übernehmen;
+- b. Daten zu den Unternehmen und Personen, die stickstoff- oder phosphorhaltige Dünger nach Artikel 24*b* Absatz 1 der Dünger-Verordnung vom 10. Januar 2001[^14-1] oder Kraftfutter nach Artikel 47*a* Absätze 1 und 2 der Futtermittel-Verordnung vom 26. Oktober 2011[^14-2] ab- oder weitergeben, zurücknehmen oder mit der Ausbringung solcher Produkte beauftragt sind;
+- c. Daten nach Anhang 1 Ziffern 1.1 und 1.2 zur Bewirtschafterin oder zum Bewirtschafter und zum Betrieb oder, sofern das Produkt nach Buchstabe b an eine andere Person abgegeben wird, zur Anwenderin oder zum Anwender;
+- d. Daten zur Menge der abgegebenen, weitergegebenen, zurückgenommenen oder im Auftrag ausgebrachten Produkte nach Buchstabe b mit den jeweiligen Nährstoffmengen;
+- e. Daten zu den Vorräten jedes Produktes nach Buchstabe b bei den Personen nach Buchstabe c am Ende des Kalenderjahres mit den jeweiligen Nährstoffmengen;
+- f. Daten zur Vereinbarung zwischen dem Kanton und der Bewirtschafterin oder dem Bewirtschafter über die Anwendung von nährstoffreduziertem Futter nach Artikel 82*c* der Direktzahlungsverordnung vom 23. Oktober 2013[^14-3] (DZV).
+- [tab] <sup>2</sup> Die relevanten Datenkategorien sind in Anhang 3*a* festgelegt.
+
+[^14-1]: [SR 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)
+[^14-2]: [SR 916.307](https://fedlex.data.admin.ch/eli/cc/2011/772)
+[^14-3]: [SR 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
 
 #### Art. 15
 
-**Bearbeitung der Daten**
+**Erfassung und Übermittlung der Daten**
 
-<sup>1</sup> Die Daten nach Artikel 14 Buchstaben b und c werden vom Bewirtschafter oder von der Bewirtschafterin direkt in HODUFLU erfasst und aktualisiert.
+<sup>1</sup> Das BLW erfasst die Basisdaten zu Unternehmen und Personen nach Artikel 14 Absatz 1 Buchstabe b. Die Unternehmen und Personen müssen sich hierzu vorgängig beim BLW melden.
 
-<sup>2</sup> Die zuständige kantonale Behörde beschafft, berichtigt oder ergänzt die Daten nach Artikel 14 Buchstaben a und c im Rahmen ihrer Vollzugskompetenz.
+<sup>2</sup>
+
+Die Unternehmen und Personen nach Artikel 14 Absatz 1 Buchstabe b erfassen:
+
+- a. die Ab- und Weitergabe von Produkten nach Artikel 14 Absatz 1 Buchstabe b an ein Unternehmen, an eine Anwenderin oder einen Anwender oder an eine Bewirtschafterin oder einen Bewirtschafter sowie die Rücknahme solcher Produkte von einem Unternehmen oder von einer Bewirtschafterin oder einem Bewirtschafter;
+- b. die Daten nach Artikel 14 Absatz 1 Buchstabe d produktebezogen pro Abgabe, Weitergabe oder Rücknahme.
+
+<sup>3</sup> Die Unternehmen und Personen, die Hof- und Recyclingdünger abgeben, erfassen jede Übernahme von Zufuhrmaterialien landwirtschaftlicher Herkunft; bei Zufuhrmaterialien nicht landwirtschaftlicher Herkunft ist die jährliche Gesamtmenge ausreichend.
+
+<sup>4</sup> Die Bewirtschafterinnen und Bewirtschafter sowie die Anwenderinnen und Anwender nach Artikel 14 Absatz 1 Buchstabe c erfassen die Daten zu den Vorräten nach Artikel 14 Absatz 1 Buchstabe e.
+
+<sup>5</sup>
+
+Für die Erfassung der Daten nach den Absätzen 2–4 stehen folgende Möglichkeiten zur Verfügung:
+
+- a. Erfassung direkt im IS NSM;
+- b. Erfassung über eine Schnittstelle für den Datentransfer an das IS NSM; oder
+- c. Erfassung in einer Applikation eines privaten Anbieters oder eines Kantons.
+
+<sup>6</sup> Das BLW definiert die Schnittstelle für die Übermittlung von Daten nach Absatz 5 Buchstaben b und c an das IS NSM.
+
+<sup>7</sup> Datenkorrekturen sind durch die Unternehmen und Personen nach den Absätzen 2–4 vorzunehmen.
+
+<sup>8</sup> Die Erfassung der Daten nach den Absätzen 2–4 und die Datenkorrekturen nach Absatz 7 zu einem Kalenderjahr müssen bis zum 31. Januar des Folgejahres abgeschlossen sein.
+
+<sup>9</sup> Die zuständige kantonale Behörde kann Daten nach Artikel 14 Absatz 1 Buchstaben c, d und e zu einem Kalenderjahr bis Ende März des Folgejahres erfassen, berichtigen oder ergänzen.
 
 #### Art. 16
 
 **Verknüpfung mit anderen Informationssystemen**
 
-Die Daten nach Artikel 14 Buchstabe a können aus AGIS bezogen werden.
+Die Daten nach Artikel 14 Absatz 1 Buchstaben c und f können aus AGIS bezogen werden.
+
+## 5*a*. Abschnitt: Zentrales Informationssystem zur Verwendung von Pflanzenschutzmitteln
+
+[^sec5a-1]
+
+[^sec5a-1]: Eingefügt durch Ziff. I der V vom 13. April 2022, in Kraft seit 1. Jan. 2024 ([AS 2022 265](https://fedlex.data.admin.ch/eli/oc/2022/265)).
+
+#### Art. 16a
+
+**Daten**
+
+<sup>1</sup>
+
+Das zentrale Informationssystem zur Verwendung von Pflanzenschutzmitteln (IS PSM) enthält folgende Daten:
+
+- a. Daten zu den Unternehmen und Personen, die Pflanzenschutzmittel oder mit Pflanzenschutzmitteln behandeltes Saatgut nach Artikel 62 Absatz 1 der Pflanzenschutzmittelverordnung vom 12. Mai 2010[^16a-1] (PSMV) in Verkehr bringen;
+- b. Daten nach Anhang 1 Ziffern 1.1 und 1.2 zur Bewirtschafterin oder zum Bewirtschafter und zum Betrieb oder, sofern das Pflanzenschutzmittel von einer anderen Person verwendet wird, zur Verwenderin oder zum Verwender;
+- c. Daten zu den Unternehmen, die Pflanzenschutzmittel verwenden oder mit der Ausbringung beauftragt sind;
+- d. Daten zu den in Verkehr gebrachten Pflanzenschutzmitteln oder dem mit Pflanzenschutzmitteln behandelten Saatgut nach Artikel 62 Absatz 1 PSMV;
+- e. Daten zu jeder beruflichen Verwendung von Pflanzenschutzmitteln nach Artikel 62 Absatz 1<sup>bis</sup> PSMV, namentlich im Rahmen der Ausbringung im Einzelfall (Anwendung).
+
+<sup>2</sup> Die relevanten Datenkategorien sind in Anhang 3*b* festgelegt.
+
+[^16a-1]: [SR 916.161](https://fedlex.data.admin.ch/eli/cc/2010/340)
+
+#### Art. 16b
+
+**Erfassung und Übermittlung der Daten**
+
+<sup>1</sup> Das BLW erfasst die Basisdaten zu Unternehmen und Personen nach Artikel 16*a* Absatz 1 Buchstabe a. Die Unternehmen und Personen müssen sich hierzu vorgängig beim BLW melden.
+
+<sup>2</sup>
+
+Die Unternehmen und Personen nach Artikel 16*a* Absatz 1 Buchstabe a erfassen:
+
+- a. die Abgabe von Pflanzenschutzmitteln oder von mit Pflanzenschutzmitteln behandeltem Saatgut an ein Unternehmen oder an eine Bewirtschafterin oder einen Bewirtschafter oder eine andere Verwenderin oder einen anderen Verwender;
+- b. die Daten zu den abgegebenen Pflanzenschutzmitteln oder zu mit Pflanzenschutzmitteln behandeltem Saatgut nach Artikel 16*a* Absatz 1 Buchstabe d.
+
+<sup>3</sup> Unternehmen und Personen, die eine andere Person mit der Ausbringung von Pflanzenschutzmitteln nach Artikel 16*a* Absatz 1 Buchstabe c beauftragen, erfassen die Daten zur beauftragten Verwenderin oder zum beauftragten Verwender im IS PSM.
+
+<sup>4</sup> Die Unternehmen, die Bewirtschafterinnen und Bewirtschafter und die anderen Verwenderinnen und Verwender nach Artikel 16*a* Absatz 1 Buchstaben b und c erfassen die Daten der von ihnen beruflich verwendeten Pflanzenschutzmittel nach Artikel 16*a* Absatz 1 Buchstabe e.
+
+<sup>5</sup>
+
+Für die Erfassung der Daten nach den Absätzen 2–4 stehen folgende Möglichkeiten zur Verfügung:
+
+- a. Erfassung direkt im IS PSM;
+- b. Erfassung über eine Schnittstelle für den Datentransfer an das IS PSM; oder
+- c. Erfassung in einer Applikation eines privaten Anbieters oder eines Kantons.
+
+<sup>6</sup> Das BLW definiert die Schnittstelle für die Übermittlung von Daten nach Absatz 5 Buchstaben b und c an das IS PSM.
+
+<sup>7</sup> Datenkorrekturen sind durch die Unternehmen und Personen nach den Absätzen 2–4 vorzunehmen.
+
+<sup>8</sup> Die Erfassung der Daten nach den Absätzen 2–4 und die Datenkorrekturen nach Absatz 7 zu einem Kalenderjahr müssen bis zum 31. Januar des Folgejahres abgeschlossen sein.
+
+#### Art. 16c
+
+**Verknüpfung mit anderen Informationssystemen**
+
+Die Daten nach Artikel 16*a* Absatz 1 Buchstabe b können aus AGIS bezogen werden.
 
 ## 6. Abschnitt: Weitere Informationssysteme
 
@@ -421,9 +525,10 @@ Das BLW erlässt in Absprache mit den involvierten Bundesämtern Weisungen über
 
 <sup>1</sup> Der Bund entwickelt in Zusammenarbeit mit den Kantonen die Informationssysteme nach Artikel 1 und übernimmt die fachliche Verantwortung.
 
-<sup>2</sup> Der EDV-Dienstleistungserbringer des Eidgenössischen Departementes für Wirtschaft, Bildung und Forschung, das Bundesamt für Informatik und Telekommunikation sowie das Bundesamt für Landestopografie unterstützen das BLW und das Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV) bei der Systementwicklung in technischen Belangen. Sie stellen die nötige Infrastruktur bereit und sind für den sicheren Betrieb der Informationssysteme und des Beitragsberechnungsservices (BBS) nach Artikel 114 der Direktzahlungsverordnung vom 23. Oktober 2013[^26-1] (DZV) verantwortlich.
+<sup>2</sup> Der EDV-Dienstleistungserbringer des Eidgenössischen Departementes für Wirtschaft, Bildung und Forschung, das Bundesamt für Informatik und Telekommunikation sowie das Bundesamt für Landestopografie unterstützen das BLW und das Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV) bei der Systementwicklung in technischen Belangen. Sie stellen die nötige Infrastruktur bereit und sind für den sicheren Betrieb der Informationssysteme und des Beitragsberechnungsservices (BBS) nach Artikel 114 DZV[^26-1] verantwortlich.[^26-2]
 
 [^26-1]: [SR 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^26-2]: Fassung gemäss Ziff. I der V vom 13. April 2022, in Kraft seit 1. Jan. 2024 ([AS 2022 265](https://fedlex.data.admin.ch/eli/oc/2022/265)).
 
 #### Art. 27
 
@@ -431,7 +536,7 @@ Das BLW erlässt in Absprache mit den involvierten Bundesämtern Weisungen über
 
 <sup>1</sup> Das BLW kann anonymisierte Daten der Öffentlichkeit zugänglich machen oder weitergegeben.
 
-<sup>2</sup> Das BLW kann für Studien- und Forschungszwecke sowie für das Monitoring und die Evaluation nach Artikel 185 Absätze 1<sup>bis</sup> und 1<sup>ter</sup> LwG Daten gemäss den Artikeln 2, 6 Buchstaben a–d, 10 und 14 dieser Verordnung an inländische Hochschulen und ihre Forschungsanstalten weitergeben. An Dritte ist die Weitergabe möglich, wenn diese im Auftrag des BLW handeln.[^27-1]
+<sup>2</sup> Das BLW kann für Studien- und Forschungszwecke sowie für das Monitoring und die Evaluation nach Artikel 185 Absätze 1<sup>bis</sup> und 1<sup>ter</sup> LwG Daten nach den Artikeln 2, 6 Buchstaben a–d, 10, 14 und 16*a* dieser Verordnung an inländische Hochschulen und ihre Forschungsanstalten weitergeben. An Dritte ist die Weitergabe möglich, wenn diese im Auftrag des Bundes oder mehrerer Kantone handeln.[^27-1]
 
 <sup>3</sup> …[^27-2]
 
@@ -447,12 +552,12 @@ Das BLW erlässt in Absprache mit den involvierten Bundesämtern Weisungen über
 
 <sup>9</sup>
 
-Es kann auf Gesuch hin Daten nach den Artikeln 2, 6, mit Ausnahme der Daten nach Artikel 6 Buchstabe e, sowie 14 für folgende Dritte online abrufbar machen, sofern das Einverständnis der betroffenen Person vorliegt:
+Es kann auf Gesuch hin Daten nach den Artikeln 2, 6, mit Ausnahme der Daten nach Artikel 6 Buchstabe e, sowie 14 und 16*a* für folgende Dritte online abrufbar machen, sofern das Einverständnis der betroffenen Person vorliegt:[^27-10]
 
 - a. Personen, Organisationen oder Unternehmen, die den Bewirtschafter, die Bewirtschafterin, den Tierhalter oder die Tierhalterin bei der Schaffung eines Mehrwerts für ihre Produkte unterstützen;
-- b. Betreiber von anderen, nicht über das Internetportal Agate erreichbaren Informationssystemen, die dem Bewirtschafter, der Bewirtschafterin, dem Tierhalter oder der Tierhalterin einen elektronischen Zugang zu ihren eigenen Daten ermöglichen und sie dadurch bei der Bewirtschaftung ihres Betriebs oder ihrer Tierhaltung unterstützen.[^27-10]
+- b. Betreiber von anderen, nicht über das Internetportal Agate erreichbaren Informationssystemen, die dem Bewirtschafter, der Bewirtschafterin, dem Tierhalter oder der Tierhalterin einen elektronischen Zugang zu ihren eigenen Daten ermöglichen und sie dadurch bei der Bewirtschaftung ihres Betriebs oder ihrer Tierhaltung unterstützen.[^27-11]
 
-[^27-1]: Fassung gemäss Ziff. I der V vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5759](https://fedlex.data.admin.ch/eli/oc/2020/967)).
+[^27-1]: Fassung gemäss Ziff. I der V vom 13. April 2022, in Kraft seit 1. Jan. 2024 ([AS 2022 265](https://fedlex.data.admin.ch/eli/oc/2022/265)).
 [^27-2]: Aufgehoben durch Ziff. I der V vom 11. Nov. 2020, mit Wirkung seit 1. Jan. 2021 ([AS 2020 5759](https://fedlex.data.admin.ch/eli/oc/2020/967)).
 [^27-3]: Aufgehoben durch Ziff. I der V vom 31. Okt. 2018, mit Wirkung seit 1. Jan. 2019 ([AS 2018 4279](https://fedlex.data.admin.ch/eli/oc/2018/684)).
 [^27-4]: Fassung gemäss Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4581](https://fedlex.data.admin.ch/eli/oc/2015/772)).
@@ -461,7 +566,8 @@ Es kann auf Gesuch hin Daten nach den Artikeln 2, 6, mit Ausnahme der Daten nach
 [^27-7]: [SR 910.19](https://fedlex.data.admin.ch/eli/cc/2011/340)
 [^27-8]: [SR 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
 [^27-9]: Eingefügt durch Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6157](https://fedlex.data.admin.ch/eli/oc/2017/682)).
-[^27-10]: Eingefügt durch Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6157](https://fedlex.data.admin.ch/eli/oc/2017/682)).
+[^27-10]: Fassung gemäss Ziff. I der V vom 13. April 2022, in Kraft seit 1. Jan. 2024 ([AS 2022 265](https://fedlex.data.admin.ch/eli/oc/2022/265)).
+[^27-11]: Eingefügt durch Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6157](https://fedlex.data.admin.ch/eli/oc/2017/682)).
 
 #### Art. 28
 
@@ -490,7 +596,7 @@ Sie dürfen höchstens während folgender Dauer aufbewahrt werden:
 
 Die Landwirtschaftliche Datenverordnung vom 7. Dezember 1998[^29-1] wird aufgehoben.
 
-[^29-1]: [[AS 1999 540](https://fedlex.data.admin.ch/eli/oc/1999/70); [2000 1492](https://fedlex.data.admin.ch/eli/oc/2000/235); [2001 3554](https://fedlex.data.admin.ch/eli/oc/2001/531); [2003 3687](https://fedlex.data.admin.ch/eli/oc/2003/525)Anhang Ziff. II 5, [4963](https://fedlex.data.admin.ch/eli/oc/2003/739); [2006 897](https://fedlex.data.admin.ch/eli/oc/2006/160); [2007 141](https://fedlex.data.admin.ch/eli/oc/2007/33)Art. 12, [6443](https://fedlex.data.admin.ch/eli/oc/2007/844); **2****0****08** 3857; [2010 2551](https://fedlex.data.admin.ch/eli/oc/2010/346), [5885](https://fedlex.data.admin.ch/eli/oc/2010/843); **20**[1](https://fedlex.data.admin.ch/eli/oc/2010/1)**1** 5297 Anhang 2 Ziff. 9, 5453 Anhang 2 Ziff. II 5; [2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)Anhang Ziff. 3]
+[^29-1]: [[AS 1999 540](https://fedlex.data.admin.ch/eli/oc/1999/70); [2000 1492](https://fedlex.data.admin.ch/eli/oc/2000/235); [2001 3554](https://fedlex.data.admin.ch/eli/oc/2001/531); [2003 3687](https://fedlex.data.admin.ch/eli/oc/2003/525)Anhang Ziff. II 5, [4963](https://fedlex.data.admin.ch/eli/oc/2003/739); [2006 897](https://fedlex.data.admin.ch/eli/oc/2006/160); [2007 141](https://fedlex.data.admin.ch/eli/oc/2007/33)Art. 12, [6443](https://fedlex.data.admin.ch/eli/oc/2007/844); [2008 3857](https://fedlex.data.admin.ch/eli/oc/2008/524); [2010 2551](https://fedlex.data.admin.ch/eli/oc/2010/346), [5885](https://fedlex.data.admin.ch/eli/oc/2010/843); [2011 5297](https://fedlex.data.admin.ch/eli/oc/2011/766)Anhang 2 Ziff. 9, [5453](https://fedlex.data.admin.ch/eli/oc/2011/775)Anhang 2 Ziff. II 5; [2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)Anhang Ziff. 3]
 
 #### Art. 30
 
@@ -520,13 +626,13 @@ Die nachstehenden Verordnungen werden wie folgt geändert:
 
 <sup>2</sup> Die Artikel 17–19 treten am 1. Juli 2015 in Kraft.
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
-(Art. 2, 6 Bst. a–c, 13, 14 Bst. a, 27 Abs. 5)
+(Art. 2, 6 Bst. a–c, 13, 14 Abs. 1 Bst. c, 16*a* Abs. 1 Bst. b und 27 Abs. 5)
 
 ## 1. Betriebsdaten
 
-[^t-1]: Bereinigt gemäss Ziff. II der V vom 28. Okt. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4581](https://fedlex.data.admin.ch/eli/oc/2015/772)).
+[^t-1]: Bereinigt gemäss Ziff. II der V vom 28. Okt. 2015 ([AS 2015 4581](https://fedlex.data.admin.ch/eli/oc/2015/772)) und Ziff. II Abs. 1 der V vom 13. April 2022, in Kraft seit 1. Jan. 2024 ([AS 2022 265](https://fedlex.data.admin.ch/eli/oc/2022/265)).
 
 ### 1.1 Informationen zum Bewirtschafter oder zur Bewirtschafterin
 
@@ -592,7 +698,7 @@ Anhang 1*[^t-1]*
 - 3\.2.4 Kürzungen von Beiträgen in Franken und unter Angabe der gesetzlichen Grundlage der Kürzung gemäss DZV
 - 3\.2.5 Rückforderungen und Nachzahlungen von Beiträgen von Vorjahren in Franken
 
-Anhang 2*[^t-2]*
+Anhang 2[^t-2]
 
 (Art. 6 Bst. d–f, 27 Abs. 5)
 
@@ -600,7 +706,7 @@ Anhang 2*[^t-2]*
 
 [^t-2]: Bereinigt gemäss Ziff. II der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6157](https://fedlex.data.admin.ch/eli/oc/2017/682)).
 
-### 1 Kontrollgrunddaten im Geltungsbereich der VKKL**** und der Verordnungen nach Art. 2 Abs. 4 der Verordnung vom 16. Dezember 2016**** über den nationalen Kontrollplan für die Lebensmittelkette und die Gebrauchsgegenstände (NKPV)
+### 1 Kontrollgrunddaten im Geltungsbereich der VKKL und der Verordnungen nach Art. 2 Abs. 4 der Verordnung vom 16. Dezember 2016 über den nationalen Kontrollplan für die Lebensmittelkette und die Gebrauchsgegenstände (NKPV)
 
 [^annex2-lvlu1-lvl1-1][^annex2-lvlu1-lvl1-2]
 
@@ -620,7 +726,7 @@ Anhang 2*[^t-2]*
 - 2\.1 Festgestellte Mängel mit Beschreibung und ergänzenden Informationen (Ausmass / Umfang, Wiederholung und Schweregrad)
 - 2\.2 nicht kontrollierte und nicht zutreffende Elemente einer Kontrollrubrik
 
-### 3 Informationen zu Verwaltungsmassnahmen und Strafverfahren im Geltungsbereich der VKKL und zur pflanzlichen Primärproduktion nach der Verordnung vom 23. November 2005**** über die Primärproduktion
+### 3 Informationen zu Verwaltungsmassnahmen und Strafverfahren im Geltungsbereich der VKKL und zur pflanzlichen Primärproduktion nach der Verordnung vom 23. November 2005 über die Primärproduktion
 
 [^annex2-lvlu1-lvl3-1]
 
@@ -630,7 +736,7 @@ Anhang 2*[^t-2]*
 - 3\.2 Kürzungen von Beiträgen in Franken oder in Punkten sowie Rückforderungen von Beiträgen in Franken
 - 3\.3 eingeleitete Strafverfahren
 
-Anhang 3*[^t-3]*
+Anhang 3[^t-3]
 
 (Art. 10, 27 Abs. 5)
 
@@ -638,7 +744,7 @@ Anhang 3*[^t-3]*
 
 [^t-3]: Bereinigt gemäss Ziff. II der V vom 28. Okt. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4581](https://fedlex.data.admin.ch/eli/oc/2015/772)).
 
-### 1 Geodaten zu landwirtschaftlichen Zonengrenzen und zu Hanglagen nach Anhang 1 der GeoIV**** sowie den minimalen Geodatenmodellen
+### 1 Geodaten zu landwirtschaftlichen Zonengrenzen und zu Hanglagen nach Anhang 1 der GeoIV sowie den minimalen Geodatenmodellen
 
 [^annex3-lvlu1-lvl1-1]
 
@@ -670,13 +776,117 @@ Anhang 3*[^t-3]*
 - 3\.4 amtliche Vermessungsdaten sowie Luftbilder des Bundesamts für Landestopografie
 - 3\.5 Erosionsrisikokarte
 
-Anhang 4*[^t-4]*
+Anhang 3a[^t-4]
+
+(Art. 14 Abs. 2)
+
+## Daten zum IS NSM
+
+[^t-4]: Eingefügt durch Ziff. II Abs. 2 der V vom 13. April 2022, in Kraft seit 1. Jan. 2024 ([AS 2022 265](https://fedlex.data.admin.ch/eli/oc/2022/265)).
+
+### 1 Identifikationsnummern zu Unternehmen
+
+- 1\.1 Unternehmens-Identifikationsnummer (UID) des Unternehmens, das Nährstoffe abgibt, weitergibt, zurücknimmt oder übernimmt (rechtliche Einheit)
+- 1\.2 BUR-Nummer der lokalen Einheit (Standort)
+
+### 2 Adressdaten zur rechtlichen und lokalen Einheit
+
+- 2\.1 Name des Unternehmens
+- 2\.2 Zustelladresse
+- 2\.3 Strasse
+- 2\.4 PLZ
+- 2\.5 Ort
+- 2\.6 Korrespondenzsprache
+
+### 3 Kontaktdaten
+
+- 3\.1 Telefonnummer
+- 3\.2 E-Mail-Adresse
+
+### 4 Daten zu nährstoffhaltigen Produkten
+
+- 4\.1 Dünger, einschliesslich Hof- und Recyclingdünger
+- 4\.2 Futtermittel, einschliesslich Grundfutter
+- 4\.3 Zufuhrmaterialien aus landwirtschaftlicher Herkunft
+- 4\.4 Zufuhrmaterialien aus nicht landwirtschaftlicher Herkunft
+
+### 5 Daten zur Ab- und Weitergabe, Rück- und Übernahme und Anwendung von nährstoffhaltigen Produkten sowie deren Vorräte
+
+- 5\.1 Abgeber/in und Anwender/in
+- 5\.2 Bezeichnung des Produktes
+- 5\.3 Zeitpunkt der Abgabe, Weitergabe, Rücknahme, Übernahme, Anwendung
+- 5\.4 Abgegebene, weitergegebene, zurückgenommene oder übernommene Menge
+- 5\.5 Daten zu Nährstoffmengen
+- 5\.6 Vorräte am Ende des Kalenderjahres
+
+Anhang 3b[^t-5]
+
+(Art. 16*a* Abs. 2)
+
+## Daten zum IS PSM
+
+[^t-5]: Eingefügt durch Ziff. II Abs. 2 der V vom 13. April 2022, in Kraft seit 1. Jan. 2024 ([AS 2022 265](https://fedlex.data.admin.ch/eli/oc/2022/265)).
+
+### 1 Identifikationsnummern
+
+### 1.1 Identifikationsnummern zu Unternehmen
+
+- 1\.1.1 Unternehmens-Identifikationsnummer (UID) des Unternehmens, welches Pflanzenschutzmittel und behandeltes Saatgut abgibt (rechtliche Einheit)
+- 1\.1.2 BUR-Nummer der lokalen Einheit (Standort)
+
+### 1.2 Identifikationsnummer zur Verwenderin oder zum Verwender
+
+- 1\.2.1 Unternehmens-Identifikationsnummer (UID) des Unternehmens, sofern die Verwenderin oder der Verwender über eine UID verfügt
+- 1\.2.2 Personennummer der Verwenderin oder des Verwenders
+
+### 2 Adressdaten
+
+### 2.1 Adressdaten zur rechtlichen und lokalen Einheit
+
+- 2\.1.1 Name des Unternehmens
+- 2\.1.2 Zustelladresse
+- 2\.1.3 Strasse
+- 2\.1.4 PLZ
+- 2\.1.5 Ort
+- 2\.1.6 Korrespondenzsprache
+
+### 2.2 Adressdaten zur Verwenderin oder zum Verwender (Geschäftsadresse)
+
+- 2\.2.1 Name der Verwenderin oder des Verwenders
+- 2\.2.2 Vorname der Verwenderin oder des Verwenders
+- 2\.2.3 Strasse
+- 2\.2.4 PLZ
+- 2\.2.5 Ort
+- 2\.2.6 Korrespondenzsprache
+
+### 3 Kontaktdaten zum Unternehmen und zur Verwenderin oder zum Verwender
+
+- 3\.1 Telefonnummer
+- 3\.2 E-Mail-Adresse
+
+### 4 Daten zum Inverkehrbringen von Pflanzenschutzmitteln und von mit Pflanzenschutzmitteln behandeltem Saatgut
+
+- 4\.1 Bezeichnung des Pflanzenschutzmittels
+- 4\.2 Angaben zum behandelten Saatgut (Kultur und Wirkstoffe)
+- 4\.3 Zeitpunkt des Inverkehrbringens
+- 4\.4 In Verkehr gebrachte Menge
+- 4\.5 Verwenderin oder Verwender (Unternehmen oder Person)
+
+### 5 Daten zur Verwendung von Pflanzenschutzmitteln
+
+- 5\.1 Bezeichnung des Pflanzenschutzmittels
+- 5\.2 Zeitpunkt der Verwendung
+- 5\.3 Verwendete Menge
+- 5\.4 Behandelte Fläche
+- 5\.5 Nutzpflanze oder behandeltes Objekt
+
+Anhang 4[^t-6]
 
 (Art. 20 Abs. 2)
 
 ## Benutzerdaten in Agate
 
-[^t-4]: Bereinigt gemäss Ziff. II der V vom 28. Okt. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4581](https://fedlex.data.admin.ch/eli/oc/2015/772)).
+[^t-6]: Bereinigt gemäss Ziff. II der V vom 28. Okt. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4581](https://fedlex.data.admin.ch/eli/oc/2015/772)).
 
 ### 1 Identifikationsnummern
 
