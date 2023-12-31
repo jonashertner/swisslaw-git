@@ -3,20 +3,19 @@ canton: OW
 number: "320.311"
 title: Vereinbarung über die Zusammenarbeit bei der Verfolgung von Wirtschaftsdelikten
 language: de
-version: 2020-01-01
-valid_until: 2023-12-31
-version_adopted: 2020-04-07
+version: 2024-01-01
+version_adopted: 2024-07-02
 adopted: 2010-10-12
 in_force: 2011-01-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/320.311"
-pdf: "http://gdb.ow.ch/api/de/versions/1856/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1901/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Vereinbarung über die Zusammenarbeit bei der Verfolgung von Wirtschaftsdelikten
 
-vom 12.10.2010 (Stand 01.01.2020)
+vom 12.10.2010 (Stand 01.01.2024)
 
 Die Kantone Obwalden, Nidwalden und Uri
 
@@ -109,8 +108,8 @@ vereinbaren:
 
 <sup>1</sup> Ein Anteil von 40 Prozent der jährlichen Kosten gemäss Art. 9 dieser Vereinbarung wird als Grundbeitrag, der in jedem Fall zu entrichten ist, wie folgt aufgeteilt:
 
-- 1\. Kanton Nidwalden — 49 %
-- 2\. Kanton Obwalden — 35 %
+- 1\. Kanton Nidwalden — 66 %
+- 2\. Kanton Obwalden — 18 %
 - 3\. Kanton Uri — 16 %
 
 <sup>2</sup> Dieser Kostenteiler beruht auf der durchschnittlichen Beanspruchung der Jahre 2005 bis 2009. Er wird jeweils nach drei Jahren, erstmals wieder auf 1. Januar 2014, aufgrund der durchschnittlichen Beanspruchung der letzten fünf Jahre überprüft und durch die Vertragsparteien neu festgelegt.
@@ -146,5 +145,15 @@ vereinbaren:
 <sup>2</sup> Sie kann unter Beobachtung einer Kündigungsfrist von sechs Monaten auf das Ende eines Kalenderjahres gekündigt werden.
 
 [^14-1]: Die Vereinbarung ist am 1. Januar 2011 in Kraft getreten, nachdem die Regierungsräte der Kantone Uri, Obwalden und Nidwalden der Vereinbarung rechtskräftig zugestimmt haben (OGS 2011, 16)
+
+**Informationen zum Erlass**
+
+Ursprüngliche Fundstelle: OGS 2010, 60
+
+Kostenteiler von Art. 11 Abs. 1 vom Regierungsrat gestützt auf Art. 11 Abs. 2 angepasst am:
+
+\- 7. April 2020, rückwirkend auf den 1. Januar 2020 (OGS 2020, 11)
+
+\- 2. Juli 2024, rückwirkend auf den 1. Januar 2024 (OGS 2024, 30)
 
 OGS 2010, 60
