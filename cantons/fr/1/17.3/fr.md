@@ -4,13 +4,13 @@ number: "17.3"
 title: Loi sur la vidéosurveillance
 short: LVid
 language: fr
-version: 2022-01-01
-valid_until: 2023-12-31
-version_adopted: 2021-10-07
+version: 2024-01-01
+valid_until: 2026-06-30
+version_adopted: 2023-10-12
 adopted: 2010-12-07
 in_force: 2012-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/17.3"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7469/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7937/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Vidéosurveillance -L
 
 (LVid)
 
-du 07.12.2010 (version entrée en vigueur le 01.01.2022)
+du 07.12.2010 (version entrée en vigueur le 01.01.2024)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -65,7 +65,7 @@ Décrète:
 
 <sup>1</sup> Des systèmes de vidéosurveillance peuvent être installés et exploités dans les lieux publics afin de prévenir les atteintes aux personnes et aux biens et de contribuer à la poursuite et à la répression des infractions.
 
-<sup>2</sup> Les systèmes de vidéosurveillance sans enregistrement doivent, avant leur mise en service, être annoncés au préfet ainsi qu'au ou à la préposé-e à la protection des données.
+<sup>2</sup> Les systèmes de vidéosurveillance sans enregistrement doivent, avant leur mise en service, être annoncés au préfet ou à la préfète ainsi qu'au ou à la préposé-e à la transparence et à la protection des données (ci-après: le ou la préposé-e).
 
 <sup>3</sup> Les systèmes de vidéosurveillance avec enregistrement sont soumis à des exigences particulières, conformément aux dispositions qui suivent.
 
@@ -83,6 +83,8 @@ Décrète:
 
 <sup>2</sup> Le système de vidéosurveillance doit être documenté dans un règlement d'utilisation qui expose les éléments techniques de l'installation et détaille les mesures prises afin de répondre aux exigences générales.
 
+<sup>3</sup> Une analyse d'impact au sens de l'article 41 de la loi du 12 octobre 2023 sur la protection des données doit être réalisée avant toute installation d'un nouveau système de surveillance systématique de grandes parties du domaine public.
+
 #### Art. 5
 
 **Vidéosurveillance avec enregistrement – Autorisation**
@@ -90,9 +92,10 @@ Décrète:
 <sup>1</sup> L'installation d'un système de vidéosurveillance avec enregistrement doit en outre faire l'objet d'une autorisation dont l'octroi est subordonné aux conditions suivantes:
 
 - a) le respect des exigences de proportionnalité fixées à l'article 4 al. 1 let. a paraît établi;
-- b) les mesures énoncées dans le règlement d'utilisation paraissent suffisantes pour assurer le respect des exigences générales et la protection des données.
+- b) les mesures énoncées dans le règlement d'utilisation paraissent suffisantes pour assurer le respect des exigences générales et la protection des données;
+- c) dans les cas visés à l'article 4 al. 3, l'analyse d'impact a été réalisée et ses conclusions sont connues.
 
-<sup>2</sup> Le préfet est l'autorité compétente pour délivrer l'autorisation; il statue après avoir pris le préavis de l'Autorité cantonale de la transparence, de la protection des données et de la médiation et, le cas échéant, de la commune sur le territoire de laquelle l'installation est envisagée. Les organes de préavis reçoivent une copie de la décision.
+<sup>2</sup> Le préfet ou la préfète est l'autorité compétente pour délivrer l'autorisation; il ou elle statue après avoir pris le préavis de l'Autorité cantonale de la transparence, de la protection des données et de la médiation et, le cas échéant, de la commune sur le territoire de laquelle l'installation est envisagée. Les organes de préavis reçoivent une copie de la décision.
 
 <sup>3</sup> Lorsque la demande d'autorisation émane d'un organe public, elle doit, le cas échéant, avoir été préalablement approuvée par la Direction du Conseil d'Etat dont dépend ou à laquelle est rattaché cet organe ou dont relève l'activité exercée dans les lieux placés sous vidéosurveillance. La Direction concernée reçoit une copie de la décision.
 
@@ -102,7 +105,7 @@ Décrète:
 
 **Vidéosurveillance avec enregistrement – Contrôle**
 
-<sup>1</sup> Le préfet exerce un contrôle général sur les systèmes de vidéosurveillance soumis à autorisation.
+<sup>1</sup> Le préfet ou la préfète exerce un contrôle général sur les systèmes de vidéosurveillance soumis à autorisation.
 
 <sup>2</sup> Il doit être informé de toute modification de ces systèmes et vérifie, à cette occasion, si un réexamen de l'autorisation est nécessaire.
 
@@ -114,7 +117,7 @@ Décrète:
 
 **Vidéosurveillance sans enregistrement**
 
-<sup>1</sup> Les organes publics et les personnes privées qui veulent mettre en place une vidéosurveillance d'observation sans enregistrement doivent en informer au préalable le préfet et le ou la préposé-e à la protection des données. Les organes publics informent simultanément la Direction du Conseil d'Etat dont ils dépendent ou à laquelle ils sont rattachés ou dont relève l'activité exercée dans les lieux placés sous vidéosurveillance.
+<sup>1</sup> Les organes publics et les personnes privées qui veulent mettre en place une vidéosurveillance d'observation sans enregistrement doivent en informer au préalable le préfet ou la préfète et le ou la préposé-e. Les organes publics informent simultanément la Direction du Conseil d'Etat dont ils dépendent ou à laquelle ils sont rattachés ou dont relève l'activité exercée dans les lieux placés sous vidéosurveillance.
 
 <sup>2</sup> L'article 4 al. 1 let. b s'applique également à la vidéosurveillance sans enregistrement.
 

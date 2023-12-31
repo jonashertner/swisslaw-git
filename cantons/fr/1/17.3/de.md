@@ -4,13 +4,13 @@ number: "17.3"
 title: Gesetz über die Videoüberwachung
 short: VidG
 language: de
-version: 2022-01-01
-valid_until: 2023-12-31
-version_adopted: 2021-10-07
+version: 2024-01-01
+valid_until: 2026-06-30
+version_adopted: 2023-10-12
 adopted: 2010-12-07
 in_force: 2012-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/17.3"
-pdf: "https://bdlf.fr.ch/api/de/versions/7469/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7937/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Videoüberwachung – G
 
 (VidG)
 
-vom 07.12.2010 (Fassung in Kraft getreten am 01.01.2022)
+vom 07.12.2010 (Fassung in Kraft getreten am 01.01.2024)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -65,7 +65,7 @@ beschliesst:
 
 <sup>1</sup> Videoüberwachungsanlagen können in der Öffentlichkeit auf öffentlichem Grund eingerichtet oder betrieben werden, um Übergriffen auf Personen und Sachen vorzubeugen und zur Verfolgung und zur Ahndung solcher Übergriffe beizutragen.
 
-<sup>2</sup> Videoüberwachungsanlagen ohne Datenaufzeichnung müssen vor der Inbetriebnahme der Oberamtsperson und der oder dem Datenschutzbeauftragten gemeldet werden.
+<sup>2</sup> Videoüberwachungsanlagen ohne Datenaufzeichnung müssen vor der Inbetriebnahme der Oberamtsperson und der oder dem Öffentlichkeits- und Datenschutzbeauftragten (der oder dem Beauftragten) gemeldet werden.
 
 <sup>3</sup> Videoüberwachungsanlagen mit Datenaufzeichnung sind den folgenden besonderen Anforderungen unterstellt.
 
@@ -83,6 +83,8 @@ beschliesst:
 
 <sup>2</sup> Jede Videoüberwachungsanlage muss in einem Benutzungsreglement dokumentiert werden, das die technischen Eigenschaften und die zur Einhaltung der allgemeinen Anforderungen des Datenschutzes getroffenen Massnahmen umschreibt.
 
+<sup>3</sup> Vor jeder Installation einer neuen Anlage zur systematischen Videoüberwachung von grossen Teilen des öffentlichen Raums muss eine Datenschutz-Folgenabschätzung im Sinne von Artikel 41 des Gesetzes vom 12. Oktober 2023 über den Datenschutz durchgeführt werden.
+
 #### Art. 5
 
 **Videoüberwachung mit Datenaufzeichnung – Bewilligung**
@@ -90,7 +92,8 @@ beschliesst:
 <sup>1</sup> Wer eine Videoüberwachungsanlage mit Datenaufzeichnung in Betrieb nehmen will, braucht eine Bewilligung. Die Bewilligung wird erteilt, wenn:
 
 - a) der Grundsatz der Verhältnismässigkeit nach Artikel 4 Abs. 1 Bst. a eingehalten erscheint;
-- b) die im Benutzungsreglement aufgeführten Massnahmen ausreichend erscheinen, um die allgemeinen Anforderungen und den Datenschutz einzuhalten.
+- b) die im Benutzungsreglement aufgeführten Massnahmen ausreichend erscheinen, um die allgemeinen Anforderungen und den Datenschutz einzuhalten;
+- c) in den Fällen nach Artikel 4 Abs. 3 eine Datenschutz-Folgenabschätzung durchgeführt wurde und deren Schlussfolgerungen bekannt sind.
 
 <sup>2</sup> Die Oberamtsperson ist für die Ausstellung der Bewilligung zuständig; sie entscheidet nach Einholen der Stellungnahme der kantonalen Behörde für Öffentlichkeit, Datenschutz und Mediation und gegebenenfalls derjenigen Gemeinde, auf deren Gebiet die Einrichtung der Überwachungsanlage vorgesehen ist. Den Organen, die Stellung genommen haben, wird eine Kopie des Entscheides zugestellt.
 
@@ -114,7 +117,7 @@ beschliesst:
 
 **Videoüberwachung ohne Datenaufzeichnung**
 
-<sup>1</sup> Die Verwaltungsorgane und Privatpersonen, die eine Videoüberwachungsanlage ohne Datenaufzeichnung aufstellen wollen, müssen vorgängig die Oberamtsperson und die Datenschutzbeauftragte oder den Datenschutzbeauftragten benachrichtigen. Die Verwaltungsorgane informieren gleichzeitig die Direktion des Staatsrates, welcher sie angehören oder zugeordnet sind oder in deren Zuständigkeitsbereich die Tätigkeit fällt, die im zu überwachenden Raum ausgeübt wird.
+<sup>1</sup> Die Verwaltungsorgane und Privatpersonen, die eine Videoüberwachungsanlage ohne Datenaufzeichnung aufstellen wollen, müssen vorgängig die Oberamtsperson und die Beauftragte oder den Beauftragten benachrichtigen. Die Verwaltungsorgane informieren gleichzeitig die Direktion des Staatsrates, der sie angehören oder zugeordnet sind oder in deren Zuständigkeitsbereich die Tätigkeit fällt, die im zu überwachenden Raum ausgeübt wird.
 
 <sup>2</sup> Artikel 4 Abs. 1 Bst. b gilt auch für die Videoüberwachung ohne Datenaufzeichnung.
 
