@@ -3,18 +3,18 @@ sr: "910.181"
 title: "Ordonnance du DEFR du 22 septembre 1997 sur l'agriculture biologique"
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/2519_2519_2519"
 language: fr
-version: 2023-01-01
+version: 2024-01-01
 adopted: 1997-09-22
 in_force: 1998-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2519_2519_2519/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-1997-2519_2519_2519-20230101-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/2519_2519_2519/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2519_2519_2519/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-1997-2519_2519_2519-20240101-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/2519_2519_2519/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du DEFR sur l’agriculture biologique
 
-du 22 septembre 1997 (État le 1<sup>er</sup> janvier 2023)
+du 22 septembre 1997 (État le 1<sup>er</sup> janvier 2024)
 
 Le Département fédéral de l’économie, de la formation et de la recherche (DEFR)[^ingress-1],
 
@@ -181,31 +181,14 @@ Sont interdits les additifs pour l’alimentation animale et les auxiliaires tec
 Pour la transformation des aliments biologiques pour animaux et pour l’alimentation des animaux élevés selon les prescriptions de la présente ordonnance, seuls peuvent être utilisés les produits suivants:
 
 - a. matières premières d’aliments pour animaux, sous forme biologique;
-- b. matières premières d’aliments pour animaux et additifs pour l’alimentation animale selon l’annexe 7, partie A, ch. 1, et partie B;
-- c. matières premières d’aliments pour animaux, sous une forme non biologique, selon l’annexe 7, partie A, ch. 2, pour autant qu’elles ont été produites ou préparées sans recours à un solvant chimique;
-- d.
+- b. matières premières d’aliments pour animaux et additifs pour l’alimentation animale selon l’annexe 7;
+- c. sel sous forme de sel marin ou obtenu à partir de gisements de sel gemme.[^4b-2]
 
-  épices, herbes aromatiques, et mélasses, sous une forme non biologique, pour autant:
-
-  - 1\. qu’ils ne sont pas disponibles sous une forme biologique,
-  - 2\. qu’ils ont été produits ou préparés sans recours à un solvant chimique, et
-  - 3\. que leur incorporation se limite à 1 % de la ration alimentaire annuelle totale de chaque catégorie d’animaux; ce chiffre est calculé en pourcentage de matière sèche des aliments pour animaux d’origine agricole;
-
-- e. matières premières d’aliments pour animaux d’origine animale, sous une forme biologique;
-- f.
-
-  produits de la pêche respectant le principe d’exploitation durable, pour autant:
-
-  - 1\. qu’ils ont été produits ou préparés sans recours à un solvant chimique,
-  - 2\. qu’ils sont utilisés uniquement pour les animaux non herbivores,
-  - 3\. que les hydrolysats de protéines de poisson sont utilisés uniquement pour les jeunes animaux;
-
-- g. sel sous forme de sel marin ou de sel gemme brut de mine.
-
-<sup>2</sup> Les dispositions de l’ordonnance du 26 octobre 2011 sur les aliments pour animaux[^4b-2] sont réservées.
+<sup>2</sup> Les dispositions de l’ordonnance du 26 octobre 2011 sur les aliments pour animaux[^4b-3] sont réservées.
 
 [^4b-1]: Introduit par le ch. I de l’O du DEFR du 23 août 2000 ([RO 2000 2508](https://fedlex.data.admin.ch/eli/oc/2000/399)). Nouvelle teneur selon le ch. I de l’O du DEFR du 31 oct. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6357](https://fedlex.data.admin.ch/eli/oc/2012/757)).
-[^4b-2]: [RS 916.307](https://fedlex.data.admin.ch/eli/cc/2011/772)
+[^4b-2]: Nouvelle teneur selon le ch. I de l’O du DEFR du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 744](https://fedlex.data.admin.ch/eli/oc/2023/744)).
+[^4b-3]: [RS 916.307](https://fedlex.data.admin.ch/eli/cc/2011/772)
 
 #### Art. 4c
 
@@ -701,6 +684,16 @@ Les produits biologiques peuvent encore être produits et remis selon les dispos
 
 [^u6-2]: [RS 817.022.104](https://fedlex.data.admin.ch/eli/cc/2017/180)
 
+## Dispositions transitoires relatives à la modification du 1<sup>er</sup> novembre 2023
+
+[^u7-1]
+
+[^u7-1]: [RO 2023 744](https://fedlex.data.admin.ch/eli/oc/2023/744)
+
+<sup>1</sup> Jusqu’au 31 décembre 2024, l’utilisation d’extrait ou d’autolysat de levure non biologique (calculé en matière sèche) à concurrence de 5 % est autorisée pour la production de levures biologiques, lorsqu’il est prouvé que l’extrait ou l’autolysat de levure issu de la production biologique n’est pas disponible.
+
+<sup>2</sup> Il est possible d’utiliser de la gomme gellane (E 418) selon l’annexe 3, partie A, issue de la production non biologique pour la fabrication de denrées alimentaires transformées jusqu’au 31 décembre 2025.
+
 Annexe 1[^t-1]
 
 (art. 1 et 16, al. 5)
@@ -782,11 +775,11 @@ Annexe 2[^t-2]
 
 ## Engrais autorisés, préparations et substrats
 
-[^t-2]: Mise à jour par le ch. I de l’ O du DEFR du 7 déc. 1998 ([RO 1999 292](https://fedlex.data.admin.ch/eli/oc/1999/33)), le ch. I al. 1 de l’O du DEFR du 14 déc. 2000 ([RO 2001 252](https://fedlex.data.admin.ch/eli/oc/2001/52)), l’art. 9 de l’O du DEFR du 28 fév. 2001 sur le Livre des engrais ([RO 2001 722](https://fedlex.data.admin.ch/eli/oc/2001/109)), le ch. I de l’O du DEFR du 13 mars 2001 ([RO 2001 1322](https://fedlex.data.admin.ch/eli/oc/2001/181)), l’annexe 3 de l’O du DEFR du 16 nov. 2007 sur le Livre des engrais, ([RO 2007 6311](https://fedlex.data.admin.ch/eli/oc/2007/836)), le ch. II al. 1 de l’O du DEFR du 27 oct. 2010 ([RO 2010 5863](https://fedlex.data.admin.ch/eli/oc/2010/837)), le ch. II al. 2 de l’O du DEFR du 29 oct. 2014 ([RO 2014 3979](https://fedlex.data.admin.ch/eli/oc/2014/672)), le ch. II al. 1 de l’O du DEFR du 18 oct. 2017 ([RO 2017 6349](https://fedlex.data.admin.ch/eli/oc/2017/706)), le ch. II de l’O du DEFR du 23 oct. 2019 ([RO 2019 3591](https://fedlex.data.admin.ch/eli/oc/2019/659)) et le ch. II al. 1 des O du DEFR du 11 nov. 2020 ([RO 2020 5461](https://fedlex.data.admin.ch/eli/oc/2020/953)) et du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 683](https://fedlex.data.admin.ch/eli/oc/2021/683)).
+[^t-2]: Mise à jour par l’annexe 3 de l’O du DEFR du 16 nov. 2007 sur le Livre des engrais ([RO 2007 6311](https://fedlex.data.admin.ch/eli/oc/2007/836)), le ch. II al. 2 de l’O du DEFR du 29 oct. 2014 ([RO 2014 3979](https://fedlex.data.admin.ch/eli/oc/2014/672)), le ch. II al. 1 de l’O du DEFR du 18 oct. 2017 ([RO 2017 6349](https://fedlex.data.admin.ch/eli/oc/2017/706)), le ch. II de l’O du DEFR du 23 oct. 2019 ([RO 2019 3591](https://fedlex.data.admin.ch/eli/oc/2019/659)) et le ch. II al. 1 des O du DEFR du 11 nov. 2020 ([RO 2020 5461](https://fedlex.data.admin.ch/eli/oc/2020/953)), du 3 nov. 2021 ([RO 2021 683](https://fedlex.data.admin.ch/eli/oc/2021/683)) et du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 744](https://fedlex.data.admin.ch/eli/oc/2023/744)).
 
 Les engrais et les préparations peuvent être désignés comme biodynamiques lorsqu’ils sont produits selon les directives de l’agriculture biodynamique.
 
-Les dispositions de l’ordonnance du 10 janvier 2001 sur les engrais[^annex2-lvlu1-1] et de l’ordonnance du 16 novembre 2007 sur le Livre des engrais[^annex2-lvlu1-2] sont réservées.
+Les dispositions de l’ordonnance du 1<sup>er</sup> novembre 2023 sur les engrais[^annex2-lvlu1-1] sont réservées.
 
 <table>
 <tr><th colspan="2">Dénomination</th><th>Description; exigences concernant la composition; règles d’utilisation</th></tr>
@@ -799,7 +792,7 @@ Les dispositions de l’ordonnance du 10 janvier 2001 sur les engrais[^annex2-lv
 <tr><td colspan="3">2.1. Produits d’origine minérale</td></tr>
 <tr><td colspan="2">Argiles préparées (p. ex. perlite, vermiculite)</td><td></td></tr>
 <tr><td colspan="2">Carbonate de calcium d’origine naturelle (p. ex. craie, marne, roche calcique moulue, maërl [lithotamne, calcaire d’algues marines], craie phosphatée)</td><td></td></tr>
-<tr><td colspan="2">Carbonate de calcium et de magnésium (p. ex. : craie magnésienne, roche calcique magnésienne moulue, dolomite)</td><td></td></tr>
+<tr><td colspan="2">Carbonate de calcium et de magnésium (p. ex.: craie magnésienne, roche calcique magnésienne moulue, dolomite)</td><td></td></tr>
 <tr><td colspan="2">Chaux dérivée de la production de sucre\*</td><td></td></tr>
 <tr><td colspan="2">Chlorure de sodium\*</td><td>Uniquement sel gemme</td></tr>
 <tr><td colspan="2">Farines de pierre (p. ex. farines de quartz, de basalte, d’argile)</td><td></td></tr>
@@ -812,14 +805,14 @@ Les dispositions de l’ordonnance du 10 janvier 2001 sur les engrais[^annex2-lv
 <tr><td colspan="2">Sulfate de calcium (gypse)</td><td>Uniquement d’origine naturelle</td></tr>
 <tr><td colspan="2">Sulfate de magnésium (p. ex. kiésérite)\*</td><td>Uniquement d’origine naturelle</td></tr>
 <tr><td colspan="2">Sulfate de potassium\*</td><td>Tiré de sel brut de potasse. À utiliser uniquement après mise en évidence d’une carence en potassium à l’aide d’échantillons du sol</td></tr>
-<tr><td colspan="3">2.2. Produits organiques et organo-minéraux</td></tr>
+<tr><td colspan="3">2.2 Produits organiques et organo-minéraux</td></tr>
 <tr><td colspan="2">Charbon végétal\*\*\*</td><td>Seul le bois à l’état naturel est autorisé en tant que matériel initial pour la fabrication.</td></tr>
 <tr><td colspan="2">Acides humiques, acides fulviques</td><td>Uniquement produits à l’aide de sels/solutions anorganiques, à l’exclusion des sels d’ammonium, ou issus du traitement de l’eau potable.</td></tr>
 <tr><td colspan="2">Fumier\*</td><td>Mélange d’excréments animaux et de matière végétale (litière) Indication des espèces animales</td></tr>
 <tr><td colspan="2">Fumier séché et fiente de volaille déshydratée\*</td><td>Indication des espèces animales</td></tr>
 <tr><td colspan="2">Excréments animaux compostés, y compris les fientes de volaille et le fumier composté\*</td><td>Indication des espèces animales</td></tr>
 <tr><td colspan="2">Excréments animaux liquides (lisier, urine)\*</td><td>Utilisation après fermentation contrôlée et/ou dilution appropriée</td></tr>
-<tr><td colspan="2">Compost ou digestats provenant de déchets ménagers\*</td><td>Déchets ménagers triés, compostés ou issus de la méthanisation lors de la production de biogaz. Uniquement déchets végétaux et animaux. Produits dans un système de collecte fermé et contrôlé. Teneur maximale de la matière sèche en mg/kg: cadmium: 0,7 ; cuivre: 70; nickel: 25; plomb: 45; zinc: 200; mercure: 0,4; chrome (au total): 70; chrome (VI): 0\*\*</td></tr>
+<tr><td colspan="2">Compost ou digestats provenant de déchets ménagers\*</td><td>Déchets ménagers triés, compostés ou issus de la méthanisation lors de la production de biogaz. Uniquement déchets végétaux et animaux. Produits dans un système de collecte fermé et contrôlé. Teneur maximale de la matière sèche en mg/kg: cadmium: 0,7; cuivre: 70; nickel: 25; plomb: 45; zinc: 200; mercure: 0,4; chrome (au total): 70; chrome (VI): 0\*\*</td></tr>
 <tr><td colspan="2">Tourbe</td><td>Uniquement pour la sélection végétale et les terres de bruyère</td></tr>
 <tr><td colspan="2">Substrat de champignonnières</td><td>La composition initiale du substrat doit être limitée à des produits mentionnés dans la présente liste</td></tr>
 <tr><td colspan="2">Déjections de vers (lombricompost) et d’insectes</td><td></td></tr>
@@ -856,10 +849,12 @@ Les dispositions de l’ordonnance du 10 janvier 2001 sur les engrais[^annex2-lv
 <tr><td colspan="2">Sédiments anaérobies riches en matières organiques provenant de masses d’eau douce (p. ex. sapropèle)</td><td>Uniquement les sédiments organiques qui sont des sous-produits de la gestion des masses d’eau douce ou qui sont extraits d’anciennes masses d’eau douce</td></tr>
 <tr><td colspan="2"></td><td>Le cas échéant, l’extraction doit être effectuée de manière à limiter autant que possible l’incidence sur le milieu aquatique</td></tr>
 <tr><td colspan="2"></td><td>Uniquement les sédiments provenant de sources exemples de contaminations par pesticides, polluants organiques persistants et substances telles que l’essence</td></tr>
-<tr><td colspan="2"></td><td>Concentrations maximales en mg/kg de matière sèche: cadmium: 0,7; cuivre: 70; nickel: 25; plomb: 45; zinc: 200; mercure: 0,4 ; chrome (total): 70; chrome (VI): 0\*\*</td></tr>
+<tr><td colspan="2"></td><td>Concentrations maximales en mg/kg de matière sèche: cadmium: 0,7; cuivre: 70; nickel: 25; plomb: 45; zinc: 200; mercure: 0,4; chrome (total): 70; chrome (VI): 0\*\*</td></tr>
 <tr><td colspan="2">Sciures et copeaux de bois</td><td>Bois non traité chimiquement</td></tr>
 <tr><td colspan="2">Compost d’écorces</td><td>Bois non traité chimiquement</td></tr>
 <tr><td colspan="2">Cendres de bois</td><td>Bois non traité chimiquement, ainsi que seules les cendres produites dans l’exploitation ou avec une autorisation selon l’ordonnance sur les engrais\*\*\*</td></tr>
+<tr><td colspan="2">Struvite récupérée et sels de phosphate précipités</td><td>Les produits doivent répondre aux exigences de l’ordonnance sur les engrais</td></tr>
+<tr><td colspan="2">Chlorure de potassium</td><td>Uniquement d’origine naturelle</td></tr>
 <tr><td colspan="3">2.3 Oligo-éléments</td></tr>
 <tr><td colspan="2">Oligo-éléments\*</td><td></td></tr>
 <tr><td colspan="3">2.4 Cultures de micro-organismes pour le traitement des sols</td></tr>
@@ -889,7 +884,6 @@ Les dispositions de l’ordonnance du 10 janvier 2001 sur les engrais[^annex2-lv
 </table>
 
 [^annex2-lvlu1-1]: [RS 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)
-[^annex2-lvlu1-2]: [RS 916.171.1](https://fedlex.data.admin.ch/eli/cc/2007/836)
 
 Annexe 3[^t-3]
 
@@ -897,7 +891,7 @@ Annexe 3[^t-3]
 
 ## Produits et substances destinés à la fabrication de denrées alimentaires transformées
 
-[^t-3]: Nouvelle teneur selon le ch. III al. 2 de l’O du DEFR du 31 oct. 2012 ([RO 2012 6357](https://fedlex.data.admin.ch/eli/oc/2012/757)). Mise à jour par le ch. II de l’O du DEFR du 28 oct. 2015 ([RO 2015 4519](https://fedlex.data.admin.ch/eli/oc/2015/754)), le ch. III al. 2 de l’O du DEFR du 1<sup>er</sup> sept. 2016 ([RO 2016 3183](https://fedlex.data.admin.ch/eli/oc/2016/537)), le ch. II al. 1 des O du DEFR du 18 oct. 2017 ([RO 2017 6349](https://fedlex.data.admin.ch/eli/oc/2017/706)) et du 31 oct. 2018 ([RO 2018 4367](https://fedlex.data.admin.ch/eli/oc/2018/703)), le ch. II de l’O du DEFR du 23 oct. 2019 ([RO 2019 3591](https://fedlex.data.admin.ch/eli/oc/2019/659)) et le ch. II al. 1 des O du DEFR du 11 nov. 2020 ([RO 2020 5461](https://fedlex.data.admin.ch/eli/oc/2020/953)) et du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 683](https://fedlex.data.admin.ch/eli/oc/2021/683)).
+[^t-3]: Nouvelle teneur selon le ch. III al. 2 de l’O du DEFR du 31 oct. 2012 ([RO 2012 6357](https://fedlex.data.admin.ch/eli/oc/2012/757)). Mise à jour par le ch. II de l’O du DEFR du 28 oct. 2015 ([RO 2015 4519](https://fedlex.data.admin.ch/eli/oc/2015/754)), le ch. III al. 2 de l’O du DEFR du 1<sup>er</sup> sept. 2016 ([RO 2016 3183](https://fedlex.data.admin.ch/eli/oc/2016/537)), le ch. II al. 1 des O du DEFR du 18 oct. 2017 ([RO 2017 6349](https://fedlex.data.admin.ch/eli/oc/2017/706)) et du 31 oct. 2018 ([RO 2018 4367](https://fedlex.data.admin.ch/eli/oc/2018/703)), le ch. II de l’O du DEFR du 23 oct. 2019 ([RO 2019 3591](https://fedlex.data.admin.ch/eli/oc/2019/659)) et le ch. II al. 1 des O du DEFR du 11 nov. 2020 ([RO 2020 5461](https://fedlex.data.admin.ch/eli/oc/2020/953)), du 3 nov. 2021 ([RO 2021 683](https://fedlex.data.admin.ch/eli/oc/2021/683)) et du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 744](https://fedlex.data.admin.ch/eli/oc/2023/744)). Voir aussi les disp. trans. de cette mod. ci-dessus.
 
 ### Partie A Additifs alimentaires autorisés, y compris les supports
 
@@ -986,8 +980,8 @@ L’utilisation de tous les additifs est soumise aux restrictions prévues par l
 <tr><td>Hydroxyde de sodium</td><td>Admis uniquement pour la production de sucre(s), pour la production d’huile (à l’exclusion de la production d’huile d’olive) et pour la production d’extraits de protéine végétale</td><td>Non admis</td></tr>
 <tr><td>Gypse naturel</td><td>Admis uniquement pour la production de sucre</td><td>Non admis</td></tr>
 <tr><td>Acide sulfurique</td><td>Admis uniquement pour la production de sucre</td><td>Admis uniquement pour la production de gélatine</td></tr>
-<tr><td>Extrait de houblon</td><td>Uniquement pour le traitement antimicrobien lors de la fabrication du sucre Issu de la production biologique, dans la mesure des disponibilités</td><td>Non admis</td></tr>
-<tr><td>Extrait de résine du pin</td><td>Uniquement pour le traitement antimicrobien lors de la fabrication du sucre Issu de la production biologique, dans la mesure des disponibilités</td><td>Non admis</td></tr>
+<tr><td>Extrait de houblon</td><td>Uniquement pour le traitement antimicrobien Issu de la production biologique, dans la mesure des disponibilités</td><td>Non admis</td></tr>
+<tr><td>Extrait de résine du pin</td><td>Uniquement pour le traitement antimicrobien Issu de la production biologique, dans la mesure des disponibilités</td><td>Non admis</td></tr>
 <tr><td>Acide chlorhydrique</td><td>Non admis</td><td>Admis uniquement pour la production de gélatine et pour la régulation du pH de la saumure dans la fabrication de Gouda, d’Edam, de Maasdammer, de Boerenkaas, de Friese et de Leidse Nagelkaas</td></tr>
 <tr><td>Hydroxyde d’ammonium</td><td>Non admis</td><td>Admis uniquement pour la production de gélatine</td></tr>
 <tr><td>Peroxyde d’hydrogène</td><td>Non admis</td><td>Admis uniquement pour la production de gélatine</td></tr>
@@ -1012,7 +1006,7 @@ L’utilisation de tous les additifs est soumise aux restrictions prévues par l
 <tr><td>Farine de riz</td><td>Admis</td><td>Non admis</td></tr>
 <tr><td>Cire d’abeilles</td><td>Admis uniquement comme agent antiadhérent Uniquement quand elle est issue de matières premières biologiques</td><td>Non admis</td></tr>
 <tr><td>Cire de carnauba</td><td>Admis uniquement comme agent antiadhérent Production biologique uniquement</td><td>Non admis</td></tr>
-<tr><td>Acide acétique/vinaigre</td><td>Non admis</td><td>Uniquement quand il est issu de la production biologique Pour la transformation du poisson, uniquement de source biotechnologique, sauf s’il est produit à partir d’OGM ou par des OGM</td></tr>
+<tr><td>Acide acétique/vinaigre</td><td>Uniquement quand il est issu de la production biologique et de la fermentation naturelle</td><td>Uniquement pour les produits à base de poisson Uniquement quand il est issu de la production biologique et de la fermentation naturelle</td></tr>
 <tr><td>Chlorhydrate de thiamine</td><td>Uniquement dans la transformation des vins de fruits, y c. le cidre, le poiré et l’hydromel</td><td>uniquement pour la fabrication de l’hydromel</td></tr>
 <tr><td>Phosphate diammonique</td><td>Uniquement dans la transformation des vins de fruits, y c. le cidre, le poiré et l’hydromel</td><td>uniquement pour la fabrication de l’hydromel</td></tr>
 <tr><td>Poudre de fleur de foin</td><td>Non admis</td><td>Uniquement pour la constitution de trous dans la fabrication de fromage Uniquement issue de la production biologique</td></tr>
@@ -1043,6 +1037,7 @@ L’utilisation de tous les additifs est soumise aux restrictions prévues par l
 <tr><th>Ingrédient</th><th>Conditions et restrictions</th></tr>
 <tr><th>Algues Arame (*Eisenia bicyclis*), non transformées ainsi que les produits du premier échelon de transformation qui sont en lien direct avec ces algues</th><th></th></tr>
 <tr><th>Algues Hijiki (*Hizikia fusiforme*), non transformées ainsi que les produits du premier échelon de transformation qui sont en lien direct avec ces algues</th><th></th></tr>
+<tr><th>Algues, y compris les algues marines, pouvant être utilisées pour la production de denrées alimentaires courante.</th><th>Uniquement issues de l’aquaculture biologique conformément aux normes internationales reconnues</th></tr>
 <tr><th>Écorce de Pau d’Arco (*Handroanthus impetiginosus*) «lapacho»</th><th>Seulement dans le Kombucha et les mélanges d’infusions</th></tr>
 <tr><th>Boyaux</th><th>Issus de matières premières naturelles d’origine végétale ou animale</th></tr>
 <tr><th>Gélatine</th><th>Issue d’autres espèces animales que le porc</th></tr>
@@ -1076,17 +1071,23 @@ Annexe 3b[^t-5]
 
 (art. 3*c*)
 
-## Actes de l’Union européenne relatifs à l’agriculture biologique
+## Actes de l’Union européenne concernant l’agriculture biologique
 
-[^t-5]: Introduite par le ch. III al. 3 de l’O du DEFR du 31 oct. 2012 ([RO 2012 6357](https://fedlex.data.admin.ch/eli/oc/2012/757)). Nouvelle teneur selon le ch. II de l’O du DEFR du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 733](https://fedlex.data.admin.ch/eli/oc/2022/733)).
+[^t-5]: Introduite par le ch. III al. 3 de l’O du DEFR du 31 oct. 2012 ([RO 2012 6357](https://fedlex.data.admin.ch/eli/oc/2012/757)). Nouvelle teneur selon le ch. II al. 2 de l’O du DEFR du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 744](https://fedlex.data.admin.ch/eli/oc/2023/744)).
 
-Règlement (UE) 2018/848 du Parlement européen et du Conseil du 30 mai 2018 relatif à la production biologique et à l’étiquetage des produits biologiques et abrogeant le règlement (CE) n<sup>o</sup> 834/2007 du Conseil, JO L 150 du 14.6.2018, p. 1; modifié en dernier lieu par le règlement délégué (UE) 2022/474, JO L 98 du 25.3.2022, p. 1.
+- 1\. La version suivante du règlement (UE) 2018/848 fait foi:
+- Règlement (UE) 2018/848 du Parlement européen et du Conseil du 30 mai 2018 relatif à la production biologique et à l’étiquetage des produits biologiques, et abrogeant le règlement (CE) n<sup>o</sup> 834/2007 du Conseil, JO L 150 du 14.6.2018, p. 1; modifié en dernier lieu par le règlement (UE) 2023/207, JO L 29 du 1.2.2023, p. 6.
+- 2\. Pour le règlement (UE) n<sup>o</sup> 1308/2013, cité dans le règlement (UE) 2018/848, la version suivante fait foi:
+- Règlement (UE) n<sup>o</sup> 1308/2013 du Parlement européen et du Conseil du 17 décembre 2013 portant organisation commune des marchés des produits agricoles et abrogeant les règlements (CEE) n<sup>o</sup> 922/72, (CEE) n<sup>o</sup> 234/79, (CE) n<sup>o</sup> 1037/2001 et (CE) n<sup>o</sup> 1234/2007 du Conseil, JO L 347 du 20.12.2013, p. 671; modifié en dernier lieu par le règlement (UE) 2021/2117 JO L 435 du 6.12.21, p. 262.
+- 3\. En lieu et place du règlement (UE) n<sup>o</sup> 606/2009 et du règlement (CE) n<sup>o</sup> 1234/2007, cités dans le règlement (UE) 2018/848, les règlements suivants s’appliquent:
 
-Pour le règlement (UE) n<sup>o</sup> 1308/2013 du Parlement européen et du Conseil du 17 décembre 2013 portant organisation commune des marchés des produits agricoles et abrogeant les règlements (CEE) n 922/72, (CEE) n<sup>o</sup> 234/79, (CE) n<sup>o</sup> 1037/2001 et (CE) n<sup>o</sup> 1234/2007 du Conseil s’applique dans la version figurant au JO L 347 du 20.12.2013, p. 671; modifié en dernier lieu par le règlement (UE) 2020/2220, JO L 437 du 28.12.2020, p. 1.
+<table>
+<tr><td>Règlement (CE) n<sup>o</sup> 606/2009</td><td>Règlement délégué (UE) 2019/934[^annex3b-lvlu1-1]</td></tr>
+<tr><td>Règlement (CE) n<sup>o</sup> 1234/2007</td><td>Règlement (UE) n<sup>o</sup> 1308/2013[^annex3b-lvlu1-2]</td></tr>
+</table>
 
-Le règlement délégué (UE) 2019/934 de la Commission du 12 mars 2019 complétant le règlement (UE) n<sup>o</sup> 1308/2013 du Parlement européen et du Conseil en ce qui concerne les zones viticoles où le titre alcoométrique peut être augmenté, les pratiques œnologiques autorisées et les restrictions applicables à la production et à la conservation de produits de la vigne, le pourcentage minimal d’alcool pour les sous-produits et leur élimination, et la publication des fiches de l’OIV, JO L 149 du 7.6.2019, p. 1, modifié en dernier lieu par le règlement délégué (UE) 2022/68, JO L 12 du 19.1.2022, p. 1, s’applique en lieu et place du règlement (CE) n<sup>o</sup> 606/2009 de la Commission du 10 juillet 2009 fixant certaines modalités d’application du règlement (CE) n<sup>o</sup> 479/2008 du Conseil en ce qui concerne les catégories de produits de la vigne, les pratiques œnologiques et les restrictions qui s’y appliquent, cité dans le règlement (UE) 2018/848.
-
-Le règlement (UE) n<sup>o</sup> 1308/2013 du Parlement européen et du Conseil du 17 décembre 2013 portant organisation commune des marchés des produits agricoles et abrogeant les règlements (CEE) n<sup>o</sup> 922/72, (CEE) n<sup>o</sup> 234/79, (CE) n<sup>o</sup> 1037/2001 et (CE) n<sup>o</sup> 1234/2007 du Conseil, JO L 347 du 20.12.2013, p. 671; modifié en dernier lieu par le règlement (UE) 2020/2220, JO L 437 du 28.12.2020, p. 1, s’applique en lieu et place du règlement (CE) n<sup>o</sup> 1234/2007 du Conseil du 22 octobre 2007 portant organisation commune des marchés dans le secteur agricole et dispositions spécifiques en ce qui concerne certains produits de ce secteur (règlement OCM unique), cité dans le règlement (UE) 2018/848.
+[^annex3b-lvlu1-1]: Règlement délégué (UE) 2019/934 de la Commission du 12 mars 2019 complétant le règlement (UE) n<sup>o</sup> 1308/2013 du Parlement européen et du Conseil en ce qui concerne les zones viticoles où le titre alcoométrique peut être augmenté, les pratiques œnologiques autorisées et les restrictions applicables à la production et à la conservation de produits de la vigne, le pourcentage minimal d’alcool pour les sous-produits et leur élimination, et la publication des fiches de l’OIV, JO L 149 du 7.6.2019, p. 1; modifié en dernier lieu par le Règlement délégué (UE) 2022/68, JO L 12 du 19.2.2022, p. 1.
+[^annex3b-lvlu1-2]: Règlement (UE) n<sup>o</sup> 1308/2013 du Parlement européen et du Conseil du 17 décembre 2013 portant organisation commune des marchés des produits agricoles et abrogeant les règlements (CEE) n<sup>o</sup> 922/72, (CEE) n<sup>o</sup> 234/79, (CE) n<sup>o</sup> 1037/2001 et (CE) n<sup>o</sup> 1234/2007 du Conseil, JO L 347 du 20.12.2013, p. 671; modifié en dernier lieu par le règlement (UE) 2021/2117 JO L 435 du 6.12.2021, p. 262.
 
 Annexe 4[^t-6]
 
@@ -1158,20 +1159,20 @@ Annexe 6[^t-9]
 
 ## Exigences en matière de parcours et d’aire à climat extérieur
 
-[^t-9]: Introduite par le ch. II de l’O du DEFR du 23 août 2000 ([RO 2000 2508](https://fedlex.data.admin.ch/eli/oc/2000/399)). Nouvelle teneur selon le ch. III al. 2 de l’O du DEFR du 1<sup>er</sup> sept. 2016, en vigueur depuis le 1<sup>er</sup> oct. 2016 ([RO 2016 3183](https://fedlex.data.admin.ch/eli/oc/2016/537)).
+[^t-9]: Introduite par le ch. II de l’O du DEFR du 23 août 2000 ([RO 2000 2508](https://fedlex.data.admin.ch/eli/oc/2000/399)). Nouvelle teneur selon le ch. II al. 2 de l’O du DEFR du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 744](https://fedlex.data.admin.ch/eli/oc/2023/744)).
 
 ### 1. Parcours (ou aire d’exercice) pour les bovins, les buffles d’Asie, les ovins et les caprins (production de lait et de viande)
 
-Les exigences fixées à l’annexe 6, let. E, ch. 3, 4 et 5, OPD[^annex6-lvlu1-lvl1-1] doivent être respectées. Pour les caprins et les ovins ne relevant pas de l’art. 73, let. c et d, OPD, ces exigences s’appliquent par analogie.
+Les exigences fixées à l’annexe 6, let. B, OPD[^annex6-lvlu1-lvl1-1] doivent être respectées.
 
 [^annex6-lvlu1-lvl1-1]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
 
 ### 2. Surface totale pour les porcins
 
-Les exigences concernant l’aire d’exercice fixées à l’annexe 6, let. E, ch. 6, OPD doivent être respectées.
+Les exigences concernant l’aire d’exercice fixées à l’annexe 6, let. B, ch. 3, OPD doivent être respectées.
 
 <table>
-<tr><td>Animaux</td><td>Surface totale (étable et parcours) au moins ... m<sup>2</sup>/animal</td></tr>
+<tr><th>Animaux</th><th>Surface totale (étable et parcours) au moins … m<sup>2</sup>/animal</th></tr>
 <tr><td>Truies d’élevage non allaitantes</td><td>2,8</td></tr>
 <tr><td>Verrats</td><td>10</td></tr>
 <tr><td>Animaux de renouvellement et porcs à l’engrais de plus de 60 kg</td><td>1,65</td></tr>
@@ -1181,146 +1182,174 @@ Les exigences concernant l’aire d’exercice fixées à l’annexe 6, let. E, 
 
 ### 3. Aire à climat extérieur pour la volaille de rente
 
-Les exigences fixées à l’annexe 6, let. B, OPD doivent être respectées.
+Les exigences fixées à l’annexe 6, let. B, ch. 4, OPD doivent être respectées.
 
 Annexe 7[^t-10]
 
-(art. 4*b,* al. 1, let. b et c)
+(art. 4*b*, al. 1, let. b)
 
 ## Matières premières d’aliments pour animaux et additifs pour l’alimentation animale
 
-[^t-10]: Introduite par le ch. II de l’O du DEFR du 23 août 2000 ([RO 2000 2508](https://fedlex.data.admin.ch/eli/oc/2000/399)). Nouvelle teneur selon le ch. III al. 2 de l’O du DEFR du 31 oct. 2012 ([RO 2012 6357](https://fedlex.data.admin.ch/eli/oc/2012/757)). Mise à jour par le ch. II al. 2 de l’O du DEFR du 29 oct. 2014 ([RO 2014 3979](https://fedlex.data.admin.ch/eli/oc/2014/672)), le ch. III al. 2 de l’O du DEFR du 1<sup>er</sup> sept. 2016 ([RO 2016 3183](https://fedlex.data.admin.ch/eli/oc/2016/537)) et le ch. II al. 1 de l’O du DEFR du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 683](https://fedlex.data.admin.ch/eli/oc/2021/683)).
+[^t-10]: Introduite par le ch. II de l’O du DEFR du 23 août 2000 ([RO 2000 2508](https://fedlex.data.admin.ch/eli/oc/2000/399)). Nouvelle teneur selon le ch. II al. 2 de l’O du DEFR du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 744](https://fedlex.data.admin.ch/eli/oc/2023/744)).
+
+Les dispositions de l’ordonnance du 26 octobre 2011 sur les aliments pour animaux[^annex7-lvlu1-1] et de l’ordonnance du 26 octobre 2011 sur le Livre des aliments pour animaux (OLALA)[^annex7-lvlu1-2] sont réservées.
 
 ### Partie A Matières premières d’aliments pour animaux
 
+[^annex7-lvlu1-1]: [RS 916.307](https://fedlex.data.admin.ch/eli/cc/2011/772)
+[^annex7-lvlu1-2]: [RS 916.307.1](https://fedlex.data.admin.ch/eli/cc/2011/802)
+
+Les numéros figurant dans le catalogue des matières premières d’aliments pour animaux proviennent de l’annexe 1.4, ch. 3, OLALA).
+
 ### 1. Matières premières d’aliments pour animaux, d’origine minérale
 
-- – coquilles marines calcaires
-- – maërl
-- – lithotamne
-- – gluconate de calcium
-- – carbonate de calcium
-- – oxyde de magnésium (magnésie anhydre)
-- – sulfate de magnésium
-- – chlorure de magnésium
-- – carbonate de magnésium
-- – phosphate monocalcique défluoré
-- – phosphate dicalcique défluoré
-- – phosphate de calcium et de magnésium
-- – phosphate de magnésium
-- – phosphate de monosodium
-- – phosphate de calcium et de sodium
-- – chlorure de sodium
-- – bicarbonate de sodium
-- – carbonate de sodium
-- – sulfate de sodium
-- – chlorure de potassium
+<table>
+<tr><th>Numéro dans le catalogue des matières premières d’aliments pour animaux</th><th>Dénomination</th><th>Conditions et restrictions spécifiques</th></tr>
+<tr><td>11.1.1</td><td>carbonate de calcium</td><td></td></tr>
+<tr><td>11.1.2</td><td>coquilles marines calcaires</td><td></td></tr>
+<tr><td>11.1.4</td><td>maërl</td><td></td></tr>
+<tr><td>11.1.5</td><td>lithotamne</td><td></td></tr>
+<tr><td>11.1.13</td><td>gluconate de calcium</td><td></td></tr>
+<tr><td>11.2.1</td><td>oxyde de magnésium</td><td></td></tr>
+<tr><td>11.2.4</td><td>sulfate de magnésium, anhydre</td><td></td></tr>
+<tr><td>11.2.6</td><td>chlorure de magnésium</td><td></td></tr>
+<tr><td>11.2.7</td><td>carbonate de magnésium</td><td></td></tr>
+<tr><td>11.3.1</td><td>phosphate dicalcique</td><td></td></tr>
+<tr><td>11.3.3</td><td>phosphate monocalcique</td><td></td></tr>
+<tr><td>11.3.5</td><td>phosphate de calcium et de magnésium</td><td></td></tr>
+<tr><td>11.3.8</td><td>phosphate de magnésium</td><td></td></tr>
+<tr><td>11.3.10</td><td>phosphate de monosodium</td><td></td></tr>
+<tr><td>11.3.16</td><td>phosphate de calcium et de sodium</td><td></td></tr>
+<tr><td>11.4.1</td><td>chlorure de sodium</td><td></td></tr>
+<tr><td>11.4.2</td><td>bicarbonate de sodium</td><td></td></tr>
+<tr><td>11.4.4</td><td>carbonate de sodium</td><td></td></tr>
+<tr><td>11.4.6</td><td>sulfate de sodium</td><td></td></tr>
+<tr><td>11.5.1</td><td>chlorure de potassium</td><td></td></tr>
+</table>
 
 ### 2. Autres matières premières d’aliments pour animaux
 
-Produits/sous-produits de la fermentation de micro-organismes dont les cellules ont été inactivées ou tuées:
-
-- – *Saccharomyces cerevisiae*
-- – *Saccharomyces carlsbergiensis*
+<table>
+<tr><th>Numéro dans le catalogue des matières premières d’aliments pour animaux</th><th>Dénomination</th><th>Conditions et restrictions spécifiques</th></tr>
+<tr><td>10</td><td>Farines, huiles et autres matières premières d’aliments pour animaux obtenues à partir de poissons ou d’autres animaux aquatiques</td><td>Seuls sont autorisés les produits de la pêche respectant le principe d’exploitation durable et produits ou préparés sans recours à un solvant chimique. Les restrictions d’utilisation suivantes s’appliquent: 1. les produits sont utilisés uniquement pour les animaux non herbivores, 2. les hydrolysats de protéines de poisson sont utilisés uniquement pour les jeunes animaux.</td></tr>
+<tr><td>ex 12.1.5</td><td>Levures</td><td>Levures de *Saccharomyces* *cerevisiae* ou *Saccharomyces carlsbergensis*, inactivées, de sorte qu’aucun micro-organisme vivant n’est présent Si non disponibles à partir de la production biologique</td></tr>
+<tr><td>ex 12.1.12</td><td>Produits à base de levures</td><td>Produit de fermentation issu de *Saccharomyces cerevisiae* ou *Saccharomyces* *carlsbergensis*, inactivées, de sorte qu’aucun micro-organisme vivant n’est présent, contient des levures Si non disponibles à partir de la production biologique</td></tr>
+<tr><td></td><td>Herbes aromatiques Mélasses Épices</td><td>Peuvent être utilisées, pour autant: 1. qu’elles ne soient pas disponibles à partir de la production biologique, et 2. qu’elles aient été produites ou préparées sans recours à un solvant chimique. La restriction d’utilisation suivante s’applique: leur incorporation doit se limiter à 1 % de la ration alimentaire annuelle totale de chaque catégorie d’animaux; ce chiffre est calculé en pourcentage de matière sèche des aliments pour animaux d’origine agricole.</td></tr>
+</table>
 
 ### Partie B Additifs pour l’alimentation animale
 
-Tous les additifs doivent satisfaire aux exigences de l’ordonnance du 26 octobre 2011 sur les aliments pour animaux[^annex7-lvlu1-partB-1]. Les catégories et les groupes fonctionnels sont repris des annexes 2 et 6.1 de l’ordonnance 26 octobre 2011 sur le Livre des aliments pour animaux OLALA[^annex7-lvlu1-partB-2].
+Les numéros d’identification et les groupes fonctionnels proviennent des annexes 2 et 6.1 de l’OLALA.
 
-### Catégorie 1:Additifs technologiques
+### Catégorie 1: Additifs technologiques
 
-[^annex7-lvlu1-partB-1]: [RS 916.307](https://fedlex.data.admin.ch/eli/cc/2011/772)
-[^annex7-lvlu1-partB-2]: [RS 916.307.1](https://fedlex.data.admin.ch/eli/cc/2011/802)
-
-Groupe fonctionnel: a) Agents conservateurs:
+Groupe fonctionnel a) Agents conservateurs:
 
 <table>
-<tr><td>Code</td><td>Catégorie/ Groupe fonctionnel</td><td>Désignation</td><td>Description, conditions d’utilisation</td></tr>
-<tr><td>E 200</td><td>1a</td><td>Acide sorbique</td><td></td></tr>
-<tr><td>E 236</td><td>1a</td><td>Acide formique</td><td></td></tr>
-<tr><td>E 237</td><td>1a</td><td>Formiate de sodium</td><td></td></tr>
-<tr><td>E 260</td><td>1a</td><td>Acide acétique</td><td></td></tr>
-<tr><td>E 270</td><td>1a</td><td>Acide lactique</td><td></td></tr>
-<tr><td>E 280</td><td>1a</td><td>Acide propionique</td><td></td></tr>
-<tr><td>E 330</td><td>1a</td><td>Acide citrique</td><td></td></tr>
+<tr><th>Numéro d’identification ou groupe fonctionnel</th><th>Dénomination</th><th>Conditions et restrictions spécifiques</th></tr>
+<tr><td>1a200</td><td>Acide sorbique</td><td></td></tr>
+<tr><td>1k236</td><td>Acide formique</td><td></td></tr>
+<tr><td>1k237i</td><td>Formiate de sodium</td><td></td></tr>
+<tr><td>1a260</td><td>Acide acétique</td><td></td></tr>
+<tr><td>1a270</td><td>Acide lactique</td><td></td></tr>
+<tr><td>1k280</td><td>Acide propionique</td><td></td></tr>
+<tr><td>1a330</td><td>Acide citrique</td><td></td></tr>
 </table>
 
-Groupe fonctionnel: b) Antioxigènes:
+Groupe fonctionnel b) Antioxigènes:
 
 <table>
-<tr><td>Code</td><td>Catégorie/ Groupe fonctionnel</td><td>Désignation</td><td>Description, conditions d’utilisation</td></tr>
-<tr><td>1b306(i)</td><td>1b</td><td>Extraits de tocophérols tirés d’huiles végétales</td><td></td></tr>
-<tr><td>1b306(ii)</td><td>1b</td><td>Extraits riches en tocophérols tirés d’huiles végétales (riches en delta-tocophérols)</td><td></td></tr>
+<tr><th>Numéro d’identification ou groupe fonctionnel</th><th>Dénomination</th><th>Conditions et restrictions spécifiques</th></tr>
+<tr><td>1b306(i)</td><td>Extraits de tocophérols tirés d’huiles végétales</td><td></td></tr>
+<tr><td>1b306(ii)</td><td>Extraits riches en tocophérols tirés d’huiles végétales (riches en delta-tocophérols)</td><td></td></tr>
 </table>
 
-Groupes fonctionnels: g) Liants et i) antiagglomérants:
+Groupe fonctionnel c) Émulsifiants, stabilisants, épaississants et gélifiants:
 
 <table>
-<tr><th>Code</th><th colspan="2">Catégorie/ Groupe fonctionnel</th><th colspan="3">Désignation</th><th>Description, conditions d’utilisation</th></tr>
-<tr><td colspan="2">E 412</td><td colspan="2">1</td><td>Farine de graines de guar</td><td colspan="2"></td></tr>
-<tr><td>E 535</td><td colspan="2">1</td><td colspan="3">Ferrocyanure de sodium</td><td>Teneur maximale: 20 mg/kg NaCl (calculé en anions ferrocyanure)</td></tr>
-<tr><td>E 551b</td><td colspan="2">1</td><td colspan="3">Silice colloïdale</td><td></td></tr>
-<tr><td>E 551c</td><td colspan="2">1</td><td colspan="3">Kieselgur (terre de diatomée purifiée)</td><td></td></tr>
-<tr><td>1m558</td><td colspan="2">1</td><td colspan="3">Bentonite</td><td></td></tr>
-<tr><td>E 559</td><td colspan="2">1</td><td colspan="3">Argiles kaolinitiques, exemptes d’amiante</td><td></td></tr>
-<tr><td>E 560</td><td colspan="2">1</td><td colspan="3">Mélanges naturels de stéatites et de chlorite</td><td></td></tr>
-<tr><td>E 561</td><td colspan="2">1</td><td colspan="3">Vermiculite</td><td></td></tr>
-<tr><td>E 562</td><td colspan="2">1</td><td colspan="3">Sépiolite</td><td></td></tr>
-<tr><td>E 566</td><td colspan="2">1</td><td colspan="3">Natrolite-phonolite</td><td></td></tr>
-<tr><td>1g568</td><td colspan="2">1</td><td colspan="3">Clinoptilolite d’origine sédimentaire</td><td></td></tr>
-<tr><td>E 599</td><td colspan="2">1</td><td colspan="3">Perlite</td><td></td></tr>
+<tr><th>Numéro d’identification ou groupe fonctionnel</th><th>Dénomination</th><th>Conditions et restrictions spécifiques</th></tr>
+<tr><td>E 415</td><td>Xanthan</td><td></td></tr>
+<tr><td>E 412</td><td>Farine de graines de guar</td><td></td></tr>
 </table>
 
-Groupe fonctionnel: k) Additifs d’ensilage:
+Groupes fonctionnels g) Liants et i) Antiagglomérants:
 
 <table>
-<tr><th>Code</th><th>Catégorie/ Groupe fonctionnel</th><th>Désignation</th><th>Description, conditions d’utilisation</th></tr>
-<tr><td></td><td>1k</td><td>Enzymes, micro-organismes</td><td>Pour ensilage: uniquement si les conditions climatiques ne permettent pas une fermentation suffisante</td></tr>
-<tr><td>E236</td><td>1k</td><td>Acide formique</td><td></td></tr>
-<tr><td>E237</td><td>1k</td><td>Formiate de sodium</td><td></td></tr>
-<tr><td>E280</td><td>1k</td><td>Acide propionique</td><td></td></tr>
-<tr><td>E281</td><td>1k</td><td>Propionate de sodium</td><td></td></tr>
+<tr><th>Numéro d’identification ou groupe fonctionnel</th><th>Dénomination</th><th>Conditions et restrictions spécifiques</th></tr>
+<tr><td>E 535</td><td>Ferrocyanure de sodium</td><td>Teneur maximale: 20 mg/kg NaCl (calculé en anions ferrocyanure)</td></tr>
+<tr><td>E551b</td><td>Silice colloïdale</td><td></td></tr>
+<tr><td>E551c</td><td>Kieselgur (terre de diatomée purifiée)</td><td></td></tr>
+<tr><td>1m558i</td><td>Bentonite</td><td></td></tr>
+<tr><td>E559</td><td>Argiles kaolinitiques, exemptes d’amiante</td><td></td></tr>
+<tr><td>E560</td><td>Mélanges naturels de stéatites et de chlorite</td><td></td></tr>
+<tr><td>E562</td><td>Sépiolite</td><td></td></tr>
+<tr><td>E566</td><td>Natrolite-phonolite</td><td></td></tr>
+<tr><td>1g568</td><td>Clinoptilolite d’origine sédimentaire</td><td></td></tr>
+</table>
+
+Groupe fonctionnel k) Additifs d’ensilage:
+
+<table>
+<tr><th>Numéro d’identification ou groupe fonctionnel</th><th>Dénomination</th><th>Conditions et restrictions spécifiques</th></tr>
+<tr><td>1k 1k236 1k237 1k280 1k281</td><td>Enzymes, micro-organismes Acide formique Formiate de sodium Acide propionique Propionate de sodium</td><td>Uniquement pour garantir une fermentation suffisante</td></tr>
 </table>
 
 ### Catégorie 2: Additifs sensoriels
 
-Groupe fonctionnel: b) Substances aromatisantes
+Groupe fonctionnel b) Substances aromatisantes:
 
 <table>
-<tr><td>Code</td><td>Catégorie/ Groupe fonctionnel</td><td>Désignation</td><td>Description, conditions d’utilisation</td></tr>
-<tr><td></td><td>2b</td><td>Substances aromatisantes</td><td>Seulement des extraits issus de produits agricoles</td></tr>
-<tr><td></td><td>*2b*</td><td>*Castanea sativa Mill.: Extrait de bois de châtaignier*</td><td></td></tr>
+<tr><th>Numéro d’identification ou groupe fonctionnel</th><th>Dénomination</th><th>Conditions et restrictions spécifiques</th></tr>
+<tr><td>ex2b</td><td>Substances aromatisantes</td><td>Seulement des extraits issus de produits agricoles, y compris l’extrait de bois de châtaignier (*Castanea sativa* Mill.)</td></tr>
 </table>
 
 ### Catégorie 3: Additifs nutritionnels
 
-Groupe fonctionnel: a) Vitamines, provitamines et substances à effet analogue chimiquement bien définies
+Groupe fonctionnel a) Vitamines, provitamines et substances à effet analogue chimiquement bien définies:
 
 <table>
-<tr><th>Code</th><th>Catégorie/ Groupe fonctionnel</th><th>Désignation</th><th>Description, conditions d’utilisation</th></tr>
-<tr><td></td><td>3a</td><td>vitamines et provitamines</td><td>– issues de produits agricoles – si elles sont synthétiques, seules les vitamines qui sont identiques à celles provenant de produits agricoles peuvent être utilisées pour les monogastriques – dans le cas des vitamines synthétiques, seules les vitamines A, D et E identiques à celles provenant de produits agricoles peuvent être utilisées pour les ruminants</td></tr>
-<tr><td></td><td>3a</td><td>Betaïne anhydre</td><td>Uniquement pour les monogastriques Uniquement d’origine naturelle, et d’origine biologique si elle est disponible</td></tr>
+<tr><th>Numéro d’identification ou groupe fonctionnel</th><th>Dénomination</th><th>Conditions et restrictions spécifiques</th></tr>
+<tr><td>3a</td><td>Vitamines et provitamines</td><td>Issues de produits agricoles Si elles ne sont pas disponibles à partir de produits agricoles, les vitamines et provitamines synthétiques sont autorisées, aux conditions suivantes: – seules les vitamines qui sont identiques à celles provenant de produits agricoles peuvent être utilisées pour les monogastriques – seules les vitamines A, D et E identiques à celles provenant de produits agricoles peuvent être utilisées pour les ruminants</td></tr>
+<tr><td>3a920</td><td>Betaïne anhydre</td><td>Uniquement pour les monogastriques Issue de la production biologique; si non disponible, d’origine naturelle</td></tr>
 </table>
 
-Groupe fonctionnel: b) Oligo-éléments
+Groupe fonctionnel b) Oligo-éléments:
 
 <table>
-<tr><th>Code</th><th>Catégorie/ Groupe fonctionnel</th><th>Désignation</th><th>Description, conditions d’utilisation</th></tr>
-<tr><td>E1 Fer</td><td>3b</td><td>– Oxyde ferrique – Carbonate ferreux – Sulfate ferreux, heptahydraté – Sulfate ferreux, monohydraté</td><td></td></tr>
-<tr><td>E2 Iode</td><td>3b</td><td>– Iodate de calcium, anhydre – Iodure de potassium – Granulés enrobés d’iodate de calcium anhydre</td><td></td></tr>
-<tr><td>E3 Cobalt</td><td>3b</td><td>– Acétate de cobalt(II) tétrahydraté – Carbonate de cobalt(II) – Carbonate hydroxyde (2:3) de cobalt(II) monohydraté – Granulés enrobés de carbonate de cobalt(II) – Sulfate de cobalt(II) heptahydraté</td><td></td></tr>
-<tr><td>E4 Cuivre</td><td>3b</td><td>– carbonate basique de cuivre, monohydraté – oxyde de cuivre – sulfate de cuivre, pentahydraté – trihydroxychlorure de dicuivre (TBCC)</td><td></td></tr>
-<tr><td>E5 Manga-nèse</td><td>3b</td><td>– carbonate manganeux – oxyde manganeux – sulfate manganeux, monohydraté</td><td></td></tr>
-<tr><td>E6 Zinc</td><td>3b</td><td>– oxyde de zinc – sulfate de zinc monohydraté – sulfate de zinc heptahydraté – hydroxychlorure de zinc monohydraté (TBZC)</td><td></td></tr>
-<tr><td>E7 Molybdène</td><td>3b</td><td>– molybdate de sodium</td><td></td></tr>
-<tr><td>E8 Sélénium</td><td>3b</td><td>– sélénate de sodium – sélénite de sodium Sélénium sous forme organique issu de *Saccharomyces cerevisiae* (levure séléniée inactivée)</td><td></td></tr>
+<tr><th>Numéro d’identification ou groupe fonctionnel</th><th>Dénomination</th><th>Conditions et restrictions spécifiques</th></tr>
+<tr><td>3b101</td><td>Carbonate de fer (II) (sidérite)</td><td></td></tr>
+<tr><td>3b103</td><td>Sulfate de fer (II), monohydraté</td><td></td></tr>
+<tr><td>3b104</td><td>Sulfate de fer (II), heptahydraté</td><td></td></tr>
+<tr><td>3b201</td><td>Iodure de potassium</td><td></td></tr>
+<tr><td>3b202</td><td>Iodate de calcium, anhydre</td><td></td></tr>
+<tr><td>3b203</td><td>Granulés enrobés d’iodate de calcium anhydre</td><td></td></tr>
+<tr><td>3b304</td><td>Granulés enrobés de carbonate de cobalt(II)</td><td></td></tr>
+<tr><td>3b402</td><td>Dihydroxycarbonate de cuivre(II) monohydraté</td><td></td></tr>
+<tr><td>3b404</td><td>Oxyde de cuivre(II)</td><td></td></tr>
+<tr><td>3b405</td><td>Sulfate de cuivre(II) pentahydraté</td><td></td></tr>
+<tr><td>3b409</td><td>Trihydroxychlorure de dicuivre</td><td></td></tr>
+<tr><td>3b502</td><td>Oxyde de manganèse(II)</td><td></td></tr>
+<tr><td>3b503</td><td>Sulfate de manganèse(II), monohydraté</td><td></td></tr>
+<tr><td>3b603</td><td>Oxyde de zinc</td><td></td></tr>
+<tr><td>3b604</td><td>Sulfate de zinc heptahydraté</td><td></td></tr>
+<tr><td>3b605</td><td>Sulfate de zinc monohydraté</td><td></td></tr>
+<tr><td>3b609</td><td>Hydroxychlorure de zinc monohydraté</td><td></td></tr>
+<tr><td>3b701</td><td>Molybdate de sodium dihydraté</td><td></td></tr>
+<tr><td>3b801</td><td>Sélénite de sodium</td><td></td></tr>
+<tr><td>3b802</td><td>Granulés enrobés de sélénite de sodium</td><td></td></tr>
+<tr><td>3b803</td><td>Sélénate de sodium</td><td></td></tr>
+<tr><td>3b810</td><td>Levure séléniée, *Saccharomyces cerevisiae* CNCM I-3060, inactivée</td><td></td></tr>
+<tr><td>3b811</td><td>Levure séléniée, *Saccharomyces cerevisiae* NCYC R397, inactivée</td><td></td></tr>
+<tr><td>3b812</td><td>Levure séléniée, *Saccharomyces cerevisiae* CNCM I-3399, inactivée</td><td></td></tr>
+<tr><td>3b813</td><td>Levure séléniée, *Saccharomyces cerevisiae* NCYC R646, inactivée</td><td></td></tr>
+<tr><td>3b817</td><td>Levure séléniée, *Saccharomyces cerevisiae* NCYC R645, inactivée</td><td></td></tr>
 </table>
 
 ### Catégorie 4: Additifs zootechniques
 
 <table>
-<tr><th>Code</th><th>Catégorie/ Groupe fonctionnel</th><th>Désignation</th><th>Description, conditions d’utilisation</th></tr>
-<tr><td></td><td>4a, 4b, 4c, 4d</td><td>Enzymes et micro-organismes dans la catégorie des «additifs zootechniques».</td><td></td></tr>
+<tr><th>Numéro d’identification ou groupe fonctionnel</th><th>Dénomination</th><th>Conditions et restrictions spécifiques</th></tr>
+<tr><td>4a, 4b, 4c et 4d</td><td>Enzymes et microorganismes</td><td></td></tr>
 </table>
 
 Annexe 8[^t-11]
@@ -1389,7 +1418,7 @@ Confédération suisse Certificat de contrôle pour l’importation de produits 
 
 ## Partie B Certificat de contrôle partiel
 
-Confédération suisse Certificat de contrôle partiel n<sup>o</sup> ...
+Confédération suisse Certificat de contrôle partiel n<sup>o</sup> …
 
 <table>
 <tr><td>1. Organisme de certification ou autorité qui a délivré le certificat de contrôle initial (nom, adresse et numéro de code)</td><td>2. Importation selon: O sur l’agriculture biologique, art. 23 (Liste de pays) □ O sur l’agriculture biologique, art. 23*a* (Reconnaissance des organismes de certification et des autorités de contrôle en dehors de la liste des pays) □</td></tr>
@@ -1423,30 +1452,35 @@ Annexe 12[^t-15]
 
 ## Modèle de rapport annuel des organismes de certification sur les contrôles dans le secteur de la production biologique
 
-[^t-15]: Introduite par le ch. II al. 3 de l’O du DEFR du 29 oct. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 3979](https://fedlex.data.admin.ch/eli/oc/2014/672)).
-
-### 1. Informations relatives au contrôle des opérateurs
+[^t-15]: Introduite par le ch. II al. 3 de l’O du DEFR du 29 oct. 2014 ([RO 2014 3979](https://fedlex.data.admin.ch/eli/oc/2014/672)). Nouvelle teneur selon le ch. II al. 2 de l’O du DEFR du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 744](https://fedlex.data.admin.ch/eli/oc/2023/744)).
 
 <table>
-<tr><td>Organisme de certification</td><td>Nombre d’opérateurs enregistrés par organisme de certification</td><td colspan="5">Nombre d’opérateurs enregistrés</td><td></td><td></td><td></td><td></td><td colspan="5">Nombre de contrôles réguliers</td><td></td><td></td><td></td><td></td><td colspan="5">Nombre de contrôles fondés sur des risques additionnels</td><td></td><td></td><td></td><td></td><td colspan="5">Total des contrôles</td><td></td><td></td><td></td><td></td></tr>
-<tr><td></td><td></td><td>Producteurs agricoles \*</td><td>Transformateurs \*\*</td><td>Importateurs</td><td>Exportateurs</td><td colspan="5">Autres opérateurs \*\*\*</td><td>Producteurs agricoles \*</td><td>Transformateurs \*\*</td><td>Importateurs</td><td>Exportateurs</td><td colspan="5">Autres opérateurs \*\*\*</td><td>Producteurs agricoles \*</td><td>Transformateurs \*\*</td><td>Importateurs</td><td>Exportateurs</td><td colspan="5">Autres opérateurs \*\*\*</td><td>Producteurs agricoles \*</td><td>Transformateurs \*\*</td><td>Importateurs</td><td>Exportateurs</td><td colspan="5">Autres opérateurs \*\*\*</td></tr>
+<tr><th>Organisme de certification</th><th>Nombre d’opérateurs enregistrés par organisme de certification</th><th colspan="5">Nombre d’opérateurs enregistrés</th><th></th><th></th><th></th><th></th><th colspan="5">Nombre de contrôles réguliers</th><th></th><th></th><th></th><th></th><th colspan="5">Nombre de contrôles additionnels fondés sur des risques</th><th></th><th></th><th></th><th></th><th colspan="5">Total des contrôles</th><th></th><th></th><th></th><th></th></tr>
+<tr><th></th><th></th><th>Producteurs agricoles \*</th><th>Transformateurs \*\*</th><th>Importateurs</th><th>Exportateurs</th><th colspan="5">Autres opérateurs \*\*\*</th><th>Producteurs agricoles \*</th><th>Transformateurs \*\*</th><th>Importateurs</th><th>Exportateurs</th><th colspan="5">Autres opérateurs \*\*\*</th><th>Producteurs agricoles \*</th><th>Transformateurs \*\*</th><th>Importateurs</th><th>Exportateurs</th><th colspan="5">Autres opérateurs \*\*\*</th><th>Producteurs agricoles \*</th><th>Transformateurs \*\*</th><th>Importateurs</th><th>Exportateurs</th><th colspan="5">Autres opérateurs \*\*\*</th></tr>
 </table>
 
 <table>
-<tr><td>Organisme de certification</td><td colspan="4">Nombre de contrôles non annoncés</td><td colspan="2"></td><td></td><td></td><td></td><td colspan="4">Nombre d’échantillons analysés</td><td colspan="2"></td><td></td><td></td><td></td><td colspan="4">Nombre d’échantillons indiquant une infraction à l’ordonnance du 22 septembre 1997 sur l’agriculture biologique et à la présente ordonnance</td><td colspan="2"></td><td></td><td></td><td></td></tr>
-<tr><td></td><td>Producteurs agricoles \*</td><td>Transformateurs \*\*</td><td>Importateurs</td><td colspan="2">Exportateurs</td><td colspan="4">Autres opérateurs \*\*\*</td><td>Producteurs agricoles \*</td><td>Transformateurs \*\*</td><td>Importateurs</td><td colspan="2">Exportateurs</td><td colspan="4">Autres opérateurs \*\*\*</td><td>Producteurs agricoles \*</td><td>Transformateurs \*\*</td><td>Importateurs</td><td colspan="2">Exportateurs</td><td colspan="4">Autres opérateurs \*\*\*</td></tr>
+<tr><th>Organisme de certification</th><th colspan="4">Nombre de contrôles non annoncés</th><th colspan="2"></th><th></th><th></th><th></th><th colspan="4">Nombre d’échantillons analysés</th><th colspan="2"></th><th></th><th></th><th></th><th colspan="4">Nombre d’échantillons indiquant une infraction à l’ordonnance sur l’agriculture biologique et à la présente ordonnance</th><th colspan="2"></th><th></th><th></th><th></th></tr>
+<tr><th></th><th>Producteurs agricoles \*</th><th>Transformateurs \*\*</th><th>Importateurs</th><th colspan="2">Exportateurs</th><th colspan="4">Autres opérateurs \*\*\*</th><th>Producteurs agricoles \*</th><th>Transformateurs \*\*</th><th>Importateurs</th><th colspan="2">Exportateurs</th><th colspan="4">Autres opérateurs \*\*\*</th><th>Producteurs agricoles \*</th><th>Transformateurs \*\*</th><th>Importateurs</th><th colspan="2">Exportateurs</th><th colspan="4">Autres opérateurs \*\*\*</th></tr>
 </table>
 
 <table>
-<tr><td>Organisme de certification</td><td colspan="4">Nombre d’irrégularités ou d’infractions constatées<sup>(1)</sup></td><td colspan="2"></td><td></td><td></td><td></td><td colspan="4">Nombre de mesures appliquées au lot ou à la production<sup>(2)</sup></td><td colspan="2"></td><td></td><td></td><td></td><td colspan="4">Nombre de mesures appliquées à l’opérateur<sup>(3)</sup></td><td colspan="2"></td><td></td><td></td><td></td></tr>
-<tr><td></td><td>Producteurs agricoles \*</td><td>Transformateurs \*\*</td><td>Importateurs</td><td colspan="2">Exportateurs</td><td colspan="4">Autres opérateurs \*\*\*</td><td>Producteurs agricoles \*</td><td>Transformateurs \*\*</td><td>Importateurs</td><td colspan="2">Exportateurs</td><td colspan="4">Autres opérateurs \*\*\*</td><td>Producteurs agricoles \*</td><td>Transformateurs \*\*</td><td>Importateurs</td><td colspan="2">Exportateurs</td><td colspan="4">Autres opérateurs \*\*\*</td></tr>
+<tr><th>Organisme de certification</th><th>Nombre d’irrégularités et d’infractions constatées – **TOTAL**<sup>(1)</sup></th><th>Nombre de charges liés à la commercialisation (concernant le statut biologique des produits)<sup>(2)</sup></th><th>Nombre de retraits ou de non-octrois de la reconnaissance d’exploitations agricoles<sup>(3)</sup></th></tr>
+<tr><th></th><th>Producteurs agricoles\*</th><th>Producteurs agricoles\*</th><th>Producteurs agricoles\*</th></tr>
 </table>
 
-<sup>(1)</sup> Seules les irrégularités et les infractions qui altèrent le caractère biologique des produits et/ou qui ont donné lieu à une mesure (y compris une simple observation) sont indiquées.
+<table>
+<tr><th>Organisme de certification</th><th colspan="4">Nombre d’irrégularités et d’infractions constatées -**TOTAL**</th><th></th><th></th><th></th><th colspan="4">Nombre d’irrégularités et d’infractions constatées **A**<sup>(4)</sup></th><th></th><th></th><th></th><th colspan="4">Nombre d’irrégularités et d’infractions constatées **B**<sup>(4)</sup></th><th></th><th></th><th></th><th colspan="4">Nombre d’irrégularités et d’infractions constatées **C**<sup>(4)</sup></th><th></th><th></th><th></th><th colspan="4">Nombre d’irrégularités et d’infractions constatées **D**<sup>(4)</sup></th><th></th><th></th><th></th></tr>
+<tr><th></th><th>Transformateurs \*\*</th><th>Importateurs</th><th>Exportateurs</th><th colspan="4">Autres opérateurs \*\*\*</th><th>Transformateurs \*\*</th><th>Importateurs</th><th>Exportateurs</th><th colspan="4">Autres opérateurs \*\*\*</th><th>Transformateurs \*\*</th><th>Importateurs</th><th>Exportateurs</th><th colspan="4">Autres opérateurs \*\*\*</th><th>Transformateurs \*\*</th><th>Importateurs</th><th>Exportateurs</th><th colspan="4">Autres opérateurs \*\*\*</th><th>Transformateurs \*\*</th><th>Importateurs</th><th>Exportateurs</th><th colspan="4">Autres opérateurs \*\*\*</th></tr>
+</table>
 
-<sup>(2)</sup> Lorsque l’irrégularité constatée concerne la non-conformité avec les exigences établies par la présente ordonnance et que l’organisme de certification s’assure qu’aucune référence au mode de production biologique ne figure sur l’étiquetage et dans la publicité relatifs à l’ensemble du lot ou de la production concerné par cette irrégularité.
+<sup>(1)</sup> Toutes les irrégularités et infractions, même celles qui n’ont pas donné lieu à des mesures.
 
-<sup>(3)</sup> Lorsqu’une infraction grave ou une infraction avec effet prolongé est constatée, l’organisme de certification interdit à l’opérateur en cause de commercialiser des produits comportant une référence au mode de production biologique sur l’étiquetage et dans la publicité pendant une période à convenir avec l’autorité compétente.
+<sup>(2)</sup> Seules les irrégularités et infractions qui ont donné lieu à des charges en matière de commercialisation et à une mesure s’y rapportant.
+
+<sup>(3)</sup> Seules les irrégularités et infractions qui ont donné lieu au retrait ou au non-octroi de la reconnaissance du statut biologique.
+
+<sup>(4)</sup> Selon les niveaux de sanction A à D figurant dans les instructions de l’OFAG aux organismes de certification, destinées à l’harmonisation de leurs procédures en cas d’irrégularités dans les certifications dans le domaine de la transformation et du commerce bio
 
 \* Les producteurs agricoles incluent uniquement les producteurs agricoles, les producteurs qui sont également transformateurs, les producteurs qui sont également importateurs ainsi que les autres producteurs mixtes non spécifiés.
 
