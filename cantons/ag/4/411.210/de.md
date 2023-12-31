@@ -4,13 +4,13 @@ number: "411.210"
 title: Dekret über die Löhne der Lehrpersonen
 short: "Lohndekret Lehrpersonen, LDLP"
 language: de
-version: 2022-01-01
-valid_until: 2023-12-31
-version_adopted: 2021-11-09
+version: 2024-01-01
+valid_until: 2026-07-31
+version_adopted: 2023-03-14
 adopted: 2004-08-24
 in_force: 2005-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/411.210"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3124/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3383/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3124/pdf_file"
 
 (Lohndekret Lehrpersonen, LDLP)
 
-Vom 24.08.2004 (Stand 01.01.2022)
+Vom 24.08.2004 (Stand 01.01.2024)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -163,9 +163,9 @@ beschliesst:
 
 **Veränderung der Löhne der Lehrpersonen**
 
-<sup>1</sup> Die durch den Grossen Rat gemäss § 13 des Gesetzes über die wirkungsorientierte Steuerung von Aufgaben und Finanzen (GAF) vom 11. Januar 2005[^12-1] beschlossene durchschnittliche prozentuale Veränderung der Löhne der Lehrpersonen wird durch den Regierungsrat in einen generellen und individuellen Anteil aufgeteilt. Bemessungsstichtag ist der 30. September.
+<sup>1</sup> Die durch den Grossen Rat gemäss § 13 des Gesetzes über die wirkungsorientierte Steuerung von Aufgaben und Finanzen (GAF) vom 11. Januar 2005[^12-1] beschlossene durchschnittliche prozentuale Veränderung der Löhne (inklusive Anteil für Systempflege) der Lehrpersonen wird durch den Regierungsrat in einen generellen und individuellen Anteil aufgeteilt. Bemessungsstichtag ist der 30. September.
 
-<sup>2</sup> Die Löhne der Lehrpersonen setzen sich zusammen aus den für die Positionsanteile und die Erfahrungsanteile vorgesehenen beiden Teilsummen. Die Summe der veränderten Löhne sowie die Mittel für Zulagen und für die Veränderung der Stellen bilden die Gesamtlohnsumme der Lehrpersonen.
+<sup>2</sup> Die Löhne der Lehrpersonen setzen sich zusammen aus den für die Positionsanteile und die Erfahrungsanteile vorgesehenen beiden Teilsummen. Die Summe der veränderten Löhne (inklusive zusätzliche Mittel für die Lohnsystempflege) sowie die Mittel für die Veränderung der Stellen sowie allfällige Veränderungen von Arbeitgeberbeiträgen oder Zulagen bilden die Gesamtlohnsumme der Lehrpersonen.
 
 <sup>3</sup> Die Löhne der Lehrpersonen und des dem Gesetz über die Grundzüge des Personalrechts (Personalgesetz, PersG) vom 16. Mai 2000[^12-2] unterstellten Staatspersonals sind in der durchschnittlichen Lohnentwicklung auf die Dauer gleich zu behandeln.
 
@@ -543,7 +543,7 @@ beschliesst:
 
 **Besitzstand**
 
-<sup>1</sup> Liegt bei einer Lehrperson der bisherige Bruttolohn über dem aus der Überführung resultierenden Bruttolohn, wird auf deren bisherigem Lohn längstens bis zum Ende des Schulhalbjahrs, in dem die Lehrperson das 65. Altersjahr vollendet, ein statischer Besitzstand gewährt, sofern die Lehrperson vor dem Inkrafttreten der Änderung des Lehrerlohndekrets mindestens fünf Jahre ununterbrochen im Kanton Aargau an der entsprechenden Schule unterrichtet hat.
+<sup>1</sup> Liegt bei einer Lehrperson der bisherige Bruttolohn über dem aus der Überführung resultierenden Bruttolohn, wird auf deren bisherigem Lohn längstens bis zum Ende des Schulhalbjahrs, in dem die Lehrperson das 65. Altersjahr vollendet, ein statischer Besitzstand gewährt, sofern die Lehrperson vor dem Inkrafttreten der Änderung des Lehrerlohndekrets mindestens fünf Jahre ununterbrochen im Kanton Aargau an der entsprechenden Schulstufe unterrichtet hat.
 
 <sup>2</sup> Generelle Lohnerhöhungen werden nicht auf Besitzstandslöhnen gewährt.
 
