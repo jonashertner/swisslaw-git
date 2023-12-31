@@ -4,11 +4,11 @@ title: Verordnung vom 9. Juni 2017 über das eidgenössische Gebäude- und Wohnu
 short: VGWR
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/376"
 language: de
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2017-06-09
 in_force: 2017-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/376/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2017-376-20230901-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/376/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/376/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2017-376-20240101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/376/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/376/20230901/de"
 
 (VGWR)
 
-vom 9. Juni 2017 (Stand am 1. September 2023) (Stand am 1. September 2023)
+vom 9. Juni 2017 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -313,15 +313,16 @@ Das BFS veröffentlicht die Daten des GWR der Stufe A nach Anhang 1 im Internet.
 Für die Datensicherheit gelten:
 
 - a.[^18-2] die Datenschutzverordnung vom 31. August 2022[^18-3] (DSV);
-- b. die Cyberrisikenverordnung vom 27. Mai 2020[^18-4].
+- b.[^18-4] die Informationssicherheitsverordnung vom 8. November 2023[^18-5].
 
-<sup>2</sup> Für die Sicherheit von Daten juristischer Personen gilt die DSV sinngemäss.[^18-5]
+<sup>2</sup> Für die Sicherheit von Daten juristischer Personen gilt die DSV sinngemäss.[^18-6]
 
 [^18-1]: Fassung gemäss Anhang Ziff. 25 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 [^18-2]: Fassung gemäss Anhang 2 Ziff. II 55 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^18-3]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^18-4]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^18-5]: Eingefügt durch Anhang 2 Ziff. II 55 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^18-4]: Fassung gemäss Anhang 2 Ziff. II 26 der Informationssicherheitsverordnung vom 8. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^18-5]: [SR 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^18-6]: Eingefügt durch Anhang 2 Ziff. II 55 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## 5. Abschnitt: Schlussbestimmungen
 

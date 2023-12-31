@@ -4,11 +4,11 @@ title: Ordinanza del 9 giugno 2017 sul Registro federale degli edifici e delle a
 short: OREA
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/376"
 language: it
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2017-06-09
 in_force: 2017-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/376/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2017-376-20230901-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/376/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/376/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2017-376-20240101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/376/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/376/20230901/it"
 
 (OREA)
 
-del 9 giugno 2017 (Stato 1° settembre 2023)
+del 9 giugno 2017 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -313,15 +313,16 @@ L’UST pubblica in Internet i dati del REA del livello di autorizzazione all’
 La sicurezza dei dati è disciplinata:
 
 - a.[^18-2] nell’ordinanza del 31 agosto 2022[^18-3] sulla protezione dei dati (OPDa);
-- b. nell’ordinanza del 27 maggio 2020[^18-4] sui ciber-rischi.
+- b.[^18-4] nell’ordinanza dell’8 novembre 2023[^18-5] sulla sicurezza delle informazioni.
 
-<sup>2</sup> L’OPDa si applica per analogia alla sicurezza dei dati delle persone giuridiche.[^18-5]
+<sup>2</sup> L’OPDa si applica per analogia alla sicurezza dei dati delle persone giuridiche.[^18-6]
 
 [^18-1]: Nuovo testo giusta l’all. n. 25 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 [^18-2]: Nuovo testo giusta l’all. 2 n. II 55 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^18-3]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^18-4]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^18-5]: Introdotto dall’all. 2 n. II 55 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^18-4]: Nuovo testo giusta l’all. 2 n. II 26 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^18-5]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^18-6]: Introdotto dall’all. 2 n. II 55 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Sezione 5: Disposizioni finali
 
