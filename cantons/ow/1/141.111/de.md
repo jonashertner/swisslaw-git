@@ -3,20 +3,20 @@ canton: OW
 number: "141.111"
 title: Ausführungsbestimmungen über die Stellenbewertung und Entlöhnung
 language: de
-version: 2023-01-01
-valid_until: 2023-12-31
-version_adopted: 2022-09-20
+version: 2024-01-01
+valid_until: 2025-12-31
+version_adopted: 2023-10-17
 adopted: 1998-06-23
 in_force: 1999-01-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/141.111"
-pdf: "http://gdb.ow.ch/api/de/versions/1759/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1846/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Ausführungsbestimmungen über die Stellenbewertung und Entlöhnung
 
-vom 23.06.1998 (Stand 01.01.2023)
+vom 23.06.1998 (Stand 01.01.2024)
 
 Der Regierungsrat des Kantons Obwalden,
 
@@ -236,6 +236,8 @@ geändert durch
 
 \- Nachtrag vom 1. Juli 2021, in Kraft seit 1. August 2021 (OGS 2021, 24),
 
-\- Nachtrag vom 20. September 2022, in Kraft seit 1. Januar 2023 (OGS 2022, 30 und 34)
+\- Nachtrag vom 20. September 2022, in Kraft seit 1. Januar 2023 (OGS 2022, 30 und 34),
+
+\- Nachtrag vom 17. Oktober 2023, in Kraft seit 1. Januar 2024 (OGS 2023, 33)
 
 OGS 1999, 33
