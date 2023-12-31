@@ -3,18 +3,18 @@ sr: "734.272.3"
 title: Ordinanza del DATEC del 30 aprile 2018 sugli impianti elettrici a bassa tensione
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/288"
 language: it
-version: 2023-01-01
+version: 2024-01-01
 adopted: 2018-04-30
 in_force: 2018-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/288/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2018-288-20230101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/288/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/288/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2018-288-20240101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/288/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza del DATEC sugli impianti elettrici a bassa tensione
 
-del 30 aprile 2018 (Stato 1° gennaio 2023)
+del 30 aprile 2018 (Stato 1° gennaio 2024)
 
 Il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni (DATEC),
 
@@ -103,13 +103,15 @@ La Commissione d’esame è composta:
 
 - a. dal direttore dell’Ispettorato federale degli impianti a corrente forte (Ispettorato);
 - b. da due collaboratori dell’Ispettorato nominati dal direttore aventi qualità di persone del mestiere o autorizzati a eseguire controlli;
-- c. da due rappresentanti delle usuali organizzazioni del mondo del lavoro (OrLav) aventi qualità di persone del mestiere o autorizzati a eseguire controlli.
+- c.[^5-1] da due rappresentanti delle usuali organizzazioni del mondo del lavoro (OrLav) aventi qualità di esperti.
 
 <sup>2</sup> La Commissione d’esame è presieduta dal direttore dell’Ispettorato.
 
 <sup>3</sup> La Commissione d’esame stabilisce le prove d’esame, ne determina lo svolgimento e designa gli esperti per le singole prove. Sorveglia lo svolgimento delle prove e decide dell’esito dell’esame.
 
 <sup>4</sup> L’Ispettorato svolge la funzione di segreteria della Commissione d’esame.
+
+[^5-1]: Nuovo testo giusta il n. I dell’O del DATEC del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 767](https://fedlex.data.admin.ch/eli/oc/2023/767)).
 
 #### Art. 6
 

@@ -3,18 +3,18 @@ sr: "734.272.3"
 title: Ordonnance du DETEC du 30 avril 2018 sur les installations électriques à basse tension
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/288"
 language: fr
-version: 2023-01-01
+version: 2024-01-01
 adopted: 2018-04-30
 in_force: 2018-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/288/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2018-288-20230101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/288/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/288/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2018-288-20240101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/288/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du DETEC sur les installations électriques à basse tension
 
-du 30 avril 2018 (État le 1<sup>er</sup> janvier 2023)
+du 30 avril 2018 (État le 1<sup>er</sup> janvier 2024)
 
 Le Département fédéral de l’environnement, des transports, de l’énergie et de la communication (DETEC),
 
@@ -103,13 +103,15 @@ La commission d’examen se compose:
 
 - a. du directeur de l’Inspection fédérale des installations à courant fort (Inspection);
 - b. de deux collaborateurs de l’Inspection nommés par le directeur, qui sont du métier ou qui sont habilités à effectuer les contrôles;
-- c. de deux représentants des organisations du monde du travail (Ortra) de la branche, qui sont du métier ou qui sont habilités à effectuer les contrôles.
+- c.[^5-1] de deux représentants des organisations du monde du travail (Ortra) de la branche, qui disposent de l’expertise requise.
 
 <sup>2</sup> La commission d’examen est présidée par le directeur de l’Inspection.
 
 <sup>3</sup> La commission d’examen définit les sujets d’examen ainsi que le déroulement de l’examen et désigne les experts pour les différentes épreuves. Elle surveille le déroulement des examens et statue sur leurs résultats.
 
 <sup>4</sup> Le secrétariat de la commission d’examen est assuré par l’Inspection.
+
+[^5-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 767](https://fedlex.data.admin.ch/eli/oc/2023/767)).
 
 #### Art. 6
 

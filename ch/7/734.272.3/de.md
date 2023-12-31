@@ -3,18 +3,18 @@ sr: "734.272.3"
 title: Verordnung des UVEK vom 30. April 2018 über elektrische Niederspannungsinstallationen
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/288"
 language: de
-version: 2023-01-01
+version: 2024-01-01
 adopted: 2018-04-30
 in_force: 2018-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/288/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2018-288-20230101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/288/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/288/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2018-288-20240101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/288/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des UVEK über elektrische Niederspannungsinstallationen
 
-vom 30. April 2018 (Stand am 1. Januar 2023)
+vom 30. April 2018 (Stand am 1. Januar 2024)
 
 Das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK),
 
@@ -103,13 +103,15 @@ Die Prüfungskommission setzt sich zusammen aus:
 
 - a. dem Geschäftsführer oder der Geschäftsführerin des Eidgenössischen Starkstrominspektorats (Inspektorat);
 - b. zwei vom Geschäftsführer oder der Geschäftsführerin bestimmten fachkundigen oder kontrollberechtigten Mitarbeitern oder Mitarbeiterinnen des Inspektorats;
-- c. zwei fachkundigen oder kontrollberechtigten Vertretern oder Vertreterinnen der branchenüblichen Organisationen der Arbeitswelt (OdA).
+- c.[^5-1] zwei sachverständigen Vertretern oder Vertreterinnen der branchenüblichen Organisationen der Arbeitswelt (OdA).
 
 <sup>2</sup> Den Vorsitz der Prüfungskommission hat der Geschäftsführer oder die Geschäftsführerin des Inspektorats.
 
 <sup>3</sup> Die Prüfungskommission bestimmt die Prüfungsaufgaben sowie den Prüfungsablauf und bezeichnet die Experten und Expertinnen für die einzelnen Prüfungen. Sie überwacht die Durchführung der Prüfungen und entscheidet über das Bestehen der Prüfung.
 
 <sup>4</sup> Das Sekretariat der Prüfungskommission wird vom Inspektorat geführt.
+
+[^5-1]: Fassung gemäss Ziff. I der V des UVEK vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 (AS **202****3** 767).
 
 #### Art. 6
 
