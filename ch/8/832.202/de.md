@@ -4,11 +4,11 @@ title: Verordnung vom 20. Dezember 1982 über die Unfallversicherung (UVV)
 short: UVV
 eli: "https://fedlex.data.admin.ch/eli/cc/1983/38_38_38"
 language: de
-version: 2023-09-01
+version: 2024-01-01
 adopted: 1982-12-20
 in_force: 1984-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20230901/de/xml/fedlex-data-admin-ch-eli-cc-1983-38_38_38-20230901-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1983/38_38_38/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20240101/de/xml/fedlex-data-admin-ch-eli-cc-1983-38_38_38-20240101-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1983/38_38_38/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1983/38_38_38/20230901/de"
 
 (UVV)
 
-vom 20. Dezember 1982 (Stand am 1. September 2023)
+vom 20. Dezember 1982 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -63,7 +63,7 @@ Als Arbeitnehmer nach Artikel 1*a* Absatz 1 des Gesetzes gilt, wer eine unselbst
 Nicht obligatorisch versichert sind:
 
 - a.[^2-1] mitarbeitende Familienglieder, die keinen Barlohn beziehen und keine Beiträge an die AHV entrichten oder die nach Artikel 1*a* Absatz 2 Buchstaben a und b des Bundesgesetzes vom 20. Juni 1952[^2-2] über die Familienzulagen in der Landwirtschaft den selbstständigen Landwirten gleichgestellt sind;
-- [tab] b.–d. …[^2-3]
+- b.–d. …[^2-3]
 - e.[^2-4] Bundesbedienstete, die nach Artikel 1*a* Absatz 1 Buchstabe b des Bundesgesetzes vom 19. Juni 1992[^2-5] über die Militärversicherung (MVG) der Militärversicherung unterstellt sind;
 - f.[^2-6] Mitglieder von Verwaltungsräten, die nicht im Betrieb tätig sind, für diese Tätigkeit;
 - g.[^2-7] …
@@ -503,49 +503,59 @@ Die Komplementärrenten werden den veränderten Verhältnissen angepasst, wenn:
 - a.[^33-2] Kinderrenten der AHV oder der IV oder gleichartige Renten ausländischer Sozialversicherungen dahinfallen oder neu hinzukommen;
 - b. die Rente der AHV oder der IV infolge einer Änderung der Berechnungsgrundlagen erhöht oder herabgesetzt wird;
 - c.[^33-3] sich der für die Unfallversicherung massgebende Invaliditätsgrad erheblich ändert;
-- d. sich der versicherte Verdienst nach Artikel 24 Absatz 3 ändert.
+- d. sich der versicherte Verdienst nach Artikel 24 Absatz 3 ändert;
+- e.[^33-4] die Rente der AHV gemäss Artikel 39 des Bundesgesetzes vom 20. Dezember 1946[^33-5] über die Alters- und Hinterlassenenversicherung (AHVG) aufgeschoben oder gemäss Artikel 40 AHVG vorbezogen wird.
 
 [^33-1]: Fassung gemäss Ziff. I der V vom 9. Dez. 1996, in Kraft seit 1. Jan. 1997 ([AS 1996 3456](https://fedlex.data.admin.ch/eli/oc/1996/3456_3456_3456)).
 [^33-2]: Fassung gemäss Ziff. I der V vom 9. Nov. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 [^33-3]: Fassung gemäss Ziff. I der V vom 11. Sept. 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3914](https://fedlex.data.admin.ch/eli/oc/2002/607)).
+[^33-4]: Eingefügt durch Anhang Ziff. 9 der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^33-5]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
 #### Art. 33a
 
-**Gegenstand der Rentenkürzung im Alter**[^33a-1]
+**Gegenstand der Rentenkürzung bei Erreichen des Referenzalters[^33a-2]**[^33a-1]
 
 <sup>1</sup> Die Kürzung nach Artikel 20 Absatz 2<sup>ter</sup> UVG erfolgt auf dem Betrag der Invalidenrente beziehungsweise der Komplementärrente einschliesslich der Teuerungszulagen.
 
 <sup>2</sup> Nach Anpassung der Komplementärrente nach Artikel 33 Absatz 2 oder der Teuerungszulagen erfolgt die Kürzung auf dem neuen Betrag.
 
 [^33a-1]: Eingefügt durch Ziff. I der V vom 9. Nov. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
+[^33a-2]: Fassung gemäss Anhang Ziff. 9 der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 33b
 
-**Rentenkürzung im Alter bei mehreren Unfällen**[^33b-1]
+**Rentenkürzung bei Erreichen des Referenzalters bei mehreren Unfällen[^33b-2]**[^33b-1]
 
 <sup>1</sup>
 
 Erleidet der Bezüger einer Invalidenrente der Unfallversicherung einen weiteren versicherten Unfall, der zu einer höheren Invalidenrente führt, so wird die Kürzung nach Artikel 20 Absatz 2<sup>ter</sup> UVG für jeden Rententeil einzeln angewendet. Massgebend sind dabei:
 
 - a. das Alter des Versicherten im Zeitpunkt des jeweiligen Unfalls;
-- b. für den Anteil des ersten Unfalls: der Betrag, den die Rente, die für den ersten Unfall gewährt wurde, bei Erreichen des Rentenalters hätte, wenn sie nicht aufgrund eines weiteren Unfalles erhöht worden wäre;
-- c. für den Anteil des weiteren Unfalls: die Differenz zwischen dem Betrag nach Buchstabe b und dem effektiven Betrag bei Erreichen des Rentenalters.
+- b.[^33b-3] für den Anteil des ersten Unfalls: der Betrag, den die Rente, die für den ersten Unfall gewährt wurde, bei Erreichen des Referenzalters nach Artikel 21 Absatz 1 AHVG[^33b-4] hätte, wenn sie nicht aufgrund eines weiteren Unfalles erhöht worden wäre;
+- c.[^33b-5] für den Anteil des weiteren Unfalls: die Differenz zwischen dem Betrag nach Buchstabe b und dem effektiven Betrag bei Erreichen des Referenzalters.
 
-<sup>2</sup> Für die Bestimmung des Prozentpunkt-Wertes der Kürzung pro Jahr ist der Grad der Gesamtinvalidität beim Erreichen des ordentlichen Rentenalters massgebend. Dieser Prozentpunkt-Wert ist an den gesamten Rentenbetrag anzulegen.
+<sup>2</sup> Für die Bestimmung des Prozentpunkt-Wertes der Kürzung pro Jahr ist der Grad der Gesamtinvalidität bei Erreichen des Referenzalters massgebend. Dieser Prozentpunkt-Wert ist auf den gesamten Rentenbetrag anzuwenden.[^33b-6]
 
 <sup>3</sup> Bei der erstmaligen Rentenfestsetzung nach mehreren invalidisierenden Unfällen ist für die Bestimmung des Ausmasses der Kürzung das Alter des Versicherten im Zeitpunkt des ersten invalidisierenden Unfalles massgebend.
 
 [^33b-1]: Eingefügt durch Ziff. I der V vom 9. Nov. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
+[^33b-2]: Fassung gemäss Anhang Ziff. 9 der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^33b-3]: Fassung gemäss Anhang Ziff. 9 der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^33b-4]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^33b-5]: Fassung gemäss Anhang Ziff. 9 der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^33b-6]: Fassung gemäss Anhang Ziff. 9 der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 33c
 
-**Rentenkürzung im Alter bei Rückfällen und Spätfolgen**[^33c-1]
+**Rentenkürzung bei Erreichen des Referenzalters bei Rückfällen und Spätfolgen[^33c-2]**[^33c-1]
 
 <sup>1</sup> Massgebend für die Bestimmung des Ausmasses der Kürzung nach Artikel 20 Absatz 2<sup>quater</sup> UVG ist die Anzahl voller Jahre seit Vollendung des 45. Altersjahres bis zum Ausbruch der Arbeitsunfähigkeit nach Vollendung des 60. Altersjahres, die rentenwirksam wird. Der entsprechende Kürzungssatz findet auf die erstmalige Rente oder auf den Anteil der Erhöhung der vorbestehenden Rente Anwendung.
 
 <sup>2</sup> Die Kürzungsregeln von Absatz 1 finden auf rentenwirksame Rückfälle und Spätfolgen Anwendung unabhängig vom Alter im Zeitpunkt des Unfalls.
 
 [^33c-1]: Eingefügt durch Ziff. I der V vom 9. Nov. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
+[^33c-2]: Fassung gemäss Anhang Ziff. 9 der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 34
 
@@ -600,12 +610,16 @@ Der Anspruch auf eine Hilflosenentschädigung entsteht am ersten Tag des Monats,
 
 <sup>2</sup> Die Hilflosigkeit gilt als schwer, wenn der Versicherte vollständig hilflos ist. Dies ist der Fall, wenn er in allen alltäglichen Lebensverrichtungen regelmässig in erheblicher Weise auf die Hilfe Dritter angewiesen ist und überdies der dauernden Pflege oder der persönlichen Überwachung bedarf.
 
-<sup>3</sup> Die Hilflosigkeit gilt als mittelschwer, wenn der Versicherte trotz der Abgabe von Hilfsmitteln
+<sup>3</sup>
+
+Die Hilflosigkeit gilt als mittelschwer, wenn der Versicherte trotz der Abgabe von Hilfsmitteln:
 
 - a. in den meisten alltäglichen Lebensverrichtungen regelmässig in erheblicher Weise auf die Hilfe Dritter angewiesen ist oder
 - b. in mindestens zwei alltäglichen Lebensverrichtungen regelmässig in erheblicher Weise auf die Hilfe Dritter angewiesen ist und überdies einer dauernden persönlichen Überwachung bedarf.
 
-<sup>4</sup> Die Hilflosigkeit gilt als leicht, wenn der Versicherte trotz der Abgabe von Hilfsmitteln
+<sup>4</sup>
+
+Die Hilflosigkeit gilt als leicht, wenn der Versicherte trotz der Abgabe von Hilfsmitteln:
 
 - a. in mindestens zwei alltäglichen Lebensverrichtungen regelmässig in erheblicher Weise auf die Hilfe Dritter angewiesen ist oder
 - b. einer dauernden persönlichen Überwachung bedarf oder
@@ -689,9 +703,12 @@ Beim Wiederaufleben einer Rente sind die Teuerungszulagen gleich hoch, wie wenn 
 
 <sup>1</sup> Komplementärrenten können nur mit dem Einverständnis und im offenkundigen langfristigen Interesse des Rentenberechtigten ausgekauft werden.
 
-<sup>2</sup> Der Barwert einer auszukaufenden Rente wird aufgrund der Rechnungsgrundlagen nach Artikel 89 Absatz 1 des Gesetzes berechnet. Die Umwandlung in eine Komplementärrente beim Eintritt des Rentners in das AHV-Alter wird berücksichtigt.
+<sup>2</sup> Der Barwert einer auszukaufenden Rente wird aufgrund der Rechnungsgrundlagen nach Artikel 89 Absatz 1 des Gesetzes berechnet. Die Umwandlung in eine Komplementärrente bei Erreichen des Referenzalters nach Artikel 21 Absatz 1 AHVG[^46-1] wird berücksichtigt.[^46-2]
 
 <sup>3</sup> Bei einem späteren Unfall gilt eine ausgekaufte Rente für die Berechnung einer Komplementärrente als fortbestehend.
+
+[^46-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^46-2]: Fassung gemäss Anhang Ziff. 9 der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 ### 3. Kapitel: Kürzung und Verweigerung von Versicherungsleistungen aus besonderen Gründen
 
@@ -1088,7 +1105,7 @@ Die Verordnung vom 3. Juli 2002[^70a-2] über die Kostenermittlung und die Leist
 
 **Bau- und Installationsgewerbe, Leitungsbau**
 
-Als Betriebe des Bau- und Installationsgewerbes sowie des Leitungsbaus im Sinne von Artikel 66 Absatz 1 Buchstabe b des Gesetzes gelten solche, die
+Als Betriebe des Bau- und Installationsgewerbes sowie des Leitungsbaus im Sinne von Artikel 66 Absatz 1 Buchstabe b des Gesetzes gelten solche, die:
 
 - a. in irgendeinem Zweig des Baugewerbes tätig sind oder Bestandteile für Bauten oder Bauwerke herstellen;
 - b. Gebäude, Strassen, öffentliche Plätze und Anlagen reinigen;
@@ -1931,12 +1948,14 @@ Die Prämien werden festgesetzt in Promillen:
 
 <sup>1</sup> Eine freiwillige Versicherung kann auch abschliessen, wer teilweise als Arbeitnehmer tätig ist.
 
-<sup>2</sup> Personen, die ins AHV-Alter eintreten, haben nur dann ein Anrecht, eine freiwillige Versicherung neu zu begründen, wenn sie unmittelbar zuvor während eines Jahres obligatorisch versichert waren.
+<sup>2</sup> Personen, die das Referenzalter nach Artikel 21 Absatz 1 AHVG[^134-1] erreichen, haben nur dann ein Anrecht, eine freiwillige Versicherung neu zu begründen, wenn sie unmittelbar zuvor während eines Jahres obligatorisch versichert waren.[^134-2]
 
-<sup>3</sup> Der Versicherer kann in begründeten Fällen, namentlich bei bestehenden erheblichen und dauernden Gesundheitsschädigungen sowie bei Vorliegen einer besonderen Gefährdung im Sinne von Artikel 78 Absatz 2 der Verordnung vom 19. Dezember 1983[^134-1] über die Unfallverhütung, den Abschluss der Versicherung ablehnen.[^134-2]
+<sup>3</sup> Der Versicherer kann in begründeten Fällen, namentlich bei bestehenden erheblichen und dauernden Gesundheitsschädigungen sowie bei Vorliegen einer besonderen Gefährdung im Sinne von Artikel 78 Absatz 2 der Verordnung vom 19. Dezember 1983[^134-3] über die Unfallverhütung, den Abschluss der Versicherung ablehnen.[^134-4]
 
-[^134-1]: [SR 832.30](https://fedlex.data.admin.ch/eli/cc/1983/1968_1968_1968)
-[^134-2]: Eingefügt durch Ziff. I der V vom 15. Dez. 1997, in Kraft seit 1. Jan. 1998 ([AS 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
+[^134-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^134-2]: Fassung gemäss Anhang Ziff. 9 der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^134-3]: [SR 832.30](https://fedlex.data.admin.ch/eli/cc/1983/1968_1968_1968)
+[^134-4]: Eingefügt durch Ziff. I der V vom 15. Dez. 1997, in Kraft seit 1. Jan. 1998 ([AS 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
 
 #### Art. 135
 
@@ -2111,6 +2130,16 @@ Der abgestufte Kürzungssatz nach Ziffer II Absatz 2 der Änderung vom 25. Septe
 [^147b-1]: Eingefügt durch Ziff. I der V vom 9. Nov. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 [^147b-2]: [AS 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723)
 
+#### Art. 147c
+
+**Übergangsbestimmung zur Änderung vom 30. August 2023**[^147c-1]
+
+Das in Buchstabe a Buchstaben a–d der Übergangsbestimmungen der Änderung vom 17. Dezember 2021[^147c-2] des AHVG[^147c-3] festgelegte Referenzalter gilt auch als UVG-Referenzalter der Frauen.
+
+[^147c-1]: Eingefügt durch Anhang Ziff. 9 der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^147c-2]: [AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92)
+[^147c-3]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+
 ### 4. Kapitel: Inkrafttreten
 
 #### Art. 148
@@ -2189,7 +2218,7 @@ Anhang 2[^t-2]
 Das Taggeld wird mit folgender verbindlichen Formel berechnet:
 
 <table>
-<tr><td></td><td></td><td></td><td colspan="3"></td><td colspan="15">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20230901/de/xml/image/image1.png)</td></tr>
+<tr><td></td><td></td><td></td><td colspan="3"></td><td colspan="15">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20240101/de/xml/image/image1.png)</td></tr>
 <tr><td colspan="10">Beispiele</td><td></td><td colspan="3"></td><td colspan="2"></td><td colspan="5"></td></tr>
 <tr><td>a.</td><td colspan="11">Monatslohn</td><td colspan="3"></td><td colspan="4"></td><td colspan="2"></td></tr>
 <tr><td></td><td colspan="11">Grundlohn pro Monat</td><td colspan="3">Fr.</td><td colspan="4">3650.—</td><td colspan="2"></td></tr>
@@ -2200,7 +2229,7 @@ Das Taggeld wird mit folgender verbindlichen Formel berechnet:
 <tr><td></td><td colspan="11">Familienzulagen: Fr. 365.– × 12</td><td colspan="5"></td><td colspan="3">Fr.</td><td>4 380.—</td></tr>
 <tr><td></td><td colspan="11"></td><td colspan="5"></td><td colspan="3"></td><td>\_\_\_\_\_\_\_\_\_\_</td></tr>
 <tr><td></td><td colspan="11">Jahresverdienst</td><td colspan="5"></td><td colspan="3">Fr.</td><td>51 830.—</td></tr>
-<tr><td></td><td colspan="3">Taggeld:</td><td colspan="3"><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20230901/de/xml/image/image2.png)</sub></td><td colspan="10">× 80 % =</td><td colspan="3">Fr.</td><td>113.60</td></tr>
+<tr><td></td><td colspan="3">Taggeld:</td><td colspan="3"><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20240101/de/xml/image/image2.png)</sub></td><td colspan="10">× 80 % =</td><td colspan="3">Fr.</td><td>113.60</td></tr>
 <tr><td></td><td colspan="16">Anzahl Tage: 13</td><td colspan="3"></td><td></td></tr>
 <tr><td></td><td colspan="16">Total: 13 × 113.60 = Fr. 1476.80 gerundet auf</td><td colspan="3">Fr.</td><td>1 477.—</td></tr>
 <tr><td>b.</td><td colspan="11">Stundenlohn</td><td colspan="3"></td><td colspan="4"></td><td colspan="2"></td></tr>
@@ -2213,7 +2242,7 @@ Das Taggeld wird mit folgender verbindlichen Formel berechnet:
 <tr><td></td><td colspan="11">Familienzulagen: Fr. 365.– × 12</td><td colspan="5"></td><td colspan="3">Fr.</td><td>4 380.—</td></tr>
 <tr><td></td><td colspan="11"></td><td colspan="5"></td><td colspan="3"></td><td>\_\_\_\_\_\_\_\_\_\_</td></tr>
 <tr><td></td><td colspan="11">Jahresverdienst</td><td colspan="5"></td><td colspan="3">Fr.</td><td>50 642.30</td></tr>
-<tr><td></td><td colspan="3">Taggeld:</td><td colspan="4"><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20230901/de/xml/image/image3.png)</sub></td><td colspan="9">× 80 % =</td><td colspan="3">Fr.</td><td>111.—</td></tr>
+<tr><td></td><td colspan="3">Taggeld:</td><td colspan="4"><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20240101/de/xml/image/image3.png)</sub></td><td colspan="9">× 80 % =</td><td colspan="3">Fr.</td><td>111.—</td></tr>
 <tr><td></td><td colspan="11">Anzahl Tage: 22</td><td colspan="5"></td><td colspan="3"></td><td></td></tr>
 <tr><td></td><td colspan="11">Total: 22 × 111.–</td><td colspan="5"></td><td colspan="3">Fr.</td><td>2 442.—</td></tr>
 </table>

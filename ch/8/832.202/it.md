@@ -4,11 +4,11 @@ title: "Ordinanza del 20 dicembre 1982 sull'assicurazione contro gli infortuni (
 short: OAINF
 eli: "https://fedlex.data.admin.ch/eli/cc/1983/38_38_38"
 language: it
-version: 2023-09-01
+version: 2024-01-01
 adopted: 1982-12-20
 in_force: 1984-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20230901/it/xml/fedlex-data-admin-ch-eli-cc-1983-38_38_38-20230901-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1983/38_38_38/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20240101/it/xml/fedlex-data-admin-ch-eli-cc-1983-38_38_38-20240101-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1983/38_38_38/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1983/38_38_38/20230901/it"
 
 (OAINF)
 
-del 20 dicembre 1982 (Stato 1° settembre 2023) (Stato 1° settembre 2023)
+del 20 dicembre 1982 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -63,14 +63,14 @@ ordina:
 Non sono soggetti all’obbligo assicurativo:
 
 - a.[^2-1] i familiari del datore di lavoro che collaborano nell’azienda, non ricevono un salario in contanti e non versano contributi all’AVS o sono parificati ai lavoratori agricoli indipendenti secondo l’articolo 1*a* capoverso 2 lettere a e b della legge federale del 20 giugno 1952[^2-2] sugli assegni familiari nell’agricoltura;
-- [tab] b. a d.[^2-3] ...
+- b. a d.[^2-3] …
 - e.[^2-4] i dipendenti delle Confederazione sottoposti all’assicurazione militare conformemente all’articolo 1*a* capoverso 1 lettera b della legge federale del 19 giugno 1992[^2-5] sull’assicurazione militare (LAM);
 - f.[^2-6] i membri dei consigli d’amministrazione non attivi nell’azienda, per quest’attività;
-- g.[^2-7] ...
+- g.[^2-7] …
 - h.[^2-8] le persone che esercitano un’attività d’interesse pubblico, a condizione che non vi sia un contratto di lavoro, come in particolare membri di Parlamenti, autorità e commissioni, per quest’attività;
 - i.[^2-9] i pompieri di milizia.
 
-<sup>2</sup> ...[^2-10]
+<sup>2</sup> …[^2-10]
 
 [^2-1]: Nuovo testo giusta il n. I dell’O dell’11 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3914](https://fedlex.data.admin.ch/eli/oc/2002/607)).
 [^2-2]: [RS 836.1](https://fedlex.data.admin.ch/eli/cc/1952/823_843_839)
@@ -327,7 +327,7 @@ Il Dipartimento federale dell’interno (DFI[^19-1]) redige l’elenco dei mezzi
 - b. fanno pure parte del guadagno assicurato gli assegni familiari, accordati conformemente all’uso locale o professionale a titolo di assegni per i figli, per la formazione o per l’economia domestica;
 - c. per i familiari del datore di lavoro collaboranti nell’azienda, gli associati, gli azionisti o i soci di società cooperative si tiene conto almeno del salario corrispondente agli usi professionali e locali;
 - d. non sono prese in considerazione le indennità versate allo scioglimento del rapporto di lavoro, in caso di chiusura o di fusione dell’azienda o in circostanze analoghe;
-- e.[^22-2] ...
+- e.[^22-2] …
 
 <sup>3</sup> L’indennità giornaliera è calcolata in base all’ultimo salario ricevuto dall’assicurato prima dell’infortunio, inclusi gli elementi del salario non ancora versati che gli sono dovuti.[^22-3]
 
@@ -348,7 +348,7 @@ Il Dipartimento federale dell’interno (DFI[^19-1]) redige l’elenco dei mezzi
 
 <sup>1</sup> Se l’assicurato non ha ottenuto il salario o ne ha ottenuto uno ridotto a causa di servizio militare, servizio civile, servizio di protezione civile, infortunio, malattia, maternità o lavoro ridotto, viene preso in considerazione il guadagno che avrebbe conseguito senza queste circostanze.[^23-1]
 
-<sup>2</sup> ...[^23-2]
+<sup>2</sup> …[^23-2]
 
 <sup>3</sup> Se l’assicurato non esercita regolarmente un’attività lucrativa o il suo salario è sottoposto a forti fluttuazioni, ci si deve basare su un medio salario giornaliero ponderato.
 
@@ -386,7 +386,7 @@ Il Dipartimento federale dell’interno (DFI[^19-1]) redige l’elenco dei mezzi
 
 <sup>4</sup> Se il beneficiario di una rendita d’invalidità è vittima di un ulteriore infortunio assicurato comportante un aggravamento dell’invalidità, per calcolare la nuova rendita tenendo conto dei due infortuni è determinante il salario che l’assicurato avrebbe ricevuto nell’anno precedente l’ultimo infortunio se prima non si fosse verificato nessun infortunio assicurato. Se questo salario è inferiore a quello ottenuto anteriormente al primo infortunio assicurato, è determinante il salario più elevato.[^24-2]
 
-<sup>5</sup> ...[^24-3]
+<sup>5</sup> …[^24-3]
 
 [^24-1]: Nuovo testo giusta l’appendice 3 n. 7 dell’O dell’11 set. 1996 sul servizio civile, in vigore dal 1° ott. 1996 ([RU 1996 2685](https://fedlex.data.admin.ch/eli/oc/1996/2685_2685_2685)).
 [^24-2]: Nuovo testo giusta il n. I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
@@ -400,7 +400,7 @@ Il Dipartimento federale dell’interno (DFI[^19-1]) redige l’elenco dei mezzi
 
 <sup>1</sup> L’indennità giornaliera è calcolata conformemente all’allegato 2 e versata tutti i giorni, compresi la domenica e i giorni festivi.[^25-1]
 
-<sup>2</sup> ...[^25-2]
+<sup>2</sup> …[^25-2]
 
 <sup>3</sup> L’assicurazione contro gli infortuni fornisce l’intera prestazione se l’incapacità lavorativa di un assicurato disoccupato supera il 50 per cento e metà della prestazione se l’incapacità lavorativa è superiore al 25 per cento ma raggiunge al massimo il 50 per cento. Non v’è alcun diritto all’indennità giornaliera se l’incapacità lavorativa è del 25 per cento o inferiore.[^25-3]
 
@@ -515,49 +515,59 @@ Le rendite complementari sono rettificate quando:
 - a.[^33-2] rendite per i figli dell’AVS o dell’AI oppure rendite equivalenti di un’assicurazione sociale estera sono soppresse o aggiunte;
 - b. la rendita dell’AVS o dell’AI è aumentata o ridotta a causa di una modificazione delle basi di calcolo;
 - c.[^33-3] il grado d’invalidità determinante per l’assicurazione contro gli infortuni muta notevolmente;
-- d. il guadagno assicurato secondo l’articolo 24 capoverso 3 è modificato.
+- d. il guadagno assicurato secondo l’articolo 24 capoverso 3 è modificato;
+- e.[^33-4] la riscossione della rendita dell’AVS è differita conformemente all’articolo 39 della legge federale del 20 dicembre 1946[^33-5] sull’assicurazione per la vecchiaia e per i superstiti (LAVS) o anticipata conformemente all’articolo 40 LAVS.
 
 [^33-1]: Nuovo testo giusta il n. I dell’O del 9 dic. 1996, in vigore dal 1° gen. 1997 ([RU 1996 3456](https://fedlex.data.admin.ch/eli/oc/1996/3456_3456_3456)).
 [^33-2]: Nuovo testo giusta il n. I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 [^33-3]: Nuovo testo giusta il n. I dell’O dell’11 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3914](https://fedlex.data.admin.ch/eli/oc/2002/607)).
+[^33-4]: Introdotta dall’all. n. 9 dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^33-5]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
 #### Art. 33a
 
-**Oggetto della riduzione della rendita durante l’età di pensionamento**[^33a-1]
+**Oggetto della riduzione della rendita al raggiungimento dell’età di riferimento[^33a-2]**[^33a-1]
 
 <sup>1</sup> La riduzione secondo l’articolo 20 capoverso 2<sup>ter</sup> della legge è calcolata sull’ammontare della rendita d’invalidità o della rendita complementare, comprese le indennità di rincaro.
 
 <sup>2</sup> Dopo la rettifica della rendita complementare secondo l’articolo 33 capoverso 2 o dell’indennità di rincaro, la riduzione è calcolata sul nuovo ammontare.
 
 [^33a-1]: Introdotto dal n. I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
+[^33a-2]: Nuovo testo giusta l’all. n. 9 dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 33b
 
-**Riduzione della rendita durante l’età di pensionamento in caso di infortuni plurimi**[^33b-1]
+**Riduzione della rendita al raggiungimento dell’età di riferimento in caso di infortuni plurimi[^33b-2]**[^33b-1]
 
 <sup>1</sup>
 
 Se il beneficiario di una rendita d’invalidità subisce un altro infortunio assicurato che provoca un aumento della rendita d’invalidità, la riduzione si applicherà singolarmente a ogni parte della rendita ai sensi dell’articolo 20 capoverso 2<sup>ter</sup> della legge. A tal fine sono determinanti:
 
 - a. l’età dell’assicurato al momento dell’infortunio;
-- b. per la parte del primo infortunio, l’ammontare che la rendita concessa per il primo infortunio avrebbe al raggiungimento dell’età di pensionamento, se non fosse stata aumentata in seguito a un altro infortunio;
-- c. per la parte dell’altro infortunio, la differenza tra l’ammontare secondo la lettera b e l’ammontare effettivo al raggiungimento dell’età di pensionamento.
+- b.[^33b-3] per la parte del primo infortunio, l’ammontare che la rendita concessa per il primo infortunio avrebbe al raggiungimento dell’età di riferimento secondo l’articolo 21 capoverso 1 LAVS[^33b-4], se non fosse stata aumentata in seguito a un altro infortunio;
+- c.[^33b-5] per la parte dell’altro infortunio, la differenza tra l’ammontare secondo la lettera b e l’ammontare effettivo al raggiungimento dell’età di riferimento.
 
-<sup>2</sup> Per stabilire il valore dei punti percentuali della riduzione annua, è determinante il grado dell’invalidità effettiva al raggiungimento dell’età ordinaria di pensionamento. Tale valore dei punti percentuali deve essere applicato all’intero ammontare della rendita.
+<sup>2</sup> Per stabilire il valore dei punti percentuali della riduzione annua, è determinante il grado dell’invalidità effettiva al raggiungimento dell’età di riferimento. Tale valore dei punti percentuali deve essere applicato all’intero ammontare della rendita.[^33b-6]
 
 <sup>3</sup> All’atto della prima fissazione della rendita dopo più infortuni invalidanti l’età dell’assicurato al momento del primo infortunio invalidante è determinante per stabilire l’entità della riduzione.
 
 [^33b-1]: Introdotto dal n. I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
+[^33b-2]: Nuovo testo giusta l’all. n. 9 dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^33b-3]: Nuovo testo giusta l’all. n. 9 dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^33b-4]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^33b-5]: Nuovo testo giusta l’all. n. 9 dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^33b-6]: Nuovo testo giusta l’all. n. 9 dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 33c
 
-**Riduzione della rendita durante l’età di pensionamento in caso di ricaduta e conseguenze tardive**[^33c-1]
+**Riduzione della rendita al raggiungimento dell’età di riferimento in caso di ricaduta e conseguenze tardive[^33c-2]**[^33c-1]
 
 <sup>1</sup> Per stabilire l’entità della riduzione secondo l’articolo 20 capoverso 2<sup>quater</sup> della legge, è determinante il numero di anni interi dal compimento dei 45 anni fino all’insorgere dell’incapacità lavorativa che ha ripercussioni sulla rendita dopo il compimento dei 60 anni. L’aliquota della riduzione si applica alla prima rendita o alla quota dell’aumento della rendita preesistente.
 
 <sup>2</sup> Le regole di riduzione di cui al capoverso 1 valgono anche per le ricadute e le conseguenze tardive con ripercussioni sulla rendita indipendentemente dall’età al momento dell’infortunio.
 
 [^33c-1]: Introdotto dal n. I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
+[^33c-2]: Nuovo testo giusta l’all. n. 9 dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 34
 
@@ -711,9 +721,12 @@ In caso di rinascita del diritto a una rendita, le indennità di rincaro corrisp
 
 <sup>1</sup> Il riscatto delle rendite complementari è lecito solo previo accordo dell’avente diritto e se si giustifica a lungo termine nell’interesse manifesto di quest’ultimo.
 
-<sup>2</sup> Il valore del riscatto è calcolato secondo le basi contabili giusta l’articolo 89 capoverso 1 della legge. Si tiene conto della trasformazione in una rendita complementare quando il beneficiario di rendite raggiungerà l’età dell’AVS.
+<sup>2</sup> Il valore del riscatto è calcolato secondo le basi contabili giusta l’articolo 89 capoverso 1 della legge. Si tiene conto della trasformazione in una rendita complementare quando il beneficiario di rendite raggiungerà l’età di riferimento secondo l’articolo 21 capoverso 1 LAVS[^46-1].[^46-2]
 
 <sup>3</sup> Per il calcolo di una rendita complementare in caso di reiterato infortunio, la rendita riscattata è considerata mantenuta.
+
+[^46-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^46-2]: Nuovo testo giusta l’all. n. 9 dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 ### Capitolo 3: Riduzione e rifiuto di prestazioni assicurative per motivi particolari
 
@@ -739,7 +752,9 @@ Anche se è provato che l’assicurato intendeva suicidarsi o automutilarsi, l�
 
 **Pericoli straordinari**
 
-<sup>1</sup> Qualsiasi prestazione assicurativa è rifiutata in caso d’infortuni non professionali occorsi durante
+<sup>1</sup>
+
+Qualsiasi prestazione assicurativa è rifiutata in caso d’infortuni non professionali occorsi durante:
 
 - a. il servizio militare all’estero;
 - b. la partecipazione ad atti di guerra, di terrorismo o di banditismo.
@@ -869,7 +884,7 @@ Il datore di lavoro, il servizio competente dell’assicurazione contro la disoc
 
 <sup>1</sup> L’assicuratore rimborsa all’assicurato o ai suoi superstiti le necessarie spese di viaggio, di vitto e alloggio per gli accertamenti richiesti, la perdita di guadagno nell’ambito del guadagno assicurato, come pure le spese per i documenti redatti su richiesta dell’assicuratore stesso.
 
-<sup>2</sup> ...[^58-2]
+<sup>2</sup> …[^58-2]
 
 [^58-1]: Nuovo testo giusta il n. I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
 [^58-2]: Abrogato dal n. I dell’O dell’11 set. 2002, con effetto dal 1° gen. 2003 ([RU 2002 3914](https://fedlex.data.admin.ch/eli/oc/2002/607)).
@@ -1072,7 +1087,7 @@ L’ordinanza del 3 luglio 2002[^70a-2] sul calcolo dei costi e la registrazione
 
 **Coordinamento dei tariffari**
 
-<sup>1</sup> ...[^71-1]
+<sup>1</sup> …[^71-1]
 
 <sup>2</sup> Gli assicuratori rimborsano i medicamenti, le specialità farmaceutiche e le analisi di laboratorio secondo gli elenchi redatti conformemente all’articolo 52 capoverso 1 LAMal[^71-2].[^71-3]
 
@@ -1488,7 +1503,7 @@ Per quanto l’esiga l’applicazione dell’assicurazione contro gli infortuni,
 
 <sup>1</sup> L’UFSP esercita la vigilanza sull’applicazione uniforme della legge da parte degli assicuratori.
 
-<sup>2</sup> Esercita inoltre sulla cassa suppletiva la vigilanza delle fondazioni. ...[^104-1]
+<sup>2</sup> Esercita inoltre sulla cassa suppletiva la vigilanza delle fondazioni. …[^104-1]
 
 <sup>3</sup> L’Autorità federale di sorveglianza sui mercati finanziari esercita la vigilanza sugli istituti d’assicurazione sottostanti alla legge federale del 23 giugno 1978[^104-2] sulla sorveglianza degli assicuratori, nei limiti di questa legislazione.
 
@@ -1829,7 +1844,7 @@ Una decisione va notificata per iscritto se concerne segnatamente:
 
 <sup>5</sup> Se il diritto alla rendita sussiste sia nei confronti dell’assicurazione contro gli infortuni sia dell’assicurazione militare, l’assicuratore contro gli infortuni comunica all’assicurazione militare l’ammontare della propria rendita o della rendita complementare. Ambedue gli assicuratori determinano le loro rendite secondo le rispettive disposizioni legali.
 
-<sup>6</sup> ...[^126-4]
+<sup>6</sup> …[^126-4]
 
 [^126-1]: Nuovo testo giusta il n. I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
 [^126-2]: [RS 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
@@ -1856,7 +1871,7 @@ Una decisione va notificata per iscritto se concerne segnatamente:
 
 [^tit8-1]
 
-[^tit8-1]: Nuovo testo giusta il n. I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
+[^tit8-1]: Originario avanti art. 130. Nuovo testo giusta il n. I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 
 #### Art. 129
 
@@ -1868,7 +1883,7 @@ Una decisione va notificata per iscritto se concerne segnatamente:
 
 <sup>3</sup> In caso d’infortunio nell’ambito di un programma per l’occupazione temporanea o di una pratica professionale, l’indennità giornaliera corrisponde a quella che sarebbe accordata all’assicurato se non partecipasse a un programma per l’occupazione temporanea o non svolgesse un periodo di pratica professionale.
 
-[^129-1]: Originario avanti art. 130. Nuovo testo giusta il n. I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
+[^129-1]: Nuovo testo giusta il n. I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 [^129-2]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
 
 #### Art. 130
@@ -1986,13 +2001,14 @@ I premi sono fissati in per mille:
 
 <sup>1</sup> Può parimenti stipulare un’assicurazione facoltativa chi è parzialmente occupato come lavoratore.
 
-<sup>2</sup> Le persone che raggiungono l’età dell’AVS possono stipulare una nuova assicurazione facoltativa solo se sono state assicurate d’obbligo durante tutto l’anno precedente.[^134-1]
+<sup>2</sup> Le persone che raggiungono l’età di riferimento secondo l’articolo 21 capoverso 1 LAVS[^134-1] possono stipulare una nuova assicurazione facoltativa solo se sono state assicurate d’obbligo durante tutto l’anno precedente.[^134-2]
 
-<sup>3</sup> L’assicuratore può, nei casi fondati, ovvero se esistono danni alla salute importanti e duraturi nonché un pericolo particolare ai sensi dell’articolo 78 capoverso 2 dell’ordinanza del 19 dicembre 1983[^134-2] sulla prevenzione degli infortuni, rifiutare di concludere un’assicurazione facoltativa.[^134-3]
+<sup>3</sup> L’assicuratore può, nei casi fondati, ovvero se esistono danni alla salute importanti e duraturi nonché un pericolo particolare ai sensi dell’articolo 78 capoverso 2 dell’ordinanza del 19 dicembre 1983[^134-3] sulla prevenzione degli infortuni, rifiutare di concludere un’assicurazione facoltativa.[^134-4]
 
-[^134-1]: Nuovo testo giusta il n. I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
-[^134-2]: [RS 832.30](https://fedlex.data.admin.ch/eli/cc/1983/1968_1968_1968)
-[^134-3]: Introdotto dal n. I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
+[^134-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^134-2]: Nuovo testo giusta l’all. n. 9 dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^134-3]: [RS 832.30](https://fedlex.data.admin.ch/eli/cc/1983/1968_1968_1968)
+[^134-4]: Introdotto dal n. I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
 
 #### Art. 135
 
@@ -2109,7 +2125,7 @@ Sono abrogate:
 
 **Ordinanza sull’assicurazione per la vecchiaia e per i superstiti**
 
-... [^143-1]
+… [^143-1]
 
 [^143-1]: La mod. può essere consultata alla [RU 1983 38](https://fedlex.data.admin.ch/eli/oc/1983/38_38_38).
 
@@ -2117,7 +2133,7 @@ Sono abrogate:
 
 **Ordinanza sull’assicurazione per l’invalidità**
 
-... [^144-1]
+… [^144-1]
 
 [^144-1]: La mod. può essere consultata alla [RU 1983 38](https://fedlex.data.admin.ch/eli/oc/1983/38_38_38).
 
@@ -2176,6 +2192,16 @@ L’aliquota graduata di riduzione ai sensi del numero II capoverso 2 della modi
 
 [^147b-1]: Introdotto dal n. I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 [^147b-2]: [RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723)
+
+#### Art. 147c
+
+**Disposizione transitoria della modifica del 30 agosto 2023**[^147c-1]
+
+L’età di riferimento stabilita alla lettera a delle disposizioni transitorie della modifica del 17 dicembre 2021[^147c-2] della LAVS[^147c-3] vale anche come età di riferimento delle donne secondo la LAINF.
+
+[^147c-1]: Introdotto dall’all. n. 9 dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^147c-2]: [RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92)
+[^147c-3]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
 ### Capitolo 4: Entrata in vigore
 
@@ -2480,7 +2506,7 @@ Allegato 2[^t-2]
 
 L’indennità giornaliera è calcolata conformemente alla formula seguente:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20230901/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20240101/it/xml/image/image1.png)
 
 Esempi
 
@@ -2493,7 +2519,7 @@ Esempi
 <tr><td>[tab] Tredicesima mensilità</td><td>3 650.—</td></tr>
 <tr><td>[tab] Assegni familiari: 365.– × 12</td><td>4 380.—</td></tr>
 <tr><td>[tab] Guadagno annuale</td><td>51 830.—</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20230901/it/xml/image/image2.png)</td><td>113.60</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20240101/it/xml/image/image2.png)</td><td>113.60</td></tr>
 <tr><td>[tab] Numero di giorni: 13</td><td></td></tr>
 <tr><td>[tab] Totale: 13 × 113.60 = fr. 1 476.80 arrotondati a</td><td>1 477.—</td></tr>
 <tr><td>b) Salario orario</td><td></td></tr>
@@ -2505,7 +2531,7 @@ Esempi
 <tr><td>[tab] Tredicesima</td><td>3 557.30</td></tr>
 <tr><td>[tab] Assegni familiari: fr. 365.– ×12</td><td>4 380.—</td></tr>
 <tr><td>[tab] Guadagno annuale</td><td>50 642.30</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20230901/it/xml/image/image3.png)</td><td>111.—</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20240101/it/xml/image/image3.png)</td><td>111.—</td></tr>
 <tr><td>Numero di giorni: 22</td><td></td></tr>
 <tr><td>Totale: 22 × 111.– =</td><td>2 442.—</td></tr>
 </table>

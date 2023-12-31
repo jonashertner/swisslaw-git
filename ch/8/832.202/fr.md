@@ -4,11 +4,11 @@ title: "Ordonnance du 20 décembre 1982 sur l'assurance-accidents (OLAA)"
 short: OLAA
 eli: "https://fedlex.data.admin.ch/eli/cc/1983/38_38_38"
 language: fr
-version: 2023-09-01
+version: 2024-01-01
 adopted: 1982-12-20
 in_force: 1984-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-1983-38_38_38-20230901-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1983/38_38_38/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-1983-38_38_38-20240101-fr-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1983/38_38_38/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1983/38_38_38/20230901/fr"
 
 (OLAA)
 
-du 20 décembre 1982 (État le 1<sup>er</sup> septembre 2023)
+du 20 décembre 1982 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -63,7 +63,7 @@ Est réputé travailleur selon l’art. 1*a*, al. 1, de la loi quiconque exerce 
 Ne sont pas assurés à titre obligatoire:
 
 - a.[^2-1] les membres de la famille de l’employeur travaillant dans l’entreprise qui ne touchent pas de salaire en espèces et ne payent pas de cotisations à l’AVS ou qui sont réputés de condition indépendante au sens de l’art. 1*a*, al. 2, let. a et b, de la loi fédérale du 20 juin 1952 sur les allocations familiales dans l’agriculture[^2-2];
-- [tab] b. à d.[^2-3] …
+- b. à d.[^2-3] …
 - e.[^2-4] les agents de la Confédération soumis à l’assurance militaire conformément à l’art. 1*a*, al. 1, let. b, de la loi fédérale du 19 juin 1992 sur l’assurance militaire (LAM)[^2-5];
 - f.[^2-6] les membres de conseils d’administration qui ne sont pas occupés dans l’entreprise, pour cette activité;
 - g.[^2-7] …
@@ -510,49 +510,59 @@ Les rentes complémentaires sont rectifiées lorsque:
 - a.[^33-2] des rentes pour enfants de l’AVS ou de l’AI ou des rentes de même nature servies par des assurances sociales étrangères sont supprimées ou viennent s’y ajouter;
 - b. la rente de l’AVS ou de l’AI est augmentée ou réduite en raison d’une modification des bases de calcul;
 - c.[^33-3] le degré d’invalidité déterminant pour l’assurance-accidents est modifié de manière importante;
-- d. le gain assuré visé à l’art. 24, al. 3, est modifié.
+- d. le gain assuré visé à l’art. 24, al. 3, est modifié;
+- e.[^33-4] la rente AVS fait l’objet d’un ajournement au sens de l’art. 39 de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants (LAVS)[^33-5] ou d’une anticipation au sens de l’art. 40 LAVS.
 
 [^33-1]: Nouvelle teneur selon le ch. I de l’O du 9 déc. 1996, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 3456](https://fedlex.data.admin.ch/eli/oc/1996/3456_3456_3456)).
 [^33-2]: Nouvelle teneur selon le ch. I de l’O du 9 nov. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 [^33-3]: Nouvelle teneur selon le ch. I de l’O du 11 sept. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3914](https://fedlex.data.admin.ch/eli/oc/2002/607)).
+[^33-4]: Introduite par l’annexe ch. 9 de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^33-5]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
 #### Art. 33a
 
-**Objet de la réduction de la rente à l’âge de la retraite**[^33a-1]
+**Objet de la réduction de la rente à l’âge de référence[^33a-2]**[^33a-1]
 
 <sup>1</sup> La réduction selon l’art. 20, al. 2<sup>ter</sup>, LAA est opérée sur les montants des rentes d’invalidité ou des rentes complémentaires, y compris les allocations de renchérissement.
 
 <sup>2</sup> Après rectification de la rente complémentaire selon l’art. 33, al. 2, ou des allocations de renchérissement, la réduction est opérée sur le nouveau montant.
 
 [^33a-1]: Introduit par le ch. I de l’O du 9 nov. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
+[^33a-2]: Nouvelle teneur selon l’annexe ch. 9 de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 33b
 
-**Réduction de la rente à l’âge de la retraite en cas de pluralité d’accidents**[^33b-1]
+**Réduction de la rente à l’âge de référence en cas de pluralité d’accidents[^33b-2]**[^33b-1]
 
 <sup>1</sup>
 
 Lorsque le bénéficiaire d’une rente d’invalidité est victime d’un nouvel accident assuré qui conduit à une rente d’invalidité plus élevée, la réduction au sens de l’art. 20, al. 2<sup>ter</sup>, LAA est appliquée pour chaque fraction de rente. Les éléments déterminants sont:
 
 - a. l’âge de l’assuré au moment de chaque accident;
-- b. pour la part du premier accident: le montant auquel la rente donnerait droit au moment d’atteindre l’âge de la retraite si elle n’avait pas été augmentée du fait d’un autre accident;
-- c. pour la part de l’autre accident: la différence entre le montant visé à la let. b et le montant effectif au moment d’atteindre l’âge de la retraite.
+- b.[^33b-3] pour la part du premier accident: le montant auquel la rente donnerait droit au moment d’atteindre l’âge de référence fixé à l’art. 21, al. 1, LAVS[^33b-4] si elle n’avait pas été augmentée du fait d’un autre accident;
+- c.[^33b-5] pour la part de l’autre accident: la différence entre le montant visé à la let. b et le montant effectif au moment d’atteindre l’âge de référence.
 
-<sup>2</sup> Le taux de l’invalidité totale à l’âge ordinaire de la retraite est déterminant pour l’établissement de la réduction par année exprimée en points de pourcentage. Cette valeur en points de pourcentage est appliquée au montant total de la rente.
+<sup>2</sup> Le taux de l’invalidité totale à l’âge de référence est déterminant pour l’établissement de la réduction par année exprimée en points de pourcentage. Cette valeur en points de pourcentage est appliquée au montant total de la rente.[^33b-6]
 
 <sup>3</sup> Pour la première fixation de la rente après plusieurs accidents provoquant une invalidité, l’âge de l’assuré au moment du premier accident provoquant une invalidité est déterminant pour l’établissement de l’étendue de la réduction.
 
 [^33b-1]: Introduit par le ch. I de l’O du 9 nov. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
+[^33b-2]: Nouvelle teneur selon l’annexe ch. 9 de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^33b-3]: Nouvelle teneur selon l’annexe ch. 9 de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^33b-4]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^33b-5]: Nouvelle teneur selon l’annexe ch. 9 de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^33b-6]: Nouvelle teneur selon l’annexe ch. 9 de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 33c
 
-**Réduction de la rente à l’âge de la retraite en cas de rechutes et de séquelles tardives**[^33c-1]
+**Réduction de la rente à l’âge de référence en cas de rechutes et de séquelles tardives[^33c-2]**[^33c-1]
 
 <sup>1</sup> Le nombre d’années entières écoulées entre le 45<sup>e</sup> anniversaire de l’assuré et l’apparition, après l’âge de 60 ans, de l’incapacité de travail dont découle le droit à une rente est déterminant pour l’établissement de l’étendue de la réduction selon l’art. 20, al. 2<sup>quater</sup>, LAA. Le taux de réduction correspondant s’applique à la nouvelle rente ou à la part d’augmentation de la rente préexistante.
 
 <sup>2</sup> Les règles de réduction de l’al. 1 s’appliquent en cas de rechutes ou séquelles tardives donnant droit à une rente, quel que soit l’âge de l’assuré au moment de l’accident.
 
 [^33c-1]: Introduit par le ch. I de l’O du 9 nov. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
+[^33c-2]: Nouvelle teneur selon l’annexe ch. 9 de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 34
 
@@ -702,11 +712,12 @@ En cas de renaissance du droit à une rente, les allocations de renchérissement
 
 <sup>1</sup> Les rentes complémentaires ne peuvent être rachetées qu’avec le consentement de l’ayant droit et s’il est patent que ses intérêts sont sauvegardés à long terme.
 
-<sup>2</sup> La valeur de rachat est calculée sur la base des normes comptables prescrites à l’art. 89, al. 1, de la loi.[^46-1] Il est tenu compte de la transformation de la rente en une rente complémentaire lorsque l’assuré atteindra l’âge donnant droit à la rente de l’AVS.
+<sup>2</sup> La valeur de rachat est calculée sur la base des normes comptables prescrites à l’art. 89, al. 1, de la loi. Il est tenu compte de la transformation de la rente en une rente complémentaire lorsque l’assuré atteindra l’âge de référence fixé à l’art. 21, al. 1, LAVS[^46-1].[^46-2]
 
 <sup>3</sup> Pour la fixation d’une rente complémentaire en cas d’accident ultérieur, la rente rachetée est considérée comme maintenue.
 
-[^46-1]: Nouvelle teneur selon le ch. I de l’O du 15 déc. 1997, en vigueur depuis le 1<sup>er</sup> janv. 1998 ([RO 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
+[^46-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^46-2]: Nouvelle teneur selon l’annexe ch. 9 de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 ### Chapitre 3 Réduction et refus des prestations d’assurance pour des raisons particulières
 
@@ -1402,7 +1413,7 @@ Lorsqu’une entreprise change de propriétaire, celui-ci doit en informer l’a
 
 **Allocation des prestations en cas de pluralité d’accidents**[^100-1]
 
-1 Si un assuré est victime d’un accident alors qu’il a droit à des indemnités journalières pour un accident assuré précédent, l’assureur tenu de lui verser les prestations jusqu’alors prend également en charge les soins médicaux et le remboursement des frais selon les art. 10 à 13 LAA, ainsi que les indemnités journalières pour le nouvel accident. Les assureurs intéressés peuvent déroger par convention à cette règle, notamment si le nouvel accident a des conséquences considérablement plus graves que le précédent. L’allocation de prestations par l’assureur de l’accident précédent prend fin lorsque l’accident précédent n’est plus la cause de l’atteinte à la santé qui subsiste.
+<sup>1</sup> Si un assuré est victime d’un accident alors qu’il a droit à des indemnités journalières pour un accident assuré précédent, l’assureur tenu de lui verser les prestations jusqu’alors prend également en charge les soins médicaux et le remboursement des frais selon les art. 10 à 13 LAA, ainsi que les indemnités journalières pour le nouvel accident. Les assureurs intéressés peuvent déroger par convention à cette règle, notamment si le nouvel accident a des conséquences considérablement plus graves que le précédent. L’allocation de prestations par l’assureur de l’accident précédent prend fin lorsque l’accident précédent n’est plus la cause de l’atteinte à la santé qui subsiste.
 
 <sup>2</sup> Si un assuré est victime d’un accident alors qu’il est en traitement selon l’art. 10 de la loi pour un accident assuré précédent sans avoir droit à des indemnités journalières pour cet accident, l’assureur tenu de lui verser les prestations pour le nouvel accident prend également en charge les soins médicaux et le remboursement des frais selon les art. 10 à 13 LAA pour les accidents précédents. L’allocation de prestations par l’assureur du nouvel accident prend fin lorsque le nouvel accident n’est plus la cause de l’atteinte à la santé qui subsiste.
 
@@ -1474,7 +1485,7 @@ Dans la mesure où la pratique de l’assurance-accidents l’exige, les assureu
 
 <sup>4</sup> Les deux offices coordonnent leur activité de surveillance.
 
-[^104-1]: Abrogé par l’annexe ch. 4 de l’O du 27 juin 1995 sur l’assurance-maladie, avec effet au 1<sup>er</sup> janv. 1996 ([RO 1995 3867](https://fedlex.data.admin.ch/eli/oc/1995/3867_3867_3867)).
+[^104-1]: Phrase abrogée par l’annexe ch. 4 de l’O du 27 juin 1995 sur l’assurance-maladie, avec effet au 1<sup>er</sup> janv. 1996 ([RO 1995 3867](https://fedlex.data.admin.ch/eli/oc/1995/3867_3867_3867)).
 
 #### Art. 105
 
@@ -1781,7 +1792,7 @@ Les assureurs doivent communiquer par écrit les décisions concernant notamment
 
 **Frais de communication et de publication de données**[^125-1]
 
-Un émolument est perçu dans les cas visés à l’art. 97, al. 6, de la loi, lorsque la communication de données nécessite de nombreuses copies ou autres reproductions ou des recherches particulières.[^125-2] Le montant de cet émolument équivaut à ceux des art. 14 et 16 de l’ordonnance du 10 septembre 1969 sur les frais et indemnités en procédure administrative[^125-3].
+<sup>1</sup> Un émolument est perçu dans les cas visés à l’art. 97, al. 6, de la loi, lorsque la communication de données nécessite de nombreuses copies ou autres reproductions ou des recherches particulières.[^125-2] Le montant de cet émolument équivaut à ceux des art. 14 et 16 de l’ordonnance du 10 septembre 1969 sur les frais et indemnités en procédure administrative[^125-3].
 
 <sup>2</sup> Un émolument couvrant les frais est perçu pour les publications au sens de l’art. 97, al. 4, de la loi.[^125-4]
 
@@ -1966,12 +1977,14 @@ Les primes sont fixées en pour-mille:
 
 <sup>1</sup> Peut également conclure une assurance facultative celui qui est partiellement occupé comme travailleur.
 
-<sup>2</sup> Les personnes qui atteignent l’âge de l’AVS ne peuvent contracter une assurance facultative que si elles ont été assurées à titre obligatoire pendant toute l’année précédente.
+<sup>2</sup> Les personnes qui atteignent l’âge de référence fixé à l’art. 21, al. 1, LAVS[^134-1] ne peuvent contracter une assurance facultative que si elles ont été assurées à titre obligatoire pendant toute l’année précédente.[^134-2]
 
-<sup>3</sup> L’assureur peut, pour des raisons fondées, notamment en cas d’atteintes à la santé préexistantes importantes et durables ainsi qu’en présence d’une menace sérieuse au sens de l’art. 78, al. 2, de l’ordonnance du 19 décembre 1983[^134-1] sur la prévention des accidents et des maladies professionnelles, refuser de conclure une assurance facultative.[^134-2]
+<sup>3</sup> L’assureur peut, pour des raisons fondées, notamment en cas d’atteintes à la santé préexistantes importantes et durables ainsi qu’en présence d’une menace sérieuse au sens de l’art. 78, al. 2, de l’ordonnance du 19 décembre 1983[^134-3] sur la prévention des accidents et des maladies professionnelles, refuser de conclure une assurance facultative.[^134-4]
 
-[^134-1]: [RS 832.30](https://fedlex.data.admin.ch/eli/cc/1983/1968_1968_1968)
-[^134-2]: Introduit par le ch. I de l’O du 15 déc. 1997, en vigueur depuis le 1<sup>er</sup> janv. 1998 ([RO 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
+[^134-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^134-2]: Nouvelle teneur selon l’annexe ch. 9 de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^134-3]: [RS 832.30](https://fedlex.data.admin.ch/eli/cc/1983/1968_1968_1968)
+[^134-4]: Introduit par le ch. I de l’O du 15 déc. 1997, en vigueur depuis le 1<sup>er</sup> janv. 1998 ([RO 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
 
 #### Art. 135
 
@@ -2145,6 +2158,16 @@ Le taux de réduction échelonné prévu au ch. II, al. 2, de la modification du
 
 [^147b-1]: Introduit par le ch. I de l’O du 9 nov. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 [^147b-2]: [RO 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723)
+
+#### Art. 147c
+
+**Disposition transitoire relative à la modification du 30 août 2023**[^147c-1]
+
+L’âge de référence fixé à la let. a, let. a à d, des dispositions transitoires de la modification du 17 décembre 2021[^147c-2] de la LAVS[^147c-3] vaut comme âge de référence des femmes dans la LAA.
+
+[^147c-1]: Introduit par l’annexe ch. 9 de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^147c-2]: [RO 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92)
+[^147c-3]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
 ### Chapitre 4 Entrée en vigueur
 
@@ -2469,7 +2492,7 @@ Annexe 2[^t-2]
 
 L’indemnité journalière est calculée conformément à la formule suivante:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20230901/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20240101/fr/xml/image/image1.png)
 
 Exemples
 
@@ -2482,7 +2505,7 @@ Exemples
 <tr><td>[tab] 13<sup>e</sup> salaire mensuel</td><td>3 650.—</td></tr>
 <tr><td>[tab] Allocations familiales: Fr. 365.– × 12</td><td>4 380.—</td></tr>
 <tr><td>[tab] Gain annuel</td><td>51 830.—</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20230901/fr/xml/image/image2.png)</td><td>113.60</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20240101/fr/xml/image/image2.png)</td><td>113.60</td></tr>
 <tr><td>[tab] Nombre de jours indemnisés: 13</td><td></td></tr>
 <tr><td>[tab] Total: 13 × 113.60 = Fr. 1476.80 arrondis à</td><td>1 477.—</td></tr>
 <tr><td>b. Salaire horaire</td><td></td></tr>
@@ -2494,7 +2517,7 @@ Exemples
 <tr><td>[tab] 13<sup>e</sup> salaire mensuel</td><td>3 557.30</td></tr>
 <tr><td>[tab] Allocations familiales Fr. 365.–×12</td><td>4 380.—</td></tr>
 <tr><td>[tab] Gain annuel</td><td>50 642.30</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20230901/fr/xml/image/image3.png)</td><td>111.—</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20240101/fr/xml/image/image3.png)</td><td>111.—</td></tr>
 <tr><td>[tab] Nombre de jours indemnisés: 22</td><td></td></tr>
 <tr><td>[tab] Total: 22 × 111.– =</td><td>2 442.—</td></tr>
 </table>
@@ -2520,7 +2543,7 @@ Barèmes des indemnités pour atteinte à l’intégrité
 <tr><td>Perte d’une phalange du pouce ou d’au moins deux phalanges d’un autre doigt</td><td>5</td><td>Perte totale d’un pouce</td><td>20</td></tr>
 <tr><td>Perte d’une main</td><td>40</td><td>Perte d’un bras au niveau du coude ou en dessus</td><td>50</td></tr>
 <tr><td>Perte d’un gros orteil</td><td>5</td><td>Perte d’un pied</td><td>30</td></tr>
-<tr><td>Perte d’une jambe au niveau du genou</td><td>40</td><td>Perte d’une jambe au dessus du genou</td><td>50</td></tr>
+<tr><td>Perte d’une jambe au niveau du genou</td><td>40</td><td>Perte d’une jambe au-dessus du genou</td><td>50</td></tr>
 <tr><td>Perte du pavillon d’une oreille</td><td>10</td><td>Perte du nez</td><td>30</td></tr>
 <tr><td>Scalp</td><td>30</td><td>Très grave défiguration</td><td>50</td></tr>
 <tr><td>Perte d’un rein</td><td>20</td><td>Perte de la rate</td><td>10</td></tr>
@@ -2528,8 +2551,8 @@ Barèmes des indemnités pour atteinte à l’intégrité
 <tr><td>Perte de l’ouïe d’un côté</td><td>15</td><td>Perte de la vue d’un côté</td><td>30</td></tr>
 <tr><td>Surdité totale</td><td>85</td><td>Cécité totale</td><td>100</td></tr>
 <tr><td>Luxation récidivante de l’épaule</td><td>10</td><td>Grave atteinte à la capacité de mastiquer</td><td>25</td></tr>
-<tr><td>Atteinte très grave et douloureuse au onctionnement de la colonne vertébrale</td><td>50</td><td>Paraplégie</td><td>90</td></tr>
+<tr><td>Atteinte très grave et douloureuse au fonctionnement de la colonne vertébrale</td><td>50</td><td>Paraplégie</td><td>90</td></tr>
 <tr><td>Tétraplégie</td><td>100</td><td>Atteinte très grave à la fonction pulmonaire</td><td>80</td></tr>
 <tr><td>Atteinte très grave à la fonction rénale</td><td>80</td><td>Atteinte à des fonctions psychiques partielles, comme la mémoire et la capacité de concentration</td><td>20</td></tr>
-<tr><td>Épilepsie post-traumatique avec crises ou sous médicamentation permanente sans crise</td><td>30</td><td>Très grave trouble organique de la parole, très grave syndrome moteur ou psycho-organique</td><td>80</td></tr>
+<tr><td>Épilepsie post-traumatique avec crises ou sous médicamentation permanente sans crises</td><td>30</td><td>Très grave trouble organique de la parole, très grave syndrome moteur ou psycho-organique</td><td>80</td></tr>
 </table>
