@@ -3,11 +3,10 @@ canton: ZH
 number: "862.11"
 title: Vollzugsbestimmungen für die Gebäudeversicherung
 language: de
-version: "2018-01-01"
-nachtrag: "99"
-valid_until: 2024-01-01
+version: "2024-01-01"
+nachtrag: "123"
 adopted: 1999-10-01
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-862_11-1999_10_01-2000_01_01-099.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-862_11-1999_10_01-2000_01_01-123.html"
 text: pdf
 ---
 
@@ -25,14 +24,17 @@ beschliesst:
 
 [^t-1]: OS 55, 526.
 [^t-2]: LS 862.1.
+[^t-3]: Fassung gemäss B des Verwaltungsrates vom 30. Juni 2023 (OS 78, 423; ABl 2023-09-22). In Kraft seit 1. Januar 2024.
 
-### I. Schätzungsorgane
+### I. Schätzungsexperten
 
-§ 1.[^hISchätzungsorgane-1] <sup>1</sup> Die Direktion der Gebäudeversicherung bezeichnet für jeden Kreis einen Hauptschätzer als Ersten Kreisschätzer und die erforderliche Anzahl Schätzer.
+[^t-3]
 
-<sup>2</sup> Der Hauptschätzer vertritt die Schätzungsorgane im Verkehr mit der Gebäudeversicherung und sorgt für die Erledigung der Schätzungsaufträge.
+§ 1.[^hISchätzungsexperte-1] <sup>1</sup> Die Direktion der Gebäudeversicherung bezeichnet die Schätzungsexperten.
 
-[^hISchätzungsorgane-1]: Fassung gemäss B des Verwaltungsrates vom 24. Juni 2003 (OS 58, 233). In Kraft seit 1. Januar 2004.
+<sup>2</sup> Die Schätzungsexperten führen die Schätzungsaufträge aus.
+
+[^hISchätzungsexperte-1]: Fassung gemäss B des Verwaltungsrates vom 30. Juni 2023 (OS 78, 423; ABl 2023-09-22). In Kraft seit 1. Januar 2024.
 
 ### II. Versicherungspflicht
 
@@ -54,29 +56,32 @@ beschliesst:
 
 Gebäudeähnliche Objekte sind selbstständige, nicht bewegliche Erzeugnisse der Bautätigkeit, sofern sie eine Wertbeständigkeit wie Gebäude aufweisen und als Dauereinrichtung erstellt sind, wie gedeckte Brücken, offene Bassins, Klärbecken und Aussichtstürme.
 
-**1**
+[^3-1]: Fassung gemäss B des Verwaltungsrates vom 30. Juni 2023 (OS 78, 423; ABl 2023-09-22). In Kraft seit 1. Januar 2024.
 
-- 1\. 1. 18 - 99 § 4.[^3-1] <sup>1</sup> Mit dem Gebäude versichert sind bauliche Einrichtungen, die normalerweise zu diesem gehören, im Eigentum des Gebäudeeigentümers, des Mieters oder Pächters stehen und so befestigt oder angepasst sind, dass sie nicht ohne wesentliche Beschädigung des Gebäudes oder nicht ohne erhebliche Einbusse ihres Wertes entfernt werden können.
+#### § 4
 
 **Umfang der Versicherung a. Im Allgemeinen**
+
+<sup>1</sup> Mit dem Gebäude versichert sind bauliche Einrichtungen, die normalerweise zu diesem gehören und im Eigentum des Gebäudeeigentümers, des Mieters, Pächters oder einer Drittperson stehen, wenn sie so befestigt oder angepasst sind, dass sie nicht ohne wesentliche Beschädigung des Gebäudes oder nicht ohne erhebliche Einbusse ihres Wertes entfernt werden können.[^3-1]
+
+**1**
+
+- 1\. 1. 24 - 123
 
 <sup>2</sup> Nicht mit dem Gebäude versichert sind: Aushub-, Planierungs- und Umgebungsarbeiten, Arbeiten zur Verstärkung des Baugrundes, bauliche Anlagen und Leitungen ausserhalb des Gebäudes, Fahrhabe und betriebliche Einrichtungen.
 
 <sup>3</sup> Die Direktion der Gebäudeversicherung erlässt eine Abgrenzungsrichtlinie. Nebensachen teilen im Zweifelsfall das Schicksal der Hauptsache.
 
-[^3-1]: Fassung gemäss B des Verwaltungsrates vom 24. Juni 2003 (OS 58, 233). In Kraft seit 1. Januar 2004.
+**b. Wohnhäuser und Wohnungen**
 
-#### § 5
-
-**b. Wohnhäuser undWohnungen**
-
-Bei Wohnhäusern und Wohnungen sind zum Gebäude auch die normalerweise zu diesem gehörenden baulichen Einrichtungen zu rechnen, selbst wenn sie ohne wesentliche Beschädigung des Gebäudes oder ohne erhebliche Einbusse ihres Wertes entfernt werden können.
+§ 5.[^4-1] Bei Wohnhäusern und Wohnungen sind zum Gebäude auch die normalerweise zu diesen gehörenden baulichen Einrichtungen zu rechnen, selbst wenn sie ohne wesentliche Beschädigung des Gebäudes oder ohne erhebliche Einbusse ihres Wertes entfernt werden können.
 
 **c. Kollektive Haushaltungen**
 
-§ 6.[^5-1] Bei kollektiven Haushaltungen, wie Hotels, Restaurants, Kantinen, Spitäler, Anstalten, Heime, sind zum Gebäude auch die der Unterkunft und Verpflegung dienenden betrieblichen Einrichtungen zu rechnen, selbst wenn sie ohne wesentliche Beschädigung des Gebäudes oder ohne erhebliche Einbusse ihres Wertes entfernt werden können.
+§ 6.[^4-2] Bei kollektiven Haushaltungen, wie Hotels, Restaurants, Kantinen, Spitäler, Anstalten, Heime, sind zum Gebäude auch die der Unterkunft und Verpflegung dienenden betrieblichen Einrichtungen zu rechnen, selbst wenn sie ohne wesentliche Beschädigung des Gebäudes oder ohne erhebliche Einbusse ihres Wertes entfernt werden können.
 
-[^5-1]: Fassung gemäss B des Verwaltungsrates vom 24. Juni 2003 (OS 58, 233). In Kraft seit 1. Januar 2004.
+[^4-1]: Fassung gemäss B des Verwaltungsrates vom 30. Juni 2023 (OS 78, 423; ABl 2023-09-22). In Kraft seit 1. Januar 2024.
+[^4-2]: Fassung gemäss B des Verwaltungsrates vom 24. Juni 2003 (OS 58, 233). In Kraft seit 1. Januar 2004.
 
 #### § 7
 
@@ -84,37 +89,34 @@ Bei Wohnhäusern und Wohnungen sind zum Gebäude auch die normalerweise zu diese
 
 <sup>1</sup> Bei industriellen, gewerblichen und landwirtschaftlichen Gebäuden, die sowohl aus baulichen wie auch aus betrieblichen Einrichtungen bestehen, umfasst die Gebäudeversicherung nur die ausschliesslich oder vorwiegend baulichen Einrichtungen. Dazu gehören die Wasser-, Luft- und Energieleitungen von der Hauseinführung bzw. vom Erzeuger im Gebäude bis zum nicht betrieblichen Verbraucher.
 
-<sup>2</sup> Die ausschliesslich oder vorwiegend betrieblichen Einrichtungen, insbesondere die dem Betriebe dienenden Maschinen sowie die zugehörigen Leitungen und Steuerungen, sind von der Gebäudeversicherung ausgeschlossen.
-
-#### § 8
+<sup>2</sup> Von der Gebäudeversicherung ausgeschlossen sind ausschliesslich oder vorwiegend betriebliche Einrichtungen, insbesondere dem Betrieb dienende Maschinen sowie die zugehörigen Leitungen und Steuerungen.[^7-1]
 
 **Aufnahme in die Versicherung**
 
-Mit dem Antrag für eine Bauzeitversicherung sind der Gebäudeversicherung die Pläne und eine Kostenzusammenstellung einzureichen.
-
-#### § 9
+§ 8. Mit dem Antrag für eine Bauzeitversicherung sind der Gebäudeversicherung die Pläne und eine Kostenzusammenstellung einzureichen.
 
 **Nichtaufnahme in die Versicherung**
 
-Gebäude mit einem Versicherungswert unter 5000 Franken und Fahrnisbauten werden nicht in die Versicherung aufgenommen.
+§ 9.[^7-1] Gebäude mit einem Versicherungswert unter Fr. 5000 und Fahrnisbauten werden nicht in die Versicherung aufgenommen.
 
-[^9-1]: Fassung gemäss B des Verwaltungsrates vom 24. Juni 2003 (OS 58, 233). In Kraft seit 1. Januar 2004.
+[^7-1]: Fassung gemäss B des Verwaltungsrates vom 30. Juni 2023 (OS 78, 423; ABl 2023-09-22). In Kraft seit 1. Januar 2024.
+[^7-2]: Fassung gemäss B des Verwaltungsrates vom 24. Juni 2003 (OS 58, 233). In Kraft seit 1. Januar 2004.
 
 #### § 10
 
 **Ausschluss aus der Versicherung**
 
-<sup>1</sup> Der Ausschluss eines Gebäudes und von Teilen davon aus der Versicherung und die Androhung dieser Massnahme werden durch die Gebäudeversicherung verfügt und dem Grundbuchamt zuhanden allfälliger Grundpfandgläubiger mitgeteilt, sofern die Versicherungsdeckung erheblich beeinträchtigt wird.[^9-1]
+<sup>1</sup> Der Ausschluss eines Gebäudes und von Teilen davon aus der Versicherung und die Androhung dieser Massnahme werden durch die Gebäudeversicherung verfügt und dem Grundbuchamt zuhanden allfälliger Grundpfandgläubiger mitgeteilt, sofern die Versicherungsdeckung erheblich beeinträchtigt wird.[^7-2]
 
 <sup>2</sup> Die für das ausgeschlossene Gebäude bezahlte Jahresprämie wird nicht zurückerstattet.
 
-<sup>3</sup> Die Gebäudeversicherung kann für einzelne Gebäudeteile oder einzelne versicherte Ereignisse Vorbehalte verfügen.
-
-#### § 11
+<sup>3</sup> Die Gebäudeversicherung kann für einzelne Gebäudeteile oder einzelne versicherte Ereignisse Teilausschlüsse aus der Versicherung verfügen.[^10-1]
 
 **Abtragung**
 
-Der Gebäudeeigentümer hat der Gebäudeversicherung die Abtragung von Gebäuden zu melden.
+§ 11. Der Gebäudeeigentümer hat der Gebäudeversicherung die Abtragung von Gebäuden zu melden.
+
+[^10-1]: Fassung gemäss B des Verwaltungsrates vom 30. Juni 2023 (OS 78, 423; ABl 2023-09-22). In Kraft seit 1. Januar 2024.
 
 #### § 12
 
@@ -138,45 +140,45 @@ Der Gebäudeeigentümer hat der Gebäudeversicherung die Abtragung von Gebäuden
 
 ### III. Schätzung und Versicherungswerte
 
-**Gemeindeabgeordnete**
-
-§ 15.[^hIIISchätzungundV-1] Die Gemeinden stellen den Schätzern für die Revisionsschätzungen einen ortskundigen Abgeordneten oder entsprechende Planunterlagen zur Verfügung.
-
-[^hIIISchätzungundV-1]: Fassung gemäss B des Verwaltungsrates vom 24. Juni 2003 (OS 58, 233). In Kraft seit 1. Januar 2004.
-
-#### § 16
+§ 15.[^hIIISchätzungundV-1]
 
 **Einzelschätzungen**
 
-<sup>1</sup> Der Gebäudeeigentümer wird zur Schätzung eingeladen. Er hat den Schätzungsorganen im ganzen Gebäude freien Zutritt zu gewähren sowie bei Neu- und Umbauten die aktuellen Baupläne und die Baukostenabrechnung zur Verfügung zu stellen.[^hIIISchätzungundV-1]
+§ 16.[^hIIISchätzungundV-2] <sup>1</sup> Die Gebäudeversicherung teilt dem Gebäudeeigentümer die anstehende Schätzung mit. Der Gebäudeeigentümer stellt die zur Festlegung des Versicherungswertes notwendigen Unterlagen zur Verfügung.
 
-<sup>2</sup> Seine Abwesenheit hindert die Vornahme der Schätzung nicht.
+<sup>2</sup> Der Gebäudeeigentümer kann die Schätzung vor Ort verlangen. Er gewährt den Schätzungsexperten Zutritt zum ganzen Gebäude.
 
-**3**
+[^hIIISchätzungundV-1]: Aufgehoben durch B des Verwaltungsrates vom 30. Juni 2023 (OS 78, 423; ABl 2023-09-22). In Kraft seit 1. Januar 2024. 1. 1. 24 - 123 7
+[^hIIISchätzungundV-2]: Fassung gemäss B des Verwaltungsrates vom 30. Juni 2023 (OS 78, 423; ABl 2023-09-22). In Kraft seit 1. Januar 2024.
 
-- 1\. 1. 18 - 99 § 17. Die Gebühren für Neu- und Einzelschätzungen betragen Fr. 40 bis Fr. 3000 pro Gebäude. Bei ausserordentlichem Arbeitsaufwand kann die Gebühr bis zum doppelten Betrag erhöht werden. Bei Schätzungen von Umbauten mit besonders geringem Arbeitsaufwand kann die Gebühr auf die Hälfte reduziert werden.
-
-#### § 18
+#### § 17
 
 **Kosten**
 
+Die Gebühren für Neu- und Einzelschätzungen betragen Fr. 40 bis Fr. 3000 pro Gebäude. Bei ausserordentlichem Arbeitsaufwand kann die Gebühr bis zum doppelten Betrag erhöht werden. Bei Schätzungen von Umbauten mit besonders geringem Arbeitsaufwand kann die Gebühr auf die Hälfte reduziert werden.
+
+[^17-1]: Fassung gemäss B des Verwaltungsrates vom 30. Juni 2023 (OS 78, 423; ABl 2023-09-22). In Kraft seit 1. Januar 2024.
+
+#### § 18
+
 **Revisionsschätzungen**
 
-<sup>1</sup> Die Gemeinde legt die einzelnen Schätzungen innerhalb der von der Gebäudeversicherung vorgegebenen Schätzungsdaten fest und benachrichtigt die Gebäudeeigentümer oder deren Vertreter schriftlich.
+<sup>1</sup> Die Gebäudeversicherung teilt dem Gebäudeeigentümer die bevorstehende Revisionsschätzung mit.[^17-1]
 
 <sup>2</sup> § 16 ist auf Revisionsschätzungen entsprechend anwendbar.
 
+**3**
+
+- 1\. 1. 24 - 123 § 19.[^18-1] Die Direktion der Gebäudeversicherung passt die Versicherungswerte an, wenn sich der Baukostenindex gegenüber der letzten Anpassung um über 5% verändert hat.
+
 **Anpassung der Versicherungswerte bei Änderung der Baukosten**
 
-§ 19.[^18-1] Die Direktion der Gebäudeversicherung passt die Versicherungswerte an, wenn sich der Baukostenindex gegenüber der letzten Anpassung um über 5% verändert hat.
+**Versicherung ohne Schätzung vor Ort**
+
+§ 20.[^18-2] Wertvermehrungen an bestehenden Bauten bis Fr. 250 000 können ohne Schätzung vor Ort versichert werden. Die Versicherung beginnt mit der schriftlichen Mitteilung.
 
 [^18-1]: Fassung gemäss B des Verwaltungsrates vom 24. Juni 2003 (OS 58, 233). In Kraft seit 1. Januar 2004.
-
-#### § 20
-
-**Versicherung ohne Schätzung**
-
-Wertvermehrungen an bestehenden Bauten bis Fr. 50 000 können ohne Schätzung versichert werden. Die Versicherung beginnt mit der schriftlichen Mitteilung.
+[^18-2]: Fassung gemäss B des Verwaltungsrates vom 30. Juni 2023 (OS 78, 423; ABl 2023-09-22). In Kraft seit 1. Januar 2024.
 
 #### § 21
 
@@ -188,75 +190,68 @@ Wertvermehrungen an bestehenden Bauten bis Fr. 50 000 können ohne Schätzung ve
 
 <sup>3</sup> Die Grundbuchämter haben der Gebäudeversicherung kostenlos alle Handänderungen von Gebäuden unter Angabe des Kaufpreises zu melden und die von ihr verlangten Grundbuchauszüge zu erstellen.
 
+§ 22.[^21-2]
+
 [^21-1]: Fassung gemäss B des Verwaltungsrates vom 24. Juni 2003 (OS 58, 233). In Kraft seit 1. Januar 2004.
-
-#### § 22
-
-**Gebäudenummerierung**
-
-Die Gemeinden versehen die Gebäude mit Nummernschildern. Die Gebäudeversicherung vergütet die Kosten für einheitliche Nummernschilder.
-
-[^22-1]: Eingefügt durch B des Verwaltungsrates vom 24. Juni 2003 (OS 58, 233). In Kraft seit 1. Januar 2004.
+[^21-2]: Aufgehoben durch B des Verwaltungsrates vom 30. Juni 2023 (OS 78, 423; ABl 2023-09-22). In Kraft seit 1. Januar 2024. 1. 1. 24 - 123 7
+[^21-3]: Eingefügt durch B des Verwaltungsrates vom 24. Juni 2003 (OS 58, 233). In Kraft seit 1. Januar 2004.
 
 ### IIIa. Prämienbezug
 
-[^22-1]
+[^21-3]
 
 **Mindestprämie**
 
-§ 22 a.[^hIIIa221Prämien-1] Für jedes Gebäude wird eine Mindestprämie von Fr. 10 pro Jahr erhoben.
+§ 22 a.[^hIIIa213Prämien-1] Für jedes Gebäude wird eine Mindestprämie von Fr. 10 pro Jahr erhoben.
 
 **Prämiennachbezug und -rückerstattung**
 
-§ 22 b.[^hIIIa221Prämien-1] Beträge unter Fr. 10 werden nicht in Rechnung gestellt und nicht zurückerstattet.
+§ 22 b.[^hIIIa213Prämien-1] Beträge unter Fr. 10 werden nicht in Rechnung gestellt und nicht zurückerstattet.
 
-[^hIIIa221Prämien-1]: Eingefügt durch B des Verwaltungsrates vom 24. Juni 2003 (OS 58, 233). In Kraft seit 1. Januar 2004.
+[^hIIIa213Prämien-1]: Eingefügt durch B des Verwaltungsrates vom 24. Juni 2003 (OS 58, 233). In Kraft seit 1. Januar 2004.
 
 ### IV. Ermittlung des Schadens
 
-[^hIVErmittlungdesS-1]: Fassung gemäss B des Verwaltungsrates vom 24. Juni 2003 (OS 58, 233). In Kraft seit 1. Januar 2004.
+**Zuständigkeiten der Schätzungsorgane**
 
-#### § 23
+§ 23.[^hIVErmittlungdesS-1] <sup>1</sup> Brand- und Elementarschäden werden wie folgt abgeschätzt:
 
-**Zuständigkeit der Schätzungsorgane**
+- a. bis Fr. 100 000 von einem Schätzungsexperten,
 
-<sup>1</sup> Schäden bis Fr. 20 000 werden von einem Schätzer, Schäden über Fr. 20 000 bis Fr. 50 000 von einem Schätzer und dem Statthalter und Schäden über Fr. 50 000 von der Schätzungskommission abgeschätzt.[^hIVErmittlungdesS-1]
+- b. über Fr. 100 000 bis Fr. 250 000 von einem Schätzungsexperten und dem Statthalter,
 
-<sup>2</sup> . . .[^23-1]
+- c. über Fr. 250 000 von der Schätzungskommission.
+
+<sup>2</sup> Erdbebenschäden werden wie folgt abgeschätzt:
+
+- a. bis Fr. 500 000 von einem Schätzungsexperten,
+
+- b. über Fr. 500 000 bis 1 Mio. Franken von einem Schätzungsexperten und dem Statthalter,
+
+- c. über 1 Mio. Franken von der Schätzungskommission. § 24.[^hIVErmittlungdesS-1] Die Schätzungsorgane führen die Schadenabschätzung durch.
 
 **Schadenabschätzung a. Festlegung**
 
-§ 24.[^23-2] Die gemeldeten Schäden werden im Bezirk Zürich von der Gebäudeversicherung und in den übrigen Bezirken vom Statthalter an den Hauptschätzer zur Festlegung der Abschätzung weitergeleitet.
+**b. Mitwirkung des Versicherten**
 
-[^23-1]: Aufgehoben durch B des Verwaltungsrates vom 24. Juni 2003 (OS 58, 233). In Kraft seit 1. Januar 2004.
-[^23-2]: Fassung gemäss B des Verwaltungsrates vom 24. Juni 2003 (OS 58, 233). In Kraft seit 1. Januar 2004.
+§ 25.[^hIVErmittlungdesS-1] Der Versicherte zeigt der Gebäudeversicherung die geltend gemachten Schäden auf und wirkt bei der Schadendokumentation mit. Bei Bedarf ist den Schätzungsorganen Zutritt zum Gebäude zu gewähren.
 
-#### § 25
+**c. Eröffnung der Abschätzung**
 
-**b. Einladung des Versicherten**
-
-<sup>1</sup> Der Versicherte wird zur Abschätzung eingeladen. Er hat den Schätzungsorganen die geltend gemachten Schäden aufzuzeigen sowie den erforderlichen Zutritt im Gebäude zu gewähren.[^23-2]
-
-<sup>2</sup> An der Abschätzung kann ein Mitarbeiter der Gebäudeversicherung teilnehmen.
-
-#### § 26
-
-**c. Stellungnahme zum Abschätzungsergebnis**
-
-Der Versicherte bestätigt die Kenntnisnahme des Abschätzungsergebnisses auf dem Abschätzungsbericht.
+§ 26.[^hIVErmittlungdesS-1] Die Schätzungsorgane eröffnen dem Versicherten das Abschätzungsergebnis und teilen ihm das weitere Vorgehen zur Schadenregulierung mit.
 
 **Ermittlung des Verkehrswertes**
 
-§ 27.[^26-1] Der Versicherte, die Gemeinden, die Grundbuchämter und die Nachführungsstellen der amtlichen Vermessung sind verpflichtet, der Gebäudeversicherung, den Schätzern sowie der Rekurskommission auf Anfrage hin die zur Ermittlung des Verkehrswertes erforderlichen Angaben unentgeltlich zu liefern.
+§ 27.[^hIVErmittlungdesS-1] Der Versicherte, die Gemeinden, die Grundbuchämter und die Nachführungsstellen der amtlichen Vermessung sind verpflichtet, der Gebäudeversicherung sowie den Schätzungsexperten auf Anfrage hin die zur Ermittlung des Verkehrswertes erforderlichen Angaben unentgeltlich zu liefern.
 
 **Pauschale Abschätzung**
 
-§ 28.[^26-2] <sup>1</sup> Erfolgt eine veränderte Wiederherstellung, wird die Abschätzung pauschal festgelegt.
+§ 28.[^hIVErmittlungdesS-2] <sup>1</sup> Erfolgt eine veränderte Wiederherstellung, wird die Abschätzung pauschal festgelegt.
 
 <sup>2</sup> In besonderen Fällen kann eine Entschädigung pauschal festgelegt werden.
 
-[^26-1]: Fassung gemäss RRB vom 29. Juni 2016 (OS 72, 323; ABl 2016-07-15). In Kraft seit 1. Januar 2018. 1. 1. 18 - 99 7
-[^26-2]: Fassung gemäss B des Verwaltungsrates vom 24. Juni 2003 (OS 58, 233). In Kraft seit 1. Januar 2004.
+[^hIVErmittlungdesS-1]: Fassung gemäss B des Verwaltungsrates vom 30. Juni 2023 (OS 78, 423; ABl 2023-09-22). In Kraft seit 1. Januar 2024.
+[^hIVErmittlungdesS-2]: Fassung gemäss B des Verwaltungsrates vom 24. Juni 2003 (OS 58, 233). In Kraft seit 1. Januar 2004.
 
 ### V. Vergütung des Schadens
 
@@ -270,40 +265,33 @@ Der Versicherte bestätigt die Kenntnisnahme des Abschätzungsergebnisses auf de
 
 <sup>2</sup> Der Selbstbehalt bei Erdbebenschäden beträgt 10% der Versicherungssumme, mindestens Fr. 50 000.
 
-**5**
+**Schadenabrechnung**
 
-- 1\. 1. 18 - 99 § 31. <sup>1</sup> Nach Behebung des Schadens hat der Versicherte der Gebäudeversicherung den Antrag auf Schadenabrechnung zusammen mit einer Kostenaufstellung und allen Rechnungskopien, die die Wiederherstellung des Gebäudes betreffen, einzureichen.
-
-**Antrag auf Schadenabrechnung, Kostennachweis**
-
-<sup>2</sup> Bei grossen Schäden können Zwischenabrechnungen erfolgen.
-
-<sup>3</sup> Sind die Wiederherstellungskosten nicht einwandfrei durch Rechnungen ausgewiesen, so ist die Gebäudeversicherung berechtigt, einen Abzug von der Schadenvergütung vorzunehmen.
-
-[^hVVergütungdesSch-1]: Fassung gemäss B des Verwaltungsrates vom 24. Juni 2003 (OS 58, 233). In Kraft seit 1. Januar 2004.
-
-#### § 32
+§ 31.[^hVVergütungdesSch-2] Der Versicherte reicht der Gebäudeversicherung nach Behebung des Schadens auf Verlangen eine Kostenaufstellung und alle Rechnungskopien, die die Wiederherstellung des Gebäudes betreffen, ein.
 
 **Auszahlung**
 
-<sup>1</sup> Bei Wiederherstellung wird die Entschädigung ausbezahlt, wenn der Schaden behoben und der Kostennachweis geleistet ist.
+§ 32.[^hVVergütungdesSch-2] <sup>1</sup> Bei Wiederherstellung wird die Entschädigung ausbezahlt, wenn der Schaden behoben und der Kostennachweis geleistet ist.
 
-<sup>2</sup> Pauschale Entschädigungen bis Fr. 2000 werden unmittelbar nach der Abschätzung bezahlt.[^32-1]
+<sup>2</sup> Pauschale Entschädigungen bis Fr. 50 000 können unmittelbar nach der Abschätzung bezahlt werden. Bei grossen Schäden können Teilzahlungen geleistet werden. Auf Verlangen der Gebäudeversicherung ist hierfür der Kostennachweis der Wiederherstellung zu erbringen.
 
-<sup>3</sup> Bei grossen Schäden können aufgrund von Kostennachweisen Teilzahlungen entsprechend dem Baufortschritt geleistet werden.
+**5**
 
-<sup>4</sup> Bei Nichtwiederherstellung erfolgt die Zahlung, wenn der Schadenplatz geräumt ist.
+- 1\. 1. 24 - 123
 
-<sup>5</sup> Bestehen aufgrund eines hängigen Strafverfahrens gegen den Versicherten oder eine Person, die mit diesem in Hausgemeinschaft lebt oder für deren Handlungen er haftbar ist, Zweifel an der Zahlungspflicht der Gebäudeversicherung, kann sie bis zum Abschluss des Verfahrens einen Rückbehalt von der Auszahlung machen.[^32-2]
+<sup>3</sup> Bei Nichtwiederherstellung erfolgt die Zahlung, wenn der Schadenplatz geräumt ist.
+
+<sup>4</sup> Bestehen aufgrund eines hängigen Strafverfahrens gegen den Versicherten oder eine Person, die mit diesem in Hausgemeinschaft lebt oder für deren Handlungen er haftbar ist, Zweifel an der Zahlungspflicht der Gebäudeversicherung, kann sie bis zum Abschluss des Verfahrens einen Rückbehalt von der Auszahlung machen.[^hVVergütungdesSch-3]
 
 **Zahlungsempfänger a. Versicherter**
 
-§ 33. <sup>1</sup> Die Auszahlung erfolgt an den Versicherten, wenn dieser das Gebäude wieder vollständig hergestellt hat, wenn das Gebäude nicht verpfändet ist oder wenn die Pfandgläubiger in die Auszahlung einwilligen.[^32-1]
+§ 33. <sup>1</sup> Die Auszahlung erfolgt an den Versicherten, wenn das Gebäude nicht verpfändet ist oder wenn die Pfandgläubiger in die Auszahlung einwilligen.[^hVVergütungdesSch-2]
 
 <sup>2</sup> Der Versicherte hat der Gebäudeversicherung eine entsprechende Bescheinigung des Grundbuchamtes oder der Pfandgläubiger vorzulegen.
 
-[^32-1]: Fassung gemäss B des Verwaltungsrates vom 24. Juni 2003 (OS 58, 233). In Kraft seit 1. Januar 2004.
-[^32-2]: Eingefügt durch B des Verwaltungsrates vom 24. Juni 2003 (OS 58, 233). In Kraft seit 1. Januar 2004.
+[^hVVergütungdesSch-1]: Fassung gemäss B des Verwaltungsrates vom 24. Juni 2003 (OS 58, 233). In Kraft seit 1. Januar 2004.
+[^hVVergütungdesSch-2]: Fassung gemäss B des Verwaltungsrates vom 30. Juni 2023 (OS 78, 423; ABl 2023-09-22). In Kraft seit 1. Januar 2024.
+[^hVVergütungdesSch-3]: Eingefügt durch B des Verwaltungsrates vom 24. Juni 2003 (OS 58, 233). In Kraft seit 1. Januar 2004.
 
 #### § 34
 
@@ -315,21 +303,21 @@ Der Versicherte bestätigt die Kenntnisnahme des Abschätzungsergebnisses auf de
 
 <sup>3</sup> Die Hypothekargläubiger sind verpflichtet, die Rückzahlung ohne Rücksicht auf vertragliche Kündigungsfristen anzunehmen.
 
-[^34-1]: Fassung gemäss B des Verwaltungsrates vom 24. Juni 2003 (OS 58, 233). In Kraft seit 1. Januar 2004.
-
-#### § 35
-
 **Verzinsung**
 
-Schadenvergütungen von mehr als Fr. 20 000 werden vom Tage des Schadenereignisses an bis zur Auszahlung, jedoch längstens für die Dauer eines Jahres bei Teilschäden und von zwei Jahren bei Totalschäden, zum jeweiligen Zinsfuss der Zürcher Kantonalbank für erstrangige Althypotheken auf Wohnbauten ohne Zinseszins verzinst.
+§ 35.[^34-2] <sup>1</sup> Schadenvergütungen von mehr als Fr. 50 000 werden vom Tage des Schadenereignisses an bis zur Auszahlung, jedoch längstens für die Dauer eines Jahres bei Teilschäden und von zwei Jahren bei Totalschäden, zum jeweiligen hypothekarischen Referenzzinssatz für Mietverhältnisse, der vom Bundesamt für Wohnungswesen veröffentlicht wird, verzinst.
+
+<sup>2</sup> Bei der Zinsberechnung wird kein Zinseszins anerkannt.
 
 **Öffentlichrechtliche Hinderungsgründe**
 
-§ 35 a.[^35-1] <sup>1</sup> Stehen der Wiederherstellung öffentlichrechtliche Hinderungsgründe entgegen, sind diese der Gebäudeversicherung vor Ablauf der ordentlichen Wiederherstellungsfrist von zwei Jahren schriftlich mitzuteilen.
+§ 35 a.[^34-3] <sup>1</sup> Stehen der Wiederherstellung öffentlichrechtliche Hinderungsgründe entgegen, sind diese der Gebäudeversicherung vor Ablauf der ordentlichen Wiederherstellungsfrist von zwei Jahren schriftlich mitzuteilen.
 
 <sup>2</sup> Öffentlichrechtliche Hinderungsgründe können nicht geltend gemacht werden, wenn der beantragte Wiederaufbau offensichtlich den Bestimmungen des Planungs- und Baugesetzes, insbesondere dem Brandstattrecht, widerspricht.
 
-[^35-1]: Eingefügt durch B des Verwaltungsrates vom 24. Juni 2003 (OS 58, 233). In Kraft seit 1. Januar 2004.
+[^34-1]: Fassung gemäss B des Verwaltungsrates vom 24. Juni 2003 (OS 58, 233). In Kraft seit 1. Januar 2004.
+[^34-2]: Fassung gemäss B des Verwaltungsrates vom 30. Juni 2023 (OS 78, 423; ABl 2023-09-22). In Kraft seit 1. Januar 2024.
+[^34-3]: Eingefügt durch B des Verwaltungsrates vom 24. Juni 2003 (OS 58, 233). In Kraft seit 1. Januar 2004.
 
 ### VI. Schlussbestimmungen
 
