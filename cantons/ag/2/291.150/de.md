@@ -4,13 +4,12 @@ number: "291.150"
 title: Dekret über die Entschädigung der Anwälte
 short: Anwaltstarif
 language: de
-version: 2021-01-01
-valid_until: 2023-12-31
-version_adopted: 2020-09-15
+version: 2024-01-01
+version_adopted: 2023-09-19
 adopted: 1987-11-10
 in_force: 1988-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/291.150"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2915/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3625/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2915/pdf_file"
 
 (Anwaltstarif)
 
-Vom 10.11.1987 (Stand 01.01.2021)
+Vom 10.11.1987 (Stand 01.01.2024)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -175,21 +174,21 @@ beschliesst:
 
 <sup>2</sup> …
 
-<sup>2<sup>bis</sup></sup> Der Stundenansatz beträgt in der Regel Fr. 220.– und kann in einfachen Fällen bis auf Fr. 180.– reduziert und in schwierigen Fällen bis auf Fr. 250.– erhöht werden. Auslagen und Mehrwertsteuer werden separat entschädigt.
+<sup>2<sup>bis</sup></sup> Der Stundenansatz beträgt in der Regel Fr. 240.– und kann in einfachen Fällen bis auf Fr. 200.– reduziert und in schwierigen Fällen bis auf Fr. 270.– erhöht werden. Auslagen und Mehrwertsteuer werden separat entschädigt.
 
 <sup>2<sup>ter</sup></sup> Beim Einsatz von Anwaltspraktikantinnen und -praktikanten wird der Stundenansatz gemäss Absatz 2<sup>bis</sup> angemessen reduziert.
 
 <sup>3</sup> Die Entschädigung in Strafsachen gilt auch für die Vertretung der Privatklägerschaft.
 
-<sup>3<sup>bis</sup></sup> Bei der amtlichen Verteidigung und der unentgeltlichen Vertretung der Privatklägerschaft beträgt der Stundenansatz in der Regel Fr. 200.– und kann in einfachen Fällen bis auf Fr. 180.– reduziert werden. Auslagen und Mehrwertsteuer werden separat entschädigt.
+<sup>3<sup>bis</sup></sup> Bei der amtlichen Verteidigung und der unentgeltlichen Vertretung der Privatklägerschaft beträgt der Stundenansatz in der Regel Fr. 220.– und kann in einfachen Fällen bis auf Fr. 200.– reduziert werden. Auslagen und Mehrwertsteuer werden separat entschädigt.
 
-<sup>3<sup>ter</sup></sup> Der amtlichen Verteidigung ist auf Gesuch hin eine Akontozahlung auszurichten, wenn die amtliche Vertretung zwölf Monate gedauert hat und der Honoraraufwand mindestens Fr. 10'000.– beträgt. Die Verfahrensleitung legt die Höhe der Akontozahlung durch Verfügung fest.
+<sup>3<sup>ter</sup></sup> …
 
-<sup>3<sup>quater</sup></sup> Die amtliche Verteidigung hat ein Nachforderungsrecht gemäss Art. 135 Abs. 4 lit. b StPO. Der nachforderbare Betrag ergibt sich aus der Differenz zwischen der amtlichen Entschädigung und dem Honorar gemäss Anwaltstarif.
+<sup>3<sup>quater</sup></sup> …
 
-<sup>3<sup>quinquies</sup></sup> Das Honorar gemäss Absatz 3<sup>quater</sup> wird auf Gesuch hin im Nachentscheidverfahren gemäss den Art. 363–365 StPO durch Urteil oder Verfügung festgesetzt. Liegt die Zuständigkeit bei der Staatsanwaltschaft, erfolgt die Festsetzung durch die Oberstaatsanwaltschaft.
+<sup>3<sup>quinquies</sup></sup> …
 
-<sup>4</sup> Die Tätigkeiten des Anwaltes der ersten Stunde werden nach den Ansätzen in Absatz 2<sup>bis</sup> durch den Kanton entschädigt, wenn sich nach einer vorläufigen Festnahme durch die Polizei erweist, dass keine amtliche Verteidigung zu gewähren ist. Art. 135 Abs. 4 und 5 StPO gelten sinngemäss.
+<sup>4</sup> Die Tätigkeiten des Anwaltes der ersten Stunde werden gemäss den Ansätzen in Absatz 2<sup>bis</sup> durch den Kanton entschädigt, wenn sich nach einer vorläufigen Festnahme durch die Polizei erweist, dass keine amtliche Verteidigung zu gewähren ist oder ein anderer Anwalt mit der amtlichen Verteidigung beauftragt wird. Art. 135 Abs. 4 und 5 StPO gelten sinngemäss.
 
 ## 4. Unentgeltliche Rechtsvertretung
 
@@ -231,11 +230,11 @@ beschliesst:
 
 <sup>1</sup> Neben der Entschädigung sind dem Anwalt sämtliche notwendigen Auslagen (Gerichts- und Betreibungskosten, Vorschüsse, Reisespesen, Porti, Telefon-, Telex- und Telefaxgebühren, Kopien usw.) zu ersetzen. Die Entscheidbehörde kann für den Auslagenersatz eine Pauschale festsetzen.
 
-<sup>2</sup> Die Entschädigung für jeden gefahrenen Kilometer wird gemäss Verordnung über die Entschädigung von Funktionären des Staates für die Benützung von Privatautomobilen und Privatmotorrädern zu Dienstfahrten (Autoverordnung) vom 18. Dezember 1972[^13-1] verrechnet.
+<sup>2</sup> Die Entschädigung für jeden gefahrenen Kilometer wird gemäss Verordnung über Spesen, Sitzungsgelder und übrige Entschädigungen (Spesenverordnung, SpesenV) vom 31. Januar 2001[^13-1] verrechnet.
 
 <sup>3</sup> Die Entschädigung für eine kopierte Seite beträgt Fr. –.50.
 
-[^13-1]: AGS Bd. 8 S. 414; aufgehoben (AGS 2001 S. 20)
+[^13-1]: SAR [165.171](https://gesetzessammlungen.ag.ch/data/165.171/de)
 
 ## 6. Kostennote
 
