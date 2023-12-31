@@ -3,20 +3,20 @@ canton: BL
 number: "143.121"
 title: Reglement über die Zuständigkeiten für Ausgabenbewilligungen in der Volkswirtschafts- und Gesundheitsdirektion
 language: de
-version: 2023-01-01
-valid_until: 2023-12-31
-version_adopted: 2022-12-20
+version: 2024-01-01
+valid_until: 2024-12-31
+version_adopted: 2023-12-14
 adopted: 2018-01-24
 in_force: 2018-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/143.121"
-pdf: "https://bl.clex.ch/api/de/versions/3493/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3837/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement über die Zuständigkeiten für Ausgabenbewilligungen in der Volkswirtschafts- und Gesundheitsdirektion
 
-Vom 24.01.2018 (Stand 01.01.2023)
+Vom 24.01.2018 (Stand 01.01.2024)
 
 Der Vorsteher der Volkswirtschafts- und Gesundheitsdirektion des Kantons Basel-Landschaft,
 
@@ -77,7 +77,12 @@ beschliesst:
 - d. die Revier- und Pflegebeiträge gemäss der kantonalen Waldgesetzgebung,
 - e. Kantonsbeiträge, Investitionskredite und Betriebshilfedarlehen in Kompetenz der Investitionshilfekommission gemäss § 4 der Verordnung über die Investitionshilfen in der Landwirtschaft[^3-1].
 
+<sup>2</sup> Innerhalb der besonderen Zuständigkeit der Direktion gemäss § 39 Abs. 2 Vo FHG erfolgt die Bewilligung der Ausgaben in Form der Verfügung für:
+
+- a. Ausgaben im Rahmen des Vollzugs des Gesetzes über die Erhebung einer Gasttaxe (Gasttaxengesetz) vom 29. November 2012[^3-2].
+
 [^3-1]: [SGS 514.11](https://bl.clex.ch/data/514.11/de/art4)
+[^3-2]: [SGS 548](https://bl.clex.ch/data/548/de)
 
 #### § 4
 
