@@ -4,11 +4,10 @@ number: "552.5"
 title: Kantonale Sprengstoffverordnung (KSprstV)
 short: KSprstV
 language: de
-version: "2022-01-01"
-nachtrag: "115"
-valid_until: 2024-01-01
+version: "2024-01-01"
+nachtrag: "123"
 adopted: 2010-12-15
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-552_5-2010_12_15-2011_03_01-115.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-552_5-2010_12_15-2011_03_01-123.html"
 text: pdf
 ---
 
@@ -53,15 +52,16 @@ Der Vollzug der Bestimmungen über pyrotechnische Gegenstände für Vergnügungs
 
 - a. im Bereich des Brandschutzes durch die Kantonale Feuerpolizei,
 
-- b. in den übrigen Bereichen durch das Amt für Wirtschaft und Arbeit.
+- b. in den übrigen Bereichen durch das Amt für Wirtschaft[^3-2].
 
 [^3-1]: Aufgehoben durch RRB vom 7. Juli 2021 (OS 76, 397; ABl 2021-07-16). In Kraft seit 1. Januar 2022.
+[^3-2]: Fassung gemäss RRB vom 12. Dezember 2023 (OS 78, 549; ABl 2023-12-15). In Kraft seit 1. Januar 2024.
 
 #### § 6
 
 **Arbeitnehmerschutz (Art. 23 SprstG)**
 
-Im Bereich des Arbeitnehmerschutzes werden die Betriebe und Unternehmen vom Amt für Wirtschaft und Arbeit überwacht. Dieses arbeitet dabei mit der Schweizerischen Unfallversicherungsanstalt zusammen.
+Im Bereich des Arbeitnehmerschutzes werden die Betriebe und Unternehmen vom Amt für Wirtschaft[^3-2] überwacht. Dieses arbeitet dabei mit der Schweizerischen Unfallversicherungsanstalt zusammen.
 
 #### § 7
 
@@ -79,7 +79,7 @@ Die für Ausbildungskurse und Prüfungen erforderlichen Zuverlässigkeitsbeschei
 
 **1**
 
-- 1\. 1. 22 - 115 § 9. Sprengmittel, die in ihrer Wirkungsweise, Brauchbarkeit oder Beständigkeit mangelhaft sind, sind dem Verkäufer zurückzugeben oder dem nächsten Polizeiposten abzuliefern.
+- 1\. 1. 24 - 123 § 9. Sprengmittel, die in ihrer Wirkungsweise, Brauchbarkeit oder Beständigkeit mangelhaft sind, sind dem Verkäufer zurückzugeben oder dem nächsten Polizeiposten abzuliefern.
 
 #### § 10
 
