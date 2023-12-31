@@ -3,11 +3,11 @@ sr: "0.360.136.11"
 title: Convention d’application de durée limitée du 21 mai 2021 sur la base et dans les limites de l’accord de 1999 entre la Suisse et l’Allemagne en matière de police et relative à l’infraction aux prescriptions sur la circulation routière
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/388"
 language: fr
-version: 2021-07-01
+version: 2024-01-01
 adopted: 2021-05-21
 in_force: 2021-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/388/20210701/fr/xml/fedlex-data-admin-ch-eli-cc-2021-388-20210701-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/388/20210701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/388/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2021-388-20240101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/388/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,7 +20,7 @@ Conclue le 21 mai 2021
 
 Entrée en vigueur par échange de notes le 1<sup>er</sup> juillet 2021
 
-(Etat le 1<sup>er</sup> juillet 2021)
+(État le 1<sup>er</sup> janvier 2024)
 
 L’Office fédéral suisse des routes et le Ministère fédéral allemand des transports et des infrastructures numériques, ci-après dénommés parties contractantes,
 
@@ -42,13 +42,15 @@ Cette disposition concerne les permis de circulation collectifs suisses et les p
 
 **Validité et durée**
 
-La présente convention est applicable jusqu’à l’édiction d’une convention portant sur le même objet et conclue pour une durée indéterminée, mais au plus tard jusqu’au 31 décembre 2023.
+La présente convention est applicable jusqu’à l’édiction d’une convention portant sur le même objet et conclue pour une durée indéterminée, mais au plus tard jusqu’au 31 décembre 2023.[^2-1]
 
 La convention conclue pour une durée déterminée peut être dénoncée en tout temps par l’une des parties contractantes.
 
 En cas de dénonciation, la présente convention cesse d’être applicable cent quatre-vingts (180) jours après la réception de la dénonciation.
 
 Les parties contractantes s’engagent à communiquer à l’autre partie contractante toute modification de leur propre réglementation interne, à temps et par écrit. Dans ce cas, les parties contractantes engageront des négociations sur une éventuelle modification de la présente convention dans les soixante (60) jours à compter de la réception de ladite communication.
+
+[^2-1]: La présente conv. est prolongée, au plus tard jusqu’au 31 décembre 2024, par la D du 7 déc. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 838](https://fedlex.data.admin.ch/eli/oc/2023/838))
 
 #### Art. 3
 
