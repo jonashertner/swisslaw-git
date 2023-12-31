@@ -4,13 +4,12 @@ number: "161.17"
 title: Reglement über die Aus- und Weiterbildung in den Gerichtsbehörden und in der Staatsanwaltschaft
 short: JWbR
 language: de
-version: 2014-03-12
-valid_until: 2023-12-31
-version_adopted: 2014-03-12
+version: 2024-01-01
+version_adopted: 2023-11-09
 adopted: 2011-01-12
 in_force: 2011-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/161.17"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2874/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2907/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2874/pdf_file"
 
 (JWbR)
 
-vom 12.01.2011 (Stand 12.03.2014)
+vom 12.01.2011 (Stand 01.01.2024)
 
 Die Justizleitung des Kantons Bern,
 
@@ -44,13 +43,13 @@ beschliesst:
 
 **Zuständigkeiten**
 
-<sup>1</sup> Im Rahmen ihrer Gesamtverantwortung legt die Justizleitung die Eckpunkte der Aus- und Weiterbildung fest und setzt eine Weiterbildungskommission (WBK) ein.
+<sup>1</sup> Im Rahmen ihrer Gesamtverantwortung legt die Justizverwaltungsleitung die Eckpunkte der Aus- und Weiterbildung fest und setzt eine Weiterbildungskommission (WBK) ein.
 
 <sup>2</sup> Die fachliche Aus- und Weiterbildung, insbesondere im Bereich des Kerngeschäfts, obliegt der Zivil- und Strafgerichtsbarkeit, der Verwaltungsgerichtsbarkeit sowie der Staatsanwaltschaft (vgl. Art. 10 f.).
 
 <sup>3</sup> Die Aus- und Weiterbildung in den Bereichen allgemeine Sozial- und Selbstkompetenz sowie die fachliche Aus- und Weiterbildung in den Bereichen Finanzen, Personal und IT obliegen der Stabsstelle für Ressourcen.
 
-<sup>4</sup> Der Weiterbildungskommission (WBK) obliegt die fachliche Aus- und Weiterbildung der Juristinnen und Juristen, nach den Bedürfnissen der Justizleitung, des Obergerichts, des Verwaltungsgerichts und der Generalstaatsanwaltschaft.
+<sup>4</sup> Der Weiterbildungskommission (WBK) obliegt die fachliche Aus- und Weiterbildung der Juristinnen und Juristen, nach den Bedürfnissen der Justizverwaltungsleitung, des Obergerichts, des Verwaltungsgerichts und der Generalstaatsanwaltschaft.
 
 <sup>5</sup> Das Informationsmagazin der Weiterbildungskommission publiziert alle durch die Gerichtsbehörden, die Staatsanwaltschaft und die Stabsstelle für Ressourcen organisierten Weiterbildungsangebote, Fachinformationen sowie Erfahrungsberichte.
 
@@ -101,7 +100,7 @@ beschliesst:
 
 **Wahl und Zusammensetzung**
 
-<sup>1</sup> Die Justizleitung wählt auf Vorschlag der Weiterbildungskommission und nach Anhörung des Obergerichts, des Verwaltungsgerichts und der Generalstaatsanwaltschaft sieben bis vierzehn Mitglieder der Weiterbildungskommission auf die Dauer von drei Jahren und bestimmt deren Präsidium.
+<sup>1</sup> Die Justizverwaltungsleitung wählt auf Vorschlag der Weiterbildungskommission und nach Anhörung des Obergerichts, des Verwaltungsgerichts und der Generalstaatsanwaltschaft sieben bis vierzehn Mitglieder der Weiterbildungskommission auf die Dauer von drei Jahren und bestimmt deren Präsidium.
 
 <sup>2</sup> Die Zivil- und Strafgerichtsbarkeit, die Verwaltungsgerichtsbarkeit, die Staatsanwaltschaft sowie der Bereich Personalwesen sind in der Kommission vertreten, soweit möglich unter Berücksichtigung der verschiedenen Stufen. Mindestens ein Mitglied ist französischer Muttersprache.
 
@@ -226,9 +225,9 @@ beschliesst:
 
 **Budget und Rechnungslegung**
 
-<sup>1</sup> Die Justizleitung legt jährlich unter Berücksichtigung der übertragenen Aufgaben sowie gestützt auf den Budgetantrag der Weiterbildungskommission fest, über welche Finanzmittel diese verfügen kann.
+<sup>1</sup> Die Justizverwaltungsleitung legt jährlich unter Berücksichtigung der übertragenen Aufgaben sowie gestützt auf den Budgetantrag der Weiterbildungskommission fest, über welche Finanzmittel diese verfügen kann.
 
-<sup>2</sup> Die Kommission legt der Justizleitung jährlich einen Bericht über ihre Tätigkeit vor.
+<sup>2</sup> Die Kommission legt der Justizverwaltungsleitung jährlich einen Bericht über ihre Tätigkeit vor.
 
 #### Art. 19
 

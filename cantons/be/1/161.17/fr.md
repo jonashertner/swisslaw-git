@@ -4,13 +4,12 @@ number: "161.17"
 title: Règlement sur la formation et le perfectionnement dans les autorités judiciaires et le Ministère public
 short: RFP
 language: fr
-version: 2014-03-12
-valid_until: 2023-12-31
-version_adopted: 2014-03-12
+version: 2024-01-01
+version_adopted: 2023-11-09
 adopted: 2011-01-12
 in_force: 2011-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/161.17"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2874/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2907/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2874/pdf_file"
 
 (RFP)
 
-du 12.01.2011 (état au 12.03.2014)
+du 12.01.2011 (état au 01.01.2024)
 
 La Direction de la magistrature du canton de Berne,
 
@@ -44,13 +43,13 @@ arrête:
 
 **Compétences**
 
-<sup>1</sup> Dans le cadre de sa responsabilité générale, la Direction de la magistrature fixe les éléments principaux de la formation et du perfectionnement et met sur pied une commission de perfectionnement.
+<sup>1</sup> Dans le cadre de sa responsabilité générale, la Direction administrative de la magistrature fixe les éléments principaux de la formation et du perfectionnement et met sur pied une commission de perfectionnement.
 
 <sup>2</sup> Les juridictions civile et pénale, la juridiction administrative ainsi que le Ministère public sont compétents pour la formation et le perfectionnement spécialisés, notamment dans le domaine de l’activité principale (cf. art. 10 s.).
 
 <sup>3</sup> L’état-major des ressources est compétent pour la formation et le perfectionnement dans les domaines des compétences sociales et personnelles générales, ainsi que pour la formation et le perfectionnement spécialisés dans les domaines des finances, du personnel et des TI.
 
-<sup>4</sup> La commission de perfectionnement est compétente pour la formation et le perfectionnement spécialisés des juristes, selon les besoins de la Direction de la magistrature, de la Cour suprême, du Tribunal administratif et du Parquet général.
+<sup>4</sup> La commission de perfectionnement est compétente pour la formation et le perfectionnement spécialisés des juristes, selon les besoins de la Direction administrative de la magistrature, de la Cour suprême, du Tribunal administratif et du Parquet général.
 
 <sup>5</sup> Le magazine d’information de la commission de perfectionnement publie toutes les offres de perfectionnement organisées par les autorités judiciaires, le Ministère public et l’état-major des ressources, les informations spécialisées ainsi que les rapports d’expérience.
 
@@ -101,7 +100,7 @@ arrête:
 
 **Election et composition**
 
-<sup>1</sup> Sur proposition de la commission de perfectionnement et après avoir entendu la Cour suprême, le Tribunal administratif et le Parquet général, la Direction de la magistrature élit sept à quatorze membres de la commission de perfectionnement pour une durée de trois ans et désigne le président ou la présidente.
+<sup>1</sup> Sur proposition de la commission de perfectionnement et après avoir entendu la Cour suprême, le Tribunal administratif et le Parquet général, la Direction administrative de la magistrature élit sept à quatorze membres de la commission de perfectionnement pour une durée de trois ans et désigne le président ou la présidente.
 
 <sup>2</sup> Les juridictions civile et pénale, la juridiction administrative, le Ministère public, ainsi que le domaine du personnel sont représentés dans la commission, si possible compte tenu des différents niveaux. Un membre au moins est de langue maternelle française.
 
@@ -226,9 +225,9 @@ arrête:
 
 **Budget et comptabilité**
 
-<sup>1</sup> La Direction de la magistrature détermine chaque année de quels moyens financier la commission de perfectionnement peut disposer, compte tenu des tâches déléguées ainsi que sur la base de la demande budgétaire de la commission.
+<sup>1</sup> La Direction administrative de la magistrature détermine chaque année de quels moyens financiers la commission de perfectionnement peut disposer, compte tenu des tâches déléguées ainsi que sur la base de la demande budgétaire de la commission.
 
-<sup>2</sup> La commission présente chaque année à la Direction de la magistrature un rapport sur son activité.
+<sup>2</sup> La commission présente chaque année à la Direction administrative de la magistrature un rapport sur son activité.
 
 #### Art. 19
 
