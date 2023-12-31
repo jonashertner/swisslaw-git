@@ -4,11 +4,11 @@ title: "Verordnung vom 23. August 2017 über die Bearbeitung von Personendaten i
 short: DBZV
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/535"
 language: de
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2017-08-23
 in_force: 2017-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/535/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2017-535-20230901-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/535/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/535/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2017-535-20240101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/535/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/535/20230901/de"
 
 (Datenbearbeitungsverordnung für das BAZG, DBZV)[^t-1]
 
-vom 23. August 2017 (Stand am 1. September 2023)
+vom 23. August 2017 (Stand am 1. Januar 2024)
 
 [^t-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
 
@@ -150,7 +150,7 @@ Nicht mehr benötigte Daten sowie Daten, deren Aufbewahrungsfrist abgelaufen ist
 
 **Datensicherheit**
 
-<sup>1</sup> Für die Gewährleistung der Datensicherheit gelten die Artikel 1–4 und 6 der Datenschutzverordnung vom 31. August 2022[^12-1] sowie die Cyberrisikenverordnung vom 27. Mai 2020[^12-2].[^12-3]
+<sup>1</sup> Für die Gewährleistung der Datensicherheit gelten die Artikel 1–4 und 6 der Datenschutzverordnung vom 31. August 2022[^12-1] sowie die Informationssicherheitsverordnung vom 8. November 2023[^12-2].[^12-3]
 
 <sup>2</sup> Daten, Programme und dazugehörige Dokumentationen sind gegen unbefugtes Bearbeiten sowie gegen Zerstörung und Entwendung zu schützen. Sie müssen wiederhergestellt werden können.
 
@@ -159,8 +159,8 @@ Nicht mehr benötigte Daten sowie Daten, deren Aufbewahrungsfrist abgelaufen ist
 <sup>4</sup> Das BAZG erlässt in Absprache mit dem BIT Vorschriften über organisatorische und technische Massnahmen für die Datensicherheit und sorgt dafür, dass die Datenbearbeitung automatisch protokolliert wird.
 
 [^12-1]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^12-2]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^12-3]: Fassung gemäss Anhang 2 Ziff. II 71 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^12-2]: [SR 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^12-3]: Fassung gemäss Anhang 2 Ziff. II 35 der Informationssicherheitsverordnung vom 8. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
 
 #### Art. 13
 

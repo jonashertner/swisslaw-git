@@ -4,11 +4,11 @@ title: "Ordinanza del 23 agosto 2017 sul trattamento dei dati personali nell’U
 short: OTDD
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/535"
 language: it
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2017-08-23
 in_force: 2017-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/535/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2017-535-20230901-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/535/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/535/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2017-535-20240101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/535/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/535/20230901/it"
 
 (Ordinanza sul trattamento dei dati nell’UDSC, OTDD)[^t-1]
 
-del 23 agosto 2017 (Stato 1° settembre 2023)
+del 23 agosto 2017 (Stato 1° gennaio 2024)
 
 [^t-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo
 
@@ -150,7 +150,7 @@ I dati non più necessari nonché i dati il cui termine di conservazione è scad
 
 **Sicurezza dei dati**
 
-<sup>1</sup> Per garantire la sicurezza dei dati sono applicabili gli articoli 1–4 e 6 dell’ordinanza del 31 agosto 2022[^12-1] sulla protezione dei dati nonché l’ordinanza del 27 maggio 2020 sui ciber-rischi[^12-2].[^12-3]
+<sup>1</sup> Per garantire la sicurezza dei dati sono applicabili gli articoli 1–4 e 6 dell’ordinanza del 31 agosto 2022[^12-1] sulla protezione dei dati nonché l’ordinanza dell’8 novembre 2023[^12-2] sulla sicurezza delle informazioni.[^12-3]
 
 <sup>2</sup> I dati, i programmi e la rispettiva documentazione devono essere protetti contro qualsiasi trattamento non autorizzato nonché contro la distruzione e il furto. Essi devono poter essere ripristinati.
 
@@ -159,8 +159,8 @@ I dati non più necessari nonché i dati il cui termine di conservazione è scad
 <sup>4</sup> D’intesa con l’UFIT, l’UDSC emana prescrizioni sui provvedimenti organizzativi e tecnici atti a garantire la sicurezza dei dati e provvede affinché il trattamento dei dati sia verbalizzato automaticamente.
 
 [^12-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^12-2]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^12-3]: Nuovo testo giusta l’all. 2 n. II 71 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^12-2]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^12-3]: Nuovo testo giusta l’all. 2 n. II 35 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
 
 #### Art. 13
 
