@@ -4,725 +4,704 @@ number: "726.100"
 title: Verordnung über das öffentliche Beschaffungswesen
 short: kVöB
 language: de
-version: 2012-01-01
-corrected: 2017-08-07
-version_adopted: 2011-12-21
+version: 2024-01-01
+version_adopted: 2023-11-29
 adopted: 2023-11-29
 in_force: 2024-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/726.100"
-pdf: "https://lex.vs.ch/api/de/versions/291/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/de/versions/3250/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über das öffentliche Beschaffungswesen
 
-vom 11. Juni 2003
+(kVöB)
+
+vom 29.11.2023 (Stand 01.01.2024)
 
 Der Staatsrat des Kantons Wallis
 
-eingesehen die Interkantonale Vereinbarung über das öffentliche Beschaffungswesen (IVöB) vom 15. März 2001;
+eingesehen die interkantonale Vereinbarung über das öffentliche Beschaffungswesen vom 15. November 2019 (IVöB);
 
-eingesehen den Artikel 2 des Gesetzes vom 8. Mai 2003 betreffend dem Beitritt des Kantons Wallis zur Interkantonalen Vereinbarung über das öffentliche Beschaffungswesen (kGIVöB);
+eingesehen das Gesetz über den Beitritt des Kantons Wallis vom 15. März 2023 (kGIVöB);
 
-auf Antrag des Departements für Finanzen, Landwirtschaft und äussere Angelegenheiten,
+auf Antrag des für die Volkswirtschaft zuständigen Departements,
 
 verordnet:
 
-### 1. Abschnitt: Ausschreibung
+## 1 Organe
 
 #### Art. 1
 
-**Angaben**
+**Zuständige kantonale Dienststellen**
 
-Die Ausschreibung oder die direkte Mitteilung enthält mindestens folgende Angaben:
+<sup>1</sup> Der Rechtsdienst für Wirtschaftsangelegenheiten ist dafür zuständig:
 
-- a) der Name und die Anschrift des Auftraggebers;
+- a) die Auftraggeber zu informieren und sie in allgemeinen Rechtsfragen zu beraten;
+- b) die öffentlichen Beschaffungsverfahren im Sinne von Artikel 20 kGIVöB zu kontrollieren;
+- c) die Statistik der Beschaffungen, die in den Staatsvertragsbereich fallen, wie auch die Statistik der Vergaben der kantonalen Verwaltung zu erstellen;
+- d) die Informationen im Sinne von Artikel 45 Absatz 3 IVöB zu sammeln und weiterzuleiten.
 
-- b) die Verfahrensart;
+<sup>2</sup> Der Rechtsdienst für Wirtschaftsangelegenheiten kann Verzeichnisse, die in Artikel 10 kGIVöB vorgesehen sind, nach einzelnen Teilnahmebedingungen führen.
 
-- c) den Gegenstand und den Umfang des Auftrages, Varianten und Daueraufträge;
+<sup>3</sup> Die Dienststelle für Arbeitnehmerschutz und Arbeitsverhältnisse ist dafür zuständig:
 
-- d) den voraussichtlichen Ausführungs- und Liefertermin;
+- a) die Auftraggeber zu informieren und sie in Bezug auf Fragen betreffend die Arbeitsbedingungen und Löhne sowie in Bezug auf die Arbeitsschutzbestimmungen zu beraten;
+- b) auf Antrag der Auftraggeber die Einhaltung der Bestimmungen über Arbeitsbedingungen und Löhne sowie der Arbeitssschutzbestimmungen in den Bereichen, die durch einen Normalarbeitsvertrag geregelt sind oder in denen es keine Gesamtarbeitsverträge gibt, zu prüfen. In anderen Sektoren, in denen es Gesamtarbeitsverträge gibt, wird die Einhaltung der Arbeitsbedingungen von den paritätischen Berufskommissionen kontrolliert.
 
-- e) die Sprache des Vergabeverfahrens;
+<sup>4</sup> Die Dienststelle für Arbeitnehmerschutz und Arbeitsverhältnisse kann die in Artikel 10 kGIVöB vorgesehenen Verzeichnisse der Teilnahmebedingungen berufsübergreifend, sektoriell oder auf einen Beruf beschränkt führen. Er kann auch die in Artikel 13 kGIVöB vorgesehenen Verzeichnisse mit Eignungsnachweis führen.
 
-- f) die wirtschaftlichen und technischen Anforderungen sowie die verlangten finanziellen Garantien und Angaben;
-
-- g) die Bezugsquelle und Bezugsdatum sowie den Preis für die Unterlagen;
-
-- h) den Ort und den Zeitpunkt der Einreichung der Angebote;
-
-- i) die Angaben über die Zulässigkeit der Eingabe von Teilangeboten oder Varianten;
-
-- j) den Hinweis, ob der Auftrag in den Staatsvertragsbereich fällt.
+## 2 Kontrolle der Teilnahmebedingungen
 
 #### Art. 2
 
-**Ausschreibungsunterlagen**
+**Erklärung zum Zeitpunkt der Einreichung des Angebots oder des Teilnahmeantrags**
 
-<sup>1</sup> Die Ausschreibungsunterlagen enthalten mindestens:
+<sup>1</sup> Der Anbieter sowie die im Angebot bekannt gegebenen Subunternehmer haben bei der Angebotseinreichung beziehungsweise der Einreichung des Teilnahmeantrags zu erklären, dass sie alle in den Artikeln 12 und 26 IVöB erwähnten Teilnahmebedingungen einhalten.
 
-- a) den Namen und die Anschrift des Auftraggebers;
+<sup>2</sup> Diese Erklärungen erfolgen mittels eines vom Kanton erstellten amtlichen Dokuments. Dieses Dokument nennt des Weiteren die Bestätigungen, welche der Anbieter, der voraussichtlich den Zuschlag erhält, für sich und für die im Angebot bekanntgegebenen Subunternehmer vor dem Zuschlag beziehungsweise dem Selektionsentscheid dem Auftraggeber zustellen muss.
 
-- b) die Verfahrensart;
-
-- c) den Gegenstand und den Umfang des Auftrags;
-
-- d) die Sprache der Angebote und der Unterlagen;
-
-- e) den Ort und den Zeitpunkt der Einreichung des Angebots;
-
-- f) die Dauer der Verbindlichkeit des Angebots;
-
-- g) die Personen, die bei der Angebotsöffnung anwesend sein dürfen, sowie der Tag, der Zeitpunkt und den Ort der Öffnung;
-
-- h) die wirtschaftlichen und technischen Anforderungen sowie die geforderten finanziellen Garantien und Angaben;
-
-- i) die Anforderungen bezüglich der Einhaltung der Arbeitnehmerschutzbestimmungen und Arbeitsbedingungen, namentlich die Bezahlung der Soziallasten;[^2-1]
-
-- j) die besonderen Bedingungen betreffend der Varianten, der Teilangebote und der Bildung von Losen;
-
-- k) alle Zuschlagskriterien mit Angabe ihrer Gewichtung;
-
-- l) die Adresse, wo zusätzliche Auskünfte verlangt werden können;
-
-- m) die Zahlungsbedingungen.
-
-<sup>2</sup> Die öffentlichen Ausschreibungsunterlagen müssen die Dienststelle für Arbeitnehmerschutz und Dienstverhältnisse sowie die in den Gesamtarbeitsverträgen festgelegten Arbeitsbedingungen, Normalarbeitsverträge oder bei deren Fehlen die branchenüblichen Vorschriften am Ausführungsort der Arbeiten erwähnen.
-
-[^2-1]: Änderung vom 21.12.2011 Abl. Nr. 52/2011 1.01.2012
+<sup>3</sup> Bei Dienstleistungsaufträgen müssen die Anbieter und die im Angebot bekanntgegebenen Subunternehmer im amtlichen Dokument den Ort der Leistungserbringung angeben.
 
 #### Art. 3
 
-**die**
+**Vor dem Zuschlag einzureichende Bestätigungen**
 
-**Form**
+<sup>1</sup> Vor dem Zuschlag hat der Anbieter, der den Zuschlag voraussichtlich erhält, dem Auftraggeber für sich und die im Angebot bekannt gegebenen Subunternehmer Bestätigungen betreffend folgender Punkte einzureichen:
 
-<sup>1</sup> Im Falle der offenen und selektiven Verfahren erfolgt die Ausschreibung im Amtsblatt des Kantons Wallis.
+- a) die Einhaltung der Bestimmungen über die Arbeitsbedingungen im Sinne von Artikel 9 kGIVöB;
+- b) die Zahlung der Sozialversicherungsbeiträge;
+- c) die Einhaltung der Lohngleichheit zwischen Frauen und Männern für Unternehmen mit 100 und mehr Beschäftigten;
+- d) die Zahlung der Steuern.
 
-<sup>2</sup> Für die Vergaben, welche in den Staatsvertragsbereich fallen, wird die Ausschreibung ebenfalls auf der gemeinsamen elektronischen Plattform des Bundes und der Kantone (simap.ch) veröffentlicht.
-
-<sup>3</sup> Aufträge, die für einen bestimmten Zeitraum geplant sind, können in einer einzigen Publikation veröffentlicht werden. Sie enthält mindestens die Informationen gemäss Artikel 1 sowie die Aufforderung für den Anbieter sein Interesse mitzuteilen und die Bezeichnung der Adresse, bei der zusätzliche Informationen eingeholt werden können.
+<sup>2</sup> Für Unternehmen mit 100 und mehr Beschäftigten gilt die Einreichung des höchstens 4 Jahre alten Ergebnisses der Lohngleichheitsanalyse, welche mit dem Instrument Logib oder einem anderen gleichwertigen Instrument durchgeführt wurde, sowie dessen Überprüfung durch eine nach dem Bundesgesetz über die Gleichstellung von Frau und Mann zugelassene Revisionsstelle als Bestätigung der Einhaltung der Bestimmungen zur Lohngleichheit.
 
 #### Art. 4
 
-**Sprache**
+**Ausnahmen von der Pflicht zur Einreichung von Bestätigungen vor dem Zuschlag**
 
-<sup>1</sup> Die Ausschreibung für Aufträge, die in den Staatsvertragsbereich fallen, hat mindestens in deutscher und französischer Sprache zu erfolgen.
+<sup>1</sup> Die Selbstdeklarationen im offiziellen Dokument, das dem Angebot beigefügt ist, reichen als Nachweis für die Einhaltung:
 
-<sup>2</sup> Die Ausschreibung der übrigen Aufträge kann einzig in der offiziellen Amtssprache am Orte der Arbeitsausführung verfasst sein.
+- a) der Bestimmungen über die Lohngleichheit zwischen Frauen und Männern für Unternehmen mit weniger als 100 Beschäftigten;
+- b) der Vorschriften zur Bekämpfung der Schwarzarbeit (BGSA), der entsandten Arbeitnehmerinnen und Arbeitnehmer (EntsG) und des Arbeitnehmerschutzes (ArG);
+- c) der am Ort der Leistungserbringung geltenden Vorschriften zum Schutz der Umwelt und zur Erhaltung der natürlichen Ressourcen;
+- d) des Verzichts auf unzulässige Wettbewerbsabsprachen.
 
-### 2. Abschnitt: Einladung
+<sup>2</sup> Ein Anbieter oder ein Subunternehmer ist von der Einreichung der Bestätigung über die Einhaltung der in Artikel 3 Absatz 1 Buchstabe a dieser Verordnung erwähnten Bestimmungen über die Arbeitsbedingungen befreit, wenn er auf der vom Kanton geführten Liste der Unternehmen, welche die Teilnahmebedingungen erfüllen, oder im System des individuellen elektronischen Kontrollinstruments des Kantons gemäss Artikel 4a Absatz 1 des Ausführungsgesetzes zum Entsendegesetz und zum Bundesgesetz gegen die Schwarzarbeit (AGEntsGBGSA) eingetragen ist, sofern die Anforderungen für die Eintragung in die Liste bzw. in das System Artikel 9 kGIVöB entsprechen. Er ist auch von der Einreichung der Bestätigungen über die anderen in Artikel 3 dieser Verordnung erwähnten Teilnahmebedingungen befreit, sofern die Liste bzw. das System deren Einhaltung bestätigt.
 
 #### Art. 5
 
-**Direkte Mitteilung**
+**Beschaffungen von geringer Bedeutung im Sinne von Artikel 8 Absatz 6 kGIVöB**
 
-In den Fällen eines freihändigen Verfahrens, eines freihändigen Verfahrens in Ausnahmefällen und eines Einladungsverfahren erfolgt die Einladung durch direkte Mitteilung.
+<sup>1</sup> Dienstleistungs- und Lieferaufträge gelten als Beschaffungen von geringer Bedeutung im Sinne von Artikel 8 Absatz 6 kGIVöB, wenn der Auftragswert oder bei Folgebeschaffungen der addierte Auftragswert oder bei wiederkehrenden Aufträgen der addierte Auftragswert der Vergaben, die während eines Jahres nach der ersten Vergabe erfolgten, unter 50'000 Franken liegt.
+
+## 3 Eignungskriterien
 
 #### Art. 6
 
-**Einladungsunterlagen**
+**Definition der Eignungskriterien**
 
-<sup>1</sup> Die Einladungsunterlagen enthalten mindestens:
+<sup>1</sup> Der Auftraggeber legt objektive Eignungskriterien und die zu erbringenden Nachweise zur Beurteilung der Eignung der Anbieter und der Subunternehmer, die zur Ausführung des Auftrags beigezogen werden, fest.
 
-- a) den Namen und die Anschrift des Auftraggebers;
+<sup>2</sup> Die Eignungskriterien können insbesondere die berufliche, finanzielle, wirtschaftliche, technische und organisatorische Leistungsfähigkeit der Anbieter sowie deren Erfahrung betreffen.
 
-- b) die Verfahrensart;
+<sup>3</sup> Unter beruflicher Leistungsfähigkeit versteht man die Ausbildung und die Erfahrung des Personals sowie unter technischer Leistungsfähigkeit die technische Ausrüstung des Anbieters, die zur fachmännischen Ausführung des ausgeschriebenen Auftrags benötigt werden.
 
-- c) den Gegenstand und den Umfang des Auftrages, Angaben über die Varianten und der dauernden Aufträge;
+<sup>4</sup> Unter finanzieller Leistungsfähigkeit versteht man die finanziellen Mittel und unter wirtschaftlicher Leistungsfähigkeit die logistischen Mittel und die Produktivität. Beide Begriffe beziehen sich auf die Finanzkraft des Anbieters und ermöglichen es, die Leistung fristgerecht zu erbringen und allenfalls unvorhersehbare besondere Umstände zu bewältigen.
 
-- d) die Bezugsquelle und die Bezugsdauer sowie der Preis der Dokumente;
-
-- e) den voraussichtlichen Ausführungs- und Liefertermin;
-
-- f) die Sprache der Angebote und der Unterlagen;
-
-- g) den Ort und den Zeitpunkt der Einreichung eines Angebotes;
-
-- h) die Dauer der Verbindlichkeit des Angebotes;
-
-- i) die Personen, die bei der Angebotsöffnung anwesend sein dürfen, sowie der Tag, die Stunde und den Ort der Öffnung;
-
-- j) die wirtschaftlichen und technischen Anforderungen sowie die geforderten finanziellen Garantien und Angaben;
-
-- k) die Anforderungen bezüglich der Einhaltung der Arbeitnehmerschutzbestimmungen und Arbeitsbedingungen, namentlich die Bezahlung der Soziallasten;[^6-1]
-
-- l) die besonderen Bedingungen betreffend der Varianten, der Teilangebote und der Bildung von Losen;
-
-- m) alle Zuschlagskriterien mit Angabe ihrer Gewichtung;
-
-- n) die Adresse, wo zusätzliche Auskünfte verlangt werden können;
-
-- o) die Zahlungsbedingungen.
-
-<sup>2</sup> Die Einladungsunterlagen müssen die Dienststelle für Arbeitnehmerschutz und Dienstverhältnisse sowie die in den Gesamtarbeitsverträgen festgelegten Arbeitsbedingungen, die Normalarbeitsverträge oder bei deren Fehlen die branchenüblichen Vorschriften am Ausführungsort der Arbeiten erwähnen.
-
-[^6-1]: Änderung vom 21.12.2011 Abl. Nr. 52/2011 1.01.2012
+<sup>5</sup> Unter organisatorischer Leistungsfähigkeit versteht man interne Prozesse des Anbieters, die seine Fähigkeit zur produktiven Ausführung des Auftrags und die Effizienz, auf notwendige Änderungen zu reagieren, ohne dass er die gesamte Belegschaft einsetzen muss, unter Beweis stellen.
 
 #### Art. 7
 
-**Sprache**
+**Dokumente zur Kontrolle der Eignungskriterien**
 
-Die Einladung muss in der offiziellen Amtssprache, am Orte der Arbeitsausführung gilt, verfasst sein.
+<sup>1</sup> Zur Kontrolle der Eignung des Anbieters und der im Angebot beziehungsweise im Teilnahmeantrag bekanntgegebenen Subunternehmer kann der Auftraggeber insbesondere die in Anhang 1 der vorliegenden Verordnung aufgeführten Dokumente verlangen.
 
-### 3. Abschnitt: Besondere Anforderungen
+<sup>2</sup> Alle oder ein Teil der Dokumente, die für die Analyse der Eignungskriterien erforderlich sind, können beim Anbieter, der voraussichtlich den Zuschlag erhält, nach Einreichung des Angebots einverlangt werden. Der Auftraggeber hat in der öffentlichen Ausschreibung beziehungsweise in der Einladung oder in den Ausschreibungsunterlagen anzugeben, welche Dokumente nach der Einreichung des Angebots einzureichen sind.
+
+## 4 Zuschlagskriterien
 
 #### Art. 8
 
-**Technische Spezifikationen**
+**Allgemeines**
 
-<sup>1</sup> Die technischen Spezifikationen werden:
+<sup>1</sup> Die Zuschlagskriterien dienen der Bestimmung des vorteilhaftesten Angebots.
 
-- a) eher bezüglich Produktleistung als bezüglich Konzeption oder beschreibender Eigenschaften definiert;
-
-- b) auf der Grundlage von internationalen Normen und wenn solche fehlen, von den in der Schweiz verwendeten technischen Normen definiert.
-
-<sup>2</sup> Anforderungen oder Hinweise in Bezug auf besondere Handelsmarken oder Handelsnamen, Patente, Muster oder Typen sowie auf einen bestimmten Ursprung oder Produzenten sind nicht zulässig, es sei denn, dass es keine hinreichend genaue oder verständliche Art und Weise der Beschreibung des Beschaffungsbedarfs gibt, und sofern in den öffentlichen Ausschreibungs- oder Einladungsunterlagen die Worte ''oder gleichwertig'' einbezogen werden.
-
-<sup>3</sup> Weicht ein Anbieter von diesen Normen ab, so hat sie oder er die Gleichwertigkeit dieser technischen Spezifikationen zu beweisen.
-
-<sup>4</sup> Die Auftraggeber dürfen nicht auf eine den Wettbewerb ausschaltende Art und Weise von einer Firma, die ein geschäftliches Interesse an der Beschaffung haben könnte, Hinweise einholen oder annehmen, welche bei der Ausarbeitung der Spezifikationen für eine bestimmte Beschaffung verwendet werden können.
+<sup>2</sup> Das vorteilhafteste Angebot bestimmt sich auf der Grundlage des Preises und der Qualität sowie allfälliger weiterer vom Auftraggeber festgelegter Kriterien.
 
 #### Art. 9
 
-**Auskünfte**
+**Preiskriterien**
 
-<sup>1</sup> Die Auftraggeber beantworten innerhalb kürzester Frist den Anfragen zu den öffentlichen Ausschreibugs- oder Einladungsunterlagen, soweit die Zusatzinformation einem Anbieter nicht unzulässige Vorteile gewährt.
+<sup>1</sup> Das Preiskriterium kann neben dem nominalen Angebotspreis auch andere preisbezogene Kriterien umfassen, wie die Lebenszykluskosten oder die Verlässlichkeit des Preises.
 
-<sup>2</sup> Wichtige Auskünfte, einem Anbieter erteilt werden, müssen gleichzeitig auch allen anderen mitgeteilt werden.
+<sup>2</sup> Die anderen preisbezogenen Kriterien müssen unabhängig vom Nominalpreis gewichtet werden.
+
+<sup>3</sup> Bei der Gewichtung des Nominalpreises ist die Komplexität des Auftrags zu berücksichtigen.
+
+<sup>4</sup> Bei nicht weitgehend standardisierten Bauaufträgen darf die Gewichtung des Nominalpreises nicht mehr als 70 Prozent betragen.
+
+<sup>5</sup> Bei Tiefbauaufträgen, die auf der Grundlage von geschätzten Mengen ausgeschrieben werden, kann der Auftraggeber in den Ausschreibungsunterlagen festlegen, dass die Bewertungsdifferenz der Angebote, die in einer Spanne von 0 bis 5 Prozent des Betrages des niedrigsten Angebots liegen, maximal 10 Prozent beträgt. In diesem Fall darf die Gewichtung des Nominalpreises nicht unter 60 Prozent liegen.
 
 #### Art. 10
 
-**Fristen: Grundsatz**
+**Qualitätskriterien**
 
-<sup>1</sup> Jede Frist wird einheitlich und so festgelegt, dass niemand diskriminiert wird. Bei der Bestimmung der Fristen werden Umstände wie Art und Komplexität des Auftrages, das Ausmass von Unteraufträgen, die übliche Ausarbeitungs- oder Produktionszeit sowie die notwendige Übermittlungs- oder Transportzeit berücksichtigt soweit es sich mit den angemessenen Bedürfnissen der Auftraggeber vereinbaren lässt.
+<sup>1</sup> Als Qualitätskriterien gelten insbesondere die Plausibilität des Angebots, der technische Wert, die Erfahrung oder die Referenzen.
 
-<sup>2</sup> Die Verlängerung einer Frist gilt für alle Anbieter und ist diesen rechtzeitig und gleichzeitig bekannt zu geben.
+<sup>2</sup> Unter Plausibilität des Angebots ist die Übereinstimmung zwischen dem Gegenstand des Auftrags und den vom Anbieter angegebenen Modalitäten der Erfüllung zu verstehen.
 
-<sup>3</sup> Die Fristen für Vergaben im Staatsvertragsbereich dürfen nicht kürzer sein als:
+<sup>3</sup> Unter technischem Wert versteht man insbesondere die verwendeten Maschinen und Werkzeuge sowie die vorgesehenen Ausführungsverfahren.
 
-- a) 40 Tage seit der öffentlichen Ausschreibung im offenen Verfahren für die Einreichung eines Angebotes;
+<sup>4</sup> Mit Erfahrung sind die Referenzen der Schlüsselpersonen des Anbieters gemeint, die für die Ausführung des ausgeschriebenen Auftrags vorgesehen sind.
 
-- b) 25 Tage seit der öffentlichen Ausschreibung zur Gesuchseinreichung um Teilnahme beim selektiven Verfahren. Die Frist zur Einreichung eines Angebotes darf nicht kürzer als 40 Tage sein, gerechnet vom Zeitpunkt, zu dem die Einladung zur Angebotsabgabe ergeht.
-
-<sup>4</sup> Die Fristen für die anderen Vergaben dürfen nicht kürzer sein als:
-
-- a) 20 Tage seit der öffentlichen Ausschreibung im offenen Verfahren für die Einreichung eines Angebotes und seit der Einladung im Einladungsverfahren;
-
-- b) 10 Tage seit der öffentlichen Ausschreibung für ein Gesuch um Teilnahme beim selektiven Verfahren. Die Frist zur Einreichung eines Angebotes darf nicht kürzer als 20 Tage sein, gerechnet vom Zeitpunkt, zu dem die Einladung zur Angebotsabgabe ergeht.
+<sup>5</sup> Als Referenzen gelten ähnliche Projekte, die vom Anbieter innerhalb einer vorgeschriebenen Frist realisiert wurden. Letztere trägt der Komplexität des ausgeschriebenen Auftrags Rechnung.
 
 #### Art. 11
 
-**Fristen: Ausnahmen**
+**Kriterien der Vergabe von Unteraufträgen und der Temporärarbeitskräfte**
 
-Die Fristen gemäss Artikel 10 können in folgenden Fällen verkürzt werden:
-
-- a) wenn eine besondere Anzeige innerhalb von 40 Tagen bis längstens 12 Monate im voraus erfolgt ist, welche die Angaben gemäss Artikel 1 und den Hinweis enthält, dass sich interessierte Anbieter bei der bezeichneten Stelle zu melden haben und zusätzliche Auskünfte verlangt werden können; in diesem Fall kann die Frist unter der Voraussetzung, dass genügend Zeit zur Ausarbeitung eines Angebotes bleibt, auf in der Regel 24 Tage verkürzt werden, in keinem Fall jedoch auf weniger als 10 Tage;
-
-- b) wenn es sich um eine zweite oder eine weitere Ausschreibung von Aufträgen wiederkehrender Art handelt, bis auf 24 Tage;
-
-- c) in dringlichen Fällen, welche eine Einhaltung der Fristen gemäss Artikel 10 unpraktikabel machen; aber auf nicht weniger als 10 Tage;
-
-- d) bei selektiven Verfahren mit Verwendung von Listen von qualifizierten Anbietern kann die Frist durch eine Vereinbarung festgelegt werden. Fehlt eine Vereinbarung, so muss eine Frist festgelegt werden, welche die Einreichung eines Angebotes erlaubt. Die Frist darf aber nicht kürzer als 10 Tage sein.
-
-### 4. Abschnitt: Eignung der Anbieter
+<sup>1</sup> Wenn der Anteil des Beizugs von Subunternehmern bzw. von Teilzeitarbeitskräften als Zuschlagskriterium verwendet wird, erhalten Anbieter, die keine oder nur einen geringfügigen Anteil an Subunternehmer beziehungsweise Teilzeitarbeitskräfte bekannt gegeben haben, eine bessere Bewertung als Anbieter, die einen höheren Anteil an Subunternehmer beziehungsweise Teilzeitarbeitskräfte bekannt gegeben haben. Die Gewichtung jedes dieser Kriterien darf nicht mehr als 20 Prozent betragen.
 
 #### Art. 12
 
-**Eignungskriterien**
+**Kriterium der beruflichen Grundausbildung**
 
-<sup>1</sup> Die Auftraggeber legen objektive Kriterien und die zu erbringenden Nachweise zur Beurteilung der Eignung der Anbieter fest. Diese Eignungskriterien betreffen insbesondere die technische, organisatorische, finanzielle und wirtschaftliche Leistungsfähigkeit.
+<sup>1</sup> Wenn der Auftraggeber das Kriterium der beruflichen Grundausbildung verwendet, berücksichtigt sie die Anzahl der in den letzten 3 Jahren ausgebildeten Lehrlinge im Verhältnis zur Anzahl der Beschäftigten, ausgedrückt in Vollzeitäquivalenten für denselben Zeitraum. Dieses Kriterium kann nur bei Aufträgen verwendet werden, die nicht in den Staatsvertragsbereich fallen. Seine Gewichtung darf 10 Prozent nicht überschreiten.
 
-<sup>2</sup> Im Rahmen des Einladungsverfahrens und der freihändigen Verfahren gelten alle durch den Auftraggeber eingeladenen Anbieter als geeignet, die Leistung zu erbringen.
+## 5 Verfahrensbestimmungen
 
 #### Art. 13
 
-**Ständige Listen**
+**Bestimmung des Wertes von Bauaufträgen, die nicht in den Staatsvertragsbereich fallen**
 
-<sup>1</sup> Die Dienststelle für Arbeitnehmerschutz und Dienstverhältnisse führt ständige Listen von Unternehmen, Büros oder Lieferanten, die die beruflichen Fähigkeitsanforderungen und die sozialen und wirtschaftlichen Anforderungen gemäss den Bestimmungen der Verordnung über die ständigen Listen erfüllen.
+<sup>1</sup> Folgende Codes des Baukostenplans (BKP) sind von der in Artikel 4 kGIVöB festgelegten Anforderung ausgenommen:
 
-<sup>2</sup> Sie aktualisiert die Liste der qualifizierten Anbieter und Leistungserbringender und anerkennt die entsprechenden Listen der übrigen Mitglieder der IVöB.
-
-<sup>3</sup> Ein Prüfungsverfahren muss jederzeit garantieren, dass die Eignung eines jeden Anbieters, der ein Gesuch um Aufnahme in die Liste stellt, überprüft werden kann.
-
-### 5. Abschnitt: Angebote
+- a) BKP 211.1, 212.1, 213.1, 214.5, 215.1, 224.4, 225.0, 226.0, 227.0, 271.2, 282.7, 283.0 und 285.0 Gerüste;
+- b) BKP 281.0 Unterlagsböden;
+- c) BKP 281.6 Fliesen;
+- d) BKP 281.9 Sockelleisten.
 
 #### Art. 14
 
-**Einreichung**
+**Ausschreibungsunterlagen**
 
-<sup>1</sup> Das Angebot muss schriftlich und vollständig, innerhalb der Frist, eingeschrieben per Post an die in der Ausschreibung erwähnte Adresse zugestellt sein. Es darf nach Ablauf der Frist unter Vorbehalt von Artikel 19 Absatz 2 nicht mehr geändert werden.
+<sup>1</sup> Die Ausschreibungsunterlagen enthalten zusätzlich zu den in Artikel 36 IVöB aufgeführten Angaben:
 
-<sup>2</sup> Das Angebot muss in der Sprache des Vergabeverfahrens abgefasst werden.
-
-<sup>3</sup> Die Ausarbeitung des Angebotes gibt im Prinzip keinen Anspruch auf eine Vergütung.
+- a) gegebenenfalls die Anwendungsmodalitäten der Konventionalstrafe (Art. 12 Abs. 4 kGIVöB);
+- b) gegebenenfalls die Forderung, dass der Anbieter, der voraussichtlich den Zuschlag erhält, und die Subunternehmer, die an der Leistungserbringung beteiligt sein werden, ein individuelles elektronisches Kontrollinstrument für die Beschäftigten einsetzen müssen, um insbesondere die Einhaltung der geltenden Arbeitsbedingungen und die Bezahlung der Sozialabgaben während der Ausführung der Bauarbeiten zu gewährleisten.
 
 #### Art. 15
 
-<sup>3</sup> Dokumente zum Angebot
+**Technische Spezifikationen**
 
-<sup>1</sup> Dem Angebot ist das durch die Dienststelle für Arbeitnehmerschutz und Dienstverhältnisse erstellte Formular beizufügen, welches bestätigt, dass der in einer ständigen Liste eingetragene Anbieter und seine Unterakkordanten die Bestimmungen betreffend Arbeitnehmerschutz sowie Arbeits- und Lohnbedingungen am Arbeitsausführungsort oder an ihrem Geschäfts- oder Wohnsitz in der Schweiz einhalten und dass sie mit der Bezahlung der Soziallasten in Ordnung sind.
-
-<sup>2</sup> Sollte der Anbieter nicht in einer ständigen Liste eingetragen sein, sind seinem Angebot das entsprechende durch die Dienststelle für Arbeitnehmerschutz und Dienstverhältnisse erstellte Formular ausgefüllt und unterzeichnet beizulegen samt den dazugehörenden aktuellen Bestätigungen. Er verpflichtet sich, dass er und seine Unterakkordanten die Bestimmungen betreffend Arbeitnehmerschutz sowie Arbeits- und Lohnbedingungen am Arbeitsausführungsort oder an ihrem Geschäfts- oder Wohnsitz in der Schweiz einhalten und dass sie mit der Bezahlung der Soziallasten in Ordnung sind.
-
-<sup>3</sup> Besteht für die in Betracht fallenden Aufträge keine entsprechende ständige Liste, hat der Anbieter seinem Angebot das durch die Dienststelle für Arbeitnehmerschutz und Dienstverhältnisse erstellte Formular ausgefüllt und unterzeichnet beizulegen samt den dazugehörenden aktuellen Bestätigungen. Er verpflichtet sich, dass er und seine Unterakkordanten die Bestimmungen betreffend Arbeitnehmerschutz sowie Arbeits- und Lohnbedingungen am Arbeitsausführungsort oder an ihrem Geschäfts- oder Wohnsitz in der Schweiz einhalten und dass sie mit der Bezahlung der Soziallasten in Ordnung sind.
-
-<sup>4</sup> Vor dem Zuschlag fordert der Auftraggeber vom Anbieter, der den Zuschlag erhalten wird, die nötigen Bestätigungen, welche belegen, dass er und seine Unterakkordanten die anwendbaren Gesamtarbeitsverträge einhalten. Der Auftraggeber wird kontrollieren, dass der Anbieter, der den Zuschlag erhalten wird, und seine Unterakkordanten gegebenenfalls die Bestimmungen betreffend Arbeits- und Lohnbedingungen des Normalarbeitsvertrags oder, falls kein Normalarbeitsvertrag besteht, die üblichen Bestimmungen betreffend Arbeits- und Lohnbedingungen einhält. Er wird in jedem Fall kontrollieren, ob dieser Anbieter und seine Unterakkordanten im Zeitpunkt der Einreichung der Offerte mit der Bezahlung der Soziallasten in Ordnung waren.
-
-<sup>5</sup> In den Bereichen mit Gesamtarbeitsvertrag, sofern anwendbar, kann der Auftraggeber die paritätischen Kommissionen oder die bestehenden Berufsorganisationen ersuchen, ihre Meinung bezüglich Einhaltung der Bestimmungen betreffend Arbeitnehmerschutz sowie betreffend Einhaltung der Arbeits- und Lohnbedingungen durch den Zuschlagsempfänger geltend zu machen. In den anderen Bereichen führt die Dienststelle für Arbeitnehmerschutz und Dienstverhältnisse auf Gesuch hin die nötigen Kontrollen durch.
-
-<sup>6</sup> Zusätzlich kann der Auftraggeber namentlich die Auskünfte und Dokumente gemäss Anhang a verlangen.
+<sup>1</sup> Bei Aufträgen, die nicht in den Staatsvertragsbereich fallen, legt der Auftraggeber die technischen Spezifikationen auf der Grundlage der in der Schweiz angewandten technischen Normen, der national anerkannten Normen oder der Branchenempfehlungen fest. Bei Fehlen solcher stützt er sich auf internationale Normen.
 
 #### Art. 16
 
-**Arbeitsgemeinschaft**
+**Fristen für die Einreichung der Angebote**
 
-<sup>1</sup> Wird die Bildung von Arbeitsgemeinschaften in den Vergabebedingungen nicht ausdrücklich ausgeschlossen oder eingeschränkt, können mehrere Anbieter ein gemeinsames Angebot einreichen.
-
-<sup>2</sup> Jedes Mitglied der Arbeitsgemeinschaft stellt sicher oder garantiert vertraglich,
-
-- a) dass es die Eignungskriterien gemäss Artikel 12 dieser Verordnung erfüllt;
-
-- b) dass es die Arbeitnehmerschutzbestimmungen und Arbeitsbedingungen einhält, namentlich mit der Bezahlung der Soziallasten in Ordnung ist;[^16-1]
-
-- c) dass es die Gesamtarbeitsverträge beziehungsweise die Normalarbeitsverträge oder bei deren Fehlen, die branchenüblichen Vorschriften am Ausführungsort der Arbeiten einhält;
-
-- d) dass es die Gleichbehandlung von Frau und Mann gewährleistet;
-
-- e) dass die Informationen der Anbieter vertraulich behandelt werden.
-
-[^16-1]: Änderung vom 21.12.2011 Abl. Nr. 52/2011 1.01.2012
+<sup>1</sup> Zusätzlich zu den in Artikel 46 Absatz 1 IVöB aufgeführten Anforderungen verlängert der Auftraggeber für Bauaufträge in angemessener Weise die Fristen für die Einreichung der Angebote oder der Teilnahmeanträge, um die in den Gesamtarbeitsverträgen festgelegten Ferien und offiziellen Tage, sofern diese veröffentlicht sind, sowie die eidgenössischen und kantonalen Feiertage zu berücksichtigen.
 
 #### Art. 17
 
-<sup>3</sup> Unterakkordanten
+**Angebotseinreichung**
 
-<sup>1</sup> Gleichzeitig mit der Angebotseinreichung verlangt der Auftraggeber Angaben über die Art und den Umfang der Arbeiten oder der Leistungen, die untervergeben werden, sowie die Bekanntgabe von Namen und Geschäftssitz oder Wohnsitz der an der Ausführung des Auftrages beteiligten Unternehmen. Diese Angaben können für die Evaluation der Angebote berücksichtigt werden.
-
-<sup>2</sup> Vergibt der Auftraggeber an ein General- oder Totalunternehmen oder an ein Unternehmen, welches Unterakkordanten beizieht, sichert der Zuschlagsempfänger vertraglich zu, dass jedes an der Arbeitsausführung beteiligte Unternehmen einschliesslich dessen Unterakkordanten:
-
-- a) die Eignungskriterien im Sinn von Artikel 12 dieser Verordnung erfüllt;
-
-- b) die Arbeitnehmerschutzbestimmungen und Arbeitsbedingungen einhält und mit der Bezahlung der Soziallasten in Ordnung ist;
-
-- c) dass es die Gesamtarbeitsverträge beziehungsweise die Normalarbeitsverträge oder bei deren Fehlen, die branchenüblichen Vorschriften am Ausführungsort der Arbeiten einhält;
-
-- d) die Gleichbehandlung von Frau und Mann gewährleistet;
-
-- e) die Informationen der Anbieter vertraulich behandelt.
-
-<sup>3</sup> Ein Unterakkordant kann nicht wiederum einen Unterakkordant für Arbeiten beiziehen.
+<sup>1</sup> Für die Einhaltung der Frist zur Angebotseinreichung ist der Poststempel massgebend, sofern der Auftraggeber die Angebotseinreichung auf dem Postweg verlangt hat. Kann das Angebot elektronisch übermittelt werden, gilt das Absendedatum.
 
 #### Art. 18
 
-**Öffnung der Angebote**
+**Zwei-Couverts-Methode**
 
-<sup>1</sup> Die fristgerecht eingereichten Angebote werden durch mindestens zwei Vertreter des Auftraggebers geöffnet.
+<sup>1</sup> Hat der Auftraggeber in der öffentlichen Ausschreibung oder der Einladung bekanntgegeben, dass Leistung und Preiskriterien in zwei separaten Couverts angeboten werden müssen, haben die Anbieter ihr Angebot in einem Umschlag, bestehend aus zwei verschlossenen inneren Couverts, einzureichen, die mit der Bezeichnung des Beschaffungsgegenstandes, dem Namen des Anbieters sowie dem Vermerk "erstes Couvert: Leistung" respektive "zweites Couvert: Preis" versehen sind.
 
-<sup>2</sup> Beim offenen Verfahren, selektiven Verfahren und Einladungsverfahren können die Anbieter sowie ein Vertreter des jeweiligen Berufsverbandes der Öffnung beiwohnen.
+<sup>2</sup> Der Auftraggeber erstellt über die Öffnung der ersten Couverts ein Protokoll, das mindestens die Namen der anwesenden Personen, die Namen der Anbieter und das Datum der Einreichung der Angebote enthält.
 
-<sup>3</sup> Über die Öffnung der Angebote wird ein Protokoll erstellt. Darin sind mindestens die Namen der anwesenden Personen, die Namen der Anbieter, die Daten der Poststempel und die Nettobeträge der Angebote festzuhalten. Im Falle der offenen, selektiven Verfahren oder auf Einladung haben alle Anbieter und Berufsorganisationen das Recht auf Verlangen, Einsicht in dieses Protokoll zu nehmen.
+<sup>3</sup> Der Auftraggeber prüft in einem ersten Schritt die Zuschlagskriterien mit Ausnahme der Preiskriterien und erstellt die provisorische Zuschlagstabelle.
+
+<sup>4</sup> Er berücksichtigt nur diejenigen Angebote, welche mindestens die zu erreichende Minimalnote im Sinne von Artikel 14 kGIVöB erhalten haben.
+
+<sup>5</sup> Er schreitet anschliessend zur Öffnung der zweiten Couverts, welche die Preiskriterien beinhalten, und verfasst ein neues Protokoll, welches mindestens die Namen der anwesenden Personen, die Namen der Anbieter und die Gesamtpreise enthält.
+
+<sup>6</sup> Der Auftraggeber bewertet die Preiskriterien und erstellt die endgültige Zuschlagstabelle.
 
 #### Art. 19
 
-**Kontrolle der Angebote**
+**Ungewöhnlich niedrige Angebote**
 
-<sup>1</sup> Die Angebote werden nach einheitlichen Kriterien fachlich und rechnerisch geprüft. Es können Dritte als Sachverständige eingesetzt werden.
-
-<sup>2</sup> Offensichtliche Fehler, wie Rechnungs- und Schreibfehler, werden berichtigt.
-
-<sup>3</sup> Danach wird eine objektive Vergleichstabelle über die kontrollierten Angebote erstellt.
+<sup>1</sup> Als ungewöhnlich niedrige Angebote im Sinne von Artikel 38 Absatz 3 IVöB gelten insbesondere Angebote, deren Preis 20 Prozent unter dem Durchschnittspreis der eingereichten Angebote liegt.
 
 #### Art. 20
 
 **Erläuterungen**
 
-<sup>1</sup> Der Auftraggeber kann von den Anbietern schriftliche Erläuterungen bezüglich ihrer Eignung und ihres Angebots verlangen.
-
-<sup>2</sup> Mündliche Erläuterungen werden vom Auftraggeber schriftlich festgehalten.
+<sup>1</sup> In der Regel darf der Auftraggeber vom Anbieter nur schriftliche Erläuterungen bezüglich seiner Eignung und seines Angebots verlangen.
 
 #### Art. 21
 
-**Verbot von Abgebotsrunden**
+**Protokoll über die Öffnung der Angebote und Teilnahmeanträge**
 
-Verhandlungen zwischen dem Auftraggeber und den Anbietern über Preise, Preisnachlässe und Änderungen des Leistungsinhaltes sind unzulässig.
+<sup>1</sup> Das Protokoll über die Öffnung der Angebote beziehungsweise der Teilnahmeanträge enthält zusätzlich zu den in Artikel 37 IVöB aufgelisteten Angaben die Namen der bekannt gegebenen Subunternehmer sowie die Namen der Mitglieder von Bietergemeinschaften.
+
+<sup>2</sup> Das Protokoll über die Öffnung der Angebote im offenen Verfahren und im Einladungsverfahren sowie das Protokoll über die Öffnung der Teilnahmeanträge im selektiven Verfahren sind der Dienststelle für Arbeitnehmerschutz und Arbeitsverhältnisse, den zuständigen paritätischen Berufskommissionen und auf Verlangen den Berufsverbänden zuzustellen. Der Versand erfolgt spätestens am Tag nach der Öffnung der Angebote bzw. der Teilnahmeanträge.
+
+<sup>3</sup> Die zuständigen paritätischen Berufskommissionen haben eine Frist von 10 Tagen, um Bemerkungen, die in ihren Zuständigkeitsbereich fallen, vorzubringen.
+
+## 6 Wettbewerbe und parallele Studienaufträge
 
 #### Art. 22
 
-**Ungewöhnlich niedrige Angebote**
+**Grundsätze**
 
-Erhält ein Auftraggeber ein Angebot, das ungewöhnlich niedriger ist als die anderen, zieht er beim Anbieter Erkundigungen ein, um zu prüfen, dass dieser die Teilnahmebedingungen einhält und die Auftragsbedingungen erfüllen kann. Er kann eine Expertise sowie spezielle Garantien anfordern.
+<sup>1</sup> Zur Beschaffung von Bauleistungen, Lieferungen und Dienstleistungen können Wettbewerbs- und parallele Studienauftragsverfahren durchgeführt werden.
+
+<sup>2</sup> Bei Wettbewerben und parallelen Studienaufträgen beurteilt ein qualifiziertes Preisgericht beziehungsweise ein Expertenkollegium die Arbeiten, vergibt die Preise und schlägt den Gewinner vor.
+
+<sup>3</sup> Die Bestimmungen zu den Wettbewerben finden unter Vorbehalt ausdrücklicher anderer Bestimmungen auch auf parallele Studienaufträge Anwendung.
+
+<sup>4</sup> Die Bestimmungen der interkantonalen Vereinbarung über das öffentliche Beschaffungswesen, des kantonalen Anwendungsgesetzes sowie der übrigen Abschnitte der vorliegenden Verordnung finden Anwendung, sofern sie nicht jenen des vorliegenden Abschnittes widersprechen.
+
+<sup>5</sup> Hat der Auftraggeber beschlossen, sich für die Regelung des Wettbewerbsverfahrens auf die von den in der Sache zuständigen Berufsverbänden erlassenen Regeln zu beziehen, sind diese anwendbar, soweit sie nicht den Bestimmungen der Gesetzgebung über das öffentliche Beschaffungswesen widersprechen.
 
 #### Art. 23
 
-**Ausschlussgründe**
+**Zweck**
 
-<sup>1</sup> Ein Anbieter wird vom Zuschlagsverfahren insbesondere ausgeschlossen, wenn er im Zeitpunkt seiner Angebotseinreichung oder im Zeitpunkt des Zuschlages:
-
-- a) die geforderten Eignungskriterien nicht oder nicht mehr erfüllt;
-
-- b) dem Auftraggeber falsche Auskünfte erteilt hat;
-
-- c) sein Angebot die Anforderung gemäss der Ausschreibungs- oder Einladungsunterlage nicht erfüllt;
-
-- d) mit der Bezahlung der Steuern oder Soziallasten nicht in Ordnung ist;[^23-1]
-
-- e) den Grundsätzen von Artikel 11 Buchstaben e, f, g IVöB nicht nachkommt;
-
-- f) Abreden getroffen hat, die den wirksamen Wettbewerb behindern oder erheblich beeinträchtigen;
-
-- g) ein Angebot eingereicht hat, welches die Selbstkosten nicht deckt;
-
-- h) sich nicht an Vorschriften über den Umweltschutz hält, die mit denjenigen am Ort der Ausführung vergleichbar sind;
-
-- i) sich in einem Konkursverfahren befindet und nicht in der Lage ist, eine Finanzgarantie vorzulegen;
-
-- j) sich beruflich in schwerer Weise fehlverhalten hat und dieses Verhalten, innert zweier Jahren vor dem Vergabeverfahren, strafrechtlich sanktioniert wurde;
-
-- k) im Rahmen des gleichen Projektes ein oder mehrere Planungs- oder Bauleitungsaufträgen ausgeführt hat und diese Leistungen ihm für das gegenwärtige Angebot einen privilegierten Informations- und Wissensstand verschafft, welche die Chancengleichheit verfälscht.
-
-<sup>2</sup> Bei der Vergabe von Aufträgen sind nur Angebote von Anbieter zu berücksichtigen, welche die Arbeitsschutzbestimmungen sowie die Arbeitsbedingungen der Gesamtarbeitsverträge, der Normalarbeitsverträge oder bei deren Fehlen, die branchenüblichen Vorschriften einhalten, die an den Orten der auszuführenden Arbeiten oder am Geschäfts- oder Wohnsitz des Anbieters in der Schweiz gelten.
-
-[^23-1]: Änderung vom 21.12.2011 Abl. Nr. 52/2011 1.01.2012
-
-### 6. Abschnitt: Wettbewerb und parallele Studienaufträge
+<sup>1</sup> Wettbewerbe beziehungsweise parallele Studienaufträge dienen dem Auftraggeber zur Evaluation verschiedener Lösungen, insbesondere in architektonischer, konzeptioneller, gestalterischer, ökologischer, wirtschaftlicher und technischer Hinsicht.
 
 #### Art. 24
 
-**Zweck**
+**Arten von Wettbewerben und parallelen Studienaufträgen**
 
-<sup>1</sup> Die Wettbewerbe beziehungsweise die parallelen Studienaufträge dienen dem Auftraggeber zur Evaluation verschiedener Lösungen, insbesondere in konzeptioneller, gestalterischer, ökologischer, wirtschaftlicher oder technischer Hinsicht sowie der Geeignetheit der Leistungserbringer.
+<sup>1</sup> Es gibt verschiedene Wettbewerbsarten, insbesondere den Ideenwettbewerb, den Projektwettbewerb und den Gesamtleistungswettbewerb.
 
-<sup>2</sup> Die Bezeichnung ''Wettbewerb'' im Sinne dieser Verordnung wendet sich undifferenziert auf einen Wettbewerb oder einen parallelen Studienauftrag an, sofern letzterer durch ein Expertenkollegium beurteilt wird.
+<sup>2</sup> Der Ideenwettbewerb soll Lösungsvorschläge für konzeptionelle Entscheide oder Aufgaben aufzeigen, die nicht präzis definiert sind beziehungsweise die nur allgemein umschrieben und abgegrenzt sind.
 
-<sup>3</sup> Die Bestimmungen der übrigen Abschnitte dieser Verordnung gelten insoweit, als diese Bestimmungen denjenigen dieses Abschnitts nicht widersprechen.
+<sup>3</sup> Der Projektwettbewerb erlaubt es, zu einer im Hinblick auf eine Realisierung klar umschriebenen und festgelegten Aufgabe Lösungsvorschläge in technischer, architektonischer, ingenieurtechnischer oder experimenteller Hinsicht zu erhalten.
+
+<sup>4</sup> Der Gesamtleistungswettbewerb erlaubt es, Projektvorschläge und gleichzeitig ein Realisierungsangebot für eine klar umschriebene Aufgabe zu erhalten, mit dem Ziel, die Vergabe der Leistungen in Zusammenhang mit diesen Aufgaben vorzunehmen.
+
+<sup>5</sup> Der parallele Studienauftrag ermöglicht es dem Auftraggeber, Vorschläge für konzeptionelle Entscheide oder für die Lösung komplexer, nur allgemein definierter und abgegrenzter Aufgaben zu erhalten (Ideenaufträge) oder Lösungsvorschläge für komplexe Aufgaben, die realisiert werden sollen, zu erhalten (Projektaufträge).
+
+<sup>6</sup> Wettbewerbe und parallele Studienaufträge können mehrstufig durchgeführt werden.
+
+<sup>7</sup> Die Bestimmungen zu Dienstleistungsaufträgen sind auf Ideen- und Projektwettbewerbe sowie auf parallele Studienaufträge anwendbar; jene zu Bauaufträgen sind grundsätzlich auf Gesamtleistungswettbewerbe anwendbar.
 
 #### Art. 25
 
-**Wettbewerbsarten und Geltungsbereich**
+**Ansprüche aus den Wettbewerbs- und parallelen Studienauftragsverfahren**
 
-<sup>1</sup> Das Wettbewerbsverfahren muss die Anonymität der Teilnehmer in Bezug auf den Auftraggeber sicherstellen. Wenn die Anzahl der Teilnehmer beschränkt wird und wenn zusätzlich der Kontakt zwischen den Teilnehmer und dem Auftraggeber als angebracht oder gar notwendig sich erweist, wird der Wettbewerb in Form eines parallelen Studienauftrags durchgeführt.
+<sup>1</sup> Der Gewinner eines Ideenwettbewerbs hat keinen Anspruch auf einen weiteren Auftrag.
 
-<sup>2</sup> Planungs- und Gesamtleistungswettbewerbe können mit dem Ziel durchgeführt werden, um Lösungsvorschläge zu erhalten.
+<sup>2</sup> Der Gewinner eines Projektwettbewerbs hat in der Regel Anspruch auf einen weiteren planerischen Auftrag.
 
-<sup>3</sup> Als Planungswettbewerbe gelten:
+<sup>3</sup> Der Gewinner eines Gesamtleistungswettbewerbs hat in der Regel Anspruch darauf, einen Auftrag für die Realisierung des Wettbewerbsprojekts zu erhalten.
 
-- a) der Ideenwettbewerb, wobei es sich um einen Wettbewerb handelt, welcher es erlaubt, Vorschläge zu erhalten, die in einem konzeptionellen Rahmen zur Entscheidfindung beitragen oder die definierte und nur in groben Zügen eingegrenzten Probleme lösen und deren Realisierung nicht unmittelbar in Betracht gezogen werden kann;
-
-- b) der Projektwettbewerb, wobei es sich um einen Wettbewerb handelt, welcher es erlaubt, Vorschläge zu erhalten, die zu klar definierten Problemen eine Lösung anbietet, deren Realisierung in Betracht gezogen wird, und qualifizierte Berufsleute zu ermitteln, die zur Ausführung desselben befähigt sind;
-
-- c) der Wettbewerb mit zwei Durchgängen, indem in einem ersten Durchgang, dem Ideenwettbewerb nahe stehend, und in einem zweiten Durchgang in Form eines Projektwettbewerbs organisiert, indem nur noch diejenigen Anbieter eingeladen werden, welche im ersten Durchgang ausgewählt worden sind.
-
-<sup>4</sup> Als Gesamtleistungswettbewerb gilt der Wettbewerb, welcher auf Lösungsvorschläge im Hinblick auf die Realisierung von klar definierten Aufgaben abzielt und es erlaubt, die Vergabe der Arbeiten im Zusammenhang mit diesen Aufgaben vorzunehmen.
-
-<sup>5</sup> Die Bestimmungen betreffend der Dienstleistungsaufträge sind anwendbar für Ideen-, Projektwettbewerbe und dem Wettbewerb mit zwei Durchgängen; diejenigen betreffend der Bauaufträge sind anwendbar für Gesamtleistungswettbewerbe.
+<sup>4</sup> Bei Projektaufträgen hat der Verfasser derjenigen Studie, deren Fortsetzung das Preisgericht empfiehlt, in der Regel Anspruch darauf, einen Auftrag nach den Bestimmungen des Programms zu erhalten.
 
 #### Art. 26
 
-**Verfahren**
+**Wert der Wettbewerbe und parallelen Studienaufträge**
 
-<sup>1</sup> Der Wettbewerb bildet im Rahmen des offenen oder selektiven Verfahrens Gegenstand einer öffentlichen Ausschreibung, deren Angaben im Anhang b aufgeführt sind.
+<sup>1</sup> Der Wert eines Wettbewerbs entspricht:
 
-<sup>2</sup> Die Regeln der Berufsorganisationen (SIA) sind anwendbar, sofern diese Regeln nicht den Bestimmungen dieser Verordnung widersprechen.
+- a) bei einem Ideenwettbewerb der Gesamtpreissumme;
+- b) bei einem Projektwettbewerb der Gesamtpreissumme und dem geschätzten Wert der im Wettbewerbsprogramm definierten weiteren planerischen Leistungen;
+- c) bei einem Gesamtleistungswettbewerb der Gesamtpreissumme und dem geschätzten Wert des zu vergebenden Auftrags.
+
+<sup>2</sup> Der Wert eines parallelen Studienauftrags entspricht der Gesamtentschädigungssumme und dem geschätzten Wert des zu vergebenen Auftrags.
+
+<sup>3</sup> Der Auftraggeber setzt bei Wettbewerben eine angemessene Gesamtpreissumme fest. Dabei orientiert er sich an der Höhe der Preise und den üblichen Anerkennungen, der Wettbewerbsart, der geforderten Wettbewerbsleistung, der erwarteten Teilnehmerzahl, allfälligen festen Entschädigungen an die Wettbewerbsteilnehmer und einem in Aussicht gestellten weiteren planerischen Auftrag oder Zuschlag.
+
+<sup>4</sup> Bei einem parallelen Studienauftrag erhält jeder Teilnehmer die gleiche Pauschalentschädigung. Die Höhe der Pauschale wird auf der Grundlage einer Kostenschätzung für alle Leistungen festgelegt, welche die Teilnehmer in allen relevanten Bereichen erbringen müssen, um ihre Vorschläge auszuarbeiten.
 
 #### Art. 27
 
-**Preisgericht**
+**Vorstudie für Wettbewerbe und parallele Studienaufträge**
 
-<sup>1</sup> Das Preisgericht, beziehungsweise die Sachverständigengruppe, setzt sich zusammen aus:
+<sup>1</sup> Ist der Gesamtwert des Projekts nach Artikel 7 Absatz 1 IVöB höher als 10 Millionen Franken, hat der Auftraggeber eine Vorstudie zu erstellen. Der Gesamtwert des Projekts wird durch den Gesamtwert der Bauarbeiten definiert, die für die Realisierung eines Bauwerks erforderlich sind.
 
-Fachleuten, die sich als solche in mindestens einem der wesentlichen Bereichen des Wettbewerb auszeichnen;
+<sup>2</sup> Die Vorstudie enthält die für die Beurteilung sowie die Machbarkeit des Projekts notwendigen Angaben und legt fest, ob ein Wettbewerb oder parallele Studienaufträge durchgeführt werden sollen.
 
-weiteren Personen, die vom Auftraggeber frei bestimmt werden.
+<sup>3</sup> Die Vorstudie analysiert und erklärt insbesondere die folgenden Punkte:
 
-<sup>2</sup> Die Mehrheit der Mitglieder des Preisgerichts muss aus Fachleuten bestehen.
+- a) den Kontext und die Bedingungen, in die das Projekt eingebettet ist;
+- b) das Projekt, einschliesslich der vom Auftraggeber verfolgten spezifischen Ziele und dessen Bedürfnisse;
+- c) den Budgetrahmen und die Bedingungen für die Finanzierung;
+- d) die architektonischen, ästhetischen oder städtebaulichen Herausforderungen.
 
-<sup>3</sup> Das Preisgericht kann zur Begutachtung von Spezialfragen Sachverständige beiziehen.
-
-<sup>4</sup> Die Mitglieder des Preisgerichts sowie die beigezogenen Sachverständigen müssen von den am Wettbewerb teilnehmenden Anbietern unabhängig sein. Die Ausstandsgründe nach Artikel 10 des Gesetzes vom 6. Oktober 1976 über das Verwaltungsverfahren und die Verwaltungsrechtspflege gelten analog. Mindestens die Hälfte der Mitglieder eines Preisgerichtes muss zudem vom Auftraggeber unabhängig sein.
-
-<sup>5</sup> Die Mitglieder des Preisgerichts samt Ersatzleuten sowie die Sachverständigen werden im Wettbewerbsprogramm aufgeführt.
+<sup>4</sup> Beschliesst der Auftraggeber, einen Wettbewerb oder einen parallelen Studienauftrag durchzuführen, so dient die Vorstudie als Referenz für die Ausarbeitung des Programmreglements.
 
 #### Art. 28
 
-**Aufgaben des Preisgerichts**
+**Verfahren**
 
-<sup>1</sup> Das Preisgericht genehmigt das Wettbewerbsprogramm und beurteilt die vorgestellten Wettbewerbsarbeiten. Es entscheidet über die Klassierung und die Vergabe der Preise.
+<sup>1</sup> Die Wettbewerbe bilden Gegenstand einer amtlichen Wettbewerbsausschreibung im offenen oder selektiven Verfahren, wenn der Wert des betreffenden Wettbewerbs den massgebenden Schwellenwert erreicht.
 
-<sup>2</sup> Es spricht zudem eine Empfehlung zuhanden der Auftraggeber bezüglich des Zuschlages aus.
+<sup>2</sup> Wird dieser Schwellenwert nicht erreicht, kann der Wettbewerb im Einladungsverfahren durchgeführt werden.
 
-<sup>3</sup> Der Bauherr kann ein Preisgericht oder eine Expertengruppe für die Vorbereitung des Wettbewerbs beauftragen.
+<sup>3</sup> Die amtliche Wettbewerbsausschreibung im offenen oder selektiven Verfahren enthält mindestens folgende Angaben:
+
+- a) Name, Adresse, Telefonnummer und E-Mail-Adresse des Organisators (Auftraggebers);
+- b) kurze Beschreibung des Wettbewerbsobjekts;
+- c) gewählte Wettbewerbsart;
+- d) gewähltes Verfahren;
+- e) Teilnahmebedingungen und/oder Modalitäten der Teilnehmerwahl (Kriterien);
+- f) Einschreibe- und Einreichungsfristen für den Wettbewerb;
+- g) Ort des Erhalts des Wettbewerbsprogramms;
+- h) die Möglichkeit, den Folgeauftrag im freihändigen Verfahren gemäss Artikel 21 Absatz 2 Buchstabe i IVöB zu vergeben.
+
+<sup>4</sup> Wird der Wettbewerb im Einladungsverfahren durchgeführt, hat die Einladung dieselben Angaben zu enthalten wie jene, die in Absatz 3 aufgeführt sind.
+
+<sup>5</sup> Das Wettbewerbsprogramm steht den Interessierten ab Publikation der amtlichen Wettbewerbsausschreibung beziehungsweise ab Versand der Einladung zur Verfügung und enthält alle Angaben zur Einschreibung, zum Organisator, zum Preisgericht, zu den Preisen, zu den Entschädigungen, zu den Anzahl Stufen, zu den Bedingungen der Auftragserteilung und zum Projekt, das zu erarbeiten ist.
+
+<sup>6</sup> Das Wettbewerbsverfahren im engeren Sinne hat die Anonymität der Teilnehmer zu gewährleisten. Das Verfahren zur Erteilung paralleler Studienaufträge wird grundsätzlich nominal durchgeführt, die Teilnehmer werden alle gleich honoriert und es gibt keine Rangierung.
 
 #### Art. 29
 
-**Das Ergebnis des Wettbewerbs**
+**Preisgericht**
 
-<sup>1</sup> Der Bauherr verpflichtet sich, mit Ausnahme im Falle höherer Gewalt (wesentliche Änderungen des Programms oder der Stätte), grundsätzlich den Empfehlungen des Preisgerichts Folge zu leisten.
+<sup>1</sup> Das Preisgericht setzt sich aus Fachleuten auf dem Gebiet der Leistungen, auf die der Wettbewerb zielt, und weiteren vom Auftraggeber frei bestimmten Personen zusammen.
 
-<sup>2</sup> Ein Teil des Gesamtleistungsauftrages, der kleiner als die Hälfte des globalen Honorarwertes ist, kann unabhängig vom Wettbewerb mittels selektivem Verfahren vergeben werden, sofern dies vorgängig im Wettbewerbsprogramm angekündet war.
+<sup>2</sup> Die Mehrheit der Mitglieder des Preisgerichts müssen Fachleute sein. Zudem muss mindestens die Hälfte aller Mitglieder des Preisgerichts unabhängig vom Auftraggeber sein.
+
+<sup>3</sup> Zur Begutachtung von Spezialfragen kann das Preisgericht Sachverständige beiziehen.
+
+<sup>4</sup> Die Mitglieder des Preisgerichts und die beigezogenen Sachverständigen müssen unabhängig von den am Wettbewerb teilnehmenden Anbietern sein. Die Ausstandsgründe gemäss Artikel 10 des Gesetzes über das Verwaltungsverfahren und die Verwaltungsrechtspflege (VVRG) gelten analog. Vorbehalten bleibt Artikel 13 Absatz 4 IVöB.
+
+<sup>5</sup> Die Mitglieder des Preisgerichts müssen im Wettbewerbsprogramm erwähnt sein.
 
 #### Art. 30
 
-**Veröffentlichung**
+**Aufgaben des Preisgerichts**
 
-Der Auftraggeber teilt sämtlichen Teilnehmern den Entscheid des Preisgerichts schriftlich mit und sorgt für eine angemessene Veröffentlichung des Wettbewerbsergebnisses. Ab der Veröffentlichung des Entscheides stellt er die Wettbewerbsbeiträge öffentlich aus.
-
-### 7. Abschnitt: Zuschlag des Auftrages
+<sup>1</sup> Das Preisgericht genehmigt das Wettbewerbsprogramm und beurteilt die vorgestellten Arbeiten. Es entscheidet bei einem Wettbewerb im engeren Sinne über die Rangierung und die Vergabe der Preise. Es bezeichnet den Gewinner. Sein Entscheid entspricht einem Urteil mit einer Zuschlagsempfehlung.
 
 #### Art. 31
 
-**Zuschlagskriterien**
+**Ergebnis des Wettbewerbs**
 
-<sup>1</sup> Der Zuschlag erfolgt an das wirtschaftlich günstigste Angebot. Bei der Bewertung ist das Preis-/Leistungsverhältnis zu beachten. Dabei können neben dem Preis je nach Natur des Auftrags differenzierte Kriterien berücksichtigt werden, namentlich: Qualität, Termine, Wirtschaftlichkeit, Fähigkeit, Erfahrung, Referenzen, Bildung, Betriebskosten, Kundendienst, Ökologie, Zweckmässigkeit der Leistung, technischer Wert, Ästhetik, Kreativität und Infrastruktur.
+<sup>1</sup> Der Auftraggeber ist grundsätzlich an die Empfehlungen des Preisgerichts gebunden, ausser es liegen triftige Gründe, wie insbesondere eine wesentliche Änderung des Programms oder des Standorts, vor.
 
-<sup>2</sup> Die Gewichtung des Preises sollte für anspruchvolle Leistungen in der Regel sechzig Prozent nicht übersteigen.
+<sup>2</sup> Der Auftraggeber teilt den Entscheid und den Bericht des Preisgerichts allen Teilnehmern schriftlich mit. Er kann die Wettbewerbsbeiträge öffentlich ausstellen.
 
-<sup>3</sup> Der Zuschlag für hauptsächlich standardisierte Güter kann nach dem einzigen Kriterium des Preises an das preisgünstigste Angebot erfolgen.
+<sup>3</sup> Der Entscheid, mit welchem das Wettbewerbsverfahren abgeschlossen wird, ist auf einer gemeinsam von Bund und Kantonen betriebenen Internetplattform für öffentliche Beschaffungen zu veröffentlichen.
 
 #### Art. 32
 
-**Aufteilung des Auftrages und Bildung von Konsortien**
+**Vergabeentscheid nach einem Wettbewerb, Zustellung und Publikation**
 
-<sup>1</sup> Der Auftraggeber kann den Auftrag nur dann und insoweit aufteilen und an verschiedene Anbieter vergeben, wenn er dies in den öffentlichen Ausschreibungs- oder Einladungsunterlagen bekannt gemacht hat.
+<sup>1</sup> Nach der Empfehlung durch das Preisgericht vergibt der Auftraggeber den Auftrag im freihändigen Verfahren im Sinne von Artikel 21 Absatz 2 IVöB an den Gewinner.
 
-<sup>2</sup> Er kann nur ein Konsortium unter Voraussetzung bilden, als er das Einverständnis aller Partner vor der Vergabe eingeholt hat.
+<sup>2</sup> Der Vergabeentscheid wird auf der gemeinsam von Bund und Kantonen betriebenen Internetplattform für öffentliche Beschaffungen veröffentlicht.
+
+## 7 Inhalt, Übermittlung und Veröffentlichung der Vergabeentscheide
 
 #### Art. 33
 
-<sup>1,2</sup> Zuschlag subventionierter Arbeiten
+**Inhalt der Vergabeentscheide**
 
-<sup>1</sup> Die Vergabevorschläge von subventionierten Bauarbeiten, Dienstleistungen und Lieferungen müssen vor deren Zuschlag durch die zuständige kantonale Instanz genehmigt werden.
+<sup>1</sup> Zusätzlich zu den in Artikel 51 Absatz 3 IVöB aufgelisteten Anforderungen an die Begründung hat der Vergabeentscheid folgende Angaben zu enthalten:
 
-<sup>2</sup> Die Zuständigkeit für die Genehmigung der Vergabevorschläge ist bestimmt gemäss der Finanzkompetenz, wie sie in Artikel 32 des Gesetzes über die Geschäftsführung und den Finanzhaushalt des Kantons und deren Kontrolle vom 24. Juni 1980 und in der Verordnung betreffend die Delegation von finanziellen Kompetenzen des Staatsrates an die Departemente und Dienststellen vom 29. Juni 2005 festgelegt ist.
-
-<sup>3</sup> Wenn der Subventionsbetrag 5'000 Franken nicht übersteigt, können diese subventionierten Arbeiten durch den Auftraggeber ohne Genehmigung der kantonalen Instanz zugeteilt werden. Die Verfügung muss der zuständigen Dienststelle zugestellt werden.
+- a) gegebenenfalls die Liste der Subunternehmer, die möglicherweise an der Ausführung des Auftrags teilnehmen und die im Angebot bekanntgegeben wurden;
+- b) gegebenenfalls die Begrenzung von Temporärarbeitskräften;
+- c) gegebenenfalls die Auftragsvergabe in Anwendung der Bagatellklausel;
+- d) das geschätzte Datum des Beginns der Bauarbeiten.
 
 #### Art. 34
 
-<sup>3</sup> Zuschlag und Veröffentlichung des Zuschlags
+**Übermittlung der Vergabeentscheide**
 
-<sup>1</sup> In einem offenen Verfahren, selektiven Verfahren, Einladungsverfahren und freihändigen Verfahren in Ausnahmefällen ist der Zuschlag eine Verfügung, welche allen Anbietern eröffnet wird.
-
-<sup>2</sup> Auf Anfrage muss der Auftraggeber dem Anbieter innerhalb von fünf Tagen die wesentlichen Gründe seiner Nichtberücksichtigung bekannt geben.
-
-<sup>3</sup> Wenn jedoch das Angebot des Zuschlagsempfängers nicht das preisgünstigste ist, muss die Zuschlagsverfügung zusätzlich zum Namen des Zuschlagsempfängers und zum Zuschlagsbetrag die Tabelle der Angebotsbewertung enthalten. Die Tabelle der Angebotsbewertung beinhaltet mindestens die Zuschlagskriterien und eventuellen Unterkriterien, deren Gewichtung sowie die Noten des Zuschlagsempfängers und des Verfügungsadressaten, beziehungsweise die Klassierung des Verfügungsadressaten.
-
-<sup>4</sup> Im übrigen und für alle Zuschläge, mit Ausnahme derjenigen im freihändigen Verfahren gemäss Artikel 12 kGIVöB, Auftraggeber veröffentlicht zusätzlich spätestens 72 Tage nach dem Zuschlag eine Bekanntmachung, in Form einer Mitteilung im Amtsblatt des Kantons Wallis. Wenn die Ausschreibung auf der elektronischen Plattform der Schweiz veröffentlicht wurde, publiziert der Auftraggeber die Mitteilung ebenfalls auf derselben Plattform.
-
-<sup>5</sup> Diese Bekanntmachung enthält folgende Angaben:
-
-- a) Art des angewendeten Verfahrens;
-
-- b) Gegenstand und Umfang des Auftrags;
-
-- c) Name und Adresse des Auftraggebers;
-
-- d) Datum des Zuschlages;
-
-- e) Name und Adresse des berücksichtigten Anbieters;
-
-- f) Preis des berücksichtigten Angebots.
+<sup>1</sup> In einem offenen, selektiven, Einladungs- oder freihändigen Verfahren gemäss Artikel 21 Absatz 2 IVöB ist gleichzeitig mit der Zustellung des Vergabeentscheids auch der Dienststelle für Arbeitnehmerschutz und Arbeitsverhältnisse eine Kopie dessen zukommen zu lassen.
 
 #### Art. 35
 
-**Abbruch, Wiederholung und Neuauflage des Verfahrens**
+**Veröffentlichung der Vergabeentscheide**
 
-<sup>1</sup> Der Auftraggeber kann das Verfahren aus wichtigen Gründen abbrechen.
+<sup>1</sup> Alle Vergabeentscheide gemäss Artikel 16 Absatz 1 kGIVöB sind auf der gemeinsam von Bund und Kantonen betriebenen Internetplattform für öffentliche Beschaffungen zu veröffentlichen. Die Publikationen von Vergaben, die nicht in den Staatsvertragsbereich fallen, enthalten die gleichen Angaben, wie sie in Artikel 48 für Vergaben im Staatsvertragsbereich festgelegt sind.
 
-<sup>2</sup> Das Verfahren kann wiederholt oder neu durchgeführt werden, wenn namentlich a) kein Angebot eingereicht wurde, das die in der Ausschreibung oder den Ausschreibungsunterlagen festgelegten Kriterien und technischen Anforderungen erfüllt;
-
-- b) aufgrund veränderter Rahmenbedingungen oder wenn Wettbewerbsverzerrungen aufgrund des Verhaltens der Anbieter festgestellt wird;
-
-- c) eine wesentliche Änderung des Projektes erforderlich wurde;
-
-- d) die Dauer der Angebotsgültigkeit abgelaufen ist.
-
-<sup>3</sup> Den Anbietern wird der Abbruch, die Wiederholung oder die Neuauflage des Verfahrens sofort schriftlich und begründet mitgeteilt. Sie können nicht Gegenstand einer Beschwerde im Rahmen des freihändigen Verfahrens gelten.
+## 8 Abbruch, Widerruf und Ausschluss von künftigen Vergaben
 
 #### Art. 36
 
-**Widerruf des Zuschlags**
+**Abbruch des Verfahrens**
 
-Der Zuschlag kann unter den Voraussetzungen von Artikel 23 widerrufen werden.
+<sup>1</sup> Bei einem Abbruch des Vergabeverfahrens in den Fällen von Artikel 43 Absatz 1 Buchstaben a, c oder f IVöB haben die Anbieter einen Anspruch auf Entschädigung entsprechend der geleisteten Arbeit.
+
+<sup>2</sup> Der Auftraggeber hat einen Anspruch auf Entschädigung für die Kosten des Vergabeverfahrens, wenn dieses aufgrund von Artikel 43 Absatz 1 Buchstabe e IVöB abgebrochen werden musste.
 
 #### Art. 37
 
-**Vertragsabschluss**
+**Widerruf des Zuschlags**
 
-<sup>1</sup> Der Vertrag mit dem Anbieter darf erst nach Ablauf der Beschwerdefrist abgeschlossen werden, und für den Fall, dass die Beschwerdeinstanz der Beschwerde keine aufschiebende Wirkung erteilt hat.
-
-<sup>2</sup> Ist eine Beschwerde gegen den Zuschlag hängig, ohne dass der Beschwerde die aufschiebende Wirkung zugesprochen worden wäre, so teilt der Auftraggeber den Vertragsabschluss umgehend der Beschwerdeinstanz mit.
-
-### 8. Abschnitt: Überwachung und Information
+<sup>1</sup> Bei schweren oder wiederholten Verstössen gegen die Bestimmungen von Artikel 44 IVöB widerruft der Auftraggeber den Zuschlag.
 
 #### Art. 38
 
-<sup>3</sup> Überwachungsorgane
+**Meldung von Ausschlussentscheiden für künftige Vergaben**
 
-<sup>1</sup> Der Rechts- und Verwaltungsdienst des für die Volkswirtschaft zuständigen Departements überwacht die Anwendung der Bestimmungen zum öffentlichen Beschaffungswesen und berät die Auftraggeber.
+<sup>1</sup> Der Auftraggeber, der einen Anbieter oder einen Subunternehmer gestützt auf Artikel 45 Absatz 1 IVöB für künftige öffentliche Beschaffungen ausschliesst, hat den Ausschlussentscheid unmittelbar nach Eintritt der Rechtskraft dem Rechtsdienst für Wirtschaftsangelegenheiten zu übermitteln.
 
-<sup>2</sup> Die Dienststelle für Arbeitnehmerschutz und Dienstverhältnisse überwacht die Einhaltung der Bestimmungen betreffend Arbeitnehmerschutz sowie Arbeits- und Lohnbedingungen in den Bereichen mit Normalarbeitsvertrag oder in jenen ohne Gesamtarbeitsverträge.
+## 9 Modalitäten der Selbstkontrolle und der Kontrolle der Vergabeverfahren
 
 #### Art. 39
 
-<sup>3</sup> Zuständigkeiten
+**Grundsätze**
 
-<sup>1</sup> Der Rechts- und Verwaltungsdienst des für die Volkswirtschaft zuständigen Departements sowie die Dienststelle für Arbeitnehmerschutz und Dienstverhältnisse sind frei in der Durchführung ihrer Untersuchungen.
+<sup>1</sup> Jedes öffentliche Beschaffungsverfahren, welches als offenes, selektives, Einladungs- oder freihändiges Verfahren gemäss Artikel 21 Absatz 2 IVöB durchgeführt wurde, ist durch den Auftraggeber zu dokumentieren und zu kontrollieren.
 
-<sup>2</sup> Sie können namentlich Untersuchungen wie auch Anhörungen durchführen, und von jedem kontrollierten Auftraggeber alle nützlichen Belege und Auskünfte einfordern. Nötigenfalls können sie Experten beiziehen.
+<sup>2</sup> Vor Beginn jedes öffentlichen Beschaffungsverfahrens sowie vor dem Zuschlag vergewissert sich der Auftraggeber, ob die gesetzlichen Bestimmungen beachtet werden; er hält das Ergebnis seiner Beurteilungen und seiner Kontrollen in einem den Akten beigelegten Dokument fest.
 
-<sup>3</sup> Auf ihre Anforderung können alle Dienststellen des Kantons angehalten werden, ihnen die zur Auftragserfüllung erforderliche Hilfe zu gewähren.
+<sup>3</sup> Die Dienststellen des Kantons können angehalten werden, dem kantonalen Kontrollorgan die zur Auftragserfüllung nötige Hilfe zu gewähren, die erforderlichen Auskünfte zu erteilen und alle sachdienlichen Dokumente zur Verfügung zu stellen.
 
-<sup>4</sup> Der kontrollierte Auftraggeber und der Zuschlagsempfänger sind verpflichtet, mit den Überwachungsorganen zusammen zu arbeiten.
-
-#### Art. 39bis
-
-<sup>3</sup> Überwachung des Verfahrens
-
-<sup>1</sup> Jedes Beschaffungsverfahren ist vom Auftraggeber entsprechend den Weisungen des für die Volkswirtschaft zuständigen Departements zu kontrollieren und zu dokumentieren.
-
-<sup>2</sup> Der Rechts- und Verwaltungsdienst des für die Volkswirtschaft zuständigen Departements kann die im Verlauf der letzten zwei Jahre durchgeführten Beschaffungsverfahren kontrollieren.
-
-#### Art. 39ter
-
-<sup>3</sup> Bericht
-
-<sup>1</sup> Nach Abschluss der Kontrolle erstattet der Rechts- und Verwaltungsdienst des für die Volkswirtschaft zuständigen Departements dem kontrollierten Auftraggeber einen Bericht mit den Ergebnissen seiner Untersuchungen sowie mit seinen allfälligen Vorschlägen.
-
-<sup>2</sup> Bevor der definitive Bericht erstellt wird, kann der kontrollierte Auftraggeber seine Bemerkungen und ergänzende Erklärungen anbringen.
-
-#### Art. 39quater
-
-<sup>3</sup> Überwachung der Arbeitsausführung
-
-<sup>1</sup> Beim Abschluss des Vertrages vergewissert sich der Auftraggeber über dessen Übereinstimmung mit dem durchgeführten Verfahren.
-
-<sup>2</sup> Der Auftraggeber kontrolliert während der Arbeitsausführung die Einhaltung des Zuschlags. Er vergewissert sich insbesondere, ob der Zuschlagsempfänger die Bestimmungen über den Arbeitnehmerschutz sowie die Arbeits- und Lohnbedingungen einhält. Auf Nachfrage hin muss der Zuschlagsempfänger nachweisen können, dass sowohl er selbst als auch seine Unterakkordanten dieselben einhalten. Vorbehalten bleibt ein Gesuch auf Durchführung einer Kontrolle ähnlich jenem, welches Artikel 15 Absatz 5 der vorliegenden Verordnung vorsieht.
+<sup>4</sup> Die Dokumente, die im Laufe eines öffentlichen Beschaffungsverfahrens erstellt werden müssen und die mindestens im Vergabedossier enthalten sein müssen, sind in den Anhängen 2 bis 7 dieser Verordnung aufgelistet.
 
 #### Art. 40
 
-**Statistik**
+**Vorbeurteilung**
 
-<sup>1</sup> Jeder Auftraggeber meldet jeden vergebenen Auftrag, welcher über den WTO-Schwellenwerten liegt, dem Rechts- und Verwaltungsdienst des für die Volkswirtschaft zuständigen Departements, welcher eine jährliche Statistik erstellt und eine Kopie dem Bund übermittelt.[^40-1]
+<sup>1</sup> Vor Beginn eines jeden Vergabeverfahrens muss der Auftraggeber eine Vorbeurteilung durchführen.
 
-<sup>2</sup> Die Statistik enthält folgende Angaben:
+<sup>2</sup> Im Rahmen dieser Vorbeurteilung prüft der Auftraggeber insbesondere folgende Fragen:
 
-- a) den geschätzten Wert der vergebenen Aufträge über den Schwellenwerten gesamhaft und nach Auftraggeber-Kategorien aufgeteilt;
+- a) "Handelt es sich um einen Dienstleistungsauftrag, um einen Lieferauftrag oder um einen Bauauftrag des Bauhauptgewerbes oder des Baunebengewerbes?";
+- b) "Welches ist der geschätzte Auftragswert und welches sind die Elemente, die als Grundlage der Schätzung dienten?";
+- c) "Handelt es sich um eine nationale oder internationale Beschaffung?"
+- d) "Erfolgt die in Frage stehende Beschaffung in Anwendung der Bagatellklausel?";
+- e) "Welches ist das gewählte Verfahren und welcher Ausnahmetatbestand wird mit welcher Begründung angerufen, falls der Auftraggeber das freihändige Verfahren gemäss Artikel 21 Absatz 2 IVöB anwendet?".
 
-- b) den geschätzten Wert der vergebenen Aufträge über den Schwellenwerten nach Auftraggeber-Kategorien und nach Bau-, Liefer- und Dienstleistungsaufträgen aufgeteilt;
+<sup>3</sup> Über das Ergebnis der Vorbeurteilung ist ein Bericht zu erstellen und ins Beschaffungsdossier zu legen.
 
-- c) den Gesamtwert der über den Schwellenwerten freihändig vergebenen Aufträge;
-
-- d) den Gesamtwert der Aufträge, die gemäss den in den Anhängen zum WTO-Übereinkommen vorgesehenen Abweichungen vergeben wurden.
-
-<sup>3</sup> Unter der Voraussetzung, dass solche Informationen erhältlich sind, veröffentlicht der Rechts- und Verwaltungsdienst des für die Volkswirtschaft zuständigen Departements die Statistik mit den Angaben, von welchen Anbietern aus welchem Ursprungsland die Bau-, Liefer- und Dienstleistungen erbracht wurden.[^40-1]
-
-[^40-1]: Änderung vom 21.12.2011 Abl. Nr. 52/2011 1.01.2012
+<sup>4</sup> Ergibt die Vorbeurteilung, dass ein offenes oder selektives Verfahren im Staatsvertragsbereich oder ein freihändiges Verfahren im Sinne von Artikel 21 Absatz 1 IVöB durchgeführt wird, ist der Auftraggeber nicht verpflichtet, einen Bericht zu erstellen.
 
 #### Art. 41
 
-**Archivierung**
+**Zuschlagstabelle**
 
-<sup>1</sup> Die Dossiers im Zusammenhang mit dem öffentlichen Beschaffungswesen müssen während mindestens zehn Jahren nach Verfahrensende aufbewahrt werden.
+<sup>1</sup> Bevor die Vergabe vorgenommen wird, erstellt der Auftraggeber eine Zuschlagstabelle.
 
-<sup>2</sup> Diese Dossiers enthalten:
+<sup>2</sup> Die Zuschlagstabelle beinhaltet folgende Angaben:
 
-- a) die Ausschreibung oder die direkte Mitteilung;
-
-- b) die Ausschreibungs- oder Einladungsunterlagen ;
-
-- c) das Protokoll der Angebotsöffnung;
-
-- d) die Korrespondenz im Zusammenhang mit dem Verfahren;
-
-- e) die getroffenen Entscheidungen;
-
-- f) das berücksichtigte Angebot;
-
-- g) das Protokoll im Zusammenhang mit den Auftragsvergaben im Staatsvertragsbereich und welche im freihändigen Verfahren im Ausnahmefalle vergeben wurden.
+- a) die Zuschlagskriterien und die Unterkriterien beziehungsweise die Eignungskriterien, falls diese benotet werden;
+- b) deren jeweilige Gewichtung;
+- c) die Benotungsskala;
+- d) die den Anbietern für jedes der Kriterien und Unterkriterien zugeteilten Noten;
+- e) die Rangierung jedes Anbieters.
 
 #### Art. 42
 
-**Schlussbestimmung**
+**Erläuternder Bericht**
 
-<sup>1</sup> Diese Verordnung hebt die Verordnung vom 26. Juni 1998 über das öffentliche Beschaffungswesen und das Reglement vom 9. April 1986 betreffend die Ausschreibung und die Vergebung von Arbeiten und Lieferungen auf.
+<sup>1</sup> Bevor die Vergabe vorgenommen wird, erstellt der Auftraggeber einen erläuternden Bericht.
 
-<sup>2</sup> Die vorliegende Verordnung wird im Amtsblatt veröffentlicht und tritt am 1. Juni 2003 in Kraft.
+<sup>2</sup> Der erläuternde Bericht beinhaltet insbesondere folgende Angaben:
 
-So beschlossen im Staatsrat zu Sitten, den 11. Juni 2003.
+- a) die Berichterstattung über den Verfahrensablauf;
+- b) die Art und Weise, wie die nachhaltige Entwicklung im Beschaffungsverfahren berücksichtigt wurde;
+- c) die Methode zur Benotung der Preiskriterien (Nominalpreis und gegebenenfalls die weiteren Preiskriterien);
+- d) die Beurteilung der eingereichten Angebote;
+- e) die Kontrolle des Anbieters, der voraussichtlich den Zuschlag erhalten soll, und die im Angebot bekanntgegebenen Subunternehmer in Bezug auf die Teilnahmebedingungen und die Eignungskriterien;
+- f) die Bezeichnung des Anbieters, der voraussichtlich den Zuschlag erhalten soll.
 
-Der Präsident des Staatsrates: Jean-Jacques Rey-Bellet Der Staatskanzler: Henri v. Roten
+#### Art. 43
 
-### Titel und Änderungen Veröffentlichung Inkrafftreten
+**Dokumentation bei Verfahrensabbruch**
 
-**1.06.2003**
+<sup>1</sup> Falls der Auftraggeber beschliesst, ein Vergabeverfahren abzubrechen, legt er dem Dossier, ergänzend zu Dokumenten, welche je nach Verfahrensstand im Zeitpunkt des Abbruchentscheids zu erstellen sind, einen erläuternden Bericht, den allen Anbietern zugestellten Abbruchentscheid und für die offenen und selektiven Verfahren die Veröffentlichung des Abbruchentscheids bei.
 
-GS/VS 2003, 135
+#### Art. 44
 
-## Anhang a
+**Umfang und Modalitäten der Kontrolle**
 
-### Dokumente, die begleitend zum Angebot eingefordert werden können
+<sup>1</sup> Die zuständige Dienststelle kann laufende oder abgeschlossene öffentliche Beschaffungsverfahren oder auch nur einen Verfahrensabschnitt kontrollieren.
 
-- 1\. Handelsregisterauszug
+<sup>2</sup> Jede Kontrolle wird dem kontrollierten Auftraggeber von der zuständigen Dienststelle angekündigt. Die zuständige Dienststelle legt nach freiem Ermessen den Gegenstand und den Umfang der Kontrolle fest. Der kontrollierte Auftraggeber stellt der zuständigen Dienststelle alle zur Durchführung der Kontrolle erforderlichen Informationen und Dokumente zur Verfügung.
 
-- 2\. Betreibungsregisterauszug
+<sup>3</sup> Bevor der definitive Bericht erstellt wird, übermittelt die zuständige Dienststelle dem kontrollierten Auftraggeber einen Entwurf des Kontrollberichts. Der kontrollierte Auftraggeber kann seine Bemerkungen anbringen und ergänzende Erklärungen abgeben.
 
-- 3\. Bestätigungen der kantonale Steuerverwaltung
+<sup>4</sup> Nach Abschluss der Kontrolle übermittelt die zuständige Dienststelle dem kontrollierten Auftraggeber einen Bericht mit den Ergebnissen ihrer Untersuchungen sowie mit ihren allfälligen Empfehlungen.
 
-- 4\. Bestätigung der Einhaltung der Arbeitsbedingungen und der Zahlung der Sozialabgaben und Sozialbeiträge
+## 10 Statistik
 
-- 5\. Erklärung über Anzahl und Funktion der in den drei Jahren vor der Ausschreibung im Unternehmen beschäftigten Personen
+#### Art. 45
 
-- 6\. Erklärung betreffend einsetzbare Personalkapazität, Angaben über die feste Anstellung oder die temporäre Rekrutierung dieser Personen und die verfügbaren technischen Mittel im Hinblick auf die Erbringung des zu vergebenden Auftrages
+**Statistik der öffentlichen Beschaffungen**
 
-- 7\. Diplome und Bescheinigungen über die berufliche Befähigung der Mitarbeiter und Mitarbeiterinnen des Unternehmens und/oder von dessen Führungskräften, insbesondere aber der für die Ausführung des zu vergebenden Auftrages vorgesehenen verantwortlichen Personen
+<sup>1</sup> Der Kanton veröffentlicht alljährlich eine Statistik der Vergaben der kantonalen Verwaltung des Vorjahres, welche im offenen, selektiven, Einladungs- oder freihändigen Verfahren gemäss Artikel 21 Absatz 2 IVöB ergingen.
 
-- 8\. Liste der in den letzten fünf Jahren vor der Ausschreibung erbrachten, wichtigsten Leistungen durch das Unternehmen sowie durch die leitenden Kaderleute, welche für die Ausführung der Arbeiten verantwortlich waren
+<sup>2</sup> Der Rechtsdienst für Wirtschaftsangelegenheiten sammelt insbesondere das Datum des Zuschlags, Angaben in Bezug auf die Auftragsart und die Art des öffentlichen Beschaffungsverfahrens sowie den Namen, den Ort und die Herkunft (Kanton, Land) des Auftragnehmers.
 
-- 9\. Bescheinigung über die ordentliche Erbringung dieser Leistungen, mit folgenden Angaben: Kosten der Arbeiten; Zeit und Ort der Leistungserbringung; Stellungnahme (der damaligen Auftraggeberin), ob die Leistung den anerkannten Regeln der Technik entsprach und ob sie ordnungsgemäss erbracht wurde
+<sup>3</sup> Die Statistik der öffentlichen Beschaffungen enthält mindestens Angaben betreffend den Gesamtwert und die Anzahl der nationalen und internationalen Beschaffungen aufgeteilt nach Verfahrensart, Auftragsart und Herkunft der Auftragnehmer (Kanton, Land).
 
-- 10\. Bescheinigung über das Vorliegen eines anerkannten Qualitätsmanagementsystems
+#### Art. 46
 
-- 11\. Bankerklärungen, die garantieren, dass dem Anbieter oder der Anbieterin im Falle der Auftragserteilung entsprechende Kredite gewährt werden
+**Daten, Inhalt und Erstellung**
 
-- 12\. Bankgarantie
+<sup>1</sup> Der Staatsrat legt mittels Entscheid den Inhalt und die Modalitäten zur Erstellung der Statistik der Beschaffungen der kantonalen Verwaltung sowie die zu diesem Zweck zu übermittelnden Daten fest.
 
-- 13\. Organisationsplan der Baustelle
+## A1 Anhang 1 - Dokumente, die zur Kontrolle der Eignung der Anbieter und der im Angebot bekanntgegebenen Subunternehmer verlangt werden können (Art. 7 Abs. 1)
 
-- 14\. Programm der Arbeitsabläufe
+#### Art. A1-1
 
-- 15\. Preisanalyse (namentlich für die wichtigsten Posten)
+**Eignungskriterien betreffend die berufliche und technische Leistungsfähigkeit**
 
-- 16\. Zeichnungen, Muster und Modelle
+<sup>1</sup> Diese Kriterien betreffen insbesondere die zur Verfügung stehenden Personen mit Ausbildung und der nötigen Erfahrung zur erfolgreichen Ausführung des ausgeschriebenen Auftrags.
 
-- 17\. Versicherungsbescheinigung für Haftpflicht-und Schadenersatzansprüche
+<sup>2</sup> Zu diesem Zweck können insbesondere folgende Dokumente verlangt werden:
 
-- 18\. Information über die Lehrlingsausbildung
+- a) Diplome und Bescheinigungen über die beruflichen Fähigkeiten der Mitarbeitenden des Unternehmens oder des Leistungserbringers und/oder von dessen Führungskräften, insbesondere der für die Ausführung des zu vergebenden Auftrags vorgesehenen verantwortlichen Personen;
+- b) Bescheinigung über die ordentliche Erbringung der vom Unternehmen oder vom Leistungserbringer ausgeführten Arbeiten mit folgenden Angaben: Kosten der Arbeiten, Datum und Ort der Leistungserbringung, Stellungnahme (des damaligen Auftraggebers), ob die Leistungen den anerkannten Regeln der Technik entsprachen und ob sie ordnungsgemäss erbracht wurden;
+- c) Erklärung über die einsetzbare Personalkapazität, über die Festanstellung oder die temporäre Anstellung und über die verfügbaren technischen Mittel im Hinblick auf die Erbringung des zu vergebenden Auftrags;
+- d) Liste der wichtigsten vom Unternehmen oder vom Leistungserbringer und von den für die Ausführung des zu vergebenen Auftrags vorgesehenen verantwortlichen Personen erbrachten Leistungen oder die allgemeinen Referenzen des Anbieters von Projekten gleichen Ausmasses und einem Betrag von (x) Franken im selben BKP, die in den letzten (x) Jahren beendet wurden. Die Zulässigkeit von Referenzen wird je nach Art der Arbeit festgelegt;
+- e) Durchschnittlicher jährlicher Personalbestand der letzten (x) Jahre;
+- f) Plan über die Baustellenorganisation;
+- g) Arbeitsprogramm;
+- h) Zeichnungen, Muster und Modelle;
+- i) Referenzobjekte mit Angabe zur Vergleichbarkeit, Komplexität und Bauvolumen in Schweizer Franken;
+- k) Spezialbewilligungen.
 
-## Anhang b
+#### Art. A1-2
 
-### Ausschreibung von Wettbewerben
+**Eignungskriterien betreffend die finanzielle und wirtschaftliche Leistungsfähigkeit**
 
-Die Ausschreibung von Wettbewerben dient dazu, interessierte Teilnehmerinnen und Teilnehmer zur Bestellung eines Wettbewerbsprogramms und zur Teilnahme an einem Auswahlverfahren im selektiven Verfahren oder zur Anmeldung im offenen Verfahren zu veranlassen. Die Ausschreibung enthält folgende Angaben:
+<sup>1</sup> Diese Kriterien betreffen insbesondere die finanziellen und wirtschaftlichen Mittel, um eine richtige Ausführung des ausgeschriebenen Auftrags zu gewährleisten.
 
-- 1\. Name, Adresse, Telefon und Faxnummer und E-Mail-Adresse des Organisators (Auftraggeberin oder Auftraggeber);
+<sup>2</sup> Zu diesem Zweck können insbesondere folgende Dokumente verlangt werden:
 
-- 2\. Kurze Beschreibung der Wettbewerbsaufgabe;
+- a) Handelsregisterauszug;
+- b) Betreibungsregisterauszug;
+- c) Bankerklärungen, die garantieren, dass dem Anbieter im Falle der Auftragserteilung die nötigen Kredite gewährt werden;
+- d) Bankgarantie;
+- e) Versicherungsbescheinigung für Haftpflicht- und Schadenersatzansprüche;
+- f) Jährliche Umsatzzahlen (z.B. um zu beurteilen, ob der geschätzte Auftragswert kleiner als 35 Prozent des Umsatzes ist).
 
-- 3\. Art des Wettbewerbsverfahren;
+#### Art. A1-3
 
-- 4\. Teilnahmebedingungen und/oder Auswahlmodalitäten für die Teilnehmer (gewählte Verfahrensart und Kriterien);
+**Eignungskriterien betreffend die organisatorische Leistungsfähigkeit**
 
-- 5\. Einschreibe- und Ablieferungstermin des Wettbewerbs;
+<sup>1</sup> Diese Kriterien betreffen insbesondere die organisatorische Leistungsfähigkeit, um den ausgeschriebenen Auftrag effizient zu realisieren.
 
-- 6\. Bezugsquelle für das Wettbewerbsprogramm.
+<sup>2</sup> Zu diesem Zweck können insbesondere folgende Dokumente verlangt werden:
 
-Ein Reglementprogramm des Wettbewerbes wird den Interessierten im Zeitrahmen, welche die Anmeldung ermöglicht, kostenlos übergeben, die alle Angaben bezüglich des Organisatoren, des Preisgerichtes, der Entschädigung, der Zuschlagsbedingungen für den Auftrag und dem zu entwerfenden Projektes enthält.
+- a) Bestätigung über das Vorhandensein einer anerkannten Art und Weise des Qualitätsmana-gements;
+- b) Erklärung über die Anzahl und Funktion der im Unternehmen oder beim Leistungserbringer tätigen Personen während der letzten 3 Jahre vor der öffentlichen Ausschreibung beziehungsweise Einladung;
+- c) Beschreibung der Aufteilung der Aufgaben und Verantwortlichkeiten für die Ausführung des ausgeschriebenen Auftrags;
+- d) Beschreibung der Arbeitsmethode, die für die Ausführung des ausgeschriebenen Auftrags angewendet wird;
+- e) Organigramm mit Angabe der Namen und Funktion der Personen;
+- f) Prospekt des Unternehmens oder des Leistungserbringers.
 
-## Weitere Fussnoten
+## A2 Anhang 2 - Dokumente in einem offenen Verfahren (Art. 39 Abs. 4)
 
-- [1] Änderung vom 29.06.2005 GS/VS 2005, 168 1.08.2005
-- [2] Änderung vom 19.12.2007 Abl. Nr. 52/2007 1.01.2008
+#### Art. A2-1
+
+**Dokumente in einem offenen Verfahren**
+
+<sup>1</sup> Ein Vergabedossier im offenen Verfahren muss mindestens folgende Dokumente enthalten:
+
+- a) die Vorbeurteilung (nicht erforderlich bei Aufträgen im Staatsvertragsbereich);
+- b) die Ausschreibungsunterlagen;
+- c) die öffentliche Ausschreibung;
+- d) die Liste der Fragen und Antworten, welche allen Anbietern zugestellt wurde;
+- e) das Protokoll über die Öffnung der Angebote;
+- f) die eingereichten Angebote;
+- g) die allfälligen ergänzenden Erläuterungen, welche von den Anbietern verlangt wurden;
+- h) die Zuschlagstabelle;
+- i) den erläuternden Bericht;
+- j) den allen Anbietern zugestellten Vergabeentscheid und die allfälligen Ausschlussentscheide;
+- k) die Veröffentlichung des Vergabeentscheids.
+
+## A3 Anhang 3 - Dokumente in einem Einladungsverfahren (Art. 39 Abs. 4)
+
+#### Art. A3-1
+
+**Dokumente in einem Einladungsverfahren**
+
+<sup>1</sup> Ein Vergabedossier im Einladungsverfahren muss mindestens folgende Dokumente enthalten:
+
+- a) die Vorbeurteilung;
+- b) die Ausschreibungsunterlagen;
+- c) die Einladung;
+- d) die Liste der Fragen und Antworten, welche allen Anbietern zugestellt wurde;
+- e) das Protokoll über die Öffnung der Angebote;
+- f) die eingereichten Angebote;
+- g) die allfälligen ergänzenden Erläuterungen, welche von den Anbietern verlangt wurden;
+- h) die Zuschlagstabelle;
+- i) den erläuternden Bericht;
+- j) den allen Anbietern zugestellten Vergabeentscheid und die allfälligen Ausschlussentscheide;
+- k) die Veröffentlichung des Vergabeentscheids.
+
+## A4 Anhang 4 - Dokumente in einem selektiven Verfahren (Art. 39 Abs. 4)
+
+#### Art. A4-1
+
+**Dokumente in einem selektiven Verfahren**
+
+<sup>1</sup> Ein Vergabedossier im selektiven Verfahren muss mindestens folgende Dokumente enthalten:
+
+- a) die Vorbeurteilung (nicht erforderlich bei Aufträgen im Staatsvertragsbereich);
+- b) die Dokumente der Anfrage zur Teilnahme;
+- c) die Ausschreibung der Anfrage zur Teilnahme;
+- d) die Liste der Fragen und Antworten, welche allen Anbietern zugestellt wurde;
+- e) das Protokoll über die Öffnung der Anfragen zur Teilnahme;
+- f) die allfälligen ergänzenden Erläuterungen, welche von den Anbietern verlangt wurden;
+- g) die Selektionstabelle;
+- h) den erläuternden Bericht;
+- i) den allen Teilnehmern zugestellten Selektionsentscheid und allfällige Ausschlussentscheide;
+- j) die Ausschreibungsunterlagen;
+- k) die Angebotsanfragen;
+- l) die Liste der Fragen und Antworten, welche allen Anbietern zugestellt wurde;
+- m) das Protokoll über die Öffnung der Angebote;
+- n) die eingereichten Angebote;
+- o) die allfälligen ergänzenden Erläuterungen, welche von den Anbietern verlangt wurden;
+- p) die Zuschlagstabelle;
+- q) den erläuternden Bericht;
+- r) den allen Anbietern zugestellten Vergabeentscheid und die allfälligen Ausschlussentscheide;
+- s) die Veröffentlichung des Vergabeentscheids.
+
+## A5 Anhang 5 - Dokumente in einem freihändigen Verfahren gemäss Artikel 21 Absatz 2 IVöB (Art. 39 Abs. 4)
+
+#### Art. A5-1
+
+**Dokumente in einem freihändigen Verfahren gemäss Artikel 21 Absatz 2 IVöB**
+
+<sup>1</sup> Ein Vergabedossier im freihändigen Verfahren gemäss Artikel 21 Absatz 2 IVöB muss mindestens folgende Dokumente enthalten:
+
+- a) die Vorbeurteilung;
+- b) die Ausschreibungsunterlagen;
+- c) die Einladung;
+- d) das Angebot oder die Angebote;
+- e) die verlangten allfälligen ergänzenden Erläuterungen;
+- f) den erläuternden Bericht;
+- g) den dem Auftragnehmer oder allfälligen weiteren Anbietern zugestellten Vergabeentscheid;
+- h) die Veröffentlichung des Vergabeentscheids.
+
+## A6 Anhang 6 - Dokumente in einem Wettbewerbsverfahren (Art. 39 Abs. 4)
+
+#### Art. A6-1
+
+<sup>1</sup> Ein Vergabedossier in einem Wettbewerbsverfahren muss mindestens folgende Dokumente enthalten:
+
+- a) die öffentliche Ausschreibung beziehungsweise die Anfrage zur Teilnahme oder die Einladung;
+- b) das Wettbewerbsprogramm;
+- c) den Bericht und die Empfehlungen des Preisgerichts;
+- d) die Veröffentlichung der Rangierung des Preisgerichts, welche das Wettbewerbsverfahren beendet;
+- e) den dem Auftragnehmer zugestellten Vergabeentscheid;
+- f) die Veröffentlichung des Vergabeentscheids.
+
+## A7 Anhang 7 - Dokumente in einem parallelen Studienauftrag (Art. 39 Abs. 4)
+
+#### Art. A7-1
+
+**Dokumente in einem parallelen Studienauftrag**
+
+<sup>1</sup> Ein Vergabedossier in einem parallelen Studienauftrag muss mindestens folgende Dokumente enthalten:
+
+- a) die öffentliche Ausschreibung beziehungsweise die Anfrage zur Teilnahme oder die Einladung;
+- b) das Programm des parallelen Studienauftrags;
+- c) den Bericht und die Empfehlungen des Expertenkollegiums;
+- d) die Veröffentlichung der Ergebnisse des parallelen Studienauftrags;
+- e) den dem Auftragnehmer zugestellten Vergabeentscheid;
+- f) die Veröffentlichung des Vergabeentscheids.
+
+CSW RO/AGS 2023-118
