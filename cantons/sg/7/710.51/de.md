@@ -4,13 +4,13 @@ number: "710.51"
 title: Verordnung über den öffentlichen Verkehr
 short: VöV
 language: de
-version: 2023-01-01
-valid_until: 2023-12-31
-version_adopted: 2022-12-06
+version: 2024-01-01
+valid_until: 2024-12-31
+version_adopted: 2023-12-12
 adopted: 2015-12-08
 in_force: 2016-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/710.51"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3433/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3570/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3433/pdf_file"
 
 (VöV)
 
-vom 08.12.2015 (Stand 01.01.2023)
+vom 08.12.2015 (Stand 01.01.2024)
 
 Die Regierung des Kantons St.Gallen
 
@@ -174,7 +174,8 @@ als Verordnung:[^ingress-2]
 - d) anlässlich der Automatisierung des Betriebs erfolgen und insgesamt nur zu geringfügigen Mehrkosten führen;
 - e) eine Linie betreffen, die:
   - 1\. wenigstens die Mindestvorgaben erfüllt und
-  - 2\. Teil eines Gesamtsystems nach Anhang 1 dieses Erlasses ist und das Gesamtsystem als Ganzes die Zielvorgaben derjenigen Linie des Gesamtsystems mit der höchsten Angebotsstufe erfüllt.
+  - 2\. Teil eines Gesamtsystems nach Anhang 1 dieses Erlasses ist und das Gesamtsystem als Ganzes die Zielvorgaben derjenigen Linie des Gesamtsystems mit der höchsten Angebotsstufe erfüllt;
+- f) ein reines Nachtangebot betreffen.
 
 ## IV. Beteiligung der politischen Gemeinden an den Beiträgen
 
