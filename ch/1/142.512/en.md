@@ -4,11 +4,11 @@ title: "Ordinance of 18 December 2013 on the Central Visa Information System and
 short: VISO
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/2"
 language: en
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2013-12-18
 in_force: 2014-01-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/2/20230901/en/xml/fedlex-data-admin-ch-eli-cc-2014-2-20230901-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/2/20230901/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/2/20240101/en/xml/fedlex-data-admin-ch-eli-cc-2014-2-20240101-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/2/20240101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Visa Information System Ordinance, VISO)
 
-of 18 December 2013 (Status as of 1 September 2023)
+of 18 December 2013 (Status as of 1 January 2024)
 
 The Swiss Federal Council,
 
@@ -660,13 +660,13 @@ Liability for loss or damage in connection with the operation of ORBIS is govern
 Data security is governed by:
 
 - a. [^34-1] the DPO[^34-2];
-- b.[^34-3] the Cyber Risks Ordinance of 27 May 2020[^34-4];
+- b.[^34-3] the Information Security Ordinance of 8 November 2023[^34-4];
 - c.[^34-5] ...
 
 [^34-1]: Amended by Annex 2 No II 7 of the Data Protection Ordinance of 31 Aug. 2022, in force since 1 Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^34-2]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^34-3]: Amended by Annex No 3 of the O of 25 Nov. 2020 on the Digital Transformation and ICT, in force since 1 Jan. 2021 ([AS 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
-[^34-4]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^34-3]: Amended by Annex 2 No II 5 of the Information Security Ordinance of 8 Nov. 2023, in force since 1 Jan. 2024 ([AS 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^34-4]: [SR 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
 [^34-5]: Repealed by Annex No 4 of the O of 24 Feb. 2021, with effect from 1 April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 35
@@ -809,7 +809,10 @@ Organisational units
 - – I: Information Technology Section and Statistics Service, Admission and Residence Section and Entry Section
 - – II: Registrar's Office, Asylum Division, Employment Market Admission Section
 - CRO: Civil register offices, their supervisory authorities and the Federal Civil Status Office
-- CCO: Central Compensation Office
+
+### CCO: Central Compensation Office
+
+[^annex2-lvlu1-1]: See footnote to Art. 2 let. a.
 
 <table>
 <tr><th>Type of data field</th><th>SEM I</th><th>SEM II</th><th>MIGRA</th><th colspan="4">BORPO</th><th colspan="5">CAPO</th><th colspan="5">CRO</th><th colspan="7">Fedpol</th><th colspan="7">NDB</th><th colspan="10">FAC</th><th colspan="6">RA Per St</th><th>RA Loc St</th><th>FDFA</th><th>CCO</th><th>FOJ</th><th>FTA</th><th>FOCBS</th></tr>
@@ -846,7 +849,7 @@ Organisational units
 <tr><td>Place and date of decision</td><td>B</td><td>A</td><td>B</td><td colspan="4">B</td><td colspan="5">A</td><td colspan="5">A</td><td colspan="7">A</td><td colspan="7">A</td><td colspan="10">A</td><td colspan="6">B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td>On behalf of another Schengen state (yes/no)</td><td>B</td><td>A</td><td>B</td><td colspan="4">B</td><td colspan="5">A</td><td colspan="5">A</td><td colspan="7">A</td><td colspan="7">A</td><td colspan="10">A</td><td colspan="6">B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td>Name and address of authority</td><td>B</td><td>A</td><td>B</td><td colspan="4">B</td><td colspan="5">A</td><td colspan="5">A</td><td colspan="7">A</td><td colspan="7">A</td><td colspan="10">A</td><td colspan="6">B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Area into which the visa holder may travel under the Visa Code[^annex2-lvlu1-2]</td><td>B</td><td>A</td><td>B</td><td colspan="4">B</td><td colspan="5">A</td><td colspan="5">A</td><td colspan="7">A</td><td colspan="7">A</td><td colspan="10">A</td><td colspan="6">B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Area into which the visa holder may travel under the Visa Code[^annex2-lvlu1-lvlCCO-1]</td><td>B</td><td>A</td><td>B</td><td colspan="4">B</td><td colspan="5">A</td><td colspan="5">A</td><td colspan="7">A</td><td colspan="7">A</td><td colspan="10">A</td><td colspan="6">B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td>Number of entries permitted during the term of validity</td><td>B</td><td>A</td><td>B</td><td colspan="4">B</td><td colspan="5">A</td><td colspan="5">A</td><td colspan="7">A</td><td colspan="7">A</td><td colspan="10">A</td><td colspan="6">B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td>Term of validity of the visa: commencement date and expiry date</td><td>B</td><td>A</td><td>B</td><td colspan="4">B</td><td colspan="5">A</td><td colspan="5">A</td><td colspan="7">A</td><td colspan="7">A</td><td colspan="10">A</td><td colspan="6">B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td>Visa category</td><td>B</td><td>A</td><td>B</td><td colspan="4">B</td><td colspan="5">A</td><td colspan="5">A</td><td colspan="7">A</td><td colspan="7">A</td><td colspan="10">A</td><td colspan="6">B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
@@ -896,13 +899,12 @@ Organisational units
 <tr><td>Duration of stay permitted by visa (&gt; 90 days)</td><td>B</td><td>A</td><td>B</td><td colspan="4">B</td><td colspan="5">A</td><td colspan="5">A</td><td colspan="7">A</td><td colspan="7">A</td><td colspan="10">A</td><td colspan="6">B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td>Visa notice</td><td>B</td><td>A</td><td>B</td><td colspan="4">B</td><td colspan="5">A</td><td colspan="5">A</td><td colspan="7">A</td><td colspan="7">A</td><td colspan="10">A</td><td colspan="6">B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td>VIS Mail dossier (notices)</td><td>B</td><td></td><td>B</td><td colspan="4">B</td><td colspan="5"></td><td colspan="5"></td><td colspan="7"></td><td colspan="7"></td><td colspan="10"></td><td colspan="6">B</td><td>A</td><td>B</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Annexes relating to the applicant[^annex2-lvlu1-3]</td><td>B</td><td></td><td>B</td><td colspan="4">B</td><td colspan="5"></td><td colspan="5"></td><td colspan="7"></td><td colspan="7"></td><td colspan="10"></td><td colspan="6">B</td><td>A</td><td>B</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Annexes relating to the applicant[^annex2-lvlu1-lvlCCO-2]</td><td>B</td><td></td><td>B</td><td colspan="4">B</td><td colspan="5"></td><td colspan="5"></td><td colspan="7"></td><td colspan="7"></td><td colspan="10"></td><td colspan="6">B</td><td>A</td><td>B</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Visa charges and expenses</td><td>B</td><td></td><td>B</td><td colspan="4">B</td><td colspan="5"></td><td colspan="5"></td><td colspan="7"></td><td colspan="7"></td><td colspan="10"></td><td colspan="6">B</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td></tr>
 </table>
 
-[^annex2-lvlu1-1]: See footnote to Art. 2 let. a.
-[^annex2-lvlu1-2]: See footnote to Art. 6 para. 1.
-[^annex2-lvlu1-3]: These Annexes (Documents relating to the applicant, remarks) are available in PDF format and are replaced by an e-dossier as soon as all the documents have been scanned.
+[^annex2-lvlu1-lvlCCO-1]: See footnote to Art. 6 para. 1.
+[^annex2-lvlu1-lvlCCO-2]: These Annexes (Documents relating to the applicant, remarks) are available in PDF format and are replaced by an e-dossier as soon as all the documents have been scanned.
 
 Annex 3[^t-2]
 

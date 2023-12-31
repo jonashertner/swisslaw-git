@@ -4,11 +4,11 @@ title: "Ordonnance du 18 décembre 2013 sur le système central d'information su
 short: OVIS
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/2"
 language: fr
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2013-12-18
 in_force: 2014-01-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/2/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2014-2-20230901-fr-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/2/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/2/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2014-2-20240101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/2/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2014/2/20230901/fr"
 
 (Ordonnance VIS, OVIS)
 
-du 18 décembre 2013 (État le 1<sup>er</sup> septembre 2023)
+du 18 décembre 2013 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -487,7 +487,7 @@ Pour autant que l’utilisateur y soit autorisé, une consultation des bases de 
 - a. le système central d’information sur la migration (SYMIC) prévu par l’ordonnance SYMIC du 12 avril 2006[^23-2];
 - b. le RIPOL prévu par l’ordonnance RIPOL du 26 octobre 2016[^23-3];
 - c. le Système d’information Schengen (SIS) prévu par l’ordonnance N-SIS du 8 mars 2013[^23-4];
-- d. la banque de données *Automated Search Facility d**’**Interpol* (ASF-Interpol) prévue par l’ordonnance Interpol du 21 juin 2013[^23-5];
+- d. la banque de données *Automated Search Facility d’Interpol* (ASF-Interpol) prévue par l’ordonnance Interpol du 21 juin 2013[^23-5];
 - e. le système d’entrée et de sortie prévu par l’ordonnance du 10 novembre 2021 sur le système d’entrée et de sortie[^23-6].
 
 [^23-1]: Nouvelle teneur selon le ch. I de l’O du 10 mai 2023, en vigueur depuis le 15 juin 2023 ([RO 2023 246](https://fedlex.data.admin.ch/eli/oc/2023/246)).
@@ -656,13 +656,13 @@ La responsabilité en cas de dommages liés à l’exploitation d’ORBIS est r�
 La sécurité des données est régie par:
 
 - a.[^34-1] l’OPDo[^34-2];
-- b.[^34-3] l’ordonnance du 27 mai 2020 sur les cyberrisques[^34-4];
+- b.[^34-3] l’ordonnance du 8 novembre 2023 sur la sécurité de l’information[^34-4];
 - c.[^34-5] …
 
 [^34-1]: Nouvelle teneur selon l’annexe 2 ch. II 7 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^34-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^34-3]: Nouvelle teneur selon l’annexe ch. 3 de l’O du 25 nov. 2020 sur la transformation numérique et l’informatique, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
-[^34-4]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^34-3]: Nouvelle teneur selon l’annexe 2 ch. II 5 de l’O du 8 nov. 2023 sur la sécurité de l’information, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^34-4]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
 [^34-5]: Abrogée par l’annexe ch. 4 de l’O du 24 fév. 2021, avec effet au 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 35

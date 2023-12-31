@@ -4,11 +4,11 @@ title: "Ordinanza del 18 dicembre 2013 sul sistema centrale d'informazione visti
 short: OVIS
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/2"
 language: it
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2013-12-18
 in_force: 2014-01-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/2/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2014-2-20230901-it-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/2/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/2/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2014-2-20240101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/2/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2014/2/20230901/it"
 
 (Ordinanza VIS, OVIS)
 
-del 18 dicembre 2013 (Stato 1° settembre 2023)
+del 18 dicembre 2013 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -508,6 +508,7 @@ Le autorità federali e cantonali competenti per i visti, nonché le autorità c
 - a. i messaggi connessi alla cooperazione consolare concernenti la domanda di visto nonché i messaggi relativi alle domande di trasmissione di documenti legati alla domanda di visto o di copie elettroniche di tali documenti secondo l’articolo 16 paragrafo 3 del regolamento VIS UE[^24-1];
 - b. i messaggi relativi a dati inesatti figuranti nel C-VIS secondo l’articolo 24 paragrafo 2 del regolamento VIS UE;
 - c. l’informazione, secondo l’articolo 25 paragrafo 2 del regolamento VIS UE, che un richiedente ha acquisito la cittadinanza di uno Stato Schengen;
+
 - d.[^24-2] le richieste di consultazione e le risposte relative alla consultazione preliminare delle autorità centrali incaricate dei visti secondo l’articolo 22 paragrafo 1 del codice dei visti e l’articolo 16 paragrafo 2 del regolamento VIS UE;
 - e.[^24-3] le informazioni sui visti rilasciati dai consolati secondo l’articolo 31 paragrafo 1 del codice dei visti e l’articolo 16 paragrafo 3 del regolamento VIS UE a cittadini di determinati Stati di provenienza o a determinate categorie di cittadini.
 
@@ -657,13 +658,13 @@ La responsabilità in caso di danni legati alla gestione di ORBIS è retta dalla
 La sicurezza dei dati è retta da:
 
 - a. [^34-1] l’OPDa[^34-2];
-- b.[^34-3] l’ordinanza del 27 maggio 2020[^34-4] sui ciber-rischi;
+- b.[^34-3] l’ordinanza dell’8 novembre 2023[^34-4] sulla sicurezza delle informazioni;
 - c.[^34-5] ...
 
 [^34-1]: Nuovo testo giusta l’all. 2 n. II 7 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^34-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^34-3]: Nuovo testo giusta l’all. n. 3 dell’O del 25 nov. 2020 sulla trasformazione digitale e l’informatica, in vigore dal 1° gen. 2021 ([RU 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
-[^34-4]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^34-3]: Nuovo testo giusta l’all. 2 n. II 5 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^34-4]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
 [^34-5]: Abrogata dall’all. n. 4 dell’O del 24 feb. 2021, con effetto dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 35
