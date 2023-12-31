@@ -4,13 +4,13 @@ number: II A/2/3
 title: Landratsverordnung
 short: LRV
 language: de
-version: 2022-01-01
-valid_until: 2023-12-31
-version_adopted: 2019-12-04
+version: 2024-01-01
+valid_until: 2026-06-30
+version_adopted: 2023-11-22
 adopted: 1994-04-13
 in_force: 1994-06-29
 url: "https://gesetze.gl.ch/app/de/texts_of_law/II-A.2.3"
-pdf: "https://gesetze.gl.ch/api/de/versions/2260/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2456/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2260/pdf_file"
 
 (LRV)
 
-Vom 13.04.1994 (Stand 01.01.2022)
+Vom 13.04.1994 (Stand 01.01.2024)
 
 Der Landrat des Kantons Glarus,
 
@@ -1634,6 +1634,15 @@ beschliesst:
 
 <sup>1</sup> Die Entschädigung der Ratsmitglieder richtet sich nach der Lohnverordnung.
 
+#### Art. 133a
+
+**Fraktionen**
+
+<sup>1</sup> Die Fraktionen erhalten:
+
+- a. einen Grundbeitrag von 500 Franken pro Jahr; und
+- b. einen Beitrag von 50 Franken pro Mitglied und Jahr.
+
 #### Art. 134–137
 
 **…**
@@ -1647,6 +1656,12 @@ beschliesst:
 <sup>1</sup> Bei Versorgungsstörungen oder schweren Mangellagen im Sinne des Bundesgesetzes über die wirtschaftliche Landesversorgung, bei Katastrophen oder kriegerischen Ereignissen ist der Landrat, soweit und solange es die Zwecke des Notrechtsgesetzes[^138-1] erfordern, an die Vorschriften der Artikel 7 (Fristen), 8 (Ort und Termine), 10 Absatz 2 (Traktandenliste), 11 Absatz 1 (Beschlussfähigkeit), 13 Absatz 1 (Öffentlichkeit), 105 (zweite Lesung), 116 Absatz 3 und 119 Absatz 1 Buchstabe f (Mindestzahl bei Wahlen) nicht gebunden.
 
 [^138-1]: GS [V H/2](https://gesetze.gl.ch/data/V-H.2/de)
+
+#### Art. 138a
+
+**Übergangsbestimmung zur Änderung vom 22. November 2023**
+
+<sup>1</sup> Der Fraktionsbeitrag nach Artikel 133a wird erstmals für das Amtsjahr 2024/2025 ausgerichtet.
 
 #### Art. 139
 
