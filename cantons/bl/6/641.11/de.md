@@ -3,20 +3,20 @@ canton: BL
 number: "641.11"
 title: Verordnung für den Kindergarten und die Primarschule
 language: de
-version: 2022-08-01
-valid_until: 2023-12-31
-version_adopted: 2021-12-07
+version: 2024-01-01
+valid_until: 2024-07-31
+version_adopted: 2023-12-19
 adopted: 2003-05-13
 in_force: 2003-08-01
 url: "https://bl.clex.ch/app/de/texts_of_law/641.11"
-pdf: "https://bl.clex.ch/api/de/versions/3744/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3857/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung für den Kindergarten und die Primarschule
 
-Vom 13.05.2003 (Stand 01.08.2022)
+Vom 13.05.2003 (Stand 01.01.2024)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -27,6 +27,12 @@ beschliesst:
 [^ingress-1]: [SGS 100](https://bl.clex.ch/data/100/de/art74)
 
 ## 1 Allgemeine Bestimmungen
+
+#### § 1a
+
+**Führungsmodell**
+
+<sup>2</sup> Die Gemeinden informieren das Amt für Volksschulen und die Abteilung Recht der Bildungs-, Kultur- und Sportdirektion umgehend über die Entscheide zum Führungsmodell ihrer Primarstufe sowie die allenfalls damit verbundenen Änderungen ihrer Gemeindeordnungen, erstmals bis zum 15. Januar 2024. Ausgenommen sind Gemeinden, die ihre Primarstufe bei Inkrafttreten dieser Bestimmung bereits als Kreisschule gemeinsam mit einer oder mehreren anderen Gemeinden führen.
 
 #### § 1
 
