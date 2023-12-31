@@ -4,28 +4,27 @@ number: RiE 970.110
 title: Ordnung betreffend das Kommunikationsnetz der Gemeinde Riehen
 short: Ordnung K-Netz Riehen
 language: de
-version: 2020-01-01
-valid_until: 2023-12-31
-version_adopted: 2019-03-27
+version: 2024-01-01
+version_adopted: 2023-05-31
 adopted: 2019-03-27
 in_force: 2020-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/RiE%20970.110"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4717/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6068/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Ordnung betreffend das Kommunikationsnetz der Gemeinde Riehen
 
-Kommunikationsnetz: Ordnung | Riehen: Einwohnergemeinde[^t-1]
+Wirtschaft / Freizeitgärten[^t-1]
 
 (Ordnung K-Netz Riehen)
 
-Vom 27. März 2019 (Stand 1. Januar 2020)
+Vom 27. März 2019 (Stand 1. Januar 2024)
 
-Der Einwohnerrat der Einwohnergemeinde Riehen,
+Der Einwohnerrat Riehen,
 
-auf Antrag des Gemeinderats und der Sachkommission Mobilität und Versorgung (SMV) sowie gestützt auf § 21 der Finanzhaushaltordnung der Einwohnergemeinde Riehen vom 28. November 2002[^ingress-1] und auf § 21 Abs. 3 lit. b der Gemeindeordnung der Einwohnergemeinde Riehen vom 27. Februar 2002[^ingress-2],
+gestützt auf § 44 der Finanzhaushaltordnung der Einwohnergemeinde Riehen vom 15. Dezember 2021[^ingress-1] und § 21 Abs. 3 lit. b der Gemeindeordnung der Einwohnergemeinde Riehen vom 27. Februar 2002[^ingress-2] sowie auf Antrag des Gemeinderats und der Sachkommission Mobilität und Versorgung (SMV),
 
 beschliesst:
 
@@ -47,7 +46,9 @@ beschliesst:
 
 <sup>1</sup> Mit dem Kommunikationsnetz werden die Liegenschaften innerhalb des im Zonenplan ausgewiesenen Siedlungsgebiets erschlossen. Angrenzende Gebiete können berücksichtigt werden, sofern die Anschlusskosten mit denjenigen im Siedlungsgebiet vergleichbar sind.
 
-<sup>2</sup> Fehlen diese Voraussetzungen, so kann der Gemeinderat auf Gesuch die Zuleitung ab bestehendem Netz nur bei Übernahme der vollen Kosten durch die Gesuchstellerin oder den Gesuchsteller und gegen Zahlung der ordentlichen Anschlussbeiträge erstellen lassen. Später hinzutretende Benutzerinnen oder Benutzer haben sich anteilsmässig an den Kosten zu beteiligen, der Verteiler wird vom Gemeinderat festgelegt.
+<sup>1<sup>bis</sup></sup> Die Gemeinde entscheidet über die Art des Anschlusses. Falls es unter wirtschaftlichen Gesichtspunkten gerechtfertigt ist, können Liegenschaften mit Glasfaser angeschlossen werden.
+
+<sup>2</sup> Fehlen diese Voraussetzungen, so kann der Gemeinderat auf Gesuch die Zuleitung ab bestehendem Netz nur bei Übernahme der vollen Kosten durch die Gesuchstellerin oder den Gesuchsteller erstellen lassen. Später hinzutretende Benutzerinnen oder Benutzer haben sich anteilsmässig an den Kosten zu beteiligen, der Verteiler wird vom Gemeinderat festgelegt.
 
 #### § 3
 
@@ -89,11 +90,11 @@ beschliesst:
 
 **Anschlussbeiträge**
 
-<sup>1</sup> Die Grundstückseigentümerin oder der Grundstückseigentümer hat für den Anschluss an das Kommunikationsnetz Beiträge zu entrichten. Diese setzen sich zusammen aus einem Grundbeitrag von CHF 1'000 pro angeschlossene Liegenschaft sowie einem Zusatzbeitrag von CHF 200 pro angeschlossene Wohnung.
+<sup>1</sup> Für den Anschluss an das Kommunikationsnetz sind keine Beiträge zu entrichten. Altrechtlich geschuldete und bezahlte Anschlussbeiträge können nicht zurückgefordert werden, dies gilt auch bei Aufhebung des Anschlusses.
 
-<sup>2</sup> Handelt es sich bei den angeschlossenen Wohneinheiten um einzeln benutzte Zimmer in Heimen, Spitälern, Kommunitäten und dergleichen oder um Gästezimmer in Beherbergungsbetrieben, so beträgt der Zusatzbeitrag CHF 100 pro Wohneinheit.
+<sup>2</sup> …
 
-<sup>3</sup> Die Anschlussgebühr kann bei Aufhebung des Anschlusses nicht zurückgefordert werden.
+<sup>3</sup> …
 
 #### § 8
 
@@ -102,6 +103,26 @@ beschliesst:
 <sup>1</sup> Die Grundstückseigentümerin oder der Grundstückseigentümer hat pro angeschlossene Wohnung eine monatliche Gebühr von CHF 17 zu entrichten. Mit dieser Gebühr ist auch der Empfang des Grundangebots für Radio und Fernsehen abgegolten.
 
 <sup>2</sup> Die Grundstückseigentümerin oder der Grundstückseigentümer kann die Benutzung eines Anschlusses jeweils auf das Ende eines Monats mit einer Kündigungsfrist von einem Monat kündigen. Daraufhin entfällt die Benutzungsgebühr für die betreffende Wohnung und die Anschlussstellen werden durch Beauftragte der Gemeinde plombiert.
+
+#### § 9
+
+**Spezialfinanzierung**
+
+<sup>1</sup> Die Gemeinde führt für das Kommunikationsnetz eine Spezialfinanzierung. Aus der Spezialfinanzierung finanziert werden:
+
+- a) Planung, Bau, Erneuerung, Unterhalt und Betrieb des Kommunikationsnetzes inkl. Kosten für Wertberichtigungen und Abschreibungen;
+- b) kalkulatorische Zinskosten für das eingesetzte Kapital;
+- c) kalkulatorische Mieten und Verwaltungskosten.
+
+<sup>2</sup> Als Einnahmen der Spezialfinanzierung werden verbucht:
+
+- a) Gebühren und Beiträge gemäss dieser Ordnung;
+- b) die Beteiligung der Gemeinde am Umsatz aus den Zusatzdiensten des Providers;
+- c) die Beteiligung der Gemeinde an den Einnahmen von schweizspezifischer Werbung ausländischer Fernsehsendern.
+
+<sup>3</sup> Aufwand und Ertrag der Spezialfinanzierung werden in der Erfolgsrechnung verbucht und die Saldi beim Jahresabschluss bilanziert. Die bilanzierten Verpflichtungen oder Vorschüsse der Spezialfinanzierung sind zu verzinsen.
+
+<sup>4</sup> Für Ausgabenbewilligungen zu Lasten der Spezialfinanzierung gelten die ordentlichen Zuständigkeiten gemäss der Gemeindeordnung der Einwohnergemeinde Riehen vom 27. Februar 2002.
 
 *Schlussbestimmung*
 
