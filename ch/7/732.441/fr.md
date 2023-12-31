@@ -4,11 +4,11 @@ title: Ordonnance du 25 mars 2015 sur la responsabilité civile en matière nucl
 short: ORCN
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/860"
 language: fr
-version: 2023-01-01
+version: 2024-01-01
 adopted: 2015-03-25
 in_force: 2022-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/860/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2021-860-20230101-fr-xml-13.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/860/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/860/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2021-860-20240101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/860/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,15 +17,16 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/860/20230101/fr"
 
 (ORCN)
 
-du 25 mars 2015 (État le 1<sup>er</sup> janvier 2023)
+du 25 mars 2015 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
-vu l’art. 31, al. 1, de la loi du 13 juin 2008 sur la responsabilité civile en matière nucléaire (LRCN)[^ingress-1],
+vu les art. 3, al. 3, 8, al. 3, 9, al. 2 et 4, 12, al. 2, et 31, al. 1, de la loi du 13 juin 2008 sur la responsabilité civile en matière nucléaire (LRCN)[^ingress-1],[^ingress-2]
 
 arrête:
 
-[^ingress-1]: [RS 732.44](https://fedlex.data.admin.ch/eli/cc/2022/43)
+[^ingress-1]: [RS 732.44](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8560)
+[^ingress-2]: Nouvelle teneur selon le ch. I de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 769](https://fedlex.data.admin.ch/eli/oc/2023/769)).
 
 ## Section 1 Montant total de la couverture
 
@@ -56,19 +57,23 @@ Le montant total de la couverture est de 1200 millions d’euros, auxquels s’a
 
 <sup>1</sup>
 
-Le montant total de la couverture est de 70 millions d’euros, auxquels s’ajoutent 10 % de ce montant pour les intérêts et pour les coûts alloués par une autorité judiciaire:[^2-1]
+Le montant total de la couverture est de 70 millions d’euros, auxquels s’ajoutent 10 % du montant total pour les intérêts et pour les coûts alloués par une autorité judiciaire:[^2-1]
 
 - a. pour les installations de recherche nucléaire;
 - b. pour le dépôt intermédiaire fédéral;
 - c.[^2-2] pour les installations dans lesquelles des déchets radioactifs provenant d’installations nucléaires sont stockés en vue de leur décroissance (dépôts de décroissance).
 
-<sup>2</sup> Ce montant de couverture vaut également si plusieurs installations de ce type sont réputées constituer une installation nucléaire unique au sens de l’art. 2, let. a, LRCN.
+<sup>1bis</sup> L’exploitant d’une installation nucléaire en cours de désaffectation peut demander à l’Office fédéral de l’énergie (OFEN) que le montant de la couverture visé à l’al. 1 s’applique à son installation lorsque celle-ci ne comporte plus aucun élément combustible. L’OFEN statue par décision et fixe la date de référence à partir de laquelle le montant réduit s’applique.[^2-3]
 
-<sup>3</sup> Le montant total de la couverture, par transport de substances nucléaires non mentionnées à l’art. 1, let. c, ch. 1 et 2, est de 80 millions d’euros, auxquels s’ajoutent 10 % de ce montant pour les intérêts et pour les coûts alloués par une autorité judiciaire.[^2-3]
+<sup>2</sup> Le montant de couverture réduit visé à l’al. 1 ou 1<sup>bis</sup> vaut également si plusieurs installations de ce type sont réputées constituer une installation nucléaire unique au sens de l’art. 2, let. a, LRCN.[^2-4]
 
-[^2-1]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 812](https://fedlex.data.admin.ch/eli/oc/2022/812)).
+<sup>3</sup> Le montant total de la couverture, par transport de substances nucléaires non mentionnées à l’art. 1, let. c, ch. 1 et 2, est de 80 millions d’euros, auxquels s’ajoutent 10 % de ce montant pour les intérêts et pour les coûts alloués par une autorité judiciaire.[^2-5]
+
+[^2-1]: Nouvelle teneur selon le ch. I de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 769](https://fedlex.data.admin.ch/eli/oc/2023/769)).
 [^2-2]: Introduite par le ch. I de l’O du 7 déc. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 861](https://fedlex.data.admin.ch/eli/oc/2021/861)).
-[^2-3]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 812](https://fedlex.data.admin.ch/eli/oc/2022/812)).
+[^2-3]: Introduit par le ch. I de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 769](https://fedlex.data.admin.ch/eli/oc/2023/769)).
+[^2-4]: Nouvelle teneur selon le ch. I de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 769](https://fedlex.data.admin.ch/eli/oc/2023/769)).
+[^2-5]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 812](https://fedlex.data.admin.ch/eli/oc/2022/812)).
 
 ## Section 2 Couverture privée
 
@@ -105,11 +110,13 @@ Le montant de base est de 70 millions d’euros:
 
 - a. pour les installations de recherche nucléaire;
 - b. pour le dépôt intermédiaire fédéral;
-- c.[^4-3] pour les dépôts de décroissance.
+- c.[^4-3] pour les dépôts de décroissance;
+- d.[^4-4] pour les installations nucléaires en cours de désaffectation auxquelles s’applique le montant de couverture réduit visé à l’art. 2, al. 1<sup>bis</sup>.
 
 [^4-1]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 812](https://fedlex.data.admin.ch/eli/oc/2022/812)).
 [^4-2]: Abrogé par le ch. I de l’O du 23 nov. 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 812](https://fedlex.data.admin.ch/eli/oc/2022/812)).
 [^4-3]: Introduite par le ch. I de l’O du 7 déc. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 861](https://fedlex.data.admin.ch/eli/oc/2021/861)).
+[^4-4]: Introduite par le ch. I de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 769](https://fedlex.data.admin.ch/eli/oc/2023/769)).
 
 #### Art. 5
 
@@ -131,7 +138,7 @@ Le montant prévu pour les intérêts et les coûts alloués par une autorité j
 - b. les frais de procédure, les frais d’arbitrage et les frais de transaction extrajudiciaire;
 - c. les frais de conservation des preuves (art. 20 LRCN).
 
-[^6-1]: [RS 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
+[^6-1]: [RS 221.229.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5912)
 
 #### Art. 7
 
@@ -172,15 +179,19 @@ De plus, il peut exclure les dommages et coûts suivants de la couverture visée
 
 #### Art. 8
 
-**Contributions à verser pour les installations nucléaires**
+**Contributions à verser pour les installations nucléaires**[^8-1]
 
 ### (art. 12 LRCN)
 
 <sup>1</sup> Les contributions dues annuellement à la Confédération par les exploitants d’installations nucléaires aux fins de couvrir les dommages nucléaires causés par leur installation nucléaire sont calculées conformément aux annexes 1 et 3.
 
-<sup>2</sup> La décision relative au montant de ces contributions intervient au plus tard le 15 décembre pour l’année suivante. Lorsque le prestataire de couverture privé adapte sa couverture conformément à l’art. 7, al. 3, ce délai est prolongé au plus tard jusqu’au 15 février de l’année suivante.[^8-1]
+<sup>2</sup> La décision relative au montant de ces contributions intervient au plus tard le 15 décembre pour l’année suivante. Lorsque le prestataire de couverture privé adapte sa couverture conformément à l’art. 7, al. 3, ce délai est prolongé au plus tard jusqu’au 15 février de l’année suivante.
 
-[^8-1]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 812](https://fedlex.data.admin.ch/eli/oc/2022/812)).
+<sup>3</sup> Les contributions que les exploitants d’installations nucléaires auxquelles s’applique le montant de couverture réduit visé à l’art. 2, al. 1<sup>bis</sup>, doivent verser annuellement à la Confédération aux fins de couvrir les dommages nucléaires causés par leur installation nucléaire correspondent à la somme, d’une part, du montant de la contribution à verser à la Confédération au sens de l’annexe 1 au prorata du temps écoulé entre le début de l’année et la date de référence pour la réduction du montant de couverture et, d’autre part, du montant de la contribution à verser à la Confédération au sens de l’annexe 3 au prorata du restant de l’année.
+
+<sup>4</sup> L’OFEN détermine les contributions prévues à l’al. 3 avant la date de référence fixée.
+
+[^8-1]: Nouvelle teneur selon le ch. I de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 769](https://fedlex.data.admin.ch/eli/oc/2023/769)).
 
 #### Art. 9
 
@@ -190,13 +201,13 @@ De plus, il peut exclure les dommages et coûts suivants de la couverture visée
 
 <sup>1</sup> Les contributions que doivent verser à la Confédération les personnes responsables du transport de substances nucléaires pour la couverture des dommages nucléaires se calculent selon les annexes 2 et 3.
 
-<sup>2</sup> L’Office fédéral de l’énergie (OFEN) évalue et perçoit les contributions à l’avance pour chaque exercice, mais au plus tard le 15 décembre de l’exercice précédent.[^9-1]
+<sup>2</sup> L’OFEN évalue et perçoit les contributions à l’avance pour chaque exercice, mais au plus tard le 15 décembre de l’exercice précédent. Si le prestataire de couverture privé adapte sa couverture conformément à l’art. 7, al. 3, ce délai est prolongé au plus tard jusqu’au 15 février de l’année suivante.[^9-1]
 
 <sup>3</sup> Dans cette évaluation provisoire des contributions, l’OFEN distingue les substances nucléaires visées à l’art. 1, let. c, et les substances nucléaires visées à l’art. 2, al. 3.
 
 <sup>4</sup> Au terme de l’exercice comptable, l’OFEN calcule les contributions définitives et les communique au plus tard jusqu’au 28 février. Les montants excédentaires ou manquants par rapport aux contributions évaluées et versées conformément aux al. 2 et 3 sont perçus ou remboursés ultérieurement.[^9-2]
 
-[^9-1]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 812](https://fedlex.data.admin.ch/eli/oc/2022/812)).
+[^9-1]: Nouvelle teneur selon le ch. I de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 769](https://fedlex.data.admin.ch/eli/oc/2023/769)).
 [^9-2]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 812](https://fedlex.data.admin.ch/eli/oc/2022/812)).
 
 #### Art. 10
@@ -204,6 +215,8 @@ De plus, il peut exclure les dommages et coûts suivants de la couverture visée
 **Obligation de communiquer**
 
 <sup>1</sup> Pour les installations nucléaires, les prestataires de couverture privés annoncent à l’OFEN, au plus tard le 15 novembre, les primes de l’année suivante pour la couverture privée visée par la présente législation.
+
+<sup>1bis</sup> Si le montant de la couverture est réduit en cours d’année pour une installation nucléaire au sens de l’art. 2, al. 1<sup>bis</sup>, les prestataires de couverture privés annoncent à l’OFEN la prime pour le restant de l’année au plus tard 30 jours avant la date de référence pour la réduction.[^10-1]
 
 <sup>2</sup>
 
@@ -225,9 +238,10 @@ S’agissant des transports de substances nucléaires, les prestataires de couve
 
 <sup>3</sup> La communication visée à l’al. 2 présente séparément les substances nucléaires visées à l’art. 1, let. c, et les substances nucléaires visées à l’art. 2, al. 3.
 
-<sup>4</sup> Lorsque le prestataire de couverture privé adapte les risques exclus de sa couverture selon l’art. 7, al. 3, le délai visé aux al. 1 et 2, let. b, est prolongé jusqu’au 15 décembre.[^10-1]
+<sup>4</sup> Lorsque le prestataire de couverture privé adapte les risques exclus de sa couverture selon l’art. 7, al. 3, le délai visé aux al. 1 et 2, let. b, est prolongé jusqu’au 15 décembre.[^10-2]
 
-[^10-1]: Introduit par le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 812](https://fedlex.data.admin.ch/eli/oc/2022/812)).
+[^10-1]: Introduit par le ch. I de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 769](https://fedlex.data.admin.ch/eli/oc/2023/769)).
+[^10-2]: Introduit par le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 812](https://fedlex.data.admin.ch/eli/oc/2022/812)).
 
 #### Art. 11
 
@@ -313,14 +327,15 @@ Le fonds est grevé par:
 
 <sup>1</sup> L’OFEN gère le fonds. Il en publie les comptes annuels, le bilan et l’état de la fortune.
 
-<sup>2</sup> Le Département de l’environnement, des transports, de l’énergie et de la communication charge un organe de contrôle indépendant de réviser les comptes annuels du fonds. Le rapport de cet organe est envoyé aux cotisants.
+<sup>2</sup> Le Département de l’environnement, des transports, de l’énergie et de la communication charge un organe de contrôle indépendant de réviser les comptes annuels du fonds.[^19-1]
 
-<sup>3</sup> Seules les personnes ou les entreprises de révision agréées par l’Autorité fédérale de surveillance en matière de révision en qualité d’experts-réviseurs selon la loi du 16 décembre 2005 sur la surveillance de la révision[^19-1] peuvent exercer la fonction d’organe de révision.
+<sup>3</sup> Seules les personnes ou les entreprises de révision agréées par l’Autorité fédérale de surveillance en matière de révision en qualité d’experts-réviseurs selon la loi du 16 décembre 2005 sur la surveillance de la révision[^19-2] peuvent exercer la fonction d’organe de révision.
 
-<sup>4</sup> La surveillance financière du fonds par le Contrôle fédéral des finances, fondée sur la loi du 28 juin 1967 sur le contrôle des finances[^19-2], est réservée.
+<sup>4</sup> La surveillance financière du fonds par le Contrôle fédéral des finances, fondée sur la loi du 28 juin 1967 sur le contrôle des finances[^19-3], est réservée.
 
-[^19-1]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
-[^19-2]: [RS 614.0](https://fedlex.data.admin.ch/eli/cc/1967/1505_1553_1547)
+[^19-1]: Nouvelle teneur selon le ch. I de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 769](https://fedlex.data.admin.ch/eli/oc/2023/769)).
+[^19-2]: [RS 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
+[^19-3]: [RS 614.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7792)
 
 ## Section 6 Dispositions finales
 
@@ -368,7 +383,7 @@ Annexe 1[^t-1]
 Les contributions aux fins de couvrir les dommages nucléaires causés par les centrales nucléaires et le ZWILAG se calculent comme suit:
 
 <table>
-<tr><td>Contribution à la Confédération =</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/860/20230101/fr/xml/image/image1.png)</td></tr>
+<tr><td>Contribution à la Confédération =</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/860/20240101/fr/xml/image/image1.png)</td></tr>
 </table>
 
 où
@@ -378,7 +393,7 @@ où
 <tr><td>L<sub>1</sub></td><td>=</td><td>Limite supérieure des dommages couverts par la Confédération; cette limite correspond au montant total de la couverture visé à l’art. 1 (1200 millions d’euros).</td></tr>
 <tr><td>L<sub>0</sub></td><td>=</td><td>Limite inférieure de la partie 1; cette limite correspond à la couverture privée visée aux art. 4, al. 1 et 2, et 5.</td></tr>
 <tr><td>S<sub>0</sub></td><td>=</td><td>Sous-limite inférieure pour les dommages causés par des actes terroristes; cette limite correspond à la couverture privée visée à l’art. 7, al. 1, let. b, ch. 1.</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/860/20230101/fr/xml/image/image2.png)</td><td>=</td><td>Sous-limite inférieure pour les dommages qui surviennent alors que les valeurs limites de radioactivité en vigueur au moment considéré sont respectées; cette limite correspond à la couverture privée visée à l’art. 7, al. 1, let. b, ch. 2.</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/860/20240101/fr/xml/image/image2.png)</td><td>=</td><td>Sous-limite inférieure pour les dommages qui surviennent alors que les valeurs limites de radioactivité en vigueur au moment considéré sont respectées; cette limite correspond à la couverture privée visée à l’art. 7, al. 1, let. b, ch. 2.</td></tr>
 <tr><td>p<sup>partie1</sup></td><td>=</td><td>Probabilité que survienne un dommage nucléaire couvert par les prestataires de couverture privés à concurrence du montant visé aux art. 4, al. 1 et 2, et 5.</td></tr>
 <tr><td>p<sup>partie2</sup></td><td>=</td><td>Probabilité que survienne un dommage nucléaire totalement exclu de la couverture privée.</td></tr>
 <tr><td>p<sup>partie3</sup></td><td>=</td><td>Probabilité que survienne un dommage nucléaire couvert par les prestataires de couverture privés, en vertu de l’art. 7, al. 1, let. b, ch. 1, à concurrence de 50 % du montant de couverture visé aux art. 4, al. 1 et 2, et 5.</td></tr>
@@ -388,7 +403,7 @@ où
 
 Les montants de couverture mentionnés sont majorés de 10 % pour les intérêts et pour les coûts alloués par une autorité judiciaire.
 
-[^annex1-lvlu1-1]: [RS 0.732.44](https://fedlex.data.admin.ch/eli/cc/2022/44)
+[^annex1-lvlu1-1]: [RS 0.732.44](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2779)
 
 Annexe 2[^t-2]
 
@@ -401,7 +416,7 @@ Annexe 2[^t-2]
 Les contributions aux fins de couvrir les dommages nucléaires causés par le transport de combustibles nucléaires irradiés et de solutions vitrifiées de produits de fission, issues du retraitement d’éléments combustibles usés dont le poids total des substances nucléaires est supérieur à 100 kg, se calculent comme suit:
 
 <table>
-<tr><td>Contribution à la Confédération =</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/860/20230101/fr/xml/image/image3.png)</td></tr>
+<tr><td>Contribution à la Confédération =</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/860/20240101/fr/xml/image/image3.png)</td></tr>
 </table>
 
 où
@@ -411,18 +426,18 @@ où
 <tr><td>L<sub>1</sub></td><td>=</td><td>Limite supérieure des dommages couverts par la Confédération; cette limite correspond au montant total de la couverture visé à l’art. 1.</td></tr>
 <tr><td>L<sub>0</sub></td><td>=</td><td>Limite inférieure de la partie 1; cette limite correspond à la couverture privée visée aux art. 4, al. 1 et 2, et 5.</td></tr>
 <tr><td>S<sub>0</sub></td><td>=</td><td>Sous-limite inférieure pour les dommages causés par des actes terroristes; cette limite correspond à la couverture privée visée à l’art. 7, al. 1, let. b, ch. 1.</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/860/20230101/fr/xml/image/image4.png)</td><td>=</td><td>Sous-limite inférieure pour les dommages qui surviennent alors que les valeurs limites de radioactivité en vigueur au moment considéré sont respectées; cette limite correspond à la couverture privée visée à l’art. 7, al. 1, let. b, ch. 2.</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/860/20230101/fr/xml/image/image5.png)</td><td>=</td><td>Probabilité que survienne un dommage nucléaire causé par une centrale nucléaire suisse qui soit couvert par les prestataires de couverture privés à concurrence du montant visé aux art. 4, al. 1 et 2, et 5.</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/860/20230101/fr/xml/image/image6.png)</td><td>=</td><td>Probabilité que survienne un dommage nucléaire causé par une centrale nucléaire suisse qui soit totalement exclu de la couverture privée.</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/860/20230101/fr/xml/image/image7.png)</td><td>=</td><td>Probabilité que survienne un dommage nucléaire causé par une centrale nucléaire suisse suite à des actes terroristes.</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/860/20230101/fr/xml/image/image8.png)</td><td>=</td><td>Probabilité que survienne un dommage nucléaire causé par une centrale nucléaire suisse alors que les valeurs limites de radioactivité en vigueur au moment considéré sont respectées.</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/860/20240101/fr/xml/image/image4.png)</td><td>=</td><td>Sous-limite inférieure pour les dommages qui surviennent alors que les valeurs limites de radioactivité en vigueur au moment considéré sont respectées; cette limite correspond à la couverture privée visée à l’art. 7, al. 1, let. b, ch. 2.</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/860/20240101/fr/xml/image/image5.png)</td><td>=</td><td>Probabilité que survienne un dommage nucléaire causé par une centrale nucléaire suisse qui soit couvert par les prestataires de couverture privés à concurrence du montant visé aux art. 4, al. 1 et 2, et 5.</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/860/20240101/fr/xml/image/image6.png)</td><td>=</td><td>Probabilité que survienne un dommage nucléaire causé par une centrale nucléaire suisse qui soit totalement exclu de la couverture privée.</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/860/20240101/fr/xml/image/image7.png)</td><td>=</td><td>Probabilité que survienne un dommage nucléaire causé par une centrale nucléaire suisse suite à des actes terroristes.</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/860/20240101/fr/xml/image/image8.png)</td><td>=</td><td>Probabilité que survienne un dommage nucléaire causé par une centrale nucléaire suisse alors que les valeurs limites de radioactivité en vigueur au moment considéré sont respectées.</td></tr>
 <tr><td>q<sup>partie1</sup></td><td>=</td><td>Probabilité que survienne, durant le transport de combustibles nucléaires irradiés et de solutions vitrifiées de produits de fission, issues du retraitement d’éléments combustibles usés dont le poids total des substances nucléaires est supérieur à 100 kg, un dommage nucléaire qui soit couvert par les prestataires de couverture privés à concurrence du montant visé aux art. 4, al. 1 et 2, et 5.</td></tr>
 <tr><td>P<sub>E</sub></td><td>=</td><td>Prime pour la couverture des dommages nucléaires visés à l’art. 1, par. (a), ch. (vii), n<sup>o</sup> 4 à 6, de la Convention du 29 juillet 1960 sur la responsabilité civile dans le domaine de l’énergie nucléaire[^annex2-lvlu1-1] qui sont globalement pris en charge par les prestataires de couverture privés à concurrence de 50 % du montant de couverture visé aux art. 4, al. 1 et 2, et 5 (art. 7, al. 2, let. a à c).</td></tr>
 </table>
 
 Les montants de couverture mentionnés sont majorés de 10 % pour les intérêts et pour les coûts alloués par une autorité judiciaire.
 
-[^annex2-lvlu1-1]: [RS 0.732.44](https://fedlex.data.admin.ch/eli/cc/2022/44)
+[^annex2-lvlu1-1]: [RS 0.732.44](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2779)
 
 Annexe 3[^t-3]
 
@@ -435,7 +450,7 @@ Annexe 3[^t-3]
 Les contributions aux fins de couvrir les dommages nucléaires causés par les installations de recherche nucléaire, le dépôt intermédiaire fédéral, les dépôts de décroissance et les transports de substances nucléaires non mentionnées à l’art. 1, let. c, ch. 1 et 2, se calculent comme suit:
 
 <table>
-<tr><td>Contribution à la Confédération =</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/860/20230101/fr/xml/image/image9.png)</td></tr>
+<tr><td>Contribution à la Confédération =</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/860/20240101/fr/xml/image/image9.png)</td></tr>
 </table>
 
 où
@@ -443,9 +458,9 @@ où
 <table>
 <tr><td>S<sub>Conf.</sub></td><td>=</td><td>Supplément sur la prime de risque proprement dite contenu dans les primes brutes de la Confédération.</td></tr>
 <tr><td>L<sub>1</sub></td><td>=</td><td>Limite supérieure des dommages couverts par la Confédération; cette limite correspond au montant total de couverture réduit visé à l’art. 2 (70 ou 80 millions d’euros).</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/860/20230101/fr/xml/image/image10.png)</td><td>=</td><td>Probabilité que survienne un dommage nucléaire causé par une centrale nucléaire suisse qui soit couvert par les prestataires de couverture privés à concurrence du montant visé aux art. 4, al. 1 et 2, et 5.</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/860/20230101/fr/xml/image/image11.png)</td><td>=</td><td>Probabilité que survienne un dommage nucléaire causé par une centrale nucléaire suisse qui soit totalement exclu de la couverture privée.</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/860/20230101/fr/xml/image/image12.png)</td><td>=</td><td>Probabilité que survienne un dommage nucléaire causé par une centrale nucléaire suisse alors que les valeurs limites de radioactivité en vigueur au moment considéré sont respectées.</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/860/20240101/fr/xml/image/image10.png)</td><td>=</td><td>Probabilité que survienne un dommage nucléaire causé par une centrale nucléaire suisse qui soit couvert par les prestataires de couverture privés à concurrence du montant visé aux art. 4, al. 1 et 2, et 5.</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/860/20240101/fr/xml/image/image11.png)</td><td>=</td><td>Probabilité que survienne un dommage nucléaire causé par une centrale nucléaire suisse qui soit totalement exclu de la couverture privée.</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/860/20240101/fr/xml/image/image12.png)</td><td>=</td><td>Probabilité que survienne un dommage nucléaire causé par une centrale nucléaire suisse alors que les valeurs limites de radioactivité en vigueur au moment considéré sont respectées.</td></tr>
 <tr><td>q<sup>partie1</sup></td><td>=</td><td>Probabilité que survienne un dommage nucléaire causé par des installations de recherche nucléaire, le dépôt intermédiaire fédéral, les dépôts de décroissance et le transport de substances nucléaires non mentionnées à l’art. 1, let. c, ch. 1 et 2, dommage couvert par les prestataires de couverture privés à concurrence du montant total de couverture réduit visé à l’art. 2 (70 ou 80 millions d’euros).</td></tr>
 </table>
 
