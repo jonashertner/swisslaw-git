@@ -4,13 +4,13 @@ number: "102.1"
 title: "Loi sur le statut particulier du Jura bernois et sur la minorité francophone de l'arrondissement administratif de Biel/Bienne *"
 short: "Loi sur le statut particulier, LStP"
 language: fr
-version: 2021-12-01
-valid_until: 2023-12-31
-version_adopted: 2021-03-08
+version: 2024-01-01
+valid_until: 2025-02-28
+version_adopted: 2022-09-05
 adopted: 2004-09-13
 in_force: 2006-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/102.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2644/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2930/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2644/pdf_file"
 
 (Loi sur le statut particulier, LStP)
 
-du 13.09.2004 (état au 01.12.2021)
+du 13.09.2004 (état au 01.01.2024)
 
 Le Grand Conseil du canton de Berne,
 
@@ -654,13 +654,20 @@ arrête:
 
 ## 11 Aides financières
 
-### 11.1 Diffuseurs radiophoniques locaux et régionaux
+### 11.1 Aide aux médias
 
 #### Art. 63
 
 **Bénéficiaires**
 
-<sup>1</sup> Le canton peut octroyer une aide financière à un diffuseur local ou régional dans le Jura bernois et à un diffuseur local ou régional d’expression française dans l'arrondissement administratif de Biel/Bienne.
+<sup>1</sup> Le canton peut octroyer une aide financière aux médias suivants:
+
+- a médias locaux ou régionaux dans le Jura bernois,
+- b médias locaux ou régionaux d'expression française ou bilingues dans l'arrondissement administratif de Biel/Bienne.
+
+<sup>2</sup> Le terme de médias est régi par l'article 2b de la loi du 2 novembre 1993 sur l'information et l'aide aux médias (LIAM)[^63-1].
+
+[^63-1]: RSB [107.1](https://www.belex.sites.be.ch/data/107.1/fr)
 
 #### Art. 64
 
@@ -668,27 +675,27 @@ arrête:
 
 <sup>1</sup> L’aide financière ne peut être octroyée que
 
-- a si une part importante des communes situées dans la zone de diffusion concernée fournissent également une aide financière;
-- b si les programmes et les émissions proposés contribuent dans une large mesure à l’information et à la formation de l’opinion publique, et
-- c si le contenu informatif des programmes et des émissions revêt un intérêt général et porte en particulier sur les affaires publiques du canton et des communes.
+- a si une part importante des communes situées dans la zone de diffusion concernée fournissent également une aide financière à l'offre médiatique concernée ;
+- b si les offres médiatiques concernées contribuent dans une large mesure à l’information et à la formation de l’opinion publique, et
+- c si le contenu informatif des offres médiatiques concernées revêt un intérêt général et porte en particulier sur les affaires publiques du canton et des communes.
 
-<sup>2</sup> L’aide financière est octroyée annuellement.
+<sup>2</sup> Elle est octroyée annuellement.
 
-<sup>3</sup> Les diffuseurs concernés ne peuvent en aucun cas prétendre à l’octroi de l’aide financière.
+<sup>3</sup> Nul ne peut prétendre à l’octroi de l’aide financière.
 
 #### Art. 65
 
 **Montant**
 
-<sup>1</sup> Le montant annuel de l’aide financière ne peut excéder, pour chaque diffuseur, ni la compétence du Conseil-exécutif en matière d’autorisation de dépenses ni la somme des prestations des communes de la zone de diffusion concernée.
+<sup>1</sup> Le montant annuel de l’aide financière ne peut excéder, pour chaque offre médiatique, ni la compétence du Conseil-exécutif en matière d’autorisation de dépenses ni la somme des subventions des communes de la zone de diffusion concernée.
 
 #### Art. 66
 
 **Procédure**
 
-<sup>1</sup> Le diffuseur qui requiert une aide financière du canton présente une demande auprès de la Chancellerie d’Etat.
+<sup>1</sup> La diffuseuse ou le diffuseur qui requiert une aide financière du canton présente une demande auprès de la Chancellerie d’Etat.
 
-<sup>2</sup> Le requérant joint à sa demande son budget, son compte d’exploitation et son plan d’affaires.
+<sup>2</sup> La requérante ou le requérant joint à sa demande son budget, son compte d’exploitation et son plan d’affaires.
 
 <sup>3</sup> Le Conseil-exécutif fixe le montant de l’aide financière.
 

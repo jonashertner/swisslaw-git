@@ -4,13 +4,13 @@ number: "102.1"
 title: Gesetz über das Sonderstatut des Berner Juras und über die französischsprachige Minderheit des Verwaltungskreises Biel/Bienne
 short: "Sonderstatutsgesetz, SStG"
 language: de
-version: 2021-12-01
-valid_until: 2023-12-31
-version_adopted: 2021-03-08
+version: 2024-01-01
+valid_until: 2025-02-28
+version_adopted: 2022-09-05
 adopted: 2004-09-13
 in_force: 2006-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/102.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2644/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2930/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2644/pdf_file"
 
 (Sonderstatutsgesetz, SStG)
 
-vom 13.09.2004 (Stand 01.12.2021)
+vom 13.09.2004 (Stand 01.01.2024)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -655,13 +655,20 @@ beschliesst:
 
 ## 11 Finanzhilfen
 
-### 11.1 Lokale und regionale Veranstalter von Radioprogrammen
+### 11.1 Medienförderung
 
 #### Art. 63
 
 **Begünstigte**
 
-<sup>1</sup> Der Kanton kann einem lokalen oder regionalen Veranstalter von Radioprogrammen im Berner Jura sowie einem französischsprachigen lokalen oder regionalen Veranstalter von Radioprogrammen im Verwaltungskreis Biel/Bienne Finanzhilfe gewähren.
+<sup>1</sup> Der Kanton kann folgenden Medien Finanzhilfen gewähren:
+
+- a regionalen oder lokalen Medien im Berner Jura,
+- b regionalen oder lokalen französisch- oder zweisprachigen Medien im Verwaltungskreis Biel/Bienne.
+
+<sup>2</sup> Der Begriff der Medien richtet sich nach Artikel 2b des Gesetzes vom 2. November 1993 über die Information und die Medienförderung (IMG)[^63-1].
+
+[^63-1]: BSG [107.1](https://www.belex.sites.be.ch/data/107.1/de)
 
 #### Art. 64
 
@@ -669,11 +676,11 @@ beschliesst:
 
 <sup>1</sup> Die Finanzhilfe kann nur gewährt werden, wenn
 
-- a ein gewichtiger Teil der im Versorgungsgebiet liegenden Gemeinden den betreffenden Veranstalter ebenfalls finanziell unterstützt,
-- b die ausgestrahlten Programme und Sendungen weitgehend der Information dienen und zur Bildung der öffentlichen Meinung beitragen,
-- c der informative Inhalt der Programme und Sendungen von allgemeinem Interesse ist und besonders öffentliche Angelegenheiten des Kantons und der Gemeinden betrifft.
+- a ein gewichtiger Teil der im Versorgungsgebiet liegenden Gemeinden das betreffende Medienangebot ebenfalls finanziell unterstützt,
+- b die Medienangebote weitgehend der Information dienen und zur Bildung der öffentlichen Meinung beitragen und
+- c der informative Inhalt der Medienangebote von allgemeinem Interesse ist und insbesondere öffentliche Angelegenheiten des Kantons und der Gemeinden betrifft.
 
-<sup>2</sup> Die Finanzhilfe wird jährlich gewährt.
+<sup>2</sup> Sie wird jährlich gewährt.
 
 <sup>3</sup> Es besteht kein Anspruch auf Finanzhilfe.
 
@@ -681,15 +688,15 @@ beschliesst:
 
 **Höhe der Beiträge**
 
-<sup>1</sup> Die Höhe der jährlichen Finanzhilfe zu Gunsten eines Veranstalters darf weder die Ausgabenbefugnis des Regierungsrates noch die Gesamtsumme der Beiträge übersteigen, welche die Gemeinden des betreffenden Versorgungsgebiets ausrichten.
+<sup>1</sup> Die Höhe der jährlichen Finanzhilfe zugunsten eines Medienangebots darf weder die Ausgabenbefugnis des Regierungsrates noch die Gesamtsumme der Beiträge übersteigen, welche die Gemeinden des betreffenden Versorgungsgebiets ausrichten.
 
 #### Art. 66
 
 **Verfahren**
 
-<sup>1</sup> Das Gesuch um Gewährung einer Finanzhilfe ist vom Veranstalter bei der Staatskanzlei einzureichen.
+<sup>1</sup> Das Gesuch um Gewährung einer Finanzhilfe ist von der Medienanbieterin oder vom Medienanbieter bei der Staatskanzlei einzureichen.
 
-<sup>2</sup> Dem Gesuch sind das Budget, die Betriebsrechnung sowie der Geschäftsplan des Veranstalters beizulegen.
+<sup>2</sup> Dem Gesuch sind das Budget, die Betriebsrechnung sowie der Geschäftsplan der Medienanbieterin oder des Medienanbieters beizulegen.
 
 <sup>3</sup> Der Regierungsrat legt die Höhe der Finanzhilfe fest.
 
