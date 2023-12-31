@@ -4,13 +4,12 @@ number: "140.1"
 title: Gesetz über die Gemeinden
 short: GG
 language: de
-version: 2022-01-01
-valid_until: 2023-12-31
-version_adopted: 2021-10-06
+version: 2024-01-01
+version_adopted: 2023-10-12
 adopted: 1980-09-25
 in_force: 1982-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/140.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/6952/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7925/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Gemeinden – G
 
 (GG)
 
-vom 25.09.1980 (Fassung in Kraft getreten am 01.01.2022)
+vom 25.09.1980 (Fassung in Kraft getreten am 01.01.2024)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -1212,6 +1211,21 @@ beschliesst:
 
 **…**
 
+#### Art. 102a
+
+**Geschäftsverwaltungssysteme**
+
+<sup>1</sup> Die Gemeinden können Informations- und Dokumentationssysteme betreiben, die den reibungslosen Ablauf ihrer Geschäftsprozesse und die Verwaltung von Korrespondenz und anderen Dokumenten ermöglichen.
+
+<sup>2</sup> Diese Systeme können Personendaten, einschliesslich besonders schützenswerter Personendaten, enthalten, für die:
+
+- a) Behandlung von Angelegenheiten, die in den Zuständigkeitsbereich des betroffenen Organs fallen;
+- b) Organisation des Arbeitsablaufs;
+- c) Feststellung, ob Daten bearbeitet werden, die sich auf eine bestimmte Person beziehen;
+- d) Erleichterung des Zugangs zur Dokumentation.
+
+<sup>3</sup> Die Datenschutzgesetzgebung ist vorbehalten.
+
 #### Art. 103
 
 **Archiv**
@@ -1605,7 +1619,7 @@ beschliesst:
 
 **Gemeindeverband – Weitere Bestimmungen**
 
-<sup>1</sup> Die Bestimmungen dieses Gesetzes über das Gemeindepersonal (Art. 69–76), die Vertretung (Art. 83), das Amtsgeheimnis (Art. 83b), die Haftung (Art. 83c), die Gemeindeerlasse und -verfügungen (Art. 84–86), die Arbeiten, Lieferungen und Dienstleistungen (Art. 99), das Archiv (Art. 103) und das Einsichtsrecht (Art. 103<sup>bis</sup>) gelten auch für Gemeindeverbände.
+<sup>1</sup> Die Bestimmungen dieses Gesetzes über das Gemeindepersonal (Art. 69–76), die Vertretung (Art. 83), das Amtsgeheimnis (Art. 83b), die Haftung (Art. 83c), die Gemeindeerlasse und -verfügungen (Art. 84–86), die Arbeiten, Lieferungen und Dienstleistungen (Art. 99), das Führen von Geschäftsverwaltungssystemen (Art. 102a), das Archiv (Art. 103) und das Einsichtsrecht (Art. 103<sup>bis</sup>) gelten auch für Gemeindeverbände.
 
 #### Art. 127
 

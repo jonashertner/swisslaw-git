@@ -4,13 +4,12 @@ number: "140.1"
 title: Loi sur les communes
 short: LCo
 language: fr
-version: 2022-01-01
-valid_until: 2023-12-31
-version_adopted: 2021-10-06
+version: 2024-01-01
+version_adopted: 2023-10-12
 adopted: 1980-09-25
 in_force: 1982-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/140.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6952/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7925/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Communes – L
 
 (LCo)
 
-du 25.09.1980 (version entrée en vigueur le 01.01.2022)
+du 25.09.1980 (version entrée en vigueur le 01.01.2024)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -1212,6 +1211,21 @@ Décrète:
 
 **…**
 
+#### Art. 102a
+
+**Systèmes de gestion des affaires**
+
+<sup>1</sup> Les communes peuvent gérer des systèmes d'information et de documentation permettant d'assurer le bon déroulement de leurs processus opérationnels ainsi que la gestion de leur correspondance et d'autres documents.
+
+<sup>2</sup> Ces systèmes peuvent contenir des données personnelles, y compris des données personnelles sensibles, dans le but:
+
+- a) de traiter des affaires qui sont du ressort de l'organe concerné;
+- b) d'organiser le déroulement du travail;
+- c) de constater si des données se rapportant à une personne déterminée sont traitées;
+- d) de faciliter l'accès à la documentation.
+
+<sup>3</sup> La législation sur la protection des données est réservée.
+
 #### Art. 103
 
 **Archives**
@@ -1605,7 +1619,7 @@ Décrète:
 
 **Association de communes – Autres règles**
 
-<sup>1</sup> Les dispositions de la présente loi relatives au personnel communal (art. 69 à 76), à la représentation (art. 83), au secret de fonction (art. 83b), à la responsabilité civile (art. 83c), aux actes communaux (art. 84 à 86), aux travaux, fournitures et services (art. 99), aux archives (art. 103) et au droit de consultation (art. 103<sup>bis</sup>) sont applicables aux associations de communes.
+<sup>1</sup> Les dispositions de la présente loi relatives au personnel communal (art. 69 à 76), à la représentation (art. 83), au secret de fonction (art. 83b), à la responsabilité civile (art. 83c), aux actes communaux (art. 84 à 86), aux travaux, fournitures et services (art. 99), à la tenue de systèmes de gestion des affaires (art. 102a), aux archives (art. 103) et au droit de consultation (art. 103<sup>bis</sup>) sont applicables aux associations de communes.
 
 #### Art. 127
 
