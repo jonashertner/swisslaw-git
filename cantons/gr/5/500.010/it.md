@@ -4,13 +4,13 @@ number: "500.010"
 title: Ordinanza relativa alla legge sanitaria
 short: OLSan
 language: it
-version: 2023-02-01
-valid_until: 2023-12-31
-version_adopted: 2023-01-24
+version: 2024-01-01
+valid_until: 2024-12-31
+version_adopted: 2023-12-19
 adopted: 2017-06-20
 in_force: 2018-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/500.010"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3296/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3350/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/3296/pdf_file"
 
 (OLSan)
 
-del 20.06.2017 (stato 01.02.2023)
+del 20.06.2017 (stato 01.01.2024)
 
 emanata dal Governo il 20 giugno 2017
 
@@ -122,7 +122,8 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 - a) vaccinazione contro l'influenza;
 - b) vaccinazione contro la meningoencefalite verno-estiva (MEVE);
 - c) tutti i richiami dei vaccini conformemente al calendario vaccinale svizzero;
-- d) vaccinazione contro la COVID-19.
+- d) vaccinazione contro la COVID-19;
+- e) vaccinazione contro l'herpes zoster nel caso di persone immunocompetenti, se non vengono utilizzati vaccini vivi.
 
 <sup>3</sup> I farmacisti che desiderano effettuare vaccinazioni devono previamente annunciarsi al farmacista cantonale utilizzando il modulo previsto a tale scopo.
 

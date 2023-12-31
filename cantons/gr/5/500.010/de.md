@@ -4,13 +4,13 @@ number: "500.010"
 title: Verordnung zum Gesundheitsgesetz
 short: VOzGesG
 language: de
-version: 2023-02-01
-valid_until: 2023-12-31
-version_adopted: 2023-01-24
+version: 2024-01-01
+valid_until: 2024-12-31
+version_adopted: 2023-12-19
 adopted: 2017-06-20
 in_force: 2018-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/500.010"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3296/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3350/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/3296/pdf_file"
 
 (VOzGesG)
 
-Vom 20.06.2017 (Stand 01.02.2023)
+Vom 20.06.2017 (Stand 01.01.2024)
 
 Gestützt auf Art. 45 Abs. 1 der Kantonsverfassung[^ingress-1]
 
@@ -122,7 +122,8 @@ von der Regierung erlassen am 20. Juni 2017
 - a) Impfung gegen Grippe;
 - b) Impfung gegen Frühsommer-Meningoenzephalitis (FSME);
 - c) alle Folgeimpfungen gemäss Schweizerischem Impfplan;
-- d) Impfung gegen COVID-19.
+- d) Impfung gegen COVID-19;
+- e) Impfung gegen Herpes Zoster bei immunkompetenten Personen, sofern keine Lebendimpfstoffe verwendet werden.
 
 <sup>3</sup> Apothekerinnen und Apotheker, die impfen möchten, müssen sich vorgängig mit dem dafür vorgesehenen Formular bei der Kantonsapothekerin oder dem Kantonsapotheker melden.
 

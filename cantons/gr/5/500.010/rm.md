@@ -4,13 +4,13 @@ number: "500.010"
 title: Ordinaziun tar la lescha da sanadad
 short: OtLSan
 language: rm
-version: 2023-02-01
-valid_until: 2023-12-31
-version_adopted: 2023-01-24
+version: 2024-01-01
+valid_until: 2024-12-31
+version_adopted: 2023-12-19
 adopted: 2017-06-20
 in_force: 2018-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/500.010"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3296/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3350/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3296/pdf_file"
 
 (OtLSan)
 
-dals 20-06-2017 (versiun dals 01-02-2023)
+dals 20-06-2017 (versiun dals 01-01-2024)
 
 Sa basond sin l'art. 45 al. 1 da la constituziun chantunala[^ingress-1]
 
@@ -122,7 +122,8 @@ relaschada da la regenza ils 20 da zercladur 2017
 - a) vaccinaziun cunter la grippa;
 - b) vaccinaziun cunter encefalitis da zeccas (FSME);
 - c) tut las vaccinaziuns consecutivas tenor il Plan da vaccinaziun svizzer;
-- d) vaccinaziun cunter COVID-19.
+- d) vaccinaziun cunter COVID-19;
+- e) vaccinaziun cunter herpes zoster tar persunas immunocumpetentas, premess ch'i na vegnan betg utilisads vaccins vivs.
 
 <sup>3</sup> Apotecras ed apotechers che vulessan vaccinar, ston s'annunziar ordavant tar l'apotecra chantunala u l'apotecher chantunal cun il formular previs per quest intent.
 
