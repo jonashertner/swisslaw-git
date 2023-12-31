@@ -3,20 +3,19 @@ canton: SO
 number: "424.581.1"
 title: Errichtung einer Pensionskasse für die christkatholischen und evangelisch-reformierten Geistlichen des Kantons Solothurn
 language: de
-version: 1963-06-26
-valid_until: 2023-12-31
-version_adopted: 1963-06-26
+version: 2024-01-01
+version_adopted: 2023-05-17
 adopted: 1920-10-20
 in_force: 1920-10-20
 url: "https://bgs.so.ch/app/de/texts_of_law/424.581.1"
-pdf: "https://bgs.so.ch/api/de/versions/3746/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5406/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Errichtung einer Pensionskasse für die christkatholischen und evangelisch-reformierten Geistlichen des Kantons Solothurn
 
-Vom 20.10.1920 (Stand 26.06.1963)
+Vom 20.10.1920 (Stand 01.01.2024)
 
 Der Kantonsrat von Solothurn
 
@@ -50,7 +49,7 @@ beschliesst :
 
 **IV. Statuten**
 
-<sup>1</sup> Die von der Hauptversammlung der Versicherten und den Delegierten der beidseitigen Kirchgemeindeverbände festzustellenden und der Genehmigung des Regierungsrates unterliegenden Statuten bestimmen im Rahmen der Grundsätze dieses Beschlusses:
+<sup>1</sup> Die von der Hauptversammlung der Versicherten und den Delegierten der beidseitigen Kirchgemeindeverbände festzustellenden Statuten bestimmen im Rahmen der Grundsätze dieses Beschlusses:
 
 - a) die Beiträge der Versicherten an die Pensionskasse;
 - b) die Leistungen der Pensionskasse an die Versicherten und ihre Hinterbliebenen hinsichtlich der Höhe der Renten und durch Umgrenzung des Kreises der Anspruchsberechtigten;
@@ -104,7 +103,7 @@ beschliesst :
 
 - a) die Zinse des Stammkapitals;
 - b) die jährlichen Beiträge (Prämien), die Nachzahlungen und die Wiedereinzahlungen der Mitglieder;
-- c) die jährlichen Beiträge des Staates;
+- c) …
 - d) die jährlichen Beiträge der Kirchgemeinden;
 - e) allfällige weitere Subventionen.
 
@@ -122,9 +121,7 @@ beschliesst :
 
 #### § 11
 
-**d) Staatsbeitrag[^11-1]**
-
-[^11-1]: Die Beiträge des Staates werden nach § 12 des Gesetzes über die Beteiligung des Staates an der Roth-Stiftung des Kantons Solothurn vom 29. März 1925, Fassung vom 31. März 1946 ([423.581.2](https://bgs.so.ch/data/423.581.2/de)), berechnet.
+**…**
 
 #### § 12
 
@@ -152,11 +149,11 @@ beschliesst :
 
 **X. Organisation a) Generalversammlung und Verwaltungskommission**
 
-<sup>1</sup> Die Pensionskasse wird durch die Versicherten, die Kirchgemeindeverbände und den Staat verwaltet.
+<sup>1</sup> Die Pensionskasse wird durch die Versicherten und die Kirchgemeindeverbände verwaltet.
 
-<sup>2</sup> Die Generalversammlung besteht aus den Versicherten sowie je 3 Delegierten des Verbandes der evangelisch-reformierten Kirchgemeinden und der Gesamtheit der christkatholischen Kirchgemeinden. Der Vertreter des Staates und die Vertreter der beidseitigen Kirchgemeinden in der Verwaltungskommission sind berechtigt, an der Generalversammlung mit beratender Stimme teilzunehmen.
+<sup>2</sup> Die Generalversammlung besteht aus den Versicherten sowie je 3 Delegierten des Verbandes der evangelisch-reformierten Kirchgemeinden und der Gesamtheit der christkatholischen Kirchgemeinden. Die Vertreter der beidseitigen Kirchgemeinden in der Verwaltungskommission sind berechtigt, an der Generalversammlung mit beratender Stimme teilzunehmen.
 
-<sup>3</sup> Die Verwaltungskommission setzt sich aus 9 Mitgliedern zusammen. Die Geistlichkeit bezeichnet in der Hauptversammlung in konfessionell getrennter Wahlverhandlung der christkatholischen und evangelisch-reformierten Pfarrer für jede dieser Gruppen 2 Mitglieder. Dem Staat steht ein vom Regierungsrat zu ernennender Vertreter zu. Der Verband der evangelisch-reformierten Kirchgemeinden und die Gesamtheit der christkatholischen Kirchgemeinden bezeichnen je 2 Vertreter.
+<sup>3</sup> Die Verwaltungskommission setzt sich aus 8 Mitgliedern zusammen. Die Geistlichkeit bezeichnet in der Hauptversammlung in konfessionell getrennter Wahlverhandlung der christkatholischen und evangelisch-reformierten Pfarrer für jede dieser Gruppen 2 Mitglieder. Der Verband der evangelisch-reformierten Kirchgemeinden und die Gesamtheit der christkatholischen Kirchgemeinden bezeichnen je 2 Vertreter.
 
 #### § 16
 
@@ -166,9 +163,7 @@ beschliesst :
 
 #### § 17
 
-**XI. Verhältnis zum Staat**
-
-<sup>1</sup> Dem Regierungsrat ist alljährlich durch die Verwaltungskommission ein Bericht mit Vermögens- und Verwaltungsrechnung einzureichen.
+**…**
 
 #### § 18
 
