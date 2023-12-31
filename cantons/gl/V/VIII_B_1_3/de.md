@@ -4,13 +4,12 @@ number: VIII B/1/3
 title: Einführungsgesetz zum Bundesgesetz über den Umweltschutz
 short: "Kantonales Umweltschutzgesetz, EG USG"
 language: de
-version: 2018-07-01
-valid_until: 2023-12-31
-version_adopted: 2018-05-06
+version: 2024-01-01
+version_adopted: 2023-05-07
 adopted: 1989-05-07
 in_force: 1990-01-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/VIII-B.1.3"
-pdf: "https://gesetze.gl.ch/api/de/versions/2033/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2448/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2033/pdf_file"
 
 (Kantonales Umweltschutzgesetz, EG USG)
 
-Vom 07.05.1989 (Stand 01.07.2018)
+Vom 07.05.1989 (Stand 01.01.2024)
 
 (Erlassen von der Landsgemeinde am 7. Mai 1989)
 
@@ -147,7 +146,7 @@ Vom 07.05.1989 (Stand 01.07.2018)
 
 <sup>1</sup> Die Gemeinden sorgen im Baubewilligungsverfahren dafür, dass die Vorschriften der eidgenössischen Luftreinhalteverordnung eingehalten werden.
 
-<sup>2</sup> Die Gemeinden sorgen für die Kontrolle der Anlagen in ihrem Zuständigkeitsbereich (Art. 12 Abs. 3).
+<sup>2</sup> Die Gemeinden sorgen für die Kontrolle der Anlagen in ihrem Zuständigkeitsbereich (Art. 12 Abs. 2).
 
 <sup>3</sup> Die Gemeinden können ihre Kontrollaufgaben auch Privaten übertragen. Die von den Gemeinden beauftragten Kontrolleure benötigen eine ausreichende Ausbildung und Ausrüstung sowie eine Zulassung der zuständigen kantonalen Verwaltungsbehörde.
 
@@ -157,7 +156,7 @@ Vom 07.05.1989 (Stand 01.07.2018)
 
 <sup>1</sup> Die zuständige kantonale Verwaltungsbehörde
 
-- a. kontrolliert diejenigen Anlagen, welche nach Artikel 12 Absatz 3 nicht von den Gemeinden kontrolliert werden, und ordnet die notwendigen Massnahmen an;
+- a. kontrolliert diejenigen Anlagen, welche nach Artikel 12 Absatz 2 nicht von den Gemeinden kontrolliert werden, und ordnet die notwendigen Massnahmen an;
 - b. koordiniert und überwacht die Kontrolltätigkeit der Gemeinden.
 
 #### Art. 15
@@ -407,6 +406,18 @@ Vom 07.05.1989 (Stand 01.07.2018)
 <sup>1</sup> Der Regierungsrat kann vorschreiben, dass der Inhaber einer Deponie dem Kanton für die Ablagerung von Abfällen eine Abgabe entsprechend derjenigen von Artikel 32e des Bundesgesetzes entrichtet.[^35-1] Die Abgaben dürfen nur zur Abgeltung der Kosten für die Sanierung von Deponien oder von anderen durch Abfälle belasteten Standorten verwendet werden.
 
 [^35-1]: GS [VIII B/3/4](https://gesetze.gl.ch/data/VIII-B.3.4/de)
+
+#### Art. 35a
+
+**Nachsorge von Deponien**
+
+<sup>1</sup> Der Kanton kann vom Inhaber einer Deponie eine Abgabe für die Nachsorge erheben.
+
+<sup>2</sup> Die Abgabe kann in jeder Bewilligungsperiode der Deponie oder eines Kompartiments erhoben werden.
+
+<sup>3</sup> Die Abgabe fliesst in einen Nachsorgefonds. Dieser dient der Finanzierung der erforderlichen Nachsorgearbeiten.
+
+<sup>4</sup> Der Regierungsrat legt insbesondere den Abgabesatz, die Zahlungskonditionen sowie die Veranlagungs- und Bezugsbehörde fest und regelt die Ausführung der Nachsorge.
 
 #### Art. 36
 
