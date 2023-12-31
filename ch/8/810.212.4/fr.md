@@ -3,11 +3,11 @@ sr: "810.212.4"
 title: "Ordonnance du 16 mars 2007 sur l'attribution d'organes destinés à une transplantation (Ordonnance sur l'attribution d'organes)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/281"
 language: fr
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2007-03-16
 in_force: 2007-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/281/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2007-281-20230901-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/281/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/281/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-281-20240101-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/281/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/281/20230901/fr"
 
 (Ordonnance sur l’attribution d’organes)
 
-du 16 mars 2007 (État le 1<sup>er</sup> septembre 2023)
+du 16 mars 2007 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -629,21 +629,23 @@ Le service national des attributions est habilité, dans le cadre d’une offre 
 
 #### Art. 34i
 
-**Sécurité des données et documentation**
+**Sécurité des données[^34i-1]**
 
 <sup>1</sup>
 
 La sécurité des données est régie par:
 
-- a.[^34i-1] les art. 1 à 4 et 6 de l’ordonnance du 31 août 2022 sur la protection des données[^34i-2];
-- b. l’ordonnance du 27 mai 2020 sur les cyberrisques[^34i-3].[^34i-4]
+- a.[^34i-2] les art. 1 à 4 et 6 de l’ordonnance du 31 août 2022 sur la protection des données[^34i-3];
+- b.[^34i-4] l’ordonnance du 8 novembre 2023 sur la sécurité de l’information[^34i-5].[^34i-6]
 
 <sup>2</sup> Les accès à SOAS sont documentés.
 
-[^34i-1]: Nouvelle teneur selon l’annexe 2 ch. II 94 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^34i-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^34i-3]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^34i-4]: Nouvelle teneur selon l’annexe ch. 30 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^34i-1]: Nouvelle teneur selon l’annexe 2 ch. II 37 de l’O du 8 nov. 2023 sur la sécurité de l’information, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^34i-2]: Nouvelle teneur selon l’annexe 2 ch. II 94 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^34i-3]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^34i-4]: Nouvelle teneur selon l’annexe 2 ch. II 37 de l’O du 8 nov. 2023 sur la sécurité de l’information, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^34i-5]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^34i-6]: Nouvelle teneur selon l’annexe ch. 30 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 34j
 

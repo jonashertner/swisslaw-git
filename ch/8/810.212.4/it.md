@@ -3,11 +3,11 @@ sr: "810.212.4"
 title: "Ordinanza del 16 marzo 2007 concernente l'attribuzione di organi per il trapianto (Ordinanza sull'attribuzione di organi)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/281"
 language: it
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2007-03-16
 in_force: 2007-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/281/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2007-281-20230901-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/281/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/281/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2007-281-20240101-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/281/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/281/20230901/it"
 
 (Ordinanza sull’attribuzione di organi)
 
-del 16 marzo 2007 (Stato 1° settembre 2023)
+del 16 marzo 2007 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -627,22 +627,24 @@ Il servizio nazionale di attribuzione può, in caso di offerta di organi all’e
 
 #### Art. 34i
 
-**Sicurezza dei dati e verbalizzazione**
+**Sicurezza dei dati[^34i-1]**
 
 <sup>1</sup>
 
-La sicurezza dei dati è disciplinata:[^34i-1]
+La sicurezza dei dati è disciplinata:[^34i-2]
 
-- a.[^34i-2] dagli articoli 1–4 e 6 dell’ordinanza del 31 agosto 2022[^34i-3] sulla protezione dei dati;
-- b. l’ordinanza del 27 maggio 2020[^34i-4] sui ciber-rischi.[^34i-5]
+- a.[^34i-3] dagli articoli 1–4 e 6 dell’ordinanza del 31 agosto 2022[^34i-4] sulla protezione dei dati;
+- b.[^34i-5] dall’ordinanza dell’8 novembre 2023[^34i-6] sulla sicurezza delle informazioni.[^34i-7]
 
 <sup>2</sup> Gli accessi a SOAS sono verbalizzati.
 
-[^34i-1]: Nuovo testo giusta l’all. 2 n. II 94 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^34i-1]: Nuovo testo giusta l’all. 2 n. II 37 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
 [^34i-2]: Nuovo testo giusta l’all. 2 n. II 94 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^34i-3]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^34i-4]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^34i-5]: Nuovo testo giusta l’all. n. 30 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^34i-3]: Nuovo testo giusta l’all. 2 n. II 94 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^34i-4]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^34i-5]: Nuovo testo giusta l’all. 2 n. II 37 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^34i-6]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^34i-7]: Nuovo testo giusta l’all. n. 30 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 34j
 
