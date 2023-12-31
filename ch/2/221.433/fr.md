@@ -4,11 +4,11 @@ title: Ordonnance du 3 décembre 2021 sur les devoirs de diligence et de transpa
 short: ODiTr
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/847"
 language: fr
-version: 2022-01-01
+version: 2024-01-01
 adopted: 2021-12-03
 in_force: 2022-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/847/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2021-847-20220101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/847/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/847/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2021-847-20240101-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/847/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/847/20220101/fr"
 
 (ODiTr)
 
-du 3 décembre 2021 (Etat le 1<sup>er</sup> janvier 2022)
+du 3 décembre 2021 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -70,7 +70,7 @@ Au sens de la présente ordonnance, on entend par:
     - – toute forme de travail accompli dans le cadre ou en dehors de rapports de travail par des personnes soumises à la scolarité obligatoire ou âgées de moins de 15 ans, et
     - – toute forme de travail accompli dans le cadre ou en dehors de rapports de travail par des personnes de moins de 18 ans qui, par sa nature ou les conditions dans lesquelles il s’exerce, est susceptible de compromettre leur santé, leur sécurité ou leur moralité.
 
-- [tab] <sup>2</sup> Le travail des enfants au sens de l’al. 1, let. f, n’inclut ni les activités effectuées dans le cadre d’une formation professionnelle ni les travaux légers au sens des art. 6 et 7 de la convention n<sup>o</sup> 138 de l’OIT.
+<sup>2</sup> Le travail des enfants au sens de l’al. 1, let. f, n’inclut ni les activités effectuées dans le cadre d’une formation professionnelle ni les travaux légers au sens des art. 6 et 7 de la convention n<sup>o</sup> 138 de l’OIT.
 
 [^2-1]: [RS 0.822.728.2](https://fedlex.data.admin.ch/eli/cc/2003/168)
 [^2-2]: [RS 0.822.723.8](https://fedlex.data.admin.ch/eli/cc/2001/204)
@@ -308,11 +308,13 @@ Les entreprises qui ont leur siège en Suisse ne sont pas tenues d’établir le
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2022.
 
-Annexe 1
+Annexe 1[^t-1]
 
 (art. 2, al. 1, let. c et d, et 4, al. 1)
 
 ## Liste des minerais et des métaux pour lesquels il existe des seuils de volume d’importation et de transformation en dessous desquels les entreprises sont exemptées des devoirs de diligence et de l’obligation de faire rapport
+
+[^t-1]: Mise à jour par l’annexe 2 ch. II 1 de l’O du 15 fév. 2023 modifiant le tarif des douanes, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 86](https://fedlex.data.admin.ch/eli/oc/2023/86)).
 
 ### Partie A Minerais
 
@@ -331,9 +333,9 @@ Annexe 1
 <tr><th>Désignation</th><th>Numéro tarifaire</th><th>Seuils de volume d’importation et de transformation en-dessous desquels les entreprises sont exemptées des devoirs de diligence et de l’obligation de faire rapport (en kg par an)</th></tr>
 <tr><td>Oxydes et hydroxydes de tungstène</td><td>ex 2825 90 00</td><td>100 000</td></tr>
 <tr><td>Oxydes et hydroxydes d’étain</td><td>ex 2825 90 00</td><td>3 600</td></tr>
-<tr><td>Chlorure d’étain</td><td>ex 2827 39 90</td><td>10 000</td></tr>
+<tr><td>Chlorure d’étain</td><td>2827 39 00</td><td>10 000</td></tr>
 <tr><td>Tungstates</td><td>2841 80 00</td><td>100 000</td></tr>
-<tr><td>Tantalates</td><td>ex 2841 90 90</td><td>30</td></tr>
+<tr><td>Tantalates</td><td>2841 90 00</td><td>30</td></tr>
 <tr><td>Carbures de tungstène</td><td>ex 2849 90 00</td><td>10 000</td></tr>
 <tr><td>Carbures de tantale</td><td>ex 2849 90 00</td><td>770</td></tr>
 <tr><td>Or brut, mi-ouvré ou en poudre</td><td>ex 7108</td><td>100</td></tr>
@@ -346,7 +348,7 @@ Annexe 1
 <tr><td>Tungstène en fils</td><td>8101 96 00</td><td>250</td></tr>
 <tr><td>Autres produits mi-ouvrés et ouvrages en tungstène</td><td>8101 99 00</td><td>350</td></tr>
 <tr><td>Tantale brut, y compris les barres simplement obtenues par frittage, ou en poudre</td><td>8103 20 00</td><td>2 500</td></tr>
-<tr><td>Autres produits mi-ouvrés et ouvrages en tantale</td><td>8103 90 00</td><td>150</td></tr>
+<tr><td>Autres produits mi-ouvrés et ouvrages en tantale</td><td>8103 91 00/ 8103 99 00</td><td>150</td></tr>
 </table>
 
 Annexe 2
@@ -370,8 +372,7 @@ Les entreprises doivent respecter les réglementations suivantes pour être exem
 Les entreprises doivent respecter les réglementations suivantes pour être exemptées des devoirs de diligence et de l’obligation de faire rapport en application de l’art. 9:
 
 - 1\. les conventions n<sup>o</sup> 138[^annex2-lvlu1-partB-1] et 182[^annex2-lvlu1-partB-2] de l’OIT et l’outil d’orientation du BIT et de l’OIE du 15 décembre 2015 sur le travail des enfants à l’intention des entreprises[^annex2-lvlu1-partB-3], et
-
-\2. le Guide OCDE du 30 mai 2018 sur le devoir de diligence pour une conduite responsable des entreprises[^annex2-lvlu1-partB-4] ou les Principes directeurs des Nations Unies relatifs aux entreprises et aux droits de l’homme[^annex2-lvlu1-partB-5].
+- 2\. le Guide OCDE du 30 mai 2018 sur le devoir de diligence pour une conduite responsable des entreprises[^annex2-lvlu1-partB-4] ou les Principes directeurs des Nations Unies relatifs aux entreprises et aux droits de l’homme[^annex2-lvlu1-partB-5].
 
 [^annex2-lvlu1-partB-1]: [RS 0.822.723.8](https://fedlex.data.admin.ch/eli/cc/2001/204)
 [^annex2-lvlu1-partB-2]: [RS 0.822.728.2](https://fedlex.data.admin.ch/eli/cc/2003/168)

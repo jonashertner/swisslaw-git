@@ -4,11 +4,11 @@ title: Verordnung vom 3. Dezember 2021 über Sorgfaltspflichten und Transparenz 
 short: VSoTr
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/847"
 language: de
-version: 2022-01-01
+version: 2024-01-01
 adopted: 2021-12-03
 in_force: 2022-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/847/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2021-847-20220101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/847/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/847/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2021-847-20240101-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/847/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/847/20220101/de"
 
 (VSoTr)
 
-vom 3. Dezember 2021 (Stand am 1. Januar 2022)
+vom 3. Dezember 2021 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -308,11 +308,13 @@ Ein Unternehmen mit Sitz in der Schweiz muss keinen separaten Bericht verfassen,
 
 Diese Verordnung tritt am 1. Januar 2022 in Kraft.
 
-Anhang 1
+Anhang 1[^t-1]
 
 (Art. 2 Abs. 1 Bst. c und d und Art. 4 Abs. 1)
 
 ## Liste der Mineralien und Metalle, für die Einfuhr- und Bearbeitungsmengen bestehen, bis zu denen Unternehmen von der Sorgfalts- und Berichterstattungspflicht befreit sind
+
+[^t-1]: Bereinigt gemäss Anhang 2 Ziff. II 1 der V vom 15. Febr. 2023 über die Änderung des Zolltarifs, in Kraft seit 1. Jan. 2024 ([AS 2023 86](https://fedlex.data.admin.ch/eli/oc/2023/86)).
 
 ### Teil A. Mineralien
 
@@ -331,9 +333,9 @@ Anhang 1
 <tr><th>Bezeichnung</th><th>Tarifnummer</th><th>Einfuhr- und Bearbeitungsmengen, bis zu denen Unternehmen von der Sorgfalts- und Berichterstattungspflicht befreit sind (kg/Jahr)</th></tr>
 <tr><td>Wolframoxide und -hydroxide</td><td>ex 2825 90 00</td><td>100 000</td></tr>
 <tr><td>Zinnoxide und -hydroxide</td><td>ex 2825 90 00</td><td>3 600</td></tr>
-<tr><td>Zinnchloride</td><td>ex 2827 39 90</td><td>10 000</td></tr>
+<tr><td>Zinnchloride</td><td>ex 2827 39 00</td><td>10 000</td></tr>
 <tr><td>Wolframate (Tungstate)</td><td>2841 80 00</td><td>100 000</td></tr>
-<tr><td>Tantalate</td><td>ex 2841 90 90</td><td>30</td></tr>
+<tr><td>Tantalate</td><td>ex 2841 90 00</td><td>30</td></tr>
 <tr><td>Carbide des Wolframs</td><td>ex 2849 90 00</td><td>10 000</td></tr>
 <tr><td>Carbide des Tantals</td><td>ex 2849 90 00</td><td>770</td></tr>
 <tr><td>Gold, in Rohform, als Halbzeug oder in Pulverform</td><td>ex 7108</td><td>100</td></tr>
@@ -346,7 +348,7 @@ Anhang 1
 <tr><td>Wolfram, als Draht</td><td>8101 96 00</td><td>250</td></tr>
 <tr><td>Andere Halbfabrikate und Waren aus Wolfram</td><td>8101 99 00</td><td>350</td></tr>
 <tr><td>Tantal in Rohform, einschließlich nur gesinterte Stäbe und Stangen und in Pulverform</td><td>8103 20 00</td><td>2 500</td></tr>
-<tr><td>Andere Halbfabrikate und Waren aus Tantal</td><td>8103 90 00</td><td>150</td></tr>
+<tr><td>Andere Halbfabrikate und Waren aus Tantal</td><td>8103 91 00 / 8103 99 00</td><td>150</td></tr>
 </table>
 
 Anhang 2

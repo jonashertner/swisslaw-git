@@ -4,11 +4,11 @@ title: Ordinance of 3 December 2021 on Due Diligence and Transparency in relatio
 short: DDTrO
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/847"
 language: en
-version: 2022-01-01
+version: 2024-01-01
 adopted: 2021-12-03
 in_force: 2022-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/847/20220101/en/xml/fedlex-data-admin-ch-eli-cc-2021-847-20220101-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/847/20220101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/847/20240101/en/xml/fedlex-data-admin-ch-eli-cc-2021-847-20240101-en-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/847/20240101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (DDTrO)
 
-of 3 December 2021 (Status as of 1 January 2022)
+of 3 December 2021 (Status as of 1 January 2024)
 
 The Swiss Federal Council,
 
@@ -141,7 +141,7 @@ A low risk in relation to child labour is assumed if a company operating in coun
 
 <sup>3</sup> Undertakings must document the extent to which they have a low risk in relation to child labour.
 
-[^7-1]: Available at: www.childrensrightsatlas.org &gt; data and indices.
+[^7-1]: Available at: www.childrensrightsatlas.org &gt; data and indices
 
 #### Art. 8
 
@@ -307,11 +307,13 @@ An undertaking registered in Switzerland does is not required to prepare a separ
 
 This Ordinance comes into force on 1 January 2022.
 
-Annex 1
+Annex 1[^t-1]
 
 (Art. 2 para. 1 lets c and d and Art. 4 para. 1)
 
 ## List of minerals and metals for which there are import and processing quantities below which undertakings are exempt from the due diligence and reporting obligations
+
+[^t-1]: Revised by Annex 2 No II 1 of the O of 15 Feb. 2023 on the Amendment of the Customs Tariff, in force since 1 Jan. 2024 ([AS 2023 86](https://fedlex.data.admin.ch/eli/oc/2023/86)).
 
 ### Part A. Minerals
 
@@ -330,9 +332,9 @@ Annex 1
 <tr><th>Name</th><th>Tariff number</th><th>Import and processing quantities below which undertakings are exempt from the due diligence and reporting obligations (kg/year)</th></tr>
 <tr><td>Tungsten oxides and hydroxides</td><td>ex 2825 90 00</td><td>100 000</td></tr>
 <tr><td>Tin oxides and hydroxides</td><td>ex 2825 90 00</td><td>3 600</td></tr>
-<tr><td>Tin chloride</td><td>ex 2827 39 90</td><td>10 000</td></tr>
+<tr><td>Tin chloride</td><td>ex 2827 39 00</td><td>10 000</td></tr>
 <tr><td>Tungstates</td><td>2841 80 00</td><td>100 000</td></tr>
-<tr><td>Tantalates</td><td>ex 2841 90 90</td><td>30</td></tr>
+<tr><td>Tantalates</td><td>ex 2841 90 00</td><td>30</td></tr>
 <tr><td>Tungsten carbides</td><td>ex 2849 90 00</td><td>10 000</td></tr>
 <tr><td>Tantalum carbides</td><td>ex 2849 90 00</td><td>770</td></tr>
 <tr><td>Gold, in unwrought, semi-manufactured or powder form</td><td>ex 7108</td><td>100</td></tr>
@@ -345,7 +347,7 @@ Annex 1
 <tr><td>Tungsten, as wire</td><td>8101 96 00</td><td>250</td></tr>
 <tr><td>Other semi-manufactures and articles of tungsten</td><td>8101 99 00</td><td>350</td></tr>
 <tr><td>Tantalum unwrought, including only sintered bars and rods and in powder form</td><td>8103 20 00</td><td>2 500</td></tr>
-<tr><td>Other semi-manufactures and articles of tantalum</td><td>8103 90 00</td><td>150</td></tr>
+<tr><td>Other semi-manufactures and articles of tantalum</td><td>8103 91 00 / 8103 99 00</td><td>150</td></tr>
 </table>
 
 Annex 2
@@ -373,6 +375,6 @@ In order to be exempt from the due diligence and reporting obligations under Art
 
 [^annex2-lvlu1-partB-1]: [SR 0.822.723.8](https://fedlex.data.admin.ch/eli/cc/2001/204)
 [^annex2-lvlu1-partB-2]: [SR 0.822.728.2](https://fedlex.data.admin.ch/eli/cc/2003/168)
-[^annex2-lvlu1-partB-3]: Available at: www.ilo.org/ipec.
-[^annex2-lvlu1-partB-4]: Available at: http://mneguidelines.oecd.org &gt; Due Diligence.
+[^annex2-lvlu1-partB-3]: Available at: www.ilo.org/ipec
+[^annex2-lvlu1-partB-4]: Available at: http://mneguidelines.oecd.org &gt; Due Diligence
 [^annex2-lvlu1-partB-5]: Available at: www.ohchr.org &gt; publications and resources &gt; publications &gt; Reference materials &gt; Guiding Principles on Business and Human Rights: Implementing the United Nations "Protect, Respect and Remedy" Framework

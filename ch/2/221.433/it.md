@@ -4,11 +4,11 @@ title: Ordinanza del 3 dicembre 2021 sugli obblighi di diligenza e trasparenza i
 short: ODiT
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/847"
 language: it
-version: 2022-01-01
+version: 2024-01-01
 adopted: 2021-12-03
 in_force: 2022-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/847/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2021-847-20220101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/847/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/847/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2021-847-20240101-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/847/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/847/20220101/it"
 
 (ODiT)
 
-del 3 dicembre 2021 (Stato 1° gennaio 2022)
+del 3 dicembre 2021 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -308,11 +308,13 @@ Un’impresa con sede in Svizzera non è tenuta a redigere una relazione separat
 
 La presente ordinanza entra in vigore il 1° gennaio 2022.
 
-Allegato 1
+Allegato 1[^t-1]
 
 (art. 2 cpv. 1 lett. c e d e 4 cpv. 1)
 
 ## Elenco dei minerali e dei metalli e relativi volumi di importazione e lavorazione al di sotto dei quali un’impresa è dispensata dall’obbligo di diligenza e di riferire
+
+[^t-1]: Aggiornato dall’all. 2 n. II 1 dell’O del 15 feb. 2023 concernente la modifica della tariffa doganale, in vigore dal 1° gen. 2024 ([RU 2023 86](https://fedlex.data.admin.ch/eli/oc/2023/86)).
 
 ### Parte A Minerali
 
@@ -328,12 +330,12 @@ Allegato 1
 ### Parte B Metalli
 
 <table>
-<tr><td>Denominazione</td><td>Voce di tariffa</td><td>Volumi di importazione e lavorazione al di sotto dei quali un’impresa è dispensata dall’obbligo di diligenza e di riferire (kg/anno)</td></tr>
+<tr><th>Denominazione</th><th>Voce di tariffa</th><th>Volumi di importazione e lavorazione al di sotto dei quali un’impresa è dispensata dall’obbligo di diligenza e di riferire (kg/anno)</th></tr>
 <tr><td>Ossidi e idrossidi di tungsteno</td><td>ex 2825 90 00</td><td>100 000</td></tr>
 <tr><td>Ossidi e idrossidi di stagno</td><td>ex 2825 90 00</td><td>3 600</td></tr>
-<tr><td>Cloruro di stagno</td><td>ex 2827 39 90</td><td>10 000</td></tr>
+<tr><td>Cloruro di stagno</td><td>2827 39 00</td><td>10 000</td></tr>
 <tr><td>Tungstati</td><td>2841 80 00</td><td>100 000</td></tr>
-<tr><td>Tantalati</td><td>ex 2841 90 90</td><td>30</td></tr>
+<tr><td>Tantalati</td><td>2841 90 00</td><td>30</td></tr>
 <tr><td>Carburi di tungsteno</td><td>ex 2849 90 00</td><td>10 000</td></tr>
 <tr><td>Carburi di tantalio</td><td>ex 2849 90 00</td><td>770</td></tr>
 <tr><td>Oro greggio o semilavorato oppure in polvere</td><td>ex 7108</td><td>100</td></tr>
@@ -346,7 +348,7 @@ Allegato 1
 <tr><td>Fili di tungsteno</td><td>8101 96 00</td><td>250</td></tr>
 <tr><td>Tungsteno; altri semilavorati e articoli</td><td>8101 99 00</td><td>350</td></tr>
 <tr><td>Tantalio greggio, comprese le barre, ottenute semplicemente per sinterizzazione; polveri</td><td>8103 20 00</td><td>2 500</td></tr>
-<tr><td>Tantalio; altri semilavorati e articoli</td><td>8103 90 00</td><td>150</td></tr>
+<tr><td>Tantalio; altri semilavorati e articoli</td><td>8103 91 00/ 8103 99 00</td><td>150</td></tr>
 </table>
 
 Allegato 2
