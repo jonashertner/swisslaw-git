@@ -4,11 +4,11 @@ title: Ordinanza del 30 gennaio 2019 sulla ciberdifesa militare (OCDM)
 short: OCDM
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/94"
 language: it
-version: 2019-03-01
+version: 2024-01-01
 adopted: 2019-01-30
 in_force: 2019-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/94/20190301/it/xml/fedlex-data-admin-ch-eli-cc-2019-94-20190301-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/94/20190301/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/94/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2019-94-20240101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/94/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/94/20190301/it"
 
 (OCDM)
 
-del 30 gennaio 2019 (Stato 1° marzo 2019)
+del 30 gennaio 2019 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -31,15 +31,18 @@ ordina:
 
 **Oggetto**
 
-<sup>1</sup> La presente ordinanza disciplina le misure da adottare nel quadro della ciberdifesa per l’autoprotezione e l’autodifesa dell’esercito e dell’amministrazione militare in caso di attacco ai rispettivi sistemi d’informazione e alle rispettive reti informatiche.
+<sup>1</sup> La presente ordinanza disciplina le misure da adottare nel quadro della ciberdifesa per l’autoprotezione e l’autodifesa dell’esercito e dell’amministrazione militare in caso di attacco alle prestazioni dell’esercito critiche per gli impieghi nel settore delle tecnologie dell’informazione e della comunicazione (prestazioni TIC dell’esercito critiche per gli impieghi).[^1-1]
 
 <sup>2</sup>
 
-Per ciberdifesa militare si intendono attività su scala globale condotte nel ciberspazio volte a garantire l’autoprotezione e l’autodifesa dei sistemi d’informazione e delle reti informatiche militari mediante attività nel ciberspazio a livello di condotta strategico-militare e operativa; la ciberdifesa militare comprende le attività seguenti:
+Per ciberdifesa militare si intendono attività su scala globale condotte nel ciberspazio volte a proteggere e a difendere le prestazioni TIC dell’esercito critiche per gli impieghi a livello di condotta strategico-militare e operativa; la ciberdifesa militare comprende le attività seguenti:[^1-2]
 
 - a. ciberdifesa: attività nel ciberspazio volta a identificare attacchi e attività di ciberesplorazione e a proteggere le proprie risorse;
 - b. ciberesplorazione: attività nel ciberspazio volta ad acquisire informazioni nel ciberspazio;
 - c. ciberattacco: attività nel ciberspazio volta a disturbare, ostacolare o rallentare, nel ciberspazio o per mezzo del ciberspazio, le risorse e le capacità dell’avversario.
+
+[^1-1]: Nuovo testo giusta il n. II 9 dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
+[^1-2]: Nuovo testo giusta il n. II 9 dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
 
 #### Art. 2
 
@@ -63,25 +66,29 @@ Le domande per misure soggette ad autorizzazione sono motivate per scritto e con
 
 #### Art. 4
 
-**Competenze della Base d’aiuto alla condotta**
+**Competenze del Comando Ciber**[^4-1]
 
-<sup>1</sup> La Base d’aiuto alla condotta (BAC) è competente per la ciberdifesa militare e la garantisce con risorse proprie, ad essa subordinate o ad essa assegnate.
+<sup>1</sup> Il Comando Ciber (Cdo Ci) è competente per la ciberdifesa militare.
 
 <sup>2</sup>
 
-La BAC ha i compiti seguenti:
+Il Cdo Ci ha i compiti seguenti:
 
 - a. esegue mandati concernenti attività nel ciberspazio;
-- b. adotta misure preventive volte all’autoprotezione dei sistemi d’informazione e delle reti informatiche militari;
+- b. adotta misure preventive volte all’autoprotezione delle prestazioni TIC dell’esercito critiche per gli impieghi;
 - c. verifica in via preliminare la fondamentale legalità e la fattibilità di nuove attività nel ciberspazio;
-- d. interrompe l’accesso ai sistemi d’informazione e alle reti informatiche militari;
+- d. interrompe l’accesso a prestazioni TIC dell’esercito critiche per gli impieghi;
 - e. si assicura in maniera autonoma di disporre delle informazioni tecniche necessarie all’assunzione dei compiti;
 - f. valuta reti e sistemi informatici messi in sicurezza che sono stati utilizzati o sfruttati abusivamente per un attacco;
 - g. in coordinamento con le autorità della Confederazione responsabili, cura contatti diretti con servizi tecnici specializzati in Svizzera e all’estero;
 - h. appoggia l’impiego e l’istruzione nel settore della ciberdifesa militare;
 - i. documenta le misure soggette ad autorizzazione nel quadro di un’attività nel ciberspazio.
 
-<sup>3</sup> Le misure soggette ad autorizzazione nel quadro di un’attività nel ciberspazio sono eseguite esclusivamente dal Centro operazioni elettroniche della BAC.
+<sup>3</sup> Adempie i propri compiti con risorse proprie, con risorse a esso subordinate e con risorse a esso attribuite.
+
+<sup>4</sup> Le misure soggette ad autorizzazione nel quadro di un’attività nel ciberspazio sono eseguite esclusivamente dal Servizio delle attività ciber ed elettromagnetiche.
+
+[^4-1]: Nuovo testo giusta il n. II 9 dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
 
 #### Art. 5
 
@@ -115,9 +122,11 @@ Il Consiglio federale autorizza le misure soggette ad autorizzazione.
 
 #### Art. 9
 
-**Ricerca**
+**Ricerca**[^9-1]
 
-D’intesa e in coordinamento con le unità amministrative del DDPS responsabili, la BAC può concludere accordi di cooperazione con istituti di ricerca e università.
+D’intesa con le unità amministrative del DDPS responsabili, il Cdo Ci può concludere accordi di collaborazione con istituti di ricerca e università.
+
+[^9-1]: Nuovo testo giusta il n. II 9 dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
 
 #### Art. 10
 

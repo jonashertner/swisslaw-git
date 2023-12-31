@@ -4,11 +4,11 @@ title: Verordnung vom 30. Januar 2019 über die militärische Cyberabwehr (MCAV)
 short: MCAV
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/94"
 language: de
-version: 2019-03-01
+version: 2024-01-01
 adopted: 2019-01-30
 in_force: 2019-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/94/20190301/de/xml/fedlex-data-admin-ch-eli-cc-2019-94-20190301-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/94/20190301/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/94/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2019-94-20240101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/94/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/94/20190301/de"
 
 (MCAV)
 
-vom 30. Januar 2019 (Stand am 1. März 2019)
+vom 30. Januar 2019 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -31,15 +31,18 @@ verordnet:
 
 **Gegenstand**
 
-<sup>1</sup> Diese Verordnung regelt die Massnahmen im Rahmen der Cyberabwehr zum Eigenschutz und zur Selbstverteidigung der Armee und der Militärverwaltung im Fall eines Angriffs auf ihre Informationssysteme und ihre Informatiknetzwerke.
+<sup>1</sup> Diese Verordnung regelt die Massnahmen im Rahmen der Cyberabwehr zum Eigenschutz und zur Selbstverteidigung der Armee und der Militärverwaltung im Fall eines Angriffs auf die einsatzkritischen Leistungen der Armee im Bereich der Informations- und Kommunikationstechnologie (einsatzkritische IKT-Leistungen der Armee).[^1-1]
 
 <sup>2</sup>
 
-Unter militärischer Cyberabwehr versteht man umfassende Aktionen im Cyberraum mit dem Ziel, den Eigenschutz und die Selbstverteidigung der militärischen Informationssysteme und Informatiknetzwerke mit Aktionen im Cyberraum auf militärstrategischer und operativer Führungsstufe wahrzunehmen; sie umfasst die folgenden Aktionen:
+Unter militärischer Cyberabwehr versteht man umfassende Aktionen im Cyberraum mit dem Ziel, die einsatzkritischen IKT-Leistungen der Armee auf militärstrategischer und operativer Führungsstufe zu schützen und zu verteidigen; sie umfasst die folgenden Aktionen:[^1-2]
 
 - a. Cyberverteidigung: Aktion im Cyberraum mit dem Ziel, Angriffe und Cyberaufklärung zu identifizieren und die eigenen Ressourcen zu schützen;
 - b. Cyberaufklärung: Aktion im Cyberraum mit dem Ziel, Nachrichten im Cyberraum zu gewinnen;
 - c. Cyberangriff: Aktion im Cyberraum mit dem Ziel, gegnerische Ressourcen und Fähigkeiten im oder durch den Cyberraum zu stören, zu behindern oder zu verlangsamen.
+
+[^1-1]: Fassung gemäss Ziff. II 9 der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
+[^1-2]: Fassung gemäss Ziff. II 9 der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
 
 #### Art. 2
 
@@ -63,25 +66,29 @@ Anträge für bewilligungspflichte Massnahmen sind schriftlich zu begründen und
 
 #### Art. 4
 
-**Zuständigkeit der Führungsunterstützungsbasis**
+**Zuständigkeit des Kommandos Cyber**[^4-1]
 
-<sup>1</sup> Die Führungsunterstützungsbasis (FUB) ist zuständig für die militärische Cyberabwehr und nimmt diese mit eigenen, ihr unterstellten sowie ihr zugewiesenen Ressourcen wahr.
+<sup>1</sup> Das Kommando Cyber (Kdo Cy) ist zuständig für die militärische Cyberabwehr.
 
 <sup>2</sup>
 
-Die FUB hat folgende Aufgaben:
+Es hat folgende Aufgaben:
 
-- a. Sie führt Aufträge zu Aktionen im Cyberraum aus.
-- b. Sie ergreift zum Eigenschutz der militärischen Informationssysteme und Informatiknetzwerke vorsorgliche Massnahmen.
-- c. Sie prüft vorgängig die grundsätzliche Rechtmässigkeit und die Machbarkeit von neuen Aktionen im Cyberraum.
-- d. Sie unterbricht den Zugang zu militärischen Informationssystemen und Informatiknetzwerken.
-- e. Sie stellt selbständig sicher, dass sie über die technischen Informationen verfügt, die zur Wahrnehmung der Aufgaben notwendig sind.
-- f. Sie wertet sichergestellte Computersysteme und Computernetzwerke aus, die für einen Angriff ge- oder missbraucht worden sind.
-- g. Sie pflegt in Koordination mit den verantwortlichen Behörden des Bundes direkte Kontakte zu technischen Fachstellen im In- und Ausland.
-- h. Sie unterstützt den Einsatz und die Ausbildung im Bereich der militärischen Cyberabwehr.
-- i. Sie dokumentiert bewilligungspflichtige Massnahmen im Rahmen einer Aktion im Cyberraum.
+- a. Es führt Aufträge zu Aktionen im Cyberraum aus.
+- b. Es ergreift vorsorgliche Massnahmen zum Eigenschutz der einsatzkritischen IKT-Leistungen der Armee.
+- c. Es prüft vorgängig die grundsätzliche Rechtmässigkeit und die Machbarkeit von neuen Aktionen im Cyberraum.
+- d. Es unterbricht den Zugang zu einsatzkritischen IKT-Leistungen der Armee.
+- e. Es stellt selbstständig sicher, dass sie über die technischen Informationen verfügt, die zur Wahrnehmung der Aufgaben notwendig sind.
+- f. Es wertet sichergestellte Computersysteme und Computernetzwerke aus, die für einen Angriff verwendet oder missbraucht worden sind.
+- g. Es pflegt in Koordination mit den verantwortlichen Behörden des Bundes direkte Kontakte zu technischen Fachstellen im In- und Ausland.
+- h. Es unterstützt den Einsatz und die Ausbildung im Bereich der militärischen Cyberabwehr.
+- i. Es dokumentiert bewilligungspflichtige Massnahmen im Rahmen einer Aktion im Cyberraum.
 
-<sup>3</sup> Die bewilligungspflichtigen Massnahmen im Rahmen einer Aktion im Cyberraum werden ausschliesslich durch das Zentrum elektronische Operationen der FUB ausgeführt.
+<sup>3</sup> Es erfüllt seine Aufgaben mit eigenen, ihm unterstellten und ihm zugewiesenen Ressourcen.
+
+<sup>4</sup> Die bewilligungspflichtigen Massnahmen im Rahmen einer Aktion im Cyberraum werden ausschliesslich vom Dienst für Cyber- und elektromagnetische Aktionen durchgeführt.
+
+[^4-1]: Fassung gemäss Ziff. II 9 der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
 
 #### Art. 5
 
@@ -115,9 +122,11 @@ Der Bundesrat genehmigt bewilligungspflichtige Massnahmen.
 
 #### Art. 9
 
-**Forschung**
+**Forschung**[^9-1]
 
-Die FUB kann nach Absprache und Koordination mit den verantwortlichen Verwaltungseinheiten des VBS Vereinbarungen zur Kooperation mit Forschungsinstituten und Hochschulen treffen.
+Das Kdo Cy kann in Absprache mit den verantwortlichen Verwaltungseinheiten des VBS Vereinbarungen zur Zusammenarbeit mit Forschungsinstituten und Hochschulen treffen.
+
+[^9-1]: Fassung gemäss Ziff. II 9 der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
 
 #### Art. 10
 

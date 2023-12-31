@@ -4,11 +4,11 @@ title: Ordonnance du 30 janvier 2019 sur la cyberdéfense militaire (OCMil)
 short: OCMil
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/94"
 language: fr
-version: 2019-03-01
+version: 2024-01-01
 adopted: 2019-01-30
 in_force: 2019-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/94/20190301/fr/xml/fedlex-data-admin-ch-eli-cc-2019-94-20190301-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/94/20190301/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/94/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2019-94-20240101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/94/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/94/20190301/fr"
 
 (OCMil)
 
-du 30 janvier 2019 (Etat le 1<sup>er</sup> mars 2019)
+du 30 janvier 2019 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -31,15 +31,18 @@ arrête:
 
 **Objet**
 
-<sup>1</sup> La présente ordonnance règle les mesures à prendre dans le domaine de la cyberdéfense concernant l’autoprotection et l’autodéfense de l’armée et de l’administration militaire en cas d’attaque contre leurs systèmes d’information et leurs réseaux informatiques.
+<sup>1</sup> La présente ordonnance règle les mesures à prendre dans le cadre de la cyberdéfense à des fins d’autoprotection et d’autodéfense de l’armée et de l’administration militaire en cas d’attaque contre les prestations informatiques qui doivent impérativement être à la disposition de l’armée (prestations informatiques indispensables aux engagements de l’armée).[^1-1]
 
 <sup>2</sup>
 
-La cyberdéfense militaire comprend l’ensemble des actions menées dans le cyberespace aux échelons de conduite militaro-stratégique et opératif visant à assurer l’autoprotection et l’autodéfense des systèmes d’information et des réseaux informatiques militaires, notamment:
+La cyberdéfense militaire comprend l’ensemble des actions menées dans le cyberespace dans le but de protéger et de défendre, aux échelons de conduite militaro-stratégique et opératif, les prestations informatiques indispensables aux engagements de l’armée, notamment:[^1-2]
 
 - a. la cyberdéfense: action menée dans le cyberespace visant à identifier les attaques et la cyberexploration et à protéger les ressources de l’Armée suisse;
 - b. la cyberexploration: action menée dans le cyberespace visant à y acquérir des informations;
 - c. la cyberattaque: action menée dans le cyberespace visant à perturber, à entraver ou à ralentir les ressources ou capacités de l’adversaire dans ou à travers le cyberespace.
+
+[^1-1]: Nouvelle teneur selon le ch. II 9 de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
+[^1-2]: Nouvelle teneur selon le ch. II 9 de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
 
 #### Art. 2
 
@@ -63,25 +66,29 @@ Les demandes de mesures soumises à autorisation doivent être motivées par éc
 
 #### Art. 4
 
-**Compétences de la Base d’aide au commandement**
+**Compétences du commandement Cyber**[^4-1]
 
-<sup>1</sup> La cyberdéfense militaire incombe à la Base d’aide au commandement (BAC) qui l’assure avec ses propres ressources, celles qui lui sont subordonnées et celles qui lui sont attribuées.
+<sup>1</sup> Le commandement Cyber (cdmt Cyber) est compétent en matière de cyberdéfense militaire.
 
 <sup>2</sup>
 
-Les tâches de la BAC sont les suivantes:
+Il assume les tâches suivantes:
 
 - a. exécuter des missions consistant à mener des actions dans le cyberespace;
-- b. prendre des mesures préventives d’autoprotection des systèmes d’information et des réseaux informatiques militaires;
+- b. prendre des mesures préventives d’autoprotection des prestations informatiques indispensables aux engagements de l’armée;
 - c. contrôler la légalité et la faisabilité de nouvelles actions avant de les mener dans le cyberespace;
-- d. bloquer l’accès aux systèmes d’information et aux réseaux informatiques militaires;
+- d. bloquer l’accès aux prestations informatiques indispensables aux engagements de l’armée;
 - e. veiller, de manière autonome, à disposer des informations techniques nécessaires à l’accomplissement des tâches;
 - f. évaluer les systèmes et les réseaux informatiques mis en sûreté qui ont été utilisés ou détournés à des fins d’attaque;
-- g. entretenir, en coordination avec les autorités responsables de la Confédération, des contacts directs avec des services techniques sis en Suisse ou à l’étranger;
-- h. soutenir l’engagement et la formation dans le domaine de la cyberdéfense militaire;
+- g. entretenir, en coordination avec les autorités compétentes de la Confédération, des contacts directs avec des services spécialisés en Suisse ou à l’étranger;
+- h. soutenir l’engagement et l’instruction dans le domaine de la cyberdéfense militaire;
 - i. documenter les mesures soumises à autorisation dans le cadre d’une action menée dans le cyberespace.
 
-<sup>3</sup> Les mesures soumises à autorisation prises dans le cadre d’une action menée dans le cyberespace sont mises en œuvre exclusivement par le Centre des opérations électroniques de la BAC.
+<sup>3</sup> Il accomplit ses tâches avec ses propres ressources, avec celles qui lui sont subordonnées ou avec celles qui lui sont attribuées.
+
+<sup>4</sup> Les mesures soumises à autorisation prises dans le cadre d’une action menée dans le cyberespace sont mises en œuvre exclusivement par le service Actions dans le cyberespace et dans l’espace électromagnétique.
+
+[^4-1]: Nouvelle teneur selon le ch. II 9 de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
 
 #### Art. 5
 
@@ -115,9 +122,11 @@ Le Conseil fédéral approuve les mesures soumises à autorisation.
 
 #### Art. 9
 
-**Recherche**
+**Recherche**[^9-1]
 
-La BAC peut signer des conventions de coopération avec des instituts de recherche et des hautes écoles, en accord et en coordination avec les unités administratives compétentes du DDPS.
+Le cdmt Cyber peut, en accord avec les unités administratives compétentes du DDPS, signer des conventions de coopération avec des instituts de recherche et des hautes écoles.
+
+[^9-1]: Nouvelle teneur selon le ch. II 9 de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
 
 #### Art. 10
 
