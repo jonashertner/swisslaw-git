@@ -4,13 +4,12 @@ number: "411.11"
 title: Gesetz über die Volksschule
 short: VG
 language: de
-version: 2019-08-01
-valid_until: 2023-12-31
-version_adopted: 2018-10-01
+version: 2024-01-01
+version_adopted: 2022-01-12
 adopted: 2007-08-29
 in_force: 2008-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/411.11"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2101/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2700/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ VG
 
 (VG)
 
-vom 29.08.2007 (Stand 01.08.2019)
+vom 29.08.2007 (Stand 01.01.2024)
 
 ## 1. Allgemeine Bestimmungen
 
@@ -379,6 +378,30 @@ vom 29.08.2007 (Stand 01.08.2019)
 
 <sup>3</sup> Das Departement kann ein behindertes Kind von der Schulpflicht befreien.
 
+#### § 41b
+
+**Vorschulische Sprachförderung**
+
+<sup>1</sup> Kinder, die das dritte Altersjahr bis zum 31. Juli vollenden und einen sprachlichen Förderbedarf aufweisen, besuchen für ein Jahr ein Angebot der vorschulischen Sprachförderung.
+
+<sup>2</sup> Die Schulgemeinde klärt den sprachlichen Förderbedarf gemäss den Vorgaben des Kantons ab und entscheidet, ob ein Angebot der vorschulischen Sprachförderung besucht werden muss.
+
+<sup>3</sup> Die Schulgemeinde stellt ein bedarfsgerechtes Angebot für vorschulische Sprachförderung sicher. Sie berücksichtigt dabei bestehende Angebote. Schulgemeinden und Kanton tragen die Kosten.
+
+<sup>4</sup> Die an der vorschulischen Sprachförderung beteiligten Personen, Behörden und Organisationen sind berechtigt, die organisatorisch nötigen Daten zu bearbeiten.
+
+#### § 41c
+
+**Pflichten der Erziehungsberechtigten bei der vorschulischen Sprachförderung[^41c-1]**
+
+<sup>1</sup> Die Erziehungsberechtigten sind verpflichtet, bei der Abklärung des Förderbedarfs und bei der Umsetzung der vorschulischen Sprachförderung mitzuwirken.
+
+<sup>2–3</sup> …
+
+<sup>4</sup> Erziehungsberechtigte, die Pflichten verletzen, welche sich aus den Vorschriften zur vorschulischen Sprachförderung ergeben, werden auf Antrag der Schulbehörde mit Busse bestraft.
+
+[^41c-1]: Das Bundesgericht hat mit Urteil 2C\_402/2022 vom 31. Juli 2023 § 41c Abs. 2 und Abs. 3 aufgehoben. Sie werden daher nicht in Kraft gesetzt (vgl. RRB Nr. 619 vom 14. November 2023).
+
 #### § 42
 
 **Abklärung**
@@ -621,7 +644,7 @@ vom 29.08.2007 (Stand 01.08.2019)
 
 <sup>3</sup> Personen mit einem Anstellungsgrad bei der Schulgemeinde von über 15 Prozent dürfen der Schulbehörde nicht angehören.
 
-## 8. Schlussbestimmungen
+## 8. Rechtsschutz
 
 #### § 65
 
@@ -649,28 +672,8 @@ vom 29.08.2007 (Stand 01.08.2019)
 
 <sup>1</sup> Die kantonalen Gerichtsorgane teilen dem Departement Entscheide über personalrechtliche Angelegenheiten von Volksschullehrpersonen mit.
 
-#### § 66–68a
+#### § 66–70
 
 **…**
-
-#### § 68b
-
-**Übergangsbestimmung Ferien**
-
-<sup>1</sup> Die Einführung der neuen Ferienregelung gemäss § 35 Abs. 2 erfolgt innert zwei Jahren.
-
-#### § 69
-
-**Aufhebung bisherigen Rechtes**
-
-<sup>1</sup> Das Gesetz über die Volksschule und den Kindergarten vom 23. Mai 1995 wird aufgehoben.
-
-#### § 70
-
-**Inkrafttreten**
-
-<sup>1</sup> Dieses Gesetz tritt auf einen durch den Regierungsrat zu bestimmenden Zeitpunkt in Kraft[^70-1].
-
-[^70-1]: In Kraft gesetzt auf den 1. Januar 2008.
 
 ABl. 36/2007
