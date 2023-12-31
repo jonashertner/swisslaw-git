@@ -4,7 +4,7 @@ number: "810.11.1"
 title: RÈGLEMENT du 20.05.2009 d’application de la loi du 16 novembre 1993 sur les Hospices cantonaux (RLHC)
 short: RLHC
 language: fr
-version: 2023-01-01
+version: 2024-01-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/810.11.1?id=89c994ee-3658-4b9f-ab2c-d906607d31b8"
 ---
 
@@ -63,9 +63,11 @@ arrête
 
 <sup>1</sup> Le CHUV est dirigé par un directeur général. Ce dernier a rang de chef de service sur le plan de l'administration cantonale.
 
+<sup>1bis</sup> Le Conseil stratégique du CHUV est associé à la désignation du directeur général par la participation de l'un ou de ses membres au comité de sélection mis sur pied par le Conseil d'Etat.
+
 <sup>2</sup> Le directeur général s'adjoint les compétences d'un comité de direction, chargé de la direction opérationnelle du CHUV. Ce comité est présidé par le directeur général.
 
-[^2-1]: Modif. 5 du 05.06.2023: Introduction Al. 1bis; entrée en vigueur au 01.01.2024; Introduction Art. 21, Al. 2; entrée en vigueur au 01.01.2024
+[^2-1]: Modif. 5 du 05.06.2023: Introduction Al. 1bis; entrée en vigueur au 01.01.2024
 
 #### Art. 4
 
@@ -135,38 +137,38 @@ arrête
 
 [^9-1]: Modif. 5 du 05.06.2023: Modification ; entrée en vigueur au 01.01.2024
 
-## Chapitre IV Conseil du CHUV
+## Chapitre IV Conseil stratégique du CHUV
 
 [^9-1]
 
 #### Art. 10
 
-**Attributions [^chapterChapitreIV-1]**
+**Nomination [^chapterChapitreIV-1]**
 
-<sup>1</sup> Le Conseil du CHUV est un organe d'information, de réflexion et de préavis sur les décisions d'ordre stratégique touchant le CHUV.
+<sup>1</sup> Le Conseil d'Etat nomme les membres du Conseil stratégique du CHUV sur proposition du département, qui présente des candidats ayant les compétences attendues au sens de l'article 16b alinéa 1<sup>er</sup> LHC.
 
-<sup>2</sup> Il participe à l'élaboration de la politique générale du CHUV, à la définition des objectifs périodiques et des principales règles.
+<sup>2</sup> ...
 
-[^chapterChapitreIV-1]: Modif. 5 du 05.06.2023: Introduction Art. 3, Al. 1bis; entrée en vigueur au 01.01.2024; Modification tArt; entrée en vigueur au 01.01.2024; Modification Al. 1; entrée en vigueur au 01.01.2024; Abrogation Al. 2; entrée en vigueur au 01.01.2024; Introduction Art. 21, Al. 2; entrée en vigueur au 01.01.2024
+[^chapterChapitreIV-1]: Modif. 5 du 05.06.2023: Modification tArt; entrée en vigueur au 01.01.2024; Modification Al. 1; entrée en vigueur au 01.01.2024; Abrogation Al. 2; entrée en vigueur au 01.01.2024
 
 #### Art. 11
 
-**Composition [^10-1]**
+**... [^10-1]**
 
-<sup>1</sup> Le Conseil du CHUV est composé de 12 à 15 membres, parmi lesquels :
+<sup>1</sup> ...
 
-- a. un représentant des Hôpitaux universitaires de Genève ;
-- b. un représentant de l'Ecole polytechnique fédérale de Lausanne ;
-- c. un représentant de la Direction de l'Université de Lausanne ;
-- d. le doyen de la faculté de biologie et médecine de l'Université de Lausanne ;
-- e. un représentant du Service de la santé publique ;
-- f. le directeur général du CHUV.
+- a. ...
+- b. ...
+- c. ...
+- d. ...
+- e. ...
+- f. ...
 
-<sup>2</sup> Il comporte en outre des personnalités choisies en fonction de leur intérêt pour la chose publique.
+<sup>2</sup> ...
 
-<sup>3</sup> Le Conseil du CHUV est nommé par le chef du département pour une période de quatre ans renouvelable. Il est présidé par le chef du département et, en son absence, par le directeur général du CHUV.
+<sup>3</sup> ...
 
-[^10-1]: Modif. 5 du 05.06.2023: Introduction Art. 3, Al. 1bis; entrée en vigueur au 01.01.2024; Abrogation tArt; entrée en vigueur au 01.01.2024; Abrogation Al. 1-3; entrée en vigueur au 01.01.2024; Introduction Art. 21, Al. 2; entrée en vigueur au 01.01.2024
+[^10-1]: Modif. 5 du 05.06.2023: Abrogation tArt; entrée en vigueur au 01.01.2024; Abrogation Al. 1-3; entrée en vigueur au 01.01.2024
 
 ## Chapitre V Directions transversales
 
@@ -273,10 +275,11 @@ arrête
 
 **Elaboration et transmission [^chapterChapitreVI-1]**
 
-<sup>1</sup> Le CHUV élabore le plan stratégique de développement et le transmet, après concertation avec le Service de la santé publique , l'Université de Lausanne et la Direction générale de l'enseignement supérieur, au département en charge de la santé[^21-1] , pour soumission au Conseil d'Etat. Ce dernier le transmet au Grand Conseil pour adoption.
+<sup>1</sup> Le CHUV élabore le plan stratégique de développement et le transmet pour préavis formel au Conseil stratégique du CHUV, puis, après concertation avec le service en charge de la santé publique, l'Université de Lausanne et le service en charge de l'enseignement supérieur, au département, pour soumission au Conseil d'Etat.
 
-[^chapterChapitreVI-1]: Modif. 5 du 05.06.2023: Introduction Art. 3, Al. 1bis; entrée en vigueur au 01.01.2024; Modification Al. 1; entrée en vigueur au 01.01.2024; Introduction Al. 2; entrée en vigueur au 01.01.2024
-[^21-1]: [Voir l'organigramme de l'Etat de Vaud](https://www.vd.ch/toutes-les-autorites/)
+<sup>2</sup> Le Conseil d'Etat transmet le plan stratégique de développement au Grand Conseil pour adoption.
+
+[^chapterChapitreVI-1]: Modif. 5 du 05.06.2023: Modification Al. 1; entrée en vigueur au 01.01.2024; Introduction Al. 2; entrée en vigueur au 01.01.2024
 
 #### Art. 22
 
@@ -294,10 +297,9 @@ arrête
 
 **Procédure d'évaluation [^22-1]**
 
-<sup>1</sup> Le CHUV adresse un rapport intermédiaire durant la troisième année de législature, et un rapport final d'évaluation du plan stratégique de développement au département en charge de la santé[^23-1] pour soumission au Conseil d'Etat puis au Grand Conseil. Ce dernier en prend acte et adopte cas échéant les avenants évoqués à l'article 24 selon la procédure mentionnée à l'article 21.
+<sup>1</sup> Le CHUV élabore, en concertation avec l'Université de Lausanne un rapport intermédiaire durant la troisième année de législature et un rapport final d'évaluation du plan stratégique de développement. Il le transmet pour information au Conseil stratégique du CHUV et l'adresse au département pour soumission au Conseil d'Etat puis au Grand Conseil. Ce dernier en prend acte et adopte cas échéant les avenants évoqués à l'article 24 selon la procédure mentionnée à l'article 21.
 
-[^22-1]: Modif. 5 du 05.06.2023: Introduction Art. 3, Al. 1bis; entrée en vigueur au 01.01.2024; Introduction Art. 21, Al. 2; entrée en vigueur au 01.01.2024; Modification Al. 1; entrée en vigueur au 01.01.2024
-[^23-1]: [Voir l'organigramme de l'Etat de Vaud](https://www.vd.ch/toutes-les-autorites/)
+[^22-1]: Modif. 5 du 05.06.2023: Modification Al. 1; entrée en vigueur au 01.01.2024
 
 #### Art. 24
 
@@ -331,12 +333,11 @@ arrête
 
 **Procédure d'établissement [^26-1]**
 
-<sup>1</sup> Le CHUV et le département en charge de la santé[^27-1] , par son Service de la santé publique, élaborent le contrat annuel de prestations. Ce dernier est transmis au Conseil d'Etat ainsi qu'aux présidents de la Commission Thématique de Santé Publique, de la Commission de gestion et de la Commission des finances du Grand Conseil à l'appui de la demande de participation financière de l'Etat au CHUV.
+<sup>1</sup> Le CHUV et le département, par son service en charge de la santé publique, élaborent le contrat annuel de prestations. Après prise de position du Conseil stratégique du CHUV, ce dernier est transmis pour information au Conseil d'Etat ainsi qu'aux présidents de la Commission Thématique de Santé Publique, de la Commission de gestion et de la Commission des finances du Grand Conseil à l'appui de la demande de participation financière de l'Etat au CHUV.
 
-<sup>2</sup> Le CHUV et le département en charge de la santé, par son Service de la santé publique élaborent également l'annexe technique au contrat annuel de prestations en principe avant le 30 juin de chaque année. Cette annexe est transmise pour information au Conseil d'Etat ainsi qu'aux présidents de la Commission Thématique de Santé Publique, de la Commission de gestion et de la Commission des finances du Grand Conseil.
+<sup>2</sup> Le CHUV et le département, par son service en charge de la santé publique élaborent l'annexe technique au contrat annuel de prestations en principe avant le 30 juin de chaque année. Cette annexe est transmise pour information au Conseil stratégique du CHUV et au Conseil d'Etat, ainsi qu'aux présidents de la Commission Thématique de Santé Publique, de la Commission de gestion et de la Commission des finances du Grand Conseil.
 
-[^26-1]: Modif. 5 du 05.06.2023: Introduction Art. 3, Al. 1bis; entrée en vigueur au 01.01.2024; Introduction Art. 21, Al. 2; entrée en vigueur au 01.01.2024; Modification Al. 1-2; entrée en vigueur au 01.01.2024
-[^27-1]: [Voir l'organigramme de l'Etat de Vaud](https://www.vd.ch/toutes-les-autorites/)
+[^26-1]: Modif. 5 du 05.06.2023: Modification Al. 1-2; entrée en vigueur au 01.01.2024
 
 #### Art. 28
 
@@ -359,10 +360,9 @@ arrête
 
 **Procédure d'évaluation [^28-2]**
 
-<sup>1</sup> Sur la base des informations fournies par le CHUV avant le 15 mars, le département en charge de la santé[^29-1] , par son Service de la santé publique, élabore le rapport d'évaluation du contrat annuel de prestations avant le 30 juin. Ce rapport est transmis pour information au Conseil d'Etat ainsi qu'aux présidents de la Commission Thématique de Santé Publique, de la Commission de gestion et de la Commission des finances du Grand Conseil.
+<sup>1</sup> Sur la base des informations fournies par le CHUV avant le 15 mars, le département, par son service en charge de la santé publique, élabore le rapport d'évaluation du contrat annuel de prestations avant le 30 juin. Ce rapport est transmis pour information au Conseil stratégique du CHUV et au Conseil d'Etat, ainsi qu'aux présidents de la Commission Thématique de Santé Publique, de la Commission de gestion et de la Commission des finances du Grand Conseil.
 
-[^28-2]: Modif. 5 du 05.06.2023: Introduction Art. 3, Al. 1bis; entrée en vigueur au 01.01.2024; Introduction Art. 21, Al. 2; entrée en vigueur au 01.01.2024; Modification Al. 1; entrée en vigueur au 01.01.2024
-[^29-1]: [Voir l'organigramme de l'Etat de Vaud](https://www.vd.ch/toutes-les-autorites/)
+[^28-2]: Modif. 5 du 05.06.2023: Modification Al. 1; entrée en vigueur au 01.01.2024
 
 #### Art. 30
 
@@ -679,4 +679,4 @@ Annexes
 
 1
 
-[Annexe-catégories de fonds](https://prestations.vd.ch/pub/blv-publication/api/actes/89c994ee-3658-4b9f-ab2c-d906607d31b8/annexes/1?dmev=01.01.2023)
+[Annexe-catégories de fonds](https://prestations.vd.ch/pub/blv-publication/api/actes/89c994ee-3658-4b9f-ab2c-d906607d31b8/annexes/1?dmev=01.01.2024)
