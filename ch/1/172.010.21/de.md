@@ -4,11 +4,11 @@ title: Verordnung vom 5. Dezember 2008 über das Immobilienmanagement und die Lo
 short: VILB
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/857"
 language: de
-version: 2022-01-01
+version: 2024-01-01
 adopted: 2008-12-05
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/857/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2008-857-20220101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/857/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/857/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2008-857-20240101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/857/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/857/20220101/de"
 
 (VILB)
 
-vom 5. Dezember 2008 (Stand am 1. Januar 2022)
+vom 5. Dezember 2008 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -764,11 +764,12 @@ Vorbehalten bleiben abweichende Vermittlungs- und Schiedsverfahren bei Streitigk
 Das BBL erlässt Weisungen für den Bereich Logistik. Vorbehalten bleiben:
 
 - a. die Verordnung vom 25. November 2020[^41-1] über die digitale Transformation und die Informatik;
-- b. die Cyberrisikenverordnung vom 27. Mai 2020[^41-2].[^41-3]
+- b.[^41-2] der Informationssicherheitsverordnung vom 8. November 2023[^41-3].[^41-4]
 
 [^41-1]: [SR 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
-[^41-2]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^41-3]: Fassung gemäss Anhang Ziff. 6 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^41-2]: Fassung gemäss Anhang 2 Ziff. II 7 der Informationssicherheitsverordnung vom 8. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^41-3]: [SR 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^41-4]: Fassung gemäss Anhang Ziff. 6 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 42
 

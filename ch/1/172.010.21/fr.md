@@ -4,11 +4,11 @@ title: "Ordonnance du 5 décembre 2008 concernant la gestion de l'immobilier et 
 short: OILC
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/857"
 language: fr
-version: 2022-01-01
+version: 2024-01-01
 adopted: 2008-12-05
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/857/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-857-20220101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/857/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/857/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-857-20240101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/857/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/857/20220101/fr"
 
 (OILC)
 
-du 5 décembre 2008 (État le 1<sup>er</sup> janvier 2022)
+du 5 décembre 2008 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -50,7 +50,7 @@ La présente ordonnance règle:
 
 <sup>2</sup> Elle ne s’applique pas aux installations d’infrastructure de la Confédération liées aux routes nationales au sens de l’art. 2 de l’ordonnance du 7 novembre 2007 sur les routes nationales[^1-3]; la gestion immobilière des routes nationales est régie par la loi fédérale du 8 mars 1960 sur les routes nationales[^1-4].
 
-[^1-1]: Nouvelle teneur selon le ch. 1 de l’annexe 3 à l’O du 30 juin 2010, en vigueur depuis le 1<sup>er</sup> août 2010 ([RO 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
+[^1-1]: Nouvelle teneur selon l’annexe 3 ch. 1 de l’O du 30 juin 2010, en vigueur depuis le 1<sup>er</sup> août 2010 ([RO 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
 [^1-2]: [RS 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
 [^1-3]: [RS 725.111](https://fedlex.data.admin.ch/eli/cc/2007/796)
 [^1-4]: [RS 725.11](https://fedlex.data.admin.ch/eli/cc/1960/525_569_555)
@@ -122,7 +122,7 @@ Les SCI peuvent, par contrat et à des prix couvrant les coûts, fournir des pre
 - b. aux organisations ou personnes extérieures à l’administration visées à l’art. 6, al. 3, première phrase, OLOGA;
 - c. à d’autres administrations publiques.
 
-[^5-1]: Nouvelle teneur selon le ch. 1 de l’annexe 3 à l’O du 30 juin 2010, en vigueur depuis le 1<sup>er</sup> août 2010 ([RO 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
+[^5-1]: Nouvelle teneur selon l’annexe 3 ch. 1 de l’O du 30 juin 2010, en vigueur depuis le 1<sup>er</sup> août 2010 ([RO 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
 [^5-2]: [RS 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
 
 ## Chapitre 2 Gestion de l’immobilier
@@ -241,7 +241,7 @@ Dans le domaine du pilotage opérationnel des projets, les SCI assument en parti
 - e. *appel d’offres et réalisation,* comprenant la direction des phases d’appel d’offres, de comparaison des offres, d’adjudication, de projet d’exécution, d’exécution, de mise en service et de fin des travaux, compte tenu des coûts du cycle de vie du bâtiment;
 - f. *consommation des ressources,* comprenant la gestion des ressources et des aspects environnementaux, ainsi que l’établissement de rapports périodiques sur la consommation des ressources (chaleur, électricité, eau, déchets) par surface de référence énergétique et par bâtiment (compte tenu des éléments du parc immobilier permettant une évaluation probante) et sur la planification des mesures; ces renseignements sont mis à la disposition des OU intéressées dans le cadre du programme RUMBA (gestion des ressources et management environnemental de l’administration fédérale).
 
-[^9-1]: www.kbob.ch &gt; Publications / Recommandations / Modèles de contrats &gt; Construction durable
+[^9-1]: [www.kbob.ch](http://www.kbob.ch) &gt; Publications / Recommandations / Modèles de contrats &gt; Construction durable
 [^9-2]: Introduit par le ch. I de l’O du 25 nov. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5023](https://fedlex.data.admin.ch/eli/oc/2015/824)).
 [^9-3]: Abrogée par le ch. I de l’O du 25 nov. 2015, avec effet au 1<sup>er</sup> janv. 2016 ([RO 2015 5023](https://fedlex.data.admin.ch/eli/oc/2015/824)).
 [^9-4]: Nouvelle teneur selon l’art. 39 al. 2 de l’O du 24 oct. 2012 sur l’organisation des marchés publics de l’administration fédérale, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 5935](https://fedlex.data.admin.ch/eli/oc/2012/695)).
@@ -425,8 +425,8 @@ Elles fournissent chaque année à l’OFCL les données suivantes pour les rapp
 - b. indicateurs d’exploitation dans la mesure où l’OU est compétente pour l’exploitation du bâtiment.
 
 [^19-1]: [RS 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
-[^19-2]: Nouvelle teneur selon le ch. 1 de l’annexe 3 à l’O du 30 juin 2010, en vigueur depuis le 1<sup>er</sup> août 2010 ([RO 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
-[^19-3]: Nouvelle teneur selon le ch. 1 de l’annexe 3 à l’O du 30 juin 2010, en vigueur depuis le 1<sup>er</sup> août 2010 ([RO 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
+[^19-2]: Nouvelle teneur selon l’annexe 3 ch. 1 de l’O du 30 juin 2010, en vigueur depuis le 1<sup>er</sup> août 2010 ([RO 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
+[^19-3]: Nouvelle teneur selon l’annexe 3 ch. 1 de l’O du 30 juin 2010, en vigueur depuis le 1<sup>er</sup> août 2010 ([RO 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
 
 #### Art. 20
 
@@ -436,7 +436,7 @@ Elles fournissent chaque année à l’OFCL les données suivantes pour les rapp
 
 <sup>2</sup> Les modalités de l’accord sont régies par les directives et instructions relatives à la gestion budgétaire et comptable de la Confédération qui sont émises par l’Administration fédérale des finances[^20-1].
 
-[^20-1]: www.accounting.admin.ch
+[^20-1]: [http://intranet.accounting.admin.ch](http://intranet.accounting.admin.ch) (Intranet de l’Administration fédérale)
 
 #### Art. 21
 
@@ -616,7 +616,7 @@ Les bénéficiaires des prestations et les services demandeurs ci-après qui ne 
 - c. organisations ou personnes extérieures à l’administration visées à l’art. 6, al. 3, première phrase, OLOGA;
 - d. autres administrations publiques.
 
-[^30-1]: Nouvelle teneur selon le ch. 1 de l’annexe 3 à l’O du 30 juin 2010, en vigueur depuis le 1<sup>er</sup> août 2010 ([RO 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
+[^30-1]: Nouvelle teneur selon l’annexe 3 ch. 1 de l’O du 30 juin 2010, en vigueur depuis le 1<sup>er</sup> août 2010 ([RO 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
 [^30-2]: [RS 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
 [^30-3]: Nouvelle teneur selon le ch. I de l’O du 27 oct. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5049](https://fedlex.data.admin.ch/eli/oc/2010/722)).
 
@@ -652,7 +652,7 @@ Il tient, gère et diffuse les articles normalisés dans les assortiments suivan
 <sup>10</sup> Il est compétent pour la personnalisation et la confection du passeport suisse et d’autres documents d’identité et de légitimation de la Confédération, sur mandat de l’Office fédéral de la police.
 
 [^31-1]: [RS 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
-[^31-2]: Nouvelle teneur selon le ch. 1 de l’annexe 3 à l’O du 30 juin 2010, en vigueur depuis le 1<sup>er</sup> août 2010 ([RO 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
+[^31-2]: Nouvelle teneur selon l’annexe 3 ch. 1 de l’O du 30 juin 2010, en vigueur depuis le 1<sup>er</sup> août 2010 ([RO 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
 [^31-3]: [[RO 2006 5613](https://fedlex.data.admin.ch/eli/oc/2006/829), [2007 2547](https://fedlex.data.admin.ch/eli/oc/2007/344), [2009 6149](https://fedlex.data.admin.ch/eli/oc/2009/752)ch. III 2, [2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)annexe 3 ch. 3, [2011 6093](https://fedlex.data.admin.ch/eli/oc/2011/844)annexe ch. 2. [RO 2012 5935](https://fedlex.data.admin.ch/eli/oc/2012/695)art. 39 al. 1]. Voir actuellement l’O du 24 oct. 2012 sur l’organisation des marchés publics de l’administration fédérale ([RS 172.056.15](https://fedlex.data.admin.ch/eli/cc/2024/224)).
 [^31-4]: Nouvelle teneur selon le ch. III 1 de l’O du 18 nov. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4873](https://fedlex.data.admin.ch/eli/oc/2015/796)).
 
@@ -701,7 +701,7 @@ Les différends ayant trait au portefeuille immobilier de l’OFCL doivent être
 
 En cas de différend dans la gestion commerciale des bâtiments (imputation de prestations), la procédure d’escalade s’applique conformément aux directives et instructions relatives à la gestion budgétaire et comptable de la Confédération qui sont émises par l’Administration fédérale des finances[^35-1].
 
-[^35-1]: http://intranet.accounting.admin.ch (Intranet de l’Administration fédérale)
+[^35-1]: [http://intranet.accounting.admin.ch](http://intranet.accounting.admin.ch) (Intranet de l’Administration fédérale)
 
 #### Art. 36
 
@@ -764,11 +764,12 @@ Sont réservées les procédures de conciliation et d’arbitrage divergentes ap
 L’OFCL édicte des instructions pour le domaine de la logistique. Sont réservées:
 
 - a. l’ordonnance du 25 novembre 2020 sur la transformation numérique et l’informatique[^41-1];
-- b. l’ordonnance du 27 mai 2020 sur les cyberrisques[^41-2].[^41-3]
+- b.[^41-2] l’ordonnance du 8 novembre 2023 sur la sécurité de l’information[^41-3].[^41-4]
 
 [^41-1]: [RS 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
-[^41-2]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^41-3]: Nouvelle teneur selon l’annexe ch. 6 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^41-2]: Nouvelle teneur selon l’annexe 2 ch. II 7 de l’O du 8 nov. 2023 sur la sécurité de l’information, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^41-3]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^41-4]: Nouvelle teneur selon l’annexe ch. 6 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 42
 

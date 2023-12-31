@@ -4,11 +4,11 @@ title: Ordinanza del 5 dicembre 2008 sulla gestione immobiliare e la logistica d
 short: OILC
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/857"
 language: it
-version: 2022-01-01
+version: 2024-01-01
 adopted: 2008-12-05
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/857/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2008-857-20220101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/857/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/857/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2008-857-20240101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/857/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/857/20220101/it"
 
 (OILC)
 
-del 5 dicembre 2008 (Stato 1° gennaio 2022)
+del 5 dicembre 2008 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -763,11 +763,12 @@ Rimangono salve le procedure derogatorie di conciliazione e d’arbitrato in cas
 L’UFCL emana istruzioni per il settore della logistica. Sono fatte salve:
 
 - a. l’ordinanza del 25 novembre 2020[^41-1] sulla trasformazione digitale e l’informatica;
-- b. l’ordinanza del 27 maggio 2020[^41-2] sui ciber-rischi.[^41-3]
+- b.[^41-2] l’ordinanza dell’8 novembre 2023[^41-3] sulla sicurezza delle informazioni.[^41-4]
 
 [^41-1]: [RS 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
-[^41-2]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^41-3]: Nuovo testo giusta l’all. n. 6 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^41-2]: Nuovo testo giusta l’all. 2 n. II 7 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^41-3]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^41-4]: Nuovo testo giusta l’all. n. 6 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 42
 
