@@ -3,20 +3,20 @@ canton: BL
 number: "331.11"
 title: Verordnung zum Steuergesetz
 language: de
-version: 2023-01-01
-valid_until: 2023-12-31
-version_adopted: 2023-01-10
+version: 2024-01-01
+valid_until: 2024-12-31
+version_adopted: 2023-12-12
 adopted: 2005-12-13
 in_force: 2006-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/331.11"
-pdf: "https://bl.clex.ch/api/de/versions/3510/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3787/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung zum Steuergesetz
 
-Vom 13.12.2005 (Stand 01.01.2023)
+Vom 13.12.2005 (Stand 01.01.2024)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -289,7 +289,9 @@ beschliesst:
 
 **Vergütung für Veranlagung (§ 107a StG)**
 
-<sup>1</sup> Die Vergütung gemäss § 107a des Steuergesetzes[^14-1] für die Einschätzung der Unselbständigerwerbenden und Nichterwerbstätigen beträgt CHF 30.– pro veranlagten Steuerpflichtigen und Veranlagungsperiode und gilt für die Bearbeitung der Steuererklärungen der Steuerperioden 2021 und 2022.
+<sup>1</sup> Die Vergütung gemäss § 107a des Steuergesetzes[^14-1] für die Einschätzung der Unselbständigerwerbenden und Nichterwerbstätigen beträgt CHF 35.– pro veranlagte steuerpflichtige Person und Veranlagungsperiode und gilt für die Bearbeitung der Steuererklärungen in den Kalenderjahren 2024 und 2025.
+
+<sup>2</sup> Für die Bearbeitung der Steuererklärungen im Kalenderjahr 2023 beträgt die Vergütung CHF 30.–.
 
 [^14-1]: [SGS 331](https://bl.clex.ch/data/331/de/art107a)
 
@@ -366,17 +368,17 @@ beschliesst:
 
 <sup>1</sup> Der Vergütungszins beträgt:
 
-- a. für das Kalenderjahr 2020 — 0,2 %;
-- b. für das Kalenderjahr 2021 — 0,2 %;
-- c. für das Kalenderjahr 2022 — 0,2 %;
-- d. für das Kalenderjahr 2023 — 0,2 %.
+- a. für das Kalenderjahr 2021 — 0,20 %;
+- b. für das Kalenderjahr 2022 — 0,20 %;
+- c. für das Kalenderjahr 2023 — 0,20 %;
+- d. für das Kalenderjahr 2024 — 0,80 %.
 
 <sup>2</sup> Der Verzugszins beträgt:
 
-- a. für das Kalenderjahr 2020 — 6,0 %;
-- b. für das Kalenderjahr 2021 — 5,0 %;
-- c. für das Kalenderjahr 2022 — 5,0 %;
-- d. für das Kalenderjahr 2023 — 5,0 %.
+- a. für das Kalenderjahr 2021 — 5,00 %;
+- b. für das Kalenderjahr 2022 — 5,00 %;
+- c. für das Kalenderjahr 2023 — 5,00 %;
+- d. für das Kalenderjahr 2024 — 4,75 %.
 
 <sup>3</sup> Die Berechnung der Zinsen gemäss den Abs. 1 und 2 wird auf der Basis eines Kalenderjahres mit 365 bzw. 366 Tagen vorgenommen.
 
