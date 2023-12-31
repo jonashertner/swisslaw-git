@@ -4,13 +4,12 @@ number: "164.211"
 title: Geschäftsreglement der regionalen Schlichtungsbehörde Berner Jura-Seeland
 short: GeschR SB BJS
 language: de
-version: 2011-01-01
-valid_until: 2023-12-31
-version_adopted: 2010-11-09
+version: 2024-01-01
+version_adopted: 2023-10-31
 adopted: 2010-11-09
 in_force: 2011-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/164.211"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1045/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2918/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1045/pdf_file"
 
 (GeschR SB BJS)
 
-vom 09.11.2010 (Stand 01.01.2011)
+vom 09.11.2010 (Stand 01.01.2024)
 
 Die regionale Schlichtungsbehörde Berner Jura-Seeland,
 
@@ -35,7 +34,7 @@ beschliesst:
 
 **Stellung**
 
-<sup>1</sup> Unter Vorbehalt der Aufgaben und Befugnisse der Justizleitung, des Obergerichts und des Regionalgerichts Berner Jura-Seeland ist die Schlichtungsbehörde in Verwaltung und Organisation selbstständig.
+<sup>1</sup> Unter Vorbehalt der Aufgaben und Befugnisse der Justizverwaltungsleitung, des Obergerichts und des Regionalgerichts Berner Jura-Seeland ist die Schlichtungsbehörde in Verwaltung und Organisation selbstständig.
 
 <sup>2</sup> Wo nötig, spricht sich die Geschäftsleiterin oder der Geschäftsleiter mit den Leitungsorganen der übrigen in der Region Berner Jura-Seeland ansässigen Zivil- und Strafgerichtsbehörden und dem Obergericht ab.
 
@@ -43,11 +42,11 @@ beschliesst:
 
 **Grundsätze der Selbstverwaltung**
 
-<sup>1</sup> Die Grundsätze der Führungs-, Leistungs- und Kostenorientierung gemäss Artikel 3 Absatz 2, 4, und 5 des Gesetzes vom 26. März 2002 über die Steuerung von Finanzen und Leistungen (FLG)[^2-1] sind von sämtlichen leitenden Personen und Organen der Schlichtungsbehörde zu beachten und sinngemäss umzusetzen.
+<sup>1</sup> Die Leitungsorgane beachten sinngemäss die allgemeinen Grundsätze der Steuerung von Finanzen und Leistungen gemäss Artikel 3 des Finanzhaushaltsgesetzes vom 15. Juni 2022 (FHG)[^2-1].
 
 <sup>2</sup> Die Schlichtungsbehörde bekennt sich gegen innen und aussen zum Grundsatz der Transparenz und zum Recht auf Information, unter Beachtung des Amtsgeheimnisses und des Datenschutzes.
 
-[^2-1]: BSG 620.0
+[^2-1]: BSG [620.0](https://www.belex.sites.be.ch/data/620.0/de)
 
 #### Art. 3
 
@@ -109,6 +108,8 @@ beschliesst:
 
 <sup>8</sup> Sie ist unter Vorbehalt der Genehmigung des Obergerichts zuständig für den Erlass und die Änderung dieses Geschäftsreglements.
 
+<sup>9</sup> Sie kann ihre Aufgaben gemäss den Absätzen 3 und 6 delegieren.
+
 #### Art. 7
 
 **Einberufung, Traktandierung**
@@ -148,16 +149,16 @@ beschliesst:
 
 - a die Vertretung der Schlichtungsbehörde gegenüber dem Obergericht und gegen aussen,
 - b die Erarbeitung und den Abschluss der Vereinbarung mit dem Regionalgericht Berner Jura-Seeland,
-- c die Vertretung der Schlichtungsbehörde im Regionalgericht Berner Jura-Seeland und die Wahrung deren Interessen in der Erweiterten Geschäftsleitung,
+- c die Vertretung der Schlichtungsbehörde im Regionalgericht Berner Jura-Seeland und die Wahrung deren Interessen in der Erweiterten Geschäftsleitung des Obergerichts,
 - d die Bewirtschaftung der der Schlichtungsbehörde zur Verfügung stehenden Ressourcen,
 - e das Personalwesen in der Schlichtungsbehörde, soweit nicht die Vorsitzendenkonferenz zuständig ist,
 - f das Sicherstellen einer hohen fachlichen und sozialen Kompetenz der Mitarbeiterinnen und Mitarbeiter,
-- g das Führen der Jahresgespräche mit der Stellvertreterin oder dem Stellvertreter, mit den Vorsitzenden, den Gerichtsschreiberinnen und Gerichtsschreibern und den Gerichtssekretärinnen und Gerichtssekretären,
+- g das Führen der Standortgespräche mit der Stellvertreterin oder dem Stellvertreter, mit den Vorsitzenden, den Gerichtsschreiberinnen und Gerichtsschreibern und den Gerichtssekretärinnen und Gerichtssekretären,
 - h die Aufsicht über den Sekretariatsbetrieb,
 - i die Aufsicht über das Rechnungswesen,
 - k die Regelung über den Belastungsausgleich unter den Vorsitzenden,
-- l den Entscheid über die Aushilfe von Vorsitzenden in anderen Gerichts- und Schlichtungsbehörden,
-- m den Einsatz von Aushilfen aus anderen Behörden,
+- l …
+- m den Einsatz von vom Obergericht bezeichneten Aushilfen aus anderen Behörden,
 - n die Einberufung und die Leitung der Sitzungen der Vorsitzendenkonferenz,
 - o den Vollzug der Beschlüsse der Vorsitzendenkonferenz,
 - p die Pflege des Kontakts mit den Fachrichterinnen und Fachrichtern und deren Information,
@@ -213,9 +214,26 @@ beschliesst:
 
 #### Art. 14
 
-**Finanzkompetenzen**
+**Finanzkompetenzen für Verwaltungsaufgaben**
 
-<sup>1</sup> Die Geschäftsleiterin oder der Geschäftsleiter oder deren oder dessen Stellvertretung entscheidet über einmalige Ausgaben bis zu einer Höhe von 10 000 Franken in eigener Kompetenz.
+<sup>1</sup> Die Geschäftsleiterin oder der Geschäftsleiter bewilligt Ausgaben für Verwaltungsaufgaben bis zu einer Höhe von 30'000 Franken in eigener Kompetenz. Eine Delegation an die Stellvertreterin oder den Stellvertreter der Geschäftsleiterin oder des Geschäftsleiters oder an die Ressourcenverantwortliche oder den Ressourcenverantwortlichen des Regionalgerichts Berner Jura-Seeland ist möglich.
+
+<sup>2</sup> Ausgaben über 30'000 Franken bedürfen einer Ausgabenbewilligung durch die Geschäftsleitung des Obergerichts.
+
+#### Art. 14a
+
+**Finanzkompetenzen für Verfahren in Zivilsachen**
+
+<sup>1</sup> Für die Ausgaben in Zusammenhang mit Verfahren in Zivilsachen gilt die finanzielle Belegfreigabe unabhängig von der Höhe als Ausgabenbewilligung (Art. 31 Abs. 1 Bst. e der Finanzhaushaltsverordnung vom 16.11.2022 [FHaV][^14a-1]).
+
+<sup>2</sup> Die Verfahrensleitung ist für die materielle Prüfung der Ausgaben zuständig. Obliegt ihr bei einer Ausgabe die finanzielle Belegfreigabe, übernimmt die leitende Gerichtsschreiberin oder der leitende Gerichtsschreiber die materielle Prüfung.
+
+<sup>3</sup> Die finanzielle Belegfreigabe erfolgt
+
+- a bei Ausgaben bis zu einer Höhe von 30'000 Franken durch die Geschäftsleiterin oder den Geschäftsleiter oder durch deren oder dessen Stellvertreterin oder Stellvertreter,
+- b bei Ausgaben über 30'000 Franken durch die Geschäftsleiterin oder den Geschäftsleiter.
+
+[^14a-1]: BSG [621.1](https://www.belex.sites.be.ch/data/621.1/de)
 
 ### 2.6 Protokollierung und Information
 

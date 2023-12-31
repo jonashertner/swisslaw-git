@@ -4,13 +4,12 @@ number: "164.211"
 title: "Règlement de gestion de l'Autorité régionale de conciliation du Jura bernois – Seeland"
 short: RG AC JBS
 language: fr
-version: 2011-01-01
-valid_until: 2023-12-31
-version_adopted: 2010-11-09
+version: 2024-01-01
+version_adopted: 2023-10-31
 adopted: 2010-11-09
 in_force: 2011-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/164.211"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1045/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2918/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1045/pdf_file"
 
 (RG AC JBS)
 
-du 09.11.2010 (état au 01.01.2011)
+du 09.11.2010 (état au 01.01.2024)
 
 L’Autorité régionale de conciliation du Jura bernois-Seeland,
 
@@ -35,7 +34,7 @@ arrête:
 
 **Statut**
 
-<sup>1</sup> Sous réserve des tâches et des attributions de la Direction de la magistrature, de la Cour suprême et du Tribunal régional du Jura bernois-Seeland, l’Autorité de conciliation s’administre et s’organise elle-même.
+<sup>1</sup> Sous réserve des tâches et des attributions de la Direction administrative de la magistrature, de la Cour suprême et du Tribunal régional du Jura bernois-Seeland, l’Autorité de conciliation s’administre et s’organise elle-même.
 
 <sup>2</sup> Si nécessaire, le ou la juge en chef se concerte avec les organes de direction des autres autorités judiciaires civiles et pénales de la région du Jura bernois-Seeland ainsi qu’avec la Cour suprême.
 
@@ -43,11 +42,11 @@ arrête:
 
 **Principes de l’auto-administration**
 
-<sup>1</sup> Les personnes et les organes de direction de l’Autorité de conciliation respectent et appliquent par analogie les principes visant à mettre l’accent sur la direction stratégique, les prestations fournies et les coûts conformément à l’article 3, alinéas 2, 4 et 5 de la loi du 26 mars 2002 sur le pilotage des finances et des prestations (LFP)[^2-1].
+<sup>1</sup> Les organes de direction respectent par analogie les principes généraux visant à mettre l’accent sur le pilotage des finances et des prestations conformément à l’article 3 de la loi du 15 juin 2022 sur les finances (LFin)[^2-1].
 
 <sup>2</sup> L’Autorité de conciliation applique à l’interne comme à l’externe le principe de la transparence et du droit à l’information, tout en respectant le secret de fonction et la protection des données.
 
-[^2-1]: RSB 620.0
+[^2-1]: RSB [620.0](https://www.belex.sites.be.ch/data/620.0/fr)
 
 #### Art. 3
 
@@ -109,6 +108,8 @@ arrête:
 
 <sup>8</sup> Elle est compétente pour édicter et modifier le présent règlement, sous réserve de l’approbation de la Cour suprême.
 
+<sup>9</sup> Elle peut déléguer ses tâches énoncées aux alinéas 3 et 6.
+
 #### Art. 7
 
 **Convocation, ordre du jour**
@@ -148,16 +149,16 @@ arrête:
 
 - a représenter l’Autorité de conciliation devant la Cour suprême et à l’extérieur;
 - b élaborer et conclure la convention avec le Tribunal régional du Jura bernois-Seeland;
-- c représenter l’Autorité de conciliation au Tribunal régional du Jura bernois-Seeland et défendre les intérêts de celle-ci au sein du directoire élargi;
+- c représenter l’Autorité de conciliation au Tribunal régional du Jura bernois-Seeland et défendre les intérêts de celle-ci au sein du directoire élargi de la Cour suprême;
 - d gérer les ressources à disposition de l’Autorité de conciliation;
 - e gérer le personnel de l’Autorité de conciliation, dans la mesure où la conférence des présidents n’est pas compétente;
 - f garantir des compétences professionnelles et sociales élevées des agents et des agentes;
-- g conduire les entretiens annuels avec son suppléant ou sa suppléante, les présidents et les présidentes, les greffiers et les greffières et les secrétaires de tribunal;
+- g conduire les entretiens de bilan avec son suppléant ou sa suppléante, les présidents et les présidentes, les greffiers et les greffières et les secrétaires de tribunal;
 - h surveiller le fonctionnement du secrétariat;
 - i surveiller la comptabilité;
 - k régler la répartition équilibrée de la charge de travail des présidents et présidentes;
-- l décider si les présidents et présidentes doivent prêter main-forte à d’autres autorités judiciaires ou de conciliation;
-- m demander de l’aide à d’autres autorités;
+- l …
+- m demander de l’aide, désignée par la Cour suprême, à d’autres autorités;
 - n convoquer et diriger les séances de la conférence des présidents;
 - o exécuter les décisions de la conférence des présidents;
 - p maintenir le contact avec les juges spécialisés et les informer;
@@ -213,9 +214,26 @@ arrête:
 
 #### Art. 14
 
-**Compétences financières**
+**Compétences financières pour les tâches administratives**
 
-<sup>1</sup> Le ou la juge en chef ou son suppléant ou sa suppléante sont seuls compétents pour autoriser les dépenses uniques jusqu’à concurrence de 10 000 francs.
+<sup>1</sup> Le ou la juge en chef est seule compétente pour autoriser les dépenses pour les tâches administratives jusqu’à concurrence de 30'000 francs. Une délégation au suppléant ou à la suppléante du ou de la juge en chef ou au ou à la responsable des ressources du Tribunal régional du Jura bernois-Seeland est possible.
+
+<sup>2</sup> Les dépenses supérieures à 30'000 francs sont soumises à autorisation du directoire de la Cour suprême.
+
+#### Art. 14a
+
+**Compétences financières pour les procédures en matière civile**
+
+<sup>1</sup> Pour les dépenses liées aux procédures en matière civile, la validation financière des pièces comptables vaut autorisation de dépenses, quel que soit le montant (art. 31, al. 1, lit. e de l’ordonnance du 16.11.2022 sur les finances [OFin][^14a-1]).
+
+<sup>2</sup> La direction de la procédure est compétente pour l’examen matériel des dépenses. Si la validation financière des pièces comptables d’une dépense lui incombe, le greffier ou la greffière en chef se charge de l’examen matériel.
+
+<sup>3</sup> La validation financière des pièces comptables est effectuée
+
+- a pour les dépenses jusqu’à 30'000 francs, par le ou la juge en chef ou par son suppléant ou sa suppléante,
+- b pour les dépenses supérieures à 30'000 francs, par le ou la juge en chef.
+
+[^14a-1]: RSB [621.1](https://www.belex.sites.be.ch/data/621.1/fr)
 
 ### 2.6 Procès-verbaux et information
 
