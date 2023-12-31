@@ -4,13 +4,13 @@ number: "722.212"
 title: Reglement zum Gesetz über den Feuerschutz
 short: "Feuerschutzreglement, FSR"
 language: de
-version: 2023-01-01
-valid_until: 2023-12-31
-version_adopted: 2022-11-24
+version: 2024-01-01
+valid_until: 2026-04-30
+version_adopted: 2023-11-23
 adopted: 2022-11-24
 in_force: 2023-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/722.212"
-pdf: "https://bgs.zg.ch/api/de/versions/2400/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2513/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,11 +19,11 @@ pdf: "https://bgs.zg.ch/api/de/versions/2400/pdf_file"
 
 (Feuerschutzreglement, FSR)
 
-Vom 24. November 2022 (Stand 1. Januar 2023)
+Vom 24. November 2022 (Stand 1. Januar 2024)
 
 Der Verwaltungsrat der Gebäudeversicherung Zug,
 
-gestützt auf die §§ 19 Abs. 1, 31a, 37 Abs. 2, 2a und 2b, 49 Abs. 1, 51 Abs. 1, 51a Abs. 2 und 56 Abs. 3 des Gesetzes über den Feuerschutz vom 15. Dezember 1994 (Feuerschutzgesetz, FSG)[^ingress-1] sowie auf § 4 Abs. 1 Ziff. 38 und § 13 des Kantonsratsbeschlusses über die Gebühren in Verwaltungs- und Zivilsachen vom 11. März 1974 (Verwaltungsgebührentarif)[^ingress-2],
+gestützt auf die § 19 Abs. 1, § 31a, § 37 Abs. 2, 2a und 2b, § 49 Abs. 1, § 51 Abs. 1, § 51a Abs. 2 und § 56 Abs. 3 des Gesetzes über den Feuerschutz (Feuerschutzgesetz, FSG) vom 15. Dezember 1994[^ingress-1] sowie auf § 4 Abs. 1 Ziff. 38 und § 13 des Kantonsratsbeschlusses über die Gebühren in Verwaltungs- und Zivilsachen (Verwaltungsgebührentarif) vom 11. März 1974[^ingress-2],
 
 beschliesst:
 
@@ -553,43 +553,55 @@ beschliesst:
 
 <sup>1</sup> Die Gemeinden haben aufgrund ihrer Einteilung in die entsprechende Grössenklasse und bei ausgewiesenem Bedarf Anspruch auf die Anzahl der in Ziff. 56 nachfolgend aufgeführten Fahrzeuge.
 
-<sup>2</sup> An deren Anschaffung richtet die Gebäudeversicherung Zug Beiträge von 40 % des Beschaffungspreises, höchstens aber den in Ziff. 56 nachfolgend definierten Höchstbetrag aus.
+<sup>2</sup> An deren Anschaffung richtet die Gebäudeversicherung Zug pauschale und vom tatsächlichen Kaufpreis unabhängige Beiträge aus.
 
-<sup>3</sup> Die Gebäudeversicherung Zug kann Beiträge ausserhalb der Rahmenbedingungen von Ziff. 56 leisten, wenn sie einen Mehrwert für die Intervention in der gesuchstellenden Gemeinde erkennt.
+<sup>2a</sup> Pro Fahrzeugkategorie werden folgende Beiträge ausgerichtet (Stand: 1. Januar 2024):
+
+- a) Tanklöschfahrzeug, Fr. 223'000.–
+- b) Atemschutzfahrzeug, Fr. 111'000.–
+- c) Pionierfahrzeug, Fr. 200'000.–
+- d) Transportfahrzeug, Fr. 45'000.–
+- e) Ersteinsatzlöschfahrzeug, Fr. 134'000.–
+
+<sup>2b</sup> Diese Beiträge sind an die Indexierung der Versicherungswerte der Gebäudeversicherung Zug gebunden.
+
+<sup>2c</sup> Die Gebäudeversicherung Zug teilt den Gemeinden und Feuerwehren Ende November die jeweils aktuellen Beitragswerte für das folgende Jahr mit.
+
+<sup>3</sup> Die Gebäudeversicherung Zug kann Beiträge ausserhalb der Rahmenbedingungen von Ziff. 55 Abs. 2a und Ziff. 56 leisten, wenn sie einen Mehrwert für die Intervention in der gesuchstellenden Gemeinde erkennt.
 
 <sup>4</sup> Fahrzeuge, an welche die Gebäudeversicherung Zug Beiträge geleistet hat, müssen bei Bedarf an kantonalen Kursen, Übungen etc. unentgeltlich zur Verfügung gestellt werden.
 
 #### Ziff. 56
 
-**Grössenklassen, Fahrzeugart, Fahrzeuganzahl (in Klammern) und Höchstbeträge**
+**Grössenklassen, Fahrzeugart und Fahrzeuganzahl (in Klammern)**
 
 <sup>1</sup> Grössenklasse 1: Stadt Zug:
 
-- a) Tanklöschfahrzeug, (2), Fr. 650'000.–
-- b) Offiziersfahrzeug, (1), Fr. 80'000.–
-- c) Dienstfahrzeug, (1), Fr. 80'000.–
-- d) Zusatzfahrzeuge für Transporte, (6), Fr. 110'000.– bis 3.5t bzw. Fr. 140'000.– schwerer als 3.5t
-- e) Atemschutzfahrzeug, (1), Fr. 400'000.–
+- a) Tanklöschfahrzeug (2)
+- b) …
+- c) …
+- d) Transportfahrzeug (8)
+- e) …
 
 <sup>2</sup> Grössenklasse 2: Gemeinden Baar und Cham:
 
-- a) Tanklöschfahrzeug, (1), Fr. 650'000.–
-- b) Pikettfahrzeug, (1), Fr. 550'000.–
-- c) Pionierfahrzeug, (1), Fr. 600'000.–
-- d) Atemschutzfahrzeug, (1), Fr. 280'000.–
-- e) Verkehrsdienstfahrzeug, (1), Fr. 140'000.–
-- f) Vorausfahrzeug, (1), Fr. 80'000.–
-- g) Einsatzleitfahrzeug, (1), Fr. 200'000.–
-- h) Zusatzfahrzeug für Transporte, (5), Fr. 110'000.– bis 3.5t bzw. Fr. 140'000.– schwerer als 3.5t
-- i) Ersteinsatz-/Löschfahrzeug Allenwinden, (1, nur Baar), Fr. 300'000.–
+- a) Tanklöschfahrzeug (1)
+- b) …
+- c) Pionierfahrzeug (1)
+- d) Atemschutzfahrzeug (1)
+- e) …
+- f) …
+- g) …
+- h) Transportfahrzeug (7)
+- i) Ersteinsatzlöschfahrzeug Allenwinden (1, nur Baar)
 
 <sup>3</sup> Grössenklasse 3: Hünenberg, Menzingen, Neuheim, Oberägeri, Risch, Steinhausen, Unterägeri, Walchwil:
 
-- a) Tanklöschfahrzeug, (1), Fr. 650'000.–
-- b) Pikett-/Pionierfahrzeug, (1), Fr. 550'000.–
-- c) Atemschutzfahrzeug, (1), Fr. 280'000.–
-- d) Vorausfahrzeug, (1), Fr. 80'000.–
-- e) Zusatzfahrzeug für Transporte, (5), Fr. 110'000.– bis 3.5t bzw. Fr. 140'000.– schwerer als 3.5t
+- a) Tanklöschfahrzeug (1)
+- b) Pionierfahrzeug (1)
+- c) Atemschutzfahrzeug (1)
+- d) …
+- e) Transportfahrzeug (6)
 
 #### Ziff. 57
 
@@ -597,15 +609,21 @@ beschliesst:
 
 <sup>1</sup> Bei Ersatzbeschaffungen für Feuerwehrfahrzeuge kann ein Beitrag frühestens geltend gemacht werden nach:
 
-- a) 20 Jahren für Fahrzeuge mit einem Gesamtgewicht über 7.5t (Kategorie C);
-- b) 15 Jahren für Fahrzeuge mit einem Gesamtgewicht bis 7.5t;
-- c) 10 Jahren für Occasionsfahrzeuge und Personenwagen bis 3.5t (Kategorie B)
+- a) 20 Jahren für ein Tanklöschfahrzeug
+- b) 15 Jahren für ein Atemschutzfahrzeug
+- c) 20 Jahren für ein Pionierfahrzeug
+- d) 12 Jahren für ein Transportfahrzeug
+- e) 15 Jahren für ein Ersteinsatzlöschfahrzeug
 
-<sup>2</sup> Allfällige Erträge, beispielsweise durch den Eintausch eines Fahrzeugs, werden vom Beschaffungspreis (maximal bis zum Höchstbetrag) in Abzug gebracht.
+<sup>1a</sup> Wird die Dauer für die frühestmögliche Geltendmachung überschritten, so wird der Beitrag der Gebäudeversicherung Zug bei der anschliessenden Ersatzbeschaffung um den der Überschreitung entsprechenden Anteil erhöht, jedoch maximal bis um die Hälfte des Betrags gemäss Ziff. 55 Abs. 2a. Bei der Berechnung der Erhöhung werden allfällige Indexanpassungen im Sinne von Ziff. 55 Abs. 2b mitberücksichtigt.
+
+<sup>2</sup> …
 
 <sup>3</sup> Wird ein Fahrzeug vor Ablauf der Fristen gemäss Abs. 1 aus dem Verkehr gezogen, ist der Beitrag für die nicht genutzten Jahre der Gebäudeversicherung Zug zurückzuerstatten.
 
-<sup>4</sup> Der Beitrag an die Feuerwehrfahrzeuge wird ohne Kürzung ausgerichtet, wenn sie im Einsatz oder während der Ausbildung derart beschädigt wurden, dass eine Reparatur nicht mehr in Frage kommt oder dies unwirtschaftlich wäre. Allfällige Versicherungsbeiträge werden vom Beschaffungspreis (maximal bis zum Höchstbetrag) in Abzug gebracht.
+<sup>4</sup> Der Beitrag an die Feuerwehrfahrzeuge wird ohne Kürzung ausgerichtet, wenn sie im Einsatz oder während der Ausbildung derart beschädigt wurden, dass eine Reparatur nicht mehr in Frage kommt oder dies unwirtschaftlich wäre. Allfällige Versicherungsbeiträge werden anteilsmässig vom neuen Beitrag in Abzug gebracht.
+
+<sup>5</sup> Dieser Abzug berechnet sich nach der folgenden Formel:
 
 ### 4.2.3.2. Beiträge an die Fahrzeuge von weiteren Feuerwehren
 
@@ -707,7 +725,7 @@ beschliesst:
 
 <sup>3</sup> Danach ist der Gebäudeversicherung Zug ein schriftlicher und durch den Gemeinderat und das Feuerwehrkommando unterzeichneter Antrag für die Beitragszusicherung einzureichen. Der Antrag beinhaltet mindestens das Bedarfskonzept, das Pflichtenheft, die Offertunterlagen und die Kopie des Gemeinderatsbeschlusses.
 
-<sup>4</sup> In der Folge prüft die Gebäudeversicherung Zug den eingereichten Antrag. Sind alle Voraussetzungen für eine Beitragsleistung erfüllt, erfolgt die Beitragszusicherung durch den Verwaltungsrat der Gebäudeversicherung Zug.
+<sup>4</sup> In der Folge prüft die Gebäudeversicherung Zug den eingereichten Antrag. Sind alle Voraussetzungen für eine Beitragsleistung erfüllt, erfolgt die Beitragszusicherung durch die Gebäudeversicherung Zug.
 
 <sup>5</sup> Anschaffungen, für die eine Beitragszusicherung vorliegt, können nach der Lieferung bzw. Inbetriebnahme abgerechnet werden.
 
