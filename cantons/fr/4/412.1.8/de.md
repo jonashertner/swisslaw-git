@@ -1,34 +1,35 @@
 ---
 canton: FR
 number: "412.1.8"
-title: Interkantonale Vereinbarung über die Schaffung und den Betrieb des Interkantonalen Gymnasiums der Region Broye
-short: CIGB
 language: de
-version: 2018-07-01
-valid_until: 2023-12-31
-version_adopted: 2018-05-23
+version: 2024-01-01
+version_adopted: 2023-12-20
 adopted: 2002-12-09
 in_force: 2003-06-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/412.1.8"
-pdf: "https://bdlf.fr.ch/api/de/versions/6142/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8287/pdf_file"
 text: pdf
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Interkantonale Vereinbarung über die Schaffung und den Betrieb des Interkantonalen Gymnasiums der Region Broye (CIGB)
+# 
 
-vom 09.12.2002 (Fassung in Kraft getreten am 01.07.2018)
+Interkantonale Vereinbarung über die Schaffung und den Betrieb des Interkantonalen Gymnasiums der Region Broye (CIGB)
 
-## Der Kanton Freiburg und der Kanton Waadt
+vom 09.12.2002 (Fassung in Kraft getreten am 01.01.2024)
+
+Der Kanton Freiburg und der Kanton Waadt
 
 gestützt auf den Artikel 48 der Bundesverfassung;
 
 gestützt auf die Artikel 45 Bst. b und m und 52 Abs. 1 Bst. l der Staatsverfassung des Kantons Freiburg;
 
-gestützt auf den Artikel 52 Abs. 2 der Staatsverfassung des Kantons Waadt; vom Wunsche geleitet, in der Region Broye wegen der steigenden Schülerzahl eine Mittelschulbildung anbieten zu können, haben beschlossen, ihre Bemühungen zu vereinen und eine interkantonale Zusammenarbeit aufzubauen, die wegen geografischen und demografischen Besonderheiten der Region notwendig wurde,
+gestützt auf den Artikel 52 Abs. 2 der Staatsverfassung des Kantons Waadt;
 
-## vereinbaren Folgendes:
+vom Wunsche geleitet, in der Region Broye wegen der steigenden Schülerzahl eine Mittelschulbildung anbieten zu können, haben beschlossen, ihre Bemühungen zu vereinen und eine interkantonale Zusammenarbeit aufzubauen, die wegen geografischen und demografischen Besonderheiten der Region notwendig wurde,
+
+vereinbaren Folgendes:
 
 - 1\. KAPITEL Allgemeines
 
@@ -64,11 +65,14 @@ Das Gymnasium steht in Payerne.
 
 <sup>1</sup> Das Einzugsgebiet erstreckt sich:
 
-- a) für den Kanton Freiburg: auf die Gemeinden des Broyebezirks, auf die Gemeinden Villarepos (Seebezirk) und Châtonnaye (Glanebezirk);
+- a) für den Kanton Freiburg: auf die Gemeinden des Broyebezirks, auf die Gemeinden Villarepos (Seebezirk), Châtonnaye und Ecublens (Glanebezirk)[^5-1];
 
-- b) für den Kanton Waadt: auf die Gemeinden der Bezirke Avenches und Payerne sowie die Gemeinden Brenles, Bussy-sur-Moudon, Chavannessur-Moudon, Chesalles-sur-Moudon, Cremin, Curtilles, Denezy, Dompierre, Forel-sur-Lucens, Hermenches, Lovatens, Lucens, Martherenges, Moudon, Neyruz-sur-Moudon, Oulens-sur-Lucens, Prévonloup, Rossens, Sarzens und Villars-le-Comte (Bezirk Moudon).
+- b) für den Kanton Waadt: auf die Gemeinden der Bezirke Avenches und Payerne sowie die Gemeinden Brenles, Bussysur-Moudon, Chavannes-sur-Moudon, Chesalles-sur-Moudon, Cremin, Curtilles, Denezy, Dompierre, Forel-sur-Lucens, Hermenches, Lovatens, Lucens, Martherenges, Moudon, Neyruz-sur-Moudon, Oulens-sur-Lucens, Prévonloup, Rossens, Sarzens und Villars-le-Comte (Bezirk Moudon)[^5-2].
 
 <sup>2</sup> Das Einzugsgebiet kann von den Staatsräten der beiden Kantone auf Antrag des Aufsichtsrates geändert werden.
+
+[^5-1]: Nach den Gemeindefusionen erstreckt sich das Einzugsgebiet für den Kanton Freiburg seit dem 1. Januar 2025 auf die Gemeinden des Bezirks Broye, den Sektor Villarepos der neuen Gemeinde Courtepin (Seebezirk) sowie die Gemeinde Châtonnaye und den Sektor Ecublens der neuen Gemeinde Rue (Glanebezirk).
+[^5-2]: Gemäss dem Gesetz vom 30. Mai 2006 über die territoriale Aufteilung (loi sur le découpage territorial, LDecTer, BLV 132.15) und nach den Gemeindefusionen erstreckt sich das Einzugsgebiet für den Kanton Waadt seit dem 1. Januar 2017 auf die Gemeinden Avenches, Bussy-sur-Moudon, Champtauroz, Chavannes-sur-Moudon, Chevroux, Corcelles-près-Payerne, Cudrefin, Curtilles, Dompierre, Faoug, Grandcour, Henniez, Hermenches, Lovatens, Lucens, Missy, Moudon, Payerne, Prévonloup, Rossenges, Trey, Treytorrens (Payerne), Valbroye, Villars-le-Comte, Villarzel und Vully-les-Lacs (Bezirk Broye-Vully) sowie die Sektoren Denezy, Martherenges und Neyruz-sur-Moudon der neuen Gemeinde Montanaire (Bezirk Grosde-Vaud).
 
 #### Art. 6
 
@@ -504,7 +508,9 @@ Der Aufsichtsrat erlässt die Bestimmungen über das Anstellungsverfahren, namen
 
 **Besoldung**
 
-- a) Elemente Die Besoldung des Personals umfasst:
+- a) Elemente
+
+Die Besoldung des Personals umfasst:
 
 - a) das Gehalt;
 
@@ -542,7 +548,9 @@ Jedes Jahr passt der Aufsichtsrat die Gehälter anhand des Durchschnitts allfäl
 
 **Jährliche Gehaltserhöhung**
 
-- a) Grundsatz Zu Beginn eines Kalenderjahrs und bis zum Maximalbetrag der Klasse, die seiner Funktion entspricht, hat der Mitarbeiter Anspruch auf eine jährliche Erhöhung von einer oder zwei Stufen, wenn die folgenden Bedingungen erfüllt sind:
+- a) Grundsatz
+
+Zu Beginn eines Kalenderjahrs und bis zum Maximalbetrag der Klasse, die seiner Funktion entspricht, hat der Mitarbeiter Anspruch auf eine jährliche Erhöhung von einer oder zwei Stufen, wenn die folgenden Bedingungen erfüllt sind:
 
 - a) Der Mitarbeiter ist nicht mehr in der Probezeit.
 
@@ -684,9 +692,7 @@ Erreicht der Mitarbeiter das vom Aufsichtsrat festgelegte Pensionierungsalter, s
 
 #### Art. 61
 
-**Versetzung in den Ruhestand, Frühpensionierung und**
-
-Arbeitsunfähigkeit
+Versetzung in den Ruhestand, Frühpensionierung und Arbeitsunfähigkeit
 
 <sup>1</sup> Die Versetzung in den Ruhestand und die Frühpensionierung werden vom Aufsichtsrat geregelt.
 
@@ -876,16 +882,18 @@ Das Konkordat I vom 7. März 2000 über den Kauf des Grundstücks und die Studie
 
 Die beiden Staatsräte werden mit dem Vollzug dieser Vereinbarung beauftragt. Sie legen das Datum des Inkrafttretens in einem gemeinsamen Beschluss fest, der ein gestaffeltes Inkrafttreten vorsehen kann.
 
-Beitritt durch Dekret vom 12.2.2003 Inkrafttreten für den Kanton Freiburg: 1.6.2003
+Beitritt durch Dekret vom 12.2.2003
+
+Inkrafttreten für den Kanton Freiburg: 1.6.2003
 
 ### Änderungstabelle – Nach Beschlussdatum
 
 ### Beschluss Berührtes Element Änderungstyp Inkrafttreten Quelle (ASF seit 2002)
 
-09.12.2002 Erlass Grunderlass 01.06.2003 2003\_033 23.05.2018 Art. 5 geändert 01.07.2018 2018\_036
+09.12.2002 Erlass Grunderlass 01.06.2003 2003\_033 23.05.2018 Art. 5 geändert 01.07.2018 2018\_036 20.12.2023 Art. 5 geändert 01.01.2024 2024\_003
 
 ### Änderungstabelle – Nach Artikel
 
 ### Berührtes Element Änderungstyp Beschluss Inkrafttreten Quelle (ASF seit 2002)
 
-Erlass Grunderlass 09.12.2002 01.06.2003 2003\_033 Art. 5 geändert 23.05.2018 01.07.2018 2018\_036
+Erlass Grunderlass 09.12.2002 01.06.2003 2003\_033 Art. 5 geändert 23.05.2018 01.07.2018 2018\_036 Art. 5 geändert 20.12.2023 01.01.2024 2024\_003

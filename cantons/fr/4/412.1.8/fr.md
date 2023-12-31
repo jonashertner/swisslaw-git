@@ -4,23 +4,24 @@ number: "412.1.8"
 title: Convention intercantonale sur la création et l’exploitation du Gymnase intercantonal de la Broye
 short: CIGB
 language: fr
-version: 2018-07-01
-valid_until: 2023-12-31
-version_adopted: 2018-05-23
+version: 2024-01-01
+version_adopted: 2023-12-20
 adopted: 2002-12-09
 in_force: 2003-06-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/412.1.8"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6142/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8287/pdf_file"
 text: pdf
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi. Le canton ne publie cette version qu’en PDF : le texte en est extrait, la structure déduite de la mise en page.
 
-# Convention intercantonale sur la création et l’exploitation du Gymnase intercantonal de la Broye (CIGB)
+# Convention intercantonale sur la création et l’exploitation du Gymnase intercantonal de la Broye
 
-du 09.12.2002 (version entrée en vigueur le 01.07.2018)
+Convention intercantonale sur la création et l’exploitation du Gymnase intercantonal de la Broye (CIGB)
 
-## Le canton de Fribourg et le canton de Vaud
+du 09.12.2002 (version entrée en vigueur le 01.01.2024)
+
+Le canton de Fribourg et le canton de Vaud
 
 Vu l’article 48 de la Constitution fédérale ;
 
@@ -30,7 +31,7 @@ Vu l’article 52 al. 2 de la Constitution du canton de Vaud ;
 
 Désireux d’offrir dans la région de la Broye une formation secondaire supérieure pour répondre à l’accroissement du nombre d’élèves, décident d’unir leurs efforts par une collaboration intercantonale rendue nécessaire par les spécificités géographiques et démographiques de la région et, à cet effet,
 
-## Conviennent de ce qui suit :
+Conviennent de ce qui suit :
 
 CHAPITRE PREMIER Généralités
 
@@ -38,7 +39,7 @@ CHAPITRE PREMIER Généralités
 
 **Création du Gymnase**
 
-Les cantons de Fribourg et de Vaud (ci-après : les deux cantons) décident de créer et d’exploiter en commun un établissement d’enseignement secondaire supérieur dénommé « Gymnase intercantonal de la Broye » (ciaprès : le Gymnase).
+Les cantons de Fribourg et de Vaud (ci-après : les deux cantons) décident de créer et d’exploiter en commun un établissement d’enseignement secondaire supérieur dénommé « Gymnase intercantonal de la Broye » (ci-après : le Gymnase).
 
 #### Art. 2
 
@@ -66,11 +67,14 @@ Le Gymnase est situé à Payerne.
 
 <sup>1</sup> L’aire de recrutement s’étend :
 
-- a) pour le canton de Fribourg : aux communes du district de la Broye, à la commune de Villarepos (district du Lac) ainsi qu'à la commune de Châtonnaye (district de la Glâne) ;
+- a) pour le canton de Fribourg : aux communes du district de la Broye, à la commune de Villarepos (district du Lac) ainsi que les communes de Châtonnaye et d’Ecublens (district de la Glâne)[^5-1] ;
 
-- b) pour le canton de Vaud : aux communes des districts d’Avenches et de Payerne ainsi qu’aux communes de Brenles, Bussy-sur-Moudon, Chavannes-sur-Moudon, Chesalles-sur-Moudon, Cremin, Curtilles, Denezy, Dompierre, Forel-sur-Lucens, Hermenches, Lovatens, Lucens, Martherenges, Moudon, Neyruz-sur-Moudon, Oulens-sur-Lucens, Prévonloup, Rossens, Sarzens et Villars-le-Comte (district de Moudon).
+- b) pour le canton de Vaud : aux communes des districts d’Avenches et de Payerne ainsi qu’aux communes de Brenles, Bussy-sur-Moudon, Chavannes-sur-Moudon, Chesalles-sur-Moudon, Cremin, Curtilles, Denezy, Dompierre, Forel-sur-Lucens, Hermenches, Lovatens, Lucens, Martherenges, Moudon, Neyruz-sur-Moudon, Oulens-sur-Lucens, Prévonloup, Rossens, Sarzens et Villars-le-Comte (district de Moudon)[^5-2].
 
 <sup>2</sup> L’aire de recrutement peut être modifiée par les Conseils d’Etat des deux cantons, sur la proposition du Conseil du Gymnase.
+
+[^5-1]: Suite aux fusions de communes, l'aire de recrutement dès le 1er janvier 2025 s'étend, pour le canton de Fribourg, aux communes du district de la Broye, au secteur Villarepos de la nouvelle commune de Courtepin (district du Lac) ainsi qu'à la commune de Châtonnaye et au secteur Ecublens de la nouvelle commune de Rue (district de la Glâne).
+[^5-2]: Suite à la loi du 30 mai 2006 sur le découpage territorial (LDecTer) (BLV 132.15) et aux fusions de communes, l'aire de recrutement dès le 1er janvier 2017 s'étend, pour le canton de Vaud, aux communes d'Avenches, Bussy-sur-Moudon, Champtauroz, Chavannes-sur-Moudon, Chevroux, Corcelles-près-Payerne, Cudrefin, Curtilles, Dompierre, Faoug, Grandcour, Henniez, Hermenches, Lovatens, Lucens, Missy, Moudon, Payerne, Prévonloup, Rossenges, Trey, Treytorrens (Payerne), Valbroye, Villars-le-Comte, Villarzel et Vully-les-Lacs (district de la Broye-Vully) ainsi qu’aux secteurs Denezy, Martherenges et Neyruz-sur-Moudon de la nouvelle commune de Montanaire (district du Gros-de-Vaud).
 
 #### Art. 6
 
@@ -94,7 +98,7 @@ Les cantons sont propriétaire commun du terrain.
 
 <sup>2</sup> Ils en confient la réalisation à une commission de construction composée de huit membres. Chaque canton en désigne quatre, selon sa propre procédure interne.
 
-<sup>3</sup> Les Conseils d’Etat fixent, par un règlement commun, les compétences de la commission de construction, notamment en matière d’adjudication. Pour le surplus, elle s’organise elle-même.
+<sup>3</sup> Les Conseils d’Etat fixent, par un règlement commun, les compétences de la commission de construction, notamment en matière d’adjudication. Pour le surplus, elle s’organise ellemême.
 
 #### Art. 9
 
@@ -340,7 +344,7 @@ L’assemblée des élèves se réunit au moins une fois par année pour traiter
 
 <sup>1</sup> Le Gymnase assure les formations aux titres suivants :
 
-- a) le certificat de maturité, selon le règlement de la Conférence suisse des directeurs cantonaux de l’instruction publique (ci-après : CDIP) du 16 janvier 1995 sur la reconnaissance des certificats de maturité gymnasiale ;
+- a) le certificat de maturité, selon le règlement de la Conférence suisse des directeurs cantonaux de l’instruction publique (ciaprès : CDIP) du 16 janvier 1995 sur la reconnaissance des certificats de maturité gymnasiale ;
 
 - b) le diplôme de culture générale, selon les directives de la CDIP du 11 juin 1987 pour la reconnaissance des diplômes d’écoles du degré diplôme ;
 
@@ -498,7 +502,9 @@ Le Conseil arrête les dispositions relatives à la procédure d’engagement te
 
 **Rémunération**
 
-- a) Eléments La rémunération du personnel comprend :
+- a) Eléments
+
+La rémunération du personnel comprend :
 
 - a) le traitement ;
 
@@ -536,7 +542,9 @@ Chaque année, le Conseil adapte les traitements sur la base de la moyenne des �
 
 **Augmentation annuelle du traitement**
 
-- a) Principe Au début de chaque année civile, le collaborateur a droit à une augmentation annuelle correspondant à un ou deux paliers, jusqu’à l’obtention du traitement maximal correspondant à sa fonction, lorsque les conditions suivantes sont remplies :
+- a) Principe
+
+Au début de chaque année civile, le collaborateur a droit à une augmentation annuelle correspondant à un ou deux paliers, jusqu’à l’obtention du traitement maximal correspondant à sa fonction, lorsque les conditions suivantes sont remplies :
 
 - a) le collaborateur n’est plus en période probatoire ;
 
@@ -560,7 +568,7 @@ Chaque année, le Conseil adapte les traitements sur la base de la moyenne des �
 
 #### Art. 48
 
-**Protection sociale et contributions aux assurances sociales**
+Protection sociale et contributions aux assurances sociales
 
 <sup>1</sup> Le Conseil arrête les dispositions relatives à la prévoyance professionnelle.
 
@@ -678,9 +686,7 @@ Lorsque le collaborateur atteint l’âge limite de la retraite, fixé par le Co
 
 #### Art. 61
 
-**Mise à la retraite, pensionnement anticipé et incapacité**
-
-de travail
+Mise à la retraite, pensionnement anticipé et incapacité de travail
 
 <sup>1</sup> La mise à la retraite et le pensionnement anticipés font l’objet de dispositions arrêtées par le Conseil.
 
@@ -866,16 +872,18 @@ Le concordat du 7 mars 2000 sur l’achat du terrain et les études en vue de la
 
 Les deux Conseils d’Etat sont chargés de l’exécution de la présente convention. Ils en fixent la date d’entrée en vigueur par un arrêté commun, qui peut prévoir une entrée en vigueur différée de certaines dispositions.
 
-Adhésion par décret du 12.2.2003 Entrée en vigueur pour le canton de Fribourg : 1.6.2003
+Adhésion par décret du 12.2.2003
+
+Entrée en vigueur pour le canton de Fribourg : 1.6.2003
 
 ### Tableau des modifications – Par date d'adoption
 
 ### Adoption Elément touché Type de modification Entrée en Source (ROF depuis 2002)
 
-vigueur 09.12.2002 Acte acte de base 01.06.2003 2003\_033 23.05.2018 Art. 5 modifié 01.07.2018 2018\_036
+vigueur 09.12.2002 Acte acte de base 01.06.2003 2003\_033 23.05.2018 Art. 5 modifié 01.07.2018 2018\_036 20.12.2023 Art. 5 modifié 01.01.2024 2024\_003
 
 ### Tableau des modifications – Par article
 
 ### Elément touché Type de modification Adoption Entrée en Source (ROF depuis 2002)
 
-vigueur Acte acte de base 09.12.2002 01.06.2003 2003\_033 Art. 5 modifié 23.05.2018 01.07.2018 2018\_036
+vigueur Acte acte de base 09.12.2002 01.06.2003 2003\_033 Art. 5 modifié 23.05.2018 01.07.2018 2018\_036 Art. 5 modifié 20.12.2023 01.07.2024 2024\_003
