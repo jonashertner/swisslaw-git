@@ -4,11 +4,11 @@ title: "Ordinanza del 18 novembre 2020 sull'utilizzazione dello spettro delle ra
 short: OUS
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/1024"
 language: it
-version: 2021-01-01
+version: 2024-01-01
 adopted: 2020-11-18
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1024/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2020-1024-20210101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/1024/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1024/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2020-1024-20240101-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/1024/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/1024/20210101/it"
 
 (OUS)
 
-del 18 novembre 2020 (Stato 1° gennaio 2021)
+del 18 novembre 2020 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -79,7 +79,9 @@ Nella presente ordinanza si intende per interferenza l’effetto di un’energia
 
 <sup>2</sup> Nell’ambito delle frequenze soggette all’obbligo di concessione, l’autorità concedente di cui all’articolo 22 capoverso 2 lettera a LTC assegna agli utenti le singole frequenze sulla base del PNAF per l’utilizzazione di un impianto di radiocomunicazione a determinate condizioni; fanno eccezione le frequenze situate nelle gamme di frequenze a uso militare.
 
-<sup>3</sup> Per quanto riguarda le gamme di frequenze attribuite in comune all’esercito e al settore civile, l’UFCOM assegna le singole frequenze agli utenti civili sulla base del PNAF, previa consultazione dell’organo militare competente.
+<sup>3</sup> Nelle gamme di frequenze previste per usi sia militari sia civili, l’UFCOM assegna le singole frequenze agli utenti civili sulla base del PNAF, previa consultazione dell’organo militare competente.[^5-1]
+
+[^5-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 722](https://fedlex.data.admin.ch/eli/oc/2023/722)).
 
 #### Art. 6
 
@@ -114,10 +116,17 @@ Una concessione, una notifica preliminare o un certificato di capacità non sono
 - d. con impianti di radiocomunicazione utilizzati esclusivamente per le chiamate d’emergenza sulle frequenze previste;
 - e. con impianti riceventi di radiocomunicazione fissi e mobili che non necessitano di un coordinamento internazionale delle frequenze;
 - f. con impianti terminali di telecomunicazione utilizzati nell’ambito dei servizi di telecomunicazione;
-- g. con impianti di radiocomunicazione che, sotto il controllo di una rete, trasmettono su frequenze soggette a concessione; fanno eccezione le frequenze esercitate in *direct mode*;
-- h. per la cui assegnazione è responsabile, secondo il PNAF, l’esercito o la protezione civile.
+- g.[^8-1] con impianti di radiocomunicazione che, sotto il controllo di una rete, trasmettono sulle sue frequenze soggette a concessione;
+- h.[^8-2] nelle gamme di frequenze previste esclusivamente per usi militari da parte dell’esercito o della protezione civile;
+- i.[^8-3] da parte dell’esercito o della protezione civile in gamme di frequenze previste per usi sia militari sia civili, a condizione che l’UFCOM acconsenta a tale uso previa consultazione dell’organo militare competente;
+- j.[^8-4] per prove di radiocomunicazione in camere anecoiche schermate, a condizione che siano escluse interferenze al di fuori della camera.
 
 <sup>3</sup> L’UFCOM emana le prescrizioni tecniche e amministrative. Definisce in particolare le frequenze di cui al capoverso 2 lettere a, b e d.
+
+[^8-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 722](https://fedlex.data.admin.ch/eli/oc/2023/722)).
+[^8-2]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 722](https://fedlex.data.admin.ch/eli/oc/2023/722)).
+[^8-3]: Introdotta dal n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 722](https://fedlex.data.admin.ch/eli/oc/2023/722)).
+[^8-4]: Introdotta dal n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 722](https://fedlex.data.admin.ch/eli/oc/2023/722)).
 
 #### Art. 9
 
@@ -402,20 +411,22 @@ Sono riconosciuti come dirigenti tecnici:
 
 <sup>1</sup>
 
-Chi intende utilizzare lo spettro delle radiofrequenze di cui alle lettere a–f, deve notificarlo previamente all’UFCOM. Questa disposizione si applica a:
+Chi intende utilizzare lo spettro delle radiofrequenze per uno degli usi seguenti deve notificarlo previamente all’UFCOM:[^33-1]
 
 - a. determinate gamme di frequenze della navigazione marittima e renana o per un impianto di radiocomunicazione marittima portatile con chiamata selettiva digitale (*Digital Selective Calling*; DSC);
 - b. determinate gamme di frequenze delle radiocomunicazioni aeronautiche, della navigazione aeronautica o della sorveglianza aeronautica;
 - c. impianti di radiocomunicazione per radioamatori incustoditi o telecomandati;
 - d. determinate gamme di frequenze per radioamatori;
-- e. ripetitori GPS;
+- e.[^33-2] ripetitori per sistemi globali di navigazione satellitare;
 - f. georadar (*Ground Probing Radar*; GPR).
 
 <sup>2</sup> La notifica autorizza a utilizzare le gamme di frequenze che sono definite nelle prescrizioni tecniche di utilizzo del PNAF.
 
-<sup>3</sup> Lo spettro delle radiofrequenze in una gamma di cui al capoverso 1 lettere a*–*d può essere utilizzato soltanto da chi ha ottenuto un indicativo di chiamata secondo gli articoli 47*d–*47*f* dell’ordinanza del 6 ottobre 1997[^33-1] concernente gli elementi d’indirizzo nel settore delle telecomunicazioni (ORAT).
+<sup>3</sup> Lo spettro delle radiofrequenze in una gamma di cui al capoverso 1 lettere a*–*d può essere utilizzato soltanto da chi ha ottenuto un indicativo di chiamata secondo gli articoli 47*d–*47*f* dell’ordinanza del 6 ottobre 1997[^33-3] concernente gli elementi d’indirizzo nel settore delle telecomunicazioni (ORAT).
 
-[^33-1]: [RS 784.104](https://fedlex.data.admin.ch/eli/cc/1997/2879_2879_2879)
+[^33-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 722](https://fedlex.data.admin.ch/eli/oc/2023/722)).
+[^33-2]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 722](https://fedlex.data.admin.ch/eli/oc/2023/722)).
+[^33-3]: [RS 784.104](https://fedlex.data.admin.ch/eli/cc/1997/2879_2879_2879)
 
 #### Art. 34
 
@@ -454,10 +465,10 @@ L’utilizzazione di impianti per partecipare alla radiocomunicazione aeronautic
 - c. l’allegato 10 volume II della Convenzione del 7 dicembre 1944[^36-5] relativa all’aviazione civile internazionale; sono fatte salve le deroghe notificate dalla Svizzera ai sensi dell’articolo 38 della Convenzione.
 
 [^36-1]: [RS 0.784.403.1](https://fedlex.data.admin.ch/eli/cc/2005/778)
-[^36-2]: Il testo della Convenzione può essere ottenuto a pagamento presso l’UFCOM, rue de l’Avenir 44, casella postale, 2501 Bienne, o gratuitamente all’indirizzo Internet www.rainwat.bipt.be &gt; Arrangement.
-[^36-3]: Il testo del Manuale può essere ottenuto a pagamento presso l’UFCOM, rue de l’Avenir 44, casella postale, 2501 Bienne, o gratuitamente all’indirizzo Internet www.ccr-zkr.org &gt; Documents &gt; Règlements de la CCNR.
+[^36-2]: Il testo della Convenzione può essere ottenuto a pagamento presso l’UFCOM, rue de l’Avenir 44, casella postale, 2501 Bienne, o gratuitamente all’indirizzo: [www.bipt.be](https://www.ibpt.be/consommateurs/publication/accord-rainwat) &gt; Arrangement.
+[^36-3]: Il testo del Manuale può essere ottenuto a pagamento presso l’UFCOM, rue de l’Avenir 44, casella postale, 2501 Bienne, o gratuitamente all’indirizzo: [www.ccr-zkr.org](http://www.ccr-zkr.org) &gt; Documents &gt; Règlements de la CCNR.
 [^36-4]: [RS 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
-[^36-5]: Il testo di questo allegato non è pubblicato nella RU. Può essere ottenuto gratuitamente presso l’Ufficio federale dell’aviazione civile all’indirizzo www.bazl.admin.ch &gt; Spazio professionale &gt; Organizzazione e informazioni di base, o a pagamento presso l’Organizzazione internazionale dell’aviazione civile internazionale (Organisation de l’aviation civile internationale, Groupe de la vente des documents, 999, rue de l’Université, Montréal, Québec, Canada H3C 5H7; www.icao.int).
+[^36-5]: Il testo di questo allegato non è pubblicato nella RU. Può essere ottenuto gratuitamente presso l’Ufficio federale dell’aviazione civile all’indirizzo: www.bazl.admin.ch &gt; Spazio professionale &gt; Organizzazione e informazioni di base, o a pagamento presso l’Organizzazione internazionale dell’aviazione civile internazionale (Organisation de l’aviation civile internationale, Groupe de la vente des documents, 999, rue de l’Université, Montréal, Québec, Canada H3C 5H7; www.icao.int).
 
 #### Art. 37
 
@@ -513,7 +524,7 @@ Chi vuole utilizzare un impianto radiotelefonico a bordo di un battello sul Reno
 - a. uno dei certificati di cui agli articoli 37, 38 o 39;
 - b. il certificato di radiotelefonista OUC rilasciato secondo la Convenzione regionale del 18 aprile 2012[^41-1] sulle radiocomunicazioni della navigazione interna.
 
-[^41-1]: Il testo della Convenzione può essere ottenuto a pagamento presso l’UFCOM, rue de l’Avenir 44, casella postale, 2501 Bienne, o gratuitamente all’indirizzo Internet www.rainwat.bipt.be &gt; Arrangement.
+[^41-1]: Il testo della Convenzione può essere ottenuto a pagamento presso l’UFCOM, rue de l’Avenir 44, casella postale, 2501 Bienne, o gratuitamente all’indirizzo: [www.bipt.be](https://www.ibpt.be/consommateurs/publication/accord-rainwat) &gt; Arrangement.
 
 #### Art. 42
 
@@ -632,7 +643,7 @@ Non sono ammessi in particolare:
 
 **Documentazione relativa all’impianto di radiocomunicazione**
 
-<sup>l</sup> Il titolare di un certificato di capacità di cui all’articolo 44 capoverso 1 lettera a deve tenere una documentazione relativa al suo impianto di radiocomunicazione e, su richiesta, metterla a disposizione dell’UFCOM.
+<sup>1</sup> Il titolare di un certificato di capacità di cui all’articolo 44 capoverso 1 lettera a deve tenere una documentazione relativa al suo impianto di radiocomunicazione e, su richiesta, metterla a disposizione dell’UFCOM.
 
 <sup>2</sup>
 
@@ -685,9 +696,13 @@ L’UFCOM può riconoscere certificati di capacità esteri. Sono fatti salvi gli
 
 <sup>1</sup> Gli impianti di telecomunicazione di cui all’articolo 6 capoverso 2 OIT[^53-1] possono essere messi in servizio, installati ed esercitati solo con l’autorizzazione dell’UFCOM.
 
+<sup>1bis</sup> Possono chiedere un’autorizzazione le autorità di cui all’articolo 27 capoverso 4 lettere a–d OIT[^53-2].[^53-3]
+
 <sup>2</sup> In caso di violazione dell’autorizzazione, l’UFCOM può revocarla senza indennizzo.
 
 [^53-1]: [RS 784.101.2](https://fedlex.data.admin.ch/eli/cc/2016/24)
+[^53-2]: [RS 784.101.2](https://fedlex.data.admin.ch/eli/cc/2016/24)
+[^53-3]: Introdotto dal n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 722](https://fedlex.data.admin.ch/eli/oc/2023/722)).
 
 #### Art. 54
 
@@ -703,11 +718,12 @@ L’UFCOM può riconoscere certificati di capacità esteri. Sono fatti salvi gli
 
 **Condizioni per il rilascio dell’autorizzazione**
 
-<sup>1</sup> L’UFCOM autorizza l’esercizio di impianti che provocano interferenze e di sistemi di localizzazione e di sorveglianza che non soddisfano le condizioni di cui all’articolo 6 capoverso 1 OIT[^55-1] soltanto se il richiedente può provare che l’esercizio dell’impianto non lede eccessivamente altri interessi pubblici o interessi di terzi.
+<sup>1</sup> L’UFCOM autorizza l’esercizio di impianti che provocano interferenze e di impianti di cui all’articolo 6 capoverso 2 OIT[^55-1] soltanto se il richiedente può provare che l’esercizio dell’impianto non lede eccessivamente altri interessi pubblici o interessi di terzi.[^55-2]
 
 <sup>2</sup> Autorizza l’esercizio di impianti di telecomunicazione fissi che provocano interferenze se non provocano interferenze con il traffico delle telecomunicazioni all’esterno dei luoghi di cui all’articolo 56 capoverso 1.
 
 [^55-1]: [RS 784.101.2](https://fedlex.data.admin.ch/eli/cc/2016/24)
+[^55-2]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 722](https://fedlex.data.admin.ch/eli/oc/2023/722)).
 
 #### Art. 56
 
@@ -749,6 +765,28 @@ La domanda di modifiche a impianti di telecomunicazione fissi che provocano inte
 
 <sup>3</sup> L’UFCOM deve essere informato sulla causa dell’interferenza e sulle misure adottate per eliminarla.
 
+## Capitolo 6*a*: Impianti di radiocomunicazione per garantire la sicurezza pubblica esercitati da operatori economici per dimostrazione, test o riparazione
+
+[^chap6a-1]
+
+[^chap6a-1]: Introdotto dal n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 722](https://fedlex.data.admin.ch/eli/oc/2023/722)).
+
+#### Art. 59a
+
+<sup>1</sup> Chi intende fabbricare ed esercitare un impianto di radiocomunicazione di cui all’articolo 6 capoverso 2 OIT[^59a-1] per dimostrazione, test o riparazione necessita di un’autorizzazione dell’UFCOM.
+
+<sup>2</sup> La domanda è retta dall’articolo 54.
+
+<sup>3</sup> L’UFCOM rilascia l’autorizzazione se l’esercizio regolare attuale o futuro delle frequenze nelle bande in questione non è eccessivamente ostacolato.
+
+<sup>4</sup> L’Ufficio stabilisce il quadro di esercizio della dimostrazione, in particolare la durata e il luogo della dimostrazione nonché le gamme di frequenze in cui le emissioni sono autorizzate. Le emissioni al di fuori di queste gamme devono essere il più basse possibile.
+
+<sup>5</sup> Le autorità e persone di cui all’articolo 27 capoverso 4 OIT possono partecipare alle dimostrazioni.
+
+<sup>6</sup> In caso di mancato rispetto dell’autorizzazione l’UFCOM può ritirare quest’ultima senza indennizzo.
+
+[^59a-1]: [RS 784.101.2](https://fedlex.data.admin.ch/eli/cc/2016/24)
+
 ## Capitolo 7: Disposizioni finali
 
 #### Art. 60
@@ -773,7 +811,7 @@ La domanda di modifiche a impianti di telecomunicazione fissi che provocano inte
 
 L’ordinanza del 9 marzo 2007[^62-1] sulla gestione delle frequenze e sulle concessioni di radiocomunicazione è abrogata.
 
-[^62-1]: [[RU 2007 1005](https://fedlex.data.admin.ch/eli/oc/2007/172)[7085](https://fedlex.data.admin.ch/eli/oc/2007/926), [2008 1913](https://fedlex.data.admin.ch/eli/oc/2008/281), [2009 5841](https://fedlex.data.admin.ch/eli/oc/2009/709), [2012 6569](https://fedlex.data.admin.ch/eli/oc/2012/790), [2014 4171](https://fedlex.data.admin.ch/eli/oc/2014/699), [2015 4425](https://fedlex.data.admin.ch/eli/oc/2015/734), [2016 119](https://fedlex.data.admin.ch/eli/oc/2016/18)art. 30 cpv. 3 [179](https://fedlex.data.admin.ch/eli/oc/2016/24)art. 43 cpv. 2, [2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)all. 4 n. II 13 [5931](https://fedlex.data.admin.ch/eli/oc/2017/649)all. n. 1]
+[^62-1]: [[RU 2007 1005](https://fedlex.data.admin.ch/eli/oc/2007/172), [7085](https://fedlex.data.admin.ch/eli/oc/2007/926); [2008 1913](https://fedlex.data.admin.ch/eli/oc/2008/281); [2009 5841](https://fedlex.data.admin.ch/eli/oc/2009/709); **2012** 656; [2014 4171](https://fedlex.data.admin.ch/eli/oc/2014/699); [2015 4425](https://fedlex.data.admin.ch/eli/oc/2015/734); [2016 119](https://fedlex.data.admin.ch/eli/oc/2016/18)art. 30 cpv. 3, [179](https://fedlex.data.admin.ch/eli/oc/2016/24)art. 43 cpv. 2; [2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)all. 4 n. II 13, [5931](https://fedlex.data.admin.ch/eli/oc/2017/649)all. n. 1]
 
 #### Art. 63
 
@@ -791,10 +829,11 @@ Con l’entrata in vigore della presente ordinanza:
 - f. i certificati di radiotelefonista ottenuti sulla base dell’Accordo regionale del 1° ottobre 1976[^63-2] sul servizio radiotelefonico renano sono considerati come certificati di radiotelefonista OUC ai sensi dell’articolo 41 lettera b;
 - g. i certificati di radiotelefonista di volo mantengono la loro validità e sono considerati certificati di capacità per la partecipazione alla radiocomunicazione aeronautica nel volo a vista secondo l’articolo 42 capoverso 2 lettera a.
 
-<sup>2</sup> Le concessioni di radiocomunicazione per la diffusione analogica di programmi radiofonici possono essere prorogate dall’UFCOM, su richiesta, fino al 31 dicembre 2024, per quanto ciò sia necessario per l’attuazione ordinata del passaggio dalla diffusione analogica a quella digitale. L’UFCOM può revocare le concessioni prorogate per quanto ciò sia necessario per l’attuazione ordinata del passaggio dalla diffusione analogica a quella digitale. La revoca è ordinata con sei mesi di anticipo.
+<sup>2</sup> Le concessioni di radiocomunicazione per la diffusione analogica di programmi radiofonici mantengono la loro validità oltre la loro data di scadenza attuale e fino al 31 dicembre 2026.[^63-3]
 
 [^63-1]: [RS 784.104](https://fedlex.data.admin.ch/eli/cc/1997/2879_2879_2879)
 [^63-2]: [RS 0.747.224.178](https://fedlex.data.admin.ch/eli/cc/1977/2434_2434_2434)
+[^63-3]: Nuovo testo giusta il n. I dell’O del 25 ott. 2023, in vigore dal 1° gen. 2024 ([RU 2023 613](https://fedlex.data.admin.ch/eli/oc/2023/613)).
 
 #### Art. 64
 

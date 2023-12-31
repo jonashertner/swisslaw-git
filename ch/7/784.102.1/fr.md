@@ -4,11 +4,11 @@ title: "Ordonnance du 18 novembre 2020 sur l'utilisation du spectre des fréquen
 short: OUS
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/1024"
 language: fr
-version: 2021-01-01
+version: 2024-01-01
 adopted: 2020-11-18
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1024/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-1024-20210101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/1024/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1024/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-1024-20240101-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/1024/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/1024/20210101/fr"
 
 (OUS)
 
-du 18 novembre 2020 (Etat le 1<sup>er</sup> janvier 2021)
+du 18 novembre 2020 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -33,8 +33,6 @@ arrête:
 #### Art. 1
 
 **Champ d’application**
-
-<sup>1</sup>
 
 La présente ordonnance s’applique à l’utilisation du spectre des fréquences de radiocommunication:
 
@@ -81,7 +79,9 @@ Au sens de la présente ordonnance, on entend par perturbation l’effet, sur la
 
 <sup>2</sup> Dans les domaines de fréquences soumis à concession, l’autorité concédante au sens de l’art. 22, al. 2, let. a, LTC assigne aux utilisateurs les différentes fréquences sur la base du PNAF pour l’utilisation d’une installation de radiocommunication selon des conditions spécifiées; les fréquences dans les domaines de fréquences à usage militaire sont exclues.
 
-<sup>3</sup> S’agissant des domaines de fréquences attribués en commun à l’armée et au secteur civil, l’OFCOM assigne les différentes fréquences aux utilisateurs civils sur la base du PNAF, après consultation de l’organisme militaire compétent.
+<sup>3</sup> Dans les domaines de fréquences prévus pour une utilisation tant militaire que civile, l’OFCOM assigne les différentes fréquences aux utilisateurs civils sur la base du PNAF, après consultation de l’organisme militaire compétent.[^5-1]
+
+[^5-1]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 722](https://fedlex.data.admin.ch/eli/oc/2023/722)).
 
 #### Art. 6
 
@@ -116,10 +116,17 @@ Une concession, une annonce préalable ou un certificat de capacité ne sont pas
 - d. avec des installations de radiocommunication utilisées exclusivement pour les appels d’urgence sur les fréquences prévues à cet effet;
 - e. avec de pures installations réceptrices de radiocommunication non fixes et avec de pures installations réceptrices de radiocommunication fixes ne nécessitant pas de coordination internationale des fréquences;
 - f. avec des installations terminales de télécommunication utilisées dans le cadre de services de télécommunication;
-- g. avec des installations de radiocommunication émettant sous le contrôle d’un réseau sur des fréquences concessionnées; est exceptée l’utilisation des fréquences en mode direct;
-- h. pour l’assignation desquelles l’armée ou la protection civile sont compétentes en vertu du PNAF.
+- g.[^8-1] avec des installations de radiocommunication émettant sous le contrôle d’un réseau sur les fréquences concessionnées de ce dernier;
+- h.[^8-2] dans les domaines de fréquences prévus exclusivement pour une utilisation militaire par l’armée ou la protection civile;
+- i.[^8-3] par l’armée ou la protection civile dans les domaines de fréquences prévus pour une utilisation tant militaire que civile, pour autant que l’OFCOM ait approuvé une telle utilisation après consultation de l’organisme militaire compétent;
+- j.[^8-4] pour des essais de radiocommunication dans des chambres anéchoïques blindées, pour autant les perturbations à l’extérieur de la chambre soient exclues.
 
 <sup>3</sup> L’OFCOM édicte les prescriptions techniques et administratives. Il définit notamment les fréquences visées à l’al. 2, let. a, b et d.
+
+[^8-1]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 722](https://fedlex.data.admin.ch/eli/oc/2023/722)).
+[^8-2]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 722](https://fedlex.data.admin.ch/eli/oc/2023/722)).
+[^8-3]: Introduite par le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 722](https://fedlex.data.admin.ch/eli/oc/2023/722)).
+[^8-4]: Introduite par le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 722](https://fedlex.data.admin.ch/eli/oc/2023/722)).
 
 #### Art. 9
 
@@ -404,20 +411,22 @@ Sont reconnus comme chef technique:
 
 <sup>1</sup>
 
-Quiconque veut utiliser le spectre des fréquences selon les let. a à f doit s’annoncer préalablement à l’OFCOM. Une telle annonce doit être faite pour:
+Quiconque veut utiliser le spectre des fréquences pour l’une des applications suivantes doit s’annoncer préalablement à l’OFCOM:[^33-1]
 
 - a. les domaines de fréquences prévus pour la navigation en mer ou sur le Rhin, ou pour la radiocommunication portable maritime avec appel sélectif numérique (*Digital Selective Calling*; DSC);
 - b. les domaines de fréquences prévus pour les radiocommunications aéronautiques, la navigation aéronautique et la surveillance aéronautique;
 - c. les installations de radioamateurs non desservies ou télécommandées;
 - d. les domaines de fréquences prévus pour la radiocommunication amateur;
-- e. les réémetteurs GPS;
+- e.[^33-2] les réémetteurs des systèmes mondiaux de navigation par satellite;
 - f. les radars de sondage de sols (*Ground Probing Radar*; GPR).
 
 <sup>2</sup> L’annonce permet d’utiliser les domaines de fréquences fixés dans les prescriptions techniques d’utilisation du PNAF.
 
-<sup>3</sup> N’est autorisée à utiliser le spectre des fréquences dans un domaine mentionné à l’al. 1, let. a à d, que la personne à laquelle a été attribué un indicatif d’appel au sens des art. 47*d* à 47*f* de l’ordonnance du 6 octobre 1997 sur les ressources d’adressage dans le domaine des télécommunications (ORAT)[^33-1].
+<sup>3</sup> N’est autorisée à utiliser le spectre des fréquences dans un domaine mentionné à l’al. 1, let. a à d, que la personne à laquelle a été attribué un indicatif d’appel au sens des art. 47*d* à 47*f* de l’ordonnance du 6 octobre 1997 sur les ressources d’adressage dans le domaine des télécommunications (ORAT)[^33-3].
 
-[^33-1]: [RS 784.104](https://fedlex.data.admin.ch/eli/cc/1997/2879_2879_2879)
+[^33-1]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 722](https://fedlex.data.admin.ch/eli/oc/2023/722)).
+[^33-2]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 722](https://fedlex.data.admin.ch/eli/oc/2023/722)).
+[^33-3]: [RS 784.104](https://fedlex.data.admin.ch/eli/cc/1997/2879_2879_2879)
 
 #### Art. 34
 
@@ -456,10 +465,10 @@ L’utilisation d’installations de radiocommunication aéronautiques est régi
 - c. l’annexe 10, volume II, de la Convention du 7 décembre 1944 relative à l’aviation civile internationale[^36-5]; sont réservées les dérogations notifiées par la Suisse conformément à l’art. 38 de la convention.
 
 [^36-1]: [RS 0.784.403.1](https://fedlex.data.admin.ch/eli/cc/2005/778)
-[^36-2]: Le texte de l’arrangement peut être obtenu contre paiement auprès de l’Office fédéral de la communication, rue de l’Avenir 44, case postale, 2501 Bienne, ou être téléchargé gratuitement à l’adresse Internet www.rainwat.bipt.be &gt; arrangement.
-[^36-3]: Le texte du guide peut peut être obtenu contre paiement auprès de l’Office fédéral de la communication, rue de l’Avenir 44, case postale, 2501 Bienne, ou être téléchargé gratuitement à l’adresse Internet www.ccr-zkr.org &gt; Documents &gt; Règlements de la CCNR.
+[^36-2]: Le texte de l’arrangement peut être obtenu contre paiement auprès de l’Office fédéral de la communication, rue de l’Avenir 44, case postale, 2501 Bienne, ou être téléchargé gratuitement à l’adresse Internet [www.bipt.be](https://www.ibpt.be/consommateurs/publication/accord-rainwat) &gt; arrangement.
+[^36-3]: Le texte du guide peut peut être obtenu contre paiement auprès de l’Office fédéral de la communication, rue de l’Avenir 44, case postale, 2501 Bienne, ou être téléchargé gratuitement à l’adresse Internet [www.ccr-zkr.org](http://www.ccr-zkr.org) &gt; Documents &gt; Règlements de la CCNR.
 [^36-4]: [RS 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
-[^36-5]: Le texte de cette annexe n’est pas publié dans le RO. Il peut être téléchargé gratuitement auprès de l’Office fédéral de l’aviation civile à l’adresse Internet www.ofac.admin.ch &gt; Espace professionnel &gt; Réglementation et informations de base, ou être obtenu contre paiement auprès de l’Organisation de l’aviation civile internationale, Groupe de la vente des documents, 999, rue de l’Université, Montréal, Québec, Canada H3C 5H7 (www.icao.int).
+[^36-5]: Le texte de cette annexe n’est pas publié dans le RO. Il peut être téléchargé gratuitement auprès de l’Office fédéral de l’aviation civile à l’adresse Internet [www.ofac.admin.ch](http://www.ofac.admin.ch) &gt; Espace professionnel &gt; Réglementation et informations de base, ou être obtenu contre paiement auprès de l’Organisation de l’aviation civile internationale, Groupe de la vente des documents, 999, rue de l’Université, Montréal, Québec, Canada H3C 5H7 ([www.icao.int](https://www.icao.int)).
 
 #### Art. 37
 
@@ -515,7 +524,7 @@ Toute personne qui veut utiliser une installation radiotéléphonique à bord d�
 - a. l’un des certificats mentionnés aux art. 37, 38 ou 39;
 - b. le certificat de radiotéléphoniste OUC, établi selon la Convention régionale du 18 avril 2012 sur les radiocommunications de la navigation intérieure[^41-1].
 
-[^41-1]: Le texte de la convention peut être obtenu contre paiement auprès de l’Office fédéral de la communication, rue de l’Avenir 44, case postale, 2501 Bienne, ou être téléchargé gratuitement à l’adresse Internet www.rainwat.bipt.be &gt; Arrangement.
+[^41-1]: Le texte de la convention peut être obtenu contre paiement auprès de l’Office fédéral de la communication, rue de l’Avenir 44, case postale, 2501 Bienne, ou être téléchargé gratuitement à l’adresse Internet [www.bipt.be](https://www.ibpt.be/consommateurs/publication/accord-rainwat) &gt; Arrangement.
 
 #### Art. 42
 
@@ -560,7 +569,7 @@ La délivrance du certificat de capacité pour la radiocommunication aéronautiq
 
 La délivrance du certificat de capacité pour la radiocommunication aéronautique à bord d’aéronefs en vol aux instruments est conditionnée:
 
-- a. à la fréquentation, auprès d’un organisme de formation habilité à cet effet en vertu de l’annexe VII du règlement (UE) n°1178/2011, d’un cours théorique portant sur la branche «communication » pour l’acquisition de la qualification de vol aux instruments;
+- a. à la fréquentation, auprès d’un organisme de formation habilité à cet effet en vertu de l’annexe VII du règlement (UE) n°1178/2011, d’un cours théorique portant sur la branche «communication» pour l’acquisition de la qualification de vol aux instruments;
 - b. à la réussite de l’examen théorique portant sur la branche «communication» pour l’acquisition de la qualification de vol aux instruments, et
 - c. à la réussite de l’examen de table portant sur le vol aux instruments.
 
@@ -687,9 +696,13 @@ L’OFCOM peut reconnaître des certificats de capacité étrangers. Les accords
 
 <sup>1</sup> Les installations de radiocommunication visées à l’art. 6, al. 2, OIT[^53-1] ne peuvent être mises en service, mises en place et exploitées qu’avec l’autorisation de l’OFCOM.
 
+<sup>1bis</sup> Les autorités mentionnées à l’art. 27, al. 4, let. a à d, OIT[^53-2] peuvent demander une autorisation.[^53-3]
+
 <sup>2</sup> En cas de non-respect de ladite autorisation, l’OFCOM peut retirer celle-ci sans dédommagement.
 
 [^53-1]: [RS 784.101.2](https://fedlex.data.admin.ch/eli/cc/2016/24)
+[^53-2]: [RS 784.101.2](https://fedlex.data.admin.ch/eli/cc/2016/24)
+[^53-3]: Introduit par le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 722](https://fedlex.data.admin.ch/eli/oc/2023/722)).
 
 #### Art. 54
 
@@ -705,11 +718,12 @@ L’OFCOM peut reconnaître des certificats de capacité étrangers. Les accords
 
 **Conditions d’autorisation**
 
-<sup>1</sup> L’OFCOM autorise l’exploitation d’installations de télécommunication perturbatrices et de systèmes de localisation et de surveillance qui ne remplissent pas les exigences au sens de l’art. 6, al. 1, OIT [^55-1] uniquement si le requérant peut prouver que l’exploitation de l’installation ne portera pas atteinte de manière excessive à d’autres intérêts publics ou aux intérêts de tiers.
+<sup>1</sup> L’OFCOM autorise l’exploitation d’installations de télécommunication perturbatrices et d’installations de radiocommunication visées à l’art. 6, al. 2, OIT[^55-1] uniquement si le requérant peut prouver que l’exploitation de l’installation ne portera pas atteinte de manière excessive à d’autres intérêts publics ou aux intérêts de tiers.[^55-2]
 
 <sup>2</sup> Il autorise l’exploitation d’installations de télécommunication perturbatrices fixes lorsque celles-ci ne perturbent pas les télécommunications en dehors des lieux mentionnés à l’art. 56, al. 1.
 
 [^55-1]: [RS 784.101.2](https://fedlex.data.admin.ch/eli/cc/2016/24)
+[^55-2]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 722](https://fedlex.data.admin.ch/eli/oc/2023/722)).
 
 #### Art. 56
 
@@ -750,6 +764,28 @@ La demande de modifications d’installations de télécommunication perturbatri
 <sup>2</sup> S’il n’est pas possible de remédier à la perturbation en l’espace d’une heure, l’installation ou le système doit être mis hors service sans délai. L’exploitation ne peut reprendre que lorsque la perturbation a été éliminée.
 
 <sup>3</sup> L’OFCOM doit être informé des causes de la perturbation et des mesures prises pour l’éliminer.
+
+## Chapitre 6*a* Installations de radiocommunication destinées à être exploitées pour assurer la sécurité publique et utilisées par des opérateurs économiques à des fins de démonstration, de test ou de réparation
+
+[^chap6a-1]
+
+[^chap6a-1]: Introduit par le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 722](https://fedlex.data.admin.ch/eli/oc/2023/722)).
+
+#### Art. 59a
+
+<sup>1</sup> Quiconque veut mettre en place et exploiter, à des fins de démonstration, de test ou de réparation, une installation de radiocommunication visée à l’art. 6, al. 2, OIT[^59a-1] doit obtenir une autorisation de l’OFCOM.
+
+<sup>2</sup> La demande est régie par l’art. 54.
+
+<sup>3</sup> L’OFCOM octroie l’autorisation si l’exploitation régulière actuelle ou future des fréquences dans les bandes concernées n’est pas entravée de manière excessive.
+
+<sup>4</sup> Il fixe le cadre de l’exploitation en vue de la démonstration, notamment la durée et le lieu de la démonstration ainsi que les bandes de fréquences dans lesquelles des émissions sont autorisées. Les émissions hors de ces bandes doivent être aussi faibles que possible.
+
+<sup>5</sup> Les autorités et les personnes mentionnées à l’art. 27, al. 4, OIT peuvent assister aux démonstrations.
+
+<sup>6</sup> En cas de non-respect de l’autorisation, l’OFCOM peut révoquer celle-ci sans dédommagement.
+
+[^59a-1]: [RS 784.101.2](https://fedlex.data.admin.ch/eli/cc/2016/24)
 
 ## Chapitre 7 Dispositions finales
 
@@ -793,10 +829,11 @@ Avec l’entrée en vigueur de la présente ordonnance:
 - f. les certificats de radiotéléphoniste acquis sur la base de l’Arrangement régional du 1<sup>er</sup> octobre 1976 relatif au service radiotéléphonique rhénan[^63-2] sont considérés comme des certificats de radiotéléphoniste OUC au sens de l’art. 41, let. b;
 - g. les certificats de radiotéléphoniste navigant gardent leur validité et sont considérés comme des certificats de capacité pour la radiocommunication aéronautique en vol à vue au sens de l’art. 42, al. 2, let. a.
 
-<sup>2</sup> Les concessions de radiocommunication pour la diffusion de programmes de radio en mode analogique peuvent être prolongées sur demande par l’OFCOM jusqu’au 31 décembre 2024, pour autant qu’une mise en œuvre ordonnée du passage de la diffusion analogique à la diffusion numérique l’exige. L’OFCOM peut révoquer des concessions prolongées pour autant que la mise en œuvre ordonnée du passage de la diffusion analogique à la diffusion numérique l’exige. La révocation doit être décidée six mois à l’avance.
+<sup>2</sup> Les concessions de radiocommunication pour la diffusion de programmes de radio en mode analogique restent valables au-delà de leur date d’échéance actuelle, jusqu’au 31 décembre 2026.[^63-3]
 
 [^63-1]: [RS 784.104](https://fedlex.data.admin.ch/eli/cc/1997/2879_2879_2879)
 [^63-2]: [RS 0.747.224.178](https://fedlex.data.admin.ch/eli/cc/1977/2434_2434_2434)
+[^63-3]: Nouvelle teneur selon le ch. I de l’O du 25 oct. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 613](https://fedlex.data.admin.ch/eli/oc/2023/613)).
 
 #### Art. 64
 

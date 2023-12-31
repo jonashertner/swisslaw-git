@@ -4,11 +4,11 @@ title: Verordnung vom 18. November 2020 über die Nutzung des Funkfrequenzspektr
 short: VNF
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/1024"
 language: de
-version: 2021-01-01
+version: 2024-01-01
 adopted: 2020-11-18
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1024/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2020-1024-20210101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/1024/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1024/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2020-1024-20240101-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/1024/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/1024/20210101/de"
 
 (VNF)
 
-vom 18. November 2020 (Stand am 1. Januar 2021)
+vom 18. November 2020 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -79,7 +79,9 @@ Als Störung im Sinne dieser Verordnung gilt die Auswirkung von unerwünschter E
 
 <sup>2</sup> Die Konzessionsbehörde nach Artikel 22 Absatz 2 Buchstabe a FMG teilt den Nutzerinnen und Nutzern innerhalb der konzessionspflichtigen Frequenzbereiche die einzelnen Frequenzen auf der Basis des NaFZ zur Nutzung einer Funkanlage unter bestimmten Bedingungen zu; ausgenommen sind die Frequenzen in den zur militärischen Nutzung bestimmten Bereichen.
 
-<sup>3</sup> In militärisch und zivil gemeinsam zugewiesenen Frequenzbereichen teilt das BAKOM die einzelnen Frequenzen den zivilen Nutzerinnen und Nutzern nach Konsultation der zuständigen militärischen Stelle auf der Basis des NaFZ zu.
+<sup>3</sup> In Frequenzbereichen, die sowohl für militärische als auch zivilen Nutzungen vorgesehen sind, teilt das BAKOM die einzelnen Frequenzen den zivilen Nutzerinnen und Nutzern nach Konsultation der zuständigen militärischen Stelle auf der Basis des NaFZ zu.[^5-1]
+
+[^5-1]: Fassung gemäss Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 722](https://fedlex.data.admin.ch/eli/oc/2023/722)).
 
 #### Art. 6
 
@@ -114,10 +116,17 @@ Keine Konzession, keine vorgängige Meldung und kein Fähigkeitszeugnis ist erfo
 - d. mit Funkanlagen, die ausschliesslich für Notrufe auf den dafür vorgesehenen Frequenzen genutzt werden;
 - e. mit nicht ortsfesten reinen Funkempfangsanlagen und mit ortsfesten reinen Funkempfangsanlagen, für die keine internationale Frequenzkoordination erforderlich ist;
 - f. mit Fernmeldeendeinrichtungen für die Nutzung von Fernmeldediensten;
-- g. mit Funkanlagen, die unter der Kontrolle eines Netzes auf konzessionierten Frequenzen senden; ausgenommen sind Frequenznutzungen im *Direct Mode*;
-- h. für deren Zuteilung gemäss dem NaFZ die Armee oder der Zivilschutz zuständig ist.
+- g.[^8-1] mit Funkanlagen, die unter der Kontrolle eines Netzes auf dessen konzessionierten Frequenzen senden;
+- h.[^8-2] in Frequenzbereichen, die ausschliesslich für militärische Nutzungen durch die Armee oder den Zivilschutz vorgesehen sind;
+- i.[^8-3] durch die Armee oder den Zivilschutz in Frequenzbereichen, die sowohl für militärische als auch zivile Nutzungen vorgesehen sind, sofern das BAKOM dieser Nutzung nach Konsultation der zuständigen militärischen Stelle zustimmt;
+- j.[^8-4] für Funkversuche in abgeschirmten Absorber-Kammern, sofern Störungen ausserhalb der Kammer ausgeschlossen sind.
 
 <sup>3</sup> Das BAKOM erlässt die technischen und administrativen Vorschriften. Es bestimmt insbesondere die Frequenzen nach Absatz 2 Buchstaben a, b und d.
+
+[^8-1]: Fassung gemäss Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 722](https://fedlex.data.admin.ch/eli/oc/2023/722)).
+[^8-2]: Fassung gemäss Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 722](https://fedlex.data.admin.ch/eli/oc/2023/722)).
+[^8-3]: Eingefügt durch Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 722](https://fedlex.data.admin.ch/eli/oc/2023/722)).
+[^8-4]: Eingefügt durch Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 722](https://fedlex.data.admin.ch/eli/oc/2023/722)).
 
 #### Art. 9
 
@@ -402,20 +411,22 @@ Als technische Leiterin oder technischer Leiter anerkannt sind:
 
 <sup>1</sup>
 
-Wer das Frequenzspektrum nach den Buchstaben a–f nutzen will, muss dies dem BAKOM vorgängig melden. Dies gilt für:
+Wer das Frequenzspektrum für eine der folgenden Anwendungen nutzen will, muss dies dem BAKOM vorgängig melden:[^33-1]
 
 - a. bestimmte Frequenzbereiche der Hochsee- oder Rheinschifffahrt oder für den Handsprechfunk mit digitalem Selektivruf (*Digital Selective Calling*; DSC) auf hoher See;
 - b. bestimmte Frequenzbereiche des Flugfunks, der Flugnavigation oder -überwachung;
 - c. unbediente oder fernbediente Amateur-Funkanlagen;
 - d. bestimmte Frequenzbereiche des Amateurfunks;
-- e. GPS-Repeater;
+- e.[^33-2] Repeater für globale Satellitennavigations-Systeme;
 - f. Bodenradar (*Ground Probing Radar*; GPR).
 
 <sup>2</sup> Die Meldung berechtigt dazu, diejenigen Bereiche zu nutzen, die in den technischen Nutzungsvorschriften des NaFZ festgelegt sind.
 
-<sup>3</sup> Das Frequenzspektrum in einem Bereich nach Absatz 1 Buchstaben a–d darf nur nutzen, wem ein Rufzeichen nach den Artikeln 47*d*–47*f* der Verordnung vom 6. Oktober 1997[^33-1] über die Adressierungselemente im Fernmeldebereich (AEFV) zugeteilt worden ist.
+<sup>3</sup> Das Frequenzspektrum in einem Bereich nach Absatz 1 Buchstaben a–d darf nur nutzen, wem ein Rufzeichen nach den Artikeln 47*d*–47*f* der Verordnung vom 6. Oktober 1997[^33-3] über die Adressierungselemente im Fernmeldebereich (AEFV) zugeteilt worden ist.
 
-[^33-1]: [SR 784.104](https://fedlex.data.admin.ch/eli/cc/1997/2879_2879_2879)
+[^33-1]: Fassung gemäss Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 722](https://fedlex.data.admin.ch/eli/oc/2023/722)).
+[^33-2]: Fassung gemäss Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 722](https://fedlex.data.admin.ch/eli/oc/2023/722)).
+[^33-3]: [SR 784.104](https://fedlex.data.admin.ch/eli/cc/1997/2879_2879_2879)
 
 #### Art. 34
 
@@ -454,10 +465,10 @@ Für die Teilnahme am Flugfunk richtet sich die Nutzung der Funkanlagen nach:
 - c. Anhang 10 Band II des Übereinkommens vom 7. Dezember 1944[^36-5] über die internationale Zivilluftfahrt; vorbehalten bleiben die nach Artikel 38 des Übereinkommens von der Schweiz gemeldeten Abweichungen.
 
 [^36-1]: [SR 0.784.403.1](https://fedlex.data.admin.ch/eli/cc/2005/778)
-[^36-2]: Der Text der Vereinbarung kann beim Bundesamt für Kommunikation, Zukunftstrasse 44, Postfach, 2501 Biel, gegen Bezahlung bezogen oder kostenlos unter www.rainwat.bipt.be &gt; Arrangement abgerufen werden.
-[^36-3]: Der Text des Handbuchs kann beim Bundesamt für Kommunikation, Zukunftsstrasse 44, 2501 Biel gegen Bezahlung bezogen oder kostenlos unter www.ccr-zkr.org &gt; Dokumente &gt; ZKR Verordnungen abgerufen werden.
+[^36-2]: Der Text der Vereinbarung kann beim Bundesamt für Kommunikation, Zukunftstrasse 44, Postfach, 2501 Biel, gegen Bezahlung bezogen oder kostenlos unter: www.bipt.be &gt; Arrangement abgerufen werden.
+[^36-3]: Der Text des Handbuchs kann beim Bundesamt für Kommunikation, Zukunftsstrasse 44, 2501 Biel gegen Bezahlung bezogen oder kostenlos unter: www.ccr-zkr.org &gt; Dokumente &gt; ZKR Verordnungen abgerufen werden.
 [^36-4]: [SR 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
-[^36-5]: Der Text dieses Anhangs wird in der AS nicht veröffentlicht. Er kann beim Bundesamt für Zivilluftfahrt unter www.bazl.admin.ch &gt; Für Fachleute &gt; Regulation und Grundlagen kostenlos abgerufen oder bei der Internationalen Zivilluftfahrt-Organisation (Organisation de l’aviation civile internationale, Groupe de la vente des documents, 999, rue de l’Université, Montréal, Québec, Canada H3C 5H7; www.icao.int) kostenpflichtig bezogen werden.
+[^36-5]: Der Text dieses Anhangs wird in der AS nicht veröffentlicht. Er kann beim Bundesamt für Zivilluftfahrt unter: www.bazl.admin.ch &gt; Für Fachleute &gt; Regulation und Grundlagen kostenlos abgerufen oder bei der Internationalen Zivilluftfahrt-Organisation (Organisation de l’aviation civile internationale, Groupe de la vente des documents, 999, rue de l’Université, Montréal, Québec, Canada H3C 5H7; www.icao.int) kostenpflichtig bezogen werden.
 
 #### Art. 37
 
@@ -513,7 +524,7 @@ Wer eine Sprechfunkanlage auf einem Rheinschiff nutzen will, muss eines der folg
 - a. Fähigkeitszeugnis nach Artikel 37, 38 oder 39;
 - b. UKW-Sprechfunkausweis nach der Regionalen Vereinbarung vom 18. April 2012[^41-1] über den Binnenschifffahrtsfunk.
 
-[^41-1]: Der Text der Vereinbarung kann beim Bundesamt für Kommunikation, Zukunftstrasse 44, Postfach, 2501 Biel, gegen Bezahlung bezogen oder kostenlos unter www.rainwat.bipt.be &gt; Arrangement abgerufen werden.
+[^41-1]: Der Text der Vereinbarung kann beim Bundesamt für Kommunikation, Zukunftstrasse 44, Postfach, 2501 Biel, gegen Bezahlung bezogen oder kostenlos unter: www.bipt.be &gt; Arrangement abgerufen werden.
 
 #### Art. 42
 
@@ -685,9 +696,13 @@ Das BAKOM kann ausländische Fähigkeitszeugnisse anerkennen. Vorbehalten bleibe
 
 <sup>1</sup> Funkanlagen nach Artikel 6 Absatz 2 FAV[^53-1] dürfen nur mit der Bewilligung des BAKOM in Betrieb genommen, erstellt und betrieben werden.
 
+<sup>1bis</sup> Eine Bewilligung können die Behörden nach Artikel 27 Absatz 4 Buchstaben a–d FAV[^53-2] beantragen.[^53-3]
+
 <sup>2</sup> Bei Nichteinhalten der Bewilligung kann das BAKOM diese entschädigungslos entziehen.
 
 [^53-1]: [SR 784.101.2](https://fedlex.data.admin.ch/eli/cc/2016/24)
+[^53-2]: [SR 784.101.2](https://fedlex.data.admin.ch/eli/cc/2016/24)
+[^53-3]: Eingefügt durch Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 722](https://fedlex.data.admin.ch/eli/oc/2023/722)).
 
 #### Art. 54
 
@@ -703,11 +718,12 @@ Das BAKOM kann ausländische Fähigkeitszeugnisse anerkennen. Vorbehalten bleibe
 
 **Bewilligungsvoraussetzungen**
 
-<sup>1</sup> Das BAKOM bewilligt den Betrieb von störenden Fernmeldeanlagen sowie von Ortungs- und Überwachungssystemen, welche die Anforderungen nach Artikel 6 Absatz 1 FAV[^55-1] nicht erfüllen, nur, wenn die Gesuchstellerin darlegen kann, dass durch den Betrieb keine anderen öffentlichen Interessen oder Interessen Dritter übermässig beeinträchtigt werden.
+<sup>1</sup> Das BAKOM bewilligt den Betrieb von störenden Fernmeldeanlagen sowie von Funkanlagen nach Artikel 6 Absatz 2 FAV[^55-1] nur, wenn die Gesuchstellerin darlegen kann, dass durch den Betrieb keine anderen öffentlichen Interessen oder Interessen Dritter übermässig beeinträchtigt werden.[^55-2]
 
 <sup>2</sup> Es bewilligt den Betrieb von fest installierten störenden Fernmeldeanlagen, wenn diese ausserhalb der Orte nach Artikel 56 Absatz 1 keine Störungen des Fernmeldeverkehrs verursachen.
 
 [^55-1]: [SR 784.101.2](https://fedlex.data.admin.ch/eli/cc/2016/24)
+[^55-2]: Fassung gemäss Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 722](https://fedlex.data.admin.ch/eli/oc/2023/722)).
 
 #### Art. 56
 
@@ -749,6 +765,28 @@ Das Gesuch für Änderungen an fest installierten störenden Fernmeldeanlagen, d
 
 <sup>3</sup> Das BAKOM ist über die Ursache der Störung und die eingeleiteten Massnahmen zur Störungsbehebung zu informieren.
 
+## 6*a*. Kapitel: Funkanlagen zur Wahrung der öffentlichen Sicherheit, die von Wirtschaftsakteurinnen zu Vorführungs-, Test- oder Reparaturzwecken betrieben werden
+
+[^chap6a-1]
+
+[^chap6a-1]: Eingefügt durch Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 722](https://fedlex.data.admin.ch/eli/oc/2023/722)).
+
+#### Art. 59a
+
+<sup>1</sup> Wer eine Funkanlage nach Artikel 6 Absatz 2 FAV[^59a-1] zu Vorführungs-, Test- oder Reparaturzwecken erstellen und betreiben will, benötigt eine Bewilligung des BAKOM.
+
+<sup>2</sup> Das Gesuch richtet sich nach Artikel 54.
+
+<sup>3</sup> Das BAKOM erteilt die Bewilligung, wenn der aktuelle oder zukünftige Regelbetrieb im beanspruchten Frequenzbereich nicht übermässig beeinträchtigt wird.
+
+<sup>4</sup> Es bestimmt den Rahmen des Betriebs bei der Vorführung, insbesondere die Dauer und den Ort der Vorführung sowie die für die Aussendungen zulässigen Frequenzbänder. Aussendungen ausserhalb dieser Bänder müssen so tief wie möglich sein.
+
+<sup>5</sup> Behörden und Personen nach Artikel 27 Absatz 4 FAV dürfen an den Vorführungen teilnehmen.
+
+<sup>6</sup> Bei Nichteinhalten der Bewilligung kann das BAKOM diese entschädigungslos entziehen.
+
+[^59a-1]: [SR 784.101.2](https://fedlex.data.admin.ch/eli/cc/2016/24)
+
 ## 7. Kapitel: Schlussbestimmungen
 
 #### Art. 60
@@ -773,7 +811,7 @@ Das Gesuch für Änderungen an fest installierten störenden Fernmeldeanlagen, d
 
 Die Verordnung vom 9. März 2007[^62-1] über Frequenzmanagement und Funkkonzessionen wird aufgehoben.
 
-[^62-1]: [[AS 2007 1005](https://fedlex.data.admin.ch/eli/oc/2007/172)[7085](https://fedlex.data.admin.ch/eli/oc/2007/926), [2008 1913](https://fedlex.data.admin.ch/eli/oc/2008/281), [2009 5841](https://fedlex.data.admin.ch/eli/oc/2009/709), [2012 6569](https://fedlex.data.admin.ch/eli/oc/2012/790), [2014 4171](https://fedlex.data.admin.ch/eli/oc/2014/699), **2015** 425 [4425](https://fedlex.data.admin.ch/eli/oc/2015/734), [2016 119](https://fedlex.data.admin.ch/eli/oc/2016/18)Art. 30 Abs. 3 [179](https://fedlex.data.admin.ch/eli/oc/2016/24)Art. 43 Abs. 2, [2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)Anhang 4 Ziff. II 13 [5931](https://fedlex.data.admin.ch/eli/oc/2017/649)Anhang Ziff. 1]
+[^62-1]: [[AS 2007 1005](https://fedlex.data.admin.ch/eli/oc/2007/172), [7085](https://fedlex.data.admin.ch/eli/oc/2007/926); [2008 1913](https://fedlex.data.admin.ch/eli/oc/2008/281); [2009 5841](https://fedlex.data.admin.ch/eli/oc/2009/709); [2012 6569](https://fedlex.data.admin.ch/eli/oc/2012/790); [2014 4171](https://fedlex.data.admin.ch/eli/oc/2014/699); **2015** 425, [4425](https://fedlex.data.admin.ch/eli/oc/2015/734); [2016 119](https://fedlex.data.admin.ch/eli/oc/2016/18)Art. 30 Abs. 3, [179](https://fedlex.data.admin.ch/eli/oc/2016/24)Art. 43 Abs. 2, [2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)Anhang 4 Ziff. II 13, [5931](https://fedlex.data.admin.ch/eli/oc/2017/649)Anhang Ziff. 1]
 
 #### Art. 63
 
@@ -791,10 +829,11 @@ Mit Inkrafttreten dieser Verordnung:
 - f. gelten die gestützt auf die Regionale Vereinbarung vom 1. Oktober 1976[^63-2] über den Rheinfunkdienst erworbene Sprechfunkausweise als UKW-Sprechfunkausweis im Sinne von Artikel 41 Buchstabe b;
 - g. behalten Bordradiotelefonistenausweise ihre Gültigkeit und gelten als Fähigkeitszeugnis für die Teilnahme am Flugfunk im Sichtflug nach Artikel 42 Absatz 2 Buchstabe a.
 
-<sup>2</sup> Funkkonzessionen für die analoge Verbreitung von Radioprogrammen können vom BAKOM auf Gesuch hin bis zum 31. Dezember 2024 verlängert werden, sofern dies für eine geordnete Umsetzung des Übergangs von der analogen auf die digitale Verbreitung erforderlich ist. Das BAKOM kann verlängerte Konzessionen widerrufen, sofern dies für die geordnete Umsetzung des Übergangs von der analogen auf die digitale Verbreitung erforderlich ist. Der Widerruf wird sechs Monate im Voraus verfügt.
+<sup>2</sup> Funkkonzessionen für die analoge Verbreitung von Radioprogrammen behalten ihre Gültigkeit über ihr bisheriges Ablaufdatum hinaus bis zum 31. Dezember 2026.[^63-3]
 
 [^63-1]: [SR 784.104](https://fedlex.data.admin.ch/eli/cc/1997/2879_2879_2879)
 [^63-2]: [SR 0.747.224.178](https://fedlex.data.admin.ch/eli/cc/1977/2434_2434_2434)
+[^63-3]: Fassung gemäss Ziff. I der V vom 25. Okt. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 613](https://fedlex.data.admin.ch/eli/oc/2023/613)).
 
 #### Art. 64
 
