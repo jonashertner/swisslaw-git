@@ -4,13 +4,13 @@ number: "120"
 title: Gesetz über die politischen Rechte
 short: GpR
 language: de
-version: 2023-01-01
-valid_until: 2023-12-31
-version_adopted: 2022-09-15
+version: 2024-01-01
+valid_until: 2025-04-30
+version_adopted: 2023-01-26
 adopted: 1981-09-07
 in_force: 1982-07-01
 url: "https://bl.clex.ch/app/de/texts_of_law/120"
-pdf: "https://bl.clex.ch/api/de/versions/3683/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3916/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3683/pdf_file"
 
 (GpR)
 
-Vom 07.09.1981 (Stand 01.01.2023)
+Vom 07.09.1981 (Stand 01.01.2024)
 
 Der Landrat des Kantons Basel-Landschaft,
 
@@ -70,7 +70,7 @@ beschliesst:[^ingress-2]
 
 <sup>4</sup> In das kantonale bzw. kommunale Stimmregister sind einzutragen:
 
-- a. alle Schweizer- und Schweizerinnen, die das 18. Altersjahr zurückgelegt haben, in der Gemeinde angemeldet sind und wohnen, sofern sie nicht wegen dauernder Urteilsunfähigkeit unter umfassender Beistandschaft stehen oder durch eine vorsorgebeauftragte Person vertreten werden;
+- a. alle Schweizerinnen und Schweizer, die das 18. Altersjahr zurückgelegt haben, in der Gemeinde angemeldet sind und wohnen, sofern sie nicht wegen dauernder Urteilsunfähigkeit unter umfassender Beistandschaft stehen oder durch eine vorsorgebeauftragte Person vertreten werden;
 - b. Auslandschweizerinnen und Auslandschweizer gemäss Art. 19 des Bundesgesetzes über Schweizer Personen und Institutionen im Ausland (Auslandschweizergesetz, ASG) vom 26. September 2014[^3-1].
 
 <sup>5</sup> Das Stimmregister steht allen Stimmberechtigten zur Einsicht offen. Das Erstellen von Kopien ist nicht erlaubt.
@@ -143,6 +143,12 @@ beschliesst:[^ingress-2]
 <sup>3</sup> Der Regierungsrat kann die Ausübung der elektronischen Stimmabgabe örtlich, sachlich und zeitlich eingrenzen.
 
 <sup>4</sup> Der Regierungsrat regelt die Einzelheiten.
+
+#### § 7b
+
+**Ausgestaltung der Wahl- und Abstimmungsunterlagen**
+
+<sup>1</sup> Bei der Ausgestaltung der Wahl- und Abstimmungsunterlagen ist auf die Bedürfnisse von Menschen mit Behinderungen Rücksicht zu nehmen.
 
 ## 2 Gemeinsame Bestimmungen für Abstimmungen und Wahlen
 
@@ -742,7 +748,9 @@ beschliesst:[^ingress-2]
 
 <sup>1</sup> Die Stimmberechtigten müssen ihre Namen und Vornamen handschriftlich und leserlich auf die Unterschriftenliste schreiben sowie zusätzlich ihre eigenhändige Unterschrift beifügen.
 
-<sup>2</sup> Sie müssen alle weiteren Angaben machen, die zur Feststellung ihrer Identität nötig sind, wie Geburtsdatum und Adresse.
+<sup>1<sup>bis</sup></sup> Schreibunfähige Stimmberechtigte können die Eintragung ihres Namenszuges durch eine stimmberechtigte Person ihrer Wahl vornehmen lassen. Diese setzt ihre eigene Unterschrift zum Namenszug der schreibunfähigen Person und bewahrt über den Inhalt der empfangenen Anweisungen Stillschweigen.
+
+<sup>2</sup> Die Stimmberechtigten müssen alle weiteren Angaben machen, die zur Feststellung ​ihrer Identität nötig sind, wie Geburtsdatum und Adresse.
 
 <sup>3</sup> Sie dürfen das gleiche Referendumsbegehren nur einmal unterschreiben.
 
@@ -957,7 +965,7 @@ beschliesst:[^ingress-2]
 
 <sup>4</sup> Der Regierungsrat trifft geeignete Massnahmen zur Wahrung der Behandlungsfristen.
 
-<sup>5</sup> Im Falle eines Säumnisses legt das Präsidium des Kantonsgerichts (Abteilung Verfassungs- und Verwaltungsrecht) auf Antrag des Initiativkomitees nach Anhören des Regierungsrates und des Landrates den Abstimmungstermin fest.
+<sup>5</sup> Im Falle eines Säumnisses legt das Präsidium des Kantonsgerichts (Abteilung Verfassungs- und Verwaltungsrecht) auf Antrag des Initiativkomitees nach Anhören des Regierungsrats und des Landrats den Abstimmungstermin fest.
 
 #### § 79
 
@@ -990,7 +998,7 @@ beschliesst:[^ingress-2]
 <sup>2</sup> Das Begehren hat folgende Angaben zu enthalten:
 
 - a. die Angabe des Beschlusses, gegen den das Referendum ergriffen wird, bzw. den Wortlaut der Initiative;
-- b. bei Initiativen eine vorbehaltlose Rückzugsklausel; gegebenenfalls die Ermächtigung an den Gemeindrat zum Rückzug der Initiative (§ 81c Abs. 2);
+- b. bei Initiativen eine vorbehaltlose Rückzugsklausel; gegebenenfalls die Ermächtigung an den Gemeinderat zum Rückzug der Initiative (§ 81c Abs. 2);
 - c. die Bezeichnung der federführenden Gemeinde.
 
 #### § 81b
@@ -1073,7 +1081,7 @@ beschliesst:[^ingress-2]
 
 **Abstimmungen und Wahlen des Bundes**
 
-<sup>1</sup> Entscheide des Regierungsrates über Beschwerden bei Abstimmungen und Wahlen des Bundes sind unter Vorbehalt der bundesrechtlichen Rechtsmittel endgültig.
+<sup>1</sup> Entscheide des Regierungsrats über Beschwerden bei Abstimmungen und Wahlen des Bundes sind unter Vorbehalt der bundesrechtlichen Rechtsmittel endgültig.
 
 ## 9.2 Beschwerde beim Kantonsgericht
 
