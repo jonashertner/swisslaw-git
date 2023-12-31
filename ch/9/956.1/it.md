@@ -4,11 +4,11 @@ title: "Legge federale del 22 giugno 2007 concernente l'Autorità federale di vi
 short: LFINMA
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/736"
 language: it
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2007-06-22
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/736/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2008-736-20230901-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/736/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/736/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2008-736-20240101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/736/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/736/20230901/it"
 
 (Legge sulla vigilanza dei mercati finanziari, LFINMA[^t-1])
 
-del 22 giugno 2007 (Stato 1° settembre 2023)
+del 22 giugno 2007 (Stato 1° gennaio 2024)
 
 [^t-1]: Testo rettificato dalla CdR dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
 
@@ -321,15 +321,15 @@ Emana disposizioni di esecuzione concernenti:
 
 <sup>2</sup>
 
-La tassa di vigilanza è calcolata in funzione dei seguenti criteri:
+La tassa di vigilanza di cui al capoverso 1 è calcolata in funzione dei seguenti criteri:[^15-1]
 
-- a.[^15-1] ...
-- a<sup>bis</sup>.[^15-2] per gli assoggettati alla vigilanza secondo l’articolo 1*a* della legge dell’8 novembre 1934[^15-3] sulle banche, secondo l’articolo 2 capoverso 1 lettera e della legge del 15 giugno 2018[^15-4] sugli istituti finanziari e secondo la legge del 25 giugno 1930[^15-5] sulle obbligazioni fondiarie sono determinanti la somma di bilancio e il volume dei valori trattati; per gli assoggettati alla vigilanza secondo l’articolo 2 capoverso 1 lettere c e d della legge sugli istituti finanziari sono determinanti l’entità del patrimonio gestito, il reddito lordo e le dimensioni aziendali; per gli assoggettati alla vigilanza secondo l’articolo 1*b* della legge sulle banche sono determinanti la somma di bilancio e il reddito lordo;
-- a<sup>ter</sup>.[^15-6] per gli assoggettati alla vigilanza in virtù della legge del 19 giugno 2015[^15-7] sull’infrastruttura finanziaria sono determinanti la somma di bilancio e il volume dei valori trattati oppure, se non vengono trattati valori, il reddito lordo;
-- b. per gli assoggettati alla vigilanza in virtù della legge del 23 giugno 2006[^15-8] sugli investimenti collettivi sono determinanti l’entità del patrimonio gestito, il reddito lordo e le dimensioni aziendali;
-- c. per un’impresa di assicurazione ai sensi della legge del 17 dicembre 2004[^15-9] sulla sorveglianza degli assicuratori è determinante la sua quota di partecipazione al volume complessivo di premi incassati da tutte le imprese di assicurazione; per gli intermediari d’assicurazioni ai sensi dell’articolo 43 capoverso 1 della legge del 17 dicembre 2004 sulla sorveglianza degli assicuratori sono determinanti il loro numero e loro dimensioni aziendali;
-- d.[^15-10] per gli organismi di autodisciplina ai sensi della legge del 10 ottobre 1997[^15-11] sul riciclaggio di denaro sono determinanti il reddito lordo e il numero di membri;
-- e.[^15-12] per un organismo di vigilanza secondo il titolo terzo è determinante la quota degli assoggettati alla sua vigilanza rispetto al numero complessivo degli assoggettati alla vigilanza di tutti gli organismi di vigilanza; la tassa di vigilanza copre anche le spese della FINMA causate dagli assoggettati alla vigilanza che non sono coperte dagli emolumenti.
+- a.[^15-2] ...
+- a<sup>bis</sup>.[^15-3] per gli assoggettati alla vigilanza secondo l’articolo 1*a* della legge dell’8 novembre 1934[^15-4] sulle banche, secondo l’articolo 2 capoverso 1 lettera e della legge del 15 giugno 2018[^15-5] sugli istituti finanziari e secondo la legge del 25 giugno 1930[^15-6] sulle obbligazioni fondiarie sono determinanti la somma di bilancio e il volume dei valori trattati; per gli assoggettati alla vigilanza secondo l’articolo 2 capoverso 1 lettere c e d della legge sugli istituti finanziari sono determinanti l’entità del patrimonio gestito, il reddito lordo e le dimensioni aziendali; per gli assoggettati alla vigilanza secondo l’articolo 1*b* della legge sulle banche sono determinanti la somma di bilancio e il reddito lordo;
+- a<sup>ter</sup>.[^15-7] per gli assoggettati alla vigilanza in virtù della legge del 19 giugno 2015[^15-8] sull’infrastruttura finanziaria sono determinanti la somma di bilancio e il volume dei valori trattati oppure, se non vengono trattati valori, il reddito lordo;
+- b. per gli assoggettati alla vigilanza in virtù della legge del 23 giugno 2006[^15-9] sugli investimenti collettivi sono determinanti l’entità del patrimonio gestito, il reddito lordo e le dimensioni aziendali;
+- c.[^15-10] per un’impresa di assicurazione ai sensi della legge del 17 dicembre 2004[^15-11] sulla sorveglianza degli assicuratori (LSA) è determinante la sua quota di partecipazione al volume complessivo di premi incassati da tutte le imprese di assicurazione; per i gruppi e i conglomerati assicurativi ai sensi della LSA è determinante la loro quota al numero complessivo di unità dotate di personalità giuridica propria appartenenti a un gruppo o conglomerato; per gli intermediari assicurativi non vincolati ai sensi dell’articolo 41 capoverso 1 LSA sono determinanti il loro numero e le dimensioni aziendali;
+- d.[^15-12] per gli organismi di autodisciplina ai sensi della legge del 10 ottobre 1997[^15-13] sul riciclaggio di denaro sono determinanti il reddito lordo e il numero di membri;
+- e.[^15-14] per un organismo di vigilanza secondo il titolo terzo è determinante la quota degli assoggettati alla sua vigilanza rispetto al numero complessivo degli assoggettati alla vigilanza di tutti gli organismi di vigilanza; la tassa di vigilanza copre anche le spese della FINMA causate dagli assoggettati alla vigilanza che non sono coperte dagli emolumenti.
 
 <sup>3</sup> Il Consiglio federale può disporre che la tassa di vigilanza sia suddivisa in una tassa fissa di base e in una tassa variabile supplementare.
 
@@ -341,18 +341,20 @@ Il Consiglio federale disciplina i dettagli, segnatamente:
 - b. gli ambiti di vigilanza ai sensi del capoverso 1; e
 - c. la ripartizione tra gli ambiti di vigilanza dei costi da finanziare mediante la tassa di vigilanza.
 
-[^15-1]: Privo d’oggetto, vedi art. 75 cpv. 5 della L del 15 giu. 2018 sugli istituti finanziari ([RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801))
-[^15-2]: Introdotta dall’all. n. II 16 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^15-3]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^15-4]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
-[^15-5]: [RS 211.423.4](https://fedlex.data.admin.ch/eli/cc/47/109_113_57)
-[^15-6]: Ex lett. a<sup>bis</sup>. Introdotta dall’all. n. 13 della LF del 19 giu. 2015 sull’infrastruttura finanziaria, in vigore dal 1° gen. 2016 ([RU 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [FF 2014 6445](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
-[^15-7]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
-[^15-8]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
-[^15-9]: [RS 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
-[^15-10]: Nuovo testo giusta l’all. n. II 16 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^15-11]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^15-1]: Nuovo testo giusta l’all. n. 5 della LF del 18 mar. 2022, in vigore dal 1° gen. 2024 ([RU 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); FF **2020** 8967).
+[^15-2]: Privo d’oggetto, vedi art. 75 cpv. 5 della L del 15 giu. 2018 sugli istituti finanziari ([RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801))
+[^15-3]: Introdotta dall’all. n. II 16 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^15-4]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^15-5]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^15-6]: [RS 211.423.4](https://fedlex.data.admin.ch/eli/cc/47/109_113_57)
+[^15-7]: Ex lett. a<sup>bis</sup>. Introdotta dall’all. n. 13 della LF del 19 giu. 2015 sull’infrastruttura finanziaria, in vigore dal 1° gen. 2016 ([RU 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [FF 2014 6445](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
+[^15-8]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^15-9]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^15-10]: Nuovo testo giusta l’all. n. 5 della LF del 18 mar. 2022, in vigore dal 1° gen. 2024 ([RU 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); FF **2020** 8967).
+[^15-11]: [RS 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
 [^15-12]: Nuovo testo giusta l’all. n. II 16 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^15-13]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^15-14]: Nuovo testo giusta l’all. n. II 16 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 #### Art. 16
 
@@ -666,16 +668,16 @@ La FINMA può vietare temporaneamente o, in caso di recidiva, durevolmente alle 
 
 #### Art. 37
 
-**Revoca dell’autorizzazione, del riconoscimento o dell’abilitazione[^37-1]**
+**Revoca dell’autorizzazione, del riconoscimento, dell’abilitazione o della registrazione [^37-1]**
 
-<sup>1</sup> La FINMA revoca l’autorizzazione, il riconoscimento o l’abilitazione se la persona sottoposta a vigilanza non adempie più le condizioni di esercizio dell’attività o viola gravemente le disposizioni legali in materia di vigilanza.[^37-2]
+<sup>1</sup> La FINMA revoca l’autorizzazione, il riconoscimento, l’abilitazione o la registrazione se la persona sottoposta a vigilanza non adempie più le condizioni di esercizio dell’attività o viola gravemente le disposizioni legali in materia di vigilanza.[^37-2]
 
 <sup>2</sup> Con la revoca la persona sottoposta a vigilanza perde il diritto di esercitare l’attività. Le ulteriori conseguenze della revoca sono disciplinate dalle pertinenti leggi sui mercati finanziari.
 
 <sup>3</sup> Tali conseguenze si applicano per analogia se la persona sottoposta a vigilanza esercita la sua attività senza autorizzazione, riconoscimento, abilitazione o registrazione.
 
-[^37-1]: Nuovo testo giusta l’all. n. II 16 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^37-2]: Nuovo testo giusta l’all. n. II 16 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^37-1]: Nuovo testo giusta l’all. n. 5 della LF del 18 mar. 2022, in vigore dal 1° gen. 2024 ([RU 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); FF **2020** 8967).
+[^37-2]: Nuovo testo giusta l’all. n. 5 della LF del 18 mar. 2022, in vigore dal 1° gen. 2024 ([RU 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); FF **2020** 8967).
 
 ### Sezione 3: Collaborazione con le autorità svizzere
 

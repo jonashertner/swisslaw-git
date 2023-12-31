@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 22. Juni 2007 über die Eidgenössische Finanzmarktaufs
 short: FINMAG
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/736"
 language: de
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2007-06-22
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/736/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2008-736-20230901-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/736/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/736/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2008-736-20240101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/736/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/736/20230901/de"
 
 (Finanzmarktaufsichtsgesetz, FINMAG)
 
-vom 22. Juni 2007 (Stand am 1. September 2023)
+vom 22. Juni 2007 (Stand am 1. Januar 2024)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -319,15 +319,15 @@ Sie erlässt Ausführungsbestimmungen über:
 
 <sup>2</sup>
 
-Die Aufsichtsabgabe wird nach folgenden Kriterien bemessen:
+Die Aufsichtsabgabe nach Absatz 1 wird nach den folgenden Kriterien bemessen:[^15-1]
 
-- a.[^15-1] …
-- a<sup>bis</sup>.[^15-2] Für die Beaufsichtigten nach Artikel 1a des Bankengesetzes vom 8. November 1934[^15-3], nach Artikel 2 Absatz 1 Buchstabe e des Finanzinstitutsgesetzes vom 15. Juni 2018[^15-4] und nach dem Pfandbriefgesetz vom 25. Juni 1930[^15-5] sind Bilanzsumme und Effektenumsatz massgebend; für die Beaufsichtigten nach Artikel 2 Absatz 1 Buchstaben c und d des Finanzinstitutsgesetzes sind die Höhe des verwalteten Vermögens, der Bruttoertrag und die Betriebsgrösse massgebend; für die Beaufsichtigten nach Artikel 1*b* des Bankengesetzes sind Bilanzsumme und Bruttoertrag massgebend.
-- a<sup>ter</sup>.[^15-6] Für die Beaufsichtigten nach dem Finanzmarktinfrastrukturgesetz vom 19. Juni 2015[^15-7] sind Bilanzsumme und Effektenumsatz oder, wenn keine Effekten umgesetzt werden, der Bruttoertrag massgebend.
-- b. Für die Beaufsichtigten nach dem Kollektivanlagengesetz vom 23. Juni 2006[^15-8] sind die Höhe des verwalteten Vermögens, der Bruttoertrag und die Betriebsgrösse massgebend.
-- c. Für ein Versicherungsunternehmen nach dem Versicherungsaufsichtsgesetz vom 17. Dezember 2004[^15-9] ist sein Anteil an den gesamten Prämieneinnahmen aller Versicherungsunternehmen massgebend; für Versicherungsvermittlerinnen und -vermittler nach Artikel 43 Absatz 1 des Versicherungsaufsichtsgesetzes vom 17. Dezember 2004 sind ihre Anzahl und die Betriebsgrösse massgebend.
-- d.[^15-10] Für die Selbstregulierungsorganisationen nach dem Geldwäschereigesetz vom 10. Oktober 1997[^15-11] (GwG) sind Bruttoertrag und Anzahl Mitglieder massgebend.
-- e.[^15-12] Für eine Aufsichtsorganisation nach dem 3. Titel ist der Anteil der von ihr Beaufsichtigten an der Gesamtzahl der von allen Aufsichtsorganisationen Beaufsichtigten massgebend; die Aufsichtsabgabe deckt auch die Kosten der FINMA, welche durch Beaufsichtigte verursacht werden und nicht durch Gebühren gedeckt werden können.
+- a.[^15-2] …
+- a<sup>bis</sup>.[^15-3] Für die Beaufsichtigten nach Artikel 1a des Bankengesetzes vom 8. November 1934[^15-4], nach Artikel 2 Absatz 1 Buchstabe e des Finanzinstitutsgesetzes vom 15. Juni 2018[^15-5] und nach dem Pfandbriefgesetz vom 25. Juni 1930[^15-6] sind Bilanzsumme und Effektenumsatz massgebend; für die Beaufsichtigten nach Artikel 2 Absatz 1 Buchstaben c und d des Finanzinstitutsgesetzes sind die Höhe des verwalteten Vermögens, der Bruttoertrag und die Betriebsgrösse massgebend; für die Beaufsichtigten nach Artikel 1*b* des Bankengesetzes sind Bilanzsumme und Bruttoertrag massgebend.
+- a<sup>ter</sup>.[^15-7] Für die Beaufsichtigten nach dem Finanzmarktinfrastrukturgesetz vom 19. Juni 2015[^15-8] sind Bilanzsumme und Effektenumsatz oder, wenn keine Effekten umgesetzt werden, der Bruttoertrag massgebend.
+- b. Für die Beaufsichtigten nach dem Kollektivanlagengesetz vom 23. Juni 2006[^15-9] sind die Höhe des verwalteten Vermögens, der Bruttoertrag und die Betriebsgrösse massgebend.
+- c.[^15-10] Für ein Versicherungsunternehmen nach dem Versicherungsaufsichtsgesetz vom 17. Dezember 2004[^15-11] (VAG) ist sein Anteil an den gesamten Prämieneinnahmen aller Versicherungsunternehmen massgebend; für Versicherungsgruppen und -konglomerate nach dem VAG ist ihr Anteil an der Gesamtzahl aller zu einer Gruppe oder zu einem Konglomerat gehörenden juristischen Einheiten mit eigener Rechtspersönlichkeit massgebend; für ungebundene Versicherungsvermittlerinnen und -vermittler nach Artikel 41 Absatz 1 VAG sind ihre Anzahl und die Betriebsgrösse massgebend.
+- d.[^15-12] Für die Selbstregulierungsorganisationen nach dem Geldwäschereigesetz vom 10. Oktober 1997[^15-13] (GwG) sind Bruttoertrag und Anzahl Mitglieder massgebend.
+- e.[^15-14] Für eine Aufsichtsorganisation nach dem 3. Titel ist der Anteil der von ihr Beaufsichtigten an der Gesamtzahl der von allen Aufsichtsorganisationen Beaufsichtigten massgebend; die Aufsichtsabgabe deckt auch die Kosten der FINMA, welche durch Beaufsichtigte verursacht werden und nicht durch Gebühren gedeckt werden können.
 
 <sup>3</sup> Der Bundesrat kann die Aufteilung der Aufsichtsabgabe in eine fixe Grundabgabe und eine variable Zusatzabgabe vorsehen.
 
@@ -339,18 +339,20 @@ Er regelt die Einzelheiten, namentlich:
 - b. die Aufsichtsbereiche nach Absatz 1; und
 - c. die Aufteilung der durch die Aufsichtsabgabe zu finanzierenden Kosten unter den Aufsichtsbereichen.
 
-[^15-1]: Gegenstandslos. Siehe Art. 75 Abs. 5 des Finanzinstitutsgesetzes vom 15. Juni 2018 ([SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)).
-[^15-2]: Eingefügt durch Anhang Ziff. II 16 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^15-3]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^15-4]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
-[^15-5]: [SR 211.423.4](https://fedlex.data.admin.ch/eli/cc/47/109_113_57)
-[^15-6]: Ursprünglich: Bst. a<sup>bis</sup>. Eingefügt durch Anhang Ziff. 13 des Finanzmarktinfrastrukturgesetzes vom 19. Juni 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [BBl 2014 7483](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
-[^15-7]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
-[^15-8]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
-[^15-9]: [SR 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
-[^15-10]: Fassung gemäss Anhang Ziff. II 16 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^15-11]: [SR 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^15-1]: Fassung gemäss Anhang Ziff. 5 des BG vom 18. März 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [BBl 2020 8967](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
+[^15-2]: Gegenstandslos. Siehe Art. 75 Abs. 5 des Finanzinstitutsgesetzes vom 15. Juni 2018 ([SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)).
+[^15-3]: Eingefügt durch Anhang Ziff. II 16 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^15-4]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^15-5]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^15-6]: [SR 211.423.4](https://fedlex.data.admin.ch/eli/cc/47/109_113_57)
+[^15-7]: Ursprünglich: Bst. a<sup>bis</sup>. Eingefügt durch Anhang Ziff. 13 des Finanzmarktinfrastrukturgesetzes vom 19. Juni 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [BBl 2014 7483](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
+[^15-8]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^15-9]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^15-10]: Fassung gemäss Anhang Ziff. 5 des BG vom 18. März 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [BBl 2020 8967](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
+[^15-11]: [SR 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
 [^15-12]: Fassung gemäss Anhang Ziff. II 16 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^15-13]: [SR 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^15-14]: Fassung gemäss Anhang Ziff. II 16 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 #### Art. 16
 
@@ -664,16 +666,16 @@ Die FINMA kann folgenden Personen die Tätigkeit im Handel mit Finanzinstrumente
 
 #### Art. 37
 
-**Entzug der Bewilligung, der Anerkennung oder der Zulassung[^37-1]**
+**Entzug der Bewilligung, der Anerkennung, der Zulassung oder der Registrierung[^37-1]**
 
-<sup>1</sup> Die FINMA entzieht einer oder einem Beaufsichtigten die Bewilligung, die Anerkennung oder die Zulassung, wenn er die Voraussetzungen für die Tätigkeit nicht mehr erfüllt oder aufsichtsrechtliche Bestimmungen schwer verletzt.[^37-2]
+<sup>1</sup> Die FINMA entzieht einer oder einem Beaufsichtigten die Bewilligung, die Anerkennung, die Zulassung oder die Registrierung, wenn die oder der Beaufsichtigte die Voraussetzungen für die Tätigkeit nicht mehr erfüllt oder aufsichtsrechtliche Bestimmungen schwer verletzt.[^37-2]
 
 <sup>2</sup> Mit dem Entzug verliert die oder der Beaufsichtigte das Recht, die Tätigkeit auszuüben. Die übrigen Folgen des Entzugs richten sich nach den anwendbaren Finanzmarktgesetzen.
 
 <sup>3</sup> Diese Folgen gelten analog, wenn eine Beaufsichtigte oder ein Beaufsichtigter tätig ist, ohne über eine Bewilligung, eine Anerkennung, eine Zulassung oder eine Registrierung zu verfügen.
 
-[^37-1]: Fassung gemäss Anhang Ziff. II 16 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^37-2]: Fassung gemäss Anhang Ziff. II 16 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^37-1]: Fassung gemäss Anhang Ziff. 5 des BG vom 18. März 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [BBl 2020 8967](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
+[^37-2]: Fassung gemäss Anhang Ziff. 5 des BG vom 18. März 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [BBl 2020 8967](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
 
 ### 3. Abschnitt: Zusammenarbeit mit inländischen Behörden
 

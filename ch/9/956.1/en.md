@@ -4,11 +4,11 @@ title: "Federal Act of 22 June 2007 on the Swiss Financial Market Supervisory Au
 short: FINMASA
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/736"
 language: en
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2007-06-22
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/736/20230901/en/xml/fedlex-data-admin-ch-eli-cc-2008-736-20230901-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/736/20230901/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/736/20240101/en/xml/fedlex-data-admin-ch-eli-cc-2008-736-20240101-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/736/20240101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Financial Market Supervision Act, FINMASA)
 
-of 22 June 2007 (Status as of 1 September 2023)
+of 22 June 2007 (Status as of 1 January 2024)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -318,15 +318,15 @@ It shall issue implementing regulations with regard to:
 
 <sup>2</sup>
 
-The supervision charge is assessed according to the following criteria:
+The supervision charge in accordance with paragraph 1 is assessed according to the following criteria:[^15-1]
 
-- a.[^15-1] ...
-- a<sup>bis</sup>.[^15-2] For supervised persons and entities under Article 1*a* of the Banking Act of 8 November 1934[^15-3], Article 2 paragraph 1 letter e of the Financial Institutions Act of 15 June 2018[^15-4] and the Mortgage Bond Act of 25 June 1930[^15-5], on the basis of the balance sheet total and securities turnover; for supervised persons and entities under Article 2 paragraph 1 letters c and d of the Financial Institutions Act on the basis of the amount of assets managed, the gross earnings and the size of the undertaking; for supervised persons and entities under Article 1*b* of the Banking Act, on the basis of the balance sheet total and the gross earnings.
-- a<sup>ter</sup>.[^15-6] For supervised persons and entities under the Financial Market Infrastructure Act of 19 June 2015[^15-7], on the basis of the balance sheet total and securities turnover, or gross earnings if no securities are transacted.
-- b. For supervised persons and entities under the Collective Investment Schemes Act of 23 June 2006[^15-8], on the basis of the amount of assets managed, the gross earnings and the size of the undertaking.
-- c. For insurance institutions under the Insurance Supervision Act of 17 December 2004[^15-9], on the basis of their share of the total premium income for all insurance institutions; for insurance agents under Article 43 paragraph 1 of the Insurance Supervision Act of 17 December 2004, on the basis of their number and the size of the undertaking.
-- d.[^15-10] For self-regulatory organisations under the Anti-Money Laundering Act of 10 October 1997[^15-11] (AMLA), on the basis of the gross earnings and number of members;
-- e.[^15-12] For a supervisory organisation in accordance with Title 3, the share accounted for by its supervised persons and entities with regard to the total number of supervised persons and entities of all supervisory organisations is decisive; the supervision fee also covers the costs that FINMA incurs that are caused by supervised persons and entities and which are not covered by other charges.
+- a.[^15-2] ...
+- a<sup>bis</sup>.[^15-3] For supervised persons and entities under Article 1*a* of the Banking Act of 8 November 1934[^15-4], Article 2 paragraph 1 letter e of the Financial Institutions Act of 15 June 2018[^15-5] and the Mortgage Bond Act of 25 June 1930[^15-6], on the basis of the balance sheet total and securities turnover; for supervised persons and entities under Article 2 paragraph 1 letters c and d of the Financial Institutions Act on the basis of the amount of assets managed, the gross earnings and the size of the undertaking; for supervised persons and entities under Article 1*b* of the Banking Act, on the basis of the balance sheet total and the gross earnings.
+- a<sup>ter</sup>.[^15-7] For supervised persons and entities under the Financial Market Infrastructure Act of 19 June 2015[^15-8], on the basis of the balance sheet total and securities turnover, or gross earnings if no securities are transacted.
+- b. For supervised persons and entities under the Collective Investment Schemes Act of 23 June 2006[^15-9], on the basis of the amount of assets managed, the gross earnings and the size of the undertaking.
+- c.[^15-10] For insurance institutions under the Insurance Supervision Act of 17 December 2004[^15-11] (IOA), on the basis of their share of the total premium income for all insurance institutions; for insurance groups and conglomerates under the IOA, on the basis of their share of the total number of legal entities with their own legal personality that belong to a group or conglomerate; for independent insurance agents under Article 41 paragraph 1 IOA, on the basis of their number and the size of the undertaking.
+- d.[^15-12] For self-regulatory organisations under the Anti-Money Laundering Act of 10 October 1997[^15-13] (AMLA), on the basis of the gross earnings and number of members;
+- e.[^15-14] For a supervisory organisation in accordance with Title 3, the share accounted for by its supervised persons and entities with regard to the total number of supervised persons and entities of all supervisory organisations is decisive; the supervision fee also covers the costs that FINMA incurs that are caused by supervised persons and entities and which are not covered by other charges.
 
 <sup>3</sup> The Federal Council may provide for the apportionment of the supervision fee into a fixed basic fee and a variable supplementary fee.
 
@@ -338,18 +338,20 @@ It regulates the details, and in particular:
 - b. the supervision areas under paragraph 1; and
 - c. the apportionment of the costs to be financed by the supervision charge among the supervision areas.
 
-[^15-1]: Obsolete. See Art. 75 para. 5 of the Financial Institutions Act of 15 June 2018 ([SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)).
-[^15-2]: Inserted by Annex No II 16 of the Financial Institutions Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^15-3]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^15-4]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
-[^15-5]: [SR 211.423.4](https://fedlex.data.admin.ch/eli/cc/47/109_113_57)
-[^15-6]: Originally: Let. a<sup>bis</sup>. Inserted by Annex No 13 of the Financial Market Infrastructure Act of 19 June 2015, in force since 1 Jan. 2016 ([AS 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [BBl 2014 7483](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
-[^15-7]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
-[^15-8]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
-[^15-9]: [SR 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
-[^15-10]: Amended by Annex No II 16 of the Financial Institutions Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^15-11]: [SR 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^15-1]: Amended by Annex No 5 of the FA of 18 March 2022, in force since 1 Jan. 2024 ([AS 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [BBl 2020 8967](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
+[^15-2]: Obsolete. See Art. 75 para. 5 of the Financial Institutions Act of 15 June 2018 ([SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)).
+[^15-3]: Inserted by Annex No II 16 of the Financial Institutions Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^15-4]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^15-5]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^15-6]: [SR 211.423.4](https://fedlex.data.admin.ch/eli/cc/47/109_113_57)
+[^15-7]: Originally: Let. a<sup>bis</sup>. Inserted by Annex No 13 of the Financial Market Infrastructure Act of 19 June 2015, in force since 1 Jan. 2016 ([AS 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [BBl 2014 7483](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
+[^15-8]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^15-9]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^15-10]: Amended by Annex No 5 of the FA of 18 March 2022, in force since 1 Jan. 2024 ([AS 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [BBl 2020 8967](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
+[^15-11]: [SR 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
 [^15-12]: Amended by Annex No II 16 of the Financial Institutions Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^15-13]: [SR 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^15-14]: Amended by Annex No II 16 of the Financial Institutions Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 #### Art. 16
 
@@ -435,7 +437,7 @@ It does not provide information on individual proceedings, unless there is a par
 - b. to correct false or misleading information; or
 - c. to safeguard the reputation of Switzerland’s financial centre.
 
-<sup>3</sup> Where FINMA has provided information on individual proceedings, it must also provide immediate notice of the closure of the proceedings. This may be dispensed with at the request of the party concerned.
+<sup>3</sup> Where FINMA has provided information on individual proceedings, it must also provide immediate notice of the termination of the proceedings. This may be dispensed with at the request of the party concerned.
 
 <sup>4</sup> FINMA takes account of the personality rights of those concerned in all its information activities. Personal data may be published in electronic or printed form.
 
@@ -661,16 +663,16 @@ Where the following persons seriously violate the provisions of the financial ma
 
 #### Art. 37
 
-**Revocation of licence, withdrawal of recognition[^37-1]**
+**Revocation of licence, withdrawal of recognition, cancellation of registration[^37-1]**
 
-<sup>1</sup> FINMA shall revoke the licence of a supervised person or entity, or withdraw its recognition if it no longer fulfils the requirements for its activity or seriously violates the supervisory provisions.[^37-2]
+<sup>1</sup> FINMA shall revoke the licence of a supervised person or entity, withdraw its recognition or cancel its registration if it no longer fulfils the requirements for its activity or seriously violates the supervisory provisions.[^37-2]
 
 <sup>2</sup> On revocation, withdrawal or cancellation, the supervised person or entity loses its right to carry out its activity. The other consequences of revocation, withdrawal or cancellation are governed by the applicable financial market acts.
 
 <sup>3</sup> These consequences apply by analogy if a supervised person or entity carries out its activity without a licence, recognition, or registration.
 
-[^37-1]: Amended by Annex No II 16 of the Financial Institutions Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^37-2]: Amended by Annex No II 16 of the Financial Institutions Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^37-1]: Amended by Annex No 5 of the FA of 18 March 2022, in force since 1 Jan. 2024 ([AS 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [BBl 2020 8967](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
+[^37-2]: Amended by Annex No 5 of the FA of 18 March 2022, in force since 1 Jan. 2024 ([AS 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [BBl 2020 8967](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
 
 ### Section 3 Cooperation with Domestic Authorities
 
@@ -692,7 +694,7 @@ Where the following persons seriously violate the provisions of the financial ma
 
 <sup>1</sup> FINMA is authorised to provide other domestic supervisory authorities and the Swiss National Bank with non-public information that they need to fulfil their tasks.
 
-<sup>1bis</sup> FINMA and the supervisory authority under the Health Insurance Oversight Act of 26 September 2014[^39-2] shall coordinate their supervisory activities. They shall inform each other as soon as they become aware of events that are of significance to the other supervisory authority.[^39-3]
+<sup>1bis</sup> FINMA and the supervisory authority under the Health Insurance Supervision Act of 26 September 2014[^39-2] shall coordinate their supervisory activities. They shall inform each other as soon as they become aware of events that are of significance to the other supervisory authority.[^39-3]
 
 <sup>2</sup> FINMA may also exchange non-public information on certain financial market participants with the FDF where this helps maintain the stability of the financial system.[^39-4]
 

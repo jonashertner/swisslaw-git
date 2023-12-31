@@ -4,11 +4,11 @@ title: "Loi du 22 juin 2007 sur l'Autorité fédérale de surveillance des march
 short: LFINMA
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/736"
 language: fr
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2007-06-22
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/736/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2008-736-20230901-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/736/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/736/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-736-20240101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/736/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/736/20230901/fr"
 
 (Loi sur la surveillance des marchés financiers, LFINMA)
 
-du 22 juin 2007 (État le 1<sup>er</sup> septembre 2023)
+du 22 juin 2007 (État le 1<sup>er</sup> janvier 2024)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -319,15 +319,15 @@ Elle édicte les dispositions d’exécution concernant:
 
 <sup>2</sup>
 
-La taxe de surveillance est fixée selon les critères suivants:
+La taxe de surveillance visée à l’al. 1 est fixée selon les critères suivants:[^15-1]
 
-- a.[^15-1] ...
-- a<sup>bis</sup>.[^15-2] le total du bilan et le volume des transactions sur valeurs mobilières, s’agissant des assujettis visés par l’art. 1*a* de la loi du 8 novembre 1934 sur les banques[^15-3], par l’art. 2, al. 1, let. e, de la loi fédérale du 15 juin 2018 sur les établissements financiers[^15-4] et par la loi du 25 juin 1930 sur l’émission de lettres de gage[^15-5]; le montant du patrimoine géré, le produit brut et la taille de l’entreprise, s’agissant des assujettis visés par l’art. 2, al. 1, let. c et d, de la loi fédérale sur les établissements financiers; le total du bilan et le produit brut, s’agissant des assujettis visés par l’art. 1*b* de la loi sur les banques;
-- a<sup>ter</sup>.[^15-6] le total du bilan et le volume des transactions sur valeurs mobilières ou, faute de volume des transactions sur valeurs mobilières, le produit brut, s’agissant des assujettis visés par la loi du 19 juin 2015 sur l’infrastructure des marchés financiers[^15-7];
-- b. le montant du patrimoine géré, le produit brut et la taille de l’entreprise, s’agissant des assujettis visés par la loi du 23 juin 2006 sur les placements collectifs[^15-8];
-- c. la quote-part des recettes totales des primes de toutes les entreprises d’assurance, s’agissant des entreprises d’assurance au sens de la loi du 17 décembre 2004 sur la surveillance des assurances[^15-9]; le nombre de courtiers et la taille de l’entreprise, s’agissant des courtiers en assurance au sens de l’art. 43, al. 1, de la loi précitée;
-- d.[^15-10] le produit brut et le nombre de membres affiliés, s’agissant des organismes d’autorégulation au sens de la loi du 10 octobre 1997 sur le blanchiment d’argent (LBA)[^15-11];
-- e.[^15-12] la proportion que représentent ses assujettis par rapport aux assujettis de tous les organismes de surveillance, s’agissant d’un organisme de surveillance au sens du titre 3; la taxe de surveillance couvre aussi les coûts de la FINMA qui sont occasionnés par les assujettis et ne peuvent pas être couverts par des émoluments.
+- a.[^15-2] …
+- a<sup>bis</sup>.[^15-3] le total du bilan et le volume des transactions sur valeurs mobilières, s’agissant des assujettis visés par l’art. 1*a* de la loi du 8 novembre 1934 sur les banques[^15-4], par l’art. 2, al. 1, let. e, de la loi fédérale du 15 juin 2018 sur les établissements financiers[^15-5] et par la loi du 25 juin 1930 sur l’émission de lettres de gage[^15-6]; le montant du patrimoine géré, le produit brut et la taille de l’entreprise, s’agissant des assujettis visés par l’art. 2, al. 1, let. c et d, de la loi fédérale sur les établissements financiers; le total du bilan et le produit brut, s’agissant des assujettis visés par l’art. 1*b* de la loi sur les banques;
+- a<sup>ter</sup>.[^15-7] le total du bilan et le volume des transactions sur valeurs mobilières ou, faute de volume des transactions sur valeurs mobilières, le produit brut, s’agissant des assujettis visés par la loi du 19 juin 2015 sur l’infrastructure des marchés financiers[^15-8];
+- b. le montant du patrimoine géré, le produit brut et la taille de l’entreprise, s’agissant des assujettis visés par la loi du 23 juin 2006 sur les placements collectifs[^15-9];
+- c.[^15-10] la quote-part des recettes totales des primes de toutes les entreprises d’assurance, s’agissant d’une entreprise d’assurance au sens de la loi du 17 décembre 2004 sur la surveillance des assurances (LSA)[^15-11]; la quote-part du nombre total d’entités bénéficiant de la personnalité juridique qui appartiennent à un groupe ou à un conglomérat, s’agissant des groupes et conglomérats d’assurance au sens de la LSA; le nombre de courtiers et la taille de l’entreprise, s’agissant des courtiers en assurance non liés au sens de l’art. 41, al. 1, LSA;
+- d.[^15-12] le produit brut et le nombre de membres affiliés, s’agissant des organismes d’autorégulation au sens de la loi du 10 octobre 1997 sur le blanchiment d’argent (LBA)[^15-13];
+- e.[^15-14] la proportion que représentent ses assujettis par rapport aux assujettis de tous les organismes de surveillance, s’agissant d’un organisme de surveillance au sens du titre 3; la taxe de surveillance couvre aussi les coûts de la FINMA qui sont occasionnés par les assujettis et ne peuvent pas être couverts par des émoluments.
 
 <sup>3</sup> Le Conseil fédéral peut prévoir que la taxe de surveillance se compose d’une taxe de base fixe et d’une taxe complémentaire variable.
 
@@ -339,18 +339,20 @@ Il règle les modalités, notamment:
 - b. les domaines de surveillance au sens de l’al. 1, et
 - c. la répartition des coûts financés par la taxe de surveillance entre les domaines de surveillance.
 
-[^15-1]: Sans objet, au sens de l’art. 75 al. 5 de la LF du 15 juin 2018 sur les établissements financiers ([RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)).
-[^15-2]: Introduite par l’annexe ch. II 16 de la LF du 15 juin 2018 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^15-3]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^15-4]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
-[^15-5]: [RS 211.423.4](https://fedlex.data.admin.ch/eli/cc/47/109_113_57)
-[^15-6]: Ancienne let. a<sup>bis</sup>. Introduite par l’annexe ch. 13 de la L du 19 juin 2015 sur l’infrastructure des marchés financiers ([RO 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [FF 2014 7235](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
-[^15-7]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
-[^15-8]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
-[^15-9]: [RS 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
-[^15-10]: Nouvelle teneur selon l’annexe ch. II 16 de la LF du 15 juin 2018 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^15-11]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^15-1]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 18 mars 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [FF 2020 8637](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
+[^15-2]: Sans objet, au sens de l’art. 75 al. 5 de la LF du 15 juin 2018 sur les établissements financiers ([RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)).
+[^15-3]: Introduite par l’annexe ch. II 16 de la LF du 15 juin 2018 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^15-4]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^15-5]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^15-6]: [RS 211.423.4](https://fedlex.data.admin.ch/eli/cc/47/109_113_57)
+[^15-7]: Ancienne let. a<sup>bis</sup>. Introduite par l’annexe ch. 13 de la L du 19 juin 2015 sur l’infrastructure des marchés financiers ([RO 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [FF 2014 7235](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
+[^15-8]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^15-9]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^15-10]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 18 mars 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [FF 2020 8637](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
+[^15-11]: [RS 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
 [^15-12]: Nouvelle teneur selon l’annexe ch. II 16 de la LF du 15 juin 2018 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^15-13]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^15-14]: Nouvelle teneur selon l’annexe ch. II 16 de la LF du 15 juin 2018 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 #### Art. 16
 
@@ -548,7 +550,7 @@ La FINMA peut effectuer elle-même l’audit au sens des lois sur les marchés f
 <sup>2</sup> La FINMA et l’Autorité fédérale de surveillance en matière de révision se communiquent tous les renseignements et documents nécessaires à la mise en œuvre de la législation applicable.[^28-2]
 
 [^28-1]: Abrogé par l’annexe ch. 8 de la LF du 20 juin 2014 (Concentration de la surveillance des entreprises de révision et des sociétés d’audit), avec effet au 1<sup>er</sup> janv. 2015 ([RO 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [FF 2013 6147](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
-[^28-2]: Nouvelle teneur selon l’annexe ch. 8 de la LF du 20 juin 2014 (Concentration de la surveillance des entreprises de révision et des sociétés d’audit), en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [FF 2013 6147](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
+[^28-2]: Nouvelle teneur selon l’annexe ch. 8 de la LF du 20 juin 2014 (Concentration de la surveillance des entreprises de révision et des sociétés d’audit), en vigueur depuis le 1<sup>er janv.</sup> 2015 ([RO 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [FF 2013 6147](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
 
 #### Art. 28a
 
@@ -572,7 +574,7 @@ La FINMA peut effectuer elle-même l’audit au sens des lois sur les marchés f
 
 <sup>2</sup> Les assujettis et leurs sociétés d’audits renseignent sans délai la FINMA sur tout fait important susceptible de l’intéresser.[^29-1]
 
-[^29-1]: Nouvelle teneur selon l’annexe ch. 8 de la LF du 20 juin 2014 (Concentration de la surveillance des entreprises de révision et des sociétés d’audit), en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [FF 2013 6147](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
+[^29-1]: Nouvelle teneur selon l’annexe ch. 8 de la LF du 20 juin 2014 (Concentration de la surveillance des entreprises de révision et des sociétés d’audit), en vigueur depuis le 1<sup>er janv.</sup> 2015 ([RO 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [FF 2013 6147](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
 
 #### Art. 30
 
@@ -664,16 +666,16 @@ La FINMA peut interdire aux personnes ci-après, pour une durée limitée ou, en
 
 #### Art. 37
 
-**Retrait de l’autorisation, de la reconnaissance ou de l’agrément[^37-1]**
+**Retrait de l’autorisation, de la reconnaissance, de l’agrément ou de l’enregistrement [^37-1]**
 
-<sup>1</sup> La FINMA retire l’autorisation d’exercer, la reconnaissance ou l’agrément d’un assujetti si celui-ci ne remplit plus les conditions requises ou s’il viole gravement le droit de la surveillance.[^37-2]
+<sup>1</sup> La FINMA retire l’autorisation d’exercer, la reconnaissance, l’agrément ou l’enregistrement d’un assujetti si celui-ci ne remplit plus les conditions requises ou s’il viole gravement le droit de la surveillance.[^37-2]
 
 <sup>2</sup> Par le retrait de son autorisation, l’assujetti perd le droit d’exercer son activité. Les autres conséquences du retrait sont régies par les lois sur les marchés financiers applicables.
 
 <sup>3</sup> Ces conséquences sont applicables par analogie lorsqu’un assujetti exerce son activité sans autorisation, sans reconnaissance, sans agrément ou sans enregistrement.
 
-[^37-1]: Nouvelle teneur selon l’annexe ch. II 16 de la LF du 15 juin 2018 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^37-2]: Nouvelle teneur selon l’annexe ch. II 16 de la LF du 15 juin 2018 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^37-1]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 18 mars 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [FF 2020 8637](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
+[^37-2]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 18 mars 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [FF 2020 8637](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
 
 ### Section 3 Collaboration avec les autorités suisses
 
