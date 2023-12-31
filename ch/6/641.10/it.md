@@ -4,11 +4,11 @@ title: Legge federale del 27 giugno 1973 sulle tasse di bollo (LTB)
 short: LTB
 eli: "https://fedlex.data.admin.ch/eli/cc/1974/11_11_11"
 language: it
-version: 2023-01-01
+version: 2024-01-01
 adopted: 1973-06-27
 in_force: 1974-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1974/11_11_11/20230101/it/xml/fedlex-data-admin-ch-eli-cc-1974-11_11_11-20230101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1974/11_11_11/20240101/it/xml/fedlex-data-admin-ch-eli-cc-1974-11_11_11-20240101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/20230101/it"
 
 (LTB)
 
-del 27 giugno 1973 (Stato 1° gennaio 2023)
+del 27 giugno 1973 (Stato 1° gennaio 2024)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -25,7 +25,7 @@ visti gli articoli 132 capoverso 1 e 134 della Costituzione federale[^ingress-1]
 
 decreta:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: Nuovo testo giusta il n. I della LF del 29 set. 2017, in vigore dal 1° mar. 2018 ([RU 2018 705](https://fedlex.data.admin.ch/eli/oc/2018/84); [FF 2017 1319](https://fedlex.data.admin.ch/eli/fga/2017/281)).
 [^ingress-3]: [FF 1972 II 1068](https://fedlex.data.admin.ch/eli/fga/1972/2_1278_1275_1068)
 
@@ -71,7 +71,7 @@ La Confederazione riscuote tasse di bollo su:
 [^1-4]: Nuovo testo giusta il n. I della LF del 4 ott. 1991, in vigore dal 1° apr. 1993 ([RU 1993 222](https://fedlex.data.admin.ch/eli/oc/1993/222_222_222); [FF 1991 IV 425](https://fedlex.data.admin.ch/eli/fga/1991/4_521_505_425)434).
 [^1-5]: Nuovo testo giusta l’all. n. II 7 della LF del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^1-6]: Nuovo testo giusta l’all. n. II 4 della L del 23 giu. 2006 sugli investimenti collettivi, in vigore dal 1° gen. 2007 ([RU 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822); [FF 2005 5701](https://fedlex.data.admin.ch/eli/fga/2005/1000)).
-[^1-7]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^1-7]: [RS 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
 
 ### II. …
 
@@ -89,7 +89,7 @@ La Confederazione riscuote tasse di bollo su:
 
 <sup>2</sup> I documenti esenti comprendono anche i documenti in uso per il trasporto di bagagli, animali e merci da parte delle Ferrovie federali svizzere e delle imprese di trasporto titolari di una concessione rilasciata dalla Confederazione.[^3-2]
 
-[^3-1]: [CS **3** 499; RU **1948** 899 art. 86; [1955 899](https://fedlex.data.admin.ch/eli/oc/1955/871_893_899)art. 118; [1959 921](https://fedlex.data.admin.ch/eli/oc/1959/902_931_921); [1969 755](https://fedlex.data.admin.ch/eli/oc/1969/737_757_755)art. 80 lett. b [784](https://fedlex.data.admin.ch/eli/oc/1969/767_787_784); [1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237)n. II 3, [862](https://fedlex.data.admin.ch/eli/oc/1977/862_862_862)art. 52 n. 2, [1323](https://fedlex.data.admin.ch/eli/oc/1977/1323_1323_1323)n. III; [1978 688](https://fedlex.data.admin.ch/eli/oc/1978/688_688_688)art. 88 n. 3, [1450](https://fedlex.data.admin.ch/eli/oc/1978/1450_1450_1450); [1979 42](https://fedlex.data.admin.ch/eli/oc/1979/42_42_42); [1980 31](https://fedlex.data.admin.ch/eli/oc/1980/31_31_31)n. IV, [1718](https://fedlex.data.admin.ch/eli/oc/1980/1718_1718_1718)art. 52 n. 2, [1819](https://fedlex.data.admin.ch/eli/oc/1980/1819_1819_1819)art. 12 cpv. 1; [1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)all. n. 13; [1983 1886](https://fedlex.data.admin.ch/eli/oc/1983/1886_1886_1886)art. 36 n. 1; [1986 926](https://fedlex.data.admin.ch/eli/oc/1986/926_926_926)art. 59 n. 1; [1987 226](https://fedlex.data.admin.ch/eli/oc/1987/226_226_226)n. II 1, [1665](https://fedlex.data.admin.ch/eli/oc/1987/1665_1665_1665)n. II; [1988 1776](https://fedlex.data.admin.ch/eli/oc/1988/1776_1776_1776)all. II 1; [1989 504](https://fedlex.data.admin.ch/eli/oc/1989/504_504_504)art. 33 let. a; [1990 938](https://fedlex.data.admin.ch/eli/oc/1990/938_938_938)n. III cpv. 5; [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288); [1993 274](https://fedlex.data.admin.ch/eli/oc/1993/274_274_274)art. 75 n. 1, [1945](https://fedlex.data.admin.ch/eli/oc/1993/1945_1945_1945)all. n. 1; [1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227)all. n. 3, [4093](https://fedlex.data.admin.ch/eli/oc/1995/4093_4093_4093)all. n. 4; [1996 508](https://fedlex.data.admin.ch/eli/oc/1996/508_508_508)art. 36, [750](https://fedlex.data.admin.ch/eli/oc/1996/750_750_750)art. 17, [1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445)all. n. 2, [1498](https://fedlex.data.admin.ch/eli/oc/1996/1498_1498_1498)all. n. 2; [1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155)all. n. 6, [2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)all. n. 5; [1998 2847](https://fedlex.data.admin.ch/eli/oc/1998/2847_2847_2847)all. n. 3, [3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)all. n. 2; [1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149)all. n. 1, [3071](https://fedlex.data.admin.ch/eli/oc/1999/472)n. I 2; [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)all. n. 6, [416](https://fedlex.data.admin.ch/eli/oc/2000/92)n. I 2, [505](https://fedlex.data.admin.ch/eli/oc/2000/95)n. I 1, [2355](https://fedlex.data.admin.ch/eli/oc/2000/374)all. n. 1, [2719](https://fedlex.data.admin.ch/eli/oc/2000/453); [2001 114](https://fedlex.data.admin.ch/eli/oc/2001/21)n. I 4, [894](https://fedlex.data.admin.ch/eli/oc/2001/123)art. 40 n. 3, [1029](https://fedlex.data.admin.ch/eli/oc/2001/150)art. 11 cpv. 2; [2002 863](https://fedlex.data.admin.ch/eli/oc/2002/153)art. 35, [1904](https://fedlex.data.admin.ch/eli/oc/2002/283)art. 36 n. 1, [2767](https://fedlex.data.admin.ch/eli/oc/2002/408)n. II, [3988](https://fedlex.data.admin.ch/eli/oc/2002/639)all. n. 1; [2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314)all. n. 7, [3543](https://fedlex.data.admin.ch/eli/oc/2003/510)all. n. II 4 lett. a, [4557](https://fedlex.data.admin.ch/eli/oc/2003/674)all. n. II 1; [2004 1985](https://fedlex.data.admin.ch/eli/oc/2004/221)all. n. II 1, [4719](https://fedlex.data.admin.ch/eli/oc/2004/723)all. n. II 1; [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)all. n. 7. [RU 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218)art. 131 cpv. 1]. Vedi ora la L del 17 giu. 2005 sul Tribunale federale ([RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)).
+[^3-1]: [CS **3** 499; RU **1948** 899 art. 86; [1955 899](https://fedlex.data.admin.ch/eli/oc/1955/871_893_899)art. 118; [1959 921](https://fedlex.data.admin.ch/eli/oc/1959/902_931_921); [1969 755](https://fedlex.data.admin.ch/eli/oc/1969/737_757_755)art. 80 lett. b [784](https://fedlex.data.admin.ch/eli/oc/1969/767_787_784); [1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237)n. II 3, [862](https://fedlex.data.admin.ch/eli/oc/1977/862_862_862)art. 52 n. 2, [1323](https://fedlex.data.admin.ch/eli/oc/1977/1323_1323_1323)n. III; [1978 688](https://fedlex.data.admin.ch/eli/oc/1978/688_688_688)art. 88 n. 3, [1450](https://fedlex.data.admin.ch/eli/oc/1978/1450_1450_1450); [1979 42](https://fedlex.data.admin.ch/eli/oc/1979/42_42_42); [1980 31](https://fedlex.data.admin.ch/eli/oc/1980/31_31_31)n. IV, [1718](https://fedlex.data.admin.ch/eli/oc/1980/1718_1718_1718)art. 52 n. 2, [1819](https://fedlex.data.admin.ch/eli/oc/1980/1819_1819_1819)art. 12 cpv. 1; [1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)all. n. 13; [1983 1886](https://fedlex.data.admin.ch/eli/oc/1983/1886_1886_1886)art. 36 n. 1; [1986 926](https://fedlex.data.admin.ch/eli/oc/1986/926_926_926)art. 59 n. 1; [1987 226](https://fedlex.data.admin.ch/eli/oc/1987/226_226_226)n. II 1, [1665](https://fedlex.data.admin.ch/eli/oc/1987/1665_1665_1665)n. II; [1988 1776](https://fedlex.data.admin.ch/eli/oc/1988/1776_1776_1776)all. II 1; [1989 504](https://fedlex.data.admin.ch/eli/oc/1989/504_504_504)art. 33 let. a; [1990 938](https://fedlex.data.admin.ch/eli/oc/1990/938_938_938)n. III cpv. 5; [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288); [1993 274](https://fedlex.data.admin.ch/eli/oc/1993/274_274_274)art. 75 n. 1, [1945](https://fedlex.data.admin.ch/eli/oc/1993/1945_1945_1945)all. n. 1; [1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227)all. n. 3, [4093](https://fedlex.data.admin.ch/eli/oc/1995/4093_4093_4093)all. n. 4; [1996 508](https://fedlex.data.admin.ch/eli/oc/1996/508_508_508)art. 36, [750](https://fedlex.data.admin.ch/eli/oc/1996/750_750_750)art. 17, [1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445)all. n. 2, [1498](https://fedlex.data.admin.ch/eli/oc/1996/1498_1498_1498)all. n. 2; [1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155)all. n. 6, [2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)all. n. 5; [1998 2847](https://fedlex.data.admin.ch/eli/oc/1998/2847_2847_2847)all. n. 3, [3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)all. n. 2; [1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149)all. n. 1, [3071](https://fedlex.data.admin.ch/eli/oc/1999/472)n. I 2; [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)all. n. 6, [416](https://fedlex.data.admin.ch/eli/oc/2000/92)n. I 2, [505](https://fedlex.data.admin.ch/eli/oc/2000/95)n. I 1, [2355](https://fedlex.data.admin.ch/eli/oc/2000/374)all. n. 1, [2719](https://fedlex.data.admin.ch/eli/oc/2000/453); [2001 114](https://fedlex.data.admin.ch/eli/oc/2001/21)n. I 4, [894](https://fedlex.data.admin.ch/eli/oc/2001/123)art. 40 n. 3, [1029](https://fedlex.data.admin.ch/eli/oc/2001/150)art. 11 cpv. 2; [2002 863](https://fedlex.data.admin.ch/eli/oc/2002/153)art. 35, [1904](https://fedlex.data.admin.ch/eli/oc/2002/283)art. 36 n. 1, [2767](https://fedlex.data.admin.ch/eli/oc/2002/408)n. II, [3988](https://fedlex.data.admin.ch/eli/oc/2002/639)all. n. 1; [2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314)all. n. 7, [3543](https://fedlex.data.admin.ch/eli/oc/2003/510)all. n. II 4 lett. a, [4557](https://fedlex.data.admin.ch/eli/oc/2003/674)all. n. II 1; [2004 1985](https://fedlex.data.admin.ch/eli/oc/2004/221)all. n. II 1, [4719](https://fedlex.data.admin.ch/eli/oc/2004/723)all. n. II 1; [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)all. n. 7. [RU 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218)art. 131 cpv. 1]. Vedi ora la L del 17 giu. 2005 sul Tribunale federale ([RS 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)).
 [^3-2]: Introdotto dal n. I della LF dell’8 ott. 1999, in vigore dal 1° gen. 2000 ([RU 2000 322](https://fedlex.data.admin.ch/eli/oc/2000/62); [FF 1999 6784](https://fedlex.data.admin.ch/eli/fga/1999/1_7922_7145_6784)).
 
 ### IV. Definizioni
@@ -112,9 +112,9 @@ Sono parimenti considerati obbligazioni:
 
 <sup>5</sup> Sono titoli del mercato monetario le obbligazioni con una durata contrattuale fissa che non supera dodici mesi.[^4-6]
 
-[^4-1]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^4-1]: [RS 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
 [^4-2]: Nuovo testo giusta l’all. n. II 4 della L del 23 giu. 2006 sugli investimenti collettivi, in vigore dal 1° gen. 2007 ([RU 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822); [FF 2005 5701](https://fedlex.data.admin.ch/eli/fga/2005/1000)).
-[^4-3]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^4-3]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^4-4]: Introdotto dal n. I della LF del 4 ott. 1991, in vigore dal 1° apr. 1993 ([RU 1993 222](https://fedlex.data.admin.ch/eli/oc/1993/222_222_222); [FF 1991 IV 425](https://fedlex.data.admin.ch/eli/fga/1991/4_521_505_425)434).
 [^4-5]: Introdotto dal n. I della LF del 4 ott. 1991, in vigore dal 1° apr. 1993 ([RU 1993 222](https://fedlex.data.admin.ch/eli/oc/1993/222_222_222); [FF 1991 IV 425](https://fedlex.data.admin.ch/eli/fga/1991/4_521_505_425)434).
 [^4-6]: Introdotto dal n. I della LF del 4 ott. 1991, in vigore dal 1° apr. 1993 ([RU 1993 222](https://fedlex.data.admin.ch/eli/oc/1993/222_222_222); [FF 1991 IV 425](https://fedlex.data.admin.ch/eli/fga/1991/4_521_505_425)434).
@@ -182,42 +182,45 @@ Non soggiacciono alla tassa:
   - – la parte del patrimonio rimanente dopo il rimborso del capitale sociale versato sia destinata, in caso di scioglimento della società, ad uno degli scopi summenzionati;
 
 - [tab] a.<sup>bis</sup> [^6-1] i diritti di partecipazione creati o aumentati in esecuzione di deliberazioni relative a fusioni o riunioni aventi economicamente carattere di fusione, a trasformazioni e scissioni di società anonime, società in accomandita per azioni, società a garanzia limitata o società cooperative;
-- b.[^6-2] la costituzione o l’aumento del valore nominale di diritti di partecipazione a società cooperative, nella misura in cui le prestazioni dei soci ai sensi dell’articolo 5 non superino complessivamente un milione di franchi;
-- c.[^6-3] i diritti di partecipazione a imprese di trasporto costituiti o aumentati in favore dei poteri pubblici in ragione dei loro contributi d’investimento;
+- a.<sup>ter</sup> [^6-2] la costituzione o l’aumento del valore nominale di diritti di partecipazione a società che sono esclusivamente di proprietà pubblica e perseguono uno scopo di pubblica utilità secondo l’articolo 1 della legge federale del 17 marzo 2023[^6-3] concernente l’impiego di mezzi elettronici per l’adempimento dei compiti delle autorità, nonché operazioni equivalenti finalizzate alla costituzione di diritti di partecipazione a tali società;
+- b.[^6-4] la costituzione o l’aumento del valore nominale di diritti di partecipazione a società cooperative, nella misura in cui le prestazioni dei soci ai sensi dell’articolo 5 non superino complessivamente un milione di franchi;
+- c.[^6-5] i diritti di partecipazione a imprese di trasporto costituiti o aumentati in favore dei poteri pubblici in ragione dei loro contributi d’investimento;
 - d. i diritti di partecipazione costituiti o aumentati mediante aggi e anticipazioni dei soci, per quanto la società provi di aver pagato la tassa di bollo su dette prestazioni;
-- e.[^6-4] …
-- f.[^6-5] …
-- g.[^6-6] i diritti di partecipazione costituiti o aumentati mediante l’impiego del capitale di partecipazione o del capitale di partecipazione di una banca cooperativa, se la società o la società cooperativa prova di aver pagato la tassa su tale capitale;
-- h.[^6-7] i diritti di partecipazione costituiti a titolo oneroso al momento della costituzione o dell’aumento di capitale di una società anonima, di una società in accomandita per azioni o di una società a garanzia limitata, per quanto le prestazioni dei soci non superino complessivamente un milione di franchi;
-- i.[^6-8] la creazione di quote di investimenti collettivi di capitale ai sensi della LICol[^6-9];
-- j.[^6-10] i diritti di partecipazione costituiti o aumentati per riprendere un’azienda o una parte di azienda di una società anonima, di una società in accomandita per azioni, di una società a garanzia limitata o di una società cooperativa, se dall’ultimo bilancio annuale risulta che la metà del capitale e delle riserve legali di questa società non è più coperta;
-- k.[^6-11]
+- e.[^6-6] …
+- f.[^6-7] …
+- g.[^6-8] i diritti di partecipazione costituiti o aumentati mediante l’impiego del capitale di partecipazione o del capitale di partecipazione di una banca cooperativa, se la società o la società cooperativa prova di aver pagato la tassa su tale capitale;
+- h.[^6-9] i diritti di partecipazione costituiti a titolo oneroso al momento della costituzione o dell’aumento di capitale di una società anonima, di una società in accomandita per azioni o di una società a garanzia limitata, per quanto le prestazioni dei soci non superino complessivamente un milione di franchi;
+- i.[^6-10] la creazione di quote di investimenti collettivi di capitale ai sensi della LICol[^6-11];
+- j.[^6-12] i diritti di partecipazione costituiti o aumentati per riprendere un’azienda o una parte di azienda di una società anonima, di una società in accomandita per azioni, di una società a garanzia limitata o di una società cooperativa, se dall’ultimo bilancio annuale risulta che la metà del capitale e delle riserve legali di questa società non è più coperta;
+- k.[^6-13]
 
   la costituzione di diritti di partecipazione o l’aumento del loro valore nominale, in caso di risanamento aperto, sino a concorrenza del loro importo prima del risanamento, nonché i pagamenti suppletivi dei soci in caso di risanamento tacito nella misura in cui:
 
   - – le perdite esistenti siano eliminate, e
   - – le prestazioni dei soci non superino complessivamente 10 milioni di franchi;
 
-- l.[^6-12] i diritti di partecipazione a banche o società di gruppi finanziari costituiti o aumentati mediante capitale convertibile secondo l’articolo 13 capoverso 1 o 30*b* capoverso 7 lettera b della legge dell’8 novembre 1934[^6-13] sulle banche approvato dall’Autorità federale di vigilanza sui mercati finanziari ai fini dell’adempimento di esigenze prudenziali;
-- m.[^6-14] …
+- l.[^6-14] i diritti di partecipazione a banche o società di gruppi finanziari costituiti o aumentati mediante capitale convertibile secondo l’articolo 13 capoverso 1 o 30*b* capoverso 7 lettera b della legge dell’8 novembre 1934[^6-15] sulle banche approvato dall’Autorità federale di vigilanza sui mercati finanziari ai fini dell’adempimento di esigenze prudenziali;
+- m.[^6-16] …
 
-<sup>2</sup> Caduti i presupposti di esenzione, la tassa deve essere pagata su i diritti di partecipazione ancora esistenti.[^6-15]
+<sup>2</sup> Caduti i presupposti di esenzione, la tassa deve essere pagata su i diritti di partecipazione ancora esistenti.[^6-17]
 
 [^6-1]: Introdotta dal n. I della LF del 4 ott. 1991, in vigore dal 1° apr. 1993 ([RU 1993 222](https://fedlex.data.admin.ch/eli/oc/1993/222_222_222); [FF 1991 IV 425](https://fedlex.data.admin.ch/eli/fga/1991/4_521_505_425)434).
-[^6-2]: Nuovo testo giusta il n. II 1 della L del 23 mar. 2007 sulla riforma II dell’imposizione delle imprese, in vigore dal 1 gen. 2009 ([RU 2008 2893](https://fedlex.data.admin.ch/eli/oc/2008/397); [FF 2005 4241](https://fedlex.data.admin.ch/eli/fga/2005/737)).
-[^6-3]: Nuovo testo giusta il n. II 9 della LF del 20 mar. 2009 sulla Riforma delle ferrovie 2, in vigore dal 1° gen. 2010 ([RU 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); [FF 2005 2183](https://fedlex.data.admin.ch/eli/fga/2005/325), [2007 2457](https://fedlex.data.admin.ch/eli/fga/2007/425)).
-[^6-4]: Abrogata dal n. I della LF del 4 ott. 1991, con effetto dal 1° apr. 1993 ([RU 1993 222](https://fedlex.data.admin.ch/eli/oc/1993/222_222_222); [FF 1991 IV 425](https://fedlex.data.admin.ch/eli/fga/1991/4_521_505_425)434).
-[^6-5]: Introdotta dall’art. 24 della LF del 20 dic. 1985 sulla costituzione di riserve di crisi beneficianti di sgravi fiscali ([RU 1988 1420](https://fedlex.data.admin.ch/eli/oc/1988/1420_1420_1420); [FF 1984 I 908](https://fedlex.data.admin.ch/eli/fga/1984/1_1129_1147_908)). Abrogata dal n. II della LF del 28 set. 2018, con effetto dal 1° gen. 2019 ([RU 2019 433](https://fedlex.data.admin.ch/eli/oc/2019/76); [FF 2018 1951](https://fedlex.data.admin.ch/eli/fga/2018/890)).
-[^6-6]: Introdotta dall’art. 7 n. 1 disp. fin. tit. XXVI CO ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Nuovo testo giusta l’all. n. II 7 della LF del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^6-7]: Introdotta dal n. I della LF del 24 mar. 1995 ([RU 1995 4259](https://fedlex.data.admin.ch/eli/oc/1995/4259_4259_4259); [FF 1995 I 65](https://fedlex.data.admin.ch/eli/fga/1995/1_89_85_65)). Nuovo testo giusta il n. I della LF del 18 mar. 2005, in vigore dal 1° gen. 2006 ([RU 2005 3577](https://fedlex.data.admin.ch/eli/oc/2005/520); [FF 2004 4329](https://fedlex.data.admin.ch/eli/fga/2004/878)).
-[^6-8]: Introdotta dall’all. n. II 4 della L del 23 giu. 2006 sugli investimenti collettivi, in vigore dal 1° gen. 2007 ([RU 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822); [FF 2005 5701](https://fedlex.data.admin.ch/eli/fga/2005/1000)).
-[^6-9]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
-[^6-10]: Introdotta dal n. II 1 della L del 23 mar. 2007 sulla riforma II dell’imposizione delle imprese, in vigore dal 1 gen. 2009 ([RU 2008 2893](https://fedlex.data.admin.ch/eli/oc/2008/397); [FF 2005 4241](https://fedlex.data.admin.ch/eli/fga/2005/737)).
-[^6-11]: Introdotta dal n. II 1 della L del 23 mar. 2007 sulla riforma II dell’imposizione delle imprese, in vigore dal 1 gen. 2009 ([RU 2008 2893](https://fedlex.data.admin.ch/eli/oc/2008/397); [FF 2005 4241](https://fedlex.data.admin.ch/eli/fga/2005/737)).
-[^6-12]: Introdotta dall’all. n. 2 della LF del 30 set. 2011 (Rafforzamento della stabilità nel settore finanziario) ([RU 2012 811](https://fedlex.data.admin.ch/eli/oc/2012/126); [FF 2011 4211](https://fedlex.data.admin.ch/eli/fga/2011/762)). Nuovo testo giusta l’all. n. 4 della LF del 17 dic. 2021 (Insolvenza e garanzia dei depositi), in vigore dal 1° gen. 2023 ([RU 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 5647](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
-[^6-13]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^6-14]: Introdotta dal n. II della LF del 18 mar. 2016 ([RU 2016 3451](https://fedlex.data.admin.ch/eli/oc/2016/583); [FF 2015 5795](https://fedlex.data.admin.ch/eli/fga/2015/1692)). Abrogata dall’all. n. 4 della LF del 17 dic. 2021 (Insolvenza e garanzia dei depositi), con effetto dal 1° gen. 2023 ([RU 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 5647](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
-[^6-15]: Mod. introdotta dalla Commissione di redazione dell’AF (art. 33 LRC; [RU 1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)).
+[^6-2]: Introdotta dall’all. n. 3 della LF del 17 mar. 2023 concernente l’impiego di mezzi elettronici per l’adempimento dei compiti delle autorità, in vigore dal 1° gen. 2024 ([RU 2023 682](https://fedlex.data.admin.ch/eli/oc/2023/682); [FF 2022 804](https://fedlex.data.admin.ch/eli/fga/2022/804)).
+[^6-3]: [RS 172.019](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40159)
+[^6-4]: Nuovo testo giusta il n. II 1 della L del 23 mar. 2007 sulla riforma II dell’imposizione delle imprese, in vigore dal 1 gen. 2009 ([RU 2008 2893](https://fedlex.data.admin.ch/eli/oc/2008/397); [FF 2005 4241](https://fedlex.data.admin.ch/eli/fga/2005/737)).
+[^6-5]: Nuovo testo giusta il n. II 9 della LF del 20 mar. 2009 sulla Riforma delle ferrovie 2, in vigore dal 1° gen. 2010 ([RU 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); [FF 2005 2183](https://fedlex.data.admin.ch/eli/fga/2005/325), [2007 2457](https://fedlex.data.admin.ch/eli/fga/2007/425)).
+[^6-6]: Abrogata dal n. I della LF del 4 ott. 1991, con effetto dal 1° apr. 1993 ([RU 1993 222](https://fedlex.data.admin.ch/eli/oc/1993/222_222_222); [FF 1991 IV 425](https://fedlex.data.admin.ch/eli/fga/1991/4_521_505_425)434).
+[^6-7]: Introdotta dall’art. 24 della LF del 20 dic. 1985 sulla costituzione di riserve di crisi beneficianti di sgravi fiscali ([RU 1988 1420](https://fedlex.data.admin.ch/eli/oc/1988/1420_1420_1420); [FF 1984 I 908](https://fedlex.data.admin.ch/eli/fga/1984/1_1129_1147_908)). Abrogata dal n. II della LF del 28 set. 2018, con effetto dal 1° gen. 2019 ([RU 2019 433](https://fedlex.data.admin.ch/eli/oc/2019/76); [FF 2018 1951](https://fedlex.data.admin.ch/eli/fga/2018/890)).
+[^6-8]: Introdotta dall’art. 7 n. 1 disp. fin. tit. XXVI CO ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Nuovo testo giusta l’all. n. II 7 della LF del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^6-9]: Introdotta dal n. I della LF del 24 mar. 1995 ([RU 1995 4259](https://fedlex.data.admin.ch/eli/oc/1995/4259_4259_4259); [FF 1995 I 65](https://fedlex.data.admin.ch/eli/fga/1995/1_89_85_65)). Nuovo testo giusta il n. I della LF del 18 mar. 2005, in vigore dal 1° gen. 2006 ([RU 2005 3577](https://fedlex.data.admin.ch/eli/oc/2005/520); [FF 2004 4329](https://fedlex.data.admin.ch/eli/fga/2004/878)).
+[^6-10]: Introdotta dall’all. n. II 4 della L del 23 giu. 2006 sugli investimenti collettivi, in vigore dal 1° gen. 2007 ([RU 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822); [FF 2005 5701](https://fedlex.data.admin.ch/eli/fga/2005/1000)).
+[^6-11]: [RS 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
+[^6-12]: Introdotta dal n. II 1 della L del 23 mar. 2007 sulla riforma II dell’imposizione delle imprese, in vigore dal 1 gen. 2009 ([RU 2008 2893](https://fedlex.data.admin.ch/eli/oc/2008/397); [FF 2005 4241](https://fedlex.data.admin.ch/eli/fga/2005/737)).
+[^6-13]: Introdotta dal n. II 1 della L del 23 mar. 2007 sulla riforma II dell’imposizione delle imprese, in vigore dal 1 gen. 2009 ([RU 2008 2893](https://fedlex.data.admin.ch/eli/oc/2008/397); [FF 2005 4241](https://fedlex.data.admin.ch/eli/fga/2005/737)).
+[^6-14]: Introdotta dall’all. n. 2 della LF del 30 set. 2011 (Rafforzamento della stabilità nel settore finanziario) ([RU 2012 811](https://fedlex.data.admin.ch/eli/oc/2012/126); [FF 2011 4211](https://fedlex.data.admin.ch/eli/fga/2011/762)). Nuovo testo giusta l’all. n. 4 della LF del 17 dic. 2021 (Insolvenza e garanzia dei depositi), in vigore dal 1° gen. 2023 ([RU 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 5647](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
+[^6-15]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
+[^6-16]: Introdotta dal n. II della LF del 18 mar. 2016 ([RU 2016 3451](https://fedlex.data.admin.ch/eli/oc/2016/583); [FF 2015 5795](https://fedlex.data.admin.ch/eli/fga/2015/1692)). Abrogata dall’all. n. 4 della LF del 17 dic. 2021 (Insolvenza e garanzia dei depositi), con effetto dal 1° gen. 2023 ([RU 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 5647](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
+[^6-17]: Mod. introdotta dalla Commissione di redazione dell’AF (art. 33 LRC; [RU 1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)).
 
 ### II. Nascita del credito fiscale
 
@@ -288,7 +291,7 @@ La tassa è:
 [^9-3]: Abrogata dal n. I della LF del 4 ott. 1991, con effetto dal 1° apr. 1993 ([RU 1993 222](https://fedlex.data.admin.ch/eli/oc/1993/222_222_222); [FF 1991 IV 425](https://fedlex.data.admin.ch/eli/fga/1991/4_521_505_425)434).
 [^9-4]: Nuovo testo giusta l’art. 7 n. 1 disp. fin. tit. XXVI CO, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 [^9-5]: Introdotta dall’all. n. 6 della L del 3 ott. 2003 sulla fusione ([RU 2004 2617](https://fedlex.data.admin.ch/eli/oc/2004/320); [FF 2000 3765](https://fedlex.data.admin.ch/eli/fga/2000/921)). Nuovo testo giusta l’all. n. 6 della LF del 16 dic. 2005 (Diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali), in vigore dal 1° gen. 2008 ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)).
-[^9-6]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^9-6]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^9-7]: Introdotto dall’all. n. 6 della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 9a
@@ -305,7 +308,7 @@ La tassa è:
 
 <sup>2</sup> …[^10-2]
 
-<sup>3</sup> e <sup>4</sup> …[^10-3]
+<sup>3 e <sup>4</sup></sup> …[^10-3]
 
 <sup>4</sup> Per i certificati concernenti sottopartecipazioni a crediti da mutui nei confronti di debitori svizzeri l’obbligo fiscale incombe alla persona domiciliata in Svizzera che li emette.[^10-4]
 
@@ -385,20 +388,20 @@ Sono negoziatori di titoli:
 [^13-1]: Nuovo testo giusta il n. I della LF del 18 mar. 2005, in vigore dal 1° gen. 2006 ([RU 2005 3577](https://fedlex.data.admin.ch/eli/oc/2005/520); [FF 2004 4329](https://fedlex.data.admin.ch/eli/fga/2004/878)).
 [^13-2]: Nuovo testo giusta l’all. n. II 7 della LF del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^13-3]: Nuovo testo giusta l’all. n.II 4 della L del 23 giu. 2006 sugli investimenti collettivi, in vigore dal 1° gen. 2007 ([RU 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822); [FF 2005 5701](https://fedlex.data.admin.ch/eli/fga/2005/1000)).
-[^13-4]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^13-4]: [RS 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
 [^13-5]: Nuovo testo giusta il n. I della LF del 4 ott. 1991, in vigore dal 1° apr. 1993 ([RU 1993 222](https://fedlex.data.admin.ch/eli/oc/1993/222_222_222); [FF 1991 IV 425](https://fedlex.data.admin.ch/eli/fga/1991/4_521_505_425)434).
 [^13-6]: Nuovo testo giusta il’all. n. 5 della L del 19 giu. 2015 sull’infrastruttura finanziaria, in vigore dal 1° gen. 2016 ([RU 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [FF 2014 6445](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
-[^13-7]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^13-8]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^13-7]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
+[^13-8]: [RS 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
 [^13-9]: Abrogata dal n. I della LF del 18 mar. 2005, con effetto dal 1° gen. 2006 ([RU 2005 3577](https://fedlex.data.admin.ch/eli/oc/2005/520); [FF 2004 4329](https://fedlex.data.admin.ch/eli/fga/2004/878)).
 [^13-10]: Nuovo testo giusta il n. I della LF del 18 mar. 2005, in vigore dal 1° gen. 2006 ([RU 2005 3577](https://fedlex.data.admin.ch/eli/oc/2005/520); [FF 2004 4329](https://fedlex.data.admin.ch/eli/fga/2004/878)).
 [^13-11]: Introdotta dal n. I del DAF del 19 mar. 1999 concernente misure urgenti nell’ambito della tassa di negoziazione ([RU 1999 1287](https://fedlex.data.admin.ch/eli/oc/1999/171); FF **1999** 853). Abrogata dal n. I della LF del 19 mar. 2010, con effetto dal 1° lug. 2010 ([RU 2010 3317](https://fedlex.data.admin.ch/eli/oc/2010/447); [FF 2009 7617](https://fedlex.data.admin.ch/eli/fga/2009/1488)[7625](https://fedlex.data.admin.ch/eli/fga/2009/1490)).
 [^13-12]: Introdotta dal n. I della LF del 15 dic. 2000 concernente nuove misure urgenti nell’ambito della tassa di negoziazione ([RU 2000 2991](https://fedlex.data.admin.ch/eli/oc/2000/541); [FF 2000 5098](https://fedlex.data.admin.ch/eli/fga/2000/1253)). Nuovo testo giusta il n. I della LF del 18 mar. 2005, in vigore dal 1° gen. 2006 ([RU 2005 3577](https://fedlex.data.admin.ch/eli/oc/2005/520); [FF 2004 4329](https://fedlex.data.admin.ch/eli/fga/2004/878)).
 [^13-13]: Nuovo testo giusta il n. I della LF del 4 ott. 1991, in vigore dal 1° apr. 1993 ([RU 1993 222](https://fedlex.data.admin.ch/eli/oc/1993/222_222_222); [FF 1991 IV 425](https://fedlex.data.admin.ch/eli/fga/1991/4_521_505_425)434).
-[^13-14]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
-[^13-15]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^13-16]: [RS 831.425](https://fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399)
-[^13-17]: [RS 831.461.3](https://fedlex.data.admin.ch/eli/cc/1985/1778_1778_1778)
+[^13-14]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
+[^13-15]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^13-16]: [RS 831.425](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10102)
+[^13-17]: [RS 831.461.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10116)
 [^13-18]: Introdotto dal n. I della LF del 15 dic. 2000 concernente nuove misure urgenti nell’ambito della tassa di negoziazione ([RU 2000 2991](https://fedlex.data.admin.ch/eli/oc/2000/541); [FF 2000 5098](https://fedlex.data.admin.ch/eli/fga/2000/1253)). Nuovo testo giusta il n. I della LF del 18 mar. 2005, in vigore dal 1° gen. 2006 ([RU 2005 3577](https://fedlex.data.admin.ch/eli/oc/2005/520); [FF 2004 4329](https://fedlex.data.admin.ch/eli/fga/2004/878)).
 [^13-19]: Introdotto dal n. I della LF del 15 dic. 2000 concernente nuove misure urgenti nell’ambito della tassa di negoziazione ([RU 2000 2991](https://fedlex.data.admin.ch/eli/oc/2000/541); [FF 2000 5098](https://fedlex.data.admin.ch/eli/fga/2000/1253)). Nuovo testo giusta il n. I della LF del 18 mar. 2005, in vigore dal 1° gen. 2006 ([RU 2005 3577](https://fedlex.data.admin.ch/eli/oc/2005/520); [FF 2004 4329](https://fedlex.data.admin.ch/eli/fga/2004/878)).
 
@@ -426,7 +429,7 @@ Non soggiacciono alla tassa:
 <sup>3</sup> Il negoziatore professionale di titoli giusta l’articolo 13 capoverso 3 lettere a e b numero 1 è esentato dalla quota di tassa che lo concerne quando aliena titoli facenti parte del suo stock commerciale o ne acquista per aumentarlo. Si considera stock commerciale lo stock di documenti imponibili che risulta dall’attività commerciale del negoziatore professionale, non però le partecipazioni e gli stock aventi il carattere di investimento.[^14-12]
 
 [^14-1]: Nuovo testo giusta l’all. n. II 7 della LF del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^14-2]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^14-2]: [RS 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
 [^14-3]: Nuovo testo giusta l’all. n. II 7 della LF del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^14-4]: Abrogata dal n. I della LF del 4 ott. 1991, con effetto dal 1 apr. 1993 ([RU 1993 222](https://fedlex.data.admin.ch/eli/oc/1993/222_222_222); [FF 1991 IV 425](https://fedlex.data.admin.ch/eli/fga/1991/4_521_505_425)434).
 [^14-5]: Introdotta dal n. I della LF del 4 ott. 1991, in vigore dal 1° apr. 1993 ([RU 1993 222](https://fedlex.data.admin.ch/eli/oc/1993/222_222_222); [FF 1991 IV 425](https://fedlex.data.admin.ch/eli/fga/1991/4_521_505_425)434).
@@ -434,7 +437,7 @@ Non soggiacciono alla tassa:
 [^14-7]: Introdotta dal n. I della LF del 4 ott. 1991 ([RU 1993 222](https://fedlex.data.admin.ch/eli/oc/1993/222_222_222); [FF 1991 IV 425](https://fedlex.data.admin.ch/eli/fga/1991/4_521_505_425)434). Nuovo testo giusta il n. I della LF del 18 mar. 2005, in vigore dal 1° gen. 2006 ([RU 2005 3577](https://fedlex.data.admin.ch/eli/oc/2005/520); [FF 2004 4329](https://fedlex.data.admin.ch/eli/fga/2004/878)).
 [^14-8]: Introdotta dall’all. n. 6 della L del 3 ott. 2003 sulla fusione, in vigore dal 1° lug. 2004 ([RU 2004 2617](https://fedlex.data.admin.ch/eli/oc/2004/320); [FF 2000 3765](https://fedlex.data.admin.ch/eli/fga/2000/921)).
 [^14-9]: Introdotta dall’all. n. 6 della L del 3 ott. 2003 sulla fusione, in vigore dal 1° lug. 2004 ([RU 2004 2617](https://fedlex.data.admin.ch/eli/oc/2004/320); [FF 2000 3765](https://fedlex.data.admin.ch/eli/fga/2000/921)).
-[^14-10]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+[^14-10]: [RS 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
 [^14-11]: Abrogato dal n. I della LF del 4 ott. 1991, con effetto dal 1 apr. 1993 ([RU 1993 222](https://fedlex.data.admin.ch/eli/oc/1993/222_222_222); [FF 1991 IV 425](https://fedlex.data.admin.ch/eli/fga/1991/4_521_505_425)434).
 [^14-12]: Introdotta dal n. I della LF del 4 ott. 1991, in vigore dal 1° apr. 1993 ([RU 1993 222](https://fedlex.data.admin.ch/eli/oc/1993/222_222_222); [FF 1991 IV 425](https://fedlex.data.admin.ch/eli/fga/1991/4_521_505_425)434).
 
@@ -521,7 +524,7 @@ Sono considerati istituti esteri di previdenza professionale gli istituti:
 
 [^17a-1]: Introdotto dal n. I della LF del 15 dic. 2000 concernente nuove misure urgenti nell’ambito della tassa di negoziazione ([RU 2000 2991](https://fedlex.data.admin.ch/eli/oc/2000/541); [FF 2000 5098](https://fedlex.data.admin.ch/eli/fga/2000/1253)). Nuovo testo giusta il n. I della LF del 18 mar. 2005, in vigore dal 1° gen. 2006 ([RU 2005 3577](https://fedlex.data.admin.ch/eli/oc/2005/520); [FF 2004 4329](https://fedlex.data.admin.ch/eli/fga/2004/878)).
 [^17a-2]: Nuovo testo giusta l’all. n. II 4 della L del 23 giu. 2006 sugli investimenti collettivi, in vigore dal 1° gen. 2007 ([RU 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822); [FF 2005 5701](https://fedlex.data.admin.ch/eli/fga/2005/1000)).
-[^17a-3]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^17a-3]: [RS 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
 [^17a-4]: Nuovo testo giusta l’all. n. II 4 della L del 23 giu. 2006 sugli investimenti collettivi, in vigore dal 1° gen. 2007 ([RU 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822); [FF 2005 5701](https://fedlex.data.admin.ch/eli/fga/2005/1000)).
 
 #### Art. 18
@@ -545,7 +548,7 @@ Sono considerati istituti esteri di previdenza professionale gli istituti:
 <sup>2</sup> …[^19-4]
 
 [^19-1]: Nuovo testo giusta il n. I della LF del 18 mar. 2005, in vigore dal 1° gen. 2006 ([RU 2005 3577](https://fedlex.data.admin.ch/eli/oc/2005/520); [FF 2004 4329](https://fedlex.data.admin.ch/eli/fga/2004/878)).
-[^19-2]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^19-2]: [RS 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
 [^19-3]: Nuovo testo giusta l’all. n. 5 della L del 19 giu. 2015 sull’infrastruttura finanziaria, in vigore dal 1° gen. 2016 ([RU 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [FF 2014 6445](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
 [^19-4]: Abrogato dal n. I della LF del 19 mar. 2010, con effetto dal 1° lug. 2010 ([RU 2010 3317](https://fedlex.data.admin.ch/eli/oc/2010/447); [FF 2009 7617](https://fedlex.data.admin.ch/eli/fga/2009/1488)[7625](https://fedlex.data.admin.ch/eli/fga/2009/1490)).
 
@@ -598,9 +601,9 @@ Non soggiacciono alla tassa i pagamenti di premi per l’assicurazione:
 
 [^22-1]: Nuovo testo giusta il n. I 3 della LF del 10 ott. 1997 sulla riforma 1997 dell’imposizione delle imprese, in vigore dal 1° apr. 1998 ([RU 1998 669](https://fedlex.data.admin.ch/eli/oc/1998/669_669_669); [FF 1997 II 963](https://fedlex.data.admin.ch/eli/fga/1997/2_1164_1058_963)).
 [^22-2]: Introdotta dal n. I 3 della LF del 10 ott. 1997 sulla riforma 1997 dell’imposizione delle imprese, in vigore dal 1° gen. 1998 ([RU 1998 669](https://fedlex.data.admin.ch/eli/oc/1998/669_669_669); [FF 1997 II 963](https://fedlex.data.admin.ch/eli/fga/1997/2_1164_1058_963)).
-[^22-3]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^22-3]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 [^22-4]: Introdotta dal n. I 3 della LF del 10 ott. 1997 sulla riforma 1997 dell’imposizione delle imprese, in vigore dal 1° apr. 1998 ([RU 1998 669](https://fedlex.data.admin.ch/eli/oc/1998/669_669_669); [FF 1997 II 963](https://fedlex.data.admin.ch/eli/fga/1997/2_1164_1058_963)).
-[^22-5]: O del 3 dic. 1973 concernente le tasse di bollo ([RS 641.101](https://fedlex.data.admin.ch/eli/cc/1974/33_33_33)).
+[^22-5]: O del 3 dic. 1973 concernente le tasse di bollo ([RS 641.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8074)).
 
 ### II. Nascita del credito fiscale
 
@@ -698,7 +701,7 @@ L’Amministrazione federale delle contribuzioni (AFC) emana tutte le istruzioni
 <sup>4</sup> Gli organismi cui sono affidati compiti di diritto pubblico sono, nei limiti di questi compiti, tenuti a fornire informazioni come le autorità. Il capoverso 3 è applicabile per analogia.
 
 [^32-1]: Nuova espressione giusta il n. I 1 della LF del 18 giu. 2021 sulle procedure elettroniche in ambito fiscale, in vigore dal 1° gen. 2022 ([RU 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [FF 2020 4215](https://fedlex.data.admin.ch/eli/fga/2020/1111)). Di detta mod. é tenuto conto in tutto il presente testo.
-[^32-2]: [RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^32-2]: [RS 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
 [^32-3]: Nuovo testo giusta l’all. n. 51 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### II*a*. Trattamento dei dati
@@ -789,7 +792,7 @@ Il contribuente deve indicare coscienziosamente all’AFC tutti i fatti che poss
 
 <sup>5</sup> Le constatazioni fatte in occasione di un controllo secondo il capoverso 1 o 2 presso una banca o una cassa di risparmio ai sensi della legge federale dell’8 novembre 1934[^37-1] su le banche e le casse di risparmio, o presso la Banca nazionale svizzera oppure presso una centrale d’emissione di obbligazioni fondiarie possono essere utilizzate soltanto per l’applicazione delle tasse di bollo. Il segreto bancario va rispettato.
 
-[^37-1]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^37-1]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 
 ### II. Decisioni dell’AFC
 
@@ -887,7 +890,7 @@ L’AFC può esigere garanzie per le tasse, gli interessi e le spese, anche se n
 
 <sup>5</sup> …[^43-5]
 
-[^43-1]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^43-1]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 [^43-2]: Nuovo testo giusta l’all. n. 10 della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227)1307; [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^43-3]: Nuovo testo giusta l’all. n. 51 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^43-4]: Introdotto dall’all. n. 26 della LF del 4 ott. 1991([RU 1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288); [FF 1991 II 413](https://fedlex.data.admin.ch/eli/fga/1991/2_465_461_413)). Nuovo testo giusta l’all. n. 51 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
@@ -901,7 +904,7 @@ L’AFC può esigere garanzie per le tasse, gli interessi e le spese, anche se n
 
 <sup>2</sup> …[^44-2]
 
-[^44-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^44-1]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 [^44-2]: Abrogato dall’all. n. 51 della L del 17 giu. 2005 sul Tribunale amministrativo federale, con effetto dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ## Capo sesto: Disposizioni penali
@@ -918,9 +921,9 @@ L’AFC può esigere garanzie per le tasse, gli interessi e le spese, anche se n
 
 <sup>1</sup> Chiunque, intenzionalmente o per negligenza, al fine di procacciare un profitto a sé o a un terzo, sottrae le tasse di bollo alla Confederazione od ottiene in altro modo, per sé o per un terzo, un profitto fiscale illecito, è, in quanto non si applichi l’articolo 14 della legge federale del 22 marzo 1974[^45-1] sul diritto penale amministrativo, punito a titolo di sottrazione d’imposta con la multa fino a 30 000 franchi o fino al triplo della tassa sottratta o del profitto illecito, se tale triplo supera 30 000 franchi.[^45-2]
 
-<sup>2</sup> a <sup>4</sup> …[^45-3]
+<sup>2 a <sup>4</sup></sup> …[^45-3]
 
-[^45-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^45-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 [^45-2]: Nuovo testo giusta l’all. n. 8 del DPA, in vigore dal 1° gen. 1975 ([RU 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [FF 1971 I 727](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
 [^45-3]: Abrogati dall’all. n. 8 del DPA, con effetto dal 1° gen. 1975 ([RU 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [FF 1971 I 727](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
 
@@ -941,10 +944,10 @@ Chiunque, intenzionalmente o per negligenza, compromette la riscossione legale d
 
 <sup>2</sup> È riservata l’azione penale conformemente all’articolo 285 del Codice penale svizzero[^46-4], quando trattasi di un’infrazione nel senso del capoverso 1 lettera e.
 
-[^46-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^46-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 [^46-2]: Nuovo testo dell’ultimo comma giusta l’all. n. 8 del DPA, in vigore dal 1° gen. 1975 ([RU 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [FF 1971 I 727](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
 [^46-3]: Nuovo testo giusta l’all. n. 8 del DPA, in vigore dal 1° gen. 1975 ([RU 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [FF 1971 I 727](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
-[^46-4]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^46-4]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### III. Inosservanza di prescrizioni d’ordine
 
@@ -978,7 +981,7 @@ chiunque contravviene a una prescrizione della presente legge o di un’ordinanz
 
 <sup>2</sup> …[^50-3]
 
-[^50-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^50-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 [^50-2]: Nuovo testo giusta l’all. n. 8 del DPA, in vigore dal 1° gen. 1975 ([RU 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [FF 1971 I 727](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
 [^50-3]: Abrogato dal n. I della LF del 5 ott. 1984, con effetto dal 1° gen. 1986 ([RU 1985 1963](https://fedlex.data.admin.ch/eli/oc/1985/1963_1963_1963); [FF 1981 III 677](https://fedlex.data.admin.ch/eli/fga/1981/3_737_705_677)).
 

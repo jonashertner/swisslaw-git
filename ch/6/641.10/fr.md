@@ -4,11 +4,11 @@ title: Loi fédérale du 27 juin 1973 sur les droits de timbre (LT)
 short: LT
 eli: "https://fedlex.data.admin.ch/eli/cc/1974/11_11_11"
 language: fr
-version: 2023-01-01
+version: 2024-01-01
 adopted: 1973-06-27
 in_force: 1974-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1974/11_11_11/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-1974-11_11_11-20230101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1974/11_11_11/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-1974-11_11_11-20240101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/20230101/fr"
 
 (LT)
 
-du 27 juin 1973 (Etat le 1<sup>er</sup> janvier 2023)
+du 27 juin 1973 (État le 1<sup>er</sup> janvier 2024)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -25,7 +25,7 @@ vu les art. 132, al. 1, et 134 de la Constitution[^ingress-1],[^ingress-2] vu le
 
 arrête:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: Nouvelle teneur selon le ch. I de la LF du 29 sept. 2017, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 705](https://fedlex.data.admin.ch/eli/oc/2018/84); [FF 2017 1395](https://fedlex.data.admin.ch/eli/fga/2017/281)).
 [^ingress-3]: [FF 1972 II 1275](https://fedlex.data.admin.ch/eli/fga/1972/2_1278_1275_1068)
 
@@ -47,7 +47,7 @@ La Confédération perçoit des droits de timbre:
   - 2\. parts sociales de sociétés à responsabilité limitée et de sociétés coopératives,
   - 2<sup>bis</sup>.[^1-2] bons de participation et bons de participation sociale de banques coopératives,
   - 3\. bons de jouissance,
-  - [tab] 4. et 5.[^1-3] ...
+  - [tab] 4. et 5.[^1-3] …
 
 - b.[^1-4]
 
@@ -71,9 +71,9 @@ La Confédération perçoit des droits de timbre:
 [^1-4]: Nouvelle teneur selon le ch. I de la LF du 4 oct. 1991, en vigueur depuis le 1<sup>er</sup> avr. 1993 ([RO 1993 222](https://fedlex.data.admin.ch/eli/oc/1993/222_222_222); [FF 1991 IV 481](https://fedlex.data.admin.ch/eli/fga/1991/4__481_)505).
 [^1-5]: Nouvelle teneur selon l’annexe ch. II 7 de la LF du 15 juin 2018 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^1-6]: Nouvelle teneur selon l’annexe ch. II 4 de la LF du 23 juin 2006 sur les placements collectifs, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822); [FF 2005 5993](https://fedlex.data.admin.ch/eli/fga/2005/1000)).
-[^1-7]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^1-7]: [RS 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
 
-### II. ...
+### II. …
 
 #### Art. 2
 
@@ -89,7 +89,7 @@ La Confédération perçoit des droits de timbre:
 
 <sup>2</sup> Sont également exonérés des droits de timbre les documents en usage dans le transport des bagages, animaux et marchandises par les Chemins de fer fédéraux et les entreprises de transports auxquelles la Confédération a accordé une concession.[^3-2]
 
-[^3-1]: [RS **3** 521; [RO 1948 473](https://fedlex.data.admin.ch/eli/oc/1948/485_473_421)art. 86, [1955 893](https://fedlex.data.admin.ch/eli/oc/1955/871_893_899)art. 118, [1959 931](https://fedlex.data.admin.ch/eli/oc/1959/902_931_921), [1969 757](https://fedlex.data.admin.ch/eli/oc/1969/737_757_755)art. 80 let. b [787](https://fedlex.data.admin.ch/eli/oc/1969/767_787_784), [1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237)ch. II 3 [862](https://fedlex.data.admin.ch/eli/oc/1977/862_862_862)art. 52 ch. 2 [1323](https://fedlex.data.admin.ch/eli/oc/1977/1323_1323_1323)ch. III, [1978 688](https://fedlex.data.admin.ch/eli/oc/1978/688_688_688)art. 88 ch. 3 [1450](https://fedlex.data.admin.ch/eli/oc/1978/1450_1450_1450), [1979 42](https://fedlex.data.admin.ch/eli/oc/1979/42_42_42), [1980 31](https://fedlex.data.admin.ch/eli/oc/1980/31_31_31)ch. IV [1718](https://fedlex.data.admin.ch/eli/oc/1980/1718_1718_1718)art. 52 ch. 2 [1819](https://fedlex.data.admin.ch/eli/oc/1980/1819_1819_1819)art. 12 al. 1, [1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)annexe ch. 13, [1983 1886](https://fedlex.data.admin.ch/eli/oc/1983/1886_1886_1886)art. 36 ch. 1, [1986 926](https://fedlex.data.admin.ch/eli/oc/1986/926_926_926)art. 59 ch. 1, [1987 226](https://fedlex.data.admin.ch/eli/oc/1987/226_226_226)ch. II 1 [1665](https://fedlex.data.admin.ch/eli/oc/1987/1665_1665_1665)ch. II, [1988 1776](https://fedlex.data.admin.ch/eli/oc/1988/1776_1776_1776)annexe ch. II 1, [1989 504](https://fedlex.data.admin.ch/eli/oc/1989/504_504_504)art. 33 let. a, [1990 938](https://fedlex.data.admin.ch/eli/oc/1990/938_938_938)ch. III al. 5, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288), [1993 274](https://fedlex.data.admin.ch/eli/oc/1993/274_274_274)art. 75 ch. 1 [1945](https://fedlex.data.admin.ch/eli/oc/1993/1945_1945_1945)annexe ch. 1, [1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227)annexe ch. 3 [4093](https://fedlex.data.admin.ch/eli/oc/1995/4093_4093_4093)annexe ch. 4, [1996 508](https://fedlex.data.admin.ch/eli/oc/1996/508_508_508)art. 36 [750](https://fedlex.data.admin.ch/eli/oc/1996/750_750_750)art. 17 [1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445)annexe ch. 2 [1498](https://fedlex.data.admin.ch/eli/oc/1996/1498_1498_1498)annexe ch. 2, [1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155)annexe ch. 6 [2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)app. ch. 5, [1998 2847](https://fedlex.data.admin.ch/eli/oc/1998/2847_2847_2847)annexe ch. 3 [3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)annexe ch. 2, [1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149)annexe ch. 1 [3071](https://fedlex.data.admin.ch/eli/oc/1999/472)ch. I 2, [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)annexe ch. 6 [416](https://fedlex.data.admin.ch/eli/oc/2000/92)ch. I 2 [505](https://fedlex.data.admin.ch/eli/oc/2000/95)ch. I 1 [2355](https://fedlex.data.admin.ch/eli/oc/2000/374)annexe ch. 1 [2719](https://fedlex.data.admin.ch/eli/oc/2000/453), [2001 114](https://fedlex.data.admin.ch/eli/oc/2001/21)ch. I 4 [894](https://fedlex.data.admin.ch/eli/oc/2001/123)art. 40 ch. 3 [1029](https://fedlex.data.admin.ch/eli/oc/2001/150)art. 11 al. 2, [2002 863](https://fedlex.data.admin.ch/eli/oc/2002/153)art. 35 [1904](https://fedlex.data.admin.ch/eli/oc/2002/283)art. 36 ch. 1 [2767](https://fedlex.data.admin.ch/eli/oc/2002/408)ch. II [3988](https://fedlex.data.admin.ch/eli/oc/2002/639)annexe ch. 1, [2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314)annexe ch. 7 [3543](https://fedlex.data.admin.ch/eli/oc/2003/510)annexe ch. II 4 let. a [4557](https://fedlex.data.admin.ch/eli/oc/2003/674)annexe ch. II 1, [2004 1985](https://fedlex.data.admin.ch/eli/oc/2004/221)annexe ch. II 1 [4719](https://fedlex.data.admin.ch/eli/oc/2004/723)annexe ch. II 1, [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)annexe ch. 7, [2006 2003](https://fedlex.data.admin.ch/eli/oc/2006/310)ch. III. [RO 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218)art. 131 al. 1]. Voir actuellement la LF du 17 juin 2005 sur le TF ([RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)).
+[^3-1]: [[RS 3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6193)521; [RO 1948 473](https://fedlex.data.admin.ch/eli/oc/1948/485_473_421)art. 86, [1955 893](https://fedlex.data.admin.ch/eli/oc/1955/871_893_899)art. 118, [1959 931](https://fedlex.data.admin.ch/eli/oc/1959/902_931_921), [1969 757](https://fedlex.data.admin.ch/eli/oc/1969/737_757_755)art. 80 let. b [787](https://fedlex.data.admin.ch/eli/oc/1969/767_787_784), [1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237)ch. II 3 [862](https://fedlex.data.admin.ch/eli/oc/1977/862_862_862)art. 52 ch. 2 [1323](https://fedlex.data.admin.ch/eli/oc/1977/1323_1323_1323)ch. III, [1978 688](https://fedlex.data.admin.ch/eli/oc/1978/688_688_688)art. 88 ch. 3 [1450](https://fedlex.data.admin.ch/eli/oc/1978/1450_1450_1450), [1979 42](https://fedlex.data.admin.ch/eli/oc/1979/42_42_42), [1980 31](https://fedlex.data.admin.ch/eli/oc/1980/31_31_31)ch. IV [1718](https://fedlex.data.admin.ch/eli/oc/1980/1718_1718_1718)art. 52 ch. 2 [1819](https://fedlex.data.admin.ch/eli/oc/1980/1819_1819_1819)art. 12 al. 1, [1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)annexe ch. 13, [1983 1886](https://fedlex.data.admin.ch/eli/oc/1983/1886_1886_1886)art. 36 ch. 1, [1986 926](https://fedlex.data.admin.ch/eli/oc/1986/926_926_926)art. 59 ch. 1, [1987 226](https://fedlex.data.admin.ch/eli/oc/1987/226_226_226)ch. II 1 [1665](https://fedlex.data.admin.ch/eli/oc/1987/1665_1665_1665)ch. II, [1988 1776](https://fedlex.data.admin.ch/eli/oc/1988/1776_1776_1776)annexe ch. II 1, [1989 504](https://fedlex.data.admin.ch/eli/oc/1989/504_504_504)art. 33 let. a, [1990 938](https://fedlex.data.admin.ch/eli/oc/1990/938_938_938)ch. III al. 5, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288), [1993 274](https://fedlex.data.admin.ch/eli/oc/1993/274_274_274)art. 75 ch. 1 [1945](https://fedlex.data.admin.ch/eli/oc/1993/1945_1945_1945)annexe ch. 1, [1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227)annexe ch. 3 [4093](https://fedlex.data.admin.ch/eli/oc/1995/4093_4093_4093)annexe ch. 4, [1996 508](https://fedlex.data.admin.ch/eli/oc/1996/508_508_508)art. 36 [750](https://fedlex.data.admin.ch/eli/oc/1996/750_750_750)art. 17 [1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445)annexe ch. 2 [1498](https://fedlex.data.admin.ch/eli/oc/1996/1498_1498_1498)annexe ch. 2, [1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155)annexe ch. 6 [2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)app. ch. 5, [1998 2847](https://fedlex.data.admin.ch/eli/oc/1998/2847_2847_2847)annexe ch. 3 [3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)annexe ch. 2, [1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149)annexe ch. 1 [3071](https://fedlex.data.admin.ch/eli/oc/1999/472)ch. I 2, [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)annexe ch. 6 [416](https://fedlex.data.admin.ch/eli/oc/2000/92)ch. I 2 [505](https://fedlex.data.admin.ch/eli/oc/2000/95)ch. I 1 [2355](https://fedlex.data.admin.ch/eli/oc/2000/374)annexe ch. 1 [2719](https://fedlex.data.admin.ch/eli/oc/2000/453), [2001 114](https://fedlex.data.admin.ch/eli/oc/2001/21)ch. I 4 [894](https://fedlex.data.admin.ch/eli/oc/2001/123)art. 40 ch. 3 [1029](https://fedlex.data.admin.ch/eli/oc/2001/150)art. 11 al. 2, [2002 863](https://fedlex.data.admin.ch/eli/oc/2002/153)art. 35 [1904](https://fedlex.data.admin.ch/eli/oc/2002/283)art. 36 ch. 1 [2767](https://fedlex.data.admin.ch/eli/oc/2002/408)ch. II [3988](https://fedlex.data.admin.ch/eli/oc/2002/639)annexe ch. 1, [2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314)annexe ch. 7 [3543](https://fedlex.data.admin.ch/eli/oc/2003/510)annexe ch. II 4 let. a [4557](https://fedlex.data.admin.ch/eli/oc/2003/674)annexe ch. II 1, [2004 1985](https://fedlex.data.admin.ch/eli/oc/2004/221)annexe ch. II 1 [4719](https://fedlex.data.admin.ch/eli/oc/2004/723)annexe ch. II 1, [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)annexe ch. 7, [2006 2003](https://fedlex.data.admin.ch/eli/oc/2006/310)ch. III. [RO 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218)art. 131 al. 1]. Voir actuellement la LF du 17 juin 2005 sur le TF ([RS 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)).
 [^3-2]: Introduit par le ch. I de la LF du 8 oct. 1999, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 2000 322](https://fedlex.data.admin.ch/eli/oc/2000/62); [FF 1999 7145](https://fedlex.data.admin.ch/eli/fga/1999/1_7922_7145_6784)).
 
 ### IV. Définitions
@@ -112,9 +112,9 @@ Sont assimilés à des obligations:
 
 <sup>5</sup> Sont des papiers monétaires les obligations qui ont une durée fixe et ne dépassent pas douze mois.[^4-6]
 
-[^4-1]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^4-1]: [RS 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
 [^4-2]: Nouvelle teneur selon l’annexe ch. II 4 de la LF du 23 juin 2006 sur les placements collectifs, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822); [FF 2005 5993](https://fedlex.data.admin.ch/eli/fga/2005/1000)).
-[^4-3]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^4-3]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^4-4]: Introduit par le ch. I de la LF du 4 oct. 1991, en vigueur depuis le 1<sup>er</sup> avr. 1993 ([RO 1993 222](https://fedlex.data.admin.ch/eli/oc/1993/222_222_222); [FF 1991 IV 481](https://fedlex.data.admin.ch/eli/fga/1991/4__481_)505).
 [^4-5]: Introduit par le ch. I de la LF du 4 oct. 1991, en vigueur depuis le 1<sup>er</sup> avr. 1993 ([RO 1993 222](https://fedlex.data.admin.ch/eli/oc/1993/222_222_222); [FF 1991 IV 481](https://fedlex.data.admin.ch/eli/fga/1991/4__481_)505).
 [^4-6]: Introduit par le ch. I de la LF du 4 oct. 1991, en vigueur depuis le 1<sup>er</sup> avr. 1993 ([RO 1993 222](https://fedlex.data.admin.ch/eli/oc/1993/222_222_222); [FF 1991 IV 481](https://fedlex.data.admin.ch/eli/fga/1991/4__481_)505).
@@ -143,7 +143,7 @@ Le droit d’émission a pour objet:
   - – [^5-2] de bons de participation de sociétés suisses ou d’entreprises commerciales suisses ayant un statut de droit public,
   - – [^5-3] de bons de participation sociale de banques coopératives;
 
-- b.[^5-4] <sup>...</sup>
+- b.[^5-4] <sup>…</sup>
 
 <sup>2</sup>
 
@@ -151,7 +151,7 @@ Sont assimilés à la création de droits de participation, au sens de l’al. 1
 
 - a. les versements supplémentaires que les actionnaires ou les associés font à la société sans contre-prestation correspondante et sans que soit augmenté le capital social inscrit au registre du commerce ou le montant versé sur les parts sociales de la société coopérative;
 - b<sup>.</sup>[^5-5] le transfert de la majorité des actions ou des parts sociales d’une société suisse qui est économiquement liquidée ou dont les actifs ont été rendus liquides;
-- c.[^5-6] ...
+- c.[^5-6] …
 
 [^5-1]: Nouvelle teneur selon le ch. I de la LF du 4 oct. 1991, en vigueur depuis le 1<sup>er</sup> avr. 1993 ([RO 1993 222](https://fedlex.data.admin.ch/eli/oc/1993/222_222_222); [FF 1991 IV 481](https://fedlex.data.admin.ch/eli/fga/1991/4__481_)505).
 [^5-2]: Introduit par l’art. 7 ch. 1 disp. fin. tit. XXVI CO, en vigueur depuis le 1<sup>er</sup> juil. 1992 ([RO 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 757](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
@@ -180,42 +180,45 @@ Ne sont pas soumis au droit d’émission:
   - – le solde de la fortune, après remboursement du capital social versé, est affecté à des buts semblables, en cas de dissolution de la société;
 
 - [tab] a<sup>bis</sup>.[^6-1] les droits de participation créés ou augmentés conformément à des décisions de fusion ou de concentration équivalant économiquement à des fusions, de transformation et de scission de sociétés anonymes, sociétés en commandite par actions, sociétés à responsabilité limitée ou sociétés coopératives;
-- b.[^6-2] la création de droits de participation à des sociétés coopératives ou l’augmentation de leur valeur nominale, aussi longtemps que les prestations des associés, au sens de l’art. 5, n’excèdent pas un million de francs au total;
-- c.[^6-3] les droits de participation à des entreprises de transports, créés ou augmentés en faveur des pouvoirs publics en raison de leurs contributions d’investissement;
+- [tab] a<sup>ter</sup>.[^6-2]la création ou l’augmentation de la valeur nominale de droits de participation dans des sociétés détenues exclusivement par les pouvoirs publics et poursuivant un but de service public au sens de l’art. 1 de la loi fédérale du 17 mars 2023 sur l’utilisation des moyens électroniques pour l’exécution des tâches des autorités[^6-3] ainsi que toute opération visant à créer des droits de participation dans de telles sociétés;
+- b.[^6-4] la création de droits de participation à des sociétés coopératives ou l’augmentation de leur valeur nominale, aussi longtemps que les prestations des associés, au sens de l’art. 5, n’excèdent pas un million de francs au total;
+- c.[^6-5] les droits de participation à des entreprises de transports, créés ou augmentés en faveur des pouvoirs publics en raison de leurs contributions d’investissement;
 - d. les droits de participation qui sont créés ou augmentés au moyen de précédents agios et versements des actionnaires ou associés, pour autant que la société prouve qu’elle a payé le droit d’émission sur ces agios et versements;
-- e.[^6-4] ...
-- f.[^6-5] ...
-- g.[^6-6] les droits de participation qui sont créés ou augmentés au moyen d’un capital-participation ou d’un capital de participation sociale d’une banque coopérative, pour autant que la société ou la coopérative prouve qu’elle a payé le droit d’émission sur ce capital-participation ou ce capital de participation sociale;
-- h.[^6-7] les droits de participation émis à titre onéreux lors de la fondation ou de l’augmentation du capital d’une société anonyme, d’une société en commandite par actions ou d’une société à responsabilité limitée, sous réserve que les versements des actionnaires ne dépassent pas en tout la somme de un million de francs;
-- i.[^6-8] la création de parts de placements collectifs au sens de la LPCC[^6-9];
-- j.[^6-10] les droits de participation créés ou augmentés pour reprendre une exploitation ou une partie d’exploitation d’une société anonyme, d’une société en commandite par actions, d’une société à responsabilité limitée ou d’une société coopérative pour autant que, selon le bilan du dernier exercice annuel, la moitié du capital et des réserves légales de cette société ou de cette coopérative ne soit plus couverte;
-- k.[^6-11]
+- e.[^6-6] …
+- f.[^6-7] …
+- g.[^6-8] les droits de participation qui sont créés ou augmentés au moyen d’un capital-participation ou d’un capital de participation sociale d’une banque coopérative, pour autant que la société ou la coopérative prouve qu’elle a payé le droit d’émission sur ce capital-participation ou ce capital de participation sociale;
+- h.[^6-9] les droits de participation émis à titre onéreux lors de la fondation ou de l’augmentation du capital d’une société anonyme, d’une société en commandite par actions ou d’une société à responsabilité limitée, sous réserve que les versements des actionnaires ne dépassent pas en tout la somme de un million de francs;
+- i.[^6-10] la création de parts de placements collectifs au sens de la LPCC[^6-11];
+- j.[^6-12] les droits de participation créés ou augmentés pour reprendre une exploitation ou une partie d’exploitation d’une société anonyme, d’une société en commandite par actions, d’une société à responsabilité limitée ou d’une société coopérative pour autant que, selon le bilan du dernier exercice annuel, la moitié du capital et des réserves légales de cette société ou de cette coopérative ne soit plus couverte;
+- k.[^6-13]
 
   la création de droits de participation ou l’augmentation de leur valeur nominale, en cas d’assainissement ouvert, jusqu’à concurrence de leur montant avant l’assainissement ainsi que les versements supplémentaires des actionnaires ou des associés en cas d’assainissement tacite, pour autant que:
 
   - – les pertes existantes soient éliminées, et que
   - – les prestations des actionnaires ou des associés ne dépassent pas 10 millions de francs au total;
 
-- l.[^6-12] les droits de participation à des banques ou à des sociétés affiliées à des groupes financiers qui sont créés ou augmentés au moyen du capital convertible selon l’art. 13, al. 1, ou 30*b*, al. 7, let. b, de la loi du 8 novembre 1934 sur les banques[^6-13] approuvé par l’Autorité fédérale de surveillance des marchés financiers pour répondre aux exigences réglementaires;
-- m.[^6-14] ...
+- l.[^6-14] les droits de participation à des banques ou à des sociétés affiliées à des groupes financiers qui sont créés ou augmentés au moyen du capital convertible selon l’art. 13, al. 1, ou 30*b*, al. 7, let. b, de la loi du 8 novembre 1934 sur les banques[^6-15] approuvé par l’Autorité fédérale de surveillance des marchés financiers pour répondre aux exigences réglementaires;
+- m.[^6-16] …
 
-<sup>2</sup> Si les conditions de l’exonération ne sont plus remplies, le droit doit être payé sur les droits de participation existant encore.[^6-15]
+<sup>2</sup> Si les conditions de l’exonération ne sont plus remplies, le droit doit être payé sur les droits de participation existant encore.[^6-17]
 
-[^6-1]: Introduit par le ch. I de la LF du 4 oct. 1991, en vigueur depuis le 1<sup>er</sup> avr. 1993 ([RO 1993 222](https://fedlex.data.admin.ch/eli/oc/1993/222_222_222); [FF 1991 IV 481](https://fedlex.data.admin.ch/eli/fga/1991/4__481_)505).
-[^6-2]: Nouvelle teneur selon le ch. II 1 de la LF du 23 mars 2007 sur la réforme de l’imposition des entreprises II, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 2893](https://fedlex.data.admin.ch/eli/oc/2008/397); [FF 2005 4469](https://fedlex.data.admin.ch/eli/fga/2005/737)).
-[^6-3]: Nouvelle teneur selon le ch. II 9 de la LF du 20 mars 2009 sur la réforme des chemins de fer 2, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); [FF 2005 2269](https://fedlex.data.admin.ch/eli/fga/2005/325), [2007 2517](https://fedlex.data.admin.ch/eli/fga/2007/425)).
-[^6-4]: Abrogée par le ch. I de la LF du 4 oct. 1991, avec effet au 1<sup>er</sup> avr. 1993 ([RO 1993 222](https://fedlex.data.admin.ch/eli/oc/1993/222_222_222); [FF 1991 IV 481](https://fedlex.data.admin.ch/eli/fga/1991/4__481_)505).
-[^6-5]: Introduite par l’art. 24 de la LF du 20 déc. 1985 sur la constitution de réserves de crise bénéficiant d’allégements fiscaux ([RO 1988 1420](https://fedlex.data.admin.ch/eli/oc/1988/1420_1420_1420); [FF 1984 I 1147](https://fedlex.data.admin.ch/eli/fga/1984/1_1129_1147_908)). Abrogée par le ch. II de la LF du 28 sept. 2018, avec effet au 1<sup>er</sup> janv. 2019 ([RO 2019 433](https://fedlex.data.admin.ch/eli/oc/2019/76); [FF 2018 2379](https://fedlex.data.admin.ch/eli/fga/2018/890)).
-[^6-6]: Introduite par l’art. 7 ch. 1 disp. fin. tit. XXVI CO ([RO 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 757](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Nouvelle teneur selon l’annexe ch. II 7 de la LF du 15 juin 2018 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^6-7]: Introduite par le ch. I de la LF du 24 mars 1995 ([RO 1995 4259](https://fedlex.data.admin.ch/eli/oc/1995/4259_4259_4259); [FF 1995 I 85](https://fedlex.data.admin.ch/eli/fga/1995/1_89_85_65)). Nouvelle teneur selon le ch. I de la LF du 18 mars 2005, en vigueur depuis le 1<sup>er</sup> janv. 2006 ([RO 2005 3577](https://fedlex.data.admin.ch/eli/oc/2005/520); [FF 2004 4591](https://fedlex.data.admin.ch/eli/fga/2004/878)).
-[^6-8]: Introduite par l’annexe ch. II 4 de la LF du 23 juin 2006 sur les placements collectifs, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822); [FF 2005 5993](https://fedlex.data.admin.ch/eli/fga/2005/1000)).
-[^6-9]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
-[^6-10]: Introduite par le ch. II 1 de la LF du 23 mars 2007 sur la réforme de l’imposition des entreprises II, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 2893](https://fedlex.data.admin.ch/eli/oc/2008/397); [FF 2005 4469](https://fedlex.data.admin.ch/eli/fga/2005/737)).
-[^6-11]: Introduite par le ch. II 1 de la LF du 23 mars 2007 sur la réforme de l’imposition des entreprises II, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 2893](https://fedlex.data.admin.ch/eli/oc/2008/397); [FF 2005 4469](https://fedlex.data.admin.ch/eli/fga/2005/737)).
-[^6-12]: Introduite par l’annexe ch. 2 de la LF du 30 sept. 2011 (Renforcement de la stabilité dans le secteur financier) ([RO 2012 811](https://fedlex.data.admin.ch/eli/oc/2012/126); [FF 2011 4365](https://fedlex.data.admin.ch/eli/fga/2011/762)). Nouvelle teneur selon l’annexe ch. 4 de la LF du 17 déc. 2021 (Insolvabilité et garantie des dépôts), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 6151](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
-[^6-13]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^6-14]: Introduite par le ch. II de la LF du 18 mars 2016 ([RO 2016 3451](https://fedlex.data.admin.ch/eli/oc/2016/583); [FF 2015 6469](https://fedlex.data.admin.ch/eli/fga/2015/1692)). Abrogée par l’annexe ch. 4 de la LF du 17 déc. 2021 (Insolvabilité et garantie des dépôts), avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 6151](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
-[^6-15]: Rectification selon l’art. 33, al. 1, LREC ([RO 1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)): la CdR de l’Ass. féd. a biffé la partie de la phrase «ou sur les parts de fonds de placement».
+[^6-1]: Introduite par le ch. I de la LF du 4 oct. 1991, en vigueur depuis le 1<sup>er</sup> avr. 1993 ([RO 1993 222](https://fedlex.data.admin.ch/eli/oc/1993/222_222_222); [FF 1991 IV 481](https://fedlex.data.admin.ch/eli/fga/1991/4__481_)505).
+[^6-2]: Introduite par l’annexe ch. 3 de la LF du 17 mars 2023 sur l’utilisation de moyens électroniques pour l’exécution des tâches des autorités, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 682](https://fedlex.data.admin.ch/eli/oc/2023/682); [FF 2022 804](https://fedlex.data.admin.ch/eli/fga/2022/804)).
+[^6-3]: [RS 172.019](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40159)
+[^6-4]: Nouvelle teneur selon le ch. II 1 de la LF du 23 mars 2007 sur la réforme de l’imposition des entreprises II, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 2893](https://fedlex.data.admin.ch/eli/oc/2008/397); [FF 2005 4469](https://fedlex.data.admin.ch/eli/fga/2005/737)).
+[^6-5]: Nouvelle teneur selon le ch. II 9 de la LF du 20 mars 2009 sur la réforme des chemins de fer 2, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); [FF 2005 2269](https://fedlex.data.admin.ch/eli/fga/2005/325), [2007 2517](https://fedlex.data.admin.ch/eli/fga/2007/425)).
+[^6-6]: Abrogée par le ch. I de la LF du 4 oct. 1991, avec effet au 1<sup>er</sup> avr. 1993 ([RO 1993 222](https://fedlex.data.admin.ch/eli/oc/1993/222_222_222); [FF 1991 IV 481](https://fedlex.data.admin.ch/eli/fga/1991/4__481_)505).
+[^6-7]: Introduite par l’art. 24 de la LF du 20 déc. 1985 sur la constitution de réserves de crise bénéficiant d’allégements fiscaux ([RO 1988 1420](https://fedlex.data.admin.ch/eli/oc/1988/1420_1420_1420); [FF 1984 I 1147](https://fedlex.data.admin.ch/eli/fga/1984/1_1129_1147_908)). Abrogée par le ch. II de la LF du 28 sept. 2018, avec effet au 1<sup>er</sup> janv. 2019 ([RO 2019 433](https://fedlex.data.admin.ch/eli/oc/2019/76); [FF 2018 2379](https://fedlex.data.admin.ch/eli/fga/2018/890)).
+[^6-8]: Introduite par l’art. 7 ch. 1 disp. fin. tit. XXVI CO ([RO 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 757](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Nouvelle teneur selon l’annexe ch. II 7 de la LF du 15 juin 2018 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^6-9]: Introduite par le ch. I de la LF du 24 mars 1995 ([RO 1995 4259](https://fedlex.data.admin.ch/eli/oc/1995/4259_4259_4259); [FF 1995 I 85](https://fedlex.data.admin.ch/eli/fga/1995/1_89_85_65)). Nouvelle teneur selon le ch. I de la LF du 18 mars 2005, en vigueur depuis le 1<sup>er</sup> janv. 2006 ([RO 2005 3577](https://fedlex.data.admin.ch/eli/oc/2005/520); [FF 2004 4591](https://fedlex.data.admin.ch/eli/fga/2004/878)).
+[^6-10]: Introduite par l’annexe ch. II 4 de la LF du 23 juin 2006 sur les placements collectifs, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822); [FF 2005 5993](https://fedlex.data.admin.ch/eli/fga/2005/1000)).
+[^6-11]: [RS 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
+[^6-12]: Introduite par le ch. II 1 de la LF du 23 mars 2007 sur la réforme de l’imposition des entreprises II, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 2893](https://fedlex.data.admin.ch/eli/oc/2008/397); [FF 2005 4469](https://fedlex.data.admin.ch/eli/fga/2005/737)).
+[^6-13]: Introduite par le ch. II 1 de la LF du 23 mars 2007 sur la réforme de l’imposition des entreprises II, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 2893](https://fedlex.data.admin.ch/eli/oc/2008/397); [FF 2005 4469](https://fedlex.data.admin.ch/eli/fga/2005/737)).
+[^6-14]: Introduite par l’annexe ch. 2 de la LF du 30 sept. 2011 (Renforcement de la stabilité dans le secteur financier) ([RO 2012 811](https://fedlex.data.admin.ch/eli/oc/2012/126); [FF 2011 4365](https://fedlex.data.admin.ch/eli/fga/2011/762)). Nouvelle teneur selon l’annexe ch. 4 de la LF du 17 déc. 2021 (Insolvabilité et garantie des dépôts), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 6151](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
+[^6-15]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
+[^6-16]: Introduite par le ch. II de la LF du 18 mars 2016 ([RO 2016 3451](https://fedlex.data.admin.ch/eli/oc/2016/583); [FF 2015 6469](https://fedlex.data.admin.ch/eli/fga/2015/1692)). Abrogée par l’annexe ch. 4 de la LF du 17 déc. 2021 (Insolvabilité et garantie des dépôts), avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 6151](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
+[^6-17]: Rectification selon l’art. 33, al. 1, LREC ([RO 1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)): la CdR de l’Ass. féd. a biffé la partie de la phrase «ou sur les parts de fonds de placement».
 
 ### II. Naissance de la créance fiscale
 
@@ -227,19 +230,19 @@ La créance fiscale prend naissance:
 
 - a.[^7-1] pour les actions, les bons de participation, les parts sociales de sociétés à responsabilité limitée et les bons de participation sociale de banques coopératives: lors de l’inscription au registre du commerce de la création ou de l’augmentation des droits de participation;
 - [tab] a<sup>bis</sup>.[^7-2] pour les droits de participation créés sous forme d’augmentation conditionnelle: lors de leur émission;
-- b.[^7-3] ...
+- b.[^7-3] …
 - c. pour les parts sociales de sociétés coopératives: lors de leur création ou de leur majoration;
 - d. pour les bons de jouissance: lors de leur émission ou de leur majoration;
 - e. pour les versements supplémentaires et pour le transfert de la majorité des droits de participation: lors du versement ou du transfert;
 - f.[^7-4] pour les droits de participation émis dans le cadre d’une marge de fluctuation du capital au sens des art. 653*s* ss du code des obligations[^7-5], à l’échéance de la marge de fluctuation du capital.
 
-<sup>2</sup> ...[^7-6]
+<sup>2</sup> …[^7-6]
 
 [^7-1]: Nouvelle teneur selon l’annexe ch. II 7 de la LF du 15 juin 2018 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^7-2]: Introduite par l’art. 7 ch. 1 disp. fin. tit. XXVI CO, en vigueur depuis le 1<sup>er</sup> juil. 1992 ([RO 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 757](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 [^7-3]: Abrogée par le ch. I 3 de la LF du 10 oct. 1997 sur la réforme 1997 de l’imposition des sociétés, avec effet au 1<sup>er</sup> avr. 1998 ([RO 1998 669](https://fedlex.data.admin.ch/eli/oc/1998/669_669_669); [FF 1997 II 1058](https://fedlex.data.admin.ch/eli/fga/1997/2_1164_1058_963)).
 [^7-4]: Introduite par le ch. I de la LF du 4 oct. 1991 ([RO 1993 222](https://fedlex.data.admin.ch/eli/oc/1993/222_222_222); [FF 1991 IV 481](https://fedlex.data.admin.ch/eli/fga/1991/4__481_)505) . Nouvelle teneur selon l’annexe ch. 6 de la LF du 19 juin 2020 (Droit de la société anonyme), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 353](https://fedlex.data.admin.ch/eli/fga/2017/112)).
-[^7-5]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^7-5]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^7-6]: Abrogé par le ch. I de la LF du 4 oct. 1991, avec effet au 1<sup>er</sup> avr. 1993 ([RO 1993 222](https://fedlex.data.admin.ch/eli/oc/1993/222_222_222); [FF 1991 IV 481](https://fedlex.data.admin.ch/eli/fga/1991/4__481_)505).
 
 ### III. Taux et base de calcul du droit
@@ -256,7 +259,7 @@ Le droit d’émission sur les droits de participation s’élève à 1 pour cen
 - b. pour les versements supplémentaires: sur le montant du versement;
 - c. pour le transfert de la majorité des droits de participation: sur la fortune nette de la société lors du transfert, mais au moins sur la valeur nominale de tous les droits de participation existants.
 
-<sup>2</sup> ...[^8-3]
+<sup>2</sup> …[^8-3]
 
 <sup>3</sup> Les choses et les droits doivent être estimés à leur valeur vénale au moment de l’apport.
 
@@ -272,9 +275,9 @@ Le droit d’émission sur les droits de participation s’élève à 1 pour cen
 
 Le droit d’émission s’élève:
 
-- a.[^9-1] ...
-- b.[^9-2] ...
-- c.[^9-3] ...
+- a.[^9-1] …
+- b.[^9-2] …
+- c.[^9-3] …
 - d.[^9-4] sur les bons de jouissance émis gratuitement: à 3 francs par bon de jouissance;
 - e.[^9-5] sur les droits de participation créés ou augmentés conformément à des décisions de fusion, scission ou transformation d’entreprises individuelles, sociétés commerciales sans personnalité juridique, associations, fondations ou entreprises de droit public, dans la mesure où le sujet concerné existait depuis au moins cinq ans: à 1 % de la valeur nominale, sous réserve des exceptions de l’art. 6, al. 1, let. h; la plus-value fait l’objet d’un décompte ultérieur dans la mesure, où au cours des cinq années qui suivent la restructuration, les droits de participation sont aliénés.
 
@@ -287,7 +290,7 @@ Le droit d’émission s’élève:
 [^9-3]: Abrogée par le ch. I de la LF du 4 oct. 1991, avec effet au 1<sup>er</sup> avr. 1993 ([RO 1993 222](https://fedlex.data.admin.ch/eli/oc/1993/222_222_222); [FF 1991 IV 481](https://fedlex.data.admin.ch/eli/fga/1991/4__481_)505).
 [^9-4]: Nouvelle teneur selon l’art. 7 ch. 1 disp. fin. tit. XXVI CO, en vigueur depuis le 1<sup>er</sup> juil. 1992 ([RO 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 757](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 [^9-5]: Introduite par l’annexe ch. 6 de la LF du 3 oct. 2003 sur la fusion ([RO 2004 2617](https://fedlex.data.admin.ch/eli/oc/2004/320); [FF 2000 3995](https://fedlex.data.admin.ch/eli/fga/2000/921)). Nouvelle teneur selon l’annexe ch. 6 de la LF du 16 déc. 2005 (Droit de la société à responsabilité limitée; adaptation des droits de la société anonyme, de la société coopérative, du registre du commerce et des raisons de commerce), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2949](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3745](https://fedlex.data.admin.ch/eli/fga/2004/680)).
-[^9-6]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^9-6]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^9-7]: Introduit par l’annexe ch. 6 de la LF du 19 juin 2020 (Droit de la société anonyme), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 353](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 9a
@@ -302,9 +305,9 @@ Le droit d’émission s’élève:
 
 <sup>1</sup> Pour les droits de participation l’obligation fiscale incombe à la société[^10-1]. En cas de transfert de la majorité des droits de participation (art. 5, al. 2, let. b), l’aliénateur est responsable solidairement.
 
-<sup>2</sup> ...[^10-2]
+<sup>2</sup> …[^10-2]
 
-<sup>3</sup> et <sup>4</sup> ...[^10-3]
+<sup>3 et <sup>4</sup></sup> …[^10-3]
 
 [^10-1]: Nouvelle teneur selon le ch. I de la LF du 4 oct. 1991, en vigueur depuis le 1<sup>er</sup> avr. 1993 ([RO 1993 222](https://fedlex.data.admin.ch/eli/oc/1993/222_222_222); [FF 1991 IV 481](https://fedlex.data.admin.ch/eli/fga/1991/4__481_)505).
 [^10-2]: Abrogé par le ch. I de la LF du 4 oct. 1991, avec effet au 1<sup>er</sup> avr. 1993 ([RO 1993 222](https://fedlex.data.admin.ch/eli/oc/1993/222_222_222); [FF 1991 IV 481](https://fedlex.data.admin.ch/eli/fga/1991/4__481_)505).
@@ -363,9 +366,9 @@ Sont des commerçants de titres:
   - 1\. à exercer pour le compte de tiers le commerce de documents imposables (commerçants), ou
   - 2\. à s’entremettre en tant que conseiller en placement ou gérant de fortune dans l’achat et la vente de documents imposables (intermédiaires);
 
-- c.[^13-9] ...
+- c.[^13-9] …
 - d.[^13-10] les sociétés anonymes, les sociétés en commandites par actions, les sociétés à responsabilité limitée et les sociétés coopératives suisses ainsi que les institutions suisses de prévoyance professionnelle et de prévoyance liée qui ne tombent pas sous le coup des let. a et b et dont l’actif se compose, d’après le dernier bilan, de plus de 10 millions de francs de documents imposables au sens de l’al. 2;
-- e.[^13-11] ...
+- e.[^13-11] …
 - f.[^13-12] la Confédération, les cantons et les communes politiques, y compris leurs établissements, pour autant que leurs comptes indiquent des documents imposables au sens de l’al. 2 d’une valeur de plus de 10 millions de francs ainsi que les institutions suisses d’assurances sociales.[^13-13]
 
 <sup>4</sup>
@@ -382,20 +385,20 @@ Sont considérées comme des institutions suisses de prévoyance professionnelle
 [^13-1]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2005, en vigueur depuis le 1<sup>er</sup> janv. 2006 ([RO 2005 3577](https://fedlex.data.admin.ch/eli/oc/2005/520); [FF 2004 4591](https://fedlex.data.admin.ch/eli/fga/2004/878)).
 [^13-2]: Nouvelle teneur selon l’annexe ch. II 7 de la LF du 15 juin 2018 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^13-3]: Nouvelle teneur selon l’annexe ch. II 4 de la LF du 23 juin 2006 sur les placements collectifs, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822); [FF 2005 5993](https://fedlex.data.admin.ch/eli/fga/2005/1000)).
-[^13-4]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^13-4]: [RS 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
 [^13-5]: Nouvelle teneur selon le ch. I de la LF du 4 oct. 1991, en vigueur depuis le 1<sup>er</sup> avr. 1993 ([RO 1993 222](https://fedlex.data.admin.ch/eli/oc/1993/222_222_222); [FF 1991 IV 481](https://fedlex.data.admin.ch/eli/fga/1991/4__481_)505).
 [^13-6]: Nouvelle teneur selon l’annexe ch. 5 de la L du 19 juin 2015 sur l’infrastructure des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [FF 2014 7235](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
-[^13-7]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^13-8]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^13-7]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
+[^13-8]: [RS 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
 [^13-9]: Abrogée par le ch. I de la LF du 18 mars 2005, avec effet au 1<sup>er</sup> janv. 2006 ([RO 2005 3577](https://fedlex.data.admin.ch/eli/oc/2005/520); [FF 2004 4591](https://fedlex.data.admin.ch/eli/fga/2004/878)).
 [^13-10]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2005, en vigueur depuis le 1<sup>er</sup> janv. 2006 ([RO 2005 3577](https://fedlex.data.admin.ch/eli/oc/2005/520); [FF 2004 4591](https://fedlex.data.admin.ch/eli/fga/2004/878)).
 [^13-11]: Introduite par le ch. I de l’AF du 19 mars 1999 concernant des mesures urgentes dans le domaine du droit de timbre de négociation ([RO 1999 1287](https://fedlex.data.admin.ch/eli/oc/1999/171); FF **1999** 899). Abrogée par le ch. I de la LF du 19 mars 2010, avec effet au 1<sup>er</sup> juil. 2010 ([RO 2010 3317](https://fedlex.data.admin.ch/eli/oc/2010/447); [FF 2009 7909](https://fedlex.data.admin.ch/eli/fga/2009/1488)[7917](https://fedlex.data.admin.ch/eli/fga/2009/1490)).
 [^13-12]: Introduite par le ch. I de la LF du 15 déc. 2000 instaurant de nouvelles mesures urgentes dans le domaine du droit de timbre de négociation ([RO 2000 2991](https://fedlex.data.admin.ch/eli/oc/2000/541); [FF 2000 5415](https://fedlex.data.admin.ch/eli/fga/2000/1253)). Nouvelle teneur selon le ch. I de la LF du 18 mars 2005, en vigueur depuis le 1<sup>er</sup> janv. 2006 ([RO 2005 3577](https://fedlex.data.admin.ch/eli/oc/2005/520); [FF 2004 4591](https://fedlex.data.admin.ch/eli/fga/2004/878)).
 [^13-13]: Nouvelle teneur selon le ch. I de la LF du 4 oct. 1991, en vigueur depuis le 1<sup>er</sup> avr. 1993 ([RO 1993 222](https://fedlex.data.admin.ch/eli/oc/1993/222_222_222); [FF 1991 IV 481](https://fedlex.data.admin.ch/eli/fga/1991/4__481_)505).
-[^13-14]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
-[^13-15]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^13-16]: [RS 831.425](https://fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399)
-[^13-17]: [RS 831.461.3](https://fedlex.data.admin.ch/eli/cc/1985/1778_1778_1778)
+[^13-14]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
+[^13-15]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^13-16]: [RS 831.425](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10102)
+[^13-17]: [RS 831.461.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10116)
 [^13-18]: Introduit par le ch. I de la LF du 15 déc. 2000 instaurant de nouvelles mesures urgentes dans le domaine du droit de timbre de négociation ([RO 2000 2991](https://fedlex.data.admin.ch/eli/oc/2000/541); [FF 2000 5415](https://fedlex.data.admin.ch/eli/fga/2000/1253)). Nouvelle teneur selon le ch. I de la LF du 18 mars 2005, en vigueur depuis le 1<sup>er</sup> janv. 2006 ([RO 2005 3577](https://fedlex.data.admin.ch/eli/oc/2005/520); [FF 2004 4591](https://fedlex.data.admin.ch/eli/fga/2004/878)).
 [^13-19]: Introduit par le ch. I de la LF du 15 déc. 2000 instaurant de nouvelles mesures urgentes dans le domaine du droit de timbre de négociation ([RO 2000 2991](https://fedlex.data.admin.ch/eli/oc/2000/541); [FF 2000 5415](https://fedlex.data.admin.ch/eli/fga/2000/1253)). Nouvelle teneur selon le ch. I de la LF du 18 mars 2005, en vigueur depuis le 1<sup>er</sup> janv. 2006 ([RO 2005 3577](https://fedlex.data.admin.ch/eli/oc/2005/520); [FF 2004 4591](https://fedlex.data.admin.ch/eli/fga/2004/878)).
 
@@ -407,9 +410,9 @@ Sont considérées comme des institutions suisses de prévoyance professionnelle
 
 Ne sont pas soumis au droit de négociation:
 
-- a.[^14-1] l’émission d’actions, de parts sociales de sociétés à responsabilité limitée et de sociétés coopératives, de bons de participation sociale de banques coopérative, de bons de participation, de bons de jouissance et de parts de placements collectifs au sens de la LPCC[^14-2], d’obligations et de papiers monétaires suisses, y compris la prise ferme par une banque ou une société de participation et la répartition des titres à l’occasion de leur émission ultérieure;
+- a.[^14-1] l’émission d’actions, de parts sociales de sociétés à responsabilité limitée et de sociétés coopératives, de bons de participation sociale de banques coopératives, de bons de participation, de bons de jouissance et de parts de placements collectifs au sens de la LPCC[^14-2], d’obligations et de papiers monétaires suisses, y compris la prise ferme par une banque ou une société de participation et la répartition des titres à l’occasion de leur émission ultérieure;
 - b.[^14-3] l’apport de titres servant à la libération d’actions, de parts sociales de sociétés à responsabilité limitée et de sociétés coopératives, de bons de participation sociale de banques coopératives, de bons de participation et de parts de placements collectifs au sens de la LPCC, que ces actions, parts ou bons soient suisses ou étrangers;
-- c.[^14-4] ...
+- c.[^14-4] …
 - d. le commerce de droits de souscription;
 - e. la remise de titres en vue de leur remboursement;
 - f.[^14-5] l’émission d’obligations de débiteurs domiciliés à l’étranger libellées en monnaie étrangère (euro-obligations), ainsi que celle de droits de participation à des sociétés étrangères; seuls sont des euro-obligations les titres pour lesquels le versement d’intérêts aussi bien que le remboursement du capital interviennent en monnaie étrangère;
@@ -418,12 +421,12 @@ Ne sont pas soumis au droit de négociation:
 - i.[^14-8] le transfert de titres imposables qui, dans le cadre d’une restructuration, en particulier d’une fusion, d’une scission ou d’une transformation, est effectué par l’entreprise qui est reprise, qui se scinde ou qui se transforme au profit de la société reprenante ou transformée;
 - j.[^14-9] l’acquisition ou l’aliénation de documents imposables en cas de restructurations au sens des art. 61, al. 3, et 64, al. 1<sup>bis</sup>, de la loi fédérale du 14 décembre 1990 sur l’impôt fédéral direct[^14-10] ainsi qu’en cas de transfert de participations d’au moins 20 % du capital-actions ou du capital social d’autres sociétés à une société suisse ou étrangère du groupe.
 
-<sup>2</sup> ...[^14-11]
+<sup>2</sup> …[^14-11]
 
 <sup>3</sup> Le commerçant de titres professionnel au sens de l’art. 13, al. 3, let. a et b, ch. 1, est exempté de la partie des droits qui le concerne lorsqu’il vend des titres de son stock commercial ou qu’il en acquiert en vue d’augmenter ce stock. Est considéré comme stock commercial le stock de titres composé de documents imposables résultant de l’activité commerciale du commerçant professionnel, à l’exclusion des participations et des stocks présentant les caractéristiques d’un placement.[^14-12]
 
 [^14-1]: Nouvelle teneur selon l’annexe ch. II 7 de la LF du 15 juin 2018 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^14-2]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^14-2]: [RS 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
 [^14-3]: Nouvelle teneur selon l’annexe ch. II 7 de la LF du 15 juin 2018 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^14-4]: Abrogée par le ch. I de la LF du 4 oct. 1991, avec effet au 1<sup>er</sup> avr. 1993 ([RO 1993 222](https://fedlex.data.admin.ch/eli/oc/1993/222_222_222); [FF 1991 IV 481](https://fedlex.data.admin.ch/eli/fga/1991/4__481_)505).
 [^14-5]: Introduit par le ch. I de la LF du 4 oct. 1991, en vigueur depuis le 1<sup>er</sup> avr. 1993 ([RO 1993 222](https://fedlex.data.admin.ch/eli/oc/1993/222_222_222); [FF 1991 IV 481](https://fedlex.data.admin.ch/eli/fga/1991/4__481_)505).
@@ -431,7 +434,7 @@ Ne sont pas soumis au droit de négociation:
 [^14-7]: Introduite par le ch. I de la LF du 4 oct. 1991 ([RO 1993 222](https://fedlex.data.admin.ch/eli/oc/1993/222_222_222); [FF 1991 IV 481](https://fedlex.data.admin.ch/eli/fga/1991/4__481_)505). Nouvelle teneur selon le ch. I de la LF du 18 mars 2005, en vigueur depuis le 1<sup>er</sup> janv. 2006 ([RO 2005 3577](https://fedlex.data.admin.ch/eli/oc/2005/520); [FF 2004 4591](https://fedlex.data.admin.ch/eli/fga/2004/878)).
 [^14-8]: Introduite par l’annexe ch. 6 de la LF du 3 oct. 2003 sur la fusion, en vigueur depuis le 1<sup>er</sup> juil. 2004 ([RO 2004 2617](https://fedlex.data.admin.ch/eli/oc/2004/320); [FF 2000 3995](https://fedlex.data.admin.ch/eli/fga/2000/921)).
 [^14-9]: Introduite par l’annexe ch. 6 de la LF du 3 oct. 2003 sur la fusion, en vigueur depuis le 1<sup>er</sup> juil. 2004 ([RO 2004 2617](https://fedlex.data.admin.ch/eli/oc/2004/320); [FF 2000 3995](https://fedlex.data.admin.ch/eli/fga/2000/921)).
-[^14-10]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+[^14-10]: [RS 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
 [^14-11]: Abrogé par le ch. I de la LF du 4 oct. 1991, avec effet au 1<sup>er</sup> avr. 1993 ([RO 1993 222](https://fedlex.data.admin.ch/eli/oc/1993/222_222_222); [FF 1991 IV 481](https://fedlex.data.admin.ch/eli/fga/1991/4__481_)505).
 [^14-12]: Introduit par le ch. I de la LF du 4 oct. 1991, en vigueur depuis le 1<sup>er</sup> avr. 1993 ([RO 1993 222](https://fedlex.data.admin.ch/eli/oc/1993/222_222_222); [FF 1991 IV 481](https://fedlex.data.admin.ch/eli/fga/1991/4__481_)505).
 
@@ -483,7 +486,7 @@ Le commerçant de titres est considéré comme intermédiaire:
 - b. s’il ne fait qu’indiquer aux parties l’occasion de conclure une opération;
 - c. s’il cède les titres le jour même de leur acquisition.
 
-<sup>4</sup> ...[^17-2]
+<sup>4</sup> …[^17-2]
 
 [^17-1]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2005, en vigueur depuis le 1<sup>er</sup> janv. 2006 ([RO 2005 3577](https://fedlex.data.admin.ch/eli/oc/2005/520); [FF 2004 4591](https://fedlex.data.admin.ch/eli/fga/2004/878)).
 [^17-2]: Introduit par le ch. I de l’AF du 19 mars 1999 concernant des mesures urgentes dans le domaine du droit de timbre de négociation ([RO 1999 1287](https://fedlex.data.admin.ch/eli/oc/1999/171); FF **1999** 899). Abrogé par le ch. I de la LF du 19 mars 2010, avec effet au 1<sup>er</sup> juil. 2010 ([RO 2010 3317](https://fedlex.data.admin.ch/eli/oc/2010/447); [FF 2009 7909](https://fedlex.data.admin.ch/eli/fga/2009/1488)[7917](https://fedlex.data.admin.ch/eli/fga/2009/1490)).
@@ -517,7 +520,7 @@ Sont considérées comme des institutions étrangères de prévoyance profession
 [^17a-1]: Introduit par le ch. I de la LF du 15 déc. 2000 instaurant de nouvelles mesures urgentes dans le domaine du droit de timbre de négociation ([RO 2000 2991](https://fedlex.data.admin.ch/eli/oc/2000/541); [FF 2000 5415](https://fedlex.data.admin.ch/eli/fga/2000/1253)). Nouvelle teneur selon le ch. I de la LF du 18 mars 2005, en vigueur depuis le 1<sup>er</sup> janv. 2006 ([RO 2005 3577](https://fedlex.data.admin.ch/eli/oc/2005/520); [FF 2004 4591](https://fedlex.data.admin.ch/eli/fga/2004/878)).
 [^17a-2]: Nouvelle teneur selon l’annexe ch. II 4 de la LF du 23 juin 2006 sur les placements collectifs, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822); [FF 2005 5993](https://fedlex.data.admin.ch/eli/fga/2005/1000)).
 [^17a-3]: Nouvelle teneur selon l’annexe ch. II 4 de la LF du 23 juin 2006 sur les placements collectifs, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822); [FF 2005 5993](https://fedlex.data.admin.ch/eli/fga/2005/1000)).
-[^17a-4]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^17a-4]: [RS 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
 [^17a-5]: Nouvelle teneur selon l’annexe ch. II 4 de la LF du 23 juin 2006 sur les placements collectifs, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822); [FF 2005 5993](https://fedlex.data.admin.ch/eli/fga/2005/1000)).
 
 #### Art. 18
@@ -538,10 +541,10 @@ Sont considérées comme des institutions étrangères de prévoyance profession
 
 <sup>1</sup> Si, lors de la conclusion d’une opération sur titres, un des contractants est une banque étrangère, un agent de change étranger ou une contrepartie centrale au sens de la loi du 19 juin 2015 sur l’infrastructure des marchés financiers[^19-2], le demi-droit qui concerne ce contractant n’est pas dû.[^19-3] Il en va de même pour les titres repris ou livrés en tant que contrepartie par une bourse lors de l’exercice de produits dérivés standardisés.
 
-<sup>2</sup> ...[^19-4]
+<sup>2</sup> …[^19-4]
 
 [^19-1]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2005, en vigueur depuis le 1<sup>er</sup> janv. 2006 ([RO 2005 3577](https://fedlex.data.admin.ch/eli/oc/2005/520); [FF 2004 4591](https://fedlex.data.admin.ch/eli/fga/2004/878)).
-[^19-2]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^19-2]: [RS 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
 [^19-3]: Nouvelle teneur selon l’annexe ch. 5 de la L du 19 juin 2015 sur l’infrastructure des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [FF 2014 7235](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
 [^19-4]: Abrogé par le ch. I de la LF du 19 mars 2010, avec effet au 1<sup>er</sup> juil. 2010 ([RO 2010 3317](https://fedlex.data.admin.ch/eli/oc/2010/447); [FF 2009 7909](https://fedlex.data.admin.ch/eli/fga/2009/1488)[7917](https://fedlex.data.admin.ch/eli/fga/2009/1490)).
 
@@ -594,9 +597,9 @@ Ne sont pas soumis au droit les paiements de primes:
 
 [^22-1]: Nouvelle teneur selon le ch. I 3 de LF du 10 oct. 1997 sur la réforme 1997 de l’imposition des sociétés, en vigueur depuis le 1<sup>er</sup> avr. 1998 ([RO 1998 669](https://fedlex.data.admin.ch/eli/oc/1998/669_669_669); [FF 1997 II 1058](https://fedlex.data.admin.ch/eli/fga/1997/2_1164_1058_963)).
 [^22-2]: Introduite par le ch. I 3 de LF du 10 oct. 1997 sur la réforme 1997 de l’imposition des sociétés, en vigueur depuis le 1<sup>er</sup> avr. 1998 ([RO 1998 669](https://fedlex.data.admin.ch/eli/oc/1998/669_669_669); [FF 1997 II 1058](https://fedlex.data.admin.ch/eli/fga/1997/2_1164_1058_963)).
-[^22-3]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^22-3]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 [^22-4]: Introduite par le ch. I 3 de LF du 10 oct. 1997 sur la réforme 1997 de l’imposition des sociétés, en vigueur depuis le 1<sup>er</sup> avr. 1998 ([RO 1998 669](https://fedlex.data.admin.ch/eli/oc/1998/669_669_669); [FF 1997 II 1058](https://fedlex.data.admin.ch/eli/fga/1997/2_1164_1058_963)).
-[^22-5]: O du 3 déc. 1973 sur les droits de timbre ([RS 641.101](https://fedlex.data.admin.ch/eli/cc/1974/33_33_33)).
+[^22-5]: O du 3 déc. 1973 sur les droits de timbre ([RS 641.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8074)).
 
 ### II. Naissance de la créance fiscale
 
@@ -694,7 +697,7 @@ Pour l’exécution de la présente loi, l’Administration fédérale des contr
 <sup>4</sup> Les organisations auxquelles ont été confiées des tâches relevant de l’administration publique sont, dans les limites de ces tâches, astreintes en matière de renseignements aux mêmes obligations que les autorités. L’al. 3 est applicable par analogie.
 
 [^32-1]: Nouvelle expression selon le ch. I 1 de la LF du 18 juin 2021 sur les procédures électroniques en matière d’impôts, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [FF 2020 4579](https://fedlex.data.admin.ch/eli/fga/2020/1111)). Il a été tenu compte de cette mod. dans tout le texte.
-[^32-2]: [RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^32-2]: [RS 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
 [^32-3]: Nouvelle teneur selon l’annexe ch. 51 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### II*a*. Traitement des données
@@ -742,7 +745,7 @@ L’obligation du secret n’existe pas:
 
 <sup>2</sup> Le contribuable doit, à l’échéance du droit (art. 11, 20, 26), remettre à l’AFC, sans attendre d’y être invité, le relevé prescrit accompagné des pièces justificatives, et en même temps payer le montant du droit.
 
-<sup>3</sup> ...[^34-1]
+<sup>3</sup> …[^34-1]
 
 [^34-1]: Abrogé par le ch. II 1 de la LF du 23 mars 2007 sur la réforme de l’imposition des entreprises II, avec effet au 1<sup>er</sup> janv. 2009 ([RO 2008 2893](https://fedlex.data.admin.ch/eli/oc/2008/397); [FF 2005 4469](https://fedlex.data.admin.ch/eli/fga/2005/737)).
 
@@ -785,7 +788,7 @@ Le contribuable doit renseigner en conscience l’AFC sur tous les faits qui peu
 
 <sup>5</sup> Les constatations faites à l’occasion d’un contrôle selon l’al. 1 ou 2 auprès d’une banque ou caisse d’épargne au sens de la loi fédérale du 8 novembre 1934 sur les banques et les caisses d’épargne[^37-1], auprès de la Banque nationale suisse ou auprès d’une centrale des lettres de gage ne doivent être utilisées que pour l’application des droits de timbre. Le secret bancaire doit être respecté.
 
-[^37-1]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^37-1]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 
 ### II. Décisions de l’AFC
 
@@ -805,7 +808,7 @@ L’AFC rend toutes les décisions qui sont nécessaires pour la perception des 
 
 #### Art. 39
 
-**...[^39-1]**
+**…[^39-1]**
 
 <sup>1</sup> Les décisions de l’AFC peuvent faire l’objet d’une réclamation dans les trente jours suivant leur notification.
 
@@ -881,9 +884,9 @@ L’AFC peut demander des sûretés pour les droits, intérêts et frais, même 
 
 <sup>4</sup> Le recours contre les demandes de sûretés n’a pas d’effet suspensif.[^43-4]
 
-<sup>5</sup> ...[^43-5]
+<sup>5</sup> …[^43-5]
 
-[^43-1]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^43-1]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 [^43-2]: Nouvelle teneur selon l’annexe ch. 10 de la LF du 16 déc. 1994, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^43-3]: Nouvelle teneur selon l’annexe ch. 51 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^43-4]: Introduit par l’annexe ch. 26 de la LF du 4 oct. 1991 ([RO 1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288); [FF 1991 II 461](https://fedlex.data.admin.ch/eli/fga/1991/2_465_461_413)). Nouvelle teneur selon l’annexe ch. 51 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
@@ -895,9 +898,9 @@ L’AFC peut demander des sûretés pour les droits, intérêts et frais, même 
 
 <sup>1</sup> Les art. 66 à 69 de la loi fédérale du 20 décembre 1968 sur la procédure administrative[^44-1] sont applicables par analogie à la révision et à l’interprétation des décisions de l’AFC.
 
-<sup>2</sup> ...[^44-2]
+<sup>2</sup> …[^44-2]
 
-[^44-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^44-1]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 [^44-2]: Abrogé par l’annexe ch. 51 de la LF du 17 juin 2005 sur le TAF, avec effet au 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ## Chapitre 6 Dispositions pénales
@@ -914,9 +917,9 @@ L’AFC peut demander des sûretés pour les droits, intérêts et frais, même 
 
 <sup>1</sup> Celui qui, intentionnellement ou par négligence, à son propre avantage ou à celui d’un tiers, soustrait des droits de timbre à la Confédération ou obtient d’une autre manière, pour lui-même ou pour un tiers, un avantage fiscal illicite, encourt pour soustraction d’impôt, si la disposition pénale de l’art. 14 de la loi fédérale du 22 mars 1974 sur le droit pénal administratif[^45-1] n’est pas applicable, une amende pouvant aller jusqu’à 30 000 francs ou jusqu’au triple du droit soustrait ou de l’avantage illicite, si ce triple dépasse 30 000 francs.[^45-2]
 
-<sup>2</sup> à <sup>4</sup> ...[^45-3]
+<sup>2 à <sup>4</sup></sup> …[^45-3]
 
-[^45-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^45-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 [^45-2]: Nouvelle teneur selon l’annexe ch. 8 du DPA, en vigueur depuis le 1<sup>er</sup> janv. 1975 ([RO 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [FF 1971 I 1017](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
 [^45-3]: Abrogés par l’annexe ch. 8 du DPA, avec effet au 1<sup>er</sup> janv. 1975 ([RO 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [FF 1971 I 1017](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
 
@@ -937,10 +940,10 @@ Celui qui, intentionnellement ou par négligence, aura mis en péril la percepti
 
 <sup>2</sup> Lorsqu’il s’agit d’une infraction au sens de l’al. 1, let. e, la poursuite pénale selon l’art. 285 du code pénal suisse[^46-4] est réservée.
 
-[^46-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^46-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 [^46-2]: Nouvelle teneur de la dernière phrase selon l’annexe ch. 8 du DPA, en vigueur depuis le 1<sup>er</sup> janv. 1975 ([RO 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [FF 1971 I 1017](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
 [^46-3]: Nouvelle teneur selon l’annexe ch. 8 du DPA, en vigueur depuis le 1<sup>er</sup> janv. 1975 ([RO 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [FF 1971 I 1017](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
-[^46-4]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^46-4]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### III. Inobservation de prescriptions d’ordre
 
@@ -972,9 +975,9 @@ encourt une amende pouvant aller jusqu’à 5000 francs.
 
 <sup>1</sup> La loi fédérale du 22 mars 1974 sur le droit pénal administratif[^50-1] est applicable; l’AFC est l’autorité administrative compétente pour poursuivre et juger.[^50-2]
 
-<sup>2</sup> ...[^50-3]
+<sup>2</sup> …[^50-3]
 
-[^50-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^50-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 [^50-2]: Nouvelle teneur selon l’annexe ch. 8 du DPA, en vigueur depuis le 1<sup>er</sup> janv. 1975 ([RO 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [FF 1971 I 1017](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
 [^50-3]: Abrogé par le ch. I de la LF du 5 oct. 1984, avec effet au 1<sup>er</sup> janv. 1986 ([RO 1985 1963](https://fedlex.data.admin.ch/eli/oc/1985/1963_1963_1963); [FF 1981 III 705](https://fedlex.data.admin.ch/eli/fga/1981/3_737_705_677)).
 
@@ -992,7 +995,7 @@ encourt une amende pouvant aller jusqu’à 5000 francs.
 
 #### Art. 52
 
-...[^52-1]
+…[^52-1]
 
 [^52-1]: La mod. peut être consultée au [RO 1974 11](https://fedlex.data.admin.ch/eli/oc/1974/11_11_11).
 
@@ -1010,9 +1013,9 @@ Sont abrogées, dès l’entrée en vigueur de la présente loi:
 
 <sup>2</sup> Les dispositions qui ont cessé d’être en vigueur restent applicables, même après l’entrée en vigueur de la présente loi, aux créances qui ont pris naissance, aux faits qui se sont produits et aux rapports juridiques qui se sont formés avant cette date.
 
-[^53-1]: [RS **6** 103; [RO 1966 385](https://fedlex.data.admin.ch/eli/oc/1966/371_385_384)art. 68 ch. I]
-[^53-2]: [RS **6** 128]
-[^53-3]: [RS **6** 168; [RO 1966 385](https://fedlex.data.admin.ch/eli/oc/1966/371_385_384)art. 68 ch. II]
+[^53-1]: [[RS 6](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7743)103; [RO 1966 385](https://fedlex.data.admin.ch/eli/oc/1966/371_385_384)art. 68 ch. I]
+[^53-2]: [[RS 6](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7743)128]
+[^53-3]: [[RS 6](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7743)168; [RO 1966 385](https://fedlex.data.admin.ch/eli/oc/1966/371_385_384)art. 68 ch. II]
 
 ### IV. Exécution
 
