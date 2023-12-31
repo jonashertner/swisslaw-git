@@ -4,11 +4,11 @@ title: Verordnung vom 22. November 2017 über die Militärdienstpflicht (VMDP)
 short: VMDP
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/810"
 language: de
-version: 2023-01-23
+version: 2024-01-01
 adopted: 2017-11-22
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/810/20230123/de/xml/fedlex-data-admin-ch-eli-cc-2017-810-20230123-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/810/20230123/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/810/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2017-810-20240101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/810/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/810/20230123/de"
 
 (VMDP)
 
-vom 22. November 2017 (Stand am 23. Januar 2023)
+vom 22. November 2017 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -324,7 +324,7 @@ An der Orientierungsveranstaltung werden die Teilnehmenden insbesondere informie
 - d. die Dienstleistungsmodelle und die Kaderausbildungslaufbahnen im Zivilschutz;
 - e. die Wehrpflichtersatzabgabe;
 - f. den Ablauf der Rekrutierung und der Rekrutierungstage;
-- g. die Personensicherheitsprüfung nach der Verordnung vom 4. März 2011[^11-4] über die Personensicherheitsprüfungen (PSPV) und die Folgen beim Vorliegen von besonderen persönlichen Verhältnissen nach Artikel 33 Absatz 2.
+- g.[^11-4] die Personensicherheitsprüfung nach der Verordnung vom 8. November 2023[^11-5] über die Personensicherheitsprüfungen (VPSP) und die Folgen beim Vorliegen von besonderen persönlichen Verhältnissen nach Artikel 33 Absatz 2.
 
 <sup>4</sup>
 
@@ -339,7 +339,8 @@ An der Orientierungsveranstaltung werden von den Stellungspflichtigen die für d
 [^11-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 [^11-2]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 [^11-3]: Fassung gemäss Ziff. I der V vom 16. Okt. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
-[^11-4]: [SR 120.4](https://fedlex.data.admin.ch/eli/cc/2011/155)
+[^11-4]: Fassung gemäss Anhang 8 Ziff. II 6 der V vom 8. Nov. 2023 über die Personensicherheitsprüfungen, in Kraft seit 1. Jan. 2024 ([AS 2023 736](https://fedlex.data.admin.ch/eli/oc/2023/736)).
+[^11-5]: [SR 128.31](https://fedlex.data.admin.ch/eli/cc/2023/736)
 
 #### Art. 12
 
@@ -436,11 +437,12 @@ Für die Zuteilung von Militärdiensttauglichen auf eine Rekrutierungsfunktion d
 Eine militärdiensttaugliche Person wird provisorisch auf eine Rekrutierungsfunktion der Armee zugeteilt, wenn:
 
 - a.[^16-2] sie eine Eignungsabklärung für die Funktion als Gebirgsspezialist, Gebirgsspezialistin, Grenadier, Grenadierin, Fallschirmaufklärer, Fallschirmaufklärerin, Hundeführer, Hundeführerin oder für eine Funktion in der Militärmusik zu bestehen hat; oder
-- b. eine Personensicherheitsprüfung erforderlich ist, aber noch kein Entscheid nach Artikel 22 Absatz 1 Buchstabe a PSPV[^16-3] oder noch keine Information nach Artikel 23 Absatz 3 PSPV vorliegt.
+- b.[^16-3] eine Personensicherheitsprüfung erforderlich ist, aber noch kein Entscheid nach Artikel 24 VPSP[^16-4] oder noch keine Information nach Artikel 23 Absatz 2 PSPV vorliegt.
 
 [^16-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 [^16-2]: Fassung gemäss Ziff. I der V vom 16. Okt. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
-[^16-3]: [SR 120.4](https://fedlex.data.admin.ch/eli/cc/2011/155)
+[^16-3]: Fassung gemäss Anhang 8 Ziff. II 6 der V vom 8. Nov. 2023 über die Personensicherheitsprüfungen, in Kraft seit 1. Jan. 2024 ([AS 2023 736](https://fedlex.data.admin.ch/eli/oc/2023/736)).
+[^16-4]: [SR 128.31](https://fedlex.data.admin.ch/eli/cc/2023/736)
 
 #### Art. 17
 
@@ -517,14 +519,15 @@ Auf gemeinsames Gesuch der betroffenen Person und des zuständigen Kommandos kö
 
   - 1\.[^21-2] Die Ausbildungsdienstpflicht ist erfüllt; ausgenommen davon sind Hauptleute und Stabsoffiziere.
   - 2\. Die medizinische Tauglichkeit für die vorgesehene Funktion steht fest.
-  - 3\. Eine nach der PSPV[^21-3] notwendige Verfügung liegt rechtskräftig vor, und die Zustimmung der entscheidenden Instanz ist erteilt.
+  - 3\.[^21-3] Die entscheidende Stelle lässt nach Artikel 41 Absatz 2 des Informationssicherheitsgesetzes vom 18. Dezember 2020[^21-4] (ISG) die betroffene Person die Tätigkeit ausüben.
   - 4\. Das Einverständnis des Arbeitgebers liegt vor.
 
 <sup>2</sup> Das Kdo Ausb entscheidet über die Gesuche.
 
 [^21-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 [^21-2]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
-[^21-3]: [SR 120.4](https://fedlex.data.admin.ch/eli/cc/2011/155)
+[^21-3]: Fassung gemäss Anhang 8 Ziff. II 6 der V vom 8. Nov. 2023 über die Personensicherheitsprüfungen, in Kraft seit 1. Jan. 2024 ([AS 2023 736](https://fedlex.data.admin.ch/eli/oc/2023/736)).
+[^21-4]: [SR 128](https://fedlex.data.admin.ch/eli/cc/2022/232)
 
 ### 6. Abschnitt: Waffenloser Militärdienst
 
@@ -986,7 +989,10 @@ Das Aufgebot zu Amtsterminen erlässt:
 
 <sup>2</sup> Die Amtstermine sind nicht besoldet und werden nicht an die Ausbildungsdienstpflicht angerechnet.
 
+<sup>3</sup> Die Aufgebotenen erhalten einen Ausweis für die kostenlose Benutzung der öffentlichen Verkehrsmittel für die An- und Rückreise.[^45a-2]
+
 [^45a-1]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^45a-2]: Eingefügt durch Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 654](https://fedlex.data.admin.ch/eli/oc/2023/654)).
 
 ## 3. Kapitel: Ausbildung in der Armee
 
@@ -1651,11 +1657,12 @@ Für eine Einteilung in eine bestimmte Funktion oder eine Beförderung in einen 
   - 1\. Sie haben die für den höheren Grad erforderlichen Ausbildungsdienste nach Anhang 2 oder 4 oder die Ausbildungsdienste zur Übernahme einer neuen Funktion in demselben Grad bestanden.
   - 2\. Sie verfügen über die zur Ausübung der neuen Funktion erforderlichen mündlichen und schriftlichen Kenntnisse einer zweiten Amtssprache oder können sich als Vorgesetzter oder Vorgesetzte in den Amtssprachen der Unterstellten verständigen.
 
-- c. Es liegt eine nach der PSPV[^72-1] notwendige rechtskräftige Verfügung vor und die Zustimmung der entscheidenden Instanz ist erteilt.
+- c.[^72-1] Die entscheidende Stelle lässt nach Artikel 41 Absatz 2 ISG[^72-2] die betroffene Person die Tätigkeit ausüben.
 
 <sup>3</sup> Bei der Einteilung in eine bestimmte Funktion oder der Beförderung in einen höheren Grad sind die im Zivilleben und in der Armee erworbenen Kenntnisse der Angehörigen der Armee soweit als möglich zu berücksichtigen.
 
-[^72-1]: [SR 120.4](https://fedlex.data.admin.ch/eli/cc/2011/155)
+[^72-1]: Fassung gemäss Anhang 8 Ziff. II 6 der V vom 8. Nov. 2023 über die Personensicherheitsprüfungen, in Kraft seit 1. Jan. 2024 ([AS 2023 736](https://fedlex.data.admin.ch/eli/oc/2023/736)).
+[^72-2]: [SR 128](https://fedlex.data.admin.ch/eli/cc/2022/232)
 
 #### Art. 73
 
@@ -1743,7 +1750,7 @@ Die Gruppe Verteidigung verleiht für die Dauer des Einsatzes den zwingend erfor
 
 <sup>2</sup> Angehörige der Armee, die eine Kaderfunktion *ad interim* innehaben und ihre Ausbildungsdienste nicht innerhalb von drei Jahren abschliessen, werden durch das Kdo Ausb wieder in eine Funktion entsprechend ihrem Grad eingeteilt.
 
-[^78-1]: Eingefügt durch Ziff. I der V vom 16. Okt. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
+[^78-1]: Fassung gemäss Ziff I der V vom 16. Okt. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
 
 #### Art. 79
 
@@ -1778,17 +1785,18 @@ Zum Fachoffizier oder zur Fachoffizierin ernannt werden können Soldaten, Gefrei
 
 - a. sie aufgrund ihrer beruflichen Tätigkeit oder ihrer Praxiserfahrung, ihrer zivil abgeschlossenen Ausbildung oder ihrer zivilen Qualifikation über das nötige Spezialwissen und die erforderlichen Fachkenntnisse für die Ausübung der vorgesehenen Offiziersfunktion verfügen;
 - b. sie für die vorgesehene Funktion medizinisch tauglich sind;
-- c. eine nach der PSPV[^80-1] notwendige Verfügung rechtskräftig vorliegt und die Zustimmung der entscheidenden Instanz erteilt ist; und
+- c.[^80-1] nach Artikel 41 Absatz 2 ISG[^80-2] die entscheidende Stelle die betroffene Person die Tätigkeit ausüben lässt; und
 - d. sie sich bereit erklären, die damit verbundenen Dienste zu leisten.
 
-<sup>3</sup> Angehende Fachoffiziere oder Fachoffizierinnen der Armeeseelsorge, des Psychologisch-Pädagogischen Dienstes der Armee und des Sozialdienstes der Armee haben vor der Ernennung einen Technischen Lehrgang von höchstens 40 Tagen zu bestehen.[^80-2]
+<sup>3</sup> Angehende Fachoffiziere oder Fachoffizierinnen der Armeeseelsorge, des Psychologisch-Pädagogischen Dienstes der Armee und des Sozialdienstes der Armee haben vor der Ernennung einen Technischen Lehrgang von höchstens 40 Tagen zu bestehen.[^80-3]
 
 <sup>4</sup> Die Gruppe Verteidigung legt fest, welche Offiziersfunktionen mit einem Fachoffizier oder einer Fachoffizierin besetzt werden können.
 
 <sup>5</sup> Der für die Besetzung einer Offiziersfunktion zuständige Kommandant stellt Gesuche um Ernennung zum Fachoffizier oder zur Fachoffizierin zusammen mit dem oder der betroffenen Angehörigen der Armee an das Kdo Ausb. Dieses entscheidet über die Gesuche und nimmt allenfalls die Ernennung zum Fachoffizier oder zur Fachoffizierin vor.
 
-[^80-1]: [SR 120.4](https://fedlex.data.admin.ch/eli/cc/2011/155)
-[^80-2]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^80-1]: Fassung gemäss Anhang 8 Ziff. II 6 der V vom 8. Nov. 2023 über die Personensicherheitsprüfungen, in Kraft seit 1. Jan. 2024 ([AS 2023 736](https://fedlex.data.admin.ch/eli/oc/2023/736)).
+[^80-2]: [SR 128](https://fedlex.data.admin.ch/eli/cc/2022/232)
+[^80-3]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
 #### Art. 81
 
@@ -1876,7 +1884,7 @@ Angehörigen der Armee, deren Ausbildungsdienst nicht im öffentlichen militäri
 
 <sup>2</sup> Erfolgt nach der Zustellung der Dienstanzeige eine Anpassung des öffentlichen oder des persönlichen Aufgebots, so gilt die Information über die Anpassung als Dienstanzeige.
 
-[^86-1]: Eingefügt durch Ziff. I der V vom 16. Okt. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
+[^86-1]: Fassung gemäss Ziff. I der V vom 16. Okt. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
 
 #### Art. 87
 

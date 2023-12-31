@@ -4,11 +4,11 @@ title: "Ordinanza del 22 novembre 2017 concernente l'obbligo di prestare servizi
 short: OOPSM
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/810"
 language: it
-version: 2023-01-23
+version: 2024-01-01
 adopted: 2017-11-22
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/810/20230123/it/xml/fedlex-data-admin-ch-eli-cc-2017-810-20230123-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/810/20230123/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/810/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2017-810-20240101-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/810/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/810/20230123/it"
 
 (OOPSM)
 
-del 22 novembre 2017 (Stato 23 gennaio 2023)
+del 22 novembre 2017 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -324,7 +324,7 @@ Alla manifestazione informativa i partecipanti vengono in particolare informati 
 - d. i modelli di servizio e le carriere nell’ambito dell’istruzione dei quadri nella protezione civile;
 - e. la tassa d’esenzione dall’obbligo militare;
 - f. lo svolgimento del reclutamento e delle giornate di reclutamento;
-- g. i controlli di sicurezza relativi alle persone secondo l’ordinanza del 4 marzo 2011[^11-4] sui controlli di sicurezza relativi alle persone (OCSP) e le conseguenze in presenza di circostanze personali particolari secondo l’articolo 33 capoverso 2.
+- g.[^11-4] i controlli di sicurezza relativi alle persone secondo l’ordinanza dell’8 novembre 2023[^11-5] sui controlli di sicurezza relativi alle persone (OCSP) e le conseguenze in presenza di circostanze personali particolari secondo l’articolo 33 capoverso 2.
 
 <sup>4</sup>
 
@@ -339,7 +339,8 @@ Alla manifestazione informativa sono raccolti i dati relativi alle persone sogge
 [^11-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 [^11-2]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 [^11-3]: Nuovo testo giusta il n. I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
-[^11-4]: [RS 120.4](https://fedlex.data.admin.ch/eli/cc/2011/155)
+[^11-4]: Nuovo testo giusta l’all. 8 n. II 6 dell’O dell’8 nov. 2023 sui controlli di sicurezza relativi alle persone, in vigore dal 1° gen. 2024 ([RU 2023 736](https://fedlex.data.admin.ch/eli/oc/2023/736)).
+[^11-5]: [RS 128.31](https://fedlex.data.admin.ch/eli/cc/2023/736)
 
 #### Art. 12
 
@@ -436,11 +437,12 @@ Per l’attribuzione di persone idonee al servizio militare a una funzione di re
 Una persona idonea al servizio militare è attribuita provvisoriamente a una funzione di reclutamento dell’esercito, se:
 
 - a.[^16-2] è tenuta a superare un esame attitudinale per la funzione di specialista di montagna, di granatiere, di esploratore paracadutista, di conducente di cani o per una funzione nella musica militare; oppure
-- b. è necessario un controllo di sicurezza relativo alle persone, ma non vi è ancora alcuna decisione secondo l’articolo 22 capoverso 1 lettera a OCSP[^16-3] o alcuna informazione secondo l’articolo 23 capoverso 3 OCSP.
+- b.[^16-3] è necessario un controllo di sicurezza relativo alle persone, ma non vi è ancora alcuna decisione secondo l’articolo 24 OCSP[^16-4] o alcuna informazione secondo l’articolo 23 capoverso 2 OCSP.
 
 [^16-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 [^16-2]: Nuovo testo giusta il n. I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
-[^16-3]: [RS 120.4](https://fedlex.data.admin.ch/eli/cc/2011/155)
+[^16-3]: Nuovo testo giusta l’all. 8 n. II 6 dell’O dell’8 nov. 2023 sui controlli di sicurezza relativi alle persone, in vigore dal 1° gen. 2024 ([RU 2023 736](https://fedlex.data.admin.ch/eli/oc/2023/736)).
+[^16-4]: [RS 128.31](https://fedlex.data.admin.ch/eli/cc/2023/736)
 
 #### Art. 17
 
@@ -517,14 +519,15 @@ Su domanda congiunta della persona interessata e del comando competente, gli uff
 
   - 1\.[^21-2] ha adempiuto il totale obbligatorio di giorni di servizio d’istruzione; fanno eccezione i capitani e gli ufficiali superiori,
   - 2\. è accertata l’idoneità medica per la funzione prevista,
-  - 3\. vi è una decisione necessaria secondo l’OCSP[^21-3] passata in giudicato e l’autorità decisionale ha concesso il consenso, e
+  - 3\.[^21-3] secondo l’articolo 41 capoverso 2 della legge del 18 dicembre 2020[^21-4] sulla sicurezza delle informazioni (LSIn), il servizio decisore consente alla persona interessata di esercitare l’attività,
   - 4\. vi è il consenso del datore di lavoro.
 
 <sup>2</sup> Il Cdo Istr decide in merito alle domande.
 
 [^21-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 [^21-2]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
-[^21-3]: [RS 120.4](https://fedlex.data.admin.ch/eli/cc/2011/155)
+[^21-3]: Nuovo testo giusta l’all. 8 n. II 6 dell’O dell’8 nov. 2023 sui controlli di sicurezza relativi alle persone, in vigore dal 1° gen. 2024 ([RU 2023 736](https://fedlex.data.admin.ch/eli/oc/2023/736)).
+[^21-4]: [RS 128](https://fedlex.data.admin.ch/eli/cc/2022/232)
 
 ### Sezione 6: Servizio militare non armato
 
@@ -986,7 +989,10 @@ Le convocazioni ufficiali sono rilasciate:
 
 <sup>2</sup> Le convocazioni ufficiali non danno diritto al soldo e non vengono computate sul totale obbligatorio di giorni di servizio d’istruzione.
 
+<sup>3</sup> Le persone convocate ricevono un documento per l’utilizzo gratuito dei mezzi di trasporto pubblici per il viaggio di andata e di ritorno.[^45a-2]
+
 [^45a-1]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^45a-2]: Introdotto dal n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 654](https://fedlex.data.admin.ch/eli/oc/2023/654)).
 
 ## Capitolo 3: Istruzione nell’esercito
 
@@ -1652,11 +1658,12 @@ Per l’incorporazione in una determinata funzione o la promozione a un grado su
   - 1\. hanno compiuto i servizi d’istruzione necessari per il grado superiore di cui all’allegato 2 o 4 oppure i servizi d’istruzione per l’assunzione di una nuova funzione con lo stesso grado,
   - 2\. dispongono delle necessarie conoscenze orali e scritte di una seconda lingua ufficiale per l’esercizio della nuova funzione o, in qualità di superiore, sono in grado di comunicare nelle lingue ufficiali dei subordinati;
 
-- c. vi è una decisione necessaria secondo l’OCSP[^72-1] passata in giudicato e l’autorità decisionale ha dato il suo consenso.
+- c.[^72-1] secondo l’articolo 41 capoverso 2 LSIn[^72-2] il servizio decisore consente alla persona interessata di esercitare l’attività.
 
 <sup>3</sup> Per l’incorporazione in una determinata funzione o la promozione a un grado superiore occorre tenere conto, per quanto possibile, delle conoscenze acquisite dai militari nella vita civile e nell’esercito.
 
-[^72-1]: [RS 120.4](https://fedlex.data.admin.ch/eli/cc/2011/155)
+[^72-1]: Nuovo testo giusta l’all. 8 n. II 6 dell’O dell’8 nov. 2023 sui controlli di sicurezza relativi alle persone, in vigore dal 1° gen. 2024 ([RU 2023 736](https://fedlex.data.admin.ch/eli/oc/2023/736)).
+[^72-2]: [RS 128](https://fedlex.data.admin.ch/eli/cc/2022/232)
 
 #### Art. 73
 
@@ -1779,17 +1786,18 @@ Soldati, appuntati, sottufficiali e sottufficiali superiori possono essere nomin
 
 - a. sulla base della loro attività professionale o della loro esperienza pratica, della loro formazione civile conclusa o della loro qualificazione civile dispongono delle conoscenze specialistiche necessarie per l’esercizio della funzione di ufficiale prevista;
 - b. sono idonei dal punto di vista medico per l’esercizio della funzione prevista;
-- c. vi è una decisione necessaria secondo l’OCSP[^80-1] passata in giudicato e il consenso dell’autorità decisionale; e
+- c.[^80-1] secondo l’articolo 41 capoverso 2 LSIn[^80-2], il servizio decisore consente alla persona interessata di esercitare l’attività.
 - d. si dichiarano disposti a prestare i relativi servizi.
 
-<sup>3</sup> Prima della nomina, i futuri ufficiali specialisti dell’assistenza spirituale dell’esercito, del Servizio psicopedagogico dell’esercito e del Servizio sociale dell’esercito devono assolvere un corso di formazione tecnica di 40 giorni al massimo.[^80-2]
+<sup>3</sup> Prima della nomina, i futuri ufficiali specialisti dell’assistenza spirituale dell’esercito, del Servizio psicopedagogico dell’esercito e del Servizio sociale dell’esercito devono assolvere un corso di formazione tecnica di 40 giorni al massimo.[^80-3]
 
 <sup>4</sup> L’Aggruppamento Difesa stabilisce quali funzioni di ufficiale possono essere occupate da un ufficiale specialista.
 
 <sup>5</sup> Il comandante competente per l’occupazione di una funzione di ufficiale presenta al Cdo Istr la domanda per la nomina a ufficiale specialista unitamente al militare interessato. Il Cdo Istr decide in merito alle domande e procede, se del caso, alla nomina a ufficiale specialista.
 
-[^80-1]: [RS 120.4](https://fedlex.data.admin.ch/eli/cc/2011/155)
-[^80-2]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^80-1]: Nuovo testo giusta l’all. 8 n. II 6 dell’O dell’8 nov. 2023 sui controlli di sicurezza relativi alle persone, in vigore dal 1° gen. 2024 ([RU 2023 736](https://fedlex.data.admin.ch/eli/oc/2023/736)).
+[^80-2]: [RS 128](https://fedlex.data.admin.ch/eli/cc/2022/232)
+[^80-3]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
 #### Art. 81
 

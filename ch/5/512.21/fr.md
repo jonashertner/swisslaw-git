@@ -4,11 +4,11 @@ title: Ordonnance du 22 novembre 2017 sur les obligations militaires (OMi)
 short: OMi
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/810"
 language: fr
-version: 2023-01-23
+version: 2024-01-01
 adopted: 2017-11-22
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/810/20230123/fr/xml/fedlex-data-admin-ch-eli-cc-2017-810-20230123-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/810/20230123/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/810/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-810-20240101-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/810/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/810/20230123/fr"
 
 (OMi)
 
-du 22 novembre 2017 (État le 23 janvier 2023)
+du 22 novembre 2017 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -322,7 +322,7 @@ La séance d’information renseigne les participants notamment sur:[^11-3]
 - d. les modèles de service et les carrières de cadres au sein de la protection civile;
 - e. la taxe d’exemption de l’obligation de servir;
 - f. le déroulement du recrutement et des journées de recrutement;
-- g. les contrôles de sécurité relatifs aux personnes conformément à l’ordonnance du 4 mars 2011 sur les contrôles de sécurité relatifs aux personnes (OCSP)[^11-5] et les conséquences lors de situation personnelle particulière conformément à l’art. 33, al. 2.
+- g.[^11-5] les contrôles de sécurité relatifs aux personnes conformément à l’ordonnance du 8 novembre 2023 sur les contrôles de sécurité relatifs aux personnes (OCSP)[^11-6] et les conséquences lors de situation personnelle particulière conformément à l’art. 33, al. 2.
 
 <sup>4</sup>
 
@@ -338,7 +338,8 @@ La séance d’information sert également à collecter les données personnelle
 [^11-2]: Introduit par le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 [^11-3]: Nouvelle teneur selon le ch. I de l’O du 16 oct. 2019, en vigueur depuis le 1<sup>er</sup> déc. 2019 ([RO 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
 [^11-4]: Nouvelle teneur selon le ch. I de l’O du 16 oct. 2019, en vigueur depuis le 1<sup>er</sup> déc. 2019 ([RO 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
-[^11-5]: [RS 120.4](https://fedlex.data.admin.ch/eli/cc/2011/155)
+[^11-5]: Nouvelle teneur selon l’annexe 8 ch. II 6 de l’O du 8 nov. 2023 sur les contrôles de sécurité relatifs aux personnes, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 736](https://fedlex.data.admin.ch/eli/oc/2023/736)).
+[^11-6]: [RS 128.31](https://fedlex.data.admin.ch/eli/cc/2023/736)
 
 #### Art. 12
 
@@ -435,11 +436,12 @@ L’affectation des conscrits aptes au service militaire ou au service dans la p
 Une personne apte au service militaire est provisoirement affectée à une fonction de recrutement de l’armée si elle:
 
 - a.[^16-2] doit encore réussir un examen d’aptitude pour la fonction de spécialiste de montagne, de grenadier, d’éclaireur parachutiste, de conducteur de chiens et de membre de la musique militaire, ou qu’elle
-- b. doit avoir passé avec succès un contrôle de sécurité relatif aux personnes, mais qu’aucune décision n’a encore été rendue conformément à l’art. 22, al. 1, let. a, OCSP[^16-3], ou que l’information prévue à l’art. 23, al. 3, OCSP n’a pas encore été communiquée.
+- b.[^16-3] doit avoir passé avec succès un contrôle de sécurité relatif aux personnes, mais qu’aucune décision n’a encore été rendue conformément à l’art. 24 OCSP[^16-4], ou que l’information prévue à l’art. 23, al. 2, OCSP n’a pas encore été communiquée.
 
 [^16-1]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 [^16-2]: Nouvelle teneur selon le ch. I de l’O du 16 oct. 2019, en vigueur depuis le 1<sup>er</sup> déc. 2019 ([RO 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
-[^16-3]: [RS 120.4](https://fedlex.data.admin.ch/eli/cc/2011/155)
+[^16-3]: Nouvelle teneur selon l’annexe 8 ch. II 6 de l’O du 8 nov. 2023 sur les contrôles de sécurité relatifs aux personnes, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 736](https://fedlex.data.admin.ch/eli/oc/2023/736)).
+[^16-4]: [RS 128.31](https://fedlex.data.admin.ch/eli/cc/2023/736)
 
 #### Art. 17
 
@@ -518,14 +520,15 @@ Sur demande conjointe de la personne concernée et du commandement compétent, l
 
   - 1\.[^21-2] elle a accompli la durée totale des services d’instruction; les capitaines et les officiers supérieurs font exception à cette règle,
   - 2\. elle a passé l’examen d’aptitude médicale à la fonction,
-  - 3\. une décision exécutoire a été rendue sur la base de l’OCSP[^21-3], si nécessaire, et l’autorité décisionnelle a délivré une autorisation,
+  - 3\.[^21-3] l’instance décisionnelle laisse la personne concernée exercer l’activité conformément à l’art. 41, al. 2, de la loi du 18 décembre 2020 sur la sécurité de l’information (LSI)[^21-4],
   - 4\. l’employeur a donné son accord.
 
 <sup>2</sup> Le cdmt Instr statue sur les demandes.
 
 [^21-1]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 [^21-2]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
-[^21-3]: [RS 120.4](https://fedlex.data.admin.ch/eli/cc/2011/155)
+[^21-3]: Nouvelle teneur selon l’annexe 8 ch. II 6 de l’O du 8 nov. 2023 sur les contrôles de sécurité relatifs aux personnes, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 736](https://fedlex.data.admin.ch/eli/oc/2023/736)).
+[^21-4]: [RS 128](https://fedlex.data.admin.ch/eli/cc/2022/232)
 
 ### Section 6 Service militaire sans arme
 
@@ -993,7 +996,10 @@ La convocation officielle est émise par:
 
 <sup>2</sup> Les journées de convocations officielles ne sont ni soldées ni imputées sur la durée totale des services d’instruction.
 
+<sup>3</sup> Les personnes convoquées reçoivent une carte de légitimation leur permettant d’emprunter gratuitement les transports publics à l’aller et au retour.[^45a-2]
+
 [^45a-1]: Introduit par le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^45a-2]: Introduit par le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 654](https://fedlex.data.admin.ch/eli/oc/2023/654)).
 
 ## Chapitre 3 Instruction au sein de l’armée
 
@@ -1660,11 +1666,12 @@ Pour une incorporation dans une fonction particulière ou pour une promotion à 
   - 1\. avoir achevé les services d’instruction obligatoires pour obtenir un grade supérieur conformément à l’annexe 2 ou 4, ou les services d’instruction obligatoires pour assumer une nouvelle fonction sans changement de grade,
   - 2\. disposer des connaissances orales et écrites d’une deuxième langue officielle requises pour l’exercice de leur nouvelle fonction ou pouvoir se faire comprendre en tant que supérieur dans les langues officielles de leurs subordonnés;
 
-- c. une décision exécutoire nécessaire au sens de l’OCSP[^72-1] a été rendue et l’autorité décisionnelle a donné son autorisation.
+- c.[^72-1] l’instance décisionnelle laisse la personne concernée exercer l’activité conformément à l’art. 41, al. 2, LSI[^72-2].
 
 <sup>3</sup> Les connaissances du militaire acquises au civil et dans l’armée sont prises en compte dans la mesure du possible lors de l’incorporation dans une fonction particulière ou de la promotion à un grade supérieur.
 
-[^72-1]: [RS 120.4](https://fedlex.data.admin.ch/eli/cc/2011/155)
+[^72-1]: Nouvelle teneur selon l’annexe 8 ch. II 6 de l’O du 8 nov. 2023 sur les contrôles de sécurité relatifs aux personnes, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 736](https://fedlex.data.admin.ch/eli/oc/2023/736)).
+[^72-2]: [RS 128](https://fedlex.data.admin.ch/eli/cc/2022/232)
 
 #### Art. 73
 
@@ -1789,17 +1796,18 @@ Des soldats, appointés, sous-officiers et sous-officiers supérieurs peuvent ê
 
 - a. sur la base de leur activité professionnelle ou de leur expérience pratique, de leur formation achevée au civil ou de leurs qualifications civiles, ils disposent des connaissances spécialisées et techniques nécessaires pour exercer la fonction d’officier prévue;
 - b. ils sont médicalement aptes à exercer cette fonction;
-- c. une décision exécutoire nécessaire au sens de l’OCSP[^80-1] a été rendue et l’autorité décisionnelle a donné son autorisation, et que
+- c.[^80-1] l’instance décisionnelle laisse la personne concernée exercer l’activité conformément à l’art. 41, al. 2, LSI[^80-2];
 - d. les militaires se déclarent prêts à accomplir les services liés à la fonction.
 
-<sup>3</sup> Les futurs officiers spécialistes de l’aumônerie de l’armée, du Service psycho-pédagogique de l’armée et du service social de l’armée achèvent un stage de formation technique de 40 jours au maximum avant d’être nommés.[^80-2]
+<sup>3</sup> Les futurs officiers spécialistes de l’aumônerie de l’armée, du Service psycho-pédagogique de l’armée et du service social de l’armée achèvent un stage de formation technique de 40 jours au maximum avant d’être nommés.[^80-3]
 
 <sup>4</sup> Le Groupement Défense fixe les fonctions d’officier qui peuvent être confiées à un officier spécialiste.
 
 <sup>5</sup> Le commandant compétent pour l’attribution d’une fonction d’officier et le militaire concerné présentent ensemble au cdmt Instr la demande de nomination au grade d’officier spécialiste. Celui-ci statue sur la demande et, le cas échéant, procède à la nomination.
 
-[^80-1]: [RS 120.4](https://fedlex.data.admin.ch/eli/cc/2011/155)
-[^80-2]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^80-1]: Nouvelle teneur selon l’annexe 8 ch. II 6 de l’O du 8 nov. 2023 sur les contrôles de sécurité relatifs aux personnes, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 736](https://fedlex.data.admin.ch/eli/oc/2023/736)).
+[^80-2]: [RS 128](https://fedlex.data.admin.ch/eli/cc/2022/232)
+[^80-3]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
 #### Art. 81
 
