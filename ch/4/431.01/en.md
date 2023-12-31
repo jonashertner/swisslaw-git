@@ -4,11 +4,11 @@ title: Federal Statistics Act of 9 October 1992 (FStatA)
 short: FStatA
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080"
 language: en
-version: 2023-09-01
+version: 2024-01-01
 adopted: 1992-10-09
 in_force: 1993-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080/20230901/en/xml/fedlex-data-admin-ch-eli-cc-1993-2080_2080_2080-20230901-en-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/2080_2080_2080/20230901/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080/20240101/en/xml/fedlex-data-admin-ch-eli-cc-1993-2080_2080_2080-20240101-en-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/2080_2080_2080/20240101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (FStatA)
 
-of 9 October 1992 (Status as of 1 September 2023)
+of 9 October 1992 (Status as of 1 January 2024)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -99,15 +99,18 @@ They assist in:
 
 <sup>1</sup> Insofar as the Confederation has the necessary data available or that such data becomes available to an organisation subject to this Act in the implementation of federal law (federal administrative data), separate surveys need not be conducted by federal statistical bodies (direct surveys, indirect surveys or surveys based on observations and measurements).
 
+<sup>1bis</sup> The Confederation and the organisations in accordance with paragraph 1 shall allow the Federal Statistical Office to have online access to the data it requires for its statistical work, unless other federal legislation provides otherwise. The Federal Council shall for each specialist field regulate the extent of access and the organisations subject to this obligation.[^4-1]
+
 <sup>2</sup> In the event that the data required by federal statistical bodies on third parties are available from cantonal or communal agencies or from other entities of the public law, such data must be collected from said agencies or entities (indirect survey).
 
 <sup>3</sup> Direct surveys require the collection of new data at source by interviewing natural persons and legal entities for the sole purposes of this Act. The number and type of surveys are limited to what is strictly necessary.
 
 <sup>4</sup> In the case of surveys conducted in terms of this Act, the Confederation shall give notice of the purpose and the legal basis for processing the data, and the categories of participants in the data records and the data recipients.
 
-<sup>5</sup> The organisations, agencies and other public legal entities in terms of paragraphs 1 and 2 must make the data available to the Federal Statistical Office free of charge.[^4-1]
+<sup>5</sup> The organisations, agencies and other public legal entities in terms of paragraphs 1 and 2 must make the data available to the Federal Statistical Office free of charge.[^4-2]
 
-[^4-1]: Inserted by Art. 17 No 2 of the Census Act of 22 June 2007, in force since 1 Jan. 2008 ([AS 2007 6743](https://fedlex.data.admin.ch/eli/oc/2007/869); [BBl 2007 53](https://fedlex.data.admin.ch/eli/fga/2007/17)).
+[^4-1]: Inserted by Annex No 2 of the FA of 17 March 2023 on the Use of Electronic Means to Carry Out Official Tasks Mittel, in force since 1 Jan. 2024 ([AS 2023 682](https://fedlex.data.admin.ch/eli/oc/2023/682); [BBl 2022 804](https://fedlex.data.admin.ch/eli/fga/2022/804)).
+[^4-2]: Inserted by Art. 17 No 2 of the Census Act of 22 June 2007, in force since 1 Jan. 2008 ([AS 2007 6743](https://fedlex.data.admin.ch/eli/oc/2007/869); [BBl 2007 53](https://fedlex.data.admin.ch/eli/fga/2007/17)).
 
 ## Section 2 Power to Commission Surveys and Participation
 

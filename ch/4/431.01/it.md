@@ -4,11 +4,11 @@ title: Legge del 9 ottobre 1992 sulla statistica federale (LStat)
 short: LStat
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080"
 language: it
-version: 2023-09-01
+version: 2024-01-01
 adopted: 1992-10-09
 in_force: 1993-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080/20230901/it/xml/fedlex-data-admin-ch-eli-cc-1993-2080_2080_2080-20230901-it-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/2080_2080_2080/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080/20240101/it/xml/fedlex-data-admin-ch-eli-cc-1993-2080_2080_2080-20240101-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/2080_2080_2080/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/2080_2080_2080/20230901/it"
 
 (LStat)
 
-del 9 ottobre 1992 (Stato 1° settembre 2023)
+del 9 ottobre 1992 (Stato 1° gennaio 2024)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -97,15 +97,18 @@ Essa serve per:
 
 <sup>1</sup> Si rinuncia a rilevazioni particolari per la statistica federale (rilevazioni dirette, indirette o mediante osservazioni e misurazioni) nella misura in cui la Confederazione dispone già dei dati necessari o questi siano stati ottenuti nell’esecuzione del diritto federale da un’organizzazione sottoposta alla presente legge (dati amministrativi della Confederazione).
 
+<sup>1bis</sup> La Confederazione e le organizzazioni di cui al capoverso 1 permettono all’Ufficio federale di statistica di accedere mediante una procedura elettronica di richiamo ai dati di cui necessita per adempiere i suoi compiti statistici, sempre che altri atti normativi della Confederazione non prevedano altrimenti. Il Consiglio federale stabilisce per ogni ambito l’estensione dell’accesso e le organizzazioni tenute a fornirlo.[^4-1]
+
 <sup>2</sup> Se i dati riguardanti terzi, necessari alla statistica federale, sono disponibili presso servizi cantonali o comunali o presso altre persone giuridiche di diritto pubblico, essi devono essere rilevati presso di loro (rilevazione indiretta).
 
 <sup>3</sup> Per rilevazione diretta s’intende la raccolta di nuovi dati alla fonte mediante interrogazione di persone fisiche e giuridiche ai fini esclusivi della presente legge. Il numero e i modi d’interrogazione devono essere limitati allo stretto necessario.
 
 <sup>4</sup> La Confederazione indica, per le rilevazioni eseguite nell’ambito della presente legge, lo scopo e il fondamento giuridico, le categorie dei partecipanti alla rilevazione e i destinatari dei dati.
 
-<sup>5</sup> Le organizzazioni, i servizi o le altre persone giuridiche di diritto pubblico di cui ai capoversi 1 e 2 devono fornire gratuitamente i dati all’Ufficio federale di statistica.[^4-1]
+<sup>5</sup> Le organizzazioni, i servizi o le altre persone giuridiche di diritto pubblico di cui ai capoversi 1 e 2 devono fornire gratuitamente i dati all’Ufficio federale di statistica.[^4-2]
 
-[^4-1]: Introdotto dall’art. 17 n. 2 della LF del 22 giu. 2007 sul censimento, in vigore dal 1° gen. 2008 ([RU 2007 6743](https://fedlex.data.admin.ch/eli/oc/2007/869); [FF 2007 55](https://fedlex.data.admin.ch/eli/fga/2007/17)).
+[^4-1]: Introdotto dall’all. n. 2 della LF del 17 mar. 2023 concernente l’impiego di mezzi elettronici per l’adempimento dei compiti delle autorità, in vigore dal 1° gen. 2024 ([RU 2023 682](https://fedlex.data.admin.ch/eli/oc/2023/682); [FF 2022 804](https://fedlex.data.admin.ch/eli/fga/2022/804)).
+[^4-2]: Introdotto dall’art. 17 n. 2 della LF del 22 giu. 2007 sul censimento, in vigore dal 1° gen. 2008 ([RU 2007 6743](https://fedlex.data.admin.ch/eli/oc/2007/869); [FF 2007 55](https://fedlex.data.admin.ch/eli/fga/2007/17)).
 
 ## Sezione 2: Competenze e partecipazione
 

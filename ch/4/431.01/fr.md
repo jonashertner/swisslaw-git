@@ -4,11 +4,11 @@ title: Loi du 9 octobre 1992 sur la statistique fédérale (LSF)
 short: LSF
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080"
 language: fr
-version: 2023-09-01
+version: 2024-01-01
 adopted: 1992-10-09
 in_force: 1993-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-1993-2080_2080_2080-20230901-fr-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/2080_2080_2080/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-1993-2080_2080_2080-20240101-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/2080_2080_2080/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/2080_2080_2080/20230901/fr"
 
 (LSF)
 
-du 9 octobre 1992 (État le 1<sup>er</sup> septembre 2023)
+du 9 octobre 1992 (État le 1<sup>er</sup> janvier 2024)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -97,15 +97,18 @@ Ces informations servent à:
 
 <sup>1</sup> La Confédération renonce à organiser des relevés pour la statistique fédérale (relevés directs, relevés indirects et relevés fondés sur des observations ou sur des mesures) lorsqu’elle dispose des données requises ou qu’un organisme soumis à la présente loi les obtient en application du droit fédéral (données administratives de la Confédération).
 
+<sup>1bis</sup> La Confédération et les organismes visés à l’al. 1 permettent à l’Office fédéral de la statistique d’accéder en ligne aux données dont il a besoin pour accomplir ses tâches statistiques, dans la mesure où d’autres actes de la Confédération ne contiennent pas de dispositions contraires. Le Conseil fédéral détermine, pour chaque domaine, l’étendue de l’accès et les organismes astreints à le donner.[^4-1]
+
 <sup>2</sup> Si les données relatives à des tiers et servant à établir la statistique fédérale peuvent être fournies par les services des cantons ou des communes ou encore par d’autres personnes morales de droit public, on les relèvera dans ces services ou chez ces personnes (relevé indirect).
 
 <sup>3</sup> Est réputé relevé direct (enquête) la collecte à la source de données nouvelles, collecte effectuée en questionnant des personnes physiques ou morales, aux seules fins définies par la présente loi. On limitera au strict nécessaire le nombre des enquêtes et des modes de collecte des données.
 
 <sup>4</sup> Pour tout relevé effectué en application de la présente loi, la Confédération est tenue de préciser le but et la base juridique du traitement, les catégories de participants et celles des destinataires des données.
 
-<sup>5</sup> Les organismes, services et autres personnes morales de droit public mentionnés aux al. 1 et 2 sont tenus de mettre gratuitement leurs données à la disposition de l’Office fédéral de la statistique.[^4-1]
+<sup>5</sup> Les organismes, services et autres personnes morales de droit public mentionnés aux al. 1 et 2 sont tenus de mettre gratuitement leurs données à la disposition de l’Office fédéral de la statistique.[^4-2]
 
-[^4-1]: Introduit par l’art. 17 ch. 2 de la LF du 22 juin 2007 sur le recensement, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6743](https://fedlex.data.admin.ch/eli/oc/2007/869); [FF 2007 55](https://fedlex.data.admin.ch/eli/fga/2007/17)).
+[^4-1]: Introduit par l’annexe ch. 2 de la LF du 17 mars 2023 sur l’utilisation de moyens électroniques pour l’exécution des tâches des autorités, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 682](https://fedlex.data.admin.ch/eli/oc/2023/682); [FF 2022 804](https://fedlex.data.admin.ch/eli/fga/2022/804)).
+[^4-2]: Introduit par l’art. 17 ch. 2 de la LF du 22 juin 2007 sur le recensement, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6743](https://fedlex.data.admin.ch/eli/oc/2007/869); [FF 2007 55](https://fedlex.data.admin.ch/eli/fga/2007/17)).
 
 ## Section 2 Compétences et participation
 

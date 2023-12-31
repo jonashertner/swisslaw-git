@@ -4,11 +4,11 @@ title: Bundesstatistikgesetz vom 9. Oktober 1992 (BStatG)
 short: BStatG
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080"
 language: de
-version: 2023-09-01
+version: 2024-01-01
 adopted: 1992-10-09
 in_force: 1993-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080/20230901/de/xml/fedlex-data-admin-ch-eli-cc-1993-2080_2080_2080-20230901-de-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/2080_2080_2080/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080/20240101/de/xml/fedlex-data-admin-ch-eli-cc-1993-2080_2080_2080-20240101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/2080_2080_2080/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/2080_2080_2080/20230901/de"
 
 (BStatG)
 
-vom 9. Oktober 1992 (Stand am 1. September 2023)
+vom 9. Oktober 1992 (Stand am 1. Januar 2024)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -97,15 +97,18 @@ Sie dient:
 
 <sup>1</sup> Soweit der Bund über die notwendigen Daten verfügt oder diese bei einer dem Gesetz unterstellten Organisation durch den Vollzug von Bundesrecht anfallen (Verwaltungsdaten des Bundes), wird auf besondere Erhebungen für die Bundesstatistik (Direkterhebungen, Indirekterhebungen oder Erhebungen mittels Beobachtungen und Messungen) verzichtet.
 
+<sup>1bis</sup> Der Bund sowie die Organisationen nach Absatz 1 ermöglichen dem Bundesamt für Statistik über ein elektronisches Abrufverfahren den Zugriff auf die für seine statistischen Aufgaben erforderlichen Daten, soweit andere Erlasse des Bundes nichts Abweichendes vorsehen. Der Bundesrat regelt für jeden Sachbereich den Umfang des Zugriffs und die verpflichteten Organisationen.[^4-1]
+
 <sup>2</sup> Sind die von der Bundesstatistik über Dritte benötigten Daten bei Stellen der Kantone oder Gemeinden oder bei anderen juristischen Personen des öffentlichen Rechts verfügbar, so sind die Daten bei ihnen zu erheben (Indirekterhebung).
 
 <sup>3</sup> Als Direkterhebung gilt das Erfassen neuer Daten an der Quelle durch Befragung von natürlichen und juristischen Personen für die alleinigen Zwecke dieses Gesetzes. Die Zahl und die Art der Befragungen sind auf ein notwendiges Minimum zu beschränken.
 
 <sup>4</sup> Bei Erhebungen im Rahmen dieses Gesetzes gibt der Bund den Zweck und die Rechtsgrundlage für die Bearbeitung sowie die Kategorien der an der Datensammlung Beteiligten und die Datenempfänger bekannt.
 
-<sup>5</sup> Die Organisationen, Stellen und anderen juristischen Personen des öffentlichen Rechts nach den Absätzen 1 und 2 haben die Daten dem Bundesamt für Statistik unentgeltlich zur Verfügung zu stellen.[^4-1]
+<sup>5</sup> Die Organisationen, Stellen und anderen juristischen Personen des öffentlichen Rechts nach den Absätzen 1 und 2 haben die Daten dem Bundesamt für Statistik unentgeltlich zur Verfügung zu stellen.[^4-2]
 
-[^4-1]: Eingefügt gemäss Art. 17 Ziff. 2 des Volkszählungsgesetzes vom 22. Juni 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6743](https://fedlex.data.admin.ch/eli/oc/2007/869); [BBl 2007 53](https://fedlex.data.admin.ch/eli/fga/2007/17)).
+[^4-1]: Eingefügt gemäss Anhang Ziff. 2 des BG vom 17. März 2023 über den Einsatz elektronischer Mittel zur Erfüllung von Behördenaufgaben, in Kraft seit 1. Jan. 2024 ([AS 2023 682](https://fedlex.data.admin.ch/eli/oc/2023/682); [BBl 2022 804](https://fedlex.data.admin.ch/eli/fga/2022/804)).
+[^4-2]: Eingefügt gemäss Art. 17 Ziff. 2 des Volkszählungsgesetzes vom 22. Juni 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6743](https://fedlex.data.admin.ch/eli/oc/2007/869); [BBl 2007 53](https://fedlex.data.admin.ch/eli/fga/2007/17)).
 
 ## 2. Abschnitt: Anordnungsbefugnisse und Mitwirkung
 
