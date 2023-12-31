@@ -4,13 +4,13 @@ number: "721.111"
 title: Verordnung zum Planungs- und Baugesetz
 short: V PBG
 language: de
-version: 2019-01-01
-valid_until: 2023-12-31
-version_adopted: 2018-10-02
+version: 2024-01-01
+valid_until: 2026-01-31
+version_adopted: 2023-11-14
 adopted: 2018-11-20
 in_force: 2019-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/721.111"
-pdf: "https://bgs.zg.ch/api/de/versions/1903/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2495/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.zg.ch/api/de/versions/1903/pdf_file"
 
 (V PBG)
 
-Vom 20. November 2018 (Stand 1. Januar 2019)
+Vom 20. November 2018 (Stand 1. Januar 2024)
 
 Der Regierungsrat des Kantons Zug,
 
@@ -101,7 +101,9 @@ beschliesst:
 
 **Naturgefahren**
 
-<sup>1</sup> Mit der Baueingabe ist bei Bauvorhaben in im Zonenplan bezeichneten Gefahrenzonen nachzuweisen, mit welchen Massnahmen allfälligen Gefahren begegnet wird.
+<sup>1</sup> Mit dem Baugesuch ist bei Bauvorhaben in Gebieten, in welchen gemäss der kantonalen Gefahrenkarte eine mittlere Gefährdung besteht, nachzuweisen, mit welchen Massnahmen allfälligen Gefahren begegnet wird.
+
+<sup>2</sup> In Gebieten, in welchen gemäss der Gefahrenkarte eine erhebliche Gefährdung besteht, gilt grundsätzlich ein Bauverbot. Neue Bauten oder Anlagen können nur in Ausnahmefällen bewilligt werden. Die zuständige kantonale Fachstelle ist vorgängig zur Stellungnahme einzuladen.
 
 #### § 8
 
@@ -194,15 +196,21 @@ beschliesst:
 
 **Terrassenhaus**
 
-<sup>1</sup> Als Terrassenhäuser gelten am Hang gelegene Gebäude, deren Geschosse um mindestens 3 m horizontal versetzt sind.
+<sup>1</sup> Als Terrassenhäuser gelten am Hang gelegene Gebäude, deren Geschosse horizontal versetzt sind.
+
+<sup>2</sup> Ein Terrassenhaus darf maximal so viele horizontal versetzte Vollgeschosse aufweisen, wie in der entsprechenden Zone Vollgeschosse zugelassen sind.
+
+<sup>3</sup> Sind die Geschosse um mindestens 3 m horizontal versetzt, kann die Gemeinde einen Bonus bei der Anzahl Vollgeschosse vorsehen.
+
+<sup>4</sup> Die Gemeinden können in der Bauordnung weitergehende Vorschriften für Terrassenhäuser erlassen.
 
 #### § 18
 
 **Kleinbauten und Anbauten**
 
-<sup>1</sup> Kleinbauten sind freistehende Gebäude, enthalten nur Nebennutzflächen[^18-1].
+<sup>1</sup> Kleinbauten sind freistehende Gebäude und enthalten nur Nebennutzflächen[^18-1].
 
-<sup>2</sup> Anbauten sind mit einem anderen Gebäude zusammengebaut und enthalten nur Nebennutzflächen[^18-2].
+<sup>2</sup> Anbauten sind mit einem anderen Gebäude zusammengebaut und enthalten nur Nebennutzflächen[^18-2]. Eine Verbindungstüre zum Hauptgebäude ist nicht zulässig.
 
 <sup>3</sup> Klein- und Anbauten dürfen maximal 50 m² Grundfläche, bei Schrägdächern maximal 3,50 m traufseitige Fassadenhöhe und bei allen Dachformen maximal 5 m Gesamthöhe aufweisen.
 
@@ -261,7 +269,9 @@ beschliesst:
 
 **Untergeschosse**
 
-<sup>1</sup> Untergeschosse sind Geschosse, bei denen die Oberkante (OK) des fertigen Bodens, gemessen in der Fassadenflucht, im Mittel höchstens 1 m über die Fassadenlinie hinausragt[^23-1].
+<sup>1</sup> Untergeschosse sind Geschosse, bei denen die Oberkante (OK) des fertigen Bodens, gemessen in der Fassadenflucht, im Mittel höchstens 1,2 m über die Fassadenlinie hinausragt[^23-1].
+
+<sup>2</sup> Ein Untergeschoss zählt als Vollgeschoss, wenn seine anzurechnende Geschossfläche mehr als 60 % der darüber liegenden anzurechnenden Geschossfläche ausmacht.
 
 [^23-1]: [Mass b bei Figur 6.2 im Anhang IVHB](https://bgs.zg.ch/data/721.7-A2/de), [IVHB 6.2](https://bgs.zg.ch/data/721.7-A1/de)
 
@@ -298,7 +308,7 @@ beschliesst:
 
 **Grenzabstand**
 
-<sup>1</sup> Der Grenzabstand ist die Entfernung zwischen der projizierten Fassadenlinie und der Parzellengrenze[^26-1].
+<sup>1</sup> Der Grenzabstand ist die Entfernung zwischen der projizierten Fassadenlinie und der Grundstücksgrenze[^26-1].
 
 <sup>2</sup> Wo ein grosser Grenzabstand gilt, ist dieser senkrecht vor der Hauptwohnseite einzuhalten. Kriterien für die Bestimmung der Hauptwohnseite sind namentlich die Flächen der Hauptwohnräume und die Grösse der Fensterflächen. Untergeschosse müssen den grossen Grenzabstand nur einhalten, wenn in ihnen Wohn- oder Arbeitsnutzungen bestehen.
 
@@ -319,11 +329,12 @@ beschliesst:
 
 **Baulinien und Baubereiche**
 
-<sup>1</sup> Der Baubereich umfasst den bebaubaren Bereich, der abweichend von Abstandsvorschriften und Baulinien in einem Nutzungsplanverfahren festgelegt wird[^27-1].
+<sup>1</sup> Der Baubereich umfasst den bebaubaren Bereich, der abweichend von Abstandsvorschriften und Baulinien in einem Nutzungsplanverfahren festgelegt wird[^27-1]. Das Verfahren für den Erlass eines Baubereichs richtet sich nach dem Verfahren für den Erlass einer Baulinie nach § 39a PBG[^27-2].
 
 <sup>2</sup> Vorspringende Gebäudeteile dürfen höchstens 1,50 m in den Baulinienraum hinein- oder über den Baubereich hinausragen.
 
 [^27-1]: [IVHB 7.4](https://bgs.zg.ch/data/721.7-A1/de); die Baulinien, [IVHB 7.3](https://bgs.zg.ch/data/721.7-A1/de), sind kantonalrechtlich in [§ 34 PBG](https://bgs.zg.ch/data/721.11/de/art34) geregelt
+[^27-2]: BGS [721.11](https://bgs.zg.ch/data/721.11/de)
 
 #### § 28
 
@@ -337,7 +348,9 @@ beschliesst:
 
 **Näherbau- und Grenzbaurecht**
 
-<sup>1</sup> Die Grenzabstände dürfen – mit Ausnahme gegenüber der Nichtbauzone – unter Wahrung des Gebäudeabstands durch Vereinbarung eines Näherbau- oder Grenzbaurechts durch die betroffenen Nachbarn reduziert oder aufgehoben werden.
+<sup>1</sup> Die Grenzabstände dürfen unter Wahrung des Gebäudeabstands durch Vereinbarung eines Näherbau- oder Grenzbaurechts durch die betroffenen Nachbarn reduziert oder aufgehoben werden.
+
+<sup>1a</sup> Gegenüber den Nichtbauzonen dürfen die Grenzabstände unter Wahrung des Gebäudeabstands durch Vereinbarung eines Näherbaurechts durch die betroffenen Nachbarn reduziert, aber nicht aufgehoben werden.
 
 <sup>2</sup> In Zonen mit einer maximalen Gebäudelänge dürfen Grenzabstände:
 
@@ -393,19 +406,23 @@ beschliesst:
 
 <sup>2</sup> Sie sind für die Festlegung des massgebenden Terrains von Gebäuden relevant. Bei Strassen und Wegen mit Gefälle gilt die Höhe der Niveaulinie in der Mitte der Strassenfassade des Gebäudes. Bei Bauten und Anlagen von über 25 m Länge gelten je die Höhen der Niveaulinien im ersten und letzten Drittel der Strassenfassade des Gebäudes. Bei zusammengesetzten Gebäuden ist die Niveaulinie für jeden Gebäudeteil gesondert zu ermitteln.
 
+<sup>3</sup> Das Verfahren für den Erlass einer Niveaulinie richtet sich nach dem Verfahren für den Erlass einer Baulinie nach § 39a PBG[^32-1].
+
+[^32-1]: BGS [721.11](https://bgs.zg.ch/data/721.11/de)
+
 #### § 33
 
 **Geschosshöhe**
 
-<sup>1</sup> Die Geschosshöhe ist die Höhe von Oberkante bis Oberkante der fertigen Böden, bei einem Dachgeschoss mit gegenseitiger und einseitiger (Pultdach) Neigung, von einem Masardendach oder einem Tonnendach von Oberkante des fertigen Bodens bis zum höchsten Punkt der Dachkonstruktion.
+<sup>1</sup> Die Geschosshöhe ist die Höhe von Oberkante bis Oberkante der fertigen Böden, bei einem Dachgeschoss mit gegenseitiger und einseitiger (Pultdach) Neigung, von einem Mansardendach oder einem Tonnendach von Oberkante des fertigen Bodens bis zum höchsten Punkt der Dachkonstruktion.
 
 <sup>2</sup> Wird für eine Zone die Geschosszahl, nicht aber die Gesamthöhe oder Fassadenhöhe festgelegt, beträgt:
 
-- a) die Höhe der nicht gewerblich genutzten Vollgeschosse im Durchschnitt höchstens 3,20 m;
+- a) die Höhe der nicht gewerblich genutzten Vollgeschosse höchstens 3,20 m;
 - b) die Höhe des am tiefsten gelegenen, gewerblich genutzten Vollgeschosses höchstens 4,50 m;
-- c) die Höhe des Attikageschosses höchstens 3,70 m bzw. die Höhe des Dachgeschosses mit gegenseitiger und einseitiger (Pultdach) Neigung, mit einem Mansardendach oder einem Tonnendach höchstens 5,70 m.
+- c) die Höhe des Attikageschosses höchstens 3,70 m bzw. die Höhe des Dachgeschosses mit gegenseitiger und einseitiger (Pultdach) Neigung, mit einem Mansardendach oder einem Tonnendach höchstens 4,20 m.
 
-<sup>3</sup> Unter Einhaltung der Vorgaben von Abs. 2 sind die effektiven Geschosshöhen frei bestimmbar.
+<sup>3</sup> Unter Einhaltung der Summe der maximalen Geschosshöhen nach Abs. 2 sind die effektiven Geschosshöhen frei bestimmbar.
 
 ### 3.5. Baudichte
 
@@ -435,8 +452,10 @@ beschliesst:
 - f) Flächen von Gemeinschaftsräumen in Wohnhäusern mit mehr als drei Wohnungen;
 - g) Flächen von nicht gewerblichen Einstellräumen für Fahrzeuge, von Klein- und Anbauten;
 - h) Flächen von offenen Erdgeschosshallen und offenen überdeckten Dachterrassen;
-- i) Flächen von ein- und vorspringenden Balkonen, von verglasten Veranden, Vorbauten, Balkonen und Terrassen, sofern sie weniger als 15 % der Summe aller anrechenbaren Geschossflächen ausmachen und heiztechnische Installationen fehlen;
-- j) gewerbliche Lagerräume in Untergeschossen ohne ständige Arbeitsplätze und ohne Publikumsverkehr.
+- i) Flächen von ein- und vorspringenden Balkonen;
+- j) Flächen von verglasten Veranden, Vorbauten, Balkonen und Terrassen, sofern sie weniger als 15 % der Summe aller anrechenbaren Geschossflächen ausmachen und heiztechnische Installationen fehlen;
+- k) Flächen von innen liegenden Leitungsschächten;
+- l) gewerbliche Lagerräume in Untergeschossen ohne ständige Arbeitsplätze und ohne Publikumsverkehr.
 
 #### § 36
 
@@ -444,7 +463,7 @@ beschliesst:
 
 <sup>1</sup> Die anzurechnende Landfläche ist die vom Baugesuch erfasste, in einer Bauzone gelegene Fläche.
 
-<sup>2</sup> Nicht anzurechnen sind die Fahrbahnen und unmittelbar anstossenden Gehwege von öffentlichen Strassen und die Fahrbahnen von Radstrecken, auch als projektierte Anlagen, für deren Festlegung die Sondernutzungsplanung eingeleitet oder durchgeführt ist.
+<sup>2</sup> Nicht anzurechnen sind die Fahrbahnen und unmittelbar anstossenden Gehwege von öffentlichen Strassen und die Fahrbahnen von öffentlichen Radstrecken, auch als projektierte Anlagen, für deren Festlegung die Sondernutzungsplanung eingeleitet oder durchgeführt ist.
 
 <sup>3</sup> Benötigt das Gemeinwesen für den Bau oder Ausbau von öffentlichen Strassen, Radstrecken oder Wegen Land von der dem Baugesuch zugrunde liegenden Fläche, so kann der für diese öffentlichen Anlagen beanspruchte Teil des Baugrundstücks im Ausmass von maximal 25 % der dem Baugesuch zugrunde liegenden Fläche zur anzurechnenden Landfläche gezählt werden. Dies gilt auch für zukünftige Baugesuche sowie bei der Übernahme von Strassen und Wegen durch das Gemeinwesen, sofern eine entsprechende Vereinbarung zwischen der Bauherrschaft und der Gemeinde vorliegt.
 
@@ -475,6 +494,8 @@ beschliesst:
 
 <sup>2</sup> Hauszufahrten sind Fahr- und Gehwege, welche ausschliesslich die auf der Grundstücksfläche stehenden Gebäude erschliessen.
 
+<sup>3</sup> Benötigt das Gemeinwesen für den Bau oder Ausbau von öffentlichen Strassen, Radstrecken oder Wegen Land von der dem Baugesuch zugrunde liegenden Fläche, so kann der für diese öffentlichen Anlagen beanspruchte Teil des Baugrundstücks im Ausmass von max. 25 % der dem Baugesuch zugrunde liegenden Fläche zur anzurechnenden Grundstücksfläche gezählt werden. Dies gilt auch für zukünftige Baugesuche sowie bei der Übernahme von Strassen und Wegen durch das Gemeinwesen, sofern eine entsprechende Vereinbarung zwischen der Bauherrschaft und der Gemeinde vorliegt.
+
 [^39-1]: [IVHB 8.1](https://bgs.zg.ch/data/721.7-A1/de)
 
 #### § 40
@@ -503,15 +524,20 @@ beschliesst:
 
 **Abschliessende kantonale Regelungen und Abweichungen von den kantonalen Vorschriften**
 
-<sup>1</sup> Die Gemeinden dürfen in den nachfolgenden Bereichen keine weiteren Regelungen in ihre Bauordnungen aufnehmen:
+<sup>1</sup> Die Gemeinden dürfen – unter Vorbehalt von § 17 PBG[^42-1] und § 17 Abs. 4 V PBG sowie mit Ausnahme der in Abs. 2 aufgeführten Bestimmungen – keine weiteren Regelungen in ihre Bauordnungen aufnehmen.
 
-- a) Wohnhygiene (§ 6);
-- b) sämtliche Bereiche dieser Verordnung, soweit nachfolgend nicht ausdrücklich Abweichungen zugelassen sind.
+- a) …
+- b) …
 
-<sup>2</sup> Die Gemeinden können bei den nachfolgenden Bestimmungen dieser Verordnung in Berücksichtigung ihrer topographischen Besonderheiten in ihren Bauordnungen abweichende Vorschriften erlassen:
+<sup>2</sup> Die Gemeinden können bei den nachfolgenden Bestimmungen dieser Verordnung in ihren Bauordnungen abweichende Vorschriften erlassen:
 
 - a) Terrainveränderungen ohne Stützmauern (§ 12);
-- b) Terrainveränderungen mit Stützmauern (§ 13).
+- b) Terrainveränderungen mit Stützmauern (§ 13);
+- c) Grenzabstand und Gebäudeabstand gegenüber altrechtlichen Bauten (§ 29);
+- c1) Wahrung des Gebäudeabstands (§ 29). Vorbehalten bleiben feuerpolizeiliche und wohnhygienische Vorschriften oder andere öffentliche Interessen;
+- d) hindernisfreies Bauen (§ 43), sofern die abweichenden Vorschriften über die Normen des hindernisfreien Bauens hinausgehen.
+
+[^42-1]: BGS [721.11](https://bgs.zg.ch/data/721.11/de)
 
 ## 4. Behindertengerechtes Bauen
 
@@ -543,7 +569,8 @@ beschliesst:
 - f) Mauern und Einfriedungen bis zu einer Höhe von 1,20 m ab massgebendem Terrain;
 - g) Terrainveränderungen wie Böschungen, Abgrabungen und Aufschüttungen bis 1,20 m Höhe ab massgebendem Terrain, welche nicht mehr als 50 m³ umfassen;
 - h) Kleinstbauvorhaben wie Treib- und Gartenhäuschen mit maximal 4 m² Grundfläche, Werkzeugtruhen, einzelne Automaten;
-- i) das Aufstellen von Reklamen für örtliche Veranstaltungen sowie für Wahlen und Abstimmungen.
+- i) das Aufstellen von Reklamen für örtliche Veranstaltungen sowie für Wahlen und Abstimmungen;
+- j) dem Amateurfunkdienst dienende einfache Draht- und Stabantennen sowie für Antennen auf leichten Masten mit ähnlichem Erscheinungsbild wie Fahnenmasten.
 
 <sup>3</sup> Die obgenannten Bauten und Anlagen gemäss Abs. 2 Bst. e bis i bedürfen dennoch einer Baubewilligung, wenn sie in den Wald- bzw. in den Gewässerabstand zu liegen kommen sollen oder aus Gründen der Verkehrssicherheit problematisch sind.
 
@@ -571,12 +598,12 @@ beschliesst:
 
 <sup>1</sup> Dem Baugesuch sind folgende Pläne entweder elektronisch oder – wenn in Papierform – in mindestens zweifacher Ausfertigung, gefalzt im Format A4 beizulegen:
 
-- a) Grundbuchplankopie (wo noch nicht erhältlich, ein Situationsplan) mit Angaben der Lage und Abstände der Bauten gegenüber Strassen, Nachbargrundstücken und Gebäuden sowie Baulinien, der strassenmässigen Erschliessung, der Baulinien, der Abwasserbeseitigung;
+- a) Ein Auszug aus dem Plan des Grundbuchs mit Angaben der Lage und vermassten Abständen der Bauten gegenüber Strassen, Nachbargrundstücken und Gebäuden sowie Baulinien, der strassenmässigen Erschliessung, der Baulinien, der Abwasserbeseitigung;
 - b) Projektpläne im Massstab von mindestens 1:100, bestehend aus den Grundrissen aller Geschosse, sämtlichen Fassaden, der Dachaufsicht bei Flachdachgebäuden, allen zum Verständnis notwendigen Schnitten, den Plänen für die Erschliessung und die Ver- und Entsorgung sowie den zugehörigen Strassenplänen. Bei Grossbauten kann die Baubehörde einen kleineren Massstab bewilligen.
 
 <sup>2</sup> Die Pläne müssen vollständige Angaben enthalten über die Ausmasse, die wichtigsten Mauerstärken, Boden- und Fensterflächen, die Zweckbestimmung der Räume, den längs der Gebäudeaussenseite bestehenden und projektierten Terrainverlauf samt den wichtigsten Höhenkoten und Fixpunkten, die Niveaulinien, Abstellplätze für Motorfahrzeuge und Fahrräder sowie die Gestaltung der Umgebung und der Fussgängerverbindungen. Ferner sind im Baugesuch die vorgesehenen Materialien und Farben anzugeben, soweit sie nach aussen in Erscheinung treten. Bei Veränderung bestehender Bauten sind im Plan alte Bauteile grau, abzubrechende gelb und neue Bauteile rot anzulegen.
 
-<sup>3</sup> Die Pläne sind je von der Bauherrschaft, der Grundeigentümerschaft und den Projektverfassenden zu unterzeichnen.
+<sup>3</sup> Die Pläne sind je von der Bauherrschaft, der Grundeigentümerschaft und den Projektverfassenden zu unterzeichnen. Bei elektronischen Baugesuchen erfolgt die Unterzeichnung mittels e-Signatur.
 
 <sup>4</sup> Die Baubehörde kann ergänzende Unterlagen verlangen.
 
@@ -584,17 +611,17 @@ beschliesst:
 
 **Baugespann**
 
-<sup>1</sup> Vor der Publikation des Baugesuchs hat der Gesuchsteller bzw. die Gesuchstellerin bei Gebäuden Profile zu errichten, welche das künftige Volumen, insbesondere die Umrisse und die First- sowie die Gebäudehöhe erkennen lassen und die Erdgeschosskote deutlich sichtbar bezeichnen. Andere Bauten und Anlagen sind je nach Möglichkeit im Gelände abzustecken.
+<sup>1</sup> Vor der Publikation des Baugesuchs hat der Gesuchsteller bzw. die Gesuchstellerin bei Gebäuden Profile zu errichten, welche das künftige Volumen, insbesondere die Umrisse und die Fassaden- sowie die Gesamthöhe erkennen lassen und die Erdgeschosskote deutlich sichtbar bezeichnen. Andere Bauten und Anlagen sind je nach Möglichkeit im Gelände abzustecken.
 
 <sup>2</sup> Die Profile dürfen nur mit Zustimmung der Baubehörde beseitigt werden. Wenn der Entscheid rechtskräftig ist, sind sie binnen Monatsfrist zu entfernen.
 
 #### § 49
 
-**Prüfung durch die Baubehörde**
+**Prüfung durch die Baubehörde und Publikation**
 
 <sup>1</sup> Die Baubehörde prüft die Gesuchsunterlagen auf ihre Vollständigkeit.
 
-<sup>2</sup> Geht sie davon aus, dass die Unterlagen vollständig sind, publiziert sie das Baugesuch umgehend.
+<sup>2</sup> Geht sie davon aus, dass die Unterlagen vollständig sind, publiziert sie das Baugesuch umgehend. Die öffentliche Auflage erfolgt in der Form des eingereichten Baugesuchs. Mit ausdrücklicher Einwilligung kann die öffentliche Auflage bei in Papierform eingereichten Baugesuchen auch elektronisch erfolgen.
 
 <sup>3</sup> Sie leitet das Baugesuch an die kantonale Koordinationsstelle weiter, soweit ihr Entscheid mit Entscheiden des Bundes oder des Kantons zu koordinieren ist.
 
@@ -849,7 +876,7 @@ beschliesst:
 
 <sup>1</sup> Baugesuche und bisherige Sondernutzungspläne jener Gemeinden, welche ihre Nutzungspläne und Bauordnung noch nicht an diese Verordnung angepasst haben, werden nach bisherigem Recht[^74-1] beurteilt.
 
-<sup>2</sup> Im Gegensatz zu bisherigen Sondernutzungsplänen (§ 71a Abs. 1 Bst. b PBG[^74-2]) sind neue Sondernutzungspläne spätestens bis zur Anpassung der Nutzungspläne und der Bauordnung an diese Verordnung, längstens jedoch bis 2025 mit Ausnahme der Berechnung der Ausnützung nach neuem Recht zu beurteilen.
+<sup>2</sup> Im Gegensatz zu bisherigen Sondernutzungsplänen (§ 71a Abs. 1 Bst. b PBG[^74-2]) sind neue Sondernutzungspläne spätestens bis zur Anpassung der Nutzungspläne und der Bauordnung an diese Verordnung, längstens jedoch bis 2025 mit Ausnahme der Berechnung der Ausnützungs- sowie der Baumassen- und Grünflächenziffer nach neuem Recht zu beurteilen.
 
 <sup>3</sup> Das bisherige Recht findet Anwendung auf Baugesuche, die im Zeitpunkt des Inkrafttretens der an diese Verordnung angepassten Nutzungspläne und Bauvorschriften vollständig eingereicht und hängig sind, es sei denn, für die Bauherrschaft ist eine Beurteilung nach neuem Recht günstiger.
 
