@@ -4,20 +4,21 @@ number: VI C/1/2
 title: Verordnung zum Steuergesetz
 short: Steuerverordnung; StV
 language: de
-version: 2021-01-01
-valid_until: 2023-12-31
-version_adopted: 2020-12-16
+version: 2024-01-01
+version_adopted: 2023-12-20
 adopted: 2001-02-28
 in_force: 2001-01-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/VI-C.1.2"
-pdf: "https://gesetze.gl.ch/api/de/versions/2307/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2468/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung zum Steuergesetz
 
-Vom 28.02.2001 (Stand 01.01.2021)
+(Steuerverordnung; StV)
+
+Vom 28.02.2001 (Stand 01.01.2024)
 
 Der Landrat,
 
@@ -45,7 +46,7 @@ beschliesst:
 
 <sup>1</sup> Die Steuerbehörden erstellen über wesentliche Amtshandlungen, die aktenmässig keinen anderweitigen Niederschlag finden, ein kurzes Protokoll. Dieses ist unterschriftlich zu bestätigen, wenn Erklärungen des Steuerpflichtigen oder eines Dritten festgehalten werden.
 
-<sup>2</sup> Eingaben und Kopien der ausgehenden Mitteilungen an den Steuerpflichtigen werden geordnet aufbewahrt.
+<sup>2</sup> Eingaben und Kopien der ausgehenden Mitteilungen an die steuerpflichtige Person werden geordnet im digitalen Archiv aufbewahrt.
 
 #### Art. 3
 
@@ -53,8 +54,8 @@ beschliesst:
 
 <sup>1</sup> Bei Verfügungen treten die gesetzlich mit ihrer Nichtbeachtung verbundenen Rechtsnachteile, wie Einschätzung nach pflichtgemässem Ermessen, Auflage einer Busse wegen Verletzung von Verfahrenspflichten, nur ein:
 
-- 1\. wenn der Adressat zur Erfüllung der Aufforderung gemahnt worden ist;
-- 2\. wenn die Rechtsnachteile in der ersten Aufforderung und in der Mahnung ausdrücklich erwähnt worden sind.
+- 1\. wenn der Adressat zur Erfüllung der Verfahrenspflicht gemahnt worden ist;
+- 2\. wenn die Rechtsnachteile in der Aufforderung zur Erfüllung der Verfahrenspflicht erwähnt worden sind.
 
 ### 1.2.2. Form und Zustellung von Verfügungen und Entscheiden
 
@@ -62,17 +63,21 @@ beschliesst:
 
 **Formelle Anforderungen**
 
-<sup>1</sup> Aufforderungen und Mahnungen zur Einreichung einer Steuererklärung sowie die Eröffnung von Veranlagungen, die Steuerrechnungen und die Zahlungsaufforderungen können durch Formular erfolgen und bedürfen keiner Unterschrift.
+<sup>1</sup> Über automatisierte Verarbeitungsläufe eröffnete Verfügungen, Mitteilungen und Mahnungen können formularisiert und ohne Unterschrift eröffnet werden.
 
-<sup>2</sup> Andere Verfügungen sowie Entscheide werden vom handelnden Mitarbeiter der Steuerverwaltung oder Behördemitglied oder vom Sekretär oder Protokollführer der Behörde unterzeichnet.
+<sup>2</sup> …
 
 #### Art. 5
 
 **Zustellung bei Vertretung**
 
-<sup>1</sup> Hat der Steuerpflichtige einen Vertreter bestimmt, sind Verfügungen und Entscheide dem Vertreter zuzustellen.
+<sup>1</sup> Hat die steuerpflichtige Person eine Vertretung bestimmt, sind Verfügungen, Rechnungen und Entscheide der Vertretung zuzustellen.
 
-<sup>2</sup> Rechnungen werden direkt dem Steuerpflichtigen zugestellt.
+<sup>1a</sup> Ist das Vertretungsverhältnis unklar, erfolgt die Zustellung an die steuerpflichtige Person. Kann infolge Zustellung an die steuerpflichtige Person eine Frist nicht eingehalten werden, bleibt deren Wiederherstellung nach Artikel 36 des Verwaltungsrechtspflegegesetzes[^5-1] vorbehalten.
+
+<sup>2</sup> …
+
+[^5-1]: GS [III G/1](https://gesetze.gl.ch/data/III-G.1/de)
 
 ### 1.2.3. Verfahrenskosten in Verwaltungsverfahren
 
@@ -84,9 +89,9 @@ beschliesst:
 
 #### Art. 7
 
-**Schriftliche Auskünfte**
+**Auskünfte und Dienstleistungen**
 
-<sup>1</sup> Übersteigen schriftliche Auskünfte an Steuerpflichtige das übliche Mass, können hiefür Kosten auferlegt werden.
+<sup>1</sup> Übersteigen schriftliche Auskünfte und weitere Dienstleistungen an Steuerpflichtige das übliche Mass, können hierfür Kosten auferlegt werden.
 
 #### Art. 8
 
@@ -116,7 +121,7 @@ beschliesst:
 
 <sup>2</sup> In Fällen, die besonders umfangreich oder aufwändig sind, kann der Höchstansatz bis auf das Doppelte erhöht werden. Anderseits können bei wenig aufwändigen Verfahren die Kosten auf die Hälfte reduziert werden.
 
-<sup>3</sup> Bei Selbstanzeige wird auf die Erhebung der Kosten verzichtet.
+<sup>3</sup> Bei strafloser Selbstanzeige wird auf die Erhebung der Kosten verzichtet.
 
 #### Art. 10
 
@@ -183,49 +188,58 @@ beschliesst:
 
 #### Art. 18
 
-**Allgemeine Regel für die Zustellung der Steuererklärungsformulare**
+**Allgemeine Regel für die Zustellung der Mitteilung zur Einreichung der Steuererklärung**
 
-<sup>1</sup> Die Zustellung der Steuererklärungsformulare erfolgt jeweils spätestens bis Ende Januar an die steuerpflichtigen natürlichen und spätestens bis Ende März an die steuerpflichtigen juristischen Personen für die im vergangenen Kalenderjahr abgeschlossene Steuerperiode.
+<sup>1</sup> Die Zustellung der Mitteilung zur Einreichung der Steuererklärung erfolgt jeweils spätestens bis Ende Januar an die steuerpflichtigen natürlichen und spätestens bis Ende März an die steuerpflichtigen juristischen Personen für die im vergangenen Kalenderjahr abgeschlossene Steuerperiode.
 
-<sup>2</sup> Ein weiteres Steuererklärungsformular wird zugestellt, wenn im laufenden Kalenderjahr die Steuerpflicht in der Schweiz endet. Es bezieht sich auf die laufende Steuerperiode bis zur Beendigung der Steuerpflicht in der Schweiz.
+<sup>2</sup> Eine weitere Mitteilung zur Einreichung der Steuererklärung wird zugestellt, wenn im laufenden Kalenderjahr die Steuerpflicht in der Schweiz endet. Sie bezieht sich auf die laufende Steuerperiode bis zur Beendigung der Steuerpflicht in der Schweiz.
 
 #### Art. 19
 
 **Volljährigkeit**
 
-<sup>1</sup> Steuerpflichtigen natürlichen Personen wird erstmals bis Ende Januar des Kalenderjahres, in dem sie das 19. Altersjahr zurücklegen, ein Steuererklärungsformular für die vergangene Steuerperiode zugestellt.
+<sup>1</sup> Steuerpflichtigen natürlichen Personen wird erstmals bis Ende Januar des Kalenderjahres, in dem sie das 19. Altersjahr zurücklegen, eine Mitteilung zur Einreichung der Steuererklärung für die vergangene Steuerperiode zugestellt.
 
 #### Art. 20
 
 **Heirat**
 
-<sup>1</sup> Zur Vornahme der ersten gemeinsamen Einschätzung wird den Ehegatten erstmals in dem auf die Heirat folgenden Kalenderjahr ein gemeinsames Steuererklärungsformular zugestellt.
+<sup>1</sup> Zur Vornahme der ersten gemeinsamen Einschätzung wird den Ehegatten erstmals in dem auf die Heirat folgenden Kalenderjahr eine Mitteilung zur Einreichung der gemeinsamen Steuererklärung zugestellt.
 
 #### Art. 21
 
 **Scheidung oder Trennung**
 
-<sup>1</sup> Zur Vornahme der getrennten Einschätzungen für die Steuerperiode, in der eine Scheidung oder eine Trennung erfolgte, werden den Ehegatten in dem der Scheidung oder Trennung folgenden Kalenderjahr separate Steuererklärungen zugestellt.
+<sup>1</sup> Zur Vornahme der getrennten Einschätzungen für die Steuerperiode, in der eine Scheidung oder eine Trennung erfolgte, werden den Ehegatten in dem der Scheidung oder Trennung folgenden Kalenderjahr separate Mitteilungen zur Einreichung der Steuererklärung zugestellt.
 
 #### Art. 22
 
 **Tod eines Ehegatten**
 
-<sup>1</sup> Bei Tod eines Ehegatten wird dem überlebenden Ehegatten für sich und zuhanden der Erben ein Steuererklärungsformular für die laufende Steuerperiode zugestellt, wie wenn beide Ehegatten im Zeitpunkt des Todes des einen Ehegatten aus der Steuerpflicht ausgeschieden wären.
+<sup>1</sup> Bei Tod eines Ehegatten wird dem überlebenden Ehegatten für sich und zuhanden der Erben eine Mitteilung zur Einreichung der Steuererklärung für die laufende Steuerperiode zugestellt, wie wenn beide Ehegatten im Zeitpunkt des Todes des einen Ehegatten aus der Steuerpflicht ausgeschieden wären.
 
-<sup>2</sup> Dem überlebenden Ehegatten wird zudem bis Ende Januar des folgenden Kalenderjahres ein Steuererklärungsformular zugestellt, wie wenn er im Zeitpunkt des Todes des Ehegatten neu in die Steuerpflicht eingetreten wäre.
+<sup>2</sup> Dem überlebenden Ehegatten wird zudem bis Ende Januar des folgenden Kalenderjahres eine Mitteilung zur Einreichung der Steuererklärung zugestellt, wie wenn er im Zeitpunkt des Todes des Ehegatten neu in die Steuerpflicht eingetreten wäre.
 
 #### Art. 23
 
 **Fehlende Zustellung des Steuererklärungsformulars**
 
-<sup>1</sup> Wer kein Steuererklärungsformular erhält, hat ein solches zu verlangen.
+<sup>1</sup> Wer keine Mitteilung zur Einreichung der Steuererklärung erhält, hat eine solche zu verlangen.
 
 #### Art. 24
 
 **Fristerstreckung**
 
-<sup>1</sup> Gesuche um Erstreckung der Frist zur Einreichung der Steuererklärung sind vor Ablauf der Frist mit schriftlicher Begründung bei der kantonalen Steuerverwaltung einzureichen.
+<sup>1</sup> Gesuche um Erstreckung der Frist zur Einreichung der Steuererklärung sind vor Ablauf der Frist bei der kantonalen Steuerverwaltung einzureichen.
+
+<sup>2</sup> Eine Begründung ist nicht erforderlich für Fristerstreckungen:
+
+- 1\. bei natürlichen Personen bis maximal 31. Dezember des Jahres, in dem die Steuererklärung einzureichen ist;
+- 2\. bei juristischen Personen bis maximal 31. März des Folgejahres, in dem die Steuererklärung einzureichen ist.
+
+<sup>3</sup> Gesuche gemäss Absatz 2 werden durch die kantonale Steuerverwaltung genehmigt.
+
+<sup>4</sup> Gesuche um Erstreckung einer längeren als in Absatz 2 erwähnten Frist bedürfen eine Begründung und werden für höchstens drei weitere Monate gewährt. Bei Genehmigung dieser Gesuche wird eine Gebühr von 30 Franken pro steuerpflichtige Person erhoben.
 
 #### Art. 25
 
@@ -239,7 +253,7 @@ beschliesst:
 
 <sup>1</sup> Steuerpflichtige, welche die Steuererklärung nicht rechtzeitig eingereicht oder die von der kantonalen Steuerverwaltung zur Behebung formeller Mängel angesetzte Frist missachtet haben, werden unter Hinweis auf die Folgen der Unterlassung gemahnt, die Verfahrenspflichten innerhalb einer letzten Frist von zehn Tagen vollständig und richtig zu erfüllen.
 
-<sup>2</sup> Die Mahnfrist kann nur bei Vorliegen besonderer Umstände erstreckt werden.
+<sup>2</sup> Die Mahnfrist ist nicht erstreckbar.
 
 ### 1.4. Steuerrekurskommission
 
@@ -319,7 +333,7 @@ beschliesst:
 
 **Todesfallmeldung**
 
-<sup>1</sup> Das kantonale Zivilstandsamt meldet die Todesfälle der kantonalen Steuerverwaltung.
+<sup>1</sup> Das kantonale Zivilstandsamt meldet die Todesfälle der kantonalen Steuerverwaltung mittels Todesmitteilung.
 
 #### Art. 34
 
@@ -335,17 +349,17 @@ beschliesst:
 
 #### Art. 36
 
-**Formulare**
+**Inventaraufnahme mittels Fragebogen**
 
-<sup>1</sup> Die kantonale Steuerverwaltung setzt die für die Todesfallmeldung und für die Inventaraufnahme erforderlichen Formulare fest.
+<sup>1</sup> Die kantonale Steuerverwaltung fordert die Erben oder den Willensvollstrecker innert zwei Monaten nach dem Todesfall zur Einreichung des Fragebogens zur Inventaraufnahme auf.
 
 #### Art. 37
 
 **Frist für die Inventaraufnahme**
 
-<sup>1</sup> Das Inventar wird spätestens innert zweier Monate nach der Inventaraufnahme ausgefertigt.
+<sup>1</sup> Der Fragebogen zur Inventaraufnahme ist innert zwei Monaten nach Zustellung einzureichen.
 
-<sup>2</sup> Die kantonale Steuerverwaltung kann ausnahmsweise die Frist zur Einreichung des Inventars erstrecken.
+<sup>2</sup> Die Einreichefrist kann auf Gesuch hin erstreckt werden.
 
 <sup>3</sup> Mit dem Inventar sind der kantonalen Steuerverwaltung alle zur Prüfung nötigen Belege einzureichen.
 
@@ -367,7 +381,7 @@ beschliesst:
 
 <sup>3</sup> Auf besonderes Verlangen ist auch hinsichtlich früherer Beurkundungen, Handänderungen und diesen gleichgestellten Rechtsgeschäften Auskunft zu erteilen.
 
-<sup>4</sup> Die Anzeigen erfolgen nach einem von der kantonalen Steuerverwaltung festzusetzenden Formular und sind unentgeltlich.
+<sup>4</sup> Die Meldungen des Grundbuchamtes an die kantonale Steuerverwaltung erfolgen innert einem Monat nach dem Hauptbucheintrag in elektronischer Form. Die jeweiligen Verträge sind beizulegen. Die Meldungen sind unentgeltlich.
 
 #### Art. 40
 
@@ -433,17 +447,9 @@ beschliesst:
 
 ## 4. Schlussbestimmungen
 
-#### Art. 52
+#### Art. 52–53
 
-**Separate Jahressteuer**
-
-<sup>1</sup> Der Bezug der separaten Jahressteuer (Kantons- und Gemeindesteuern) gemäss Artikel 257 Absatz 4 StG erfolgt durch die Gemeinden.
-
-#### Art. 53
-
-**Rückerstattung bei ausserordentlichen Aufwendungen**
-
-<sup>1</sup> Die Rückerstattung der Kantons- und Gemeindesteuern aufgrund ausser ordentlicher Aufwendungen im Sinne von Artikel 257 Absatz 5 StG erfolgt durch die Gemeinden.
+**…**
 
 #### Art. 54
 
