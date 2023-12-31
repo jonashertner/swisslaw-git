@@ -4,13 +4,13 @@ number: "731.11"
 title: Verordnung zum Planungs- und Baugesetz
 short: PBV
 language: de
-version: 2023-03-01
-valid_until: 2023-12-31
-version_adopted: 2022-12-13
+version: 2024-01-01
+valid_until: 2024-06-30
+version_adopted: 2023-12-12
 adopted: 2017-06-27
 in_force: 2017-10-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/731.11"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3443/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3564/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3443/pdf_file"
 
 (PBV)
 
-vom 27.06.2017 (Stand 01.03.2023)
+vom 27.06.2017 (Stand 01.01.2024)
 
 Die Regierung des Kantons St.Gallen
 
@@ -103,6 +103,12 @@ als Verordnung:[^ingress-2]
 **Bauten und Anlagen ausserhalb der Bauzone (Art. 112 PBG)**
 
 <sup>1</sup> Zuständig für Zustimmungen zu Bauvorhaben ausserhalb der Bauzone ist das Amt für Raumentwicklung und Geoinformation.
+
+#### Art. 9a
+
+**Anlagen zur Gewinnung erneuerbarer Energien**
+
+<sup>1</sup> Zuständig für die Erteilung der Baubewilligung für Anlagen zur Gewinnung erneuerbarer Energien ist, sofern dem Kanton von Bundesrechts wegen die Bewilligungskompetenz zukommt, die Regierung.
 
 ## III. Natur- und Heimatschutz
 
