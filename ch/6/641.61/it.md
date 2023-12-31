@@ -4,11 +4,11 @@ title: "Legge federale del 21 giugno 1996 sull'imposizione degli oli minerali (L
 short: LIOm
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371"
 language: it
-version: 2023-09-01
+version: 2024-01-01
 adopted: 1996-06-21
 in_force: 1997-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371/20230901/it/xml/fedlex-data-admin-ch-eli-cc-1996-3371_3371_3371-20230901-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371/20240101/it/xml/fedlex-data-admin-ch-eli-cc-1996-3371_3371_3371-20240101-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/20230901/it"
 
 (LIOm)
 
-del 21 giugno 1996 (Stato 1° settembre 2023)
+del 21 giugno 1996 (Stato 1° gennaio 2024)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -83,7 +83,7 @@ Nel senso della presente legge si considera:
 [^2-3]: Nuovo testo giusta l’all. 3 n. 2 dell’O del 30 giu. 2021 concernente la modifica della tariffa doganale, in vigore dal 1° gen. 2022 ([RU 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)).
 [^2-4]: Nuovo testo giusta l’all. 3 n. 1 dell’O del 22 giu. 2011 concernente la modifica della tariffa doganale, in vigore dal 1° gen. 2012 ([RU 2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)).
 [^2-5]: Introdotta dall’all. 3 n. 1 dell’O del 22 giu. 2011 concernente la modifica della tariffa doganale, in vigore dal 1° gen. 2012 ([RU 2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)).
-[^2-6]: Introdotta dal n. I della L del 23 mar. 2007 ([RU 2008 579](https://fedlex.data.admin.ch/eli/oc/2008/132); [FF 2006 3889](https://fedlex.data.admin.ch/eli/fga/2006/527)). Nuovo testo giusta il n. I 1 della LF del 20 dic. 2019 che proroga i termini delle agevolazioni fiscali per il gas naturale, il gas liquido e i biocarburanti e che modifica la legge sul CO<sub>2</sub>, in vigore dal 1° lug. 2020 al 31 dic. 2023 ([RU 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [FF 2019 4719](https://fedlex.data.admin.ch/eli/fga/2019/2011)[4827](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
+[^2-6]: Introdotta dal n. I della L del 23 mar. 2007 ([RU 2008 579](https://fedlex.data.admin.ch/eli/oc/2008/132); [FF 2006 3889](https://fedlex.data.admin.ch/eli/fga/2006/527)). Nuovo testo giusta il n. I 1 della LF del 20 dic. 2019 che proroga i termini delle agevolazioni fiscali per il gas naturale, il gas liquido e i biocarburanti e che modifica la legge sul CO<sub>2</sub>, in vigore dal 1° lug. 2020 al 31 dic. 2023, prorogata al 31 dic. 2024 ([RU 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262)n. II; [FF 2019 4719](https://fedlex.data.admin.ch/eli/fga/2019/2011)[4827](https://fedlex.data.admin.ch/eli/fga/2019/2069); [2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252)[2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
 
 #### Art. 2a
 
@@ -91,7 +91,7 @@ Nel senso della presente legge si considera:
 
 Il Consiglio federale designa i biocarburanti di cui all’articolo 2 capoverso 3 lettera d.
 
-[^2a-1]: Introdotto dal n. I della LF del 21 mar. 2014 ([RU 2016 2661](https://fedlex.data.admin.ch/eli/oc/2016/425); [FF 2013 4963](https://fedlex.data.admin.ch/eli/fga/2013/1036)[5007](https://fedlex.data.admin.ch/eli/fga/2013/1038)). Nuovo testo giusta il n. I 1 della LF del 20 dic. 2019 che proroga i termini delle agevolazioni fiscali per il gas naturale, il gas liquido e i biocarburanti e che modifica la legge sul CO<sub>2</sub>, in vigore dal 1° lug. 2020 al 31 dic. 2023 ([RU 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [FF 2019 4719](https://fedlex.data.admin.ch/eli/fga/2019/2011)[4827](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
+[^2a-1]: Introdotto dal n. I della LF del 21 mar. 2014 ([RU 2016 2661](https://fedlex.data.admin.ch/eli/oc/2016/425); [FF 2013 4963](https://fedlex.data.admin.ch/eli/fga/2013/1036)[5007](https://fedlex.data.admin.ch/eli/fga/2013/1038)). Nuovo testo giusta il n. I 1 della LF del 20 dic. 2019 che proroga i termini delle agevolazioni fiscali per il gas naturale, il gas liquido e i biocarburanti e che modifica la legge sul CO<sub>2</sub>, in vigore dal 1° lug. 2020 al 31 dic. 2023, prorogato al 31 dic. 2024 ([RU 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262)n. II; [FF 2019 4719](https://fedlex.data.admin.ch/eli/fga/2019/2011)[4827](https://fedlex.data.admin.ch/eli/fga/2019/2069); [2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252)[2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
 
 #### Art. 3
 
@@ -229,7 +229,7 @@ Rispondono solidalmente con la persona soggetta all’imposta o con il successor
 
 <sup>2</sup> L’imposta sugli oli minerali e il supplemento fiscale sugli oli minerali sono riscossi conformemente alla tariffa dell’allegato 1*a* della presente legge.
 
-[^12a-1]: Introdotto dal n. I della L del 23 mar. 2007, in vigore dal 1° lug. ([RU 2008 579](https://fedlex.data.admin.ch/eli/oc/2008/132); [FF 2006 3889](https://fedlex.data.admin.ch/eli/fga/2006/527)). Nuovo testo giusta il n. I 1 della LF del 20 dic. 2019 che proroga i termini delle agevolazioni fiscali per il gas naturale, il gas liquido e i biocarburanti e che modifica la legge sul CO<sub>2</sub>, in vigore dal 1° lug. 2020 al 31 dic. 2023 ([RU 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [FF 2019 4719](https://fedlex.data.admin.ch/eli/fga/2019/2011)[4827](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
+[^12a-1]: Introdotto dal n. I della L del 23 mar. 2007 ([RU 2008 579](https://fedlex.data.admin.ch/eli/oc/2008/132); [FF 2006 3889](https://fedlex.data.admin.ch/eli/fga/2006/527)). Nuovo testo giusta il n. I 1 della LF del 20 dic. 2019 che proroga i termini delle agevolazioni fiscali per il gas naturale, il gas liquido e i biocarburanti e che modifica la legge sul CO<sub>2</sub>, in vigore dal 1° lug. 2020 al 31 dic. 2023, prorogato al 31 dic. 2024 ([RU 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262)n. II; [FF 2019 4719](https://fedlex.data.admin.ch/eli/fga/2019/2011)[4827](https://fedlex.data.admin.ch/eli/fga/2019/2069); [2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252)[2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
 
 #### Art. 12b
 
@@ -251,7 +251,7 @@ Su richiesta, per i biocarburanti è accordata un’agevolazione fiscale se sono
 
 <sup>4</sup> Il Consiglio federale determina l’entità dell’agevolazione fiscale; a questo riguardo tiene conto della competitività dei biocarburanti rispetto ai carburanti di origine fossile.
 
-[^12b-1]: Introdotto dal n. I della L del 23 mar. 2007 ([RU 2008 579](https://fedlex.data.admin.ch/eli/oc/2008/132); [FF 2006 3889](https://fedlex.data.admin.ch/eli/fga/2006/527)). Nuovo testo giusta il n. I 1 della LF del 20 dic. 2019 che proroga i termini delle agevolazioni fiscali per il gas naturale, il gas liquido e i biocarburanti e che modifica la legge sul CO<sub>2</sub>, in vigore dal 1° lug. 2020 al 31 dic. 2023 ([RU 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [FF 2019 4719](https://fedlex.data.admin.ch/eli/fga/2019/2011)[4827](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
+[^12b-1]: Introdotto dal n. I della L del 23 mar. 2007 ([RU 2008 579](https://fedlex.data.admin.ch/eli/oc/2008/132); [FF 2006 3889](https://fedlex.data.admin.ch/eli/fga/2006/527)). Nuovo testo giusta il n. I 1 della LF del 20 dic. 2019 che proroga i termini delle agevolazioni fiscali per il gas naturale, il gas liquido e i biocarburanti e che modifica la legge sul CO<sub>2</sub>, in vigore dal 1° lug. 2020 al 31 dic. 2023, prorogato al 31 dic. 2024 ([RU 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262)n. II; [FF 2019 4719](https://fedlex.data.admin.ch/eli/fga/2019/2011)[4827](https://fedlex.data.admin.ch/eli/fga/2019/2069); [2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252)[2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
 
 #### Art. 12c
 
@@ -270,7 +270,7 @@ La prova consiste in:
 
 <sup>4</sup> Il Consiglio federale designa le indicazioni e i documenti necessari. Può alleviare l’onere della prova, purché sia garantito che le esigenze di cui all’articolo 12*b* capoversi 1 e 3 sono soddisfatte.
 
-[^12c-1]: Introdotto dal n. I della L del 23 mar. 2007 ([RU 2008 579](https://fedlex.data.admin.ch/eli/oc/2008/132); [FF 2006 3889](https://fedlex.data.admin.ch/eli/fga/2006/527)). Nuovo testo giusta il n. I 1 della LF del 20 dic. 2019 che proroga i termini delle agevolazioni fiscali per il gas naturale, il gas liquido e i biocarburanti e che modifica la legge sul CO<sub>2</sub>, in vigore dal 1° lug. 2020 al 31 dic. 2023 ([RU 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [FF 2019 4719](https://fedlex.data.admin.ch/eli/fga/2019/2011)[4827](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
+[^12c-1]: Introdotto dal n. I della L del 23 mar. 2007 ([RU 2008 579](https://fedlex.data.admin.ch/eli/oc/2008/132); [FF 2006 3889](https://fedlex.data.admin.ch/eli/fga/2006/527)). Nuovo testo giusta il n. I 1 della LF del 20 dic. 2019 che proroga i termini delle agevolazioni fiscali per il gas naturale, il gas liquido e i biocarburanti e che modifica la legge sul CO<sub>2</sub>, in vigore dal 1° lug. 2020 al 31 dic. 2023, prorogato al 31 dic. 2024 ([RU 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262)n. II; [FF 2019 4719](https://fedlex.data.admin.ch/eli/fga/2019/2011)[4827](https://fedlex.data.admin.ch/eli/fga/2019/2069); [2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252)[2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
 
 #### Art. 12d
 
@@ -282,7 +282,7 @@ La prova consiste in:
 
 <sup>3</sup> Il Consiglio federale disciplina la procedura.
 
-[^12d-1]: Introdotto dal n. I della LF del 21 mar. 2014 ([RU 2016 2661](https://fedlex.data.admin.ch/eli/oc/2016/425); [FF 2013 4963](https://fedlex.data.admin.ch/eli/fga/2013/1036)[5007](https://fedlex.data.admin.ch/eli/fga/2013/1038)). Nuovo testo giusta il n. I 1 della LF del 20 dic. 2019 che proroga i termini delle agevolazioni fiscali per il gas naturale, il gas liquido e i biocarburanti e che modifica la legge sul CO<sub>2</sub>, in vigore dal 1° lug. 2020 al 31 dic. 2023 ([RU 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [FF 2019 4719](https://fedlex.data.admin.ch/eli/fga/2019/2011)[4827](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
+[^12d-1]: Introdotto dal n. I della LF del 21 mar. 2014 ([RU 2016 2661](https://fedlex.data.admin.ch/eli/oc/2016/425); [FF 2013 4963](https://fedlex.data.admin.ch/eli/fga/2013/1036)[5007](https://fedlex.data.admin.ch/eli/fga/2013/1038)). Nuovo testo giusta il n. I 1 della LF del 20 dic. 2019 che proroga i termini delle agevolazioni fiscali per il gas naturale, il gas liquido e i biocarburanti e che modifica la legge sul CO<sub>2</sub>, in vigore dal 1° lug. 2020 al 31 dic. 2023, prorogato al 31 dic. 2024 ([RU 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262)n. II; [FF 2019 4719](https://fedlex.data.admin.ch/eli/fga/2019/2011)[4827](https://fedlex.data.admin.ch/eli/fga/2019/2069); [2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252)[2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
 
 #### Art. 12e
 
@@ -335,7 +335,7 @@ Per le decisioni e altre prestazioni possono essere riscosse tasse. Le aliquote 
 
 [^sec4-1]
 
-[^sec4-1]: Nuovo testo giusta il n. I 1 della LF del 20 dic. 2019 che proroga i termini delle agevolazioni fiscali per il gas naturale, il gas liquido e i biocarburanti e che modifica la legge sul CO<sub>2</sub>, in vigore dal 1° lug. 2020 al 31 dic. 2023 ([RU 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [FF 2019 4719](https://fedlex.data.admin.ch/eli/fga/2019/2011)[4827](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
+[^sec4-1]: Nuovo testo giusta il n. I 1 della LF del 20 dic. 2019 che proroga i termini delle agevolazioni fiscali per il gas naturale, il gas liquido e i biocarburanti e che modifica la legge sul CO<sub>2</sub>, in vigore dal 1° lug. 2020 al 31 dic. 2023, prorogato al 31 dic. 2024 ([RU 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262)n. II; [FF 2019 4719](https://fedlex.data.admin.ch/eli/fga/2019/2011)[4827](https://fedlex.data.admin.ch/eli/fga/2019/2069); [2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252)[2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
 
 #### Art. 17
 
@@ -401,7 +401,7 @@ Il Consiglio federale può accordare l’esenzione totale o parziale dall’impo
 [^18-1]: Introdotto dal n. I della LF del 18 mar. 2016, in vigore dal 1° ott. 2016 ([RU 2016 2993](https://fedlex.data.admin.ch/eli/oc/2016/503); [FF 2015 1951](https://fedlex.data.admin.ch/eli/fga/2015/482)).
 [^18-2]: Introdotto dal n. I della LF del 18 mar. 2016, in vigore dal 1° ott. 2016 ([RU 2016 2993](https://fedlex.data.admin.ch/eli/oc/2016/503); [FF 2015 1951](https://fedlex.data.admin.ch/eli/fga/2015/482)).
 [^18-3]: Nuovo testo giusta il n. I della LF del 20 dic. 2006, in vigore dal 1° lug. 2020 07 ([RU 2007 2693](https://fedlex.data.admin.ch/eli/oc/2007/354); [FF 2006 2283](https://fedlex.data.admin.ch/eli/fga/2006/226)[2305](https://fedlex.data.admin.ch/eli/fga/2006/228)).
-[^18-4]: Introdotto dal n. I della LF del 21 mar. 2014 ([RU 2016 2661](https://fedlex.data.admin.ch/eli/oc/2016/425); [FF 2013 4963](https://fedlex.data.admin.ch/eli/fga/2013/1036)[5007](https://fedlex.data.admin.ch/eli/fga/2013/1038)). Nuovo testo giusta il n. I 1 della LF del 20 dic. 2019 che proroga i termini delle agevolazioni fiscali per il gas naturale, il gas liquido e i biocarburanti e che modifica la legge sul CO<sub>2</sub>, in vigore dal 1° lug. 2020 al 31 dic. 2023 ([RU 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [FF 2019 4719](https://fedlex.data.admin.ch/eli/fga/2019/2011)[4827](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
+[^18-4]: Introdotto dal n. I della LF del 21 mar. 2014 ([RU 2016 2661](https://fedlex.data.admin.ch/eli/oc/2016/425); [FF 2013 4963](https://fedlex.data.admin.ch/eli/fga/2013/1036)[5007](https://fedlex.data.admin.ch/eli/fga/2013/1038)). Nuovo testo giusta il n. I 1 della LF del 20 dic. 2019 che proroga i termini delle agevolazioni fiscali per il gas naturale, il gas liquido e i biocarburanti e che modifica la legge sul CO<sub>2</sub>, in vigore dal 1° lug. 2020 al 31 dic. 2023, prorogato al 31 dic. 2024 ([RU 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262)n. II; [FF 2019 4719](https://fedlex.data.admin.ch/eli/fga/2019/2011)[4827](https://fedlex.data.admin.ch/eli/fga/2019/2069); [2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252)[2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
 
 ## Sezione 5: Riscossione dell’imposta
 
@@ -439,7 +439,7 @@ All’atto della dichiarazione delle miscele di biocarburanti e altri carburanti
 
 <sup>4</sup> Il Consiglio federale disciplina la procedura.
 
-[^20a-1]: Introdotto dal n. I della L del 23 mar. 2007 ([RU 2008 579](https://fedlex.data.admin.ch/eli/oc/2008/132); [FF 2006 3889](https://fedlex.data.admin.ch/eli/fga/2006/527)). Nuovo testo giusta il n. I 1 della LF del 20 dic. 2019 che proroga i termini delle agevolazioni fiscali per il gas naturale, il gas liquido e i biocarburanti e che modifica la legge sul CO<sub>2</sub>, in vigore dal 1° lug. 2020 al 31 dic. 2023 ([RU 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [FF 2019 4719](https://fedlex.data.admin.ch/eli/fga/2019/2011)[4827](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
+[^20a-1]: Introdotto dal n. I della L del 23 mar. 2007 ([RU 2008 579](https://fedlex.data.admin.ch/eli/oc/2008/132); [FF 2006 3889](https://fedlex.data.admin.ch/eli/fga/2006/527)). Nuovo testo giusta il n. I 1 della LF del 20 dic. 2019 che proroga i termini delle agevolazioni fiscali per il gas naturale, il gas liquido e i biocarburanti e che modifica la legge sul CO<sub>2</sub>, in vigore dal 1° lug. 2020 al 31 dic. 2023, prorogato al 31 dic. 2024 ([RU 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262)n. II; [FF 2019 4719](https://fedlex.data.admin.ch/eli/fga/2019/2011)[4827](https://fedlex.data.admin.ch/eli/fga/2019/2069); [2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252)[2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
 
 #### Art. 21
 
@@ -751,6 +751,14 @@ Data dell’entrata in vigore: 1° gennaio 1997[^49-1]
 
 [^49-1]: DCF del 20 nov. 1996.
 
+## Disposizione transitoria relativa alla modifica del 23 marzo 2007
+
+[^u1-1]
+
+[^u1-1]: [RU 2008 579](https://fedlex.data.admin.ch/eli/oc/2008/132), [FF 2006 3889](https://fedlex.data.admin.ch/eli/fga/2006/527)
+
+Gli articoli 12*a*, 12*b*, 12*c* e 20*a*, nonché l’allegato 1*a* hanno effetto per al massimo dodici anni dall’entrata in vigore della presente modifica.
+
 Allegato 1[^t-1]
 
 (art. 12 cpv. 1)
@@ -967,7 +975,7 @@ Allegato 1a[^t-2]
 
 ## Tariffa d’imposta per il gas naturale e il gas liquido utilizzati come carburante
 
-[^t-2]: Introdotto dal n. I della L del 23 mar. 2007 ([RU 2008 579](https://fedlex.data.admin.ch/eli/oc/2008/132); [FF 2006 3889](https://fedlex.data.admin.ch/eli/fga/2006/527)). Nuovo testo giusta il n. I 1 della LF del 20 dic. 2019 che proroga i termini delle agevolazioni fiscali per il gas naturale, il gas liquido e i biocarburanti e che modifica la legge sul CO<sub>2, in</sub> <sub>vigore dal 1° lug. 2020 19 al 31 dic. 2023 (</sub>[<sub>RU</sub> <sub>2020</sub> <sub>1269</sub>](https://fedlex.data.admin.ch/eli/oc/2020/243)<sub>;</sub> [<sub>FF</sub> <sub>2019</sub> <sub>4719</sub>](https://fedlex.data.admin.ch/eli/fga/2019/2011)<sub>[4827](https://fedlex.data.admin.ch/eli/fga/2019/2069)).</sub>
+[^t-2]: Introdotto dal n. I della L del 23 mar. 2007 ([RU 2008 579](https://fedlex.data.admin.ch/eli/oc/2008/132); [FF 2006 3889](https://fedlex.data.admin.ch/eli/fga/2006/527)). Nuovo testo giusta il n. I 1 della LF del 20 dic. 2019 che proroga i termini delle agevolazioni fiscali per il gas naturale, il gas liquido e i biocarburanti e che modifica la legge sul CO<sub>2</sub>, in vigore dal 1° lug. 2020 al 31 dic. 2023, prorogato al 31 dic. 2024 ([RU 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262)n. II; [FF 2019 4719](https://fedlex.data.admin.ch/eli/fga/2019/2011)[4827](https://fedlex.data.admin.ch/eli/fga/2019/2069); [2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252)[2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
 
 <table>
 <tr><td>Voce di tariffa[^annex1a-lvlu1-1]</td><td>Designazione della merce</td><td>Imposizione fiscale[^annex1a-lvlu1-2] (art. 12)</td><td>Agevolazione fiscale (art. 12*a*)</td><td>Imposizione fiscale (art. 12*a*)</td><td>Imposta sugli oli minerali</td><td>Supplemento fiscale sugli oli minerali</td></tr>
