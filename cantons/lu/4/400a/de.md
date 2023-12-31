@@ -4,13 +4,13 @@ number: 400a
 title: Gesetz über die Volksschulbildung
 short: VBG
 language: de
-version: 2022-08-01
-valid_until: 2023-12-31
+version: 2024-01-01
+valid_until: 2025-12-31
 version_adopted: 2021-05-10
 adopted: 1999-03-22
 in_force: 2000-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/400a"
-pdf: "https://srl.lu.ch/api/de/versions/3952/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4148/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3952/pdf_file"
 
 (VBG)
 
-vom 22.03.1999 (Stand 01.08.2022)
+vom 22.03.1999 (Stand 01.01.2024)
 
 Der Grosse Rat des Kantons Luzern,
 
@@ -497,7 +497,8 @@ beschliesst:
 - h<sup>bis</sup>. bezeichnet die Spezialangebote und die ausserkantonalen Angebote im Volksschulbereich,
 - i. arbeitet mit anderen Kantonen im Rahmen von regionalen und schweizerischen Konferenzen zusammen,
 - k. kann eine Gemeinde unter Wahrung ihrer Mitwirkungsrechte dazu verpflichten, das kommunale Volksschulangebot für eine oder mehrere andere Gemeinden gegen Entschädigung der vollen Kosten zu erbringen,
-- l. bezeichnet die für die Volksschulbildung zuständigen Dienststellen.
+- l. bezeichnet die für die Volksschulbildung zuständigen Dienststellen,
+- m. legt unter aktiver Mitwirkung der Volksschuldelegation die Standardkosten für das kommunale Volksschulangebot fest.
 
 <sup>2</sup> Der Regierungsrat kann Gemeinden die Organisationsautonomie entziehen, wenn sie kantonale Vorgaben nicht erfüllen.
 
@@ -828,17 +829,21 @@ beschliesst:
 
 <sup>3</sup> Die Beiträge gemäss den Absätzen 1 und 2 werden von der Gesamtheit der Gemeinden nach Massgabe der Einwohnerzahl getragen.
 
-<sup>4</sup> Die Gemeinden leisten dem Kanton für Klassen des Kindergartens, der Basisstufe und der Primarschule sowie der Sekundarstufe I, deren Grösse die kantonalen Vorgaben unterschreitet, eine Ausgleichszahlung pro Klasse und Schuljahr von maximal 20 000 Franken. Der Regierungsrat bestimmt die Höhe.
+<sup>4</sup> …
 
 #### § 62
 
 **Kantonsbeiträge**
 
-<sup>1</sup> Der Kanton entrichtet den Gemeinden Staatsbeiträge an die Betriebskosten (gemäss § 59 Abs. 2) für das kommunale Volksschulangebot. Bei den Betriebskosten der schul- und familienergänzenden Tagesstrukturen sind die Elternbeiträge in Abzug zu bringen. Die Staatsbeiträge decken 50 Prozent der gesamten im Kanton entstehenden Betriebskosten.
+<sup>1</sup> Der Kanton entrichtet den Gemeinden Staatsbeiträge an die Betriebskosten für das kommunale Volksschulangebot auf der Grundlage von Standardkosten.
 
-<sup>2</sup> Der Kanton entrichtet den Gemeinden seinen Anteil in Form von pauschalen Pro-Kopf-Beiträgen für Lernende des Kindergartens oder der Basisstufe, der Primarschule und der Sekundarschule sowie für Lernende fremder Sprache und Lernende in schul- und familienergänzenden Tagesstrukturen.
+<sup>1<sup>bis</sup></sup> Die Standardkosten decken bei der erstmaligen Festlegung 50 Prozent der gemäss § 59 Absatz 2 im gesamten Kanton ermittelten kommunalen Betriebskosten. Die Standardkosten werden angepasst, wenn sich kantonale und weitere übergeordnete Vorgaben auf die kommunalen Betriebskosten auswirken. Die Mehr- und Minderkosten werden zu 50 Prozent an die Standardkosten angerechnet.
+
+<sup>2</sup> Der Kanton entrichtet den Gemeinden seinen Anteil in Form von pauschalen Pro-Kopf-Beiträgen für Lernende des Kindergartens oder der Basisstufe, der Primarschule und der Sekundarschule sowie für Lernende fremder Sprache.
 
 <sup>2<sup>bis</sup></sup> Für die Abgeltung der Kosten von Schulen mit einem hohen Anteil fremdsprachiger Lernender entrichtet der Kanton den Gemeinden einen zusätzlichen Beitrag. Dieser wird nach Schulgrösse abgestuft.
+
+<sup>2<sup>ter</sup></sup> An die Kosten der schul- und familienergänzenden Tagesstrukturen entrichtet der Kanton jeder Gemeinde einen Beitrag im Umfang von 50 Prozent an die anerkannten Nettobetriebskosten. Dabei sollen auch zusätzliche Ressourcen für die Betreuung von Kindern mit einer Sonderschulmassnahme angemessen berücksichtigt werden.
 
 <sup>3</sup> An die Kosten der Sonderschulung gemäss § 7 entrichtet der Kanton Staatsbeiträge im Umfang von 50 Prozent der Betriebskosten. Den Trägerinnen von privaten Sonderschulen richtet er seinen Anteil in Form von Beiträgen pro Lernende oder Lernenden und pro Kalendertag aus.
 
