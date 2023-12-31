@@ -4,11 +4,10 @@ number: "715.1"
 title: Verordnung über den Vollzug der Chemikaliengesetzgebung (VVChem)
 short: VVChem
 language: de
-version: "2023-05-01"
-nachtrag: "121"
-valid_until: 2024-01-01
+version: "2024-01-01"
+nachtrag: "123"
 adopted: 2007-06-06
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-715_1-2007_06_06-2007_07_01-121.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-715_1-2007_06_06-2007_07_01-123.html"
 text: pdf
 ---
 
@@ -67,7 +66,7 @@ beschliesst:
 
 **1**
 
-- 1\. 7. 23 - 121
+- 1\. 1. 24 - 123
 
 <sup>2</sup> Die Betriebe melden der Fachstelle die Chemikalien-Ansprechperson gemäss Art. 25 Abs. 2 ChemG[^3-1].
 
@@ -131,9 +130,9 @@ beschliesst:
 
 - d. vollzieht die Bestimmungen über Fachbewilligungen für die Verwendung von Pflanzenschutzmitteln in der Landwirtschaft und im Wald (Art. 7–11 ChemRRV[^3-5].
 
-**e. AWA**
+**e. AWI20**
 
-§ 6.[^3-2] Das Amt für Wirtschaft und Arbeit (AWA) vollzieht die Massnahmen in Betrieben und Bildungsstätten zum Schutz der Beschäftigten (Art. 25 Abs. 1 ChemG[^3-1], Art. 23, 55 Abs. 2, 57, 62 ChemV[^3-3], Art. 58 Abs. 2 Bst. d und e VBP[^3-4], Art. 59 Abs. 3, 61 und 63 PSMV[^3-6].
+§ 6.[^3-2] Das Amt für Wirtschaft (AWI)[^3-9] vollzieht die Massnahmen in Betrieben und Bildungsstätten zum Schutz der Beschäftigten (Art. 25 Abs. 1 ChemG[^3-1], Art. 23, 55 Abs. 2, 57, 62 ChemV[^3-3], Art. 58 Abs. 2 Bst. d und e VBP[^3-4], Art. 59 Abs. 3, 61 und 63 PSMV[^3-6].
 
 **f. Kantonspolizei**
 
@@ -141,19 +140,19 @@ beschliesst:
 
 **3**
 
-- 1\. 7. 23 - 121 § 8. <sup>1</sup> Die Vollzugshandlungen sind gebührenpflichtig. Die Höhe der Gebühr richtet sich nach der Gebührenordnung für die Verwaltungsbehörden[^3-9].
+- 1\. 1. 24 - 123 § 8. <sup>1</sup> Die Vollzugshandlungen sind gebührenpflichtig. Die Höhe der Gebühr richtet sich nach der Gebührenordnung für die Verwaltungsbehörden[^3-10].
 
 **Gebühren**
 
 <sup>2</sup> Nicht gebührenpflichtig sind:
 
-a.[^3-10] Kontrollen und Untersuchungen, die zu keinen oder nur geringfügigen Beanstandungen führen,
+a.[^3-11] Kontrollen und Untersuchungen, die zu keinen oder nur geringfügigen Beanstandungen führen,
 
 - b. Auskünfte und Beratungen, die unter den allgemeinen Informations- und Beratungsauftrag fallen, sofern sie nicht mit einem besonderen Aufwand verbunden sind.
 
 <sup>3</sup> Für Kontrollen und Untersuchungen des Kantonalen Labors finden die Tarife der Verfügung über die Gebühren des Kantonalen Labors analog Anwendung.[^3-2]
 
-<sup>4</sup> Die Gebührenverordnung zum Vollzug des Umweltrechts vom 3. November 1993 sowie Art. 29 Abs. 4 und 5 DüV[^3-7] bleiben vorbehalten.[^3-10]
+<sup>4</sup> Die Gebührenverordnung zum Vollzug des Umweltrechts vom 3. November 1993 sowie Art. 29 Abs. 4 und 5 DüV[^3-7] bleiben vorbehalten.[^3-11]
 
 **Datenaustausch**
 
@@ -173,8 +172,9 @@ a.[^3-10] Kontrollen und Untersuchungen, die zu keinen oder nur geringfügigen B
 [^3-6]: SR 916.161.
 [^3-7]: SR 916.171.
 [^3-8]: Fassung gemäss RRB vom 24. August 2011 (OS 66, 619; ABl 2011, 2320). In Kraft seit 1. November 2011.
-[^3-9]: LS 682.
-[^3-10]: Fassung gemäss RRB vom 8. Februar 2023 (OS 78, 138; ABl 2023-02-17). In Kraft seit 1. Mai 2023. 1. 7. 23 - 121 5
+[^3-9]: Fassung gemäss RRB vom 12. Dezember 2023 (OS 78, 552; ABl 2023-12-15). In Kraft seit 1. Januar 2024. 1. 1. 24 - 123 5
+[^3-10]: LS 682.
+[^3-11]: Fassung gemäss RRB vom 8. Februar 2023 (OS 78, 138; ABl 2023-02-17). In Kraft seit 1. Mai 2023.
 
 #### § 10
 
@@ -198,7 +198,7 @@ Diese Verordnung tritt am 1. Juli 2007 in Kraft.
 
 Kontrolle der Information über Batterien und Akkumulatoren an Verkaufsstellen (Anhang 2.15 ChemRRV[^h1KantonalesLabor-1].
 
-- 2\. AWEL, ALN und AWA 2.1 Lösungsmittel (Anhang 2.3 ChemRRV[^h1KantonalesLabor-1]:
+- 2\. AWEL, ALN und AWI[^h1KantonalesLabor-2] 2.1 Lösungsmittel (Anhang 2.3 ChemRRV[^h1KantonalesLabor-1]:
 
 - a. Kontrolle der Verwendung in Anlagen zur Oberflächenbehandlung (AWEL),
 
@@ -208,7 +208,7 @@ Kontrolle der Information über Batterien und Akkumulatoren an Verkaufsstellen (
 
 - d. Festlegung von Verwertungspflichten (AWEL),
 
-- e. Kontrolle der Verwendung dichlormethanhaltiger Abbeizer (AWEL und AWA je im Rahmen ihrer anderweitigen Zuständigkeiten).
+- e. Kontrolle der Verwendung dichlormethanhaltiger Abbeizer (AWEL und AWI[^h1KantonalesLabor-2] je im Rahmen ihrer anderweitigen Zuständigkeiten).
 
 2.2 Biozidprodukte (Anhang 2.4 ChemRRV[^h1KantonalesLabor-1]:
 
@@ -254,7 +254,7 @@ Kontrolle der Beigabe von Brennstoffzusätzen (AWEL).
 
 Überwachung der Verwendung in geschlossenen Systemen (AWEL).
 
-2.9[^h1KantonalesLabor-2] Kältemittel (Anhang 2.10 ChemRRV[^h1KantonalesLabor-1]:
+2.9[^h1KantonalesLabor-3] Kältemittel (Anhang 2.10 ChemRRV[^h1KantonalesLabor-1]:
 
 - a. Kontrolle der Entsorgungsbetriebe (AWEL),
 
@@ -264,10 +264,11 @@ Meldepflichten und Wartungsheft (AWEL).
 
 **7**
 
-- 1\. 7. 23 - 121
+- 1\. 1. 24 - 123
 
 [^h1KantonalesLabor-1]: SR 814.81.
-[^h1KantonalesLabor-2]: Eingefügt durch RRB vom 8. Februar 2023 (OS 78, 138; ABl 2023-02-17). In Kraft seit 1. Mai 2023.
+[^h1KantonalesLabor-2]: Fassung gemäss RRB vom 12. Dezember 2023 (OS 78, 552; ABl 2023-12-15). In Kraft seit 1. Januar 2024. 1. 1. 24 - 123 5
+[^h1KantonalesLabor-3]: Eingefügt durch RRB vom 8. Februar 2023 (OS 78, 138; ABl 2023-02-17). In Kraft seit 1. Mai 2023.
 
 ## Weitere Fussnoten
 
