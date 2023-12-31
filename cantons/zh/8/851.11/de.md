@@ -4,11 +4,11 @@ number: "851.11"
 title: Verordnung zum Sozialhilfegesetz (SHV)
 short: SHV
 language: de
-version: "2023-01-01"
-nachtrag: "119"
-valid_until: 2024-01-01
+version: "2024-01-01"
+nachtrag: "123"
+valid_until: 2024-03-01
 adopted: 1981-10-21
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-851_11-1981_10_21-1982_01_01-119.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-851_11-1981_10_21-1982_01_01-123.html"
 text: pdf
 ---
 
@@ -62,7 +62,7 @@ Besorgen Gemeinden Aufgaben der Sozialhilfe gemeinsam in einem Zweckverband, mü
 
 **1**
 
-- 1\. 1. 23 - 119 § 6. Stellen die Referenten Mängel fest, dringen sie auf Abhilfe. Nötigenfalls bewirken sie einen Beschluss des Bezirksrates, welcher der Sicherheitsdirektion<sup>11</sup> bekanntzugeben ist.
+- 1\. 1. 24 - 123 § 6. Stellen die Referenten Mängel fest, dringen sie auf Abhilfe. Nötigenfalls bewirken sie einen Beschluss des Bezirksrates, welcher der Sicherheitsdirektion<sup>11</sup> bekanntzugeben ist.
 
 #### § 7
 
@@ -150,7 +150,7 @@ Personen, die Hilfesuchende beraten und betreuen, müssen aufgrund ihrer Ausbild
 
 **3**
 
-- 1\. 1. 23 - 119
+- 1\. 1. 24 - 123
 
 ### C. Wirtschaftliche Hilfe
 
@@ -224,7 +224,7 @@ Mit der wirtschaftlichen Hilfe können insbesondere folgende Auflagen und Weisun
 
 **5**
 
-- 1\. 1. 23 - 119
+- 1\. 1. 24 - 123
 
 - b. ärztliche oder therapeutische Untersuchung oder Behandlung,
 
@@ -322,7 +322,7 @@ Die Fürsorgebehörde führt für jeden Hilfsfall chronologisch geordnete Akten 
 
 **7**
 
-- 1\. 1. 23 - 119
+- 1\. 1. 24 - 123
 
 <sup>2</sup> Bei Anordnungen von § 48 a Abs. 6 des Sozialhilfegesetzes wird das Observationsmaterial innerhalb von drei Monaten nach Rechtskraft der Anordnung vernichtet. Das Sozialhilfeorgan teilt der betroffenen Person die Vernichtung schriftlich mit.
 
@@ -360,13 +360,11 @@ Die Fürsorgebehörde überprüft periodisch, mindestens einmal jährlich, alle 
 
 <sup>2</sup> Es kann die Kosten von Hilfeleistungen direkt vergüten, wenn die Wohngemeinde des Hilfesuchenden nicht feststeht oder er über keinen Wohnsitz verfügt und die Hilfe ohne Mitwirkung der Aufenthaltsgemeinde geleistet worden ist.<sup>9</sup>
 
-**Staatsbeiträge a. Zuständigkeit**
+**Staatsbeiträge für wirtschaftliche Hilfe26 a. Zuständigkeit b. Anrechenbare Kosten**
 
 § 37.<sup>8</sup> Die Kostenanteile an die wirtschaftliche Hilfe der Gemeinden werden durch das Kantonale Sozialamt<sup>16</sup> festgesetzt und ausgerichtet.
 
 #### § 38
-
-**b. Anrechenbare Kosten**
 
 <sup>1</sup> Die beitragsberechtigten Aufwendungen der Gemeinden werden aufgrund der abgeschlossenen Gutsrechnung ermittelt.
 
@@ -380,6 +378,10 @@ Die Fürsorgebehörde überprüft periodisch, mindestens einmal jährlich, alle 
 
 § 40. Beitragsgesuche sind dem Kantonalen Sozialamt<sup>16</sup> innert sechs Monaten nach Ablauf des Rechnungsjahres einzureichen. Sie müssen die erforderlichen Angaben und Unterlagen enthalten, deren Umfang das Kantonale Sozialamt<sup>16</sup> bestimmt. Es kann Einblick in die Rechnungsführung der gesuchstellenden Fürsorgebehörde nehmen.
 
+**Staatsbeiträge für Heime**
+
+§ 40 a.<sup>25</sup> Die Ausrichtung von Staatsbeiträgen an Organisationen gemäss § 46 Abs. 2 SHG<sup>5</sup> setzt voraus, dass diese kantonsweit tätig sind, ihre Dienstleistungen nach wirtschaftlichen Gesichtspunkten erbringen und an den Dienstleistungen ein öffentliches Interesse besteht.
+
 ### E. Schlussbestimmungen
 
 #### § 41
@@ -388,21 +390,17 @@ Die Fürsorgebehörde überprüft periodisch, mindestens einmal jährlich, alle 
 
 Bestehende private Heime, die nach neuem Recht einer Betriebsbewilligung bedürfen, haben innert sechs Monaten seit Inkrafttreten dieser Verordnung bei der Sicherheitsdirektion<sup>11</sup> um eine Bewilligung nachzusuchen.
 
-#### § 42
+**9**
 
-**Vorläufige Hilfepflicht bei Streitigkeiten**
-
-Bestreitet eine Gemeinde, dass die Hilfepflicht oder Kostentragung für wirtschaftliche Hilfe nach neuem Recht auf sie übergeht, bleibt die bisher unterstützungspflichtige Gemeinde bis zum Entscheid der Sicherheitsdirektion<sup>11</sup> gemäss § 9 lit. e des Gesetzes<sup>5</sup> vorläufig hilfepflichtig.
+- 1\. 1. 24 - 123 § 42. Bestreitet eine Gemeinde, dass die Hilfepflicht oder Kostentragung für wirtschaftliche Hilfe nach neuem Recht auf sie übergeht, bleibt die bisher unterstützungspflichtige Gemeinde bis zum Entscheid der Sicherheitsdirektion<sup>11</sup> gemäss § 9 lit. e des Gesetzes<sup>5</sup> vorläufig hilfepflichtig.
 
 #### § 43
+
+**Vorläufige Hilfepflicht bei Streitigkeiten**
 
 **Bisherige Unterstützungen; anwendbares Recht**
 
 <sup>1</sup> Die Rückerstattung von Unterstützungen, die aufgrund des Gesetzes über die Armenfürsorge<sup>7</sup> ausgerichtet worden sind, erfolgt nach neuem Recht, sofern das bisherige Recht für den Betroffenen nicht günstiger ist.
-
-**9**
-
-- 1\. 1. 23 - 119
 
 <sup>2</sup> Dasselbe gilt im Rekursverfahren für die Beurteilung von Art und Mass der Unterstützungen, die noch nach bisherigem Recht festgelegt worden sind.
 
@@ -460,6 +458,10 @@ Die Gemeinden wenden die geänderten Bestimmungen der SKOS-Richtlinien späteste
 
 Die Gemeinden wenden die geänderten Bestimmungen der SKOS-Richtlinien spätestens ab dem 1. Mai 2017 an.
 
+**11**
+
+- 1\. 1. 24 - 123
+
 ### Übergangsbestimmung zur Änderung vom 17. April 2019 (OS 74, 386)
 
 Die Gemeinden wenden die Teuerungsanpassung spätestens nach vier Monaten nach Inkrafttreten der Verordnungsänderung an.
@@ -469,10 +471,6 @@ Die Gemeinden wenden die Teuerungsanpassung spätestens nach vier Monaten nach I
 (OS 75, 544)
 
 Die Gemeinden wenden die geänderten Bestimmungen der SKOS-Richtlinien spätestens ab dem 1. Mai 2021 an.
-
-**11**
-
-- 1\. 1. 23 - 119
 
 ### Übergangsbestimmungen zur Änderung vom 16. Dezember 2020
 
@@ -512,4 +510,6 @@ Die Gemeinden wenden die Teuerungsanpassung spätestens nach drei Monaten nach I
 - [21] Fassung gemäss RRB vom 4. Dezember 2012 (OS 68, 96; ABl 2012-12-14). In Kraft seit 1. April 2013.
 - [22] Fassung gemäss RRB vom 16. Dezember 2020 (OS 76, 60; ABl 2020-12-24). In Kraft seit 1. April 2021.
 - [23] Eingefügt durch RRB vom 14. April 2021 (OS 76, 230; ABl 2021-04-23). In Kraft seit 1. Juli 2021.
-- [24] Fassung gemäss RRB vom 30. November 2022 (OS 77, 599; ABl 2022-12-09). In Kraft seit 1. Januar 2023. 1. 1. 23 - 119 13
+- [24] Fassung gemäss RRB vom 30. November 2022 (OS 77, 599; ABl 2022-12-09). In Kraft seit 1. Januar 2023.
+- [25] Eingefügt durch RRB vom 19. April 2023 (OS 78, 301; ABl 2023-05-05). In Kraft seit 1. Januar 2024.
+- [26] Fassung gemäss RRB vom 19. April 2023 (OS 78, 301; ABl 2023-05-05). In Kraft seit 1. Januar 2024. 1. 1. 24 - 123 13
