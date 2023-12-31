@@ -4,11 +4,11 @@ title: Ordonnance du 18 novembre 1992 sur la mensuration officielle (OMO)
 short: OMO
 eli: "https://fedlex.data.admin.ch/eli/cc/1992/2446_2446_2446"
 language: fr
-version: 2023-09-01
+version: 2024-01-01
 adopted: 1992-11-18
 in_force: 1993-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/2446_2446_2446/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-1992-2446_2446_2446-20230901-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1992/2446_2446_2446/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/2446_2446_2446/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-1992-2446_2446_2446-20240101-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1992/2446_2446_2446/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1992/2446_2446_2446/20230901/fr"
 
 (OMO)
 
-du 18 novembre 1992 (État le 1<sup>er</sup> septembre 2023)
+du 18 novembre 1992 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -34,13 +34,14 @@ arrête:
 
 #### Art. 1
 
-**Définition et but**[^1-1]
+**Fonctions de la mensuration officielle**[^1-1]
 
-<sup>1</sup> La mensuration officielle au sens de l’art. 950 CC désigne les mensurations approuvées par le canton et reconnues par la Confédération qui sont exécutées en vue de l’établissement et de la tenue du registre foncier.
+La mensuration officielle:
 
-<sup>2</sup> Les données de la mensuration officielle sont des géodonnées de référence utilisées par des autorités fédérales, cantonales et communales, des milieux économiques, des milieux scientifiques et des tiers pour obtenir des géoinformations.
+- a. met à la disposition des autorités fédérales, cantonales et communales, des milieux économiques, des milieux scientifiques et des tiers des géodonnées de référence visées à l’art. 29, al. 1, LGéo concernant des objets se trouvant à la surface du sol, au-dessus ou en dessous d’elle;
+- b. garantit la disponibilité des géodonnées de base nécessaires à l’établissement et à la tenue du registre foncier visés à l’art. 950 CC.
 
-[^1-1]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+[^1-1]: Nouvelle teneur selon le ch. I de l’O du 23 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 1a
 
@@ -53,9 +54,11 @@ La mensuration officielle est régie par l’ordonnance du 21 mai 2008 sur la g�
 
 #### Art. 2
 
-[^2-1]
+**Participation des cantons, audition des organisations**[^2-1]
 
-[^2-1]: Abrogé par le ch. I de l’O du 21 mai 2008, avec effet au 1<sup>er</sup> juil. 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+Lors de l’élaboration de normes techniques et d’autres prescriptions de la Confédération relevant du champ d’application de la présente ordonnance et ne concernant pas exclusivement l’administration fédérale, la Confédération garantit la participation des cantons et l’audition des organisations partenaires de manière adéquate.
+
+[^2-1]: Nouvelle teneur selon le ch. I de l’O du 23 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 3
 
@@ -65,79 +68,55 @@ La mensuration officielle est régie par l’ordonnance du 21 mai 2008 sur la g�
 
 <sup>2</sup> Les cantons établissent des plans de mise en œuvre qui servent de base pour conclure les conventions-programmes visées à l’art. 31, al. 2, LGéo.
 
-<sup>3</sup> En cas de remaniement parcellaire et dans les régions où un remaniement agricole ou sylvicole est nécessaire, mais impossible à réaliser dans un proche avenir, les travaux techniques visant à saisir les données de la couche d’information «biens-fonds» sont exécutés selon une méthode simplifiée. Le DDPS fixe les exigences techniques applicables.
+<sup>3</sup> ...[^3-2]
 
 [^3-1]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+[^3-2]: Abrogé par le ch. I de l’O du 23 août 2023, avec effet au 1<sup>er</sup> janv. 2024 ([RO 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 4
 
-**Installations militaires**
+**Ouvrages militaires**[^4-1]
 
-Les dispositions relatives à la mensuration des installations militaires qui dérogent à la présente ordonnance sont réservées.
+<sup>1</sup> Les dispositions relatives à la mensuration des ouvrages militaires qui dérogent à la présente ordonnance sont réservées.
+
+<sup>2</sup> Lors du passage d’ouvrages militaires à une utilisation civile, le DDPS régit les modalités d’enregistrement dans la mensuration officielle et la prise en charge des frais.
+
+[^4-1]: Nouvelle teneur selon le ch. I de l’O du 23 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 ## Chapitre 2 Contenu de la mensuration officielle
 
 #### Art. 5
 
-**Éléments de la mensuration officielle**
+**Éléments de la mensuration officielle**[^5-1]
+
+<sup>1</sup>
 
 La mensuration officielle comprend:
 
-- a. les points de repère et les signes de démarcation;
-- b.[^5-1] les données selon le modèle de données de la mensuration officielle;
-- c.[^5-2] le plan du registre foncier et les autres extraits des données de la mensuration officielle établis en vue de la tenue du registre foncier;
-- d. les documents techniques à établir;
-- e. les éléments et les documents de l’ancienne mensuration officielle;
-- f.[^5-3] le plan de base de la mensuration officielle.
+- a. les données;
+- b. les repères des points fixes et les signes de démarcation sur le terrain (signes ponctuels);
+- c. les documents techniques et administratifs;
+- d. les éléments et les documents de l’ancienne mensuration officielle.
 
-[^5-1]: Nouvelle teneur selon le ch. I de l’O du 7 mars 2003, en vigueur depuis le 1<sup>er</sup> avr. 2003 ([RO 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
-[^5-2]: Nouvelle teneur selon le ch. I de l’O du 7 mars 2003, en vigueur depuis le 1<sup>er</sup> avr. 2003 ([RO 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
-[^5-3]: Introduite par le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+<sup>2</sup> Le DDPS règle les détails, en matière notamment de produits dérivés issus des données de la mensuration officielle. L’art. 7 est réservé.
+
+[^5-1]: Nouvelle teneur selon le ch. I de l’O du 23 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 6
 
-**Modèle de données de la mensuration officielle**[^6-1]
+**Modèle de géodonnées de la mensuration officielle**[^6-1]
 
-<sup>1</sup> Le modèle de données décrit le contenu, selon un catalogue d’objets et la structure des données dans un langage normalisé de description des données.
+<sup>1</sup> Le DDPS fixe les exigences applicables au modèle de géodonnées pour la mensuration officielle, notamment en matière de contenu, de dimensions, de précision et de fiabilité. Le modèle de géodonnées peut présenter une structure modulaire.
 
-<sup>2</sup>
+<sup>2</sup> Les extensions cantonales du modèle de géodonnées ne sont pas admises.
 
-Le catalogue des objets comprend les couches d’information suivantes:
-
-- a. points fixes;
-- b. couverture du sol;
-- c. objets divers;
-- d. altimétrie;
-- e. nomenclature;
-- f. biens-fonds;
-- g. conduites;
-- h.[^6-2] limites territoriales;
-- i.[^6-3] territoires en mouvement permanent;
-- j.[^6-4] adresses de bâtiments;
-- k.[^6-5] divisions administratives.
-
-<sup>3</sup> La couche d’information «biens-fonds» comprend les immeubles visés à l’art. 655, al. 2, CC, pour autant qu’ils puissent être différenciés par la surface, à l’exception des parts de copropriété.[^6-6]
-
-[^6-1]: Nouvelle teneur selon le ch. I de l’O du 7 mars 2003, en vigueur depuis le 1<sup>er</sup> avr. 2003 ([RO 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
-[^6-2]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
-[^6-3]: Introduite par le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
-[^6-4]: Introduite par le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
-[^6-5]: Introduite par le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
-[^6-6]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+[^6-1]: Nouvelle teneur selon le ch. I de l’O du 23 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 6a
 
-**Compétence du DDPS**[^6a-1]
+[^6a-1]
 
-<sup>1</sup> Le DDPS décrit le catalogue des objets et fixe les données à saisir, leur degré de précision et de fiabilité, ainsi que les autres exigences qui s’y rapportent. Il est autorisé à déroger aux art. 3, 10 et 17 OGé[^6a-2] [^6a-3] lorsque des raisons objectives l’exigent.
-
-<sup>2</sup> Il fixe l’interface de la mensuration officielle (IMO).
-
-<sup>3</sup> Il définit le contenu, la mise à jour et la gestion des extraits des données de la mensuration officielle, ainsi que la documentation technique à établir.
-
-[^6a-1]: Introduite par le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
-[^6a-2]: Nouvelle expression selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 764](https://fedlex.data.admin.ch/eli/oc/2022/764)). Il a été tenu compte de cette mod. dans tout le texte.
-[^6a-3]: [RS 510.620](https://fedlex.data.admin.ch/eli/cc/2008/389)
+[^6a-1]: Introduit par le ch. I de l’O du 21 mai 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)). Abrogé par le ch. I de l’O du 23 août 2023, avec effet au 1<sup>er</sup> janv. 2024 ([RO 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 6<sup>bis</sup>
 
@@ -149,18 +128,24 @@ Le catalogue des objets comprend les couches d’information suivantes:
 
 **Plan du registre foncier**[^7-1]
 
-<sup>1</sup> Le plan du registre foncier est un produit graphique établi sous forme analogique ou numérique à partir des données de la mensuration officielle et qui, en tant qu’élément constitutif du registre foncier, délimite les biens-fonds, ainsi que les droits distincts et permanents et les mines différenciés par la surface; il acquiert la force juridique des inscriptions au registre foncier.[^7-2]
+<sup>1</sup> Le plan du registre foncier est un extrait analogique ou numérique issu des données de la mensuration officielle.
 
-<sup>2</sup> Il comprend le contenu des couches d’information «points fixes», «couverture du sol», «objets divers», «nomenclature», «biens-fonds», «conduites», «limites territoriales», «adresses de bâtiments» et «divisions administratives».[^7-3]
+<sup>2</sup>
 
-<sup>3</sup> Les cantons peuvent en outre prescrire que soient représentées également les limites de servitudes, pour autant qu’elles soient définies clairement sur le terrain.
+Il contient au moins les données concernant:
 
-<sup>4</sup> La Direction fédérale des mensurations cadastrales définit le modèle de représentation du plan du registre foncier.[^7-4]
+- a. les points limites et le tracé des limites des biens-fonds (art. 943, al. 1, ch. 1, CC);
+- b. les points limites et le tracé des limites des droits distincts et permanents sur des immeubles différenciés par la surface (art. 943, al. 1, ch. 2, CC);
+- c. les mines (art. 943, al. 1, ch. 3, CC);
+- d. les zones de territoires en mouvement permanent (art. 660*a* CC).
 
-[^7-1]: Nouvelle teneur selon le ch. I de l’O du 7 mars 2003, en vigueur depuis le 1<sup>er</sup> avr. 2003 ([RO 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
-[^7-2]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
-[^7-3]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
-[^7-4]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+<sup>3</sup> Le contenu minimal du plan bénéficie des effets attachés au registre foncier (art. 971 à 974 CC).
+
+<sup>4</sup> Les cantons peuvent en outre prescrire que soient représentées également les limites de servitudes, pour autant qu’elles soient définies clairement sur le terrain.
+
+<sup>5</sup> Le Département fédéral de justice et police (DFJP) et le DDPS fixent conjointement les exigences applicables au plan du registre foncier et à d’autres extraits, notamment en matière de contenu et de représentation.
+
+[^7-1]: Nouvelle teneur selon le ch. I de l’O du 23 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 8 et 9
 
@@ -170,12 +155,9 @@ Le catalogue des objets comprend les couches d’information suivantes:
 
 #### Art. 10
 
-**Extensions cantonales du modèle de données de la Confédération**[^10-1]
+[^10-1]
 
-Les cantons peuvent élargir le contenu de la mensuration officielle prévu par le droit fédéral dans les limites fixées par le DDPS[^10-2] et prescrire des exigences supplémentaires en matière de mensuration.
-
-[^10-1]: Nouvelle teneur selon le ch. I de l’O du 7 mars 2003, en vigueur depuis le 1<sup>er</sup> avr. 2003 ([RO 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
-[^10-2]: Nouvelle expression selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)). Il a été tenu compte de cette modification dans tout le présent texte.
+[^10-1]: Abrogé par le ch. I de l’O du 23 août 2023, avec effet au 1<sup>er</sup> janv. 2024 ([RO 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 ## Chapitre 3 Abornement
 
@@ -187,9 +169,9 @@ Les cantons peuvent élargir le contenu de la mensuration officielle prévu par 
 
 <sup>1</sup> L’abornement comprend la détermination des limites et la pose des signes de démarcation.
 
-<sup>2</sup> Sont abornées les limites territoriales, les limites de biens-fonds et les limites de droits distincts et permanents, pour autant qu’ils puissent être différenciés par la surface.[^11-1]
+<sup>2</sup> Sont abornées les limites territoriales, les limites des biens-fonds et les limites des droits distincts et permanents, pour autant qu’ils puissent être différenciés par la surface. L’art. 17 est réservé.[^11-1]
 
-[^11-1]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+[^11-1]: Nouvelle teneur selon le ch. I de l’O du 23 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 12
 
@@ -210,28 +192,29 @@ Les cantons édictent les dispositions relatives à l’abornement dans les limi
 Les cantons peuvent prescrire que les limites soient déterminées sur la base de plans, de photos aériennes ou de tout autre document approprié:
 
 - a.[^13-1] dans les régions agricoles ou forestières en zone de montagne ou d’estivage selon le cadastre de la production agricole[^13-2] ainsi que dans les régions improductives;
-- b. lors d’une mise à jour, si les propriétaires concernés y consentent.
+- b.[^13-3] lors d’une mise à jour, si les propriétaires fonciers concernés y consentent.
 
 [^13-1]: Nouvelle teneur selon le ch. I de l’O du 7 mars 2003, en vigueur depuis le 1<sup>er</sup> avr. 2003 ([RO 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
 [^13-2]: [RS 912.1](https://fedlex.data.admin.ch/eli/cc/1999/46)
+[^13-3]: Nouvelle teneur selon le ch. I de l’O du 23 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 14
 
 **Tracé des limites**[^14-1]
 
-<sup>1</sup> Le tracé des limites n’utilise que la ligne droite ou un arc de cercle entre deux points limites.
+<sup>1</sup> Le tracé des limites n’utilise que la ligne droite ou l’arc de cercle entre deux points limites.
 
-<sup>2</sup> Une simplification du tracé des limites doit être visée lors du premier relevé, du renouvellement et de la mise à jour de la couche d’information «biens-fonds». Le tracé des limites existantes doit si possible être rectifié.
+<sup>2</sup> Une simplification du tracé des limites doit être visée lors du premier relevé, du renouvellement et de la mise à jour permanente. Le tracé des limites existantes doit si possible être rectifié.
 
-[^14-1]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+[^14-1]: Nouvelle teneur selon le ch. I de l’O du 23 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 14a
 
 **Correction de contradictions**[^14a-1]
 
-Des contradictions relevées entre les plans de la mensuration officielle et la réalité ou entre ces plans sont corrigées d’office.
+Des contradictions relevées entre les données de la mensuration officielle et la situation sur le terrain ou entre le plan du registre foncier et d’autres plans de la mensuration officielle sont corrigées d’office en tenant compte de l’art. 668, al. 2, CC.
 
-[^14a-1]: Introduit par le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+[^14a-1]: Introduit par le ch. I de l’O du 21 mai 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)). Nouvelle teneur selon le ch. I de l’O du 23 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 ### Section 3 Pose des signes de démarcation
 
@@ -245,7 +228,7 @@ Les signes de démarcation sont posés de telle sorte que les limites soient tou
 
 **Moment de la pose**
 
-<sup>1</sup> En règle générale, les signes de démarcation sont posés avant la première saisie des données de la couche d’information «biens-fonds».
+<sup>1</sup> En règle générale, les signes de démarcation sont posés avant la première saisie des limites.[^16-1]
 
 <sup>2</sup>
 
@@ -255,6 +238,8 @@ Des signes de démarcation isolés peuvent être posés après la saisie des don
 - b. si, pour un motif important, il n’est pas possible ou judicieux de faire ce travail avant la saisie.
 
 <sup>3</sup> Les signes de démarcation manquants au sens de l’al. 2 sont posés dès que les circonstances le permettent.
+
+[^16-1]: Nouvelle teneur selon le ch. I de l’O du 23 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 17
 
@@ -287,15 +272,19 @@ Les cantons peuvent prévoir d’autres exceptions, notamment:
 
 <sup>1</sup> Un premier relevé consiste à saisir les éléments de la mensuration officielle dans les régions dépourvues d’une mensuration officielle approuvée définitivement, ainsi que dans les régions visées à l’art. 51, al. 3 et 4.
 
-<sup>2</sup> Un renouvellement consiste à modifier et compléter les éléments d’une mensuration officielle approuvée définitivement pour les adapter aux exigences des présentes dispositions.
+<sup>2</sup> Un renouvellement consiste à modifier ou à compléter une mensuration officielle approuvée définitivement pour l’adapter aux exigences des présentes dispositions.[^18-1]
 
 <sup>3</sup> Une mise à jour consiste à adapter les éléments de la mensuration officielle lorsque les conditions juridiques ou réelles ont changé.
+
+[^18-1]: Nouvelle teneur selon le ch. I de l’O du 23 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 19
 
 **Méthode**
 
-La Direction fédérale des mensurations cadastrales peut édicter des directives sur la manière de procéder aux premiers relevés, aux renouvellements et aux mises à jour.
+Le service spécialisé Direction fédérale des mensurations cadastrales[^19-1] peut édicter des directives sur la manière de procéder aux premiers relevés, aux renouvellements et aux mises à jour.
+
+[^19-1]: Nouvelle expression selon le ch. I de l’O du 23 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 20
 
@@ -310,13 +299,14 @@ Les références planimétrique et altimétrique de la mensuration officielle so
 
 **Date d’exécution**[^21-1]
 
-<sup>1</sup> La Direction fédérale des mensurations cadastrales et le service compétent du canton planifient l’exécution de la mensuration officielle sur la base de la convention-programme.
+<sup>1</sup> Le service spécialisé Direction fédérale des mensurations cadastrales et le service compétent du canton planifient l’exécution de la mensuration officielle sur la base de la convention-programme.
 
 <sup>2</sup> Le canton fixe la date d’exécution des différents travaux de mensuration. Il règle la procédure d’audition.
 
-<sup>3</sup> Il peut prescrire l’exécution par étapes du premier relevé et du renouvellement. Chaque étape doit comprendre au moins une couche d’information complète et couvrir une région d’un seul tenant et d’une certaine ampleur; la couche d’information «points fixes» doit être saisie pendant la première étape. Si un autre mode opératoire semble techniquement opportun, il le soumet à la Direction fédérale des mensurations cadastrales pour approbation.
+<sup>3</sup> ...[^21-2]
 
 [^21-1]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+[^21-2]: Abrogé par le ch. I de l’O du 23 août 2023, avec effet au 1<sup>er</sup> janv. 2024 ([RO 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 ### Section 2 Mise à jour
 
@@ -328,13 +318,15 @@ Tous les éléments de la mensuration officielle sont sujets à la mise à jour.
 
 #### Art. 23
 
-**Mise à jour permanente**
+**Mise à jour permanente**[^23-1]
 
-<sup>1</sup> Les éléments de la mensuration officielle pour la mise à jour desquels un système d’annonces peut être organisé doivent être mis à jour dans un délai d’un an à compter de l’instant où survient une modification.[^23-1]
+<sup>1</sup> Les éléments de la mensuration officielle pour la mise à jour desquels un système d’annonces peut être organisé doivent être mis à jour dans un délai de six mois à compter de l’instant où survient une modification.
 
-<sup>2</sup> Les cantons règlent le système d’annonces et fixent les délais de mise à jour.
+<sup>2</sup> Les cantons peuvent prévoir des délais différents pour des cas justifiés, après audition du service spécialisé Direction fédérale des mensurations cadastrales.
 
-[^23-1]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+<sup>3</sup> Ils règlent le système d’annonces.
+
+[^23-1]: Nouvelle teneur selon le ch. I de l’O du 23 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 24
 
@@ -344,46 +336,33 @@ Tous les éléments de la mensuration officielle sont sujets à la mise à jour.
 
 <sup>2</sup> Toute mise à jour périodique doit couvrir un large territoire formant un tout.
 
-<sup>3</sup> Le cycle de mise à jour est si possible calqué sur celui de la mensuration nationale. Il ne doit pas excéder douze ans.[^24-1]
+<sup>3</sup> Le cycle de mise à jour est si possible calqué sur celui de la mensuration nationale. Il ne doit pas excéder douze ans. Le DDPS régit la mise à jour en détail.[^24-1]
 
-[^24-1]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+[^24-1]: Nouvelle teneur selon le ch. I de l’O du 23 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 25
 
-**Mise à jour et registre foncier**
+[^25-1]
 
-<sup>1</sup> Le conservateur du registre foncier ne doit inscrire au registre le partage ou la réunion de biens-fonds et de droits distincts et permanents différenciés par la surface que sur présentation d’un document signé par l’ingénieur géomètre compétent inscrit au registre des géomètres.[^25-1]
-
-<sup>2</sup> Les cantons règlent au demeurant les relations entre la mensuration officielle et le registre foncier.
-
-[^25-1]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+[^25-1]: Abrogé par le ch. I de l’O du 23 août 2023, avec effet au 1<sup>er</sup> janv. 2024 ([RO 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 ### Section 3 Vérification
 
 #### Art. 26
 
-<sup>1</sup> Tous les éléments de la mensuration officielle sont examinés quant à leur qualité et leur intégralité par le service cantonal du cadastre, conformément aux directives de la Direction fédérale des mensurations cadastrales. L’al. 2 est réservé.
+[^26-1]
 
-<sup>2</sup> La vérification des points fixes planimétriques 2 et des points fixes altimétriques 2 incombe à l’Office fédéral de topographie. Le DDPS définit les termes «point fixe planimétrique» et «point fixe altimétrique».
+Tous les éléments de la mensuration officielle sont examinés quant à leur qualité et leur intégralité par le service cantonal du cadastre (art. 42), conformément aux directives du service spécialisé Direction fédérale des mensurations cadastrales.
+
+[^26-1]: Nouvelle teneur selon le ch. I de l’O du 23 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 ### Section 4 Procédure d’opposition, approbation et indemnisation
 
 #### Art. 27
 
-**Examen préalable**
+[^27-1]
 
-<sup>1</sup> Une fois la vérification achevée, la Direction fédérale des mensurations cadastrales[^27-1] examine si les exigences fédérales ont été respectées. Elle détermine les documents à transmettre.[^27-2]
-
-<sup>2</sup> Elle communique au canton le résultat de son examen dans un rapport et lui garantit le versement des indemnités pour autant que les défauts relevés soient corrigés.
-
-<sup>3</sup> Les défauts éventuellement relevés dans le rapport doivent être corrigés avant l’enquête publique.[^27-3]
-
-<sup>4</sup> La Confédération et le canton peuvent convenir de renoncer à l’examen préalable.[^27-4]
-
-[^27-1]: Nouvelle expression selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
-[^27-2]: Nouvelle teneur selon le ch. I de l’O du 7 mars 2003, en vigueur depuis le 1<sup>er</sup> avr. 2003 ([RO 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
-[^27-3]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
-[^27-4]: Introduit par le ch. I de l’O du 28 janv. 1998 ([RO 1998 270](https://fedlex.data.admin.ch/eli/oc/1998/270_270_270)). Nouvelle teneur selon le ch. I de l’O du 7 mars 2003, en vigueur depuis le 1<sup>er</sup> avr. 2003 ([RO 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
+[^27-1]: Abrogé par le ch. I de l’O du 23 août 2023, avec effet au 1<sup>er</sup> janv. 2024 ([RO 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 28
 
@@ -400,40 +379,42 @@ Les cantons règlent la procédure, en respectant les principes suivants:
 - a. l’enquête publique dure 30 jours;
 - b. elle fait l’objet d’une publication officielle;
 - c. les propriétaires fonciers dont l’adresse est connue sont en outre informés par courrier simple de l’ouverture de l’enquête et des voies de recours à leur disposition;
-- d. une copie d’un extrait du plan du registre foncier est remise au propriétaire foncier qui en fait la demande;
+- d.[^28-2] un extrait relatif à son immeuble, issu du plan du registre foncier et respectant l’art. 7, al. 2, let. a à c, est remis au propriétaire foncier qui en fait la demande;
 - e. la décision prise lors de la procédure d’opposition peut faire l’objet d’un recours devant une autorité cantonale; cette dernière examine librement la décision;
-- f. la décision peut faire l’objet d’un recours en dernière instance cantonale devant un tribunal au sens de l’art. 75, al. 2, de la loi du 17 juin 2005 sur le Tribunal fédéral[^28-2].
+- f. la décision peut faire l’objet d’un recours en dernière instance cantonale devant un tribunal au sens de l’art. 75, al. 2, de la loi du 17 juin 2005 sur le Tribunal fédéral[^28-3].
+
+<sup>4</sup> Ils peuvent prévoir que l’enquête publique et la publication officielle aient exclusivement lieu sous forme électronique.[^28-4]
 
 [^28-1]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
-[^28-2]: [RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^28-2]: Nouvelle teneur selon le ch. I de l’O du 23 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
+[^28-3]: [RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^28-4]: Introduit par le ch. I de l’O du 23 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 29
 
 **Approbation**[^29-1]
 
-<sup>1</sup>
-
-Au terme de l’enquête publique et après le règlement des oppositions formées auprès de la première instance, l’autorité cantonale compétente approuve, indépendamment des litiges à régler par voie judiciaire, les données de la mensuration officielle et les extraits produits sur cette base, notamment le plan du registre foncier, dès lors:
-
-- a. que les données répondent aux exigences qualitatives et techniques prévues par le droit fédéral;
-- b. qu’un éventuel examen préalable a donné un résultat favorable, et
-- c. que les défauts relevés par un examen préalable ont été corrigés.[^29-2]
+<sup>1</sup> Au terme de l’enquête publique et après le règlement des oppositions formées auprès de la première instance, l’autorité cantonale compétente approuve, indépendamment des litiges à régler par voie judiciaire, les données de la mensuration officielle et les extraits produits sur cette base, notamment le plan du registre foncier, dès lors que les données répondent aux exigences qualitatives et techniques prévues par le droit fédéral.[^29-2]
 
 <sup>2</sup> L’approbation confère à ces éléments de la mensuration le caractère de documents officiels.
 
 [^29-1]: Nouvelle teneur selon le ch. I de l’O du 7 mars 2003, en vigueur depuis le 1<sup>er</sup> avr. 2003 ([RO 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
-[^29-2]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+[^29-2]: Nouvelle teneur selon le ch. I de l’O du 23 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 30
 
 **Reconnaissance par la Confédération**[^30-1]
 
-La Direction fédérale des mensurations cadastrales reconnaît les travaux de mensuration lorsque:
+<sup>1</sup>
 
-- a. les données répondent aux exigences qualitatives et techniques prévues par le droit fédéral, et que
+Le service spécialisé Direction fédérale des mensurations cadastrales reconnaît les travaux de mensuration lorsque:
+
+- a. son examen formel a révélé que les données répondent aux exigences prévues par le droit fédéral, et que
 - b. les travaux de mensuration ont été approuvés par le canton.
 
-[^30-1]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+<sup>2</sup> Il détermine les documents à transmettre par l’autorité cantonale compétente.
+
+[^30-1]: Nouvelle teneur selon le ch. I de l’O du 23 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 30<sup>bis</sup>
 
@@ -451,7 +432,7 @@ La Direction fédérale des mensurations cadastrales reconnaît les travaux de m
 
 <sup>1</sup>
 
-La Direction fédérale des mensurations cadastrales peut autoriser que soient menés au niveau cantonal ou dans des zones géographiquement limitées des projets pilotes de mensuration officielle destinés à tester ou à développer:
+Le service spécialisé Direction fédérale des mensurations cadastrales peut autoriser que soient menés au niveau cantonal ou dans des zones géographiquement limitées des projets pilotes de mensuration officielle destinés à tester ou à développer:
 
 - a. de nouveaux processus et de nouvelles compétences;
 - b. de nouvelles technologies;
@@ -482,11 +463,15 @@ Pour chaque projet pilote, le DDPS arrête dans une ordonnance séparée, en acc
 
 #### Art. 31
 
-**Entretien**
+**...[^31-1]**
 
 <sup>1</sup> Les éléments de la mensuration officielle doivent être gérés de manière à garantir en permanence leur état et leur qualité.
 
-<sup>2</sup> Le DDPS fixe les exigences d’ordre technique et organisationnel en matière de gestion, en particulier en ce qui concerne la sécurité des données, l’archivage et l’établissement de leur historique.
+<sup>2</sup> Le DDPS fixe les exigences d’ordre technique et organisationnel en matière de gestion, en particulier en ce qui concerne la sécurité des données, l’archivage et l’établissement de l’historique conformément aux art. 13 à 16 OGéo[^31-2].[^31-3]
+
+[^31-1]: Abrogé par le ch. I de l’O du 23 août 2023, avec effet au 1<sup>er</sup> janv. 2024 ([RO 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
+[^31-2]: [RS 510.620](https://fedlex.data.admin.ch/eli/cc/2008/389)
+[^31-3]: Nouvelle teneur selon le ch. I de l’O du 23 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 32
 
@@ -512,6 +497,11 @@ Abrogé
 
 <sup>2</sup> Le canton désigne le service qui décide de l’accès et de l’utilisation des données et qui est responsable de la remise d’extraits et de restitutions.
 
+<sup>3</sup> L’Office fédéral de topographie exploite un géoservice pour l’accès en réseau aux données de la mensuration officielle (art. 36, let. e, OGéo[^34-1]).[^34-2]
+
+[^34-1]: [RS 510.620](https://fedlex.data.admin.ch/eli/cc/2008/389)
+[^34-2]: Introduit par le ch. I de l’O du 23 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
+
 #### Art. 35
 
 **Description des extraits et des restitutions**
@@ -520,33 +510,42 @@ Les géométadonnées font aussi partie des données remises avec les extraits e
 
 #### Art. 36
 
-**Interface de la mensuration officielle**
+**Service de téléchargement et interfaces**[^36-1]
 
-L’accès aux données de la mensuration officielle doit au moins être garanti comme service de téléchargement via l’IMO.
+<sup>1</sup> L’accès aux données de la mensuration officielle doit être garanti via un service de téléchargement.
+
+<sup>2</sup> Le DDPS règle les détails techniques et organisationnels du service.
+
+<sup>3</sup> Il peut prévoir d’autres interfaces.
+
+[^36-1]: Nouvelle teneur selon le ch. I de l’O du 23 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 37
 
 **Extraits certifiés conformes**
 
-<sup>1</sup> Les extraits certifiés conformes sont des extraits des géodonnées de base de la mensuration officielle, produits sous forme analogique ou numérique, dont la conformité avec les données en vigueur de la mensuration officielle a été certifiée par un ingénieur géomètre inscrit au registre des géomètres.
+<sup>1</sup> Les extraits certifiés conformes sont des extraits des données de la mensuration officielle, produits sous forme analogique ou numérique, dont la conformité avec les données en vigueur de la mensuration officielle a été certifiée par un ingénieur géomètre inscrit au registre des géomètres et habilité à délivrer de tels extraits en vertu de l’art. 46a, al. 1, let. b.[^37-1]
 
 <sup>2</sup> Les extraits certifiés conformes constituent des documents officiels au sens de l’art. 9 CC.
 
-<sup>3</sup> Le DDPS réglemente la délivrance sous forme électronique des extraits certifiés conformes.
+<sup>3</sup> ...[^37-2]
+
+[^37-1]: Nouvelle teneur selon le ch. I de l’O du 23 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
+[^37-2]: Abrogé par le ch. I de l’O du 23 août 2023, avec effet au 1<sup>er</sup> janv. 2024 ([RO 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 38
 
-**Émoluments perçus pour l’établissement du certificat de conformité**
+[^38-1]
 
-<sup>1</sup> Un émolument uniforme est perçu pour l’établissement du certificat de conformité, en plus des émoluments perçus pour la remise des extraits de données. Cet émolument est fixé par le DDPS.
-
-<sup>2</sup> Lorsque le certificat de conformité n’est pas établi lors de la remise des données, l’émolument est calculé au prorata du temps consacré.
+[^38-1]: Abrogé par le ch. I de l’O du 23 août 2023, avec effet au 1<sup>er</sup> janv. 2024 ([RO 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 39
 
-**Remise à des autorités fédérales**
+**Remise à des autorités fédérales**[^39-1]
 
-Le contrat visé à l’art. 14, al. 3, LGéo, doit prévoir que seuls les frais liés au mandat et au temps qui y est consacré sont facturés aux autorités fédérales pour la remise de données de la mensuration officielle.
+Si l’échange de données entre autorités n’est pas réglé par le contrat visé à l’art. 14, al. 3, LGéo, la remise des données de la mensuration officielle à des autorités fédérales est indemnisée sur la seule base des frais liés au mandat et au temps qui y est consacré.
+
+[^39-1]: Nouvelle teneur selon le ch. I de l’O du 23 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 ## Chapitre 7 Organisation et exécution
 
@@ -556,28 +555,26 @@ Le contrat visé à l’art. 14, al. 3, LGéo, doit prévoir que seuls les frais
 
 **Service spécialisé de la Confédération**
 
-<sup>1</sup> La Direction fédérale des mensurations cadastrales est le service spécialisé de la Confédération. Elle est dirigée par un ingénieur géomètre inscrit au registre des géomètres.[^40-1]
+<sup>1</sup> Le service spécialisé Direction fédérale des mensurations cadastrales est le service spécialisé de la Confédération. Il est dirigé par un ingénieur géomètre inscrit au registre des géomètres.[^40-1]
 
-<sup>2</sup> Elle est chargée de la direction générale et de la haute surveillance en matière de mensuration officielle.
+<sup>2</sup> Il est chargé de la direction générale et de la haute surveillance en matière de mensuration officielle.
 
-<sup>3</sup> Elle veille à la mise en œuvre et à l’application des prescriptions relatives aux exigences qualitatives et techniques qui s’appliquent à la mensuration officielle.[^40-2]
+<sup>3</sup> Il veille à la mise en œuvre et à l’application des prescriptions relatives aux exigences qualitatives et techniques qui s’appliquent à la mensuration officielle.[^40-2]
 
-<sup>4</sup> Elle assure en outre la coordination entre la mensuration officielle et les autres projets de mensuration de la Confédération, elle conseille les services fédéraux lors de l’acquisition de données de la mensuration officielle et représente les intérêts de la Confédération vis-à-vis des cantons et des tiers.[^40-3]
+<sup>3bis</sup> Il veille à poursuivre le développement du modèle de géodonnées de la mensuration officielle avec la participation de l’Office fédéral chargé du droit du registre foncier et du droit foncier, des cantons et des organisations partenaires; il peut instaurer des groupes de travail à cette fin.[^40-3]
 
-<sup>5</sup> En collaboration avec les organes cantonaux chargés de la surveillance de la mensuration officielle, elle est habilitée, dans les limites de sa tâche, à traiter des données concernant les différents travaux de mensuration et les adjudicataires mandatés à cet effet.[^40-4]
+<sup>4</sup> Il assure en outre la coordination entre la mensuration officielle et les autres projets de mensuration de la Confédération, il conseille les services fédéraux lors de l’acquisition de données de la mensuration officielle et représente les intérêts de la Confédération vis-à-vis des cantons et des tiers.[^40-4]
 
-<sup>6</sup>
+<sup>5</sup> En collaboration avec les organes cantonaux chargés de la surveillance de la mensuration officielle, il est habilité, dans les limites de sa tâche, à traiter des données concernant les différents travaux de mensuration et les adjudicataires mandatés à cet effet.[^40-5]
 
-Dans le cadre des conventions-programmes, elle fixe:
-
-- a. les travaux de mensuration considérés comme des adaptations particulières qui présentent un intérêt national exceptionnellement élevé;
-- b. les travaux de mensuration considérés comme des mises à jour périodiques.[^40-5]
+<sup>6</sup> ...[^40-6]
 
 [^40-1]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
 [^40-2]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
-[^40-3]: Nouvelle teneur selon le ch. I de l’O du 7 mars 2003, en vigueur depuis le 1<sup>er</sup> avr. 2003 ([RO 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
-[^40-4]: Introduit par le ch. I de l’O du 7 mars 2003 ([RO 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)). Nouvelle teneur selon l’annexe 2 ch. II 28 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^40-5]: Introduit par le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+[^40-3]: Introduit par le ch. I de l’O du 23 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
+[^40-4]: Nouvelle teneur selon le ch. I de l’O du 7 mars 2003, en vigueur depuis le 1<sup>er</sup> avr. 2003 ([RO 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
+[^40-5]: Introduit par le ch. I de l’O du 7 mars 2003 ([RO 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)). Nouvelle teneur selon l’annexe 2 ch. II 28 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^40-6]: Introduit par le ch. I de l’O du 21 mai 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)). Abrogé par le ch. I de l’O du 23 août 2023, avec effet au 1<sup>er</sup> janv. 2024 ([RO 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 41
 
@@ -585,24 +582,34 @@ Dans le cadre des conventions-programmes, elle fixe:
 
 [^41-1]: Abrogé par le ch. I de l’O du 21 mai 2008, avec effet au 1<sup>er</sup> juil. 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
 
-### Section 2 Surveillance cantonale
+### Section 2 Service du cadastre
+
+[^chap7-sec2-1]
+
+[^chap7-sec2-1]: Nouvelle teneur selon le ch. I de l’O du 23 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 42
 
-<sup>1</sup> Le canton désigne le service compétent pour la surveillance de la mensuration officielle (service du cadastre). Ce service est placé sous la direction d’un ingénieur géomètre inscrit au registre des géomètres.[^42-1]
+**Service cantonal du cadastre[^42-1]**
 
-<sup>2</sup> Le service du cadastre dirige, surveille et vérifie les travaux de la mensuration officielle. Il veille à la coordination entre la mensuration officielle et d’autres projets de mensuration et systèmes de géoinformation.[^42-2]
+<sup>1</sup> Le canton désigne le service compétent pour la surveillance de la mensuration officielle (service du cadastre). Ce service est placé sous la direction technique autonome d’un ingénieur géomètre inscrit au registre des géomètres.[^42-2]
 
-<sup>3</sup> Un canton qui n’est pas en mesure de remplir ses tâches de surveillance de la mensuration peut en déléguer tout ou partie à la Direction fédérale des mensurations cadastrales contre paiement des frais.
+<sup>2</sup> Le service du cadastre dirige, surveille et vérifie les travaux de la mensuration officielle. Il veille à la coordination entre la mensuration officielle et d’autres projets de mensuration et systèmes de géoinformation.[^42-3]
 
-[^42-1]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
-[^42-2]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+<sup>3</sup> Un canton qui n’est pas en mesure de remplir ses tâches de surveillance de la mensuration peut en déléguer tout ou partie au service spécialisé Direction fédérale des mensurations cadastrales contre paiement des frais.
+
+<sup>4</sup> Les cantons peuvent transférer la surveillance de la mensuration de l’un à l’autre ou établir des institutions communes pour l’assurer.[^42-4]
+
+[^42-1]: Introduit par le ch. I de l’O du 23 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
+[^42-2]: Nouvelle teneur selon le ch. I de l’O du 23 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
+[^42-3]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+[^42-4]: Introduit par le ch. I de l’O du 23 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 42a
 
 **Convention administrative avec le Liechtenstein**[^42a-1]
 
-Le DDPS peut conclure avec la Principauté du Liechtenstein un traité de droit public, résiliable et à durée déterminée, relatif au transfert partiel ou total de la surveillance de la mensuration du Liechtenstein à la Direction fédérale des mensurations cadastrales.
+Le DDPS peut conclure avec la Principauté du Liechtenstein un traité de droit public, résiliable et à durée déterminée, relatif au transfert partiel ou total de la surveillance de la mensuration du Liechtenstein au service spécialisé Direction fédérale des mensurations cadastrales.
 
 [^42a-1]: Introduit par le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
 
@@ -622,16 +629,11 @@ Le DDPS peut conclure avec la Principauté du Liechtenstein un traité de droit 
 
 **Habilitation à l’exécution de travaux**[^44-1]
 
-<sup>1</sup> Les cantons règlent l’exécution des travaux par des ingénieurs géomètres inscrits au registre des géomètres et d’autres spécialistes en mensuration qualifiés au moyen de contrats d’entreprise ou de règlements de service. L’art. 46 est réservé.
+<sup>1</sup> Les travaux de la mensuration officielle ne peuvent être exécutés que par des ingénieurs géomètres autonomes inscrits au registre des géomètres ou sous leur direction technique.
 
-<sup>2</sup>
+<sup>2</sup> Le DDPS peut permettre l’exécution de travaux de la mensuration officielle par d’autres personnes qualifiées, si la qualité du travail répond aux exigences de la mensuration officielle et si les travaux ne concernent pas le contenu minimal du plan du registre foncier visé à l’art. 7, al. 2, ou des limites territoriales.
 
-L’exécution des travaux concernant les couches d’information «points fixes», «biens-fonds», «nomenclature», «limites territoriales», «territoires en mouvement permanent» et «divisions administratives», de même que la mise à jour et la gestion de la mensuration officielle, ne peuvent être confiées qu’à:
-
-- a. des communes ou d’autres collectivités de droit public ou personnes morales de droit public, si celles-ci disposent d’un propre service de mensuration dirigé par un ingénieur géomètre inscrit au registre des géomètres;
-- b. des ingénieurs géomètres inscrits au registre des géomètres.
-
-[^44-1]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+[^44-1]: Nouvelle teneur selon le ch. I de l’O du 23 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 45
 
@@ -639,23 +641,36 @@ L’exécution des travaux concernant les couches d’information «points fixes
 
 <sup>1</sup> L’adjudication de travaux tels que l’abornement, le premier relevé, le renouvellement, la mise à jour périodique et la numérisation préalable doit respecter les prescriptions applicables au canton concerné en matière de marchés publics.
 
-<sup>2</sup> Les travaux de la mensuration officielle mis en adjudication pour une exécution exclusive dans une zone géographique donnée doivent faire l’objet d’une publication officielle.
+<sup>2</sup> Les travaux de la mensuration officielle à adjuger pour une exécution exclusive dans une zone géographique donnée doivent faire l’objet d’un appel d’offre.[^45-2]
 
 [^45-1]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+[^45-2]: Nouvelle teneur selon le ch. I de l’O du 23 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 46
 
-**Travaux sur le domaine ferroviaire**
+**Relations avec le registre foncier**[^46-1]
 
-<sup>1</sup> D’entente avec le service cantonal du cadastre, les entreprises ferroviaires assujetties à la loi fédérale du 20 décembre 1957 sur les chemins de fer[^46-1] sont habilitées à effectuer certains travaux de mensuration officielle sur leur domaine, pour autant qu’elles disposent d’un propre service de mensuration dirigé par un ingénieur géomètre inscrit au registre des géomètres.[^46-2]
+<sup>1</sup> Le DFJP et le DDPS fixent conjointement les principes régissant les communications et les transactions électroniques entre les services de la mensuration officielle et du registre foncier.
 
-<sup>2</sup> Pour les projets de premiers relevés, de renouvellements et de mises à jour sur le domaine ferroviaire, les entreprises ferroviaires au sens de l’al. 1 doivent être entendues. Les données des couches d’information «points fixes», «couverture du sol», «objets divers» et «altimétrie», saisies conformément aux principes et aux exigences de la mensuration officielle par les entreprises ferroviaires, doivent être reprises par la mensuration officielle.[^46-3]
+<sup>2</sup> Pour le reste, les cantons règlent les relations entre la mensuration officielle et le registre foncier.
 
-<sup>3</sup> Les cantons et les entreprises ferroviaires conviennent de l’indemnisation des prestations pour les cas prévus aux al. 1 et 2.
+[^46-1]: Nouvelle teneur selon le ch. I de l’O du 23 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
-[^46-1]: [RS 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
-[^46-2]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
-[^46-3]: Nouvelle teneur de la phrase selon le ch. I de l’O du 7 mars 2003, en vigueur depuis le 1<sup>er</sup> avr. 2003 ([RO 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
+#### Art. 46a
+
+**Documents de mutation et extraits certifiés conformes**[^46a-1]
+
+<sup>1</sup>
+
+Les cantons désignent les ingénieurs géomètres inscrits au registre des géomètres habilités à:
+
+- a. signer des documents de mutation;
+- b. délivrer des extraits certifiés conformes au sens de l’art. 37.
+
+<sup>2</sup> La délivrance électronique d’extraits certifiés conformes se fonde sur l’ordonnance du 8 décembre 2017 sur l’établissement d’actes authentiques électroniques et la légalisation électronique[^46a-2].
+
+[^46a-1]: Introduit par le ch. I de l’O du 23 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
+[^46a-2]: [RS 211.435.1](https://fedlex.data.admin.ch/eli/cc/2018/29)
 
 ## Chapitre 8 Conventions-programmes, contributions fédérales et frais restants
 
@@ -744,7 +759,7 @@ La contribution fédérale au financement de la mensuration officielle est déte
 Sont notamment exclus du calcul:
 
 - a. les frais de mise à jour permanente et de gestion;
-- b. les frais occasionnés par des extensions cantonales;
+- b.[^47d-2] ...
 - c. les frais du service cantonal du cadastre;
 - d. les indemnités payées à des organes cantonaux et communaux pour leur collaboration à des travaux d’abornement et de mensuration;
 - e. les frais de la vérification cantonale et de l’enquête publique;
@@ -755,6 +770,7 @@ Sont notamment exclus du calcul:
 - j. les frais occasionnés par la correction de contradictions visées à l’art. 14*a*.
 
 [^47d-1]: Introduit par le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 764](https://fedlex.data.admin.ch/eli/oc/2022/764)).
+[^47d-2]: Abrogée par le ch. I de l’O du 23 août 2023, avec effet au 1<sup>er</sup> janv. 2024 ([RO 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 48
 
@@ -834,13 +850,13 @@ Sont abrogés:
 
 <sup>1</sup> Le service cantonal du cadastre détermine si les premiers relevés et renouvellements commencés moins de deux ans après l’entrée en vigueur de la présente ordonnance doivent être exécutés selon les anciennes ou les nouvelles dispositions.
 
-<sup>2</sup> Le service cantonal du cadastre décide, d’entente avec la Direction fédérale des mensurations cadastrales, si et dans quelle mesure les mensurations en cours d’exécution au moment de l’entrée en vigueur de la présente ordonnance doivent être achevées conformément aux nouvelles dispositions.
+<sup>2</sup> Le service cantonal du cadastre décide, d’entente avec le service spécialisé Direction fédérale des mensurations cadastrales, si et dans quelle mesure les mensurations en cours d’exécution au moment de l’entrée en vigueur de la présente ordonnance doivent être achevées conformément aux nouvelles dispositions.
 
 #### Art. 53
 
 **Mise à jour d’anciennes mensurations**
 
-Le service cantonal du cadastre décide, d’entente avec la Direction fédérale des mensurations cadastrales, si et dans quelle mesure les mensurations conformes aux anciennes dispositions doivent être mises à jour selon les nouvelles dispositions.
+Le service cantonal du cadastre décide, d’entente avec le service spécialisé Direction fédérale des mensurations cadastrales, si et dans quelle mesure les mensurations conformes aux anciennes dispositions doivent être mises à jour selon les nouvelles dispositions.
 
 #### Art. 54
 
@@ -859,9 +875,10 @@ Pour les travaux exécutés ou poursuivis conformément aux anciennes dispositio
 
 <sup>2</sup> Les plans d’ensemble existants continuent à être mis à jour dans les régions ou secteurs où les données provenant de la mensuration officielle, et nécessaires à leur remplacement, ne sont pas encore disponibles.
 
-<sup>3</sup> La Confédération ne participe aux frais que dans la mesure où il n’existe pas de mensuration officielle selon les nouvelles dispositions.
+<sup>3</sup> ...[^55-2]
 
 [^55-1]: Nouvelle teneur selon le ch. I de l’O du 7 mars 2003, en vigueur depuis le 1<sup>er</sup> avr. 2003 ([RO 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
+[^55-2]: Abrogé par le ch. I de l’O du 23 août 2023, avec effet au 1<sup>er</sup> janv. 2024 ([RO 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 56
 
@@ -875,7 +892,7 @@ Pour les travaux exécutés ou poursuivis conformément aux anciennes dispositio
 
 <sup>4</sup> Le DDPS fixe les exigences relatives à la numérisation préalable.
 
-[^56-1]: [[RO 1992 2461](https://fedlex.data.admin.ch/eli/oc/1992/2461_2461_2461), [1994 1612](https://fedlex.data.admin.ch/eli/oc/1994/1612_1612_1612). [RO 2007 5819](https://fedlex.data.admin.ch/eli/oc/2007/788)art. 6]. Voir actuellement l'O de l'Ass. féd. du 6 oct. 2006 sur le financement de la mensuration officielle ([RS 211.432.27](https://fedlex.data.admin.ch/eli/cc/2007/788)).
+[^56-1]: [[RO 1992 2461](https://fedlex.data.admin.ch/eli/oc/1992/2461_2461_2461); [1994 1612](https://fedlex.data.admin.ch/eli/oc/1994/1612_1612_1612). [RO 2007 5819](https://fedlex.data.admin.ch/eli/oc/2007/788)art. 6]. Voir actuellement l’O de l'Ass. féd. du 6 oct. 2006 sur le financement de la mensuration officielle ([RS 211.432.27](https://fedlex.data.admin.ch/eli/cc/2007/788)).
 [^56-2]: Nouvelle teneur selon le ch. I de l’O du 7 mars 2003, en vigueur depuis le 1<sup>er</sup> avr. 2003 ([RO 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
 
 #### Art. 57
@@ -884,9 +901,29 @@ Pour les travaux exécutés ou poursuivis conformément aux anciennes dispositio
 
 <sup>1</sup> Jusqu’à l’entrée en vigueur du contrat visé à l’art. 14, al. 3, LGéo, seuls les frais liés au mandat et au temps qui y est consacré peuvent être facturés aux autorités fédérales pour la remise de données de la mensuration officielle.
 
-<sup>2</sup> Les cantons définissent, pour la période transitoire courant jusqu’au 31 décembre 2016, un système de référence planimétrique homogène et un cadre de référence planimétrique pour la mensuration officielle applicables à l’ensemble de leur territoire cantonal.
+<sup>2</sup> ...[^57-2]
 
 [^57-1]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+[^57-2]: Abrogé par le ch. I de l’O du 23 août 2023, avec effet au 1<sup>er</sup> janv. 2024 ([RO 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
+
+#### Art. 57a
+
+**Dispositions transitoires relatives à la modification du 23 août 2023**[^57a-1]
+
+<sup>1</sup> Si le DDPS modifie les exigences applicables au modèle de géodonnées (art. 6), il règle le passage du modèle de géodonnées existant au nouveau modèle.
+
+<sup>2</sup> Il précise les dispositions de la présente ordonnance concernant le modèle de données qui restent en vigueur pour une durée déterminée.
+
+<sup>3</sup>
+
+La suppression de la couche d’information «conduites» s’effectue dans le respect des étapes suivantes:
+
+- a. le jeu de géodonnées de base «conduites» (identificateur 222), créé par l’ordonnance du 4 juin 2021 sur la sécurité des installations de transport par conduites[^57a-2] et la couche d’information «conduites» de la mensuration officielle sont temporairement gérés et mis à jour en parallèle;
+- b. l’Office fédéral de l’énergie (OFEN) vérifie les données du jeu de géodonnées de base «conduites» à l’aide des données de la couche d’information «conduites»;
+- c. l’Office fédéral de topographie fixe une date, en accord avec l’OFEN, à laquelle la couche d’information «conduites» de la mensuration officielle peut être annulée et supprimée; il informe les cantons de cette date et publie la décision dans la Feuille fédérale.
+
+[^57a-1]: Introduit par le ch. I de l’O du 23 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
+[^57a-2]: [RS 746.12](https://fedlex.data.admin.ch/eli/cc/2021/348)
 
 ### Section 3 Entrée en vigueur
 

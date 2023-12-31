@@ -4,11 +4,11 @@ title: Verordnung vom 18. November 1992 über die amtliche Vermessung (VAV)
 short: VAV
 eli: "https://fedlex.data.admin.ch/eli/cc/1992/2446_2446_2446"
 language: de
-version: 2023-09-01
+version: 2024-01-01
 adopted: 1992-11-18
 in_force: 1993-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/2446_2446_2446/20230901/de/xml/fedlex-data-admin-ch-eli-cc-1992-2446_2446_2446-20230901-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1992/2446_2446_2446/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/2446_2446_2446/20240101/de/xml/fedlex-data-admin-ch-eli-cc-1992-2446_2446_2446-20240101-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1992/2446_2446_2446/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1992/2446_2446_2446/20230901/de"
 
 (VAV)
 
-vom 18. November 1992 (Stand am 1. September 2023)
+vom 18. November 1992 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -34,13 +34,14 @@ verordnet:
 
 #### Art. 1
 
-**Begriff und Zweck**[^1-1]
+**Funktionen der amtlichen Vermessung**[^1-1]
 
-<sup>1</sup> Als amtliche Vermessung im Sinne von Artikel 950 ZGB gelten die zur Anlage und Führung des Grundbuchs vom Kanton genehmigten und vom Bund anerkannten Vermessungen.
+Die amtliche Vermessung:
 
-<sup>2</sup> Die Daten der amtlichen Vermessung sind Georeferenzdaten, die von Behörden des Bundes, der Kantone und der Gemeinden sowie von der Wirtschaft, der Wissenschaft und Dritten zur Gewinnung von Geoinformationen verwendet werden.
+- a. stellt den Behörden des Bundes, der Kantone und der Gemeinden sowie der Wirtschaft, der Wissenschaft und Dritten Georeferenzdaten nach Artikel 29 Absatz 1 GeoIG zu Objekten zur Verfügung, die sich auf, über oder unter der Erdoberfläche befinden;
+- b. gewährleistet die Verfügbarkeit der im Sinne von Artikel 950 ZGB zur Anlage und Führung des Grundbuchs notwendigen Geobasisdaten.
 
-[^1-1]: Fassung gemäss Ziff. I der V vom 21. Mai 2008, in Kraft seit 1. Juli 2008 ([AS 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+[^1-1]: Fassung gemäss Ziff. I der V vom 23. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 1a
 
@@ -53,9 +54,11 @@ Soweit diese Verordnung keine besonderen Vorschriften enthält, gilt für die am
 
 #### Art. 2
 
-[^2-1]
+**Mitwirkung der Kantone, Anhörung der Organisationen**[^2-1]
 
-[^2-1]: SR **510.62** Aufgehoben durch Ziff. I der V vom 21. Mai 2008, mit Wirkung seit 1. Juli 2008 (AS **2008** 2745).
+Bei der Vorbereitung von technischen Normen und anderen Vorgaben des Bundes im Geltungsbereich dieser Verordnung, die nicht ausschliesslich die Bundesverwaltung betreffen, stellt der Bund die Mitwirkung der Kantone und die Anhörung der Partnerorganisationen auf geeignete Weise sicher.
+
+[^2-1]: Fassung gemäss Ziff. I der V vom 23. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 3
 
@@ -65,79 +68,55 @@ Soweit diese Verordnung keine besonderen Vorschriften enthält, gilt für die am
 
 <sup>2</sup> Die Kantone erstellen Umsetzungspläne, die als Grundlage für den Abschluss der Programmvereinbarungen nach Artikel 31 Absatz 2 GeoIG dienen.
 
-<sup>3</sup> Bei Landumlegungen und in Gebieten, in denen eine notwendige land- oder forstwirtschaftliche Landumlegung in absehbarer Zeit nicht durchgeführt werden kann, werden die technischen Arbeiten zur Erfassung von Daten über die Informationsebene Liegenschaften in einem vereinfachten Verfahren durchgeführt. Das VBS legt die technischen Anforderungen fest.
+<sup>3</sup> …[^3-2]
 
 [^3-1]: Fassung gemäss Ziff. I der V vom 21. Mai 2008, in Kraft seit 1. Juli 2008 ([AS 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+[^3-2]: Aufgehoben durch Ziff. I der V vom 23. Aug. 2023, mit Wirkung seit 1. Jan. 2024 ([AS 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 4
 
 **Militärische Anlagen**
 
-Von dieser Verordnung abweichende Vorschriften über die Vermessung militärischer Anlagen bleiben vorbehalten.
+<sup>1</sup> Von dieser Verordnung abweichende Vorschriften über die Vermessung militärischer Anlagen bleiben vorbehalten.
+
+<sup>2</sup> Das VBS regelt beim Übergang militärischer Anlagen in eine zivile Nutzung das Vorgehen für deren Aufnahme in die amtliche Vermessung und die Kostentragung.[^4-1]
+
+[^4-1]: Eingefügt durch Ziff. I der V vom 23. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 ## 2. Kapitel: Inhalt der amtlichen Vermessung
 
 #### Art. 5
 
-**Bestandteile der amtlichen Vermessung**
+**Bestandteile der amtlichen Vermessung**[^5-1]
 
-Bestandteile der amtlichen Vermessung bilden:
+<sup>1</sup>
 
-- a. die Fixpunkt- und Grenzzeichen;
-- b.[^5-1] die Daten gemäss Datenmodell der amtlichen Vermessung;
-- c.[^5-2] der Plan für das Grundbuch und die weiteren zum Zwecke der Grundbuchführung erstellten Auszüge aus den Daten der amtlichen Vermessung;
-- d. die zu erstellenden technischen Dokumente;
-- e. die Bestandteile und Grundlagen der amtlichen Vermessung alter Ordnung;
-- f.[^5-3] der Basisplan amtliche Vermessung.
+Bestandteile der amtlichen Vermessung sind:
 
-[^5-1]: Fassung gemäss Ziff. I der V vom 7. März 2003, in Kraft seit 1. April 2003 ([AS 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
-[^5-2]: Fassung gemäss Ziff. I der V vom 7. März 2003, in Kraft seit 1. April 2003 ([AS 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
-[^5-3]: Eingefügt durch Ziff. I der V vom 21. Mai 2008, in Kraft seit 1. Juli 2008 ([AS 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+- a. die Daten;
+- b. die Fixpunkt- und Grenzzeichen im Gelände (Punktzeichen);
+- c. die technischen und administrativen Dokumente;
+- d. die Bestandteile und Grundlagen der amtlichen Vermessung alter Ordnung.
+
+<sup>2</sup> Das VBS regelt die Einzelheiten, insbesondere die aus den Daten der amtlichen Vermessung abgeleiteten Produkte. Vorbehalten bleibt Artikel 7.
+
+[^5-1]: Fassung gemäss Ziff. I der V vom 23. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 6
 
-**Datenmodell der amtlichen Vermessung**[^6-1]
+**Geodatenmodell der amtlichen Vermessung**[^6-1]
 
-<sup>1</sup> Das Datenmodell beschreibt den Inhalt gemäss Objektkatalog und die Datenstruktur in einer normierten Datenbeschreibungssprache.
+<sup>1</sup> Das VBS legt die Anforderungen an das Geodatenmodell für die amtliche Vermessung fest, namentlich hinsichtlich Inhalt, Dimensionen, Genauigkeit und Zuverlässigkeit. Das Geodatenmodell kann modular aufgebaut sein.
 
-<sup>2</sup>
+<sup>2</sup> Kantonale Erweiterungen des Geodatenmodells sind nicht zulässig.
 
-Der Objektkatalog umfasst die folgenden Informationsebenen:
-
-- a. Fixpunkte;
-- b. Bodenbedeckung;
-- c. Einzelobjekte;
-- d. Höhen;
-- e. Nomenklatur;
-- f. Liegenschaften;
-- g. Rohrleitungen;
-- h.[^6-2] Hoheitsgrenzen;
-- i.[^6-3] dauernde Bodenverschiebungen;
-- j.[^6-4] Gebäudeadressen;
-- k.[^6-5] administrative Einteilungen.
-
-<sup>3</sup> Zur Informationsebene Liegenschaften gehören die Grundstücke nach Artikel 655 Absatz 2 ZGB, soweit sie flächenmässig ausgeschieden werden können, mit Ausnahme der Miteigentumsanteile.[^6-6]
-
-[^6-1]: Fassung gemäss Ziff. I der V vom 7. März 2003, in Kraft seit 1. April 2003 ([AS 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
-[^6-2]: Fassung gemäss Ziff. I der V vom 21. Mai 2008, in Kraft seit 1. Juli 2008 ([AS 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
-[^6-3]: Eingefügt durch Ziff. I der V vom 21. Mai 2008, in Kraft seit 1. Juli 2008 ([AS 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
-[^6-4]: Eingefügt durch Ziff. I der V vom 21. Mai 2008, in Kraft seit 1. Juli 2008 ([AS 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
-[^6-5]: Eingefügt durch Ziff. I der V vom 21. Mai 2008, in Kraft seit 1. Juli 2008 ([AS 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
-[^6-6]: Fassung gemäss Ziff. I der V vom 21. Mai 2008, in Kraft seit 1. Juli 2008 ([AS 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+[^6-1]: Fassung gemäss Ziff. I der V vom 23. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 6a
 
-**Zuständigkeit des VBS**[^6a-1]
+[^6a-1]
 
-<sup>1</sup> Das VBS bezeichnet den Objektkatalog und legt die zu erhebenden Daten, deren Genauigkeit und Zuverlässigkeit sowie die weiteren Anforderungen an sie fest. Es kann aus sachlich zwingenden Gründen von den Artikeln 3, 10 und 17 GeoIV[^6a-2] [^6a-3] abweichen.
-
-<sup>2</sup> Es legt die amtliche Vermessungsschnittstelle (AVS) fest.
-
-<sup>3</sup> Es legt Inhalt, Nachführung und Verwaltung der aus den Daten der amtlichen Vermessung zu erstellenden Auszüge sowie der zu erstellenden technischen Dokumentation fest.
-
-[^6a-1]: Eingefügt durch Ziff. I der V vom 21. Mai 2008, in Kraft seit 1. Juli 2008 ([AS 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
-[^6a-2]: Ausdruck gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 764](https://fedlex.data.admin.ch/eli/oc/2022/764)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
-[^6a-3]: [SR 510.620](https://fedlex.data.admin.ch/eli/cc/2008/389)
+[^6a-1]: Eingefügt durch Ziff. I der V vom 21. Mai 2008 ([AS 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)). Aufgehoben durch Ziff. I der V vom 23. Aug. 2023, mit Wirkung seit 1. Jan. 2024 ([AS 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 6<sup>bis</sup>
 
@@ -149,18 +128,24 @@ Der Objektkatalog umfasst die folgenden Informationsebenen:
 
 **Plan für das Grundbuch**[^7-1]
 
-<sup>1</sup> Der Plan für das Grundbuch ist ein aus den Daten der amtlichen Vermessung erstellter analoger oder digitaler graphischer Auszug, der als Bestandteil des Grundbuches die Liegenschaften sowie die flächenmässig ausgeschiedenen selbstständigen und dauernden Rechte und Bergwerke abgrenzt; ihm kommen die Rechtswirkungen von Eintragungen im Grundbuch zu.[^7-2]
+<sup>1</sup> Der Plan für das Grundbuch ist ein analoger oder digitaler Auszug aus den Daten der amtlichen Vermessung.
 
-<sup>2</sup> Im Plan für das Grundbuch dargestellt werden die Inhalte der Informationsebenen Fixpunkte, Bodenbedeckung, Einzelobjekte, Nomenklatur, Liegenschaften, Rohrleitungen, Hoheitsgrenzen, Gebäudeadressen und administrative Einteilungen.[^7-3]
+<sup>2</sup>
 
-<sup>3</sup> Die Kantone können vorschreiben, dass zusätzlich zu den Daten der amtlichen Vermessung auch Dienstbarkeitsgrenzen dargestellt werden, sofern diese lagemässig eindeutig definiert sind.
+Er enthält mindestens die Daten über:
 
-<sup>4</sup> Die Eidgenössische Vermessungsdirektion definiert das Darstellungsmodell des Plans für das Grundbuch.[^7-4]
+- a. die Grenzpunkte und Grenzlinien der Liegenschaften (Art. 943 Abs. 1 Ziff. 1 ZGB);
+- b. die Grenzpunkte und Grenzlinien der flächenmässig ausgeschiedenen selbstständigen und dauernden Rechte an Grundstücken (Art. 943 Abs. 1 Ziff. 2 ZGB);
+- c. die Bergwerke (Art. 943 Abs. 1 Ziff. 3 ZGB);
+- d. die Gebiete mit dauernden Bodenverschiebungen (Art. 660*a* ZGB).
 
-[^7-1]: Fassung gemäss Ziff. I der V vom 7. März 2003, in Kraft seit 1. April 2003 ([AS 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
-[^7-2]: Fassung gemäss Ziff. I der V vom 21. Mai 2008, in Kraft seit 1. Juli 2008 ([AS 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
-[^7-3]: Fassung gemäss Ziff. I der V vom 21. Mai 2008, in Kraft seit 1. Juli 2008 ([AS 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
-[^7-4]: Fassung gemäss Ziff. I der V vom 21. Mai 2008, in Kraft seit 1. Juli 2008 ([AS 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+<sup>3</sup> Der Mindestbestand des Planes hat Grundbuchwirkung (Art. 971–974 ZGB).
+
+<sup>4</sup> Die Kantone können vorschreiben, dass zusätzlich zu den Daten der amtlichen Vermessung auch Dienstbarkeitsgrenzen dargestellt werden, sofern diese lagemässig eindeutig definiert sind.
+
+<sup>5</sup> Das Eidgenössische Justiz- und Polizeidepartement (EJPD) und das VBS legen gemeinsam die Anforderungen an den Plan für das Grundbuch und an weitere Auszüge fest, namentlich hinsichtlich Inhalt und Darstellung.
+
+[^7-1]: Fassung gemäss Ziff. I der V vom 23. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 8–9
 
@@ -170,12 +155,9 @@ Der Objektkatalog umfasst die folgenden Informationsebenen:
 
 #### Art. 10
 
-**Kantonale Erweiterungen des Datenmodells des Bundes**[^10-1]
+[^10-1]
 
-Die Kantone können den durch das Bundesrecht vorgeschriebenen Inhalt der amtlichen Vermessung im Rahmen der vom VBS[^10-2] definierten Vorgaben erweitern und weitergehende Anforderungen an die Vermessung vorschreiben.
-
-[^10-1]: Fassung gemäss Ziff. I der V vom 7. März 2003, in Kraft seit 1. April 2003 ([AS 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
-[^10-2]: Ausdruck gemäss Ziff. I der V vom 21. Mai 2008, in Kraft seit 1. Juli 2008 ([AS 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)). Diese Änd. ist im ganzen Erlass berücksichtigt.
+[^10-1]: Aufgehoben durch Ziff. I der V vom 23. Aug. 2023, mit Wirkung seit 1. Jan. 2024 ([AS 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 ## 3. Kapitel: Vermarkung
 
@@ -187,7 +169,9 @@ Die Kantone können den durch das Bundesrecht vorgeschriebenen Inhalt der amtlic
 
 <sup>1</sup> Die Vermarkung umfasst die Grenzfeststellung und das Anbringen von Grenzzeichen.
 
-<sup>2</sup> Zu vermarken sind die Hoheitsgrenzen, die Grenzen der Liegenschaften und die Grenzen der selbständigen und dauernden Rechte, soweit letztere flächenmässig ausgeschieden werden können.
+<sup>2</sup> Zu vermarken sind die Hoheitsgrenzen, die Grenzen der Liegenschaften und die Grenzen der selbstständigen und dauernden Rechte, soweit Letztere flächenmässig ausgeschieden werden können. Vorbehalten bleibt Artikel 17.[^11-1]
+
+[^11-1]: Fassung gemäss Ziff. I der V vom 23. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 12
 
@@ -208,28 +192,29 @@ Die Kantone erlassen im Rahmen dieser Verordnung Vorschriften über die rechtsg�
 Die Kantone können bestimmen, dass die Grenzen gestützt auf Pläne, Luftbilder oder andere geeignete Grundlagen festgestellt werden:
 
 - a.[^13-1] in Landwirtschafts- und Forstwirtschaftsgebieten im Berg- und Sömmerungsgebiet gemäss landwirtschaftlichem Produktionskataster[^13-2], sowie in unproduktiven Gebieten;
-- b. bei einer Nachführung, wenn die betroffenen Grundeigentümer damit einverstanden sind.
+- b.[^13-3] bei einer Nachführung, wenn die betroffenen Grundeigentümer und Grundeigentümerinnen damit einverstanden sind.
 
 [^13-1]: Fassung gemäss Ziff. I der V vom 7. März 2003, in Kraft seit 1. April 2003 ([AS 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
 [^13-2]: [SR 912.1](https://fedlex.data.admin.ch/eli/cc/1999/46)
+[^13-3]: Fassung gemäss Ziff. I der V vom 23. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 14
 
 **Grenzverlauf**[^14-1]
 
-<sup>1</sup> Als Grenzlinie gilt die Gerade oder ein Kreisbogen zwischen zwei Grenzpunkten.
+<sup>1</sup> Als Grenzlinie gilt eine Strecke oder ein Kreisbogen zwischen zwei Grenzpunkten.
 
-<sup>2</sup> Bei der Ersterhebung, Erneuerung oder Nachführung der Informationsebene Liegenschaften ist ein einfacher Grenzverlauf anzustreben. Bestehende Grenzlinien sind nach Möglichkeit zu bereinigen.
+<sup>2</sup> Bei der Ersterhebung, Erneuerung oder laufenden Nachführung ist ein einfacher Grenzverlauf anzustreben. Bestehende Grenzlinien sind nach Möglichkeit zu bereinigen.
 
-[^14-1]: Fassung gemäss Ziff. I der V vom 21. Mai 2008, in Kraft seit 1. Juli 2008 ([AS 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+[^14-1]: Fassung gemäss Ziff. I der V vom 23. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 14a
 
 **Behebung von Widersprüchen**[^14a-1]
 
-Widersprüche zwischen den Plänen der amtlichen Vermessung und der Wirklichkeit oder zwischen diesen Plänen werden von Amtes wegen behoben.
+Widersprüche zwischen den Daten der amtlichen Vermessung und den Verhältnissen im Gelände oder zwischen dem Plan für das Grundbuch und anderen Plänen der amtlichen Vermessung werden unter Berücksichtigung von Artikel 668 Absatz 2 ZGB von Amtes wegen behoben.
 
-[^14a-1]: Eingefügt durch Ziff. I der V vom 21. Mai 2008, in Kraft seit 1. Juli 2008 ([AS 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+[^14a-1]: Eingefügt durch Ziff. I der V vom 21. Mai 2008 ([AS 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)). Fassung gemäss Ziff. I der V vom 23. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 ### 3. Abschnitt: Anbringen von Grenzzeichen
 
@@ -243,7 +228,7 @@ Die Grenzzeichen sind so anzubringen, dass die Grenzen im Feld dauernd erkennbar
 
 **Zeitpunkt**
 
-<sup>1</sup> Die Grenzzeichen sind in der Regel anzubringen, bevor die Daten der Informationsebene Liegenschaften erstmals erhoben werden.
+<sup>1</sup> Die Grenzzeichen sind in der Regel anzubringen, bevor die Grenzen erstmals erhoben werden.[^16-1]
 
 <sup>2</sup> Einzelne Grenzzeichen können nach der Erhebung der Daten nach Absatz 1 angebracht werden.
 
@@ -251,6 +236,8 @@ Die Grenzzeichen sind so anzubringen, dass die Grenzen im Feld dauernd erkennbar
 - b. wenn es aus einem wichtigen Grund nicht möglich oder zweckmässig ist, diese Arbeit vorher auszuführen.
 
 <sup>3</sup> Die fehlenden Grenzzeichen nach Absatz 2 müssen angebracht werden, sobald die Umstände es erlauben.
+
+[^16-1]: Fassung gemäss Ziff. I der V vom 23. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 17
 
@@ -283,17 +270,19 @@ Die Kantone können weitere Ausnahmen vorsehen, so insbesondere:
 
 <sup>1</sup> Als Ersterhebung gilt die Erstellung der Bestandteile der amtlichen Vermessung in Gebieten ohne definitiv anerkannte amtliche Vermessung sowie in Gebieten im Sinne von Artikel 51 Absätze 3 und 4.
 
-<sup>2</sup> Als Erneuerung gilt die Erstellung der Bestandteile der amtlichen Vermessung neuer Ordnung durch Umarbeitung und Ergänzung einer definitiv anerkannten amtlichen Vermessung.
+<sup>2</sup> Als Erneuerung gilt die Umarbeitung oder Ergänzung einer definitiv anerkannten amtlichen Vermessung, um sie den gegenwärtigen Vorschriften anzupassen.[^18-1]
 
 <sup>3</sup> Als Nachführung gilt die Anpassung der Bestandteile der amtlichen Vermessung an die veränderten rechtlichen und tatsächlichen Verhältnisse.
+
+[^18-1]: Fassung gemäss Ziff. I der V vom 23. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 19
 
 **Verfahren**
 
-Die Eidgenössische Vermessungsdirektion[^19-1] kann Weisungen über das Verfahren der Ersterhebung, Erneuerung und Nachführung erlassen.
+Die Fachstelle Eidgenössische Vermessungsdirektion[^19-1] kann Weisungen über das Verfahren der Ersterhebung, Erneuerung und Nachführung erlassen.
 
-[^19-1]: Ausdruck gemäss Ziff. I der V vom 21. Mai 2008, in Kraft seit 1. Juli 2008 ([AS 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)). Diese Änd. ist im ganzen Erlass berücksichtigt.
+[^19-1]: Ausdruck gemäss Ziff. I der V vom 23. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)). Diese Änd. ist im ganzen Erlass berücksichtigt.
 
 #### Art. 20
 
@@ -308,13 +297,14 @@ Lage- und Höhenbezug der amtlichen Vermessung richten sich nach den Artikeln 4 
 
 **Zeitpunkt der Durchführung**[^21-1]
 
-<sup>1</sup> Die Eidgenössische Vermessungsdirektion und die zuständige Stelle des Kantons planen auf der Grundlage der Programmvereinbarung die Durchführung der amtlichen Vermessung.
+<sup>1</sup> Die Fachstelle Eidgenössische Vermessungsdirektion und die zuständige Stelle des Kantons planen auf der Grundlage der Programmvereinbarung die Durchführung der amtlichen Vermessung.
 
 <sup>2</sup> Der Kanton legt den Zeitpunkt der Durchführung der einzelnen Vermessungen fest. Er regelt das Anhörungsverfahren.
 
-<sup>3</sup> Er kann bestimmen, dass die Ersterhebung und die Erneuerung in Etappen ausgeführt werden. Jede Etappe muss mindestens eine ganze Informationsebene umfassen und sich über ein grösseres zusammenhängendes Gebiet erstrecken; die Informationsebene Fixpunkte muss in der ersten Etappe bearbeitet werden. Erscheint aus technischer Sicht ein anderes Vorgehen zweckmässig, so unterbreitet er dieses der Eidgenössischen Vermessungsdirektion zur Genehmigung.
+<sup>3</sup> …[^21-2]
 
 [^21-1]: Fassung gemäss Ziff. I der V vom 21. Mai 2008, in Kraft seit 1. Juli 2008 ([AS 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+[^21-2]: Aufgehoben durch Ziff. I der V vom 23. Aug. 2023, mit Wirkung seit 1. Jan. 2024 ([AS 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 ### 2. Abschnitt: Nachführung
 
@@ -326,13 +316,15 @@ Sämtliche Bestandteile der amtlichen Vermessung unterliegen der Nachführungspf
 
 #### Art. 23
 
-**Laufende Nachführung**
+**Laufende Nachführung**[^23-1]
 
-<sup>1</sup> Die Bestandteile der amtlichen Vermessung, für deren Nachführung ein Meldewesen organisiert werden kann, sind innert eines Jahres nach Eintreten einer Veränderung nachzuführen.[^23-1]
+<sup>1</sup> Die Bestandteile der amtlichen Vermessung, für deren Nachführung ein Meldewesen organisiert werden kann, sind innert sechs Monaten nach Eintreten einer Veränderung nachzuführen.
 
-<sup>2</sup> Die Kantone regeln das Meldewesen und legen die Nachführungsfristen fest.
+<sup>2</sup> Die Kantone können nach Anhörung der Fachstelle Eidgenössische Vermessungsdirektion für begründete Fälle abweichende Fristen vorsehen.
 
-[^23-1]: Fassung gemäss Ziff. I der V vom 21. Mai 2008, in Kraft seit 1. Juli 2008 ([AS 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+<sup>3</sup> Sie regeln das Meldewesen.
+
+[^23-1]: Fassung gemäss Ziff. I der V vom 23. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 24
 
@@ -342,50 +334,39 @@ Sämtliche Bestandteile der amtlichen Vermessung unterliegen der Nachführungspf
 
 <sup>2</sup> Jede periodische Nachführung hat sich jeweils über ein grösseres zusammenhängendes Gebiet zu erstrecken.
 
-<sup>3</sup> Der Nachführungszyklus richtet sich nach Möglichkeit nach jenem der Landesvermessung. Er darf zwölf Jahre nicht überschreiten.[^24-1]
+<sup>3</sup> Der Nachführungszyklus richtet sich nach Möglichkeit nach jenem der Landesvermessung. Er darf zwölf Jahre nicht überschreiten. Das VBS regelt die Einzelheiten der Nachführung.[^24-1]
 
-[^24-1]: Fassung gemäss Ziff. I der V vom 21. Mai 2008, in Kraft seit 1. Juli 2008 ([AS 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+[^24-1]: Fassung gemäss Ziff. I der V vom 23. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 25
 
-**Nachführung und Grundbuch**
+[^25-1]
 
-<sup>1</sup> Der Grundbuchverwalter darf die Teilung oder Vereinigung von Liegenschaften sowie flächenmässig ausgeschiedenen selbstständigen und dauernden Rechten im Grundbuch nur vornehmen, wenn die Mutationsurkunde vorgelegt wird, die von dem zuständigen im Register eingetragenen Ingenieur-Geometer oder der zuständigen im Register eingetragenen Ingenieur-Geometerin unterzeichnet ist.[^25-1]
-
-<sup>2</sup> Im Übrigen regeln die Kantone den Geschäftsverkehr zwischen amtlicher Vermessung und Grundbuch.
-
-[^25-1]: Fassung gemäss Ziff. I der V vom 21. Mai 2008, in Kraft seit 1. Juli 2008 ([AS 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+[^25-1]: Aufgehoben durch Ziff. I der V vom 23. Aug. 2023, mit Wirkung seit 1. Jan. 2024 ([AS 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 ### 3. Abschnitt: Verifikation
 
 #### Art. 26
 
-<sup>1</sup> Alle Bestandteile der amtlichen Vermessung sind nach den Weisungen der Eidgenössischen Vermessungsdirektion von der kantonalen Vermessungsaufsicht auf ihre Qualität und Vollständigkeit zu prüfen. Vorbehalten bleibt Absatz 2.
+[^26-1]
 
-<sup>2</sup> Die Durchführung der Verifikation der Lagefixpunkte 2 sowie der Höhenfixpunkte 2 obliegt dem Bundesamt für Landestopographie. Das VBS definiert die Begriffe Lagefixpunkte und Höhenfixpunkte.
+Alle Bestandteile der amtlichen Vermessung sind nach den Weisungen der Fachstelle Eidgenössische Vermessungsdirektion von der kantonalen Vermessungsaufsicht (Art. 42) auf ihre Qualität und Vollständigkeit zu prüfen.
+
+[^26-1]: Fassung gemäss Ziff. I der V vom 23. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 ### 4. Abschnitt: Einspracheverfahren, Genehmigung und Abgeltung
 
 #### Art. 27
 
-**Vorprüfung**
+[^27-1]
 
-<sup>1</sup> Nach Abschluss der Verifikation prüft die Eidgenössische Vermessungsdirektion, ob die Anforderungen des Bundes erfüllt sind. Sie bezeichnet die einzureichenden Unterlagen.[^27-1]
-
-<sup>2</sup> Sie teilt das Prüfungsergebnis dem Kanton in einem Bericht mit und sichert die Abgeltung zu, falls aufgezeigte Mängel behoben werden.
-
-<sup>3</sup> Allfällige im Bericht aufgezeigte Mängel sind vor der öffentlichen Auflage zu beheben.
-
-<sup>4</sup> Auf die Vorprüfung kann im Einvernehmen zwischen Bund und Kanton verzichtet werden.[^27-2]
-
-[^27-1]: Fassung gemäss Ziff. I der V vom 7. März 2003, in Kraft seit 1. April 2003 ([AS 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
-[^27-2]: Eingefügt durch Ziff. I der V vom 28. Jan. 1998 ([AS 1998 270](https://fedlex.data.admin.ch/eli/oc/1998/270_270_270)). Fassung gemäss Ziff. I der V vom 7. März 2003, in Kraft seit 1. April 2003 ([AS 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
+[^27-1]: Aufgehoben durch Ziff. I der V vom 23. Aug. 2023, mit Wirkung seit 1. Jan. 2024 ([AS 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 28
 
 **Öffentliche Auflage**[^28-1]
 
-<sup>1</sup> Nach Abschluss einer Ersterhebung oder Erneuerung der amtlichen Vermessung sowie nach Behebung von Widersprüchen nach Artikel 14*a*, bei denen Grundeigentümer in ihren dinglichen Rechten berührt sind, wird eine öffentliche Auflage mit Einspracheverfahren durchgeführt.
+<sup>1</sup> Nach Abschluss einer Ersterhebung oder Erneuerung der amtlichen Vermessung sowie nach Behebung von Widersprüchen nach Artikel 14*a*, bei denen Grundeigentümer und Grundeigentümerinnen in ihren dinglichen Rechten berührt sind, wird eine öffentliche Auflage mit Einspracheverfahren durchgeführt.[^28-2]
 
 <sup>2</sup> Gegenstand der öffentlichen Auflage sind der Plan für das Grundbuch des betreffenden Perimeters und weitere zum Zweck der Grundbuchführung erstellte Auszüge aus den Daten der amtlichen Vermessung.
 
@@ -395,41 +376,45 @@ Die Kantone regeln das Verfahren unter Berücksichtigung der folgenden Grundsät
 
 - a. Die öffentliche Auflage erfolgt während 30 Tagen.
 - b. Die Auflage wird amtlich veröffentlicht.
-- c. Grundeigentümer, deren Adresse bekannt ist, werden zusätzlich mit normaler Post über die Auflage und die ihnen zustehenden Rechtsmittel informiert.
-- d. Dem Grundeigentümer wird auf Verlangen eine Ausschnittskopie aus dem Plan für das Grundbuch zugestellt.
+- c.[^28-3] Grundeigentümer und Grundeigentümerinnen, deren Adresse bekannt ist, werden zusätzlich mit normaler Post über die Auflage und die ihnen zustehenden Rechtsmittel informiert.
+- d.[^28-4] Dem Grundeigentümer oder der Grundeigentümerin wird auf Verlangen ein Auszug über sein oder ihr Grundstück nach Artikel 7 Absatz 2 Buchstaben a–c aus dem Plan für das Grundbuch zugestellt.
 - e. Gegen den Einspracheentscheid kann ein Rechtsmittel an eine kantonale Behörde erhoben werden; diese überprüft den Entscheid uneingeschränkt.
-- f. In letzter kantonaler Instanz ist ein Rechtsmittel an ein Gericht im Sinne von Artikel 75 Absatz 2 des Bundesgerichtsgesetzes vom 17. Juni 2005[^28-2] möglich.
+- f. In letzter kantonaler Instanz ist ein Rechtsmittel an ein Gericht im Sinne von Artikel 75 Absatz 2 des Bundesgerichtsgesetzes vom 17. Juni 2005[^28-5] möglich.
+
+<sup>4</sup> Sie können vorsehen, dass die öffentliche Auflage und die amtliche Veröffentlichung ausschliesslich elektronisch durchgeführt werden.[^28-6]
 
 [^28-1]: Fassung gemäss Ziff. I der V vom 21. Mai 2008, in Kraft seit 1. Juli 2008 ([AS 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
-[^28-2]: [SR 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^28-2]: Fassung gemäss Ziff. I der V vom 23. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
+[^28-3]: Fassung gemäss Ziff. I der V vom 23. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
+[^28-4]: Fassung gemäss Ziff. I der V vom 23. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
+[^28-5]: [SR 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^28-6]: Eingefügt durch Ziff. I der V vom 23. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 29
 
 **Genehmigung**[^29-1]
 
-<sup>1</sup>
-
-Nach Abschluss der öffentlichen Auflage und nach erstinstanzlicher Erledigung der Einsprachen genehmigt die zuständige kantonale Behörde, ungeachtet der gerichtlich zu erledigenden Streitfälle, die Daten der amtlichen Vermessung und die daraus erstellten Auszüge, insbesondere den Plan für das Grundbuch, wenn:
-
-- a. die Daten den technischen und qualitativen Anforderungen des Bundesrechts entsprechen;
-- b. eine allfällige Vorprüfung grundsätzlich positiv ausgefallen ist; und
-- c. die bei einer Vorprüfung aufgezeigten Mängel behoben sind.[^29-2]
+<sup>1</sup> Nach Abschluss der öffentlichen Auflage und nach erstinstanzlicher Erledigung der Einsprachen genehmigt die zuständige kantonale Behörde, ungeachtet der gerichtlich zu erledigenden Streitfälle, die Daten der amtlichen Vermessung und die daraus erstellten Auszüge, insbesondere den Plan für das Grundbuch, wenn die Daten den technischen und qualitativen Anforderungen des Bundesrechts entsprechen.[^29-2]
 
 <sup>2</sup> Mit der Genehmigung erlangt das Vermessungswerk die Beweiskraft öffentlicher Urkunden.
 
 [^29-1]: Fassung gemäss Ziff. I der V vom 7. März 2003, in Kraft seit 1. April 2003 ([AS 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
-[^29-2]: Fassung gemäss Ziff. I der V vom 21. Mai 2008, in Kraft seit 1. Juli 2008 ([AS 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+[^29-2]: Fassung gemäss Ziff. I der V vom 23. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 30
 
 **Anerkennung durch den Bund**[^30-1]
 
-Die Eidgenössische Vermessungsdirektion anerkennt das Vermessungswerk, wenn:
+<sup>1</sup>
 
-- a. die Daten den technischen und qualitativen Anforderungen des Bundesrechts entsprechen; und
+Die Fachstelle Eidgenössische Vermessungsdirektion anerkennt das Vermessungswerk, wenn:
+
+- a. ihre formelle Prüfung ergeben hat, dass die Daten den Anforderungen des Bundesrechts entsprechen; und
 - b. das Vermessungswerk vom Kanton genehmigt wurde.
 
-[^30-1]: Fassung gemäss Ziff. I der V vom 21. Mai 2008, in Kraft seit 1. Juli 2008 ([AS 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+<sup>2</sup> Sie bezeichnet die von der zuständigen kantonalen Behörde einzureichenden Unterlagen.
+
+[^30-1]: Fassung gemäss Ziff. I der V vom 23. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 30<sup>bis</sup>
 
@@ -447,7 +432,7 @@ Die Eidgenössische Vermessungsdirektion anerkennt das Vermessungswerk, wenn:
 
 <sup>1</sup>
 
-Die Eidgenössische Vermessungsdirektion kann im Bereich der amtlichen Vermessung Pilotprojekte in einzelnen Kantonen oder für beschränkte geografische Gebiete bewilligen zur Erprobung und Entwicklung:
+Die Fachstelle Eidgenössische Vermessungsdirektion kann im Bereich der amtlichen Vermessung Pilotprojekte in einzelnen Kantonen oder für beschränkte geografische Gebiete bewilligen zur Erprobung und Entwicklung:
 
 - a. neuer Abläufe und Zuständigkeiten;
 - b. neuer Technologien;
@@ -478,11 +463,15 @@ Das VBS erlässt in Abstimmung mit den betroffenen Bundesstellen für das jeweil
 
 #### Art. 31
 
-**Unterhalt**
+**…[^31-1]**
 
 <sup>1</sup> Die Bestandteile der amtlichen Vermessung sind so zu verwalten, dass ihr Bestand und ihre Qualität jederzeit gewährleistet sind.
 
-<sup>2</sup> Das VBS regelt die technischen und organisatorischen Anforderungen an die Verwaltung, insbesondere an die Datensicherheit, Archivierung und Historisierung.
+<sup>2</sup> Das VBS regelt die technischen und organisatorischen Anforderungen an die Verwaltung, insbesondere an die Datensicherheit, sowie die Archivierung und Historisierung nach den Artikeln 13–16 GeoIV[^31-2].[^31-3]
+
+[^31-1]: Aufgehoben durch Ziff. I der V vom 23. Aug. 2023, mit Wirkung seit 1. Jan. 2024 ([AS 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
+[^31-2]: [SR 510.620](https://fedlex.data.admin.ch/eli/cc/2008/389)
+[^31-3]: Fassung gemäss Ziff. I der V vom 23. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 32
 
@@ -508,6 +497,11 @@ Aufgehoben
 
 <sup>2</sup> Der Kanton bestimmt die Stelle, die über Zugang und Nutzung entscheidet und die zur Abgabe von Auszügen und Auswertungen zuständig ist.
 
+<sup>3</sup> Das Bundesamt für Landestopografie betreibt einen Geodienst für den vernetzten Zugang zu den Daten der amtlichen Vermessung (Art. 36 Bst. e GeoIV[^34-1]).[^34-2]
+
+[^34-1]: [SR 510.620](https://fedlex.data.admin.ch/eli/cc/2008/389)
+[^34-2]: Eingefügt durch Ziff. I der V vom 23. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
+
 #### Art. 35
 
 **Beschreibung der Auszüge und Auswertungen**
@@ -516,33 +510,42 @@ Werden Auszüge und Auswertungen der amtlichen Vermessung abgegeben, so umfasst 
 
 #### Art. 36
 
-**Amtliche Vermessungsschnittstelle**
+**Download-Dienst und Schnittstellen**[^36-1]
 
-Der Zugang zu den Daten der amtlichen Vermessung ist als Download-Dienst mindestens über die AVS zu gewähren.
+<sup>1</sup> Der Zugang zu den Daten der amtlichen Vermessung ist durch einen Download-Dienst zu gewährleisten.
+
+<sup>2</sup> Das VBS regelt die technischen und organisatorischen Einzelheiten des Dienstes.
+
+<sup>3</sup> Es kann weitere Schnittstellen vorsehen.
+
+[^36-1]: Fassung gemäss Ziff. I der V vom 23. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 37
 
 **Beglaubigte Auszüge**
 
-<sup>1</sup> Als beglaubigt gelten Auszüge aus den Geobasisdaten der amtlichen Vermessung in analoger oder digitaler Form, deren Übereinstimmung mit den massgeblichen Daten der amtlichen Vermessung durch einen im Register eingetragenen Ingenieur-Geometer oder eine im Register eingetragene Ingenieur-Geometerin amtlich bestätigt wird.
+<sup>1</sup> Als beglaubigt gelten Auszüge aus den Daten der amtlichen Vermessung in analoger oder digitaler Form, deren Übereinstimmung mit den massgeblichen Daten der amtlichen Vermessung durch einen Ingenieur-Geometer oder eine Ingenieur-Geometerin amtlich bestätigt wird, der oder die im Geometerregister eingetragen und nach Artikel 46*a* Absatz 1 Buchstabe b zur Beglaubigung ermächtigt ist.[^37-1]
 
 <sup>2</sup> Beglaubigte Auszüge sind öffentliche Urkunden im Sinne von Artikel 9 ZGB.
 
-<sup>3</sup> Das VBS regelt die Ausstellung von beglaubigten Auszügen in elektronischer Form.
+<sup>3</sup> …[^37-2]
+
+[^37-1]: Fassung gemäss Ziff. I der V vom 23. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
+[^37-2]: Aufgehoben durch Ziff. I der V vom 23. Aug. 2023, mit Wirkung seit 1. Jan. 2024 ([AS 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 38
 
-**Gebühren für die Beglaubigung**
+[^38-1]
 
-<sup>1</sup> Für die Beglaubigung von Auszügen wird zusätzlich zu den Gebühren für den Datenbezug eine einheitliche Gebühr erhoben. Das VBS legt diese Gebühr fest.
-
-<sup>2</sup> Die Gebühr für eine Beglaubigung, die nicht gleichzeitig mit der Datenabgabe erfolgt, wird nach dem zeitlichen Aufwand berechnet.
+[^38-1]: Aufgehoben durch Ziff. I der V vom 23. Aug. 2023, mit Wirkung seit 1. Jan. 2024 ([AS 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 39
 
-**Abgabe an Bundesbehörden**
+**Abgabe an Bundesbehörden**[^39-1]
 
-Bei der vertraglichen Regelung nach Artikel 14 Absatz 3 GeoIG werden für die Datenbezüge der Bundesbehörden aus der amtlichen Vermessung nur der zeitliche Aufwand und die auftragsbedingten Kosten berücksichtigt.
+Ist der Datenaustausch unter Behörden nicht durch einen Vertrag nach Artikel 14 Absatz 3 GeoIG geregelt, so werden für die Abgeltung der Abgabe der Daten der amtlichen Vermessung an Bundesbehörden nur der zeitliche Aufwand und die auftragsbedingten Kosten berücksichtigt.
+
+[^39-1]: Fassung gemäss Ziff. I der V vom 23. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 ## 7. Kapitel: Organisation und Durchführung
 
@@ -552,28 +555,26 @@ Bei der vertraglichen Regelung nach Artikel 14 Absatz 3 GeoIG werden für die Da
 
 **Fachstelle des Bundes**
 
-<sup>1</sup> Die Eidgenössische Vermessungsdirektion ist die Fachstelle des Bundes. Sie untersteht der Leitung eines im Register eingetragenen Ingenieur-Geometers oder einer im Register eingetragenen Ingenieur-Geometerin.[^40-1]
+<sup>1</sup> Die Fachstelle Eidgenössische Vermessungsdirektion ist die Fachstelle des Bundes. Sie untersteht der Leitung eines im Register eingetragenen Ingenieur-Geometers oder einer im Register eingetragenen Ingenieur-Geometerin.[^40-1]
 
 <sup>2</sup> Ihr obliegen die Oberleitung und die Oberaufsicht über sämtliche Belange der amtlichen Vermessung.
 
 <sup>3</sup> Sie sorgt für die Umsetzung und den Vollzug der Vorschriften über die technischen und qualitativen Anforderungen an die amtliche Vermessung.[^40-2]
 
-<sup>4</sup> Sie stellt ferner die Koordination zwischen der amtlichen Vermessung und anderen Vermessungsvorhaben des Bundes sicher, berät die Bundesstellen bei der Beschaffung der Daten der amtlichen Vermessung und vertritt dabei die Interessen des Bundes gegenüber den Kantonen und Dritten.[^40-3]
+<sup>3bis</sup> Sie sorgt unter Mitwirkung der Kantone, des Eidgenössischen Amts für Grundbuch- und Bodenrecht und der Partnerorganisationen für die Weiterentwicklung des Geodatenmodells der amtlichen Vermessung; sie kann zu diesem Zweck Arbeitsgruppen einsetzen.[^40-3]
 
-<sup>5</sup> In Zusammenarbeit mit den kantonalen Vermessungsaufsichten ist sie im Rahmen ihrer Aufgabe berechtigt, Daten über die einzelnen Vermessungsarbeiten und die dafür verantwortlichen Unternehmer und Unternehmerinnen zu bearbeiten.[^40-4]
+<sup>4</sup> Sie stellt ferner die Koordination zwischen der amtlichen Vermessung und anderen Vermessungsvorhaben des Bundes sicher, berät die Bundesstellen bei der Beschaffung der Daten der amtlichen Vermessung und vertritt dabei die Interessen des Bundes gegenüber den Kantonen und Dritten.[^40-4]
 
-<sup>6</sup>
+<sup>5</sup> In Zusammenarbeit mit den kantonalen Vermessungsaufsichten ist sie im Rahmen ihrer Aufgabe berechtigt, Daten über die einzelnen Vermessungsarbeiten und die dafür verantwortlichen Unternehmer und Unternehmerinnen zu bearbeiten.[^40-5]
 
-Sie legt im Rahmen der Programmvereinbarungen fest:
-
-- a. welche Vermessungsarbeiten als besondere Anpassungen von aussergewöhnlich hohem nationalem Interesse gelten;
-- b. welche Vermessungsarbeiten als periodische Nachführungen gelten.[^40-5]
+<sup>6</sup> …[^40-6]
 
 [^40-1]: Fassung gemäss Ziff. I der V vom 21. Mai 2008, in Kraft seit 1. Juli 2008 ([AS 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
 [^40-2]: Fassung gemäss Ziff. I der V vom 21. Mai 2008, in Kraft seit 1. Juli 2008 ([AS 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
-[^40-3]: Fassung gemäss Ziff. I der V vom 7. März 2003, in Kraft seit 1. April 2003 ([AS 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
-[^40-4]: Eingefügt durch Ziff. I der V vom 7. März 2003 ([AS 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)). Fassung gemäss Anhang 2 Ziff. II 28 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^40-5]: Eingefügt durch Ziff. I der V vom 21. Mai 2008, in Kraft seit 1. Juli 2008 ([AS 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+[^40-3]: Eingefügt durch Ziff. I der V vom 23. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
+[^40-4]: Fassung gemäss Ziff. I der V vom 7. März 2003, in Kraft seit 1. April 2003 ([AS 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
+[^40-5]: Eingefügt durch Ziff. I der V vom 7. März 2003 ([AS 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)). Fassung gemäss Anhang 2 Ziff. II 28 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^40-6]: Aufgehoben durch Ziff. I der V vom 23. Aug. 2023, mit Wirkung seit 1. Jan. 2024 ([AS 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 41
 
@@ -581,24 +582,34 @@ Sie legt im Rahmen der Programmvereinbarungen fest:
 
 [^41-1]: Aufgehoben durch Ziff. I der V vom 21. Mai 2008, mit Wirkung seit 1. Juli 2008 ([AS 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
 
-### 2. Abschnitt: Kantonale Vermessungsaufsicht
+### 2. Abschnitt: Vermessungsaufsicht
+
+[^chap7-sec2-1]
+
+[^chap7-sec2-1]: Fassung gemäss Ziff. I der V vom 23. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 42
 
-<sup>1</sup> Der Kanton bezeichnet die für die Aufsicht über die amtliche Vermessung zuständige Stelle (Vermessungsaufsicht). Sie steht unter der Leitung eines im Register eingetragenen Ingenieur-Geometers oder einer im Register eingetragenen Ingenieur-Geometerin.[^42-1]
+**Kantonale Vermessungsaufsicht[^42-1]**
 
-<sup>2</sup> Die Vermessungsaufsicht leitet, überwacht und verifiziert die Arbeiten der amtlichen Vermessung. Sie sorgt für die Koordination der amtlichen Vermessung mit anderen Vermessungsvorhaben und Geoinformationssystemen.[^42-2]
+<sup>1</sup> Der Kanton bezeichnet die für die Aufsicht über die amtliche Vermessung zuständige Stelle (Vermessungsaufsicht). Diese steht unter der weisungsfreien fachlichen Leitung eines im Geometerregister eingetragenen Ingenieur-Geometers oder einer im Geometerregister eingetragenen Ingenieur-Geometerin.[^42-2]
 
-<sup>3</sup> Kann ein Kanton nach seinen tatsächlichen Verhältnissen die Aufgaben der Vermessungsaufsicht nicht wahrnehmen, so kann er sie gegen Ersatz der Kosten ganz oder teilweise der Eidgenössischen Vermessungsdirektion übertragen.
+<sup>2</sup> Die Vermessungsaufsicht leitet, überwacht und verifiziert die Arbeiten der amtlichen Vermessung. Sie sorgt für die Koordination der amtlichen Vermessung mit anderen Vermessungsvorhaben und Geoinformationssystemen.[^42-3]
 
-[^42-1]: Fassung gemäss Ziff. I der V vom 21. Mai 2008, in Kraft seit 1. Juli 2008 ([AS 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
-[^42-2]: Fassung gemäss Ziff. I der V vom 21. Mai 2008, in Kraft seit 1. Juli 2008 ([AS 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+<sup>3</sup> Kann ein Kanton nach seinen tatsächlichen Verhältnissen die Aufgaben der Vermessungsaufsicht nicht wahrnehmen, so kann er sie gegen Ersatz der Kosten ganz oder teilweise der Fachstelle Eidgenössische Vermessungsdirektion übertragen.
+
+<sup>4</sup> Die Kantone können einander die Vermessungsaufsicht übertragen oder gemeinsame Institutionen für die Vermessungsaufsicht errichten.[^42-4]
+
+[^42-1]: Eingefügt durch Ziff. I der V vom 23. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
+[^42-2]: Fassung gemäss Ziff. I der V vom 23. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
+[^42-3]: Fassung gemäss Ziff. I der V vom 21. Mai 2008, in Kraft seit 1. Juli 2008 ([AS 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+[^42-4]: Eingefügt durch Ziff. I der V vom 23. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 42a
 
 **Verwaltungsvereinbarung mit Liechtenstein**[^42a-1]
 
-Das VBS kann mit dem Fürstentum Liechtenstein einen kündbaren und befristeten völkerrechtlichen Vertrag über die vollständige oder teilweise Übertragung der liechtensteinischen Vermessungsaufsicht an die Eidgenössische Vermessungsdirektion abschliessen.
+Das VBS kann mit dem Fürstentum Liechtenstein einen kündbaren und befristeten völkerrechtlichen Vertrag über die vollständige oder teilweise Übertragung der liechtensteinischen Vermessungsaufsicht an die Fachstelle Eidgenössische Vermessungsdirektion abschliessen.
 
 [^42a-1]: Eingefügt durch Ziff. I der V vom 21. Mai 2008, in Kraft seit 1. Juli 2008 ([AS 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
 
@@ -618,16 +629,11 @@ Das VBS kann mit dem Fürstentum Liechtenstein einen kündbaren und befristeten 
 
 **Berechtigung zur Ausführung der Arbeiten**[^44-1]
 
-<sup>1</sup> Die Kantone regeln die Ausführung der Arbeiten durch Ingenieur-Geometer und ‑Geometerinnen, die im Register eingetragen sind, und qualifizierte Vermessungsfachleute mittels Werkverträgen oder Dienstanweisungen. Vorbehalten bleibt Artikel 46.
+<sup>1</sup> Die Arbeiten der amtlichen Vermessung dürfen nur durch weisungsfreie Ingenieur-Geometer und -Geometerinnen, die im Geometerregister eingetragen sind, oder unter deren fachlicher Leitung ausgeführt werden.
 
-<sup>2</sup>
+<sup>2</sup> Das VBS kann die Ausführung von Arbeiten der amtlichen Vermessung durch andere Fachkräfte zulassen, wenn die Qualität der Arbeiten den Anforderungen der amtlichen Vermessung genügt und die Arbeiten nicht den Mindestbestand des Plans für das Grundbuch nach Artikel 7 Absatz 2 oder Hoheitsgrenzen betreffen.
 
-Arbeiten im Bereich der Informationsebenen Fixpunkte, Liegenschaften, Nomenklatur, Hoheitsgrenzen, dauernde Bodenverschiebungen und administrative Einteilungen sowie die Nachführung und Verwaltung der amtlichen Vermessung darf der Kanton nur ausführen lassen durch:
-
-- a. Gemeinden, andere öffentlich-rechtliche Körperschaften und juristische Personen des öffentlichen Rechts, wenn sie über eine eigene Dienststelle für Vermessung unter der Leitung eines Ingenieur-Geometers oder einer Ingenieur-Geometerin verfügen, der oder die im Register eingetragen ist;
-- b. Ingenieur-Geometer und -Geometerinnen, die im Register eingetragen sind.
-
-[^44-1]: Fassung gemäss Ziff. I der V vom 21. Mai 2008, in Kraft seit 1. Juli 2008 ([AS 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+[^44-1]: Fassung gemäss Ziff. I der V vom 23. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 45
 
@@ -641,17 +647,29 @@ Arbeiten im Bereich der Informationsebenen Fixpunkte, Liegenschaften, Nomenklatu
 
 #### Art. 46
 
-**Arbeiten auf dem Bahngebiet**
+**Geschäftsverkehr mit dem Grundbuch**[^46-1]
 
-<sup>1</sup> Eisenbahnunternehmungen, die dem Eisenbahngesetz vom 20. Dezember 1957[^46-1] unterstehen, sind berechtigt, im Einvernehmen mit der kantonalen Vermessungsaufsicht innerhalb des Bahngebietes bestimmte Arbeiten der amtlichen Vermessung selber auszuführen, sofern sie über eine eigene Dienststelle für Vermessung unter Leitung eines im Register eingetragenen Ingenieur-Geometers oder einer im Register eingetragenen Ingenieur-Geometerin verfügen.[^46-2]
+<sup>1</sup> Das EJPD und das VBS regeln gemeinsam die Grundzüge des elektronischen Geschäftsverkehrs zwischen den Stellen der amtlichen Vermessung und den Grundbuchämtern.
 
-<sup>2</sup> Bei der Projektierung von Ersterhebungen, Erneuerungen und Nachführungen im Bahngebiet sind die Bahnunternehmungen nach Absatz 1 anzuhören. Die von den Bahnunternehmungen nach den Grundsätzen und Anforderungen der amtlichen Vermessung erhobenen Daten der Informationsebenen Fixpunkte, Bodenbedeckung, Einzelobjekte und Höhen sind in die amtliche Vermessung aufzunehmen.[^46-3]
+<sup>2</sup> Im Übrigen regeln die Kantone den Geschäftsverkehr zwischen amtlicher Vermessung und Grundbuch.
 
-<sup>3</sup> Die Kantone vereinbaren mit den Bahnunternehmungen die Entschädigung für Leistungen nach den Absätzen 1 und 2.
+[^46-1]: Fassung gemäss Ziff. I der V vom 23. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
-[^46-1]: [SR 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
-[^46-2]: Fassung gemäss Ziff. I der V vom 21. Mai 2008, in Kraft seit 1. Juli 2008 ([AS 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
-[^46-3]: Fassung des zweiten Satzes gemäss Ziff. I der V vom 7. März 2003, in Kraft seit 1. April 2003 ([AS 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
+#### Art. 46a
+
+**Mutationsurkunden und beglaubigte Auszüge**[^46a-1]
+
+<sup>1</sup>
+
+Die Kantone legen fest, welche im Geometerregister eingetragenen Ingenieur-Geometer und -Geometerinnen:
+
+- a. Mutationsurkunden unterzeichnen dürfen;
+- b. beglaubigte Auszüge nach Artikel 37 ausstellen dürfen.
+
+<sup>2</sup> Die elektronische Ausstellung beglaubigter Auszüge richtet sich nach der Verordnung vom 8. Dezember 2017[^46a-2] über die Erstellung elektronischer öffentlicher Urkunden und elektronischer Beglaubigungen.
+
+[^46a-1]: Eingefügt durch Ziff. I der V vom 23. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
+[^46a-2]: [SR 211.435.1](https://fedlex.data.admin.ch/eli/cc/2018/29)
 
 ## 8. Kapitel: Programmvereinbarungen, Bundesbeiträge und Restkosten
 
@@ -740,7 +758,7 @@ Die Bemessung des Bundesbeitrags an die Finanzierung der amtlichen Vermessung ri
 Nicht anrechenbar sind namentlich:
 
 - a. die Kosten der laufenden Nachführung und der Verwaltung;
-- b. die aus kantonalen Erweiterungen entstehenden Kosten;
+- b.[^47d-2] …
 - c. die Kosten der kantonalen Vermessungsaufsicht;
 - d. die an kantonale und kommunale Organe für deren Mitwirkung bei der Vermarkung und Vermessung geleisteten Entschädigungen;
 - e. die Kosten der kantonalen Verifikation und der öffentlichen Auflage;
@@ -751,6 +769,7 @@ Nicht anrechenbar sind namentlich:
 - j. die Kosten der Behebung von Widersprüchen nach Artikel 14*a*.
 
 [^47d-1]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 764](https://fedlex.data.admin.ch/eli/oc/2022/764)).
+[^47d-2]: Aufgehoben durch Ziff. I der V vom 23. Aug. 2023, mit Wirkung seit 1. Jan. 2024 ([AS 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 48
 
@@ -804,7 +823,7 @@ Es werden aufgehoben:
 [^50-1]: [BS **2** 568]
 [^50-2]: [BS **2** 592; [AS 1980 106](https://fedlex.data.admin.ch/eli/oc/1980/106_106_106)]
 [^50-3]: [BS **2** 658]
-[^50-4]: [[AS 1971 704](https://fedlex.data.admin.ch/eli/oc/1971/704_704_704), [1991 370](https://fedlex.data.admin.ch/eli/oc/1991/370_370_370)Anhang Ziff. 2]
+[^50-4]: [[AS 1971 704](https://fedlex.data.admin.ch/eli/oc/1971/704_704_704); [1991 370](https://fedlex.data.admin.ch/eli/oc/1991/370_370_370)Anhang Ziff. 2]
 
 ### 2. Abschnitt: Übergangsbestimmungen
 
@@ -831,13 +850,13 @@ Es werden aufgehoben:
 
 <sup>1</sup> Die kantonale Vermessungsaufsicht bestimmt, ob Erstvermessungen und Erneuerungen, die vor Ablauf von zwei Jahren nach Inkrafttreten dieser Verordnung begonnen wurden, nach alter oder neuer Ordnung auszuführen sind.
 
-<sup>2</sup> Die kantonale Vermessungsaufsicht entscheidet im Einvernehmen mit der Eidgenössischen Vermessungsdirektion, ob und allenfalls wieweit Vermessungen, die im Zeitpunkt des Inkrafttretens dieser Verordnung in Ausführung begriffen sind, nach neuer Ordnung zu Ende zu führen sind.
+<sup>2</sup> Die kantonale Vermessungsaufsicht entscheidet im Einvernehmen mit der Fachstelle Eidgenössische Vermessungsdirektion, ob und allenfalls wieweit Vermessungen, die im Zeitpunkt des Inkrafttretens dieser Verordnung in Ausführung begriffen sind, nach neuer Ordnung zu Ende zu führen sind.
 
 #### Art. 53
 
 **Nachführung von Vermessungen alter Ordnung**
 
-Die kantonale Vermessungsaufsicht entscheidet im Einvernehmen mit der Eidgenössischen Vermessungsdirektion, ob und allenfalls wieweit Vermessungen alter Ordnung nach der neuen Ordnung nachzuführen sind.
+Die kantonale Vermessungsaufsicht entscheidet im Einvernehmen mit der Fachstelle Eidgenössische Vermessungsdirektion, ob und allenfalls wieweit Vermessungen alter Ordnung nach der neuen Ordnung nachzuführen sind.
 
 #### Art. 54
 
@@ -856,9 +875,10 @@ Für Arbeiten, die aufgrund des kantonalen Entscheides gemäss den Artikeln 52 u
 
 <sup>2</sup> Bestehende Übersichtspläne sind in jenen Gebieten nachzuführen, in denen die für ihre Ablösung erforderlichen Daten der amtlichen Vermessung nicht zur Verfügung stehen.
 
-<sup>3</sup> Der Bund beteiligt sich nur an Kosten, wo keine amtliche Vermessung nach neuer Ordnung vorhanden ist.
+<sup>3</sup> …[^55-2]
 
 [^55-1]: Fassung gemäss Ziff. I der V vom 7. März 2003, in Kraft seit 1. April 2003 ([AS 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
+[^55-2]: Aufgehoben durch Ziff. I der V vom 23. Aug. 2023, mit Wirkung seit 1. Jan. 2024 ([AS 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 56
 
@@ -881,9 +901,29 @@ Für Arbeiten, die aufgrund des kantonalen Entscheides gemäss den Artikeln 52 u
 
 <sup>1</sup> Bis zum Inkrafttreten des Vertrags nach Artikel 14 Absatz 3 GeoIG dürfen für Datenbezüge der Bundesbehörden aus der amtlichen Vermessung nur der zeitliche Aufwand und die auftragsbedingten Kosten berücksichtigt werden.
 
-<sup>2</sup> Die Kantone legen für die Übergangszeit bis zum 31. Dezember 2016 für die amtliche Vermessung im gesamten Kantonsgebiet ein einheitliches Lagebezugssystem mit Lagebezugsrahmen fest.
+<sup>2</sup> …[^57-2]
 
 [^57-1]: Fassung gemäss Ziff. I der V vom 21. Mai 2008, in Kraft seit 1. Juli 2008 ([AS 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+[^57-2]: Aufgehoben durch Ziff. I der V vom 23. Aug. 2023, mit Wirkung seit 1. Jan. 2024 ([AS 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
+
+#### Art. 57a
+
+**Übergangsbestimmungen zur Änderung vom 23. August 2023**[^57a-1]
+
+<sup>1</sup> Ändert das VBS die Anforderungen an das Geodatenmodell (Art. 6), so regelt es den Übergang vom bestehenden zum geänderten Geodatenmodell.
+
+<sup>2</sup> Es legt dabei fest, welche bisherigen Bestimmungen dieser Verordnung über das Datenmodell für eine bestimmte Zeit weitergelten.
+
+<sup>3</sup>
+
+Die Aufhebung der Informationsebene Rohrleitungen findet in folgenden Schritten statt:
+
+- a. Der Geobasisdatensatz Rohrleitungen (Identifikator 222), der mit der Rohrleitungssicherheitsverordnung vom 4. Juni 2021[^57a-2] geschaffen wurde, und die Informationsebene Rohrleitungen der amtlichen Vermessung werden vorläufig parallel verwaltet und nachgeführt.
+- b. Das Bundesamt für Energie (BFE) überprüft anhand der Daten der Informationsebene Rohrleitungen die Daten des Geobasisdatensatzes Rohrleitungen.
+- c. Das Bundesamt für Landestopografie legt in Absprache mit dem BFE den Zeitpunkt fest, in welchem die Informationsebene Rohrleitungen der amtlichen Vermessung aufgehoben und gelöscht werden kann; es teilt diesen Zeitpunkt den Kantonen mit und veröffentlicht den Beschluss im Bundesblatt.
+
+[^57a-1]: Eingefügt durch Ziff. I der V vom 23. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
+[^57a-2]: [SR 746.12](https://fedlex.data.admin.ch/eli/cc/2021/348)
 
 ### 3. Abschnitt: Inkrafttreten
 
@@ -901,36 +941,36 @@ Anhang[^t-1]
 
 Für die Bemessung des Bundesbeitrags an die Finanzierung von Vorhaben der Kantone nach Artikel 47*c* sind die folgenden Prozentwerte massgeblich; diese bezeichnen den Anteil an den anrechenbaren Kosten nach den Artikeln 47*d* und 48:
 
-**1. Ersterhebung:**
+\1. Ersterhebung:
 
 - a. für überbaute Gebiete und Bauzonen (Zone I): 15 Prozent;
 - b. für Landwirtschafts- und Forstwirtschaftsgebiete im Talgebiet gemäss landwirtschaftlichem Produktionskataster (Zone II): 30 Prozent;
 - c. für Landwirtschafts- und Forstwirtschaftsgebiete im Berg- und Sömmerungsgebiet gemäss landwirtschaftlichem Produktionskataster (Zone III): 45 Prozent.
 
-**2. Neuerhebung**
+\2. Neuerhebung
 
 Wird eine Vermessung ersetzt, die gemäss den vor dem 10. Juni 1919 geltenden Vorschriften erstellt worden ist, so gelten die Werte nach Ziffer 1.
 
-**3. Erneuerung:**
+\3. Erneuerung:
 
 - a. für überbaute Gebiete und Bauzonen (Zone I): 15 Prozent;
 - b. für Landwirtschafts- und Forstwirtschaftsgebiete im Talgebiet gemäss landwirtschaftlichem Produktionskataster (Zone II): 20 Prozent;
 - c. für Landwirtschafts- und Forstwirtschaftsgebiete im Berg- und Sömmerungsgebiet gemäss landwirtschaftlichem Produktionskataster (Zone III): 35 Prozent;
 - d. bei Gesamtmeliorationen und Landumlegungen in der Land- und Forstwirtschaft, sofern der Bund dafür nicht gestützt auf andere Rechtsgrundlagen Abgeltungen leistet und sofern diese Kosten nicht zulasten Dritter gehen: 25 Prozent.
 
-**4. Vermarkung**
+\4. Vermarkung
 
 Vermarkung der Hoheits- und Eigentumsgrenzen für Landwirtschafts- und Forstwirtschaftsgebiete im Berg- und Sömmerungsgebiet gemäss landwirtschaftlichem Produktionskataster (Zone III), sofern der Kanton einen angemessenen Kostenanteil übernimmt: 25 Prozent.
 
-**5. Massnahmen infolge von Naturereignissen**
+\5. Massnahmen infolge von Naturereignissen
 
 Für Massnahmen, die infolge von Naturereignissen oder infolge dauernder Bodenverschiebungen vorgenommen werden und einer Ersterhebung gleichkommen, werden die Ansätze für die Ersterhebung und Vermarkung angewendet.
 
-**6. Besondere Anpassungen und periodische Nachführung:**
+\6. Besondere Anpassungen und periodische Nachführung:
 
 - a. für besondere Anpassungen von aussergewöhnlich hohem nationalem Interesse, sofern der Kanton nachweist, dass die Finanzierung sichergestellt ist: 60 Prozent;
 - b. von den Kosten der periodischen Nachführung, die nicht der Verursacher trägt und deren Finanzierung laut Auskunft des Kantons nachweislich sichergestellt ist, pro Periode nach Artikel 24 Absatz 3: 60 Prozent.
 
-**7. Pilotprojekte**
+\7. Pilotprojekte
 
 Innovative Pilotprojekte zur Weiterentwicklung der amtlichen Vermessung und zur Erprobung neuer Technologien: 50–90 Prozent, bemessen nach dem Innovationsgehalt und dem Interesse des Bundes.

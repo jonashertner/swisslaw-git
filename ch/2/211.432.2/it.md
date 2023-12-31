@@ -4,11 +4,11 @@ title: Ordinanza del 18 novembre 1992 concernente la misurazione ufficiale (OMU)
 short: OMU
 eli: "https://fedlex.data.admin.ch/eli/cc/1992/2446_2446_2446"
 language: it
-version: 2023-09-01
+version: 2024-01-01
 adopted: 1992-11-18
 in_force: 1993-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/2446_2446_2446/20230901/it/xml/fedlex-data-admin-ch-eli-cc-1992-2446_2446_2446-20230901-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1992/2446_2446_2446/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/2446_2446_2446/20240101/it/xml/fedlex-data-admin-ch-eli-cc-1992-2446_2446_2446-20240101-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1992/2446_2446_2446/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1992/2446_2446_2446/20230901/it"
 
 (OMU)
 
-del 18 novembre 1992 (Stato 1° settembre 2023)
+del 18 novembre 1992 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -34,13 +34,14 @@ ordina:
 
 #### Art. 1
 
-**Definizione e scopo**[^1-1]
+**Funzioni della misurazione ufficiale**[^1-1]
 
-<sup>1</sup> Sono considerate misurazioni ufficiali ai sensi dell’articolo 950 CC le misurazioni catastali per l’impianto e la tenuta del registro fondiario approvate dal Cantone e riconosciute dalla Confederazione.
+La misurazione ufficiale:
 
-<sup>2</sup> I dati della misurazione ufficiale sono geodati di riferimento utilizzati da autorità della Confederazione, dei Cantoni e dei Comuni nonché dall’economia, dalla scienza e da terzi per ottenere geoinformazioni.
+- a. mette a disposizione delle autorità federali, cantonali e comunali nonché dell’economia, della scienza e di terzi i geodati di riferimento secondo l’articolo 29 capoverso 1 LGI relativi a oggetti situati su, sopra o sotto la superficie terrestre;
+- b. assicura la disponibilità dei geodati necessari per l’impianto e la tenuta del registro fondiario ai sensi dell’articolo 950 CC.
 
-[^1-1]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+[^1-1]: Nuovo testo giusta il n. I dell’O del 23 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 1a
 
@@ -53,9 +54,11 @@ Per quanto la presente ordinanza non preveda prescrizioni particolari, alla misu
 
 #### Art. 2
 
-[^2-1]
+**Cooperazione dei Cantoni, audizione delle organizzazioni**[^2-1]
 
-[^2-1]: Abrogato dal n. I dell’O del 21 mag. 2008, con effetto dal 1° lug. 2008 ([RU 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+Nella preparazione di norme tecniche e altre disposizioni federali nell’ambito di validità della presente ordinanza che non riguardano esclusivamente l’Amministrazione federale, la Confederazione assicura in modo idoneo la partecipazione dei Cantoni e l’audizione delle organizzazioni partner.
+
+[^2-1]: Nuovo testo giusta il n. I dell’O del 23 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 3
 
@@ -65,79 +68,55 @@ Per quanto la presente ordinanza non preveda prescrizioni particolari, alla misu
 
 <sup>2</sup> I Cantoni allestiscono i piani d’attuazione che costituiscono la base per la conclusione di accordi di programma giusta l’articolo 31 capoverso 2 LGI.
 
-<sup>3</sup> In occasione di ricomposizioni particellari e nelle regioni in cui un riordino fondiario o selvicolo necessario non è realizzabile in un prossimo avvenire, i lavori tecnici di rilevamento dei dati relativi al livello d’informazione «beni immobili» sono eseguiti secondo una procedura semplificata. Il DDPS stabilisce i requisiti tecnici.
+<sup>3</sup> ...[^3-2]
 
 [^3-1]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+[^3-2]: Abrogato dal n. I dell’O del 23 ago. 2023, con effetto dal 1° gen. 2024 ([RU 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 4
 
 **Impianti militari**
 
-È fatta riserva delle prescrizioni sulla misurazione di impianti militari che derogano alla presente ordinanza.
+<sup>1</sup> È fatta riserva delle prescrizioni sulla misurazione di impianti militari che derogano alla presente ordinanza.
+
+<sup>2</sup> In caso di conversione di impianti militari all’uso civile, il DDPS disciplina la procedura per il loro inserimento nella misurazione ufficiale e la copertura dei costi.[^4-1]
+
+[^4-1]: Introdotto dal n. I dell’O del 23 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 ## Capitolo 2: Contenuto della misurazione ufficiale
 
 #### Art. 5
 
-**Componenti della misurazione ufficiale**
+**Componenti della misurazione ufficiale**[^5-1]
+
+<sup>1</sup>
 
 Sono componenti della misurazione ufficiale:
 
-- a. i punti fissi e i segni di terminazione;
-- b.[^5-1] i dati secondo il modello dei dati della misurazione ufficiale;
-- c.[^5-2] il piano per il registro fondiario e gli altri estratti dei dati della misurazione ufficiale allestiti per la tenuta del registro fondiario;
-- d. i documenti tecnici da allestire;
-- e. le componenti e le basi della misurazione ufficiale secondo il vecchio regime;
-- f.[^5-3] il piano di base della misurazione ufficiale.
+- a. i dati;
+- b. i segni dei punti fissi e i segni di terminazione sul terreno (segni puntuali);
+- c. i documenti tecnici e amministrativi;
+- d. le componenti e le basi della misurazione ufficiale secondo il vecchio regime.
 
-[^5-1]: Nuovo testo giusta il n. I dell’O del 7 mar. 2003, vigore il 1° apr. 2003 ([RU 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
-[^5-2]: Nuovo testo giusta il n. I dell’O del 7 mar. 2003, vigore il 1° apr. 2003 ([RU 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
-[^5-3]: Introdotta dal n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+<sup>2</sup> Il DDPS regola i dettagli, in particolare i prodotti derivati dai dati della misurazione ufficiale. È fatto salvo l’articolo 7.
+
+[^5-1]: Nuovo testo giusta il n. I dell’O del 23 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 6
 
-**Modello dei dati della misurazione ufficiale**[^6-1]
+**Modello di geodati della misurazione ufficiale**[^6-1]
 
-<sup>1</sup> Il modello dei dati descrive il contenuto, conformemente al catalogo degli oggetti, e la struttura dei dati in un linguaggio di descrizione dei dati normalizzato.
+<sup>1</sup> Il DDPS stabilisce i requisiti del modello di geodati per la misurazione ufficiale, segnatamente per quanto riguarda il contenuto, le dimensioni, la precisione e l’attendibilità. Il modello di geodati può avere una struttura modulare.
 
-<sup>2</sup>
+<sup>2</sup> Non sono ammesse estensioni cantonali del modello di geodati.
 
-Il catalogo degli oggetti comprende i livelli d’informazione seguenti:
-
-- a. i punti fissi;
-- b. la copertura del suolo;
-- c. gli oggetti singoli;
-- d. l’altimetria;
-- e. la nomenclatura;
-- f. i beni immobili;
-- g. le condotte sotterranee;
-- h.[^6-2] i confini giurisdizionali;
-- i.[^6-3] gli spostamenti di terreno permanenti;
-- j.[^6-4] gli indirizzi degli edifici;
-- k.[^6-5] le suddivisioni amministrative.
-
-<sup>3</sup> Il livello d’informazione «beni immobili» comprende i fondi ai sensi dell’articolo 655 capoverso 2 CC, sempre che possano essere differenziati secondo la superficie, eccettuate le quote di comproprietà.[^6-6]
-
-[^6-1]: Nuovo testo giusta il n. I dell’O del 7 mar. 2003, vigore il 1° apr. 2003 ([RU 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
-[^6-2]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
-[^6-3]: Introdotta dal n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
-[^6-4]: Introdotta dal n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
-[^6-5]: Introdotta dal n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
-[^6-6]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+[^6-1]: Nuovo testo giusta il n. I dell’O del 23 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 6a
 
-**Competenza del DDPS**[^6a-1]
+[^6a-1]
 
-<sup>1</sup> Il DDPS definisce il catalogo degli oggetti e stabilisce i dati da rilevare, la loro precisione e attendibilità, nonché le altre esigenze ad essi relative. Per motivi imperativi di ordine materiale può derogare agli articoli 3, 10 e 17 OGI[^6a-2] [^6a-3].
-
-<sup>2</sup> Stabilisce l’interfaccia della misurazione ufficiale (IMU).
-
-<sup>3</sup> Stabilisce il contenuto e disciplina la tenuta a giorno e la gestione degli estratti dei dati della misurazione ufficiale e dei documenti tecnici da allestire.
-
-[^6a-1]: Introdotto dal n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
-[^6a-2]: Nuova espr. giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 764](https://fedlex.data.admin.ch/eli/oc/2022/764)).
-[^6a-3]: [RS 510.620](https://fedlex.data.admin.ch/eli/cc/2008/389)
+[^6a-1]: Introdotto dal n. I dell’O del 21 mag. 2008 ([RU 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)). Abrogato dal n. I dell’O del 23 ago. 2023, con effetto dal 1° gen. 2024 ([RU 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 6<sup>bis</sup>
 
@@ -149,18 +128,24 @@ Il catalogo degli oggetti comprende i livelli d’informazione seguenti:
 
 **Piano per il registro fondiario**[^7-1]
 
-<sup>1</sup> Il piano per il registro fondiario è l’estratto grafico analogico o digitale allestito sulla base dei dati della misurazione ufficiale che, come parte integrante del registro fondiario, delimita i beni immobili, i diritti per sé stanti e permanenti nonché le miniere, differenziati secondo la superficie; ad esso sono conferiti gli effetti giuridici delle iscrizioni nel registro fondiario.[^7-2]
+<sup>1</sup> Il piano per il registro fondiario è un estratto analogico o digitale dei dati della misurazione ufficiale.
 
-<sup>2</sup> Nel piano per il registro fondiario sono indicati i contenuti dei livelli d’informazione «punti fissi», «copertura del suolo», «oggetti singoli», «nomenclatura», «beni immobili», «condotte sotterranee», «confini giurisdizionali», «indirizzi degli edifici» e «suddivisioni amministrative».[^7-3]
+<sup>2</sup>
 
-<sup>3</sup> I Cantoni possono prescrivere che oltre ai dati della misurazione ufficiale anche i confini delle servitù siano rappresentati, sempreché sia possibile una chiara definizione planimetrica.
+Contiene almeno i dati su:
 
-<sup>4</sup> La Direzione federale delle misurazioni catastali definisce il modello di rappresentazione del piano per il registro fondiario.[^7-4]
+- a. i punti e le linee di confine dei beni immobili (art. 943 cpv. 1 n. 1 CC);
+- b. i punti e le linee di confine dei diritti per sé stanti e permanenti costituiti sui fondi e differenziati secondo la superficie (art. 943 cpv. 1 n. 2 CC);
+- c. le miniere (art. 943 cpv. 1 n. 3 CC);
+- d. i territori interessati da spostamenti di terreno permanenti (art. 660*a* CC).
 
-[^7-1]: Nuovo testo giusta il n. I dell’O del 7 mar. 2003, vigore il 1° apr. 2003 ([RU 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
-[^7-2]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
-[^7-3]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
-[^7-4]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+<sup>3</sup> L’insieme minimo del piano ha effetto sul registro fondiario (art. 971–974 CC).
+
+<sup>4</sup> I Cantoni possono prescrivere che oltre ai dati della misurazione ufficiale anche i confini delle servitù siano rappresentati, sempreché sia possibile una chiara definizione planimetrica.
+
+<sup>5</sup> Il Dipartimento federale di giustizia e polizia (DFGP) e il DDPS stabiliscono congiuntamente i requisiti del piano per il registro fondiario e degli altri estratti, segnatamente per quanto riguarda il contenuto e la presentazione.
+
+[^7-1]: Nuovo testo giusta il n. I dell’O del 23 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 8 e 9
 
@@ -170,12 +155,9 @@ Il catalogo degli oggetti comprende i livelli d’informazione seguenti:
 
 #### Art. 10
 
-**Ampliamenti cantonali del modello dei dati della Confederazione**[^10-1]
+[^10-1]
 
-I Cantoni possono ampliare i contenuti della misurazione ufficiale previsti dal diritto federale nei limiti stabiliti dal DDPS[^10-2] e prescrivere esigenze supplementari in materia di misurazione.
-
-[^10-1]: Nuovo testo giusta il n. I dell’O del 7 mar. 2003, vigore il 1° apr. 2003 ([RU 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
-[^10-2]: Nuova espressione giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)). Di detta modifica è stato tenuto conto in tutto il presente testo.
+[^10-1]: Abrogato dal n. I dell’O del 23 ago. 2023, con effetto dal 1° gen. 2024 ([RU 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 ## Capitolo 3: Demarcazione
 
@@ -187,7 +169,9 @@ I Cantoni possono ampliare i contenuti della misurazione ufficiale previsti dal 
 
 <sup>1</sup> La demarcazione comprende l’accertamento dei confini e la posa dei segni di terminazione.
 
-<sup>2</sup> Devono essere fissati con termini i confini territoriali, i confini degli immobili nonché i confini di diritti per sé stanti e permanenti (sempre che possano essere differenziati secondo la superficie).
+<sup>2</sup> Devono essere fissati con termini i confini giurisdizionali, i confini dei beni immobili nonché i confini dei diritti per sé stanti e permanenti (sempre che possano essere differenziati secondo la superficie). È fatto salvo l’articolo 17.[^11-1]
+
+[^11-1]: Nuovo testo giusta il n. I dell’O del 23 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 12
 
@@ -208,28 +192,29 @@ Nei limiti della presente ordinanza i Cantoni emanano prescrizioni sulla demarca
 I Cantoni possono disporre che l’accertamento dei confini avvenga in base a piani, riprese fotogrammetriche o altri documenti idonei:
 
 - a.[^13-1] nelle zone agricole e forestali delle regioni di montagna o di estivazione secondo il catasto della produzione agricola[^13-2] nonché in quelle non produttive;
-- b. nell’ambito della tenuta a giorno, sempreché i proprietari interessati diano il loro consenso.
+- b.[^13-3] nell’ambito della tenuta a giorno, sempreché i proprietari fondiari interessati diano il loro consenso.
 
 [^13-1]: Nuovo testo giusta il n. I dell’O del 7 mar. 2003, vigore il 1° apr. 2003 ([RU 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
 [^13-2]: [RS 912.1](https://fedlex.data.admin.ch/eli/cc/1999/46)
+[^13-3]: Nuovo testo giusta il n. I dell’O del 23 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 14
 
 **Tracciato dei confini**[^14-1]
 
-<sup>1</sup> Come linea di confine vale la retta o un arco di cerchio tra due punti del confine.
+<sup>1</sup> Come linea di confine vale una linea o un arco di cerchio tra due punti di confine.
 
-<sup>2</sup> In occasione del primo rilevamento, del rinnovamento o dei lavori di tenuta a giorno del livello d’informazione «beni immobili» occorre tendere a una semplificazione del tracciato dei confini. Le linee di confine esistenti devono essere per quanto possibile rettificate.
+<sup>2</sup> In occasione del primo rilevamento, del rinnovamento o dei lavori di tenuta a giorno permanente occorre tendere a una semplificazione del tracciato dei confini. Le linee di confine esistenti devono essere per quanto possibile rettificate.
 
-[^14-1]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+[^14-1]: Nuovo testo giusta il n. I dell’O del 23 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 14a
 
 **Correzione di contraddizioni**[^14a-1]
 
-Le contraddizioni tra i piani della misurazione ufficiale e la realtà o tra i piani stessi sono corrette d’ufficio.
+Le contraddizioni tra i dati della misurazione ufficiale e la situazione sul terreno o tra il piano per il registro fondiario e altri piani della misurazione ufficiale sono corrette d’ufficio, tenendo conto dell’articolo 668 capoverso 2 CC.
 
-[^14a-1]: Introdotto dal n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+[^14a-1]: Introdotto dal n. I dell’O del 21 mag. ([RU 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)). Nuovo testo giusta il n. I dell’O del 23 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 ### Sezione 3: Posa dei segni di terminazione
 
@@ -243,7 +228,7 @@ I segni di terminazione devono essere posati in modo che i confini siano sempre 
 
 **Momento della posa**
 
-<sup>1</sup> Di regola i segni di terminazione devono essere posati prima del rilevamento dei dati del livello d’informazione «beni immobili».
+<sup>1</sup> Di regola i segni di terminazione devono essere posati prima che i confini siano rilevati per la prima volta.[^16-1]
 
 <sup>2</sup>
 
@@ -253,6 +238,8 @@ La posa di singoli segni di terminazione può avvenire dopo il rilevamento dei d
 - b. se per un motivo importante non è possibile o opportuno eseguire prima questo lavoro.
 
 <sup>3</sup> I segni di terminazione mancanti ai sensi del capoverso 2 devono essere posati non appena le circostanze lo permettano.
+
+[^16-1]: Nuovo testo giusta il n. I dell’O del 23 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 17
 
@@ -285,17 +272,19 @@ I Cantoni possono prevedere ulteriori eccezioni, segnatamente:
 
 <sup>1</sup> Per primo rilevamento s’intende l’allestimento delle componenti della misurazione ufficiale nelle regioni per le quali non esiste una misurazione ufficiale riconosciuta definitivamente nonché nelle regioni ai sensi dell’articolo 51 capoversi 3 e 4.
 
-<sup>2</sup> Per rinnovamento s’intende l’allestimento delle componenti della misurazione ufficiale secondo il nuovo regime mediante trasformazione e completamento di una misurazione ufficiale riconosciuta come definitiva.
+<sup>2</sup> Per rinnovamento s’intende la trasformazione o il completamento di una misurazione ufficiale riconosciuta come definitiva per adeguarla alle prescrizioni attuali.[^18-1]
 
 <sup>3</sup> Per tenuta a giorno s’intende l’adeguamento delle componenti della misurazione ufficiale alle mutate situazioni giuridiche ed effettive.
+
+[^18-1]: Nuovo testo giusta il n. I dell’O del 23 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 19
 
 **Metodo**
 
-La Direzione federale delle misurazioni catastali[^19-1] può emanare direttive concernenti il primo rilevamento, il rinnovamento e la tenuta a giorno.
+Il servizio specializzato Direzione federale delle misurazioni catastali[^19-1] può emanare direttive concernenti il primo rilevamento, il rinnovamento e la tenuta a giorno.
 
-[^19-1]: Nuova espressione giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)). Di detta modifica è stato tenuto conto in tutto il presente testo.
+[^19-1]: Nuova espr. giusta il n. I dell’O del 23 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)). Di detta mod. è stato tenuto conto in tutto il presente testo.
 
 #### Art. 20
 
@@ -310,13 +299,14 @@ Il riferimento planimetrico e altimetrico della misurazione ufficiale si fonda s
 
 **Data dell’esecuzione**[^21-1]
 
-<sup>1</sup> La Direzione federale delle misurazioni catastali e il servizio cantonale competente pianificano l’esecuzione della misurazione ufficiale sulla base dell’accordo di programma.
+<sup>1</sup> Il servizio specializzato Direzione federale delle misurazioni catastali e il servizio cantonale competente pianificano l’esecuzione della misurazione ufficiale sulla base dell’accordo di programma.
 
 <sup>2</sup> Il Cantone stabilisce la data dell’esecuzione delle singole misurazioni. Esso disciplina la procedura d’indagine conoscitiva.
 
-<sup>3</sup> Il Cantone può stabilire che il primo rilevamento e il rinnovamento siano eseguiti a tappe. Ogni tappa comprende almeno un livello d’informazione completo e si estende a un più vasto territorio contiguo; la prima tappa deve comprendere il livello d’informazione «punti fissi». Se dal profilo tecnico, si rivela opportuna un’altra procedura, il Cantone la sottopone alla Direzione federale delle misurazioni catastali per approvazione.
+<sup>3</sup> ...[^21-2]
 
 [^21-1]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+[^21-2]: Abrogato dal n. I dell’O del 23 ago. 2023, con effetto dal 1° gen. 2024 ([RU 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 ### Sezione 2: Tenuta a giorno
 
@@ -328,13 +318,15 @@ Tutte le componenti della misurazione ufficiale soggiacciono all’obbligo della
 
 #### Art. 23
 
-**Tenuta a giorno permanente**
+**Tenuta a giorno permanente**[^23-1]
 
-<sup>1</sup> Le componenti della misurazione ufficiale per la cui tenuta a giorno può essere istituito un sistema di comunicazione, devono essere aggiornate entro un anno da quando è avvenuta una modifica.[^23-1]
+<sup>1</sup> Le componenti della misurazione ufficiale per la cui tenuta a giorno può essere istituito un sistema di comunicazione, devono essere aggiornate entro sei mesi da quando è avvenuta una modifica.
 
-<sup>2</sup> I Cantoni organizzano il sistema di comunicazione e fissano i termini della tenuta a giorno.
+<sup>2</sup> Sentito il servizio specializzato Direzione federale delle misurazioni catastali, in casi fondati i Cantoni possono prevedere termini differenti.
 
-[^23-1]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+<sup>3</sup> I Cantoni organizzano il sistema di comunicazione.
+
+[^23-1]: Nuovo testo giusta il n. I dell’O del 23 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 24
 
@@ -344,44 +336,33 @@ Tutte le componenti della misurazione ufficiale soggiacciono all’obbligo della
 
 <sup>2</sup> Ciascuna tenuta a giorno periodica deve estendersi ad un più vasto territorio contiguo.
 
-<sup>3</sup> Il ciclo della tenuta a giorno si fonda per quanto possibile su quello della misurazione nazionale. Non può superare i 12 anni.[^24-1]
+<sup>3</sup> Il ciclo di tenuta a giorno si fonda per quanto possibile su quello della misurazione nazionale. Non può superare i 12 anni. Il DDPS disciplina i dettagli della tenuta a giorno.[^24-1]
 
-[^24-1]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+[^24-1]: Nuovo testo giusta il n. I dell’O del 23 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 25
 
-**Tenuta a giorno e registro fondiario**
+[^25-1]
 
-<sup>1</sup> L’ufficiale del registro fondiario può iscrivere nel registro fondiario la divisione o riunione di fondi, nonché diritti per sé stanti e permanenti differenziati secondo la superficie solo qualora venga esibito il documento di mutazione, firmato dall’ingegnere geometra competente iscritto nel registro dei geometri.[^25-1]
-
-<sup>2</sup> Per il rimanente i Cantoni disciplinano le relazioni tra misurazione ufficiale e registro fondiario.
-
-[^25-1]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+[^25-1]: Abrogato dal n. I dell’O del 23 ago. 2023, con effetto dal 1° gen. 2024 ([RU 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 ### Sezione 3: Verifica
 
 #### Art. 26
 
-<sup>1</sup> L’autorità cantonale di vigilanza sulle misurazioni esamina, secondo le direttive della Direzione federale delle misurazioni catastali, qualità e completezza di tutte le componenti della misurazione ufficiale. È fatta riserva del capoverso 2.
+[^26-1]
 
-<sup>2</sup> L’esecuzione della verifica dei punti fissi planimetrici 2 nonché dei punti fissi altimetrici 2 compete all’Ufficio federale di topografia. Il DDPS definisce i termini «punto fisso planimetrico» e «punto fisso altimetrico».
+Il servizio cantonale di vigilanza sulle misurazioni (art. 42) esamina, secondo le direttive del servizio specializzato Direzione federale delle misurazioni catastali, qualità e completezza di tutte le componenti della misurazione ufficiale.
+
+[^26-1]: Nuovo testo giusta il n. I dell’O del 23 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 ### Sezione 4: Procedura d’opposizione, approvazione e indennizzo
 
 #### Art. 27
 
-**Esame preliminare**
+[^27-1]
 
-<sup>1</sup> Terminata la verifica, la Direzione federale delle misurazioni catastali esamina se le esigenze della Confederazione sono state rispettate. Essa designa i documenti da presentare.[^27-1]
-
-<sup>2</sup> Essa comunica al Cantone il risultato dell’esame in un rapporto e gli garantisce il versamento dell’indennizzo, sempre che siano state corrette le carenze rilevate.
-
-<sup>3</sup> Eventuali carenze rilevate nel rapporto devono essere corrette prima del deposito pubblico.
-
-<sup>4</sup> La Confederazione e il Cantone possono convenire di rinunciare all’esame preliminare.[^27-2]
-
-[^27-1]: Nuovo testo giusta il n. I dell’O del 7 mar. 2003, vigore il 1° apr. 2003 ([RU 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
-[^27-2]: Introdotto dal n. I dell’O del 28 gen. 1998 ([RU 1998 270](https://fedlex.data.admin.ch/eli/oc/1998/270_270_270)). Nuovo testo giusta il n. I dell’O del 7 mar. 2003, vigore il 1° apr. 2003 ([RU 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
+[^27-1]: Abrogato dal n. I dell’O del 23 ago. 2023, con effetto dal 1° gen. 2024 ([RU 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 28
 
@@ -398,40 +379,42 @@ I Cantoni disciplinano la procedura tenendo conto dei principi seguenti:
 - a. il deposito pubblico dura 30 giorni;
 - b. il deposito è pubblicato ufficialmente;
 - c. i proprietari fondiari il cui indirizzo è noto sono inoltre informati per posta normale sul deposito e sui rimedi giuridici a loro disposizione;
-- d. al proprietario fondiario che lo richiede è spedita una copia dell’estratto del piano per il registro fondiario;
+- d.[^28-2] al proprietario fondiario che lo richiede è spedito un estratto del piano per il registro fondiario relativo al suo fondo secondo l’articolo 7 capoverso 2 lettere a–c.
 - e. la decisione su opposizione può essere impugnata dinanzi a un’autorità cantonale; essa esamina liberamente la decisione;
-- f. quale ultima istanza cantonale deve essere possibile il ricorso a un tribunale giusta l’articolo 75 capoverso 2 della legge del 17 giugno 2005[^28-2] sul Tribunale federale.
+- f. quale ultima istanza cantonale deve essere possibile il ricorso a un tribunale giusta l’articolo 75 capoverso 2 della legge del 17 giugno 2005[^28-3] sul Tribunale federale.
+
+<sup>4</sup> Possono prevedere che il deposito pubblico e la pubblicazione ufficiale siano effettuati esclusivamente per via elettronica.[^28-4]
 
 [^28-1]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
-[^28-2]: [RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^28-2]: Nuovo testo giusta il n. I dell’O del 23 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
+[^28-3]: [RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^28-4]: Introdotto dal n. I dell’O del 23 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 29
 
 **Approvazione**[^29-1]
 
-<sup>1</sup>
-
-Ultimata la procedura di deposito pubblico, compresa la liquidazione delle opposizioni presentate in prima istanza, l’autorità cantonale competente approva, indipendentemente dalle controversie non ancora liquidate in via giudiziaria, i dati della misurazione ufficiale e gli estratti allestiti sulla loro base, segnatamente il piano per il registro fondiario, se:
-
-- a. i dati soddisfano i requisiti tecnici e qualitativi del diritto federale;
-- b. un eventuale esame preliminare ha avuto di principio esito positivo; e
-- c. le carenze emerse in occasione di un esame preliminare sono state eliminate.[^29-2]
+<sup>1</sup> Ultimata la procedura di deposito pubblico, compresa l’evasione delle opposizioni presentate in prima istanza, l’autorità cantonale competente approva, indipendentemente dalle controversie non ancora liquidate in via giudiziaria, i dati della misurazione ufficiale e gli estratti allestiti sulla loro base, segnatamente il piano per il registro fondiario, se i dati soddisfano i requisiti tecnici e qualitativi del diritto federale.[^29-2]
 
 <sup>2</sup> Con l’approvazione, questi elementi della misurazione assumono la forza probatoria di documenti pubblici.
 
 [^29-1]: Nuovo testo giusta il n. I dell’O del 7 mar. 2003, vigore il 1° apr. 2003 ([RU 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
-[^29-2]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+[^29-2]: Nuovo testo giusta il n. I dell’O del 23 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 30
 
 **Riconoscimento da parte della Confederazione**[^30-1]
 
-La Direzione federale delle misurazioni catastali riconosce i lavori di misurazione se:
+<sup>1</sup>
 
-- a. i dati soddisfano i requisiti tecnici e qualitativi del diritto federale; e
+Il servizio specializzato Direzione federale delle misurazioni catastali riconosce i lavori di misurazione se:
+
+- a. la sua verifica formale ha mostrato che i dati soddisfano i requisiti del diritto federale; e
 - b. i lavori di misurazione sono stati approvati dal Cantone.
 
-[^30-1]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+<sup>2</sup> Esso designa i documenti che l’autorità cantonale competente deve presentare.
+
+[^30-1]: Nuovo testo giusta il n. I dell’O del 23 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 30<sup>bis</sup>
 
@@ -449,7 +432,7 @@ La Direzione federale delle misurazioni catastali riconosce i lavori di misurazi
 
 <sup>1</sup>
 
-Nell’ambito della misurazione ufficiale, la Direzione federale delle misurazioni catastali può approvare progetti pilota in singoli Cantoni o per aree geografiche limitate a scopo di sperimentazione e sviluppo:
+Nell’ambito della misurazione ufficiale, il servizio specializzato Direzione federale delle misurazioni catastali può approvare progetti pilota in singoli Cantoni o per aree geografiche limitate a scopo di sperimentazione e sviluppo:
 
 - a. di nuove procedure e competenze;
 - b. di nuove tecnologie;
@@ -482,7 +465,10 @@ Per ogni progetto pilota il DDPS emana in un’ordinanza separata, in accordo co
 
 <sup>1</sup> Le componenti della misurazione ufficiale devono essere gestite in modo tale che l’integralità e la qualità siano garantite in ogni momento.
 
-<sup>2</sup> Il DDPS disciplina i requisiti tecnici e organizzativi della gestione, segnatamente la sicurezza dei dati, l’archiviazione e la storicizzazione.
+<sup>2</sup> Il DDPS disciplina i requisiti tecnici e organizzativi della gestione, segnatamente la sicurezza dei dati, l’archiviazione e la storicizzazione secondo gli articoli 13–16 OGI[^31-1].[^31-2]
+
+[^31-1]: [RS 510.620](https://fedlex.data.admin.ch/eli/cc/2008/389)
+[^31-2]: Nuovo testo giusta il n. I dell’O del 23 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 32
 
@@ -508,6 +494,11 @@ Abrogato
 
 <sup>2</sup> Il Cantone designa il servizio che decide in merito all’accesso e all’utilizzazione e che è competente per il rilascio di estratti e valutazioni.
 
+<sup>3</sup> L’Ufficio federale di topografia gestisce un geoservizio per l’accesso interconnesso ai dati della misurazione ufficiale (art. 36 lett. e OGI[^34-1]).[^34-2]
+
+[^34-1]: [RS 510.620](https://fedlex.data.admin.ch/eli/cc/2008/389)
+[^34-2]: Introdotto dal n. I dell’O del 23 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
+
 #### Art. 35
 
 **Descrizione degli estratti e delle valutazioni**
@@ -516,33 +507,42 @@ Il rilascio di estratti e valutazioni della misurazione ufficiale comprende anch
 
 #### Art. 36
 
-**Interfaccia della misurazione ufficiale**
+**Servizio di telecaricamento e interfacce**[^36-1]
 
-L’accesso ai dati della misurazione ufficiale deve essere garantito come servizio di telecaricamento almeno per il tramite dell’IMU.
+<sup>1</sup> L’accesso ai dati della misurazione ufficiale deve essere garantito attraverso un servizio di telecaricamento.
+
+<sup>2</sup> Il DDPS disciplina i dettagli tecnici e organizzativi del servizio.
+
+<sup>3</sup> Può prevedere ulteriori interfacce.
+
+[^36-1]: Nuovo testo giusta il n. I dell’O del 23 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 37
 
 **Estratti autenticati**
 
-<sup>1</sup> Sono considerati autenticati gli estratti dei geodati di base della misurazione ufficiale in forma analogica o digitale per i quali la conformità con i dati determinanti della misurazione ufficiale è ufficialmente attestata da un ingegnere geometra iscritto nel registro dei geometri.
+<sup>1</sup> Sono considerati autenticati gli estratti dei dati della misurazione ufficiale in forma analogica o digitale per i quali la conformità con i dati determinanti della misurazione ufficiale è ufficialmente attestata da un ingegnere geometra iscritto nel registro dei geometri e autorizzato all*’*autenticazione secondo l*’*articolo 46*a* capoverso 1 lettera b.[^37-1]
 
 <sup>2</sup> Gli estratti autenticati sono documenti pubblici ai sensi dell’articolo 9 CC.
 
-<sup>3</sup> Il DDPS disciplina il rilascio di estratti autenticati in forma elettronica.
+<sup>3</sup> ... [^37-2]
+
+[^37-1]: Nuovo testo giusta il n. I dell’O del 23 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
+[^37-2]: Abrogato dal n. I dell’O del 23 ago. 2023, con effetto dal 1° gen. 2024 ([RU 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 38
 
-**Emolumenti per l’autenticazione**
+[^38-1]
 
-<sup>1</sup> Per l’autenticazione di estratti, oltre agli emolumenti per l’acquisizione dei dati è riscosso un emolumento unitario. Il DDPS stabilisce tale emolumento.
-
-<sup>2</sup> L’emolumento per un’autenticazione che non ha luogo contemporaneamente al rilascio dei dati è calcolato in funzione del tempo impiegato.
+[^38-1]: Abrogato dal n. I dell’O del 23 ago. 2023, con effetto dal 1° gen. 2024 ([RU 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 39
 
-**Rilascio ad autorità federali**
+**Rilascio ad autorità federali**[^39-1]
 
-In occasione del disciplinamento contrattuale giusta l’articolo 14 capoverso 3 LGI, per l’acquisizione di dati della misurazione ufficiale da parte delle autorità federali sono considerati soltanto il tempo impiegato e i costi determinanti dal mandato.
+Se lo scambio di dati tra autorità non è disciplinato contrattualmente giusta l’articolo 14 capoverso 3 LGI, per l’indennizzo del rilascio di dati della misurazione ufficiale ad autorità federali sono considerati soltanto il tempo impiegato e i costi determinanti dal mandato.
+
+[^39-1]: Nuovo testo giusta il n. I dell’O del 23 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 ## Capitolo 7: Organizzazione ed esecuzione
 
@@ -552,28 +552,26 @@ In occasione del disciplinamento contrattuale giusta l’articolo 14 capoverso 3
 
 **Servizio specializzato della Confederazione**
 
-<sup>1</sup> La Direzione federale delle misurazioni catastali è il servizio specializzato della Confederazione. È diretta da un ingegnere geometra iscritto nel registro dei geometri.[^40-1]
+<sup>1</sup> Il servizio specializzato Direzione federale delle misurazioni catastali è il servizio specializzato della Confederazione. È diretto da un ingegnere geometra iscritto nel registro dei geometri.[^40-1]
 
 <sup>2</sup> Ad essa spettano la direzione generale e l’alta sorveglianza in materia di misurazione ufficiale.
 
 <sup>3</sup> Essa provvede all’applicazione e all’esecuzione delle prescrizioni sui requisiti tecnici e qualitativi per la misurazione ufficiale.[^40-2]
 
-<sup>4</sup> Essa assicura inoltre il coordinamento tra la misurazione ufficiale e altri progetti federali di misurazione, consiglia gli uffici federali nell’ambito della raccolta dei dati della misurazione ufficiale e rappresenta gli interessi della Confederazione nei confronti dei Cantoni e di terzi.[^40-3]
+<sup>3bis</sup> In collaborazione con i Cantoni, con l’Ufficio federale per il diritto del registro fondiario e del diritto fondiario e con le organizzazioni partner, essa provvede all’ulteriore sviluppo del modello di geodati della misurazione ufficiale; a questo scopo, può istituire gruppi di lavoro.[^40-3]
 
-<sup>5</sup> In collaborazione con i servizi cantonali di vigilanza sulle misurazioni, essa è autorizzata, nell’adempimento del suo compito, a trattare dati concernenti i differenti lavori di misurazione e i relativi assuntori responsabili.[^40-4]
+<sup>4</sup> Essa assicura inoltre il coordinamento tra la misurazione ufficiale e altri progetti federali di misurazione, consiglia gli uffici federali nell’ambito della raccolta dei dati della misurazione ufficiale e rappresenta gli interessi della Confederazione nei confronti dei Cantoni e di terzi.[^40-4]
 
-<sup>6</sup>
+<sup>5</sup> In collaborazione con i servizi cantonali di vigilanza sulle misurazioni, essa è autorizzata, nell’adempimento del suo compito, a trattare dati concernenti i differenti lavori di misurazione e i relativi assuntori responsabili.[^40-5]
 
-Nel quadro degli accordi di programma essa stabilisce:
-
-- a. quali lavori di misurazione sono considerati adeguamenti speciali di interesse nazionale straordinario;
-- b. quali lavori di misurazione sono considerati tenute a giorno periodiche.[^40-5]
+<sup>6</sup> ...[^40-6]
 
 [^40-1]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
 [^40-2]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
-[^40-3]: Nuovo testo giusta il n. I dell’O del 7 mar. 2003, vigore il 1° apr. 2003 ([RU 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
-[^40-4]: Introdotto dal n. I dell’O del 7 mar. 2003 ([RU 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)). Nuovo testo giusta l’all. 2 n. II 28 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^40-5]: Introdotto dal n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+[^40-3]: Introdotto dal n. I dell’O del 23 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
+[^40-4]: Nuovo testo giusta il n. I dell’O del 7 mar. 2003, vigore il 1° apr. 2003 ([RU 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
+[^40-5]: Introdotto dal n. I dell’O del 7 mar. 2003 ([RU 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)). Nuovo testo giusta l’all. 2 n. II 28 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^40-6]: Introdotto dal n. I dell’O del 21 mag. 2008 ([RU 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)). Abrogato dal n. I dell’O del 23 ago. 2023, con effetto dal 1° gen. 2024 ([RU 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 41
 
@@ -581,24 +579,34 @@ Nel quadro degli accordi di programma essa stabilisce:
 
 [^41-1]: Abrogato dal n. I dell’O del 21 mag. 2008, con effetto dal 1° lug. 2008 ([RU 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
 
-### Sezione 2: Vigilanza cantonale
+### Sezione 2: Vigilanza sulle misurazioni
+
+[^chap7-sec2-1]
+
+[^chap7-sec2-1]: Nuovo testo giusta il n. I dell’O del 23 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 42
 
-<sup>1</sup> Il Cantone designa il servizio competente per la vigilanza sulla misurazione ufficiale (servizio di vigilanza sulle misurazioni). Quest’ultimo è diretto da un ingegnere geometra iscritto nel registro dei geometri.[^42-1]
+**Servizio cantonale di vigilanza sulle misurazioni[^42-1]**
 
-<sup>2</sup> Il servizio di vigilanza sulle misurazioni dirige, sorveglia e verifica i lavori della misurazione ufficiale. Provvede al coordinamento della misurazione ufficiale con altri progetti di misurazione e sistemi d’informazione geografica.[^42-2]
+<sup>1</sup> Il Cantone designa il servizio competente per la vigilanza sulla misurazione ufficiale (servizio di vigilanza sulle misurazioni). Quest’ultimo sottostà alla direzione specialistica autonoma di un ingegnere geometra iscritto nel registro dei geometri.[^42-2]
 
-<sup>3</sup> Dietro rimborso dei costi il Cantone può affidare, in tutto o in parte, alla Direzione federale delle misurazioni catastali, i compiti di vigilanza sulle misurazioni, qualora non fosse in grado di assolverli.
+<sup>2</sup> Il servizio di vigilanza sulle misurazioni dirige, sorveglia e verifica i lavori della misurazione ufficiale. Provvede al coordinamento della misurazione ufficiale con altri progetti di misurazione e sistemi d’informazione geografica.[^42-3]
 
-[^42-1]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
-[^42-2]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+<sup>3</sup> Dietro rimborso dei costi il Cantone può affidare, in tutto o in parte, al servizio specializzato Direzione federale delle misurazioni catastali, i compiti di vigilanza sulle misurazioni, qualora non fosse in grado di assolverli.
+
+<sup>4</sup> I Cantoni possono affidarsi reciprocamente la vigilanza sulle misurazioni o creare istituzioni comuni per la vigilanza sulle misurazioni.[^42-4]
+
+[^42-1]: Introdotto dal n. I dell’O del 23 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
+[^42-2]: Nuovo testo giusta il n. I dell’O del 23 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
+[^42-3]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+[^42-4]: Introdotto dal n. I dell’O del 23 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 42a
 
 **Accordo amministrativo con il Liechtenstein**[^42a-1]
 
-Il DDPS può concludere con il Principato del Liechtenstein un accordo di diritto internazionale pubblico, denunciabile e limitato nel tempo, concernente il trasferimento integrale o parziale del servizio di vigilanza sulle misurazioni del Liechtenstein alla Direzione federale delle misurazioni catastali.
+Il DDPS può concludere con il Principato del Liechtenstein un accordo di diritto internazionale pubblico, denunciabile e limitato nel tempo, concernente il trasferimento integrale o parziale del servizio di vigilanza sulle misurazioni del Liechtenstein al servizio specializzato Direzione federale delle misurazioni catastali.
 
 [^42a-1]: Introdotto dal il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
 
@@ -618,16 +626,11 @@ Il DDPS può concludere con il Principato del Liechtenstein un accordo di diritt
 
 **Diritto di eseguire i lavori**[^44-1]
 
-<sup>1</sup> I Cantoni disciplinano l’esecuzione dei lavori da parte di ingegneri geometri iscritti nel registro dei geometri e di altri specialisti della misurazione mediante contratti d’appalto o istruzioni di servizio. È fatto salvo l’articolo 46.
+<sup>1</sup> I lavori della misurazione ufficiale possono essere eseguiti solo da ingegneri geometri autonomi e iscritti nel registro dei geometri, o sotto la loro direzione specialistica.
 
-<sup>2</sup>
+<sup>2</sup> Il DDPS può consentire l’esecuzione di lavori della misurazione ufficiale da parte di altri professionisti specializzati, purché la qualità dei lavori lavoro soddisfi i requisiti della misurazione ufficiale e i lavori non riguardino i contenuti minimi del piano per il registro fondiario secondo l’articolo 7 capoverso 2 o i confini giurisdizionali.
 
-I lavori non eseguiti direttamente dal Cantone concernenti i livelli d’informazione «punti fissi», «beni immobili», «nomenclatura», «confini giurisdizionali», «spostamenti di terreno permanenti» e «suddivisioni amministrative», nonché la tenuta a giorno e la gestione della misurazione ufficiale possono essere affidati soltanto a:
-
-- a. Comuni, altri enti di diritto pubblico o persone giuridiche di diritto pubblico che dispongono di un proprio ufficio di misurazione diretto da un ingegnere geometra iscritto nel registro dei geometri;
-- b. ingegneri geometri iscritti nel registro dei geometri.
-
-[^44-1]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+[^44-1]: Nuovo testo giusta il n. I dell’O del 23 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 45
 
@@ -641,17 +644,29 @@ I lavori non eseguiti direttamente dal Cantone concernenti i livelli d’informa
 
 #### Art. 46
 
-**Lavori sui terreni delle ferrovie**
+**Relazioni con il registro fondiario**[^46-1]
 
-<sup>1</sup> D’intesa con il servizio cantonale di vigilanza sulle misurazioni, le imprese ferroviarie soggette alla legge federale del 20 dicembre 1957[^46-1] sulle ferrovie sono autorizzate a effettuare determinati lavori della misurazione ufficiale sui terreni ferroviari, sempre che dispongano di un proprio servizio di misurazione diretto da un ingegnere geometra iscritto nel registro dei geometri.[^46-2]
+<sup>1</sup> Il DFGP e il DDPS disciplinano congiuntamente gli aspetti fondamentali delle relazioni elettroniche tra gli uffici della misurazione ufficiale e gli uffici del registro fondiario.
 
-<sup>2</sup> Per i progetti di primo rilevamento, rinnovamento e tenuta a giorno, devono essere ascoltate le aziende ferroviarie ai sensi del capoverso 1. I dati dei livelli d’informazione «punti fissi», «copertura del suolo», «oggetti singoli» e «altimetria», rilevati conformemente ai principi e alle esigenze della misurazione ufficiale dalle aziende ferroviarie, devono essere ripresi nella misurazione ufficiale.[^46-3]
+<sup>2</sup> Per il rimanente i Cantoni disciplinano le relazioni tra misurazione ufficiale e registro fondiario.
 
-<sup>3</sup> I Cantoni e le aziende ferroviarie convengono l’indennizzo delle prestazioni secondo i capoversi 1 e 2.
+[^46-1]: Nuovo testo giusta il n. I dell’O del 23 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
-[^46-1]: [RS 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
-[^46-2]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
-[^46-3]: Nuovo testo del per. giusta il n. I dell’O del 7 mar. 2003, vigore il 1° apr. 2003 ([RU 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
+#### Art. 46a
+
+**Documenti di mutazione ed estratti autenticati**[^46a-1]
+
+<sup>1</sup>
+
+I Cantoni stabiliscono quali ingegneri geometri iscritti nel registro dei geometri:
+
+- a. possono firmare documenti di mutazione;
+- b. possono rilasciare estratti autenticati conformemente all’articolo 37.
+
+<sup>2</sup> Il rilascio elettronico di estratti autenticati si basa sull’ordinanza dell’8 dicembre 2017[^46a-2] sulla realizzazione di atti pubblici e autenticazioni in forma elettronica.
+
+[^46a-1]: Introdotto dal n. I dell’O del 23 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
+[^46a-2]: [RS 211.435.1](https://fedlex.data.admin.ch/eli/cc/2018/29)
 
 ## Capitolo 8: Accordi di programma, contributi federali e costi residui
 
@@ -740,7 +755,7 @@ La commisurazione dei contributi federali al finanziamento della misurazione uff
 Sono esclusi dal calcolo segnatamente:
 
 - a. le spese per la tenuta a giorno corrente e la gestione;
-- b. le spese cagionate dagli ampliamenti cantonali;
+- b.[^47d-2] ...
 - c. le spese di vigilanza cantonale in materia di misurazione;
 - d. gli indennizzi pagati agli organi cantonali e comunali per la collaborazione da essi prestata in materia di terminazione e misurazione;
 - e. le spese della verifica cantonale e del deposito pubblico;
@@ -751,6 +766,7 @@ Sono esclusi dal calcolo segnatamente:
 - j. i costi della correzione di contraddizioni giusta l’articolo 14*a.*
 
 [^47d-1]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 764](https://fedlex.data.admin.ch/eli/oc/2022/764)).
+[^47d-2]: Abrogata dal n. I dell’O del 23 ago. 2023, con effetto dal 1° gen. 2024 ([RU 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 48
 
@@ -830,13 +846,13 @@ Sono abrogati:
 
 <sup>1</sup> Il servizio cantonale di vigilanza sulle misurazioni determina se le prime misurazioni e i rinnovamenti iniziati meno di due anni dopo l’entrata in vigore della presente ordinanza debbano essere eseguiti secondo il vecchio o il nuovo regime.
 
-<sup>2</sup> Il servizio cantonale di vigilanza sulle misurazioni, d’intesa con la Direzione federale delle misurazioni catastali, decide se, ed eventualmente fino a che punto, le misurazioni in corso al momento dell’entrata in vigore della presente ordinanza debbano essere portate a termine conformemente al nuovo regime.
+<sup>2</sup> Il servizio cantonale di vigilanza sulle misurazioni, d’intesa con il servizio specializzato Direzione federale delle misurazioni catastali, decide se, ed eventualmente fino a che punto, le misurazioni in corso al momento dell’entrata in vigore della presente ordinanza debbano essere portate a termine conformemente al nuovo regime.
 
 #### Art. 53
 
 **Tenuta a giorno delle vecchie misurazioni**
 
-Il servizio cantonale di vigilanza sulle misurazioni, d’intesa con la Direzione federale delle misurazioni catastali, decide se, ed eventualmente fino a che punto, le misurazioni attuate secondo il vecchio regime debbano essere aggiornate conformemente al nuovo regime.
+Il servizio cantonale di vigilanza sulle misurazioni, d’intesa con il servizio specializzato Direzione federale delle misurazioni catastali, decide se, ed eventualmente fino a che punto, le misurazioni attuate secondo il vecchio regime debbano essere aggiornate conformemente al nuovo regime.
 
 #### Art. 54
 
@@ -855,9 +871,10 @@ Per i lavori eseguiti o proseguiti conformemente al vecchio regime, giusta una d
 
 <sup>2</sup> I piani corografici esistenti devono essere tenuti a giorno nei settori in cui non sono disponibili i dati della misurazione ufficiale necessari alla loro sostituzione.
 
-<sup>3</sup> La Confederazione partecipa alle spese unicamente nella misura in cui non esista una misurazione ufficiale conformemente alle nuove disposizioni.
+<sup>3</sup> ... [^55-2]
 
 [^55-1]: Nuovo testo giusta il n. I dell’O del 7 mar. 2003, vigore il 1° apr. 2003 ([RU 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
+[^55-2]: Abrogato dal n. I dell’O del 23 ago. 2023, con effetto dal 1° gen. 2024 ([RU 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 56
 
@@ -880,9 +897,29 @@ Per i lavori eseguiti o proseguiti conformemente al vecchio regime, giusta una d
 
 <sup>1</sup> Fino all’entrata in vigore del contratto giusta l’articolo 14 capoverso 3 LGI, per l’acquisizione di dati della misurazione ufficiale da parte delle autorità federali sono considerati soltanto il tempo impiegato e i costi determinati dal mandato.
 
-<sup>2</sup> Per il periodo transitorio fino al 31 dicembre 2016, per la misurazione ufficiale i Cantoni definiscono sull’intero territorio cantonale un sistema di riferimento planimetrico unitario con quadro di riferimento.
+<sup>2</sup> ... [^57-2]
 
 [^57-1]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+[^57-2]: Abrogato dal n. I dell’O del 23 ago. 2023, con effetto dal 1° gen. 2024 ([RU 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
+
+#### Art. 57a
+
+**Disposizioni transitorie della modifica del 23 agosto 2023**[^57a-1]
+
+<sup>1</sup> Se il DDPS modifica i requisiti per il modello di geodati (art. 6), esso disciplina la transizione dal modello di geodati esistente a quello modificato.
+
+<sup>2</sup> In questo contesto, stabilisce quali disposizioni della presente ordinanza relative al modello di geodati continueranno ad avere validità per un determinato periodo.
+
+<sup>3</sup>
+
+L’abrogazione del livello d’informazione «condotte sotterranee» ha luogo rispettando i seguenti passaggi:
+
+- a. il set di geodati di base «impianti di trasporto in condotta» (identificatore 222), creato con l’ordinanza del 4 giugno 2021[^57a-2] sulle prescrizioni di sicurezza per gli impianti di trasporto in condotta, e il livello d’informazione «condotte sotterranee» della misurazione ufficiale sono provvisoriamente gestiti e aggiornati in parallelo;
+- b. l’Ufficio federale dell’energia (UFE) verifica i dati del set di geodati di base «impianti di trasporto in condotta» utilizzando i dati del livello d’informazione «condotte sotterranee»;
+- c. l’Ufficio federale di topografia, d’intesa con l’UFE, stabilisce la data in cui il livello d’informazione «condotte sotterranee» della misurazione ufficiale può essere abrogato e cancellato; esso comunica tale data ai Cantoni e pubblica la decisione sul Foglio federale.
+
+[^57a-1]: Introdotto dal n. I dell’O del 23 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
+[^57a-2]: [RS 746.12](https://fedlex.data.admin.ch/eli/cc/2021/348)
 
 ### Sezione 3: Entrata in vigore
 
