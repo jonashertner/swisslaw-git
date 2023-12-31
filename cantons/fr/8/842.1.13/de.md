@@ -4,13 +4,12 @@ number: "842.1.13"
 title: Verordnung über die Verbilligung der Krankenkassenprämien
 short: VKP
 language: de
-version: 2022-01-01
-valid_until: 2023-12-31
-version_adopted: 2021-10-12
+version: 2024-01-01
+version_adopted: 2023-10-09
 adopted: 2011-11-08
 in_force: 2012-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/842.1.13"
-pdf: "https://bdlf.fr.ch/api/de/versions/6934/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8445/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Krankenversicherung, Prämienverbilligung – V
 
 (VKP)
 
-vom 08.11.2011 (Fassung in Kraft getreten am 01.01.2022)
+vom 08.11.2011 (Fassung in Kraft getreten am 01.01.2024)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -55,9 +54,9 @@ beschliesst:
 
 <sup>1</sup> Anspruch auf Prämienverbilligung haben Versicherte und Familien, deren jährliches anrechenbares Einkommen folgende Grenzen nicht erreicht:
 
-- a) 36'000 Franken für alleinstehende Personen;
+- a) 37'000 Franken für alleinstehende Personen;
 - b) 43'400 Franken für alleinstehende Personen mit einem oder mehreren unterhaltsberechtigten Kindern;
-- c) 63'000 Franken für Ehepaare und eingetragene Partnerschaften.
+- c) 65'000 Franken für Ehepaare und eingetragene Partnerschaften.
 
 <sup>2</sup> Diese Einkommensgrenzen werden um 14'000 Franken je unterhaltsberechtigtes Kind erhöht.
 
@@ -109,6 +108,7 @@ beschliesst:
 
 - a) Das anrechenbare Einkommen entspricht 80 % des steuerbaren Bruttoeinkommens aus dem Jahr, das zwei Jahre vor dem Jahr liegt, für das die Anspruchsberechtigung für eine Prämienverbilligung geprüft wird (Jahr x – 2 Jahre), zuzüglich eines Zwanzigstels des steuerbaren Vermögens.
 - b) Hat sich die quellensteuerpflichtige Person aus einem anderen Kanton oder aus dem Ausland soeben im Kanton Freiburg niedergelassen, entspricht das anrechenbare Einkommen 80 % des steuerbaren Bruttoeinkommens seit ihrer Ankunft im Kanton, zuzüglich eines Zwanzigstels des steuerbaren Vermögens. Das anrechenbare Einkommen wird anhand des tatsächlichen Einkommens während des Kalenderjahrs bestimmt. Allerdings kann die AHV-Kasse das Dossier überprüfen und das Einkommen auf ein Jahreseinkommen umrechnen, wenn erwiesen ist, dass die versicherte Person ein regelmässiges und dauerhaftes Einkommen erzielt.
+- c) Wird eine quellensteuerpflichtige Person nach Artikel 73a und 73b des Gesetzes über die direkten Kantonssteuern (DStG) nachträglich ordentlich veranlagt, so wird das anrechenbare Einkommen gemäss Berechnungsregel in Artikel 5 Abs. 1 VKP anhand der nachträglichen ordentlichen Steuerveranlagung bestimmt.
 
 <sup>3</sup> Zivilstandsänderungen (Heirat, eingetragene Partnerschaft, Scheidung und Todesfall eines Ehegatten) sowie Trennungen, die ab dem 1. Januar des laufenden Jahres eintreten, werden erst ab dem 1. Tag des folgenden Jahres auf der Grundlage der entsprechenden Steuerveranlagung berücksichtigt. Für die oben aufgezählten Situationen ist im Folgejahr ein neues Gesuch im Sinne von Artikel 2 einzureichen, um den Anspruch auf Prämienverbilligungen zu bestimmen.
 
@@ -129,6 +129,8 @@ beschliesst:
 
 - a) Lässt sich eine versicherte Person aus einem anderen Kanton oder aus dem Ausland im Kanton Freiburg nieder, so erfolgt die Berechnung des anrechenbaren Einkommens anhand der ersten Steuerveranlagung, die von der Kantonalen Steuerverwaltung des Kantons Freiburg erstellt wurde. Diese ist notwendig für den Entscheid.
 - b) Lässt sich eine der ordentlichen Steuer unterliegende, materielle Sozialhilfe beziehende Person aus dem Ausland im Kanton Freiburg nieder, so wird ein provisorischer Entscheid anhand des Budgets, das vom zuständigen regionalen Sozialdienstes eingereicht wird, gefällt. Unter Berücksichtigung von Artikel 20 KVGG, prüft die AHV-Kasse den Anspruch rückwirkend, sobald ihr die Steuerveranlagung im Sinne von Buchstaben a oben vorliegt.
+
+<sup>9</sup> Hat sich der Zivilstand einer versicherten Person, die materielle Sozialhilfe bezieht, geändert (nur Trennung oder Scheidung), so wird anhand der Steuererklärung, die vom zuständigen regionalen Sozialdienst eingereicht wird, und nur auf begründetes Gesuch hin, ein provisorischer Entscheid ausgestellt. Die AHV-Kasse prüft unter Berücksichtigung von Artikel 20 KVGG den Anspruch rückwirkend, sobald ihr die Steuerveranlagung im Sinne von Buchstabe a des vorangehenden Absatzes vorliegt.
 
 #### Art. 6
 
@@ -166,15 +168,7 @@ beschliesst:
 
 #### Art. 8a
 
-**Übergangsbestimmung**
-
-<sup>1</sup> Versicherte, die in der ehemaligen Gemeinde Clavaleyres Wohnsitz haben, können für die Jahre 2022 und 2023 bei der AHV-Ausgleichskasse des Kantons Freiburg ein Gesuch zur Verbilligung der Krankenkassenprämien einreichen.
-
-<sup>2</sup> Sind die Steuerdaten (Steuerveranlagung oder Quellensteuer) der Kantonalen Steuerverwaltung des Staates Freiburg zum Zeitpunkt der Berechnung des Anspruchs noch nicht verfügbar, so erfolgt die Berechnung auf den Besteuerungsgrundlagen des Kantons Bern.
-
-<sup>3</sup> Für die Berechnung des anrechenbaren Einkommens gelten die Bestimmungen von Artikel 5 Abs. 1, jedoch mit den Zahlen der verfügbaren Veranlagung des Kantons Bern oder des Kantons Freiburg.
-
-<sup>4</sup> Für quellensteuerpflichtige Personen gelten die Bestimmungen von Artikel 5 Abs. 2 unter Berücksichtigung des im Kanton Bern oder im Kanton Freiburg steuerbaren Bruttoeinkommens.
+**…**
 
 #### Art. 9
 

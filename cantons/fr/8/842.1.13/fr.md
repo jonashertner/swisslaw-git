@@ -4,13 +4,12 @@ number: "842.1.13"
 title: "Ordonnance concernant la réduction des primes d'assurance-maladie"
 short: ORP
 language: fr
-version: 2022-01-01
-valid_until: 2023-12-31
-version_adopted: 2021-10-12
+version: 2024-01-01
+version_adopted: 2023-10-09
 adopted: 2011-11-08
 in_force: 2012-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/842.1.13"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6934/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8445/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Assurance-maladie, réduction des primes – O
 
 (ORP)
 
-du 08.11.2011 (version entrée en vigueur le 01.01.2022)
+du 08.11.2011 (version entrée en vigueur le 01.01.2024)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -55,9 +54,9 @@ Arrête:
 
 <sup>1</sup> Ont droit à la réduction des primes les assuré-e-s ou les familles qui ont un revenu déterminant annuel inférieur à:
 
-- a) 36'000 francs pour les personnes seules sans enfant;
+- a) 37'000 francs pour les personnes seules sans enfant;
 - b) 43'400 francs pour les personnes seules avec un ou plusieurs enfants à charge;
-- c) 63'000 francs pour les couples mariés et les partenaires enregistrés.
+- c) 65'000 francs pour les couples mariés et les partenaires enregistrés.
 
 <sup>2</sup> A ces montants s'ajoutent 14'000 francs par enfant à charge.
 
@@ -109,6 +108,7 @@ Arrête:
 
 - a) Le revenu déterminant correspond à 80 % du revenu brut soumis à l'impôt de l'année qui précède de deux ans celle pour laquelle le droit à la réduction des primes est examiné (année x – 2 ans), augmenté du vingtième de la fortune imposable.
 - b) Lorsqu'une personne imposée à la source en provenance d'un autre canton ou de l'étranger vient s'établir dans le canton de Fribourg, le revenu déterminant correspond à 80 % du revenu brut soumis à l'impôt depuis son arrivée dans le canton, augmenté du vingtième de la fortune imposable. Le revenu déterminant est établi sur la base du revenu effectif réalisé durant l'année civile. La Caisse AVS peut toutefois réviser le dossier et annualiser le revenu déterminant, s'il est démontré que l'assuré e réalise un revenu régulier et durable.
+- c) Lorsqu'une personne assujettie à l'impôt à la source est soumis à une taxation ordinaire ultérieure en vertu des articles 73a et 73b de la loi sur les impôts cantonaux directs (LICD), le revenu déterminant est établi sur la base de l'avis de taxation fiscale ordinaire ultérieure, selon la règle de calcul prescrite à l'article 5 al. 1 ORP.
 
 <sup>3</sup> Les changements d'état civil (mariage, enregistrement d'un partenariat, divorce et décès du conjoint) ainsi que les séparations, qui surviennent dès le 1<sup>er</sup> janvier de l'année en cours, ne sont pris en considération qu'à partir du premier jour de l'année suivante, sur la base de l'avis de taxation de la nouvelle période fiscale correspondante. Pour les situations précitées, une nouvelle demande doit être déposée l'année suivante au sens de l'article 2, afin que soit déterminé le droit à la réduction des primes.
 
@@ -129,6 +129,8 @@ Arrête:
 
 - a) Lorsqu'un ou une assuré–e en provenance d'un autre canton ou de l'étranger vient s'établir dans le canton de Fribourg, le calcul du revenu déterminant s'effectue sur la base du premier avis de taxation fiscale établi par le Service cantonal des contributions du canton de Fribourg. Ce dernier est requis pour statuer.
 - b) Lorsqu'un ou une assuré–e soumis–e à l'impôt ordinaire et bénéficiaire de l'aide sociale matérielle s'établit dans le canton de Fribourg en provenance de l'étranger, une décision provisoire est établie sur la base du budget produit par le service social régional compétent. En se référant à l'article 20 LALAMal, la Caisse AVS révise le droit rétroactivement dès la connaissance de l'avis de taxation fiscale au sens de la lettre a ci-dessus.
+
+<sup>9</sup> Lorsqu'un ou une assuré–e bénéficiaire de l'aide sociale matérielle a changé d'état civil (séparation ou divorce uniquement), une décision provisoire est établie sur la base de la déclaration fiscale produite par le service social régional compétent et sur demande motivée uniquement. En se référant à l'article 20 LALAMal, la Caisse AVS révise le droit rétroactivement dès la connaissance de l'avis de taxation fiscale au sens de la lettre a de l'alinéa ci-dessus.
 
 #### Art. 6
 
@@ -166,15 +168,7 @@ Arrête:
 
 #### Art. 8a
 
-**Disposition transitoire**
-
-<sup>1</sup> Les assuré-e-s domiciliés dans l'ancienne commune de Clavaleyres peuvent déposer une demande de réduction des primes auprès de la Caisse AVS du canton de Fribourg pour les années 2022 et 2023.
-
-<sup>2</sup> Le calcul s'établit sur les bases fiscales du canton de Berne, si aucun élément fiscal (taxation fiscale ou impôt à la source) du Service cantonal des contributions du canton de Fribourg n'est encore disponible au moment du calcul du droit.
-
-<sup>3</sup> Le calcul du revenu déterminant s'effectue selon les mêmes règles fixées à l'article 5 al. 1, mais avec les chiffres de la taxation disponible du canton de Berne ou Fribourg.
-
-<sup>4</sup> Pour les personnes imposées à la source, les dispositions de l'article 5 al. 2 s'appliquent en prenant en compte le revenu brut soumis à l'impôt du canton de Berne ou de Fribourg.
+**…**
 
 #### Art. 9
 
