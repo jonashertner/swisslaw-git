@@ -4,13 +4,12 @@ number: "121.3"
 title: Gesetz über die interkantonalen Verträge
 short: VertragsG
 language: de
-version: 2016-12-01
-valid_until: 2023-12-31
-version_adopted: 2016-10-04
+version: 2024-01-01
+version_adopted: 2023-10-10
 adopted: 2009-09-11
 in_force: 2010-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/121.3"
-pdf: "https://bdlf.fr.ch/api/de/versions/4990/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8181/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Interkantonale Verträge – G
 
 (VertragsG)
 
-vom 11.09.2009 (Fassung in Kraft getreten am 01.12.2016)
+vom 11.09.2009 (Fassung in Kraft getreten am 01.01.2024)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -99,7 +98,9 @@ beschliesst:
 
 <sup>1</sup> Der Staatsrat genehmigt den Beitritt zu Verträgen von untergeordneter Bedeutung, nämlich zu solchen über Gegenstände, für die er laut kantonalem Recht zuständig wäre, oder zu solchen, die der Ausführung von Verträgen dienen, die vom Grossen Rat genehmigt wurden.
 
-<sup>2</sup> Der Staatsrat kann seine Zuständigkeiten gemäss Artikel 66 des Gesetzes vom 16. Oktober 2001 über die Organisation des Staatsrats und der Verwaltung delegieren.
+<sup>2</sup> Der Staatsrat kann seine Zuständigkeiten gemäss Artikel 66 des Gesetzes vom 16. Oktober 2001 über die Organisation des Staatsrats und der Verwaltung[^7-1] delegieren.
+
+[^7-1]: SGF [122.0.1](https://bdlf.fr.ch/data/122.0.1/de)
 
 ## 3 Verfahren
 
@@ -131,7 +132,9 @@ beschliesst:
 
 <sup>2</sup> Die auswärtige Kommission wird regelmässig informiert. Die Information erfolgt in der Regel mündlich an einer ihrer Sitzungen; mehrere Verhandlungen werden zu einem Traktandum zusammengenommen.
 
-<sup>3</sup> Das Recht der Präsidentin oder des Präsidenten des Grossen Rates, die Unterlagen einzusehen (Art. 98 Abs. 2 KV), und die Information im jährlichen Tätigkeitsbericht des Staatsrats (Art. 17) bleiben vorbehalten.
+<sup>3</sup> Das Recht der Präsidentin oder des Präsidenten des Grossen Rates, die Unterlagen einzusehen (Art. 98 Abs. 2 KV[^10-1]), und die Information im jährlichen Tätigkeitsbericht des Staatsrats (Art. 17) bleiben vorbehalten.
+
+[^10-1]: SGF [10.1](https://bdlf.fr.ch/data/10.1/de)
 
 #### Art. 11
 
@@ -163,7 +166,7 @@ beschliesst:
 
 <sup>4</sup> Bei einem Erlass zur Genehmigung des Beitritts können die politischen Rechte gemäss den einschlägigen Bestimmungen ausgeübt werden.
 
-<sup>5</sup> Der Erlass zur Genehmigung des Beitritts, dem der Text des Vertrags beigefügt wird, oder der Erlass zur Kündigung wird gemäss der Gesetzgebung über die Veröffentlichung der Erlasse veröffentlicht.
+<sup>5</sup> Der Erlass zur Genehmigung des Beitritts und der Text des Vertrags oder der Erlass zur Kündigung werden gemäss der Gesetzgebung über die Veröffentlichung der Erlasse veröffentlicht.
 
 #### Art. 14
 

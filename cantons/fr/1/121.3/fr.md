@@ -4,13 +4,12 @@ number: "121.3"
 title: Loi concernant les conventions intercantonales
 short: LConv
 language: fr
-version: 2016-12-01
-valid_until: 2023-12-31
-version_adopted: 2016-10-04
+version: 2024-01-01
+version_adopted: 2023-10-10
 adopted: 2009-09-11
 in_force: 2010-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/121.3"
-pdf: "https://bdlf.fr.ch/api/fr/versions/4990/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8181/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Conventions intercantonales – L
 
 (LConv)
 
-du 11.09.2009 (version entrée en vigueur le 01.12.2016)
+du 11.09.2009 (version entrée en vigueur le 01.01.2024)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -99,7 +98,9 @@ Décrète:
 
 <sup>1</sup> Le Conseil d'Etat approuve l'adhésion aux conventions de moindre importance, c'est-à-dire celles qui portent sur des objets qui, en droit cantonal, relèveraient de sa compétence ou celles qui servent à l'exécution de conventions approuvées par le Grand Conseil.
 
-<sup>2</sup> Le Conseil d'Etat peut déléguer ses compétences conformément à l'article 66 de la loi du 16 octobre 2001 sur l'organisation du Conseil d'Etat et de l'administration.
+<sup>2</sup> Le Conseil d'Etat peut déléguer ses compétences conformément à l'article 66 de la loi du 16 octobre 2001 sur l'organisation du Conseil d'Etat et de l'administration[^7-1].
+
+[^7-1]: RSF [122.0.1](https://bdlf.fr.ch/data/122.0.1/fr)
 
 ## 3 Procédure
 
@@ -131,7 +132,9 @@ Décrète:
 
 <sup>2</sup> L'information est fournie périodiquement à la Commission, d'ordinaire lors d'une séance de celle-ci, oralement et de manière groupée.
 
-<sup>3</sup> Le droit de la présidence du Grand Conseil de consulter les dossiers (art. 98 al. 2 Cst.) et l'information à fournir par le biais du rapport d'activité annuel du Conseil d'Etat (art. 17) demeurent réservés.
+<sup>3</sup> Le droit de la présidence du Grand Conseil de consulter les dossiers (art. 98 al. 2 Cst.[^10-1]) et l'information à fournir par le biais du rapport d'activité annuel du Conseil d'Etat (art. 17) demeurent réservés.
+
+[^10-1]: RSF [10.1](https://bdlf.fr.ch/data/10.1/fr)
 
 #### Art. 11
 
@@ -163,7 +166,7 @@ Décrète:
 
 <sup>4</sup> Cet acte est soumis à l'exercice des droits politiques conformément aux règles ordinaires en la matière.
 
-<sup>5</sup> L'acte approuvant l'adhésion, auquel est annexé le texte de la convention, ou l'acte de dénonciation est publié conformément à la législation sur la publication des actes législatifs.
+<sup>5</sup> L'acte approuvant l'adhésion et le texte de la convention, ou l'acte de dénonciation, sont publiés conformément à la législation sur la publication des actes législatifs.
 
 #### Art. 14
 
