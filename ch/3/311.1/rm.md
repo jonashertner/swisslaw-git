@@ -4,11 +4,11 @@ title: "Lescha federala dals 20 da zercladur 2003 davart il dretg penal per giuv
 short: DPG
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/551"
 language: rm
-version: 2023-01-23
+version: 2024-01-01
 adopted: 2003-06-20
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/551/20230123/rm/xml/fedlex-data-admin-ch-eli-cc-2006-551-20230123-rm-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/551/20230123/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/551/20240101/rm/xml/fedlex-data-admin-ch-eli-cc-2006-551-20240101-rm-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/551/20240101/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (Dretg penal per giuvenils, DPG)
 
-dals 20 da zercladur 2003 (versiun dals 23 da schaner 2023)
+dals 20 da zercladur 2003 (versiun dal 1. da schaner 2024)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -499,9 +499,13 @@ La persecuziun penala surannescha en:
 - b. 3 onns, sch’il dretg applitgabel per persunas creschidas prevesa in chasti da detenziun da fin 3 onns per il malfatg;
 - c. 1 onn, sch’il dretg applitgabel per persunas creschidas prevesa in auter chasti per il malfatg.
 
-<sup>2</sup> En cas da malfatgs tenor ils artitgels 111–113, 122, 189–191, 195 e 196 CP[^36-1] che sa drizzan cunter in uffant sut 16 onns, dura la surannaziun da la persecuziun penala en mintga cas almain fin che la victima ha cumplenì il 25avel onn da vita. Quai vala er, sche tals malfatgs èn vegnids commess avant l’entrada en vigur da questa lescha e sche la persecuziun penala n’è betg anc surannada quel mument.
+<sup>1bis</sup> Sch’ina sentenzia d’emprima instanza è vegnida pronunziada avant la scadenza dal termin da surannaziun, s’extingua la surannaziun.[^36-1]
 
-[^36-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799). Ussa: tenor ils art. 111–113, 122, 182, 189–191 e 195.
+<sup>2</sup> En cas da malfatgs tenor ils artitgels 111–113, 122, 182, 189–191 e 195 CP[^36-2] che sa drizzan cunter in uffant sut 16 onns, dura la surannaziun da la persecuziun penala en mintga cas almain fin che la victima ha cumplenì il 25avel onn da vita.[^36-3] Quai vala er, sche tals malfatgs èn vegnids commess avant l’entrada en vigur da questa lescha e sche la persecuziun penala n’è betg anc surannada quel mument.
+
+[^36-1]: Integrà tras la cifra 5 da l’agiunta 1 da la LF dals 17 da zer. 2022, en vigur dapi il 1. da schan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^36-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^36-3]: Versiun tenor la cifra 5 da l’agiunta 1 da la LF dals 17 da zer. 2022, en vigur dapi il 1. da schan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468), [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 37
 

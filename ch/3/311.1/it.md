@@ -4,11 +4,11 @@ title: "Legge federale del 20 giugno 2003 sul diritto penale minorile (Diritto p
 short: DPMin
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/551"
 language: it
-version: 2023-01-23
+version: 2024-01-01
 adopted: 2003-06-20
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/551/20230123/it/xml/fedlex-data-admin-ch-eli-cc-2006-551-20230123-it-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/551/20230123/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/551/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2006-551-20240101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/551/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/551/20230123/it"
 
 (Diritto penale minorile, DPMin)
 
-del 20 giugno 2003 (Stato 23 gennaio 2023)
+del 20 giugno 2003 (Stato 1° gennaio 2024)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -495,9 +495,14 @@ L’azione penale si prescrive:
 - a. in cinque anni, se secondo il diritto applicabile agli adulti per il reato è comminata una pena privativa della libertà superiore a tre anni;
 - b. in tre anni, se secondo il diritto applicabile agli adulti per il reato è comminata una pena privativa della libertà non superiore a tre anni;
 - c. in un anno, se secondo il diritto applicabile agli adulti per il reato è comminata un’altra pena.
-- [tab] <sup>2</sup> In caso di reati secondo gli articoli 111–113, 122, 189–191, 195 e 196 CP[^36-1], diretti contro una persona minore di 16 anni, l’azione penale non si prescrive in nessun caso prima che la vittima compia il 25° anno di età. Ciò vale anche se il reato è stato commesso prima dell’entrata in vigore della presente legge e a tale momento l’azione penale non si è ancora prescritta.
 
-[^36-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799). Ora: secondo gli art. 111–113, 122, 182, 189–191 e 195.
+<sup>1bis</sup> Se prima della scadenza del termine di prescrizione è stata pronunciata una sentenza di primo grado, la prescrizione si estingue.[^36-1]
+
+- [tab] <sup>2</sup> In caso di reati secondo gli articoli 111–113, 122, 182, 189–191 e 195 CP[^36-2], diretti contro una persona minore di 16 anni, l’azione penale non si prescrive in nessun caso prima che la vittima compia il 25° anno di età.[^36-3] Ciò vale anche se il reato è stato commesso prima dell’entrata in vigore della presente legge e a tale momento l’azione penale non si è ancora prescritta.
+
+[^36-1]: Introdotto dall’all. 1 n. 5 della LF del 17 giu. 2022, in vigore dal 1° gen. 2024 ([RU 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 5523](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^36-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^36-3]: Nuovo testo giusta l’all. 1 n. 5 della LF del 17 giu. 2022, in vigore dal 1° gen. 2024 ([RU 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 5523](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 37
 

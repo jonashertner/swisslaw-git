@@ -4,11 +4,11 @@ title: "Loi fédérale du 20 juin 2003 régissant la condition pénale des mineu
 short: DPMin
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/551"
 language: fr
-version: 2023-01-23
+version: 2024-01-01
 adopted: 2003-06-20
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/551/20230123/fr/xml/fedlex-data-admin-ch-eli-cc-2006-551-20230123-fr-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/551/20230123/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/551/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2006-551-20240101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/551/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/551/20230123/fr"
 
 (Droit pénal des mineurs, DPMin)
 
-du 20 juin 2003 (État le 23 janvier 2023)
+du 20 juin 2003 (État le 1<sup>er</sup> janvier 2024)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -494,9 +494,13 @@ L’action pénale se prescrit:
 - b. par trois ans si l’infraction est passible d’une peine privative de liberté de trois ans au plus en vertu du droit applicable aux adultes;
 - c. par un an si l’infraction est passible d’une autre peine en vertu du droit applicable aux adultes.
 
-<sup>2</sup> En cas d’infractions prévues aux art. 111 à 113, 122, 189 à 191, 195 et 196 CP[^36-1] dirigées contre un enfant de moins de 16 ans, la prescription de l’action pénale court en tout cas jusqu’au jour où la victime a 25 ans. Il en va de même lorsqu’elles sont commises avant l’entrée en vigueur de la présente loi si la prescription de l’action pénale n’est pas encore échue à cette date.
+<sup>1bis</sup> La prescription ne court plus si, avant son échéance, un jugement de première instance a été rendu.[^36-1]
 
-[^36-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799). Actuellement «aux art. 111 à 113, 122, 182, 189 à 191 et 195».
+<sup>2</sup> En cas d’infraction contre un enfant de moins de 16 ans au sens des art. 111 à 113, 122, 182, 189 à 191 ou 195 CP[^36-2], la prescription de l’action pénale court au moins jusqu’au jour où la victime a 25 ans.[^36-3] Il en va de même lorsqu’elles sont commises avant l’entrée en vigueur de la présente loi si la prescription de l’action pénale n’est pas encore échue à cette date.
+
+[^36-1]: Introduit par l’annexe 1 ch. 5 de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^36-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^36-3]: Nouvelle teneur selon l’annexe 1 ch. 5 de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 37
 
@@ -517,7 +521,7 @@ La peine se prescrit:
 
 [^3843-1]
 
-[^3843-1]: Abrogé par l’annexe ch. 1 de la Procédure pénale applicable aux mineurs du 20 mars 2009, avec effet au 1<sup>er</sup> janv. 2011 ([RO 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 2759](https://fedlex.data.admin.ch/eli/fga/2008/675)).
+[^3843-1]: Abrogés par l’annexe ch. 1 de la Procédure pénale applicable aux mineurs du 20 mars 2009, avec effet au 1<sup>er</sup> janv. 2011 ([RO 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 2759](https://fedlex.data.admin.ch/eli/fga/2008/675)).
 
 ## Chapitre 6 Dispositions finales
 

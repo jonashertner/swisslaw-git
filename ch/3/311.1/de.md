@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 20. Juni 2003 über das Jugendstrafrecht (Jugendstrafge
 short: JStG
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/551"
 language: de
-version: 2023-01-23
+version: 2024-01-01
 adopted: 2003-06-20
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/551/20230123/de/xml/fedlex-data-admin-ch-eli-cc-2006-551-20230123-de-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/551/20230123/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/551/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2006-551-20240101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/551/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/551/20230123/de"
 
 (Jugendstrafgesetz, JStG)
 
-vom 20. Juni 2003 (Stand am 23. Januar 2023)
+vom 20. Juni 2003 (Stand am 1. Januar 2024)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -497,9 +497,13 @@ Die Strafverfolgung verjährt in:
 - b. drei Jahren, wenn die Tat nach dem für Erwachsene anwendbaren Recht mit einer Freiheitsstrafe bis zu drei Jahren bedroht ist;
 - c. einem Jahr, wenn die Tat nach dem für Erwachsene anwendbaren Recht mit einer andern Strafe bedroht ist.
 
-<sup>2</sup> Bei Straftaten nach den Artikeln 111–113, 122, 189–191, 195 und 196 StGB[^36-1], die sich gegen ein Kind unter 16 Jahren richten, dauert die Verfolgungsverjährung in jedem Fall mindestens bis zum vollendeten 25. Lebensjahr des Opfers. Dies gilt auch, wenn solche Straftaten vor dem Inkrafttreten dieses Gesetzes begangen worden sind und die Verfolgungsverjährung zu diesem Zeitpunkt noch nicht eingetreten ist.
+<sup>1bis</sup> Ist vor Ablauf der Verjährungsfrist ein erstinstanzliches Urteil ergangen, so tritt die Verjährung nicht mehr ein.[^36-1]
 
-[^36-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799). Heute: nach den Art. 111–113, 122, 182, 189–191 und 195.
+<sup>2</sup> Bei Straftaten nach den Artikeln 111–113, 122, 182, 189–191 und 195 StGB[^36-2], die sich gegen ein Kind unter 16 Jahren richten, dauert die Verfolgungsverjährung in jedem Fall mindestens bis zum vollendeten 25. Lebensjahr des Opfers.[^36-3] Dies gilt auch, wenn solche Straftaten vor dem Inkrafttreten dieses Gesetzes begangen worden sind und die Verfolgungsverjährung zu diesem Zeitpunkt noch nicht eingetreten ist.
+
+[^36-1]: Eingefügt durch Anhang 1 Ziff. 5 des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^36-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^36-3]: Fassung gemäss Anhang 1 Ziff. 5 des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 37
 
@@ -514,7 +518,7 @@ Die Strafen verjähren in:
 
 <sup>2</sup> Der Vollzug jeder nach diesem Gesetz ausgesprochenen Strafe endet spätestens, wenn der verurteilte Jugendliche das 25. Altersjahr vollendet.
 
-## 5. Kapitel: …
+## 5. Kapitel: ...
 
 #### Art. 38–43
 
