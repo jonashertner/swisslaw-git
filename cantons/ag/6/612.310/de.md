@@ -4,13 +4,13 @@ number: "612.310"
 title: Dekret über die wirkungsorientierte Steuerung von Aufgaben und Finanzen
 short: DAF
 language: de
-version: 2021-12-30
-valid_until: 2023-12-31
-version_adopted: 2021-11-30
+version: 2024-01-01
+valid_until: 2024-06-30
+version_adopted: 2023-03-14
 adopted: 2012-06-05
 in_force: 2013-08-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/612.310"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3136/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3343/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,11 +19,11 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3136/pdf_file"
 
 (DAF)
 
-Vom 05.06.2012 (Stand 30.12.2021)
+Vom 05.06.2012 (Stand 01.01.2024)
 
 Der Grosse Rat des Kantons Aargau,
 
-gestützt auf die §§ 9 Abs. 4, 11 Abs. 4 und 5, 15 Abs. 2, 16 Abs. 1, 20 Abs. 1, 26 Abs. 3, 35 Abs. 3, 36 Abs. 1, 43 Abs. 2 und 48 des Gesetzes über die wirkungsorientierte Steuerung von Aufgaben und Finanzen (GAF) vom 5. Juni 2012[^ingress-1],
+gestützt auf die §§ 9 Abs. 4, 11 Abs. 4 und 5, 15 Abs. 2, 16 Abs. 1, 20 Abs. 1, 26 Abs. 3, 35 Abs. 3, 36 Abs. 1 und 43 Abs. 2 des Gesetzes über die wirkungsorientierte Steuerung von Aufgaben und Finanzen (GAF) vom 5. Juni 2012[^ingress-1],
 
 beschliesst:
 
@@ -73,7 +73,7 @@ beschliesst:
 
 <sup>4</sup> Rückstellungen sind bestehende Verpflichtungen, bei denen der Zeitpunkt der Erfüllung oder die Höhe des künftigen Mittelabflusses mit Unsicherheiten behaftet sind.
 
-<sup>5</sup> Immaterielle Anlagen werden nicht aktiviert.
+<sup>5</sup> Immaterielle Anlagen werden mit Ausnahme von Softwareinvestitionen nicht aktiviert.
 
 #### § 4
 
@@ -112,7 +112,7 @@ beschliesst:
 
 <sup>1</sup> Per Ende Jahr werden folgende Anlagekategorien vollständig abgeschrieben:
 
-- a) Wasserbauten,
+- a) Wasserbauten und Bauten des Natur- und Landschaftsschutzes,
 - b) erteilte Investitionsbeiträge.
 
 <sup>2</sup> Per Ende Jahr werden ebenso alle Investitionen von Spezialfinanzierungen vollständig abgeschrieben.
@@ -171,9 +171,9 @@ beschliesst:
 
 <sup>2</sup> Der für die Schuldenbremse gemäss § 20 GAF massgebliche Saldo der Finanzierungsrechnung errechnet sich ohne ausserordentlichen Aufwand und Ertrag sowie ohne ausserordentlichen Investitionsaufwand und Investitionsertrag gemäss § 9 Abs. 1.
 
-<sup>3</sup> Bei Immobilienvorhaben ab Fr. 20 Mio. werden anstelle der Nettoinvestitionen deren jährliche Abschreibungen für den massgeblichen Saldo der Finanzierungsrechnung berücksichtigt.
+<sup>3</sup> Bei Immobilienvorhaben ab Fr. 50 Mio. werden anstelle der Nettoinvestitionen deren jährliche Abschreibungen für den massgeblichen Saldo der Finanzierungsrechnung berücksichtigt.
 
-<sup>4</sup> Die Entlastung der Finanzierungsrechnung infolge der Anwendung von Absatz 3, ohne Grundstückkäufe, beträgt maximal Fr. 40 Mio.
+<sup>4</sup> …
 
 ## 2. Steuerung
 
@@ -191,14 +191,14 @@ beschliesst:
 
 **Übertragungen und Rücklagen**
 
-<sup>1</sup> Übertragungen können maximal im Umfang des bewilligten Budgets des Vorjahrs nach Abzug der beanspruchten Mittel vorgenommen werden.
+<sup>1</sup> Übertragungen können maximal im Umfang des bewilligten Budgets des Vorjahrs nach Abzug der beanspruchten Mittel vorgenommen werden. Übertragene Mittel dürfen nicht zur Kompensation verwendet werden.
 
 <sup>2</sup> In folgenden Aufgabenbereichen können aus zweckgebundenen Ertragsüberschüssen im Globalbudget Rücklagen gebildet werden:
 
 - a) Migration und Integration: Integrationsbeitrag Bund,
 - b) Arbeitssicherheit und arbeitsmarktliche Integration: Vollzug der Arbeitslosenversicherung,
-- b<sup>bis</sup>) Betreuung Asylsuchende: Nothilfepauschale Bund,
-- c) Gesundheitsschutz: Alkoholzehntel und Spielsuchtbekämpfung,
+- b<sup>bis</sup>) …
+- c) Gesundheit: Alkoholzehntel und Spielsuchtbekämpfung,
 - d) Verbraucherschutz: Tierseuchenbekämpfung,
 - e) Wald, Jagd und Fischerei: Waldrodung.
 
@@ -213,7 +213,7 @@ beschliesst:
 
 **Darstellung von Verpflichtungskrediten in den Steuergrössen**
 
-<sup>1</sup> Verpflichtungskredite oder Teile von Verpflichtungskrediten sind pro Steuergrösse gesondert auszuweisen.
+<sup>1</sup> …
 
 <sup>2</sup> Verpflichtungskredite sind ab einer Kreditkompetenzsumme von 5 Millionen Franken einzeln auszuweisen.
 
@@ -267,13 +267,15 @@ beschliesst:
 
 <sup>1</sup> Der Anhang der Jahresrechnung enthält:
 
-- a) Darstellung des Rechnungsmodells sowie die gewählten Optionen und Abweichungen zum harmonisierten Rechnungslegungsmodell für die Kantone und Gemeinden,
+- a) Darstellung des Rechnungsmodells sowie die gewählten Optionen und Abweichungen zum harmonisierten Rechnungsmodell für die Kantone und Gemeinden,
 - b) Rechnungslegungsgrundsätze einschliesslich der wesentlichen Grundsätze zur Bilanzierung und Bewertung (insbesondere Abschreibungsmethoden und Abschreibungssätze),
 - c) Rückstellungsspiegel,
 - d) Beteiligungsspiegel,
 - e) Gewährleistungsspiegel mit Eventualverpflichtungen und Eventualguthaben,
 - f) Sachanlagespiegel gemäss den Positionen der Bilanz,
 - g) Verwendung der Mittel des Swisslos-Fonds und Swisslos-Sportfonds,
+- g<sup>bis</sup>) Ereignisse nach Bilanzstichtag,
+- g<sup>ter</sup>) Berichte über den Stand oder den Abschluss von Pilotvorhaben, die Abweichungen zu geltenden Rechtsgrundlagen aufweisen,
 - h) zusätzliche Angaben, die für die Beurteilung der Vermögens- und Ertragslage, der Verpflichtungen und der finanziellen Risiken von Bedeutung sind.
 
 ## 3. Verpflichtungskredit
@@ -402,13 +404,29 @@ beschliesst:
 
 <sup>2</sup> Der Regierungsrat regelt den Inhalt der Inventare, Art und Zeitpunkt der Erfassung der Vermögenswerte sowie deren Bewertung durch Verordnung.
 
+#### § 31a
+
+**Annahme von Zuwendungen aus privaten Mitteln**
+
+<sup>1</sup> Der Regierungsrat entscheidet über die Annahme von Zuwendungen aus privaten Mitteln, wenn
+
+- a) der Kanton wesentliche Verpflichtungen eingehen muss,
+- b) der Verwendungszweck und die Verfügungsberechtigung noch zu bestimmen oder zu präzisieren sind oder
+- c) der Wert der Zuwendung Fr. 250'000.– übersteigt.
+
+<sup>2</sup> In allen übrigen Fällen entscheiden die Departemente oder die Staatskanzlei.
+
 #### § 32
 
-**Fonds, Legate, Stiftungen**
+**Zuwendungen aus privaten Mitteln mit besonderer Zweckbindung**
 
-<sup>1</sup> Fonds, Legate und Stiftungen aus privaten Mitteln sind in der Bilanz auszuweisen.
+<sup>1</sup> Zuwendungen aus privaten Mitteln mit besonderer Zweckbindung sind in der Bilanz auszuweisen.
 
-<sup>2</sup> Für Fonds, Legate und Stiftungen regelt der Regierungsrat die Verfügungskompetenz nach dem Willen der Donatorinnen und Donatoren durch Verordnung.
+<sup>2</sup> Der Regierungsrat regelt durch Verordnung den Verwendungszweck und die Verfügungskompetenz nach dem Willen der Zuwendenden.
+
+<sup>3</sup> Entfällt der Verwendungszweck oder kann dieser nicht mehr sachgerecht verfolgt werden, legt der Regierungsrat die Zuwendungen mit anderen Zuwendungen mit ähnlichem Verwendungszweck zusammen.
+
+<sup>4</sup> Der Regierungsrat kann in den Fällen von Absatz 3 den Verwendungszweck ändern oder ergänzen, wenn eine Zusammenlegung gemäss Absatz 3 nicht möglich ist.
 
 #### § 33
 
@@ -428,7 +446,7 @@ beschliesst:
 
 <sup>1</sup> Veräusserungen erfolgen zum Verkehrswert.
 
-<sup>2</sup> Zuständig für die Veräusserung ist grundsätzlich diejenige Steuerungsinstanz, die den Vermögenswert überwiegend benutzt; ausnahmsweise ist diejenige Instanz zuständig, die den Vermögenswert zentral verwaltet.
+<sup>2</sup> Zuständig für die Veräusserung ist grundsätzlich diejenige Steuerungsinstanz, die den Vermögenswert überwiegend benutzt; Immobilien veräussert diejenige Organisationseinheit, die den Aufgabenbereich Immobilien beziehungsweise Verkehrsinfrastruktur vollzieht.
 
 <sup>3</sup> Erforderte der Erwerb oder die Schaffung des Vermögenswerts einen Verpflichtungskredit gemäss § 24 GAF, ist die Veräusserung derjenigen Instanz zur Bewilligung zu unterbreiten, die den Verpflichtungskredit bewilligt hat. Wird nur ein Teil des Vermögenswerts veräussert, ist die Bewilligung derjenigen Instanz einzuholen, die zuständig gewesen wäre, wenn nur dieser Teil beschafft worden wäre.
 
@@ -468,31 +486,29 @@ beschliesst:
 
 #### § 38
 
-**Neubewertung**
-
-<sup>1</sup> Das Finanzvermögen wird zum Verkehrswert neu bewertet. Bewertungsänderungen werden der Neubewertungsreserve im Eigenkapital zugewiesen.
-
-<sup>2</sup> Die Sachanlagen des Verwaltungsvermögens werden gemäss den §§ 3–5 neu bewertet. Bewertungsdifferenzen werden der Aufwertungsreserve im Eigenkapital gutgeschrieben.
-
-<sup>3</sup> Rechnungsabgrenzungen und Rückstellungen werden neu bewertet.
+**…**
 
 #### § 39
 
-**Aufwertungs- und Neubewertungsreserve**
-
-<sup>1</sup> Die Aufwertungsreserve sowie die Neubewertungsreserve werden im ersten Jahresbericht gemäss den Bestimmungen dieses Dekrets separat ausgewiesen und im folgenden Jahresbericht dem übrigen Eigenkapital zugewiesen.
+**…**
 
 #### § 40
 
-**Rücklagen**
-
-<sup>1</sup> Die nach bisherigem Recht gebildeten Rücklagen aus Globalbudgets sind bis zum Zeitpunkt des Inkrafttretens dieses Dekrets aufzulösen. Davon ausgenommen sind Rücklagen aus dem Globalbudget des Aufgabenbereichs Verkehrszulassung für VIACAR.
+**…**
 
 #### § 41
 
-**Überführung**
+**…**
 
-<sup>1</sup> Das letzte nach dem bisherigen Recht erstellte Budget sowie die letzte nach bisherigem Recht erstellte Jahresrechnung werden beim Übergang zur neuen Rechnungslegung in den neuen Kontenplan überführt.
+#### § 41a
+
+**Umgang mit Immobilienvorhaben am 31. Dezember 2023**
+
+<sup>1</sup> Bei Immobilienvorhaben ab Fr. 20 Mio., für die der Grosse Rat den Verpflichtungskredit für die Ausführung zwischen dem 1. Januar 2021 und dem 31. Dezember 2023 beschlossen hat, werden anstelle der Nettoinvestitionen deren jährliche Abschreibungen für den massgeblichen Saldo der Finanzierungsrechnung berücksichtigt.
+
+<sup>2</sup> Am 31. Dezember 2023 aktivierte Investitionen für Immobilienvorhaben, die in der für die Schuldenbremse massgebenden Finanzierungsrechnung bisher nicht berücksichtigt wurden, werden einmalig und vollständig zu Lasten der Jahresrechnung 2024 abgeschrieben. Ausgenommen sind Immobilienvorhaben gemäss Absatz 1.
+
+<sup>3</sup> Die Abschreibungen gemäss Absatz 2 werden in dem für die Schuldenbremse massgeblichen Saldo der Finanzierungsrechnung berücksichtigt.
 
 #### § 42
 
@@ -502,7 +518,7 @@ beschliesst:
 
 <sup>2</sup> Der Regierungsrat bestimmt den Zeitpunkt des Inkrafttretens.
 
-<sup>3</sup> § 10 Abs. 3 und 4 sind befristet bis 31. Dezember 2023.
+<sup>3</sup> …
 
 Aarau, 5. Juni 2012
 
