@@ -4,13 +4,13 @@ number: "740.111"
 title: Verordnung über die Geoinformation im Kanton Aargau
 short: "Kantonale Geoinformationsverordnung, KGeoIV"
 language: de
-version: 2022-01-01
-valid_until: 2023-12-31
-version_adopted: 2021-09-01
+version: 2024-01-01
+valid_until: 2024-12-31
+version_adopted: 2023-10-18
 adopted: 2011-11-16
 in_force: 2012-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/740.111"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3083/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3367/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3083/pdf_file"
 
 (Kantonale Geoinformationsverordnung, KGeoIV)
 
-Vom 16.11.2011 (Stand 01.01.2022)
+Vom 16.11.2011 (Stand 01.01.2024)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -223,6 +223,22 @@ beschliesst:
 
 <sup>5</sup> Die zuständige Fachstelle kann für bestimmte Geodaten die Nutzung ohne Einwilligung generell zulassen.
 
+#### § 16a
+
+**Offene Verwaltungsdaten**
+
+<sup>1</sup> Geobasisdaten und übrige Geodaten, die frei zugänglich sind und bei denen für Zugang und Nutzung keine Gebühren erhoben werden, sind offene Verwaltungsdaten.
+
+<sup>2</sup> Die zuständige Stelle gemäss § 11 KGeoIG kann Geobasisdaten der Zugangsberechtigungsstufe A des kantonalen Rechts durch Geodienste als offene Verwaltungsdaten zugänglich machen.
+
+<sup>3</sup> Die gemäss § 6 Abs. 1 KGeoIG für übrige Geodaten zuständigen kantonalen Behörden können diese durch Geodienste als offene Verwaltungsdaten zugänglich machen.
+
+<sup>4</sup> Bei offenen Verwaltungsdaten gilt die Einwilligung zur Nutzung als erteilt.
+
+<sup>5</sup> Bei übermässiger, unangemessener oder missbräuchlicher Nutzung kann der Zugang eingeschränkt oder verweigert werden.
+
+<sup>6</sup> Zur Verhinderung von übermässiger, unangemessener und missbräuchlicher Nutzung kann die zuständige Stelle den freien Zugang durch geeignete Instrumente, einschliesslich der Erfassung von IP-Adressen, überwachen.
+
 #### § 17
 
 **Verfahren**
@@ -313,6 +329,8 @@ beschliesst:
 
 <sup>3</sup> …
 
+<sup>4</sup> Die AGIS-Konferenz kann geringfügige Änderungen der Geodatenmodelle genehmigen.
+
 #### § 25
 
 **AGIS-Board**
@@ -325,7 +343,7 @@ beschliesst:
 
 <sup>2</sup> Das AGIS-Board ist insbesondere zuständig für
 
-- a) die Genehmigung der Geodatenmodelle,
+- a) die Genehmigung der Geodatenmodelle, soweit es sich nicht um geringfügige Änderungen handelt,
 - b) die Genehmigung der Darstellungsmodelle,
 - c) die Genehmigung des Archivierungskonzepts,
 - d) den Erlass verbindlicher technischer und organisatorischer Weisungen betreffend den Betrieb von AGIS,
@@ -349,9 +367,11 @@ beschliesst:
 
 #### § 26
 
-**Zuständige Stelle**
+**Zuständige Stelle und Festlegung von offenen Verwaltungsdaten**
 
 <sup>1</sup> Anhang 2 bezeichnet die zuständige Stelle für die Geobasisdaten des Bundesrechts.
+
+<sup>2</sup> Die zuständige Stelle kann Geobasisdaten der Zugangsberechtigungsstufe A des Bundesrechts als offene Verwaltungsdaten zugänglich machen.
 
 #### § 27
 
@@ -409,11 +429,11 @@ beschliesst:
 
 #### § 29f
 
-**Auszüge und Beglaubigungen**
+**Auszüge**
 
 <sup>1</sup> Auszüge aus dem Kataster werden mittels Darstellungsdienst zugänglich gemacht.
 
-<sup>2</sup> Die Nachführungsgeometerinnen und Nachführungsgeometer sind in ihrem Nachführungskreis zuständig für die Erstellung und Abgabe beglaubigter Auszüge aus dem Kataster. Das Verfahren richtet sich nach § 39.
+<sup>2</sup> …
 
 ## 4. Amtliche Vermessung
 
@@ -617,7 +637,7 @@ beschliesst:
 - b) des Übersichtsplans und des Basisplans,
 - c) der projektierten Bauten,
 - d) der Register,
-- e) der Gemeindepläne,
+- e) …
 - f) der allgemeinen Auskunftserteilung,
 - g) der vermessungstechnischen Arbeiten, die ausschliesslich die Vereinigung von Grundstücken ausserhalb des Baugebiets betreffen.
 
