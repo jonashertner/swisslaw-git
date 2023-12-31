@@ -4,13 +4,13 @@ number: "412.111"
 title: Verordnung zum Schulgesetz
 short: Schulverordnung; SchulV
 language: de
-version: 2021-10-01
-valid_until: 2023-12-31
-version_adopted: 2021-09-21
+version: 2024-01-01
+valid_until: 2024-07-31
+version_adopted: 2024-06-04
 adopted: 1992-07-07
 in_force: 1992-08-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/412.111"
-pdf: "https://bgs.zg.ch/api/de/versions/2262/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2578/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,11 +19,11 @@ pdf: "https://bgs.zg.ch/api/de/versions/2262/pdf_file"
 
 (Schulverordnung; SchulV)
 
-Vom 7. Juli 1992 (Stand 1. Oktober 2021)
+Vom 7. Juli 1992 (Stand 1. Januar 2024)
 
 Der Regierungsrat des Kantons Zug,
 
-in Vollziehung des Schulgesetzes vom 27. September 1990[^ingress-1],
+in Vollziehung des Schulgesetzes (SchulG) vom 27. September 1990[^ingress-1],
 
 beschliesst:
 
@@ -226,6 +226,29 @@ beschliesst:
 **Administrative Daten**
 
 <sup>1</sup> Administrative Daten von Schülern sind deren Name und Vorname, Geburtsdatum, Adresse, Telefonnummer, bisherige Klasse, bisherige Lehrperson, Staatszugehörigkeit, Muttersprache, Konfession, Inhaberin oder Inhaber der elterlichen Sorge sowie allenfalls Vorname, Name, Adresse und Telefonnummer einer allfälligen Tagesbetreuung.
+
+#### § 10b
+
+**Kantonale Leistungstests**
+
+<sup>1</sup> Die Direktion für Bildung und Kultur führt im Rahmen des Bildungsmonitorings kantonale Leistungstests durch und legt die Durchführungszeitpunkte fest. Die Ergebnisse der kantonalen Leistungstests dienen
+
+- a) der individuellen Förderung der Schülerinnen und der Schüler;
+- b) zur Standortbestimmung im Hinblick auf die weitere schulische oder berufliche Laufbahn;
+- c) der Unterrichts- und Schulentwicklung;
+- d) als Information über die Wirksamkeit des kantonalen Bildungssystems.
+
+<sup>2</sup> Über einen Schülerfragebogen können Daten erhoben werden, die der Darstellung der Testergebnisse nach Geschlecht, der sozioökonomischen Herkunft und der Muttersprache der Schülerinnen und Schüler dienen. Die Daten werden ausschliesslich anonymisiert ausgewertet.
+
+<sup>3</sup> Die Lehrperson erhält die individuellen Testergebnisse der Schülerinnen und Schüler ihrer Klasse, die Testergebnisse ihrer Klasse sowie die anonymisierten Testergebnisse aller anderen teilnehmenden Klassen desselben Schuljahrs. Sie kann die Ergebnisse des Tests der übernehmenden Lehrperson weitergeben. Sie teilt den Schülerinnen und Schülern sowie deren Erziehungsberechtigten die individuellen Testergebnisse in geeigneter Form mit.
+
+<sup>4</sup> Die Schulleitung erhält die Testergebnisse der Klassen ihrer Schuleinheit, das Gesamtergebnis ihrer Schuleinheit und die anonymisierten Testergebnisse der anderen teilnehmenden Schuleinheiten. Sie kann Einsicht in die individuellen Testergebnisse einzelner Schülerinnen und Schüler ihrer Schuleinheit nehmen, soweit es für die Aufgabenerfüllung erforderlich ist.
+
+<sup>5</sup> Der Gemeinderat erhält das Gesamtergebnis seiner Schulen und die anonymisierten Gesamtergebnisse aller teilnehmenden Schulen.
+
+<sup>6</sup> Die Direktion für Bildung und Kultur erhält die Testergebnisse aller teilnehmenden Klassen und Schulen. Der Bildungsrat erhält die anonymisierten Gesamtergebnisse der Gemeinden. Die Direktion für Bildung und Kultur informiert die Öffentlichkeit in angemessener Weise.
+
+<sup>7</sup> Die Direktion für Bildung und Kultur und die gemeindlichen Schulen treffen je die geeigneten und notwendigen Sicherungsmassnahmen zur Vermeidung eines unbefugten Zugriffs durch Dritte auf Daten, die bei den Leistungstests anfallen.
 
 ## 2<sup>bis</sup>. Sonderschulung
 
