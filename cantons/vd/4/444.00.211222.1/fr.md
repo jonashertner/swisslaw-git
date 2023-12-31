@@ -3,7 +3,7 @@ canton: VD
 number: "444.00.211222.1"
 title: "DÉCRET du 21.12.2022 fixant la contribution de l'Etat et des communes au budget annuel de la Fondation pour l'enseignement de la musique (FEM) pour les années 2022 à 2026"
 language: fr
-version: 2022-01-01
+version: 2024-01-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/444.00.211222.1?id=f6d89615-a4e1-4cb4-a440-3dc87ed68318"
 ---
 
@@ -34,6 +34,8 @@ décrète
 <sup>1</sup> La contribution de l'Etat au budget annuel de la Fondation pour l'enseignement de la musique est fixée à un montant égal à la contribution des communes.
 
 <sup>2</sup> La contribution prévue à l'alinéa premier est augmentée d'un montant socle de 6,19 millions de francs.
+
+<sup>2bis</sup> Sur décision du Conseil d'Etat, le montant socle peut être ajusté annuellement à titre d'indexation sur la base des mesures de politique salariale décidées par le Conseil d'Etat.
 
 [^1-1]: Modif. 1 du 11.12.2024: Introduction Al. 2bis; entrée en vigueur au 01.01.2024
 
