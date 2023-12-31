@@ -4,11 +4,11 @@ title: "Ordinanza del 18 novembre 2015 concernente l'importazione, il transito e
 short: OITE-PT
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/843"
 language: it
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2015-11-18
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/843/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2015-843-20230901-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/843/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/843/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2015-843-20240101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/843/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/843/20230901/it"
 
 (OITE-PT)
 
-del 18 novembre 2015 (Stato 1° settembre 2023)
+del 18 novembre 2015 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -1691,12 +1691,12 @@ L’USAV provvede alla rettifica di dati inesatti.
 
 #### Art. 102g
 
-**Sicurezza informatica**[^102g-1]
+**Sicurezza delle informazioni**[^102g-1]
 
-Le misure volte a garantire la sicurezza informatica sono disciplinate dall’ordinanza del 27 maggio 2020[^102g-2] sui ciber-rischi.
+Le misure volte a garantire la sicurezza delle informazioni sono disciplinate dall’ordinanza dell’8 novembre 2023[^102g-2] sulla sicurezza delle informazioni.
 
-[^102g-1]: Nuovo testo giusta l’all. n. 35 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
-[^102g-2]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^102g-1]: Nuovo testo giusta l’all. 2 n. II 41 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^102g-2]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
 
 #### Art. 102h
 

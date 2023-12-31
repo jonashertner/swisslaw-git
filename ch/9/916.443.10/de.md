@@ -4,11 +4,11 @@ title: "Verordnung vom 18. November 2015 über die Ein-, Durch- und Ausfuhr von 
 short: EDAV-DS
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/843"
 language: de
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2015-11-18
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/843/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2015-843-20230901-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/843/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/843/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2015-843-20240101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/843/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/843/20230901/de"
 
 (EDAV-DS)
 
-vom 18. November 2015 (Stand am 1. September 2023)
+vom 18. November 2015 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -1690,12 +1690,12 @@ Das BLV sorgt für die Berichtigung unrichtiger Daten.
 
 #### Art. 102g
 
-**Informatiksicherheit**[^102g-1]
+**Informationssicherheit**[^102g-1]
 
-Die Massnahmen zur Gewährleistung der Informatiksicherheit richten sich nach der Cyberrisikenverordnung vom 27. Mai 2020[^102g-2].
+Die Massnahmen zur Gewährleistung der Informationssicherheit richten sich nach der Informationssicherheitsverordnung vom 8. November 2023[^102g-2].
 
-[^102g-1]: Fassung gemäss Anhang Ziff. 35 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
-[^102g-2]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^102g-1]: Fassung gemäss Anhang 2 Ziff. II 41 der Informationssicherheitsverordnung vom 8. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^102g-2]: [SR 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
 
 #### Art. 102h
 
