@@ -4,13 +4,13 @@ number: 520b
 title: "Statut der Hochschule Luzern, FH Zentralschweiz"
 short: FHZ-Statut
 language: de
-version: 2022-12-31
-valid_until: 2023-12-31
+version: 2024-01-01
+valid_until: 2024-08-31
 version_adopted: 2023-06-13
 adopted: 2021-08-26
 in_force: 2021-09-01
 url: "https://srl.lu.ch/app/de/texts_of_law/520b"
-pdf: "https://srl.lu.ch/api/de/versions/4118/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4155/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/4118/pdf_file"
 
 (FHZ-Statut)
 
-vom 26.08.2021 (Stand 31.12.2022)
+vom 26.08.2021 (Stand 01.01.2024)
 
 Der Fachhochschulrat,
 
@@ -217,7 +217,7 @@ beschliesst:
 - b. Hochschule Luzern - Wirtschaft,
 - c. Hochschule Luzern - Informatik,
 - d. Hochschule Luzern - Soziale Arbeit,
-- e. Hochschule Luzern - Design und Kunst,
+- e. Hochschule Luzern - Design Film Kunst,
 - f. Hochschule Luzern - Musik.
 
 #### Art. 20
@@ -445,7 +445,7 @@ beschliesst:
 
 **Studierendenvertretungen**
 
-<sup>1</sup> Die Studierendenvertretungen setzen sich für die Anliegen und Interessen der Studierenden in den jeweiligen Departementen Technik und Architektur, Wirtschaft, Informatik, Soziale Arbeit, Design und Kunst und Musik ein.
+<sup>1</sup> Die Studierendenvertretungen setzen sich für die Anliegen und Interessen der Studierenden in den jeweiligen Departementen Technik und Architektur, Wirtschaft, Informatik, Soziale Arbeit, Design Film Kunst und Musik ein.
 
 <sup>2</sup> Pro Departement wird je eine Studierendenvertretung gewählt, die sich aus mindestens drei Vertreterinnen und Vertretern aller Studierenden zusammensetzt. Im Übrigen organisieren sich die Studierendenvertretungen unter Berücksichtigung der Mitwirkungsstandards der Hochschule Luzern selber.
 
