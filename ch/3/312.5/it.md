@@ -4,11 +4,11 @@ title: "Legge federale del 23 marzo 2007 concernente l'aiuto alle vittime di rea
 short: LAV
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/232"
 language: it
-version: 2019-01-01
+version: 2024-01-01
 adopted: 2007-03-23
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/232/20190101/it/xml/fedlex-data-admin-ch-eli-cc-2008-232-20190101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/232/20190101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/232/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2008-232-20240101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/232/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/232/20190101/it"
 
 (LAV)
 
-del 23 marzo 2007 (Stato 1° gennaio 2019)
+del 23 marzo 2007 (Stato 1° gennaio 2024)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -60,7 +60,7 @@ L’aiuto alle vittime comprende:
 - f. l’esenzione dalle spese processuali;
 - g.[^2-1] …
 
-[^2-1]: Abrogata dal n. II 10 dell’all. 1 del Codice di diritto processuale penale svizzero del 5 ott. 2007, con effetto dal 1° gen. 2011 ([RU 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124)).
+[^2-1]: Abrogata dall’all. 1 n. II 10 del Codice di diritto processuale penale svizzero del 5 ott. 2007, con effetto dal 1° gen. 2011 ([RU 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124)).
 
 #### Art. 3
 
@@ -118,7 +118,15 @@ La consulenza, l’aiuto immediato e l’aiuto a più lungo termine fornito dai 
 
 <sup>3</sup> I capoversi 1 e 2 si applicano per analogia ai congiunti della vittima.
 
-[^8-1]: Nuovo testo giusta il n. II 8 dell’all. alla L del 19 mar. 2010 sull’organizzazione delle autorità penali, in vigore dal 1° gen. 2011 ([RU 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7093](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
+[^8-1]: Nuovo testo giusta l’all. n. II 8 della L del 19 mar. 2010 sull’organizzazione delle autorità penali, in vigore dal 1° gen. 2011 ([RU 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7093](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
+
+#### Art. 8a
+
+**Esenzione dall’obbligo di denuncia**[^8a-1]
+
+I collaboratori dei servizi e delle autorità cantonali che decidono sugli aiuti finanziari, sull’indennizzo o sulla riparazione morale non sottostanno all’obbligo di denuncia.
+
+[^8a-1]: Introdotto dal’all. 1 n. 7 della LF del 17 giu. 2022, in vigore dal 1° gen. 2024 ([RU 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 5523](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 ## Capitolo 2: Prestazioni dei consultori
 
@@ -153,8 +161,8 @@ La consulenza, l’aiuto immediato e l’aiuto a più lungo termine fornito dai 
 <sup>4</sup> Chi viola l’obbligo del segreto è punito con una pena detentiva fino a tre anni o con una pena pecuniaria.
 
 [^11-1]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^11-2]: Per. introdotto dal n. II 10 dell’all. 1 del Codice di diritto processuale penale svizzero del 5 ott. 2007, in vigore dal 1° gen. 2011 ([RU 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124)).
-[^11-3]: Nuovo testo giusta il n. 3 dall’all. alla LF del 15 dic. 2017 (Protezione dei minorenni), in vigore dal 1° gen. 2019 ([RU 2018 2947](https://fedlex.data.admin.ch/eli/oc/2018/450); [FF 2015 2751](https://fedlex.data.admin.ch/eli/fga/2015/838)).
+[^11-2]: Per. introdotto dall’all. 1 n. II 10 del Codice di diritto processuale penale svizzero del 5 ott. 2007, in vigore dal 1° gen. 2011 ([RU 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124)).
+[^11-3]: Nuovo testo giusta l’all. n. 3 della LF del 15 dic. 2017 (Protezione dei minorenni), in vigore dal 1° gen. 2019 ([RU 2018 2947](https://fedlex.data.admin.ch/eli/oc/2018/450); [FF 2015 2751](https://fedlex.data.admin.ch/eli/fga/2015/838)).
 
 ### Sezione 2: Consulenza e aiuto dei consultori e contributi alle spese
 
@@ -164,7 +172,9 @@ La consulenza, l’aiuto immediato e l’aiuto a più lungo termine fornito dai 
 
 <sup>1</sup> I consultori consigliano la vittima e i suoi congiunti e li aiutano a far valere i loro diritti.
 
-<sup>2</sup> Se ricevono un avviso secondo l’articolo 8 capoverso 2 o 3, i consultori si mettono in contatto con la vittima o con i suoi congiunti.
+<sup>2</sup> Se ricevono un avviso secondo l’articolo 8 capoverso 1 o 2, i consultori si mettono in contatto con la vittima o con i suoi congiunti.[^12-1]
+
+[^12-1]: Nuovo testo giusta l’all. 1 n. 7 della LF del 17 giu. 2022, in vigore dal 1° gen. 2024 ([RU 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 5523](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 13
 
@@ -405,7 +415,7 @@ Il Consiglio federale provvede a far valutare periodicamente l’adeguatezza, l�
 
 [^3444-1]
 
-[^3444-1]: Abrogati dal n. II 10 dell’all. 1 del Codice di diritto processuale penale svizzero del 5 ott. 2007, con effetto dal 1° gen. 2011 ([RU 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124)).
+[^3444-1]: Abrogati dall’all. 1 n. II 10 del Codice di diritto processuale penale svizzero del 5 ott. 2007, con effetto dal 1° gen. 2011 ([RU 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124)).
 
 ## Capitolo 7: Disposizioni finali
 
@@ -450,7 +460,7 @@ Sono retti dal diritto previgente:[^48-1]
 
 **Coordinamento della presente legge (nuova LAV) con la legge federale del 6 ottobre 2006[^49-1] sulle prestazioni complementari all’assicurazione per la vecchiaia, i superstiti e l’invalidità (nuova LPC)**
 
-Indipendentemente dal fatto che entri in vigore prima la nuova LAV o la nuova LPC, all’atto della seconda di queste entrate in vigore o in caso di entrata in vigore simultanea, le disposizioni della nuova LAV ricevono il seguente tenore:*[^49-2]*
+Indipendentemente dal fatto che entri in vigore prima la nuova LAV o la nuova LPC, all’atto della seconda di queste entrate in vigore o in caso di entrata in vigore simultanea, le disposizioni della nuova LAV ricevono il seguente tenore:[^49-2]
 
 …
 

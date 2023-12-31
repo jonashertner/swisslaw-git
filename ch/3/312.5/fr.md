@@ -4,20 +4,20 @@ title: "Loi fédérale du 23 mars 2007 sur l'aide aux victimes d'infractions (Lo
 short: LAVI
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/232"
 language: fr
-version: 2019-01-01
+version: 2024-01-01
 adopted: 2007-03-23
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/232/20190101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-232-20190101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/232/20190101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/232/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-232-20240101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/232/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Loi fédérale sur l’aide aux victimes d’infractions**<sup>∗</sup>**
+# Loi fédérale sur l’aide aux victimes d’infractions<sup>∗</sup>
 
 (Loi sur l’aide aux victimes, LAVI)[^t-1]
 
-du 23 mars 2007 (Etat le 1<sup>er</sup> janvier 2019)
+du 23 mars 2007 (État le 1<sup>er</sup> janvier 2024)
 
 [^t-1]: <sup>∗</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -62,7 +62,7 @@ L’aide aux victimes comprend:
 - f. l’exemption des frais de procédure;
 - g.[^2-1] …
 
-[^2-1]: Abrogée par le ch. II 10 de l'annexe 1 au CPP du 5 oct. 2007, avec effet au 1<sup>er</sup> janv. 2011 ([RO 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124)).
+[^2-1]: Abrogée par l’annexe 1 ch. II 10 du CPP du 5 oct. 2007, avec effet au 1<sup>er</sup> janv. 2011 ([RO 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124)).
 
 #### Art. 3
 
@@ -120,7 +120,15 @@ Les conseils et l’aide immédiate, de même que l’aide à plus long terme qu
 
 <sup>3</sup> Les al. 1 et 2 s’appliquent par analogie aux proches de la victime.
 
-[^8-1]: Nouvelle teneur selon le ch. II 8 de l'annexe à la loi du 19 mars 2010 sur l’organisation des autorités pénales, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7371](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
+[^8-1]: Nouvelle teneur selon l’annexe ch. II 8 de la loi du 19 mars 2010 sur l’organisation des autorités pénales, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7371](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
+
+#### Art. 8a
+
+**Exemption de l’obligation de dénoncer**[^8a-1]
+
+Les collaborateurs des autorités et services cantonaux qui décident de l’octroi d’une aide financière, d’une indemnisation ou d’une réparation morale sont exemptés de toute obligation de dénoncer.
+
+[^8a-1]: Introduit par l’annexe 1 ch. 7 de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 ## Chapitre 2 Prestations des centres de consultation
 
@@ -155,8 +163,8 @@ Les conseils et l’aide immédiate, de même que l’aide à plus long terme qu
 <sup>4</sup> Quiconque viole son obligation de garder le secret est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
 
 [^11-1]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^11-2]: Phrase introduite par le ch. II 10 de l’annexe 1 au CPP, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124)).
-[^11-3]: Nouvelle teneur selon le ch. 3 de l’annexe à la LF du 15 déc. 2017 (Protection de l’enfant), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 2947](https://fedlex.data.admin.ch/eli/oc/2018/450); [FF 2015 3111](https://fedlex.data.admin.ch/eli/fga/2015/838)).
+[^11-2]: Phrase introduite par l’annexe 1 ch. II 10 du CPP, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124)).
+[^11-3]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 15 déc. 2017 (Protection de l’enfant), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 2947](https://fedlex.data.admin.ch/eli/oc/2018/450); [FF 2015 3111](https://fedlex.data.admin.ch/eli/fga/2015/838)).
 
 ### Section 2 Aide fournie par les centres de consultation et contribution aux frais
 
@@ -166,7 +174,9 @@ Les conseils et l’aide immédiate, de même que l’aide à plus long terme qu
 
 <sup>1</sup> Les centres de consultation conseillent la victime et ses proches; ils les aident à faire valoir leurs droits.
 
-<sup>2</sup> Lorsqu’un centre de consultation a reçu un avis conformément à l’art. 8, al. 2 ou 3, il prend contact avec la victime ou ses proches.
+<sup>2</sup> Lorsqu’un centre de consultation a reçu un avis conformément à l’art. 8, al. 1 ou 2, il prend contact avec la victime ou ses proches.[^12-1]
+
+[^12-1]: Nouvelle teneur selon l’annexe 1 ch. 7 de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 13
 
@@ -407,7 +417,7 @@ Le Conseil fédéral veille à ce que l’adéquation, l’efficacité et le car
 
 [^3444-1]
 
-[^3444-1]: Abrogés par le ch. II 10 de l’annexe 1 au CPP du 5 oct. 2007, avec effet au 1<sup>er</sup> janv. 2011 ([RO 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124)).
+[^3444-1]: Abrogés par l’annexe 1 ch. II 10 du CPP du 5 oct. 2007, avec effet au 1<sup>er</sup> janv. 2011 ([RO 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124)).
 
 ## Chapitre 7 Dispositions finales
 
@@ -450,7 +460,7 @@ Sont régis par l’ancien droit:
 
 **Coordination de la présente loi (nouvelle LAVI) avec la loi du 6 octobre 2006 sur les prestations complémentaires (nouvelle LPC)[^49-1]**
 
-Quel que soit l’ordre dans lequel la nouvelle LAVI et la nouvelle LPC entrent en vigueur, à l’entrée en vigueur de la dernière des deux lois ou à leur entrée en vigueur simultanée, les dispositions ci-après de la présente loi ont la teneur suivante:*[^49-2]*
+Quel que soit l’ordre dans lequel la nouvelle LAVI et la nouvelle LPC entrent en vigueur, à l’entrée en vigueur de la dernière des deux lois ou à leur entrée en vigueur simultanée, les dispositions ci-après de la présente loi ont la teneur suivante:[^49-2]
 
 …
 

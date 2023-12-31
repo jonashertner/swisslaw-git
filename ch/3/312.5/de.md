@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 23. März 2007 über die Hilfe an Opfer von Straftaten 
 short: OHG
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/232"
 language: de
-version: 2019-01-01
+version: 2024-01-01
 adopted: 2007-03-23
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/232/20190101/de/xml/fedlex-data-admin-ch-eli-cc-2008-232-20190101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/232/20190101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/232/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2008-232-20240101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/232/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/232/20190101/de"
 
 (Opferhilfegesetz, OHG)
 
-vom 23. März 2007 (Stand am 1. Januar 2019)
+vom 23. März 2007 (Stand am 1. Januar 2024)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -120,6 +120,14 @@ Die Beratung, die Soforthilfe und die von den Beratungsstellen erbrachte länger
 
 [^8-1]: Fassung gemäss Anhang Ziff. II 8 des Strafbehördenorganisationsgesetzes vom 19. März 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
 
+#### Art. 8a
+
+**Entfallen der Anzeigepflicht**[^8a-1]
+
+Die Mitarbeiterinnen und Mitarbeiter der kantonalen Stellen oder Behörden, die über finanzielle Hilfe, Entschädigung oder Genugtuung entscheiden, unterliegen keiner Anzeigepflicht.
+
+[^8a-1]: Eingefügt durch Anhang 1 Ziff. 7 des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+
 ## 2. Kapitel: Leistungen der Beratungsstellen
 
 ### 1. Abschnitt: Beratungsstellen
@@ -164,7 +172,9 @@ Die Beratung, die Soforthilfe und die von den Beratungsstellen erbrachte länger
 
 <sup>1</sup> Die Beratungsstellen beraten das Opfer und seine Angehörigen und unterstützen sie bei der Wahrnehmung ihrer Rechte.
 
-<sup>2</sup> Erhalten die Beratungsstellen eine Meldung nach Artikel 8 Absatz 2 oder 3, so nehmen sie mit dem Opfer oder seinen Angehörigen Kontakt auf.
+<sup>2</sup> Erhalten die Beratungsstellen eine Meldung nach Artikel 8 Absatz 1 oder 2, so nehmen sie mit dem Opfer oder seinen Angehörigen Kontakt auf.[^12-1]
+
+[^12-1]: Fassung gemäss Anhang 1 Ziff. 7 des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 13
 
@@ -448,7 +458,7 @@ Das bisherige Recht gilt für:
 
 **Koordination des vorliegenden Gesetzes (neues OHG) mit dem Bundesgesetz vom 6. Oktober 2006[^49-1] über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung (neues ELG)**
 
-Unabhängig davon, ob das neue ELG oder das neue OHG zuerst in Kraft tritt, lauten die nachstehenden Bestimmungen des neuen OHG mit Inkrafttreten des später in Kraft tretenden Gesetzes sowie bei gleichzeitigem Inkrafttreten wie folgt:*[^49-2]*
+Unabhängig davon, ob das neue ELG oder das neue OHG zuerst in Kraft tritt, lauten die nachstehenden Bestimmungen des neuen OHG mit Inkrafttreten des später in Kraft tretenden Gesetzes sowie bei gleichzeitigem Inkrafttreten wie folgt:[^49-2]
 
 …
 

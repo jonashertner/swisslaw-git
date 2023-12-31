@@ -4,11 +4,11 @@ title: "Lescha federala dals 23 da mars 2007 davart l'agid a victimas da delicts
 short: LAVi
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/232"
 language: rm
-version: 2019-01-01
+version: 2024-01-01
 adopted: 2007-03-23
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/232/20190101/rm/xml/fedlex-data-admin-ch-eli-cc-2008-232-20190101-rm-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/232/20190101/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/232/20240101/rm/xml/fedlex-data-admin-ch-eli-cc-2008-232-20240101-rm-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/232/20240101/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (Lescha davart l’agid a victimas, LAVi)
 
-dals 23 da mars 2007 (versiun dal 1. da schaner 2019)
+dals 23 da mars 2007 (versiun dal 1. da schaner 2024)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -122,6 +122,14 @@ La cussegliaziun, l’agid immediat e l’agid a pli lunga vista furnì dals pos
 
 [^8-1]: Versiun tenor la cifra II 8 da l’agiunta da la Lescha davart l’organisaziun da las autoritads penalas dals 19 da mars 2010, en vigur dapi il 1. da schan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
 
+#### Art. 8a
+
+**Nagina obligaziun da denunzia**[^8a-1]
+
+Las collavuraturas ed ils collavuraturs dals posts u da las autoritads chantunalas che decidan davart agids finanzials, indemnisaziuns u satisfacziuns, n’èn betg suttamess a l’obligaziun da denunzia.
+
+[^8a-1]: Integrà tras la cifra 7 da l’agiunta 1 da la LF dals 17 da zer. 2022, en vigur dapi il 1. da schan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+
 ## 2. chapitel Prestaziuns dals posts da cussegliaziun
 
 ### 1. secziun Posts da cussegliaziun
@@ -152,7 +160,7 @@ La cussegliaziun, l’agid immediat e l’agid a pli lunga vista furnì dals pos
 
 <sup>3</sup> Sche l’integritad corporala, psichica u sexuala d’ina persuna minorenna u d’ina persuna sut curatella cumplessiva è periclitada seriusamain, po il post da cussegliaziun infurmar l’autoritad per la protecziun d’uffants e da creschids u denunziar il delict a l’autoritad da persecuziun penala.[^11-3]
 
-<sup>4</sup> Tgi che violescha l’obligaziun da mantegnair il secret, vegn chastià cun in chasti da detenziun fin a 3 onns u cun in chasti pecuniar.
+<sup>4</sup> Tgi che violescha l’obligaziun da mantegnair il secret, vegn chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
 [^11-1]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
 [^11-2]: Versiun da la segunda e da la terza frasa tenor la cifra II 10 da l’agiunta 1 dal Cudesch da procedura penala dals 5 d’oct. 2007, en vigur dapi il 1. da schan. 2011 ([AS 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124)).
@@ -166,7 +174,9 @@ La cussegliaziun, l’agid immediat e l’agid a pli lunga vista furnì dals pos
 
 <sup>1</sup> Ils posts da cussegliaziun cusseglian la victima e ses confamigliars ed als gidan a far valair lur dretgs.
 
-<sup>2</sup> Sch’ils posts da cussegliaziun survegnan in’annunzia tenor l’artitgel 8 alinea 2 u 3, entran els en contact cun la victima u cun ses confamigliars.
+<sup>2</sup> Sch’ils posts da cussegliaziun survegnan in’annunzia tenor l’artitgel 8 alinea 1 u 2, entran els en contact cun la victima u cun ses confamigliars.[^12-1]
+
+[^12-1]: Versiun tenor la cifra 7 da l’agiunta 1 da la LF dals 17 da zer. 2022, en vigur dapi il 1. da schan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468), [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 13
 
@@ -450,7 +460,7 @@ Il dretg vertent vala per:
 
 **Coordinaziun da questa lescha (nova LAVi) cun la Lescha federala dals 6 d’october 2006[^49-1] davart las prestaziuns supplementaras tar l’assicuranza per vegls, survivents ed invaliditad (nova LPS)**
 
-Independentamain dal fatg, sche la nova LPS u la nova LAVi entra en vigur sco emprima, han las disposiziuns qua sutvart da la nova LAVi – il mument da l’entrada en vigur da l’ultima da las duas leschas u il mument da lur entrada en vigur a medem temp – il suandant text:*[^49-2]*
+Independentamain dal fatg, sche la nova LPS u la nova LAVi entra en vigur sco emprima, han las disposiziuns qua sutvart da la nova LAVi – il mument da l’entrada en vigur da l’ultima da las duas leschas u il mument da lur entrada en vigur a medem temp – il suandant text:[^49-2]
 
 ...
 
