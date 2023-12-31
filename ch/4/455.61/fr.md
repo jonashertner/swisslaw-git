@@ -3,11 +3,11 @@ sr: "455.61"
 title: "Ordonnance du 1<sup>er</sup> septembre 2010 sur le système informatique relatif aux expériences sur animaux (Ordonnance animex-ch)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/563"
 language: fr
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2010-09-01
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/563/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2010-563-20230901-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/563/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/563/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2010-563-20240101-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/563/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/563/20230901/fr"
 
 (Ordonnance animex-ch)[^t-1]
 
-du 1<sup>er</sup> septembre 2010 (État le 1<sup>er</sup> septembre 2023)
+du 1<sup>er</sup> septembre 2010 (État le 1<sup>er</sup> janvier 2024)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> fév. 2022 ([RO 2021 926](https://fedlex.data.admin.ch/eli/oc/2021/926)).
 
@@ -45,11 +45,12 @@ Elle réglemente notamment:
 - b. la structure et le contenu du système informatique animex-ch;
 - c. les droits d’accès;
 - d. la communication des données;
-- e. la protection des données et la sécurité informatique;
+- e. la protection des données et la sécurité de l’information[^1-2];
 - f. l’archivage des données;
 - g. les émoluments et les frais.
 
 [^1-1]: Nouvelle expression selon le ch. I de l’O du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> fév. 2022 ([RO 2021 926](https://fedlex.data.admin.ch/eli/oc/2021/926)). Il a été tenu compte de cette mod. dans tout le texte.
+[^1-2]: Nouvelle expression selon l’annexe 2 ch. II 29 de l’O du 8 nov. 2023 sur la sécurité de l’information, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 2
 
@@ -116,13 +117,13 @@ Le service technique de l’OSAV[^5-1] chargé du système informatique animex-c
 
 <sup>1</sup> Lesautorités cantonalesgèrent leurs données et leurs documents et veillent à l’exactitude des données relatives aux personnes et aux établissements de leur canton. Elles gèrent notamment les informations relatives aux utilisateurs et les transmettent au service technique dans la mesure où elles sont nécessaires pour l’octroi des droits d’accès.
 
-<sup>2</sup> Elles concluent des conventions d’utilisation avec les instituts, les laboratoires, les animaleries et les membres des commissions cantonales de l’expérimentation animale. Ces conventions doivent contenir notamment les mesures garantissant la protection des données et la sécurité informatique.
+<sup>2</sup> Elles concluent des conventions d’utilisation avec les instituts, les laboratoires, les animaleries et les membres des commissions cantonales de l’expérimentation animale. Ces conventions doivent contenir notamment les mesures garantissant la protection des données et la sécurité de l’information.
 
 #### Art. 7
 
 **Instituts, laboratoires et animaleries**
 
-Les instituts, les laboratoires et les animaleries concluent des conventions d’utilisation avec leurs collaborateurs. Ces conventions doivent contenir notamment des mesures garantissant la protection des données et la sécurité informatique.
+Les instituts, les laboratoires et les animaleries concluent des conventions d’utilisation avec leurs collaborateurs. Ces conventions doivent contenir notamment des mesures garantissant la protection des données et la sécurité de l’information.
 
 #### Art. 8
 
@@ -279,7 +280,7 @@ Les collaborateurs du service technique ont, dans le cadre de l’accomplissemen
 
 <sup>1</sup> Les instituts, les laboratoires et les animaleries qui disposent de leur propre système informatique de gestion des expériences sur animaux peuvent échanger des données avec le système informatique animex-ch au moyen d’une interface d’échange de données sécurisée.
 
-<sup>2</sup> L’OSAV conclut avec eux des conventions d’utilisation réglant l’échange de données. Ces conventions doivent contenir notamment des mesures garantissant la protection des données et la sécurité informatique.
+<sup>2</sup> L’OSAV conclut avec eux des conventions d’utilisation réglant l’échange de données. Ces conventions doivent contenir notamment des mesures garantissant la protection des données et la sécurité de l’information.
 
 ## Section 5 Communication des données
 
@@ -312,7 +313,7 @@ L’OSAV peut communiquer des données personnelles tirées du système informat
 
 [^16a-1]: Introduit par le ch. I de l’O du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> fév. 2022 ([RO 2021 926](https://fedlex.data.admin.ch/eli/oc/2021/926)).
 
-## Section 6 Protection des données, sécurité informatique et archivage
+## Section 6 Protection des données, sécurité de l’information et archivage
 
 #### Art. 17
 
@@ -345,16 +346,16 @@ L’institut, le laboratoire, l’animalerie ou l’autorité qui a saisi les do
 
 #### Art. 20
 
-**Sécurité informatique**
+**Sécurité de l’information**
 
-<sup>1</sup> Les mesures pour garantir la sécurité informatique sont régies par l’ordonnance du 27 mai 2020 sur les cyberrisques[^20-1].[^20-2]
+<sup>1</sup> Les mesures pour garantir la sécurité de l’information sont régies par l’ordonnance du 8 novembre 2023 sur la sécurité de l’information[^20-1].[^20-2]
 
-<sup>2</sup> L’OSAV veille à ce que les dispositions régissant la sécurité informatique soient intégrées dans les conventions d’utilisation conclues avec les cantons, les instituts, les laboratoires et les animaleries et dans les conventions passées avec des fournisseurs de prestations.
+<sup>2</sup> L’OSAV veille à ce que les dispositions régissant la sécurité de l’information soient intégrées dans les conventions d’utilisation conclues avec les cantons, les instituts, les laboratoires et les animaleries et dans les conventions passées avec des fournisseurs de prestations.
 
-<sup>3</sup> Les cantons veillent à la sécurité informatique au niveau de l’autorité cantonale et des membres de la commission cantonale de l’expérimentation animale.
+<sup>3</sup> Les cantons veillent à la sécurité de l’information au niveau de l’autorité cantonale et des membres de la commission cantonale de l’expérimentation animale.
 
-[^20-1]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^20-2]: Nouvelle teneur selon l’annexe ch. 28 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^20-1]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^20-2]: Nouvelle teneur selon l’annexe 2 ch. II 29 de l’O du 8 nov. 2023 sur la sécurité de l’information, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
 
 #### Art. 21
 

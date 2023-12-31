@@ -3,11 +3,11 @@ sr: "455.61"
 title: Verordnung vom 1. September 2010 über das Informationssystem im Bereich der Tierversuche (Animex-ch-Verordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/563"
 language: de
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2010-09-01
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/563/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2010-563-20230901-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/563/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/563/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2010-563-20240101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/563/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/563/20230901/de"
 
 (Animex-ch-Verordnung)[^t-1]
 
-vom 1. September 2010 (Stand am 1. September 2023)
+vom 1. September 2010 (Stand am 1. Januar 2024)
 
 [^t-1]: Fassung gemäss Ziff. I der V vom 10. Dez. 2021, in Kraft seit 1. Febr. 2022 ([AS 2021 926](https://fedlex.data.admin.ch/eli/oc/2021/926)).
 
@@ -45,11 +45,12 @@ Sie enthält insbesondere Vorschriften über:
 - b. die Struktur und den Inhalt des Informationssystems Animex-ch;
 - c. die Zugriffsrechte;
 - d. die Bekanntgabe von Daten;
-- e. den Datenschutz und die Informatiksicherheit;
+- e. den Datenschutz und die Informationssicherheit[^1-2];
 - f. die Archivierung von Daten;
 - g. die Gebühren und Kosten.
 
 [^1-1]: Ausdruck gemäss Ziff. I der V vom 10. Dez. 2021, in Kraft seit 1. Febr. 2022 ([AS 2021 926](https://fedlex.data.admin.ch/eli/oc/2021/926)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
+[^1-2]: Ausdruck gemäss Anhang 2 Ziff. II 29 der Informationssicherheitsverordnung vom 8. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 
 #### Art. 2
 
@@ -116,13 +117,13 @@ Die Fachstelle des BLV[^5-1] für das Informationssystem Animex-ch (Fachstelle) 
 
 <sup>1</sup> Die kantonalen Behörden verwalten ihre Daten und Dokumente und sorgen für die Richtigkeit der Personen- und der Betriebsdaten ihres Kantons. Sie verwalten insbesondere die Angaben über die Anwenderinnen und Anwender und übermitteln sie der Fachstelle, soweit sie für die Erteilung der Zugriffsrechte erforderlich sind.
 
-<sup>2</sup> Sie schliessen Nutzungsvereinbarungen mit den Instituten, Laboratorien, Versuchstierhaltungen und den Mitgliedern der kantonalen Tierversuchskommissionen ab. Die Vereinbarungen sehen insbesondere Massnahmen zur Gewährleistung des Datenschutzes und der Informatiksicherheit vor.
+<sup>2</sup> Sie schliessen Nutzungsvereinbarungen mit den Instituten, Laboratorien, Versuchstierhaltungen und den Mitgliedern der kantonalen Tierversuchskommissionen ab. Die Vereinbarungen sehen insbesondere Massnahmen zur Gewährleistung des Datenschutzes und der Informationssicherheit vor.
 
 #### Art. 7
 
 **Institute, Laboratorien und Versuchstierhaltungen**
 
-Die Institute, Laboratorien und Versuchstierhaltungen schliessen Nutzungsvereinbarungen mit ihren Mitarbeiterinnen und Mitarbeitern ab. Die Vereinbarungen sehen insbesondere Massnahmen zur Gewährleistung des Datenschutzes und der Informatiksicherheit vor.
+Die Institute, Laboratorien und Versuchstierhaltungen schliessen Nutzungsvereinbarungen mit ihren Mitarbeiterinnen und Mitarbeitern ab. Die Vereinbarungen sehen insbesondere Massnahmen zur Gewährleistung des Datenschutzes und der Informationssicherheit vor.
 
 #### Art. 8
 
@@ -277,7 +278,7 @@ Die Mitarbeiterinnen und Mitarbeiter der Fachstelle haben zur Erfüllung ihrer g
 
 <sup>1</sup> Institute, Laboratorien und Versuchstierhaltungen, die über eigene Informationssysteme zur Verwaltung ihrer Tierversuche verfügen, können Daten über eine sichere Datenschnittstelle mit dem Informationssystem Animex-ch austauschen.
 
-<sup>2</sup> Das BLV schliesst mit ihnen entsprechende Nutzungsvereinbarungen ab. Diese sehen insbesondere Massnahmen zur Gewährleistung des Datenschutzes und der Informatiksicherheit vor.
+<sup>2</sup> Das BLV schliesst mit ihnen entsprechende Nutzungsvereinbarungen ab. Diese sehen insbesondere Massnahmen zur Gewährleistung des Datenschutzes und der Informationssicherheit vor.
 
 ## 5. Abschnitt: Bekanntgabe von Daten
 
@@ -310,7 +311,7 @@ Das BLV kann Dritten Personendaten aus dem Informationssystem Animex-ch bekannt 
 
 [^16a-1]: Eingefügt durch Ziff. I der V vom 10. Dez. 2021, in Kraft seit 1. Febr. 2022 ([AS 2021 926](https://fedlex.data.admin.ch/eli/oc/2021/926)).
 
-## 6. Abschnitt: Datenschutz, Informatiksicherheit und Archivierung
+## 6. Abschnitt: Datenschutz, Informationssicherheit und Archivierung
 
 #### Art. 17
 
@@ -341,16 +342,16 @@ Das Institut, das Laboratorium, die Versuchstierhaltung oder die Behörde, welch
 
 #### Art. 20
 
-**Informatiksicherheit**
+**Informationssicherheit**
 
-<sup>1</sup> Die Massnahmen zur Gewährleistung der Informatiksicherheit richten sich nach der Cyberrisikenverordnung vom 27. Mai 2020[^20-1].[^20-2]
+<sup>1</sup> Die Massnahmen zur Gewährleistung der Informationssicherheit richten sich nach der Informationssicherheitsverordnung vom 8. November 2023[^20-1].[^20-2]
 
-<sup>2</sup> Das BLV sorgt dafür, dass die Bestimmungen über die Informatiksicherheit Teil der Nutzungsvereinbarungen mit den Kantonen und mit den Instituten, Laboratorien und Versuchstierhaltungen sowie Teil der Vereinbarungen mit den Leistungserbringern sind.
+<sup>2</sup> Das BLV sorgt dafür, dass die Bestimmungen über die Informationssicherheit Teil der Nutzungsvereinbarungen mit den Kantonen und mit den Instituten, Laboratorien und Versuchstierhaltungen sowie Teil der Vereinbarungen mit den Leistungserbringern sind.
 
-<sup>3</sup> Die Kantone sorgen für die Informatiksicherheit in der kantonalen Behörde und bei den Mitgliedern der kantonalen Tierversuchskommission.
+<sup>3</sup> Die Kantone sorgen für die Informationssicherheit in der kantonalen Behörde und bei den Mitgliedern der kantonalen Tierversuchskommission.
 
-[^20-1]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^20-2]: Fassung gemäss Anhang Ziff. 28 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^20-1]: [SR 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^20-2]: Fassung gemäss Anhang 2 Ziff. II 29 der Informationssicherheitsverordnung vom 8. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
 
 #### Art. 21
 

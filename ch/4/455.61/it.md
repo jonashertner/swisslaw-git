@@ -3,11 +3,11 @@ sr: "455.61"
 title: Ordinanza del 1° settembre 2010 concernente il sistema di informazione nell’ambito della sperimentazione animale (Ordinanza animex-ch)
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/563"
 language: it
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2010-09-01
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/563/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2010-563-20230901-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/563/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/563/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2010-563-20240101-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/563/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/563/20230901/it"
 
 (Ordinanza animex-ch)[^t-1]
 
-del 1° settembre 2010 (Stato 1° settembre 2023)
+del 1° settembre 2010 (Stato 1° gennaio 2024)
 
 [^t-1]: Nuovo testo giusta il n. I dell’O del 10 dic. 2021, in vigore dal 1° feb. 2022 ([RU 2021 926](https://fedlex.data.admin.ch/eli/oc/2021/926)).
 
@@ -45,11 +45,12 @@ Essa comprende in particolare disposizioni riguardanti:
 - b. la struttura e il contenuto del sistema d’informazione animex-ch;
 - c. i diritti di accesso;
 - d. la comunicazione dei dati;
-- e. la protezione dei dati e la sicurezza informatica;
+- e. la protezione dei dati e la sicurezza delle informazioni[^1-2];
 - f. l’archiviazione dei dati;
 - g. le tasse e i costi.
 
 [^1-1]: Nuova espr. giusta il n. I dell’O del 10 dic. 2021, in vigore dal 1° feb. 2022 ([RU 2021 926](https://fedlex.data.admin.ch/eli/oc/2021/926)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^1-2]: Nuova espressione giusta l’all. 2 n. II 29 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 #### Art. 2
 
@@ -115,13 +116,13 @@ Al servizio specializzato dell’USAV addetto al sistema d’informazione animex
 
 <sup>1</sup> Le autorità cantonali gestiscono i propri dati e documenti e provvedono affinché i dati inerenti alle persone e alle aziende del loro Cantone siano esatti. Nello specifico gestiscono i dati relativi agli utenti e li trasmettono al servizio specializzato nella misura in cui siano necessari per la concessione dei diritti di accesso.
 
-<sup>2</sup> Esse concludono accordi di utilizzazione con istituti, laboratori, centri di detenzione di animali da laboratorio e con i membri delle commissioni cantonali per gli esperimenti sugli animali. Gli accordi prevedono in particolare misure volte a garantire la protezione dei dati e la sicurezza informatica.
+<sup>2</sup> Esse concludono accordi di utilizzazione con istituti, laboratori, centri di detenzione di animali da laboratorio e con i membri delle commissioni cantonali per gli esperimenti sugli animali. Gli accordi prevedono in particolare misure volte a garantire la protezione dei dati e la sicurezza delle informazioni.
 
 #### Art. 7
 
 **Istituti, laboratori e centri di detenzione di animali da laboratorio**
 
-Gli istituti, i laboratori e i centri di detenzione di animali da laboratorio concludono accordi di utilizzazione con i loro collaboratori. Gli accordi prevedono in particolare misure volte a garantire la protezione dei dati e la sicurezza informatica.
+Gli istituti, i laboratori e i centri di detenzione di animali da laboratorio concludono accordi di utilizzazione con i loro collaboratori. Gli accordi prevedono in particolare misure volte a garantire la protezione dei dati e la sicurezza delle informazioni.
 
 #### Art. 8
 
@@ -276,7 +277,7 @@ Per l’adempimento dei loro compiti legali, i collaboratori del servizio specia
 
 <sup>1</sup> Gli istituti, i laboratori e i centri di detenzione di animali da laboratorio che dispongono di sistemi d’informazione propri per la gestione dei loro esperimenti sugli animali possono scambiare dati con il sistema d’informazione animex-ch mediante un’interfaccia sicura.
 
-<sup>2</sup> L’USAV conclude con essi accordi di utilizzazione sullo scambio di dati. In questi ultimi sono in particolare previste misure volte a garantire la protezione dei dati e la sicurezza informatica.
+<sup>2</sup> L’USAV conclude con essi accordi di utilizzazione sullo scambio di dati. In questi ultimi sono in particolare previste misure volte a garantire la protezione dei dati e la sicurezza delle informazioni.
 
 ## Sezione 5: Comunicazione di dati
 
@@ -309,7 +310,7 @@ L’USAV può comunicare a terzi i dati personali contenuti nel sistema d’info
 
 [^16a-1]: Introdotto dal n. I dell’O del 10 dic. 2021, in vigore dal 1° feb. 2022 ([RU 2021 926](https://fedlex.data.admin.ch/eli/oc/2021/926)).
 
-## Sezione 6: Protezione dei dati, sicurezza informatica e archiviazione
+## Sezione 6: Protezione dei dati, sicurezza delle informazioni e archiviazione
 
 #### Art. 17
 
@@ -340,16 +341,16 @@ L’istituto, il laboratorio, il centro di detenzione di animali da laboratorio 
 
 #### Art. 20
 
-**Sicurezza informatica**
+**Sicurezza delle informazioni**
 
-<sup>1</sup> Le misure per garantire la sicurezza informatica si basano sull’ordinanza del 27 maggio 2020[^20-1] sui ciber-rischi.[^20-2]
+<sup>1</sup> Le misure per garantire la sicurezza delle informazioni si basano sull’ordinanza dell’8 novembre 2023[^20-1] sulla sicurezza delle informazioni.[^20-2]
 
-<sup>2</sup> L’USAV provvede affinché le disposizioni concernenti la sicurezza informatica siano integrate negli accordi di utilizzazione con i Cantoni e con gli istituti, i laboratori e i centri di detenzione degli animali da laboratorio nonché negli accordi con i fornitori di prestazioni.
+<sup>2</sup> L’USAV provvede affinché le disposizioni concernenti la sicurezza delle informazioni siano integrate negli accordi di utilizzazione con i Cantoni e con gli istituti, i laboratori e i centri di detenzione degli animali da laboratorio nonché negli accordi con i fornitori di prestazioni.
 
-<sup>3</sup> I Cantoni provvedono alla sicurezza informatica per quanto concerne l’autorità cantonale e i membri della commissione cantonale per gli esperimenti sugli animali.
+<sup>3</sup> I Cantoni provvedono alla sicurezza delle informazioni per quanto concerne l’autorità cantonale e i membri della commissione cantonale per gli esperimenti sugli animali.
 
-[^20-1]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^20-2]: Nuovo testo giusta l’all. n. 28 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^20-1]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^20-2]: Nuovo testo giusta l’all. 2 n. II 29 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
 
 #### Art. 21
 
