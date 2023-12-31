@@ -4,11 +4,11 @@ title: "Asylverordnung 3 vom 11. August 1999 über die Bearbeitung von Personend
 short: AsylV 3
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/361"
 language: de
-version: 2023-09-01
+version: 2024-01-01
 adopted: 1999-08-11
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/361/20230901/de/xml/fedlex-data-admin-ch-eli-cc-1999-361-20230901-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/361/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/361/20240101/de/xml/fedlex-data-admin-ch-eli-cc-1999-361-20240101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/361/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/361/20230901/de"
 
 (Asylverordnung 3, AsylV 3)
 
-vom 11. August 1999 (Stand am 1. September 2023)
+vom 11. August 1999 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -51,14 +51,14 @@ Das Staatssekretariat für Migration (SEM)[^1a-3] betreibt zur Erfüllung seiner
 - b.[^1a-5] Datenbank Kompass;
 - c. Geschäftsverwaltung Darlehen;
 - d.[^1a-6] …
-- e. Datenbank Finanzierung Asyl (Finasi);
+- e.[^1a-7] Datenbank Finanzierung, Statistik und Controlling (FiSCo);
 - f. Datenbank Medizinalfälle;
 - g. Datenbank individuelle Rückkehrhilfe;
-- h.[^1a-7] …
-- i. Informationssystem der Zentren des Bundes[^1a-8] und der Unterkünfte an den Flughäfen (MIDES);
-- j.[^1a-9] Informationssystem AURORA nach Artikel 12 der Verordnung vom 11. August 1999[^1a-10] über den Vollzug der Weg- und Ausweisung sowie der Landesverweisung von ausländischen Personen;
-- k.[^1a-11] Datenbank Dolmetscher Pool (DOPO);
-- l.[^1a-12] das Fristenmanagementtool (FM-Tool)*.*
+- h.[^1a-8] …
+- i. Informationssystem der Zentren des Bundes[^1a-9] und der Unterkünfte an den Flughäfen (MIDES);
+- j.[^1a-10] Informationssystem AURORA nach Artikel 12 der Verordnung vom 11. August 1999[^1a-11] über den Vollzug der Weg- und Ausweisung sowie der Landesverweisung von ausländischen Personen;
+- k.[^1a-12] Datenbank Dolmetscher Pool (DOPO);
+- l.[^1a-13] das Fristenmanagementtool (FM-Tool)*.*
 
 [^1a-1]: Eingefügt durch Ziff. I 5 der V vom 22. Okt. 2008 (Schengen und Dublin) ([AS 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)). Fassung gemäss Ziff. I der V vom 24. Nov. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 5775](https://fedlex.data.admin.ch/eli/oc/2010/819)).
 [^1a-2]: BG vom 20. Juni 2003 über das Informationssystem für den Ausländer- und den Asylbereich ([SR 142.51](https://fedlex.data.admin.ch/eli/cc/2006/301))
@@ -66,12 +66,13 @@ Das Staatssekretariat für Migration (SEM)[^1a-3] betreibt zur Erfüllung seiner
 [^1a-4]: [SR 142.513](https://fedlex.data.admin.ch/eli/cc/2006/303)
 [^1a-5]: Fassung gemäss Ziff. I der V vom 22. März 2017, in Kraft seit 15. April 2017 ([AS 2017 2175](https://fedlex.data.admin.ch/eli/oc/2017/200)).
 [^1a-6]: Aufgehoben durch Ziff. I der V vom 22. März 2017, mit Wirkung seit 15. April 2017 ([AS 2017 2175](https://fedlex.data.admin.ch/eli/oc/2017/200)).
-[^1a-7]: Aufgehoben durch Ziff. I der V vom 18. Sept. 2015, mit Wirkung seit 15. Okt. 2015 ([AS 2015 3729](https://fedlex.data.admin.ch/eli/oc/2015/627)).
-[^1a-8]: Ausdruck gemäss Ziff. I der V vom 8. Juni 2018, in Kraft seit 1. März 2019 ([AS 2018 2889](https://fedlex.data.admin.ch/eli/oc/2018/441)). Die Änd. wurde im ganzen Text berücksichtigt.
-[^1a-9]: Fassung gemäss Ziff. I 6 der V vom 1. Febr. 2017 über die Einführung der Landesverweisung, in Kraft seit 1. März 2017 ([AS 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
-[^1a-10]: [SR 142.281](https://fedlex.data.admin.ch/eli/cc/1999/357)
-[^1a-11]: Eingefügt durch Ziff. I der V vom 9. Mai 2012, in Kraft seit 13. Juni 2012 ([AS 2012 2903](https://fedlex.data.admin.ch/eli/oc/2012/347)).
-[^1a-12]: Eingefügt durch Ziff. I der V vom 1. Mai 2019, in Kraft seit 1. Juni 2019 ([AS 2019 1437](https://fedlex.data.admin.ch/eli/oc/2019/281)).
+[^1a-7]: Fassung gemäss Ziff. I der V vom 15. Sept. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 550](https://fedlex.data.admin.ch/eli/oc/2023/550)).
+[^1a-8]: Aufgehoben durch Ziff. I der V vom 18. Sept. 2015, mit Wirkung seit 15. Okt. 2015 ([AS 2015 3729](https://fedlex.data.admin.ch/eli/oc/2015/627)).
+[^1a-9]: Ausdruck gemäss Ziff. I der V vom 8. Juni 2018, in Kraft seit 1. März 2019 ([AS 2018 2889](https://fedlex.data.admin.ch/eli/oc/2018/441)). Die Änd. wurde im ganzen Text berücksichtigt.
+[^1a-10]: Fassung gemäss Ziff. I 6 der V vom 1. Febr. 2017 über die Einführung der Landesverweisung, in Kraft seit 1. März 2017 ([AS 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
+[^1a-11]: [SR 142.281](https://fedlex.data.admin.ch/eli/cc/1999/357)
+[^1a-12]: Eingefügt durch Ziff. I der V vom 9. Mai 2012, in Kraft seit 13. Juni 2012 ([AS 2012 2903](https://fedlex.data.admin.ch/eli/oc/2012/347)).
+[^1a-13]: Eingefügt durch Ziff. I der V vom 1. Mai 2019, in Kraft seit 1. Juni 2019 ([AS 2019 1437](https://fedlex.data.admin.ch/eli/oc/2019/281)).
 
 #### Art. 1b
 
@@ -115,20 +116,24 @@ Das SEM kann die in Kompass gespeicherten Informationen folgenden Behörden mitt
 
 #### Art. 1e
 
-**Datenbank Finasi**[^1e-1]
+**Datenbank FiSCo**[^1e-1]
 
-<sup>1</sup> In der Datenbank Finasi werden die Daten erfasst, die zur Auszahlung und für statistische Auswertungen hinsichtlich der Pauschalen nach den Artikeln 20, 2224*a*, 26 29 und 31 der Asylverordnung 2 vom 11. August 1999[^1e-2] über Finanzierungsfragen (AsylV 2) und Artikel 15 der Verordnung vom 15. August 2018[^1e-3] über die Integration von Ausländerinnen und Ausländern (VIntA) benötigt werden.
+<sup>1</sup> In der Datenbank FiSCo werden die Daten erfasst, die zur Auszahlung und für statistische Auswertungen hinsichtlich der Pauschalen nach den Artikeln 20, 22–24*a*, 26–29 und 31 der Asylverordnung 2 vom 11. August 1999[^1e-2] über Finanzierungsfragen (AsylV 2) und Artikel 15 der Verordnung vom 15. August 2018[^1e-3] über die Integration von Ausländerinnen und Ausländern (VIntA) benötigt werden.[^1e-4]
 
-<sup>2</sup> Sie enthält folgende Personendaten von Asylsuchenden, vorläufig Aufgenommenen, Flüchtlingen und Staatenlosen: Name, Vorname, Geburtsdatum, Geschlecht, Staatsangehörigkeit, Datum der letzten Einreise in die Schweiz, Datum des letzten Asylgesuchs, Datum der Rechtskraft der Verfügungen oder Entscheide im Asylverfahren, Datum und Grund des Weggangs, Datum der letzten Adresse im Kanton, Erwerbstätigkeit, Personennummer, AHV-Nummer[^1e-4], Finasi-Code, Kanton, Postleitzahl und BFS-Nummer ihrer Wohnsitzgemeinde.
+<sup>2</sup> Die Datenbank FiSCo weist eine Schnittstelle zum System ZEMIS auf, um die folgenden Personendaten von Asylsuchenden, vorläufig Aufgenommenen, Schutzbedürftigen, Flüchtlingen und Staatenlosen einzusehen: Name, Vorname, Geburtsdatum, Geschlecht, Staatsangehörigkeit, Wohnadresse (von – bis), ZEMIS-Nummer, N-Nummer, Einreisedatum, Stand des Verfahrens (mit Datum), Geschäftsart (mit Datum, Erledigungsart (mit Datum), Rechtskraft der Verfügungen oder Entscheide im Asylverfahren (mit Datum), Wegweisung mit Ausreisefrist, Zulassungscode, Aufenthaltszweck, Ausweis-Kategorie (mit Datum), Datum und Grund des Weggangs, Erwerb Asyl und Erwerb AIG (von – bis), AHV-Nummer, Zuweisung und Verteilung (mit Datum).[^1e-5]
 
 <sup>3</sup> Zugriff auf die Daten haben die Mitarbeiterinnen und Mitarbeiter des SEM, die mit der Auszahlung der Pauschalen und mit entsprechenden statistischen Auswertungen beauftragt sind.
 
 <sup>4</sup> Einen auf die letzten vier Kalenderjahre beschränkten Lesezugriff auf die für die Subventionierung relevanten Daten ihres Kantons haben die Mitarbeiterinnen und Mitarbeiter der Kantone, die mit der Bearbeitung dieser Subventionierung beauftragt sind.
 
+<sup>5</sup> Alle Personen, die Schreib- und Leserechte in FiSCo haben, können in FiSCo zu einzelnen Personen zusätzliche Bemerkungen zur Finanzierung eines Einzelfalls erfassen.[^1e-6]
+
 [^1e-1]: Eingefügt durch Ziff. I 5 der V vom 22. Okt. 2008 (Schengen und Dublin) ([AS 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)). Fassung gemäss Ziff. I der V vom 1. Mai 2019, in Kraft seit 1. Juni 2019 ([AS 2019 1437](https://fedlex.data.admin.ch/eli/oc/2019/281)).
 [^1e-2]: [SR 142.312](https://fedlex.data.admin.ch/eli/cc/1999/360)
 [^1e-3]: [SR 142.205](https://fedlex.data.admin.ch/eli/cc/2018/511)
-[^1e-4]: Ausdruck gemäss Anhang Ziff. II 1 der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
+[^1e-4]: Fassung gemäss Ziff. I der V vom 15. Sept. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 550](https://fedlex.data.admin.ch/eli/oc/2023/550)).
+[^1e-5]: Fassung gemäss Ziff. I der V vom 15. Sept. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 550](https://fedlex.data.admin.ch/eli/oc/2023/550)).
+[^1e-6]: Eingefügt durch Ziff. I der V vom 15. Sept. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 550](https://fedlex.data.admin.ch/eli/oc/2023/550)).
 
 #### Art. 1f
 
@@ -444,14 +449,14 @@ Die Haftung für Schäden im Zusammenhang mit dem Betrieb des Eurodac richtet si
 Die Datensicherheit richtet sich nach:
 
 - a.[^12-2] der DSV[^12-3];
-- b.[^12-4] der Cyberrisikenverordnung vom 27. Mai 2020[^12-5];
+- b.[^12-4] der Informationssicherheitsverordnung vom 8. November 2023[^12-5];
 - c.[^12-6] …
 
 [^12-1]: Fassung gemäss Ziff. I 4 der V vom 12. Juni 2015 über die Anpassung von Verordnungen aufgrund von Neuerungen bezüglich des Dublin/Eurodac-Besitzstands, in Kraft seit 20. Juli 2015 ([AS 2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)).
 [^12-2]: Fassung gemäss Anhang 2 Ziff. II 6 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^12-3]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^12-4]: Fassung gemäss Anhang Ziff. 3 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
-[^12-5]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^12-4]: Fassung gemäss Anhang 2 Ziff. II 4 der Informationssicherheitsverordnung vom 8. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^12-5]: [SR 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
 [^12-6]: Aufgehoben durch Anhang Ziff. 3 der V vom 24. Febr. 2021, mit Wirkung seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 13

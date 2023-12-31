@@ -4,11 +4,11 @@ title: "Ordonnance 3 du 11 août 1999 sur l'asile relative au traitement de donn
 short: OA 3
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/361"
 language: fr
-version: 2023-09-01
+version: 2024-01-01
 adopted: 1999-08-11
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/361/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-1999-361-20230901-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/361/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/361/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-1999-361-20240101-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/361/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/361/20230901/fr"
 
 (Ordonnance 3 sur l’asile, OA 3)
 
-du 11 août 1999 (État le 1<sup>er</sup> septembre 2023)
+du 11 août 1999 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -41,7 +41,7 @@ arrête:
 
 **Systèmes d’information**[^1a-1]
 
-### (art. 96 et 99*a à* 102 LAsi; art. 2 LDEA)
+### (art. 96 et 99*a* à 102 LAsi; art. 2 LDEA)
 
 [^1a-2]
 
@@ -51,14 +51,14 @@ Le Secrétariat d’État aux migrations (SEM)[^1a-3] exploite les systèmes d�
 - b.[^1a-5] la banque de données Kompass;
 - c. l’administration des prêts;
 - d.[^1a-6] …
-- e. la banque de données sur le financement de l’asile (Finasi);
+- e.[^1a-7] la banque de données sur le financement, la statistique et le contrôle de gestion (FiSCo);
 - f. la banque de données sur les cas médicaux;
 - g. la banque de données «Aide au retour individuelle»;
-- h.[^1a-7] …
-- i. le système d’information destiné aux centres de la Confédération[^1a-8] et aux logements dans les aéroports (MIDES);
-- j. le système d’information AURORA visé à l’art. 12 de l’ordonnance du 11 août 1999 sur l’exécution du renvoi et de l’expulsion d’étrangers[^1a-9];
-- k.[^1a-10] la banque de données sur le pool d’interprètes (DOPO);
-- l.[^1a-11] l’outil de gestion des délais (FM-Tool)*.*
+- h.[^1a-8] …
+- i. le système d’information destiné aux centres de la Confédération[^1a-9] et aux logements dans les aéroports (MIDES);
+- j. le système d’information AURORA visé à l’art. 12 de l’ordonnance du 11 août 1999 sur l’exécution du renvoi et de l’expulsion d’étrangers[^1a-10];
+- k.[^1a-11] la banque de données sur le pool d’interprètes (DOPO);
+- l.[^1a-12] l’outil de gestion des délais (FM-Tool)*.*
 
 [^1a-1]: Introduit par le ch. I 5 de l’O du 22 oct. 2008 (Schengen et Dublin; [RO 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)). Nouvelle teneur selon le ch. I de l’O du 24 nov. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5775](https://fedlex.data.admin.ch/eli/oc/2010/819)).
 [^1a-2]: LF du 20 juin 2003 sur le système d’information commun aux domaines des étrangers et de l’asile ([RS 142.51](https://fedlex.data.admin.ch/eli/cc/2006/301)).
@@ -66,11 +66,12 @@ Le Secrétariat d’État aux migrations (SEM)[^1a-3] exploite les systèmes d�
 [^1a-4]: [RS 142.513](https://fedlex.data.admin.ch/eli/cc/2006/303)
 [^1a-5]: Nouvelle teneur selon le ch. I de l’O du 22 mars 2017, en vigueur depuis le 15 avr. 2017 ([RO 2017 2175](https://fedlex.data.admin.ch/eli/oc/2017/200)).
 [^1a-6]: Abrogée par le ch. I de l’O du 22 mars 2017, avec effet au 15 avr. 2017 ([RO 2017 2175](https://fedlex.data.admin.ch/eli/oc/2017/200)).
-[^1a-7]: Abrogée par le ch. I de l’O du 18 sept. 2015, avec effet au 15 oct. 2015 ([RO 2015 3729](https://fedlex.data.admin.ch/eli/oc/2015/627)).
-[^1a-8]: Nouvelle expression selon le ch. I de l’O du 8 juin 2018, en vigueur depuis le 1<sup>er</sup> mars 2019 ([RO 2018 2889](https://fedlex.data.admin.ch/eli/oc/2018/441)).
-[^1a-9]: [RS 142.281](https://fedlex.data.admin.ch/eli/cc/1999/357)
-[^1a-10]: Introduite par le ch. I de l’O du 9 mai 2012, en vigueur depuis le 13 juin 2012 ([RO 2012 2903](https://fedlex.data.admin.ch/eli/oc/2012/347)).
-[^1a-11]: Introduite par le ch. I de l’O du 1<sup>er</sup> mai 2019, en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1437](https://fedlex.data.admin.ch/eli/oc/2019/281)).
+[^1a-7]: Nouvelle teneur selon le ch. I de l’O du 15 sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 550](https://fedlex.data.admin.ch/eli/oc/2023/550)).
+[^1a-8]: Abrogée par le ch. I de l’O du 18 sept. 2015, avec effet au 15 oct. 2015 ([RO 2015 3729](https://fedlex.data.admin.ch/eli/oc/2015/627)).
+[^1a-9]: Nouvelle expression selon le ch. I de l’O du 8 juin 2018, en vigueur depuis le 1<sup>er</sup> mars 2019 ([RO 2018 2889](https://fedlex.data.admin.ch/eli/oc/2018/441)).
+[^1a-10]: [RS 142.281](https://fedlex.data.admin.ch/eli/cc/1999/357)
+[^1a-11]: Introduite par le ch. I de l’O du 9 mai 2012, en vigueur depuis le 13 juin 2012 ([RO 2012 2903](https://fedlex.data.admin.ch/eli/oc/2012/347)).
+[^1a-12]: Introduite par le ch. I de l’O du 1<sup>er</sup> mai 2019, en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1437](https://fedlex.data.admin.ch/eli/oc/2019/281)).
 
 #### Art. 1b
 
@@ -114,20 +115,24 @@ Le SEM peut rendre accessibles, par une procédure d’appel, les informations c
 
 #### Art. 1e
 
-**Banque de données Finasi**[^1e-1]
+**Banque de données FiSCo**[^1e-1]
 
-<sup>1</sup> La banque de données Finasi contient les données nécessaires au versement des forfaits conformément aux art. 20, 22 à 24*a*, 26 à 29 et 31 de l’ordonnance 2 du 11 août 1999 sur l’asile relative au financement (OA 2)[^1e-2] et à l’art. 15 de l’ordonnance du 15 août 2018 sur l’intégration des étrangers (OIE)[^1e-3] ainsi qu’aux analyses statistiques portant sur ces forfaits.
+<sup>1</sup> La banque de données FiSCo contient les données nécessaires au versement des forfaits visés aux art. 20, 22 à 24*a*, 26 à 29 et 31de l’ordonnance 2 du 11 août 1999 sur l’asile relative au financement (OA 2)[^1e-2] et à l’art. 15 de l’ordonnance du 15 août 2018 sur l’intégration des étrangers (OIE)[^1e-3] ainsi qu’aux analyses statistiques portant sur ces forfaits.[^1e-4]
 
-<sup>2</sup> Y figurent les données personnelles de requérants d’asile, de personnes admises à titre provisoire, de réfugiés et d’apatrides, à savoir leurs nom, prénom, date de naissance, sexe, nationalité et activité lucrative, la date de leur dernière entrée en Suisse, la date de dépôt de leur dernière demande d’asile, la date d’entrée en force des décisions rendues dans la procédure d’asile, la date et le motif du départ, la date de la dernière adresse dans le canton, ainsi que leur activité lucrative, numéro personnel et numéro AVS[^1e-4], le code Finasi, le canton, le numéro postal et le numéro OFS de leur commune de domicile.
+<sup>2</sup> Elle dispose d’une interface avec le système SYMIC pour consulter les données personnelles suivantes de requérants d’asile, de personnes admises à titre provisoire, de personnes à protéger, de réfugiés et d’apatrides: nom, prénom, date de naissance, sexe, nationalité, adresse de domicile (avec dates de début et de fin), numéro SYMIC, numéro N, date d’entrée en Suisse, état de la procédure (avec date), type de l’affaire (avec date), manière de régler l’affaire (avec date), entrée en force des décisions rendues dans la procédure d’asile (avec date), renvoi et délai de départ, code d’admission, but du séjour, catégorie du permis (avec date), date et raison du départ, emploi asile et emploi LEI (avec dates de début et de fin), numéro AVS, attribution et répartition (avec date).[^1e-5]
 
 <sup>3</sup> Les collaborateurs du SEM chargés du versement des forfaits ainsi que des analyses statistiques s’y rapportant ont accès aux données.
 
 <sup>4</sup> Les collaborateurs des cantons qui sont chargés de la mise en œuvre de ce subventionnement disposent d’un accès en lecture aux données relatives à leur canton enregistrées durant les quatre dernières années civiles.
 
+<sup>5</sup> Toutes les personnes qui ont des droits d’écriture et de lecture dans FiSCo peuvent y saisir des remarques supplémentaires concernant le financement d’un cas individuel.[^1e-6]
+
 [^1e-1]: Introduit par le ch. I 5 de l’O du 22 oct. 2008 (Schengen et Dublin) ([RO 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)). Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mai 2019, en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1437](https://fedlex.data.admin.ch/eli/oc/2019/281)).
 [^1e-2]: [RS 142.312](https://fedlex.data.admin.ch/eli/cc/1999/360)
 [^1e-3]: [RS 142.205](https://fedlex.data.admin.ch/eli/cc/2018/511)
-[^1e-4]: Nouvelle expression selon l’annexe ch. II 1 de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
+[^1e-4]: Nouvelle teneur selon le ch. I de l’O du 15 sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 550](https://fedlex.data.admin.ch/eli/oc/2023/550)).
+[^1e-5]: Nouvelle teneur selon le ch. I de l’O du 15 sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 550](https://fedlex.data.admin.ch/eli/oc/2023/550)).
+[^1e-6]: Introduit par le ch. I de l’O du 15 sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 550](https://fedlex.data.admin.ch/eli/oc/2023/550)).
 
 #### Art. 1f
 
@@ -444,14 +449,14 @@ La responsabilité en cas de dommages liés à l’exploitation d’Eurodac est 
 La sécurité des données est régie par:
 
 - a.[^12-2] l’OPDo[^12-3];
-- b.[^12-4] l’ordonnance du 27 mai 2020 sur les cyberrisques[^12-5];
+- b.[^12-4] l’ordonnance du 8 novembre 2023 sur la sécurité de l’information[^12-5];
 - c.[^12-6] …
 
 [^12-1]: Nouvelle teneur selon le ch. I 4 de l’O du 12 juin 2015 portant adaptation d’actes en raison de nouveautés en lien avec l’acquis de Dublin/Eurodac, en vigueur depuis le 20 juil. 2015 ([RO 2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)).
 [^12-2]: Nouvelle teneur selon l’annexe 2 ch. II 6 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^12-3]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^12-4]: Nouvelle teneur selon l’annexe ch. 3 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
-[^12-5]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^12-4]: Nouvelle teneur selon l’annexe 2 ch. II 4 de l’O du 8 nov. 2023 sur la sécurité de l’information, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^12-5]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
 [^12-6]: Abrogée par l’annexe ch. 3 de l’O du 24 fév. 2021, avec effet au 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 13
@@ -540,7 +545,6 @@ Unités organisationnelles:
 - – VII: Domaine Identification
 - – VIII: Domaine Saisie et mise à jour des données
 - – IX: Domaine Analyses linguistiques
-- [tab]
 
 ### Catalogue des données MIDES
 
