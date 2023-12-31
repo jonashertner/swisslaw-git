@@ -4,11 +4,11 @@ number: "415.11"
 title: Universitätsgesetz (UniG)
 short: UniG
 language: de
-version: "2023-01-01"
-nachtrag: "119"
-valid_until: 2024-01-01
+version: "2024-01-01"
+nachtrag: "123"
+valid_until: 2025-07-01
 adopted: 1998-03-15
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-415_11-1998_03_15-1998_10_01-119.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-415_11-1998_03_15-1998_10_01-123.html"
 text: pdf
 ---
 
@@ -73,7 +73,7 @@ Die Universität trifft Vorkehrungen zur Sicherung der Qualität von Forschung, 
 
 **1**
 
-- 1\. 1. 23 - 119 § 5 a.<sup>34</sup>
+- 1\. 1. 24 - 123 § 5 a.<sup>34</sup>
 
 **Zusammenarbeit im Gesundheitsbereich**
 
@@ -169,7 +169,7 @@ Die Universität trifft Vorkehrungen zur Sicherung der Qualität von Forschung, 
 
 **3**
 
-- 1\. 1. 23 - 119 § 8 a.<sup>32</sup> <sup>1</sup> Die Professorenschaft setzt sich zusammen aus den ordentlichen und ausserordentlichen Professorinnen und Professoren, den Assistenzprofessorinnen und -professoren mit und ohne Anspruch auf Prüfung einer unbefristeten Anstellung (Tenure Track) sowie den Förderungsprofessorinnen und -professoren.
+- 1\. 1. 24 - 123 § 8 a.<sup>32</sup> <sup>1</sup> Die Professorenschaft setzt sich zusammen aus den ordentlichen und ausserordentlichen Professorinnen und Professoren, den Assistenzprofessorinnen und -professoren mit und ohne Anspruch auf Prüfung einer unbefristeten Anstellung (Tenure Track) sowie den Förderungsprofessorinnen und -professoren.
 
 **Professorenschaft**
 
@@ -235,7 +235,7 @@ Die Universität trifft Vorkehrungen zur Sicherung der Qualität von Forschung, 
 
 **5**
 
-- 1\. 1. 23 - 119
+- 1\. 1. 24 - 123
 
 [^12-1]: Aufgehoben durch G vom 24. März 2003 (OS 58, 161; ABl 2002, 1100). In Kraft seit 1. September 2003 (OS 58, 192).
 [^12-2]: Eingefügt durch G vom 24. März 2003 (OS 58, 161; ABl 2002, 1100). In Kraft seit 1. September 2003 (OS 58, 192).
@@ -268,7 +268,7 @@ und -professoren<sup>32</sup>
 
 - c. Entschädigung für Lehrveranstaltungen ausserhalb von Studienprogrammen.
 
-[^hBPrivatdozentinnen-1]: LS 415.24. 1. 1. 23 - 119 19
+[^hBPrivatdozentinnen-1]: LS 415.24. 1. 1. 24 - 123 19
 
 ### C. Externe Lehrpersonen<sup>32</sup>
 
@@ -320,7 +320,7 @@ und -professoren<sup>32</sup>
 
 **7**
 
-- 1\. 1. 23 - 119
+- 1\. 1. 24 - 123
 
 <sup>2</sup> Die Studiengänge sind so auszugestalten, dass die Studierenden ihr Studium grundsätzlich in der Normalstudiendauer abschliessen können.
 
@@ -405,7 +405,7 @@ und -professoren<sup>32</sup>
 
 **9**
 
-- 1\. 1. 23 - 119 § 24.<sup>33</sup> <sup>1</sup> Die Fakultäten und Institute sind verantwortlich für Forschung, Lehre und Dienstleistungen.
+- 1\. 1. 24 - 123 § 24.<sup>33</sup> <sup>1</sup> Die Fakultäten und Institute sind verantwortlich für Forschung, Lehre und Dienstleistungen.
 
 **Aufgaben der Fakultäten und Institute**
 
@@ -498,7 +498,7 @@ Persönlichkeiten aus Wissenschaft, Kultur, Wirtschaft und Politik.
 
 **11**
 
-- 1\. 1. 23 - 119
+- 1\. 1. 24 - 123
 
 <sup>5</sup> Er ist in eigener Kompetenz zuständig für:[^28-2], <sup>33</sup> 1. Erlass der Universitätsordnung und weiterer Verordnungen im gesamtuniversitären Bereich, insbesondere der Rahmenverordnungen über die Habilitation[^28-3] und die Weiterbildung sowie der Rahmeninstitutsverordnung,
 
@@ -562,7 +562,7 @@ Persönlichkeiten aus Wissenschaft, Kultur, Wirtschaft und Politik.
 
 - 3\. Führung des Finanzhaushalts, 4.<sup>33</sup> Erlass der Institutsordnungen,
 
-- 5\. Führung der Berufungsverhandlungen und Antragstellung auf Ernennung und Beförderung von Professorinnen und Professoren zuhanden des Universitätsrates, 6.<sup>33</sup> Ernennung und Entlassung von Assistenzprofessorinnen und -professoren ohne Tenure Track sowie Verlängerung dieser Assistenzprofessuren, 7.[^31-2] Erstellung des Rechenschaftsberichts zuhanden des Universitätsrates.
+- 5\. Führung der Berufungsverhandlungen und Antragstellung auf Ernennung und Beförderung von Professorinnen und Professoren zuhanden des Universitätsrates, 6.<sup>33</sup> Ernennung und Entlassung von Assistenzprofessorinnen und -professoren ohne Tenure Track sowie Verlängerung dieser Assistenzprofessuren, 7.[^31-2] Erstellung des Rechenschaftsberichts zuhanden des Universitätsrates, 8.<sup>38</sup> Sicherstellung der Zusammenarbeit mit den Universitätsspitälern im Bereich der Medizin.
 
 <sup>4</sup> Sie ist für alle universitären Angelegenheiten zuständig, die keinem anderen Organ übertragen sind.
 
@@ -580,11 +580,11 @@ Persönlichkeiten aus Wissenschaft, Kultur, Wirtschaft und Politik.
 
 <sup>2</sup> An den Sitzungen der Erweiterten Universitätsleitung nehmen die Generalsekretärin oder der Generalsekretär der Universität und die Präsidentin oder der Präsident der Gleichstellungskommission mit beratender Stimme teil. Die Erweiterte Universitätsleitung kann weitere Personen als ständige Teilnehmerinnen und Teilnehmer mit beratender Stimme zu ihren Sitzungen einladen.<sup>33</sup>
 
-<sup>3</sup> Die Erweiterte Universitätsleitung ist das oberste Organ im akademischen Bereich.
-
 **13**
 
-- 1\. 1. 23 - 119
+- 1\. 1. 24 - 123
+
+<sup>3</sup> Die Erweiterte Universitätsleitung ist das oberste Organ im akademischen Bereich.
 
 <sup>4</sup> Sie hat insbesondere folgende Aufgaben:<sup>33</sup> 1. Verabschiedung des Leitbilds der Universität unter Vorbehalt der Genehmigung durch den Universitätsrat,
 
@@ -668,7 +668,7 @@ Persönlichkeiten aus Wissenschaft, Kultur, Wirtschaft und Politik.
 
 **15**
 
-- 1\. 1. 23 - 119
+- 1\. 1. 24 - 123
 
 ### 6. Teil: Planung und Finanzen
 
@@ -752,7 +752,7 @@ Persönlichkeiten aus Wissenschaft, Kultur, Wirtschaft und Politik.
 
 **17**
 
-- 1\. 1. 23 - 119 § 43. <sup>1</sup> Die Universitätsleitung setzt angemessene Gebühren für die Benutzung von Einrichtungen und Räumlichkeiten der Universität fest.
+- 1\. 1. 24 - 123 § 43. <sup>1</sup> Die Universitätsleitung setzt angemessene Gebühren für die Benutzung von Einrichtungen und Räumlichkeiten der Universität fest.
 
 **Benutzungsgebühren**
 
@@ -864,9 +864,11 @@ Bis zum Inkrafttreten des Gesetzes über Controlling und Rechnungslegung vom 9. 
 
 <sup>37</sup> Fassung gemäss G vom 13. Juni 2022 (OS 77, 547; ABl 2021-09-24). In Kraft seit 1. Januar 2023.
 
+<sup>38</sup> Eingefügt durch G über das Universitätsspital Zürich vom 3. April 2023 (OS 78, 491; ABl 2022-06-03). In Kraft seit 1. Januar 2024.
+
 **21**
 
-- 1\. 1. 23 - 119
+- 1\. 1. 24 - 123
 
 ## Weitere Fussnoten
 
