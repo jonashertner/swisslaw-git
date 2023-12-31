@@ -4,11 +4,11 @@ title: "Lescha federala dals 24 da mars 2006 davart ils supplements da famiglia 
 short: LSFam
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/51"
 language: rm
-version: 2022-01-01
+version: 2024-01-01
 adopted: 2006-03-24
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/51/20220101/rm/xml/fedlex-data-admin-ch-eli-cc-2008-51-20220101-rm-xml-11.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/51/20220101/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/51/20240101/rm/xml/fedlex-data-admin-ch-eli-cc-2008-51-20240101-rm-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/51/20240101/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (Lescha davart ils supplements da famiglia, LSFam)
 
-dals 24 da mars 2006 (versiun dal 1. da schaner 2022)
+dals 24 da mars 2006 (versiun dal 1. da schaner 2024)
 
 [^t-1]: Versiun tenor la cifra I da la LF dals 27 da sett. 2019, en vigur dapi il 1. d’avust 2020 ([AS 2020 2775](https://fedlex.data.admin.ch/eli/oc/2020/502); [BBl 2019 1019](https://fedlex.data.admin.ch/eli/fga/2019/171)).
 
@@ -40,12 +40,13 @@ concluda:
 
 #### Art. 1
 
-<sup>1</sup> Las disposiziuns da la Lescha federala dals 6 d’october 2000[^1-1] davart la part generala dal dretg d’assicuranza sociala (LPGA) èn applitgablas per ils supplements da famiglia, uschenavant che questa lescha na prevesa betg expressivamain ina divergenza da la LPGA. L’artitgel 76 alinea 2 e l’artitgel 78 LPGA n’èn betg applitgabels.
+<sup>1</sup> Las disposiziuns da la Lescha federala dals 6 d’october 2000[^1-1] davart la part generala dal dretg d’assicuranza sociala (LPGA) èn applitgablas per ils supplements da famiglia, uschenavant che questa lescha na prevesa betg expressivamain ina divergenza da la LPGA. Ils artitgels 76 alineas 1<sup>bis</sup> e 2 e 78 LPGA n’èn betg applitgabels.[^1-2]
 
-<sup>2</sup> Las disposiziuns da la LPGA n’èn betg applitgablas per ils agids finanzials ad organisaziuns da famiglias.[^1-2]
+<sup>2</sup> Las disposiziuns da la LPGA n’èn betg applitgablas per ils agids finanzials ad organisaziuns da famiglias.[^1-3]
 
 [^1-1]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^1-2]: Integrà tras la cifra I da la LF dals 27 da sett. 2019, en vigur dapi il 1. d’avust 2020 ([AS 2020 2775](https://fedlex.data.admin.ch/eli/oc/2020/502); [BBl 2019 1019](https://fedlex.data.admin.ch/eli/fga/2019/171)).
+[^1-2]: Versiun da la segunda frasa tenor la cifra 8 da la LF dals 17 da zer. 2022 (modernisaziun da la surveglianza), en vigur dapi il 1. da schan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^1-3]: Integrà tras la cifra I da la LF dals 27 da sett. 2019, en vigur dapi il 1. d’avust 2020 ([AS 2020 2775](https://fedlex.data.admin.ch/eli/oc/2020/502); [BBl 2019 1019](https://fedlex.data.admin.ch/eli/fga/2019/171)).
 
 ## Chapitel 2 Disposiziuns generalas
 
@@ -507,22 +508,25 @@ Per persunas, per las qualas valan u valevan las prescripziuns giuridicas da la 
 
 Las disposiziuns da la legislaziun davart la AVS cun lur eventualas divergenzas da la LPGA[^25-1] valan confurm al senn per:
 
-- a. elavurar datas da persunas (art. 49*a* LAVS[^25-2]);
+- a.[^25-2] ils sistems d’infurmaziun (art. 49*a* al. 1 e 2, 49*b* e 72*a* al. 2 lit. b LAVS[^25-3]);
+- a<sup>bis</sup>.[^25-4] elavurar datas persunalas (art. 49*f* LAVS);
 - b. communitgar las datas (art. 50*a* LAVS);
 - c. la responsabladad dals patruns (art. 52 LAVS);
 - d. la cumpensaziun (art. 20 LAVS);
 - e. l’autezza dals tschains da retard e da bunificaziun;
-- e<sup>bis</sup>.[^25-3] la reducziun ed il relasch da contribuziuns (art. 11 LAVS);
-- e<sup>ter</sup>.[^25-4] la retratga da las contribuziuns (art. 14–16 LAVS);
-- f.[^25-5] il numer da la AVS (art. 50*c* LAVS);
-- g.[^25-6] l’applicaziun sistematica dal numer da la AVS (art. 153*b*–153*i* LAVS).
+- e<sup>bis</sup>.[^25-5] la reducziun ed il relasch da contribuziuns (art. 11 LAVS);
+- e<sup>ter</sup>.[^25-6] la retratga da las contribuziuns (art. 14–16 LAVS);
+- f.[^25-7] il numer da la AVS (art. 50*c* LAVS);
+- g.[^25-8] l’applicaziun sistematica dal numer da la AVS (art. 153*b*–153*i* LAVS).
 
 [^25-1]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^25-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843). Guardar actualmain: art. 49*b*.
-[^25-3]: Integrà tras la cifra II 2 da la LF dals 17 da mars 2017, en vigur dapi il 1. da schan. 2018 ([AS 2017 5521](https://fedlex.data.admin.ch/eli/oc/2017/595); [BBl 2016 157](https://fedlex.data.admin.ch/eli/fga/2016/44)).
-[^25-4]: Integrà tras la cifra II 2 da la LF dals 17 da mars 2017, en vigur dapi il 1. da schan. 2018 ([AS 2017 5521](https://fedlex.data.admin.ch/eli/oc/2017/595); [BBl 2016 157](https://fedlex.data.admin.ch/eli/fga/2016/44)).
-[^25-5]: Integrà tras la cifra I da la LF dals 18 da zer. 2010, en vigur dapi ils 15. d’oct. 2010 ([AS 2010 4491](https://fedlex.data.admin.ch/eli/oc/2010/636); [BBl 2009 6101](https://fedlex.data.admin.ch/eli/fga/2009/1101)).
-[^25-6]: Integrà tras la cifra I da la LF dals 18 da zer. 2010 ([AS 2010 4491](https://fedlex.data.admin.ch/eli/oc/2010/636); [BBl 2009 6101](https://fedlex.data.admin.ch/eli/fga/2009/1101)). Versiun tenor la cifra 35 da l’agiunta da la LF dals 18 da dec. 2020 (Diever sistematic dal numer da la AVS tras las autoritads), en vigur dapi il 1. da schan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
+[^25-2]: Versiun tenor la cifra 8 da l’agiunta da la LF dals 17 da zer. 2022 (modernisaziun da la surveglianza), en vigur dapi il 1. da schan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^25-3]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^25-4]: Integrà tras la cifra 8 da l’agiunta da la LF dals 17 da zer. 2022 (modernisaziun da la surveglianza), en vigur dapi il 1. da schan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^25-5]: Integrà tras la cifra II 2 da la LF dals 17 da mars 2017, en vigur dapi il 1. da schan. 2018 ([AS 2017 5521](https://fedlex.data.admin.ch/eli/oc/2017/595); [BBl 2016 157](https://fedlex.data.admin.ch/eli/fga/2016/44)).
+[^25-6]: Integrà tras la cifra II 2 da la LF dals 17 da mars 2017, en vigur dapi il 1. da schan. 2018 ([AS 2017 5521](https://fedlex.data.admin.ch/eli/oc/2017/595); [BBl 2016 157](https://fedlex.data.admin.ch/eli/fga/2016/44)).
+[^25-7]: Integrà tras la cifra I da la LF dals 18 da zer. 2010, en vigur dapi ils 15. d’oct. 2010 ([AS 2010 4491](https://fedlex.data.admin.ch/eli/oc/2010/636); [BBl 2009 6101](https://fedlex.data.admin.ch/eli/fga/2009/1101)).
+[^25-8]: Integrà tras la cifra I da la LF dals 18 da zer. 2010 ([AS 2010 4491](https://fedlex.data.admin.ch/eli/oc/2010/636); [BBl 2009 6101](https://fedlex.data.admin.ch/eli/fga/2009/1101)). Versiun tenor la cifra 35 da l’agiunta da la LF dals 18 da dec. 2020 (Diever sistematic dal numer da la AVS tras las autoritads), en vigur dapi il 1. da schan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 
 #### Art. 26
 
@@ -542,8 +546,12 @@ Las disposiziuns da la legislaziun davart la AVS cun lur eventualas divergenzas 
 
 <sup>2</sup> Per ademplir sia funcziun da surveglianza tenor l’artitgel 76 alinea 1 LPGA[^27-1] po el incumbensar il UFAS da dar directivas als posts ch’èn incaricads d’exequir questa lescha sco er da far statisticas unitaras.[^27-2]
 
+<sup>3</sup> El po incumbensar l’Uffizi federal d’assicuranzas socialas d’ademplir las incumbensas tenor l’artitgel 72*a* alinea 2 litera b LAVS[^27-3] e tenor l’artitgel 76*a* alinea 2 LPGA.[^27-4]
+
 [^27-1]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^27-2]: Versiun tenor la cifra I da la LF dals 27 da sett. 2019, en vigur dapi il 1. d’avust 2020 ([AS 2020 2775](https://fedlex.data.admin.ch/eli/oc/2020/502); [BBl 2019 1019](https://fedlex.data.admin.ch/eli/fga/2019/171)).
+[^27-3]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^27-4]: Integrà tras la cifra 8 da l’agiunta da la LF dals 17 da zer. 2022 (modernisaziun da la surveglianza), en vigur dapi il 1. da schan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 
 #### Art. 28
 

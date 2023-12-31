@@ -4,11 +4,11 @@ title: "Loi fédérale du 24 mars 2006 sur les allocations familiales et les aid
 short: LAFam
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/51"
 language: fr
-version: 2022-01-01
+version: 2024-01-01
 adopted: 2006-03-24
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/51/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-51-20220101-fr-xml-11.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/51/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/51/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-51-20240101-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/51/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/51/20220101/fr"
 
 (Loi sur les allocations familiales, LAFam)[^t-2][^t-1]
 
-du 24 mars 2006 (État le 1<sup>er</sup> janvier 2022)
+du 24 mars 2006 (État le 1<sup>er</sup> janvier 2024)
 
 [^t-1]: <sup>∗</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 [^t-2]: Nouvelle teneur selon le ch. I de la LF du 27 sept. 2019, en vigueur depuis le 1<sup>er</sup> août 2020 ([RO 2020 2775](https://fedlex.data.admin.ch/eli/oc/2020/502); [FF 2019 997](https://fedlex.data.admin.ch/eli/fga/2019/171)).
@@ -39,12 +39,13 @@ arrête:
 
 #### Art. 1
 
-<sup>1</sup> Les dispositions de la loi fédérale du 6 octobre 2000 sur la partie générale du droit des assurances sociales (LPGA)[^1-1] s’appliquent aux allocations familiales, à moins que la présente loi ne déroge expressément à la LPGA. Les art. 76, al. 2, et 78 LPGA ne sont pas applicables.
+<sup>1</sup> Les dispositions de la loi fédérale du 6 octobre 2000 sur la partie générale du droit des assurances sociales (LPGA)[^1-1] s’appliquent aux allocations familiales, à moins que la présente loi ne déroge expressément à la LPGA. Les art. 76, al. 1<sup>bis</sup> et 2, et 78 LPGA ne sont pas applicables.[^1-2]
 
-<sup>2</sup> Les dispositions de la LPGA ne s’appliquent pas aux aides financières allouées aux organisations familiales.[^1-2]
+<sup>2</sup> Les dispositions de la LPGA ne s’appliquent pas aux aides financières allouées aux organisations familiales.[^1-3]
 
 [^1-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^1-2]: Introduit par le ch. I de la LF du 27 sept. 2019, en vigueur depuis le 1<sup>er</sup> août 2020 ([RO 2020 2775](https://fedlex.data.admin.ch/eli/oc/2020/502); [FF 2019 997](https://fedlex.data.admin.ch/eli/fga/2019/171)).
+[^1-2]: Nouvelle teneur de la 2<sup>e</sup> phrase selon l’annexe ch. 8 de la LF du 17 juin 2022 (Modernisation de la surveillance), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^1-3]: Introduit par le ch. I de la LF du 27 sept. 2019, en vigueur depuis le 1<sup>er</sup> août 2020 ([RO 2020 2775](https://fedlex.data.admin.ch/eli/oc/2020/502); [FF 2019 997](https://fedlex.data.admin.ch/eli/fga/2019/171)).
 
 ## Chapitre 2 Dispositions générales
 
@@ -507,23 +508,26 @@ Pour les personnes qui sont ou qui ont été soumises à la législation sur la 
 
 Sont applicables par analogie les dispositions de la législation sur l’AVS, y compris les dérogations à la LPGA[^25-1], concernant:[^25-2]
 
-- a. le traitement de données personnelles (art. 49*a* LAVS[^25-3]);
+- a.[^25-3] les systèmes d’information (art. 49*a*, al. 1 et 2, 49*b* et 72*a*, al. 2, let. b, LAVS[^25-4]);
+- a<sup>bis</sup>.[^25-5] le traitement de données personnelles (art. 49*f* LAVS);
 - b. la communication de données (art. 50*a* LAVS);
 - c. la responsabilité de l’employeur (art. 52 LAVS);
 - d. la compensation (art. 20 LAVS);
 - e. le taux des intérêts moratoires et des intérêts rémunératoires;
-- e<sup>bis</sup>.[^25-4] la réduction et la remise des cotisations (art. 11 LAVS);
-- e<sup>ter</sup>.[^25-5] la perception des cotisations (art. 14 à 16 LAVS);
-- f.[^25-6] le numéro AVS (art. 50*c* LAVS);
-- g.[^25-7] l’utilisation systématique du numéro AVS (art. 153*b* à 153*i* LAVS).
+- e<sup>bis</sup>.[^25-6] la réduction et la remise des cotisations (art. 11 LAVS);
+- e<sup>ter</sup>.[^25-7] la perception des cotisations (art. 14 à 16 LAVS);
+- f.[^25-8] le numéro AVS (art. 50*c* LAVS);
+- g.[^25-9] l’utilisation systématique du numéro AVS (art. 153*b* à 153*i* LAVS).
 
 [^25-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^25-2]: Nouvelle teneur selon le ch. II 2 de la LF du 17 mars 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5521](https://fedlex.data.admin.ch/eli/oc/2017/595); [FF 2016 141](https://fedlex.data.admin.ch/eli/fga/2016/44)).
-[^25-3]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843). Voir actuellement l’art. 49*b*.
-[^25-4]: Introduite par le ch. II 2 de la LF du 17 mars 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5521](https://fedlex.data.admin.ch/eli/oc/2017/595); [FF 2016 141](https://fedlex.data.admin.ch/eli/fga/2016/44)).
-[^25-5]: Introduite par le ch. II 2 de la LF du 17 mars 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5521](https://fedlex.data.admin.ch/eli/oc/2017/595); [FF 2016 141](https://fedlex.data.admin.ch/eli/fga/2016/44)).
-[^25-6]: Introduite par le ch. I de la LF du 18 juin 2010, en vigueur depuis le 15 oct. 2010 ([RO 2010 4491](https://fedlex.data.admin.ch/eli/oc/2010/636); [FF 2009 5491](https://fedlex.data.admin.ch/eli/fga/2009/1101)).
-[^25-7]: Introduite par le ch. I de la LF du 18 juin 2010 ([RO 2010 4491](https://fedlex.data.admin.ch/eli/oc/2010/636); [FF 2009 5491](https://fedlex.data.admin.ch/eli/fga/2009/1101)). Nouvelle teneur selon l’annexe ch. 35 de la LF du 18 déc. 2020 (Utilisation systématique du numéro AVS par les autorités), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6955](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
+[^25-3]: Nouvelle teneur selon l’annexe ch. 8 de la LF du 17 juin 2022 (Modernisation de la surveillance), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^25-4]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^25-5]: Introduite par l’annexe ch. 8 de la LF du 17 juin 2022 (Modernisation de la surveillance), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^25-6]: Introduite par le ch. II 2 de la LF du 17 mars 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5521](https://fedlex.data.admin.ch/eli/oc/2017/595); [FF 2016 141](https://fedlex.data.admin.ch/eli/fga/2016/44)).
+[^25-7]: Introduite par le ch. II 2 de la LF du 17 mars 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5521](https://fedlex.data.admin.ch/eli/oc/2017/595); [FF 2016 141](https://fedlex.data.admin.ch/eli/fga/2016/44)).
+[^25-8]: Introduite par le ch. I de la LF du 18 juin 2010, en vigueur depuis le 15 oct. 2010 ([RO 2010 4491](https://fedlex.data.admin.ch/eli/oc/2010/636); [FF 2009 5491](https://fedlex.data.admin.ch/eli/fga/2009/1101)).
+[^25-9]: Introduite par le ch. I de la LF du 18 juin 2010 ([RO 2010 4491](https://fedlex.data.admin.ch/eli/oc/2010/636); [FF 2009 5491](https://fedlex.data.admin.ch/eli/fga/2009/1101)). Nouvelle teneur selon l’annexe ch. 35 de la LF du 18 déc. 2020 (Utilisation systématique du numéro AVS par les autorités), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6955](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 
 #### Art. 26
 
@@ -543,8 +547,12 @@ Sont applicables par analogie les dispositions de la législation sur l’AVS, y
 
 <sup>2</sup> Pour assumer le rôle d’autorité de surveillance qui lui est conféré par l’art. 76, al. 1, LPGA[^27-1], il peut charger l’OFAS de donner des directives aux services chargés de l’exécution de la présente loi et d’établir des statistiques harmonisées.[^27-2]
 
+<sup>3</sup> Il peut charger l’Office fédéral des assurances sociales d’accomplir les tâches prévues aux art. 72*a*, al. 2, let. b, LAVS[^27-3] et 76*a*, al. 2, LPGA.[^27-4]
+
 [^27-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^27-2]: Nouvelle teneur selon le ch. I de la LF du 27 sept. 2019, en vigueur depuis le 1<sup>er</sup> août 2020 ([RO 2020 2775](https://fedlex.data.admin.ch/eli/oc/2020/502); [FF 2019 997](https://fedlex.data.admin.ch/eli/fga/2019/171)).
+[^27-3]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^27-4]: Introduit par l’annexe ch. 8 de la LF du 17 juin 2022 (Modernisation de la surveillance), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 
 #### Art. 28
 

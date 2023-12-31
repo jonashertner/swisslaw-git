@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 24. März 2006 über die Familienzulagen und Finanzhilf
 short: FamZG
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/51"
 language: de
-version: 2022-01-01
+version: 2024-01-01
 adopted: 2006-03-24
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/51/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2008-51-20220101-de-xml-11.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/51/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/51/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2008-51-20240101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/51/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/51/20220101/de"
 
 (Familienzulagengesetz, FamZG)[^t-1]
 
-vom 24. März 2006 (Stand am 1. Januar 2022)
+vom 24. März 2006 (Stand am 1. Januar 2024)
 
 [^t-1]: Fassung gemäss Ziff. I des BG vom 27. Sept. 2019, in Kraft seit 1. Aug. 2020 ([AS 2020 2775](https://fedlex.data.admin.ch/eli/oc/2020/502); [BBl 2019 1019](https://fedlex.data.admin.ch/eli/fga/2019/171)).
 
@@ -38,12 +38,13 @@ beschliesst:
 
 #### Art. 1
 
-<sup>1</sup> Die Bestimmungen des Bundesgesetzes vom 6. Oktober 2000[^1-1] über den Allgemeinen Teil des Sozialversicherungsrechts (ATSG) sind auf die Familienzulagen anwendbar, soweit das vorliegende Gesetz nicht ausdrücklich eine Abweichung vom ATSG vorsieht. Nicht anwendbar sind die Artikel 76 Absatz 2 und 78 ATSG.
+<sup>1</sup> Die Bestimmungen des Bundesgesetzes vom 6. Oktober 2000[^1-1] über den Allgemeinen Teil des Sozialversicherungsrechts (ATSG) sind auf die Familienzulagen anwendbar, soweit das vorliegende Gesetz nicht ausdrücklich eine Abweichung vom ATSG vorsieht. Nicht anwendbar sind die Artikel 76 Absätze 1<sup>bis</sup> und 2 und 78 ATSG.[^1-2]
 
-<sup>2</sup> Die Bestimmungen des ATSG sind auf die Finanzhilfen an Familienorganisationen nicht anwendbar.[^1-2]
+<sup>2</sup> Die Bestimmungen des ATSG sind auf die Finanzhilfen an Familienorganisationen nicht anwendbar.[^1-3]
 
 [^1-1]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^1-2]: Eingefügt durch Ziff. I des BG vom 27. Sept. 2019, in Kraft seit 1. Aug. 2020 ([AS 2020 2775](https://fedlex.data.admin.ch/eli/oc/2020/502); [BBl 2019 1019](https://fedlex.data.admin.ch/eli/fga/2019/171)).
+[^1-2]: Fassung des zweiten Satzes gemäss Anhang Ziff. 8 des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^1-3]: Eingefügt durch Ziff. I des BG vom 27. Sept. 2019, in Kraft seit 1. Aug. 2020 ([AS 2020 2775](https://fedlex.data.admin.ch/eli/oc/2020/502); [BBl 2019 1019](https://fedlex.data.admin.ch/eli/fga/2019/171)).
 
 ## 2. Kapitel: Allgemeine Bestimmungen
 
@@ -505,23 +506,25 @@ In Bezug auf Personen, für die die Rechtsvorschriften der sozialen Sicherheit d
 
 Die Bestimmungen der AHV-Gesetzgebung mit ihren allfälligen Abweichungen vom ATSG[^25-1] gelten sinngemäss für:
 
-- a. das Bearbeiten von Personendaten (Art. 49*a* AHVG[^25-2] [^25-3]);
+- a.[^25-2] die Informationssysteme (Art. 49*a* Abs. 1 und 2, 49*b* und 72*a* Abs. 2 Bst. b AHVG[^25-3]);
+- a<sup>bis</sup>.[^25-4] das Bearbeiten von Personendaten (Art. 49*f* AHVG);
 - b. die Datenbekanntgabe (Art. 50*a* AHVG);
 - c. die Haftung der Arbeitgeber (Art. 52 AHVG);
 - d. die Verrechnung (Art. 20 AHVG);
 - e. die Höhe der Verzugs- und Vergütungszinsen;
-- e<sup>bis</sup>.[^25-4] die Herabsetzung und den Erlass von Beiträgen (Art. 11 AHVG);
-- e<sup>ter</sup>.[^25-5] den Bezug der Beiträge (Art. 14–16 AHVG);
-- f.[^25-6] die AHV-Nummer (Art. 50*c* AHVG);
-- g.[^25-7] die systematische Verwendung der AHV-Nummer (Art. 153*b*–153*i* AHVG).
+- e<sup>bis</sup>.[^25-5] die Herabsetzung und den Erlass von Beiträgen (Art. 11 AHVG);
+- e<sup>ter</sup>.[^25-6] den Bezug der Beiträge (Art. 14–16 AHVG);
+- f.[^25-7] die AHV-Nummer (Art. 50*c* AHVG);
+- g.[^25-8] die systematische Verwendung der AHV-Nummer (Art. 153*b*–153*i* AHVG).
 
 [^25-1]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^25-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^25-3]: Siehe heute: Art. 49*b*.
-[^25-4]: Eingefügt durch Ziff. II 2 des BG vom 17. März 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 5521](https://fedlex.data.admin.ch/eli/oc/2017/595); [BBl 2016 157](https://fedlex.data.admin.ch/eli/fga/2016/44)).
+[^25-2]: Fassung gemäss Anhang Ziff. 8 des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^25-3]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^25-4]: Eingefügt durch Anhang Ziff. 8 des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 [^25-5]: Eingefügt durch Ziff. II 2 des BG vom 17. März 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 5521](https://fedlex.data.admin.ch/eli/oc/2017/595); [BBl 2016 157](https://fedlex.data.admin.ch/eli/fga/2016/44)).
-[^25-6]: Eingefügt durch Ziff. I des BG vom 18. Juni 2010, in Kraft seit 15. Okt. 2010 ([AS 2010 4491](https://fedlex.data.admin.ch/eli/oc/2010/636); [BBl 2009 6101](https://fedlex.data.admin.ch/eli/fga/2009/1101)).
-[^25-7]: Eingefügt durch Ziff. I des BG vom 18. Juni 2010 ([AS 2010 4491](https://fedlex.data.admin.ch/eli/oc/2010/636); [BBl 2009 6101](https://fedlex.data.admin.ch/eli/fga/2009/1101)). Fassung gemäss Anhang Ziff. 35 des BG vom 18. Dez. 2020 (Systematische Verwendung der AHV-Nummer durch Behörden), in Kraft seit 1. Jan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
+[^25-6]: Eingefügt durch Ziff. II 2 des BG vom 17. März 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 5521](https://fedlex.data.admin.ch/eli/oc/2017/595); [BBl 2016 157](https://fedlex.data.admin.ch/eli/fga/2016/44)).
+[^25-7]: Eingefügt durch Ziff. I des BG vom 18. Juni 2010, in Kraft seit 15. Okt. 2010 ([AS 2010 4491](https://fedlex.data.admin.ch/eli/oc/2010/636); [BBl 2009 6101](https://fedlex.data.admin.ch/eli/fga/2009/1101)).
+[^25-8]: Eingefügt durch Ziff. I des BG vom 18. Juni 2010 ([AS 2010 4491](https://fedlex.data.admin.ch/eli/oc/2010/636); [BBl 2009 6101](https://fedlex.data.admin.ch/eli/fga/2009/1101)). Fassung gemäss Anhang Ziff. 35 des BG vom 18. Dez. 2020 (Systematische Verwendung der AHV-Nummer durch Behörden), in Kraft seit 1. Jan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 
 #### Art. 26
 
@@ -541,8 +544,12 @@ Die Bestimmungen der AHV-Gesetzgebung mit ihren allfälligen Abweichungen vom AT
 
 <sup>2</sup> Er kann zur Wahrnehmung seiner Aufsichtsfunktion nach Artikel 76 Absatz 1 ATSG[^27-1] das BSV beauftragen, den mit der Durchführung dieses Gesetzes betrauten Stellen Weisungen zu erteilen und einheitliche Statistiken zu erstellen.[^27-2]
 
+<sup>3</sup> Er kann das Bundesamt für Sozialversicherungen beauftragen, die Aufgaben nach Artikel 72*a* Absatz 2 Buchstabe b AHVG[^27-3] und Artikel 76*a* Absatz 2 ATSG wahrzunehmen.[^27-4]
+
 [^27-1]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^27-2]: Fassung gemäss Ziff. I des BG vom 27. Sept. 2019, in Kraft seit 1. Aug. 2020 ([AS 2020 2775](https://fedlex.data.admin.ch/eli/oc/2020/502); [BBl 2019 1019](https://fedlex.data.admin.ch/eli/fga/2019/171)).
+[^27-3]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^27-4]: Eingefügt durch Anhang Ziff. 8 des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 
 #### Art. 28
 
@@ -590,6 +597,6 @@ Anhang
 
 Die nachstehenden Bundesgesetze werden wie folgt geändert:
 
-...[^annexu1-lvlu1-1]
+…[^annexu1-lvlu1-1]
 
 [^annexu1-lvlu1-1]: Die Änderungen können unter [AS 2008 131](https://fedlex.data.admin.ch/eli/oc/2008/51)konsultiert werden.
