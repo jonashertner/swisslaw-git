@@ -4,11 +4,11 @@ number: "841.1"
 title: Wohnbauförderungsverordnung (WBFV)
 short: WBFV
 language: de
-version: "2012-01-01"
-nachtrag: "77"
-valid_until: 2024-01-01
+version: "2024-01-01"
+nachtrag: "123"
+valid_until: 2026-07-01
 adopted: 2005-06-01
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-841_1-2005_06_01-2005_07_01-077.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-841_1-2005_06_01-2005_07_01-123.html"
 text: pdf
 ---
 
@@ -32,7 +32,7 @@ beschliesst:
 
 <sup>1</sup> Zuständige Direktion im Sinne des Gesetzes ist die Volkswirtschaftsdirektion.
 
-<sup>2</sup> Das Amt für Wirtschaft und Arbeit ist Vollzugsbehörde. Es vollzieht das Gesetz und diese Verordnung, soweit nachfolgend nichts anderes geregelt ist.
+<sup>2</sup> Das Amt für Wirtschaft<sup>11</sup> ist Vollzugsbehörde. Es vollzieht das Gesetz und diese Verordnung, soweit nachfolgend nichts anderes geregelt ist.
 
 #### § 2
 
@@ -62,7 +62,7 @@ Menschen mit Behinderungen im Sinne dieser Verordnung sind Personen, die Leistun
 
 **1**
 
-- 1\. 7. 12 - 77
+- 1\. 1. 24 - 123
 
 ### II. Förderung des Mietwohnungsbaus
 
@@ -94,7 +94,7 @@ Zimmerzahl ohne Küche und ohne Bad/WC-Räume 1½ 2 2½ 3 3½ 4 4½ 5 5½ 6 Punk
 
 <sup>3</sup> Die Vollzugsbehörde kann in begründeten Fällen abweichende Punktezuteilungen vornehmen.
 
-**b. Voraussetzungen für eine Unterstützung**
+**b.Voraussetzungen für eine Unterstützung**
 
 § 6 a.<sup>8</sup> <sup>1</sup> Neubauvorhaben werden unterstützt, wenn:
 
@@ -132,7 +132,7 @@ Zimmerzahl ohne Küche und ohne Bad/WC-Räume 1½ 2 2½ 3 3½ 4 4½ 5 5½ 6 Punk
 
 **3**
 
-- 1\. 7. 12 - 77 § 7. <sup>1</sup> Darlehen für Neubauvorhaben betragen höchstens 20% der pauschalierten Investitionskosten. Ihre Laufzeit beträgt 20 Jahre ab Bezugsbereitschaft.
+- 1\. 1. 24 - 123 § 7. <sup>1</sup> Darlehen für Neubauvorhaben betragen höchstens 20% der pauschalierten Investitionskosten. Ihre Laufzeit beträgt 20 Jahre ab Bezugsbereitschaft.
 
 **Wohnbaudarlehen a. Umfang**
 
@@ -172,11 +172,11 @@ Die Vollzugsbehörde lässt für Grundstücke mit unterstützten Mietwohnungen f
 
 - 2\. Die unterstützten Wohnungen dürfen nur von Bewohnerinnen und Bewohnern benutzt werden, welche die Subventionsvoraussetzungen erfüllen.
 
-- 3\. Die unterstützten Wohnungen müssen nach dem Grundsatz der Kostenmiete vermietet werden. Die massgebenden Investitionskosten einschliesslich der anerkannten wertvermehrenden Investitionen richten sich nach dem Subventionsvertrag und ergänzenden Verfügungen des Amtes für Wirtschaft und Arbeit.
+- 3\. Die unterstützten Wohnungen müssen nach dem Grundsatz der Kostenmiete vermietet werden. Die massgebenden Investitionskosten einschliesslich der anerkannten wertvermehrenden Investitionen richten sich nach dem Subventionsvertrag und ergänzenden Verfügungen des Amtes für Wirtschaft<sup>11</sup>.
 
-- 4\. Bauliche Veränderungen dürfen nur mit Bewilligung des Amtes für Wirtschaft und Arbeit ausgeführt werden.
+- 4\. Bauliche Veränderungen dürfen nur mit Bewilligung des Amtes für Wirtschaft<sup>11</sup> ausgeführt werden.
 
-- 5\. Jede Grundpfandbelastung bedarf der Zustimmung des Amtes für Wirtschaft und Arbeit.
+- 5\. Jede Grundpfandbelastung bedarf der Zustimmung des Amtes für Wirtschaft<sup>11</sup>.
 
 - 6\. Es besteht ein Vorkaufsrecht zu den Selbstkosten zugunsten des Staates und der Gemeinde.
 
@@ -214,7 +214,7 @@ Die Vollzugsbehörde lässt für Grundstücke mit unterstützten Mietwohnungen f
 
 **5**
 
-- 1\. 7. 12 - 77
+- 1\. 1. 24 - 123
 
 <sup>3</sup> Wohnungen mit drei und mehr Zimmern dürfen unter Vorbehalt von § 18 Abs. 3 nur an Familien vermietet werden, wobei die Familie mindestens einen Elternteil und ein minderjähriges oder in Ausbildung stehendes Kind oder ein Kind mit Behinderung umfassen muss. Im Übrigen gelten als Familienangehörige Eltern, Grosseltern, erwachsene Kinder, Geschwister, Enkelkinder, Pflegekinder sowie Personen, mit denen eine faktische Lebensgemeinschaft besteht.<sup>6</sup>
 
@@ -278,7 +278,7 @@ Die Vollzugsbehörde lässt für Grundstücke mit unterstützten Mietwohnungen f
 
 **7**
 
-- 1\. 7. 12 - 77
+- 1\. 1. 24 - 123
 
 <sup>2</sup> Eine Zweckentfremdung liegt vor, wenn a. die Anforderungen an die Bewohnerinnen und Bewohner nicht eingehalten werden,
 
@@ -350,7 +350,7 @@ Die Vollzugsbehörde lässt für Grundstücke mit unterstützten Mietwohnungen f
 
 **9**
 
-- 1\. 7. 12 - 77 § 24. <sup>1</sup> Gründungsdarlehen von höchstens 3% der voraussichtlichen gesamten Investitionskosten oder höchstens Fr. 50 000 werden gemeinnützigen Wohnbauträgerschaften gewährt, wenn ein baureifes Wohnbauprojekt vorliegt.
+- 1\. 1. 24 - 123 § 24. <sup>1</sup> Gründungsdarlehen von höchstens 3% der voraussichtlichen gesamten Investitionskosten oder höchstens Fr. 50 000 werden gemeinnützigen Wohnbauträgerschaften gewährt, wenn ein baureifes Wohnbauprojekt vorliegt.
 
 **Gründungsdarlehen**
 
@@ -414,11 +414,11 @@ Die Vollzugsbehörde lässt für Grundstücke mit unterstützten Mietwohnungen f
 
 **Inkrafttreten**
 
-- 1\. 7. 12 - 77 § 30. Diese Verordnung tritt auf den 1. Juli 2005 in Kraft. Auf den gleichen Zeitpunkt wird die Wohnbauförderungsverordnung vom 9. Dezember 1998 aufgehoben.
+- 1\. 1. 24 - 123 § 30. Diese Verordnung tritt auf den 1. Juli 2005 in Kraft. Auf den gleichen Zeitpunkt wird die Wohnbauförderungsverordnung vom 9. Dezember 1998 aufgehoben.
 
 ## Weitere Fussnoten
 
-- [*] Bezugsquelle: www.sia.ch. Einsehbar beim kantonalen Amt für Wirtschaft und Arbeit, Fachstelle Wohnbauförderung.
+- [*] Bezugsquelle: www.sia.ch. Einsehbar beim kantonalen Amt für Wirtschaft11, Fachstelle Wohnbauförderung.
 - [1] OS 60, 174.
 - [3] SR 220.
 - [4] SR 221.213.11.
@@ -426,3 +426,4 @@ Die Vollzugsbehörde lässt für Grundstücke mit unterstützten Mietwohnungen f
 - [7] Fassung gemäss RRB vom 7. Mai 2009 (OS 64, 177; ABl 2009, 681). In Kraft seit 1. Januar 2009.
 - [8] Eingefügt durch RRB vom 7. Mai 2009 (OS 64, 177; ABl 2009, 681). In Kraft seit 1. März 2009.
 - [10] Fassung gemäss RRB vom 29. Februar 2012 (OS 67, 155; ABl 2012, 357). In Kraft seit 1. Januar 2012.
+- [11] Fassung gemäss RRB vom 12. Dezember 2023 (OS 78, 560; ABl 2023-12-15). In Kraft seit 1. Januar 2024.
