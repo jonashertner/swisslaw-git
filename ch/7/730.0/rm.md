@@ -4,11 +4,11 @@ title: "Lescha dals 30 da settember 2016 d'energia (LEn)"
 short: LEn
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/762"
 language: rm
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2016-09-30
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/762/20230901/rm/xml/fedlex-data-admin-ch-eli-cc-2017-762-20230901-rm-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/762/20230901/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/762/20240101/rm/xml/fedlex-data-admin-ch-eli-cc-2017-762-20240101-rm-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/762/20240101/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (LEn)
 
-dals 30 da settember 2016 (versiun dal 1. da settember 2023)
+dals 30 da settember 2016 (versiun dal 1. da schaner 2024)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -989,19 +989,25 @@ La Confederaziun po promover las mesiras tenor ils artitgels 47, 48 e 50 ubain e
 
 <sup>1</sup> Agids finanzials per projects singuls vegnan per regla concedids en furma da prestaziuns da daners betg restituiblas. Contribuziuns da gestiun vegnan concedidas mo en cas excepziunals. Il sustegn retroactiv è exclus.
 
-<sup>2</sup> Ils agids finanzials na dastgan betg surpassar 40 pertschient dals custs imputabels. Ils agids finanzials pon vegnir augmentads excepziunalmain sin 60 pertschient dals custs imputabels. Decisivs per l’excepziun èn la qualitad dal project, l’interess spezial da la Confederaziun e la situaziun finanziala dal retschavider da l’agid finanzial.
+<sup>2</sup> Ils agids finanzials tenor ils artitgels 47, 48 e 50 na dastgan betg surpassar 40 pertschient dals custs imputabels.[^53-1] Ils agids finanzials pon vegnir augmentads excepziunalmain sin 60 pertschient dals custs imputabels. Decisivs per l’excepziun èn la qualitad dal project, l’interess spezial da la Confederaziun e la situaziun finanziala dal retschavider da l’agid finanzial.
+
+<sup>2bis</sup> Ils agids finanzials tenor l’artitgel 49 alinea 2 na dastgan betg surpassar 50 pertschient dals custs imputabels. Per indrizs e projects da pilot cun in bass nivel da madirezza tecnologica e cun ina gronda ristga finanziala pon ils agids finanzials vegnir augmentads excepziunalmain fin a 70 pertschient dals custs imputabels. Decisivs per l’excepziun èn l’interess particular da la Confederaziun e la relaziun tranter ils custs ed il niz.[^53-2]
 
 <sup>3</sup>
 
 Sco custs imputabels valan:
 
-- a. en cas dals agids finanzials tenor l’artitgel 49 alinea 2: ils custs supplementars betg amortisabels envers ils custs per tecnicas convenziunalas;
+- a.[^53-3] per ils agids finanzials tenor l’artitgel 49 alinea 2: las cumparts dals custs betg amortisablas che han in connex direct cun il svilup e cun il test dals aspects innovativs dal project;
 - b. en cas dals agids finanzials tenor l’artitgel 50: las investiziuns supplementaras envers ils custs per tecnicas convenziunalas;
 - c. en cas dals ulteriurs agids finanzials: ils custs effectivs ch’èn resultads e ch’èn absolutamain necessaris per ademplir l’incumbensa en moda effizienta.
 
 <sup>4</sup> Sch’i vegn fatg in gudogn considerabel cun in project promovì, po la Confederaziun pretender enavos per part u dal tuttafatg l’agid finanzial.
 
 <sup>5</sup> Il Cussegl federal regla ils detagls; en spezial fixescha el ils criteris per la concessiun d’agids finanzials a projects singuls.
+
+[^53-1]: Versiun tenor l’agiunta da la LF dals 30 da sett. 2022 davart las finamiras en la protecziun dal clima, davart l’innovaziun e davart il rinforzament da la segirezza energetica, en vigur dapi il 1. da schan. 2024 ([AS 2023 655](https://fedlex.data.admin.ch/eli/oc/2023/655); [BBl 2022 1536](https://fedlex.data.admin.ch/eli/fga/2022/1536), [1540](https://fedlex.data.admin.ch/eli/fga/2022/1540)).
+[^53-2]: Integrà tras l’agiunta da la LF dals 30 da sett. 2022 davart las finamiras en la protecziun dal clima, davart l’innovaziun e davart il rinforzament da la segirezza energetica, en vigur dapi il 1. da schan. 2024 (AS 2023 655; [BBl 2022 1536](https://fedlex.data.admin.ch/eli/fga/2022/1536), [1540](https://fedlex.data.admin.ch/eli/fga/2022/1540)).
+[^53-3]: Versiun tenor l’agiunta da la LF dals 30 da sett. 2022 davart las finamiras en la protecziun dal clima, davart l’innovaziun e davart il rinforzament da la segirezza energetica, en vigur dapi il 1. da schan. 2024 ([AS 2023 655](https://fedlex.data.admin.ch/eli/oc/2023/655); [BBl 2022 1536](https://fedlex.data.admin.ch/eli/fga/2022/1536), [1540](https://fedlex.data.admin.ch/eli/fga/2022/1540)).
 
 ## 10. chapitel Cunvegnas internaziunalas
 

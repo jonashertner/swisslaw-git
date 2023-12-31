@@ -4,11 +4,11 @@ title: "Legge federale sull'energia del 30 settembre 2016 (LEne)"
 short: LEne
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/762"
 language: it
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2016-09-30
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/762/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2017-762-20230901-it-xml-11.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/762/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/762/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2017-762-20240101-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/762/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/762/20230901/it"
 
 (LEne)
 
-del 30 settembre 2016 (Stato 1° settembre 2023)
+del 30 settembre 2016 (Stato 1° gennaio 2024)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -988,19 +988,25 @@ La Confederazione può promuovere le misure di cui agli articoli 47, 48 e 50 med
 
 <sup>1</sup> Gli aiuti finanziari per progetti individuali sono di regola concessi sotto forma di versamenti non rimborsabili. I contributi alla gestione sono accordati soltanto a titolo eccezionale. Sono esclusi aiuti retroattivi.
 
-<sup>2</sup> Gli aiuti finanziari non possono superare il 40 per cento dei costi computabili. Eccezionalmente, gli aiuti finanziari possono essere aumentati al 60 per cento dei costi computabili. L’eccezione è determinata dalla qualità del progetto, dall’interesse particolare della Confederazione e dalla situazione finanziaria del beneficiario dell’aiuto.
+<sup>2</sup> Gli aiuti finanziari di cui agli articoli 47, 48 e 50 non possono superare il 40 per cento dei costi computabili.[^53-1] Eccezionalmente, gli aiuti finanziari possono essere aumentati al 60 per cento dei costi computabili. L’eccezione è determinata dalla qualità del progetto, dall’interesse particolare della Confederazione e dalla situazione finanziaria del beneficiario dell’aiuto.
+
+<sup>2bis</sup> Gli aiuti finanziari di cui all’articolo 49 capoverso 2 non possono superare il 50 per cento dei costi computabili. Eccezionalmente, per gli impianti e i progetti pilota con un basso livello di maturità tecnologica e un elevato rischio finanziario gli aiuti finanziari possono essere aumentati al 70 per cento dei costi computabili. L’eccezione è determinata dall’interesse particolare della Confederazione nonché dal rapporto tra costi e benefici.[^53-2]
 
 <sup>3</sup>
 
 Sono considerati costi computabili:
 
-- a. per gli aiuti finanziari di cui all’articolo 49 capoverso 2, i maggiori costi non ammortizzabili rispetto ai costi delle tecniche convenzionali;
+- a.[^53-3] per gli aiuti finanziari di cui all’articolo 49 capoverso 2, le parti non ammortizzabili dei costi direttamente legate allo sviluppo e alla sperimentazione degli aspetti innovativi del progetto;
 - b. per gli aiuti finanziari di cui all’articolo 50, gli investimenti supplementari rispetto ai costi delle tecniche convenzionali;
 - c. per gli altri aiuti finanziari, le spese effettive assolutamente necessarie all’adempimento efficace del compito.
 
 <sup>4</sup> Qualora un progetto sostenuto con aiuti finanziari permetta di conseguire un utile considerevole, la Confederazione può esigere che tali aiuti siano restituiti interamente o in parte.
 
 <sup>5</sup> Il Consiglio federale disciplina i dettagli; in particolare fissa i criteri per la concessione di aiuti finanziari per progetti individuali.
+
+[^53-1]: Nuovo testo giusta l’all. della LF del 30 set. 2022 sugli obiettivi in materia di protezione del clima, l’innovazione e il rafforzamento della sicurezza energetica, in vigore dal 1° gen. 2024 ([RU 2023 655](https://fedlex.data.admin.ch/eli/oc/2023/655); [FF 2022 1536](https://fedlex.data.admin.ch/eli/fga/2022/1536), [1540](https://fedlex.data.admin.ch/eli/fga/2022/1540)).
+[^53-2]: Introdotto dal’all. della LF del 30 set. 2022 sugli obiettivi in materia di protezione del clima, l’innovazione e il rafforzamento della sicurezza energetica, in vigore dal 1° gen. 2024 ([RU 2023 655](https://fedlex.data.admin.ch/eli/oc/2023/655); [FF 2022 1536](https://fedlex.data.admin.ch/eli/fga/2022/1536), [1540](https://fedlex.data.admin.ch/eli/fga/2022/1540)).
+[^53-3]: Nuovo testo giusta l’all. della LF del 30 set. 2022 sugli obiettivi in materia di protezione del clima, l’innovazione e il rafforzamento della sicurezza energetica, in vigore dal 1° gen. 2024 ([RU 2023 655](https://fedlex.data.admin.ch/eli/oc/2023/655); [FF 2022 1536](https://fedlex.data.admin.ch/eli/fga/2022/1536), [1540](https://fedlex.data.admin.ch/eli/fga/2022/1540)).
 
 ## Capitolo 10: Convenzioni internazionali
 

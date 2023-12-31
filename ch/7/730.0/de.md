@@ -4,11 +4,11 @@ title: Energiegesetz vom 30. September 2016 (EnG)
 short: EnG
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/762"
 language: de
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2016-09-30
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/762/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2017-762-20230901-de-xml-11.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/762/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/762/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2017-762-20240101-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/762/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/762/20230901/de"
 
 (EnG)
 
-vom 30. September 2016 (Stand am 1. September 2023)
+vom 30. September 2016 (Stand am 1. Januar 2024)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -987,19 +987,25 @@ Der Bund kann die Massnahmen nach den Artikeln 47, 48 und 50 entweder in der For
 
 <sup>1</sup> Finanzhilfen an Einzelprojekte werden in der Regel in Form von nicht rückzahlbaren Geldleistungen gewährt. Betriebsbeiträge werden nur ausnahmsweise gewährt. Die rückwirkende Unterstützung ist ausgeschlossen.
 
-<sup>2</sup> Die Finanzhilfen dürfen 40 Prozent der anrechenbaren Kosten nicht übersteigen. Ausnahmsweise können die Finanzhilfen auf 60 Prozent der anrechenbaren Kosten erhöht werden. Massgeblich für die Ausnahme sind die Qualität des Projektes, das besondere Interesse des Bundes und die finanzielle Situation der Finanzhilfeempfängerin oder des Finanzhilfeempfängers.
+<sup>2</sup> Die Finanzhilfen nach den Artikeln 47, 48 und 50 dürfen 40 Prozent der anrechenbaren Kosten nicht übersteigen.[^53-1] Ausnahmsweise können die Finanzhilfen auf 60 Prozent der anrechenbaren Kosten erhöht werden. Massgeblich für die Ausnahme sind die Qualität des Projektes, das besondere Interesse des Bundes und die finanzielle Situation der Finanzhilfeempfängerin oder des Finanzhilfeempfängers.
+
+<sup>2bis</sup> Die Finanzhilfen nach Artikel 49 Absatz 2 dürfen 50 Prozent der anrechenbaren Kosten nicht übersteigen. Ausnahmsweise können die Finanzhilfen für Pilotanlagen und -projekte mit niedriger Technologiereife und hohem finanziellem Risiko bis auf 70 Prozent der anrechenbaren Kosten erhöht werden. Massgebend für die Ausnahme sind das besondere Interesse des Bundes sowie das Verhältnis zwischen Kosten und Nutzen.[^53-2]
 
 <sup>3</sup>
 
 Als anrechenbare Kosten gelten:
 
-- a. bei den Finanzhilfen nach Artikel 49 Absatz 2: die nicht amortisierbaren Mehrkosten gegenüber den Kosten für konventionelle Techniken;
+- a.[^53-3] bei den Finanzhilfen nach Artikel 49 Absatz 2: die nicht amortisierbaren Anteile der Kosten, die direkt im Zusammenhang mit der Entwicklung und Erprobung der innovativen Aspekte des Projektes stehen;
 - b. bei den Finanzhilfen nach Artikel 50: die Mehrinvestitionen gegenüber den Kosten für konventionelle Techniken;
 - c. bei den übrigen Finanzhilfen: die Aufwendungen, die tatsächlich entstanden und für die effiziente Erfüllung der Aufgabe unbedingt erforderlich sind.
 
 <sup>4</sup> Wird mit einem geförderten Projekt ein erheblicher Gewinn erwirtschaftet, so kann der Bund die Finanzhilfe ganz oder teilweise zurückfordern.
 
 <sup>5</sup> Der Bundesrat regelt die Einzelheiten; insbesondere legt er die Kriterien für die Gewährung von Finanzhilfen an Einzelprojekte fest.
+
+[^53-1]: Fassung gemäss Anhang des BG vom 30. Sept. 2022 über die Ziele im Klimaschutz, die Innovation und die Stärkung der Energiesicherheit, in Kraft seit 1. Jan. 2024 ([AS 2023 655](https://fedlex.data.admin.ch/eli/oc/2023/655); [BBl 2022 1536](https://fedlex.data.admin.ch/eli/fga/2022/1536), [1540](https://fedlex.data.admin.ch/eli/fga/2022/1540)).
+[^53-2]: Eingefügt durch Anhang des BG vom 30. Sept. 2022 über die Ziele im Klimaschutz, die Innovation und die Stärkung der Energiesicherheit, in Kraft seit 1. Jan. 2024 ([AS 2023 655](https://fedlex.data.admin.ch/eli/oc/2023/655); [BBl 2022 1536](https://fedlex.data.admin.ch/eli/fga/2022/1536), [1540](https://fedlex.data.admin.ch/eli/fga/2022/1540)).
+[^53-3]: Fassung gemäss Anhang des BG vom 30. Sept. 2022 über die Ziele im Klimaschutz, die Innovation und die Stärkung der Energiesicherheit, in Kraft seit 1. Jan. 2024 ([AS 2023 655](https://fedlex.data.admin.ch/eli/oc/2023/655); [BBl 2022 1536](https://fedlex.data.admin.ch/eli/fga/2022/1536), [1540](https://fedlex.data.admin.ch/eli/fga/2022/1540)).
 
 ## 10. Kapitel: Internationale Vereinbarungen
 

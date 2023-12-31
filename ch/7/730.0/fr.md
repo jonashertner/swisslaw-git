@@ -4,11 +4,11 @@ title: "Loi du 30 septembre 2016 sur l'énergie (LEne)"
 short: LEne
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/762"
 language: fr
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2016-09-30
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/762/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2017-762-20230901-fr-xml-11.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/762/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/762/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-762-20240101-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/762/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/762/20230901/fr"
 
 (LEne)[^t-1]
 
-du 30 septembre 2016 (État le 1<sup>er</sup> septembre 2023)
+du 30 septembre 2016 (État le 1<sup>er</sup> janvier 2024)
 
 [^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -988,19 +988,25 @@ La Confédération peut encourager les mesures visées aux art. 47, 48 et 50 soi
 
 <sup>1</sup> Les aides financières en faveur de projets individuels sont généralement octroyées sous forme de versements non remboursables. Une contribution aux frais d’exploitation n’est accordée qu’à titre exceptionnel. Tout soutien rétroactif est exclu.
 
-<sup>2</sup> Les aides financières ne peuvent excéder 40 % des coûts imputables. Exceptionnellement, elles peuvent s’élever à 60 %. La dérogation est fonction de la qualité du projet concerné, de l’intérêt particulier qu’il représente pour la Confédération et de la situation financière du requérant.
+<sup>2</sup> Les aides financières au titre des art. 47, 48 et 50 ne peuvent excéder 40 % des coûts imputables.[^53-1] Exceptionnellement, elles peuvent s’élever à 60 %. La dérogation est fonction de la qualité du projet concerné, de l’intérêt particulier qu’il représente pour la Confédération et de la situation financière du requérant.
+
+<sup>2bis</sup> Les aides financières au titre de l’art. 49, al. 2, ne peuvent excéder 50 % des coûts imputables. Exceptionnellement, elles peuvent s’élever à 70 % pour les installations et projets pilotes présentant un stade de maturité technologique peu avancé et un risque financier élevé. La dérogation est fonction de l’intérêt particulier que ces projets représentent pour la Confédération et du rapport coût-utilité.[^53-2]
 
 <sup>3</sup>
 
 Sont réputés coûts imputables:
 
-- a. pour les aides financières au titre de l’art. 49, al. 2: les coûts non amortissables qui dépassent les coûts des techniques conventionnelles;
+- a.[^53-3] pour les aides financières au titre de l’art. 49, al. 2: les coûts non amortissables directement liés au développement et au test des aspects innovants du projet;
 - b. pour les aides financières au titre de l’art. 50: les investissements qui dépassent les coûts des techniques conventionnelles;
 - c. pour les autres aides financières: les dépenses effectives absolument nécessaires à l’exécution efficace de la tâche correspondante.
 
 <sup>4</sup> Si un gain considérable est réalisé grâce à un projet soutenu par une mesure d’encouragement, la Confédération peut demander le remboursement total ou partiel des aides financières allouées.
 
 <sup>5</sup> Le Conseil fédéral règle les modalités, en définissant notamment les critères applicables pour le versement d’aides financières en faveur de projets individuels.
+
+[^53-1]: Nouvelle teneur selon l’annexe de la LF du 30 sept. 2022 sur les objectifs en matière de protection du climat, sur l’innovation et sur le renforcement de la sécurité énergétique, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 655](https://fedlex.data.admin.ch/eli/oc/2023/655); [FF 2022 1536](https://fedlex.data.admin.ch/eli/fga/2022/1536), [1540](https://fedlex.data.admin.ch/eli/fga/2022/1540)).
+[^53-2]: Introduit par l’annexe de la LF du 30 sept. 2022 sur les objectifs en matière de protection du climat, sur l’innovation et sur le renforcement de la sécurité énergétique, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 655](https://fedlex.data.admin.ch/eli/oc/2023/655); [FF 2022 1536](https://fedlex.data.admin.ch/eli/fga/2022/1536), [1540](https://fedlex.data.admin.ch/eli/fga/2022/1540)).
+[^53-3]: Nouvelle teneur selon l’annexe de la LF du 30 sept. 2022 sur les objectifs en matière de protection du climat, sur l’innovation et sur le renforcement de la sécurité énergétique, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 655](https://fedlex.data.admin.ch/eli/oc/2023/655); [FF 2022 1536](https://fedlex.data.admin.ch/eli/fga/2022/1536), [1540](https://fedlex.data.admin.ch/eli/fga/2022/1540)).
 
 ## Chapitre 10 Conventions internationales
 
