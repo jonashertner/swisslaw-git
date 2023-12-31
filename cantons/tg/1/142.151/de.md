@@ -1,27 +1,26 @@
 ---
 canton: TG
 number: "142.151"
-title: Verordnung des Regierungsrates zum Gesetz über das Einwohnerregister sowie kantonale Register
+title: Einwohnerregisterverordnung
 short: ErV
 language: de
-version: 2013-08-01
-valid_until: 2023-12-31
-version_adopted: 2013-07-02
+version: 2024-01-01
+version_adopted: 2023-12-05
 adopted: 2009-06-30
 in_force: 2009-08-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/142.151"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2012/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2726/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung des Regierungsrates zum Gesetz über das Einwohnerregister sowie kantonale Register
+# Einwohnerregisterverordnung
 
 ErV
 
 (ErV)
 
-vom 30.06.2009 (Stand 01.08.2013)
+vom 30.06.2009 (Stand 01.01.2024)
 
 ## 1. Einwohnerregister
 
@@ -33,17 +32,13 @@ vom 30.06.2009 (Stand 01.08.2013)
 
 #### § 2
 
-**Heimatschein**
-
-<sup>1</sup> Der Heimatschein wird am Hauptwohnsitz beim Einwohneramt hinterlegt.
-
-<sup>2</sup> Dieses bestätigt die Hinterlegung kostenlos mit einer Meldebestätigung.
+**…**
 
 #### § 3
 
 **Heimatausweis**
 
-<sup>1</sup> Wer einen Nebenwohnsitz begründen will, hat Anspruch auf einen kostenlosen Heimatausweis. Im Heimatausweis wird bestätigt, dass der Heimatschein hinterlegt ist oder ausgestellt werden kann.
+<sup>1</sup> Wer einen Nebenwohnsitz begründen will, hat Anspruch auf einen kostenlosen Heimatausweis.
 
 <sup>2</sup> Der Heimatausweis wird am Nebenwohnsitz beim Einwohneramt hinterlegt. Dieses bestätigt die Hinterlegung kostenlos mit einer Meldebestätigung.
 
@@ -61,17 +56,13 @@ vom 30.06.2009 (Stand 01.08.2013)
 
 #### § 5
 
-**Meldepflicht für Minderjährige**
-
-<sup>1</sup> Minderjährige, die bei ihren Eltern leben und das gleiche Bürgerrecht wie diese besitzen, müssen in der Regel keine Ausweisschriften hinterlegen.
-
-<sup>2</sup> Im Jahr, in dem sie das 18. Altersjahr vollenden, haben sie innert 30 Tagen nach der Aufforderung durch das Einwohneramt eigene Ausweisschriften zu hinterlegen.
+**…**
 
 #### § 6
 
 **Meldepflicht für Schweizerinnen und Schweizer ohne Hauptwohnsitz in der Schweiz**
 
-<sup>1</sup> Schweizerinnen und Schweizer mit ausländischem zivilrechtlichem Wohnsitz werden in der Schweiz meldepflichtig, wenn sie sich hier länger als drei Monate oder während dreier Monate innerhalb eines Jahres aufhalten, auch wenn sie keine Absicht des dauernden Verbleibens haben. Sie haben sich mit ihrem Heimatschein anzumelden. Der schweizerische Wohnsitz gilt als Nebenwohnsitz.
+<sup>1</sup> Schweizerinnen und Schweizer mit ausländischem zivilrechtlichem Wohnsitz werden in der Schweiz meldepflichtig, wenn sie sich hier länger als drei Monate oder während dreier Monate innerhalb eines Jahres aufhalten, auch wenn sie keine Absicht des dauernden Verbleibens haben. Der schweizerische Wohnsitz gilt als Nebenwohnsitz.
 
 #### § 7
 
@@ -149,7 +140,7 @@ vom 30.06.2009 (Stand 01.08.2013)
 
 <sup>1</sup> Das Departement für Finanzen und Soziales ist das für kantonale Register zuständige Departement. Es regelt die Zusammenarbeit mit kantonalen Stellen und Dritten.
 
-<sup>2</sup> Es kann nach Rücksprache mit den betroffenen kantonalen Stellen und dem Datenschutzbeauftragten Weisungen erlassen, insbesondere über
+<sup>2</sup> Es kann nach Rücksprache mit den betroffenen kantonalen Stellen und dem oder der Datenschutz- und Öffentlichkeitsbeauftragten Weisungen erlassen, insbesondere über
 
 - 1\. besonders schützenswerte Personendaten;
 - 2\. Qualitätssicherung der Register.
@@ -223,24 +214,10 @@ vom 30.06.2009 (Stand 01.08.2013)
 
 <sup>1</sup> Für die kommunalen Einwohnerregister ist eine Software zu verwenden, welche die korrekte Nachführung der kantonalen Register gewährleistet und für die Datenkommunikation über einen Sedex-Adapter verfügt.
 
-## 3. Schlussbestimmungen
+## 3.
 
-#### § 16
+#### § 16–18
 
-**...[^16-1]**
-
-[^16-1]: Änderung bisherigen Rechtes, ABl. 2009, S. 1702
-
-#### § 17
-
-**Aufhebung bisherigen Rechtes**
-
-<sup>1</sup> Die Verordnung des Regierungsrates zum Gesetz über Niederlassung und Aufenthalt der Schweizerbürger vom 1. Juli 1985 wird aufgehoben.
-
-#### § 18
-
-**Inkrafttreten**
-
-<sup>1</sup> Diese Verordnung und das Gesetz über das Einwohnerregister vom 25. Februar 2009 treten auf den 1. August 2009 in Kraft.
+**…**
 
 ABl. 27/2009
