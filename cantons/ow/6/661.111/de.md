@@ -3,20 +3,19 @@ canton: OW
 number: "661.111"
 title: Ausführungsbestimmungen zum Kantonalbankgesetz
 language: de
-version: 2007-06-01
-valid_until: 2023-12-31
-version_adopted: 2007-05-07
+version: 2024-01-01
+version_adopted: 2023-12-12
 adopted: 2007-05-07
 in_force: 2007-06-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/661.111"
-pdf: "http://gdb.ow.ch/api/de/versions/617/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1837/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Ausführungsbestimmungen zum Kantonalbankgesetz
 
-vom 07.05.2007 (Stand 01.06.2007)
+vom 07.05.2007 (Stand 01.01.2024)
 
 Der Regierungsrat des Kantons Obwalden,
 
@@ -32,11 +31,11 @@ beschliesst:
 
 **Wahl**
 
-<sup>1</sup> Der Regierungsrat wählt die Mitglieder des Bankrats und bestimmt den Präsidenten bzw. die Präsidentin in der Regel an seiner ersten Sitzung zu Beginn der neuen Amtsdauer.
+<sup>1</sup> Der Regierungsrat wählt die Mitglieder des Bankrats und bestimmt den Präsidenten bzw. die Präsidentin in der Regel im Quartal vor Beginn der neuen Amtsdauer.
 
-<sup>2</sup> Die Wahlvorschläge des Bankrats sind spätestens sechs Wochen vor dem Wahltermin dem Finanzdepartement einzureichen.
+<sup>2</sup> Die Wahlvorschläge des Bankrats sind spätestens zwei Monate vor Beginn der neuen Amtsdauer dem Finanzdepartement einzureichen. Sie beinhalten insbesondere den Lebenslauf der vorgeschlagenen Person sowie die Bewilligung der Eidgenössischen Finanzmarktaufsicht (FINMA).
 
-<sup>3</sup> Das Finanzdepartement reicht der Eidgenössischen Bankenkommission einen unterzeichneten Lebenslauf der neu gewählten Personen ein.
+<sup>3</sup> Der Bankrat reicht der Eidgenössischen Finanzmarktaufsicht (FINMA) nach der Wahl die Wahlbestätigung der neu gewählten Mitglieder des Bankrats ein.
 
 #### Art. 2
 
@@ -54,7 +53,9 @@ beschliesst:
 
 **Wahlvorschlag des Bankrats**
 
-<sup>1</sup> Bei der Aufstellung seiner Wahlvorschläge beachtet der Bankrat Art. 11 Abs. 3 des Kantonalbankgesetzes.
+<sup>1</sup> Bei seinen Wahlvorschlägen beachtet der Bankrat Art. 11 Abs. 3 des Kantonalbankgesetzes sowie die in der Eigentümerstrategie für die Obwaldner Kantonalbank aufgeführten Erfordernisse und Fähigkeiten.
+
+<sup>1a</sup> Der Vorsteher oder die Vorsteherin des Finanzdepartements ist durch den Bankrat in den Prozess zur Evaluation der Wahlvorschläge miteinzubeziehen.
 
 <sup>2</sup> Der Regierungsrat berücksichtigt bei der Wahl eine ausgewogene Zusammensetzung des Bankrats.
 
@@ -114,5 +115,15 @@ beschliesst:
 **Inkrafttreten**
 
 <sup>1</sup> Diese Ausführungsbestimmungen treten am 1. Juni 2007 in Kraft.
+
+**Informationen zum Erlass**
+
+Ursprüngliche Fundstelle: OGS 2007, 27
+
+Urspürüngliches Inkrafttreten: 1. Juni 2007
+
+Geändert durch:
+
+\- Nachtrag vom 12. Dezember 2023, in Kraft seit 1. Januar 2024 (OGS 2023, 42)
 
 OGS 2007, 27
