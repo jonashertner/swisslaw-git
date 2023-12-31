@@ -3,11 +3,10 @@ canton: ZH
 number: "181.25"
 title: "Verordnung über die Entschädigungen an Mitglieder landeskirchlicher Behörden, Organe und Kommissionen (Entschädigungsverordnung)"
 language: de
-version: "2023-01-01"
-nachtrag: "119"
-valid_until: 2024-01-01
+version: "2024-01-01"
+nachtrag: "123"
 adopted: 2007-03-20
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-181_25-2007_03_20-2007_06_15-119.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-181_25-2007_03_20-2007_06_15-123.html"
 text: pdf
 ---
 
@@ -29,9 +28,9 @@ beschliesst:
 
 § 1. Die Entschädigungen für Sitzungen, Abordnungen, Beauftragungen und Reisekosten betragen, soweit diese Verordnung keine Abweichungen enthält[^t-1]:
 
-- a. Sitzungen:
+a.[^t-6] Sitzungen:
 
-**Fr. 240 Fr. 200 Fr. 150 Fr. 100**
+**Fr. 320 Fr. 240 Fr. 160 Fr. 110**
 
 - für eine Ganztagessitzung
 
@@ -61,7 +60,7 @@ beschliesst:
 
 **1**
 
-- 1\. 1. 23 - 119 § 2. <sup>1</sup> Der Kirchenrat bestimmt, welche Entschädigungen jährlich, halbjährlich oder vierteljährlich abgerechnet werden. Er stellt für die Abrechnung entsprechende Formulare zur Verfügung.
+- 1\. 1. 24 - 123 § 2. <sup>1</sup> Der Kirchenrat bestimmt, welche Entschädigungen jährlich, halbjährlich oder vierteljährlich abgerechnet werden. Er stellt für die Abrechnung entsprechende Formulare zur Verfügung.
 
 **Abrechnungen a. Grundsatz**
 
@@ -72,6 +71,7 @@ beschliesst:
 [^t-3]: LS 181.10.
 [^t-4]: LS 181.40.
 [^t-5]: Fassung gemäss B vom 14. Juni 2011 (OS 66, 497; ABl 2011, 1834). In Kraft seit 1. Oktober 2011.
+[^t-6]: Fassung gemäss B vom 11. Juli 2023 (OS 78, 386; ABl 2023-07-14). In Kraft seit 1. Januar 2024.
 
 #### § 3
 
@@ -81,77 +81,63 @@ beschliesst:
 
 <sup>2</sup> Abrechungen erfolgen mit Ausnahme der Fraktionsbeiträge halbjährlich. Letztere sind per Ende September zu überweisen.
 
+**Synodemitglieder**
+
+§ 3 a.[^3-1] Die Mitglieder der Kirchensynode erhalten neben den Entschädigungen gemäss § 1 für ihre Arbeit sowie für Bürospesen eine jährliche Pauschale von Fr. 500.
+
 - 2\. Kirchensynode und Fraktionen
 
 **Präsidium**
 
-§ 4. Die Präsidentin oder der Präsident der Kirchensynode erhält neben den Entschädigungen gemäss § 1 als jährliche Pauschale:
+§ 4.[^3-2] Die Präsidentin oder der Präsident der Kirchensynode erhält neben den Entschädigungen gemäss § 1 als jährliche Pauschale:
 
-**Fr. 7500 Fr. 1200**
+- für die Arbeit zwischen den Synodeversammlungen Fr. 10 000
 
-- für die Arbeit zwischen den Synodeversammlungen
+**Fr. 2 000**
 
-- für Büro- und Telefonspesen
+- zusätzlich für Bürospesen
 
 **Vizepräsidium**
 
-§ 5. Die Vizepräsidentinnen und Vizepräsidenten der Kirchensynode erhalten für die Arbeit zwischen den Synodeversammlungen sowie für Büro- und Telefonspesen neben den Entschädigungen gemäss § 1 lit. a und c eine jährliche Pauschale von Fr. 1200.
-
-#### § 6
+§ 5.[^3-2] Die Vizepräsidentinnen und Vizepräsidenten der Kirchensynode erhalten für die Arbeit zwischen den Synodeversammlungen sowie für Bürospesen neben den Entschädigungen gemäss § 1 lit. a und c eine jährliche Pauschale von Fr. 2500.
 
 **Sekretariat**
 
-Die Sekretärinnen und Sekretäre der Kirchensynode erhalten neben den Entschädigungen gemäss § 1 lit. a und c:
+§ 6.[^3-2] Die Sekretärinnen und Sekretäre der Kirchensynode erhalten neben den Entschädigungen gemäss § 1 lit. a und c:
 
 - a. 1. Sekretärin oder 1. Sekretär:
 
-- für eine ganztägige Synodeversammlung einschliesslich Beschlussprotokoll und Bereinigung des Synodeprotokolls Fr. 500
+- für eine ganztägige Synodeversammlung einschliesslich Beschlussprotokoll und Bereinigung des Synodeprotokolls Fr. 550
 
-- für eine halbtägige Synodeversammlung einschliesslich Beschlussprotokoll und Bereinigung des Synodeprotokolls Fr. 400
+- für eine halbtägige Synodeversammlung einschliesslich Beschlussprotokoll und Bereinigung des Synodeprotokolls Fr. 440
 
 - b. 2. Sekretärin oder 2. Sekretär:
 
-**Fr. 500**
-
-- für das Büroprotokoll einschliesslich Vollzugskorrespondenz pro Sitzung
-
-**Fr. 350 Fr. 500**
+**Fr. 380 Fr. 550**
 
 - für Arbeiten im Nachgang zu einer Synodeversammlung pro Sitzung (halb- oder ganztägig)
 
-- für Abrechnungen halbjährlich § 7. Die Protokollführerin oder der Protokollführer erhält neben den Entschädigungen gemäss § 1 lit. a und c:
+- für Abrechnungen halbjährlich §§ 7 und 8.[^3-3]
 
-**Synodeprotokoll**
+**Geschäftsprüfungs- und Finanzkommission**
 
-**Fr. 3000 Fr. 2000**
+§ 9.[^3-2] <sup>1</sup> Die Präsidentinnen und Präsidenten sowie die Mitglieder der Geschäftsprüfungskommission und der Finanzkommission werden für die Erfüllung von Aufgaben ausserhalb von Sitzungen auf der Grundlage von § 1 lit. a und c entschädigt, sofern dafür ein Auftrag der Kommission oder des Präsidiums vorliegt.
 
-- für das Protokoll einer Ganztagessitzung
-
-- für das Protokoll einer Halbtagessitzung
-
-**Freier Kredit**
-
-§ 8. Dem Büro der Kirchensynode steht für besondere Auslagen ein freier Kredit von Fr. 3000 pro Jahr zur Verfügung.
-
-#### § 9
-
-**Geschäftsprüfungs- und Rechnungsprüfungskommission**
-
-<sup>1</sup> Die Präsidentinnen und Präsidenten sowie die Mitglieder der Geschäftsprüfungskommission und der Rechnungsprüfungskommission werden für die Erfüllung von Aufgaben ausserhalb von Sitzungen auf der Grundlage von § 1 lit. a und c entschädigt, sofern dafür ein Auftrag der Kommission oder des Präsidiums vorliegt.
-
-<sup>2</sup> Die Präsidentinnen und Präsidenten der Geschäftsprüfungskommission und der Rechnungsprüfungskommission erhalten für die Erfüllung ihrer Aufgaben sowie für Büro- und Telefonspesen eine jährliche Pauschale von Fr. 1200.
-
-#### § 10
+<sup>2</sup> Die Präsidentinnen und Präsidenten der Geschäftsprüfungskommission und der Finanzkommission erhalten für die Erfüllung ihrer Aufgaben sowie für Bürospesen eine jährliche Pauschale von Fr. 1300.
 
 **Fraktionspräsidium**
 
-Fraktionspräsidentinnen und Fraktionspräsidenten erhalten für ihre Arbeit sowie für Büro- und Telefonspesen eine jährliche Pauschale von Fr. 1200.
+§ 10.[^3-2] Fraktionspräsidentinnen und Fraktionspräsidenten erhalten für ihre Arbeit sowie für Bürospesen eine jährliche Pauschale von Fr. 2500.
+
+[^3-1]: Eingefügt durch B vom 11. Juli 2023 (OS 78, 386; ABl 2023-07-14). In Kraft seit 1. Januar 2024.
+[^3-2]: Fassung gemäss B vom 11. Juli 2023 (OS 78, 386; ABl 2023-07-14). In Kraft seit 1. Januar 2024.
+[^3-3]: Aufgehoben durch B vom 11. Juli 2023 (OS 78, 386; ABl 2023-07-14). In Kraft seit 1. Januar 2024.
 
 #### § 11
 
 **Fraktionsbeiträge**
 
-<sup>1</sup> Die Fraktionen erhalten für jedes ihrer Mitglieder einen jährlichen Beitrag von Fr. 75.
+<sup>1</sup> Die Fraktionen erhalten für jedes ihrer Mitglieder einen jährlichen Beitrag von Fr. 100.[^3-2]
 
 <sup>2</sup> Stichtag für die dem Büro zu meldende Anzahl Mitglieder ist der 30. Juni.
 
@@ -175,7 +161,7 @@ Fraktionspräsidentinnen und Fraktionspräsidenten erhalten für ihre Arbeit sow
 
 **3**
 
-- 1\. 1. 23 - 119 § 12 b.[^11-3] Die Mitglieder der landeskirchlichen Rekurskommission erhalten neben den Entschädigungen gemäss §§ 1 und 12 eine Entschädigung von Fr. 50 pro Stunde für umfangreichere Sekretariatsarbeiten.
+- 1\. 1. 24 - 123 § 12 b.[^11-3] Die Mitglieder der landeskirchlichen Rekurskommission erhalten neben den Entschädigungen gemäss §§ 1 und 12 eine Entschädigung von Fr. 50 pro Stunde für umfangreichere Sekretariatsarbeiten.
 
 **Sekretariatsentschädigung**
 
@@ -262,7 +248,7 @@ Ausgewiesene Auslagen, namentlich für Büromaterialien und Telefonspesen, werde
 
 **5**
 
-- 1\. 1. 23 - 119 § 19.[^18-1] Der Kirchenrat regelt die Entschädigungen und den Auslagenersatz für Dekaninnen, Dekane, Vizedekaninnen und Vizedekane sowie Präsidentinnen, Präsidenten, Vizepräsidentinnen und Vizepräsidenten der Diakonats-, Kirchenmusik- und Katechetikkapitel.
+- 1\. 1. 24 - 123 § 19.[^18-1] Der Kirchenrat regelt die Entschädigungen und den Auslagenersatz für Dekaninnen, Dekane, Vizedekaninnen und Vizedekane sowie Präsidentinnen, Präsidenten, Vizepräsidentinnen und Vizepräsidenten der Diakonats-, Kirchenmusik- und Katechetikkapitel.
 
 **Kapitel**
 
