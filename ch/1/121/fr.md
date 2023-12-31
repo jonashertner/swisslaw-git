@@ -4,11 +4,11 @@ title: Loi fédérale du 25 septembre 2015 sur le renseignement (LRens)
 short: LRens
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/494"
 language: fr
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2015-09-25
 in_force: 2017-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/494/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2017-494-20230901-fr-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/494/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/494/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-494-20240101-fr-xml-12.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/494/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/494/20230901/fr"
 
 (LRens)[^t-1]
 
-du 25 septembre 2015 (État le 1<sup>er</sup> septembre 2023)
+du 25 septembre 2015 (État le 1<sup>er</sup> janvier 2024)
 
 [^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -27,7 +27,7 @@ vu les art. 54, al. 1, 123, al. 1, et 173, al. 2, de la Constitution[^ingress-1]
 
 arrête:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: Nouvelle teneur selon l’annexe ch. II 1 de l’AF du 25 sept. 2020 portant approbation et mise en œuvre de la Convention du Conseil de l’Europe pour la prévention du terrorisme et de son Protocole additionnel et concernant le renforcement des normes pénales contre le terrorisme et le crime organisé, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 6469](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 [^ingress-3]: [FF 2014 2029](https://fedlex.data.admin.ch/eli/fga/2014/407)
 
@@ -118,7 +118,7 @@ Le SRC recherche et traite des informations dans les buts suivants:
   - 1\. le terrorisme,
   - 2\. l’espionnage,
   - 3\. la dissémination d’armes nucléaires, biologiques ou chimiques, y compris leurs vecteurs et tous les biens et technologies à des fins civiles ou militaires qui sont nécessaires à leur fabrication (prolifération NBC) ou le commerce illégal de substances radioactives, de matériel de guerre et d’autres biens d’armement,
-  - 4\. les attaques visant des infrastructures d’information, de communication, d’énergie, de transport et autres qui sont indispensables au fonctionnement de la société civile, de l’économie et de l’État (infrastructures critiques),
+  - 4\.[^6-1] les attaques contre l’approvisionnement en eau potable et en énergie, les infrastructures d’information, de communication, et de transports ainsi que d’autres installations, processus et systèmes essentiels au fonctionnement de l’économie et au bien-être de la population (infrastructures critiques),
   - 5\. l’extrémisme violent;
 
 - b. détecter, observer et évaluer des événements importants en matière de politique de sécurité se produisant à l’étranger;
@@ -136,6 +136,8 @@ Le SRC recherche et traite des informations dans les buts suivants:
 <sup>6</sup> Il réalise des programmes d’information et de sensibilisation sur les menaces pour la sûreté intérieure ou extérieure.
 
 <sup>7</sup> Il assure la protection de ses collaborateurs, de ses installations, de ses sources et des données qu’il a traitées.
+
+[^6-1]: Nouvelle teneur selon l’annexe 1 ch. 2 de la L du 18 déc. 2020 sur la sécurité de l’information, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [FF 2017 2765](https://fedlex.data.admin.ch/eli/fga/2017/647)).
 
 #### Art. 7
 
@@ -159,7 +161,7 @@ Le SRC prend des mesures afin de garantir la protection et la sécurité de ses 
 
 <sup>2</sup> Le SRC exploite un réseau informatique sécurisé pour assurer la protection de ses systèmes d’information dont l’accès doit être particulièrement protégé contre des personnes non autorisées.
 
-[^7-1]: [RS 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
+[^7-1]: [RS 784.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9171)
 
 #### Art. 8
 
@@ -269,7 +271,7 @@ Les informateurs sont des personnes qui:
 
 <sup>5</sup> Les mesures prévues aux al. 3 et 4 sont limitées à la durée de la menace concrète. Lorsque les risques sont particulièrement importants et qu’il faut s’attendre à ce qu’ils persistent, il est donc possible de renoncer exceptionnellement à une limitation dans le temps ou de rendre la mesure illimitée.
 
-[^15-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^15-1]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 16
 
@@ -288,8 +290,8 @@ Il n’est autorisé à procéder à un signalement de personne ou de véhicule 
 
 <sup>3</sup> Il n’est pas autorisé à procéder à un tel signalement pour les véhicules d’un tiers appartenant à l’un des groupes professionnels visés aux art. 171 à 173 du code de procédure pénale (CPP)[^16-2].
 
-[^16-1]: [RS 361](https://fedlex.data.admin.ch/eli/cc/2008/698)
-[^16-2]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^16-1]: [RS 361](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6307)
+[^16-2]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 
 ### Section 2 Couverture et identité d’emprunt
 
@@ -361,9 +363,9 @@ Par menace concrète pour la sûreté intérieure ou extérieure, on entend tout
 
 <sup>5</sup> Le Conseil fédéral désigne dans une ordonnance les organisations tenues de fournir des renseignements, notamment les organisations de droit public ou privé externes à l’administration fédérale qui émettent des actes législatifs ou des décisions de première instance au sens de l’art. 5 de la loi fédérale du 20 décembre 1968 sur la procédure administrative[^19-3] ou qui accomplissent des tâches d’exécution de la Confédération; les cantons sont exceptés.
 
-[^19-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^19-2]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^19-3]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^19-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^19-2]: [RS 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
+[^19-3]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 20
 
@@ -390,7 +392,7 @@ Les autorités mentionnées ci-après sont tenues de fournir au SRC tous les ren
 
 <sup>4</sup> Le Conseil fédéral détermine dans une liste non publique quels événements et constatations doivent être communiqués spontanément au SRC. Il définit l’étendue de l’obligation et règle la procédure de communication.
 
-[^20-1]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^20-1]: [RS 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
 [^20-2]: Erratum de la CdR de l’Ass. féd. du 12 mars 2020, publié le 24 mars 2020 ([RO 2020 1057](https://fedlex.data.admin.ch/eli/oc/2020/187)).
 
 #### Art. 21
@@ -407,7 +409,7 @@ Pour les renseignements visés aux art. 19 ou 20, le secret professionnel garant
 
 <sup>2</sup> Le Tribunal administratif fédéral (TAF) statue conformément à l’art. 36*a* de la loi du 17 juin 2005 sur le Tribunal administratif fédéral[^22-1] sur les divergences d’opinion entre le SRC et une organisation, un organe ou une autorité qui n’appartient pas à l’administration fédérale au sujet des obligations visées aux art. 19 ou 20.
 
-[^22-1]: [RS 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352)
+[^22-1]: [RS 173.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5621)
 
 #### Art. 23
 
@@ -442,7 +444,7 @@ Pour autant que ces informations soient nécessaires pour déceler, prévenir ou
 
 <sup>2</sup> Le SRC peut au surplus obtenir les données visées à l’art. 15 de la loi fédérale du 18 mars 2016 sur la surveillance de la correspondance par poste et télécommunication (LSCPT)[^25-1].[^25-2]
 
-[^25-1]: [RS 780.1](https://fedlex.data.admin.ch/eli/cc/2018/31)
+[^25-1]: [RS 780.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9117)
 [^25-2]: Nouvelle teneur selon l’art. 46 ch. 2 de la LF du du 18 mars 2016 sur la surveillance de la correspondance par poste et télécommunication, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31); [FF 2013 2379](https://fedlex.data.admin.ch/eli/fga/2013/512)).
 
 ### Section 4 Mesures de recherche soumises à autorisation
@@ -456,7 +458,7 @@ Pour autant que ces informations soient nécessaires pour déceler, prévenir ou
 Les mesures suivantes sont soumises à autorisation:
 
 - a.[^26-1] faire surveiller la correspondance par poste et la correspondance par télécommunication et exiger les données secondaires issues de la correspondance par poste et télécommunication conformément à la LSCPT[^26-2];
-- [tab] a<sup>bis</sup>.[^26-3]utiliser des appareils techniques particuliers pour surveiller la correspondance par télécommunication, pour saisir des communications, identifier une personne ou une chose ou encore déterminer leur emplacement, lorsque les mesures de surveillance prévues à la let. a sont restées vaines, n’auraient aucune chance d’aboutir ou seraient excessivement difficiles et que les autorisations nécessaires ressortissant au droit sur les télécommunications sont disponibles pour lesdits appareils;
+- a<sup>bis</sup>.[^26-3] utiliser des appareils techniques particuliers pour surveiller la correspondance par télécommunication, pour saisir des communications, identifier une personne ou une chose ou encore déterminer leur emplacement, lorsque les mesures de surveillance prévues à la let. a sont restées vaines, n’auraient aucune chance d’aboutir ou seraient excessivement difficiles et que les autorisations nécessaires ressortissant au droit sur les télécommunications sont disponibles pour lesdits appareils;
 - b. l’utilisation des appareils de localisation pour déterminer la position et les déplacements de personnes ou d’objets;
 - c. l’utilisation des appareils de surveillance pour écouter ou enregistrer des propos non publics ou pour observer ou enregistrer des événements se produisant dans des lieux non publics ou dans des lieux qui ne sont pas librement accessibles;
 - d.
@@ -471,7 +473,7 @@ Les mesures suivantes sont soumises à autorisation:
 <sup>2</sup> Ces mesures sont exécutées secrètement et à l’insu des personnes concernées.
 
 [^26-1]: Nouvelle teneur selon l’art. 46 ch. 2 de la LF du du 18 mars 2016 sur la surveillance de la correspondance par poste et télécommunication, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31); [FF 2013 2379](https://fedlex.data.admin.ch/eli/fga/2013/512)).
-[^26-2]: [RS 780.1](https://fedlex.data.admin.ch/eli/cc/2018/31)
+[^26-2]: [RS 780.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9117)
 [^26-3]: Introduite par l’art. 46 ch. 2 de la LF du du 18 mars 2016 sur la surveillance de la correspondance par poste et télécommunication, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31); [FF 2013 2379](https://fedlex.data.admin.ch/eli/fga/2013/512)).
 
 #### Art. 27
@@ -498,7 +500,7 @@ Le SRC peut ordonner des mesures de recherche soumises à autorisation lorsque l
 
 <sup>2</sup> Il ne peut ordonner une telle mesure lorsque le tiers appartient à l’un des groupes professionnels visés aux art. 171 à 173 CPP[^28-1].
 
-[^28-1]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^28-1]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 
 #### Art. 29
 
@@ -637,7 +639,7 @@ Il prend en considération les intérêts suivants pour protéger ses sources:
 
 <sup>7</sup> Le SRC veille à la protection de ses collaborateurs en mission à l’étranger.
 
-[^36-1]: [RS 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
+[^36-1]: [RS 833.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10252)
 
 #### Art. 37
 
@@ -894,7 +896,10 @@ Les personnes suivantes ont accès en ligne aux données ci-après du système:
 - a. les collaborateurs du SRC chargés de déceler à temps et de prévenir des menaces contre la Suisse ou sa population: les données et rapports visés à l’al. 3, let. a et b;
 - b. les collaborateurs des autorités d’exécutions cantonales, en vue d’accomplir leurs tâches définies par la présente loi et de traiter et transmettre au SRC et à d’autres autorités d’exécution cantonales des données provenant d’enquêtes préliminaires et des rapports; seuls les collaborateurs de l’autorité qui a mené l’enquête préliminaire et les collaborateurs du SRC chargés du contrôle de qualité ont accès aux données visées à l’al. 3, let. c;
 - c. les collaborateurs de l’Office fédéral de la police: les données visées à l’al. 3, let. a, en vue d’exécuter des tâches de police judiciaire, de police de sécurité et de police administrative et de vérifier les soupçons de blanchiment d’argent et de financement d’activités terroristes communiqués par des établissements financiers suisses;
-- d. les collaborateurs du service du DDPS chargé de la protection des informations et des objets: les données visées à l’al. 3, let. a, en vue d’exécuter les contrôles de sécurité relatifs aux personnes.
+- d.[^51-1] les collaborateurs des services spécialisés chargés de réaliser les contrôles de sécurité relatifs aux personnes au sens de l’art. 31, al. 2, de la loi du 18 décembre 2020 sur la sécurité de l’information[^51-2]: les données visées à l’al. 3, let. a, en vue d’exécuter les contrôles de sécurité relatif aux personnes, les contrôles de loyauté et l’évaluation du potentiel de violence.
+
+[^51-1]: Nouvelle teneur selon l’annexe 1 ch. 2 de la L du 18 déc. 2020 sur la sécurité de l’information, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [FF 2017 2765](https://fedlex.data.admin.ch/eli/fga/2017/647)).
+[^51-2]: [RS 128](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40013)
 
 #### Art. 52
 
@@ -994,9 +999,9 @@ Le Conseil fédéral fixe:
 - c. la durée de conservation des données et de la procédure de destruction des données;
 - d. les dispositions sur la sécurité des données.
 
-[^58-1]: Rectifié par la Commission de rédaction de l’Ass. féd. (art. 58, al. 1, LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
-[^58-2]: Rectifié par la Commission de rédaction de l’Ass. féd. (art. 58, al. 1, LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
-[^58-3]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^58-1]: Rectifié par la Commission de rédaction de l’Ass. féd. (art. 58, al. 1, LParl; [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
+[^58-2]: Rectifié par la Commission de rédaction de l’Ass. féd. (art. 58, al. 1, LParl; [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
+[^58-3]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 
 ### Section 4 Dispositions particulières relatives à la protection des données
 
@@ -1018,8 +1023,8 @@ Le SRC s’assure avant toute communication de données personnelles ou de produ
 
 <sup>4</sup> Il indique la provenance des données aux autorités de poursuite pénale. La suite de la procédure est régie par le CPP[^60-1] ou par la procédure pénale militaire du 23 mars 1979[^60-2].
 
-[^60-1]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^60-2]: [RS 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
+[^60-1]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
+[^60-2]: [RS 322.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6248)
 
 #### Art. 61
 
@@ -1045,9 +1050,9 @@ Si la législation de l’État destinataire n’assure pas un niveau de protect
 
 <sup>6</sup> Si la communication des données personnelles est requise dans le cadre d’une procédure juridique, les dispositions pertinentes relatives à l’entraide judiciaire sont applicables.
 
-[^61-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^61-1]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^61-2]: Nouvelle teneur selon l’annexe 1 ch. II 2 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^61-3]: [RS 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
+[^61-3]: [RS 0.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3)
 
 #### Art. 62
 
@@ -1085,7 +1090,7 @@ Lorsqu’une personne demande si le SRC traite des données la concernant dans l
 
 <sup>5</sup> Le SRC informe les personnes au sujet desquelles il n’a traité aucune donnée au plus tard trois ans à compter de la réception de leur demande.
 
-[^63-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^63-1]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 #### Art. 64
 
@@ -1101,7 +1106,7 @@ Lorsqu’une personne demande si le SRC traite des données la concernant dans l
 
 <sup>5</sup> Si le requérant rend vraisemblable qu’un report de la réponse le léserait gravement et de manière irréparable, le PFPDT peut ordonner au SRC qu’il fournisse immédiatement à titre exceptionnel le renseignement demandé pour autant que sa communication ne constitue pas une menace pour la sûreté intérieure ou extérieure.[^64-5]
 
-[^64-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^64-1]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^64-2]: Nouvelle teneur selon l’annexe 1 ch. II 2 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^64-3]: Abrogé par l’annexe 1 ch. II 2 de la LF du 25 sept. 2020 sur la protection des données, avec effet au 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^64-4]: Nouvelle teneur selon l’annexe 1 ch. II 2 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
@@ -1129,7 +1134,7 @@ Lorsqu’une personne demande si le SRC traite des données la concernant dans l
 
 La loi du 17 décembre 2004 sur la transparence[^67-1] ne s’applique pas à l’accès aux documents officiels portant sur la recherche d’informations au sens de la présente loi.
 
-[^67-1]: [RS 152.3](https://fedlex.data.admin.ch/eli/cc/2006/355)
+[^67-1]: [RS 152.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4937)
 
 ### Section 5 Archivage
 
@@ -1143,7 +1148,7 @@ La loi du 17 décembre 2004 sur la transparence[^67-1] ne s’applique pas à l�
 
 <sup>4</sup> Il détruit les données et les dossiers que les Archives fédérales jugent sans valeur archivistique.
 
-[^68-1]: [RS 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+[^68-1]: [RS 152.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4931)
 
 ## Chapitre 5 Prestations
 
@@ -1245,7 +1250,7 @@ Les organisations et les groupements sont radiés de la liste d’observation da
 [^74-1]: Nouvelle teneur selon l’annexe ch. II 1 de l’AF du 25 sept. 2020 portant approbation et mise en œuvre de la Convention du Conseil de l’Europe pour la prévention du terrorisme et de son Protocole additionnel et concernant le renforcement des normes pénales contre le terrorisme et le crime organisé, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 6469](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 [^74-2]: Nouvelle teneur selon l’annexe ch. II 1 de l’AF du 25 sept. 2020 portant approbation et mise en œuvre de la Convention du Conseil de l’Europe pour la prévention du terrorisme et de son Protocole additionnel et concernant le renforcement des normes pénales contre le terrorisme et le crime organisé, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 6469](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 [^74-3]: Introduit par l’annexe ch. II 1 de l’AF du 25 sept. 2020 portant approbation et mise en œuvre de la Convention du Conseil de l’Europe pour la prévention du terrorisme et de son Protocole additionnel et concernant le renforcement des normes pénales contre le terrorisme et le crime organisé, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 6469](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
-[^74-4]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^74-4]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^74-5]: Nouvelle teneur selon l’annexe ch. II 1 de l’AF du 25 sept. 2020 portant approbation et mise en œuvre de la Convention du Conseil de l’Europe pour la prévention du terrorisme et de son Protocole additionnel et concernant le renforcement des normes pénales contre le terrorisme et le crime organisé, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 6469](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 [^74-6]: Nouvelle teneur selon l’annexe ch. II 1 de l’AF du 25 sept. 2020 portant approbation et mise en œuvre de la Convention du Conseil de l’Europe pour la prévention du terrorisme et de son Protocole additionnel et concernant le renforcement des normes pénales contre le terrorisme et le crime organisé, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 6469](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 
@@ -1288,7 +1293,7 @@ Le Conseil fédéral peut révoquer le chef de l’autorité de surveillance ind
 
 <sup>4</sup> Les rapports de travail du chef de l’autorité de surveillance indépendante et du personnel sont régis par la loi du 24 mars 2000 sur le personnel de la Confédération[^77-1]. Le chef de l’autorité de surveillance indépendante n’est pas soumis au système d’évaluation prévu à l’art. 4, al. 3, de ladite loi.[^77-2]
 
-[^77-1]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^77-1]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 [^77-2]: Erratum de la CdR de l’Ass. féd. du 12 mars 2020, publié le 24 mars 2020 ([RO 2020 1057](https://fedlex.data.admin.ch/eli/oc/2020/187)).
 
 #### Art. 78
@@ -1350,7 +1355,7 @@ Le Conseil fédéral règle:
 
 <sup>2</sup> Les autorités de surveillance parlementaire cantonales peuvent contrôler l’exécution des mesures visées à l’art. 85, al. 1.
 
-[^81-1]: [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)
+[^81-1]: [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)
 
 #### Art. 82
 
@@ -1368,7 +1373,7 @@ Le Conseil fédéral règle:
 
 <sup>6</sup> Le Conseil fédéral règle l’assistance à l’autorité cantonale de surveillance par des services de la Confédération.
 
-[^82-1]: [RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^82-1]: [RS 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
 
 ### Section 3 Voies de droit
 
@@ -1382,7 +1387,7 @@ Le Conseil fédéral règle:
 
 <sup>4</sup> Les décisions du TAF peuvent faire l’objet d’un recours devant le Tribunal fédéral. La procédure est régie par la loi du 17 juin 2005 sur le Tribunal fédéral[^83-1].
 
-[^83-1]: [RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^83-1]: [RS 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
 
 ## Chapitre 7 Dispositions finales
 

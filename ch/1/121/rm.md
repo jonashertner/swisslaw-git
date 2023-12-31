@@ -4,11 +4,11 @@ title: "Lescha federala dals 25 da settember 2015 davart il servetsch d'infurmaz
 short: LSI
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/494"
 language: rm
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2015-09-25
 in_force: 2017-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/494/20230901/rm/xml/fedlex-data-admin-ch-eli-cc-2017-494-20230901-rm-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/494/20230901/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/494/20240101/rm/xml/fedlex-data-admin-ch-eli-cc-2017-494-20240101-rm-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/494/20240101/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (LSI)
 
-dals 25 da settember 2015 (versiun dal 1. da settember 2023)
+dals 25 da settember 2015 (versiun dal 1. da schaner 2024)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -27,7 +27,7 @@ sa basond sin ils artitgels 54 alinea 1, 123 alinea 1 e 173 alinea 2 da la Const
 
 concluda:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: Versiun tenor la cifra II 1 da l’agiunta dal COF dals 25 da sett. 2020 davart l’approvaziun e la realisaziun da la Convenziun dal Cussegl da l’Europa per la prevenziun dal terrorissem e da ses protocol supplementar sco er davart il rinforzament da l’instrumentari penal cunter il terrorissem e la criminalitad organisada, en vigur dapi il 1. da fan. 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 [^ingress-3]: [BBl 2014 2105](https://fedlex.data.admin.ch/eli/fga/2014/407)
 
@@ -118,7 +118,7 @@ La procuraziun e l’elavuraziun d’infurmaziuns dal SIC serva:
   - 1\. terrorissem,
   - 2\. spiunascha,
   - 3\. la derasaziun d’armas nuclearas, biologicas u chemicas, inclusiv lur sistems purtaders, sco er tut la rauba e tut las tecnologias da gener civil e militar che pon vegnir duvradas per construir questas armas (proliferaziun NBC) u dal commerzi illegal cun substanzas radioactivas, cun material da guerra u cun auter material d’armament,
-  - 4\. attatgas sin infrastructuras d’infurmaziun, da communicaziun, d’energia, da transport u d’auter gener ch’èn indispensablas per il funcziunament da la societad, da l’economia e dal stadi (infrastructuras criticas),
+  - 4\.[^6-1] attatgas sin il provediment d’aua da baiver e d’energia, sin infrastructuras d’infurmaziun, da communicaziun e da transport sco er sin ulteriurs process, sistems ed indrizs ch’èn essenzials per il funcziunament da l’economia respectivamain per il bainstar da la populaziun (infrastructuras criticas),
   - 5\. extremissem violent;
 
 - b. a constatar, observar e giuditgar andaments a l’exteriur ch’èn relevants per la politica da segirezza;
@@ -136,6 +136,8 @@ La procuraziun e l’elavuraziun d’infurmaziuns dal SIC serva:
 <sup>6</sup> El realisescha programs per infurmar e per sensibilisar davart smanatschas da la segirezza interna u externa.
 
 <sup>7</sup> El protegia ses collavuraturs, sias installaziuns, sias funtaunas e las datas ch’el tracta.
+
+[^6-1]: Versiun tenor la cifra 2 da l’agiunta 1 da la LF dals 18 da dec. 2020 davart la segirezza da las infurmaziuns, en vigur dapi il 1. da schan. 2024 ([AS 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [BBl 2017 2953](https://fedlex.data.admin.ch/eli/fga/2017/647)).
 
 #### Art. 7
 
@@ -159,7 +161,7 @@ Il SIC prenda mesiras per garantir la protecziun e la segirezza da ses collavura
 
 <sup>2</sup> Il SIC maina ina rait da computer protegida per impedir che persunas nunautorisadas hajan access a ses sistems d’infurmaziun che ston vegnir protegids spezialmain.
 
-[^7-1]: [SR 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
+[^7-1]: [SR 784.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9171)
 
 #### Art. 8
 
@@ -269,7 +271,7 @@ Funtaunas umanas èn persunas che:
 
 <sup>5</sup> Las mesiras tenor ils alineas 3 e 4 èn limitadas a la perioda da la periclitaziun concreta. Excepziunalmain poi vegnir desistì d’ina limitaziun temporara u ina mesira limitada temporarmain po vegnir midada en ina mesira illimitada temporarmain, sche las ristgas per las persunas pertutgadas èn spezialmain grondas e sch’i sto vegnir fatg quint ch’ellas existian vinavant.
 
-[^15-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^15-1]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 16
 
@@ -288,8 +290,8 @@ La publicaziun d’in signalament d’ina persuna u d’in vehichel è mo admess
 
 <sup>3</sup> Il signalament na dastga betg vegnir publitgà per survegliar il vehichel d’ina persuna che appartegna ad ina da las gruppas professiunalas menziunadas en ils artitgels 171–173 dal Cudesch da procedura penala svizzer (CPP)[^16-2].
 
-[^16-1]: [SR 361](https://fedlex.data.admin.ch/eli/cc/2008/698)
-[^16-2]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^16-1]: [SR 361](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6307)
+[^16-2]: [SR 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 
 ### 2. secziun Creaziuns da legendas ed identitads da finta
 
@@ -361,9 +363,9 @@ Ina smanatscha concreta da la segirezza interna u externa è avant maun, sch’i
 
 <sup>5</sup> Il Cussegl federal determinescha en in’ordinaziun las organisaziuns ch’èn obligadas da dar infurmaziuns; latiers tutgan en spezial organisaziuns dal dretg public e dal dretg privat che n’appartegnan betg a l’administraziun federala, uschenavant ch’ellas relaschan decrets u disposiziuns d’emprima instanza en il senn da l’artitgel 5 da la Lescha federala dals 20 december 1968[^19-3] davart la procedura administrativa u uschenavant ch’ellas adempleschan incumbensas d’execuziun ch’èn vegnidas delegadas ad ellas da la Confederaziun; exceptads en ils chantuns.
 
-[^19-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^19-2]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^19-3]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^19-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^19-2]: [SR 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
+[^19-3]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 20
 
@@ -390,7 +392,7 @@ Las suandantas autoritads èn obligadas da dar infurmaziuns al SIC per che quel 
 
 <sup>4</sup> Il Cussegl federal fixescha en ina glista betg publica, tge andaments e tge constataziuns che ston vegnir communitgads al SIC senza intimaziun da sia vart. El circumscriva la dimensiun da l’obligaziun d’annunzia e la procedura d’al dar infurmaziuns.
 
-[^20-1]: [SR 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^20-1]: [SR 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
 [^20-2]: La rectificaziun da la Cumissiun da redacziun da l’AF dals 12 da mars 2020, publitgada ils 24 da mars 2020, concerna mo il text franzos ([AS 2020 1057](https://fedlex.data.admin.ch/eli/oc/2020/187)).
 
 #### Art. 21
@@ -407,7 +409,7 @@ En cas d’infurmaziuns tenor l’artitgel 19 u 20 resta observà il secret prof
 
 <sup>2</sup> En cas da divergenzas d’opiniun tranter il SIC ed in’organisaziun, in organ u in’autoritad, che n’appartegna betg a l’administraziun federala, areguard l’obligaziun da dar infurmaziuns tenor l’artitgel 19 u 20 decida il Tribunal administrativ federal tenor l’artitgel 36*a* da la Lescha dals 17 da zercladur 2005[^22-1] davart il Tribunal administrativ federal.
 
-[^22-1]: [SR 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352)
+[^22-1]: [SR 173.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5621)
 
 #### Art. 23
 
@@ -442,7 +444,7 @@ Sch’igl è necessari per percorscher, per impedir u per dustar ina smanatscha 
 
 <sup>2</sup> Plinavant po il SIC sa procurar infurmaziuns tenor l’artitgel 15 da la Lescha federala dals 18 da mars 2016[^25-1] davart la surveglianza da la posta e da la telecommunicaziun (LSPT).[^25-2]
 
-[^25-1]: [SR 780.1](https://fedlex.data.admin.ch/eli/cc/2018/31)
+[^25-1]: [SR 780.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9117)
 [^25-2]: Versiun tenor l’art. 46 cifra 2 da la LF dals 18 da mars 2016 davart la surveglianza da la posta e da la telecommunicaziun, en vigur dapi il 1. da mars 2018 ([AS 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31); [BBl 2013 2683](https://fedlex.data.admin.ch/eli/fga/2013/512)).
 
 ### 4. secziun Mesiras da procuraziun suttamessas ad in’autorisaziun
@@ -471,7 +473,7 @@ Per las suandantas mesiras da procuraziun dovri in’autorisaziun:
 <sup>2</sup> Las mesiras vegnan fatgas en moda zuppada; la persuna pertutgada na vegn betg infurmada en chaussa.
 
 [^26-1]: Versiun tenor l’art. 46 cifra 2 da la LF dals 18 da mars 2016 davart la surveglianza da la posta e da la telecommunicaziun, en vigur dapi il 1. da mars 2018 ([AS 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31); [BBl 2013 2683](https://fedlex.data.admin.ch/eli/fga/2013/512)).
-[^26-2]: [SR 780.1](https://fedlex.data.admin.ch/eli/cc/2018/31)
+[^26-2]: [SR 780.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9117)
 [^26-3]: Integrà tras l’art. 46 cifra 2 da la LF dals 18 da mars 2016 davart la surveglianza da la posta e da la telecommunicaziun, en vigur dapi il 1. da mars 2018 ([AS 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31); [BBl 2013 2683](https://fedlex.data.admin.ch/eli/fga/2013/512)).
 
 #### Art. 27
@@ -498,7 +500,7 @@ Il SIC po ordinar ina mesira da procuraziun suttamessas ad in’autorisaziun, sc
 
 <sup>2</sup> La mesira na dastga betg vegnir ordinada, sche la persuna appartegna ad ina da las gruppas professiunalas menziunadas en ils artitgels 171–173 CPP[^28-1].
 
-[^28-1]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^28-1]: [SR 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 
 #### Art. 29
 
@@ -637,7 +639,7 @@ Tar la protecziun da funtaunas ston vegnir resguardads:
 
 <sup>7</sup> Il SIC procura per la protecziun da ses collavuraturs ch’èn activs a l’exteriur.
 
-[^36-1]: [SR 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
+[^36-1]: [SR 833.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10252)
 
 #### Art. 37
 
@@ -894,7 +896,10 @@ Las suandantas persunas han en la procedura d’invista access a las suandantas 
 - a. ils collavuraturs dal SIC a las datas tenor l’alinea 3 literas a e b, sch’els èn incumbensads da scuvrir a temp e d’impedir smanatschas per la Svizra e per sia populaziun;
 - b. ils collavuraturs da las autoritads executivas chantunalas per ademplir lur incumbensas tenor questa lescha sco er per elavurar e per transmetter lur datas da scleriments preliminars e lur rapports al SIC ed ad autras autoritads executivas chantunalas; access a las datas tenor l’alinea 3 litera c han exclusivamain ils collavuraturs da l’autoritad executiva chantunala che ha fatg ils scleriments preliminars sco er ils collavuraturs dal post per la garanzia da qualitad dal SIC;
 - c. ils collavuraturs da l’Uffizi federal da polizia a las datas tenor l’alinea 3 litera a per ademplir incumbensas da la polizia da segirezza, da la polizia criminala e da la polizia administrativa sco er per examinar cas da suspect da lavada da daners suspectus e da finanziaziun da terrorissem en cas d’annunzias d’instituts da finanzas svizzers;
-- d. ils collavuraturs dal post da servetsch dal DDPS, ch’è cumpetent per la segirezza da las infurmaziuns e dals objects, a las datas tenor l’alinea 3 litera a per far controllas da segirezza relativas a persunas.
+- d.[^51-1] ils collavuraturs dals posts spezialisads ch’èn cumpetents per realisar las controllas da segirezza da persunas tenor l’artitgel 31 alinea 2 da la Lescha dals 18 da december 2020[^51-2] davart la segirezza da las infurmaziuns a las datas tenor l’alinea 3 litera a per realisar controllas da segirezza da persunas, per examinar la confidenza sco er per giuditgar il potenzial da violenza.
+
+[^51-1]: Versiun tenor la cifra 2 da l’agiunta 1 da la LF dals 18 da dec. 2020 davart la segirezza da las infurmaziuns, en vigur dapi il 1. da schan. 2024 ([AS 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [BBl 2017 2953](https://fedlex.data.admin.ch/eli/fga/2017/647)).
+[^51-2]: [SR 128](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40013)
 
 #### Art. 52
 
@@ -994,8 +999,8 @@ Il Cussegl federal regla:
 - c. la durada da la conservaziun da las datas e la procedura per stizzar las datas;
 - d. la segirezza da las datas.
 
-[^58-1]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^58-2]: Rectifitgà da la Cumissiun da redacziun da l’AF (art. 58 al. 1 LParl; [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^58-1]: [SR 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
+[^58-2]: Rectifitgà da la Cumissiun da redacziun da l’AF (art. 58 al. 1 LParl; [SR 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 
 ### 4. secziun Disposiziuns spezialas davart la protecziun da datas
 
@@ -1017,8 +1022,8 @@ Il SIC examinescha avant mintga communicaziun da datas da persunas u da products
 
 <sup>4</sup> Il SIC inditgescha l’origin da las datas a las autoritads da persecuziun penala. L’ulteriura procedura sa drizza tenor il CPP[^60-1] u tenor la Procedura penala militara dals 23 da mars 1979[^60-2].
 
-[^60-1]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^60-2]: [SR 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
+[^60-1]: [SR 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
+[^60-2]: [SR 322.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6248)
 
 #### Art. 61
 
@@ -1044,9 +1049,9 @@ Sche la legislaziun dal stadi che retschaiva las datas na garantescha nagina pro
 
 <sup>6</sup> Sche las datas da persunas vegnan duvradas en ina procedura giuridica, valan las disposiziuns decisivas davart l’assistenza giudiziala.
 
-[^61-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^61-1]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^61-2]: Versiun tenor la cifra II 2 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^61-3]: [SR 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
+[^61-3]: [SR 0.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3)
 
 #### Art. 62
 
@@ -1084,7 +1089,7 @@ Sch’ina persuna pretenda infurmaziuns davart la dumonda, sch’il SIC elavures
 
 <sup>5</sup> Persunas, da las qualas n’èn vegnidas elavuradas naginas datas, infurmescha il SIC davart quest fatg il pli tard 3 onns suenter che lur dumonda è entrada.
 
-[^63-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^63-1]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 #### Art. 64
 
@@ -1100,7 +1105,7 @@ Sch’ina persuna pretenda infurmaziuns davart la dumonda, sch’il SIC elavures
 
 <sup>5</sup> Sche la persuna petenta preschenta en moda vardaivla ch’ella haja in donn considerabel ed irreparabel pervia da la suspensiun d’ina infurmaziun, po il IFPDT disponer, ch’il SIC dettia excepziunalmain immediatamain infurmaziuns, premess che quai na chaschunia betg ina periclitaziun da la segirezza interna u externa.[^64-5]
 
-[^64-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^64-1]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^64-2]: Versiun tenor la cifra II 2 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^64-3]: Abolì tras la cifra II 2 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, cun effect dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^64-4]: Versiun tenor la cifra II 2 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
@@ -1128,7 +1133,7 @@ Sch’ina persuna pretenda infurmaziuns davart la dumonda, sch’il SIC elavures
 
 La Lescha federala dals 17 da december 2004[^67-1] davart il princip da la transparenza da l’administraziun na vala betg per l’access a documents uffizials concernent la procuraziun d’infurmaziuns tenor questa lescha.
 
-[^67-1]: [SR 152.3](https://fedlex.data.admin.ch/eli/cc/2006/355)
+[^67-1]: [SR 152.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4937)
 
 ### 5. secziun Archivaziun
 
@@ -1142,7 +1147,7 @@ La Lescha federala dals 17 da december 2004[^67-1] davart il princip da la trans
 
 <sup>4</sup> El eliminescha las datas e las actas ch’il Tribunal federal ha designà sco betg degnas da vegnir archivadas.
 
-[^68-1]: [SR 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+[^68-1]: [SR 152.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4931)
 
 ## 5. chapitel Prestaziuns
 
@@ -1243,9 +1248,9 @@ In’organisaziun u gruppaziun vegn stritgada da la glista d’observaziun, sche
 
 [^74-1]: Versiun tenor la cifra II 1 da l’agiunta dal COF dals 25 da sett. 2020 davart l’approvaziun e la realisaziun da la Convenziun dal Cussegl da l’Europa per la prevenziun dal terrorissem e da ses protocol supplementar sco er davart il rinforzament da l’instrumentari penal cunter il terrorissem e la criminalitad organisada, en vigur dapi il 1. da fan. 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 [^74-2]: Versiun tenor la cifra II 1 da l’agiunta dal COF dals 25 da sett. 2020 davart l’approvaziun e la realisaziun da la Convenziun dal Cussegl da l’Europa per la prevenziun dal terrorissem e da ses protocol supplementar sco er davart il rinforzament da l’instrumentari penal cunter il terrorissem e la criminalitad organisada, en vigur dapi il 1. da fan. 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
-[^74-3]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^74-3]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^74-4]: Integrà tras la cifra II 1 da l’agiunta dal COF dals 25 da sett. 2020 davart l’approvaziun e la realisaziun da la Convenziun dal Cussegl da l’Europa per la prevenziun dal terrorissem e da ses protocol supplementar sco er davart il rinforzament da l’instrumentari penal cunter il terrorissem e la criminalitad organisada, en vigur dapi il 1. da fan. 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
-[^74-5]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^74-5]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^74-6]: Versiun tenor la cifra II 1 da l’agiunta dal COF dals 25 da sett. 2020 davart l’approvaziun e la realisaziun da la Convenziun dal Cussegl da l’Europa per la prevenziun dal terrorissem e da ses protocol supplementar sco er davart il rinforzament da l’instrumentari penal cunter il terrorissem e la criminalitad organisada, en vigur dapi il 1. da fan. 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 [^74-7]: Versiun tenor la cifra II 1 da l’agiunta dal COF dals 25 da sett. 2020 davart l’approvaziun e la realisaziun da la Convenziun dal Cussegl da l’Europa per la prevenziun dal terrorissem e da ses protocol supplementar sco er davart il rinforzament da l’instrumentari penal cunter il terrorissem e la criminalitad organisada, en vigur dapi il 1. da fan. 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 
@@ -1288,7 +1293,7 @@ El po vegnir suspendì dal Cussegl federal da ses uffizi avant la scadenza da la
 
 <sup>4</sup> La relaziun da lavur dal manader sco er dal persunal da l’autoritad independenta da surveglianza sa drizza tenor la Lescha dals 24 da mars 2000[^77-1] davart il persunal da la Confederaziun. Il manader n’è betg suttamess al sistem da giudicat tenor l’artitgel 4 alinea 3 da la Lescha davart il persunal da la Confederaziun.[^77-2]
 
-[^77-1]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^77-1]: [SR 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 [^77-2]: La rectificaziun da la Cumissiun da redacziun da l’AF dals 12 da mars 2020, publitgada ils 24 da mars 2020, concerna mo il text franzos ([AS 2020 1057](https://fedlex.data.admin.ch/eli/oc/2020/187)).
 
 #### Art. 78
@@ -1350,7 +1355,7 @@ Il Cussegl federal regla:
 
 <sup>2</sup> Ils organs da surveglianza parlamentars chantunals pon controllar l’execuziun tenor l’artitgel 85 alinea 1.
 
-[^81-1]: [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)
+[^81-1]: [SR 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)
 
 #### Art. 82
 
@@ -1368,7 +1373,7 @@ Il Cussegl federal regla:
 
 <sup>6</sup> Il Cussegl federal regla il sustegn da la surveglianza ierarchica chantunala tras posts da la Confederaziun.
 
-[^82-1]: [SR 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^82-1]: [SR 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
 
 ### 3. secziun Protecziun giuridica
 
@@ -1382,7 +1387,7 @@ Il Cussegl federal regla:
 
 <sup>4</sup> Cunter decisiuns da recurs dal Tribunal administrativ federal poi vegnir fatg recurs tar il Tribunal federal. La procedura sa drizza tenor la Lescha dals 17 da zercladur 2005[^83-1] davart il Tribunal federal.
 
-[^83-1]: [SR 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^83-1]: [SR 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
 
 ## 7. chapitel Disposiziuns finalas
 

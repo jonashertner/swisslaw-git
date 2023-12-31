@@ -4,11 +4,11 @@ title: Legge federale del 25 settembre 2015 sulle attività informative (LAIn)
 short: LAIn
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/494"
 language: it
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2015-09-25
 in_force: 2017-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/494/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2017-494-20230901-it-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/494/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/494/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2017-494-20240101-it-xml-12.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/494/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/494/20230901/it"
 
 (LAIn)
 
-del 25 settembre 2015 (Stato 1° settembre 2023)
+del 25 settembre 2015 (Stato 1° gennaio 2024)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -25,8 +25,8 @@ visti gli articoli 54 capoverso 1, 123 capoverso 1 e 173 capoverso 2 della Costi
 
 decreta:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^ingress-2]: Nuovo testo giusta l’all. n. II 1 del DF del 25 set. 2020 che approva e traspone nel diritto svizzero la Convenzione del Consiglio d’Europa per la prevenzione del terrorismo e il relativo Protocollo addizionale e potenzia il dispositivo penale contro il terrorismo e la criminalità organizzata, in vigore dal 1° lug. 2021 ([RU 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 5439](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
+[^ingress-2]: Nuovo testo giusta l’all. cifra II n. 1 del DF del 25 set. 2020 che approva e traspone nel diritto svizzero la Convenzione del Consiglio d’Europa per la prevenzione del terrorismo e il relativo Protocollo addizionale e potenzia il dispositivo penale contro il terrorismo e la criminalità organizzata, in vigore dal 1° lug. 2021 ([RU 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 5439](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 [^ingress-3]: [FF 2014 1885](https://fedlex.data.admin.ch/eli/fga/2014/407)
 
 ## Capitolo 1: Disposizioni generali e principi dell’acquisizione di informazioni
@@ -48,7 +48,7 @@ La presente legge disciplina:
 La presente legge ha lo scopo di tutelare interessi nazionali importanti; intende:
 
 - a. contribuire a garantire i fondamenti della democrazia e dello Stato di diritto della Svizzera e a proteggere i diritti di libertà della sua popolazione;
-- b. accrescere la sicurezza della popolazione della Svizzera e degli Svizzeri all’estero; (Stato 1° settembre 2023)
+- b. accrescere la sicurezza della popolazione della Svizzera e degli Svizzeri all’estero;
 - c. sostenere la capacità d’azione della Svizzera;
 - d. contribuire a tutelare gli interessi internazionali in materia di sicurezza.
 
@@ -116,7 +116,7 @@ Il SIC acquisisce e tratta informazioni al fine di:
   - 1\. dal terrorismo,
   - 2\. dallo spionaggio,
   - 3\. dalla proliferazione di armi nucleari, biologiche o chimiche, compresi i loro sistemi vettori nonché tutti i beni e tutte le tecnologie a duplice impiego civile e militare necessari per la fabbricazione di tali armi (proliferazione NBC), o dal commercio illegale di sostanze radioattive, materiale bellico e altri beni d’armamento,
-  - 4\. da attacchi a infrastrutture nei settori dell’informazione, della comunicazione, dell’energia, dei trasporti e di altro genere, indispensabili per il funzionamento della società, dell’economia e dello Stato (infrastrutture critiche),
+  - 4\.[^6-1] da attacchi a infrastrutture per l’approvvigionamento di acqua potabile e di energia, a infrastrutture nei settori dell’informazione, della comunicazione e dei trasporti nonché ad altri processi, sistemi e installazioni essenziali per il funzionamento dell’economia e il benessere della popolazione (infrastrutture critiche),
   - 5\. dall’estremismo violento;
 
 - b. accertare, osservare e valutare fatti rilevanti sotto il profilo della politica di sicurezza che avvengono all’estero;
@@ -134,6 +134,8 @@ Il SIC acquisisce e tratta informazioni al fine di:
 <sup>6</sup> Il SIC realizza programmi di informazione e sensibilizzazione in merito alle minacce per la sicurezza interna o esterna.
 
 <sup>7</sup> Il SIC protegge i suoi collaboratori, le sue installazioni, le sue fonti e i dati che tratta.
+
+[^6-1]: Nuovo testo giusta l’all. 1 n. 2 della L del 18 dic. 2020 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [FF 2017 2563](https://fedlex.data.admin.ch/eli/fga/2017/647)).
 
 #### Art. 7
 
@@ -157,7 +159,7 @@ Il SIC adotta misure per garantire la protezione e la sicurezza dei suoi collabo
 
 <sup>2</sup> Il SIC gestisce una rete informatica protetta per impedire a persone non autorizzate di accedere ai propri sistemi d’informazione che necessitano di una protezione particolare.
 
-[^7-1]: [RS 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
+[^7-1]: [RS 784.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9171)
 
 #### Art. 8
 
@@ -237,7 +239,7 @@ Sono fonti d’informazione pubbliche segnatamente:
 - c.[^13-1] i dati personali che privati rendono accessibili al pubblico;
 - d. le dichiarazioni rese in pubblico.
 
-[^13-1]: Nuovo testo giusta l’all. 1 n. II 2 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^13-1]: Nuovo testo giusta l’all. 1 cifra II n. 2 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 14
 
@@ -267,7 +269,7 @@ Per fonti umane si intendono persone che:
 
 <sup>5</sup> Le misure di cui ai capoversi 3 e 4 sono limitate al periodo di tempo durante il quale sussiste un pericolo concreto. Eccezionalmente, è possibile rinunciare a una limitazione temporale o commutare una misura limitata nel tempo in una misura a tempo indeterminato se i rischi per gli interessati sono particolarmente elevati e si deve ritenere che perdureranno.
 
-[^15-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^15-1]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 16
 
@@ -286,8 +288,8 @@ La segnalazione di una persona o di un veicolo è ammessa unicamente se sussisto
 
 <sup>3</sup> La segnalazione non è ammessa se è finalizzata a sorvegliare il veicolo di terzi appartenenti a uno dei gruppi professionali di cui agli articoli 171–173 del Codice di procedura penale (CPP)[^16-2].
 
-[^16-1]: [RS 361](https://fedlex.data.admin.ch/eli/cc/2008/698)
-[^16-2]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^16-1]: [RS 361](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6307)
+[^16-2]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 
 ### Sezione 2: Coperture e identità fittizie
 
@@ -359,9 +361,9 @@ Una minaccia concreta per la sicurezza interna o esterna sussiste quando è a re
 
 <sup>5</sup> Il Consiglio federale designa mediante ordinanza le organizzazioni tenute a fornire informazioni, segnatamente le organizzazioni di diritto pubblico o privato esterne all’Amministrazione federale, in quanto emanino atti normativi o decisioni di prima istanza ai sensi dell’articolo 5 della legge federale del 20 dicembre 1968[^19-3] sulla procedura amministrativa oppure svolgano compiti federali d’esecuzione loro attribuiti; sono eccettuati i Cantoni.
 
-[^19-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^19-2]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^19-3]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^19-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^19-2]: [RS 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
+[^19-3]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 20
 
@@ -388,7 +390,7 @@ Le seguenti autorità sono tenute a fornire al SIC le informazioni necessarie pe
 
 <sup>4</sup> Il Consiglio federale stabilisce in un elenco non pubblico quali fatti e constatazioni devono essere comunicati spontaneamente al SIC. Definisce l’estensione dell’obbligo di comunicazione e la procedura per fornire le informazioni.
 
-[^20-1]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^20-1]: [RS 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
 [^20-2]: La correzione della Commissione di redazione dell’AF del 12 mar. 2020, pubblicata il 24 mar. 2020, concerne solamente il testo francese ([RU 2020 1057](https://fedlex.data.admin.ch/eli/oc/2020/187)).
 
 #### Art. 21
@@ -405,7 +407,7 @@ Per le informazioni di cui agli articoli 19 e 20 il segreto professionale tutela
 
 <sup>2</sup> In caso di divergenze d’opinione tra il SIC e un’organizzazione, un organo o un’autorità non appartenente all’Amministrazione federale riguardo all’obbligo di informazione secondo l’articolo 19 o 20 decide il Tribunale amministrativo federale (TAF) secondo l’articolo 36*a* della legge del 17 giugno 2005[^22-1] sul Tribunale amministrativo federale.
 
-[^22-1]: [RS 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352)
+[^22-1]: [RS 173.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5621)
 
 #### Art. 23
 
@@ -440,7 +442,7 @@ Se è necessario per individuare, scongiurare o sventare una minaccia concreta p
 
 <sup>2</sup> Il SIC può inoltre richiedere informazioni secondo l’articolo 15 della legge federale del 18 marzo 2016[^25-1] sulla sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni (LSCPT).[^25-2]
 
-[^25-1]: [RS 780.1](https://fedlex.data.admin.ch/eli/cc/2018/31)
+[^25-1]: [RS 780.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9117)
 [^25-2]: Nuovo testo giusta l’art. 46 n. 2 della LF del 18 mar. 2016 sulla sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni, in vigore dal 1° mar. 2018 ([RU 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31); [FF 2013 2283](https://fedlex.data.admin.ch/eli/fga/2013/512)).
 
 ### Sezione 4: Misure di acquisizione soggette ad autorizzazione
@@ -469,7 +471,7 @@ Le seguenti misure di acquisizione sono soggette ad autorizzazione:
 <sup>2</sup> Le misure sono eseguite in segreto; la persona interessata non viene informata.
 
 [^26-1]: Nuovo testo giusta l’art. 46 n. 2 della LF del 18 mar. 2016 sulla sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni, in vigore dal 1° mar. 2018 ([RU 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31); [FF 2013 2283](https://fedlex.data.admin.ch/eli/fga/2013/512)).
-[^26-2]: [RS 780.1](https://fedlex.data.admin.ch/eli/cc/2018/31)
+[^26-2]: [RS 780.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9117)
 [^26-3]: Introdotta dall’art. 46 n. 2 della LF del 18 mar. 2016 sulla sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni, in vigore dal 1° mar. 2018 ([RU 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31); [FF 2013 2283](https://fedlex.data.admin.ch/eli/fga/2013/512)).
 
 #### Art. 27
@@ -496,7 +498,7 @@ Il SIC può ordinare una misura di acquisizione soggetta ad autorizzazione a con
 
 <sup>2</sup> La misura non può essere ordinata se i terzi appartengono a uno dei gruppi professionali menzionati negli articoli 171–173 CPP[^28-1].
 
-[^28-1]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^28-1]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 
 #### Art. 29
 
@@ -525,7 +527,7 @@ Se intende ordinare una misura di acquisizione soggetta ad autorizzazione, il SI
 
 <sup>7</sup> Se è necessaria una proroga, prima della scadenza della durata autorizzata il SIC presenta al TAF una domanda motivata secondo il capoverso 1.
 
-<sup>8</sup> Il presidente della corte competente del TAF redige ogni anno un rapporto d’attività all’attenzione della Delegazione delle Commissioni della gestione (DelCG).
+<sup>8</sup> Il presidente della corte competente del TAF redige ogni anno un rapporto d’attività all’attenzione della Delegazione delle Commissioni della gestione (DelCdG).
 
 #### Art. 30
 
@@ -635,7 +637,7 @@ Per la protezione delle fonti devono essere considerati:
 
 <sup>7</sup> Il SIC provvede alla protezione dei suoi collaboratori impiegati all’estero.
 
-[^36-1]: [RS 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
+[^36-1]: [RS 833.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10252)
 
 #### Art. 37
 
@@ -761,7 +763,7 @@ Se intende assegnare un mandato per l’esplorazione di segnali via cavo, il SIC
 
 <sup>4</sup> Il SIC può correlare i dati all’interno di un sistema d’informazione e analizzarli in modo automatizzato.
 
-[^44-1]: Nuovo testo giusta l’all. 1 n. II 2 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^44-1]: Nuovo testo giusta l’all. 1 cifra II n. 2 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 45
 
@@ -795,7 +797,7 @@ L’organo interno di controllo della qualità del SIC assume i compiti seguenti
 
 <sup>3</sup> Le autorità d’esecuzione cantonali possono trasmettere valutazioni della situazione e dati ricevuti dal SIC se ciò è necessario alla valutazione di misure per la salvaguardia della sicurezza o per sventare una minaccia considerevole. Il Consiglio federale stabilisce a quali servizi possono essere trasmessi questi dati e in quale misura.
 
-[^46-1]: Nuovo testo giusta l’all. 1 n. II 2 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^46-1]: Nuovo testo giusta l’all. 1 cifra II n. 2 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### Sezione 2: Sistemi d’informazione per le attività informative
 
@@ -892,7 +894,10 @@ Le seguenti persone hanno accesso mediante procedura di richiamo ai dati di INDE
 - a. i collaboratori del SIC incaricati di individuare tempestivamente e sventare minacce contro la Svizzera e la sua popolazione, ai dati di cui al capoverso 3 lettere a e b;
 - b. i collaboratori delle autorità d’esecuzione cantonali per l’adempimento dei loro compiti secondo la presente legge nonché per il trattamento e la trasmissione al SIC e ad altre autorità d’esecuzione cantonali di dati risultanti da accertamenti preliminari e di rapporti; hanno accesso ai dati di cui al capoverso 3 lettera c unicamente i collaboratori dell’autorità d’esecuzione cantonale che ha eseguito gli accertamenti preliminari e i collaboratori dell’organo di controllo della qualità del SIC;
 - c. i collaboratori dell’Ufficio federale di polizia, ai dati di cui al capoverso 3 lettera a per l’esecuzione di compiti di polizia di sicurezza, di polizia giudiziaria e di polizia amministrativa, nonché per l’esame di casi di sospetto riciclaggio di denaro e finanziamento del terrorismo comunicati da istituti finanziari svizzeri;
-- d. i collaboratori del servizio del DDPS competente per la protezione delle informazioni e delle opere, ai dati di cui al capoverso 3 lettera a per l’esecuzione di controlli di sicurezza relativi alle persone.
+- d.[^51-1] i collaboratori dei servizi specializzati competenti per l’esecuzione dei controlli di sicurezza relativi alle persone secondo l’articolo 31 capoverso 2 della legge del 18 dicembre 2020[^51-2] sulla sicurezza delle informazioni, ai dati di cui al capoverso 3 lettera a per l’esecuzione di controlli di sicurezza relativi alle persone, per verifiche dell’affidabilità e per la valutazione del potenziale di violenza.
+
+[^51-1]: Nuovo testo giusta l’all. 1 n. 2 della L del 18 dic. 2020 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [FF 2017 2563](https://fedlex.data.admin.ch/eli/fga/2017/647)).
+[^51-2]: [RS 128](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40013)
 
 #### Art. 52
 
@@ -992,8 +997,8 @@ Il Consiglio federale disciplina:
 - c. la durata di conservazione dei dati e la procedura per la loro distruzione;
 - d. la sicurezza dei dati.
 
-[^58-1]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^58-2]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510))
+[^58-1]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
+[^58-2]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991))
 
 ### Sezione 4: Disposizioni particolari sulla protezione dei dati
 
@@ -1015,8 +1020,8 @@ Prima di ogni comunicazione di dati personali o di prodotti, il SIC si assicura 
 
 <sup>4</sup> Il SIC indica alle autorità di perseguimento penale la provenienza dei dati. Il seguito della procedura è retto dalle disposizioni del CPP[^60-1] o della Procedura penale militare del 23 marzo 1979[^60-2].
 
-[^60-1]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^60-2]: [RS 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
+[^60-1]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
+[^60-2]: [RS 322.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6248)
 
 #### Art. 61
 
@@ -1042,9 +1047,9 @@ Se la legislazione dello Stato destinatario non assicura una protezione adeguata
 
 <sup>6</sup> Se i dati personali sono richiesti nel quadro di un procedimento legale, si applicano le disposizioni determinanti in materia di assistenza giudiziaria.
 
-[^61-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^61-2]: Nuovo testo giusta l’all. 1 n. II 2 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^61-3]: [RS 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
+[^61-1]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^61-2]: Nuovo testo giusta l’all. 1 cifra II n. 2 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^61-3]: [RS 0.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3)
 
 #### Art. 62
 
@@ -1082,7 +1087,7 @@ Qualora una persona domandi al SIC se stia trattando dati che la concernono nei 
 
 <sup>5</sup> Il SIC informa le persone di cui non ha trattato alcun dato entro tre anni dal ricevimento della loro domanda.
 
-[^63-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^63-1]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 #### Art. 64
 
@@ -1098,17 +1103,17 @@ Qualora una persona domandi al SIC se stia trattando dati che la concernono nei 
 
 <sup>5</sup> Qualora il richiedente renda verosimile che il differimento dell’informazione gli arrecherebbe un danno rilevante e irreparabile, l’IFPDT può ordinare al SIC di fornire immediatamente, a titolo eccezionale, le informazioni richieste, sempre che ciò non pregiudichi la sicurezza interna o esterna.[^64-5]
 
-[^64-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^64-2]: Nuovo testo giusta l’all. 1 n. II 2 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^64-3]: Abrogato dall’all. 1 n. II 2 della LF del 25 set. 2020 sulla protezione dei dati, con effetto dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^64-4]: Nuovo testo giusta l’all. 1 n. II 2 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^64-5]: Nuovo testo giusta l’all. 1 n. II 2 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^64-1]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^64-2]: Nuovo testo giusta l’all. 1 cifra II n. 2 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^64-3]: Abrogato dall’all. 1 cifra II n. 2 della LF del 25 set. 2020 sulla protezione dei dati, con effetto dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^64-4]: Nuovo testo giusta l’all. 1 cifra II n. 2 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^64-5]: Nuovo testo giusta l’all. 1 cifra II n. 2 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 65
 
 [^65-1]
 
-[^65-1]: Abrogato dall’all. 1 n. II 2 della LF del 25 set. 2020 sulla protezione dei dati, con effetto dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^65-1]: Abrogato dall’all. 1 cifra II n. 2 della LF del 25 set. 2020 sulla protezione dei dati, con effetto dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 66
 
@@ -1118,7 +1123,7 @@ Qualora una persona domandi al SIC se stia trattando dati che la concernono nei 
 
 <sup>2</sup> Non sono impugnabili.
 
-[^66-1]: Nuovo testo giusta l’all. 1 n. II 2 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^66-1]: Nuovo testo giusta l’all. 1 cifra II n. 2 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 67
 
@@ -1126,7 +1131,7 @@ Qualora una persona domandi al SIC se stia trattando dati che la concernono nei 
 
 La legge del 17 dicembre 2004[^67-1] sulla trasparenza non si applica all’accesso a documenti ufficiali riguardanti l’acquisizione di informazioni secondo la presente legge.
 
-[^67-1]: [RS 152.3](https://fedlex.data.admin.ch/eli/cc/2006/355)
+[^67-1]: [RS 152.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4937)
 
 ### Sezione 5: Archiviazione
 
@@ -1140,7 +1145,7 @@ La legge del 17 dicembre 2004[^67-1] sulla trasparenza non si applica all’acce
 
 <sup>4</sup> Il SIC distrugge i dati e i documenti che l’Archivio federale considera privi di valore archivistico.
 
-[^68-1]: [RS 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+[^68-1]: [RS 152.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4931)
 
 ## Capitolo 5: Prestazioni
 
@@ -1170,7 +1175,7 @@ Se sussiste un interesse informativo o un altro interesse pubblico, il SIC può 
 Il Consiglio federale assicura la direzione politica del SIC, assumendo in particolare i compiti seguenti:
 
 - a. assegna al SIC un mandato di base e lo rinnova almeno ogni quattro anni; il mandato di base è segreto;
-- b. approva ogni anno la lista d’osservazione di cui all’articolo 72 e la trasmette alla DelCG; la lista d’osservazione è confidenziale;
+- b. approva ogni anno la lista d’osservazione di cui all’articolo 72 e la trasmette alla DelCdG; la lista d’osservazione è confidenziale;
 - c. designa ogni anno i gruppi da considerare di matrice estremista violenta e prende atto del numero di estremisti violenti non ancora attribuibili ad un gruppo noto;
 - d. valuta ogni anno la situazione di minaccia e se necessario in caso di eventi particolari, e informa le Camere federali e il pubblico;
 - e. ordina le misure necessarie in caso di situazioni di minaccia particolari;
@@ -1190,7 +1195,7 @@ Il Consiglio federale assicura la direzione politica del SIC, assumendo in parti
 
 <sup>3</sup> Le misure di acquisizione soggette ad autorizzazione sottostanno alla procedura di autorizzazione secondo gli articoli 26–33.
 
-<sup>4</sup> Se assegna un mandato secondo il capoverso 1, il Consiglio federale ne informa entro 24 ore la DelCG.
+<sup>4</sup> Se assegna un mandato secondo il capoverso 1, il Consiglio federale ne informa entro 24 ore la DelCdG.
 
 #### Art. 72
 
@@ -1239,13 +1244,13 @@ Le organizzazioni e i gruppi sono stralciati dalla lista d’osservazione quando
 
 <sup>7</sup> Le autorità competenti comunicano senza indugio e gratuitamente al SIC tutte le sentenze, i decreti penali e le decisioni di abbandono nella loro versione integrale.[^74-7]
 
-[^74-1]: Nuovo testo giusta l’all. n. II 1 del DF del 25 set. 2020 che approva e traspone nel diritto svizzero la Convenzione del Consiglio d’Europa per la prevenzione del terrorismo e il relativo Protocollo addizionale e potenzia il dispositivo penale contro il terrorismo e la criminalità organizzata, in vigore dal 1° lug. 2021 ([RU 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 5439](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
-[^74-2]: Nuovo testo giusta l’all. n. II 1 del DF del 25 set. 2020 che approva e traspone nel diritto svizzero la Convenzione del Consiglio d’Europa per la prevenzione del terrorismo e il relativo Protocollo addizionale e potenzia il dispositivo penale contro il terrorismo e la criminalità organizzata, in vigore dal 1° lug. 2021 ([RU 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 5439](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
-[^74-3]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^74-4]: Introdotto dall’all. n. II 1 del DF del 25 set. 2020 che approva e traspone nel diritto svizzero la Convenzione del Consiglio d’Europa per la prevenzione del terrorismo e il relativo Protocollo addizionale e potenzia il dispositivo penale contro il terrorismo e la criminalità organizzata, in vigore dal 1° lug. 2021 ([RU 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 5439](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
-[^74-5]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^74-6]: Nuovo testo giusta l’all. n. II 1 del DF del 25 set. 2020 che approva e traspone nel diritto svizzero la Convenzione del Consiglio d’Europa per la prevenzione del terrorismo e il relativo Protocollo addizionale e potenzia il dispositivo penale contro il terrorismo e la criminalità organizzata, in vigore dal 1° lug. 2021 ([RU 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 5439](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
-[^74-7]: Nuovo testo giusta l’all. n. II 1 del DF del 25 set. 2020 che approva e traspone nel diritto svizzero la Convenzione del Consiglio d’Europa per la prevenzione del terrorismo e il relativo Protocollo addizionale e potenzia il dispositivo penale contro il terrorismo e la criminalità organizzata, in vigore dal 1° lug. 2021 ([RU 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 5439](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^74-1]: Nuovo testo giusta l’all. cifra II n. 1 del DF del 25 set. 2020 che approva e traspone nel diritto svizzero la Convenzione del Consiglio d’Europa per la prevenzione del terrorismo e il relativo Protocollo addizionale e potenzia il dispositivo penale contro il terrorismo e la criminalità organizzata, in vigore dal 1° lug. 2021 ([RU 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 5439](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^74-2]: Nuovo testo giusta l’all. cifra II n. 1 del DF del 25 set. 2020 che approva e traspone nel diritto svizzero la Convenzione del Consiglio d’Europa per la prevenzione del terrorismo e il relativo Protocollo addizionale e potenzia il dispositivo penale contro il terrorismo e la criminalità organizzata, in vigore dal 1° lug. 2021 ([RU 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 5439](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^74-3]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^74-4]: Introdotto dall’all. cifra II n. 1 del DF del 25 set. 2020 che approva e traspone nel diritto svizzero la Convenzione del Consiglio d’Europa per la prevenzione del terrorismo e il relativo Protocollo addizionale e potenzia il dispositivo penale contro il terrorismo e la criminalità organizzata, in vigore dal 1° lug. 2021 ([RU 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 5439](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^74-5]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^74-6]: Nuovo testo giusta l’all. cifra II n. 1 del DF del 25 set. 2020 che approva e traspone nel diritto svizzero la Convenzione del Consiglio d’Europa per la prevenzione del terrorismo e il relativo Protocollo addizionale e potenzia il dispositivo penale contro il terrorismo e la criminalità organizzata, in vigore dal 1° lug. 2021 ([RU 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 5439](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^74-7]: Nuovo testo giusta l’all. cifra II n. 1 del DF del 25 set. 2020 che approva e traspone nel diritto svizzero la Convenzione del Consiglio d’Europa per la prevenzione del terrorismo e il relativo Protocollo addizionale e potenzia il dispositivo penale contro il terrorismo e la criminalità organizzata, in vigore dal 1° lug. 2021 ([RU 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 5439](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 
 ### Sezione 2: Controllo e vigilanza del SIC
 
@@ -1286,7 +1291,7 @@ Il Consiglio federale può destituire il capo dell’autorità di vigilanza prim
 
 <sup>4</sup> I rapporti di lavoro del capo dell’autorità di vigilanza e del personale sono retti dalla legge del 24 marzo 2000[^77-1] sul personale federale. Al capo dell’autorità di vigilanza non si applica il sistema di valutazione di cui all’articolo 4 capoverso 3 della legge sul personale federale.[^77-2]
 
-[^77-1]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^77-1]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 [^77-2]: La correzione della Commissione di redazione dell’AF del 12 mar. 2020, pubblicata il 24 mar. 2020, concerne solamente il testo francese ([RU 2020 1057](https://fedlex.data.admin.ch/eli/oc/2020/187)).
 
 #### Art. 78
@@ -1307,7 +1312,7 @@ Il Consiglio federale può destituire il capo dell’autorità di vigilanza prim
 
 <sup>7</sup> Il DDPS provvede all’attuazione delle raccomandazioni. Se rifiuta una raccomandazione, il DDPS la sottopone al Consiglio federale per decisione.
 
-[^78-1]: Nuovo testo giusta l’all. 1 n. II 2 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^78-1]: Nuovo testo giusta l’all. 1 cifra II n. 2 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 79
 
@@ -1336,19 +1341,19 @@ Il Consiglio federale disciplina:
 
 <sup>3</sup> Il Consiglio federale approva gli accordi amministrativi internazionali conclusi dal SIC che sono di una certa durata, hanno ripercussioni finanziarie sostanziali o dei quali il Consiglio federale dovrebbe essere a conoscenza per ragioni giuridiche o politiche. La riserva di approvazione vale anche per accordi amministrativi non scritti. Gli accordi divengono esecutivi soltanto dopo aver ottenuto l’approvazione.
 
-<sup>4</sup> Annualmente, o secondo necessità, il DDPS informa il Consiglio federale e la DelCG in merito allo scopo e al numero di identità fittizie utilizzate dai collaboratori del SIC o degli organi di sicurezza dei Cantoni. Il numero dei nuovi documenti d’identità rilasciati è presentato separatamente.
+<sup>4</sup> Annualmente, o secondo necessità, il DDPS informa il Consiglio federale e la DelCdG in merito allo scopo e al numero di identità fittizie utilizzate dai collaboratori del SIC o degli organi di sicurezza dei Cantoni. Il numero dei nuovi documenti d’identità rilasciati è presentato separatamente.
 
-<sup>5</sup> Annualmente, e secondo necessità, il Consiglio federale informa la DelCG in merito ai divieti di attività, ai risultati delle verifiche periodiche di cui all’articolo 73 capoverso 3 e ai divieti di organizzazioni.
+<sup>5</sup> Annualmente, e secondo necessità, il Consiglio federale informa la DelCdG in merito ai divieti di attività, ai risultati delle verifiche periodiche di cui all’articolo 73 capoverso 3 e ai divieti di organizzazioni.
 
 #### Art. 81
 
 **Alta vigilanza parlamentare**
 
-<sup>1</sup> L’alta vigilanza parlamentare sulle attività del SIC e sulle attività svolte dalle autorità d’esecuzione cantonali su mandato della Confederazione per l’esecuzione della presente legge incombe alla DelCG e alla Delegazione delle finanze nei rispettivi ambiti di competenza e conformemente alla legge del 13 dicembre 2002[^81-1] sul Parlamento.
+<sup>1</sup> L’alta vigilanza parlamentare sulle attività del SIC e sulle attività svolte dalle autorità d’esecuzione cantonali su mandato della Confederazione per l’esecuzione della presente legge incombe alla DelCdG e alla Delegazione delle finanze nei rispettivi ambiti di competenza e conformemente alla legge del 13 dicembre 2002[^81-1] sul Parlamento.
 
 <sup>2</sup> Gli organi di vigilanza parlamentare cantonali verificano l’esecuzione di cui all’articolo 85 capoverso 1.
 
-[^81-1]: [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)
+[^81-1]: [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)
 
 #### Art. 82
 
@@ -1366,7 +1371,7 @@ Il Consiglio federale disciplina:
 
 <sup>6</sup> Il Consiglio federale disciplina l’assistenza all’autorità di vigilanza cantonale da parte di servizi della Confederazione.
 
-[^82-1]: [RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^82-1]: [RS 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
 
 ### Sezione 3: Tutela giurisdizionale
 
@@ -1380,7 +1385,7 @@ Il Consiglio federale disciplina:
 
 <sup>4</sup> Le decisioni su ricorso del TAF sono impugnabili con ricorso al Tribunale federale. La procedura è retta dalla legge del 17 giugno 2005[^83-1] sul Tribunale federale.
 
-[^83-1]: [RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^83-1]: [RS 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
 
 ## Capitolo 7: Disposizioni finali
 

@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 25. September 2015 über den Nachrichtendienst (Nachric
 short: NDG
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/494"
 language: de
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2015-09-25
 in_force: 2017-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/494/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2017-494-20230901-de-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/494/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/494/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2017-494-20240101-de-xml-12.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/494/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/494/20230901/de"
 
 (Nachrichtendienstgesetz, NDG)
 
-vom 25. September 2015 (Stand am 1. September 2023)
+vom 25. September 2015 (Stand am 1. Januar 2024)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -27,7 +27,7 @@ nach Einsicht in die Botschaft des Bundesrates vom 19. Februar 2014[^ingress-3],
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: Fassung gemäss Anhang Ziff. II 1 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Übereinkommens des Europarats zur Verhütung des Terrorismus mit dem dazugehörigen Zusatzprotokoll sowie über die Verstärkung des strafrechtlichen Instrumentariums gegen Terrorismus und organisierte Kriminalität, in Kraft seit 1. Juli 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 [^ingress-3]: [BBl 2014 2105](https://fedlex.data.admin.ch/eli/fga/2014/407)
 
@@ -118,7 +118,7 @@ Die Informationsbeschaffung und -bearbeitung des NDB dient:
   - 1\. Terrorismus,
   - 2\. verbotenem Nachrichtendienst,
   - 3\. der Weiterverbreitung nuklearer, biologischer oder chemischer Waffen, einschliesslich ihrer Trägersysteme, sowie aller zur Herstellung dieser Waffen notwendigen zivil und militärisch verwendbaren Güter und Technologien (NBC-Proliferation) oder dem illegalen Handel mit radioaktiven Substanzen, Kriegsmaterial und anderen Rüstungsgütern,
-  - 4\. Angriffen auf Informations-, Kommunikations-, Energie-, Transport- und weitere Infrastrukturen, die für das Funktionieren von Gesellschaft, Wirtschaft und Staat unerlässlich sind (kritische Infrastrukturen),
+  - 4\.[^6-1] Angriffen auf die Trinkwasser- und Energieversorgung, Informations-, Kommunikations- und Transportinfrastrukturen sowie weitere Prozesse, Systeme und Einrichtungen, die essenziell für das Funktionieren der Wirtschaft beziehungsweise das Wohlergehen der Bevölkerung sind (kritische Infrastrukturen),
   - 5\. gewalttätigem Extremismus;
 
 - b. zur Feststellung, Beobachtung und Beurteilung von sicherheitspolitisch bedeutsamen Vorgängen im Ausland;
@@ -136,6 +136,8 @@ Die Informationsbeschaffung und -bearbeitung des NDB dient:
 <sup>6</sup> Er führt Programme zur Information und Sensibilisierung betreffend Bedrohungen der inneren oder äusseren Sicherheit durch.
 
 <sup>7</sup> Er schützt seine Mitarbeiterinnen und Mitarbeiter, seine Einrichtungen, seine Quellen und die von ihm bearbeiteten Daten.
+
+[^6-1]: Fassung gemäss Anhang 1 Ziff. 2 des Informationssicherheitsgesetz vom 18. Dez. 2020, in Kraft seit 1. Jan. 2024 ([AS 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [BBl 2017 2953](https://fedlex.data.admin.ch/eli/fga/2017/647)).
 
 #### Art. 7
 
@@ -159,7 +161,7 @@ Der NDB trifft Massnahmen, um den Schutz und die Sicherheit seiner Mitarbeiterin
 
 <sup>2</sup> Der NDB betreibt ein gesichertes Computernetzwerk für seine Informationssysteme, die besonders gegen Zugriffe Unbefugter geschützt werden müssen.
 
-[^7-1]: [SR 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
+[^7-1]: [SR 784.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9171)
 
 #### Art. 8
 
@@ -269,7 +271,7 @@ Menschliche Quellen sind Personen, die:
 
 <sup>5</sup> Die Massnahmen nach den Absätzen 3 und 4 sind auf den Zeitraum der konkreten Gefährdung begrenzt. Ausnahmsweise kann von einer zeitlichen Begrenzung abgesehen oder eine zeitlich begrenzte Massnahme in eine unbegrenzte umgewandelt werden, wenn die Risiken für die Betroffenen besonders gross sind und damit gerechnet werden muss, dass sie fortbestehen.
 
-[^15-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^15-1]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 16
 
@@ -288,8 +290,8 @@ Die Ausschreibung einer Person oder eines Fahrzeugs ist nur zulässig, wenn begr
 
 <sup>3</sup> Die Ausschreibung darf nicht vorgenommen werden, um das Fahrzeug einer Drittperson zu überwachen, die einer der in den Artikeln 171–173 der Strafprozessordnung (StPO)[^16-2] genannten Berufsgruppen angehört.
 
-[^16-1]: [SR 361](https://fedlex.data.admin.ch/eli/cc/2008/698)
-[^16-2]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^16-1]: [SR 361](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6307)
+[^16-2]: [SR 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 
 ### 2. Abschnitt: Legendierungen und Tarnidentitäten
 
@@ -361,9 +363,9 @@ Eine konkrete Bedrohung der inneren oder äusseren Sicherheit ist gegeben, wenn 
 
 <sup>5</sup> Der Bundesrat bestimmt in einer Verordnung die Organisationen, die zu Auskünften verpflichtet sind; darunter fallen namentlich Organisationen des öffentlichen und privaten Rechts, die nicht der Bundesverwaltung angehören, soweit sie Erlasse oder erstinstanzliche Verfügungen im Sinne von Artikel 5 des Verwaltungsverfahrensgesetzes vom 20. Dezember 1968[^19-3] erlassen oder soweit sie ihnen übertragene Vollzugsaufgaben des Bundes erfüllen; ausgenommen sind Kantone.
 
-[^19-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^19-2]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^19-3]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^19-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^19-2]: [SR 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
+[^19-3]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 20
 
@@ -390,7 +392,7 @@ Die folgenden Behörden sind verpflichtet, dem NDB zur Erfüllung seiner Aufgabe
 
 <sup>4</sup> Der Bundesrat legt in einer nicht öffentlichen Liste fest, welche Vorgänge und Feststellungen dem NDB unaufgefordert zu melden sind. Er umschreibt den Umfang der Meldepflicht und das Verfahren der Auskunftserteilung.
 
-[^20-1]: [SR 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^20-1]: [SR 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
 [^20-2]: Die Berichtigung der RedK der BVers vom 12. März 2020, publiziert am 24. März 2020 betrifft nur den französischen Text ([AS 2020 1057](https://fedlex.data.admin.ch/eli/oc/2020/187)).
 
 #### Art. 21
@@ -407,7 +409,7 @@ Bei Auskünften nach Artikel 19 oder 20 bleibt das gesetzlich geschützte Berufs
 
 <sup>2</sup> Bei Meinungsverschiedenheiten zwischen dem NDB und einer Organisation, einem Organ oder einer Behörde, die oder das nicht der Bundesverwaltung angehört, über eine Auskunftspflicht nach Artikel 19 oder 20 entscheidet das Bundesverwaltungsgericht nach Artikel 36*a* des Verwaltungsgerichtsgesetzes vom 17. Juni 2005[^22-1].
 
-[^22-1]: [SR 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352)
+[^22-1]: [SR 173.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5621)
 
 #### Art. 23
 
@@ -442,7 +444,7 @@ Sofern es zum Erkennen, Verhindern oder Abwehren einer konkreten Bedrohung der i
 
 <sup>2</sup> Der NDB kann ferner Auskünfte nach Artikel 15 des Bundesgesetzes vom 18. März 2016[^25-1] betreffend die Überwachung des Post- und Fernmeldeverkehrs (BÜPF) einholen.[^25-2]
 
-[^25-1]: [SR 780.1](https://fedlex.data.admin.ch/eli/cc/2018/31)
+[^25-1]: [SR 780.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9117)
 [^25-2]: Fassung gemäss Art. 46 Ziff. 2 des BG vom 18. März 2016 betreffend die Überwachung des Post- und Fernmeldeverkehrs, in Kraft seit 1. März 2018 ([AS 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31); [BBl 2013 2683](https://fedlex.data.admin.ch/eli/fga/2013/512)).
 
 ### 4. Abschnitt: Genehmigungspflichtige Beschaffungsmassnahmen
@@ -471,7 +473,7 @@ Die folgenden Beschaffungsmassnahmen sind genehmigungspflichtig:
 <sup>2</sup> Die Massnahmen werden verdeckt durchgeführt; die betroffene Person wird darüber nicht in Kenntnis gesetzt.
 
 [^26-1]: Fassung gemäss Art. 46 Ziff. 2 des BG vom 18. März 2016 betreffend die Überwachung des Post- und Fernmeldeverkehrs, in Kraft seit 1. März 2018 ([AS 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31); [BBl 2013 2683](https://fedlex.data.admin.ch/eli/fga/2013/512)).
-[^26-2]: [SR 780.1](https://fedlex.data.admin.ch/eli/cc/2018/31)
+[^26-2]: [SR 780.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9117)
 [^26-3]: Eingefügt durch Art. 46 Ziff. 2 des BG vom 18. März 2016 betreffend die Überwachung des Post- und Fernmeldeverkehrs, in Kraft seit 1. März 2018 ([AS 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31); [BBl 2013 2683](https://fedlex.data.admin.ch/eli/fga/2013/512)).
 
 #### Art. 27
@@ -498,7 +500,7 @@ Der NDB kann eine genehmigungspflichtige Beschaffungsmassnahme anordnen, wenn:
 
 <sup>2</sup> Die Massnahme darf nicht angeordnet werden, wenn die Drittperson einer der in den Artikeln 171–173 StPO[^28-1] genannten Berufsgruppen angehört.
 
-[^28-1]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^28-1]: [SR 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 
 #### Art. 29
 
@@ -637,7 +639,7 @@ Beim Schutz der Quellen sind zu berücksichtigen:
 
 <sup>7</sup> Der NDB sorgt für den Schutz seiner im Ausland eingesetzten Mitarbeiterinnen und Mitarbeiter.
 
-[^36-1]: [SR 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
+[^36-1]: [SR 833.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10252)
 
 #### Art. 37
 
@@ -894,7 +896,10 @@ Die folgenden Personen haben im Abrufverfahren Zugriff auf die nachstehenden Dat
 - a. die Mitarbeiterinnen und Mitarbeiter des NDB auf die Daten nach Absatz 3 Buchstaben a und b, sofern sie mit dem frühzeitigen Erkennen und Verhindern von Bedrohungen für die Schweiz und ihre Bevölkerung beauftragt sind;
 - b. die Mitarbeiterinnen und Mitarbeiter der kantonalen Vollzugsbehörden zur Erfüllung ihrer Aufgaben nach diesem Gesetz sowie zur Bearbeitung und Weitergabe ihrer Daten aus Vorabklärungen und ihrer Berichte an den NDB und an andere kantonale Vollzugsbehörden; Zugriff auf die Daten nach Absatz 3 Buchstabe c haben ausschliesslich die Mitarbeiterinnen und Mitarbeiter der kantonalen Vollzugsbehörde, welche die Vorabklärungen durchgeführt hat, sowie die Mitarbeiterinnen und Mitarbeiter der Qualitätssicherungsstelle des NDB;
 - c. die Mitarbeiterinnen und Mitarbeiter des Bundesamtes für Polizei auf die Daten nach Absatz 3 Buchstabe a zur Durchführung sicherheits-, kriminal- und verwaltungspolizeilicher Aufgaben und zur Überprüfung von Verdachtsfällen von Geldwäscherei und Terrorfinanzierung bei Meldungen von schweizerischen Finanzinstituten;
-- d. die Mitarbeiterinnen und Mitarbeiter der für die Informations- und Objektsicherheit zuständigen Dienststelle des VBS auf die Daten nach Absatz 3 Buchstabe a zur Durchführung von Personensicherheitsprüfungen.
+- d.[^51-1] die Mitarbeiterinnen und Mitarbeiter der für die Durchführung der Personensicherheitsprüfungen zuständigen Fachstellen nach Artikel 31 Absatz 2 des Informationssicherheitsgesetzes vom 18. Dezember 2020[^51-2] auf die Daten nach Absatz 3 Buchstabe a zur Durchführung von Personensicherheitsprüfungen und von Prüfungen der Vertrauenswürdigkeit sowie zur Beurteilung des Gewaltpotenzials.
+
+[^51-1]: Fassung gemäss Anhang 1 Ziff. 2 des Informationssicherheitsgesetz vom 18. Dez. 2020, in Kraft seit 1. Jan. 2024 ([AS 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [BBl 2017 2953](https://fedlex.data.admin.ch/eli/fga/2017/647)).
+[^51-2]: [SR 128](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40013)
 
 #### Art. 52
 
@@ -994,8 +999,8 @@ Der Bundesrat regelt:
 - c. die Aufbewahrungsdauer der Daten und das Verfahren der Datenvernichtung;
 - d. die Datensicherheit.
 
-[^58-1]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^58-2]: Berichtigt von der Redaktionskommission der BVers (Art. 58 Abs. 1 ParlG; [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^58-1]: [SR 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
+[^58-2]: Berichtigt von der Redaktionskommission der BVers (Art. 58 Abs. 1 ParlG; [SR 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 
 ### 4. Abschnitt: Besondere Bestimmungen über den Datenschutz
 
@@ -1017,8 +1022,8 @@ Der NDB stellt vor jeder Bekanntgabe von Personendaten oder Produkten sicher, da
 
 <sup>4</sup> Der NDB weist die Strafverfolgungsbehörden auf die Herkunft der Daten hin. Das weitere Verfahren richtet sich nach der StPO[^60-1] oder dem Militärstrafprozess vom 23. März 1979[^60-2].
 
-[^60-1]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^60-2]: [SR 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
+[^60-1]: [SR 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
+[^60-2]: [SR 322.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6248)
 
 #### Art. 61
 
@@ -1044,9 +1049,9 @@ Gewährleistet die Gesetzgebung des Empfängerstaates keinen angemessenen Datens
 
 <sup>6</sup> Werden die Personendaten in einem rechtlichen Verfahren benötigt, so gelten die massgebenden Bestimmungen über die Rechtshilfe.
 
-[^61-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^61-1]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^61-2]: Fassung gemäss Anhang 1 Ziff. II 2 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^61-3]: [SR 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
+[^61-3]: [SR 0.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3)
 
 #### Art. 62
 
@@ -1084,7 +1089,7 @@ Verlangt eine Person Auskunft darüber, ob der NDB Daten über sie in den Inform
 
 <sup>5</sup> Personen, über die keine Daten bearbeitet wurden, informiert der NDB spätestens drei Jahre nach Eingang ihres Gesuches über diese Tatsache.
 
-[^63-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^63-1]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 #### Art. 64
 
@@ -1100,7 +1105,7 @@ Verlangt eine Person Auskunft darüber, ob der NDB Daten über sie in den Inform
 
 <sup>5</sup> Legt die gesuchstellende Person glaubhaft dar, dass ihr bei einem Aufschub der Auskunft ein erheblicher, nicht wiedergutzumachender Schaden erwächst, so kann der EDÖB verfügen, dass der NDB ausnahmsweise sofort Auskunft erteilt, sofern damit keine Gefährdung der inneren oder äusseren Sicherheit verbunden ist.[^64-5]
 
-[^64-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^64-1]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^64-2]: Fassung gemäss Anhang 1 Ziff. II 2 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^64-3]: Aufgehoben durch Anhang 1 Ziff. II 2 des Datenschutzgesetzes vom 25. Sept. 2020, mit Wirkung seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^64-4]: Fassung gemäss Anhang 1 Ziff. II 2 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
@@ -1128,7 +1133,7 @@ Verlangt eine Person Auskunft darüber, ob der NDB Daten über sie in den Inform
 
 Das Öffentlichkeitsgesetz vom 17. Dezember 2004[^67-1] gilt nicht für den Zugang zu amtlichen Dokumenten betreffend die Informationsbeschaffung nach diesem Gesetz.
 
-[^67-1]: [SR 152.3](https://fedlex.data.admin.ch/eli/cc/2006/355)
+[^67-1]: [SR 152.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4937)
 
 ### 5. Abschnitt: Archivierung
 
@@ -1142,7 +1147,7 @@ Das Öffentlichkeitsgesetz vom 17. Dezember 2004[^67-1] gilt nicht für den Zuga
 
 <sup>4</sup> Er vernichtet die vom Bundesarchiv als nicht archivwürdig bezeichneten Daten und Akten.
 
-[^68-1]: [SR 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+[^68-1]: [SR 152.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4931)
 
 ## 5. Kapitel: Dienstleistungen
 
@@ -1243,9 +1248,9 @@ Eine Organisation oder Gruppierung wird von der Beobachtungsliste gestrichen, we
 
 [^74-1]: Fassung gemäss Anhang Ziff. II 1 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Übereinkommens des Europarats zur Verhütung des Terrorismus mit dem dazugehörigen Zusatzprotokoll sowie über die Verstärkung des strafrechtlichen Instrumentariums gegen Terrorismus und organisierte Kriminalität, in Kraft seit 1. Juli 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 [^74-2]: Fassung gemäss Anhang Ziff. II 1 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Übereinkommens des Europarats zur Verhütung des Terrorismus mit dem dazugehörigen Zusatzprotokoll sowie über die Verstärkung des strafrechtlichen Instrumentariums gegen Terrorismus und organisierte Kriminalität, in Kraft seit 1. Juli 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
-[^74-3]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^74-3]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^74-4]: Eingefügt durch Anhang Ziff. II 1 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Übereinkommens des Europarats zur Verhütung des Terrorismus mit dem dazugehörigen Zusatzprotokoll sowie über die Verstärkung des strafrechtlichen Instrumentariums gegen Terrorismus und organisierte Kriminalität, in Kraft seit 1. Juli 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
-[^74-5]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^74-5]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^74-6]: Fassung gemäss Anhang Ziff. II 1 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Übereinkommens des Europarats zur Verhütung des Terrorismus mit dem dazugehörigen Zusatzprotokoll sowie über die Verstärkung des strafrechtlichen Instrumentariums gegen Terrorismus und organisierte Kriminalität, in Kraft seit 1. Juli 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 [^74-7]: Fassung gemäss Anhang Ziff. II 1 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Übereinkommens des Europarats zur Verhütung des Terrorismus mit dem dazugehörigen Zusatzprotokoll sowie über die Verstärkung des strafrechtlichen Instrumentariums gegen Terrorismus und organisierte Kriminalität, in Kraft seit 1. Juli 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 
@@ -1288,7 +1293,7 @@ Sie oder er kann vom Bundesrat vor Ablauf der Amtsdauer des Amtes enthoben werde
 
 <sup>4</sup> Das Arbeitsverhältnis der Leiterin oder des Leiters sowie des Personals der unabhängigen Aufsichtsbehörde richtet sich nach dem Bundespersonalgesetz vom 24. März 2000[^77-1]. Die Leiterin oder der Leiter untersteht nicht dem Beurteilungssystem nach Artikel 4 Absatz 3 des Bundespersonalgesetzes.[^77-2]
 
-[^77-1]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^77-1]: [SR 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 [^77-2]: Die Berichtigung der RedK der BVers vom 12. März 2020, publiziert am 24. März 2020 betrifft nur den französischen Text ([AS 2020 1057](https://fedlex.data.admin.ch/eli/oc/2020/187)).
 
 #### Art. 78
@@ -1350,7 +1355,7 @@ Der Bundesrat regelt:
 
 <sup>2</sup> Kantonale parlamentarische Aufsichtsorgane können den Vollzug nach Artikel 85 Absatz 1 überprüfen.
 
-[^81-1]: [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)
+[^81-1]: [SR 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)
 
 #### Art. 82
 
@@ -1368,7 +1373,7 @@ Der Bundesrat regelt:
 
 <sup>6</sup> Der Bundesrat regelt die Unterstützung der kantonalen Dienstaufsicht durch Stellen des Bundes.
 
-[^82-1]: [SR 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^82-1]: [SR 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
 
 ### 3. Abschnitt: Rechtsschutz
 
@@ -1382,7 +1387,7 @@ Der Bundesrat regelt:
 
 <sup>4</sup> Gegen Beschwerdeentscheide des Bundesverwaltungsgerichts ist die Beschwerde an das Bundesgericht zulässig. Das Verfahren richtet sich nach dem Bundesgerichtsgesetz vom 17. Juni 2005[^83-1].
 
-[^83-1]: [SR 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^83-1]: [SR 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
 
 ## 7. Kapitel: Schlussbestimmungen
 

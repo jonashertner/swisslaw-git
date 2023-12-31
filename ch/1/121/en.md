@@ -4,11 +4,11 @@ title: "Federal Act of 25 September 2015 on the Intelligence Service (Intelligen
 short: IntelSA
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/494"
 language: en
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2015-09-25
 in_force: 2017-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/494/20230901/en/xml/fedlex-data-admin-ch-eli-cc-2017-494-20230901-en-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/494/20230901/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/494/20240101/en/xml/fedlex-data-admin-ch-eli-cc-2017-494-20240101-en-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/494/20240101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Intelligence Service Act, IntelSA)
 
-of 25 September 2015 (Status as of 1 September 2023)
+of 25 September 2015 (Status as of 1 January 2024)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -27,7 +27,7 @@ on the basis of Articles 54 paragraph 1, 123 paragraph 1 and 173 paragraph 2 of 
 
 decrees:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: Amended by Annex No II 1 of the FA of 25 Sept. 2020 on the Approval and Implementation of the Council of Europe Convention on the Prevention of Terrorism and its Additional Protocol and the Strengthening of Criminal Justice Instruments for combating Terrorism and Organised Crime, in force since 1 July 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 [^ingress-3]: [BBl 2014 2105](https://fedlex.data.admin.ch/eli/fga/2014/407)
 
@@ -47,7 +47,7 @@ This Act regulates:
 
 **Aim**
 
-This Act serves to protect important national interests; its aim is
+This Act serves to protect important national interests; its aim is:
 
 - a. to contribute towards safeguarding Switzerland’s democratic and constitutional principles and protecting the freedoms of its population;
 - b. to increase the security of the Swiss population and of Swiss citizens abroad;
@@ -118,7 +118,7 @@ The FIS shall gather and process information for the following purposes:
   - 1\. terrorism,
   - 2\. espionage,
   - 3\. the proliferation of nuclear, biological or chemical weapons, including their delivery systems, and all civilian and military goods and technologies required to manufacture such weapons (ABC proliferation) or the illegal trade in radioactive substances, war material and other armaments,
-  - 4\. attacks on information, communication, energy, transport and other infrastructures that are essential for the proper functioning of society, the economy and the state (critical infrastructures),
+  - 4\.[^6-1] attacks on supply systems for energy and drinking water, information, communication and transport infrastructures and other processes, systems and facilities that are essential for the proper functioning of the economy and well-being of the population (critical infrastructures),
   - 5\. violent extremism;
 
 - b. to identify, observe and assess events outside Switzerland that are of security-policy significance;
@@ -136,6 +136,8 @@ The FIS shall gather and process information for the following purposes:
 <sup>6</sup> It runs programmes to provide information on and raise awareness of threats to internal or external security.
 
 <sup>7</sup> It protects its employees, its facilities, its sources and the data that it processes.
+
+[^6-1]: Amended by Annex 1 No 2 of the Information Security Act of 18 Dec. 2020, in force since 1 Jan. 2024 ([AS 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [BBl 2017 2953](https://fedlex.data.admin.ch/eli/fga/2017/647)).
 
 #### Art. 7
 
@@ -159,7 +161,7 @@ The FIS shall take measures to guarantee the protection, safety and security of 
 
 <sup>2</sup> The FIS shall operate a secure computer network for its information systems that must in particular be protected against access by unauthorised persons.
 
-[^7-1]: [SR 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
+[^7-1]: [SR 784.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9171)
 
 #### Art. 8
 
@@ -269,7 +271,7 @@ Human sources are persons who:
 
 <sup>5</sup> The measures mentioned in paragraphs 3 and 4 are limited to the period of actual danger. By way of exception, a time limit may be dispensed with or a temporary measure may be changed into a permanent measure if the risks to the persons concerned are particularly serious and it must be expected that they will continue to apply.
 
-[^15-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^15-1]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 16
 
@@ -288,8 +290,8 @@ An alert in respect of a person or a vehicle is only permitted if there is reaso
 
 <sup>3</sup> The alert may not be issued in order to monitor the vehicle of a third party that belongs to any of the professions mentioned in Articles 171–173 of the Criminal Procedure Code (CrimPC)[^16-2].
 
-[^16-1]: [SR 361](https://fedlex.data.admin.ch/eli/cc/2008/698)
-[^16-2]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^16-1]: [SR 361](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6307)
+[^16-2]: [SR 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 
 ### Section 2 Cover Stories and Alias Identities
 
@@ -337,7 +339,7 @@ The use of an alias identity to gather information is only permitted for a purpo
 
 <sup>5</sup> The FIS shall take the required measures to protect the person’s true identity from being revealed.
 
-### Section 3 Duties to provide Information and to report
+### Section 3 Duties to provide Information and to Report
 
 #### Art. 19
 
@@ -361,9 +363,9 @@ A specific threat to internal or external security is established if a significa
 
 <sup>5</sup> The Federal Council shall specify in an ordinance the organisations that are required to provide information; these include in particular public and private organisations that do not form part of the Federal Administration but which issue legislation or first-instance rulings as defined in Article 5 of the Administrative Procedure Act of 20 December 1968[^19-3] or which fulfil executive tasks that have been delegated to them by the Confederation; the cantons are not regarded as such organisations.
 
-[^19-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^19-2]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^19-3]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^19-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^19-2]: [SR 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
+[^19-3]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 20
 
@@ -390,7 +392,7 @@ The following authorities are obliged to provide the FIS with information in ord
 
 <sup>4</sup> The Federal Council shall specify in an unpublished list which activities and intelligence must be reported to the FIS without a request being required. It shall specify the extent of the obligation to report and the procedure for providing information.
 
-[^20-1]: [SR 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^20-1]: [SR 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
 [^20-2]: The correction of the FA Drafting Committee of 12 March 2020, published 24 March 2020, relates to the French text only ([AS 2020 1057](https://fedlex.data.admin.ch/eli/oc/2020/187)).
 
 #### Art. 21
@@ -407,7 +409,7 @@ In the case of information in terms of Article 19 or 20, the statutory protectio
 
 <sup>2</sup> In the case of differences of opinion between the FIS and an organisation, officer or authority that does not form part of the Federal Administration with regard to an obligation to provide information in accordance with Article 19 or 20, the Federal Administrative Court shall decide in accordance with Article 36*a* of the Administrative Court Act of 17 June 2005[^22-1].
 
-[^22-1]: [SR 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352)
+[^22-1]: [SR 173.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5621)
 
 #### Art. 23
 
@@ -440,10 +442,10 @@ Insofar as it is necessary to identify, prevent or repel a specific threat to in
 - a. from a natural person or legal entity that carries out transport operations for commercial gain or provides or arranges means of transport: information about a service that it has provided;
 - b. from private operators of security infrastructures, in particular image transmission and image recording devices: the handover of recordings, including recordings of events in public locations.
 
-<sup>2</sup> The FIS may also obtain information in accordance with Article 15 of the Federal Act of 18 March 2016[^25-1] on the Surveillance of Postal and Telecommunications Traffic (SPTA).[^25-2]
+<sup>2</sup> The FIS may also obtain information in accordance with Article 15 of the Federal Act of 18 March 2016[^25-1] on Post and Telecommunications Surveillance (FAPTS).[^25-2]
 
-[^25-1]: [SR 780.1](https://fedlex.data.admin.ch/eli/cc/2018/31)
-[^25-2]: Amended by Art. 46 No 2 of the FA of 18 March 2016 on the Surveillance of Postal and Telecommunications Traffic, in force since 1 March 2018 ([AS 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31); [BBl 2013 2683](https://fedlex.data.admin.ch/eli/fga/2013/512)).
+[^25-1]: [SR 780.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9117)
+[^25-2]: Amended by Art. 46 No 2 of the FA of 18 March 2016 on Post and Telecommunications Surveillance, in force since 1 March 2018 ([AS 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31); [BBl 2013 2683](https://fedlex.data.admin.ch/eli/fga/2013/512)).
 
 ### Section 4 Information Gathering Measures requiring Authorisation
 
@@ -455,7 +457,7 @@ Insofar as it is necessary to identify, prevent or repel a specific threat to in
 
 The following information gathering measures require authorisation:
 
-- a.[^26-1] surveillance of post and telecommunications and requests for marginal data relating to post and telecommunications in accordance with the SPTA[^26-2];
+- a.[^26-1] post and telecommunications surveillance and requests for marginal data relating to post and telecommunications in accordance with the FAPTS[^26-2];
 - a<sup>bis</sup>.[^26-3] the use of special technical devices to monitor telecommunications, to record transmissions or to identify a person or object or to ascertain their location if monitoring in accordance with letter a has been unsuccessful, would be without prospect of success or would be unreasonably difficult and the licences under telecommunications law for the special technical devices have been obtained;
 - b. the use of localisation devices to establish the location and the movements of persons or objects;
 - c. the use of monitoring devices in order to listen to and record words spoken in non-public places or to observe and record events at non-public or not generally accessible locations;
@@ -470,9 +472,9 @@ The following information gathering measures require authorisation:
 
 <sup>2</sup> The measures shall be carried out covertly; the person concerned is not made aware thereof.
 
-[^26-1]: Amended by Art. 46 No 2 of the FA of 18 March 2016 on the Surveillance of Postal and Telecommunications Traffic, in force since 1 March 2018 ([AS 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31); [BBl 2013 2683](https://fedlex.data.admin.ch/eli/fga/2013/512)).
-[^26-2]: [SR 780.1](https://fedlex.data.admin.ch/eli/cc/2018/31)
-[^26-3]: Inserted by Art. 46 No 2 of the FA of 18 March 2016 on the Surveillance of Postal and Telecommunications Traffic, in force since 1 March 2018 ([AS 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31); [BBl 2013 2683](https://fedlex.data.admin.ch/eli/fga/2013/512)).
+[^26-1]: Amended by Art. 46 No 2 of the FA of 18 March 2016 on Post and Telecommunications Surveillance, in force since 1 March 2018 ([AS 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31); [BBl 2013 2683](https://fedlex.data.admin.ch/eli/fga/2013/512)).
+[^26-2]: [SR 780.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9117)
+[^26-3]: Inserted by Art. 46 No 2 of the FA of 18 March 2016 on Post and Telecommunications Surveillance, in force since 1 March 2018 ([AS 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31); [BBl 2013 2683](https://fedlex.data.admin.ch/eli/fga/2013/512)).
 
 #### Art. 27
 
@@ -498,7 +500,7 @@ The FIS may order an information gathering measure requiring authorisation if:
 
 <sup>2</sup> The measure may not be ordered if the third party belongs to one of the professional groups mentioned in Articles 171–173 CrimPC[^28-1].
 
-[^28-1]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^28-1]: [SR 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 
 #### Art. 29
 
@@ -517,7 +519,7 @@ Where the FIS intends to order an information gathering measure requiring author
 
 <sup>2</sup> The president of the competent division of the Federal Administrative Court shall issue as a single judge a decision with a brief statement of reasons within five working days of receipt of the application; he or she may delegate this task to another judge.
 
-<sup>3</sup> The president of the competent division of the Federal Administrative Court shall not authorise a requested information gathering measure if that measure has already been authorised in connection with criminal proceedings against the persons concerned in accordance with paragraph 1 letter b and the criminal investigation is connection with a specific threat that the FIS information gathering measure is intended to clarify. The competent courts responsible for compulsory measures or the Post and Telecommunications Surveillance Bureau shall provide the Federal Administrative Court with the required information.
+<sup>3</sup> The president of the competent division of the Federal Administrative Court shall not authorise a requested information gathering measure if that measure has already been authorised in connection with criminal proceedings against the persons concerned in accordance with paragraph 1 letter b and the criminal investigation is connection with a specific threat that the FIS information gathering measure is intended to clarify. The competent courts responsible for compulsory measures or the Post and Telecommunications Surveillance Service shall provide the Federal Administrative Court with the required information.
 
 <sup>4</sup> The president of the competent division of the Federal Administrative Court may require a hearing of representatives of the FIS as part of the decision-making process.
 
@@ -637,7 +639,7 @@ The following must be considered in relation to the protection of sources:
 
 <sup>7</sup> The FIS shall ensure the protection of its employees deployed abroad.
 
-[^36-1]: [SR 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
+[^36-1]: [SR 833.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10252)
 
 #### Art. 37
 
@@ -894,7 +896,10 @@ The following persons have online access to the following data in INDEX FIS:
 - a. FIS employees have access to the data in paragraph 3 letters a and b, provided they have the task of ensuring the early recognition and prevention of threats to Switzerland and its population;
 - b. employees of the cantonal executive authorities in order to carry out their tasks in terms of this Act and to process and pass on their data from preliminary investigations and their reports to the FIS and to other cantonal executive authorities; only employees of the cantonal executive authority that carried out the preliminary investigations and the employees of the FIS quality assurance service have access to data in accordance with paragraph 3 letter c;
 - c. employees of the Federal Office of Police have access to the data in accordance with paragraph 3 letter a in order to conduct security-related, criminal investigation and administrative-policing tasks and to assess allegations of money laundering and terrorism financing contained in reports from Swiss financial institutions;
-- d. the employees of the DDPS Information Security and Facility Protection Unit have access to the data in accordance with paragraph 3 letter a in order to carry out personnel security screening procedures.
+- d.[^51-1] the employees of the specialist units in accordance with Article 31 paragraph 2 of the Information Security Act of 18 December 2020[^51-2] responsible for carrying out personnel security screening procedures have access to the data in accordance with paragraph 3 letter a in order to carry out personnel security screening procedures and assess trustworthiness and potential for violence.
+
+[^51-1]: Amended by Annex 1 No 2 of the Information Security Act of 18 Dec. 2020, in force since 1 Jan. 2024 ([AS 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [BBl 2017 2953](https://fedlex.data.admin.ch/eli/fga/2017/647)).
+[^51-2]: [SR 128](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40013)
 
 #### Art. 52
 
@@ -994,8 +999,8 @@ The Federal Council shall regulate:
 - c. the retention period for the data and the procedure for destroying data;
 - d. data security.
 
-[^58-1]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^58-2]: Corrected by the Federal Assembly Drafting Committee (Art. 58 para. 1 ParlA; [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^58-1]: [SR 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
+[^58-2]: Corrected by the Federal Assembly Drafting Committee (Art. 58 para. 1 ParlA; [SR 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 
 ### Section 4 Special Provisions on Data Protection
 
@@ -1017,8 +1022,8 @@ The FIS shall ensure before disclosing any personal data or products that the pe
 
 <sup>4</sup> The FIS shall advise the prosecution authorities of the origin of the data. The subsequent procedure is governed by the CrimPC[^60-1] or the Military Criminal Procedure Code of 23 March 1979[^60-2].
 
-[^60-1]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^60-2]: [SR 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
+[^60-1]: [SR 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
+[^60-2]: [SR 322.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6248)
 
 #### Art. 61
 
@@ -1044,9 +1049,9 @@ If the legislation of the receiving state does not guarantee appropriate data pr
 
 <sup>6</sup> If the personal data is required in legal proceedings, the relevant provisions on mutual assistance apply.
 
-[^61-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^61-1]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^61-2]: Amended by Annex 1 No II 2 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^61-3]: [SR 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
+[^61-3]: [SR 0.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3)
 
 #### Art. 62
 
@@ -1084,7 +1089,7 @@ If a person requests information on whether the FIS is processing data on them i
 
 <sup>5</sup> The FIS shall notify persons in respect of whom no data is being processed of this fact no later than three years after receipt of their request.
 
-[^63-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^63-1]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 #### Art. 64
 
@@ -1100,7 +1105,7 @@ If a person requests information on whether the FIS is processing data on them i
 
 <sup>5</sup> If the applicant credibly shows that a deferral of the provision of information will cause him or her considerable harm that cannot be rectified, the FDPIC may order the FIS to issue information immediately by way of exception provided this will not pose a risk to internal or external security.[^64-5]
 
-[^64-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^64-1]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^64-2]: Amended by Annex 1 No II 2 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^64-3]: Repealed by Annex 1 No II 2 of the Data Protection Act of 25 Sept. 2020, with effect from 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^64-4]: Amended by Annex 1 No II 2 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
@@ -1128,7 +1133,7 @@ If a person requests information on whether the FIS is processing data on them i
 
 The Freedom of Information Act of 17 December 2004[^67-1] does not apply to access to official documents relating to information gathering in terms of this Act.
 
-[^67-1]: [SR 152.3](https://fedlex.data.admin.ch/eli/cc/2006/355)
+[^67-1]: [SR 152.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4937)
 
 ### Section 5 Archiving
 
@@ -1142,7 +1147,7 @@ The Freedom of Information Act of 17 December 2004[^67-1] does not apply to acce
 
 <sup>4</sup> It shall destroy data and files that the Federal Archives has designated as not worth archiving.
 
-[^68-1]: [SR 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+[^68-1]: [SR 152.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4931)
 
 ## Chapter 5 Services
 
@@ -1243,9 +1248,9 @@ An organisation or group shall be removed from the watch list if:
 
 [^74-1]: Amended by Annex No II 1 of the FA of 25 Sept. 2020 on the Approval and Implementation of the Council of Europe Convention on the Prevention of Terrorism and its Additional Protocol and the Strengthening of Criminal Justice Instruments for combating Terrorism and Organised Crime, in force since 1 July 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 [^74-2]: Amended by Annex No II 1 of the FA of 25 Sept. 2020 on the Approval and Implementation of the Council of Europe Convention on the Prevention of Terrorism and its Additional Protocol and the Strengthening of Criminal Justice Instruments for combating Terrorism and Organised Crime, in force since 1 July 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
-[^74-3]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^74-3]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^74-4]: Inserted by Annex No II 1 of the FA of 25 Sept. 2020 on the Approval and Implementation of the Council of Europe Convention on the Prevention of Terrorism and its Additional Protocol and the Strengthening of Criminal Justice Instruments for combating Terrorism and Organised Crime, in force since 1 July 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
-[^74-5]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^74-5]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^74-6]: Amended by Annex No II 1 of the FA of 25 Sept. 2020 on the Approval and Implementation of the Council of Europe Convention on the Prevention of Terrorism and its Additional Protocol and the Strengthening of Criminal Justice Instruments for combating Terrorism and Organised Crime, in force since 1 July 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 [^74-7]: Amended by Annex No II 1 of the FA of 25 Sept. 2020 on the Approval and Implementation of the Council of Europe Convention on the Prevention of Terrorism and its Additional Protocol and the Strengthening of Criminal Justice Instruments for combating Terrorism and Organised Crime, in force since 1 July 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 
@@ -1288,7 +1293,7 @@ He or she may be removed from the post by the Federal Council before the expiry 
 
 <sup>4</sup> The employment contracts of the head and the staff of the independent supervisory authority are governed by the Federal Personnel Act of 24 March 2000[^77-1]. The head is not subject to the assessment system in accordance with Article 4 paragraph 3 of the Federal Personnel Act.[^77-2]
 
-[^77-1]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^77-1]: [SR 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 [^77-2]: The correction of the FA Drafting Committee of 12 March 2020, published 24 March 2020, relates to the French text only ([AS 2020 1057](https://fedlex.data.admin.ch/eli/oc/2020/187)).
 
 #### Art. 78
@@ -1350,7 +1355,7 @@ The Federal Council shall regulate:
 
 <sup>2</sup> Cantonal parliamentary supervisory bodies may oversee implementation in accordance with Article 85 paragraph 1.
 
-[^81-1]: [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)
+[^81-1]: [SR 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)
 
 #### Art. 82
 
@@ -1368,7 +1373,7 @@ The Federal Council shall regulate:
 
 <sup>6</sup> The Federal Council shall regulate the support given to the cantonal supervisory authority by federal agencies.
 
-[^82-1]: [SR 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^82-1]: [SR 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
 
 ### Section 3 Legal Remedies
 
@@ -1382,7 +1387,7 @@ The Federal Council shall regulate:
 
 <sup>4</sup> Appeal decisions of the Federal Administrative Court may be appealed to the Federal Supreme Court. The procedure is governed by the Federal Supreme Court Act of 17 June 2005[^83-1].
 
-[^83-1]: [SR 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^83-1]: [SR 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
 
 ## Chapter 7 Final Provisions
 
@@ -1455,4 +1460,4 @@ The legislation below is amended as follows:
 ...[^annexu1-lvlu1-2]
 
 [^annexu1-lvlu1-1]: [[AS 2009 6565](https://fedlex.data.admin.ch/eli/oc/2009/809), [2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428)Annex No 1 [5525](https://fedlex.data.admin.ch/eli/oc/2012/637), [2014 3223](https://fedlex.data.admin.ch/eli/oc/2014/553)]
-[^annexu1-lvlu1-2]: The amendments may be consulted under [AS 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494).
+[^annexu1-lvlu1-2]: The amendments may be consulted under [AS 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494)..
