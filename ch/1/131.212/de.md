@@ -4,20 +4,21 @@ title: "Verfassung des Kantons Bern, vom 6. Juni 1993 (KV)"
 short: KV
 eli: "https://fedlex.data.admin.ch/eli/cc/1994/1_401_401_361_fga"
 language: de
-version: 2023-09-20
+version: 2024-01-01
 adopted: 1993-06-06
 in_force: 1995-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1_401_401_361_fga/20230920/de/xml/fedlex-data-admin-ch-eli-cc-1994-1_401_401_361_fga-20230920-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1994/1_401_401_361_fga/20230920/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1_401_401_361_fga/20240101/de/xml/fedlex-data-admin-ch-eli-cc-1994-1_401_401_361_fga-20240101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1994/1_401_401_361_fga/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Verfassung des Kantons Bern
+# Verfassung des Kantons Bern (KV)
 
-vom 6. Juni 1993 (Stand am 20. September 2023)[^t-1]
+vom 6. Juni 1993 (Stand am 1. Januar 2024)[^t-2][^t-1]
 
-[^t-1]: Diese Veröffentlichung basiert auf jenen der Änderungen im Rahmen der Gewährleistungsbotschaften im BBl. Sie kann vorübergehend von der Veröffentlichung in der kantonalen Gesetzessammlung abweichen. Der Stand bezeichnet daher das Datum des letzten im BBl veröffentlichten Gewährleistungsbeschlusses der Bundesversammlung.
+[^t-1]: Angenommen in der [Volksabstimmung vom 12. März 2023](http://www.admin.ch/ch/d/pore/va/20230312/index.html), in Kraft seit 1. Jan. 2024. Gewährleistungsbeschluss vom 14. März 2024 ([BBl 2024 665](https://fedlex.data.admin.ch/eli/fga/2024/665)Art. 1; [2023 2671](https://fedlex.data.admin.ch/eli/fga/2023/2671)).
+[^t-2]: Diese Veröffentlichung basiert auf jenen der Änderungen im Rahmen der Gewährleistungsbotschaften im BBl. Sie kann vorübergehend von der Veröffentlichung in der kantonalen Gesetzessammlung abweichen.
 
 In der Absicht, Freiheit und Recht zu schützen und ein Gemeinwesen zu gestalten, in dem alle in Verantwortung gegenüber der Schöpfung zusammenleben,
 
@@ -793,17 +794,25 @@ Ferner unterliegen der Volksabstimmung, wenn das Referendum zustande gekommen is
 Dem Grossen Rat dürfen nicht gleichzeitig angehören:
 
 - a. die Mitglieder des Regierungsrates;
-- b. die Mitglieder der kantonalen richterlichen Behörden;
-- c.[^68-1] das Personal der zentralen und der dezentralen kantonalen Verwaltung;
+- b.[^68-1] die Mitglieder der kantonalen richterlichen Behörden und der Staatsanwaltschaft;
+- c.[^68-2] das Personal der zentralen und der dezentralen kantonalen Verwaltung;
+- c1.[^68-3] das Personal der Gerichtsbehörden und der Staatsanwaltschaft;
 - d. weitere Personen, sofern das Gesetz es vorsieht.
 
-<sup>2</sup> Wer Mitglied einer kantonalen richterlichen Behörde ist, darf nicht gleichzeitig dem Regierungsrat oder der kantonalen Verwaltung angehören.
+<sup>1a</sup> Das Gesetz kann in begründeten Fällen Ausnahmen von Absatz 1 Buchstabe c vorsehen.[^68-4]
+
+<sup>2</sup> Wer Mitglied einer kantonalen Gerichtsbehörde oder der Staatsanwaltschaft ist, darf nicht gleichzeitig dem Regierungsrat oder der zentralen oder dezentralen kantonalen Verwaltung angehören.[^68-5]
 
 <sup>3</sup> Die Mitglieder des Regierungsrates dürfen nicht der Bundesversammlung angehören.
 
-<sup>4</sup> Mitglieder von Behörden sowie Mitarbeiterinnen und Mitarbeiter der kantonalen Verwaltung haben sich bei Geschäften, die sie unmittelbar betreffen, in den Ausstand zu begeben.
+<sup>4</sup> Mitglieder von Behörden sowie das Personal der kantonalen Verwaltung, der Gerichtsbehörden und der Staatsanwaltschaft haben bei Geschäften, die sie unmittelbar betreffen, in den Ausstand zu treten.[^68-6]
 
-[^68-1]: Angenommen in der [Volksabstimmung vom 24. Sept. 2006](http://www.admin.ch/ch/d/pore/va/20060924/index.html), in Kraft seit 1. Jan. 2010. Gewährleistungsbeschluss vom 12. Juni 2008 ([BBl 2008 5787](https://fedlex.data.admin.ch/eli/fga/2008/993)Art. 1 Ziff. 1, [1417](https://fedlex.data.admin.ch/eli/fga/2008/355)).
+[^68-1]: Angenommen in der [Volksabstimmung vom 12. März 2023](http://www.admin.ch/ch/d/pore/va/20230312/index.html), in Kraft seit 1. Jan. 2024. Gewährleistungsbeschluss vom 14. März 2024 ([BBl 2024 665](https://fedlex.data.admin.ch/eli/fga/2024/665)Art. 1; [2023 2671](https://fedlex.data.admin.ch/eli/fga/2023/2671)).
+[^68-2]: Angenommen in der [Volksabstimmung vom 24. Sept. 2006](http://www.admin.ch/ch/d/pore/va/20060924/index.html), in Kraft seit 1. Jan. 2010. Gewährleistungsbeschluss vom 12. Juni 2008 ([BBl 2008 5787](https://fedlex.data.admin.ch/eli/fga/2008/993)Art. 1 Ziff. 1, [1417](https://fedlex.data.admin.ch/eli/fga/2008/355)).
+[^68-3]: Angenommen in der [Volksabstimmung vom 12. März 2023](http://www.admin.ch/ch/d/pore/va/20230312/index.html), in Kraft seit 1. Jan. 2024. Gewährleistungsbeschluss vom 14. März 2024 ([BBl 2024 665](https://fedlex.data.admin.ch/eli/fga/2024/665)Art. 1; [2023 2671](https://fedlex.data.admin.ch/eli/fga/2023/2671)).
+[^68-4]: Angenommen in der [Volksabstimmung vom 12. März 2023](http://www.admin.ch/ch/d/pore/va/20230312/index.html), in Kraft seit 1. Jan. 2024. Gewährleistungsbeschluss vom 14. März 2024 ([BBl 2024 665](https://fedlex.data.admin.ch/eli/fga/2024/665)Art. 1; [2023 2671](https://fedlex.data.admin.ch/eli/fga/2023/2671)).
+[^68-5]: Angenommen in der [Volksabstimmung vom 12. März 2023](http://www.admin.ch/ch/d/pore/va/20230312/index.html), in Kraft seit 1. Jan. 2024. Gewährleistungsbeschluss vom 14. März 2024 ([BBl 2024 665](https://fedlex.data.admin.ch/eli/fga/2024/665)Art. 1; [2023 2671](https://fedlex.data.admin.ch/eli/fga/2023/2671)).
+[^68-6]: Angenommen in der [Volksabstimmung vom 12. März 2023](http://www.admin.ch/ch/d/pore/va/20230312/index.html), in Kraft seit 1. Jan. 2024. Gewährleistungsbeschluss vom 14. März 2024 ([BBl 2024 665](https://fedlex.data.admin.ch/eli/fga/2024/665)Art. 1; [2023 2671](https://fedlex.data.admin.ch/eli/fga/2023/2671)).
 
 ### Delegationen
 
@@ -899,10 +908,11 @@ Der Grosse Rat beschliesst über:
 - a. den Voranschlag;
 - b.[^76-1] den Geschäftsbericht;
 - c. die Steueranlage;
-- d. den Rahmen einer Neuverschjuldung;
-- e. Ausgaben, soweit sie nicht in die Zuständigkeit des Regierungsrates fallen.
+- d. den Rahmen einer Neuverschuldung;
+- e.[^76-2] Ausgaben, soweit sie nicht in die Zuständigkeit des Regierungsrates oder der Justizverwaltungsleitung fallen.
 
 [^76-1]: Angenommen in der [Volksabstimmung vom 24. Febr. 2008](http://www.admin.ch/ch/d/pore/va/20080224/index.html), in Kraft seit 1. Jan. 2008. Gewährleistungsbeschluss vom 18. Dez. 2008 ([BBl 2009 555](https://fedlex.data.admin.ch/eli/fga/2009/92)Art. 1 Ziff. 1; [2008 6053](https://fedlex.data.admin.ch/eli/fga/2008/1088)).
+[^76-2]: Angenommen in der [Volksabstimmung vom 12. März 2023](http://www.admin.ch/ch/d/pore/va/20230312/index.html), in Kraft seit 1. Jan. 2024. Gewährleistungsbeschluss vom 14. März 2024 ([BBl 2024 665](https://fedlex.data.admin.ch/eli/fga/2024/665)Art. 1; [2023 2671](https://fedlex.data.admin.ch/eli/fga/2023/2671)).
 
 ### Wahlen
 
@@ -916,16 +926,29 @@ Der Grosse Rat wählt:
 - b. die Regierungspräsidentin oder den Regierungspräsidenten;
 - c. die Staatsschreiberin oder den Staatsschreiber;
 - d. die Präsidentin oder den Präsidenten von Obergericht und Verwaltungsgericht;
-- e. die übrigen Mitglieder der Gerichte, soweit diese Befugnis nicht dem Volk übertragen ist;
-- f. die Generalprokuratorin oder den Generalprokurator.
+- e.[^77-1] die übrigen Mitglieder der Gerichte, soweit das Gesetz nichts anderes bestimmt;
+- f.[^77-2] die Generalstaatsanwältin oder den Generalstaatsanwalt sowie die stellvertretenden Generalstaatsanwältinnen und Generalstaatsanwälte.
 
 <sup>2</sup> Das Gesetz kann ihm weitere Wahlen übertragen.
+
+[^77-1]: Angenommen in der [Volksabstimmung vom 12. März 2023](http://www.admin.ch/ch/d/pore/va/20230312/index.html), in Kraft seit 1. Jan. 2024. Gewährleistungsbeschluss vom 14. März 2024 ([BBl 2024 665](https://fedlex.data.admin.ch/eli/fga/2024/665)Art. 1; [2023 2671](https://fedlex.data.admin.ch/eli/fga/2023/2671)).
+[^77-2]: Angenommen in der [Volksabstimmung vom 12. März 2023](http://www.admin.ch/ch/d/pore/va/20230312/index.html), in Kraft seit 1. Jan. 2024. Gewährleistungsbeschluss vom 14. März 2024 ([BBl 2024 665](https://fedlex.data.admin.ch/eli/fga/2024/665)Art. 1; [2023 2671](https://fedlex.data.admin.ch/eli/fga/2023/2671)).
 
 ### Aufsicht
 
 #### Art. 78
 
-Der Grosse Rat beaufsichtigt die Regierung und die Geschäftsführung der obersten Gerichte und führt die Oberaufsicht über die Verwaltung und die anderen Träger öffentlicher Aufgaben.
+<sup>1</sup>
+
+Der Grosse Rat beaufsichtigt:
+
+- a. die Regierung;
+- b. die Geschäftsführung der Justizverwaltungsleitung, der obersten Gerichte und der Generalstaatsanwaltschaft.[^78-1]
+
+<sup>2</sup> Er übt die Oberaufsicht über die Verwaltung und die anderen Träger öffentlicher Aufgaben aus.[^78-2]
+
+[^78-1]: Angenommen in der [Volksabstimmung vom 12. März 2023](http://www.admin.ch/ch/d/pore/va/20230312/index.html), in Kraft seit 1. Jan. 2024. Gewährleistungsbeschluss vom 14. März 2024 ([BBl 2024 665](https://fedlex.data.admin.ch/eli/fga/2024/665)Art. 1; [2023 2671](https://fedlex.data.admin.ch/eli/fga/2023/2671)).
+[^78-2]: Angenommen in der [Volksabstimmung vom 12. März 2023](http://www.admin.ch/ch/d/pore/va/20230312/index.html), in Kraft seit 1. Jan. 2024. Gewährleistungsbeschluss vom 14. März 2024 ([BBl 2024 665](https://fedlex.data.admin.ch/eli/fga/2024/665)Art. 1; [2023 2671](https://fedlex.data.admin.ch/eli/fga/2023/2671)).
 
 ### Weitere Befugnisse
 
@@ -989,6 +1012,20 @@ Der Grosse Rat:
 <sup>2</sup> Er nimmt an den Sitzungen des Grossen Rates mit beratender Stimme teil.
 
 <sup>3</sup> Er kann sich durch seine Mitglieder vertreten lassen.
+
+### Stellung der Justizverwaltungs-leitung im Grossen Rat
+
+#### Art. 83a
+
+[^83a-1]
+
+<sup>1</sup> Die Justizverwaltungsleitung hat das Recht, dem Grossen Rat in den im Gesetz vorgesehenen Geschäften Anträge zu stellen.
+
+<sup>2</sup> Sie nimmt bei diesen Geschäften an den Sitzungen des Grossen Rates mit beratender Stimme teil.
+
+<sup>3</sup> Das Gesetz regelt die Mitwirkung des Regierungsrates bei der Vorbereitung der Geschäfte.
+
+[^83a-1]: Angenommen in der [Volksabstimmung vom 12. März 2023](http://www.admin.ch/ch/d/pore/va/20230312/index.html), in Kraft seit 1. Jan. 2024. Gewährleistungsbeschluss vom 14. März 2024 ([BBl 2024 665](https://fedlex.data.admin.ch/eli/fga/2024/665)Art. 1; [2023 2671](https://fedlex.data.admin.ch/eli/fga/2023/2671)).
 
 ### 5.3 Regierungsrat
 
@@ -1153,19 +1190,47 @@ Im Gesetz zu regeln sind namentlich:
 
 Durch Gesetz kann eine kantonale Ombudsstelle geschaffen werden.
 
-### 5.5 Gerichte
+### 5.5 Gerichte und Staatsanwaltschaft
+
+[^lvl5-lvl55-1]
+
+[^lvl5-lvl55-1]: Angenommen in der [Volksabstimmung vom 12. März 2023](http://www.admin.ch/ch/d/pore/va/20230312/index.html), in Kraft seit 1. Jan. 2024. Gewährleistungsbeschluss vom 14. März 2024 ([BBl 2024 665](https://fedlex.data.admin.ch/eli/fga/2024/665)Art. 1; [2023 2671](https://fedlex.data.admin.ch/eli/fga/2023/2671)).
 
 ### Allgemeines
 
 #### Art. 97
 
-<sup>1</sup> Die Unabhängigkeit der Gerichte ist gewährleistet.
+<sup>1</sup> Die Gerichte und die Staatsanwaltschaft sind in der Rechtsprechung und der Strafverfolgung unabhängig und nur dem Recht verpflichtet.[^97-1]
+
+<sup>1a</sup> Sie verwalten sich selbst, soweit das Gesetz nichts anderes bestimmt.[^97-2]
 
 <sup>2</sup> Die Gerichtsverhandlungen sind öffentlich. Die Urteile sind schriftlich zu begründen. Das Gesetz bezeichnet die Ausnahmen.
 
-<sup>3</sup> Das Gesetz regelt die Zuständigkeit der Gerichte.[^97-1]
+<sup>3</sup> Das Gesetz regelt die Organisation und die Zuständigkeit der Gerichte und der Staatsanwaltschaft.[^97-3]
 
-[^97-1]: Angenommen in der [Volksabstimmung vom 24. Sept. 2006](http://www.admin.ch/ch/d/pore/va/20060924/index.html), in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 12. Juni 2008 ([BBl 2008 5787](https://fedlex.data.admin.ch/eli/fga/2008/993)Art. 1 Ziff. 1, [1417](https://fedlex.data.admin.ch/eli/fga/2008/355)).
+[^97-1]: Angenommen in der [Volksabstimmung vom 12. März 2023](http://www.admin.ch/ch/d/pore/va/20230312/index.html), in Kraft seit 1. Jan. 2024. Gewährleistungsbeschluss vom 14. März 2024 ([BBl 2024 665](https://fedlex.data.admin.ch/eli/fga/2024/665)Art. 1; [2023 2671](https://fedlex.data.admin.ch/eli/fga/2023/2671)).
+[^97-2]: Angenommen in der [Volksabstimmung vom 12. März 2023](http://www.admin.ch/ch/d/pore/va/20230312/index.html), in Kraft seit 1. Jan. 2024. Gewährleistungsbeschluss vom 14. März 2024 ([BBl 2024 665](https://fedlex.data.admin.ch/eli/fga/2024/665)Art. 1; [2023 2671](https://fedlex.data.admin.ch/eli/fga/2023/2671)).
+[^97-3]: Angenommen in der [Volksabstimmung vom 12. März 2023](http://www.admin.ch/ch/d/pore/va/20230312/index.html), in Kraft seit 1. Jan. 2024. Gewährleistungsbeschluss vom 14. März 2024 ([BBl 2024 665](https://fedlex.data.admin.ch/eli/fga/2024/665)Art. 1; [2023 2671](https://fedlex.data.admin.ch/eli/fga/2023/2671)).
+
+### Justizverwaltungsleitung
+
+#### Art. 97a
+
+[^97a-1]
+
+<sup>1</sup> Die Justizverwaltungsleitung ist das gemeinsame Organ von Obergericht, Verwaltungsgericht und Generalstaatsanwaltschaft für die Selbstverwaltung der Justiz.
+
+<sup>2</sup> Das Gesetz regelt die Zusammensetzung und die Zuständigkeit der Justizverwaltungsleitung.
+
+<sup>3</sup>
+
+Die Justizverwaltungsleitung beschliesst über:
+
+- a. neue einmalige Ausgaben bis eine Million Franken;
+- b. neue wiederkehrende Ausgaben bis 200 000 Franken;
+- c. gebundene Ausgaben.
+
+[^97a-1]: Angenommen in der [Volksabstimmung vom 12. März 2023](http://www.admin.ch/ch/d/pore/va/20230312/index.html), in Kraft seit 1. Jan. 2024. Gewährleistungsbeschluss vom 14. März 2024 ([BBl 2024 665](https://fedlex.data.admin.ch/eli/fga/2024/665)Art. 1; [2023 2671](https://fedlex.data.admin.ch/eli/fga/2023/2671)).
 
 ### Zivilgerichte
 
@@ -1175,10 +1240,14 @@ Durch Gesetz kann eine kantonale Ombudsstelle geschaffen werden.
 
 Die Zivilgerichtsbarkeit wird ausgeübt durch:
 
-- a. die Gerichtspräsidentinnen und Gerichtspräsidenten;
-- b. das Obergericht.
+- a. die Schlichtungsbehörden;
+- b. die Regionalgerichte.
+- c. das Obergericht.[^98-1]
 
-<sup>2</sup> Durch Gesetz können besondere richterliche Behörden eingesetzt werden, namentlich für die Beurteilung von arbeitsrechtlichen, mietrechtlichen oder handelsrechtlichen Streitigkeiten.
+<sup>2</sup> Durch Gesetz können besondere richterliche Behörden eingesetzt werden.[^98-2]
+
+[^98-1]: Angenommen in der [Volksabstimmung vom 12. März 2023](http://www.admin.ch/ch/d/pore/va/20230312/index.html), in Kraft seit 1. Jan. 2024. Gewährleistungsbeschluss vom 14. März 2024 ([BBl 2024 665](https://fedlex.data.admin.ch/eli/fga/2024/665)Art. 1; [2023 2671](https://fedlex.data.admin.ch/eli/fga/2023/2671)).
+[^98-2]: Angenommen in der [Volksabstimmung vom 12. März 2023](http://www.admin.ch/ch/d/pore/va/20230312/index.html), in Kraft seit 1. Jan. 2024. Gewährleistungsbeschluss vom 14. März 2024 ([BBl 2024 665](https://fedlex.data.admin.ch/eli/fga/2024/665)Art. 1; [2023 2671](https://fedlex.data.admin.ch/eli/fga/2023/2671)).
 
 ### Strafgerichte
 
@@ -1188,15 +1257,17 @@ Die Zivilgerichtsbarkeit wird ausgeübt durch:
 
 Die Strafgerichtsbarkeit wird ausgeübt durch:
 
-- a. die Gerichtspräsidentinnen und Gerichtspräsidenten;
-- b.[^99-1] die Kreisgerichte oder die regionalen Kollegialgerichte;
-- c. die Jugendgerichte;
-- d. das Wirtschaftsstrafgericht;
+- a.[^99-1] die Regionalgerichte;
+- b.–d.[^99-2] …
 - e. das Obergericht.
+
+<sup>1a</sup> Durch Gesetz können besondere richterliche Behörden eingesetzt werden.[^99-3]
 
 <sup>2</sup> Durch Gesetz können Verwaltungsstrafbefugnisse auch den Verwaltungsbehörden des Kantons und der Gemeinden übertragen werden. Die richterliche Überprüfung bleibt vorbehalten.
 
-[^99-1]: Angenommen in der [Volksabstimmung vom 24. Sept. 2006](http://www.admin.ch/ch/d/pore/va/20060924/index.html), in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 12. Juni 2008 ([BBl 2008 5787](https://fedlex.data.admin.ch/eli/fga/2008/993)Art. 1 Ziff. 1, [1417](https://fedlex.data.admin.ch/eli/fga/2008/355)).
+[^99-1]: Angenommen in der [Volksabstimmung vom 12. März 2023](http://www.admin.ch/ch/d/pore/va/20230312/index.html), in Kraft seit 1. Jan. 2024. Gewährleistungsbeschluss vom 14. März 2024 ([BBl 2024 665](https://fedlex.data.admin.ch/eli/fga/2024/665)Art. 1; [2023 2671](https://fedlex.data.admin.ch/eli/fga/2023/2671)).
+[^99-2]: Aufgehoben in der [Volksabstimmung vom 12. März 2023](http://www.admin.ch/ch/d/pore/va/20230312/index.html), mit Wirkung seit 1. Jan. 2024. Gewährleistungsbeschluss vom 14. März 2024 ([BBl 2024 665](https://fedlex.data.admin.ch/eli/fga/2024/665)Art. 1; [2023 2671](https://fedlex.data.admin.ch/eli/fga/2023/2671)).
+[^99-3]: Angenommen in der [Volksabstimmung vom 12. März 2023](http://www.admin.ch/ch/d/pore/va/20230312/index.html), in Kraft seit 1. Jan. 2024. Gewährleistungsbeschluss vom 14. März 2024 ([BBl 2024 665](https://fedlex.data.admin.ch/eli/fga/2024/665)Art. 1; [2023 2671](https://fedlex.data.admin.ch/eli/fga/2023/2671)).
 
 ### Verwaltungsgericht
 
@@ -1205,6 +1276,16 @@ Die Strafgerichtsbarkeit wird ausgeübt durch:
 <sup>1</sup> Das Verwaltungsgericht beurteilt letztinstanzlich verwaltungsrechtliche Streitigkeiten, soweit das Gesetz sie nicht in die endgültige Zuständigkeit einer anderen Behörde legt.
 
 <sup>2</sup> Durch Gesetz können für die Beurteilung von verwaltungsrechtlichen Streitigkeiten besondere richterliche Behörden eingesetzt werden.
+
+### Staatsanwaltschaft
+
+#### Art. 100a
+
+[^100a-1]
+
+Die Staatsanwaltschaft nimmt die ihr im Gesetz zugewiesenen Aufgaben im Bereich der Strafverfolgung wahr.
+
+[^100a-1]: Angenommen in der [Volksabstimmung vom 12. März 2023](http://www.admin.ch/ch/d/pore/va/20230312/index.html), in Kraft seit 1. Jan. 2024. Gewährleistungsbeschluss vom 14. März 2024 ([BBl 2024 665](https://fedlex.data.admin.ch/eli/fga/2024/665)Art. 1; [2023 2671](https://fedlex.data.admin.ch/eli/fga/2023/2671)).
 
 ## 6 Finanzordnung
 
@@ -1220,31 +1301,23 @@ Die Strafgerichtsbarkeit wird ausgeübt durch:
 
 <sup>4</sup> Alle Aufgaben sind periodisch auf ihre Notwendigkeit und Zweckmässigkeit sowie auf ihre finanziellen Auswirkungen und deren Tragbarkeit zu überprüfen.
 
-### Schuldenbremse für die laufende Rechnung
-
-[^lvl6-lvlu2-1]
-
-[^lvl6-lvlu2-1]: Angenommen in der [Volksabstimmung vom 24. Febr. 2008](http://www.admin.ch/ch/d/pore/va/20080224/index.html), in Kraft seit 1. Jan. 2008. Gewährleistungsbeschluss vom 18. Dez. 2008 ([BBl 2009 555](https://fedlex.data.admin.ch/eli/fga/2009/92)Art. 1 Ziff. 1; [2008 6053](https://fedlex.data.admin.ch/eli/fga/2008/1088)).
+### Schuldenbremse für die Erfolgs-rechnung
 
 #### Art. 101a
 
 [^101a-1]
 
-<sup>1</sup> Der Voranschlag darf keinen Aufwandüberschuss ausweisen.
+<sup>1</sup> Das Budget darf nur einen Aufwandüberschuss aufweisen, wenn dieser durch einen Bilanzüberschuss gedeckt ist.
 
-<sup>2</sup> Ein Aufwandüberschuss des Geschäftsberichts wird dem Voranschlag des übernächsten Jahres belastet, soweit er nicht durch Eigenkapital gedeckt ist.[^101a-2]
+<sup>2</sup> Ein Aufwandüberschuss im Geschäftsbericht ist innert zwei Jahren abzutragen, wenn er nicht durch einen Bilanzüberschuss gedeckt ist.
 
-<sup>3</sup> Der Grosse Rat kann bei der Verabschiedung des Voranschlags von Absatz 1 abweichen, wenn mindestens drei Fünftel seiner Mitglieder es beschliessen. Bei der Genehmigung des Geschäftsberichts ist Absatz 2 im Umfang des im Voranschlag beschlossenen Aufwandüberschusses nicht anwendbar. Der Fehlbetrag ist innert vier Jahren abzutragen.[^101a-3]
+<sup>3</sup> Der Grosse Rat kann bei der Verabschiedung des Budgets mit Zustimmung von drei Fünfteln seiner Mitglieder von Absatz 1 abweichen. Bei der Genehmigung des Geschäftsberichts ist Absatz 2 im Umfang des im Budget beschlossenen Aufwandüberschusses nicht anwendbar. Ein Fehlbetrag ist innert fünf Jahren abzutragen.
 
-<sup>4</sup> Der Grosse Rat kann bei der Genehmigung des Geschäftsberichts von Absatz 2 in einem festzulegenden Umfang abweichen, wenn mindestens drei Fünftel seiner Mitglieder es beschliessen. Ein Fehlbetrag ist innert vier Jahren abzutragen.[^101a-4]
+<sup>4</sup> Der Grosse Rat kann bei der Genehmigung des Geschäftsberichts mit Zustimmung von drei Fünfteln seiner Mitglieder in einem festzulegenden Umfang von Absatz 2 abweichen. Ein Fehlbetrag ist innert fünf Jahren abzutragen.
 
-<sup>5</sup> Buchgewinne und Abschreibungen auf Anlagen des Finanzvermögens werden für die Anwendung der Absätze 1 und 2 nicht berücksichtigt.[^101a-5]
+<sup>5</sup> Buchgewinne und Wertberichtigungen auf Anlagen des Finanzvermögens werden für die Anwendung der Absätze 1 und 2 nicht berücksichtigt.
 
-[^101a-1]: Angenommen in der [Volksabstimmung vom 3. März 2002](http://www.admin.ch/ch/d/pore/va/20020303/index.html), in Kraft seit 1. Mai 2002. Gewährleistungsbeschluss vom 12. März 2003 ([BBl 2003 2887](https://fedlex.data.admin.ch/eli/fga/2003/364)Art. 1 Ziff. 1; [2002 6686](https://fedlex.data.admin.ch/eli/fga/2002/1083)).
-[^101a-2]: Angenommen in der [Volksabstimmung vom 24. Febr. 2008](http://www.admin.ch/ch/d/pore/va/20080224/index.html), in Kraft seit 1. Jan. 2008. Gewährleistungsbeschluss vom 18. Dez. 2008 ([BBl 2009 555](https://fedlex.data.admin.ch/eli/fga/2009/92)Art. 1 Ziff. 1; [2008 6053](https://fedlex.data.admin.ch/eli/fga/2008/1088)).
-[^101a-3]: Angenommen in der [Volksabstimmung vom 24. Febr. 2008](http://www.admin.ch/ch/d/pore/va/20080224/index.html), in Kraft seit 1. Jan. 2008. Gewährleistungsbeschluss vom 18. Dez. 2008 ([BBl 2009 555](https://fedlex.data.admin.ch/eli/fga/2009/92)Art. 1 Ziff. 1; [2008 6053](https://fedlex.data.admin.ch/eli/fga/2008/1088)).
-[^101a-4]: Angenommen in der [Volksabstimmung vom 24. Febr. 2008](http://www.admin.ch/ch/d/pore/va/20080224/index.html), in Kraft seit 1. Jan. 2008. Gewährleistungsbeschluss vom 18. Dez. 2008 ([BBl 2009 555](https://fedlex.data.admin.ch/eli/fga/2009/92)Art. 1 Ziff. 1; [2008 6053](https://fedlex.data.admin.ch/eli/fga/2008/1088)).
-[^101a-5]: Angenommen in der [Volksabstimmung vom 24. Febr. 2008](http://www.admin.ch/ch/d/pore/va/20080224/index.html), in Kraft seit 1. Jan. 2008. Gewährleistungsbeschluss vom 18. Dez. 2008 ([BBl 2009 555](https://fedlex.data.admin.ch/eli/fga/2009/92)Art. 1 Ziff. 1; [2008 6053](https://fedlex.data.admin.ch/eli/fga/2008/1088)).
+[^101a-1]: Angenommen in der [Volksabstimmung vom 18. Juni 2023](http://www.admin.ch/ch/d/pore/va/20230618/index.html), in Kraft seit 1. Jan. 2024. Gewährleistungsbeschluss vom 18. Sept. 2024 ([BBl 2024 2375](https://fedlex.data.admin.ch/eli/fga/2024/2375)Art. 1, [1245](https://fedlex.data.admin.ch/eli/fga/2024/1245)).
 
 ### Schuldenbremse für die Investitionsrechnung
 
@@ -1254,15 +1327,19 @@ Die Strafgerichtsbarkeit wird ausgeübt durch:
 
 <sup>1</sup> Der Selbstfinanzierungsgrad der Nettoinvestitionen hat mittelfristig mindestens 100 Prozent zu betragen.
 
-<sup>2</sup> Ein Selbstfinanzierungsrad der Nettoinvestitionen unter 100 Prozent im Voranschlag ist im Aufgaben- und Finanzplan zu kompensieren.
+<sup>2</sup> Ein Selbstfinanzierungsgrad der Nettoinvestitionen unter 100 Prozent im Budget ist im Aufgaben- und Finanzplan zu kompensieren, soweit er nicht durch Finanzierungsüber-schüsse der fünf dem Budgetjahr vorausgegangenen Jahre gedeckt ist.[^101b-2]
 
-<sup>3</sup> Ein Finanzierungsfehlbetrag im Geschäftsbericht ist im Voranschlag des übernächsten Jahres und der drei daran anschliessenden Jahre zu kompensieren.
+<sup>3</sup> Ein Finanzierungsfehlbetrag im Geschäftsbericht ist innert fünf Jahren zu kompensieren, soweit er nicht durch Finanzierungsüberschüsse der fünf dem Rechnungsjahr vorausgegangenen Jahre gedeckt ist.[^101b-3]
 
-<sup>4</sup> Der Grosse Rat kann die Frist für die Kompensation des Finanzierungsfehlbetrags auf acht Jahre verlängern oder auf die Kompensation ganz verzichten, wenn mindestens drei Fünftel seiner Mitglieder es beschliessen.
+<sup>4</sup> Der Grosse Rat kann die Frist für die Kompensation des Finanzierungsfehlbetrags mit Zustimmung von drei Fünfteln seiner Mitglieder auf neun Jahre verlängern oder ganz auf die Kompensation verzichten.[^101b-4]
 
-<sup>5</sup> Die Absätze 1‒4 gelangen zur Anwendung, wenn die Bruttoschuldenquote, definiert als Bruttoschuld relativ zum kantonalen Volkseinkommen, einen Wert von 12 Prozent übersteigt. Massgebend ist die Quote am Ende des vorausgegangenen Kalenderjahres.
+<sup>5</sup> Die Absätze 1–4 gelangen zur Anwendung, wenn die Nettoschuldenquote, definiert als Nettoschuld I relativ zum kantonalen Bruttoinlandprodukt, einen Wert von sechs Prozent übersteigt. Massgebend ist die Quote am Ende des vorausgegangenen Kalenderjahres.[^101b-5]
 
 [^101b-1]: Angenommen in der [Volksabstimmung vom 24. Febr. 2008](http://www.admin.ch/ch/d/pore/va/20080224/index.html), in Kraft seit 1. Jan. 2008. Gewährleistungsbeschluss vom 18. Dez. 2008 ([BBl 2009 555](https://fedlex.data.admin.ch/eli/fga/2009/92)Art. 1 Ziff. 1; [2008 6053](https://fedlex.data.admin.ch/eli/fga/2008/1088)).
+[^101b-2]: Angenommen in der [Volksabstimmung vom 18. Juni 2023](http://www.admin.ch/ch/d/pore/va/20230618/index.html), in Kraft seit 1. Jan. 2024. Gewährleistungsbeschluss vom 18. Sept. 2024 ([BBl 2024 2375](https://fedlex.data.admin.ch/eli/fga/2024/2375)Art. 1, [1245](https://fedlex.data.admin.ch/eli/fga/2024/1245)).
+[^101b-3]: Angenommen in der [Volksabstimmung vom 18. Juni 2023](http://www.admin.ch/ch/d/pore/va/20230618/index.html), in Kraft seit 1. Jan. 2024. Gewährleistungsbeschluss vom 18. Sept. 2024 ([BBl 2024 2375](https://fedlex.data.admin.ch/eli/fga/2024/2375)Art. 1, [1245](https://fedlex.data.admin.ch/eli/fga/2024/1245)).
+[^101b-4]: Angenommen in der [Volksabstimmung vom 18. Juni 2023](http://www.admin.ch/ch/d/pore/va/20230618/index.html), in Kraft seit 1. Jan. 2024. Gewährleistungsbeschluss vom 18. Sept. 2024 ([BBl 2024 2375](https://fedlex.data.admin.ch/eli/fga/2024/2375)Art. 1, [1245](https://fedlex.data.admin.ch/eli/fga/2024/1245)).
+[^101b-5]: Angenommen in der [Volksabstimmung vom 18. Juni 2023](http://www.admin.ch/ch/d/pore/va/20230618/index.html), in Kraft seit 1. Jan. 2024. Gewährleistungsbeschluss vom 18. Sept. 2024 ([BBl 2024 2375](https://fedlex.data.admin.ch/eli/fga/2024/2375)Art. 1, [1245](https://fedlex.data.admin.ch/eli/fga/2024/1245)).
 
 ### Steuererhöhungsbremse
 
@@ -1358,7 +1435,7 @@ Der Kanton Bern kennt folgende Gemeindearten:
 
 <sup>3</sup> Der Grosse Rat kann den Zusammenschluss von Gemeinden gegen ihren Willen anordnen, wenn es überwiegende kommunale, regionale oder kantonale Interessen erfordern. Die betroffenen Gemeinden sind vorher anzuhören.[^108-2]
 
-<sup>4</sup> Das Gesetz regelt das Nähere, insbesondere die Voraussetzungen und das Verfahren für die Anordnung eines Zusammenschlusses von Gemeinden gegen ihrenWillen.[^108-3]
+<sup>4</sup> Das Gesetz regelt das Nähere, insbesondere die Voraussetzungen und das Verfahren für die Anordnung eines Zusammenschlusses von Gemeinden gegen ihren Willen.[^108-3]
 
 <sup>5</sup> Der Kanton fördert den Zusammenschluss von Gemeinden.[^108-4]
 
@@ -1709,8 +1786,9 @@ Antragsrecht
 - – des Berner Jura 5
 - – der Landeskirchen 122
 - – des Regierungsrates im Grossen Rat 83
+- – des Justizverwaltungsleitung im Grossen Rat 83*a*
 
-Arbeit 30, 39
+**Arbeit** 30, 39
 
 - – freie Wahl des Arbeitsplatzes 23
 - – Gleichstellung 10
@@ -1805,7 +1883,7 @@ Begründungspflicht
 
 **Behinderte** 30
 
-**Behörden** 66–100
+**Behörden** 66–100*a*
 
 - – Beantwortung von Petitionen 20
 - – Bearbeitung von Personendaten 18
@@ -1852,7 +1930,9 @@ Betreuung
 
 **Briefgeheimnis** 12
 
-**Budget** s. Voranschlag
+**Budget** 101*a*, 101*b*
+
+- – s. auch Voranschlag
 
 Bund
 
@@ -2059,7 +2139,7 @@ Gebiet
 
 **Gemischte Gemeinden** 120
 
-**Generalprokurator/in** Wahl 77
+**Generalstaatsanwaltschaft** 77, 78, 97*a*
 
 **Generationen** künftige
 
@@ -2070,16 +2150,14 @@ Gebiet
 
 **Genugtuung** bei Freiheitsentzug 25
 
-**Gerichte** 97–100
+**Gerichte** 97–100*a*
 
 Gerichtsbehörden
 
-- – Amts- oder Kreisgerichte 99
 - – Ausstand 68
-- – Gerichtspräsident/in 98, 99
-- – Kreisgerichte 99
 - – Obergericht 77, 98, 99
-- – regionale Kollegialgerichte 99
+- – Regionalgerichte 77, 98, 99
+- – Staatsanwaltschaft 100*a*
 - – Strafgerichtsbarkeit 99
 - – Unvereinbarkeiten 68
 - – Verwaltungsgericht 100
@@ -2127,7 +2205,7 @@ Gewerkschaften
 
 **Grenzkorrekturen** 90
 
-**Grosser Rat** 72–83
+**Grosser Rat** 72–83*a*
 
 - – Aufgaben, Zuständigkeiten 74–79
 - – ausserordentliche Gesamterneuerung 57
@@ -2229,14 +2307,15 @@ Interkantonale und internationale Verträge
 
 Justizbehörden
 
-- – Gerichte 98–100
+- – Gerichte 97–100*a*
+- – Justizverwaltungsleitung 78, 83*a*, 97*a*
 - – konkrete Normenkontrolle 66
 - – Regierungsrat 90
 - – Regierungsstatthalter 93
 
 **Kantonalbank** 53
 
-**Kantonale Behörden** 66–100
+**Kantonale Behörden** 66–100*a*
 
 **Kantonale Verwaltung** 92–96
 
@@ -2524,7 +2603,7 @@ Rechtssetzung
 - – Regierungsrat 88
 - – andere Träger öffentlicher Aufgaben 95
 
-Rechtsgleichheit 10
+**Rechtsgleichheit** 10
 
 - – im Steuerrecht 104
 
@@ -2537,11 +2616,11 @@ Rechtspflege
 - – unentgeltliche 26
 - – s. auch Justizbehörden
 
-Rechtsschutz 26
+**Rechtsschutz** 26
 
 - – s. auch Verfahrensgarantien
 
-Rechtsstaat 1
+**Rechtsstaat** 1
 
 Referendum
 
@@ -2574,13 +2653,15 @@ Referendum
 
 Regionale Zusammenarbeit
 
-- – Gemeinden 110a
-- – Umsetzung Strategie für Agglomerationen 110a
+- – Gemeinden 110*a*
+- – Umsetzung Strategie für Agglomerationen 110*a*
+
+**Regionalgerichte** 98, 99
 
 Regionen
 
 - – Europas 54
-- – regionale Aufgabenerfüllung 3, 94, 110a
+- – regionale Aufgabenerfüllung 3, 94, 110*a*
 - – regional ausgewogene Wirtschaft 50
 - – Berner Jura 5
 - – andere regionale Minderheiten 4
@@ -2612,6 +2693,8 @@ Schadenersatz
 - – Enteignung 24
 - – Freiheitsentzug 25
 - – Haftung 71, 111
+
+**Schlichtungsbehörden** 98
 
 **Schranken der Grundrechte** 28
 
@@ -2662,6 +2745,8 @@ Sitzgarantie Berner Jura
 - – Regierungsrat französischer Sprache 84
 - – Sprachenfreiheit 15
 
+**Staatsanwaltschaft** 97–100*a*
+
 **Staatsgewalt** 1
 
 **Staatshaftung** s. Haftung
@@ -2674,15 +2759,13 @@ Sitzgarantie Berner Jura
 
 **Staatsverträge** s. interkantonale und internationale Verträge
 
-Standesinitiative 58, 79
+**Standesinitiative** 58, 79
 
 Ständerat
 
 - – Unvereinbarkeiten 68
 - – Volkswahl 56
 - – Wählbarkeit 67
-
-**Stellung des Regierungsrates im Grossen Rat** 83
 
 Steueranlage
 
@@ -2914,8 +2997,8 @@ Vollzugsbehörden
 
 Voranschlag
 
+- – fehlende Referendumsfähigkeit 62
 - – Beschluss 76
-- – Schuldenbremse 101*a*, 101*b*
 - – Notwendigkeit eines Voranschlagkredits 105
 - – Verabschiedung 89
 

@@ -4,20 +4,21 @@ title: "Constitution du canton de Berne, du 6 juin 1993 (ConstC)"
 short: ConstC
 eli: "https://fedlex.data.admin.ch/eli/cc/1994/1_401_401_361_fga"
 language: fr
-version: 2023-09-20
+version: 2024-01-01
 adopted: 1993-06-06
 in_force: 1995-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1_401_401_361_fga/20230920/fr/xml/fedlex-data-admin-ch-eli-cc-1994-1_401_401_361_fga-20230920-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1994/1_401_401_361_fga/20230920/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1_401_401_361_fga/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-1994-1_401_401_361_fga-20240101-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1994/1_401_401_361_fga/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Constitution du canton de Berne
+# Constitution du canton de Berne (ConstC)
 
-du 6 juin 1993 (État le 20 septembre 2023)[^t-1]
+du 6 juin 1993 (État le 1<sup>er</sup> janvier 2024)[^t-2][^t-1]
 
-[^t-1]: Cette publication se base sur les garanties fédérales publiées dans la FF. Elle peut de ce fait différer temporairement de la publication cantonale. La date de l’état est celle du dernier AF publié dans la FF.
+[^t-1]: Accepté en [votation populaire du 12 mars 2023](http://www.admin.ch/ch/f/pore/va/20230312/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2024. Garantie de l’Ass. féd. du 14 mars 2024 ([FF 2024 665](https://fedlex.data.admin.ch/eli/fga/2024/665)art. 1; [2023 2671](https://fedlex.data.admin.ch/eli/fga/2023/2671)).
+[^t-2]: Cette publication se base sur les garanties fédérales publiées dans la FF. Elle peut de ce fait différer temporairement de la publication cantonale.
 
 Dans l’intention de protéger la liberté et le droit et d’aménager une collectivité dans laquelle tous vivent solidairement et sont conscients de leur responsabilité envers la création,
 
@@ -51,7 +52,7 @@ le peuple bernois se donne la Constitution suivante:
 
 <sup>3</sup> Des organisations régionales peuvent être créées pour accomplir des tâches particulières.
 
-[^3-1]: Accepté en [votation populaire du 24 sept. 2006](http://www.admin.ch/ch/f/pore/va/20060924/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2010. Garantie de l’Ass. féd. du 12 juin 2008 ([FF 2008 5263](https://fedlex.data.admin.ch/eli/fga/2008/993)art. 1 ch. 1 [1265](https://fedlex.data.admin.ch/eli/fga/2008/355)).
+[^3-1]: Accepté en [votation populaire du 24 sept. 2006](http://www.admin.ch/ch/f/pore/va/20060924/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2010. Garantie de l’Ass. féd. du 12 juin 2008 ([FF 2008 5263](https://fedlex.data.admin.ch/eli/fga/2008/993)art. 1 ch. 1, [1265](https://fedlex.data.admin.ch/eli/fga/2008/355)).
 
 ### Minorités
 
@@ -69,7 +70,7 @@ le peuple bernois se donne la Constitution suivante:
 
 <sup>2</sup> Le canton prend des mesures pour renforcer les liens entre le Jura bernois et le reste du canton.
 
-[^5-1]: Accepté en [votation populaire du 24 sept. 2006](http://www.admin.ch/ch/f/pore/va/20060924/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2010. Garantie de l’Ass. féd. du 12 juin 2008 ([FF 2008 5263](https://fedlex.data.admin.ch/eli/fga/2008/993)art. 1 ch. 1 [1265](https://fedlex.data.admin.ch/eli/fga/2008/355)).
+[^5-1]: Accepté en [votation populaire du 24 sept. 2006](http://www.admin.ch/ch/f/pore/va/20060924/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2010. Garantie de l’Ass. féd. du 12 juin 2008 ([FF 2008 5263](https://fedlex.data.admin.ch/eli/fga/2008/993)art. 1 ch. 1, [1265](https://fedlex.data.admin.ch/eli/fga/2008/355)).
 
 ### Langues
 
@@ -96,8 +97,8 @@ Les langues officielles des communes des arrondissements administratifs de la r�
 
 <sup>5</sup> Toute personne peut s’adresser dans la langue officielle de son choix aux autorités compétentes pour l’ensemble du canton.[^6-4]
 
-[^6-1]: Accepté en [votation populaire du 24 sept. 2006](http://www.admin.ch/ch/f/pore/va/20060924/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2010. Garantie de l’Ass. féd. du 12 juin 2008 ([FF 2008 5263](https://fedlex.data.admin.ch/eli/fga/2008/993)art. 1 ch. 1 [1265](https://fedlex.data.admin.ch/eli/fga/2008/355)).
-[^6-2]: Accepté en [votation populaire du 24 sept. 2006](http://www.admin.ch/ch/f/pore/va/20060924/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2010. Garantie de l’Ass. féd. du 12 juin 2008 ([FF 2008 5263](https://fedlex.data.admin.ch/eli/fga/2008/993)art. 1 ch. 1 [1265](https://fedlex.data.admin.ch/eli/fga/2008/355)).
+[^6-1]: Accepté en [votation populaire du 24 sept. 2006](http://www.admin.ch/ch/f/pore/va/20060924/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2010. Garantie de l’Ass. féd. du 12 juin 2008 ([FF 2008 5263](https://fedlex.data.admin.ch/eli/fga/2008/993)art. 1 ch. 1, [1265](https://fedlex.data.admin.ch/eli/fga/2008/355)).
+[^6-2]: Accepté en [votation populaire du 24 sept. 2006](http://www.admin.ch/ch/f/pore/va/20060924/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2010. Garantie de l’Ass. féd. du 12 juin 2008 ([FF 2008 5263](https://fedlex.data.admin.ch/eli/fga/2008/993)art. 1 ch. 1, [1265](https://fedlex.data.admin.ch/eli/fga/2008/355)).
 [^6-3]: Anciennement al. 3.
 [^6-4]: Anciennement al. 4.
 
@@ -121,9 +122,9 @@ Le droit de cité est notamment refusé à quiconque:
 
 <sup>4</sup> Nul ne peut se prévaloir du droit de cité.[^7-3]
 
-[^7-1]: Accepté en [votation populaire du 24 nov. 2013](http://www.admin.ch/ch/f/pore/va/20131124/index.html), en vigueur depuis le 11 déc. 2013. Garantie de l’Ass. féd. du 11 mars 2015 ([FF 2015 2811](https://fedlex.data.admin.ch/eli/fga/2015/613)art. 1 ch. 1, [2014 8899](https://fedlex.data.admin.ch/eli/fga/2014/1987)).
-[^7-2]: Accepté en [votation populaire du 24 nov. 2013](http://www.admin.ch/ch/f/pore/va/20131124/index.html), en vigueur depuis le 11 déc. 2013. Garantie de l’Ass. féd. du 11 mars 2015 ([FF 2015 2811](https://fedlex.data.admin.ch/eli/fga/2015/613)art. 1 ch. 1, [2014 8899](https://fedlex.data.admin.ch/eli/fga/2014/1987)).
-[^7-3]: Accepté en [votation populaire du 24 nov. 2013](http://www.admin.ch/ch/f/pore/va/20131124/index.html), en vigueur depuis le 11 déc. 2013. Garantie de l’Ass. féd. du 11 mars 2015 ([FF 2015 2811](https://fedlex.data.admin.ch/eli/fga/2015/613)art. 1 ch. 1, [2014 8899](https://fedlex.data.admin.ch/eli/fga/2014/1987)).
+[^7-1]: Accepté en [votation populaire du 24 nov. 2013](http://www.admin.ch/ch/f/pore/va/20131124/index.html), en vigueur depuis le 11 déc. 2013. Garantie de l’Ass. féd. du 11 mars 2015 ([FF 2015 2811](https://fedlex.data.admin.ch/eli/fga/2015/613)art. 1 ch. 1; [2014 8899](https://fedlex.data.admin.ch/eli/fga/2014/1987)).
+[^7-2]: Accepté en [votation populaire du 24 nov. 2013](http://www.admin.ch/ch/f/pore/va/20131124/index.html), en vigueur depuis le 11 déc. 2013. Garantie de l’Ass. féd. du 11 mars 2015 ([FF 2015 2811](https://fedlex.data.admin.ch/eli/fga/2015/613)art. 1 ch. 1; [2014 8899](https://fedlex.data.admin.ch/eli/fga/2014/1987)).
+[^7-3]: Accepté en [votation populaire du 24 nov. 2013](http://www.admin.ch/ch/f/pore/va/20131124/index.html), en vigueur depuis le 11 déc. 2013. Garantie de l’Ass. féd. du 11 mars 2015 ([FF 2015 2811](https://fedlex.data.admin.ch/eli/fga/2015/613)art. 1 ch. 1; [2014 8899](https://fedlex.data.admin.ch/eli/fga/2014/1987)).
 
 ### Devoirs
 
@@ -706,7 +707,7 @@ Sont obligatoirement soumis au vote populaire:
 
 <sup>2</sup> 100 membres du Grand Conseil peuvent décider que le corps électoral se prononcera obligatoirement sur un projet soumis à la votation facultative.[^61-1]
 
-[^61-1]: Accepté en [votation populaire du 22 sept. 2002](http://www.admin.ch/ch/f/pore/va/20020922/index.html), en vigueur depuis le 1<sup>er</sup> juin 2006. Garantie de l’Ass. féd. du 24 sept. 2003 ([FF 2003 6299](https://fedlex.data.admin.ch/eli/fga/2003/1134)art. 1 ch. 1 [2999](https://fedlex.data.admin.ch/eli/fga/2003/488)).
+[^61-1]: Accepté en [votation populaire du 22 sept. 2002](http://www.admin.ch/ch/f/pore/va/20020922/index.html), en vigueur depuis le 1<sup>er</sup> juin 2006. Garantie de l’Ass. féd. du 24 sept. 2003 ([FF 2003 6299](https://fedlex.data.admin.ch/eli/fga/2003/1134)art. 1 ch. 1, [2999](https://fedlex.data.admin.ch/eli/fga/2003/488)).
 
 ### Votation facultative
 
@@ -725,7 +726,7 @@ Sont en outre soumis au vote populaire, lorsque celui-ci est demandé:
 
 <sup>2</sup> La demande de vote populaire doit être signée par 10 000 citoyens et citoyennes dans les trois mois qui suivent la publication du projet.
 
-[^62-1]: Acceptée en [votation populaire du 24 fév. 2008](http://www.admin.ch/ch/f/pore/va/20080224/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2008. Garantie de l’Ass. féd. du 18 déc. 2008 ([FF 2009 465](https://fedlex.data.admin.ch/eli/fga/2009/92)art. 1 ch. 1, [2008 5497](https://fedlex.data.admin.ch/eli/fga/2008/1088)).
+[^62-1]: Acceptée en [votation populaire du 24 fév. 2008](http://www.admin.ch/ch/f/pore/va/20080224/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2008. Garantie de l’Ass. féd. du 18 déc. 2008 ([FF 2009 465](https://fedlex.data.admin.ch/eli/fga/2009/92)art. 1 ch. 1; [2008 5497](https://fedlex.data.admin.ch/eli/fga/2008/1088)).
 
 ### Procédure
 
@@ -793,17 +794,25 @@ Sont en outre soumis au vote populaire, lorsque celui-ci est demandé:
 Ne peuvent être simultanément membres du Grand Conseil:
 
 - a. les membres du Conseil-exécutif;
-- b. les membres des autorités judiciaires cantonales;
-- c.[^68-1] le personnel de l’administration centrale et de l’administration décentralisée du canton;
+- b.[^68-1] les membres des autorités judiciaires cantonales et du Ministère public;
+- c.[^68-2] le personnel de l’administration centrale et de l’administration décentralisée du canton;
+- c1.[^68-3] le personnel des autorités judiciaires et du Ministère public;
 - d. les personnes assumant d’autres fonctions déclarées incompatibles par la loi.
 
-<sup>2</sup> Les membres d’une autorité judiciaire cantonale ne peuvent pas simultanément être membres du Conseil-exécutif, ni appartenir à l’administration cantonale.
+<sup>1a</sup> Dans des cas motivés, la loi peut prévoir des exceptions à l’al. 1, let. c.[^68-4]
+
+<sup>2</sup> Les membres d’une autorité judiciaire cantonale ou du Ministère public ne peuvent pas simultanément être membres du Conseil-exécutif, ni appartenir à l’administration centrale ou décentralisée du canton.[^68-5]
 
 <sup>3</sup> Il est interdit aux membres du Conseil-exécutif de siéger à l’Assemblée fédérale.
 
-<sup>4</sup> Les membres des autorités ainsi que les agents et agentes de l’administration cantonale doivent se récuser lorsque sont traitées des affaires qui les concernent directement.
+<sup>4</sup> Les membres des autorités ainsi que le personnel de l’administration cantonale, des autorités judiciaires et du Ministère public doivent se récuser lorsque sont traitées des affaires qui les concernent directement.[^68-6]
 
-[^68-1]: Acceptée en [votation populaire du 24 sept. 2006](http://www.admin.ch/ch/f/pore/va/20060924/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2010. Garantie de l’Ass. féd. du 12 juin 2008 ([FF 2008 5263](https://fedlex.data.admin.ch/eli/fga/2008/993)art. 1 ch. 1 [1265](https://fedlex.data.admin.ch/eli/fga/2008/355)).
+[^68-1]: Acceptée en [votation populaire du 12 mars 2023](http://www.admin.ch/ch/f/pore/va/20230312/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2024. Garantie de l’Ass. féd. du 14 mars 2024 ([FF 2024 665](https://fedlex.data.admin.ch/eli/fga/2024/665)art. 1; [2023 2671](https://fedlex.data.admin.ch/eli/fga/2023/2671)).
+[^68-2]: Acceptée en [votation populaire du 24 sept. 2006](http://www.admin.ch/ch/f/pore/va/20060924/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2010. Garantie de l’Ass. féd. du 12 juin 2008 ([FF 2008 5263](https://fedlex.data.admin.ch/eli/fga/2008/993)art. 1 ch. 1, [1265](https://fedlex.data.admin.ch/eli/fga/2008/355)).
+[^68-3]: Acceptée en [votation populaire du 12 mars 2023](http://www.admin.ch/ch/f/pore/va/20230312/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2024. Garantie de l’Ass. féd. du 14 mars 2024 ([FF 2024 665](https://fedlex.data.admin.ch/eli/fga/2024/665)art. 1; [2023 2671](https://fedlex.data.admin.ch/eli/fga/2023/2671)).
+[^68-4]: Accepté en [votation populaire du 12 mars 2023](http://www.admin.ch/ch/f/pore/va/20230312/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2024. Garantie de l’Ass. féd. du 14 mars 2024 ([FF 2024 665](https://fedlex.data.admin.ch/eli/fga/2024/665)art. 1; [2023 2671](https://fedlex.data.admin.ch/eli/fga/2023/2671)).
+[^68-5]: Accepté en [votation populaire du 12 mars 2023](http://www.admin.ch/ch/f/pore/va/20230312/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2024. Garantie de l’Ass. féd. du 14 mars 2024 ([FF 2024 665](https://fedlex.data.admin.ch/eli/fga/2024/665)art. 1; [2023 2671](https://fedlex.data.admin.ch/eli/fga/2023/2671)).
+[^68-6]: Accepté en [votation populaire du 12 mars 2023](http://www.admin.ch/ch/f/pore/va/20230312/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2024. Garantie de l’Ass. féd. du 14 mars 2024 ([FF 2024 665](https://fedlex.data.admin.ch/eli/fga/2024/665)art. 1; [2023 2671](https://fedlex.data.admin.ch/eli/fga/2023/2671)).
 
 ### Délégation
 
@@ -851,7 +860,7 @@ Les autorités sont tenues de donner au public une information suffisante sur le
 
 Le Grand Conseil se compose de 160 membres élus pour une durée de quatre ans.
 
-[^72-1]: Accepté en [votation populaire du 22 sept. 2002](http://www.admin.ch/ch/f/pore/va/20020922/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2006. Garantie de l’Ass. féd. du 24 sept. 2003 ([FF 2003 6299](https://fedlex.data.admin.ch/eli/fga/2003/1134)art. 1 ch. 1 [2999](https://fedlex.data.admin.ch/eli/fga/2003/488)).
+[^72-1]: Accepté en [votation populaire du 22 sept. 2002](http://www.admin.ch/ch/f/pore/va/20020922/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2006. Garantie de l’Ass. féd. du 24 sept. 2003 ([FF 2003 6299](https://fedlex.data.admin.ch/eli/fga/2003/1134)art. 1 ch. 1, [2999](https://fedlex.data.admin.ch/eli/fga/2003/488)).
 
 ### Élection
 
@@ -865,9 +874,9 @@ Le Grand Conseil se compose de 160 membres élus pour une durée de quatre ans.
 
 <sup>4</sup> Les sièges sont répartis entre les listes en fonction des suffrages de parti obtenus dans les cercles électoraux.[^73-3]
 
-[^73-1]: Accepté en [votation populaire du 22 sept. 2002](http://www.admin.ch/ch/f/pore/va/20020922/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2006. Garantie de l’Ass. féd. du 24 sept. 2003 ([FF 2003 6299](https://fedlex.data.admin.ch/eli/fga/2003/1134)art. 1 ch. 1 [2999](https://fedlex.data.admin.ch/eli/fga/2003/488)).
-[^73-2]: Accepté en [votation populaire du 22 sept. 2002](http://www.admin.ch/ch/f/pore/va/20020922/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2006. Garantie de l’Ass. féd. du 24 sept. 2003 ([FF 2003 6299](https://fedlex.data.admin.ch/eli/fga/2003/1134)art. 1 ch. 1 [2999](https://fedlex.data.admin.ch/eli/fga/2003/488)).
-[^73-3]: Accepté en [votation populaire du 30 nov. 2008](http://www.admin.ch/ch/f/pore/va/20081130/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2010. Garantie de l’Ass. féd. du 10 déc. 2009 ([FF 2009 8295](https://fedlex.data.admin.ch/eli/fga/2009/1541)art. 1 ch. 1 [5361](https://fedlex.data.admin.ch/eli/fga/2009/1077))
+[^73-1]: Accepté en [votation populaire du 22 sept. 2002](http://www.admin.ch/ch/f/pore/va/20020922/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2006. Garantie de l’Ass. féd. du 24 sept. 2003 ([FF 2003 6299](https://fedlex.data.admin.ch/eli/fga/2003/1134)art. 1 ch. 1, [2999](https://fedlex.data.admin.ch/eli/fga/2003/488)).
+[^73-2]: Accepté en [votation populaire du 22 sept. 2002](http://www.admin.ch/ch/f/pore/va/20020922/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2006. Garantie de l’Ass. féd. du 24 sept. 2003 ([FF 2003 6299](https://fedlex.data.admin.ch/eli/fga/2003/1134)art. 1 ch. 1, [2999](https://fedlex.data.admin.ch/eli/fga/2003/488)).
+[^73-3]: Accepté en [votation populaire du 30 nov. 2008](http://www.admin.ch/ch/f/pore/va/20081130/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2010. Garantie de l’Ass. féd. du 10 déc. 2009 ([FF 2009 8295](https://fedlex.data.admin.ch/eli/fga/2009/1541)art. 1 ch. 1, [5361](https://fedlex.data.admin.ch/eli/fga/2009/1077))
 
 ### Compétences législatives
 
@@ -890,7 +899,7 @@ Le Grand Conseil approuve:
 
 Le Grand Conseil traite le programme gouvernemental de législature, le plan intégré «mission-financement» et d’autres plans fondamentaux concernant des domaines particuliers.
 
-[^75-1]: Accepté en [votation populaire du 24 fév. 2008](http://www.admin.ch/ch/f/pore/va/20080224/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2008. Garantie de l’Ass. féd. du 18 déc. 2008 ([FF 2009 465](https://fedlex.data.admin.ch/eli/fga/2009/92)art. 1 ch. 1, [2008 5497](https://fedlex.data.admin.ch/eli/fga/2008/1088)).
+[^75-1]: Accepté en [votation populaire du 24 fév. 2008](http://www.admin.ch/ch/f/pore/va/20080224/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2008. Garantie de l’Ass. féd. du 18 déc. 2008 ([FF 2009 465](https://fedlex.data.admin.ch/eli/fga/2009/92)art. 1 ch. 1; [2008 5497](https://fedlex.data.admin.ch/eli/fga/2008/1088)).
 
 ### Compétences financières
 
@@ -902,9 +911,10 @@ Le Grand Conseil arrête:
 - b.[^76-1] le rapport de gestion;
 - c. la quotité de l’impôt;
 - d. le cadre d’un nouvel endettement;
-- e. les dépenses qui ne sont pas de la compétence du Conseil-exécutif.
+- e.[^76-2] les dépenses qui ne sont pas de la compétence du Conseil-exécutif ou de la Direction administrative de la magistrature.
 
-[^76-1]: Acceptée en [votation populaire du 24 fév. 2008](http://www.admin.ch/ch/f/pore/va/20080224/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2008. Garantie de l’Ass. féd. du 18 déc. 2008 ([FF 2009 465](https://fedlex.data.admin.ch/eli/fga/2009/92)art. 1 ch. 1, [2008 5497](https://fedlex.data.admin.ch/eli/fga/2008/1088)).
+[^76-1]: Acceptée en [votation populaire du 24 fév. 2008](http://www.admin.ch/ch/f/pore/va/20080224/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2008. Garantie de l’Ass. féd. du 18 déc. 2008 ([FF 2009 465](https://fedlex.data.admin.ch/eli/fga/2009/92)art. 1 ch. 1; [2008 5497](https://fedlex.data.admin.ch/eli/fga/2008/1088)).
+[^76-2]: Acceptée en [votation populaire du 12 mars 2023](http://www.admin.ch/ch/f/pore/va/20230312/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2024. Garantie de l’Ass. féd. du 14 mars 2024 ([FF 2024 665](https://fedlex.data.admin.ch/eli/fga/2024/665)art. 1; [2023 2671](https://fedlex.data.admin.ch/eli/fga/2023/2671)).
 
 ### Compétences électorales
 
@@ -918,16 +928,29 @@ Le Grand Conseil élit:
 - b. le président ou la présidente du Conseil-exécutif;
 - c. le chancelier ou la chancelière d’État;
 - d. le président ou la présidente de la Cour suprême et celui ou celle du Tribunal administratif;
-- e. les autres membres des tribunaux, dans la mesure où cette compétence n’est pas attribuée au corps électoral;
-- f. le procureur général ou la procureure générale.
+- e.[^77-1] les autres membres des tribunaux, dans la mesure où la loi n’en dispose pas autrement;
+- f.[^77-2] le procureur général ou la procureure générale ainsi que les procureurs généraux suppléants ou les procureures générales suppléantes.
 
 <sup>2</sup> La loi peut le charger d’élire d’autres autorités.
+
+[^77-1]: Acceptée en [votation populaire du 12 mars 2023](http://www.admin.ch/ch/f/pore/va/20230312/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2024. Garantie de l’Ass. féd. du 14 mars 2024 ([FF 2024 665](https://fedlex.data.admin.ch/eli/fga/2024/665)art. 1; [2023 2671](https://fedlex.data.admin.ch/eli/fga/2023/2671)).
+[^77-2]: Acceptée en [votation populaire du 12 mars 2023](http://www.admin.ch/ch/f/pore/va/20230312/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2024. Garantie de l’Ass. féd. du 14 mars 2024 ([FF 2024 665](https://fedlex.data.admin.ch/eli/fga/2024/665)art. 1; [2023 2671](https://fedlex.data.admin.ch/eli/fga/2023/2671)).
 
 ### Surveillance
 
 #### Art. 78
 
-Le Grand Conseil exerce la surveillance sur le Conseil-exécutif et sur la gestion des tribunaux suprêmes ainsi que la haute surveillance sur l’administration et sur les autres organisations chargées de tâches publiques.
+<sup>1</sup>
+
+Le Grand Conseil exerce la surveillance sur:
+
+- a. le Conseil-exécutif;
+- b. la gestion de la Direction administrative de la magistrature, des tribunaux suprêmes et du Parquet général.[^78-1]
+
+<sup>2</sup> Il exerce la haute surveillance sur l’administration et sur les autres organisations chargées de tâches publiques.[^78-2]
+
+[^78-1]: Accepté en [votation populaire du 12 mars 2023](http://www.admin.ch/ch/f/pore/va/20230312/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2024. Garantie de l’Ass. féd. du 14 mars 2024 ([FF 2024 665](https://fedlex.data.admin.ch/eli/fga/2024/665)art. 1; [2023 2671](https://fedlex.data.admin.ch/eli/fga/2023/2671)).
+[^78-2]: Accepté en [votation populaire du 12 mars 2023](http://www.admin.ch/ch/f/pore/va/20230312/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2024. Garantie de l’Ass. féd. du 14 mars 2024 ([FF 2024 665](https://fedlex.data.admin.ch/eli/fga/2024/665)art. 1; [2023 2671](https://fedlex.data.admin.ch/eli/fga/2023/2671)).
 
 ### Autres compétences
 
@@ -947,7 +970,7 @@ Le Grand Conseil:
 
 <sup>2</sup> La loi attribue au Grand Conseil la compétence d’octroyer, modifier, renouveler et transférer d’importantes concessions.
 
-[^79-1]: Abrogée en [votation populaire du 25 sept. 2005](http://www.admin.ch/ch/f/pore/va/20050925/index.html), avec effet au 1<sup>er</sup> juin 2006. Garantie de l’Ass. féd. du 18 juin 2007 ([FF 2007 4689](https://fedlex.data.admin.ch/eli/fga/2007/694)art. 1 ch. 1 [581](https://fedlex.data.admin.ch/eli/fga/2007/86)).
+[^79-1]: Abrogée en [votation populaire du 25 sept. 2005](http://www.admin.ch/ch/f/pore/va/20050925/index.html), avec effet au 1<sup>er</sup> juin 2006. Garantie de l’Ass. féd. du 18 juin 2007 ([FF 2007 4689](https://fedlex.data.admin.ch/eli/fga/2007/694)art. 1 ch. 1, [581](https://fedlex.data.admin.ch/eli/fga/2007/86)).
 
 ### Mandats au Conseil-exécutif, arrêtés de principe
 
@@ -990,6 +1013,20 @@ Le Grand Conseil:
 <sup>2</sup> Il participe aux séances du Grand Conseil avec voix consultative.
 
 <sup>3</sup> Il peut se faire représenter par ses membres.
+
+### Statut de la Direction administrative de la magistrature devant le Grand Conseil
+
+#### Art. 83a
+
+[^83a-1]
+
+<sup>1</sup> La Direction administrative de la magistrature a le droit de soumettre au Grand Conseil des propositions concernant les affaires prévues par la loi.
+
+<sup>2</sup> Elle participe aux séances du Grand Conseil avec voix consultative lors du traitement de ces affaires.
+
+<sup>3</sup> La loi règle la participation du Conseil-exécutif à la préparation des affaires.
+
+[^83a-1]: Accepté en [votation populaire du 12 mars 2023](http://www.admin.ch/ch/f/pore/va/20230312/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2024. Garantie de l’Ass. féd. du 14 mars 2024 ([FF 2024 665](https://fedlex.data.admin.ch/eli/fga/2024/665)art. 1; [2023 2671](https://fedlex.data.admin.ch/eli/fga/2023/2671)).
 
 ### 5.3 Conseil-exécutif
 
@@ -1066,7 +1103,7 @@ Il arrête:
 
 <sup>4</sup> Il met à disposition les moyens financiers nécessaires.
 
-[^89-1]: Accepté en [votation populaire du 24 fév. 2008](http://www.admin.ch/ch/f/pore/va/20080224/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2008. Garantie de l’Ass. féd. du 18 déc. 2008 ([FF 2009 465](https://fedlex.data.admin.ch/eli/fga/2009/92)art. 1 ch. 1, [2008 5497](https://fedlex.data.admin.ch/eli/fga/2008/1088)).
+[^89-1]: Accepté en [votation populaire du 24 fév. 2008](http://www.admin.ch/ch/f/pore/va/20080224/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2008. Garantie de l’Ass. féd. du 18 déc. 2008 ([FF 2009 465](https://fedlex.data.admin.ch/eli/fga/2009/92)art. 1 ch. 1; [2008 5497](https://fedlex.data.admin.ch/eli/fga/2008/1088)).
 
 ### Autres compétences
 
@@ -1101,6 +1138,8 @@ Le Conseil-exécutif peut, sans base légale, prendre des mesures afin de parer 
 
 <sup>3</sup> Une proportion équitable du personnel doit être de langue française.
 
+### Administration de district
+
 #### Art. 93
 
 [^93-1]
@@ -1115,7 +1154,7 @@ Le Conseil-exécutif peut, sans base légale, prendre des mesures afin de parer 
 
 <sup>5</sup> La loi désigne les limites des districts.
 
-[^93-1]: Accepté en [votation populaire du 24 sept. 2006](http://www.admin.ch/ch/f/pore/va/20060924/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2010. Garantie de l’Ass. féd. du 12 juin 2008 ([FF 2008 5263](https://fedlex.data.admin.ch/eli/fga/2008/993)art. 1 ch. 1 [1265](https://fedlex.data.admin.ch/eli/fga/2008/355)).
+[^93-1]: Accepté en [votation populaire du 24 sept. 2006](http://www.admin.ch/ch/f/pore/va/20060924/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2010. Garantie de l’Ass. féd. du 12 juin 2008 ([FF 2008 5263](https://fedlex.data.admin.ch/eli/fga/2008/993)art. 1 ch. 1, [1265](https://fedlex.data.admin.ch/eli/fga/2008/355)).
 
 ### Exécution régionale de tâches cantonales
 
@@ -1152,19 +1191,47 @@ La loi règle notamment:
 
 La loi peut créer un service cantonal de médiation.
 
-### 5.5 Tribunaux
+### 5.5 Tribunaux et Ministère public
+
+[^lvl5-lvl55-1]
+
+[^lvl5-lvl55-1]: Accepté en [votation populaire du 12 mars 2023](http://www.admin.ch/ch/f/pore/va/20230312/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2024. Garantie de l’Ass. féd. du 14 mars 2024 ([FF 2024 665](https://fedlex.data.admin.ch/eli/fga/2024/665)art. 1; [2023 2671](https://fedlex.data.admin.ch/eli/fga/2023/2671)).
 
 ### Généralités
 
 #### Art. 97
 
-<sup>1</sup> L’indépendance des tribunaux est garantie.
+<sup>1</sup> Les tribunaux et le Ministère public sont indépendants dans l’exercice de leurs compétences juridictionnelles et de la poursuite pénale, et ne sont soumis qu’au droit.[^97-1]
+
+<sup>1a</sup> Ils s’administrent eux-mêmes, pour autant que la loi n’en dispose pas autrement.[^97-2]
 
 <sup>2</sup> Les débats devant les tribunaux sont publics. Les jugements des tribunaux sont motivés par écrit. La loi règle les exceptions.
 
-<sup>3</sup> La loi règle la compétence des tribunaux.[^97-1]
+<sup>3</sup> La loi règle l’organisation et la compétence des tribunaux et du Ministère public.[^97-3]
 
-[^97-1]: Accepté en [votation populaire du 24 sept. 2006](http://www.admin.ch/ch/f/pore/va/20060924/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2011. Garantie de l’Ass. féd. du 12 juin 2008 ([FF 2008 5263](https://fedlex.data.admin.ch/eli/fga/2008/993)art. 1 ch. 1 [1265](https://fedlex.data.admin.ch/eli/fga/2008/355)).
+[^97-1]: Accepté en [votation populaire du 12 mars 2023](http://www.admin.ch/ch/f/pore/va/20230312/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2024. Garantie de l’Ass. féd. du 14 mars 2024 ([FF 2024 665](https://fedlex.data.admin.ch/eli/fga/2024/665)art. 1; [2023 2671](https://fedlex.data.admin.ch/eli/fga/2023/2671)).
+[^97-2]: Accepté en [votation populaire du 12 mars 2023](http://www.admin.ch/ch/f/pore/va/20230312/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2024. Garantie de l’Ass. féd. du 14 mars 2024 ([FF 2024 665](https://fedlex.data.admin.ch/eli/fga/2024/665)art. 1; [2023 2671](https://fedlex.data.admin.ch/eli/fga/2023/2671)).
+[^97-3]: Accepté en [votation populaire du 12 mars 2023](http://www.admin.ch/ch/f/pore/va/20230312/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2024. Garantie de l’Ass. féd. du 14 mars 2024 ([FF 2024 665](https://fedlex.data.admin.ch/eli/fga/2024/665)art. 1; [2023 2671](https://fedlex.data.admin.ch/eli/fga/2023/2671)).
+
+### Direction administrative de la magistrature
+
+#### Art. 97a
+
+[^97a-1]
+
+<sup>1</sup> La Direction administrative de la magistrature est l’organe d’autoadministration de la justice commun à la Cour suprême, au Tribunal administratif et au Parquet général.
+
+<sup>2</sup> La loi règle la composition et les compétences de la Direction administrative de la magistrature.
+
+<sup>3</sup>
+
+La Direction administrative de la magistrature arrête:
+
+- a. les dépenses nouvelles uniques jusqu’à concurrence d’un million de francs;
+- b. les dépenses nouvelles périodiques jusqu’à concurrence de 200 000 francs;
+- c. les dépenses liées.
+
+[^97a-1]: Accepté en [votation populaire du 12 mars 2023](http://www.admin.ch/ch/f/pore/va/20230312/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2024. Garantie de l’Ass. féd. du 14 mars 2024 ([FF 2024 665](https://fedlex.data.admin.ch/eli/fga/2024/665)art. 1; [2023 2671](https://fedlex.data.admin.ch/eli/fga/2023/2671)).
 
 ### Juridiction civile
 
@@ -1174,10 +1241,14 @@ La loi peut créer un service cantonal de médiation.
 
 La juridiction civile est exercée par:
 
-- a. les présidents et présidentes des tribunaux;
-- b. la Cour suprême.
+- a. les autorités de conciliation;
+- b. les tribunaux régionaux;
+- c. la Cour suprême.[^98-1]
 
-<sup>2</sup> La loi peut instituer des autorités judiciaires spéciales pour connaître de litiges de droit civil, notamment dans les domaines du droit du travail, du droit du bail ou du droit commercial.
+<sup>2</sup> La loi peut instituer des autorités judiciaires spéciales.[^98-2]
+
+[^98-1]: Accepté en [votation populaire du 12 mars 2023](http://www.admin.ch/ch/f/pore/va/20230312/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2024. Garantie de l’Ass. féd. du 14 mars 2024 ([FF 2024 665](https://fedlex.data.admin.ch/eli/fga/2024/665)art. 1; [2023 2671](https://fedlex.data.admin.ch/eli/fga/2023/2671)).
+[^98-2]: Accepté en [votation populaire du 12 mars 2023](http://www.admin.ch/ch/f/pore/va/20230312/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2024. Garantie de l’Ass. féd. du 14 mars 2024 ([FF 2024 665](https://fedlex.data.admin.ch/eli/fga/2024/665)art. 1; [2023 2671](https://fedlex.data.admin.ch/eli/fga/2023/2671)).
 
 ### Juridiction pénale
 
@@ -1187,15 +1258,18 @@ La juridiction civile est exercée par:
 
 La juridiction pénale est exercée par:
 
-- a. les présidents et présidentes des tribunaux;
-- b.[^99-1] les tribunaux d’arrondissement ou les tribunaux collégiaux régionaux;
-- c. les tribunaux des mineurs;
-- d. le Tribunal pénal économique;
+- a.[^99-1] les tribunaux régionaux;
+- b. à d.[^99-2] …
 - e. la Cour suprême.
 
-<sup>2</sup> La loi peut attribuer des compétences en matière de droit pénal administratif aux autorités administratives du canton et des communes. Le contrôle judiciaire est réservé.
+<sup>1a</sup> La loi peut instituer des autorités judiciaires spéciales.[^99-3]
 
-[^99-1]: Acceptée en [votation populaire du 24 sept. 2006](http://www.admin.ch/ch/f/pore/va/20060924/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2011. Garantie de l’Ass. féd. du 12 juin 2008 ([FF 2008 5263](https://fedlex.data.admin.ch/eli/fga/2008/993)art. 1 ch. 1 [1265](https://fedlex.data.admin.ch/eli/fga/2008/355)).
+<sup>2</sup> Elle peut attribuer des compétences en matière de droit pénal administratif aux autorités administratives du canton et des communes. Le contrôle judiciaire est réservé.[^99-4]
+
+[^99-1]: Acceptée en [votation populaire du 12 mars 2023](http://www.admin.ch/ch/f/pore/va/20230312/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2024. Garantie de l’Ass. féd. du 14 mars 2024 ([FF 2024 665](https://fedlex.data.admin.ch/eli/fga/2024/665)art. 1; [2023 2671](https://fedlex.data.admin.ch/eli/fga/2023/2671)).
+[^99-2]: Abrogées en [votation populaire du 12 mars 2023](http://www.admin.ch/ch/f/pore/va/20230312/index.html), avec effet au 1<sup>er</sup> janv. 2024. Garantie de l’Ass. féd. du 14 mars 2024 ([FF 2024 665](https://fedlex.data.admin.ch/eli/fga/2024/665)art. 1; [2023 2671](https://fedlex.data.admin.ch/eli/fga/2023/2671)).
+[^99-3]: Accepté en [votation populaire du 12 mars 2023](http://www.admin.ch/ch/f/pore/va/20230312/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2024. Garantie de l’Ass. féd. du 14 mars 2024 ([FF 2024 665](https://fedlex.data.admin.ch/eli/fga/2024/665)art. 1; [2023 2671](https://fedlex.data.admin.ch/eli/fga/2023/2671)).
+[^99-4]: Accepté en [votation populaire du 12 mars 2023](http://www.admin.ch/ch/f/pore/va/20230312/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2024. Garantie de l’Ass. féd. du 14 mars 2024 ([FF 2024 665](https://fedlex.data.admin.ch/eli/fga/2024/665)art. 1; [2023 2671](https://fedlex.data.admin.ch/eli/fga/2023/2671)).
 
 ### Juridiction administrative
 
@@ -1204,6 +1278,16 @@ La juridiction pénale est exercée par:
 <sup>1</sup> Le Tribunal administratif connaît en dernière instance des contestations administratives qui, de par la loi, ne sont pas de la compétence définitive d’une autre autorité.
 
 <sup>2</sup> La loi peut instituer des autorités judiciaires spéciales pour connaître de contestations administratives.
+
+### Ministère public
+
+#### Art. 100a
+
+[^100a-1]
+
+Le Ministère public accomplit les tâches que la loi lui attribue en matière de poursuite pénale.
+
+[^100a-1]: Accepté en [votation populaire du 12 mars 2023](http://www.admin.ch/ch/f/pore/va/20230312/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2024. Garantie de l’Ass. féd. du 14 mars 2024 ([FF 2024 665](https://fedlex.data.admin.ch/eli/fga/2024/665)art. 1; [2023 2671](https://fedlex.data.admin.ch/eli/fga/2023/2671)).
 
 ## 6 Régime des finances
 
@@ -1219,31 +1303,23 @@ La juridiction pénale est exercée par:
 
 <sup>4</sup> Chaque tâche sera périodiquement contrôlée afin de vérifier si elle est encore nécessaire et utile et si la charge financière qu’elle occasionne reste supportable.
 
-### Frein à l’endettement appliqué au compte de fonctionnement
-
-[^lvl6-lvlu2-1]
-
-[^lvl6-lvlu2-1]: Accepté en [votation populaire du 24 fév. 2008](http://www.admin.ch/ch/f/pore/va/20080224/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2008. Garantie de l’Ass. féd. du 18 déc. 2008 ([FF 2009 465](https://fedlex.data.admin.ch/eli/fga/2009/92)art. 1 ch. 1, [2008 5497](https://fedlex.data.admin.ch/eli/fga/2008/1088)).
+### Frein à l’endettement appliqué au compte de résultats
 
 #### Art. 101a
 
 [^101a-1]
 
-<sup>1</sup> Le budget ne peut présenter d’excédent de charges.
+<sup>1</sup> Le budget ne peut présenter d’excédent de charges que si celui-ci est couvert par un excédent du bilan.
 
-<sup>2</sup> L’excédent de charges du rapport de gestion est reporté au budget du deuxième exercice suivant, dans la mesure où il ne peut pas être couvert par le capital propre.[^101a-2]
+<sup>2</sup> Un excédent de charges dans le rapport de gestion doit être amorti dans un délai de deux ans, à moins qu’il ne soit couvert par un excédent du bilan.
 
-<sup>3</sup> Lors de l’adoption du budget, le Grand Conseil peut déroger à l’al. 1, si trois cinquièmes au moins de ses membres le décident. Lors de l’approbation du rapport de gestion, l’al. 2 n’est pas applicable au montant de l’excédent de charges fixé dans le budget. Le découvert doit être amorti dans les quatre ans.[^101a-3]
+<sup>3</sup> Lors de l’adoption du budget, le Grand Conseil peut déroger à l’al. 1 avec l’approbation de trois cinquièmes de ses membres. Lors de l’approbation du rapport de gestion, l’al. 2 n’est pas applicable au montant de l’excédent de charges fixé dans le budget. Un découvert doit être amorti dans les cinq ans.
 
-<sup>4</sup> Lors de l’approbation du rapport de gestion, le Grand Conseil peut déroger à l’al. 2, dans une mesure à déterminer, si trois cinquièmes au moins de ses membres le décident. Le découvert doit être amorti dans les quatre ans.[^101a-4]
+<sup>4</sup> Lors de l’approbation du rapport de gestion, le Grand Conseil peut déroger à l’al. 2 avec l’approbation de trois cinquièmes de ses membres, dans une mesure à déterminer. Le découvert doit être amorti dans les cinq ans.
 
-<sup>5</sup> Les gains comptables et les amortissements réalisés sur les placements du patrimoine financier ne sont pas pris en compte dans l’application des al. 1 et 2.[^101a-5]
+<sup>5</sup> Les gains comptables et les corrections de valeur réalisés sur les placements du patrimoine financier ne sont pas pris en compte dans l’application des al. 1 et 2.
 
-[^101a-1]: Accepté en [votation populaire du 3 mars 2002](http://www.admin.ch/ch/f/pore/va/20020303/index.html), en vigueur depuis le 1<sup>er</sup> mai 2002. Garantie de l’Ass. féd. du 12 mars 2003 ([FF 2003 2572](https://fedlex.data.admin.ch/eli/fga/2003/364)art. 1 ch. 1, [2002 6213](https://fedlex.data.admin.ch/eli/fga/2002/1083)).
-[^101a-2]: Accepté en [votation populaire du 24 fév. 2008](http://www.admin.ch/ch/f/pore/va/20080224/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2008. Garantie de l’Ass. féd. du 18 déc. 2008 ([FF 2009 465](https://fedlex.data.admin.ch/eli/fga/2009/92)art. 1 ch. 1, [2008 5497](https://fedlex.data.admin.ch/eli/fga/2008/1088)).
-[^101a-3]: Accepté en [votation populaire du 24 fév. 2008](http://www.admin.ch/ch/f/pore/va/20080224/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2008. Garantie de l’Ass. féd. du 18 déc. 2008 ([FF 2009 465](https://fedlex.data.admin.ch/eli/fga/2009/92)art. 1 ch. 1, [2008 5497](https://fedlex.data.admin.ch/eli/fga/2008/1088)).
-[^101a-4]: Accepté en [votation populaire du 24 fév. 2008](http://www.admin.ch/ch/f/pore/va/20080224/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2008. Garantie de l’Ass. féd. du 18 déc. 2008 ([FF 2009 465](https://fedlex.data.admin.ch/eli/fga/2009/92)art. 1 ch. 1, [2008 5497](https://fedlex.data.admin.ch/eli/fga/2008/1088)).
-[^101a-5]: Accepté en [votation populaire du 24 fév. 2008](http://www.admin.ch/ch/f/pore/va/20080224/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2008. Garantie de l’Ass. féd. du 18 déc. 2008 ([FF 2009 465](https://fedlex.data.admin.ch/eli/fga/2009/92)art. 1 ch. 1, [2008 5497](https://fedlex.data.admin.ch/eli/fga/2008/1088)).
+[^101a-1]: Accepté en [votation populaire du 18 juin 2023](http://www.admin.ch/ch/f/pore/va/20230618/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2024. Garantie de l’Ass. féd. du 18 sept. 2024 ([FF 2024 2375](https://fedlex.data.admin.ch/eli/fga/2024/2375)art. 1,[1245](https://fedlex.data.admin.ch/eli/fga/2024/1245)).
 
 ### Frein à l’endettement appliqué au compte des investissements
 
@@ -1253,15 +1329,19 @@ La juridiction pénale est exercée par:
 
 <sup>1</sup> Le degré d’autofinancement de l’investissement net doit être de 100 pour cent au moins à moyen terme.
 
-<sup>2</sup> Si le degré d’autofinancement de l’investissement net inscrit dans le budget est inférieur à 100 pour cent, il doit être compensé dans le plan intégré «mission-financement».
+<sup>2</sup> Si le degré d’autofinancement de l’investissement net inscrit au budget est inférieur à 100 pour cent, il doit être compensé dans le plan intégré mission-financement, dans la mesure où il n’est pas couvert par des excédents de financement des cinq années précédant l’exercice du budget.[^101b-2]
 
-<sup>3</sup> Un découvert figurant dans le rapport de gestion doit être compensé dans le budget de la deuxième année qui suit ainsi que les trois années suivantes.
+<sup>3</sup> Un découvert figurant dans le rapport de gestion doit être compensé dans un délai de cinq ans, dans la mesure où il n’est pas couvert par des excédents de financement des cinq années précédant l’exercice du rapport.[^101b-3]
 
-<sup>4</sup> Le Grand Conseil peut décider à la majorité de trois cinquièmes de ses membres de prolonger à huit ans le délai de la compensation du découvert ou de renoncer entièrement à la compensation.
+<sup>4</sup> Avec l’approbation de trois cinquièmes de ses membres, le Grand Conseil peut décider de prolonger à neuf ans le délai de la compensation du découvert ou de renoncer entièrement à la compensation.[^101b-4]
 
-<sup>5</sup> Les al. 1 à 4 s’appliquent uniquement lorsque la quote-part de l’endettement brut, qui se définit comme le rapport entre l’endettement brut et le revenu cantonal, excède un taux de 12 pour cent. La valeur déterminante est la quote-part à la fin de l’année civile qui précède.
+<sup>5</sup> Les al. 1 à 4 s’appliquent uniquement lorsque la quote-part de l’endettement net, qui se définit comme le rapport entre l’endettement net I et le produit intérieur brut cantonal, excède un taux de six pour cent. La valeur déterminante est la quote-part à la fin de l’année civile qui précède.[^101b-5]
 
-[^101b-1]: Accepté en [votation populaire du 24 fév. 2008](http://www.admin.ch/ch/f/pore/va/20080224/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2008. Garantie de l’Ass. féd. du 18 déc. 2008 ([FF 2009 465](https://fedlex.data.admin.ch/eli/fga/2009/92)art. 1 ch. 1, [2008 5497](https://fedlex.data.admin.ch/eli/fga/2008/1088)).
+[^101b-1]: Accepté en [votation populaire du 24 fév. 2008](http://www.admin.ch/ch/f/pore/va/20080224/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2008. Garantie de l’Ass. féd. du 18 déc. 2008 ([FF 2009 465](https://fedlex.data.admin.ch/eli/fga/2009/92)art. 1 ch. 1; [2008 5497](https://fedlex.data.admin.ch/eli/fga/2008/1088)).
+[^101b-2]: Accepté en [votation populaire du 18 juin 2023](http://www.admin.ch/ch/f/pore/va/20230618/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2024. Garantie de l’Ass. féd. du 18 sept. 2024 ([FF 2024 2375](https://fedlex.data.admin.ch/eli/fga/2024/2375)art. 1,[1245](https://fedlex.data.admin.ch/eli/fga/2024/1245)).
+[^101b-3]: Accepté en [votation populaire du 18 juin 2023](http://www.admin.ch/ch/f/pore/va/20230618/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2024. Garantie de l’Ass. féd. du 18 sept. 2024 ([FF 2024 2375](https://fedlex.data.admin.ch/eli/fga/2024/2375)art. 1,[1245](https://fedlex.data.admin.ch/eli/fga/2024/1245)).
+[^101b-4]: Accepté en [votation populaire du 18 juin 2023](http://www.admin.ch/ch/f/pore/va/20230618/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2024. Garantie de l’Ass. féd. du 18 sept. 2024 ([FF 2024 2375](https://fedlex.data.admin.ch/eli/fga/2024/2375)art. 1,[1245](https://fedlex.data.admin.ch/eli/fga/2024/1245)).
+[^101b-5]: Accepté en [votation populaire du 18 juin 2023](http://www.admin.ch/ch/f/pore/va/20230618/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2024. Garantie de l’Ass. féd. du 18 sept. 2024 ([FF 2024 2375](https://fedlex.data.admin.ch/eli/fga/2024/2375)art. 1,[1245](https://fedlex.data.admin.ch/eli/fga/2024/1245)).
 
 ### Frein à l’augmentation des impôts
 
@@ -1271,7 +1351,7 @@ La juridiction pénale est exercée par:
 
 Toute augmentation de la quotité d’impôt par le Grand Conseil qui induit globalement un accroissement des recettes fiscales du canton nécessite l’approbation de la majorité des membres du Grand Conseil.
 
-[^101c-1]: Accepté en [votation populaire du 24 fév. 2008](http://www.admin.ch/ch/f/pore/va/20080224/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2008. Garantie de l’Ass. féd. du 18 déc. 2008 ([FF 2009 465](https://fedlex.data.admin.ch/eli/fga/2009/92)art. 1 ch. 1, [2008 5497](https://fedlex.data.admin.ch/eli/fga/2008/1088)).
+[^101c-1]: Accepté en [votation populaire du 24 fév. 2008](http://www.admin.ch/ch/f/pore/va/20080224/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2008. Garantie de l’Ass. féd. du 18 déc. 2008 ([FF 2009 465](https://fedlex.data.admin.ch/eli/fga/2009/92)art. 1 ch. 1; [2008 5497](https://fedlex.data.admin.ch/eli/fga/2008/1088)).
 
 ### Ressources financières
 
@@ -1361,10 +1441,10 @@ Le canton de Berne connaît les types de communes suivants:
 
 <sup>5</sup> Le canton encourage les fusions de communes.[^108-4]
 
-[^108-1]: Accepté en [votation populaire du 23 sept. 2012](http://www.admin.ch/ch/f/pore/va/20120923/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2013. Garantie de l’Ass. féd. du 24 sept. 2014 (2014 ([FF 2014 7615](https://fedlex.data.admin.ch/eli/fga/2014/1644)art. 1 ch. 2 [3573](https://fedlex.data.admin.ch/eli/fga/2014/868)).
-[^108-2]: Accepté en [votation populaire du 23 sept. 2012](http://www.admin.ch/ch/f/pore/va/20120923/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2013. Garantie de l’Ass. féd. du 24 sept. 2014 (2014 ([FF 2014 7615](https://fedlex.data.admin.ch/eli/fga/2014/1644)art. 1 ch. 2 [3573](https://fedlex.data.admin.ch/eli/fga/2014/868)).
-[^108-3]: Accepté en [votation populaire du 23 sept. 2012](http://www.admin.ch/ch/f/pore/va/20120923/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2013. Garantie de l’Ass. féd. du 24 sept. 2014 (2014 ([FF 2014 7615](https://fedlex.data.admin.ch/eli/fga/2014/1644)art. 1 ch. 2 [3573](https://fedlex.data.admin.ch/eli/fga/2014/868)).
-[^108-4]: Accepté en [votation populaire du 23 sept. 2012](http://www.admin.ch/ch/f/pore/va/20120923/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2013. Garantie de l’Ass. féd. du 24 sept. 2014 (2014 ([FF 2014 7615](https://fedlex.data.admin.ch/eli/fga/2014/1644)art. 1 ch. 2 [3573](https://fedlex.data.admin.ch/eli/fga/2014/868)).
+[^108-1]: Accepté en [votation populaire du 23 sept. 2012](http://www.admin.ch/ch/f/pore/va/20120923/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2013. Garantie de l’Ass. féd. du 24 sept. 2014 (2014 ([FF 2014 7615](https://fedlex.data.admin.ch/eli/fga/2014/1644)art. 1 ch. 2, [3573](https://fedlex.data.admin.ch/eli/fga/2014/868)).
+[^108-2]: Accepté en [votation populaire du 23 sept. 2012](http://www.admin.ch/ch/f/pore/va/20120923/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2013. Garantie de l’Ass. féd. du 24 sept. 2014 (2014 ([FF 2014 7615](https://fedlex.data.admin.ch/eli/fga/2014/1644)art. 1 ch. 2, [3573](https://fedlex.data.admin.ch/eli/fga/2014/868)).
+[^108-3]: Accepté en [votation populaire du 23 sept. 2012](http://www.admin.ch/ch/f/pore/va/20120923/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2013. Garantie de l’Ass. féd. du 24 sept. 2014 (2014 ([FF 2014 7615](https://fedlex.data.admin.ch/eli/fga/2014/1644)art. 1 ch. 2, [3573](https://fedlex.data.admin.ch/eli/fga/2014/868)).
+[^108-4]: Accepté en [votation populaire du 23 sept. 2012](http://www.admin.ch/ch/f/pore/va/20120923/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2013. Garantie de l’Ass. féd. du 24 sept. 2014 (2014 ([FF 2014 7615](https://fedlex.data.admin.ch/eli/fga/2014/1644)art. 1 ch. 2, [3573](https://fedlex.data.admin.ch/eli/fga/2014/868)).
 
 ### Autonomie
 
@@ -1400,7 +1480,7 @@ Le canton de Berne connaît les types de communes suivants:
 
 <sup>4</sup> Le corps électoral exprime sa volonté lors des votations régionales. Le droit de vote appartient aux personnes domiciliées dans le périmètre de la collectivité qui ont le droit de vote en matière cantonale.
 
-[^110a-1]: Accepté en [votation populaire du 17 juin 2007](http://www.admin.ch/ch/f/pore/va/20070617/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2008. Garantie de l’Ass. féd. du 12 juin 2008 ([FF 2008 5263](https://fedlex.data.admin.ch/eli/fga/2008/993)art. 1 ch. 1 [1265](https://fedlex.data.admin.ch/eli/fga/2008/355)).
+[^110a-1]: Accepté en [votation populaire du 17 juin 2007](http://www.admin.ch/ch/f/pore/va/20070617/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2008. Garantie de l’Ass. féd. du 12 juin 2008 ([FF 2008 5263](https://fedlex.data.admin.ch/eli/fga/2008/993)art. 1 ch. 1, [1265](https://fedlex.data.admin.ch/eli/fga/2008/355)).
 
 ### Organisation
 
@@ -1432,7 +1512,7 @@ Le canton de Berne connaît les types de communes suivants:
 
 <sup>3</sup> La péréquation financière atténue les inégalités résultant des différences de capacité contributive entre les communes municipales et tend à équilibrer la charge fiscale. Dans les cas prévus par la loi, les prestations liées à la péréquation financière peuvent être réduites ou refusées.[^113-1]
 
-[^113-1]: Accepté en [votation populaire du 23 sept. 2012](http://www.admin.ch/ch/f/pore/va/20120923/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2013. Garantie de l’Ass. féd. du 24 sept. 2014 (2014 ([FF 2014 7615](https://fedlex.data.admin.ch/eli/fga/2014/1644)art. 1 ch. 2 [3573](https://fedlex.data.admin.ch/eli/fga/2014/868)).
+[^113-1]: Accepté en [votation populaire du 23 sept. 2012](http://www.admin.ch/ch/f/pore/va/20120923/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2013. Garantie de l’Ass. féd. du 24 sept. 2014 (2014 ([FF 2014 7615](https://fedlex.data.admin.ch/eli/fga/2014/1644)art. 1 ch. 2, [3573](https://fedlex.data.admin.ch/eli/fga/2014/868)).
 
 ### Droit de vote
 
@@ -1709,7 +1789,6 @@ Arrêtés de principe
 **Arrondissements**
 
 - – administratifs 3, 6, 93
-- – judiciaires 99
 
 **Art** liberté 22
 
@@ -1753,12 +1832,9 @@ Autorités d’exécution
 **Autorités judiciaires** 97–100
 
 - – ordinaires
-  - – Cour suprême 98, 99
-  - – présidents des tribunaux 98, 99
+  - – Cour suprême 98
   - – Tribunal administratif 100
-  - – Tribunal pénal économique 99
-  - – tribunaux d’arrondissement ou tribunaux collégiaux régionaux 99
-  - – tribunaux des mineurs 99
+  - – tribunaux régionaux 98, 99
 
 - – spéciales
   - – dans le domaine du droit du bail 98
@@ -1812,7 +1888,7 @@ Autorités de police
 Budget
 
 - – arrêté du Grand Conseil 76
-- – frein à l’endettement appliqué au compte de fonctionnement 101*a*
+- – frein à l’endettement appliqué au compte de résultats 101*a*
 - – frein à l’endettement appliqué au compte des investissements 101*b*
 - – nécessité d’un crédit budgétaire 105
 - – proposition par le Conseil-exécutif 89
@@ -1980,7 +2056,7 @@ Coopération
 
 **Couleur** interdiction des discriminations 10
 
-**Cour suprême** 98, 99
+**Cour suprême** 98
 
 - – élection du président 77
 
@@ -2028,6 +2104,11 @@ Croyance
 
 - – délégation de leurs compétences 69
 - – structure 87
+
+**Direction administrative de la magistrature** 97*a*
+
+- – statuts 83*a*
+- – surveillance 78
 
 **Directives** 80
 
@@ -2298,7 +2379,7 @@ Français
 
 **Frein**
 
-- – à l’endettement appliqué au compte de fonctionnement 101*a*
+- – à l’endettement appliqué au compte de résultats 101*a*
 - – à l’endettement appliqué au compte des investissements 101*b*
 - – à l’augmentation des impôts 101*c*
 
@@ -2529,6 +2610,10 @@ Lois
 
 **Minimum vital** garantie 29
 
+**Ministère public** 97, 100*a*
+
+- – incompatibilité 68
+
 Minorités
 
 - – Jura bernois 5
@@ -2644,8 +2729,6 @@ Président/présidente du Grand Conseil
 
 - – élection 77
 - – droit de consulter les dossiers du Conseil-exécutif 82
-
-**Présidents/présidentes des** **tribunaux** 98, 99
 
 **Présomption d’innocence** 26
 
@@ -2999,14 +3082,6 @@ Transactions immobilières
 **Tribunal administratif** 100
 
 - – élection du président 77
-
-**Tribunal pénal économique** 99
-
-**Tribunaux** **d’arrondissement** 99
-
-**Tribunaux** **collégiaux régionaux** 99
-
-**Tribunaux des mineurs** 99
 
 **Unité de la forme et de la matière** initiatives 58
 
