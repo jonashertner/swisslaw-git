@@ -5,12 +5,12 @@ title: Loi sur le Conseil de la magistrature
 short: LCDM
 language: fr
 version: 2024-01-01
-valid_until: 2026-02-28
+corrected: 2023-12-19
 version_adopted: 2023-09-07
 adopted: 2019-09-13
 in_force: 2020-09-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/173.7"
-pdf: "https://lex.vs.ch/api/fr/versions/3262/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3136/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -71,7 +71,7 @@ ordonne:[^ingress-1]
 <sup>1</sup> Demeurent réservées les dispositions de la législation cantonale traitant:
 
 - a) de la direction administrative, de l'organisation interne et de la gestion des tribunaux et des offices du ministère public;
-- b) de la surveillance sur les greffiers et le personnel administratif des tribunaux et du ministère public;
+- b) de la surveillance sur les greffiers et le personnel administratif des tribunaux, ainsi que de la surveillance du personnel administratif des offices du ministère public;
 - c) du contrôle financier de la gestion administrative et financière des tribunaux et des offices du ministère public.
 
 ## 2 Composition du Conseil de la magistrature et mode de désignation de ses membres
@@ -88,7 +88,7 @@ ordonne:[^ingress-1]
 
 <sup>1</sup> Sont membres de droit:
 
-- a) un membre du Bureau du ministère public désigné par celui-ci;
+- a) le procureur général;
 - b) un membre du Conseil de l'Ordre des avocats valaisans désigné par celui-ci;
 - c) un membre de la commission administrative du Tribunal cantonal désigné par celle-ci.
 
@@ -272,7 +272,7 @@ ordonne:[^ingress-1]
 
 <sup>1</sup> Une sanction disciplinaire ne peut être prononcée qu'après enquête. La personne concernée est informée de l'ouverture de la procédure.
 
-<sup>2</sup> L'enquête est conduite par le président du Conseil de la magistrature ou par le membre désigné par le Conseil de la magistrature, le secret de fonction ne pouvant lui être opposé.
+<sup>2</sup> L'enquête est conduite par le président du Conseil de la magistrature ou par le membre désigné par le Conseil de la magistrature.
 
 <sup>3</sup> La personne concernée est entendue. Au terme de l'enquête, elle peut déposer un mémoire et demander un complément d'enquête.
 

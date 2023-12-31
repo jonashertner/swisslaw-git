@@ -5,12 +5,12 @@ title: Gesetz über den Justizrat
 short: GJR
 language: de
 version: 2024-01-01
-valid_until: 2026-02-28
+corrected: 2023-12-19
 version_adopted: 2023-09-07
 adopted: 2019-09-13
 in_force: 2020-09-01
 url: "https://lex.vs.ch/app/de/texts_of_law/173.7"
-pdf: "https://lex.vs.ch/api/de/versions/3262/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3136/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -71,7 +71,7 @@ beschliesst:[^ingress-1]
 <sup>1</sup> Vorbehalten bleiben die Bestimmungen der kantonalen Gesetzgebung zur:
 
 - a) Verwaltungsdirektion, der internen Organisation und der Leitung der Gerichte und Ämter der Staatsanwaltschaft;
-- b) Aufsicht über die Gerichtsschreiber und das administrative Personal der Gerichte und der Staatsanwaltschaft;
+- b) Aufsicht über die Gerichtsschreiber und das administrative Personal der Gerichte sowie der Aufsicht über das administrative Personal der Ämter der Staatsanwaltschaft;
 - c) Finanzkontrolle der Geschäftsführung und des Finanzhaushalts der Gerichte und der Ämter der Staatsanwaltschaft.
 
 ## 2 Zusammensetzung des Justizrates und Art der Bezeichnung seiner Mitglieder
@@ -88,7 +88,7 @@ beschliesst:[^ingress-1]
 
 <sup>1</sup> Von Amtes wegen Mitglied sind:
 
-- a) ein Mitglied des Büros der Staatsanwaltschaft, das von diesem bezeichnet wird;
+- a) der Generalstaatsanwalt;
 - b) ein Mitglied des Vorstands des Walliser Anwaltsverbands, das von diesem bezeichnet wird;
 - c) ein Mitglied der Verwaltungskommission des Kantonsgerichts, das von diesem bezeichnet wird.
 
@@ -272,7 +272,7 @@ beschliesst:[^ingress-1]
 
 <sup>1</sup> Eine Disziplinarstrafe kann nur nach einer Untersuchung ausgesprochen werden. Die betroffene Person wird über die Eröffnung des Verfahrens informiert.
 
-<sup>2</sup> Die Untersuchung wird vom Präsidenten des Justizrates oder von einem vom Justizrat bestimmten Mitglied durchgeführt, wobei ihm das Amtsgeheimnis nicht entgegengehalten werden kann.
+<sup>2</sup> Die Untersuchung wird vom Präsidenten des Justizrates oder einem vom Justizrat bestimmten Mitglied durchgeführt.
 
 <sup>3</sup> Die betroffene Person wird angehört. Am Ende der Untersuchung kann sie eine Rechtsschrift einreichen und eine ergänzende Untersuchung verlangen.
 
