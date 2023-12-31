@@ -3,11 +3,11 @@ sr: "0.812.122.2"
 title: Internationales Übereinkommen vom 19. Oktober 2005 gegen Doping im Sport (mit Anhängen und Anlagen)
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/95"
 language: de
-version: 2023-02-15
+version: 2024-01-01
 adopted: 2005-10-19
 in_force: 2008-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/95/20230215/de/xml/fedlex-data-admin-ch-eli-cc-2009-95-20230215-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/95/20230215/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/95/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2009-95-20240101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/95/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **2009** 521; BBl **2007** 6489
 
 Abgeschlossen in Paris am 19. Oktober 2005 Von der Bundesversammlung genehmigt am 13. Juni 2008[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 23. Oktober 2008 In Kraft getreten für die Schweiz am 1. Dezember 2008
 
-(Stand am 15. Februar 2023)
+(Stand am 1. Januar 2024)
 
 [^t-1]: [AS 2009 519](https://fedlex.data.admin.ch/eli/oc/2009/94)
 
@@ -524,7 +524,7 @@ Anlage I[^t-2]
 
 [^annexI-lvlu1-1]
 
-[^t-2]: Fassung gemäss Beschluss des Exekutivkomitees der Welt-Anti-Doping-Agentur vom 23. Sept. 2022, in Kraft seit 1. Jan. 2023 ([AS 2023 522](https://fedlex.data.admin.ch/eli/oc/2023/522)).
+[^t-2]: Fassung gemäss der am 1. Jan. 2024 in Kraft getretenen Änd. ([AS 2024 492](https://fedlex.data.admin.ch/eli/oc/2024/492)).
 [^annexI-lvlu1-1]: Die aktuelle Verbotsliste des Welt-Anti-Doping-Codes kann gemäss Artikel 19 des Sportförderungsgesetzes vom 17. Juni 2011 ([SR 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)) für Massnahmen gegen Doping bei der zuständigen Stelle (Antidoping Schweiz) auf französisch und deutsch kostenlos unter: [www.sportintegrity.ch/anti-doping/recht/dopingliste](https://www.sportintegrity.ch/anti-doping/recht/dopingliste) abgerufen werden.
 
 Anlage II[^t-3]
@@ -741,7 +741,7 @@ Geltungsbereich am 15. Februar 2023[^t-4]
 <tr><td>Vietnam</td><td>2. Oktober</td><td>2009 B</td><td>1. Dezember</td><td>2009</td></tr>
 <tr><td>Zentralafrikanische Republik</td><td>8. Juni</td><td>2016</td><td>1. August</td><td>2016</td></tr>
 <tr><td>Zypern</td><td>8. September</td><td>2009</td><td>1. November</td><td>2009</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Organisation der Vereinten Nationen für Bildung, Wissenschaft und Kultur (UNESCO): www.unesco.org/ &gt; Français &gt; Ressources &gt; Documents et publications eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden. <sup>a</sup> Das Übereinkommen gilt nicht für Grönland und die Färöer Inseln. <sup>b</sup> Das Übereinkommen gilt nicht für Tokelau.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Organisation der Vereinten Nationen für Bildung, Wissenschaft und Kultur (UNESCO): [www.unesco.org/](http://www.unesco.org/) &gt; Français &gt; Ressources &gt; Documents et publications eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden. <sup>a</sup> Das Übereinkommen gilt nicht für Grönland und die Färöer Inseln. <sup>b</sup> Das Übereinkommen gilt nicht für Tokelau.</td></tr>
 </table>
 
-[^t-4]: [AS 2009 521](https://fedlex.data.admin.ch/eli/oc/2009/95); [2010 245](https://fedlex.data.admin.ch/eli/oc/2010/30), [3167](https://fedlex.data.admin.ch/eli/oc/2010/423); [2011 3777](https://fedlex.data.admin.ch/eli/oc/2011/530); [2012 2377](https://fedlex.data.admin.ch/eli/oc/2012/286); [2013 3019](https://fedlex.data.admin.ch/eli/oc/2013/586); [2014 1199](https://fedlex.data.admin.ch/eli/oc/2014/253); [2016 1421](https://fedlex.data.admin.ch/eli/oc/2016/279); [2018 2531](https://fedlex.data.admin.ch/eli/oc/2018/367); [2023 74](https://fedlex.data.admin.ch/eli/oc/2023/74). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: https://www.fedlex.admin.ch/de/treaty
+[^t-4]: [AS 2009 521](https://fedlex.data.admin.ch/eli/oc/2009/95); [2010 245](https://fedlex.data.admin.ch/eli/oc/2010/30), [3167](https://fedlex.data.admin.ch/eli/oc/2010/423); [2011 3777](https://fedlex.data.admin.ch/eli/oc/2011/530); [2012 2377](https://fedlex.data.admin.ch/eli/oc/2012/286); [2013 3019](https://fedlex.data.admin.ch/eli/oc/2013/586); [2014 1199](https://fedlex.data.admin.ch/eli/oc/2014/253); [2016 1421](https://fedlex.data.admin.ch/eli/oc/2016/279); [2018 2531](https://fedlex.data.admin.ch/eli/oc/2018/367); [2023 74](https://fedlex.data.admin.ch/eli/oc/2023/74). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
