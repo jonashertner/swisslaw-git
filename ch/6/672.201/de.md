@@ -3,18 +3,18 @@ sr: "672.201"
 title: Verordnung vom 22. August 1967 über die Anrechnung ausländischer Quellensteuern
 eli: "https://fedlex.data.admin.ch/eli/cc/1967/1129_1169_1163"
 language: de
-version: 2022-01-01
+version: 2024-01-01
 adopted: 1967-08-22
 in_force: 1967-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1967/1129_1169_1163/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1967-1129_1169_1163-20220101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1967/1129_1169_1163/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1967/1129_1169_1163/20240101/de/xml/fedlex-data-admin-ch-eli-cc-1967-1129_1169_1163-20240101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1967/1129_1169_1163/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Verordnung über die Anrechnung ausländischer Quellensteuern****
+# Verordnung über die Anrechnung ausländischer Quellensteuern
 
-vom 22. August 1967 (Stand am 1. Januar 2022)[^t-1]
+vom 22. August 1967 (Stand am 1. Januar 2024)[^t-1]
 
 [^t-1]: Fassung gemäss Ziff. I der V vom 13. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 3873](https://fedlex.data.admin.ch/eli/oc/2019/701)).
 
@@ -42,7 +42,7 @@ verordnet:
 
 ### 2. Entlastung in der Schweiz
 
-### a. In der Schweiz ansässige natürliche und juristische Personen****
+### a. In der Schweiz ansässige natürliche und juristische Personen
 
 [^lvlI-lvl2-lvla-1]
 
@@ -58,7 +58,7 @@ verordnet:
 
 [^2-1]: Ausdruck gemäss Ziff. I Abs. 1 der V vom 13. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 3873](https://fedlex.data.admin.ch/eli/oc/2019/701)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 
-### b.**** Schweizerische Betriebsstätten ausländischer Unternehmen
+### b. Schweizerische Betriebsstätten ausländischer Unternehmen
 
 [^lvlI-lvl2-lvlb-1]
 
@@ -89,7 +89,7 @@ Eine schweizerische Betriebsstätte eines ausländischen Unternehmens kann für 
 
 ### 4. Sonderfälle
 
-### a.**** Natürliche Personen im Genuss einer Steuer nach dem Aufwand
+### a. Natürliche Personen im Genuss einer Steuer nach dem Aufwand
 
 [^lvlI-lvl4-lvla-1]
 
@@ -107,7 +107,7 @@ Eine schweizerische Betriebsstätte eines ausländischen Unternehmens kann für 
 [^4-2]: [SR 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
 [^4-3]: [SR 642.14](https://fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256)
 
-### b.**** Dividenden aus Beteiligungen
+### b. Dividenden aus Beteiligungen
 
 [^lvlI-lvl4-lvlb-1]
 
@@ -142,13 +142,13 @@ Die Anrechnung ausländischer Quellensteuern wird nur gewährt, wenn die nicht r
 
 [^7-1]: Fassung gemäss Ziff. I der V vom 13. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 3873](https://fedlex.data.admin.ch/eli/oc/2019/701)).
 
-## II. Betrag der anrechenbaren ausländischen Quellensteuern****
+## II. Betrag der anrechenbaren ausländischen Quellensteuern
 
 [^lvlII-1]
 
 [^lvlII-1]: Fassung gemäss Ziff. I der V vom 13. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 3873](https://fedlex.data.admin.ch/eli/oc/2019/701)).
 
-### 1.**** Grundsatz
+### 1. Grundsatz
 
 [^lvlII-lvl1-1]
 
@@ -158,7 +158,7 @@ Die Anrechnung ausländischer Quellensteuern wird nur gewährt, wenn die nicht r
 
 <sup>1</sup> Die Anrechnung ausländischer Quellensteuern erfolgt für die von Bund, Kantonen, Gemeinden und Kirchgemeinden erhobenen Steuern gesamthaft und wird in einem Betrag vergütet.
 
-<sup>2</sup> Der Betrag der anrechenbaren ausländischen Quellensteuern entspricht der Summe der nicht rückforderbaren Quellensteuern, die in den Vertragsstaaten von den im Laufe eines Jahres (Fälligkeitsjahres) fällig gewordenen Erträgen in Übereinstimmung mit den anwendbaren Doppelbesteuerungsabkommen erhoben worden sind, höchstens aber der Summe der auf diese Erträge entfallenden schweizerischen Steuern (Maximalbetrag).
+<sup>2</sup> Der Betrag der anrechenbaren ausländischen Quellensteuern entspricht der Summe der nicht rückforderbaren Quellensteuern, die in den Vertragsstaaten von den im Laufe eines Jahres (Fälligkeitsjahres) fällig gewordenen Erträgen in Übereinstimmung mit den anwendbaren Doppelbesteuerungsabkommen erhoben worden sind, höchstens aber der Summe der auf diese Erträge entfallenden schweizerischen Steuern (Maximalbetrag). Eine Ergänzungssteuer nach der Mindestbesteuerungsverordnung vom 22. Dezember 2023[^8-1] wird bei der Berechnung des Maximalbetrags nicht berücksichtigt.[^8-2]
 
 <sup>3</sup>
 
@@ -166,18 +166,20 @@ Er wird getrennt nach folgenden Erträgen ermittelt:
 
 - a. Dividenden;
 - b. Zinsen;
-- c. Lizenzgebühren, die nach Artikel 8*a* oder 24*b* StHG[^8-1] besteuert werden;
+- c. Lizenzgebühren, die nach Artikel 8*a* oder 24*b* StHG[^8-3] besteuert werden;
 - d. Lizenzgebühren, die nicht nach Artikel 8*a* oder 24*b* StHG besteuert werden;
 - e. Dienstleistungserträge;
 - f. Renten.
 
 <sup>4</sup> Er wird nicht verzinst.
 
-[^8-1]: [SR 642.14](https://fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256)
+[^8-1]: [SR 642.161](https://fedlex.data.admin.ch/eli/cc/2023/841)
+[^8-2]: Fassung gemäss Art. 41 der Mindestbesteuerungsverordnung vom 22. Dez. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 841](https://fedlex.data.admin.ch/eli/oc/2023/841)).
+[^8-3]: [SR 642.14](https://fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256)
 
 ### 2. Maximalbetrag
 
-### a.**** Berechnung für natürliche Personen
+### a. Berechnung für natürliche Personen
 
 [^lvlII-lvl2-lvla-1]
 
@@ -200,7 +202,7 @@ Er wird getrennt nach folgenden Erträgen ermittelt:
 [^9-1]: Fassung gemäss Ziff. I der V vom 13. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 3873](https://fedlex.data.admin.ch/eli/oc/2019/701)).
 [^9-2]: [SR 642.14](https://fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256)
 
-### b.**** Berechnung für juristische Personen
+### b. Berechnung für juristische Personen
 
 [^lvlII-lvl2-lvlb-1]
 
@@ -216,7 +218,7 @@ Er wird getrennt nach folgenden Erträgen ermittelt:
 
 [^10-1]: [SR 642.14](https://fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256)
 
-### c.**** Berücksichtigung von Schuldzinsen, anderen Aufwendungen und steuerwirksamen Abzügen
+### c. Berücksichtigung von Schuldzinsen, anderen Aufwendungen und steuerwirksamen Abzügen
 
 [^lvlII-lvl2-lvlc-1]
 
@@ -296,7 +298,7 @@ Die Durchführung der Anrechnung ausländischer Quellensteuern obliegt den Kanto
 
 ### 2. Verfahren
 
-### a. Pflichten der Antragstellerin oder des Antragstellers****
+### a. Pflichten der Antragstellerin oder des Antragstellers
 
 [^lvlIV-lvl2-lvla-1]
 
@@ -330,7 +332,7 @@ Die Entscheide über die Anrechnung ausländischer Quellensteuern unterliegen de
 
 [^18-1]: [SR 642.21](https://fedlex.data.admin.ch/eli/cc/1966/371_385_384)
 
-### d. Auszahlung oder Verrechnung des Betrags der anrechenbaren ausländischen Quellensteuern****
+### d. Auszahlung oder Verrechnung des Betrags der anrechenbaren ausländischen Quellensteuern
 
 [^lvlIV-lvl2-lvld-1]
 
@@ -344,7 +346,7 @@ Die Entscheide über die Anrechnung ausländischer Quellensteuern unterliegen de
 
 [^19-1]: Fassung gemäss Ziff. I der V vom 13. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 3873](https://fedlex.data.admin.ch/eli/oc/2019/701)).
 
-### 3.**** Abrechnung zwischen Bund und Kantonen
+### 3. Abrechnung zwischen Bund und Kantonen
 
 [^lvlIV-lvl3-1]
 
@@ -411,13 +413,13 @@ Die Revision und Berichtigung von Entscheiden über die Anrechnung ausländische
 
 [^25-1]: Aufgehoben durch Art. 12 der V vom 7. Febr. 1973 zum schweizerisch-deutschen Doppelbesteuerungsabkommen, mit Wirkung seit 1. März 1973 ([AS 1973 296](https://fedlex.data.admin.ch/eli/oc/1973/296_294_297)).
 
-## Schlussbestimmungen der Änderung vom 7. Dezember 1981****
+## Schlussbestimmungen der Änderung vom 7. Dezember 1981
 
 [^u1-1]
 
 [^u1-1]: [AS 1981 1996](https://fedlex.data.admin.ch/eli/oc/1981/1996_1996_1996). Aufgehoben durch Ziff. IV 16 der V vom 22. Aug. 2007 zur formellen Bereinigung des Bundesrechts, mit Wirkung seit 1. Jan. 2008 ([AS 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
-## Schlussbestimmungen der Änderung vom 9. März 2001****
+## Schlussbestimmungen der Änderung vom 9. März 2001
 
 [^u2-1]
 
@@ -433,7 +435,7 @@ III
 
 <sup>2</sup> Sie tritt rückwirkend auf den 1. Januar 2001 in Kraft.
 
-## Übergangsbestimmung zur Änderung vom 15. Oktober 2008****
+## Übergangsbestimmung zur Änderung vom 15. Oktober 2008
 
 [^u3-1]
 
@@ -441,7 +443,7 @@ III
 
 Diese Änderung gilt für Erträge, die nach dem 31. Dezember 2008 fällig werden.
 
-## Übergangsbestimmung zur Änderung vom 13. November 2019****
+## Übergangsbestimmung zur Änderung vom 13. November 2019
 
 [^u4-1]
 

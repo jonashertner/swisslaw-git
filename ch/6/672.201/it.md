@@ -3,18 +3,18 @@ sr: "672.201"
 title: "Ordinanza del 22 agosto 1967 sul computo d'imposte alla fonte estere"
 eli: "https://fedlex.data.admin.ch/eli/cc/1967/1129_1169_1163"
 language: it
-version: 2022-01-01
+version: 2024-01-01
 adopted: 1967-08-22
 in_force: 1967-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1967/1129_1169_1163/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1967-1129_1169_1163-20220101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1967/1129_1169_1163/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1967/1129_1169_1163/20240101/it/xml/fedlex-data-admin-ch-eli-cc-1967-1129_1169_1163-20240101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1967/1129_1169_1163/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Ordinanza sul computo di imposte alla fonte estere****
+# Ordinanza sul computo di imposte alla fonte estere
 
-del 22 agosto 1967 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)[^t-1]
+del 22 agosto 1967 (Stato 1° gennaio 2024)[^t-1]
 
 [^t-1]: Nuovo testo giusta il n. I dell’O del 13 nov. 2019, in vigore dal 1° gen. 2020 (RU **20****19** 3873).
 
@@ -39,13 +39,13 @@ ordina:
 
 [^1-1]: Nuovo testo giusta il n. I dell’O del 13 nov. 2019, in vigore dal 1° gen. 2020 (RU **20****19** 3873).
 
-### 2. Sgravio in Svizzera****
+### 2. Sgravio in Svizzera
 
 [^lvlI-lvl2-1]
 
 [^lvlI-lvl2-1]: Nuovo testo giusta il n. I dell’O del 13 nov. 2019, in vigore dal 1° gen. 2020 (RU **20****19** 3873).
 
-### **a.** **Persone fisiche e giuridiche residenti in Svizzera******
+### **a.** **Persone fisiche e giuridiche residenti in Svizzera**
 
 [^lvlI-lvl2-lvla-1]
 
@@ -61,7 +61,7 @@ ordina:
 
 [^2-1]: Nuova espr. giusta il n. I cpv. 1 dell’O del 13 nov. 2019, in vigore dal 1° gen. 2020 (RU **20****19** 3873). Di detta mod. é tenuto conto in tutto il presente testo.
 
-### b.**** Stabilimenti d’impresa in Svizzera di imprese estere
+### b. Stabilimenti d’impresa in Svizzera di imprese estere
 
 [^lvlI-lvl2-lvlb-1]
 
@@ -92,7 +92,7 @@ Uno stabilimento d’impresa in Svizzera di un’impresa estera può chiedere, p
 
 ### 4. Casi speciali
 
-### a.**** Persone fisiche che fruiscono dell’imposizione secondo il dispendio
+### a. Persone fisiche che fruiscono dell’imposizione secondo il dispendio
 
 [^lvlI-lvl4-lvla-1]
 
@@ -110,7 +110,7 @@ Uno stabilimento d’impresa in Svizzera di un’impresa estera può chiedere, p
 [^4-2]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
 [^4-3]: [RS 642.14](https://fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256)
 
-### b.**** Dividendi provenienti da partecipazioni
+### b. Dividendi provenienti da partecipazioni
 
 [^lvlI-lvl4-lvlb-1]
 
@@ -145,13 +145,13 @@ Il computo di imposte alla fonte estere è concesso soltanto se le imposte alla 
 
 [^7-1]: Nuovo testo giusta il n. I dell’O del 13 nov. 2019, in vigore dal 1° gen. 2020 (RU **20****19** 3873).
 
-## II. Ammontare delle imposte alla fonte computabili****
+## II. Ammontare delle imposte alla fonte computabili
 
 [^lvlII-1]
 
 [^lvlII-1]: Nuovo testo giusta il n. I dell’O del 13 nov. 2019, in vigore dal 1° gen. 2020 (RU **20****19** 3873).
 
-### 1.**** Principio
+### 1. Principio
 
 [^lvlII-lvl1-1]
 
@@ -161,7 +161,7 @@ Il computo di imposte alla fonte estere è concesso soltanto se le imposte alla 
 
 <sup>1</sup> Il computo di imposte alla fonte estere ha luogo con un’operazione unica per le imposte federali, cantonali, comunali ed ecclesiastiche ed è versato in un solo ammontare.
 
-<sup>2</sup> L’ammontare delle imposte alla fonte estere computabili corrisponde alla somma delle imposte alla fonte non recuperabili riscosse negli Stati contraenti, conformemente alle convenzioni applicabili, sui redditi maturati nel corso di un anno (anno di scadenza); tuttavia, esso non può eccedere la somma delle imposte svizzere attinenti a questi redditi (ammontare massimo).
+<sup>2</sup> L’ammontare delle imposte alla fonte estere computabili corrisponde alla somma delle imposte alla fonte non recuperabili riscosse negli Stati contraenti, conformemente alle convenzioni applicabili, sui redditi maturati nel corso di un anno (anno di scadenza); tuttavia, esso non può eccedere la somma delle imposte svizzere attinenti a questi redditi (ammontare massimo). Nel calcolo dell’ammontare massimo non si tiene conto di un’imposta integrativa secondo l’ordinanza del 22 dicembre 2023[^8-1] sull’imposizione minima.[^8-2]
 
 <sup>3</sup>
 
@@ -169,18 +169,20 @@ Esso è determinato separatamente sulla base dei seguenti redditi:
 
 - a. i dividendi;
 - b. gli interessi;
-- c. i diritti di licenza che sono tassati secondo l’articolo 8*a* o 24*b* LAID[^8-1];
+- c. i diritti di licenza che sono tassati secondo l’articolo 8*a* o 24*b* LAID[^8-3];
 - d. i diritti di licenza che non sono tassati secondo l’articolo 8*a* o 24*b* LAID;
 - e. i redditi provenienti da prestazioni di servizi;
 - f. le rendite.
 
 <sup>4</sup> Esso non frutta interessi.
 
-[^8-1]: [RS 642.14](https://fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256)
+[^8-1]: [RS 642.161](https://fedlex.data.admin.ch/eli/cc/2023/841)
+[^8-2]: Nuovo testo giusta l’art. 41 dell’O del 22 dic. 2023 sull’imposizione minima, in vigore dal 1° gen. 2024 (RU **20****23** 841).
+[^8-3]: [RS 642.14](https://fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256)
 
 ### 2. Ammontare massimo
 
-### a.**** Calcolo per le persone fisiche
+### a. Calcolo per le persone fisiche
 
 [^lvlII-lvl2-lvla-1]
 
@@ -203,7 +205,7 @@ Esso è determinato separatamente sulla base dei seguenti redditi:
 [^9-1]: Nuovo testo giusta il n. I dell’O del 13 nov. 2019, in vigore dal 1° gen. 2020 (RU **20****19** 3873).
 [^9-2]: [RS 642.14](https://fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256)
 
-### b.**** Calcolo per le persone giuridiche
+### b. Calcolo per le persone giuridiche
 
 [^lvlII-lvl2-lvlb-1]
 
@@ -219,7 +221,7 @@ Esso è determinato separatamente sulla base dei seguenti redditi:
 
 [^10-1]: [RS 642.14](https://fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256)
 
-### c.**** Considerazione degli interessi passivi, delle altre spese e delle deduzioni con incidenza fiscale
+### c. Considerazione degli interessi passivi, delle altre spese e delle deduzioni con incidenza fiscale
 
 [^lvlII-lvl2-lvlc-1]
 
@@ -329,7 +331,7 @@ Le decisioni sul computo di imposte alla fonte estere possono essere impugnate c
 
 [^18-1]: [RS 642.21](https://fedlex.data.admin.ch/eli/cc/1966/371_385_384)
 
-### d. Pagamento o compensazione dell’importo delle imposte alla fonte estere computabili****
+### d. Pagamento o compensazione dell’importo delle imposte alla fonte estere computabili
 
 [^lvlIV-lvl2-lvld-1]
 
@@ -343,7 +345,7 @@ Le decisioni sul computo di imposte alla fonte estere possono essere impugnate c
 
 [^19-1]: Nuovo testo giusta il n. I dell’O del 13 nov. 2019, in vigore dal 1° gen. 2020 (RU **20****19** 3873).
 
-### 3.**** Regolamento dei conti fra la Confederazione e i Cantoni
+### 3. Regolamento dei conti fra la Confederazione e i Cantoni
 
 [^lvlIV-lvl3-1]
 
@@ -395,7 +397,7 @@ La revisione e la rettificazione di decisioni sul computo di imposte alla fonte 
 
 <sup>2</sup> Esso approva segnatamente le tariffe cantonali applicabili alle persone fisiche (art. 9 cpv. 2) e pubblica un elenco delle aliquote delle imposte per le quali può essere chiesto il computo di imposte alla fonte estere, riscosse negli Stati contraenti in virtù di convenzioni.[^24-2]
 
-[^24-1]: Nuova espr. giusta il n. I cpv. 4 dell’O del 13 nov. 2019, in vigore dal 1° gen. 2020 (RU **20****19** 3873).
+[^24-1]: Nuova espressione giusta il n. I cpv. 4 dell’O del 13 nov. 2019, in vigore dal 1° gen. 2020 (RU **20****19** 3873).
 [^24-2]: Nuovo testo giusta il n. I dell’O del 9 mar. 2001, in vigore dal 1° gen. 2001 ([RU 2001 1060](https://fedlex.data.admin.ch/eli/oc/2001/159)).
 
 ### 2. Entrata in vigore
@@ -410,13 +412,13 @@ La revisione e la rettificazione di decisioni sul computo di imposte alla fonte 
 
 [^25-1]: Abrogato dall’art. 12 dell’O del 7 feb. 1973 concernente la convenzione germano-svizzera di doppia imposizione, con effetto dal 1° marzo 1973 (RU **1973** 294).
 
-## Disposizione finale della modifica del 7 dicembre 1981****
+## Disposizione finale della modifica del 7 dicembre 1981
 
 [^u1-1]
 
 [^u1-1]: [RU 1981 1996](https://fedlex.data.admin.ch/eli/oc/1981/1996_1996_1996). Abrogata dal n. IV 16 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
-## Disposizioni finali della modifica del 9 marzo 2001****
+## Disposizioni finali della modifica del 9 marzo 2001
 
 [^u2-1]
 
@@ -432,7 +434,7 @@ III
 
 <sup>2</sup> Essa entra retroattivamente in vigore il 1° gennaio 2001.
 
-## Disposizione transitoria della modifica del 15 ottobre 2008****
+## Disposizione transitoria della modifica del 15 ottobre 2008
 
 [^u3-1]
 
@@ -440,7 +442,7 @@ III
 
 La presente modifica si applica ai redditi maturati dopo il 31 dicembre 2008.
 
-## Disposizione transitoria della modifica del 13 novembre 2019****
+## Disposizione transitoria della modifica del 13 novembre 2019
 
 [^u4-1]
 

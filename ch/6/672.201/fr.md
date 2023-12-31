@@ -3,18 +3,18 @@ sr: "672.201"
 title: "Ordonnance du 22 août 1967 relative à l'imputation d'impôts étrangers prélevés à la source"
 eli: "https://fedlex.data.admin.ch/eli/cc/1967/1129_1169_1163"
 language: fr
-version: 2022-01-01
+version: 2024-01-01
 adopted: 1967-08-22
 in_force: 1967-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1967/1129_1169_1163/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1967-1129_1169_1163-20220101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1967/1129_1169_1163/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1967/1129_1169_1163/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-1967-1129_1169_1163-20240101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1967/1129_1169_1163/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Ordonnance relative à l’imputation d’impôts étrangers prélevés à la source ****
+# Ordonnance relative à l’imputation d’impôts étrangers prélevés à la source
 
-du 22 août 1967 (Etat le 1<sup>er</sup> janvier 2022)[^t-1]
+du 22 août 1967 (État le 1<sup>er</sup> janvier 2024)[^t-1]
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du 13 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3873](https://fedlex.data.admin.ch/eli/oc/2019/701)).
 
@@ -41,7 +41,7 @@ arrête:
 
 ### 2. Dégrèvement en Suisse
 
-### a. Personnes physiques ou morales établies en Suisse****
+### a. Personnes physiques ou morales établies en Suisse
 
 [^lvlI-lvl2-lvla-1]
 
@@ -88,7 +88,7 @@ Pour les revenus provenant d’un État tiers soumis à des impôts à la source
 
 ### 4. Cas spéciaux
 
-### a.**** Personnes physiques au bénéfice d’une imposition d’après la dépense
+### a. Personnes physiques au bénéfice d’une imposition d’après la dépense
 
 [^lvlI-lvl4-lvla-1]
 
@@ -106,7 +106,7 @@ Pour les revenus provenant d’un État tiers soumis à des impôts à la source
 [^4-2]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
 [^4-3]: [RS 642.14](https://fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256)
 
-### b.**** Dividendes provenant de participations
+### b. Dividendes provenant de participations
 
 [^lvlI-lvl4-lvlb-1]
 
@@ -141,13 +141,13 @@ L’imputation d’impôts étrangers prélevés à la source n’est accordée 
 
 [^7-1]: Nouvelle teneur selon le ch. I de l’O du 13 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3873](https://fedlex.data.admin.ch/eli/oc/2019/701)).
 
-## II. Montant des impôts étrangers prélevés à la source et imputables****
+## II. Montant des impôts étrangers prélevés à la source et imputables
 
 [^lvlII-1]
 
 [^lvlII-1]: Nouvelle teneur selon le ch. I de l’O du 13 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3873](https://fedlex.data.admin.ch/eli/oc/2019/701)).
 
-### 1.**** Principe
+### 1. Principe
 
 [^lvlII-lvl1-1]
 
@@ -157,7 +157,7 @@ L’imputation d’impôts étrangers prélevés à la source n’est accordée 
 
 <sup>1</sup> L’imputation d’impôts étrangers prélevés à la source s’effectue sur l’ensemble des impôts perçus par la Confédération, les cantons, les communes et les paroisses et est accordée en un seul montant.
 
-<sup>2</sup> Le montant des impôts étrangers prélevés à la source et imputables correspond à la somme des impôts à la source non récupérables qui ont été perçus dans les États contractants, conformément aux conventions applicables, sur les revenus échus au cours d’une année (année d’échéance); il ne peut toutefois excéder la somme des impôts suisses afférents à ces revenus (montant maximum).
+<sup>2</sup> Le montant des impôts étrangers prélevés à la source et imputables correspond à la somme des impôts à la source non récupérables qui ont été perçus dans les États contractants, conformément aux conventions applicables, sur les revenus échus au cours d’une année (année d’échéance); il ne peut toutefois excéder la somme des impôts suisses afférents à ces revenus (montant maximum). L’impôt complémentaire au sens de l’ordonnance du 22 décembre 2023 sur l’imposition minimale[^8-1] n’est pas pris en compte pour le calcul du montant maximum.[^8-2]
 
 <sup>3</sup>
 
@@ -165,18 +165,20 @@ Il est déterminé séparément pour:
 
 - a. les dividendes;
 - b. les intérêts;
-- c. les redevances de licences qui sont imposées en vertu de l’art. 8*a* ou 24*b* LHID[^8-1];
+- c. les redevances de licences qui sont imposées en vertu de l’art. 8*a* ou 24*b* LHID[^8-3];
 - d. les redevances de licences qui ne sont pas imposées en vertu de l’art. 8*a* ou 24*b* LHID;
 - e. les revenus de prestations de service;
 - f. les rentes.
 
 <sup>4</sup> Il ne porte pas intérêt.
 
-[^8-1]: [RS 642.14](https://fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256)
+[^8-1]: [RS 642.161](https://fedlex.data.admin.ch/eli/cc/2023/841)
+[^8-2]: Nouvelle teneur selon l’art. 41 de l’O du 22 déc. 2023 sur l’imposition minimal, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 841](https://fedlex.data.admin.ch/eli/oc/2023/841)).
+[^8-3]: [RS 642.14](https://fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256)
 
 ### 2. Montant maximum
 
-### a.**** Calcul pour les personnes physiques
+### a. Calcul pour les personnes physiques
 
 [^lvlII-lvl2-lvla-1]
 
@@ -199,7 +201,7 @@ Il est déterminé séparément pour:
 [^9-1]: Nouvelle teneur selon le ch. I de l’O du 13 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3873](https://fedlex.data.admin.ch/eli/oc/2019/701)).
 [^9-2]: [RS 642.14](https://fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256)
 
-### b.**** Calcul pour les personnes morales
+### b. Calcul pour les personnes morales
 
 [^lvlII-lvl2-lvlb-1]
 
@@ -215,7 +217,7 @@ Il est déterminé séparément pour:
 
 [^10-1]: [RS 642.14](https://fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256)
 
-### c.**** Prise en considération des intérêts passifs, des autres dépenses et des déductions fiscales
+### c. Prise en considération des intérêts passifs, des autres dépenses et des déductions fiscales
 
 [^lvlII-lvl2-lvlc-1]
 
@@ -295,7 +297,7 @@ L’exécution de l’imputation d’impôts étrangers prélevés à la source 
 
 ### 2. Procédure
 
-### a. Obligations du requérant****
+### a. Obligations du requérant
 
 [^lvlIV-lvl2-lvla-1]
 
@@ -329,7 +331,7 @@ Les décisions sur l’imputation d’impôts étrangers prélevés à la source
 
 [^18-1]: [RS 642.21](https://fedlex.data.admin.ch/eli/cc/1966/371_385_384)
 
-### d. Paiement ou compensation du montant des impôts étrangers prélevés à la source et imputables****
+### d. Paiement ou compensation du montant des impôts étrangers prélevés à la source et imputables
 
 [^lvlIV-lvl2-lvld-1]
 
@@ -343,7 +345,7 @@ Les décisions sur l’imputation d’impôts étrangers prélevés à la source
 
 [^19-1]: Nouvelle teneur selon le ch. I de l’O du 13 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3873](https://fedlex.data.admin.ch/eli/oc/2019/701)).
 
-### 3.**** Règlement de comptes entre la Confédération et les cantons
+### 3. Règlement de comptes entre la Confédération et les cantons
 
 [^lvlIV-lvl3-1]
 
@@ -410,13 +412,13 @@ La revision et la rectification des décisions sur l’imputation d’impôts é
 
 [^25-1]: Abrogé par l’art. 12 de l’O du 7 fév. 1973 relative à la convention germano-suisse de double imposition, avec effet au 1<sup>er</sup> mars 1973 ([RO 1973 294](https://fedlex.data.admin.ch/eli/oc/1973/296_294_297)).
 
-## Disposition finale de la modification du 7 décembre 1981****
+## Disposition finale de la modification du 7 décembre 1981
 
 [^u1-1]
 
 [^u1-1]: [RO 1981 1996](https://fedlex.data.admin.ch/eli/oc/1981/1996_1996_1996). Abrogée par le ch. IV 16 de l’O du 22 août 2007 relative à la mise à jour formelle du droit fédéral, avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
-## Dispositions finales de la modification du 9 mars 2001****
+## Dispositions finales de la modification du 9 mars 2001
 
 [^u2-1]
 
@@ -432,7 +434,7 @@ III
 
 <sup>2</sup> Elle entre en vigueur avec effet rétroactif au 1<sup>er</sup> janvier 2001.
 
-## Dispositions transitoires de la modification du 15 octobre 2008****
+## Dispositions transitoires de la modification du 15 octobre 2008
 
 [^u3-1]
 
@@ -440,7 +442,7 @@ III
 
 La présente modification s’applique aux revenus échus après le 31 décembre 2008.
 
-## Disposition transitoire relative à la modification du 13 novembre 2019****
+## Disposition transitoire relative à la modification du 13 novembre 2019
 
 [^u4-1]
 
