@@ -4,11 +4,11 @@ title: "Ordonnance du 15 septembre 2017 sur les systèmes d'information dans le 
 short: OSFPrHE
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/574"
 language: fr
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2017-09-15
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/574/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2017-574-20230901-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/574/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/574/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-574-20240101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/574/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/574/20230901/fr"
 
 (OSFPrHE)
 
-du 15 septembre 2017 (État le 1<sup>er</sup> septembre 2023)
+du 15 septembre 2017 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -409,19 +409,20 @@ Les droits des personnes concernées, notamment le droit d’accès et le droit 
 
 <sup>1</sup>
 
-La sécurité des données et la sécurité informatique sont régies par:
+La sécurité des données et de l’information est régie par:[^21-1]
 
-- a.[^21-1] la loi fédérale du 25 septembre 2020 sur la protection des données[^21-2] et ses dispositions d’exécution;
-- b. l’ordonnance du 27 mai 2020 sur les cyberrisques[^21-3].[^21-4]
+- a.[^21-2] la loi fédérale du 25 septembre 2020 sur la protection des données[^21-3] et ses dispositions d’exécution;
+- b.[^21-4] l’ordonnance du 8 novembre 2023 sur la sécurité de l’information[^21-5].
 
 <sup>2</sup> Le SEFRI édicte un concept de rôles et d’accès dans lequel il définit son organisation interne, les procédures de traitement des données et de contrôle, et les mesures de sécurité.
 
 <sup>3</sup> Il veille à ce que les dispositions régissant la sécurité informatique du système soient intégrées dans les conventions de prestations conclues avec des tiers.
 
-[^21-1]: Nouvelle teneur selon l’annexe 2 ch. II 49 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^21-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^21-3]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^21-4]: Nouvelle teneur selon l’annexe ch. 24 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^21-1]: Nouvelle teneur selon l’annexe 2 ch. II 24 de l’O du 8 nov. 2023 sur la sécurité de l’information, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^21-2]: Nouvelle teneur selon l’annexe 2 ch. II 49 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^21-3]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^21-4]: Nouvelle teneur selon l’annexe 2 ch. II 24 de l’O du 8 nov. 2023 sur la sécurité de l’information, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^21-5]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
 
 #### Art. 22
 

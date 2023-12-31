@@ -4,11 +4,11 @@ title: "Ordinanza del 15 settembre 2017 concernente i sistemi d'informazione nel
 short: O-SIFPU
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/574"
 language: it
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2017-09-15
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/574/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2017-574-20230901-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/574/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/574/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2017-574-20240101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/574/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/574/20230901/it"
 
 (O-SIFPU)
 
-del 15 settembre 2017 (Stato 1° settembre 2023)
+del 15 settembre 2017 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -405,19 +405,20 @@ I diritti delle persone interessate, in particolare il diritto d’accesso e il 
 
 <sup>1</sup>
 
-La sicurezza dei dati e la sicurezza informatica sono disciplinate:
+La sicurezza dei dati e la sicurezza delle informazioni sono disciplinate:[^21-1]
 
-- a.[^21-1] dalla legge federale del 25 settembre 2020[^21-2] sulla protezione dei dati e dalle sue disposizioni esecutive;
-- b. dall’ordinanza del 27 maggio 2020[^21-3] sui ciber-rischi.[^21-4]
+- a.[^21-2] dalla legge federale del 25 settembre 2020[^21-3] sulla protezione dei dati e dalle sue disposizioni esecutive;
+- b.[^21-4] dall’ordinanza dell’8 novembre 2023[^21-5] sulla sicurezza delle informazioni.
 
 <sup>2</sup> La SEFRI stabilisce in un piano delle funzioni e degli accessi la propria organizzazione interna, le procedure di trattamento dei dati e di controllo e le misure di sicurezza.
 
 <sup>3</sup> Vigila affinché le disposizioni sulla sicurezza informatica del sistema siano integrate nelle convenzioni sulle prestazioni concluse con terzi.
 
-[^21-1]: Nuovo testo giusta l’all. 2 n. II 49 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^21-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^21-3]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^21-4]: Nuovo testo giusta l’all. n. 24 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^21-1]: Nuovo testo giusta l’all. 2 n. II 24 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^21-2]: Nuovo testo giusta l’all. 2 n. II 49 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^21-3]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^21-4]: Nuovo testo giusta l’all. 2 n. II 24 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^21-5]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
 
 #### Art. 22
 
