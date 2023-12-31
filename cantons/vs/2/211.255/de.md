@@ -4,13 +4,13 @@ number: "211.255"
 title: Reglement über die Festsetzung der Kosten der Kindes- und Erwachsenenschutzbehörden
 short: ReKK
 language: de
-version: 2023-05-01
-valid_until: 2023-12-31
-version_adopted: 2023-04-26
+version: 2024-01-01
+valid_until: 2024-09-30
+version_adopted: 2023-10-04
 adopted: 2022-09-28
 in_force: 2023-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/211.255"
-pdf: "https://lex.vs.ch/api/de/versions/3212/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3237/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://lex.vs.ch/api/de/versions/3212/pdf_file"
 
 (ReKK)
 
-vom 28.09.2022 (Stand 01.05.2023)
+vom 28.09.2022 (Stand 01.01.2024)
 
 Der Staatsrat des Kantons Wallis
 
@@ -94,20 +94,20 @@ verordnet:
   - 3\. für den teilweisen oder ganzen Entzug der Vertretungsbefugnisse (Art. 376 Abs. 2 ZGB);
 - d) zwischen 100 und 250 Franken im Falle einer Vertretung im medizinischen Bereich, für die Bezeichnung eines Vertreters (Art. 381 Abs. 2 ZGB);
 - e) zwischen 100 und 350 Franken für das Treffen, die Änderung oder die Aufhebung von superprovisorischen oder vorsorglichen Massnahmen (Art. 445 ZGB);
-- f) zwischen 100 und 500 Franken für die Einrichtung einer Beistandschaft oder einer Vormundschaft, einschliesslich der Bestellung des Beistands oder des Vormunds, sowie für die Aufhebung einer solchen Massnahme und die damit verbundenen Schritte;
+- f) zwischen 100 und 500 Franken für die Einrichtung einer Beistandschaft oder einer Vormundschaft, einschliesslich der Bestellung des Beistands oder des Vormunds, sowie für die Aufhebung einer solchen Massnahme oder dem Verzicht auf Errichtung einer Schutzmassnahme und die damit verbundenen Schritte;
 - g) zwischen 100 und 300 Franken für die Bestellung eines Vormunds oder eines Beistands, der eine bereits bestehende Massnahme weiterführt; sofern nicht beanstandet, wird für die Wiederernennung derselben Person am Ende ihrer Amtszeit keine Gebühr erhoben;
 - h) zwischen 100 und 500 Franken für das Vorkehren von erforderlichen Massnahmen, die Erteilung eines Auftrags an eine Drittperson oder die Bezeichnung einer geeigneten Person oder Stelle (Art. 392 ZGB);
 - i) zwischen 100 und 250 Franken für die Verbuchung von Inventarobjekten, pro Halbtag;
 - j) zwischen 100 und 500 Franken für die Mitarbeit bei der Erstellung des Inventars zum Amtsantritt des Beistands (Art. 405 Abs. 2 ZGB);
 - k) zwischen 100 bis 500 Franken, für die Inventarisierung des Kindesvermögens und die Genehmigung von Entnahmen aus dem Kindesvermögen (Art. 318 Abs. 2 ZGB und Art. 320 Abs. 2 ZGB);
 - l) zwischen 150 und 500 Franken für das Prüfen von Vormundschafts- und Beistandsrechnungen und -berichten und deren Genehmigung;
-- m) zwischen 100 und 250 Franken für die Zustimmung zu Rechtsgeschäften (insbesondere Art. 416 und 417 ZGB);
+- m) zwischen 100 und 500 Franken für die Zustimmung zu Rechtsgeschäften (insbesondere Art. 416 und 417 ZGB);
 - n) zwischen 100 und 500 Franken für das Erteilen der Zustimmung zu gewissen Realakten (insbesondere Art. 391 Abs. 3 ZGB);
 - o) zwischen 100 und 500 Franken für die Prüfung und den Entscheid über Beschwerden gegen Massnahmen, die die Bewegungsfreiheit einschränken (Art. 385 ZGB);
 - p) zwischen 100 und 500 Franken für die Prüfung und den Entscheid über Beschwerden gegen den Vormund oder den Beistand;
 - q) zwischen 100 und 250 Franken für die Befreiung von nahen Verwandten, die als Vormund oder Beistand handeln, von der Pflicht ein Inventar vorzulegen, regelmässig Berichte und Abrechnungen zu erstellen sowie die Zustimmung zu bestimmten Handlungen einzuholen;
 - r) zwischen 100 und 250 Franken für die Entbindung des Vormunds oder des Beistands von seinen Aufgaben, mit Ausnahme der Nichtwiederernennung am Ende der Amtszeit;
-- s) 100 Franken, um eine Drittperson über das Bestehen einer Schutzmassnahme und deren Wirkung zu informieren (Art. 451 Abs. 2 ZGB);
+- s) 50 Franken, um eine Drittperson über das Bestehen einer Schutzmassnahme und deren Wirkung zu informieren (Art. 451 Abs. 2 ZGB);
 - t) zwischen 100 und 200 Franken für die Zustimmung zu einer Adoption und den Entscheid, von der Zustimmung der Eltern abzusehen (Art. 265 Abs. 2, 265a Abs. 2 und 265d Abs. 1 ZGB);
 - u) zwischen 100 und 800 Franken für Massnahmen und Verfügungen im Rahmen des Kindesrechts (Art. 270 bis 327 ZGB);
 - v) zwischen 100 und 150 Franken pro Stunde für die Bezeichnung eines Beistands des Kindes vor den Gerichtsbehörden, unter Vorbehalt von besonderen gesetzlichen Bestimmungen;

@@ -4,13 +4,13 @@ number: "211.255"
 title: "Règlement fixant les frais perçus par les autorités de protection de l'enfant et de l'adulte"
 short: ReFA
 language: fr
-version: 2023-05-01
-valid_until: 2023-12-31
-version_adopted: 2023-04-26
+version: 2024-01-01
+valid_until: 2024-09-30
+version_adopted: 2023-10-04
 adopted: 2022-09-28
 in_force: 2023-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/211.255"
-pdf: "https://lex.vs.ch/api/fr/versions/3212/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3237/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/3212/pdf_file"
 
 (ReFA)
 
-du 28.09.2022 (état 01.05.2023)
+du 28.09.2022 (état 01.01.2024)
 
 Le Conseil d'Etat du canton du Valais
 
@@ -94,20 +94,20 @@ ordonne:
   - 3\. pour le retrait partiel ou total du pouvoir de représentation (art. 376 al. 2 CC);
 - d) de 100 à 250 francs, en cas de représentation dans le domaine médical, pour la désignation d'un représentant (art. 381 al. 2 CC);
 - e) de 100 à 350 francs, pour la prise, la modification et la levée de mesures superprovisionnelles ou provisionnelles (art. 445 CC);
-- f) de 100 à 500 francs, pour l'institution d'une tutelle ou d'une curatelle, y compris la nomination du tuteur ou du curateur, ainsi que pour la levée d'une telle mesure, avec les démarches y relatives;
+- f) de 100 à 500 francs, pour l'institution d'une tutelle ou d'une curatelle, y compris la nomination du tuteur ou du curateur, ainsi que pour la levée d'une telle mesure ou la non institution de mesure avec les démarches y relatives;
 - g) de 100 à 300 francs, pour la nomination d'un tuteur ou d'un curateur reprenant l'exécution d'une mesure en cours; sauf contestation, aucun émolument n'est perçu en cas de reconduction dans ses fonctions de la même personne à la fin de sa période de fonction;
 - h) de 100 à 500 francs, pour accomplir certains actes, donner mandat à un tiers ou désigner une personne ou un office qualifié (art. 392 CC);
 - i) de 100 à 250 francs, pour le relevé des éléments d'un inventaire, par demi-journée;
 - j) de 100 à 500 francs, pour la collaboration à l'établissement de l’inventaire d’entrée en fonction du curateur (art. 405 al. 2 CC);
 - k) de 100 à 500 francs, pour l'inventaire de la fortune de l'enfant et l'autorisation de prélèvements sur les biens de l'enfant (art. 318 al. 2 et 320 al. 2 CC);
 - l) de 150 à 500 francs, pour l'examen des comptes et des rapports de tutelle ou de curatelle et leur approbation;
-- m) de 100 à 250 francs, pour les consentements relatifs à des actes juridiques (notamment art. 416 et 417 CC);
+- m) de 100 à 500 francs, pour les consentements relatifs à des actes juridiques (notamment art. 416 et 417 CC);
 - n) de 100 à 500 francs, pour autoriser le curateur à accomplir certains actes matériels (notamment art. 391 al. 3 CC);
 - o) de 100 à 500 francs, pour l'examen et le jugement de recours contre des mesures limitant la liberté de mouvement (art. 385 CC);
 - p) de 100 à 500 francs, pour l'examen et le jugement de recours formés contre le tuteur ou le curateur;
 - q) de 100 à 250 francs, pour dispenser partiellement ou totalement les proches assumant une curatelle de l'obligation de remettre un inventaire, d'établir des rapports et des comptes périodiques et de requérir le consentement pour certains actes;
 - r) de 100 à 250 francs, pour libérer le tuteur ou le curateur de ses fonctions, à l'exclusion d'une non-reconduction à la fin de la période de fonction;
-- s) 100 francs, pour informer les tiers sur l'existence d'une mesure de protection et sur ses effets (art. 451 al. 2 CC);
+- s) 50 francs, pour informer les tiers sur l'existence d'une mesure de protection et sur ses effets (art. 451 al. 2 CC);
 - t) de 100 à 200 francs pour le consentement à l'adoption et la décision de renoncer au consentement des parents (art. 265 al. 2, 265a al. 2 et 265d al. 1 CC);
 - u) de 100 à 800 francs, pour les mesures prises et les ordonnances rendues en droit de la filiation (art. 270 à 327 CC);
 - v) de 100 à 150 francs, pour la désignation d’un curateur pour représenter l’enfant en justice, sous réserve de dispositions légales spéciales;
