@@ -3,18 +3,18 @@ sr: "923.31"
 title: Ordonnance du DETEC du 9 octobre 1997 sur la pêche dans le lac Supérieur de Constance
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/2417_2417_2417"
 language: fr
-version: 2023-01-01
+version: 2024-01-01
 adopted: 1997-10-09
 in_force: 1997-11-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2417_2417_2417/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-1997-2417_2417_2417-20230101-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/2417_2417_2417/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2417_2417_2417/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-1997-2417_2417_2417-20240101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/2417_2417_2417/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du DETEC sur la pêche dans le lac Supérieur de Constance
 
-du 9 octobre 1997 (État le 1<sup>er</sup> janvier 2023)[^t-1]
+du 9 octobre 1997 (État le 1<sup>er</sup> janvier 2024)[^t-1]
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 24 oct. 2005, en vigueur depuis le 1<sup>er</sup> janv. 2006 ([RO 2005 4935](https://fedlex.data.admin.ch/eli/oc/2005/666)).
 
@@ -67,9 +67,10 @@ Est considéré au sens de la présente ordonnance comme:
 
 <sup>1</sup> Est autorisé à exercer la pêche professionnelle à partir du départ à la retraite ou au plus tard dès la fin de l’année civile au cours de laquelle l’âge de 70 ans est atteint celui qui est détenteur d’un permis de pêche destiné aux aînés délivré par l’autorité compétente.
 
-<sup>2</sup> Le permis de pêche destiné aux aînés autorise son détenteur à pêcher en pleine eau à l’aide d’un filet flottant dont les mailles peuvent avoir la plus petite dimension admissible, ainsi que dans la zone du littoral suisse.
+<sup>2</sup> Le permis de pêche destiné aux aînés autorise son détenteur à pêcher en pleine eau à l’aide d’un filet flottant et ancré dont les mailles peuvent avoir la plus petite dimension admissible, ainsi que dans la zone du littoral suisse.[^2b-2]
 
 [^2b-1]: Introduit par le ch. I de l’O du DETEC du 27 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7621](https://fedlex.data.admin.ch/eli/oc/2017/826)).
+[^2b-2]: Nouvelle teneur selon le ch. I de l’O du DETEC du 27 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
 
 #### Art. 2c
 
@@ -85,17 +86,17 @@ Est considéré au sens de la présente ordonnance comme:
 
 <sup>5</sup>
 
-Le permis de perfectionnement peut être délivré, pour toute la durée de la formation:
+Le permis de perfectionnement peut être délivré:
 
-- a. aux pisciculteurs justifiant d’une expérience professionnelle de deux ans et inscrits au perfectionnement de maître-pisciculteur;
-- b. aux personnes remplissant les conditions d’admission à l’examen de maître-pisciculteur et inscrites au perfectionnement de maître-pisciculteur.[^2c-6]
+- a. pour une durée maximale de deux ans aux pisciculteurs voulant acquérir une expérience professionnelle de deux ans en vue de leur inscription au perfectionnement de maître-pisciculteur;
+- b. pour la période courant jusqu’à l’achèvement du perfectionnement de maître-pisciculteur, mais pour une durée maximale de quatre ans, aux personnes remplissant les conditions d’admission à l’examen de maître-pisciculteur et inscrites au perfectionnement de maître-pisciculteur.[^2c-6]
 
 [^2c-1]: Introduit par le ch. I de l’O du DETEC du 27 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7621](https://fedlex.data.admin.ch/eli/oc/2017/826)).
 [^2c-2]: Nouvelle teneur selon le ch. I de l’O du DETEC du 30 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
 [^2c-3]: Nouvelle teneur selon le ch. I de l’O du DETEC du 8 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 711](https://fedlex.data.admin.ch/eli/oc/2022/711)).
 [^2c-4]: Nouvelle teneur selon le ch. I de l’O du DETEC du 30 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
 [^2c-5]: Introduit par le ch. I de l’O du DETEC du 30 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
-[^2c-6]: Introduit par le ch. I de l’O du DETEC du 30 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
+[^2c-6]: Introduit par le ch. I de l’O du DETEC du 30 nov. 2020 ([RO 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)). Nouvelle teneur selon le ch. I de l’O du DETEC du 27 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
 
 #### Art. 2d
 
@@ -176,7 +177,7 @@ La pêche professionnelle ne peut être pratiquée qu’à l’aide des engins m
   sur le littoral avec:
 
   - 1\. des coubles de filets flottants tendus (art. 12),
-  - 2\.[^5-1] ...
+  - 2\.[^5-1] …
   - 3\. des filets de fond (art. 14),
   - 4\. des verveux à ailes (art. 15),
   - 5\. des nasses (art. 16),
@@ -193,7 +194,8 @@ La pêche professionnelle ne peut être pratiquée qu’à l’aide des engins m
   - 4\. des filets de fond (art. 14),
   - 5\. des nasses (art. 16),
   - 6\. des fils dormants (art. 17),
-  - 7\. les engins admis pour les pêcheurs sportifs (art. 6).
+  - 7\. les engins admis pour les pêcheurs sportifs (art. 6),
+  - 8\.[^5-3] des coubles de filets tendus (art. 12).
 
 <sup>2</sup> Lorsque le nombre d’engins de pêche admis par permis en vertu de la présente ordonnance est limité, le permis de pêche en pleine eau et le permis de pêche pour le littoral y afférent sont réputés n’en constituer qu’un seul.
 
@@ -201,6 +203,7 @@ La pêche professionnelle ne peut être pratiquée qu’à l’aide des engins m
 
 [^5-1]: Abrogé par le ch. I de l’O du DETEC du 28 nov. 2003, avec effet au 1<sup>er</sup> janv. 2004 ([RO 2003 5507](https://fedlex.data.admin.ch/eli/oc/2003/795)).
 [^5-2]: Nouvelle expression selon le ch. I de l’O du DETEC du 8 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 711](https://fedlex.data.admin.ch/eli/oc/2022/711)). Il a été tenu compte de cette mod. dans tout le texte.
+[^5-3]: Introduit par le ch. I de l’O du DETEC du 27 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
 
 #### Art. 6
 
@@ -261,7 +264,7 @@ La pêche sportive ne peut être pratiquée qu’à l’aide des engins ci-aprè
 
 <sup>1</sup>
 
-Les dimensions maximales et minimales suivantes s’appliquent aux filets flottant librement:[^10-1]
+Les filets flottant librement ne peuvent être utilisés que pour capturer des géniteurs de corégones (Blaufelchen) et doivent présenter les dimensions minimales et maximales suivantes:[^10-1]
 
 - a.[^10-2] ouverture minimale des mailles: 38 mm;
 - b. diamètre minimum du fil: 0,12 mm;
@@ -270,34 +273,15 @@ Les dimensions maximales et minimales suivantes s’appliquent aux filets flotta
 
 <sup>2</sup> Les ralingues supérieures flottantes ne sont pas autorisées. Dans les coubles de filets flottants, le début des filets doit être signalé.[^10-3]
 
-<sup>3</sup> Les coubles de filets flottant librement peuvent être utilisées du 30 avril à 12 heures au 15 octobre à 12 heures.[^10-4]
+<sup>3</sup> à <sup>8</sup> …[^10-4]
 
-<sup>4</sup> Du 1<sup>er</sup> juillet à 12 heures au 15 septembre à 12 heures, la longueur du filin reliant le filet à la bouée doit être de 5 m au moins.
+<sup>9</sup> …[^10-5]
 
-<sup>5</sup> Les coubles de filets flottant librement peuvent être tendues du lundi au jeudi; elles ne peuvent rester dans l’eau qu’une nuit.
-
-<sup>6</sup> Du 30 avril au 31 mai et du 1<sup>er</sup> au 15 octobre, les filets peuvent être tendus à 15 heures au plus tôt et du 1<sup>er</sup> juin au 30 septembre, à 16 heures au plus tôt.[^10-5]
-
-<sup>7</sup> Le détenteur d’un permis de pêche peut utiliser au plus cinq filets à la fois, qui seront réunis en une couble.[^10-6]
-
-<sup>8</sup> En dérogation à l’art. 10, al. 1, let. a, les filets suivants peuvent être utilisés
-
-- a. *abrogée*
-- b. *abrogée*
-- c. du 1<sup>er</sup> juillet, 12 heures, au 1<sup>er</sup> août, 12 heures: quatre filets dont les mailles ont une ouverture d’au moins 38 mm et un filet dont les mailles ont une ouverture d’au moins 40 mm;
-- d. du 1<sup>er</sup> août, 12 heures, au 1<sup>er</sup> septembre, 12 heures: deux filets dont les mailles ont une ouverture d’au moins 38 mm et trois filets dont les mailles ont une ouverture d’au moins 40 mm;
-- e. du 1<sup>er</sup> septembre, 12 heures, au 15 octobre, 12 heures: cinq filets dont les mailles ont une ouverture d’au moins 40 mm.[^10-7]
-
-<sup>9</sup> ...[^10-8]
-
-[^10-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 1<sup>er</sup> déc. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 6859](https://fedlex.data.admin.ch/eli/oc/2009/840)).
+[^10-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 27 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
 [^10-2]: Nouvelle teneur selon le ch. I de l’O du DETEC du 26 nov. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4707](https://fedlex.data.admin.ch/eli/oc/2018/747)).
 [^10-3]: Nouvelle teneur selon le ch. I de l’O du DETEC du 16 oct. 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2675](https://fedlex.data.admin.ch/eli/oc/2000/438)).
-[^10-4]: Nouvelle teneur selon le ch. I de l’O du DETEC du 30 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
-[^10-5]: Nouvelle teneur selon le ch. I de l’O du DETEC du 30 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
-[^10-6]: Nouvelle teneur selon le ch. I de l’O du DETEC du 27 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7621](https://fedlex.data.admin.ch/eli/oc/2017/826)).
-[^10-7]: Nouvelle teneur selon le ch. I de l’O du DETEC du 26 nov. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4707](https://fedlex.data.admin.ch/eli/oc/2018/747)).
-[^10-8]: Introduit par le ch. I de l’O du DETEC du 30 août 1999 ([RO 1999 2221](https://fedlex.data.admin.ch/eli/oc/1999/352)). Abrogé par le ch. I de l’O du DETEC du 30 août 2002, avec effet au 1<sup>er</sup> sept. 2002 ([RO 2002 3952](https://fedlex.data.admin.ch/eli/oc/2002/624)).
+[^10-4]: Abrogés par le ch. I de l’O du DETEC du 27 nov. 2023, avec effet au 1<sup>er</sup> janv. 2024 ([RO 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
+[^10-5]: Introduit par le ch. I de l’O du DETEC du 30 août 1999 ([RO 1999 2221](https://fedlex.data.admin.ch/eli/oc/1999/352)). Abrogé par le ch. I de l’O du DETEC du 30 août 2002, avec effet au 1<sup>er</sup> sept. 2002 ([RO 2002 3952](https://fedlex.data.admin.ch/eli/oc/2002/624)).
 
 #### Art. 11
 
@@ -307,7 +291,7 @@ Les dimensions maximales et minimales suivantes s’appliquent aux filets flotta
 
 Les dimensions maximales et minimales suivantes sont applicables aux filets flottants et ancrés:[^11-1]
 
-- a.[^11-2] ouverture minimale des mailles: 40 mm;
+- a.[^11-2] ouverture des mailles: 40–44 mm;
 - b. diamètre minimum du fil: 0,12 mm;
 - c. longueur maximale du filet: 120 m;
 - d. hauteur maximale du filet: 7 m.
@@ -320,17 +304,17 @@ Les dimensions maximales et minimales suivantes sont applicables aux filets flot
 
 <sup>5</sup> Elles doivent être ancrées aux deux extrémités; un espace d’au moins 200 m les séparera des autres coubles de filets flottants ancrés ainsi que des coubles de filets tendus et des coubles de filets à grandes mailles.
 
-<sup>6</sup> Le détenteur d’un permis de pêche peut utiliser au plus cinq filets à la fois, qui seront réunis au plus en deux coubles. Chaque couble doit comporter au moins deux filets.[^11-6]
+<sup>6</sup> Le détenteur d’un permis de pêche peut utiliser au plus trois filets à la fois, qui seront réunis en une couble.[^11-6]
 
-<sup>7</sup> En dérogation à l’art. 11, al. 1, let. a, deux filets dont les mailles ont une ouverture d’au moins 38 mm et trois filets dont les mailles ont une ouverture d’au moins 40 mm peuvent être tendus du 10 janvier au 31 mars ainsi que cinq filets dont les mailles ont une ouverture d’au moins 38 mm du 1<sup>er</sup> au 30 avril.[^11-7]
+<sup>7</sup> …[^11-7]
 
 [^11-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 1<sup>er</sup> déc. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 6859](https://fedlex.data.admin.ch/eli/oc/2009/840)).
-[^11-2]: Nouvelle teneur selon le ch. I de l’O du DETEC du 21 fév. 2017, en vigueur depuis le 15 mars 2017 ([RO 2017 693](https://fedlex.data.admin.ch/eli/oc/2017/127)).
+[^11-2]: Nouvelle teneur selon le ch. I de l’O du DETEC du 27 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
 [^11-3]: Nouvelle teneur selon le ch. I de l’O du DETEC du 6 déc. 2006, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 5377](https://fedlex.data.admin.ch/eli/oc/2006/821)).
 [^11-4]: Nouvelle teneur selon le ch. I de l’O du DETEC du 30 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
 [^11-5]: Nouvelle teneur selon le ch. I de l’O du DETEC du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 741](https://fedlex.data.admin.ch/eli/oc/2021/741)).
-[^11-6]: Nouvelle teneur selon le ch. I de l’O du DETEC du 25 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4271](https://fedlex.data.admin.ch/eli/oc/2019/735)).
-[^11-7]: Introduit par le ch. I de l’O du DETEC du 30 août 1999 ([RO 1999 2221](https://fedlex.data.admin.ch/eli/oc/1999/352)). Nouvelle teneur selon le ch. I de l’O du DETEC du 30 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
+[^11-6]: Nouvelle teneur selon le ch. I de l’O du DETEC du 27 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
+[^11-7]: Introduit par le ch. I de l’O du DETEC du 30 août 1999 ([RO 1999 2221](https://fedlex.data.admin.ch/eli/oc/1999/352)). Abrogé par le ch. I de l’O du DETEC du 27 nov. 2023, avec effet au 1<sup>er</sup> janv. 2024 ([RO 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
 
 #### Art. 12
 
@@ -340,28 +324,34 @@ Les dimensions maximales et minimales suivantes sont applicables aux filets flot
 
 Les dimensions maximales et minimales suivantes sont applicables aux filets utilisés:
 
-- a.[^12-1] ouverture minimale des mailles: 40 mm;
+- a.[^12-1] ouverture des mailles: 40–44 mm pour les filets monofil et 38–44 mm pour les filets multimonofil;
 - b. diamètre minimum du fil: 0,12 mm;
 - c. longueur maximale du filet: 100 m;
 - d. hauteur maximale du filet: 2 m.
 
-<sup>2</sup> Les ralingues supérieures bignetées ne sont pas admises.
+<sup>2</sup> …[^12-2]
 
-<sup>3</sup> Les coubles de filets tendus peuvent être utilisées du 10 janvier à 12 heures au 15 octobre à 12 heures. Le détenteur d’un permis de pêche en pleine eau n’est pas autorisé à tendre les coubles de filets tendus entre le 1<sup>er</sup> juin à 12 heures et le 15 octobre à 12 heures. Le reste du temps, il est également interdit d’utiliser des coubles de filets flottants avec des coubles de filets tendus.
+<sup>3</sup> Les coubles de filets tendus peuvent être utilisées du 10 janvier à 12 heures au 15 octobre à 12 heures. Elles peuvent être utilisées du 1<sup>er</sup> avril à 12 heures au 31 mai à 12 heures uniquement si elles ne mettent pas en danger des sites avérés de frai des sandres.[^12-3]
 
 <sup>4</sup>
 
-Les coubles de filets tendus:
+Les restrictions suivantes sont applicables à l’utilisation des coubles de filets tendus au sens des al. 1 et 3:
 
-- a. ne doivent pas être relevées le dimanche et les jours fériés du 10 janvier à 12 heures au 31 mars à 12 heures;
-- b. peuvent uniquement être tendues du lundi au jeudi du 31 mars à 12 heures au 15 octobre à 12 heures; elles doivent être relevées au plus tard le vendredi à 12 heures.
+- a. du 10 janvier à 12 heures au 31 mars à 12 heures, elles ne doivent pas être relevées le dimanche et les jours fériés;
+- b. du 11 mai au 15 octobre, elles doivent être contrôlées quotidiennement;
+- c. du 11 mai au 15 octobre, elles doivent être relevées le samedi au plus tard à 12 heures, et au plus tard à 18 heures les jours ouvrables précédant un jour férié;
+- d. du 11 mai au 15 octobre, elles ne peuvent être utilisées qu’à partir de 17 heures le dimanche et les jours fériés.[^12-4]
 
-<sup>5</sup> La couble de filets tendus doit être ancrée à ses deux extrémités. Elle sera tendue de manière à ce que ses extrémités se trouvent sur le littoral. Un espace d’au moins 200 m la séparera des coubles de filets à grandes mailles et des coubles de filets flottants qui sont ancrées.
+<sup>5</sup> La couble de filets tendus doit être ancrée à ses deux extrémités. Elle sera tendue de manière à ce qu’au moins une de ses extrémités se trouve sur le littoral. Dans le cas d’un permis de pêche pour le littoral et d’un permis destiné aux aînés, les deux extrémités doivent se trouver sur le littoral. Un espace d’au moins 200 m la séparera des autres coubles de filets tendus, des coubles de filets à grandes mailles et des coubles de filets flottants qui sont ancrées.[^12-5]
 
-<sup>6</sup> Le détenteur d’un permis de pêche peut utiliser au plus trois filets à la fois, qui seront réunis en une couble.[^12-2]
+<sup>6</sup> Le détenteur d’un permis de pêche peut utiliser au plus trois filets à la fois, qui seront réunis en une couble.[^12-6]
 
-[^12-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 6 déc. 2006, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 5377](https://fedlex.data.admin.ch/eli/oc/2006/821)).
-[^12-2]: Nouvelle teneur selon le ch. I de l’O du DETEC du 6 déc. 2006, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 5377](https://fedlex.data.admin.ch/eli/oc/2006/821)).
+[^12-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 27 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
+[^12-2]: Abrogé par le ch. I de l’O du DETEC du 27 nov. 2023, avec effet au 1<sup>er</sup> janv. 2024 ([RO 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
+[^12-3]: Nouvelle teneur selon le ch. I de l’O du DETEC du 27 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
+[^12-4]: Nouvelle teneur selon le ch. I de l’O du DETEC du 27 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
+[^12-5]: Nouvelle teneur selon le ch. I de l’O du DETEC du 27 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
+[^12-6]: Nouvelle teneur selon le ch. I de l’O du DETEC du 6 déc. 2006, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 5377](https://fedlex.data.admin.ch/eli/oc/2006/821)).
 
 #### Art. 13
 
@@ -382,9 +372,10 @@ Les dimensions maximales et minimales suivantes sont applicables aux filets util
 
 <sup>4</sup> Elles doivent être ancrées à leurs deux extrémités; un espace d’au moins 200 m les séparera des autres coubles de filets à grandes mailles, des coubles de filets tendus et des coubles de filets flottants qui sont ancrées.
 
-<sup>5</sup> Le détenteur d’un permis de pêche peut utiliser au plus trois filets à la fois, qui seront réunis en une couble.
+<sup>5</sup> Le détenteur d’un permis de pêche peut utiliser du 10 janvier au 31 mars au plus trois filets à la fois, et du 1<sup>er</sup> avril au 15 juillet au plus quatre filets à la fois, qui seront réunis en une couble.[^13-2]
 
 [^13-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 21 fév. 2017, en vigueur depuis le 15 mars 2017 ([RO 2017 693](https://fedlex.data.admin.ch/eli/oc/2017/127)).
+[^13-2]: Nouvelle teneur selon le ch. I de l’O du DETEC du 27 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
 
 #### Art. 14
 
@@ -396,19 +387,19 @@ Les dimensions maximales et minimales suivantes sont applicables aux filets de f
 
 - a. ouverture des mailles
   - 1\. pour la capture de perches (filets à perches): 28 – 32 mm,
-  - 2\. pour la capture de corégones (filets à corégones): 38 – 44 mm,
-  - 3\.[^14-1] pour la capture de brochets et de sandres ainsi que d’autres poissons à forte croissance (filets à grande maille): au moins 50 mm;
+  - 2\.[^14-1] pour la capture de gardons (filets à gardons): 40–44 mm pour les filets monofil et 38–44 mm pour les filets multimonofil,
+  - 3\.[^14-2] pour la capture de brochets et de sandres ainsi que d’autres poissons à forte croissance (filets à grande maille): au moins 50 mm;
 
 - b. diamètre minimal du fil: 0,12 mm;
 - c. longueur maximale du filet: 100 m;
-- d.[^14-2] hauteur maximale du filet: 2 m, pour les filets à grande maille: 4 m.
+- d.[^14-3] hauteur maximale du filet: 2 m, pour les filets à grande maille: 4 m.
 
 <sup>2</sup> Les filets de fond peuvent être utilisés comme suit:
 
 <table>
-<tr><td>a.[^14-3] filets à perches:</td><td>du 10 février, 12 heures, au 20 avril, 12 heures, et du 10 mai, 12 heures, au 14 novembre, 12 heures; les filets à perches peuvent être utilisés jusqu’à une profondeur de 20 m au maximum du 10 mai, 12 heures, au 30 septembre, 12 heures;</td></tr>
-<tr><td>b.[^14-4] filets à corégones:</td><td>du 10 janvier, 12 heures, au 20 avril, 12 heures, et du 10 mai, 12 heures, au 15 octobre, 12 heures.</td></tr>
-<tr><td>c.[^14-5] filets à grande maille:</td><td>du 10 janvier, 12 heures, au 14 novembre, 12 heures.[^14-6]</td></tr>
+<tr><td>a.[^14-4] filets à perches:</td><td>du 10 février, 12 heures, au 20 avril, 12 heures, et du 10 mai, 12 heures, au 14 novembre, 12 heures; les filets à perches peuvent être utilisés jusqu’à une profondeur de 20 m au maximum du 10 mai, 12 heures, au 30 septembre, 12 heures;</td></tr>
+<tr><td>b.[^14-5] filets à gardons:</td><td>du 10 janvier, 12 heures, au 20 avril, 12 heures, et du 10 mai, 12 heures, au 15 octobre, 12 heures; en dérogation à l’al. 1, let. a, ch. 2, les filets monofil dont l’ouverture des mailles est comprise entre 38 et 44 mm peuvent être utilisés dès le 10 mai, 12 heures, jusqu’à une profondeur de 20 m au maximum;</td></tr>
+<tr><td>c.[^14-6] filets à grande maille:</td><td>du 10 janvier, 12 heures, au 14 novembre, 12 heures.[^14-7]</td></tr>
 </table>
 
 <sup>3</sup>
@@ -418,18 +409,18 @@ Les restrictions suivantes sont applicables à l’utilisation des filets de fon
 - a. du 11 mai au 30 septembre, ils doivent être relevés chaque jour;
 - b. du 11 mai au 30 septembre, ils doivent être relevés le samedi au plus tard à 12 heures, et au plus tard à 18 heures les jours ouvrables précédant un jour férié;
 - c. du 1<sup>er</sup> octobre au 20 avril, ils ne doivent pas être relevés le dimanche et les jours fériés, excepté pour la pêche de géniteurs des corégones (*Gangfische*);
-- d. du 11 mai au 30 septembre, ils ne peuvent être tendus qu’à partir de 17 heures le dimanche et les jours fériés.[^14-7]
+- d. du 11 mai au 30 septembre, ils ne peuvent être tendus qu’à partir de 17 heures le dimanche et les jours fériés.[^14-8]
 
 <sup>4</sup>
 
 Le détenteur d’un permis de pêche peut utiliser simultanément au maximum:
 
-- a. six filets à perches et six filets à corégones;
-- b. huit filets à grande maille.[^14-8]
+- a.[^14-9] six filets à perches et six filets à gardons;
+- b. huit filets à grande maille.[^14-10]
 
-<sup>4bis</sup> En dérogation à l’al. 2, let. c, les huit filets à grande maille ne peuvent être utilisés, du 1<sup>er</sup> avril, 12 heures, au 31 mai, 12 heures, que s’ils ne mettent pas en danger des sites avérés de frai des sandres, et du 15 novembre, 12 heures, au 10 janvier, 12 heures, qu’en pleine eau.[^14-9]
+<sup>4bis</sup> En dérogation à l’al. 2, let. c, les huit filets à grande maille ne peuvent être utilisés, du 1<sup>er</sup> avril, 12 heures, au 31 mai, 12 heures, que s’ils ne mettent pas en danger des sites avérés de frai des sandres, et du 15 novembre, 12 heures, au 10 janvier, 12 heures, qu’en pleine eau.[^14-11]
 
-<sup>5</sup> Les pêcheurs professionnels qui ont participé à la capture de géniteurs de corégones peuvent, en dérogation à l’al. 2, tendre en pleine eau et sur le littoral deux filets à corégones dont les mailles ont une ouverture d’au moins 38 mm et deux filets à corégones dont les mailles ont une ouverture d’au moins 42 mm pendant les quatre nuits de capture précédant Noël (dernier jour de retrait des filets: le 23 décembre au plus tard). L’al. 3, let. c, est applicable. Les corégones capturés pendant la pêche de Noël doivent être vidés de leur frai, qui sera livré aux stations d’incubation avec toutes les truites lacustres capturées prêtes à frayer.[^14-10]
+<sup>5</sup> …[^14-12]
 
 <sup>6</sup>
 
@@ -440,22 +431,24 @@ En dérogation aux al. 1, 2 et 4, du 10 janvier au 31 mars, pour la capture cibl
 - c. longueur maximale du filet: 50 m;
 - d. hauteur maximale du filet: 2 m (tendu).
 
-<sup>7</sup> ...[^14-11]
+<sup>7</sup> …[^14-13]
 
-<sup>7bis</sup> ...[^14-12]
+<sup>7bis</sup> …[^14-14]
 
-[^14-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 30 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
+[^14-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 27 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
 [^14-2]: Nouvelle teneur selon le ch. I de l’O du DETEC du 30 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
 [^14-3]: Nouvelle teneur selon le ch. I de l’O du DETEC du 30 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
-[^14-4]: Nouvelle teneur selon le ch. I de l’O du DETEC du 21 fév. 2017, en vigueur depuis le 15 mars 2017 ([RO 2017 693](https://fedlex.data.admin.ch/eli/oc/2017/127)).
-[^14-5]: Nouvelle teneur selon le ch. I de l’O du DETEC du 30 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
-[^14-6]: Nouvelle teneur selon le ch. I de l’O du DETEC du 21 fév. 2017, en vigueur depuis le 15 mars 2017 ([RO 2017 693](https://fedlex.data.admin.ch/eli/oc/2017/127)).
-[^14-7]: Nouvelle teneur selon le ch. I de l’O du DETEC du 17 avr. 2015, en vigueur depuis le 1<sup>er</sup> juin 2015 ([RO 2015 1217](https://fedlex.data.admin.ch/eli/oc/2015/243)).
-[^14-8]: Nouvelle teneur selon le ch. I de l’O du DETEC du 30 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
-[^14-9]: Introduit par le ch. I de l’O du DETEC du 1<sup>er</sup> déc. 2009 ([RO 2009 6859](https://fedlex.data.admin.ch/eli/oc/2009/840)). Nouvelle teneur selon le ch. I de l’O du DETEC du 30 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
-[^14-10]: Nouvelle teneur selon le ch. I de l’O du DETEC du 17 avr. 2015, en vigueur depuis le 1<sup>er</sup> juin 2015; dans la mesure où cette règle concerne la pose de filets sur le littoral, cette disp. est applicable jusqu’au 31 déc. 2015 ([RO 2015 1217](https://fedlex.data.admin.ch/eli/oc/2015/243)).
-[^14-11]: Abrogé par le ch. I de l’O du DETEC du 30 nov. 2020, avec effet au 1<sup>er</sup> janv. 2021 ([RO 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
-[^14-12]: Introduit par le ch. I de l’O du DETEC du 1<sup>er</sup> déc. 2009 ([RO 2009 6859](https://fedlex.data.admin.ch/eli/oc/2009/840)). Abrogé par le ch. I de l’O du DETEC du 30 nov. 2020, avec effet au 1<sup>er</sup> janv. 2021 ([RO 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
+[^14-4]: Nouvelle teneur selon le ch. I de l’O du DETEC du 30 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
+[^14-5]: Nouvelle teneur selon le ch. I de l’O du DETEC du 27 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
+[^14-6]: Nouvelle teneur selon le ch. I de l’O du DETEC du 30 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
+[^14-7]: Nouvelle teneur selon le ch. I de l’O du DETEC du 21 fév. 2017, en vigueur depuis le 15 mars 2017 ([RO 2017 693](https://fedlex.data.admin.ch/eli/oc/2017/127)).
+[^14-8]: Nouvelle teneur selon le ch. I de l’O du DETEC du 17 avr. 2015, en vigueur depuis le 1<sup>er</sup> juin 2015 ([RO 2015 1217](https://fedlex.data.admin.ch/eli/oc/2015/243)).
+[^14-9]: Nouvelle teneur selon le ch. I de l’O du DETEC du 27 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
+[^14-10]: Nouvelle teneur selon le ch. I de l’O du DETEC du 30 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
+[^14-11]: Introduit par le ch. I de l’O du DETEC du 1<sup>er</sup> déc. 2009 ([RO 2009 6859](https://fedlex.data.admin.ch/eli/oc/2009/840)). Nouvelle teneur selon le ch. I de l’O du DETEC du 30 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
+[^14-12]: Abrogé par le ch. I de l’O du DETEC du 27 nov. 2023, avec effet au 1<sup>er</sup> janv. 2024 ([RO 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
+[^14-13]: Abrogé par le ch. I de l’O du DETEC du 30 nov. 2020, avec effet au 1<sup>er</sup> janv. 2021 ([RO 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
+[^14-14]: Introduit par le ch. I de l’O du DETEC du 1<sup>er</sup> déc. 2009 ([RO 2009 6859](https://fedlex.data.admin.ch/eli/oc/2009/840)). Abrogé par le ch. I de l’O du DETEC du 30 nov. 2020, avec effet au 1<sup>er</sup> janv. 2021 ([RO 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
 
 #### Art. 15
 
@@ -491,20 +484,21 @@ En dérogation aux al. 1, 2 et 4, du 10 janvier au 31 mars, pour la capture cibl
 
 **Engins de pêche à la ligne**
 
-<sup>1</sup> La ligne (hameçons et fil avec ou sans canne) peut avoir au plus deux hameçons auxquels seront accrochés, pour pêcher, des appâts naturels ou artificiels. La gambe ne peut comporter plus de cinq hameçons.
+<sup>1</sup> La ligne (hameçons et fil avec ou sans canne) peut avoir au plus deux hameçons auxquels seront accrochés, pour pêcher, des appâts naturels ou artificiels. La gambe ne peut comporter plus de cinq hameçons. Dans l’exercice de la pêche sportive depuis un bateau, la largeur des hameçons à une pointe doit être d’au moins 6 mm pour les lignes avec plus d’un appât.[^18-1]
 
 <sup>2</sup> Un pêcheur n’a pas le droit d’utiliser simultanément plus de deux lignes. Il est interdit d’utiliser d’autres lignes en plus de la gambe.
 
-<sup>3</sup> Pour la pêche à la ligne traînante, on utilisera au maximum huit appâts (hameçons) par permis de pêche et par bateau.[^18-1] Sont autorisés les hameçons à une pointe, avec ou sans ardillon, ainsi que les hameçons à deux ou à trois pointes, sans ardillon. Du 1<sup>er</sup> novembre à 12 heures au 10 janvier à 12 heures, la pêche à la ligne traînante est interdite; elle est également interdite depuis un bateau naviguant à la voile.
+<sup>3</sup> Pour la pêche à la ligne traînante, on utilisera au maximum huit appâts (hameçons) par permis de pêche et par bateau.[^18-2] Sont autorisés les hameçons à une pointe, avec ou sans ardillon, ainsi que les hameçons à deux ou à trois pointes, sans ardillon. Du 1<sup>er</sup> novembre à 12 heures au 10 janvier à 12 heures, la pêche à la ligne traînante est interdite; elle est également interdite depuis un bateau naviguant à la voile.
 
 <sup>4</sup> L’engin de pêche à la ligne doit être constamment surveillé par le pêcheur.
 
 <sup>5</sup> Les engins de pêche pour harponner, appelés «Reissen» («Schlenzen» ou «Schränzen»), ainsi que le lancer avec la gambe sont interdits.
 
-<sup>6</sup> Dans l’exercice de la pêche sportive, une distance minimale de 25 m doit être respectée entre les filets, les nasses et les fils dormants.[^18-2]
+<sup>6</sup> Dans l’exercice de la pêche sportive, une distance minimale de 25 m doit être respectée entre les filets, les nasses et les fils dormants.[^18-3]
 
-[^18-1]: Nouvelle teneur selon le ch. I de l’O du 30 août 1999, en vigueur depuis le 15 sept. 1999 ([RO 1999 2221](https://fedlex.data.admin.ch/eli/oc/1999/352)).
-[^18-2]: Nouvelle teneur selon le ch. I de l’O du DETEC du 25 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4271](https://fedlex.data.admin.ch/eli/oc/2019/735)).
+[^18-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 27 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
+[^18-2]: Nouvelle teneur selon le ch. I de l’O du 30 août 1999, en vigueur depuis le 15 sept. 1999 ([RO 1999 2221](https://fedlex.data.admin.ch/eli/oc/1999/352)).
+[^18-3]: Nouvelle teneur selon le ch. I de l’O du DETEC du 25 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4271](https://fedlex.data.admin.ch/eli/oc/2019/735)).
 
 #### Art. 19
 
@@ -540,7 +534,7 @@ Les filoches (troubles, filets à cerceau demi-circulaire et manche) peuvent êt
 
 <sup>1</sup> Pour capturer des géniteurs de corégones (Blaufelchen), seuls peuvent être utilisés des filets flottant librement (art. 10). Le filin de ces filets doit avoir une longueur de 5 m au plus. Chaque filet doit être muni d’au moins quatre bignets placés à intervalles réguliers. Si la capture réglementaire des géniteurs l’exige, les cantons de Saint-Gall et de Thurgovie peuvent accorder des dérogations en ce qui concerne la longueur du filin et le nombre des filets.
 
-<sup>2</sup> ...[^22-1]
+<sup>2</sup> …[^22-1]
 
 [^22-1]: Abrogé par le ch. I de l’O du 14 déc. 2012, avec effet au 1<sup>er</sup> fév. 2013 ([RO 2013 53](https://fedlex.data.admin.ch/eli/oc/2013/10)).
 
@@ -548,11 +542,12 @@ Les filoches (troubles, filets à cerceau demi-circulaire et manche) peuvent êt
 
 **Capture des géniteurs d’autres corégones**
 
-<sup>1</sup> Pour capturer des géniteurs d’autres corégones (Gangfisch), il est permis d’utiliser des filets de fond destinés à la capture de corégones (art. 14, al. 1, let. a). Si la capture réglementaire des géniteurs l’exige, les cantons de Saint-Gall et de Thurgovie peuvent accorder des dérogations en ce qui concerne le nombre de filets et l’ouverture des mailles.
+<sup>1</sup> Pour capturer des géniteurs d’autres corégones (Gangfisch), il est permis d’utiliser des filets à gardons (art. 14, al. 1, let. a). Si la capture réglementaire des géniteurs l’exige, les cantons de Saint-Gall et de Thurgovie peuvent accorder des dérogations en ce qui concerne le nombre de filets et l’ouverture des mailles.[^23-1]
 
-<sup>2</sup> et <sup>3</sup> ...[^23-1]
+<sup>2</sup> et <sup>3</sup> …[^23-2]
 
-[^23-1]: Abrogés par le ch. I de l’O du DETEC du 28 nov. 2003, avec effet au 1<sup>er</sup> janv. 2004 ([RO 2003 5507](https://fedlex.data.admin.ch/eli/oc/2003/795)).
+[^23-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 27 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
+[^23-2]: Abrogés par le ch. I de l’O du DETEC du 28 nov. 2003, avec effet au 1<sup>er</sup> janv. 2004 ([RO 2003 5507](https://fedlex.data.admin.ch/eli/oc/2003/795)).
 
 #### Art. 24
 
@@ -566,7 +561,7 @@ Des autorisations spéciales peuvent être accordées par les cantons de Saint-G
 
 **Captures très importantes**
 
-<sup>1</sup> On entend par captures très importantes dans des coubles de filets flottant librement ou des coubles de filets flottants et ancrés les prises de 50 kg et plus par détenteur d’un permis de pêche et par jour, pour autant qu’il ne s’agisse pas d’un cas isolé et fortuit.
+<sup>1</sup> On entend par captures très importantes dans des coubles de filets flottants et ancrés ou des coubles de filets tendus les prises de 50 kg et plus par détenteur d’un permis de pêche et par jour, pour autant qu’il ne s’agisse pas d’un cas isolé et fortuit.[^25-1]
 
 <sup>2</sup> Un comité spécial composé de représentants du Bade-Wurtemberg, de la Bavière, de l’Autriche et de la Suisse juge si captures importantes il y a et décide quelles mesures doivent éventuellement être prises. Les cantons de Saint-Gall et de Thurgovie envoient un représentant commun dans ce comité.
 
@@ -577,22 +572,23 @@ Les mesures isolées ou combinées arrêtées par le comité spécial peuvent co
 - a. une réduction du nombre de filets;
 - b. des jours de protection hebdomadaires supplémentaires;
 - c. la détermination de la longueur du filin;
-- d.[^25-1] le remplacement des filets flottants à mailles de 38 mm minimum selon les art. 10, al. 1, et 11, al. 1, par des filets à mailles de 40 mm minimum ou de 44 mm minimum.
+- d.[^25-2] l’adaptation des ouvertures des mailles.
 
-<sup>4</sup> Ces mesures seront assorties d’une durée de validité; elles seront supprimées dès que le poids de la capture aura baissé à 20 kg par couble et par jour.[^25-2]
+<sup>4</sup> Ces mesures seront assorties d’une durée de validité; elles seront supprimées dès que le poids de la capture aura baissé à 20 kg par couble et par jour.[^25-3]
 
 <sup>5</sup> Le membre suisse du comité spécial communique sans tarder les mesures arrêtées aux cantons de Saint-Gall et de Thurgovie, qui en informent par décision particulière les détenteurs d’un permis de pêche professionnelle délivré par ces cantons. D’autres restrictions applicables aux cantons de Saint-Gall et de Thurgovie sont réservées.
 
 <sup>6</sup> Les cantons de Saint-Gall et de Thurgovie informent sans tarder le plénipotentiaire de la Confédération pour la pêche dans le lac de Constance sur les mesures arrêtées.
 
-[^25-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 14 déc. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 6403](https://fedlex.data.admin.ch/eli/oc/2010/900)).
-[^25-2]: Nouvelle teneur de la phrase selon le ch. I de l’O du DETEC du 6 déc. 2006, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 5377](https://fedlex.data.admin.ch/eli/oc/2006/821)).
+[^25-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 27 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
+[^25-2]: Nouvelle teneur selon le ch. I de l’O du DETEC du 27 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
+[^25-3]: Nouvelle teneur de la phrase selon le ch. I de l’O du DETEC du 6 déc. 2006, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 5377](https://fedlex.data.admin.ch/eli/oc/2006/821)).
 
 #### Art. 26
 
 **Captures accessoires**
 
-<sup>1</sup> On entend par captures accessoires les poissons capturés n’atteignant pas la longueur minimale, les poissons pêchés pendant leur période de protection ainsi que les corégones pris dans des filets à perches. Si leur nombre dépasse celui des poissons auxquels le filet est destiné en priorité, la capture accessoire est réputée considérable.[^26-1]
+<sup>1</sup> On entend par captures accessoires tous les corégones ainsi que les poissons capturés n’atteignant pas la longueur minimale, les poissons pêchés pendant leur période de protection ainsi que les truites lacustres prises dans des coubles de filets tendus. Si leur nombre dépasse celui des poissons auxquels le filet est destiné en priorité, la capture accessoire est réputée considérable.[^26-1]
 
 <sup>2</sup>
 
@@ -604,7 +600,7 @@ Pour éviter les captures accessoires considérables, les cantons de Saint-Gall 
 
 <sup>3</sup> Lorsque l’emplacement des sites de frai est clairement défini, la mesure prévue à l’al. 2, let. a, s’applique également à titre préventif (interdiction).[^26-2]
 
-[^26-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 21 fév. 2017, en vigueur depuis le 15 mars 2017 ([RO 2017 693](https://fedlex.data.admin.ch/eli/oc/2017/127)).
+[^26-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 27 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
 [^26-2]: Nouvelle teneur selon le ch. I de l’O du 14 déc. 2012, en vigueur depuis le 1<sup>er</sup> fév. 2013 ([RO 2013 53](https://fedlex.data.admin.ch/eli/oc/2013/10)).
 
 ## Chapitre 3 Dispositions de protection
@@ -617,7 +613,7 @@ Pour éviter les captures accessoires considérables, les cantons de Saint-Gall 
 
 <table>
 <tr><th colspan="2">Espèce</th><th>Période de protection</th><th>Longueur minimale</th></tr>
-<tr><td colspan="2">a.[^27-1] Corégone</td><td>du 15 octobre au 10 janvier</td><td>–</td></tr>
+<tr><td colspan="2">a.[^27-1] Corégone</td><td>du 1<sup>er</sup> janvier au 31 décembre</td><td>–</td></tr>
 <tr><td colspan="2">b.[^27-2] Ombre de rivière</td><td>du 1<sup>er</sup> février au 30 avril</td><td>35 cm</td></tr>
 <tr><td colspan="2">c. Truite</td><td>1<sup>er</sup> novembre au 10 janvier</td><td>50 cm</td></tr>
 <tr><td colspan="2">d. Truite arc-en-ciel</td><td>–</td><td>–</td></tr>
@@ -643,11 +639,11 @@ Pour éviter les captures accessoires considérables, les cantons de Saint-Gall 
 
 <sup>8</sup> Du 10 mai, 12 heures, au 20 avril, 12 heures, les personnes utilisant des engins de pêche sportive ont le droit de prendre au plus 30 perches par jour. Du 10 mai au 15 septembre, les perches de plus de 13 cm de long, et en dehors de cette période toutes les perches capturées, sont ramenées à terre.[^27-9]
 
-<sup>9</sup> Du 10 janvier, 12 heures, au 15 octobre, 12 heures, les personnes utilisant des engins de pêche sportive ont le droit de prendre tout au plus 12 corégones par jour. Tous les corégones capturés doivent être ramenés à terre.[^27-10]
+<sup>9</sup> …[^27-10]
 
 <sup>10</sup> Du 31 décembre, 12 heures, au 1<sup>er</sup> novembre, 12 heures, les personnes utilisant des engins de pêche sportive ont le droit de prendre tout au plus cinq ombles chevaliers par jour. Tous les ombles chevaliers capturés doivent être ramenés à terre.[^27-11]
 
-[^27-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 21 fév. 2017, en vigueur depuis le 15 mars 2017 ([RO 2017 693](https://fedlex.data.admin.ch/eli/oc/2017/127)).
+[^27-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 27 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
 [^27-2]: Nouvelle teneur selon le ch. I de l’O du DETEC du 21 fév. 2017, en vigueur depuis le 15 mars 2017 ([RO 2017 693](https://fedlex.data.admin.ch/eli/oc/2017/127)).
 [^27-3]: Nouvelle teneur selon le ch. I de l’O du DETEC du 25 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4271](https://fedlex.data.admin.ch/eli/oc/2019/735)).
 [^27-4]: Nouvelle teneur selon le ch. I de l’O du DETEC du 17 avr. 2015, en vigueur depuis le 1<sup>er</sup> juin 2015 ([RO 2015 1217](https://fedlex.data.admin.ch/eli/oc/2015/243)).
@@ -656,7 +652,7 @@ Pour éviter les captures accessoires considérables, les cantons de Saint-Gall 
 [^27-7]: Nouvelle teneur selon le ch. I de l’O du DETEC du 21 fév. 2017, en vigueur depuis le 15 mars 2017 ([RO 2017 693](https://fedlex.data.admin.ch/eli/oc/2017/127)).
 [^27-8]: Nouvelle teneur selon le ch. I de l’O du DETEC du 14 déc. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 6403](https://fedlex.data.admin.ch/eli/oc/2010/900)).
 [^27-9]: Nouvelle teneur selon le ch. I de l’O du DETEC du 26 nov. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4707](https://fedlex.data.admin.ch/eli/oc/2018/747)).
-[^27-10]: Introduit par le ch. I de l’O du DETEC du 17 avr. 2015 ([RO 2015 1217](https://fedlex.data.admin.ch/eli/oc/2015/243)). Nouvelle teneur selon le ch. I de l’O du DETEC du 21 fév. 2017, en vigueur depuis le 15 mars 2017 ([RO 2017 693](https://fedlex.data.admin.ch/eli/oc/2017/127)).
+[^27-10]: Introduit par le ch. I de l’O du DETEC du 17 avr. 2015 ([RO 2015 1217](https://fedlex.data.admin.ch/eli/oc/2015/243)). Abrogé par le ch. I de l’O du DETEC du 27 nov. 2023, avec effet au 1<sup>er</sup> janv. 2024 ([RO 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
 [^27-11]: Introduit par le ch. I de l’O du DETEC du 25 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4271](https://fedlex.data.admin.ch/eli/oc/2019/735)).
 
 #### Art. 28

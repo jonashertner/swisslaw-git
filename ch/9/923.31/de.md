@@ -3,18 +3,18 @@ sr: "923.31"
 title: Verordnung des UVEK vom 9. Oktober 1997 über die Fischerei im Bodensee-Obersee
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/2417_2417_2417"
 language: de
-version: 2023-01-01
+version: 2024-01-01
 adopted: 1997-10-09
 in_force: 1997-11-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2417_2417_2417/20230101/de/xml/fedlex-data-admin-ch-eli-cc-1997-2417_2417_2417-20230101-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/2417_2417_2417/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2417_2417_2417/20240101/de/xml/fedlex-data-admin-ch-eli-cc-1997-2417_2417_2417-20240101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/2417_2417_2417/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des UVEK über die Fischerei im Bodensee-Obersee
 
-vom 9. Oktober 1997 (Stand am 1. Januar 2023)[^t-1]
+vom 9. Oktober 1997 (Stand am 1. Januar 2024)[^t-1]
 
 [^t-1]: Fassung gemäss Ziff. I der V des UVEK vom 24. Okt. 2005, in Kraft seit 1. Jan. 2006 ([AS 2005 4935](https://fedlex.data.admin.ch/eli/oc/2005/666)).
 
@@ -67,9 +67,10 @@ In dieser Verordnung gelten als:
 
 <sup>1</sup> Zur Ausübung der Berufsfischerei ab dem Zeitpunkt der Pensionierung oder spätestens ab Vollendung des 70. Lebensjahres ist berechtigt, wer ein durch die zuständige Behörde ausgegebenes Alterspatent besitzt.
 
-<sup>2</sup> Das Alterspatent berechtigt zur Befischung des Hohen Sees mit einem Schwebnetz, bei dem die jeweils kleinste zulässige Maschenweite verwendet werden darf, sowie zur Befischung der schweizerischen Halde.
+<sup>2</sup> Das Alterspatent berechtigt zur Befischung des Hohen Sees mit einem verankerten Schwebnetz, bei dem die jeweils kleinste zulässige Maschenweite verwendet werden darf, sowie zur Befischung der schweizerischen Halde.[^2b-2]
 
 [^2b-1]: Eingefügt durch Ziff. I der V des UVEK vom 27. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7621](https://fedlex.data.admin.ch/eli/oc/2017/826)).
+[^2b-2]: Fassung gemäss Ziff. I der V des UVEK vom 27. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
 
 #### Art. 2c
 
@@ -85,17 +86,17 @@ In dieser Verordnung gelten als:
 
 <sup>5</sup>
 
-Das Fortbildungspatent kann für die Dauer der Fortbildung erteilt werden:
+Das Fortbildungspatent kann erteilt werden:
 
-- a. Fischwirtinnen und Fischwirten, die nach mindestens zweijähriger Berufserfahrung zur Fortbildung zum Fischwirtschaftsmeister angemeldet sind;
-- b. Personen, welche die Zulassungsvoraussetzungen zur Meisterprüfung Fischwirt erfüllen und zur Fortbildung zum Fischwirtschaftsmeister angemeldet sind.[^2c-6]
+- a. Fischwirtinnen und Fischwirten: zur Erlangung der zweijährigen Berufserfahrung im Hinblick auf die Fortbildung zur Fischwirtschaftsmeisterin oder zum Fischwirtschaftsmeister, höchstens jedoch für zwei Jahre;
+- b. Personen, welche die Zulassungsvoraussetzungen zur Meisterprüfung Fischwirtin oder Fischwirt erfüllen und zur Fortbildung zur Fischwirtschaftsmeisterin oder zum Fischwirtschaftsmeister angemeldet sind: für die Zeit bis zum erfolgreichen Abschluss dieser Fortbildung, höchstens jedoch für vier Jahre.[^2c-6]
 
 [^2c-1]: Eingefügt durch Ziff. I der V des UVEK vom 27. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7621](https://fedlex.data.admin.ch/eli/oc/2017/826)).
 [^2c-2]: Fassung gemäss Ziff. I der V des UVEK vom 30. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
 [^2c-3]: Fassung gemäss Ziff. I der V des UVEK vom 8. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 711](https://fedlex.data.admin.ch/eli/oc/2022/711)).
 [^2c-4]: Fassung gemäss Ziff. I der V des UVEK vom 30. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
 [^2c-5]: Eingefügt durch Ziff. I der V des UVEK vom 30. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
-[^2c-6]: Eingefügt durch Ziff. I der V des UVEK vom 30. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
+[^2c-6]: Eingefügt durch Ziff. I der V des UVEK vom 30. Nov. 2020 ([AS 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)). Fassung gemäss Ziff. I der V des UVEK vom 27. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
 
 #### Art. 2d
 
@@ -193,7 +194,8 @@ Die Berufsfischerei darf nur mit den nachstehenden Fanggeräten ausgeübt werden
   - 4\. Bodennetzen (Art. 14),
   - 5\. Reusen (Art. 16),
   - 6\. Legschnüren (Art. 17),
-  - 7\. den für die Angelfischerei zugelassenen Geräten (Art. 6).
+  - 7\. den für die Angelfischerei zugelassenen Geräten (Art. 6),
+  - 8\.[^5-3] Spannsätzen (Art. 12).
 
 <sup>2</sup> Wird die Anzahl der pro Patent zugelassenen Fanggeräte in dieser Verordnung begrenzt, gelten ein Hochseepatent und das als Voraussetzung zu diesem abgegebene Haldenpatent zusammen als ein Patent.
 
@@ -201,6 +203,7 @@ Die Berufsfischerei darf nur mit den nachstehenden Fanggeräten ausgeübt werden
 
 [^5-1]: Aufgehoben durch Ziff. I der V des UVEK vom 28. Nov. 2003, mit Wirkung seit 1. Jan. 2004 ([AS 2003 5507](https://fedlex.data.admin.ch/eli/oc/2003/795)).
 [^5-2]: Ausdruck gemäss Ziff. I der V des UVEK vom 8. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 711](https://fedlex.data.admin.ch/eli/oc/2022/711)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
+[^5-3]: Eingefügt durch Ziff. I der V des UVEK vom 27. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
 
 #### Art. 6
 
@@ -261,44 +264,24 @@ Die Angelfischerei darf nur mit den nachstehenden Fanggeräten ausgeübt werden:
 
 <sup>1</sup>
 
-Für das freitreibende Schwebnetz gelten die nachstehenden Höchst- und Mindestmasse:
+Freitreibende Schwebnetze dürfen nur für den Laichfischfang auf Blaufelchen eingesetzt werden; dabei gelten die nachstehenden Höchst- und Mindestmasse:[^10-1]
 
-- a.[^10-1] Maschenweite mindestens 38 mm;
+- a.[^10-2] Maschenweite mindestens 38 mm;
 - b. Fadenstärke mindestens 0,12 mm;
 - c. Netzlänge höchstens 120 m;
 - d. Netzhöhe höchstens 7 m.
 
-<sup>2</sup> Schwimmfähige Oberähren sind nicht zugelassen. Die Anfänge der Netze im Schwebsatz sind als solche zu kennzeichnen.[^10-2]
+<sup>2</sup> Schwimmfähige Oberähren sind nicht zugelassen. Die Anfänge der Netze im Schwebsatz sind als solche zu kennzeichnen.[^10-3]
 
-<sup>3</sup> Freitreibende Schwebsätze dürfen vom 30. April, 12.00 Uhr, bis 15. Oktober, 12.00 Uhr, verwendet werden.[^10-3]
+<sup>3</sup> <sup>–</sup><sup>8</sup> …[^10-4]
 
-<sup>4</sup> Vom 1. Juli, 12.00 Uhr, bis 15. September, 12.00 Uhr, muss die Schnurlänge mindestens 5 m betragen.
+<sup>9</sup> …[^10-5]
 
-<sup>5</sup> Freitreibende Schwebsätze dürfen von Montag bis Donnerstag gesetzt werden; sie dürfen nur während einer Nacht gesetzt bleiben.
-
-<sup>6</sup> Vom 30. April bis 31. Mai sowie vom 1. Oktober bis 15. Oktober dürfen die Netze frühestens um 15.00 Uhr, vom 1. Juni bis 30. September frühestens um 16.00 Uhr gesetzt werden.[^10-4]
-
-<sup>7</sup> Pro Patent dürfen gleichzeitig höchstens fünf Netze verwendet werden, die zu einem Satz zu verbinden sind.[^10-5]
-
-<sup>8</sup>
-
-Abweichend von Artikel 10 Absatz 1 Buchstabe a dürfen die folgenden Netze verwendet werden:
-
-- a. *Aufgehoben*
-- b. *Aufgehoben*
-- c. vom 1. Juli, 12.00 Uhr, bis 1. August, 12.00 Uhr: vier Netze mit mindestens 38 mm und ein Netz mit mindestens 40 mm Maschenweite;
-- d. vom 1. August, 12.00 Uhr, bis 1. September, 12.00 Uhr: zwei Netze mit mindestens 38 mm und drei Netze mit mindestens 40 mm Maschenweite;
-- e. vom 1. September, 12.00 Uhr, bis 15. Oktober 12.00 Uhr: fünf Netze mit mindestens 40 mm Maschenweite.[^10-6]
-
-<sup>9</sup> …[^10-7]
-
-[^10-1]: Fassung gemäss Ziff. I der V des UVEK vom 26. Nov. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4707](https://fedlex.data.admin.ch/eli/oc/2018/747)).
-[^10-2]: Fassung gemäss Ziff. I der V des UVEK vom 16. Okt. 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2675](https://fedlex.data.admin.ch/eli/oc/2000/438)).
-[^10-3]: Fassung gemäss Ziff. I der V des UVEK vom 30. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
-[^10-4]: Fassung gemäss Ziff. I der V des UVEK vom 30. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
-[^10-5]: Fassung gemäss Ziff. I der V des UVEK vom 27. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7621](https://fedlex.data.admin.ch/eli/oc/2017/826)).
-[^10-6]: Fassung gemäss Ziff. I der V des UVEK vom 26. Nov. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4707](https://fedlex.data.admin.ch/eli/oc/2018/747)).
-[^10-7]: Eingefügt durch Ziff. I der V des UVEK vom 30. Aug. 1999 ([AS 1999 2221](https://fedlex.data.admin.ch/eli/oc/1999/352)). Aufgehoben durch Ziff. I der V des UVEK vom 30. Aug. 2002, mit Wirkung seit 1. Sept. 2002 ([AS 2002 3952](https://fedlex.data.admin.ch/eli/oc/2002/624)).
+[^10-1]: Fassung gemäss Ziff. I der V des UVEK vom 27. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
+[^10-2]: Fassung gemäss Ziff. I der V des UVEK vom 26. Nov. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4707](https://fedlex.data.admin.ch/eli/oc/2018/747)).
+[^10-3]: Fassung gemäss Ziff. I der V des UVEK vom 16. Okt. 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2675](https://fedlex.data.admin.ch/eli/oc/2000/438)).
+[^10-4]: Aufgehoben durch Ziff. I der V des UVEK vom 27. Nov. 2023, mit Wirkung seit 1. Jan. 2024 ([AS 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
+[^10-5]: Eingefügt durch Ziff. I der V des UVEK vom 30. Aug. 1999 ([AS 1999 2221](https://fedlex.data.admin.ch/eli/oc/1999/352)). Aufgehoben durch Ziff. I der V des UVEK vom 30. Aug. 2002, mit Wirkung seit 1. Sept. 2002 ([AS 2002 3952](https://fedlex.data.admin.ch/eli/oc/2002/624)).
 
 #### Art. 11
 
@@ -308,7 +291,7 @@ Abweichend von Artikel 10 Absatz 1 Buchstabe a dürfen die folgenden Netze verwe
 
 Für das verankerte Schwebnetz gelten die nachstehenden Höchst- und Mindestmasse:
 
-- a.[^11-1] Maschenweite mindestens 40 mm;
+- a.[^11-1] Maschenweite 40–44 mm;
 - b. Fadenstärke mindestens 0,12 mm;
 - c. Netzlänge höchstens 120 m;
 - d. Netzhöhe höchstens 7 m.
@@ -321,16 +304,16 @@ Für das verankerte Schwebnetz gelten die nachstehenden Höchst- und Mindestmass
 
 <sup>5</sup> Sie sind an beiden Enden zu verankern; zu anderen verankerten Schwebsätzen sowie zu Spann- und Grossfischsätzen ist ein Abstand von mindestens 200 m einzuhalten.
 
-<sup>6</sup> Pro Patent dürfen gleichzeitig höchstens fünf Netze verwendet werden, die zu höchstens zwei Sätzen zu verbinden sind. Der einzelne Schwebsatz muss mindestens zwei Netze umfassen.[^11-5]
+<sup>6</sup> Pro Patent dürfen gleichzeitig höchstens drei Netze verwendet werden, die zu einem Satz zu verbinden sind.[^11-5]
 
-<sup>7</sup> Abweichend von Artikel 11 Absatz 1 Buchstabe a dürfen vom 10. Januar bis zum 31. März zwei Netze mit mindestens 38 mm und drei Netze mit mindestens 40 mm Maschenweite sowie vom 1. April bis 30. April fünf Netze mit mindestens 38mm Maschenweite verwendet werden.[^11-6]
+<sup>7</sup> …[^11-6]
 
-[^11-1]: Fassung gemäss Ziff. I der V des UVEK vom 21. Febr. 2017, in Kraft seit 15. März 2017 ([AS 2017 693](https://fedlex.data.admin.ch/eli/oc/2017/127)).
+[^11-1]: Fassung gemäss Ziff. I der V des UVEK vom 27. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
 [^11-2]: Fassung gemäss Ziff. I der V des UVEK vom 6. Dez. 2006, in Kraft seit 1. Jan. 2007 ([AS 2006 5377](https://fedlex.data.admin.ch/eli/oc/2006/821)).
 [^11-3]: Fassung gemäss Ziff. I der V des UVEK vom 30. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
 [^11-4]: Fassung gemäss Ziff. I der V des UVEK vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 741](https://fedlex.data.admin.ch/eli/oc/2021/741)).
-[^11-5]: Fassung gemäss Ziff. I der V des UVEK vom 25. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4271](https://fedlex.data.admin.ch/eli/oc/2019/735)).
-[^11-6]: Eingefügt durch Ziff. I der V des UVEK vom 30. Aug. 1999 ([AS 1999 2221](https://fedlex.data.admin.ch/eli/oc/1999/352)). Fassung gemäss Ziff. I der V des UVEK vom 30. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
+[^11-5]: Fassung gemäss Ziff. I der V des UVEK vom 27. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
+[^11-6]: Eingefügt durch Ziff. I der V des UVEK vom 30. Aug. 1999 ([AS 1999 2221](https://fedlex.data.admin.ch/eli/oc/1999/352)). Aufgehoben durch Ziff. I der V des UVEK vom 27. Nov. 2023, mit Wirkung seit 1. Jan. 2024 ([AS 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
 
 #### Art. 12
 
@@ -340,28 +323,34 @@ Für das verankerte Schwebnetz gelten die nachstehenden Höchst- und Mindestmass
 
 Für die verwendeten Netze gelten die nachstehenden Höchst- und Mindestmasse:
 
-- a.[^12-1] Maschenweite mindestens 40 mm;
+- a.[^12-1] Maschenweite 40–44 mm für monofile Netze, 38–44 mm für multimonofile Netze;
 - b. Fadenstärke mindestens 0,12 mm
 - c. Netzlänge höchstens 100 m;
 - d. Netzhöhe höchstens 2 m.
 
-<sup>2</sup> Schwimmfähige Oberähren sind nicht zugelassen.
+<sup>2</sup> …[^12-2]
 
-<sup>3</sup> Spannsätze dürfen vom 10. Januar, 12.00 Uhr, bis 15. Oktober, 12.00 Uhr, verwendet werden. In der Zeit vom 1. Juni, 12.00 Uhr, bis 15. Oktober, 12.00 Uhr, ist den Inhabern und Inhaberinnen von Hochseepatenten das Setzen von Spannsätzen nicht gestattet. Während der übrigen Zeit ist das gleichzeitige Verwenden von freitreibenden oder verankerten Schwebsätzen und Spannsätzen untersagt.
+<sup>3</sup> Spannsätze dürfen vom 10. Januar, 12.00 Uhr, bis 15. Oktober, 12.00 Uhr, verwendet werden. Vom 1. April, 12.00 Uhr, bis 31. Mai, 12.00 Uhr, dürfen sie nur ohne Gefährdung ausgewiesener Zanderlaichplätze gesetzt werden.[^12-3]
 
 <sup>4</sup>
 
-Spannsätze dürfen:
+Bei der Verwendung der Spannsätze nach den Absätzen 1 und 3 gelten folgende Einschränkungen:
 
-- a. vom 10. Januar, 12.00 Uhr, bis 31. März, 12.00 Uhr, an Sonn- und Feiertagen nicht gehoben werden;
-- b. vom 31. März, 12.00 Uhr, bis 15. Oktober, 12.00 Uhr, nur von Montag bis Donnerstag gesetzt werden; sie müssen an Freitagen bis spätestens 12.00 Uhr gehoben sein.
+- a. vom 10. Januar, 12.00 Uhr, bis 31. März, 12.00 Uhr, dürfen sie an Sonn- und Feiertagen nicht gehoben werden;
+- b. vom 11. Mai bis 15. Oktober müssen sie täglich kontrolliert werden;
+- c. vom 11. Mai bis 15. Oktober müssen sie an Samstagen bis spätestens 12.00 Uhr, an Werktagen vor Feiertagen bis spätestens 18.00 Uhr gehoben sein;
+- d. vom 11. Mai bis 15. Oktober dürfen sie an Sonn- und Feiertagen erst ab 17.00 Uhr gesetzt werden.[^12-4]
 
-<sup>5</sup> Der Spannsatz ist an beiden Enden zu verankern. Er ist so zu setzen, dass sich bei-de Satzenden auf der Halde befinden. Zu Grossfischsätzen und verankerten Schwebsätzen ist ein Abstand von mindestens 200 m einzuhalten.
+<sup>5</sup> Der Spannsatz ist an beiden Enden zu verankern. Er ist so zu setzen, dass sich mindestens ein Satzende auf der Halde befindet. Beim Halden- und Alterspatent müssen sich beide Satzenden auf der Halde befinden. Zu anderen Spannsätzen sowie zu Grossfischsätzen und verankerten Schwebsätzen ist ein Abstand von mindestens 200 m einzuhalten.[^12-5]
 
-<sup>6</sup> Pro Patent dürfen gleichzeitig höchstens drei Netze verwendet werden, die zu einem Satz zu verbinden sind.[^12-2]
+<sup>6</sup> Pro Patent dürfen gleichzeitig höchstens drei Netze verwendet werden, die zu einem Satz zu verbinden sind.[^12-6]
 
-[^12-1]: Fassung gemäss Ziff. I der V des UVEK vom 6. Dez. 2006, in Kraft seit 1. Jan. 2007 ([AS 2006 5377](https://fedlex.data.admin.ch/eli/oc/2006/821)).
-[^12-2]: Fassung gemäss Ziff. I der V des UVEK vom 6. Dez. 2006, in Kraft seit 1. Jan. 2007 ([AS 2006 5377](https://fedlex.data.admin.ch/eli/oc/2006/821)).
+[^12-1]: Fassung gemäss Ziff. I der V des UVEK vom 27. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
+[^12-2]: Aufgehoben durch Ziff. I der V des UVEK vom 27. Nov. 2023, mit Wirkung seit 1. Jan. 2024 ([AS 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
+[^12-3]: Fassung gemäss Ziff. I der V des UVEK vom 27. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
+[^12-4]: Fassung gemäss Ziff. I der V des UVEK vom 27. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
+[^12-5]: Fassung gemäss Ziff. I der V des UVEK vom 27. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
+[^12-6]: Fassung gemäss Ziff. I der V des UVEK vom 6. Dez. 2006, in Kraft seit 1. Jan. 2007 ([AS 2006 5377](https://fedlex.data.admin.ch/eli/oc/2006/821)).
 
 #### Art. 13
 
@@ -382,9 +371,10 @@ Für die verwendeten Netze gelten die nachstehenden Höchst- und Mindestmasse:
 
 <sup>4</sup> Sie sind an beiden Enden zu verankern; zu anderen Grossfischsätzen sowie zu Spann- und verankerten Schwebsätzen ist ein Abstand von mindestens 200 m einzuhalten.
 
-<sup>5</sup> Pro Patent dürfen gleichzeitig höchstens drei Netze verwendet werden, die zu einem Satz zu verbinden sind.
+<sup>5</sup> Pro Patent dürfen vom 10. Januar bis 31. März gleichzeitig höchstens drei und vom 1. April bis 15. Juli gleichzeitig höchstens vier Netze verwendet werden, die zu einem Satz zu verbinden sind.[^13-2]
 
 [^13-1]: Fassung gemäss Ziff. I der V des UVEK vom 21. Febr. 2017, in Kraft seit 15. März 2017 ([AS 2017 693](https://fedlex.data.admin.ch/eli/oc/2017/127)).
+[^13-2]: Fassung gemäss Ziff. I der V des UVEK vom 27. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
 
 #### Art. 14
 
@@ -399,19 +389,19 @@ Für am Boden aufstehende Netze (Bodennetze) gelten die nachstehenden Höchst- u
   Maschenweite:
 
   - 1\. für den Fang von Barschen (Barschnetze): 28–32 mm,
-  - 2\. für den Fang von Felchen (Felchennetze): 38–44 mm,
-  - 3\.[^14-1] für den Fang von Hechten und Zandern und anderen grosswüchsigen Fischen (Grossfischnetze): mindestens 50 mm;
+  - 2\.[^14-1] für den Fang von Rotaugen (Rotaugennetze): 40–44 mm monofil oder 38–44 mm multimonofil,
+  - 3\.[^14-2] für den Fang von Hechten und Zandern und anderen grosswüchsigen Fischen (Grossfischnetze): mindestens 50 mm;
 
 - b. Fadenstärke mindestens 0,12 mm;
 - c. Netzlänge höchstens 100 m;
-- d.[^14-2] Netzhöhe höchstens 2 m, für Grossfischnetze höchstens 4 m.
+- d.[^14-3] Netzhöhe höchstens 2 m, für Grossfischnetze höchstens 4 m.
 
 <sup>2</sup> Bodennetze dürfen wie folgt verwendet werden:
 
 <table>
-<tr><td>a.[^14-3] Barschnetze:</td><td>vom 10. Februar, 12.00 Uhr, bis 20. April, 12.00 Uhr, und vom 10. Mai, 12.00 Uhr, bis 14. November, 12.00 Uhr; vom 10. Mai, 12.00 Uhr, bis 30. September, 12.00 Uhr, dürfen die Barschnetze bis zu einer Wassertiefe von maximal 20 m gesetzt werden;</td></tr>
-<tr><td>b. Felchennetze:</td><td>vom 10. Januar, 12.00 Uhr, bis 20. April, 12.00 Uhr, und vom 10. Mai, 12.00 Uhr, bis 15. Oktober, 12.00 Uhr;</td></tr>
-<tr><td>c. [^14-4] Grossfischnetze:</td><td>vom 10. Januar, 12.00 Uhr, bis 14. November, 12.00 Uhr.[^14-5]</td></tr>
+<tr><td>a.[^14-4] Barschnetze:</td><td>vom 10. Februar, 12.00 Uhr, bis 20. April, 12.00 Uhr, und vom 10. Mai, 12.00 Uhr, bis 14. November, 12.00 Uhr; vom 10. Mai, 12.00 Uhr, bis 30. September, 12.00 Uhr, dürfen die Barschnetze bis zu einer Wassertiefe von maximal 20 m gesetzt werden;</td></tr>
+<tr><td>b.[^14-5] Rotaugennetze:</td><td>vom 10. Januar, 12.00 Uhr, bis 20. April, 12.00 Uhr, und vom 10. Mai, 12.00 Uhr, bis 15. Oktober, 12.00 Uhr; abweichend von Absatz 1 Buchstabe a Ziffer 2 dürfen ab 10. Mai, 12.00 Uhr, monofile Netze mit 38–44 mm Maschenweite eingesetzt werden bis zu einer Wassertiefe von höchstens 20 m;</td></tr>
+<tr><td>c. [^14-6] Grossfischnetze:</td><td>vom 10. Januar, 12.00 Uhr, bis 14. November, 12.00 Uhr.[^14-7]</td></tr>
 </table>
 
 <sup>3</sup>
@@ -421,18 +411,18 @@ Bei der Verwendung der Bodennetze nach den Absätzen 1 und 2 gelten folgende Ein
 - a. vom 11. Mai bis 30. September müssen sie täglich gehoben werden;
 - b. vom 11. Mai bis 30. September müssen sie an Samstagen bis spätestens 12.00 Uhr, an Werktagen vor Feiertagen bis spätestens 18.00 Uhr gehoben sein;
 - c. vom 1. Oktober bis 20. April dürfen sie an Sonn- und Feiertagen nicht gehoben werden, ausgenommen ist der Laichfischfang auf Gangfische;
-- d. vom 11. Mai bis 30. September dürfen sie an Sonn- und Feiertagen erst ab 17.00 Uhr gesetzt werden.[^14-6]
+- d. vom 11. Mai bis 30. September dürfen sie an Sonn- und Feiertagen erst ab 17.00 Uhr gesetzt werden.[^14-8]
 
 <sup>4</sup>
 
 Pro Patent dürfen gleichzeitig höchstens verwendet werden:
 
-- a. sechs Barsch- und sechs Felchennetze;
-- b. acht Grossfischnetze.[^14-7]
+- a.[^14-9] sechs Barsch- und sechs Rotaugennetze;
+- b. acht Grossfischnetze.[^14-10]
 
-<sup>4bis</sup> Abweichend von Absatz 2 Buchstabe c dürfen vom 1. April, 12.00 Uhr, bis 31. Mai, 12.00 Uhr, die acht Grossfischnetze nur ohne Gefährdung ausgewiesener Zanderlaichplätze und vom 15. November, 12.00 Uhr, bis 10. Januar, 12.00 Uhr, nur im Hohen See gesetzt werden.[^14-8]
+<sup>4bis</sup> Abweichend von Absatz 2 Buchstabe c dürfen vom 1. April, 12.00 Uhr, bis 31. Mai, 12.00 Uhr, die acht Grossfischnetze nur ohne Gefährdung ausgewiesener Zanderlaichplätze und vom 15. November, 12.00 Uhr, bis 10. Januar, 12.00 Uhr, nur im Hohen See gesetzt werden.[^14-11]
 
-<sup>5</sup> Abweichend von Absatz 2 dürfen Berufsfischerinnen und Berufsfischer, die sich zuvor am Felchenlaichfischfang beteiligt haben, zwei Felchennetze mit mindestens 38 mm und zwei Felchennetze mit mindestens 42 mm Maschenweite während der letzten vier Fangnächte vor Weihnachten (letzter Hebetag spätestens 23. Dezember) im Hohen See und auf der Halde setzen. Absatz 3 Buchstabe c ist anzuwenden. Die während der Weihnachtsfischerei gefangenen Felchen sind abzustreifen; der Laich sowie alle gefangenen, laichbereiten Seeforellen sind an die jeweiligen Brutanstalten abzuliefern.[^14-9]
+<sup>5</sup> …[^14-12]
 
 <sup>6</sup>
 
@@ -443,21 +433,24 @@ Abweichend von den Absätzen 1, 2 und 4 können vom 10. Januar bis 31. März zum
 - c. Netzlänge höchstens 50 m;
 - d. Netzhöhe höchstens 2 m (im eingestellten Zustand).
 
-<sup>7</sup> …[^14-10]
+<sup>7</sup> …[^14-13]
 
-<sup>7bis</sup> …[^14-11]
+<sup>7bis</sup> …[^14-14]
 
-[^14-1]: Fassung gemäss Ziff. I der V des UVEK vom 30. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
+[^14-1]: Fassung gemäss Ziff. I der V des UVEK vom 27. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
 [^14-2]: Fassung gemäss Ziff. I der V des UVEK vom 30. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
 [^14-3]: Fassung gemäss Ziff. I der V des UVEK vom 30. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
 [^14-4]: Fassung gemäss Ziff. I der V des UVEK vom 30. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
-[^14-5]: Fassung gemäss Ziff. I der V des UVEK vom 21. Febr. 2017, in Kraft seit 15. März 2017 ([AS 2017 693](https://fedlex.data.admin.ch/eli/oc/2017/127)).
-[^14-6]: Fassung gemäss Ziff. I der V des UVEK vom 17. April 2015, in Kraft seit 1. Juni 2015 ([AS 2015 1217](https://fedlex.data.admin.ch/eli/oc/2015/243)).
-[^14-7]: Fassung gemäss Ziff. I der V des UVEK vom 30. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
-[^14-8]: Eingefügt durch Ziff. I der V des UVEK vom 1. Dez. 2009 ([AS 2009 6859](https://fedlex.data.admin.ch/eli/oc/2009/840)). Fassung gemäss Ziff. I der V des UVEK vom 30. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
-[^14-9]: Fassung gemäss Ziff. I der V des UVEK vom 17. April 2015, in Kraft seit 1. Juni 2015, soweit diese Regelung das Setzen von Netzen auf der Halde betrifft bis zum 31. Dez. 2015 ([AS 2015 1217](https://fedlex.data.admin.ch/eli/oc/2015/243)).
-[^14-10]: Aufgehoben durch Ziff. I der V des UVEK vom 30. Nov. 2020, mit Wirkung seit 1. Jan. 2021 ([AS 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
-[^14-11]: Eingefügt durch Ziff. I der V des UVEK vom 1. Dez. 2009 ([AS 2009 6859](https://fedlex.data.admin.ch/eli/oc/2009/840)). Aufgehoben durch Ziff. I der V des UVEK vom 30. Nov. 2020, mit Wirkung seit 1. Jan. 2021 ([AS 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
+[^14-5]: Fassung gemäss Ziff. I der V des UVEK vom 27. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
+[^14-6]: Fassung gemäss Ziff. I der V des UVEK vom 30. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
+[^14-7]: Fassung gemäss Ziff. I der V des UVEK vom 21. Febr. 2017, in Kraft seit 15. März 2017 ([AS 2017 693](https://fedlex.data.admin.ch/eli/oc/2017/127)).
+[^14-8]: Fassung gemäss Ziff. I der V des UVEK vom 17. April 2015, in Kraft seit 1. Juni 2015 ([AS 2015 1217](https://fedlex.data.admin.ch/eli/oc/2015/243)).
+[^14-9]: Fassung gemäss Ziff. I der V des UVEK vom 27. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
+[^14-10]: Fassung gemäss Ziff. I der V des UVEK vom 30. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
+[^14-11]: Eingefügt durch Ziff. I der V des UVEK vom 1. Dez. 2009 ([AS 2009 6859](https://fedlex.data.admin.ch/eli/oc/2009/840)). Fassung gemäss Ziff. I der V des UVEK vom 30. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
+[^14-12]: Aufgehoben durch Ziff. I der V des UVEK vom 27. Nov. 2023, mit Wirkung seit 1. Jan. 2024 ([AS 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
+[^14-13]: Aufgehoben durch Ziff. I der V des UVEK vom 30. Nov. 2020, mit Wirkung seit 1. Jan. 2021 ([AS 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
+[^14-14]: Eingefügt durch Ziff. I der V des UVEK vom 1. Dez. 2009 ([AS 2009 6859](https://fedlex.data.admin.ch/eli/oc/2009/840)). Aufgehoben durch Ziff. I der V des UVEK vom 30. Nov. 2020, mit Wirkung seit 1. Jan. 2021 ([AS 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
 
 #### Art. 15
 
@@ -493,20 +486,21 @@ Abweichend von den Absätzen 1, 2 und 4 können vom 10. Januar bis 31. März zum
 
 **Angelgeräte**
 
-<sup>1</sup> Die Angel (Anbissstelle und Schnur mit oder ohne Rute) darf höchstens zwei Anbissstellen (Angelhaken) haben, die beim Fang mit natürlichen oder künstlichen Ködern versehen sein müssen. Für die Hegene sind höchstens fünf Anbissstellen (Angelhaken) zulässig.
+<sup>1</sup> Die Angel (Anbissstelle und Schnur mit oder ohne Rute) darf höchstens zwei Anbissstellen (Angelhaken) haben, die beim Fang mit natürlichen oder künstlichen Ködern versehen sein müssen. Für die Hegene sind höchstens fünf Anbissstellen (Angelhaken) zulässig. Bei der Ausübung der Angelfischerei vom Boot aus muss an Angeln mit mehr als einer Anbissstelle die Hakenweite an Einzelhaken mindestens 6 mm betragen.[^18-1]
 
 <sup>2</sup> Es dürfen gleichzeitig höchstens zwei Angeln auslegt werden. Neben der Hegene darf gleichzeitig kein weiteres Angelgerät verwendet werden.
 
-<sup>3</sup> Bei der Schleppangelfischerei dürfen pro Patent und pro Boot insgesamt höchstens acht Anbissstellen (Angelhaken) verwendet werden.[^18-1] Zugelassen sind Einerhaken mit oder ohne Widerhaken sowie Zwei- und Dreiangel ohne Widerhaken. Vom 1. November, 12.00 Uhr, bis 10. Januar, 12.00 Uhr, sowie von einem unter Segel fahrenden Boot aus ist die Schleppangelfischerei untersagt.
+<sup>3</sup> Bei der Schleppangelfischerei dürfen pro Patent und pro Boot insgesamt höchstens acht Anbissstellen (Angelhaken) verwendet werden.[^18-2] Zugelassen sind Einerhaken mit oder ohne Widerhaken sowie Zwei- und Dreiangel ohne Widerhaken. Vom 1. November, 12.00 Uhr, bis 10. Januar, 12.00 Uhr, sowie von einem unter Segel fahrenden Boot aus ist die Schleppangelfischerei untersagt.
 
 <sup>4</sup> Wer Angelgeräte einsetzt, muss sie ständig beaufsichtigen.
 
 <sup>5</sup> Das Reissen (Schlenzen oder Schränzen) sowie das Werfen mit der Hegene sind untersagt.
 
-<sup>6</sup> Bei der Ausübung der Fischerei mit Angelgeräten muss von Netzen, Reusen und Legschnüren ein Mindestabstand von 25 m eingehalten werden.[^18-2]
+<sup>6</sup> Bei der Ausübung der Fischerei mit Angelgeräten muss von Netzen, Reusen und Legschnüren ein Mindestabstand von 25 m eingehalten werden.[^18-3]
 
-[^18-1]: Fassung gemäss Ziff. I der V des UVEK vom 30. Aug. 1999, in Kraft seit 15. Sept. 1999 ([AS 1999 2221](https://fedlex.data.admin.ch/eli/oc/1999/352)).
-[^18-2]: Fassung gemäss Ziff. I der V des UVEK vom 25. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4271](https://fedlex.data.admin.ch/eli/oc/2019/735)).
+[^18-1]: Fassung gemäss Ziff. I der V des UVEK vom 27. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
+[^18-2]: Fassung gemäss Ziff. I der V des UVEK vom 30. Aug. 1999, in Kraft seit 15. Sept. 1999 ([AS 1999 2221](https://fedlex.data.admin.ch/eli/oc/1999/352)).
+[^18-3]: Fassung gemäss Ziff. I der V des UVEK vom 25. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4271](https://fedlex.data.admin.ch/eli/oc/2019/735)).
 
 #### Art. 19
 
@@ -546,11 +540,12 @@ Kescher (Feumer, Schöpfbehren) dürfen zur Anlandung der gefangenen Fische verw
 
 **Laichfischfang auf andere Felchen**
 
-<sup>1</sup> Für den Laichfischfang auf Gangfische dürfen Bodennetze für den Felchenfang (Art. 14 Abs. 1 Bst. a) verwendet werden. Abweichungen hinsichtlich der Netzzahl und der Maschenweite können von den Kantonen St. Gallen und Thurgau angeordnet werden, wenn die ordnungsgemässe Ausübung des Laichfischfanges dies erfordert.
+<sup>1</sup> Für den Laichfischfang auf Gangfische dürfen Rotaugennetze (Art. 14 Abs. 1 Bst. a) verwendet werden. Abweichungen hinsichtlich der Netzzahl und der Maschenweite können von den Kantonen St. Gallen und Thurgau angeordnet werden, wenn die ordnungsgemässe Ausübung des Laichfischfanges dies erfordert.[^23-1]
 
-<sup>2–3</sup> …[^23-1]
+<sup>2–3</sup> …[^23-2]
 
-[^23-1]: Aufgehoben durch Ziff. I der V des UVEK vom 28. Nov. 2003, mit Wirkung seit 1. Jan. 2004 ([AS 2003 5507](https://fedlex.data.admin.ch/eli/oc/2003/795)).
+[^23-1]: Fassung gemäss Ziff. I der V des UVEK vom 27. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
+[^23-2]: Aufgehoben durch Ziff. I der V des UVEK vom 28. Nov. 2003, mit Wirkung seit 1. Jan. 2004 ([AS 2003 5507](https://fedlex.data.admin.ch/eli/oc/2003/795)).
 
 #### Art. 24
 
@@ -564,7 +559,7 @@ Für den Laichfischfang auf Seeforellen können von den Kantonen St. Gallen und 
 
 **Massenfänge**
 
-<sup>1</sup> Als Massenfänge in freitreibenden und verankerten Schwebsätzen gelten Fangerträge von 50 kg und mehr pro Patent und Tag, sofern es sich nicht um ein vereinzeltes, zufälliges Vorkommnis handelt.
+<sup>1</sup> Als Massenfänge in verankerten Schwebsätzen und Spannsätzen gelten Fangerträge von 50 kg und mehr pro Patent und Tag, sofern es sich nicht um ein vereinzeltes, zufälliges Vorkommnis handelt.[^25-1]
 
 <sup>2</sup> Zur Beurteilung der Frage, ob derartige Massenfänge vorliegen und zum Entscheid, welche Massnahmen allenfalls zu ergreifen sind, besteht ein Sonderausschuss, dem Baden-Württemberg, Bayern, Österreich und die Schweiz angehören. Die Kantone St. Gallen und Thurgau entsenden ein gemeinsames Mitglied in diesen Ausschuss.
 
@@ -575,22 +570,23 @@ Die durch den Sonderausschuss einzeln oder in Kombination angeordneten Massnahme
 - a. Netzzahlreduktion;
 - b. zusätzliche Schontage pro Woche;
 - c. Festlegung der Schnurlänge;
-- d.[^25-1] Ersatz der Schwebnetze mit mindestens 38 mm Maschenweite nach den Artikeln 10 Absatz 1 und 11 Absatz 1 durch Netze mit mindestens 40 mm oder mit mindestens 44 mm Maschenweite.
+- d.[^25-2] Anpassung der Maschenweiten.
 
-<sup>4</sup> Die Massnahmen sind mit einer Geltungsdauer zu versehen; sie sind aufzuheben, sobald die Fangergebnisse auf 20 kg pro Schwebsatz und Tag abgesunken sind.[^25-2]
+<sup>4</sup> Die Massnahmen sind mit einer Geltungsdauer zu versehen; sie sind aufzuheben, sobald die Fangergebnisse auf 20 kg pro Schwebsatz und Tag abgesunken sind.[^25-3]
 
 <sup>5</sup> Das schweizerische Mitglied des Sonderausschusses teilt die beschlossenen Massnahmen unverzüglich den Kantonen St. Gallen und Thurgau mit, welche die Inhaberinnen und Inhaber der von ihnen ausgegebenen Berufsfischereipatente durch Einzelverfügung unterrichten. Den Kantonen St. Gallen und Thurgau bleiben weitere Beschränkungen vorbehalten.
 
 <sup>6</sup> Die Kantone St. Gallen und Thurgau unterrichten die Bevollmächtigte oder den Bevollmächtigten des Bundes für die Bodenseefischerei unverzüglich über die angeordneten Massnahmen.
 
-[^25-1]: Fassung gemäss Ziff. I der V des UVEK vom 14. Dez. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 6403](https://fedlex.data.admin.ch/eli/oc/2010/900)).
-[^25-2]: Fassung gemäss Ziff. I der V des UVEK vom 6. Dez. 2006, in Kraft seit 1. Jan. 2007 ([AS 2006 5377](https://fedlex.data.admin.ch/eli/oc/2006/821)).
+[^25-1]: Fassung gemäss Ziff. I der V des UVEK vom 27. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
+[^25-2]: Fassung gemäss Ziff. I der V des UVEK vom 27. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
+[^25-3]: Fassung gemäss Ziff. I der V des UVEK vom 6. Dez. 2006, in Kraft seit 1. Jan. 2007 ([AS 2006 5377](https://fedlex.data.admin.ch/eli/oc/2006/821)).
 
 #### Art. 26
 
 **Beifänge**
 
-<sup>1</sup> Als Beifänge gelten untermassige Fische, während der Schonzeit gefangene Fische sowie in Barschnetzen gefangene Felchen. Übersteigt deren Zahl jene der Fische, für die das Netz vorrangig bestimmt ist, werden solche Beifänge als erheblich bezeichnet.[^26-1]
+<sup>1</sup> Als Beifänge gelten alle Felchen und untermassigen Fische, während der Schonzeit gefangene Fische sowie in Spannsätzen gefangene Seeforellen. Übersteigt deren Zahl jene der Fische, für die das Netz vorrangig bestimmt ist, werden solche Beifänge als erheblich bezeichnet.[^26-1]
 
 <sup>2</sup>
 
@@ -602,7 +598,7 @@ Zur Vermeidung erheblicher Beifänge können die Kantone St. Gallen und Thurgau 
 
 <sup>3</sup> Die Massnahmen nach Absatz 2 Buchstabe a sind im Falle von räumlich klar definierten Laichgebieten auch vorsorglich anwendbar (Platzverbot).[^26-2]
 
-[^26-1]: Fassung gemäss Ziff. I der V des UVEK vom 21. Febr. 2017, in Kraft seit 15. März 2017 ([AS 2017 693](https://fedlex.data.admin.ch/eli/oc/2017/127)).
+[^26-1]: Fassung gemäss Ziff. I der V des UVEK vom 27. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
 [^26-2]: Fassung gemäss Ziff. I der V des UVEK vom 14. Dez. 2012, in Kraft seit 1. Febr. 2013 ([AS 2013 53](https://fedlex.data.admin.ch/eli/oc/2013/10)).
 
 ## 3. Kapitel: Schonbestimmungen
@@ -615,7 +611,7 @@ Zur Vermeidung erheblicher Beifänge können die Kantone St. Gallen und Thurgau 
 
 <table>
 <tr><th>Fischart</th><th>Schonzeit</th><th>Fangmindestmass</th></tr>
-<tr><td>a.[^27-2] Felchen</td><td>15. Oktober–10. Januar</td><td>–</td></tr>
+<tr><td>a.[^27-2] Felchen</td><td>1. Januar – 31. Dezember</td><td>–</td></tr>
 <tr><td>b.[^27-3] Aesche</td><td>1. Februar–30. April</td><td>35 cm</td></tr>
 <tr><td>c. Forellen</td><td>1. November–10. Januar</td><td>50 cm</td></tr>
 <tr><td>d. Regenbogenforellen</td><td>–</td><td>–</td></tr>
@@ -641,12 +637,12 @@ Zur Vermeidung erheblicher Beifänge können die Kantone St. Gallen und Thurgau 
 
 <sup>8</sup> Vom 10. Mai, 12.00 Uhr, bis 20. April, 12.00 Uhr, dürfen Personen, die mit Angelgeräten fischen, pro Tag höchstens 30 Barsche fangen. Vom 10. Mai bis zum 15. September sind gefangene Barsche mit einer Länge von mehr als 13 cm, in der übrigen Zeit alle gefangenen Barsche, anzulanden.[^27-10]
 
-<sup>9</sup> Vom 10. Januar, 12.00 Uhr, bis 15. Oktober, 12.00 Uhr, dürfen Personen, die mit Angelgeräten fischen, pro Tag höchstens 12 Felchen fangen. Alle gefangenen Felchen sind anzulanden.[^27-11]
+<sup>9</sup> …[^27-11]
 
 <sup>10</sup> Vom 31. Dezember, 12.00 Uhr, bis 1. November, 12.00 Uhr, dürfen Personen, die mit Angelgeräten fischen, pro Tag höchstens 5 Seesaiblinge fangen. Alle gefangenen Seesaiblinge sind anzulanden.[^27-12]
 
 [^27-1]: Fassung gemäss Ziff. I der V des UVEK vom 21. Dez. 2007, in Kraft seit 10. Jan. 2008 ([AS 2008 11](https://fedlex.data.admin.ch/eli/oc/2008/6)).
-[^27-2]: Fassung gemäss Ziff. I der V des UVEK vom 21. Febr. 2017, in Kraft seit 15. März 2017 ([AS 2017 693](https://fedlex.data.admin.ch/eli/oc/2017/127)).
+[^27-2]: Fassung gemäss Ziff. I der V des UVEK vom 27. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
 [^27-3]: Fassung gemäss Ziff. I der V des UVEK vom 21. Febr. 2017, in Kraft seit 15. März 2017 ([AS 2017 693](https://fedlex.data.admin.ch/eli/oc/2017/127)).
 [^27-4]: Fassung gemäss Ziff. I der V des UVEK vom 25. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4271](https://fedlex.data.admin.ch/eli/oc/2019/735)).
 [^27-5]: Fassung gemäss Ziff. I der V des UVEK vom 17. April 2015, in Kraft seit 1. Juni 2015 ([AS 2015 1217](https://fedlex.data.admin.ch/eli/oc/2015/243)).
@@ -655,7 +651,7 @@ Zur Vermeidung erheblicher Beifänge können die Kantone St. Gallen und Thurgau 
 [^27-8]: Fassung gemäss Ziff. I der V des UVEK vom 21. Febr. 2017, in Kraft seit 15. März 2017 ([AS 2017 693](https://fedlex.data.admin.ch/eli/oc/2017/127)).
 [^27-9]: Fassung gemäss Ziff. I der V des UVEK vom 14. Dez. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 6403](https://fedlex.data.admin.ch/eli/oc/2010/900)).
 [^27-10]: Fassung gemäss Ziff. I der V des UVEK vom 26. Nov. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4707](https://fedlex.data.admin.ch/eli/oc/2018/747)).
-[^27-11]: Eingefügt durch Ziff. I der V des UVEK vom 17. April 2015 ([AS 2015 1217](https://fedlex.data.admin.ch/eli/oc/2015/243)). Fassung gemäss Ziff. I der V des UVEK vom 21. Febr. 2017, in Kraft seit 15. März 2017 ([AS 2017 693](https://fedlex.data.admin.ch/eli/oc/2017/127)).
+[^27-11]: Eingefügt durch Ziff. I der V des UVEK vom 17. April 2015 ([AS 2015 1217](https://fedlex.data.admin.ch/eli/oc/2015/243)). Aufgehoben durch Ziff. I der V des UVEK vom 27. Nov. 2023, mit Wirkung seit 1. Jan. 2024 ([AS 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
 [^27-12]: Eingefügt durch Ziff. I der V des UVEK vom 25. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4271](https://fedlex.data.admin.ch/eli/oc/2019/735)).
 
 #### Art. 28

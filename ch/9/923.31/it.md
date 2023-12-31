@@ -3,18 +3,18 @@ sr: "923.31"
 title: Ordinanza del DATEC del 9 ottobre 1997 concernente la pesca nel Lago Superiore di Costanza
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/2417_2417_2417"
 language: it
-version: 2023-01-01
+version: 2024-01-01
 adopted: 1997-10-09
 in_force: 1997-11-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2417_2417_2417/20230101/it/xml/fedlex-data-admin-ch-eli-cc-1997-2417_2417_2417-20230101-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/2417_2417_2417/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2417_2417_2417/20240101/it/xml/fedlex-data-admin-ch-eli-cc-1997-2417_2417_2417-20240101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/2417_2417_2417/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza del DATEC concernente la pesca nel Lago Superiore di Costanza
 
-del 9 ottobre 1997 (Stato 1° gennaio 2023) (Stato 1° gennaio 2023)[^t-1]
+del 9 ottobre 1997 (Stato 1° gennaio 2024)[^t-1]
 
 [^t-1]: Nuovo testo giusta il n. I dell’O del DATEC del 24 ott. 2005, in vigore dal 1° gen. 2006 ([RU 2005 4935](https://fedlex.data.admin.ch/eli/oc/2005/666)).
 
@@ -67,9 +67,10 @@ Ai sensi della presente ordinanza:
 
 <sup>1</sup> Ha diritto di esercitare la pesca professionale a partire dal pensionamento o al più tardi dal compimento del 70°anno di età chi possiede una patente con limite di età, rilasciata dall’autorità competente.
 
-<sup>2</sup> La patente con limite di età autorizza sia alla pesca in alto lago con rete flottante, con la rispettiva magliatura minima ammessa, sia alla pesca nella zona del declivio svizzero.
+<sup>2</sup> La patente con limite di età autorizza sia alla pesca in alto lago con rete flottante ancorata, con la rispettiva magliatura minima ammessa, sia alla pesca nella zona del declivio svizzero.[^2b-2]
 
 [^2b-1]: Introdotto dal n. I dell’O del DATEC del 27 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7621](https://fedlex.data.admin.ch/eli/oc/2017/826)).
+[^2b-2]: Nuovo testo giusta il n. I dell’O del DATEC del 27 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
 
 #### Art. 2c
 
@@ -85,17 +86,17 @@ Ai sensi della presente ordinanza:
 
 <sup>5</sup>
 
-La patente di aggiornameneto può essere concessa per la durata dell’aggiornamento:
+La patente di aggiornamento può essere concessa:
 
-- a. agli itticoltori con un’esperienza professionale di almento due anni iscritti al corso di aggiornamento per diventare esperti dell’industria peschereccia;
-- b. a coloro che soddisfano i requisiti di ammissione all’esame di esperto dell’industria peschereccia e che sono iscritti al relativo corso di aggiornamento.[^2c-6]
+- a. agli itticoltori che devono acquisire i due anni di esperienza professionale in vista del corso di aggiornamento per diventare esperti dell’industria peschereccia, al massimo per due anni;
+- b. a coloro che soddisfano i requisiti di ammissione all’esame di esperto dell’industria peschereccia e che sono iscritti al relativo corso di aggiornamento, per il periodo fino al completamento di detta formazione ma al massimo per quattro anni.[^2c-6]
 
 [^2c-1]: Introdotto dal n. I dell’O del DATEC del 27 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7621](https://fedlex.data.admin.ch/eli/oc/2017/826)).
 [^2c-2]: Nuovo testo giusta il n. I dell’O del DATEC del 30 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
 [^2c-3]: Nuovo testo giusta il n. I dell’O del DATEC dell’8 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 711](https://fedlex.data.admin.ch/eli/oc/2022/711)).
 [^2c-4]: Nuovo testo giusta il n. I dell’O del DATEC del 30 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
 [^2c-5]: Introdotto dal n. I dell’O del DATEC del 30 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
-[^2c-6]: Introdotto dal n. I dell’O del DATEC del 30 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
+[^2c-6]: Introdotto dal n. I dell’O del DATEC del 30 nov. 2020 ([RU 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)). Nuovo testo giusta il n. I dell’O del DATEC del 27 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
 
 #### Art. 2d
 
@@ -193,7 +194,8 @@ L’esercizio della pesca professionale è permesso soltanto con gli attrezzi se
   - 4\. reti di fondo (art. 14),
   - 5\. bertovelli (art. 16),
   - 6\. palamiti (art. 17),
-  - 7\. gli attrezzi ammessi per pescatori sportivi (art. 6).
+  - 7\. gli attrezzi ammessi per pescatori sportivi (art. 6),
+  - 8\.[^5-3] complessi di reti tese (art. 12).
 
 <sup>2</sup> Se la presente ordinanza limita il numero degli attrezzi autorizzati in virtù di ciascuna patente, la patente di pesca in alto lago e quella preliminare di pesca sul declivio contano come una sola patente.
 
@@ -201,6 +203,7 @@ L’esercizio della pesca professionale è permesso soltanto con gli attrezzi se
 
 [^5-1]: Abrogato dal n. I dell’O del DATEC del 28 nov. 2003, con effetto dal 1° gen. 2004 ([RU 2003 5507](https://fedlex.data.admin.ch/eli/oc/2003/795)).
 [^5-2]: Nuova espr. giusta il n. I dell’O del DATEC dell’8 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 711](https://fedlex.data.admin.ch/eli/oc/2022/711)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^5-3]: Introdotto dal n. I dell’O del DATEC del 27 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
 
 #### Art. 6
 
@@ -261,45 +264,24 @@ L’esercizio della pesca sportiva è permesso soltanto con gli attrezzi seguent
 
 <sup>1</sup>
 
-Per la rete flottante libera valgono le seguenti misure massime e minime:
+Le reti flottanti libere possono essere impiegate soltanto per la cattura di riproduttori del Coregonus lavaretus (Blaufelchen) e nel rispetto delle seguenti misure massime e minime:[^10-1]
 
-- a.[^10-1] magliatura di almeno 38 mm;
+- a.[^10-2] magliatura di almeno 38 mm;
 - b. spessore del filo di almeno 0,12 mm;
 - c. lunghezza della rete di 120 m al massimo;
 - d. altezza della rete di 7 m al massimo.
 
-<sup>2</sup> Non sono ammesse le ralinghe superiori natanti. Le estremità delle reti del complesso di reti flottanti libere sono da contrassegnare in quanto tali.[^10-2]
+<sup>2</sup> Non sono ammesse le ralinghe superiori natanti. Le estremità delle reti del complesso di reti flottanti libere sono da contrassegnare in quanto tali.[^10-3]
 
-<sup>3</sup> L’impiego di complessi di reti flottanti libere è autorizzato dalle ore 12.00 del 30 aprile alle ore 12.00 del 15 ottobre.[^10-3]
+<sup>3</sup> a <sup>8</sup> ... [^10-4]
 
-<sup>4</sup> Dalle ore 12.00 del 1° luglio alle ore 12.00 del 15 settembre la lunghezza delle corde deve essere di almeno 5 m.
+<sup>9</sup> ...[^10-5]
 
-<sup>5</sup> I complessi di reti flottanti libere possono essere posati dal lunedì al giovedì; possono essere lasciate soltanto per una notte.
-
-<sup>6</sup> Dal 30 aprile al 31 maggio e dal 1° al 15 ottobre le reti possono essere posate non prima delle ore 15.00, e dal 1° giugno al 30 settembre non prima delle ore 16.00.[^10-4]
-
-<sup>7</sup> Per ogni patente si possono impiegare simultaneamente cinque reti al massimo, che devono essere riunite in un complesso.[^10-5]
-
-<sup>8</sup>
-
-In deroga all’articolo 10 capoverso 1 lettera a si possono impiegare le seguenti reti:
-
-- a. *abrogata*
-- b. *abrogata*
-- b. dal 1° giugno alle ore 12.00 al 1° luglio alle ore 12.00: tre reti con una magliatura di almeno 38 mm e due reti con una magliatura di almeno 40 mm;
-- c. dal 1° luglio alle ore 12.00 al 1° agosto alle ore 12.00: quattro reti con una magliatura di almeno 38 mm e una rete con una magliatura di almeno 40 mm;
-- d. dal 1° agosto alle ore 12.00 al 1° settembre alle ore 12.00: due reti con una magliatura di almeno 38 mm e tre reti con una magliatura di almeno 40 mm;
-- e. dal 1° settembre alle ore 12.00 al 15 ottobre alle ore 12.00: cinque reti con una magliatura di almeno 40 mm.[^10-6]
-
-<sup>9</sup> ...[^10-7]
-
-[^10-1]: Nuovo testo giusta il n. I dell’O del DATEC del 26 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4707](https://fedlex.data.admin.ch/eli/oc/2018/747)).
-[^10-2]: Nuovo testo giusta il n. I dell’O del DATEC del 16 ott. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2675](https://fedlex.data.admin.ch/eli/oc/2000/438)).
-[^10-3]: Nuovo testo giusta il n. I dell’O del DATEC del 30 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
-[^10-4]: Nuovo testo giusta il n. I dell’O del DATEC del 30 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
-[^10-5]: Nuovo testo giusta il n. I dell’O del DATEC del 27 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7621](https://fedlex.data.admin.ch/eli/oc/2017/826)).
-[^10-6]: Nuovo testo giusta il n. I dell’O del DATEC del 26 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4707](https://fedlex.data.admin.ch/eli/oc/2018/747)).
-[^10-7]: Introdotto dal n. I dell’O del DATEC del 30 ago. 1999 ([RU 1999 2221](https://fedlex.data.admin.ch/eli/oc/1999/352)). Abrogato dal n. I dell’O del 30 ago. 2002, con effetto dal 1° set. 2002 ([RU 2002 3952](https://fedlex.data.admin.ch/eli/oc/2002/624)).
+[^10-1]: Nuovo testo giusta il n. I dell’O del DATEC del 27 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
+[^10-2]: Nuovo testo giusta il n. I dell’O del DATEC del 26 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4707](https://fedlex.data.admin.ch/eli/oc/2018/747)).
+[^10-3]: Nuovo testo giusta il n. I dell’O del DATEC del 16 ott. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2675](https://fedlex.data.admin.ch/eli/oc/2000/438)).
+[^10-4]: Abrogati dal n. I dell’O del DATEC del 27 nov. 2023, con effetto dal 1° gen. 2024 ([RU 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
+[^10-5]: Introdotto dal n. I dell’O del DATEC del 30 ago. 1999 ([RU 1999 2221](https://fedlex.data.admin.ch/eli/oc/1999/352)). Abrogato dal n. I dell’O del 30 ago. 2002, con effetto dal 1° set. 2002 ([RU 2002 3952](https://fedlex.data.admin.ch/eli/oc/2002/624)).
 
 #### Art. 11
 
@@ -309,7 +291,7 @@ In deroga all’articolo 10 capoverso 1 lettera a si possono impiegare le seguen
 
 Per la rete flottante ancorata valgono le seguenti misure massime e minime:
 
-- a.[^11-1] magliatura di almeno 40 mm;
+- a.[^11-1] magliatura 40–44 mm;
 - b. spessore del filo di almeno 0,12 mm;
 - c. lunghezza della rete di 120 m al massimo;
 - d. altezza della rete di 7 m al massimo.
@@ -322,16 +304,16 @@ Per la rete flottante ancorata valgono le seguenti misure massime e minime:
 
 <sup>5</sup> Essi devono essere ancorati ad ambo le estremità; la distanza dagli altri complessi di reti flottanti ancorate e dai complessi di reti tese e da reti da posta a maglia grande deve essere di almeno 200 m.
 
-<sup>6</sup> Per ogni patente si possono impiegare simultaneamente cinque reti al massimo, che devono essere riunite al massimo in due complessi. Ogni singolo complesso di reti flottanti deve includere almeno due reti.[^11-5]
+<sup>6</sup> Per ogni patente possono essere impiegate simultaneamente tre reti al massimo, che devono essere riunite in un complesso.[^11-5]
 
-<sup>7</sup> In deroga all’articolo 11 capoverso 1 lettera a in un complesso di reti si possono impiegare due reti con una magliatura di almeno 38 mm e tre reti con una magliatura di almeno 40 mm dal 10 gennaio al 31 marzo e cinque reti con una magliatura di almeno 38 mm dal 1° aprile al 30 aprile.[^11-6]
+<sup>7</sup> ...[^11-6]
 
-[^11-1]: Nuovo testo giusta il n. I dell’O del DATEC del 21 feb. 2017, in vigore dal 15 mar. 2017 ([RU 2017 693](https://fedlex.data.admin.ch/eli/oc/2017/127)).
+[^11-1]: Nuovo testo giusta il n. I dell’O del DATEC del 27 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
 [^11-2]: Nuovo testo giusta il n. I dell’O del DATEC del 6 dic. 2006, in vigore dal 1<sup>o</sup> gen. 2007 ([RU 2006 5377](https://fedlex.data.admin.ch/eli/oc/2006/821)).
 [^11-3]: Nuovo testo giusta il n. I dell’O del DATEC del 30 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
 [^11-4]: Nuovo testo giusta il n. I dell’O del DATEC del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 741](https://fedlex.data.admin.ch/eli/oc/2021/741)).
-[^11-5]: Nuovo testo giusta il n. I dell’O del DATEC del 25 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4271](https://fedlex.data.admin.ch/eli/oc/2019/735)).
-[^11-6]: Introdotto dal n. I dell’O del DATEC del 30 ago. 1999 ([RU 1999 2221](https://fedlex.data.admin.ch/eli/oc/1999/352)). Nuovo testo giusta il n. I dell’O del DATEC del 30 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
+[^11-5]: Nuovo testo giusta il n. I dell’O del DATEC del 27 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
+[^11-6]: Introdotto dal n. I dell’O del DATEC del 30 ago. 1999 ([RU 1999 2221](https://fedlex.data.admin.ch/eli/oc/1999/352)). Abrogato dal n. I dell’O del DATEC del 27 nov. 2023, con effetto dal 1° gen. 2024 ([RU 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
 
 #### Art. 12
 
@@ -341,14 +323,23 @@ Per la rete flottante ancorata valgono le seguenti misure massime e minime:
 
 Per le reti utilizzate valgono le seguenti misure massime e minime:
 
-- a.[^12-1] magliatura di almeno 40 mm;
+- a.[^12-1] magliatura 40–44 mm per le reti monofilo e 38–44 mm per le reti multimonofilo;
 - b. spessore del filo di almeno 0,12 mm;
 - c. lunghezza della rete di 100 m al massimo;
 - d. altezza della rete di 2 m al massimo.
 
-<sup>2</sup> Non sono ammesse le ralinghe superiori natanti.
+<sup>2</sup> ... [^12-2]
 
-<sup>3</sup> L’impiego di complessi di reti tese è autorizzato dalle ore 12.00 del 10 gennaio alle ore 12.00 del 15 ottobre. Dalle ore 12.00 del 1° giugno alle ore 12.00 del 15 ottobre i titolari di una patente di pesca d’alto lago non sono autorizzati a posare i complessi di reti tese. Negli altri periodi è vietata la posa simultanea di complessi di reti flottanti libere o ancorate e di reti tese.
+<sup>3</sup> L’impiego di complessi di reti tese è autorizzato dalle ore 12.00 del 10 gennaio alle ore 12.00 del 15 ottobre. Dalle ore 12.00 del 1° aprile alle ore 12.00 del 31 maggio possono essere impiegati solo senza mettere in pericolo i luoghi di riproduzione del luccioperca.[^12-3]
+
+<sup>4</sup>
+
+All’impiego di complessi di reti tese di cui ai capoversi 1 e 3 si applicano le restrizioni seguenti:
+
+- a. dalle ore 12.00 del 10 gennaio alle ore 12.00 del 31 marzo non possono essere levati di domenica e nei giorni festivi;
+- b. dall’11 maggio al 15 ottobre devono essere controllati ogni giorno;
+- c. dall’11 maggio al 15 ottobre devono essere levati di sabato entro le ore 12.00 e nei giorni feriali precedenti i giorni festivi entro le ore 18.00;
+- d. dall’11 maggio al 15 ottobre possono essere posati di domenica e nei giorni festivi soltanto a partire dalle ore 17.00.[^12-4]
 
 <sup>4</sup>
 
@@ -357,12 +348,16 @@ I complessi di reti tese:
 - a. non possono essere levati di domenica e nei giorni festivi dalle ore 12.00 del 10 gennaio alle ore 12.00 del 31 marzo;
 - b. possono essere posati dalle ore 12.00 del 31 marzo alle ore 12.00 del 15 ottobre soltanto dal lunedì al giovedì; devono essere levati al più tardi alle ore 12.00 del venerdì.
 
-<sup>5</sup> Il complesso di reti tese deve essere ancorato ad ambo le estremità. Deve essere posato in modo che queste ultime si trovino sul declivio. La distanza da reti da posta a maglia grande e dai complessi di reti flottanti ancorate deve essere di almeno 200 m.
+<sup>5</sup> Il complesso di reti tese deve essere ancorato ad ambo le estremità. Deve essere posato in modo che almeno una si trovi sul declivio. Nel caso della patente di pesca sul declivio e della patente con limite di età, entrambe le estremità devono trovarsi sul declivio. La distanza da altri complessi di reti tese come pure da reti da posta a maglia grande e da complessi di reti flottanti ancorate deve essere di almeno 200 m.[^12-5]
 
-<sup>6</sup> Per ogni patente si possono impiegare simultaneamente tre reti al massimo, che devono essere riunite in un complesso.[^12-2]
+<sup>6</sup> Per ogni patente si possono impiegare simultaneamente tre reti al massimo, che devono essere riunite in un complesso.[^12-6]
 
-[^12-1]: Nuovo testo giusta il n. I dell’O del DATEC del 6 dic. 2006, in vigore dal 1<sup>o</sup> gen. 2007 ([RU 2006 5377](https://fedlex.data.admin.ch/eli/oc/2006/821)).
-[^12-2]: Nuovo testo giusta il n. I dell’O del DATEC del 6 dic. 2006, in vigore dal 1<sup>o</sup> gen. 2007 ([RU 2006 5377](https://fedlex.data.admin.ch/eli/oc/2006/821)).
+[^12-1]: Nuovo testo giusta il n. I dell’O del DATEC del 27 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
+[^12-2]: Abrogato dal n. I dell’O del DATEC del 27 nov. 2023, con effetto dal 1° gen. 2024 ([RU 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
+[^12-3]: Nuovo testo giusta il n. I dell’O del DATEC del 27 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
+[^12-4]: Nuovo testo giusta il n. I dell’O del DATEC del 27 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
+[^12-5]: Nuovo testo giusta il n. I dell’O del DATEC del 27 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
+[^12-6]: Nuovo testo giusta il n. I dell’O del DATEC del 6 dic. 2006, in vigore dal 1<sup>o</sup> gen. 2007 ([RU 2006 5377](https://fedlex.data.admin.ch/eli/oc/2006/821)).
 
 #### Art. 13
 
@@ -383,9 +378,10 @@ Per le reti utilizzate valgono le seguenti misure massime e minime:
 
 <sup>4</sup> Le reti da posta a maglia grande devono essere ancorati ad ambo le estremità; la distanza da altre reti da posta a maglia grande, da complessi di reti tese o da complessi di reti flottanti ancorate deve essere di almeno 200 m.
 
-<sup>5</sup> Per ogni patente possono essere impiegate simultaneamente tre reti al massimo, che devono essere riunite in un complesso.
+<sup>5</sup> Per ogni patente possono essere impiegate simultaneamente al massimo tre reti nel periodo dal 10 gennaio al 31 marzo e quattro reti nel periodo dal 1° aprile al 15 luglio; le reti devono essere riunite in un complesso.[^13-2]
 
 [^13-1]: Nuovo testo giusta il n. I dell’O del DATEC del 21 feb. 2017, in vigore dal 15 mar. 2017 ([RU 2017 693](https://fedlex.data.admin.ch/eli/oc/2017/127)).
+[^13-2]: Nuovo testo giusta il n. I dell’O del DATEC del 27 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
 
 #### Art. 14
 
@@ -395,21 +391,24 @@ Per le reti utilizzate valgono le seguenti misure massime e minime:
 
 Per le reti alzate sul fondo (reti di fondo) valgono le seguenti misure massime e minime:
 
-- a. magliatura
+- a.
+
+  magliatura:
+
   - 1\. per la cattura del pesce persico (reti per il pesce persico): 28–32 mm,
-  - 2\. per la cattura dei coregoni (reti per i coregoni): 38–44 mm,
-  - 3\.[^14-1] per la cattura dei lucci e luccioperca e altri pesci grandi (reti per pesci grandi): almeno 50 mm;
+  - 2\.[^14-1] per la cattura dei gardon (reti per i gardon): 40–44 mm monofilo o 38–44 mm multimonofilo,
+  - 3\.[^14-2] per la cattura dei lucci e luccioperca e altri pesci grandi (reti per pesci grandi): almeno 50 mm;
 
 - b. spessore del filo di almeno 0,12 mm;
 - c. lunghezza della rete di 100 m al massimo;
-- d.[^14-2] altezza della rete: 2 m al massimo; per le reti per pesci grandi: 4 m al massimo.
+- d.[^14-3] altezza della rete: 2 m al massimo; per le reti per pesci grandi: 4 m al massimo.
 
 <sup>2</sup> Le reti di fondo possono essere impiegate come segue:
 
 <table>
-<tr><td>a.[^14-3] reti per il pesce persico:</td><td>dal 10 febbraio alle ore 12.00 al 20 aprile alle ore 12.00 e dal 10 maggio alle ore 12.00 al 14 novembre alle ore 12.00; dal 10 maggio alle ore 12.00 al 30 settembre alle ore 12.00 le reti per il pesce persico possono essere posate fino a una profondità di al massimo 20 m;</td></tr>
-<tr><td>b. reti per i coregoni:</td><td>dal 10 gennaio alle ore 12.00 al 20 aprile alle ore 12.00 e dal 10 maggio alle ore 12.00 al 15 ottobre alle ore 12.00;</td></tr>
-<tr><td>c.[^14-4] reti per pesci grandi:</td><td>dal 10 gennaio alle ore 12.00 al 14 novembre alle ore 12.00.[^14-5]</td></tr>
+<tr><td>a.[^14-4] reti per il pesce persico:</td><td>dal 10 febbraio alle ore 12.00 al 20 aprile alle ore 12.00 e dal 10 maggio alle ore 12.00 al 14 novembre alle ore 12.00; dal 10 maggio alle ore 12.00 al 30 settembre alle ore 12.00 le reti per il pesce persico possono essere posate fino a una profondità di al massimo 20 m;</td></tr>
+<tr><td>b.[^14-5] reti per i gardon:</td><td>dal 10 gennaio alle ore 12.00 al 20 aprile alle ore 12.00 e dal 10 maggio alle ore 12.00 al 15 ottobre alle ore 12.00; in deroga al capoverso 1 lettera a numero 2, a partire dal 10 maggio alle ore 12.00 possono essere impiegate reti monofilo con una magliatura di 38–44 mm fino a una profondità di al massimo 20 m;</td></tr>
+<tr><td>c.[^14-6] reti per pesci grandi:</td><td>dal 10 gennaio alle ore 12.00 al 14 novembre alle ore 12.00.[^14-7]</td></tr>
 </table>
 
 <sup>3</sup>
@@ -419,18 +418,18 @@ Nell’impiego delle reti di fondo conformemente ai capoversi 1 e 2 valgono le s
 - a. dall’11 maggio al 30 settembre devono essere levate ogni giorno;
 - b. dall’11 maggio al 30 settembre devono essere levate di sabato non più tardi delle ore 12.00 e nei giorni feriali precedenti i giorni festivi non più tardi delle ore 18.00;
 - c. dal 1° ottobre al 20 aprile non possono essere levate di domenica e nei giorni festivi; è esclusa la cattura di riproduttori dei coregoni;
-- d. dall’11 maggio al 30 settembre possono essere posate di domenica e nei giorni festivi soltanto a partire dalle ore 17.00. [^14-6]
+- d. dall’11 maggio al 30 settembre possono essere posate di domenica e nei giorni festivi soltanto a partire dalle ore 17.00. [^14-8]
 
 <sup>4</sup>
 
 Per ogni patente possono essere impiegate simultaneamente al massimo:
 
-- a. sei reti per il pesce persico e sei reti per i coregoni;
-- b. otto reti per pesci grandi.[^14-7]
+- a.[^14-9] sei reti per il pesce persico e sei reti per i gardon;
+- b. otto reti per pesci grandi.[^14-10]
 
-<sup>4bis</sup> In deroga al capoverso 2 lettera c, dal 1° aprile alle ore 12.00 al 31 maggio alle ore 12.00 le otto reti per pesci grandi possono essere posate solo senza mettere in pericolo i luoghi di riproduzione dei luccioperca noti e dal 15 novembre alle ore 12.00 al 10 gennaio alle ore 12.00 solo in alto lago.[^14-8]
+<sup>4bis</sup> In deroga al capoverso 2 lettera c, dal 1° aprile alle ore 12.00 al 31 maggio alle ore 12.00 le otto reti per pesci grandi possono essere posate solo senza mettere in pericolo i luoghi di riproduzione dei luccioperca noti e dal 15 novembre alle ore 12.00 al 10 gennaio alle ore 12.00 solo in alto lago.[^14-11]
 
-<sup>5</sup> I pescatori di professione che hanno precedentemente partecipato alla cattura di riproduttori del coregone possono, in deroga al capoverso 2, posare due reti per i coregoni con una magliatura di almeno 38 mm e due reti per i coregoni con una magliatura di almeno 42 mm durante le ultime quattro notti di cattura precedenti Natale (ultimo giorno di levata delle reti: al più tardi il 23 dicembre) nell’alto lago e sul declivio. Si applica il capoverso 3 lettera c. I pesci catturati durante la pesca nel periodo natalizio devono essere spremuti: il materiale di riproduzione come pure le trote di lago catturate pronte per la riproduzione devono essere consegnate ai rispettivi stabilimenti d’incubazione.[^14-9]
+<sup>5</sup> ...[^14-12]
 
 <sup>6</sup>
 
@@ -441,21 +440,24 @@ In deroga ai capoversi 1, 2 e 4, dal 10 gennaio al 31 marzo per la cattura mirat
 - c. lunghezza dei tre elementi di 50 m al massimo;
 - d. altezza dei tre elementi di 2 m al massimo (stato di tensione).
 
-<sup>7</sup> ...[^14-10]
+<sup>7</sup> ...[^14-13]
 
-<sup>7bis</sup> ...[^14-11]
+<sup>7bis</sup> ...[^14-14]
 
-[^14-1]: Nuovo testo giusta il n. I dell’O del DATEC del 30 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
+[^14-1]: Nuovo testo giusta il n. I dell’O del DATEC del 27 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
 [^14-2]: Nuovo testo giusta il n. I dell’O del DATEC del 30 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
 [^14-3]: Nuovo testo giusta il n. I dell’O del DATEC del 30 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
 [^14-4]: Nuovo testo giusta il n. I dell’O del DATEC del 30 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
-[^14-5]: Nuovo testo giusta il n. I dell’O del DATEC del 21 feb. 2017, in vigore dal 15 mar. 2017 ([RU 2017 693](https://fedlex.data.admin.ch/eli/oc/2017/127)).
-[^14-6]: Nuovo testo giusta il n. I dell’O del DATEC del 17 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1217](https://fedlex.data.admin.ch/eli/oc/2015/243)).
-[^14-7]: Nuovo testo giusta il n. I dell’O del DATEC del 30 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
-[^14-8]: Introdotto dal n. I dell’O del DATEC del 1° dic. 2009 ([RU 2009 6859](https://fedlex.data.admin.ch/eli/oc/2009/840)). Nuovo testo giusta il n. I dell’O del DATEC del 30 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
-[^14-9]: Nuovo testo giusta il n. I dell’O del DATEC del 17 apr. 2015, in vigore dal 1° giu. 2015, e fino al 31 dic. 2015 se la disp. riguarda la posa di reti sul declivio ([RU 2015 1217](https://fedlex.data.admin.ch/eli/oc/2015/243)).
-[^14-10]: Abrogato dal n. I dell’O del DATEC del 30 nov. 2020, con effetto dal 1° gen. 2021 ([RU 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
-[^14-11]: Introdotto dal n. I dell’O del DATEC del 1° dic. 2009 ([RU 2009 6859](https://fedlex.data.admin.ch/eli/oc/2009/840)). Abrogato dal n. I dell’O del DATEC del 30 nov. 2020, con effetto dal 1° gen. 2021 ([RU 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
+[^14-5]: Nuovo testo giusta il n. I dell’O del DATEC del 27 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
+[^14-6]: Nuovo testo giusta il n. I dell’O del DATEC del 30 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
+[^14-7]: Nuovo testo giusta il n. I dell’O del DATEC del 21 feb. 2017, in vigore dal 15 mar. 2017 ([RU 2017 693](https://fedlex.data.admin.ch/eli/oc/2017/127)).
+[^14-8]: Nuovo testo giusta il n. I dell’O del DATEC del 17 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1217](https://fedlex.data.admin.ch/eli/oc/2015/243)).
+[^14-9]: Nuovo testo giusta il n. I dell’O del DATEC del 27 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
+[^14-10]: Nuovo testo giusta il n. I dell’O del DATEC del 30 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
+[^14-11]: Introdotto dal n. I dell’O del DATEC del 1° dic. 2009 ([RU 2009 6859](https://fedlex.data.admin.ch/eli/oc/2009/840)). Nuovo testo giusta il n. I dell’O del DATEC del 30 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
+[^14-12]: Abrogato dal n. I dell’O del DATEC del 27 nov. 2023, con effetto dal 1° gen. 2024 ([RU 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
+[^14-13]: Abrogato dal n. I dell’O del DATEC del 30 nov. 2020, con effetto dal 1° gen. 2021 ([RU 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
+[^14-14]: Introdotto dal n. I dell’O del DATEC del 1° dic. 2009 ([RU 2009 6859](https://fedlex.data.admin.ch/eli/oc/2009/840)). Abrogato dal n. I dell’O del DATEC del 30 nov. 2020, con effetto dal 1° gen. 2021 ([RU 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
 
 #### Art. 15
 
@@ -491,20 +493,21 @@ In deroga ai capoversi 1, 2 e 4, dal 10 gennaio al 31 marzo per la cattura mirat
 
 **Lenze**
 
-<sup>1</sup> La lenza (ami e lenza, con o senza canna) può avere due ami al massimo che, durante la cattura, devono essere muniti di esche naturali o artificiali. Per la moschetta («Hegene») sono ammessi al massimo 5 ami.
+<sup>1</sup> La lenza (ami e lenza, con o senza canna) può avere due ami al massimo che, durante la cattura, devono essere muniti di esche naturali o artificiali. Per la moschetta («Hegene») sono ammessi al massimo 5 ami. Nell’esercizio della pesca sportiva dall’imbarcazione, su lenze con più ami la dimensione dei singoli ami deve essere pari almeno a 6 mm.[^18-1]
 
 <sup>2</sup> Il pescatore può gettare simultaneamente due lenze al massimo. Contemporaneamente alla moschetta non si possono impiegare altre lenze.
 
-<sup>3</sup> Per la pesca con la tirlindana sono autorizzati al massimo otto ami per patente e per imbarcazione.[^18-1] Sono ammessi o gli ami semplici con o senza ardiglione o gli ami a due o tre punte (ancorette) senza ardiglione. Dalle ore 12.00 del 1° novembre alle ore 12.00 del 10 gennaio nonché da un’imbarcazione a vela in movimento la pesca con la tirlindana è vietata.
+<sup>3</sup> Per la pesca con la tirlindana sono autorizzati al massimo otto ami per patente e per imbarcazione.[^18-2] Sono ammessi o gli ami semplici con o senza ardiglione o gli ami a due o tre punte (ancorette) senza ardiglione. Dalle ore 12.00 del 1° novembre alle ore 12.00 del 10 gennaio nonché da un’imbarcazione a vela in movimento la pesca con la tirlindana è vietata.
 
 <sup>4</sup> Il pescatore deve sorvegliare costantemente le lenze.
 
 <sup>5</sup> Lo strappo («Reissen», «Schlenzen» o «Schränzen»), come pure il lancio con la moschetta sono vietati.
 
-<sup>6</sup> Nell’esercizio della pesca con lenze, deve essere rispettata una distanza minima di 25 metri dalle reti, dai bertovelli e dai palamiti.[^18-2]
+<sup>6</sup> Nell’esercizio della pesca con lenze, deve essere rispettata una distanza minima di 25 metri dalle reti, dai bertovelli e dai palamiti.[^18-3]
 
-[^18-1]: Nuovo testo del per. giusta il n. I dell’O del DATEC del 30 ago. 1999, in vigore dal 15 set. 1999 ([RU 1999 2221](https://fedlex.data.admin.ch/eli/oc/1999/352)).
-[^18-2]: Nuovo testo giusta il n. I dell’O del DATEC del 25 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4271](https://fedlex.data.admin.ch/eli/oc/2019/735)).
+[^18-1]: Nuovo testo giusta il n. I dell’O del DATEC del 27 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
+[^18-2]: Nuovo testo del per. giusta il n. I dell’O del DATEC del 30 ago. 1999, in vigore dal 15 set. 1999 ([RU 1999 2221](https://fedlex.data.admin.ch/eli/oc/1999/352)).
+[^18-3]: Nuovo testo giusta il n. I dell’O del DATEC del 25 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4271](https://fedlex.data.admin.ch/eli/oc/2019/735)).
 
 #### Art. 19
 
@@ -544,11 +547,12 @@ I guadini (guadino a mano, guadino circolare o semicircolare, con manico) posson
 
 **Cattura di riproduttori di altri coregoni**
 
-<sup>1</sup> Per la cattura di riproduttori del *Coregonus oxyrhynchus* (Gangfisch) possono essere impiegate reti di fondo per i coregoni (art. 14 cpv. 1 lett. a). I Cantoni di San Gallo e di Turgovia possono ordinare deroghe relative alla magliatura e al numero delle reti, qualora la cattura regolamentare dei riproduttori lo esiga.
+<sup>1</sup> Per la cattura di riproduttori del *Coregonus oxyrhynchus* (Gangfisch) possono essere impiegate reti per i gardon (art. 14 cpv. 1 lett. a). I Cantoni di San Gallo e di Turgovia possono ordinare deroghe relative alla magliatura e al numero delle reti, qualora la cattura regolamentare dei riproduttori lo esiga.[^23-1]
 
-<sup>2</sup> e <sup>3</sup> ...[^23-1]
+<sup>2</sup> e <sup>3</sup> ...[^23-2]
 
-[^23-1]: Abrogati dal n. I dell’O del DATEC del 28 nov. 2003, con effetto dal 1° gen. 2004 ([RU 2003 5507](https://fedlex.data.admin.ch/eli/oc/2003/795)).
+[^23-1]: Nuovo testo giusta il n. I dell’O del DATEC del 27 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
+[^23-2]: Abrogati dal n. I dell’O del DATEC del 28 nov. 2003, con effetto dal 1° gen. 2004 ([RU 2003 5507](https://fedlex.data.admin.ch/eli/oc/2003/795)).
 
 #### Art. 24
 
@@ -562,7 +566,7 @@ Per la cattura di riproduttori della trota di lago i Cantoni di San Gallo e di T
 
 **Catture di massa**
 
-<sup>1</sup> Per catture di massa in complessi di reti flottanti libere o ancorate s’intendono le catture di un peso di 50 kg o più per patente e giorno, nella misura in cui non si tratti di un caso isolato e fortuito.
+<sup>1</sup> Per catture di massa in complessi di reti flottanti ancorate e di reti tese s*’*intendono le catture di un peso di 50 kg o più per patente e giorno, nella misura in cui non si tratti di un caso isolato e fortuito.[^25-1]
 
 <sup>2</sup> Per valutare se vi siano o meno catture di massa e per decidere quali misure debbano eventualmente essere adottate si ricorre a un comitato speciale formato da rappresentanti del Baden-Württemberg, della Baviera, dell’Austria e della Svizzera. I Cantoni di San Gallo e di Turgovia inviano un rappresentante comune in tale comitato.
 
@@ -573,22 +577,23 @@ Le misure ordinate dal comitato speciale singolarmente o in combinazione tra lor
 - a. a una riduzione del numero delle reti;
 - b. a ulteriori giorni di divieto per settimana;
 - c. a una definizione della lunghezza delle corde;
-- d.[^25-1] alla sostituzione delle reti flottanti con una magliatura di almeno 38 mm secondo gli articoli 10 capoverso 1 e 11 capoverso 1 con reti con una magliatura di almeno 40 mm o con una magliatura di almeno 44 mm.
+- d.[^25-2] a modifiche della magliatura.
 
-<sup>4</sup> Le misure devono avere una durata di validità; vanno abrogate non appena il peso delle catture è sceso a 20 kg per complesso di reti flottanti e per giorno.[^25-2]
+<sup>4</sup> Le misure devono avere una durata di validità; vanno abrogate non appena il peso delle catture è sceso a 20 kg per complesso di reti flottanti e per giorno.[^25-3]
 
 <sup>5</sup> Il membro svizzero del comitato speciale comunica immediatamente le misure decise ai Cantoni di San Gallo e di Turgovia, i quali informano mediante una decisione individuale i detentori delle patenti di pesca professionale da essi rilasciate. Restano salve ulteriori restrizioni per i Cantoni di San Gallo e di Turgovia.
 
 <sup>6</sup> I Cantoni di San Gallo e di Turgovia informano immediatamente sulle misure ordinate il plenipotenziario della Confederazione per la pesca nel Lago di Costanza.
 
-[^25-1]: Nuovo testo giusta il n. I dell’O del DATEC del 14 dic. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6403](https://fedlex.data.admin.ch/eli/oc/2010/900)).
-[^25-2]: Nuovo testo giusta il n. I dell’O del DATEC del 6 dic. 2006, in vigore dal 1<sup>o</sup> gen. 2007 ([RU 2006 5377](https://fedlex.data.admin.ch/eli/oc/2006/821)).
+[^25-1]: Nuovo testo giusta il n. I dell’O del DATEC del 27 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
+[^25-2]: Nuovo testo giusta il n. I dell’O del DATEC del 27 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
+[^25-3]: Nuovo testo giusta il n. I dell’O del DATEC del 6 dic. 2006, in vigore dal 1<sup>o</sup> gen. 2007 ([RU 2006 5377](https://fedlex.data.admin.ch/eli/oc/2006/821)).
 
 #### Art. 26
 
 **Catture accessorie**
 
-<sup>1</sup> Per catture accessorie s’intendono le catture di pesci sottomisura, le catture di pesci effettuate durante i periodi di divieto nonché i coregoni catturati in reti per il pesce persico. Se il loro numero supera quello dei pesci per i quali la rete è destinata in primo luogo, le catture accessorie sono designate come rilevanti.[^26-1]
+<sup>1</sup> Per catture accessorie s’intendono tutte le catture di coregoni e di pesci sottomisura, le catture di pesci effettuate durante i periodi di divieto nonché le trote di lago catturate in complessi di reti tese. Se il loro numero supera quello dei pesci per i quali la rete è destinata in primo luogo, le catture accessorie sono designate come rilevanti.[^26-1]
 
 <sup>2</sup>
 
@@ -600,7 +605,7 @@ Per evitare catture accessorie rilevanti, i Cantoni di San Gallo e di Turgovia p
 
 <sup>3</sup> Nel caso di siti di riproduzione la cui area è definita in modo chiaro, la misura di cui al capoverso 2 lettera a si applica anche a fini preventivi (bandita).[^26-2]
 
-[^26-1]: Nuovo testo giusta il n. I dell’O del DATEC del 21 feb. 2017, in vigore dal 15 mar. 2017 ([RU 2017 693](https://fedlex.data.admin.ch/eli/oc/2017/127)).
+[^26-1]: Nuovo testo giusta il n. I dell’O del DATEC del 27 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
 [^26-2]: Nuovo testo giusta il n. I dell’O del DATEC del 14 dic. 2012, in vigore dal 1° feb. 2013 ([RU 2013 53](https://fedlex.data.admin.ch/eli/oc/2013/10)).
 
 ## Capitolo 3: Disposizioni di protezione
@@ -613,7 +618,7 @@ Per evitare catture accessorie rilevanti, i Cantoni di San Gallo e di Turgovia p
 
 <table>
 <tr><th>Specie</th><th>Periodo di divieto</th><th>Lunghezza minima</th></tr>
-<tr><td>a.[^27-1] coregone</td><td>15 ottobre–10 gennaio</td><td>–</td></tr>
+<tr><td>a.[^27-1] coregoni</td><td>1° gennaio–31 dicembre</td><td>–</td></tr>
 <tr><td>b.[^27-2] temolo</td><td>1° febbraio–30 aprile</td><td>35 cm</td></tr>
 <tr><td>c. trota</td><td>1° novembre–10 gennaio</td><td>50 cm</td></tr>
 <tr><td>d. trota iridea</td><td>–</td><td>–</td></tr>
@@ -639,11 +644,11 @@ Per evitare catture accessorie rilevanti, i Cantoni di San Gallo e di Turgovia p
 
 <sup>8</sup> Dal 10 maggio alle ore 12.00 al 20 aprile alle ore 12.00, un pescatore che si serve di lenze può catturare al massimo 30 pesci persici al giorno. Dal 10 maggio al 15 settembre tutti i pesci persici catturati di lunghezza superiore a 13 cm, e negli altri periodi tutti i pesci persici catturati, devono essere tirati fuori dall’acqua.[^27-9]
 
-<sup>9</sup> Dal 10 gennaio alle ore 12.00 al 15 ottobre alle ore 12.00, un pescatore che si serve di lenze può catturare al massimo 12 coregoni al giorno. Tutti i coregoni catturati devono essere tirati fuori dall’acqua.[^27-10]
+<sup>9</sup> ...[^27-10]
 
 <sup>10</sup> Dal 31 dicembre alle ore 12.00 al 1° novembre alle ore 12.00, un pescatore che si serve di lenze può catturare al massimo cinque salmerini alpini al giorno. Tutti i salmerini alpini catturati devono essere tirati fuori dall’acqua.[^27-11]
 
-[^27-1]: Nuovo testo giusta il n. I dell’O del DATEC del 21 feb. 2017, in vigore dal 15 mar. 2017 ([RU 2017 693](https://fedlex.data.admin.ch/eli/oc/2017/127)).
+[^27-1]: Nuovo testo giusta il n. I dell’O del DATEC del 27 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
 [^27-2]: Nuovo testo giusta il n. I dell’O del DATEC del 21 feb. 2017, in vigore dal 15 mar. 2017 ([RU 2017 693](https://fedlex.data.admin.ch/eli/oc/2017/127)).
 [^27-3]: Nuovo testo giusta il n. I dell’O del DATEC del 25 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4271](https://fedlex.data.admin.ch/eli/oc/2019/735)).
 [^27-4]: Nuovo testo giusta il n. I dell’O del DATEC del 17 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1217](https://fedlex.data.admin.ch/eli/oc/2015/243)).
@@ -652,7 +657,7 @@ Per evitare catture accessorie rilevanti, i Cantoni di San Gallo e di Turgovia p
 [^27-7]: Nuovo testo giusta il n. I dell’O del DATEC del 21 feb. 2017, in vigore dal 15 mar. 2017 ([RU 2017 693](https://fedlex.data.admin.ch/eli/oc/2017/127)).
 [^27-8]: Nuovo testo giusta il n. I dell’O del DATEC del 14 dic. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6403](https://fedlex.data.admin.ch/eli/oc/2010/900)).
 [^27-9]: Nuovo testo giusta il n. I dell’O del DATEC del 26 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4707](https://fedlex.data.admin.ch/eli/oc/2018/747)).
-[^27-10]: Nuovo testo giusta il n. I dell’O del DATEC del 17 apr. 2015 ([RU 2015 1217](https://fedlex.data.admin.ch/eli/oc/2015/243)). Nuovo testo giusta il n. I dell’O del DATEC del 21 feb. 2017, in vigore dal 15 mar. 2017 ([RU 2017 693](https://fedlex.data.admin.ch/eli/oc/2017/127)).
+[^27-10]: Abrogato dal n. I dell’O del DATEC del 27 nov. 2023, con effetto dal 1° gen. 2024 ([RU 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
 [^27-11]: Introdotto dal n. I dell’O del DATEC del 25 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4271](https://fedlex.data.admin.ch/eli/oc/2019/735)).
 
 #### Art. 28
