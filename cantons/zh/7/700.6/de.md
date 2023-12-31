@@ -4,11 +4,11 @@ number: "700.6"
 title: Bauverfahrensverordnung (BVV)
 short: BVV
 language: de
-version: "2023-01-01"
-nachtrag: "119"
-valid_until: 2024-01-01
+version: "2024-01-01"
+nachtrag: "123"
+valid_until: 2024-04-01
 adopted: 1997-12-03
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-700_6-1997_12_03-1998_01_01-119.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-700_6-1997_12_03-1998_01_01-123.html"
 text: pdf
 ---
 
@@ -38,7 +38,7 @@ Keiner baurechtlichen Bewilligung bedürfen in Bauzonen<sup>44</sup>: a.<sup>44<
 
 **1**
 
-- 1\. 1. 23 - 119 zonen sowie im Geltungsbereich einer anderen Schutzanordnung oder eines Ortsbild- oder Denkmalschutzinventars, j.<sup>54</sup> steckerfertige Solaranlagen bis zu einer Fläche von 4 m<sup>2</sup>; solche Anlagen sind jedoch bewilligungspflichtig in Kernzonen, im Geltungsbereich eines Ortsbild- oder Denkmalschutzinventars oder im Geltungsbereich einer denkmalpflegerischen Schutzanordnung, k.<sup>54</sup> nicht öffentlich zugängliche Ladestationen für Elektrofahrzeuge an bestehenden Fahrzeugabstellplätzen.
+- 1\. 1. 24 - 123 zonen sowie im Geltungsbereich einer anderen Schutzanordnung oder eines Ortsbild- oder Denkmalschutzinventars, j.<sup>54</sup> steckerfertige Solaranlagen bis zu einer Fläche von 4 m<sup>2</sup>; solche Anlagen sind jedoch bewilligungspflichtig in Kernzonen, im Geltungsbereich eines Ortsbild- oder Denkmalschutzinventars oder im Geltungsbereich einer denkmalpflegerischen Schutzanordnung, k.<sup>54</sup> nicht öffentlich zugängliche Ladestationen für Elektrofahrzeuge an bestehenden Fahrzeugabstellplätzen.
 
 [^1-1]: OS 54, 435.
 
@@ -114,7 +114,7 @@ Keiner baurechtlichen Bewilligung bedürfen in Bauzonen<sup>44</sup>: a.<sup>44<
 
 **3**
 
-- 1\. 1. 23 - 119
+- 1\. 1. 24 - 123
 
 - e. bei aussen aufgestellten Luft/Wasser-Wärmepumpen einfache Skizzen, Fotos oder Pläne der projektierten Anlage.
 
@@ -189,7 +189,7 @@ b.<sup>45</sup> Grundrisse aller Geschosse sowie die baurechtlich wesentlichen S
 
 **5**
 
-- 1\. 1. 23 - 119 § 4. <sup>1</sup> Im Situationsplan nach § 3 Abs. 1 lit. a sind bleibende Bauten und Anlagen schwarz, Neu- und Umbauten rot, abzubrechende Teile gelb darzustellen.<sup>30</sup>
+- 1\. 1. 24 - 123 § 4. <sup>1</sup> Im Situationsplan nach § 3 Abs. 1 lit. a sind bleibende Bauten und Anlagen schwarz, Neu- und Umbauten rot, abzubrechende Teile gelb darzustellen.<sup>30</sup>
 
 **II. Gestaltung**
 
@@ -283,7 +283,7 @@ Je nach Art und Lage des Bauvorhabens sind ferner erforderlich:
 
 **7**
 
-- 1\. 1. 23 - 119 c.<sup>22</sup> bei Vorhaben, die keine Bewilligung der örtlichen Baubehörde benötigen, die kantonale Leitstelle.
+- 1\. 1. 24 - 123 c.<sup>22</sup> bei Vorhaben, die keine Bewilligung der örtlichen Baubehörde benötigen, die kantonale Leitstelle.
 
 <sup>2</sup> Muss ein Vorhaben durch mehrere kantonale Stellen beurteilt werden, sorgt die kantonale Leitstelle für die Koordination der kantonalen Verfahren und Entscheide.<sup>27</sup>
 
@@ -351,7 +351,7 @@ Das Anzeigeverfahren findet namentlich Anwendung auf:<sup>55</sup> a. Vordächer
 
 **9**
 
-- 1\. 1. 23 - 119
+- 1\. 1. 24 - 123
 
 - h. Änderungen der Zweckbestimmung einzelner Räume ohne Änderung der Nutzweise,
 
@@ -425,7 +425,7 @@ Das Anzeigeverfahren findet namentlich Anwendung auf:<sup>55</sup> a. Vordächer
 
 **11**
 
-- 1\. 1. 23 - 119
+- 1\. 1. 24 - 123
 
 <sup>2</sup> Die Applikation stellt über eine standardisierte Schnittstelle (eCH- 0211) die Anbindung der Bauverwaltungsapplikationen der Gemeinden, der Geschäftskontrolle des Kantons sowie anderer im Bewilligungsverfahren benötigter Fachapplikationen sicher.
 
@@ -507,7 +507,7 @@ Diese Verordnung tritt am 1. Januar 1998 in Kraft. Auf den gleichen Zeitpunkt wi
 
 **13**
 
-- 1\. 1. 23 - 119
+- 1\. 1. 24 - 123
 
 ### Übergangsbestimmung zur Änderung vom 27. Juni 2012
 
@@ -567,7 +567,7 @@ Bis zur Betriebsaufnahme des Katasters der öffentlich-rechtlichen Eigentumsbesc
 
 **15**
 
-- 1\. 1. 23 - 119
+- 1\. 1. 24 - 123
 
 <sup>46</sup> Fassung gemäss RRB vom 4. April 2018 (OS 73, 187; ABl 2018-04-20). In Kraft seit 1. Juni 2018.
 
@@ -591,6 +591,8 @@ Bis zur Betriebsaufnahme des Katasters der öffentlich-rechtlichen Eigentumsbesc
 
 <sup>56</sup> Aufgehoben durch RRB vom 26. Oktober 2022 (OS 77, 583; ABl 2022-11-04). In Kraft seit 1. Januar 2023.
 
+<sup>57</sup> Fassung gemäss RRB vom 12. Dezember 2023 (OS 78, 551; ABl 2023-12-15). In Kraft seit 1. Januar 2024.
+
 ### Anhang zur Bauverfahrensverordnung<sup>22</sup>
 
 ### Erforderliche Beurteilungen durch kantonale Stellen (§§ 7, 8 und 19)<sup>32</sup>
@@ -611,9 +613,7 @@ AFM<sup>52</sup> Amt für Mobilität
 
 ALN Amt für Landschaft und Natur
 
-(Baudirektion) ARE<sup>33</sup> Amt für Raumentwicklung (Baudirektion)
-
-AWA Amt für Wirtschaft und Arbeit
+(Baudirektion) ARE<sup>33</sup> Amt für Raumentwicklung (Baudirektion) AWI<sup>57</sup> Amt für Wirtschaft<sup>57</sup>
 
 (Volkswirtschaftsdirektion)
 
@@ -639,7 +639,7 @@ Weitere Prüfungen und Bewilligungen aufgrund der Spezialgesetzgebung des Bundes
 
 **19**
 
-23 - 119 Auf die Bewilligung von Reklamen an Strassen ist diese Verordnung nur anwendbar, wenn weitere Beurteilungen durch kantonale Stellen gemäss diesem Anhang erforderlich sind. Andernfalls erfolgt die Koordination mit der verkehrspolizeilichen Bewilligung der Kantonspolizei (Nationalstrassen sowie kantonale Autobahnen und Autostrassen) unmittelbar durch die örtliche Baubehörde. Gesuche für Baureklamen an Strassen sind ausschliesslich durch die Gemeinde bzw. die Kantonspolizei zu prüfen; deren Verfügungen werden den Gesuchstellenden von diesen Stellen selbst eröffnet. Gesuche für Bauvorhaben, die der Prüfung durch die kantonale Feuerpolizei oder das kantonale Amt für Militär und Zivilschutz unterliegen, unterbreitet das örtliche Bauamt diesen Stellen ausserhalb des in dieser Verordnung geregelten Verfahrens. Es koordiniert die feuerpolizeilichen und die zivilschutzrechtlichen Nebenbestimmungen mit den übrigen erforderlichen Bewilligungen und macht sie zum Bestandteil der kommunalen Bewilligung. Besonderheiten des Vorhabens (der zu erstellenden oder von der Änderung betroffenen Baute oder Anlage) Stelle
+24 - 123 Auf die Bewilligung von Reklamen an Strassen ist diese Verordnung nur anwendbar, wenn weitere Beurteilungen durch kantonale Stellen gemäss diesem Anhang erforderlich sind. Andernfalls erfolgt die Koordination mit der verkehrspolizeilichen Bewilligung der Kantonspolizei (Nationalstrassen sowie kantonale Autobahnen und Autostrassen) unmittelbar durch die örtliche Baubehörde. Gesuche für Baureklamen an Strassen sind ausschliesslich durch die Gemeinde bzw. die Kantonspolizei zu prüfen; deren Verfügungen werden den Gesuchstellenden von diesen Stellen selbst eröffnet. Gesuche für Bauvorhaben, die der Prüfung durch die kantonale Feuerpolizei oder das kantonale Amt für Militär und Zivilschutz unterliegen, unterbreitet das örtliche Bauamt diesen Stellen ausserhalb des in dieser Verordnung geregelten Verfahrens. Es koordiniert die feuerpolizeilichen und die zivilschutzrechtlichen Nebenbestimmungen mit den übrigen erforderlichen Bewilligungen und macht sie zum Bestandteil der kommunalen Bewilligung. Besonderheiten des Vorhabens (der zu erstellenden oder von der Änderung betroffenen Baute oder Anlage) Stelle
 
 **c.33**
 
@@ -725,7 +725,7 @@ einer überkommunalen Schutzanordnung (Fachstelle)
 
 **oder**
 
-- 1\. 1. 23 - 119 Besonderheiten des Vorhabens (der zu erstellenden Beantragende Zum Entscheid § § oder von der Änderung betroffenen Baute oder Anlage) Stelle 1.4.1.3 – Landschaftsschutz im Geltungsbereich ARE eines überkommunalen Inventars (Fachstelle) 1.4.1.4 – Ortsbildschutz (ausser in den Städten ARE Zürich und Winterthur) (Fachstelle) 1.4.1.5 – Denkmalpflege ARE (Fachstelle) 1.4.1.6 – Archäologie ARE (Fachstelle) 1.4.2 im Nahbereich von Ufervegetation und ALN im Bereich von Lebensräumen geschützter (Fachstelle)<sup>23</sup> Pflanzen und Tiere, soweit bekannt
+- 1\. 1. 24 - 123 Besonderheiten des Vorhabens (der zu erstellenden Beantragende Zum Entscheid § § oder von der Änderung betroffenen Baute oder Anlage) Stelle 1.4.1.3 – Landschaftsschutz im Geltungsbereich ARE eines überkommunalen Inventars (Fachstelle) 1.4.1.4 – Ortsbildschutz (ausser in den Städten ARE Zürich und Winterthur) (Fachstelle) 1.4.1.5 – Denkmalpflege ARE (Fachstelle) 1.4.1.6 – Archäologie ARE (Fachstelle) 1.4.2 im Nahbereich von Ufervegetation und ALN im Bereich von Lebensräumen geschützter (Fachstelle)<sup>23</sup> Pflanzen und Tiere, soweit bekannt
 
 **zuständige Stelle 8 19 ARE x**
 
@@ -781,7 +781,7 @@ zonen Bodenauftrag, Bodenabtrag oder Bodenverbrauch (durch Bauten und Anlagen) 1
 
 **21**
 
-- 1\. 1. 23 - 119 Besonderheiten des Vorhabens (der zu erstellenden Beantragende Zum Entscheid § § oder von der Änderung betroffenen Baute oder Anlage) Stelle
+- 1\. 1. 24 - 123 Besonderheiten des Vorhabens (der zu erstellenden Beantragende Zum Entscheid § § oder von der Änderung betroffenen Baute oder Anlage) Stelle
 
 **zuständige Stelle 8 19**
 
@@ -855,9 +855,9 @@ Abwasserreinigungsanlage oder durch Abtransport (Fachstelle) auf eine zentrale A
 
 ### 3. Bauten und Anlagen mit besonderen Problemen hinsichtlich Lärmschutz
 
-**AWA23**
+**AWI57**
 
-3.1 ortsfeste Anlagen der Industrie, des Gewerbes und AWA der Landwirtschaft gemäss Art. 2 Abs. 1 LSV[^h3BautenundAnlage-1], die (Fachstelle)<sup>23</sup> beim Betrieb Aussenlärm erzeugen, bezüglich ihrer Übereinstimmung mit den Vorschriften über den Lärmschutz (ausserhalb der Städte Zürich und Winterthur) 3.2<sup>47</sup> Vorhaben in durch ortsfeste Anlagen lärmbelas- TBA teten Gebieten, wenn trotz Ausschöpfen aller Mass- (Fachstelle) nahmen Immissionsgrenzwertüberschreitungen verbleiben, zur Zustimmung gemäss Art. 31 Abs. 2 LSV[^h3BautenundAnlage-1], allenfalls unter Anordnung von weiteren Massnahmen gemäss Art. 31 Abs. 1 LSV[^h3BautenundAnlage-1] 3.3<sup>33</sup> Vorhaben an geplanten (neuen oder wesentlich geänderten) – National- und Staatsstrassen – Strassen mit überkommunaler Bedeutung in den Städten Zürich und Winterthur – Eisenbahnanlagen
+3.1 ortsfeste Anlagen der Industrie, des Gewerbes und AWI<sup>57</sup> der Landwirtschaft gemäss Art. 2 Abs. 1 LSV[^h3BautenundAnlage-1], die (Fachstelle)<sup>23</sup> beim Betrieb Aussenlärm erzeugen, bezüglich ihrer Übereinstimmung mit den Vorschriften über den Lärmschutz (ausserhalb der Städte Zürich und Winterthur) 3.2<sup>47</sup> Vorhaben in durch ortsfeste Anlagen lärmbelas- TBA teten Gebieten, wenn trotz Ausschöpfen aller Mass- (Fachstelle) nahmen Immissionsgrenzwertüberschreitungen verbleiben, zur Zustimmung gemäss Art. 31 Abs. 2 LSV[^h3BautenundAnlage-1], allenfalls unter Anordnung von weiteren Massnahmen gemäss Art. 31 Abs. 1 LSV[^h3BautenundAnlage-1] 3.3<sup>33</sup> Vorhaben an geplanten (neuen oder wesentlich geänderten) – National- und Staatsstrassen – Strassen mit überkommunaler Bedeutung in den Städten Zürich und Winterthur – Eisenbahnanlagen
 
 **23**
 
@@ -867,7 +867,7 @@ Abwasserreinigungsanlage oder durch Abtransport (Fachstelle) auf eine zentrale A
 
 **ARE**
 
-- 1\. 1. 23 - 119 Besonderheiten des Vorhabens (der zu erstellenden Beantragende Zum Entscheid § § oder von der Änderung betroffenen Baute oder Anlage) Stelle
+- 1\. 1. 24 - 123 Besonderheiten des Vorhabens (der zu erstellenden Beantragende Zum Entscheid § § oder von der Änderung betroffenen Baute oder Anlage) Stelle
 
 **zuständige Stelle 8 19**
 
@@ -895,7 +895,7 @@ und Energie<sup>27</sup> 4.1<sup>48</sup> Stationäre Anlagen gemäss Art. 2 Abs
 
 - Steine und Erden Darunter fallen nicht Gaststätten, Betriebe der Holzbearbeitung, farbanwendende Betriebe und Druckereien.
 
-**AWA AWA (Fachstelle)**
+**AWI57 AWI57 (Fachstelle)**
 
 **AWEL**
 
@@ -917,7 +917,7 @@ und Energie<sup>27</sup> 4.1<sup>48</sup> Stationäre Anlagen gemäss Art. 2 Abs
 
 ### 5. Diverses<sup>41</sup>
 
-**AWA AWA (Fachstelle)**
+**AWI57 AWI57 (Fachstelle)**
 
 5.1<sup>50</sup> Betriebe 5.1.1 Betriebe, die gemäss Art. 7 und 8 des Arbeitsgesetzes vom 13. März 1964[^h5Diversessup41-1] in Verbindung mit Art. 1 Abs. 2 der Verordnung 4 zum Arbeitsgesetz vom 18. August 1993[^h5Diversessup41-2] dem Plangenehmigungsverfahren unterstehen 5.1.2 Übrige Betriebe, die Arbeitnehmende beschäftigen 5.2<sup>33</sup> Kiesabbau (gewässerschutzrechtliche Bewilligung) AWEL (Fachstelle) 5.3<sup>33</sup> Abfallanlagen 5.3.1 Kompostieranlagen mit einer Behandlungs- AWEL kapazität von mehr als 100 t pro Jahr 5.3.2 andere Abfallanlagen mit einer Behandlungs- AWEL kapazität von mehr als 1000 t pro Jahr 5.4 Entgegennahme von Sonderabfällen (Fachstelle) 5.5<sup>37</sup> Erdwärmenutzung 5.5.1 Erdsonden (Fachstelle) Baudirektion 5.5.2 Wärmekörbe, Erdregister, Energiepfähle AWEL (Fachstelle) Baudirektion 5.6<sup>33</sup> Sondierbohrungen und Pumpversuche (Fachstelle)
 
@@ -966,7 +966,7 @@ Bedeutung 5.9.2 Reservoire (Fachstelle) 5.9.3 Anlagen, die nicht dem Generellen 
 
 **AFM**
 
-- 1\. 1. 23 - 119 Besonderheiten des Vorhabens (der zu erstellenden Beantragende Zum Entscheid § § oder von der Änderung betroffenen Baute oder Anlage) Stelle
+- 1\. 1. 24 - 123 Besonderheiten des Vorhabens (der zu erstellenden Beantragende Zum Entscheid § § oder von der Änderung betroffenen Baute oder Anlage) Stelle
 
 **zuständige Stelle 8 19**
 
