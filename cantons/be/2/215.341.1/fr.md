@@ -4,13 +4,13 @@ number: "215.341.1"
 title: Ordonnance cantonale sur la mensuration officielle
 short: OCMO
 language: fr
-version: 2020-11-01
-valid_until: 2023-12-31
-version_adopted: 2020-09-02
+version: 2024-01-01
+valid_until: 2025-01-31
+version_adopted: 2023-11-22
 adopted: 1997-03-05
 in_force: 1998-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/215.341.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1971/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3031/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1971/pdf_file"
 
 (OCMO)
 
-du 05.03.1997 (état au 01.11.2020)
+du 05.03.1997 (état au 01.01.2024)
 
 Le Conseil-exécutif du canton de Berne,
 

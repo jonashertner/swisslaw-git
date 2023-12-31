@@ -4,13 +4,13 @@ number: "215.341.1"
 title: Kantonale Verordnung über die amtliche Vermessung
 short: KVAV
 language: de
-version: 2020-11-01
-valid_until: 2023-12-31
-version_adopted: 2020-09-02
+version: 2024-01-01
+valid_until: 2025-01-31
+version_adopted: 2023-11-22
 adopted: 1997-03-05
 in_force: 1998-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/215.341.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1971/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3031/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1971/pdf_file"
 
 (KVAV)
 
-vom 05.03.1997 (Stand 01.11.2020)
+vom 05.03.1997 (Stand 01.01.2024)
 
 Der Regierungsrat des Kantons Bern,
 
