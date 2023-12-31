@@ -4,13 +4,13 @@ number: "860.22"
 title: "Ordonnance sur les programmes de soutien à l’enfance, à la jeunesse et à la famille"
 short: OEJF
 language: fr
-version: 2023-01-01
-valid_until: 2023-12-31
-version_adopted: 2023-01-31
+version: 2024-01-01
+valid_until: 2024-12-31
+version_adopted: 2024-01-16
 adopted: 2021-11-24
 in_force: 2022-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/860.22"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2803/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2991/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,11 +19,11 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2803/pdf_file"
 
 (OEJF)
 
-du 24.11.2021 (état au 01.01.2023)
+du 24.11.2021 (état au 01.01.2024)
 
 Le Conseil-exécutif du canton de Berne,
 
-vu l’article 316 du Code civil suisse du 10 décembre 1907 (CC)[^ingress-1], l’article 3 de l’ordonnance fédérale du 19 octobre 1977 sur le placement d’enfants (OPE)[^ingress-2], l’article 46, alinéa 2, l’article 47, alinéa 2, l’article 49, alinéa 3, l’article 58, alinéa 2, l’article 107, alinéa 3, l’article 116, l’article 119, alinéa 2, l’article 120, alinéa 2, l’article 131 et l’article 138, alinéa 4 de la loi du 9 mars 2021 sur les programmes d’action sociale (LPASoc)[^ingress-3],
+vu l’article 316 du Code civil suisse du 10 décembre 1907 (CC)[^ingress-1], l’article 2, alinéa 2 et l’article 3 de l’ordonnance fédérale du 19 octobre 1977 sur le placement d’enfants (OPE)[^ingress-2], l’article 8, alinéa 4 de la loi du 7 mars 2022 sur l’administration numérique (LAN)[^ingress-3], l’article 46, alinéa 2, l’article 47, alinéa 2, l’article 49, alinéa 3, l’article 58, alinéa 2, l’article 107, alinéa 3, l’article 116, l’article 119, alinéa 2, l’article 120, alinéa 2, l’article 131 et l’article 138, alinéa 4 de la loi du 9 mars 2021 sur les programmes d’action sociale (LPASoc)[^ingress-4],
 
 sur proposition de la Direction de la santé, des affaires sociales et de l’intégration,
 
@@ -31,7 +31,8 @@ arrête:
 
 [^ingress-1]: RS [210](https://db.clex.ch/link/Bund/210/fr)
 [^ingress-2]: RS [211.222.338](https://db.clex.ch/link/Bund/211.222.338/fr)
-[^ingress-3]: RSB [860.2](https://www.belex.sites.be.ch/data/860.2/fr)
+[^ingress-3]: RSB [109.1](https://www.belex.sites.be.ch/data/109.1/fr)
+[^ingress-4]: RSB [860.2](https://www.belex.sites.be.ch/data/860.2/fr)
 
 ## 1 Dispositions générales
 
@@ -39,10 +40,11 @@ arrête:
 
 **Champ d’application**
 
-<sup>1</sup> La présente ordonnance règle les modalités d’autorisation et de surveillance des crèches visées à l’article 107 LPASoc ainsi que les programmes de soutien à l’enfance, à la jeunesse et à la famille visés aux articles 37 ss LPASoc, notamment
+<sup>1</sup> La présente ordonnance règle les modalités d’autorisation et de surveillance applicables à l’accueil extrafamilial au sens des articles 107 et suivants LPASoc ainsi que les programmes de soutien à l’enfance, à la jeunesse et à la famille visés aux articles 37 et suivants LPASoc, notamment
 
 - a l’accueil extrafamilial,
 - b l’animation de jeunesse,
+- c le développement de la petite enfance,
 - d le conseil et l’information aux enfants et aux adolescents en situation de handicap et à leurs familles,
 - e les mesures pédago-thérapeutiques.
 
@@ -88,7 +90,7 @@ arrête:
 
 **Régime de l’autorisation**
 
-<sup>1</sup> Doit requérir une autorisation pour crèche toute personne
+<sup>1</sup> Doit requérir une autorisation d’exploiter une crèche toute personne
 
 - a qui prend régulièrement en charge pour la journée plus d’un enfant âgé de moins de douze ans hors d’un ménage privé ou
 - b qui propose plus de cinq places d’accueil dans le cadre d’un ménage privé.
@@ -96,7 +98,7 @@ arrête:
 <sup>2</sup> Est considérée comme régulière au sens de l’alinéa 1 toute offre de prise en charge
 
 - a proposée pendant au minimum deux mois d’affilée par année ou au total 39 semaines par année et
-- b d’une durée de plus de trois heures par jour ou de plus de six heures par semaine.
+- b d’une durée de plus de trois heures par jour ou de plus de six heures par semaine, par enfant.
 
 <sup>3</sup> Les offres de prise en charge relevant de la LEO ne sont pas soumises au régime de l’autorisation.
 
@@ -205,16 +207,27 @@ arrête:
 
 **Personnel**
 
-<sup>1</sup> La prise en charge est assumée par du personnel qualifié, notamment par
+<sup>1</sup> Font partie du personnel spécialisé en matière d’accueil extrafamilial (personnel spécialisé) les personnes disposant d’une formation en éducation de l’enfance ES, d’une formation d’assistant socio-éducatif ou d’assistante socio-éducative conclue par un certificat fédéral de capacité (CFC) ou d’une formation au moins équivalente.
 
-- a des assistants socio-éducatifs ou assistantes socio-éducatives avec certificat fédéral de capacité (CFC) ou des personnes au bénéfice d’une formation équivalente,
-- b des apprentis ou apprenties et des étudiants ou étudiantes de moins de 25 ans suivant une formation spécialisée supérieure équivalente à partir de la deuxième année d’apprentissage ou d’études et disposant d’un niveau de connaissances et d’expérience suffisant, ou des apprentis ou apprenties et des étudiants ou étudiantes d’au moins 25 ans et suivant une formation spécialisée supérieure équivalente,
-- c des personnes ayant conclu une convention de formation avec pour objectif l’obtention d’un CFC au sens de la lettre a dans le cadre d’une procédure d’équivalence, au plus tôt à partir du début de la formation pour autant qu'elles disposent d’un niveau de connaissances et d’expérience suffisant ou au plus tôt à partir d’une année d’expérience professionnelle dans la branche pour celles de moins de 25 ans,
-- d des personnes disposant au 1<sup>er</sup> janvier 2022 d’un contrat de travail conclu pour une durée indéterminée avec la crèche et qui assument dans ce cadre des tâches de prise en charge, pour autant qu’elles possèdent un niveau de connaissances et d’expérience suffisant dans cette même structure.
+<sup>2</sup> Font partie du personnel auxiliaire en matière d’accueil extrafamilial (personnel auxiliaire)
 
-<sup>2</sup> Sont réputés équivalents au sens de l’alinéa 1, lettre a les diplômes reconnus habilitant leurs titulaires à former des personnes suivant la filière d’assistant socio-éducatif ou d’assistante socio-éducative.
+- a les personnes majeures ayant acquis des connaissances suffisantes dans les domaines de la pédagogie, de la psychologie, de la prise en charge ou des soins dans le cadre d’une formation ou d’une formation continue;
+- b les personnes en deuxième ou en troisième année d’une formation ou d’un apprentissage conduisant à la qualification de personnel spécialisé au sens de l’alinéa 1, si elles disposent d'un niveau de connaissances et d’expérience suffisant;
+- c les personnes majeures sans formation ni formation continue au sens de la lettre a, mais qui bénéficient d’au moins trois ans d’expérience dans une crèche ou dans un établissement socio-éducatif soumis à autorisation ainsi que d’un niveau de connaissances et d’expérience suffisant.
 
-<sup>3</sup> La DSSI peut édicter, par voie d’ordonnance de Direction, des prescriptions supplémentaires relatives aux formations requises.
+<sup>3</sup> Les personnes ne possédant pas les qualifications visées aux alinéas 1 et 2 font partie des autres membres du personnel.
+
+#### Art. 13a
+
+**Responsabilités dans la prise en charge**
+
+<sup>1</sup> Seul le personnel spécialisé est qualifié pour prendre en charge les enfants.
+
+<sup>2</sup> Le personnel auxiliaire et les personnes en première année d’une formation ou d’un apprentissage conduisant à la qualification de personnel spécialisé au sens de l’article 13, alinéa 1 prennent en charge des enfants, selon les instructions de la direction et sous la surveillance du personnel spécialisé présent.
+
+<sup>3</sup> Les personnes visées à l’alinéa 2 peuvent, selon les instructions de la direction, prendre en charge seules des enfants pour une durée limitée et appropriée à condition que du personnel spécialisé se trouve à portée de voix et qu’elles disposent d’un niveau de connaissances et d’expérience suffisant.
+
+<sup>4</sup> Les autres membres du personnel, hormis les personnes en première année d’une formation ou d’un apprentissage conduisant à la qualification de personnel spécialisé au sens de l’article 13, alinéa 1, peuvent, selon les instructions de la direction et sous la surveillance du personnel spécialisé, prendre en charge des enfants, pour autant que des membres du personnel spécialisé ou auxiliaire soient présents en permanence.
 
 #### Art. 14
 
@@ -230,17 +243,23 @@ arrête:
 
 **Taux d’encadrement**
 
-<sup>1</sup> La prise en charge de groupes d’enfants exige la présence de suffisamment de personnel qualifié par groupe:
+<sup>1</sup> …
 
-- a une personne pour une à cinq places,
-- b deux personnes pour six à 14 places,
-- c une personne pour une à sept places supplémentaires.
+<sup>1a</sup> La prise en charge directe des enfants par la crèche requiert au moins la présence du personnel spécialisé et auxiliaire suivant (taux d’encadrement):
 
-<sup>2</sup> La prise en charge d’enfants au sein de la crèche dans son ensemble exige la présence de suffisamment de personnel qualifié:
+<table>
+<tr><th>Total</th><th>dont membres du personnel spécialisé</th><th>Places occupées</th></tr>
+<tr><td>1</td><td>1</td><td>1 à 5</td></tr>
+<tr><td>2</td><td>1</td><td>6 à 12</td></tr>
+<tr><td>3</td><td>2</td><td>13 à 18</td></tr>
+<tr><td>4</td><td>2</td><td>19 à 24</td></tr>
+<tr><td>5</td><td>3</td><td>25 à 30</td></tr>
+<tr><td>6</td><td>3</td><td>31 à 36</td></tr>
+</table>
 
-- a une personne pour une à cinq places,
-- b deux personnes pour six à douze places,
-- c une personne pour une à six places supplémentaires.
+<sup>2</sup> Dans les crèches comptant plus de 36 places, la présence de personnel spécialisé et auxiliaire supplémentaire est requise, conformément au taux d’encadrement visé à l’alinéa 1a.
+
+<sup>2a</sup> Les autres membres du personnel ne sont pas comptés dans le taux d’encadrement visé à l’alinéa 1a.
 
 <sup>3</sup> Le taux d’encadrement se calcule comme suit:
 
@@ -252,11 +271,7 @@ arrête:
 
 #### Art. 16
 
-**Prise en charge par des personnes en apprentissage**
-
-<sup>1</sup> Le groupe peut être pris en charge par des apprentis ou apprenties de première ou de deuxième année ou par des étudiants ou étudiantes de première ou de deuxième année d’une formation spécialisée supérieure équivalente à condition qu’au moins une personne qualifiée au sens de l’article 13, alinéa 1, lettre a soit présente.
-
-<sup>2</sup> Les personnes en troisième année d’apprentissage et celles sans formation spécifique peuvent assumer seules la prise en charge d’un groupe selon l’appréciation de la direction à condition qu’une personne qualifiée au sens de l’article 13, alinéa 1, lettre a se tienne toujours à proximité immédiate.
+**…**
 
 #### Art. 17
 
@@ -284,7 +299,7 @@ arrête:
 
 <sup>2</sup> Le personnel connaît le plan d’urgence et est en mesure de l’appliquer.
 
-<sup>3</sup> Tous les collaborateurs et toutes les collaboratrices assumant des tâches de prise en charge doivent posséder les connaissances requises en matière de soins d’urgence aux enfants et sont tenus de les mettre à jour au moins tous les deux ans.
+<sup>3</sup> Le personnel spécialisé, le personnel auxiliaire et les personnes en première année d’une formation ou d’un apprentissage conduisant à la qualification de personnel spécialisé selon l’article 13, alinéa 1 doivent avoir les connaissances requises en soins d’urgence aux enfants et les mettre à jour au moins tous les deux ans.
 
 #### Art. 19
 
@@ -293,7 +308,9 @@ arrête:
 <sup>1</sup> Les crèches
 
 - a ne sont pas autorisées à engager quiconque ayant commis une infraction qui permet de conclure à une menace pour le bien de l’enfant;
-- b exigent de l’ensemble des membres de leur personnel la remise d’un extrait du casier judiciaire destinés à des particuliers et d’un extrait spécial du casier judiciaire destinés à des particuliers avant tout engagement, puis tous les cinq ans au moins.
+- b annoncent à l’OIAS les données d’identité de tous les collaborateurs et de toutes les collaboratrices suffisamment à l’avance, au plus tard à la signature du contrat puis chaque année, en vue du contrôle de réputation par la consultation de l’extrait 2 du casier judiciaire destiné aux autorités;
+- c établissent les contrats de travail signés avant la fin du contrôle de réputation sous réserve que l’extrait 2 du casier judiciaire destiné aux autorités ne comporte aucune inscription relative à des infractions visées à la lettre a au moment du premier contrôle en lien avec la procédure d’engagement;
+- d s’assurent, tant que le contrôle de réputation n’est pas terminé, que les nouveaux collaborateurs ou les nouvelles collaboratrices ne prennent en charge des enfants qu’avec des membres du personnel spécialisé ou auxiliaire.
 
 <sup>2</sup> Chaque crèche doit disposer d’une déclaration d’engagement datée et signée par l’ensemble du personnel et qui consigne
 
@@ -316,15 +333,15 @@ arrête:
 
 **Demande**
 
-<sup>1</sup> La demande d’octroi d’une autorisation d’exploiter doit être remise par voie électronique au moyen du formulaire officiel mis à disposition par l’OIAS.
+<sup>1</sup> La demande d’octroi d’une autorisation d’exploiter doit être déposée au moyen de l’application mise en ligne par l’OIAS.
 
-<sup>2</sup> Doivent également être remises par voie électronique toutes les pièces utiles à l’examen de la requête, notamment
+<sup>2</sup> Sont à joindre à la demande, au moyen de l’application en ligne visée à l’alinéa 1, tous les documents nécessaires à son examen, en particulier
 
 - a les informations sur le but et la forme juridique de la crèche,
 - b la documentation relative à l’organisation de l’exploitation,
 - c la documentation relative au site, assortie du contrat de bail et du procès-verbal des mesures de sécurité prises,
 - d le concept pédagogique,
-- e les contrats de travail et les pièces attestant des qualifications des membres de la direction et du personnel, y compris l’attestation de fréquentation du cours de soins d’urgence aux enfants, les extraits du casier judiciaire destinés à des particuliers et les extraits spéciaux du casier judiciaire destinés à des particuliers ainsi que les déclarations d’engagement,
+- e les données d’identité, les contrats de travail et les pièces attestant des qualifications des membres de la direction et du personnel, y compris l’attestation de fréquentation du cours de soins d’urgence aux enfants ainsi que les déclarations d’engagement,
 - f le plan d’urgence.
 
 #### Art. 22
@@ -362,7 +379,7 @@ arrête:
 
 **Obligation d’annoncer**
 
-<sup>1</sup> Il convient, outre l’exécution des obligations visées à l’article 18 OPE, de communiquer immédiatement à l’OIAS
+<sup>1</sup> Il convient, outre l’exécution des obligations visées aux articles 17, alinéa 3 et 18 OPE, de communiquer immédiatement à l’OIAS
 
 - a toute modification du concept pédagogique,
 - b tout événement extraordinaire susceptible d’influencer considérablement l’exploitation de la crèche ou de porter sensiblement atteinte au bien d’un ou de plusieurs enfants pris en charge ainsi que les mesures prises en conséquence,
@@ -374,11 +391,11 @@ arrête:
 
 **Inspections**
 
-<sup>1</sup> L’OIAS mène régulièrement des inspections généralement inopinées dans les crèches.
+<sup>1</sup> Les crèches font l’objet d’inspections régulières, généralement inopinées.
 
-<sup>2</sup> Il a en tout temps le droit d’exiger un extrait récent du registre des poursuites, de consulter la comptabilité et de demander des comptes intermédiaires.
+<sup>2</sup> L’OIAS ou le service chargé de l’inspection a en tout temps le droit d’exiger la remise d’un extrait récent du registre des poursuites, de consulter la comptabilité et de se faire remettre des comptes intermédiaires.
 
-<sup>3</sup> L’OIAS doit
+<sup>3</sup> L’OIAS ou le service chargé de l’inspection doit
 
 - a avoir accès à tous les locaux et pouvoir s’entretenir avec l’ensemble des enfants présents, des personnes détenant l’autorité parentale et des membres du personnel;
 - b se faire remettre pour consultation tous les documents nécessaires à l’exécution des tâches de surveillance qui lui incombent s’il en fait la demande et sous la forme qu’il détermine.
@@ -395,6 +412,256 @@ arrête:
 <sup>2</sup> Le délai visé à l’alinéa 1, lettre a est fonction de la gravité des irrégularités.
 
 <sup>3</sup> L’OIAS retire l’autorisation s’il n’est pas remédié aux irrégularités dans le délai imparti.
+
+### 2.1a Accueil familial de jour
+
+### 2.1a.1 Généralités
+
+#### Art. 27a
+
+**Notions**
+
+<sup>1</sup> Les personnes qui prennent régulièrement en charge dans leur ménage, à la journée et contre rémunération, des enfants de moins de douze ans selon l’article 12 OPE sont des accueillantes et accueillants en milieu familial.
+
+<sup>2</sup> Ne relèvent pas de l’accueil familial de jour au sens de l’alinéa 1
+
+- a la prise en charge d’enfants vivant dans le même ménage que la personne qui en assure la garde;
+- b la prise en charge d’enfants par des personnes ayant avec ceux-ci des liens de parenté en ligne directe au premier ou au deuxième degré, ou en ligne collatérale au deuxième ou au troisième degré;
+- c l’hébergement chez des parents nourriciers au sens de l’article 8 LPEP.
+
+<sup>3</sup> L’accueil d’un enfant est considéré comme régulier au sens de l’alinéa 1 s’il
+
+- a a lieu pendant au minimum deux mois d’affilée par année ou au total 39 semaines par année et
+- b dure plus de trois heures par jour ou plus de six heures par semaine.
+
+#### Art. 27b
+
+**Nuitées en milieu familial de jour**
+
+<sup>1</sup> L’accueil régulier d’enfants de moins de douze ans par des personnes dans leur propre ménage contre rémunération pour la nuit également peut relever de l’accueil familial de jour en dérogation à l’article 27a, alinéa 1, dans la mesure où cette prestation n’est pas sujette à autorisation en application de l’article 8 LPEP.
+
+#### Art. 27c
+
+**Compétences**
+
+<sup>1</sup> L’OIAS est l’autorité compétente au sens de l’article 12 OPE.
+
+<sup>2</sup> Lorsque des accueillantes et accueillants en milieu familial travaillent pour une organisation d’accueil familial de jour, il incombe à celle-ci d’exercer la surveillance opérationnelle conformément aux prescriptions de l’OIAS.
+
+#### Art. 27d
+
+**Obligation d’annoncer**
+
+<sup>1</sup> La prise en charge d’enfants par des accueillantes et accueillants en milieu familial est soumise à l’obligation d’annoncer selon l’article 12 OPE.
+
+<sup>2</sup> Les accueillantes et accueillants en milieu familial qui ne travaillent pas pour une organisation d’accueil familial de jour annoncent leur offre d’accueil à l’OIAS, en exécution de l’obligation visée à l’alinéa 1, au moins un mois à l’avance et lui
+
+- a remettent une copie de leur carte d’identité ou passeport valide ou, pour les personnes de nationalité étrangère, une copie de leur autorisation de séjour ou d’établissement;
+- b indiquent la date à laquelle l’accueil commence;
+- c communiquent le nombre et l’âge des enfants accueillis, ainsi que le taux de prise en charge respectif;
+- d annoncent le nombre et l’âge de toutes les personnes régulièrement présentes dans leur ménage (y compris les membres de la famille);
+- e précisent le nom et la date de naissance de toutes les personnes majeures faisant partie de leur ménage;
+- f indiquent leur numéro AVS et celui de toutes les personnes majeures faisant partie de leur ménage et participant à la prise en charge d’enfants;
+- g fournissent une déclaration d’engagement au sens de l’article 19, alinéa 2, munie de leur signature et de celle des personnes majeures faisant partie de leur ménage;
+- h font connaître leurs conditions de logement (adresse, surface habitable et nombre de pièces).
+
+<sup>3</sup> Lorsque des accueillantes ou accueillants en milieu familial travaillent pour une organisation d’accueil familial de jour, il incombe à celle-ci de les annoncer à l’OIAS, par la remise de leurs données d’identité.
+
+### 2.1a.2 Conditions
+
+#### Art. 27e
+
+**Exigences**
+
+<sup>1</sup> Les accueillantes et accueillants en milieu familial et les personnes faisant partie de leur ménage garantissent, compte tenu de leurs qualités personnelles, de leur état de santé, de leurs aptitudes éducatives et de leurs conditions de logement, une prise en charge adéquate de tous les enfants présents.
+
+<sup>2</sup> Les accueillantes et accueillants en milieu familial prennent les enfants en charge personnellement.
+
+<sup>3</sup> Elles et ils suivent une formation de base et un cours de soins d’urgence aux enfants avant le début de leur activité ou durant la première année de celle-ci.
+
+<sup>4</sup> Les accueillantes et accueillants en milieu familial et les personnes faisant partie de leur ménage ne doivent pas avoir commis d’infraction laissant conclure à une menace pour le bien de l’enfant, ce dont l’OIAS s’assure avant le début de leur activité, puis chaque année,
+
+- a en consultant l’extrait 2 du casier judiciaire destiné aux autorités, dans la mesure où le droit fédéral l’autorise ou, à défaut,
+- b en exigeant la remise d’un extrait du casier judiciaire destiné à des particuliers.
+
+#### Art. 27f
+
+**Places d’accueil en milieu familial de jour**
+
+<sup>1</sup> Le nombre maximal admissible de places d’accueil que des accueillantes et accueillants en milieu familial peuvent proposer simultanément découle de l’article 4, alinéa 1, lettre b.
+
+<sup>2</sup> Le nombre maximal de places d’accueil au sens de l’alinéa 1 est calculé en tenant compte de tous les enfants présents, notamment de ceux qui vivent dans le ménage considéré, des enfants de moins de douze ans gardés à titre gratuit et des enfants en placement familial.
+
+<sup>3</sup> L’occupation des places d’accueil familial de jour se calcule comme suit en fonction des besoins de prise en charge des enfants:
+
+- a les enfants de moins de douze mois requièrent 1,5 place;
+- b les enfants entre douze mois et douze ans requièrent 1 place;
+- c les enfants présentant des besoins particuliers, indépendamment de leur âge, requièrent 1,5 place;
+- d les enfants de moins de douze ans placés chez des parents nourriciers requièrent 1,5 place;
+- e les enfants de douze ans et plus suivant la scolarité obligatoire pris en charge contre rétribution requièrent 0,5 place, en présence d’enfants de moins de douze ans.
+
+<sup>4</sup> L’occupation des places d’accueil familial de jour dans le cadre du repas de midi se calcule comme suit, en dérogation à l’alinéa 1:
+
+- a sept places d’accueil ou
+- b dix places d’accueil, pour autant qu’une autre personne majeure faisant partie du ménage concerné soit présente.
+
+### 2.1a.3 Surveillance
+
+#### Art. 27g
+
+<sup>1</sup> Des inspections faisant l’objet d’un procès-verbal sont menées chez les accueillantes et accueillants en milieu familial aussi souvent que nécessaire, mais au moins une fois par an, dans le cadre de la surveillance opérationnelle.
+
+<sup>2</sup> Si la situation l’exige, l’OIAS rend une décision en application de l’article 12, alinéa 3 OPE.
+
+<sup>3</sup> Au surplus, les articles 26 et 27 sont applicables par analogie.
+
+### 2.1b Autorisation et surveillance des organisations d’accueil familial de jour
+
+### 2.1b.1 Généralités
+
+#### Art. 27h
+
+**Autorisation obligatoire**
+
+<sup>1</sup> Toute personne coordonnant la prise en charge régulière d’enfants par des accueillantes et accueillants en milieu familial qu’elle engage à cet effet doit obtenir une autorisation d’exploiter une organisation d’accueil familial de jour.
+
+#### Art. 27i
+
+**Autorité compétente**
+
+<sup>1</sup> L’OIAS est l’autorité compétente en matière d’autorisation et de surveillance de l’ensemble des organisations d’accueil familial de jour selon l’article 27h.
+
+<sup>2</sup> Il a compétence pour
+
+- a octroyer et retirer les autorisations aux organisations d’accueil familial de jour,
+- b ordonner des mesures à l’encontre des titulaires d’une autorisation.
+
+### 2.1b.2 Conditions d’octroi de l’autorisation
+
+#### Art. 27k
+
+**Principes**
+
+<sup>1</sup> L’autorisation d’exploiter une organisation d’accueil familial de jour implique
+
+- a que les principes de fonctionnement et les processus d’exploitation soient décrits de sorte que l’organisation puisse accomplir toutes ses tâches avec la qualité nécessaire;
+- b que l’organisation dispose d’un concept pédagogique qui assure le bien de l’enfant et fixe les principes pédagogiques reconnus régissant la prise en charge;
+- c qu’elle dispose du personnel suffisant pour exécuter ses tâches avec les compétences et qualifications professionnelles requises;
+- d qu’elle bénéficie d’une base économique solide garantissant son activité sur le long terme.
+
+<sup>2</sup> Les aspects suivants liés à l’organisation de l’exploitation sont réglementés et font l'objet d'une documentation qui peut être consultée par les personnes détenant l'autorité parentale:
+
+- a l'organisation sur le plan juridique,
+- b les compétences et responsabilités,
+- c la garantie de la qualité dans tous les domaines déterminants,
+- d la collaboration avec les personnes détenant l'autorité parentale,
+- e l'ensemble des coûts de prise en charge imputables aux personnes détenant l'autorité parentale.
+
+<sup>3</sup> Les exigences minimales concernant les compétences professionnelles et les qualifications du personnel au sein d’une organisation d’accueil familial de jour sont les suivantes:
+
+- a la direction dispose des compétences requises en conduite du personnel et en gestion d’exploitation;
+- b les personnes chargées de la coordination disposent d’une formation de base avec certificat fédéral de capacité (CFC) et ont suivi une formation en coordination de l’accueil familial de jour;
+- c les accueillantes et accueillants en milieu familial ont suivi une formation de base et un cours de soins d’urgence aux enfants;
+- d les collaboratrices et collaborateurs de l’organisation d'accueil familial de jour disposent d’un diplôme en éducation de l’enfance ES, d’assistante socio-éducative ou d’assistant socio-éducatif conclue par un CFC ou d’une formation au moins équivalente pour
+  - 1 exercer des tâches de surveillance,
+  - 2 pourvoir au conseil et à l’accompagnement spécialisés destinés aux accueillantes et accueillants en milieu familial.
+
+#### Art. 27l
+
+**Prévention des abus**
+
+<sup>1</sup> Les organisations d’accueil familial de jour ne sont pas autorisées à engager des personnes ayant commis une infraction laissant conclure à une menace pour le bien de l’enfant.
+
+<sup>2</sup> Par conséquent, elles
+
+- a annoncent à l’OIAS les données d’identité de toutes les personnes impliquées dans la prise en charge d’enfants en milieu familial de jour avant le début de leur activité, puis annuellement, aux fins d’un contrôle de réputation par consultation de l’extrait 2 du casier judiciaire destiné aux autorités;
+- b annoncent à l’OIAS les données d’identité des personnes exerçant la direction et de celles s'occupant de la coordination, de la surveillance, du conseil et de l’accompagnement des accueillantes ou accueillants en milieu familial, avant leur engagement, puis tous les cinq ans, aux fins d’un contrôle de réputation par consultation de l’extrait 2 du casier judiciaire destiné aux autorités;
+- c se procurent un extrait du casier judiciaire destiné à des particuliers d’éventuelles autres personnes majeures faisant partie du ménage des accueillantes ou accueillants en milieu familial avant que l'accueil débute, puis annuellement.
+
+<sup>3</sup> Chaque organisation d’accueil familial de jour est en possession d’une déclaration d’engagement au sens de l’article 19, alinéa 2, datée et signée par l’ensemble des accueillantes et accueillants en milieu familial, par d’éventuelles autres personnes majeures qui font partie de leur ménage et par les personnes exerçant la direction et celles s'occupant de la coordination, de la surveillance, du conseil et de l’accompagnement des accueillantes et accueillants en milieu familial.
+
+### 2.1b.3 Procédure d’autorisation
+
+#### Art. 27m
+
+**Demande**
+
+<sup>1</sup> La demande d’octroi d’une autorisation d’exploiter une organisation d’accueil familial de jour doit être déposée à l'OIAS au moyen de l’application mise en ligne par celui-ci.
+
+<sup>2</sup> Sont à joindre à la demande, au moyen de l’application en ligne visée à l’alinéa 1, tous les documents nécessaires à son examen, en particulier
+
+- a les indications et documents concernant la personne requérante,
+  - 1 personnes morales: forme juridique, statuts, extraits récents du registre du commerce et du registre des poursuites, organes,
+  - 2 personnes physiques: extrait récent du registre des poursuites et copie de la carte d’identité ou du passeport valables ou, pour les personnes de nationalité étrangère, copie de l’autorisation de séjour ou d’établissement,
+- b la documentation relative à l’organisation de l’exploitation,
+- c le concept pédagogique,
+- d le concept garantissant la qualité de la prise en charge,
+- e le bilan d’ouverture, le budget pour la première année d’exploitation et le plan financier des trois premiers exercices,
+- f les données d’identité, les contrats de travail et les pièces attestant des qualifications des personnes dirigeant l’organisation et de celles s'occupant de la coordination, de la surveillance, du conseil et de l’accompagnement des accueillantes et accueillants en milieu familial,
+- g les déclarations d’engagement au sens de l’article 19, alinéa 2, signées par les personnes dirigeant l’organisation et par celles s'occupant de la coordination, de la surveillance, du conseil et de l’accompagnement des accueillantes et accueillants en milieu familial.
+
+#### Art. 27n
+
+**Octroi de l’autorisation**
+
+<sup>1</sup> L’OIAS vérifie si les conditions d’octroi d’une autorisation d’exploiter une organisation d’accueil familial de jour sont remplies.
+
+<sup>2</sup> L’autorisation est accordée si les conditions d'octroi sont remplies.
+
+### 2.1b.4 Exploitation
+
+#### Art. 27o
+
+**Tâches de l’organisation d’accueil familial de jour**
+
+<sup>1</sup> L'exploitation d'une organisation d’accueil familial de jour comporte notamment les tâches suivantes:
+
+- a conclure des contrats de travail avec les accueillantes et accueillants en milieu familial qui remplissent les exigences fixées à l’article 27e;
+- b coordonner l’accueil régulier d’enfants par les accueillantes et accueillants en milieu familial engagés à cet effet;
+- c conclure les contrats de prise en charge avec les personnes détenant l'autorité parentale;
+- d facturer la prise en charge aux personnes détenant l'autorité parentale;
+- e fournir un accompagnement spécialisé aux accueillantes et accueillants en milieu familial;
+- f assurer la qualité de la prise en charge;
+- g proposer des formations continues aux personnes assurant la coordination, aux accueillantes et accueillants en milieu familial et aux collaboratrices et collaborateurs assumant la surveillance et le conseil, en s’assurant que ces formations soient régulièrement suivies;
+- h veiller à ce qu’aucun bon de garde ne soit accepté en échange d’une prise en charge au sens de l’article 27a, alinéa 2 par des accueillantes et accueillants en milieu familial employés par l'organisation d'accueil familial de jour;
+- i exécuter et documenter les tâches de surveillance opérationnelle au sens de l’article 27c, alinéa 2.
+
+#### Art. 27p
+
+**Obligations d’annonce**
+
+<sup>1</sup> Les organisations d’accueil familial de jour exécutent l’obligation d’annoncer visée à l’article 12, alinéa 1 OPE en transmettant sans délai à l’OIAS, après conclusion du contrat de travail, les données d’identité et l’adresse de domicile de l’accueillante et de l’accueillant en milieu familial.
+
+<sup>2</sup> Elles sont tenues envers l’OIAS
+
+- a de remettre chaque année une liste des données d’identité de toutes les personnes impliquées dans la prise en charge d’enfants dans leur accueil en milieu familial de jour;
+- b d’annoncer les manquements ou les difficultés qu’elles ont constatés dans l’accueil familial de jour et auxquels il leur est impossible de remédier par des instructions dans le cadre des rapports contractuels;
+- c d’annoncer la résiliation de l'engagement d'une accueillante ou d'un accueillant en milieu familial en raison de manquements ou de difficultés.
+
+<sup>3</sup> Toute modification essentielle affectant les conditions d’octroi de l’autorisation doit être communiquée suffisamment à l’avance à l’OIAS.
+
+#### Art. 27q
+
+**Indemnisation**
+
+<sup>1</sup> Les organisations d’accueil familial de jour sont indemnisées, pour les tâches de surveillance opérationnelle visée à l’article 27c, alinéa 2, au moyen d’un montant forfaitaire annuel de 200 francs par accueillante ou accueillant en milieu familial.
+
+<sup>2</sup> Si l’engagement d’une accueillante ou d’un accueillant en milieu familial, ou la résiliation de son contrat, intervient en cours d’année, l’indemnité n’est due que si la visite annuelle standardisée de surveillance a eu lieu durant l’exercice concerné et qu’elle a fait l’objet d’un procès-verbal.
+
+<sup>3</sup> La DSSI adapte chaque année les montants forfaitaires visés à l’alinéa 1 à la progression des traitements décidée pour le personnel cantonal.
+
+### 2.1b.5 Surveillance
+
+#### Art. 27r
+
+<sup>1</sup> L’OIAS
+
+- a contrôle régulièrement les documents déterminants pour l’autorisation délivrée à l’organisation d’accueil familial de jour, la documentation de la surveillance au sens de l’article 27c, alinéa 2 ainsi que les autres pièces qui auraient été exigées;
+- b se forge un avis d’une autre manière appropriée, si la situation le requiert, notamment par le biais d'inspections, d’entretiens et de questions sur l’activité de l’organisation d’accueil familial de jour.
+
+<sup>2</sup> Il peut également, dans le cadre de la surveillance de l’organisation d’accueil familial de jour, procéder à des inspections ponctuelles selon l’article 27g auprès des personnes engagées par celle-ci en qualité d’accueillantes et accueillants en milieu familial.
+
+<sup>3</sup> Au surplus, les articles 26 et 27 sont applicables par analogie.
 
 ### 2.2 Bons de garde
 
@@ -431,6 +698,8 @@ arrête:
 - a en principe aux enfants jusqu’à la fin de l’école enfantine,
 - b aux enfants d’âge scolaire ayant terminé l’école enfantine si la prise en charge est assurée par des parents de jour.
 
+<sup>1a</sup> Si des bons de garde sont émis en application de l’alinéa 1, lettre b, la prise en charge d’enfants de plus de douze ans tient lieu de prise en charge par des accueillantes ou accueillants en milieu familial, en dérogation à l’article 27a, alinéa 1; au surplus, les articles 27a et suivants sont applicables.
+
 <sup>2</sup> Les communes de domicile peuvent restreindre le groupe cible en limitant le nombre d’enfants d’âge scolaire.
 
 #### Art. 31
@@ -449,34 +718,9 @@ arrête:
 - a les parents nourriciers qui demandent des bons de garde pour assurer la prise en charge des enfants qui leur sont confiés;
 - b le ou la partenaire de la personne détenant l’autorité parentale dès lors que la demande de bons de garde a été déposée en commun conformément à l’article 61, alinéa 1.
 
-#### Art. 32
+#### Art. 32–33
 
-**Organisations d’accueil familial de jour**
-
-<sup>1</sup> Les organisations d’accueil familial de jour confient la prise en charge régulière d’enfants à des parents de jour qu’elles emploient et auxquels elles garantissent un accompagnement professionnel.
-
-<sup>2</sup> Elles concluent des contrats de prise en charge avec les personnes détenant l’autorité parentale et facturent à ces dernières les frais de prise en charge.
-
-<sup>3</sup> Ne constituent pas des prestations d’accueil par des parents de jour
-
-- a la prise en charge d’enfants vivant dans le même ménage que la personne qui en assure la garde;
-- b la prise en charge par des personnes ayant avec l’enfant des liens de parenté en ligne directe au premier ou au deuxième degré ou en ligne collatérale au deuxième ou au troisième degré;
-- c les placements de longue durée chez des parents nourriciers.
-
-#### Art. 33
-
-**Assurance de la qualité par les organisations d’accueil familial de jour**
-
-<sup>1</sup> Les organisations d’accueil familial de jour répondent de la qualité de la prise en charge par des parents de jour.
-
-<sup>2</sup> Elles veillent en particulier à ce que
-
-- a les principes organisationnels et pédagogiques ainsi que les tâches du service de coordination soient définis;
-- b les parents de jour disposent des aptitudes et de l’infrastructure requises en procédant à des contrôles réguliers;
-- c les personnes chargées de la coordination disposent d’une formation de base conforme aux exigences;
-- d les parents de jour observent l’obligation de s’annoncer prévue à l’article 12, alinéa 1 OPE;
-- e les parents de jour suivent un cours d’introduction;
-- f des cours de perfectionnement soient organisés et qu’ils soient suivis régulièrement par les personnes chargées de la coordination ainsi que par les parents de jour.
+**…**
 
 #### Art. 34
 
@@ -492,13 +736,15 @@ arrête:
 
 <sup>2</sup> Les organisations d’accueil familial de jour doivent avoir leur siège dans le canton de Berne et les crèches y avoir leur site.
 
-<sup>3</sup> Les organisations d’accueil familial de jour doivent remplir également les conditions visées à l’article 33.
+<sup>3</sup> …
 
 #### Art. 35
 
 **Procédure d’admission**
 
 <sup>1</sup> L’admission dans le système des bons de garde est accordée aux fournisseurs de prestations par l’OIAS sur demande et sur la base des justificatifs remis.
+
+<sup>1a</sup> La demande d’admission dans le système des bons de garde et les justificatifs sont à remettre au moyen de l’application mise en ligne par l’OIAS.
 
 <sup>2</sup> Les fournisseurs de prestations sont tenus d’annoncer immédiatement à l’OIAS tout changement notable influant les conditions d’admission.
 
@@ -717,7 +963,7 @@ arrête:
 <sup>3</sup> Le revenu des personnes requérantes comprend
 
 - a le salaire net,
-- b le revenu de remplacement imposable,
+- b le revenu de remplacement imposable; dans le cas des indépendantes et indépendants, celui-ci est imputé au bénéfice commercial de l’exercice considéré, dans la mesure où il concerne l’activité indépendante,
 - c les contributions d’entretien reçues pour autant qu’elles soient imposables conformément à la législation cantonale sur les impôts,
 - d les revenus bruts de la fortune mobilière et de la fortune immobilière,
 - e le bénéfice commercial imposable figurant dans la déclaration d’impôt (moyenne des trois dernières années),
@@ -816,6 +1062,8 @@ arrête:
 <sup>2</sup> Une requête peut être déposée par une seule personne sous réserve des dispositions de l’article 61, alinéa 2, lettre b en cas de garde exclusive ou alternée.
 
 <sup>3</sup> L’OIAS met à disposition une application en ligne facilitant le dépôt de la demande.
+
+<sup>4</sup> Les personnes détenant l’autorité parentale sont autorisées à déposer leur demande en format papier, auquel cas les communes sont tenues de saisir les données dans l’application en ligne visée à l’alinéa 3.
 
 #### Art. 61
 
@@ -1156,7 +1404,7 @@ arrête:
 
 <sup>1</sup> Les dépenses imputables maximales se composent
 
-- a d’un montant de base de 81,86 francs multiplié par le nombre d’enfants et d’adolescents jusqu’à l’âge de 20 ans appartenant au bassin de population considéré et
+- a d’un montant de base de 84,07 francs multiplié par le nombre d’enfants et d’adolescents jusqu’à l’âge de 20 ans appartenant au bassin de population considéré et
 - b d’un montant supplémentaire calculé en fonction de l’indice de charges sociales.
 
 <sup>2</sup> L’indice de charges sociales sert à répartir une somme composée de montants supplémentaires définie par la DSSI par voie d’ordonnance de Direction.
@@ -1623,6 +1871,44 @@ arrête:
 **Entrée en vigueur**
 
 <sup>1</sup> La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2022.
+
+## T1 Dispositions transitoires de la modification du 15.11.2023
+
+#### Art. T1-1
+
+**Organisations d’accueil familial de jour existantes**
+
+<sup>1</sup> Les organisations d’accueil familial de jour en mesure de démontrer qu’elles ont commencé leur activité avant le 1<sup>er</sup> janvier 2024 doivent
+
+- a disposer d’une autorisation au sens de l’article 108, alinéa 1 LPASoc d’ici le 31 décembre 2025 au plus tard;
+- b avoir déposé leur demande d'autorisation jusqu’au 30 juin 2025 au plus tard.
+
+<sup>2</sup> Les organisations d’accueil familial de jour sises dans la commune municipale de Moutier et en mesure de démontrer qu’elles ont commencé leur activité avant le 1<sup>er</sup> janvier 2024 n’ont pas besoin d’une autorisation au sens de l’article 108, alinéa 1 LPASoc et ne sont pas tenues d’en faire la demande.
+
+<sup>3</sup> Lorsqu’une demande d’autorisation relève du champ d’application de l’alinéa 1, les personnes requérantes doivent remettre, en dérogation à l’article 27m, alinéa 2,
+
+- a les derniers comptes annuels et le budget de l’exercice en cours, au lieu du bilan d'ouverture, du budget et du plan financier, et
+- b la liste actuelle des personnes engagées en qualité d’accueillantes et accueillants en milieu familial (noms et adresses) et les données d’identité de toutes les personnes impliquées dans la prise en charge des enfants dans leur ménage.
+
+<sup>4</sup> Si des irrégularités sont constatées durant la période transitoire visée à l’alinéa 1, lettre a avant l’octroi de l’autorisation ou au sens de l’alinéa 2, l’article 27 est applicable par analogie.
+
+#### Art. T1-2
+
+**Application en ligne pour la procédure d’octroi des autorisations aux organisations d’accueil familial de jour**
+
+<sup>1</sup> Si l’application en ligne visée à l’article 27m n’est pas encore disponible à l’entrée en vigueur de la présente modification, les demandes doivent être déposées selon les prescriptions de l’OIAS.
+
+#### Art. T1-3
+
+**Collaboratrices et collaborateurs en poste jusque-là**
+
+<sup>1</sup> Les collaboratrices et collaborateurs de l’organisation d’accueil familial de jour qui étaient engagés jusqu’au 31 décembre 2023 et y exerçaient des tâches de surveillance ou assuraient le conseil et l’accompagnement spécialisés d'accueillantes et d’accueillants en milieu familial sans avoir préalablement suivi une formation selon l’article 27k, alinéa 3, lettre d, peuvent continuer d’accomplir ces tâches au sein de la même organisation si elles et ils ont suivi la formation en coordination de l’accueil familial de jour ou l’auront achevée d’ici le 31 décembre 2025.
+
+#### Art. T1-4
+
+**Applicabilité de l’article 53, alinéa 3, lettre b**
+
+<sup>1</sup> La modification de l’article 53, alinéa 3, lettre b est applicable à compter du 1<sup>er</sup> août 2024.
 
 Berne, le 24 novembre 2021
 

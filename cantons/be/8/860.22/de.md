@@ -4,13 +4,13 @@ number: "860.22"
 title: "Verordnung über die Leistungsangebote der Familien-, Kinder- und Jugendförderung"
 short: FKJV
 language: de
-version: 2023-01-01
-valid_until: 2023-12-31
-version_adopted: 2023-01-31
+version: 2024-01-01
+valid_until: 2024-12-31
+version_adopted: 2024-01-16
 adopted: 2021-11-24
 in_force: 2022-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/860.22"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2803/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2991/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,19 +19,20 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2803/pdf_file"
 
 (FKJV)
 
-vom 24.11.2021 (Stand 01.01.2023)
+vom 24.11.2021 (Stand 01.01.2024)
 
 Der Regierungsrat des Kantons Bern,
 
-gestützt auf Artikel 316 des Schweizerischen Zivilgesetzbuches vom 10. Dezember 1907 (ZGB)[^ingress-1], Artikel 3 der Verordnung des Bundesrates vom 19. Oktober 1977 über die Aufnahme von Pflegekindern (Pflegekinderverordnung, PAVO)[^ingress-2] und Artikel 46 Absatz 2, Artikel 47 Absatz 2, Artikel 49 Absatz 3, Artikel 58 Absatz 2, Artikel 107 Absatz 3, Artikel 116, Artikel 119 Absatz 2, Artikel 120 Absatz 2, Artikel 131 und Artikel 138 Absatz 4 des Gesetzes vom 9. März 2021 über die sozialen Leistungsangebote (SLG)[^ingress-3],
+gestützt auf Artikel 316 des Schweizerischen Zivilgesetzbuches vom 10. Dezember 1907 (ZGB)[^ingress-1], Artikel 2 Absatz 2 und Artikel 3 der Verordnung des Bundesrates vom 19. Oktober 1977 über die Aufnahme von Pflegekindern (Pflegekinderverordnung, PAVO)[^ingress-2], Artikel 8 Absatz 4 des Gesetzes vom 7. März 2022 über die digitale Verwaltung (DVG)[^ingress-3] sowie Artikel 46 Absatz 2, Artikel 47 Absatz 2, Artikel 49 Absatz 3, Artikel 58 Absatz 2, Artikel 107 Absatz 3, Artikel 116, Artikel 119 Absatz 2, Artikel 120 Absatz 2, Artikel 131 und Artikel 138 Absatz 4 des Gesetzes vom 9. März 2021 über die sozialen Leistungsangebote (SLG)[^ingress-4],
 
-auf Antrag der Gesundheits-, Sozial- und Integrationsdirektion
+auf Antrag der Gesundheits-, Sozial- und Integrationsdirektion,
 
 beschliesst:
 
 [^ingress-1]: SR [210](https://db.clex.ch/link/Bund/210/de)
 [^ingress-2]: SR [211.222.338](https://db.clex.ch/link/Bund/211.222.338/de)
-[^ingress-3]: BSG [860.2](https://www.belex.sites.be.ch/data/860.2/de)
+[^ingress-3]: BSG [109.1](https://www.belex.sites.be.ch/data/109.1/de)
+[^ingress-4]: BSG [860.2](https://www.belex.sites.be.ch/data/860.2/de)
 
 ## 1 Allgemeine Bestimmungen
 
@@ -39,10 +40,11 @@ beschliesst:
 
 **Geltungsbereich**
 
-<sup>1</sup> Diese Verordnung regelt die Bewilligung und Aufsicht bei Kindertagesstätten nach Artikel 107 SLG sowie die Leistungsangebote der Familien-, Kinder- und Jugendförderung nach Artikel 37 ff. SLG, namentlich
+<sup>1</sup> Diese Verordnung regelt die Bewilligung und Aufsicht bei Tagesbetreuung nach Artikel 107 ff. SLG sowie die Leistungsangebote der Familien-, Kinder- und Jugendförderung nach Artikel 37 ff. SLG, namentlich
 
 - a die familienergänzende Kinderbetreuung,
 - b die offene Kinder- und Jugendarbeit,
+- c die frühe Förderung,
 - d die Beratungs- und Informationsangebote für Kinder und Jugendliche mit einer Behinderung sowie deren Familien,
 - e die pädagogisch-therapeutischen Massnahmen.
 
@@ -88,7 +90,7 @@ beschliesst:
 
 **Bewilligungspflicht**
 
-<sup>1</sup> Einer Bewilligung als Kindertagesstätte bedarf, wer
+<sup>1</sup> Einer Bewilligung für den Betrieb einer Kindertagesstätte bedarf, wer
 
 - a regelmässig tagsüber mehr als ein Kind unter zwölf Jahren ausserhalb eines privaten Haushalts betreut oder
 - b mehr als fünf Betreuungsplätze innerhalb eines privaten Haushalts anbietet.
@@ -96,7 +98,7 @@ beschliesst:
 <sup>2</sup> Als regelmässig im Sinne von Absatz 1 gilt ein Betreuungsangebot, das
 
 - a während mindestens zwei Monaten pro Jahr am Stück oder gesamthaft 39 Wochen pro Jahr angeboten wird sowie
-- b einen Umfang von mehr als drei Stunden pro Tag oder mehr als sechs Stunden pro Woche hat.
+- b einen Umfang pro Kind von mehr als drei Stunden pro Tag oder mehr als sechs Stunden pro Woche hat.
 
 <sup>3</sup> Von der Bewilligungspflicht ausgenommen sind vom Volksschulgesetz erfasste Betreuungsangebote.
 
@@ -205,16 +207,27 @@ beschliesst:
 
 **Personal**
 
-<sup>1</sup> Für die Übernahme von Betreuungsverantwortung als qualifiziert gilt folgendes Personal:
+<sup>1</sup> Als Fachpersonal für die Kinderbetreuung (Fachpersonal) gelten Personen mit einer Ausbildung in Kindheitspädagogik HF, als Fachfrau oder Fachmann Betreuung mit eidgenössischem Fähigkeitszeugnis (EFZ) oder einer mindestens gleichwertigen Ausbildung.
 
-- a Fachfrau oder Fachmann Betreuung mit eidgenössischem Fähigkeitszeugnis (EFZ) oder gleichwertige Ausbildungen,
-- b bei ausreichendem Lern- und Erfahrungsstand Lernende und Studierende einer gleichwertigen höheren Fachausbildung unter 25 Jahren ab dem 2. Lehr- oder Studienjahr sowie Lernende und Studierende einer gleichwertigen höheren Fachausbildung ab 25 Jahren,
-- c Personen, die eine Ausbildungsvereinbarung abgeschlossen haben mit dem Ziel, über ein Äquivalenzverfahren ein Eidgenössisches Fähigkeitszeugnis nach Buchstabe a zu erlangen, bei ausreichendem Lern- und Erfahrungsstand und frühestens ab Beginn des Ausbildungsverhältnisses, bei Personen unter 25 Jahren zudem frühestens ab einem Jahr berufsspezifischer Arbeitserfahrung,
-- d Personen, die am 1. Januar 2022 über einen unbefristeten Arbeitsvertrag mit der Kindertagesstätte verfügen und in diesem Rahmen Aufgaben mit Betreuungsverantwortung übernehmen, bei ausreichendem Lern- und Erfahrungsstand in derselben Kindertagesstätte.
+<sup>2</sup> Als Assistenzpersonal für die Kinderbetreuung (Assistenzpersonal) gelten
 
-<sup>2</sup> Als gleichwertig im Sinne von Absatz 1 Buchstabe a gelten anerkannte Ausbildungsabschlüsse als Berufsbildnerin oder Berufsbildner, um Lernende zur Fachfrau oder zum Fachmann Betreuung anzuleiten.
+- a volljährige Personen mit einer Aus- oder Weiterbildung, die ihnen hinreichende Kenntnisse in Pädagogik, Psychologie, Betreuung oder Pflege vermittelt hat,
+- b Personen in Ausbildung zu einer Fachperson nach Absatz 1 im zweiten und dritten Ausbildungs- bzw. Lehrjahr, wenn sie einen ausreichenden Lern- und Erfahrungsstand aufweisen,
+- c volljährige Personen ohne Aus- oder Weiterbildung nach Buchstabe a mit mindestens dreijähriger Berufserfahrung in einer Kindertagesstätte oder einer bewilligungspflichtigen, sozialpädagogischen Einrichtung, wenn sie einen ausreichenden Lern- und Erfahrungsstand aufweisen.
 
-<sup>3</sup> Die GSI kann durch Direktionsverordnung weitere Vorschriften zu den erforderlichen Ausbildungen erlassen.
+<sup>3</sup> Personen ohne Qualifikationen nach Absatz 1 und 2 gelten als übriges Personal.
+
+#### Art. 13a
+
+**Betreuungsverantwortung**
+
+<sup>1</sup> Für die Übernahme von Betreuungsverantwortung ist ausschliesslich das Fachpersonal qualifiziert.
+
+<sup>2</sup> Assistenzpersonal und Personen in Ausbildung zu einer Fachperson nach Artikel 13 Absatz 1 im ersten Ausbildungs- bzw. Lehrjahr werden nach Massgabe der Leitung und unter Aufsicht des anwesenden Fachpersonals in der Kinderbetreuung eingesetzt.
+
+<sup>3</sup> Sie dürfen nach Massgabe der Leitung und bei entsprechendem Lern- und Erfahrungsstand für einen sachbezogenen, begrenzten Zeitraum allein Kinder betreuen, sofern sich Fachpersonal in Rufweite befindet.
+
+<sup>4</sup> Das übrige Personal, ausgenommen die Personen in Ausbildung zu einer Fachperson nach Artikel 13 Absatz 1 im ersten Ausbildungs- bzw. Lehrjahr, kann nach Massgabe der Leitung und unter Aufsicht des anwesenden Fachpersonals in der Kinderbetreuung eingesetzt werden, sofern die Kinderbetreuung stets gemeinsam mit Fach- oder Assistenzpersonal erfolgt.
 
 #### Art. 14
 
@@ -230,17 +243,23 @@ beschliesst:
 
 **Betreuungsschlüssel**
 
-<sup>1</sup> Pro Gruppe muss für die Betreuung der Kinder mindestens das folgende für die Übernahme von Betreuungsverantwortung qualifizierte Personal anwesend sein:
+<sup>1</sup> …
 
-- a für 1 bis 5 Plätze: eine Person,
-- b für 6 bis 14 Plätze: zwei Personen,
-- c für zusätzliche 1 bis 7 Plätze: jeweils eine Person.
+<sup>1a</sup> Für die Betreuung der Kinder in der Kindertagesstätte muss mindestens das folgende Fach- und Assistenzpersonal in der unmittelbaren Kinderbetreuung eingesetzt sein (Betreuungsschlüssel):
 
-<sup>2</sup> Für die gesamte Kindertagesstätte muss für die Betreuung der Kinder mindestens das folgende für die Übernahme von Betreuungsverantwortung qualifizierte Personal anwesend sein:
+<table>
+<tr><th>Total</th><th>davon Fachpersonen</th><th>bei belegten Plätzen wie folgt</th></tr>
+<tr><td>1</td><td>1</td><td>1 bis 5</td></tr>
+<tr><td>2</td><td>1</td><td>6 bis 12</td></tr>
+<tr><td>3</td><td>2</td><td>13 bis 18</td></tr>
+<tr><td>4</td><td>2</td><td>19 bis 24</td></tr>
+<tr><td>5</td><td>3</td><td>25 bis 30</td></tr>
+<tr><td>6</td><td>3</td><td>31 bis 36</td></tr>
+</table>
 
-- a für 1 bis 5 Plätze: eine Person,
-- b für 6 bis 12 Plätze: zwei Personen,
-- c für zusätzliche 1 bis 6 Plätze: jeweils eine Person.
+<sup>2</sup> In Kindertagesstätten mit mehr als 36 Plätzen muss in der Kinderbetreuung zusätzliches Fach- und Assistenzpersonal entsprechend dem Betreuungsschlüssel nach Absatz 1a eingesetzt werden.
+
+<sup>2a</sup> Übriges Personal wird beim Betreuungsschlüssel nach Absatz 1a nicht berücksichtigt.
 
 <sup>3</sup> Bei der Beurteilung des Betreuungsschlüssels sind die Plätze wie folgt zu berechnen:
 
@@ -252,11 +271,7 @@ beschliesst:
 
 #### Art. 16
 
-**Betreuung durch Lernende**
-
-<sup>1</sup> Eine Gruppe darf von Lernenden oder Studierenden einer gleichwertigen höheren Fachausbildung im ersten oder zweiten Lehr- oder Studienjahr nur gemeinsam mit mindestens einer qualifizierten Person im Sinne von Artikel 13 Absatz 1 Buchstabe a betreut werden.
-
-<sup>2</sup> Lernende im dritten Lehrjahr und Personen ohne spezifische Ausbildung können Gruppen nach Massgabe der Leitung alleine betreuen, es muss aber immer eine qualifizierte Person im Sinne von Artikel 13 Absatz 1 Buchstabe a in unmittelbarer Nähe anwesend sein.
+**…**
 
 #### Art. 17
 
@@ -284,7 +299,7 @@ beschliesst:
 
 <sup>2</sup> Die Mitarbeiterinnen und Mitarbeiter müssen den Notfallplan kennen und anwenden können.
 
-<sup>3</sup> Alle Mitarbeiterinnen und Mitarbeiter mit Betreuungsverantwortung müssen Kenntnisse in der Kindernothilfe besitzen und diese mindestens alle zwei Jahre auffrischen.
+<sup>3</sup> Das Fachpersonal, das Assistenzpersonal sowie Personen in Ausbildung zu einer Fachperson nach Artikel 13 Absatz 1 im ersten Ausbildungs- bzw. Lehrjahr müssen Kenntnisse in der Kindernothilfe besitzen und diese mindestens alle zwei Jahre auffrischen.
 
 #### Art. 19
 
@@ -293,7 +308,9 @@ beschliesst:
 <sup>1</sup> Kindertagesstätten
 
 - a dürfen keine Mitarbeiterinnen und Mitarbeiter beschäftigen, die eine Straftat begangen haben, aufgrund der das Kindeswohl gefährdet erscheint,
-- b holen zu diesem Zweck von allen Mitarbeiterinnen und Mitarbeitern vor der Anstellung und anschliessend mindestens alle fünf Jahre einen Privat- und einen Sonderprivatauszug aus dem Strafregister ein.
+- b melden dem AIS zu diesem Zweck von allen Mitarbeiterinnen und Mitarbeitern rechtzeitig im Voraus oder spätestens bei Vertragsunterzeichnung und danach jährlich die Personalien zur Überprüfung des Leumunds durch Einsicht in den Behördenauszug 2 aus dem Strafregister,
+- c stellen Arbeitsverträge, die vor abgeschlossener Leumundsprüfung unterzeichnet werden, unter den Vorbehalt, dass der Behördenauszug 2 zum Zeitpunkt der erstmaligen Überprüfung im Zusammenhang mit dem Anstellungsverfahren keine Hinweise auf Straftaten nach Buchstabe a enthält,
+- d stellen sicher, dass neue Mitarbeiterinnen und Mitarbeiter vor abgeschlossener Leumundsprüfung nie allein, sondern nur gemeinsam mit Fach- oder Assistenzpersonal in der Kinderbetreuung eingesetzt werden.
 
 <sup>2</sup> Jede Kindertagesstätte muss über eine Selbstverpflichtungserklärung verfügen, die von allen Mitarbeiterinnen und Mitarbeitern datiert unterschrieben wird und folgende Aspekte abdeckt:
 
@@ -316,15 +333,15 @@ beschliesst:
 
 **Gesuch**
 
-<sup>1</sup> Das Gesuch um Erteilung einer Betriebsbewilligung ist elektronisch auf dem amtlichen Formular, das vom AIS zur Verfügung gestellt wird, einzureichen.
+<sup>1</sup> Das Gesuch um Erteilung einer Betriebsbewilligung ist über die vom AIS zur Verfügung gestellte Webapplikation einzureichen.
 
-<sup>2</sup> Ebenfalls elektronisch einzureichen sind alle zur Beurteilung des Gesuchs erforderlichen Beilagen, insbesondere
+<sup>2</sup> Ebenfalls über diese Webapplikation einzureichen sind alle zur Beurteilung des Gesuchs erforderlichen Beilagen, insbesondere
 
 - a Angaben zum Zweck und zur rechtlichen Form der Kindertagesstätte,
 - b eine Dokumentation zur Betriebsorganisation,
 - c eine Dokumentation des Standorts mit Mietvertrag sowie Protokoll über erfolgte Sicherungsmassnahmen,
 - d ein pädagogisches Konzept,
-- e die Anstellungsverträge und Qualifikationsnachweise der Leitungen sowie der Mitarbeiterinnen und Mitarbeiter einschliesslich Nachweise über den Besuch von Kindernothilfekursen, Privat- und Sonderprivatauszüge sowie Selbstverpflichtungserklärungen,
+- e die Personalien, Anstellungsverträge und Qualifikationsnachweise der Leitungen sowie der Mitarbeiterinnen und Mitarbeiter einschliesslich Nachweise über den Besuch von Kindernothilfekursen sowie Selbstverpflichtungserklärungen,
 - f ein Notfallplan.
 
 #### Art. 22
@@ -362,7 +379,7 @@ beschliesst:
 
 **Meldepflichten**
 
-<sup>1</sup> Zusätzlich zu den Meldepflichten nach Artikel 18 PAVO sind dem AIS unverzüglich zu melden
+<sup>1</sup> Zusätzlich zu den Meldepflichten nach Artikel 17 Absatz 3 und Artikel 18 PAVO sind dem AIS unverzüglich zu melden
 
 - a Änderungen des pädagogischen Konzepts,
 - b ausserordentliche Ereignisse, die den Betrieb der Kindertagesstätte oder das Wohl einzelner oder mehrerer betreuter Kinder wesentlich beeinträchtigen können sowie damit zusammenhängende getroffene Massnahmen,
@@ -374,11 +391,11 @@ beschliesst:
 
 **Kontrollen**
 
-<sup>1</sup> Das AIS führt in den Kindertagestätten regelmässig und in der Regel unangemeldete Kontrollen vor Ort durch.
+<sup>1</sup> In den Kindertagestätten werden regelmässig und in der Regel unangemeldete Kontrollen vor Ort durchgeführt.
 
-<sup>2</sup> Es hat das Recht, jederzeit aktuelle Betreibungsregisterauszüge zu verlangen, die Buchhaltung einzusehen sowie Zwischenjahresabschlüsse anzufordern.
+<sup>2</sup> Das AIS oder die mit der Kontrolle beauftragte Stelle hat das Recht, jederzeit aktuelle Betreibungsregisterauszüge zu verlangen, die Buchhaltung einzusehen sowie Zwischenjahresabschlüsse anzufordern.
 
-<sup>3</sup> Dem AIS
+<sup>3</sup> Dem AIS oder der mit der Kontrolle beauftragten Stelle
 
 - a ist der Zugang zu allen Räumlichkeiten zu gewähren und das Gespräch mit allen anwesenden Kindern, Erziehungsberechtigten sowie Mitarbeiterinnen und Mitarbeitern zu ermöglichen,
 - b sind sämtliche Unterlagen, die zur Wahrnehmung der Aufsicht erforderlich sind, auf Nachfrage und in der von ihm vorgegebenen Form zur Einsicht auszuhändigen.
@@ -395,6 +412,256 @@ beschliesst:
 <sup>2</sup> Die Frist nach Absatz 1 Buchstabe a wird in Abhängigkeit des Schweregrads der Missstände festgelegt.
 
 <sup>3</sup> Erfolgt innert Frist keine Beseitigung der Missstände, entzieht das AIS die Bewilligung.
+
+### 2.1a Betreuung in Tagesfamilien
+
+### 2.1a.1 Allgemeines
+
+#### Art. 27a
+
+**Begriffe**
+
+<sup>1</sup> Personen, die entsprechend Artikel 12 PAVO Kinder unter zwölf Jahren gegen Entgelt regelmässig tagsüber in ihrem Haushalt betreuen, gelten als Betreuungspersonen in Tagesfamilien.
+
+<sup>2</sup> Nicht als Betreuung im Sinne von Absatz 1 gelten
+
+- a die Betreuung von Kindern, die im gleichen Haushalt wie die betreuende Person leben,
+- b die Betreuung durch Personen, die in gerader Linie im ersten oder zweiten Grad oder in der Seitenlinie im zweiten oder dritten Grad mit dem betreuten Kind verwandt sind,
+- c die Unterbringung bei Pflegeeltern gemäss Artikel 8 KFSG.
+
+<sup>3</sup> Als regelmässig im Sinne von Absatz 1 gilt die Betreuung eines Kindes, die
+
+- a während mindestens zwei Monaten pro Jahr am Stück oder gesamthaft 39 Wochen pro Jahr stattfindet und
+- b einen Umfang von mehr als drei Stunden pro Tag oder mehr als sechs Stunden pro Woche hat.
+
+#### Art. 27b
+
+**Übernachtung in Tagesfamilien**
+
+<sup>1</sup> Die regelmässige Betreuung gegen Entgelt von Kindern unter zwölf Jahren im eigenen Haushalt auch während der Nacht kann in Abweichung von Artikel 27a Absatz 1 als Tagesfamilienbetreuung gelten, solange das Angebot nicht unter die Bewilligungspflicht nach Artikel 8 KFSG fällt.
+
+#### Art. 27c
+
+**Zuständigkeiten**
+
+<sup>1</sup> Zuständige Behörde nach Artikel 12 PAVO ist das AIS.
+
+<sup>2</sup> Bei Betreuungspersonen in Tagesfamilien, die bei einer Tagesfamilienorganisation angestellt sind, obliegt die Wahrnehmung der operationellen Aufsichtsaufgaben nach den Vorgaben des AIS der entsprechenden Tagesfamilienorganisation.
+
+#### Art. 27d
+
+**Meldepflicht**
+
+<sup>1</sup> Das Angebot der Kinderbetreuung in Tagesfamilien ist meldepflichtig nach Artikel 12 PAVO.
+
+<sup>2</sup> Betreuungspersonen in Tagesfamilien, die nicht bei einer Tagesfamilienorganisation angestellt sind, melden dem AIS zur Erfüllung der Pflicht nach Absatz 1 ihr Betreuungsangebot einen Monat im Voraus mindestens unter
+
+- a Einreichung einer Kopie der gültigen Identitätskarte oder des gültigen Reisepasses, bei ausländischen Personen einer Kopie der Aufenthalts- oder Niederlassungsbewilligung,
+- b Angabe des Zeitpunkts, wann die Betreuung aufgenommen wird,
+- c Angabe von Anzahl und Alter der betreuten Tageskinder einschliesslich des jeweiligen Betreuungsumfangs,
+- d Angabe von Anzahl und Alter aller sich regelmässig im Haushalt aufhaltenden Personen (inkl. Familienmitgliedern),
+- e Angabe von Name und Geburtsdatum aller zu ihrem Haushalt gehörenden, volljährigen Personen,
+- f Angabe der eigenen AHV-Nummer sowie der AHV-Nummer aller zu ihrem Haushalt gehörenden, volljährigen und in die Kinderbetreuung involvierten Personen,
+- g Einreichung einer von ihnen und allen zu ihrem Haushalt gehörenden, volljährigen Personen unterzeichneten Selbstverpflichtungserklärung nach Artikel 19 Absatz 2,
+- h Angabe von Informationen zu den Wohnverhältnissen (Adresse, Wohnfläche und Anzahl Zimmer).
+
+<sup>3</sup> Für Betreuungspersonen in Tagesfamilien, die bei einer Tagesfamilienorganisation angestellt sind, erfolgt die Meldung an das AIS durch die entsprechende Tagesfamilienorganisation durch Übermittlung der Personalien.
+
+### 2.1a.2 Voraussetzungen
+
+#### Art. 27e
+
+**Anforderungen**
+
+<sup>1</sup> Betreuungspersonen in Tagesfamilien und die zu ihrem Haushalt gehörenden Personen müssen durch ihre Persönlichkeit, Gesundheit, erzieherische Eignung und Wohnverhältnisse Gewähr für eine gute Betreuung von allen anwesenden Kindern bieten.
+
+<sup>2</sup> Betreuungspersonen in Tagesfamilien üben die Kinderbetreuung in eigener Person aus.
+
+<sup>3</sup> Sie müssen vor oder während des ersten Jahres ihrer Betreuungstätigkeit einen Grundbildungskurs für Betreuungspersonen in Tagesfamilien und einen Kindernothilfekurs absolvieren.
+
+<sup>4</sup> Betreuungspersonen in Tagesfamilien und die zu ihrem Haushalt gehörenden Personen dürfen keine Straftat begangen haben, aufgrund der das Kindeswohl gefährdet erscheint, was vor Beginn der Tätigkeit und danach jährlich zu überprüfen ist
+
+- a durch Einsichtnahme des AIS in den Behördenauszug 2 aus dem Strafregister, soweit nach Bundesrecht zulässig, andernfalls
+- b durch Einverlangen eines Privatauszugs aus dem Strafregister.
+
+#### Art. 27f
+
+**Betreuungsplätze in Tagesfamilien**
+
+<sup>1</sup> Die maximal zulässige Anzahl Betreuungsplätze, die von Betreuungspersonen in Tagesfamilien gleichzeitig besetzt werden dürfen, ergibt sich aus Artikel 4 Absatz 1 Buchstabe b.
+
+<sup>2</sup> Bei Beurteilung der nach Absatz 1 maximal belegbaren Betreuungsplätze sind alle anwesenden Kinder mitzuzählen, insbesondere auch eigene und unentgeltlich betreute Kinder unter zwölf Jahren sowie Kinder in Pflegeverhältnissen.
+
+<sup>3</sup> Entsprechend ihrem unterschiedlichen Betreuungsbedarf belegen in Tagesfamilien
+
+- a Kinder unter zwölf Monaten eineinhalb Betreuungsplätze,
+- b Kinder über zwölf Monaten und unter zwölf Jahren einen Betreuungsplatz,
+- c Kinder mit besonderen Bedürfnissen unabhängig des Alters eineinhalb Betreuungsplätze,
+- d Pflegekinder unter zwölf Jahren eineinhalb Betreuungsplätze,
+- e gegen Entgelt betreute Kinder im schulpflichtigen Alter ab zwölf Jahren bei gleichzeitiger Anwesenheit von Kindern unter zwölf Jahren einen halben Betreuungsplatz.
+
+<sup>4</sup> In Abweichung von Absatz 1 dürfen in Tagesfamilien während der Mittagstischbetreuung
+
+- a sieben Betreuungsplätze belegt werden oder
+- b zehn Betreuungsplätze belegt werden, sofern zusätzlich eine weitere zum Haushalt gehörende, volljährige Person anwesend ist.
+
+### 2.1a.3 Aufsicht
+
+#### Art. 27g
+
+<sup>1</sup> Im Rahmen der operationellen Aufsichtsaufgaben werden in Tagesfamilien so oft als nötig, mindestens aber einmal jährlich Kontrollen vor Ort durchgeführt und darüber Protokoll geführt.
+
+<sup>2</sup> Falls erforderlich, erlässt das AIS eine Verfügung nach Artikel 12 Absatz 3 PAVO.
+
+<sup>3</sup> Im Übrigen gelten die Artikel 26 und 27 sinngemäss.
+
+### 2.1b Bewilligung und Aufsicht Tagesfamilienorganisationen
+
+### 2.1b.1 Allgemeines
+
+#### Art. 27h
+
+**Bewilligungspflicht**
+
+<sup>1</sup> Einer Bewilligung für den Betrieb einer Tagesfamilienorganisation bedarf, wer die regelmässige Betreuung von Kindern durch die bei ihnen angestellten Betreuungspersonen in Tagesfamilien vermittelt.
+
+#### Art. 27i
+
+**Zuständige Behörde**
+
+<sup>1</sup> Das AIS ist zuständige Bewilligungs- und Aufsichtsbehörde für alle Tagesfamilienorganisationen nach Artikel 27h.
+
+<sup>2</sup> Es ist in diesem Bereich zuständig für
+
+- a die Erteilung und den Entzug von Bewilligungen für Tagesfamilienorganisationen,
+- b die Anordnung von Massnahmen gegen Inhaberinnen und Inhaber einer Bewilligung.
+
+### 2.1b.2 Bewilligungsvoraussetzungen
+
+#### Art. 27k
+
+**Grundsätze**
+
+<sup>1</sup> Die Bewilligung für den Betrieb einer Tagesfamilienorganisation setzt voraus, dass
+
+- a die organisatorischen Grundsätze und Betriebsprozesse so beschrieben sind, dass die Tagesfamilienorganisation ihre Aufgaben umfassend und in erforderlicher Qualität erfüllen kann,
+- b ein pädagogisches Konzept vorliegt, das die Förderung des Kindeswohls gewährleistet und festlegt, nach welchen anerkannten pädagogischen Grundsätzen die Kinderbetreuung ausgerichtet wird,
+- c die Tagesfamilienorganisation über ausreichend Personal zur Erfüllung ihrer Aufgaben mit den erforderlichen fachlichen Kompetenzen und Qualifikationen verfügt,
+- d die Tagesfamilienorganisation über eine solide wirtschaftliche Grundlage verfügt, die einen längerfristigen Bestand des Betriebs sicherstellt.
+
+<sup>2</sup> Folgende Aspekte der Betriebsorganisation sind geregelt und für die Erziehungsberechtigten einsehbar:
+
+- a die rechtliche Organisation,
+- b die Zuständigkeiten und Verantwortlichkeiten,
+- c die Sicherstellung der Qualität in allen relevanten Bereichen,
+- d die Zusammenarbeit mit den Erziehungsberechtigten,
+- e sämtliche von den Erziehungsberechtigten zu tragenden Kosten im Zusammenhang mit der Betreuung.
+
+<sup>3</sup> Für die erforderlichen fachlichen Kompetenzen und Qualifikationen gelten in einer Tagesfamilienorganisation die folgenden Mindestanforderungen an das Personal:
+
+- a Die Geschäftsleitung verfügt über Kompetenzen in Personal- und Betriebsführung.
+- b Vermittlerinnen und Vermittler verfügen über eine Grundausbildung mit EFZ und haben zudem einen Lehrgang «Vermittlerin/Vermittler von Tagesfamilien» absolviert.
+- c Betreuungspersonen in Tagesfamilien haben einen Grundbildungskurs für Betreuungspersonen in Tagesfamilien und einen Kindernothilfekurs absolviert.
+- d Mitarbeiterinnen und Mitarbeiter der Tagesfamilienorganisation verfügen über einen Abschluss in Kindheitspädagogik HF, als Fachfrau oder Fachmann Betreuung EFZ oder eine mindestens gleichwertige Ausbildung wenn sie
+  - 1 Aufsichtsaufgaben wahrnehmen,
+  - 2 zuständig sind für fachliche Beratung und Begleitung der Betreuungspersonen in Tagesfamilien.
+
+#### Art. 27l
+
+**Schutz vor Grenzüberschreitungen**
+
+<sup>1</sup> Tagesfamilienorganisationen dürfen keine Mitarbeiterinnen und Mitarbeiter beschäftigen, die eine Straftat begangen haben, aufgrund der das Kindeswohl gefährdet erscheint.
+
+<sup>2</sup> Zu diesem Zweck
+
+- a melden sie dem AIS von allen in die Kinderbetreuung involvierten Personen in ihren Tagesfamilien vor deren erstmaligen Betreuungstätigkeit und danach jährlich die Personalien zur Überprüfung des Leumunds durch Einsicht in den Behördenauszug 2 aus dem Strafregister,
+- b melden sie dem AIS von der geschäftsführenden sowie den mit der Vermittlung, der Aufsicht oder der Beratung und Begleitung der Betreuungspersonen in Tagesfamilien betrauten Personen vor deren Anstellung und danach mindestens alle fünf Jahre die Personalien zur Überprüfung des Leumunds durch Einsicht in den Behördenauszug 2 aus dem Strafregister,
+- c holen sie von allfälligen weiteren zum Haushalt ihrer Betreuungspersonen in Tagesfamilien gehörenden, volljährigen Personen vor der erstmaligen Betreuungstätigkeit in dieser Tagesfamilie und danach jährlich einen Privatauszug aus dem Strafregister ein.
+
+<sup>3</sup> Jede Tagesfamilienorganisation verfügt über eine Selbstverpflichtungserklärung nach Artikel 19 Absatz 2, die von allen Betreuungspersonen in Tagesfamilien, von allfälligen weiteren zum Haushalt ihrer Betreuungspersonen in Tagesfamilien gehörenden, volljährigen Personen sowie von der geschäftsführenden und den mit der Vermittlung, der Aufsicht oder der Beratung und Begleitung der Betreuungspersonen in Tagesfamilien betrauten Personen datiert unterschrieben wird.
+
+### 2.1b.3 Bewilligungsverfahren
+
+#### Art. 27m
+
+**Gesuch**
+
+<sup>1</sup> Das Gesuch um Erteilung einer Bewilligung für den Betrieb einer Tagesfamilienorganisation ist dem AIS über die vom AIS zur Verfügung gestellte Webapplikation einzureichen.
+
+<sup>2</sup> Ebenfalls über diese Webapplikation einzureichen sind alle zur Beurteilung des Gesuchs erforderlichen Beilagen, insbesondere
+
+- a Angaben und Unterlagen zur gesuchstellenden Person,
+  - 1 bei juristischen Personen: Rechtsform, Statuten, aktuelle Auszüge aus Handelsregister und Betreibungsregister, Organe,
+  - 2 bei natürlichen Personen: Aktueller Auszug aus dem Betreibungsregister und Kopie einer gültigen Identitätskarte oder eines gültigen Reisepasses bzw. bei ausländischen Personen Kopie der Aufenthalts- oder Niederlassungsbewilligung,
+- b eine Dokumentation zur Betriebsorganisation,
+- c ein pädagogisches Konzept,
+- d ein Konzept zur Sicherstellung der Betreuungsqualität,
+- e die Eröffnungsbilanz, das Budget für das erste Betriebsjahr und ein Finanzplan über die ersten drei Betriebsjahre,
+- f die Personalien sowie die Anstellungsverträge und die Qualifikationsnachweise der geschäftsführenden und der mit der Vermittlung, der Aufsicht oder der Beratung und Begleitung der Betreuungspersonen in Tagesfamilien betrauten Personen der TFO,
+- g von den geschäftsführenden und den mit der Vermittlung, der Aufsicht oder der Beratung und Begleitung der Betreuungspersonen in Tagesfamilien betrauten Personen der TFO unterzeichnete Selbstverpflichtungserklärungen nach Artikel 19 Absatz 2.
+
+#### Art. 27n
+
+**Bewilligungserteilung**
+
+<sup>1</sup> Das AIS prüft, ob die Anforderungen für die Erteilung der Bewilligung für den Betrieb einer Tagesfamilienorganisation erfüllt sind.
+
+<sup>2</sup> Sind die Bewilligungsvoraussetzungen erfüllt, wird die Bewilligung erteilt.
+
+### 2.1b.4 Betriebsführung
+
+#### Art. 27o
+
+**Aufgaben der Tagesfamilienorganisation**
+
+<sup>1</sup> Der Betrieb einer Tagesfamilienorganisation beinhaltet insbesondere die Erfüllung der nachfolgenden Aufgaben:
+
+- a Abschliessen von Arbeitsverträgen mit Betreuungspersonen in Tagesfamilien, welche die Anforderungen nach Artikel 27e erfüllen,
+- b Vermitteln einer regelmässigen Betreuung von Kindern durch bei ihr angestellte Betreuungspersonen in Tagesfamilien,
+- c Abschliessen der Betreuungsverträge mit den Erziehungsberechtigten,
+- d Rechnungsstellung über die Betreuungskosten bei den Erziehungsberechtigten,
+- e fachliche Begleitung der Betreuungspersonen in Tagesfamilien,
+- f Sicherstellen der Betreuungsqualität,
+- g Sicherstellen eines Weiterbildungsangebots für Vermittlerinnen und Vermittler, Betreuungspersonen in Tagesfamilien und Mitarbeiterinnen und Mitarbeiter mit Aufsichts- und Beratungsaufgaben sowie Gewährleistung, dass dieses regelmässig genutzt wird,
+- h Gewährleisten, dass für Betreuung nach Artikel 27a Absatz 2 durch bei der Tagesfamilienorganisation angestellte Betreuungspersonen in Tagesfamilien keine Betreuungsgutscheine entgegengenommen werden,
+- i Durchführen und Dokumentieren der operationellen Aufsichtsaufgaben nach Artikel 27c Absatz 2.
+
+#### Art. 27p
+
+**Meldepflichten**
+
+<sup>1</sup> Die Tagesfamilienorganisationen stellen den Vollzug der Meldepflicht nach Artikel 12 Absatz 1 PAVO sicher, indem sie dem AIS unverzüglich nach Abschluss des Arbeitsvertrags die Personalien und die Wohnadresse der Betreuungsperson in Tagesfamilien übermitteln.
+
+<sup>2</sup> Sie sind verpflichtet, dem AIS
+
+- a jährlich ein Verzeichnis mit den Personalien aller in die Kinderbetreuung involvierten Personen in ihren Tagesfamilien zuzustellen,
+- b Meldung zu machen bei festgestellten Mängeln oder Schwierigkeiten bei der Tagesfamilienbetreuung, die sich nicht im Rahmen ihrer arbeitsrechtlichen Weisungsbefugnis beheben lassen,
+- c Meldung zu machen bei Kündigung eines Anstellungsverhältnisses mit einer Betreuungsperson in Tagesfamilien aufgrund von Mängeln oder Schwierigkeiten.
+
+<sup>3</sup> Wesentliche Änderungen, welche die Bewilligungsvoraussetzungen betreffen, sind dem AIS rechtzeitig im Voraus zu melden.
+
+#### Art. 27q
+
+**Entschädigung**
+
+<sup>1</sup> Für die Wahrnehmung der operationellen Aufsichtsaufgaben nach Artikel 27c Absatz 2 werden die Tagesfamilienorganisationen mit einem jährlichen Pauschalbetrag von 200 Franken pro Tagesfamilie entschädigt.
+
+<sup>2</sup> Bei unterjähriger Anstellung oder Kündigung einer Betreuungsperson in Tagesfamilien wird die Entschädigung nur geschuldet, wenn in diesem Jahr mindestens der standardisierte jährliche Aufsichtsbesuch einschliesslich Protokollierung stattgefunden hat.
+
+<sup>3</sup> Die GSI passt die Pauschale gemäss Absatz 1 jährlich dem für das Kantonspersonal beschlossenen Lohnsummenwachstum an.
+
+### 2.1b.5 Aufsicht
+
+#### Art. 27r
+
+<sup>1</sup> Das AIS
+
+- a prüft regelmässig die für die Bewilligung der Tagesfamilienorganisation massgeblichen Dokumente, die Dokumentation der Aufsichtstätigkeit nach Artikel 27c Absatz 2 sowie allfällige weitere verlangte Unterlagen,
+- b bildet sich falls erforderlich auf weitere geeignete Weise, insbesondere durch Kontrolle vor Ort, Besprechungen und Erkundigungen, ein Urteil über die ausgeübte Tätigkeit der Tagesfamilienorganisation.
+
+<sup>2</sup> Es kann im Rahmen seiner Aufsicht über die Tagesfamilienorganisation auch stichprobenweise Besuche nach Artikel 27g bei deren Tagesfamilien durchführen.
+
+<sup>3</sup> Im Übrigen gelten die Artikel 26 und 27 sinngemäss.
 
 ### 2.2 Betreuungsgutscheine
 
@@ -431,6 +698,8 @@ beschliesst:
 - a grundsätzlich für Kinder bis zum Abschluss des Kindergartens,
 - b für schulpflichtige Kinder nach Abschluss des Kindergartens, wenn die Betreuung durch eine Tagesfamilie erbracht wird.
 
+<sup>1a</sup> Werden nach Absatz 1 Buchstabe b Betreuungsgutscheine ausgerichtet, gilt in Abweichung von Artikel 27a Absatz 1 auch die Betreuung von Kindern ab zwölf Jahren als Betreuung in Tagesfamilien, ansonsten gelten die Artikel 27a ff.
+
 <sup>2</sup> Wohnsitzgemeinden können die Zielgruppe betreffend schulpflichtige Kinder einschränken.
 
 #### Art. 31
@@ -449,34 +718,9 @@ beschliesst:
 - a Pflegeeltern, die für die Betreuung ihrer Pflegekinder Betreuungsgutscheine beantragen,
 - b Partnerinnen oder Partner von Erziehungsberechtigten, die nach Artikel 61 Absatz 1 ein gemeinsames Gesuch um Betreuungsgutscheine einreichen.
 
-#### Art. 32
+#### Art. 32–33
 
-**Tagesfamilienorganisationen**
-
-<sup>1</sup> Tagesfamilienorganisationen vermitteln die regelmässige Betreuung von Kindern durch die bei ihnen angestellten Tageseltern und begleiten diese fachlich.
-
-<sup>2</sup> Sie schliessen mit den Erziehungsberechtigten die Betreuungsverträge ab und stellen ihnen die Betreuungskosten in Rechnung.
-
-<sup>3</sup> Nicht als Betreuung durch Tageseltern gelten:
-
-- a die Betreuung von Kindern, die im gleichen Haushalt wie die betreuende Person leben,
-- b die Betreuung durch Personen, die in gerader Linie im ersten oder zweiten Grad oder in der Seitenlinie im zweiten oder dritten Grad mit dem betreuten Kind verwandt sind,
-- c die dauerhafte Platzierung bei Pflegeeltern.
-
-#### Art. 33
-
-**Qualitätssicherung durch Tagesfamilienorganisationen**
-
-<sup>1</sup> Tagesfamilienorganisationen sind dafür verantwortlich, dass die Qualität der Betreuung in den Tagesfamilien sichergestellt ist.
-
-<sup>2</sup> Insbesondere sind sie dafür besorgt, dass
-
-- a die organisatorischen und pädagogischen Grundsätze sowie die Aufgaben der Vermittlungsstelle umschrieben sind,
-- b die Eignung der Tageseltern und der Infrastruktur regelmässig überprüft wird,
-- c die Vermittlerinnen und Vermittler über eine den Anforderungen entsprechende Grundausbildung verfügen,
-- d die Tageseltern der Meldepflicht nach Artikel 12 Absatz 1 PAVO nachkommen,
-- e die Tageseltern einen Einführungskurs besuchen,
-- f ein Angebot an Weiterbildung für Vermittlerinnen und Vermittler und für Tageseltern besteht und regelmässig genutzt wird.
+**…**
 
 #### Art. 34
 
@@ -492,13 +736,15 @@ beschliesst:
 
 <sup>2</sup> Tagesfamilienorganisationen müssen ihren Sitz, Kindertagesstätten ihren Standort im Kanton haben.
 
-<sup>3</sup> Tagesfamilienorganisationen haben zusätzlich die Voraussetzungen nach Artikel 33 zu erfüllen.
+<sup>3</sup> …
 
 #### Art. 35
 
 **Zulassungsverfahren**
 
 <sup>1</sup> Die Zulassung zum Betreuungsgutscheinsystem wird den Leistungserbringern auf Gesuch hin und gestützt auf die eingereichten Belege durch das AIS erteilt.
+
+<sup>1a</sup> Das Gesuch um Zulassung zum Betreuungsgutscheinsystem und die Belege sind über die vom AIS zur Verfügung gestellte Webapplikation einzureichen.
 
 <sup>2</sup> Die Leistungserbringer müssen dem AIS alle betreffend die Zulassungsvoraussetzungen wesentlichen Änderungen unverzüglich melden.
 
@@ -717,7 +963,7 @@ beschliesst:
 <sup>3</sup> Das Einkommen der Gesuchstellenden umfasst
 
 - a den Nettolohn,
-- b das steuerpflichtige Ersatzeinkommen,
+- b das steuerpflichtige Ersatzeinkommen, wobei dieses bei Selbständigerwerbenden beim Geschäftsgewinn des entsprechenden Jahres angerechnet wird, sofern es die selbständige Tätigkeit betrifft,
 - c die erhaltenen Unterhaltsbeiträge, soweit sie nach kantonaler Steuergesetzgebung versteuert werden müssen,
 - d Bruttoerträge aus beweglichem und unbeweglichem Vermögen,
 - e den in der Steuererklärung ausgewiesenen Geschäftsgewinn (Durchschnitt der vergangenen drei Jahre),
@@ -816,6 +1062,8 @@ beschliesst:
 <sup>2</sup> Eine alleinige Gesuchstellung ist vorbehältlich Artikel 61 Absatz 2 Buchstabe b möglich bei alleiniger Obhut und bei Erziehungsberechtigten mit alternierender Obhut.
 
 <sup>3</sup> Das AIS stellt zur Unterstützung der Gesuchseinreichung eine Webapplikation zur Verfügung.
+
+<sup>4</sup> Erziehungsberechtigte dürfen ihr Gesuch auch auf Papier einreichen, diesfalls sind die Gemeinden verpflichtet, die Daten in der Webapplikation nach Absatz 3 zu erfassen.
 
 #### Art. 61
 
@@ -1156,7 +1404,7 @@ beschliesst:
 
 <sup>1</sup> Der Höchstbetrag der anrechenbaren Aufwendungen besteht aus
 
-- a einem Grundbetrag von 81.86 Franken multipliziert mit der Anzahl Kinder und Jugendliche bis zum vollendeten 20. Lebensjahr im entsprechenden Einzugsgebiet und
+- a einem Grundbetrag von 84.07 Franken multipliziert mit der Anzahl Kinder und Jugendliche bis zum vollendeten 20. Lebensjahr im entsprechenden Einzugsgebiet und
 - b einem Zusatzbetrag gemäss Soziallastenindex.
 
 <sup>2</sup> Der Soziallastenindex wird zur Verteilung einer von der GSI in einer Direktionsverordnung definierten Gesamtsumme der Zusatzbeträge verwendet.
@@ -1623,6 +1871,44 @@ beschliesst:
 **Inkrafttreten**
 
 <sup>1</sup> Diese Verordnung tritt am 1. Januar 2022 in Kraft.
+
+## T1 Übergangsbestimmungen der Änderung vom 15.11.2023
+
+#### Art. T1-1
+
+**Bestehende Tagesfamilienorganisationen**
+
+<sup>1</sup> Tagesfamilienorganisationen die ihre Tätigkeit nachweislich vor dem 1. Januar 2024 aufgenommen haben,
+
+- a müssen bis spätestens am 31. Dezember 2025 über eine Bewilligung nach Artikel 108 Absatz 1 SLG verfügen,
+- b haben das Bewilligungsgesuch bis spätestens am 30. Juni 2025 einzureichen.
+
+<sup>2</sup> Tagesfamilienorganisationen mit Sitz in der Einwohnergemeinde Moutier, die ihre Tätigkeit nachweislich vor dem 1. Januar 2024 aufgenommen haben, bedürfen keiner Bewilligung nach Artikel 108 Absatz 1 SLG und sind nicht verpflichtet ein Bewilligungsgesuch einzureichen.
+
+<sup>3</sup> Bei Bewilligungsgesuchen im Anwendungsbereich von Absatz 1 haben die Gesuchstellenden in Abweichung von Artikel 27m Absatz 2
+
+- a ihre letzte Jahresrechnung und das aktuelle Jahresbudget anstelle von Eröffnungsbilanz, Budget und Finanzplan einzureichen,
+- b das aktuelle Verzeichnis der angestellten Betreuungspersonen in Tagesfamilien (Namen und Adressen) und der Personalien aller in die Kinderbetreuung involvierten Personen in ihren Tagesfamilien einzureichen.
+
+<sup>4</sup> Werden während der Übergangsfrist nach Absatz 1 Buchstabe a vor Bewilligungserteilung oder nach Absatz 2 Missstände festgestellt, gilt Artikel 27 sinngemäss.
+
+#### Art. T1-2
+
+**Webapplikation für das Bewilligungsverfahren TFO**
+
+<sup>1</sup> Sofern die Webapplikation nach Artikel 27m zum Zeitpunkt des Inkrafttretens dieser Änderung noch nicht zur Verfügung steht, sind die Gesuche nach den Vorgaben des AIS einzureichen.
+
+#### Art. T1-3
+
+**Bisherige Mitarbeiterinnen und Mitarbeiter**
+
+<sup>1</sup> Mitarbeiterinnen und Mitarbeiter einer TFO, die bis zum 31. Dezember 2023 angestellt und für Aufsichtsaufgaben oder fachliche Beratung und Begleitung der Betreuungspersonen in Tagesfamilien zuständig waren, jedoch nicht über eine Ausbildung nach Artikel 27k Absatz 3 Buchstabe d verfügen, dürfen in der gleichen TFO weiterhin mit diesen Aufgaben betraut werden, wenn sie den Lehrgang «Vermittlerin/Vermittler von Tagesfamilien» bereits absolviert oder bis zum 31. Dezember 2025 absolviert haben.
+
+#### Art. T1-4
+
+**Anwendbarkeit von Artikel 53 Absatz 3 Buchstabe b**
+
+<sup>1</sup> Die Änderung von Artikel 53 Absatz 3 Buchstabe b ist ab dem 1. August 2024 anwendbar.
 
 Bern, 24. November 2021
 
