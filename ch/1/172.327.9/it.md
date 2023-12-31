@@ -3,18 +3,18 @@ sr: "172.327.9"
 title: Ordinanza del 9 dicembre 2005 relativa alla Commissione per la politica economica
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/1"
 language: it
-version: 2015-01-01
+version: 2024-01-01
 adopted: 2005-12-09
 in_force: 2006-01-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/1/20150101/it/xml/fedlex-data-admin-ch-eli-cc-2006-1-20150101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/1/20150101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/1/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2006-1-20240101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/1/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza relativa alla Commissione per la politica economica
 
-del 9 dicembre 2005 (Stato 1° gennaio 2015)
+del 9 dicembre 2005 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -44,7 +44,13 @@ La Commissione per la politica economica (Commissione) è una commissione ammini
 
 <sup>3</sup> Essa esprime il proprio parere su problemi essenziali di politica economica esterna.
 
+<sup>4</sup> Essa svolge i compiti che le sono assegnati dalla legge del 9 ottobre 1986[^2-2] sulla tariffa delle dogane, dalla legge federale del 15 dicembre 2017[^2-3] sull’importazione di prodotti agricoli trasformati e dalla legge del 9 ottobre 1981[^2-4] sulle preferenze tariffali.[^2-5]
+
 [^2-1]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2013. Di detta mod. è tenuto conto in tutto il presente testo.
+[^2-2]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)
+[^2-3]: [RS 632.111.72](https://fedlex.data.admin.ch/eli/cc/2018/629)
+[^2-4]: [RS 632.91](https://fedlex.data.admin.ch/eli/cc/1982/164_164_164)
+[^2-5]: Introdotto dal n. I 2 dell’O del 9 dic. 2022 sull’adeguamento di ordinanze in seguito alla verifica del 2022 delle commissioni extraparlamentari, in vigore dal 1° gen. 2024 ([RU 2022 842](https://fedlex.data.admin.ch/eli/oc/2022/842)).
 
 #### Art. 3
 

@@ -3,18 +3,18 @@ sr: "172.327.9"
 title: Verordnung vom 9. Dezember 2005 über die Kommission für Wirtschaftspolitik
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/1"
 language: de
-version: 2015-01-01
+version: 2024-01-01
 adopted: 2005-12-09
 in_force: 2006-01-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/1/20150101/de/xml/fedlex-data-admin-ch-eli-cc-2006-1-20150101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/1/20150101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/1/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2006-1-20240101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/1/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über die Kommission für Wirtschaftspolitik
 
-vom 9. Dezember 2005 (Stand am 1. Januar 2015)
+vom 9. Dezember 2005 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -44,7 +44,13 @@ Die Kommission für Wirtschaftspolitik (Kommission) ist eine ständige Verwaltun
 
 <sup>3</sup> Sie äussert sich zu wesentlichen Fragen der Aussenwirtschaftspolitik.
 
+<sup>4</sup> Sie nimmt die Aufgaben wahr, die ihr durch das Zolltarifgesetz vom 9. Oktober 1986[^2-2], das Bundesgesetz vom 15. Dezember 2017[^2-3] über Einfuhren von Erzeugnissen aus Landwirtschaftsprodukten und das Zollpräferenzengesetz vom 9. Oktober 1981[^2-4] zugewiesen werden.[^2-5]
+
 [^2-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2013 angepasst. Die Anpassung wurde im ganzen Text vorgenommen.
+[^2-2]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)
+[^2-3]: [SR 632.111.72](https://fedlex.data.admin.ch/eli/cc/2018/629)
+[^2-4]: [SR 632.91](https://fedlex.data.admin.ch/eli/cc/1982/164_164_164)
+[^2-5]: Eingefügt durch Ziff. I 2 der V vom 9. Dez. 2022 über die Anpassung von Verordnungen infolge der Überprüfung 2022 der ausserparlamentarischen Kommissionen, in Kraft seit 1. Jan. 2024 ([AS 2022 842](https://fedlex.data.admin.ch/eli/oc/2022/842)).
 
 #### Art. 3
 
@@ -58,7 +64,7 @@ Die Kommission für Wirtschaftspolitik (Kommission) ist eine ständige Verwaltun
 
 <sup>4</sup> Für die Amtsdauer, die Amtszeit und die Altersgrenze gelten die Bestimmungen der Kommissionenverordnung vom 3. Juni 1996[^3-1].
 
-[^3-1]: [[AS 1996 1651](https://fedlex.data.admin.ch/eli/oc/1996/1651_1651_1651), [2000 1157](https://fedlex.data.admin.ch/eli/oc/2000/188), [2008 5949](https://fedlex.data.admin.ch/eli/oc/2008/819)Ziff. II. [AS 2009 6137](https://fedlex.data.admin.ch/eli/oc/2009/751)Ziff. II 1]. Siehe heute: die Art. 8*a* ff. RVOV ([SR 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)).
+[^3-1]: [[AS 1996 1651](https://fedlex.data.admin.ch/eli/oc/1996/1651_1651_1651); [2000 1157](https://fedlex.data.admin.ch/eli/oc/2000/188); [2008 5949](https://fedlex.data.admin.ch/eli/oc/2008/819)Ziff. II. [AS 2009 6137](https://fedlex.data.admin.ch/eli/oc/2009/751)Ziff. II 1]. Siehe heute: die Art. 8*a* ff. RVOV ([SR 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)).
 
 #### Art. 4
 

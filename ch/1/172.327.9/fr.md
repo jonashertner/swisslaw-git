@@ -3,18 +3,18 @@ sr: "172.327.9"
 title: Ordonnance du 9 décembre 2005 sur la Commission de la politique économique
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/1"
 language: fr
-version: 2015-01-01
+version: 2024-01-01
 adopted: 2005-12-09
 in_force: 2006-01-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/1/20150101/fr/xml/fedlex-data-admin-ch-eli-cc-2006-1-20150101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/1/20150101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/1/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2006-1-20240101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/1/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance sur la Commission de la politique économique
 
-du 9 décembre 2005 (Etat le 1<sup>er</sup> janvier 2015)
+du 9 décembre 2005 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -38,13 +38,19 @@ La Commission de la politique économique (commission) est une commission consul
 
 **Tâches**
 
-<sup>1</sup> La commission conseille le Département fédéral de l’économie, de la formation et de la recherche (DEFR)[^2-1] et le Secrétariat d’Etat à l’économie (SECO) pour toutes les questions ayant trait à une politique économique novatrice, axée sur la compétitivité et créatrice d’emploi, et à ses conditions générales. Elle tient compte des réalités suisses, de l’environnement européen et mondial et des exigences du développement durable.
+<sup>1</sup> La commission conseille le Département fédéral de l’économie, de la formation et de la recherche (DEFR)[^2-1] et le Secrétariat d’État à l’économie (SECO) pour toutes les questions ayant trait à une politique économique novatrice, axée sur la compétitivité et créatrice d’emploi, et à ses conditions générales. Elle tient compte des réalités suisses, de l’environnement européen et mondial et des exigences du développement durable.
 
 <sup>2</sup> Elle émet des avis sur les questions fondamentales relatives au marché du travail.
 
 <sup>3</sup> Elle se prononce sur les questions essentielles touchant à la politique économique extérieure.
 
+<sup>4</sup> Elle assume les tâches qui lui sont attribuées par la loi du 9 octobre 1986 sur le tarif des douanes[^2-2], la loi fédérale du 15 décembre 2017 sur l’importation de produits agricoles transformés[^2-3] et la loi du 9 octobre 1981 sur les préférences tarifaires[^2-4].[^2-5]
+
 [^2-1]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2013 en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Il a été tenu compte de cette mod. dans tout le texte.
+[^2-2]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)
+[^2-3]: [RS 632.111.72](https://fedlex.data.admin.ch/eli/cc/2018/629)
+[^2-4]: [RS 632.91](https://fedlex.data.admin.ch/eli/cc/1982/164_164_164)
+[^2-5]: Introduit par le ch. I 2 de l’O du 9 déc. 2022 portant adaptation d’ordonnances à la suite du réexamen de 2022 des commissions extraparlementaires, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 842](https://fedlex.data.admin.ch/eli/oc/2022/842)).
 
 #### Art. 3
 
