@@ -4,11 +4,11 @@ title: "Legge del 23 marzo 2007 sull'approvvigionamento elettrico (LAEl)"
 short: LAEl
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/418"
 language: it
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2007-03-23
 in_force: 2007-07-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/418/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2007-418-20230901-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/418/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/418/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2007-418-20240101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/418/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/418/20230901/it"
 
 (LAEl)
 
-del 23 marzo 2007 (Stato 1° settembre 2023)
+del 23 marzo 2007 (Stato 1° gennaio 2024)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -38,7 +38,7 @@ decreta:
 
 <sup>2</sup>
 
-La presente legge fissa inoltre le condizioni quadro per:
+La pre202sente legge fissa inoltre le condizioni quadro per:
 
 - a. garantire un approvvigionamento di energia elettrica affidabile e sostenibile in tutte le regioni del Paese;
 - b. mantenere e potenziare la competitività internazionale dell’economia svizzera nel settore dell’energia elettrica.
@@ -567,18 +567,18 @@ In particolare, la società di rete:
 
 #### Art. 20a
 
-**Controlli di sicurezza relativi alle persone**[^20a-1]
+**Verifica dell’affidabilità**[^20a-1]
 
-<sup>1</sup> Le persone incaricate presso la società nazionale di rete di svolgere compiti nell’ambito dei quali possono influenzare la sicurezza della rete di trasporto e il suo esercizio affidabile e performante devono sottoporsi regolarmente a un controllo di sicurezza relativo alle persone.
+<sup>1</sup> Ai fini della valutazione del rischio per la sicurezza, le persone alle quali la società nazionale di rete affida funzioni critiche o estremamente critiche sono sottoposte a una verifica periodica dell’affidabilità.
 
-<sup>2</sup> Il contenuto del controllo e la rilevazione dei dati sono retti dall’articolo 20 della legge federale del 21 marzo 1997[^20a-2] sulle misure per la salvaguardia della sicurezza interna. I dati possono essere trattati.
+<sup>2</sup> Il Consiglio federale designa i gruppi di persone soggetti alla verifica. Al riguardo si limita allo stretto necessario.
 
-<sup>3</sup> La società nazionale di rete dispone lo svolgimento del controllo. Il risultato, corredato da una breve motivazione, deve esserle comunicato.
+<sup>3</sup> Il servizio specializzato secondo l’articolo 31 capoverso 2 della legge del 18 dicembre 2020[^20a-2] sulla sicurezza delle informazioni (LSIn) esegue la verifica dell’affidabilità. La procedura è retta per analogia dalle pertinenti disposizioni della LSIn.
 
-<sup>4</sup> Il Consiglio federale indica le persone soggette al controllo e disciplina la procedura di controllo.
+<sup>4</sup> La società nazionale di rete dispone lo svolgimento della verifica. Il risultato, corredato di una breve motivazione, le è comunicato.
 
-[^20a-1]: Introdotto dall’all. n. II 9 della LF del 30 set. 2016 sull’energia, in vigore dal 1° gen. 2018 ([RU 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6489](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
-[^20a-2]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
+[^20a-1]: Introdotto dall’all. n. II 9 della LF del 30 set. 2016 sull’energia ([RU 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6489](https://fedlex.data.admin.ch/eli/fga/2013/1476)). Nuovo testo giusta l’all. 1 n. 15 della L del 18 dic. 2020 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [FF 2017 2563](https://fedlex.data.admin.ch/eli/fga/2017/647)).
+[^20a-2]: [RS 128](https://fedlex.data.admin.ch/eli/cc/2022/232)
 
 ## Capitolo 4: Commissione dell’energia elettrica
 

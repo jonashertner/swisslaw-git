@@ -4,11 +4,11 @@ title: "Loi du 23 mars 2007 sur l'approvisionnement en électricité (LApEl)"
 short: LApEl
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/418"
 language: fr
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2007-03-23
 in_force: 2007-07-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/418/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2007-418-20230901-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/418/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/418/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-418-20240101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/418/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/418/20230901/fr"
 
 (LApEl)
 
-du 23 mars 2007 (État le 1<sup>er</sup> septembre 2023)
+du 23 mars 2007 (État le 1<sup>er</sup> janvier 2024)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -566,18 +566,18 @@ La société nationale a notamment les tâches suivantes:
 
 #### Art. 20a
 
-**Contrôle de sécurité relatif aux personnes**[^20a-1]
+**Contrôle de loyauté**[^20a-1]
 
-<sup>1</sup> Les personnes chargées auprès de la société nationale du réseau de transport de tâches dans le cadre desquelles elles peuvent influer sur la sécurité du réseau de transport et sur le caractère fiable et performant de son exploitation doivent se soumettre périodiquement à un contrôle de sécurité.
+<sup>1</sup> Les personnes auxquelles la société nationale du réseau de transport attribue des fonctions critiques ou extrêmement critiques sont périodiquement soumises à un contrôle de loyauté visant à évaluer le risque pour la sécurité.
 
-<sup>2</sup> La teneur du contrôle ainsi que la collecte des données se fondent sur l’art. 20 de la loi fédérale du 21 mars 1997 instituant des mesures visant au maintien de la sûreté intérieure[^20a-2]. Le traitement de ces données est autorisé.
+<sup>2</sup> Le Conseil fédéral désigne les groupes de personnes soumises au contrôle. Il s’en tient au strict nécessaire.
 
-<sup>3</sup> La demande de contrôle est faite par la société nationale du réseau de transport. Le résultat, accompagné d’une justification sommaire, doit lui être communiqué.
+<sup>3</sup> Les services spécialisés chargés des contrôles de sécurité relatifs aux personnes au sens de l’art. 31, al. 2, de la loi du 18 décembre 2020 sur la sécurité de l’information[^20a-2] réalisent le contrôle. La procédure est régie par les dispositions de cette loi relatives au contrôle de sécurité, qui s’appliquent par analogie.
 
-<sup>4</sup> Le Conseil fédéral désigne les personnes qui doivent se soumettre au contrôle et règle la procédure de contrôle.
+<sup>4</sup> La société nationale du réseau de transport demande que le contrôle soit effectué. Le résultat du contrôle lui est communiqué et brièvement motivé.
 
-[^20a-1]: Introduit par l’annexe ch. II 9 de la L du 30 sept. 2016 sur l’énergie, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6771](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
-[^20a-2]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
+[^20a-1]: Introduit par l’annexe ch. II 9 de la L du 30 sept. 2016 sur l’énergie ([RO 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6771](https://fedlex.data.admin.ch/eli/fga/2013/1476)). Nouvelle teneur selon l’annexe 1 ch. 15 de la L du 18 déc. 2020 sur la sécurité de l’information, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [FF 2017 2765](https://fedlex.data.admin.ch/eli/fga/2017/647)).
+[^20a-2]: [RS 128](https://fedlex.data.admin.ch/eli/cc/2022/232)
 
 ## Chapitre 4 Commission de l’électricité
 

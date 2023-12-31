@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 23. März 2007 über die Stromversorgung (Stromversorgu
 short: StromVG
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/418"
 language: de
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2007-03-23
 in_force: 2007-07-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/418/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2007-418-20230901-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/418/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/418/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2007-418-20240101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/418/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/418/20230901/de"
 
 (Stromversorgungsgesetz, StromVG)
 
-vom 23. März 2007 (Stand am 1. September 2023)
+vom 23. März 2007 (Stand am 1. Januar 2024)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -565,18 +565,18 @@ Insbesondere hat sie folgende Aufgaben:
 
 #### Art. 20a
 
-**Personensicherheitsprüfung**[^20a-1]
+**Prüfung der Vertrauenswürdigkeit**[^20a-1]
 
-<sup>1</sup> Personen, die bei der nationalen Netzgesellschaft mit Aufgaben betraut sind, in deren Rahmen sie die Sicherheit des Übertragungsnetzes und dessen zuverlässigen und leistungsfähigen Betrieb beeinflussen können, müssen sich periodisch einer Personensicherheitsprüfung unterziehen.
+<sup>1</sup> Personen, die von der nationalen Netzgesellschaft in kritischen oder höchstkritischen Funktionen eingesetzt werden, werden zur Beurteilung des Sicherheitsrisikos periodisch auf ihre Vertrauenswürdigkeit hin geprüft.
 
-<sup>2</sup> Prüfungsinhalt und Datenerhebung richten sich nach Artikel 20 des Bundesgesetzes vom 21. März 1997[^20a-2] über Massnahmen zur Wahrung der inneren Sicherheit. Die Daten dürfen bearbeitet werden.
+<sup>2</sup> Der Bundesrat legt fest, welche Personengruppen geprüft werden müssen. Er beschränkt sich dabei auf das erforderliche Mindestmass.
 
-<sup>3</sup> Die nationale Netzgesellschaft ersucht um Durchführung der Prüfung. Das Ergebnis ist ihr mitzuteilen und kurz zu begründen.
+<sup>3</sup> Die Vertrauenswürdigkeitsprüfungen werden von der Fachstelle nach Artikel 31 Absatz 2 des Informationssicherheitsgesetzes vom 18. Dezember 2020[^20a-2] (ISG) durchgeführt. Das Verfahren richtet sich sinngemäss nach den entsprechenden Bestimmungen des ISG.
 
-<sup>4</sup> Der Bundesrat bezeichnet die der Prüfung unterstehenden Personen und regelt das Prüfverfahren.
+<sup>4</sup> Die nationale Netzgesellschaft ersucht um Prüfung. Das Ergebnis ist ihr mitzuteilen und kurz zu begründen.
 
-[^20a-1]: Eingefügt durch Anhang Ziff. II 9 des Energiegesetzes vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [BBl 2013 7561](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
-[^20a-2]: [SR 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
+[^20a-1]: Eingefügt durch Anhang Ziff. II 9 des Energiegesetzes vom 30. Sept. 2016 ([AS 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [BBl 2013 7561](https://fedlex.data.admin.ch/eli/fga/2013/1476)). Fassung gemäss Anhang 1 Ziff. 15 des Informationssicherheitsgesetzes vom 18. Dez. 2020, in Kraft seit 1. Jan. 2024 ([AS 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [BBl 2017 2953](https://fedlex.data.admin.ch/eli/fga/2017/647)).
+[^20a-2]: [SR 128](https://fedlex.data.admin.ch/eli/cc/2022/232)
 
 ## 4. Kapitel: Elektrizitätskommission
 
