@@ -1,32 +1,32 @@
 ---
 canton: VS
 number: "172.212"
-title: Reglement über die Organisation und Umsetzung der Sicherheit und des Gesundheitsschutzes des Personals des Staates Wallis am Arbeitsplatz
+title: "Reglement über die Organisation und Umsetzung der Sicherheit und des Gesundheitsschutzes des Personals des Staates Wallis am Arbeitsplatz *"
 short: RSG-Pers
 language: de
-version: 2008-03-01
-corrected: 2017-09-01
-version_adopted: 2007-12-10
+version: 2024-01-01
+version_adopted: 2023-12-20
 adopted: 2007-12-10
 in_force: 2008-03-01
 url: "https://lex.vs.ch/app/de/texts_of_law/172.212"
-pdf: "https://lex.vs.ch/api/de/versions/661/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/de/versions/3267/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement über die Organisation und Umsetzung der Sicherheit und des Gesundheitsschutzes des Personals des Staates Wallis am Arbeitsplatz
 
-vom 10. Dezember 2007
+(RSG-Pers)
+
+vom 10.12.2007 (Stand 01.01.2024)
 
 Der Staatsrat des Kantons Wallis
 
-eingesehen die Artikel 81 bis 82 des Bundesgesetzes vom 20. März 1981 über die Unfallversicherung;
+eingesehen die Artikel 81 bis 82 des Bundesgesetzes über die Unfallversicherung vom 20. März 1981;
 
-eingesehen die Artikel 3a, 6, 35 und 36a des Bundesgesetzes vom 13. März 1964 über die Arbeit in Industrie, Gewerbe und Handel;
+eingesehen die Artikel 3a, 6, 35 und 36a des Bundesgesetzes über die Arbeit in Industrie, Gewerbe und Handel vom 13. März 1964;
 
-eingesehen die Bundesrichtlinen vom Januar 1996 über den Beizug von Arbeitsärzten und anderen Spezialisten der Arbeitssicherheit;
+eingesehen die Bundesrichtlinen über den Beizug von Arbeitsärzten und anderen Spezialisten der Arbeitssicherheit vom Januar 1996;
 
 eingesehen Artikel 57 Absatz 1 der Kantonsverfassung;
 
@@ -34,37 +34,39 @@ auf Antrag des Departements für Finanzen, Institutionen und Sicherheit,
 
 verordnet:
 
-### 1. Abschnitt: Allgemeine Bestimmungen
+## 1 Allgemeine Bestimmungen
 
 #### Art. 1
 
 **Zweck**
 
-Das vorliegende Reglement bezweckt die Umsetzung des Gesundheitsschutzes und der Sicherheit am Arbeitsplatz in der Kantonsverwaltung zu organisieren, entsprechend der Branchenlösung «Sicherheit und Gesundheitsschutz am Arbeitsplatz in den kantonalen und eidgenössischen Verwaltungen» (nachfolgend: Branchenlösung).
+<sup>1</sup> Das vorliegende Reglement bezweckt die Umsetzung des Gesundheitsschutzes und der Sicherheit am Arbeitsplatz in der Kantonsverwaltung zu organisieren, entsprechend der Branchenlösung "Sicherheit und Gesundheitsschutz am Arbeitsplatz in den kantonalen und eidgenössischen Verwaltungen" (nachfolgend: Branchenlösung).
 
 #### Art. 2
 
 **Anwendungsbereich**
 
-Das vorliegende Reglement gilt für die Beamten und Angestellten der Kantonsverwaltung, die Hilfsangestellten und Angestellten mit unbefristetem Dienstverhältnis, die Gerichtsschreiber und das Verwaltungspersonal der Gerichte, das Korps der Kantonspolizei, das Lehrpersonal und das Verwaltungs- und technische Personal der kantonalen Schulen sowie die Stagiaires und Lehrlinge (nachfolgend: Personal).
+<sup>1</sup> Das vorliegende Reglement gilt für die Beamten und Angestellten der Kantonsverwaltung, die Hilfsangestellten und Angestellten mit unbefristetem Dienstverhältnis, die Gerichtsschreiber und das Verwaltungspersonal der Gerichte und der Staatsanwaltschaft, das Korps der Kantonspolizei, das Lehrpersonal und das Verwaltungs- und technische Personal der kantonalen Schulen sowie die Stagiaires und Lehrlinge (nachfolgend: Personal).
 
 #### Art. 3
 
 **Gleichstellung von Mann und Frau**
 
-Jede Bezeichnung der Person, des Statuts oder der Funktion gilt in gleicher Weise für Männer und Frauen.
+<sup>1</sup> Jede Bezeichnung der Person, des Statuts oder der Funktion gilt in gleicher Weise für Männer und Frauen.
 
 #### Art. 4
 
-Managementsystem für die Sicherheit und den Gesundheitsschutz am Arbeitsplatz Zur Umsetzung der gemeinsamen Branchenlösung wird in der Kantonsverwaltung ein Managementsystem für die Sicherheit und den Gesundheitsschutz am Arbeitsplatz eingeführt (nachfolgend: SGA-System).
+**Managementsystem für die Sicherheit und den Gesundheitsschutz am Arbeitsplatz**
 
-### 2. Abschnitt: Organisation
+<sup>1</sup> Zur Umsetzung der gemeinsamen Branchenlösung wird in der Kantonsverwaltung ein Managementsystem für die Sicherheit und den Gesundheitsschutz am Arbeitsplatz eingeführt (nachfolgend: SGA-System).
+
+## 2 Organisation
 
 #### Art. 5
 
 **Aufsichtsbehörde**
 
-Die Dienststelle für Arbeitnehmerschutz und Arbeitsverhältnisse sowie die Suva für die ihr von der Bundesgesetzgebung zugewiesenen Tätigkeitsbereiche sind die unabhängige Aufsichtsbehörde für die Einhaltung der Vorschriften über die Hygiene, den Gesundheitsschutz und die Sicherheit am Arbeitsplatz beim Staat.
+<sup>1</sup> Die Dienststelle für Arbeitnehmerschutz und Arbeitsverhältnisse sowie die Suva für die ihr von der Bundesgesetzgebung zugewiesenen Tätigkeitsbereiche sind die unabhängige Aufsichtsbehörde für die Einhaltung der Vorschriften über die Hygiene, den Gesundheitsschutz und die Sicherheit am Arbeitsplatz beim Staat.
 
 #### Art. 6
 
@@ -76,7 +78,7 @@ Die Dienststelle für Arbeitnehmerschutz und Arbeitsverhältnisse sowie die Suva
 
 #### Art. 7
 
-**Koordinationsorgan - a) Einsetzung**
+**Koordinationsorgan a) Einsetzung**
 
 <sup>1</sup> Der Staatsrat ernennt ein Koordinationsorgan (nachfolgend: KO) für die Sicherheit und den Gesundheitsschutz am Arbeitsplatz in der kantonalen Verwaltung.
 
@@ -86,21 +88,18 @@ Die Dienststelle für Arbeitnehmerschutz und Arbeitsverhältnisse sowie die Suva
 
 <sup>4</sup> Das KO legt seine Arbeitsweise fest.
 
-#### Art. 8 b
+#### Art. 8
 
-**) Auftrag**
+**b) Auftrag**
 
 <sup>1</sup> Das KO ist das strategische Organ für die Umsetzung des SGA-Systems.
 
 <sup>2</sup> Es hat insbesondere folgende Aufgaben:
 
-- es schlägt dem Staatsrat die Grundsätze der Politik und die Ziele des SGA-Systems vor;
-
-- es bezeichnet die Einheiten, die besonderen Gefahren ausgesetzt sind (im Sinne der ASA-Richtlinie Nr. 6508);
-
-- es legt die Aufgaben und Verantwortlichkeiten der in den Artikeln 9 bis 16 vorerwähnten Organe und Personen fest;
-
-- es genehmigt die spezifischen Branchenlösungen oder Standardlösungen und koordiniert sie gegebenenfalls mit der Branchenlösung.
+- a) es schlägt dem Staatsrat die Grundsätze der Politik und die Ziele des SGA-Systems vor;
+- b) es bezeichnet die Einheiten, die besonderen Gefahren ausgesetzt sind (im Sinne der ASA-Richtlinie Nr. 6508);
+- c) es legt die Aufgaben und Verantwortlichkeiten der in den Artikeln 9 bis 16 vorerwähnten Organe und Personen fest;
+- d) es genehmigt die spezifischen Branchenlösungen oder Standardlösungen und koordiniert sie gegebenenfalls mit der Branchenlösung.
 
 #### Art. 9
 
@@ -116,7 +115,7 @@ Die Dienststelle für Arbeitnehmerschutz und Arbeitsverhältnisse sowie die Suva
 
 **Fachstelle**
 
-Die Dienststelle für Personal und Organisation ist die für Sicherheit und Gesundheitsschutz am Arbeitsplatz in der kantonalen Verwaltung zuständige Fachstelle. Die Fachstelle ist das operative Organ der KO für die Umsetzung des SGA-Systems.
+<sup>1</sup> Die Dienststelle für Personal und Organisation ist die für Sicherheit und Gesundheitsschutz am Arbeitsplatz in der kantonalen Verwaltung zuständige Fachstelle. Die Fachstelle ist das operative Organ der KO für die Umsetzung des SGA-Systems.
 
 #### Art. 11
 
@@ -128,23 +127,23 @@ Die Dienststelle für Personal und Organisation ist die für Sicherheit und Gesu
 
 #### Art. 12
 
-**Ausschüsse für Hygiene und Sicherheit - a) Bildung**
+**Ausschüsse für Hygiene und Sicherheit a) Bildung**
 
 <sup>1</sup> In jeder Einheit mit besonderen Gefahren (im Sinne der ASA-Richtlinie Nr. 6508) werden Ausschüsse für Hygiene und Sicherheit gebildet (nachfolgend: AHS).
 
 <sup>2</sup> Haben sich mehrere Einheiten mit besonderen Gefahren zu einer Risikoeinheit im Sinne von Artikel 9 Absatz 3 zusammengeschlossen, so können sie in gegenseitigem Einvernehmen und mit Zustimmung des SGA-Verantwortlichen einen einzigen Ausschuss bilden.
 
-#### Art. 13 b
+#### Art. 13
 
-**) Zusammensetzung**
+**b) Zusammensetzung**
 
 <sup>1</sup> Der AHS wird vom Chef präsidiert. Bei einer Risikoeinheit wird er von einem der betroffenen Chefs präsidiert.
 
 <sup>2</sup> Er setzt sich zudem zusammen aus Mitarbeitern, die über branchenspezifische Kenntnisse in Gesundheitsschutz und Sicherheit verfügen, sowie aus den nötigen ASA-Spezialisten.
 
-#### Art. 14 c
+#### Art. 14
 
-**) Auftrag**
+**c) Auftrag**
 
 <sup>1</sup> Der AHS koordiniert die notwendigen Strukturen zur Umsetzung der Massnahmen für die Sicherheit und den Gesundheitsschutz am Arbeitsplatz in der Einheit, für die er bezeichnet wurde.
 
@@ -158,9 +157,7 @@ Die Dienststelle für Personal und Organisation ist die für Sicherheit und Gesu
 
 <sup>2</sup> Haben sich mehrere Einheiten ohne besondere Gefahren zu einer Risikoeinheit nach Artikel 9 Absatz 3 zusammen geschlossen, können sie in gegenseitigem Einvernehmen und mit der Zustimmung des SGA-Verantwortlichen eine einzige Kontaktperson bezeichnen.
 
-<sup>3</sup> Die KGS übermittelt die Informationen im Bereich des Gesundheitsschutzes und der Sicherheit am Arbeitsplatz innerhalb ihrer Einheit und sorgt für eine vorschriftsgemässe Anwendung der Gesundheitsschutzmassnahmen am Arbeitsplatz des Personals. Sie ist zudem Verbindungsorgan zwischen dem Personal, der Fachstelle und dem KO.
-
-**Sicherheits- und**
+<sup>3</sup> Die KGS übermittelt die Informationen im Bereich des Gesundheitsschutzes und der Sicherheit am Arbeitsplatz innerhalb ihrer Einheit und sorgt für eine vorschriftsgemässe Anwendung der Sicherheits- und Gesundheitsschutzmassnahmen am Arbeitsplatz des Personals. Sie ist zudem Verbindungsorgan zwischen dem Personal, der Fachstelle und dem KO.
 
 <sup>4</sup> Die Aufgaben der KGS werden vom SGA-Verantwortlichen auf Antrag des Chefs genehmigt.
 
@@ -176,7 +173,7 @@ Die Dienststelle für Personal und Organisation ist die für Sicherheit und Gesu
 
 <sup>4</sup> Bei Gefahr für die Gesundheit und wenn der Chef nicht die notwendigen Massnahmen ergreift, kann jeder Mitarbeiter die Aufsichtsbehörde gemäss Artikel 4 kontaktieren.
 
-### 3. Abschnitt: Ausbildung
+## 3 Ausbildung
 
 #### Art. 17
 
@@ -184,14 +181,12 @@ Die Dienststelle für Personal und Organisation ist die für Sicherheit und Gesu
 
 <sup>2</sup> Die Fachstelle bietet die Teilnehmer für die obligatorischen Kurse auf.
 
-### 4. Abschnitt: Schluss- und Übergangsbestimmungen
+## 4 Schluss- und Übergangsbestimmungen
 
 #### Art. 18
 
-**Veröffentlichung und In-Kraft-Treten**
+**Veröffentlichung und Inkrafttreten**
 
-Das vorliegende Reglement wird im Amtsblatt publiziert um am 1. März 2008 in Kraft zu treten.
+<sup>1</sup> Das vorliegende Reglement wird im Amtsblatt publiziert um am 1. März 2008 in Kraft zu treten.
 
-So beschlossen im Staatsrat zu Sitten, den 10. Dezember 2007.
-
-Der Präsident des Staatsrates: Jean-Jacques Rey-Bellet Der Staatskanzler: Henri v. Roten
+CSW BO/Abl. 3/2008
