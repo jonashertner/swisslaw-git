@@ -4,13 +4,13 @@ number: "941.11"
 title: Altersbetreuungs- und Pflegeverordnung
 short: APV
 language: de
-version: 2023-01-01
-valid_until: 2023-12-31
-version_adopted: 2023-01-24
+version: 2024-01-01
+valid_until: 2024-12-31
+version_adopted: 2024-01-23
 adopted: 2018-03-20
 in_force: 2018-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/941.11"
-pdf: "https://bl.clex.ch/api/de/versions/3724/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3879/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3724/pdf_file"
 
 (APV)
 
-Vom 20.03.2018 (Stand 01.01.2023)
+Vom 20.03.2018 (Stand 01.01.2024)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -164,7 +164,7 @@ beschliesst:
 
 **Kostenrechnung und Leistungsstatistik**
 
-<sup>1</sup> Die stationären Pflegeeinrichtungen erstellen die Kostenrechnung, die Anlagebuchhaltung und die Leistungsstatistik gemäss der Erfassungsmethodik der Fachgruppe Monitoring APH vom Dezember 2022 (Anhang 1).
+<sup>1</sup> Die stationären Pflegeeinrichtungen erstellen die Kostenrechnung, die Anlagebuchhaltung und die Leistungsstatistik gemäss der Erfassungsmethodik der Fachgruppe Monitoring APH vom Dezember 2023 (Anhang 1).
 
 <sup>2</sup> Sie lassen sich die Einhaltung der Erfassungsmethodik durch eine akkreditierte Revisionsstelle bestätigen und reichen die Bestätigung der Direktion sowie den Gemeinden und Versorgungsregionen, mit welchen sie eine Leistungsvereinbarung abgeschlossen haben, bis Ende Mai des Folgejahres ein.
 
