@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 14. Dezember 2001 über Filmproduktion und Filmkultur (
 short: FiG
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/283"
 language: de
-version: 2022-01-01
+version: 2024-01-01
 adopted: 2001-12-14
 in_force: 2002-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/283/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2002-283-20220101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/283/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/283/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2002-283-20240101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/283/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/283/20220101/de"
 
 (Filmgesetz, FiG)
 
-vom 14. Dezember 2001 (Stand am 1. Januar 2022)
+vom 14. Dezember 2001 (Stand am 1. Januar 2024)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -100,13 +100,22 @@ Der Bund kann herausragende Leistungen in der Filmproduktion und Filmkultur mit 
 
 #### Art. 8
 
-**Selektive, erfolgsabhängige und standortbezogene Filmförderung**[^8-1]
+**Filmförderung[^8-2]**[^8-1]
 
-<sup>1</sup> Die Finanzhilfen werden nach Qualitätskriterien (selektive Förderung), nach Erfolgskriterien (erfolgsabhängige Filmförderung) oder nach standortbezogenen Kriterien (Standortförderung) zugesprochen.
+<sup>1</sup>
+
+Die Finanzhilfen werden zugesprochen:
+
+- a. nach Qualitätskriterien (selektive Förderung);
+- b. nach Erfolgskriterien (erfolgsabhängige Filmförderung);
+- c. nach standortbezogenen Kriterien (Standortförderung); oder
+- d. nach Massgabe des geleisteten Beitrags zur Vielfalt und Qualität des Filmangebots in allen Landesteilen (Vielfaltsförderung).[^8-3]
 
 <sup>2</sup> Das Eidgenössische Departement des Innern (EDI) legt die Voraussetzungen, insbesondere die Reinvestitionsverpflichtungen, und das Verfahren fest.
 
 [^8-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2015, in Kraft seit 1. Juli 2016 ([AS 2015 5637](https://fedlex.data.admin.ch/eli/oc/2015/882); [BBl 2015 497](https://fedlex.data.admin.ch/eli/fga/2015/45)).
+[^8-2]: Fassung gemäss Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2024 ([AS 2023 531](https://fedlex.data.admin.ch/eli/oc/2023/531); [BBl 2020 3131](https://fedlex.data.admin.ch/eli/fga/2020/725)).
+[^8-3]: Fassung gemäss Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2024 ([AS 2023 531](https://fedlex.data.admin.ch/eli/oc/2023/531); [BBl 2020 3131](https://fedlex.data.admin.ch/eli/fga/2020/725)).
 
 #### Art. 9
 
@@ -124,7 +133,11 @@ Der Bund kann herausragende Leistungen in der Filmproduktion und Filmkultur mit 
 
 **Leistungsvereinbarungen**
 
-Der Bund kann mit juristischen Personen, die regelmässig Finanzhilfen beziehen, Leistungsvereinbarungen abschliessen.
+<sup>1</sup> Der Bund kann mit juristischen Personen, die regelmässig Finanzhilfen beziehen, Leistungsvereinbarungen abschliessen.
+
+<sup>2</sup> Ausgeschlossen sind wiederkehrende Betriebsbeiträge an gewinnorientierte Unternehmen.[^10-1]
+
+[^10-1]: Eingefügt durch Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2024 ([AS 2023 531](https://fedlex.data.admin.ch/eli/oc/2023/531); [BBl 2020 3131](https://fedlex.data.admin.ch/eli/fga/2020/725)).
 
 ### 3. Abschnitt: Förderungskonzepte und Evaluation
 
@@ -165,13 +178,13 @@ Der Bund kann mit juristischen Personen, die regelmässig Finanzhilfen beziehen,
 
 **Entscheide über Finanzhilfen und andere Formen der Unterstützung**
 
-<sup>1</sup> Finanzhilfen und andere Formen der Unterstützung werden vom zuständigen Bundesamt[^14-1] (Bundesamt) zugesprochen.
+<sup>1</sup> Finanzhilfen und andere Formen der Unterstützung werden vom Bundesamt für Kultur (BAK)[^14-1] zugesprochen.
 
-<sup>2</sup> Wenn es dem Bundesamt an Sachkenntnis mangelt, lässt es die Gesuche durch Fachkommissionen oder beauftragte Experten oder Expertinnen begutachten.
+<sup>2</sup> Wenn es dem BAK an Sachkenntnis mangelt, lässt es die Gesuche durch Fachkommissionen oder beauftragte Experten oder Expertinnen begutachten.
 
 <sup>3</sup> …[^14-2]
 
-[^14-1]: Zurzeit das Bundesamt für Kultur.
+[^14-1]: Ausdruck gemäss Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2024 ([AS 2023 531](https://fedlex.data.admin.ch/eli/oc/2023/531); [BBl 2020 3131](https://fedlex.data.admin.ch/eli/fga/2020/725)). Die Änd. wurde in den in der AS genannten Bestimmungen berücksichtigt.
 [^14-2]: Aufgehoben durch Anhang Ziff. 41 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, mit Wirkung seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 15
@@ -180,12 +193,19 @@ Der Bund kann mit juristischen Personen, die regelmässig Finanzhilfen beziehen,
 
 <sup>1</sup> Die Finanzierung der Filmförderung richtet sich nach Artikel 27 des Kulturförderungsgesetzes vom 11. Dezember 2009[^15-1].[^15-2]
 
-<sup>2</sup> Einnahmen aus der Abgabe zur Förderung der Angebotsvielfalt, Beiträge von Fernsehveranstaltern sowie allfällige Leistungen und Zuwendungen Dritter werden in der Finanzrechnung vereinnahmt und zweckgebunden für die Filmförderung verwendet.
+<sup>2</sup>
 
-<sup>3</sup> Das Bundesamt teilt die zur Verfügung stehenden Mittel jährlich den Förderungsbereichen nach den Artikeln 3–6 zu. Dabei berücksichtigt sie die Förderungskonzepte und legt in den jeweiligen Förderungsbereichen die Höchstbeiträge fest, die den einzelnen Projekten zugesprochen werden können.
+Einnahmen aus der Abgabe zur Förderung der Angebotsvielfalt, Beiträge von Fernsehveranstaltern und Online-Filmanbietern sowie allfällige Leistungen und Zuwendungen Dritter werden in der Finanzrechnung vereinnahmt. Die Verwendungszwecke sind:
+
+- a. Aufgaben nach den Artikeln 3–6;
+- b. Aufgaben im Zusammenhang mit der Erhebung der Abgabe;
+- c. Aufgaben im Zusammenhang mit dem Vollzug des 3*a*. Kapitels.[^15-3]
+
+<sup>3</sup> Das BAK teilt die zur Verfügung stehenden Mittel jährlich den Förderungsbereichen nach den Artikeln 3–6 zu. Dabei berücksichtigt es die Förderungskonzepte und legt in den jeweiligen Förderungsbereichen die Höchstbeiträge fest, die den einzelnen Projekten zugesprochen werden können.
 
 [^15-1]: [SR 442.1](https://fedlex.data.admin.ch/eli/cc/2011/854)
 [^15-2]: Fassung gemäss Anhang Ziff. II 3 des Kulturförderungsgesetzes vom 11. Dez. 2009, in Kraft seit 1. Jan. 2012 ([AS 2011 6127](https://fedlex.data.admin.ch/eli/oc/2011/854); [BBl 2007 4819](https://fedlex.data.admin.ch/eli/fga/2007/681)[4857](https://fedlex.data.admin.ch/eli/fga/2007/683)).
+[^15-3]: Fassung gemäss Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2024 ([AS 2023 531](https://fedlex.data.admin.ch/eli/oc/2023/531); [BBl 2020 3131](https://fedlex.data.admin.ch/eli/fga/2020/725)).
 
 ### 5. Abschnitt: Ausschluss von der Filmförderung
 
@@ -247,13 +267,23 @@ Die Angebotsvielfalt in einer Kinoregion ist gewährleistet, wenn die angebotene
 [^19-2]: [SR 784.40](https://fedlex.data.admin.ch/eli/cc/2007/150)
 [^19-3]: Eingefügt durch Ziff. I des BG vom 19. Juni 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5637](https://fedlex.data.admin.ch/eli/oc/2015/882); [BBl 2015 497](https://fedlex.data.admin.ch/eli/fga/2015/45)).
 
+#### Art. 19a
+
+**Zugang zum Filmerbe**[^19a-1]
+
+<sup>1</sup> Vom Bund unterstützte Filme sind in der Stiftung «Cinémathèque Suisse» hinterlegt.
+
+<sup>2</sup> Nach Ablauf von fünf Jahren seit ihrer Veröffentlichung können sie der Öffentlichkeit zugänglich gemacht werden.
+
+[^19a-1]: Eingefügt durch Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2024 ([AS 2023 531](https://fedlex.data.admin.ch/eli/oc/2023/531); [BBl 2020 3131](https://fedlex.data.admin.ch/eli/fga/2020/725)).
+
 #### Art. 20
 
 **Evaluation und Nachbesserung**
 
-<sup>1</sup> Das Bundesamt evaluiert auf Grund der Angaben von Artikel 24 periodisch die Wirkung der Tätigkeiten und Massnahmen nach Artikel 17. Es veröffentlicht die Ergebnisse der Evaluation und gibt der Branche, insbesondere den Trägerorganisationen von Vereinbarungen nach Artikel 17 Absatz 3, Gelegenheit zur Stellungnahme.
+<sup>1</sup> Das BAK evaluiert auf Grund der Angaben von Artikel 24 periodisch die Wirkung der Tätigkeiten und Massnahmen nach Artikel 17. Es veröffentlicht die Ergebnisse der Evaluation und gibt der Branche, insbesondere den Trägerorganisationen von Vereinbarungen nach Artikel 17 Absatz 3, Gelegenheit zur Stellungnahme.
 
-<sup>2</sup> Stellt das Bundesamt bei der Evaluation fest, dass die Angebotsvielfalt in einer Kinoregion fehlt, fordert es die beteiligten Verleih- und Vorführunternehmen auf, innert angemessener Frist Massnahmen zur Wiederherstellung der Angebotsvielfalt zu treffen.
+<sup>2</sup> Stellt das BAK bei der Evaluation fest, dass die Angebotsvielfalt in einer Kinoregion fehlt, fordert es die beteiligten Verleih- und Vorführunternehmen auf, innert angemessener Frist Massnahmen zur Wiederherstellung der Angebotsvielfalt zu treffen.
 
 <sup>3</sup> In Bezug auf Verleih- und Vorführunternehmen, die eine Vereinbarung nach Artikel 17 Absatz 3 unterzeichnet haben, ergeht der Auftrag an die Trägerorganisation. Diese trifft selbstständig die notwendigen Massnahmen, um innert angemessener Frist die Angebotsvielfalt wiederherzustellen.
 
@@ -289,26 +319,144 @@ Die Angebotsvielfalt in einer Kinoregion ist gewährleistet, wenn die angebotene
 
 <sup>2</sup> Registriert werden kann nur, wer Wohnsitz oder Sitz in der Schweiz hat.
 
-<sup>3</sup> Ist das Unternehmen eine juristische Person, so müssen die Mitglieder der Geschäftsleitung Wohnsitz in der Schweiz haben. Wechsel des leitenden Personals sind dem Bundesamt zu melden.
+<sup>3</sup> Ist das Unternehmen eine juristische Person, so müssen die Mitglieder der Geschäftsleitung Wohnsitz in der Schweiz haben. Wechsel des leitenden Personals sind dem BAK zu melden.
 
 #### Art. 24
 
 **Meldepflichten**
 
-<sup>1</sup> Die geförderten Produktionsunternehmen melden jährlich die Titel und die technischen Angaben sowie die Auswertungsergebnisse im In- und Ausland der von ihnen hergestellten Filme.
+<sup>1</sup> …[^24-1]
 
 <sup>2</sup> Die Verleihunternehmen melden monatlich die verliehenen Filmtitel, die Vorführorte, die bespielten Leinwände und die pro Filmtitel und Leinwand erreichten Eintritte.
 
 <sup>3</sup> Die Vorführunternehmen in den Schlüsselstädten melden wöchentlich, die übrigen Vorführunternehmen monatlich, die vorgeführten Filmtitel, die bespielten Leinwände und die pro Filmtitel und Leinwand erreichten Eintritte.
 
-<sup>3bis</sup> Unternehmen, die Filme für die Werknutzung ausserhalb der Kinos verwerten, melden jährlich die Verwertungsergebnisse der Filme nach Sprachversionen.[^24-1]
+<sup>3bis</sup> …[^24-2]
 
 <sup>4</sup> Die Meldungen erfolgen an den Bund oder an eine von ihm anerkannte Organisation.
 
-<sup>5</sup> Die Daten nach den Absätzen 2, 3 und 3<sup>bis</sup> werden periodisch veröffentlicht.[^24-2]
+<sup>5</sup> Die Daten nach den Absätzen 2 und 3 werden periodisch veröffentlicht.[^24-3]
 
-[^24-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5637](https://fedlex.data.admin.ch/eli/oc/2015/882); [BBl 2015 497](https://fedlex.data.admin.ch/eli/fga/2015/45)).
-[^24-2]: Fassung gemäss Ziff. I des BG vom 19. Juni 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5637](https://fedlex.data.admin.ch/eli/oc/2015/882); [BBl 2015 497](https://fedlex.data.admin.ch/eli/fga/2015/45)).
+[^24-1]: Aufgehoben durch Ziff. I des BG vom 1. Okt. 2021, mit Wirkung seit 1. Jan. 2024 ([AS 2023 531](https://fedlex.data.admin.ch/eli/oc/2023/531); [BBl 2020 3131](https://fedlex.data.admin.ch/eli/fga/2020/725)).
+[^24-2]: Eingefügt durch Ziff. I des BG vom 19. Juni 2015 ([AS 2015 5637](https://fedlex.data.admin.ch/eli/oc/2015/882); [BBl 2015 497](https://fedlex.data.admin.ch/eli/fga/2015/45)). Aufgehoben durch Ziff. I des BG vom 1. Okt. 2021, mit Wirkung seit 1. Jan. 2024 ([AS 2023 531](https://fedlex.data.admin.ch/eli/oc/2023/531); [BBl 2020 3131](https://fedlex.data.admin.ch/eli/fga/2020/725)).
+[^24-3]: Fassung gemäss Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2024 ([AS 2023 531](https://fedlex.data.admin.ch/eli/oc/2023/531); [BBl 2020 3131](https://fedlex.data.admin.ch/eli/fga/2020/725)).
+
+## 3*a*. Kapitel: Vorschriften zur Förderung der Vielfalt des Filmangebots ausserhalb des Kinos
+
+[^chap3a-1]
+
+[^chap3a-1]: Eingefügt durch Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2024 ([AS 2023 531](https://fedlex.data.admin.ch/eli/oc/2023/531); [BBl 2020 3131](https://fedlex.data.admin.ch/eli/fga/2020/725)).
+
+### 1. Abschnitt: Vielfalt des Filmangebots
+
+#### Art. 24a
+
+<sup>1</sup> Unternehmen, die in der Schweiz Filme über elektronische Abruf- oder Abonnementsdienste anbieten, müssen zur Förderung der Angebotsvielfalt sicherstellen, dass mindestens 30 Prozent der Filme europäische Filme sind und dass diese Filme besonders gekennzeichnet und gut auffindbar sind.
+
+<sup>2</sup> Die Pflicht nach Absatz 1 gilt auch für Unternehmen, die ihren Sitz im Ausland haben und auf das schweizerische Publikum abzielen.
+
+<sup>3</sup>
+
+Der Bundesrat nimmt Unternehmen von der Pflicht nach Absatz 1 aus, wenn:
+
+- a. sie einen bestimmten Mindestumsatz nicht erreichen;
+- b. sie nur vereinzelt Filme anbieten; oder
+- c. die Verpflichtung unverhältnismässig oder deren Einhaltung unmöglich erscheint, namentlich wegen der Art der angebotenen Filme, der thematischen Ausrichtung des Angebots oder weil Angebote Dritter unverändert angeboten werden.
+
+### 2. Abschnitt: Berücksichtigung des unabhängigen Schweizer Filmschaffens
+
+#### Art. 24b
+
+**Grundsatz**
+
+<sup>1</sup> Unternehmen, die in der Schweiz Filme in ihren Programmen zeigen oder über elektronische Abruf- oder Abonnementsdienste anbieten, müssen jährlich mindestens 4 Prozent ihrer Bruttoeinnahmen für das unabhängige Schweizer Filmschaffen aufwenden oder eine entsprechende Ersatzabgabe bezahlen. Eine Ersatzabgabe wird fällig, wenn die Investitionspflicht im Mittel über einen Zeitraum von vierJahren nicht erreicht wird.
+
+<sup>2</sup> Die Pflicht nach Absatz 1 gilt auch für Unternehmen, die ihren Sitz im Ausland haben und auf das schweizerische Publikum abzielen.
+
+<sup>3</sup> Der vorliegende Abschnitt ist nicht auf die Schweizerische Radio- und Fernsehgesellschaft (SRG) anwendbar.
+
+<sup>4</sup> Der Bundesrat erstattet vier Jahre nach Inkraftsetzen dieser Bestimmung einen Bericht über den Umfang der Investitionspflicht beziehungsweise der Ersatzabgabe gemäss den Absätzen 1 und 2 sowie über die Wirkungen dieser Investitionen und Abgaben auf das schweizerische Filmschaffen und die investitions- und abgabepflichtigen Unternehmen.
+
+#### Art. 24c
+
+**Anrechenbare Aufwendungen**
+
+<sup>1</sup> Anrechenbar sind Aufwendungen für den Ankauf, die Produktion oder Koproduktion von Schweizer Filmen und anerkannten schweizerisch-ausländischen Koproduktionen, die an vom Auftraggeber unabhängige Dritte fliessen. Der Filmbegriff richtet sich nach Artikel 2.
+
+<sup>2</sup>
+
+Anrechenbar sind die Aufwendungen für:
+
+- a. den Erwerb der Auswertungsrechte für das eigene Angebot von den Rechteinhabern und -inhaberinnen und Vergütungen für die Filmnutzung nach dem Urheberrechtsgesetz vom 9. Oktober 1992[^24c-1] an die zugelassenen Verwertungsgesellschaften;
+- b. die Herstellung von Auftragsfilmen;
+- c. die Produktion oder Koproduktion von Schweizer Filmen sowie Koproduktionen im Rahmen eines internationalen Abkommens;
+- d. die Bewerbung und Vermittlung von Filmen schweizerischer Herkunft oder die Stärkung des Filmstandorts Schweiz, insgesamt bis maximal 500 000 Franken pro Jahr und Fernsehprogramm;
+- e. vom BAK anerkannte Filmförderungsinstitutionen.
+
+<sup>3</sup> Von den Aufwendungen sind allfällige Kultur- und Filmförderungssubventionen des Bundes, der Kantone und Gemeinden sowie der mehrheitlich von diesen getragenen oder durch öffentliche Abgaben finanzierten Institutionen abzuziehen.
+
+[^24c-1]: [SR 231.1](https://fedlex.data.admin.ch/eli/cc/1993/1798_1798_1798)
+
+#### Art. 24d
+
+**Bruttoeinnahmen**
+
+<sup>1</sup> Bei Unternehmen, die ihren Sitz im Ausland haben, sind nur die aus der Schweiz zufliessenden Bruttoeinnahmen massgeblich.
+
+<sup>2</sup> Bei Unternehmen, die Netze betreiben, sind nur die aus dem Filmangebot zufliessenden Bruttoeinnahmen massgeblich.
+
+#### Art. 24e
+
+**Verfahren**
+
+<sup>1</sup> Der Bundesrat regelt das Verfahren für die Festsetzung und den Bezug der Ersatzabgabe sowie die Zusammenarbeit mit den in- und ausländischen Behörden. Er berücksichtigt dabei die berechtigten Interessen der betroffenen Unternehmen an der Wahrung ihrer Geschäftsgeheimnisse.
+
+<sup>2</sup>
+
+Unternehmen sind von der Verpflichtung zur Berücksichtigung des unabhängigen Schweizer Filmschaffens ausgenommen, wenn:
+
+- a. sie einen bestimmten Mindestumsatz nicht erreichen;
+- b. sie nur vereinzelt Filme zeigen oder anbieten; oder
+- c. die Verpflichtung unverhältnismässig oder deren Einhaltung unmöglich erscheint, namentlich wegen der Art der angebotenen Filme oder der thematischen Ausrichtung des Angebots, aufgrund der geringen Reichweite des Fernsehprogramms oder weil Programme oder Angebote Dritter unverändert angeboten werden.
+
+#### Art. 24f
+
+**Amtshilfe**
+
+Schweizerische Behörden geben dem BAK kostenlos diejenigen Daten weiter, die für den Vollzug dieses Kapitels von Bedeutung sein können. Die Daten werden einzeln, auf Listen oder auf elektronischen Datenträgern zugänglich gemacht.
+
+### 3. Abschnitt: Registrierungs-, Berichterstattungs- und Meldepflichten
+
+#### Art. 24g
+
+**Registrierungspflicht**
+
+<sup>1</sup> Unternehmen, die in der Schweiz Filme in ihrem Programm zeigen oder über elektronische Abruf- oder Abonnementsdienste anbieten, müssen sich in ein öffentliches Register des Bundes eintragen.
+
+<sup>2</sup> Ist ein Unternehmen nicht im Schweizerischen Handelsregister eingetragen, so muss es im Register nach Absatz 1 ein Zustellungsdomizil in der Schweiz angeben, und es müssen die verantwortlichen Personen genannt werden.
+
+<sup>3</sup> Änderungen sind dem BAK ohne Verzug zu melden.
+
+#### Art. 24h
+
+**Berichterstattungspflichten**
+
+<sup>1</sup>
+
+Unternehmen nach Artikel 24*g* Absatz 1 müssen dem BAK jährlich:
+
+- a. einen Bericht vorlegen, aus dem hervorgeht, ob und wie die Verpflichtungen nach Artikel 24*a* Absatz 1 erfüllt werden;
+- b. die zur Kontrolle der Verpflichtung nach Artikel 24*b* notwendigen Angaben melden, namentlich die von ihnen erzielten Bruttoeinnahmen sowie die geltend gemachten Aufwendungen für den Ankauf, die Produktion oder die Koproduktion von Schweizer Filmen und anerkannten schweizerisch-ausländischen Koproduktionen.
+
+<sup>2</sup> Unternehmen, die nach Artikel 24*a* Absatz 3 oder 24*e* Absatz 2 ausgenommen sind, berichten, wenn sich die für ihre Ausnahme massgeblichen Umstände verändert haben.
+
+#### Art. 24i
+
+**Meldepflicht**
+
+<sup>1</sup> Unternehmen, die in der Schweiz gegen Entgelt Filme über elektronische Abruf- oder Abonnementsdienste anbieten, müssen dem Bund die Anzahl Abrufe pro Filmtitel melden.
+
+<sup>2</sup> Die Daten werden periodisch veröffentlicht.
 
 ## 4. Kapitel: Kommissionen
 
@@ -346,17 +494,21 @@ Die Filmkommission ist insbesondere anzuhören:
 
 **Widerhandlung gegen die Registrierungspflicht**
 
-<sup>1</sup> Wer vorsätzlich der Registrierungspflicht nach Artikel 23 nicht nachkommt, wird mit Busse bestraft.
+<sup>1</sup> Wer vorsätzlich der Registrierungspflicht nach Artikel 23 Absätze 2 und 3 oder 24*g* Absätze 1 und 2 nicht nachkommt, wird mit Busse bestraft.[^27-1]
 
 <sup>2</sup> Wird die Widerhandlung wiederholt begangen, so ist die Strafe Busse bis zu 20 000 Franken.
+
+[^27-1]: Fassung gemäss Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2024 ([AS 2023 531](https://fedlex.data.admin.ch/eli/oc/2023/531); [BBl 2020 3131](https://fedlex.data.admin.ch/eli/fga/2020/725)).
 
 #### Art. 28
 
 **Widerhandlung gegen die Meldepflicht**
 
-<sup>1</sup> Wer es als Mitglied der Geschäftsleitung eines meldepflichtigen Unternehmens trotz Mahnung unterlässt, die geschuldeten Angaben nach Artikel 24 zu liefern oder vorsätzlich falsche Angaben macht, wird mit Busse bestraft.
+<sup>1</sup> Wer es als Mitglied der Geschäftsleitung eines Unternehmens trotz Mahnung unterlässt, die geschuldeten Angaben nach Artikel 24 Absätze 2 und 3, 24*h* oder 24*i* Absatz 1 zu liefern oder vorsätzlich falsche Angaben macht, wird mit Busse bestraft.[^28-1]
 
 <sup>2</sup> Wird die Widerhandlung wiederholt begangen, so ist die Strafe Busse bis zu 20 000 Franken.
+
+[^28-1]: Fassung gemäss Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2024 ([AS 2023 531](https://fedlex.data.admin.ch/eli/oc/2023/531); [BBl 2020 3131](https://fedlex.data.admin.ch/eli/fga/2020/725)).
 
 #### Art. 29
 
@@ -413,7 +565,10 @@ Zur Förderung der internationalen Beziehungen auf dem Gebiet des Films kann der
 - b. die finanzielle Beteiligung an internationalen Produktionen;
 - c. die Promotion von Filmen;
 - d. kulturelle Bestrebungen im Bereich des Films;
-- e. die finanzielle Beteiligung an internationalen Förderungsmassnahmen.
+- e. die finanzielle Beteiligung an internationalen Förderungsmassnahmen;
+- f.[^33-1] die behördliche Zusammenarbeit, den Datenschutz und die Anrechenbarkeit von finanziellen Beiträgen und Abgaben im Zusammenhang mit grenzüberschreitenden Tätigkeiten.
+
+[^33-1]: Eingefügt durch Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2024 ([AS 2023 531](https://fedlex.data.admin.ch/eli/oc/2023/531); [BBl 2020 3131](https://fedlex.data.admin.ch/eli/fga/2020/725)).
 
 ## 7. Kapitel: Schlussbestimmungen
 

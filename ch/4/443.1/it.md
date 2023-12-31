@@ -4,11 +4,11 @@ title: "Legge federale del 14 dicembre 2001 sulla produzione e la cultura cinema
 short: LCin
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/283"
 language: it
-version: 2022-01-01
+version: 2024-01-01
 adopted: 2001-12-14
 in_force: 2002-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/283/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2002-283-20220101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/283/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/283/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2002-283-20240101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/283/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/283/20220101/it"
 
 (Legge sul cinema, LCin)
 
-del 14 dicembre 2001 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
+del 14 dicembre 2001 (Stato 1° gennaio 2024)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -100,13 +100,22 @@ La Confederazione può assegnare premi o altre distinzioni per contributi eccezi
 
 #### Art. 8
 
-**Promozione cinematografica legata alla qualità, al successo e alla sede**[^8-1]
+**Promozione cinematografica[^8-2]**[^8-1]
 
-<sup>1</sup> Gli aiuti finanziari sono accordati sulla base di criteri legati alla qualità (promozione selettiva), al successo (promozione legata al successo) o alla sede (promozione legata alla sede di produzione).
+<sup>1</sup>
+
+Gli aiuti finanziari sono accordati:
+
+- a. sulla base di criteri legati alla qualità (promozione selettiva);
+- b. sulla base di criteri legati al successo (promozione legata al successo);
+- c. sulla base di criteri legati alla sede (promozione legata alla sede di produzione); o
+- d. in funzione del contributo fornito alla pluralità e alla qualità dell’offerta cinematografica in tutte le regioni del Paese (promozione della pluralità).[^8-3]
 
 <sup>2</sup> Il Dipartimento federale dell’interno (DFI) definisce le condizioni, segnatamente quelle relative all’obbligo di reinvestire, e la procedura.
 
 [^8-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2015, in vigore dal 1° lug. 2016 ([RU 2015 5637](https://fedlex.data.admin.ch/eli/oc/2015/882); [FF 2015 447](https://fedlex.data.admin.ch/eli/fga/2015/45)).
+[^8-2]: Nuovo testo giusta il n. I della LF del 1° ott. 2021, in vigore dal 1° gen. 2024 ([RU 2023 531](https://fedlex.data.admin.ch/eli/oc/2023/531); [FF 2020 2813](https://fedlex.data.admin.ch/eli/fga/2020/725)).
+[^8-3]: Nuovo testo giusta il n. I della LF del 1° ott. 2021, in vigore dal 1° gen. 2024 ([RU 2023 531](https://fedlex.data.admin.ch/eli/oc/2023/531); [FF 2020 2813](https://fedlex.data.admin.ch/eli/fga/2020/725)).
 
 #### Art. 9
 
@@ -124,7 +133,11 @@ La Confederazione può assegnare premi o altre distinzioni per contributi eccezi
 
 **Contratti di prestazioni**
 
-La Confederazione può concludere un contratto di prestazioni con persone giuridiche che ricevono regolarmente aiuti finanziari.
+<sup>1</sup> La Confederazione può concludere un contratto di prestazioni con persone giuridiche che ricevono regolarmente aiuti finanziari.
+
+<sup>2</sup> È esclusa la concessione periodica di sussidi d’esercizio a imprese che perseguono uno scopo lucrativo.[^10-1]
+
+[^10-1]: Introdotto dal n. I della LF del 1° ott. 2021, in vigore dal 1° gen. 2024 ([RU 2023 531](https://fedlex.data.admin.ch/eli/oc/2023/531); [FF 2020 2813](https://fedlex.data.admin.ch/eli/fga/2020/725)).
 
 ### Sezione 3: Principi della promozione e valutazione
 
@@ -165,13 +178,13 @@ La Confederazione può concludere un contratto di prestazioni con persone giurid
 
 **Decisioni sugli aiuti finanziari e sulle altre forme di sostegno**
 
-<sup>1</sup> Le decisioni in merito all’assegnazione di aiuti finanziari e di altre forme di sostegno sono prese dall’Ufficio federale competente[^14-1] (Ufficio).
+<sup>1</sup> Le decisioni in merito all’assegnazione di aiuti finanziari e di altre forme di sostegno sono prese dall’Ufficio federale della cultura (UFC)[^14-1].
 
-<sup>2</sup> Nei settori in cui non dispone delle necessarie conoscenze tecniche, l’Ufficio fa esaminare le domande da commissioni d’esperti o da esperti incaricati.
+<sup>2</sup> Nei settori in cui non dispone delle necessarie conoscenze tecniche, l’UFC fa esaminare le domande da commissioni d’esperti o da esperti incaricati.
 
 <sup>3</sup> ...[^14-2]
 
-[^14-1]: Attualmente l’Ufficio federale della cultura.
+[^14-1]: Nuova espr. giusta il n. I della LF del 1° ott. 2021, in vigore dal 1° gen. 2024 ([RU 2023 531](https://fedlex.data.admin.ch/eli/oc/2023/531); [FF 2020 2813](https://fedlex.data.admin.ch/eli/fga/2020/725)). Di detta mod. é tenuto conto nelle disp. menzionate nella RU.
 [^14-2]: Abrogato dall’all. n. 43 della L del 17 giu. 2005 sul Tribunale amministrativo federale, con effetto dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 15
@@ -180,12 +193,19 @@ La Confederazione può concludere un contratto di prestazioni con persone giurid
 
 <sup>1</sup> Il finanziamento della promozione della cinematografia è retto dall’articolo 27 della legge dell’11 dicembre 2009[^15-1] sulla promozione della cultura.[^15-2]
 
-<sup>2</sup> Gli introiti risultanti dalla tassa destinata alla promozione della pluralità dell’offerta, i contributi degli enti televisivi ed eventuali contributi e donazioni di terzi sono iscritti nel conto finanziario e impiegati a destinazione vincolata per la promozione della cinematografia.
+<sup>2</sup>
 
-<sup>3</sup> L’Ufficio ripartisce ogni anno i mezzi a disposizione tra i settori di promozione conformemente agli articoli 3–6. Nel fare ciò tiene conto dei principi della promozione e fissa per ogni settore gli importi massimi che possono essere assegnati per i singoli progetti.
+Gli introiti risultanti dalla tassa destinata alla promozione della pluralità dell’offerta, i contributi degli enti televisivi e degli offerenti di film in linea, nonché eventuali contributi e donazioni di terzi sono iscritti nel conto finanziario. Sono destinati:
+
+- a. ai compiti di cui agli articoli 3–6;
+- b. ai compiti connessi con la riscossione della tassa;
+- c. ai compiti connessi con l’esecuzione del capitolo 3*a*.[^15-3]
+
+<sup>3</sup> L’UFC ripartisce ogni anno i mezzi a disposizione tra i settori di promozione conformemente agli articoli 3–6. Nel fare ciò tiene conto dei principi della promozione e fissa per ogni settore gli importi massimi che possono essere assegnati per i singoli progetti.
 
 [^15-1]: [RS 442.1](https://fedlex.data.admin.ch/eli/cc/2011/854)
 [^15-2]: Nuovo testo giusta l’all. n. II 3 della LF dell’11 dic. 2009 sulla promozione della cultura, in vigore dal 1° gen. 2012 ([RU 2011 6127](https://fedlex.data.admin.ch/eli/oc/2011/854); [FF 2007 4421](https://fedlex.data.admin.ch/eli/fga/2007/681)[4459](https://fedlex.data.admin.ch/eli/fga/2007/683)).
+[^15-3]: Nuovo testo giusta il n. I della LF del 1° ott. 2021, in vigore dal 1° gen. 2024 ([RU 2023 531](https://fedlex.data.admin.ch/eli/oc/2023/531); [FF 2020 2813](https://fedlex.data.admin.ch/eli/fga/2020/725)).
 
 ### Sezione 5: Esclusione dalla promozione cinematografica
 
@@ -247,13 +267,23 @@ La pluralità dell’offerta in una regione è garantita se, tenendo conto del n
 [^19-2]: [RS 784.40](https://fedlex.data.admin.ch/eli/cc/2007/150)
 [^19-3]: Introdotto dal n. I della LF del 19 giu. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5637](https://fedlex.data.admin.ch/eli/oc/2015/882); [FF 2015 447](https://fedlex.data.admin.ch/eli/fga/2015/45)).
 
+#### Art. 19a
+
+**Accesso al patrimonio cinematografico**[^19a-1]
+
+<sup>1</sup> I film sostenuti dalla Confederazione sono depositati presso la Fondazione «Cineteca svizzera».
+
+<sup>2</sup> Trascorsi cinque anni dalla loro uscita, possono essere resi accessibili al pubblico.
+
+[^19a-1]: Introdotto dal n. I della LF del 1° ott. 2021, in vigore dal 1° gen. 2024 ([RU 2023 531](https://fedlex.data.admin.ch/eli/oc/2023/531); [FF 2020 2813](https://fedlex.data.admin.ch/eli/fga/2020/725)).
+
 #### Art. 20
 
 **Valutazione e miglioramenti**
 
-<sup>1</sup> Periodicamente, sulla scorta dei dati forniti conformemente all’articolo 24, l’Ufficio valuta l’efficacia delle attività e dei provvedimenti di cui all’articolo 17. Pubblica i risultati della valutazione e dà al settore, in particolare alle associazioni che hanno concertato accordi secondo l’articolo 17 capoverso 3, la possibilità di esprimere un parere.
+<sup>1</sup> Periodicamente, sulla scorta dei dati forniti conformemente all’articolo 24, l’UFC valuta l’efficacia delle attività e dei provvedimenti di cui all’articolo 17. Pubblica i risultati della valutazione e dà al settore, in particolare alle associazioni che hanno concertato accordi secondo l’articolo 17 capoverso 3, la possibilità di esprimere un parere.
 
-<sup>2</sup> Se nell’ambito della valutazione constata che in una determinata regione non vi è pluralità d’offerta, l’Ufficio invita le imprese di distribuzione e di proiezione interessate a prendere i provvedimenti necessari per ripristinare la pluralità dell’offerta, impartendo loro un termine adeguato.
+<sup>2</sup> Se nell’ambito della valutazione constata che in una determinata regione non vi è pluralità d’offerta, l’UFC invita le imprese di distribuzione e di proiezione interessate a prendere i provvedimenti necessari per ripristinare la pluralità dell’offerta, impartendo loro un termine adeguato.
 
 <sup>3</sup> L’attuazione dei mandati di cui all’articolo 17 capoverso 3 affidati alle imprese di distribuzione e di proiezione compete all’associazione responsabile. Quest’ultima prende di propria iniziativa i provvedimenti necessari per ripristinare la pluralità dell’offerta entro un termine adeguato.
 
@@ -289,26 +319,144 @@ La pluralità dell’offerta in una regione è garantita se, tenendo conto del n
 
 <sup>2</sup> Può figurare nel registro soltanto chi ha il domicilio o la sede in Svizzera.
 
-<sup>3</sup> Se l’impresa è una persona giuridica, i membri della sua direzione devono essere domiciliati in Svizzera. I cambiamenti del personale direttivo devono essere comunicati all’Ufficio.
+<sup>3</sup> Se l’impresa è una persona giuridica, i membri della sua direzione devono essere domiciliati in Svizzera. I cambiamenti del personale direttivo devono essere comunicati all’UFC.
 
 #### Art. 24
 
 **Obbligo di notifica**
 
-<sup>1</sup> Le imprese di produzione sostenute notificano ogni anno i titoli e i dati tecnici dei film da esse prodotti, nonché i risultati ottenuti in Svizzera e all’estero con la loro commercializzazione.
+<sup>1</sup> ...[^24-1]
 
 <sup>2</sup> Le imprese di distribuzione notificano mensilmente i titoli dei film distribuiti, i luoghi di proiezione, gli schermi sui quali vengono proiettati, nonché, per ogni film e per ogni schermo, il numero di ingressi realizzati.
 
 <sup>3</sup> Le imprese di proiezione delle città chiave notificano settimanalmente – le altre imprese di proiezione, mensilmente – i titoli dei film proiettati, gli schermi sui quali vengono proiettati, nonché, per ogni film e per ogni schermo, il numero di ingressi realizzati.
 
-<sup>3bis</sup> Le imprese che commercializzano film ad altri fini al di fuori delle sale notificano annualmente i risultati della commercializzazione dei film suddivisi per versione linguistica.[^24-1]
+<sup>3bis</sup> ...[^24-2]
 
 <sup>4</sup> Le comunicazioni sono rivolte alla Confederazione o ad un’organizzazione da lei riconosciuta.
 
-<sup>5</sup> I dati di cui ai capoversi 2, 3 e 3<sup>bis</sup> sono pubblicati periodicamente.[^24-2]
+<sup>5</sup> I dati di cui ai capoversi 2 e 3 sono pubblicati periodicamente.[^24-3]
 
-[^24-1]: Introdotto dal n. I della LF del 19 giu. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5637](https://fedlex.data.admin.ch/eli/oc/2015/882); [FF 2015 447](https://fedlex.data.admin.ch/eli/fga/2015/45)).
-[^24-2]: Nuovo testo giusta il n. I della LF del 19 giu. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5637](https://fedlex.data.admin.ch/eli/oc/2015/882); [FF 2015 447](https://fedlex.data.admin.ch/eli/fga/2015/45)).
+[^24-1]: Abrogato dal n. I della LF del 1° ott. 2021, con effetto dal 1° gen. 2024 ([RU 2023 531](https://fedlex.data.admin.ch/eli/oc/2023/531); [FF 2020 2813](https://fedlex.data.admin.ch/eli/fga/2020/725)).
+[^24-2]: Introdotto dal n. I della LF del 19 giu. 2015 ([RU 2015 5637](https://fedlex.data.admin.ch/eli/oc/2015/882); [FF 2015 447](https://fedlex.data.admin.ch/eli/fga/2015/45)). Abrogato dal n. I della LF del 1° ott. 2021, con effetto dal 1° gen. 2024 ([RU 2023 531](https://fedlex.data.admin.ch/eli/oc/2023/531); [FF 2020 2813](https://fedlex.data.admin.ch/eli/fga/2020/725)).
+[^24-3]: Nuovo testo giusta il n. I della LF del 1° ott. 2021, in vigore dal 1° gen. 2024 ([RU 2023 531](https://fedlex.data.admin.ch/eli/oc/2023/531); [FF 2020 2813](https://fedlex.data.admin.ch/eli/fga/2020/725)).
+
+## Capitolo 3*a*: Prescrizioni sulla promozione della pluralità dell’offerta cinematografica al di fuori dei cinema
+
+[^chap3a-1]
+
+[^chap3a-1]: Introdotta dal n. I della LF del 1° ott. 2021, in vigore dal 1° gen. 2024 ([RU 2023 531](https://fedlex.data.admin.ch/eli/oc/2023/531); [FF 2020 2813](https://fedlex.data.admin.ch/eli/fga/2020/725)).
+
+### Sezione 1: Pluralità dell’offerta cinematografica
+
+#### Art. 24a
+
+<sup>1</sup> Le imprese che offrono film in Svizzera tramite servizi elettronici su richiesta o in abbonamento devono garantire, ai fini della promozione della pluralità dell’offerta, che almeno il 30 per cento dei film sia costituito da film europei e che questi siano designati come tali e facilmente reperibili.
+
+<sup>2</sup> L’obbligo di cui al capoverso 1 si applica anche alle imprese con sede all’estero che si rivolgono al pubblico svizzero.
+
+<sup>3</sup>
+
+Il Consiglio federale esenta le imprese dall’obbligo di cui al capoverso 1 se:
+
+- a. non raggiungono una determinata cifra d’affari minima;
+- b. offrono film soltanto occasionalmente; o
+- c. l’obbligo appare sproporzionato o impossibile da osservare, segnatamente a causa del tipo di film offerti o dell’orientamento tematico dell’offerta o poiché le offerte di terzi sono proposte inalterate.
+
+### Sezione 2: Considerazione della creazione cinematografica svizzera indipendente
+
+#### Art. 24b
+
+**Principio**
+
+<sup>1</sup> Le imprese che in Svizzera mostrano film nei loro programmi, o li offrono tramite servizi elettronici su richiesta o in abbonamento, devono destinare ogni anno almeno il 4 per cento dei loro proventi lordi alla creazione cinematografica svizzera indipendente o versare una corrispondente tassa sostitutiva. La tassa è esigibile se la quota dei proventi da investire annualmente non è raggiunta in media su un periodo di quattro anni.
+
+<sup>2</sup> L’obbligo di cui al capoverso 1 si applica anche alle imprese con sede all’estero che si rivolgono al pubblico svizzero.
+
+<sup>3</sup> La presente sezione non si applica alla Società svizzera di radiotelevisione (SSR).
+
+<sup>4</sup> Quattro anni dopo l’entrata in vigore della presente disposizione, il Consiglio federale presenta un rapporto concernente l’entità dell’obbligo di investimento o della tassa sostitutiva di cui ai capoversi 1 e 2 e gli effetti di tali investimenti e tasse sulla creazione cinematografica svizzera e sulle imprese soggette all’obbligo di investimento o di versare la tassa.
+
+#### Art. 24c
+
+**Spese computabili**
+
+<sup>1</sup> Sono computabili le spese sostenute per l’acquisto, la produzione o la coproduzione di film svizzeri e di film riconosciuti come coproduzioni svizzere con l’estero destinate a terzi indipendenti dal committente. La nozione di film è retta dall’articolo 2.
+
+<sup>2</sup>
+
+Sono computabili le spese per:
+
+- a. l’acquisto dei diritti di commercializzazione dell’offerta propria dei titolari dei diritti e i compensi dovuti alle società di gestione autorizzate per l’utilizzazione dei film secondo la legge del 9 ottobre 1992[^24c-1] sul diritto d’autore;
+- b. la realizzazione di film su ordinazione;
+- c. la produzione o coproduzione di film svizzeri, nonché coproduzioni nell’ambito di un accordo internazionale;
+- d. la promozione e la mediazione di film di origine svizzera o il rafforzamento della piazza cinematografica svizzera, fino a concorrenza di un importo totale di 500 000 franchi all’anno e per programma televisivo;
+- e. le istituzioni di promozione della cinematografia riconosciute dall’UFC.
+
+<sup>3</sup> Dalle spese vanno dedotti gli eventuali sussidi per la promozione della cultura e della cinematografia versati da Confederazione, Cantoni e Comuni, nonché da istituzioni prevalentemente sostenute da questi o finanziate mediante tributi pubblici.
+
+[^24c-1]: [RS 231.1](https://fedlex.data.admin.ch/eli/cc/1993/1798_1798_1798)
+
+#### Art. 24d
+
+**Proventi lordi**
+
+<sup>1</sup> Per le imprese con sede all’estero sono determinanti soltanto i proventi lordi realizzati in Svizzera.
+
+<sup>2</sup> Per le imprese che gestiscono reti sono determinanti soltanto i proventi lordi risultanti dalla propria offerta cinematografica.
+
+#### Art. 24e
+
+**Procedura**
+
+<sup>1</sup> Il Consiglio federale disciplina la procedura di determinazione e di riscossione della tassa sostitutiva, nonché la collaborazione con le autorità svizzere ed estere. In tale ambito tiene conto degli interessi legittimi delle imprese interessate alla salvaguardia dei loro segreti d’affari.
+
+<sup>2</sup>
+
+Le imprese sono esentate dall’obbligo di prendere in considerazione la creazione cinematografica svizzera indipendente se:
+
+- a. non raggiungono una determinata cifra d’affari minima;
+- b. mostrano od offrono film soltanto occasionalmente; o
+- c. l’obbligo appare sproporzionato o impossibile da osservare, segnatamente a causa del tipo di film offerti, dell’orientamento tematico dell’offerta o della limitata penetrazione del programma televisivo o poiché i programmi o le offerte di terzi sono proposti inalterati.
+
+#### Art. 24f
+
+**Assistenza amministrativa**
+
+Le autorità svizzere trasmettono gratuitamente all’UFC i dati che potrebbero essere importanti per l’esecuzione del presente capitolo. I dati sono resi accessibili singolarmente, mediante liste o su supporti elettronici.
+
+### Sezione 3: Obbligo di registrazione, di fare rapporto e di notifica
+
+#### Art. 24g
+
+**Obbligo di registrazione**
+
+<sup>1</sup> Le imprese che in Svizzera mostrano film nei loro programmi, o li offrono tramite servizi elettronici su richiesta o in abbonamento, devono iscriversi in un registro pubblico della Confederazione.
+
+<sup>2</sup> Le imprese non iscritte nel registro svizzero di commercio devono indicare nel registro di cui al capoverso 1 un recapito in Svizzera e le persone responsabili.
+
+<sup>3</sup> Le modifiche devono essere comunicate senza indugio all’UFC.
+
+#### Art. 24h
+
+**Obbligo di fare rapporto**
+
+<sup>1</sup>
+
+Le imprese di cui all’articolo 24*g* capoverso 1 devono ogni anno:
+
+- a. presentare all’UFC un rapporto che indichi se e come sono adempiuti gli obblighi di cui all’articolo 24*a* capoverso 1;
+- b. notificare all’UFC i dati necessari al controllo dell’adempimento degli obblighi di cui all’articolo 24*b*, segnatamente l’importo dei proventi lordi realizzati e le spese fatte valere per l’acquisto, la produzione o la coproduzione di film svizzeri e di film riconosciuti come coproduzioni svizzere con l’estero.
+
+<sup>2</sup> Le imprese esentate in virtù dell’articolo 24*a* capoverso 3 o 24*e* capoverso 2 comunicano se le circostanze determinanti per l’esenzione sono mutate.
+
+#### Art. 24i
+
+**Obbligo di notifica**
+
+<sup>1</sup> Le imprese che offrono film a pagamento in Svizzera tramite servizi elettronici su richiesta o in abbonamento devono notificare alla Confederazione il numero di richieste per ogni film.
+
+<sup>2</sup> I dati sono pubblicati periodicamente.
 
 ## Capitolo 4: Commissioni
 
@@ -346,17 +494,21 @@ La Commissione del cinema dev’essere consultata segnatamente in merito:
 
 **Infrazioni all’obbligo di registrazione**
 
-<sup>1</sup> Chiunque, intenzionalmente, non adempie l’obbligo di registrazione di cui all’articolo 23, è punito con la multa.
+<sup>1</sup> Chiunque, intenzionalmente, non adempie l’obbligo di registrazione di cui all’articolo 23 capoversi 2 e 3 o 24*g* capoversi 1 e 2, è punito con la multa.[^27-1]
 
 <sup>2</sup> In caso di infrazione continuata, la pena è la multa fino a 20 000 franchi.
+
+[^27-1]: Nuovo testo giusta il n. I della LF del 1° ott. 2021, in vigore dal 1° gen. 2024 ([RU 2023 531](https://fedlex.data.admin.ch/eli/oc/2023/531); [FF 2020 2813](https://fedlex.data.admin.ch/eli/fga/2020/725)).
 
 #### Art. 28
 
 **Infrazione all’obbligo di notifica**
 
-<sup>1</sup> Chiunque, come membro della direzione di un’impresa soggetta all’obbligo di notifica, omette di notificare i dati che egli ha l’obbligo di notificare conformemente all’articolo 24 oppure fornisce intenzionalmente false informazioni in proposito, nonostante sia stato diffidato, è punito con la multa.
+<sup>1</sup> Chiunque, come membro della direzione di un’impresa, omette di notificare i dati che ha l’obbligo di notificare conformemente all’articolo 24 capoversi 2 e 3, 24*h* o 24*i* capoverso 1 nonostante sia stato diffidato, oppure fornisce intenzionalmente false informazioni in proposito, è punito con la multa.[^28-1]
 
 <sup>2</sup> In caso di infrazione continuata, la pena è la multa fino a 20 000 franchi.
+
+[^28-1]: Nuovo testo giusta il n. I della LF del 1° ott. 2021, in vigore dal 1° gen. 2024 ([RU 2023 531](https://fedlex.data.admin.ch/eli/oc/2023/531); [FF 2020 2813](https://fedlex.data.admin.ch/eli/fga/2020/725)).
 
 #### Art. 29
 
@@ -407,13 +559,17 @@ La Commissione del cinema dev’essere consultata segnatamente in merito:
 
 **Cooperazione internazionale**
 
-Per promuovere le relazioni internazionali nel settore cinematografico, il Consiglio federale può stipulare accordi di diritto internazionale o contratti di diritto privato riguardanti in particolare:
+Per promuovere le relazioni internazionali nel settore cinematografico, il Consiglio federale può stipulare accordi di diritto internazionale o contratti di diritto privato riguardanti segnatamente:[^33-1]
 
 - a. le coproduzioni;
 - b. la partecipazione finanziaria a produzioni internazionali;
 - c. la promozione di film;
 - d. iniziative culturali nel settore cinematografico;
-- e. la partecipazione finanziaria a provvedimenti di promozione internazionali.
+- e. la partecipazione finanziaria a provvedimenti di promozione internazionali;
+- f.[^33-2] la cooperazione tra le autorità, la protezione dei dati e la computabilità dei contributi finanziari e delle tasse legati alle attività transfrontaliere.
+
+[^33-1]: Nuovo testo giusta il n. I della LF del 1° ott. 2021, in vigore dal 1° gen. 2024 ([RU 2023 531](https://fedlex.data.admin.ch/eli/oc/2023/531); [FF 2020 2813](https://fedlex.data.admin.ch/eli/fga/2020/725)).
+[^33-2]: Introdotta dal n. I della LF del 1° ott. 2021, in vigore dal 1° gen. 2024 ([RU 2023 531](https://fedlex.data.admin.ch/eli/oc/2023/531); [FF 2020 2813](https://fedlex.data.admin.ch/eli/fga/2020/725)).
 
 ## Capitolo 7: Disposizioni finali
 
@@ -439,7 +595,7 @@ La legge federale del 28 settembre 1962[^35-1] sulla cinematografia è abrogata.
 
 I seguenti testi di legge sono modificati come segue:
 
-…[^36-1]
+...[^36-1]
 
 [^36-1]: Le mod. possono essere consultate alla [RU 2002 1904](https://fedlex.data.admin.ch/eli/oc/2002/283).
 

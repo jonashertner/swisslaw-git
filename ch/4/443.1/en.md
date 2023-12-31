@@ -4,11 +4,11 @@ title: "Federal Act of 14 December 2001 on Film Production and Film Culture (Fil
 short: FiA
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/283"
 language: en
-version: 2022-01-01
+version: 2024-01-01
 adopted: 2001-12-14
 in_force: 2002-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/283/20220101/en/xml/fedlex-data-admin-ch-eli-cc-2002-283-20220101-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/283/20220101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/283/20240101/en/xml/fedlex-data-admin-ch-eli-cc-2002-283-20240101-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/283/20240101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Film Act, FiA)
 
-of 14 December 2001 (Status as of 1 January 2022)
+of 14 December 2001 (Status as of 1 January 2024)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -102,13 +102,22 @@ The Confederation may reward outstanding contributions to film production and fi
 
 #### Art. 8
 
-**Selective and success- or location-linked film promotion**[^8-1]
+**Film promotion[^8-2]**[^8-1]
 
-<sup>1</sup> Financial assistance is provided in accordance with criteria related to quality (selective promotion), success (success-linked promotion) or location (location-linked promotion).
+<sup>1</sup>
+
+Financial assistance is provided:
+
+- a. according to criteria related to quality (selective promotion);
+- b. according to criteria related to success (success-linked promotion);
+- c. according to criteria related to location (location-linked promotion); or
+- d. according to the contribution made to the diversity and quality of the films on offer in all parts of the country (diversity promotion).[^8-3]
 
 <sup>2</sup> The Federal Department of Home Affairs (FDHA) determines the requirements, in particular the reinvestment obligations, and the procedure.
 
 [^8-1]: Amended by No I of the FA of 19 June 2015, in force since 1 July 2016 ([AS 2015 5637](https://fedlex.data.admin.ch/eli/oc/2015/882); [BBl 2015 497](https://fedlex.data.admin.ch/eli/fga/2015/45)).
+[^8-2]: Amended by No I of the FA of 1 Oct. 2021, in force since 1 Jan. 2024 ([AS 2023 531](https://fedlex.data.admin.ch/eli/oc/2023/531); [BBl 2020 3131](https://fedlex.data.admin.ch/eli/fga/2020/725)).
+[^8-3]: Amended by No I of the FA of 1 Oct. 2021, in force since 1 Jan. 2024 ([AS 2023 531](https://fedlex.data.admin.ch/eli/oc/2023/531); [BBl 2020 3131](https://fedlex.data.admin.ch/eli/fga/2020/725)).
 
 #### Art. 9
 
@@ -126,7 +135,11 @@ The Confederation may reward outstanding contributions to film production and fi
 
 **Service agreements**
 
-The Confederation may enter into service agreements with legal entities that regularly receive financial assistance.
+<sup>1</sup> The Confederation may enter into service agreements with legal entities that regularly receive financial assistance.
+
+<sup>2</sup> Recurring operating contributions to profit-oriented companies are excluded.[^10-1]
+
+[^10-1]: Inserted by No I of the FA of 1 Oct. 2021, in force since 1 Jan. 2024 ([AS 2023 531](https://fedlex.data.admin.ch/eli/oc/2023/531); [BBl 2020 3131](https://fedlex.data.admin.ch/eli/fga/2020/725)).
 
 ### Section 3 Promotion Concepts and Assessment
 
@@ -167,13 +180,13 @@ The Confederation may enter into service agreements with legal entities that reg
 
 **Decisions on financial assistance and other forms of support**
 
-<sup>1</sup> Financial assistance and other forms of support are awarded by the Federal Office[^14-1] responsible (Federal Office).
+<sup>1</sup> Financial assistance and other forms of support are awarded by the Federal Office of Culture (FOC)[^14-1].
 
-<sup>2</sup> If the Federal Office does not have the required technical knowledge, it shall have the applications assessed by technical committees or specially instructed experts.
+<sup>2</sup> If the FOC does not have the required technical knowledge, it shall have the applications assessed by technical committees or specially instructed experts.
 
 <sup>3</sup> …[^14-2]
 
-[^14-1]: Currently the Federal Office of Culture.
+[^14-1]: Name in accordance with No I of the FA of 1 Oct. 2021, in force since 1 Jan. 2024 ([AS 2023 531](https://fedlex.data.admin.ch/eli/oc/2023/531); [BBl 2020 3131](https://fedlex.data.admin.ch/eli/fga/2020/725)). This amendment has been made in the provisions specified in the AS.
 [^14-2]: Repealed by Annex No 41 of the Administrative Court Act of 17 June 2005, with effect from 1 Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 15
@@ -182,12 +195,19 @@ The Confederation may enter into service agreements with legal entities that reg
 
 <sup>1</sup> The financing of film promotion is governed by Article 27 of the Culture Promotion Act of 11 December 2009[^15-1].[^15-2]
 
-<sup>2</sup> Income from the tax on the promotion of the diversity of films on offer, contributions from broadcasting organisations as well as any payments and benefits from third parties are included in the financial budget and earmarked for use in film promotion.
+<sup>2</sup>
 
-<sup>3</sup> The Federal Office allocates the available resources annually to the promotion areas in accordance with Articles 3–6. In doing so it takes account of the promotion concepts and stipulates the maximum amounts of assistance that may be awarded to any individual project in each promotion area.
+Income from the tax on the promotion of the diversity of films on offer, contributions from broadcasting organisations and online film providers as well as any payments and benefits from third parties are included in the financial budget. Intended uses purposes:
+
+- a. Tasks in accordance with Articles 3–6;
+- b. Tasks in connection with the collection of the tax;
+- c. Tasks in connection with the enforcement of Chapter 3*a*.[^15-3]
+
+<sup>3</sup> The FOC shall allocate the available resources annually to the promotion areas in accordance with Articles 3–6. In doing so it takes account of the promotion concepts and stipulates the maximum amounts of assistance that may be awarded to any individual project in each promotion area.
 
 [^15-1]: [SR 442.1](https://fedlex.data.admin.ch/eli/cc/2011/854)
 [^15-2]: Amended by Annex No II 3 of the Culture Promotion Act of 11 Dec. 2009, in force since 1 Jan. 2012 ([AS 2011 6127](https://fedlex.data.admin.ch/eli/oc/2011/854); [BBl 2007 4819](https://fedlex.data.admin.ch/eli/fga/2007/681)[4857](https://fedlex.data.admin.ch/eli/fga/2007/683)).
+[^15-3]: Amended by No I of the FA of 1 Oct. 2021, in force since 1 Jan. 2024 ([AS 2023 531](https://fedlex.data.admin.ch/eli/oc/2023/531); [BBl 2020 3131](https://fedlex.data.admin.ch/eli/fga/2020/725)).
 
 ### Section 5 Exclusion from Film Promotion
 
@@ -249,13 +269,23 @@ The diversity of films on offer in a cinema region is guaranteed if the films on
 [^19-2]: [SR 784.40](https://fedlex.data.admin.ch/eli/cc/2007/150)
 [^19-3]: Inserted by No I of the FA of 19 June 2015, in force since 1 Jan. 2016 ([AS 2015 5637](https://fedlex.data.admin.ch/eli/oc/2015/882); [BBl 2015 497](https://fedlex.data.admin.ch/eli/fga/2015/45)).
 
+#### Art. 19a
+
+**Access to film heritage**[^19a-1]
+
+<sup>1</sup> Films supported by the Confederation are deposited with the «Cinémathèque Suisse» foundation.
+
+<sup>2</sup> They can be made accessible to the public five years after their release.
+
+[^19a-1]: Inserted by No I of the FA of 1 Oct. 2021, in force since 1 Jan. 2024 ([AS 2023 531](https://fedlex.data.admin.ch/eli/oc/2023/531); [BBl 2020 3131](https://fedlex.data.admin.ch/eli/fga/2020/725)).
+
 #### Art. 20
 
 **Assessment and re-establishment of diversity**
 
-<sup>1</sup> The Federal Office regularly assesses the effect of the activities and measures in accordance with Article 17 on the basis of the information received in terms of Article 24 periodically. It publishes the results of the assessment and allows the industry, and in particular the promotion organisations that are party to agreements in terms of Article 17 paragraph 3, the opportunity to state its views.
+<sup>1</sup> The FOC shall regularly assess the effect of the activities and measures in accordance with Article 17 on the basis of the information received in terms of Article 24 periodically. It shall publish the results of the assessment and allows the industry, and in particular the promotion organisations that are party to agreements in terms of Article 17 paragraph 3, the opportunity to state its views.
 
-<sup>2</sup> If the Federal Office establishes in the course of the assessment that the diversity of films on offer in a cinema region is inadequate, it shall require the distribution and projection companies concerned to take measures within a reasonable time to re-establish the diversity of films.
+<sup>2</sup> If the FOC establishes in the course of the assessment that the diversity of films on offer in a cinema region is inadequate, it shall require the distribution and projection companies concerned to take measures within a reasonable time to re-establish the diversity of films.
 
 <sup>3</sup> In relation to distribution and projection companies that have entered into an agreement in terms of Article 17 paragraph 3, the instructions are issued to the promotion organisation. This shall take the required measures independently in order to re-establish the diversity of films on offer within a reasonable time.
 
@@ -291,26 +321,144 @@ The diversity of films on offer in a cinema region is guaranteed if the films on
 
 <sup>2</sup> In order to be able to register, it is necessary to be domiciled or to have one’s head office in Switzerland.
 
-<sup>3</sup> In order for a legal entity to be able to register, the members of its senior management must be domiciled in Switzerland. Notice must be given to the Federal Office of any change occurring in the members of the senior management.
+<sup>3</sup> In order for a legal entity to be able to register, the members of its senior management must be domiciled in Switzerland. Notice must be given to the FOC of any change occurring in the members of the senior management.
 
 #### Art. 24
 
 **Reporting requirements**
 
-<sup>1</sup> The production companies receiving support must submit a report every year on the titles and technical data of the films produced, as well as on the results obtained in Switzerland and abroad from their exploitation.
+<sup>1</sup> …[^24-1]
 
 <sup>2</sup> The distribution companies must submit a report every month on titles of the films distributed, the places of screening, the screens on which they are projected and the number of admissions attained (cinema attendance).
 
 <sup>3</sup> The projection companies in the key towns submit a report every week, and other projection companies every month, on the titles screened, the screens on which they are projected and the admissions achieved per title and per screen.
 
-<sup>3bis</sup> Companies that exploit films in order to use the works outside cinemas shall file a report every year on the results obtained from the exploitation of the firms according to language version.[^24-1]
+<sup>3bis</sup> …[^24-2]
 
 <sup>4</sup> The reports are made to the Confederation or to an organisation recognised by the Confederation.
 
-<sup>5</sup> The data referred to in paragraphs 2, 3 and 3<sup>bis</sup> shall be published regularly.[^24-2]
+<sup>5</sup> The data referred to in paragraphs 2, 3 and 3<sup>bis</sup> shall be published regularly.[^24-3]
 
-[^24-1]: Inserted by No I of the FA of 19 June 2015, in force since 1 Jan. 2016 ([AS 2015 5637](https://fedlex.data.admin.ch/eli/oc/2015/882); [BBl 2015 497](https://fedlex.data.admin.ch/eli/fga/2015/45)).
-[^24-2]: Amended by No I of the FA of 19 June 2015, in force since 1 Jan. 2016 ([AS 2015 5637](https://fedlex.data.admin.ch/eli/oc/2015/882); [BBl 2015 497](https://fedlex.data.admin.ch/eli/fga/2015/45)).
+[^24-1]: Repealed by No I of the FA of 1 Oct. 2021, with effect from 1 Jan. 2024 ([AS 2023 531](https://fedlex.data.admin.ch/eli/oc/2023/531); [BBl 2020 3131](https://fedlex.data.admin.ch/eli/fga/2020/725)).
+[^24-2]: Inserted by No I of the FA of 19 June 2015 ([AS 2015 5637](https://fedlex.data.admin.ch/eli/oc/2015/882); [BBl 2015 497](https://fedlex.data.admin.ch/eli/fga/2015/45)). Repealed by No I of the FA of 1 Oct. 2021, with effect from 1 Jan. 2024 ([AS 2023 531](https://fedlex.data.admin.ch/eli/oc/2023/531); [BBl 2020 3131](https://fedlex.data.admin.ch/eli/fga/2020/725)).
+[^24-3]: Amended by No I of the FA of 19 June 2015, in force since 1 Jan. 2016 ([AS 2015 5637](https://fedlex.data.admin.ch/eli/oc/2015/882); [BBl 2015 497](https://fedlex.data.admin.ch/eli/fga/2015/45)).
+
+## Chapter 3*a* Regulations on Promoting the Diversity of the Films on Offer outside Cinemas
+
+[^chap3a-1]
+
+[^chap3a-1]: Inserted by No I of the FA of 1 Oct. 2021, in force since 1 Jan. 2024 ([AS 2023 531](https://fedlex.data.admin.ch/eli/oc/2023/531); [BBl 2020 3131](https://fedlex.data.admin.ch/eli/fga/2020/725)).
+
+### Section 1 Diversity of Films on Offer
+
+#### Art. 24a
+
+<sup>1</sup> Companies that offer films in Switzerland via electronic on-demand or subscription services must ensure that at least 30 per cent of the films are European films and that these films are specifically labelled and easy to find in order to promote diversity.
+
+<sup>2</sup> The obligation under paragraph 1 also applies to companies that are domiciled abroad and target the Swiss public.
+
+<sup>3</sup>
+
+The Federal Council shall exempt companies from the obligation under paragraph 1 if:
+
+- a. they do not achieve a certain minimum turnover;
+- b. they only offer films occasionally; or
+- c. the obligation appears disproportionate or impossible to comply with, in particular because of the type of films offered, the thematic focus of the offer or because third-party offers are featured unchanged.
+
+### Section 2 Consideration of Independent Swiss Film Production
+
+#### Art. 24b
+
+**Principles**
+
+<sup>1</sup> Companies that show films in their programme services in Switzerland or offer them via electronic on-demand or subscription services must invest at least 4 per cent of their gross revenues annually in independent Swiss film production or pay a corresponding compensation tax. A compensation tax shall be due if the investment obligation is not met on average over a period of four years.
+
+<sup>2</sup> The obligation under paragraph 1 also applies to companies that have their registered office abroad and target the Swiss public.
+
+<sup>3</sup> This section does not apply to the Swiss Broadcasting Corporation (SRG).
+
+<sup>4</sup> Four years after this provision comes into force, the Federal Council shall submit a report on the revenue under the investment obligation and the compensation tax in accordance with paragraphs 1 and 2 and on the effects of these investments and taxes on Swiss film production and the companies subject to the investment and tax obligation.
+
+#### Art. 24c
+
+**Expenditure taken into account**
+
+<sup>1</sup> Expenditure on the acquisition, production or co-production of Swiss films and recognised Swiss-foreign co-productions that are paid to third parties independent of the client. The term «film» is defined in Article 2.
+
+<sup>2</sup>
+
+Expenditure on:
+
+- a. the acquisition of the exploitation rights for their own offer from the rights holders and remuneration for the use of films in accordance with the Copyright Act of 9 October 1992[^24c-1] paid to the authorised collecting societies;
+- b. the production of commissioned films;
+- c. the production or co-production of Swiss films as well as co-productions under an international agreement;
+- d. the advertising and promotion of films of Swiss origin or the strengthening of Switzerland as a film location, up to a maximum of CHF 500,000 per year and television programme service;
+- e. film promotion institutions recognised by the FOC.
+
+<sup>3</sup> Any cultural and film promotion subsidies from the Confederation, the cantons or communes or from institutions that are mainly supported by them or financed by public taxes.
+
+[^24c-1]: [SR 231.1](https://fedlex.data.admin.ch/eli/cc/1993/1798_1798_1798)
+
+#### Art. 24d
+
+**Gross revenue**
+
+<sup>1</sup> In the case of companies domiciled abroad, only the gross revenue accruing from Switzerland is relevant.
+
+<sup>2</sup> In the case of companies that operate networks, only the gross revenue from the film service is relevant.
+
+#### Art. 24e
+
+**Procedure**
+
+<sup>1</sup> The Federal Council shall regulate the procedure for determining and collecting the compensation tax and for cooperation with the domestic and foreign authorities. In doing so, it shall take into account the legitimate interests of the companies concerned in the protection of their business secrets.
+
+<sup>2</sup>
+
+Companies are exempt from the obligation to take independent Swiss film production into account if:
+
+- a. they do not achieve a certain minimum turnover;
+- b. they only offer films occasionally; or
+- c. the obligation appears disproportionate or impossible to comply with, in particular considering the type of films offered or the thematic focus of the offer, due to the limited reach of the television programme services or because third-party programme services or offers are featured unchanged.
+
+#### Art. 24f
+
+**Administrative assistance**
+
+Swiss authorities shall provide the FOC free of charge with data that may be relevant for the implementation of this Chapter. The data shall be made available individually, on lists or on electronic data carriers.
+
+### Section 3 Registration, Reporting and Notification Requirements
+
+#### Art. 24g
+
+**Registration requirement**
+
+<sup>1</sup> Companies that show films in their programme services in Switzerland or offer them via electronic on-demand or subscription services must register in a public federal register.
+
+<sup>2</sup> If a company is not entered in the Federal Commercial Register, it must indicate a domicile for service in Switzerland in the register in accordance with paragraph 1 and the persons responsible must be named.
+
+<sup>3</sup> Changes must be reported to the FOC without delay.
+
+#### Art. 24h
+
+**Reporting requirements**
+
+<sup>1</sup>
+
+The companies mentioned in Article 24g paragraph 1 must annually:
+
+- a. submit a report to the FOC stating whether and how the obligations under Article 24*a* paragraph 1 are fulfilled;
+- b. report the information necessary to the FOC for monitoring the obligation under Article 24b, namely the gross revenue they have generated and the expenditure claimed for the acquisition, production or co-production of Swiss films and recognised Swiss-foreign co-productions.
+
+<sup>2</sup> Companies that are exempt under Article 24a paragraph 3 or 24e paragraph 2 shall report if the circumstances relevant to their exemption have changed.
+
+#### Art. 24i
+
+**Notification requirement**
+
+<sup>1</sup> Companies that offer films in Switzerland for a fee via electronic on-demand or subscription services must notify the Confederation of the number of requests per film title.
+
+<sup>2</sup> The data shall be published periodically.
 
 ## Chapter 4 Commissions
 
@@ -348,23 +496,27 @@ The Film Commission must in particular be consulted:
 
 **Infringement of the registration requirement**
 
-<sup>1</sup> Any person who wilfully fails to comply with the registration requirement in Article 23 is liable to a fine.
+<sup>1</sup> Any person who wilfully fails to comply with the registration requirement in Article 23 paragraphs 2 and 3 or 24*g* paragraphs 1 and 2 shall be liable to a fine.[^27-1]
 
 <sup>2</sup> If the infringement is repeated, the penalty is a fine of up to 20,000 francs.
+
+[^27-1]: Amended by No I of the FA of 1 Oct. 2021, in force since 1 Jan. 2024 ([AS 2023 531](https://fedlex.data.admin.ch/eli/oc/2023/531); [BBl 2020 3131](https://fedlex.data.admin.ch/eli/fga/2020/725)).
 
 #### Art. 28
 
-**Infringement of the reporting requirement**
+**Infringement of the reporting and notification requirements**
 
-<sup>1</sup> Any person who as a member of the senior management of a company subject to the reporting requirement fails despite receiving a reminder to provide the information due in terms of Article 24 or who wilfully provides false information is liable to a fine.
+<sup>1</sup> Any person who as a member of the senior management of a company subject to the reporting and notification requirements fails despite receiving a reminder to provide the information due in terms of Article 24 paragraphs 2 and 3, 24*h* or 24*i* paragraph 1 or who wilfully provides false information shall be liable to a fine.[^28-1]
 
 <sup>2</sup> If the infringement is repeated, the penalty is a fine of up to 20,000 francs.
+
+[^28-1]: Amended by No I of the FA of 1 Oct. 2021, in force since 1 Jan. 2024 ([AS 2023 531](https://fedlex.data.admin.ch/eli/oc/2023/531); [BBl 2020 3131](https://fedlex.data.admin.ch/eli/fga/2020/725)).
 
 #### Art. 29
 
 **Infringement of the provision on linguistic diversity**
 
-<sup>1</sup> Any person who wilfully distributes for first showing a title to which a registered company has already acquired the rights for the same exhibition sector (Art. 19 para. 2) is liable to a fine.
+<sup>1</sup> Any person who wilfully distributes for first showing a title to which a registered company has already acquired the rights for the same exhibition sector (Art. 19 para. 2) shall be liable to a fine.
 
 <sup>2</sup> If the infringement is repeated, the penalty is a fine of up to 100,000 francs.
 
@@ -372,7 +524,7 @@ The Film Commission must in particular be consulted:
 
 **Infringement of the provisions on the tax**
 
-<sup>1</sup> Any person who wilfully evades payment of a tax in terms of Article 21 or who secures for himself or another an unlawful tax advantage is liable to a fine of up to three times the amount of the tax evaded or of the advantage.
+<sup>1</sup> Any person who wilfully evades payment of a tax in terms of Article 21 or who secures for himself or another an unlawful tax advantage shall be liable to a fine of up to three times the amount of the tax evaded or of the advantage.
 
 <sup>2</sup> If the offence is committed through negligence, the penalty is a fine of up to the amount of the tax evaded or of the advantage.
 
@@ -415,7 +567,10 @@ In order to promote international relations in the cinematographic sector, the F
 - b. financial participation in international productions;
 - c. the promotion of films;
 - d. cultural efforts in the cinematographic sector;
-- e. financial participation in international promotion measures.
+- e. financial participation in international promotion measures;
+- f.[^33-1] administrative cooperation, data protection and the allowability of financial contributions and taxes in connection with cross-border activities.
+
+[^33-1]: Inserted by No I of the FA of 1 Oct. 2021, in force since 1 Jan. 2024 ([AS 2023 531](https://fedlex.data.admin.ch/eli/oc/2023/531); [BBl 2020 3131](https://fedlex.data.admin.ch/eli/fga/2020/725)).
 
 ## Chapter 7 Final Provisions
 
