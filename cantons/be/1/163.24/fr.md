@@ -4,13 +4,12 @@ number: "163.24"
 title: "Règlement de gestion du Tribunal régional de l'Oberland *"
 short: RG TR OL
 language: fr
-version: 2015-01-01
-valid_until: 2023-12-31
-version_adopted: 2014-09-10
+version: 2024-01-01
+version_adopted: 2023-11-07
 adopted: 2010-11-12
 in_force: 2011-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/163.24"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/141/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2917/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/141/pdf_file"
 
 (RG TR OL)
 
-du 12.11.2010 (état au 01.01.2015)
+du 12.11.2010 (état au 01.01.2024)
 
 Le Tribunal régional de l’Oberland,
 
@@ -35,13 +34,13 @@ arrête:
 
 <sup>1</sup> Le Tribunal régional est indépendant dans l’exercice de ses compétences juridictionnelles et n’est soumis qu’au droit.
 
-<sup>2</sup> Dans les limites définies par la loi et sous réserve des tâches et des attributions de la Direction de la magistrature et de la Cour suprême, il s’administre lui-même. Les organes de direction respectent par analogie les principes visant à mettre l’accent sur la direction stratégique, les prestations et les coûts selon l’article 3, alinéas 2, 4 et 5 de la loi du 26 mars 2002 sur le pilotage des finances et des prestations (LFP)[^1-1].
+<sup>2</sup> Dans les limites définies par la loi et sous réserve des tâches et des attributions de la Direction administrative de la magistrature et de la Cour suprême, il s’administre lui-même. Les organes de direction respectent par analogie les principes généraux visant à mettre l’accent sur le pilotage des finances et des prestations selon l’article 3 de la loi du 15 juin 2022 sur les finances (LFin)[^1-1].
 
 <sup>3</sup> Si nécessaire, les organes dirigeants se concertent avec ceux des autres autorités judiciaires civiles et pénales de la région de l’Oberland ainsi qu’avec la Cour suprême.
 
 <sup>4</sup> Le Tribunal régional applique à l’interne comme à l’externe le principe de la transparence et du droit à l’information, tout en respectant le secret de fonction et la protection des données.
 
-[^1-1]: RSB 620.0
+[^1-1]: RSB [620.0](https://www.belex.sites.be.ch/data/620.0/fr)
 
 ## 2 Organes de direction
 
@@ -67,7 +66,7 @@ arrête:
 
 <sup>1</sup> Le ou la juge en chef du directoire préside la conférence des juges (art. 82, al. 2, lit. a LOJM).
 
-<sup>2</sup> Le juge en chef suppléant ou la juge en chef suppléante du directoire représente le ou la juge en chef du directoire dans la conférence des juges (art. 82, al. 2, lit. b LOJM).
+<sup>2</sup> Les suppléants ou suppléantes du ou de la juge en chef du directoire le ou la représentent aussi dans la conférence des juges (art. 82, al. 2, lit. b LOJM).
 
 #### Art. 4
 
@@ -75,9 +74,9 @@ arrête:
 
 <sup>1</sup> La conférence des juges propose à la Cour suprême de désigner un président ou une présidente de tribunal en qualité de juge en chef du directoire pour une durée de trois ans (art. 82, al. 4 LOJM).
 
-<sup>2</sup> Elle désigne pour une durée de trois ans, avec possibilité de reconduire la fonction (art. 82, al. 5 LOJM)
+<sup>2</sup> Elle désigne pour une durée de trois ans, avec possibilité de reconduire la fonction (art. 82, al. 5 LOJM),
 
-- a le juge en chef suppléant ou la juge en chef suppléante du directoire,
+- a un ou deux suppléants ou suppléantes du ou de la juge en chef du directoire,
 - b les chefs et les cheffes de section,
 - c le greffier ou la greffière en chef
 
@@ -126,7 +125,7 @@ arrête:
 <sup>1</sup> Le directoire se compose
 
 - a du ou de la juge en chef,
-- b du suppléant ou de la suppléante du ou de la juge en chef,
+- b des suppléants ou suppléantes du ou de la juge en chef,
 - c du greffier ou de la greffière en chef,
 - d du ou de la responsable des ressources,
 - e d’un représentant ou d’une représentante de l’Autorité régionale de conciliation de l’Oberland.
@@ -148,8 +147,8 @@ arrête:
 - c la nomination d'un suppléant ou d'une suppléante du ou de la responsable des ressources,
 - d les ressources humaines du Tribunal régional, en particulier l'engagement du personnel, son affectation aux sections ou aux équipes de travail et l'aide ponctuelle à d'autres sections ou équipes de travail,
 - e la surveillance du fonctionnement du secrétariat et de la comptabilité,
-- f la décision d'affecter des présidents et présidentes de tribunal pour prêter main-forte à d'autres sections et autorités,
-- g la demande d'aide à d'autres autorités,
+- f la décision d'affecter des présidents et présidentes de tribunal pour prêter main-forte à d'autres sections,
+- g la demande d'aide, désignée par la Cour suprême, à d'autres autorités,
 - h la décision de modifier provisoirement la répartition de la charge de travail entre les juges de tribunal,
 - i le règlement de la suppléance entre les présidents et présidentes du Tribunal régional,
 - k la définition des principes régissant l'enregistrement, la gestion et l'archivage des dossiers,
@@ -192,10 +191,10 @@ arrête:
 
 - a la conclusion de la convention annuelle sur la gestion des ressources avec la Cour suprême;
 - b la convocation et la présidence des séances du directoire et de la conférence des juges;
-- c la représentation et la défense, au sein du directoire élargi, des intérêts des autorités judiciaires civiles et pénales ayant leur siège dans la région de l'Oberland;
+- c la représentation et la défense, au sein du directoire élargi de la Cour suprême, des intérêts des autorités judiciaires civiles et pénales ayant leur siège dans la région de l'Oberland;
 - d la représentation du Tribunal régional à l'extérieur;
 - e la rédaction des rapports semestriels;
-- f la conduite des entretiens annuels avec les présidents et présidentes de tribunal;
+- f la conduite des entretiens de bilan avec les présidents et présidentes de tribunal;
 - g la direction du greffier ou de la greffière en chef et du ou de la responsable des ressources.
 
 <sup>2</sup> Il ou elle exécute les affaires opérationnelles quotidiennes en collaboration avec le ou la responsable des ressources.
@@ -208,13 +207,13 @@ arrête:
 
 #### Art. 12
 
-**Suppléant ou suppléante**
+**Suppléants ou suppléantes**
 
-<sup>1</sup> Le suppléant ou la suppléante représente le ou la juge en chef du directoire et l'assiste dans l'accomplissement de ses tâches.
+<sup>1</sup> Les suppléants ou suppléantes du ou de la juge en chef du directoire le ou la représentent et l’assistent dans l'accomplissement de ses tâches.
 
-<sup>2</sup> En règle générale, il ou elle fait partie de l'autre section.
+<sup>2</sup> En règle générale, ils ou elles font partie de l'autre section.
 
-<sup>3</sup> Il ou elle est déchargée des tâches ordinaires selon l'étendue de ses fonctions de direction.
+<sup>3</sup> Ils ou elles sont déchargées des tâches ordinaires selon l'étendue de leurs fonctions de direction.
 
 ### 2.2.3 Greffier ou greffière en chef
 
@@ -279,9 +278,26 @@ arrête:
 
 #### Art. 18
 
-<sup>1</sup> Le ou la juge en chef du directoire est seule compétente pour autoriser les dépenses uniques jusqu’à concurrence de 10 000 francs.
+**Compétences financières pour les tâches administratives**
 
-<sup>2</sup> Le greffier ou la greffière en chef ou le ou la responsable des ressources sont seuls compétents pour autoriser les dépenses uniques jusqu’à concurrence de 4 000 francs.
+<sup>1</sup> Le ou la juge en chef du directoire et le ou la responsable des ressources autorisent les dépenses pour les tâches administratives jusqu’à concurrence de 30'000 francs, chacun dans sa propre compétence. Une délégation à d’autres membres du directoire est possible.
+
+<sup>2</sup> Les dépenses supérieures à 30'000 francs sont soumises à autorisation du directoire de la Cour suprême.
+
+#### Art. 18a
+
+**Compétences financières pour les procédures en matière civile et pénale**
+
+<sup>1</sup> Pour les dépenses liées aux procédures en matière civile et pénale, la validation financière des pièces comptables vaut autorisation de dépenses, quel que soit le montant (art. 31, al. 1, lit. e de l’ordonnance du 16.11.2022 sur les finances [OFin][^18a-1]).
+
+<sup>2</sup> La direction de la procédure est compétente pour l’examen matériel des dépenses. Si la validation financière des pièces comptables d’une dépense lui incombe, le greffier ou la greffière ou le ou la secrétaire de tribunal compétente dans la procédure concernée se charge de l’examen matériel.
+
+<sup>3</sup> La validation financière des pièces comptables est effectuée
+
+- a pour les dépenses jusqu’à 30'000 francs, par un membre du directoire,
+- b pour les dépenses supérieures à 30'000 francs, par le ou la juge en chef du directoire ou par ses suppléants ou suppléantes.
+
+[^18a-1]: RSB [621.1](https://www.belex.sites.be.ch/data/621.1/fr)
 
 ### 2.2.7 Information
 
