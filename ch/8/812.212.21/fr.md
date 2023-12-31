@@ -4,11 +4,11 @@ title: Ordonnance du 21 septembre 2018 sur les médicaments (OMéd)
 short: OMéd
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/588"
 language: fr
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2018-09-21
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/588/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2018-588-20230901-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/588/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/588/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2018-588-20240101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/588/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/588/20230901/fr"
 
 (OMéd)
 
-du 21 septembre 2018 (État le 1<sup>er</sup> septembre 2023)
+du 21 septembre 2018 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -942,7 +942,7 @@ Les effets indésirables ci-après doivent être déclarés dans les délais sui
   - 1\. tout effet indésirable grave,
   - 2\. tout effet indésirable connu ou jusque-là inconnu devenant fréquent;
 
-- b. 60 jours : tout effet indésirable mineur, jusque-là inconnu.
+- b. 60 jours: tout effet indésirable mineur, jusque-là inconnu.
 
 <sup>2</sup>
 
@@ -1203,14 +1203,24 @@ Swissmedic peut préciser les exigences techniques et les modalités nécessaire
 
 <sup>3</sup> Pour l’exécution des dispositions concernant des médicaments contenant des OGM, la collaboration est régie par l’ordonnance du 10 septembre 2008 sur la dissémination dans l’environnement[^81-2].
 
-[^81-1]: EMEA/CHMP/SWP/4447/00 du 1<sup>er</sup> juin 2006. Ce document peut être obtenu auprès de l’EMA à l’adresse: www.ema.europa.eu.
+[^81-1]: EMEA/CHMP/SWP/4447/00 du 1<sup>er</sup> juin 2006. Ce document peut être obtenu auprès de l’EMA à l’adresse: [www.ema.europa.eu](https://www.ema.europa.eu).
 [^81-2]: [RS 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
 
 #### Art. 82
 
-**Communication de données**
+**Communication de données**[^82-1]
 
-Swissmedic communique sur demande à l’OFSP des données sur les risques liés aux vaccins. Lesdites données ne doivent pas contenir de données sensibles.
+<sup>1</sup>
+
+Swissmedic communique sur demande à l’OFSP:
+
+- a. les données sur les risques liés aux vaccins;
+- b. les données relatives aux médicaments, dans la mesure où elles sont nécessaires à l’exécution de la loi fédérale du 18 mars 1994 sur l’assurance-maladie[^82-2] et de ses dispositions d’exécution.
+
+<sup>2</sup> Les données visées à l’al. 1 ne doivent pas contenir de données sensibles.
+
+[^82-1]: Nouvelle teneur selon le ch. III de l’O du 22 sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
+[^82-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 
 ### Section 2 Abrogation et modification d’autres actes, dispositions transitoires
 
@@ -1342,7 +1352,7 @@ Annexe 3[^t-3]
 
   Les directives suivantes s’appliquent en tant que règles de bonnes pratiques de vigilance dans le domaine des médicaments à usage humain:
 
-  - a. pour le plan de gestion des risques : ligne directrice E2E de la Conférence internationale sur l’harmonisation (ICH) dans sa version du 18 novembre 2004[^annex3-lvlu1-1], directive de l’EMA du 31 mars 2017 (*Guideline on good pharmacovigilance practices* [GVP] – Module V.A und V.B, EMA/838713/2011 Rev 2)[^annex3-lvlu1-2];
+  - a. pour le plan de gestion des risques: ligne directrice E2E de la Conférence internationale sur l’harmonisation (ICH) dans sa version du 18 novembre 2004[^annex3-lvlu1-1], directive de l’EMA du 31 mars 2017 (*Guideline on good pharmacovigilance practices* [GVP] – Module V.A und V.B, EMA/838713/2011 Rev 2)[^annex3-lvlu1-2];
   - b. pour le rapport périodique sur la sécurité du médicament et le rapport bénéfice-risque: ligne directrice E2C (R2) de l’ICH dans sa version du 17 décembre 2012[^annex3-lvlu1-3];
   - c. pour les déclarations d’effets indésirables présumés d’un médicament: ligne directrice E2B (R2) de l’ICH dans sa version du 5 février 2001[^annex3-lvlu1-4], ligne directrice E2B (R3) de l’ICH dans sa version du 10 novembre 2016[^annex3-lvlu1-5], ligne directrice E2D de l’ICH dans sa version du 1<sup>er</sup> novembre 2003[^annex3-lvlu1-6];
   - d. pour le système de déclaration: la directive de l’EMA du 2 juillet 2012[^annex3-lvlu1-7] (Guideline on good pharmacovigilance practices [GVP] – Module I, EMA/541760/2011);
@@ -1356,17 +1366,17 @@ Annexe 3[^t-3]
   - a<sup>bis</sup>. pour le rapport périodique sur la sécurité des médicaments vétérinaires sous forme d’un rapport annuel: règlement d’exécution (UE) 2021/1281[^annex3-lvlu1-10];
   - b. pour la pharmacovigilance: ligne directrice VICH GL 24 (Pharmocovigilance) de la VICH dans sa version d’octobre 2007[^annex3-lvlu1-11].
 
-[^annex3-lvlu1-1]: Le texte de la ligne directrice peut être consulté gratuitement auprès de l’Institut suisse des produits thérapeutiques, 3003 Berne. D’autres possibilités d’obtention de ce document sont proposées à l’adresse: www.swissmedic.ch*.*
-[^annex3-lvlu1-2]: Le texte de la ligne directrice peut être consulté gratuitement auprès de l’Institut suisse des produits thérapeutiques, 3003 Berne. D’autres possibilités d’obtention de ce document sont proposées à l’adresse: www.swissmedic.ch*.*
-[^annex3-lvlu1-3]: Le texte de la ligne directrice peut être consulté gratuitement auprès de l’Institut suisse des produits thérapeutiques, 3003 Berne. D’autres possibilités d’obtention de ce document sont proposées à l’adresse: www.swissmedic.ch*.*
-[^annex3-lvlu1-4]: Le texte de la ligne directrice peut être consulté gratuitement auprès de l’Institut suisse des produits thérapeutiques, 3003 Berne. D’autres possibilités d’obtention de ce document sont proposées à l’adresse: www.swissmedic.ch*.*
-[^annex3-lvlu1-5]: Le texte de la ligne directrice peut être consulté gratuitement auprès de l’Institut suisse des produits thérapeutiques, 3003 Berne. D’autres possibilités d’obtention de ce document sont proposées à l’adresse: www.swissmedic.ch*.*
-[^annex3-lvlu1-6]: Le texte de la ligne directrice peut être consulté gratuitement auprès de l’Institut suisse des produits thérapeutiques, 3003 Berne. D’autres possibilités d’obtention de ce document sont proposées à l’adresse: www.swissmedic.ch*.*
-[^annex3-lvlu1-7]: Le texte de la directive peut être consulté gratuitement auprès de l’Institut suisse des produits thérapeutiques, 3003 Berne. D’autres possibilités d’obtention de ce document sont proposées à l’adresse: www.swissmedic.ch*.*
-[^annex3-lvlu1-8]: Le texte de la directive peut être consulté gratuitement auprès de l’Institut suisse des produits thérapeutiques, 3003 Berne. D’autres possibilités d’obtention de ce document sont proposées à l’adresse: www.swissmedic.ch*.*
-[^annex3-lvlu1-9]: Le texte de la ligne directrice peut être consulté gratuitement auprès de l’Institut suisse des produits thérapeutiques, 3003 Berne. D’autres possibilités d’obtention de ce document sont proposées à l’adresse: www.swissmedic.ch*.*
+[^annex3-lvlu1-1]: Le texte de la ligne directrice peut être consulté gratuitement auprès de l’Institut suisse des produits thérapeutiques, 3003 Berne. D’autres possibilités d’obtention de ce document sont proposées à l’adresse: [www.swissmedic.ch](https://www.swissmedic.ch)*.*
+[^annex3-lvlu1-2]: Le texte de la ligne directrice peut être consulté gratuitement auprès de l’Institut suisse des produits thérapeutiques, 3003 Berne. D’autres possibilités d’obtention de ce document sont proposées à l’adresse: [www.swissmedic.ch](https://www.swissmedic.ch)*.*
+[^annex3-lvlu1-3]: Le texte de la ligne directrice peut être consulté gratuitement auprès de l’Institut suisse des produits thérapeutiques, 3003 Berne. D’autres possibilités d’obtention de ce document sont proposées à l’adresse: [www.swissmedic.ch](https://www.swissmedic.ch)*.*
+[^annex3-lvlu1-4]: Le texte de la ligne directrice peut être consulté gratuitement auprès de l’Institut suisse des produits thérapeutiques, 3003 Berne. D’autres possibilités d’obtention de ce document sont proposées à l’adresse: [www.swissmedic.ch](https://www.swissmedic.ch)*.*
+[^annex3-lvlu1-5]: Le texte de la ligne directrice peut être consulté gratuitement auprès de l’Institut suisse des produits thérapeutiques, 3003 Berne. D’autres possibilités d’obtention de ce document sont proposées à l’adresse: [www.swissmedic.ch](https://www.swissmedic.ch)*.*
+[^annex3-lvlu1-6]: Le texte de la ligne directrice peut être consulté gratuitement auprès de l’Institut suisse des produits thérapeutiques, 3003 Berne. D’autres possibilités d’obtention de ce document sont proposées à l’adresse: [www.swissmedic.ch](https://www.swissmedic.ch)*.*
+[^annex3-lvlu1-7]: Le texte de la directive peut être consulté gratuitement auprès de l’Institut suisse des produits thérapeutiques, 3003 Berne. D’autres possibilités d’obtention de ce document sont proposées à l’adresse: [www.swissmedic.ch](https://www.swissmedic.ch)*.*
+[^annex3-lvlu1-8]: Le texte de la directive peut être consulté gratuitement auprès de l’Institut suisse des produits thérapeutiques, 3003 Berne. D’autres possibilités d’obtention de ce document sont proposées à l’adresse: [www.swissmedic.ch](https://www.swissmedic.ch)*.*
+[^annex3-lvlu1-9]: Le texte de la ligne directrice peut être consulté gratuitement auprès de l’Institut suisse des produits thérapeutiques, 3003 Berne. D’autres possibilités d’obtention de ce document sont proposées à l’adresse: [www.swissmedic.ch](https://www.swissmedic.ch)*.*
 [^annex3-lvlu1-10]: Règlement d’exécution (UE) 2021/1281 de la Commission du 2 août 2021 portant modalités d’application du règlement (UE) 2019/6 du Parlement européen et du Conseil en ce qui concerne les bonnes pratiques de pharmacovigilance et le format, le contenu et le résumé du dossier permanent du système de pharmacovigilance pour les médicaments vétérinaires; version du JO L 279 du 3.8.2021, p. 15.
-[^annex3-lvlu1-11]: Le texte de la ligne directrice peut être consulté gratuitement auprès de l’Institut suisse des produits thérapeutiques, 3003 Berne. D’autres possibilités d’obtention de ce document sont proposées à l’adresse: www.swissmedic.ch*.*
+[^annex3-lvlu1-11]: Le texte de la ligne directrice peut être consulté gratuitement auprès de l’Institut suisse des produits thérapeutiques, 3003 Berne. D’autres possibilités d’obtention de ce document sont proposées à l’adresse: [www.swissmedic.ch](https://www.swissmedic.ch)*.*
 
 Annexe 4
 

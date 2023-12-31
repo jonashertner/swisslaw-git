@@ -4,11 +4,11 @@ title: Ordinanza del 21 settembre 2018 sui medicamenti (OM)
 short: OM
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/588"
 language: it
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2018-09-21
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/588/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2018-588-20230901-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/588/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/588/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2018-588-20240101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/588/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/588/20230901/it"
 
 (OM)
 
-del 21 settembre 2018 (Stato 1° settembre 2023)
+del 21 settembre 2018 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -1204,14 +1204,21 @@ Swissmedic può specificare i requisiti tecnici e i dettagli necessari all’ese
 
 <sup>3</sup> Per l’esecuzione di disposizioni relative a medicamenti contenenti OGM, la collaborazione è retta dall’ordinanza del 10 settembre 2008[^81-2] sull’emissione deliberata nell’ambiente.
 
-[^81-1]: Rif. EMEA/CHMP/SWP/4447/00, 1° giugno 2006. Il testo può essere richiesto presso l’EMA: www.ema.europa.eu.
+**Art. 82**[^81-3]Comunicazione di dati
+
+<sup>1</sup>
+
+Swissmedic comunica su richiesta all’UFSP:
+
+- a. i dati sul potenziale di rischio dei vaccini;
+- b. i dati sui medicamenti, nella misura in cui ciò è necessario per l’esecuzione della legge federale del 18 marzo 1994[^81-4] sull’assicurazione malattie e delle sue disposizioni esecutive.
+
+<sup>2</sup> I dati di cui al capoverso 1 non possono contenere dati personali degni di particolare protezione.
+
+[^81-1]: Rif. EMEA/CHMP/SWP/4447/00, 1° giugno 2006. Il testo può essere richiesto presso l’EMA: www.ema.europa.eu
 [^81-2]: [RS 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
-
-#### Art. 82
-
-**Comunicazione di dati**
-
-Swissmedic comunica su richiesta all’UFSP i dati sul potenziale di rischio dei vaccini. Questi dati non possono contenere dati personali degni di particolare protezione.
+[^81-3]: Nuovo testo giusta il n. III dell’O del 22 set. 2023, con effetto dal 1° gen. 2024 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
+[^81-4]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 
 ### Sezione 2: Abrogazione e modifica di altri atti normativi e disposizioni transitorie
 
@@ -1348,9 +1355,9 @@ Allegato 3[^t-3]
   - a<sup>bis</sup>. per il rapporto periodico sulla sicurezza dei medicamenti veterinari sotto forma di un rapporto annuale: regolamento di esecuzione (UE) 2021/1281[^annex3-lvlu1-2];
   - b. per la farmacovigilanza: VICH GL 24 (Farmacovigilanza) della linea guida della VICH nella versione dell’ottobre 2007[^annex3-lvlu1-3].
 
-[^annex3-lvlu1-1]: Il testo della linea guida può essere consultato gratuitamente presso l’Istituto svizzero per gli agenti terapeutici, 3003 Berna. Le altre possibilità per ottenerlo sono indicate all’indirizzo www.swissmedic.ch*.*
+[^annex3-lvlu1-1]: Il testo della linea guida può essere consultato gratuitamente presso l’Istituto svizzero per gli agenti terapeutici, 3003 Berna. Le altre possibilità per ottenerlo sono indicate all’indirizzo www.swissmedic.ch
 [^annex3-lvlu1-2]: Regolamento di esecuzione (UE) 2021/1281 della Commissione del 2 agosto 2021 recante modalità di applicazione del regolamento (UE) 2019/6 del Parlamento europeo e del Consiglio per quanto riguarda la buona pratica di farmacovigilanza e il formato, il contenuto e la sintesi del fascicolo di riferimento del sistema di farmacovigilanza per i medicinali veterinari, versione della GU L 279 del 3.8.2021, pag. 15.
-[^annex3-lvlu1-3]: Il testo della linea guida può essere consultato gratuitamente presso l’Istituto svizzero per gli agenti terapeutici, 3003 Berna. Le altre possibilità per ottenerlo sono indicate all’indirizzo www.swissmedic.ch*.*
+[^annex3-lvlu1-3]: Il testo della linea guida può essere consultato gratuitamente presso l’Istituto svizzero per gli agenti terapeutici, 3003 Berna. Le altre possibilità per ottenerlo sono indicate all’indirizzo www.swissmedic.ch
 
 Allegato 4
 
