@@ -4,11 +4,11 @@ title: Regolamento di previdenza del 15 giugno 2007 per gli impiegati e i benefi
 short: RPIC
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/190"
 language: it
-version: 2023-01-01
+version: 2024-01-01
 adopted: 2007-06-15
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/190/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2012-190-20230101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/190/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/190/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2012-190-20240101-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/190/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/190/20230101/it"
 
 (RPIC)
 
-del 15 giugno 2007 (Stato 1° gennaio 2023)
+del 15 giugno 2007 (Stato 1° gennaio 2024)
 
 L’organo paritetico della Cassa di previdenza della Confederazione (OPC),
 
@@ -43,9 +43,10 @@ decreta:
 
 **Campo di applicazione**[^2-1]
 
-Il presente regolamento si applica ai datori di lavoro della Cassa di previdenza della Confederazione, ai loro impiegati e ai beneficiari di rendite, alle persone che continuano ad essere affiliate secondo l’articolo 18*d* e alle persone a cui PUBLICA eroga prestazioni in seguito a divorzio.
+Il presente regolamento si applica ai datori di lavoro affiliati alla Cassa di previdenza della Confederazione, ai loro impiegati e beneficiari di rendite, alle persone che sono assicurate secondo il presente regolamento sulla base dell’articolo 3 capoverso 3 del regolamento di previdenza del 6 dicembre 2011[^2-2] per i beneficiari di onorari della Cassa di previdenza della Confederazione, alle persone che continuano a essere affiliate secondo l’articolo 18*d* e alle persone a cui PUBLICA eroga prestazioni in seguito a divorzio.
 
-[^2-1]: Nuovo testo giusta il n. I della Dec. dell’OPC del 17 e 26 nov. 2020, approvata dal CF il 4 dic. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5903](https://fedlex.data.admin.ch/eli/oc/2020/991)).
+[^2-1]: Nuovo testo giusta il n. I della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
+[^2-2]: [RS 172.220.141.2](https://fedlex.data.admin.ch/eli/cc/2012/52)
 
 #### Art. 3
 
@@ -86,9 +87,12 @@ Per i contributi di risparmio (art. 24), i contributi volontari di risparmio (ar
 
 #### Art. 4
 
-**Obiettivo di prestazioni**
+**Obiettivo di prestazioni ed età di riferimento**[^4-1]
 
-I modelli di calcolo alla base del presente regolamento si fondano su un’età di pensionamento di 65 anni.
+I modelli di calcolo alla base del presente regolamento si fondano sull’età di riferimento secondo l’articolo 13 della legge federale del 25 giugno 1982[^4-2] sulla previdenza professionale per la vecchiaia, i superstiti e l’invalidità (LPP).
+
+[^4-1]: Nuovo testo giusta il n. I della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
+[^4-2]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
 
 #### Art. 5
 
@@ -182,7 +186,11 @@ Gli assicurati e i beneficiari di rendite che hanno diritto a prestazioni di PUB
 
 **Condizioni di ammissione nell’assicurazione**
 
-Le persone impiegate sono assicurate contro i rischi di decesso e di invalidità a contare dal 1° gennaio successivo al compimento del 17° anno di età. Esse sono anche assicurate per la vecchiaia a contare dal 1° gennaio successivo al compimento del 21° anno di età.
+<sup>1</sup> Le persone impiegate sono assicurate contro i rischi di decesso e di invalidità a contare dal 1° gennaio successivo al compimento del 17° anno di età. Esse sono anche assicurate per la vecchiaia a contare dal 1° gennaio successivo al compimento del 21° anno di età.
+
+<sup>2</sup> Sono assicurate anche le persone occupate a titolo accessorio presso un datore di lavoro affiliato alla Cassa di previdenza della Confederazione e già assicurate obbligatoriamente per l’attività lucrativa principale.[^14-1]
+
+[^14-1]: Introdotto dal n. I della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
 
 #### Art. 15 e 16
 
@@ -192,19 +200,22 @@ Le persone impiegate sono assicurate contro i rischi di decesso e di invalidità
 
 #### Art. 17
 
-**Persone non ammesse nell’assicurazione**
+**Persone non ammesse nell*’*assicurazione**[^17-1]
 
 Non sono ammesse nell’assicurazione di PUBLICA le persone impiegate:
 
-- a.[^17-1] per le quali è stato costituito un contratto di lavoro a tempo determinato di tre mesi al massimo; è fatto salvo l’articolo 1*k* OPP2;
-- c<sup>bis</sup>.[^17-2] che continuano ad essere affiliate provvisoriamente all’istituto di previdenza tenuto a versare loro prestazioni d’invalidità ai sensi dell’articolo 26*a* LPP;
-- b. occupate soltanto a titolo accessorio da un datore di lavoro della Cassa di previdenza della Confederazione e già assicurate obbligatoriamente per un’attività lucrativa principale oppure che esercitano un’attività indipendente a titolo di professione principale;
-- c. invalide ai sensi della LAI nella misura di almeno il 70 per cento;
-- d. che in quanto personale locale all’estero operano come personale non trasferibile del DFAE e per le quali il DFAE non è tenuto a versare contributi all’AVS; oppure
-- e. che hanno compiuto il 65° anno di età.
+- a. per le quali è stato costituito un contratto di lavoro a tempo determinato di tre mesi al massimo; è fatto salvo l’articolo 1*k* dell’ordinanza del 18 aprile 1984[^17-2] sulla previdenza professionale per la vecchiaia, i superstiti e l’invalidità (OPP 2);
+- b. occupate soltanto a titolo accessorio da un datore di lavoro affiliato alla Cassa di previdenza della Confederazione e che esercitano un’attività indipendente a titolo di professione principale;
+- c. invalide nella misura di almeno il 70 per cento ai sensi della legge federale del 19 giugno 1959[^17-3] sull’assicurazione per l’invalidità (LAI);
+- d. che continuano ad essere affiliate provvisoriamente all’istituto di previdenza tenuto a versare loro prestazioni d’invalidità ai sensi dell’articolo 26*a* LPP[^17-4];
+- e. che in quanto personale locale all’estero operano come personale non trasferibile del DFAE e per le quali il DFAE non è tenuto a versare contributi all’AVS;
+- f*.* che hanno raggiunto l’età di riferimento; oppure
+- g. che esercitano un’attività accessoria presso un datore di lavoro quale organo di direzione nominato o presso una commissione extraparlamentare, se sono già obbligatoriamente assicurate per l’attività lucrativa principale oppure se esercitano un’attività lucrativa indipendente a titolo di professione principale.
 
-[^17-1]: Nuovo testo giusta la Dec. dell’OPC del 2 e del 15 set. 2009, nonché del 20 ott. 2009, approvata dal CF l’11 nov. 2009, in vigore dal 1° gen. 2010 ([FF 2009 7381](https://fedlex.data.admin.ch/eli/fga/2009/1447)).
-[^17-2]: Introdotta dal n. I dalla Dec. dell’OPC del 26 giu. 2012, approvata dal CF il 15 mar. 2013, in vigore dal 1° gen. 2013 ([RU 2013 979](https://fedlex.data.admin.ch/eli/oc/2013/208)).
+[^17-1]: Nuovo testo giusta il n. I della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
+[^17-2]: RS **831.411.1**
+[^17-3]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^17-4]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
 
 #### Art. 18
 
@@ -215,24 +226,25 @@ Non sono ammesse nell’assicurazione di PUBLICA le persone impiegate:
 L’assicurazione termina:
 
 - a.[^18-1] con la cessazione del rapporto di lavoro, sempreché in quel momento non sia maturato un diritto a prestazioni di vecchiaia o di invalidità e l’assicurazione non sia mantenuta secondo l’articolo 18*d*;
-- b. [^18-2] al compimento del 65° anno di età, fatto salvo l’articolo 18*b*;
-- c.[^18-3] ...
+- b. [^18-2] al raggiungimento dell’età di riferimento[^18-3], fatto salvo l’articolo 18*b*;
+- c.[^18-4] ...
 
 <sup>2</sup>
 
 Per quanto concerne i rischi di decesso e di invalidità l’interessato rimane assicurato presso PUBLICA per la durata di:
 
 - a. un mese dalla cessazione del rapporto di lavoro;
-- b. al massimo dieci mesi dalla fine della continuazione del versamento dello stipendio conformemente alle disposizioni del diritto del lavoro se il rapporto di lavoro si protrae; in caso di scioglimento contestato del rapporto di lavoro è fatto salvo l’articolo 10 dell’ordinanza del 31 agosto 1983[^18-4] sull’assicurazione contro la disoccupazione (OADI).[^18-5]
+- b. al massimo dieci mesi dalla fine della continuazione del versamento dello stipendio conformemente alle disposizioni del diritto del lavoro se il rapporto di lavoro si protrae; in caso di scioglimento contestato del rapporto di lavoro è fatto salvo l’articolo 10 dell’ordinanza del 31 agosto 1983[^18-5] sull’assicurazione contro la disoccupazione (OADI).[^18-6]
 
-<sup>3</sup> Nei casi di cui al capoverso 2 le prestazioni corrispondono a quelle che erano assicurate al momento della cessazione del rapporto di lavoro. Se entro la scadenza prevista al capoverso 2 lettera a oppure b viene costituito un nuovo rapporto di previdenza, la competenza spetta al nuovo istituto di previdenza.[^18-6]
+<sup>3</sup> Nei casi di cui al capoverso 2 le prestazioni corrispondono a quelle che erano assicurate al momento della cessazione del rapporto di lavoro. Se entro la scadenza prevista al capoverso 2 lettera a oppure b viene costituito un nuovo rapporto di previdenza, la competenza spetta al nuovo istituto di previdenza.[^18-7]
 
 [^18-1]: Nuovo testo giusta il n. I della Dec. dell’OPC del 17 e 26 nov. 2020, approvata dal CF il 4 dic. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5903](https://fedlex.data.admin.ch/eli/oc/2020/991)).
 [^18-2]: Nuovo testo giusta la Dec. dell’OPC dell’8 set. 2010, approvata dal CF il 24 nov. 2010, in vigore dal 1° gen. 2011 ([FF 2010 8025](https://fedlex.data.admin.ch/eli/fga/2010/1690)).
-[^18-3]: Abrogata dalla Dec. dell’OPC dell’8 set. 2010, approvata dal CF il 24 nov. 2010, con effetto dal 1° gen. 2011 ([FF 2010 8025](https://fedlex.data.admin.ch/eli/fga/2010/1690)).
-[^18-4]: [RS 837.02](https://fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205)
-[^18-5]: Nuovo testo giusta il n. I della Dec. dell’OPC del 13 set. 2022, approvata dal CF il 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 748](https://fedlex.data.admin.ch/eli/oc/2022/748)).
-[^18-6]: Introdotto dal n. I della Dec. dell’OPC del 13 set. 2022, approvata dal CF il 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 748](https://fedlex.data.admin.ch/eli/oc/2022/748)).
+[^18-3]: Nuova espressione giusta il n. I cpv. 1 della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
+[^18-4]: Abrogata dalla Dec. dell’OPC dell’8 set. 2010, approvata dal CF il 24 nov. 2010, con effetto dal 1° gen. 2011 ([FF 2010 8025](https://fedlex.data.admin.ch/eli/fga/2010/1690)).
+[^18-5]: [RS 837.02](https://fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205)
+[^18-6]: Nuovo testo giusta il n. I della Dec. dell’OPC del 13 set. 2022, approvata dal CF il 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 748](https://fedlex.data.admin.ch/eli/oc/2022/748)).
+[^18-7]: Introdotto dal n. I della Dec. dell’OPC del 13 set. 2022, approvata dal CF il 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 748](https://fedlex.data.admin.ch/eli/oc/2022/748)).
 
 #### Art. 18a
 
@@ -244,11 +256,14 @@ Su richiesta della persona assicurata, durante un congedo non pagato o un conged
 
 #### Art. 18b
 
-**Mantenimento della previdenza per la vecchiaia dopo il compimento del 65° anno di età**[^18b-1]
+**Mantenimento dell’assicurazione dopo il raggiungimento dell’età di riferimento**[^18b-1]
 
-Se dopo il compimento del 65° anno di età il rapporto di lavoro prosegue, su richiesta della persona assicurata la previdenza per la vecchiaia è mantenuta fino alla fine del rapporto di lavoro, ma al massimo fino al compimento del 70° anno di età.
+<sup>1</sup> Se dopo il raggiungimento dell’età di riferimento il rapporto di lavoro prosegue, su richiesta della persona assicurata la previdenza per la vecchiaia è mantenuta oppure la riscossione della prestazione di vecchiaia ai sensi dell’articolo 13*b* LPP[^18b-2] è differita, in entrambi i casi fino alla fine del rapporto di lavoro, ma al massimo fino al compimento del 70° anno di età.
 
-[^18b-1]: Introdotto dalla Dec. dell’OPC dell’8 set. 2010, approvata dal CF il 24 nov. 2010, in vigore dal 1° gen. 2011 ([FF 2010 8025](https://fedlex.data.admin.ch/eli/fga/2010/1690)).
+<sup>2</sup> Se la riscossione della prestazione di vecchiaia è differita, l’avere di vecchiaia è rimunerato conformemente all’articolo 36*b* capoverso 2.
+
+[^18b-1]: Introdotto dalla Dec. dell’OPC dell’8 set. 2010, approvata dal CF il 24 nov. 2010 ([FF 2010 8025](https://fedlex.data.admin.ch/eli/fga/2010/1690)). Nuovo testo giusta il n. I della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
+[^18b-2]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
 
 #### Art. 18c
 
@@ -256,15 +271,16 @@ Se dopo il compimento del 65° anno di età il rapporto di lavoro prosegue, su r
 
 <sup>1</sup> Se dopo il compimento del 58° anno di età lo stipendio annuo determinante di un assicurato è ridotto al massimo della metà, su richiesta della persona assicurata la previdenza è mantenuta interamente o parzialmente al livello del precedente guadagno assicurato.
 
-<sup>2</sup> La previdenza è mantenuta al livello del precedente guadagno assicurato al massimo fino alla fine del rapporto di lavoro. Tale copertura previdenziale cessa in ogni caso al compimento del 65° anno di età.
+<sup>2</sup> La previdenza è mantenuta al livello del precedente guadagno assicurato al massimo fino alla fine del rapporto di lavoro. Tale copertura previdenziale cessa in ogni caso al raggiungimento dell’età di riferimento.[^18c-2]
 
 [^18c-1]: Introdotto dalla Dec. dell’OPC dell’8 set. 2010, approvata dal CF il 24 nov. 2010, in vigore dal 1° gen. 2011 ([FF 2010 8025](https://fedlex.data.admin.ch/eli/fga/2010/1690)).
+[^18c-2]: Nuovo testo giusta il n. I della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
 
 #### Art. 18d
 
 **Mantenimento dell’assicurazione in caso di risoluzione del rapporto di lavoro da parte del datore di lavoro o di comune intesa**[^18d-1]
 
-<sup>1</sup> Se, dopo il compimento del 58° anno di età e prima del compimento del 65° anno di età, il rapporto di lavoro di una persona assicurata è risolto dal datore di lavoro o di comune intesa, su richiesta della persona assicurata l’assicurazione è mantenuta secondo l’articolo 47*a* capoversi 2–6 LPP. La comunicazione relativa al mantenimento dell’assicurazione deve pervenire per scritto a PUBLICA entro tre mesi dalla risoluzione del rapporto di lavoro.
+<sup>1</sup> Se, dopo il compimento del 58° anno di età e prima del raggiungimento dell’età di riferimento, il rapporto di lavoro di una persona assicurata è risolto dal datore di lavoro o di comune intesa, su richiesta della persona assicurata l’assicurazione è mantenuta secondo l’articolo 47*a* capoversi 2–6 LPP. La comunicazione relativa al mantenimento dell’assicurazione deve pervenire per scritto a PUBLICA entro tre mesi dalla risoluzione del rapporto di lavoro.
 
 <sup>2</sup> La persona assicurata deve pagare le spese amministrative conformemente al regolamento delle spese e il premio di rischio per l’assicurazione dei rischi di decesso e di invalidità. Se mantiene anche la previdenza, la persona assicurata deve pagare, oltre ai propri contributi di risparmio, i contributi di risparmio del datore di lavoro; può versare contributi di risparmio volontari.
 
@@ -272,9 +288,9 @@ Se dopo il compimento del 65° anno di età il rapporto di lavoro prosegue, su r
 
 <sup>4</sup> Per il rimanente la persona assicurata ha gli stessi diritti di chi è assicurato sulla base di un rapporto di lavoro in essere.
 
-<sup>5</sup> Il mantenimento dell’assicurazione termina al verificarsi dei rischi di decesso o di invalidità oppure al compimento del 65° anno di età. In caso di invalidità parziale, il guadagno assicurato è ridotto in misura corrispondente al diritto alla rendita di invalidità.
+<sup>5</sup> Il mantenimento dell’assicurazione termina al verificarsi dei rischi di decesso o di invalidità oppure al raggiungimento dell’età di riferimento. In caso di invalidità parziale, il guadagno assicurato è ridotto in misura corrispondente al diritto alla rendita di invalidità.
 
-<sup>6</sup> Se la persona assicurata entra in un nuovo istituto di previdenza prima del compimento del 65° anno di età, la prestazione di uscita è trasferita almeno fino a concorrenza dell’importo che può essere utilizzato per il riscatto di tutte le prestazioni regolamentari nel nuovo istituto di previdenza.
+<sup>6</sup> Se la persona assicurata entra in un nuovo istituto di previdenza prima del raggiungimento dell’età di riferimento, la prestazione di uscita è trasferita almeno fino a concorrenza dell’importo che può essere utilizzato per il riscatto di tutte le prestazioni regolamentari nel nuovo istituto di previdenza.
 
 <sup>7</sup> Se dopo tale trasferimento almeno un terzo della prestazione di uscita resta presso PUBLICA, l’assicurazione è mantenuta. Il guadagno assicurato è ridotto in misura corrispondente alla prestazione di uscita trasferita.
 
@@ -312,7 +328,10 @@ Se l’assicurazione termina a seguito della disdetta da parte della persona ass
 
 <sup>6</sup> Se la persona assicurata è impiegata da meno di un anno, è considerato stipendio annuo determinante lo stipendio che realizzerebbe in caso di occupazione durante l’anno intero.
 
+<sup>7</sup> Se la persona assicurata esercita più attività presso lo stesso datore di lavoro affiliato alla Cassa di previdenza della Confederazione, per stabilire lo stipendio annuo determinante si considera l’intero stipendio realizzato.[^19-2]
+
 [^19-1]: Nuovo testo del per. giusta la Dec. dell’OPC dell’8 set. 2010, approvata dal CF il 24 nov. 2010, in vigore dal 1° gen. 2011 ([FF 2010 8025](https://fedlex.data.admin.ch/eli/fga/2010/1690)).
+[^19-2]: Introdotto dal n. I della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
 
 #### Art. 20
 
@@ -418,9 +437,9 @@ Ai singoli piani previdenziali si applicano i seguenti contributi di risparmio:
 
 <sup>4</sup> Il guadagno assicurato della persona assicurata costituisce la base per determinare il contributo volontario di risparmio.[^25-4]
 
-<sup>5</sup> Il datore di lavoro comunica a PUBLICA senza indugio il versamento di un contributo volontario di risparmio, la modifica della sua entità o la rinuncia completa.[^25-5]
+<sup>5</sup> La persona assicurata comunica al datore di lavoro la decisione riguardante il versamento di contributi volontari di risparmio, la modifica della loro entità o la rinuncia completa a tale versamento. Il datore di lavoro comunica senza indugio a PUBLICA la decisione della persona assicurata.[^25-5]
 
-<sup>6</sup> La mutazione ha di volta in volta effetto dal primo giorno del mese successivo alla comunicazione. Un’ulteriore mutazione ha effetto al più presto sei mesi dopo la mutazione precedente.[^25-6]
+<sup>6</sup> La mutazione ha di volta in volta effetto dal primo giorno del mese successivo alla comunicazione.[^25-6]
 
 <sup>7</sup> I contributi volontari di risparmio sono accreditati all’avere di risparmio speciale[^25-7] (art. 36*a*).[^25-8]
 
@@ -428,8 +447,8 @@ Ai singoli piani previdenziali si applicano i seguenti contributi di risparmio:
 [^25-2]: Introdotto dal n. I della Dec. dell’OPC del 15 feb. 2018, approvata dal CF il 25 apr. 2018, in vigore dal 1° gen. 2019 ([RU 2018 2431](https://fedlex.data.admin.ch/eli/oc/2018/353)).
 [^25-3]: Abrogato dal n. I della Dec. dell’OPC del 25 nov. 2015, approvata dal CF il 3 giu. 2016, con effetto dal 1° gen. 2017 ([RU 2016 1789](https://fedlex.data.admin.ch/eli/oc/2016/321)).
 [^25-4]: Nuovo testo giusta la Dec. dell’OPC dell’8 set. 2010, approvata dal CF il 24 nov. 2010, in vigore dal 1° gen. 2011 ([FF 2010 8025](https://fedlex.data.admin.ch/eli/fga/2010/1690)).
-[^25-5]: Nuovo testo giusta il n. I della Dec. dell’OPC del 26 giu. 2012, approvata dal CF il 15 mar. 2013, in vigore dal 1° gen. 2013 ([RU 2013 979](https://fedlex.data.admin.ch/eli/oc/2013/208)).
-[^25-6]: Nuovo testo giusta il n. I della Dec. dell’OPC del 26 giu. 2012, approvata dal CF il 15 mar. 2013, in vigore dal 1° gen. 2013 ([RU 2013 979](https://fedlex.data.admin.ch/eli/oc/2013/208)).
+[^25-5]: Nuovo testo giusta il n. I della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
+[^25-6]: Nuovo testo giusta il n. I della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
 [^25-7]: Nuova espr. giusta il n. I della Dec. dell’OPC del 21 mag. 2013, approvata dal CF il 14 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1783](https://fedlex.data.admin.ch/eli/oc/2013/405)). Di detta mod. é tenuto conto in tutto il presente testo.
 [^25-8]: Nuovo testo giusta il n. I della Dec. dell’OPC del 26 giu. 2012, approvata dal CF il 15 mar. 2013, in vigore dal 1° gen. 2013 ([RU 2013 979](https://fedlex.data.admin.ch/eli/oc/2013/208)).
 
@@ -447,7 +466,7 @@ L’obbligo del pagamento del premio insorge con l’ammissione nell’assicuraz
 
 - a. con il decesso della persona assicurata;
 - b. con la cessazione del rapporto di lavoro;
-- c. con il compimento del 65° anno di età della persona assicurata;
+- c. con il raggiungimento dell’età di riferimento della persona assicurata;
 - d. in caso di invalidità ai sensi dell’articolo 53.
 
 <sup>4</sup>
@@ -527,21 +546,22 @@ Le prestazioni di uscita di altri istituti di previdenza e gli averi di istituti
 
 <sup>2bis</sup> I riscatti sono accreditati all’avere di vecchiaia (art. 36) fino al rispettivo importo massimo. I riscatti superiori a tale importo sono invece accreditati a un avere di vecchiaia proveniente da contributi volontari di risparmio (art. 36*a*) fino al rispettivo importo massimo. Ogni importo eccedente viene rimborsato.[^32-2]
 
-<sup>3</sup> I beneficiari di prestazioni di vecchiaia che non hanno ancora compiuto il 65° anno di età e assumono un’attività presso un datore di lavoro della Cassa di previdenza della Confederazione possono riscattare le prestazioni regolamentari soltanto nella misura in cui queste superano la protezione previdenziale esistente prima dell’insorgere dell’evento di previdenza vecchiaia.
+<sup>3</sup> I beneficiari di prestazioni di vecchiaia che non hanno ancora raggiunto l’età di riferimento e assumono un’attività presso un datore di lavoro affiliato alla Cassa di previdenza della Confederazione possono riscattare le prestazioni regolamentari soltanto nella misura in cui queste superano la protezione previdenziale esistente prima dell’insorgere dell’evento di previdenza vecchiaia.[^32-3]
 
 <sup>4</sup> I riscatti effettuati dopo l’insorgere dell’incapacità al lavoro che ha determinato l’invalidità sono rimborsati (art. 57 cpv. 3).
 
-<sup>5</sup> Se si sono ottenuti prelievi anticipati per la promozione della proprietà d’abitazioni, i riscatti possono essere effettuati soltanto dopo il rimborso di tali prelievi anticipati.[^32-3]
+<sup>5</sup> Se si sono ottenuti prelievi anticipati per la promozione della proprietà d’abitazioni, i riscatti possono essere effettuati soltanto dopo il rimborso di tali prelievi anticipati.[^32-4]
 
 [^32-1]: Nuovo testo giusta il n. I della Dec. dell’OPC del 21 giu. 2011, approvata dal CF il 19 ott. 2011, in vigore dal 1° lug. 2012 ([RU 2012 2069](https://fedlex.data.admin.ch/eli/oc/2012/275)).
 [^32-2]: Introdotto dal n. I della Dec. dell’OPC del 26 giu. 2012, approvata dal CF il 15 mar. 2013, in vigore dal 1° gen. 2013 ([RU 2013 979](https://fedlex.data.admin.ch/eli/oc/2013/208)).
-[^32-3]: Nuovo testo giusta il n. I della Dec. dell’OPC del 17 e 26 nov. 2020, approvata dal CF il 4 dic. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5903](https://fedlex.data.admin.ch/eli/oc/2020/991)).
+[^32-3]: Nuovo testo giusta il n. I della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
+[^32-4]: Nuovo testo giusta il n. I della Dec. dell’OPC del 17 e 26 nov. 2020, approvata dal CF il 4 dic. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5903](https://fedlex.data.admin.ch/eli/oc/2020/991)).
 
 #### Art. 32a
 
-**Riscatto per l’aumento della rendita di vecchiaia in caso di pensionamento prima del compimento del 65° anno di età[^32a-2]**[^32a-1]
+**Riscatto per l’aumento della rendita di vecchiaia in caso di pensionamento prima del raggiungimento dell’età di riferimento[^32a-2]**[^32a-1]
 
-<sup>1</sup> Al più presto quando presenta la domanda per percepire una rendita prima del compimento del 65° anno di età, la persona assicurata può aumentare mediante un riscatto la propria rendita di vecchiaia al massimo fino all’ammontare della propria rendita di invalidità assicurata. Per il calcolo della rendita di vecchiaia non si tiene conto di un eventuale avere proveniente dai contributi volontari di risparmio. Se la comunicazione di questo riscatto avviene meno di tre mesi prima del pensionamento, i costi amministrativi sono fatturati alla persona assicurata conformemente al regolamento dei costi.
+<sup>1</sup> Al più presto quando presenta la domanda per percepire una rendita prima del raggiungimento dell’età di riferimento, la persona assicurata può aumentare mediante un riscatto la propria rendita di vecchiaia al massimo fino all’ammontare della propria rendita di invalidità assicurata. Per il calcolo della rendita di vecchiaia non si tiene conto di un eventuale avere proveniente dai contributi volontari di risparmio. Se la comunicazione di questo riscatto avviene meno di tre mesi prima del pensionamento, i costi amministrativi sono fatturati alla persona assicurata conformemente al regolamento dei costi.
 
 <sup>2</sup> L’aumento della rendita di vecchiaia può essere effettuato solo mediante un pagamento diretto unico.
 
@@ -552,24 +572,26 @@ Le prestazioni di uscita di altri istituti di previdenza e gli averi di istituti
 
 #### Art. 32b
 
-**Riscatto dopo il compimento del 65° anno di età**[^32b-1]
+**Riscatto dopo il raggiungimento dell’età di riferimento**[^32b-1]
 
 <sup>1</sup>
 
-Un riscatto dopo il compimento del 65° anno di età è consentito se la persona assicurata:
+Un riscatto dopo il raggiungimento dell’età di riferimento è consentito se la persona assicurata:[^32b-2]
 
-- a. non ha effettuato il riscatto massimo possibile fino al compimento del 65° anno di età; e
-- b. ha mantenuto la previdenza per la vecchiaia ai sensi dell’articolo 18*b* dal compimento del 65° anno di età.
+- a. non ha effettuato il riscatto massimo possibile fino al raggiungimento dell’età di riferimento; e
+- b.[^32b-3] al raggiungimento dell’età di riferimento ha mantenuto la previdenza per la vecchiaia o ha differito la riscossione della prestazione di vecchiaia, in entrambi i casi ai sensi dell’articolo 18*b*.
 
 <sup>2</sup>
 
 Per il calcolo della somma di riscatto è determinante:
 
-- a. il guadagno assicurato al compimento del 65° anno di età;
+- a. il guadagno assicurato al raggiungimento dell’età di riferimento;
 - b. i fattori applicabili secondo l’allegato 2; e
 - c. l’avere di vecchiaia disponibile al momento del riscatto.
 
 [^32b-1]: Introdotto dal n. I della Dec. dell’OPC del 21 mar., 7 mag. e 30 set. 2019, approvata dal CF il 30 ott. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3447](https://fedlex.data.admin.ch/eli/oc/2019/629)).
+[^32b-2]: Nuovo testo giusta il n. I della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
+[^32b-3]: Nuovo testo giusta il n. I della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
 
 #### Art. 33
 
@@ -619,7 +641,7 @@ In caso di prelievo di un contributo di risanamento l’organo paritetico della 
 
 <sup>1</sup> I contributi di risanamento che devono essere prestati dal datore di lavoro e dalle persone assicurate sono dovuti per intero dal datore di lavoro.
 
-<sup>1bis</sup> In caso di mantenimento dell’assicurazione di cui all’articolo 18*d*, la persona assicurata deve pagare il proprio contributo di risanamento. Quest’ultimo è fatturato alla persona assicurata.[^35-1]
+<sup>1bis</sup> In caso di differimento della riscossione della prestazione di vecchiaia di cui all’articolo 18*b* o di mantenimento dell’assicurazione ai sensi dell’articolo 18*d*, la persona assicurata deve pagare il proprio contributo di risanamento. Quest’ultimo è fatturato alla persona assicurata.[^35-1]
 
 <sup>2</sup>
 
@@ -628,7 +650,7 @@ La deduzione della quota di contributo è effettuata:
 - a. mensilmente dallo stipendio delle persone assicurate;
 - b. mensilmente dalla rendita dei beneficiari di rendite.
 
-[^35-1]: Introdotto dal n. I della Dec. dell’OPC del 17 e 26 nov. 2020, approvata dal CF il 4 dic. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5903](https://fedlex.data.admin.ch/eli/oc/2020/991)).
+[^35-1]: Introdotto dal n. I della Dec. dell’OPC del 17 e 26 nov. 2020, approvata dal CF il 4 dic. 2020 ([RU 2020 5903](https://fedlex.data.admin.ch/eli/oc/2020/991)). Nuovo testo giusta il n. I della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
 
 ## Capitolo 6: Prestazioni
 
@@ -738,18 +760,18 @@ L’organo paritetico stabilisce alla fine di ogni anno i tassi di interesse per
 
 <sup>2</sup> Esso si estingue alla fine del mese nel corso del quale il beneficiario della rendita decede.
 
-<sup>3</sup> Se ha diritto a una rendita di vecchiaia alla fine del rapporto di lavoro e non ha ancora compiuto il 70° anno di età, la persona assicurata può esigere al posto della rendita di vecchiaia il trasferimento della prestazione di uscita all’istituto di previdenza del nuovo datore di lavoro. Se non ha ancora compiuto il 65° anno di età ed è annunciato all’assicurazione contro la disoccupazione, può esigere al posto della rendita di vecchiaia il trasferimento della prestazione di uscita a un istituto di libero passaggio (art. 84).[^37-1]
+<sup>3</sup> Se ha diritto a una rendita di vecchiaia alla fine del rapporto di lavoro e non ha ancora compiuto il 70° anno di età, la persona assicurata può esigere al posto della rendita di vecchiaia il trasferimento della prestazione di uscita all’istituto di previdenza del nuovo datore di lavoro. Se non ha ancora raggiunto l’età di riferimento ed è annunciata all’assicurazione contro la disoccupazione, può esigere al posto della rendita di vecchiaia il trasferimento della prestazione di uscita a un istituto di libero passaggio (art. 84).[^37-1]
 
 <sup>4</sup> La persona assicurata deve chiedere per scritto a PUBLICA il trasferimento della prestazione di uscita al più tardi 30 giorni prima della fine del rapporto di lavoro[^37-2]. Se la domanda è effettuata meno di 30 giorni prima della fine del rapporto di lavoro o dopo tale fine, i relativi costi amministrativi possono essere fatturati alla persona assicurata sempreché il regolamento dei costi lo preveda.
 
-[^37-1]: Nuovo testo giusta la Dec. dell’OPC dell’8 set. 2010, approvata dal CF il 24 nov. 2010, in vigore dal 1° gen. 2011 ([FF 2010 8025](https://fedlex.data.admin.ch/eli/fga/2010/1690)).
+[^37-1]: Nuovo testo giusta il n. I della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
 [^37-2]: Nuovo testo giusta la Dec. dell’OPC dell’8 set. 2010, approvata dal CF il 24 nov. 2010, in vigore dal 1° gen. 2011 ([FF 2010 8025](https://fedlex.data.admin.ch/eli/fga/2010/1690)).
 
 #### Art. 38
 
 **Pensionamento parziale**
 
-<sup>1</sup> Se il suo stipendio viene ridotto, in una volta sola o in più volte, dopo il compimento del 60° anno di età, per ogni riduzione la persona assicurata ha diritto a una rendita di vecchiaia corrispondente alla riduzione del guadagno assicurato.[^38-1]
+<sup>1</sup> Se il suo stipendio viene ridotto, in una volta sola o in più volte, dopo il compimento del 60° anno di età, per ogni riduzione la persona assicurata ha diritto a una prestazione di vecchiaia. La quota della prestazione di vecchiaia anticipata non può superare di volta in volta la quota della riduzione dello stipendio.[^38-1]
 
 <sup>2</sup> ...[^38-2]
 
@@ -757,7 +779,7 @@ L’organo paritetico stabilisce alla fine di ogni anno i tassi di interesse per
 
 <sup>4</sup> L’articolo 37 capoversi 3 e 4 si applica per analogia se alla fine del rapporto di lavoro la persona assicurata ha diritto a una rendita parziale di vecchiaia e non ha ancora compiuto il 70° anno di età. È fatto salvo il mantenimento della previdenza di cui all’articolo 18*c*.[^38-4]
 
-[^38-1]: Nuovo testo giusta il n. I della Dec. dell’OPC del 6 set. 2016, approvata dal CF il 10 mag. 2017, in vigore dal 1° gen. 2017 ([RU 2017 3279](https://fedlex.data.admin.ch/eli/oc/2017/342)).
+[^38-1]: Nuovo testo giusta il n. I della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
 [^38-2]: Abrogato dalla Dec. dell’OPC dell’8 set. 2010, approvata dal CF il 24 nov. 2010, in vigore dal 1° gen. 2011 ([FF 2010 8025](https://fedlex.data.admin.ch/eli/fga/2010/1690)).
 [^38-3]: Nuovo testo giusta il n. I della Dec. dell’OPC del 26 giu. 2012, approvata dal CF il 15 mar. 2013, in vigore dal 1° gen. 2013 ([RU 2013 979](https://fedlex.data.admin.ch/eli/oc/2013/208)).
 [^38-4]: Nuovo testo giusta la Dec. dell’OPC dell’8 set. 2010, approvata dal CF il 24 nov. 2010, in vigore dal 1° gen. 2011 ([FF 2010 8025](https://fedlex.data.admin.ch/eli/fga/2010/1690)).
@@ -780,26 +802,29 @@ L’organo paritetico stabilisce alla fine di ogni anno i tassi di interesse per
 
 <sup>1</sup> All’atto del pensionamento, la persona assicurata può prelevare, sotto forma di liquidazione unica in capitale, fino al 100 per cento della somma dell’avere di vecchiaia secondo l’articolo 36 nonché della somma di un avere di risparmio speciale (art. 36*a*) disponibile in quel momento per la corrispondente prestazione di vecchiaia. Se la persona assicurata comunica il prelievo di capitale meno di tre mesi prima del pensionamento, le vengono fatturate le spese amministrative conformemente al regolamento delle spese; la liquidazione in capitale è versata ad avvenuto pagamento delle spese amministrative.[^40-1]
 
-<sup>2</sup> *...*[^40-2]
+<sup>1bis</sup> Se la prestazione di vecchiaia è riscossa sotto forma di capitale, sono ammesse fino a tre riscossioni parziali. Una riscossione parziale comprende tutti i versamenti di prestazioni di vecchiaia sotto forma di capitale nel corso di un anno civile.[^40-2]
 
-<sup>3</sup> Se il datore di lavoro risolve il rapporto di lavoro senza colpa dell’assicurato, che può percepire una liquidazione in capitale, quest’ultimo può comunicare il prelievo di capitale o l’unica modifica fino al pensionamento. Per il pagamento dei costi amministrativi si applica per analogia il capoverso 1.[^40-3]
+<sup>2</sup> *...*[^40-3]
+
+<sup>3</sup> ...[^40-4]
 
 <sup>4</sup> Nel caso degli assicurati coniugati il prelievo di una liquidazione unica in capitale presuppone il consenso scritto del coniuge, con firma autenticata. Invece di fare autenticare la firma, il coniuge può firmare personalmente presso PUBLICA la dichiarazione di consenso, presentando un documento ufficiale di identità.
 
 <sup>5</sup> Fatta salva la rendita transitoria, la rendita di vecchiaia e le relative altre prestazioni assicurate sono ridotte in misura corrispondente alla liquidazione in capitale ottenuta.
 
-<sup>5bis</sup> Le quote dell’avere di vecchiaia che il datore di lavoro ha finanziato all’assicurato al momento del pensionamento sono esclusi dal prelievo di capitale conformemente alle disposizioni del diritto del lavoro.[^40-4]
+<sup>5bis</sup> Le quote dell’avere di vecchiaia che il datore di lavoro ha finanziato all’assicurato al momento del pensionamento sono esclusi dal prelievo di capitale conformemente alle disposizioni del diritto del lavoro.[^40-5]
 
-<sup>6</sup> Se sono stati effettuati riscatti (art. 32), nel corso dei tre anni successivi le prestazioni che ne risultano non possono essere ritirate dalla previdenza sotto forma di capitale. Sono esclusi da questa limitazione i riacquisti in caso di divorzio secondo l’articolo 22*d* LFLP.[^40-5]
+<sup>6</sup> Se sono stati effettuati riscatti (art. 32), nel corso dei tre anni successivi le prestazioni che ne risultano non possono essere ritirate dalla previdenza sotto forma di capitale. Sono esclusi da questa limitazione i riacquisti in caso di divorzio secondo l’articolo 22*d* LFLP.[^40-6]
 
-<sup>7</sup> Il prelievo di capitale è escluso se il mantenimento dell’assicurazione di cui all’articolo 18*d* si è protratto per oltre due anni.[^40-6]
+<sup>7</sup> Il prelievo di capitale è escluso se il mantenimento dell’assicurazione di cui all’articolo 18*d* si è protratto per oltre due anni.[^40-7]
 
 [^40-1]: Nuovo testo giusta il n. I della Dec. dell’OPC del 17 e 26 nov. 2020, approvata dal CF il 4 dic. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5903](https://fedlex.data.admin.ch/eli/oc/2020/991)).
-[^40-2]: Abrogato dal n. I della Dec. dell’OPC del 17 e 26 nov. 2020, approvata dal CF il 4 dic. 2020, con effetto dal 1° gen. 2021 ([RU 2020 5903](https://fedlex.data.admin.ch/eli/oc/2020/991)).
-[^40-3]: Nuovo testo giusta il n. I della Dec. dell’OPC del 21 giu. 2011, approvata dal CF il 19 ott. 2011, in vigore dal 1° lug. 2012 ([RU 2012 2069](https://fedlex.data.admin.ch/eli/oc/2012/275)).
-[^40-4]: Introdotto dal n. I della Dec. dell’OPC del 21 giu. 2011, approvata dal CF il 19 ott. 2011, in vigore dal 1° lug. 2012 ([RU 2012 2069](https://fedlex.data.admin.ch/eli/oc/2012/275)).
-[^40-5]: Nuovo testo giusta il n. I della Dec. dell’OPC del 6 set. 2016, approvata dal CF il 10 mag. 2017, in vigore dal 1° gen. 2017 ([RU 2017 3279](https://fedlex.data.admin.ch/eli/oc/2017/342)).
-[^40-6]: Introdotto dal n. I della Dec. dell’OPC del 17 e 26 nov. 2020, approvata dal CF il 4 dic. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5903](https://fedlex.data.admin.ch/eli/oc/2020/991)).
+[^40-2]: Introdotto dal n. I della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
+[^40-3]: Abrogato dal n. I della Dec. dell’OPC del 17 e 26 nov. 2020, approvata dal CF il 4 dic. 2020, con effetto dal 1° gen. 2021 ([RU 2020 5903](https://fedlex.data.admin.ch/eli/oc/2020/991)).
+[^40-4]: Abrogato dal n. I della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, con effetto dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
+[^40-5]: Introdotto dal n. I della Dec. dell’OPC del 21 giu. 2011, approvata dal CF il 19 ott. 2011, in vigore dal 1° lug. 2012 ([RU 2012 2069](https://fedlex.data.admin.ch/eli/oc/2012/275)).
+[^40-6]: Nuovo testo giusta il n. I della Dec. dell’OPC del 6 set. 2016, approvata dal CF il 10 mag. 2017, in vigore dal 1° gen. 2017 ([RU 2017 3279](https://fedlex.data.admin.ch/eli/oc/2017/342)).
+[^40-7]: Introdotto dal n. I della Dec. dell’OPC del 17 e 26 nov. 2020, approvata dal CF il 4 dic. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5903](https://fedlex.data.admin.ch/eli/oc/2020/991)).
 
 #### Art. 41
 
@@ -930,32 +955,19 @@ Il diritto si estingue:
 
 Le rendite annuali per coniugi o conviventi ammontano:
 
-- a.
-
-  al decesso di una persona assicurata che non ha ancora compiuto i 65 anni di età:
-
-  - – a due terzi della rendita di invalidità assicurata;
-
-- b.
-
-  al decesso del beneficiario di una rendita di vecchiaia o di invalidità:
-
-  - – a due terzi della rendita corrente;
-
-- c.
-
-  al decesso di una persona assicurata che ha compiuto i 65 anni di età:
-
-  - – a due terzi della rendita di vecchiaia acquisita al momento del decesso della persona assicurata, calcolata in base all’avere di vecchiaia ai sensi dell’articolo 36.
+- a. al decesso di una persona assicurata che non ha ancora raggiunto l’età di riferimento: a due terzi della rendita di invalidità assicurata;
+- b. al decesso del beneficiario di una rendita di vecchiaia o di invalidità: a due terzi della rendita corrente;
+- c. al decesso di una persona assicurata che ha raggiunto l’età di riferimento: a due terzi della rendita di vecchiaia acquisita al momento del decesso della persona assicurata, calcolata in base all’avere di vecchiaia ai sensi dell’articolo 36.[^46-1]
 
 <sup>2</sup> Se il coniuge o il convivente superstite è più giovane della persona defunta di oltre 15 anni e se il matrimonio o la convivenza sono durati meno di 5 anni e se il superstite non deve provvedere al sostentamento di almeno un figlio, la rendita è ridotta del due per cento per ogni anno intero o iniziato rispetto al quale il superstite avente diritto è più giovane della persona defunta di oltre 15 anni.
 
-<sup>3</sup> La rendita per coniugi secondo l’articolo 44 capoverso 5 corrisponde al massimo all’importo della rendita per coniugi ai sensi della LPP. ...[^46-1]
+<sup>3</sup> La rendita per coniugi secondo l’articolo 44 capoverso 5 corrisponde al massimo all’importo della rendita per coniugi ai sensi della LPP. ...[^46-2]
 
-<sup>4</sup> La rendita è ridotta nella misura in cui, sommata alle prestazioni per superstiti dell’AVS, supera l’importo delle pretese derivanti dalla sentenza di divorzio. Le rendite per superstiti dell’AVS sono conteggiate soltanto nella misura in cui queste superano un proprio diritto a una rendita di invalidità dell’AI o una rendita di vecchiaia dell’AVS.[^46-2]
+<sup>4</sup> La rendita è ridotta nella misura in cui, sommata alle prestazioni per superstiti dell’AVS, supera l’importo delle pretese derivanti dalla sentenza di divorzio. Le rendite per superstiti dell’AVS sono conteggiate soltanto nella misura in cui queste superano un proprio diritto a una rendita di invalidità dell’AI o una rendita di vecchiaia dell’AVS.[^46-3]
 
-[^46-1]: Per. abrogato dalla Dec. dell’OPC del 5 nov. 2008, approvata dal CF il 14 gen. 2009, con effetto dal 1° feb. 2009 ([FF 2009 2287](https://fedlex.data.admin.ch/eli/fga/2009/530)).
-[^46-2]: Nuovo testo giusta il n. I della Dec. dell’OPC del 6 set. 2016, approvata dal CF il 10 mag. 2017, in vigore dal 1° gen. 2017 ([RU 2017 3279](https://fedlex.data.admin.ch/eli/oc/2017/342)).
+[^46-1]: Nuovo testo giusta il n. I della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
+[^46-2]: Per. abrogato dalla Dec. dell’OPC del 5 nov. 2008, approvata dal CF il 14 gen. 2009, con effetto dal 1° feb. 2009 ([FF 2009 2287](https://fedlex.data.admin.ch/eli/fga/2009/530)).
+[^46-3]: Nuovo testo giusta il n. I della Dec. dell’OPC del 6 set. 2016, approvata dal CF il 10 mag. 2017, in vigore dal 1° gen. 2017 ([RU 2017 3279](https://fedlex.data.admin.ch/eli/oc/2017/342)).
 
 #### Art. 46a
 
@@ -1005,27 +1017,13 @@ Se il capitale garantito in caso di decesso di cui all’articolo 50 supera il c
 
 La rendita per orfani ammonta:
 
-- a.
-
-  al decesso di una persona assicurata che non ha ancora compiuto i 65 anni di età:
-
-  - – a un sesto della rendita di invalidità assicurata;
-
-- b.[^48-1]
-
-  al decesso del beneficiario di una rendita di vecchiaia o di invalidità:
-
-  - – a un sesto della rendita corrente; in caso di divorzio è fatto salvo l’articolo 100 capoverso 6 secondo periodo;
-
-- c.
-
-  al decesso di una persona assicurata che ha compiuto i 65 anni di età:
-
-  - – a un sesto della rendita di vecchiaia acquisita al momento del decesso della persona assicurata, calcolata in base all’avere di vecchiaia ai sensi dell’articolo 36.
+- a. al decesso di una persona assicurata che non ha ancora raggiunto l’età di riferimento: a un sesto della rendita di invalidità assicurata;
+- b. al decesso del beneficiario di una rendita di vecchiaia o di invalidità: a un sesto della rendita corrente; in caso di divorzio è fatto salvo l’articolo 100 capoverso 6 secondo periodo;
+- c. al decesso di una persona assicurata che ha raggiunto l’età di riferimento: a un sesto della rendita di vecchiaia acquisita al momento del decesso della persona assicurata, calcolata in base all’avere di vecchiaia ai sensi dell’articolo 36.[^48-1]
 
 <sup>2</sup> Gli orfani di padre e madre hanno diritto a una doppia rendita per orfani.
 
-[^48-1]: Nuovo testo giusta il n. I della Dec. dell’OPC del 6 set. 2016, approvata dal CF il 10 mag. 2017, in vigore dal 1° gen. 2017 ([RU 2017 3279](https://fedlex.data.admin.ch/eli/oc/2017/342)).
+[^48-1]: Nuovo testo giusta il n. I della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
 
 #### Art. 49
 
@@ -1033,31 +1031,33 @@ La rendita per orfani ammonta:
 
 <sup>1</sup>
 
-Qualora al decesso di una persona assicurata non sussista alcun diritto ai sensi degli articoli 44 e 45, PUBLICA versa un capitale garantito in caso di decesso.[^49-1] A prescindere dal diritto delle successioni, sono aventi diritto nell’ordine seguente:
+Qualora al decesso di una persona assicurata non sussista alcun diritto ai sensi degli articoli 44 capoversi 1 e 2 e 45, PUBLICA versa un capitale garantito in caso di decesso. Il diritto al capitale garantito in caso di decesso non è escluso in caso di versamento di una rendita per coniugi al coniuge divorziato (art. 44 cpv. 5). A prescindere dal diritto successorio sono aventi diritto, nell’ordine seguente:[^49-1]
 
 - a. le persone fisiche che erano assistite in misura considerevole dalla persona assicurata;
 - b.[^49-2] la persona che ha ininterrottamente convissuto con la persona assicurata negli ultimi cinque anni prima del decesso o che deve provvedere al mantenimento di uno o più figli comuni, sempreché adempia le condizioni del diritto di cui all’articolo 45 capoversi 2 e 3;
 - c. i figli della persona assicurata;
-- d. i genitori.
+- d. i genitori;
+- e.[^49-3] i fratelli e le sorelle.
 
-<sup>2</sup> Non sono aventi diritto le persone di cui al capoverso 1 lettere a e b che percepiscono una rendita per coniugi o conviventi da un altro istituto di previdenza.[^49-3]
+<sup>2</sup> Non sono aventi diritto le persone di cui al capoverso 1 lettere a e b che percepiscono una rendita per coniugi o conviventi da un altro istituto di previdenza.[^49-4]
 
 <sup>3</sup> Il capitale garantito in caso di decesso spetta in parti uguali a più aventi diritto dello stesso gruppo di beneficiari.
 
-<sup>4</sup> Se entro il termine di un anno dal decesso della persona assicurata non è fatto valere alcun diritto, il capitale garantito in caso di decesso è devoluto alla Cassa di previdenza della Confederazione.[^49-4]
+<sup>4</sup> Se entro il termine di un anno dal decesso della persona assicurata non è fatto valere alcun diritto, il capitale garantito in caso di decesso è devoluto alla Cassa di previdenza della Confederazione.[^49-5]
 
-[^49-1]: Nuovo testo giusta la Dec. dell’OPC del 5 nov. 2008, approvata dal CF il 14 gen. 2009, in vigore dal 1° feb. 2009 ([FF 2009 2287](https://fedlex.data.admin.ch/eli/fga/2009/530)).
+[^49-1]: Nuovo testo giusta il n. I della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
 [^49-2]: Nuovo testo giusta il n. I della Dec. dell’OPC del 21 giu. 2011, approvata dal CF il 19 ott. 2011, in vigore dal 1° lug. 2012 ([RU 2012 2069](https://fedlex.data.admin.ch/eli/oc/2012/275)).
-[^49-3]: Nuovo testo giusta giusta il n. I della Dec. dell’OPC del 26 giu. 2012, approvata dal CF il 15 mar. 2013, in vigore dal 1° gen. 2013 ([RU 2013 979](https://fedlex.data.admin.ch/eli/oc/2013/208)).
-[^49-4]: Nuovo testo giusta la Dec. dell’OPC del 5 nov. 2008, approvata dal CF il 14 gen. 2009, in vigore dal 1° feb. 2009 ([FF 2009 2287](https://fedlex.data.admin.ch/eli/fga/2009/530)).
+[^49-3]: Introdotta dal n. I della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
+[^49-4]: Nuovo testo giusta giusta il n. I della Dec. dell’OPC del 26 giu. 2012, approvata dal CF il 15 mar. 2013, in vigore dal 1° gen. 2013 ([RU 2013 979](https://fedlex.data.admin.ch/eli/oc/2013/208)).
+[^49-5]: Nuovo testo giusta la Dec. dell’OPC del 5 nov. 2008, approvata dal CF il 14 gen. 2009, in vigore dal 1° feb. 2009 ([FF 2009 2287](https://fedlex.data.admin.ch/eli/fga/2009/530)).
 
 #### Art. 50
 
-**Entità del capitale garantito in caso di decesso**
+**Entità del capitale garantito in caso di decesso**[^50-1]
 
-Il capitale garantito in caso di decesso corrisponde alla metà dell’avere di vecchiaia al momento del decesso della persona assicurata. Esso è diminuito del valore in contanti di un’eventuale rendita per orfani (art. 47 e 48).[^50-1]
+Il capitale garantito in caso di decesso corrisponde a una liquidazione in capitale pari al 100 per cento dell’avere di vecchiaia al momento del decesso della persona assicurata. Tale capitale è diminuito del valore in contanti di un’eventuale rendita per orfani (art. 47 e art. 48) o per un coniuge divorziato (art. 44 cpv. 5).
 
-[^50-1]: Nuovo testo giusta la Dec. dell’OPC dell’8 set. 2010, approvata dal CF il 24 nov. 2010, in vigore dal 1° gen. 2011 ([FF 2010 8025](https://fedlex.data.admin.ch/eli/fga/2010/1690)).
+[^50-1]: Nuovo testo giusta il n. I della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
 
 ### Sezione 3: Prestazioni di invalidità
 
@@ -1077,9 +1077,10 @@ Ha diritto alle prestazioni di invalidità la persona assicurata che:
 
 <sup>3</sup> È considerata incapacità al lavoro qualsiasi incapacità, totale o parziale, derivante da un danno alla salute fisica, mentale o psichica, di compiere un lavoro ragionevolmente esigibile nella professione o nel campo d’attività abituale. In caso d’incapacità al lavoro di lunga durata possono essere prese in considerazione anche le mansioni esigibili in un’altra professione o campo d’attività (art. 6 LPGA).
 
-<sup>4</sup> In caso di pensionamento prima del compimento del 65° anno di età il diritto alla rendita di invalidità è dato unicamente se l’incapacità al lavoro che ha portato all’invalidità è insorta prima del pensionamento.
+<sup>4</sup> In caso di pensionamento prima del raggiungimento dell’età di riferimento il diritto alla rendita di invalidità è dato unicamente se l’incapacità al lavoro che ha portato all’invalidità è insorta prima del pensionamento.[^51-2]
 
 [^51-1]: Abrogato dal n. I della Dec. dell’OPC del 26 giu. 2012, approvata dal CF il 15 mar. 2013, con effetto dal 1° gen. 2013 ([RU 2013 979](https://fedlex.data.admin.ch/eli/oc/2013/208)).
+[^51-2]: Nuovo testo giusta il n. I della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
 
 #### Art. 52
 
@@ -1101,9 +1102,9 @@ Il diritto del beneficiario della rendita alle prestazioni di invalidità si est
 
 - a. in caso di decesso;
 - b. nella misura in cui egli recupera la capacità al guadagno, fatto salvo l’articolo 52*b* capoversi 1 e 2; oppure
-- c. al raggiungimento del 65° anno di età.
+- c. al raggiungimento dell’età di riferimento.
 
-<sup>2</sup> Dopo il compimento del 65° anno di età è erogata una rendita di vecchiaia al posto della rendita di invalidità. Tale rendita di vecchiaia non può essere prelevata sotto forma di capitale.
+<sup>2</sup> Dopo il raggiungimento dell’età di riferimento è erogata una rendita di vecchiaia al posto della rendita di invalidità. Tale rendita di vecchiaia non può essere prelevata sotto forma di capitale.
 
 [^52a-1]: Introdotto dal n. I della Dec. dell’OPC del 26 giu. 2012, approvata dal CF il 15 mar. 2013, in vigore dal 1° gen. 2013 ([RU 2013 979](https://fedlex.data.admin.ch/eli/oc/2013/208)).
 
@@ -1166,18 +1167,33 @@ In caso di invalidità parziale l’avente diritto può disporre di un avere di 
 
 <sup>3</sup> In caso di decesso un avere di risparmio speciale è versato conformemente all’articolo 43 capoverso 2.
 
+**Art. 56**[^55-2] Entità del diritto a una rendita di invalidità
+
+<sup>1</sup> L’entità della rendita di invalidità dipende dal grado d’invalidità ai sensi della LAI[^55-3] e corrisponde a una quota percentuale dell’intera rendita di invalidità:
+
+<table>
+<tr><th>Grado d’invalidità ai sensi della LAI</th><th>Entità della rendita di invalidità</th></tr>
+<tr><td>0–39 %</td><td>0,0 %</td></tr>
+<tr><td>40 %</td><td>25,0 %</td></tr>
+<tr><td>41 %</td><td>27,5 %</td></tr>
+<tr><td>42 %</td><td>30,0 %</td></tr>
+<tr><td>43 %</td><td>32,5 %</td></tr>
+<tr><td>44 %</td><td>35,0 %</td></tr>
+<tr><td>45 %</td><td>37,5 %</td></tr>
+<tr><td>46 %</td><td>40,0 %</td></tr>
+<tr><td>47 %</td><td>42,5 %</td></tr>
+<tr><td>48 %</td><td>45,0 %</td></tr>
+<tr><td>49 %</td><td>47,5 %</td></tr>
+<tr><td>50–69 %</td><td>corrisponde al grado d’invalidità del 50–69 %</td></tr>
+<tr><td>70–100 %</td><td>100 %</td></tr>
+</table>
+
+<sup>2</sup> L’adeguamento dell’entità della rendita di invalidità presuppone una modificazione del grado d’invalidità ai sensi della LAI di almeno cinque punti percentuali (art. 17 cpv. 1 lett. a LPGA[^55-4]); è fatto salvo l’articolo 52*b* capoversi 1 e 2.
+
 [^55-1]: Nuovo testo giusta il n. I della Dec. dell’OPC del 26 giu. 2012, approvata dal CF il 15 mar. 2013, in vigore dal 1° gen. 2013 ([RU 2013 979](https://fedlex.data.admin.ch/eli/oc/2013/208)).
-
-#### Art. 56
-
-**Entità del diritto a una rendita di invalidità**
-
-L’invalido ha diritto:
-
-- a. a un quarto della rendita nel caso di un’invalidità di almeno il 40 per cento ai sensi della LAI;
-- b. alla metà della rendita nel caso di un’invalidità di almeno il 50 per cento ai sensi della LAI;
-- c. ai tre quarti della rendita nel caso di un’invalidità di almeno il 60 per cento ai sensi della LAI;
-- d. all’intera rendita di invalidità nel caso di un’invalidità di almeno il 70 per cento ai sensi della LAI.
+[^55-2]: Nuovo testo giusta il n. I della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
+[^55-3]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^55-4]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 
 #### Art. 57
 
@@ -1185,26 +1201,27 @@ L’invalido ha diritto:
 
 <sup>1</sup>
 
-Le prestazioni di invalidità sono calcolate secondo il tasso di conversione applicabile all’età ordinaria di pensionamento AVS (all. 3). Fatto salvo l’articolo 100 capoverso 3 in caso di divorzio, sono computati come avere di vecchiaia:[^57-1]
+Le prestazioni di invalidità sono calcolate secondo il tasso di conversione applicabile all’età di riferimento[^57-1] (all. 3). Fatto salvo l’articolo 100 capoverso 3 in caso di divorzio, sono computati come avere di vecchiaia:[^57-2]
 
 - a. l’avere di vecchiaia secondo l’articolo 36 che la persona assicurata ha acquisito fino alla nascita del diritto alla prestazione di invalidità; e
-- b. la somma degli accrediti di vecchiaia secondo l’articolo 24 a contare dalla nascita del diritto alla prestazione di invalidità fino al compimento del 65° anno di età. È determinante ai fini dell’entità degli accrediti di vecchiaia il guadagno assicurato al momento dell’insorgere dell’incapacità al lavoro che ha portato all’invalidità. Eventuali compensazioni del rincaro fino alla nascita del diritto alla rendita di invalidità non sono prese in considerazione.[^57-2]
+- b. la somma degli accrediti di vecchiaia secondo l’articolo 24 a contare dalla nascita del diritto alla prestazione di invalidità fino al raggiungimento dell’età di riferimento. È determinante ai fini dell’entità degli accrediti di vecchiaia il guadagno assicurato al momento dell’insorgere dell’incapacità al lavoro che ha portato all’invalidità. Eventuali compensazioni del rincaro fino alla nascita del diritto alla rendita di invalidità non sono prese in considerazione.[^57-3]
 
-<sup>2</sup> L’avere di vecchiaia e gli accrediti di vecchiaia sono rimunerati con un interesse del due per cento. Si applica l’articolo 36*b* capoversi 1 e 2.[^57-3]
+<sup>2</sup> L’avere di vecchiaia e gli accrediti di vecchiaia sono rimunerati con un interesse del due per cento. Si applica l’articolo 36*b* capoversi 1 e 2.[^57-4]
 
-<sup>3</sup> Nel calcolo dell’avere di vecchiaia secondo il capoverso 1 non sono presi in considerazione i riscatti effettuati dopo l’insorgere dell’incapacità al lavoro che ha portato all’invalidità. Tali riscatti sono rimborsati.[^57-4]
+<sup>3</sup> Nel calcolo dell’avere di vecchiaia secondo il capoverso 1 non sono presi in considerazione i riscatti effettuati dopo l’insorgere dell’incapacità al lavoro che ha portato all’invalidità. Tali riscatti sono rimborsati.[^57-5]
 
-<sup>4</sup> La prestazione di invalidità non deve superare il 60 per cento del guadagno assicurato al momento dell’insorgere dell’incapacità al lavoro che ha portato all’invalidità. Eventuali compensazioni del rincaro fino alla nascita del diritto alla rendita di invalidità non sono prese in considerazione.[^57-5]
+<sup>4</sup> La prestazione di invalidità non deve superare il 60 per cento del guadagno assicurato al momento dell’insorgere dell’incapacità al lavoro che ha portato all’invalidità. Eventuali compensazioni del rincaro fino alla nascita del diritto alla rendita di invalidità non sono prese in considerazione.[^57-6]
 
 <sup>5</sup> Se il diritto a una rendita di invalidità nasce nel corso di un congedo non pagato o di un congedo parzialmente pagato, l’ultimo guadagno assicurato prima dell’inizio del congedo è determinante per il calcolo della rendita di invalidità.
 
 <sup>6</sup> Per il calcolo delle rendite per superstiti secondo gli articoli 46 capoverso 1 lettera a e 48 capoverso 1 lettera a sono determinanti il guadagno assicurato e l’avere di vecchiaia al momento del decesso.
 
-[^57-1]: Nuovo testo giusta il n. I della Dec. dell’OPC del 6 set. 2016, approvata dal CF il 10 mag. 2017, in vigore dal 1° gen. 2017 ([RU 2017 3279](https://fedlex.data.admin.ch/eli/oc/2017/342)).
-[^57-2]: Nuovo testo giusta la Dec. dell’OPC dell’8 set. 2010, approvata dal CF il 24 nov. 2010, in vigore dal 1° gen. 2011 ([FF 2010 8025](https://fedlex.data.admin.ch/eli/fga/2010/1690)).
-[^57-3]: Nuovo testo giusta il n. I della Dec. dell’OPC del 26 giu. 2012, approvata dal CF il 15 mar. 2013, in vigore dal 1° gen. 2013 ([RU 2013 979](https://fedlex.data.admin.ch/eli/oc/2013/208)).
-[^57-4]: Nuovo testo giusta il n. I della Dec. dell’OPC del 19 giu. e dell’8 ott. 2018, approvata dal CF il 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4749](https://fedlex.data.admin.ch/eli/oc/2018/754)).
-[^57-5]: Nuovo testo giusta la Dec. dell’OPC dell’8 set. 2010, approvata dal CF il 24 nov. 2010, in vigore dal 1° gen. 2011 ([FF 2010 8025](https://fedlex.data.admin.ch/eli/fga/2010/1690)).
+[^57-1]: Nuova espressione giusta il n. I cpv. 2 della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
+[^57-2]: Nuovo testo giusta il n. I della Dec. dell’OPC del 6 set. 2016, approvata dal CF il 10 mag. 2017, in vigore dal 1° gen. 2017 ([RU 2017 3279](https://fedlex.data.admin.ch/eli/oc/2017/342)).
+[^57-3]: Nuovo testo giusta la Dec. dell’OPC dell’8 set. 2010, approvata dal CF il 24 nov. 2010, in vigore dal 1° gen. 2011 ([FF 2010 8025](https://fedlex.data.admin.ch/eli/fga/2010/1690)).
+[^57-4]: Nuovo testo giusta il n. I della Dec. dell’OPC del 26 giu. 2012, approvata dal CF il 15 mar. 2013, in vigore dal 1° gen. 2013 ([RU 2013 979](https://fedlex.data.admin.ch/eli/oc/2013/208)).
+[^57-5]: Nuovo testo giusta il n. I della Dec. dell’OPC del 19 giu. e dell’8 ott. 2018, approvata dal CF il 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4749](https://fedlex.data.admin.ch/eli/oc/2018/754)).
+[^57-6]: Nuovo testo giusta la Dec. dell’OPC dell’8 set. 2010, approvata dal CF il 24 nov. 2010, in vigore dal 1° gen. 2011 ([FF 2010 8025](https://fedlex.data.admin.ch/eli/fga/2010/1690)).
 
 #### Art. 58
 
@@ -1232,7 +1249,7 @@ La rendita per figli del beneficiario di una rendita di invalidità ammonta a un
 
 **Diritto**
 
-<sup>1</sup> I beneficiari di una rendita di vecchiaia hanno diritto a una rendita transitoria, corrispondente al grado di pensionamento, dall’inizio della rendita di vecchiaia fino all’età ordinaria di pensionamento AVS.[^60-1]
+<sup>1</sup> I beneficiari di una rendita di vecchiaia hanno diritto a una rendita transitoria, corrispondente al grado di pensionamento, dall’inizio della rendita di vecchiaia fino all’età di riferimento.[^60-1]
 
 <sup>2</sup> La persona assicurata deve comunicare a PUBLICA, al più tardi tre mesi prima dell’inizio della riscossione della rendita di vecchiaia, se intende percepire una mezza rendita transitoria, una rendita transitoria intera o nessuna rendita transitoria.
 
@@ -1242,22 +1259,25 @@ La rendita per figli del beneficiario di una rendita di invalidità ammonta a un
 
 La persona assicurata comunica a PUBLICA, al più tardi tre mesi prima della riscossione della rendita transitoria, secondo quali dei principi di calcolo seguenti intende finanziare la propria quota:[^60-2]
 
-- a. con una riduzione a vita immediata della rendita di vecchiaia alla quale ha diritto ai sensi dell’articolo 39 (all. 4 cifra I, tabella 1 o 2);
+- a.[^60-3] con una riduzione a vita immediata della rendita di vecchiaia alla quale ha diritto ai sensi dell’articolo 39 (all. 4, cifra I);
 - b. con il riscatto della riduzione ai sensi della lettera a (all. 4 cifra II); oppure
-- c. con una riduzione a vita, a contare dal raggiungimento dell’età AVS, della rendita di vecchiaia e delle prestazioni ad essa connesse, alle quali ha diritto ai sensi dell’articolo 39 (all. 5 cifra I, tabella 1 o 2).[^60-3]
+- c.[^60-4] con una riduzione a vita, a contare dal raggiungimento dell’età di riferimento, della rendita di vecchiaia e delle prestazioni ad essa connesse, alle quali ha diritto ai sensi dell’articolo 39 (all. 5, cifra I).[^60-5]
 
-<sup>4bis</sup> Se la comunicazione della persona assicurata perviene a PUBLICA meno di tre mesi prima della riscossione della rendita transitoria, i costi amministrativi sono fatturati alla persona assicurata conformemente al regolamento delle spese.[^60-4]
+<sup>4bis</sup> Se la comunicazione della persona assicurata perviene a PUBLICA meno di tre mesi prima della riscossione della rendita transitoria, i costi amministrativi sono fatturati alla persona assicurata conformemente al regolamento delle spese.[^60-6]
 
-<sup>5</sup> In caso di decesso prima del raggiungimento dell’età AVS di un beneficiario della rendita che ha optato a favore del finanziamento secondo il capoverso 4 lettera c, le prestazioni per superstiti sono ridotte sotto il profilo attuariale (all. 5 cifra II).[^60-5]
+<sup>5</sup> In caso di decesso prima del raggiungimento dell’età di riferimento[^60-7] di un beneficiario della rendita che ha optato a favore del finanziamento secondo il capoverso 4 lettera c, le prestazioni per superstiti sono ridotte sotto il profilo attuariale (all. 5 cifra II).[^60-8]
 
-<sup>6</sup> Chi percepisce la rendita di vecchiaia come capitale può esigere la rendita transitoria soltanto se riscatta la riduzione ai sensi del capoverso 4 lettera b.[^60-6]
+<sup>6</sup> Chi percepisce la rendita di vecchiaia come capitale può esigere la rendita transitoria soltanto se riscatta la riduzione ai sensi del capoverso 4 lettera b.[^60-9]
 
 [^60-1]: Nuovo testo giusta il n. I della Dec. dell’OPC del 6 set. 2016, approvata dal CF il 10 mag. 2017, in vigore dal 1° gen. 2017 ([RU 2017 3279](https://fedlex.data.admin.ch/eli/oc/2017/342)).
 [^60-2]: Nuovo testo giusta il n. I della Dec. dell’OPC del 26 giu. 2012, approvata dal CF il 15 mar. 2013, in vigore dal 1° gen. 2013 ([RU 2013 979](https://fedlex.data.admin.ch/eli/oc/2013/208)).
-[^60-3]: Nuovo testo giusta la Dec. dell’OPC del 5 nov. 2008, approvata dal CF il 14 gen. 2009, in vigore dal 1° feb. 2009 ([FF 2009 2287](https://fedlex.data.admin.ch/eli/fga/2009/530)).
-[^60-4]: Introdotto dal n. I della Dec. dell’OPC del 26 giu. 2012, approvata dal CF il 15 mar. 2013, in vigore dal 1° gen. 2013 ([RU 2013 979](https://fedlex.data.admin.ch/eli/oc/2013/208)).
+[^60-3]: Nuovo testo giusta il n. I della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
+[^60-4]: Nuovo testo giusta il n. I della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
 [^60-5]: Nuovo testo giusta la Dec. dell’OPC del 5 nov. 2008, approvata dal CF il 14 gen. 2009, in vigore dal 1° feb. 2009 ([FF 2009 2287](https://fedlex.data.admin.ch/eli/fga/2009/530)).
-[^60-6]: Nuovo testo giusta la Dec. dell’OPC del 5 nov. 2008, approvata dal CF il 14 gen. 2009, in vigore dal 1° feb. 2009 ([FF 2009 2287](https://fedlex.data.admin.ch/eli/fga/2009/530)).
+[^60-6]: Introdotto dal n. I della Dec. dell’OPC del 26 giu. 2012, approvata dal CF il 15 mar. 2013, in vigore dal 1° gen. 2013 ([RU 2013 979](https://fedlex.data.admin.ch/eli/oc/2013/208)).
+[^60-7]: Nuova espressione giusta il n. I cpv. 3 della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
+[^60-8]: Nuovo testo giusta la Dec. dell’OPC del 5 nov. 2008, approvata dal CF il 14 gen. 2009, in vigore dal 1° feb. 2009 ([FF 2009 2287](https://fedlex.data.admin.ch/eli/fga/2009/530)).
+[^60-9]: Nuovo testo giusta la Dec. dell’OPC del 5 nov. 2008, approvata dal CF il 14 gen. 2009, in vigore dal 1° feb. 2009 ([FF 2009 2287](https://fedlex.data.admin.ch/eli/fga/2009/530)).
 
 #### Art. 61
 
@@ -1283,18 +1303,20 @@ La persona assicurata comunica a PUBLICA, al più tardi tre mesi prima della ris
 
 Se al momento della nascita del diritto alle prestazioni di vecchiaia ha compiuto il 60° anno di età, ma non ancora il 63°, la persona assicurata riceve la rendita di vecchiaia che le spetterebbe in caso di pensionamento al compimento del 63° anno di età. Sono computati come avere di vecchiaia:
 
-- a. l’avere di vecchiaia ai sensi dell’articolo 36 che la persona assicurata ha acquisito fino alla nascita del diritto alle prestazioni di vecchiaia; e
-- b. la somma degli accrediti di vecchiaia secondo l’articolo 24 a contare dalla nascita del diritto alle prestazioni di vecchiaia fino al compimento del 63° anno di età. Ai fini dell’entità degli accrediti di vecchiaia è determinante il guadagno assicurato immediatamente prima della nascita del diritto alle prestazioni di vecchiaia.
+- a. l’avere di vecchiaia ai sensi dell’articolo 36 che la persona assicurata ha acquisito fino alla nascita del diritto alle prestazioni di vecchiaia;
+- b. la somma degli accrediti di vecchiaia secondo l’articolo 24 a contare dalla nascita del diritto alle prestazioni di vecchiaia fino al compimento del 63° anno di età. Ai fini dell’entità degli accrediti di vecchiaia è determinante il guadagno assicurato immediatamente prima della nascita del diritto alle prestazioni di vecchiaia; e
+- c.[^64-3] l’interesse annuo del due per cento dalla nascita del diritto alle prestazioni di vecchiaia fino al compimento del 63° anno di età; l’articolo 36*b* capoversi 1 e 2 si applica per analogia.
 
 <sup>3</sup> Se ha compiuto il 63° anno di età nel momento in cui è nato il diritto alle prestazioni di vecchiaia, la persona assicurata percepisce una rendita di vecchiaia ai sensi dell’articolo 39.
 
 <sup>4</sup> Un avere di risparmio speciale può essere impiegato per aumentare la rendita di vecchiaia stabilita nei capoversi 2 e 3. L’avere di vecchiaia e un avere di risparmio speciale possono essere prelevati sotto forma di liquidazione unica in capitale in applicazione dell’articolo 40.
 
-<sup>5</sup> Il datore di lavoro trasferisce a PUBLICA il capitale di copertura necessario per il finanziamento della rendita di vecchiaia di cui al capoverso 2 e della rendita transitoria.[^64-3]
+<sup>5</sup> Il datore di lavoro trasferisce a PUBLICA il capitale di copertura necessario per il finanziamento della rendita di vecchiaia di cui al capoverso 2 e della rendita transitoria.[^64-4]
 
 [^64-1]: Nuovo testo giusta il n. I della Dec. dell’OPC del 21 ott. 2014, approvata dal CF il 5 dic. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4569](https://fedlex.data.admin.ch/eli/oc/2014/766)).
 [^64-2]: Introdotto dal n. I della Dec. dell’OPC del 17 e 26 nov. 2020, approvata dal CF il 4 dic. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5903](https://fedlex.data.admin.ch/eli/oc/2020/991)).
-[^64-3]: Nuovo testo giusta il n. I della Dec. dell’OPC del 17 e 26 nov. 2020, approvata dal CF il 4 dic. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5903](https://fedlex.data.admin.ch/eli/oc/2020/991)).
+[^64-3]: Introdotta dal n. I della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
+[^64-4]: Nuovo testo giusta il n. I della Dec. dell’OPC del 17 e 26 nov. 2020, approvata dal CF il 4 dic. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5903](https://fedlex.data.admin.ch/eli/oc/2020/991)).
 
 ## Capitolo 8: Disposizioni comuni concernenti le prestazioni
 
@@ -1410,7 +1432,7 @@ Le rendite di vecchiaia, per i superstiti e di invalidità sono adeguate all’e
 
 <sup>1</sup> Per il calcolo del sovraindennizzo si applicano gli articoli 34*a* LPP, 24, 24*a* e 25 OPP 2. In deroga all’articolo 34*a* capoverso 1 LPP, le prestazioni per superstiti, di invalidità e di invalidità professionale di PUBLICA unitamente alle altre prestazioni di medesimo genere e destinazione nonché a ulteriori proventi computabili non possono superare il 100 per cento del guadagno presumibilmente perso.
 
-<sup>2</sup> Se dopo il compimento del 65° anno di età viene versata una rendita di vecchiaia in luogo di una rendita di invalidità o di invalidità professionale, essa è trattata come una rendita di invalidità o di invalidità professionale.
+<sup>2</sup> Se dopo il raggiungimento dell’età di riferimento viene versata una rendita di vecchiaia in luogo di una rendita di invalidità o di invalidità professionale, essa è trattata come una rendita di invalidità o di invalidità professionale.
 
 <sup>3</sup> Nei proventi computabili di cui al capoverso 1 rientra anche la parte dell’avere di risparmio speciale riscossa come liquidazione unica in capitale ai sensi dell’articolo 43 capoverso 2 oppure ai sensi dell’articolo 55 capoverso 1 lettera b o capoverso 2 che corrisponde ai contributi supplementari di risparmio del datore di lavoro secondo l’articolo 36*a* capoverso 2 lettera a<sup>bis</sup> e all’accredito unico secondo l’articolo 36*a* capoverso 2 lettera a<sup>ter</sup>.
 
@@ -1525,11 +1547,12 @@ Se per motivi diversi dal decesso e dall’invalidità il rapporto di lavoro di 
 - b. il prelievo delle prestazioni di vecchiaia; oppure
 - c.[^84-2] il trasferimento della prestazione di uscita a un istituto di libero passaggio, se è annunciato all’assicurazione contro la disoccupazione.
 
-<sup>2</sup> Gli assicurati che hanno compiuto il 65° anno di età possono chiedere il trasferimento della prestazione di uscita di cui al capoverso 1 lettera a solo se sono ammessi nell’assicurazione secondo il regolamento dell’istituto di previdenza del nuovo datore di lavoro e la loro previdenza è protratta secondo l’articolo 33*b* LPP.[^84-3]
+<sup>2</sup> Gli assicurati che hanno raggiunto l’età di riferimento possono chiedere il trasferimento della prestazione di uscita di cui al capoverso 1 lettera a solo se sono ammessi nell’assicurazione secondo il regolamento dell’istituto di previdenza del nuovo datore di lavoro e la loro previdenza è protratta secondo l’articolo 33*b* LPP[^84-3] o differiscono la riscossione della prestazione di vecchiaia ai sensi dell’articolo 13*b* LPP. [^84-4]
 
 [^84-1]: Nuovo testo giusta la Dec. dell’OPC dell’8 set. 2010, approvata dal CF il 24 nov. 2010, in vigore dal 1° gen. 2011 ([FF 2010 8025](https://fedlex.data.admin.ch/eli/fga/2010/1690)).
 [^84-2]: Introdotta dalla Dec. dell’OPC del 2 e 15 set. 2009, nonché del 20 ott. 2009, approvate dal CF l’11 nov. 2009, in vigore dal 1° gen. 2010 ([FF 2009 7381](https://fedlex.data.admin.ch/eli/fga/2009/1447)).
-[^84-3]: Nuovo testo giusta la Dec. dell’OPC dell’8 set. 2010, approvata dal CF il 24 nov. 2010, in vigore dal 1° gen. 2011 ([FF 2010 8025](https://fedlex.data.admin.ch/eli/fga/2010/1690)).
+[^84-3]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^84-4]: Nuovo testo giusta il n. I della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
 
 #### Art. 84a
 
@@ -1596,19 +1619,29 @@ Se PUBLICA ha fornito una prestazione di uscita troppo bassa, l’interesse sugl
 In caso di libero passaggio la persona assicurata e il nuovo istituto di previdenza o di libero passaggio o la fondazione dell’istituto collettore ricevono le seguenti informazioni da PUBLICA:
 
 - a. l’entità dell’avere di vecchiaia secondo l’articolo 36;
-- b. l’entità dell’importo minimo secondo l’articolo 85 capoverso 2 (art. 17 LFLP);
+- b.[^88-1] l’entità dell’importo minimo secondo l’articolo 85 capoverso 2 (art. 17 LFLP[^88-2]);
 - c. l’entità dell’avere di vecchiaia secondo l’articolo 15 LPP;
-- d.[^88-1] ...
-- e.[^88-2] informazioni concernenti i prelievi anticipati per la promozione della proprietà d’abitazioni secondo gli articoli 91–98;
+- d.[^88-3] ...
+- e.[^88-4] informazioni concernenti i prelievi anticipati per la promozione della proprietà d’abitazioni secondo gli articoli 91–98;
 - f. informazioni concernenti la costituzione in pegno del diritto alle prestazioni di previdenza ai sensi degli articoli 91 e 94;
-- g.[^88-3] se del caso l’entità dell’avere di vecchiaia al compimento del 50° anno di età;
+- g.[^88-5] se del caso l’entità dell’avere di vecchiaia al compimento del 50° anno di età;
 - h. se del caso l’entità dell’avere di vecchiaia in caso di matrimonio o al 1° gennaio 1995;
-- i.[^88-4] informazioni concernenti i contributi che sono stati trasferiti in seguito a divorzio secondo l’articolo 100 capoverso 2.
+- i.[^88-6] informazioni concernenti i contributi che sono stati trasferiti in seguito a divorzio secondo l’articolo 100 capoverso 2;
+- j.[^88-7]
 
-[^88-1]: Abrogata dalla Dec. dell’OPC del 5 nov. 2008, approvata dal CF il 14 gen. 2009, con effetto dal 1° feb. 2009 ([FF 2009 2287](https://fedlex.data.admin.ch/eli/fga/2009/530)).
-[^88-2]: Nuovo testo giusta il n. I della Dec. dell’OPC del 6 set. 2016, approvata dal CF il 10 mag. 2017, in vigore dal 1° gen. 2017 ([RU 2017 3279](https://fedlex.data.admin.ch/eli/oc/2017/342)).
-[^88-3]: Nuovo testo giusta il n. I della Dec. dell’OPC del 6 set. 2016, approvata dal CF il 10 mag. 2017, in vigore dal 1° gen. 2017 ([RU 2017 3279](https://fedlex.data.admin.ch/eli/oc/2017/342)).
+  informazioni concernenti la riscossione della prestazione di vecchiaia o d’invalidità, se la persona assicurata riceve o ha ricevuto una prestazione di vecchiaia oppure riceve una rendita in seguito a invalidità parziale, necessarie per:
+
+  - 1\. calcolare la possibilità di riscatto,
+  - 2\. calcolare il guadagno da assicurare obbligatoriamente,
+  - 3\. garantire il rispetto del numero massimo di tre riscossioni in caso di riscossione sotto forma di capitale.
+
+[^88-1]: Nuovo testo giusta il n. I della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
+[^88-2]: [RS 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
+[^88-3]: Abrogata dalla Dec. dell’OPC del 5 nov. 2008, approvata dal CF il 14 gen. 2009, con effetto dal 1° feb. 2009 ([FF 2009 2287](https://fedlex.data.admin.ch/eli/fga/2009/530)).
 [^88-4]: Nuovo testo giusta il n. I della Dec. dell’OPC del 6 set. 2016, approvata dal CF il 10 mag. 2017, in vigore dal 1° gen. 2017 ([RU 2017 3279](https://fedlex.data.admin.ch/eli/oc/2017/342)).
+[^88-5]: Nuovo testo giusta il n. I della Dec. dell’OPC del 6 set. 2016, approvata dal CF il 10 mag. 2017, in vigore dal 1° gen. 2017 ([RU 2017 3279](https://fedlex.data.admin.ch/eli/oc/2017/342)).
+[^88-6]: Nuovo testo giusta il n. I della Dec. dell’OPC del 6 set. 2016, approvata dal CF il 10 mag. 2017, in vigore dal 1° gen. 2017 ([RU 2017 3279](https://fedlex.data.admin.ch/eli/oc/2017/342)).
+[^88-7]: Introdotta dal n. I della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
 
 #### Art. 89
 
@@ -1682,7 +1715,7 @@ L’importo prelevato anticipatamente deve essere rimborsato se:
 
 L’importo prelevato anticipatamente può essere rimborsato fino:
 
-- a.[^93-1] al compimento del 65° anno di età;
+- a.[^93-1] al raggiungimento dell’età di riferimento;
 - b. al verificarsi di un altro caso di previdenza; oppure
 - c. al pagamento in contanti della prestazione di uscita.
 
@@ -1773,12 +1806,14 @@ Le pertinenti disposizioni del CC, del CPC, della LPP, della LFLP e le relative 
 
 <sup>4</sup> Se in seguito a divorzio una parte di rendita convertita in una rendita vitalizia o in capitale è trasferita a favore del coniuge avente diritto, tale trasferimento comporta una riduzione delle prestazioni di PUBLICA dell’obbligato. La quota di rendita trasferita non rientra nella rendita corrente dell’obbligato ai sensi dell’articolo 46 capoverso 1 lettera b o dell’articolo 48 capoverso 1 lettera b. Non dà inoltre diritto alla persona avente diritto a ulteriori prestazioni di PUBLICA. Prima del primo trasferimento della rendita annua a un istituto di previdenza o di libero passaggio, la persona avente diritto può convenire con PUBLICA che la parte di rendita sia versata sotto forma di capitale.
 
-<sup>5</sup> Se durante la procedura di divorzio si verifica il caso di previdenza vecchiaia oppure se una persona con invalidità o invalidità professionale compie il 65° anno di età, PUBLICA riduce le prestazioni ai sensi dell’articolo 19*g* OLP.
+<sup>5</sup> Se durante la procedura di divorzio si verifica il caso di previdenza vecchiaia oppure se una persona con invalidità o invalidità professionale raggiunge l’età di riferimento, PUBLICA riduce le prestazioni ai sensi dell’articolo 19*g* OLP[^100-3].[^100-4]
 
 <sup>6</sup> Il diritto a una rendita per figli della persona beneficiaria di una rendita di vecchiaia o invalidità oppure a una rendita per figli complementare alla rendita di invalidità professionale che sussiste al momento del promovimento della procedura di divorzio non è pregiudicato dal conguaglio della previdenza. Se una rendita per figli è rimasta intatta, la rendita per orfani è calcolata sulle stesse basi.
 
 [^100-1]: Nuovo testo giusta il n. I della Dec. dell’OPC del 6 set. 2016, approvata dal CF il 10 mag. 2017, in vigore dal 1° gen. 2017 ([RU 2017 3279](https://fedlex.data.admin.ch/eli/oc/2017/342)).
 [^100-2]: Nuovo testo giusta il n. I della Dec. dell’OPC del 15 feb. 2018, approvata dal CF il 25 apr. 2018, in vigore dal 1° mag. 2018 ([RU 2018 2431](https://fedlex.data.admin.ch/eli/oc/2018/353)).
+[^100-3]: [RS 831.425](https://fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399)
+[^100-4]: Nuovo testo giusta il n. I della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
 
 ## Capitolo 12: Contenzioso
 
@@ -1808,7 +1843,7 @@ Le pertinenti disposizioni del CC, del CPC, della LPP, della LFLP e le relative 
 
 <sup>2</sup> La riduzione delle rendite di vecchiaia consecutive all’ottenimento di una rendita transitoria secondo il diritto previgente è retta dal diritto previgente (all. 6).
 
-<sup>3</sup> Le rendite assegnate in seguito a scioglimento amministrativo del rapporto di servizio ai sensi dell’articolo 32 degli Statuti della CFA e dell’articolo 43 degli Statuti della CPC sono convertite in rendite di vecchiaia di uguale entità al raggiungimento dell’età ordinaria AVS.
+<sup>3</sup> Le rendite assegnate in seguito a scioglimento amministrativo del rapporto di servizio ai sensi dell’articolo 32 degli Statuti della CFA e dell’articolo 43 degli Statuti della CPC sono convertite in rendite di vecchiaia di uguale entità al raggiungimento dell’età di riferimento[^103-2].
 
 <sup>4</sup>
 
@@ -1823,10 +1858,11 @@ Il presente regolamento si applica alle rendite fondate sul diritto previgente e
   il calcolo del sovraindennizzo (art. 77):
 
   - 1\. in caso di decesso del beneficiario della rendita,
-  - 2\. al raggiungimento dell’età ordinaria AVS da parte del beneficiario della rendita, oppure
+  - 2\. al raggiungimento dell’età di riferimento da parte del beneficiario della rendita, oppure
   - 3\. in caso di nuovo calcolo del diritto alle prestazioni da parte dell’assicurazione militare, dell’assicurazione contro gli infortuni o di un’altra assicurazione sociale.
 
 [^103-1]: Nuovo testo giusta la Dec. dell’OPC del 5 nov. 2008, approvata dal CF il 14 gen. 2009, in vigore dal 1° feb. 2009 ([FF 2009 2287](https://fedlex.data.admin.ch/eli/fga/2009/530)).
+[^103-2]: Nuova espr. giusta il n. I della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
 
 #### Art. 104
 
@@ -1836,15 +1872,15 @@ Il presente regolamento si applica alle rendite fondate sul diritto previgente e
 
 Il diritto al supplemento fisso e alla rendita transitoria fondato sul diritto previgente si estingue:
 
-- a. quando il beneficiario della rendita decede, ma al più tardi quando raggiunge l’età ordinaria AVS;
-- b. quando il coniuge del beneficiario della rendita decede, ma al più tardi quando raggiunge l’età ordinaria AVS oppure in caso di divorzio, sempreché il beneficiario della rendita percepisca un supplemento ai sensi dell’articolo 29 capoverso 1 lettera b numero 3 degli Statuti della CFA o ai sensi dell’articolo 40 capoverso 1 lettera b numero 3 degli Statuti della CPC; oppure
+- a. quando il beneficiario della rendita decede, ma al più tardi quando raggiunge l’età di riferimento;
+- b. quando il coniuge del beneficiario della rendita decede, ma al più tardi quando raggiunge l’età di riferimento oppure in caso di divorzio, sempreché il beneficiario della rendita percepisca un supplemento ai sensi dell’articolo 29 capoverso 1 lettera b numero 3 degli Statuti della CFA o ai sensi dell’articolo 40 capoverso 1 lettera b numero 3 degli Statuti della CPC; oppure
 - c. quando, con effetto a contare dall’entrata in vigore del presente regolamento, è assegnata per la prima volta una rendita AI, il diritto a una rendita AI è modificato oppure il grado di invalidità professionale è aumentato o ridotto in base alle constatazioni del servizio medico.
 
 <sup>2</sup> Se il diritto a un supplemento fisso si estingue secondo il capoverso 1 lettera c, la persona che percepisce una rendita di invalidità insorta prima del 1° giugno 2003 ha diritto a una rendita AI di sostituzione ai sensi del presente regolamento, corrispondente al grado di invalidità professionale ancora esistente. Ciò si applica anche quando la persona non aveva alcun diritto a un supplemento fisso e il diritto a una rendita AI è stato ridotto per la prima volta con effetto a contare dall’entrata in vigore del presente regolamento.
 
 <sup>3</sup> Se il grado di invalidità professionale è ridotto in seguito a una decisione dell’AI o del servizio medico, con effetto a contare dall’entrata in vigore del presente regolamento, l’entità della rendita AI di sostituzione fondata sul diritto previgente è ridotta in maniera corrispondente alla riduzione del grado di invalidità professionale.
 
-<sup>4</sup> Il diritto alla rendita AI di sostituzione fondato sul diritto previgente si estingue quando il beneficiario della rendita decede, ma al più tardi quando raggiunge l’età ordinaria AVS.
+<sup>4</sup> Il diritto alla rendita AI di sostituzione fondato sul diritto previgente si estingue quando il beneficiario della rendita decede, ma al più tardi quando raggiunge l’età di riferimento.
 
 [^104-1]: Nuovo testo giusta la Dec. dell’OPC del 5 nov. 2008, approvata dal CF il 14 gen. 2009, in vigore dal 1° feb. 2009 ([FF 2009 2287](https://fedlex.data.admin.ch/eli/fga/2009/530)).
 
@@ -1913,9 +1949,9 @@ Se il beneficiario di una rendita di invalidità il cui diritto è nato prima de
 
 **Disposizioni transitorie relative alla modifica del 21 giugno 2011**[^108b-1]
 
-<sup>1</sup> La riduzione a vita a partire dal raggiungimento dell’età AVS delle rendite di vecchiaia insorte tra il 1° luglio 2008 e l’entrata in vigore della modifica del 21 giugno 2011, dovuta all’ottenimento di una rendita transitoria, è retta per analogia dall’articolo 103 capoverso 2.
+<sup>1</sup> La riduzione a vita a partire dal raggiungimento dell’età di riferimento delle rendite di vecchiaia insorte tra il 1° luglio 2008 e l’entrata in vigore della modifica del 21 giugno 2011, dovuta all’ottenimento di una rendita transitoria, è retta per analogia dall’articolo 103 capoverso 2.
 
-<sup>2</sup> La riduzione delle rendite per superstiti insorte dopo l’entrata in vigore della modifica del 21 giugno 2011 è retta dall’articolo 103 capoverso 4 lettera b, se la persona che beneficia di una rendita di vecchiaia insorta tra il 1° luglio 2008 e l’entrata in vigore della presente modifica decede prima del raggiungimento dell’età AVS.
+<sup>2</sup> La riduzione delle rendite per superstiti insorte dopo l’entrata in vigore della modifica del 21 giugno 2011 è retta dall’articolo 103 capoverso 4 lettera b, se la persona che beneficia di una rendita di vecchiaia insorta tra il 1° luglio 2008 e l’entrata in vigore della presente modifica decede prima del raggiungimento dell’età di riferimento.
 
 [^108b-1]: Introdotto dal n. I della Dec. dell’OPC del 21 giu. 2011, approvata dal CF il 19 ott. 2011, in vigore dal 1° lug. 2012 ([RU 2012 2069](https://fedlex.data.admin.ch/eli/oc/2012/275)).
 
@@ -1923,9 +1959,9 @@ Se il beneficiario di una rendita di invalidità il cui diritto è nato prima de
 
 **Disposizioni transitorie della modifica del 15 ottobre 2013**[^108c-1]
 
-<sup>1</sup> La riduzione a vita a partire dal raggiungimento dell’età AVS delle rendite di vecchiaia insorte tra il 1° luglio 2012 e l’entrata in vigore della modifica del 15 ottobre 2013, dovuta all’ottenimento di una rendita transitoria, è retta per analogia dall’articolo 103 capoverso 2.
+<sup>1</sup> La riduzione a vita a partire dal raggiungimento dell’età di riferimento delle rendite di vecchiaia insorte tra il 1° luglio 2012 e l’entrata in vigore della modifica del 15 ottobre 2013, dovuta all’ottenimento di una rendita transitoria, è retta per analogia dall’articolo 103 capoverso 2.
 
-<sup>2</sup> La riduzione delle rendite per superstiti insorte dopo l’entrata in vigore della modifica del 15 ottobre 2013 è retta dall’articolo 103 capoverso 4 lettera b, se la persona che beneficia di una rendita di vecchiaia insorta tra il 1° luglio 2012 e l’entrata in vigore della presente modifica decede prima del raggiungimento dell’età AVS.
+<sup>2</sup> La riduzione delle rendite per superstiti insorte dopo l’entrata in vigore della modifica del 15 ottobre 2013 è retta dall’articolo 103 capoverso 4 lettera b, se la persona che beneficia di una rendita di vecchiaia insorta tra il 1° luglio 2012 e l’entrata in vigore della presente modifica decede prima del raggiungimento dell’età di riferimento.
 
 [^108c-1]: Introdotto dal n. I della Dec. dell’OPC del 15 ott. 2013, approvata dal CF il 20 ago. 2014, in vigore dal 1° gen. 2015 ([RU 2014 2947](https://fedlex.data.admin.ch/eli/oc/2014/501)).
 
@@ -2062,9 +2098,9 @@ Se è nato un diritto alla rendita di invalidità o di invalidità professionale
 
 **Disposizioni transitorie della modifica del 15 febbraio 2018: riduzione delle rendite di vecchiaia e per superstiti dovuta all’ottenimento di una rendita transitoria**[^108i-1]
 
-<sup>1</sup> La riduzione a vita a partire dal raggiungimento dell’età AVS delle rendite di vecchiaia insorte tra il 1° gennaio 2015 e il 31 dicembre 2018, dovuta all’ottenimento di una rendita transitoria, è retta per analogia dall’articolo 103 capoverso 2.
+<sup>1</sup> La riduzione a vita a partire dal raggiungimento dell’età di riferimento delle rendite di vecchiaia insorte tra il 1° gennaio 2015 e il 31 dicembre 2018, dovuta all’ottenimento di una rendita transitoria, è retta per analogia dall’articolo 103 capoverso 2.
 
-<sup>2</sup> La riduzione delle rendite per superstiti insorte dopo l’entrata in vigore della modifica del 15 febbraio 2018 è retta per analogia dall’articolo 103 capoverso 4 lettera b, se la persona che beneficia di una rendita di vecchiaia insorta tra il 1° gennaio 2015 e il 31 dicembre 2018 decede prima del raggiungimento dell’età AVS.
+<sup>2</sup> La riduzione delle rendite per superstiti insorte dopo l’entrata in vigore della modifica del 15 febbraio 2018 è retta per analogia dall’articolo 103 capoverso 4 lettera b, se la persona che beneficia di una rendita di vecchiaia insorta tra il 1° gennaio 2015 e il 31 dicembre 2018 decede prima del raggiungimento dell’età di riferimento.
 
 [^108i-1]: Introdotto dal n. I della Dec. dell’OPC del 15 feb. 2018, approvata dal CF il 25 apr. 2018, in vigore dal 1° gen. 2019 ([RU 2018 2431](https://fedlex.data.admin.ch/eli/oc/2018/353)).
 
@@ -2098,6 +2134,49 @@ Gli assicurati che hanno compiuto il 62° anno di età prima del 1° dicembre 20
 
 [^108l-1]: Introdotto dal n. I della Dec. dell’OPC del 17 e 26 nov. 2020, approvata dal CF il 4 dic. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5903](https://fedlex.data.admin.ch/eli/oc/2020/991)).
 
+#### Art. 108m
+
+**Disposizione transitoria della modifica del 7 agosto 2023: Sistema di rendite lineare**[^108m-1]
+
+<sup>1</sup> Per le persone nate nel 1966 o anteriormente, il cui diritto a una rendita di invalidità è sorto prima del 1° gennaio 2022, il diritto alle prestazioni è disciplinato dalle disposizioni regolamentari in vigore fino al 31 dicembre 2023.
+
+<sup>2</sup>
+
+Per le persone nate nel 1967 o successivamente, il cui diritto a una rendita di invalidità è sorto prima del 1° gennaio 2022, fatto salvo il capoverso 4 e l’articolo 52*b* capoversi 1 e 2, il diritto alle prestazioni è disciplinato secondo le disposizioni regolamentari in vigore fino al 31 dicembre 2023 se sono soddisfatte le seguenti condizioni:
+
+- a. il grado d’invalidità ai sensi della LAI[^108m-2] subisce una modificazione inferiore ai cinque punti percentuali (art. 17 cpv. 1 lett. a LPGA[^108m-3]);
+- b.
+
+  il grado d’invalidità ai sensi della LAI subisce una modificazione di almeno cinque punti percentuali che, in base al calcolo secondo il nuovo diritto, porta:
+
+  - 1\. in caso di un aumento, a una riduzione dell’entità della rendita di invalidità,
+  - 2\. in caso di una riduzione, a un aumento dell’entità della rendita di invalidità.
+
+<sup>3</sup> Il capoverso 2 si applica anche alle persone, il cui diritto a una rendita di invalidità è sorto tra il 1° gennaio 2022 e il 31 dicembre 2023.
+
+<sup>4</sup> L’entità della rendita di invalidità di persone nate nel 1992 o successivamente, il cui diritto a una rendita di invalidità è sorto prima del 1° gennaio 2024, è disciplinata dalle disposizioni regolamentari vigenti fino al 31 dicembre 2023 al più tardi fino al 31 dicembre 2031. Se in base al calcolo secondo il nuovo diritto l’entità della rendita di invalidità diminuisce, l’entità finora statuita rimane invariata fino a che il grado d’invalidità ai sensi della LAI non subisce una modificazione di almeno cinque punti percentuali (art. 17 cpv. 1 lett. a LPGA); è fatto salvo l’articolo 52*b* capoversi 1 e 2.
+
+[^108m-1]: Introdotto dal n. I della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
+[^108m-2]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^108m-3]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+
+#### Art. 108n
+
+**Disposizione transitoria della modifica del 7 agosto 2023: Età di riferimento della generazione di transizione**[^108n-1]
+
+<sup>1</sup>
+
+Per le donne della generazione di transizione, l’età di riferimento per stabilire il diritto alla rendita transitoria ai sensi dell’articolo 60 e il relativo calcolo è la seguente:
+
+- a. 64 anni per le donne nate nel 1960 o anteriormente;
+- b. 64 anni e tre mesi per le donne nate nel 1961;
+- c. 64 anni e sei mesi per le donne nate nel 1962;
+- d. 64 anni e nove mesi per le donne nate nel 1963;
+- e. 65 anni per le donne nate nel 1964 o successivamente.
+- [tab] <sup>2</sup> Alle disposizioni rimanenti si applica l’età di 65 anni quale età di riferimento per le donne.
+
+[^108n-1]: Introdotto dal n. I della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
+
 ### Sezione 2: Entrata in vigore
 
 #### Art. 109
@@ -2126,17 +2205,17 @@ II. Riscatto della riduzione della rendita mensile di vecchiaia in caso di riduz
 
 Allegato 5 Rendita transitoria
 
-I. Riduzione a vita della rendita mensile di vecchiaia a partire dal raggiungimento dell’età AVS a causa dell’ottenimento di una rendita transitoria
+I. Riduzione a vita della rendita mensile di vecchiaia a partire dal raggiungimento dell’età di riferimento a causa dell’ottenimento di una rendita transitoria
 
 II. Riduzione della rendita per superstiti
 
 Allegato 6 Rendita transitoria
 
-I. Riduzione a vita della rendita mensile di vecchiaia insorta tra il 1° luglio 2008 e il 30 giugno 2012 a partire dal raggiungimento dell’età AVS a causa dell’ottenimento di una rendita transitoria
+I. Riduzione a vita della rendita mensile di vecchiaia insorta tra il 1° luglio 2008 e il 30 giugno 2012 a partire dal raggiungimento dell’età di riferimento a causa dell’ottenimento di una rendita transitoria
 
-II. Riduzione a vita della rendita mensile di vecchiaia insorta tra il 1° luglio 2012 e il 31 dicembre 2014 a partire dal raggiungimento dell’età AVS a causa dell’ottenimento di una rendita transitoria
+II. Riduzione a vita della rendita mensile di vecchiaia insorta tra il 1° luglio 2012 e il 31 dicembre 2014 a partire dal raggiungimento dell’età di riferimento a causa dell’ottenimento di una rendita transitoria
 
-III. Riduzione a vita della rendita mensile di vecchiaia insorta tra il 1° gennaio 2015 e il 31 dicembre 2018 a partire dal raggiungimento dell’età AVS a causa dell’ottenimento di una rendita transitoria
+III. Riduzione a vita della rendita mensile di vecchiaia insorta tra il 1° gennaio 2015 e il 31 dicembre 2018 a partire dal raggiungimento dell’età di riferimento a causa dell’ottenimento di una rendita transitoria
 
 Allegato 6*a* Piani previdenziali per le persone appartenenti a particolari categorie di personale
 
@@ -2309,100 +2388,81 @@ Allegato 4[^t-4]
 
 ## Rendita transitoria
 
-[^t-4]: Nuovo testo giusta il n. II della Dec. dell’OPC del 15 feb. 2018, approvata dal CF il 25 apr. 2018, in vigore dal 1° gen. 2019 ([RU 2018 2431](https://fedlex.data.admin.ch/eli/oc/2018/353)).
+[^t-4]: Nuovo testo giusta il n. II della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
 
-### I. Riduzione a vita immediata della rendita mensile di vecchiaia all’inizio dell’ottenimento di una rendita transitoria (art. 60 cpv. 4 lett. a)
+### I. Riduzione a vita immediata della rendita mensile di vecchiaia in caso di ottenimento della rendita transitoria (art. 60 cpv. 4 lett. a)
 
-Tabella 1: età AVS 65
-
-<table>
-<tr><th></th><th colspan="7">Mese</th></tr>
-<tr><th></th><th></th><th>**0**</th><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th></tr>
-<tr><td>Età all'inizio dell'ottenimento della rendita</td><td>60</td><td>**208.55**</td><td>205.55</td><td>202.55</td><td>199.60</td><td>196.60</td><td>193.60</td></tr>
-<tr><td></td><td>**61**</td><td>**172.65**</td><td>169.45</td><td>166.25</td><td>163.05</td><td>159.85</td><td>156.65</td></tr>
-<tr><td></td><td>**62**</td><td>**134.20**</td><td>130.75</td><td>127.30</td><td>123.85</td><td>120.40</td><td>116.95</td></tr>
-<tr><td></td><td>**63**</td><td>**92.80**</td><td>89.10</td><td>85.35</td><td>81.65</td><td>77.95</td><td>74.20</td></tr>
-<tr><td></td><td>**64**</td><td>**48.20**</td><td>44.20</td><td>40.15</td><td>36.15</td><td>32.15</td><td>28.10</td></tr>
-<tr><td></td><td>**65**</td><td>**0.00**</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td></tr>
-</table>
+Tabella 1: uomini
 
 <table>
-<tr><th></th><th colspan="7">Mese</th></tr>
-<tr><th></th><th></th><th>6</th><th>7</th><th>8</th><th>9</th><th>10</th><th>11</th></tr>
-<tr><td>Età all'inizio dell'ottenimento della rendita</td><td>60</td><td>190.60</td><td>187.60</td><td>184.60</td><td>181.65</td><td>178.65</td><td>175.65</td></tr>
-<tr><td></td><td>**61**</td><td>153.45</td><td>150.20</td><td>147.00</td><td>143.80</td><td>140.60</td><td>137.40</td></tr>
-<tr><td></td><td>**62**</td><td>113.50</td><td>110.05</td><td>106.60</td><td>103.15</td><td>99.70</td><td>96.25</td></tr>
-<tr><td></td><td>**63**</td><td>70.50</td><td>66.80</td><td>63.05</td><td>59.35</td><td>55.65</td><td>51.90</td></tr>
-<tr><td></td><td>**64**</td><td>24.10</td><td>20.10</td><td>16.05</td><td>12.05</td><td>8.05</td><td>4.00</td></tr>
-<tr><td></td><td>**65**</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td></tr>
+<tr><td>Età all’inizio dell’ottenimento della rendita</td><td>60</td><td>208.55</td></tr>
+<tr><td></td><td>**61**</td><td>172.65</td></tr>
+<tr><td></td><td>**62**</td><td>134.20</td></tr>
+<tr><td></td><td>**63**</td><td>92.80</td></tr>
+<tr><td></td><td>**64**</td><td>48.20</td></tr>
+<tr><td></td><td>**65**</td><td>0.00</td></tr>
 </table>
 
-Tabella 2: età AVS 64
+Tabella 2: donne (in base all’anno di nascita)
 
 <table>
-<tr><th></th><th colspan="7">Mese</th></tr>
-<tr><th></th><th></th><th>**0**</th><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th></tr>
-<tr><td>Età all'inizio dell'ottenimento della rendita</td><td>60</td><td>**179.20**</td><td>175.90</td><td>172.60</td><td>169.25</td><td>165.95</td><td>162.65</td></tr>
-<tr><td></td><td>**61**</td><td>**139.45**</td><td>135.90</td><td>132.30</td><td>128.75</td><td>125.15</td><td>121.60</td></tr>
-<tr><td></td><td>**62**</td><td>**96.55**</td><td>92.70</td><td>88.85</td><td>84.95</td><td>81.10</td><td>77.25</td></tr>
-<tr><td></td><td>**63**</td><td>**50.20**</td><td>46.00</td><td>41.85</td><td>37.65</td><td>33.45</td><td>29.30</td></tr>
-<tr><td></td><td>**64**</td><td>**0.00**</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td></tr>
+<tr><th></th><th></th><th>1960 e anni precedenti</th><th>1961</th><th>1962</th><th>1963</th><th>1964 e anni successivi</th></tr>
+<tr><td>Età all’inizio dell’ottenimento della rendita</td><td>60</td><td>179.20</td><td>189.80</td><td>200.35</td><td>210.90</td><td>221.45</td></tr>
+<tr><td></td><td>**61**</td><td>139.45</td><td>150.50</td><td>161.60</td><td>172.65</td><td>183.75</td></tr>
+<tr><td></td><td>**62**</td><td>96.55</td><td>108.20</td><td>119.85</td><td>131.45</td><td>143.10</td></tr>
+<tr><td></td><td>**63**</td><td>50.20</td><td>62.45</td><td>74.70</td><td>86.95</td><td>99.20</td></tr>
+<tr><td></td><td>**64**</td><td>0.00</td><td>12.90</td><td>25.85</td><td>38.75</td><td>51.65</td></tr>
+<tr><td></td><td>**65**</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td></tr>
 </table>
 
-<table>
-<tr><th></th><th colspan="7">Mese</th></tr>
-<tr><th></th><th></th><th>6</th><th>7</th><th>8</th><th>9</th><th>10</th><th>11</th></tr>
-<tr><td>Età all'inizio dell'ottenimento della rendita</td><td>60</td><td>159.35</td><td>156.00</td><td>152.70</td><td>149.40</td><td>146.10</td><td>142.75</td></tr>
-<tr><td></td><td>**61**</td><td>118.00</td><td>114.45</td><td>110.85</td><td>107.30</td><td>103.70</td><td>100.15</td></tr>
-<tr><td></td><td>**62**</td><td>73.40</td><td>69.50</td><td>65.65</td><td>61.80</td><td>57.95</td><td>54.05</td></tr>
-<tr><td></td><td>**63**</td><td>25.10</td><td>20.90</td><td>16.75</td><td>12.55</td><td>8.35</td><td>4.20</td></tr>
-<tr><td></td><td>**64**</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td></tr>
-</table>
+La riduzione è stabilita considerando gli anni e i mesi compiuti.
 
 **Spiegazione:**
 
-\1. Gli importi che figurano nelle tabelle 1 e 2 corrispondono alla riduzione della rendita per 1000 franchi di rendita transitoria ottenuta, se il beneficiario della rendita transitoria la finanzia personalmente per intero.
+\1. Gli importi che figurano nelle tabelle 1 e 2 corrispondono alla riduzione della rendita per 1000 franchi di rendita transitoria percepita, se la persona beneficiaria della rendita transitoria la finanzia personalmente per intero.
 
-\2. Se è prevista una partecipazione del datore di lavoro al finanziamento conformemente alle disposizioni dell’OPers, gli importi nelle tabelle 1 e 2 devono essere ponderati in funzione della quota percentuale dell’assicurato al finanziamento.
+\2. Se è prevista una partecipazione del datore di lavoro al finanziamento conformemente alle disposizioni dell’OPers[^annex4-lvlu1-lvlI-1], gli importi nelle tabelle 1 e 2 devono essere ponderati in funzione della quota percentuale dell’assicurato al finanziamento.
 
 **Esempio 1:**
 
-La rendita transitoria ammonta a 27 840 franchi all’anno (fr. 2320.– al mese). È richiesta a contare dal 60° anno di età. Il datore di lavoro finanzia il 50 per cento dei costi complessivi.
+La rendita transitoria ammonta a fr. 27 840.– all’anno (fr. 2320.– al mese). È ottenuta dall’età di 62 anni e 3 mesi (ad es. anno di nascita 1962). Il datore di lavoro finanzia il 50 per cento dei costi.
 
 Calcolo:
 
-Importo secondo le tabelle 1 o 2 × quota del lavoratore × (RT al mese/1000) = riduzione a vita della rendita mensile di vecchiaia
+Importo secondo la tabella 1 o 2 × quota del lavoratore × (RT al mese/1000) = riduzione a vita della rendita mensile di vecchiaia.
 
-- a. età AVS 65: 208.55 × 0.5 × 2.32 = **fr. 241.90**
-- b. età AVS 64: 179.20 × 0.5 × 2.32 = **fr. 207.85**
+- a. Uomini: riduzione all’età di 62 anni e 3 mesi: 134.20 + (92.80 – 134.20) / 12 × 3 = 123.85 123.85 × 0,5 × 2.32 = **fr. 143.65**
+- b. Donne (anno di nascita 1962): riduzione all’età di 62 anni e 3 mesi: 119.85 + (74.70 – 119.85) / 12 × 3 = 108.55 108.55 × 0,5 × 2.32 = **fr. 125.95**
+
+[^annex4-lvlu1-lvlI-1]: [RS 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
 
 ### II. Riscatto della riduzione della rendita mensile di vecchiaia in caso di riduzione a vita immediata (art. 60 cpv. 4 lett. b)
 
 <table>
-<tr><td colspan="3">Valori in contanti per il riscatto della riduzione della rendita</td></tr>
-<tr><td>Età</td><td>uomini</td><td>donne</td></tr>
-<tr><td>60</td><td>22.571</td><td>21.346</td></tr>
-<tr><td>61</td><td>22.060</td><td>20.807</td></tr>
-<tr><td>62</td><td>21.543</td><td>20.261</td></tr>
-<tr><td>63</td><td>21.019</td><td>19.707</td></tr>
-<tr><td>64</td><td>20.490</td><td>19.147</td></tr>
-<tr><td>65</td><td>19.954</td><td>18.581</td></tr>
+<tr><th colspan="3">**Valori in contanti per il riscatto della riduzione della rendita**</th></tr>
+<tr><td>Età</td><td>Uomini</td><td>Donne</td></tr>
+<tr><td>60</td><td>22 571</td><td>21 346</td></tr>
+<tr><td>61</td><td>22 060</td><td>20 807</td></tr>
+<tr><td>62</td><td>21 543</td><td>20 261</td></tr>
+<tr><td>63</td><td>21 019</td><td>19 707</td></tr>
+<tr><td>64</td><td>20 490</td><td>19 147</td></tr>
+<tr><td>65</td><td>19 954</td><td>18 581</td></tr>
 </table>
 
 **Esempio 2:**
 
-L’assicurato va in pensione all’età di 60 anni e ottiene una rendita transitoria.
+La persona assicurata (anno di nascita 1962) va in pensione all’età di 62 anni e 3 mesi e percepisce la rendita transitoria.
 
 Il datore di lavoro partecipa al finanziamento nella misura del 50 per cento.
 
-L’assicurato intende evitare la riduzione a vita della rendita di vecchiaia e riscatta tale riduzione con un conferimento unico.
+La persona assicurata intende evitare la riduzione a vita della rendita di vecchiaia e riscatta tale riduzione con un conferimento unico.
 
 Calcolo:
 
-(Fattore secondo il numero II × riduzione mensile [secondo l’esempio 1] × 12) = quota del lavoratore = conferimento unico
+(Fattore secondo la cifra II × riduzione mensile [secondo l’esempio 1] × 12) = quota del lavoratore = conferimento unico)
 
-- a. età AVS 65: 22.571 × 241.90 × 12 = **fr. 65 519.10**
-- b. età AVS 64: 21.346 × 207.85 × 12 = **fr. 53 241.20**
+- a. Uomini: valore in contanti all’età di 62 anni e 3 mesi: 21 543 + (21 019 – 21 543) / 12 × 3) = 21 412 21 412 × 143.65 × 12 = **fr. 36 909.75**
+- b. Donne (secondo l’esempio con anno di nascita 1962): valore in contanti all’età di 62 anni e 3 mesi: 20 261 + (19 707 – 20 261) / 12 × 3) = 20 122 20 122 × 125.95 × 12 = **fr. 30 412.80**
 
 Allegato 5[^t-5]
 
@@ -2410,96 +2470,89 @@ Allegato 5[^t-5]
 
 ## Rendita transitoria
 
-[^t-5]: Nuovo testo giusta il n. II della Dec. dell’OPC del 15 feb. 2018, approvata dal CF il 25 apr. 2018, in vigore dal 1° gen. 2019 ([RU 2018 2431](https://fedlex.data.admin.ch/eli/oc/2018/353)).
+[^t-5]: Nuovo testo giusta il n. II della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
 
-### I. Riduzione a vita della rendita mensile di vecchiaia a partire dal raggiungimento dell’età AVS a causa dell’ottenimento di una rendita transitoria (art. 60 cpv. 4 lett. c)
+### I. Riduzione a vita della rendita mensile di vecchiaia a partire dal raggiungimento dell’età di riferimento in caso di ottenimento della rendita transitoria (art. 60 cpv. 4 lett. c)
 
-Tabella 1: età AVS 65
-
-<table>
-<tr><th></th><th colspan="7">Mese</th></tr>
-<tr><th></th><th></th><th>**0**</th><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th></tr>
-<tr><td>Età all'inizio dell'ottenimento della rendita</td><td>60</td><td>**267.75**</td><td>263.05</td><td>258.40</td><td>253.70</td><td>249.00</td><td>244.30</td></tr>
-<tr><td></td><td>**61**</td><td>**211.50**</td><td>206.95</td><td>202.35</td><td>197.80</td><td>193.20</td><td>188.65</td></tr>
-<tr><td></td><td>**62**</td><td>**156.60**</td><td>152.15</td><td>147.70</td><td>143.20</td><td>138.75</td><td>134.30</td></tr>
-<tr><td></td><td>**63**</td><td>**103.05**</td><td>98.70</td><td>94.35</td><td>90.00</td><td>85.65</td><td>81.30</td></tr>
-<tr><td></td><td>**64**</td><td>**50.85**</td><td>46.60</td><td>42.40</td><td>38.15</td><td>33.90</td><td>29.65</td></tr>
-<tr><td></td><td>**65**</td><td>**0.00**</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td></tr>
-</table>
+Tabella 1: uomini
 
 <table>
-<tr><th></th><th colspan="7">Mese</th></tr>
-<tr><th></th><th></th><th>6</th><th>7</th><th>8</th><th>9</th><th>10</th><th>11</th></tr>
-<tr><td>Età all'inizio dell'ottenimento della rendita</td><td>60</td><td>239.65</td><td>234.95</td><td>230.25</td><td>225.55</td><td>220.90</td><td>216.20</td></tr>
-<tr><td></td><td>**61**</td><td>184.05</td><td>179.50</td><td>174.90</td><td>170.35</td><td>165.75</td><td>161.20</td></tr>
-<tr><td></td><td>**62**</td><td>129.85</td><td>125.35</td><td>120.90</td><td>116.45</td><td>112.00</td><td>107.50</td></tr>
-<tr><td></td><td>**63**</td><td>76.95</td><td>72.60</td><td>68.25</td><td>63.90</td><td>59.55</td><td>55.20</td></tr>
-<tr><td></td><td>**64**</td><td>25.45</td><td>21.20</td><td>16.95</td><td>12.70</td><td>8.50</td><td>4.25</td></tr>
-<tr><td></td><td>**65**</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td></tr>
+<tr><td>Età all’inizio dell’ottenimento della rendita</td><td>60</td><td>267.75</td></tr>
+<tr><td></td><td>**61**</td><td>211.50</td></tr>
+<tr><td></td><td>**62**</td><td>156.60</td></tr>
+<tr><td></td><td>**63**</td><td>103.05</td></tr>
+<tr><td></td><td>**64**</td><td>50.85</td></tr>
+<tr><td></td><td>**65**</td><td>0.00</td></tr>
 </table>
 
-Tabella 2: età AVS 64
+Tabella 2: donne (in base all’anno di nascita)
 
 <table>
-<tr><td></td><td colspan="7">Mese</td></tr>
-<tr><td></td><td></td><td>**0**</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td></tr>
-<tr><td>Età all'inizio dell'ottenimento della rendita</td><td>60</td><td>**219.20**</td><td>214.50</td><td>209.75</td><td>205.05</td><td>200.30</td><td>195.60</td></tr>
-<tr><td></td><td>**61**</td><td>**162.50**</td><td>157.90</td><td>153.25</td><td>148.65</td><td>144.00</td><td>139.40</td></tr>
-<tr><td></td><td>**62**</td><td>**107.05**</td><td>102.55</td><td>98.05</td><td>93.50</td><td>89.00</td><td>84.50</td></tr>
-<tr><td></td><td>**63**</td><td>**52.90**</td><td>48.50</td><td>44.10</td><td>39.70</td><td>35.25</td><td>30.85</td></tr>
-<tr><td></td><td>**64**</td><td>**0.00**</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td></tr>
+<tr><th></th><th></th><th>1960 e anni precedenti</th><th>1961</th><th>1962</th><th>1963</th><th>1964 e anni successivi</th></tr>
+<tr><td>Età all’inizio dell’ottenimento della rendita</td><td>60</td><td>219.20</td><td>235.25</td><td>251.70</td><td>268.60</td><td>285.90</td></tr>
+<tr><td></td><td>**61**</td><td>162.50</td><td>177.75</td><td>193.45</td><td>209.55</td><td>226.05</td></tr>
+<tr><td></td><td>**62**</td><td>107.05</td><td>121.60</td><td>136.50</td><td>151.80</td><td>167.55</td></tr>
+<tr><td></td><td>**63**</td><td>52.90</td><td>66.70</td><td>80.90</td><td>95.45</td><td>110.35</td></tr>
+<tr><td></td><td>**64**</td><td>0.00</td><td>13.10</td><td>26.55</td><td>40.35</td><td>54.55</td></tr>
 </table>
 
-<table>
-<tr><th></th><th colspan="7">Mese</th></tr>
-<tr><th></th><th></th><th>6</th><th>7</th><th>8</th><th>9</th><th>10</th><th>11</th></tr>
-<tr><td>Età all'inizio dell'ottenimento della rendita</td><td>60</td><td>190.85</td><td>186.15</td><td>181.40</td><td>176.70</td><td>171.95</td><td>167.25</td></tr>
-<tr><td></td><td>**61**</td><td>134.80</td><td>130.15</td><td>125.55</td><td>120.90</td><td>116.30</td><td>111.65</td></tr>
-<tr><td></td><td>**62**</td><td>80.00</td><td>75.45</td><td>70.95</td><td>66.45</td><td>61.95</td><td>57.40</td></tr>
-<tr><td></td><td>**63**</td><td>26.45</td><td>22.05</td><td>17.65</td><td>13.25</td><td>8.80</td><td>4.40</td></tr>
-<tr><td></td><td>**64**</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td></tr>
-</table>
+La riduzione è stabilita considerando gli anni e i mesi compiuti.
 
 **Spiegazione:**
 
-\1. Gli importi che figurano nelle tabelle 1 e 2 corrispondono alla riduzione della rendita per 1000 franchi di rendita transitoria ottenuta, se il beneficiario della rendita transitoria la finanzia personalmente per intero.
+\1. Gli importi che figurano nelle tabelle 1 e 2 corrispondono alla riduzione per 1000 franchi di rendita transitoria percepita, se la persona beneficiaria di tale rendita transitoria la finanzia personalmente per intero.
 
-\2. Se è prevista una partecipazione del datore di lavoro al finanziamento conformemente alle disposizioni dell’OPers, gli importi nelle tabelle 1 e 2 devono essere ponderati in funzione della quota percentuale dell’assicurato al finanziamento
+\2. Se è prevista una partecipazione del datore di lavoro al finanziamento conformemente alle disposizioni dell’OPers[^annex5-lvlu1-lvlI-1], gli importi nelle tabelle 1 e 2 devono essere ponderati in funzione della quota percentuale dell’assicurato al finanziamento.
 
 **Esempio 1:**
 
-La rendita transitoria ammonta a 27 840 franchi all’anno (fr. 2320.– al mese). È richiesta a contare dal 60° anno di età. Il datore di lavoro finanzia il 50 per cento dei costi.
+La rendita transitoria ammonta a fr. 27 840.– all’anno (fr. 2320.– al mese). È ottenuta dall’età di 62 anni e 3 mesi (ad es. anno di nascita 1962). Il datore di lavoro finanzia il 50 per cento dei costi.
 
 Calcolo:
 
-Importo secondo le tabelle 1 o 2 × quota del lavoratore × (RT al mese/1000) = riduzione a vita della rendita mensile di vecchiaia
+Importo secondo la tabella 1 o 2 × quota del lavoratore × (RT al mese/1000) = riduzione a vita della rendita mensile di vecchiaia.
 
-- a. età AVS 65: 267.75 × 0.5 × 2.32 = **fr. 310.60**
-- b. età AVS 64: 219.20 × 0.5 × 2.32 = **fr. 254.25**
+- a. Uomini: riduzione all’età di 62 anni e 3 mesi: 156.60 + (103.05 – 156.60) / 12 × 3 = 143.20 143.20 × 0,5 × 2.32 = **fr. 166.10**
+- b. Donne (secondo l’esempio con anno di nascita 1962): riduzione all’età di 62 anni e 3 mesi: 136.50 + (80.90 – 136.50) / 12 × 3 = 122.60 122.60 × 0,5 × 2.32 = **fr. 142.20**
+
+[^annex5-lvlu1-lvlI-1]: [RS 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
 
 ### II. Riduzione della rendita per superstiti (art. 60 cpv. 5)
 
+Tasso per il calcolo della riduzione a vita a contare dal raggiungimento dell**’**età di riferimento in caso di decesso prima del raggiungimento dell**’**età di riferimento
+
+a. Uomini
+
 <table>
-<tr><th></th><th colspan="2">Tasso di riduzione per il calcolo della riduzione a vita a contare dal raggiungimento dell’età AVS in caso di decesso prima del raggiungimento dell’età AVS</th></tr>
-<tr><th>Età all’ottenimento della rendita di vecchiaia</th><th>a. età AVS 65</th><th>b. età AVS 64</th></tr>
-<tr><th>60</th><th>4,42 %</th><th>4,56 %</th></tr>
-<tr><th>61</th><th>4,59 %</th><th>4,73 %</th></tr>
-<tr><th>62</th><th>4,77 %</th><th>4,90 %</th></tr>
-<tr><th>63</th><th>4,97 %</th><th>5,10 %</th></tr>
-<tr><th>64</th><th>5,21 %</th><th>0,0 %</th></tr>
-<tr><th>65</th><th>0,0 %</th><th></th></tr>
+<tr><td>Età all’inizio dell’ottenimento della rendita di vecchiaia</td><td>60</td><td>4,42 %</td></tr>
+<tr><td></td><td>**61**</td><td>4,59 %</td></tr>
+<tr><td></td><td>**62**</td><td>4,77 %</td></tr>
+<tr><td></td><td>**63**</td><td>4,97 %</td></tr>
+<tr><td></td><td>**64**</td><td>5,21 %</td></tr>
+<tr><td></td><td>**65**</td><td>0,0 %</td></tr>
+</table>
+
+b. Donne (in base all’anno di nascita)
+
+<table>
+<tr><th></th><th></th><th>1960 e anni precedenti</th><th>1961</th><th>1962</th><th>1963</th><th>1964 e anni successivi</th></tr>
+<tr><td>Età all’inizio dell’ottenimento della rendita</td><td>60</td><td>4,56 %</td><td>4,55 %</td><td>4,53 %</td><td>4,52 %</td><td>4,51 %</td></tr>
+<tr><td></td><td>**61**</td><td>4,73 %</td><td>4,72 %</td><td>4,71 %</td><td>4,69 %</td><td>4,68 %</td></tr>
+<tr><td></td><td>**62**</td><td>4,90 %</td><td>4,90 %</td><td>4,89 %</td><td>4,87 %</td><td>4,86 %</td></tr>
+<tr><td></td><td>**63**</td><td>5,10 %</td><td>5,10 %</td><td>5,09 %</td><td>5,07 %</td><td>5,06 %</td></tr>
+<tr><td></td><td>**64**</td><td>0,00 %</td><td>5,32 %</td><td>5,30 %</td><td>5,28 %</td><td>5,27 %</td></tr>
 </table>
 
 **Esempio di calcolo:**
 
-Un assicurato va in pensione **all’età di 60 anni** e ha diritto a una rendita di vecchiaia di fr. 6000.– al mese. Ottiene una rendita transitoria di fr. 2320.– al mese. L’assicurato muore **all’età di 63 anni**.
+Un assicurato va in pensione all’età di 62 anni e 3 mesi e ha diritto a una rendita di vecchiaia di fr. 6000.– al mese. Ottiene una rendita transitoria di fr. 2320.– al mese. L’assicurato muore all’età di 63 anni.
 
-Calcolo/riduzione della rendita per coniugi / conviventi:
+Calcolo/riduzione della rendita per coniugi/conviventi:
 
-- 1\. L’età di pensionamento stabilisce il tasso di riduzione a vita. 🡪 Nel caso di un uomo di 60 anni esso ammonta al 4,42 %.
-- 2\. Questo tasso va moltiplicato per il numero di anni che intercorrono tra il decesso e l’età AVS. 🡪 L’assicurato è deceduto all’età di 63 anni; la differenza tra l’età al decesso e l’età AVS è di 2 anni. 🡪 Il tasso di riduzione per il calcolo della riduzione a vita della rendita mensile di vecchiaia al raggiungimento dell’età AVS ammonta a 2 × 4,42 %. = 8,84 %.
-- 3\. L’importo della riduzione a vita della rendita mensile di vecchiaia al raggiungimento dell’età AVS va diminuito di questo tasso. 🡪 La riduzione mensile all’età AVS in caso di pensionamento all’età di 60 anni ammonta a fr. 310.60 (secondo l’all. 5 n. I, es. 1 lett. a) e questo importo viene diminuito di fr. 27.45 (8,84 % di fr. 310.60). La riduzione definitiva ammonta pertanto a fr. 283.15.
-- 4\. La rendita di vecchiaia ridotta ammonta quindi a fr. 5716.85 (fr. 6000 meno fr. 283.15), la rendita per superstiti a fr. 3811.25 (⅔ della rendita di vecchiaia ridotta).
+- 1\. L’età di pensionamento stabilisce il tasso di riduzione a vita. 🡪 Nel caso di un uomo di 62 anni e 3 mesi ammonta a 4,82 %.
+- 2\. Questo tasso va moltiplicato per il numero di anni che intercorrono tra il decesso e l’età di riferimento. 🡪 L’assicurato è deceduto all’età di 63 anni; la differenza tra l’età al decesso e l’età di riferimento è di 2 anni. 🡪 Il tasso di riduzione per il calcolo della riduzione a vita della rendita mensile di vecchiaia al raggiungimento dell’età di riferimento ammonta a 2 × 4,82 % = 9,64 %.
+- 3\. L’importo della riduzione a vita della rendita mensile di vecchiaia al raggiungimento dell’età di riferimento va diminuito di questo tasso. 🡪 Al raggiungimento dell’età di riferimento, la riduzione mensile in caso di pensionamento all’età di 62 anni e 3 mesi ammonta a fr. 166.10 (secondo l’all. 5 cifra I, es. 1 lett. a), importo che viene poi diminuito di fr. 16.00 (9,64 % di fr. 166.10). La riduzione definitiva ammonta pertanto a fr. 150.10.
+- 4\. La rendita di vecchiaia ridotta ammonta quindi a fr. 5849.90 (fr. 6000 meno fr. 150.10), la rendita per superstiti a fr. 3899.95 (⅔ della rendita di vecchiaia ridotta).
 
 Allegato 6[^t-6]
 
@@ -2509,7 +2562,7 @@ Allegato 6[^t-6]
 
 [^t-6]: Nuovo testo giusta il n. II della Dec. dell’OPC del 15 feb. 2018, approvata dal CF il 25 apr. 2018, in vigore dal 1° gen. 2019 ([RU 2018 2431](https://fedlex.data.admin.ch/eli/oc/2018/353)).
 
-### I. Riduzione a vita della rendita mensile di vecchiaia insorta tra il 1° luglio 2008 e il 30 giugno 2012 a partire dal raggiungimento dell’età AVS a causa dell’ottenimento di una rendita transitoria (art. 108*b* cpv. 1)
+### I. Riduzione a vita della rendita mensile di vecchiaia insorta tra il 1° luglio 2008 e il 30 giugno 2012 a partire dal raggiungimento dell’età di riferimento a causa dell’ottenimento di una rendita transitoria (art. 108*b* cpv. 1)
 
 Tabella 1: età AVS 65
 
@@ -2574,7 +2627,7 @@ Importo secondo le tabelle 1 o 2 × quota del lavoratore × (RT al mese/1000) = 
 - a. età AVS 65: 368.20 × 0.5 × 2.21 = **fr. 406.85**
 - b. età AVS 64: 280.30 × 0.5 × 2.21 = **fr. 309.75**
 
-### II. Riduzione a vita della rendita mensile di vecchiaia insorta tra il 1° luglio 2012 e il 31 dicembre 2014 a partire dal raggiungimento dell’età AVS a causa dell’ottenimento di una rendita transitoria (art. 108*c* cpv. 1)
+### II. Riduzione a vita della rendita mensile di vecchiaia insorta tra il 1° luglio 2012 e il 31 dicembre 2014 a partire dal raggiungimento dell’età di riferimento a causa dell’ottenimento di una rendita transitoria (art. 108*c* cpv. 1)
 
 Tabella 1: età AVS 65
 
@@ -2639,7 +2692,7 @@ Importo secondo le tabelle 1 o 2 × quota del lavoratore × (RT al mese/1000) = 
 - a. età AVS 65: 338.25 × 0.5 × 2.32 = **fr. 392.35**
 - b. età AVS 64: 271.95 × 0.5 × 2.32 = **fr. 315.45**
 
-### III. Riduzione a vita della rendita mensile di vecchiaia insorta tra il 1° gennaio 2015 e il 31 dicembre 2018 a partire dal raggiungimento dell’età AVS a causa dell’ottenimento di una rendita transitoria (art. 108*i* cpv. 1)
+### III. Riduzione a vita della rendita mensile di vecchiaia insorta tra il 1° gennaio 2015 e il 31 dicembre 2018 a partire dal raggiungimento dell’età di riferimento a causa dell’ottenimento di una rendita transitoria (art. 108*i* cpv. 1)
 
 Tabella 1: età AVS 65
 
@@ -2773,7 +2826,7 @@ Nel quadro dei piani previdenziali per gli impiegati del DFAE soggetti all’obb
 
 ### III. Riscatto
 
-<sup>1</sup> Nel quadro dei piani previdenziali per i militari di professione e i membri del Corpo delle guardie di confine, entro i limiti stabiliti dalla LPP la persona assicurata può effettuare un riscatto fino al compimento del 65° anno di età, secondo la seguente tabella:
+<sup>1</sup> Nel quadro dei piani previdenziali per i militari di professione e i membri del Corpo delle guardie di confine, entro i limiti stabiliti dalla LPP la persona assicurata può effettuare un riscatto fino al raggiungimento dell’età di riferimento, secondo la seguente tabella:
 
 <table>
 <tr><th colspan="2">Standard</th><th></th><th></th><th>Quadri</th><th></th><th></th></tr>
@@ -2857,7 +2910,7 @@ Esempio:
 <tr><td>**Riscatto massimo nel piano standard se vengono versati contributi supplementari di risparmio del datore di lavoro, rispetto al riscatto massimo nel piano standard**</td><td>**fr. 79 650.00**</td></tr>
 </table>
 
-<sup>2</sup> Nel quadro dei piani previdenziali per gli impiegati del DFAE soggetti all’obbligo del trasferimento, entro i limiti stabiliti dalla LPP la persona assicurata può effettuare un riscatto fino al compimento del 65° anno di età, secondo la seguente tabella:
+<sup>2</sup> Nel quadro dei piani previdenziali per gli impiegati del DFAE soggetti all’obbligo del trasferimento, entro i limiti stabiliti dalla LPP la persona assicurata può effettuare un riscatto fino al raggiungimento dell’età di riferimento, secondo la seguente tabella:
 
 <table>
 <tr><th colspan="2">Standard</th><th></th><th></th><th></th><th></th><th colspan="2">Quadri</th><th></th><th></th><th></th><th></th></tr>

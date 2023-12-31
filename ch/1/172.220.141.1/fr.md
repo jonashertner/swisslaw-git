@@ -4,11 +4,11 @@ title: Règlement de prévoyance du 15 juin 2007 pour les personnes employées e
 short: RPEC
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/190"
 language: fr
-version: 2023-01-01
+version: 2024-01-01
 adopted: 2007-06-15
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/190/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2012-190-20230101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/190/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/190/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2012-190-20240101-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/190/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/190/20230101/fr"
 
 (RPEC)
 
-du 15 juin 2007 (État le 1<sup>er</sup> janvier 2023) (État le 1<sup>er</sup> janvier 2023)
+du 15 juin 2007 (État le 1<sup>er</sup> janvier 2024)
 
 L’organe paritaire de la caisse de prévoyance de la Confédération (OPC),
 
@@ -43,9 +43,10 @@ arrête:
 
 **Champ d’application**[^2-1]
 
-Le présent règlement s’applique aux employeurs affiliés à la caisse de prévoyance de la Confédération, à leurs employés, aux bénéficiaires de rentes, aux personnes dont la couverture d’assurance est maintenue en vertu de l’art. 18*d* et aux personnes auxquelles PUBLICA verse des prestations à la suite d’un divorce.
+Le présent règlement s’applique aux employeurs affiliés à la caisse de prévoyance de la Confédération, à leurs employés, aux bénéficiaires de rentes, aux personnes assurées en vertu du présent règlement conformément à l’art. 3, al. 3, du règlement de prévoyance du 6 décembre 2011 pour les bénéficiaires d’honoraires de la caisse de prévoyance de la Confédération[^2-2], aux personnes dont la couverture d’assurance est maintenue en vertu de l’art. 18*d* et aux personnes auxquelles PUBLICA verse des prestations à la suite d’un divorce.
 
-[^2-1]: Nouvelle teneur selon le ch. I de la D de l’OPC des 17 et 26 nov. 2020, approuvée par le CF le 4 déc. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5903](https://fedlex.data.admin.ch/eli/oc/2020/991)).
+[^2-1]: Nouvelle teneur selon le ch. I de la D de l’OPC des 7 août et 27 nov. 2023, approuvée par le CF le 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
+[^2-2]: [RS 172.220.141.2](https://fedlex.data.admin.ch/eli/cc/2012/52)
 
 #### Art. 3
 
@@ -86,9 +87,12 @@ Les plans de prévoyance suivants sont prévus pour les cotisations d’épargne
 
 #### Art. 4
 
-**Objectif de prévoyance**
+**Objectif de prévoyance et âge de référence**[^4-1]
 
-Les modèles de calculs présentés dans le présent règlement sont fondés sur une retraite à l’âge de 65 ans.
+Les modèles de calculs présentés dans le présent règlement sont fondés sur l’âge de référence visé à l’art. 13 de la loi fédérale du 25 juin 1982 sur la prévoyance professionnelle vieillesse, survivants et invalidité (LPP)[^4-2].
+
+[^4-1]: Nouvelle teneur selon le ch. I de la D de l’OPC des 7 août et 27 nov. 2023, approuvée par le CF le 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
+[^4-2]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
 
 #### Art. 5
 
@@ -186,7 +190,11 @@ Les personnes assurées et les bénéficiaires de rentes ayant droit à des pres
 
 **Conditions d’admission dans l’assurance**
 
-Les personnes employées sont obligatoirement assurées contre les risques de décès et d’invalidité dès le 1<sup>er</sup> janvier qui suit la date à laquelle elles ont eu 17 ans. Dès le 1<sup>er</sup> janvier qui suit la date à laquelle elles ont eu 21 ans, elles sont également assurées pour la vieillesse.
+<sup>1</sup> Les personnes employées sont obligatoirement assurées contre les risques de décès et d’invalidité dès le 1<sup>er</sup> janvier qui suit la date à laquelle elles ont eu 17 ans. Dès le 1<sup>er</sup> janvier qui suit la date à laquelle elles ont eu 21 ans, elles sont également assurées pour la vieillesse.
+
+<sup>2</sup> Les personnes qui exercent une activité accessoire auprès d’un employeur affilié à la caisse de prévoyance de la Confédération et qui sont déjà assujetties à l’assurance obligatoire pour une activité lucrative exercée à titre principal sont également assurées.[^14-1]
+
+[^14-1]: Introduit par le ch. I de la D de l’OPC des 7 août et 27 nov. 2023, approuvée par le CF le 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
 
 #### Art. 15 et 16
 
@@ -196,19 +204,22 @@ Les personnes employées sont obligatoirement assurées contre les risques de d�
 
 #### Art. 17
 
-**Personnes non admises dans l’assurance**
+**Personnes non admises dans l’assurance**[^17-1]
 
 Ne sont pas admises dans l’assurance de PUBLICA, les personnes employées:
 
-- a.[^17-1] engagées pour une durée limitée ne dépassant pas trois mois; l’art. 1*k* OPP 2 est réservé;
-- b. n’exerçant qu’une activité accessoire auprès d’un employeur affilié à la caisse de prévoyance de la Confédération, si elles sont déjà assujetties à l’assurance obligatoire pour une activité lucrative exercée à titre principal ou si elles exercent une activité lucrative indépendante à titre principal;
-- c. invalides au sens de la LAI, à raison de 70 % au moins;
-- c<sup>bis</sup>.[^17-2] qui, au sens de l’art. 26*a* LPP, restent assurées à titre provisoire auprès de l’institution de prévoyance tenue de leur verser des prestations;
-- d. travaillant à l’étranger à titre de personnel local non transférable du DFAE et pour lequel le DFAE n’est pas soumis à l’obligation de payer des cotisations à l’AVS, ou
-- e. qui ont atteint l’âge de 65 ans.
+- a. qui sont engagées pour une durée limitée ne dépassant pas trois mois; l’art. 1*k* de l’ordonnance du 18 avril 1984 sur la prévoyance professionnelle vieillesse, survivants et invalidité (OPP 2)[^17-2] est réservé;
+- b. qui n’exercent qu’une activité accessoire auprès d’un employeur affilié à la caisse de prévoyance de la Confédération et exercent une activité lucrative indépendante à titre principal;
+- c. qui sont invalides au sens de la loi fédérale du 19 juin 1959 sur l’assurance-invalidité (LAI)[^17-3], à raison de 70 % au moins;
+- d. qui, au sens de l’art. 26*a* LPP[^17-4], restent assurées à titre provisoire auprès de l’institution de prévoyance tenue de leur verser des prestations;
+- e. qui travaillent à l’étranger à titre de personnel local non transférable du DFAE et pour lesquelles le DFAE n’est pas soumis à l’obligation de payer des cotisations à l’AVS;
+- f*.* qui ont atteint l’âge de référence;
+- g. qui exercent une activité accessoire auprès de l’employeur dans un organe dirigeant élu ou dans une commission extraparlementaire et qui sont déjà assujetties à l’assurance obligatoire pour une activité lucrative exercée à titre principal ou exercent une activité lucrative indépendante à titre principal.
 
-[^17-1]: Nouvelle teneur selon les D de l’OPC des 2 et 15 sept. et du 20 oct. 2009, approuvées par le CF le 11 nov. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([FF 2009 7669](https://fedlex.data.admin.ch/eli/fga/2009/1447)).
-[^17-2]: Introduite par le ch. I de la D de l’OPC du 26 juin 2012, approuvée par le CF le 15 mars 2013, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2013 979](https://fedlex.data.admin.ch/eli/oc/2013/208)).
+[^17-1]: Nouvelle teneur selon le ch. I de la D de l’OPC des 7 août et 27 nov. 2023, approuvée par le CF le 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
+[^17-2]: RS **831.411.1**
+[^17-3]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^17-4]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
 
 #### Art. 18
 
@@ -219,24 +230,25 @@ Ne sont pas admises dans l’assurance de PUBLICA, les personnes employées:
 L’assurance prend fin:
 
 - a.[^18-1] avec la cessation des rapports de travail, pour autant qu’à ce moment aucun droit à des prestations de vieillesse ou d’invalidité ne soit exigible et que l’assurance ne soit pas maintenue en vertu de l’art. 18*d*;
-- b.[^18-2] lorsque la personne assurée a 65 ans, sous réserve de l’art. 18*b*.
-- c.[^18-3] …
+- b.[^18-2] lorsque la personne assurée a l’âge de référence[^18-3], sous réserve de l’art. 18*b*.
+- c.[^18-4] …
 
 <sup>2</sup>
 
 La personne concernée demeure assurée pour les risques de décès et d’invalidité durant:
 
 - a. un mois après la cessation des rapports de travail;
-- b. dix mois au plus après la fin du versement du salaire au sens des dispositions sur le droit du travail, si les rapports de travail continuent; en cas de suspension provisoire des rapports de travail, l’art. 10 de l’ordonnance du 31 août 1983 sur l’assurance-chômage (OACI)[^18-4] est réservé.[^18-5]
+- b. dix mois au plus après la fin du versement du salaire au sens des dispositions sur le droit du travail, si les rapports de travail continuent; en cas de suspension provisoire des rapports de travail, l’art. 10 de l’ordonnance du 31 août 1983 sur l’assurance-chômage (OACI)[^18-5] est réservé.[^18-6]
 
-<sup>3</sup> Dans les cas visés à l’al. 2, les prestations correspondent à celles assurées à la cessation des rapports de travail. Si un nouveau rapport de prévoyance est établi dans le délai prévu à l’al. 2, let. a ou b, c’est la nouvelle institution de prévoyance qui est compétente.[^18-6]
+<sup>3</sup> Dans les cas visés à l’al. 2, les prestations correspondent à celles assurées à la cessation des rapports de travail. Si un nouveau rapport de prévoyance est établi dans le délai prévu à l’al. 2, let. a ou b, c’est la nouvelle institution de prévoyance qui est compétente.[^18-7]
 
 [^18-1]: Nouvelle teneur selon le ch. I de la D de l’OPC des 17 et 26 nov. 2020, approuvée par le CF le 4 déc. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5903](https://fedlex.data.admin.ch/eli/oc/2020/991)).
 [^18-2]: Nouvelle teneur selon la D de l’OPC du 8 sept. 2010, approuvée par le CF le 24 nov. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([FF 2010 8281](https://fedlex.data.admin.ch/eli/fga/2010/1690)).
-[^18-3]: Abrogée par la D de l’OPC du 8 sept. 2010, approuvée par le CF le 24 nov. 2010, avec effet au 1<sup>er</sup> janv. 2011 ([FF 2010 8281](https://fedlex.data.admin.ch/eli/fga/2010/1690)).
-[^18-4]: [RS 837.02](https://fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205)
-[^18-5]: Nouvelle teneur selon le ch. I de la D de l’OPC du 13 sept. 2022, approuvée par le CF le 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 748](https://fedlex.data.admin.ch/eli/oc/2022/748)).
-[^18-6]: Introduit par le ch. I de la D de l’OPC du 13 sept. 2022, approuvée par le CF le 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 748](https://fedlex.data.admin.ch/eli/oc/2022/748)).
+[^18-3]: Nouvelle expression selon le ch. I al. 1 de la D de l’OPC des 7 août et 27 nov. 2023, approuvée par le CF le 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)). Il n’a été tenu compte de cette mod. que dans les disp.mentionnées dans le RO.
+[^18-4]: Abrogée par la D de l’OPC du 8 sept. 2010, approuvée par le CF le 24 nov. 2010, avec effet au 1<sup>er</sup> janv. 2011 ([FF 2010 8281](https://fedlex.data.admin.ch/eli/fga/2010/1690)).
+[^18-5]: [RS 837.02](https://fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205)
+[^18-6]: Nouvelle teneur selon le ch. I de la D de l’OPC du 13 sept. 2022, approuvée par le CF le 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 748](https://fedlex.data.admin.ch/eli/oc/2022/748)).
+[^18-7]: Introduit par le ch. I de la D de l’OPC du 13 sept. 2022, approuvée par le CF le 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 748](https://fedlex.data.admin.ch/eli/oc/2022/748)).
 
 #### Art. 18a
 
@@ -248,11 +260,14 @@ Sur demande de la personne assurée, la couverture d’assurance en vigueur jusq
 
 #### Art. 18b
 
-**Continuation de la prévoyance vieillesse après 65 ans**[^18b-1]
+**Maintien de la prévoyance vieillesse au-delà de l*’*âge de référence**[^18b-1]
 
-Si les rapports de travail continuent après l’âge de 65 ans, la prévoyance vieillesse se poursuit jusqu’à leur fin sur demande de la personne assurée, mais au plus tard jusqu’à ce que celle-ci ait 70 ans.
+<sup>1</sup> Si les rapports de travail continuent après l’âge de référence, à la demande de la personne assurée, la prévoyance vieillesse est maintenue ou le versement de la prestation de vieillesse est ajourné selon l’art. 13*b* LPP[^18b-2], dans les deux cas jusqu’à la fin des rapports de travail, mais au plus tard jusqu’à ce que la personne ait 70 ans.
 
-[^18b-1]: Introduit par la D de l’OPC du 8 sept. 2010, approuvée par le CF le 24 nov. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([FF 2010 8281](https://fedlex.data.admin.ch/eli/fga/2010/1690)).
+<sup>2</sup> En cas d’ajournement du versement de la prestation de vieillesse, l’avoir de vieillesse est rémunéré conformément à l’art. 36*b*, al. 2.
+
+[^18b-1]: Introduit par la D de l’OPC du 8 sept. 2010, approuvée par le CF le 24 nov. 2010 ([FF 2010 8281](https://fedlex.data.admin.ch/eli/fga/2010/1690)). Nouvelle teneur selon le ch. I de la D de l’OPC des 7 août et 27 nov. 2023, approuvée par le CF le 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
+[^18b-2]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
 
 #### Art. 18c
 
@@ -260,15 +275,16 @@ Si les rapports de travail continuent après l’âge de 65 ans, la prévoyance 
 
 <sup>1</sup> Si le salaire annuel déterminant d’une personne assurée ayant atteint l’âge de 58 ans est diminué de moitié au maximum, la prévoyance se poursuit entièrement ou partiellement selon le gain assuré précédent, sur demande de la personne assurée.
 
-<sup>2</sup> L’assurance est prolongée au niveau du gain assuré précédent jusqu’à la fin des rapports de travail. Elle cesse dans tous les cas lorsque la personne assurée a 65 ans.
+<sup>2</sup> L’assurance est maintenue au niveau du dernier gain assuré au plus tard jusqu’à la fin des rapports de travail. Elle cesse dans tous les cas lorsque la personne assurée atteint l’âge de référence.[^18c-2]
 
 [^18c-1]: Introduit par la D de l’OPC du 8 sept. 2010, approuvée par le CF le 24 nov. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([FF 2010 8281](https://fedlex.data.admin.ch/eli/fga/2010/1690)).
+[^18c-2]: Nouvelle teneur selon le ch. I de la D de l’OPC des 7 août et 27 nov. 2023, approuvée par le CF le 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
 
 #### Art. 18d
 
 **Maintien de l’assurance en cas de résiliation du contrat de travail par l’employeur ou d’un commun accord**[^18d-1]
 
-<sup>1</sup> Si le contrat de travail d’une personne assurée est résilié après l’âge de 58 ans et avant l’âge de 65 ans par l’employeur ou d’un commun accord, l’assurance peut être maintenue en application de l’art. 47*a*, al. 2 à 6, LPP à la demande de la personne assurée. La communication écrite du maintien de l’assurance doit parvenir à PUBLICA dans un délai de trois mois après la résiliation du contrat de travail.
+<sup>1</sup> Si le contrat de travail d’une personne assurée est résilié après l’âge de 58 ans et avant l’âge de référence par l’employeur ou d’un commun accord, l’assurance peut être maintenue en application de l’art. 47*a*, al. 2 à 6, LPP à la demande de la personne assurée. La communication écrite du maintien de l’assurance doit parvenir à PUBLICA dans un délai de trois mois après la résiliation du contrat de travail.
 
 <sup>2</sup> La personne assurée paie les frais administratifs prévus par le règlement sur les coûts et la prime de risque de l’assurance pour les risques de décès et d’invalidité. Si elle maintient aussi la prévoyance vieillesse, elle paie, en plus de ses propres cotisations d’épargne, les cotisations d’épargne de l’employeur; elle peut verser des cotisations d’épargne volontaires.
 
@@ -276,9 +292,9 @@ Si les rapports de travail continuent après l’âge de 65 ans, la prévoyance 
 
 <sup>4</sup> Au surplus, la personne assurée a les mêmes droits que celles qui bénéficient d’un contrat de travail.
 
-<sup>5</sup> Le maintien de l’assurance prend fin à la survenance du risque de décès ou d’invalidité ou lorsque la personne assurée atteint l’âge de 65 ans. En cas d’invalidité partielle, le gain assuré est réduit dans une mesure correspondant au droit à la rente d’invalidité.
+<sup>5</sup> Le maintien de l’assurance prend fin à la survenance du risque de décès ou d’invalidité ou lorsque la personne assurée atteint l’âge de référence. En cas d’invalidité partielle, le gain assuré est réduit dans une mesure correspondant au droit à la rente d’invalidité.
 
-<sup>6</sup> Si la personne assurée s’affilie à une nouvelle institution avant l’âge de 65 ans, la prestation de sortie est transférée au moins à hauteur du montant qui permet le rachat de toutes les prestations réglementaires dans la nouvelle institution.
+<sup>6</sup> Si la personne assurée s’affilie à une nouvelle institution avant l’âge de référence, la prestation de sortie est transférée au moins à hauteur du montant qui permet le rachat de toutes les prestations réglementaires dans la nouvelle institution.
 
 <sup>7</sup> Si, après ce transfert, il reste au moins un tiers de la prestation de sortie auprès de PUBLICA, l’assurance est maintenue. Le gain assuré est réduit dans une mesure correspondant à la prestation de sortie qui a été transférée.
 
@@ -316,7 +332,10 @@ Si l’assurance s’arrête suite à la résiliation par la personne assurée o
 
 <sup>6</sup> Si une personne assurée est employée pendant moins d’une année, le salaire qu’elle obtiendrait si elle était occupée toute l’année est réputé salaire annuel déterminant.
 
+<sup>7</sup> Si une personne assurée exerce plusieurs activités auprès du même employeur affilié à la caisse de prévoyance de la Confédération, la totalité du salaire qu’elle a obtenu est prise en compte pour le calcul du salaire annuel déterminant.[^19-2]
+
 [^19-1]: Nouvelle teneur de la phrase selon la D de l’OPC du 8 sept. 2010, approuvée par le CF le 24 nov. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([FF 2010 8281](https://fedlex.data.admin.ch/eli/fga/2010/1690)).
+[^19-2]: Introduit par le ch. I de la D de l’OPC des 7 août et 27 nov. 2023, approuvée par le CF le 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
 
 #### Art. 20
 
@@ -422,9 +441,9 @@ Les différents plans de prévoyance prévoient les cotisations d’épargne sui
 
 <sup>4</sup> La cotisation d’épargne volontaire est fixée sur la base du gain assuré de la personne assurée.[^25-4]
 
-<sup>5</sup> L’employeur annonce sans délai à PUBLICA le versement de la cotisation d’épargne volontaire, la modification du montant de celle-ci ou la renonciation complète à son paiement.[^25-5]
+<sup>5</sup> La personne assurée communique à l’employeur sa décision de verser des cotisations d’épargne volontaires, de modifier le montant de celles‑ci ou de renoncer complètement à leur paiement. L’employeur annonce sans délai à PUBLICA la décision de la personne assurée.[^25-5]
 
-<sup>6</sup> La mutation prend effet le premier jour du mois qui suit l’annonce. Une nouvelle mutation prend effet au plus tôt une demi-année après la précédente.[^25-6]
+<sup>6</sup> La mutation prend effet le premier jour du mois qui suit l’annonce.[^25-6]
 
 <sup>7</sup> Les cotisations d’épargne volontaires sont portées au crédit de l’avoir d’épargne spécial[^25-7] (art. 36*a*).[^25-8]
 
@@ -432,8 +451,8 @@ Les différents plans de prévoyance prévoient les cotisations d’épargne sui
 [^25-2]: Introduit par le ch. I de la D de l’OPC du 15 fév. 2018, approuvée par le CF le 25 avr. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 2431](https://fedlex.data.admin.ch/eli/oc/2018/353)).
 [^25-3]: Abrogé par le ch. I de la D de l’OPC du 25 nov. 2015, approuvée par le CF le 3 juin 2016, avec effet au 1<sup>er</sup> janv. 2017 ([RO 2016 1789](https://fedlex.data.admin.ch/eli/oc/2016/321)).
 [^25-4]: Nouvelle teneur selon la D de l’OPC du 8 sept. 2010, approuvée par le CF le 24 nov. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([FF 2010 8281](https://fedlex.data.admin.ch/eli/fga/2010/1690)).
-[^25-5]: Nouvelle teneur selon le ch. I de la D de l’OPC du 26 juin 2012, approuvée par le CF le 15 mars 2013, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2013 979](https://fedlex.data.admin.ch/eli/oc/2013/208)).
-[^25-6]: Nouvelle teneur selon le ch. I de la D de l’OPC du 26 juin 2012, approuvée par le CF le 15 mars 2013, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2013 979](https://fedlex.data.admin.ch/eli/oc/2013/208)).
+[^25-5]: Nouvelle teneur selon le ch. I de la D de l’OPC des 7 août et 27 nov. 2023, approuvée par le CF le 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
+[^25-6]: Nouvelle teneur selon le ch. I de la D de l’OPC des 7 août et 27 nov. 2023, approuvée par le CF le 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
 [^25-7]: Nouvelle expression selon le ch. I de la D de l’OPC du 21 mai 2013, approuvée par le CF le 14 juin 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1783](https://fedlex.data.admin.ch/eli/oc/2013/405)). Il a été tenu compte de cette mod. dans tout le texte.
 [^25-8]: Nouvelle teneur selon le ch. I de la D de l’OPC du 26 juin 2012, approuvée par le CF le 15 mars 2013, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2013 979](https://fedlex.data.admin.ch/eli/oc/2013/208)).
 
@@ -451,7 +470,7 @@ L’obligation de payer la prime existe dès l’admission dans l’assurance. E
 
 - a. au décès de la personne assurée;
 - b. à la cessation des rapports de travail;
-- c. lorsque la personne assurée atteint l’âge de 65 ans;
+- c. lorsque la personne assurée atteint l’âge de référence;
 - d. en cas d’invalidité au sens de l’art. 53.
 
 <sup>4</sup>
@@ -531,49 +550,52 @@ Les prestations de sortie acquises auprès d’autres institutions de prévoyanc
 
 <sup>2bis</sup> Les rachats sont portés au crédit de l’avoir de vieillesse (art. 36) jusqu’à concurrence du montant maximum de ce dernier. Les rachats dépassant ce montant sont portés au crédit de l’éventuel avoir d’épargne spécial (art. 36*a*) jusqu’à concurrence du montant maximum de ce dernier. Tout montant excédentaire est remboursé.[^32-2]
 
-<sup>3</sup> Les bénéficiaires de prestations de vieillesse, âgés de moins de 65 ans, qui prennent un emploi auprès d’un employeur affilié à la caisse de prévoyance de la Confédération ne peuvent racheter des prestations réglementaires que pour la part de celles-ci qui dépasse le niveau de prévoyance qui existait avant la survenance du cas de prévoyance vieillesse.
+<sup>3</sup> Les bénéficiaires de prestations de vieillesse qui n’ont pas encore atteint l’âge de référence et qui prennent un emploi auprès d’un employeur affilié à la caisse de prévoyance de la Confédération ne peuvent racheter des prestations réglementaires que pour la part de celles‑ci qui dépasse le niveau de prévoyance qui existait avant la survenance du cas de prévoyance vieillesse.[^32-3]
 
 <sup>4</sup> Les rachats payés après la survenance de l’incapacité de travail invalidante sont révoqués (art. 57, al. 3).
 
-<sup>5</sup> Si des versements anticipés ont été perçus dans le cadre de l’encouragement à la propriété du logement, des rachats ne peuvent être effectués que lorsque les versements anticipés ont été remboursés.[^32-3]
+<sup>5</sup> Si des versements anticipés ont été perçus dans le cadre de l’encouragement à la propriété du logement, des rachats ne peuvent être effectués que lorsque les versements anticipés ont été remboursés.[^32-4]
 
 [^32-1]: Nouvelle teneur selon le ch. I de la D de l’OPC du 21 juin 2011, approuvée par le CF le 19 oct. 2011, en vigueur depuis le 1<sup>er</sup> juil. 2012 ([RO 2012 2069](https://fedlex.data.admin.ch/eli/oc/2012/275)).
 [^32-2]: Introduit par le ch. I de la D de l’OPC du 26 juin 2012, approuvée par le CF le 15 mars 2013, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2013 979](https://fedlex.data.admin.ch/eli/oc/2013/208)).
-[^32-3]: Nouvelle teneur selon le ch. I de la D de l’OPC des 17 et 26 nov. 2020, approuvée par le CF le 4 déc. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5903](https://fedlex.data.admin.ch/eli/oc/2020/991)).
+[^32-3]: Nouvelle teneur selon le ch. I de la D de l’OPC des 7 août et 27 nov. 2023, approuvée par le CF le 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
+[^32-4]: Nouvelle teneur selon le ch. I de la D de l’OPC des 17 et 26 nov. 2020, approuvée par le CF le 4 déc. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5903](https://fedlex.data.admin.ch/eli/oc/2020/991)).
 
 #### Art. 32a
 
-**Rachat en vue d’augmenter la rente de vieillesse en cas de sortie avant 65 ans[^32a-2]**[^32a-1]
+**Rachat en vue d’augmenter la rente de vieillesse en cas de sortie avant l’âge de référence[^32a-2]**[^32a-1]
 
-<sup>1</sup> La personne assurée peut, par l’intermédiaire d’un rachat, augmenter sa rente de vieillesse à hauteur maximum de sa rente d’invalidité assurée, au plus tôt lors du dépôt de la demande de rente avant l’âge de 65 ans. L’avoir éventuel découlant des cotisations d’épargne volontaires n’est pas pris en compte pour calculer la rente de vieillesse. Si l’annonce de ce rachat intervient moins de trois mois avant la sortie, les frais administratifs seront imputés à la personne assurée conformément au règlement relatif aux émoluments.
+<sup>1</sup> La personne assurée peut, par l’intermédiaire d’un rachat, augmenter sa rente de vieillesse à hauteur maximum de sa rente d’invalidité assurée, au plus tôt lors du dépôt de la demande de rente avant l’âge de référence. L’avoir éventuel découlant des cotisations d’épargne volontaires n’est pas pris en compte pour calculer la rente de vieillesse. Si l’annonce de ce rachat intervient moins de trois mois avant la sortie, les frais administratifs seront imputés à la personne assurée conformément au règlement relatif aux émoluments.
 
 <sup>2</sup> Seul un paiement direct unique permet d’augmenter la rente de vieillesse.
 
 <sup>3</sup> Le montant destiné à financer l’augmentation de la rente de vieillesse est remboursé si PUBLICA le reçoit après la retraite de la personne assurée.
 
 [^32a-1]: Introduit par la D de l’OPC du 8 sept. 2010, approuvée par le CF le 24 nov. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([FF 2010 8281](https://fedlex.data.admin.ch/eli/fga/2010/1690)).
-[^32a-2]: Nouvelle teneur selon le ch. I de la D de l’OPC des 21 mars, 7 mai et 30 sept. 2019, approuvée par le CF le 30 oct. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3447](https://fedlex.data.admin.ch/eli/oc/2019/629)).
+[^32a-2]: Nouvelle teneur selon le ch. I de la D de l’OPC des 7 août et 27 nov. 2023, approuvée par le CF le 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
 
 #### Art. 32b
 
-**Rachat après l’âge de 65 ans**[^32b-1]
+**Rachat après l’âge de référence**[^32b-1]
 
 <sup>1</sup>
 
-Un rachat après l’âge de 65 ans est possible si la personne assurée:
+Un rachat après l’âge de référence est possible si la personne assurée:[^32b-2]
 
-- a. n’a pas effectué, à l’âge de 65 ans, le rachat complet des prestations réglementaires, et
-- b. a maintenu sa prévoyance vieillesse après l’âge de 65 ans, conformément à l’art. 18*b*.
+- a. n’a pas effectué, à l’âge de référence, le rachat complet des prestations réglementaires, et
+- b.[^32b-3] a maintenu sa prévoyance vieillesse ou a fait ajourner le versement de la prestation de vieillesse après l’âge de référence, conformément à l’art. 18*b*.
 
 <sup>2</sup>
 
 Sont déterminants pour le calcul de la somme de rachat:
 
-- a. le gain assuré à l’âge de 65 ans;
+- a. le gain assuré à l’âge de référence;
 - b. les facteurs applicables selon l’annexe 2, et
 - c. l’avoir de vieillesse disponible au moment du rachat.
 
 [^32b-1]: Introduit par le ch. I de la D de l’OPC des 21 mars, 7 mai et 30 sept. 2019, approuvée par le CF le 30 oct. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3447](https://fedlex.data.admin.ch/eli/oc/2019/629)).
+[^32b-2]: Nouvelle teneur selon le ch. I de la D de l’OPC des 7 août et 27 nov. 2023, approuvée par le CF le 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
+[^32b-3]: Nouvelle teneur selon le ch. I de la D de l’OPC des 7 août et 27 nov. 2023, approuvée par le CF le 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
 
 #### Art. 33
 
@@ -620,7 +642,7 @@ Si une contribution d’assainissement est perçue, l’organe paritaire de la C
 
 <sup>1</sup> Les cotisations d’assainissement à payer par l’employeur et par les personnes assurées sont dues dans leur totalité par l’employeur.
 
-<sup>1bis</sup> En cas de maintien de l’assurance en vertu de l’art. 18*d*, la personne assurée paie sa cotisation d’assainissement. Cette dernière lui est imputée.[^35-1]
+<sup>1bis</sup> Si elle fait ajourner le versement de la prestation de vieillesse conformément à l’art. 18*b* ou maintient l’assurance conformément à l’art. 18*d*, la personne assurée paie sa cotisation d’assainissement. Cette dernière lui est imputée.[^35-1]
 
 <sup>2</sup>
 
@@ -629,7 +651,7 @@ La part de contribution est:
 - a. déduite mensuellement du salaire des personnes assurées;
 - b. déduite mensuellement de la rente des bénéficiaires de rentes.
 
-[^35-1]: Introduit par le ch. I de la D de l’OPC des 17 et 26 nov. 2020, approuvée par le CF le 4 déc. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5903](https://fedlex.data.admin.ch/eli/oc/2020/991)).
+[^35-1]: Introduit par le ch. I de la D de l’OPC des 17 et 26 nov. 2020, approuvée par le CF le 4 déc. 2020 ([RO 2020 5903](https://fedlex.data.admin.ch/eli/oc/2020/991)). Nouvelle teneur selon le ch. I de la D de l’OPC des 7 août et 27 nov. 2023, approuvée par le CF le 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
 
 ## Chapitre 6 Prestations
 
@@ -739,19 +761,19 @@ Sont déduits de l’avoir d’épargne spécial:
 
 <sup>2</sup> Il s’éteint à la fin du mois au cours duquel décède la personne bénéficiaire d’une rente.
 
-<sup>3</sup> Si, à la cessation des rapports de travail, une personne assurée a droit à une rente de vieillesse et si elle n’a pas atteint l’âge de 70 ans, elle peut demander, en lieu et place de cette rente, le transfert de sa prestation de sortie à l’institution de prévoyance de son nouvel employeur. Si elle n’a pas atteint l’âge de 65 ans et si elle est inscrite au chômage, elle peut demander, en lieu et place de cette rente, le transfert de la prestation de sortie à une institution de libre passage (art. 84).[^37-2]
+<sup>3</sup> Si, à la cessation des rapports de travail, une personne assurée a droit à une rente de vieillesse et si elle n’a pas encore atteint l’âge de 70 ans, elle peut demander, en lieu et place de cette rente, le transfert de sa prestation de sortie à l’institution de prévoyance de son nouvel employeur. Si elle n’a pas encore atteint l’âge référence et si elle est inscrite au chômage, elle peut demander, en lieu et place de cette rente, le transfert de la prestation de sortie à une institution de libre passage (art. 84).[^37-2]
 
 <sup>4</sup> La personne assurée doit demander par écrit à PUBLICA, au plus tard 30 jours avant la cessation des rapports de travail, le transfert de sa prestation de sortie. Si la demande est faite moins de 30 jours avant la cessation des rapports de travail, ou après la cessation de ceux-ci, des frais administratifs ad hoc peuvent être facturés pour autant que le règlement sur les coûts le prévoie.[^37-3]
 
 [^37-1]: Nouvelle teneur selon la D de l’OPC du 8 sept. 2010, approuvée par le CF le 24 nov. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([FF 2010 8281](https://fedlex.data.admin.ch/eli/fga/2010/1690)).
-[^37-2]: Nouvelle teneur selon la D de l’OPC du 8 sept. 2010, approuvée par le CF le 24 nov. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([FF 2010 8281](https://fedlex.data.admin.ch/eli/fga/2010/1690)).
+[^37-2]: Nouvelle teneur selon le ch. I de la D de l’OPC des 7 août et 27 nov. 2023, approuvée par le CF le 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
 [^37-3]: Nouvelle teneur de la phrase selon la D de l’OPC du 8 sept. 2010, approuvée par le CF le 24 nov. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([FF 2010 8281](https://fedlex.data.admin.ch/eli/fga/2010/1690)).
 
 #### Art. 38
 
 **Retraite partielle**
 
-<sup>1</sup> En cas de réduction de salaire en une ou plusieurs fois, une personne assurée de plus de 60 ans a droit, pour chaque réduction, à une rente de vieillesse correspondant à la réduction du gain assuré.[^38-1]
+<sup>1</sup> En cas de réduction de salaire en une ou plusieurs fois, une personne assurée de plus de 60 ans a droit, pour chaque réduction, à une prestation de vieillesse. Dans tous les cas, la part de la prestation de vieillesse perçue de manière anticipée ne doit pas dépasser la part de la réduction de salaire.[^38-1]
 
 <sup>2</sup> …[^38-2]
 
@@ -759,7 +781,7 @@ Sont déduits de l’avoir d’épargne spécial:
 
 <sup>4</sup> Si, à la cessation des rapports de travail, la personne assurée a droit à une rente partielle de vieillesse et si elle est âgée de moins de 70 ans, l’art. 37, al. 3 et 4, est applicable par analogie, sous réserve d’une continuation de la prévoyance en vertu de l’art. 18*c*.[^38-4]
 
-[^38-1]: Nouvelle teneur selon le ch. I de la D de l’OPC du 6 sept. 2016, approuvée par le CF le 10 mai 2017, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2017 3279](https://fedlex.data.admin.ch/eli/oc/2017/342)).
+[^38-1]: Nouvelle teneur selon le ch. I de la D de l’OPC des 7 août et 27 nov. 2023, approuvée par le CF le 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
 [^38-2]: Abrogé par la D de l’OPC du 8 sept. 2010, approuvée par le CF le 24 nov. 2010, avec effet au 1<sup>er</sup> janv. 2011 ([FF 2010 8281](https://fedlex.data.admin.ch/eli/fga/2010/1690)).
 [^38-3]: Nouvelle teneur selon le ch. I de la D de l’OPC du 26 juin 2012, approuvée par le CF le 15 mars 2013, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2013 979](https://fedlex.data.admin.ch/eli/oc/2013/208)).
 [^38-4]: Nouvelle teneur selon la D de l’OPC du 8 sept. 2010, approuvée par le CF le 24 nov. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([FF 2010 8281](https://fedlex.data.admin.ch/eli/fga/2010/1690)).
@@ -782,26 +804,29 @@ Sont déduits de l’avoir d’épargne spécial:
 
 <sup>1</sup> Lors de la retraite, la personne assurée peut retirer, sous forme d’indemnité unique en capital, jusqu’à 100 % de la somme de l’avoir de vieillesse selon l’art. 36 et de l’éventuel avoir d’épargne spécial (art. 36*a*) disponible à ce moment-là pour la prestation de vieillesse. Si la personne assurée annonce le retrait en capital moins de trois mois avant la retraite, les frais administratifs prévus par le règlement sur les coûts lui sont imputés; le versement de l’indemnité en capital est effectué après le paiement des frais administratifs.[^40-1]
 
-<sup>2</sup> …[^40-2]
+<sup>1bis</sup> Le retrait de la prestation de vieillesse sous forme de capital peut se faire en trois étapes au plus. Une étape comprend l’ensemble des retraits de prestations de vieillesse en capital effectués au cours d’une année civile.[^40-2]
 
-<sup>3</sup> Si les rapports de travail d’une personne assurée pouvant retirer une indemnité unique en capital sont, sans qu’il y ait faute de celle-ci, résiliés par l’employeur, cette personne peut, jusqu’à la retraite, annoncer un retrait en capital ou modifier une seule fois l’annonce déjà effectuée. L’al. 1 s’applique par analogie au paiement des frais administratifs.[^40-3]
+<sup>2</sup> …[^40-3]
+
+<sup>3</sup> …[^40-4]
 
 <sup>4</sup> Pour les personnes assurées mariées, le retrait sous forme d’indemnité en capital nécessite le consentement écrit et légalisé du conjoint ou de la conjointe. En lieu et place d’une légalisation, le conjoint ou la conjointe peut signer personnellement la déclaration de consentement, auprès de PUBLICA, sur présentation d’une pièce d’identité officielle.
 
 <sup>5</sup> La rente de vieillesse et les autres prestations assurées qui en découlent, à l’exception de la rente transitoire, sont réduites dans la mesure du retrait sous forme d’indemnité en capital.
 
-<sup>5bis</sup> Les parts de l’avoir de vieillesse financées par l’employeur au moment de la retraite de la personne assurée sont exclues du retrait en capital selon les dispositions relatives au droit du travail.[^40-4]
+<sup>5bis</sup> Les parts de l’avoir de vieillesse financées par l’employeur au moment de la retraite de la personne assurée sont exclues du retrait en capital selon les dispositions relatives au droit du travail.[^40-5]
 
-<sup>6</sup> Les prestations résultant d’un rachat (art. 32) ne peuvent être versées sous forme de capital avant l’échéance d’un délai de trois ans. Les rachats effectués en cas de divorce en vertu de l’art. 22*d* LFLP ne sont pas soumis à limitation.[^40-5]
+<sup>6</sup> Les prestations résultant d’un rachat (art. 32) ne peuvent être versées sous forme de capital avant l’échéance d’un délai de trois ans. Les rachats effectués en cas de divorce en vertu de l’art. 22*d* LFLP ne sont pas soumis à limitation.[^40-6]
 
-<sup>7</sup> Le retrait du capital est exclu si le maintien de l’assurance en vertu de l’art. 18*d* a duré plus de deux ans.[^40-6]
+<sup>7</sup> Le retrait du capital est exclu si le maintien de l’assurance en vertu de l’art. 18*d* a duré plus de deux ans.[^40-7]
 
 [^40-1]: Nouvelle teneur selon le ch. I de la D de l’OPC des 17 et 26 nov. 2020, approuvée par le CF le 4 déc. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5903](https://fedlex.data.admin.ch/eli/oc/2020/991)).
-[^40-2]: Abrogé par le ch. I de la D de l’OPC des 17 et 26 nov. 2020, approuvée par le CF le 4 déc. 2020, avec effet au 1<sup>er</sup> janv. 2021 ([RO 2020 5903](https://fedlex.data.admin.ch/eli/oc/2020/991)).
-[^40-3]: Nouvelle teneur selon le ch. I de la D de l’OPC du 21 juin 2011, approuvée par le CF le 19 oct. 2011, en vigueur depuis le 1<sup>er</sup> juil. 2012 ([RO 2012 2069](https://fedlex.data.admin.ch/eli/oc/2012/275)).
-[^40-4]: Introduit par le ch. I de la D de l’OPC du 21 juin 2011, approuvée par le CF le 19 oct. 2011, en vigueur depuis le 1<sup>er</sup> juil. 2012 ([RO 2012 2069](https://fedlex.data.admin.ch/eli/oc/2012/275)).
-[^40-5]: Nouvelle teneur selon le ch. I de la D de l’OPC du 6 sept. 2016, approuvée par le CF le 10 mai 2017, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2017 3279](https://fedlex.data.admin.ch/eli/oc/2017/342)).
-[^40-6]: Introduit par le ch. I de la D de l’OPC des 17 et 26 nov. 2020, approuvée par le CF le 4 déc. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5903](https://fedlex.data.admin.ch/eli/oc/2020/991)).
+[^40-2]: Introduit par le ch. I de la D de l’OPC des 7 août et 27 nov. 2023, approuvée par le CF le 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
+[^40-3]: Abrogé par le ch. I de la D de l’OPC des 17 et 26 nov. 2020, approuvée par le CF le 4 déc. 2020, avec effet au 1<sup>er</sup> janv. 2021 ([RO 2020 5903](https://fedlex.data.admin.ch/eli/oc/2020/991)).
+[^40-4]: Abrogé par le ch. I de la D de l’OPC des 7 août et 27 nov. 2023, approuvée par le CF le 29 nov. 2023, avec effet au 1<sup>er</sup> janv. 2024 ([RO 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
+[^40-5]: Introduit par le ch. I de la D de l’OPC du 21 juin 2011, approuvée par le CF le 19 oct. 2011, en vigueur depuis le 1<sup>er</sup> juil. 2012 ([RO 2012 2069](https://fedlex.data.admin.ch/eli/oc/2012/275)).
+[^40-6]: Nouvelle teneur selon le ch. I de la D de l’OPC du 6 sept. 2016, approuvée par le CF le 10 mai 2017, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2017 3279](https://fedlex.data.admin.ch/eli/oc/2017/342)).
+[^40-7]: Introduit par le ch. I de la D de l’OPC des 17 et 26 nov. 2020, approuvée par le CF le 4 déc. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5903](https://fedlex.data.admin.ch/eli/oc/2020/991)).
 
 #### Art. 41
 
@@ -934,33 +959,20 @@ Le droit à la rente s’éteint:
 
 La rente annuelle de viduité, de même que la rente de partenaire, s’élève:
 
-- a.
+- a. en cas de décès d’une personne assurée n’ayant pas encore atteint l’âge de référence: aux deux tiers de la rente d’invalidité assurée;
+- b. en cas de décès d’une personne qui perçoit une rente de vieillesse ou d’invalidité: aux deux tiers de la rente en cours;
+- c. en cas de décès d’une personne assurée ayant atteint l’âge de référence: aux deux tiers de la rente de vieillesse acquise par la personne assurée au moment de son décès. La rente est calculée sur la base de l’avoir de vieillesse selon l’art. 36.[^46-1]
 
-  en cas de décès d’une personne assurée âgée de moins de 65 ans:
+<sup>2</sup> Si le conjoint survivant ou la conjointe survivante, le partenaire survivant ou la partenaire survivante est plus jeune de plus de quinze ans que la personne défunte, que la durée du mariage ou de l’union libre est inférieure à cinq ans, et que la personne survivante ne doit pas subvenir à l’entretien d’un enfant au moins, la rente est diminuée de 2 % de son montant total pour chaque année entière ou partielle dépassant les quinze ans de différence d’âge existant entre l’ayant droit et la personne défunte.[^46-2]
 
-  - – aux deux tiers de la rente d’invalidité assurée;
+<sup>3</sup> La rente de viduité visée à l’art. 44, al. 5, correspond au plus au montant de la rente de viduité selon la LPP. …[^46-3]
 
-- b.
+<sup>4</sup> Si, ajoutée aux prestations de survivants de l’AVS, elle dépasse le montant des prétentions découlant du jugement de divorce, elle est réduite du montant excédentaire. Les rentes de survivants de l’AVS ne sont prises en compte dans le calcul que dans la mesure où elles dépassent un droit propre à une rente d’invalidité de l’AI ou à une rente de vieillesse de l’AVS.[^46-4]
 
-  en cas de décès d’une personne qui perçoit une rente de vieillesse ou d’invalidité:
-
-  - – aux deux tiers de la rente en cours;
-
-- c.
-
-  en cas de décès d’une personne assurée qui a atteint l’âge de 65 ans:
-
-  - – aux deux tiers de la rente de vieillesse acquise par la personne assurée au moment de son décès. La rente est calculée sur la base de l’avoir de vieillesse selon l’art. 36.
-
-<sup>2</sup> Si le conjoint survivant ou la conjointe survivante, le partenaire survivant ou la partenaire survivante est plus jeune de plus de quinze ans que la personne défunte, que la durée du mariage ou de l’union libre est inférieure à cinq ans, et que la personne survivante ne doit pas subvenir à l’entretien d’un enfant au moins, la rente est diminuée de 2 % de son montant total pour chaque année entière ou partielle dépassant les quinze ans de différence d’âge existant entre l’ayant droit et la personne défunte.[^46-1]
-
-<sup>3</sup> La rente de viduité visée à l’art. 44, al. 5, correspond au plus au montant de la rente de viduité selon la LPP. …[^46-2]
-
-<sup>4</sup> Si, ajoutée aux prestations de survivants de l’AVS, elle dépasse le montant des prétentions découlant du jugement de divorce, elle est réduite du montant excédentaire. Les rentes de survivants de l’AVS ne sont prises en compte dans le calcul que dans la mesure où elles dépassent un droit propre à une rente d’invalidité de l’AI ou à une rente de vieillesse de l’AVS.[^46-3]
-
-[^46-1]: Nouvelle teneur selon la D de l’OPC du 8 sept. 2010, approuvée par le CF le 24 nov. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([FF 2010 8281](https://fedlex.data.admin.ch/eli/fga/2010/1690)).
-[^46-2]: Phrase abrogée par la D de l’OPC du 5 nov. 2008, approuvée par le CF le 14 janv. 2009, avec effet au 1<sup>er</sup> févr. 2009 ([FF 2009 2363](https://fedlex.data.admin.ch/eli/fga/2009/530)).
-[^46-3]: Nouvelle teneur selon le ch. I de la D de l’OPC du 6 sept. 2016, approuvée par le CF le 10 mai 2017, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2017 3279](https://fedlex.data.admin.ch/eli/oc/2017/342)).
+[^46-1]: Nouvelle teneur selon le ch. I de la D de l’OPC des 7 août et 27 nov. 2023, approuvée par le CF le 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
+[^46-2]: Nouvelle teneur selon la D de l’OPC du 8 sept. 2010, approuvée par le CF le 24 nov. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([FF 2010 8281](https://fedlex.data.admin.ch/eli/fga/2010/1690)).
+[^46-3]: Phrase abrogée par la D de l’OPC du 5 nov. 2008, approuvée par le CF le 14 janv. 2009, avec effet au 1<sup>er</sup> févr. 2009 ([FF 2009 2363](https://fedlex.data.admin.ch/eli/fga/2009/530)).
+[^46-4]: Nouvelle teneur selon le ch. I de la D de l’OPC du 6 sept. 2016, approuvée par le CF le 10 mai 2017, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2017 3279](https://fedlex.data.admin.ch/eli/oc/2017/342)).
 
 #### Art. 46a
 
@@ -1012,27 +1024,13 @@ Si le capital-décès en vertu de l’art. 50 est supérieur à la réserve math
 
 La rente d’orphelin s’élève:
 
-- a.
-
-  en cas de décès d’une personne assurée âgée de moins de 65 ans:
-
-  - – à un sixième de la rente d’invalidité assurée;
-
-- b.[^48-1]
-
-  en cas de décès d’une personne qui perçoit une rente de vieillesse ou d’invalidité:
-
-  - – à un sixième de la rente en cours; en cas de divorce, l’art. 100, al. 6, 2<sup>e</sup> phrase, est réservé;
-
-- c.
-
-  en cas de décès d’une personne assurée qui a atteint l’âge de 65 ans:
-
-  - – à un sixième de la rente de vieillesse acquise par la personne assurée au moment du décès. La rente est calculée sur la base de l’avoir de vieillesse selon l’art. 36.
+- a. en cas de décès d’une personne assurée n’ayant pas encore atteint l’âge de référence: à un sixième de la rente d’invalidité assurée;
+- b. en cas de décès d’une personne qui perçoit une rente de vieillesse ou d’invalidité: à un sixième de la rente en cours; en cas de divorce, l’art. 100, al. 6, 2<sup>e</sup> phrase, est réservé;
+- c. en cas de décès d’une personne assurée ayant atteint l’âge de référence: à un sixième de la rente de vieillesse acquise par la personne assurée au moment du décès; la rente est calculée sur la base de l’avoir de vieillesse selon l’art. 36.[^48-1]
 
 <sup>2</sup> Les orphelins de père et de mère perçoivent la double rente d’orphelin.
 
-[^48-1]: Nouvelle teneur selon le ch. I de la D de l’OPC du 6 sept. 2016, approuvée par le CF le 10 mai 2017, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2017 3279](https://fedlex.data.admin.ch/eli/oc/2017/342)).
+[^48-1]: Nouvelle teneur selon le ch. I de la D de l’OPC des 7 août et 27 nov. 2023, approuvée par le CF le 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
 
 #### Art. 49
 
@@ -1040,31 +1038,33 @@ La rente d’orphelin s’élève:
 
 <sup>1</sup>
 
-Lorsqu’une personne assurée décède et qu’il n’existe aucun droit selon les art. 44 et 45, PUBLICA verse un capital-décès.[^49-1] Indépendamment du droit successoral, les ayants droit sont, dans l’ordre suivant:
+Lorsqu’une personne assurée décède et qu’il n’existe aucun droit à une rente en vertu des art. 44, al. 1 et 2, et 45, PUBLICA verse un capital-décès. Le droit à un capital-décès n’est pas exclu en cas d’octroi d’une rente de viduité au conjoint divorcé ou à la conjointe divorcée selon l’art. 44, al. 5. Indépendamment du droit successoral, les ayants droit sont, dans l’ordre suivant:[^49-1]
 
 - a. des personnes qui étaient soutenues de manière substantielle par la personne assurée;
 - b.[^49-2] la personne qui a formé avec la personne assurée une communauté de vie ininterrompue d’au moins cinq ans immédiatement avant le décès ou qui doit subvenir à l’entretien d’un ou de plusieurs enfants communs, pour autant que soient réunies les conditions du droit aux prestations prévues à l’art. 45, al. 2 et 3;
 - c. les enfants de la personne assurée;
-- d. les parents.
+- d. les parents;
+- e.[^49-3] les frères et sœurs.
 
-<sup>2</sup> N’ont pas droit à des prestations les personnes visées à l’al. 1, let. a et b, qui perçoivent une rente de viduité ou une rente de partenaire d’une autre institution de prévoyance.[^49-3]
+<sup>2</sup> N’ont pas droit à des prestations les personnes visées à l’al. 1, let. a et b, qui perçoivent une rente de viduité ou une rente de partenaire d’une autre institution de prévoyance.[^49-4]
 
 <sup>3</sup> Le capital-décès est réparti en parts égales entre les ayants droit du même groupe de bénéficiaires.
 
-<sup>4</sup> Si personne ne fait valoir de droit à des prestations dans le délai d’un an à compter du décès de la personne assurée, le capital-décès revient à la caisse de prévoyance de la Confédération.[^49-4]
+<sup>4</sup> Si personne ne fait valoir de droit à des prestations dans le délai d’un an à compter du décès de la personne assurée, le capital-décès revient à la caisse de prévoyance de la Confédération.[^49-5]
 
-[^49-1]: Nouvelle teneur selon la D de l’OPC du 5 nov. 2008, approuvée par le CF le 14 janv. 2009, en vigueur depuis le 1<sup>er</sup> févr. 2009 ([FF 2009 2363](https://fedlex.data.admin.ch/eli/fga/2009/530)).
+[^49-1]: Nouvelle teneur selon le ch. I de la D de l’OPC des 7 août et 27 nov. 2023, approuvée par le CF le 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
 [^49-2]: Nouvelle teneur selon le ch. I de la D de l’OPC du 21 juin 2011, approuvée par le CF le 19 oct. 2011, en vigueur depuis le 1<sup>er</sup> juil. 2012 ([RO 2012 2069](https://fedlex.data.admin.ch/eli/oc/2012/275)).
-[^49-3]: Nouvelle teneur selon le ch. I de la D de l’OPC du 26 juin 2012, approuvée par le CF le 15 mars 2013, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2013 979](https://fedlex.data.admin.ch/eli/oc/2013/208)).
-[^49-4]: Nouvelle teneur selon la D de l’OPC du 5 nov. 2008, approuvée par le CF le 14 janv. 2009, en vigueur depuis le 1<sup>er</sup> févr. 2009 ([FF 2009 2363](https://fedlex.data.admin.ch/eli/fga/2009/530)).
+[^49-3]: Introduite par le ch. I de la D de l’OPC des 7 août et 27 nov. 2023, approuvée par le CF le 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
+[^49-4]: Nouvelle teneur selon le ch. I de la D de l’OPC du 26 juin 2012, approuvée par le CF le 15 mars 2013, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2013 979](https://fedlex.data.admin.ch/eli/oc/2013/208)).
+[^49-5]: Nouvelle teneur selon la D de l’OPC du 5 nov. 2008, approuvée par le CF le 14 janv. 2009, en vigueur depuis le 1<sup>er</sup> févr. 2009 ([FF 2009 2363](https://fedlex.data.admin.ch/eli/fga/2009/530)).
 
 #### Art. 50
 
-**Montant du capital-décès**
+**Montant du capital-décès**[^50-1]
 
-Le capital-décès équivaut à la moitié de l’avoir de vieillesse au moment du décès de la personne assurée. Il est diminué de la valeur actualisée d’une éventuelle rente d’orphelin (art. 47 et 48).[^50-1]
+Le capital-décès correspond à une indemnité en capital d’un montant égal à 100 % de l’avoir de vieillesse au moment du décès de la personne assurée. Il est diminué de la valeur actuelle d’une rente d’orphelin (art. 47 et 48) et d’une rente de viduité octroyée à un conjoint divorcé ou à une conjointe divorcée (art. 44, al. 5).
 
-[^50-1]: Nouvelle teneur selon la D de l’OPC du 8 sept. 2010, approuvée par le CF le 24 nov. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([FF 2010 8281](https://fedlex.data.admin.ch/eli/fga/2010/1690)).
+[^50-1]: Nouvelle teneur selon le ch. I de la D de l’OPC des 7 août et 27 nov. 2023, approuvée par le CF le 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
 
 ### Section 3 Prestations d’invalidité
 
@@ -1084,9 +1084,10 @@ Le capital-décès équivaut à la moitié de l’avoir de vieillesse au moment 
 
 <sup>3</sup> Est réputée incapacité de travail toute perte, totale ou partielle, de l’aptitude de la personne assurée à accomplir dans sa profession ou son domaine d’activité le travail qui peut raisonnablement être exigé d’elle, si cette perte résulte d’une atteinte à sa santé physique, mentale ou psychique. En cas d’incapacité de travail de longue durée, l’activité qui peut être exigée d’elle peut aussi relever d’une autre profession ou d’un autre domaine d’activité (art. 6 LPGA).
 
-<sup>4</sup> En cas de retraite avant l’âge de 65 ans, le droit à une rente d’invalidité ne peut prendre naissance que si l’incapacité de travail invalidante est survenue avant la retraite.
+<sup>4</sup> En cas de retraite avant l’âge de référence, le droit à une rente d’invalidité ne prend naissance que si l’incapacité de travail invalidante est survenue avant la retraite.[^51-2]
 
 [^51-1]: Abrogé par le ch. I de la D de l’OPC du 26 juin 2012, approuvée par le CF le 15 mars 2013, avec effet au 1<sup>er</sup> janv. 2013 ([RO 2013 979](https://fedlex.data.admin.ch/eli/oc/2013/208)).
+[^51-2]: Nouvelle teneur selon le ch. I de la D de l’OPC des 7 août et 27 nov. 2023, approuvée par le CF le 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
 
 #### Art. 52
 
@@ -1108,9 +1109,9 @@ Le droit de la personne bénéficiaire d’une rente à des prestations d’inva
 
 - a. au décès de celle-ci;
 - b. dans la mesure du recouvrement de la capacité de gain, sous réserve de l’art. 52*b*, al. 1 et 2, ou
-- c. à l’âge de 65 ans.
+- c. à l’âge de référence.
 
-<sup>2</sup> Dès l’âge de 65 ans, une rente de vieillesse est versée en lieu et place de la rente d’invalidité. Cette rente de vieillesse ne peut pas être perçue sous forme de capital.
+<sup>2</sup> Dès l’âge de référence, une rente de vieillesse est versée en lieu et place de la rente d’invalidité. Cette rente de vieillesse ne peut pas être perçue sous forme de capital.
 
 [^52a-1]: Introduit par le ch. I de la D de l’OPC du 26 juin 2012, approuvée par le CF le 15 mars 2013, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2013 979](https://fedlex.data.admin.ch/eli/oc/2013/208)).
 
@@ -1177,14 +1178,32 @@ En cas d’invalidité partielle, l’ayant droit peut disposer de son avoir d�
 
 #### Art. 56
 
-**Étendue du droit à la rente d’invalidité**
+**Étendue du droit à la rente d’invalidité**[^56-1]
 
-La personne invalide a droit:
+<sup>1</sup> L’étendue de la rente d’invalidité dépend du taux d’invalidité au sens de la LAI[^56-2] et correspond à un pourcentage de la rente d’invalidité entière:
 
-- a. à un quart de rente, en cas d’invalidité de 40 % au moins au sens de la LAI;
-- b. à une demi-rente, en cas d’invalidité de 50 % au moins au sens de la LAI;
-- c. à trois quarts de rente, en cas d’invalidité de 60 % au moins au sens de la LAI;
-- d. à une rente entière, en cas d’invalidité de 70 % au moins au sens de la LAI.
+<table>
+<tr><th>Taux d’invalidité au sens de la LAI</th><th>Étendue de la rente d’invalidité</th></tr>
+<tr><td>0–39 %</td><td>0,0 %</td></tr>
+<tr><td>40 %</td><td>25,0 %</td></tr>
+<tr><td>41 %</td><td>27,5 %</td></tr>
+<tr><td>42 %</td><td>30,0 %</td></tr>
+<tr><td>43 %</td><td>32,5 %</td></tr>
+<tr><td>44 %</td><td>35,0 %</td></tr>
+<tr><td>45 %</td><td>37,5 %</td></tr>
+<tr><td>46 %</td><td>40,0 %</td></tr>
+<tr><td>47 %</td><td>42,5 %</td></tr>
+<tr><td>48 %</td><td>45,0 %</td></tr>
+<tr><td>49 %</td><td>47,5 %</td></tr>
+<tr><td>50–69 %</td><td>correspond au taux d’invalidité variant entre 50 et 69 %</td></tr>
+<tr><td>70–100 %</td><td>100,0 %</td></tr>
+</table>
+
+<sup>2</sup> La modification de l’étendue de la rente d’invalidité suppose une modification d’au moins 5 points de pourcentage du taux d’invalidité au sens de la LAI (art. 17, al. 1, let. a, LPGA[^56-3]); l’art. 52*b*, al. 1 et 2, est réservé.
+
+[^56-1]: Nouvelle teneur selon le ch. I de la D de l’OPC des 7 août et 27 nov. 2023, approuvée par le CF le 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
+[^56-2]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^56-3]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 
 #### Art. 57
 
@@ -1192,26 +1211,27 @@ La personne invalide a droit:
 
 <sup>1</sup>
 
-Les prestations d’invalidité sont calculées sur la base du taux de conversion applicable à l’âge ordinaire de l’AVS (annexe 3). Sous réserve, en cas de divorce, de l’art. 100, al. 3, l’avoir de vieillesse pris en compte se compose:[^57-1]
+Les prestations d’invalidité sont calculées sur la base du taux de conversion applicable à l’âge de référence[^57-1] (annexe 3). Sous réserve, en cas de divorce, de l’art. 100, al. 3, l’avoir de vieillesse pris en compte se compose:[^57-2]
 
 - a. de l’avoir de vieillesse selon l’art. 36 que la personne assurée a accumulé jusqu’à la naissance du droit à la prestation d’invalidité, et
-- b. de la somme des bonifications de vieillesse selon l’art. 24, depuis la naissance du droit à la prestation d’invalidité jusqu’à l’âge de 65 ans. Le gain assuré au moment de la survenance de l’incapacité de travail invalidante est déterminant pour le montant des bonifications de vieillesse. D’éventuelles compensations du renchérissement accordées jusqu’au début du droit à la rente d’invalidité ne sont pas prises en compte.[^57-2]
+- b. de la somme des bonifications de vieillesse selon l’art. 24, depuis la naissance du droit à la prestation d’invalidité jusqu’à l’âge de référence. Le gain assuré au moment de la survenance de l’incapacité de travail invalidante est déterminant pour le montant des bonifications de vieillesse. D’éventuelles compensations du renchérissement accordées jusqu’au début du droit à la rente d’invalidité ne sont pas prises en compte.[^57-3]
 
-<sup>2</sup> L’avoir de vieillesse et les bonifications de vieillesse sont rémunérés à hauteur de 2 %. L’art. 36*b*, al. 1 et 2, est applicable.[^57-3]
+<sup>2</sup> L’avoir de vieillesse et les bonifications de vieillesse sont rémunérés à hauteur de 2 %. L’art. 36*b*, al. 1 et 2, est applicable.[^57-4]
 
-<sup>3</sup> Les rachats payés après la survenance de l’incapacité de travail invalidante ne sont pas pris en compte lors du calcul de l’avoir de vieillesse selon l’al. 1. Ces rachats sont restitués.[^57-4]
+<sup>3</sup> Les rachats payés après la survenance de l’incapacité de travail invalidante ne sont pas pris en compte lors du calcul de l’avoir de vieillesse selon l’al. 1. Ces rachats sont restitués.[^57-5]
 
-<sup>4</sup> La prestation d’invalidité ne doit pas dépasser 60 % du gain assuré à la survenance de l’incapacité de travail invalidante. D’éventuelles compensations du renchérissement accordées jusqu’à début du droit à la rente d’invalidité ne sont pas prises en compte.[^57-5]
+<sup>4</sup> La prestation d’invalidité ne doit pas dépasser 60 % du gain assuré à la survenance de l’incapacité de travail invalidante. D’éventuelles compensations du renchérissement accordées jusqu’à début du droit à la rente d’invalidité ne sont pas prises en compte.[^57-6]
 
 <sup>5</sup> Si le droit à une rente d’invalidité prend naissance lors d’un congé non payé ou partiellement payé, le dernier gain assuré avant le début du congé est déterminant pour le calcul de la rente d’invalidité.
 
 <sup>6</sup> Le gain assuré et l’avoir de vieillesse accumulé au moment du décès sont déterminants pour le calcul des rentes de survivants selon l’art. 46, al. 1, let. a, et l’art. 48, al. 1, let. a.
 
-[^57-1]: Nouvelle teneur selon le ch. I de la D de l’OPC du 6 sept. 2016, approuvée par le CF le 10 mai 2017, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2017 3279](https://fedlex.data.admin.ch/eli/oc/2017/342)).
-[^57-2]: Nouvelle teneur de la phrase selon la D de l’OPC du 8 sept. 2010, approuvée par le CF le 24 nov. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([FF 2010 8281](https://fedlex.data.admin.ch/eli/fga/2010/1690)).
-[^57-3]: Nouvelle teneur selon le ch. I de la D de l’OPC du 26 juin 2012, approuvée par le CF le 15 mars 2013, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2013 979](https://fedlex.data.admin.ch/eli/oc/2013/208)).
-[^57-4]: Nouvelle teneur selon le ch. I de la D de l’OPC des 19 juin et 8 oct. 2018, approuvée par le CF le 30 nov. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4749](https://fedlex.data.admin.ch/eli/oc/2018/754)).
-[^57-5]: Nouvelle teneur de la phrase selon la D de l’OPC du 8 sept. 2010, approuvée par le CF le 24 nov. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([FF 2010 8281](https://fedlex.data.admin.ch/eli/fga/2010/1690)).
+[^57-1]: Nouvelle expression selon le ch. I al. 2 de la D de l’OPC des 7 août et 27 nov. 2023, approuvée par le CF le 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)). Il n’a été tenu compte de cette mod. que dans les disp.mentionnées dans le RO.
+[^57-2]: Nouvelle teneur selon le ch. I de la D de l’OPC du 6 sept. 2016, approuvée par le CF le 10 mai 2017, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2017 3279](https://fedlex.data.admin.ch/eli/oc/2017/342)).
+[^57-3]: Nouvelle teneur de la phrase selon la D de l’OPC du 8 sept. 2010, approuvée par le CF le 24 nov. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([FF 2010 8281](https://fedlex.data.admin.ch/eli/fga/2010/1690)).
+[^57-4]: Nouvelle teneur selon le ch. I de la D de l’OPC du 26 juin 2012, approuvée par le CF le 15 mars 2013, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2013 979](https://fedlex.data.admin.ch/eli/oc/2013/208)).
+[^57-5]: Nouvelle teneur selon le ch. I de la D de l’OPC des 19 juin et 8 oct. 2018, approuvée par le CF le 30 nov. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4749](https://fedlex.data.admin.ch/eli/oc/2018/754)).
+[^57-6]: Nouvelle teneur de la phrase selon la D de l’OPC du 8 sept. 2010, approuvée par le CF le 24 nov. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([FF 2010 8281](https://fedlex.data.admin.ch/eli/fga/2010/1690)).
 
 #### Art. 58
 
@@ -1241,7 +1261,7 @@ La rente pour enfant du bénéficiaire d’une rente d’invalidité s’élève
 
 **Droit**
 
-<sup>1</sup> Les bénéficiaires d’une rente de vieillesse ont droit à une rente transitoire, qui correspond au taux de retraite, dès qu’ils perçoivent une rente de vieillesse, et ce, jusqu’à l’âge ordinaire de l’AVS.[^60-1]
+<sup>1</sup> Les bénéficiaires d’une rente de vieillesse ont droit à une rente transitoire, qui correspond au taux de retraite, dès qu’ils perçoivent une rente de vieillesse, et ce, jusqu’à l’âge de référence.[^60-1]
 
 <sup>2</sup> La personne assurée doit communiquer à PUBLICA, au plus tard trois mois avant de percevoir la rente de vieillesse, si elle veut recevoir une rente transitoire entière, une rente transitoire partielle, ou si elle ne veut pas en recevoir du tout.
 
@@ -1249,23 +1269,25 @@ La rente pour enfant du bénéficiaire d’une rente d’invalidité s’élève
 
 <sup>4</sup> La personne assurée communique à PUBLICA, au plus tard trois mois avant de percevoir la rente transitoire, sa décision quant au mode de financement de sa part, celui-ci devant s’effectuer selon l’un des principes de calcul suivants:[^60-2]
 
-a. par une réduction immédiate et à vie de la rente de vieillesse à laquelle elle a droit selon l’art. 39 (annexe 4, ch. I, tableau 1 ou 2);
+a.[^60-3] par une réduction immédiate et à vie de la rente de vieillesse à laquelle elle a droit selon l’art. 39 (annexe 4, ch. I);
 
 - b. par un rachat de la réduction prévue à la let. a (annexe 4, ch. II), ou
-- c. par une réduction à vie, dès l’âge ordinaire de l’AVS, de la rente de vieillesse à laquelle elle a droit selon l’art. 39 et des prestations qui découlent de cette rente (annexe 5, ch. I, tableau 1 ou 2).[^60-3]
+- c.[^60-4] par une réduction à vie, dès l’âge de référence, de la rente de vieillesse à laquelle elle a droit selon l’art. 39 et des prestations qui découlent de cette rente (annexe 5, ch. I).[^60-5]
 
-<sup>4bis</sup> Si la personne assurée communique à PUBLICA sa décision relative au financement moins de trois mois avant la perception de la rente transitoire, les frais administratifs prévus par le règlement sur les coûts lui sont facturés.[^60-4]
+<sup>4bis</sup> Si la personne assurée communique à PUBLICA sa décision relative au financement moins de trois mois avant la perception de la rente transitoire, les frais administratifs prévus par le règlement sur les coûts lui sont facturés.[^60-6]
 
-<sup>5</sup> Si la personne bénéficiaire d’une rente, qui avait opté pour le financement selon l’al. 4, let. c, décède avant d’atteindre l’âge ordinaire de l’AVS, les prestations pour survivants sont réduites de manière actuarielle (annexe 5, ch. II).[^60-5]
+<sup>5</sup> Si la personne bénéficiaire d’une rente, qui avait opté pour le financement selon l’al. 4, let. c, décède avant d’atteindre l’âge de référence, les prestations pour survivants sont réduites de manière actuarielle (annexe 5, ch. II).[^60-7]
 
-<sup>6</sup> La personne qui perçoit sa rente de vieillesse sous forme de capital ne peut demander le versement d’une rente transitoire que si elle procède au rachat selon l’al. 4, let. b.[^60-6]
+<sup>6</sup> La personne qui perçoit sa rente de vieillesse sous forme de capital ne peut demander le versement d’une rente transitoire que si elle procède au rachat selon l’al. 4, let. b.[^60-8]
 
 [^60-1]: Nouvelle teneur selon le ch. I de la D de l’OPC du 6 sept. 2016, approuvée par le CF le 10 mai 2017, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2017 3279](https://fedlex.data.admin.ch/eli/oc/2017/342)).
 [^60-2]: Nouvelle teneur selon le ch. I de la D de l’OPC du 26 juin 2012, approuvée par le CF le 15 mars 2013, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2013 979](https://fedlex.data.admin.ch/eli/oc/2013/208)).
-[^60-3]: Nouvelle teneur selon la D de l’OPC du 5 nov. 2008, approuvée par le CF le 14 janv. 2009, en vigueur depuis le 1<sup>er</sup> févr. 2009 ([FF 2009 2363](https://fedlex.data.admin.ch/eli/fga/2009/530)).
-[^60-4]: Introduit par le ch. I de la D de l’OPC du 26 juin 2012, approuvée par le CF le 15 mars 2013, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2013 979](https://fedlex.data.admin.ch/eli/oc/2013/208)).
+[^60-3]: Nouvelle teneur selon le ch. I de la D de l’OPC des 7 août et 27 nov. 2023, approuvée par le CF le 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
+[^60-4]: Nouvelle teneur selon le ch. I de la D de l’OPC des 7 août et 27 nov. 2023, approuvée par le CF le 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
 [^60-5]: Nouvelle teneur selon la D de l’OPC du 5 nov. 2008, approuvée par le CF le 14 janv. 2009, en vigueur depuis le 1<sup>er</sup> févr. 2009 ([FF 2009 2363](https://fedlex.data.admin.ch/eli/fga/2009/530)).
-[^60-6]: Nouvelle teneur selon la D de l’OPC du 5 nov. 2008, approuvée par le CF le 14 janv. 2009, en vigueur depuis le 1<sup>er</sup> févr. 2009 ([FF 2009 2363](https://fedlex.data.admin.ch/eli/fga/2009/530)).
+[^60-6]: Introduit par le ch. I de la D de l’OPC du 26 juin 2012, approuvée par le CF le 15 mars 2013, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2013 979](https://fedlex.data.admin.ch/eli/oc/2013/208)).
+[^60-7]: Nouvelle teneur selon la D de l’OPC du 5 nov. 2008, approuvée par le CF le 14 janv. 2009, en vigueur depuis le 1<sup>er</sup> févr. 2009 ([FF 2009 2363](https://fedlex.data.admin.ch/eli/fga/2009/530)).
+[^60-8]: Nouvelle teneur selon la D de l’OPC du 5 nov. 2008, approuvée par le CF le 14 janv. 2009, en vigueur depuis le 1<sup>er</sup> févr. 2009 ([FF 2009 2363](https://fedlex.data.admin.ch/eli/fga/2009/530)).
 
 #### Art. 61
 
@@ -1291,18 +1313,20 @@ a. par une réduction immédiate et à vie de la rente de vieillesse à laquelle
 
 Si la personne assurée est âgée de plus de 60 ans mais de moins de 63 ans au moment de la naissance du droit aux prestations de vieillesse, elle perçoit la rente de vieillesse qui lui reviendrait en cas de départ à la retraite après l’âge de 63 ans. L’avoir de vieillesse pris en compte se compose:
 
-- a. de l’avoir de vieillesse selon l’art. 36 que la personne assurée a accumulé jusqu’à la naissance du droit aux prestations de vieillesse, et
-- b. de la somme des bonifications de vieillesse selon l’art. 24, depuis la naissance du droit aux prestations de vieillesse jusqu’à l’âge de 63 ans; le gain assuré immédiatement avant la naissance du droit aux prestations de vieillesse est déterminant pour le montant des bonifications de vieillesse.
+- a. de l’avoir de vieillesse selon l’art. 36 que la personne assurée a accumulé jusqu’à la naissance du droit aux prestations de vieillesse;
+- b. de la somme des bonifications de vieillesse selon l’art. 24, depuis la naissance du droit aux prestations de vieillesse jusqu’à l’âge de 63 ans; le gain assuré immédiatement avant la naissance du droit aux prestations de vieillesse est déterminant pour le montant des bonifications de vieillesse, et
+- c.[^64-3] d’un intérêt annuel de 2 %, depuis la naissance du droit aux prestations de vieillesse jusqu’à l’âge de 63 ans; l’art. 36*b*, al. 1 et 2, est applicable par analogie.
 
 <sup>3</sup> Si la personne assurée a atteint l’âge de 63 ans au moment de la naissance du droit aux prestations de vieillesse, elle perçoit la rente de vieillesse selon l’art. 39.
 
 <sup>4</sup> L’éventuel avoir d’épargne spécial peut être utilisé pour augmenter la rente de vieillesse définie selon les al. 2 et 3. L’avoir de vieillesse et l’éventuel avoir d’épargne spécial peuvent être retirés sous forme d’indemnité unique en capital conformément à l’art. 40.
 
-<sup>5</sup> L’employeur verse à PUBLICA la réserve mathématique nécessaire au financement de la rente de vieillesse selon l’al. 2 et de la rente transitoire.[^64-3]
+<sup>5</sup> L’employeur verse à PUBLICA la réserve mathématique nécessaire au financement de la rente de vieillesse selon l’al. 2 et de la rente transitoire.[^64-4]
 
 [^64-1]: Nouvelle teneur selon le ch. I de la D de l’OPC du 21 oct. 2014, approuvée par le CF le 5 déc. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4569](https://fedlex.data.admin.ch/eli/oc/2014/766)).
 [^64-2]: Introduit par le ch. I de la D de l’OPC des 17 et 26 nov. 2020, approuvée par le CF le 4 déc. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5903](https://fedlex.data.admin.ch/eli/oc/2020/991)).
-[^64-3]: Nouvelle teneur selon le ch. I de la D de l’OPC des 17 et 26 nov. 2020, approuvée par le CF le 4 déc. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5903](https://fedlex.data.admin.ch/eli/oc/2020/991)).
+[^64-3]: Introduite par le ch. I de la D de l’OPC des 7 août et 27 nov. 2023, approuvée par le CF le 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
+[^64-4]: Nouvelle teneur selon le ch. I de la D de l’OPC des 17 et 26 nov. 2020, approuvée par le CF le 4 déc. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5903](https://fedlex.data.admin.ch/eli/oc/2020/991)).
 
 ## Chapitre 8 Dispositions communes relatives aux prestations
 
@@ -1538,11 +1562,12 @@ Si les rapports de travail d’une personne assurée âgée de plus de 60 ans so
 - b. la perception des prestations de vieillesse, ou
 - c.[^84-2] le transfert de la prestation de sortie à une institution de libre passage, si elle est inscrite au chômage.
 
-<sup>2</sup> Les personnes assurées qui ont atteint l’âge de 65 ans ne peuvent demander le transfert de la prestation de sortie selon l’al. 1, let. a, que si elles sont admises dans l’assurance en vertu du règlement de l’institution de prévoyance de leur nouvel employeur et continuent la prévoyance conformément à l’art. 33*b* LPP.[^84-3]
+<sup>2</sup> Les personnes assurées qui ont atteint l’âge de référence ne peuvent demander le transfert de la prestation de sortie selon l’al. 1, let. a, que si elles sont admises dans l’assurance en vertu du règlement de l’institution de prévoyance de leur nouvel employeur et si elles maintiennent leur prévoyance conformément à l’art. 33*b* LPP[^84-3] ou font ajourner le versement de la prestation de vieillesse conformément à l’art. 13*b* LPP.[^84-4]
 
 [^84-1]: Nouvelle teneur selon la D de l’OPC du 8 sept. 2010, approuvée par le CF le 24 nov. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([FF 2010 8281](https://fedlex.data.admin.ch/eli/fga/2010/1690)).
 [^84-2]: Introduite par les D de l’OPC des 2 et 15 sept. et du 20 oct. 2009, approuvées par le CF le 11 nov. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([FF 2009 7669](https://fedlex.data.admin.ch/eli/fga/2009/1447)).
-[^84-3]: Nouvelle teneur selon la D de l’OPC du 8 sept. 2010, approuvée par le CF le 24 nov. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([FF 2010 8281](https://fedlex.data.admin.ch/eli/fga/2010/1690)).
+[^84-3]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^84-4]: Nouvelle teneur selon le ch. I de la D de l’OPC des 7 août et 27 nov. 2023, approuvée par le CF le 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
 
 #### Art. 84a
 
@@ -1611,20 +1636,30 @@ Si PUBLICA a versé une prestation de sortie trop basse, l’intérêt sur le pa
 En cas de libre passage, PUBLICA adresse à la personne assurée ainsi qu’à la nouvelle institution de prévoyance, à l’institution de libre passage ou à la Fondation institution supplétive, les informations suivantes:[^88-1]
 
 - a. le montant de l’avoir de vieillesse selon l’art. 36;
-- b. le montant du montant minimum selon l’art. 85, al. 2 (art. 17 LFLP);
+- b.[^88-2] le montant minimum au sens de l’art. 85, al. 2 (art. 17 LFLP[^88-3]);
 - c. le montant de l’avoir de vieillesse selon l’art. 15 LPP;
-- d.[^88-2] …
-- e.[^88-3] les informations relatives aux versements anticipés obtenus dans le cadre de l’encouragement à la propriété du logement selon les art. 91 à 98;
+- d.[^88-4] …
+- e.[^88-5] les informations relatives aux versements anticipés obtenus dans le cadre de l’encouragement à la propriété du logement selon les art. 91 à 98;
 - f. les informations relatives à la mise en gage de prestations de prévoyance selon les art. 91 et 94;
-- g.[^88-4] le cas échéant, le montant de l’avoir de vieillesse accumulé à l’âge de 50 ans révolus;
+- g.[^88-6] le cas échéant, le montant de l’avoir de vieillesse accumulé à l’âge de 50 ans révolus;
 - h. le cas échéant, le montant de l’avoir de vieillesse accumulé à la date du mariage, respectivement celui au 1<sup>er</sup> janvier 1995;
-- i.[^88-5] les informations relatives aux montants qui ont été transférés à la suite d’un divorce, selon l’art. 100, al. 1.
+- i.[^88-7] les informations relatives aux montants qui ont été transférés à la suite d’un divorce, selon l’art. 100, al. 1;
+- j.[^88-8]
+
+  si la personne assurée perçoit ou a perçu une prestation de vieillesse ou si elle perçoit une rente à la suite d’une invalidité partielle, les informations relatives à la prestation de vieillesse ou d’invalidité perçue qui sont nécessaires:
+
+  - 1\. au calcul de la possibilité de rachat,
+  - 2\. au calcul du gain assuré à titre obligatoire,
+  - 3\. au respect du nombre maximal des retraits en capital.
 
 [^88-1]: Nouvelle teneur selon le ch. I de la D de l’OPC du 6 sept. 2016, approuvée par le CF le 10 mai 2017, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2017 3279](https://fedlex.data.admin.ch/eli/oc/2017/342)).
-[^88-2]: Abrogée par la D de l’OPC du 5 nov. 2008, approuvée par le CF le 14 janv. 2009, avec effet au 1<sup>er</sup> févr. 2009 ([FF 2009 2363](https://fedlex.data.admin.ch/eli/fga/2009/530)).
-[^88-3]: Nouvelle teneur selon le ch. I de la D de l’OPC du 6 sept. 2016, approuvée par le CF le 10 mai 2017, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2017 3279](https://fedlex.data.admin.ch/eli/oc/2017/342)).
-[^88-4]: Nouvelle teneur selon le ch. I de la D de l’OPC du 6 sept. 2016, approuvée par le CF le 10 mai 2017, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2017 3279](https://fedlex.data.admin.ch/eli/oc/2017/342)).
+[^88-2]: Nouvelle teneur selon le ch. I de la D de l’OPC des 7 août et 27 nov. 2023, approuvée par le CF le 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
+[^88-3]: [RS 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
+[^88-4]: Abrogée par la D de l’OPC du 5 nov. 2008, approuvée par le CF le 14 janv. 2009, avec effet au 1<sup>er</sup> févr. 2009 ([FF 2009 2363](https://fedlex.data.admin.ch/eli/fga/2009/530)).
 [^88-5]: Nouvelle teneur selon le ch. I de la D de l’OPC du 6 sept. 2016, approuvée par le CF le 10 mai 2017, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2017 3279](https://fedlex.data.admin.ch/eli/oc/2017/342)).
+[^88-6]: Nouvelle teneur selon le ch. I de la D de l’OPC du 6 sept. 2016, approuvée par le CF le 10 mai 2017, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2017 3279](https://fedlex.data.admin.ch/eli/oc/2017/342)).
+[^88-7]: Nouvelle teneur selon le ch. I de la D de l’OPC du 6 sept. 2016, approuvée par le CF le 10 mai 2017, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2017 3279](https://fedlex.data.admin.ch/eli/oc/2017/342)).
+[^88-8]: Introduite par le ch. I de la D de l’OPC des 7 août et 27 nov. 2023, approuvée par le CF le 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
 
 #### Art. 89
 
@@ -1700,7 +1735,7 @@ Le montant perçu doit être remboursé si:
 
 Le remboursement est autorisé:
 
-- a.[^93-1] jusqu’à l’âge de 65 ans;
+- a.[^93-1] jusqu’à l’âge de référence;
 - b. jusqu’à la survenance d’un autre cas de prévoyance, ou
 - c. jusqu’au paiement en espèces de la prestation de libre passage.
 
@@ -1794,12 +1829,14 @@ Les dispositions pertinentes du CC, du CPC, de la LPP, de la LFLP et leurs dispo
 
 <sup>4</sup> Le transfert, à la suite du divorce, d’une part de rente sous forme de rente viagère ou de capital en faveur du conjoint créancier ou de la conjointe créancière entraîne une réduction des prestations versées par PUBLICA à la personne débitrice. La part de rente transférée n’entre pas dans la rente en cours de la personne débitrice au sens de l’art. 46, al. 1, let. b, ou de l’art. 48, al. 1, let. b. Elle ne donne à la personne créancière aucun droit à d’autres prestations de PUBLICA. Avant le premier transfert annuel de la rente à l’institution de prévoyance ou de libre passage de la personne créancière, cette dernière peut convenir avec PUBLICA que la part de rente soit transférée sous forme de capital.
 
-<sup>5</sup> Si le cas de prévoyance vieillesse survient pendant la procédure de divorce ou qu’une personne invalide ou présentant une invalidité professionnelle atteint l’âge de 65 ans pendant la procédure de divorce, PUBLICA réduit les prestations selon l’art. 19*g* OLP.
+<sup>5</sup> Si le cas de prévoyance vieillesse survient pendant la procédure de divorce ou qu’une personne invalide ou présentant une invalidité professionnelle atteint l’âge de référence pendant la procédure de divorce, PUBLICA réduit les prestations selon l’art. 19*g* OLP[^100-3].[^100-4]
 
 <sup>6</sup> Le droit à une rente pour enfant du bénéficiaire d’une rente de vieillesse, d’une rente d’invalidité ou d’une rente d’invalidité professionnelle existant au moment de l’introduction de la procédure de divorce n’est pas touché par le partage de la prévoyance professionnelle. Si la rente pour enfant n’a pas été touchée, la rente d’orphelin est calculée sur les mêmes bases que la rente pour enfant.
 
 [^100-1]: Nouvelle teneur selon le ch. I de la D de l’OPC du 6 sept. 2016, approuvée par le CF le 10 mai 2017, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2017 3279](https://fedlex.data.admin.ch/eli/oc/2017/342)).
 [^100-2]: Nouvelle teneur selon le ch. I de la D de l’OPC du 15 fév. 2018, approuvée par le CF le 25 avr. 2018, en vigueur depuis le 1<sup>er</sup> mai 2018 ([RO 2018 2431](https://fedlex.data.admin.ch/eli/oc/2018/353)).
+[^100-3]: [RS 831.425](https://fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399)
+[^100-4]: Nouvelle teneur selon le ch. I de la D de l’OPC des 7 août et 27 nov. 2023, approuvée par le CF le 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
 
 ## Chapitre 12 Voies de droit
 
@@ -1829,7 +1866,7 @@ Les dispositions pertinentes du CC, du CPC, de la LPP, de la LFLP et leurs dispo
 
 <sup>2</sup> La réduction des rentes de vieillesse suite à la perception d’une rente transitoire soumise à l’ancien droit est régie par l’ancien droit (annexe 6).
 
-<sup>3</sup> Les rentes octroyées en cas de résiliation administrative des rapports de service au sens de l’art. 32 des statuts de la CFA et de l’art. 43 des statuts de la CFP sont converties, à l’âge ordinaire de l’AVS, en rentes de vieillesse de même montant.
+<sup>3</sup> Les rentes octroyées en cas de résiliation administrative des rapports de service au sens de l’art. 32 des statuts de la CFA et de l’art. 43 des statuts de la CFP sont converties, à l’âge de référence, en rentes de vieillesse de même montant.
 
 <sup>4</sup>
 
@@ -1844,7 +1881,7 @@ Pour les rentes ayant pris naissance sous l’ancien droit qui ont été transf�
   au calcul de surindemnisation (art. 77):
 
   - 1\. au décès de la personne bénéficiaire d’une rente,
-  - 2\. lorsque la personne bénéficiaire d’une rente atteint l’âge ordinaire de l’AVS, ou
+  - 2\. lorsque la personne bénéficiaire d’une rente atteint l’âge de référence, ou
   - 3\. lors d’un nouveau calcul du droit aux prestations de l’AM, de l’AA ou d’une autre assurance sociale.
 
 [^103-1]: Nouvelle teneur selon la D de l’OPC du 5 nov. 2008, approuvée par le CF le 14 janv. 2009, en vigueur depuis le 1<sup>er</sup> févr. 2009 ([FF 2009 2363](https://fedlex.data.admin.ch/eli/fga/2009/530)).
@@ -1857,15 +1894,15 @@ Pour les rentes ayant pris naissance sous l’ancien droit qui ont été transf�
 
 Le droit au supplément fixe et à la rente transitoire ayant pris naissance sous l’ancien droit s’éteint:
 
-- a. au décès de la personne bénéficiaire d’une rente, mais au plus tard lorsque celle-ci atteint l’âge ordinaire de l’AVS;
-- b. lorsque le conjoint ou la conjointe d’une personne bénéficiaire d’une rente décède, mais au plus tard lorsqu’il ou elle atteint l’âge ordinaire de l’AVS, ou en cas de divorce, pour autant que la personne bénéficiaire d’une rente perçoive un supplément au sens de l’art. 29, al. 1, let. b, ch. 3, des statuts de la CFA ou de l’art. 40, al. 1, let. b, ch. 3, des statuts de la CFP, ou
+- a. au décès de la personne bénéficiaire d’une rente, mais au plus tard lorsque celle-ci atteint l’âge de référence;
+- b. lorsque le conjoint ou la conjointe d’une personne bénéficiaire d’une rente décède, mais au plus tard lorsqu’il ou elle atteint l’âge de référence, ou en cas de divorce, pour autant que la personne bénéficiaire d’une rente perçoive un supplément au sens de l’art. 29, al. 1, let. b, ch. 3, des statuts de la CFA ou de l’art. 40, al. 1, let. b, ch. 3, des statuts de la CFP, ou
 - c. lorsqu’un droit à une rente AI est octroyé pour la première fois, lorsque le droit à une rente AI est modifié, ou lorsque le service médical constate que le taux d’invalidité professionnelle a diminué ou augmenté, avec effet après l’entrée en vigueur du présent règlement.
 
 <sup>2</sup> Si le droit au supplément fixe s’éteint selon l’al. 1, let. c, la personne bénéficiaire d’une rente d’invalidité ayant pris naissance avant le 1<sup>er</sup> juin 2003 a droit à une rente de substitution AI, calculée selon le présent règlement, en fonction du taux d’invalidité professionnelle encore existant. Il en va de même lorsque la personne n’avait pas droit à un supplément fixe et que le droit à une rente AI est diminué pour la première fois, avec effet après l’entrée en vigueur du présent règlement.
 
 <sup>3</sup> En cas de diminution du taux d’invalidité professionnelle suite à une décision de l’AI ou du service médical avec effet après l’entrée en vigueur du présent règlement, le montant de la rente de substitution AI ayant pris naissance sous l’ancien droit est réduit proportionnellement à la diminution du taux d’invalidité professionnelle.
 
-<sup>4</sup> Le droit à la rente de substitution AI ayant pris naissance sous l’ancien droit s’éteint au décès de la personne bénéficiaire d’une rente, mais au plus tard lorsque celle-ci atteint l’âge ordinaire de l’AVS.
+<sup>4</sup> Le droit à la rente de substitution AI ayant pris naissance sous l’ancien droit s’éteint au décès de la personne bénéficiaire d’une rente, mais au plus tard lorsque celle-ci atteint l’âge de référence.
 
 [^104-1]: Nouvelle teneur selon la D de l’OPC du 5 nov. 2008, approuvée par le CF le 14 janv. 2009, en vigueur depuis le 1<sup>er</sup> févr. 2009 ([FF 2009 2363](https://fedlex.data.admin.ch/eli/fga/2009/530)).
 
@@ -1935,19 +1972,20 @@ Si la réinsertion d’une personne bénéficiaire d’une rente d’invalidité
 
 **Dispositions transitoires relatives à la modification du 21 juin 2011**[^108b-1]
 
-<sup>1</sup> La réduction à vie dès l’âge AVS, consécutive à la rente transitoire perçue, des rentes de vieillesse ayant pris naissance entre le 1<sup>er</sup> juillet 2008 et l’entrée en vigueur de la modification du 21 juin 2011 est régie par analogie par l’art. 103, al. 2.
+<sup>1</sup> La réduction à vie dès l’âge de référence[^108b-2], consécutive à la rente transitoire perçue, des rentes de vieillesse ayant pris naissance entre le 1<sup>er</sup> juillet 2008 et l’entrée en vigueur de la modification du 21 juin 2011 est régie par analogie par l’art. 103, al. 2.
 
-<sup>2</sup> La réduction des prestations pour survivants nées après l’entrée en vigueur de la modification du 21 juin 2011, en cas de décès avant l’âge AVS de la personne bénéficiaire d’une rente de vieillesse ayant pris naissance entre le 1<sup>er</sup> juillet 2008 et l’entrée en vigueur de cette modification, est régie par analogie par l’art. 103, al. 4, let. b.
+<sup>2</sup> La réduction des prestations pour survivants nées après l’entrée en vigueur de la modification du 21 juin 2011, en cas de décès avant l’âge de référence de la personne bénéficiaire d’une rente de vieillesse ayant pris naissance entre le 1<sup>er</sup> juillet 2008 et l’entrée en vigueur de cette modification, est régie par analogie par l’art. 103, al. 4, let. b.
 
 [^108b-1]: Introduit par le ch. I de la D de l’OPC du 21 juin 2011, approuvée par le CF le 19 oct. 2011, en vigueur depuis le 1<sup>er</sup> juil. 2012 ([RO 2012 2069](https://fedlex.data.admin.ch/eli/oc/2012/275)).
+[^108b-2]: Nouvelle expression selon le ch. I al. 3 de la D de l’OPC des 7 août et 27 nov. 2023, approuvée par le CF le 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)). Il n’a été tenu compte de cette mod. que dans les disp.mentionnées dans le RO.
 
 #### Art. 108c
 
 **Dispositions transitoires relatives à la modification du 15 octobre 2013**[^108c-1]
 
-<sup>1</sup> La réduction à vie dès l’âge AVS, consécutive à la rente transitoire perçue, des rentes de vieillesse ayant pris naissance entre le 1<sup>er</sup> juillet 2012 et l’entrée en vigueur de la modification du 15 octobre 2013 est régie par analogie par l’art. 103, al. 2.
+<sup>1</sup> La réduction à vie dès l’âge de référence, consécutive à la rente transitoire perçue, des rentes de vieillesse ayant pris naissance entre le 1<sup>er</sup> juillet 2012 et l’entrée en vigueur de la modification du 15 octobre 2013 est régie par analogie par l’art. 103, al. 2.
 
-<sup>2</sup> La réduction des prestations pour survivants nées après l’entrée en vigueur de la modification du 15 octobre 2013, en cas de décès avant l’âge AVS de la personne bénéficiaire d’une rente de vieillesse ayant pris naissance entre le 1<sup>er</sup> juillet 2012 et l’entrée en vigueur de cette modification, est régie par analogie par l’art. 103, al. 4, let. b.
+<sup>2</sup> La réduction des prestations pour survivants nées après l’entrée en vigueur de la modification du 15 octobre 2013, en cas de décès avant l’âge de référence de la personne bénéficiaire d’une rente de vieillesse ayant pris naissance entre le 1<sup>er</sup> juillet 2012 et l’entrée en vigueur de cette modification, est régie par analogie par l’art. 103, al. 4, let. b.
 
 [^108c-1]: Introduit par le ch. I de la D de l’OPC du 15 oct. 2013, approuvée par le CF le 20 août 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 2947](https://fedlex.data.admin.ch/eli/oc/2014/501)).
 
@@ -2118,6 +2156,50 @@ Les personnes assurées qui ont atteint l’âge de 62 ans avant le 1<sup>er</su
 
 [^108l-1]: Introduit par le ch. I de la D de l’OPC des 17 et 26 nov. 2020, approuvée par le CF le 4 déc. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5903](https://fedlex.data.admin.ch/eli/oc/2020/991)).
 
+#### Art. 108m
+
+**Disposition transitoire relative à la modification du 7 août 2023: système de rentes linéaire**[^108m-1]
+
+<sup>1</sup> Pour les personnes nées en 1966 ou antérieurement dont le droit a pris naissance avant le 1<sup>er</sup> janvier 2022, le droit à une rente d’invalidité est régi par les dispositions réglementaires en vigueur jusqu’au 31 décembre 2023.
+
+<sup>2</sup>
+
+Pour les personnes nées en 1967 ou ultérieurement dont le droit a pris naissance avant le 1<sup>er</sup> janvier 2022, le droit à une rente d’invalidité est régi par les dispositions réglementaires en vigueur jusqu’au 31 décembre 2023, sous réserve de l’al. 4 et de l’art. 52*b*, al. 1 et 2, et aux conditions suivantes:
+
+- a. le taux d’invalidité au sens de la LAI[^108m-2] subit une modification de moins de 5 points de pourcentage (art. 17, al. 1, let. a, LPGA[^108m-3]);
+- b.
+
+  le taux d’invalidité au sens de la LAI subit une modification d’au moins 5 points de pourcentage et entraîne, lors du calcul selon le nouveau droit:
+
+  - 1\. une réduction de l’étendue de la rente d’invalidité s’il a subi une augmentation,
+  - 2\. une augmentation de l’étendue de la rente d’invalidité s’il a subi une réduction.
+
+<sup>3</sup> L’al. 2 s’applique également à toutes les personnes dont le droit a pris naissance durant la période allant du 1<sup>er</sup> janvier 2022 au 31 décembre 2023.
+
+<sup>4</sup> Pour les personnes nées en 1992 ou ultérieurement dont le droit a pris naissance avant le 1<sup>er</sup> janvier 2024, l’étendue de la rente d’invalidité est régie jusqu’au 31 décembre 2031 au plus tard par les dispositions réglementaires en vigueur jusqu’au 31 décembre 2023. Si l’étendue de la rente d’invalidité est réduite du fait de l’application de ces nouvelles dispositions, l’étendue précédente est maintenue jusqu’à ce que le taux d’invalidité au sens de la LAI subisse une modification d’au moins 5 points de pourcentage (art. 17, al. 1, let. a, LPGA); l’art. 52*b*, al. 1 et 2, est réservé.
+
+[^108m-1]: Introduit par le ch. I de la D de l’OPC des 7 août et 27 nov. 2023, approuvée par le CF le 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
+[^108m-2]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^108m-3]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+
+#### Art. 108n
+
+**Disposition transitoire relative à la modification du 7 août 2023: âge de référence pour les personnes de la génération transitoire**[^108n-1]
+
+<sup>1</sup>
+
+Pour les femmes de la génération transitoire, l’âge de référence suivant s’applique au droit à la rente transitoire visée à l’art. 60, ainsi qu’au calcul de cette rente:
+
+- a. 64 ans pour les femmes nées en 1960 ou antérieurement;
+- b. 64 ans et 3 mois pour les femmes nées en 1961;
+- c. 64 ans et 6 mois pour les femmes nées en 1962;
+- d. 64 ans et 9 mois pour les femmes nées en 1963;
+- e. 65 ans pour les femmes nées en 1964 ou ultérieurement.
+
+<sup>2</sup> Pour les autres dispositions, l’âge de référence de 65 ans est applicable pour les femmes.
+
+[^108n-1]: Introduit par le ch. I de la D de l’OPC des 7 août et 27 nov. 2023, approuvée par le CF le 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
+
 ### Section 2 Entrée en vigueur
 
 #### Art. 109
@@ -2145,16 +2227,16 @@ Annexe 4 Rente transitoire
 
 Annexe 5 Rente transitoire
 
-- I. Réduction résultant de la perception d’une rente transitoire et applicable à vie, dès l’âge AVS, de la rente mensuelle de vieillesse
+- I. Réduction résultant de la perception d’une rente transitoire et applicable à vie, dès l’âge de référence, de la rente mensuelle de vieillesse
 - II. Réduction des rentes de survivants
 
 Annexe 6 Rente transitoire
 
-I. Réduction résultant de la perception d’une rente transitoire et applicable à vie, dès l’âge AVS, de la rente mensuelle de vieil lesse née entre le 1<sup>er</sup> juillet 2008 et le 30 juin 2012
+I. Réduction résultant de la perception d’une rente transitoire et applicable à vie, dès l’âge de référence, de la rente mensuelle de vieil lesse née entre le 1<sup>er</sup> juillet 2008 et le 30 juin 2012
 
-II. Réduction résultant de la perception d’une rente transitoire et applicable à vie, dès l’âge AVS, de la rente mensuelle de vieil lesse née entre le 1<sup>er</sup> juillet 2012 et le 31 décembre 2014
+II. Réduction résultant de la perception d’une rente transitoire et applicable à vie, dès l’âge de référence, de la rente mensuelle de vieil lesse née entre le 1<sup>er</sup> juillet 2012 et le 31 décembre 2014
 
-- III. Réduction résultant de la perception d’une rente transitoire et applicable à vie, dès l’âge AVS, de la rente mensuelle de vieil lesse née entre le 1<sup>er</sup> janvier 2015 et le 31 décembre 2018
+- III. Réduction résultant de la perception d’une rente transitoire et applicable à vie, dès l’âge de référence, de la rente mensuelle de vieil lesse née entre le 1<sup>er</sup> janvier 2015 et le 31 décembre 2018
 
 Annexe 6*a* Plans de prévoyance destinés aux personnes appartenant à des catégories particulières de personnel
 
@@ -2327,89 +2409,70 @@ Annexe 4[^t-4]
 
 ## Rente transitoire
 
-[^t-4]: Nouvelle teneur selon le ch. II de la D de l’OPC du 15 fév. 2018, approuvée par le CF le 25 avr. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 2431](https://fedlex.data.admin.ch/eli/oc/2018/353)).
+[^t-4]: Nouvelle teneur selon le ch. II de la D de l’OPC des 7 août et 27 nov. 2023, approuvée par le CF le 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
 
 ### I. Réduction immédiate et à vie de la rente mensuelle de vieillesse dès le début de la perception de la rente transitoire (art. 60, al. 4, let. a)
 
-Tableau 1: âge AVS 65
+Tableau 1: hommes
 
 <table>
-<tr><th></th><th colspan="7">Mois</th></tr>
-<tr><th></th><th></th><th>**0**</th><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th></tr>
-<tr><td>Âge au début de la perception de la rente</td><td>60</td><td>**208,55**</td><td>205,55</td><td>202,55</td><td>199,60</td><td>196,60</td><td>193,60</td></tr>
-<tr><td></td><td>**61**</td><td>**172,65**</td><td>169,45</td><td>166,25</td><td>163,05</td><td>159,85</td><td>156,65</td></tr>
-<tr><td></td><td>**62**</td><td>**134,20**</td><td>130,75</td><td>127,30</td><td>123,85</td><td>120,40</td><td>116,95</td></tr>
-<tr><td></td><td>**63**</td><td>**92,80**</td><td>89,10</td><td>85,35</td><td>81,65</td><td>77,95</td><td>74,20</td></tr>
-<tr><td></td><td>**64**</td><td>**48,20**</td><td>44,20</td><td>40,15</td><td>36,15</td><td>32,15</td><td>28,10</td></tr>
-<tr><td></td><td>**65**</td><td>**0,00**</td><td>0,00</td><td>0,00</td><td>0,00</td><td>0,00</td><td>0,00</td></tr>
+<tr><td>Âge au début de la perception de la rente</td><td>60</td><td>208.55</td></tr>
+<tr><td></td><td>**61**</td><td>172.65</td></tr>
+<tr><td></td><td>**62**</td><td>134.20</td></tr>
+<tr><td></td><td>**63**</td><td>92.80</td></tr>
+<tr><td></td><td>**64**</td><td>48.20</td></tr>
+<tr><td></td><td>**65**</td><td>0.00</td></tr>
 </table>
+
+Tableau 2: femmes (selon l’année de naissance)
 
 <table>
-<tr><th></th><th colspan="7">Mois</th></tr>
-<tr><th></th><th></th><th>6</th><th>7</th><th>8</th><th>9</th><th>10</th><th>11</th></tr>
-<tr><td>Âge au début de la perception de la rente</td><td>60</td><td>190,60</td><td>187,60</td><td>184,60</td><td>181,65</td><td>178,65</td><td>175,65</td></tr>
-<tr><td></td><td>**61**</td><td>153,45</td><td>150,20</td><td>147,00</td><td>143,80</td><td>140,60</td><td>137,40</td></tr>
-<tr><td></td><td>**62**</td><td>113,50</td><td>110,05</td><td>106,60</td><td>103,15</td><td>99,70</td><td>96,25</td></tr>
-<tr><td></td><td>**63**</td><td>70,50</td><td>66,80</td><td>63,05</td><td>59,35</td><td>55,65</td><td>51,90</td></tr>
-<tr><td></td><td>**64**</td><td>24,10</td><td>20,10</td><td>16,05</td><td>12,05</td><td>8,05</td><td>4,00</td></tr>
-<tr><td></td><td>**65**</td><td>0,00</td><td>0,00</td><td>0,00</td><td>0,00</td><td>0,00</td><td>0,00</td></tr>
+<tr><th></th><th></th><th>1960 ou antérieurement</th><th>1961</th><th>1962</th><th>1963</th><th>1964 ou ultérieurement</th></tr>
+<tr><td>Âge au début de la perception de la rente</td><td>60</td><td>179.20</td><td>189.80</td><td>200.35</td><td>210.90</td><td>221.45</td></tr>
+<tr><td></td><td>**61**</td><td>139.45</td><td>150.50</td><td>161.60</td><td>172.65</td><td>183.75</td></tr>
+<tr><td></td><td>**62**</td><td>96.55</td><td>108.20</td><td>119.85</td><td>131.45</td><td>143.10</td></tr>
+<tr><td></td><td>**63**</td><td>50.20</td><td>62.45</td><td>74.70</td><td>86.95</td><td>99.20</td></tr>
+<tr><td></td><td>**64**</td><td>0.00</td><td>12.90</td><td>25.85</td><td>38.75</td><td>51.65</td></tr>
+<tr><td></td><td>**65**</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td></tr>
 </table>
 
-Tableau 2: âge AVS 64
-
-<table>
-<tr><th></th><th colspan="7">Mois</th></tr>
-<tr><th></th><th></th><th>**0**</th><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th></tr>
-<tr><td>Âge au début de la perception de la rente</td><td>60</td><td>**179,20**</td><td>175,90</td><td>172,60</td><td>169,25</td><td>165,95</td><td>162,65</td></tr>
-<tr><td></td><td>**61**</td><td>**139,45**</td><td>135,90</td><td>132,30</td><td>128,75</td><td>125,15</td><td>121,60</td></tr>
-<tr><td></td><td>**62**</td><td>**96,55**</td><td>92,70</td><td>88,85</td><td>84,95</td><td>81,10</td><td>77,25</td></tr>
-<tr><td></td><td>**63**</td><td>**50,20**</td><td>46,00</td><td>41,85</td><td>37,65</td><td>33,45</td><td>29,30</td></tr>
-<tr><td></td><td>**64**</td><td>**0,00**</td><td>0,00</td><td>0,00</td><td>0,00</td><td>0,00</td><td>0,00</td></tr>
-</table>
-
-<table>
-<tr><th></th><th colspan="7">Mois</th></tr>
-<tr><th></th><th></th><th>6</th><th>7</th><th>8</th><th>9</th><th>10</th><th>11</th></tr>
-<tr><td>Âge au début de la perception de la rente</td><td>60</td><td>159,35</td><td>156,00</td><td>152,70</td><td>149,40</td><td>146,10</td><td>142,75</td></tr>
-<tr><td></td><td>**61**</td><td>118,00</td><td>114,45</td><td>110,85</td><td>107,30</td><td>103,70</td><td>100,15</td></tr>
-<tr><td></td><td>**62**</td><td>73,40</td><td>69,50</td><td>65,65</td><td>61,80</td><td>57,95</td><td>54,05</td></tr>
-<tr><td></td><td>**63**</td><td>25,10</td><td>20,90</td><td>16,75</td><td>12,55</td><td>8,35</td><td>4,20</td></tr>
-<tr><td></td><td>**64**</td><td>0,00</td><td>0,00</td><td>0,00</td><td>0,00</td><td>0,00</td><td>0,00</td></tr>
-</table>
+La réduction est déterminée au mois près.
 
 **Explication:**
 
 \1. Les montants figurant dans les tableaux 1 et 2 correspondent à la réduction de la rente par millier de francs de rente transitoire perçue, si la personne bénéficiaire d’une rente transitoire la finance elle-même en totalité.
 
-\2. Si, conformément aux dispositions de l’OPers relatives au droit du travail, une participation de l’employeur au financement est prévue, les montants figurant dans les tableaux 1 et 2 doivent être pondérés en fonction du pourcentage financé par la personne assurée.
+\2. Si, conformément aux dispositions de l’OPers[^annex4-lvlu1-lvlI-1] relatives au droit du travail, une participation de l’employeur au financement est prévue, les montants figurant dans les tableaux 1 et 2 doivent être pondérés en fonction du pourcentage financé par la personne assurée.
 
 **Exemple 1:**
 
-La rente transitoire (RT) s’élève à 27 840 francs par an (2320 francs par mois). Elle est servie dès l’âge de 60 ans. L’employeur prend en charge 50 % des coûts.
+La rente transitoire (RT) s’élève à 27 840 francs par an (2320 francs par mois). Elle est servie dès l’âge de 62 ans et 3 mois (pour une personne née en 1962). L’employeur prend en charge 50 % des coûts.
 
 Calcul:
 
-Montant selon tableaux 1 ou 2 × part du salarié × (RT mensuelle/1000) = réduction à vie de la rente de vieillesse par mois.
+Montant selon tableaux 1 ou 2 × part du salarié × (RT mensuelle/1000) = réduction à vie de la rente de vieillesse par mois
 
-- a. âge AVS 65: 208,55 × 0,5 × 2,32 = **241,90 francs**
-- b. âge AVS 64: 179,20 × 0,5 × 2,32 = **207,85 francs**
+- a. Hommes: Réduction à l’âge de 62 ans et 3 mois: 134.20 + (92.80 – 134.20) / 12 × 3 = 123.85 123.85 × 0,5 × 2.32 = **143.65 francs**
+- b. Femmes (nées en 1962): Réduction à l’âge de 62 ans et 3 mois: 119.85 + (74.70 – 119.85) / 12 × 3 = 108.55 108.55 × 0,5 × 2.32 = **125.95 francs**
+
+[^annex4-lvlu1-lvlI-1]: [RS 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
 
 ### II. Rachat de la réduction de la rente mensuelle de vieillesse en cas de réduction immédiate et à vie (art. 60, al. 4, let. b)
 
 <table>
-<tr><th colspan="3">Valeur actuelle pour le rachat de la réduction de la rente</th></tr>
+<tr><th colspan="3">**Valeur actuelle pour le rachat de la réduction de la rente**</th></tr>
 <tr><td>Âge</td><td>Hommes</td><td>Femmes</td></tr>
-<tr><td>60</td><td>22,571</td><td>21,346</td></tr>
-<tr><td>61</td><td>22,060</td><td>20,807</td></tr>
-<tr><td>62</td><td>21,543</td><td>20,261</td></tr>
-<tr><td>63</td><td>21,019</td><td>19,707</td></tr>
-<tr><td>64</td><td>20,490</td><td>19,147</td></tr>
-<tr><td>65</td><td>19,954</td><td>18,581</td></tr>
+<tr><td>60</td><td>22 571</td><td>21 346</td></tr>
+<tr><td>61</td><td>22 060</td><td>20 807</td></tr>
+<tr><td>62</td><td>21 543</td><td>20 261</td></tr>
+<tr><td>63</td><td>21 019</td><td>19 707</td></tr>
+<tr><td>64</td><td>20 490</td><td>19 147</td></tr>
+<tr><td>65</td><td>19 954</td><td>18 581</td></tr>
 </table>
 
 **Exemple 2:**
 
-La personne assurée prend sa retraite à 60 ans et perçoit une rente transitoire.
+La personne assurée (née en 1962) prend sa retraite à l’âge de 60 ans et 3 mois et perçoit une rente transitoire.
 
 L’employeur participe au financement de cette rente à raison de 50 %.
 
@@ -2417,10 +2480,10 @@ La personne assurée souhaite éviter la réduction à vie de la rente de vieill
 
 Calcul:
 
-(facteur selon chiffre II × réduction mensuelle [selon exemple 1] × 12) = part du salarié = montant du versement unique
+Facteur selon chiffre II × réduction mensuelle (selon exemple 1) × 12 = part du salarié = montant du versement unique
 
-- a. âge AVS 65: 22,571 × 241,90 × 12 = **65 519,10 francs**
-- b. âge AVS 64: 21,346 × 207,85 × 12 = **53 241,20 francs**
+- a. Hommes: Valeur actuelle à l’âge de 62 ans et 3 mois: 21 543 + (21 019 – 21 543) / 12 × 3) = 21 412 21 412 × 143.65 × 12 = **36 909.75 francs**
+- b. Femmes (nées en 1962): Valeur actuelle à l’âge de 62 ans et 3 mois: 20 261 + (19 707 – 20 261) / 12 × 3) = 20 122 20 122 × 125.95 × 12 = **30 412.80 francs**
 
 Annexe 5[^t-5]
 
@@ -2428,106 +2491,99 @@ Annexe 5[^t-5]
 
 ## Rente transitoire
 
-[^t-5]: Nouvelle teneur selon le ch. II de la D de l’OPC du 15 fév. 2018, approuvée par le CF le 25 avr. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 2431](https://fedlex.data.admin.ch/eli/oc/2018/353)).
+[^t-5]: Nouvelle teneur selon le ch. II de la D de l’OPC des 7 août et 27 nov. 2023, approuvée par le CF le 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
 
-### I. Réduction résultant de la perception d’une rente transitoire et applicable à vie, dès l’âge AVS, de la rente mensuelle de vieillesse (art. 60, al. 4, let. c)
+### I. Réduction de la rente mensuelle de vieillesse résultant de la perception d’une rente transitoire et applicable à vie, dès l’âge de référence (art. 60, al. 4, let. c)
 
-Tableau 1: âge AVS 65
-
-<table>
-<tr><th></th><th colspan="7">Mois</th></tr>
-<tr><th></th><th></th><th>**0**</th><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th></tr>
-<tr><td>Âge au début de la perception de la rente</td><td>60</td><td>**267,75**</td><td>263,05</td><td>258,40</td><td>253,70</td><td>249,00</td><td>244,30</td></tr>
-<tr><td></td><td>**61**</td><td>**211,50**</td><td>206,95</td><td>202,35</td><td>197,80</td><td>193,20</td><td>188,65</td></tr>
-<tr><td></td><td>**62**</td><td>**156,60**</td><td>152,15</td><td>147,70</td><td>143,20</td><td>138,75</td><td>134,30</td></tr>
-<tr><td></td><td>**63**</td><td>**103,05**</td><td>98,70</td><td>94,35</td><td>90,00</td><td>85,65</td><td>81,30</td></tr>
-<tr><td></td><td>**64**</td><td>**50,85**</td><td>46,60</td><td>42,40</td><td>38,15</td><td>33,90</td><td>29,65</td></tr>
-<tr><td></td><td>**65**</td><td>**0,00**</td><td>0,00</td><td>0,00</td><td>0,00</td><td>0,00</td><td>0,00</td></tr>
-</table>
+Tableau 1: hommes
 
 <table>
-<tr><th></th><th colspan="7">Mois</th></tr>
-<tr><th></th><th></th><th>6</th><th>7</th><th>8</th><th>9</th><th>10</th><th>11</th></tr>
-<tr><td>Âge au début de la perception de la rente</td><td>60</td><td>239,65</td><td>234,95</td><td>230,25</td><td>225,55</td><td>220,90</td><td>216,20</td></tr>
-<tr><td></td><td>**61**</td><td>184,05</td><td>179,50</td><td>174,90</td><td>170,35</td><td>165,75</td><td>161,20</td></tr>
-<tr><td></td><td>**62**</td><td>129,85</td><td>125,35</td><td>120,90</td><td>116,45</td><td>112,00</td><td>107,50</td></tr>
-<tr><td></td><td>**63**</td><td>76,95</td><td>72,60</td><td>68,25</td><td>63,90</td><td>59,55</td><td>55,20</td></tr>
-<tr><td></td><td>**64**</td><td>25,45</td><td>21,20</td><td>16,95</td><td>12,70</td><td>8,50</td><td>4,25</td></tr>
-<tr><td></td><td>**65**</td><td>0,00</td><td>0,00</td><td>0,00</td><td>0,00</td><td>0,00</td><td>0,00</td></tr>
+<tr><td>Âge au début de la perception de la rente</td><td>60</td><td>267.75</td></tr>
+<tr><td></td><td>**61**</td><td>211.50</td></tr>
+<tr><td></td><td>**62**</td><td>156.60</td></tr>
+<tr><td></td><td>**63**</td><td>103.05</td></tr>
+<tr><td></td><td>**64**</td><td>50.85</td></tr>
+<tr><td></td><td>**65**</td><td>0.00</td></tr>
 </table>
 
-Tableau 2: âge AVS 64
+Tableau 2: femmes (selon l’année de naissance)
 
 <table>
-<tr><th></th><th colspan="7">Mois</th></tr>
-<tr><th></th><th></th><th>**0**</th><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th></tr>
-<tr><td>Âge au début de la perception de la rente</td><td>60</td><td>**219,20**</td><td>214,50</td><td>209,75</td><td>205,05</td><td>200,30</td><td>195,60</td></tr>
-<tr><td></td><td>**61**</td><td>**162,50**</td><td>157,90</td><td>153,25</td><td>148,65</td><td>144,00</td><td>139,40</td></tr>
-<tr><td></td><td>**62**</td><td>**107,05**</td><td>102,55</td><td>98,05</td><td>93,50</td><td>89,00</td><td>84,50</td></tr>
-<tr><td></td><td>**63**</td><td>**52,90**</td><td>48,50</td><td>44,10</td><td>39,70</td><td>35,25</td><td>30,85</td></tr>
-<tr><td></td><td>**64**</td><td>**0,00**</td><td>0,00</td><td>0,00</td><td>0,00</td><td>0,00</td><td>0,00</td></tr>
+<tr><th></th><th></th><th>1960 ou antérieurement</th><th>1961</th><th>1962</th><th>1963</th><th>1964 ou ultérieurement</th></tr>
+<tr><td>Âge au début de la perception de la rente</td><td>60</td><td>219.20</td><td>235.25</td><td>251.70</td><td>268.60</td><td>285.90</td></tr>
+<tr><td></td><td>**61**</td><td>162.50</td><td>177.75</td><td>193.45</td><td>209.55</td><td>226.05</td></tr>
+<tr><td></td><td>**62**</td><td>107.05</td><td>121.60</td><td>136.50</td><td>151.80</td><td>167.55</td></tr>
+<tr><td></td><td>**63**</td><td>52.90</td><td>66.70</td><td>80.90</td><td>95.45</td><td>110.35</td></tr>
+<tr><td></td><td>**64**</td><td>0.00</td><td>13.10</td><td>26.55</td><td>40.35</td><td>54.55</td></tr>
 </table>
 
-<table>
-<tr><th></th><th colspan="7">Mois</th></tr>
-<tr><th></th><th></th><th>6</th><th>7</th><th>8</th><th>9</th><th>10</th><th>11</th></tr>
-<tr><td>Âge au début de la perception de la rente</td><td>60</td><td>190,85</td><td>186,15</td><td>181,40</td><td>176,70</td><td>171,95</td><td>167,25</td></tr>
-<tr><td></td><td>**61**</td><td>134,80</td><td>130,15</td><td>125,55</td><td>120,90</td><td>116,30</td><td>111,65</td></tr>
-<tr><td></td><td>**62**</td><td>80,00</td><td>75,45</td><td>70,95</td><td>66,45</td><td>61,95</td><td>57,40</td></tr>
-<tr><td></td><td>**63**</td><td>26,45</td><td>22,05</td><td>17,65</td><td>13,25</td><td>8,80</td><td>4,40</td></tr>
-<tr><td></td><td>**64**</td><td>0,00</td><td>0,00</td><td>0,00</td><td>0,00</td><td>0,00</td><td>0,00</td></tr>
-</table>
+La réduction est déterminée au mois près.
 
 **Explication:**
 
 \1. Les montants figurant dans les tableaux 1 et 2 correspondent à la réduction de la rente par millier de francs de rente transitoire perçue, si la personne bénéficiaire d’une rente transitoire la finance elle-même en totalité.
 
-\2. Si, conformément aux dispositions de l’OPers relatives au droit du travail, une participation de l’employeur au financement est prévue, les montants figurant dans les tableaux 1 et 2 doivent être pondérés en fonction du pourcentage financé par la personne assurée.
+\2. Si, conformément aux dispositions de l’OPers[^annex5-lvlu1-lvlI-1] relatives au droit du travail, une participation de l’employeur au financement est prévue, les montants figurant dans les tableaux 1 et 2 doivent être pondérés en fonction du pourcentage financé par la personne assurée.
 
 **Exemple 1:**
 
-La rente transitoire s’élève à 27 840 francs par an (2320 francs par mois). Elle est servie dès l’âge de 60 ans. L’employeur prend en charge 50 % des coûts.
+La rente transitoire (RT) s’élève à 27 840 francs par an (2320 francs par mois). Elle est servie dès l’âge de 62 ans et 3 mois (pour une personne née en 1962). L’employeur prend en charge 50 % des coûts.
 
 Calcul:
 
-Montant selon tableaux 1 ou 2 × part du salarié × (RT mensuelle/1000) = réduction à vie de la rente de vieillesse par mois.
+Montant selon tableaux 1 ou 2 × part du salarié × (RT mensuelle/1000) = réduction à vie de la rente de vieillesse par mois
 
-- a. âge AVS 65: 267,75 × 0,5 × 2,32 = **310,60 francs**
-- b. âge AVS 64: 219,20 × 0,5 × 2,32 = **254,25 francs**
+- a. Hommes: réduction à l’âge de 62 ans et 3 mois: 156.60 + (103.05 – 156.60) / 12 × 3 = 143.20 143.20 × 0,5 × 2.32 = **166.10 francs**
+- b. Femmes (nées en 1962): réduction à l’âge de 62 ans et 3 mois: 136.50 + (80.90 – 136.50) / 12 × 3 = 122.60 122.60 × 0,5 × 2.32 = **142.20 francs**
+
+[^annex5-lvlu1-lvlI-1]: [RS 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
 
 ### II. Réduction des rentes de survivants (art. 60, al. 5)
 
+Taux d’atténuation applicable à la réduction à vie prévue dès l’âge de référence, en cas de décès avant l’âge de référence
+
+a. Hommes
+
 <table>
-<tr><th></th><th colspan="2">Taux d’atténuation applicable à la réduction à vie prévue dès l’âge de l’AVS, en cas de décès avant l’âge de l’AVS</th></tr>
-<tr><th>Âge au début de la perception de la rente de vieillesse</th><th>a. âge AVS 65</th><th>b. âge AVS 64</th></tr>
-<tr><th>60</th><th>4,42 %</th><th>4,56 %</th></tr>
-<tr><th>61</th><th>4,59 %</th><th>4,73 %</th></tr>
-<tr><th>62</th><th>4,77 %</th><th>4,90 %</th></tr>
-<tr><th>63</th><th>4,97 %</th><th>5,10 %</th></tr>
-<tr><th>64</th><th>5,21 %</th><th>0,0 %</th></tr>
-<tr><th>65</th><th>0,0 %</th><th></th></tr>
+<tr><td>Âge au début de la perception de la rente</td><td>60</td><td>4,42 %</td></tr>
+<tr><td></td><td>**61**</td><td>4,59 %</td></tr>
+<tr><td></td><td>**62**</td><td>4,77 %</td></tr>
+<tr><td></td><td>**63**</td><td>4,97 %</td></tr>
+<tr><td></td><td>**64**</td><td>5,21 %</td></tr>
+<tr><td></td><td>**65**</td><td>0,00 %</td></tr>
+</table>
+
+b. Femmes (selon l’année de naissance)
+
+<table>
+<tr><th></th><th></th><th>1960 ou antérieurement</th><th>1961</th><th>1962</th><th>1963</th><th>1964 ou ultérieurement</th></tr>
+<tr><td>Âge au début de la perception de la rente</td><td>60</td><td>4,56 %</td><td>4,55 %</td><td>4,53 %</td><td>4,52 %</td><td>4,51 %</td></tr>
+<tr><td></td><td>**61**</td><td>4,73 %</td><td>4,72 %</td><td>4,71 %</td><td>4,69 %</td><td>4,68 %</td></tr>
+<tr><td></td><td>**62**</td><td>4,90 %</td><td>4,90 %</td><td>4,89 %</td><td>4,87 %</td><td>4,86 %</td></tr>
+<tr><td></td><td>**63**</td><td>5,10 %</td><td>5,10 %</td><td>5,09 %</td><td>5,07 %</td><td>5,06 %</td></tr>
+<tr><td></td><td>**64**</td><td>0,00 %</td><td>5,32 %</td><td>5,30 %</td><td>5,28 %</td><td>5,27 %</td></tr>
 </table>
 
 **Exemple de calcul:**
 
-Un assuré prend sa **retraite à 60 ans** et a droit à une rente de vieillesse de 6000 francs par mois. Il perçoit une rente transitoire de 2320 francs par mois. Il **décède à l’âge de 63 ans**.
+Une personne assurée prend sa retraite à l’âge de 62 ans et 3 mois et a droit à une rente de vieillesse de 6000 francs par mois. Elle perçoit une rente transitoire de 2320 francs par mois. Elle décède à l’âge de 63 ans.
 
 Calcul/réduction de la rente de viduité ou de partenaire:
 
-- 1\. L’âge de la retraite détermine le taux d’atténuation applicable à la réduction à vie.  Pour un homme de 60 ans, il est de 4,42 %.
-- 2\. Ce taux doit être multiplié par le nombre d’années séparant l’âge de l’assuré au moment de son décès de l’âge de l’AVS.  L’assuré est mort à 63 ans, la différence entre l’âge au moment du décès et l’âge de l’AVS est donc de 2 ans.  Le taux d’atténuation applicable à la réduction à vie prévue pour la rente mensuelle de vieillesse dès l’âge de l’AVS est de 2 × 4,42 % = 8,84 %.
-- 3\. Le montant de la réduction à vie de la rente mensuelle de vieillesse dès l’âge de l’AVS doit être atténué à hauteur de ce taux.  La réduction mensuelle à l’âge de l’AVS, en cas de retraite à 60 ans, est de 310,60 francs (selon annexe 5, ch. I, exemple 1, let. a) et elle est atténuée de 27,45 francs (8,84 % de 310,60 francs). La réduction définitive s’élève ainsi à 283,15 francs.
-- 4\. La rente de vieillesse réduite s’élève donc à 5716,85 francs (6000 francs moins 283,15 francs), et la rente de survivants à 3811,35 francs (⅔ de la rente de vieillesse réduite).
+- 1\. L’âge de la retraite détermine le taux d’atténuation applicable à la réduction à vie. 🡪 Pour un homme de 62 ans et 3 mois, il est de 4,82 %.
+- 2\. Ce taux doit être multiplié par le nombre d’années séparant l’âge de l’assuré au moment de son décès de l’âge de référence. 🡪 La personne assurée est décédée à 63 ans, la différence entre l’âge au moment du décès et l’âge de référence est donc de 2 ans. 🡪 Le taux d’atténuation applicable à la réduction à vie prévue pour la rente mensuelle de vieillesse dès l’âge de référence est de 2 × 4,82 % = 9,64 %.
+- 3\. Le montant de la réduction à vie de la rente mensuelle de vieillesse dès l’âge de référence doit être atténué à hauteur de ce taux. 🡪 La réduction mensuelle à l’âge de référence, en cas de retraite à l’âge de 62 ans et 3 mois, est de 166.10 francs (selon annexe 5, ch. I, exemple 1, let. a) et elle est atténuée de 16.00 francs (9,64 % de 166.10 francs). La réduction définitive s’élève ainsi à 150.10 francs.
+- 4\. La rente de vieillesse réduite s’élève donc à 5849.90 francs (6000 francs moins 150.10 francs), et la rente de survivants à 3899.95 francs (⅔ de la rente de vieillesse réduite).
 
 Annexe 6[^t-6]
 
-(art. 103, al. 2, 108*b*, al. 1, 108*c*, al. 1, et 108*i*, al. 1)
+(art. 103, al. 2, 108*b*, al. 1, 108*c*, al. 1, et 108i, al. 1)
 
 ## Rente transitoire
 
 [^t-6]: Nouvelle teneur selon le ch. II de la D de l’OPC du 15 fév. 2018, approuvée par le CF le 25 avr. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 2431](https://fedlex.data.admin.ch/eli/oc/2018/353)).
 
-### I. Réduction résultant de la perception d’une rente transitoire et applicable à vie, dès l’âge AVS, de la rente mensuelle de vieillesse née entre le 1<sup>er</sup> juillet 2008 et le 30 juin 2012 (art. 108*b*, al. 1)
+### I. Réduction résultant de la perception d’une rente transitoire et applicable à vie, dès l’âge de référence, de la rente mensuelle de vieillesse née entre le 1<sup>er</sup> juillet 2008 et le 30 juin 2012 (art. 108*b*, al. 1)
 
 Tableau 1: âge AVS 65
 
@@ -2592,7 +2648,7 @@ Montant selon tableaux 1 ou 2 × part du salarié × (RT mensuelle/1000) = rédu
 - a. âge AVS 65: 368,20 × 0,5 × 2,21 = **406,85 francs**
 - b. âge AVS 64: 280,30 × 0,5 × 2,21 = **309,75 francs**
 
-### II. Réduction résultant de la perception d’une rente transitoire et applicable à vie, dès l’âge AVS, de la rente mensuelle de vieillesse née entre le 1<sup>er</sup> juillet 2012 et le 31 décembre 2014 (art. 108*c*, al. 1)
+### II. Réduction résultant de la perception d’une rente transitoire et applicable à vie, dès l’âge de référence, de la rente mensuelle de vieillesse née entre le 1<sup>er</sup> juillet 2012 et le 31 décembre 2014 (art. 108*c*, al. 1)
 
 Tableau 1: âge AVS 65
 
@@ -2657,7 +2713,7 @@ Montant selon tableaux 1 ou 2 × part du salarié × (RT mensuelle/1000) = rédu
 - a. âge AVS 65: 338,25 × 0,5 × 2,32 = **392,35 francs**
 - b. âge AVS 64: 271,95 × 0,5 × 2,32 = **315,45 francs**
 
-### III. Réduction résultant de la perception d’une rente transitoire et applicable à vie, dès l’âge AVS, de la rente mensuelle de vieillesse née entre le 1<sup>er</sup> janvier 2015 et le 31 décembre 2018 (art. 108*i*, al. 1)
+### III. Réduction résultant de la perception d’une rente transitoire et applicable à vie, dès l’âge de référence, de la rente mensuelle de vieillesse née entre le 1<sup>er</sup> janvier 2015 et le 31 décembre 2018 (art. 108*i*, al. 1)
 
 Tableau 1: âge AVS 65
 
@@ -2791,7 +2847,7 @@ La personne assurée dans les plans de prévoyance destinés aux personnes emplo
 
 ### III. Rachat
 
-<sup>1</sup> La personne assurée dans les plans de prévoyance destinés aux militaires de carrière et aux membres du Corps des gardes-frontière peut effectuer, dans les limites fixées par la LPP, un rachat jusqu’à l’âge de 65 ans, conformément au tableau suivant:
+<sup>1</sup> La personne assurée dans les plans de prévoyance destinés aux militaires de carrière et aux membres du Corps des gardes-frontière peut effectuer, dans les limites fixées par la LPP, un rachat jusqu’à l’âge de référence, conformément au tableau suivant:
 
 <table>
 <tr><th colspan="2">Standard</th><th></th><th></th><th>Cadres</th><th></th><th></th></tr>
@@ -2875,7 +2931,7 @@ Exemple:
 <tr><td>**Montant de rachat maximum dans le plan standard en cas de versement de cotisations d’épargne supplémentaires de l’employeur par rapport au montant de rachat maximum dans le plan standard**</td><td>**Fr. 79 650,00**</td></tr>
 </table>
 
-<sup>2</sup> La personne assurée dans les plans de prévoyance destinés aux personnes employées du DFAE soumises à la discipline des transferts peut effectuer, dans les limites fixées par la LPP, un rachat jusqu’à l’âge de 65 ans, conformément au tableau suivant:
+<sup>2</sup> La personne assurée dans les plans de prévoyance destinés aux personnes employées du DFAE soumises à la discipline des transferts peut effectuer, dans les limites fixées par la LPP, un rachat jusqu’à l’âge de référence, conformément au tableau suivant:
 
 <table>
 <tr><th colspan="2">Standard</th><th></th><th></th><th></th><th></th><th colspan="2">Cadres</th><th></th><th></th><th></th><th></th></tr>
