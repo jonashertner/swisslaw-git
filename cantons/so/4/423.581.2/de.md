@@ -3,20 +3,19 @@ canton: SO
 number: "423.581.2"
 title: "Gesetz über die Änderung des Gesetzes vom 29. März 1925 über die Beteiligung des Staates an der Roth-Stiftung des Kantons Solothurn und des Gesetzes vom 29. August 1909 über die Kantonsschule, die landwirtschaftliche Winterschule und die Fortbildungsschulen"
 language: de
-version: 1957-05-06
-valid_until: 2023-12-31
-version_adopted: 1946-03-31
+version: 2024-01-01
+version_adopted: 2023-05-17
 adopted: 1946-03-31
 in_force: 1957-05-06
 url: "https://bgs.so.ch/app/de/texts_of_law/423.581.2"
-pdf: "https://bgs.so.ch/api/de/versions/5237/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5405/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Gesetz über die Änderung des Gesetzes vom 29. März 1925 über die Beteiligung des Staates an der Roth-Stiftung des Kantons Solothurn und des Gesetzes vom 29. August 1909 über die Kantonsschule, die landwirtschaftliche Winterschule und die Fortbildungsschulen
 
-Vom 31.03.1946 (Stand 06.05.1957)
+Vom 31.03.1946 (Stand 01.01.2024)
 
 Der Kantonsrat von Solothurn
 
@@ -33,12 +32,20 @@ beschliesst:
 <sup>1</sup> Der Staat Solothurn leistet an die Pensionskassen der Geistlichen folgende Beiträge:
 
 - a) zum voraus jährlich an die «St.-Ursen-Stiftung, Alters- und Invalidenver-sicherung der römisch-katholischen Weltgeistlichen des Kantons Solothurn» 7200 Franken und an die Pensionskasse für die christkatholischen Geistlichen des Kantons Solothurn 800 Franken, beides im Sinne des Dekretes vom 10. Oktober 1874 (lit. e)[^12-1], des Gesetzes über die staatliche Besoldungsreform vom 17. Februar 1918 (H VI) und des Gesetzes über die Beteiligung des Staates an der Roth-Stiftung des Kantons Solothurn vom 29. März 1925[^12-2]; der Staat behält sich das Recht vor, diese Beiträge jederzeit auszukaufen;
-- b) an die St.-Ursen-Stiftung, die Pensionskasse der evangelisch-reformierten Geistlichen des Kantons Solothurn und die Pensionskasse der christkatholischen Geistlichen des Kantons Solothurn einen jährlichen Beitrag von 4% der versicherten Besoldungen der in den solothurnischen Kirchgemeinden tätigen Weltgeistlichen beziehungsweise Pfarrgeistlichen.
+- b) …
 
-<sup>2</sup> Die Pensionskassen der Geistlichen unterstehen der Aufsicht des Regierungsrates. Die Statuten und deren Abänderungen bedürfen der ausdrücklichen Genehmigung des Regierungsrates.
+<sup>2</sup> …
 
 [^12-1]: Vgl. 423.771.
 [^12-2]: Von diesem Gesetz ist mit Ausnahme des in § 62 des Staatspersonalgesetzes (BGS 126.1 ) neu gefassten § 11 nunmehr der hier abgedruckte § 12 von Bedeutung. Die übrigen Bestimmungen sind mit der Verschmelzung der damaligen 3 staatlichen Pensionskassen entfallen; vgl. KRB vom 6. Mai 1957 und Abschnitt II dieses Gesetzes.
+
+#### § 12bis
+
+**Übergangsbestimmung zur Änderung vom 17. Mai 2023**
+
+<sup>1</sup> Die Beiträge gemäss § 12 Absatz 1 Buchstabe b[^12bis-1] werden nach Inkrafttreten der Änderung vom 17. Mai 2023 noch für die Dauer von drei Jahren weiter ausgerichtet.
+
+[^12bis-1]: § 12 Abs. 1 Bst. b lautet wie folgt: Der Staat Solothurn leistet an die Pensionskassen der Geistlichen folgende Beiträge: an die St.-Ursen-Stiftung, die Pensionskasse der evangelisch-reformierten Geistlichen des Kantons Solothurn und die Pensionskasse der christkatholischen Geistlichen des Kantons Solothurn einen jährlichen Beitrag von 4% der versicherten Besoldungen der in den solothurnischen Kirchgemeinden tätigen Weltgeistlichen beziehungsweise Pfarrgeistlichen.
 
 ## II. § 27 Absatz 4 des Gesetzes über die Kantonsschule, die landwirtschaftliche Winterschule und die Fortbildungsschulen vom 29. August 1909 erhält folgenden Wortlaut :
 
