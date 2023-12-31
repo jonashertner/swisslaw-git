@@ -4,13 +4,12 @@ number: 892a
 title: Sozialhilfeverordnung
 short: SHV
 language: de
-version: 2023-02-01
-valid_until: 2023-12-31
+version: 2024-01-01
 version_adopted: 2023-01-10
 adopted: 2015-11-24
 in_force: 2016-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/892a"
-pdf: "https://srl.lu.ch/api/de/versions/4028/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4152/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://srl.lu.ch/api/de/versions/4028/pdf_file"
 
 (SHV)
 
-vom 24.11.2015 (Stand 01.02.2023)
+vom 24.11.2015 (Stand 01.01.2024)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -332,6 +331,16 @@ beschliesst:
 #### § 27
 
 **…**
+
+#### § 27a
+
+**Inkassohilfe in grenzüberschreitenden Fällen**
+
+<sup>1</sup> Die Dienststelle Soziales und Gesellschaft kann die Inkassohilfe in grenzüberschreitenden Fällen an einen kommunalen Sozialdienst, einen Gemeindeverband oder Dritten übertragen. Sie schliesst dazu eine Leistungsvereinbarung ab.
+
+<sup>2</sup> Die Fachstelle für grenzüberschreitende Fälle muss die fachlichen Anforderungen an die Leistungserbringung gemäss § 2a Absatz 3 erfüllen und über Fachkenntnisse auf dem Gebiet der internationalen Geltendmachung von Unterhaltsansprüchen verfügen.
+
+<sup>3</sup> Stichtag für die Berechnung des Anteils der einzelnen Gemeinden an den Kosten der Inkassohilfe in grenzüberschreitenden Fällen gemäss § 43a Absatz 3 des Sozialhilfegesetzes ist der 1. Januar des Jahres, in dem die die Inkassohilfe erbracht wird.
 
 #### § 27b
 
