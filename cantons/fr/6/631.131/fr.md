@@ -3,13 +3,13 @@ canton: FR
 number: "631.131"
 title: Ordonnance DFIN relative à la perception des créances fiscales
 language: fr
-version: 2023-01-01
-valid_until: 2023-12-31
-version_adopted: 2022-12-06
+version: 2024-01-01
+valid_until: 2025-12-31
+version_adopted: 2023-12-19
 adopted: 2014-11-07
 in_force: 2015-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/631.131"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7663/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7912/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/7663/pdf_file"
 
 Perception des créances fiscales – O
 
-du 07.11.2014 (version entrée en vigueur le 01.01.2023)
+du 07.11.2014 (version entrée en vigueur le 01.01.2024)
 
 La Direction des finances
 
@@ -42,13 +42,13 @@ Ordonne:
 
 **Intérêt moratoire**
 
-<sup>1</sup> Le taux de l'intérêt moratoire est fixé à 3,0 %.
+<sup>1</sup> Le taux de l'intérêt moratoire est fixé à 3,75 %.
 
 #### Art. 2
 
 **Intérêt rémunératoire sur les acomptes**
 
-<sup>1</sup> Le taux de l'intérêt rémunératoire bonifié sur les acomptes payés de manière anticipée est fixé à 0 %.
+<sup>1</sup> Le taux de l'intérêt rémunératoire bonifié sur les acomptes payés de manière anticipée est fixé à 0,25 %.
 
 <sup>2</sup> Pour les acomptes, les taux sont appliqués à partir des dates des échéances moyennes.
 
@@ -58,7 +58,7 @@ Ordonne:
 
 **Intérêt rémunératoire sur les montants payés en trop**
 
-<sup>1</sup> Le taux de l'intérêt rémunératoire bonifié sur les montants payés en trop est fixé à 3,0 %.
+<sup>1</sup> Le taux de l'intérêt rémunératoire bonifié sur les montants payés en trop est fixé à 3,75 %.
 
 #### Art. 4
 

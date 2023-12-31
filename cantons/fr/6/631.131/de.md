@@ -3,13 +3,13 @@ canton: FR
 number: "631.131"
 title: Verordnung FIND über den Bezug der Steuerforderungen
 language: de
-version: 2023-01-01
-valid_until: 2023-12-31
-version_adopted: 2022-12-06
+version: 2024-01-01
+valid_until: 2025-12-31
+version_adopted: 2023-12-19
 adopted: 2014-11-07
 in_force: 2015-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/631.131"
-pdf: "https://bdlf.fr.ch/api/de/versions/7663/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7912/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/7663/pdf_file"
 
 Bezug der Steuerforderungen – V
 
-vom 07.11.2014 (Fassung in Kraft getreten am 01.01.2023)
+vom 07.11.2014 (Fassung in Kraft getreten am 01.01.2024)
 
 Die Finanzdirektion
 
@@ -42,13 +42,13 @@ Verordnet:
 
 **Verzugszins**
 
-<sup>1</sup> Der Zinssatz des Verzugszinses beträgt 3,0 %.
+<sup>1</sup> Der Zinssatz des Verzugszinses beträgt 3,75 %.
 
 #### Art. 2
 
 **Vergütungszins auf den Akontozahlungen**
 
-<sup>1</sup> Der Zinssatz des Vergütungszinses, der für die im Voraus bezahlten Akontozahlungen gutgeschrieben wird, beträgt 0 %.
+<sup>1</sup> Der Zinssatz des Vergütungszinses, der für die im Voraus bezahlten Akontozahlungen gutgeschrieben wird, beträgt 0,25 %.
 
 <sup>2</sup> Für die Akontozahlungen werden die Zinssätze ab den Daten der mittleren Verfalltage angewandt.
 
@@ -58,7 +58,7 @@ Verordnet:
 
 **Vergütungszins für zu viel bezahlte Beträge**
 
-<sup>1</sup> Der Zinssatz des Vergütungszinses, der für zu viel bezahlte Beträge gutgeschrieben wird, beträgt 3,0 %.
+<sup>1</sup> Der Zinssatz des Vergütungszinses, der für zu viel bezahlte Beträge gutgeschrieben wird, beträgt 3,75 %.
 
 #### Art. 4
 
