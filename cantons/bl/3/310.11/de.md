@@ -4,13 +4,13 @@ number: "310.11"
 title: Finanzhaushaltsverordnung
 short: Vo FHG
 language: de
-version: 2023-01-01
-valid_until: 2023-12-31
-version_adopted: 2022-12-13
+version: 2024-01-01
+valid_until: 2024-12-31
+version_adopted: 2023-12-05
 adopted: 2017-11-14
 in_force: 2018-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/310.11"
-pdf: "https://bl.clex.ch/api/de/versions/3662/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3784/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3662/pdf_file"
 
 (Vo FHG)
 
-Vom 14.11.2017 (Stand 01.01.2023)
+Vom 14.11.2017 (Stand 01.01.2024)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -87,7 +87,7 @@ beschliesst:
 
 <sup>1</sup> Die Direktionen schicken ihre Vorlagen, welche finanzielle Folgen auslösen können, erst in den Mitbericht, nachdem sie intern die Einhaltung der finanzhaushaltsrechtlichen Vorgaben sichergestellt haben.
 
-<sup>2</sup> Die Finanz- und Kirchendirektion führt die finanzhaushaltsrechtliche Prüfung gemäss der Verordnung vom 16. Mai 2006[^5-1] über das Mitberichtsverfahren und das Vernehmlassungsverfahren durch.
+<sup>2</sup> Die Finanz- und Kirchendirektion führt die finanzhaushaltsrechtliche Prüfung gemäss der Verordnung über das Mitberichtsverfahren und das Vernehmlassungsverfahren vom 16. Mai 2006[^5-1] durch.
 
 <sup>3</sup> Sie prüft Vorlagen, die landrätliche Kommissionen erarbeitet und ihr zur finanzhaushaltsrechtlichen Prüfung überwiesen haben, innerhalb von 15 Arbeitstagen. Vor ihrer Stellungnahme nimmt sie Rücksprache mit der fachlich betroffenen Direktion.
 
@@ -97,7 +97,7 @@ beschliesst:
 
 **Risikomanagement ([§ 13](https://bl.clex.ch/data/310/de/art13) FHG)**
 
-<sup>1</sup> Für das Risikomanagement gilt die Verordnung vom 9. April 2013[^6-1] über das Risikomanagement.
+<sup>1</sup> Für das Risikomanagement gilt die Verordnung über das Risikomanagement vom 9. April 2013[^6-1].
 
 [^6-1]: [SGS 140.16](https://bl.clex.ch/data/140.16/de)
 
@@ -211,12 +211,12 @@ beschliesst:
 
 <sup>1</sup> Ein Nachtragskreditantrag umfasst mindestens folgende Angaben:
 
-- a. sachlich betroffene Dienststelle oder kleinere Organisationseinheit gemäss § 21 Abs. 3 FHG,
-- b. Kontierungsobjekt und Kontonummer,
-- c. bereits bewilligter Budgetkredit,
-- d. Höhe des Nachtragskredits,
-- e. Ursache des erhöhten Kreditbedarfs,
-- f. geprüfte oder bereits vorgenommene Kompensationen,
+- a. sachlich betroffene Dienststelle oder kleinere Organisationseinheit gemäss § 21 Abs. 3 FHG;
+- b. Kontierungsobjekt und Kontonummer;
+- c. bereits bewilligter Budgetkredit;
+- d. Höhe des Nachtragskredits;
+- e. Ursache des erhöhten Kreditbedarfs;
+- f. geprüfte oder bereits vorgenommene Kompensationen;
 - g. allfällige Veränderung der Leistung.
 
 #### § 19
@@ -237,13 +237,13 @@ beschliesst:
 
 <sup>1</sup> Ein Kreditüberschreitungsantrag umfasst mindestens folgende Angaben:
 
-- a. Begründung gemäss § 26 Abs. 1 FHG,
-- b. sachlich betroffene Dienststelle oder kleinere Organisationseinheit gemäss § 21 Abs. 3 FHG,
-- c. Kontierungsobjekt und Kontonummer,
-- d. bereits bewilligter Budgetkredit,
-- e. Höhe der Kreditüberschreitung,
-- f. Ursache des erhöhten Kreditbedarfs,
-- g. geprüfte oder bereits vorgenommene Kompensationen,
+- a. Begründung gemäss § 26 Abs. 1 FHG;
+- b. sachlich betroffene Dienststelle oder kleinere Organisationseinheit gemäss § 21 Abs. 3 FHG;
+- c. Kontierungsobjekt und Kontonummer;
+- d. bereits bewilligter Budgetkredit;
+- e. Höhe der Kreditüberschreitung;
+- f. Ursache des erhöhten Kreditbedarfs;
+- g. geprüfte oder bereits vorgenommene Kompensationen;
 - h. allfällige Veränderung der Leistung.
 
 <sup>2</sup> Kreditüberschreitungsanträge, die mit der Geringfügigkeit gemäss § 26 Abs. 1 Bst. c FHG begründet sind, können bewilligt werden, wenn sie weniger als CHF 200‘000.– und weniger als 10 % des jeweiligen Budgetkredits betragen.
@@ -294,9 +294,9 @@ beschliesst:
 
 <sup>2</sup> Die Steuerungsberichte I und II umfassen folgende Elemente:
 
-- a. voraussichtliche Entwicklung des Finanzhaushalts (Erwartungsrechnung),
-- b. die Nachtragskreditbegehren der sachlich betroffenen Direktionen,
-- c. die Kreditüberschreitungsbegehren der sachlich betroffenen Direktionen,
+- a. voraussichtliche Entwicklung des Finanzhaushalts (Erwartungsrechnung);
+- b. die Nachtragskreditbegehren der sachlich betroffenen Direktionen;
+- c. die Kreditüberschreitungsbegehren der sachlich betroffenen Direktionen;
 - d. verwaltungsinterne Massnahmen zum Finanzhaushalt.
 
 <sup>3</sup> Der Steuerungsbericht III umfasst die Elemente gemäss Abs. 2 ohne Bst. b.
@@ -495,53 +495,61 @@ beschliesst:
 
 <sup>1</sup> Die Finanz- und Kirchendirektion ist unabhängig von der Ausgabenhöhe zuständig für die Bewilligung der gebundenen Ausgaben:
 
-- a. an die Sozialversicherungsanstalt für den Vollzug von Sozialversicherungen,
-- b. für die Übernahme der Verlustscheine für die obligatorische Krankenpflegeversicherung,
-- c. für den eidgenössischen Finanzausgleich,
-- d. für die Beiträge an die Landeskirchen,
-- e. für die Weiterleitung der Kirchensteuern der juristischen Personen an die Landeskirchen,
-- f. aufgrund von gesetzlichen und vertraglichen Versicherungsverhältnissen,
-- g. an die Gemeinden für die Vergütung für die Einschätzung der Unselbständigerwerbenen,
-- h. an die Gemeinden für ihren Anteil an den Gebühren, die infolge gewährter Fristerstreckung für die Einreichung der Steuererklärung erhoben werden,
-- i. für die von der Konferenz der Kantonalen Finanzdirektoren und Finanzdirektorinnen (FDK) beschlossenen Kostenbeiträge zur Finanzierung der Projekte der Schweizerischen Steuerkonferenz (SSK),
-- j. für den Anteil der Einwohnergemeinden an der direkten Bundessteuer,
-- k. für den Anteil der Landeskirchen an der direkten Bundessteuer,
-- l. an die Gemeinden für die Vergütung der Kosten in den Bereichen der Unterstützung bedürftiger Personen, der Unterstützung Asylsuchender sowie der Eingliederung bedürftiger Personen entsprechend den §§ 31, 32 sowie 34 des Sozialhilfegesetzes (SHG) vom 21. Juni 2001[^39-1].
+- a. an die Sozialversicherungsanstalt für den Vollzug von Sozialversicherungen;
+- b. für die Übernahme der Verlustscheine für die obligatorische Krankenpflegeversicherung;
+- c. für den eidgenössischen Finanzausgleich;
+- d. für die Beiträge an die Landeskirchen;
+- e. für die Weiterleitung der Kirchensteuern der juristischen Personen an die Landeskirchen;
+- f. aufgrund von gesetzlichen und vertraglichen Versicherungsverhältnissen;
+- g. an die Gemeinden für die Vergütung für die Einschätzung der Unselbständigerwerbenden;
+- h. an die Gemeinden für ihren Anteil an den Gebühren, die infolge gewährter Fristerstreckung für die Einreichung der Steuererklärung erhoben werden;
+- i. für die von der Konferenz der Kantonalen Finanzdirektoren und Finanzdirektorinnen (FDK) beschlossenen Kostenbeiträge zur Finanzierung der Projekte der Schweizerischen Steuerkonferenz (SSK);
+- j. für den Anteil der Einwohnergemeinden an der direkten Bundessteuer;
+- k. für den Anteil der Landeskirchen an der direkten Bundessteuer;
+- l. an die Gemeinden für die Vergütung der Kosten in den Bereichen der Unterstützung bedürftiger Personen, der Unterstützung Asylsuchender sowie der Eingliederung bedürftiger Personen entsprechend den §§ 31, 32 sowie 34 des Sozialhilfegesetzes (SHG) vom 21. Juni 2001[^39-1];
+- m. für die Vergütung des Kantonsbeitrags an den ausgerichteten Mietzinsbeiträgen an die Gemeinden gemäss § 14 des Gesetzes über die Ausrichtung von Mietzinsbeiträgen vom 20. März 1997[^39-2];
+- n. für die Kosten der IT-Telekommunikationsanschlüsse des Kantons;
+- o. für die Wartungs- und Lizenzgebühren sowie Supportleistungen für kantonale ICT-Infrastruktur und ICT-Basisapplikationen.
 
 <sup>2</sup> Die Volkswirtschafts- und Gesundheitsdirektion ist unabhängig von der Ausgabenhöhe zuständig für die Bewilligung der gebundenen Ausgaben für:
 
-- a. die Investitionsbeiträge für Alters- und Pflegeheime,
-- b. die stationären Aufenthalte in Spitälern und Kliniken,
-- c. den Kantonsbeitrag an das SECO für Arbeitsvermittlung und arbeitsmarktliche Massnahmen,
-- d. die Revier- und Pflegebeiträge gemäss der kantonalen Waldgesetzgebung,
-- e. Kantonsbeiträge, Investitionskredite und Betriebshilfedarlehen in Kompetenz der Investitionshilfekommission gemäss § 4 der Verordnung über die Investitionshilfen in der Landwirtschaft ([SGS 514.11](https://bl.clex.ch/data/514.11/de)).
+- a. die Investitionsbeiträge für Alters- und Pflegeheime;
+- b. die stationären Aufenthalte in Spitälern und Kliniken;
+- c. den Kantonsbeitrag an das SECO für Arbeitsvermittlung und arbeitsmarktliche Massnahmen;
+- d. die Revier- und Pflegebeiträge gemäss der kantonalen Waldgesetzgebung;
+- e. Kantonsbeiträge, Investitionskredite und Betriebshilfedarlehen in Kompetenz der Investitionshilfekommission gemäss § 4 der Verordnung über die Investitionshilfen in der Landwirtschaft vom 26. Januar 1999[^39-3];
+- f. sämtliche im Rahmen des Vollzugs des Gesetzes über die Erhebung einer Gasttaxe (Gasttaxengesetz) vom 29. November 2012[^39-4] anfallenden Ausgaben.
 
 <sup>3</sup> Die Bau- und Umweltschutzdirektion ist unabhängig von der Ausgabenhöhe zuständig für die Bewilligung der gebundenen Ausgaben für:
 
-- a. die Gebäudeversicherungsprämien,
-- b. die Beiträge für die Verbundabonnemente,
-- c. die FABI-Pauschale,
-- d. die Abgeltung der grenzüberschreitenden öV-Kosten,
-- e. die Rückerstattungen an Gemeinden aufgrund von Entschädigungen von Planungsnachteilen gemäss Gesetz über die Abgeltung von Planungsmehrwerten.
+- a. die Gebäudeversicherungsprämien;
+- b. die Beiträge für die Verbundabonnemente;
+- c. die FABI-Pauschale;
+- d. die Abgeltung der grenzüberschreitenden öV-Kosten;
+- e. die Rückerstattungen an Gemeinden aufgrund von Entschädigungen von Planungsnachteilen gemäss Gesetz über die Abgeltung von Planungsmehrwerten vom 27. September 2018[^39-5].
 
 <sup>4</sup> Die Sicherheitsdirektion ist unabhängig von der Ausgabenhöhe zuständig für die Bewilligung der gebundenen Ausgaben für:
 
-- a. den straf- und jugendstrafrechtlichen Massnahmenvollzug,
-- b. die Strafverfolgung,
+- a. den straf- und jugendstrafrechtlichen Massnahmenvollzug;
+- b. die Strafverfolgung;
 - c. die Personen in Obhut.
 
 <sup>5</sup> Die Bildungs-, Kultur- und Sportdirektion ist unabhängig von der Ausgabenhöhe zuständig für die Bewilligung der gebundenen Ausgaben für:
 
-- a. die interkantonalen Schulabkommen,
-- b. die Lehrmittel,
+- a. die interkantonalen Schulabkommen;
+- b. die Lehrmittel;
 - c. das Schul- und Büromaterial, das durch die Abteilung Rechnungswesen, Einkauf und Logistik des Generalsekretariats der Bildungs-, Kultur- und Sportdirektion eingekauft wird;
 - d. die schulischen Aufgaben- und Leistungschecks;
-- e. die Kulturvertragspauschale,
-- f. die bedarfsabhängigen Leistungen der Behinderten- und Jugendhilfe,
-- g. die bedarfsabhängigen Leistungen der Speziellen Förderung an einer Privatschule, der integrativen oder separativen Sonderschulung und der heilpädagogischen Früherziehung gemäss der Verordnung über die Spezielle Förderung, die Sonderschulung und die heilpädagogische Früherziehung vom 22. Juni 2021[^39-2].
+- e. die Kulturvertragspauschale;
+- f. die bedarfsabhängigen Leistungen der Behinderten- und Jugendhilfe;
+- g. die bedarfsabhängigen Leistungen der Speziellen Förderung an einer Privatschule, der integrativen oder separativen Sonderschulung und der heilpädagogischen Früherziehung gemäss der Verordnung über die Spezielle Förderung, die Sonderschulung und die heilpädagogische Früherziehung (Vo SoPä) vom 22. Juni 2021[^39-6].
 
 [^39-1]: [SGS 850](https://bl.clex.ch/data/850/de/art31)
-[^39-2]: [SGS 640.71](https://bl.clex.ch/data/640.71/de)
+[^39-2]: [SGS 844](https://bl.clex.ch/data/844/de/art14)
+[^39-3]: [SGS 514.11](https://bl.clex.ch/data/514.11/de/art4)
+[^39-4]: [SGS 548](https://bl.clex.ch/data/548/de/art6)
+[^39-5]: [SGS 404](https://bl.clex.ch/data/404/de)
+[^39-6]: [SGS 640.71](https://bl.clex.ch/data/640.71/de)
 
 #### § 40
 
@@ -600,9 +608,10 @@ beschliesst:
 
 <sup>4</sup> Keiner Abrechnung bedürfen:
 
-- a. bewilligte wiederkehrende Ausgaben,
-- b. bewilligte gebundene Ausgaben,
-- c. Umwandlungen von Finanz- in Verwaltungsvermögen.
+- a. bewilligte wiederkehrende Ausgaben;
+- b. bewilligte gebundene Ausgaben;
+- c. Umwandlungen von Finanz- in Verwaltungsvermögen;
+- d. Einnahmenverzichte.
 
 #### § 45
 
@@ -610,15 +619,15 @@ beschliesst:
 
 <sup>1</sup> Abrechnungen über die vom Volk, vom Landrat oder vom Regierungsrat bewilligten Ausgaben müssen insbesondere enthalten:
 
-- a. das Profit-Center, das Kontierungsobjekt und die Kontonummer,
-- b. Angaben zur Ausgabenbewilligung,
-- c. Abweichungen gegenüber der Ausgabenbewilligung und dem Vorhaben,
-- d. teuerungsbedingte Mehrausgaben,
-- e. Beurteilung der Wirtschaftlichkeit im Vergleich zur Wirtschaftlichkeitsrechnung bei der Ausgabenbewilligung,
-- f. Angabe der eingegangenen Beiträge Dritter,
-- g. Realisierungsdauer des Vorhabens und Zeitpunkt der Fertigstellung desselben,
-- h. Schlussrechnung des Vorhabens (finanzieller Erfüllungsgrad),
-- i. Realisierungserfolg des Vorhabens (materieller Erfüllungsgrad),
+- a. das Profit-Center, das Kontierungsobjekt und die Kontonummer;
+- b. Angaben zur Ausgabenbewilligung;
+- c. Abweichungen gegenüber der Ausgabenbewilligung und dem Vorhaben;
+- d. teuerungsbedingte Mehrausgaben;
+- e. Beurteilung der Wirtschaftlichkeit im Vergleich zur Wirtschaftlichkeitsrechnung bei der Ausgabenbewilligung;
+- f. Angabe der eingegangenen Beiträge Dritter;
+- g. Realisierungsdauer des Vorhabens und Zeitpunkt der Fertigstellung desselben;
+- h. Schlussrechnung des Vorhabens (finanzieller Erfüllungsgrad);
+- i. Realisierungserfolg des Vorhabens (materieller Erfüllungsgrad);
 - j. Kontaktperson.
 
 #### § 46
@@ -761,7 +770,7 @@ beschliesst:
 
 **Vermögens- und Schuldenbewirtschaftung ([§ 64 Abs. 1 Bst. j](https://bl.clex.ch/data/310/de/art64) FHG)**
 
-<sup>1</sup> Für die Bewirtschaftung des Vermögens und der Schulden gilt die Verordnung vom 15. Dezember 2015[^59-1] über Vermögens- und Schuldenbewirtschaftung.
+<sup>1</sup> Für die Bewirtschaftung des Vermögens und der Schulden gilt die Verordnung über die Vermögens- und Schuldenbewirtschaftung vom 15. Dezember 2015[^59-1].
 
 [^59-1]: [SGS 310.12](https://bl.clex.ch/data/310.12/de)
 
@@ -832,19 +841,23 @@ beschliesst:
 <sup>1</sup> Als Dauer eines Baurechtes ist in der Regel vorzusehen:
 
 - a. bei gewerblicher Nutzung — 50 Jahre;
-- b. bei Wohnungsnutzung — 80 Jahre;
+- b. bei Wohn-, Büro- und Verwaltungsnutzung — 80 Jahre;
 - c. bei Vorliegen eines öffentlichen Interesses (z.B. sozialer Wohnungsbau) — 100 Jahre.
 
-<sup>2</sup> Der Baurechtszinsbetrag ist auf der Basis von 80 % des marktüblichen Verkehrswertes des unbebauten Landes festzulegen.
+<sup>1<sup>bis</sup></sup> Für die weiteren Nutzungen, welche nicht unter Abs. 1 fallen, ist die vereinbarte Nutzungsdauer massgeblich. Die Nutzungsdauer kann jedoch nicht mehr als 100 Jahre betragen.
 
-<sup>3</sup> Der Baurechtszins richtet sich nach den marktüblichen Bedingungen, er entspricht jedoch mindestens dem Satz für die 1. Hypothek der Basellandschaftlichen Kantonalbank für die entsprechende Nutzung.
+<sup>1<sup>ter</sup></sup> Eine Verlängerung des Baurechts kann innerhalb der gesetzlichen Vorgaben vertraglich vereinbart werden.
 
-<sup>4</sup> Die Bedingungen für das Baurecht sind alle 5 Jahre zu überprüfen und allenfalls anzupassen.
+<sup>2</sup> Der Baurechtszinsbetrag ist auf der Basis von 100 % des marktüblichen Verkehrswerts des unbebauten Landes festzulegen.
+
+<sup>3</sup> Der Baurechtszins richtet sich nach den marktüblichen Bedingungen, er entspricht jedoch mindestens dem jeweils gültigen hypothekarischen Referenzzinssatz des Bundesamts für Wohnungswesen als Basisrisiko zuzüglich Risikozuschläge.
+
+<sup>4</sup> Die Bedingungen für das Baurecht sind alle 5 Jahre zu überprüfen.
 
 <sup>5</sup> Für den Heimfall gilt:
 
-- a. Bei gewerblicher Nutzung erfolgt in der Regel keine Entschädigung.
-- b. Bei Wohnnutzung ist eine Entschädigung zu vereinbaren, die einen Bruchteil des dannzumaligen Verkehrswertes beträgt.
+- a. Bei nicht handelbaren und schwer bewertbaren Nutzungen, wie Gewerbe (Industrie, Produktion, Lager & Logistik, Schwimmbäder etc.) erfolgt in der Regel keine Heimfallentschädigung.
+- b. Bei handelbaren und gut bewertbaren Nutzungen, wie Wohn-, Büro- und Verwaltungsnutzung kann die Heimfallentschädigung bis zu 100 % des dannzumaligen Verkehrswerts betragen.
 
 #### § 67
 
@@ -855,19 +868,19 @@ beschliesst:
 - a. Fonds für regionale Infrastrukturvorhaben gemäss Landratsbeschlüssen vom 25. September 1997[^67-1] und 23. Juni 2005[^67-2];
 - b. Schulhausfonds gemäss Landratsbeschluss vom 24. Juni 1999[^67-3];
 - c. Campus FHNW gemäss Landratsbeschluss vom 21. Juni 2007[^67-4];
-- d. Fonds zur Förderung des Wohnungsbaus gemäss Gesetz vom 29. Januar 1990[^67-5] über die Wohnbau- und Eigentumsförderung;
-- e. Wirtschaftsförderungsfonds gemäss Gesetz vom 19. April 2007[^67-6] zur Förderung der Wirtschaft (Wirtschaftsförderungsgesetz);
+- d. Fonds zur Förderung des Wohnungsbaus gemäss Gesetz über die Wohnbauförderung (WBFG) vom 30. März 2023[^67-5];
+- e. Wirtschaftsförderungsfonds gemäss Gesetz zur Förderung der Standortqualität (Standortförderungsgesetz) vom 19. April 2007[^67-6];
 - f. Fischhegefonds gemäss Fischereigesetz vom 11. Februar 1999[^67-7];
 - g. Tierseuchenkasse gemäss Landwirtschaftsgesetz Basel-Landschaft (LG BL) vom 8. Januar 1998[^67-8];
-- h. Schutzplatzfonds gemäss Verordnung vom 24. August 2004[^67-9] zum Gesetz über den Bevölkerungsschutz und den Zivilschutz im Kanton Basel-Landschaft;
-- i. Gasttaxe gemäss Gesetz vom 29. November 2012[^67-10] über die Erhebung einer Gasttaxe (Gasttaxengesetz).
+- h. Schutzplatzfonds gemäss Verordnung zum Bevölkerungsschutzgesetz im Kanton Basel-Landschaft (Vo BSG BL) vom 24. August 2004[^67-9];
+- i. Gasttaxe gemäss Gesetz über die Erhebung einer Gasttaxe (Gasttaxengesetz) vom 29. November 2012[^67-10].
 
 [^67-1]: LRB Nr. 1049
 [^67-2]: LRB Nr. 1300
 [^67-3]: LRB Nr. 1981
 [^67-4]: LRB Nr. 2541
 [^67-5]: [SGS 842](https://bl.clex.ch/data/842/de)
-[^67-6]: [SGS 501](https://bl.clex.ch/data/501/de); heute: Gesetz zur Förderung der Standortqualität (Standortförderungsgesetz).
+[^67-6]: [SGS 501](https://bl.clex.ch/data/501/de)
 [^67-7]: [SGS 530](https://bl.clex.ch/data/530/de)
 [^67-8]: [SGS 510](https://bl.clex.ch/data/510/de)
 [^67-9]: [SGS 731.11](https://bl.clex.ch/data/731.11/de)
