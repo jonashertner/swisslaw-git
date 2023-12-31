@@ -4,10 +4,10 @@ number: "832.21"
 title: Vollzugsverordnung zur Bundesgesetzgebung über die Unfallversicherung (VV UVG)
 short: VV UVG
 language: de
-nachtrag: "71"
-valid_until: 2024-01-01
+version: "2024-01-01"
+nachtrag: "123"
 adopted: 2010-10-06
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-832_21-2010_10_06-2011_01_01-071.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-832_21-2010_10_06-2011_01_01-123.html"
 text: pdf
 ---
 
@@ -26,7 +26,7 @@ beschliesst:
 [^t-1]: OS 65, 751; Begründung siehe ABl 2010, 2181.
 [^t-2]: Inkrafttreten: 1. Januar 2011.
 [^t-3]: SR 832.20.
-[^t-4]: SR 832.202. 1. 1. 11 - 71 1
+[^t-4]: SR 832.202.
 
 #### § 1
 
@@ -44,11 +44,13 @@ Die Gesundheitsdirektion sorgt für den Vollzug der Bundesgesetzgebung über die
 
 <sup>3</sup> Der Kanton ersetzt der Sozialversicherungsanstalt die Aufwendungen.
 
+[^2-1]: Fassung gemäss RRB vom 12. Dezember 2023 (OS 78, 558; ABl 2023-12-15). In Kraft seit 1. Januar 2024.
+
 #### § 3
 
-**c. Amt für Wirtschaft und Arbeit**
+**c. Amt für Wirtschaft5**
 
-Werden durch die Missachtung von Sicherheitsvorschriften das Leben oder die Gesundheit von Arbeitnehmerinnen und Arbeitnehmern schwer gefährdet, trifft das Amt für Wirtschaft und Arbeit die notwendigen Zwangsmassnahmen.
+Werden durch die Missachtung von Sicherheitsvorschriften das Leben oder die Gesundheit von Arbeitnehmerinnen und Arbeitnehmern schwer gefährdet, trifft das Amt für Wirtschaft[^2-1] die notwendigen Zwangsmassnahmen.
 
 #### § 4
 
@@ -56,8 +58,8 @@ Werden durch die Missachtung von Sicherheitsvorschriften das Leben oder die Gesu
 
 Die Finanzdirektion sorgt für die Versicherung des kantonalen Personals.
 
-#### § 5
+**1**
 
-**Ermittlung des Unfallhergangs**
+- 1\. 1. 24 - 123 Ermittlung des § 5. Die Behörden von Kanton und Gemeinden helfen im Rahmen Unfallhergangs ihrer Zuständigkeit dem Versicherer bei der Ermittlung des Unfall-
 
-Die Behörden von Kanton und Gemeinden helfen im Rahmen ihrer Zuständigkeit dem Versicherer bei der Ermittlung des Unfallherganges und erteilen die erforderlichen Auskünfte.
+herganges und erteilen die erforderlichen Auskünfte.
