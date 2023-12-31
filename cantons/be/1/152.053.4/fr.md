@@ -4,13 +4,13 @@ number: "152.053.4"
 title: "Ordonnance de Direction sur les droits d’accès aux fichiers centralisés de données personnelles délivrés par la Direction de la santé, des affaires sociales et de l’intégration"
 short: FDP OD DSSI
 language: fr
-version: 2023-07-01
-valid_until: 2023-12-31
-version_adopted: 2023-06-14
+version: 2024-01-01
+valid_until: 2024-06-30
+version_adopted: 2023-11-24
 adopted: 2022-01-26
 in_force: 2022-03-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/152.053.4"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2843/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2961/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2843/pdf_file"
 
 (FDP OD DSSI)
 
-du 26.01.2022 (état au 01.07.2023)
+du 26.01.2022 (état au 01.01.2024)
 
 La Direction de la santé, des affaires sociales et de l’intégration du canton de Berne,
 

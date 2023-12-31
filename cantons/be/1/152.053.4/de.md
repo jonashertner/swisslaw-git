@@ -4,13 +4,13 @@ number: "152.053.4"
 title: "Direktionsverordnung über die Berechtigungen der Gesundheits-, Sozial- und Integrationsdirektion für die zentralen Personendatensammlungen"
 short: PDS DV GSI
 language: de
-version: 2023-07-01
-valid_until: 2023-12-31
-version_adopted: 2023-06-14
+version: 2024-01-01
+valid_until: 2024-06-30
+version_adopted: 2023-11-24
 adopted: 2022-01-26
 in_force: 2022-03-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/152.053.4"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2843/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2961/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2843/pdf_file"
 
 (PDS DV GSI)
 
-vom 26.01.2022 (Stand 01.07.2023)
+vom 26.01.2022 (Stand 01.01.2024)
 
 Die Gesundheits-, Sozial- und Integrationsdirektion des Kantons Bern,
 
