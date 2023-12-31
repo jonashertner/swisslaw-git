@@ -3,20 +3,19 @@ canton: FR
 number: "821.45.112"
 title: Ordonnance DSAS concernant les vaccinations par les pharmaciens et pharmaciennes
 language: fr
-version: 2018-09-01
-valid_until: 2023-12-31
-version_adopted: 2018-08-22
+version: 2024-01-01
+version_adopted: 2024-01-19
 adopted: 2015-06-26
 in_force: 2015-07-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/821.45.112"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5768/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7958/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
 
 # Ordonnance DSAS concernant les vaccinations par les pharmaciens et pharmaciennes
 
-du 26.06.2015 (version entrée en vigueur le 01.09.2018)
+du 26.06.2015 (version entrée en vigueur le 01.01.2024)
 
 La Direction de la santé et des affaires sociales
 
@@ -33,7 +32,8 @@ Adopte ce qui suit:
 - a) les vaccins contre la grippe;
 - b) les vaccins trivalents contre la rougeole, les oreillons et la rubéole (ROR);
 - c) les vaccins contre le tétanos;
-- d) les vaccins contre la méningoencéphalite verno-estivale (FSME).
+- d) les vaccins contre la méningoencéphalite verno-estivale (MEVE);
+- e) les vaccins contre le COVID-19.
 
 #### Art. 2
 

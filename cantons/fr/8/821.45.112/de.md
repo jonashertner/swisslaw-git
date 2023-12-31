@@ -3,20 +3,19 @@ canton: FR
 number: "821.45.112"
 title: Verordnung GSD über Impfungen durch Apothekerinnen und Apotheker
 language: de
-version: 2018-09-01
-valid_until: 2023-12-31
-version_adopted: 2018-08-22
+version: 2024-01-01
+version_adopted: 2024-01-19
 adopted: 2015-06-26
 in_force: 2015-07-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/821.45.112"
-pdf: "https://bdlf.fr.ch/api/de/versions/5768/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7958/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung GSD über Impfungen durch Apothekerinnen und Apotheker
 
-vom 26.06.2015 (Fassung in Kraft getreten am 01.09.2018)
+vom 26.06.2015 (Fassung in Kraft getreten am 01.01.2024)
 
 Die Direktion für Gesundheit und Soziales
 
@@ -33,7 +32,8 @@ beschliesst:
 - a) Impfstoffe gegen die Grippe;
 - b) Impfstoffe gegen Masern, Mumps und Röteln (MMR);
 - c) Impfstoffe gegen Tetanus;
-- d) Impfstoffe gegen Zeckenenzephalitis (FSME).
+- d) Impfstoffe gegen Frühsommer-Meningoenzephalitis (FSME);
+- e) Impfstoffe gegen COVID-19.
 
 #### Art. 2
 
