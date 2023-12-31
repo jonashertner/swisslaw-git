@@ -4,13 +4,13 @@ number: "301.215"
 title: Pflegeverordnung
 short: PflV
 language: de
-version: 2023-01-01
-valid_until: 2023-12-31
-version_adopted: 2022-12-21
+version: 2024-01-01
+valid_until: 2024-12-31
+version_adopted: 2023-09-27
 adopted: 2012-11-21
 in_force: 2013-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/301.215"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3280/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3634/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3280/pdf_file"
 
 (PflV)
 
-Vom 21.11.2012 (Stand 01.01.2023)
+Vom 21.11.2012 (Stand 01.01.2024)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -195,6 +195,8 @@ beschliesst:
 
 <sup>2</sup> In spezialisierten gerontopsychiatrischen Einrichtungen beziehungsweise Abteilungen werden insbesondere Personen über 65-jährig mit einer chronischen psychoorganischen Störung aufgenommen.
 
+<sup>3</sup> In Institutionen beziehungsweise Abteilungen der spezialisierten Palliative Care werden Personen in ihrer letzten Lebensphase gepflegt, die eine weit fortgeschrittene, unheilbare und progrediente Erkrankung mit komplexer, aber mehrheitlich stabiler Symptomatik aufweisen.
+
 ### 3.3. Pflegeheimliste
 
 #### § 13
@@ -262,7 +264,7 @@ beschliesst:
 
 **Bedarfserfassungssystem**
 
-<sup>1</sup> Für die Bedarfserfassung sind die Bedarfsabklärungssysteme BESA LK 2010 oder RAI/RUG CH-Index 2016 massgebend.
+<sup>1</sup> Für die Bedarfserfassung sind die Bedarfsabklärungssysteme BESA LK 2020 oder RAI/RUG CH-Index 2016 massgebend.
 
 <sup>2</sup> Ohne zugelassenes Bedarfseinstufungssystem besteht grundsätzlich kein Anrecht zur Geltendmachung der Restkostenfinanzierung. Die ungedeckten Kosten dürfen nicht der anspruchsberechtigten Person in Rechnung gestellt werden.
 
@@ -665,31 +667,7 @@ beschliesst:
 
 #### § 45c
 
-**Zusätzliche Restkostenvergütung**
-
-<sup>1</sup> Auf Gesuch einer stationären Pflegeeinrichtung hin kann das Departement vorübergehend eine höhere Restkostenvergütung festlegen.
-
-<sup>2</sup> Im Gesuch sind die über der Tarifordnung liegenden Pflegekosten schlüssig und nachvollziehbar zu begründen, insbesondere ist die wirtschaftliche Erbringung der Pflegeleistung nachzuweisen.
-
-<sup>3</sup> Folgende Punkte sind namentlich als Begründung ausgeschlossen:
-
-- a) betriebliche, strukturelle und organisatorische Besonderheiten,
-- b) mangelhafte Auslastung,
-- c) personelle Überdotierung,
-- d) Bauvorhaben,
-- e) einmalige und befristete Vorkommnisse.
-
-<sup>4</sup> Die individuelle Regelung ist in einer Vereinbarung zwischen dem Pflegeheim und dem Departement festzuhalten. Die Vereinbarung enthält namentlich folgende Punkte:
-
-- a) Höhe der Restkosten,
-- b) Gültigkeitsdauer der Vereinbarung,
-- c) Konzept zur Senkung der Pflegekosten,
-- d) allfällige Auflagen,
-- e) Zeitpunkt der regelmässigen Berichterstattungen.
-
-<sup>5</sup> Fällt die Vereinbarung dahin oder läuft aus, gilt ab diesem Zeitpunkt automatisch die kantonale Tarifordnung gemäss Anhang 2.
-
-<sup>6</sup> Diese Übergangsbestimmung gilt bis Ende 2023.
+**…**
 
 #### § 46
 
