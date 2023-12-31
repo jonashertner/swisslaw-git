@@ -3,11 +3,11 @@ sr: "360.2"
 title: Verordnung vom 15. Oktober 2008 über das Nationale Ermittlungssystem (NES-Verordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/697"
 language: de
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2008-10-15
 in_force: 2008-12-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/697/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2008-697-20230901-de-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/697/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/697/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2008-697-20240101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/697/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/697/20230901/de"
 
 (NES[^t-2]-Verordnung)[^t-1]
 
-vom 15. Oktober 2008 (Stand am 1. September 2023)
+vom 15. Oktober 2008 (Stand am 1. Januar 2024)
 
 [^t-1]: Fassung gemäss Ziff. I der V vom 16. Aug. 2023, in Kraft seit 1. Sept. 2023 ([AS 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
 [^t-2]: Ausdruck gemäss Ziff. I der V vom 16. Aug. 2023, in Kraft seit 1. Sept. 2023 ([AS 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
@@ -422,7 +422,13 @@ Die BKP kann, soweit dies zur Erlangung der von ihr benötigten Auskünfte und z
 - f.[^19-4] …
 - g. der Eidgenössischen Spielbankenkommission;
 - h. dem Staatssekretariat für Wirtschaft;
-- i.[^19-5] Bundesbehörden, die mit Personensicherheitsüberprüfungen und Schutzmassnahmen im Sinne von Artikel 2 Absatz 2 Buchstaben a und b BWIS[^19-6] betraut sind;
+- i.[^19-5]
+
+  Bundesbehörden, die betraut sind mit:
+
+  - 1\. Personensicherheitsüberprüfungen nach den Artikeln 27–48 des Informationssicherheitsgesetzes (ISG) vom 18. Dezember 2020[^19-6],
+  - 2\. Schutzmassnahmen im Sinne von Artikel 2 Absatz 2 Buchstabe b BWIS[^19-7];
+
 - j. dem Bundesamt für Zivilluftfahrt;
 - k. den Behörden, welche zuständig sind für den Erwerb von Grundstücken durch Personen im Ausland;
 - l. nichtstaatlichen Organisationen, namentlich solchen, die sich für die Bekämpfung der kommerziellen sexuellen Ausbeutung einsetzen, soweit es um die Verhinderung und Aufdeckung spezieller Kriminalitätsformen geht;
@@ -432,15 +438,15 @@ Die BKP kann, soweit dies zur Erlangung der von ihr benötigten Auskünfte und z
 
 Darüber hinaus kann die BKP im NES gespeicherte Personendaten folgenden Behörden auf Anfrage bekannt geben, soweit die Daten zur Erfüllung der gesetzlichen Aufgabe der anfragenden Behörde erforderlich sind:
 
-- a.[^19-7] den Behörden anderer Länder, die Strafverfolgungsfunktionen wahrnehmen, für deren gerichtspolizeiliche Ermittlungen: nach Massgabe von Artikel 13 Absatz 2 ZentG;
-- b.[^19-8] den internationalen Gerichten sowie den internationalen Organisationen, welche Strafverfolgungs- und Polizeiaufgaben wahrnehmen (namentlich Europol und Interpol), für die Bearbeitung konkreter Fälle: nach Massgabe von Artikel 13 Absatz 2 ZentG;
+- a.[^19-8] den Behörden anderer Länder, die Strafverfolgungsfunktionen wahrnehmen, für deren gerichtspolizeiliche Ermittlungen: nach Massgabe von Artikel 13 Absatz 2 ZentG;
+- b.[^19-9] den internationalen Gerichten sowie den internationalen Organisationen, welche Strafverfolgungs- und Polizeiaufgaben wahrnehmen (namentlich Europol und Interpol), für die Bearbeitung konkreter Fälle: nach Massgabe von Artikel 13 Absatz 2 ZentG;
 - c. den Finanzbehörden des Bundes und der Kantone für deren gerichtspolizeiliche Ermittlungen im Fiskalbereich;
 - d. der Eidgenössischen Finanzverwaltung für deren verwaltungsstrafrechtliche Verfahren;
-- e.[^19-9] der Eidgenössischen Finanzmarktaufsicht zur Unterstützung von deren Aufsichtstätigkeit im Rahmen der Finanzmarktgesetze gemäss Artikel 1 Absatz 1 des Finanzmarktaufsichtsgesetzes vom 22. Juni 2007[^19-10], soweit es sich um gesicherte Informationen handelt, die für ein Verfahren benötigt werden oder ein solches in Gang setzen können;
-- f.[^19-11] …
+- e.[^19-10] der Eidgenössischen Finanzmarktaufsicht zur Unterstützung von deren Aufsichtstätigkeit im Rahmen der Finanzmarktgesetze gemäss Artikel 1 Absatz 1 des Finanzmarktaufsichtsgesetzes vom 22. Juni 2007[^19-11], soweit es sich um gesicherte Informationen handelt, die für ein Verfahren benötigt werden oder ein solches in Gang setzen können;
+- f.[^19-12] …
 - g. der Eidgenössischen Spielbankenkommission zur Unterstützung derer Aufsichtstätigkeit im Rahmen der Glücksspielgesetzgebung;
-- h.[^19-12] den mit Personensicherheitsüberprüfungen und Schutzmassnahmen im Sinne von Artikel 2 Absatz 2 Buchstaben a und b BWIS betrauten Bundesbehörden für deren Abklärungen, soweit es sich um gesicherte Informationen handelt;
-- i.[^19-13] den mit Zuverlässigkeitsüberprüfungen im Sinne von Artikel 108*b* ff. des Luftfahrtgesetzes vom 21. Dezember 1948[^19-14] betrauten kantonalen Polizeistellen für deren Abklärungen, soweit es sich um Daten aus dem System zur Unterstützung gerichtspolizeilicher Ermittlungen des Bundes handelt.
+- h.[^19-13] Bundesbehörden, die mit Personensicherheitsüberprüfungen nach den Artikeln 27–48 ISG oder Schutzmassnahmen im Sinne von Artikel 2 Absatz 2 Buchstabe b BWIS betraut sind;
+- i.[^19-14] den mit Zuverlässigkeitsüberprüfungen im Sinne von Artikel 108*b* ff. des Luftfahrtgesetzes vom 21. Dezember 1948[^19-15] betrauten kantonalen Polizeistellen für deren Abklärungen, soweit es sich um Daten aus dem System zur Unterstützung gerichtspolizeilicher Ermittlungen des Bundes handelt.
 
 <sup>3</sup> Zur Erfüllung ihrer Kontrollfunktionen werden den Aufsichtsbehörden des Bundes und der Kantone sowie dem Eidgenössischen Datenschutz- und Öffentlichkeitsbeauftragten auf Verlangen alle Personendaten bekannt gegeben.
 
@@ -448,16 +454,17 @@ Darüber hinaus kann die BKP im NES gespeicherte Personendaten folgenden Behörd
 [^19-2]: Fassung gemäss Ziff. I der V vom 16. Aug. 2023, in Kraft seit 1. Sept. 2023 ([AS 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
 [^19-3]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) angepasst. Die Anpassung wurde im ganzen Text vorgenommen. Vormals: Eidgenössische Bankenkommission.
 [^19-4]: Aufgehoben durch Ziff. I der V vom 16. Aug. 2023, mit Wirkung seit 1. Sept. 2023 ([AS 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
-[^19-5]: Fassung gemäss Ziff. I 9 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
-[^19-6]: [SR 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
-[^19-7]: Fassung gemäss Ziff. I der V vom 16. Aug. 2023, in Kraft seit 1. Sept. 2023 ([AS 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
+[^19-5]: Fassung gemäss Anhang 8 Ziff. II 3 der V vom 8. Nov. 2023 über die Personensicherheitsprüfungen, in Kraft seit 1. Jan. 2024 ([AS 2023 736](https://fedlex.data.admin.ch/eli/oc/2023/736)).
+[^19-6]: [SR 128](https://fedlex.data.admin.ch/eli/cc/2022/232)
+[^19-7]: [SR 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
 [^19-8]: Fassung gemäss Ziff. I der V vom 16. Aug. 2023, in Kraft seit 1. Sept. 2023 ([AS 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
-[^19-9]: Fassung gemäss Anhang 1 Ziff. 5 der Finanzmarktinfrastrukturverordnung vom 25. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
-[^19-10]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
-[^19-11]: Aufgehoben durch Anhang 1 Ziff. 5 der Finanzmarktinfrastrukturverordnung vom 25. Nov. 2015, mit Wirkung seit 1. Jan. 2016 ([AS 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
-[^19-12]: Fassung gemäss Ziff. I 9 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
-[^19-13]: Eingefügt durch Ziff. I der V vom 16. Aug. 2023, in Kraft seit 1. Sept. 2023 ([AS 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
-[^19-14]: [SR 748.0](https://fedlex.data.admin.ch/eli/cc/1950/471_491_479)
+[^19-9]: Fassung gemäss Ziff. I der V vom 16. Aug. 2023, in Kraft seit 1. Sept. 2023 ([AS 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
+[^19-10]: Fassung gemäss Anhang 1 Ziff. 5 der Finanzmarktinfrastrukturverordnung vom 25. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
+[^19-11]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^19-12]: Aufgehoben durch Anhang 1 Ziff. 5 der Finanzmarktinfrastrukturverordnung vom 25. Nov. 2015, mit Wirkung seit 1. Jan. 2016 ([AS 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
+[^19-13]: Fassung gemäss Anhang 8 Ziff. II 3 der V vom 8. Nov. 2023 über die Personensicherheitsprüfungen, in Kraft seit 1. Jan. 2024 ([AS 2023 736](https://fedlex.data.admin.ch/eli/oc/2023/736)).
+[^19-14]: Eingefügt durch Ziff. I der V vom 16. Aug. 2023, in Kraft seit 1. Sept. 2023 ([AS 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
+[^19-15]: [SR 748.0](https://fedlex.data.admin.ch/eli/cc/1950/471_491_479)
 
 #### Art. 20
 
@@ -559,12 +566,13 @@ Gesuche um Auskunft betreffend NES richten sich:
 Für die Gewährleistung der Datensicherheit gelten:
 
 - a.[^26-2] die Datenschutzverordnung vom 31. August 2022[^26-3] (DSV);
-- b. die Cyberrisikenverordnung vom 27. Mai 2020[^26-4].
+- b.[^26-4] die Informationssicherheitsverordnung vom 8. November 2023[^26-5] (ISV).
 
 [^26-1]: Fassung gemäss Anhang Ziff. 17 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 [^26-2]: Fassung gemäss Anhang 2 Ziff. II 41 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^26-3]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^26-4]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^26-4]: Fassung gemäss Anhang 2 Ziff. II 17 der Informationssicherheitsverordnung vom 8. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^26-5]: [SR 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
 
 #### Art. 27
 
@@ -741,14 +749,15 @@ Die auf den Auswertungsplattformen nach Artikel 10 BPI bearbeiteten Daten werden
 Für die Gewährleistung der Datensicherheit gelten:
 
 - a.[^29n-1] die DSV[^29n-2];
-- b. die Cyberrisikenverordnung vom 27. Mai 2020[^29n-3].[^29n-4]
+- b.[^29n-3] die ISV[^29n-4].[^29n-5]
 
 <sup>2</sup> Fedpol trifft die weiteren erforderlichen Massnahmen, um den Zugriff unbefugter Personen auf die Daten zu verhindern.
 
 [^29n-1]: Fassung gemäss Anhang 2 Ziff. II 41 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^29n-2]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^29n-3]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^29n-4]: Fassung gemäss Anhang Ziff. 17 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^29n-3]: Fassung gemäss Anhang 2 Ziff. II 17 der Informationssicherheitsverordnung vom 8. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^29n-4]: [SR 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^29n-5]: Fassung gemäss Anhang Ziff. 17 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 ## 5*b*. Abschnitt: Datenindex Terrorismus
 
@@ -835,14 +844,15 @@ Die im Datenindex Terrorismus abgelegten Daten werden bei jeder Aktualisierung �
 Für die Gewährleistung der Datensicherheit gelten:
 
 - a.[^29w-1] die DSV[^29w-2];
-- b. die Cyberrisikenverordnung vom 27. Mai 2020[^29w-3].[^29w-4]
+- b.[^29w-3] die ISV[^29w-4].[^29w-5]
 
 <sup>2</sup> Fedpol trifft die weiteren erforderlichen Massnahmen, um den Zugriff unbefugter Personen auf die Daten zu verhindern.
 
 [^29w-1]: Fassung gemäss Anhang 2 Ziff. II 41 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^29w-2]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^29w-3]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^29w-4]: Fassung gemäss Anhang Ziff. 17 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^29w-3]: Fassung gemäss Anhang 2 Ziff. II 17 der Informationssicherheitsverordnung vom 8. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^29w-4]: [SR 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^29w-5]: Fassung gemäss Anhang Ziff. 17 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 ## 6. Abschnitt: Schlussbestimmungen
 

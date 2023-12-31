@@ -3,11 +3,11 @@ sr: "360.2"
 title: Ordinanza del 15 ottobre 2008 sul sistema nazionale di indagine (Ordinanza SNI)
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/697"
 language: it
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2008-10-15
 in_force: 2008-12-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/697/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2008-697-20230901-it-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/697/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/697/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2008-697-20240101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/697/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/697/20230901/it"
 
 (Ordinanza SNI[^t-2])[^t-1]
 
-del 15 ottobre 2008 (Stato 1° settembre 2023)
+del 15 ottobre 2008 (Stato 1° gennaio 2024)
 
 [^t-1]: Nuovo testo giusta il n. I dell’O del 16 ago. 2023, in vigore dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
 [^t-2]: Nuova espr. giusta il n. I dell’O del 16 ago. 2023, in vigore dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)). Di detta mod. è tenuto conto in tutto il presente testo.
@@ -422,7 +422,13 @@ Nella misura in cui sia indispensabile per ottenere le informazioni di cui neces
 - f.[^19-4] ...
 - g. Commissione federale delle case da gioco;
 - h. Segreteria di Stato dell’economia;
-- i.[^19-5] autorità federali incaricate dei controlli di sicurezza relativi alle persone e di misure atte a tutelare la sicurezza ai sensi dell’articolo 2 capoverso 2 lettere a e b LMSI[^19-6];
+- i.[^19-5]
+
+  autorità federali incaricate:
+
+  - 1\. dei controlli di sicurezza relativi alle persone secondo gli articoli 27–48 della legge del 18 dicembre 2020[^19-6] sulla sicurezza delle informazioni (LSIn),
+  - 2\. delle misure di protezione secondo l’articolo 2 capoverso 2 lettera b LMSI[^19-7];
+
 - j. Ufficio federale dell’aviazione civile;
 - k. autorità competenti in materia di acquisto di fondi da parte di persone residenti all’estero;
 - l. organizzazioni non governative, segnatamente quelle che operano in favore della lotta contro lo sfruttamento sessuale a fini commerciali, nella misura in cui si tratti di impedire e d’individuare forme particolari di criminalità;
@@ -432,15 +438,15 @@ Nella misura in cui sia indispensabile per ottenere le informazioni di cui neces
 
 La PGF può inoltre comunicare previa richiesta i dati personali registrati in SNI alle seguenti autorità, nella misura in cui i dati servano all’adempimento dei compiti legali dell’autorità richiedente:
 
-- a.[^19-7] autorità di altri Paesi che svolgono funzioni di perseguimento penale, per le loro indagini di polizia giudiziaria, conformemente all’articolo 13 capoverso 2 LUC;
-- b.[^19-8] tribunali e organizzazioni internazionali che svolgono compiti in materia di perseguimento penale e di polizia (segnatamente Europol e Interpol), per il trattamento di casi concreti, conformemente all’articolo 13 capoverso 2 LUC;
+- a.[^19-8] autorità di altri Paesi che svolgono funzioni di perseguimento penale, per le loro indagini di polizia giudiziaria, conformemente all’articolo 13 capoverso 2 LUC;
+- b.[^19-9] tribunali e organizzazioni internazionali che svolgono compiti in materia di perseguimento penale e di polizia (segnatamente Europol e Interpol), per il trattamento di casi concreti, conformemente all’articolo 13 capoverso 2 LUC;
 - c. autorità federali e cantonali competenti in materia finanziaria, per le loro indagini di polizia giudiziaria nell’ambito fiscale;
 - d. Amministrazione federale delle finanze, per i suoi procedimenti di diritto penale amministrativo;
-- e.[^19-9] Autorità federale di vigilanza sui mercati finanziari [^19-10], a sostegno dell’attività di vigilanza svolta nell’ambito delle leggi sui mercati finanziari ai sensi dell’articolo 1 capoverso 1 della legge federale del 22 giugno 2007[^19-11] sulla vigilanza dei mercati finanziari, sempreché si tratti di informazioni attendibili, necessarie in sede di procedimento o atte ad avviare un procedimento;
-- f.[^19-12] ...
+- e.[^19-10] Autorità federale di vigilanza sui mercati finanziari [^19-11], a sostegno dell’attività di vigilanza svolta nell’ambito delle leggi sui mercati finanziari ai sensi dell’articolo 1 capoverso 1 della legge federale del 22 giugno 2007[^19-12] sulla vigilanza dei mercati finanziari, sempreché si tratti di informazioni attendibili, necessarie in sede di procedimento o atte ad avviare un procedimento;
+- f.[^19-13] ...
 - g. Commissione federale delle case da gioco, a sostegno della sua attività di vigilanza nell’ambito della legislazione sui giochi d’azzardo;
-- h.[^19-13] autorità federali incaricate dei controlli di sicurezza relativi alle persone e di misure atte a tutelare la sicurezza ai sensi dell’articolo 2 capoverso 2 lettere a e b LMSI, per i loro accertamenti, nella misura in cui si tratti di informazioni attendibili;
-- i.[^19-14] servizi di polizia cantonali incaricati dei controlli dei precedenti personali ai sensi dell’articolo 108*b* e seguenti della legge federale del 21 dicembre 1948[^19-15] sulla navigazione aerea, per i loro accertamenti, nella misura in cui si tratti di dati del sistema di sostegno alle indagini di polizia giudiziaria della Confederazione.
+- h.[^19-14] autorità federali incaricate dei controlli di sicurezza relativi alle persone secondo gli articoli 27–48 LSIn oppure delle misure di protezione secondo l’articolo 2 capoverso 2 lettera b LMSI;
+- i.[^19-15] servizi di polizia cantonali incaricati dei controlli dei precedenti personali ai sensi dell’articolo 108*b* e seguenti della legge federale del 21 dicembre 1948[^19-16] sulla navigazione aerea, per i loro accertamenti, nella misura in cui si tratti di dati del sistema di sostegno alle indagini di polizia giudiziaria della Confederazione.
 
 <sup>3</sup> Tutti i dati personali sono comunicati, su richiesta, alle autorità di vigilanza della Confederazione e dei Cantoni, nonché all’Incaricato federale della protezione dei dati e della trasparenza per l’adempimento delle loro funzioni di controllo.
 
@@ -448,17 +454,18 @@ La PGF può inoltre comunicare previa richiesta i dati personali registrati in S
 [^19-2]: Nuovo testo giusta l’all. 2 n. II 41 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^19-3]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Di detta mod. è tenuto conto in tutto il presente testo. Precedentemente: Commissione federale delle banche.
 [^19-4]: Abrogata dal n. I dell’O del 16 ago. 2023, con effetto dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
-[^19-5]: Nuovo testo giusta il n. I 9 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
-[^19-6]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
-[^19-7]: Nuovo testo giusta il n. I dell’O del 16 ago. 2023, in vigore dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
+[^19-5]: Nuovo testo giusta l’all. 8 n. II 3 dell’O dell’8 nov. 2023 sui controlli di sicurezza relativi alle persone, in vigore dal 1° gen. 2024 (RU **202****3** 736).
+[^19-6]: [RS 128](https://fedlex.data.admin.ch/eli/cc/2022/232)
+[^19-7]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
 [^19-8]: Nuovo testo giusta il n. I dell’O del 16 ago. 2023, in vigore dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
-[^19-9]: Nuovo testo giusta l’all. 1 n. 5 dell’O del 25 nov. 2015 sull’infrastruttura finanziaria, in vigore dal 1° gen. 2016 ([RU 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
-[^19-10]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
-[^19-11]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
-[^19-12]: Abrogata l’all. 1 n. 5 dell’O del 25 nov. 2015 sull’infrastruttura finanziaria, con effetto dal 1° gen. 2016 ([RU 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
-[^19-13]: Nuovo testo giusta il n. I 9 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
-[^19-14]: Introdotta dal n. I dell’O del 16 ago. 2023, in vigore dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
-[^19-15]: [RS 748.0](https://fedlex.data.admin.ch/eli/cc/1950/471_491_479)
+[^19-9]: Nuovo testo giusta il n. I dell’O del 16 ago. 2023, in vigore dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
+[^19-10]: Nuovo testo giusta l’all. 1 n. 5 dell’O del 25 nov. 2015 sull’infrastruttura finanziaria, in vigore dal 1° gen. 2016 ([RU 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
+[^19-11]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
+[^19-12]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^19-13]: Abrogata l’all. 1 n. 5 dell’O del 25 nov. 2015 sull’infrastruttura finanziaria, con effetto dal 1° gen. 2016 ([RU 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
+[^19-14]: Nuovo testo giusta l’all. 8 n. II 3 dell’O dell’8 nov. 2023 sui controlli di sicurezza relativi alle persone, in vigore dal 1° gen. 2024 ([RU 2023 736](https://fedlex.data.admin.ch/eli/oc/2023/736)).
+[^19-15]: Introdotta dal n. I dell’O del 16 ago. 2023, in vigore dal 1° set. 2023 ([RU 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
+[^19-16]: [RS 748.0](https://fedlex.data.admin.ch/eli/cc/1950/471_491_479)
 
 #### Art. 20
 
@@ -560,12 +567,13 @@ Le domande d’informazione concernenti SNI sono rette:
 Per garantire la sicurezza dei dati si applicano:
 
 - a.[^26-2] l’ordinanza del 31 agosto 2022[^26-3] sulla protezione dei dati (OPDa);
-- b. l’ordinanza del 27 maggio 2020[^26-4] sui ciber-rischi.
+- b.[^26-4] l’ordinanza dell’8 novembre 2023[^26-5] sulla sicurezza delle informazioni (OSIn).
 
 [^26-1]: Nuovo testo giusta l’all. n. 17 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 [^26-2]: Nuovo testo giusta l’all. 2 n. II 41 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^26-3]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^26-4]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^26-4]: Nuovo testo giusta l’all. 2 n. II 17 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^26-5]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
 
 #### Art. 27
 
@@ -744,14 +752,15 @@ Quando non sono più necessari o prima che debbano essere cancellati, i dati tra
 Per garantire la sicurezza dei dati si applicano:
 
 - a.[^29n-1] l’OPDa[^29n-2];
-- b. l’ordinanza del 27 maggio 2020[^29n-3] sui ciber-rischi.[^29n-4]
+- b.[^29n-3] l’OSIn[^29n-4].[^29n-5]
 
 <sup>2</sup> Fedpol adotta le ulteriori misure necessarie per impedire che persone non autorizzate accedano ai dati.
 
 [^29n-1]: Nuovo testo giusta l’all. 2 n. II 41 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^29n-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^29n-3]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^29n-4]: Nuovo testo giusta l’all. n. 17 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^29n-3]: Nuovo testo giusta l’all. 2 n. II 17 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^29n-4]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^29n-5]: Nuovo testo giusta l’all. n. 17 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 ## Sezione 5*b*: Registro dei dati sul terrorismo
 
@@ -838,14 +847,15 @@ I dati registrati nel registro dei dati sul terrorismo sono sovrascritti durante
 Per garantire la sicurezza dei dati si applicano:
 
 - a.[^29w-1] l’OPDa[^29w-2];
-- b. l’ordinanza del 27 maggio 2020[^29w-3] sui ciber-rischi.[^29w-4]
+- b.[^29w-3] l’OSIn[^29w-4].[^29w-5]
 
 <sup>2</sup> Fedpol adotta le ulteriori misure necessarie per impedire che persone non autorizzate accedano ai dati.
 
 [^29w-1]: Nuovo testo giusta l’all. 2 n. II 41 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^29w-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^29w-3]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^29w-4]: Nuovo testo giusta l’all. n. 17 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^29w-3]: Nuovo testo giusta l’all. 2 n. II 17 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^29w-4]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^29w-5]: Nuovo testo giusta l’all. n. 17 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 ## Sezione 6: Disposizioni finali
 
