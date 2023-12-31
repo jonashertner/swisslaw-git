@@ -4,13 +4,13 @@ number: "177.42"
 title: Pensionskassenreglement
 short: R PKTG
 language: de
-version: 2023-01-01
-valid_until: 2023-12-31
-version_adopted: 2023-05-31
+version: 2024-01-01
+valid_until: 2024-06-30
+version_adopted: 2023-12-06
 adopted: 2019-06-12
 in_force: 2020-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/177.42"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2692/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2738/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ R PKTG
 
 (R PKTG)
 
-vom 12.06.2019 (Stand 01.01.2023)
+vom 12.06.2019 (Stand 01.01.2024)
 
 Erlassen von der Pensionskassenkommission der Pensionskasse Thurgau.
 
@@ -31,7 +31,7 @@ Erlassen von der Pensionskassenkommission der Pensionskasse Thurgau.
 
 **Name und Zweck**
 
-<sup>1</sup> Unter dem Namen Pensionskasse Thurgau (PKTG) besteht eine selbständige öffentlich-rechtliche Anstalt des Kantons Thurgau mit Sitz in Kreuzlingen im Sinne von Art. 331 ff. des Schweizerischen Obligationenrechts (OR)[^1-1] und Art. 48 des Bundesgesetzes über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge (BVG)[^1-2].
+<sup>1</sup> Unter dem Namen Pensionskasse Thurgau (PKTG) besteht eine selbständige öffentlich-rechtliche Anstalt des Kantons Thurgau mit Sitz in Kreuzlingen bzw. ab Mai 2024 in Weinfelden im Sinne von Art. 331 ff. des Schweizerischen Obligationenrechts (OR)[^1-1] und Art. 48 des Bundesgesetzes über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge (BVG)[^1-2].
 
 <sup>2</sup> Die PKTG bezweckt die berufliche Vorsorge gemäss BVG und seinen Ausführungsbestimmungen für die bei der PKTG versicherten Personen gemäss den Bestimmungen dieses Reglements und seiner Anhänge.
 
@@ -58,7 +58,7 @@ Erlassen von der Pensionskassenkommission der Pensionskasse Thurgau.
 - 2\. die Lehrpersonen an den thurgauischen Volksschulen
 - 3\. Arbeitnehmerinnen und Arbeitnehmer von weiteren angeschlossenen Arbeitgebern (§ 1 Abs. 5)
 
-<sup>2</sup> Nicht in den Versichertenkreis aufgenommen werden Personen, die von der obligatorischen Versicherung gemäss Art. 1j der Verordnung über die berufliche Alters- und Hinterlassenen- und Invalidenvorsorge (BVV 2)[^2-1] ausgenommen sind und Personen, die das ordentliche Pensionierungsalter gemäss § 11 Abs. 1 überschritten haben.
+<sup>2</sup> Nicht in den Versichertenkreis aufgenommen werden Personen, die von der obligatorischen Versicherung gemäss Art. 1j der Verordnung über die berufliche Alters- und Hinterlassenen- und Invalidenvorsorge (BVV 2)[^2-1] ausgenommen sind und Personen, die das Referenzalter der PKTG (PK-Referenzalter) gemäss § 11 Abs. 1 überschritten haben.
 
 <sup>3</sup> Freiwillig können sich in der PKTG versichern lassen:
 
@@ -101,7 +101,7 @@ Erlassen von der Pensionskassenkommission der Pensionskasse Thurgau.
 
 <sup>1</sup> Wird der Jahreslohn einer versicherten Person nach dem Erreichen der Altersgrenze gemäss § 11 Abs. 2 um maximal die Hälfte des letzten Jahreslohnes reduziert, so kann sie verlangen, dass die berufliche Vorsorge auf dem bisherigen versicherten Jahreslohn weitergeführt wird, sofern die versicherte Person keine Teilpensionierung gemäss § 22 beantragt.
 
-<sup>2</sup> Die Weiterversicherung ist höchstens bis zum ordentlichen Pensionierungsalter möglich. Die Arbeitgeber- und die Arbeitnehmerbeiträge auf der Differenz zwischen dem reduzierten versicherten Jahreslohn und dem weiterversicherten Lohn gemäss Abs. 1 sind von der versicherten Person zu erbringen. Die Beiträge gemäss § 14 auf dem reduzierten versicherten Jahreslohn sind weiterhin durch den Arbeitgeber und die versicherte Person zu tragen.
+<sup>2</sup> Die Weiterversicherung ist höchstens bis zum PK-Referenzalter möglich. Die Arbeitgeber- und die Arbeitnehmerbeiträge auf der Differenz zwischen dem reduzierten versicherten Jahreslohn und dem weiterversicherten Lohn gemäss Abs. 1 sind von der versicherten Person zu erbringen. Die Beiträge gemäss § 14 auf dem reduzierten versicherten Jahreslohn sind weiterhin durch den Arbeitgeber und die versicherte Person zu tragen.
 
 <sup>3</sup> Bei einer Veränderung des Anstellungsverhältnisses kann diese Weiterversicherung mit einer Anmeldefrist von 25 Tagen auf den 1. eines Monats angepasst werden. Der höchste versicherte Jahreslohn nach Vollendung des 58. Altersjahres kann nicht überschritten werden.
 
@@ -123,7 +123,7 @@ Erlassen von der Pensionskassenkommission der Pensionskasse Thurgau.
 
 <sup>6</sup> Eine Anpassung von Risiko- und Sparlohn ist jeweils auf den 1. Januar möglich. Der Antrag ist bis am 30. November des Vorjahres schriftlich der Pensionskassenverwaltung einzureichen.
 
-<sup>7</sup> Die Weiterversicherung endet bei Eintritt der Vorsorgefälle Alter, Tod oder Invalidität, spätestens aber bei Erreichen des ordentlichen Pensionierungsalters. Bei Eintritt in eine neue Vorsorgeeinrichtung endet sie, wenn in der neuen Einrichtung mehr als zwei Drittel der Austrittsleistung für den Einkauf in die vollen reglementarischen Leistungen benötigt werden. Die Versicherung kann durch die versicherte Person jederzeit gekündigt werden. Die Pensionskassenverwaltung kann die Weiterversicherung kündigen, wenn Beitragsausstände der Risikoversicherung nach einmaliger Mahnung nicht innerhalb von 30 Tagen beglichen werden.
+<sup>7</sup> Die Weiterversicherung endet bei Eintritt der Vorsorgefälle Alter, Tod oder Invalidität, spätestens aber bei Erreichen des PK-Referenzalters. Bei Eintritt in eine neue Vorsorgeeinrichtung endet sie, wenn in der neuen Einrichtung mehr als zwei Drittel der Austrittsleistung für den Einkauf in die vollen reglementarischen Leistungen benötigt werden. Die Versicherung kann durch die versicherte Person jederzeit gekündigt werden. Die Pensionskassenverwaltung kann die Weiterversicherung kündigen, wenn Beitragsausstände der Risikoversicherung nach einmaliger Mahnung nicht innerhalb von 30 Tagen beglichen werden.
 
 <sup>8</sup> Hat die Weiterführung der Versicherung mehr als zwei Jahre gedauert, so müssen die Versicherungsleistungen in Rentenform bezogen und die Austrittsleistung kann nicht mehr für einen Vorbezug für Wohneigentumsförderung vorbezogen oder verpfändet werden.
 
@@ -175,11 +175,11 @@ Erlassen von der Pensionskassenkommission der Pensionskasse Thurgau.
 
 **Pensionierungsalter**
 
-<sup>1</sup> Das ordentliche Pensionierungsalter entspricht dem 65. Altersjahr. Für Angehörige des Polizeikorps ist es das 62. Altersjahr.
+<sup>1</sup> Das PK-Referenzalter entspricht dem 65. Altersjahr für Männer und Frauen. Für Angehörige des Polizeikorps ist es das 62. Altersjahr. Erfolgt eine Pensionierung mit Erreichen des PK-Referenzalters, handelt es sich um eine ordentliche Pensionierung.
 
-<sup>2</sup> Eine vorzeitige Pensionierung ist ab dem 58. Altersjahr möglich.
+<sup>2</sup> Eine Pensionierung ist frühestens ab dem vollendeten 58. Altersjahr möglich. Erfolgt eine Pensionierung vor Erreichen des PK-Referenzalters, handelt es sich um eine vorzeitige Pensionierung.
 
-<sup>3</sup> Sofern der Jahreslohn mehr als die minimale jährliche AHV-Altersrente beträgt, kann die Altersvorsorge bis zum 70. Altersjahr weitergeführt werden.
+<sup>3</sup> Sofern der Jahreslohn mehr als die minimale jährliche AHV-Altersrente beträgt, kann die Altersvorsorge bis zum 70. Altersjahr weitergeführt werden. Erfolgt eine Pensionierung nach Erreichen des PK-Referenzalters, handelt es sich um einen Rentenaufschub.
 
 ## 4. Finanzierung
 
@@ -209,7 +209,7 @@ Erlassen von der Pensionskassenkommission der Pensionskasse Thurgau.
 - 3\. dem Tod der versicherten Person
 - 4\. dem Ende des Monats, in dem die versicherte Person das 70. Altersjahr vollendet hat
 
-<sup>3</sup> Ab dem ordentlichen Pensionierungsalter kann die versicherte Person auf die Beitragspflicht verzichten. Der Verzicht ist endgültig.
+<sup>3</sup> Ab dem PK-Referenzalter kann die versicherte Person auf die Beitragspflicht verzichten. Der Verzicht ist endgültig.
 
 <sup>4</sup> Die Beiträge der versicherten Person werden durch den Arbeitgeber vom Lohn oder von Lohnersatzleistungen abgezogen und zusammen mit den Beiträgen des Arbeitgebers der PKTG überwiesen.
 
@@ -254,13 +254,13 @@ Erlassen von der Pensionskassenkommission der Pensionskasse Thurgau.
 
 <sup>1</sup> Beim Eintritt muss eine versicherte Person gemäss Art. 3 des Bundesgesetzes über die Freizügigkeit in der beruflichen Alters-, Hinterlassenen- und Invalidenvorsorge (FZG)[^16-1] sämtliche Austrittsleistungen aus früheren Vorsorgeverhältnissen (inkl. Freizügigkeitskonten und/oder -policen) in die PKTG einbringen.
 
-<sup>2</sup> Eine versicherte Person kann bis zum ordentlichen Pensionierungsalter ihre Altersleistungen erhöhen, indem sie zusätzliche Mittel auf ihr Sparguthabenkonto einzahlt.
+<sup>2</sup> Eine versicherte Person kann bis zum PK-Referenzalter ihre Altersleistungen erhöhen, indem sie zusätzliche Mittel auf ihr Sparguthabenkonto einzahlt.
 
 <sup>3</sup> Die maximale Einkaufssumme ergibt sich aus der Differenz zwischen dem effektiv vorhandenen und dem maximal möglichen Sparguthaben, berechnet auf der Basis des aktuell versicherten Jahreslohns für die Altersvorsorge.
 
 <sup>4</sup> Die maximale Einkaufssumme wird durch folgende Bezüge der versicherten Person reduziert:
 
-- 1\. das Sparguthaben, das ihr infolge Pensionierung oder Teilpensionierung verrentet oder ausbezahlt wurde
+- 1\. das Sparguthaben, das von dieser oder einer früheren Pensionskasse infolge Pensionierung oder Teilpensionierung verrentet oder ausbezahlt wurde, sofern die versicherte Person seither die Erwerbstätigkeit wieder aufgenommen oder ihren Beschäftigungsgrad wieder erhöht hat
 - 2\. ein allfälliges Guthaben der Säule 3a, soweit es die Grenze von Art. 60a Abs. 2 der Verordnung über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge (BVV 2) übersteigt
 - 3\. allfällige noch nicht eingebrachte Austrittsleistungen aus früheren Vorsorgeverhältnissen
 
@@ -325,7 +325,7 @@ Erlassen von der Pensionskassenkommission der Pensionskasse Thurgau.
 
 **Anspruch auf Altersrente**
 
-<sup>1</sup> Die versicherte Person hat die Möglichkeit, sich zwischen dem 58. und dem 70. Altersjahr pensionieren zu lassen.
+<sup>1</sup> Die versicherte Person hat die Möglichkeit, sich zwischen dem 58. und dem 70. Altersjahr pensionieren zu lassen. Vor Erreichen des AHV-Referenzalters ist eine Pensionierung nur möglich, wenn kein Arbeitsverhältnis beim angeschlossenen Arbeitgeber mehr besteht oder der Jahreslohn den Mindestlohn gemäss BVG unterschreitet.
 
 <sup>2</sup> Der Anspruch auf die Altersrente beginnt am Monatsersten nach Erreichen des Pensionierungsalters. Der Anspruch auf die Altersrente erlischt am Ende des Sterbemonats.
 
@@ -339,29 +339,31 @@ Erlassen von der Pensionskassenkommission der Pensionskasse Thurgau.
 
 <sup>1<sup>bis</sup></sup> Die maximale Höhe der jährlichen Altersrente gemäss Abs. 1 ist auf die 10fache maximale, jährliche AHV-Rente begrenzt. Wird für die Finanzierung der Altersrente nicht das gesamte Sparguthaben benötigt, ist der überschiessende Teil des Sparguthabens zwingend in Kapitalform gemäss § 23 zu beziehen.
 
-<sup>2</sup> Bezieht eine versicherte Person beim Erreichen des ordentlichen Pensionierungsalters eine Invalidenrente, wird diese durch eine Altersrente gemäss Abs. 1 ersetzt.
+<sup>2</sup> Bezieht eine versicherte Person beim Erreichen des PK-Referenzalters eine Invalidenrente, wird diese durch eine Altersrente gemäss Abs. 1 ersetzt.
 
 #### § 21
 
 **Rentenaufschub**
 
-<sup>1</sup> Falls keine Austrittsleistung gemäss § 45 Abs. 1 an eine neue Vorsorgeeinrichtung überwiesen wird, kann die versicherte Person die Ausrichtung der Altersrente aufschieben, sofern eine weitere Erwerbstätigkeit ausgeübt wird. Der Aufschub kann längstens bis zum vollendeten 70. Altersjahr erfolgen. Das Sparguthaben wird bis zum Bezug verzinst.
+<sup>1</sup> Falls keine Austrittsleistung gemäss § 45 Abs. 1 an eine neue Vorsorgeeinrichtung überwiesen wird, kann die versicherte Person die Ausrichtung der Altersrente aufschieben, sofern eine weitere Erwerbstätigkeit ausgeübt wird. Der Aufschub kann längstens bis zum vollendeten 70. Altersjahr erfolgen. Das Sparguthaben wird bis zum Bezug verzinst. Die versicherte Person kann verlangen, dass die Altersvorsorge ab dem AHV-Referenzalter beitragsfrei weitergeführt wird.
 
-<sup>2</sup> Bei einem Aufschub kann kein Anspruch auf eine Invalidenrente entstehen. Für die Bemessung der Hinterlassenenleistungen gilt die versicherte Person als Altersrentenbezüger.
+<sup>2</sup> Bei einem Aufschub kann kein Anspruch auf eine Invalidenrente entstehen. Für die Bemessung der Hinterlassenenleistungen gilt die versicherte Person als Altersrentenbezüger. Die Hinterlassenenleistungen werden auf Basis des im Todeszeitpunkt in eine Altersrente umgewandelten Sparguthabens ermittelt.
 
 #### § 22
 
 **Teilpensionierung**
 
-<sup>1</sup> Eine Teilpensionierung kann frühestens ab dem vollendeten 58. Altersjahr und höchstens in drei Schritten erfolgen. Die ersten beiden Pensionierungsschritte setzen eine Reduktion von je mindestens 20 % des höchsten versicherten Jahreslohnes seit Alter 58 voraus. Die Teilpensionierung erfolgt höchstens im Umfang der prozentualen Reduktion des Jahreslohnes.
+<sup>1</sup> Eine Teilpensionierung kann frühestens ab dem vollendeten 58. Altersjahr und höchstens in drei Schritten erfolgen. Beim ersten Teilpensionierungsschritt muss mindestens ein Anteil von 20 % der Altersleistung auf Basis des höchsten Jahreslohnes seit Alter 58 bezogen werden. Bei einer Teilpensionierung darf der Anteil der bezogenen Altersleistung nicht höher sein als der Anteil der Lohnreduktion.
 
-<sup>2</sup> Massgebend für die Bestimmung der Leistungen ist der entsprechende Teil des Sparguthabens bei der Teilpensionierung.
+<sup>1<sup>bis</sup></sup> Führt ein Teilpensionierungsschritt vor Erreichen des PK-Referenzalters dazu, dass der verbleibende Jahreslohn unter die Eintrittsschwelle gemäss § 2 fällt, entsteht der Anspruch auf die verbleibende Austrittsleistung gemäss § 45 bis § 47 oder die versicherte Person wählt den Bezug der ganzen Altersleistung. Hat die versicherte Person das PK-Referenzalter erreicht und fällt der verbleibende Jahreslohn aufgrund der Teilpensionierung unter die Eintrittsschwelle, wird die gesamte Altersleistung fällig
+
+<sup>2</sup> Massgebend für die Bestimmung der Leistungen ist der Teilpensionierungsgrad. Der Teilpensionierungsgrad bestimmt sich aus dem Verhältnis zwischen dem Sparguthaben, das der bezogenen Altersleistung entspricht, und dem Sparguthaben vor der Teilpensionierung. Die versicherte Person gilt im Umfang des Teilpensionierungsgrades als Altersrentner. Für den verbleibenden Teil gilt die versicherte Person weiterhin als aktive versicherte Person.
 
 <sup>3</sup> Verlangt die versicherte Person die Teilpensionierung, kann sie nicht von der Weiterversicherung gemäss § 6 Gebrauch machen.
 
-<sup>4</sup> Eine allfällige Kapitalauszahlung gemäss § 23 wird bei jedem Pensionierungsschritt im Verhältnis zum verrenteten Sparguthaben vollzogen.
+<sup>4</sup> Bei jedem Teilpensionierungsschritt können die Altersleistungen im Umfang des Teilpensionierungsgrads ganz oder teilweise als Altersrente gemäss § 19 oder in Kapitalform gemäss § 23 bezogen werden; für jeden Teilpensionierungsschritt ist ein neuer Antrag zu stellen.
 
-<sup>5</sup> Eine Teilpensionierung bei einem Rentenaufschub kann in höchstens drei Schritten erfolgen. Die ersten beiden Pensionierungsschritte setzen eine Reduktion von je mindestens 20 % des Sparguthabens beim Beginn des Rentenaufschubes voraus.
+<sup>5</sup> …
 
 #### § 23
 
@@ -375,7 +377,7 @@ Erlassen von der Pensionskassenkommission der Pensionskasse Thurgau.
 
 <sup>4</sup> Bei verheirateten, in eingetragener Partnerschaft oder bei der PKTG angemeldeter Lebensgemeinschaft lebenden versicherten Personen ist die Kapitalauszahlung nur zulässig, wenn die Ehegattin oder der Ehegatte beziehungsweise die Partnerin oder der Partner schriftlich zustimmt.
 
-<sup>5</sup> Wird unmittelbar vor der Pensionierung eine Invalidenrente ausgerichtet, ist der Kapitalbezug nur möglich, falls die Bezügerin oder der Bezüger der Invalidenrente die Erklärung für den Kapitalbezug mindestens drei Monate vor dem ordentlichen Pensionierungsalter abgegeben hat.
+<sup>5</sup> Wird unmittelbar vor der Pensionierung eine Invalidenrente ausgerichtet, ist der Kapitalbezug nur möglich, falls die Bezügerin oder der Bezüger der Invalidenrente die Erklärung für den Kapitalbezug mindestens drei Monate vor dem PK-Referenzalter abgegeben hat.
 
 <sup>6</sup> Die versicherten anwartschaftlichen Leistungen bemessen sich an der gekürzten Altersrente.
 
@@ -385,11 +387,11 @@ Erlassen von der Pensionskassenkommission der Pensionskasse Thurgau.
 
 **Anspruch auf Überbrückungsrente**
 
-<sup>1</sup> Bei einer vorzeitigen Pensionierung kann die versicherte Person eine Überbrückungsrente beziehen, die ihr längstens bis zum ordentlichen AHV-Referenzalter ausbezahlt wird.
+<sup>1</sup> Bei einer vorzeitigen Pensionierung kann die versicherte Person eine Überbrückungsrente beziehen, die ihr längstens bis zum AHV-Referenzalter ausbezahlt wird.
 
-<sup>2</sup> Die Überbrückungsrente endet spätestens mit dem Erreichen des ordentlichen AHV-Referenzalter.
+<sup>2</sup> …
 
-<sup>3</sup> Beim Tod der Altersrentenbezügerin oder des Altersrentenbezügers vor dem ordentlichen AHV-Referenzalter wird die Überbrückungsrente bis zum Ende des Monats, in dem die verstorbene versicherte Person die Auszahlung verlangt hat, an die Hinterlassenen ausgerichtet. Anspruch haben die Hinterlassenen gemäss der Rangfolge in § 41 Abs. 1 Ziff. 1 bis Ziff. 6.
+<sup>3</sup> Beim Tod der Altersrentenbezügerin oder des Altersrentenbezügers vor dem AHV-Referenzalter wird die Überbrückungsrente bis zum Ende des Monats, in dem die verstorbene versicherte Person die Auszahlung verlangt hat, an die Hinterlassenen ausgerichtet. Anspruch haben die Hinterlassenen gemäss der Rangfolge in § 41 Abs. 1 Ziff. 1 bis Ziff. 6.
 
 <sup>4</sup> Bei einer vorzeitigen Pensionierung können Angehörige des Polizeikorps eine Überbrückungsrente beziehen, die ihnen längstens bis zum vollendeten 62. Altersjahr ausbezahlt wird.
 
@@ -437,15 +439,17 @@ Erlassen von der Pensionskassenkommission der Pensionskasse Thurgau.
 
 **Anspruch auf Zusatzrente**
 
-<sup>1</sup> Versicherte, die am 31. Dezember 2019 Mitglied der PKTG sind, haben Anspruch auf die Zusatzrente.
+<sup>1</sup> Versicherte, die am 31. Dezember 2019 Mitglied der PKTG sind, haben bis Ende des Jahres 2029 Anspruch auf die Zusatzrente.
 
-<sup>2</sup> Eine Zusatzrente wird ab dem Monatsersten nach Vollendung des 63. Altersjahres ausgerichtet, die entsprechenden Voraussetzungen erfüllt sind und Antrag auf Bezug einer Zusatzrente gestellt wurde. Die Zusatzrente wird bis zum Erreichen des ordentlichen AHV-Referenzalters ausbezahlt, sofern keine Renten der IV ausgerichtet werden.
+<sup>2</sup> Eine Zusatzrente wird ab dem Monatsersten nach Vollendung des 63. Altersjahres ausgerichtet, die entsprechenden Voraussetzungen erfüllt sind und Antrag auf Bezug einer Zusatzrente gestellt wurde. Die Zusatzrente wird bis zum Erreichen des AHV-Referenzalters ausbezahlt, sofern keine Renten der IV ausgerichtet werden.
+
+<sup>3</sup> Zusatzrenten, auf welche bis Ende des Jahres 2029 Anspruch besteht, werden über das Jahr 2029 hinaus bis zum Erreichen des AHV-Rentenalters ausbezahlt.
 
 #### § 30
 
 **Höhe der Zusatzrente**
 
-<sup>1</sup> Die Höhe der ungekürzten Zusatzrente richtet sich nach den entsprechenden Berechnungstabellen.
+<sup>1</sup> Die Höhe der ungekürzten Zusatzrente richtet sich nach den entsprechenden Berechnungstabellen gemäss Anhang 7.
 
 <sup>2</sup> Bei Teilzeitbeschäftigten wird die Zusatzrente entsprechend dem durchschnittlichen Beschäftigungsgrad zwischen dem 57. und 60. Altersjahr berechnet. Bei einer Pensionierung vor dem 60. Altersjahr erfolgt die Berechnung aufgrund der letzten drei Jahre vor der Pensionierung. Bei einem Eintritt nach dem 57. Altersjahr erfolgt die Berechnung aufgrund der drei Jahre nach dem Eintritt.
 
@@ -465,7 +469,7 @@ Erlassen von der Pensionskassenkommission der Pensionskasse Thurgau.
 
 <sup>2</sup> Die Invalidenrente wird nach Ablauf der Zahlungen oder der Ansprüche auf Lohn und Krankentaggeld ausgerichtet.
 
-<sup>3</sup> Der Anspruch auf die Invalidenrente erlischt, wenn der Invaliditätsgrad unter 40 % fällt und sich in dem nach Art. 17 Abs. 1 ATSG festgelegten Ausmass ändert, die versicherte Person stirbt oder das ordentliche Pensionierungsalter erreicht wird. Nach Erreichen des ordentlichen Pensionierungsalters wird die Invalidenrente durch die Altersrente gemäss § 20 Abs. 2 abgelöst.
+<sup>3</sup> Der Anspruch auf die Invalidenrente erlischt, wenn der Invaliditätsgrad unter 40 % fällt und sich in dem nach Art. 17 Abs. 1 ATSG festgelegten Ausmass ändert, die versicherte Person stirbt oder das PK-Referenzalter erreicht wird. Nach Erreichen des PK-Referenzalters wird die Invalidenrente durch die Altersrente gemäss § 20 Abs. 2 abgelöst.
 
 #### § 32
 
@@ -518,11 +522,11 @@ Erlassen von der Pensionskassenkommission der Pensionskasse Thurgau.
 
 **Höhe der Ehegattenrente**
 
-<sup>1</sup> Die jährliche Ehegattenrente beträgt bis zum Ende des Monats, in dem der verstorbene Versicherte das ordentliche Pensionierungsalter vollendet hätte, 42 % des versicherten Jahreslohnes.
+<sup>1</sup> Die jährliche Ehegattenrente beträgt bis zum Ende des Monats, in dem der verstorbene Versicherte das PK-Referenzalter vollendet hätte, 42 % des versicherten Jahreslohnes.
 
 <sup>2</sup> Bei Teilzeitbeschäftigten mit schwankendem Jahreslohn wird auf den durchschnittlichen Jahreslohn der drei dem Versicherungsereignis vorausgehenden Jahre abgestellt.
 
-<sup>3</sup> Nach diesem Zeitpunkt beträgt die jährliche Ehegattenrente 70 % der versicherten oder laufenden Altersrente. Für die Bestimmung der versicherten Altersrente wird das Sparguthaben des verstorbenen Versicherten um die bis zum ordentlichen Pensionierungsalter möglichen Spargutschriften, berechnet auf der letzten versicherten Jahresbesoldung, ohne Zins ergänzt.
+<sup>3</sup> Nach diesem Zeitpunkt beträgt die jährliche Ehegattenrente 70 % der versicherten oder laufenden Altersrente. Für die Bestimmung der versicherten Altersrente wird das Sparguthaben des verstorbenen Versicherten um die bis zum PK-Referenzalter möglichen Spargutschriften, berechnet auf der letzten versicherten Jahresbesoldung, ohne Zins ergänzt.
 
 <sup>4</sup> Bei Bezügern einer Altersrente mit Rentenbeginn vor dem 1. Januar 2020 beträgt die Höhe der Ehegattenrente 60 % der laufenden Altersrente.
 
@@ -538,7 +542,7 @@ Erlassen von der Pensionskassenkommission der Pensionskasse Thurgau.
 
 - 1\. Beide Lebenspartner sind unverheiratet
 - 2\. die beiden Lebenspartner sind nicht im Sinne von Art. 95 ZGB[^37-1] miteinander verwandt
-- 3\. die Anmeldung hat zu Lebzeiten der beiden Lebenspartner und vor dem letzten Pensionierungsschritt zu erfolgen. Die Lebenspartnerschaft kann auch rückwirkend von verheirateten Personen angemeldet werden, damit die Jahre in Lebenspartnerschaft angerechnet werden. Es kann nur ein Lebenspartner angemeldet werden. Die Anmeldung hat mit dem von beiden Lebenspartnern unterschriebenen Formular der Pensionskasse zu erfolgen. Die Pensionskassenverwaltung bestätigt den Eingang der Unterlagen. Sie überprüft im Leistungfall, ob die Anspruchsvoraussetzungen gemäss den eingereichten Unterlagen gegeben sind. Der Versicherte, Alters- oder Invalidenrentner hat eine allfällige Auflösung der Lebenspartnerschaft der Pensionskassenverwaltung umgehend schriftlich zu melden.
+- 3\. die Anmeldung hat zu Lebzeiten der beiden Lebenspartner und vor dem letzten Pensionierungsschritt zu erfolgen. Die Lebenspartnerschaft kann auch rückwirkend von verheirateten Personen angemeldet werden, damit die Jahre in Lebenspartnerschaft angerechnet werden. Es kann nur ein Lebenspartner angemeldet werden. Die Anmeldung hat mit dem von beiden Lebenspartnern unterschriebenen Formular der Pensionskasse zu erfolgen. Die Pensionskassenverwaltung bestätigt den Eingang der Unterlagen. Sie überprüft im Leistungsfall, ob die Anspruchsvoraussetzungen gemäss den eingereichten Unterlagen gegeben sind. Der Versicherte, Alters- oder Invalidenrentner hat eine allfällige Auflösung der Lebenspartnerschaft der Pensionskassenverwaltung umgehend schriftlich zu melden.
 
 <sup>2</sup> Stirbt eine unverheiratete versicherte Person oder eine Person mit Alters- oder Invalidenrente, so hat der überlebende Lebenspartner oder die überlebende Lebenspartnerin Anspruch auf eine Lebenspartnerrente, sofern im Zeitpunkt des Todes, zusätzlich zu den unter Abs. 1 genannten Voraussetzungen, mindestens eine der folgenden Bedingungen erfüllt ist:
 
@@ -660,11 +664,11 @@ Erlassen von der Pensionskassenkommission der Pensionskasse Thurgau.
 
 <sup>1</sup> Wird bei einem Scheidungsurteil eines Schweizer Gerichts, ein Teil der Austrittsleistung einer versicherten Person oder einer Invalidenrentnerin oder eines Invalidenrentners auf die Vorsorge- beziehungsweise Freizügigkeitseinrichtung des geschiedenen Ehegatten oder direkt an den geschiedenen Ehegatten übertragen, wird das Sparguthaben des verpflichteten Ehegatten entsprechend reduziert.
 
-<sup>2</sup> Bezieht der verpflichtete Ehegatte eine Altersrente oder eine lebenslange Invalidenrente nach dem ordentlichen Pensionierungsalter, reduziert sich die laufende Rente um den dem berechtigten Ehegatten gemäss dem Gericht zugesprochenen Rententeil.
+<sup>2</sup> Bezieht der verpflichtete Ehegatte eine Altersrente oder eine lebenslange Invalidenrente nach dem PK-Referenzalter, reduziert sich die laufende Rente um den dem berechtigten Ehegatten gemäss dem Gericht zugesprochenen Rententeil.
 
 <sup>3</sup> Allfällige Pensionierten-Kinderrenten werden in unveränderter Höhe ausgerichtet.
 
-<sup>4</sup> Tritt bei der versicherten Person während des Scheidungsverfahrens der Vorsorgefall Alter ein oder erreicht die Invalidenrentnerin oder der Invalidenrentner während des Scheidungsverfahrens das ordentliche Pensionierungsalter, so werden der zu übertragende Teil der Austrittsleistung und die Rente gemäss Art. 19g FZV[^48-1] gekürzt.
+<sup>4</sup> Tritt bei der versicherten Person während des Scheidungsverfahrens der Vorsorgefall Alter ein oder erreicht die Invalidenrentnerin oder der Invalidenrentner während des Scheidungsverfahrens das PK-Referenzalter, so werden der zu übertragende Teil der Austrittsleistung und die Rente gemäss Art. 19g FZV[^48-1] gekürzt.
 
 <sup>5</sup> Wird bei einer Scheidung eine Altersrente geteilt, die gemäss § 52 Abs. 1 gekürzt werden kann, so wird der Rentenanteil, der dem berechtigten Ehegatten zugesprochen wurde, bei der Berechnung einer allfälligen Kürzung der Altersrente des verpflichteten Ehegatten weiterhin angerechnet.
 
@@ -688,7 +692,7 @@ Erlassen von der Pensionskassenkommission der Pensionskasse Thurgau.
 
 <sup>3</sup> Bei einem Vorbezug werden die vorhandenen Sparguthaben reduziert, wobei das Altersguthaben gemäss BVG proportional reduziert wird. Bei einer Rückzahlung werden die vorhandenen Sparguthaben erhöht, wobei die einbezahlten Beträge im gleichen Verhältnis wie bei der Belastung dem Altersguthaben gemäss BVG zugeordnet werden.
 
-<sup>3<sup>bis</sup></sup> Die Rückzahlung eines Vorbezugs für Wohneigentumsförderung ist bis zum Eintritt eines Vorsorgefalles, längstens jedoch bis zum Erreichen des ordentlichen Pensionierungsalters zulässig.
+<sup>3<sup>bis</sup></sup> Die Rückzahlung eines Vorbezugs für Wohneigentumsförderung ist bis zum Eintritt eines Vorsorgefalles, längstens jedoch bis zum Erreichen des PK-Referenzalters zulässig.
 
 <sup>4</sup> Alle Gebühren und Spesen gehen zu Lasten des Vorbezügers. Insbesondere ist mit der Gesuchstellung eine Bearbeitungspauschale in der von der Pensionskassenkommission festgelegten Höhe zu entrichten.
 
@@ -916,7 +920,7 @@ Erlassen von der Pensionskassenkommission der Pensionskasse Thurgau.
 
 <sup>1</sup> Die Pensionskassenkommission ist das oberste Organ der PKTG. Sie nimmt insbesondere die unübertragbaren und unentziehbaren Aufgaben gemäss Art. 51a Abs. 2 BVG wahr. Sie ist befugt, in wichtigen Kassenangelegenheiten Experten und Expertinnen zur Beratung beizuziehen.
 
-<sup>2</sup> Die Pensionskassenkommission setzt sich aus zwölf Mitgliedern zusammen. Arbeitnehmer und Arbeitgeber sind zu gleichen Teilen vertreten. Die Gruppierungen gemäss § 2 sind, soweit möglich, zu berücksichtigen. Die Zugehörigkeit zum Kreis der Versicherten gemäss § 2 ist nicht erforderlich.
+<sup>2</sup> Die Pensionskassenkommission setzt sich aus mindestens acht Mitgliedern zusammen. Arbeitnehmer und Arbeitgeber sind zu gleichen Teilen vertreten. Die Gruppierungen gemäss § 2 sind, soweit möglich, zu berücksichtigen. Die Zugehörigkeit zum Kreis der Versicherten gemäss § 2 ist nicht erforderlich.
 
 <sup>3</sup> Die Arbeitgebervertreter werden durch die Arbeitgeber bestimmt.
 
@@ -925,7 +929,7 @@ Erlassen von der Pensionskassenkommission der Pensionskasse Thurgau.
 - 1\. Die Nomination erfolgt durch die Verbände personalthurgau und Bildung Thurgau
 - 2\. Die Wahl bedarf einer Mehrheit der an der Delegiertenversammlung anwesenden Arbeitnehmer-Delegierten
 
-<sup>5</sup> Die Amtsdauer beträgt vier Jahre, maximal bis zum ordentlichen Pensionierungsalter gemäss § 11. Die Wiederwahl ist möglich.
+<sup>5</sup> Die Amtsdauer beträgt vier Jahre, maximal bis zum PK-Referenzalter gemäss § 11. Die Wiederwahl ist möglich.
 
 <sup>6</sup> Die Pensionskassenkommission konstituiert sich selbst. Sie bestimmt jeweils für zwei Jahre eine Präsidentin oder einen Präsidenten, eine Vizepräsidentin oder einen Vizepräsidenten und weitere zeichnungsberechtigte Mitglieder. Die Wiederwahl ist möglich.
 
@@ -933,9 +937,9 @@ Erlassen von der Pensionskassenkommission der Pensionskasse Thurgau.
 
 **Beschlussfassung und Delegation**
 
-<sup>1</sup> Die Pensionskassenkommission fasst ihre Beschlüsse mit dem einfachen Mehr der abgegebenen Stimmen. Änderungen dieses Reglements erfordern die Zustimmung von zwei Dritteln der anwesenden Mitglieder. Sie ist beschlussfähig, wenn mindestens neun Mitglieder anwesend sind.
+<sup>1</sup> Die Pensionskassenkommission fasst ihre Beschlüsse mit dem einfachen Mehr der abgegebenen Stimmen. Änderungen dieses Reglements erfordern die Zustimmung von zwei Dritteln der anwesenden Mitglieder. Sie ist beschlussfähig, wenn mindestens zwei Drittel der Mitglieder anwesend sind.
 
-<sup>2</sup> In dringenden Fällen kann die Pensionskassenkommission auf dem Zirkularweg Beschluss fassen. In diesem Fall gilt der Antrag als angenommen, wenn mindestens neun Mitglieder an der Abstimmung teilnehmen und sieben oder mehr Mitglieder dem Antrag zustimmen.
+<sup>2</sup> In dringenden Fällen kann die Pensionskassenkommission auf dem Zirkularweg Beschluss fassen. In diesem Fall gilt der Antrag als angenommen, wenn mindestens zwei Drittel an der Abstimmung teilnehmen und die Mehrheit der Mitglieder dem Antrag zustimmt.
 
 <sup>3</sup> Die Pensionskassenkommission kann übertragbare Aufgaben auf spezielle Ausschüsse übertragen.
 
