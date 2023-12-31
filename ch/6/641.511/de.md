@@ -4,11 +4,11 @@ title: Automobilsteuerverordnung vom 20. November 1996 (AStV)
 short: AStV
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/3058_3058_3058"
 language: de
-version: 2022-01-01
+version: 2024-01-01
 adopted: 1996-11-20
 in_force: 1997-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/3058_3058_3058/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1996-3058_3058_3058-20220101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/3058_3058_3058/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/3058_3058_3058/20240101/de/xml/fedlex-data-admin-ch-eli-cc-1996-3058_3058_3058-20240101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/3058_3058_3058/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1996/3058_3058_3058/20220101/de"
 
 (AStV)
 
-vom 20. November 1996 (Stand am 1. Januar 2022)
+vom 20. November 1996 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -46,24 +46,26 @@ Von der Steuer befreit ist die Einfuhr von:
 
 - b. Motorkarren nach Artikel 11 Absatz 2 Buchstabe g der Verordnung vom 19. Juni 1995[^1-1] über die technischen Anforderungen an Strassenfahrzeuge;
 - c. Automobilen, die der Schwerverkehrsabgabe unterliegen;
-- d. Elektro-Automobilen;
+- d.[^1-2] …
 - e. Automobilen, die zur vorübergehenden Ausfuhr abgefertigt worden sind;
 - f. Automobilen, die aus dem freien inländischen Verkehr ausgeführt worden sind und unverändert wieder eingeführt werden, sofern sie nicht wegen der Ausfuhr von der Steuer befreit worden sind oder sofern die Steuer bei der Ausfuhr nicht rückerstattet worden ist.
 
-<sup>2</sup> Unterliegt das Automobil bei der Einfuhr der provisorischen Veranlagung, ist es Gegenstand des Zolllagerverfahrens oder des Verfahrens der vorübergehenden Verwendung oder wird es in einem Zollfreilager eingelagert (Art. 39, 50 ff., 58 oder 62 ff. des Zollgesetzes vom 18. März 2005[^1-2], ZG), so entfällt die Pflicht zur Bezahlung der Steuer. Die Steuerbehörde kann verlangen, dass der Steuerbetrag sichergestellt wird.[^1-3]
+<sup>2</sup> Unterliegt das Automobil bei der Einfuhr der provisorischen Veranlagung, ist es Gegenstand des Zolllagerverfahrens oder des Verfahrens der vorübergehenden Verwendung oder wird es in einem Zollfreilager eingelagert (Art. 39, 50 ff., 58 oder 62 ff. des Zollgesetzes vom 18. März 2005[^1-3], ZG), so entfällt die Pflicht zur Bezahlung der Steuer. Die Steuerbehörde kann verlangen, dass der Steuerbetrag sichergestellt wird.[^1-4]
 
 <sup>3</sup>
 
 Bei der Herstellung im Inland ist von der Steuer befreit:
 
-- a. die Lieferung oder der Eigengebrauch von Automobilen nach Absatz 1 Buchstaben a Ziffern 2–4 und b–d;
-- b. die Lieferung von Automobilen (mit Ausnahme der Überlassung zum Gebrauch oder zur Nutzung), die nachweislich direkt ins Ausland ausgeführt werden.
+- a. die Lieferung oder der Eigengebrauch von Automobilen nach Absatz 1 Buchstaben a Ziffern 2–4 sowie b und c;
+- b. die Lieferung von Automobilen, die nachweislich direkt ins Ausland ausgeführt werden; nicht von der Steuer befreit ist die Überlassung von Automobilen zum Gebrauch oder zur Nutzung, die nachweislich direkt ins Ausland ausgeführt werden.[^1-5]
 
 <sup>4</sup> Direkte Ausfuhr im Sinne von Absatz 3 Buchstabe b liegt vor, wenn das Automobil von der steuerpflichtigen Person selbst oder von ihrem Abnehmer ins Ausland befördert oder versandt wird, ohne dass dieser das Automobil im Inland in Gebrauch genommen oder im Inland im Rahmen eines Liefergeschäfts einer Drittperson übergeben hat. Das Automobil kann von Beauftragten des Abnehmers vor der Ausfuhr bearbeitet werden.
 
 [^1-1]: [SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
-[^1-2]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^1-3]: Fassung gemäss Anhang 4 Ziff. 28 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^1-2]: Aufgehoben durch Ziff. I der V vom 8. Nov. 2023, mit Wirkung seit 1. Jan. 2024 ([AS 2023 651](https://fedlex.data.admin.ch/eli/oc/2023/651)).
+[^1-3]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^1-4]: Fassung gemäss Anhang 4 Ziff. 28 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^1-5]: Fassung gemäss Ziff. I der V vom 8. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 651](https://fedlex.data.admin.ch/eli/oc/2023/651)).
 
 #### Art. 2
 
@@ -165,11 +167,11 @@ Die folgenden Bundesratsbeschlüsse werden aufgehoben:
 - a. Bundesratsbeschluss vom 18. November 1952[^annexu1-lvlu1-lvl1-1] betreffend die Automobilmontage;
 - b. Bundesratsbeschluss vom 16. Juli 1929[^annexu1-lvlu1-lvl1-2] betreffend die Verzollung von Krankenautomobilen und dergleichen Fahrzeuge zum niedrigsten Zollansatz.
 
-[^annexu1-lvlu1-lvl1-1]: [[AS 1952 913](https://fedlex.data.admin.ch/eli/oc/1952/913_933_929), **1959** 1637, [1974 894](https://fedlex.data.admin.ch/eli/oc/1974/894_894_894), **1987** 2346]
+[^annexu1-lvlu1-lvl1-1]: [[AS 1952 913](https://fedlex.data.admin.ch/eli/oc/1952/913_933_929); **1959** 1637; [1974 894](https://fedlex.data.admin.ch/eli/oc/1974/894_894_894); **1987** 2346]
 [^annexu1-lvlu1-lvl1-2]: In der AS nicht veröffentlicht.
 
-### 2.–5. …****
+### 2.–5. …
 
-[^annexu1-lvlu1-lvlu2-1]
+[^annexu1-lvlu1-lvl2-1]
 
-[^annexu1-lvlu1-lvlu2-1]: Die Änderungen können unter [AS 1996 3058](https://fedlex.data.admin.ch/eli/oc/1996/3058_3058_3058)konsultiert werden.
+[^annexu1-lvlu1-lvl2-1]: Die Änderungen können unter [AS 1996 3058](https://fedlex.data.admin.ch/eli/oc/1996/3058_3058_3058)konsultiert werden.

@@ -4,11 +4,11 @@ title: "Ordonnance du 20 novembre 1996 sur l'imposition des véhicules automobil
 short: Oimpauto
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/3058_3058_3058"
 language: fr
-version: 2022-01-01
+version: 2024-01-01
 adopted: 1996-11-20
 in_force: 1997-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/3058_3058_3058/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1996-3058_3058_3058-20220101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/3058_3058_3058/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/3058_3058_3058/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-1996-3058_3058_3058-20240101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/3058_3058_3058/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1996/3058_3058_3058/20220101/fr"
 
 (Oimpauto)
 
-du 20 novembre 1996 (Etat le 1<sup>er</sup> janvier 2022)
+du 20 novembre 1996 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -46,24 +46,26 @@ Est exonérée de l’impôt l’importation:
 
 - b. de chariots à moteur au sens de l’art. 11, al. 2, let. g, de l’ordonnance du 19 juin 1995[^1-1] concernant les exigences techniques requises pour les véhicules routiers;
 - c. de véhicules automobiles passibles de la redevance sur le trafic des poids lourds;
-- d. de véhicules automobiles électriques;
+- d.[^1-2] ...
 - e. de véhicules automobiles dédouanés temporairement à l’exportation;
 - f. de véhicules automobiles en libre pratique, exportés puis réimportés en l’état, pour autant qu’ils n’aient pas été exonérés de l’impôt du fait de l’exportation ou que l’impôt n’ait pas été remboursé lors de l’exportation.
 
-<sup>2</sup> Si, lors de l’importation, le véhicule automobile fait l’objet d’une taxation provisoire ou d’un placement sous le régime de l’entrepôt douanier ou de l’admission temporaire, ou s’il est entreposé dans un dépôt franc sous douane (art. 39, 50 ss, 58 ou 62 ss de la loi du 18 mars 2005 sur les douanes, LD[^1-2]), l’obligation de payer le montant d’impôt est suspendue. L’autorité fiscale peut exiger que le montant d’impôt soit garanti.[^1-3]
+<sup>2</sup> Si, lors de l’importation, le véhicule automobile fait l’objet d’une taxation provisoire ou d’un placement sous le régime de l’entrepôt douanier ou de l’admission temporaire, ou s’il est entreposé dans un dépôt franc sous douane (art. 39, 50 ss, 58 ou 62 ss de la loi du 18 mars 2005 sur les douanes, LD[^1-3]), l’obligation de payer le montant d’impôt est suspendue. L’autorité fiscale peut exiger que le montant d’impôt soit garanti.[^1-4]
 
 <sup>3</sup>
 
 Sont exonérées de l’impôt en cas de fabrication en Suisse:
 
-- a. la livraison ou l’utilisation en propre de véhicules automobiles visés à l’al. 1, let. a, ch. 2 à 4, let. b, c et d;
-- b. la livraison de véhicules automobiles (à l’exclusion de la mise à disposition à des fins d’usage ou de jouissance) dont il est prouvé qu’ils seront transportés ou expédiés directement à l’étranger.
+- a. la livraison ou l’utilisation en propre de véhicules automobiles visés à l’al. 1, let. a, ch. 2 à 4, let. b et c;
+- b. la livraison de véhicules automobiles dont il est prouvé qu’ils seront transportés ou expédiés directement à l’étranger; n’est pas exonérée de l’impôt la mise à disposition de véhicules automobiles à des fins d’usage ou de jouissance dont il est prouvé qu’ils seront transportés ou expédiés directement à l’étranger.[^1-5]
 
 <sup>4</sup> Il y a exportation directe au sens de l’al. 3, let. b, lorsque le véhicule automobile est transporté ou expédié à l’étranger soit par la personne assujettie à l’impôt elle-même, soit par l’acquéreur, sans que celui-ci ait auparavant utilisé le véhicule automobile sur le territoire suisse ni qu’il l’ait remis à un tiers sur le territoire suisse dans le cadre d’un contrat entraînant une livraison. Le véhicule automobile peut, avant l’exportation, avoir été façonné par des mandataires de l’acquéreur.
 
 [^1-1]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
-[^1-2]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^1-3]: Nouvelle teneur selon l’annexe 4 ch. 28 de l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^1-2]: Abrogée par le ch. I de l’O du 8 nov. 2023, avec effet au 1<sup>er</sup> janv. 2024 ([RO 2023 651](https://fedlex.data.admin.ch/eli/oc/2023/651)).
+[^1-3]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^1-4]: Nouvelle teneur selon l’annexe 4 ch. 28 de l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^1-5]: Nouvelle teneur selon le ch. I de l’O du 8 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 651](https://fedlex.data.admin.ch/eli/oc/2023/651)).
 
 #### Art. 2
 
@@ -168,8 +170,8 @@ Sont abrogés:
 [^annexu1-lvlu1-lvl1-1]: [[RO 1952 933](https://fedlex.data.admin.ch/eli/oc/1952/913_933_929); **1959** 1690; [1974 894](https://fedlex.data.admin.ch/eli/oc/1974/894_894_894); **1987** 2345]
 [^annexu1-lvlu1-lvl1-2]: Non publié au RO
 
-### 2. à 5. …****
+### 2. à 5. …
 
-[^annexu1-lvlu1-lvlu2-1]
+[^annexu1-lvlu1-lvl2-1]
 
-[^annexu1-lvlu1-lvlu2-1]: Les mod. peuvent être consultées au [RO 1996 3058](https://fedlex.data.admin.ch/eli/oc/1996/3058_3058_3058).
+[^annexu1-lvlu1-lvl2-1]: Les mod. peuvent être consultées au [RO 1996 3058](https://fedlex.data.admin.ch/eli/oc/1996/3058_3058_3058).

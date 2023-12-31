@@ -4,11 +4,11 @@ title: "Ordinanza del 20 novembre 1996 sull'imposizione degli autoveicoli (OIAut
 short: OIAut
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/3058_3058_3058"
 language: it
-version: 2022-01-01
+version: 2024-01-01
 adopted: 1996-11-20
 in_force: 1997-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/3058_3058_3058/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1996-3058_3058_3058-20220101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/3058_3058_3058/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/3058_3058_3058/20240101/it/xml/fedlex-data-admin-ch-eli-cc-1996-3058_3058_3058-20240101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/3058_3058_3058/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1996/3058_3058_3058/20220101/it"
 
 (OIAut)
 
-del 20 novembre 1996 (Stato 1° gennaio 2022)
+del 20 novembre 1996 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -46,24 +46,26 @@ ordina:
 
 - b. carri con motore secondo l’articolo 11 capoverso 2 lettera g dell’ordinanza del 19 giugno 1995[^1-1] concernente le esigenze tecniche per i veicoli stradali;
 - c. autoveicoli soggetti alla tassa sul traffico pesante;
-- d. autoveicoli elettrici;
+- d.[^1-2] ...
 - e. autoveicoli sdoganati temporaneamente all’esportazione;
 - f. autoveicoli in libera pratica, esportati indi reimportati intatti, sempre che non siano stati esonerati dall’imposta per effetto dell’esportazione o l’imposta non sia stata rimborsata all’atto dell’esportazione.
 
-<sup>2</sup> Se all’atto dell’importazione l’autoveicolo è sottoposto all’imposizione provvisoria, sottostà al regime di deposito doganale, al regime dell’ammissione temporanea o è immagazzinato in un deposito franco doganale (art. 39, 50 e segg., 58 o 62 e segg. della L del 18 mar. 2005[^1-2] sulle dogane, LD), l’obbligo di pagare l’imposta decade. L’autorità fiscale può esigere la garanzia dell’importo d’imposta.[^1-3]
+<sup>2</sup> Se all’atto dell’importazione l’autoveicolo è sottoposto all’imposizione provvisoria, sottostà al regime di deposito doganale, al regime dell’ammissione temporanea o è immagazzinato in un deposito franco doganale (art. 39, 50 e segg., 58 o 62 e segg. della L del 18 mar. 2005[^1-3] sulle dogane, LD), l’obbligo di pagare l’imposta decade. L’autorità fiscale può esigere la garanzia dell’importo d’imposta.[^1-4]
 
 <sup>3</sup>
 
 In caso di fabbricazione in Svizzera sono esenti da imposta:
 
-- a. la fornitura o l’uso proprio di autoveicoli di cui al capoverso 1 lettere a numeri 2–4 e b–d;
-- b. la fornitura di autoveicoli (eccettuata la messa a disposizione per l’uso o il godimento) dei quali è comprovata l’esportazione diretta all’estero.
+- a. la fornitura o l’uso proprio di autoveicoli di cui al capoverso 1 lettere a numeri 2–4 nonché b e c;
+- b. la fornitura di autoveicoli dei quali è comprovata l’esportazione diretta all’estero; non è esente da imposta la messa a disposizione per l’uso o il godimento di autoveicoli dei quali è comprovata l’esportazione diretta all’estero.[^1-5]
 
 <sup>4</sup> V’è esportazione diretta giusta il capoverso 3 lettera b quando l’autoveicolo è condotto o spedito all’estero dalla persona assoggettata all’imposta o dall’acquirente, senza che quest’ultimo l’abbia dapprima usato o ceduto a terzi in Svizzera nell’ambito d’un contratto di fornitura. Prima dell’esportazione, l’autoveicolo può essere sottoposto a lavorazione da mandatari dell’acquirente.
 
 [^1-1]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
-[^1-2]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^1-3]: Nuovo testo giusta l’all. 4 n. 28 all’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^1-2]: Abrogata dal n. I dell’O dell’8 nov. 2023, con effetto dal 1° gen. 2024 ([RU 2023 651](https://fedlex.data.admin.ch/eli/oc/2023/651)).
+[^1-3]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^1-4]: Nuovo testo giusta l’all. 4 n. 28 all’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^1-5]: Nuovo testo giusta il n. I dell’O dell’8 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 651](https://fedlex.data.admin.ch/eli/oc/2023/651)).
 
 #### Art. 2
 
@@ -165,10 +167,11 @@ Sono abrogati:
 - a. il decreto del Consiglio federale del 18 novembre 1952[^annexu1-lvlu1-lvl1-1] concernente il montaggio delle automobili;
 - b. il decreto del Consiglio federale del 16 luglio 1929[^annexu1-lvlu1-lvl1-2] concernente lo sdoganamento di ambulanze e veicoli affini all’aliquota più bassa.
 
-### 2. a 5.**** ...
-
-[^annexu1-lvlu1-lvl1-lvl2-1]
-
 [^annexu1-lvlu1-lvl1-1]: [[RU 1952 929](https://fedlex.data.admin.ch/eli/oc/1952/913_933_929), **1959** 1690, [1974 894](https://fedlex.data.admin.ch/eli/oc/1974/894_894_894), **1987** 2346]
 [^annexu1-lvlu1-lvl1-2]: Non pubblicato nella RU.
-[^annexu1-lvlu1-lvl1-lvl2-1]: Le mod. possono essere consultate alla [RU 1996 3058](https://fedlex.data.admin.ch/eli/oc/1996/3058_3058_3058).
+
+### 2. a 5. ...
+
+[^annexu1-lvlu1-lvl2-1]
+
+[^annexu1-lvlu1-lvl2-1]: Le mod. possono essere consultate alla [RU 1996 3058](https://fedlex.data.admin.ch/eli/oc/1996/3058_3058_3058).
