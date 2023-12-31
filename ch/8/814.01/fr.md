@@ -4,11 +4,11 @@ title: "Loi fédérale du 7 octobre 1983 sur la protection de l'environnement (L
 short: LPE
 eli: "https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122"
 language: fr
-version: 2022-01-01
+version: 2024-01-01
 adopted: 1983-10-07
 in_force: 1985-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1984-1122_1122_1122-20220101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-1984-1122_1122_1122-20240101-fr-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/20220101/fr"
 
 (Loi sur la protection de l’environnement, LPE)
 
-du 7 octobre 1983 (Etat le 1<sup>er</sup> janvier 2022)
+du 7 octobre 1983 (État le 1<sup>er</sup> janvier 2024)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -129,7 +129,7 @@ Si les intérêts de la défense nationale l’exigent, le Conseil fédéral rè
 [^7-9]: Introduit par le ch. I de la LF du 21 déc. 1995, en vigueur depuis le 1<sup>er</sup> juil. 1997 ([RO 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [FF 1993 II 1337](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)).
 [^7-10]: Introduit par le ch. I de la LF du 21 déc. 1995 ([RO 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [FF 1993 II 1337](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)). Nouvelle teneur selon l’annexe ch. 4 de la LF du 21 mars 2003 sur le génie génétique, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [FF 2000 2283](https://fedlex.data.admin.ch/eli/fga/2000/484)).
 [^7-11]: Introduit par l’art. 2 ch. 1 de l’AF du 27 sept. 2013 (Conv. d’Aarhus), en vigueur depuis le 1<sup>er</sup> juin 2014 ([RO 2014 1021](https://fedlex.data.admin.ch/eli/oc/2014/234); [FF 2012 4027](https://fedlex.data.admin.ch/eli/fga/2012/596)).
-[^7-12]: Introduit par l’annexe de la LF du 21 mars 2014 ([RO 2016 2661](https://fedlex.data.admin.ch/eli/oc/2016/425); [FF 2013 5163](https://fedlex.data.admin.ch/eli/fga/2013/1036)[5211](https://fedlex.data.admin.ch/eli/fga/2013/1038)). Nouvelle teneur selon le ch. I 3 de la LF du 20 déc. 2019 sur la reconduction des allégements fiscaux accordés pour le gaz naturel, le gaz liquide et les biocarburants et sur la modification de la loi sur le CO<sub>2</sub>, en vigueur du 1<sup>er</sup> juil. 2020 au 31 déc. 2023 ([RO 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [FF 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/2011)[5575](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
+[^7-12]: Introduit par l’annexe de la LF du 21 mars 2014 ([RO 2016 2661](https://fedlex.data.admin.ch/eli/oc/2016/425); [FF 2013 5163](https://fedlex.data.admin.ch/eli/fga/2013/1036), [5211](https://fedlex.data.admin.ch/eli/fga/2013/1038)). Nouvelle teneur selon le ch. I 3 de la LF du 20 déc. 2019 sur la reconduction des allégements fiscaux accordés pour le gaz naturel, le gaz liquide et les biocarburants et sur la modification de la loi sur le CO<sub>2</sub>, en vigueur du 1<sup>er</sup> juil. 2020 au 31 déc. 2023, prolongé jusqu’au 31 déc. 2024 ([RO 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [FF 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/2011), [5575](https://fedlex.data.admin.ch/eli/fga/2019/2069); [2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
 
 #### Art. 8
 
@@ -141,7 +141,7 @@ Les atteintes seront évaluées isolément, collectivement et dans leur action c
 
 [^9-1]
 
-[^9-1]: Abrogé par le ch. I de la LF du 20 déc. 2006, avec effet au 1<sup>er</sup> juil. 2007 ([RO 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [FF 2005 5041](https://fedlex.data.admin.ch/eli/fga/2005/841)[5081](https://fedlex.data.admin.ch/eli/fga/2005/843)).
+[^9-1]: Abrogé par le ch. I de la LF du 20 déc. 2006, avec effet au 1<sup>er</sup> juil. 2007 ([RO 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [FF 2005 5041](https://fedlex.data.admin.ch/eli/fga/2005/841), [5081](https://fedlex.data.admin.ch/eli/fga/2005/843)).
 
 #### Art. 10
 
@@ -158,11 +158,11 @@ Les atteintes seront évaluées isolément, collectivement et dans leur action c
 [^10-1]: Nouvelle teneur selon le ch. I de la LF du 21 déc. 1995, en vigueur depuis le 1<sup>er</sup> juil. 1997 ([RO 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [FF 1993 II 1337](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)).
 [^10-2]: Nouvelle teneur selon le ch. I de la LF du 21 déc. 1995, en vigueur depuis le 1<sup>er</sup> juil. 1997 ([RO 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [FF 1993 II 1337](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)).
 
-### Chapitre 3**** Étude de l’impact sur l’environnement
+### Chapitre 3 Étude de l’impact sur l’environnement
 
 [^tit1-chap3-1]
 
-[^tit1-chap3-1]: Introduit par le ch. I de la LF du 20 déc. 2006, en vigueur depuis le 1<sup>er</sup> juil. 2007 ([RO 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [FF 2005 5041](https://fedlex.data.admin.ch/eli/fga/2005/841)[5081](https://fedlex.data.admin.ch/eli/fga/2005/843)).
+[^tit1-chap3-1]: Introduit par le ch. I de la LF du 20 déc. 2006, en vigueur depuis le 1<sup>er</sup> juil. 2007 ([RO 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [FF 2005 5041](https://fedlex.data.admin.ch/eli/fga/2005/841), [5081](https://fedlex.data.admin.ch/eli/fga/2005/843)).
 
 #### Art. 10a
 
@@ -210,7 +210,7 @@ Le rapport comporte les indications nécessaires à l’appréciation du projet 
 
 <sup>2</sup> Le secret de fabrication et d’affaires est dans tous les cas protégé.
 
-### Chapitre 4**** Informations sur l’environnement
+### Chapitre 4 Informations sur l’environnement
 
 [^tit1-chap4-1]
 
@@ -474,7 +474,7 @@ Ces prescriptions visent notamment:
 - a. des substances qui, en raison de leur destination, parviennent dans l’environnement, telles que les herbicides et les pesticides, les produits de protection du bois ou des provisions, ainsi que les engrais, les régulateurs de croissance, les sels d’épandage et les gaz propulseurs;
 - b. des substances qui, elles-mêmes ou par leurs dérivés, peuvent s’accumuler dans l’environnement, telles que les combinaisons organiques de chlore ou les métaux lourds.
 
-### Chapitre 3**** Utilisation d’organismes
+### Chapitre 3 Utilisation d’organismes
 
 [^tit2-chap3-1]
 
@@ -590,7 +590,7 @@ La Commission fédérale d’experts pour la sécurité biologique et la Commiss
 
 [^29h-1]: Abrogé par l’art. 2 ch. 1 de l’AF du 27 sept. 2013 (Conv. d’Aarhus), avec effet au 1<sup>er</sup> juin 2014 ([RO 2014 1021](https://fedlex.data.admin.ch/eli/oc/2014/234); [FF 2012 4027](https://fedlex.data.admin.ch/eli/fga/2012/596)).
 
-### Chapitre 4**** Déchets
+### Chapitre 4 Déchets
 
 [^tit2-chap4-1]
 
@@ -684,7 +684,7 @@ Il prescrit notamment que les déchets spéciaux:
 
 <sup>3</sup> Ces autorisations ne sont délivrées que s’il est garanti que les déchets seront éliminés d’une manière respectueuse de l’environnement.
 
-<sup>4</sup> ...[^30f-1]
+<sup>4</sup> …[^30f-1]
 
 [^30f-1]: Abrogé par le ch. I 2 de la LF du 21 déc. 2007 sur la suppression et la simplification de procédures d’autorisation, avec effet au l<sup>er</sup> juin 2008 ([RO 2008 2265](https://fedlex.data.admin.ch/eli/oc/2008/327); [FF 2007 311](https://fedlex.data.admin.ch/eli/fga/2007/50)).
 
@@ -694,7 +694,7 @@ Il prescrit notamment que les déchets spéciaux:
 
 <sup>1</sup> Le Conseil fédéral peut édicter des prescriptions au sens de l’art. 30*f*, al. 1 et 2, sur les mouvements d’autres déchets, s’il n’est pas garanti que ces derniers seront éliminés d’une manière respectueuse de l’environnement.
 
-<sup>2</sup> ...[^30g-1]
+<sup>2</sup> …[^30g-1]
 
 [^30g-1]: Abrogé par le ch. I 2 de la LF du 21 déc. 2007 sur la suppression et la simplification de procédures d’autorisation, avec effet au l<sup>er</sup> juin 2008 ([RO 2008 2265](https://fedlex.data.admin.ch/eli/oc/2008/327); [FF 2007 311](https://fedlex.data.admin.ch/eli/fga/2007/50)).
 
@@ -830,13 +830,13 @@ Si le détenteur d’un immeuble enlève des matériaux provenant d’un site po
 
 <sup>3</sup> Il est possible de faire valoir les prétentions résultant de l’al. 1 au plus tard jusqu’au 1<sup>er</sup> novembre 2021.
 
-[^32bbis-1]: Introduit par le ch. I de la LF du 16 déc. 2005, en vigueur depuis le 1<sup>er</sup> nov. 2006 ([RO 2006 2677](https://fedlex.data.admin.ch/eli/oc/2006/410); [FF 2003 4527](https://fedlex.data.admin.ch/eli/fga/2003/773)[4562](https://fedlex.data.admin.ch/eli/fga/2003/775)).
+[^32bbis-1]: Introduit par le ch. I de la LF du 16 déc. 2005, en vigueur depuis le 1<sup>er</sup> nov. 2006 ([RO 2006 2677](https://fedlex.data.admin.ch/eli/oc/2006/410); [FF 2003 4527](https://fedlex.data.admin.ch/eli/fga/2003/773), [4562](https://fedlex.data.admin.ch/eli/fga/2003/775)).
 
-### Section 4**** Assainissement de sites pollués par des déchets
+### Section 4 Assainissement de sites pollués par des déchets
 
 [^tit2-chap4-sec4-1]
 
-[^tit2-chap4-sec4-1]: Nouvelle teneur selon le ch. I de la LF du 16 déc. 2005, en vigueur depuis le 1<sup>er</sup> nov. 2006 ([RO 2006 2677](https://fedlex.data.admin.ch/eli/oc/2006/410); [FF 2003 4527](https://fedlex.data.admin.ch/eli/fga/2003/773)[4562](https://fedlex.data.admin.ch/eli/fga/2003/775)).
+[^tit2-chap4-sec4-1]: Nouvelle teneur selon le ch. I de la LF du 16 déc. 2005, en vigueur depuis le 1<sup>er</sup> nov. 2006 ([RO 2006 2677](https://fedlex.data.admin.ch/eli/oc/2006/410); [FF 2003 4527](https://fedlex.data.admin.ch/eli/fga/2003/773), [4562](https://fedlex.data.admin.ch/eli/fga/2003/775)).
 
 #### Art. 32c
 
@@ -886,7 +886,7 @@ La cession ou le partage d’un immeuble sur lequel se trouve un site inscrit au
 
 <sup>4</sup> L’autorité cantonale peut faire mentionner au registre foncier que le site concerné est inscrit au cadastre.
 
-[^32dbis-1]: Introduit par le ch. I de la LF du 22 mars 2013, en vigueur depuis le 1<sup>er</sup> nov. 2013 pour les al. 1 et 2 et depuis le 1<sup>er</sup> juil. 2014 pour les al. 3 et 4 ([RO 2013 3241](https://fedlex.data.admin.ch/eli/oc/2013/618); [FF 2012 8671](https://fedlex.data.admin.ch/eli/fga/2012/1726)[8683](https://fedlex.data.admin.ch/eli/fga/2012/1728)).
+[^32dbis-1]: Introduit par le ch. I de la LF du 22 mars 2013, en vigueur depuis le 1<sup>er</sup> nov. 2013 pour les al. 1 et 2 et depuis le 1<sup>er</sup> juil. 2014 pour les al. 3 et 4 ([RO 2013 3241](https://fedlex.data.admin.ch/eli/oc/2013/618); [FF 2012 8671](https://fedlex.data.admin.ch/eli/fga/2012/1726), [8683](https://fedlex.data.admin.ch/eli/fga/2012/1728)).
 
 #### Art. 32e
 
@@ -968,19 +968,19 @@ Seules les mesures qui respectent l’environnement, sont économiques et tienne
 
 <sup>6</sup> Le droit cantonal peut également prévoir des taxes destinées au financement de l’investigation, de la surveillance et de l’assainissement des sites pollués.
 
-[^32e-1]: Introduit par le ch. I de la LF du 26 sept. 2014, en vigueur depuis le 1<sup>er</sup> avr. 2015 ([RO 2015 865](https://fedlex.data.admin.ch/eli/oc/2015/164); [FF 2014 3505](https://fedlex.data.admin.ch/eli/fga/2014/820)[3517](https://fedlex.data.admin.ch/eli/fga/2014/822)).
-[^32e-2]: Nouvelle teneur selon le ch. I de la LF du 26 sept. 2014, en vigueur depuis le 1<sup>er</sup> avr. 2015 ([RO 2015 865](https://fedlex.data.admin.ch/eli/oc/2015/164); [FF 2014 3505](https://fedlex.data.admin.ch/eli/fga/2014/820)[3517](https://fedlex.data.admin.ch/eli/fga/2014/822)).
-[^32e-3]: Introduit par le ch. I de la LF du 26 sept. 2014, en vigueur depuis le 1<sup>er</sup> avr. 2015 ([RO 2015 865](https://fedlex.data.admin.ch/eli/oc/2015/164); [FF 2014 3505](https://fedlex.data.admin.ch/eli/fga/2014/820)[3517](https://fedlex.data.admin.ch/eli/fga/2014/822)).
-[^32e-4]: Nouvelle teneur selon le ch. I de la LF du 26 sept. 2014, en vigueur depuis le 1<sup>er</sup> avr. 2015 ([RO 2015 865](https://fedlex.data.admin.ch/eli/oc/2015/164); [FF 2014 3505](https://fedlex.data.admin.ch/eli/fga/2014/820)[3517](https://fedlex.data.admin.ch/eli/fga/2014/822)).
-[^32e-5]: Nouvelle teneur selon le ch. I de la LF du 20 mars 2009 (Indemnisation pour l’assainissement de stands de tir), en vigueur depuis le 1<sup>er</sup> oct. 2009 ([RO 2009 4739](https://fedlex.data.admin.ch/eli/oc/2009/556); [FF 2008 8253](https://fedlex.data.admin.ch/eli/fga/2008/1719)[8263](https://fedlex.data.admin.ch/eli/fga/2008/1721)).
+[^32e-1]: Introduit par le ch. I de la LF du 26 sept. 2014, en vigueur depuis le 1<sup>er</sup> avr. 2015 ([RO 2015 865](https://fedlex.data.admin.ch/eli/oc/2015/164); [FF 2014 3505](https://fedlex.data.admin.ch/eli/fga/2014/820), [3517](https://fedlex.data.admin.ch/eli/fga/2014/822)).
+[^32e-2]: Nouvelle teneur selon le ch. I de la LF du 26 sept. 2014, en vigueur depuis le 1<sup>er</sup> avr. 2015 ([RO 2015 865](https://fedlex.data.admin.ch/eli/oc/2015/164); [FF 2014 3505](https://fedlex.data.admin.ch/eli/fga/2014/820), [3517](https://fedlex.data.admin.ch/eli/fga/2014/822)).
+[^32e-3]: Introduit par le ch. I de la LF du 26 sept. 2014, en vigueur depuis le 1<sup>er</sup> avr. 2015 ([RO 2015 865](https://fedlex.data.admin.ch/eli/oc/2015/164); [FF 2014 3505](https://fedlex.data.admin.ch/eli/fga/2014/820), [3517](https://fedlex.data.admin.ch/eli/fga/2014/822)).
+[^32e-4]: Nouvelle teneur selon le ch. I de la LF du 26 sept. 2014, en vigueur depuis le 1<sup>er</sup> avr. 2015 ([RO 2015 865](https://fedlex.data.admin.ch/eli/oc/2015/164); [FF 2014 3505](https://fedlex.data.admin.ch/eli/fga/2014/820), [3517](https://fedlex.data.admin.ch/eli/fga/2014/822)).
+[^32e-5]: Nouvelle teneur selon le ch. I de la LF du 20 mars 2009 (Indemnisation pour l’assainissement de stands de tir), en vigueur depuis le 1<sup>er</sup> oct. 2009 ([RO 2009 4739](https://fedlex.data.admin.ch/eli/oc/2009/556); [FF 2008 8253](https://fedlex.data.admin.ch/eli/fga/2008/1719), [8263](https://fedlex.data.admin.ch/eli/fga/2008/1721)).
 [^32e-6]: Nouvelle teneur selon le ch. I de la LF du 27 sept. 2019, en vigueur depuis le 1<sup>er</sup> mars 2020 ([RO 2020 513](https://fedlex.data.admin.ch/eli/oc/2020/96); [FF 2019 3191](https://fedlex.data.admin.ch/eli/fga/2019/1105)[3203](https://fedlex.data.admin.ch/eli/fga/2019/1107)).
-[^32e-7]: Introduite par le ch. I de la LF du 27 sept. 2019, en vigueur depuis le 1<sup>er</sup> mars 2020 ([RO 2020 513](https://fedlex.data.admin.ch/eli/oc/2020/96); [FF 2019 3191](https://fedlex.data.admin.ch/eli/fga/2019/1105)[3203](https://fedlex.data.admin.ch/eli/fga/2019/1107)).
-[^32e-8]: Nouvelle teneur selon le ch. I de la LF du 26 sept. 2014, en vigueur depuis le 1<sup>er</sup> avr. 2015 ([RO 2015 865](https://fedlex.data.admin.ch/eli/oc/2015/164); [FF 2014 3505](https://fedlex.data.admin.ch/eli/fga/2014/820)[3517](https://fedlex.data.admin.ch/eli/fga/2014/822)).
-[^32e-9]: Nouvelle teneur selon le ch. I de la LF du 26 sept. 2014, en vigueur depuis le 1<sup>er</sup> avr. 2015 ([RO 2015 865](https://fedlex.data.admin.ch/eli/oc/2015/164); [FF 2014 3505](https://fedlex.data.admin.ch/eli/fga/2014/820)[3517](https://fedlex.data.admin.ch/eli/fga/2014/822)).
-[^32e-10]: Introduit par le ch. I de la LF du 26 sept. 2014, en vigueur depuis le 1<sup>er</sup> avr. 2015 ([RO 2015 865](https://fedlex.data.admin.ch/eli/oc/2015/164); [FF 2014 3505](https://fedlex.data.admin.ch/eli/fga/2014/820)[3517](https://fedlex.data.admin.ch/eli/fga/2014/822)).
-[^32e-11]: Nouvelle teneur selon le ch. I de la LF du 20 mars 2009 (Indemnisation pour l’assainissement de stands de tir), en vigueur depuis le 1<sup>er</sup> oct. 2009 ([RO 2009 4739](https://fedlex.data.admin.ch/eli/oc/2009/556); [FF 2008 8253](https://fedlex.data.admin.ch/eli/fga/2008/1719)[8263](https://fedlex.data.admin.ch/eli/fga/2008/1721)).
+[^32e-7]: Introduite par le ch. I de la LF du 27 sept. 2019, en vigueur depuis le 1<sup>er</sup> mars 2020 ([RO 2020 513](https://fedlex.data.admin.ch/eli/oc/2020/96); [FF 2019 3191](https://fedlex.data.admin.ch/eli/fga/2019/1105), [3203](https://fedlex.data.admin.ch/eli/fga/2019/1107)).
+[^32e-8]: Nouvelle teneur selon le ch. I de la LF du 26 sept. 2014, en vigueur depuis le 1<sup>er</sup> avr. 2015 ([RO 2015 865](https://fedlex.data.admin.ch/eli/oc/2015/164); [FF 2014 3505](https://fedlex.data.admin.ch/eli/fga/2014/820), [3517](https://fedlex.data.admin.ch/eli/fga/2014/822)).
+[^32e-9]: Nouvelle teneur selon le ch. I de la LF du 26 sept. 2014, en vigueur depuis le 1<sup>er</sup> avr. 2015 ([RO 2015 865](https://fedlex.data.admin.ch/eli/oc/2015/164); [FF 2014 3505](https://fedlex.data.admin.ch/eli/fga/2014/820), [3517](https://fedlex.data.admin.ch/eli/fga/2014/822)).
+[^32e-10]: Introduit par le ch. I de la LF du 26 sept. 2014, en vigueur depuis le 1<sup>er</sup> avr. 2015 ([RO 2015 865](https://fedlex.data.admin.ch/eli/oc/2015/164); [FF 2014 3505](https://fedlex.data.admin.ch/eli/fga/2014/820), [3517](https://fedlex.data.admin.ch/eli/fga/2014/822)).
+[^32e-11]: Nouvelle teneur selon le ch. I de la LF du 20 mars 2009 (Indemnisation pour l’assainissement de stands de tir), en vigueur depuis le 1<sup>er</sup> oct. 2009 ([RO 2009 4739](https://fedlex.data.admin.ch/eli/oc/2009/556); [FF 2008 8253](https://fedlex.data.admin.ch/eli/fga/2008/1719), [8263](https://fedlex.data.admin.ch/eli/fga/2008/1721)).
 
-### Chapitre 5**** Atteintes portées au sol
+### Chapitre 5 Atteintes portées au sol
 
 [^tit2-chap5-1]
 
@@ -1019,7 +1019,7 @@ Seules les mesures qui respectent l’environnement, sont économiques et tienne
 
 <sup>3</sup> Les valeurs d’assainissement indiquent le niveau de gravité des atteintes au-delà duquel, selon l’état de la science ou l’expérience, certaines exploitations mettent forcément en péril l’homme, les animaux ou les plantes.
 
-### Chapitre 6**** Taxes d’incitation
+### Chapitre 6 Taxes d’incitation
 
 [^tit2-chap6-1]
 
@@ -1126,25 +1126,25 @@ Sont soumis à la taxe:
 
 <sup>4</sup> Quiconque produit en Suisse des substances ou des organismes soumis à la taxe doit les déclarer.
 
-[^35c-1]: [RS **6** 469; [RO 1956 635](https://fedlex.data.admin.ch/eli/oc/1956/587_635_639), [1959 1397](https://fedlex.data.admin.ch/eli/oc/1959/1343_1397_1397)art. 11 ch. III, [1973 644](https://fedlex.data.admin.ch/eli/oc/1973/644_644_644), [1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857)annexe ch. 7, [1980 1793](https://fedlex.data.admin.ch/eli/oc/1980/1793_1793_1793)ch. I 1, [1992 1670](https://fedlex.data.admin.ch/eli/oc/1992/1670_1670_1670)ch. III, [1994 1634](https://fedlex.data.admin.ch/eli/oc/1994/1634_1634_1634)ch. I 3, [1995 1816](https://fedlex.data.admin.ch/eli/oc/1995/1816_1816_1816), [1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)annexe 2 ch. 2, [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)appendice ch. 13, [2000 1300](https://fedlex.data.admin.ch/eli/oc/2000/212)art. 92 [1891](https://fedlex.data.admin.ch/eli/oc/2000/293)ch. VI 6, [2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53)ch. I 1 art. 41, [2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724)annexe ch. II 1, [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 50. [RO 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249)art. 131 al. 1]. Voir actuellement art. 70 de la LF du 18 mars 2005 sur les douanes ([RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)).
+[^35c-1]: [RS **6** 469; [RO 1956 635](https://fedlex.data.admin.ch/eli/oc/1956/587_635_639); [1959 1397](https://fedlex.data.admin.ch/eli/oc/1959/1343_1397_1397)art. 11 ch. III; [1973 644](https://fedlex.data.admin.ch/eli/oc/1973/644_644_644); [1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857)annexe ch. 7; [1980 1793](https://fedlex.data.admin.ch/eli/oc/1980/1793_1793_1793)ch. I 1; [1992 1670](https://fedlex.data.admin.ch/eli/oc/1992/1670_1670_1670)ch. III; [1994 1634](https://fedlex.data.admin.ch/eli/oc/1994/1634_1634_1634)ch. I 3; [1995 1816](https://fedlex.data.admin.ch/eli/oc/1995/1816_1816_1816); [1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)annexe 2 ch. 2; [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)appendice ch. 13; [2000 1300](https://fedlex.data.admin.ch/eli/oc/2000/212)art. 92, [1891](https://fedlex.data.admin.ch/eli/oc/2000/293)ch. VI 6; [2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53)ch. I 1 art. 41; [2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724)annexe ch. II 1; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 50. [RO 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249)art. 131 al. 1]. Voir actuellement art. 70 de la LF du 18 mars 2005 sur les douanes ([RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)).
 [^35c-2]: Nouvelle teneur selon le ch. I de la LF du 20 juin 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4215](https://fedlex.data.admin.ch/eli/oc/2003/624); [FF 2002 6004](https://fedlex.data.admin.ch/eli/fga/2002/1014)).
 [^35c-3]: [RS 641.61](https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371)
 [^35c-4]: Nouvelle teneur selon l’annexe 2 ch. 6 de la LF du 21 juin 1996 sur l’imposition des huiles minérales, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371); [FF 1995 III 133](https://fedlex.data.admin.ch/eli/fga/1995/3_137_133_137)).
 [^35c-5]: Nouvelle teneur selon l’annexe 2 ch. 6 de la LF du 21 juin 1996 sur l’imposition des huiles minérales, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371); [FF 1995 III 133](https://fedlex.data.admin.ch/eli/fga/1995/3_137_133_137)).
 [^35c-6]: Introduit par l’annexe 2 ch. 6 de la LF du 21 juin 1996 sur l’imposition des huiles minérales ([RO 1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371); [FF 1995 III 133](https://fedlex.data.admin.ch/eli/fga/1995/3_137_133_137)). Nouvelle teneur selon le ch. I de la LF du 20 juin 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4215](https://fedlex.data.admin.ch/eli/oc/2003/624); [FF 2002 6004](https://fedlex.data.admin.ch/eli/fga/2002/1014)).
 
-### Chapitre 7**** Mise sur le marché de matières premières et de produits****
+### Chapitre 7 Mise sur le marché de matières premières et de produits
 
 [^tit2-chap7-1][^tit2-chap7-2]
 
 [^tit2-chap7-1]: Introduit par l’annexe de la LF du 21 mars 2014, en vigueur depuis le 1<sup>er</sup> août 2016 ([RO 2016 2661](https://fedlex.data.admin.ch/eli/oc/2016/425); [FF 2013 5163](https://fedlex.data.admin.ch/eli/fga/2013/1036)[5211](https://fedlex.data.admin.ch/eli/fga/2013/1038)).
 [^tit2-chap7-2]: Nouvelle teneur selon ch. I de la LF du 27 sept. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 614](https://fedlex.data.admin.ch/eli/oc/2021/614); [FF 2019 1229](https://fedlex.data.admin.ch/eli/fga/2019/275)).
 
-### Section 1 Biocarburants et biocombustibles****
+### Section 1 Biocarburants et biocombustibles
 
 [^tit2-chap7-sec1-1]
 
-[^tit2-chap7-sec1-1]: Introduit par le ch. II de la LF du 20 déc. 2019 sur la reconduction des allégements fiscaux accordés pour le gaz naturel, le gaz liquide et les biocarburants et sur la modification de la loi sur le CO<sub>2</sub>, en vigueur du 1<sup>er</sup> juil. 2020 au 31 déc. 2023 ([RO 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [FF 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/2011)[5575](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
+[^tit2-chap7-sec1-1]: Introduit par le ch. II de la LF du 20 déc. 2019 sur la reconduction des allégements fiscaux accordés pour le gaz naturel, le gaz liquide et les biocarburants et sur la modification de la loi sur le CO<sub>2</sub>, en vigueur du 1<sup>er</sup> juil. 2020 au 31 déc. 2023, prolongé jusqu’au 31 déc. 2024 ([RO 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [FF 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/2011), [5575](https://fedlex.data.admin.ch/eli/fga/2019/2069); [2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
 
 #### Art. 35d
 
@@ -1161,10 +1161,10 @@ Compte tenu des dispositions de la législation sur l’imposition des huiles mi
 - a. les critères écologiques ou sociaux que les biocarburants et les biocombustibles soumis à homologation doivent remplir;
 - b. la procédure d’homologation.
 
-[^35d-1]: Nouvelle teneur selon le ch. I 3 de la LF du 20 déc. 2019 sur la reconduction des allégements fiscaux accordés pour le gaz naturel, le gaz liquide et les biocarburants et sur la modification de la loi sur le CO<sub>2</sub>, en vigueur du 1<sup>er</sup> juil. 2020 au 31 déc. 2023 ([RO 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [FF 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/2011)[5575](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
+[^35d-1]: Nouvelle teneur selon le ch. I 3 de la LF du 20 déc. 2019 sur la reconduction des allégements fiscaux accordés pour le gaz naturel, le gaz liquide et les biocarburants et sur la modification de la loi sur le CO<sub>2</sub>, en vigueur du 1<sup>er</sup> juil. 2020 au 31 déc. 2023, prolongé jusqu’au 31 déc. 2024 ([RO 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [FF 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/2011)[5575](https://fedlex.data.admin.ch/eli/fga/2019/2069); [2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
 [^35d-2]: [RS 641.61](https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371)
 
-### Section 2**** Bois et produits dérivés du bois et autres matières premières ou produits
+### Section 2 Bois et produits dérivés du bois et autres matières premières ou produits
 
 [^tit2-chap7-sec2-1]
 
@@ -1270,7 +1270,7 @@ Il peut conclure des accords internationaux relatifs à:
 - d. des banques de données et des enquêtes;
 - e. la recherche et la formation.
 
-<sup>3</sup> ...[^39-4]
+<sup>3</sup> …[^39-4]
 
 [^39-1]: Introduit par l’annexe ch. II 2 de la LF du 15 déc. 2000 sur les produits chimiques, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724); [FF 2000 623](https://fedlex.data.admin.ch/eli/fga/2000/195)).
 [^39-2]: Introduite par l’annexe ch. II 2 de la LF du 15 déc. 2000 sur les produits chimiques, en vigueur depuis le 1<sup>er</sup> août 2005 ([RO 2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724), [2005 2293](https://fedlex.data.admin.ch/eli/oc/2005/388); [FF 2000 623](https://fedlex.data.admin.ch/eli/fga/2000/195)).
@@ -1299,13 +1299,13 @@ Il peut conclure des accords internationaux relatifs à:
 
 <sup>4</sup> Les autorités fédérales chargées de l’exécution tiennent compte des mesures prises par les cantons aux fins de protéger l’environnement.[^41-5]
 
-[^41-1]: Nouvelle teneur selon le ch. II de la LF du 20 déc. 2019 sur la reconduction des allégements fiscaux accordés pour le gaz naturel, le gaz liquide et les biocarburants et sur la modification de la loi sur le CO<sub>2</sub>, en vigueur du 1<sup>er</sup> juil. 2020 au 31 déc. 2023 ([RO 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [FF 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/2011)[5575](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
+[^41-1]: Nouvelle teneur selon le ch. I de la LF du 27 sept. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 614](https://fedlex.data.admin.ch/eli/oc/2021/614); [FF 2019 1229](https://fedlex.data.admin.ch/eli/fga/2019/275)).
 [^41-2]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
 [^41-3]: Nouvelle teneur selon le ch. I 14 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221).
 [^41-4]: Nouvelle teneur selon le ch. I 14 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221).
 [^41-5]: Anciennement al. 3.
 
-### Section 2*a***** Collaboration avec l’économie
+### Section 2*a* Collaboration avec l’économie
 
 [^tit3-chap1-sec2a-1]
 
@@ -1403,7 +1403,7 @@ Le Conseil fédéral peut prescrire des contrôles réguliers d’installations 
 
 **Secret de fonction[^47-1]**
 
-<sup>1</sup> et <sup>2</sup> ...[^47-2]
+<sup>1</sup> et <sup>2</sup> …[^47-2]
 
 <sup>3</sup> Toutes les personnes chargées de l’application de la présente loi, de même que les experts ou les membres de commissions et groupes de travail, sont tenus de respecter le secret de fonction.
 
@@ -1487,7 +1487,7 @@ La Confédération peut accorder des contributions:
 
 ### Chapitre 3 Procédure
 
-### Section 1 Voies de droit****
+### Section 1 Voies de droit
 
 [^tit3-chap3-sec1-1]
 
@@ -1495,14 +1495,14 @@ La Confédération peut accorder des contributions:
 
 #### Art. 54
 
-**...[^54-2]**[^54-1]
+**…[^54-2]**[^54-1]
 
 La procédure de recours est régie par les dispositions générales de la procédure fédérale.
 
 [^54-1]: Nouvelle teneur selon l’annexe ch. 91 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^54-2]: Abrogé par le ch. I de la LF du 20 déc. 2006, avec effet au 1<sup>er</sup> juil. 2007 ([RO 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [FF 2005 5041](https://fedlex.data.admin.ch/eli/fga/2005/841)[5081](https://fedlex.data.admin.ch/eli/fga/2005/843)).
 
-### Section 2 Recours des organisations contre les décisions concernant des installations****
+### Section 2 Recours des organisations contre les décisions concernant des installations
 
 [^tit3-chap3-sec2-1]
 
@@ -1589,7 +1589,7 @@ L’organisation qui succombe supporte les frais de la procédure de recours aup
 
 [^55e-1]: Introduit par le ch. I de la LF du 20 déc. 2006, en vigueur depuis le 1<sup>er</sup> juil. 2007 ([RO 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [FF 2005 5041](https://fedlex.data.admin.ch/eli/fga/2005/841)[5081](https://fedlex.data.admin.ch/eli/fga/2005/843)).
 
-### Section 3**** Recours des organisations contre des autorisations concernant des organismes
+### Section 3 Recours des organisations contre des autorisations concernant des organismes
 
 [^tit3-chap3-sec3-1]
 
@@ -1608,7 +1608,7 @@ Une organisation de protection de l’environnement a qualité pour recourir con
 
 <sup>3</sup> Les art. 55*a* et 55*b*, al. 1 et 2, sont applicables.
 
-### Section 4 Recours des autorités et des communes, expropriation, frais résultant de mesures de sécurité ou du rétablissement de l’état antérieur****
+### Section 4 Recours des autorités et des communes, expropriation, frais résultant de mesures de sécurité ou du rétablissement de l’état antérieur
 
 [^tit3-chap3-sec4-1]
 
@@ -1622,7 +1622,7 @@ Une organisation de protection de l’environnement a qualité pour recourir con
 
 <sup>2</sup> Les cantons ont le même droit de recours lorsque des atteintes émanant d’un canton voisin affectent leur territoire.
 
-<sup>3</sup> ...[^56-2]
+<sup>3</sup> …[^56-2]
 
 [^56-1]: Nouvelle teneur selon le ch. I 14 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221).
 [^56-2]: Abrogé par l’annexe ch. 91 de la LF du 17 juin 2005 sur le TAF, avec effet au 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
@@ -1656,7 +1656,7 @@ Les frais provoqués par des mesures que les autorités prennent pour empêcher 
 
 [^59-1]: Nouvelle teneur selon le ch. I de la LF du 21 déc. 1995, en vigueur depuis le 1<sup>er</sup> juil. 1997 ([RO 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [FF 1993 II 1337](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)).
 
-## Titre 4**** Responsabilité civile
+## Titre 4 Responsabilité civile
 
 [^tit4-1]
 
@@ -1773,7 +1773,7 @@ L’action récursoire se prescrit selon l’art. 59*c*. Le délai de trois ans 
 
 [^59d-1]: Introduit par l’annexe ch. 4 de la LF du 21 mars 2003 sur le génie génétique, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [FF 2000 2283](https://fedlex.data.admin.ch/eli/fga/2000/484)).
 
-## Titre 5**** Dispositions pénales****
+## Titre 5 Dispositions pénales
 
 [^tit5-1][^tit5-2]
 
@@ -1799,7 +1799,7 @@ Sera puni d’une peine privative de liberté de trois ans au plus ou d’une pe
 - i.[^60-6] aura mis dans le commerce des organismes dont il savait ou devait savoir que certaines utilisations contreviendraient aux principes définis à l’art. 29*a*, al. 1 (art. 29*d*, al. 1);
 - j.[^60-7] aura mis dans le commerce des organismes sans fournir au preneur les informations et instructions nécessaires (art. 29*e*, al. 1);
 - k.[^60-8] aura utilisé des organismes sans observer les instructions (art. 29*e*, al. 2);
-- l.[^60-9] ...
+- l.[^60-9] …
 - m. aura aménagé ou exploité une décharge sans autorisation (art. 30*e*, al. 2);
 - n. n’aura pas désigné comme tels les déchets spéciaux pour la remise (art. 30*f*, al. 2, let. a) ou aura remis de tels déchets à une entreprise non titulaire d’une autorisation (art. 30*f,* al. 2, let. b);
 - o. aura, sans autorisation, pris en charge, importé ou exporté des déchets spéciaux (art. 30*f*, al. 2, let. c et d);
@@ -1866,19 +1866,19 @@ Sera puni d’une amende de 20 000 francs au plus celui qui, intentionnellement:
 
 <sup>3</sup> La tentative d’infraction au sens des al. 1 et 2 est punissable.[^61a-5]
 
-<sup>4</sup> L’Office fédéral de la douane et de la sécurité des frontières (OFDF)[^61a-6] est l’autorité de poursuite et de jugement. [^61a-7]
+<sup>4</sup> L’Office fédéral de la douane et de la sécurité des frontières (OFDF)[^61a-6] est l’autorité de poursuite et de jugement.[^61a-7]
 
 <sup>5</sup> Si l’acte constitue simultanément une infraction au sens des al. 1 à 3 et une infraction à un autre acte législatif fédéral que l’OFDF[^61a-8] est chargé de poursuivre, la peine applicable est celle prévue pour l’infraction la plus grave; cette peine peut être aggravée de manière appropriée.[^61a-9]
 
 [^61a-1]: Introduit par le ch. I de la LF du 21 déc. 1995, en vigueur depuis le 1<sup>er</sup> juil. 1997 ([RO 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [FF 1993 II 1337](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)).
-[^61a-2]: Nouvelle teneur selon le ch. I 3 de la LF du 20 déc. 2019 sur la reconduction des allégements fiscaux accordés pour le gaz naturel, le gaz liquide et les biocarburants et sur la modification de la loi sur le CO<sub>2</sub>, en vigueur du 1<sup>er</sup> juil. 2020 au 31 déc. 2023 ([RO 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [FF 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/2011)[5575](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
+[^61a-2]: Nouvelle teneur selon le ch. I 3 de la LF du 20 déc. 2019 sur la reconduction des allégements fiscaux accordés pour le gaz naturel, le gaz liquide et les biocarburants et sur la modification de la loi sur le CO<sub>2</sub>, en vigueur du 1<sup>er</sup> juil. 2020 au 31 déc. 2023, prolongé jusqu’au 31 déc. 2024 ([RO 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [FF 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/2011), [5575](https://fedlex.data.admin.ch/eli/fga/2019/2069); [2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
 [^61a-3]: Nouvelle teneur selon le ch. I de la LF du 20 juin 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4215](https://fedlex.data.admin.ch/eli/oc/2003/624); [FF 2002 6004](https://fedlex.data.admin.ch/eli/fga/2002/1014)).
-[^61a-4]: Nouvelle teneur selon le ch. I 3 de la LF du 20 déc. 2019 sur la reconduction des allégements fiscaux accordés pour le gaz naturel, le gaz liquide et les biocarburants et sur la modification de la loi sur le CO<sub>2</sub>, en vigueur du 1<sup>er</sup> juil. 2020 au 31 déc. 2023 ([RO 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [FF 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/2011)[5575](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
-[^61a-5]: Nouvelle teneur selon le ch. I 3 de la LF du 20 déc. 2019 sur la reconduction des allégements fiscaux accordés pour le gaz naturel, le gaz liquide et les biocarburants et sur la modification de la loi sur le CO<sub>2</sub>, en vigueur du 1<sup>er</sup> juil. 2020 au 31 déc. 2023 ([RO 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [FF 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/2011)[5575](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
+[^61a-4]: Nouvelle teneur selon le ch. I 3 de la LF du 20 déc. 2019 sur la reconduction des allégements fiscaux accordés pour le gaz naturel, le gaz liquide et les biocarburants et sur la modification de la loi sur le CO<sub>2</sub>, en vigueur du 1<sup>er</sup> juil. 2020 au 31 déc. 2023, prolongé jusqu’au 31 déc. 2024 ([RO 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [FF 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/2011), [5575](https://fedlex.data.admin.ch/eli/fga/2019/2069); [2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
+[^61a-5]: Nouvelle teneur selon le ch. I 3 de la LF du 20 déc. 2019 sur la reconduction des allégements fiscaux accordés pour le gaz naturel, le gaz liquide et les biocarburants et sur la modification de la loi sur le CO<sub>2</sub>, en vigueur du 1<sup>er</sup> juil. 2020 au 31 déc. 2023, prolongé jusqu’au 31 déc. 2024 ([RO 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [FF 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/2011), [5575](https://fedlex.data.admin.ch/eli/fga/2019/2069); [2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
 [^61a-6]: Nouvelle expression selon le ch. I 31 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
-[^61a-7]: Nouvelle teneur selon le ch. I 3 de la LF du 20 déc. 2019 sur la reconduction des allégements fiscaux accordés pour le gaz naturel, le gaz liquide et les biocarburants et sur la modification de la loi sur le CO<sub>2</sub>, en vigueur du 1<sup>er</sup> juil. 2020 au 31 déc. 2023 ([RO 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [FF 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/2011)[5575](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
+[^61a-7]: Nouvelle teneur selon le ch. I 3 de la LF du 20 déc. 2019 sur la reconduction des allégements fiscaux accordés pour le gaz naturel, le gaz liquide et les biocarburants et sur la modification de la loi sur le CO<sub>2</sub>, en vigueur du 1<sup>er</sup> juil. 2020 au 31 déc. 2023, prolongé jusqu’au 31 déc. 2024 ([RO 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [FF 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/2011), [5575](https://fedlex.data.admin.ch/eli/fga/2019/2069); [2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
 [^61a-8]: Nouvelle expression selon le ch. I 31 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
-[^61a-9]: Introduit par l’annexe de la LF du 21 mars 2014 ([RO 2016 2661](https://fedlex.data.admin.ch/eli/oc/2016/425); [FF 2013 5163](https://fedlex.data.admin.ch/eli/fga/2013/1036)[5211](https://fedlex.data.admin.ch/eli/fga/2013/1038)). Nouvelle teneur selon le ch. I 3 de la LF du 20 déc. 2019 sur la reconduction des allégements fiscaux accordés pour le gaz naturel, le gaz liquide et les biocarburants et sur la modification de la loi sur le CO<sub>2</sub>, en vigueur du 1<sup>er</sup> juil. 2020 au 31 déc. 2023 ([RO 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [FF 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/2011)[5575](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
+[^61a-9]: Introduit par l’annexe de la LF du 21 mars 2014 ([RO 2016 2661](https://fedlex.data.admin.ch/eli/oc/2016/425); [FF 2013 5163](https://fedlex.data.admin.ch/eli/fga/2013/1036), [5211](https://fedlex.data.admin.ch/eli/fga/2013/1038)). Nouvelle teneur selon le ch. I 3 de la LF du 20 déc. 2019 sur la reconduction des allégements fiscaux accordés pour le gaz naturel, le gaz liquide et les biocarburants et sur la modification de la loi sur le CO<sub>2</sub>, en vigueur du 1<sup>er</sup> juil. 2020 au 31 déc. 2023, prolongé jusqu’au 31 déc. 2024 ([RO 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [FF 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/2011), [5575](https://fedlex.data.admin.ch/eli/fga/2019/2069); [2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
 
 #### Art. 62
 
@@ -1889,9 +1889,9 @@ Sera puni d’une amende de 20 000 francs au plus celui qui, intentionnellement:
 <sup>2</sup> Les infractions au sens de l’art. 61*a* sont également régies par les autres dispositions de la loi fédérale du 22 mars 1974 sur le droit pénal administratif.[^62-2]
 
 [^62-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
-[^62-2]: Introduit par le ch. I de la LF du 21 déc. 1995 ([RO 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [FF 1993 II 1337](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)). Nouvelle teneur selon le ch. I 3 de la LF du 20 déc. 2019 sur la reconduction des allégements fiscaux accordés pour le gaz naturel, le gaz liquide et les biocarburants et sur la modification de la loi sur le CO<sub>2</sub>, en vigueur du 1<sup>er</sup> juil. 2020 au 31 déc. 2023 ([RO 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [FF 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/2011)[5575](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
+[^62-2]: Introduit par le ch. I de la LF du 21 déc. 1995 ([RO 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [FF 1993 II 1337](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)). Nouvelle teneur selon le ch. I 3 de la LF du 20 déc. 2019 sur la reconduction des allégements fiscaux accordés pour le gaz naturel, le gaz liquide et les biocarburants et sur la modification de la loi sur le CO<sub>2</sub>, en vigueur du 1<sup>er</sup> juil. 2020 au 31 déc. 2023, prolongé jusqu’au 31 déc. 2024 ([RO 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); FF **2019** 545,[1](https://fedlex.data.admin.ch/eli/fga/2019/1)[5575](https://fedlex.data.admin.ch/eli/fga/2019/2069); [2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
 
-## Titre 6**** Dispositions finales
+## Titre 6 Dispositions finales
 
 [^tit6-1]
 
@@ -1925,14 +1925,14 @@ Lorsqu’elles ne sont pas conformes aux dispositions de la présente loi, les p
 
 Si les mesures ont commencé d’être mises en œuvre avant l’entrée en vigueur de la modification du 26 septembre 2014, les demandes d’indemnité pour les coûts des mesures prises en vertu de l’art. 32*e*, al. 4, let. b, ch. 2, sont appréciées selon le droit en vigueur au moment du dépôt de la demande, en dérogation à l’art. 36 de la loi du 5 octobre 1990 sur les subventions[^65a-2]. Les demandes doivent être déposées deux ans au plus tard après l’entrée en vigueur de la présente modification.
 
-[^65a-1]: Introduit par le ch. I de la LF du 26 sept. 2014, en vigueur depuis le 1<sup>er</sup> avr. 2015 ([RO 2015 865](https://fedlex.data.admin.ch/eli/oc/2015/164); [FF 2014 3505](https://fedlex.data.admin.ch/eli/fga/2014/820)[3517](https://fedlex.data.admin.ch/eli/fga/2014/822)).
+[^65a-1]: Introduit par le ch. I de la LF du 26 sept. 2014, en vigueur depuis le 1<sup>er</sup> avr. 2015 ([RO 2015 865](https://fedlex.data.admin.ch/eli/oc/2015/164); [FF 2014 3505](https://fedlex.data.admin.ch/eli/fga/2014/820), [3517](https://fedlex.data.admin.ch/eli/fga/2014/822)).
 [^65a-2]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
 
 #### Art. 66
 
 **Modification de lois fédérales**
 
-...[^66-1]
+…[^66-1]
 
 [^66-1]: Les mod. peuvent être consultées au [RO 1984 1122](https://fedlex.data.admin.ch/eli/oc/1984/1122_1122_1122).
 

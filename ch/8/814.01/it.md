@@ -4,20 +4,20 @@ title: "Legge federale del 7 ottobre 1983 sulla protezione dell'ambiente (Legge 
 short: LPAmb
 eli: "https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122"
 language: it
-version: 2022-01-01
+version: 2024-01-01
 adopted: 1983-10-07
 in_force: 1985-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1984-1122_1122_1122-20220101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122/20240101/it/xml/fedlex-data-admin-ch-eli-cc-1984-1122_1122_1122-20240101-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Legge federale sulla protezione dell’ambiente
 
-(Legge sulla protezione dell’ambiente, LPAmb**[^t-1]**)
+(Legge sulla protezione dell’ambiente, LPAmb[^t-1])
 
-del 7 ottobre 1983 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
+del 7 ottobre 1983 (Stato 1° gennaio 2024)
 
 [^t-1]: Nuova abbreviazione giusta l’art. 1 lett. e dell’O del 10 gen. 1996 che rettifica alcune abbreviazioni di titoli di atti normativi, in vigore dal 1° feb. 1996 ([RU 1996 208](https://fedlex.data.admin.ch/eli/oc/1996/208_208_208)).
 
@@ -131,7 +131,7 @@ In quanto lo esiga la difesa nazionale, il Consiglio federale disciplina, in via
 [^7-9]: Introdotto dal n. I della LF del 21 dic. 1995, in vigore dal 1° lug. 1997 ([RU 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [FF 1993 II 1213](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)).
 [^7-10]: Introdotto dal n. I della LF del 21 dic. 1995 ([RU 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [FF 1993 II 1213](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)). Nuovo testo giusta l’all. n. 4 della L del 21 mar. 2003 sull’ingegneria genetica, in vigore dal 1° gen. 2004 ([RU 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [FF 2000 2145](https://fedlex.data.admin.ch/eli/fga/2000/484)).
 [^7-11]: Introdotto dall’art. 2 n. 1 del DF del 27 set. 2013 (Convenzione di Aarhus), in vigore dal 1° giu. 2014 ([RU 2014 1021](https://fedlex.data.admin.ch/eli/oc/2014/234); [FF 2012 3841](https://fedlex.data.admin.ch/eli/fga/2012/596)).
-[^7-12]: Introdotto dall’all. della LF del 21 mar. 2014 ([RU 2016 2661](https://fedlex.data.admin.ch/eli/oc/2016/425); [FF 2013 4963](https://fedlex.data.admin.ch/eli/fga/2013/1036)[5007](https://fedlex.data.admin.ch/eli/fga/2013/1038)). Nuovo testo giusta il n. I 3 della LF del 20 dic. 2019 che proroga i termini delle agevolazioni fiscali per il gas naturale, il gas liquido e i biocarburanti e che modifica la legge sul CO<sub>2</sub>, in vigore dal 1° lug. 2020 al 31 dic. 2023 ([RU 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [FF 2019 4719](https://fedlex.data.admin.ch/eli/fga/2019/2011)[4827](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
+[^7-12]: Introdotto dall’all. della LF del 21 mar. 2014 ([RU 2016 2661](https://fedlex.data.admin.ch/eli/oc/2016/425); [FF 2013 4963](https://fedlex.data.admin.ch/eli/fga/2013/1036)[5007](https://fedlex.data.admin.ch/eli/fga/2013/1038)). Nuovo testo giusta il n. I 3 della LF del 20 dic. 2019 che proroga i termini delle agevolazioni fiscali per il gas naturale, il gas liquido e i biocarburanti e che modifica la legge sul CO<sub>2</sub>, in vigore dal 1° lug. 2020 al 31 dic. 2023, prorogato al 31 dic. 2024 ([RU 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [FF 2019 4719](https://fedlex.data.admin.ch/eli/fga/2019/2011), [4827](https://fedlex.data.admin.ch/eli/fga/2019/2069); [2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
 
 #### Art. 8
 
@@ -160,7 +160,7 @@ Gli effetti sono valutati singolarmente, globalmente e secondo la loro azione co
 [^10-1]: Nuovo testo giusta il n. I della LF del 21 dic. 1995, in vigore dal 1° lug. 1997 ([RU 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [FF 1993 II 1213](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)).
 [^10-2]: Nuovo testo giusta il n. I della LF del 21 dic. 1995, in vigore dal 1° lug. 1997 ([RU 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [FF 1993 II 1213](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)).
 
-### Capitolo 3:**** Esame dell’impatto sull’ambiente
+### Capitolo 3: Esame dell’impatto sull’ambiente
 
 [^tit1-chap3-1]
 
@@ -212,7 +212,7 @@ Il rapporto contiene tutti i dati necessari per valutare il progetto secondo le 
 
 <sup>2</sup> Il segreto d’affari e di fabbricazione è in ogni caso protetto.
 
-### Capitolo 4:**** Informazioni ambientali
+### Capitolo 4: Informazioni ambientali
 
 [^tit1-chap4-1]
 
@@ -474,7 +474,7 @@ Tali prescrizioni riguardano segnatamente:
 - a. le sostanze che, conformemente alla loro destinazione, giungono a contatto con l’ambiente, quali i diserbanti e gli antiparassitari, compresi i prodotti per la conservazione delle scorte e la protezione del legno, come anche i concimi, i regolatori di crescita, i sali da spargere e i gas propellenti;
 - b. le sostanze che o i cui derivati possono accumularsi nell’ambiente, quali i composti organici clorurati e i metalli pesanti.
 
-### Capitolo 3:**** Utilizzazione di organismi
+### Capitolo 3: Utilizzazione di organismi
 
 [^tit2-chap3-1]
 
@@ -590,7 +590,7 @@ La Commissione federale di esperti per la sicurezza biologica e la Commissione f
 
 [^29h-1]: Abrogato dall’art. 2 n. 1 del DF del 27 set. 2013 (Convenzione di Aarhus), con effetto dal 1° giu. 2014 ([RU 2014 1021](https://fedlex.data.admin.ch/eli/oc/2014/234); [FF 2012 3841](https://fedlex.data.admin.ch/eli/fga/2012/596)).
 
-### Capitolo 4:**** Rifiuti
+### Capitolo 4: Rifiuti
 
 [^tit2-chap4-1]
 
@@ -830,7 +830,7 @@ Qualora rimuova da un sito inquinato materiale che non dev’essere smaltito in 
 
 [^32bbis-1]: Introdotto dal n. I della LF del 16 dic. 2005, in vigore dal 1° nov. 2006 ([RU 2006 2677](https://fedlex.data.admin.ch/eli/oc/2006/410); [FF 2003 4341](https://fedlex.data.admin.ch/eli/fga/2003/773)[4376](https://fedlex.data.admin.ch/eli/fga/2003/775)).
 
-### Sezione 4:**** Risanamento di siti inquinati
+### Sezione 4: Risanamento di siti inquinati
 
 [^tit2-chap4-sec4-1]
 
@@ -980,7 +980,7 @@ Le indennità sono versate soltanto se i provvedimenti adottati sono conformi al
 [^32e-12]: Introdotta dal n. I della LF del 26 set. 2014, in vigore dal 1° apr. 2015 ([RU 2015 865](https://fedlex.data.admin.ch/eli/oc/2015/164); [FF 2014 3151](https://fedlex.data.admin.ch/eli/fga/2014/820)[3163](https://fedlex.data.admin.ch/eli/fga/2014/822)).
 [^32e-13]: Nuovo testo giusta il n. I della LF del 20 mar. 2009 (Indennità per il risanamento di impianti di tiro), in vigore dal 1° ott. 2009 ([RU 2009 4739](https://fedlex.data.admin.ch/eli/oc/2009/556); [FF 2008 7931](https://fedlex.data.admin.ch/eli/fga/2008/1719)[7941](https://fedlex.data.admin.ch/eli/fga/2008/1721)).
 
-### Capitolo 5:**** Deterioramento del suolo
+### Capitolo 5: Deterioramento del suolo
 
 [^tit2-chap5-1]
 
@@ -1017,7 +1017,7 @@ Le indennità sono versate soltanto se i provvedimenti adottati sono conformi al
 
 <sup>3</sup> I valori di risanamento definiscono il grado di deterioramento oltre il quale, in base alle attuali conoscenze scientifiche o all’esperienza, determinate utilizzazioni non sono più possibili senza mettere in pericolo l’uomo, la fauna o la flora.
 
-### Capitolo 6:**** Tasse d’incentivazione
+### Capitolo 6: Tasse d’incentivazione
 
 [^tit2-chap6-1]
 
@@ -1130,18 +1130,18 @@ Sono soggetti alla tassa:
 [^35c-4]: Nuovo testo giusta l’all. 2 n. 6 della LF del 21 giu. 1996 sull’imposizione degli oli minerali, in vigore dal 1° gen. 1997 ([RU 1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371); [FF 1995 III 137](https://fedlex.data.admin.ch/eli/fga/1995/3_137_133_137)).
 [^35c-5]: Introdotto dall’all. 2 n. 6 della LF del 21 giu. 1996 sull’imposizione degli oli minerali ([RU 1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371); [FF 1995 III 137](https://fedlex.data.admin.ch/eli/fga/1995/3_137_133_137)). Nuovo testo giusta il n. I della LF del 20 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4215](https://fedlex.data.admin.ch/eli/oc/2003/624); [FF 2002 5762](https://fedlex.data.admin.ch/eli/fga/2002/1014)).
 
-### Capitolo 7:**** Messa in commercio di materie prime e prodotti****
+### Capitolo 7: Messa in commercio di materie prime e prodotti
 
 [^tit2-chap7-1][^tit2-chap7-2]
 
 [^tit2-chap7-1]: Introdotto dall’all. della LF del 21 mar. 2014, in vigore dal 1° ago. 2016 ([RU 2016 2661](https://fedlex.data.admin.ch/eli/oc/2016/425); [FF 2013 4963](https://fedlex.data.admin.ch/eli/fga/2013/1036)[5007](https://fedlex.data.admin.ch/eli/fga/2013/1038)).
 [^tit2-chap7-2]: Nuovo testo giusta il n. I della LF del 27 set. 2019, in vigore dal 1° gen. 2022 ([RU 2021 614](https://fedlex.data.admin.ch/eli/oc/2021/614); [FF 2019 1123](https://fedlex.data.admin.ch/eli/fga/2019/275)).
 
-### Sezione 1: Biocarburanti e biocombustibili****
+### Sezione 1: Biocarburanti e biocombustibili
 
 [^tit2-chap7-sec1-1]
 
-[^tit2-chap7-sec1-1]: Introdotto dal n. II della LF del 20 dic. 2019 che proroga i termini delle agevolazioni fiscali per il gas naturale, il gas liquido e i biocarburanti e che modifica la legge sul CO<sub>2</sub>, in vigore dal 1° lug. 2020 al 31 dic. 2023 ([RU 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [FF 2019 4719](https://fedlex.data.admin.ch/eli/fga/2019/2011)[4827](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
+[^tit2-chap7-sec1-1]: Introdotto dal n. II della LF del 20 dic. 2019 che proroga i termini delle agevolazioni fiscali per il gas naturale, il gas liquido e i biocarburanti e che modifica la legge sul CO<sub>2</sub>, in vigore dal 1° lug. 2020 al 31 dic. 2023, prorogato al 31 dic. 2024 ([RU 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [FF 2019 4719](https://fedlex.data.admin.ch/eli/fga/2019/2011)[4827](https://fedlex.data.admin.ch/eli/fga/2019/2069); [2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
 
 #### Art. 35d
 
@@ -1158,10 +1158,10 @@ Tenendo conto delle disposizioni della legislazione sull’imposizione degli oli
 - a. le esigenze ecologiche o sociali che i biocarburanti e i biocombustibili soggetti a omologazione devono soddisfare;
 - b. la procedura di omologazione.
 
-[^35d-1]: Nuovo testo giusta il n. I 3 della LF del 20 dic. 2019 che proroga i termini delle agevolazioni fiscali per il gas naturale, il gas liquido e i biocarburanti e che modifica la legge sul CO<sub>2</sub>, in vigore dal 1° lug. 2020 al 31 dic. 2023 ([RU 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [FF 2019 4719](https://fedlex.data.admin.ch/eli/fga/2019/2011)[4827](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
+[^35d-1]: Nuovo testo giusta il n. I 3 della LF del 20 dic. 2019 che proroga i termini delle agevolazioni fiscali per il gas naturale, il gas liquido e i biocarburanti e che modifica la legge sul CO<sub>2</sub>, in vigore dal 1° lug. 2020 al 31 dic. 2023, prorogato al 31 dic. 2024 ([RU 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [FF 2019 4719](https://fedlex.data.admin.ch/eli/fga/2019/2011)[4827](https://fedlex.data.admin.ch/eli/fga/2019/2069); [2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
 [^35d-2]: [RS 641.61](https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371)
 
-### Sezione 2:**** Legno e prodotti da esso derivati nonché altre materie prime e prodotti
+### Sezione 2: Legno e prodotti da esso derivati nonché altre materie prime e prodotti
 
 [^tit2-chap7-sec2-1]
 
@@ -1296,13 +1296,13 @@ Esso può stipulare accordi internazionali su:
 
 <sup>4</sup> Le autorità esecutive federali tengono conto delle misure di protezione dell’ambiente previste dai Cantoni.[^41-5]
 
-[^41-1]: Nuovo testo giusta il n. II della LF del 20 dic. 2019 che proroga i termini delle agevolazioni fiscali per il gas naturale, il gas liquido e i biocarburanti e che modifica la legge sul CO<sub>2</sub>, in vigore dal 1° lug. 2020 al 31 dic. 2023 ([RU 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [FF 2019 4719](https://fedlex.data.admin.ch/eli/fga/2019/2011)[4827](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
+[^41-1]: Nuovo testo giusta il n. I della LF del 27 set. 2019, in vigore dal 1° gen. 2022 ([RU 2021 614](https://fedlex.data.admin.ch/eli/oc/2021/614); [FF 2019 1123](https://fedlex.data.admin.ch/eli/fga/2019/275)).
 [^41-2]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
 [^41-3]: Nuovo testo giusta il n. I 14 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472)3124; FF **1998** 2029).
 [^41-4]: Introdotto dal n. I 14 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472)3124; FF **1998** 2029).
 [^41-5]: Originario cpv. 3.
 
-### Sezione 2*a*:**** Collaborazione con l’economia
+### Sezione 2*a*: Collaborazione con l’economia
 
 [^tit3-chap1-sec2a-1]
 
@@ -1484,7 +1484,7 @@ La Confederazione può accordare contributi:
 
 ### Capitolo 3: Procedura
 
-### Sezione 1: Rimedi giuridici****
+### Sezione 1: Rimedi giuridici
 
 [^tit3-chap3-sec1-1]
 
@@ -1499,7 +1499,7 @@ La procedura di ricorso è retta dalle disposizioni generali sull’amministrazi
 [^54-1]: Nuovo testo giusta l’all. n. 91 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^54-2]: Abrogata dal n. I della LF del 20 dic. 2006, con effetto dal 1° lug. 2007 ([RU 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [FF 2005 4777](https://fedlex.data.admin.ch/eli/fga/2005/841)[4817](https://fedlex.data.admin.ch/eli/fga/2005/843)).
 
-### Sezione 2: Ricorso delle associazioni contro decisioni relative ad impianti****
+### Sezione 2: Ricorso delle associazioni contro decisioni relative ad impianti
 
 [^tit3-chap3-sec2-1]
 
@@ -1586,7 +1586,7 @@ Le spese della procedura di ricorso dinnanzi alle autorità federali sono a cari
 
 [^55e-1]: Introdotto dal n. I della LF del 20 dic. 2006, in vigore dal 1° lug. 2007 ([RU 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [FF 2005 4777](https://fedlex.data.admin.ch/eli/fga/2005/841)[4817](https://fedlex.data.admin.ch/eli/fga/2005/843)).
 
-### Sezione 3:**** Ricorso delle associazioni contro autorizzazioni concernenti organismi
+### Sezione 3: Ricorso delle associazioni contro autorizzazioni concernenti organismi
 
 [^tit3-chap3-sec3-1]
 
@@ -1605,7 +1605,7 @@ Le organizzazioni di protezione dell’ambiente sono legittimate a ricorrere con
 
 <sup>3</sup> Sono applicabili gli articoli 55*a* e 55*b* capoversi 1 e 2.
 
-### Sezione 4: Ricorso delle autorità e dei Comuni, espropriazione, costi delle misure di sicurezza e delle rimozioni****
+### Sezione 4: Ricorso delle autorità e dei Comuni, espropriazione, costi delle misure di sicurezza e delle rimozioni
 
 [^tit3-chap3-sec4-1]
 
@@ -1653,7 +1653,7 @@ I costi delle misure che le autorità prendono per la difesa da un effetto immin
 
 [^59-1]: Nuovo testo giusta il n. I della LF del 21 dic. 1995, in vigore dal 1° lug. 1997 ([RU 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [FF 1993 II 1213](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)).
 
-## Titolo quarto:**** Responsabilità civile
+## Titolo quarto: Responsabilità civile
 
 [^tit4-1]
 
@@ -1771,7 +1771,7 @@ Il diritto di regresso si prescrive secondo l’articolo 59*c*. Il termine di tr
 
 [^59d-1]: Introdotto dall’all. n. 4 della LF del 21 mar. 2003 sull’ingegneria genetica, in vigore dal 1° gen. 2004 ([RU 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [FF 2000 2145](https://fedlex.data.admin.ch/eli/fga/2000/484)).
 
-## Titolo quinto:**** Disposizioni penali****
+## Titolo quinto: Disposizioni penali
 
 [^tit5-1][^tit5-2]
 
@@ -1870,14 +1870,14 @@ Il diritto di regresso si prescrive secondo l’articolo 59*c*. Il termine di tr
 <sup>5</sup> Se un atto costituisce contemporaneamente un’infrazione ai sensi dei capoversi 1–3 e un’infrazione a un altro atto normativo federale che l’UDSC[^61a-8] è incaricato di perseguire, si applica la pena prevista per l’infrazione più grave; detta pena può essere adeguatamente aumentata.[^61a-9]
 
 [^61a-1]: Introdotto dal n. I della LF del 21 dic. 1995, in vigore dal 1° lug. 1997 ([RU 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [FF 1993 II 1213](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)).
-[^61a-2]: Nuovo testo giusta il n. I 3 della LF del 20 dic. 2019 che proroga i termini delle agevolazioni fiscali per il gas naturale, il gas liquido e i biocarburanti e che modifica la legge sul CO<sub>2</sub>, in vigore dal 1° lug. 2020 al 31 dic. 2023 ([RU 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [FF 2019 4719](https://fedlex.data.admin.ch/eli/fga/2019/2011)[4827](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
+[^61a-2]: Nuovo testo giusta il n. I 3 della LF del 20 dic. 2019 che proroga i termini delle agevolazioni fiscali per il gas naturale, il gas liquido e i biocarburanti e che modifica la legge sul CO<sub>2</sub>, in vigore dal 1° lug. 2020 al 31 dic. 2023, prorogato al 31 dic. 2024 ([RU 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [FF 2019 4719](https://fedlex.data.admin.ch/eli/fga/2019/2011)[4827](https://fedlex.data.admin.ch/eli/fga/2019/2069); [2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
 [^61a-3]: Nuovo testo giusta il n. I della LF del 20 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4215](https://fedlex.data.admin.ch/eli/oc/2003/624); [FF 2002 5762](https://fedlex.data.admin.ch/eli/fga/2002/1014)).
-[^61a-4]: Nuovo testo giusta il n. I 3 della LF del 20 dic. 2019 che proroga i termini delle agevolazioni fiscali per il gas naturale, il gas liquido e i biocarburanti e che modifica la legge sul CO<sub>2</sub>, in vigore dal 1° lug. 2020 al 31 dic. 2023 ([RU 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [FF 2019 4719](https://fedlex.data.admin.ch/eli/fga/2019/2011)[4827](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
-[^61a-5]: Nuovo testo giusta il n. I 3 della LF del 20 dic. 2019 che proroga i termini delle agevolazioni fiscali per il gas naturale, il gas liquido e i biocarburanti e che modifica la legge sul CO<sub>2</sub>, in vigore dal 1° lug. 2020 al 31 dic. 2023 ([RU 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [FF 2019 4719](https://fedlex.data.admin.ch/eli/fga/2019/2011)[4827](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
+[^61a-4]: Nuovo testo giusta il n. I 3 della LF del 20 dic. 2019 che proroga i termini delle agevolazioni fiscali per il gas naturale, il gas liquido e i biocarburanti e che modifica la legge sul CO<sub>2</sub>, in vigore dal 1° lug. 2020 al 31 dic. 2023, prorogato al 31 dic. 2024 ([RU 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [FF 2019 4719](https://fedlex.data.admin.ch/eli/fga/2019/2011)[4827](https://fedlex.data.admin.ch/eli/fga/2019/2069); [2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
+[^61a-5]: Nuovo testo giusta il n. I 3 della LF del 20 dic. 2019 che proroga i termini delle agevolazioni fiscali per il gas naturale, il gas liquido e i biocarburanti e che modifica la legge sul CO<sub>2</sub>, in vigore dal 1° lug. 2020 al 31 dic. 2023, prorogato al 31 dic. 2024 ([RU 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [FF 2019 4719](https://fedlex.data.admin.ch/eli/fga/2019/2011)[4827](https://fedlex.data.admin.ch/eli/fga/2019/2069); [2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
 [^61a-6]: Nuova espr. giusta il n. I 31 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
-[^61a-7]: Nuovo testo giusta il n. I 3 della LF del 20 dic. 2019 che proroga i termini delle agevolazioni fiscali per il gas naturale, il gas liquido e i biocarburanti e che modifica la legge sul CO<sub>2</sub>, in vigore dal 1° lug. 2020 al 31 dic. 2023 ([RU 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [FF 2019 4719](https://fedlex.data.admin.ch/eli/fga/2019/2011)[4827](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
+[^61a-7]: Nuovo testo giusta il n. I 3 della LF del 20 dic. 2019 che proroga i termini delle agevolazioni fiscali per il gas naturale, il gas liquido e i biocarburanti e che modifica la legge sul CO<sub>2</sub>, in vigore dal 1° lug. 2020 al 31 dic. 2023, prorogato al 31 dic. 2024 ([RU 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [FF 2019 4719](https://fedlex.data.admin.ch/eli/fga/2019/2011)[4827](https://fedlex.data.admin.ch/eli/fga/2019/2069); [2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
 [^61a-8]: Nuova espr. giusta il n. I 31 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
-[^61a-9]: Introdotto dall’all. della LF del 21 mar. 2014 ([RU 2016 2661](https://fedlex.data.admin.ch/eli/oc/2016/425); [FF 2013 4963](https://fedlex.data.admin.ch/eli/fga/2013/1036)[5007](https://fedlex.data.admin.ch/eli/fga/2013/1038)). Nuovo testo giusta il n. I 3 della LF del 20 dic. 2019 che proroga i termini delle agevolazioni fiscali per il gas naturale, il gas liquido e i biocarburanti e che modifica la legge sul CO<sub>2</sub>, in vigore dal 1° lug. 2020 al 31 dic. 2023 ([RU 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [FF 2019 4719](https://fedlex.data.admin.ch/eli/fga/2019/2011)[4827](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
+[^61a-9]: Introdotto dall’all. della LF del 21 mar. 2014 ([RU 2016 2661](https://fedlex.data.admin.ch/eli/oc/2016/425); [FF 2013 4963](https://fedlex.data.admin.ch/eli/fga/2013/1036)[5007](https://fedlex.data.admin.ch/eli/fga/2013/1038)). Nuovo testo giusta il n. I 3 della LF del 20 dic. 2019 che proroga i termini delle agevolazioni fiscali per il gas naturale, il gas liquido e i biocarburanti e che modifica la legge sul CO<sub>2</sub>, in vigore dal 1° lug. 2020 al 31 dic. 2023, prorogato al 31 dic. 2024 ([RU 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [FF 2019 4719](https://fedlex.data.admin.ch/eli/fga/2019/2011)[4827](https://fedlex.data.admin.ch/eli/fga/2019/2069); [2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
 
 #### Art. 62
 
@@ -1888,9 +1888,9 @@ Il diritto di regresso si prescrive secondo l’articolo 59*c*. Il termine di tr
 <sup>2</sup> Alle infrazioni secondo l’articolo 61*a* si applicano inoltre le altre disposizioni della legge federale sul diritto penale amministrativo.[^62-2]
 
 [^62-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
-[^62-2]: Introdotto dal n. I della LF del 21 dic. 1995 ([RU 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [FF 1993 II 1213](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)). Nuovo testo giusta il n. I 3 della LF del 20 dic. 2019 che proroga i termini delle agevolazioni fiscali per il gas naturale, il gas liquido e i biocarburanti e che modifica la legge sul CO<sub>2</sub>, in vigore dal 1° lug. 2020 al 31 dic. 2023 ([RU 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [FF 2019 4719](https://fedlex.data.admin.ch/eli/fga/2019/2011)[4827](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
+[^62-2]: Introdotto dal n. I della LF del 21 dic. 1995 ([RU 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [FF 1993 II 1213](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)). Nuovo testo giusta il n. I 3 della LF del 20 dic. 2019 che proroga i termini delle agevolazioni fiscali per il gas naturale, il gas liquido e i biocarburanti e che modifica la legge sul CO<sub>2</sub>, in vigore dal 1° lug. 2020 al 31 dic. 2023, prorogato al 31 dic. 2024 ([RU 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [FF 2019 4719](https://fedlex.data.admin.ch/eli/fga/2019/2011)[4827](https://fedlex.data.admin.ch/eli/fga/2019/2069); [2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
 
-## Titolo sesto:**** Disposizioni finali
+## Titolo sesto: Disposizioni finali
 
 [^tit6-1]
 

@@ -4,11 +4,11 @@ title: "Federal Act of 7 October 1983 on the Protection of the Environment (Envi
 short: EPA
 eli: "https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122"
 language: en
-version: 2022-01-01
+version: 2024-01-01
 adopted: 1983-10-07
 in_force: 1985-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122/20220101/en/xml/fedlex-data-admin-ch-eli-cc-1984-1122_1122_1122-20220101-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/20220101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122/20240101/en/xml/fedlex-data-admin-ch-eli-cc-1984-1122_1122_1122-20240101-en-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/20240101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Environmental Protection Act, EPA)
 
-of 7 October 1983 (Status as of 1 January 2022)
+of 7 October 1983 (Status as of 1 January 2024)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -131,7 +131,7 @@ If the interests of national defence so require, the Federal Council regulates e
 [^7-9]: Inserted by No I of the FA of 21 Dec. 1995, in force since 1 July 1997 ([AS 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [BBl 1993 II 1445](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)).
 [^7-10]: Inserted by No I of the FA of 21 Dec. 1995 ([AS 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [BBl 1993 II 1445](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)). Amended by Annex No 4 of the Gene Technology Act of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)).
 [^7-11]: Inserted by Art. 2 No I of the FD of 27 Sept. 2013 (Aarhus Convention), in force since 1 June 2014 ([AS 2014 1021](https://fedlex.data.admin.ch/eli/oc/2014/234); [BBl 2012 4323](https://fedlex.data.admin.ch/eli/fga/2012/596)).
-[^7-12]: Inserted by the Annex to the FA of 21 March 2014 ([AS 2016 2661](https://fedlex.data.admin.ch/eli/oc/2016/425); [BBl 2013 5737](https://fedlex.data.admin.ch/eli/fga/2013/1036)[5783](https://fedlex.data.admin.ch/eli/fga/2013/1038)). Amended by No I 3 of the FA of 20 Dec. 2019 on the Extension of the Time Limit for Tax Relief for Natural Gas, Liquid Gas and Biogenic Fuels and on the Amendment of the Federal Act on the Reduction of CO<sub>2</sub> Emissions, in force from 1 July 2020 to 31 Dec. 2023 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011)[5813](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
+[^7-12]: Inserted by the Annex to the FA of 21 March 2014 ([AS 2016 2661](https://fedlex.data.admin.ch/eli/oc/2016/425); [BBl 2013 5737](https://fedlex.data.admin.ch/eli/fga/2013/1036)[5783](https://fedlex.data.admin.ch/eli/fga/2013/1038)). Amended by No I 3 of the FA of 20 Dec. 2019 on the Extension of the Time Limit for Tax Relief for Natural Gas, Liquid Gas and Biogenic Fuels and on the Amendment of the Federal Act on the Reduction of CO<sub>2</sub> Emissions, in force from 1 July 2020 to 31 Dec. 2023, extended to 31 Dec. 2024 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011), [5813](https://fedlex.data.admin.ch/eli/fga/2019/2069); [2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
 
 #### Art. 8
 
@@ -160,7 +160,7 @@ Effects are assessed individually, collectively and according to their actions i
 [^10-1]: Amended by No I of the FA of 21 Dec. 1995, in force since 1 July 1997 ([AS 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [BBl 1993 II 1445](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)).
 [^10-2]: Amended by No I of the FA of 21 Dec. 1995, in force since 1 July 1997 ([AS 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [BBl 1993 II 1445](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)).
 
-### Chapter 3**** Environmental Impact Assessment
+### Chapter 3 Environmental Impact Assessment
 
 [^tit1-chap3-1]
 
@@ -212,7 +212,7 @@ The report contains all the information required to assess the project in accord
 
 <sup>2</sup> Trade and business secrecy must be preserved in all cases.
 
-### Chapter 4**** Environmental Information
+### Chapter 4 Environmental Information
 
 [^tit1-chap4-1]
 
@@ -474,7 +474,7 @@ These regulations relate in particular to:
 - a. substances that enter the environment due to their intended purpose, such as herbicides and pesticides, including wood preservatives and stock preservatives, fertilisers, growth regulators, road salts and propellants;
 - b. substances or their derivatives that can accumulate in the environment, such as chlorinated organic compounds and heavy metals.
 
-### Chapter 3**** Handling Organisms
+### Chapter 3 Handling Organisms
 
 [^tit2-chap3-1]
 
@@ -590,7 +590,7 @@ The Swiss Expert Committee for Biosafety and the Federal Ethics Committee on Non
 
 [^29h-1]: Repealed by Art. 2 No I of the FD of 27 Sept. 2013 (Aarhus Convention), with effect from 1 June 2014 ([AS 2014 1021](https://fedlex.data.admin.ch/eli/oc/2014/234); [BBl 2012 4323](https://fedlex.data.admin.ch/eli/fga/2012/596)).
 
-### Chapter 4**** Waste
+### Chapter 4 Waste
 
 [^tit2-chap4-1]
 
@@ -830,7 +830,7 @@ If the proprietor of land removes material from a polluted site that does not re
 
 [^32bbis-1]: Inserted by No I of the FA of 16 Dec. 2005, in force since 1 Nov. 2006 ([AS 2006 2677](https://fedlex.data.admin.ch/eli/oc/2006/410); [BBl 2003 5008](https://fedlex.data.admin.ch/eli/fga/2003/773)[5043](https://fedlex.data.admin.ch/eli/fga/2003/775)).
 
-### Section 4**** Remediation of Polluted Sites
+### Section 4 Remediation of Polluted Sites
 
 [^tit2-chap4-sec4-1]
 
@@ -978,7 +978,7 @@ The payments are made only if the measures taken are environmentally compatible 
 [^32e-10]: Inserted by No I of the FA of 26 Sept. 2014, in force since 1 April 2015 ([AS 2015 865](https://fedlex.data.admin.ch/eli/oc/2015/164); [BBl 2014 3673](https://fedlex.data.admin.ch/eli/fga/2014/820)[3685](https://fedlex.data.admin.ch/eli/fga/2014/822)).
 [^32e-11]: Amended by No I of the FA of 20 March 2009 (Rights to Payment for the Remediation of Shooting Ranges), in force since 1 Oct. 2009 ([AS 2009 4739](https://fedlex.data.admin.ch/eli/oc/2009/556); [BBl 2008 9213](https://fedlex.data.admin.ch/eli/fga/2008/1719)[9223](https://fedlex.data.admin.ch/eli/fga/2008/1721)).
 
-### Chapter 5**** Soil Pollution
+### Chapter 5 Soil Pollution
 
 [^tit2-chap5-1]
 
@@ -1017,7 +1017,7 @@ The payments are made only if the measures taken are environmentally compatible 
 
 <sup>3</sup> The soil remediation values indicate the pollution level above which, in the light of current scientific knowledge or experience, certain uses are not possible without endangering humans, animals or plants.
 
-### Chapter 6**** Incentive Taxes
+### Chapter 6 Incentive Taxes
 
 [^tit2-chap6-1]
 
@@ -1131,18 +1131,18 @@ The following persons are liable:
 [^35c-5]: Amended by Annex 2 No 6 of the Mineral Oil Tax Act of 21 June 1996, in force since 1 Jan. 1997 ([AS 1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371); [BBl 1995 III 137](https://fedlex.data.admin.ch/eli/fga/1995/3_137_133_137)).
 [^35c-6]: Inserted by Annex 2 No 6 of the Mineral Oil Tax Act of 21 June 1996 ([AS 1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371); [BBl 1995 III 137](https://fedlex.data.admin.ch/eli/fga/1995/3_137_133_137)). Amended by No I of the FA of 20 June 2003, in force since 1 Jan. 2004 ([AS 2003 4215](https://fedlex.data.admin.ch/eli/oc/2003/624); [BBl 2002 6464](https://fedlex.data.admin.ch/eli/fga/2002/1014)).
 
-### Chapter 7**** Putting Raw Materials and Products into Circulation****
+### Chapter 7 Putting Raw Materials and Products into Circulation
 
 [^tit2-chap7-1][^tit2-chap7-2]
 
 [^tit2-chap7-1]: Inserted by the Annex to the FA of 21 March 2014, in force since 1 August 2016 ([AS 2016 2661](https://fedlex.data.admin.ch/eli/oc/2016/425); [BBl 2013 5737](https://fedlex.data.admin.ch/eli/fga/2013/1036)[5783](https://fedlex.data.admin.ch/eli/fga/2013/1038)).
-[^tit2-chap7-2]: Inserted by No I of the FA of 27 Sept. 2019, in force since 1 Jan. 2022 ([AS 2021 614](https://fedlex.data.admin.ch/eli/oc/2021/614); [BBl 2019 1251](https://fedlex.data.admin.ch/eli/fga/2019/275)).
+[^tit2-chap7-2]: Amended by No I of the FA of 27 Sept. 2019, in force since 1 Jan. 2022 ([AS 2021 614](https://fedlex.data.admin.ch/eli/oc/2021/614); [BBl 2019 1251](https://fedlex.data.admin.ch/eli/fga/2019/275)).
 
-### Section 1 Biogenic Motor and Thermal Fuels****
+### Section 1 Biogenic Motor and Thermal Fuels
 
 [^tit2-sec1-1]
 
-[^tit2-sec1-1]: Inserted by No II of the FA of 20 Dec. 2019 on the Extension of the Time Limit for Tax Relief for Natural Gas, Liquid Gas and Biogenic Fuels and on the Amendment of the Federal Act on the Reduction of CO<sub>2</sub> Emissions, in force from 1 July 2020 to 31 Dec. 2023 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011)[5813](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
+[^tit2-sec1-1]: Inserted by No II of the FA of 20 Dec. 2019 on the Extension of the Time Limit for Tax Relief for Natural Gas, Liquid Gas and Biogenic Fuels and on the Amendment of the Federal Act on the Reduction of CO<sub>2</sub> Emissions, in force from 1 July 2020 to 31 Dec. 2023, extended to 31 Dec. 2024 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011), [5813](https://fedlex.data.admin.ch/eli/fga/2019/2069); [2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
 
 #### Art. 35d
 
@@ -1159,10 +1159,10 @@ The Federal Council shall stipulate the following, taking account of the provisi
 - a. the ecological and social requirements that biogenic motor and thermal fuels requiring authorisation must meet;
 - b. the authorisation procedure.
 
-[^35d-1]: Amended by No I 3 of the FA of 20 Dec. 2019 on the Extension of the Time Limit for Tax Relief for Natural Gas, Liquid Gas and Biogenic Fuels and on the Amendment of the Federal Act on the Reduction of CO<sub>2</sub> Emissions, in force from 1 July 2020 to 31 Dec. 2023 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011)[5813](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
+[^35d-1]: Amended by No I 3 of the FA of 20 Dec. 2019 on the Extension of the Time Limit for Tax Relief for Natural Gas, Liquid Gas and Biogenic Fuels and on the Amendment of the Federal Act on the Reduction of CO<sub>2</sub> Emissions, in force from 1 July 2020 to 31 Dec. 2023, extended to 31 Dec. 2024 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011), [5813](https://fedlex.data.admin.ch/eli/fga/2019/2069); [2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
 [^35d-2]: [SR 641.61](https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371)
 
-### Section 2**** Timber and Wood Products and other Raw Materials and Products
+### Section 2 Timber and Wood Products and other Raw Materials and Products
 
 [^tit2-sec1-sec2-1]
 
@@ -1304,7 +1304,7 @@ It may conclude international agreements on:[^39-2]
 [^41-4]: Amended by No I 14 of the FA of 18 June 1999 on the Coordination and Simplification of Decision-making Procedures, in force since 1 Jan. 2000 ([AS 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); BBl **1998** 2591).
 [^41-5]: Originally para. 3.
 
-### Section 2*a***** Cooperation with the Private Sector
+### Section 2*a* Cooperation with the Private Sector
 
 [^tit3-chap1-sec2a-1]
 
@@ -1486,7 +1486,7 @@ The Confederation may make contributions:
 
 ### Chapter 3 Procedures
 
-### Section 1 Appeals****
+### Section 1 Appeals
 
 [^tit3-chap3-sec1-1]
 
@@ -1501,7 +1501,7 @@ Appeal proceedings are governed by the general provisions on the administration 
 [^54-1]: Amended by Annex No 91 of the Administrative Court Act of 17 June 2005, in force since 1 Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); BBl **2004** 4202).
 [^54-2]: Repealed by No I of the FA of 20 Dec. 2006, with effect from 1 July 2007 ([AS 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [BBl 2005 5351](https://fedlex.data.admin.ch/eli/fga/2005/841)[5391](https://fedlex.data.admin.ch/eli/fga/2005/843)).
 
-### Section 2 Organisations’ Right of Appeal against Rulings on Installations****
+### Section 2 Organisations’ Right of Appeal against Rulings on Installations
 
 [^tit3-chap3-sec2-1]
 
@@ -1588,7 +1588,7 @@ If the organisation loses the proceedings, it is liable for the costs of conduct
 
 [^55e-1]: Inserted by No I of the FA of 20 Dec. 2006, in force since 1 July 2007 ([AS 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [BBl 2005 5351](https://fedlex.data.admin.ch/eli/fga/2005/841)[5391](https://fedlex.data.admin.ch/eli/fga/2005/843)).
 
-### Section 3**** Organisations’ Right of Appeal against the Authorisation of Organisms
+### Section 3 Organisations’ Right of Appeal against the Authorisation of Organisms
 
 [^tit3-chap3-sec3-1]
 
@@ -1607,7 +1607,7 @@ Environmental protection organisations have a right of appeal against any author
 
 <sup>3</sup> The Articles 55*a* and 55*b* paragraphs 1 and 2 apply.
 
-### Section 4 Public Authority Appeals and Appeals by Communal Authorities, Compulsory Purchase, Costs of Safety and Remedial Measures****
+### Section 4 Public Authority Appeals and Appeals by Communal Authorities, Compulsory Purchase, Costs of Safety and Remedial Measures
 
 [^tit3-chap3-sec4-1]
 
@@ -1655,7 +1655,7 @@ The cost of measures taken by the authorities to prevent imminent pollution of t
 
 [^59-1]: Amended by No I of the FA of 21 Dec. 1995, in force since 1 July 1997 ([AS 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [BBl 1993 II 1445](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)).
 
-## Title 4**** Liability
+## Title 4 Liability
 
 [^tit4-1]
 
@@ -1771,7 +1771,7 @@ The right of recourse prescribes in accordance with Article 59*c*. The three-yea
 
 [^59d-1]: Inserted by Annex No 4 of the Gene Technology Act of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)).
 
-## Title 5**** Criminal Provisions
+## Title 5 Criminal Provisions
 
 [^tit5-1]
 
@@ -1868,14 +1868,14 @@ Liable to a fine not exceeding 20,000 francs is any person who wilfully:[^61-1]
 <sup>5</sup> If any act is an offence in accordance with paragraphs 1 to 3 and at the same time another offence against federal legislation that must be judged by the FOCBS[^61a-8], the penalty carried by the more serious offence applies; this may be increased appropriately.[^61a-9]
 
 [^61a-1]: Inserted by No I of the FA of 21 Dec. 1995, in force since 1 July 1997 ([AS 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [BBl 1993 II 1445](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)).
-[^61a-2]: Amended by No I 3 of the FA of 20 Dec. 2019 on the Extension of the Time Limit for Tax Relief for Natural Gas, Liquid Gas and Biogenic Fuels and on the Amendment of the Federal Act on the Reduction of CO<sub>2</sub> Emissions, in force from 1 July 2020 to 31 Dec. 2023 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011)[5813](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
+[^61a-2]: Amended by No I 3 of the FA of 20 Dec. 2019 on the Extension of the Time Limit for Tax Relief for Natural Gas, Liquid Gas and Biogenic Fuels and on the Amendment of the Federal Act on the Reduction of CO<sub>2</sub> Emissions, in force from 1 July 2020 to 31 Dec. 2023, extended to 31 Dec. 2024 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011), [5813](https://fedlex.data.admin.ch/eli/fga/2019/2069); [2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
 [^61a-3]: Amended by No I of the FA of 20 June 2003, in force since 1 Jan. 2004 ([AS 2003 4215](https://fedlex.data.admin.ch/eli/oc/2003/624); [BBl 2002 6464](https://fedlex.data.admin.ch/eli/fga/2002/1014)).
-[^61a-4]: Amended by No I 3 of the FA of 20 Dec. 2019 on the Extension of the Time Limit for Tax Relief for Natural Gas, Liquid Gas and Biogenic Fuels and on the Amendment of the Federal Act on the Reduction of CO<sub>2</sub> Emissions, in force from 1 July 2020 to 31 Dec. 2023 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011)[5813](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
-[^61a-5]: Amended by No I 3 of the FA of 20 Dec. 2019 on the Extension of the Time Limit for Tax Relief for Natural Gas, Liquid Gas and Biogenic Fuels and on the Amendment of the Federal Act on the Reduction of CO<sub>2</sub> Emissions, in force from 1 July 2020 to 31 Dec. 2023 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011)[5813](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
+[^61a-4]: Amended by No I 3 of the FA of 20 Dec. 2019 on the Extension of the Time Limit for Tax Relief for Natural Gas, Liquid Gas and Biogenic Fuels and on the Amendment of the Federal Act on the Reduction of CO<sub>2</sub> Emissions, in force from 1 July 2020 to 31 Dec. 2023, extended to 31 Dec. 2024 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011), [5813](https://fedlex.data.admin.ch/eli/fga/2019/2069); [2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
+[^61a-5]: Amended by No I 3 of the FA of 20 Dec. 2019 on the Extension of the Time Limit for Tax Relief for Natural Gas, Liquid Gas and Biogenic Fuels and on the Amendment of the Federal Act on the Reduction of CO<sub>2</sub> Emissions, in force from 1 July 2020 to 31 Dec. 2023, extended to 31 Dec. 2024 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011), [5813](https://fedlex.data.admin.ch/eli/fga/2019/2069); [2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
 [^61a-6]: Name in accordance with No I 31 of the Ordinance of 12 June 2020 on the Amendment of Legislation as a consequence of the Change to the Name of the Federal Customs Administration as part of its further Development, in force since 1 Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
-[^61a-7]: Amended by No I 3 of the FA of 20 Dec. 2019 on the Extension of the Time Limit for Tax Relief for Natural Gas, Liquid Gas and Biogenic Fuels and on the Amendment of the Federal Act on the Reduction of CO<sub>2</sub> Emissions, in force from 1 July 2020 to 31 Dec. 2023 [AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011)[5813](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
+[^61a-7]: Amended by No I 3 of the FA of 20 Dec. 2019 on the Extension of the Time Limit for Tax Relief for Natural Gas, Liquid Gas and Biogenic Fuels and on the Amendment of the Federal Act on the Reduction of CO<sub>2</sub> Emissions, in force from 1 July 2020 to 31 Dec. 2023, extended to 31 Dec. 2024 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011), [5813](https://fedlex.data.admin.ch/eli/fga/2019/2069); [2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
 [^61a-8]: Name in accordance with No I 31 of the Ordinance of 12 June 2020 on the Amendment of Legislation as a consequence of the Change to the Name of the Federal Customs Administration as part of its further Development, in force since 1 Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
-[^61a-9]: Inserted by the Annex to the FA of 21 March 2014 ([AS 2016 2661](https://fedlex.data.admin.ch/eli/oc/2016/425); [BBl 2013 5737](https://fedlex.data.admin.ch/eli/fga/2013/1036)[5783](https://fedlex.data.admin.ch/eli/fga/2013/1038)). Amended by No I 3 of the FA of 20 Dec. 2019 on the Extension of the Time Limit for Tax Relief for Natural Gas, Liquid Gas and Biogenic Fuels and on the Amendment of the Federal Act on the Reduction of CO<sub>2</sub> Emissions, in force from 1 July 2020 to 31 Dec. 2023 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011)[5813](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
+[^61a-9]: Inserted by the Annex to the FA of 21 March 2014 ([AS 2016 2661](https://fedlex.data.admin.ch/eli/oc/2016/425); [BBl 2013 5737](https://fedlex.data.admin.ch/eli/fga/2013/1036)[5783](https://fedlex.data.admin.ch/eli/fga/2013/1038)). Amended by No I 3 of the FA of 20 Dec. 2019 on the Extension of the Time Limit for Tax Relief for Natural Gas, Liquid Gas and Biogenic Fuels and on the Amendment of the Federal Act on the Reduction of CO<sub>2</sub> Emissions, in force from 1 July 2020 to 31 Dec. 2023, extended to 31 Dec. 2024 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011), [5813](https://fedlex.data.admin.ch/eli/fga/2019/2069); [2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
 
 #### Art. 62
 
@@ -1886,9 +1886,9 @@ Liable to a fine not exceeding 20,000 francs is any person who wilfully:[^61-1]
 <sup>2</sup> For offences against Article 61*a*, the other provisions of the Federal Act of 22 March 1974 on Administrative Criminal Law also apply.[^62-2]
 
 [^62-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
-[^62-2]: Inserted by No I of the FA of 21 Dec. 1995 ([AS 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [BBl 1993 II 1445](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)). Amended by the Annex to the FA of 21 March 2014 Amended by No I 3 of the FA of 20 Dec. 2019 on the Extension of the Time Limit for Tax Relief for Natural Gas, Liquid Gas and Biogenic Fuels and on the Amendment of the Federal Act on the Reduction of CO<sub>2</sub> Emissions, in force from 1 July 2020 to 31 Dec. 2023 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011)[5813](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
+[^62-2]: Inserted by No I of the FA of 21 Dec. 1995 ([AS 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [BBl 1993 II 1445](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)). Amended by the Annex to the FA of 21 March 2014 Amended by No I 3 of the FA of 20 Dec. 2019 on the Extension of the Time Limit for Tax Relief for Natural Gas, Liquid Gas and Biogenic Fuels and on the Amendment of the Federal Act on the Reduction of CO<sub>2</sub> Emissions, in force from 1 July 2020 to 31 Dec. 2023, extended to 31 Dec. 2024 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011), [5813](https://fedlex.data.admin.ch/eli/fga/2019/2069); [2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
 
-## Title 6**** Final Provisions
+## Title 6 Final Provisions
 
 [^tit6-1]
 

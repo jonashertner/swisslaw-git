@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 7. Oktober 1983 über den Umweltschutz (Umweltschutzges
 short: USG
 eli: "https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122"
 language: de
-version: 2022-01-01
+version: 2024-01-01
 adopted: 1983-10-07
 in_force: 1985-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1984-1122_1122_1122-20220101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122/20240101/de/xml/fedlex-data-admin-ch-eli-cc-1984-1122_1122_1122-20240101-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/20220101/de"
 
 (Umweltschutzgesetz, USG)
 
-vom 7. Oktober 1983 (Stand am 1. Januar 2022)
+vom 7. Oktober 1983 (Stand am 1. Januar 2024)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -121,7 +121,7 @@ Soweit die Gesamtverteidigung es erfordert, regelt der Bundesrat durch Verordnun
 [^7-1]: Fassung gemäss Anhang Ziff. 4 des Gentechnikgesetzes vom 21. März 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)).
 [^7-2]: Fassung gemäss Ziff. I des BG vom 21. Dez. 1995, in Kraft seit 1. Juli 1997 ([AS 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [BBl 1993 II 1445](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)).
 [^7-3]: Eingefügt durch Ziff. I des BG vom 21. Dez. 1995, in Kraft seit 1. Juli 1997 ([AS 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [BBl 1993 II 1445](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)).
-[^7-4]: Fassung gemäss Anhang Ziff. II 2 des Chemikaliengesetzes vom 15. Dez. 2000, in Kraft seit 1. Aug. 2005 ([AS 2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724), [2005 2293](https://fedlex.data.admin.ch/eli/oc/2005/388); [BBl 2000 687](https://fedlex.data.admin.ch/eli/fga/2000/195)).
+[^7-4]: Fassung gemäss Anhang Ziff. II 2 des Chemikaliengesetzes vom 15. Dez. 2000, in Kraft seit 1. Aug. 2005 ([AS 2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724); [2005 2293](https://fedlex.data.admin.ch/eli/oc/2005/388); [BBl 2000 687](https://fedlex.data.admin.ch/eli/fga/2000/195)).
 [^7-5]: Eingefügt durch Ziff. I des BG vom 21. Dez. 1995, in Kraft seit 1. Juli 1997 ([AS 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [BBl 1993 II 1445](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)).
 [^7-6]: Eingefügt durch Ziff. I des BG vom 21. Dez. 1995, in Kraft seit 1. Juli 1997 ([AS 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [BBl 1993 II 1445](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)).
 [^7-7]: Eingefügt durch Anhang Ziff. 4 des Gentechnikgesetzes vom 21. März 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)).
@@ -129,7 +129,7 @@ Soweit die Gesamtverteidigung es erfordert, regelt der Bundesrat durch Verordnun
 [^7-9]: Eingefügt durch Ziff. I des BG vom 21. Dez. 1995, in Kraft seit 1. Juli 1997 ([AS 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [BBl 1993 II 1445](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)).
 [^7-10]: Eingefügt durch Ziff. I des BG vom 21. Dez. 1995 ([AS 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [BBl 1993 II 1445](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)). Fassung gemäss Anhang Ziff. 4 des Gentechnikgesetzes vom 21. März 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)).
 [^7-11]: Eingefügt durch Art. 2 Ziff. 1 des BB vom 27. Sept. 2013 (Arhus-Konvention), in Kraft seit 1. Juni 2014 ([AS 2014 1021](https://fedlex.data.admin.ch/eli/oc/2014/234); [BBl 2012 4323](https://fedlex.data.admin.ch/eli/fga/2012/596)).
-[^7-12]: Eingefügt durch Anhang des BG vom 21. März 2014 ([AS 2016 2661](https://fedlex.data.admin.ch/eli/oc/2016/425); [BBl 2013 5737](https://fedlex.data.admin.ch/eli/fga/2013/1036)[5783](https://fedlex.data.admin.ch/eli/fga/2013/1038)). Fassung gemäss Ziff. I 3 des BG vom 20. Dez. 2019 über die Verlängerung der Befristung der Steuererleichterungen für Erdgas, Flüssiggas und biogene Treibstoffe und über die Änderung des Bundesgesetzes über die Reduktion der CO<sub>2</sub>-Emissionen, in Kraft vom 1. Juli 2020 bis zum 31. Dez. 2023 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011)[5813](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
+[^7-12]: Eingefügt durch Anhang des BG vom 21. März 2014 ([AS 2016 2661](https://fedlex.data.admin.ch/eli/oc/2016/425); [BBl 2013 5737](https://fedlex.data.admin.ch/eli/fga/2013/1036), [5783](https://fedlex.data.admin.ch/eli/fga/2013/1038)). Fassung gemäss Ziff. I 3 des BG vom 20. Dez. 2019 über die Verlängerung der Befristung der Steuererleichterungen für Erdgas, Flüssiggas und biogene Treibstoffe und über die Änderung des Bundesgesetzes über die Reduktion der CO<sub>2</sub>-Emissionen, in Kraft vom 1. Juli 2020 bis zum 31. Dez. 2023, verlängert bis zum 31. Dez. 2024 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011), [5813](https://fedlex.data.admin.ch/eli/fga/2019/2069); [2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
 
 #### Art. 8
 
@@ -141,7 +141,7 @@ Einwirkungen werden sowohl einzeln als auch gesamthaft und nach ihrem Zusammenwi
 
 [^9-1]
 
-[^9-1]: Aufgehoben durch Ziff. I des BG vom 20. Dez. 2006, mit Wirkung seit 1. Juli 2007 ([AS 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [BBl 2005 5351](https://fedlex.data.admin.ch/eli/fga/2005/841)[5391](https://fedlex.data.admin.ch/eli/fga/2005/843)).
+[^9-1]: Aufgehoben durch Ziff. I des BG vom 20. Dez. 2006, mit Wirkung seit 1. Juli 2007 ([AS 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [BBl 2005 5351](https://fedlex.data.admin.ch/eli/fga/2005/841), [5391](https://fedlex.data.admin.ch/eli/fga/2005/843)).
 
 #### Art. 10
 
@@ -158,11 +158,11 @@ Einwirkungen werden sowohl einzeln als auch gesamthaft und nach ihrem Zusammenwi
 [^10-1]: Fassung gemäss Ziff. I des BG vom 21. Dez. 1995, in Kraft seit 1. Juli 1997 ([AS 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [BBl 1993 II 1445](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)).
 [^10-2]: Fassung gemäss Ziff. I des BG vom 21. Dez. 1995, in Kraft seit 1. Juli 1997 ([AS 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [BBl 1993 II 1445](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)).
 
-### 3. Kapitel:**** Umweltverträglichkeitsprüfung
+### 3. Kapitel: Umweltverträglichkeitsprüfung
 
 [^tit1-chap3-1]
 
-[^tit1-chap3-1]: Eingefügt durch Ziff. I des BG vom 20. Dez. 2006, in Kraft seit 1. Juli 2007 ([AS 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [BBl 2005 5351](https://fedlex.data.admin.ch/eli/fga/2005/841)[5391](https://fedlex.data.admin.ch/eli/fga/2005/843)).
+[^tit1-chap3-1]: Eingefügt durch Ziff. I des BG vom 20. Dez. 2006, in Kraft seit 1. Juli 2007 ([AS 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [BBl 2005 5351](https://fedlex.data.admin.ch/eli/fga/2005/841), [5391](https://fedlex.data.admin.ch/eli/fga/2005/843)).
 
 #### Art. 10a
 
@@ -210,7 +210,7 @@ Der Bericht enthält alle Angaben, die zur Prüfung des Vorhabens nach den Vorsc
 
 <sup>2</sup> Das Fabrikations- und Geschäftsgeheimnis bleibt in jedem Fall gewahrt.
 
-### 4. Kapitel:**** Umweltinformationen
+### 4. Kapitel: Umweltinformationen
 
 [^tit1-chap4-1]
 
@@ -447,7 +447,7 @@ Wer Stoffe in Verkehr bringt, muss den Abnehmer:
 <sup>2</sup> Der Bundesrat erlässt Vorschriften über Art, Inhalt und Umfang der Information der Abnehmer.[^27-2]
 
 [^27-1]: Fassung gemäss Ziff. I des BG vom 21. Dez. 1995, in Kraft seit 1. Juli 1997 ([AS 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [BBl 1993 II 1445](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)).
-[^27-2]: Fassung gemäss Anhang Ziff. II 2 des Chemikaliengesetzes vom 15. Dez. 2000, in Kraft seit 1. Aug. 2005 ([AS 2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724), [2005 2293](https://fedlex.data.admin.ch/eli/oc/2005/388)Art. 1; [BBl 2000 687](https://fedlex.data.admin.ch/eli/fga/2000/195)).
+[^27-2]: Fassung gemäss Anhang Ziff. II 2 des Chemikaliengesetzes vom 15. Dez. 2000, in Kraft seit 1. Aug. 2005 ([AS 2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724); [2005 2293](https://fedlex.data.admin.ch/eli/oc/2005/388)Art. 1; [BBl 2000 687](https://fedlex.data.admin.ch/eli/fga/2000/195)).
 
 #### Art. 28
 
@@ -472,7 +472,7 @@ Diese Vorschriften betreffen namentlich:
 - a. Stoffe, die gemäss ihrer Bestimmung in die Umwelt gelangen, wie Stoffe zur Bekämpfung von Unkräutern und Schädlingen, einschliesslich Vorratsschutz- und Holzschutzmittel, sowie Dünger, Wachstumsregulatoren, Streusalze und Treibgase;
 - b. Stoffe, die oder deren Folgeprodukte sich in der Umwelt anreichern können, wie chlorhaltige organische Verbindungen und Schwermetalle.
 
-### 3. Kapitel:**** Umgang mit Organismen
+### 3. Kapitel: Umgang mit Organismen
 
 [^tit2-chap3-1]
 
@@ -588,7 +588,7 @@ Die Eidgenössische Fachkommission für die biologische Sicherheit und die Eidge
 
 [^29h-1]: Aufgehoben durch Art. 2 Ziff. 1 des BB vom 27. Sept. 2013 (Arhus-Konvention), mit Wirkung seit 1. Juni 2014 ([AS 2014 1021](https://fedlex.data.admin.ch/eli/oc/2014/234); [BBl 2012 4323](https://fedlex.data.admin.ch/eli/fga/2012/596)).
 
-### 4. Kapitel:**** Abfälle
+### 4. Kapitel: Abfälle
 
 [^tit2-chap4-1]
 
@@ -826,13 +826,13 @@ Entfernt der Inhaber eines Grundstücks Material aus einem belasteten Standort, 
 
 <sup>3</sup> Ansprüche nach Absatz 1 können längstens bis zum 1. November 2021 geltend gemacht werden.
 
-[^32bbis-1]: Eingefügt durch Ziff. I des BG vom 16. Dez. 2005, in Kraft seit 1. Nov. 2006 ([AS 2006 2677](https://fedlex.data.admin.ch/eli/oc/2006/410); [BBl 2003 5008](https://fedlex.data.admin.ch/eli/fga/2003/773)[5043](https://fedlex.data.admin.ch/eli/fga/2003/775)).
+[^32bbis-1]: Eingefügt durch Ziff. I des BG vom 16. Dez. 2005, in Kraft seit 1. Nov. 2006 ([AS 2006 2677](https://fedlex.data.admin.ch/eli/oc/2006/410); [BBl 2003 5008](https://fedlex.data.admin.ch/eli/fga/2003/773), [5043](https://fedlex.data.admin.ch/eli/fga/2003/775)).
 
-### 4. Abschnitt:**** Sanierung belasteter Standorte
+### 4. Abschnitt: Sanierung belasteter Standorte
 
 [^tit2-chap4-sec4-1]
 
-[^tit2-chap4-sec4-1]: Fassung gemäss Ziff. I des BG vom 16. Dez. 2005, in Kraft seit 1. Nov. 2006 ([AS 2006 2677](https://fedlex.data.admin.ch/eli/oc/2006/410); [BBl 2003 5008](https://fedlex.data.admin.ch/eli/fga/2003/773)[5043](https://fedlex.data.admin.ch/eli/fga/2003/775)).
+[^tit2-chap4-sec4-1]: Fassung gemäss Ziff. I des BG vom 16. Dez. 2005, in Kraft seit 1. Nov. 2006 ([AS 2006 2677](https://fedlex.data.admin.ch/eli/oc/2006/410); [BBl 2003 5008](https://fedlex.data.admin.ch/eli/fga/2003/773), [5043](https://fedlex.data.admin.ch/eli/fga/2003/775)).
 
 #### Art. 32c
 
@@ -882,7 +882,7 @@ Die Veräusserung oder die Teilung eines Grundstücks, auf dem sich ein im Katas
 
 <sup>4</sup> Die kantonale Behörde kann im Grundbuch auf dem betroffenen Grundstück die Eintragung im Kataster anmerken lassen.
 
-[^32dbis-1]: Eingefügt durch Ziff. I des BG vom 22. März 2013, in Kraft seit 1. Nov. 2013, Abs. 3 und 4 in Kraft seit 1. Juli 2014 ([AS 2013 3241](https://fedlex.data.admin.ch/eli/oc/2013/618); [BBl 2012 9391](https://fedlex.data.admin.ch/eli/fga/2012/1726)[9403](https://fedlex.data.admin.ch/eli/fga/2012/1728)).
+[^32dbis-1]: Eingefügt durch Ziff. I des BG vom 22. März 2013, in Kraft seit 1. Nov. 2013, Abs. 3 und 4 in Kraft seit 1. Juli 2014 ([AS 2013 3241](https://fedlex.data.admin.ch/eli/oc/2013/618); [BBl 2012 9391](https://fedlex.data.admin.ch/eli/fga/2012/1726), [9403](https://fedlex.data.admin.ch/eli/fga/2012/1728)).
 
 #### Art. 32e
 
@@ -964,19 +964,19 @@ Die Abgeltungen werden nur geleistet, wenn die getroffenen Massnahmen umweltvert
 
 <sup>6</sup> Das kantonale Recht kann zur Finanzierung der Untersuchung, Überwachung und Sanierung von belasteten Standorten eigene Abgaben vorsehen.
 
-[^32e-1]: Eingefügt durch Ziff. I des BG vom 26. Sept. 2014, in Kraft seit 1. April 2015 ([AS 2015 865](https://fedlex.data.admin.ch/eli/oc/2015/164); [BBl 2014 3673](https://fedlex.data.admin.ch/eli/fga/2014/820)[3685](https://fedlex.data.admin.ch/eli/fga/2014/822)).
-[^32e-2]: Fassung gemäss Ziff. I des BG vom 26. Sept. 2014, in Kraft seit 1. April 2015 ([AS 2015 865](https://fedlex.data.admin.ch/eli/oc/2015/164); [BBl 2014 3673](https://fedlex.data.admin.ch/eli/fga/2014/820)[3685](https://fedlex.data.admin.ch/eli/fga/2014/822)).
-[^32e-3]: Eingefügt durch Ziff. I des BG vom 26. Sept. 2014, in Kraft seit 1. April 2015 ([AS 2015 865](https://fedlex.data.admin.ch/eli/oc/2015/164); [BBl 2014 3673](https://fedlex.data.admin.ch/eli/fga/2014/820)[3685](https://fedlex.data.admin.ch/eli/fga/2014/822)).
-[^32e-4]: Fassung gemäss Ziff. I des BG vom 26. Sept. 2014, in Kraft seit 1. April 2015 ([AS 2015 865](https://fedlex.data.admin.ch/eli/oc/2015/164); [BBl 2014 3673](https://fedlex.data.admin.ch/eli/fga/2014/820)[3685](https://fedlex.data.admin.ch/eli/fga/2014/822)).
-[^32e-5]: Fassung gemäss Ziff. I des BG vom 20. März 2009 (Abgeltungsansprüche bei Sanierungen von Schiessanlagen), in Kraft seit 1. Okt. 2009 ([AS 2009 4739](https://fedlex.data.admin.ch/eli/oc/2009/556); [BBl 2008 9213](https://fedlex.data.admin.ch/eli/fga/2008/1719)[9223](https://fedlex.data.admin.ch/eli/fga/2008/1721)).
-[^32e-6]: Fassung gemäss Ziff. I des BG vom 27. Sept. 2019, in Kraft seit 1. März 2020 ([AS 2020 513](https://fedlex.data.admin.ch/eli/oc/2020/96); [BBl 2019 3257](https://fedlex.data.admin.ch/eli/fga/2019/1105)[3269](https://fedlex.data.admin.ch/eli/fga/2019/1107)).
-[^32e-7]: Eingefügt durch Ziff. I des BG vom 27. Sept. 2019, in Kraft seit 1. März 2020 ([AS 2020 513](https://fedlex.data.admin.ch/eli/oc/2020/96); [BBl 2019 3257](https://fedlex.data.admin.ch/eli/fga/2019/1105)[3269](https://fedlex.data.admin.ch/eli/fga/2019/1107)).
-[^32e-8]: Fassung gemäss Ziff. I des BG vom 26. Sept. 2014, in Kraft seit 1. April 2015 ([AS 2015 865](https://fedlex.data.admin.ch/eli/oc/2015/164); [BBl 2014 3673](https://fedlex.data.admin.ch/eli/fga/2014/820)[3685](https://fedlex.data.admin.ch/eli/fga/2014/822)).
-[^32e-9]: Fassung gemäss Ziff. I des BG vom 26. Sept. 2014, in Kraft seit 1. April 2015 ([AS 2015 865](https://fedlex.data.admin.ch/eli/oc/2015/164); [BBl 2014 3673](https://fedlex.data.admin.ch/eli/fga/2014/820)[3685](https://fedlex.data.admin.ch/eli/fga/2014/822)).
-[^32e-10]: Eingefügt durch Ziff. I des BG vom 26. Sept. 2014, in Kraft seit 1. April 2015 ([AS 2015 865](https://fedlex.data.admin.ch/eli/oc/2015/164); [BBl 2014 3673](https://fedlex.data.admin.ch/eli/fga/2014/820)[3685](https://fedlex.data.admin.ch/eli/fga/2014/822)).
-[^32e-11]: Fassung gemäss Ziff. I des BG vom 20. März 2009 (Abgeltungsansprüche bei Sanierungen von Schiessanlagen), in Kraft seit 1. Okt. 2009 ([AS 2009 4739](https://fedlex.data.admin.ch/eli/oc/2009/556); [BBl 2008 9213](https://fedlex.data.admin.ch/eli/fga/2008/1719)[9223](https://fedlex.data.admin.ch/eli/fga/2008/1721)).
+[^32e-1]: Eingefügt durch Ziff. I des BG vom 26. Sept. 2014, in Kraft seit 1. April 2015 ([AS 2015 865](https://fedlex.data.admin.ch/eli/oc/2015/164); [BBl 2014 3673](https://fedlex.data.admin.ch/eli/fga/2014/820), [3685](https://fedlex.data.admin.ch/eli/fga/2014/822)).
+[^32e-2]: Fassung gemäss Ziff. I des BG vom 26. Sept. 2014, in Kraft seit 1. April 2015 ([AS 2015 865](https://fedlex.data.admin.ch/eli/oc/2015/164); [BBl 2014 3673](https://fedlex.data.admin.ch/eli/fga/2014/820), [3685](https://fedlex.data.admin.ch/eli/fga/2014/822)).
+[^32e-3]: Eingefügt durch Ziff. I des BG vom 26. Sept. 2014, in Kraft seit 1. April 2015 ([AS 2015 865](https://fedlex.data.admin.ch/eli/oc/2015/164); [BBl 2014 3673](https://fedlex.data.admin.ch/eli/fga/2014/820), [3685](https://fedlex.data.admin.ch/eli/fga/2014/822)).
+[^32e-4]: Fassung gemäss Ziff. I des BG vom 26. Sept. 2014, in Kraft seit 1. April 2015 ([AS 2015 865](https://fedlex.data.admin.ch/eli/oc/2015/164); [BBl 2014 3673](https://fedlex.data.admin.ch/eli/fga/2014/820), [3685](https://fedlex.data.admin.ch/eli/fga/2014/822)).
+[^32e-5]: Fassung gemäss Ziff. I des BG vom 20. März 2009 (Abgeltungsansprüche bei Sanierungen von Schiessanlagen), in Kraft seit 1. Okt. 2009 ([AS 2009 4739](https://fedlex.data.admin.ch/eli/oc/2009/556); [BBl 2008 9213](https://fedlex.data.admin.ch/eli/fga/2008/1719), [9223](https://fedlex.data.admin.ch/eli/fga/2008/1721)).
+[^32e-6]: Fassung gemäss Ziff. I des BG vom 27. Sept. 2019, in Kraft seit 1. März 2020 ([AS 2020 513](https://fedlex.data.admin.ch/eli/oc/2020/96); [BBl 2019 3257](https://fedlex.data.admin.ch/eli/fga/2019/1105), [3269](https://fedlex.data.admin.ch/eli/fga/2019/1107)).
+[^32e-7]: Eingefügt durch Ziff. I des BG vom 27. Sept. 2019, in Kraft seit 1. März 2020 ([AS 2020 513](https://fedlex.data.admin.ch/eli/oc/2020/96); [BBl 2019 3257](https://fedlex.data.admin.ch/eli/fga/2019/1105), [3269](https://fedlex.data.admin.ch/eli/fga/2019/1107)).
+[^32e-8]: Fassung gemäss Ziff. I des BG vom 26. Sept. 2014, in Kraft seit 1. April 2015 ([AS 2015 865](https://fedlex.data.admin.ch/eli/oc/2015/164); [BBl 2014 3673](https://fedlex.data.admin.ch/eli/fga/2014/820), [3685](https://fedlex.data.admin.ch/eli/fga/2014/822)).
+[^32e-9]: Fassung gemäss Ziff. I des BG vom 26. Sept. 2014, in Kraft seit 1. April 2015 ([AS 2015 865](https://fedlex.data.admin.ch/eli/oc/2015/164); [BBl 2014 3673](https://fedlex.data.admin.ch/eli/fga/2014/820), [3685](https://fedlex.data.admin.ch/eli/fga/2014/822)).
+[^32e-10]: Eingefügt durch Ziff. I des BG vom 26. Sept. 2014, in Kraft seit 1. April 2015 ([AS 2015 865](https://fedlex.data.admin.ch/eli/oc/2015/164); [BBl 2014 3673](https://fedlex.data.admin.ch/eli/fga/2014/820), [3685](https://fedlex.data.admin.ch/eli/fga/2014/822)).
+[^32e-11]: Fassung gemäss Ziff. I des BG vom 20. März 2009 (Abgeltungsansprüche bei Sanierungen von Schiessanlagen), in Kraft seit 1. Okt. 2009 ([AS 2009 4739](https://fedlex.data.admin.ch/eli/oc/2009/556); [BBl 2008 9213](https://fedlex.data.admin.ch/eli/fga/2008/1719), [9223](https://fedlex.data.admin.ch/eli/fga/2008/1721)).
 
-### 5. Kapitel:**** Belastungen des Bodens
+### 5. Kapitel: Belastungen des Bodens
 
 [^tit2-chap5-1]
 
@@ -1015,7 +1015,7 @@ Die Abgeltungen werden nur geleistet, wenn die getroffenen Massnahmen umweltvert
 
 <sup>3</sup> Die Sanierungswerte geben die Belastung an, bei deren Überschreitung nach dem Stand der Wissenschaft oder der Erfahrung bestimmte Nutzungen ohne Gefährdung von Menschen, Tieren oder Pflanzen nicht möglich sind.
 
-### 6. Kapitel:**** Lenkungsabgaben
+### 6. Kapitel: Lenkungsabgaben
 
 [^tit2-chap6-1]
 
@@ -1129,18 +1129,18 @@ Abgabepflichtig sind:
 [^35c-5]: Fassung gemäss Anhang 2 Ziff. 6 des Mineralölsteuergesetzes vom 21. Juni 1996, in Kraft seit 1. Jan. 1997 ([AS 1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371); [BBl 1995 III 137](https://fedlex.data.admin.ch/eli/fga/1995/3_137_133_137)).
 [^35c-6]: Eingefügt durch Anhang 2 Ziff. 6 des Mineralölsteuergesetzes vom 21. Juni 1996 ([AS 1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371); [BBl 1995 III 137](https://fedlex.data.admin.ch/eli/fga/1995/3_137_133_137)). Fassung gemäss Ziff. I des BG vom 20. Juni 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4215](https://fedlex.data.admin.ch/eli/oc/2003/624); [BBl 2002 6464](https://fedlex.data.admin.ch/eli/fga/2002/1014)).
 
-### 7. Kapitel:**** Inverkehrbringen von Rohstoffen und Produkten****
+### 7. Kapitel: Inverkehrbringen von Rohstoffen und Produkten
 
 [^tit2-chap7-1][^tit2-chap7-2]
 
-[^tit2-chap7-1]: Eingefügt durch Anhang des BG vom 21. März 2014, in Kraft seit 1. Aug. 2016 ([AS 2016 2661](https://fedlex.data.admin.ch/eli/oc/2016/425); [BBl 2013 5737](https://fedlex.data.admin.ch/eli/fga/2013/1036)[5783](https://fedlex.data.admin.ch/eli/fga/2013/1038)).
+[^tit2-chap7-1]: Eingefügt durch Anhang des BG vom 21. März 2014, in Kraft seit 1. Aug. 2016 ([AS 2016 2661](https://fedlex.data.admin.ch/eli/oc/2016/425); [BBl 2013 5737](https://fedlex.data.admin.ch/eli/fga/2013/1036), [5783](https://fedlex.data.admin.ch/eli/fga/2013/1038)).
 [^tit2-chap7-2]: Fassung gemäss Ziff. I des BG vom 27. Sept. 2019, in Kraft seit 1. Jan. 2022 ([AS 2021 614](https://fedlex.data.admin.ch/eli/oc/2021/614); [BBl 2019 1251](https://fedlex.data.admin.ch/eli/fga/2019/275)).
 
-### 1. Abschnitt: Biogene Treib- und Brennstoffe****
+### 1. Abschnitt: Biogene Treib- und Brennstoffe
 
 [^tit2-chap7-sec1-1]
 
-[^tit2-chap7-sec1-1]: Eingefügt durch Ziff. II des BG vom 20. Dez. 2019 über die Verlängerung der Befristung der Steuererleichterungen für Erdgas, Flüssiggas und biogene Treibstoffe und über die Änderung des Bundesgesetzes über die Reduktion der CO<sub>2</sub>-Emissionen, in Kraft vom 1. Juli 2020 bis zum 31. Dez. 2023 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011)[5813](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
+[^tit2-chap7-sec1-1]: Eingefügt durch Ziff. II des BG vom 20. Dez. 2019 über die Verlängerung der Befristung der Steuererleichterungen für Erdgas, Flüssiggas und biogene Treibstoffe und über die Änderung des Bundesgesetzes über die Reduktion der CO<sub>2</sub>-Emissionen, in Kraft vom 1. Juli 2020 bis zum 31. Dez. 2023, verlängert bis zum 31. Dez. 2024 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011), [5813](https://fedlex.data.admin.ch/eli/fga/2019/2069); [2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
 
 #### Art. 35d
 
@@ -1157,10 +1157,10 @@ Der Bundesrat legt unter Berücksichtigung der Bestimmungen der Mineralölsteuer
 - a. die ökologischen oder sozialen Anforderungen, welche die zulassungspflichtigen biogenen Treib- und Brennstoffe erfüllen müssen;
 - b. das Verfahren der Zulassung.
 
-[^35d-1]: Fassung gemäss Ziff. I 3 des BG vom 20. Dez. 2019 über die Verlängerung der Befristung der Steuererleichterungen für Erdgas, Flüssiggas und biogene Treibstoffe und über die Änderung des Bundesgesetzes über die Reduktion der CO<sub>2</sub>-Emissionen, in Kraft vom 1. Juli 2020 bis zum 31. Dez. 2023 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011)[5813](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
+[^35d-1]: Fassung gemäss Ziff. I 3 des BG vom 20. Dez. 2019 über die Verlängerung der Befristung der Steuererleichterungen für Erdgas, Flüssiggas und biogene Treibstoffe und über die Änderung des Bundesgesetzes über die Reduktion der CO<sub>2</sub>-Emissionen, in Kraft vom 1. Juli 2020 bis zum 31. Dez. 2023, verlängert bis zum 31. Dez. 2024 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011), [5813](https://fedlex.data.admin.ch/eli/fga/2019/2069); [2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
 [^35d-2]: [SR 641.61](https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371)
 
-### 2. Abschnitt:**** Holz und Holzerzeugnisse sowie weitere Rohstoffe und Produkte
+### 2. Abschnitt: Holz und Holzerzeugnisse sowie weitere Rohstoffe und Produkte
 
 [^tit2-chap7-sec2-1]
 
@@ -1228,7 +1228,7 @@ Unter Vorbehalt von Artikel 41 obliegt der Vollzug dieses Gesetzes den Kantonen.
 
 Ausführungsvorschriften der Kantone über den Katastrophenschutz (Art. 10), die Umweltverträglichkeitsprüfung (Art. 10*a*–10*d*), die Sanierung (Art. 16–18), den Schallschutz bei Gebäuden (Art. 20 und 21) sowie die Abfälle (Art. 30–32, 32*a*<sup>bis</sup>–32*e*) bedürfen zu ihrer Gültigkeit der Genehmigung des Bundes.
 
-[^37-1]: Fassung gemäss Ziff. I des BG vom 20. Dez. 2006, in Kraft seit 1. Juli 2007 ([AS 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357), [2012 2389](https://fedlex.data.admin.ch/eli/oc/2012/288); [BBl 2005 5351](https://fedlex.data.admin.ch/eli/fga/2005/841)[5391](https://fedlex.data.admin.ch/eli/fga/2005/843)).
+[^37-1]: Fassung gemäss Ziff. I des BG vom 20. Dez. 2006, in Kraft seit 1. Juli 2007 ([AS 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [2012 2389](https://fedlex.data.admin.ch/eli/oc/2012/288); [BBl 2005 5351](https://fedlex.data.admin.ch/eli/fga/2005/841), [5391](https://fedlex.data.admin.ch/eli/fga/2005/843)).
 
 ### 2. Abschnitt: Vollzug durch den Bund
 
@@ -1268,9 +1268,9 @@ Er kann völkerrechtliche Vereinbarungen abschliessen über:[^39-2]
 
 <sup>3</sup> …[^39-5]
 
-[^39-1]: Eingefügt durch Anhang Ziff. II 2 des Chemikaliengesetzes vom 15. Dez. 2000, in Kraft seit 1. Jan. 2005 ([AS 2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724), [2005 2293](https://fedlex.data.admin.ch/eli/oc/2005/388)Art. 1; [BBl 2000 687](https://fedlex.data.admin.ch/eli/fga/2000/195)).
-[^39-2]: Fassung gemäss Anhang Ziff. II 2 des Chemikaliengesetzes vom 15. Dez. 2000, in Kraft seit 1. Aug. 2005 ([AS 2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724), [2005 2293](https://fedlex.data.admin.ch/eli/oc/2005/388)Art. 1; [BBl 2000 687](https://fedlex.data.admin.ch/eli/fga/2000/195)).
-[^39-3]: Eingefügt durch Anhang Ziff. II 2 des Chemikaliengesetzes vom 15. Dez. 2000, in Kraft seit 1. Aug. 2005 ([AS 2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724), [2005 2293](https://fedlex.data.admin.ch/eli/oc/2005/388)Art. 1; [BBl 2000 687](https://fedlex.data.admin.ch/eli/fga/2000/195)).
+[^39-1]: Eingefügt durch Anhang Ziff. II 2 des Chemikaliengesetzes vom 15. Dez. 2000, in Kraft seit 1. Jan. 2005 ([AS 2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724); [2005 2293](https://fedlex.data.admin.ch/eli/oc/2005/388)Art. 1; [BBl 2000 687](https://fedlex.data.admin.ch/eli/fga/2000/195)).
+[^39-2]: Fassung gemäss Anhang Ziff. II 2 des Chemikaliengesetzes vom 15. Dez. 2000, in Kraft seit 1. Aug. 2005 ([AS 2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724); [2005 2293](https://fedlex.data.admin.ch/eli/oc/2005/388)Art. 1; [BBl 2000 687](https://fedlex.data.admin.ch/eli/fga/2000/195)).
+[^39-3]: Eingefügt durch Anhang Ziff. II 2 des Chemikaliengesetzes vom 15. Dez. 2000, in Kraft seit 1. Aug. 2005 ([AS 2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724); [2005 2293](https://fedlex.data.admin.ch/eli/oc/2005/388)Art. 1; [BBl 2000 687](https://fedlex.data.admin.ch/eli/fga/2000/195)).
 [^39-4]: Fassung gemäss Ziff. I des BG vom 21. Dez. 1995, in Kraft seit 1. Juli 1997 ([AS 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [BBl 1993 II 1445](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)).
 [^39-5]: Aufgehoben durch Art. 12 Ziff. 2 des Vernehmlassungsgesetzes vom 18. März 2005, mit Wirkung seit 1. Sept. 2005 ([AS 2005 4099](https://fedlex.data.admin.ch/eli/oc/2005/542); [BBl 2004 533](https://fedlex.data.admin.ch/eli/fga/2004/127)).
 
@@ -1296,13 +1296,13 @@ Er kann völkerrechtliche Vereinbarungen abschliessen über:[^39-2]
 
 <sup>4</sup> Die Vollzugsbehörden des Bundes berücksichtigen die Umweltschutzmassnahmen der Kantone.[^41-5]
 
-[^41-1]: Fassung gemäss Ziff. II des BG vom 20. Dez. 2019 über die Verlängerung der Befristung der Steuererleichterungen für Erdgas, Flüssiggas und biogene Treibstoffe und über die Änderung des Bundesgesetzes über die Reduktion der CO<sub>2</sub>-Emissionen, in Kraft vom 1. Juli 2020 bis zum 31. Dez. 2023 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011)[5813](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
+[^41-1]: Fassung gemäss Ziff. I des BG vom 27. Sept. 2019, in Kraft seit 1. Jan. 2022 ([AS 2021 614](https://fedlex.data.admin.ch/eli/oc/2021/614); [BBl 2019 1251](https://fedlex.data.admin.ch/eli/fga/2019/275)).
 [^41-2]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
 [^41-3]: Fassung gemäss Ziff. I 14 des BG vom 18. Juni 1999 über die Koordination und Vereinfachung von Entscheidverfahren, in Kraft seit 1. Jan. 2000 ([AS 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); BBl **1998** 2591).
 [^41-4]: Fassung gemäss Ziff. I 14 des BG vom 18. Juni 1999 über die Koordination und Vereinfachung von Entscheidverfahren, in Kraft seit 1. Jan. 2000 ([AS 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); BBl **1998** 2591).
 [^41-5]: Ursprünglich: Abs. 3.
 
-### 2a. Abschnitt:**** Zusammenarbeit mit der Wirtschaft
+### 2*a*. Abschnitt: Zusammenarbeit mit der Wirtschaft
 
 [^tit3-chap1-sec2a-1]
 
@@ -1408,7 +1408,7 @@ Der Bundesrat kann die regelmässige Kontrolle von Anlagen wie Ölfeuerungen, Ab
 
 [^47-1]: Fassung gemäss Art. 2 Ziff. 1 des BB vom 27. Sept. 2013 (Aarhus-Konvention), in Kraft seit 1. Juni 2014 ([AS 2014 1021](https://fedlex.data.admin.ch/eli/oc/2014/234); [BBl 2012 4323](https://fedlex.data.admin.ch/eli/fga/2012/596)).
 [^47-2]: Aufgehoben durch Art. 2 Ziff. 1 des BB vom 27. Sept. 2013 (Aarhus-Konvention), mit Wirkung seit 1. Juni 2014 ([AS 2014 1021](https://fedlex.data.admin.ch/eli/oc/2014/234); [BBl 2012 4323](https://fedlex.data.admin.ch/eli/fga/2012/596)).
-[^47-3]: Fassung gemäss Anhang Ziff. II 2 des Chemikaliengesetzes vom 15. Dez. 2000, in Kraft seit 1. Aug. 2005 ([AS 2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724), [2005 2293](https://fedlex.data.admin.ch/eli/oc/2005/388)Art. 1; [BBl 2000 687](https://fedlex.data.admin.ch/eli/fga/2000/195)).
+[^47-3]: Fassung gemäss Anhang Ziff. II 2 des Chemikaliengesetzes vom 15. Dez. 2000, in Kraft seit 1. Aug. 2005 ([AS 2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724); [2005 2293](https://fedlex.data.admin.ch/eli/oc/2005/388)Art. 1; [BBl 2000 687](https://fedlex.data.admin.ch/eli/fga/2000/195)).
 [^47-4]: Eingefügt durch Ziff. I des BG vom 21. Dez. 1995, in Kraft seit 1. Juli 1997 ([AS 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [BBl 1993 II 1445](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)).
 
 #### Art. 48
@@ -1480,15 +1480,15 @@ Der Bund kann Beiträge gewähren:
 
 <sup>3</sup> Der Bundesrat wacht über die wirksame Verwendung der nach diesem Gesetz bewilligten Mittel und erstattet der Bundesversammlung darüber Bericht.
 
-[^53-1]: Aufgehoben durch Anhang Ziff. 18 des Subventionsgesetzes vom 5. Okt. 1990 ([AS 1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857); [BBl 1987 I 369](https://fedlex.data.admin.ch/eli/fga/1987/1_369_369_297)). Fassung gemäss Ziff. I des BG vom 20. Juni 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4061](https://fedlex.data.admin.ch/eli/oc/2003/597)4062; [BBl 2002 7911](https://fedlex.data.admin.ch/eli/fga/2002/1272)).
+[^53-1]: Aufgehoben durch Anhang Ziff. 18 des Subventionsgesetzes vom 5. Okt. 1990 ([AS 1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857); [BBl 1987 I 369](https://fedlex.data.admin.ch/eli/fga/1987/1_369_369_297)). Fassung gemäss Ziff. I des BG vom 20. Juni 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4061](https://fedlex.data.admin.ch/eli/oc/2003/597), 4062; [BBl 2002 7911](https://fedlex.data.admin.ch/eli/fga/2002/1272)).
 
 ### 3. Kapitel: Verfahren
 
-### 1. Abschnitt: Rechtspflege****
+### 1. Abschnitt: Rechtspflege
 
 [^tit3-chap3-sec1-1]
 
-[^tit3-chap3-sec1-1]: Eingefügt durch Ziff. I des BG vom 20. Dez. 2006, in Kraft seit 1. Juli 2007 ([AS 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [BBl 2005 5351](https://fedlex.data.admin.ch/eli/fga/2005/841)[5391](https://fedlex.data.admin.ch/eli/fga/2005/843)).
+[^tit3-chap3-sec1-1]: Eingefügt durch Ziff. I des BG vom 20. Dez. 2006, in Kraft seit 1. Juli 2007 ([AS 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [BBl 2005 5351](https://fedlex.data.admin.ch/eli/fga/2005/841), [5391](https://fedlex.data.admin.ch/eli/fga/2005/843)).
 
 #### Art. 54
 
@@ -1497,13 +1497,13 @@ Der Bund kann Beiträge gewähren:
 Das Beschwerdeverfahren richtet sich nach den allgemeinen Bestimmungen über die Bundesrechtspflege.
 
 [^54-1]: Fassung gemäss Anhang Ziff. 91 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^54-2]: Aufgehoben durch Ziff. I des BG vom 20. Dez. 2006, mit Wirkung seit 1. Juli 2007 ([AS 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [BBl 2005 5351](https://fedlex.data.admin.ch/eli/fga/2005/841)[5391](https://fedlex.data.admin.ch/eli/fga/2005/843)).
+[^54-2]: Aufgehoben durch Ziff. I des BG vom 20. Dez. 2006, mit Wirkung seit 1. Juli 2007 ([AS 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [BBl 2005 5351](https://fedlex.data.admin.ch/eli/fga/2005/841), [5391](https://fedlex.data.admin.ch/eli/fga/2005/843)).
 
-### 2. Abschnitt: Verbandsbeschwerde gegen Verfügungen über Anlagen****
+### 2. Abschnitt: Verbandsbeschwerde gegen Verfügungen über Anlagen
 
 [^tit3-chap3-sec2-1]
 
-[^tit3-chap3-sec2-1]: Eingefügt durch Ziff. I des BG vom 20. Dez. 2006, in Kraft seit 1. Juli 2007 ([AS 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [BBl 2005 5351](https://fedlex.data.admin.ch/eli/fga/2005/841)[5391](https://fedlex.data.admin.ch/eli/fga/2005/843)).
+[^tit3-chap3-sec2-1]: Eingefügt durch Ziff. I des BG vom 20. Dez. 2006, in Kraft seit 1. Juli 2007 ([AS 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [BBl 2005 5351](https://fedlex.data.admin.ch/eli/fga/2005/841), [5391](https://fedlex.data.admin.ch/eli/fga/2005/843)).
 
 #### Art. 55
 
@@ -1524,7 +1524,7 @@ Gegen Verfügungen der kantonalen Behörden oder der Bundesbehörden über die P
 
 <sup>5</sup> Die Organisationen können ihre rechtlich selbständigen kantonalen und überkantonalen Unterorganisationen für deren örtliches Tätigkeitsgebiet generell zur Erhebung von Einsprachen und im Einzelfall zur Erhebung von Beschwerden ermächtigen.
 
-[^55-1]: Fassung gemäss Ziff. I des BG vom 20. Dez. 2006, in Kraft seit 1. Juli 2007 ([AS 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [BBl 2005 5351](https://fedlex.data.admin.ch/eli/fga/2005/841)[5391](https://fedlex.data.admin.ch/eli/fga/2005/843)). Die Bestimmung über die wirtschaftliche Tätigkeit in Abs. 1 Bst. b tritt am 1. Juli 2010 in Kraft (siehe Ziff. III Abs. 3 der genannten Änd.).
+[^55-1]: Fassung gemäss Ziff. I des BG vom 20. Dez. 2006, in Kraft seit 1. Juli 2007 ([AS 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [BBl 2005 5351](https://fedlex.data.admin.ch/eli/fga/2005/841), [5391](https://fedlex.data.admin.ch/eli/fga/2005/843)). Die Bestimmung über die wirtschaftliche Tätigkeit in Abs. 1 Bst. b tritt am 1. Juli 2010 in Kraft (siehe Ziff. III Abs. 3 der genannten Änd.).
 
 #### Art. 55a
 
@@ -1534,7 +1534,7 @@ Gegen Verfügungen der kantonalen Behörden oder der Bundesbehörden über die P
 
 <sup>2</sup> Sieht das Bundesrecht oder das kantonale Recht ein Einspracheverfahren vor, so sind auch die Gesuche nach Absatz 1 zu veröffentlichen.
 
-[^55a-1]: Eingefügt durch Ziff. I des BG vom 20. Dez. 2006, in Kraft seit 1. Juli 2007 ([AS 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [BBl 2005 5351](https://fedlex.data.admin.ch/eli/fga/2005/841)[5391](https://fedlex.data.admin.ch/eli/fga/2005/843)).
+[^55a-1]: Eingefügt durch Ziff. I des BG vom 20. Dez. 2006, in Kraft seit 1. Juli 2007 ([AS 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [BBl 2005 5351](https://fedlex.data.admin.ch/eli/fga/2005/841), [5391](https://fedlex.data.admin.ch/eli/fga/2005/843)).
 
 #### Art. 55b
 
@@ -1548,7 +1548,7 @@ Gegen Verfügungen der kantonalen Behörden oder der Bundesbehörden über die P
 
 <sup>4</sup> Die Absätze 2 und 3 gelten auch für Einsprachen und Beschwerden nach kantonalem Recht gegen Nutzungspläne.
 
-[^55b-1]: Eingefügt durch Ziff. I des BG vom 20. Dez. 2006, in Kraft seit 1. Juli 2007 ([AS 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [BBl 2005 5351](https://fedlex.data.admin.ch/eli/fga/2005/841)[5391](https://fedlex.data.admin.ch/eli/fga/2005/843)).
+[^55b-1]: Eingefügt durch Ziff. I des BG vom 20. Dez. 2006, in Kraft seit 1. Juli 2007 ([AS 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [BBl 2005 5351](https://fedlex.data.admin.ch/eli/fga/2005/841), [5391](https://fedlex.data.admin.ch/eli/fga/2005/843)).
 [^55b-2]: [SR 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
 
 #### Art. 55c
@@ -1567,7 +1567,7 @@ Vereinbarungen zwischen Gesuchstellern und Organisationen über finanzielle oder
 
 <sup>3</sup> Die Rechtsmittelbehörde tritt auf eine Beschwerde nicht ein, wenn diese rechtsmissbräuchlich ist oder die Organisation unzulässige Leistungen im Sinne von Absatz 2 gefordert hat.
 
-[^55c-1]: Eingefügt durch Ziff. I des BG vom 20. Dez. 2006, in Kraft seit 1. Juli 2007 ([AS 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [BBl 2005 5351](https://fedlex.data.admin.ch/eli/fga/2005/841)[5391](https://fedlex.data.admin.ch/eli/fga/2005/843)).
+[^55c-1]: Eingefügt durch Ziff. I des BG vom 20. Dez. 2006, in Kraft seit 1. Juli 2007 ([AS 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [BBl 2005 5351](https://fedlex.data.admin.ch/eli/fga/2005/841), [5391](https://fedlex.data.admin.ch/eli/fga/2005/843)).
 [^55c-2]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
 
 #### Art. 55d
@@ -1576,7 +1576,7 @@ Vereinbarungen zwischen Gesuchstellern und Organisationen über finanzielle oder
 
 Mit Bauarbeiten kann vor Abschluss des Verfahrens begonnen werden, soweit der Ausgang des Verfahrens die Arbeiten nicht beeinflussen kann.
 
-[^55d-1]: Eingefügt durch Ziff. I des BG vom 20. Dez. 2006, in Kraft seit 1. Juli 2007 ([AS 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [BBl 2005 5351](https://fedlex.data.admin.ch/eli/fga/2005/841)[5391](https://fedlex.data.admin.ch/eli/fga/2005/843)).
+[^55d-1]: Eingefügt durch Ziff. I des BG vom 20. Dez. 2006, in Kraft seit 1. Juli 2007 ([AS 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [BBl 2005 5351](https://fedlex.data.admin.ch/eli/fga/2005/841), [5391](https://fedlex.data.admin.ch/eli/fga/2005/843)).
 
 #### Art. 55e
 
@@ -1584,13 +1584,13 @@ Mit Bauarbeiten kann vor Abschluss des Verfahrens begonnen werden, soweit der Au
 
 Unterliegt die Organisation im Verfahren, so werden ihr für die Beschwerdeführung vor Bundesbehörden die Kosten auferlegt.
 
-[^55e-1]: Eingefügt durch Ziff. I des BG vom 20. Dez. 2006, in Kraft seit 1. Juli 2007 ([AS 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [BBl 2005 5351](https://fedlex.data.admin.ch/eli/fga/2005/841)[5391](https://fedlex.data.admin.ch/eli/fga/2005/843)).
+[^55e-1]: Eingefügt durch Ziff. I des BG vom 20. Dez. 2006, in Kraft seit 1. Juli 2007 ([AS 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [BBl 2005 5351](https://fedlex.data.admin.ch/eli/fga/2005/841), [5391](https://fedlex.data.admin.ch/eli/fga/2005/843)).
 
-### 3. Abschnitt:**** Verbandsbeschwerde gegen Bewilligungen von Organismen
+### 3. Abschnitt: Verbandsbeschwerde gegen Bewilligungen von Organismen
 
 [^tit3-chap3-sec3-1]
 
-[^tit3-chap3-sec3-1]: Eingefügt durch Ziff. I des BG vom 20. Dez. 2006, in Kraft seit 1. Juli 2007 ([AS 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [BBl 2005 5351](https://fedlex.data.admin.ch/eli/fga/2005/841)[5391](https://fedlex.data.admin.ch/eli/fga/2005/843)).
+[^tit3-chap3-sec3-1]: Eingefügt durch Ziff. I des BG vom 20. Dez. 2006, in Kraft seit 1. Juli 2007 ([AS 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [BBl 2005 5351](https://fedlex.data.admin.ch/eli/fga/2005/841), [5391](https://fedlex.data.admin.ch/eli/fga/2005/843)).
 
 #### Art. 55f
 
@@ -1605,11 +1605,11 @@ Gegen Bewilligungen über das Inverkehrbringen pathogener Organismen, die bestim
 
 <sup>3</sup> Die Artikel 55*a* und 55*b* Absätze 1 und 2 sind anwendbar.
 
-### 4. Abschnitt: Behörden- und Gemeindebeschwerde, Enteignung, Kosten von Sicherungs- und Behebungsmassnahmen****
+### 4. Abschnitt: Behörden- und Gemeindebeschwerde, Enteignung, Kosten von Sicherungs- und Behebungsmassnahmen
 
 [^tit3-chap3-sec4-1]
 
-[^tit3-chap3-sec4-1]: Eingefügt durch Ziff. I des BG vom 20. Dez. 2006, in Kraft seit 1. Juli 2007 ([AS 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [BBl 2005 5351](https://fedlex.data.admin.ch/eli/fga/2005/841)[5391](https://fedlex.data.admin.ch/eli/fga/2005/843)).
+[^tit3-chap3-sec4-1]: Eingefügt durch Ziff. I des BG vom 20. Dez. 2006, in Kraft seit 1. Juli 2007 ([AS 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [BBl 2005 5351](https://fedlex.data.admin.ch/eli/fga/2005/841), [5391](https://fedlex.data.admin.ch/eli/fga/2005/843)).
 
 #### Art. 56
 
@@ -1653,7 +1653,7 @@ Die Kosten von Massnahmen, welche die Behörden zur Abwehr einer unmittelbar dro
 
 [^59-1]: Fassung gemäss Ziff. I des BG vom 21. Dez. 1995, in Kraft seit 1. Juli 1997 ([AS 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [BBl 1993 II 1445](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)).
 
-## 4. Titel:**** Haftpflicht
+## 4. Titel: Haftpflicht
 
 [^tit4-1]
 
@@ -1769,7 +1769,7 @@ Das Rückgriffsrecht verjährt nach Artikel 59*c*. Die dreijährige Frist beginn
 
 [^59d-1]: Eingefügt durch Anhang Ziff. 4 des Gentechnikgesetzes vom 21. März 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)).
 
-## 5. Titel:**** Strafbestimmungen
+## 5. Titel: Strafbestimmungen
 
 [^tit5-1]
 
@@ -1837,7 +1837,7 @@ Mit Busse bis zu 20 000 Franken wird bestraft, wer vorsätzlich:[^61-1]
 - k. Vorschriften über den Verkehr mit anderen Abfällen verletzt (Art. 30*g* Abs. 1);
 - l. die Kosten für den Abschluss, die Nachsorge und die Sanierung einer Deponie nicht sicherstellt (Art. 32*b* Abs. 1);
 - m. Vorschriften über physikalische Belastungen und die Nutzung des Bodens (Art. 33 Abs. 2 und 34 Abs. 1 und 2) sowie über Massnahmen zur Verminderung der Bodenbelastung (Art. 34 Abs. 3) verletzt;
-- m<sup>bis</sup>.[^61-2] Vorschriften über die Rückverfolgbarkeit von Holz und Holzerzeugnissen sowie von Rohstoffen und Produkten, die vom Bundesrat nach Artikel 35*e* Absatz 3 bezeichnet wurden und für die eine Dokumentationspflicht festgelegt wurde, verletzt (Art. 35*g* Abs. 1);
+- m<sup>bis</sup>. [^61-2] Vorschriften über die Rückverfolgbarkeit von Holz und Holzerzeugnissen sowie von Rohstoffen und Produkten, die vom Bundesrat nach Artikel 35*e* Absatz 3 bezeichnet wurden und für die eine Dokumentationspflicht festgelegt wurde, verletzt (Art. 35*g* Abs. 1);
 - n. Vorschriften über das Inverkehrbringen serienmässig hergestellter Anlagen[^61-3] verletzt (Art. 40);
 - o. von der zuständigen Behörde verlangte Auskünfte verweigert oder unrichtige Angaben macht (Art. 46);
 - p.[^61-4] Vorschriften über die Sicherstellung der Haftpflicht verletzt (Art. 59*b*).
@@ -1866,14 +1866,14 @@ Mit Busse bis zu 20 000 Franken wird bestraft, wer vorsätzlich:[^61-1]
 <sup>5</sup> Erfüllt eine Handlung zugleich den Tatbestand einer Widerhandlung nach den Absätzen 1–3 und einer anderen durch das BAZG[^61a-8] zu verfolgenden Widerhandlung gegen einen Erlass des Bundes, so wird die für die schwerste Widerhandlung verwirkte Strafe verhängt; diese kann angemessen erhöht werden.[^61a-9]
 
 [^61a-1]: Eingefügt durch Ziff. I des BG vom 21. Dez. 1995, in Kraft seit 1. Juli 1997 ([AS 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [BBl 1993 II 1445](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)).
-[^61a-2]: Fassung gemäss Ziff. I 3 des BG vom 20. Dez. 2019 über die Verlängerung der Befristung der Steuererleichterungen für Erdgas, Flüssiggas und biogene Treibstoffe und über die Änderung des Bundesgesetzes über die Reduktion der CO<sub>2</sub>-Emissionen, in Kraft vom 1. Juli 2020 bis zum 31. Dez. 2023 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011)[5813](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
+[^61a-2]: Fassung gemäss Ziff. I 3 des BG vom 20. Dez. 2019 über die Verlängerung der Befristung der Steuererleichterungen für Erdgas, Flüssiggas und biogene Treibstoffe und über die Änderung des Bundesgesetzes über die Reduktion der CO<sub>2</sub>-Emissionen, in Kraft vom 1. Juli 2020 bis zum 31. Dez. 2023, verlängert bis zum 31. Dez. 2024 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011), [5813](https://fedlex.data.admin.ch/eli/fga/2019/2069); [2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
 [^61a-3]: Fassung gemäss Ziff. I des BG vom 20. Juni 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4215](https://fedlex.data.admin.ch/eli/oc/2003/624); [BBl 2002 6464](https://fedlex.data.admin.ch/eli/fga/2002/1014)).
-[^61a-4]: Fassung gemäss Ziff. I 3 des BG vom 20. Dez. 2019 über die Verlängerung der Befristung der Steuererleichterungen für Erdgas, Flüssiggas und biogene Treibstoffe und über die Änderung des Bundesgesetzes über die Reduktion der CO<sub>2</sub>-Emissionen, in Kraft vom 1. Juli 2020 bis zum 31. Dez. 2023 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011)[5813](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
-[^61a-5]: Fassung gemäss Ziff. I 3 des BG vom 20. Dez. 2019 über die Verlängerung der Befristung der Steuererleichterungen für Erdgas, Flüssiggas und biogene Treibstoffe und über die Änderung des Bundesgesetzes über die Reduktion der CO<sub>2</sub>-Emissionen, in Kraft vom 1. Juli 2020 bis zum 31. Dez. 2023 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011)[5813](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
+[^61a-4]: Fassung gemäss Ziff. I 3 des BG vom 20. Dez. 2019 über die Verlängerung der Befristung der Steuererleichterungen für Erdgas, Flüssiggas und biogene Treibstoffe und über die Änderung des Bundesgesetzes über die Reduktion der CO<sub>2</sub>-Emissionen, in Kraft vom 1. Juli 2020 bis zum 31. Dez. 2023, verlängert bis zum 31. Dez. 2024 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011), [5813](https://fedlex.data.admin.ch/eli/fga/2019/2069); [2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
+[^61a-5]: Fassung gemäss Ziff. I 3 des BG vom 20. Dez. 2019 über die Verlängerung der Befristung der Steuererleichterungen für Erdgas, Flüssiggas und biogene Treibstoffe und über die Änderung des Bundesgesetzes über die Reduktion der CO<sub>2</sub>-Emissionen, in Kraft vom 1. Juli 2020 bis zum 31. Dez. 2023, verlängert bis zum 31. Dez. 2024 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011), [5813](https://fedlex.data.admin.ch/eli/fga/2019/2069); [2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
 [^61a-6]: Ausdruck gemäss Ziff. I 31 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
-[^61a-7]: Fassung gemäss Ziff. I 3 des BG vom 20. Dez. 2019 über die Verlängerung der Befristung der Steuererleichterungen für Erdgas, Flüssiggas und biogene Treibstoffe und über die Änderung des Bundesgesetzes über die Reduktion der CO<sub>2</sub>-Emissionen, in Kraft vom 1. Juli 2020 bis zum 31. Dez. 2023 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011)[5813](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
+[^61a-7]: Fassung gemäss Ziff. I 3 des BG vom 20. Dez. 2019 über die Verlängerung der Befristung der Steuererleichterungen für Erdgas, Flüssiggas und biogene Treibstoffe und über die Änderung des Bundesgesetzes über die Reduktion der CO<sub>2</sub>-Emissionen, in Kraft vom 1. Juli 2020 bis zum 31. Dez. 2023, verlängert bis zum 31. Dez. 2024 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011), [5813](https://fedlex.data.admin.ch/eli/fga/2019/2069); [2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
 [^61a-8]: Ausdruck gemäss Ziff. I 31 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
-[^61a-9]: Eingefügt durch Anhang des BG vom 21. März 2014 ([AS 2016 2661](https://fedlex.data.admin.ch/eli/oc/2016/425); [BBl 2013 5737](https://fedlex.data.admin.ch/eli/fga/2013/1036)[5783](https://fedlex.data.admin.ch/eli/fga/2013/1038)). Fassung gemäss Ziff. I 3 des BG vom 20. Dez. 2019 über die Verlängerung der Befristung der Steuererleichterungen für Erdgas, Flüssiggas und biogene Treibstoffe und über die Änderung des Bundesgesetzes über die Reduktion der CO<sub>2</sub>-Emissionen, in Kraft vom 1. Juli 2020 bis zum 31. Dez. 2023 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011)[5813](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
+[^61a-9]: Eingefügt durch Anhang des BG vom 21. März 2014 ([AS 2016 2661](https://fedlex.data.admin.ch/eli/oc/2016/425); [BBl 2013 5737](https://fedlex.data.admin.ch/eli/fga/2013/1036)[5783](https://fedlex.data.admin.ch/eli/fga/2013/1038)). Fassung gemäss Ziff. I 3 des BG vom 20. Dez. 2019 über die Verlängerung der Befristung der Steuererleichterungen für Erdgas, Flüssiggas und biogene Treibstoffe und über die Änderung des Bundesgesetzes über die Reduktion der CO<sub>2</sub>-Emissionen, in Kraft vom 1. Juli 2020 bis zum 31. Dez. 2023, verlängert bis zum 31. Dez. 2024 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011), [5813](https://fedlex.data.admin.ch/eli/fga/2019/2069); [2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
 
 #### Art. 62
 
@@ -1884,9 +1884,9 @@ Mit Busse bis zu 20 000 Franken wird bestraft, wer vorsätzlich:[^61-1]
 <sup>2</sup> Für Widerhandlungen nach Artikel 61*a* gelten zudem die übrigen Bestimmungen des Bundesgesetzes vom 22. März 1974 über das Verwaltungsstrafrecht.[^62-2]
 
 [^62-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
-[^62-2]: Eingefügt durch Ziff. I des BG vom 21. Dez. 1995 ([AS 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [BBl 1993 II 1445](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)). Fassung gemäss Ziff. I 3 des BG vom 20. Dez. 2019 über die Verlängerung der Befristung der Steuererleichterungen für Erdgas, Flüssiggas und biogene Treibstoffe und über die Änderung des Bundesgesetzes über die Reduktion der CO<sub>2</sub>-Emissionen, in Kraft vom 1. Juli 2020 bis zum 31. Dez. 2023 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011)[5813](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
+[^62-2]: Eingefügt durch Ziff. I des BG vom 21. Dez. 1995 ([AS 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [BBl 1993 II 1445](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)). Fassung gemäss Ziff. I 3 des BG vom 20. Dez. 2019 über die Verlängerung der Befristung der Steuererleichterungen für Erdgas, Flüssiggas und biogene Treibstoffe und über die Änderung des Bundesgesetzes über die Reduktion der CO<sub>2</sub>-Emissionen, in Kraft vom 1. Juli 2020 bis zum 31. Dez. 2023, verlängert bis zum 31. Dez. 2024 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011), [5813](https://fedlex.data.admin.ch/eli/fga/2019/2069); [2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
 
-## 6. Titel:**** Schlussbestimmungen
+## 6. Titel: Schlussbestimmungen
 
 [^tit6-1]
 
@@ -1920,7 +1920,7 @@ Wenn aufgrund anderer Bundesgesetze erlassene Umweltvorschriften diesem Gesetz w
 
 Gesuche um Abgeltungen an die Kosten von Massnahmen nach Artikel 32*e* Absatz 4 Buchstabe b Ziffer 2 werden in Abweichung von Artikel 36 des Subventionsgesetzes vom 5. Oktober 1990[^65a-2] nach dem im Zeitpunkt der Gesuchseinreichung geltenden Recht beurteilt, wenn mit den Massnahmen vor Inkrafttreten der Änderung vom 26. September 2014 begonnen wurde. Die Gesuche sind spätestens bis zwei Jahre nach Inkrafttreten dieser Änderung einzureichen.
 
-[^65a-1]: Eingefügt durch Ziff. I des BG vom 26. Sept. 2014, in Kraft seit 1. April 2015 ([AS 2015 865](https://fedlex.data.admin.ch/eli/oc/2015/164); [BBl 2014 3673](https://fedlex.data.admin.ch/eli/fga/2014/820)[3685](https://fedlex.data.admin.ch/eli/fga/2014/822)).
+[^65a-1]: Eingefügt durch Ziff. I des BG vom 26. Sept. 2014, in Kraft seit 1. April 2015 ([AS 2015 865](https://fedlex.data.admin.ch/eli/oc/2015/164); [BBl 2014 3673](https://fedlex.data.admin.ch/eli/fga/2014/820), [3685](https://fedlex.data.admin.ch/eli/fga/2014/822)).
 [^65a-2]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
 
 #### Art. 66
