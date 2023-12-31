@@ -1,23 +1,24 @@
 ---
 canton: BE
 number: "166.1"
-title: "Décret sur l'indemnisation des juges à titre accessoire (DInJ)"
+title: "Décret sur l'indemnisation des juges à titre accessoire"
 short: DInJ
 language: fr
-version: 2013-06-01
-valid_until: 2023-12-31
-version_adopted: 2012-11-20
+version: 2024-01-01
+version_adopted: 2022-06-14
 adopted: 2010-06-09
 in_force: 2011-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/166.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/146/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2983/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
 
-# Décret sur l'indemnisation des juges à titre accessoire (DInJ)
+# Décret sur l'indemnisation des juges à titre accessoire
 
-du 09.06.2010 (état au 01.06.2013)
+(DInJ)
+
+du 09.06.2010 (état au 01.01.2024)
 
 Le Grand Conseil du canton de Berne,
 
@@ -61,7 +62,7 @@ arrête:
 
 **Directives**
 
-<sup>1</sup> La Direction de la magistrature peut, d’entente avec l’Office du personnel, émettre des instructions et des directives afin de garantir une mise en oeuvre uniforme du présent décret.
+<sup>1</sup> La Direction administrative de la magistrature peut, d’entente avec l’Office du personnel, émettre des instructions et des directives afin de garantir une mise en oeuvre uniforme du présent décret.
 
 ## 2 Juges à titre accessoire
 
@@ -127,9 +128,9 @@ arrête:
 
 **Adaptation à l’évolution du renchérissement**
 
-<sup>1</sup> Lorsque le Conseil-exécutif arrête une augmentation des traitements de base en application de l’article 74, alinéa 1 de la loi du 16 septembre 2004 sur le personnel (LPers)[^11-1], celle-ci vaut automatiquement et simultanément pour les montants fixés dans l’annexe. La Direction de la magistrature communique les montants adaptés de manière appropriée.
+<sup>1</sup> Lorsque le Conseil-exécutif arrête une augmentation des traitements de base en application de l’article 74, alinéa 1 de la loi du 16 septembre 2004 sur le personnel (LPers)[^11-1], celle-ci vaut automatiquement et simultanément pour les montants fixés dans l’annexe. La Direction administrative de la magistrature communique les montants adaptés de manière appropriée.
 
-[^11-1]: RSB 153.01
+[^11-1]: RSB [153.01](https://www.belex.sites.be.ch/data/153.01/fr)
 
 #### Art. 12
 
@@ -146,7 +147,7 @@ arrête:
 - a d’une rémunération calculée en fonction du temps évalué pour l’exécution du travail, fixée sur la base d’un montant horaire forfaitaire de 150 francs dans le cas des personnes exerçant une activité lucrative indépendante, et de 100 francs dans les autres cas;
 - b d’une contribution aux frais d’infrastructure.
 
-<sup>3</sup> Le contrat est passé entre le ou la juge et le Tribunal administratif. Il requiert l’approbation de la Direction de la magistrature.
+<sup>3</sup> Le contrat est passé entre le ou la juge et le Tribunal administratif. Il requiert l’approbation de la Direction administrative de la magistrature.
 
 <sup>4</sup> L’article 11 s’applique par analogie à l’adaptation des montants horaires au renchérissement.
 
@@ -166,7 +167,7 @@ arrête:
 
 <sup>1</sup> Les greffiers et greffières à titre accessoire touchent une indemnité annuelle à convenir par contrat.
 
-<sup>2</sup> Le contrat est passé entre le greffier ou la greffière et la Cour suprême ou le Tribunal administratif. Il requiert l’approbation de la Direction de la magistrature.
+<sup>2</sup> Le contrat est passé entre le greffier ou la greffière et la Cour suprême ou le Tribunal administratif. Il requiert l’approbation de la Direction administrative de la magistrature.
 
 <sup>3</sup> L’indemnité annuelle se compose
 

@@ -4,13 +4,12 @@ number: "166.1"
 title: Dekret über die Entschädigung der nebenamtlichen Richterinnen und Richter
 short: EnRD
 language: de
-version: 2013-06-01
-valid_until: 2023-12-31
-version_adopted: 2012-11-20
+version: 2024-01-01
+version_adopted: 2022-06-14
 adopted: 2010-06-09
 in_force: 2011-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/166.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/146/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2983/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/146/pdf_file"
 
 (EnRD)
 
-vom 09.06.2010 (Stand 01.06.2013)
+vom 09.06.2010 (Stand 01.01.2024)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -63,7 +62,7 @@ beschliesst:
 
 **Richtlinien**
 
-<sup>1</sup> Die Justizleitung kann zur Gewährleistung eines einheitlichen Vollzugs dieses Dekrets im Einvernehmen mit dem Personalamt Weisungen und Richtlinien erlassen.
+<sup>1</sup> Die Justizverwaltungsleitung kann zur Gewährleistung eines einheitlichen Vollzugs dieses Dekrets im Einvernehmen mit dem Personalamt Weisungen und Richtlinien erlassen.
 
 ## 2 Nebenamtliche Richterinnen und Richter
 
@@ -129,9 +128,9 @@ beschliesst:
 
 **Anpassung an die Teuerungsentwicklung**
 
-<sup>1</sup> Beschliesst der Regierungsrat eine Anhebung der Grundgehälter nach Artikel 74 Absatz 1 des Personalgesetzes vom 16. September 2004 (Personalgesetz, PG)[^11-1], so gilt dies automatisch und gleichzeitig auch für die im Anhang festgelegten Ansätze. Die Justizleitung macht die angepassten Ansätze in geeigneter Weise bekannt.
+<sup>1</sup> Beschliesst der Regierungsrat eine Anhebung der Grundgehälter nach Artikel 74 Absatz 1 des Personalgesetzes vom 16. September 2004 (Personalgesetz, PG)[^11-1], so gilt dies automatisch und gleichzeitig auch für die im Anhang festgelegten Ansätze. Die Justizverwaltungsleitung macht die angepassten Ansätze in geeigneter Weise bekannt.
 
-[^11-1]: BSG 153.01
+[^11-1]: BSG [153.01](https://www.belex.sites.be.ch/data/153.01/de)
 
 #### Art. 12
 
@@ -148,7 +147,7 @@ beschliesst:
 - a einer Entschädigung für den geschätzten Zeitaufwand, die bei Selbstständigerwerbenden auf der Grundlage eines Pauschalbetrags von 150 Franken pro Stunde und bei allen übrigen Personen auf der Grundlage eines Pauschalbetrags von 100 Franken pro Stunde festzulegen ist,
 - b einem Beitrag an die Infrastrukturkosten.
 
-<sup>3</sup> Der Vertrag wird zwischen der Richterin oder dem Richter und dem Verwaltungsgericht abgeschlossen. Er bedarf der Genehmigung durch die Justizleitung.
+<sup>3</sup> Der Vertrag wird zwischen der Richterin oder dem Richter und dem Verwaltungsgericht abgeschlossen. Er bedarf der Genehmigung durch die Justizverwaltungsleitung.
 
 <sup>4</sup> Für die Anpassung der Stundenansätze an die Teuerung gilt Artikel 11 sinngemäss.
 
@@ -168,7 +167,7 @@ beschliesst:
 
 <sup>1</sup> Nebenamtliche Gerichtsschreiberinnen und Gerichtsschreiber erhalten eine durch Vertrag zu vereinbarende Jahresentschädigung.
 
-<sup>2</sup> Der Vertrag wird zwischen der Gerichtsschreiberin oder dem Gerichtsschreiber und dem Verwaltungsgericht oder dem Obergericht abgeschlossen. Er bedarf der Genehmigung durch die Justizleitung.
+<sup>2</sup> Der Vertrag wird zwischen der Gerichtsschreiberin oder dem Gerichtsschreiber und dem Verwaltungsgericht oder dem Obergericht abgeschlossen. Er bedarf der Genehmigung durch die Justizverwaltungsleitung.
 
 <sup>3</sup> Die Jahresentschädigung besteht aus
 
