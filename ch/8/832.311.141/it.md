@@ -4,11 +4,11 @@ title: "Ordinanza del 21 giugno 2021 sulla sicurezza e la protezione della salut
 short: OLCostr
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/384"
 language: it
-version: 2022-01-01
+version: 2024-01-01
 adopted: 2021-06-18
 in_force: 2022-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/384/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2021-384-20220101-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/384/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/384/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2021-384-20240101-it-xml-12.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/384/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/384/20220101/it"
 
 (Ordinanza sui lavori di costruzione, OLCostr)
 
-del 18 giugno 2021 (Stato 1° gennaio 2022)
+del 18 giugno 2021 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -42,7 +42,7 @@ La presente ordinanza stabilisce i provvedimenti da adottare per garantire la si
 
 Ai sensi della presente ordinanza si intende per:
 
-- a. *lavori di costruzione:* la realizzazione, la riparazione, la modifica, la manutenzione, il controllo, lo smantellamento e la demolizione di costruzioni, compresi i lavori preparatori e finali, segnatamente i lavori sui tetti, sui ponteggi e con i ponteggi, i lavori negli scavi, nei pozzi e negli scavi generali, i lavori di estrazione di pietra, ghiaia e sabbia, i lavori agli impianti termici e ai camini di fabbrica, i lavori in sospensione a corde portanti, i lavori alle canalizzazioni e all’interno delle canalizzazioni nonché i lavori in sotterraneo e la lavorazione della pietra;
+- *a.* *lavori di costruzione:* la realizzazione, la riparazione, la modifica, la manutenzione, il controllo, lo smantellamento e la demolizione di costruzioni, compresi i lavori preparatori e finali, segnatamente i lavori sui tetti, sui ponteggi e con i ponteggi, i lavori negli scavi, nei pozzi e negli scavi generali, i lavori di estrazione di pietra, ghiaia e sabbia, i lavori agli impianti termici e ai camini di fabbrica, i lavori in sospensione a corde portanti, i lavori alle canalizzazioni e all’interno delle canalizzazioni nonché i lavori in sotterraneo e la lavorazione della pietra;
 - b.
 
   *altezza di caduta:*
@@ -119,7 +119,9 @@ Sono considerate misure proprie al cantiere le misure prese nei lavori di costru
 - h. nei lavori di costruzione di ponteggi;
 - i. nei lavori alle canalizzazioni e all’interno delle canalizzazioni.
 
-3 In ogni caso occorre indossare un casco di protezione con cinturino sottogola per:
+<sup>3</sup>
+
+In ogni caso occorre indossare un casco di protezione con cinturino sottogola per:
 
 - a. i lavori con dispositivi di protezione individuale contro le cadute (fune di sicurezza);
 - b. i lavori in sospensione a corde portanti;
@@ -356,9 +358,7 @@ Si può salire su elementi prefabbricati per coperture di tetti e per solette so
 
 <sup>2</sup> Le prese elettriche con corrente di intensità nominale massima di 32 A utilizzate per l’alimentazione di apparecchi mobili devono essere obbligatoriamente equipaggiate con un interruttore protettivo a corrente di difetto con corrente nominale massima di scatto di 30 mA.
 
-<sup>3</sup> ...[^31-1]
-
-[^31-1]: In vigore dal 1° gen. 2024 (art. 124 cpv. 2).
+<sup>3</sup> I circuiti elettrici che alimentano prese elettriche con una corrente nominale superiore a 32 A devono essere protetti mediante dispositivi protettivi a corrente di difetto.
 
 ### Sezione 6: Ambiente di lavoro
 
@@ -629,7 +629,7 @@ I ponteggi di facciata non possono essere realizzati con strutture portanti vert
 Per i seguenti lavori vanno utilizzati soltanto ponteggi da lavoro con la portata e la larghezza del piano di calpestio minime indicate di seguito:
 
 <table>
-<tr><th></th><th>Carico utile in kN per m<sup>2</sup></th><th>Larghezza minima del piano di calpestio (anche tra i montanti)</th><th>Designazione</th></tr>
+<tr><td></td><td>Carico utile in kN per m<sup>2</sup></td><td>Larghezza minima del piano di calpestio (anche tra i montanti)</td><td>Designazione</td></tr>
 <tr><td>Lavori con materiale leggero, quali i lavori di intonacatura e di pittura</td><td>2,00</td><td>60 cm</td><td>Ponteggio da lavoro leggero come p. es. ponteggio per lavori di intonacatura e di pittura</td></tr>
 <tr><td>Lavori con deposito di materiali, quali i lavori da muratore</td><td>3,00</td><td>90 cm</td><td>Ponteggio da lavoro pesante come p. es. ponteggio per lavori da muratore</td></tr>
 <tr><td>Lavori con materiale pesante, quali la posa di elementi prefabbricati</td><td>4,50</td><td>90 cm</td><td>Ponteggio da lavoro molto pesante come p. es. ponteggio per lavori da scalpellino</td></tr>
@@ -849,8 +849,8 @@ Per le scarpate è richiesta una prova di sicurezza di un ingegnere specializzat
 
   non vengano osservati i seguenti rapporti tra verticale e orizzontale:
 
-  - 1\. al massimo 2 : 1 nei materiali ben compatti e nei materiali mediamente compatti ma ancora stabili,
-  - 2\. al massimo 1 : 1 nei terreni franosi;
+  - 1\. al massimo 2: 1 nei materiali ben compatti e nei materiali mediamente compatti ma ancora stabili,
+  - 2\. al massimo 1: 1 nei terreni franosi;
 
 - c. la scarpata debba molto probabilmente essere sollecitata da carichi supplementari quali veicoli, macchine edili o depositi di materiale; oppure
 - d. vi siano infiltrazioni d’acqua di pendio oppure il piede della scarpata si trovi in corrispondenza dell’acqua di falda.

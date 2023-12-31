@@ -4,11 +4,11 @@ title: "Ordonnance du 18 juin 2021 sur la sécurité et la protection de la sant
 short: OTConst
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/384"
 language: fr
-version: 2022-01-01
+version: 2024-01-01
 adopted: 2021-06-18
 in_force: 2022-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/384/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2021-384-20220101-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/384/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/384/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2021-384-20240101-fr-xml-12.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/384/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/384/20220101/fr"
 
 (Ordonnance sur les travaux de construction, OTConst)
 
-du 18 juin 2021 (État le 1<sup>er</sup> janvier 2022)
+du 18 juin 2021 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -358,9 +358,7 @@ On ne peut s’engager sur les éléments de toiture ou de plafond préfabriqué
 
 <sup>2</sup> Les prises de courant électrique d’une intensité nominale de 32 A au maximum destinées au branchement d’appareils mobiles doivent obligatoirement être équipées d’un disjoncteur de protection à courant de défaut de 30 mA au maximum.
 
-<sup>3</sup> ...[^31-1]
-
-[^31-1]: Entre en vigueur le 1<sup>er</sup> janv. 2024 (voir art. 124 al. 2).
+<sup>3</sup> Les circuits pour l’alimentation de prises avec un courant assigné de plus de 32 A doivent être protégés par un dispositif de protection à courant différentiel-résiduel.
 
 ### Section 6 Milieu de travail
 
@@ -582,7 +580,7 @@ Les échafaudages et les éléments d’échafaudage doivent pouvoir supporter t
 
 **Composants d’échafaudages à ne pas utiliser**
 
-<sub>Les composants d’échafaudages courbés, pliés, corrodés ou endommagés de toute autre façon ne peuvent être utilisés.</sub>
+Les composants d’échafaudages courbés, pliés, corrodés ou endommagés de toute autre façon ne peuvent être utilisés.
 
 #### Art. 49
 
@@ -813,7 +811,10 @@ Les dépôts de matériel de construction et de matériaux d’excavation doiven
 
 <sup>1</sup> Pour accéder aux terrassements, ainsi que dans les fouilles et les puits, il faut utiliser des équipements de travail sûrs, notamment des escaliers. Les escaliers doivent être interrompus par des paliers intermédiaires distants de 5 m au maximum les uns des autres.
 
-- [tab] <sup>2</sup> En lieu et place d’escaliers, on peut recourir à des échelles:
+<sup>2</sup>
+
+En lieu et place d’escaliers, on peut recourir à des échelles:
+
 - a. pour accéder aux terrassements: jusqu’à une profondeur de 5 m et s’il n’est pas possible d’utiliser des escaliers pour des raisons techniques;
 - b. dans les fouilles et les puits: jusqu’à une profondeur de 5 m.
 
@@ -1205,8 +1206,10 @@ Les travaux sur des installations thermiques et sur des cheminées d’usine ne 
 
 - a. qui sont en mesure d’exécuter les travaux qui leur sont confiés de manière fiable et sûre;
 - b. qui peuvent se faire comprendre sur le lieu de travail.
-- [tab] <sup>2</sup> Les travailleurs doivent avoir été instruits pour l’exécution de ces travaux conformément à l’art. 6 OPA[^112-1].
-- [tab] <sup>3</sup> Au moins une personne par poste de travail doit disposer d’une formation appropriée pour les travaux sur les installations thermiques et les cheminées d’usine. Cette personne doit être en permanence sur place durant les travaux.
+
+<sup>2</sup> Les travailleurs doivent avoir été instruits pour l’exécution de ces travaux conformément à l’art. 6 OPA[^112-1].
+
+<sup>3</sup> Au moins une personne par poste de travail doit disposer d’une formation appropriée pour les travaux sur les installations thermiques et les cheminées d’usine. Cette personne doit être en permanence sur place durant les travaux.
 
 [^112-1]: [RS 832.30](https://fedlex.data.admin.ch/eli/cc/1983/1968_1968_1968)
 
@@ -1278,7 +1281,7 @@ Pour les travaux sur les installations thermiques accessibles et sur les chemin�
 
 <sup>1</sup> Les travailleurs auxquels il est fait appel pour exécuter des travaux dans des conduites doivent être surveillés en permanence par une personne se trouvant à l’extérieur.
 
-- [tab] <sup>2</sup> Dans des conduites dont l’espace utile varie entre 600 et 800 mm, les travaux doivent être effectués au moyen d’équipements de travail commandés de l’extérieur (robots).
+<sup>2</sup> Dans des conduites dont l’espace utile varie entre 600 et 800 mm, les travaux doivent être effectués au moyen d’équipements de travail commandés de l’extérieur (robots).
 
 <sup>3</sup>
 

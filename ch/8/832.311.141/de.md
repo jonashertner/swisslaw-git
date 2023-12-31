@@ -4,11 +4,11 @@ title: "Verordnung vom 18. Juni 2021 über die Sicherheit und den Gesundheitssch
 short: BauAV
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/384"
 language: de
-version: 2022-01-01
+version: 2024-01-01
 adopted: 2021-06-18
 in_force: 2022-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/384/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2021-384-20220101-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/384/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/384/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2021-384-20240101-de-xml-12.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/384/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/384/20220101/de"
 
 (Bauarbeitenverordnung, BauAV)
 
-vom 18. Juni 2021 (Stand am 1. Januar 2022)
+vom 18. Juni 2021 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -358,9 +358,7 @@ Vorgefertigte Dach- und Deckenelemente dürfen erst betreten werden, wenn sie be
 
 <sup>2</sup> Für Steckdosen mit einer Nennstromstärke von höchstens 32 A, die zum Anschluss beweglicher Geräte dienen, ist eine Fehlerstromschutzschaltung mit maximal 30 mA Nennauslösestrom obligatorisch.
 
-<sup>3</sup> …[^31-1]
-
-[^31-1]: Tritt am 1. Jan. 2024 in Kraft (Art. 124 Abs. 2).
+<sup>3</sup> Stromkreise zur Versorgung von Steckdosen mit einem Bemessungsstrom von mehr als 32 A müssen durch Fehlerstromschutzeinrichtungen geschützt sein.
 
 ### 6. Abschnitt: Arbeitsumgebung
 
@@ -1283,7 +1281,7 @@ Bei Arbeiten an begehbaren wärmetechnischen Anlagen und an Hochkaminen muss:
 
 <sup>1</sup> Arbeitnehmerinnen und Arbeitnehmer, die für Arbeiten in Rohrleitungen eingesetzt werden, müssen ununterbrochen von einer Person überwacht werden, die sich ausserhalb der Rohrleitungen aufhält.
 
-- [tab] <sup>2</sup> Arbeiten in Rohrleitungen mit einem Lichtmass zwischen 600 mm und 800 mm sind mit Arbeitsmitteln auszuführen, die von ausserhalb des Rohres bedient werden (Manipulatoren).
+<sup>2</sup> Arbeiten in Rohrleitungen mit einem Lichtmass zwischen 600 mm und 800 mm sind mit Arbeitsmitteln auszuführen, die von ausserhalb des Rohres bedient werden (Manipulatoren).
 
 <sup>3</sup>
 
