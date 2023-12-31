@@ -4,13 +4,13 @@ number: "143.11"
 title: Personalverordnung
 short: PersV
 language: de
-version: 2023-07-01
-valid_until: 2023-12-31
-version_adopted: 2023-05-30
+version: 2024-01-01
+valid_until: 2024-03-31
+version_adopted: 2023-05-02
 adopted: 2011-12-13
 in_force: 2013-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/143.11"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3506/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3536/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3506/pdf_file"
 
 (PersV)
 
-vom 13.12.2011 (Stand 01.07.2023)
+vom 13.12.2011 (Stand 01.01.2024)
 
 Die Regierung des Kantons St.Gallen
 
@@ -335,6 +335,8 @@ als Verordnung:[^ingress-2]
   - 1\. in den Spitalverbunden und im Zentrum für Labormedizin 48 Stunden;
   - 2\. in den Psychiatrieverbunden 46 Stunden;
 - e) Wildhüterinnen und Wildhüter 45 Stunden.
+
+<sup>3</sup> Für Kaderärztinnen und Kaderärzte richtet sich die durchschnittliche wöchentliche Arbeitszeit nach den dienstlichen Erfordernissen. Sie beträgt in der Regel 55 Stunden.
 
 ### 2. Bandbreitenmodell
 
@@ -682,6 +684,8 @@ als Verordnung:[^ingress-2]
   - 3\. für die übrigen Mitarbeiterinnen und Mitarbeiter ab dem Jahr, in dem das 50. Altersjahr vollendet wird;
 - c) 30 Arbeitstage ab dem Jahr, in dem das 60. Altersjahr vollendet wird.
 
+<sup>2</sup> Kaderärztinnen und Kaderärzten werden zusätzliche Ferien im Umfang von sieben Arbeitstagen gewährt.
+
 [^61-1]: In Vollzug ab 1. Januar 2013.
 
 #### Art. 62
@@ -985,6 +989,108 @@ als Verordnung:[^ingress-2]
 <sup>4</sup> Wird nach Amtsantritt eines der Kriterien nach Abs. 1 dieser Bestimmung erreicht und sind in der Folge beide Kriterien erfüllt, entspricht der Lohn ab dem 1. Januar des Folgejahres dem Ziellohn.
 
 <sup>5</sup> Wird nach Amtsantritt eines der Kriterien nach Abs. 1 dieser Bestimmung erreicht und ist in der Folge ein Kriterium erfüllt, wird für die Berechnung des Lohns ab dem 1. Januar des Folgejahres davon ausgegangen, dass jenes Kriterium schon bei Amtsantritt erfüllt war. Die weitere Lohnentwicklung richtet sich nach Abs. 3 und 4 dieser Bestimmung.
+
+#### Art. 78e
+
+**Besondere Bestimmungen für die Spitalverbunde, den Psychiatrieverbund und das Zentrum für Labormedizin a) Kaderärztinnen und Kaderärzte 1. Grundsatz**
+
+<sup>1</sup> Kaderärztinnen und Kaderärzte sind:
+
+- a) Chefärztinnen und Chefärzte;
+- b) Leitende Ärztinnen und Leitende Ärzte;
+- c) Oberärztinnen und Oberärzte mit besonderen Funktionen.
+
+<sup>2</sup> Für Kaderärztinnen und Kaderärzte werden Art. 73b und 75 dieses Erlasses nicht angewendet. Im Übrigen werden Art. 73a bis Art. 78 dieses Erlasses sachgemäss angewendet, unter Berücksichtigung der besonderen Anforderungen der Arbeitsverhältnisse der Kaderärztinnen und Kaderärzte.
+
+#### Art. 78f
+
+**2. Referenzfunktionen**
+
+<sup>1</sup> Massgebend für die Bemessung des Lohns sind die Referenzfunktionen und die ihnen zugeordneten Lohnbänder nach Anhang 5 dieses Erlasses. Die Arbeitgeberin oder der Arbeitgeber erlässt durch Weisung weitere Einzelheiten zu den Referenzfunktionen.
+
+<sup>2</sup> Die Arbeitgeberin oder der Arbeitgeber ordnet jede Kaderarztstelle einer Referenzfunktion zu.
+
+#### Art. 78g
+
+**3. Lohn**
+
+<sup>1</sup> Der Lohn für Kaderärztinnen und Kaderärzte setzt sich zusammen aus:
+
+- a) dem Grundlohn;
+- b) der Fachkomponente;
+- c) einem variablen Lohnbestandteil, falls die Voraussetzungen nach Art. 78j dieses Erlasses erfüllt sind.
+
+<sup>2</sup> Der Lohn darf insgesamt den Höchstansatz des massgebenden Lohnbands nicht übersteigen. Art. 78k dieses Erlasses bleibt vorbehalten.
+
+#### Art. 78h
+
+**4. Grundlohn**
+
+<sup>1</sup> Die Arbeitgeberin oder der Arbeitgeber legt den Grundlohn anhand der Bemessungskriterien nach Art. 36 des Personalgesetzes[^78h-1] fest.
+
+[^78h-1]: sGS [143.1](https://www.gesetzessammlung.sg.ch/data/143.1/de).
+
+#### Art. 78i
+
+**5. Fachkomponente**
+
+<sup>1</sup> Die Arbeitgeberin oder der Arbeitgeber legt die Fachkomponente fest und berücksichtigt dabei:
+
+- a) das marktübliche Lohnniveau des jeweiligen Fachgebiets und die Arbeitsmarktsituation;
+- b) die Rentabilität des Fachgebiets für den Spitalverbund, den Psychiatrieverbund oder das Zentrum für Labormedizin;
+- c) individuelle Faktoren wie die Dienstbelastung und unternehmerisches Denken und Handeln der Kaderärztin oder des Kaderarztes.
+
+<sup>2</sup> Sie oder er überprüft die Fachkomponente periodisch und passt sie an veränderte Gegebenheiten an.
+
+#### Art. 78j
+
+**6. variabler Lohnbestandteil**
+
+<sup>1</sup> Kaderärztinnen und Kaderärzten kann ein variabler Lohnbestandteil in der Höhe von höchstens fünf Prozent des Grundlohns ausgerichtet werden, wenn das Unternehmensergebnis positiv ist und die persönliche Zielerreichung dies zulässt.
+
+<sup>2</sup> Die Arbeitgeberin oder der Arbeitgeber legt die Ausrichtung und Höhe des variablen Lohnbestandteils jährlich fest.
+
+<sup>3</sup> Es besteht kein Rechtsanspruch auf die Ausrichtung eines variablen Lohnbestandteils.
+
+#### Art. 78k
+
+**7. Obergrenzen**
+
+<sup>1</sup> Der Lohn einer Kaderärztin oder eines Kaderarztes beträgt höchstens:
+
+- a) Fr. 700'000.– im Spitalverbund Kantonsspital St.Gallen;
+- b) Fr. 500'000.– in den übrigen Spitalverbunden und im Zentrum für Labormedizin;
+- c) Fr. 350'000.– im Psychiatrieverbund.
+
+<sup>2</sup> Bei einer Teilzeitbeschäftigung werden die Obergrenzen entsprechend dem Beschäftigungsgrad herabgesetzt.
+
+<sup>3</sup> In begründeten Ausnahmefällen können die Obergrenzen mit Zustimmung der Regierung überschritten werden.
+
+#### Art. 78l
+
+**b) Vorsitzende der Geschäftsleitungen**
+
+<sup>1</sup> Die Vorsitzenden der Geschäftsleitungen der Spitalverbunde, des Psychiatrieverbundes und des Zentrums für Labormedizin erhalten einen marktüblichen Lohn innerhalb des massgebenden Lohnbands nach Anhang 5 dieses Erlasses. Eine bisherige Tätigkeit als Kaderärztin oder Kaderarzt wird bei der Lohnbemessung berücksichtigt.
+
+<sup>2</sup> Es gelten die Obergrenzen nach Art. 78k dieses Erlasses.
+
+<sup>3</sup> Für die Vorsitzenden der Geschäftsleitungen der Spitalverbunde, des Psychiatrieverbundes und des Zentrums für Labormedizin werden Art. 73b und 75 dieses Erlasses nicht angewendet. Im Übrigen werden Art. 73a bis Art. 78 dieses Erlasses sachgemäss angewendet, unter Berücksichtigung der besonderen Anforderungen der betreffenden Arbeitsverhältnisse.
+
+#### Art. 78m
+
+**c) weitere Mitglieder der Geschäftsleitungen mit Kaderarztfunktion**
+
+<sup>1</sup> Für weitere Mitglieder der Geschäftsleitungen der Spitalverbunde, des Psychiatrieverbundes und des Zentrums für Labormedizin, die als Kaderärztinnen oder Kaderärzte tätig sind, richtet sich der Lohn nach Art. 78e ff. dieses Erlasses.
+
+<sup>2</sup> Unter Berücksichtigung der Obergrenzen nach Art. 78k dieses Erlasses kann die Arbeitgeberin oder der Arbeitgeber zur Abgeltung der zusätzlichen Aufgaben eine Funktionszulage von höchstens 20 Prozent des Ansatzes der Lohnklasse 37 ausrichten.
+
+#### Art. 78n
+
+**d) weitere Mitglieder der Geschäftsleitungen ohne Kaderarztfunktion**
+
+<sup>1</sup> Für weitere Mitglieder der Geschäftsleitungen der Spitalverbunde, des Psychiatrieverbundes und des Zentrums für Labormedizin, die nicht als Kaderärztinnen oder Kaderärzte tätig sind, richtet sich der Lohn nach der Referenzfunktion «Mitglied Geschäftsleitung» nach Anhang 1 dieses Erlasses.
+
+<sup>2</sup> Für Mitglieder der Geschäftsleitung des Kantonsspitals St.Gallen kann die Arbeitgeberin oder der Arbeitgeber zusätzlich eine Marktzulage von höchstens 55 Prozent des Jahreslohns ausrichten.
 
 ### b) Zulagen
 
@@ -2074,5 +2180,30 @@ als Verordnung:[^ingress-2]
 <sup>3</sup> Abs. 1 Bst. a dieser Bestimmung wird nicht angewendet auf Richterinnen und Richter, die vor dem 1. Januar 2020 das 60. Altersjahr vollendet haben.
 
 [^177-1]: sGS [143.1](https://www.gesetzessammlung.sg.ch/data/143.1/de).
+
+#### Art. 178
+
+**Übergangsbestimmungen des XV. Nachtrags vom 2. Mai 2023 a) Grundsatz**
+
+<sup>1</sup> Die Löhne der Kaderärztinnen und Kaderärzte erfahren mit Vollzugsbeginn dieses Nachtrags keine Änderung. Art. 73d und 73e dieses Erlasses bleiben vorbehalten.
+
+<sup>2</sup> Liegt der Lohn am 1. Januar 2024 oberhalb des Lohnbands der massgebenden Referenzfunktion, wird:
+
+- a) er per 1. Januar 2027 auf 100 Prozent des Höchstansatzes dieses Lohnbands gesenkt;
+- b) der Kaderärztin oder dem Kaderarzt in den Jahren 2024 bis 2026 eine allfällige allgemeine Lohnerhöhung nach Art. 37 f. des Personalgesetzes[^178-1] nur bis zum Höchstansatz des massgebenden Lohnbands nach der allgemeinen Lohnerhöhung gewährt.
+
+<sup>3</sup> Abs. 2 Bst. a dieser Bestimmung wird nicht angewendet auf Kaderärztinnen und Kaderärzte, die vor dem 1. Januar 2024 das 60. Altersjahr vollendet haben.
+
+<sup>4</sup> Den Kaderärztinnen und Kaderärzten werden vor dem 1. Januar 2024 die Zuordnung ihrer Stelle zur entsprechenden Referenzfunktion, das massgebende Lohnband sowie die Höhe des Lohns ab 1. Januar 2024 schriftlich mitgeteilt.
+
+[^178-1]: sGS [143.1](https://www.gesetzessammlung.sg.ch/data/143.1/de).
+
+#### Art. 179
+
+**b) Besitzstandswahrung**
+
+<sup>1</sup> In begründeten Fällen kann die Arbeitgeberin oder der Arbeitgeber bis längstens drei Jahre nach Vollzugsbeginn dieses Nachtrags weiterhin eine Erfolgsbeteiligung nach Art. 10 der Verordnung über die Besoldung der Kaderärztinnen und Kaderärzte vom 19. September 2006[^179-1] in der Fassung vor Vollzugsbeginn dieses Erlasses ausrichten. Im entsprechenden Zeitraum ist für die betroffene Kaderärztin oder den betroffenen Kaderarzt die Anwendung von Art. 78j dieses Erlasses ausgeschlossen.
+
+[^179-1]: sGS [320.41](https://www.gesetzessammlung.sg.ch/data/320.41/de).
 
 nGS 47–32
