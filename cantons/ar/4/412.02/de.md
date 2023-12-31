@@ -4,13 +4,12 @@ number: "412.02"
 title: Besoldungsverordnung für die Lehrpersonen der Volksschule
 short: BLV
 language: de
-version: 2023-08-01
-valid_until: 2023-12-31
-version_adopted: 2023-03-27
+version: 2024-01-01
+version_adopted: 2023-12-12
 adopted: 2023-03-27
 in_force: 2023-08-01
 url: "https://ar.clex.ch/app/de/texts_of_law/412.02"
-pdf: "https://ar.clex.ch/api/de/versions/1506/pdf_file"
+pdf: "https://ar.clex.ch/api/de/versions/1515/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://ar.clex.ch/api/de/versions/1506/pdf_file"
 
 (BLV)
 
-vom 27.03.2023 (Stand 01.08.2023)
+vom 27.03.2023 (Stand 01.01.2024)
 
 Der Kantonsrat von Appenzell Ausserrhoden,
 
