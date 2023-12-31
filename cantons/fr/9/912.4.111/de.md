@@ -3,13 +3,13 @@ canton: FR
 number: "912.4.111"
 title: Verordnung ILFD über die Reben und den Wein
 language: de
-version: 2022-01-01
-valid_until: 2023-12-31
-version_adopted: 2021-11-26
+version: 2024-01-01
+valid_until: 2026-12-31
+version_adopted: 2023-12-22
 adopted: 2009-10-01
 in_force: 2009-10-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/912.4.111"
-pdf: "https://bdlf.fr.ch/api/de/versions/7446/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7909/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/7446/pdf_file"
 
 Reben und Wein – V
 
-vom 01.10.2009 (Fassung in Kraft getreten am 01.01.2022)
+vom 01.10.2009 (Fassung in Kraft getreten am 01.01.2024)
 
 Die Direktion der Institutionen und der Land- und Forstwirtschaft
 
@@ -157,6 +157,8 @@ beschliesst:
 
 - a) für den Rebberg Vully die Bezeichnung «Vully Appellation d'origine contrôlée»;
 - b) für den Rebberg Cheyres/Font die Bezeichnung «Cheyres Appellation d'origine contrôlée».
+
+<sup>2</sup> Die Angabe «Appellation d'origine contrôlée» oder ihre Abkürzung «AOC» muss auf der Etikette stehen.
 
 #### Art. 14
 
@@ -379,9 +381,7 @@ beschliesst:
 
 #### Art. 35a
 
-**Anerkannte Bezeichnungen**
-
-<sup>1</sup> Die Bezeichnungen «Vully AOC» und «Cheyres AOC» dürfen für Weine aus der Weinlese 2009 und aus früheren Weinlesen verwendet werden, bis die Vorräte aufgebraucht sind.
+**…**
 
 #### Art. 35b
 
@@ -435,7 +435,9 @@ Doral
 
 Elbling
 
-Freiburger
+Floreal
+
+Freiburger / Freisamer
 
 Gewürztraminer
 
@@ -495,11 +497,13 @@ Viognier
 
 Ancellotta
 
+Cabaret noir
+
 Cabernello
 
 Cabernet Cortis
 
-Cabernet dorsa
+Cabernet Dorsa
 
 Cabernet franc
 
@@ -508,6 +512,8 @@ Cabernet Jura
 Cabernet noir
 
 Cabernet-Sauvignon
+
+Cabertin
 
 Carminoir
 
@@ -553,11 +559,15 @@ Mondeuse
 
 Nerolo
 
+Pinotin
+
 Pinot noir
 
 Regent
 
 Saint-Laurent
+
+Satin noir
 
 Siramé
 

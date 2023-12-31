@@ -3,13 +3,13 @@ canton: FR
 number: "912.4.111"
 title: Ordonnance DIAF sur la vigne et le vin
 language: fr
-version: 2022-01-01
-valid_until: 2023-12-31
-version_adopted: 2021-11-26
+version: 2024-01-01
+valid_until: 2026-12-31
+version_adopted: 2023-12-22
 adopted: 2009-10-01
 in_force: 2009-10-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/912.4.111"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7446/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7909/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/7446/pdf_file"
 
 Vigne et vin – O
 
-du 01.10.2009 (version entrée en vigueur le 01.01.2022)
+du 01.10.2009 (version entrée en vigueur le 01.01.2024)
 
 La Direction des institutions, de l'agriculture et des forêts
 
@@ -157,6 +157,8 @@ Adopte ce qui suit:
 
 - a) pour le vignoble du Vully, l'appellation «Vully Appellation d'origine contrôlée»;
 - b) pour le vignoble de Cheyres/Font, l'appellation «Cheyres Appellation d'origine contrôlée».
+
+<sup>2</sup> La mention «Appellation d'origine contrôlée» et/ou son acronyme «AOC» doit figurer sur l'étiquette.
 
 #### Art. 14
 
@@ -379,9 +381,7 @@ Adopte ce qui suit:
 
 #### Art. 35a
 
-**Appellations reconnues**
-
-<sup>1</sup> L'utilisation des appellations «Vully AOC» et «Cheyres AOC» est autorisée pour les vins issus des vendanges 2009 ou antérieures à 2009, jusqu'à épuisement des stocks.
+**…**
 
 #### Art. 35b
 
@@ -435,7 +435,9 @@ Doral
 
 Elbling
 
-Freiburger
+Floreal
+
+Freiburger / Freisamer
 
 Gewürztraminer
 
@@ -495,6 +497,8 @@ Viognier
 
 Ancellotta
 
+Cabaret noir
+
 Cabernello
 
 Cabernet Cortis
@@ -508,6 +512,8 @@ Cabernet Jura
 Cabernet Noir
 
 Cabernet-Sauvignon
+
+Cabertin
 
 Carminoir
 
@@ -553,11 +559,15 @@ Mondeuse
 
 Nerolo
 
+Pinotin
+
 Pinot Noir
 
 Regent
 
 Saint-Laurent
+
+Satin noir
 
 Siramé
 
