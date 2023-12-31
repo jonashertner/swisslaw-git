@@ -4,11 +4,11 @@ title: "Ordinanza dell' 11 settembre 2002 sulla parte generale del diritto delle
 short: OPGA
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/569"
 language: it
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2002-09-11
 in_force: 2003-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/569/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2002-569-20230901-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/569/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/569/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2002-569-20240101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/569/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/569/20230901/it"
 
 (OPGA)
 
-dell’11 settembre 2002 (Stato 1° settembre 2023)
+dell’11 settembre 2002 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -876,12 +876,20 @@ L’assistenza giudiziaria e amministrativa è rimborsata se:
 
 #### Art. 18a
 
-**Applicabilità dell’ordinanza generale sugli emolumenti**[^18a-1]
+**Scambio elettronico di dati**[^18a-1]
 
-Per quanto la presente ordinanza non disponga altrimenti, si applicano le disposizioni dell’ordinanza generale dell’8 settembre 2004[^18a-2] sugli emolumenti.
+L’autorità di vigilanza di un’assicurazione sociale può disciplinare il formato e il canale per la trasmissione elettronica di dati tra gli assicuratori e le autorità federali. Nel farlo tiene conto di standard attuali riconosciuti.
 
-[^18a-1]: Introdotto dal n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5149](https://fedlex.data.admin.ch/eli/oc/2020/893)).
-[^18a-2]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^18a-1]: Introdotto dall’all. n. 2 dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 (RU **202****3** 750).
+
+#### Art. 18a<sup>bis</sup>
+
+**Applicabilità dell’ordinanza generale sugli emolumenti**[^18abis-1]
+
+Per quanto la presente ordinanza non disponga altrimenti, si applicano le disposizioni dell’ordinanza generale dell’8 settembre 2004[^18abis-2] sugli emolumenti.
+
+[^18abis-1]: Originario art. 18*a*. Introdotto dal n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5149](https://fedlex.data.admin.ch/eli/oc/2020/893)).
+[^18abis-2]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
 
 #### Art. 18b
 

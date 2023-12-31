@@ -4,11 +4,11 @@ title: Verordnung vom 11. September 2002 über den Allgemeinen Teil des Sozialve
 short: ATSV
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/569"
 language: de
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2002-09-11
 in_force: 2003-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/569/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2002-569-20230901-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/569/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/569/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2002-569-20240101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/569/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/569/20230901/de"
 
 (ATSV)
 
-vom 11. September 2002 (Stand am 1. September 2023)
+vom 11. September 2002 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -881,12 +881,20 @@ Amts- und Verwaltungshilfe wird abgegolten, wenn:
 
 #### Art. 18a
 
-**Anwendbarkeit der Allgemeinen Gebührenverordnung**[^18a-1]
+**Elektronischer Datenaustausch**[^18a-1]
 
-Soweit diese Verordnung keine besondere Regelung enthält, gelten die Bestimmungen der Allgemeinen Gebührenverordnung vom 8. September 2004[^18a-2].
+Die Aufsichtsbehörde der jeweiligen Sozialversicherung kann das Format und den Kanal der elektronischen Datenübertragung zwischen den Versicherungsträgern und den Bundesbehörden regeln. Sie berücksichtigt dabei aktuelle anerkannte Standards.
 
-[^18a-1]: Eingefügt durch Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5149](https://fedlex.data.admin.ch/eli/oc/2020/893)).
-[^18a-2]: [SR 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^18a-1]: Eingefügt gemäss Anhang Ziff. 2 der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
+
+#### Art. 18a<sup>bis</sup>
+
+**Anwendbarkeit der Allgemeinen Gebührenverordnung**[^18abis-1]
+
+Soweit diese Verordnung keine besondere Regelung enthält, gelten die Bestimmungen der Allgemeinen Gebührenverordnung vom 8. September 2004[^18abis-2].
+
+[^18abis-1]: Ursprünglich: Art. 18*a*. Eingefügt durch Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5149](https://fedlex.data.admin.ch/eli/oc/2020/893)).
+[^18abis-2]: [SR 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
 
 #### Art. 18b
 

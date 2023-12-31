@@ -4,11 +4,11 @@ title: Ordonnance du 11 septembre 2002 sur la partie générale du droit des ass
 short: OPGA
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/569"
 language: fr
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2002-09-11
 in_force: 2003-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/569/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2002-569-20230901-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/569/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/569/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2002-569-20240101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/569/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/569/20230901/fr"
 
 (OPGA)
 
-du 11 septembre 2002 (État le 1<sup>er</sup> septembre 2023)
+du 11 septembre 2002 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -877,12 +877,20 @@ L’assistance administrative fait l’objet d’une indemnisation si:
 
 #### Art. 18a
 
-**Applicabilité de l’ordonnance générale sur les émoluments**[^18a-1]
+**Échange électronique de données**[^18a-1]
 
-Sauf règles particulières de la présente ordonnance, les dispositions de l’ordonnance générale du 8 septembre 2004 sur les émoluments [^18a-2] s’appliquent.
+L’autorité de surveillance de chaque assurance sociale peut définir le format et le canal de transmission électronique des données entre les assureurs et les autorités fédérales. Elle tient compte à cet effet des normes reconnues actuelles.
 
-[^18a-1]: Introduit par le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5149](https://fedlex.data.admin.ch/eli/oc/2020/893)).
-[^18a-2]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^18a-1]: Introduit par l’annexe ch. 2 de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
+
+#### Art. 18a<sup>bis</sup>
+
+**Applicabilité de l’ordonnance générale sur les émoluments**[^18abis-1]
+
+Sauf règles particulières de la présente ordonnance, les dispositions de l’ordonnance générale du 8 septembre 2004 sur les émoluments [^18abis-2] s’appliquent.
+
+[^18abis-1]: Anciennement art. 18*a*. Introduit par le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5149](https://fedlex.data.admin.ch/eli/oc/2020/893)).
+[^18abis-2]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
 
 #### Art. 18b
 
