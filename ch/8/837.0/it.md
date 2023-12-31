@@ -4,11 +4,11 @@ title: "Legge federale del 25 giugno 1982 sull'assicurazione obbligatoria contro
 short: LADI
 eli: "https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184"
 language: it
-version: 2023-09-01
+version: 2024-01-01
 adopted: 1982-06-25
 in_force: 1983-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184/20230901/it/xml/fedlex-data-admin-ch-eli-cc-1982-2184_2184_2184-20230901-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1982/2184_2184_2184/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184/20240101/it/xml/fedlex-data-admin-ch-eli-cc-1982-2184_2184_2184-20240101-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1982/2184_2184_2184/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1982/2184_2184_2184/20230901/it"
 
 (Legge sull’assicurazione contro la disoccupazione, LADI[^t-1])
 
-del 25 giugno 1982 (Stato 1° settembre 2023)
+del 25 giugno 1982 (Stato 1° gennaio 2024)
 
 [^t-1]: Nuova abbreviazione giusta il n. I della LF del 5 ott. 1990, in vigore dal 1° gen. 1992 ([RU 1991 2125](https://fedlex.data.admin.ch/eli/oc/1991/2125_2125_2125); [FF 1989 III 325](https://fedlex.data.admin.ch/eli/fga/1989/3_377_369_325)). Di questa mod. è tenuto conto in tutto il presente testo.
 
@@ -92,7 +92,7 @@ Sono esonerati dall’obbligo di pagare i contributi:
 
 - a.[^2-5] ...
 - b.[^2-6] i membri della famiglia occupati nell’azienda, giusta l’articolo 1*a* capoverso 2 lettere a e b della legge federale del 20 giugno 1952[^2-7] sugli assegni familiari nell’agricoltura, che sono parificati agli agricoltori indipendenti.
-- c.[^2-8] i lavoratori, dalla fine del mese in cui raggiungono l’età di pensionamento secondo l’articolo 21 LAVS;
+- c.[^2-8] i lavoratori, dalla fine del mese in cui raggiungono l’età di riferimento secondo l’articolo 21 capoverso 1 LAVS;
 - d.[^2-9] i datori di lavoro per i salari pagati alle persone di cui alle lettere b e c;
 - e. i disoccupati per le indennità secondo l’articolo 22*a* capoverso 1 e le casse di disoccupazione per la quota corrispondente del datore di lavoro;
 - f.[^2-10] le persone assicurate secondo l’articolo 2 LAVS.
@@ -104,7 +104,7 @@ Sono esonerati dall’obbligo di pagare i contributi:
 [^2-5]: Abrogata dall’all. n. 7 della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), con effetto dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).
 [^2-6]: Nuovo testo giusta l’all. n. 16 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
 [^2-7]: [RS 836.1](https://fedlex.data.admin.ch/eli/cc/1952/823_843_839)
-[^2-8]: Nuovo testo giusta l’all. n. 7 della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), in vigore dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).
+[^2-8]: Nuovo testo giusta l’all. n. 9 della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 [^2-9]: Nuovo testo giusta l’all. n.7 2 della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), in vigore dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).
 [^2-10]: Introdotta dall’all. n. 7 della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), in vigore dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).
 
@@ -207,14 +207,15 @@ L’assicurato ha diritto all’indennità di disoccupazione, se:
 - a. è disoccupato totalmente o parzialmente (art. 10);
 - b. ha subìto una perdita di lavoro computabile (art. 11);
 - c. risiede in Svizzera (art. 12);
-- d.[^8-1] ha terminato la scuola dell’obbligo, ma non ha raggiunto l’età AVS e non percepisce ancora una rendita di vecchiaia AVS;
+- d.[^8-1] ha terminato la scuola dell’obbligo e non ha ancora raggiunto l’età di riferimento secondo l’articolo 21 capoverso 1 LAVS[^8-2];
 - e. ha compiuto o è liberato dall’obbligo di compiere il periodo di contribuzione (art. 13 e 14);
 - f. è idoneo al collocamento (art. 15) e
 - g. soddisfa le prescrizioni sul controllo (art. 17).
 
 <sup>2</sup> Il Consiglio federale disciplina i presupposti del diritto all’indennità per le persone che, prima di essere disoccupate, erano occupate come lavoratori a domicilio. Può derogare all’ordinamento generale previsto nel presente capitolo soltanto nella misura richiesta dalle peculiarità del lavoro a domicilio.
 
-[^8-1]: Nuovo testo giusta il n. I della LF del 23 giu. 1995, in vigore dal 1° gen. 1996 ([RU 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273); [FF 1994 I 312](https://fedlex.data.admin.ch/eli/fga/1994/1___312)).
+[^8-1]: Nuovo testo giusta l’all. n. 9 della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^8-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
 #### Art. 9
 
@@ -348,11 +349,11 @@ Sono parimente computati:
 
 <sup>2bis</sup> e <sup>2ter</sup>...[^13-6]
 
-<sup>3</sup> Per impedire la riscossione ingiustificata e simultanea di prestazioni di vecchiaia della previdenza professionale e di indennità di disoccupazione, il Consiglio federale può derogare alle regole concernenti il computo dei periodi di contribuzione per le persone che sono state pensionate prima del raggiungimento dell’età di cui all’articolo 21 capoverso 1 LAVS[^13-7], ma che intendono continuare a esercitare un’attività lucrativa dipendente.[^13-8]
+<sup>3</sup> ...[^13-7]
 
-<sup>4</sup> Il Consiglio federale può disciplinare il computo e la durata dei periodi di contribuzione tenendo conto delle condizioni particolari degli assicurati divenuti disoccupati alla fine di un’attività in una professione in cui sono usuali frequenti cambiamenti di posto di lavoro o rapporti d’impiego di durata limitata.[^13-9]
+<sup>4</sup> Il Consiglio federale può disciplinare il computo e la durata dei periodi di contribuzione tenendo conto delle condizioni particolari degli assicurati divenuti disoccupati alla fine di un’attività in una professione in cui sono usuali frequenti cambiamenti di posto di lavoro o rapporti d’impiego di durata limitata.[^13-8]
 
-<sup>5</sup> I particolari sono disciplinati mediante ordinanza.[^13-10]
+<sup>5</sup> I particolari sono disciplinati mediante ordinanza.[^13-9]
 
 [^13-1]: Nuovo testo del cpv. giusta il n. I della LF del 22 mar. 2002, in vigore dal 1° lug. 2003 ([RU 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 1967](https://fedlex.data.admin.ch/eli/fga/2001/493)).
 [^13-2]: Nuovo testo giusta l’all. n. 11 della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
@@ -360,10 +361,9 @@ Sono parimente computati:
 [^13-4]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^13-5]: Nuovo testo giusta l’all. n. 16 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
 [^13-6]: Introdotti dal n. I della LF del 23 giu. 1995 ([RU 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273); [FF 1994 I 312](https://fedlex.data.admin.ch/eli/fga/1994/1___312)). Abrogati dal n. I della LF del 22 mar. 2002, con effetto dal 1° lug. 2003 ([RU 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 1967](https://fedlex.data.admin.ch/eli/fga/2001/493)).
-[^13-7]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^13-8]: Nuovo testo giusta il n. I della LF del 22 mar. 2002, in vigore dal 1° lug. 2003 ([RU 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 1967](https://fedlex.data.admin.ch/eli/fga/2001/493)).
+[^13-7]: Abrogato dall’all. n. 9 della LF del 17 dic. 2021 (AVS 21), con effetto dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^13-8]: Introdotto dal n. I della LF del 22 mar. 2002, in vigore dal 1° lug. 2003 ([RU 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 1967](https://fedlex.data.admin.ch/eli/fga/2001/493)).
 [^13-9]: Introdotto dal n. I della LF del 22 mar. 2002, in vigore dal 1° lug. 2003 ([RU 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 1967](https://fedlex.data.admin.ch/eli/fga/2001/493)).
-[^13-10]: Introdotto dal n. I della LF del 22 mar. 2002, in vigore dal 1° lug. 2003 ([RU 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 1967](https://fedlex.data.admin.ch/eli/fga/2001/493)).
 
 #### Art. 14
 
@@ -518,11 +518,12 @@ Il Consiglio federale disciplina in che modo deve essere determinato il diritto 
 
 **Prestazioni di vecchiaia**[^18c-1]
 
-<sup>1</sup> Le prestazioni di vecchiaia della previdenza professionale sono dedotte dall’indennità di disoccupazione.
+<sup>1</sup> Le prestazioni di vecchiaia dell’AVS e della previdenza professionale sono dedotte dall’indennità di disoccupazione.[^18c-2]
 
 <sup>2</sup> Il capoverso 1 si applica anche alle persone che percepiscono una prestazione di vecchiaia, sia che si tratti di una prestazione ordinaria o di una prestazione di pensionamento anticipato, da un’assicurazione estera obbligatoria o facoltativa per la vecchiaia.
 
 [^18c-1]: Introdotto dal n. I della LF del 22 mar. 2002, in vigore dal 1° lug. 2003 ([RU 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 1967](https://fedlex.data.admin.ch/eli/fga/2001/493)).
+[^18c-2]: Nuovo testo giusta l’all. n. 9 della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 
 #### Art. 19
 
@@ -683,20 +684,22 @@ L’assicurato ha diritto a:
   - 1\. ha compiuto 55 anni, o
   - 2\. riscuote una rendita di invalidità corrispondente almeno a un grado di invalidità del 40 per cento.[^27-3]
 
-<sup>3</sup> Il Consiglio federale può aumentare di 120 unità al massimo il numero di indennità giornaliere e prolungare di due anni al massimo il termine quadro per la riscossione per gli assicurati divenuti disoccupati durante gli ultimi quattro anni precedenti il raggiungimento dell’età che dà diritto alla rendita AVS e il cui collocamento risulta generalmente impossibile o molto difficile per motivi inerenti al mercato del lavoro.
+<sup>3</sup> Il Consiglio federale può aumentare di 120 unità al massimo il numero di indennità giornaliere e prolungare di due anni al massimo il termine quadro per la riscossione per gli assicurati divenuti disoccupati durante gli ultimi quattro anni precedenti il raggiungimento dell’età di riferimento secondo l’articolo 21 capoverso 1 LAVS[^27-4] e il cui collocamento risulta generalmente impossibile o molto difficile per motivi inerenti al mercato del lavoro.[^27-5]
 
-<sup>4</sup> Le persone esonerate dall’adempimento del periodo di contribuzione hanno diritto a 90 indennità giornaliere al massimo.[^27-4]
+<sup>4</sup> Le persone esonerate dall’adempimento del periodo di contribuzione hanno diritto a 90 indennità giornaliere al massimo.[^27-6]
 
-<sup>5</sup> Le persone costrette ad assumere o a estendere un’attività dipendente a causa della soppressione di una rendita d’invalidità secondo l’articolo 14 capoverso 2 hanno diritto a 180 indennità giornaliere al massimo.[^27-5]
+<sup>5</sup> Le persone costrette ad assumere o a estendere un’attività dipendente a causa della soppressione di una rendita d’invalidità secondo l’articolo 14 capoverso 2 hanno diritto a 180 indennità giornaliere al massimo.[^27-7]
 
-<sup>5bis</sup> Le persone minori di 25 anni che non hanno un obbligo di mantenimento nei confronti di figli hanno diritto a 200 indennità giornaliere al massimo.[^27-6]
+<sup>5bis</sup> Le persone minori di 25 anni che non hanno un obbligo di mantenimento nei confronti di figli hanno diritto a 200 indennità giornaliere al massimo.[^27-8]
 
 [^27-1]: Nuovo testo giusta il n. I della LF del 22 mar. 2002, in vigore dal 1° lug. 2003 ([RU 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 1967](https://fedlex.data.admin.ch/eli/fga/2001/493)).
 [^27-2]: Nuovo testo giusta il n. I della LF del 30 set. 2011, in vigore dal 1° gen. 2012 ([RU 2012 495](https://fedlex.data.admin.ch/eli/oc/2012/73); [FF 2011 6469](https://fedlex.data.admin.ch/eli/fga/2011/1177)[6477](https://fedlex.data.admin.ch/eli/fga/2011/1179)).
 [^27-3]: Nuovo testo giusta il n. I della LF del 19 mar. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 6761](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
-[^27-4]: Nuovo testo giusta il n. I della LF del 19 mar. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 6761](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
-[^27-5]: Nuovo testo giusta l’all. n. 7 della LF del 19 giu. 2020 (Ulteriore sviluppo dell’AI), in vigore dal 1° gen. 2022 ([RU 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [FF 2017 2191](https://fedlex.data.admin.ch/eli/fga/2017/544)).
-[^27-6]: Introdotto dal n. I della LF del 19 mar. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 6761](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
+[^27-4]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^27-5]: Nuovo testo giusta l’all. n. 9 della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^27-6]: Nuovo testo giusta il n. I della LF del 19 mar. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 6761](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
+[^27-7]: Nuovo testo giusta l’all. n. 7 della LF del 19 giu. 2020 (Ulteriore sviluppo dell’AI), in vigore dal 1° gen. 2022 ([RU 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [FF 2017 2191](https://fedlex.data.admin.ch/eli/fga/2017/544)).
+[^27-8]: Introdotto dal n. I della LF del 19 mar. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 6761](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
 
 #### Art. 28
 
@@ -839,8 +842,12 @@ Una perdita di lavoro è computabile se:
 
 <sup>5</sup> È considerato periodo di conteggio ogni periodo di un mese o di quattro settimane consecutive.
 
+<sup>6</sup> Il servizio cantonale autorizza i formatori di cui all’articolo 45 della legge del 13 dicembre 2002[^32-3] sulla formazione professionale (LFPr) a proseguire la formazione degli apprendisti nell’azienda durante le ore considerate perdita di lavoro computabile se la formazione degli apprendisti non può essere garantita altrimenti.[^32-4]
+
 [^32-1]: Nuovo testo giusta il n. I della LF del 23 giu. 1995, in vigore dal 1° gen. 1996 ([RU 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273); [FF 1994 I 312](https://fedlex.data.admin.ch/eli/fga/1994/1___312)).
 [^32-2]: Nuovo testo giusta il n. I della LF del 5 ott. 1990, in vigore dal 1° gen. 1992 ([RU 1991 2125](https://fedlex.data.admin.ch/eli/oc/1991/2125_2125_2125); [FF 1989 III 325](https://fedlex.data.admin.ch/eli/fga/1989/3_377_369_325)).
+[^32-3]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
+[^32-4]: Introdotto dal n. I della LF del 29 set. 2023 (Indennità per lavoro ridotto per i formatori), in vigore dal 1° gen. 2024 ([RU 2024 38](https://fedlex.data.admin.ch/eli/oc/2024/38); [FF 2023 577](https://fedlex.data.admin.ch/eli/fga/2023/577)).
 
 #### Art. 33
 
@@ -929,10 +936,12 @@ Il datore di lavoro è tenuto:
 
 - a. ad anticipare l’indennità per lavoro ridotto e a versarla ai lavoratori il giorno usuale di paga;
 - b.[^37-1] ad assumere a suo carico l’indennità per lavoro ridotto per il termine di attesa (art. 32 cpv. 2);
-- c.[^37-2] a pagare, per la durata del lavoro ridotto, la parte intera dei contributi legalmente o contrattualmente dovuti alle assicurazioni sociali, corrispondentemente alla durata normale del lavoro; il datore di lavoro è autorizzato a dedurre dal salario le quote intere dei lavoratori, per quanto non sia convenuto altrimenti.
+- c.[^37-2] a pagare, per la durata del lavoro ridotto, la parte intera dei contributi legalmente o contrattualmente dovuti alle assicurazioni sociali, corrispondentemente alla durata normale del lavoro; il datore di lavoro è autorizzato a dedurre dal salario le quote intere dei lavoratori, per quanto non sia convenuto altrimenti;
+- d.[^37-3] a pagare ai formatori di cui all’articolo 32 capoverso 6, per le ore considerate perdita di lavoro computabile e da loro dedicate alla formazione degli apprendisti, la differenza tra l’indennità per lavoro ridotto e il salario convenuto contrattualmente.
 
 [^37-1]: Nuovo testo giusta il n. I della LF del 5 ott. 1990, in vigore dal 1° gen. 1992 ([RU 1991 2125](https://fedlex.data.admin.ch/eli/oc/1991/2125_2125_2125); [FF 1989 III 325](https://fedlex.data.admin.ch/eli/fga/1989/3_377_369_325)).
 [^37-2]: Nuovo testo giusta il n. I della LF del 5 ott. 1990, in vigore dal 1° gen. 1992 ([RU 1991 2125](https://fedlex.data.admin.ch/eli/oc/1991/2125_2125_2125); [FF 1989 III 325](https://fedlex.data.admin.ch/eli/fga/1989/3_377_369_325)).
+[^37-3]: Introdotto dal n. I della LF del 29 set. 2023 (Indennità per lavoro ridotto per i formatori), in vigore dal 1° gen. 2024 ([RU 2024 38](https://fedlex.data.admin.ch/eli/oc/2024/38); [FF 2023 577](https://fedlex.data.admin.ch/eli/fga/2023/577)).
 
 #### Art. 38
 
@@ -1367,13 +1376,14 @@ Per la partecipazione ai corsi possono pretendere prestazioni:
 
 <sup>4</sup> Nella misura in cui lo esiga il corso, durante il medesimo il partecipante non deve necessariamente essere idoneo al collocamento.
 
-<sup>5</sup> I provvedimenti di formazione ai sensi della presente legge devono essere impostati o scelti, per quanto possibile, secondo i principi della legge federale del 13 dicembre 2002[^60-5] sulla formazione professionale (LFPr). Il coordinamento dei provvedimenti inerenti al mercato del lavoro e di quelli previsti dalla LFPr ha lo scopo di promuovere un mercato del lavoro uniforme e trasparente.
+<sup>5</sup> I provvedimenti di formazione ai sensi della presente legge devono essere scelti e impostati, per quanto possibile, secondo i principi della LFPr[^60-5].[^60-6] Il coordinamento dei provvedimenti inerenti al mercato del lavoro e di quelli previsti dalla LFPr ha lo scopo di promuovere un mercato del lavoro uniforme e trasparente.
 
 [^60-1]: Nuovo testo giusta il n. I della LF del 22 mar. 2002, in vigore dal 1° lug. 2003 ([RU 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 1967](https://fedlex.data.admin.ch/eli/fga/2001/493)).
 [^60-2]: Abrogato dal n. I della LF del 19 mar. 2010, con effetto dal 1° apr. 2011 ([RU 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 6761](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
 [^60-3]: Nuovo testo giusta l’all. n. 40 della LF del 20 giu. 2014 sulla formazione continua, in vigore dal 1° gen. 2017 ([RU 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132); [FF 2013 3085](https://fedlex.data.admin.ch/eli/fga/2013/823)).
 [^60-4]: Nuovo testo giusta il n. I della LF del 19 mar. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 6761](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
 [^60-5]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
+[^60-6]: Nuovo testo giusta il n. I della LF del 29 set. 2023 (Indennità per lavoro ridotto per i formatori), in vigore dal 1° gen. 2024 ([RU 2024 38](https://fedlex.data.admin.ch/eli/oc/2024/38); [FF 2023 577](https://fedlex.data.admin.ch/eli/fga/2023/577)).
 
 #### Art. 61 e 62
 
@@ -1609,7 +1619,7 @@ Gli assicurati possono pretendere il sostegno previsto nell’articolo 71*a* cap
 [^71b-3]: Abrogata dal n. I della LF del 22 mar. 2002, con effetto dal 1° lug. 2003 ([RU 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 1967](https://fedlex.data.admin.ch/eli/fga/2001/493)).
 [^71b-4]: [RS 951.25](https://fedlex.data.admin.ch/eli/cc/2007/138)
 [^71b-5]: Nuovo testo giusta l’art. 13 cpv. 2 n. 2 della LF del 6 ott. 2006 sugli aiuti finanziari alle organizzazioni che concedono fideiussioni alle piccole e medie imprese, in vigore dal 15 lug. 2007 ([RU 2007 693](https://fedlex.data.admin.ch/eli/oc/2007/138); [FF 2006 2771](https://fedlex.data.admin.ch/eli/fga/2006/307)[2799](https://fedlex.data.admin.ch/eli/fga/2006/310)).
-[^71b-6]: Nuovo testo giusta il n. I della LF del 22 mar. 2002, in vigore dal 1° lug. 2003 ([RU 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 1967](https://fedlex.data.admin.ch/eli/fga/2001/493)).
+[^71b-6]: Introdotto dal n. I della LF del 22 mar. 2002, in vigore dal 1° lug. 2003 ([RU 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 1967](https://fedlex.data.admin.ch/eli/fga/2001/493)).
 
 #### Art. 71c
 
@@ -1860,7 +1870,7 @@ L’ufficio di compensazione:
 - a. contabilizza i contributi pagati al fondo di compensazione dell’assicurazione contro la disoccupazione;
 - b. tiene i conti del fondo di compensazione;
 - c.[^83-1] controlla periodicamente la gestione delle casse e dei servizi cantonali; può delegare il controllo delle casse interamente o parzialmente ai Cantoni o a terzi;
-- [tab] c<sup>bis</sup>.[^83-2] verifica l’adempimento dei compiti attribuiti alle casse e ai servizi cantonali;
+- c<sup>bis</sup>.[^83-2] verifica l’adempimento dei compiti attribuiti alle casse e ai servizi cantonali;
 - d. verifica i pagamenti delle casse o ne affida la revisione, in tutto o in parte, ai Cantoni o a un altro ente;
 - e.[^83-3] impartisce istruzioni ai titolari delle casse e ai servizi cantonali;
 - f.[^83-4] decide le pretese di risarcimento della Confederazione verso il titolare, il Cantone, il datore di lavoro e la cassa di compensazione dell’AVS (art. 82, 85*d*, 88 e 89*a*);
@@ -2464,7 +2474,7 @@ Purché nessun interesse privato preponderante vi si opponga, gli organi incaric
 - a. ad altri organi incaricati di applicare la presente legge, nonché di controllarne o sorvegliarne l’esecuzione, qualora ne necessitino per adempiere i compiti conferiti loro dalla presente legge;
 - a<sup>bis</sup>.[^97a-4] agli organi di esecuzione delle leggi cantonali di aiuto ai disoccupati;
 - b. agli organi di altre assicurazioni sociali, qualora, in deroga all’articolo 32 capoverso 2 LPGA, l’obbligo di comunicazione sia sancito da una legge federale;
-- [tab] b<sup>bis</sup>.[^97a-5] agli organi di un’altra assicurazione sociale per assegnare o verificare il numero d’assicurato dell’AVS;
+- b<sup>bis</sup>.[^97a-5] agli organi di un’altra assicurazione sociale per assegnare o verificare il numero d’assicurato dell’AVS;
 - b<sup>ter</sup>.[^97a-6] alle autorità competenti in materia di stranieri, conformemente all’articolo 97 capoverso 3 della legge federale del 16 dicembre 2005[^97a-7] sugli stranieri e la loro integrazione[^97a-8];
 - c. alle autorità competenti per la riscossione dell’imposta alla fonte, conformemente agli articoli 88 e 100 della legge federale del 14 dicembre 1990[^97a-9] sull’imposta federale diretta, nonché alle rispettive disposizioni cantonali;
 - c<sup>bis</sup>.[^97a-10] alle autorità fiscali cantonali, se il diritto cantonale prevede che il conteggio delle prestazioni sia trasmesso loro direttamente;
@@ -2802,7 +2812,7 @@ Sono abrogati:
 
 **Casse riconosciute[^120-1]**
 
-Le seguenti casse, fra quelle esistenti all’entrata in vigore della presente legge, sono considerate riconosciute senza una nuova procedura di riconoscimento;
+Le seguenti casse, fra quelle esistenti all’entrata in vigore della presente legge, sono considerate riconosciute senza una nuova procedura di riconoscimento:
 
 - a. le casse pubbliche il cui titolare è un Cantone e il cui campo d’attività si estende a tutto il Cantone;
 - b. le casse delle organizzazioni eccettuate le casse aziendali.

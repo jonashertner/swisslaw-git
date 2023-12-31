@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 25. Juni 1982 über die obligatorische Arbeitslosenvers
 short: AVIG
 eli: "https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184"
 language: de
-version: 2023-09-01
+version: 2024-01-01
 adopted: 1982-06-25
 in_force: 1983-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184/20230901/de/xml/fedlex-data-admin-ch-eli-cc-1982-2184_2184_2184-20230901-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1982/2184_2184_2184/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184/20240101/de/xml/fedlex-data-admin-ch-eli-cc-1982-2184_2184_2184-20240101-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1982/2184_2184_2184/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1982/2184_2184_2184/20230901/de"
 
 (Arbeitslosenversicherungsgesetz, AVIG)
 
-vom 25. Juni 1982 (Stand am 1. September 2023)
+vom 25. Juni 1982 (Stand am 1. Januar 2024)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -90,7 +90,7 @@ Von der Beitragspflicht ausgenommen sind:
 
 - a. …[^2-5]
 - b.[^2-6] mitarbeitende Familienglieder nach Artikel 1*a* Absatz 2 Buchstaben a und b des Bundesgesetzes vom 20. Juni 1952[^2-7] über die Familienzulagen in der Landwirtschaft, die den selbstständigen Landwirten gleichgestellt sind;
-- c.[^2-8] Arbeitnehmer ab Ende des Monats, in dem sie das Rentenalter nach Artikel 21 AHVG erreichen;
+- c.[^2-8] Arbeitnehmer ab Ende des Monats, in dem sie das Referenzalter nach Artikel 21 Absatz 1 AHVG erreichen;
 - d.[^2-9] Arbeitgeber für Lohnzahlungen an Personen nach den Buchstaben b und c;
 - e.[^2-10] Arbeitslose für Entschädigungen nach Artikel 22*a* Absatz 1 und die Arbeitslosenkassen für den entsprechenden Arbeitgeberanteil;
 - f.[^2-11] die nach Artikel 2 AHVG versicherten Personen.
@@ -102,7 +102,7 @@ Von der Beitragspflicht ausgenommen sind:
 [^2-5]: Aufgehoben durch Anhang Ziff. 7 des BG vom 17. Juni 2011 (Verbesserung der Durchführung), mit Wirkung seit 1. Jan. 2012 ([AS 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [BBl 2011 543](https://fedlex.data.admin.ch/eli/fga/2011/61)).
 [^2-6]: Fassung gemäss Anhang Ziff. 16 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
 [^2-7]: [SR 836.1](https://fedlex.data.admin.ch/eli/cc/1952/823_843_839)
-[^2-8]: Fassung gemäss Anhang Ziff. 7 des BG vom 17. Juni 2011 (Verbesserung der Durchführung), in Kraft seit 1. Jan. 2012 ([AS 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [BBl 2011 543](https://fedlex.data.admin.ch/eli/fga/2011/61)).
+[^2-8]: Fassung gemäss Anhang Ziff. 9 des BG vom 17. Dez. 2021 (AHV 21), in Kraft seit 1. Jan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 [^2-9]: Fassung gemäss Anhang Ziff. 7 des BG vom 17. Juni 2011 (Verbesserung der Durchführung), in Kraft seit 1. Jan. 2012 ([AS 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [BBl 2011 543](https://fedlex.data.admin.ch/eli/fga/2011/61)).
 [^2-10]: Berichtigung des Verweises durch die Redaktionskommission der BVers (Art. 33 GVG – [AS 1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)).
 [^2-11]: Eingefügt durch Anhang Ziff. 7 des BG vom 17. Juni 2011 (Verbesserung der Durchführung), in Kraft seit 1. Jan. 2012 ([AS 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [BBl 2011 543](https://fedlex.data.admin.ch/eli/fga/2011/61)).
@@ -201,19 +201,21 @@ Die Versicherung richtet folgende Leistungen aus:
 
 <sup>1</sup>
 
-Der Versicherte hat Anspruch auf Arbeitslosenentschädigung, wenn er:
+Die versicherte Person hat Anspruch auf Arbeitslosenentschädigung, wenn sie:[^8-1]
 
 - a. ganz oder teilweise arbeitslos ist (Art. 10);
 - b. einen anrechenbaren Arbeitsausfall erlitten hat (Art. 11);
 - c. in der Schweiz wohnt (Art. 12);
-- d.[^8-1] die obligatorische Schulzeit zurückgelegt und weder das Rentenalter der AHV erreicht hat noch eine Altersrente der AHV bezieht;
+- d.[^8-2] die obligatorische Schulzeit zurückgelegt und das Referenzalter nach Artikel 21 Absatz 1 AHVG[^8-3] noch nicht erreicht hat;
 - e. die Beitragszeit erfüllt hat oder von der Erfüllung der Beitragszeit befreit ist (Art. 13 und 14);
 - f. vermittlungsfähig ist (Art. 15) und
 - g. die Kontrollvorschriften erfüllt (Art. 17).
 
 <sup>2</sup> Der Bundesrat regelt die Anspruchsvoraussetzungen für Personen, die vor der Arbeitslosigkeit als Heimarbeitnehmer tätig waren. Er darf dabei von der allgemeinen Regelung in diesem Kapitel nur soweit abweichen, als die Besonderheiten der Heimarbeit dies gebieten.
 
-[^8-1]: Fassung gemäss Ziff. I des BG vom 23. Juni 1995, in Kraft seit 1. Jan. 1996 ([AS 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273); [BBl 1994 I 340](https://fedlex.data.admin.ch/eli/fga/1994/1_340_340_)).
+[^8-1]: Fassung gemäss Anhang Ziff. 9 des BG vom 17. Dez. 2021 (AHV 21), in Kraft seit 1. Jan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^8-2]: Fassung gemäss Anhang Ziff. 9 des BG vom 17. Dez. 2021 (AHV 21), in Kraft seit 1. Jan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^8-3]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
 #### Art. 9
 
@@ -347,11 +349,11 @@ Angerechnet werden auch:
 
 <sup>2</sup> <sup>bis</sup><sup>–2</sup><sup>ter</sup> …[^13-6]
 
-<sup>3</sup> Um den ungerechtfertigten gleichzeitigen Bezug von Altersleistungen der beruflichen Vorsorge und von Arbeitslosenentschädigung zu verhindern, kann der Bundesrat die Anrechnung von Beitragszeiten für diejenigen Personen abweichend regeln, die vor Erreichen des Rentenalters nach Artikel 21 Absatz 1 AHVG[^13-7] pensioniert wurden, jedoch weiterhin als Arbeitnehmer tätig sein wollen.[^13-8]
+<sup>3</sup> ...[^13-7]
 
-<sup>4</sup> Für Versicherte, die im Anschluss an eine Tätigkeit in einem Beruf arbeitslos werden, in dem häufig wechselnde oder befristete Anstellungen üblich sind, kann der Bundesrat die Berechnung und die Dauer der Beitragszeit unter Berücksichtigung der besonderen Gegebenheiten regeln.[^13-9]
+<sup>4</sup> Für Versicherte, die im Anschluss an eine Tätigkeit in einem Beruf arbeitslos werden, in dem häufig wechselnde oder befristete Anstellungen üblich sind, kann der Bundesrat die Berechnung und die Dauer der Beitragszeit unter Berücksichtigung der besonderen Gegebenheiten regeln.[^13-8]
 
-<sup>5</sup> Die Einzelheiten regelt die Verordnung.[^13-10]
+<sup>5</sup> Die Einzelheiten regelt die Verordnung.[^13-9]
 
 [^13-1]: Fassung gemäss Ziff. I des BG vom 22. März 2002, in Kraft seit 1. Juli 2003 ([AS 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [BBl 2001 2245](https://fedlex.data.admin.ch/eli/fga/2001/493)).
 [^13-2]: Fassung gemäss Anhang Ziff. 11 des BG vom 18. März 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
@@ -359,10 +361,9 @@ Angerechnet werden auch:
 [^13-4]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^13-5]: Fassung gemäss Anhang Ziff. 16 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
 [^13-6]: Eingefügt durch Ziff. I des BG vom 23. Juni 1995 ([AS 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273); [BBl 1994 I 340](https://fedlex.data.admin.ch/eli/fga/1994/1_340_340_)). Aufgehoben durch Ziff. I des BG vom 22. März 2002, mit Wirkung seit 1. Juli 2003 ([AS 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [BBl 2001 2245](https://fedlex.data.admin.ch/eli/fga/2001/493)).
-[^13-7]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^13-8]: Fassung gemäss Ziff. I des BG vom 22. März 2002, in Kraft seit 1. Juli 2003 ([AS 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [BBl 2001 2245](https://fedlex.data.admin.ch/eli/fga/2001/493)).
+[^13-7]: Aufgehoben durch Anhang Ziff. 9 des BG vom 17. Dez. 2021 (AHV 21), mit Wirkung seit 1. Jan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^13-8]: Eingefügt durch Ziff. I des BG vom 22. März 2002, in Kraft seit 1. Juli 2003 ([AS 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [BBl 2001 2245](https://fedlex.data.admin.ch/eli/fga/2001/493)).
 [^13-9]: Eingefügt durch Ziff. I des BG vom 22. März 2002, in Kraft seit 1. Juli 2003 ([AS 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [BBl 2001 2245](https://fedlex.data.admin.ch/eli/fga/2001/493)).
-[^13-10]: Eingefügt durch Ziff. I des BG vom 22. März 2002, in Kraft seit 1. Juli 2003 ([AS 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [BBl 2001 2245](https://fedlex.data.admin.ch/eli/fga/2001/493)).
 
 #### Art. 14
 
@@ -517,11 +518,12 @@ Der Bundesrat regelt, wie der Entschädigungsanspruch für Personen bestimmt wir
 
 **Altersleistungen**[^18c-1]
 
-<sup>1</sup> Altersleistungen der beruflichen Vorsorge werden von der Arbeitslosenentschädigung abgezogen.
+<sup>1</sup> Altersleistungen der AHV und der beruflichen Vorsorge werden von der Arbeitslosenentschädigung abgezogen.[^18c-2]
 
 <sup>2</sup> Absatz 1 gilt auch für Personen, die eine Altersrente einer ausländischen obligatorischen oder freiwilligen Altersversicherung beziehen, unabhängig davon, ob es sich um eine ordentliche Altersleistung oder um eine Vorruhestandsleistung handelt.
 
 [^18c-1]: Eingefügt durch Ziff. I des BG vom 22. März 2002, in Kraft seit 1. Juli 2003 ([AS 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [BBl 2001 2245](https://fedlex.data.admin.ch/eli/fga/2001/493)).
+[^18c-2]: Fassung gemäss Anhang Ziff. 9 des BG vom 17. Dez. 2021 (AHV 21), in Kraft seit 1. Jan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 
 #### Art. 19
 
@@ -682,20 +684,22 @@ Die versicherte Person hat Anspruch auf:
   - 1\. das 55. Altersjahr zurückgelegt hat, oder
   - 2\. eine Invalidenrente bezieht, die einem Invaliditätsgrad von mindestens 40 Prozent entspricht.[^27-3]
 
-<sup>3</sup> Der Bundesrat kann für Versicherte, die innerhalb der letzten vier Jahre vor Erreichen des AHV-Rentenalters arbeitslos geworden sind und deren Vermittlung allgemein oder aus Gründen des Arbeitsmarktes unmöglich oder stark erschwert ist, den Anspruch um höchstens 120 Taggelder erhöhen und die Rahmenfrist für den Leistungsbezug um längstens zwei Jahre verlängern.
+<sup>3</sup> Der Bundesrat kann für Versicherte, die innerhalb der letzten vier Jahre vor Erreichen des Referenzalters nach Artikel 21 Absatz 1 AHVG[^27-4] arbeitslos geworden sind und deren Vermittlung allgemein oder aus Gründen des Arbeitsmarktes unmöglich oder stark erschwert ist, den Anspruch um höchstens 120 Taggelder erhöhen und die Rahmenfrist für den Leistungsbezug um längstens zwei Jahre verlängern.[^27-5]
 
-<sup>4</sup> Anspruch auf höchstens 90 Taggelder haben Personen, die von der Erfüllung der Beitragszeit befreit sind.[^27-4]
+<sup>4</sup> Anspruch auf höchstens 90 Taggelder haben Personen, die von der Erfüllung der Beitragszeit befreit sind.[^27-6]
 
-<sup>5</sup> Personen, die wegen Wegfalls einer Invalidenrente nach Artikel 14 Absatz 2 gezwungen sind, eine unselbstständige Erwerbstätigkeit aufzunehmen oder zu erweitern, haben Anspruch auf höchstens 180 Taggelder.[^27-5]
+<sup>5</sup> Personen, die wegen Wegfalls einer Invalidenrente nach Artikel 14 Absatz 2 gezwungen sind, eine unselbstständige Erwerbstätigkeit aufzunehmen oder zu erweitern, haben Anspruch auf höchstens 180 Taggelder.[^27-7]
 
-<sup>5bis</sup> Anspruch auf höchstens 200 Taggelder haben Personen bis zum zurückgelegten 25. Altersjahr ohne Unterhaltspflichten gegenüber Kindern.[^27-6]
+<sup>5bis</sup> Anspruch auf höchstens 200 Taggelder haben Personen bis zum zurückgelegten 25. Altersjahr ohne Unterhaltspflichten gegenüber Kindern.[^27-8]
 
 [^27-1]: Fassung gemäss Ziff. I des BG vom 22. März 2002, in Kraft seit 1. Juli 2003 ([AS 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [BBl 2001 2245](https://fedlex.data.admin.ch/eli/fga/2001/493)).
 [^27-2]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2011, in Kraft seit 1. Jan. 2012 ([AS 2012 495](https://fedlex.data.admin.ch/eli/oc/2012/73); [BBl 2011 7259](https://fedlex.data.admin.ch/eli/fga/2011/1177)[7267](https://fedlex.data.admin.ch/eli/fga/2011/1179)).
 [^27-3]: Fassung gemäss Ziff. I des BG vom 19. März 2010, in Kraft seit 1. April 2011 ([AS 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [BBl 2008 7733](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
-[^27-4]: Fassung gemäss Ziff. I des BG vom 19. März 2010, in Kraft seit 1. April 2011 ([AS 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [BBl 2008 7733](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
-[^27-5]: Fassung gemäss Anhang Ziff. 7 des BG vom 19. Juni 2020 (Weiterentwicklung der IV), in Kraft seit 1. Jan. 2022 ([AS 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [BBl 2017 2535](https://fedlex.data.admin.ch/eli/fga/2017/544)).
-[^27-6]: Eingefügt durch Ziff. I des BG vom 19. März 2010, in Kraft seit 1. April 2011 ([AS 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [BBl 2008 7733](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
+[^27-4]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^27-5]: Fassung gemäss Anhang Ziff. 9 des BG vom 17. Dez. 2021 (AHV 21), in Kraft seit 1. Jan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^27-6]: Fassung gemäss Ziff. I des BG vom 19. März 2010, in Kraft seit 1. April 2011 ([AS 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [BBl 2008 7733](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
+[^27-7]: Fassung gemäss Anhang Ziff. 7 des BG vom 19. Juni 2020 (Weiterentwicklung der IV), in Kraft seit 1. Jan. 2022 ([AS 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [BBl 2017 2535](https://fedlex.data.admin.ch/eli/fga/2017/544)).
+[^27-8]: Eingefügt durch Ziff. I des BG vom 19. März 2010, in Kraft seit 1. April 2011 ([AS 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [BBl 2008 7733](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
 
 #### Art. 28
 
@@ -838,8 +842,12 @@ Ein Arbeitsausfall ist anrechenbar, wenn er:
 
 <sup>5</sup> Als Abrechnungsperiode gilt ein Zeitraum von einem Monat oder von vier zusammenhängenden Wochen.
 
+<sup>6</sup> Die kantonale Amtsstelle bewilligt Berufsbildnerinnen und Berufsbildnern nach Artikel 45 des Berufsbildungsgesetzes vom 13. Dezember 2002[^32-3] (BBG), während der Stunden, die als anrechenbarer Arbeitsausfall gelten, die Ausbildung der Lernenden im Betrieb fortzusetzen, wenn die Ausbildung der Lernenden nicht anderweitig sichergestellt werden kann.[^32-4]
+
 [^32-1]: Fassung gemäss Ziff. I des BG vom 23. Juni 1995, in Kraft seit 1. Jan. 1996 ([AS 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273); [BBl 1994 I 340](https://fedlex.data.admin.ch/eli/fga/1994/1_340_340_)).
 [^32-2]: Fassung gemäss Ziff. I des BG vom 5. Okt. 1990, in Kraft seit 1. Jan. 1992 ([AS 1991 2125](https://fedlex.data.admin.ch/eli/oc/1991/2125_2125_2125); [BBl 1989 III 377](https://fedlex.data.admin.ch/eli/fga/1989/3_377_369_325)).
+[^32-3]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
+[^32-4]: Eingefügt durch Ziff. I des BG vom 29. Sept. 2023 (Kurzarbeitsentschädigung für Berufsbildnerinnen und Berufsbildner), in Kraft seit 1. Jan. 2024 ([AS 2024 38](https://fedlex.data.admin.ch/eli/oc/2024/38); [BBl 2023 577](https://fedlex.data.admin.ch/eli/fga/2023/577)).
 
 #### Art. 33
 
@@ -928,10 +936,12 @@ Der Arbeitgeber ist verpflichtet:
 
 - a. die Kurzarbeitsentschädigung vorzuschiessen und den Arbeitnehmern am ordentlichen Zahltagstermin auszurichten;
 - b.[^37-1] die Kurzarbeitsentschädigung für die Karenzzeit (Art. 32 Abs. 2) zu seinen Lasten zu übernehmen;
-- c.[^37-2] während der Kurzarbeit die vollen gesetzlichen und vertraglich vereinbarten Sozialversicherungsbeiträge entsprechend der normalen Arbeitszeit zu bezahlen; er ist berechtigt, die vollen Beitragsanteile der Arbeitnehmer vom Lohn abzuziehen, sofern nichts anderes vereinbart war.
+- c.[^37-2] während der Kurzarbeit die vollen gesetzlichen und vertraglich vereinbarten Sozialversicherungsbeiträge entsprechend der normalen Arbeitszeit zu bezahlen; er ist berechtigt, die vollen Beitragsanteile der Arbeitnehmer vom Lohn abzuziehen, sofern nichts anderes vereinbart war;
+- d.[^37-3] den Berufsbildnerinnen und Berufsbildnern nach Artikel 32 Absatz 6 für die Stunden, die als anrechenbarer Arbeitsausfall gelten und in denen sie die Ausbildung der Lernenden sicherstellen, die Differenz zwischen der Kurzarbeitsentschädigung und dem vertraglich vereinbarten Lohn auszubezahlen.
 
 [^37-1]: Fassung gemäss Ziff. I des BG vom 5. Okt. 1990, in Kraft seit 1. Jan. 1992 ([AS 1991 2125](https://fedlex.data.admin.ch/eli/oc/1991/2125_2125_2125); [BBl 1989 III 377](https://fedlex.data.admin.ch/eli/fga/1989/3_377_369_325)).
 [^37-2]: Fassung gemäss Ziff. I des BG vom 5. Okt. 1990, in Kraft seit 1. Jan. 1992 ([AS 1991 2125](https://fedlex.data.admin.ch/eli/oc/1991/2125_2125_2125); [BBl 1989 III 377](https://fedlex.data.admin.ch/eli/fga/1989/3_377_369_325)).
+[^37-3]: Eingefügt durch Ziff. I des BG vom 29. Sept. 2023 (Kurzarbeitsentschädigung für Berufsbildnerinnen und Berufsbildner), in Kraft seit 1. Jan. 2024 ([AS 2024 38](https://fedlex.data.admin.ch/eli/oc/2024/38); [BBl 2023 577](https://fedlex.data.admin.ch/eli/fga/2023/577)).
 
 #### Art. 38
 
@@ -1366,12 +1376,13 @@ Für die Teilnahme an Kursen können Leistungen beanspruchen:
 
 <sup>4</sup> Soweit der Kurs es erfordert, braucht der Teilnehmer während dessen Dauer nicht vermittlungsfähig zu sein.
 
-<sup>5</sup> Die Bildungsmassnahmen nach diesem Gesetz sind, soweit möglich, nach den Grundsätzen des Berufsbildungsgesetzes vom 13. Dezember 2002[^60-4] (BBG) zu gestalten beziehungsweise auszuwählen. Die Koordination der arbeitsmarktlichen Massnahmen und der Massnahmen nach BBG hat zum Ziel, einen einheitlichen und transparenten Arbeitsmarkt zu fördern.
+<sup>5</sup> Die Bildungsmassnahmen nach diesem Gesetz sind, soweit möglich, nach den Grundsätzen des BBG[^60-4] auszuwählen und zu gestalten.[^60-5] Die Koordination der arbeitsmarktlichen Massnahmen und der Massnahmen nach BBG hat zum Ziel, einen einheitlichen und transparenten Arbeitsmarkt zu fördern.
 
 [^60-1]: Fassung gemäss Ziff. I des BG vom 22. März 2002, in Kraft seit 1. Juli 2003 ([AS 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [BBl 2001 2245](https://fedlex.data.admin.ch/eli/fga/2001/493)).
 [^60-2]: Aufgehoben durch Ziff. I des BG vom 19. März 2010, mit Wirkung seit 1. April 2011 ([AS 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [BBl 2008 7733](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
 [^60-3]: Fassung gemäss Ziff. I des BG vom 19. März 2010, in Kraft seit 1. April 2011 ([AS 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [BBl 2008 7733](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
 [^60-4]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
+[^60-5]: Fassung gemäss Ziff. I des BG vom 29. Sept. 2023 (Kurzarbeitsentschädigung für Berufsbildnerinnen und Berufsbildner), in Kraft seit 1. Jan. 2024 ([AS 2024 38](https://fedlex.data.admin.ch/eli/oc/2024/38); [BBl 2023 577](https://fedlex.data.admin.ch/eli/fga/2023/577)).
 
 #### Art. 61 und 62
 
@@ -2461,7 +2472,7 @@ Sofern kein überwiegendes Privatinteresse entgegensteht, dürfen Organe, die mi
 - a. anderen mit der Durchführung sowie der Kontrolle oder der Beaufsichtigung der Durchführung dieses Gesetzes betrauten Organen, wenn die Daten für die Erfüllung der ihnen nach diesem Gesetz übertragenen Aufgaben erforderlich sind;
 - a<sup>bis</sup>.[^97a-4] den Durchführungsorganen der kantonalen Arbeitslosenhilfegesetze;
 - b. Organen einer anderen Sozialversicherung, wenn sich in Abweichung von Artikel 32 Absatz 2 ATSG eine Pflicht zur Bekanntgabe aus einem Bundesgesetz ergibt;
-- [tab] b<sup>bis</sup>.[^97a-5]Organen einer anderen Sozialversicherung für die Zuweisung oder Verifizierung der AHV-Nummer;
+- b<sup>bis</sup>.[^97a-5] Organen einer anderen Sozialversicherung für die Zuweisung oder Verifizierung der AHV-Nummer;
 - b<sup>ter</sup>.[^97a-6] den Ausländerbehörden, nach Artikel 97 Absatz 3 des Ausländer- und Integrationsgesetzesvom 16. Dezember 2005[^97a-7] (AIG)[^97a-8];
 - c. den für die Quellensteuer zuständigen Behörden, nach den Artikeln 88 und 100 des Bundesgesetzes vom 14. Dezember 1990[^97a-9] über die direkte Bundessteuer sowie den entsprechenden kantonalen Bestimmungen;
 - c<sup>bis</sup>.[^97a-10] den kantonalen Steuerbehörden, sofern das kantonale Recht eine direkte Übermittlung der Leistungsabrechnung an diese vorsieht;

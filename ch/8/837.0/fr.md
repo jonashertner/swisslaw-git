@@ -4,11 +4,11 @@ title: "Loi fédérale du 25 juin 1982 sur l'assurance-chômage obligatoire et l
 short: LACI
 eli: "https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184"
 language: fr
-version: 2023-09-01
+version: 2024-01-01
 adopted: 1982-06-25
 in_force: 1983-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-1982-2184_2184_2184-20230901-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1982/2184_2184_2184/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-1982-2184_2184_2184-20240101-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1982/2184_2184_2184/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1982/2184_2184_2184/20230901/fr"
 
 (Loi sur l’assurance-chômage, LACI)
 
-du 25 juin 1982 (État le 1<sup>er</sup> septembre 2023)
+du 25 juin 1982 (État le 1<sup>er</sup> janvier 2024)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -90,23 +90,23 @@ Sont dispensés de payer des cotisations:
 
 - a.[^2-5] …
 - b.[^2-6] les membres de la famille de l’exploitant qui travaillent dans l’exploitation agricole, au sens de l’art. 1*a*, al. 2, let. a et b, de la loi fédérale du 20 juin 1952 sur les allocations familiales dans l’agriculture[^2-7] et qui sont assimilés à des agriculteurs indépendants.
-- c.[^2-8] les travailleurs, à partir de la fin du mois au cours duquel ils atteignent l’âge de la retraite fixé à l’art. 21 LAVS;
+- c.[^2-8] les travailleurs, à partir de la fin du mois au cours duquel ils atteignent l’âge de référence fixé à l’art. 21, al. 1, LAVS;
 - d.[^2-9] les employeurs, pour les salaires versés aux personnes mentionnées aux let. b et c;
 - e.[^2-10] les chômeurs pour les indemnités selon l’art. 22*a*, al. 1, ainsi que les caisses de chômage pour la part de l’employeur correspondante[^2-11];
 - f.[^2-12] les personnes assurées en vertu de l’art. 2 LAVS.
 
-[^2-1]: Nouvelle teneur selon l’annexe ch. 7 de la LF du 17 juin 2011 (Amélioration de la mise en oeuvre), en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 519](https://fedlex.data.admin.ch/eli/fga/2011/61)).
+[^2-1]: Nouvelle teneur selon l’annexe ch. 7 de la LF du 17 juin 2011 (Amélioration de la mise en œuvre), en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 519](https://fedlex.data.admin.ch/eli/fga/2011/61)).
 [^2-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^2-3]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 [^2-4]: Nouvelle teneur selon l’annexe ch. 16 de la LF du 6 oct. 2000 sur la partie générale du droit des assurances sociales, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [FF 1991 II 181](https://fedlex.data.admin.ch/eli/fga/1991/2__181_)888, [1994 V 897](https://fedlex.data.admin.ch/eli/fga/1994/5__897_), **1999** 4168).
-[^2-5]: Abrogée par l’annexe ch. 7 de la LF du 17 juin 2011 (Amélioration de la mise en oeuvre), avec effet au 1<sup>er</sup> janv. 2012 ([RO 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 519](https://fedlex.data.admin.ch/eli/fga/2011/61)).
+[^2-5]: Abrogée par l’annexe ch. 7 de la LF du 17 juin 2011 (Amélioration de la mise en œuvre), avec effet au 1<sup>er</sup> janv. 2012 ([RO 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 519](https://fedlex.data.admin.ch/eli/fga/2011/61)).
 [^2-6]: Nouvelle teneur selon l’annexe ch. 16 de la LF du 6 oct. 2000 sur la partie générale du droit des assurances sociales, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [FF 1991 II 181](https://fedlex.data.admin.ch/eli/fga/1991/2__181_)888, [1994 V 897](https://fedlex.data.admin.ch/eli/fga/1994/5__897_), **1999** 4168).
 [^2-7]: [RS 836.1](https://fedlex.data.admin.ch/eli/cc/1952/823_843_839)
-[^2-8]: Nouvelle teneur selon l’annexe ch. 7 de la LF du 17 juin 2011 (Amélioration de la mise en oeuvre), en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 519](https://fedlex.data.admin.ch/eli/fga/2011/61)).
-[^2-9]: Nouvelle teneur selon l’annexe ch. 7 de la LF du 17 juin 2011 (Amélioration de la mise en oeuvre), en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 519](https://fedlex.data.admin.ch/eli/fga/2011/61)).
+[^2-8]: Nouvelle teneur selon l’annexe ch. 9 de la LF du 17 déc. 2021 (AVS 21), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5979](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^2-9]: Nouvelle teneur selon l’annexe ch. 7 de la LF du 17 juin 2011 (Amélioration de la mise en œuvre), en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 519](https://fedlex.data.admin.ch/eli/fga/2011/61)).
 [^2-10]: Nouvelle teneur selon le ch. I de la LF du 23 juin 1995, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273); [FF 1994 I 340](https://fedlex.data.admin.ch/eli/fga/1994/1_340_340_)).
 [^2-11]: Rectification du renvoi par la CdR de l’Ass. féd. (art. 33 LREC; [RO 1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)).
-[^2-12]: Introduite par l’annexe ch. 7 de la LF du 17 juin 2011 (Amélioration de la mise en oeuvre), en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 519](https://fedlex.data.admin.ch/eli/fga/2011/61)).
+[^2-12]: Introduite par l’annexe ch. 7 de la LF du 17 juin 2011 (Amélioration de la mise en œuvre), en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 519](https://fedlex.data.admin.ch/eli/fga/2011/61)).
 
 #### Art. 2a
 
@@ -207,14 +207,15 @@ L’assuré a droit à l’indemnité de chômage:
 - a. s’il est sans emploi ou partiellement sans emploi (art. 10);
 - b. s’il a subi une perte de travail à prendre en considération (art. 11);
 - c. s’il est domicilié en Suisse (art. 12);
-- d.[^8-1] s’il a achevé sa scolarité obligatoire, qu’il n’a pas encore atteint l’âge donnant droit à une rente AVS et ne touche pas de rente de vieillesse de l’AVS;
+- d.[^8-1] s’il a achevé sa scolarité obligatoire et qu’il n’a pas encore atteint l’âge de référence fixé à l’art. 21, al. 1, LAVS[^8-2];
 - e. s’il remplit les conditions relatives à la période de cotisation ou en est libéré (art. 13 et 14);
 - f. s’il est apte au placement (art. 15), et
 - g. s’il satisfait aux exigences du contrôle (art. 17).
 
 <sup>2</sup> Le Conseil fédéral règle les conditions dont dépend le droit à l’indemnité des personnes qui, avant d’être au chômage, exerçaient une activité salariée à domicile. Il ne peut s’écarter de la réglementation générale prévue dans le présent chapitre que dans la mesure où les particularités du travail à domicile l’exigent.
 
-[^8-1]: Nouvelle teneur selon le ch. I de la LF du 23 juin 1995, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273); [FF 1994 I 340](https://fedlex.data.admin.ch/eli/fga/1994/1_340_340_)).
+[^8-1]: Nouvelle teneur selon l’annexe ch. 9 de la LF du 17 déc. 2021 (AVS 21), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5979](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^8-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
 #### Art. 9
 
@@ -348,11 +349,11 @@ Compte également comme période de cotisation le temps durant lequel l’assur�
 
 <sup>2bis</sup> et <sup>2ter</sup> …[^13-6]
 
-<sup>3</sup> Afin d’empêcher le cumul injustifié de prestations de vieillesse de la prévoyance professionnelle et de l’indemnité de chômage, le Conseil fédéral peut déroger aux règles concernant la prise en compte des périodes de cotisation pour les assurés mis à la retraite avant d’avoir atteint l’âge de la retraite selon l’art. 21, al. 1, LAVS[^13-7], mais qui désirent continuer à exercer une activité salariée.[^13-8]
+<sup>3</sup> …[^13-7]
 
-<sup>4</sup> Le Conseil fédéral peut fixer des règles de calcul et la durée des périodes de cotisation tenant compte des conditions particulières pour les assurés qui tombent au chômage après avoir travaillé dans une profession où les changements d’employeur ou les contrats de durée limitée sont usuels.[^13-9]
+<sup>4</sup> Le Conseil fédéral peut fixer des règles de calcul et la durée des périodes de cotisation tenant compte des conditions particulières pour les assurés qui tombent au chômage après avoir travaillé dans une profession où les changements d’employeur ou les contrats de durée limitée sont usuels.[^13-8]
 
-<sup>5</sup> Les modalités sont réglées par voie d’ordonnance.[^13-10]
+<sup>5</sup> Les modalités sont réglées par voie d’ordonnance.[^13-9]
 
 [^13-1]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2002, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 2123](https://fedlex.data.admin.ch/eli/fga/2001/493)).
 [^13-2]: Nouvelle teneur selon l’annexe ch. 11 de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
@@ -360,10 +361,9 @@ Compte également comme période de cotisation le temps durant lequel l’assur�
 [^13-4]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^13-5]: Nouvelle teneur selon l’annexe ch. 16 de la LF du 6 oct. 2000 sur la partie générale du droit des assurances sociales, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [FF 1991 II 181](https://fedlex.data.admin.ch/eli/fga/1991/2__181_)888, [1994 V 897](https://fedlex.data.admin.ch/eli/fga/1994/5__897_), **1999** 4168).
 [^13-6]: Introduits par le ch. I de la LF du 23 juin 1995 ([RO 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273); [FF 1994 I 340](https://fedlex.data.admin.ch/eli/fga/1994/1_340_340_)). Abrogés par le ch. I de la LF du 22 mars 2002, avec effet au 1<sup>er</sup> juil. 2003 ([RO 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 2123](https://fedlex.data.admin.ch/eli/fga/2001/493)).
-[^13-7]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^13-8]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2002, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 2123](https://fedlex.data.admin.ch/eli/fga/2001/493)).
+[^13-7]: Abrogé par l’annexe ch. 9 de la LF du 17 déc. 2021 (AVS 21), avec effet au 1<sup>er</sup> janv. 2024 ([RO 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5979](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^13-8]: Introduit par le ch. I de la LF du 22 mars 2002, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 2123](https://fedlex.data.admin.ch/eli/fga/2001/493)).
 [^13-9]: Introduit par le ch. I de la LF du 22 mars 2002, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 2123](https://fedlex.data.admin.ch/eli/fga/2001/493)).
-[^13-10]: Introduit par le ch. I de la LF du 22 mars 2002, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 2123](https://fedlex.data.admin.ch/eli/fga/2001/493)).
 
 #### Art. 14
 
@@ -379,7 +379,7 @@ Sont libérées des conditions relatives à la période de cotisation les person
 
 <sup>2</sup> Sont également libérées des conditions relatives à la période de cotisation les personnes qui, par suite de séparation de corps ou de divorce, d’invalidité (art. 8 LPGA) ou de mort de leur conjoint ou pour des raisons semblables ou pour cause de suppression de leur rente d’invalidité, sont contraintes d’exercer une activité salariée ou de l’étendre.[^14-4] Cette disposition n’est applicable que si l’événement en question ne remonte pas à plus d’une année et si la personne concernée était domiciliée en Suisse au moment où il s’est produit.[^14-5]
 
-<sup>3</sup> Les Suisses de retour au pays après un séjour de plus d’un an dans un pays non membre de la Communauté européenne ou de l’Association européenne de libre-échange (AELE) sont libérés des conditions relatives à la période de cotisation durant une année, à condition qu’ils justifient de l’exercice d’une activité salariée à l’étranger et qu’ils aient exercé pendant au moins six mois une activité salariée soumise à cotisation en Suisse.[^14-6] Il en va de même des ressortissants des États membres de la Communauté européenne ou de l’AELE dont l’autorisation d’établissement n’est pas échue. Le Conseil fédéral détermine en outre à quelles conditions les étrangers non-ressortis-sants d’un État membre de la Communauté européenne ou de l’AELE dont l’autorisation d’établissement n’est pas échue sont libérés des conditions relatives à la période de cotisation après un séjour à l’étranger de plus d’un an.[^14-7]
+<sup>3</sup> Les Suisses de retour au pays après un séjour de plus d’un an dans un pays non membre de la Communauté européenne ou de l’Association européenne de libre-échange (AELE) sont libérés des conditions relatives à la période de cotisation durant une année, à condition qu’ils justifient de l’exercice d’une activité salariée à l’étranger et qu’ils aient exercé pendant au moins six mois une activité salariée soumise à cotisation en Suisse.[^14-6] Il en va de même des ressortissants des États membres de la Communauté européenne ou de l’AELE dont l’autorisation d’établissement n’est pas échue. Le Conseil fédéral détermine en outre à quelles conditions les étrangers non-ressortissants d’un État membre de la Communauté européenne ou de l’AELE dont l’autorisation d’établissement n’est pas échue sont libérés des conditions relatives à la période de cotisation après un séjour à l’étranger de plus d’un an.[^14-7]
 
 <sup>4</sup> …[^14-8]
 
@@ -520,11 +520,12 @@ Le Conseil fédéral fixe le mode de détermination du droit à l’indemnité d
 
 **Prestations de vieillesse**[^18c-1]
 
-<sup>1</sup> Les prestations de vieillesse de la prévoyance professionnelle sont déduites de l’indemnité de chômage.
+<sup>1</sup> Les prestations de vieillesse de l’AVS et de la prévoyance professionnelle sont déduites de l’indemnité de chômage.[^18c-2]
 
 <sup>2</sup> L’al. 1 s’applique également à l’assuré qui touche des prestations de vieillesse d’une assurance vieillesse étrangère obligatoire ou volontaire, qu’il s’agisse de prestations ordinaires ou de prestations de préretraite.
 
 [^18c-1]: Introduit par le ch. I de la LF du 22 mars 2002, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 2123](https://fedlex.data.admin.ch/eli/fga/2001/493)).
+[^18c-2]: Nouvelle teneur selon l’annexe ch. 9 de la LF du 17 déc. 2021 (AVS 21), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5979](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 
 #### Art. 19
 
@@ -598,7 +599,7 @@ Une indemnité journalière s’élevant à 70 % du gain assuré est octroyée a
 [^22a-1]: Introduit par le ch. I de la LF du 23 juin 1995, en vigueur depuis le 1<sup>er</sup> janv. 1996, à l’exception de l’al. 3 qui entre en vigueur le 1<sup>er</sup> juil. 1997 ([RO 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273), [1997 60](https://fedlex.data.admin.ch/eli/oc/1997/60_60_60)ch. II 1; [FF 1994 I 340](https://fedlex.data.admin.ch/eli/fga/1994/1_340_340_)).
 [^22a-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 [^22a-3]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2002, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 2123](https://fedlex.data.admin.ch/eli/fga/2001/493)).
-[^22a-4]: Nouvelle teneur selon l’annexe ch. 7 de la LF du 17 juin 2011 (Amélioration de la mise en oeuvre), en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 519](https://fedlex.data.admin.ch/eli/fga/2011/61)).
+[^22a-4]: Nouvelle teneur selon l’annexe ch. 7 de la LF du 17 juin 2011 (Amélioration de la mise en œuvre), en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 519](https://fedlex.data.admin.ch/eli/fga/2011/61)).
 [^22a-5]: Rectifié par la CdR de l’Ass. féd. (art. 33 LREC; [RO 1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)).
 [^22a-6]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2002, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 2123](https://fedlex.data.admin.ch/eli/fga/2001/493)).
 
@@ -685,20 +686,22 @@ L’assuré a droit à:
   - 1\. être âgé de 55 ans ou plus,
   - 2\. toucher une rente d’invalidité correspondant à un taux d’invalidité d’au moins 40 %.[^27-3]
 
-<sup>3</sup> Pour les assurés qui sont devenus chômeurs au cours des quatre ans qui précèdent l’âge donnant droit à une rente AVS et dont le placement est impossible ou très difficile, de manière générale ou pour des motifs inhérents au marché du travail, le Conseil fédéral peut augmenter le nombre des indemnités journalières de 120 au maximum et prolonger le délai-cadre de deux ans au maximum.
+<sup>3</sup> Pour les assurés qui sont devenus chômeurs au cours des quatre ans précédant l’âge de référence fixé à l’art. 21, al. 2, LAVS[^27-4] et dont le placement est impossible ou très difficile, de manière générale ou pour des motifs inhérents au marché du travail, le Conseil fédéral peut augmenter le nombre des indemnités journalières de 120 au maximum et prolonger le délai-cadre de deux ans au maximum.[^27-5]
 
-<sup>4</sup> Les personnes libérées des conditions relatives à la période de cotisation ont droit à 90 indemnités journalières au plus.[^27-4]
+<sup>4</sup> Les personnes libérées des conditions relatives à la période de cotisation ont droit à 90 indemnités journalières au plus.[^27-6]
 
-<sup>5</sup> Les personnes qui, en vertu de l’art. 14, al. 2, sont contraintes d’exercer une activité salariée ou d’étendre une activité salariée en raison de la suppression de leur rente d’invalidité ont droit à 180 indemnités journalières au plus.[^27-5]
+<sup>5</sup> Les personnes qui, en vertu de l’art. 14, al. 2, sont contraintes d’exercer une activité salariée ou d’étendre une activité salariée en raison de la suppression de leur rente d’invalidité ont droit à 180 indemnités journalières au plus.[^27-7]
 
-<sup>5bis</sup> Les personnes âgées de moins de 25 ans qui n’ont pas d’obligation d’entretien envers des enfants ont droit à 200 indemnités journalières au plus.[^27-6]
+<sup>5bis</sup> Les personnes âgées de moins de 25 ans qui n’ont pas d’obligation d’entretien envers des enfants ont droit à 200 indemnités journalières au plus.[^27-8]
 
 [^27-1]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2002, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 2123](https://fedlex.data.admin.ch/eli/fga/2001/493)).
 [^27-2]: Nouvelle teneur selon le ch. I de la LF du 30 sept. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2012 495](https://fedlex.data.admin.ch/eli/oc/2012/73); [FF 2011 6695](https://fedlex.data.admin.ch/eli/fga/2011/1177)[6703](https://fedlex.data.admin.ch/eli/fga/2011/1179)).
 [^27-3]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 7029](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
-[^27-4]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 7029](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
-[^27-5]: Nouvelle teneur selon l’annexe ch. 7 de la LF du 19 juin 2020 (Développement continu de l’AI), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [FF 2017 2363](https://fedlex.data.admin.ch/eli/fga/2017/544)).
-[^27-6]: Introduit par le ch. I de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 7029](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
+[^27-4]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^27-5]: Nouvelle teneur selon l’annexe ch. 9 de la LF du 17 déc. 2021 (AVS 21), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5979](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^27-6]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 7029](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
+[^27-7]: Nouvelle teneur selon l’annexe ch. 7 de la LF du 19 juin 2020 (Développement continu de l’AI), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [FF 2017 2363](https://fedlex.data.admin.ch/eli/fga/2017/544)).
+[^27-8]: Introduit par le ch. I de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 7029](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
 
 #### Art. 28
 
@@ -843,8 +846,12 @@ La perte de travail est prise en considération lorsque:
 
 <sup>5</sup> Est réputé période de décompte, un laps de temps d’un mois ou de quatre semaines consécutives.
 
+<sup>6</sup> L’autorité cantonale autorise les formateurs au sens de l’art. 45 de la loi fédérale du 13 décembre 2002 sur la formation professionnelle (LFPr)[^32-3] à poursuivre la formation des apprentis en entreprise pendant les heures qui comptent comme perte de travail à prendre en considération lorsque la formation des apprentis ne peut pas être assurée d’une autre manière.[^32-4]
+
 [^32-1]: Nouvelle teneur selon le ch. I de la LF du 23 juin 1995, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273); [FF 1994 I 340](https://fedlex.data.admin.ch/eli/fga/1994/1_340_340_)).
 [^32-2]: Nouvelle teneur selon le ch. I de la LF du 5 oct. 1990, en vigueur depuis le 1<sup>er</sup> janv. 1992 ([RO 1991 2125](https://fedlex.data.admin.ch/eli/oc/1991/2125_2125_2125); [FF 1989 III 369](https://fedlex.data.admin.ch/eli/fga/1989/3_377_369_325)).
+[^32-3]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
+[^32-4]: Introduit par le ch. I de la LF du 29 sept. 2023 (Indemnité en cas de réduction de l’horaire de travail pour les formateurs), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2024 38](https://fedlex.data.admin.ch/eli/oc/2024/38); [FF 2023 577](https://fedlex.data.admin.ch/eli/fga/2023/577)).
 
 #### Art. 33
 
@@ -933,10 +940,12 @@ L’employeur est tenu:
 
 - a. d’avancer l’indemnité et de la verser aux travailleurs le jour de paie habituel;
 - b.[^37-1] de prendre l’indemnité à sa charge durant le délai d’attente (art. 32, al. 2);
-- c.[^37-2] de continuer à payer intégralement les cotisations aux assurances sociales prévues par les dispositions légales et contractuelles comme si la durée de travail était normale; il est autorisé à déduire du salaire des travailleurs l’intégralité de la part des cotisations qui est à leur charge, sauf convention contraire.
+- c.[^37-2] de continuer à payer intégralement les cotisations aux assurances sociales prévues par les dispositions légales et contractuelles comme si la durée de travail était normale; il est autorisé à déduire du salaire des travailleurs l’intégralité de la part des cotisations qui est à leur charge, sauf convention contraire;
+- d.[^37-3] de verser aux formateurs visés à l’art. 32, al. 6, la différence entre l’indemnité et le salaire contractuel pour les heures qui comptent comme perte de travail à prendre en considération et qui sont consacrées à la formation des apprentis.
 
 [^37-1]: Nouvelle teneur selon le ch. I de la LF du 5 oct. 1990, en vigueur depuis le 1<sup>er</sup> janv. 1992 ([RO 1991 2125](https://fedlex.data.admin.ch/eli/oc/1991/2125_2125_2125); [FF 1989 III 369](https://fedlex.data.admin.ch/eli/fga/1989/3_377_369_325)).
 [^37-2]: Nouvelle teneur selon le ch. I de la LF du 5 oct. 1990, en vigueur depuis le 1<sup>er</sup> janv. 1992 ([RO 1991 2125](https://fedlex.data.admin.ch/eli/oc/1991/2125_2125_2125); [FF 1989 III 369](https://fedlex.data.admin.ch/eli/fga/1989/3_377_369_325)).
+[^37-3]: Introduite par le ch. I de la LF du 29 sept. 2023 (Indemnité en cas de réduction de l’horaire de travail pour les formateurs), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2024 38](https://fedlex.data.admin.ch/eli/oc/2024/38); [FF 2023 577](https://fedlex.data.admin.ch/eli/fga/2023/577)).
 
 #### Art. 38
 
@@ -946,13 +955,14 @@ L’employeur est tenu:
 
 <sup>2</sup> Dans la période de deux ans prévue à l’art. 35, al. 1, le droit à l’indemnité concernant une entreprise sera exercé auprès de la même caisse. Le Conseil fédéral peut prévoir des dérogations.
 
-<sup>3</sup> La caisse peut, au besoin, exiger d’autres documents.
+<sup>3</sup>
 
 L’employeur remet à la caisse:
 
 - a. les documents nécessaires à la poursuite de l’examen du droit à l’indemnité et au calcul de celle-ci;
 - b. un décompte des indemnités versées à ses travailleurs;
 - c. une attestation certifiant qu’il continue à payer les cotisations des assurances sociales (art. 37, let. c).
+- La caisse peut, au besoin, exiger d’autres documents.
 
 #### Art. 39
 
@@ -1365,19 +1375,20 @@ L’assurance accorde en outre:
 Peuvent demander des prestations de l’assurance-chômage pour la participation à des cours:
 
 - a. s’agissant des prestations visées à l’art. 59*b*, al. 1, les assurés;
-- b.[^60-4] s’agissant des prestations visées à l’art. 59cbis, al. 3, les personnes menacées de chômage imminent.
+- b.[^60-4] s’agissant des prestations visées à l’art. 59*c*<sup>bis</sup>, al. 3, les personnes menacées de chômage imminent.
 
 <sup>3</sup> La personne qui décide de son propre chef de suivre un cours doit présenter à l’autorité compétente, assez tôt avant le début du cours, une demande dûment motivée à laquelle elle joindra les documents nécessaires.
 
 <sup>4</sup> Si la participation à un cours l’exige, la personne concernée n’est pas tenue d’être apte au placement pendant la durée dudit cours.
 
-<sup>5</sup> Les mesures de formation au sens de la présente loi sont choisies et mises en place autant que possible selon les principes de la loi fédérale du 13 décembre 2002 sur la formation professionnelle (LFPr)[^60-5]. Les mesures relatives au marché du travail et les mesures prévues par la LFPr sont coordonnées en vue de promouvoir un marché du travail homogène et transparent.
+<sup>5</sup> Les mesures de formation au sens de la présente loi sont choisies et mises en place autant que possible selon les principes de la LFPr[^60-5].[^60-6] Les mesures relatives au marché du travail et les mesures prévues par la LFPr sont coordonnées en vue de promouvoir un marché du travail homogène et transparent.
 
 [^60-1]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2002, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 2123](https://fedlex.data.admin.ch/eli/fga/2001/493)).
 [^60-2]: Abrogé par le ch. I de la LF du 19 mars 2010, avec effet au 1<sup>er</sup> avr. 2011 ([RO 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 7029](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
 [^60-3]: Nouvelle teneur selon l’annexe ch. 40 de la LF du 20 juin 2014 sur la formation continue, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132);[FF 2013 3265](https://fedlex.data.admin.ch/eli/fga/2013/823)).
 [^60-4]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 7029](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
 [^60-5]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
+[^60-6]: Nouvelle teneur selon le ch. I de la LF du 29 sept. 2023 (Indemnité en cas de réduction de l’horaire de travail pour les formateurs), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2024 38](https://fedlex.data.admin.ch/eli/oc/2024/38); [FF 2023 577](https://fedlex.data.admin.ch/eli/fga/2023/577)).
 
 #### Art. 61 et 62
 
@@ -1743,7 +1754,7 @@ Sont chargés de l’application du régime de l’assurance:
 
 <sup>3</sup> …[^77-1]
 
-<sup>4</sup> Plusieurs cantons peuvent, avec l’assentiment du Secrétariat d’État à l'économie (SECO)[^77-2], gérer une caisse publique commune à leurs territoires.
+<sup>4</sup> Plusieurs cantons peuvent, avec l’assentiment du Secrétariat d’État à l’économie (SECO)[^77-2], gérer une caisse publique commune à leurs territoires.
 
 [^77-1]: Abrogé par le ch. I de la LF du 22 mars 2002, avec effet au 1<sup>er</sup> juil. 2003 ([RO 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 2123](https://fedlex.data.admin.ch/eli/fga/2001/493)).
 [^77-2]: La désignation de l’unité administrative a été adaptée en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Il a été tenu compte de cette mod. dans tout le texte.
@@ -1861,7 +1872,7 @@ L’organe de compensation:
 - a. comptabilise les cotisations versées au fonds de compensation de l’assurance-chômage;
 - b. tient les comptes du fonds de compensation;
 - c.[^83-1] contrôle périodiquement la gestion des caisses et des autorités cantonales; il peut confier le contrôle des caisses, en tout ou partie, aux cantons ou à des tiers;
-- [tab] c<sup>bis</sup>.[^83-2] contrôle l’exécution des tâches confiées aux caisses et aux autorités cantonales;
+- c<sup>bis</sup>.[^83-2] contrôle l’exécution des tâches confiées aux caisses et aux autorités cantonales;
 - d. révise les paiements des caisses ou confie cette tâche, en tout ou partie, aux cantons ou à un autre organe;
 - e.[^83-3] donne des instructions aux fondateurs des caisses et aux autorités cantonales;
 - f.[^83-4] statue sur les demandes en réparation de la Confédération dirigées contre le fondateur, le canton, l’employeur ou la caisse de compensation AVS (art. 82, 85*d*, 88 et 89*a*);
@@ -1870,9 +1881,9 @@ L’organe de compensation:
 - i.[^83-6] …
 - k.[^83-7] prend les décisions visées à l’art. 59*c*, al. 3, et verse les subventions prévues aux art. 62 et 64*b*;
 - l. surveille les décisions des autorités cantonales;
-- [tab] m.[^83-8] décide de la prise en compte des frais d’administration des caisses, des autorités cantonales, des offices régionaux de placement et des services de logistique des mesures relatives au marché du travail;
+- m.[^83-8] décide de la prise en compte des frais d’administration des caisses, des autorités cantonales, des offices régionaux de placement et des services de logistique des mesures relatives au marché du travail;
 - n. assure la coordination avec les autres assurances sociales;
-- [tab] n<sup>bis</sup>.[^83-9] assure avec les cantons la coordination au sein du réseau EURES (European Employment Services) en vertu de l’art. 11 de l’annexe I de l’Accord du 21 juin 1999 entre la Confédération suisse, d’une part, et la Communauté européenne et ses États membres, d’autre part, sur la libre circulation des personnes[^83-10] (accord sur la libre circulation des personnes);
+- n<sup>bis</sup>.[^83-9] assure avec les cantons la coordination au sein du réseau EURES (European Employment Services) en vertu de l’art. 11 de l’annexe I de l’Accord du 21 juin 1999 entre la Confédération suisse, d’une part, et la Communauté européenne et ses États membres, d’autre part, sur la libre circulation des personnes[^83-10] (accord sur la libre circulation des personnes);
 - o.[^83-11] …
 - p.[^83-12] coordonne l’exécution des mesures relatives au marché du travail et peut en préparer la conception;
 - q.[^83-13] prend des mesures pour appliquer l’art. 59*a*;
@@ -2466,7 +2477,7 @@ Dans la mesure où aucun intérêt privé prépondérant ne s’y oppose, les or
 - a. à d’autres organes chargés d’appliquer la présente loi ou d’en contrôler ou surveiller l’exécution, lorsqu’elles sont nécessaires à l’accomplissement des tâches que leur assigne la présente loi;
 - a<sup>bis</sup>.[^97a-3] aux organes d’exécution des lois cantonales relatives à l’aide aux chômeurs;
 - b. aux organes d’une autre assurance sociale, lorsque, en dérogation à l’art. 32, al. 2, LPGA, l’obligation de les communiquer résulte d’une loi fédérale;
-- [tab] b<sup>bis</sup>.[^97a-4]à des organes d’une autre assurance sociale, en vue d’attribuer ou de vérifier le numéro AVS;
+- b<sup>bis</sup>.[^97a-4] à des organes d’une autre assurance sociale, en vue d’attribuer ou de vérifier le numéro AVS;
 - b<sup>ter</sup>.[^97a-5] aux autorités compétentes en matière d’étrangers, conformément à l’art. 97, al. 3, de la loi fédérale du 16 décembre 2005 sur les étrangers et l’intégration (LEI)[^97a-6];
 - c. aux autorités compétentes en matière d’impôt à la source, conformément aux art. 88 et 100 de la loi fédérale du 14 décembre 1990 sur l’impôt fédéral direct[^97a-7] et aux dispositions cantonales correspondantes;
 - c<sup>bis</sup>.[^97a-8] aux autorités fiscales cantonales, si la loi cantonale prévoit l’envoi de l’attestation des prestations directement à ces dernières;
@@ -2816,7 +2827,7 @@ Parmi les caisses existantes au moment de l’entrée en vigueur de la présente
 
 <sup>2</sup> Si l’état des dettes du fonds de compensation atteint à la fin 2006 ou à la fin 2007 le 2,5 % de la somme des salaires soumis à cotisations, la réduction de la participation de la Confédération ne sera pas poursuivie.
 
-[^120a-1]: Introduit par le ch. I 5 de la LF du 17 juin 2005 sur le programme d’allégement budgétaire 2004, en vigueur depuis le 1<sup>er</sup> janv. 2006 ([RO 2005 5427](https://fedlex.data.admin.ch/eli/oc/2005/740);[FF 2005 693](https://fedlex.data.admin.ch/eli/fga/2005/108)).
+[^120a-1]: Introduit par le ch. I 5 de la LF du 17 juin 2005 sur le programme d’allégement budgétaire 2004, en vigueur depuis le 1<sup>er</sup> janv. 2006 ([RO 2005 5427](https://fedlex.data.admin.ch/eli/oc/2005/740); [FF 2005 693](https://fedlex.data.admin.ch/eli/fga/2005/108)).
 
 ### Chapitre 4 Relation avec le droit européen
 
