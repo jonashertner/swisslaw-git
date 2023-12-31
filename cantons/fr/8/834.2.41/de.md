@@ -3,13 +3,13 @@ canton: FR
 number: "834.2.41"
 title: Verordnung über die Liste der Pflegeheime des Kantons Freiburg
 language: de
-version: 2023-01-01
-valid_until: 2023-12-31
-version_adopted: 2023-09-12
+version: 2024-01-01
+valid_until: 2024-12-31
+version_adopted: 2024-05-14
 adopted: 2018-01-30
 in_force: 2018-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/834.2.41"
-pdf: "https://bdlf.fr.ch/api/de/versions/7823/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8011/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/7823/pdf_file"
 
 Liste der Pflegeheime – V
 
-vom 30.01.2018 (Fassung in Kraft getreten am 01.01.2023)
+vom 30.01.2018 (Fassung in Kraft getreten am 01.01.2024)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -44,7 +44,7 @@ beschliesst:
 
 - a) Anerkannte Pflegeheimbetten für Langzeitaufenthalte
   - 1\. Home médicalisé de la Sarine, 1752 Villars-sur-Glâne: — 142 Betten
-  - 2\. EMS La Providence, 1700 Freiburg: — 92 Betten
+  - 2\. EMS La Providence, 1700 Freiburg: — 111 Betten
   - 3\. Résidence des Chênes, 1700 Freiburg: — 83 Betten
   - 4\. Les Bonnesfontaines, Résidence bourgeoisiale, 1700 Freiburg: — 87 Betten
   - 5\. …
@@ -105,18 +105,21 @@ beschliesst:
   - 5\. Foyer Saint-Joseph, 1634 La Roche: — 47 Betten
   - 6\. Home de la Vallée de l'Intyamon, 1666 Villars- sous-Mont: — 44 Betten
   - 7\. EMS de la Sionge, 1628 Vuadens: — 71 Betten
-  - 8\. Foyer Saint-Germain, 1663 Gruyères: — 31 Betten
+  - 8\. Foyer Saint-Germain, 1663 Gruyères: — 28 Betten
   - 9\. …
-  - 10\. Foyer Saint-Joseph, 1642 Sorens: — 35 Betten
+  - 10\. Foyer Saint-Joseph, 1642 Sorens: — 37 Betten
 - b) OKP-Pflegeheimbetten für Langzeitaufenthalte
   - 1\. Foyer Saint-Germain, 1663 Gruyères: — 5 Betten
-  - 2\. Foyer Saint-Joseph, 1642 Sorens: — 5 Betten
+  - 2\. …
   - 3\. Foyer Saint-Joseph, 1638 Morlon: — 26 Betten
 - c) Anerkannte Pflegeheimbetten für Kurzaufenthalte
   - 1\. Home Vallée de la Jogne, 1637 Charmey: — 2 Betten
   - 2\. EMS de la Sionge, 1628 Vuadens: — 3 Betten
+  - 3\. Foyer Saint-Germain, 1663 Gruyères: — 3 Betten
+  - 4\. Foyer Saint-Joseph, 1642 Sorens: — 3 Betten
 - d) Betreuungsplätze im Tagesheim
   - 1\. Home Vallée de la Jogne, 1637 Charmey: — 8 Plätze
+  - 2\. Foyers de la Ville de Bulle, 1630 Bulle: — 8 Plätze
 
 #### Art. 4
 
@@ -149,7 +152,7 @@ beschliesst:
 <sup>1</sup> Liste der Pflegeheime des Glanebezirks:
 
 - a) Anerkannte Pflegeheimbetten für Langzeitaufenthalte
-  - 1\. Réseau Santé Glâne, 1681 Billens: — 223 Betten
+  - 1\. Réseau Santé Glâne, 1681 Billens: — 228 Betten
 - b) OKP-Pflegeheimbetten für Langzeitaufenthalte: — Kein Bett
   - 1\. …
 - c) Anerkannte Pflegeheimbetten für Kurzaufenthalte
@@ -162,14 +165,14 @@ beschliesst:
 
 <sup>1</sup> Liste der Pflegeheime des Broyebezirks:
 
-- a) Anerkannte Pflegeheimbetten für Langzeitaufenthalte:
+- a) Anerkannte Pflegeheimbetten für Langzeitaufenthalte
   - 1\. EMS Les Grèves du Lac, 1544 Gletterens: — 37 Betten
-  - 2\. Homes médicalisés de la Broye, 1470 Estavayer-le-Lac: — 173 Betten
-- b) OKP-Pflegeheimbetten für Langzeitaufenthalte:
+  - 2\. Homes médicalisés de la Broye, 1470 Estavayer-le-Lac: — 182 Betten
+- b) OKP-Pflegeheimbetten für Langzeitaufenthalte
   - 1\. EMS Les Grèves du Lac, 1544 Gletterens: — 3 Betten
-  - 2\. Homes médicalisés de la Broye, 1470 Estavayer-le-Lac: — 4 Betten
+  - 2\. …
 - c) Anerkannte Pflegeheimbetten für Kurzaufenthalte
-  - 1\. Homes médicalisés de la Broye, 1470 Estavayer-le-Lac: — 11 Betten
+  - 1\. Homes médicalisés de la Broye, 1470 Estavayer-le-Lac: — 6 Betten
 - d) Betreuungsplätze im Tagesheim
   - 1\. Homes médicalisés de la Broye, 1470 Estavayer-le-Lac: — 7 Plätze
 
@@ -200,15 +203,16 @@ beschliesst:
   - 2\. …
   - 3\. EMS Les Grèves du Lac, 1544 Gletterens: — 10 Betten
 - b) OKP-Pflegeheimbetten für Langzeitaufenthalte
-  - 1\. Institution de santé pour religieux de Fribourg, 1700 Freiburg: — 58 Betten
+  - 1\. Institution de santé pour religieux de Fribourg, 1700 Freiburg: — 56 Betten
   - 2\. …
   - 3\. …
 - c) Anerkannte Pflegeheimbetten für Kurzaufenthalte
   - 1\. La Famille au Jardin, 1717 St. Ursen: — 2 Betten
-  - 2\. EMS La Providence, 1700 Freiburg: — 19 Betten
+  - 2\. …
   - 3\. Pflegeheimabteilung HFR, Palliativhospiz, 1752 Villars-sur-Glâne: — 6 Betten
   - 4\. Pflegeheimabteilung HFR, 1752 Villars-sur-Glâne: — 17 Betten
   - 5\. Pflegeheimabteilung HIB, 1470 Estavayer-le-Lac: — 5 Betten
+  - 6\. Réseau Santé Glâne, 1681 Billens: — 12 Betten
 - d) Betreuungsplätze im Tagesheim
   - 1\. La Famille au Jardin, 1717 St. Ursen: — 14 Plätze
 

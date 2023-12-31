@@ -3,13 +3,13 @@ canton: FR
 number: "834.2.41"
 title: Ordonnance fixant la liste des établissements médico-sociaux du canton de Fribourg
 language: fr
-version: 2023-01-01
-valid_until: 2023-12-31
-version_adopted: 2023-09-12
+version: 2024-01-01
+valid_until: 2024-12-31
+version_adopted: 2024-05-14
 adopted: 2018-01-30
 in_force: 2018-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/834.2.41"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7823/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8011/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/7823/pdf_file"
 
 Liste des établissements médico-sociaux – O
 
-du 30.01.2018 (version entrée en vigueur le 01.01.2023)
+du 30.01.2018 (version entrée en vigueur le 01.01.2024)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -44,7 +44,7 @@ Arrête:
 
 - a) Lits EMS long séjour reconnus
   - 1\. Home médicalisé de la Sarine, 1752 Villars-sur-Glâne: — 142 lits
-  - 2\. EMS La Providence, 1700 Fribourg: — 92 lits
+  - 2\. EMS La Providence, 1700 Fribourg: — 111 lits
   - 3\. Résidence des Chênes, 1700 Fribourg: — 83 lits
   - 4\. Les Bonnesfontaines, Résidence bourgeoisiale, 1700 Fribourg: — 87 lits
   - 5\. …
@@ -105,18 +105,21 @@ Arrête:
   - 5\. Foyer Saint-Joseph, 1634 La Roche: — 47 lits
   - 6\. Home de la Vallée de l'Intyamon, 1666 Villars- sous-Mont: — 44 lits
   - 7\. EMS de la Sionge, 1628 Vuadens: — 71 lits
-  - 8\. Foyer Saint-Germain, 1663 Gruyères: — 31 lits
+  - 8\. Foyer Saint-Germain, 1663 Gruyères: — 28 lits
   - 9\. …
-  - 10\. Foyer Saint-Joseph, 1642 Sorens: — 35 lits
+  - 10\. Foyer Saint-Joseph, 1642 Sorens: — 37 lits
 - b) Lits EMS long séjour AOS
   - 1\. Foyer Saint-Germain, 1663 Gruyères: — 5 lits
-  - 2\. Foyer Saint-Joseph, 1642 Sorens: — 5 lits
+  - 2\. …
   - 3\. Foyer Saint-Joseph, 1638 Morlon: — 26 lits
 - c) Lits EMS court séjour reconnus
   - 1\. Home Vallée de la Jogne, 1637 Charmey: — 2 lits
   - 2\. EMS de la Sionge, 1628 Vuadens: — 3 lits
+  - 3\. Foyer Saint-Germain, 1663 Gruyères: — 3 lits
+  - 4\. Foyer Saint-Joseph, 1642 Sorens: — 3 lits
 - d) Places en foyer de jour
   - 1\. Home Vallée de la Jogne, 1637 Charmey: — 8 places
+  - 2\. Foyers de la Ville de Bulle, 1630 Bulle: — 8 places
 
 #### Art. 4
 
@@ -149,7 +152,7 @@ Arrête:
 <sup>1</sup> La liste des établissements médico-sociaux du district de la Glâne est la suivante:
 
 - a) Lits EMS long séjour reconnus
-  - 1\. Réseau Santé Glâne, 1681 Billens: — 223 lits
+  - 1\. Réseau Santé Glâne, 1681 Billens: — 228 lits
 - b) Lits EMS long séjour AOS: — Aucun lit
   - 1\. …
 - c) Lits EMS court séjour reconnus
@@ -164,12 +167,12 @@ Arrête:
 
 - a) Lits EMS long séjour reconnus
   - 1\. EMS Les Grèves du Lac, 1544 Gletterens: — 37 lits
-  - 2\. Homes médicalisés de la Broye, 1470 Estavayer-le-Lac: — 173 lits
+  - 2\. Homes médicalisés de la Broye, 1470 Estavayer-le-Lac: — 182 lits
 - b) Lits EMS long séjour AOS
   - 1\. EMS Les Grèves du Lac, 1544 Gletterens: — 3 lits
-  - 2\. Homes médicalisés de la Broye, 1470 Estavayer-le-Lac: — 4 lits
+  - 2\. …
 - c) Lits EMS court séjour reconnus
-  - 1\. Homes médicalisés de la Broye, 1470 Estavayer-le-Lac: — 11 lits
+  - 1\. Homes médicalisés de la Broye, 1470 Estavayer-le-Lac: — 6 lits
 - d) Places en foyer de jour
   - 1\. Homes médicalisés de la Broye, 1470 Estavayer-le-Lac: — 7 places
 
@@ -200,15 +203,16 @@ Arrête:
   - 2\. …
   - 3\. EMS Les Grèves du Lac, 1544 Gletterens: — 10 lits
 - b) Lits EMS long séjour AOS
-  - 1\. Institution de santé pour religieux de Fribourg, 1700 Fribourg: — 58 lits
+  - 1\. Institution de santé pour religieux de Fribourg, 1700 Fribourg: — 56 lits
   - 2\. …
   - 3\. …
 - c) Lits EMS court séjour reconnus
   - 1\. La Famille au Jardin, 1717 St. Ursen: — 2 lits
-  - 2\. EMS La Providence, 1700 Fribourg: — 19 lits
+  - 2\. …
   - 3\. Lits EMS HFR, Résidence palliative, 1752 Villars-sur-Glâne: — 6 lits
   - 4\. Lits EMS HFR, 1752 Villars-sur-Glâne: — 17 lits
   - 5\. Lits EMS HIB, 1470 Estavayer-le-Lac: — 5 lits
+  - 6\. Réseau Santé Glâne, 1681 Billens: — 12 lits
 - d) Places en foyer de jour
   - 1\. La Famille au Jardin, 1717 St. Ursen: — 14 places
 
