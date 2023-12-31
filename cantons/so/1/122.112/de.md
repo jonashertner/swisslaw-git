@@ -4,13 +4,13 @@ number: "122.112"
 title: Verordnung über die Organisation des Regierungsrates und der Verwaltung
 short: RVOV
 language: de
-version: 2023-08-01
-valid_until: 2023-12-31
-version_adopted: 2023-07-04
+version: 2024-01-01
+valid_until: 2025-07-31
+version_adopted: 2023-09-26
 adopted: 2000-04-11
 in_force: 2000-08-01
 url: "https://bgs.so.ch/app/de/texts_of_law/122.112"
-pdf: "https://bgs.so.ch/api/de/versions/5403/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5444/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.so.ch/api/de/versions/5403/pdf_file"
 
 (RVOV)
 
-Vom 11.04.2000 (Stand 01.08.2023)
+Vom 11.04.2000 (Stand 01.01.2024)
 
 Der Regierungsrat des Kantons Solothurn
 
@@ -149,6 +149,8 @@ beschliesst:
 **Oberämter**
 
 <sup>1</sup> Der Kanton führt die Oberämter Region Solothurn, Thal-Gäu, Olten-Gösgen und Dorneck-Thierstein.
+
+<sup>2</sup> Die Vorsteher und Vorsteherinnen regeln die Organisation der Oberämter nach Rücksprache mit der vorgesetzten Stelle gemeinsam in einer Verwaltungsverordnung. Sie legen insbesondere die fachliche Weisungsbefugnis fest.
 
 #### § 16
 
