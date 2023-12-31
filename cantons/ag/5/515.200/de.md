@@ -4,13 +4,13 @@ number: "515.200"
 title: Gesetz über den Bevölkerungsschutz und den Zivilschutz im Kanton Aargau
 short: "Bevölkerungsschutz- und Zivilschutzgesetz Aargau, BZG-AG"
 language: de
-version: 2017-01-01
-valid_until: 2023-12-31
-version_adopted: 2016-05-10
+version: 2024-01-01
+valid_until: 2024-06-30
+version_adopted: 2023-06-27
 adopted: 2006-07-04
 in_force: 2007-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/515.200"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2290/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3354/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,11 +19,11 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2290/pdf_file"
 
 (Bevölkerungsschutz- und Zivilschutzgesetz Aargau, BZG-AG)
 
-Vom 04.07.2006 (Stand 01.01.2017)
+Vom 04.07.2006 (Stand 01.01.2024)
 
 Der Grosse Rat des Kantons Aargau,
 
-gestützt auf die §§ 27, 36 Abs. 2 und 78 Abs. 1 der Kantonsverfassung, Art. 75 Abs. 3 des Bundesgesetzes über den Bevölkerungsschutz und den Zivilschutz (Bevölkerungs- und Zivilschutzgesetz, BZG) vom 4. Oktober 2002[^ingress-1], Art. 4 Abs. 1 und 2 des Bundesgesetzes über den Schutz der Kulturgüter bei bewaffneten Konflikten vom 6. Oktober 1966[^ingress-2] sowie Art. 54 Abs. 1 und 2 des Bundesgesetzes über die wirtschaftliche Landesversorgung (Landesversorgungsgesetz, LVG) vom 8. Oktober 1982[^ingress-3],
+gestützt auf die §§ 27, 36 Abs. 2 und 78 Abs. 1 der Kantonsverfassung, Art. 96 des Bundesgesetzes über den Bevölkerungsschutz und den Zivilschutz (Bevölkerungs- und Zivilschutzgesetz, BZG) vom 20. Dezember 2019[^ingress-1], Art. 5 des Bundesgesetzes über den Schutz der Kulturgüter bei bewaffneten Konflikten, bei Katastrophen und in Notlagen vom 20. Juni 2014[^ingress-2] sowie Art. 59 Abs. 1 des Bundesgesetzes über die wirtschaftliche Landesversorgung (Landesversorgungsgesetz, LVG) vom 17. Juni 2016[^ingress-3],
 
 beschliesst:
 
@@ -49,9 +49,9 @@ beschliesst:
 
 <sup>2</sup> Notlagen sind Situationen, die aus einer gesellschaftlichen Entwicklung oder einem technischen Ereignis entstehen und mit den ordentlichen Abläufen nicht wirkungsvoll bewältigt werden können, weil sie die personellen und materiellen Mittel der betroffenen Gemeinschaft überfordern.
 
-<sup>3</sup> Schwere Mangellagen sind Mengenprobleme an lebenswichtigen Gütern und Dienstleistungen, die über eine bestimmte Zeit hinaus landesweit eine normale Versorgung nicht mehr zulassen.
+<sup>3</sup> Schwere Mangellagen sind erhebliche Gefährdungen der wirtschaftlichen Landesversorgung mit unmittelbar drohenden, grossen volkswirtschaftlichen Schäden oder erhebliche Störungen der wirtschaftlichen Landesversorgung.
 
-<sup>4</sup> Der bewaffnete Konflikt ist ein Ereignis, das die Bevölkerung, deren Lebensgrundlagen und Kulturgüter durch Waffen- und Gewalteinwirkung aufgrund militärischer Einsätze gefährdet und die Existenz in Frage stellt.
+<sup>4</sup> …
 
 <sup>5</sup> Grossereignisse sind Ereignisse, zu deren Bewältigung zusätzliche Kräfte erforderlich sind, die über die alltäglichen Ressourcen hinausgehen. Grossereignisse erfordern eine Unterstützung und ein Zusammenwirken mehrerer Partnerorganisationen des Bevölkerungsschutzes, bleiben jedoch überschaubar.
 
@@ -67,9 +67,11 @@ beschliesst:
 
 <sup>2</sup> Er hat insbesondere folgende Aufgaben:
 
-- a) Bezeichnung der Bevölkerungsschutzregionen nach Anhörung der Gemeinden,
+- a) Bezeichnung der Bevölkerungsschutzregionen nach Konsultation der Gemeinden,
 - b) Bezeichnung der kantonalen Koordinationsstelle für den Bevölkerungsschutz und deren Aufgaben,
-- c) Sicherstellung der Regierungs- und Verwaltungstätigkeit in ausserordentlichen Lagen,
+- b<sup>bis</sup>) Bezeichnung der für den Zivilschutz zuständigen kantonalen Stelle und deren Aufgaben,
+- c) Sicherstellung der Regierungs- und Verwaltungstätigkeit bei der Bewältigung von Grossereignissen, Katastrophen, Notlagen, schweren Mangellagen und bewaffneten Konflikten,
+- c<sup>bis</sup>) Regelung des Schutzes vor atomaren, biologischen und chemischen Gefährdungen (ABC-Schutz) unter Mitwirkung von kantonalen Stellen und Partnerorganisationen, Gemeinden sowie Dritter, insbesondere hinsichtlich der Aufgaben der kantonalen Stellen und Partnerorganisationen, deren Ausrüstung und Ausbildung, sowie der Koordination zwischen den betroffenen kantonalen Stellen, Bundesstellen und Dritten. Er regelt die Mitwirkungspflichten und die Koordination der kantonalen Stellen, Partnerorganisationen, Gemeinden und Dritter zur Sicherstellung des ABC-Schutzes durch Verordnung,
 - d) Regelung der Warnung und Alarmierung,
 - e) Information der Bevölkerung und Behörden über Gefährdungen, Schutzmöglichkeiten und Schutzmassnahmen,
 - e<sup>bis</sup>) Ausrufung und Erklärung der Beendigung einer Katastrophe oder einer Notlage,
@@ -80,7 +82,7 @@ beschliesst:
 - k) Sicherstellung einer umfassenden Gefährdungsanalyse in Zusammenarbeit mit dem Bund und Anordnung der daraus erforderlichen Massnahmen,
 - l) Regelung und Sicherstellung der Aus- und Weiterbildung der Führungsorgane,
 - m) Entscheid über Einsatz und Koordination aller für die Bewältigung von Grossereignissen, Katastrophen, Notlagen, schweren Mangellagen und bewaffneten Konflikten notwendigen kantonalen Dienste und Organisationen sowie der selbständigen Staatsanstalten und der privaten Organisationen,
-- n) Das KKE wird organisatorisch dem zuständigen Departement zugeordnet. Dieses ist für die Wahl der Kommandantin beziehungsweise des Kommandanten zuständig.
+- n) …
 
 <sup>3</sup> Der Regierungsrat kann eine Gemeinde zur Zusammenarbeit innerhalb der gemäss Absatz 2 lit. a bezeichneten Bevölkerungsschutzregion verpflichten.
 
@@ -98,21 +100,23 @@ beschliesst:
 
 <sup>2</sup> Er bezeichnet die Einsatzleitung bei Katastrophen, Notlagen und schweren Mangellagen.
 
+<sup>2<sup>bis</sup></sup> Er informiert im Ereignisfall die Bevölkerung über Gefährdungen, Schutzmöglichkeiten und Schutzmassnahmen.
+
 <sup>3</sup> Er arbeitet mit Fach- und Bundesstellen sowie mit den Organen der Armee zusammen.
 
 <sup>4</sup> Er berät den Regierungsrat in allen weiteren Fragen des Bevölkerungsschutzes.
 
 <sup>5</sup> Er kann den Regionalen Führungsorganen (RFO) Planungsaufträge und Aufträge zur Bewältigung von Grossereignissen, Katastrophen, Notlagen, schweren Mangellagen und bewaffneten Konflikten erteilen.
 
-<sup>6</sup> Gemäss den Vorgaben der für den Zivilschutz zuständigen Stelle werden für die Zivilschutzorganisationen Leistungsaufträge und Leistungsprofile erarbeitet und vereinbart.
+<sup>6</sup> …
 
 #### § 5
 
 **Kantonales Katastrophen Einsatzelement**
 
-<sup>1</sup> Das KKE leistet bei Bedarf oder auf Anordnung des Regierungsrats oder des KFS Hilfe und Unterstützung zu Gunsten betroffener Gemeinden oder Regionen sowie im Rahmen ausserkantonaler Hilfe.
+<sup>1</sup> Das KKE leistet bei Bedarf oder auf Anordnung des Regierungsrats oder des KFS Hilfe und Unterstützung inner- und ausserhalb des Kantons.
 
-<sup>2</sup> Es hat den Status einer kantonalen Zivilschutzorganisation.
+<sup>2</sup> Es hat den Status einer kantonalen Zivilschutzorganisation und wird organisatorisch dem zuständigen Departement zugeordnet. Dieses ist für die Wahl der Kommandantin beziehungsweise des Kommandanten zuständig.
 
 <sup>3</sup> Die Aufwendungen für den Betrieb und den Unterhalt des KKE gehen zu Lasten des Kantons. Die Kosten der auf Gesuch Dritter geleisteten Einsätze können diesen in Rechnung gestellt werden. Der Regierungsrat regelt die Einzelheiten durch Verordnung.
 
@@ -126,7 +130,7 @@ beschliesst:
 
 **Koordinationsstelle für den Bevölkerungsschutz**
 
-<sup>1</sup> Die Koordinationsstelle für den Bevölkerungsschutz ist gemäss den Vorgaben des Regierungsrats zuständig für die Bildung und Sicherstellung der Einsatzbereitschaft der Führungsstrukturen.
+<sup>1</sup> Die Koordinationsstelle für den Bevölkerungsschutz ist gemäss den Vorgaben des Regierungsrats zuständig für die Bildung der Führungsstrukturen und die Sicherstellung ihrer Einsatzbereitschaft.
 
 <sup>2</sup> Sie sorgt für die Umsetzung der vom Regierungsrat abgeschlossenen interkantonalen und internationalen Verträge über die Zusammenarbeit im Bevölkerungsschutz.
 
@@ -150,7 +154,7 @@ beschliesst:
 - b) Bildung von gemeinsamen Regionalen Führungsorganen innerhalb der Bevölkerungsschutzregion entsprechend der gewählten Form der Zusammenarbeit,
 - c) Sicherstellung der Information der Bevölkerung und Behörden über Gefährdungen, Schutzmöglichkeiten und Schutzmassnahmen,
 - d) Regelung der Warnung und Alarmierung,
-- e) Sicherstellung einer regionalen Gefährdungsanalyse gemäss den Vorgaben des Kantons,
+- e) Sicherstellung der Erarbeitung einer regionalen Gefährdungsanalyse gemäss den Vorgaben des Kantons,
 - f) Erlass der notwendigen Anordnungen zur Bewältigung von Katastrophen, Notlagen, schweren Mangellagen und bewaffneten Konflikten im Rahmen ihrer Zuständigkeit,
 - g) Entscheid über Einsatz und Koordination aller für die Bewältigung von Katastrophen, Notlagen, schweren Mangellagen und bewaffneten Konflikten notwendigen kommunalen und regionalen Dienste und Organisationen sowie der privaten Organisationen,
 - h) Überörtliche Hilfeleistung.
@@ -165,6 +169,8 @@ beschliesst:
 
 <sup>2</sup> Sie arbeiten mit dem KFS und der kantonalen Koordinationsstelle für Bevölkerungsschutz zusammen.
 
+<sup>2<sup>bis</sup></sup> Sie erhalten kombinierte Leistungsaufträge von den Koordinationsstellen der Bevölkerungsschutzregionen, die diese unter Berücksichtigung der Vorgaben der kantonalen Koordinationsstelle für den Bevölkerungsschutz erarbeiten.
+
 <sup>3</sup> Sie sind verpflichtet, die vom Kanton angebotene Aus- und Weiterbildung zu besuchen. Reise- und Verpflegungskosten sowie andere Entschädigungen gehen zu Lasten der Gemeinden.
 
 <sup>4</sup> Sie können die Partner des Bevölkerungsschutzes bei den Vorbereitungen und der Bewältigung von Grossereignissen, Katastrophen, Notlagen, schweren Mangellagen und bewaffneten Konflikten beraten.
@@ -178,6 +184,16 @@ beschliesst:
 **Partner des Bevölkerungsschutzes**
 
 <sup>1</sup> Die Partner des Bevölkerungsschutzes treffen im Rahmen ihrer gesetzlichen Vorgaben die notwendigen Massnahmen zur Bewältigung von Grossereignissen, Katastrophen, Notlagen, schweren Mangellagen und bewaffneten Konflikten.
+
+#### § 11a
+
+**Kommunikationssysteme**
+
+<sup>1</sup> Die dezentralen Komponenten der Kommunikationssysteme des Bevölkerungsschutzes werden vom Kanton betrieben und unterhalten.
+
+<sup>2</sup> Die Partner im Bevölkerungsschutz können in die Systeme eingebunden und bei Vorliegen wichtiger Gründe durch das zuständige Departement zur Zusammenarbeit verpflichtet werden.
+
+<sup>3</sup> Der Regierungsrat regelt die Einzelheiten durch Verordnung.
 
 #### § 12
 
@@ -199,9 +215,9 @@ beschliesst:
 
 <sup>1</sup> Das zuständige Departement sorgt für ein angemessenes Angebot an Aus- und Weiterbildung für Personen, die gemäss § 13 aufgeboten werden können.
 
-<sup>1<sup>bis</sup></sup> Das zuständige Departement erarbeitet bei Bedarf Einsatzgrundlagen für Betreiber kritischer Infrastrukturen und unterstützt diese bei Bedarf mit der Durchführung von Aus- und Weiterbildungen. Die entsprechenden Dienstleistungen werden den Betreibern in Rechnung gestellt. Der Regierungsrat regelt den Vollzug durch Verordnung.
+<sup>1<sup>bis</sup></sup> …
 
-<sup>2</sup> Der Regierungsrat kann im Bedarfsfall die Pflicht zur Ausbildung einführen. Er regelt die Einzelheiten durch Verordnung.
+<sup>2</sup> …
 
 #### § 15
 
@@ -231,9 +247,21 @@ beschliesst:
 
 #### § 18
 
-**Verbindlichkeit von Anordnungen**
+**…**
 
-<sup>1</sup> Die von den zuständigen Organen im Rahmen der Bewältigung von Grossereignissen, Katastrophen, Notlagen, schweren Mangellagen und bewaffneten Konflikten erlassenen Anordnungen sind für die Bevölkerung verbindlich.
+#### § 18a
+
+**Obligatorische Sicherheitsveranstaltung Bevölkerungsschutz**
+
+<sup>1</sup> Die Bevölkerungsschutzregionen führen gemeinsam mit den Partnern des Bevölkerungsschutzes Sicherheitsveranstaltungen durch. Sie dauern in der Regel einen halben Tag.
+
+<sup>2</sup> Für die nicht militärdienstpflichtigen Einwohnerinnen und Einwohner des Kantons, die im laufenden Jahr ihr 23. Altersjahr vollenden, ist die Teilnahme an einer Sicherheitsveranstaltung obligatorisch.
+
+<sup>3</sup> Wer trotz Aufgebot nicht teilnimmt, wird durch die aufbietende Stelle erneut aufgeboten und verwarnt. Wer auch dem zweiten Aufgebot keine Folge leistet, wird durch die zuständige Behörde mit einer Busse bis Fr. 500.– bestraft.
+
+<sup>4</sup> Der Regierungsrat regelt das Aufgebot, Ausnahmen von der Teilnahmepflicht und die Durchführung der Veranstaltung durch Verordnung.
+
+<sup>5</sup> Der Regierungsrat beobachtet laufend die Entwicklung der obligatorischen Sicherheitsveranstaltung. Bei fehlender Wirksamkeit kann er auf die Veranstaltung verzichten.
 
 ## 3. Zivilschutz
 
@@ -247,29 +275,31 @@ beschliesst:
 
 <sup>2</sup> Die Zivilschutzregionen entsprechen den Bevölkerungsschutzregionen gemäss § 3 Abs. 2 lit. a. § 3 Abs. 3 gilt sinngemäss.
 
+<sup>2<sup>bis</sup></sup> Gemäss den Vorgaben der für den Zivilschutz zuständigen Stelle erarbeiten und vereinbaren die regionalen Koordinationsstellen für den Bevölkerungsschutz Leistungsaufträge und Leistungsprofile für die Zivilschutzorganisationen.
+
 <sup>3</sup> …
 
 #### § 20
 
 **Strukturen**
 
-<sup>1</sup> Der Regierungsrat legt nach Anhörung des in der Region für den Zivilschutz zuständigen Organs auf der Grundlage der Gefährdungsanalyse durch Verordnung die Organisationsstrukturen, Bestandeszahlen und Mittel der Zivilschutzorganisationen fest.
+<sup>1</sup> Der Regierungsrat regelt nach Konsultation des in der Bevölkerungsschutzregion für den Zivilschutz zuständigen Organs auf der Grundlage der Gefährdungsanalyse die Grundstrukturen der Zivilschutzorganisationen durch Verordnung.
 
-<sup>2</sup> Der Regierungsrat bezeichnet die für den Zivilschutz zuständige kantonale Stelle.
+<sup>2</sup> …
 
 #### § 21
 
 **Aufgebot für Einsätze**
 
-<sup>1</sup> Das Aufgebot von Schutzdienstpflichtigen für Einsätze bei Grossereignissen, Katastrophen und Notlagen, Instandstellungsarbeiten sowie zu Gunsten der Gemeinschaft liegt in der Kompetenz des in der Region für den Zivilschutz zuständigen Organs.
+<sup>1</sup> Das Aufgebot von Schutzdienstpflichtigen für Einsätze bei Grossereignissen, Katastrophen und Not- und schweren Mangellagen liegt in der Kompetenz des in der Bevölkerungsschutzregion für den Zivilschutz zuständigen Organs.
 
 <sup>2</sup> Der Regierungsrat kann Schutzdienstpflichtige aufbieten:
 
-- a) für Einsätze bei Grossereignissen, Katastrophen und Notlagen sowie Instandstellungsarbeiten im Rahmen überörtlicher Hilfeleistung, soweit die Nachbarschaftshilfe nicht ausreicht,
-- b) für Einsätze zu Gunsten der Gemeinschaft in besonderen Fällen, namentlich wenn der Einsatz im Interesse des Kantons liegt,
+- a) für Einsätze bei Grossereignissen, Katastrophen, Not- und schweren Mangellagen, soweit die Nachbarschaftshilfe nicht ausreicht,
+- b) …
 - c) zur Hilfeleistung in anderen Kantonen und im grenznahen Ausland.
 
-<sup>3</sup> Bei einer Überschreitung der zeitlichen Obergrenze der zulässigen Diensttage bei geplanten Instandstellungsarbeiten oder bei Gemeinschaftseinsätzen wird kein Aufgebot erteilt. Die für den Zivilschutz zuständige Stelle ordnet an, dass die fraglichen Schutzdienstpflichtigen für die betroffene Dienstart nicht aufgeboten werden beziehungsweise dem Aufgebot nicht nachkommen dürfen. Der Regierungsrat regelt das Verfahren durch Verordnung.
+<sup>3</sup> …
 
 ### 3.2. Schutzdienstleistung und Kontrollführung
 
@@ -282,7 +312,7 @@ beschliesst:
 - a) freiwillige Schutzdienstleistung,
 - b) vorzeitige Entlassung,
 - c) überörtliche Zuteilung,
-- d) Zuteilung in die Personalreserve,
+- d) …
 - e) Zuteilung in die ZSO,
 - f) Ausschluss von der Schutzdienstleistung sowie Aufhebung dieses Ausschlusses.
 
@@ -308,25 +338,47 @@ beschliesst:
 
 #### § 24
 
-**Grund-, Zusatz- und Kaderausbildung**
+**Grund- und Kaderausbildung**
 
-<sup>1</sup> Die Grundausbildung dauert zwölf Tage.
+<sup>1</sup> Die Grundausbildung dauert 12–16 Tage. Der Regierungsrat regelt durch Verordnung die Dauer je nach Grundfunktion.
 
-<sup>2</sup> Die Zusatzausbildung dauert längstens fünf Tage und richtet sich an den Erfordernissen der Funktionen aus.
+<sup>2</sup> Die Kaderausbildung dauert maximal 17 Tage. Der Regierungsrat regelt durch Verordnung die Dauer je nach Funktion.
 
-<sup>3</sup> Die Kaderausbildung dauert je nach Funktion fünf bis zwölf Tage.
+<sup>3</sup> Die Grund- und die Kaderausbildung werden vom Kanton durchgeführt.
 
-<sup>4</sup> Grund-, Zusatz- und Kaderausbildung sowie Weiterbildungskurse werden vom Kanton durchgeführt.
+<sup>4</sup> Die zuständige kantonale Stelle sorgt im Rahmen der bundesrechtlichen Vorgaben für das Aufgebot.
 
-<sup>5</sup> Die zuständige kantonale Stelle sorgt im Rahmen der bundesrechtlichen Vorgaben für das Aufgebot.
+<sup>5</sup> …
 
 <sup>6</sup> Freiwillig Schutzdienstleistende absolvieren eine Grundausbildung. Verfügt eine Person bereits über eine gleichwertige Ausbildung, entscheidet die für den Zivilschutz zuständige Stelle, ob die Person eine Grundausbildung leisten muss. Der Regierungsrat regelt das Verfahren durch Verordnung.
+
+#### § 24a
+
+**Zusatz- und Weiterbildung**
+
+<sup>1</sup> Die Zusatzausbildung dauert maximal 19 Tage. Der Regierungsrat regelt durch Verordnung die Dauer je nach den Erfordernissen einer Funktion.
+
+<sup>2</sup> Die Weiterbildung dauert höchstens 5 Tage pro Jahr. Der Regierungsrat regelt durch Verordnung die Dauer anhand der jeweiligen Erfordernisse.
+
+<sup>3</sup> Die Zusatz- und Weiterbildungen werden vom Kanton durchgeführt.
+
+<sup>4</sup> Die zuständige kantonale Stelle sorgt im Rahmen der bundesrechtlichen Vorgaben für das Aufgebot.
 
 #### § 25
 
 **Wiederholungskurse**
 
-<sup>1</sup> Das Aufgebot für die Wiederholungskurse und deren Durchführung für ausgebildete Schutzdienstpflichtige ist Sache des in der Region für den Zivilschutz zuständigen Organs.
+<sup>1</sup> Ausgebildete Schutzdienstpflichtige und Angehörige des Kantonalen Katastrophen Einsatzelements leisten Wiederholungskurse.
+
+<sup>2</sup> Wiederholungskurse für die ausgebildeten Schutzdienstpflichtigen der ZSO dauern in der Regel 10 Tage.
+
+<sup>3</sup> Wiederholungskurse für die Angehörigen des Kantonalen Katastrophen Einsatzelements dauern zwischen 3 und 21 Tagen.
+
+<sup>4</sup> Einsätze zugunsten der Gemeinschaft dauern maximal 21 Tage pro Jahr.
+
+<sup>5</sup> Freiwillig Schutzdienstleistende leisten Dienst nach Bedarf, jedoch maximal 21 Tage pro Jahr.
+
+<sup>6</sup> Das Aufgebot und die Durchführung der Wiederholungskurse ist Sache des in der Region oder im Kanton für den Zivilschutz zuständigen Organs.
 
 #### § 26
 
@@ -356,7 +408,7 @@ beschliesst:
 
 <sup>1</sup> Beschaffung, Lagerung und Bewirtschaftung des notwendigen Materials ist Sache des für den Zivilschutz in der Region zuständigen Organs.
 
-<sup>2</sup> Nach Anhörung der ZSO legt die zuständige kantonale Stelle in einer Materialliste das standartisierte Material fest. Dabei wird diese von einer paritätischen Arbeitsgruppe in Materialfragen unterstützt. Der Regierungsrat regelt die paritätische Zusammensetzung der Arbeitsgruppe durch Verordnung.
+<sup>2</sup> Nach Konsultation der ZSO legt die zuständige kantonale Stelle in einer Materialliste das standardisierte Material fest.
 
 <sup>3</sup> Das vom Bund beschaffte und vom Kanton abgegebene Material wird bedarfsgerecht auf die ZSO verteilt. Diese sind nach den Vorgaben der zuständigen kantonalen Stelle verantwortlich für Betrieb, Ersatz und Unterhalt.
 
@@ -376,7 +428,7 @@ beschliesst:
 
 **Zentraler Materialpool**
 
-<sup>1</sup> Das vom Bund den ZSO unentgeltlich abgegebene, überzählige Material wird in einen zentralen Materialpool überführt, der vom Kanton verwaltet wird. Das Material wird den ZSO auf Gesuch zur Verfügung gestellt.
+<sup>1</sup> Das überzählige standardisierte Zivilschutzmaterial wird in einen zentralen Materialpool überführt, der vom Kanton verwaltet wird. Das Material wird den ZSO auf Gesuch zur Verfügung gestellt.
 
 #### § 32
 
@@ -414,7 +466,7 @@ beschliesst:
 
 <sup>1</sup> Einnahmen und Ausgaben gemäss den bundesrechtlichen Bestimmungen zur Entrichtung der Ersatzbeiträge werden in einer Spezialfinanzierung verbucht und verzinst. Der Regierungsrat legt die Höhe des Ersatzbeitrags nach Massgabe der bundesrechtlich geregelten Bandbreite durch Verordnung fest.
 
-<sup>2</sup> Die Ersatzbeiträge werden durch die zuständige kantonale Stelle verfügt und verwaltet. Die Ersatzbeiträge in den Gemeinden werden durch diese verwaltet. Der Regierungsrat regelt das Verfahren durch Verordnung.
+<sup>2</sup> Die Ersatzbeiträge werden durch die zuständige kantonale Stelle verfügt und verwaltet. Der Regierungsrat regelt das Verfahren durch Verordnung.
 
 <sup>3</sup> Der Regierungsrat regelt die Verwendung der Ersatzbeiträge für weitere Zivilschutzmassnahmen durch Verordnung.
 
@@ -432,13 +484,13 @@ beschliesst:
 
 <sup>3</sup> Die Abnahme der neuen und erneuerten Schutzräume erfolgt durch die zuständige Stelle des Kantons.
 
-<sup>4</sup> Die periodische Kontrolle der Schutzräume erfolgt nach Vorgaben des Kantons durch die Gemeinden beziehungsweise durch die ZSO.
+<sup>4</sup> Die periodische Kontrolle der Schutzräume erfolgt nach Vorgaben der für den Zivilschutz zuständigen Stelle des Kantons durch die ZSO.
 
 #### § 37
 
 **Aufhebung von Schutzräumen**
 
-<sup>1</sup> Über die Aufhebung von bestehenden Schutzräumen entscheidet auf Gesuch der Eigentümerin beziehungsweise des Eigentümers und nach Anhörung der Gemeinde die zuständige kantonale Stelle.
+<sup>1</sup> Über die Aufhebung von bestehenden Schutzräumen entscheidet auf Gesuch der Eigentümerin beziehungsweise des Eigentümers die zuständige kantonale Stelle.
 
 <sup>2</sup> Massgebende Kriterien für die Aufhebung von bestehenden Schutzräumen sind insbesondere die Schutzplatzbilanz im betreffenden Beurteilungsgebiet sowie der Bauzustand.
 
@@ -506,6 +558,35 @@ beschliesst:
 
 <sup>3</sup> Im Bewirtschaftungsfall vollziehen die Gemeinden die Anordnungen des Kantons.
 
+### 5<sup>bis</sup> Schutz kritischer Infrastrukturen
+
+#### § 44a
+
+**Zentralstelle und Inventar**
+
+<sup>1</sup> Der Regierungsrat legt durch Verordnung eine Zentralstelle für den Schutz kritischer Infrastrukturen fest und regelt die Einsatzbereitschaft der kritischen Infrastrukturen gegenüber den Betreibern.
+
+<sup>2</sup> Die Zentralstelle erfasst die aus kantonaler Sicht kritischen Infrastrukturen unter Einbezug der Departemente und koordiniert die Schutzmassnahmen der Betreiber.
+
+<sup>3</sup> Sie arbeitet zusammen mit
+
+- a) Betreibern kritischer Infrastrukturen,
+- b) zuständigen Verbänden,
+- c) zuständigen Stellen des Bundes, und
+- d) anderen Kantonen.
+
+<sup>4</sup> Der Regierungsrat kann Leistungsvereinbarungen mit Dritten abschliessen.
+
+#### § 44b
+
+**Einsatzgrundlagen**
+
+<sup>1</sup> Das zuständige Departement kann Einsatzgrundlagen für Betreiber kritischer Infrastrukturen erarbeiten und diese bei Bedarf mit der Durchführung von Aus- und Weiterbildungen unterstützen.
+
+<sup>2</sup> Die entsprechenden Dienstleistungen werden den Betreibern in Rechnung gestellt. Der Regierungsrat regelt den Vollzug durch Verordnung.
+
+<sup>3</sup> Der Regierungsrat kann im Bedarfsfall die Pflicht zur Ausbildung einführen. Er regelt die Einzelheiten durch Verordnung.
+
 ## 6. Finanzierung
 
 #### § 45
@@ -516,17 +597,17 @@ beschliesst:
 
 <sup>2</sup> Für die Übernahme von hoheitlichen Aufgaben der Gemeinden im Bereich des Schutzraumbaus erhält die zuständige kantonale Stelle eine Verwaltungsentschädigung aus der Spezialfinanzierung gemäss § 35 Abs. 1. Der Regierungsrat legt die Höhe der Verwaltungsentschädigung durch Verordnung fest.
 
-<sup>3</sup> Der Kanton verrechnet Dritten die tatsächlichen Kosten seiner Leistungen für Alarmierung, Sirenenanlagen und Telematik sowie für die Unterstützung der geschützten Spitäler. Hierfür werden entsprechende Leistungsvereinbarungen abgeschlossen. Der Regierungsrat regelt den Vollzug durch Verordnung.
+<sup>3</sup> Der Kanton verrechnet Dritten die tatsächlichen Kosten seiner Leistungen für Alarmierung, Sirenenanlagen und Telematik sowie für die Unterstützung der geschützten Spitäler und den Schutz kritischer Infrastrukturen. Hierfür werden entsprechende Leistungsvereinbarungen abgeschlossen. Der Regierungsrat regelt den Vollzug durch Verordnung.
 
 #### § 46
 
 **Aus- und Weiterbildung im Zivilschutz**
 
-<sup>1</sup> Die Kosten der Grund- und Zusatzausbildung gemäss § 24 tragen die Gemeinden im Verhältnis ihrer Einwohnerzahlen.
+<sup>1</sup> Die Kosten der Grund- und Zusatzausbildung tragen die Gemeinden im Verhältnis ihrer Einwohnerzahlen.
 
 <sup>2</sup> Die Gemeinden tragen zudem die Kosten
 
-- a) der im Zusammenhang mit Einsätzen und mit der Vorbereitung und Durchführung von Wiederholungskursen im Sinne von Art. 25 und 36 BZG entstehenden Aufwendungen,
+- a) der im Zusammenhang mit Einsätzen und der Vorbereitung und Durchführung von Wiederholungskursen gemäss den Art. 45 und 53 BZG entstehenden Aufwendungen,
 - b) der Aus- und Weiterbildung der für die Kontrollführung verantwortlichen Personen,
 - c) der Aus- und Weiterbildung der für die periodische Kontrolle der Schutzräume verantwortlichen Personen.
 
@@ -536,7 +617,7 @@ beschliesst:
 
 **Haftung**
 
-<sup>1</sup> Bei Vorliegen einer Schadenersatzpflicht von Kanton und Gemeinde im Sinne von Art. 60 Abs. 2 BZG werden die Kosten von Kanton und Gemeinde je zur Hälfte getragen.
+<sup>1</sup> Bei Vorliegen einer Schadenersatzpflicht von Kanton und Gemeinde werden die Kosten von Kanton und Gemeinde je zur Hälfte getragen.
 
 #### § 47a
 
@@ -576,7 +657,11 @@ beschliesst:
 
 **Übergangsrecht**
 
-<sup>1</sup> Die Gemeinden passen ihre Organisation soweit nötig innerhalb von zwei Jahren seit Inkrafttreten dieses Gesetzes an.
+<sup>1</sup> …
+
+<sup>2</sup> Die Ersatzbeiträge gemäss der Spezialfinanzierung der Gemeinden werden bis zum 31. Dezember 2028 an den Kanton übertragen.
+
+<sup>3</sup> § 18a (obligatorische Sicherheitsveranstaltung Bevölkerungsschutz) ist befristet bis 31. Dezember 2028.
 
 #### § 52
 
