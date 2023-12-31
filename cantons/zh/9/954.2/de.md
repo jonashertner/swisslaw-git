@@ -3,37 +3,38 @@ canton: ZH
 number: "954.2"
 title: Verordnung zum Konsumkreditgesetz
 language: de
-nachtrag: "49"
-valid_until: 2024-01-01
+version: "2024-01-01"
+nachtrag: "123"
 adopted: 2004-06-09
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-954_2-2004_06_09-2004_07_01-049.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-954_2-2004_06_09-2004_07_01-123.html"
 text: pdf
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# 954.2
+# Verordnung zum Konsumkreditgesetz
 
-## Verordnung zum Konsumkreditgesetz
-
-(vom 9. Juni 2004)[^hVerordnungzumKonsu-1]
+(vom 9. Juni 2004)[^t-1]
 
 Der Regierungsrat,
 
-gestützt auf §§ 212–214 b[^hVerordnungzumKonsu-2] EG zum ZGB<sup>2</sup>,
+gestützt auf §§ 212–214 b[^t-2] EG zum ZGB[^t-3],
 
 beschliesst:
 
-[^hVerordnungzumKonsu-1]: OS 59, 154. 2 230.
-[^hVerordnungzumKonsu-2]: Heute: §§ 214–216 EG zum ZGB. 1. 7. 05 - 49 1
+[^t-1]: OS 59, 154.
+[^t-2]: Heute: §§ 214–216 EG zum ZGB.
+[^t-3]: LS 230.
 
 #### § 1
 
 **Zuständigkeit**
 
-Die Volkswirtschaftsdirektion ist für den Vollzug der Vorschriften über das Konsumkreditgewerbe zuständig.
+<sup>1</sup> Die Volkswirtschaftsdirektion ist für den Vollzug der Vorschriften über das Konsumkreditgewerbe zuständig.
 
-Bewilligungs- und Aufsichtsbehörde ist das Amt für Wirtschaft und Arbeit.
+<sup>2</sup> Bewilligungs- und Aufsichtsbehörde ist das Amt für Wirtschaft[^1-1].
+
+[^1-1]: Fassung gemäss RRB vom 12. Dezember 2023 (OS 78, 561; ABl 2023-12-15). In Kraft seit 1. Januar 2024. 1. 1. 24 - 123 1
 
 #### § 2
 
