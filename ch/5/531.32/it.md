@@ -4,11 +4,11 @@ title: "Ordinanza del 19 agosto 2020 sulla garanzia dell'approvvigionamento di a
 short: OAAP
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/666"
 language: it
-version: 2020-10-01
+version: 2024-01-01
 adopted: 2020-08-19
 in_force: 2020-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/666/20201001/it/xml/fedlex-data-admin-ch-eli-cc-2020-666-20201001-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/666/20201001/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/666/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2020-666-20240101-it-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/666/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/666/20201001/it"
 
 (OAAP)
 
-del 19 agosto 2020 (Stato 1° ottobre 2020)
+del 19 agosto 202 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -98,11 +98,12 @@ I Cantoni allestiscono un inventario digitale degli impianti di approvvigionamen
 
 <sup>4</sup> Elaborano in base all’inventario cartine digitali e le aggiornano periodicamente. L’Ufficio federale dell’ambiente (UFAM) stabilisce le disposizioni necessarie a tale scopo.
 
-<sup>5</sup> L’inventario e le cartine digitali vengono classificati CONFIDENZIALE conformemente all’articolo 6 capoverso 1 lettera d dell’ordinanza del 4 luglio 2007[^4-1] sulla protezione delle informazioni (OPrI).
+<sup>5</sup> L’inventario e le cartine digitali vengono classificati CONFIDENZIALE conformemente all’articolo 19 lettera f dell’ordinanza dell’8 novembre 2023[^4-1] sulla sicurezza delle informazioni (OSIn).[^4-2]
 
 <sup>6</sup> I Cantoni stabiliscono la ripartizione dei compiti tra Cantone, organizzazione di crisi, Comuni e fornitori di acqua per gestire una situazione di grave penuria. Garantiscono l’informazione della popolazione e il coordinamento tra gli attori coinvolti nella gestione della grave penuria.
 
-[^4-1]: [RS 510.411](https://fedlex.data.admin.ch/eli/cc/2007/414)
+[^4-1]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^4-2]: Nuovo testo giusta l’all. 2 n. II 34 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
 
 #### Art. 5
 
@@ -138,9 +139,10 @@ Il piano deve contenere in particolare le seguenti indicazioni:
 
 <sup>3</sup> Il piano deve essere sottoposto all’autorità cantonale competente per approvazione.
 
-<sup>4</sup> È classificato CONFIDENZIALE conformemente all’articolo 6 capoverso 1 lettera d OPrI[^7-1].
+<sup>4</sup> È classificato CONFIDENZIALE conformemente all’articolo 19 lettera f OSIn[^7-1].[^7-2]
 
-[^7-1]: [RS 510.411](https://fedlex.data.admin.ch/eli/cc/2007/414)
+[^7-1]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^7-2]: Nuovo testo giusta l’all. 2 n. II 34 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
 
 #### Art. 8
 
@@ -163,9 +165,10 @@ Tale documentazione deve contenere in particolare le seguenti indicazioni:
 
 <sup>4</sup> Mettono gratuitamente a disposizione dell’autorità cantonale competente, dietro sua richiesta, una copia della documentazione.
 
-<sup>5</sup> La documentazione è classificata CONFIDENZIALE conformemente all’articolo 6 capoverso 1 lettera d OPrI[^8-1].
+<sup>5</sup> La documentazione è classificata CONFIDENZIALE conformemente all’articolo 19 lettera f OSIn[^8-1].[^8-2]
 
-[^8-1]: [RS 510.411](https://fedlex.data.admin.ch/eli/cc/2007/414)
+[^8-1]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^8-2]: Nuovo testo giusta l’all. 2 n. II 34 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
 
 #### Art. 9
 

@@ -4,11 +4,11 @@ title: "Ordonnance du 19 août 2020 sur la garantie de l'approvisionnement en ea
 short: OAP
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/666"
 language: fr
-version: 2020-10-01
+version: 2024-01-01
 adopted: 2020-08-19
 in_force: 2020-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/666/20201001/fr/xml/fedlex-data-admin-ch-eli-cc-2020-666-20201001-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/666/20201001/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/666/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-666-20240101-fr-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/666/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/666/20201001/fr"
 
 (OAP)
 
-du 19 août 2020 (Etat le 1<sup>er</sup> octobre 2020)
+du 19 août 2020 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -73,7 +73,9 @@ Lors d’une pénurie grave, les quantités minimales d’eau potable suivantes 
 
 **Principe**
 
-Les cantons veillent à ce que l’approvisionnement en eau potable soit assuré en cas de pénurie grave. Pour effectuer leurs tâches, ils peuvent coopérer avec d’autres cantons.
+<sup>1</sup> Les cantons veillent à ce que l’approvisionnement en eau potable soit assuré en cas de pénurie grave.
+
+<sup>2</sup> Pour effectuer leurs tâches, ils peuvent coopérer avec d’autres cantons.
 
 #### Art. 4
 
@@ -96,11 +98,12 @@ Les cantons font un inventaire électronique des installations d’approvisionne
 
 <sup>4</sup> À partir de l’inventaire, ils réalisent des cartes numérisées et les mettent périodiquement à jour. L’Office fédéral de l’environnement (OFEV) émet des directives à cet effet.
 
-<sup>5</sup> L’inventaire et les cartes numérisées sont à classifier «CONFIDENTIEL» selon l’art. 6, al. 1, let. d, de l’ordonnance du 4 juillet 2007 concernant la protection des informations (OPrI)[^4-1].
+<sup>5</sup> L’inventaire et les cartes numérisées sont à classifier «CONFIDENTIEL» selon l’art. 19, let. f, de l’ordonnance du 8 novembre 2023 sur la sécurité de l’information (OSI)[^4-1].[^4-2]
 
 <sup>6</sup> Les cantons définissent la répartition des tâches entre le canton, l’organisation de gestion des crises, les communes et les exploitants d’installations d’approvisionnement en eau applicable en cas de pénurie grave. Ils assurent l’information de la population et la coordination des acteurs impliqués dans la gestion de la pénurie grave.
 
-[^4-1]: [RS 510.411](https://fedlex.data.admin.ch/eli/cc/2007/414)
+[^4-1]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^4-2]: Nouvelle teneur selon l’annexe 2 ch. II 34 de l’O du 8 nov. 2023 sur la sécurité de l’information, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
 
 #### Art. 5
 
@@ -136,9 +139,10 @@ Ce plan doit contenir en particulier les données suivantes:
 
 <sup>3</sup> Le plan doit être approuvé par l’autorité cantonale compétente.
 
-<sup>4</sup> Il est classifié «CONFIDENTIEL» en vertu de l’art. 6, al. 1, let. d, OPrI[^7-1].
+<sup>4</sup> Il est classifié «CONFIDENTIEL» en vertu de l’art. 19, let, f, OSI[^7-1].[^7-2]
 
-[^7-1]: [RS 510.411](https://fedlex.data.admin.ch/eli/cc/2007/414)
+[^7-1]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^7-2]: Nouvelle teneur selon l’annexe 2 ch. II 34 de l’O du 8 nov. 2023 sur la sécurité de l’information, en vigueur depuis le 1er janv. 2024 (RO 2023 735).
 
 #### Art. 8
 
@@ -161,9 +165,10 @@ Cette documentation doit notamment contenir les données suivantes:
 
 <sup>4</sup> Ils fournissent au service cantonal compétent, sur demande, une copie gratuite de la documentation.
 
-<sup>5</sup> La documentation est classifiée «CONFIDENTIEL» en vertu de l’art. 6, al. 1, let. d, OPrI[^8-1].
+<sup>5</sup> La documentation est classifiée «CONFIDENTIEL» en vertu de l’art. 19, let. f, OSI[^8-1].[^8-2]
 
-[^8-1]: [RS 510.411](https://fedlex.data.admin.ch/eli/cc/2007/414)
+[^8-1]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^8-2]: Nouvelle teneur selon l’annexe 2 ch. II 34 de l’O du 8 nov. 2023 sur la sécurité de l’information, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
 
 #### Art. 9
 

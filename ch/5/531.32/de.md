@@ -4,11 +4,11 @@ title: Verordnung vom 19. August 2020 über die Sicherstellung der Trinkwasserve
 short: VTM
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/666"
 language: de
-version: 2020-10-01
+version: 2024-01-01
 adopted: 2020-08-19
 in_force: 2020-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/666/20201001/de/xml/fedlex-data-admin-ch-eli-cc-2020-666-20201001-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/666/20201001/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/666/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2020-666-20240101-de-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/666/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/666/20201001/de"
 
 (VTM)
 
-vom 19. August 2020 (Stand am 1. Oktober 2020)
+vom 19. August 2020 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -98,11 +98,12 @@ Die Kantone erstellen ein elektronisches Inventar der Wasserversorgungsanlagen, 
 
 <sup>4</sup> Sie erstellen mit Hilfe des Inventars digitale Karten und aktualisieren diese periodisch. Das Bundesamt für Umwelt (BAFU) legt die dafür erforderlichen Vorgaben fest.
 
-<sup>5</sup> Das Inventar und die digitalen Karten werden nach Artikel 6 Absatz 1 Buchstabe d der Informationsschutzverordnung vom 4. Juli 2007[^4-1] (ISchV) als VERTRAULICH klassifiziert.
+<sup>5</sup> Das Inventar und die digitalen Karten werden nach Artikel 19 Buchstabe f der Informationssicherheitsverordnung vom 8. November 2023[^4-1] (ISV) als VERTRAULICH klassifiziert.[^4-2]
 
 <sup>6</sup> Die Kantone legen die Aufgabenteilung zwischen Kanton, Krisenorganisation, Gemeinden und Wasserversorgern zur Bewältigung einer schweren Mangellage fest. Sie stellen die Information der Bevölkerung und die Koordination der Akteure bei der Bewältigung der Mangellage sicher.
 
-[^4-1]: [SR 510.411](https://fedlex.data.admin.ch/eli/cc/2007/414)
+[^4-1]: [SR 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^4-2]: Fassung gemäss Anhang 2 Ziff. II 34 der Informationssicherheitsverordnung vom 8. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
 
 #### Art. 5
 
@@ -138,9 +139,10 @@ Das Konzept muss insbesondere folgende Angaben enthalten:
 
 <sup>3</sup> Das Konzept ist der zuständigen kantonalen Stelle zur Genehmigung vorzulegen.
 
-<sup>4</sup> Es wird nach Artikel 6 Absatz 1 Buchstabe d ISchV[^7-1] als VERTRAULICH klassifiziert.
+<sup>4</sup> Es wird nach Artikel 19 Buchstabe f ISV[^7-1] als VERTRAULICH klassifiziert.[^7-2]
 
-[^7-1]: [SR 510.411](https://fedlex.data.admin.ch/eli/cc/2007/414)
+[^7-1]: [SR 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^7-2]: Fassung gemäss Anhang 2 Ziff. II 34 der Informationssicherheitsverordnung vom 8. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
 
 #### Art. 8
 
@@ -163,9 +165,10 @@ Die Dokumentation muss insbesondere folgende Angaben enthalten:
 
 <sup>4</sup> Sie stellen der zuständigen kantonalen Stelle auf Verlangen unentgeltlich eine Kopie der Dokumentation zu.
 
-<sup>5</sup> Die Dokumentation wird nach Artikel 6 Absatz 1 Buchstabe d ISchV[^8-1] als VERTRAULICH klassifiziert.
+<sup>5</sup> Die Dokumentation wird nach Artikel 19 Buchstabe f ISV[^8-1] als VERTRAULICH klassifiziert.[^8-2]
 
-[^8-1]: [SR 510.411](https://fedlex.data.admin.ch/eli/cc/2007/414)
+[^8-1]: [SR 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^8-2]: Fassung gemäss Anhang 2 Ziff. II 34 der Informationssicherheitsverordnung vom 8. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
 
 #### Art. 9
 
@@ -229,7 +232,7 @@ Die Betreiber von Abwasseranlagen sorgen dafür, dass ihre Anlagen die Trinkwass
 
 Die Verordnung vom 20. November 1991[^15-1] über die Sicherstellung der Trinkwasserversorgung in Notlagen wird aufgehoben.
 
-[^15-1]: [[AS 1991 2517](https://fedlex.data.admin.ch/eli/oc/1991/2517_2517_2517), [2017 3179](https://fedlex.data.admin.ch/eli/oc/2017/313)Ziff. I 2]
+[^15-1]: [[AS 1991 2517](https://fedlex.data.admin.ch/eli/oc/1991/2517_2517_2517); [2017 3179](https://fedlex.data.admin.ch/eli/oc/2017/313)Ziff. I 2]
 
 #### Art. 16
 
