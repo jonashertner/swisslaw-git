@@ -4,13 +4,13 @@ number: "150.100"
 title: Gesetz über die politischen Rechte im Kanton Graubünden
 short: GPR
 language: de
-version: 2022-06-01
-valid_until: 2023-12-31
-version_adopted: 2021-12-08
+version: 2024-01-01
+valid_until: 2024-12-31
+version_adopted: 2021-02-16
 adopted: 2005-06-17
 in_force: 2006-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/150.100"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3244/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3334/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/3244/pdf_file"
 
 (GPR)
 
-Vom 17.06.2005 (Stand 01.06.2022)
+Vom 17.06.2005 (Stand 01.01.2024)
 
 Der Grosse Rat des Kantons Graubünden[^ingress-1],
 
@@ -45,13 +45,15 @@ beschliesst:
 
 - a) die Wahlen und Abstimmungen in kantonalen und regionalen Angelegenheiten;
 - b) die Ausübung des Referendums- und Initiativrechts in kantonalen Angelegenheiten;
-- c) die Ausübung des Initiativrechts in Regions- und Gemeindeangelegenheiten.
+- c) die Ausübung des Initiativrechts in Regions- und Gemeindeangelegenheiten;
+- d) die elektronische Stimmabgabe bei Urnengängen in eidgenössischen, kantonalen, regionalen und kommunalen Angelegenheiten;
+- e) das Anmeldeverfahren für Majorzwahlen an der Urne auf kantonaler, regionaler und kommunaler Ebene.
 
 <sup>1<sup>bis</sup></sup> Vorbehalten bleiben die besonderen Vorschriften über die Verhältniswahl des Grossen Rates im Gesetz über die Wahl des Grossen Rates.
 
 <sup>2</sup> Auf die eidgenössischen Abstimmungen und die Nationalratswahlen sowie die Ausübung des Referendums- und Initiativrechts in eidgenössischen Angelegenheiten ist das Gesetz anwendbar, soweit das Bundesrecht die Ordnung des Verfahrens den Kantonen überlässt.
 
-<sup>3</sup> Sinngemäss Anwendung findet das Gesetz auf Abstimmungen und Wahlen in kommunalen Angelegenheiten, soweit das Gemeinderecht nichts bestimmt.
+<sup>3</sup> Im Übrigen findet das Gesetz auf Abstimmungen und Wahlen in kommunalen Angelegenheiten sinngemäss Anwendung, soweit das Gemeinderecht nichts bestimmt.
 
 #### Art. 2
 
@@ -208,7 +210,7 @@ beschliesst:
 
 **Zweiter Wahlgang**
 
-<sup>1</sup> Ein allfälliger zweiter Wahlgang ist spätestens drei Wochen nach dem ersten Wahlgang durchzuführen.
+<sup>1</sup> Ein allfälliger zweiter Wahlgang ist spätestens neun Wochen nach dem ersten Wahlgang durchzuführen.
 
 #### Art. 19
 
@@ -216,31 +218,42 @@ beschliesst:
 
 <sup>1</sup> Liegen gewichtige Gründe vor, so kann die Regierung im Einzelfall Abweichungen von den vorstehenden Wahlterminen beschliessen.
 
-### 2.2.a Stille Wahl der Mitglieder der Regionalgerichte
+### 2.2.a Anmeldeverfahren für Majorzwahlen an der Urne
 
 #### Art. 19a
 
-**Umfang**
+**Grundsatz**
 
-<sup>1</sup> Bei Erneuerungs- und Ersatzwahlen für die Mitglieder der Regionalgerichte ist im ersten und in einem zweiten Wahlgang eine stille Wahl möglich.
+<sup>1</sup> Für alle kantonalen und regionalen Wahlen an der Urne (Urnenwahlen) gilt ein Anmeldeverfahren.
+
+<sup>2</sup> Für kommunale Wahlen an der Urne gilt ein Anmeldeverfahren, soweit die Gemeinde dafür die elektronische Stimmabgabe eingeführt hat.
+
+<sup>3</sup> Es sind jeweils nur Personen wählbar, die gültig vorgeschlagen worden sind.
 
 #### Art. 19b
 
 **Erneuerungswahlen 1. Aufforderung**
 
-<sup>1</sup> Die Verwaltungskommission des zuständigen Regionalgerichts publiziert bis spätestens am vierzehnten Montag vor dem Wahltag in ortsüblicher Weise die Aufforderung zur Einreichung von Wahlvorschlägen.
+<sup>1</sup> Bis spätestens am vierzehntletzten Montag vor dem Wahltag ist die Aufforderung zur Einreichung von Wahlvorschlägen zu publizieren:
 
-<sup>2</sup> Diese beinhaltet namentlich:
+- a) bei kantonalen Wahlen von der Standeskanzlei;
+- b) …
+- c) bei Regionalgerichtswahlen von den Verwaltungskommissionen der Regionalgerichte;
+- d) bei kommunalen Wahlen von den Gemeindekanzleien.
+
+<sup>2</sup> Die Aufforderung beinhaltet:
 
 - a) Ort und Frist der Einreichung von Wahlvorschlägen;
 - b) Datum eines zweiten Wahlganges;
 - c) Ort und Frist der Einreichung von Wahlvorschlägen für einen zweiten Wahlgang.
 
+<sup>3</sup> Die Publikation der Aufforderung erfolgt bei kantonalen und regionalen Wahlen im Kantonsamtsblatt, bei kommunalen Wahlen in ortsüblicher Weise.
+
 #### Art. 19c
 
 **2. Anmeldeverfahren a) Wahlvorschläge**
 
-<sup>1</sup> Der Wahlvorschlag darf höchstens so viele Namen wählbarer Personen enthalten, als Sitze zu vergeben sind, und keinen Namen mehr als einmal.
+<sup>1</sup> Der Wahlvorschlag darf höchstens so viele Namen wählbarer Personen enthalten, als Sitze zu vergeben sind, und keinen Namen mehr als einmal. Weitere Wahlvorschläge für gleiche Personen sind ungültig.
 
 <sup>2</sup> Der Wahlvorschlag muss Familien- und Vornamen, Geburtsdatum und Wohnadresse der vorgeschlagenen Person angeben.
 
@@ -250,7 +263,11 @@ beschliesst:
 
 **b) Unterzeichnung**
 
-<sup>1</sup> Jeder Wahlvorschlag muss von fünf im Wahlkreis wohnhaften Stimmberechtigten handschriftlich unterzeichnet sein.
+<sup>1</sup> Jeder Wahlvorschlag muss von Stimmberechtigten mit politischem Wohnsitz im Wahlkreis handschriftlich unterzeichnet sein:
+
+- a) bei kantonalen Wahlen von mindestens 20 Stimmberechtigten;
+- b) bei regionalen Wahlen von mindestens 10 Stimmberechtigten;
+- c) bei kommunalen Wahlen von mindestens 5 Stimmberechtigten.
 
 <sup>2</sup> Eine stimmberechtigte Person darf nicht mehr als einen Wahlvorschlag unterzeichnen. Nach der Einreichung des Vorschlages kann die Unterschrift nicht mehr zurückgezogen werden.
 
@@ -260,7 +277,12 @@ beschliesst:
 
 **c) Einreichung**
 
-<sup>1</sup> Wahlvorschläge müssen bis spätestens am achtletzten Montag vor dem Wahltag beim zuständigen Regionalgericht eintreffen.
+<sup>1</sup> Wahlvorschläge müssen bis spätestens am neuntletzten Montag vor dem Wahltag eintreffen:
+
+- a) bei kantonalen Wahlen bei der Standeskanzlei;
+- b) …
+- c) bei Regionalgerichtswahlen bei der zuständigen Verwaltungskommission;
+- d) bei kommunalen Wahlen bei der zuständigen Gemeindekanzlei.
 
 <sup>2</sup> Nach diesem Zeitpunkt eingereichte Wahlvorschläge fallen ausser Betracht.
 
@@ -268,7 +290,7 @@ beschliesst:
 
 **d) Bereinigung**
 
-<sup>1</sup> Die Verwaltungskommission des zuständigen Regionalgerichts prüft fortlaufend die eingegangenen Wahlvorschläge in Bezug auf die Formerfordernisse, die Wählbarkeit der Kandidierenden und die Gültigkeit der Unterschriften.
+<sup>1</sup> Die Einreichungsinstanz prüft fortlaufend die eingegangenen Wahlvorschläge in Bezug auf die Formerfordernisse, die Wählbarkeit der Kandidierenden und die Gültigkeit der Unterschriften.
 
 <sup>2</sup> Bei Mängeln wird der Vertretung des Wahlvorschlags unverzüglich eine kurze Frist zur Behebung angesetzt.
 
@@ -278,33 +300,57 @@ beschliesst:
 
 #### Art. 19g
 
-**e) Bekanntgabe**
+**e) Rückzug**
 
-<sup>1</sup> Die Verwaltungskommission des zuständigen Regionalgerichts veröffentlicht die Namen der kandidierenden Personen in ortsüblicher Weise.
+<sup>1</sup> Rückzüge von Wahlvorschlägen müssen bis spätestens am neuntletzten Freitag vor dem Wahltag bei der Einreichungsinstanz eintreffen.
+
+<sup>2</sup> Die vorgeschlagene Person muss dem Rückzug schriftlich zustimmen.
 
 #### Art. 19h
 
-**3. Zustandekommen**
+**f) Veröffentlichung**
 
-<sup>1</sup> Eine stille Wahl kommt zustande, wenn die Zahl der gültig vorgeschlagenen Personen der Zahl der zu vergebenden Sitze entspricht. Andernfalls findet ein freier öffentlicher Wahlgang statt.
+<sup>1</sup> Die Einreichungsinstanz veröffentlicht umgehend nach Ablauf der Rückzugsfrist die Namen der kandidierenden Personen bei kantonalen und regionalen Wahlen im Kantonsamtsblatt, bei kommunalen Wahlen in ortsüblicher Weise.
 
-<sup>2</sup> Die Verwaltungskommission des zuständigen Regionalgerichts entscheidet unverzüglich über das Zustandekommen der stillen Wahl und veröffentlicht den Entscheid im Kantonsamtsblatt und in ortsüblicher Weise.
+<sup>2</sup> …
 
 #### Art. 19i
 
-**4. Zweiter Wahlgang**
+**3. Zweiter Wahlgang**
 
-<sup>1</sup> Wahlvorschläge können innert drei Tagen nach dem ersten Wahlgang beim Regionalgericht eingereicht werden. Der zweite Wahlgang ist frei.
+<sup>1</sup> Wahlvorschläge müssen bis spätestens am siebten Tag nach dem ersten Wahlgang bei der Einreichungsinstanz eintreffen. Neue Kandidaturen sind zulässig.
 
-<sup>2</sup> Für das weitere Verfahren gelten die Artikeln 19c-19h.
+<sup>2</sup> Für das weitere Verfahren gelten die Artikel 19c bis 19f und Artikel 19h sinngemäss.
 
 #### Art. 19j
 
 **Ersatzwahlen**
 
-<sup>1</sup> Im Falle einer Ersatzwahl, bestimmt die Verwaltungskommission des zuständigen Regionalgerichts in Beachtung von Artikel 17 Absatz 1 die Frist für die Einreichung von Wahlvorschlägen.
+<sup>1</sup> Im Falle einer Ersatzwahl richtet sich das Verfahren nach den Artikeln 19b bis 19i. Die Einreichungsinstanz bestimmt in Beachtung von Artikel 17 Absatz 1 den Zeitpunkt der Publikation der Aufforderung für die Einreichung von Wahlvorschlägen.
 
-<sup>2</sup> Für das weitere Verfahren gelten die Artikel 19b-19i.
+<sup>2</sup> …
+
+### 2.2.b Stille Wahl der Mitglieder der Regionalgerichte
+
+#### Art. 19k
+
+**Umfang**
+
+<sup>1</sup> Bei Erneuerungs- und Ersatzwahlen für die Mitglieder der Regionalgerichte ist im ersten und in einem zweiten Wahlgang eine Stille Wahl möglich.
+
+#### Art. 19l
+
+**Verfahren**
+
+<sup>1</sup> Das Verfahren richtet sich bei Erneuerungswahlen nach den Artikeln 19b bis 19i und bei Ersatzwahlen nach Artikel 19j.
+
+#### Art. 19m
+
+**Zustandekommen**
+
+<sup>1</sup> Eine Stille Wahl kommt zustande, wenn die Zahl der gültig vorgeschlagenen Personen der Zahl der zu vergebenden Sitze entspricht. Andernfalls findet ein öffentlicher Wahlgang statt.
+
+<sup>2</sup> Die Verwaltungskommission des zuständigen Regionalgerichts entscheidet unverzüglich über das Zustandekommen der Stillen Wahl und veröffentlicht den Entscheid im Kantonsamtsblatt und in ortsüblicher Weise.
 
 ### 2.3. Wahl- und Abstimmungsunterlagen
 
@@ -360,7 +406,7 @@ beschliesst:
 
 <sup>2</sup> Stimmberechtigte, die wegen Invalidität oder aus einem anderen Grund dauernd unfähig sind, die für die Stimmabgabe nötigen Handlungen selbst vorzunehmen, können hiezu eine stimmberechtigte Person ihrer Wahl ermächtigen.
 
-<sup>3</sup> Die Regierung kann die Stimmabgabe auf elektronischem Weg ganz oder teilweise ermöglichen, sofern die zur Erfassung aller Stimmen sowie zur Wahrung des Stimmgeheimnisses und zur Verhinderung von Missbräuchen erforderlichen Bedingungen erfüllt sind.
+<sup>3</sup> Die elektronische Stimmabgabe richtet sich nach den Artikeln 30a ff.
 
 #### Art. 26
 
@@ -369,6 +415,12 @@ beschliesst:
 <sup>1</sup> Soweit die Urnenabstimmung vorgesehen ist, richtet sich die Stimmabgabe nach Artikel 25.
 
 <sup>2</sup> Andernfalls erfolgt die Stimmabgabe in den Gemeinden.
+
+#### Art. 26a
+
+**3. In kommunalen Angelegenheiten**
+
+<sup>1</sup> Soweit die Urnenabstimmung vorgesehen ist, richtet sich die Stimmabgabe nach Artikel 25.
 
 #### Art. 26b
 
@@ -405,6 +457,61 @@ beschliesst:
 **Stimmlokale**
 
 <sup>1</sup> Das Stimmlokal darf nicht gleichzeitig für andere Zwecke verwendet werden. Ebenfalls dürfen die Zugänge zum Stimmlokal nicht durch andere Handlungen oder Anlässe behindert werden. Insbesondere ist das Sammeln von Unterschriften verboten.
+
+### 2.4.a Elektronische Stimmabgabe
+
+#### Art. 30a
+
+**Grundsatz**
+
+<sup>1</sup> Die Stimmabgabe kann auf elektronischem Weg erfolgen, wenn die technischen und organisatorischen Voraussetzungen für eine gesetzeskonforme Durchführung erfüllt sind.
+
+<sup>2</sup> Die Regierung kann die Ausübung der elektronischen Stimmabgabe örtlich, zeitlich und sachlich eingrenzen.
+
+<sup>3</sup> Die Gemeinden bestimmen, ob und in welchem Umfang sie die Möglichkeit nutzen, die elektronische Stimmabgabe einzuführen. Der Entscheid obliegt dem Gemeindevorstand.
+
+<sup>4</sup> Der Kanton kann Gemeinden, welche die elektronische Stimmabgabe einführen, einmalige Beiträge für erforderliche Anpassungen ihrer Software ausrichten.
+
+#### Art. 30b
+
+**Regionen und Gemeinden**
+
+<sup>1</sup> Für regionale oder kommunale Urnengänge ist die elektronische Stimmabgabe in der Regel an den Blankoabstimmungsterminen des Bundes und an maximal zwei zusätzlichen Terminen möglich.
+
+<sup>2</sup> Regionen mit Gemeinden, welche die elektronische Stimmabgabe eingeführt haben, haben bei regionalen Urnengängen, die gleichzeitig mit eidgenössischen, kantonalen oder kommunalen stattfinden, die elektronische Stimmabgabe zu ermöglichen.
+
+<sup>3</sup> Gemeinden, welche die elektronische Stimmabgabe nur für die überkommunalen Urnengänge eingeführt haben, dürfen ihre kommunalen Urnengänge nicht gleichzeitig mit eidgenössischen, kantonalen oder regionalen Urnengängen durchführen.
+
+#### Art. 30c
+
+**An- und Abmeldung, Wirkungen**
+
+<sup>1</sup> Stimmberechtigte, welche elektronisch abstimmen oder wählen wollen, haben sich für die elektronische Stimmabgabe anzumelden.
+
+<sup>2</sup> An- und Abmeldungen sind vor jedem Urnengang möglich.
+
+<sup>3</sup> Den angemeldeten Stimmberechtigten werden die Wahl- und Abstimmungsunterlagen ausschliesslich elektronisch zur Verfügung gestellt, wenn die technischen und organisatorischen Voraussetzungen für papierloses E-Voting vorliegen. In einer Übergangsphase erhalten sie einen speziellen Stimmrechtsausweis.
+
+<sup>4</sup> Angemeldeten Stimmberechtigten stehen die weiteren Stimmabgabeformen (brieflich oder an der Urne) nur in Ausnahmefällen zur Verfügung.
+
+<sup>5</sup> Die näheren Einzelheiten regelt die Regierung durch Verordnung.
+
+#### Art. 30d
+
+**Ungültige Stimmabgabe**
+
+<sup>1</sup> Die elektronische Stimmabgabe ist ungültig, wenn sie:
+
+- a) nicht in der vorgesehenen Form und Verschlüsselung erfolgt;
+- b) nicht bis zur Schliessung der elektronischen Urne eintrifft;
+- c) nicht entschlüsselt und gelesen werden kann;
+- d) missbräuchlich erfolgt ist.
+
+#### Art. 30e
+
+**Überprüfung**
+
+<sup>1</sup> Die Regierung sorgt dafür, dass bei jedem Urnengang die Resultatermittlung durch unabhängige Stellen überprüft wird.
 
 ### 2.5. Ermittlung des Wahl- und Abstimmungsergebnisses
 

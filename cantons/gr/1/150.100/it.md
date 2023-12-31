@@ -4,13 +4,13 @@ number: "150.100"
 title: Legge sui diritti politici nel Cantone dei Grigioni
 short: LDPC
 language: it
-version: 2022-06-01
-valid_until: 2023-12-31
-version_adopted: 2021-12-08
+version: 2024-01-01
+valid_until: 2024-12-31
+version_adopted: 2021-02-16
 adopted: 2005-06-17
 in_force: 2006-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/150.100"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3244/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3334/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/3244/pdf_file"
 
 (LDPC)
 
-del 17.06.2005 (stato 01.06.2022)
+del 17.06.2005 (stato 01.01.2024)
 
 Il Gran Consiglio del Cantone dei Grigioni[^ingress-1],
 
@@ -45,13 +45,15 @@ decide:
 
 - a) le elezioni e votazioni in affari cantonali e regionali;
 - b) l'esercizio del diritto di referendum e di iniziativa in affari cantonali;
-- c) l'esercizio del diritto di iniziativa in affari regionali e comunali.
+- c) l'esercizio del diritto di iniziativa in affari regionali e comunali;
+- d) il voto elettronico in caso di chiamate alle urne in affari federali, cantonali, regionali e comunali;
+- e) la procedura di annuncio per elezioni svolte alle urne secondo il sistema maggioritario a livello cantonale, regionale e comunale.
 
 <sup>1<sup>bis</sup></sup> Sono fatte salve le prescrizioni particolari concernenti l'elezione del Gran Consiglio secondo il sistema proporzionale contenute nella legge sull'elezione del Gran Consiglio.
 
 <sup>2</sup> La legge è applicabile alle votazioni federali e alle elezioni del Consiglio nazionale, nonché all'esercizio del diritto di referendum e di iniziativa in affari federali, nella misura in cui il diritto federale lasci ai Cantoni la facoltà di regolare la procedura.
 
-<sup>3</sup> La legge si applica per analogia alle votazioni ed elezioni in affari comunali, per quanto il diritto comunale non preveda disposizioni al riguardo.
+<sup>3</sup> Per il resto, la legge si applica per analogia a votazioni ed elezioni in affari comunali, per quanto il diritto comunale non preveda disposizioni al riguardo.
 
 #### Art. 2
 
@@ -208,7 +210,7 @@ decide:
 
 **Secondo turno elettorale**
 
-<sup>1</sup> Un eventuale secondo turno elettorale deve essere effettuato al più tardi tre settimane dopo il primo turno.
+<sup>1</sup> Un eventuale secondo turno elettorale deve essere svolto al più tardi nove settimane dopo il primo turno.
 
 #### Art. 19
 
@@ -216,31 +218,42 @@ decide:
 
 <sup>1</sup> Per ragioni importanti il Governo può decretare nel singolo caso deroghe ai termini suddetti.
 
-### 2.2.a Elezione tacita dei membri dei tribunali regionali
+### 2.2.a Procedura di annuncio per elezioni svolte alle urne secondo il sistema maggioritario
 
 #### Art. 19a
 
-**Campo d'applicazione**
+**Principio**
 
-<sup>1</sup> Per le elezioni di rinnovo e per le elezioni suppletive per i membri dei tribunali regionali è possibile un'elezione tacita nel primo e in un eventuale secondo turno elettorale.
+<sup>1</sup> Per tutte le elezioni cantonali e regionali alle urne (elezioni alle urne) è prevista una procedura di annuncio.
+
+<sup>2</sup> Per le elezioni comunali alle urne è prevista una procedura di annuncio se per queste il comune ha introdotto il voto elettronico.
+
+<sup>3</sup> Sono eleggibili soltanto le persone il cui nome figura su proposte di candidatura valide.
 
 #### Art. 19b
 
 **Elezioni di rinnovo 1. Invito**
 
-<sup>1</sup> La commissione amministrativa del tribunale regionale competente pubblica l'invito all'inoltro di proposte di candidatura nei mezzi di pubblicazione usuali del luogo entro il quattordicesimo lunedì precedente il giorno dell'elezione.
+<sup>1</sup> Entro il quattordicesimo lunedì precedente la data dell'elezione deve essere pubblicato l'invito all'inoltro di proposte di candidatura:
 
-<sup>2</sup> Questo contiene segnatamente:
+- a) in caso di elezioni cantonali da parte della Cancelleria dello Stato;
+- b) …
+- c) in caso di elezioni dei tribunali regionali da parte delle commissioni amministrative dei tribunali regionali;
+- d) in caso di elezioni comunali da parte delle cancellerie comunali.
+
+<sup>2</sup> L'invito comprende:
 
 - a) il luogo e il termine per l'inoltro di proposte di candidatura;
 - b) la data di un eventuale secondo turno elettorale;
 - c) il luogo e il termine per l'inoltro di proposte di candidatura per un secondo turno elettorale.
 
+<sup>3</sup> In caso di elezioni cantonali e regionali l'invito viene pubblicato sul Foglio ufficiale cantonale, in caso di elezioni comunali nelle forme usuali del luogo.
+
 #### Art. 19c
 
 **2. Procedura di annuncio a) Proposte di candidatura**
 
-<sup>1</sup> La proposta di candidatura può contenere al massimo un numero di nomi di persone eleggibili pari al numero di seggi da assegnare e non può contenere lo stesso nome più di una volta.
+<sup>1</sup> La proposta di candidatura può contenere al massimo un numero di nomi di persone eleggibili pari al numero di seggi da assegnare e non può contenere lo stesso nome più di una volta. Altre proposte di candidatura per le stesse persone sono nulle.
 
 <sup>2</sup> La proposta di candidatura deve indicare il cognome e il nome, la data di nascita e l'indirizzo della persona proposta.
 
@@ -250,7 +263,11 @@ decide:
 
 **b) Sottoscrizione**
 
-<sup>1</sup> Ogni proposta di candidatura deve essere firmata di proprio pugno da cinque aventi diritto di voto domiciliati nel circondario elettorale.
+<sup>1</sup> Ogni proposta di candidatura deve recare la firma autografa di aventi diritto di voto con domicilio politico nel circondario elettorale:
+
+- a) in caso di elezioni cantonali di almeno 20 aventi diritto di voto;
+- b) in caso di elezioni regionali di almeno 10 aventi diritto di voto;
+- c) in caso di elezioni comunali di almeno 5 aventi diritto di voto.
 
 <sup>2</sup> Una persona avente diritto di voto non è autorizzata a firmare più di una proposta di candidatura. Una volta inoltrata la proposta di candidatura, la firma non può più essere ritirata.
 
@@ -260,7 +277,12 @@ decide:
 
 **c) Inoltro**
 
-<sup>1</sup> Le proposte di candidatura devono pervenire al tribunale regionale competente entro l'ottavo lunedì precedente il giorno dell'elezione.
+<sup>1</sup> Le proposte di candidatura devono pervenire entro il nono lunedì precedente la data dell'elezione:
+
+- a) alla Cancelleria dello Stato, in caso di elezioni cantonali;
+- b) …
+- c) alla commissione amministrativa competente, in caso di elezioni dei tribunali regionali;
+- d) alla cancelleria comunale competente, in caso di elezioni comunali.
 
 <sup>2</sup> Le proposte di candidatura inoltrate dopo questo termine non entrano in considerazione.
 
@@ -268,7 +290,7 @@ decide:
 
 **d) Correzione**
 
-<sup>1</sup> La commissione amministrativa del tribunale regionale competente verifica progressivamente le proposte di candidatura pervenute riguardo ai requisiti formali, all'eleggibilità dei candidati e alla validità delle firme.
+<sup>1</sup> L'autorità competente per la ricezione delle proposte di candidatura verifica le proposte di candidatura man mano che pervengono riguardo ai requisiti formali, all'eleggibilità dei candidati e alla validità delle firme.
 
 <sup>2</sup> In caso di vizi, al rappresentante della proposta di candidatura viene fissato immediatamente un breve termine per l'eliminazione degli stessi.
 
@@ -278,33 +300,57 @@ decide:
 
 #### Art. 19g
 
-**e) Pubblicazione**
+**e) Ritiro**
 
-<sup>1</sup> La commissione amministrativa del tribunale regionale competente pubblica i nomi dei candidati nei mezzi di pubblicazione usuali del luogo.
+<sup>1</sup> Ritiri di proposte di candidatura devono pervenire all'autorità competente per la ricezione delle proposte di candidatura entro il nono venerdì precedente la data dell'elezione.
+
+<sup>2</sup> La persona proposta deve acconsentire per iscritto al ritiro della candidatura.
 
 #### Art. 19h
 
-**3. Applicazione**
+**f) Pubblicazione**
 
-<sup>1</sup> Si procede a un'elezione tacita quando il numero delle persone validamente proposte corrisponde al numero di seggi da assegnare. In caso contrario si procede a un'elezione pubblica aperta.
+<sup>1</sup> Immediatamente dopo la scadenza del termine di ritiro, l'autorità competente per la ricezione delle proposte di candidatura pubblica i nomi dei candidati sul Foglio ufficiale cantonale in caso di elezioni cantonali e regionali, nelle forme usuali del luogo in caso di elezioni comunali.
 
-<sup>2</sup> La commissione amministrativa del tribunale regionale competente decide senza indugio in merito all'applicazione dell'elezione tacita e pubblica la decisione nel Foglio ufficiale cantonale e nei mezzi di pubblicazione usuali del luogo.
+<sup>2</sup> …
 
 #### Art. 19i
 
-**4. Secondo turno elettorale**
+**3. Secondo turno elettorale**
 
-<sup>1</sup> Le proposte di candidatura possono essere inoltrate al tribunale regionale entro tre giorni dopo il primo turno elettorale. Il secondo turno elettorale è aperto.
+<sup>1</sup> Le proposte di candidatura devono pervenire all'autorità competente per la ricezione delle proposte di candidatura al più tardi il settimo giorno dopo il primo turno. Sono ammesse nuove candidature.
 
-<sup>2</sup> Per l'ulteriore procedura fanno stato gli articoli 19c-19h.
+<sup>2</sup> Per l'ulteriore procedura fanno stato per analogia gli articoli 19c-19f e l'articolo 19h.
 
 #### Art. 19j
 
 **Elezioni suppletive**
 
-<sup>1</sup> In caso di elezione suppletiva, la commissione amministrativa del tribunale regionale competente fissa, in osservanza dell'articolo 17 capoverso 1, il termine per l'inoltro delle proposte di candidatura.
+<sup>1</sup> In caso di elezione suppletiva, la procedura si conforma agli articoli 19b-19i. L'autorità competente per la ricezione delle proposte di candidatura fissa, in osservanza dell'articolo 17 capoverso 1, il termine per la pubblicazione dell'invito all'inoltro delle proposte di candidatura.
 
-<sup>2</sup> Per l'ulteriore procedura fanno stato gli articoli 19b-19i.
+<sup>2</sup> …
+
+### 2.2.b Elezione tacita dei membri dei tribunali regionali
+
+#### Art. 19k
+
+**Campo d'applicazione**
+
+<sup>1</sup> Per le elezioni di rinnovo e per le elezioni suppletive per i membri dei tribunali regionali è possibile un'elezione tacita nel primo e in un eventuale secondo turno elettorale.
+
+#### Art. 19l
+
+**Procedura**
+
+<sup>1</sup> In caso di elezioni per il rinnovo, la procedura si conforma agli articoli 19b-19i e in caso di elezioni suppletive all'articolo 19j.
+
+#### Art. 19m
+
+**Applicazione**
+
+<sup>1</sup> Si procede a un'elezione tacita quando il numero delle persone validamente proposte corrisponde al numero di seggi da assegnare. In caso contrario si procede a un'elezione pubblica.
+
+<sup>2</sup> La commissione amministrativa del tribunale regionale competente decide senza indugio in merito all'applicazione dell'elezione tacita e pubblica la decisione nel Foglio ufficiale cantonale e nei mezzi di pubblicazione usuali del luogo.
 
 ### 2.3. Materiale elettorale e di voto
 
@@ -360,7 +406,7 @@ decide:
 
 <sup>2</sup> Gli aventi diritto di voto che per invalidità o altre ragioni sono durevolmente impossibilitati a svolgere personalmente le necessarie operazioni di voto, possono autorizzare una persona avente diritto di voto a loro scelta.
 
-<sup>3</sup> Il Governo può autorizzare totalmente o parzialmente il voto elettronico nella misura in cui siano soddisfatte le condizioni necessarie per il rilevamento di tutti i voti, nonché per la garanzia del segreto di voto e l'esclusione di abusi.
+<sup>3</sup> Il voto elettronico si conforma agli articoli 30a segg.
 
 #### Art. 26
 
@@ -369,6 +415,12 @@ decide:
 <sup>1</sup> Qualora sia prevista la votazione alle urne, l'esercizio del diritto di voto si conforma all'articolo 25.
 
 <sup>2</sup> In caso contrario l'esercizio del diritto di voto avviene nei comuni.
+
+#### Art. 26a
+
+**3. In affari comunali**
+
+<sup>1</sup> Qualora sia prevista la votazione alle urne, l'esercizio del diritto di voto si conforma all'articolo 25.
 
 #### Art. 26b
 
@@ -405,6 +457,61 @@ decide:
 **Locali di voto**
 
 <sup>1</sup> Il locale di voto non può essere utilizzato contemporaneamente per altri scopi. Anche gli accessi al locale di voto non possono essere ostacolati da altre operazioni o altri eventi. In particolare è vietata la raccolta di firme.
+
+### 2.4.a Voto elettronico
+
+#### Art. 30a
+
+**Principio**
+
+<sup>1</sup> Il voto può essere espresso in forma elettronica se sono soddisfatti i presupposti tecnici e organizzativi per uno svolgimento conforme alle prescrizioni di legge.
+
+<sup>2</sup> Il Governo può limitare l'esercizio del voto elettronico a luoghi, date e oggetti determinati.
+
+<sup>3</sup> I comuni decidono se e in quale misura avvalersi della possibilità di introdurre il voto elettronico. La decisione spetta al municipio.
+
+<sup>4</sup> Il Cantone può erogare contributi una tantum per gli adeguamenti necessari del loro software ai comuni che introducono il voto elettronico.
+
+#### Art. 30b
+
+**Regioni e comuni**
+
+<sup>1</sup> Per chiamate alle urne regionali o comunali, il voto elettronico è di norma possibile nelle date di votazione in bianco della Confederazione e al massimo in due date supplementari.
+
+<sup>2</sup> In caso di chiamate alle urne regionali che si tengono in concomitanza con chiamate alle urne federali, cantonali o comunali, le regioni con comuni che hanno introdotto il voto elettronico devono rendere possibile il voto elettronico.
+
+<sup>3</sup> I comuni che hanno introdotto il voto elettronico soltanto per le chiamate alle urne sovracomunali non possono svolgere le proprie chiamate alle urne comunali in concomitanza con le chiamate alle urne federali, cantonali o regionali.
+
+#### Art. 30c
+
+**Annuncio e revoca, effetti**
+
+<sup>1</sup> Gli aventi diritto di voto che in occasione di votazioni o elezioni intendono esprimere il proprio voto in forma elettronica devono annunciarsi per il voto elettronico.
+
+<sup>2</sup> È possibile annunciarsi e comunicare la revoca prima di ogni chiamata alle urne.
+
+<sup>3</sup> Gli aventi diritto di voto annunciati ricevono il materiale elettorale e di voto esclusivamente in forma elettronica, qualora siano soddisfatti i presupposti tecnici e organizzativi per il voto elettronico senza carta. Durante una fase transitoria essi ricevono una carta di legittimazione speciale.
+
+<sup>4</sup> Gli aventi diritto di voto annunciati possono esprimere il proprio voto tramite le altre forme di espressione del voto (per corrispondenza o alle urne) solo in casi eccezionali.
+
+<sup>5</sup> Il Governo disciplina gli ulteriori dettagli in un'ordinanza.
+
+#### Art. 30d
+
+**Voto nullo**
+
+<sup>1</sup> Il voto elettronico è nullo se esso:
+
+- a) non avviene nella forma e con la codifica previste;
+- b) non perviene entro la chiusura dell'urna elettronica;
+- c) non può essere decodificato e letto;
+- d) è avvenuto abusivamente.
+
+#### Art. 30e
+
+**Verifica**
+
+<sup>1</sup> Il Governo provvede affinché la determinazione dei risultati di qualsiasi chiamata alle urne venga verificata da organi indipendenti.
 
 ### 2.5. Determinazione del risultato dell'elezione e della votazione
 

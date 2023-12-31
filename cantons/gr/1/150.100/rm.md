@@ -4,13 +4,13 @@ number: "150.100"
 title: Lescha davart ils dretgs politics en il chantun Grischun
 short: LDPC
 language: rm
-version: 2022-06-01
-valid_until: 2023-12-31
-version_adopted: 2021-12-08
+version: 2024-01-01
+valid_until: 2024-12-31
+version_adopted: 2021-02-16
 adopted: 2005-06-17
 in_force: 2006-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/150.100"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3244/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3334/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3244/pdf_file"
 
 (LDPC)
 
-dals 17-06-2005 (versiun dals 01-06-2022)
+dals 17-06-2005 (versiun dals 01-01-2024)
 
 Il cussegl grond dal chantun Grischun[^ingress-1],
 
@@ -45,13 +45,15 @@ concluda:
 
 - a) las elecziuns e las votaziuns en chaussas chantunalas e regiunalas;
 - b) il diever dal dretg da referendum e d'iniziativa en chaussas chantunalas;
-- c) il diever dal dretg d'iniziativa en chaussas regiunalas e communalas.
+- c) il diever dal dretg d'iniziativa en chaussas regiunalas e communalas;
+- d) la votaziun electronica en cas da votaziuns en chaussas federalas, chantunalas, regiunalas e communalas;
+- e) la procedura d'annunzia per elecziuns da maiorz a l'urna sin plaun chantunal, regiunal e communal.
 
 <sup>1<sup>bis</sup></sup> Resalvadas restan las prescripziuns spezialas davart l'elecziun da proporz dal Cussegl grond en la Lescha davart l'elecziun dal Cussegl grond.
 
 <sup>2</sup> Per las votaziuns federalas e per las elecziuns dal cussegl naziunal sco er per il diever dal dretg da referendum e d'iniziativa en chaussas federalas po la lescha vegnir applitgada, uschenavant ch'il dretg federal surlascha als chantuns da reglar la procedura.
 
-<sup>3</sup> Confurm al senn vegn la lescha applitgada per votaziuns e per elecziuns en chaussas communalas, uschenavant ch'il dretg communal na dispona nagut.
+<sup>3</sup> Dal rest vegn la lescha applitgada confurm al senn per votaziuns e per elecziuns en chaussas communalas, uschenavant ch'il dretg communal na dispona nagut.
 
 #### Art. 2
 
@@ -208,7 +210,7 @@ concluda:
 
 **Segund scrutini**
 
-<sup>1</sup> In eventual segund scrutini sto vegnir fatg fin il pli tard trais emnas suenter l'emprim scrutini.
+<sup>1</sup> In eventual segund scrutini sto avair lieu fin il pli tard nov emnas suenter l'emprim scrutini.
 
 #### Art. 19
 
@@ -216,31 +218,42 @@ concluda:
 
 <sup>1</sup> Per motivs impurtants po la regenza concluder en il cas singul divergenzas dals termins d'elecziun qua survart.
 
-### 2.2.a Elecziun taciturna da las commembras e dals commembers da las dretgiras regiunalas
+### 2.2.a Procedura d'annunzia per elecziuns da maiorz a l'urna
 
 #### Art. 19a
 
-**Dimensiun**
+**Princip**
 
-<sup>1</sup> En cas d'elecziuns da renovaziun ed en cas d'elecziuns substitutivas da las commembras e dals commembers da las dretgiras regiunalas è pussaivla in'elecziun taciturna en l'emprim ed en il segund scrutini.
+<sup>1</sup> Per tut las elecziuns chantunalas e regiunalas a l'urna (elecziuns a l'urna) vala ina procedura d'annunzia.
+
+<sup>2</sup> Per elecziuns communalas a l'urna vala ina procedura d'annunzia, sche la vischnanca ha introducì la votaziun electronica per quest intent.
+
+<sup>3</sup> Elegiblas èn mintgamai mo persunas ch'èn vegnidas proponidas valaivlamain.
 
 #### Art. 19b
 
 **Elecziuns da renovaziun 1. invit**
 
-<sup>1</sup> Fin il pli tard il 14avel glindesdi avant il di d'elecziun publitgescha la cumissiun administrativa da la dretgira regiunala cumpetenta – en la moda ch'è usitada al lieu – l'invit d'inoltrar propostas electoralas.
+<sup>1</sup> Fin il pli tard il 14avel glindesdi avant il di d'elecziun sto vegnir publitgà l'invit d'inoltrar propostas electoralas:
 
-<sup>2</sup> Quest invit cuntegna en spezial:
+- a) per elecziuns chantunalas tras la chanzlia chantunala;
+- b) …
+- c) per elecziuns da las dretgiras regiunalas tras las cumissiuns administrativas da las dretgiras regiunalas;
+- d) per elecziuns communalas tras las chanzlias communalas.
+
+<sup>2</sup> L'invit cuntegna:
 
 - a) il lieu ed il termin per inoltrar propostas electoralas;
 - b) la data d'in segund scrutini;
 - c) il lieu ed il termin per inoltrar propostas electoralas per in segund scrutini.
 
+<sup>3</sup> Per elecziuns chantunalas e regiunalas vegn l'invit publitgà en il fegl uffizial dal chantun, per elecziuns communalas en la moda usitada al lieu.
+
 #### Art. 19c
 
 **2. procedura d'annunzia a) propostas electoralas**
 
-<sup>1</sup> La proposta electorala dastga cuntegnair maximalmain tants nums da persunas elegiblas sco quai ch'i stattan a disposiziun mandats, e nagins nums dapli ch'ina giada.
+<sup>1</sup> La proposta electorala dastga cuntegnair maximalmain tants nums da persunas elegiblas sco quai ch'i stattan a disposiziun sezs, e nagins nums dapli ch'ina giada. Ulteriuras propostas electoralas per las medemas persunas èn nunvalaivlas.
 
 <sup>2</sup> La proposta electorala sto inditgar il num da famiglia, il prenum, la data da naschientscha e l'adressa da domicil da las persunas proponidas.
 
@@ -250,7 +263,11 @@ concluda:
 
 **b) suttascripziun**
 
-<sup>1</sup> Mintga proposta electorala sto vegnir suttascritta a maun, e quai da tschintg persunas cun dretg da votar che abitan en il circul electoral.
+<sup>1</sup> Mintga proposta electorala sto esser suttascritta a maun da persunas cun dretg da votar che han lur domicil politic en il circul electoral:
+
+- a) per elecziuns chantunalas d'almain 20 persunas cun dretg da votar;
+- b) per elecziuns regiunalas d'almain 10 persunas cun dretg da votar;
+- c) per elecziuns communalas d'almain 5 persunas cun dretg da votar.
 
 <sup>2</sup> Ina persuna cun dretg da votar na dastga betg suttascriver dapli ch'ina proposta electorala. Suenter l'inoltraziun da la proposta na po la suttascripziun betg pli vegnir retratga.
 
@@ -260,7 +277,12 @@ concluda:
 
 **c) inoltraziun**
 
-<sup>1</sup> Las propostas electoralas ston arrivar tar la dretgira regiunala cumpetenta fin il pli tard l'otgavel glindesdi avant il di d'elecziun.
+<sup>1</sup> Las propostas electoralas ston arrivar fin il pli tard il novavel glindesdi avant il di d'elecziun:
+
+- a) per elecziuns chantunalas tar la chanzlia chantunala;
+- b) …
+- c) per elecziuns da las dretgiras regiunalas tar la cumissiun administrativa cumpetenta;
+- d) per elecziuns communalas tar la chanzlia communala.
 
 <sup>2</sup> Propostas electoralas che vegnan inoltradas suenter quest termin na vegnan betg en consideraziun.
 
@@ -268,7 +290,7 @@ concluda:
 
 **d) rectificaziun**
 
-<sup>1</sup> La cumissiun administrativa da la dretgira regiunala cumpetenta controllescha cuntinuadamain che las propostas electoralas inoltradas adempleschian las pretensiuns formalas, che las candidatas ed ils candidats sajan elegibels e che las suttascripziuns sajan valaivlas.
+<sup>1</sup> L'instanza d'inoltraziun controllescha cuntinuadamain che las propostas electoralas inoltradas adempleschian las pretensiuns formalas, che las candidatas ed ils candidats sajan elegibels e che las suttascripziuns sajan valaivlas.
 
 <sup>2</sup> En cas da mancanzas vegn fixà immediatamain in curt termin per la represchentanza da la proposta electorala, per ch'ella possia eliminar las mancanzas.
 
@@ -278,33 +300,57 @@ concluda:
 
 #### Art. 19g
 
-**e) publicaziun**
+**e) retratga**
 
-<sup>1</sup> La cumissiun administrativa da la dretgira regiunala cumpetenta publitgescha ils nums da las candidatas e dals candidats en la moda ch'è usitada al lieu.
+<sup>1</sup> Retratgas da propostas electoralas ston arrivar tar l'instanza d'inoltraziun fin il pli tard il novavel venderdi avant il di d'elecziun.
+
+<sup>2</sup> La persuna proponida sto dar ses consentiment en scrit a la retratga.
 
 #### Art. 19h
 
-**3. realisaziun**
+**f) publicaziun**
 
-<sup>1</sup> In'elecziun taciturna ha lieu, sch'il dumber da persunas proponidas valaivlamain correspunda al dumber da mandats che stattan a disposiziun. Cas cuntrari ha lieu in scrutini public liber.
+<sup>1</sup> Immediatamain suenter la scadenza dal termin da retratga publitgescha l'instanza d'inoltraziun ils nums da las candidatas e dals candidats en cas d'elecziuns chantunalas e regiunalas en il fegl uffizial dal chantun, en cas d'elecziuns communalas en la moda usitada al lieu.
 
-<sup>2</sup> La cumissiun administrativa da la dretgira regiunala cumpetenta decida immediatamain, sche l'elecziun taciturna ha lieu, e publitgescha questa decisiun en il fegl uffizial dal chantun sco er en la moda ch'è usitada al lieu.
+<sup>2</sup> …
 
 #### Art. 19i
 
-**4. segund scrutini**
+**3. segund scrutini**
 
-<sup>1</sup> Propostas electoralas pon vegnir inoltradas a la dretgira regiunala entaifer 3 dis suenter l'emprim scrutini. Il segund scrutini è liber.
+<sup>1</sup> Las propostas electoralas ston arrivar tar l'instanza d'inoltraziun fin il pli tard il settavel di suenter l'emprim scrutini. Novas candidaturas èn admessas.
 
-<sup>2</sup> Per l'ulteriura procedura valan ils artitgels 19c fin 19h.
+<sup>2</sup> Per l'ulteriura procedura valan ils artitgels 19c fin 19f e 19h confurm al senn.
 
 #### Art. 19j
 
 **Elecziuns substitutivas**
 
-<sup>1</sup> En cas d'ina elecziun substitutiva fixescha la cumissiun administrativa da la dretgira regiunala cumpetenta il termin per inoltrar propostas electoralas, observond l'artitgel 17 alinea 1.
+<sup>1</sup> En cas d'ina elecziun substitutiva sa drizza la procedura tenor ils artitgels 19b fin 19i. Observond l'artitgel 17 alinea 1 fixescha l'instanza d'inoltraziun la data per la publicaziun da l'invit d'inoltrar propostas electoralas.
 
-<sup>2</sup> Per l'ulteriura procedura valan ils artitgels 19b fin 19i.
+<sup>2</sup> …
+
+### 2.2.b Elecziun taciturna da las commembras e dals commembers da las dretgiras regiunalas
+
+#### Art. 19k
+
+**Dimensiun**
+
+<sup>1</sup> En cas d'elecziuns da renovaziun ed en cas d'elecziuns substitutivas da las commembras e dals commembers da las dretgiras regiunalas è pussaivla in'elecziun taciturna en l'emprim ed en il segund scrutini.
+
+#### Art. 19l
+
+**Procedura**
+
+<sup>1</sup> En cas d'elecziuns da renovaziun sa drizza la procedura tenor ils artitgels 19b fin 19i, en cas d'elecziuns substitutivas tenor l'artitgel 19j.
+
+#### Art. 19m
+
+**Realisaziun**
+
+<sup>1</sup> In'elecziun taciturna ha lieu, sch'il dumber da persunas proponidas valaivlamain correspunda al dumber da sezs che stattan a disposiziun. Cas cuntrari ha lieu in scrutini public.
+
+<sup>2</sup> La cumissiun administrativa da la dretgira regiunala cumpetenta decida immediatamain, sche l'elecziun taciturna ha lieu, e publitgescha questa decisiun en il fegl uffizial dal chantun sco er en la moda usitada al lieu.
 
 ### 2.3. Documents d'elecziun e da votaziun
 
@@ -360,7 +406,7 @@ concluda:
 
 <sup>2</sup> Persunas cun dretg da votar che n'èn permanentamain betg ablas, pervia d'invaliditad u per in auter motiv, da far sezzas las acziuns necessarias per la votaziun, pon autorisar per quest intent ina persuna cun dretg da votar tenor atgna schelta.
 
-<sup>3</sup> La regenza po pussibilitar cumplainamain u parzialmain la votaziun sin via electronica, sche las cundiziuns necessarias per registrar tut las vuschs sco er per garantir il secret da votaziun e per impedir abus èn ademplidas.
+<sup>3</sup> La votaziun electronica sa drizza tenor ils artitgels 30a ss.
 
 #### Art. 26
 
@@ -369,6 +415,12 @@ concluda:
 <sup>1</sup> Uschenavant che la votaziun a l'urna è previsa, sa drizza la votaziun tenor l'artitgel 25.
 
 <sup>2</sup> Cas cuntrari ha la votaziun lieu en las vischnancas.
+
+#### Art. 26a
+
+**3. en chaussas communalas**
+
+<sup>1</sup> Uschenavant che la votaziun a l'urna è previsa, sa drizza la votaziun tenor l'artitgel 25.
 
 #### Art. 26b
 
@@ -405,6 +457,61 @@ concluda:
 **Locals da votaziun**
 
 <sup>1</sup> Il local da votaziun na dastga betg vegnir duvrà a medem temp per auters intents. Medemamain na dastgan ils access al local da votaziun betg vegnir impedids tras autras acziuns u occurrenzas. En spezial èsi scumandà da rimnar suttascripziuns.
+
+### 2.4.a Votaziun electronica
+
+#### Art. 30a
+
+**Princip**
+
+<sup>1</sup> La votaziun po avair lieu sin via electronica, sche las premissas tecnicas ed organisatoricas èn ademplidas per realisar la votaziun electronica confurm a la lescha.
+
+<sup>2</sup> La regenza po restrenscher l'applicaziun da la votaziun electronica areguard il lieu, il temp e la materia.
+
+<sup>3</sup> Las vischnancas decidan, sche ed en tge dimensiun ch'ellas fan diever da la pussaivladad d'introducir la votaziun electronica. La decisiun è chaussa da la suprastanza communala.
+
+<sup>4</sup> A vischnancas che introduceschan la votaziun electronica po il chantun pajar contribuziuns unicas per las adattaziuns necessarias da lur software.
+
+#### Art. 30b
+
+**Regiuns e vischnancas**
+
+<sup>1</sup> Per votaziuns regiunalas u communalas è la votaziun electronica per regla pussaivla als termins da votaziun fixads da la confederaziun ed a maximalmain dus termins supplementars.
+
+<sup>2</sup> Regiuns cun vischnancas che han introducì la votaziun electronica ston pussibilitar la votaziun electronica tar votaziuns regiunalas che han lieu a medem temp sco votaziuns federalas, chantunalas u communalas.
+
+<sup>3</sup> Vischnancas che han introducì la votaziun electronica mo per las votaziuns surcommunalas na dastgan betg realisar lur votaziuns communalas a medem temp sco votaziuns federalas, chantunalas u regiunalas.
+
+#### Art. 30c
+
+**Annunzia e desditga, effects**
+
+<sup>1</sup> Persunas cun dretg da votar che vulessan votar u eleger sin via electronica, ston s'annunziar per la votaziun electronica.
+
+<sup>2</sup> Annunzias e desditgas èn pussaivlas avant mintga votaziun.
+
+<sup>3</sup> A las persunas cun dretg da votar annunziadas vegn il material d'elecziun e da votaziun mess a disposiziun unicamain sin via electronica, sche las premissas tecnicas ed organisatoricas per il e-voting senza palpiri èn ademplidas. Durant ina fasa transitorica survegnan ellas in attest da votar spezial.
+
+<sup>4</sup> A las persunas cun dretg da votar annunziadas stattan las ulteriuras furmas da votaziun (per correspundenza u a l'urna) a disposiziun mo en cas excepziunals.
+
+<sup>5</sup> Ils detagls vegnan fixads da la regenza en in'ordinaziun.
+
+#### Art. 30d
+
+**Votaziun nunvalaivla**
+
+<sup>1</sup> La votaziun electronica n'è betg valaivla, sch'ella:
+
+- a) n'ha betg lieu en la furma previsa e cun la codaziun previsa;
+- b) n'arriva betg fin che l'urna electronica vegn serrada;
+- c) na po betg vegnir decodada e legida;
+- d) ha gì lieu en moda abusiva.
+
+#### Art. 30e
+
+**Verificaziun**
+
+<sup>1</sup> La regenza procura che l'eruida dal resultat vegnia verifitgada a chaschun da mintga votaziun tras posts independents.
 
 ### 2.5. Eruida dal resultat da l'elecziun e da la votaziun
 
