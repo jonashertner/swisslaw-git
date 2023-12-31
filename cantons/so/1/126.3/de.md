@@ -4,13 +4,13 @@ number: "126.3"
 title: Gesamtarbeitsvertrag
 short: GAV
 language: de
-version: 2023-12-01
-valid_until: 2023-12-31
-version_adopted: 2023-11-20
+version: 2024-01-01
+valid_until: 2024-12-31
+version_adopted: 2024-04-02
 adopted: 2004-10-25
 in_force: 2005-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/126.3"
-pdf: "https://bgs.so.ch/api/de/versions/5413/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5446/pdf_file"
 text: pdf
 ---
 
@@ -18,7 +18,7 @@ text: pdf
 
 # Gesamtarbeitsvertrag (GAV)
 
-vom 25. Oktober 2004 (Stand 1. Dezember 2023)
+vom 25. Oktober 2004 (Stand 1. Januar 2024)
 
 zwischen dem Kanton Solothurn vertreten durch den Regierungsrat
 
@@ -263,13 +263,15 @@ Alle Arbeitnehmenden haben jederzeit das Recht, bei betrieblichen Auseinanderset
 
 **Solidaritätsbeitrag (§ 45<sup>bis</sup> StPG)**
 
-<sup>1</sup> Alle diesem GAV unterstellten Arbeitnehmenden bezahlen einen monatlichen Solidaritätsbeitrag von 5 Franken.
+<sup>1</sup> Alle diesem GAV unterstellten Arbeitnehmenden bezahlen einen monatlichen Solidaritätsbeitrag von 4 Franken.[^16-1]
 
 <sup>2</sup> Praktikantinnen und Praktikanten sind von der Bezahlung des Solidaritätsbeitrages befreit.
 
 <sup>3</sup> Die Einzelheiten über den Einzug und die Verwendung der Solidaritätsbeiträge sind in § 25ff. (Anhang 1 SB) GAV geregelt.
 
 - 8\. Lohnverhandlungen
+
+[^16-1]: § 16 Absatz 1 Satz Fassung vom 4. Juli 2023.
 
 #### § 17
 
@@ -1883,18 +1885,23 @@ Der oder die Arbeitnehmende kann ausnahmsweise in einer tieferen Lohnklasse (Ein
 1.4. Vergütung für inkonveniente Dienste
 
 [^140-1]: § 140 Absatz 1 Fassung vom 8. Juni 2010.
+[^140-2]: § 141 Fassung vom 2. April 2024.
 
 #### § 141
 
-**Geltungsbereich**
+**Geltungsbereich**[^140-2]
 
-Die nachfolgenden Bestimmungen gelten für Arbeitnehmende, die:
+<sup>1</sup> Die nachfolgenden Bestimmungen gelten für Arbeitnehmende, die:
 
 - a) nach Dienstplan an Werktagen zwischen 19.00 und 7.00 Uhr oder am Samstag, am Sonntag oder an Feiertagen arbeiten;
 
 - b) ohne Dienstplan (SOJAZ) auf spezielle Anordnung hin am Sonntag oder an Feiertagen arbeiten;
 
-- c) im Bereitschaftsdienst (Pikett- oder Präsenzdienst) arbeiten.
+- c) im Bereitschaftsdienst (Pikett- oder Präsenzdienst) arbeiten;
+
+- d) Einsätze aus ihrer Freizeit in Folge von Spontanereignissen oder Spontanfällen leisten.
+
+<sup>2</sup> Lehrpersonen sind vom Geltungsbereich ausgenommen.
 
 #### § 142
 
@@ -1902,31 +1909,42 @@ Die nachfolgenden Bestimmungen gelten für Arbeitnehmende, die:
 
 Für angeordnete Einsätze von Arbeitnehmenden ohne Dienstplan (SOJAZ) zwischen 19.30 und 6.30 Uhr oder am Samstag kann die Anstellungsbehörde bei besonderen Fällen eine Vergütung für inkonveniente Dienste (nach § 143 ff. GAV) bewilligen.
 
+§ 142<sup>bis</sup>.[^142-1] Geldzulage für Spontanereignis Mitarbeitende ohne Bereitschaftsdienst (Pikett- oder Präsenzdienst), die aufgrund eines unvorhergesehenen und unaufschiebbaren Falles oder Ereignisses aus ihrer Freizeit auf Abruf in den Einsatz gelangen, haben Anspruch auf eine Zulage von 200 Franken pro Einsatz.
+
+§ 142<sup>ter</sup>.[^142-2] Geldzulage für Spontanfall Mitarbeitende ohne Bereitschaftsdienst (Pikett- oder Präsenzdienst), die aufgrund ihrer Spezialfunktion (Fachspezialisten und Fachspezialistinnen) regelmässig für Fall-Einsätze aus ihrer Freizeit aufgeboten werden, haben Anspruch auf eine monatliche Zulage von 200 Franken.
+
+[^142-1]: § 142bis eingefügt am 2. April 2024.
+[^142-2]: § 142ter eingefügt am 2. April 2024.
+
 #### § 143
 
 **Zeitzuschlag**
 
 Für Arbeit, die zwischen 23.00 und 06.00 Uhr geleistet wird, wird ein Zeitzuschlag von 20% gewährt.
 
+[^143-1]: § 144 Fassung vom 2. April 2024.
+
 #### § 144
 
-**Geldzulage für Arbeit**
+**Geldzulage für Arbeit**[^143-1]
 
-Es besteht Anspruch auf eine Zulage von 6 Franken pro Stunde für Arbeiten:
+Es besteht Anspruch auf eine Zulage von 6.50 Franken pro Stunde für Arbeiten:
 
 - a) von Montag bis Freitag zwischen 19.00 und 7.00 Uhr;
 
 - b) am Samstag, am Sonntag und an Feiertagen rund um die Uhr.
 
+[^144-1]: § 145 Fassung vom 2. April 2024.
+
 #### § 145
 
-**Geldzulage für das Bereithalten**
+**Geldzulage für das Bereithalten**[^144-1]
 
 Die Zulage für Bereitschaftsdienst beträgt während der gesamten Dauer:
 
-- a) des Präsenzdienstes 6 Franken pro Stunde;
+- a) des Präsenzdienstes 6.50 Franken pro Stunde;
 
-- b) des Pikettdienstes 2.50 Franken pro Stunde.
+- b) des Pikettdienstes 4.50 Franken pro Stunde.
 
 #### § 146
 
@@ -3829,14 +3847,29 @@ Oberärztinnen und –ärzte mit FMH-Titel mit Stellenantritt vor dem 1. Januar 
 
 <sup>2</sup> Mitarbeitende des technischen Dienstes der Spitäler, die bereits vor Inkrafttreten des GAV am 1. Januar 2005 angestellt waren, erhalten für die Leistung von Pikettdienst (§ 146 GAV) weiterhin eine Geldzulage von 6 Franken pro Stunde.
 
+§ 259<sup>quinquies</sup>.[^259-4] Umkleidezeit
+
+<sup>1</sup> Arbeitnehmenden, welchen das Umkleiden am Arbeitsort vom Arbeitgeber vorgeschrieben ist, können zur Kompensation jährlich bis Ende September für das Folgejahr wählen zwischen:
+
+- a) einer Geldzulage von 80.00 Franken pro Kalendermonat; oder
+
+- b) bezahltem Urlaub im Umfang von drei Tagen pro Kalenderjahr. Dieser Urlaub ist im betreffenden Kalenderjahr zu beziehen. Der Arbeitgeber muss den Bezug zulassen, sofern der ordentliche Spitalbetrieb sichergestellt ist. Bei Nichtbezug wird der nicht bezogene Urlaub im Januar des Folgejahres ausbezahlt, wobei ein nicht bezogener Urlaubstag einem Betrag von 320.00 Franken bei einem 100%-Pensum entspricht. Wenn allerdings der Bezug des Urlaubs vom Arbeitgeber mit der Begründung abgelehnt wurde, dass der ordentliche Spitalbetrieb nicht sichergestellt sei, kann der nicht bezogene Urlaub im Folgejahr bezogen werden.
+
+<sup>2</sup> Falls keine rechtzeitige Wahl erfolgt, wird automatisch die Geldzulage ausbezahlt.
+
+<sup>3</sup> Die vorgenannte Geldzulage und die Anzahl Urlaubstage basieren auf einem 100%-Arbeitspensum und werden bei geringerem Arbeitspensum proportional reduziert. Bei unterjährigem Ein- und Austritt sowie bei unbezahltem Urlaub reduzieren sich die bezahlten Urlaubstage pro rata temporis. Hingegen erfolgt keine Reduktion der bezahlten Urlaubstage und die Geldzulage wird in vollem Umfang ausbezahlt für die Zeit der Ferien und nach der Probezeit während krankheits- und unfallbedingter Absenz.
+
+<sup>4</sup> Der Urlaub für Umkleidezeit bleibt für die Berechnung der maximalen Urlaubsdauer (§ 121 GAV) unberücksichtigt.
+
 [^259-1]: § 259bis eingefügt am 31. Januar 2023.
 [^259-2]: § 259ter eingefügt am 31. Januar 2023.
 [^259-3]: § 259quater eingefügt am 31. Januar 2023.
-[^259-4]: § 260 aufgehoben am 31. Januar 2023.
+[^259-4]: § 259quinquies eingefügt am 29. Januar 2024.
+[^259-5]: § 260 aufgehoben am 31. Januar 2023.
 
 #### § 260
 
-**…[^259-4]**
+**…[^259-5]**
 
 - c. Pensionskasse
 
@@ -5259,9 +5292,7 @@ Die formelle Anzeige bei sexueller Belästigung oder Mobbing nach § 221 und 234
 
 <sup>1</sup> § 359 bis 366 GAV (Altersentlastung) treten am 1. Februar 2005 in Kraft.
 
-<sup>2</sup> § 372 bis 375 GAV (Zusatzlektionen) treten am 1. Februar 2005 in Kraft. Die Entschädigung für Zusatzstunden, die vor dem 1. Februar 2005 geleistet worden sind, richtet sich nach den bisher geltenden Bestimmungen (LehrerbesoldungsVO, KRB vom 17. Mai 1995; BGS 126.515.851.11).
-
-§ 383<sup>bis</sup>.[^383-1] Übergangsbestimmung zur Änderung vom 20. Juni 2011 Für Lehrpersonen und Lehrbeauftragte in bereits bestehenden Anstellungsverhältnissen gilt:
+<sup>2</sup> § 372 bis 375 GAV (Zusatzlektionen) treten am 1. Februar 2005 in Kraft. Die Entschädigung für Zusatzstunden, die vor dem 1. Februar 2005 geleistet worden sind, richtet sich nach den bisher geltenden Bestimmungen (LehrerbesoldungsVO, KRB vom 17. Mai 1995; BGS 126.515.851.11). § 383<sup>bis</sup>.[^383-1] Übergangsbestimmung zur Änderung vom 20. Juni 2011 Für Lehrpersonen und Lehrbeauftragte in bereits bestehenden Anstellungsverhältnissen gilt:
 
 - a) Für diejenigen, die die fachlichen oder pädagogischen Anforderungen nach neuem Recht nicht erfüllen, gilt die bisherige Einreihung weiter;
 
@@ -6177,7 +6208,9 @@ Der Besondere Teil Berufsschule regelt die Abweichungen und Ergänzungen gegenü
 
 <sup>2</sup> Soweit das Pensum oder ein Teil davon voraussichtlich nicht für mehr als zwei Jahre sichergestellt ist, wird im unbefristeten Vertrag der gesicherte Pensenteil (Sockelpensum) und ein darüber hinausgehender Pensenrahmen von höchstens fünf Lektionen (Maximalpensum) für den nicht gesicherten Pensenteil festgelegt.
 
-<sup>3</sup> Angeordnete Pensenerhöhungen im festgelegten Pensenrahmen werden wirksam, wenn die Lehrperson nicht innert 10 Tagen seit Erhalt der schriftlichen Mitteilung schriftlich ihren Verzicht auf die Erhöhung erklärt. § 454<sup>bis</sup>.[^454-1] Befristete Anstellung
+<sup>3</sup> Angeordnete Pensenerhöhungen im festgelegten Pensenrahmen werden wirksam, wenn die Lehrperson nicht innert 10 Tagen seit Erhalt der schriftlichen Mitteilung schriftlich ihren Verzicht auf die Erhöhung erklärt.
+
+§ 454<sup>bis</sup>.[^454-1] Befristete Anstellung
 
 <sup>1</sup> Lehrpersonen werden soweit befristet angestellt, als mit dem Pensenrahmen die Unsicherheit in der Pensenfestlegung nicht abgedeckt werden kann.
 
@@ -7040,7 +7073,13 @@ Inkrafttreten GAV am 1. Januar 2005 (§ 21).[^520-1]
 
 - 26\. September 2023 am 1. Oktober 2023;
 
-- 20\. November 2023 am 1. Dezember 2023.
+- 20\. November 2023 am 1. Dezember 2023;
+
+- 4\. Juli 2023 am 1. Januar 2024;
+
+- 29\. Januar 2024 am 1. Januar 2024;
+
+- 2\. April 2024 am 1. Januar 2024.
 
 ## Weitere Fussnoten
 
