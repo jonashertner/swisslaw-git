@@ -3,11 +3,11 @@ sr: "632.421.0"
 title: "Ordinanza del 18 giugno 2008 sulle aliquote di dazio per le merci nel traffico con gli Stati membri dell'UE e dell'AELS (Ordinanza sul libero scambio 1)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/455"
 language: it
-version: 2023-01-01
+version: 2024-01-01
 adopted: 2008-06-18
 in_force: 2008-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/455/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2008-455-20230101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/455/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/455/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2008-455-20240101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/455/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/455/20230101/it"
 
 (Ordinanza sul libero scambio 1)
 
-del 18 giugno 2008 (Stato 1° gennaio 2023)
+del 18 giugno 2008 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -133,7 +133,7 @@ Allegato 2[^t-2]
 
 ## Aliquote di dazio all’importazione: merci e aliquote
 
-[^t-2]: Nuovo testo giusta il n. I cpv. 1 dell’O del 14 giu. 2013 ([RU 2013 1879](https://fedlex.data.admin.ch/eli/oc/2013/410)). Aggiornato dal n. II cpv. 2 dell’O del 7 mar. 2014 ([RU 2014 607](https://fedlex.data.admin.ch/eli/oc/2014/134)), dall’all. 3 n. 7 dell’O del 10 giu. 2016 concernente la modifica della tariffa doganale ([RU 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)), dal n. I dell’O del 9 mag. 2018 ([RU 2018 2359](https://fedlex.data.admin.ch/eli/oc/2018/338)) e dall’all. 3 n. 10 dell’O del 30 giu. 2021 concernente la modifica della tariffa doganale, in vigore dal 1° gen. 2022 ([RU 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)).
+[^t-2]: Nuovo testo giusta il n. I cpv. 1 dell’O del 14 giu. 2013 ([RU 2013 1879](https://fedlex.data.admin.ch/eli/oc/2013/410)). Aggiornato dal n. II cpv. 2 dell’O del 7 mar. 2014 ([RU 2014 607](https://fedlex.data.admin.ch/eli/oc/2014/134)), dall’all. 3 n. 7 dell’O del 10 giu. 2016 concernente la modifica della tariffa doganale ([RU 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)), dal n. I dell’O del 9 mag. 2018 ([RU 2018 2359](https://fedlex.data.admin.ch/eli/oc/2018/338)), dall’all. 3 n. 10 dell’O del 30 giu. 2021 concernente la modifica della tariffa doganale ([RU 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)) e dall’all. 2 n. II 5 dell’O del 15 feb. 2023 concernente la modifica della tariffa doganale, in vigore dal 1° gen. 2024 ([RU 2023 86](https://fedlex.data.admin.ch/eli/oc/2023/86)).
 
 <table>
 <tr><th>Voce di tariffa</th><th colspan="5">Aliquota preferenziale</th><th></th><th></th><th></th><th>Contingenti doganali; disposizioni particolari</th></tr>
@@ -929,7 +929,7 @@ Allegato 2[^t-2]
 <tr><td>2404. 1290</td><td>esente</td><td colspan="2"></td><td>esente</td><td colspan="4"></td><td></td></tr>
 <tr><td>1990</td><td>esente</td><td colspan="2"></td><td>esente</td><td colspan="4"></td><td></td></tr>
 <tr><td>9190/9900</td><td>esente</td><td colspan="2"></td><td>esente</td><td colspan="4"></td><td></td></tr>
-<tr><td>2501. 0010/</td><td></td><td colspan="2"></td><td></td><td colspan="4"></td><td></td></tr>
+<tr><td>2501.0000</td><td></td><td colspan="2"></td><td></td><td colspan="4"></td><td></td></tr>
 <tr><td>2905.4200</td><td>esente</td><td colspan="2"></td><td>esente</td><td colspan="4"></td><td></td></tr>
 <tr><td>2905.4300</td><td>em</td><td colspan="2"></td><td>em</td><td colspan="4"></td><td></td></tr>
 <tr><td>4400/</td><td></td><td colspan="2"></td><td></td><td colspan="4"></td><td></td></tr>

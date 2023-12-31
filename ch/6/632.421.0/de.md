@@ -3,11 +3,11 @@ sr: "632.421.0"
 title: Verordnung vom 18. Juni 2008 über die Zollansätze für Waren im Verkehr mit EU- und EFTA-Mitgliedstaaten (Freihandelsverordnung 1)
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/455"
 language: de
-version: 2023-01-01
+version: 2024-01-01
 adopted: 2008-06-18
 in_force: 2008-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/455/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2008-455-20230101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/455/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/455/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2008-455-20240101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/455/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/455/20230101/de"
 
 (Freihandelsverordnung 1)
 
-vom 18. Juni 2008 (Stand am 1. Januar 2023)
+vom 18. Juni 2008 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -134,7 +134,7 @@ Anhang 2[^t-2]
 
 ## Einfuhrzölle: Waren und Zollansätze
 
-[^t-2]: Fassung gemäss Ziff. I Abs. 1 der V vom 14. Juni 2013 ([AS 2013 1879](https://fedlex.data.admin.ch/eli/oc/2013/410)). Bereinigt gemäss Ziff. II Abs. 2 der V vom 7. März 2014 ([AS 2014 607](https://fedlex.data.admin.ch/eli/oc/2014/134)), Anhang 3 Ziff. 7 der V vom 10. Juni 2016 über die Änderung des Zolltarifs ([AS 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)), Ziff. I der V vom 9. Mai 2018 ([AS 2018 2359](https://fedlex.data.admin.ch/eli/oc/2018/338)) und Anhang 3 Ziff. 10 der V vom 30. Juni 2021 über die Änderung des Zolltarifs, in Kraft seit 1. Jan. 2022 ([AS 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)).
+[^t-2]: Fassung gemäss Ziff. I Abs. 1 der V vom 14. Juni 2013 ([AS 2013 1879](https://fedlex.data.admin.ch/eli/oc/2013/410)). Bereinigt gemäss Ziff. II Abs. 2 der V vom 7. März 2014 ([AS 2014 607](https://fedlex.data.admin.ch/eli/oc/2014/134)), Anhang 3 Ziff. 7 der V vom 10. Juni 2016 über die Änderung des Zolltarifs ([AS 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)), Ziff. I der V vom 9. Mai 2018 ([AS 2018 2359](https://fedlex.data.admin.ch/eli/oc/2018/338)), Anhang 3 Ziff. 10 der V vom 30. Juni 2021 über die Änderung des Zolltarifs ([AS 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)) und Anhang 2 Ziff. II 5 der V vom 15. Febr. 2023 über die Änderung des Zolltarifs, in Kraft seit 1. Jan. 2024 ([AS 2023 86](https://fedlex.data.admin.ch/eli/oc/2023/86)).
 
 <table>
 <tr><th>Tarif-Nr.</th><th colspan="5">Präferenz-Zollansatz</th><th></th><th></th><th></th><th>Zollkontingente; besondere Bestimmungen</th></tr>
@@ -930,7 +930,7 @@ Anhang 2[^t-2]
 <tr><td>2404. 1290</td><td>frei</td><td colspan="2"></td><td>frei</td><td colspan="4"></td><td></td></tr>
 <tr><td>1990</td><td>frei</td><td colspan="2"></td><td>frei</td><td colspan="4"></td><td></td></tr>
 <tr><td>9190/9900</td><td>frei</td><td colspan="2"></td><td>frei</td><td colspan="4"></td><td></td></tr>
-<tr><td>2501. 0010/</td><td></td><td colspan="2"></td><td></td><td colspan="4"></td><td></td></tr>
+<tr><td>2501. 0000/</td><td></td><td colspan="2"></td><td></td><td colspan="4"></td><td></td></tr>
 <tr><td>2905.4200</td><td>frei</td><td colspan="2"></td><td>frei</td><td colspan="4"></td><td></td></tr>
 <tr><td>2905.4300</td><td>bT</td><td colspan="2"></td><td>bT</td><td colspan="4"></td><td></td></tr>
 <tr><td>4400/</td><td></td><td colspan="2"></td><td></td><td colspan="4"></td><td></td></tr>

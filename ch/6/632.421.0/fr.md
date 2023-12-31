@@ -3,11 +3,11 @@ sr: "632.421.0"
 title: "Ordonnance du 18 juin 2008 sur les droits de douane applicables aux marchandises dans le trafic avec les États membres de l'UE et de l'AELE (Ordonnance sur le libre-échange 1)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/455"
 language: fr
-version: 2023-01-01
+version: 2024-01-01
 adopted: 2008-06-18
 in_force: 2008-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/455/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-455-20230101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/455/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/455/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-455-20240101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/455/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/455/20230101/fr"
 
 (Ordonnance sur le libre-échange 1)
 
-du 18 juin 2008 (État le 1<sup>er</sup> janvier 2023)
+du 18 juin 2008 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -133,7 +133,7 @@ Annexe 2[^t-2]
 
 ## Droits de douane à l’importation: marchandises et taux
 
-[^t-2]: Nouvelle teneur selon le ch. I al. 1 de l’O du 14 juin 2013 ([RO 2013 1879](https://fedlex.data.admin.ch/eli/oc/2013/410)). Mise à jour par ch. II al. 2 de l’O du 7 mars 2014 ([RO 2014 607](https://fedlex.data.admin.ch/eli/oc/2014/134)), l’annexe 3 ch. 7 de l’O du 10 juin 2016 modifiant le tarif des douanes ([RO 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)), le ch. I de l’O du 9 mai 2018 ([RO 2018 2359](https://fedlex.data.admin.ch/eli/oc/2018/338)) et l’annexe 3 ch. 10 de l’O du 30 juin 2021 modifiant le tarif des douanes, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)).
+[^t-2]: Nouvelle teneur selon le ch. I al. 1 de l’O du 14 juin 2013 ([RO 2013 1879](https://fedlex.data.admin.ch/eli/oc/2013/410)). Mise à jour par ch. II al. 2 de l’O du 7 mars 2014 ([RO 2014 607](https://fedlex.data.admin.ch/eli/oc/2014/134)), l’annexe 3 ch. 7 de l’O du 10 juin 2016 modifiant le tarif des douanes ([RO 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)), le ch. I de l’O du 9 mai 2018 ([RO 2018 2359](https://fedlex.data.admin.ch/eli/oc/2018/338)), l’annexe 3 ch. 10 de l’O du 30 juin 2021 modifiant le tarif des douanes ([RO 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)) et l’annexe 2 ch. II 5 de l’O du 15 fév. 2023 modifiant le tarif des douanes, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 86](https://fedlex.data.admin.ch/eli/oc/2023/86)).
 
 <table>
 <tr><th>N<sup>o</sup> de tarif</th><th colspan="5">Taux préférentiel</th><th></th><th></th><th>Contingents tarifaires; dispositions particulières</th></tr>
@@ -921,7 +921,7 @@ Annexe 2[^t-2]
 <tr><td>2404. 1290</td><td>exempt</td><td colspan="2"></td><td>exempt</td><td colspan="3"></td><td></td></tr>
 <tr><td>1990</td><td>exempt</td><td colspan="2"></td><td>exempt</td><td colspan="3"></td><td></td></tr>
 <tr><td>9190/9900</td><td>exempt</td><td colspan="2"></td><td>exempt</td><td colspan="3"></td><td></td></tr>
-<tr><td>2501. 0010/ 2905.4200</td><td>exempt</td><td colspan="2"></td><td>exempt</td><td colspan="3"></td><td></td></tr>
+<tr><td>2501. 0000/ 2905.4200</td><td>exempt</td><td colspan="2"></td><td>exempt</td><td colspan="3"></td><td></td></tr>
 <tr><td>2905. 4300</td><td>em</td><td colspan="2"></td><td>em</td><td colspan="3"></td><td></td></tr>
 <tr><td>4400/ 3407.0000</td><td>exempt</td><td colspan="2"></td><td>exempt</td><td colspan="3"></td><td></td></tr>
 <tr><td>3501. 1010/1090</td><td>em</td><td colspan="2"></td><td></td><td colspan="3"></td><td></td></tr>
