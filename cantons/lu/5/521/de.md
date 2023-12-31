@@ -3,20 +3,20 @@ canton: LU
 number: "521"
 title: "Studienordnung für die Ausbildung an der Hochschule Luzern, FH Zentralschweiz"
 language: de
-version: 2023-09-01
-valid_until: 2023-12-31
+version: 2024-01-01
+valid_until: 2024-08-31
 version_adopted: 2023-08-31
 adopted: 2014-06-13
 in_force: 2014-09-01
 url: "https://srl.lu.ch/app/de/texts_of_law/521"
-pdf: "https://srl.lu.ch/api/de/versions/4134/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4156/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Studienordnung für die Ausbildung an der Hochschule Luzern, FH Zentralschweiz
 
-vom 13.06.2014 (Stand 01.09.2023)
+vom 13.06.2014 (Stand 01.01.2024)
 
 Der Fachhochschulrat der Hochschule Luzern,
 
@@ -662,7 +662,7 @@ beschliesst:
 
 **Bachelor Digital Ideation**
 
-<sup>1</sup> Als Zulassungsvoraussetzungen für das erste Studienjahr der Bachelor-Ausbildung Digital Ideation, Schwerpunkt Design, gelten die Voraussetzungen für die Zulassung zur Bachelor-Ausbildung an der Hochschule Luzern − Design und Kunst, Art. A4-2, Bachelor Design.
+<sup>1</sup> Als Zulassungsvoraussetzungen für das erste Studienjahr der Bachelor-Ausbildung Digital Ideation, Schwerpunkt Design, gelten die Voraussetzungen für die Zulassung zur Bachelor-Ausbildung an der Hochschule Luzern − Design Film Kunst, Art. A4-2, Bachelor Design.
 
 <sup>2</sup> Als Zulassungsvoraussetzungen für das erste Studienjahr der Bachelor-Ausbildung Digital Ideation, Schwerpunkt Informatik, gelten die Voraussetzungen für die Zulassung zur Bachelor-Ausbildung Informatik.
 
@@ -736,7 +736,7 @@ beschliesst:
 
 <sup>1</sup> Die zu bestehende Eignungsabklärung besteht aus einem Einzelgespräch, einem Gruppenelement und einer schriftlichen Einzelarbeit.
 
-## A4 Anhang 4: Voraussetzungen für die Zulassung zur Bachelor-Ausbildung an der Hochschule Luzern – Design und Kunst
+## A4 Anhang 4: Voraussetzungen für die Zulassung zur Bachelor-Ausbildung an der Hochschule Luzern – Design Film Kunst
 
 #### Art. A4-1
 
@@ -764,7 +764,7 @@ beschliesst:
 - b. eine eidgenössisch anerkannte oder gleichwertige berufliche Grundausbildung mit Berufsmaturität,
 - c. eine eidgenössisch anerkannte oder gleichwertige, der Studienrichtung verwandte berufliche Grundausbildung mit Berufsmaturität oder
 - d. der Abschluss einer Fachmittelschule mit Fachmaturität,
-- e. sowie in Ergänzung zu a, b und d der Nachweis einer mindestens einjährigen der Studienrichtung verwandten Arbeitspraxis oder der Besuch des einjährigen gestalterischen Vorkurses an der Hochschule Luzern – Design und Kunst oder einer gleichwertigen Vorbildung.
+- e. sowie in Ergänzung zu a, b und d der Nachweis einer mindestens einjährigen der Studienrichtung verwandten Arbeitspraxis oder der Besuch des einjährigen gestalterischen Vorkurses an der Hochschule Luzern – Design Film Kunst oder einer gleichwertigen Vorbildung.
 
 <sup>2</sup> In Ergänzung zu den Voraussetzungen gemäss a–d werden zudem dem Ausbildungsniveau entsprechende Kenntnisse der Unterrichtssprache vorausgesetzt.
 
@@ -783,11 +783,11 @@ beschliesst:
 
 **Eignungsabklärung Bachelor**
 
-<sup>1</sup> Die Zulassung zur Bachelor-Ausbildung an der Hochschule Luzern – Design und Kunst setzt für alle Studienangebote mit Ausnahme der Studienrichtung Design Management International zusätzlich das erfolgreiche Bestehen einer künstlerisch-gestalterischen Eignungsabklärung an der Hochschule Luzern – Design und Kunst voraus.
+<sup>1</sup> Die Zulassung zur Bachelor-Ausbildung an der Hochschule Luzern – Design Film Kunst setzt für alle Studienangebote mit Ausnahme der Studienrichtung Design Management International zusätzlich das erfolgreiche Bestehen einer künstlerisch-gestalterischen Eignungsabklärung an der Hochschule Luzern – Design Film Kunst voraus.
 
 <sup>2</sup> In der Studienrichtung Design Management International wird im Rahmen der Eignungsabklärung das Verständnis für Kunst und Design geprüft.
 
-<sup>3</sup> Die Aufnahme in das Studium an der Hochschule Luzern – Design und Kunst wird bei Erfüllung der formalen Voraussetzungen insbesondere durch die Anzahl der zur Verfügung stehenden Studienplätze beschränkt.
+<sup>3</sup> Die Aufnahme in das Studium an der Hochschule Luzern – Design Film Kunst wird bei Erfüllung der formalen Voraussetzungen insbesondere durch die Anzahl der zur Verfügung stehenden Studienplätze beschränkt.
 
 #### Art. A4-5
 
