@@ -4,18 +4,18 @@ title: Code pénal suisse du 21 décembre 1937
 short: CP
 eli: "https://fedlex.data.admin.ch/eli/cc/54/757_781_799"
 language: fr
-version: 2023-12-06
+version: 2024-01-01
 adopted: 1937-12-21
 in_force: 1942-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20231206/fr/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20231206-fr-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20231206/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20240101-fr-xml-17.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Code pénal suisse
 
-du 21 décembre 1937 (État le 6 décembre 2023)
+du 21 décembre 1937 (État le 1<sup>er</sup> janvier 2024)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -1124,10 +1124,12 @@ Elle prend la décision selon l’al. 1 en se fondant sur:
 
 <sup>1</sup> Si, avant ou pendant l’exécution d’une peine privative de liberté ou d’un internement au sens de l’art. 64, al. 1, le condamné réunit les conditions d’une mesure thérapeutique institutionnelle prévues aux art. 59 à 61, le juge peut ordonner cette mesure ultérieurement.[^65-1] Le juge compétent est celui qui a prononcé la peine ou ordonné l’internement. L’exécution du solde de la peine est suspendue.
 
-<sup>2</sup> Si, pendant l’exécution de la peine privative de liberté, des faits ou des moyens de preuve nouveaux permettent d’établir qu’un condamné remplit les conditions de l’internement et que ces conditions étaient déjà remplies au moment du jugement sans que le juge ait pu en avoir connaissance, le juge peut ordonner l’internement ultérieurement. La compétence et la procédure sont déterminées par les règles sur la révision.[^65-2]
+<sup>2</sup> Si, pendant l’exécution de la peine privative de liberté, des faits ou des moyens de preuve nouveaux permettent d’établir qu’un condamné remplit les conditions de l’internement et que ces conditions étaient déjà remplies au moment du jugement sans que le juge ait pu en avoir connaissance, le juge peut ordonner l’internement ultérieurement. La compétence et la procédure sont déterminées par les règles sur la révision (art. 410 à 415 du code de procédure pénale[^65-2]).[^65-3] [^65-4]
 
 [^65-1]: Nouvelle teneur selon le ch. I de la LF du 21 déc. 2007 (Internement à vie des délinquants extrêmement dangereux), en vigueur depuis le 1<sup>er</sup> août 2008 ([RO 2008 2961](https://fedlex.data.admin.ch/eli/oc/2008/413); [FF 2006 869](https://fedlex.data.admin.ch/eli/fga/2006/104)).
-[^65-2]: Introduit par le ch. I de la LF du 24 mars 2006 (Correctifs en matière de sanctions et casier judiciaire), en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3539](https://fedlex.data.admin.ch/eli/oc/2006/550); [FF 2005 4425](https://fedlex.data.admin.ch/eli/fga/2005/735)).
+[^65-2]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^65-3]: Nouvelle teneur de la phrase selon l’annexe 1 ch. 4 de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^65-4]: Introduit par le ch. I de la LF du 24 mars 2006 (Correctifs en matière de sanctions et casier judiciaire), en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3539](https://fedlex.data.admin.ch/eli/oc/2006/550); [FF 2005 4425](https://fedlex.data.admin.ch/eli/fga/2005/735)).
 
 ### Section 2 Autres mesures
 
@@ -1501,7 +1503,9 @@ Si l’auteur a utilisé un véhicule automobile pour commettre un crime ou un d
 
 <sup>2</sup> Le juge peut renoncer totalement ou partiellement à la créance compensatrice s’il est à prévoir qu’elle ne serait pas recouvrable ou qu’elle entraverait sérieusement la réinsertion de la personne concernée.
 
-<sup>3</sup> L’autorité d’instruction peut placer sous séquestre, en vue de l’exécution d’une créance compensatrice, des valeurs patrimoniales appartenant à la personne concernée. Le séquestre ne crée pas de droit de préférence en faveur de l’État lors de l’exécution forcée de la créance compensatrice.
+<sup>3</sup> …[^71-1]
+
+[^71-1]: Abrogé par l’annexe 1 ch. 4 de la LF du 17 juin 2022, avec effet au 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 ### Confiscation de valeurs patrimoniales d’une organisation criminelle ou terroriste
 
@@ -3110,9 +3114,10 @@ est puni d’une peine privative de liberté de trois ans au plus ou d’une pei
 
 <sup>1</sup> Si l’acte ne vise qu’un élément patrimonial de faible valeur ou un dommage de moindre importance, l’auteur est, sur plainte, puni d’une amende.[^172ter-1]
 
-<sup>2</sup> Cette disposition n’est pas applicable au vol qualifié (art. 139, ch. 2 et 3), au brigandage ainsi qu’à l’extorsion et au chantage.
+<sup>2</sup> Cette disposition n’est pas applicable au vol qualifié (art. 139, ch. 2[^172ter-2] et 3), au brigandage ainsi qu’à l’extorsion et au chantage.
 
 [^172ter-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^172ter-2]: Ce ch. est actuellement abrogé.
 
 ### Titre 3 Infractions contre l’honneur et contre le domaine secret ou le domaine privé
 
@@ -3316,11 +3321,10 @@ Quiconque utilise abusivement une installation de télécommunication pour inqui
 
 <sup>1</sup> Quiconque, dans l’exercice d’une attribution que lui confère expressément la loi, ordonne ou met en œuvre la surveillance de la correspondance par poste et télécommunication d’une personne ou utilise des appareils techniques de surveillance (art. 179<sup>bis</sup> ss) n’est pas punissable, pour autant que l’autorisation du juge compétent ait été immédiatement demandée.
 
-<sup>2</sup> Les conditions de la surveillance de la correspondance par poste et télécommunication et la procédure sont régies par la loi fédérale du 18 mars 2016 sur la surveillance de la correspondance par poste et télécommunication[^179octies-2] ou par le code de procédure pénale[^179octies-3].
+<sup>2</sup> …[^179octies-2]
 
 [^179octies-1]: Introduit par le ch. VII de la LF du 23 mars 1979 sur la protection de la vie privée ([RO 1979 1170](https://fedlex.data.admin.ch/eli/oc/1979/1170_1170_1170); [FF 1976 I 521](https://fedlex.data.admin.ch/eli/fga/1976/1__521_)II 1529). Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
-[^179octies-2]: [RS 780.1](https://fedlex.data.admin.ch/eli/cc/2018/31)
-[^179octies-3]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^179octies-2]: Abrogé par l’annexe 2 ch. 1 de la LF du 17 juin 2022, avec effet au 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 ### Soustraction de données personnelles
 

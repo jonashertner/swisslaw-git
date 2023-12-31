@@ -4,18 +4,18 @@ title: Schweizerisches Strafgesetzbuch vom 21. Dezember 1937
 short: StGB
 eli: "https://fedlex.data.admin.ch/eli/cc/54/757_781_799"
 language: de
-version: 2023-12-06
+version: 2024-01-01
 adopted: 1937-12-21
 in_force: 1942-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20231206/de/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20231206-de-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20231206/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20240101/de/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20240101-de-xml-17.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Schweizerisches Strafgesetzbuch
 
-vom 21. Dezember 1937 (Stand am 6. Dezember 2023)
+vom 21. Dezember 1937 (Stand am 1. Januar 2024)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -1128,10 +1128,12 @@ Die zuständige Behörde trifft die Entscheide nach Absatz 1 gestützt auf:
 
 <sup>1</sup> Sind bei einem Verurteilten vor oder während des Vollzuges einer Freiheitsstrafe oder einer Verwahrung nach Artikel 64 Absatz 1 die Voraussetzungen einer stationären therapeutischen Massnahme gegeben, so kann das Gericht diese Massnahme nachträglich anordnen.[^65-1] Zuständig ist das Gericht, das die Strafe ausgesprochen oder die Verwahrung angeordnet hat. Der Vollzug einer Reststrafe wird aufgeschoben.
 
-<sup>2</sup> Ergibt sich bei einem Verurteilten während des Vollzuges der Freiheitsstrafe aufgrund neuer Tatsachen oder Beweismittel, dass die Voraussetzungen der Verwahrung gegeben sind und im Zeitpunkt der Verurteilung bereits bestanden haben, ohne dass das Gericht davon Kenntnis haben konnte, so kann das Gericht die Verwahrung nachträglich anordnen. Zuständigkeit und Verfahren bestimmen sich nach den Regeln, die für die Wiederaufnahme gelten.[^65-2]
+<sup>2</sup> Ergibt sich bei einem Verurteilten während des Vollzuges der Freiheitsstrafe aufgrund neuer Tatsachen oder Beweismittel, dass die Voraussetzungen der Verwahrung gegeben sind und im Zeitpunkt der Verurteilung bereits bestanden haben, ohne dass das Gericht davon Kenntnis haben konnte, so kann das Gericht die Verwahrung nachträglich anordnen. Zuständigkeit und Verfahren bestimmen sich nach den Regeln, die für die Revision (Art. 410−415 der Strafprozessordnung[^65-2]) gelten.[^65-3] [^65-4]
 
 [^65-1]: Fassung gemäss Ziff. I des BG vom 21. Dez. 2007 (Lebenslängliche Verwahrung extrem gefährlicher Straftäter), in Kraft seit 1. Aug. 2008 ([AS 2008 2961](https://fedlex.data.admin.ch/eli/oc/2008/413); [BBl 2006 889](https://fedlex.data.admin.ch/eli/fga/2006/104)).
-[^65-2]: Eingefügt durch Ziff. I des BG vom 24. März 2006 (Korrekturen am Sanktions- und Strafregisterrecht), in Kraft seit 1. Jan. 2007 ([AS 2006 3539](https://fedlex.data.admin.ch/eli/oc/2006/550); [BBl 2005 4689](https://fedlex.data.admin.ch/eli/fga/2005/735)).
+[^65-2]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^65-3]: Fassung des zweiten Satzes gemäss Anhang 1 Ziff. 4 des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^65-4]: Eingefügt durch Ziff. I des BG vom 24. März 2006 (Korrekturen am Sanktions- und Strafregisterrecht), in Kraft seit 1. Jan. 2007 ([AS 2006 3539](https://fedlex.data.admin.ch/eli/oc/2006/550); [BBl 2005 4689](https://fedlex.data.admin.ch/eli/fga/2005/735)).
 
 ### Zweiter Abschnitt: Andere Massnahmen
 
@@ -1505,7 +1507,9 @@ Hat der Täter ein Motorfahrzeug zur Begehung eines Verbrechens oder Vergehens v
 
 <sup>2</sup> Das Gericht kann von einer Ersatzforderung ganz oder teilweise absehen, wenn diese voraussichtlich uneinbringlich wäre oder die Wiedereingliederung des Betroffenen ernstlich behindern würde.
 
-<sup>3</sup> Die Untersuchungsbehörde kann im Hinblick auf die Durchsetzung der Ersatzforderung Vermögenswerte des Betroffenen mit Beschlag belegen. Die Beschlagnahme begründet bei der Zwangsvollstreckung der Ersatzforderung kein Vorzugsrecht zu Gunsten des Staates.
+<sup>3</sup> …[^71-1]
+
+[^71-1]: Aufgehoben durch Anhang 1 Ziff. 4 des BG vom 17. Juni 2022, mit Wirkung seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 ### Einziehung von Vermögenswerten einer kriminellen oder terroristischen Organisation
 
@@ -2332,7 +2336,7 @@ wenn er der Ehegatte des Opfers ist und die Tat während der Ehe oder bis zu ein
 
 wenn er die eingetragene Partnerin oder der eingetragene Partner des Opfers ist und die Tat während der Dauer der eingetragenen Partnerschaft oder bis zu einem Jahr nach deren Auflösung begangen wurde,[^123-6]
 
-wenn er der hetero- oder homosexuelle Lebenspartner des Opfers ist, sofern sie auf unbestimmte Zeit einen gemeinsamem Haushalt führen und die Tat während dieser Zeit oder bis zu einem Jahr nach der Trennung begangen wurde.[^123-7]
+wenn er der hetero- oder homosexuelle Lebenspartner des Opfers ist, sofern sie auf unbestimmte Zeit einen gemeinsamen Haushalt führen und die Tat während dieser Zeit oder bis zu einem Jahr nach der Trennung begangen wurde.[^123-7]
 
 [^123-1]: Fassung gemäss Ziff. I des BG vom 23. Juni 1989, in Kraft seit 1. Jan. 1990 ([AS 1989 2449](https://fedlex.data.admin.ch/eli/oc/1989/2449_2449_2449); [BBl 1985 II 1009](https://fedlex.data.admin.ch/eli/fga/1985/2_1009_1021_901)).
 [^123-2]: Zweiter Absatz aufgehoben durch Ziff. I 1 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, mit Wirkung seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
@@ -2766,7 +2770,7 @@ Mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe wird bestraft, wer als Mi
 
 [^154-1]: Fassung gemäss Anhang Ziff. 5 des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109), [110](https://fedlex.data.admin.ch/eli/oc/2022/110); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 [^154-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^154-3]: Berichtigung der RedK der BVers vom 22. Nov. 2023, publiziert am 6. Dez. 2023 (AS **202****3** 739).
+[^154-3]: Berichtigung der RedK der BVers vom 22. Nov. 2023, publiziert am 6. Dez. 2023 ([AS 2023 739](https://fedlex.data.admin.ch/eli/oc/2023/739)).
 
 ### Warenfälschung
 
@@ -3017,7 +3021,9 @@ wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.
 
 <sup>1</sup> Richtet sich die Tat nur auf einen geringen Vermögenswert oder auf einen geringen Schaden, so wird der Täter, auf Antrag, mit Busse bestraft.
 
-<sup>2</sup> Diese Vorschrift gilt nicht bei qualifiziertem Diebstahl (Art. 139 Ziff. 2 und 3), bei Raub und Erpressung.
+<sup>2</sup> Diese Vorschrift gilt nicht bei qualifiziertem Diebstahl (Art. 139 Ziff. 2[^172ter-1] und 3), bei Raub und Erpressung.
+
+[^172ter-1]: Diese Ziff. ist heute aufgehoben.
 
 ### Dritter Titel: Strafbare Handlungen gegen die Ehre und den Geheim- oder Privatbereich
 
@@ -3218,12 +3224,10 @@ Wer eine Fernmeldeanlage zur Beunruhigung oder Belästigung missbraucht, wird, a
 
 <sup>1</sup> Wer in Ausübung ausdrücklicher, gesetzlicher Befugnis die Überwachung des Post- und Fernmeldeverkehrs einer Person anordnet oder durchführt oder technische Überwachungsgeräte (Art. 179<sup>bis</sup> ff.) einsetzt, ist nicht strafbar, wenn unverzüglich die Genehmigung des zuständigen Gerichts eingeholt wird.
 
-<sup>2</sup> Die Voraussetzungen der Überwachung des Post- und Fernmeldeverkehrs und das Verfahren richten sich nach dem Bundesgesetz vom 18. März 2016[^179octies-2] betreffend die Überwachung des Post- und Fernmeldeverkehrs oder nach der Strafprozessordnung[^179octies-3].[^179octies-4]
+<sup>2</sup> …[^179octies-2]
 
 [^179octies-1]: Eingefügt durch Ziff. VII des BG vom 23. März 1979 über den Schutz der persönlichen Geheimsphäre ([AS 1979 1170](https://fedlex.data.admin.ch/eli/oc/1979/1170_1170_1170); [BBl 1976 I 529](https://fedlex.data.admin.ch/eli/fga/1976/1_529__)II 1569). Fassung gemäss Anhang Ziff. 1 des BG vom 6. Okt. 2000 betreffend die Überwachung des Post- und Fernmeldeverkehrs, in Kraft seit 1. Jan. 2002 ([AS 2001 3096](https://fedlex.data.admin.ch/eli/oc/2001/467); BBl **1998** 4241).
-[^179octies-2]: [SR 780.1](https://fedlex.data.admin.ch/eli/cc/2018/31)
-[^179octies-3]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^179octies-4]: Fassung gemäss Ziff. I 1 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^179octies-2]: Aufgehoben durch Anhang 2 Ziff. 1 des BG vom 17. Juni 2022, mit Wirkung seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 ### Unbefugtes Beschaffen von Personendaten
 

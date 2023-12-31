@@ -4,18 +4,18 @@ title: Codice penale svizzero del 21 dicembre 1937
 short: CP
 eli: "https://fedlex.data.admin.ch/eli/cc/54/757_781_799"
 language: it
-version: 2023-12-06
+version: 2024-01-01
 adopted: 1937-12-21
 in_force: 1942-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20231206/it/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20231206-it-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20231206/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20240101/it/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20240101-it-xml-17.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Codice penale svizzero
 
-del 21 dicembre 1937 (Stato 6 dicembre 2023)
+del 21 dicembre 1937 (Stato 1° gennaio 2024)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -1125,10 +1125,12 @@ L’autorità competente prende una decisione secondo il capoverso 1:
 
 <sup>1</sup> Se, prima o durante l’esecuzione della pena detentiva o dell’internamento secondo l’articolo 64 capoverso 1, le condizioni per una misura terapeutica stazionaria risultano adempiute, il giudice può ordinare questa misura a posteriori.[^65-1] È competente il giudice che ha pronunciato la pena o ordinato l’internamento. L’esecuzione della pena residua è sospesa.
 
-<sup>2</sup> Se, durante l’esecuzione della pena detentiva, sulla base di nuovi fatti o mezzi di prova, risulta che le condizioni per un internamento sono adempiute e sussistevano già al momento della condanna, senza che il giudice ne potesse essere a conoscenza, il giudice può ordinare l’internamento a posteriori. La competenza e la procedura sono rette dalle norme applicabili alla revisione.[^65-2]
+<sup>2</sup> Se, durante l’esecuzione della pena detentiva, sulla base di nuovi fatti o mezzi di prova, risulta che le condizioni per un internamento sono adempiute e sussistevano già al momento della condanna, senza che il giudice ne potesse essere a conoscenza, il giudice può ordinare l’internamento a posteriori. La competenza e la procedura sono rette dalle norme applicabili alla revisione (art. 410–415 del Codice di procedura penale[^65-2]).[^65-3] [^65-4]
 
 [^65-1]: Nuovo testo giusta il n. I della LF del 21 dic. 2007 (Internamento a vita di criminali estremamente pericolosi), in vigore dal 1° ago. 2008 ([RU 2008 2961](https://fedlex.data.admin.ch/eli/oc/2008/413); [FF 2006 807](https://fedlex.data.admin.ch/eli/fga/2006/104)).
-[^65-2]: Introdotto dal n. I della LF del 24 mar. 2006 (Correttivi in materia di sanzioni e di casellario giudiziale), in vigore dal 1° gen. 2007 ([RU 2006 3539](https://fedlex.data.admin.ch/eli/oc/2006/550); [FF 2005 4197](https://fedlex.data.admin.ch/eli/fga/2005/735)).
+[^65-2]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^65-3]: Nuovo testo del per. giusta l’all. 1 n. 4 della LF del 17 giu. 2022, in vigore dal 1° gen. 2024 ([RU 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 5523](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^65-4]: Introdotto dal n. I della LF del 24 mar. 2006 (Correttivi in materia di sanzioni e di casellario giudiziale), in vigore dal 1° gen. 2007 ([RU 2006 3539](https://fedlex.data.admin.ch/eli/oc/2006/550); [FF 2005 4197](https://fedlex.data.admin.ch/eli/fga/2005/735)).
 
 ### Sezione 2: Delle altre misure
 
@@ -1505,7 +1507,9 @@ Se l’autore ha utilizzato un veicolo a motore per commettere un crimine o un d
 
 <sup>2</sup> Il giudice può prescindere in tutto o in parte dal risarcimento che risulti presumibilmente inesigibile o impedisca seriamente il reinserimento sociale dell’interessato.
 
-<sup>3</sup> In vista dell’esecuzione del risarcimento, l’autorità inquirente può sottoporre a sequestro valori patrimoniali dell’interessato. Il sequestro non fonda alcuna pretesa privilegiata in favore dello Stato nell’ambito dell’esecuzione forzata.
+<sup>3</sup> ...[^71-1]
+
+[^71-1]: Abrogato dall’all. 1 n. 4 della LF del 17 giu. 2022, con effetto dal 1° gen. 2024 ([RU 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 5523](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 ### Confisca di valori patrimoniali di un’organizzazione criminale o terroristica
 
@@ -3004,7 +3008,9 @@ il terzo che compie tali atti a vantaggio del debitore,
 
 <sup>1.</sup> Se il reato concerne soltanto un elemento patrimoniale di poco valore o un danno di lieve entità, il colpevole è punito, a querela di parte, con la multa.
 
-<sup>2.</sup> Il presente disposto non è applicabile al furto aggravato (art. 139 n. 2 e 3), alla rapina e all’estorsione.
+<sup>2.</sup> Il presente disposto non è applicabile al furto aggravato (art. 139 n. 2[^172ter-1] e 3), alla rapina e all’estorsione.
+
+[^172ter-1]: Questo n. è ora abrogato.
 
 ### Titolo terzo: Dei delitti contro l’onore e la sfera personale riservata
 
@@ -3206,12 +3212,10 @@ Chiunque utilizza abusivamente un impianto di telecomunicazione per inquietare o
 
 <sup>1</sup> Chiunque, nell’esercizio di un esplicito potere legale, ordina o esegue la sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni di una persona oppure impiega apparecchi tecnici di sorveglianza (art. 179<sup>bis</sup> segg.), non è punibile purché sia richiesta senza indugio l’approvazione del giudice competente.
 
-<sup>2</sup> Le condizioni della sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni nonché la relativa procedura sono di-sciplinate dalla legge federale del 18 marzo 2016[^179octies-2] sulla sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni o dal Codice di procedura penale[^179octies-3].[^179octies-4]
+<sup>2</sup> ...[^179octies-2]
 
 [^179octies-1]: Introdotto dal n. VII della LF del 23 mar. 1979 sulla protezione della sfera segreta personale ([RU 1979 1170](https://fedlex.data.admin.ch/eli/oc/1979/1170_1170_1170); [FF 1976 I 479](https://fedlex.data.admin.ch/eli/fga/1976/1___479), II 1545). Nuovo testo giusta l’all. n. 1 della LF del 6 ott. 2000 sulla sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni, in vigore dal 1° gen. 2002 ([RU 2001 3096](https://fedlex.data.admin.ch/eli/oc/2001/467); FF **1998** 3319).
-[^179octies-2]: [RS 780.1](https://fedlex.data.admin.ch/eli/cc/2018/31)
-[^179octies-3]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^179octies-4]: Nuovo testo giusta il n. I 1 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^179octies-2]: Abrogato dall’all. 2 n. 1 della LF del 17 giu. 2022, con effetto dal 1° gen. 2024 ([RU 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 5523](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 ### Sottrazione di dati personali
 
@@ -6049,19 +6053,19 @@ L’interessato può chiedere all’IFPDT di verificare se gli eventuali dati ch
 
 [^book3-tit4-lvl2-lvla-1]: Nuovo testo giusta l’all. 1 n. II 8 del Codice di procedura penale del 5 ott. 2007, in vigore dal 1° gen. 2011 ([RU 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124)).
 
-#### Art. 350
-
-<sup>1</sup> L’Ufficio federale di polizia assume i compiti di ufficio centrale nazionale ai sensi degli statuti dell’Organizzazione internazionale di polizia criminale (INTERPOL).
-
-<sup>2</sup> Esso è competente a mediare scambi d’informazioni tra le autorità federali e cantonali preposte al perseguimento penale, da un canto, e gli uffici centrali nazionali di altri Stati e il Segretariato generale di INTERPOL, dall’altro.
-
 ### b. Compiti
 
 [^book3-tit4-lvl2-lvlb-1]
 
 [^book3-tit4-lvl2-lvlb-1]: Nuovo testo giusta l’all. 1 n. II 8 del Codice di procedura penale del 5 ott. 2007, in vigore dal 1° gen. 2011 ([RU 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124)).
 
-#### Art. 351
+#### Art. 350
+
+<sup>1</sup> L’Ufficio federale di polizia assume i compiti di ufficio centrale nazionale ai sensi degli statuti dell’Organizzazione internazionale di polizia criminale (INTERPOL).
+
+<sup>2</sup> Esso è competente a mediare scambi d’informazioni tra le autorità federali e cantonali preposte al perseguimento penale, da un canto, e gli uffici centrali nazionali di altri Stati e il Segretariato generale di INTERPOL, dall’altro.
+
+**Art. 351**
 
 <sup>1</sup> L’Ufficio federale di polizia trasmette le informazioni di polizia criminale destinate al perseguimento di reati e all’esecuzione di pene e di misure.
 

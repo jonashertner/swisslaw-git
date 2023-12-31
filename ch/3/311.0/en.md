@@ -4,11 +4,11 @@ title: Swiss Criminal Code of 21 December 1937
 short: SCC
 eli: "https://fedlex.data.admin.ch/eli/cc/54/757_781_799"
 language: en
-version: 2023-12-06
+version: 2024-01-01
 adopted: 1937-12-21
 in_force: 1942-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20231206/en/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20231206-en-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20231206/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20240101/en/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20240101-en-xml-12.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20240101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20231206/en"
 
 English is not an official language of the Swiss Confederation. This translation is provided for information purposes only and has no legal force.
 
-of 21 December 1937 (Status as of 6 December 2023)
+of 21 December 1937 (Status as of 1 January 2024)
 
 The Federal Assembly the Swiss Confederation,
 
@@ -1129,10 +1129,12 @@ The competent authority makes its decisions in terms of paragraph 1 based on:
 
 <sup>1</sup> If an offender fulfils the requirements for an in-patient therapeutic measure in terms of Articles 59–61 before or during the execution of a custodial sentence or of indefinite incarceration in accordance with Article 64 paragraph 1, the court may order this measure retrospectively.[^65-1] The competent court is the court that imposed the sentence or ordered indefinite incarceration. The execution of any remainder of the sentence is deferred.
 
-<sup>2</sup> If during the execution of the custodial sentence, new information or evidence comes to light to the effect that the requirements for indefinite incarceration are fulfilled and already applied at the time of conviction although the court could not have had knowledge of this, the court may order indefinite incarceration retrospectively. Jurisdiction and procedure are determined by the rules that apply to re-opening a case.[^65-2]
+<sup>2</sup> If during the execution of the custodial sentence, new information or evidence comes to light to the effect that the requirements for indefinite incarceration are fulfilled and already applied at the time of conviction although the court could not have had knowledge of this, the court may order indefinite incarceration retrospectively. Jurisdiction and procedure are determined by the rules that apply to a review (Arts 410−415 Criminal Procedure Code[^65-2]).[^65-3] [^65-4]
 
 [^65-1]: Amended by No I of the FA of 21 Dec. 2007 (Indefinite Incarceration of Extremely Dangerous Offenders), in force since 1 Aug. 2008 ([AS 2008 2961](https://fedlex.data.admin.ch/eli/oc/2008/413)2964; [BBl 2006 889](https://fedlex.data.admin.ch/eli/fga/2006/104)).
-[^65-2]: Inserted by No I of the FA of 24 March 2006 (Revision of the Law on Sanctions and the Register of Convictions), in force since 1 Jan. 2007 ([AS 2006 3539](https://fedlex.data.admin.ch/eli/oc/2006/550)3544; [BBl 2005 4689](https://fedlex.data.admin.ch/eli/fga/2005/735)).
+[^65-2]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^65-3]: Second sentence amended by Annex 1 No 4 of the FA of 17 June 2022, in force since 1 Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^65-4]: Inserted by No I of the FA of 24 March 2006 (Revision of the Law on Sanctions and the Register of Convictions), in force since 1 Jan. 2007 ([AS 2006 3539](https://fedlex.data.admin.ch/eli/oc/2006/550)3544; [BBl 2005 4689](https://fedlex.data.admin.ch/eli/fga/2005/735)).
 
 ### Section Two: Other Measures
 
@@ -1506,7 +1508,9 @@ If the offender has used a motor vehicle in order to commit a felony or misdemea
 
 <sup>2</sup> The court may dismiss an equivalent claim in its entirety or in part if the claim is likely to be unrecoverable or if the claim would seriously hinder the rehabilitation of the person concerned.
 
-<sup>3</sup> The investigating authority may seize assets of the person concerned with a view to the enforcement of an equivalent claim. Such seizure does not accord the State preferential rights in the enforcement of the equivalent claim.
+<sup>3</sup> …[^71-1]
+
+[^71-1]: Repealed by Annex 1 No 4 of the FA of 17 June 2022, with effect from 1 Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 ### Forfeiture of assets of a criminal or terrorist organisation
 
@@ -3021,7 +3025,9 @@ shall be liable to a custodial sentence not exceeding three years or to a moneta
 
 <sup>1</sup> Where the offence relates only to a minor asset value or where only a minor loss is incurred, the offender shall be liable on complaint to a fine.
 
-<sup>2</sup> This provision does not apply to aggravated theft (Art. 139 para. 2 and 3), robbery or extortion.
+<sup>2</sup> This provision does not apply to aggravated theft (Art. 139 para. 2[^172ter-1] and 3), robbery or extortion.
+
+[^172ter-1]: This number is now repealed.
 
 ### Title Three: Offences against Personal Honour and in Breach of Secrecy or Privacy
 
@@ -3224,12 +3230,10 @@ Any person who uses a telecommunications installation in order to cause distress
 
 <sup>1</sup> Any person who, in the exercise of express statutory powers, orders or carries out the surveillance of the post or telecommunications of another or makes use of technical surveillance devices (Art. 179<sup>bis</sup> ff.) does not commit an offence provided that the approval of the appropriate court is obtained without delay.
 
-<sup>2</sup> The requirements for the surveillance of post or telecommunications and the procedure therefor is governed by the Federal Act of 18 March 2016[^179octies-2] on the Surveillance of Post and Telecommunications or by the Criminal Procedure Code[^179octies-3].[^179octies-4]
+<sup>2</sup> …[^179octies-2]
 
 [^179octies-1]: Inserted by No VII of the FA of 23 March 1979 on the Protection of Personal Privacy ([AS 1979 1170](https://fedlex.data.admin.ch/eli/oc/1979/1170_1170_1170); [BBl 1976 I 529](https://fedlex.data.admin.ch/eli/fga/1976/1_529__)II 1569). Amended by Annex No 1 of the FA of 6 Oct. 2000 on the Surveillance of Post and Telecommunications, in force since 1 Jan. 2002 ([AS 2001 3096](https://fedlex.data.admin.ch/eli/oc/2001/467); BBl **1998** 4241).
-[^179octies-2]: [SR 780.1](https://fedlex.data.admin.ch/eli/cc/2018/31)
-[^179octies-3]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^179octies-4]: Amended by No I 1 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^179octies-2]: Repealed by Annex 2 No 1 of the FA of 17 June 2022, with effect from 1 Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 ### Obtaining personal data without authorisation
 
@@ -3898,8 +3902,6 @@ If the offender carries on a commercial operation to produce or treat animal fee
 
 [^236-1]: Amended by No I 1 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
-### Felonies and Misdemeanours against Public Traffic
-
 ### Disruption of public traffic
 
 #### Art. 237
@@ -3920,9 +3922,9 @@ If the offender thus knowingly endangers the life and limb of a large number of 
 
 ### Disruption of public services
 
-[^book2-tit9-lvlu2-1]
+[^book2-tit8-lvlu9-1]
 
-[^book2-tit9-lvlu2-1]: Amended by No I 1 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^book2-tit8-lvlu9-1]: Amended by No I 1 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 239
 
@@ -4356,9 +4358,9 @@ shall be liable to a custodial sentence not exceeding three years or to a moneta
 
 ### Title Twelve<sup>bis</sup>: Genocide and Crimes against Humanity
 
-[^book2-tit12bis-1]
+[^book2-tit12-1]
 
-[^book2-tit12bis-1]: Inserted by No I of the FA of 24 March 2000 ([AS 2000 2725](https://fedlex.data.admin.ch/eli/oc/2000/454); [BBl 1999 5327](https://fedlex.data.admin.ch/eli/fga/1999/1_5327_4911_4611)). Amended by No I 1 of the FA of 18 June 2010 on the Amendment of Federal Legislation in Implementation of the Rome Statue of the International Criminal Court, in force since 1 Jan. 2011 ([AS 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [BBl 2008 3863](https://fedlex.data.admin.ch/eli/fga/2008/807)).
+[^book2-tit12-1]: Inserted by No I of the FA of 24 March 2000 ([AS 2000 2725](https://fedlex.data.admin.ch/eli/oc/2000/454); [BBl 1999 5327](https://fedlex.data.admin.ch/eli/fga/1999/1_5327_4911_4611)). Amended by No I 1 of the FA of 18 June 2010 on the Amendment of Federal Legislation in Implementation of the Rome Statue of the International Criminal Court, in force since 1 Jan. 2011 ([AS 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [BBl 2008 3863](https://fedlex.data.admin.ch/eli/fga/2008/807)).
 
 ### Genocide
 
@@ -4424,9 +4426,9 @@ The penalty is a custodial sentence of not less than five years for any person w
 
 ### Title Twelve<sup>ter</sup>: War Crimes
 
-[^book2-tit12ter-1]
+[^book2-tit12bis-1]
 
-[^book2-tit12ter-1]: Inserted by No I 1 of the FA of 18 June 2010 on the Amendment of Federal Legislation in Implementation of the Rome Statue of the International Criminal Court, in force since 1 Jan. 2011 ([AS 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [BBl 2008 3863](https://fedlex.data.admin.ch/eli/fga/2008/807)).
+[^book2-tit12bis-1]: Inserted by No I 1 of the FA of 18 June 2010 on the Amendment of Federal Legislation in Implementation of the Rome Statue of the International Criminal Court, in force since 1 Jan. 2011 ([AS 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [BBl 2008 3863](https://fedlex.data.admin.ch/eli/fga/2008/807)).
 
 ### 1. Scope of application
 
@@ -4561,9 +4563,9 @@ The penalty is a custodial sentence not exceeding three years or a monetary pena
 
 ### Title Twelve<sup>quater</sup>: Common Provisions for Title Twelve<sup>bis</sup> and Title Twelve<sup>ter</sup>
 
-[^book2-tit12quater-1]
+[^book2-tit12ter-1]
 
-[^book2-tit12quater-1]: Inserted by No I 1 of the FA of 18 June 2010 on the Amendment of Federal Legislation in Implementation of the Rome Statue of the International Criminal Court, in force since 1 Jan. 2011 ([AS 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [BBl 2008 3863](https://fedlex.data.admin.ch/eli/fga/2008/807)).
+[^book2-tit12ter-1]: Inserted by No I 1 of the FA of 18 June 2010 on the Amendment of Federal Legislation in Implementation of the Rome Statue of the International Criminal Court, in force since 1 Jan. 2011 ([AS 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [BBl 2008 3863](https://fedlex.data.admin.ch/eli/fga/2008/807)).
 
 ### Criminal liability of superiors
 
@@ -5175,9 +5177,9 @@ A serious case is constituted, in particular, where the offender:
 
 ### Insufficient diligence in financial transactions and right to report
 
-[^book2-tit17-lvlu5-1]
+[^book2-tit16-lvlu5-1]
 
-[^book2-tit17-lvlu5-1]: Amended by No I of the FA of 18 March 1994, in force since 1 Aug. 1994 ([AS 1994 1614](https://fedlex.data.admin.ch/eli/oc/1994/1614_1614_1614)1618; [BBl 1993 III 277](https://fedlex.data.admin.ch/eli/fga/1993/3_277_269_193)).
+[^book2-tit16-lvlu5-1]: Amended by No I of the FA of 18 March 1994, in force since 1 Aug. 1994 ([AS 1994 1614](https://fedlex.data.admin.ch/eli/oc/1994/1614_1614_1614)1618; [BBl 1993 III 277](https://fedlex.data.admin.ch/eli/fga/1993/3_277_269_193)).
 
 #### Art. 305<sup>ter</sup>
 
@@ -5463,9 +5465,9 @@ A breach of professional confidentiality remains an offence following the termin
 
 ### Title Nineteen: Bribery
 
-[^book2-tit19-1]
+[^book2-tit18-1]
 
-[^book2-tit19-1]: Inserted by No I 1 of the FA of 22 Dec. 1999 (Revision of the Criminal Law on Corruption), in force since 1 May 2000 ([AS 2000 1121](https://fedlex.data.admin.ch/eli/oc/2000/180)1126; [BBl 1999 5497](https://fedlex.data.admin.ch/eli/fga/1999/1_5497_5045_4721)).
+[^book2-tit18-1]: Inserted by No I 1 of the FA of 22 Dec. 1999 (Revision of the Criminal Law on Corruption), in force since 1 May 2000 ([AS 2000 1121](https://fedlex.data.admin.ch/eli/oc/2000/180)1126; [BBl 1999 5497](https://fedlex.data.admin.ch/eli/fga/1999/1_5497_5045_4721)).
 
 ### 1. Bribery of Swiss public officials
 
@@ -5562,9 +5564,9 @@ The following are not undue advantages:
 
 ### Title Twenty: Contraventions of Federal Law
 
-[^book2-tit20-1]
+[^book2-tit19-1]
 
-[^book2-tit20-1]: Originally Title 19.
+[^book2-tit19-1]: Originally Title 19.
 
 ### Failure of a debtor to comply with the regulations governing Debt Enforcement and Bankruptcy proceedings
 
@@ -5672,9 +5674,9 @@ shall be liable on complaint by the tenant to a fine.
 
 ### Application to legal entities, trading companies and sole proprietorships
 
-[^book2-tit20-lvlu7-1]
+[^book2-tit19-lvlu7-1]
 
-[^book2-tit20-lvlu7-1]: Footnote relevant to German text only.
+[^book2-tit19-lvlu7-1]: Footnote relevant to German text only.
 
 ### 1. ...
 
@@ -5686,9 +5688,9 @@ shall be liable on complaint by the tenant to a fine.
 
 ### 2. In cases falling under Article 325<sup>quater</sup>
 
-[^book2-tit20-lvlu7-lvl2-1]
+[^book2-tit19-lvlu7-lvl2-1]
 
-[^book2-tit20-lvlu7-lvl2-1]: Amended by No III 2 of the FA of 19 June 2020 (Indirect Counter-Proposal to the Popular Initiative "For responsible businesses – protecting human rights and the environment"), in force since 1 Jan. 2022 ([AS 2021 846](https://fedlex.data.admin.ch/eli/oc/2021/846); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^book2-tit19-lvlu7-lvl2-1]: Amended by No III 2 of the FA of 19 June 2020 (Indirect Counter-Proposal to the Popular Initiative "For responsible businesses – protecting human rights and the environment"), in force since 1 Jan. 2022 ([AS 2021 846](https://fedlex.data.admin.ch/eli/oc/2021/846); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 326<sup>bis</sup>
 
@@ -6291,7 +6293,7 @@ If an investigating authority establishes that pornographic articles (Art. 197 p
 
 [^364-1]: Repealed by Annex No 1 of the FA of 15 Dec. 2017 (Child Protection), with effect from 1 Jan. 2019 ([AS 2018 2947](https://fedlex.data.admin.ch/eli/oc/2018/450); [BBl 2015 3431](https://fedlex.data.admin.ch/eli/fga/2015/838)).
 
-### Title Six …
+### Title Six: …
 
 #### Art. 365–369
 

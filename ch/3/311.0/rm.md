@@ -4,11 +4,11 @@ title: Cudesch penal svizzer dals 21 da december 1937
 short: CP
 eli: "https://fedlex.data.admin.ch/eli/cc/54/757_781_799"
 language: rm
-version: 2023-12-06
+version: 2024-01-01
 adopted: 1937-12-21
 in_force: 1942-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20231206/rm/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20231206-rm-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20231206/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20240101/rm/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20240101-rm-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20240101/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20231206/rm"
 
 Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Confederaziun, numnadamain en la correspundenza cun persunas da lingua rumantscha. La translaziun d’in decret federal serva a l’infurmaziun, n’ha dentant nagina validitad legala.
 
-dals 21 da december 1937 (versiun dal 6 da december 2023)
+dals 21 da december 1937 (versiun dal 1. da schaner 2024)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -1130,10 +1130,12 @@ L’autoritad cumpetenta prenda las decisiuns tenor l’alinea 1 sin basa:
 
 <sup>1</sup> Sch’in sentenzià ademplescha las premissas d’ina mesira terapeutica staziunara avant u durant l’expiaziun d’in chasti da detenziun u d’in internament tenor l’artitgel 64 alinea 1, po la dretgira ordinar posteriuramain questa mesira.[^65-1] Cumpetenta è la dretgira che ha pronunzià il chastì u che ha ordinà l’internament. L’execuziun d’in chasti restant vegn suspendida.
 
-<sup>2</sup> Sch’i resulta – durant l’expiaziun dal chasti da detenziun e sin basa da novs fatgs u da novas cumprovas – ch’in sentenzià ademplescha las premissas da l’internament e las ha ademplidas gia il mument da la condemnaziun, senza che la dretgira haja pudì avair enconuschientscha da quai, po la dretgira ordinar posteriuramain l’internament. La cumpetenza e la procedura sa drizzan tenor las reglas che valan per la revisiun.[^65-2]
+<sup>2</sup> Sch’i resulta – durant l’expiaziun dal chasti da detenziun e sin basa da novs fatgs u da novas cumprovas – ch’in sentenzià ademplescha las premissas da l’internament e las ha ademplidas gia il mument da la condemnaziun, senza che la dretgira haja pudì avair enconuschientscha da quai, po la dretgira ordinar posteriuramain l’internament. La cumpetenza e la procedura sa drizzan tenor las reglas che valan per la revisiun (art. 410–415 dal Cudesch da procedura penala[^65-2]).[^65-3] [^65-4]
 
 [^65-1]: Versiun tenor la cifra I da la LF dals 21 da dec. 2007 (internament da delinquents privlus per vita duranta), en vigur dapi il 1. d’avust 2008 ([AS 2008 2961](https://fedlex.data.admin.ch/eli/oc/2008/413); [BBl 2006 889](https://fedlex.data.admin.ch/eli/fga/2006/104)).
-[^65-2]: Integrà tras la cifra I da la LF dals 24 da mars 2006 (correcturas concernent las sancziuns ed il register penal), en vigur dapi il 1. da schan. 2007 ([AS 2006 3539](https://fedlex.data.admin.ch/eli/oc/2006/550); [BBl 2005 4689](https://fedlex.data.admin.ch/eli/fga/2005/735)).
+[^65-2]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^65-3]: Versiun da la segunda frasa tenor la cifra 4 da l’agiunta 1 da la LF dals 17 da zer. 2022, en vigur dapi il 1. da schan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468), [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^65-4]: Integrà tras la cifra I da la LF dals 24 da mars 2006 (correcturas concernent las sancziuns ed il register penal), en vigur dapi il 1. da schan. 2007 ([AS 2006 3539](https://fedlex.data.admin.ch/eli/oc/2006/550); [BBl 2005 4689](https://fedlex.data.admin.ch/eli/fga/2005/735)).
 
 ### Segunda secziun: Autras mesiras
 
@@ -1507,7 +1509,9 @@ Schʼil delinquent ha utilisà in vehichel a motor per commetter in crim u in de
 
 <sup>2</sup> La dretgira po desister dal tuttafatg u per part d’ina pretensiun d’indemnisaziun, sche quella fiss previsiblamain nunincassabla u impediss seriusamain la reintegraziun dal pertutgà.
 
-<sup>3</sup> En vista a l’execuziun d’ina pretensiun d’indemnisaziun po l’autoritad d’inquisiziun sequestrar valurs da facultad dal pertutgà. La sequestraziun na constituescha nagin privilegi a favur dal stadi en il rom da l’execuziun sfurzada da la pretensiun d’indemnisaziun.
+<sup>3</sup> …[^71-1]
+
+[^71-1]: Abolì tras la cifra 4 da l’agiunta 1 da la LF dals 17 da zer. 2022, cun effect dapi il 1. da schan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 ### Confiscaziun da valurs da facultad d’ina organisaziun criminala u terroristica
 
@@ -2262,7 +2266,7 @@ Tgi che chaschuna la mort d’in uman tras negligientscha, vegn chastià cun in 
 
 <sup>4</sup> Ils chantuns designeschan las praticas ed ils ospitals che adempleschan las premissas per exequir en moda cumpetenta ina interrupziun da la gravidanza e per dar ina cussegliaziun detagliada.
 
-<sup>5</sup> Per intents statistics vegn ina interrupziun da la gravidanza annunziada a l’autoritad cumpetenta, observond l’anonimitad da la dunna pertutgada ed il secret medicinal.
+<sup>5</sup> Per intents statistics vegn ina interrupziun da la gravidanza annunziada a l’autoritad cumpetenta, observond l’anonimitad da la dunna pertutgada ed il secret medical.
 
 [^119-1]: Versiun tenor la cifra I da la LF dals 23 da mars 2001 (interrupziun da la gravidanza), en vigur dapi il 1. d’oct. 2002 ([AS 2002 2989](https://fedlex.data.admin.ch/eli/oc/2002/429); BBl **1998** 3005 5376).
 
@@ -3019,7 +3023,9 @@ vegn chastià cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar.
 
 <sup>1</sup> Sch’il malfatg pertutga mo ina valur da facultad minima u sch’el chaschuna mo in pitschen donn, vegn il delinquent chastià, sin plant, cun multa.
 
-<sup>2</sup> Questa prescripziun na vala betg per l’enguladitsch qualifitgà (art. 139 cifras 2 e 3), per la rapina e per l’extorsiun.
+<sup>2</sup> Questa prescripziun na vala betg per l’enguladitsch qualifitgà (art. 139 cifras 2[^172ter-1] e 3), per la rapina e per l’extorsiun.
+
+[^172ter-1]: Quest numer é uss abolì.
 
 ### Terz titel: Acts chastiabels cunter l’onur e cunter la sfera secreta u privata
 
@@ -3220,12 +3226,10 @@ Tgi che fa abus d’in indriz da telecommunicaziun per inquietar u per mulestar 
 
 <sup>1</sup> Tgi che ordinescha u fa, cun l’explicita autorisaziun legala, la surveglianza da la correspundenza postala e dal traffic da telecommunicaziun d’ina persuna ubain fa diever d’apparats tecnics da surveglianza (art. 179<sup>bis</sup> ss.), n’è betg chastiabel, sch’el dumonda immediatamain l’approvaziun da la dretgira cumpetenta.
 
-<sup>2</sup> Las premissas per survegliar la correspundenza postala ed il traffic da telecommunicaziun e la procedura respectiva sa drizzan tenor la Lescha federala dals 18 da mars 2016[^179octies-2] davart la surveglianza da la correspundenza postala e dal traffic da telecommunicaziun u tenor il Cudesch da procedura penala[^179octies-3].[^179octies-4]
+<sup>2</sup> …[^179octies-2]
 
 [^179octies-1]: Integrà tras la cifra VII da la LF dals 23 da mars 1979 davart la protecziun da la sfera secreta persunala ([AS 1979 1170](https://fedlex.data.admin.ch/eli/oc/1979/1170_1170_1170); [BBl 1976 I 529](https://fedlex.data.admin.ch/eli/fga/1976/1_529__)II 1569). Versiun tenor la cifra 1 da l’agiunta da la LF dals 6 d’oct. 2000 davart la surveglianza dal traffic da posta e da telecommunicaziun, en vigur dapi il 1. da schan. 2002 ([AS 2001 3096](https://fedlex.data.admin.ch/eli/oc/2001/467); BBl **1998** 4241).
-[^179octies-2]: [SR 780.1](https://fedlex.data.admin.ch/eli/cc/2018/31)
-[^179octies-3]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^179octies-4]: Versiun tenor la cifra I 1 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, en vigur dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^179octies-2]: Abolì tras la cifra 2 da l’agiunta 1 da la LF dals 17 da zer. 2022, cun effect dapi il 1. da schan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 ### Procuraziun nunautorisada da datas da persunas
 
