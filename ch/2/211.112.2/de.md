@@ -4,11 +4,11 @@ title: Zivilstandsverordnung vom 28. April 2004 (ZStV)
 short: ZStV
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/362"
 language: de
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2004-04-28
 in_force: 2004-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/362/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2004-362-20230901-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/362/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/362/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2004-362-20240101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/362/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/362/20230901/de"
 
 (ZStV)
 
-vom 28. April 2004 (Stand am 1. September 2023)
+vom 28. April 2004 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -2032,13 +2032,13 @@ Die Daten werden nach dem hinterlegten Standardzeichensatz erfasst (ISO-Norm 885
 
 <sup>1</sup> Die Aufsichtsbehörden und das EAZW überwachen die Einhaltung des Datenschutzes und die Gewährleistung der Datensicherheit im Rahmen ihrer Aufsichts- und Inspektionstätigkeit (Art. 84 und 85). Sie sorgen dafür, dass Mängel beim Datenschutz und bei der Datensicherheit so rasch als möglich behoben werden.
 
-<sup>2</sup> Das EAZW lädt den Eidgenössischen Datenschutz- und Öffentlichkeitsbeauftragten (EDÖB) zur Stellungnahme ein, bevor es eine Massnahme trifft, die Fragen des Datenschutzes und der Datensicherheit betrifft.[^83-1]
+<sup>2</sup> Das EAZW zieht den Eidgenössischen Datenschutz- und Öffentlichkeitsbeauftragten sowie das Bundesamt für Cybersicherheit bei.[^83-1]
 
 <sup>3</sup> Es zieht das Nationale Zentrum für Cybersicherheit bei.[^83-2]
 
 <sup>4</sup> Der EDÖB koordiniert sich im Rahmen seiner Aufsicht mit dem EAZW und bei Bedarf mit den kantonalen Datenschutzbehörden.[^83-3]
 
-[^83-1]: Fassung gemäss Anhang 2 Ziff. II 27 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^83-1]: Fassung gemäss Ziff. II 6 der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
 [^83-2]: Eingefügt durch Anhang 2 Ziff. II 27 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^83-3]: Eingefügt durch Anhang 2 Ziff. II 27 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 

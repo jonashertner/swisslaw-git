@@ -4,11 +4,11 @@ title: "Ordonnance du 28 avril 2004 sur l'état civil (OEC)"
 short: OEC
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/362"
 language: fr
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2004-04-28
 in_force: 2004-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/362/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2004-362-20230901-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/362/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/362/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2004-362-20240101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/362/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/362/20230901/fr"
 
 (OEC)
 
-du 28 avril 2004 (État le 1<sup>er</sup> septembre 2023)
+du 28 avril 2004 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -2033,13 +2033,13 @@ Les données sont saisies selon le jeu de caractères ISO 8859-15[^80-2].
 
 <sup>1</sup> Les autorités de surveillance et l’OFEC veillent au respect de la protection et de la sécurité des données, dans le cadre de leurs activités de surveillance et d’inspection (art. 84 et 85). Elles pourvoient à ce que les carences en matière de protection et de sécurité des données soient éliminées dans les meilleurs délais.
 
-<sup>2</sup> L’OFEC invite le Préposé fédéral à la protection des données et à la transparence (PFPDT) à prendre position avant de prendre toute mesure concernant des questions de protection et de sécurité des données.[^83-1]
+<sup>2</sup> L’OFEC consulte le Préposé fédéral à la protection des données et à la transparence et l’Office fédéral de la cybersécurité.[^83-1]
 
 <sup>3</sup> Il consulte le Centre national pour la cybersécurité.[^83-2]
 
 <sup>4</sup> Dans le cadre de sa surveillance, le PFPDT assure la coordination avec l’OFEC et, en cas de besoin, avec les autorités cantonales de protection des données.[^83-3]
 
-[^83-1]: Nouvelle teneur selon l’annexe 2 ch. II 27 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^83-1]: Nouvelle teneur selon le ch. II 6 de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
 [^83-2]: Introduit par l’annexe 2 ch. II 27 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^83-3]: Introduit par l’annexe 2 ch. II 27 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 

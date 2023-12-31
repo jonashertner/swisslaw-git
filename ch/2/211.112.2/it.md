@@ -4,11 +4,11 @@ title: Ordinanza del 28 aprile 2004 sullo stato civile (OSC)
 short: OSC
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/362"
 language: it
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2004-04-28
 in_force: 2004-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/362/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2004-362-20230901-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/362/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/362/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2004-362-20240101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/362/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/362/20230901/it"
 
 (OSC)
 
-del 28 aprile 2004 (Stato 1° settembre 2023)
+del 28 aprile 2004 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -2034,13 +2034,13 @@ I dati sono registrati con il set di caratteri ISO 8859-15[^80-2].
 
 <sup>1</sup> Il controllo del rispetto delle prescrizioni sulla protezione dei dati e della garanzia della sicurezza dei dati compete alle autorità di vigilanza e all’UFSC nell’ambito della loro attività di vigilanza e ispezione (art. 84 e 85). Essi provvedono affinché le lacune nella protezione e nella sicurezza dei dati siano eliminate il più rapidamente possibile.
 
-<sup>2</sup> Prima di adottare un provvedimento riguardante le questioni della protezione dei dati e della sicurezza dei dati, l’UFSC invita l’Incaricato federale della protezione dei dati e della trasparenza (IFPDT) a presentare un parere.[^83-1]
+<sup>2</sup> L’UFSC consulta l’Incaricato federale della protezione dei dati e della trasparenza così come l’Ufficio federale della cibersicurezza.[^83-1]
 
 <sup>3</sup> Consulta il Centro nazionale per la cibersicurezza.[^83-2]
 
 <sup>4</sup> L’IFPDT, nell’ambito della sua vigilanza, si coordina con l’UFSC e se necessario con le autorità cantonali della protezione dei dati.[^83-3]
 
-[^83-1]: Nuovo testo giusta l’all. 2 n. II 27 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^83-1]: Nuovo testo giusta il n. II 6 dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
 [^83-2]: Introdotto dall’all. 2 n. II 27 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^83-3]: Introdotto dall’all. 2 n. II 27 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
