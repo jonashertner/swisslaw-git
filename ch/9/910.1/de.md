@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 29. April 1998 über die Landwirtschaft (Landwirtschaft
 short: LwG
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033"
 language: de
-version: 2023-07-01
+version: 2024-01-01
 adopted: 1998-04-29
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033/20230701/de/xml/fedlex-data-admin-ch-eli-cc-1998-3033_3033_3033-20230701-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/3033_3033_3033/20230701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033/20240101/de/xml/fedlex-data-admin-ch-eli-cc-1998-3033_3033_3033-20240101-de-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/3033_3033_3033/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/3033_3033_3033/20230701/de"
 
 (Landwirtschaftsgesetz, LwG)
 
-vom 29. April 1998 (Stand am 1. Juli 2023)
+vom 29. April 1998 (Stand am 1. Januar 2024)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -2358,6 +2358,26 @@ Der Bundesrat erlässt Vorschriften über die Kennzeichnung und die Verpackung d
 
 Der Bundesrat kann die Produzenten von Produktionsmitteln und die Handelsfirmen verpflichten, Angaben über die in der Schweiz in Verkehr gebrachten Mengen an Produktionsmitteln zu machen.
 
+#### Art. 164a
+
+**Mitteilungspflicht für Nährstofflieferungen**[^164a-1]
+
+<sup>1</sup> Kraftfutter- und Düngerlieferungen sind dem Bund mitzuteilen, damit dieser die Nährstoffüberschüsse national und regional bilanzieren kann.
+
+<sup>2</sup> Der Bundesrat legt den Kreis der Mitteilungspflichtigen fest und regelt insbesondere, welche Daten zu erfassen und welcher Stelle diese mitzuteilen sind.
+
+[^164a-1]: Eingefügt durch Ziff. I 3 des BG vom 19. März 2021 über die Verminderung der Risiken durch den Einsatz von Pestiziden, in Kraft seit 1. Jan. 2024 ([AS 2022 263](https://fedlex.data.admin.ch/eli/oc/2022/263); [BBl 2020 6523](https://fedlex.data.admin.ch/eli/fga/2020/1667), [6785](https://fedlex.data.admin.ch/eli/fga/2020/1771)).
+
+#### Art. 164b
+
+**Mitteilungspflicht für Pflanzenschutzmittel**[^164b-1]
+
+<sup>1</sup> Wer Pflanzenschutzmittel in Verkehr bringt, ist verpflichtet, dem Bund Daten über das Inverkehrbringen mitzuteilen.
+
+<sup>2</sup> Der Bundesrat regelt insbesondere, welche Daten zu erfassen und welcher Stelle diese mitzuteilen sind.
+
+[^164b-1]: Eingefügt durch Ziff. I 3 des BG vom 19. März 2021 über die Verminderung der Risiken durch den Einsatz von Pestiziden, in Kraft seit 1. Jan. 2024 ([AS 2022 263](https://fedlex.data.admin.ch/eli/oc/2022/263); [BBl 2020 6523](https://fedlex.data.admin.ch/eli/fga/2020/1667), [6785](https://fedlex.data.admin.ch/eli/fga/2020/1771)).
+
 #### Art. 165
 
 **Aufklärung**
@@ -2502,11 +2522,30 @@ Im Rahmen ihrer gesetzlichen Aufgaben können die folgenden Stellen und Personen
 - c. der Bewirtschafter oder die Bewirtschafterin, für Daten, die ihn oder sie betreffen;
 - d. Dritte, die über eine Ermächtigung des Bewirtschafters oder der Bewirtschafterin verfügen.
 
+#### Art. 165f <sup>bis</sup>
+
+**Zentrales Informationssystem zur Verwendung von Pflanzenschutzmitteln**[^165fbis-1]
+
+<sup>1</sup> Der Bund betreibt ein zentrales Informationssystem zur Erfassung der Verwendung von Pflanzenschutzmitteln durch berufliche und gewerbliche Verwenderinnen und Verwender sowie durch die öffentliche Hand.
+
+<sup>2</sup> Wer beruflich oder gewerblich Pflanzenschutzmittel verwendet, muss deren Verwendung im Informationssystem erfassen.
+
+<sup>3</sup>
+
+Im Rahmen ihrer gesetzlichen Aufgaben können die folgenden Stellen und Personen Daten im Informationssystem online abrufen:
+
+- a. die betroffenen Bundesstellen: zur Unterstützung des Vollzugs in ihrem jeweiligen Zuständigkeitsbereich;
+- b. die kantonalen Vollzugsbehörden und die von ihnen zur Ausführung von Kontrollen beauftragten Stellen: zur Erfüllung der Aufgaben in ihrem jeweiligen Zuständigkeitsbereich;
+- c. die Verwenderin oder der Verwender, für Daten, die sie oder ihn betreffen;
+- d. Dritte, die von der Verwenderin oder dem Verwender dazu ermächtigt wurden.
+
+[^165fbis-1]: Eingefügt durch Ziff. I 3 des BG vom 19. März 2021 über die Verminderung der Risiken durch den Einsatz von Pestiziden, in Kraft seit 1. Jan. 2024 ([AS 2022 263](https://fedlex.data.admin.ch/eli/oc/2022/263); [BBl 2020 6523](https://fedlex.data.admin.ch/eli/fga/2020/1667), [6785](https://fedlex.data.admin.ch/eli/fga/2020/1771)).
+
 #### Art. 165g
 
 **Ausführungsbestimmungen**
 
-Der Bundesrat regelt für die Informationssysteme nach den Artikeln 165*c*–165*f* insbesondere:
+Der Bundesrat regelt für die Informationssysteme nach den Artikeln 165*c*–165*f* <sup>bis</sup> insbesondere:[^165g-1]
 
 - a. die Form der Erhebung und die Termine der Datenlieferungen;
 - b. die Struktur und den Datenkatalog;
@@ -2516,6 +2555,8 @@ Der Bundesrat regelt für die Informationssysteme nach den Artikeln 165*c*–165
 - f. die Zusammenarbeit mit den Kantonen;
 - g. die Aufbewahrungs- und die Vernichtungsfrist;
 - h. die Archivierung.
+
+[^165g-1]: Fassung gemäss Ziff. I 3 des BG vom 19. März 2021 über die Verminderung der Risiken durch den Einsatz von Pestiziden, in Kraft seit 1. Jan. 2024 ([AS 2022 263](https://fedlex.data.admin.ch/eli/oc/2022/263); [BBl 2020 6523](https://fedlex.data.admin.ch/eli/fga/2020/1667), [6785](https://fedlex.data.admin.ch/eli/fga/2020/1771)).
 
 #### Art. 165g<sup>bis</sup>
 

@@ -4,11 +4,11 @@ title: "Lescha federala dals 29 d'avrigl 1998 davart l'agricultura (Lescha d'agr
 short: LAgr
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033"
 language: rm
-version: 2023-07-01
+version: 2024-01-01
 adopted: 1998-04-29
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033/20230701/rm/xml/fedlex-data-admin-ch-eli-cc-1998-3033_3033_3033-20230701-rm-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/3033_3033_3033/20230701/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033/20240101/rm/xml/fedlex-data-admin-ch-eli-cc-1998-3033_3033_3033-20240101-rm-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/3033_3033_3033/20240101/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (Lescha d’agricultura, LAgr)
 
-dals 29 d’avrigl 1998 (versiun dal 1. da fanadur 2023)
+dals 29 d’avrigl 1998 (versiun dal 1. da schaner 2024)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -2360,6 +2360,26 @@ Il Cussegl federal decretescha prescripziuns per designar e per emballar ils med
 
 Il Cussegl federal po obligar ils producents da meds da producziun e las firmas da commerzi da far indicaziuns davart las quantitads da meds da producziun ch’èn vegnidas messas en circulaziun en Svizra.
 
+#### Art. 164a
+
+**Obligaziun da communitgar furniziuns da substanzas nutritivas**[^164a-1]
+
+<sup>1</sup> Las furniziuns da pavel concentrà e da ladim ston vegnir communitgadas a la Confederaziun, per che tala possia bilantschar ils surplis da substanzas nutritivas sin plaun naziunal e regiunal.
+
+<sup>2</sup> Il Cussegl federal fixescha il circul da las persunas ch’èn suttamessas a l’obligaziun da communicaziun e regla en spezial, tge datas ch’èn da registrar ed a tge servetsch ch’ellas ston vegnir communitgadas.
+
+[^164a-1]: Integrà tras la cifra I 3 da la LF dals 19 da mars 2021 davart la reducziun da las ristgas en connex cun il diever da pesticids, en vigur dapi il 1. da schan. 2024 ([AS 2022 263](https://fedlex.data.admin.ch/eli/oc/2022/263); [BBl 2020 6523](https://fedlex.data.admin.ch/eli/fga/2020/1667), [6785](https://fedlex.data.admin.ch/eli/fga/2020/1771)).
+
+#### Art. 164b
+
+**Obligaziun da communitgar products fitosanitars**[^164b-1]
+
+<sup>1</sup> Tgi che metta en circulaziun products fitosanitars, è obligà da communitgar a la Confederaziun las datas respectivas.
+
+<sup>2</sup> Il Cussegl federal regla en spezial, tge datas ch’èn da registrar ed a tge servetsch ch’ellas ston vegnir communitgadas.
+
+[^164b-1]: Integrà tras la cifra I 3 da la LF dals 19 da mars 2021 davart la reducziun da las ristgas en connex cun il diever da pesticids, en vigur dapi il 1. da schan. 2024 ([AS 2022 263](https://fedlex.data.admin.ch/eli/oc/2022/263); [BBl 2020 6523](https://fedlex.data.admin.ch/eli/fga/2020/1667), [6785](https://fedlex.data.admin.ch/eli/fga/2020/1771)).
+
 #### Art. 165
 
 **Infurmaziun**
@@ -2504,11 +2524,30 @@ En il rom da lur incumbensas legalas pon ils suandants servetschs e las suandant
 - c. l’administratur per datas che al concernan;
 - d. terzas persunas che possedan in’autorisaziun da l’administratur.
 
+#### Art. 165f <sup>bis</sup>
+
+**Sistem d’infurmaziun central per l’utilisaziun da products fitosanitars**[^165fbis-1]
+
+<sup>1</sup> La Confederaziun maina in sistem d’infurmaziun central per registrar l’utilisaziun da products fitosanitars tras utilisaders professiunals e commerzials sco er tras il maun public.
+
+<sup>2</sup> Tgi che utilisescha products fitosanitars per intents professiunals u commerzials, sto endatar l’utilisaziun en il sistem d’infurmaziun.
+
+<sup>3</sup>
+
+En il rom da lur incumbensas legalas pon ils suandants servetschs e las suandantas persunas consultar online datas en il sistem d’infurmaziun:
+
+- a. ils servetschs federals pertutgads: per sustegnair l’execuziun en lur champ da cumpetenza respectiv;
+- b. las autoritads executivas chantunalas ed ils servetschs ch’èn incumbensads dad ellas da far las controllas: per ademplir las incumbensas legalas da lur champ da cumpetenza;
+- c. l’utilisader: per las datas che pertutgan el sez;
+- d. terzas persunas ch’èn vegnidas autorisadas da l’utilisader da consultar las datas.
+
+[^165fbis-1]: Integrà tras la cifra I 3 da la LF dals 19 da mars 2021 davart la reducziun da las ristgas en connex cun il diever da pesticids, en vigur dapi il 1. da schan. 2024 ([AS 2022 263](https://fedlex.data.admin.ch/eli/oc/2022/263); [BBl 2020 6523](https://fedlex.data.admin.ch/eli/fga/2020/1667), [6785](https://fedlex.data.admin.ch/eli/fga/2020/1771)).
+
 #### Art. 165g
 
 **Disposiziuns executivas**
 
-Per ils sistems d’infurmaziun tenor ils artitgels 165*c*–165*f* regla il Cussegl federal spezialmain:
+Per ils sistems d’infurmaziun tenor ils artitgels 165*c*–165*f* <sup>bis</sup> regla il Cussegl federal spezialmain:[^165g-1]
 
 - a. la furma da la retschertga da datas ed ils termins da las furniziuns da las datas;
 - b. la structura ed il catalog da datas;
@@ -2518,6 +2557,8 @@ Per ils sistems d’infurmaziun tenor ils artitgels 165*c*–165*f* regla il Cus
 - f. la collavuraziun cun ils chantuns;
 - g. ils termins da tegnair en salv e da stizzar las datas;
 - h. l’archivaziun.
+
+[^165g-1]: Versiun tenor la cifra I 3 da la LF dals 19 da mars 2021 davart la reducziun da las ristgas en connex cun il diever da pesticids, en vigur dapi il 1. da schan. 2024 ([AS 2022 263](https://fedlex.data.admin.ch/eli/oc/2022/263); [BBl 2020 6523](https://fedlex.data.admin.ch/eli/fga/2020/1667), [6785](https://fedlex.data.admin.ch/eli/fga/2020/1771)).
 
 #### Art. 165g<sup>bis</sup>
 

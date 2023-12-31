@@ -4,11 +4,11 @@ title: "Legge federale del 29 aprile 1998 sull'agricoltura (Legge sull'agricoltu
 short: LAgr
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033"
 language: it
-version: 2023-07-01
+version: 2024-01-01
 adopted: 1998-04-29
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033/20230701/it/xml/fedlex-data-admin-ch-eli-cc-1998-3033_3033_3033-20230701-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/3033_3033_3033/20230701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033/20240101/it/xml/fedlex-data-admin-ch-eli-cc-1998-3033_3033_3033-20240101-it-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/3033_3033_3033/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/3033_3033_3033/20230701/it"
 
 (Legge sull’agricoltura, LAgr)
 
-del 29 aprile 1998 (Stato 1° luglio 2023)
+del 29 aprile 1998 (Stato 1° gennaio 2024)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -2354,6 +2354,26 @@ Il Consiglio federale emana prescrizioni relative alla caratterizzazione e all�
 
 Il Consiglio federale può obbligare i produttori di mezzi di produzione e le ditte che ne fanno commercio a fornire indicazioni sulle quantità di mezzi di produzione messi in commercio in Svizzera.
 
+#### Art. 164a
+
+**Obbligo di comunicazione relativo alle forniture di sostanze nutritive**[^164a-1]
+
+<sup>1</sup> Le forniture di alimenti concentrati per animali e di concimi vanno comunicate alla Confederazione affinché essa possa tenere un bilancio delle eccedenze di sostanze nutritive a livello nazionale e regionale.
+
+<sup>2</sup> Il Consiglio federale disciplina la cerchia delle persone soggette all’obbligo di comunicazione e stabilisce in particolare i dati da rilevare e l’autorità cui vanno comunicati.
+
+[^164a-1]: Introdotto dal n. I 3 della LF del 19 mar. 2021 sulla riduzione dei rischi associati all’impiego di pesticidi, in vigore dal 1° gen 2024 ([RU 2022 263](https://fedlex.data.admin.ch/eli/oc/2022/263); [FF 2020 5759](https://fedlex.data.admin.ch/eli/fga/2020/1667), [5967](https://fedlex.data.admin.ch/eli/fga/2020/1771)).
+
+#### Art. 164b
+
+**Obbligo di comunicazione relativo ai prodotti fitosanitari**[^164b-1]
+
+<sup>1</sup> Chiunque mette in commercio prodotti fitosanitari è tenuto a comunicare alla Confederazione i pertinenti dati.
+
+<sup>2</sup> Il Consiglio federale stabilisce in particolare i dati da rilevare e l’autorità cui vanno comunicati.
+
+[^164b-1]: Introdotto dal n. I 3 della LF del 19 mar. 2021 sulla riduzione dei rischi associati all’impiego di pesticidi, in vigore dal 1° gen 2024 ([RU 2022 263](https://fedlex.data.admin.ch/eli/oc/2022/263); [FF 2020 5759](https://fedlex.data.admin.ch/eli/fga/2020/1667), [5967](https://fedlex.data.admin.ch/eli/fga/2020/1771)).
+
 #### Art. 165
 
 **Informazione**
@@ -2498,11 +2518,30 @@ Nell’ambito dei loro compiti legali, i servizi e le persone seguenti possono a
 - c. il gestore interessato da questi dati;
 - d. i terzi autorizzati dal gestore.
 
+#### Art. 165f <sup>bis</sup>
+
+**Sistema d’informazione centrale sull’impiego di prodotti fitosanitari**[^165fbis-1]
+
+<sup>1</sup> La Confederazione gestisce un sistema d’informazione centrale per registrare l’impiego di prodotti fitosanitari per scopi professionali e commerciali, nonché da parte degli enti pubblici.
+
+<sup>2</sup> Chiunque impiega prodotti fitosanitari per scopi professionali o commerciali ne registra nel sistema d’informazione l’impiego.
+
+<sup>3</sup>
+
+Nell’ambito dei loro compiti legali, i servizi e le persone seguenti possono accedere in linea ai dati del sistema d’informazione:
+
+- a. i servizi federali interessati, per sostenere l’esecuzione nel loro rispettivo ambito di competenza;
+- b. le autorità cantonali di esecuzione e i servizi da esse incaricati di effettuare controlli, per l’adempimento dei compiti nel loro rispettivo ambito di competenza;
+- c. la persona che impiega tali prodotti, ai dati che la concernono;
+- d. i terzi autorizzati dalla persona che impiega tali prodotti.
+
+[^165fbis-1]: Introdotto dal n. I 3 della LF del 19 mar. 2021 sulla riduzione dei rischi associati all’impiego di pesticidi, in vigore dal 1° gen 2024 ([RU 2022 263](https://fedlex.data.admin.ch/eli/oc/2022/263); [FF 2020 5759](https://fedlex.data.admin.ch/eli/fga/2020/1667), [5967](https://fedlex.data.admin.ch/eli/fga/2020/1771)).
+
 #### Art. 165g
 
 **Disposizioni d’esecuzione**
 
-Per i sistemi d’informazione di cui agli articoli 165*c*–165*f*, il Consiglio federale disciplina in particolare:
+Per i sistemi d’informazione di cui agli articoli 165*c*–165*f* <sup>bis</sup>, il Consiglio federale disciplina in particolare:[^165g-1]
 
 - a. la forma della rilevazione e i termini per la consegna dei dati;
 - b. la struttura e il catalogo dei dati;
@@ -2512,6 +2551,8 @@ Per i sistemi d’informazione di cui agli articoli 165*c*–165*f*, il Consigli
 - f. la collaborazione con i Cantoni;
 - g. il termine di conservazione dei dati e il termine entro il quale i dati devono essere distrutti;
 - h. l’archiviazione.
+
+[^165g-1]: Nuovo testo giusta il n. I 3 della LF del 19 mar. 2021 sulla riduzione dei rischi associati all’impiego di pesticidi, in vigore dal 1° gen 2024 ([RU 2022 263](https://fedlex.data.admin.ch/eli/oc/2022/263); [FF 2020 5759](https://fedlex.data.admin.ch/eli/fga/2020/1667), [5967](https://fedlex.data.admin.ch/eli/fga/2020/1771)).
 
 #### Art. 165g<sup>bis</sup>
 

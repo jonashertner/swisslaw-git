@@ -4,11 +4,11 @@ title: "Federal Act of 29 April 1998 on Agriculture (Agriculture Act, AgricA)"
 short: AgricA
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033"
 language: en
-version: 2023-07-01
+version: 2024-01-01
 adopted: 1998-04-29
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033/20230701/en/xml/fedlex-data-admin-ch-eli-cc-1998-3033_3033_3033-20230701-en-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/3033_3033_3033/20230701/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033/20240101/en/xml/fedlex-data-admin-ch-eli-cc-1998-3033_3033_3033-20240101-en-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/3033_3033_3033/20240101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Agriculture Act, AgricA)
 
-of 29 April 1998 (Status as of 1 July 2023)
+of 29 April 1998 (Status as of 1 January 2024)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -1911,11 +1911,11 @@ The agricultural research stations have assigned the following tasks in particul
 
 #### Art. 117
 
-**The Agricultural Research Committee**
+**Agricultural Research Council**
 
-<sup>1</sup> The Federal Council shall appoint the Agricultural Research Standing Committee, comprising a maximum of 15 members. Interested parties, in particular producers, consumers and scientists, must be proportionally represented on the Research Committee.[^117-1]
+<sup>1</sup> The Federal Council shall appoint the Agricultural Research Council, a permanent body comprising a maximum of 15 members. Interested parties, in particular producers, consumers and scientists, must be proportionally represented on the Research Council.[^117-1]
 
-<sup>2</sup> The Research Committee shall provide the FOAG with recommendations on agricultural research, in particular for its long-term planning.
+<sup>2</sup> The Research Council shall provide the FOAG with recommendations on agricultural research, in particular for its long-term planning.
 
 [^117-1]: Amended by No I 6.5 of the Ordinance of 9 Nov. 2011 (Review of the extra-parliamentary commissions), in force since 1 Jan. 2012 ([AS 2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)).
 
@@ -2362,6 +2362,26 @@ The Federal Council shall issue regulations on the labelling and packaging of ai
 
 The Federal Council may require the producers of aids to production and trading firms to provide information about the quantities of aids to production that are brought into circulation in Switzerland.
 
+#### Art. 164a
+
+**Duty to notify for nutrient supplies**[^164a-1]
+
+<sup>1</sup> The Confederation shall be notified of supplies of concentrated feed and fertiliser so that it can balance excesses of nutrients nationally and regionally.
+
+<sup>2</sup> The Federal Council shall determine the persons subject to the duty to notify and in particular regulate which data shall be recorded and which body shall receive the data.
+
+[^164a-1]: Inserted by No I 3 of the FA of 19 March 2021 on Reducing the Risks of Pesticide Use, in force since 1 Jan. 2024 ([AS 2022 263](https://fedlex.data.admin.ch/eli/oc/2022/263); [BBl 2020 6523](https://fedlex.data.admin.ch/eli/fga/2020/1667), [6785](https://fedlex.data.admin.ch/eli/fga/2020/1771)).
+
+#### Art. 164b
+
+**Duty to notify for plant protection substances**[^164b-1]
+
+<sup>1</sup> Any person who puts plant protection substances into circulation shall notify the Confederation that it has done so.
+
+<sup>2</sup> The Federal Council shall determine which data shall be recorded and which body shall receive the data.
+
+[^164b-1]: Inserted by No I 3 of the FA of 19 March 2021 on Reducing the Risks of Pesticide Use, in force since 1 Jan. 2024 ([AS 2022 263](https://fedlex.data.admin.ch/eli/oc/2022/263); [BBl 2020 6523](https://fedlex.data.admin.ch/eli/fga/2020/1667), [6785](https://fedlex.data.admin.ch/eli/fga/2020/1771)).
+
 #### Art. 165
 
 **Information**
@@ -2489,13 +2509,13 @@ As part of their legal obligations, the following agencies and individuals may d
 
 #### Art. 165f
 
-**Central information system for the movement of fertilisers**
+**Central information system for the movement of nutrients**
 
-<sup>1</sup> The FOAG operates an information system for recording the movement of fertilisers in agriculture.
+<sup>1</sup> The FOAG operates an information system for recording the movement of nutrients in agriculture.
 
-<sup>2</sup> Farms that provide fertiliser are obliged to record all deliveries in the information system.
+<sup>2</sup> Farms that supply nutrients are obliged to record all supplies in the information system.
 
-<sup>3</sup> Farms that receive fertiliser are obliged to record all deliveries in the information system.
+<sup>3</sup> Farms that receive nutrients are obliged to confirm all supplies in the information system.
 
 <sup>4</sup>
 
@@ -2506,11 +2526,30 @@ As part of their legal obligations, the following agencies and individuals can d
 - c. the farmer, for data that concerns him or her;
 - d. third parties who have authorisation from the farmer.
 
+#### Art. 165f <sup>bis</sup>
+
+**Central information system on the use of plant protection substances**[^165fbis-1]
+
+<sup>1</sup> The Confederation shall operate a central information system to record the use of plant protection substances by professional and commercial users and by public bodies.
+
+<sup>2</sup> Any person who uses plant protection substances professionally or commercially must record their use in the information system.
+
+<sup>3</sup>
+
+Within the scope of their statutory duties, the following authorities and persons may access the data in the information system online:
+
+- a. the federal authorities concerned: to support implementation in their particular area of responsibility;
+- b. the cantonal executive authorities and the agencies that they instruct to carry out checks: to fulfil their duties in their particular area of responsibility;
+- c. the users, for data that relate to them;
+- d. third parties authorised to do so by users.
+
+[^165fbis-1]: Inserted by No I 3 of the FA of 19 March 2021 on Reducing the Risks of Pesticide Use, in force since 1 Jan. 2024 ([AS 2022 263](https://fedlex.data.admin.ch/eli/oc/2022/263); [BBl 2020 6523](https://fedlex.data.admin.ch/eli/fga/2020/1667), [6785](https://fedlex.data.admin.ch/eli/fga/2020/1771)).
+
 #### Art. 165g
 
-**Provisions for implementation**
+**Implementing provisions**
 
-The Federal Council shall draw up regulations regarding the information system according to Articles 165*c*–165*f* in particular for:
+The Federal Council shall draw up regulations regarding the information system according to Articles 165*c*<sup>bis</sup>–165*f*<sup>bis</sup> in particular for:[^165g-1]
 
 - a. the form of the data collection and the dates when information must be provided;
 - b. the structure and the data catalogue;
@@ -2520,6 +2559,8 @@ The Federal Council shall draw up regulations regarding the information system a
 - f. collaboration with the cantonal authorities;
 - g. the duration of storage and point at which the data are to be destroyed;
 - h. archiving.
+
+[^165g-1]: Amended by No I 3 of the FA of 19 March 2021 on Reducing the Risks of Pesticide Use, in force since 1 Jan. 2024 ([AS 2022 263](https://fedlex.data.admin.ch/eli/oc/2022/263); [BBl 2020 6523](https://fedlex.data.admin.ch/eli/fga/2020/1667), [6785](https://fedlex.data.admin.ch/eli/fga/2020/1771)).
 
 #### Art. 165g<sup>bis</sup>
 
@@ -3074,4 +3115,4 @@ The following are repealed:
 
 ...[^annexu1-lvlu1-lvlu2-1]
 
-[^annexu1-lvlu1-lvlu2-1]: The amendments may be consulted under [AS 1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033).
+[^annexu1-lvlu1-lvlu2-1]: The amendments may be consulted under [AS 1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)..
