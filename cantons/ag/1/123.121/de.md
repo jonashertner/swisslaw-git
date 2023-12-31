@@ -4,13 +4,13 @@ number: "123.121"
 title: Vollziehungsverordnung zum Bundesgesetz über die Ausweise für Schweizer Staatsangehörige
 short: VV Ausweisgesetz
 language: de
-version: 2021-01-01
-valid_until: 2023-12-31
-version_adopted: 2020-09-23
+version: 2024-01-01
+valid_until: 2024-06-30
+version_adopted: 2023-09-27
 adopted: 2002-12-18
 in_force: 2003-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/123.121"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2916/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3363/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2916/pdf_file"
 
 (VV Ausweisgesetz)
 
-Vom 18.12.2002 (Stand 01.01.2021)
+Vom 18.12.2002 (Stand 01.01.2024)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -41,7 +41,7 @@ beschliesst:
 
 #### § 2a
 
-<sup>1</sup> Die antragstellende Person kann bei der persönlichen Vorsprache eine digitale Fotografie mitbringen, welche den bundesrechtlichen Anforderungen entspricht.
+<sup>1</sup> Die antragstellende Person kann eine digitale Fotografie beibringen, die den bundesrechtlichen Anforderungen entspricht.
 
 #### § 3
 
