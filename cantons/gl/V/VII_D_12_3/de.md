@@ -4,13 +4,12 @@ number: VII D/12/3
 title: Verordnung über die Gebühren im Strassenverkehr und in der Schifffahrt
 short: "Strassen- und Schifffahrtsgebührenverordnung, StrGebV"
 language: de
-version: 2021-01-01
-valid_until: 2023-12-31
-version_adopted: 2020-12-22
+version: 2024-01-01
+version_adopted: 2023-12-12
 adopted: 2015-11-17
 in_force: 2016-01-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/VII-D.12.3"
-pdf: "https://gesetze.gl.ch/api/de/versions/2210/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2461/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2210/pdf_file"
 
 (Strassen- und Schifffahrtsgebührenverordnung, StrGebV)
 
-Vom 17.11.2015 (Stand 01.01.2021)
+Vom 17.11.2015 (Stand 01.01.2024)
 
 Der Regierungsrat,
 
@@ -257,6 +256,7 @@ verordnet:
 - e. Schiffsausweis: — 60 Fr.
 - f. Änderung oder Duplikat Schiffsausweis: — 60 Fr.
 - g. Versicherungswechsel Schiffsausweis: — 60 Fr.
+- h. Gesuchsbearbeitung Schiffsführerausweis: — 25 Fr.
 
 #### Art. 18
 
