@@ -4,11 +4,10 @@ number: "142.20"
 title: Verordnung über die Zuständigkeiten im Ausländerrecht (VZA)
 short: VZA
 language: de
-version: "2022-01-01"
-nachtrag: "116"
-valid_until: 2024-01-01
+version: "2024-01-01"
+nachtrag: "123"
 adopted: 2011-09-21
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-142_20-2011_09_21-2011_12_01-116.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-142_20-2011_09_21-2011_12_01-123.html"
 text: pdf
 ---
 
@@ -28,20 +27,25 @@ beschliesst:
 
 § 1.[^t-6] <sup>1</sup> Zuständig für den Vollzug des AIG[^t-3] ist das Migrationsamt, soweit Gesetz und Verordnung nichts Abweichendes regeln.
 
-<sup>2</sup> Das Amt für Wirtschaft und Arbeit (AWA) erlässt arbeitsmarktliche Vorentscheide im Sinne von Art. 40 Abs. 2 AIG[^t-3].[^t-5]
+<sup>2</sup> Das Amt für Wirtschaft (AWI)[^t-7] erlässt arbeitsmarktliche Vorentscheide im Sinne von Art. 40 Abs. 2 AIG[^t-3].[^t-5]
 
-<sup>3</sup> Abweichungen von der Zuständigkeit des AWA ergeben sich aus dem Anhang.
+<sup>3</sup> Abweichungen von der Zuständigkeit des AWI[^t-7] ergeben sich aus dem Anhang.
 
 [^t-1]: OS 66, 822; Begründung siehe ABl 2011, 2826.
 [^t-2]: Inkrafttreten: 1. Dezember 2011.
 [^t-3]: SR 142.20.
 [^t-4]: SR 142.201.
-[^t-5]: Fassung gemäss RRB vom 9. Februar 2022 (OS 77, 135; ABl 2022-02-18). In Kraft seit 1. Januar 2022. 1. 4. 22 - 116 1
+[^t-5]: Fassung gemäss RRB vom 9. Februar 2022 (OS 77, 135; ABl 2022-02-18). In Kraft seit 1. Januar 2022.
 [^t-6]: Fassung gemäss RRB vom 28. November 2018 (OS 73, 525; ABl 2018-12-07). In Kraft seit 1. Januar 2019.
+[^t-7]: Fassung gemäss RRB vom 12. Dezember 2023 (OS 78, 546; ABl 2023-12-15). In Kraft seit 1. Januar 2024. 1. 1. 24 - 123 1
 
 ### Anhang
 
-### Aufgabenteilung zwischen dem Amt für Wirtschaft und Arbeit und dem Migrationsamt
+[^hAnhang-1]: Fassung gemäss RRB vom 12. Dezember 2023 (OS 78, 546; ABl 2023-12-15). In Kraft seit 1. Januar 2024. 1. 1. 24 - 123 1
+
+### Aufgabenteilung zwischen dem Amt für Wirtschaft und dem Migrationsamt
+
+[^hAnhang-1]
 
 **A.**
 
@@ -70,12 +74,13 @@ bei Drittstaatsangehörigen:
 - c. Erteilung von Arbeitsbewilligungen an Doktorandinnen und Doktoranden, Postdoktorandinnen und Postdoktoranden, akademische Gäste sowie Sabbatical Leaves gestützt auf Art. 40 VZAE.
 
 [^hDasMigrationsamtis-1]: Fassung gemäss RRB vom 14. Dezember 2016 (OS 72, 100; ABl 2016-12-23). In Kraft seit 1. April 2017.
-[^hDasMigrationsamtis-2]: Fassung gemäss RRB vom 9. Februar 2022 (OS 77, 135; ABl 2022-02-18). In Kraft seit 1. Januar 2022. 1. 4. 22 - 116 1
-[^hDasMigrationsamtis-3]: Fassung gemäss RRB vom 28. November 2018 (OS 73, 525; ABl 2018-12-07). In Kraft seit 1. Januar 2019.
+[^hDasMigrationsamtis-2]: Fassung gemäss RRB vom 9. Februar 2022 (OS 77, 135; ABl 2022-02-18). In Kraft seit 1. Januar 2022.
+[^hDasMigrationsamtis-3]: Fassung gemäss RRB vom 12. Dezember 2023 (OS 78, 546; ABl 2023-12-15). In Kraft seit 1. Januar 2024. 1. 1. 24 - 123 1
+[^hDasMigrationsamtis-4]: Fassung gemäss RRB vom 28. November 2018 (OS 73, 525; ABl 2018-12-07). In Kraft seit 1. Januar 2019.
 
-### B. Das Amt für Wirtschaft und Arbeit ist zuständig für,
+### B. Das Amt für Wirtschaft ist zuständig für,
 
-[^hDasMigrationsamtis-3][^hDasMigrationsamtis-2]
+[^hDasMigrationsamtis-3][^hDasMigrationsamtis-4][^hDasMigrationsamtis-2]
 
 - 1\. das Meldeverfahren für entsandte Arbeitnehmerinnen und Arbeitnehmer, selbstständig erwerbende Dienstleistungserbringende sowie Arbeitnehmerinnen und Arbeitnehmer mit kurzfristiger Erwerbstätigkeit bei schweizerischen Arbeitgebenden bis zu drei Monaten bzw. 90 Arbeitstagen im Kalenderjahr,
 
@@ -93,7 +98,7 @@ bei Drittstaatsangehörigen:
 
 **3**
 
-- 1\. 4. 22 - 116
+- 1\. 1. 24 - 123
 
 [^hBDasAmtfürWirts-1]: SR 142.31.
 
