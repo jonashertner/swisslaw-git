@@ -3,11 +3,11 @@ sr: "221.215.329.4"
 title: Ordinanza del 20 ottobre 2010 sul contratto normale di lavoro per il personale domestico (CNL personale domestico)
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/724"
 language: it
-version: 2023-01-01
+version: 2024-01-01
 adopted: 2010-10-20
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/724/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2010-724-20230101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/724/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/724/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2010-724-20240101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/724/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/724/20230101/it"
 
 (CNL personale domestico)
 
-del 20 ottobre 2010 (Stato 1° gennaio 2023)
+del 20 ottobre 2010 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -109,15 +109,15 @@ Sono considerati qualificati i lavoratori in possesso di:
 
 <table>
 <tr><th></th><th>Franchi all’ora</th></tr>
-<tr><td>a. per lavoratori non qualificati</td><td>19.50</td></tr>
-<tr><td>b. per lavoratori non qualificati con almeno quattro anni di esperienza professionale nell’economia domestica</td><td>21.40</td></tr>
-<tr><td>c. per lavoratori qualificati con AFC</td><td>23.55</td></tr>
-<tr><td>d. per lavoratori qualificati con CFP</td><td>21.40 .[^5-1]</td></tr>
+<tr><td>a. per lavoratori non qualificati</td><td>19.95</td></tr>
+<tr><td>b. per lavoratori non qualificati con almeno quattro anni di esperienza professionale nell’economia domestica</td><td>21.85</td></tr>
+<tr><td>c. per lavoratori qualificati con AFC</td><td>24.05</td></tr>
+<tr><td>d. per lavoratori qualificati con CFP</td><td>21.85 .[^5-1]</td></tr>
 </table>
 
 <sup>2</sup> La Segreteria di Stato dell’economia pubblica i salari mensili calcolati in base a questi salari orari, graduati secondo le ore di lavoro settimanali. Il calcolo dei salari mensili si basa sul versamento di 12 salari mensili all’anno.
 
-[^5-1]: Nuovo testo giusta il n. I dell’O del 9 dic. 2022, in vigore dal 1° gen. 2023 ([RU 2022 809](https://fedlex.data.admin.ch/eli/oc/2022/809)).
+[^5-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 771](https://fedlex.data.admin.ch/eli/oc/2023/771)).
 
 #### Art. 6
 

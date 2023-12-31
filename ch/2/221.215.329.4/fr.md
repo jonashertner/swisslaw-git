@@ -3,11 +3,11 @@ sr: "221.215.329.4"
 title: "Ordonnance du 20 octobre 2010 sur le contrat-type de travail pour les travailleurs de l'économie domestique (CTT économie domestique)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/724"
 language: fr
-version: 2023-01-01
+version: 2024-01-01
 adopted: 2010-10-20
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/724/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2010-724-20230101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/724/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/724/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2010-724-20240101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/724/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/724/20230101/fr"
 
 (CTT économie domestique)
 
-du 20 octobre 2010 (État le 1<sup>er</sup> janvier 2023)
+du 20 octobre 2010 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -108,16 +108,16 @@ Sont considérés comme employés qualifiés les travailleurs:
 <sup>1</sup> Le salaire minimum brut, sans les suppléments pour vacances et jours fériés payés, est fixé comme suit selon les différentes catégories:
 
 <table>
-<tr><td></td><td>Francs par heure</td></tr>
-<tr><td>a. employé non qualifié</td><td>19,50</td></tr>
-<tr><td>b. employé non qualifié avec au moins quatre ans d’expérience professionnelle dans l’économie domestique</td><td>21,40</td></tr>
-<tr><td>c. employé qualifié avec CFC</td><td>23,55</td></tr>
-<tr><td>d. employé qualifié avec AFP</td><td>21,40 .[^5-1]</td></tr>
+<tr><th></th><th>Francs par heure</th></tr>
+<tr><td>a. employé non qualifié</td><td>19.95</td></tr>
+<tr><td>b. employé non qualifié avec au moins quatre ans d’expérience professionnelle dans l’économie domestique</td><td>21.85</td></tr>
+<tr><td>c. employé qualifié avec CFC</td><td>24.05</td></tr>
+<tr><td>d. employé qualifié avec AFP</td><td>21.85 .[^5-1]</td></tr>
 </table>
 
 <sup>2</sup> Le Secrétariat d’État à l’économie publie les salaires mensuels calculés sur la base de ces salaires horaires en fonction du nombre d’heures de travail par semaine. Le calcul des salaires mensuels repose sur le versement de douze salaires mensuels par an.
 
-[^5-1]: Nouvelle teneur selon le ch. I de l’O du 9 déc. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 809](https://fedlex.data.admin.ch/eli/oc/2022/809)).
+[^5-1]: Nouvelle teneur selon le ch. I de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 771](https://fedlex.data.admin.ch/eli/oc/2023/771)).
 
 #### Art. 6
 
