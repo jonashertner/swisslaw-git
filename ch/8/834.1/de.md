@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 25. September 1952 über den Erwerbsersatz (Erwerbsersa
 short: EOG
 eli: "https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050"
 language: de
-version: 2023-01-01
+version: 2024-01-01
 adopted: 1952-09-25
 in_force: 1953-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050/20230101/de/xml/fedlex-data-admin-ch-eli-cc-1952-1021_1046_1050-20230101-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1952/1021_1046_1050/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050/20240101/de/xml/fedlex-data-admin-ch-eli-cc-1952-1021_1046_1050-20240101-de-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1952/1021_1046_1050/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1952/1021_1046_1050/20230101/de"
 
 (Erwerbsersatzgesetz, EOG)[^t-1]
 
-vom 25. September 1952 (Stand am 1. Januar 2023)
+vom 25. September 1952 (Stand am 1. Januar 2024)
 
 [^t-1]: Fassung gemäss Ziff. II 4 des BG vom 20. Dez. 2019 über die Verbesserung der Vereinbarkeit von Erwerbstätigkeit und Angehörigenbetreuung, in Kraft seit 1. Juli 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 
@@ -77,7 +77,7 @@ Personen, die in der schweizerischen Armee oder im Rotkreuzdienst Dienst leisten
 
 <sup>4</sup> Teilnehmer an eidgenössischen und kantonalen Kaderkursen von «Jugend und Sport» im Sinne von Artikel 9 des Sportförderungsgesetzes vom 17. Juni 2011[^1a-9] sowie an Jungschützenleiterkursen nach Artikel 64 des Militärgesetzes vom 3. Februar 1995[^1a-10] sind den in Absatz 1 genannten Personen gleichgestellt.[^1a-11]
 
-<sup>4bis</sup> Der Anspruch auf eine Entschädigung erlischt mit dem Bezug einer Altersrente der Alters- und Hinterlassenenversicherung, spätestens jedoch mit dem Erreichen des ordentlichen Rentenalters nach Artikel 21 des Bundesgesetzes vom 20. Dezember 1946[^1a-12] über die Alters- und Hinterlassenenversicherung (AHVG).[^1a-13]
+<sup>4bis</sup> Der Anspruch auf eine Entschädigung erlischt mit dem Bezug einer ganzen Altersrente der Alters- und Hinterlassenenversicherung, spätestens jedoch mit dem Erreichen des Referenzalters nach Artikel 21 Absatz 1 des Bundesgesetzes vom 20. Dezember 1946[^1a-12] über die Alters- und Hinterlassenenversicherung (AHVG).[^1a-13]
 
 <sup>5</sup> Die in den Absätzen 1–4 genannten Personen werden in diesem Gesetz als Dienstleistende bezeichnet.
 
@@ -93,7 +93,7 @@ Personen, die in der schweizerischen Armee oder im Rotkreuzdienst Dienst leisten
 [^1a-10]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
 [^1a-11]: Fassung gemäss Art. 34 Ziff. 4 des Sportförderungsgesetzes vom 17. Juni 2011, in Kraft seit 1. Okt. 2012 ([AS 2012 3953](https://fedlex.data.admin.ch/eli/oc/2012/460); [BBl 2009 8189](https://fedlex.data.admin.ch/eli/fga/2009/1425)).
 [^1a-12]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^1a-13]: Eingefügt durch Ziff. II 2 des BG vom 27. Sept. 2013, in Kraft seit 1. Febr. 2015 ([AS 2015 187](https://fedlex.data.admin.ch/eli/oc/2015/24); [BBl 2013 2105](https://fedlex.data.admin.ch/eli/fga/2013/365)).
+[^1a-13]: Eingefügt durch Ziff. II 2 des BG vom 27. Sept. 2013 ([AS 2015 187](https://fedlex.data.admin.ch/eli/oc/2015/24); [BBl 2013 2105](https://fedlex.data.admin.ch/eli/fga/2013/365)). Fassung gemäss Anhang Ziff. 8 des BG vom 17. Dez. 2021 (AHV 21), in Kraft seit 1. Jan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 
 #### Art. 2–3
 
@@ -305,7 +305,7 @@ Anspruchsberechtigt ist eine Frau, die:
 
   - 1\. Arbeitnehmerin im Sinne von Artikel 10 ATSG ist,
   - 2\. Selbständigerwerbende im Sinne von Artikel 12 ATSG ist, oder
-  - 3\. im Betrieb des Ehemannes mitarbeitet und einen Barlohn bezieht.
+  - 3\.[^16b-2] im Betrieb des Ehemanns oder der Ehefrau mitarbeitet und einen Barlohn bezieht.
 
 <sup>2</sup> Die Versicherungsdauer nach Absatz 1 Buchstabe a wird entsprechend herabgesetzt, wenn die Niederkunft vor Ablauf des 9. Schwangerschaftsmonats erfolgt.
 
@@ -313,11 +313,12 @@ Anspruchsberechtigt ist eine Frau, die:
 
 Der Bundesrat regelt die Anspruchsvoraussetzungen für Frauen, die wegen Arbeitsunfähigkeit oder Arbeitslosigkeit:
 
-- a.[^16b-2] während der neun Monate unmittelbar vor der Niederkunft nicht mindestens fünf Monate lang eine Erwerbstätigkeit ausgeübt haben;
+- a.[^16b-3] während der neun Monate unmittelbar vor der Niederkunft nicht mindestens fünf Monate lang eine Erwerbstätigkeit ausgeübt haben;
 - b. im Zeitpunkt der Niederkunft nicht Arbeitnehmerinnen oder Selbständigerwerbende sind.
 
 [^16b-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^16b-2]: Fassung gemäss Ziff. I des BG vom 18. Dez. 2020, in Kraft seit 1. Juli 2021 ([AS 2021 288](https://fedlex.data.admin.ch/eli/oc/2021/288); [BBl 2019 141](https://fedlex.data.admin.ch/eli/fga/2019/9)).
+[^16b-2]: Fassung gemäss Ziff. I des BG vom 17. März 2023 (Taggelder für den hinterlassenen Elternteil), in Kraft seit 1. Jan. 2024 ([AS 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [BBl 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
+[^16b-3]: Fassung gemäss Ziff. I des BG vom 18. Dez. 2020, in Kraft seit 1. Juli 2021 ([AS 2021 288](https://fedlex.data.admin.ch/eli/oc/2021/288); [BBl 2019 141](https://fedlex.data.admin.ch/eli/fga/2019/9)).
 
 #### Art. 16c
 
@@ -340,6 +341,18 @@ Bei einem Spitalaufenthalt des Neugeborenen verlängert sich die Dauer der Ausri
 [^16c-2]: Fassung gemäss Ziff. I des BG vom 18. Dez. 2020, in Kraft seit 1. Juli 2021 ([AS 2021 288](https://fedlex.data.admin.ch/eli/oc/2021/288); [BBl 2019 141](https://fedlex.data.admin.ch/eli/fga/2019/9)).
 [^16c-3]: Eingefügt durch Ziff. I des BG vom 18. Dez. 2020, in Kraft seit 1. Juli 2021 ([AS 2021 288](https://fedlex.data.admin.ch/eli/oc/2021/288); [BBl 2019 141](https://fedlex.data.admin.ch/eli/fga/2019/9)).
 [^16c-4]: Eingefügt durch Ziff. I des BG vom 18. Dez. 2020, in Kraft seit 1. Juli 2021 ([AS 2021 288](https://fedlex.data.admin.ch/eli/oc/2021/288); [BBl 2019 141](https://fedlex.data.admin.ch/eli/fga/2019/9)).
+
+#### Art. 16c<sup>bis</sup>
+
+**Anspruch auf zusätzliche Taggelder im Falle des Todes des andern Elternteils**[^16cbis-1]
+
+<sup>1</sup> Stirbt der andere Elternteil während der sechs Monate nach der Geburt des Kindes, so hat die Mutter Anspruch auf zusätzliche 14 Taggelder für den bezogenen Urlaub. Diese Taggelder können innerhalb einer Rahmenfrist von sechs Monaten ab dem Tag nach dem Tod bezogen werden.
+
+<sup>2</sup> Für die Ausrichtung der Taggelder gilt Artikel 16*k* Absätze 3 und 4 sinngemäss.
+
+<sup>3</sup> Für das Ende des Anspruchs gilt Artikel 16*j* Absatz 3 Buchstaben a–d sinngemäss.
+
+[^16cbis-1]: Eingefügt durch Ziff. I des BG vom 17. März 2023 (Taggelder für den hinterlassenen Elternteil), in Kraft seit 1. Jan. 2024 ([AS 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [BBl 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)). Siehe auch die SchlB dieser Änd. am Schluss des Textes.
 
 #### Art. 16d
 
@@ -411,11 +424,12 @@ In Ergänzung zu Kapitel III*a* können die Kantone eine höhere oder länger da
 
 [^16h-1]: Fassung gemäss Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2023 ([AS 2022 468](https://fedlex.data.admin.ch/eli/oc/2022/468); [BBl 2019 7095](https://fedlex.data.admin.ch/eli/fga/2019/2553), [7303](https://fedlex.data.admin.ch/eli/fga/2019/2640)).
 
-### III*b*. Die Vaterschaftsentschädigung
+### III*b*. Die Entschädigung des andern Elternteils
 
-[^chap1a-lvlIIIb-1]
+[^chap1a-lvlIIIb-1][^chap1a-lvlIIIb-2]
 
 [^chap1a-lvlIIIb-1]: Eingefügt durch Ziff. I des BG vom 27. Sept. 2019 ([AS 2020 4689](https://fedlex.data.admin.ch/eli/oc/2020/844); [BBl 2019 3405](https://fedlex.data.admin.ch/eli/fga/2019/1215)[3851](https://fedlex.data.admin.ch/eli/fga/2019/1398)). Fassung gemäss Ziff. II 4 des BG vom 20. Dez. 2019 über die Verbesserung der Vereinbarkeit von Erwerbstätigkeit und Angehörigenbetreuung, in Kraft seit 1. Juli 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
+[^chap1a-lvlIIIb-2]: Fassung gemäss Ziff. I des BG vom 17. März 2023 (Taggelder für den hinterlassenen Elternteil), in Kraft seit 1. Jan. 2024 ([AS 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [BBl 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
 
 #### Art. 16i
 
@@ -423,36 +437,36 @@ In Ergänzung zu Kapitel III*a* können die Kantone eine höhere oder länger da
 
 <sup>1</sup>
 
-Anspruchsberechtigt ist der Mann, der:
+Anspruchsberechtigt ist die Person, die:[^16i-1]
 
-- a. im Zeitpunkt der Geburt des Kindes der rechtliche Vater ist oder dies innerhalb der folgenden sechs Monate wird;
-- b. während der neun Monate unmittelbar vor der Geburt des Kindes im Sinne des AHVG[^16i-1] obligatorisch versichert war;
+- a.[^16i-2] im Zeitpunkt der Geburt des Kindes der rechtliche andere Elternteil ist oder dies innerhalb der folgenden sechs Monate wird;
+- b. während der neun Monate unmittelbar vor der Geburt des Kindes im Sinne des AHVG[^16i-3] obligatorisch versichert war;
 - c. in dieser Zeit mindestens fünf Monate lang eine Erwerbstätigkeit ausgeübt hat; und
 - d.
 
   im Zeitpunkt der Geburt des Kindes:
 
-  - 1\. Arbeitnehmer im Sinne von Artikel 10 ATSG[^16i-2] ist,
-  - 2\. Selbstständigerwerbender im Sinne von Artikel 12 ATSG ist, oder
+  - 1\.[^16i-4] Arbeitnehmerin oder Arbeitnehmer im Sinne von Artikel 10 ATSG[^16i-5] ist,
+  - 2\.[^16i-6] selbstständigerwerbend im Sinne von Artikel 12 ATSG ist, oder
   - 3\. im Betrieb der Ehefrau mitarbeitet und einen Barlohn bezieht.
 
 <sup>2</sup> Die Versicherungsdauer nach Absatz 1 Buchstabe b wird entsprechend herabgesetzt, wenn die Geburt des Kindes vor Ablauf des 9. Schwangerschaftsmonats erfolgt.
 
-<sup>3</sup>
+<sup>3</sup> Der Bundesrat regelt die Anspruchsvoraussetzungen für Personen, die wegen Arbeitsunfähigkeit oder Arbeitslosigkeit die Voraussetzungen nach Absatz 1 Buchstabe c oder d nicht erfüllen.[^16i-7]
 
-Der Bundesrat regelt die Anspruchsvoraussetzungen für Männer, die wegen Arbeitsunfähigkeit oder Arbeitslosigkeit:
-
-- a. die Voraussetzungen von Absatz 1 Buchstabe c nicht erfüllen;
-- b. im Zeitpunkt der Geburt des Kindes nicht Arbeitnehmer oder Selbstständigerwerbende sind.
-
-[^16i-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^16i-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^16i-1]: Fassung gemäss Ziff. I des BG vom 17. März 2023 (Taggelder für den hinterlassenen Elternteil), in Kraft seit 1. Jan. 2024 ([AS 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [BBl 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
+[^16i-2]: Fassung gemäss Ziff. I des BG vom 17. März 2023 (Taggelder für den hinterlassenen Elternteil), in Kraft seit 1. Jan. 2024 ([AS 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [BBl 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
+[^16i-3]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^16i-4]: Fassung gemäss Ziff. I des BG vom 17. März 2023 (Taggelder für den hinterlassenen Elternteil), in Kraft seit 1. Jan. 2024 ([AS 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [BBl 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
+[^16i-5]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^16i-6]: Fassung gemäss Ziff. I des BG vom 17. März 2023 (Taggelder für den hinterlassenen Elternteil), in Kraft seit 1. Jan. 2024 ([AS 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [BBl 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
+[^16i-7]: Fassung gemäss Ziff. I des BG vom 17. März 2023 (Taggelder für den hinterlassenen Elternteil), in Kraft seit 1. Jan. 2024 ([AS 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [BBl 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
 
 #### Art. 16j
 
 **Rahmenfrist, Beginn und Ende des Anspruchs**
 
-<sup>1</sup> Für den Bezug der Vaterschaftsentschädigung gilt eine Rahmenfrist von sechs Monaten.
+<sup>1</sup> Für den Bezug der Entschädigung des andern Elternteils gilt eine Rahmenfrist von sechs Monaten.[^16j-1]
 
 <sup>2</sup> Die Rahmenfrist und der Anspruch beginnen am Tag der Geburt des Kindes.
 
@@ -462,21 +476,41 @@ Der Anspruch endet:
 
 - a. nach Ablauf der Rahmenfrist;
 - b. nach Ausschöpfung der Taggelder;
-- c. wenn der Vater stirbt;
+- c.[^16j-2] wenn der andere Elternteil stirbt;
 - d. wenn das Kind stirbt; oder
-- e. wenn die Vaterschaft aberkannt wird.
+- e.[^16j-3] wenn das Kindesverhältnis zum andern Elternteil aberkannt wird.
+
+[^16j-1]: Fassung gemäss Ziff. I des BG vom 17. März 2023 (Taggelder für den hinterlassenen Elternteil), in Kraft seit 1. Jan. 2024 ([AS 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [BBl 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
+[^16j-2]: Fassung gemäss Ziff. I des BG vom 17. März 2023 (Taggelder für den hinterlassenen Elternteil), in Kraft seit 1. Jan. 2024 ([AS 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [BBl 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
+[^16j-3]: Fassung gemäss Ziff. I des BG vom 17. März 2023 (Taggelder für den hinterlassenen Elternteil), in Kraft seit 1. Jan. 2024 ([AS 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [BBl 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
 
 #### Art. 16k
 
-**Form der Entschädigung und Anzahl der Taggelder**
+**Form der Entschädigung und Anzahl der Taggelder**[^16k-1]
 
-<sup>1</sup> Die Entschädigung für den bezogenen Vaterschaftsurlaub wird als Taggeld ausbezahlt.
+<sup>1</sup> Die Entschädigung des andern Elternteils für den bezogenen Urlaub wird als Taggeld ausbezahlt.
 
-<sup>2</sup> Der Vater hat Anspruch auf höchstens 14 Taggelder.
+<sup>2</sup> Der andere Elternteil hat Anspruch auf höchstens 14 Taggelder.
 
-<sup>3</sup> Bezieht er den Urlaub wochenweise, so werden pro Woche 7 Taggelder ausgerichtet.
+<sup>3</sup> Wird der Urlaub wochenweise bezogen, so werden pro Woche 7 Taggelder ausgerichtet.
 
-<sup>4</sup> Bezieht er den Urlaub tageweise, so werden pro 5 entschädigte Tage zusätzlich 2 Taggelder ausgerichtet*.*
+<sup>4</sup> Wird der Urlaub tageweise bezogen, so werden pro 5 entschädigte Tage zusätzlich 2 Taggelder ausgerichtet.
+
+[^16k-1]: Fassung gemäss Ziff. I des BG vom 17. März 2023 (Taggelder für den hinterlassenen Elternteil), in Kraft seit 1. Jan. 2024 ([AS 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [BBl 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
+
+#### Art. 16k<sup>bis</sup>
+
+**Anspruch auf zusätzliche Taggelder im Falle des Todes der Mutter**[^16kbis-1]
+
+<sup>1</sup> Stirbt die Mutter am Tag der Niederkunft oder während der 97 Tage danach, so hat der andere Elternteil Anspruch auf zusätzliche 98 Taggelder; diese Taggelder müssen an aufeinanderfolgenden Tagen bezogen werden.
+
+<sup>2</sup> Bei einem Spitalaufenthalt des Neugeborenen gilt Artikel 16*c* Absatz 3 sinngemäss.
+
+<sup>3</sup> Der Anspruch nach den Absätzen 1 und 2 entsteht am Tag nach dem Tod der Mutter und endet aus den Gründen nach Artikel 16*j* Absatz 3 Buchstaben b–e oder bei Wiederaufnahme der Erwerbstätigkeit.
+
+<sup>4</sup> Die Rahmenfrist von sechs Monaten nach Artikel 16*j* wird während des Bezugs von Taggeldern nach den Absätzen 1 und 2 unterbrochen.
+
+[^16kbis-1]: Eingefügt durch Ziff. I des BG vom 17. März 2023 (Taggelder für den hinterlassenen Elternteil), in Kraft seit 1. Jan. 2024 ([AS 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [BBl 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)). Siehe auch die SchlB dieser Änd. am Schluss des Textes.
 
 #### Art. 16l
 
@@ -490,11 +524,11 @@ Der Anspruch endet:
 
 #### Art. 16m
 
-**Vorrang der Vaterschaftsentschädigung**
+**Vorrang der Entschädigung des andern Elternteils[^16m-1]**
 
 <sup>1</sup>
 
-Die Vaterschaftsentschädigung schliesst den Bezug der folgenden Taggelder aus:
+Die Entschädigung des andern Elternteils schliesst den Bezug der folgenden Taggelder aus:[^16m-2]
 
 - a. der Arbeitslosenversicherung;
 - b. der Invalidenversicherung;
@@ -504,19 +538,22 @@ Die Vaterschaftsentschädigung schliesst den Bezug der folgenden Taggelder aus:
 
 <sup>2</sup>
 
-Bestand bis zum Beginn des Anspruchs auf die Vaterschaftsentschädigung Anspruch auf ein Taggeld nach einem der folgenden Gesetze, so entspricht die Vaterschaftsentschädigung mindestens dem bisher bezogenen Taggeld:
+Bestand bis zum Beginn des Anspruchs auf die Entschädigung des andern Elternteils Anspruch auf ein Taggeld nach einem der folgenden Gesetze, so entspricht die Entschädigung des andern Elternteils mindestens dem bisher bezogenen Taggeld:[^16m-3]
 
-- a. Bundesgesetz vom 19. Juni 1959[^16m-1] über die Invalidenversicherung;
-- b. Bundesgesetz vom 18. März 1994[^16m-2] über die Krankenversicherung;
-- c. Bundesgesetz vom 20. März 1981[^16m-3] über die Unfallversicherung;
-- d. Bundesgesetz vom 19. Juni 1992[^16m-4] über die Militärversicherung;
-- e. Arbeitslosenversicherungsgesetz vom 25. Juni 1982[^16m-5].
+- a. Bundesgesetz vom 19. Juni 1959[^16m-4] über die Invalidenversicherung;
+- b. Bundesgesetz vom 18. März 1994[^16m-5] über die Krankenversicherung;
+- c. Bundesgesetz vom 20. März 1981[^16m-6] über die Unfallversicherung;
+- d. Bundesgesetz vom 19. Juni 1992[^16m-7] über die Militärversicherung;
+- e. Arbeitslosenversicherungsgesetz vom 25. Juni 1982[^16m-8].
 
-[^16m-1]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
-[^16m-2]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^16m-3]: [SR 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
-[^16m-4]: [SR 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
-[^16m-5]: [SR 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
+[^16m-1]: Fassung gemäss Ziff. I des BG vom 17. März 2023 (Taggelder für den hinterlassenen Elternteil), in Kraft seit 1. Jan. 2024 ([AS 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [BBl 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
+[^16m-2]: Fassung gemäss Ziff. I des BG vom 17. März 2023 (Taggelder für den hinterlassenen Elternteil), in Kraft seit 1. Jan. 2024 ([AS 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [BBl 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
+[^16m-3]: Fassung gemäss Ziff. I des BG vom 17. März 2023 (Taggelder für den hinterlassenen Elternteil), in Kraft seit 1. Jan. 2024 ([AS 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [BBl 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
+[^16m-4]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^16m-5]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^16m-6]: [SR 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+[^16m-7]: [SR 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
+[^16m-8]: [SR 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
 
 ### III*c*. Die Entschädigung für Eltern, die ein wegen Krankheit oder Unfall gesundheitlich schwer beeinträchtigtes Kind betreuen
 
@@ -801,19 +838,24 @@ In Abweichung von Artikel 24 ATSG[^20-2] erlischt der Anspruch auf nicht bezogen
 
 - a. für Dienstleistende fünf Jahre nach Ende des Dienstes, der den Leistungsanspruch ausgelöst hat;
 - b. bei Mutterschaft fünf Jahre nach Ablauf der Entschädigungsdauer nach Artikel 16*d*;
-- c. bei Vaterschaft fünf Jahre nach Ablauf der Rahmenfrist nach Artikel 16*j*;
+- c.[^20-3] bei Entschädigung des andern Elternteils fünf Jahre nach Ablauf der Rahmenfrist nach Artikel 16*j*;
 - d. für Eltern, die ein wegen Krankheit oder Unfall gesundheitlich schwer beeinträchtigtes Kind betreuen, fünf Jahre nach dem letzten Tag des Betreuungsurlaubs;
-- e.[^20-3] bei Adoption fünf Jahre nach Ende des Anspruchs nach Artikel 16*u* Absatz 3.[^20-4]
+- e.[^20-4] bei Anspruch der Mutter auf zusätzliche Taggelder im Falle des Todes des andern Elternteils fünf Jahre nach Ablauf der Rahmenfrist nach Artikel 16*c*<sup>bis</sup> Absatz 1;
+- f.[^20-5] bei Anspruch des andern Elternteils auf zusätzliche Taggelder im Falle des Todes der Mutter fünf Jahre nach Ende des Entschädigungsanspruchs nach Artikel 16*k*<sup>bis</sup> Absatz 3;
+- g.[^20-6] bei Adoption fünf Jahre nach Ende des Anspruchs nach Artikel 16*u* Absatz 3.[^20-7]
 
-<sup>2</sup> Forderungen nach diesem Gesetz, dem AHVG[^20-5] und dem Bundesgesetz vom 20. Juni 1952[^20-6] über die Familienzulagen in der Landwirtschaft[^20-7] können mit fälligen Entschädigungen verrechnet werden.
+<sup>2</sup> Forderungen nach diesem Gesetz, dem AHVG[^20-8] und dem Bundesgesetz vom 20. Juni 1952[^20-9] über die Familienzulagen in der Landwirtschaft[^20-10] können mit fälligen Entschädigungen verrechnet werden.
 
 [^20-1]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2003, in Kraft seit 1. Juli 2005 ([AS 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [BBl 2002 7522](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1112](https://fedlex.data.admin.ch/eli/fga/2003/169)[2923](https://fedlex.data.admin.ch/eli/fga/2003/381)).
 [^20-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^20-3]: Eingefügt durch Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2023 ([AS 2022 468](https://fedlex.data.admin.ch/eli/oc/2022/468); [BBl 2019 7095](https://fedlex.data.admin.ch/eli/fga/2019/2553), [7303](https://fedlex.data.admin.ch/eli/fga/2019/2640)).
-[^20-4]: Fassung gemäss Ziff. II 4 des BG vom 20. Dez. 2019 über die Verbesserung der Vereinbarkeit von Erwerbstätigkeit und Angehörigenbetreuung, in Kraft seit 1. Juli 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
-[^20-5]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^20-6]: [SR 836.1](https://fedlex.data.admin.ch/eli/cc/1952/823_843_839)
-[^20-7]: [SR 836.1](https://fedlex.data.admin.ch/eli/cc/1952/823_843_839)
+[^20-3]: Fassung gemäss Ziff. I des BG vom 17. März 2023 (Taggelder für den hinterlassenen Elternteil), in Kraft seit 1. Jan. 2024 ([AS 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [BBl 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
+[^20-4]: Eingefügt durch Ziff. I des BG vom 17. März 2023 (Taggelder für den hinterlassenen Elternteil), in Kraft seit 1. Jan. 2024 ([AS 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [BBl 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
+[^20-5]: Eingefügt durch Ziff. I des BG vom 17. März 2023 (Taggelder für den hinterlassenen Elternteil), in Kraft seit 1. Jan. 2024 ([AS 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [BBl 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
+[^20-6]: Ursprünglich: Bst. e. Eingefügt durch Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2023 ([AS 2022 468](https://fedlex.data.admin.ch/eli/oc/2022/468); [BBl 2019 7095](https://fedlex.data.admin.ch/eli/fga/2019/2553), [7303](https://fedlex.data.admin.ch/eli/fga/2019/2640)).
+[^20-7]: Fassung gemäss Ziff. II 4 des BG vom 20. Dez. 2019 über die Verbesserung der Vereinbarkeit von Erwerbstätigkeit und Angehörigenbetreuung, in Kraft seit 1. Juli 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
+[^20-8]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^20-9]: [SR 836.1](https://fedlex.data.admin.ch/eli/cc/1952/823_843_839)
+[^20-10]: [SR 836.1](https://fedlex.data.admin.ch/eli/cc/1952/823_843_839)
 
 #### Art. 20a
 
@@ -843,16 +885,27 @@ Die Kantone haften für Schäden, die der Erwerbsersatzordnung entstanden sind o
 
 <sup>1</sup> Die Durchführung der Erwerbsersatzordnung erfolgt durch die Organe der Alters- und Hinterlassenenversicherung unter Mitwirkung der Rechnungsführer der militärischen Stäbe und Einheiten. Für den Zivilschutz erfolgt die Durchführung unter Mitwirkung der Rechnungsführer der Schutzorganisationen und für den Zivildienst unter Mitwirkung des Bundesamtes für Zivildienst[^21-1] und der Einsatzbetriebe.[^21-2]
 
-<sup>2</sup> Soweit dieses Gesetz nichts Abweichendes bestimmt, gelten sinngemäss die Vorschriften des AHVG[^21-3] über die Arbeitgeber, die Ausgleichskassen, den Abrechnungs- und Zahlungsverkehr, die Buchführung, die Kassenrevisionen und Arbeitgeberkontrollen, die Zentrale Ausgleichsstelle und die AHV-Nummer[^21-4]. Die Haftung für Schäden der AHV-Organe nach Artikel 49 AHVG richtet sich nach Artikel 78 ATSG[^21-5] und sinngemäss nach den Artikeln 52, 70 und 71*a* AHVG.[^21-6]
+<sup>2</sup>
+
+Soweit dieses Gesetz nichts Abweichendes bestimmt, gelten sinngemäss folgende Bestimmungen des AHVG[^21-3] über:
+
+- a. die Informationssysteme (Art. 49*a*, 49*b* und 72*a* Abs. 2 Bst. b AHVG);
+- b. das Register der laufenden Geldleistungen (Art. 49*c* AHVG);
+- c. die systematische Verwendung der AHV-Nummer (Art. 50*c* und 153*b* – 153*i* AHVG);
+- d. die Arbeitgeber (Art. 51 und 52 AHVG);
+- e. die Ausgleichskassen (Art. 53–70 AHVG); und
+- f. die Zentrale Ausgleichsstelle (Art. 71 AHVG).[^21-4]
+
+<sup>2bis</sup> Die Haftung für Schäden der AHV-Organe nach Artikel 49 AHVG richtet sich nach Artikel 78 ATSG[^21-5] und sinngemäss nach den Artikeln 52, 70 und 71*a* AHVG.[^21-6]
 
 <sup>3</sup> In Abweichung von Artikel 78 ATSG untersteht die Haftung der Rechnungsführer der militärischen Stäbe und Einheiten dem Militärgesetz vom 3. Februar 1995[^21-7]; die Haftung der Rechnungsführer der Schutzorganisation untersteht dem Zivilschutzgesetz vom 17. Juni 1994[^21-8].[^21-9]
 
 [^21-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2019 angepasst.
 [^21-2]: Zweiter Satz eingefügt durch Art. 93 des BG vom 23. März 1962 über den Zivilschutz ([AS 1962 1089](https://fedlex.data.admin.ch/eli/oc/1962/1089_1127_1131); [BBl 1961 II 693](https://fedlex.data.admin.ch/eli/fga/1961/2_693_693_1417)). Fassung gemäss Ziff. II 2 des BG vom 3. Okt. 2008, in Kraft seit 1. April 2009 ([AS 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [BBl 2008 2707](https://fedlex.data.admin.ch/eli/fga/2008/609)).
 [^21-3]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^21-4]: Ausdruck gemäss Anhang Ziff. 34 des BG vom 18. Dez. 2020 (Systematische Verwendung der AHV-Nummer durch Behörden), in Kraft seit 1. Jan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
+[^21-4]: Fassung gemäss Anhang Ziff. 6 des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 [^21-5]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^21-6]: Fassung gemäss Ziff. I der V der BVers vom 21. Juni 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [BBl 2002 803](https://fedlex.data.admin.ch/eli/fga/2002/114)).
+[^21-6]: Eingefügt durch Anhang Ziff. 6 des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 [^21-7]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
 [^21-8]: [[AS 1994 2626](https://fedlex.data.admin.ch/eli/oc/1994/2626_2626_2626), [1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227)Anhang Ziff. 9, [1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445)Anhang Ziff. 14. [AS 2003 4187](https://fedlex.data.admin.ch/eli/oc/2003/620)Art. 76 Ziff. 1]. Siehe heute: das BG vom 4. Okt. 2002 über den Bevölkerungsschutz und den Zivilschutz ([SR 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)).
 [^21-9]: Eingefügt durch Anhang Ziff. 14 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
@@ -870,14 +923,14 @@ Zur Deckung ihrer Verwaltungskosten erheben die Ausgleichskassen von den ihnen a
 
 **Aufsicht des Bundes (Art. 76 ATSG[^23-2])[^23-3]**
 
-<sup>1</sup> Artikel 72 AHVG[^23-4] findet sinngemäss Anwendung.[^23-5]
+<sup>1</sup> Die Artikel 72, 72*a* und 72*b* AHVG[^23-4] sind sinngemäss anwendbar.[^23-5]
 
 <sup>2</sup> Die Eidgenössische Kommission für die Alters-, Hinterlassenen- und Invalidenversicherung[^23-6] bestellt aus ihrer Mitte einen Ausschuss für die Erwerbsersatzordnung. …[^23-7] Dem Ausschuss obliegt die Begutachtung von Fragen über die Durchführung und Weiterentwicklung der Erwerbsersatzordnung zuhanden des Bundesrates. Er hat das Recht, dem Bundesrat von sich aus Anregungen zu unterbreiten.
 
 [^23-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^23-3]: Fassung gemäss Anhang Ziff. 14 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
 [^23-4]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^23-5]: Fassung gemäss Anhang Ziff. 14 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
+[^23-5]: Fassung gemäss Anhang Ziff. 6 des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 [^23-6]: Ausdruck gemäss Ziff. I des BG vom 19. Juni 1987, in Kraft seit 1. Jan. 1988 ([AS 1987 1393](https://fedlex.data.admin.ch/eli/oc/1987/1393_1393_1393); [BBl 1985 I 797](https://fedlex.data.admin.ch/eli/fga/1985/1_797_785_653)).
 [^23-7]: Satz aufgehoben durch Ziff. I des BG vom 18. Dez. 1998, mit Wirkung seit 1. Juli 1999 ([AS 1999 1571](https://fedlex.data.admin.ch/eli/oc/1999/237); BBl **1998** 3418).
 
@@ -998,25 +1051,24 @@ In Bezug auf Personen, für die die Rechtsvorschriften der sozialen Sicherheit d
 
 #### Art. 29
 
-**Anwendbare Bestimmungen**[^29-1]
+**Anwendbare Bestimmungen des AHVG**[^29-1]
 
-Die Bestimmungen des AHVG[^29-2] über die Bearbeitung von Personendaten, die Kostenübernahme und die Posttaxen sind sinngemäss anwendbar.
+Es gelten sinngemäss die folgenden Bestimmungen des AHVG[^29-2] über:
 
-[^29-1]: Fassung gemäss Anhang Ziff. 8 des BG vom 21. Juni 2019, in Kraft seit 1. Jan. 2021 ([AS 2020 5137](https://fedlex.data.admin.ch/eli/oc/2020/892); [BBl 2018 1607](https://fedlex.data.admin.ch/eli/fga/2018/671)).
+- a. das Bearbeiten von Personendaten (Art. 49*f* AHVG);
+- b. die Vergütung und die Übernahme der Kosten (Art. 95 AHVG).
+
+[^29-1]: Fassung gemäss Anhang Ziff. 6 des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 [^29-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
 #### Art. 29a
 
 **Datenbekanntgabe**[^29a-1]
 
-<sup>1</sup> Sofern kein überwiegendes Privatinteresse entgegensteht, dürfen Daten im Einzelfall und auf schriftliches und begründetes Gesuch hin in Abweichung von Artikel 33 ATSG[^29a-2] an die mit der Durchführung des Bundesgesetzes vom 12. Juni 1959[^29a-3] über den Wehrpflichtersatz betrauten Behörden nach Artikel 24 des genannten Gesetzes bekannt gegeben werden.
+Die Artikel 50*a* und 50*b* AHVG[^29a-2] sind sinngemäss anwendbar.
 
-<sup>2</sup> Im Übrigen ist Artikel 50*a* des AHVG[^29a-4] mit seinen Abweichungen vom ATSG sinngemäss anwendbar.
-
-[^29a-1]: Eingefügt durch Ziff. I des BG vom 23. Juni 2000 ([AS 2000 2770](https://fedlex.data.admin.ch/eli/oc/2000/466); [BBl 2000 255](https://fedlex.data.admin.ch/eli/fga/2000/99)). Fassung gemäss Ziff. I der V der BVers vom 21. Juni 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [BBl 2002 803](https://fedlex.data.admin.ch/eli/fga/2002/114)).
-[^29a-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^29a-3]: [SR 661](https://fedlex.data.admin.ch/eli/cc/1959/2035_2097_2125). Heute: das BG über die Wehrpflichtersatzabgabe.
-[^29a-4]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^29a-1]: Eingefügt durch Ziff. I des BG vom 23. Juni 2000 ([AS 2000 2770](https://fedlex.data.admin.ch/eli/oc/2000/466); [BBl 2000 255](https://fedlex.data.admin.ch/eli/fga/2000/99)). Fassung gemäss Anhang Ziff. 6 des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^29a-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
 #### Art. 30
 
@@ -1081,3 +1133,11 @@ Die neuen Bestimmungen gelten auch, wenn die Geburt höchstens 98 Tage vor dem I
 <sup>1</sup> Bestimmungen von Versicherungsverträgen, die Taggelder bei Mutterschaft vorsehen, fallen beim Inkrafttreten der Regelung über die Mutterschaftsentschädigung in diesem Gesetz dahin. Über diesen Zeitpunkt hinaus vorausbezahlte Prämien werden zurückerstattet.
 
 <sup>2</sup> Der Taggeldanspruch für eine Niederkunft, die vorher erfolgt ist, bleibt vorbehalten.
+
+## Schlussbestimmung der Änderung vom 17. März 2023
+
+[^u3-1]
+
+[^u3-1]: [AS 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [BBl 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)
+
+Die Artikel 16*c*<sup>bis</sup> und 16*k*<sup>bis</sup> gelten nur für Todesfälle, die ab dem Tag des Inkrafttretens der Änderung vom 17. März 2023 eingetreten sind.

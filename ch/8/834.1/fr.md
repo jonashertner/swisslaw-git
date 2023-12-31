@@ -4,11 +4,11 @@ title: "Loi fédérale du 25 septembre 1952 sur les allocations pour perte de ga
 short: LAPG
 eli: "https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050"
 language: fr
-version: 2023-01-01
+version: 2024-01-01
 adopted: 1952-09-25
 in_force: 1953-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-1952-1021_1046_1050-20230101-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1952/1021_1046_1050/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-1952-1021_1046_1050-20240101-fr-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1952/1021_1046_1050/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1952/1021_1046_1050/20230101/fr"
 
 (LAPG)[^t-1]
 
-du 25 septembre 1952 (État le 1<sup>er</sup> janvier 2023)
+du 25 septembre 1952 (État le 1<sup>er</sup> janvier 2024)
 
 [^t-1]: Nouvelle teneur selon le ch. II 4 de la LF du 20 déc. 2019 sur l’amélioration de la conciliation entre activité professionnelle et prise en charge de proches, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3941](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 
@@ -57,7 +57,7 @@ Les dispositions de la loi fédérale du 6 octobre 2000 sur la partie générale
 
 #### Art. 1a
 
-**...[^1a-2]**[^1a-1]
+**…[^1a-2]**[^1a-1]
 
 <sup>1</sup>
 
@@ -77,7 +77,7 @@ Les personnes qui effectuent un service dans l’armée suisse ou dans le Servic
 
 <sup>4</sup> Les participants aux cours fédéraux et cantonaux pour moniteurs «Jeunesse et sport», au sens de l’art. 9 de la loi du 17 juin 2011 sur l’encouragement du sport[^1a-9] ainsi que les participants aux cours pour moniteurs de jeunes tireurs au sens de l’art. 64 de la loi fédérale du 3 février 1995 sur l’armée[^1a-10] sont assimilés aux personnes désignées à l’al. 1.[^1a-11]
 
-<sup>4bis</sup> Le droit à une allocation s’éteint avec la perception d’une rente de vieillesse de l’assurance-vieillesse et survivants, mais au plus tard à l’âge donnant droit à une rente de vieillesse au sens de l’art. 21 de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants (LAVS)[^1a-12].[^1a-13]
+<sup>4bis</sup> Le droit à une allocation s’éteint avec la perception de la totalité de la rente de vieillesse de l’assurance-vieillesse et survivants, mais au plus tard à l’âge de référence fixé à l’art. 21, al. 1, de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants (LAVS)[^1a-12].[^1a-13]
 
 <sup>5</sup> Les personnes mentionnées aux al. 1 à 4 sont désignées dans la présente loi sous le terme de personnes qui font du service.
 
@@ -93,7 +93,7 @@ Les personnes qui effectuent un service dans l’armée suisse ou dans le Servic
 [^1a-10]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
 [^1a-11]: Nouvelle teneur selon art. 34 ch. 4 de la LF du 17 juin 2011 sur l’encouragement du sport, en vigueur depuis le 1<sup>er</sup> oct. 2012 ([RO 2012 3953](https://fedlex.data.admin.ch/eli/oc/2012/460); [FF 2009 7401](https://fedlex.data.admin.ch/eli/fga/2009/1425)).
 [^1a-12]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^1a-13]: Introduit par le ch. II 2 de la LF du 27 sept. 2013, en vigueur depuis le 1<sup>er</sup> fév. 2015 ([RO 2015 187](https://fedlex.data.admin.ch/eli/oc/2015/24); [FF 2013 1875](https://fedlex.data.admin.ch/eli/fga/2013/365)).
+[^1a-13]: Introduit par le ch. II 2 de la LF du 27 sept. 2013 ([RO 2015 187](https://fedlex.data.admin.ch/eli/oc/2015/24); [FF 2013 1875](https://fedlex.data.admin.ch/eli/fga/2013/365)). Nouvelle teneur selon l’annexe ch. 8 de la LF du 17 déc. 2021 (AVS 21), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5979](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 
 #### Art. 2 et 3
 
@@ -303,7 +303,7 @@ Ont droit à l’allocation les femmes qui:
 
   - 1\. sont salariées au sens de l’art. 10 LPGA[^16b-2],
   - 2\. exercent une activité indépendante au sens de l’art. 12 LPGA, ou
-  - 3\. travaillent dans l’entreprise de leur mari contre un salaire en espèces.
+  - 3\.[^16b-3] travaillent dans l’entreprise de leur conjoint contre un salaire en espèces.
 
 <sup>2</sup> La durée d’assurance prévue à l’al. 1, let. a, est réduite en conséquence si l’accouchement intervient avant la fin du 9<sup>e</sup> mois de grossesse.
 
@@ -311,12 +311,13 @@ Ont droit à l’allocation les femmes qui:
 
 Le Conseil fédéral règle le droit à l’allocation des femmes qui, pour cause d’incapacité de travail ou de chômage:
 
-- a.[^16b-3] n’ont, au cours des neuf mois précédant l’accouchement, pas exercé d’activité lucrative durant au moins cinq mois;
+- a.[^16b-4] n’ont, au cours des neuf mois précédant l’accouchement, pas exercé d’activité lucrative durant au moins cinq mois;
 - b. ne sont pas considérées comme salariées ou indépendantes au moment de l’accouchement.
 
 [^16b-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 [^16b-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^16b-3]: Nouvelle teneur selon le ch. I de la LF du 18 déc. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 288](https://fedlex.data.admin.ch/eli/oc/2021/288); [FF 2019 141](https://fedlex.data.admin.ch/eli/fga/2019/9)).
+[^16b-3]: Nouvelle teneur selon le ch. I de la LF du 17 mars 2023 (Indemnités journalières pour le parent survivant), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [FF 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
+[^16b-4]: Nouvelle teneur selon le ch. I de la LF du 18 déc. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 288](https://fedlex.data.admin.ch/eli/oc/2021/288); [FF 2019 141](https://fedlex.data.admin.ch/eli/fga/2019/9)).
 
 #### Art. 16c
 
@@ -339,6 +340,18 @@ En cas d’hospitalisation du nouveau-né, la durée du versement est prolongée
 [^16c-2]: Nouvelle teneur selon le ch. I de la LF du 18 déc. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 288](https://fedlex.data.admin.ch/eli/oc/2021/288); [FF 2019 141](https://fedlex.data.admin.ch/eli/fga/2019/9)).
 [^16c-3]: Introduit par le ch. I de la LF du 18 déc. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 288](https://fedlex.data.admin.ch/eli/oc/2021/288); [FF 2019 141](https://fedlex.data.admin.ch/eli/fga/2019/9)).
 [^16c-4]: Introduit par le ch. I de la LF du 18 déc. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 288](https://fedlex.data.admin.ch/eli/oc/2021/288); [FF 2019 141](https://fedlex.data.admin.ch/eli/fga/2019/9)).
+
+#### Art. 16c<sup>bis</sup>
+
+**Droit à des indemnités journalières supplémentaires en cas de décès de l’autre parent**[^16cbis-1]
+
+<sup>1</sup> En cas de décès de l’autre parent durant les six mois qui suivent la naissance de l’enfant, la mère a droit à 14 indemnités journalières supplémentaires pour les jours de congé pris. Ces indemnités peuvent être perçues dans un délai-cadre de six mois à compter du jour qui suit le décès.
+
+<sup>2</sup> L’art. 16*k*, al. 3 et 4, s’applique par analogie au versement des indemnités journalières.
+
+<sup>3</sup> L’art. 16*j*, al. 3, let. a à d, s’applique par analogie à l’extinction du droit aux indemnités journalières.
+
+[^16cbis-1]: Introduit par le ch. I de la LF du 17 mars 2023 (Indemnités journalières pour le parent survivant), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [FF 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)). Voir aussi la disp. fin. de cette mod. à la fin du texte.
 
 #### Art. 16d
 
@@ -406,11 +419,12 @@ En complément à la section III*a*, les cantons peuvent prévoir l’octroi d�
 
 [^16h-1]: Nouvelle teneur selon le ch. I de la LF du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 468](https://fedlex.data.admin.ch/eli/oc/2022/468); [FF 2019 6723](https://fedlex.data.admin.ch/eli/fga/2019/2553), [6909](https://fedlex.data.admin.ch/eli/fga/2019/2640)).
 
-### III*b* *.* L’allocation de paternité
+### III*b* *.* L’allocation à l’autre parent
 
-[^chap1a-lvlIIIb-1]
+[^chap1a-lvlIIIb-1][^chap1a-lvlIIIb-2]
 
 [^chap1a-lvlIIIb-1]: Introduit par le ch. I de la LF du 27 sept. 2019 ([RO 2020 4689](https://fedlex.data.admin.ch/eli/oc/2020/844); [FF 2019 3309](https://fedlex.data.admin.ch/eli/fga/2019/1215)[3743](https://fedlex.data.admin.ch/eli/fga/2019/1398)). Nouvelle teneur selon le ch. II 4 de la LF du 20 déc. 2019 sur l’amélioration de la conciliation entre activité professionnelle et prise en charge de proches, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3941](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
+[^chap1a-lvlIIIb-2]: Nouvelle teneur selon le ch. I de la LF du 17 mars 2023 (Indemnités journalières pour le parent survivant), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [FF 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
 
 #### Art. 16i
 
@@ -418,36 +432,36 @@ En complément à la section III*a*, les cantons peuvent prévoir l’octroi d�
 
 <sup>1</sup>
 
-À droit à l’allocation de paternité l’homme qui:
+A droit à l’allocation la personne qui:[^16i-1]
 
-- a. est le père légal de l’enfant au moment de la naissance ou le devient au cours des six mois qui suivent;
-- b. a été assuré obligatoirement au sens de la LAVS[^16i-1] pendant les neuf mois précédant la naissance;
+- a.[^16i-2] est l’autre parent légal de l’enfant au moment de la naissance ou le devient au cours des six mois qui suivent;
+- b.[^16i-3] a été assurée obligatoirement au sens de la LAVS[^16i-4] pendant les neuf mois précédant la naissance;
 - c. a, au cours de cette période, exercé une activité lucrative durant au moins cinq mois, et
 - d.
 
   à la date de la naissance de l’enfant:
 
-  - 1\. est salarié au sens de l’art. 10 LPGA[^16i-2],
+  - 1\.[^16i-5] est salariée au sens de l’art. 10 LPGA[^16i-6],
   - 2\. exerce une activité indépendante au sens de l’art. 12 LPGA, ou
   - 3\. travaille dans l’entreprise de son épouse contre un salaire en espèces.
 
 <sup>2</sup> La durée d’assurance prévue à l’al. 1, let. b, est réduite en conséquence si l’enfant naît avant la fin du 9<sup>e</sup> mois de grossesse.
 
-<sup>3</sup>
+<sup>3</sup> Le Conseil fédéral règle le droit à l’allocation des personnes qui, pour cause d’incapacité de travail ou de chômage, ne remplissent pas les conditions de l’al. 1, let. c ou d.[^16i-7]
 
-Le Conseil fédéral règle le droit à l’allocation des hommes qui, pour cause d’incapacité de travail ou de chômage:
-
-- a. ne remplissent pas les conditions prévues à l’al. 1, let. c;
-- b. ne sont pas considérés comme salariés ou indépendants au moment de la naissance de l’enfant.
-
-[^16i-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^16i-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^16i-1]: Nouvelle teneur selon le ch. I de la LF du 17 mars 2023 (Indemnités journalières pour le parent survivant), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [FF 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
+[^16i-2]: Nouvelle teneur selon le ch. I de la LF du 17 mars 2023 (Indemnités journalières pour le parent survivant), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [FF 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
+[^16i-3]: Nouvelle teneur selon le ch. I de la LF du 17 mars 2023 (Indemnités journalières pour le parent survivant), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [FF 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
+[^16i-4]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^16i-5]: Nouvelle teneur selon le ch. I de la LF du 17 mars 2023 (Indemnités journalières pour le parent survivant), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [FF 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
+[^16i-6]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^16i-7]: Nouvelle teneur selon le ch. I de la LF du 17 mars 2023 (Indemnités journalières pour le parent survivant), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [FF 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
 
 #### Art. 16j
 
 **Délai-cadre, début et extinction du droit**
 
-<sup>1</sup> L’allocation peut être perçue dans un délai-cadre de six mois.
+<sup>1</sup> L’allocation à l’autre parent peut être perçue dans un délai-cadre de six mois.[^16j-1]
 
 <sup>2</sup> Le délai-cadre commence à courir et le droit à l’allocation prend effet le jour de la naissance de l’enfant.
 
@@ -457,21 +471,41 @@ Le droit à l’allocation s’éteint:
 
 - a. au terme du délai-cadre;
 - b. après perception du nombre maximal d’indemnités journalières;
-- c. si le père décède;
+- c.[^16j-2] si l’autre parent décède;
 - d. si l’enfant décède, ou
-- e. si la filiation paternelle s’éteint par jugement.
+- e.[^16j-3] si la filiation avec l’autre parent s’éteint par jugement.
+
+[^16j-1]: Nouvelle teneur selon le ch. I de la LF du 17 mars 2023 (Indemnités journalières pour le parent survivant), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [FF 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
+[^16j-2]: Nouvelle teneur selon le ch. I de la LF du 17 mars 2023 (Indemnités journalières pour le parent survivant), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [FF 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
+[^16j-3]: Nouvelle teneur selon le ch. I de la LF du 17 mars 2023 (Indemnités journalières pour le parent survivant), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [FF 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
 
 #### Art. 16k
 
-**Forme de l’allocation et nombre d’indemnités journalières**
+**Forme de l’allocation et nombre d’indemnités journalières**[^16k-1]
 
-<sup>1</sup> L’allocation est versée sous la forme d’indemnités journalières pour les jours de congé pris.
+<sup>1</sup> L’allocation à l’autre parent est versée sous la forme d’indemnités journalières pour les jours de congé pris.
 
-<sup>2</sup> Le père a droit à un maximum de quatorze indemnités journalières.
+<sup>2</sup> L’autre parent a droit à quatorze indemnités journalières au plus.
 
-<sup>3</sup> Si le congé est pris sous la forme de semaines, le père touche sept indemnités journalières par semaine.
+<sup>3</sup> Si le congé est pris sous la forme de semaines, l’autre parent touche sept indemnités journalières par semaine.
 
-<sup>4</sup> Si le congé est pris sous la forme de journées, le père touche, pour cinq jours indemnisés, deux indemnités journalières supplémentaires*.*
+<sup>4</sup> Si le congé est pris sous la forme de journées, l’autre parent touche, pour cinq jours indemnisés, deux indemnités journalières supplémentaires.
+
+[^16k-1]: Nouvelle teneur selon le ch. I de la LF du 17 mars 2023 (Indemnités journalières pour le parent survivant), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [FF 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
+
+#### Art. 16k<sup>bis</sup>
+
+**Droit à des indemnités journalières supplémentaires en cas de décès de la mère**[^16kbis-1]
+
+<sup>1</sup> En cas de décès de la mère le jour de l’accouchement ou durant les 97 jours qui suivent, l’autre parent a droit à 98 indemnités journalières supplémentaires; celles-ci doivent être perçues de manière ininterrompue.
+
+<sup>2</sup> En cas d’hospitalisation du nouveau-né, l’art. 16*c*, al. 3, s’applique par analogie.
+
+<sup>3</sup> Le droit aux indemnités prévu aux al. 1 et 2 prend naissance le jour suivant le décès de la mère et s’éteint pour les motifs énoncés à l’art. 16*j*, al. 3, let. b à e, ou au moment de la reprise de l’activité lucrative.
+
+<sup>4</sup> Le délai-cadre de six mois prévu à l’art. 16*j* est interrompu pour la durée de la perception des indemnités prévue aux al. 1 et 2.
+
+[^16kbis-1]: Introduit par le ch. I de la LF du 17 mars 2023 (Indemnités journalières pour le parent survivant), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [FF 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)). Voir aussi la disp. fin. de cette mod. à la fin du texte.
 
 #### Art. 16l
 
@@ -485,11 +519,11 @@ Le droit à l’allocation s’éteint:
 
 #### Art. 16m
 
-**Primauté de l’allocation de paternité**
+**Primauté de l’allocation à l’autre parent[^16m-1]**
 
 <sup>1</sup>
 
-L’allocation de paternité exclut le versement des indemnités journalières:
+L’allocation à l’autre parent exclut le versement des indemnités journalières:[^16m-2]
 
 - a. de l’assurance-chômage;
 - b. de l’assurance-invalidité;
@@ -499,19 +533,22 @@ L’allocation de paternité exclut le versement des indemnités journalières:
 
 <sup>2</sup>
 
-Si le droit à une indemnité journalière existait jusqu’au début du droit à l’allocation de paternité, le montant de l’allocation s’élève au moins au montant de l’indemnité journalière versée jusqu’alors conformément aux lois suivantes:
+Si le droit à une indemnité journalière existait jusqu’au début du droit à l’allocation à l’autre parent, le montant de cette allocation s’élève au moins au montant de l’indemnité journalière versée jusqu’alors conformément aux lois suivantes:[^16m-3]
 
-- a. loi fédérale du 19 juin 1959 sur l’assurance-invalidité[^16m-1];
-- b. loi fédérale du 18 mars 1994 sur l’assurance-maladie[^16m-2];
-- c. loi fédérale du 20 mars 1981 sur l’assurance-accidents[^16m-3];
-- d. loi fédérale du 19 juin 1992 sur l’assurance militaire[^16m-4];
-- e. loi fédérale du 25 juin 1982 sur l’assurance-chômage[^16m-5].
+- a. loi fédérale du 19 juin 1959 sur l’assurance-invalidité[^16m-4];
+- b. loi fédérale du 18 mars 1994 sur l’assurance-maladie[^16m-5];
+- c. loi fédérale du 20 mars 1981 sur l’assurance-accidents[^16m-6];
+- d. loi fédérale du 19 juin 1992 sur l’assurance militaire[^16m-7];
+- e. loi fédérale du 25 juin 1982 sur l’assurance-chômage[^16m-8].
 
-[^16m-1]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
-[^16m-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^16m-3]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
-[^16m-4]: [RS 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
-[^16m-5]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
+[^16m-1]: Nouvelle teneur selon le ch. I de la LF du 17 mars 2023 (Indemnités journalières pour le parent survivant), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [FF 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
+[^16m-2]: Nouvelle teneur selon le ch. I de la LF du 17 mars 2023 (Indemnités journalières pour le parent survivant), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [FF 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
+[^16m-3]: Nouvelle teneur selon le ch. I de la LF du 17 mars 2023 (Indemnités journalières pour le parent survivant), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [FF 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
+[^16m-4]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^16m-5]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^16m-6]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+[^16m-7]: [RS 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
+[^16m-8]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
 
 ### III*c*. L’allocation pour les parents qui prennent en charge un enfant gravement atteint dans sa santé en raison d’une maladie ou d’un accident
 
@@ -794,18 +831,23 @@ En dérogation à l’art. 24 LPGA[^20-2], le droit aux allocations non versées
 
 - a. en cas de service, cinq ans après la fin du service donnant droit aux allocations;
 - b. en cas de maternité, cinq ans après la fin du droit visé à l’art. 16*d*;
-- c. en cas de paternité, cinq ans après la fin du délai-cadre visé à l’art. 16*j*;
+- c.[^20-3] en cas d’allocation à l’autre parent, cinq ans après la fin du délai-cadre visé à l’art. 16*j*;
 - d. en cas de congé pour les parents qui prennent en charge un enfant gravement atteint dans sa santé en raison d’une maladie ou d’un accident, cinq ans après le dernier jour du congé de prise en charge;
-- e.[^20-3] en cas d’adoption, cinq ans après la fin du droit visé à l’art. 16*u*, al 3.[^20-4]
+- e.[^20-4] en cas de droit de la mère à des indemnités journalières supplémentaires pour cause de décès de l’autre parent, cinq ans après la fin du délai-cadre visé à l’art. 16*c*<sup>bis</sup>, al. 1;
+- f.[^20-5] en cas de droit de l’autre parent à des indemnités journalières supplémentaires pour cause de décès de la mère, cinq ans après la fin du droit visé à l’art. 16*k*<sup>bis</sup>, al. 3;
+- g.[^20-6] en cas d’adoption, cinq ans après la fin du droit visé à l’art. 16*u*, al 3.[^20-7]
 
-<sup>2</sup> Les créances découlant de la présente loi, de la LAVS[^20-5] et de la loi fédérale du 20 juin 1952 sur les allocations familiales dans l’agriculture[^20-6] peuvent être compensées avec des allocations dues.
+<sup>2</sup> Les créances découlant de la présente loi, de la LAVS[^20-8] et de la loi fédérale du 20 juin 1952 sur les allocations familiales dans l’agriculture[^20-9] peuvent être compensées avec des allocations dues.
 
 [^20-1]: Nouvelle teneur selon le ch. 1 de la LF du 3 oct. 2003, en vigueur depuis le 1<sup>er</sup> juil. 2005 ([RO 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [FF 2002 6998](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1032](https://fedlex.data.admin.ch/eli/fga/2003/169)[2595](https://fedlex.data.admin.ch/eli/fga/2003/381)).
 [^20-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^20-3]: Introduite par le ch. I de la LF du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 468](https://fedlex.data.admin.ch/eli/oc/2022/468); [FF 2019 6723](https://fedlex.data.admin.ch/eli/fga/2019/2553), [6909](https://fedlex.data.admin.ch/eli/fga/2019/2640)).
-[^20-4]: Nouvelle teneur selon le ch. II 4 de la LF du 20 déc. 2019 sur l’amélioration de la conciliation entre activité professionnelle et prise en charge de proches, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3941](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
-[^20-5]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^20-6]: [RS 836.1](https://fedlex.data.admin.ch/eli/cc/1952/823_843_839)
+[^20-3]: Nouvelle teneur selon le ch. I de la LF du 17 mars 2023 (Indemnités journalières pour le parent survivant), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [FF 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
+[^20-4]: Introduite par le ch. I de la LF du 17 mars 2023 (Indemnités journalières pour le parent survivant), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [FF 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
+[^20-5]: Introduite par le ch. I de la LF du 17 mars 2023 (Indemnités journalières pour le parent survivant), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [FF 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
+[^20-6]: Anciennement let. e. Introduite par le ch. I de la LF du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 468](https://fedlex.data.admin.ch/eli/oc/2022/468); [FF 2019 6723](https://fedlex.data.admin.ch/eli/fga/2019/2553), [6909](https://fedlex.data.admin.ch/eli/fga/2019/2640)).
+[^20-7]: Nouvelle teneur selon le ch. II 4 de la LF du 20 déc. 2019 sur l’amélioration de la conciliation entre activité professionnelle et prise en charge de proches, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3941](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
+[^20-8]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^20-9]: [RS 836.1](https://fedlex.data.admin.ch/eli/cc/1952/823_843_839)
 
 #### Art. 20a
 
@@ -835,16 +877,27 @@ Les cantons sont responsables des dommages subis au titre du régime d’allocat
 
 <sup>1</sup> L’application de la présente loi incombe aux organes de l’assurance-vieillesse et survivants, avec la collaboration des états-majors et unités militaires. Pour la protection civile, l’exécution a lieu en collaboration avec les comptables des organismes de protection; pour le service civil, en collaboration avec l’Office fédéral du service civil[^21-1] et les établissements d’affectation.[^21-2]
 
-<sup>2</sup> À moins que la présente loi n’en dispose autrement, les dispositions de la LAVS[^21-3] concernant les employeurs, les caisses de compensation, le règlement des comptes et des paiements, la comptabilité, la révision des caisses et le contrôle des employeurs, la Centrale de compensation et le numéro AVS[^21-4] sont applicables par analogie. La responsabilité des organes de l’AVS, au sens de l’art. 49 LAVS, est réglée à l’art. 78 LPGA[^21-5], ainsi qu’aux art. 52, 70 et 71*a* LAVS, qui s’appliquent par analogie.[^21-6]
+<sup>2</sup>
+
+À moins que la présente loi n’en dispose autrement, sont applicables par analogie les dispositions de la LAVS[^21-3] qui concernent:
+
+- a. les systèmes d’information (art. 49*a*, 49*b* et 72*a*, al. 2, let. b, LAVS);
+- b. le registre des prestations courantes en espèces (art. 49*c* LAVS);
+- c. l’utilisation systématique du numéro AVS (art. 50*c* et 153*b* à 153*i* LAVS);
+- d. les employeurs (art. 51 et 52 LAVS);
+- e. les caisses de compensation (art. 53 à 70 LAVS);
+- f. la Centrale de compensation (art. 71 LAVS).[^21-4]
+
+<sup>2bis</sup> La responsabilité des organes de l’AVS au sens de l’art. 49 LAVS est réglée à l’art. 78 LPGA[^21-5], ainsi qu’aux art. 52, 70 et 71*a* LAVS, qui s’appliquent par analogie.[^21-6]
 
 <sup>3</sup> En dérogation à l’art. 78 LPGA, la responsabilité des comptables des états-majors et des unités est soumise à la loi fédérale du 3 février 1995 sur l’armée et l’administration militaire[^21-7], celle des comptables des organismes de protection civile, à la loi du 17 juin 1994 sur la protection civile[^21-8].[^21-9]
 
 [^21-1]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2019 en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)).
 [^21-2]: Phrase introduite par l’art. 93 de la LF du 23 mars 1962 sur la protection civile ([RO 1962 1127](https://fedlex.data.admin.ch/eli/oc/1962/1089_1127_1131); [FF 1961 II 693](https://fedlex.data.admin.ch/eli/fga/1961/2_693_693_1417)). Nouvelle teneur selon le ch. II 2 de la LF du 3 oct. 2008, en vigueur depuis le 1<sup>er</sup> avr. 2009 ([RO 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2379](https://fedlex.data.admin.ch/eli/fga/2008/609)).
 [^21-3]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^21-4]: Nouvelle expression selon l’annexe ch. 34 de la LF du 18 déc. 2020 (Utilisation systématique du numéro AVS par les autorités), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6955](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
+[^21-4]: Nouvelle teneur selon l’annexe ch. 6 de la LF du 17 juin 2022 (Modernisation de la surveillance), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 [^21-5]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^21-6]: Nouvelle teneur selon le ch. I de l’O de l’Ass. féd. du 21 juin 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [FF 2002 763](https://fedlex.data.admin.ch/eli/fga/2002/114)).
+[^21-6]: Introduit par l’annexe ch. 6 de la LF du 17 juin 2022 (Modernisation de la surveillance), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 [^21-7]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
 [^21-8]: [[RO 1994 2626](https://fedlex.data.admin.ch/eli/oc/1994/2626_2626_2626), [1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227)annexe ch. 9, [1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445)annexe ch. 14. [RO 2003 4187](https://fedlex.data.admin.ch/eli/oc/2003/620)art. 76 ch. 1]. Voir actuellement la LF du 4 oct. 2002 sur la protection de la population et sur la protection civile ([RS 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)).
 [^21-9]: Introduit par l’annexe ch. 14 de la LF du 6 oct. 2000 sur la partie générale du droit des assurances sociales, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [FF 1991 II 181](https://fedlex.data.admin.ch/eli/fga/1991/2__181_)888, [1994 V 897](https://fedlex.data.admin.ch/eli/fga/1994/5__897_), **1999** 4168).
@@ -863,14 +916,14 @@ Pour couvrir leurs frais d’administration, les caisses de compensation prélè
 
 **Surveillance de la Confédération (art. 76 LPGA[^23-2])[^23-3]**
 
-<sup>1</sup> L’art. 72 LAVS[^23-4] est applicable par analogie.[^23-5]
+<sup>1</sup> Les art. 72, 72*a* et 72*b* LAVS[^23-4] sont applicables par analogie.[^23-5]
 
-<sup>2</sup> La Commission fédérale de l’assurance-vieillesse et survivants et invalidité[^23-6], ...[^23-7], institue dans son sein une sous-commission chargée de donner son avis au Conseil fédéral sur l’exécution et le développement ultérieur des dispositions sur les allocations pour perte de gain. La sous-commission a le droit de présenter, de sa propre initiative, des propositions au Conseil fédéral.
+<sup>2</sup> La Commission fédérale de l’assurance-vieillesse et survivants et invalidité[^23-6], …[^23-7], institue dans son sein une sous-commission chargée de donner son avis au Conseil fédéral sur l’exécution et le développement ultérieur des dispositions sur les allocations pour perte de gain. La sous-commission a le droit de présenter, de sa propre initiative, des propositions au Conseil fédéral.
 
 [^23-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^23-3]: Nouvelle teneur selon l’annexe ch. 14 de la LF du 6 oct. 2000 sur la partie générale du droit des assurances sociales, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [FF 1991 II 181](https://fedlex.data.admin.ch/eli/fga/1991/2__181_)888, [1994 V 897](https://fedlex.data.admin.ch/eli/fga/1994/5__897_), **1999** 4168).
 [^23-4]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^23-5]: Nouvelle teneur selon l’annexe ch. 14 de la LF du 6 oct. 2000 sur la partie générale du droit des assurances sociales, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [FF 1991 II 181](https://fedlex.data.admin.ch/eli/fga/1991/2__181_)888, [1994 V 897](https://fedlex.data.admin.ch/eli/fga/1994/5__897_), **1999** 4168).
+[^23-5]: Nouvelle teneur selon l’annexe ch. 6 de la LF du 17 juin 2022 (Modernisation de la surveillance), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 [^23-6]: Nouvelle dénomination selon le ch. I f de la LF du 19 juin 1987, en vigueur depuis le 1<sup>er</sup> janv. 1988 ([RO 1987 1393](https://fedlex.data.admin.ch/eli/oc/1987/1393_1393_1393); [FF 1985 I 785](https://fedlex.data.admin.ch/eli/fga/1985/1_797_785_653)).
 [^23-7]: Partie de phrase abrogée par le ch. I de la LF du 18 déc. 1998, avec effet au 1<sup>er</sup> juil. 1999 ([RO 1999 1571](https://fedlex.data.admin.ch/eli/oc/1999/237); FF **1998** 3013).
 
@@ -990,25 +1043,24 @@ Pour les personnes qui sont ou qui ont été soumises à la législation sur la 
 
 #### Art. 29
 
-**Dispositions applicables**[^29-1]
+**Dispositions applicables de la LAVS**[^29-1]
 
-Les dispositions de la LAVS[^29-2] concernant le traitement de données personnelles, la prise en charge des frais et les taxes postales sont applicables par analogie.
+Sont applicables par analogie les dispositions suivantes de la LAVS[^29-2] qui concernent:
 
-[^29-1]: Nouvelle teneur selon l’annexe ch. 8 de la LF du 21 juin 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5137](https://fedlex.data.admin.ch/eli/oc/2020/892); [FF 2018 1597](https://fedlex.data.admin.ch/eli/fga/2018/671)).
+- a. le traitement de données personnelles (art. 49*f* LAVS);
+- b. le remboursement et la prise en charge des frais (art. 95 LAVS).
+
+[^29-1]: Nouvelle teneur selon l’annexe ch. 6 de la LF du 17 juin 2022 (Modernisation de la surveillance), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 [^29-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
 #### Art. 29a
 
 **Communication de données**[^29a-1]
 
-<sup>1</sup> Dans la mesure où aucun intérêt privé prépondérant ne s’y oppose, des données peuvent être communiquées dans des cas d’espèce et sur demande écrite et motivée, en dérogation à l’art. 33 LPGA[^29a-2], aux autorités chargées d’appliquer la loi fédérale du 12 juin 1959 sur l’exemption de l’obligation de servir[^29a-3], conformément à l’art. 24 de ladite loi.
+Les art. 50*a* et 50*b* LAVS[^29a-2] sont applicables par analogie.
 
-<sup>2</sup> Au surplus, l’art. 50*a* LAVS[^29a-4], y compris ses dérogations à la LPGA, est applicable par analogie.
-
-[^29a-1]: Introduit par le ch. I de la LF du 23 juin 2000 ([RO 2000 2770](https://fedlex.data.admin.ch/eli/oc/2000/466); [FF 2000 219](https://fedlex.data.admin.ch/eli/fga/2000/99)). Nouvelle teneur selon le ch. I de l’O de l’Ass. féd. du 21 juin 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [FF 2002 763](https://fedlex.data.admin.ch/eli/fga/2002/114)).
-[^29a-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^29a-3]: [RS 661](https://fedlex.data.admin.ch/eli/cc/1959/2035_2097_2125). Actuellement «LF sur la taxe d’exemption de l’obligation de servir».
-[^29a-4]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^29a-1]: Introduit par le ch. I de la LF du 23 juin 2000 ([RO 2000 2770](https://fedlex.data.admin.ch/eli/oc/2000/466); [FF 2000 219](https://fedlex.data.admin.ch/eli/fga/2000/99)). Nouvelle teneur selon l’annexe ch. 6 de la LF du 17 juin 2022 (Modernisation de la surveillance), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^29a-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
 #### Art. 30
 
@@ -1040,7 +1092,7 @@ Les décrets cantonaux concernant la création des caisses cantonales de compens
 
 <sup>1</sup> La présente loi entre en vigueur le 1<sup>er</sup> janvier 1953.
 
-<sup>2</sup> ...[^34-1]
+<sup>2</sup> …[^34-1]
 
 <sup>3</sup> Le Conseil fédéral est chargé de l’exécution de la présente loi; il édictera les dispositions nécessaires.
 
@@ -1073,3 +1125,11 @@ Les nouvelles dispositions s’appliquent également si l’accouchement est int
 <sup>1</sup> Les dispositions de contrats d’assurance qui prévoient des indemnités journalières en cas de maternité deviennent caduques à l’entrée en vigueur du régime des allocations de maternité prévu dans la présente loi. Les primes payées par avance au-delà de cette date sont remboursées.
 
 <sup>2</sup> Le droit à l’indemnité journalière pour un accouchement qui a eu lieu auparavant est réservé.
+
+## Disposition finale de la modification du 17 mars 2023
+
+[^u3-1]
+
+[^u3-1]: [RO 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [FF 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)
+
+Les art. 16*c*<sup>bis</sup> et 16*k*<sup>bis</sup> s’appliquent uniquement aux décès intervenus à partir du jour de l’entrée en vigueur de la modification du 17 mars 2023.
