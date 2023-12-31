@@ -4,13 +4,12 @@ number: "413.17"
 title: Reglement über die Höhere Fachschule Landwirtschaft
 short: Reglement HFLW
 language: de
-version: 2018-01-01
-valid_until: 2023-12-31
-version_adopted: 2017-11-28
+version: 2024-01-01
+version_adopted: 2023-12-07
 adopted: 2012-07-09
 in_force: 2012-08-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/413.17"
-pdf: "https://bgs.zg.ch/api/de/versions/1770/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2514/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.zg.ch/api/de/versions/1770/pdf_file"
 
 (Reglement HFLW)
 
-Vom 9. Juli 2012 (Stand 1. Januar 2018)
+Vom 9. Juli 2012 (Stand 1. Januar 2024)
 
 Die Volkswirtschaftsdirektion des Kantons Zug,
 
@@ -56,7 +55,7 @@ verfügt:
 
 <sup>1</sup> Die Aufnahme erfolgt nach den Vorgaben der entsprechenden Rahmenlehrpläne.
 
-<sup>2</sup> Näheres regelt die Rektorin bzw. der Rektor des LBBZ Schluechthof in einem Aufnahmereglement.
+<sup>2</sup> Näheres regelt die Rektorin bzw. der Rektor des LBBZ Schluechthof in einem Studienreglement.
 
 #### § 5
 
@@ -78,15 +77,15 @@ verfügt:
 - b) Diplomarbeit mit einer genügenden Note bestanden;
 - c) erforderte Mindestpunktzahl aus dem Pflichtmodulbereich der Produktionstechnik und aus dem Wahlmodulbereich erreicht;
 - d) Bedingungen für die Pflichtmodul-Testate erfüllt;
-- e) Mindestzahl an Modulen gemäss Promotionsreglement in Betriebswirtschaft bestanden;
+- e) Mindestzahl an Modulen gemäss Studienreglement in Betriebswirtschaft bestanden;
 - f) Prüfungen Betriebswirtschaft auf dem Landwirtschaftsbetrieb I und II je mit einer genügenden Note bestanden;
-- g) Betriebsstudie mit einer genügenden Note bestanden;
+- g) Betriebsstudie mit Fachgespräch mit einer genügenden Note bestanden;
 - h) Zwischenqualifikation aus den Erfahrungsnoten erreicht;
 - i) Vorgaben in Bezug auf das Praktikum erfüllt;
-- j) Betriebskalkulation mit Businessplan mit einer genügenden Note bestanden;
-- k) Versuch, Seminar- und Semesterarbeit mit einer genügenden Note bestanden.
+- j) Strategische Planung mit Betriebskalkulation mit einer genügenden Note bestanden;
+- k) Versuch und Semesterarbeit mit einer genügenden Note bestanden.
 
-<sup>2</sup> Näheres regelt die Rektorin bzw. der Rektor des LBBZ Schluechthof in einem Promotionsreglement.
+<sup>2</sup> Näheres regelt die Rektorin bzw. der Rektor des LBBZ Schluechthof in einem Studienreglement.
 
 #### § 7
 
@@ -104,11 +103,12 @@ verfügt:
 - b) Produktionstechnik;
 - c) Rechnungswesen;
 - d) Kommunikation;
-- e) Mathematik;
-- f) Verkauf;
-- g) angewandte Medienkunde.
+- e) Mathematik / Statistik;
+- f) Verkauf und Beratung;
+- g) angewandte Medienkunde;
+- h) Markt- und Wirtschaftslehre.
 
-<sup>3</sup> Zusätzlich wird eine interdisziplinäre Prüfung abgenommen.
+<sup>3</sup> Zusätzlich wird eine interdisziplinäre Prüfung abgenommen sowie eine Erfahrungsnote aus dem Projektunterricht berücksichtigt.
 
 <sup>4</sup> Die Rektorin bzw. der Rektor des LBBZ Schluechthof bestimmt die Aufteilung der Fächer bzw. der interdisziplinären Prüfung auf die Prüfungssessionen.
 
@@ -122,7 +122,7 @@ verfügt:
 
 **Praktikum**
 
-<sup>1</sup> Das Praktikum umfasst 18 Wochen und muss vor der Prüfungssession 3 absolviert werden.
+<sup>1</sup> Das Praktikum umfasst 18 Wochen und muss zwingend absolviert werden.
 
 <sup>2</sup> Bei berufsbegleitender Ausbildung kann das Praktikum auch in einer Teilzeit-Beschäftigung absolviert werden. Auf eine Vollzeit-Beschäftigung umgerechnet muss es mindestens 18 Wochen ergeben.
 
@@ -160,14 +160,12 @@ verfügt:
 
 **Weitergeltung bisherigen Rechts**
 
-<sup>1</sup> Für Studentinnen und Studenten, welche die Ausbildung vor dem Jahr 2016 begonnen haben, gilt der § 7 des Reglements über die Höhere Fachschule Landwirtschaft (Reglement HFLW) in der Fassung vom 4. September 2013[^12a-1].
+<sup>1</sup> Für Studentinnen und Studenten, welche die Ausbildung vor dem Jahr 2022 begonnen haben, gelten die §§ 6 und 7 dieses Reglements in der Fassung vom 15. August 2016[^12a-1].
 
-[^12a-1]: [Reglement HFLW vom 4. September 2013](https://bgs.zg.ch/frontend/versions/1217)
+[^12a-1]: Reglement HFLW vom 15. August 2016
 
 #### § 13
 
-**Inkrafttreten**
-
-<sup>1</sup> Dieses Reglement tritt am 1. August 2012 in Kraft.
+**…**
 
 GS 31, 591
