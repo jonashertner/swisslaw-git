@@ -3,11 +3,11 @@ sr: "361.2"
 title: "Verordnung vom 15. Oktober 2008 über das informatisierte Personennachweis, Aktennachweis- und Verwaltungssystem im Bundesamt für Polizei (IPAS-Verordnung)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/700"
 language: de
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2008-10-15
 in_force: 2008-12-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/700/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2008-700-20230901-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/700/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/700/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2008-700-20240101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/700/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/700/20230901/de"
 
 (IPAS-Verordnung)
 
-vom 15. Oktober 2008 (Stand am 1. September 2023)
+vom 15. Oktober 2008 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -24,7 +24,7 @@ gestützt auf den Artikel 19 des Bundesgesetzes vom 13. Juni 2008[^ingress-1] ü
 
 verordnet:
 
-[^ingress-1]: [SR 361](https://fedlex.data.admin.ch/eli/cc/2008/698)
+[^ingress-1]: [SR 361](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6307)
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
 
@@ -157,14 +157,14 @@ Fedpol kann im Rahmen der Amtshilfe aus dem IPAS stammende Daten folgenden Behö
 
 [^7-1]: Fassung gemäss Anhang 4 Ziff. II 16 der V vom 4. Dez. 2009 über den Nachrichtendienst des Bundes, in Kraft seit 1. Jan. 2010 ([AS 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)).
 [^7-2]: Fassung gemäss Anhang Ziff. II 5 der Bürgerrechtsverordnung vom 17. Juni 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 2577](https://fedlex.data.admin.ch/eli/oc/2016/405)).
-[^7-3]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^7-4]: [SR 141.0](https://fedlex.data.admin.ch/eli/cc/2016/404)
-[^7-5]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^7-3]: [SR 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+[^7-4]: [SR 141.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4841)
+[^7-5]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 [^7-6]: Eingefügt durch Anhang 4 Ziff. II 16 der V vom 4. Dez. 2009 über den Nachrichtendienst des Bundes, in Kraft seit 1. Jan. 2010 ([AS 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)).
 [^7-7]: Eingefügt durch Anhang Ziff. 2 der V vom 6. Dez. 2013 über die Bearbeitung biometrischer erkennungsdienstlicher Daten ([AS 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)). Fassung gemäss Anhang 10 Ziff. II 14 der Strafregisterverordnung vom 19. Okt. 2022, in Kraft seit 23. Jan. 2023 ([AS 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 [^7-8]: Eingefügt durch Anhang Ziff. 2 der V vom 6. Dez. 2013 über die Bearbeitung biometrischer erkennungsdienstlicher Daten, in Kraft seit 1. Sept. 2014 ([AS 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
-[^7-9]: [SR 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
-[^7-10]: [SR 361.3](https://fedlex.data.admin.ch/eli/cc/2014/23)
+[^7-9]: [SR 363](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6319)
+[^7-10]: [SR 361.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6311)
 [^7-11]: Eingefügt durch Anhang 4 Ziff. II 16 der V vom 4. Dez. 2009 über den Nachrichtendienst des Bundes, in Kraft seit 1. Jan. 2010 ([AS 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)).
 
 #### Art. 8
@@ -203,12 +203,12 @@ Fedpol kann im Rahmen der Amtshilfe aus dem IPAS stammende Daten folgenden Behö
 
 <sup>8</sup> Die im Geschäfts- und Aktenverwaltungssystem, gespeicherten Daten, die keinen Bezug aufweisen zu anderen Kategorien werden nach drei Jahren gelöscht.
 
-[^9-1]: [SR 361.3](https://fedlex.data.admin.ch/eli/cc/2014/23)
-[^9-2]: [SR 363.1](https://fedlex.data.admin.ch/eli/cc/2004/812)
+[^9-1]: [SR 361.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6311)
+[^9-2]: [SR 363.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6320)
 [^9-3]: Fassung gemäss Anhang Ziff. 2 der V vom 6. Dez. 2013 über die Bearbeitung biometrischer erkennungsdienstlicher Daten, in Kraft seit 1. Sept. 2014 ([AS 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
 [^9-4]: Eingefügt durch Anhang Ziff. 2 der V vom 6. Dez. 2013 über die Bearbeitung biometrischer erkennungsdienstlicher Daten, in Kraft seit 1. Sept. 2014 ([AS 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
-[^9-5]: [SR 0.362.2](https://fedlex.data.admin.ch/eli/cc/2006/181)
-[^9-6]: [[AS 2008 2229](https://fedlex.data.admin.ch/eli/oc/2008/325), [4943](https://fedlex.data.admin.ch/eli/oc/2008/694)Ziff. I 21, [6305](https://fedlex.data.admin.ch/eli/oc/2008/858)Anhang Ziff. 17; [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)Anhang 4 Ziff. II 18. [AS 2013 855](https://fedlex.data.admin.ch/eli/oc/2013/179)Art. 57]. Siehe heute die V vom 8. März 2013 ([SR 362.0](https://fedlex.data.admin.ch/eli/cc/2013/179)).
+[^9-5]: [SR 0.362.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1510)
+[^9-6]: [[AS 2008 2229](https://fedlex.data.admin.ch/eli/oc/2008/325), [4943](https://fedlex.data.admin.ch/eli/oc/2008/694)Ziff. I 21, [6305](https://fedlex.data.admin.ch/eli/oc/2008/858)Anhang Ziff. 17; [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)Anhang 4 Ziff. II 18. [AS 2013 855](https://fedlex.data.admin.ch/eli/oc/2013/179)Art. 57]. Siehe heute die V vom 8. März 2013 ([SR 362.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6314)).
 
 #### Art. 9a
 
@@ -225,8 +225,8 @@ Die Löschmutationen werden ab dem Zeitpunkt der Löschung der Daten während ei
 Die Ablieferung von Daten aus dem Informationssystem an das Bundesarchiv richtet sich nach Artikel 38 des Datenschutzgesetzes vom 25. September 2020[^10-2] (DSG) und nach dem Archivierungsgesetz vom 26. Juni 1998[^10-3].
 
 [^10-1]: Fassung gemäss Anhang 2 Ziff. II 43 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^10-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^10-3]: [SR 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+[^10-2]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^10-3]: [SR 152.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4931)
 
 ## 4. Abschnitt: Datenschutz und Datensicherheit
 
@@ -236,10 +236,10 @@ Die Ablieferung von Daten aus dem Informationssystem an das Bundesarchiv richtet
 
 Das Recht auf Auskunft, Berichtigung oder Löschung von Daten richtet sich nach den Bestimmungen des DSG[^11-1]. Für Daten, die durch Interpol vermittelt wurden, bleibt Artikel 13 der Verordnung vom 1. Dezember 1986[^11-2] über das Nationale Zentralbüro Interpol Bern vorbehalten. Für Daten, die durch Europol vermittelt wurden, bleibt Artikel 7 Ziffer 5 des Abkommens vom 24. September 2004[^11-3] zwischen der Schweiz und dem Europäischen Polizeiamt vorbehalten. Für Daten, die einen Bezug aufweisen zu einer Ausschreibung im N-SIS, bleibt Artikel 49 der N-SIS-Verordnung vom 7. Mai 2008[^11-4] vorbehalten. Für den Eintrag von Daten ins Geschäfts- und Aktenverwaltungssystem von fedpol, die in die Zuständigkeit der BKP fallen, bleibt Artikel 8 BPI vorbehalten.
 
-[^11-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^11-2]: [[AS 1986 2318](https://fedlex.data.admin.ch/eli/oc/1986/2318_2318_2318); [1987 279](https://fedlex.data.admin.ch/eli/oc/1987/279_279_279); [1992 1618](https://fedlex.data.admin.ch/eli/oc/1992/1618_1618_1618)Anhang Ziff. 5; [1993 1962](https://fedlex.data.admin.ch/eli/oc/1993/1962_1962_1962)Art. 36 Ziff. 7; [1996 3097](https://fedlex.data.admin.ch/eli/oc/1996/3097_3097_3097); [1998 1561](https://fedlex.data.admin.ch/eli/oc/1998/1561_1561_1561); [2001 3316](https://fedlex.data.admin.ch/eli/oc/2001/494); [2005 1351](https://fedlex.data.admin.ch/eli/oc/2005/207); [2008 4943](https://fedlex.data.admin.ch/eli/oc/2008/694)Ziff. I 11; [2012 6731](https://fedlex.data.admin.ch/eli/oc/2012/815)Anhang Ziff. 6. [AS 2013 2201](https://fedlex.data.admin.ch/eli/oc/2013/466)Art. 18]. Siehe heute: Art. 16 der Interpol-Verordnung vom 21. Juni 2013 ([SR 366.1](https://fedlex.data.admin.ch/eli/cc/2013/466)).
-[^11-3]: [SR 0.362.2](https://fedlex.data.admin.ch/eli/cc/2006/181)
-[^11-4]: [[AS 2008 2229](https://fedlex.data.admin.ch/eli/oc/2008/325), [4943](https://fedlex.data.admin.ch/eli/oc/2008/694)Ziff. I 21, [6305](https://fedlex.data.admin.ch/eli/oc/2008/858)Anhang Ziff. 17; [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)Anhang 4 Ziff. II 18. [AS 2013 855](https://fedlex.data.admin.ch/eli/oc/2013/179)Art. 57]. Siehe heute die V vom 8. März 2013 ([SR 362.0](https://fedlex.data.admin.ch/eli/cc/2013/179)).
+[^11-1]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^11-2]: [[AS 1986 2318](https://fedlex.data.admin.ch/eli/oc/1986/2318_2318_2318); [1987 279](https://fedlex.data.admin.ch/eli/oc/1987/279_279_279); [1992 1618](https://fedlex.data.admin.ch/eli/oc/1992/1618_1618_1618)Anhang Ziff. 5; [1993 1962](https://fedlex.data.admin.ch/eli/oc/1993/1962_1962_1962)Art. 36 Ziff. 7; [1996 3097](https://fedlex.data.admin.ch/eli/oc/1996/3097_3097_3097); [1998 1561](https://fedlex.data.admin.ch/eli/oc/1998/1561_1561_1561); [2001 3316](https://fedlex.data.admin.ch/eli/oc/2001/494); [2005 1351](https://fedlex.data.admin.ch/eli/oc/2005/207); [2008 4943](https://fedlex.data.admin.ch/eli/oc/2008/694)Ziff. I 11; [2012 6731](https://fedlex.data.admin.ch/eli/oc/2012/815)Anhang Ziff. 6. [AS 2013 2201](https://fedlex.data.admin.ch/eli/oc/2013/466)Art. 18]. Siehe heute: Art. 16 der Interpol-Verordnung vom 21. Juni 2013 ([SR 366.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6327)).
+[^11-3]: [SR 0.362.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1510)
+[^11-4]: [[AS 2008 2229](https://fedlex.data.admin.ch/eli/oc/2008/325), [4943](https://fedlex.data.admin.ch/eli/oc/2008/694)Ziff. I 21, [6305](https://fedlex.data.admin.ch/eli/oc/2008/858)Anhang Ziff. 17; [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)Anhang 4 Ziff. II 18. [AS 2013 855](https://fedlex.data.admin.ch/eli/oc/2013/179)Art. 57]. Siehe heute die V vom 8. März 2013 ([SR 362.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6314)).
 
 #### Art. 12
 
@@ -248,12 +248,13 @@ Das Recht auf Auskunft, Berichtigung oder Löschung von Daten richtet sich nach 
 Für die Gewährleistung der Datensicherheit gelten:
 
 - a.[^12-2] die Datenschutzverordnung vom 31. August 2022[^12-3];
-- b. die Cyberrisikenverordnung vom 27. Mai 2020[^12-4].
+- b.[^12-4] der Informationssicherheitsverordnung vom 8. November 2023[^12-5].
 
 [^12-1]: Fassung gemäss Anhang Ziff. 19 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 [^12-2]: Fassung gemäss Anhang 2 Ziff. II 43 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^12-3]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^12-4]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^12-3]: [SR 235.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5994)
+[^12-4]: Fassung gemäss Anhang 2 Ziff. II 19 der Informationssicherheitsverordnung vom 8. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^12-5]: [SR 128.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40166)
 
 #### Art. 13
 

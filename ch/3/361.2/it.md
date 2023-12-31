@@ -3,11 +3,11 @@ sr: "361.2"
 title: "Ordinanza del 15 ottobre 2008 sul sistema informatizzato di gestione e indice informatizzato delle persone e dei fascicoli dell'Ufficio federale di polizia (Ordinanza IPAS)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/700"
 language: it
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2008-10-15
 in_force: 2008-12-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/700/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2008-700-20230901-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/700/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/700/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2008-700-20240101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/700/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/700/20230901/it"
 
 (Ordinanza IPAS)
 
-del 15 ottobre 2008 (Stato 1° settembre 2023)
+del 15 ottobre 2008 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -24,7 +24,7 @@ visto l’articolo 19 della legge federale del 13 giugno 2008[^ingress-1] sui si
 
 ordina:
 
-[^ingress-1]: [RS 361](https://fedlex.data.admin.ch/eli/cc/2008/698)
+[^ingress-1]: [RS 361](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6307)
 
 ## Sezione 1: Disposizioni generali
 
@@ -157,14 +157,14 @@ Fedpol può, nell’ambito dell’assistenza amministrativa, trasmettere su rich
 
 [^7-1]: Nuovo testo giusta l’all. 4 n. II 16 dell’O del 4 dic. 2009 sul Servizio delle attività informative della Confederazione, in vigore dal 1° gen. 2010 ([RU 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)).
 [^7-2]: Nuovo testo giusta l’all. l n. II 5 dell’O del 17 giu. 2016 sulla cittadinanza, in vigore dal 1° gen. 2018 ([RU 2016 2577](https://fedlex.data.admin.ch/eli/oc/2016/405)).
-[^7-3]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^7-4]: [RS 141.0](https://fedlex.data.admin.ch/eli/cc/2016/404)
-[^7-5]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^7-3]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+[^7-4]: [RS 141.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4841)
+[^7-5]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 [^7-6]: Introdotta dall’all. 4 n. II 16 dell’O del 4 dic. 2009 sul Servizio delle attività informative della Confederazione, in vigore dal 1° gen. 2010 ([RU 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)).
 [^7-7]: Introdotta dall’all. n. 2 dell’O del 6 dic. 2013 sul trattamento dei dati segnaletici di natura biometrica ([RU 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)). Nuovo testo giusta l’all. 10 n. II 14 dell’O del 19 ott. 2022 sul casellario giudiziale, in vigore dal 23 gen. 2023 ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 [^7-8]: Introdotta dall’all. n. 2 dell’O del 6 dic. 2013 sul trattamento dei dati segnaletici di natura biometrica, in vigore dal 1° set. 2014 ([RU 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
-[^7-9]: [RS 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
-[^7-10]: [RS 361.3](https://fedlex.data.admin.ch/eli/cc/2014/23)
+[^7-9]: [RS 363](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6319)
+[^7-10]: [RS 361.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6311)
 [^7-11]: Introdotto dall’all. 4 n. II 16 dell’O del 4 dic. 2009 sul Servizio delle attività informative della Confederazione, in vigore dal 1° gen. 2010 ([RU 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)).
 
 #### Art. 8
@@ -203,12 +203,12 @@ Fedpol può, nell’ambito dell’assistenza amministrativa, trasmettere su rich
 
 <sup>8</sup> I dati del sistema di gestione delle pratiche e degli atti che non sono in correlazione con altre categorie sono cancellati dopo tre anni.
 
-[^9-1]: [RS 361.3](https://fedlex.data.admin.ch/eli/cc/2014/23)
-[^9-2]: [RS 363.1](https://fedlex.data.admin.ch/eli/cc/2004/812)
+[^9-1]: [RS 361.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6311)
+[^9-2]: [RS 363.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6320)
 [^9-3]: Nuovo testo giusta l’all. n. 2 dell’O del 6 dic. 2013 sul trattamento dei dati segnaletici di natura biometrica, in vigore dal 1° set. 2014 ([RU 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
 [^9-4]: Introdotto dall’all. n. 2 dell’O del 6 dic. 2013 sul trattamento dei dati segnaletici di natura biometrica, in vigore dal 1° set. 2014 ([RU 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
-[^9-5]: [RS 0.362.2](https://fedlex.data.admin.ch/eli/cc/2006/181)
-[^9-6]: [[RU 2008 2229](https://fedlex.data.admin.ch/eli/oc/2008/325)[4943](https://fedlex.data.admin.ch/eli/oc/2008/694)n. I 21 [6305](https://fedlex.data.admin.ch/eli/oc/2008/858)all. n. 17, [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)all. 4 n. II 18. [RU 2013 855](https://fedlex.data.admin.ch/eli/oc/2013/179)art. 57]. Vedi ora l’O dell’8 mar. 2013 ([RS 362.0](https://fedlex.data.admin.ch/eli/cc/2013/179)).
+[^9-5]: [RS 0.362.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1510)
+[^9-6]: [[RU 2008 2229](https://fedlex.data.admin.ch/eli/oc/2008/325), [4943](https://fedlex.data.admin.ch/eli/oc/2008/694)n. I 21, [6305](https://fedlex.data.admin.ch/eli/oc/2008/858)all. n. 17; [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)all. 4 n. II 18. [RU 2013 855](https://fedlex.data.admin.ch/eli/oc/2013/179)art. 57]. Vedi ora l’O dell’8 mar. 2013 ([RS 362.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6314)).
 
 #### Art. 9a
 
@@ -225,8 +225,8 @@ I verbali delle cancellazioni sono conservati per un anno, a partire dal momento
 La consegna all’Archivio federale di dati contenuti nel sistema d’informazione è retta dall’articolo 38 della legge federale del 25 settembre 2020[^10-2] sulla protezione dei dati (LPD) e dalla legge federale del 26 giugno 1998[^10-3] sull’archiviazione.
 
 [^10-1]: Nuovo testo giusta l’all. 2 n. II 43 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^10-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^10-3]: [RS 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+[^10-2]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^10-3]: [RS 152.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4931)
 
 ## Sezione 4: Protezione dei dati e sicurezza dei dati
 
@@ -236,10 +236,10 @@ La consegna all’Archivio federale di dati contenuti nel sistema d’informazio
 
 Il diritto d’accesso, il diritto alla rettifica e alla cancellazione dei dati è retto dalle disposizioni della LPD[^11-1]. Per i dati comunicati da Interpol è fatto salvo l’articolo 13 dell’ordinanza del 1° dicembre 1986[^11-2] sull’Ufficio centrale nazionale Interpol Berna. Per i dati comunicati da Europol è fatto salvo l’articolo 7 paragrafo 5 dell’Accordo del 24 settembre 2004[^11-3] tra la Confederazione Svizzera e l’Ufficio europeo di polizia. Per i dati che hanno una correlazione con una segnalazione in N-SIS è fatto salvo l’articolo 49 dell’ordinanza N-SIS del 7 maggio 2008[^11-4]. Per le iscrizioni nel sistema di gestione delle pratiche e degli atti di fedpol di dati che rientrano nella competenza della PGF è fatto salvo l’articolo 8 LSIP.
 
-[^11-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^11-2]: [[RU 1986 2318](https://fedlex.data.admin.ch/eli/oc/1986/2318_2318_2318), [1987 279](https://fedlex.data.admin.ch/eli/oc/1987/279_279_279), [1992 1618](https://fedlex.data.admin.ch/eli/oc/1992/1618_1618_1618)all. n. 5, [1993 1962](https://fedlex.data.admin.ch/eli/oc/1993/1962_1962_1962)art. 36 n. 7, [1996 3097](https://fedlex.data.admin.ch/eli/oc/1996/3097_3097_3097), [1998 1561](https://fedlex.data.admin.ch/eli/oc/1998/1561_1561_1561), [2001 3316](https://fedlex.data.admin.ch/eli/oc/2001/494), [2005 1351](https://fedlex.data.admin.ch/eli/oc/2005/207), [2008 4943](https://fedlex.data.admin.ch/eli/oc/2008/694)I [11](https://fedlex.data.admin.ch/eli/oc/2008/6), [2012 6731](https://fedlex.data.admin.ch/eli/oc/2012/815)all. n. 6. [RU 2013 2201](https://fedlex.data.admin.ch/eli/oc/2013/466)art. 18]. Vedi ora l’art. 16 dell’O Interpol del 21 giu. 2013 ([RS 366.1](https://fedlex.data.admin.ch/eli/cc/2013/466)).
-[^11-3]: [RS 0.362.2](https://fedlex.data.admin.ch/eli/cc/2006/181)
-[^11-4]: [[RU 2008 2229](https://fedlex.data.admin.ch/eli/oc/2008/325)[4943](https://fedlex.data.admin.ch/eli/oc/2008/694)n. I 21 [6305](https://fedlex.data.admin.ch/eli/oc/2008/858)all. n. 17, [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)all. 4 n. II 18. [RU 2013 855](https://fedlex.data.admin.ch/eli/oc/2013/179)art. 57]. Vedi ora l’O dell’8 mar. 2013 ([RS 362.0](https://fedlex.data.admin.ch/eli/cc/2013/179)).
+[^11-1]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^11-2]: [[RU 1986 2318](https://fedlex.data.admin.ch/eli/oc/1986/2318_2318_2318), [1987 279](https://fedlex.data.admin.ch/eli/oc/1987/279_279_279), [1992 1618](https://fedlex.data.admin.ch/eli/oc/1992/1618_1618_1618)all. n. 5, [1993 1962](https://fedlex.data.admin.ch/eli/oc/1993/1962_1962_1962)art. 36 n. 7, [1996 3097](https://fedlex.data.admin.ch/eli/oc/1996/3097_3097_3097), [1998 1561](https://fedlex.data.admin.ch/eli/oc/1998/1561_1561_1561), [2001 3316](https://fedlex.data.admin.ch/eli/oc/2001/494), [2005 1351](https://fedlex.data.admin.ch/eli/oc/2005/207), [2008 4943](https://fedlex.data.admin.ch/eli/oc/2008/694)I [11](https://fedlex.data.admin.ch/eli/oc/2008/6), [2012 6731](https://fedlex.data.admin.ch/eli/oc/2012/815)all. n. 6. [RU 2013 2201](https://fedlex.data.admin.ch/eli/oc/2013/466)art. 18]. Vedi ora l’art. 16 dell’O Interpol del 21 giu. 2013 ([RS 366.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6327)).
+[^11-3]: [RS 0.362.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1510)
+[^11-4]: [[RU 2008 2229](https://fedlex.data.admin.ch/eli/oc/2008/325), [4943](https://fedlex.data.admin.ch/eli/oc/2008/694)n. I 21, [6305](https://fedlex.data.admin.ch/eli/oc/2008/858)all. n. 17; [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)all. 4 n. II 18. [RU 2013 855](https://fedlex.data.admin.ch/eli/oc/2013/179)art. 57]. Vedi ora l’O dell’8 mar. 2013 ([RS 362.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6314)).
 
 #### Art. 12
 
@@ -248,12 +248,13 @@ Il diritto d’accesso, il diritto alla rettifica e alla cancellazione dei dati 
 La sicurezza dei dati è garantita:
 
 - a.[^12-2] dall’ordinanza del 31 agosto 2022[^12-3] sulla protezione dei dati;
-- b. dall’ordinanza del 27 maggio 2020[^12-4] sui ciber-rischi.
+- b.[^12-4] dall’ordinanza dell’8 novembre 2023[^12-5] sulla sicurezza delle informazioni.
 
 [^12-1]: Nuovo testo giusta l’all. n. 19 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 [^12-2]: Nuovo testo giusta l’all. 2 n. II 43 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^12-3]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^12-4]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^12-3]: [RS 235.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5994)
+[^12-4]: Nuovo testo giusta l’all. 2 n. II 19 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^12-5]: [RS 128.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40166)
 
 #### Art. 13
 
@@ -389,7 +390,6 @@ Allegato 1
 - 7\. Persone giuridiche (nome, forma giuridica, verifica dell’identità, indirizzo)
 - 8\. Veicoli (tipo, genere, marca, Paese, numero di targa, descrizione del veicolo, indicazioni relative al proprietario)
 - 9\. Oggetti (numero, tipo, osservazioni)
-- [tab]
 
 Allegato 2[^t-1]
 
