@@ -4,11 +4,11 @@ title: "Ordinanza dell'Istituto svizzero per gli agenti terapeutici del 22 giugn
 short: OOSM
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/558"
 language: it
-version: 2020-07-01
+version: 2024-01-01
 adopted: 2006-06-22
 in_force: 2006-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/558/20200701/it/xml/fedlex-data-admin-ch-eli-cc-2006-558-20200701-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/558/20200701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/558/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2006-558-20240101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/558/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/558/20200701/it"
 
 (OOSM)
 
-del 22 giugno 2006 (Stato 1° luglio 2020)
+del 22 giugno 2006 (Stato 1° gennaio 2024)
 
 Il Consiglio dell’Istituto svizzero per gli agenti terapeutici (Consiglio dell’Istituto),
 
@@ -568,18 +568,22 @@ I radiofarmaci e gli antidoti contenenti un principio attivo che non è o non er
 
 <sup>3</sup> Swissmedic può in casi giustificati prescindere dall’obbligo di documentazione secondo gli articoli 4 e 5 OOMed. La decisione concernente l’omologazione può essere vincolata a condizioni e oneri che garantiscono un controllo sistematico dell’utilizzo del medicamento.
 
-### Sezione 5: Medicamenti importati (art. 14 cpv. 2 LATer)
+### Sezione 5: Medicamenti importati nell’ambito di importazioni parallele (art. 14 cpv. 2 e 3 LATer)
+
+[^chap4-sec5-1]
+
+[^chap4-sec5-1]: Nuovo testo giusta il n. I dell’O del Consiglio dell’Istituto del 25 ott. 2023, in vigore dal 1° gen. 2024 ([RU 2023 667](https://fedlex.data.admin.ch/eli/oc/2023/667)).
 
 #### Art. 28
 
 **Principio**[^28-1]
 
-<sup>1</sup> Un medicamento importato secondo l’articolo 14 capoverso 2 LATer può essere omologato con procedura semplificata.[^28-2]
+<sup>1</sup> Un medicamento importato nell’ambito di importazioni parallele può essere omologato con procedura semplificata.[^28-2]
 
 <sup>2</sup> Swissmedic rende noto al richiedente quali Paesi dispongono di un sistema di omologazione equivalente ai sensi dell’articolo 14 capoverso 2 LATer.
 
 [^28-1]: Nuovo testo giusta il n. I dell’O del Consiglio dell’Istituto dell’8 mag. 2009, in vigore dal 1° luglio 2009 ([RU 2009 2437](https://fedlex.data.admin.ch/eli/oc/2009/300)).
-[^28-2]: La correzione del 12 giu. 2019 concerne soltanto il testo francese ([RU 2019 1801](https://fedlex.data.admin.ch/eli/oc/2019/333)).
+[^28-2]: Nuovo testo giusta il n. I dell’O del Consiglio dell’Istituto del 25 ott. 2023, in vigore dal 1° gen. 2024 ([RU 2023 667](https://fedlex.data.admin.ch/eli/oc/2023/667)).
 
 #### Art. 29
 
@@ -595,8 +599,9 @@ La domanda di omologazione per un medicamento secondo l’articolo 28 capoverso 
 - d. un campione della confezione del medicamento omologato all’estero con l’informazione professionale e l’informazione destinata ai pazienti nella lingua originale nonché nella traduzione certificata in una lingua ufficiale svizzera o in inglese, qualora l’originale sia redatto in un’altra lingua;
 - e. una dichiarazione secondo la quale soltanto questo medicamento sarà importato e smerciato in Svizzera;
 - f. le prove secondo cui il fornitore estero del medicamento importato dispone di un’autorizzazione valida del Paese di esportazione che assicura l’osservanza delle norme della Buona prassi di distribuzione (GDP);
-- g. una descrizione dettagliata del procedimento di riconfezionamento conformemente alle norme della Buona prassi di fabbricazione (GMP);
-- h. i dati amministrativi generali di cui all’articolo 2 lettera a dell’OOMed[^29-3].
+- g.[^29-3] una prova secondo cui il procedimento di riconfezionamento è stato effettuato conformemente alle norme della Buona prassi di fabbricazione (GMP);
+- h.[^29-4] progetti di testi e di illustrazioni dell’etichetta con le informazioni specifiche per la Svizzera da apporre sull’imballaggio o una nuova confezione, in entrambi i casi conformemente alla sezione 4 OOMed[^29-5];
+- i.[^29-6] progetti di testi dell’informazione sul medicamento conformemente alla sezione 4 OOMed.
 
 <sup>2</sup>
 
@@ -608,12 +613,15 @@ Inoltre:
   l’informazione professionale e l’informazione destinata ai pazienti devono includere un’avvertenza ben leggibile che dichiara:
 
   - 1\. che il medicamento importato è stato omologato in virtù dell’articolo 14 capoverso 2 LATer, e
-  - 2\. a quale medicamento già omologato in Svizzera il medicamento importato si riferisce, in particolare la sua designazione, il suo numero di omologazione e il titolare dell’omologazione.[^29-4]
+  - 2\. a quale medicamento già omologato in Svizzera il medicamento importato si riferisce, in particolare la sua designazione, il suo numero di omologazione e il titolare dell’omologazione.[^29-7]
 
 [^29-1]: Nuovo testo giusta il n. I dell’O del Consiglio dell’Istituto del 7 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3657](https://fedlex.data.admin.ch/eli/oc/2018/590)).
 [^29-2]: Nuovo testo giusta il n. I dell’O del Consiglio dell’Istituto del 7 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3657](https://fedlex.data.admin.ch/eli/oc/2018/590)).
-[^29-3]: [RS 812.212.22](https://fedlex.data.admin.ch/eli/cc/2001/517)
-[^29-4]: Nuovo testo giusta il n. I dell’O del Consiglio dell’Istituto del 7 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3657](https://fedlex.data.admin.ch/eli/oc/2018/590)).
+[^29-3]: Nuovo testo giusta il n. I dell’O del Consiglio dell’Istituto del 25 ott. 2023, in vigore dal 1° gen. 2024 ([RU 2023 667](https://fedlex.data.admin.ch/eli/oc/2023/667)).
+[^29-4]: Nuovo testo giusta il n. I dell’O del Consiglio dell’Istituto del 25 ott. 2023, in vigore dal 1° gen. 2024 ([RU 2023 667](https://fedlex.data.admin.ch/eli/oc/2023/667)).
+[^29-5]: [RS 812.212.22](https://fedlex.data.admin.ch/eli/cc/2001/517)
+[^29-6]: Introdotta dal n. I dell’O del Consiglio dell’Istituto del 25 ott. 2023, in vigore dal 1° gen. 2024 ([RU 2023 667](https://fedlex.data.admin.ch/eli/oc/2023/667)).
+[^29-7]: Nuovo testo giusta il n. I dell’O del Consiglio dell’Istituto del 7 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3657](https://fedlex.data.admin.ch/eli/oc/2018/590)).
 
 #### Art. 30
 
@@ -831,7 +839,7 @@ Allegato 2[^t-2]
 [^annex2-lvlu1-1]
 
 [^t-2]: Introdotto n. II cpv. 2 dell’O del Consiglio dell’Istituto del 7 set. 2018 ([RU 2018 3657](https://fedlex.data.admin.ch/eli/oc/2018/590)). Nuovo testo giusta il n. I dell’O del Consiglio dell’Istituto dell’8 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 1847](https://fedlex.data.admin.ch/eli/oc/2020/375)).
-[^annex2-lvlu1-1]: Il testo del presente allegato non è pubblicato nella RU (art. 5 LPubb; [RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). È disponibile online all’indirizzo: www.swissmedic.ch.
+[^annex2-lvlu1-1]: Il testo del presente allegato non è pubblicato nella RU (art. 5 LPubb; [RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). È disponibile online all’indirizzo: www.swissmedic.ch
 
 Allegato 3[^t-3]
 
@@ -842,4 +850,4 @@ Allegato 3[^t-3]
 [^annex3-lvlu1-1]
 
 [^t-3]: Introdotto n. II cpv. 2 dell’O del Consiglio dell’Istituto del 7 set. 2018 ([RU 2018 3657](https://fedlex.data.admin.ch/eli/oc/2018/590)). Nuovo testo giusta il n. I dell’O del Consiglio dell’Istituto dell’8 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 1847](https://fedlex.data.admin.ch/eli/oc/2020/375)).
-[^annex3-lvlu1-1]: Il testo del presente allegato non è pubblicato nella RU (art. 5 LPubb; [RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). È disponibile online all’indirizzo: www.swissmedic.ch.
+[^annex3-lvlu1-1]: Il testo del presente allegato non è pubblicato nella RU (art. 5 LPubb; [RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). È disponibile online all’indirizzo: www.swissmedic.ch

@@ -4,11 +4,11 @@ title: Verordnung des Schweizerischen Heilmittelinstituts vom 22. Juni 2006 übe
 short: VAZV
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/558"
 language: de
-version: 2020-07-01
+version: 2024-01-01
 adopted: 2006-06-22
 in_force: 2006-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/558/20200701/de/xml/fedlex-data-admin-ch-eli-cc-2006-558-20200701-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/558/20200701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/558/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2006-558-20240101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/558/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/558/20200701/de"
 
 (VAZV)
 
-vom 22. Juni 2006 (Stand am 1. Juli 2020)
+vom 22. Juni 2006 (Stand am 1. Januar 2024)
 
 Der Institutsrat des Schweizerischen Heilmittelinstituts (Institutsrat),
 
@@ -223,7 +223,7 @@ Ausgeschlossen ist die Anerkennung von Präparate-Monografien für:
 
 <sup>2</sup> Ein Gesuch um Anerkennung einer weiteren Präparate-Monografie sowie einer Änderung einer bereits anerkannten Monografie kann nur durch die jeweilige Formulariumsinhaberin gestellt werden.
 
-## 4. Kapitel: Vereinfachte Zulassungsverfahren****
+## 4. Kapitel: Vereinfachte Zulassungsverfahren
 
 [^chap4-1]
 
@@ -304,7 +304,7 @@ Enthält ein Arzneimittel ausschliesslich Wirkstoffe, die in dieser Form Bestand
 [^14a-1]: Eingefügt durch Ziff. I der V des Institutsrats vom 7. Sept. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3657](https://fedlex.data.admin.ch/eli/oc/2018/590)).
 [^14a-2]: [SR 812.212.22](https://fedlex.data.admin.ch/eli/cc/2001/517)
 
-### 2. Abschnitt: Arzneimittel nach Artikel 14 Absatz 1 Buchstaben d und e HMG****
+### 2. Abschnitt: Arzneimittel nach Artikel 14 Absatz 1 Buchstaben d und e HMG
 
 [^chap4-sec2-1]
 
@@ -335,7 +335,7 @@ Für Arzneimittel nach Absatz 1, die für die beantragte Indikation seit mindest
 
 [^17-1]: Fassung gemäss Ziff. I der V des Institutsrats vom 7. Sept. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3657](https://fedlex.data.admin.ch/eli/oc/2018/590)).
 
-### 2*a*. Abschnitt:**** In einem EU- oder EFTA-Land zugelassene Arzneimittel (Art. 14 Abs. 1 Bst. a<sup>bis</sup> HMG)
+### 2*a*. Abschnitt: In einem EU- oder EFTA-Land zugelassene Arzneimittel (Art. 14 Abs. 1 Bst. a<sup>bis</sup> HMG)
 
 [^chap4-sec2a-1]
 
@@ -372,7 +372,7 @@ Fachinformation und Packungsbeilage müssen einen gut lesbaren Hinweis enthalten
 [^17b-1]: [SR 812.212.22](https://fedlex.data.admin.ch/eli/cc/2001/517)
 [^17b-2]: [SR 812.212.21](https://fedlex.data.admin.ch/eli/cc/2018/588)
 
-### 2*b*. Abschnitt:**** Arzneimittel mit langjähriger Verwendung in der EU und der EFTA (Art. 14 Abs. 1 Bst. a<sup>ter</sup> HMG)
+### 2*b*. Abschnitt: Arzneimittel mit langjähriger Verwendung in der EU und der EFTA (Art. 14 Abs. 1 Bst. a<sup>ter</sup> HMG)
 
 [^chap4-sec2b-1]
 
@@ -388,7 +388,7 @@ Fachinformation und Packungsbeilage müssen einen gut lesbaren Hinweis enthalten
 
 [^17c-1]: [SR 812.212.22](https://fedlex.data.admin.ch/eli/cc/2001/517)
 
-### 2*c*. Abschnitt:**** Arzneimittel mit kantonaler Zulassung (Art. 14 Abs. 1 Bst. a<sup>quater</sup> HMG)
+### 2*c*. Abschnitt: Arzneimittel mit kantonaler Zulassung (Art. 14 Abs. 1 Bst. a<sup>quater</sup> HMG)
 
 [^chap4-sec2c-1]
 
@@ -404,7 +404,7 @@ Fachinformation und Packungsbeilage müssen einen gut lesbaren Hinweis enthalten
 
 [^17d-1]: [SR 812.212.22](https://fedlex.data.admin.ch/eli/cc/2001/517)
 
-### 3. Abschnitt: Befristete Zulassung (Art. 9*a* HMG)****
+### 3. Abschnitt: Befristete Zulassung (Art. 9*a* HMG)
 
 [^chap4-sec3-1]
 
@@ -438,7 +438,7 @@ Das Zulassungsgesuch muss insbesondere enthalten:
 - c. die Zwischenergebnisse von klinischen Studien, die darauf hinweisen, dass von der Anwendung des Arzneimittels ein grosser therapeutischer Nutzen zu erwarten ist;
 - d. Angaben zur Zeit, die bis zur Einreichung eines ordentlichen Zulassungsgesuch nach Artikel 9 Absatz 1 HMG erforderlich ist.
 
-<sup>2</sup> ...[^19-2]
+<sup>2</sup> …[^19-2]
 
 [^19-1]: [SR 812.212.22](https://fedlex.data.admin.ch/eli/cc/2001/517)
 [^19-2]: Aufgehoben durch Ziff. I der V des Institutsrats vom 7. Sept. 2018, mit Wirkung seit 1. Jan. 2019 ([AS 2018 3657](https://fedlex.data.admin.ch/eli/oc/2018/590)).
@@ -507,7 +507,7 @@ Das Verzeichnis enthält folgende Daten:
 [^23-2]: [SR 812.212.22](https://fedlex.data.admin.ch/eli/cc/2001/517)
 [^23-3]: [SR 812.212.27](https://fedlex.data.admin.ch/eli/cc/2004/592)
 
-### 4. Abschnitt: Wichtige Arzneimittel für seltene Krankheiten (Orphan Drugs, MUMS)****
+### 4. Abschnitt: Wichtige Arzneimittel für seltene Krankheiten (Orphan Drugs, MUMS)
 
 [^chap4-sec4-1]
 
@@ -552,7 +552,7 @@ Die Gesuchstellerin kann vor der Einreichung eines Zulassungsgesuchs von der Swi
 [^27-2]: [SR 812.212.22](https://fedlex.data.admin.ch/eli/cc/2001/517)
 [^27-3]: [SR 812.212.27](https://fedlex.data.admin.ch/eli/cc/2004/592)
 
-### 4*a*. Abschnitt:**** Radiopharmazeutika und Antidota mit allgemeiner medizinischer Verwendung (Art. 14 Abs. 1 HMG)
+### 4*a*. Abschnitt: Radiopharmazeutika und Antidota mit allgemeiner medizinischer Verwendung (Art. 14 Abs. 1 HMG)
 
 [^chap4-sec4a-1]
 
@@ -571,18 +571,22 @@ Radiopharmazeutika und Antidota, die einen Wirkstoff enthalten, der in keinem an
 
 <sup>3</sup> Die Swissmedic kann in begründeten Fällen von der Dokumentationspflicht nach den Artikeln 4 und 5 AMZV absehen. Der Zulassungsentscheid kann an Auflagen und Bedingungen geknüpft werden, die eine systematische Überwachung der Anwendung des Arzneimittels sicherstellen.
 
-### 5. Abschnitt: Eingeführte Arzneimittel (Art. 14 Abs. 2 HMG)
+### 5. Abschnitt: Im Rahmen von Parallelimporten eingeführte Arzneimittel (Art. 14 Abs. 2 und 3 HMG)
+
+[^chap4-sec5-1]
+
+[^chap4-sec5-1]: Fassung gemäss Ziff. I der V des Institutsrats vom 25. Okt. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 667](https://fedlex.data.admin.ch/eli/oc/2023/667)).
 
 #### Art. 28
 
 **Grundsatz**[^28-1]
 
-<sup>1</sup> Ein nach Artikel 14 Absatz 2 HMG eingeführtes Arzneimittel kann vereinfacht zugelassen werden.[^28-2]
+<sup>1</sup> Ein im Rahmen von Parallelimporten eingeführtes Arzneimittel kann vereinfacht zugelassen werden.[^28-2]
 
 <sup>2</sup> Die Swissmedic gibt den Gesuchstellerinnen bekannt, welche Länder über ein gleichwertiges Zulassungssystem im Sinne von Artikel 14 Absatz 2 HMG verfügen.
 
 [^28-1]: Fassung gemäss Ziff. I der V des Institutsrats vom 8. Mai 2009, in Kraft seit 1. Juli 2009 ([AS 2009 2437](https://fedlex.data.admin.ch/eli/oc/2009/300)).
-[^28-2]: Die Berichtigung vom 12. Juni 2019 betrifft nur den französischen Text ([AS 2019 1801](https://fedlex.data.admin.ch/eli/oc/2019/333)).
+[^28-2]: Fassung gemäss Ziff. I der V des Institutsrats vom 25. Okt. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 667](https://fedlex.data.admin.ch/eli/oc/2023/667)).
 
 #### Art. 29
 
@@ -598,8 +602,9 @@ Das Gesuch um Zulassung eines Arzneimittels nach Artikel 28 Absatz 1 muss enthal
 - d. eine Musterpackung des im Ausland zugelassenen Arzneimittels samt Fach- und Patienteninformation im Original sowie in einer beglaubigten Übersetzung in einer Schweizer Amtssprache oder in Englisch, falls das Original in einer anderen Sprache verfasst ist;
 - e. eine Erklärung, wonach ausschliesslich dieses Arzneimittel in die Schweiz eingeführt und vertrieben werden soll;
 - f. Belege dafür, dass die ausländische Bezugsquelle für das eingeführte Arzneimittel über eine gültige Bewilligung des Exportlandes verfügt, welche die Einhaltung der Regeln der guten Vertriebspraxis (GDP) sicherstellt;
-- g. eine detaillierte Beschreibung des Umpackungsverfahrens entsprechend den Regeln der Guten Herstellungspraxis (GMP);
-- h. allgemeine administrative Unterlagen nach Artikel 2 Buchstabe a AMZV[^29-3].
+- g.[^29-3] einen Nachweis, dass das Umpackungsverfahren gemäss den Regeln der Guten Herstellungspraxis (GMP) durchgeführt wird;
+- h.[^29-4] Text- und Abbildungsentwürfe der Etikette mit den für die Schweiz spezifischen Informationen, die auf der Verpackung anzubringen sind, oder eine neue Packung, jeweils nach dem 4. Abschnitt der AMZV[^29-5];
+- i.[^29-6] Textentwürfe der Arzneimittelinformation nach dem 4. Abschnitt der AMZV.
 
 <sup>2</sup>
 
@@ -611,12 +616,15 @@ Zudem müssen:
   die Fach- und die Patienteninformation einen gut lesbaren Hinweis enthalten, der angibt:
 
   - 1\. dass das eingeführte Arzneimittel gestützt auf Artikel 14 Absatz 2 HMG zugelassen wurde, und
-  - 2\. auf welches in der Schweiz bereits zugelassene Arzneimittel, insbesondere dessen Bezeichnung, Zulassungsnummer und Zulassungsinhaberin, sich das eingeführte Arzneimittel bezieht.[^29-4]
+  - 2\. auf welches in der Schweiz bereits zugelassene Arzneimittel, insbesondere dessen Bezeichnung, Zulassungsnummer und Zulassungsinhaberin, sich das eingeführte Arzneimittel bezieht.[^29-7]
 
 [^29-1]: Fassung gemäss Ziff. I der V des Institutsrats vom 7. Sept. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3657](https://fedlex.data.admin.ch/eli/oc/2018/590)).
 [^29-2]: Fassung gemäss Ziff. I der V des Institutsrats vom 7. Sept. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3657](https://fedlex.data.admin.ch/eli/oc/2018/590)).
-[^29-3]: [SR 812.212.22](https://fedlex.data.admin.ch/eli/cc/2001/517)
-[^29-4]: Fassung gemäss Ziff. I der V des Institutsrats vom 7. Sept. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3657](https://fedlex.data.admin.ch/eli/oc/2018/590)).
+[^29-3]: Fassung gemäss Ziff. I der V des Institutsrats vom 25. Okt. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 667](https://fedlex.data.admin.ch/eli/oc/2023/667)).
+[^29-4]: Fassung gemäss Ziff. I der V des Institutsrats vom 25. Okt. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 667](https://fedlex.data.admin.ch/eli/oc/2023/667)).
+[^29-5]: [SR 812.212.22](https://fedlex.data.admin.ch/eli/cc/2001/517)
+[^29-6]: Eingefügt durch Ziff. I der V des Institutsrats vom 25. Okt. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 667](https://fedlex.data.admin.ch/eli/oc/2023/667)).
+[^29-7]: Fassung gemäss Ziff. I der V des Institutsrats vom 7. Sept. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3657](https://fedlex.data.admin.ch/eli/oc/2018/590)).
 
 #### Art. 30
 
@@ -756,7 +764,7 @@ Tierarzneimittel, die nach diesem Abschnitt auf blosse Meldung hin zugelassen wu
 
 [^42-1]: [SR 812.212.27](https://fedlex.data.admin.ch/eli/cc/2004/592)
 
-## 5*a*. Kapitel:**** Zulassung von Verfahren zur Herstellung nichtstandardisierbarer Arzneimittel
+## 5*a*. Kapitel: Zulassung von Verfahren zur Herstellung nichtstandardisierbarer Arzneimittel
 
 [^chap5a-1]
 
@@ -782,7 +790,7 @@ Die Verordnung des Schweizerischen Heilmittelinstituts vom 9. November 2001[^43-
 
 Diese Verordnung tritt am 1. Oktober 2006 in Kraft.
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 10 Abs. 1)
 
@@ -825,22 +833,22 @@ Das Gesuch muss für jede Präparate-Monografie folgende Angaben enthalten:
 - o. Textentwürfe für die Verpackungsmaterialien;
 - p. Bibliografie.
 
-Anhang 2*[^t-2]*
+Anhang 2[^t-2]
 
 (Art. 39)
 
-## Zulässige Wirkstoffe für die Zulassung von Tierarzneimitteln im Meldeverfahren****
+## Zulässige Wirkstoffe für die Zulassung von Tierarzneimitteln im Meldeverfahren
 
 [^annex2-lvlu1-1]
 
 [^t-2]: Eingefügt durch Ziff. II Abs. 2 der V des Institutsrats vom 7. Sept. 2018 ([AS 2018 3657](https://fedlex.data.admin.ch/eli/oc/2018/590)). Fassung gemäss Ziff. I der V des Institutsrats vom 8. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 1847](https://fedlex.data.admin.ch/eli/oc/2020/375)).
 [^annex2-lvlu1-1]: Dieser Text wird in der AS und in der SR nicht publiziert (Art. 5 PublG; [SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). Er kann unter www.swissmedic.ch abgerufen werden.
 
-Anhang 3*[^t-3]*
+Anhang 3[^t-3]
 
 (Art. 42*a*)
 
-## Arzneimittel und Arzneimittelgruppen mit zulassungspflichtigem Herstellungsverfahren****
+## Arzneimittel und Arzneimittelgruppen mit zulassungspflichtigem Herstellungsverfahren
 
 [^annex3-lvlu1-1]
 

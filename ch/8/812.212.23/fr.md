@@ -4,20 +4,20 @@ title: "Ordonnance de l'Institut suisse des produits thérapeutiques du 22 juin 
 short: OASMéd
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/558"
 language: fr
-version: 2020-07-01
+version: 2024-01-01
 adopted: 2006-06-22
 in_force: 2006-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/558/20200701/fr/xml/fedlex-data-admin-ch-eli-cc-2006-558-20200701-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/558/20200701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/558/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2006-558-20240101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/558/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance de l’Institut suisse des produits thérapeutiques sur l’autorisation simplifiée de médicaments et l’autorisation de médicaments fondée sur une déclaration
 
-(OASMéd)**[^t-1]**
+(OASMéd)[^t-1]
 
-du 22 juin 2006 (Etat le 1<sup>er</sup> juillet 2020)
+du 22 juin 2006 (État le 1<sup>er</sup> janvier 2024)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du Conseil de l’Institut du 7 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3657](https://fedlex.data.admin.ch/eli/oc/2018/590)).
 
@@ -227,7 +227,7 @@ La reconnaissance d’une monographie de préparations est exclue pour:
 
 <sup>2</sup> Seul le titulaire d’un formulaire pharmaceutique peut déposer une demande de reconnaissance d’une nouvelle monographie de préparations ou d’une modification apportée à une monographie déjà reconnue.
 
-## Chapitre 4 Procédures simplifiées d’autorisation de mise sur le marché****
+## Chapitre 4 Procédures simplifiées d’autorisation de mise sur le marché
 
 [^chap4-1]
 
@@ -308,7 +308,7 @@ Lorsqu’un médicament contient exclusivement des principes actifs qui entrent 
 [^14a-1]: Introduit par le ch. I de l’O du Conseil de l’Institut du 7 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3657](https://fedlex.data.admin.ch/eli/oc/2018/590)).
 [^14a-2]: [RS 812.212.22](https://fedlex.data.admin.ch/eli/cc/2001/517)
 
-### Section 2 Médicaments au sens de l’art. 14, al. 1, let. d et e, LPTh****
+### Section 2 Médicaments au sens de l’art. 14, al. 1, let. d et e, LPTh
 
 [^chap4-sec2-1]
 
@@ -340,7 +340,7 @@ Pour les médicaments au sens de l’al. 1 qui sont utilisés depuis au moins di
 [^17-1]: Nouvelle teneur selon le ch. I de l’O du Conseil de l’Institut du 7 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3657](https://fedlex.data.admin.ch/eli/oc/2018/590)).
 [^17-2]: Nouvelle teneur selon le ch. I de l’O du Conseil de l’Institut du 7 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3657](https://fedlex.data.admin.ch/eli/oc/2018/590)).
 
-### Section 2*a***** Médicaments autorisés dans un pays de l’UE ou de l’AELE (art. 14, al. 1, let. a<sup>bis</sup>, LPTh)
+### Section 2*a* Médicaments autorisés dans un pays de l’UE ou de l’AELE (art. 14, al. 1, let. a<sup>bis</sup>, LPTh)
 
 [^chap4-sec2a-1]
 
@@ -377,7 +377,7 @@ L’information professionnelle et la notice d’emballage doivent comprendre un
 [^17b-1]: [RS 812.212.22](https://fedlex.data.admin.ch/eli/cc/2001/517)
 [^17b-2]: [RS 812.212.21](https://fedlex.data.admin.ch/eli/cc/2018/588)
 
-### Section 2*b***** Médicaments utilisés de longue date dans les pays de l’UE et de l’AELE (art. 14, al. 1, let. a<sup>ter</sup>,LPTh)
+### Section 2*b* Médicaments utilisés de longue date dans les pays de l’UE et de l’AELE (art. 14, al. 1, let. a<sup>ter</sup>,LPTh)
 
 [^chap4-sec2b-1]
 
@@ -393,7 +393,7 @@ L’information professionnelle et la notice d’emballage doivent comprendre un
 
 [^17c-1]: [RS 812.212.22](https://fedlex.data.admin.ch/eli/cc/2001/517)
 
-### Section 2*c***** Médicaments autorisés par un canton (art. 14, al. 1, let. a<sup>quater</sup>, LPTh)
+### Section 2*c* Médicaments autorisés par un canton (art. 14, al. 1, let. a<sup>quater</sup>, LPTh)
 
 [^chap4-sec2c-1]
 
@@ -409,7 +409,7 @@ L’information professionnelle et la notice d’emballage doivent comprendre un
 
 [^17d-1]: [RS 812.212.22](https://fedlex.data.admin.ch/eli/cc/2001/517)
 
-### Section 3 Autorisation à durée limitée (art. 9*a* LPTh)****
+### Section 3 Autorisation à durée limitée (art. 9*a* LPTh)
 
 [^chap4-sec3-1]
 
@@ -442,7 +442,7 @@ La demande d’autorisation contient notamment:
 - c. les résultats intermédiaires des études cliniques indiquant que l’utilisation du médicament procurera un bénéfice thérapeutique notable;
 - d. la mention du temps nécessaire à la préparation du dossier de demande ordinaire selon l’art. 9, al. 1, LPTh.
 
-<sup>2</sup> ...[^19-2]
+<sup>2</sup> …[^19-2]
 
 [^19-1]: [RS 812.212.22](https://fedlex.data.admin.ch/eli/cc/2001/517)
 [^19-2]: Abrogé par le ch. I de l’O du Conseil de l’Institut du 7 sept. 2018, avec effet au 1<sup>er</sup> janv. 2019 ([RO 2018 3657](https://fedlex.data.admin.ch/eli/oc/2018/590)).
@@ -513,7 +513,7 @@ Le registre contient les données suivantes:
 [^23-4]: [RS 812.212.27](https://fedlex.data.admin.ch/eli/cc/2004/592)
 [^23-5]: Nouvelle teneur selon le ch. I de l’O du Conseil de l’Institut du 7 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3657](https://fedlex.data.admin.ch/eli/oc/2018/590)).
 
-### Section 4 Médicaments importants contre des maladies rares (médicaments orphelins, MUMS)****
+### Section 4 Médicaments importants contre des maladies rares (médicaments orphelins, MUMS)
 
 [^chap4-sec4-1]
 
@@ -529,7 +529,7 @@ Le registre contient les données suivantes:
 
 #### Art. 25
 
-**Evaluations préalables**[^25-1]
+**Évaluations préalables**[^25-1]
 
 Avant de déposer sa demande d’autorisation, le requérant peut demander à Swissmedic une évaluation quant aux analyses et aux tests à réaliser au sens des art. 3 à 6 ou, pour les médicaments vétérinaires, au sens des art. 7 à 11 OEMéd[^25-2] pour démontrer la qualité, la sécurité et l’efficacité d’un médicament.
 
@@ -558,7 +558,7 @@ Avant de déposer sa demande d’autorisation, le requérant peut demander à Sw
 [^27-2]: [RS 812.212.22](https://fedlex.data.admin.ch/eli/cc/2001/517)
 [^27-3]: [RS 812.212.27](https://fedlex.data.admin.ch/eli/cc/2004/592)
 
-### Section 4*a***** Produits radiopharmaceutiques et antidotes dont l’usage médical est bien établi (art. 14, al. 1, LPTh)
+### Section 4*a* Produits radiopharmaceutiques et antidotes dont l’usage médical est bien établi (art. 14, al. 1, LPTh)
 
 [^chap4-sec4a-1]
 
@@ -577,18 +577,21 @@ Les produits radiopharmaceutiques et les antidotes contenant un principe actif q
 
 <sup>3</sup> Lorsque cela se justifie, Swissmedic peut renoncer à l’obligation de présenter une documentation au sens des art. 4 et 5 OEMéd. L’octroi de l’autorisation de mise sur le marché peut être lié à des charges et à des conditions qui garantissent une surveillance systématique de l’utilisation du médicament.
 
-### Section 5 Médicaments importés (art. 14, al. 2, LPTh)
+### Section 5 Médicaments importés dans le cadre d’importations parallèles (art. 14, al. 2 et 3, LPTh)
+
+[^chap4-sec5-1]
+
+[^chap4-sec5-1]: Nouvelle teneur selon le ch. I de l’O du Conseil de l’Institut du 25 oct. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 667](https://fedlex.data.admin.ch/eli/oc/2023/667)).
 
 #### Art. 28
 
 **Principe**[^28-1]
 
-<sup>1</sup> Swissmedic peut autoriser dans le cadre d’une procédure simplifiée d’autorisation tout médicament importé au sens de l’art. 14, al. 2, LPTh.[^28-2]
+<sup>1</sup> Les médicaments importés dans le cadre d’importations parallèles peuvent bénéficier d’une procédure simplifiée d’autorisation.
 
-<sup>2</sup> Il communique au requérant la liste des pays ayant institué un système équivalent d’autorisation au sens de l’art. 14, al. 2, LPTh.
+<sup>2</sup> Swissmedic communique au requérant la liste des pays ayant institué un système équivalent d’autorisation au sens de l’art. 14, al. 2, LPTh.
 
-[^28-1]: Nouvelle teneur selon le ch. I de l'O du Conseil de l’institut du 8 mai 2009, en vigueur depuis le 1<sup>er</sup> juillet 2009 ([RO 2009 2437](https://fedlex.data.admin.ch/eli/oc/2009/300)).
-[^28-2]: Erratum du 12 juin 2019 ([RO 2019 1801](https://fedlex.data.admin.ch/eli/oc/2019/333)).
+[^28-1]: Nouvelle teneur selon le ch. I de l’O du Conseil de l’Institut du 25 oct. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 667](https://fedlex.data.admin.ch/eli/oc/2023/667)).
 
 #### Art. 29
 
@@ -604,8 +607,9 @@ La demande d’autorisation d’un médicament selon l’art. 28, al. 1, doit co
 - d. un emballage témoin du médicament autorisé à l’étranger, y compris les originaux de l’information professionnelle et de l’information destinée aux patients, ainsi qu’une traduction certifiée conforme dans l’une des langues officielles suisses ou en anglais au cas où les textes seraient rédigés dans une autre langue;
 - e. une attestation certifiant que seul ce médicament sera importé et distribué en Suisse;
 - f. des preuves que le fournisseur étranger du médicament importé dispose d’une autorisation valide du pays d’exportation certifiant que les règles des Bonnes pratiques de distribution (BPD) sont respectées;
-- g. une description détaillée du procédé de reconditionnement, celui-ci devant être conforme aux règles des Bonnes pratiques de fabrication (BPF);
-- h. les documents administratifs généraux visés à l’art. 2, let. a, OEMéd[^29-3].
+- g.[^29-3] une preuve de la conformité du procédé de reconditionnement aux règles des Bonnes pratiques de fabrication (BPF);
+- h.[^29-4] des projets de textes et d’illustrations pour les étiquettes, avec les informations spécifiques à la Suisse devant figurer sur l’emballage, ou un nouvel emballage, conformément à la section 4 de l’OEMéd[^29-5];
+- i.[^29-6] des projets de textes pour l’information sur le médicament, conformément à la section 4 de l’OEMéd.
 
 <sup>2</sup>
 
@@ -617,12 +621,15 @@ En outre, il faut:
   que l’information professionnelle et l’information destinée aux patients comprennent un avertissement qui précise de manière bien lisible:
 
   - 1\. que le médicament importé a été autorisé en application de l’art. 14, al. 2, LPTh, et
-  - 2\. à quel médicament déjà autorisé en Suisse le médicament importé se rapporte, notamment sa dénomination, son numéro d’autorisation et le titulaire de l’autorisation.[^29-4]
+  - 2\. à quel médicament déjà autorisé en Suisse le médicament importé se rapporte, notamment sa dénomination, son numéro d’autorisation et le titulaire de l’autorisation.[^29-7]
 
 [^29-1]: Nouvelle teneur selon le ch. I de l’O du Conseil de l’Institut du 7 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3657](https://fedlex.data.admin.ch/eli/oc/2018/590)).
 [^29-2]: Nouvelle teneur selon le ch. I de l’O du Conseil de l’Institut du 7 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3657](https://fedlex.data.admin.ch/eli/oc/2018/590)).
-[^29-3]: [RS 812.212.22](https://fedlex.data.admin.ch/eli/cc/2001/517)
-[^29-4]: Nouvelle teneur selon le ch. I de l’O du Conseil de l’Institut du 7 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3657](https://fedlex.data.admin.ch/eli/oc/2018/590)).
+[^29-3]: Nouvelle teneur selon le ch. I de l’O du Conseil de l’Institut du 25 oct. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 667](https://fedlex.data.admin.ch/eli/oc/2023/667)).
+[^29-4]: Nouvelle teneur selon le ch. I de l’O du Conseil de l’Institut du 25 oct. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 667](https://fedlex.data.admin.ch/eli/oc/2023/667)).
+[^29-5]: [RS 812.212.22](https://fedlex.data.admin.ch/eli/cc/2001/517)
+[^29-6]: Introduite par le ch. I de l’O du Conseil de l’Institut du 25 oct. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 667](https://fedlex.data.admin.ch/eli/oc/2023/667)).
+[^29-7]: Nouvelle teneur selon le ch. I de l’O du Conseil de l’Institut du 7 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3657](https://fedlex.data.admin.ch/eli/oc/2018/590)).
 
 #### Art. 30
 
@@ -762,7 +769,7 @@ Les médicaments qui, en application de la présente section, ont été autoris�
 
 [^42-1]: [RS 812.212.27](https://fedlex.data.admin.ch/eli/cc/2004/592)
 
-## Chapitre 5*a***** Autorisation de procédés de fabrication de médicaments qui ne peuvent être standardisés
+## Chapitre 5*a* Autorisation de procédés de fabrication de médicaments qui ne peuvent être standardisés
 
 [^chap5a-1]
 
@@ -788,13 +795,13 @@ L’ordonnance de l’Institut suisse des produits thérapeutiques du 9 novembre
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> octobre 2006.
 
-Annexe 1*[^t-2]*
+Annexe 1[^t-2]
 
 (art. 10, al. 1)
 
 ## Exigences relatives aux monographies de préparations selon l’art. 10
 
-[^t-2]: Mise à jour selon le ch. II al. 1 de l’O du Conseil de l’Institut du 7 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3657](https://fedlex.data.admin.ch/eli/oc/2018/590)).
+[^t-2]: Mise à jour par le ch. II al. 1 de l’O du Conseil de l’Institut du 7 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3657](https://fedlex.data.admin.ch/eli/oc/2018/590)).
 
 ### 1 Structure
 
@@ -831,24 +838,24 @@ Pour toute monographie de préparation, font partie intégrante de la demande le
 - o. projets de textes pour les éléments d’emballage;
 - p. bibliographie.
 
-Annexe 2*[^t-3]*
+Annexe 2[^t-3]
 
 (art. 39)
 
-## Principes actifs admis pour l’autorisation de médicaments vétérinaires sur déclaration****
+## Principes actifs admis pour l’autorisation de médicaments vétérinaires sur déclaration
 
 [^annex2-lvlu1-1]
 
 [^t-3]: Introduite par le ch. II al. 2 de l’O du Conseil de l’Institut du 7 sept. 2018 ([RO 2018 3657](https://fedlex.data.admin.ch/eli/oc/2018/590)). Nouvelle teneur selon le ch. I de l’O du Conseil du l’Institut du 8 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 1847](https://fedlex.data.admin.ch/eli/oc/2020/375)).
-[^annex2-lvlu1-1]: Le texte de la présente annexe n’est publié ni au RO ni au RS (art. 5 LPubl; [RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). Il est consultable sur Internet, à l’adresse: www.swissmedic.ch.
+[^annex2-lvlu1-1]: Le texte de la présente annexe n’est publié ni au RO ni au RS (art. 5 LPubl; [RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). Il est consultable sur Internet, à l’adresse: [www.swissmedic.ch](https://www.swissmedic.ch).
 
-Annexe 3*[^t-4]*
+Annexe 3[^t-4]
 
 (art. 42*a*)
 
-## Médicaments et groupes de médicaments dont le procédé de fabrication est soumis à autorisation****
+## Médicaments et groupes de médicaments dont le procédé de fabrication est soumis à autorisation
 
 [^annex3-lvlu1-1]
 
 [^t-4]: Introduite par le ch. II al. 2 de l’O du Conseil de l’Institut du 7 sept. 2018 ([RO 2018 3657](https://fedlex.data.admin.ch/eli/oc/2018/590)). Nouvelle teneur selon le ch. I de l’O du Conseil du l’Institut du 8 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 1847](https://fedlex.data.admin.ch/eli/oc/2020/375)).
-[^annex3-lvlu1-1]: Le texte de la présente annexe n’est pas publié dans le RO ni dans le RS (art. 5 LPubl; [RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). Il est consultable sur Internet, à l’adresse: www.swissmedic.ch.
+[^annex3-lvlu1-1]: Le texte de la présente annexe n’est pas publié dans le RO ni dans le RS (art. 5 LPubl; [RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). Il est consultable sur Internet, à l’adresse: [www.swissmedic.ch](https://www.swissmedic.ch).
