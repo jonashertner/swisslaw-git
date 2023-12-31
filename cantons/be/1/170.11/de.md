@@ -4,13 +4,13 @@ number: "170.11"
 title: Gemeindegesetz
 short: GG
 language: de
-version: 2023-01-01
-valid_until: 2023-12-31
-version_adopted: 2021-12-08
+version: 2024-01-01
+valid_until: 2025-01-31
+version_adopted: 2022-09-05
 adopted: 1998-03-16
 in_force: 1999-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/170.11"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2634/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2939/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2634/pdf_file"
 
 (GG)
 
-vom 16.03.1998 (Stand 01.01.2023)
+vom 16.03.1998 (Stand 01.01.2024)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -751,7 +751,7 @@ beschliesst:
 
 <sup>2</sup> Verboten sind meinungsbildende Textbeiträge und Kommentare sowie Inserate und übrige Textbeiträge, welche die öffentliche Ruhe und Ordnung gefährden, diskriminierend oder unsittlich sind.
 
-<sup>3</sup> Zulässig sind Textbeiträge der Gemeindebehörden, die der Wahrnehmung ihres Informationsauftrags gemäss dem Gesetz vom 2. November 1993 über die Information der Bevölkerung (Informationsgesetz; IG)[^49f-1] dienen.
+<sup>3</sup> Zulässig sind Textbeiträge der Gemeindebehörden, die der Wahrnehmung ihres Informationsauftrags gemäss Artikel 26 des Gesetzes vom 2. November 1993 über die Information und die Medienförderung (IMG)[^49f-1] dienen.
 
 <sup>4</sup> Die Anzeigerträgerschaften legen die Kosten von Veröffentlichungen im nichtamtlichen Teil fest.
 

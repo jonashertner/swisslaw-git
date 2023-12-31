@@ -4,13 +4,13 @@ number: "170.11"
 title: Loi sur les communes
 short: LCo
 language: fr
-version: 2023-01-01
-valid_until: 2023-12-31
-version_adopted: 2021-12-08
+version: 2024-01-01
+valid_until: 2025-01-31
+version_adopted: 2022-09-05
 adopted: 1998-03-16
 in_force: 1999-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/170.11"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2634/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2939/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2634/pdf_file"
 
 (LCo)
 
-du 16.03.1998 (état au 01.01.2023)
+du 16.03.1998 (état au 01.01.2024)
 
 Le Grand Conseil du canton de Berne,
 
@@ -758,7 +758,7 @@ arrête:
 
 <sup>2</sup> Les contributions et les commentaires formateurs d'opinion ainsi que les annonces et autres contributions qui mettent en danger l’ordre public, sont discriminatoires ou portent atteinte à la morale sont exclus.
 
-<sup>3</sup> Les contributions des autorités communales qui servent à l’accomplissement de leur devoir d’information au sens de la loi du 2 novembre 1993 sur l’information du public (loi sur l’information; LIn)[^49f-1] sont admises.
+<sup>3</sup> Les contributions des communes qui servent à l’accomplissement de leur devoir d’information au sens de l'article 26 de la loi du 2 novembre 1993 sur l’information et l'aide aux médias (LIAM)[^49f-1] sont admises.
 
 <sup>4</sup> Les organismes responsables des feuilles officielles d’avis déterminent les frais de publication dans la partie non officielle.
 
