@@ -4,13 +4,13 @@ number: "411.012"
 title: Landesschulkommissionsbeschluss zum Schulgesetz
 short: LSKB SchG
 language: de
-version: 2022-08-01
-valid_until: 2023-12-31
-version_adopted: 2021-12-16
+version: 2024-01-01
+valid_until: 2025-07-31
+version_adopted: 2024-02-01
 adopted: 2005-05-18
 in_force: 2005-08-01
 url: "https://ai.clex.ch/app/de/texts_of_law/411.012"
-pdf: "https://ai.clex.ch/api/de/versions/1989/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/2258/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://ai.clex.ch/api/de/versions/1989/pdf_file"
 
 (LSKB SchG)
 
-vom 18.05.2005 (Stand 01.08.2022)
+vom 18.05.2005 (Stand 01.01.2024)
 
 Die Landesschulkommission des Kantons Appenzell I.Rh.,
 
@@ -1048,7 +1048,7 @@ Die Probezeit gilt als bestanden, wenn der Schüler im Durchschnitt der Prüfung
 
 Die Durchschnittsnote wird ermittelt:
 
-Schnitt von (3 x Deutsch + 2 x Französisch + 2 x Englisch + 3 x Arithmetik + 2 x Geometrie + Geschichte + Geografie + Biologie + Physik/Chemie)
+Schnitt von 2 x Deutsch + 1 x Französisch + 1 x Natur und Technik + 1 x Englisch + 3 x Mathematik + 1 x Räume, Zeiten, Gesellschaft
 
 <sup>2</sup> Die Lehrperson ist verpflichtet, während der Probezeit ein Elterngespräch zu führen. Bei einer Gefährdung der Promotion ist dieses Gespräch in der ersten Hälfte des Monats November durchzuführen.
 
