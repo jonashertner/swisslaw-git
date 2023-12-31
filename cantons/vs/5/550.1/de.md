@@ -4,13 +4,13 @@ number: "550.1"
 title: Gesetz über die Kantonspolizei
 short: PolG
 language: de
-version: 2021-10-01
-valid_until: 2023-12-31
-version_adopted: 2021-06-10
+version: 2024-01-01
+valid_until: 2024-10-31
+version_adopted: 2023-03-16
 adopted: 2016-11-11
 in_force: 2018-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/550.1"
-pdf: "https://lex.vs.ch/api/de/versions/2974/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3541/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://lex.vs.ch/api/de/versions/2974/pdf_file"
 
 (PolG)
 
-vom 11.11.2016 (Stand 01.10.2021)
+vom 11.11.2016 (Stand 01.01.2024)
 
 Der Grosse Rat des Kantons Wallis
 
@@ -649,6 +649,8 @@ verordnet:[^ingress-1]
 <sup>2</sup> Das Gesetz über die Information der Öffentlichkeit, den Datenschutz und die Archivierung (GIDA) kommt des Weiteren zur Anwendung.
 
 <sup>3</sup> Die Datenbearbeitung, die zum Erfüllen der Aufgaben der gerichtlichen Polizei dient oder gedient hat, wird in der StPO, im EGStPO, im Konkordat über die polizeiliche Zusammenarbeit in der Westschweiz und im Gesetz über die Akten der gerichtlichen Polizei geregelt.
+
+<sup>4</sup> Die Bearbeitung von Personendaten durch die Polizei zum Zweck der Verhütung, Aufklärung et Verfolgung von Straftaten oder der Strafvollstreckung, einschliesslich des Schutzes vor und der Abwehr von Gefahren für die öffentliche Sicherheit und die Verhütung solcher Bedrohungen im Rahmen des Schengen-Besitzstands oder in Anwendung von mit der Europäischen Union oder den Schengen-Staaten abgeschlossenen Abkommen, die sich bezüglich Datenschutz auf die Richtlinie (EU) 2016/680 beziehen, richtet sich nach dem Gesetz über die Information der Öffentlichkeit, den Datenschutz und die Archivierung (GIDA).
 
 #### Art. 51
 

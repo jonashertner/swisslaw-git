@@ -4,13 +4,13 @@ number: "550.1"
 title: Loi sur la police cantonale
 short: LPol
 language: fr
-version: 2021-10-01
-valid_until: 2023-12-31
-version_adopted: 2021-06-10
+version: 2024-01-01
+valid_until: 2024-10-31
+version_adopted: 2023-03-16
 adopted: 2016-11-11
 in_force: 2018-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/550.1"
-pdf: "https://lex.vs.ch/api/fr/versions/2974/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3541/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/2974/pdf_file"
 
 (LPol)
 
-du 11.11.2016 (état 01.10.2021)
+du 11.11.2016 (état 01.01.2024)
 
 Le Grand Conseil du canton du Valais
 
@@ -649,6 +649,8 @@ ordonne:[^ingress-1]
 <sup>2</sup> La loi sur l’information du public, la protection des données et l’archivage s’applique pour le surplus (LIPDA).
 
 <sup>3</sup> Le traitement des données servant ou ayant servi à l’accomplissement des tâches de la police judiciaire est réglé dans le CPP, la loi d’application du CPP, le concordat réglant la coopération en matière de police en Suisse romande et dans la loi concernant les dossiers de police judiciaire.
+
+<sup>4</sup> Le traitement de données personnelles effectué par la police à des fins de prévention, d’élucidation et de poursuites d’infractions ou d’exécution de sanctions pénales, y compris à des fins de protection contre les menaces pour la sécurité publique et de prévention de telles menaces, dans le cadre de l’acquis de Schengen ou de l’application d’accords internationaux conclus avec l’Union européenne ou avec des Etats Schengen et qui renvoient à la directive (UE) 2016/680 pour ce qui est de la protection des données, est régi par la LIPDA.
 
 #### Art. 51
 
