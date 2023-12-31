@@ -4,11 +4,11 @@ title: "Ordonnance du 17 octobre 2012 sur la guerre électronique et l'explorati
 short: OGE
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/638"
 language: fr
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2012-10-17
 in_force: 2012-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/638/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2012-638-20230901-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/638/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/638/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2012-638-20240101-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/638/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/638/20230901/fr"
 
 (OGE)
 
-du 17 octobre 2012 (État le 1<sup>er</sup> septembre 2023)
+du 17 octobre 2012 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -36,15 +36,15 @@ arrête:
 
 **Organe compétent**[^1-1]
 
-Le Centre des opérations électroniques (COE) est compétent pour l’exploration radio.
+Le service Actions dans le cyberespace et dans l’espace électromagnétique (ACEM) est compétent pour l’exploration radio.
 
-[^1-1]: Nouvelle teneur selon l’annexe 4 ch. II 9 de l’O du 16 août 2017 sur le renseignement, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)).
+[^1-1]: Nouvelle teneur selon le ch. II 8 de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
 
 #### Art. 2
 
-**Tâches du Centre des opérations électroniques**
+**ACEM[^2-1]**
 
-<sup>1</sup> Le COE reçoit et exécute les mandats d’exploration radio de ses mandants.
+<sup>1</sup> L’ACEM reçoit et exécute les mandats d’exploration radio de ses mandants.
 
 <sup>2</sup> Il intercepte et analyse les rayonnements électromagnétiques émis à l’étranger par des systèmes de télécommunication et transmet les résultats aux mandants.
 
@@ -53,6 +53,8 @@ Le Centre des opérations électroniques (COE) est compétent pour l’explorati
 <sup>4</sup> Il peut vérifier la faisabilité de nouveaux mandats d’exploration radio.
 
 <sup>5</sup> Il peut proposer aux mandants d’assumer d’autres objets d’exploration radio dans le cadre des mandats courants.
+
+[^2-1]: Nouvelle expression selon le ch. II 8 de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 3
 
@@ -69,14 +71,14 @@ Les organes ci-après sont habilités à transmettre des mandats d’exploration
 
 <sup>3</sup>
 
-Les informations visées à l’al. 2 servent :
+Les informations visées à l’al. 2 servent:
 
-- a. dans le domaine du terrorisme : à repérer les activités, les connexions et les structures des groupuscules terroristes et des réseaux ainsi que les activités et les connexions des terroristes isolés;
+- a. dans le domaine du terrorisme: à repérer les activités, les connexions et les structures des groupuscules terroristes et des réseaux ainsi que les activités et les connexions des terroristes isolés;
 - b.[^3-1] dans le domaine de la prolifération: pour élucider la dissémination d’armes nucléaires, biologiques ou chimiques, y compris leurs vecteurs et tous les biens et technologies utilisables à des fins civiles ou militaires qui sont nécessaires à leur fabrication (prolifération NBC), pour élucider le commerce illégal de substances radioactives, de matériel de guerre et d’autres biens d’armement, pour identifier des programmes d’armes de destruction massive, y compris leurs vecteurs, ainsi que pour déceler des structures et des tentatives d’approvisionnement;
 - c. dans le domaine du contre-espionnage: à déceler les activités et les structures des acteurs étatiques et non étatiques;
-- d. dans le domaine des conflits à l’étranger ayant des répercussions sur la Suisse : à évaluer la situation influant sur la sécurité, la stabilité des régimes et les facteurs stratégiques d’influence;
-- e. dans le domaine de l’armée et de l’armement : à reconnaître les conflits militaires effectifs ou potentiels, les potentiels militaires et les développements en matière d’armement;
-- f. dans le domaine des régions d’engagement de l’armée suisse : à percevoir la situation influant sur la sécurité et à apprécier les évolutions possibles;
+- d. dans le domaine des conflits à l’étranger ayant des répercussions sur la Suisse: à évaluer la situation influant sur la sécurité, la stabilité des régimes et les facteurs stratégiques d’influence;
+- e. dans le domaine de l’armée et de l’armement: à reconnaître les conflits militaires effectifs ou potentiels, les potentiels militaires et les développements en matière d’armement;
+- f. dans le domaine des régions d’engagement de l’armée suisse: à percevoir la situation influant sur la sécurité et à apprécier les évolutions possibles;
 - f<sup>bis</sup>.[^3-2] dans le domaine de l’exploration de la cybermenace et de la protection des infrastructures critiques: pour élucider la nature de l’engagement, l’origine et les caractéristiques techniques des moyens de cyberattaques ainsi que pour mettre en œuvre des mesures efficaces de défense;
 - g. à maintenir et à développer les capacités d’acquisition des mandants autorisés.
 
@@ -89,7 +91,7 @@ Les informations visées à l’al. 2 servent :
 
 **Traitement des données**
 
-<sup>1</sup> Le COE détruit les résultats obtenus par l’exploration radio au plus tard à l’échéance du mandat correspondant.
+<sup>1</sup> L’ACEM détruit les résultats obtenus par l’exploration radio au plus tard à l’échéance du mandat correspondant.
 
 <sup>2</sup> Il détruit les communications au plus tard 18 mois après leur saisie.
 
@@ -105,7 +107,7 @@ Les informations visées à l’al. 2 servent :
 
 **Données relatives aux personnes et aux événements en Suisse**
 
-<sup>1</sup> Les données relatives à des personnes ou à des événements en Suisse qui sont reconnus comme tels sont immédiatement détruites par le COE.
+<sup>1</sup> Les données relatives à des personnes ou à des événements en Suisse qui sont reconnus comme tels sont immédiatement détruites par l’ACEM.
 
 <sup>2</sup> Les données visées aux art. 38, al. 4, let. b, et 5 LRens, sont réservées.[^5-1]
 
@@ -115,17 +117,18 @@ Les informations visées à l’al. 2 servent :
 
 **Contacts avec des organes spécialisés étrangers**
 
-Les contacts en matière de renseignement du COE avec les organes spécialisés étrangers s’effectuent par l’intermédiaire du SRC.
+Les contacts en matière de renseignement de l’ACEM avec les organes spécialisés étrangers s’effectuent par l’intermédiaire du SRC.
 
 #### Art. 7
 
 **Sécurité**
 
-<sup>1</sup> Les résultats des mandats d’exploration radio sont classifiés conformément à l’ordonnance du 4 juillet 2007 concernant la protection des informations[^7-1].
+<sup>1</sup> Les résultats des mandats d’exploration radio sont classifiés conformément à l’ordonnance du 8 novembre 2023 sur la sécurité de l’information[^7-1].[^7-2]
 
 <sup>2</sup> Les organes concernés garantissent, dans leurs domaines de compétences respectifs, une protection appropriée des personnes, des informations et des objets.
 
-[^7-1]: [RS 510.411](https://fedlex.data.admin.ch/eli/cc/2007/414)
+[^7-1]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^7-2]: Nouvelle teneur selon l’annexe 2 ch. II 31 de l’O du 8 nov. 2023 sur la sécurité de l’information, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
 
 ## Section 2 …
 
@@ -145,19 +148,19 @@ Les contacts en matière de renseignement du COE avec les organes spécialisés 
 
 <sup>3</sup> Le chef de l’armée édicte des directives concernant l’instruction et l’engagement dans le domaine de la guerre électronique.
 
-<sup>4</sup> Le COE appuie l’instruction et l’engagement dans le domaine de la guerre électronique.
+<sup>4</sup> L’ACEM appuie l’instruction et l’engagement dans le domaine de la guerre électronique.
 
 ## Section 4 Appui technique aux autorités civiles
 
 #### Art. 13
 
-<sup>1</sup> Le COE peut fournir un appui technique à la Confédération et aux cantons dans l’accomplissement de leurs tâches.
+<sup>1</sup> L’ACEM peut fournir un appui technique à la Confédération et aux cantons dans l’accomplissement de leurs tâches.
 
 <sup>2</sup> L’appui est fourni dans le respect des dispositions légales applicables aux mandants concernés et en accord avec l’Office fédéral de la communication.
 
-<sup>3</sup> Le COE peut acquérir les moyens techniques dont il a besoin et procéder à des études de faisabilité, à des mesures et à des essais.
+<sup>3</sup> L’ACEM peut acquérir les moyens techniques dont il a besoin et procéder à des études de faisabilité, à des mesures et à des essais.
 
-<sup>4</sup> Les prestations du COE sont remboursées conformément aux dispositions de l’ordonnance du 8 novembre 2006 sur les émoluments perçus par le DDPS[^13-1].
+<sup>4</sup> Les prestations de l’ACEM sont remboursées conformément aux dispositions de l’ordonnance du 8 novembre 2006 sur les émoluments perçus par le DDPS[^13-1].
 
 [^13-1]: [RS 172.045.103](https://fedlex.data.admin.ch/eli/cc/2006/704)
 

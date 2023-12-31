@@ -4,11 +4,11 @@ title: "Ordinanza del 17 ottobre 2012 sulla condotta della guerra elettronica e 
 short: OCGE
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/638"
 language: it
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2012-10-17
 in_force: 2012-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/638/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2012-638-20230901-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/638/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/638/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2012-638-20240101-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/638/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/638/20230901/it"
 
 (OCGE)
 
-del 17 ottobre 2012 (Stato 1° settembre 2023)
+del 17 ottobre 2012 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -36,15 +36,15 @@ ordina:
 
 **Servizio competente**[^1-1]
 
-L’esplorazione radio compete al Centro operazioni elettroniche (COE).
+L’esplorazione radio compete al Servizio delle attività ciber ed elettromagnetiche (ACE).
 
-[^1-1]: Nuovo testo giusta l’all. 4 n. II 9 dell’O del 16 ago. 2017 sulle attività informative, in vigore dal 1° set. 2017 ([RU 2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)).
+[^1-1]: Nuovo testo giusta il n. II 8 dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
 
 #### Art. 2
 
-**Compiti del Centro operazioni elettroniche**
+**ACE[^2-1]**
 
-<sup>1</sup> Il COE riceve i mandati di esplorazione radio dai suoi mandanti e li elabora.
+<sup>1</sup> L’ACE riceve i mandati di esplorazione radio dai suoi mandanti e li elabora.
 
 <sup>2</sup> Rileva ed elabora le emissioni elettromagnetiche provenienti da sistemi di telecomunicazione all’estero e trasmette i risultati ai mandanti.
 
@@ -53,6 +53,8 @@ L’esplorazione radio compete al Centro operazioni elettroniche (COE).
 <sup>4</sup> Può esaminare la fattibilità di nuovi mandati di esplorazione radio.
 
 <sup>5</sup> Può proporre ai mandanti di aggiungere oggetti dell’esplorazione radio supplementari ai mandati in corso.
+
+[^2-1]: Nuova espressione giusta il n. II 8 dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)). Di detta mod. é tenuto conto in tutto il presente testo.
 
 #### Art. 3
 
@@ -89,7 +91,7 @@ Le informazioni di cui al capoverso 2 servono:
 
 **Elaborazione dei dati**
 
-<sup>1</sup> Il COE distrugge i risultati acquisiti nel quadro dell’esplorazione radio al più tardi al momento della conclusione del rispettivo mandato di esplorazione radio.
+<sup>1</sup> L’ACE distrugge i risultati acquisiti nel quadro dell’esplorazione radio al più tardi al momento della conclusione del rispettivo mandato di esplorazione radio.
 
 <sup>2</sup> Distrugge le comunicazioni rilevate al più tardi 18 mesi dopo il loro rilevamento.
 
@@ -105,7 +107,7 @@ Le informazioni di cui al capoverso 2 servono:
 
 **Dati su persone e fatti in Svizzera**
 
-<sup>1</sup> I dati su persone e fatti in Svizzera riconosciuti come tali, sono distrutti immediatamente dal COE.
+<sup>1</sup> I dati su persone e fatti in Svizzera riconosciuti come tali, sono distrutti immediatamente dall’ACE.
 
 <sup>2</sup> Sono fatti salvi i dati secondo l’articolo 38 capoversi 4 lettera b e 5 LAIn.[^5-1]
 
@@ -115,19 +117,20 @@ Le informazioni di cui al capoverso 2 servono:
 
 **Contatti con servizi specializzati esteri**
 
-I contatti in materia di servizi informazioni tra il COE e servizi specializzati esteri avvengono per il tramite del SIC.
+I contatti in materia di servizi informazioni tra l’ACE e servizi specializzati esteri avvengono per il tramite del SIC.
 
 #### Art. 7
 
 **Sicurezza**
 
-<sup>1</sup> I risultati dei mandati di esplorazione radio sono classificati secondo l’ordinanza del 4 luglio 2007[^7-1] sulla protezione delle informazioni della Confederazione.
+<sup>1</sup> I risultati dei mandati di esplorazione radio sono classificati secondo l’ordinanza dell’8 novembre 2023[^7-1] sulla sicurezza delle informazioni.[^7-2]
 
 <sup>2</sup> I servizi interessati assicurano nella propria sfera di responsabilità un’adeguata protezione delle persone, delle informazioni e delle opere.
 
-[^7-1]: [RS 510.411](https://fedlex.data.admin.ch/eli/cc/2007/414)
+[^7-1]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^7-2]: Nuovo testo giusta l’all. 2 n. II 31 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
 
-## Sezione 2:...
+## Sezione 2: ...
 
 #### Art. 8 a 11
 
@@ -145,19 +148,19 @@ I contatti in materia di servizi informazioni tra il COE e servizi specializzati
 
 <sup>3</sup> Il capo dell’esercito emana istruzioni sull’istruzione e sull’impiego nell’ambito della condotta della guerra elettronica.
 
-<sup>4</sup> Il COE presta assistenza per l’istruzione e l’impiego nell’ambito della condotta della guerra elettronica.
+<sup>4</sup> L’ACE presta assistenza per l’istruzione e l’impiego nell’ambito della condotta della guerra elettronica.
 
 ## Sezione 4: Assistenza tecnica alle autorità civili
 
 #### Art. 13
 
-<sup>1</sup> Il COE può fornire assistenza tecnica alle autorità della Confederazione e dei Cantoni nell’adempimento dei loro compiti.
+<sup>1</sup> L’ACE può fornire assistenza tecnica alle autorità della Confederazione e dei Cantoni nell’adempimento dei loro compiti.
 
 <sup>2</sup> L’assistenza è fornita secondo le disposizioni legali applicabili al rispettivo mandante e d’intesa con l’Ufficio federale delle comunicazioni.
 
-<sup>3</sup> Il COE può acquistare i mezzi tecnici necessari ed effettuare studi di fattibilità, misurazioni e prove.
+<sup>3</sup> L’ACE può acquistare i mezzi tecnici necessari ed effettuare studi di fattibilità, misurazioni e prove.
 
-<sup>4</sup> Le prestazioni del COE sono indennizzate secondo le disposizioni dell’ordinanza dell’8 novembre 2006[^13-1] sugli emolumenti del DDPS.
+<sup>4</sup> Le prestazioni dell’ACE sono indennizzate secondo le disposizioni dell’ordinanza dell’8 novembre 2006[^13-1] sugli emolumenti del DDPS.
 
 [^13-1]: [RS 172.045.103](https://fedlex.data.admin.ch/eli/cc/2006/704)
 

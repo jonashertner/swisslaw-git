@@ -4,11 +4,11 @@ title: Verordnung vom 17. Oktober 2012 über die elektronische Kriegführung und
 short: VEKF
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/638"
 language: de
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2012-10-17
 in_force: 2012-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/638/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2012-638-20230901-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/638/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/638/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2012-638-20240101-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/638/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/638/20230901/de"
 
 (VEKF)
 
-vom 17. Oktober 2012 (Stand am 1. September 2023)
+vom 17. Oktober 2012 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -36,15 +36,15 @@ verordnet:
 
 **Zuständige Stelle**[^1-1]
 
-Für die Funkaufklärung ist das Zentrum für elektronische Operationen (ZEO) zuständig.
+Für die Funkaufklärung ist der Dienst für Cyber- und elektromagnetische Aktionen (CEA) zuständig.
 
-[^1-1]: Fassung gemäss Anhang 4 Ziff. II 9 der Nachrichtendienstverordnung vom 16. Aug. 2017, in Kraft seit 1. Sept. 2017 ([AS 2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)).
+[^1-1]: Fassung gemäss Ziff. II 8 der V vom 22. Nov., in Kraft seit 1. Jan. 2024 ([AS 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
 
 #### Art. 2
 
-**Aufgaben des Zentrums für elektronische Operationen**
+**CEA[^2-1]**
 
-<sup>1</sup> Das ZEO nimmt die Funkaufklärungsaufträge seiner Auftraggeber entgegen und bearbeitet sie.
+<sup>1</sup> Das CEA nimmt die Funkaufklärungsaufträge seiner Auftraggeber entgegen und bearbeitet sie.
 
 <sup>2</sup> Es erfasst und bearbeitet elektromagnetische Ausstrahlungen von Telekommunikationssystemen im Ausland und leitet die Resultate an die Auftraggeber weiter.
 
@@ -53,6 +53,8 @@ Für die Funkaufklärung ist das Zentrum für elektronische Operationen (ZEO) zu
 <sup>4</sup> Es kann die Machbarkeit von neuen Funkaufklärungsaufträgen prüfen.
 
 <sup>5</sup> Es kann den Auftraggebern vorschlagen, zusätzliche Funkaufklärungsobjekte in laufende Aufträge aufzunehmen.
+
+[^2-1]: Ausdruck gemäss Ziff. II 8 der V vom 22. Nov. 2023 in Kraft seit 1. Jan. 2024 ([AS 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)). Diese Änd. ist im ganzen Erlass berücksichtigt.
 
 #### Art. 3
 
@@ -89,7 +91,7 @@ Die Informationen nach Absatz 2 dienen:
 
 **Datenbearbeitung**
 
-<sup>1</sup> Das ZEO vernichtet die im Rahmen der Funkaufklärung gewonnenen Resultate spätestens im Zeitpunkt der Beendigung des jeweiligen Funkaufklärungsauftrags.
+<sup>1</sup> Das CEA vernichtet die im Rahmen der Funkaufklärung gewonnenen Resultate spätestens im Zeitpunkt der Beendigung des jeweiligen Funkaufklärungsauftrags.
 
 <sup>2</sup> Es vernichtet die erfassten Kommunikationen spätestens 18 Monate nach deren Erfassung.
 
@@ -105,7 +107,7 @@ Die Informationen nach Absatz 2 dienen:
 
 **Daten über Personen und Vorgänge im Inland**
 
-<sup>1</sup> Daten über Personen und Vorgänge im Inland, die als solche erkannt worden sind, werden vom ZEO umgehend vernichtet.
+<sup>1</sup> Daten über Personen und Vorgänge im Inland, die als solche erkannt worden sind, werden vom CEA umgehend vernichtet.
 
 <sup>2</sup> Vorbehalten bleiben Daten nach Artikel 38 Absätze 4 Buchstabe b und 5 NDG.[^5-1]
 
@@ -115,17 +117,18 @@ Die Informationen nach Absatz 2 dienen:
 
 **Kontakte zu ausländischen Fachstellen**
 
-Nachrichtendienstliche Kontakte des ZEO zu ausländischen Fachstellen erfolgen über den NDB.
+Nachrichtendienstliche Kontakte des CEA zu ausländischen Fachstellen erfolgen über den NDB.
 
 #### Art. 7
 
 **Sicherheit**
 
-<sup>1</sup> Die Resultate der Funkaufklärungsaufträge werden nach der Informationsschutzverordnung vom 4. Juli 2007[^7-1] klassifiziert.
+<sup>1</sup> Die Resultate der Funkaufklärungsaufträge werden nach der der Informationssicherheitsverordnung vom 8. November 2023[^7-1] klassifiziert.[^7-2]
 
 <sup>2</sup> Die betroffenen Stellen gewährleisten in ihrem Verantwortungsbereich einen angemessenen Personen-, Informations- und Objektschutz.
 
-[^7-1]: [SR 510.411](https://fedlex.data.admin.ch/eli/cc/2007/414)
+[^7-1]: [SR 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^7-2]: Fassung gemäss Anhang 2 Ziff. II 31 der Informationssicherheitsverordnung vom 8. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
 
 ## 2. Abschnitt: …
 
@@ -145,19 +148,19 @@ Nachrichtendienstliche Kontakte des ZEO zu ausländischen Fachstellen erfolgen �
 
 <sup>3</sup> Der Chef der Armee erlässt Weisungen über die Ausbildung und den Einsatz im Bereich elektronische Kriegführung.
 
-<sup>4</sup> Das ZEO unterstützt die Ausbildung und den Einsatz im Bereich elektronische Kriegführung.
+<sup>4</sup> Das CEA unterstützt die Ausbildung und den Einsatz im Bereich elektronische Kriegführung.
 
 ## 4. Abschnitt: Technische Unterstützung von zivilen Behörden
 
 #### Art. 13
 
-<sup>1</sup> Das ZEO kann Behörden des Bundes und der Kantone bei der Wahrnehmung ihrer Aufgaben technisch unterstützen.
+<sup>1</sup> Das CEA kann Behörden des Bundes und der Kantone bei der Wahrnehmung ihrer Aufgaben technisch unterstützen.
 
 <sup>2</sup> Die Unterstützung erfolgt nach den für den jeweiligen Auftraggeber geltenden rechtlichen Bestimmungen und in Absprache mit dem Bundesamt für Kommunikation.
 
-<sup>3</sup> Das ZEO kann die notwendigen technischen Mittel beschaffen sowie Machbarkeitsstudien, Messungen und Versuche durchführen.
+<sup>3</sup> Das CEA kann die notwendigen technischen Mittel beschaffen sowie Machbarkeitsstudien, Messungen und Versuche durchführen.
 
-<sup>4</sup> Die Leistungen des ZEO werden nach den Bestimmungen der Gebührenverordnung VBS vom 8. November 2006[^13-1] vergütet.
+<sup>4</sup> Die Leistungen des CEA werden nach den Bestimmungen der Gebührenverordnung VBS vom 8. November 2006[^13-1] vergütet.
 
 [^13-1]: [SR 172.045.103](https://fedlex.data.admin.ch/eli/cc/2006/704)
 
