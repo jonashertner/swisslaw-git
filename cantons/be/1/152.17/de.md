@@ -4,13 +4,13 @@ number: "152.17"
 title: "Verordnung über die Klassifizierung, die Veröffentlichung und die Archivierung von Dokumenten zu Regierungsratsgeschäften"
 short: "Klassifizierungsverordnung, KRGV"
 language: de
-version: 2023-03-01
-valid_until: 2023-12-31
-version_adopted: 2023-01-11
+version: 2024-01-01
+valid_until: 2025-01-31
+version_adopted: 2023-11-15
 adopted: 2013-03-13
 in_force: 2013-10-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/152.17"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2786/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2943/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,11 +19,11 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2786/pdf_file"
 
 (Klassifizierungsverordnung, KRGV)
 
-vom 13.03.2013 (Stand 01.03.2023)
+vom 13.03.2013 (Stand 01.01.2024)
 
 Der Regierungsrat des Kantons Bern,
 
-gestützt auf Artikel 36 Absatz 1 des Gesetzes vom 2. November 1993 über die Information der Bevölkerung (Informationsgesetz; IG)[^ingress-1], auf Artikel 50 Absatz 1 Buchstabe a des Gesetzes vom 20. Juni 1995 über die Organisation des Regierungsrates und der Verwaltung (Organisationsgesetz; OrG)[^ingress-2], auf Artikel 38 des Datenschutzgesetzes vom 19. Februar 1986 (KDSG)[^ingress-3] sowie auf Artikel 27 Absatz 1 Buchstabe a des Gesetzes vom 31. März 2009 über die Archivierung (ArchG)[^ingress-4],
+gestützt auf Artikel 36 Absatz 1 des Gesetzes vom 2. November 1993 über die Information und die Medienförderung (IMG)[^ingress-1], auf Artikel 50 Absatz 1 Buchstabe a des Gesetzes vom 20. Juni 1995 über die Organisation des Regierungsrates und der Verwaltung (Organisationsgesetz; OrG)[^ingress-2], auf Artikel 38 des Datenschutzgesetzes vom 19. Februar 1986 (KDSG)[^ingress-3] sowie auf Artikel 27 Absatz 1 Buchstabe a des Gesetzes vom 31. März 2009 über die Archivierung (ArchG)[^ingress-4],
 
 auf Antrag der Staatskanzlei,
 
@@ -153,7 +153,7 @@ beschliesst:
 
 <sup>6</sup> Die Staatskanzlei kann weitere Bearbeitungsvorschriften in verwaltungsinternen Weisungen festlegen.
 
-## 3 Bekanntgabe und Akteneinsicht
+## 3 Bekanntgabe und Einsicht
 
 #### Art. 9
 
@@ -191,13 +191,15 @@ beschliesst:
 
 #### Art. 13
 
-**Akteneinsicht**
+**Einsicht in klassifizierte Dokumente zu Regierungsratsgeschäften**
 
-<sup>1</sup> Die Einsicht in klassifizierte Dokumente zu Regierungsratsgeschäften richtet sich nach den Bestimmungen über die Akteneinsicht (Art. 27 ff. IG).
+<sup>1</sup> Die Einsicht in klassifizierte Dokumente zu Regierungsratsgeschäften richtet sich nach den Bestimmungen über den Zugang zu Informationen (Art. 27 ff. IMG; Art. 11 Abs. 1 und 2 der Verordnung vom 15.11.2023 über die Information und die Medienförderung [IMV][^13-1]).
 
-<sup>2</sup> Über die Einsicht in Dokumente zu Regierungsratsgeschäften, die als «Geheim» klassifiziert sind, entscheidet in Abweichung von Artikel 7 der Verordnung vom 26. Oktober 1994 über die Information der Bevölkerung (Informationsverordnung, IV)[^13-1] das zuständige Mitglied des Regierungsrates oder die Staatschreiberin oder der Staatsschreiber.
+<sup>2</sup> …
 
-[^13-1]: BSG 107.111
+<sup>3</sup> Wird Einsicht in klassifizierte Dokumente zu Regierungsratsgeschäften gewährt, so prüft die zuständige Behörde, ob das Dokument entklassifiziert werden soll.
+
+[^13-1]: BSG [107.111](https://www.belex.sites.be.ch/data/107.111/de)
 
 ## 4 Speicherung und Archivierung
 

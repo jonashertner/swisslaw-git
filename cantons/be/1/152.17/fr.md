@@ -4,13 +4,13 @@ number: "152.17"
 title: "Ordonnance sur la classification, la publication et l'archivage des documents relatifs aux affaires du Conseil-exécutif"
 short: "Ordonnance sur la classification, OCACE"
 language: fr
-version: 2023-03-01
-valid_until: 2023-12-31
-version_adopted: 2023-01-11
+version: 2024-01-01
+valid_until: 2025-01-31
+version_adopted: 2023-11-15
 adopted: 2013-03-13
 in_force: 2013-10-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/152.17"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2786/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2943/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,11 +19,11 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2786/pdf_file"
 
 (Ordonnance sur la classification, OCACE)
 
-du 13.03.2013 (état au 01.03.2023)
+du 13.03.2013 (état au 01.01.2024)
 
 Le Conseil-exécutif du canton de Berne,
 
-vu l’article 36, alinéa 1 de la loi du 2 novembre 1993 sur l’information du public (loi sur l’information; LIn)[^ingress-1], l’article 50, alinéa 1, lettre a de la loi du 20 juin 1995 sur l’organisation du Conseil-exécutif et de l’administration (loi d’organisation, LOCA)[^ingress-2], l’article 38 de la loi du 19 février 1986 sur la protection des données (LCPD)[^ingress-3] et l'article 27, alinéa 1, lettre a de la loi du 31 mars 2009 sur l'archivage (LArch)[^ingress-4],
+vu l’article 36, alinéa 1 de la loi du 2 novembre 1993 sur l’information et l'aide aux médias (LIAM)[^ingress-1], l’article 50, alinéa 1, lettre a de la loi du 20 juin 1995 sur l’organisation du Conseil-exécutif et de l’administration (loi d’organisation, LOCA)[^ingress-2], l’article 38 de la loi du 19 février 1986 sur la protection des données (LCPD)[^ingress-3] et l'article 27, alinéa 1, lettre a de la loi du 31 mars 2009 sur l'archivage (LArch)[^ingress-4],
 
 sur proposition de la Chancellerie d’Etat,
 
@@ -191,13 +191,15 @@ arrête:
 
 #### Art. 13
 
-**Consultation**
+**Consultation des documents relatifs aux affaires du Conseil-exécutif classifiés**
 
-<sup>1</sup> La consultation des documents relatifs aux affaires du Conseil-exécutif classifiés est régie par les dispositions sur la consultation des dossiers (Art. 27 ss LIn).
+<sup>1</sup> La consultation des documents relatifs aux affaires du Conseil-exécutif classifiés est régie par les dispositions sur l'accès aux informations (art. 27 ss LIAM; art. 11, al. 1 et 2 de l'ordonnance du 15.11.2023 sur l'information et l'aide aux médias [OIAM][^13-1]).
 
-<sup>2</sup> Le droit de consulter les documents relatifs aux affaires du Conseil-exécutif classés secrets est accordé, en dérogation à l’article 7 de l’ordonnance du 26 octobre 1994 sur l’information du public (ordonnance sur l’information; OIn)[^13-1], par le conseiller ou la conseillère d’Etat compétent ou par le chancelier ou la chancelière.
+<sup>2</sup> …
 
-[^13-1]: RSB 107.111
+<sup>3</sup> Si la consultation de documents relatifs aux affaires du Conseil-exécutif classifiés est octroyée, l'autorité compétente examine s'il y a lieu de déclassifier le document.
+
+[^13-1]: RSB [107.111](https://www.belex.sites.be.ch/data/107.111/fr)
 
 ## 4 Enregistrement et archivage
 
