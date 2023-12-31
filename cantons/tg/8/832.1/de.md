@@ -1,27 +1,27 @@
 ---
 canton: TG
 number: "832.1"
-title: Gesetz über die Krankenversicherung
+title: Krankenversicherungsgesetz
 short: TG KVG
 language: de
-version: 2020-01-01
-valid_until: 2023-12-31
-version_adopted: 2018-12-05
+version: 2024-01-01
+valid_until: 2025-12-31
+version_adopted: 2023-08-16
 adopted: 1995-10-25
 in_force: 1996-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/832.1"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2279/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2751/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Gesetz über die Krankenversicherung
+# Krankenversicherungsgesetz
 
 TG KVG
 
 (TG KVG)
 
-vom 25.10.1995 (Stand 01.01.2020)
+vom 25.10.1995 (Stand 01.01.2024)
 
 ## 1. Allgemeine Bestimmungen
 
@@ -33,10 +33,10 @@ vom 25.10.1995 (Stand 01.01.2020)
 
 <sup>2</sup> Es ordnet insbesondere:
 
-- 1\. die Versicherungspflicht und die Prämienverbilligung;
-- 2\. die Pflegeversorgung im Pflegeheim und im ambulanten Bereich;
-- 3\. die Hilfe und Betreuung zu Hause;
-- 4\. die Spitalplanung und -finanzierung.
+- 1\. die Versicherungspflicht und die Prämienverbilligung
+- 2\. die Pflegeversorgung im Pflegeheim und im ambulanten Bereich
+- 3\. die Hilfe und Betreuung zu Hause
+- 4\. die Spitalplanung und -finanzierung
 
 <sup>3</sup> Der Regierungsrat kann ergänzende Vorschriften zur Bundesgesetzgebung, zur Pflegeversorgung sowie zur Hilfe und Betreuung zu Hause erlassen.
 
@@ -77,13 +77,25 @@ vom 25.10.1995 (Stand 01.01.2020)
 
 <sup>1</sup> Die Gemeinde sorgt für die Einhaltung der Versicherungspflicht.
 
-<sup>2</sup> Die gesetzlichen Vertreter von Neugeborenen sowie jede Person, die neu in der Schweiz Wohnsitz nimmt, haben der Gemeinde innert drei Monaten einen Versicherungsnachweis einzureichen. Der Regierungsrat kann die Meldepflicht im Rahmen von Art. 3 Abs. 2 und Abs. 3 des Bundesgesetzes[^3-1] einschränken oder ausdehnen.
+<sup>2</sup> Die gesetzlichen Vertreter von Neugeborenen sowie jede Person, die neu in der Schweiz Wohnsitz nimmt, haben der Gemeinde innert drei Monaten einen Versicherungsnachweis einzureichen. Der Regierungsrat kann die Meldepflicht im Rahmen von Art. 3 Abs. 2 und Abs. 3 KVG einschränken oder ausdehnen.
 
 <sup>3</sup> Die Gemeinde kann von jeder versicherungspflichtigen Person den Versicherungsnachweis verlangen.
 
 <sup>4</sup> Die Gemeinde weist Personen, die ihrer Versicherungspflicht nicht nachkommen, einem Versicherer zu.
 
-[^3-1]: SR [832.10](https://db.clex.ch/link/Bund/832.10/de)
+#### § 3a
+
+**Liste säumiger Prämienzahlerinnen und Prämienzahler und Case Management**
+
+<sup>1</sup> Der Kanton führt eine Liste volljähriger Personen, die ihrer Prämienpflicht nicht nachkommen.
+
+<sup>2</sup> Der Listeneintrag hat einen Leistungsaufschub zur Folge.
+
+<sup>3</sup> Die Gemeinden betreiben ein Case Management mit dem Ziel, den Versicherungsschutz vollumfänglich wiederherzustellen und die Entstehung von Verlustscheinen zu vermeiden.
+
+<sup>4</sup> Versicherte mit Leistungsaufschub sind zur Mitwirkung im Case Management verpflichtet.
+
+<sup>5</sup> Die Gemeinden tragen die Kosten nach Art. 64a Abs. 4 KVG unter Anrechnung der Rückerstattungen nach Art. 64a Abs. 5 KVG.
 
 ### 2.2. Prämienverbilligung
 
@@ -107,9 +119,9 @@ vom 25.10.1995 (Stand 01.01.2020)
 
 <sup>1</sup> Die Prämienverbilligung wird für versicherte Personen in bescheidenen wirtschaftlichen Verhältnissen, die das 18. Altersjahr vollendet haben, nach Massgabe der einfachen Steuer zu 100 % zu folgenden Bruchteilen ausgerichtet:
 
-- 1\. bis zum Steuerbetrag von Fr. 400 vier Viertel;
-- 2\. bis zum Steuerbetrag von Fr. 600 drei Viertel;
-- 3\. bis zum Steuerbetrag von Fr. 800 zwei Viertel.
+- 1\. bis zum Steuerbetrag von Fr. 400 vier Viertel
+- 2\. bis zum Steuerbetrag von Fr. 600 drei Viertel
+- 3\. bis zum Steuerbetrag von Fr. 800 zwei Viertel
 
 <sup>1<sup>bis</sup></sup> Personen, die ein steuerbares Vermögen ausweisen, wird keine Prämienverbilligung entrichtet.
 
@@ -119,7 +131,7 @@ vom 25.10.1995 (Stand 01.01.2020)
 
 <sup>4</sup> Die Prämienverbilligung wird für versicherte Kinder nach Massgabe der einfachen Steuer zu 100 % der Eltern zu folgendem Prozentsatz der jährlich vom Eidgenössischen Departement des Innern (EDI) festgelegten Durchschnittsprämie für Kinder ausgerichtet:
 
-- 1\. bis zum Steuerbetrag von Fr. 1'600 80 %.
+- 1\. bis zum Steuerbetrag von Fr. 1'600 80 %
 - 2\. …
 
 <sup>5</sup> Für Kinder, deren Eltern ein steuerbares Vermögen ausweisen, wird keine Prämienverbilligung entrichtet.
@@ -182,7 +194,7 @@ vom 25.10.1995 (Stand 01.01.2020)
 
 <sup>2</sup> Die Rückforderung verjährt innert zwei Jahren vom Zeitpunkt an gerechnet, in dem die zuständige Stelle vom Sachverhalt Kenntnis erhalten hat, spätestens nach fünf Jahren.
 
-### 2.3. Rechtspflege
+### 2.3.
 
 #### § 13
 
@@ -192,9 +204,7 @@ vom 25.10.1995 (Stand 01.01.2020)
 
 #### § 14
 
-**Rekurs**
-
-<sup>1</sup> Entscheide der Gemeinde über die Versicherungspflicht und die Prämienverbilligung können beim Departement mit Rekurs angefochten werden.
+**…**
 
 ## 3. Pflegeversorgung im Pflegeheim und im ambulanten Bereich sowie Hilfe und Betreuung
 
@@ -206,7 +216,7 @@ vom 25.10.1995 (Stand 01.01.2020)
 
 <sup>1</sup> Das Versorgungsangebot im Pflegeheim umfasst die Pflegeleistungen der Sozialversicherungsgesetzgebung im stationären Bereich einschliesslich der Leistungen der stationären Akut- und Übergangspflege sowie der notwendigen Leistungen für Unterkunft, Verpflegung und Betreuung. Ausgeschlossen sind die Pflegeleistungen in den Spitälern.
 
-<sup>2</sup> Die Aufsicht über die Einrichtungen sowie deren Bewilligung, Organisation und Qualitätssicherung richten sich nach der Verordnung über die Heimaufsicht[^15-1].
+<sup>2</sup> Die Aufsicht über die Einrichtungen sowie deren Bewilligung, Organisation und Qualitätssicherung richten sich nach der Heimaufsichtsverordnung (HAV)[^15-1].
 
 [^15-1]: RB [850.71](https://www.rechtsbuch.tg.ch/data/850.71/de)
 
@@ -214,11 +224,11 @@ vom 25.10.1995 (Stand 01.01.2020)
 
 **Nicht universitäre Aus- und Weiterbildung**
 
-<sup>1</sup> Ein Heim der Pflegeheimliste hat eine im Verhältnis zur Betriebsgrösse und zum kantonalen Bedarf angemessene Zahl von Fachleuten in den Berufen des Gesundheitswesens auszubilden.
+<sup>1</sup> Ein Heim der Pflegeheimliste hat eine im Verhältnis zur Betriebsgrösse und zum kantonalen Bedarf angemessene Zahl von Fachpersonen in den Berufen des Gesundheitswesens auszubilden.
 
-<sup>2</sup> Kommt ein Heim der Pflegeheimliste seinen Verpflichtungen nicht nach, kann eine Ersatzabgabe von maximal 150 % der durchschnittlichen Kosten von Aus- und Weiterbildungsstellen erhoben werden.
+<sup>2</sup> Kommt ein Heim der Pflegeheimliste seinen Verpflichtungen nicht nach, wird eine Ersatzabgabe von maximal 150 % der durchschnittlichen Kosten von Aus- und Weiterbildungsstellen erhoben.
 
-<sup>3</sup> Die Ersatzabgaben werden für die Förderung der Aus- und Weiterbildung von Fachleuten in den Berufen des Gesundheitswesens verwendet.
+<sup>3</sup> Die Ersatzabgaben werden für die Förderung der Aus- und Weiterbildung von Fachpersonen in den Berufen des Gesundheitswesens verwendet.
 
 <sup>4</sup> Der Regierungsrat regelt die Einzelheiten.
 
@@ -228,12 +238,12 @@ vom 25.10.1995 (Stand 01.01.2020)
 
 <sup>1</sup> Die Kosten für die von einem Pflegeheim erbrachten Leistungen gliedern sich in:
 
-- 1\. Kosten für Leistungen der Akut- und Übergangspflege;
-- 2\. Kosten für Pflegeleistungen;
-- 3\. Kosten für weitere Pflichtleistungen der Sozialversicherer wie ärztliche Behandlung, Arznei, Therapien, Therapie- und Pflegematerial;
-- 4\. Kosten für Unterkunft und Verpflegung (Hotellerie);
-- 5\. Kosten für Betreuung;
-- 6\. Kosten für weitere Leistungen.
+- 1\. Kosten für Leistungen der Akut- und Übergangspflege
+- 2\. Kosten für Pflegeleistungen
+- 3\. Kosten für weitere Pflichtleistungen der Sozialversicherer wie ärztliche Behandlung, Arznei, Therapien, Therapie- und Pflegematerial
+- 4\. Kosten für Unterkunft und Verpflegung (Hotellerie)
+- 5\. Kosten für Betreuung
+- 6\. Kosten für weitere Leistungen
 
 <sup>2</sup> Das zuständige Departement regelt die einheitliche, transparente Rechnungslegung und Rechnungsstellung sowie die Datenerhebung und Datenveröffentlichung. Betriebsbezogene Daten dürfen in nicht anonymisierter Form veröffentlicht werden.
 
@@ -267,9 +277,7 @@ vom 25.10.1995 (Stand 01.01.2020)
 
 **Eigenanteil der Leistungsbezügerinnen und -bezüger**
 
-<sup>1</sup> Der Beitrag der Leistungsbezügerinnen und Leistungsbezüger an den Kosten der Pflegeleistungen entspricht dem höchsten Anteil gemäss Art. 25a Abs. 5 KVG[^20-1], höchstens aber den nach Abzug des Beitrages der Krankenversicherung verbleibenden Kosten.
-
-[^20-1]: SR [832.10](https://db.clex.ch/link/Bund/832.10/de)
+<sup>1</sup> Der Beitrag der Leistungsbezügerinnen und Leistungsbezüger an den Kosten der Pflegeleistungen entspricht dem höchsten Anteil gemäss Art. 25a Abs. 5 KVG, höchstens aber den nach Abzug des Beitrages der Krankenversicherung verbleibenden Kosten.
 
 #### § 21
 
@@ -289,17 +297,29 @@ vom 25.10.1995 (Stand 01.01.2020)
 
 <sup>3</sup> Die ambulante Pflege sowie die Betreuung kann auch in Tagesheimen sowie in Tages- oder Nachtstrukturen von Pflegeheimen erbracht werden.
 
+#### § 22a
+
+**Nicht universitäre Aus- und Weiterbildung**
+
+<sup>1</sup> Eine Organisation der ambulanten Pflege (Spitex) mit Zulassung zur Obligatorischen Krankenpflegeversicherung (OKP) hat eine im Verhältnis zur Betriebsgrösse und zum kantonalen Bedarf angemessene Zahl von Fachpersonen in den Berufen des Gesundheitswesens auszubilden.
+
+<sup>2</sup> Kommt eine zugelassene Organisation der ambulanten Pflege ihren Verpflichtungen nicht nach, wird eine Ersatzabgabe von maximal 150 % der durchschnittlichen Kosten von Aus- und Weiterbildungsstellen erhoben.
+
+<sup>3</sup> Die Ersatzabgaben werden für die Förderung der Aus- und Weiterbildung von Fachpersonen in den Berufen des Gesundheitswesens verwendet.
+
+<sup>4</sup> Der Regierungsrat regelt die Einzelheiten.
+
 #### § 23
 
 **Kosten- und Leistungsausweis der ambulanten Leistungserbringer, Fakturierung**
 
 <sup>1</sup> Die Kosten für ambulante Leistungen gliedern sich in:
 
-- 1\. Kosten für Leistungen der Akut- und Übergangspflege;
-- 2\. Kosten für Pflegeleistungen;
-- 3\. Kosten für weitere Pflichtleistungen der Sozialversicherer wie ärztliche Behandlung, Arznei, Therapien, Therapie- und Pflegematerial;
-- 4\. Kosten für Hilfe und Betreuung;
-- 5\. Kosten für weitere Leistungen.
+- 1\. Kosten für Leistungen der Akut- und Übergangspflege
+- 2\. Kosten für Pflegeleistungen
+- 3\. Kosten für weitere Pflichtleistungen der Sozialversicherer wie ärztliche Behandlung, Arznei, Therapien, Therapie- und Pflegematerial
+- 4\. Kosten für Hilfe und Betreuung
+- 5\. Kosten für weitere Leistungen
 
 <sup>2</sup> Das zuständige Departement regelt die einheitliche, transparente Rechnungslegung und Rechnungsstellung sowie die Datenerhebung und Datenveröffentlichung. Betriebsbezogene Daten dürfen in nicht anonymisierter Form veröffentlicht werden. Das Departement legt die anrechenbaren Kosten gemäss § 25 Abs. 3 und § 27 Abs. 2 fest.
 
@@ -315,13 +335,11 @@ vom 25.10.1995 (Stand 01.01.2020)
 
 **Restfinanzierung der ambulanten Pflege**
 
-<sup>1</sup> Die Wohngemeinde vereinbart mit den von ihr beauftragten Leistungserbringern separate Tarife für die Restfinanzierung gemäss Art. 25a Abs. 5 KVG[^25-1] der ambulanten Pflege einschliesslich der ambulanten Pflege in Tagesheimen sowie in Tages- oder Nachtstrukturen von Pflegeheimen. Für gemeinwirtschaftliche Leistungen sind separate Leistungsvereinbarungen zu treffen. Die daraus folgenden Kosten sind zu übernehmen.
+<sup>1</sup> Die Wohngemeinde vereinbart mit den von ihr beauftragten Leistungserbringern separate Tarife für die Restfinanzierung gemäss Art. 25a Abs. 5 KVG der ambulanten Pflege einschliesslich der ambulanten Pflege in Tagesheimen sowie in Tages- oder Nachtstrukturen von Pflegeheimen. Für gemeinwirtschaftliche Leistungen sind separate Leistungsvereinbarungen zu treffen. Die daraus folgenden Kosten sind zu übernehmen.
 
 <sup>2</sup> Der Beitrag der Wohngemeinde an Leistungserbringer ohne kommunalen Leistungsauftrag entspricht den effektiven Restkosten der Pflegeleistungen gemäss Art. 25a Abs. 5 KVG, höchstens jedoch den mit Leistungserbringern in ihrer Gemeinde vereinbarten Pflegetarifen.
 
 <sup>3</sup> Die Festlegung der Pflegetarife erfolgt nach betriebswirtschaftlichen Kriterien unter Berücksichtigung der von den Leistungserbringern ausgewiesenen anrechenbaren Kosten und der qualitativen Besonderheiten der erbrachten Leistungen.
-
-[^25-1]: SR [832.10](https://db.clex.ch/link/Bund/832.10/de)
 
 #### § 26
 
@@ -349,6 +367,16 @@ vom 25.10.1995 (Stand 01.01.2020)
 
 <sup>2</sup> Das zuständige Departement regelt in Absprache mit dem Verband Thurgauer Gemeinden die Einzelheiten sowie die Abrechnung und Abwicklung der leistungsbezogenen Beiträge gegenüber den Gemeinden.
 
+#### § 27b
+
+**Finanzieller Ausgleich für ungleich anfallende Kosten**
+
+<sup>1</sup> Fallen Leistungen der ambulanten Pflege für Kinder und Jugendliche bis zum Erreichen des 18. Altersjahres in erheblichem Masse in den Gemeinden ungleich an, kann der Verband Thurgauer Gemeinden mit spezialisierten Leistungserbringern Vereinbarungen abschliessen.
+
+<sup>2</sup> Die Leistungsvereinbarungen sind für alle Gemeinden verbindlich, sofern ihnen drei Viertel der Gemeinden zustimmen.
+
+<sup>3</sup> Die Aufteilung der Finanzierungsanteile aus den Leistungsvereinbarungen nach Abs. 1 unter den Gemeinden erfolgt aufgrund der Einwohnerzahl am 31. Dezember des Vorjahres.
+
 ## 4. Spitalplanung und -finanzierung
 
 ### 4.1. Spitalplanung
@@ -369,11 +397,9 @@ vom 25.10.1995 (Stand 01.01.2020)
 
 <sup>2</sup> Er überprüft die Spitalliste periodisch und passt sie bei Bedarf nach Anhörung der Betroffenen an.
 
-<sup>3</sup> Die Aufnahme eines Spitals auf die Spitalliste wird von der Erfüllung von Auflagen betreffend Qualität und Wirtschaftlichkeit im Sinne von Art. 39 Abs. 2<sup>ter</sup> KVG[^29-1] abhängig gemacht.
+<sup>3</sup> Die Aufnahme eines Spitals auf die Spitalliste wird von der Erfüllung von Auflagen betreffend Qualität und Wirtschaftlichkeit im Sinne von Art. 39 Abs. 2<sup>ter</sup> KVG abhängig gemacht.
 
 <sup>4</sup> Ein Spital kann auch für einzelne Leistungsgruppen oder einzelne Leistungen seines stationären Angebotes auf die Spitalliste aufgenommen werden.
-
-[^29-1]: SR [832.10](https://db.clex.ch/link/Bund/832.10/de)
 
 #### § 30
 
@@ -389,7 +415,7 @@ vom 25.10.1995 (Stand 01.01.2020)
 
 **Aufnahmepflicht**
 
-<sup>1</sup> Das zuständige Departement prüft die Einhaltung der Aufnahmepflicht im Sinne von Art. 41a KVG. Vorbehalten bleiben die Bestimmungen betreffend Notfallbehandlungen bei Leistungsaufschub des Versicherers gemäss der Verordnung zum Gesetz über die Krankenversicherung[^31-1].
+<sup>1</sup> Das zuständige Departement prüft die Einhaltung der Aufnahmepflicht im Sinne von Art. 41a KVG. Vorbehalten bleiben die Bestimmungen betreffend Notfallbehandlungen bei Leistungsaufschub des Versicherers gemäss der Krankenversicherungsverordnung (TG KVV)[^31-1].
 
 <sup>2</sup> Der Regierungsrat kann für Leistungen der Listenspitäler an ausschliesslich grundversicherten Thurgauer Patientinnen und Patienten einen durchschnittlichen Mindestanteil pro Jahr festlegen.
 
@@ -415,14 +441,13 @@ vom 25.10.1995 (Stand 01.01.2020)
 
 **Daten**
 
-<sup>1</sup> Die Spitäler und Versicherer sind verpflichtet, den zuständigen kantonalen Stellen die Daten gemäss Art. 22a Abs. 1 KVG[^34-1] [^34-2]unentgeltlich zur Verfügung zu stellen.
+<sup>1</sup> Die Spitäler und Versicherer sind verpflichtet, den zuständigen kantonalen Stellen die Daten gemäss Art. 22a Abs. 1 KVG[^34-1] unentgeltlich zur Verfügung zu stellen.
 
 <sup>2</sup> Der Regierungsrat kann die Listenspitäler im Leistungsauftrag sowie die Versicherer zur unentgeltlichen Lieferung weiterer Daten verpflichten.
 
 <sup>3</sup> Die Daten dürfen zu statistischen Zwecken oder zum Vergleich mit anderen Spitälern in nicht anonymisierter Form veröffentlicht werden.
 
-[^34-1]: SR [832.10](https://db.clex.ch/link/Bund/832.10/de)
-[^34-2]: aufgehoben; jetzt Art. 59a KVG.
+[^34-1]: Heute: Art. 59a KVG
 
 ### 4.2. Spitalfinanzierung
 
@@ -452,9 +477,13 @@ vom 25.10.1995 (Stand 01.01.2020)
 
 **Nicht universitäre Aus- und Weiterbildung**
 
-<sup>1</sup> Ein Listenspital hat eine im Verhältnis zur Betriebsgrösse und zum kantonalen Bedarf angemessene Zahl von Fachleuten in den Berufen des Gesundheitswesens auszubilden.
+<sup>1</sup> Ein Listenspital hat eine im Verhältnis zur Betriebsgrösse und zum kantonalen Bedarf angemessene Zahl von Fachpersonen in den Berufen des Gesundheitswesens auszubilden.
 
-<sup>2</sup> Der Regierungsrat regelt die Einzelheiten.
+<sup>2</sup> Kommt ein Listenspital seinen Verpflichtungen nicht nach, wird eine Ersatzabgabe von maximal 150 % der durchschnittlichen Kosten von Aus- und Weiterbildungsstellen erhoben.
+
+<sup>3</sup> Die Ersatzabgaben werden für die Förderung der Aus- und Weiterbildung von Fachpersonen in den Berufen des Gesundheitswesens verwendet.
+
+<sup>4</sup> Der Regierungsrat regelt die Einzelheiten.
 
 #### § 39
 
@@ -468,40 +497,12 @@ vom 25.10.1995 (Stand 01.01.2020)
 
 **Aufsicht**
 
-<sup>1</sup> Die Listenspitäler gewähren den zuständigen kantonalen Stellen zur Überprüfung der finanziellen Abgeltungen des Kantons Einsicht in ihre Bücher nach Massgabe des KVG[^40-1].
+<sup>1</sup> Die Listenspitäler gewähren den zuständigen kantonalen Stellen zur Überprüfung der finanziellen Abgeltungen des Kantons Einsicht in ihre Bücher nach Massgabe des KVG.
 
-[^40-1]: SR [832.10](https://db.clex.ch/link/Bund/832.10/de)
+## 5.
 
-## 5. Übergangs- und Schlussbestimmungen
+#### § 41–44
 
-#### § 41
-
-**...[^41-1]**
-
-[^41-1]: Änderung bisherigen Rechtes, vgl. ABl. 27/2011 S. 1557.
-
-#### § 42
-
-**Übergangsbestimmung**
-
-<sup>1</sup> Solange nicht alle Leistungserbringer über die zur Festlegung der anrechenbaren Kosten und der Normkostenbeiträge notwendigen Kostenrechnungen verfügen, längstens aber bis zur Festlegung für das Jahr 2013, kann das zuständige Departement auf nachvollziehbare Kostenrechnungsdaten einer eingeschränkten Zahl von Pflegeheimen und ambulanten Leistungserbringern abstellen.
-
-#### § 43
-
-**Aufhebung bisherigen Rechtes**
-
-<sup>1</sup> § 30 des Gesetzes über das Gesundheitswesen (Gesundheitsgesetz)[^43-1] vom 5. Juni 1985 wird mit der Festlegung des Anteils der öffentlichen Hand an den Leistungen der Spitäler durch den Regierungsrat gemäss § 1a aufgehoben.
-
-<sup>2</sup> Das Gesetz über den Verbund der kantonalen Krankenanstalten vom 10. Februar 1999 wird aufgehoben.
-
-[^43-1]: RB [810.1](https://www.rechtsbuch.tg.ch/data/810.1/de)
-
-#### § 44
-
-**Inkrafttreten**
-
-<sup>1</sup> Dieses Gesetz tritt auf einen durch den Regierungsrat zu bestimmenden Zeitpunkt in Kraft[^44-1].
-
-[^44-1]: In Kraft gesetzt auf den 1. Januar 1996.
+**…**
 
 44/1995 6/1996
