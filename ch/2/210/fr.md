@@ -4,18 +4,18 @@ title: Code civil suisse du 10 décembre 1907
 short: CC
 eli: "https://fedlex.data.admin.ch/eli/cc/24/233_245_233"
 language: fr
-version: 2023-09-01
+version: 2024-01-01
 adopted: 1907-12-10
 in_force: 1912-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/24/233_245_233/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-24-233_245_233-20230901-fr-xml-13.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/24/233_245_233/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/24/233_245_233/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-24-233_245_233-20240101-fr-xml-26.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/24/233_245_233/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Code civil suisse
 
-du 10 décembre 1907 (État le 1<sup>er</sup> septembre 2023)
+du 10 décembre 1907 (État le 1<sup>er</sup> janvier 2024)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -151,7 +151,7 @@ La majorité est fixée à 18 ans révolus.
 
 [^14-1]: Nouvelle teneur selon le ch. I 1de la LF du 7 oct. 1994, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1995 1126](https://fedlex.data.admin.ch/eli/oc/1995/1126_1126_1126); [FF 1993 I 1093](https://fedlex.data.admin.ch/eli/fga/1993/1_1169_1093_921)).
 
-### c. ...
+### c. …
 
 #### Art. 15
 
@@ -436,7 +436,7 @@ Le juge peut, pour autant que la décision paraisse équitable au vu des circons
 
 [^28c-1]: Introduit par le ch. I de la LF du 16 déc. 1983 ([RO 1984 778](https://fedlex.data.admin.ch/eli/oc/1984/778_778_778); [FF 1982 II 661](https://fedlex.data.admin.ch/eli/fga/1982/2_636_661_628)). Nouvelle teneur selon le ch. I 1 de la LF du 14 déc. 2018 sur l’amélioration de la protection des victimes de violence, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2019 2273](https://fedlex.data.admin.ch/eli/oc/2019/432); [FF 2017 6913](https://fedlex.data.admin.ch/eli/fga/2017/2095)).
 
-### 3. ...
+### 3. …
 
 #### Art. 28d à 28f
 
@@ -508,9 +508,9 @@ Le juge peut, pour autant que la décision paraisse équitable au vu des circons
 
 <sup>1</sup> Si l’entreprise empêche l’exercice du droit, refuse la diffusion ou ne l’exécute pas correctement, l’auteur peut s’adresser au juge.
 
-<sup>2</sup> ...[^28l-2]
+<sup>2</sup> …[^28l-2]
 
-<sup>3</sup> et <sup>4</sup> ...[^28l-3]
+<sup>3</sup> et <sup>4</sup> …[^28l-3]
 
 [^28l-1]: Introduit par le ch. I de la LF du 16 déc. 1983, en vigueur depuis le 1<sup>er</sup> juil. 1985 ([RO 1984 778](https://fedlex.data.admin.ch/eli/oc/1984/778_778_778); [FF 1982 II 661](https://fedlex.data.admin.ch/eli/fga/1982/2_636_661_628)).
 [^28l-2]: Abrogé par l’annexe ch. 2 de la LF du 24 mars 2000 sur les fors, avec effet au 1<sup>er</sup> janv. 2001 ([RO 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); FF **1999** 2591).
@@ -538,7 +538,7 @@ Le juge peut, pour autant que la décision paraisse équitable au vu des circons
 
 <sup>1</sup> Le gouvernement du canton de domicile peut, s’il existe des motifs légitimes, autoriser une personne à changer de nom.[^30-1]
 
-<sup>2</sup> ...[^30-2]
+<sup>2</sup> …[^30-2]
 
 <sup>3</sup> Toute personne lésée par un changement de nom peut l’attaquer en justice dans l’année à compter du jour où elle en a eu connaissance.
 
@@ -621,7 +621,7 @@ Le décès d’une personne dont le corps n’a pas été retrouvé est considé
 
 <sup>1</sup> Si le décès d’une personne disparue en danger de mort ou dont on n’a pas eu de nouvelles depuis longtemps paraît très probable, le juge peut déclarer l’absence à la requête de ceux qui ont des droits subordonnés au décès.
 
-<sup>2</sup> ...[^35-1]
+<sup>2</sup> …[^35-1]
 
 [^35-1]: Abrogé par l’annexe ch. 2 de la LF du 24 mars 2000 sur les fors, avec effet au 1<sup>er</sup> janv. 2001 ([RO 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); FF **1999** 2591).
 
@@ -693,7 +693,7 @@ Par état civil, on entend notamment:
 
 <sup>2</sup> Il peut prévoir que la violation de l’obligation de déclarer est passible de l’amende.
 
-<sup>3</sup> ...[^40-1]
+<sup>3</sup> …[^40-1]
 
 [^40-1]: Abrogé par le ch. I de la LF du 5 oct. 2001 (Tenue informatisée des registres de l’état civil), avec effet au 1<sup>er</sup> juil. 2004 ([RO 2004 2911](https://fedlex.data.admin.ch/eli/oc/2004/361); [FF 2001 1537](https://fedlex.data.admin.ch/eli/fga/2001/407)).
 
@@ -1386,7 +1386,10 @@ Lorsque l’organisation prévue par l’acte de fondation n’est pas suffisant
 
 <sup>2</sup> L’autorité de surveillance pourvoit à ce que les biens des fondations soient employés conformément à leur destination.
 
+<sup>3</sup> Les bénéficiaires ou les créanciers de la fondation, le fondateur, les contributeurs ultérieurs de même que les anciens et les actuels membres du conseil de fondation qui ont un intérêt à contrôler que l’administration de la fondation est conforme à la loi et à l’acte de fondation peuvent déposer une plainte auprès de l’autorité de surveillance contre les actes ou les omissions des organes de la fondation.[^84-2]
+
 [^84-1]: Introduit par le ch. I de la LF du 8 oct. 2004 (Droit des fondations), en vigueur depuis le 1<sup>er</sup> janv. 2006 ([RO 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [FF 2003 7425](https://fedlex.data.admin.ch/eli/fga/2003/1402)[7463](https://fedlex.data.admin.ch/eli/fga/2003/1404)).
+[^84-2]: Introduit par le ch. I de la LF du 17 déc. 2021 (Renforcer l’attractivité de la Suisse pour les fondations), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 452](https://fedlex.data.admin.ch/eli/oc/2022/452), [FF 2021 485](https://fedlex.data.admin.ch/eli/fga/2021/485), [1169](https://fedlex.data.admin.ch/eli/fga/2021/1169)).
 
 ### C<sup>bis</sup>. Menace d’insolvabilité et surendettement
 
@@ -1417,7 +1420,11 @@ L’organe suprême de la fondation communique tous les ans à l’autorité de 
 
 ### D. Modification
 
-### I. De l’organisation
+### I. De l’organisation sur proposition de l’autorité de surveillance
+
+[^book1-tit2-chap3-lvlD-lvlI-1]
+
+[^book1-tit2-chap3-lvlD-lvlI-1]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021 (Renforcer l’attractivité de la Suisse pour les fondations), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 452](https://fedlex.data.admin.ch/eli/oc/2022/452), [FF 2021 485](https://fedlex.data.admin.ch/eli/fga/2021/485), [1169](https://fedlex.data.admin.ch/eli/fga/2021/1169)).
 
 #### Art. 85
 
@@ -1427,13 +1434,11 @@ L’autorité fédérale ou cantonale compétente peut, sur la proposition de l�
 
 [^85-1]: Nouvelle teneur selon le ch. I de la LF du 8 oct. 2004 (Droit des fondations), en vigueur depuis le 1<sup>er</sup> janv. 2006 ([RO 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [FF 2003 7425](https://fedlex.data.admin.ch/eli/fga/2003/1402)[7463](https://fedlex.data.admin.ch/eli/fga/2003/1404)).
 
-### II. Du but
+### II. Du but sur requête de l’autorité de surveillance ou de l’organe suprême de la fondation
 
-### 1. Sur requête de l’autorité de surveillance ou de l’organe suprême de la fondation
+[^book1-tit2-chap3-lvlD-lvlII-1]
 
-[^book1-tit2-chap3-lvlD-lvlII-lvl1-1]
-
-[^book1-tit2-chap3-lvlD-lvlII-lvl1-1]: Nouvelle teneur selon le ch. I de la LF du 8 oct. 2004 (Droit des fondations), en vigueur depuis le 1<sup>er</sup> janv. 2006 ([RO 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [FF 2003 7425](https://fedlex.data.admin.ch/eli/fga/2003/1402)[7463](https://fedlex.data.admin.ch/eli/fga/2003/1404)).
+[^book1-tit2-chap3-lvlD-lvlII-1]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021 (Renforcer l’attractivité de la Suisse pour les fondations), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 452](https://fedlex.data.admin.ch/eli/oc/2022/452), [FF 2021 485](https://fedlex.data.admin.ch/eli/fga/2021/485), [1169](https://fedlex.data.admin.ch/eli/fga/2021/1169)).
 
 #### Art. 86
 
@@ -1443,34 +1448,52 @@ L’autorité fédérale ou cantonale compétente peut, sur la proposition de l�
 
 [^86-1]: Nouvelle teneur selon le ch. I de la LF du 8 oct. 2004 (Droit des fondations), en vigueur depuis le 1<sup>er</sup> janv. 2006 ([RO 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [FF 2003 7425](https://fedlex.data.admin.ch/eli/fga/2003/1402)[7463](https://fedlex.data.admin.ch/eli/fga/2003/1404)).
 
-### 2. Sur requête ou en raison d’une disposition pour cause de mort du fondateur
+### III. Du but ou de l’organisation selon le droit réservé au fondateur
+
+[^book1-tit2-chap3-lvlD-lvlIII-1]
+
+[^book1-tit2-chap3-lvlD-lvlIII-1]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021 (Renforcer l’attractivité de la Suisse pour les fondations), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 452](https://fedlex.data.admin.ch/eli/oc/2022/452), [FF 2021 485](https://fedlex.data.admin.ch/eli/fga/2021/485), [1169](https://fedlex.data.admin.ch/eli/fga/2021/1169)).
 
 #### Art. 86a
 
 [^86a-1]
 
-<sup>1</sup> L’autorité fédérale ou cantonale compétente modifie, sur requête du fondateur ou en raison d’une disposition pour cause de mort prise par celui-ci, le but de la fondation lorsque l’acte de fondation réserve cette possibilité et que 10 ans au moins se sont écoulés depuis la constitution de la fondation ou depuis la dernière modification requise par le fondateur.
+<sup>1</sup> L’autorité fédérale ou cantonale compétente modifie, sur requête du fondateur ou en raison d’une disposition pour cause de mort prise par celui-ci, le but ou l’organisation de la fondation lorsque l’acte de fondation réserve cette possibilité et que 10 ans au moins se sont écoulés depuis la constitution de la fondation ou depuis la dernière modification du but ou de l’organisation requise par le fondateur. Les délais courent indépendamment les uns des autres.[^86a-2]
 
-<sup>2</sup> Si la fondation poursuit un but de service public ou d’utilité publique au sens de l’art. 56, let. g, de la loi fédérale du 14 décembre 1990 sur l’impôt fédéral direct[^86a-2], le nouveau but doit demeurer un but de service public ou d’utilité publique.
+<sup>2</sup> Si la fondation poursuit un but de service public ou d’utilité publique au sens de l’art. 56, let. g, de la loi fédérale du 14 décembre 1990 sur l’impôt fédéral direct[^86a-3], le nouveau but doit demeurer un but de service public ou d’utilité publique.
 
-<sup>3</sup> Le droit d’exiger la modification du but est incessible et ne passe pas aux héritiers. Lorsque le fondateur est une personne morale, ce droit s’éteint au plus tard 20 ans après la constitution de la fondation.
+<sup>3</sup> Le droit d’exiger la modification du but ou de l’organisation est incessible et ne passe pas aux héritiers.[^86a-4] Lorsque le fondateur est une personne morale, ce droit s’éteint au plus tard 20 ans après la constitution de la fondation.
 
-<sup>4</sup> Lorsque la fondation a été constituée par plusieurs fondateurs, ceux-ci doivent requérir la modification du but conjointement.
+<sup>4</sup> Lorsque la fondation a été constituée par plusieurs fondateurs, ceux-ci doivent requérir la modification du but ou de l’organisation conjointement.[^86a-5]
 
-<sup>5</sup> L’autorité qui procède à l’ouverture de la disposition pour cause de mort avise l’autorité de surveillance compétente de la disposition prévoyant la modification du but de la fondation.
+<sup>5</sup> L’autorité qui procède à l’ouverture de la disposition pour cause de mort avise l’autorité de surveillance compétente de la disposition prévoyant la modification du but ou de l’organisation de la fondation.[^86a-6]
 
 [^86a-1]: Introduit par le ch. I de la LF du 8 oct. 2004 (Droit des fondations), en vigueur depuis le 1<sup>er</sup> janv. 2006 ([RO 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [FF 2003 7425](https://fedlex.data.admin.ch/eli/fga/2003/1402)[7463](https://fedlex.data.admin.ch/eli/fga/2003/1404)).
-[^86a-2]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+[^86a-2]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021 (Renforcer l’attractivité de la Suisse pour les fondations), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 452](https://fedlex.data.admin.ch/eli/oc/2022/452), [FF 2021 485](https://fedlex.data.admin.ch/eli/fga/2021/485), [1169](https://fedlex.data.admin.ch/eli/fga/2021/1169)).
+[^86a-3]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+[^86a-4]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021 (Renforcer l’attractivité de la Suisse pour les fondations), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 452](https://fedlex.data.admin.ch/eli/oc/2022/452), [FF 2021 485](https://fedlex.data.admin.ch/eli/fga/2021/485), [1169](https://fedlex.data.admin.ch/eli/fga/2021/1169)).
+[^86a-5]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021 (Renforcer l’attractivité de la Suisse pour les fondations), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 452](https://fedlex.data.admin.ch/eli/oc/2022/452), [FF 2021 485](https://fedlex.data.admin.ch/eli/fga/2021/485), [1169](https://fedlex.data.admin.ch/eli/fga/2021/1169)).
+[^86a-6]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021 (Renforcer l’attractivité de la Suisse pour les fondations), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 452](https://fedlex.data.admin.ch/eli/oc/2022/452), [FF 2021 485](https://fedlex.data.admin.ch/eli/fga/2021/485), [1169](https://fedlex.data.admin.ch/eli/fga/2021/1169)).
 
-### III. Modifications accessoires de l’acte de fondation
+### IV. Modifications accessoires de l’acte de fondation
 
 #### Art. 86b
 
 [^86b-1]
 
-L’autorité de surveillance peut, après avoir entendu l’organe suprême de la fondation, apporter des modifications accessoires à l’acte de fondation lorsque celles-ci sont commandées par des motifs objectivement justifiés et qu’elles ne lèsent pas les droits de tiers.
+L’autorité de surveillance peut, après avoir entendu l’organe suprême de la fondation, apporter des modifications accessoires à l’acte de fondation lorsque celles-ci sont justifiées par des motifs objectifs et qu’elles ne lèsent pas les droits de tiers.
 
-[^86b-1]: Introduit par le ch. I de la LF du 8 oct. 2004 (Droit des fondations), en vigueur depuis le 1<sup>er</sup> janv. 2006 ([RO 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [FF 2003 7425](https://fedlex.data.admin.ch/eli/fga/2003/1402)[7463](https://fedlex.data.admin.ch/eli/fga/2003/1404)).
+[^86b-1]: Introduit par le ch. I de la LF du 8 oct. 2004 (Droit des fondations) ([RO 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [FF 2003 7425](https://fedlex.data.admin.ch/eli/fga/2003/1402)[7463](https://fedlex.data.admin.ch/eli/fga/2003/1404)). Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021 (Renforcer l’attractivité de la Suisse pour les fondations), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 452](https://fedlex.data.admin.ch/eli/oc/2022/452), [FF 2021 485](https://fedlex.data.admin.ch/eli/fga/2021/485), [1169](https://fedlex.data.admin.ch/eli/fga/2021/1169)).
+
+### V. Forme
+
+#### Art. 86c
+
+[^86c-1]
+
+L’autorité fédérale ou cantonale compétente ou l’autorité de surveillance rend une décision sur les modifications de l’acte de fondation demandées conformément aux art. 85 à 86*b*. Un acte authentique n’est pas nécessaire à cet effet.
+
+[^86c-1]: Introduit par le ch. I de la LF du 17 déc. 2021 (Renforcer l’attractivité de la Suisse pour les fondations), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 452](https://fedlex.data.admin.ch/eli/oc/2022/452), [FF 2021 485](https://fedlex.data.admin.ch/eli/fga/2021/485), [1169](https://fedlex.data.admin.ch/eli/fga/2021/1169)).
 
 ### E. Fondations de famille et fondations ecclésiastiques
 
@@ -1531,42 +1554,43 @@ L’autorité fédérale ou cantonale compétente prononce la dissolution de la 
 
 <sup>3</sup> Si les travailleurs versent des contributions à la fondation, ils participent à l’administration dans la mesure au moins de ces versements. Dans la mesure du possible, ils élisent eux-mêmes des représentants choisis dans le sein du personnel.[^89a-4]
 
-<sup>4</sup> ...[^89a-5]
+<sup>4</sup> …[^89a-5]
 
 <sup>5</sup> Les bénéficiaires peuvent exiger en justice des prestations de la fondation, lorsqu’ils lui ont versé des contributions ou que les dispositions régissant la fondation leur donnent un droit à des prestations.
 
 <sup>6</sup>
 
-Les fondations de prévoyance en faveur du personnel dont l’activité s’étend au domaine de la prévoyance vieillesse, survivants et invalidité et qui sont soumises à la loi du 17 décembre 1993 sur le libre-passage (LFLP)[^89a-6] sont en outre régies par les dispositions suivantes de la loi fédérale du 25 juin 1982 sur la prévoyance professionnelle vieillesse, survivants et invalidité (LPP)[^89a-7] sur:[^89a-8]
+Les fondations de prévoyance en faveur du personnel dont l’activité s’étend au domaine de la prévoyance vieillesse, survivants et invalidité et qui sont soumises à la loi du 17 décembre 1993 sur le libre passage (LFLP)[^89a-6] sont en outre régies par les dispositions de la loi fédérale du 25 juin 1982 sur la prévoyance professionnelle vieillesse, survivants et invalidité (LPP)[^89a-7] sur:[^89a-8]
 
 - 1\.[^89a-9] la définition et les principes de la prévoyance professionnelle et le salaire ou le revenu assuré (art. 1, 33*a* et 33*b*),
 - 2\.[^89a-10] l’assujettissement des personnes à l’AVS (art. 5, al. 1),
+- 2*a*.[^89a-11] la perception de la prestation de vieillesse (art. 13, al. 2, 13*a* et 13*b*),
 - 3\. les bénéficiaires de prestations de survivants (art. 20*a*),
-- 3*a*.[^89a-11] l’adaptation de la rente d’invalidité après le partage de la prévoyance professionnelle (art. 24, al. 5),
-- 3*b*.[^89a-12] le maintien provisoire de l’assurance et du droit aux prestations en cas de réduction ou de suppression de la rente de l’assurance-invalidité (art. 26*a*),
-- 4\.[^89a-13] l’adaptation à l’évolution des prix des prestations réglementaires (art. 36, al. 2 à 4),
-- [tab] 4*a*.[^89a-14] le consentement au versement de la prestation en capital (art. 37*a*),
-- 4*b*.[^89a-15] les mesures en cas de négligence de l’obligation d’entretien (art. 40),
+- 3*a*.[^89a-12] l’adaptation de la rente d’invalidité après le partage de la prévoyance professionnelle (art. 24, al. 5),
+- 3*b*.[^89a-13] le maintien provisoire de l’assurance et du droit aux prestations en cas de réduction ou de suppression de la rente de l’assurance-invalidité (art. 26*a*),
+- 4\.[^89a-14] l’adaptation à l’évolution des prix des prestations réglementaires (art. 36, al. 2 à 4),
+- 4*a*.[^89a-15] le consentement au versement de la prestation en capital (art. 37*a*),
+- 4*b*.[^89a-16] les mesures en cas de négligence de l’obligation d’entretien (art. 40),
 - 5\. la prescription des droits et la conservation des pièces (art. 41),
-- 5*a*.[^89a-16] l’utilisation, le traitement et la communication du numéro AVS (art. 48, al. 4, 85*a*, let. f, et 86*a*, al. 2, let. b<sup>bis</sup>),
+- 5*a*.[^89a-17] l’utilisation, le traitement et la communication du numéro AVS (art. 48, al. 4, 85*a*, let. f, et 86*a*, al. 2, let. b<sup>bis</sup>),
 - 6\. la responsabilité (art. 52),
-- 7\.[^89a-17] l’agrément et les tâches des organes de contrôle (art. 52*a* à 52*e*),
-- 8*.*[^89a-18] l’intégrité et la loyauté des responsables, les actes juridiques passés avec des personnes proches et les conflits d’intérêts (art. 51*b*, 51*c* et 53*a*),
+- 7\.[^89a-18] l’agrément et les tâches des organes de contrôle (art. 52*a* à 52*e*),
+- 8*.*[^89a-19] l’intégrité et la loyauté des responsables, les actes juridiques passés avec des personnes proches et les conflits d’intérêts (art. 51*b*, 51*c* et 53*a*),
 - 9\. la liquidation partielle ou totale (art. 53*b* à 53*d*),
-- 10\.[^89a-19] la résiliation de contrats (art. 53*e* et 53*f*),
-- 11\. le fonds de garantie (art. 56, al. 1, let. c, al. 2 à 5, art. 56*a*, 57 et 59),
-- 12\.[^89a-20] la surveillance et la haute surveillance (art. 61 à 62*a* et 64 à 64*c*),
-- 13\.[^89a-21] ...
-- 14\.[^89a-22] la sécurité financière (art. 65, al. 1, 3 et 4, 66, al. 4, 67 et 72*a* à 72*g*),
+- 10\.[^89a-20] la résiliation de contrats (art. 53*e* à 53*f*),
+- 11\.[^89a-21] le fonds de garantie (art. 56, al. 1, let. c et i, et 2 à 5, 56*a*, 57 et 59),
+- 12\.[^89a-22] la surveillance et la haute surveillance (art. 61 à 62*a* et 64 à 64*c*),
+- 13\.[^89a-23] …
+- 14\.[^89a-24] la sécurité financière (art. 65, al. 1, 3 et 4, 66, al. 4, 67 et 72*a* à 72*g*),
 - 15\. la transparence (art. 65*a*),
-- 16\. les réserves (art. 65*b*),
+- 16\.[^89a-25] les provisions et les réserves de fluctuation de valeur (art. 65*b*),
 - 17\. les contrats d’assurance entre institutions de prévoyance et institutions d’assurance (art. 68, al. 3 et 4),
-- 18\.[^89a-23] l’administration de la fortune (art. 71) et l’obligation de voter en qualité d’actionnaire (art. 71*a* et 71*b*);
+- 18\.[^89a-26] l’administration de la fortune (art. 71) et l’obligation de voter en qualité d’actionnaire (art. 71*a* et 71*b*);
 - 19\. le contentieux (art. 73 et 74),
 - 20\. les dispositions pénales (art. 75 à 79),
 - 21\. le rachat (art. 79*b*),
 - 22\. le salaire et le revenu assurable (art. 79*c*),
-- 23\. l’information des assurés (art. 86*b*).[^89a-24]
+- 23\. l’information des assurés (art. 86*b*).[^89a-27]
 
 <sup>7</sup>
 
@@ -1581,7 +1605,7 @@ Les fondations de prévoyance en faveur du personnel dont l’activité s’éte
 - 7\. la surveillance et la haute surveillance (art. 61 à 62*a* et 64 à 64*b*);
 - 8\. le contentieux (art. 73 et 74);
 - 9\. les dispositions pénales (art. 75 à 79);
-- 10\. le traitement fiscal (art. 80, 81, al. 1, et 83).[^89a-25]
+- 10\. le traitement fiscal (art. 80, 81, al. 1, et 83).[^89a-28]
 
 <sup>8</sup>
 
@@ -1589,7 +1613,7 @@ Les fondations de prévoyance visées à l’al. 7 sont en outre régies par les
 
 - 1\. elles administrent leur fortune de manière à garantir la sécurité des placements, un rendement raisonnable et à disposer des liquidités nécessaires à l’exécution de leurs tâches;
 - 2\. l’autorité de surveillance décide, sur demande du conseil de fondation, de la liquidation partielle des fonds patronaux de prévoyance à prestations discrétionnaires;
-- 3\. elles tiennent compte, par analogie, des principes de l’égalité de traitement et de l’adéquation.[^89a-26]
+- 3\. elles tiennent compte, par analogie, des principes de l’égalité de traitement et de l’adéquation.[^89a-29]
 
 [^89a-1]: Introduit par le ch. II de la LF du 21 mars 1958, en vigueur depuis le 1<sup>er</sup> juil. 1958 ([RO 1958 389](https://fedlex.data.admin.ch/eli/oc/1958/379_389_393); [FF 1956 II 845](https://fedlex.data.admin.ch/eli/fga/1956/2_825_845_)). Jusqu’à l’entrée en vigueur de la LF du 19 déc. 2008 (Protection de l’adulte, droit des personnes et droit de la filiation) le 1<sup>er</sup> janv. 2013 ([RO 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114)): art. 89<sup>bis</sup>.
 [^89a-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
@@ -1601,22 +1625,25 @@ Les fondations de prévoyance visées à l’al. 7 sont en outre régies par les
 [^89a-8]: Nouvelle teneur selon le ch. I de la LF du 25 sept. 2015 (Fondations de prévoyance en faveur du personnel), en vigueur depuis le 1<sup>er</sup> avr. 2016 ([RO 2016 935](https://fedlex.data.admin.ch/eli/oc/2016/163); [FF 2014 5929](https://fedlex.data.admin.ch/eli/fga/2014/1295)[6399](https://fedlex.data.admin.ch/eli/fga/2014/1500)).
 [^89a-9]: Nouvelle teneur selon le ch. II 1 de la LF du 11 déc. 2009 (Mesures destinées à faciliter la participation des travailleurs âgés au marché du travail), en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 4427](https://fedlex.data.admin.ch/eli/oc/2010/622); [FF 2007 5381](https://fedlex.data.admin.ch/eli/fga/2007/788)).
 [^89a-10]: Nouvelle teneur selon le ch. I de la LF du 25 sept. 2015 (Fondations de prévoyance en faveur du personnel), en vigueur depuis le 1<sup>er</sup> avr. 2016 ([RO 2016 935](https://fedlex.data.admin.ch/eli/oc/2016/163); [FF 2014 5929](https://fedlex.data.admin.ch/eli/fga/2014/1295)[6399](https://fedlex.data.admin.ch/eli/fga/2014/1500)).
-[^89a-11]: Introduit par l’annexe ch. 2 de la LF du 18 mars 2011 (6<sup>e</sup> révision AI, premier volet) ([RO 2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799); [FF 2010 1647](https://fedlex.data.admin.ch/eli/fga/2010/340)). Nouvelle teneur selon le ch. I de la LF du 19 juin 2015 (Partage de la prévoyance professionnelle en cas de divorce), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [FF 2013 4341](https://fedlex.data.admin.ch/eli/fga/2013/942)).
-[^89a-12]: Introduit par le ch. I de la LF du 19 juin 2015 (Partage de la prévoyance professionnelle en cas de divorce), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [FF 2013 4341](https://fedlex.data.admin.ch/eli/fga/2013/942)).
-[^89a-13]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 18 juin 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 4635](https://fedlex.data.admin.ch/eli/oc/2004/711); [FF 2003 5835](https://fedlex.data.admin.ch/eli/fga/2003/1054)).
-[^89a-14]: Introduit par le ch. I de la LF du 19 juin 2015 (Partage de la prévoyance professionnelle en cas de divorce), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [FF 2013 4341](https://fedlex.data.admin.ch/eli/fga/2013/942)).
-[^89a-15]: Introduit par le ch. I de la LF du 20 mars 2015 (Entretien de l’enfant), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728), [2020 5](https://fedlex.data.admin.ch/eli/oc/2020/3); [FF 2014 511](https://fedlex.data.admin.ch/eli/fga/2014/98)).
-[^89a-16]: Introduit par l’annexe ch. 1 de la LF du 23 juin 2006 (Nouveau numéro d’assuré AVS), en vigueur depuis le 1<sup>er</sup> déc. 2007 ([RO 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 515](https://fedlex.data.admin.ch/eli/fga/2006/52)).
-[^89a-17]: Nouvelle teneur selon le ch. II 1 de la LF du 19 mars 2010 (Réforme structurelle), en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5381](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+[^89a-11]: Introduit par l’annexe ch. 1 de la LF du 17 déc. 2021 (AVS 21), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5979](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^89a-12]: Introduit par l’annexe ch. 2 de la LF du 18 mars 2011 (6<sup>e</sup> révision AI, premier volet) ([RO 2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799); [FF 2010 1647](https://fedlex.data.admin.ch/eli/fga/2010/340)). Nouvelle teneur selon le ch. I de la LF du 19 juin 2015 (Partage de la prévoyance professionnelle en cas de divorce), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [FF 2013 4341](https://fedlex.data.admin.ch/eli/fga/2013/942)).
+[^89a-13]: Introduit par le ch. I de la LF du 19 juin 2015 (Partage de la prévoyance professionnelle en cas de divorce), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [FF 2013 4341](https://fedlex.data.admin.ch/eli/fga/2013/942)).
+[^89a-14]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 18 juin 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 4635](https://fedlex.data.admin.ch/eli/oc/2004/711); [FF 2003 5835](https://fedlex.data.admin.ch/eli/fga/2003/1054)).
+[^89a-15]: Introduit par le ch. I de la LF du 19 juin 2015 (Partage de la prévoyance professionnelle en cas de divorce), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [FF 2013 4341](https://fedlex.data.admin.ch/eli/fga/2013/942)).
+[^89a-16]: Introduit par le ch. I de la LF du 20 mars 2015 (Entretien de l’enfant), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728), [2020 5](https://fedlex.data.admin.ch/eli/oc/2020/3); [FF 2014 511](https://fedlex.data.admin.ch/eli/fga/2014/98)).
+[^89a-17]: Introduit par l’annexe ch. 1 de la LF du 23 juin 2006 (Nouveau numéro d’assuré AVS), en vigueur depuis le 1<sup>er</sup> déc. 2007 ([RO 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 515](https://fedlex.data.admin.ch/eli/fga/2006/52)).
 [^89a-18]: Nouvelle teneur selon le ch. II 1 de la LF du 19 mars 2010 (Réforme structurelle), en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5381](https://fedlex.data.admin.ch/eli/fga/2007/788)).
-[^89a-19]: Nouvelle teneur selon le ch. II de la LF du 20 déc. 2006 (Changement d’institution de prévoyance), en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1803](https://fedlex.data.admin.ch/eli/oc/2007/263); [FF 2005 5571](https://fedlex.data.admin.ch/eli/fga/2005/954)[5583](https://fedlex.data.admin.ch/eli/fga/2005/956)).
-[^89a-20]: Nouvelle teneur selon le ch. II 1 de la LF du 19 mars 2010 (Réforme structurelle), en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5381](https://fedlex.data.admin.ch/eli/fga/2007/788)).
-[^89a-21]: Abrogé par le ch. II 1 de la LF du 19 mars 2010 (Réforme structurelle), avec effet au 1<sup>er</sup> janv. 2012 ([RO 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5381](https://fedlex.data.admin.ch/eli/fga/2007/788)).
-[^89a-22]: Nouvelle teneur selon le ch. II 1 de la LF du 17 déc. 2010 (Financement des institutions de prévoyance de corporations de droit public), en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 3385](https://fedlex.data.admin.ch/eli/oc/2011/457); [FF 2008 7619](https://fedlex.data.admin.ch/eli/fga/2008/1439)).
-[^89a-23]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 19 juin 2020 (Droit de la société anonyme), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 353](https://fedlex.data.admin.ch/eli/fga/2017/112)).
-[^89a-24]: Introduit par le 1 de la LF du 25 juin 1982 sur la prévoyance professionnelle, vieillesse, survivants et invalidité ([RO 1983 797](https://fedlex.data.admin.ch/eli/oc/1983/797_797_797); [FF 1976 I 117](https://fedlex.data.admin.ch/eli/fga/1976/1_149_117_113)). Nouvelle teneur selon l’annexe ch. 1 de la LF du 3 oct. 2003 (1<sup>re</sup> révision LPP), ch. 6, 7, 10 à 12, 14 ( à l’exception de l’art. 66 al. 4), 15, 17 à 20 et 23 en vigueur depuis le 1<sup>er</sup> avr. 2004, ch. 3 à 5, 8 et 9 13 14 (art. 66 al. 4), 16 en vigueur depuis le 1<sup>er</sup> janv. 2005, ch. 1, 21 et 22 en vigueur depuis le 1<sup>er</sup> janv. 2006 ([RO 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2495](https://fedlex.data.admin.ch/eli/fga/2000/555)).
-[^89a-25]: Introduit par le ch. I de la LF du 25 sept. 2015 (Fondations de prévoyance en faveur du personnel), en vigueur depuis le 1<sup>er</sup> avr. 2016 ([RO 2016 935](https://fedlex.data.admin.ch/eli/oc/2016/163); [FF 2014 5929](https://fedlex.data.admin.ch/eli/fga/2014/1295)[6399](https://fedlex.data.admin.ch/eli/fga/2014/1500)).
-[^89a-26]: Introduit par le ch. I de la LF du 25 sept. 2015 (Fondations de prévoyance en faveur du personnel), en vigueur depuis le 1<sup>er</sup> avr. 2016 ([RO 2016 935](https://fedlex.data.admin.ch/eli/oc/2016/163); [FF 2014 5929](https://fedlex.data.admin.ch/eli/fga/2014/1295)[6399](https://fedlex.data.admin.ch/eli/fga/2014/1500)).
+[^89a-19]: Nouvelle teneur selon le ch. II 1 de la LF du 19 mars 2010 (Réforme structurelle), en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5381](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+[^89a-20]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 17 juin 2022 (Modernisation de la surveillance), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^89a-21]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 17 juin 2022 (Modernisation de la surveillance), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^89a-22]: Nouvelle teneur selon le ch. II 1 de la LF du 19 mars 2010 (Réforme structurelle), en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5381](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+[^89a-23]: Abrogé par le ch. II 1 de la LF du 19 mars 2010 (Réforme structurelle), avec effet au 1<sup>er</sup> janv. 2012 ([RO 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5381](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+[^89a-24]: Nouvelle teneur selon le ch. II 1 de la LF du 17 déc. 2010 (Financement des institutions de prévoyance de corporations de droit public), en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 3385](https://fedlex.data.admin.ch/eli/oc/2011/457); [FF 2008 7619](https://fedlex.data.admin.ch/eli/fga/2008/1439)).
+[^89a-25]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 17 juin 2022 (Modernisation de la surveillance), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^89a-26]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 19 juin 2020 (Droit de la société anonyme), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 353](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^89a-27]: Introduit par le 1 de la LF du 25 juin 1982 sur la prévoyance professionnelle, vieillesse, survivants et invalidité ([RO 1983 797](https://fedlex.data.admin.ch/eli/oc/1983/797_797_797); [FF 1976 I 117](https://fedlex.data.admin.ch/eli/fga/1976/1_149_117_113)). Nouvelle teneur selon l’annexe ch. 1 de la LF du 3 oct. 2003 (1<sup>re</sup> révision LPP), ch. 6, 7, 10 à 12, 14 ( à l’exception de l’art. 66 al. 4), 15, 17 à 20 et 23 en vigueur depuis le 1<sup>er</sup> avr. 2004, ch. 3 à 5, 8 et 9 13 14 (art. 66 al. 4), 16 en vigueur depuis le 1<sup>er</sup> janv. 2005, ch. 1, 21 et 22 en vigueur depuis le 1<sup>er</sup> janv. 2006 ([RO 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2495](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^89a-28]: Introduit par le ch. I de la LF du 25 sept. 2015 (Fondations de prévoyance en faveur du personnel), en vigueur depuis le 1<sup>er</sup> avr. 2016 ([RO 2016 935](https://fedlex.data.admin.ch/eli/oc/2016/163); [FF 2014 5929](https://fedlex.data.admin.ch/eli/fga/2014/1295)[6399](https://fedlex.data.admin.ch/eli/fga/2014/1500)).
+[^89a-29]: Introduit par le ch. I de la LF du 25 sept. 2015 (Fondations de prévoyance en faveur du personnel), en vigueur depuis le 1<sup>er</sup> avr. 2016 ([RO 2016 935](https://fedlex.data.admin.ch/eli/oc/2016/163); [FF 2014 5929](https://fedlex.data.admin.ch/eli/fga/2014/1295)[6399](https://fedlex.data.admin.ch/eli/fga/2014/1500)).
 
 ### Titre deuxième<sup>bis</sup>: Des fonds recueillis
 
@@ -1880,7 +1907,7 @@ Un époux peut demander l’annulation du mariage:
 - 1\. lorsqu’il était incapable de discernement pour une cause passagère lors de la célébration;
 - 2\. lorsqu’il a déclaré par erreur consentir à la célébration, soit qu’il n’ait pas voulu se marier, soit qu’il n’ait pas voulu épouser la personne qui est devenue son conjoint;
 - 3\. lorsqu’il a contracté mariage en ayant été à dessein induit en erreur au sujet de qualités personnelles essentielles de son conjoint.
-- 4\.[^107-1] ...
+- 4\.[^107-1] …
 
 [^107-1]: Abrogé par le ch. I 3 de la LF du 15 juin 2012 concernant les mesures de lutte contre les mariages forcés, avec effet au 1<sup>er</sup> juil. 2013 ([RO 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [FF 2011 2045](https://fedlex.data.admin.ch/eli/fga/2011/292)).
 
@@ -1940,7 +1967,7 @@ Un époux peut demander l’annulation du mariage:
 
 <sup>2</sup> Ils sont entendus, comme en cas d’accord complet, sur leur volonté de divorcer, sur les effets du divorce qui font l’objet d’un accord et sur leur décision de faire régler les autres effets par le juge.
 
-<sup>3</sup> ...[^112-1]
+<sup>3</sup> …[^112-1]
 
 [^112-1]: Abrogé par l’annexe 1 ch. II 3 du CPC du 19 déc. 2008, avec effet au 1<sup>er</sup> janv. 2011 ([RO 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6841](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
@@ -1986,7 +2013,7 @@ Un époux peut demander le divorce avant l’expiration du délai de deux ans, l
 
 <sup>1</sup> La séparation de corps peut être demandée aux mêmes conditions que le divorce.
 
-<sup>2</sup> ...[^117-1]
+<sup>2</sup> …[^117-1]
 
 <sup>3</sup> Le jugement prononçant la séparation de corps n’a pas d’incidences sur le droit de demander le divorce.
 
@@ -2067,13 +2094,17 @@ Les prétentions de prévoyance professionnelle acquises durant le mariage et ju
 [^123-1]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2015 (Partage de la prévoyance professionnelle en cas de divorce), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [FF 2013 4341](https://fedlex.data.admin.ch/eli/fga/2013/942)).
 [^123-2]: [RS 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
 
-### III. Partage en cas de perception d’une rente d’invalidité avant l’âge réglementaire de la retraite
+### III. Partage en cas de perception d’une rente d’invalidité avant l’âge de référence réglementaire
+
+[^book2-part1-tit4-chap3-lvlD-lvlIII-1]
+
+[^book2-part1-tit4-chap3-lvlD-lvlIII-1]: Nouvelle expression selon l’annexe ch. 1 de la LF du 17 déc. 2021 (AVS 21), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5979](https://fedlex.data.admin.ch/eli/fga/2019/2267)). Il n’a été tenu compte de cette mod. que dans les disp. mentionnées au RO.
 
 #### Art. 124
 
 [^124-1]
 
-<sup>1</sup> Si, au moment de l’introduction de la procédure de divorce, l’un des époux perçoit une rente d’invalidité et qu’il n’a pas encore atteint l’âge réglementaire de la retraite, le montant auquel il aurait droit en vertu de l’art. 2, al. 1<sup>ter</sup>, de la loi du 17 décembre 1993 sur le libre passage[^124-2] en cas de suppression de sa rente est considéré comme prestation de sortie.
+<sup>1</sup> Si, au moment de l’introduction de la procédure de divorce, l’un des époux perçoit une rente d’invalidité et qu’il n’a pas encore atteint l’âge de référence réglementaire, le montant auquel il aurait droit en vertu de l’art. 2, al. 1<sup>ter</sup>, de la loi du 17 décembre 1993 sur le libre passage[^124-2] en cas de suppression de sa rente est considéré comme prestation de sortie.
 
 <sup>2</sup> Les dispositions relatives au partage des prestations de sortie s’appliquent par analogie.
 
@@ -2082,13 +2113,13 @@ Les prétentions de prévoyance professionnelle acquises durant le mariage et ju
 [^124-1]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2015 (Partage de la prévoyance professionnelle en cas de divorce), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [FF 2013 4341](https://fedlex.data.admin.ch/eli/fga/2013/942)).
 [^124-2]: [RS 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
 
-### IV. Partage en cas de perception d’une rente d’invalidité après l’âge réglementaire de la retraite ou d’une rente de vieillesse
+### IV. Partage en cas de perception d’une rente d’invalidité après l’âge de référence réglementaire ou d’une rente de vieillesse
 
 #### Art. 124a
 
 [^124a-1]
 
-<sup>1</sup> Si, au moment de l’introduction de la procédure de divorce, l’un des époux perçoit une rente d’invalidité alors qu’il a déjà atteint l’âge réglementaire de la retraite ou perçoit une rente de vieillesse, le juge apprécie les modalités du partage. Il tient compte en particulier de la durée du mariage et des besoins de prévoyance de chacun des époux.
+<sup>1</sup> Si, au moment de l’introduction de la procédure de divorce, l’un des époux perçoit une rente d’invalidité alors qu’il a déjà atteint l’âge de référence réglementaire ou perçoit une rente de vieillesse, le juge apprécie les modalités du partage. Il tient compte en particulier de la durée du mariage et des besoins de prévoyance de chacun des époux.
 
 <sup>2</sup> La part de rente attribuée au conjoint créancier est convertie en rente viagère. L’institution de prévoyance du conjoint débiteur lui verse cette dernière ou la transfère dans sa prévoyance professionnelle.
 
@@ -2096,7 +2127,7 @@ Les prétentions de prévoyance professionnelle acquises durant le mariage et ju
 
 Le Conseil fédéral règle:
 
-- [tab] 1. la conversion technique de la part de rente attribuée au conjoint créancier en une rente viagère;
+- 1\. la conversion technique de la part de rente attribuée au conjoint créancier en une rente viagère;
 - 2\. la manière de procéder lorsque les prestations de vieillesse sont différées ou que la rente d’invalidité est réduite pour cause de surindemnisation.
 
 [^124a-1]: Introduit par le ch. I de la LF du 19 juin 2015 (Partage de la prévoyance professionnelle en cas de divorce), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [FF 2013 4341](https://fedlex.data.admin.ch/eli/fga/2013/942)).
@@ -2621,7 +2652,7 @@ Il y a notamment justes motifs:
 
 <sup>3</sup> Lorsqu’un époux est incapable de discernement de manière durable, son représentant légal peut demander que la séparation de biens soit prononcée pour ce motif également.
 
-### 2. ...
+### 2. …
 
 #### Art. 186
 
@@ -2663,7 +2694,7 @@ Lorsqu’un époux vit sous un régime de communauté et que sa part est saisie 
 
 <sup>1</sup> La demande est dirigée contre les deux époux.
 
-<sup>2</sup> ...[^190-1]
+<sup>2</sup> …[^190-1]
 
 [^190-1]: Abrogé par l’annexe ch. 2 de la LF du 24 mars 2000 sur les fors, avec effet au 1<sup>er</sup> janv. 2001 ([RO 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); FF **1999** 2591).
 
@@ -2689,7 +2720,7 @@ Les époux procèdent à la liquidation consécutive à la séparation de biens 
 
 <sup>2</sup> L’époux auquel ces biens ont passé est personnellement tenu de payer lesdits créanciers, mais il peut se libérer de sa responsabilité dans la mesure où il établit que les biens reçus ne suffisent pas.
 
-### E. ...
+### E. …
 
 #### Art. 194
 
@@ -2845,7 +2876,7 @@ Sont réunis aux acquêts, en valeur:
 - 1\. les biens qui en faisaient partie et dont l’époux a disposé par libéralités entre vifs sans le consentement de son conjoint dans les cinq années antérieures à la dissolution du régime, à l’exception des présents d’usage;
 - 2\. les aliénations de biens d’acquêts qu’un époux a faites pendant le régime dans l’intention de compromettre la participation de son conjoint.
 
-<sup>2</sup> ...[^208-1]
+<sup>2</sup> …[^208-1]
 
 [^208-1]: Abrogé par l’annexe 1 ch. II 3 du CPC du 19 déc. 2008, avec effet au 1<sup>er</sup> janv. 2011 ([RO 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6841](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
@@ -3272,7 +3303,7 @@ Lorsqu’un bien est en copropriété, un époux peut, à la dissolution du rég
 [^252-1]: Nouvelle teneur selon le ch. I 1 de la LF du 25 juin 1976, en vigueur depuis le 1<sup>er</sup> janv. 1978 ([RO 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
 [^252-2]: Nouvelle teneur selon le ch. I de la LF du 18 déc. 2020 (Mariage pour tous), en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 8127](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1223](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
-### B. ...
+### B. …
 
 #### Art. 253
 
@@ -3704,7 +3735,7 @@ Il peut être fait abstraction du consentement d’un des parents lorsqu’il es
 
 <sup>2</sup> Dans les autres cas, c’est au moment de l’adoption qu’une décision sera prise à ce sujet.
 
-<sup>3</sup> ...[^265d-3]
+<sup>3</sup> …[^265d-3]
 
 [^265d-1]: Introduit par le ch. I 1 de la LF du 30 juin 1972, en vigueur depuis le 1<sup>er</sup> avr. 1973 ([RO 1972 2873](https://fedlex.data.admin.ch/eli/oc/1972/2819_2873_2653); [FF 1971 I 1222](https://fedlex.data.admin.ch/eli/fga/1971/1_1200_1222_85)).
 [^265d-2]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2016 (Droit de l’adoption), en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 835](https://fedlex.data.admin.ch/eli/fga/2015/94)).
@@ -3810,7 +3841,7 @@ Le droit de cité de l’enfant mineur est déterminé par les dispositions rela
 
 <sup>2</sup> L’enquête doit porter notamment sur la personnalité et la santé du ou des adoptants et de l’enfant, leurs relations, l’aptitude du ou des adoptants à éduquer l’enfant, leur situation économique, leurs mobiles et les conditions familiales, ainsi que sur l’évolution du lien nourricier.[^268a-2]
 
-<sup>3</sup> ...[^268a-3]
+<sup>3</sup> …[^268a-3]
 
 [^268a-1]: Introduit par le ch. I 1 de la LF du 30 juin 1972, en vigueur depuis le 1<sup>er</sup> avr. 1973 ([RO 1972 2873](https://fedlex.data.admin.ch/eli/oc/1972/2819_2873_2653); [FF 1971 I 1222](https://fedlex.data.admin.ch/eli/fga/1971/1_1200_1222_85)).
 [^268a-2]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2016 (Droit de l’adoption), en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 835](https://fedlex.data.admin.ch/eli/fga/2015/94)).
@@ -3972,7 +4003,7 @@ L’action doit être intentée dans les six mois à compter du jour où le moti
 
 <sup>3</sup> Le Conseil fédéral édicte les dispositions d’exécution; il règle en outre, s’agissant des conditions d’autorisation et de la surveillance, la collaboration avec les autorités cantonales compétentes en matière de placement d’enfants en vue d’adoption.
 
-<sup>4</sup> ...[^269c-3]
+<sup>4</sup> …[^269c-3]
 
 [^269c-1]: Introduit par le ch. I 1 de la LF du 30 juin 1972 ([RO 1972 2873](https://fedlex.data.admin.ch/eli/oc/1972/2819_2873_2653); [FF 1971 I 1222](https://fedlex.data.admin.ch/eli/fga/1971/1_1200_1222_85)). Nouvelle teneur selon l’annexe ch. 2 de la LF du 22 juin 2001 relative à la Conv. de La Haye sur l’adoption et aux mesures de protection de l’enfant en cas d’adoption internationale, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3988](https://fedlex.data.admin.ch/eli/oc/2002/639); [FF 1999 5129](https://fedlex.data.admin.ch/eli/fga/1999/1_5795_5129_4799)).
 [^269c-2]: Nouvelle teneur selon le ch. I 2 de la LF du 19 déc. 2008 (Protection de l’adulte, droit des personnes et droit de la filiation), en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6635](https://fedlex.data.admin.ch/eli/fga/2006/899)).
@@ -4206,12 +4237,12 @@ Les père et mère et l’enfant se doivent mutuellement l’aide, les égards e
 
 <sup>1</sup> L’enfant peut agir contre son père et sa mère, ou contre les deux ensemble, afin de leur réclamer l’entretien pour l’avenir et pour l’année qui précède l’ouverture de l’action.
 
-<sup>2</sup> et <sup>3</sup> ...[^279-2]
+<sup>2</sup> et <sup>3</sup> …[^279-2]
 
 [^279-1]: Nouvelle teneur selon le ch. I 1 de la LF du 25 juin 1976, en vigueur depuis le 1<sup>er</sup> janv. 1978 ([RO 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
 [^279-2]: Abrogés par l’annexe ch. 2 de la LF du 24 mars 2000 sur les fors, avec effet au 1<sup>er</sup> janv. 2001 ([RO 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); FF **1999** 2591).
 
-### II. et III ...
+### II. et III …
 
 #### Art. 280 à 284
 
@@ -5902,7 +5933,9 @@ Lorsque l’institution d’une curatelle paraît manifestement disproportionné
 
 <sup>3</sup> Sans limiter l’exercice des droits civils de la personne concernée, l’autorité de protection de l’adulte peut la priver de la faculté d’accéder à certains éléments de son patrimoine.
 
-<sup>4</sup> Si l’autorité de protection de l’adulte prive la personne concernée de la faculté de disposer d’un immeuble, elle en fait porter la mention au registre foncier.
+<sup>4</sup> …[^395-1]
+
+[^395-1]: Abrogé par le ch. I de la LF du 16 déc. 2016 (Communication des mesures de protection de l’adulte), avec effet au 1<sup>er</sup> janv. 2024 ([RO 2023 84](https://fedlex.data.admin.ch/eli/oc/2023/84); [FF 2016 4979](https://fedlex.data.admin.ch/eli/fga/2016/1115), [4993](https://fedlex.data.admin.ch/eli/fga/2016/1117)).
 
 ### C. Curatelle de coopération
 
@@ -6497,10 +6530,48 @@ Si nécessaire, l’autorité de protection de l’adulte ordonne la représenta
 
 #### Art. 449c
 
-L’autorité de protection de l’adulte communique à l’office de l’état civil:
+[^449c-1]
 
-- 1\. tout placement d’une personne sous curatelle de portée générale en raison d’une incapacité durable de discernement;
-- 2\. tout mandat pour cause d’inaptitude dont fait l’objet une personne devenue durablement incapable de discernement.
+<sup>1</sup>
+
+Quand elle ordonne, modifie ou lève une mesure, l’autorité de protection de l’adulte communique immédiatement sa décision aux autorités suivantes dès que celle-ci est exécutoire:
+
+- 1\.
+
+  à l’office de l’état civil:
+
+  - a. tout placement d’une personne sous curatelle de portée générale,
+  - b. toute mesure qui rend nécessaire le consentement du représentant légal au sens de l’art. 260, al. 2, ou
+  - c. tout mandat pour cause d’inaptitude mis en oeuvre pour une personne devenue durablement incapable de discernement;
+
+- 2\.
+
+  à la commune du domicile:
+
+  - a. tout placement d’une personne sous curatelle, ou
+  - b. tout mandat pour cause d’inaptitude mis en œuvre pour une personne devenue durablement incapable de discernement;
+
+- 3\.
+
+  à l’office des poursuites du domicile de la personne concernée:
+
+  - a. tout placement d’une personne mineure sous tutelle ou sous la curatelle prévue à l’art. 325,
+  - b. tout placement d’une personne majeure sous une curatelle qui confère des pouvoirs de gestion du patrimoine au curateur, prive la personne concernée de l’exercice de ses droits civils ou restreint cet exercice, ou
+  - c. tout mandat pour cause d’inaptitude mis en oeuvre pour une personne durablement incapable de discernement;
+
+- 4\.
+
+  à l’autorité d’établissement prévue par la loi du 22 juin 2001 sur les documents d’identité[^449c-2]:
+
+  - a. tout placement d’une personne mineure sous tutelle ou toute limitation de l’autorité parentale affectant la faculté de demander l’établissement d’un document d’identité,
+  - b. tout placement d’une personne majeure sous une curatelle qui restreint sa faculté de demander l’établissement d’un document d’identité;
+
+- 5\. à l’office du registre foncier, sous la forme d’une réquisition d’annotation tout placement d’une personne sous une curatelle qui restreint la faculté de disposer d’un immeuble ou qui l’en prive.
+
+<sup>2</sup> En cas de changement de l’autorité de protection de l’adulte compétente, il incombe à la nouvelle autorité de communiquer les mesures dont la personne concernée fait l’objet.
+
+[^449c-1]: Nouvelle teneur selon ch. I de la LF du 16 déc. 2016 (Communication des mesures de protection de l’adulte), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 84](https://fedlex.data.admin.ch/eli/oc/2023/84); [FF 2016 4979](https://fedlex.data.admin.ch/eli/fga/2016/1115), [4993](https://fedlex.data.admin.ch/eli/fga/2016/1117)).
+[^449c-2]: [RS 143.1](https://fedlex.data.admin.ch/eli/cc/2002/441)
 
 ### Sous-chapitre II: Devant l’instance judiciaire de recours
 
@@ -6596,7 +6667,9 @@ En outre, si les cantons n’en disposent pas autrement, les dispositions de la 
 
 <sup>1</sup> L’autorité de protection de l’adulte est tenue au secret, à moins que des intérêts prépondérants ne s’y opposent.
 
-<sup>2</sup> Toute personne dont l’intérêt est rendu vraisemblable peut exiger de l’autorité de protection de l’adulte qu’elle lui indique si une personne déterminée fait l’objet d’une mesure de protection et quels en sont les effets.
+<sup>2</sup> Toute personne dont l’intérêt est rendu vraisemblable peut exiger de l’autorité de protection de l’adulte qu’elle lui indique si une personne déterminée fait l’objet d’une mesure de protection et quels en sont les effets. Le Conseil fédéral veille à ce que les informations soient transmises de manière simple, rapide et unifiée. Il édicte une ordonnance à cet effet.[^451-1]
+
+[^451-1]: 2<sup>e</sup> et 3<sup>e</sup> phrases introduites par le ch. I de la LF du 16 déc. 2016 (Communication des mesures de protection de l’adulte), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 84](https://fedlex.data.admin.ch/eli/oc/2023/84); [FF 2016 4979](https://fedlex.data.admin.ch/eli/fga/2016/1115), [4993](https://fedlex.data.admin.ch/eli/fga/2016/1117)).
 
 ### B. Effet des mesures à l’égard des tiers
 
@@ -6737,7 +6810,7 @@ Le conjoint ou le partenaire enregistré survivant a droit:[^462-2]
 
 [^463464-1]: Abrogés par le ch. I 2 de la LF du 5 oct. 1984, avec effet au 1<sup>er</sup> janv. 1988 ([RO 1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122); [FF 1979 II 1179](https://fedlex.data.admin.ch/eli/fga/1979/2_1191_1179_1119)).
 
-### C. ...
+### C. …
 
 #### Art. 465
 
@@ -7537,7 +7610,7 @@ Le renonçant obligé par la réduction à restituer tout ou partie des prestati
 
 <sup>1</sup> La succession s’ouvre au dernier domicile du défunt, pour l’ensemble des biens.
 
-<sup>2</sup> ...[^538-1]
+<sup>2</sup> …[^538-1]
 
 [^538-1]: Abrogé par l’annexe ch. 2 de la LF du 24 mars 2000 sur les fors, avec effet au 1<sup>er</sup> janv. 2001 ([RO 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); FF **1999** 2591).
 
@@ -7678,7 +7751,7 @@ Sont indignes d’être héritiers ou d’acquérir par disposition pour cause d
 
 <sup>2</sup> Ces mesures sont notamment, dans les cas prévus par la loi, l’apposition des scellés, l’inventaire, l’administration d’office et l’ouverture des testaments.
 
-<sup>3</sup> ...[^551-2]
+<sup>3</sup> …[^551-2]
 
 [^551-1]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 24 mars 2000 sur les fors, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); FF **1999** 2591).
 [^551-2]: Abrogé par l’annexe ch. 2 de la LF du 24 mars 2000 sur les fors, avec effet au 1<sup>er</sup> janv. 2001 ([RO 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); FF **1999** 2591).
@@ -7789,7 +7862,7 @@ L’autorité ordonne l’administration d’office de la succession:
 
 <sup>3</sup> L’effet de l’acquisition par les héritiers institués remonte au jour du décès du disposant et les héritiers légaux sont tenus de leur rendre la succession selon les règles applicables au possesseur.
 
-### II ...
+### II …
 
 #### Art. 561
 
@@ -8019,7 +8092,7 @@ La répudiation du legs profite à celui qui le doit, si la disposition ne rév�
 
 <sup>1</sup> Pendant l’inventaire, les dettes de la succession ne peuvent faire l’objet d’aucune poursuite.
 
-<sup>2</sup> ...[^586-1]
+<sup>2</sup> …[^586-1]
 
 <sup>3</sup> Sauf les cas d’urgence, les procès en cours sont suspendus et il n’en peut être intenté de nouveaux.
 
@@ -8135,7 +8208,7 @@ La liquidation des successions insolvables se fait par l’office selon les règ
 
 <sup>1</sup> L’action en pétition d’hérédité appartient à quiconque se croit autorisé à faire valoir, comme héritier légal ou institué, sur une succession ou sur des biens qui en dépendent, des droits préférables à ceux du possesseur.
 
-<sup>2</sup> ...[^598-1]
+<sup>2</sup> …[^598-1]
 
 [^598-1]: Abrogé par l’annexe 1 ch. II 3 du CPC du 19 déc. 2008, avec effet au 1<sup>er</sup> janv. 2011 ([RO 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6841](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
@@ -8352,7 +8425,7 @@ Les immeubles doivent être imputés sur les parts héréditaires à la valeur v
 
 <sup>1</sup> Lorsque les héritiers ne peuvent se mettre d’accord sur le prix d’attribution, il est fixé par des experts officiels.[^618-1]
 
-<sup>2</sup> ...[^618-2]
+<sup>2</sup> …[^618-2]
 
 [^618-1]: Nouvelle teneur selon l’annexe 1 ch. II 3 du CPC du 19 déc. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6841](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 [^618-2]: Abrogé par le ch. I 1 de la LF du 6 oct. 1972, avec effet au 15 fév. 1973 ([RO 1973 93](https://fedlex.data.admin.ch/eli/oc/1973/93_93_99); [FF 1970 I 813](https://fedlex.data.admin.ch/eli/fga/1970/1_805_813_601). [1971 I 753](https://fedlex.data.admin.ch/eli/fga/1971/1__753_)).
@@ -8709,7 +8782,7 @@ Une décision prise à la majorité de tous les copropriétaires est nécessaire
 
 [^649a-1]
 
-Le règlement d’utilisation et d’administration convenu par les copropriétaires, les mesures administratives prises par eux, de même que les décisions et ordonnances judiciaires, sont aussi opposables à l’ayant cause d’un copropriétaire et à l’acquéreur d’un droit réel sur une part de copropriété.
+<sup>1</sup> Le règlement d’utilisation et d’administration convenu par les copropriétaires, les mesures administratives prises par eux, de même que les décisions et ordonnances judiciaires, sont aussi opposables à l’ayant cause d’un copropriétaire et à l’acquéreur d’un droit réel sur une part de copropriété.
 
 <sup>2</sup> Ils peuvent être mentionnés au registre foncier en cas de copropriété d’un immeuble.[^649a-2]
 
@@ -9252,7 +9325,7 @@ Lorsque, par l’exploitation licite de son fonds, notamment par des travaux de 
 
 <sup>2</sup> Le propriétaire d’un fonds grevé d’un droit de superficie distinct et permanent a également un droit de préemption légal contre tout acquéreur du droit de superficie; le superficiaire a le même droit de préemption contre tout acquéreur du fonds, dans la mesure où le fonds est mis à contribution par l’exercice du droit de superficie.
 
-<sup>3</sup> ...[^682-3]
+<sup>3</sup> …[^682-3]
 
 [^682-1]: Nouvelle teneur selon le ch. I de la LF du 19 déc. 1963, en vigueur depuis le 1<sup>er</sup> janv. 1965 ([RO 1964 989](https://fedlex.data.admin.ch/eli/oc/1964/993_989_1009); [FF 1962 II 1445](https://fedlex.data.admin.ch/eli/fga/1962/2_1461_1445_)).
 [^682-2]: Nouvelle teneur selon le ch. I de la LF du 4 oct. 1991, en vigueur depuis le 1<sup>er</sup> janv. 1994 ([RO 1993 1404](https://fedlex.data.admin.ch/eli/oc/1993/1404_1404_1404); [FF 1988 III 889](https://fedlex.data.admin.ch/eli/fga/1988/3_953_889_821)).
@@ -10137,7 +10210,7 @@ Les droits de passage, tels que le passage à pied ou à char, ou en saison mort
 
 <sup>2</sup> Il a cette faculté, même si l’assiette primitive de la servitude figure au registre foncier.
 
-<sup>3</sup> ...[^742-1]
+<sup>3</sup> …[^742-1]
 
 [^742-1]: Abrogé par le ch. I 1 de la LF du 11 déc. 2009 (Cédule hypothécaire de registre et droits réels), avec effet au 1<sup>er</sup> janv. 2012 ([RO 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 5015](https://fedlex.data.admin.ch/eli/fga/2007/756)).
 
@@ -10187,7 +10260,7 @@ Les droits de passage, tels que le passage à pied ou à char, ou en saison mort
 
 <sup>2</sup> Les règles concernant la propriété sont applicables, sauf dispositions contraires, à l’acquisition de l’usufruit tant mobilier qu’immobilier et à l’inscription.
 
-### 2. ...
+### 2. …
 
 #### Art. 747
 
@@ -11051,7 +11124,7 @@ Le gage immobilier garantit au créancier:
 
 - 1\. le capital;
 - 2\. les frais de poursuite et les intérêts moratoires;
-- [tab] 3.[^818-1] les intérêts de trois années échus au moment de l’ouverture de la faillite ou de la réquisition de vente et ceux qui ont couru depuis la dernière échéance; la cédule hypothécaire ne garantit au créancier que les intérêts effectivement dus.
+- 3\.[^818-1] les intérêts de trois années échus au moment de l’ouverture de la faillite ou de la réquisition de vente et ceux qui ont couru depuis la dernière échéance; la cédule hypothécaire ne garantit au créancier que les intérêts effectivement dus.
 
 <sup>2</sup> Le taux primitif de l’intérêt ne peut dans la suite être porté à plus du 5 % au préjudice des créanciers postérieurs.
 
@@ -11850,11 +11923,11 @@ Ceux qui font métier d’acheter sous pacte de réméré sont assimilés aux pr
 
 <sup>1</sup> La législation cantonale peut établir d’autres règles pour l’exercice de la profession de prêteur sur gages.
 
-<sup>2</sup> ...[^915-1]
+<sup>2</sup> …[^915-1]
 
 [^915-1]: Abrogé par le ch. II 21 de la LF du 15 déc. 1989 relative à l’approbation d’actes législatifs des cantons par la Confédération, avec effet au 1<sup>er</sup> fév. 1991 ([RO 1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362); [FF 1988 II 1293](https://fedlex.data.admin.ch/eli/fga/1988/2_1333_1293_1149)).
 
-### Chapitre IV ...
+### Chapitre IV …
 
 #### Art. 916 à 918
 
@@ -12122,7 +12195,7 @@ Sont immatriculés comme immeubles au registre foncier:
 
 <sup>2</sup> Lorsqu’un immeuble immatriculé se transforme en immeuble non soumis à l’immatriculation, il est éliminé du registre foncier.
 
-<sup>3</sup> ...[^944-1]
+<sup>3</sup> …[^944-1]
 
 [^944-1]: Abrogé par le ch. I de la LF du 4 oct. 1991, avec effet au 1<sup>er</sup> janv. 1994 ([RO 1993 1404](https://fedlex.data.admin.ch/eli/oc/1993/1404_1404_1404); [FF 1988 III 889](https://fedlex.data.admin.ch/eli/fga/1988/3_953_889_821)).
 
@@ -13143,7 +13216,7 @@ Les époux qui avaient adopté par contrat de mariage le régime de la séparati
 Les contrats de mariage conclus avant l’entrée en vigueur de la loi fédérale du 5 octobre 1984 et qui ne doivent produire effet que sous le nouveau droit ne sont pas soumis à l’approbation de l’autorité tutélaire[^u1-10d-2].
 
 [^u1-10d-1]: Introduit par le ch. I 2 de la LF du 5 oct. 1984, en vigueur depuis le 1<sup>er</sup> janv. 1988 ([RO 1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122)[153](https://fedlex.data.admin.ch/eli/oc/1986/153_153_153)art. 1<sup>;</sup> [FF 1979 II 1179](https://fedlex.data.admin.ch/eli/fga/1979/2_1191_1179_1119)).
-[^u1-10d-2]: Actuellement : autorité de protection de l’adulte.
+[^u1-10d-2]: Actuellement: autorité de protection de l’adulte.
 
 ### f. Registre des régimes matrimoniaux
 
@@ -13544,7 +13617,7 @@ La dénonciation des créances garanties par des gages immobiliers et le transfe
 
 [^u1-30-1]: Nouvelle teneur selon le ch. II 21 de la LF du 15 déc. 1989 relative à l’approbation d’actes législatifs des cantons par la Confédération, en vigueur depuis le 1<sup>er</sup> fév. 1991 ([RO 1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362); [FF 1988 II 1293](https://fedlex.data.admin.ch/eli/fga/1988/2_1333_1293_1149)).
 
-### 8. ...
+### 8. …
 
 #### Art. 31 et 32
 
@@ -13560,7 +13633,7 @@ La dénonciation des créances garanties par des gages immobiliers et le transfe
 
 <sup>2</sup> Le présent code s’applique dès son entrée en vigueur aux gages immobiliers pour lesquels l’assimilation a été prévue.
 
-<sup>3</sup> ...[^u1-33-1]
+<sup>3</sup> …[^u1-33-1]
 
 [^u1-33-1]: Abrogé par le ch. II 21 de la LF du 15 déc. 1989 relative à l’approbation d’actes législatifs des cantons par la Confédération, avec effet au 1<sup>er</sup> fév. 1991 ([RO 1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362); [FF 1988 II 1293](https://fedlex.data.admin.ch/eli/fga/1988/2_1333_1293_1149)).
 
@@ -13631,14 +13704,14 @@ La possession est régie par le présent code dès l’entrée en vigueur de cel
 
 <sup>1</sup> Le Conseil fédéral fixe le calendrier de l’introduction du registre foncier après consultation des cantons. Il peut déléguer cette compétence au département ou à l’office compétent.[^u1-38-1]
 
-<sup>2</sup> ...[^u1-38-2]
+<sup>2</sup> …[^u1-38-2]
 
 [^u1-38-1]: Nouvelle teneur selon l’annexe ch. II de la LF du 5 oct. 2007 sur la géoinformation, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2793](https://fedlex.data.admin.ch/eli/oc/2008/388); [FF 2006 7407](https://fedlex.data.admin.ch/eli/fga/2006/982)).
 [^u1-38-2]: Abrogé par l’annexe ch. II de la LF du 5 oct. 2007 sur la géoinformation, avec effet au 1<sup>er</sup> juil. 2008 ([RO 2008 2793](https://fedlex.data.admin.ch/eli/oc/2008/388); [FF 2006 7407](https://fedlex.data.admin.ch/eli/fga/2006/982)).
 
 ### 2. Mensuration officielle
 
-### a. ...
+### a. …
 
 #### Art. 39
 
@@ -13658,7 +13731,7 @@ La possession est régie par le présent code dès l’entrée en vigueur de cel
 
 #### Art. 41
 
-<sup>1</sup> ...[^u1-41-1]
+<sup>1</sup> …[^u1-41-1]
 
 <sup>2</sup> La mensuration du sol et l’introduction du registre foncier pourront avoir lieu successivement dans les différentes parties du canton.
 
@@ -13845,7 +13918,7 @@ Les concessions octroyées sur des eaux publiques pour trente ans au moins ou po
 
 [^u1-56-1]: Voir actuellement l’art. 59 de la LF du 22 déc. 1916 sur l’utilisation des forces hydrauliques ([RS 721.80](https://fedlex.data.admin.ch/eli/cc/33/189_191_191)).
 
-### F. à H. ...
+### F. à H. …
 
 #### Art. 57
 
@@ -13861,7 +13934,7 @@ Les concessions octroyées sur des eaux publiques pour trente ans au moins ou po
 
 La loi fédérale du 11 avril 1889 sur la poursuite pour dettes et la faillite[^u1-58-2] est modifiée comme suit à partir de l’entrée en vigueur du présent code:
 
-...[^u1-58-3]
+…[^u1-58-3]
 
 [^u1-58-1]: Nouvelle numérotation des quatre derniers articles, par suite de l’abrogation des art. 58 et 59 du texte original, selon le ch. I des disp. trans. CO, en vigueur depuis le 1<sup>er</sup> janv. 1912 ([RO 27 321](https://fedlex.data.admin.ch/eli/oc/27/317_321_377); RS **2** 189; [FF 1905 II 1](https://fedlex.data.admin.ch/eli/fga/1905/2_1_1_), [1909 III 747](https://fedlex.data.admin.ch/eli/fga/1909/3__747_), [1911 I 695](https://fedlex.data.admin.ch/eli/fga/1911/1__695_)).
 [^u1-58-2]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
@@ -13875,11 +13948,11 @@ La loi fédérale du 11 avril 1889 sur la poursuite pour dettes et la faillite[^
 
 <sup>1</sup> La loi fédérale du 25 juin 1891 sur les rapports de droit civil des citoyens établis ou en séjour[^u1-59-2] continue à régir les Suisses à l’étranger et les étrangers en Suisse, ainsi que les conflits de lois cantonales.
 
-<sup>2</sup> ...[^u1-59-3]
+<sup>2</sup> …[^u1-59-3]
 
 <sup>3</sup> La loi fédérale du 25 juin 1891[^u1-59-4] est complétée comme suit:
 
-...[^u1-59-5]
+…[^u1-59-5]
 
 [^u1-59-1]: Nouvelle numérotation des quatre derniers articles, par suite de l’abrogation des art. 58 et 59 du texte original, selon le ch. I des disp. trans. CO, en vigueur depuis le 1<sup>er</sup> janv. 1912 ([RO 27 321](https://fedlex.data.admin.ch/eli/oc/27/317_321_377); RS **2** 189; [FF 1905 II 1](https://fedlex.data.admin.ch/eli/fga/1905/2_1_1_), [1909 III 747](https://fedlex.data.admin.ch/eli/fga/1909/3__747_), [1911 I 695](https://fedlex.data.admin.ch/eli/fga/1911/1__695_)).
 [^u1-59-2]: [RS **2** 727; [RO 1972 2873](https://fedlex.data.admin.ch/eli/oc/1972/2819_2873_2653)ch. II 1, [1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237)ch. II 1, [1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122)ch. II 1. [RO 1988 1776](https://fedlex.data.admin.ch/eli/oc/1988/1776_1776_1776)annexe ch. I let. a]. Voir actuellement la LF du 18 déc. 1987 sur le droit international privé ([RS 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)).
@@ -14642,7 +14715,7 @@ Chaque époux a droit aux revenus de ses biens et au produit de son travail.
 
 #### Art. 247
 
-<sup>2</sup> Les époux peuvent stipuler, par contrat de mariage, qu’une partie des biens de la femme sera constituée en dot au profit du mari pour subvenir aux charges du mariage.
+<sup>1</sup> Les époux peuvent stipuler, par contrat de mariage, qu’une partie des biens de la femme sera constituée en dot au profit du mari pour subvenir aux charges du mariage.
 
 <sup>2</sup> Les biens ainsi abandonnés au mari sont soumis, sauf convention contraire, aux règles de l’union des biens.
 

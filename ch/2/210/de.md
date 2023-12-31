@@ -4,18 +4,18 @@ title: Schweizerisches Zivilgesetzbuch vom 10. Dezember 1907
 short: ZGB
 eli: "https://fedlex.data.admin.ch/eli/cc/24/233_245_233"
 language: de
-version: 2023-09-01
+version: 2024-01-01
 adopted: 1907-12-10
 in_force: 1912-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/24/233_245_233/20230901/de/xml/fedlex-data-admin-ch-eli-cc-24-233_245_233-20230901-de-xml-13.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/24/233_245_233/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/24/233_245_233/20240101/de/xml/fedlex-data-admin-ch-eli-cc-24-233_245_233-20240101-de-xml-26.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/24/233_245_233/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Schweizerisches Zivilgesetzbuch
 
-vom 10. Dezember 1907 (Stand am 1. September 2023)
+vom 10. Dezember 1907 (Stand am 1. Januar 2024)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -1403,7 +1403,10 @@ Ist die vorgesehene Organisation nicht genügend, fehlt der Stiftung eines der v
 
 <sup>2</sup> Die Aufsichtsbehörde hat dafür zu sorgen, dass das Stiftungsvermögen seinen Zwecken gemäss verwendet wird.
 
+<sup>3</sup> Begünstigte oder Gläubiger der Stiftung, der Stifter, Zustifter und ehemalige und aktuelle Stiftungsratsmitglieder, welche ein Interesse daran haben, dass die Verwaltung der Stiftung mit Gesetz und Stiftungsurkunde in Einklang steht, können gegen Handlungen und Unterlassungen der Stiftungsorgane Beschwerde bei der Aufsichtsbehörde erheben.[^84-2]
+
 [^84-1]: Eingefügt durch Ziff. I des BG vom 8. Okt. 2004 (Stiftungsrecht), in Kraft seit 1. Jan. 2006 ([AS 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [BBl 2003 8153](https://fedlex.data.admin.ch/eli/fga/2003/1402)[8191](https://fedlex.data.admin.ch/eli/fga/2003/1404)).
+[^84-2]: Eingefügt durch Ziff. I des BG vom 17. Dez. 2021 (Stärkung des Schweizer Stiftungsstandorts), in Kraft seit 1. Jan. 2024 ([AS 2022 452](https://fedlex.data.admin.ch/eli/oc/2022/452); [BBl 2021 485](https://fedlex.data.admin.ch/eli/fga/2021/485), [1169](https://fedlex.data.admin.ch/eli/fga/2021/1169)).
 
 ### C<sup>bis</sup>. Drohende Zahlungsunfähigkeit und Überschuldung
 
@@ -1434,7 +1437,11 @@ Das oberste Stiftungsorgan muss der Aufsichtsbehörde jährlich den Gesamtbetrag
 
 ### D. Umwandlung der Stiftung
 
-### I. Änderung der Organisation
+### I. Änderung der Organisation auf Antrag der Aufsichtsbehörde
+
+[^book1-tit2-chap3-lvlD-lvlI-1]
+
+[^book1-tit2-chap3-lvlD-lvlI-1]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (Stärkung des Schweizer Stiftungsstandorts), in Kraft seit 1. Jan. 2024 ([AS 2022 452](https://fedlex.data.admin.ch/eli/oc/2022/452); [BBl 2021 485](https://fedlex.data.admin.ch/eli/fga/2021/485), [1169](https://fedlex.data.admin.ch/eli/fga/2021/1169)).
 
 #### Art. 85
 
@@ -1444,13 +1451,11 @@ Die zuständige Bundes- oder Kantonsbehörde kann auf Antrag der Aufsichtsbehör
 
 [^85-1]: Fassung gemäss Ziff. I des BG vom 8. Okt. 2004 (Stiftungsrecht), in Kraft seit 1. Jan. 2006 ([AS 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [BBl 2003 8153](https://fedlex.data.admin.ch/eli/fga/2003/1402)[8191](https://fedlex.data.admin.ch/eli/fga/2003/1404)).
 
-### II. Änderung des Zwecks
+### II. Änderung des Zwecks auf Antrag der Aufsichtsbehörde oder des obersten Stiftungsorgans
 
-### 1. Auf Antrag der Aufsichtsbehörde oder des obersten Stiftungsorgans
+[^book1-tit2-chap3-lvlD-lvlII-1]
 
-[^book1-tit2-chap3-lvlD-lvlII-lvl1-1]
-
-[^book1-tit2-chap3-lvlD-lvlII-lvl1-1]: Fassung gemäss Ziff. I des BG vom 8. Okt. 2004 (Stiftungsrecht), in Kraft seit 1. Jan. 2006 ([AS 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [BBl 2003 8153](https://fedlex.data.admin.ch/eli/fga/2003/1402)[8191](https://fedlex.data.admin.ch/eli/fga/2003/1404)).
+[^book1-tit2-chap3-lvlD-lvlII-1]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (Stärkung des Schweizer Stiftungsstandorts), in Kraft seit 1. Jan. 2024 ([AS 2022 452](https://fedlex.data.admin.ch/eli/oc/2022/452); [BBl 2021 485](https://fedlex.data.admin.ch/eli/fga/2021/485), [1169](https://fedlex.data.admin.ch/eli/fga/2021/1169)).
 
 #### Art. 86
 
@@ -1460,34 +1465,52 @@ Die zuständige Bundes- oder Kantonsbehörde kann auf Antrag der Aufsichtsbehör
 
 [^86-1]: Fassung gemäss Ziff. I des BG vom 8. Okt. 2004 (Stiftungsrecht), in Kraft seit 1. Jan. 2006 ([AS 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [BBl 2003 8153](https://fedlex.data.admin.ch/eli/fga/2003/1402)[8191](https://fedlex.data.admin.ch/eli/fga/2003/1404)).
 
-### 2. Auf Antrag des Stifters oder auf Grund seiner Verfügung von Todes wegen
+### III. Änderung des Zwecks oder der Organisation infolge Vorbehalt des Stifters
+
+[^book1-tit2-chap3-lvlD-lvlIII-1]
+
+[^book1-tit2-chap3-lvlD-lvlIII-1]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (Stärkung des Schweizer Stiftungsstandorts), in Kraft seit 1. Jan. 2024 ([AS 2022 452](https://fedlex.data.admin.ch/eli/oc/2022/452); [BBl 2021 485](https://fedlex.data.admin.ch/eli/fga/2021/485), [1169](https://fedlex.data.admin.ch/eli/fga/2021/1169)).
 
 #### Art. 86a
 
 [^86a-1]
 
-<sup>1</sup> Die zuständige Bundes- oder Kantonsbehörde ändert den Zweck einer Stiftung auf Antrag des Stifters oder auf Grund von dessen Verfügung von Todes wegen, wenn in der Stiftungsurkunde eine Zweckänderung vorbehalten worden ist und seit der Errichtung der Stiftung oder seit der letzten vom Stifter verlangten Änderung mindestens zehn Jahre verstrichen sind.
+<sup>1</sup> Die zuständige Bundes- oder Kantonsbehörde ändert den Zweck oder die Organisation einer Stiftung auf Antrag des Stifters oder auf Grund von dessen Verfügung von Todes wegen, wenn in der Stiftungsurkunde eine Zweck- oder Organisationsänderung vorbehalten worden ist und seit der Errichtung der Stiftung oder seit der letzten vom Stifter verlangten Zweck- oder Organisationsänderung mindestens zehn Jahre verstrichen sind. Die Fristen laufen unabhängig voneinander.[^86a-2]
 
-<sup>2</sup> Verfolgt die Stiftung einen öffentlichen oder gemeinnützigen Zweck nach Artikel 56 Buchstabe g des Bundesgesetzes vom 14. Dezember 1990[^86a-2] über die direkte Bundessteuer, so muss der geänderte Zweck ebenfalls öffentlich oder gemeinnützig sein.
+<sup>2</sup> Verfolgt die Stiftung einen öffentlichen oder gemeinnützigen Zweck nach Artikel 56 Buchstabe g des Bundesgesetzes vom 14. Dezember 1990[^86a-3] über die direkte Bundessteuer, so muss der geänderte Zweck ebenfalls öffentlich oder gemeinnützig sein.
 
-<sup>3</sup> Das Recht auf Änderung des Stiftungszwecks ist unvererblich und unübertragbar. Ist der Stifter eine juristische Person, so erlischt dieses Recht spätestens 20 Jahre nach der Errichtung der Stiftung.
+<sup>3</sup> Das Recht auf Änderung des Stiftungszwecks und der Stiftungsorganisation ist unvererblich und unübertragbar.[^86a-4] Ist der Stifter eine juristische Person, so erlischt dieses Recht spätestens 20 Jahre nach der Errichtung der Stiftung.
 
-<sup>4</sup> Haben mehrere Personen die Stiftung errichtet, so können sie die Änderung des Stiftungszwecks nur gemeinsam verlangen.
+<sup>4</sup> Haben mehrere Personen die Stiftung errichtet, so können sie die Änderung des Stiftungszwecks oder der Stiftungsorganisation nur gemeinsam verlangen.[^86a-5]
 
-<sup>5</sup> Die Behörde, welche die Verfügung von Todes wegen eröffnet, teilt der zuständigen Aufsichtsbehörde die Anordnung zur Änderung des Stiftungszwecks mit.
+<sup>5</sup> Die Behörde, welche die Verfügung von Todes wegen eröffnet, teilt der zuständigen Aufsichtsbehörde die Anordnung zur Änderung des Stiftungszwecks oder der Stiftungsorganisation mit.[^86a-6]
 
 [^86a-1]: Eingefügt durch Ziff. I des BG vom 8. Okt. 2004 (Stiftungsrecht), in Kraft seit 1. Jan. 2006 ([AS 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [BBl 2003 8153](https://fedlex.data.admin.ch/eli/fga/2003/1402)[8191](https://fedlex.data.admin.ch/eli/fga/2003/1404)).
-[^86a-2]: [SR 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+[^86a-2]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (Stärkung des Schweizer Stiftungsstandorts), in Kraft seit 1. Jan. 2024 ([AS 2022 452](https://fedlex.data.admin.ch/eli/oc/2022/452); [BBl 2021 485](https://fedlex.data.admin.ch/eli/fga/2021/485), [1169](https://fedlex.data.admin.ch/eli/fga/2021/1169)).
+[^86a-3]: [SR 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+[^86a-4]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (Stärkung des Schweizer Stiftungsstandorts), in Kraft seit 1. Jan. 2024 ([AS 2022 452](https://fedlex.data.admin.ch/eli/oc/2022/452); [BBl 2021 485](https://fedlex.data.admin.ch/eli/fga/2021/485), [1169](https://fedlex.data.admin.ch/eli/fga/2021/1169)).
+[^86a-5]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (Stärkung des Schweizer Stiftungsstandorts), in Kraft seit 1. Jan. 2024 ([AS 2022 452](https://fedlex.data.admin.ch/eli/oc/2022/452); [BBl 2021 485](https://fedlex.data.admin.ch/eli/fga/2021/485), [1169](https://fedlex.data.admin.ch/eli/fga/2021/1169)).
+[^86a-6]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (Stärkung des Schweizer Stiftungsstandorts), in Kraft seit 1. Jan. 2024 ([AS 2022 452](https://fedlex.data.admin.ch/eli/oc/2022/452); [BBl 2021 485](https://fedlex.data.admin.ch/eli/fga/2021/485), [1169](https://fedlex.data.admin.ch/eli/fga/2021/1169)).
 
-### III. Unwesentliche Änderungen der Stiftungsurkunde
+### IV. Unwesentliche Änderungen der Stiftungsurkunde
 
 #### Art. 86b
 
 [^86b-1]
 
-Die Aufsichtsbehörde kann nach Anhörung des obersten Stiftungsorgans unwesentliche Änderungen der Stiftungsurkunde vornehmen, sofern dies aus triftigen sachlichen Gründen als geboten erscheint und keine Rechte Dritter beeinträchtigt.
+Die Aufsichtsbehörde kann nach Anhörung des obersten Stiftungsorgans unwesentliche Änderungen der Stiftungsurkunde vornehmen, sofern dies aus sachlichen Gründen als gerechtfertigt erscheint und keine Rechte Dritter beeinträchtigt.
 
-[^86b-1]: Eingefügt durch Ziff. I des BG vom 8. Okt. 2004 (Stiftungsrecht), in Kraft seit 1. Jan. 2006 ([AS 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [BBl 2003 8153](https://fedlex.data.admin.ch/eli/fga/2003/1402)[8191](https://fedlex.data.admin.ch/eli/fga/2003/1404)).
+[^86b-1]: Eingefügt durch Ziff. I des BG vom 8. Okt. 2004 (Stiftungsrecht) ([AS 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [BBl 2003 8153](https://fedlex.data.admin.ch/eli/fga/2003/1402)[8191](https://fedlex.data.admin.ch/eli/fga/2003/1404)). Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (Stärkung des Schweizer Stiftungsstandorts), in Kraft seit 1. Jan. 2024 ([AS 2022 452](https://fedlex.data.admin.ch/eli/oc/2022/452); [BBl 2021 485](https://fedlex.data.admin.ch/eli/fga/2021/485), [1169](https://fedlex.data.admin.ch/eli/fga/2021/1169)).
+
+### V. Form der Änderungen
+
+#### Art. 86c
+
+[^86c-1]
+
+Änderungen der Stiftungsurkunde nach den Artikeln 85–86*b* werden von der zuständigen Bundes- oder Kantonsbehörde oder von der Aufsichtsbehörde verfügt. Eine öffentliche Beurkundung der Änderungen ist nicht erforderlich.
+
+[^86c-1]: Eingefügt durch Ziff. I des BG vom 17. Dez. 2021 (Stärkung des Schweizer Stiftungsstandorts), in Kraft seit 1. Jan. 2024 ([AS 2022 452](https://fedlex.data.admin.ch/eli/oc/2022/452); [BBl 2021 485](https://fedlex.data.admin.ch/eli/fga/2021/485), [1169](https://fedlex.data.admin.ch/eli/fga/2021/1169)).
 
 ### E. Familienstiftungen und kirchliche Stiftungen
 
@@ -1558,32 +1581,33 @@ Für Personalfürsorgestiftungen, die auf dem Gebiet der Alters-, Hinterlassenen
 
 - 1\.[^89a-9] die Definition und Grundsätze der beruflichen Vorsorge sowie des versicherbaren Lohnes oder des versicherbaren Einkommens (Art. 1, 33*a* und 33*b*);
 - 2\.[^89a-10] die Unterstellung der Personen unter die AHV (Art. 5 Abs. 1);
+- 2*a*.[^89a-11] den Bezug der Altersleistung (Art. 13 Abs. 2, Art. 13*a* und 13*b*),
 - 3\. die Begünstigten bei Hinterlassenenleistungen (Art. 20*a*);
-- 3*a*.[^89a-11] die Anpassung der Invalidenrente nach dem Vorsorgeausgleich (Art. 24 Abs. 5);
-- 3*b*.[^89a-12] die provisorische Weiterversicherung und Aufrechterhaltung des Leistungsanspruchs bei Herabsetzung oder Aufhebung der Rente der Invalidenversicherung (Art. 26*a*);
-- 4\.[^89a-13] die Anpassung der reglementarischen Leistungen an die Preisentwicklung (Art. 36 Abs. 2–4);
-- [tab] 4*a*.[^89a-14] die Zustimmung bei Kapitalabfindung (Art. 37*a*);
-- 4*b*.[^89a-15] die Massnahmen bei Vernachlässigung der Unterhaltspflicht (Art. 40);
+- 3*a*.[^89a-12] die Anpassung der Invalidenrente nach dem Vorsorgeausgleich (Art. 24 Abs. 5);
+- 3*b*.[^89a-13] die provisorische Weiterversicherung und Aufrechterhaltung des Leistungsanspruchs bei Herabsetzung oder Aufhebung der Rente der Invalidenversicherung (Art. 26*a*);
+- 4\.[^89a-14] die Anpassung der reglementarischen Leistungen an die Preisentwicklung (Art. 36 Abs. 2–4);
+- 4*a*.[^89a-15] die Zustimmung bei Kapitalabfindung (Art. 37*a*);
+- 4*b*.[^89a-16] die Massnahmen bei Vernachlässigung der Unterhaltspflicht (Art. 40);
 - 5\. die Verjährung von Ansprüchen und die Aufbewahrung von Vorsorgeunterlagen (Art. 41);
-- [tab] 5*a*.[^89a-16] die Verwendung, Bearbeitung und Bekanntgabe der AHV-Nummer (Art. 48 Abs. 4, Art. 85*a* Bst. f und Art. 86*a* Abs. 2 Bst. b<sup>bis</sup>);
+- 5*a*.[^89a-17] die Verwendung, Bearbeitung und Bekanntgabe der AHV-Nummer (Art. 48 Abs. 4, Art. 85*a* Bst. f und Art. 86*a* Abs. 2 Bst. b<sup>bis</sup>);
 - 6\. die Verantwortlichkeit (Art. 52);
-- 7\.[^89a-17] die Zulassung und die Aufgaben der Kontrollorgane (Art. 52*a*–52*e*);
-- 8\.[^89a-18] die Integrität und Loyalität der Verantwortlichen, die Rechtsgeschäfte mit Nahestehenden und die Interessenkonflikte (Art. 51*b*, 51*c* und 53*a*);
+- 7\.[^89a-18] die Zulassung und die Aufgaben der Kontrollorgane (Art. 52*a*–52*e*);
+- 8\.[^89a-19] die Integrität und Loyalität der Verantwortlichen, die Rechtsgeschäfte mit Nahestehenden und die Interessenkonflikte (Art. 51*b*, 51*c* und 53*a*);
 - 9\. die Teil- oder Gesamtliquidation (Art. 53*b*–53*d*);
-- 10\.[^89a-19] die Auflösung von Verträgen (Art. 53*e* und 53*f*);
-- 11\. den Sicherheitsfonds (Art. 56 Abs. 1 Bst. c und Abs. 2–5, Art. 56*a*, 57 und 59);
-- 12\.[^89a-20] die Aufsicht und die Oberaufsicht (Art. 61–62*a* und 64–64*c*);
-- 13\.[^89a-21] …
-- 14\.[^89a-22] die finanzielle Sicherheit (Art. 65 Abs. 1, 3 und 4, Art. 66 Abs. 4, Art. 67 und Art. 72*a*–72*g*);
+- 10\.[^89a-20] die Auflösung von Verträgen (Art. 53*e*–53*f*);
+- 11\.[^89a-21] den Sicherheitsfonds (Art. 56 Abs. 1 Bst. c und i und Abs. 2–5, 56*a*, 57 und 59);
+- 12\.[^89a-22] die Aufsicht und die Oberaufsicht (Art. 61–62*a* und 64–64*c*);
+- 13\.[^89a-23] …
+- 14\.[^89a-24] die finanzielle Sicherheit (Art. 65 Abs. 1, 3 und 4, Art. 66 Abs. 4, Art. 67 und Art. 72*a*–72*g*);
 - 15\. die Transparenz (Art. 65*a*);
-- 16\. die Rückstellungen (Art. 65*b*);
+- 16\.[^89a-25] die Rückstellungen und die Wertschwankungsreserven (Art. 65*b*);
 - 17\. die Versicherungsverträge zwischen Vorsorgeeinrichtungen und Versicherungseinrichtungen (Art. 68 Abs. 3 und 4);
-- 18\.[^89a-23] die Vermögensverwaltung (Art. 71) und die Stimmpflicht als Aktionärin (Art. 71*a* und 71*b*);
+- 18\.[^89a-26] die Vermögensverwaltung (Art. 71) und die Stimmpflicht als Aktionärin (Art. 71*a* und 71*b*);
 - 19\. die Rechtspflege (Art. 73 und 74);
 - 20\. die Strafbestimmungen (Art. 75–79);
 - 21\. den Einkauf (Art. 79*b*);
 - 22\. den versicherbaren Lohn und das versicherbare Einkommen (Art. 79*c*);
-- 23\. die Information der Versicherten (Art. 86*b*).[^89a-24]
+- 23\. die Information der Versicherten (Art. 86*b*).[^89a-27]
 
 <sup>7</sup>
 
@@ -1598,7 +1622,7 @@ Für Personalfürsorgestiftungen, die auf dem Gebiet der Alters-, Hinterlassenen
 - 7\. die Aufsicht und die Oberaufsicht (Art. 61–62*a* und 64–64*b*);
 - 8\. die Rechtspflege (Art. 73 und 74);
 - 9\. die Strafbestimmungen (Art. 75–79);
-- 10\. die steuerliche Behandlung (Art. 80, 81 Abs. 1 und 83).[^89a-25]
+- 10\. die steuerliche Behandlung (Art. 80, 81 Abs. 1 und 83).[^89a-28]
 
 <sup>8</sup>
 
@@ -1606,7 +1630,7 @@ Für Personalfürsorgestiftungen nach Absatz 7 gelten zudem die folgenden Bestim
 
 - 1\. Sie verwalten ihr Vermögen so, dass Sicherheit, genügender Ertrag auf den Anlagen und die für ihre Aufgaben benötigten flüssigen Mittel gewährleistet sind.
 - 2\. Über Teilliquidationssachverhalte von patronalen Wohlfahrtsfonds mit Ermessensleistungen verfügt die Aufsichtsbehörde auf Antrag des Stiftungsrats.
-- 3\. Sie beachten die Grundsätze der Gleichbehandlung und der Angemessenheit sinngemäss.[^89a-26]
+- 3\. Sie beachten die Grundsätze der Gleichbehandlung und der Angemessenheit sinngemäss.[^89a-29]
 
 [^89a-1]: Eingefügt durch Ziff. II des BG vom 21. März 1958, in Kraft seit 1. Juli 1958 ([AS 1958 379](https://fedlex.data.admin.ch/eli/oc/1958/379_389_393); [BBl 1956 II 825](https://fedlex.data.admin.ch/eli/fga/1956/2_825_845_)). Bis zum Inkrafttreten des BG vom 19. Dez. 2008 (Erwachsenenschutz, Personenrecht und Kindesrecht) am 1. Jan. 2013 ([AS 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114)): Art. 89<sup>bis</sup>*.*
 [^89a-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
@@ -1618,29 +1642,31 @@ Für Personalfürsorgestiftungen nach Absatz 7 gelten zudem die folgenden Bestim
 [^89a-8]: Fassung gemäss Ziff. I des BG vom 25. Sept. 2015 (Personalfürsorgestiftungen), in Kraft seit 1. April 2016 ([AS 2016 935](https://fedlex.data.admin.ch/eli/oc/2016/163); [BBl 2014 6143](https://fedlex.data.admin.ch/eli/fga/2014/1295)[6649](https://fedlex.data.admin.ch/eli/fga/2014/1500)).
 [^89a-9]: Fassung gemäss Ziff. II 1 des BG vom 11. Dez. 2009 (Massnahmen zur Erleichterung der Arbeitsmarktbeteiligung älterer Arbeitnehmender), in Kraft seit 1. Jan. 2011 ([AS 2010 4427](https://fedlex.data.admin.ch/eli/oc/2010/622); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
 [^89a-10]: Fassung gemäss Ziff. I des BG vom 25. Sept. 2015 (Personalfürsorgestiftungen), in Kraft seit 1. April 2016 ([AS 2016 935](https://fedlex.data.admin.ch/eli/oc/2016/163); [BBl 2014 6143](https://fedlex.data.admin.ch/eli/fga/2014/1295)[6649](https://fedlex.data.admin.ch/eli/fga/2014/1500)).
-[^89a-11]: Eingefügt durch Anhang Ziff. 2 des BG vom 18. März 2011 (6. IV-Revision, erstes Massnahmepaket) ([AS 2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799); [BBl 2010 1817](https://fedlex.data.admin.ch/eli/fga/2010/340)). Fassung gemäss Ziff. I des BG vom 19. Juni 2015 (Vorsorgeausgleich bei Scheidung), in Kraft seit 1. Jan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
-[^89a-12]: Eingefügt durch Ziff. I des BG vom 19. Juni 2015 (Vorsorgeausgleich bei Scheidung), in Kraft seit 1. Jan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
-[^89a-13]: Fassung gemäss Anhang Ziff. 1 des BG vom 18. Juni 2004, in Kraft seit 1. Jan. 2005 ([AS 2004 4635](https://fedlex.data.admin.ch/eli/oc/2004/711); [BBl 2003 6399](https://fedlex.data.admin.ch/eli/fga/2003/1054)).
-[^89a-14]: Eingefügt durch Ziff. I des BG vom 19. Juni 2015 (Vorsorgeausgleich bei Scheidung), in Kraft seit 1. Jan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
-[^89a-15]: Eingefügt durch Ziff. I des BG vom 20. März 2015 (Kindesunterhalt), in Kraft seit 1. Jan. 2022 ([AS 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728), [2020 5](https://fedlex.data.admin.ch/eli/oc/2020/3); [BBl 2014 529](https://fedlex.data.admin.ch/eli/fga/2014/98)).
-[^89a-16]: Eingefügt durch Anhang Ziff. 1 des BG vom 23. Juni 2006 (Neue AHV-Versichertennummer), in Kraft seit 1. Dez. 2007 ([AS 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [BBl 2006 501](https://fedlex.data.admin.ch/eli/fga/2006/52)).
-[^89a-17]: Fassung gemäss Ziff. II 1 des BG vom 19. März 2010 (Strukturreform BVG), in Kraft seit 1. Jan. 2012 ([AS 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+[^89a-11]: Eingefügt durch Anhang Ziff. 1 des BG vom 17. Dez. 2021 (AHV 21), in Kraft seit 1. Jan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^89a-12]: Eingefügt durch Anhang Ziff. 2 des BG vom 18. März 2011 (6. IV-Revision, erstes Massnahmepaket) ([AS 2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799); [BBl 2010 1817](https://fedlex.data.admin.ch/eli/fga/2010/340)). Fassung gemäss Ziff. I des BG vom 19. Juni 2015 (Vorsorgeausgleich bei Scheidung), in Kraft seit 1. Jan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
+[^89a-13]: Eingefügt durch Ziff. I des BG vom 19. Juni 2015 (Vorsorgeausgleich bei Scheidung), in Kraft seit 1. Jan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
+[^89a-14]: Fassung gemäss Anhang Ziff. 1 des BG vom 18. Juni 2004, in Kraft seit 1. Jan. 2005 ([AS 2004 4635](https://fedlex.data.admin.ch/eli/oc/2004/711); [BBl 2003 6399](https://fedlex.data.admin.ch/eli/fga/2003/1054)).
+[^89a-15]: Eingefügt durch Ziff. I des BG vom 19. Juni 2015 (Vorsorgeausgleich bei Scheidung), in Kraft seit 1. Jan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
+[^89a-16]: Eingefügt durch Ziff. I des BG vom 20. März 2015 (Kindesunterhalt), in Kraft seit 1. Jan. 2022 ([AS 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728), [2020 5](https://fedlex.data.admin.ch/eli/oc/2020/3); [BBl 2014 529](https://fedlex.data.admin.ch/eli/fga/2014/98)).
+[^89a-17]: Eingefügt durch Anhang Ziff. 1 des BG vom 23. Juni 2006 (Neue AHV-Versichertennummer), in Kraft seit 1. Dez. 2007 ([AS 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [BBl 2006 501](https://fedlex.data.admin.ch/eli/fga/2006/52)).
 [^89a-18]: Fassung gemäss Ziff. II 1 des BG vom 19. März 2010 (Strukturreform BVG), in Kraft seit 1. Jan. 2012 ([AS 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
-[^89a-19]: Fassung gemäss Ziff. II des BG vom 20. Dez. 2006 (Wechsel der Vorsorgeeinrichtung), in Kraft seit 1. Mai 2007 ([AS 2007 1803](https://fedlex.data.admin.ch/eli/oc/2007/263); [BBl 2005 5941](https://fedlex.data.admin.ch/eli/fga/2005/954)[5953](https://fedlex.data.admin.ch/eli/fga/2005/956)).
-[^89a-20]: Fassung gemäss Ziff. II 1 des BG vom 19. März 2010 (Strukturreform BVG), in Kraft seit 1. Jan. 2012 ([AS 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
-[^89a-21]: Aufgehoben durch Ziff. II 1 des BG vom 19. März 2010 (Strukturreform BVG), mit Wirkung seit 1. Jan. 2012 ([AS 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
-[^89a-22]: Fassung gemäss Ziff. II 1 des BG vom 17. Dez. 2010 (Finanzierung von Vorsorgeeinrichtungen öffentlich-rechtlicher Körperschaften), in Kraft seit 1. Jan. 2012 ([AS 2011 3385](https://fedlex.data.admin.ch/eli/oc/2011/457); [BBl 2008 8411](https://fedlex.data.admin.ch/eli/fga/2008/1439)).
-[^89a-23]: Fassung gemäss Anhang Ziff. 1 des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
-[^89a-24]: Eingefügt durch Anhang Ziff. 1 des BG vom 25. Juni 1982 über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge ([AS 1983 797](https://fedlex.data.admin.ch/eli/oc/1983/797_797_797); [BBl 1976 I 149](https://fedlex.data.admin.ch/eli/fga/1976/1_149_117_113)). Fassung gemäss Anhang Ziff. 1 des BG vom 3. Okt. 2003 (1. BVG-Revision), Ziff. 6, 7, 10–12, 14 (mit Ausnahme von Art. 66 Abs. 4), 15, 17–20 und 23 in Kraft seit 1. April 2004, Ziff. 3–5, 8, 9, 13, 14 (Art. 66 Abs. 4) und 16 in Kraft seit 1. Jan. 2005, Ziff. 1, 21 und 22 in Kraft seit 1. Jan. 2006 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
-[^89a-25]: Eingefügt durch Ziff. I des BG vom 25. Sept. 2015 (Personalfürsorgestiftungen), in Kraft seit 1. April 2016 ([AS 2016 935](https://fedlex.data.admin.ch/eli/oc/2016/163); [BBl 2014 6143](https://fedlex.data.admin.ch/eli/fga/2014/1295)[6649](https://fedlex.data.admin.ch/eli/fga/2014/1500)).
-[^89a-26]: Eingefügt durch Ziff. I des BG vom 25. Sept. 2015 (Personalfürsorgestiftungen), in Kraft seit 1. April 2016 ([AS 2016 935](https://fedlex.data.admin.ch/eli/oc/2016/163); [BBl 2014 6143](https://fedlex.data.admin.ch/eli/fga/2014/1295)[6649](https://fedlex.data.admin.ch/eli/fga/2014/1500)).
+[^89a-19]: Fassung gemäss Ziff. II 1 des BG vom 19. März 2010 (Strukturreform BVG), in Kraft seit 1. Jan. 2012 ([AS 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+[^89a-20]: Fassung gemäss Anhang Ziff. 1 des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^89a-21]: Fassung gemäss Anhang Ziff. 1 des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^89a-22]: Fassung gemäss Ziff. II 1 des BG vom 19. März 2010 (Strukturreform BVG), in Kraft seit 1. Jan. 2012 ([AS 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+[^89a-23]: Aufgehoben durch Ziff. II 1 des BG vom 19. März 2010 (Strukturreform BVG), mit Wirkung seit 1. Jan. 2012 ([AS 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+[^89a-24]: Fassung gemäss Ziff. II 1 des BG vom 17. Dez. 2010 (Finanzierung von Vorsorgeeinrichtungen öffentlich-rechtlicher Körperschaften), in Kraft seit 1. Jan. 2012 ([AS 2011 3385](https://fedlex.data.admin.ch/eli/oc/2011/457); [BBl 2008 8411](https://fedlex.data.admin.ch/eli/fga/2008/1439)).
+[^89a-25]: Fassung gemäss Anhang Ziff. 1 des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^89a-26]: Fassung gemäss Anhang Ziff. 1 des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^89a-27]: Eingefügt durch Anhang Ziff. 1 des BG vom 25. Juni 1982 über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge ([AS 1983 797](https://fedlex.data.admin.ch/eli/oc/1983/797_797_797); [BBl 1976 I 149](https://fedlex.data.admin.ch/eli/fga/1976/1_149_117_113)). Fassung gemäss Anhang Ziff. 1 des BG vom 3. Okt. 2003 (1. BVG-Revision), Ziff. 6, 7, 10–12, 14 (mit Ausnahme von Art. 66 Abs. 4), 15, 17–20 und 23 in Kraft seit 1. April 2004, Ziff. 3–5, 8, 9, 13, 14 (Art. 66 Abs. 4) und 16 in Kraft seit 1. Jan. 2005, Ziff. 1, 21 und 22 in Kraft seit 1. Jan. 2006 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^89a-28]: Eingefügt durch Ziff. I des BG vom 25. Sept. 2015 (Personalfürsorgestiftungen), in Kraft seit 1. April 2016 ([AS 2016 935](https://fedlex.data.admin.ch/eli/oc/2016/163); [BBl 2014 6143](https://fedlex.data.admin.ch/eli/fga/2014/1295)[6649](https://fedlex.data.admin.ch/eli/fga/2014/1500)).
+[^89a-29]: Eingefügt durch Ziff. I des BG vom 25. Sept. 2015 (Personalfürsorgestiftungen), in Kraft seit 1. April 2016 ([AS 2016 935](https://fedlex.data.admin.ch/eli/oc/2016/163); [BBl 2014 6143](https://fedlex.data.admin.ch/eli/fga/2014/1295)[6649](https://fedlex.data.admin.ch/eli/fga/2014/1500)).
 
 ### Zweiter Titel<sup>bis</sup>: Die Sammelvermögen
 
-[^book1-tit2bis-1][^book1-tit2bis-2]
+[^book1-tit2bis-1]
 
-[^book1-tit2bis-1]: Berichtigt von der Redaktionskommission der BVers (Art. 58 Abs. 1 ParlG – [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
-[^book1-tit2bis-2]: Eingefügt durch Ziff. I 2 des BG vom 19. Dez. 2008 (Erwachsenenschutz, Personenrecht und Kindesrecht), in Kraft seit 1. Jan. 2013 ([AS 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [BBl 2006 7001](https://fedlex.data.admin.ch/eli/fga/2006/899)).
+[^book1-tit2bis-1]: Eingefügt durch Ziff. I 2 des BG vom 19. Dez. 2008 (Erwachsenenschutz, Personenrecht und Kindesrecht), in Kraft seit 1. Jan. 2013 ([AS 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [BBl 2006 7001](https://fedlex.data.admin.ch/eli/fga/2006/899)). Berichtigt von der Redaktionskommission der BVers (Art. 58 Abs. 1 ParlG – [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
 
 ### A. Fehlende Verwaltung
 
@@ -2091,13 +2117,17 @@ Die während der Ehe bis zum Zeitpunkt der Einleitung des Scheidungsverfahrens e
 [^123-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2015 (Vorsorgeausgleich bei Scheidung), in Kraft seit 1. Jan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
 [^123-2]: [SR 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
 
-### III. Ausgleich bei Invalidenrenten vor dem reglementarischen Rentenalter
+### III. Ausgleich bei Invalidenrenten vor dem reglementarischen Referenzalter
+
+[^book2-part1-tit4-chap3-lvlD-lvlIII-1]
+
+[^book2-part1-tit4-chap3-lvlD-lvlIII-1]: Ausdruck gemäss Anhang Ziff. 1 des BG vom 17. Dez. 2021 (AHV 21), in Kraft seit 1. Jan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)). Diese Änd. wurde in den in der AS genannten Bestimmungen vorgenommen.
 
 #### Art. 124
 
 [^124-1]
 
-<sup>1</sup> Bezieht ein Ehegatte im Zeitpunkt der Einleitung des Scheidungsverfahrens eine Invalidenrente vor dem reglementarischen Rentenalter, so gilt der Betrag, der ihm nach Artikel 2 Absatz 1<sup>ter</sup> des Freizügigkeitsgesetzes vom 17. Dezember 1993[^124-2] nach Aufhebung der Invalidenrente zukommen würde, als Austrittsleistung.
+<sup>1</sup> Bezieht ein Ehegatte im Zeitpunkt der Einleitung des Scheidungsverfahrens eine Invalidenrente vor dem reglementarischen Referenzalter, so gilt der Betrag, der ihm nach Artikel 2 Absatz 1<sup>ter</sup> des Freizügigkeitsgesetzes vom 17. Dezember 1993[^124-2] nach Aufhebung der Invalidenrente zukommen würde, als Austrittsleistung.
 
 <sup>2</sup> Die Bestimmungen über den Ausgleich bei Austrittsleistungen gelten sinngemäss.
 
@@ -2106,13 +2136,13 @@ Die während der Ehe bis zum Zeitpunkt der Einleitung des Scheidungsverfahrens e
 [^124-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2015 (Vorsorgeausgleich bei Scheidung), in Kraft seit 1. Jan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
 [^124-2]: [SR 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
 
-### IV. Ausgleich bei Invalidenrenten nach dem reglementarischen Rentenalter und bei Altersrenten
+### IV. Ausgleich bei Invalidenrenten nach dem reglementarischen Referenzalter und bei Altersrenten
 
 #### Art. 124a
 
 [^124a-1]
 
-<sup>1</sup> Bezieht ein Ehegatte im Zeitpunkt der Einleitung des Scheidungsverfahrens eine Invalidenrente nach dem reglementarischen Rentenalter oder eine Altersrente, so entscheidet das Gericht nach Ermessen über die Teilung der Rente. Es beachtet dabei insbesondere die Dauer der Ehe und die Vorsorgebedürfnisse beider Ehegatten.
+<sup>1</sup> Bezieht ein Ehegatte im Zeitpunkt der Einleitung des Scheidungsverfahrens eine Invalidenrente nach dem reglementarischen Referenzalter oder eine Altersrente, so entscheidet das Gericht nach Ermessen über die Teilung der Rente. Es beachtet dabei insbesondere die Dauer der Ehe und die Vorsorgebedürfnisse beider Ehegatten.
 
 <sup>2</sup> Der dem berechtigten Ehegatten zugesprochene Rentenanteil wird in eine lebenslange Rente umgerechnet. Diese wird ihm von der Vorsorgeeinrichtung des verpflichteten Ehegatten ausgerichtet oder in seine Vorsorge übertragen.
 
@@ -4174,7 +4204,7 @@ Eltern und Kinder sind einander allen Beistand, alle Rücksicht und Achtung schu
 
 [^book2-part2-tit8-chap2-lvlA-lvlI-1]
 
-[^book2-part2-tit8-chap2-lvlA-lvlI-1]: Eingefügt durch Ziff. I des BG vom 20. März 2015 (Kindesunterhalt), in Kraft seit 1. Jan. 2017 ([AS 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [BBl 2014 529](https://fedlex.data.admin.ch/eli/fga/2014/98)).
+[^book2-part2-tit8-chap2-lvlA-lvlI-1]: Fassung gemäss Ziff. I des BG vom 20. März 2015 (Kindesunterhalt), in Kraft seit 1. Jan. 2017 ([AS 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [BBl 2014 529](https://fedlex.data.admin.ch/eli/fga/2014/98)).
 
 #### Art. 276
 
@@ -4291,7 +4321,7 @@ Eltern und Kinder sind einander allen Beistand, alle Rücksicht und Achtung schu
 
 [^book2-part2-tit8-chap2-lvlD-lvlV-lvl1-1]
 
-[^book2-part2-tit8-chap2-lvlD-lvlV-lvl1-1]: Eingefügt durch Ziff. I des BG vom 20. März 2015 (Kindesunterhalt), in Kraft seit 1. Jan. 2017 ([AS 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [BBl 2014 529](https://fedlex.data.admin.ch/eli/fga/2014/98)).
+[^book2-part2-tit8-chap2-lvlD-lvlV-lvl1-1]: Fassung gemäss Ziff. I des BG vom 20. März 2015 (Kindesunterhalt), in Kraft seit 1. Jan. 2017 ([AS 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [BBl 2014 529](https://fedlex.data.admin.ch/eli/fga/2014/98)).
 
 #### Art. 286
 
@@ -5941,7 +5971,9 @@ Erscheint die Errichtung einer Beistandschaft wegen des Umfangs der Aufgaben als
 
 <sup>3</sup> Ohne die Handlungsfähigkeit der betroffenen Person einzuschränken, kann ihr die Erwachsenenschutzbehörde den Zugriff auf einzelne Vermögenswerte entziehen.
 
-<sup>4</sup> Untersagt die Erwachsenenschutzbehörde der betroffenen Person, über ein Grundstück zu verfügen, so lässt sie dies im Grundbuch anmerken.
+<sup>4</sup> …[^395-1]
+
+[^395-1]: Aufgehoben durch Ziff. I des BG vom 16. Dez. 2016 (Mitteilung von Erwachsenenschutzmassnahmen), mit Wirkung seit 1. Jan. 2024 ([AS 2023 84](https://fedlex.data.admin.ch/eli/oc/2023/84); [BBl 2016 5161](https://fedlex.data.admin.ch/eli/fga/2016/1115), [5175](https://fedlex.data.admin.ch/eli/fga/2016/1117)).
 
 ### C. Mitwirkungsbeistandschaft
 
@@ -6536,10 +6568,48 @@ Die Erwachsenenschutzbehörde ordnet wenn nötig die Vertretung der betroffenen 
 
 #### Art. 449c
 
-Die Erwachsenenschutzbehörde macht dem Zivilstandsamt Mitteilung, wenn:
+[^449c-1]
 
-- 1\. sie eine Person wegen dauernder Urteilsunfähigkeit unter umfassende Beistandschaft stellt;
-- 2\. für eine dauernd urteilsunfähige Person ein Vorsorgeauftrag wirksam wird.
+<sup>1</sup>
+
+Die Erwachsenenschutzbehörde teilt unverzüglich folgenden Behörden ihre Entscheide betreffend die Anordnung, Änderung oder Aufhebung von Massnahmen mit, sobald diese vollstreckbar geworden sind:
+
+- 1\.
+
+  dem Zivilstandsamt, wenn:
+
+  - a. sie eine Person unter umfassende Beistandschaft gestellt hat,
+  - b. sie eine Anordnung getroffen hat, welche die Zustimmung des gesetzlichen Vertreters nach Artikel 260 Absatz 2 erforderlich macht, oder
+  - c. für eine dauernd urteilsunfähige Person ein Vorsorgeauftrag wirksam geworden ist;
+
+- 2\.
+
+  der Wohnsitzgemeinde, wenn:
+
+  - a. sie eine Person unter eine Beistandschaft gestellt hat, oder
+  - b. für eine dauernd urteilsunfähige Person ein Vorsorgeauftrag wirksam geworden ist;
+
+- 3\.
+
+  dem Betreibungsamt am Wohnsitz der betroffenen Person, wenn:
+
+  - a. sie für eine minderjährige Person eine Vormundschaft oder eine Beistandschaft nach Artikel 325 errichtet hat,
+  - b. sie für eine volljährige Person eine Beistandschaft errichtet hat, welche Vermögensverwaltungsbefugnisse umfasst oder die Handlungsfähigkeit entzieht oder einschränkt, oder
+  - c. für eine dauernd urteilsunfähige Person ein Vorsorgeauftrag wirksam geworden ist;
+
+- 4\.
+
+  der ausstellenden Behörde nach dem Ausweisgesetz vom 22. Juni 2001[^449c-2], wenn sie:
+
+  - a. für eine minderjährige Person eine Vormundschaft errichtet hat oder die elterliche Sorge in Bezug auf den Antrag auf Ausstellung eines Ausweises eingeschränkt hat, oder
+  - b. für eine volljährige Person eine Beistandschaft errichtet hat, welche die Handlungsfähigkeit in Bezug auf den Antrag auf Ausstellung eines Ausweises einschränkt;
+
+- 5\. dem Grundbuchamt als Anmeldung für eine Anmerkung, wenn sie für eine Person eine Beistandschaft errichtet hat, welche die Verfügungsfähigkeit über ein Grundstück einschränkt oder entzieht.
+
+<sup>2</sup> Bei einem Wechsel der zuständigen Erwachsenenschutzbehörde ist die neu zuständige Behörde für die betreffenden Mitteilungen zuständig.
+
+[^449c-1]: Fassung gemäss Ziff. I des BG vom 16. Dez. 2016 (Mitteilung von Erwachsenenschutzmassnahmen), in Kraft seit 1. Jan. 2024 ([AS 2023 84](https://fedlex.data.admin.ch/eli/oc/2023/84); [BBl 2016 5161](https://fedlex.data.admin.ch/eli/fga/2016/1115), [5175](https://fedlex.data.admin.ch/eli/fga/2016/1117)).
+[^449c-2]: [SR 143.1](https://fedlex.data.admin.ch/eli/cc/2002/441)
 
 ### Zweiter Unterabschnitt: Vor der gerichtlichen Beschwerdeinstanz
 
@@ -6635,7 +6705,9 @@ Im Übrigen sind die Bestimmungen der Zivilprozessordnung sinngemäss anwendbar,
 
 <sup>1</sup> Die Erwachsenenschutzbehörde ist zur Verschwiegenheit verpflichtet, soweit nicht überwiegende Interessen entgegenstehen.
 
-<sup>2</sup> Wer ein Interesse glaubhaft macht, kann von der Erwachsenenschutzbehörde Auskunft über das Vorliegen und die Wirkungen einer Massnahme des Erwachsenenschutzes verlangen.
+<sup>2</sup> Wer ein Interesse glaubhaft macht, kann von der Erwachsenenschutzbehörde Auskunft über das Vorliegen und die Wirkungen einer Massnahme des Erwachsenenschutzes verlangen. Der Bundesrat sorgt dafür, dass die entsprechenden Auskünfte einfach, rasch und einheitlich erteilt werden. Er erlässt dafür eine Verordnung.[^451-1]
+
+[^451-1]: Zweiter und dritter Satz eingefügt durch Ziff. I des BG vom 16. Dez. 2016 (Mitteilung von Erwachsenenschutzmassnahmen), in Kraft seit 1. Jan. 2024 ([AS 2023 84](https://fedlex.data.admin.ch/eli/oc/2023/84); [BBl 2016 5161](https://fedlex.data.admin.ch/eli/fga/2016/1115), [5175](https://fedlex.data.admin.ch/eli/fga/2016/1117)).
 
 ### B. Wirkung der Massnahmen gegenüber Dritten
 
@@ -9053,8 +9125,9 @@ Für die Berechnung der Fristen, die Unterbrechung und den Stillstand der Ersitz
 
 [^666a-1]
 
-- [tab] <sup>1</sup> Lässt sich der im Grundbuch eingetragene Eigentümer nicht identifizieren, ist sein Wohnort unbekannt oder ist von einem oder mehreren seiner Erben der Name oder Wohnort unbekannt, so kann das Gericht auf Antrag die erforderlichen Massnahmen anordnen.
-- [tab] <sup>2</sup> Insbesondere kann das Gericht einen Vertreter ernennen. Es legt auf Antrag den Umfang der Vertretungsmacht fest. Bestimmt es nichts anderes, so beschränkt sich diese auf erhaltende Massnahmen.
+<sup>1</sup> Lässt sich der im Grundbuch eingetragene Eigentümer nicht identifizieren, ist sein Wohnort unbekannt oder ist von einem oder mehreren seiner Erben der Name oder Wohnort unbekannt, so kann das Gericht auf Antrag die erforderlichen Massnahmen anordnen.
+
+<sup>2</sup> Insbesondere kann das Gericht einen Vertreter ernennen. Es legt auf Antrag den Umfang der Vertretungsmacht fest. Bestimmt es nichts anderes, so beschränkt sich diese auf erhaltende Massnahmen.
 
 <sup>3</sup>
 
@@ -11781,7 +11854,7 @@ Ein nachgehendes Forderungspfandrecht ist nur gültig, wenn der vorgehende Pfand
 
 [^book4-part2-tit23-chap2-lvlC-lvlII-1]
 
-[^book4-part2-tit23-chap2-lvlC-lvlII-1]: Eingefügt durch Anhang Ziff. 1 des BG vom 16. Dez. 2005 (GmbH-Recht sowie Anpassungen im Aktien-, Genossenschafts-, Handelsregister- und Firmenrecht), in Kraft seit 1. Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^book4-part2-tit23-chap2-lvlC-lvlII-1]: Fassung gemäss Anhang Ziff. 1 des BG vom 16. Dez. 2005 (GmbH-Recht sowie Anpassungen im Aktien-, Genossenschafts-, Handelsregister- und Firmenrecht), in Kraft seit 1. Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 
 #### Art. 905
 
@@ -13686,8 +13759,6 @@ Der Besitz steht mit dem Inkrafttreten dieses Gesetzes unter dem neuen Recht.
 #### Art. 39
 
 [^u1-39-1]
-
-…
 
 [^u1-39-1]: Aufgehoben durch Anhang Ziff. II des BG vom 5. Okt. 2007 über Geoinformation, mit Wirkung seit 1. Juli 2008 ([AS 2008 2793](https://fedlex.data.admin.ch/eli/oc/2008/388); [BBl 2006 7817](https://fedlex.data.admin.ch/eli/fga/2006/982))
 

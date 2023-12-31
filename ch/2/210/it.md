@@ -4,18 +4,18 @@ title: Codice civile svizzero del 10 dicembre 1907
 short: CC
 eli: "https://fedlex.data.admin.ch/eli/cc/24/233_245_233"
 language: it
-version: 2023-09-01
+version: 2024-01-01
 adopted: 1907-12-10
 in_force: 1912-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/24/233_245_233/20230901/it/xml/fedlex-data-admin-ch-eli-cc-24-233_245_233-20230901-it-xml-13.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/24/233_245_233/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/24/233_245_233/20240101/it/xml/fedlex-data-admin-ch-eli-cc-24-233_245_233-20240101-it-xml-26.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/24/233_245_233/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Codice civile svizzero
 
-del 10 dicembre 1907 (Stato 1° settembre 2023)
+del 10 dicembre 1907 (Stato 1° gennaio 2024)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -60,7 +60,7 @@ decreta:
 
 #### Art. 4
 
-<sup>1</sup> Il giudice è tenuto a decidere secondo il diritto e l’equità quando la legge si rimette al suo prudente criterio o fa dipendere la decisione dall’apprezzamento delle circostanze, o da motivi gravi.
+Il giudice è tenuto a decidere secondo il diritto e l’equità quando la legge si rimette al suo prudente criterio o fa dipendere la decisione dall’apprezzamento delle circostanze, o da motivi gravi.
 
 ### C. Rapporti col diritto cantonale
 
@@ -864,7 +864,9 @@ Con la partecipazione dei Cantoni, il Consiglio federale disciplina:
 
 <sup>1</sup> Il Consiglio federale emana le disposizioni d’esecuzione.
 
-<sup>2</sup> Esso disciplina in particolare
+<sup>2</sup>
+
+Esso disciplina in particolare:
 
 - 1\. i registri da tenere e i dati da registrare;
 - 2\. l’utilizzazione del numero AVS[^48-1] conformemente all’articolo 50*c* della legge federale del 20 dicembre 1946[^48-2] sull’assicurazione per la vecchiaia e per i superstiti (LAVS) ai fini dello scambio elettronico di dati tra i registri ufficiali di per-sone;
@@ -1381,7 +1383,10 @@ Se l’organizzazione prevista non è sufficiente, se la fondazione è priva di 
 
 <sup>2</sup> L’autorità di vigilanza provvede affinché i beni siano impiegati conformemente al fine della fondazione.
 
+<sup>3</sup> Se hanno un interesse ad accertare che la fondazione sia amministrata conformemente alla legge e all’atto di fondazione, i beneficiari e i creditori della fondazione, il fondatore, gli autori di conferimenti aggiuntivi, nonché i membri attuali e gli ex membri del consiglio di fondazione possono contestare gli atti e le omissioni degli organi della fondazione dinanzi all’autorità di vigilanza.[^84-2]
+
 [^84-1]: Introdotto dal n. I della LF dell’8 ott. 2004 (Diritto delle fondazioni), in vigore dal 1° gen. 2006 ([RU 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [FF 2003 7053](https://fedlex.data.admin.ch/eli/fga/2003/1402)[7093](https://fedlex.data.admin.ch/eli/fga/2003/1404)).
+[^84-2]: Introdotto dal n. I della LF del 17 dic. 2021 (Rafforzare l’attrattiva della Svizzera per le fondazioni), in vigore dal 1° gen. 2024 ([RU 2022 452](https://fedlex.data.admin.ch/eli/oc/2022/452); [FF 2021 485](https://fedlex.data.admin.ch/eli/fga/2021/485), [1169](https://fedlex.data.admin.ch/eli/fga/2021/1169)).
 
 ### C<sup>bis</sup>. Rischio di insolvenza ed eccedenza di debiti
 
@@ -1397,7 +1402,7 @@ Se l’organizzazione prevista non è sufficiente, se la fondazione è priva di 
 
 <sup>4</sup> Le disposizioni del diritto della società anonima sull’accertamento dell’eccedenza di debiti nonché sulla rivalutazione di fondi e partecipazioni sono applicabili per analogia.
 
-[^84a-1]: Introdotto dal n. I della LF dell’8 ott. 2004 (Diritto delle fondazioni ([RU 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [FF 2003 7053](https://fedlex.data.admin.ch/eli/fga/2003/1402)[7093](https://fedlex.data.admin.ch/eli/fga/2003/1404)). Nuovo testo giusta l’all. n. 1 della LF del 19 giu 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746), [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^84a-1]: Introdotto dal n. I della LF dell’8 ott. 2004 (Diritto delle fondazioni ([RU 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [FF 2003 7053](https://fedlex.data.admin.ch/eli/fga/2003/1402), [7093](https://fedlex.data.admin.ch/eli/fga/2003/1404)). Nuovo testo giusta l’all. n. 1 della LF del 19 giu 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746), [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### C<sup>ter</sup>. Pubblicità delle retribuzioni
 
@@ -1412,7 +1417,11 @@ Ogni anno l’organo superiore della fondazione comunica separatamente all’aut
 
 ### D. Modificazione
 
-### I. Dell’organizzazione
+### I. Dell’organizzazione su proposta dell’autorità di vigilanza
+
+[^book1-tit2-chap3-lvlD-lvlI-1]
+
+[^book1-tit2-chap3-lvlD-lvlI-1]: Nuovo testo giusta il n. I della LF del 17 dic. 2021 (Rafforzare l’attrattiva della Svizzera per le fondazioni), in vigore dal 1° gen. 2024 ([RU 2022 452](https://fedlex.data.admin.ch/eli/oc/2022/452); [FF 2021 485](https://fedlex.data.admin.ch/eli/fga/2021/485), [1169](https://fedlex.data.admin.ch/eli/fga/2021/1169)).
 
 #### Art. 85
 
@@ -1422,13 +1431,11 @@ L’autorità federale o cantonale competente può, su proposta dell’autorità
 
 [^85-1]: Nuovo testo giusta il n. I della LF dell’8 ott. 2004 (diritto delle fondazioni), in vigore dal 1° gen. 2006 ([RU 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [FF 2003 7053](https://fedlex.data.admin.ch/eli/fga/2003/1402)[7093](https://fedlex.data.admin.ch/eli/fga/2003/1404)).
 
-### II. Del fine
+### II. Del fine su proposta dell’autorità di vigilanza o dell’organo superiore della fondazione
 
-### 1. Su proposta dell’autorità di vigilanza o dell’organo superiore della fondazione
+[^book1-tit2-chap3-lvlD-lvlII-1]
 
-[^book1-tit2-chap3-lvlD-lvlII-lvl1-1]
-
-[^book1-tit2-chap3-lvlD-lvlII-lvl1-1]: Nuovo testo giusta il n. I della LF dell’8 ott. 2004 (diritto delle fondazioni), in vigore dal 1° gen. 2006 ([RU 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [FF 2003 7053](https://fedlex.data.admin.ch/eli/fga/2003/1402)[7093](https://fedlex.data.admin.ch/eli/fga/2003/1404)).
+[^book1-tit2-chap3-lvlD-lvlII-1]: Nuovo testo giusta il n. I della LF del 17 dic. 2021 (Rafforzare l’attrattiva della Svizzera per le fondazioni), in vigore dal 1° gen. 2024 ([RU 2022 452](https://fedlex.data.admin.ch/eli/oc/2022/452); [FF 2021 485](https://fedlex.data.admin.ch/eli/fga/2021/485), [1169](https://fedlex.data.admin.ch/eli/fga/2021/1169)).
 
 #### Art. 86
 
@@ -1438,34 +1445,52 @@ L’autorità federale o cantonale competente può, su proposta dell’autorità
 
 [^86-1]: Nuovo testo giusta il n. I della LF dell’8 ott. 2004 (diritto delle fondazioni), in vigore dal 1° gen. 2006 ([RU 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [FF 2003 7053](https://fedlex.data.admin.ch/eli/fga/2003/1402)[7093](https://fedlex.data.admin.ch/eli/fga/2003/1404)).
 
-### 2. Su richiesta del fondatore o in virtù di una sua disposizione a causa di morte
+### III. Del fine o dell’organizzazione in virtù di una riserva del fondatore
+
+[^book1-tit2-chap3-lvlD-lvlIII-1]
+
+[^book1-tit2-chap3-lvlD-lvlIII-1]: Nuovo testo giusta il n. I della LF del 17 dic. 2021 (Rafforzare l’attrattiva della Svizzera per le fondazioni), in vigore dal 1° gen. 2024 ([RU 2022 452](https://fedlex.data.admin.ch/eli/oc/2022/452); [FF 2021 485](https://fedlex.data.admin.ch/eli/fga/2021/485), [1169](https://fedlex.data.admin.ch/eli/fga/2021/1169)).
 
 #### Art. 86a
 
 [^86a-1]
 
-<sup>1</sup> L’autorità federale o cantonale competente modifica il fine della fondazione su richiesta del fondatore o in virtù di una sua disposizione a causa di morte se tale possibilità è stata prevista nell’atto di fondazione e sono trascorsi almeno dieci anni dalla costituzione della fondazione o dall’ultima modifica chiesta dal fondatore.
+<sup>1</sup> L’autorità federale o cantonale competente modifica il fine o l’organizzazione della fondazione su richiesta del fondatore o in virtù di una sua disposizione a causa di morte se tale possibilità è stata prevista nell’atto di fondazione e sono trascorsi almeno dieci anni dalla costituzione della fondazione o dall’ultima modifica del fine o dell’organizzazione chiesta dal fondatore. I termini decorrono in modo indipendente gli uni dagli altri.[^86a-2]
 
-<sup>2</sup> Se la fondazione persegue uno scopo pubblico o di utilità pubblica secondo l’articolo 56 lettera g della legge federale del 14 dicembre 1990[^86a-2] sull’imposta federale diretta, anche il nuovo fine dev’essere pubblico o di utilità pubblica.
+<sup>2</sup> Se la fondazione persegue uno scopo pubblico o di utilità pubblica secondo l’articolo 56 lettera g della legge federale del 14 dicembre 1990[^86a-3] sull’imposta federale diretta, anche il nuovo fine dev’essere pubblico o di utilità pubblica.
 
-<sup>3</sup> Il diritto di esigere la modifica del fine non si può cedere e non si trasmette per successione. Se il fondatore è una persona giuridica, esso si estingue al più tardi dopo venti anni dalla costituzione della fondazione.
+<sup>3</sup> Il diritto di esigere la modifica del fine o dell’organizzazione non si può cedere e non si trasmette per successione.[^86a-4] Se il fondatore è una persona giuridica, esso si estingue al più tardi dopo venti anni dalla costituzione della fondazione.
 
-<sup>4</sup> Se la fondazione è stata costituita da più persone, esse possono chiedere la modifica del fine soltanto congiuntamente.
+<sup>4</sup> Se la fondazione è costituita da più persone, esse possono chiedere la modifica del fine o dell’organizzazione soltanto congiuntamente.[^86a-5]
 
-<sup>5</sup> L’autorità che procede alla pubblicazione della disposizione a causa di morte comunica all’autorità di vigilanza competente la prevista modifica del fine della fondazione.
+<sup>5</sup> L’autorità che procede alla pubblicazione della disposizione a causa di morte comunica all’autorità di vigilanza competente la prevista modifica del fine o dell’organizzazione della fondazione.[^86a-6]
 
 [^86a-1]: Introdotto dal n. I della LF dell’8 ott. 2004 (diritto delle fondazioni), in vigore dal 1° gen. 2006 ([RU 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [FF 2003 7053](https://fedlex.data.admin.ch/eli/fga/2003/1402)[7093](https://fedlex.data.admin.ch/eli/fga/2003/1404)).
-[^86a-2]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+[^86a-2]: Nuovo testo giusta il n. I della LF del 17 dic. 2021 (Rafforzare l’attrattiva della Svizzera per le fondazioni), in vigore dal 1° gen. 2024 ([RU 2022 452](https://fedlex.data.admin.ch/eli/oc/2022/452); [FF 2021 485](https://fedlex.data.admin.ch/eli/fga/2021/485), [1169](https://fedlex.data.admin.ch/eli/fga/2021/1169)).
+[^86a-3]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+[^86a-4]: Nuovo testo giusta il n. I della LF del 17 dic. 2021 (Rafforzare l’attrattiva della Svizzera per le fondazioni), in vigore dal 1° gen. 2024 ([RU 2022 452](https://fedlex.data.admin.ch/eli/oc/2022/452); [FF 2021 485](https://fedlex.data.admin.ch/eli/fga/2021/485), [1169](https://fedlex.data.admin.ch/eli/fga/2021/1169)).
+[^86a-5]: Nuovo testo giusta il n. I della LF del 17 dic. 2021 (Rafforzare l’attrattiva della Svizzera per le fondazioni), in vigore dal 1° gen. 2024 ([RU 2022 452](https://fedlex.data.admin.ch/eli/oc/2022/452); [FF 2021 485](https://fedlex.data.admin.ch/eli/fga/2021/485), [1169](https://fedlex.data.admin.ch/eli/fga/2021/1169)).
+[^86a-6]: Nuovo testo giusta il n. I della LF del 17 dic. 2021 (Rafforzare l’attrattiva della Svizzera per le fondazioni), in vigore dal 1° gen. 2024 ([RU 2022 452](https://fedlex.data.admin.ch/eli/oc/2022/452); [FF 2021 485](https://fedlex.data.admin.ch/eli/fga/2021/485), [1169](https://fedlex.data.admin.ch/eli/fga/2021/1169)).
 
-### III. Modifiche accessorie dell’atto di fondazione
+### IV. Modifiche accessorie dell’atto di fondazione
 
 #### Art. 86b
 
 [^86b-1]
 
-L’autorità di vigilanza può, sentito l’organo superiore della fondazione, apportare modifiche accessorie all’atto di fondazione, sempreché esse siano richieste da motivi oggettivamente fondati e non pregiudichino i diritti di terzi.
+L’autorità di vigilanza può, sentito l’organo superiore della fondazione, apportare modifiche accessorie all’atto di fondazione, sempreché esse appaiano giustificate da motivi oggettivi e non pregiudichino i diritti di terzi.
 
-[^86b-1]: Introdotto dal n. I della LF dell’8 ott. 2004 (Diritto delle fondazioni), in vigore dal 1° gen. 2006 ([RU 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [FF 2003 7053](https://fedlex.data.admin.ch/eli/fga/2003/1402)[7093](https://fedlex.data.admin.ch/eli/fga/2003/1404)).
+[^86b-1]: Introdotto dal n. I della LF dell’8 ott. 2004 (Diritto delle fondazioni) ([RU 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [FF 2003 7053](https://fedlex.data.admin.ch/eli/fga/2003/1402)[7093](https://fedlex.data.admin.ch/eli/fga/2003/1404)). Nuovo testo giusta il n. I della LF del 17 dic. 2021 (Rafforzare l’attrattiva della Svizzera per le fondazioni), in vigore dal 1° gen. 2024 ([RU 2022 452](https://fedlex.data.admin.ch/eli/oc/2022/452); [FF 2021 485](https://fedlex.data.admin.ch/eli/fga/2021/485), [1169](https://fedlex.data.admin.ch/eli/fga/2021/1169)).
+
+### V. Forma delle modifiche
+
+#### Art. 86c
+
+[^86c-1]
+
+Le modifiche dell’atto di fondazione di cui agli articoli 85–86*b* sono decise dalla competente autorità federale o cantonale o dall’autorità di vigilanza. Le modifiche non richiedono l’atto pubblico.
+
+[^86c-1]: Introdotto dal n. I della LF del 17 dic. 2021 (Rafforzare l’attrattiva della Svizzera per le fondazioni), in vigore dal 1° gen. 2024 ([RU 2022 452](https://fedlex.data.admin.ch/eli/oc/2022/452); [FF 2021 485](https://fedlex.data.admin.ch/eli/fga/2021/485), [1169](https://fedlex.data.admin.ch/eli/fga/2021/1169)).
 
 ### E. Fondazioni di famiglia ed ecclesiastiche
 
@@ -1536,32 +1561,33 @@ Per le fondazioni di previdenza a favore del personale che operano nel campo del
 
 - 1\.[^89a-8] la definizione e i principi della previdenza professionale e del salario o reddito assicurabile (art. 1, 33*a* e 33*b*),
 - 2\.[^89a-9] l’assoggettamento delle persone all’AVS (art. 5 cpv. 1);
+- 2*a*.[^89a-10] la riscossione della prestazione di vecchiaia (art. 13 cpv. 2, 13*a* e 13*b*);
 - 3\. i beneficiari di prestazioni per i superstiti (art. 20*a*),
-- 3*a*.[^89a-10] l’adeguamento della rendita d’invalidità dopo il conguaglio della previdenza professionale (art. 24 cpv. 5),
-- 3*b*.[^89a-11] la proroga provvisoria del rapporto di assicurazione e il mantenimento del diritto alle prestazioni in caso di riduzione o sop-pressione della rendita dell’assicurazione invalidità (art. 26*a*),
-- 4\.[^89a-12] l’adeguamento delle prestazioni regolamentari all’evoluzione dei prezzi (art. 36 cpv. 2–4),
-- 4*a*.[^89a-13] il consenso alla liquidazione in capitale (art. 37*a*),
-- 4*b*.[^89a-14] le misure in caso d’inosservanza dell’obbligo di mantenimento (art. 40);
+- 3*a*.[^89a-11] l’adeguamento della rendita d’invalidità dopo il conguaglio della previdenza professionale (art. 24 cpv. 5),
+- 3*b*.[^89a-12] la proroga provvisoria del rapporto di assicurazione e il mantenimento del diritto alle prestazioni in caso di riduzione o sop-pressione della rendita dell’assicurazione invalidità (art. 26*a*),
+- 4\.[^89a-13] l’adeguamento delle prestazioni regolamentari all’evoluzione dei prezzi (art. 36 cpv. 2–4),
+- 4*a*.[^89a-14] il consenso alla liquidazione in capitale (art. 37*a*),
+- 4*b*.[^89a-15] le misure in caso d’inosservanza dell’obbligo di mantenimento (art. 40);
 - 5\. la prescrizione dei diritti e la conservazione di documenti (art. 41),
-- [tab] 5*a*.[^89a-15] l’utilizzazione, il trattamento e la comunicazione del numero AVS dell’assicurazione vecchiaia e superstiti (art. 48 cpv. 4, 85*a* lett. f e 86*a* cpv. 2 lett. b<sup>bis</sup>),
+- 5*a*.[^89a-16] l’utilizzazione, il trattamento e la comunicazione del numero AVS dell’assicurazione vecchiaia e superstiti (art. 48 cpv. 4, 85*a* lett. f e 86*a* cpv. 2 lett. b<sup>bis</sup>),
 - 6\. la responsabilità (art. 52),
-- 7\.[^89a-16] l’abilitazione e i compiti degli organi di controllo (art. 52*a*‑52*e*),
-- 8\.[^89a-17] l’integrità e la lealtà dei responsabili, i negozi giuridici con persone vicine e i conflitti d’interesse (art. 51*b*, 51*c* e 53*a*),
+- 7\.[^89a-17] l’abilitazione e i compiti degli organi di controllo (art. 52*a*‑52*e*),
+- 8\.[^89a-18] l’integrità e la lealtà dei responsabili, i negozi giuridici con persone vicine e i conflitti d’interesse (art. 51*b*, 51*c* e 53*a*),
 - 9\. la liquidazione parziale o totale (art. 53*b*–53*d*),
-- 10\.[^89a-18] lo scioglimento dei contratti (art. 53*e* e 53*f*),
-- 11\. il fondo di garanzia (art. 56 cpv. 1 lett. c e cpv. 2–5, 56*a*, 57 e 59),
-- 12\.[^89a-19] la vigilanza e l’alta vigilanza (art. 61–62*a* e 64–64*c*),
-- 13\.[^89a-20] ...
-- 14\.[^89a-21] la sicurezza finanziaria (art. 65 cpv. 1, 3 e 4, 66 cpv. 4, 67 e 72*a*–72*g*),
+- 10\.[^89a-19] lo scioglimento dei contratti (art. 53e–53f),
+- 11\.[^89a-20] il fondo di garanzia (art. 56 cpv. 1 lett. c e i nonché cpv. 2–5, 56*a*, 57 e 59),
+- 12\.[^89a-21] la vigilanza e l’alta vigilanza (art. 61–62*a* e 64–64*c*),
+- 13\.[^89a-22] ...
+- 14\.[^89a-23] la sicurezza finanziaria (art. 65 cpv. 1, 3 e 4, 66 cpv. 4, 67 e 72*a*–72*g*),
 - 15\. la trasparenza (art. 65*a*),
-- 16\. le riserve (art. 65*b*),
+- 16\.[^89a-24] gli accantonamenti e le riserve di fluttuazione di valore (art. 65*b*),
 - 17\. i contratti assicurativi tra istituti di previdenza e istituti d’assicurazione (art. 68 cpv. 3 e 4),
-- 18\.[^89a-22] l’amministrazione del patrimonio (art. 71) e l’obbligo di voto in quanto azionista (art. 71*a* e 71*b*);
+- 18\.[^89a-25] l’amministrazione del patrimonio (art. 71) e l’obbligo di voto in quanto azionista (art. 71*a* e 71*b*);
 - 19\. il contenzioso (art. 73 e 74),
 - 20\. le disposizioni penali (art. 75–79),
 - 21\. il riscatto (art. 79*b*),
 - 22\. il salario assicurabile e il reddito assicurabile (art. 79*c*),
-- 23\. l’informazione degli assicurati (art. 86*b*).[^89a-23]
+- 23\. l’informazione degli assicurati (art. 86*b*).[^89a-26]
 
 <sup>7</sup>
 
@@ -1576,7 +1602,7 @@ Per le fondazioni di previdenza a favore del personale che operano nel campo del
 - 7\. la vigilanza e l’alta vigilanza (art. 61–62*a* e 64–64*b*);
 - 8\. il contenzioso (art. 73 e 74);
 - 9\. le disposizioni penali (art. 75–79);
-- 10\. il trattamento fiscale (art. 80, 81 cpv. 1 e 83).[^89a-24]
+- 10\. il trattamento fiscale (art. 80, 81 cpv. 1 e 83).[^89a-27]
 
 <sup>8</sup>
 
@@ -1584,7 +1610,7 @@ Per le fondazioni di previdenza a favore del personale di cui al capoverso 7 si 
 
 - 1\. esse amministrano il loro patrimonio in modo da garantire la sicurezza degli investimenti, la loro sufficiente redditività e le liquidità necessarie all’adempimento dei propri compiti;
 - 2\. l’autorità di vigilanza decide, su richiesta del consiglio di fondazione, in merito a fatti concernenti la liquidazione parziale di fondi padronali di previdenza con prestazioni discrezionali;
-- 3\. esse tengono conto, per analogia, dei principi della parità di trattamento e di adeguatezza.[^89a-25]
+- 3\. esse tengono conto, per analogia, dei principi della parità di trattamento e di adeguatezza.[^89a-28]
 
 [^89a-1]: Introdotto dal n. II della LF del 21 mar. 1958, in vigore dal 1° lug. 1958 ([RU 1958 393](https://fedlex.data.admin.ch/eli/oc/1958/379_389_393)). Fino all’entrata della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione) il 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114)): art. 89<sup>bis</sup>.
 [^89a-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
@@ -1595,28 +1621,31 @@ Per le fondazioni di previdenza a favore del personale di cui al capoverso 7 si 
 [^89a-7]: Nuovo testo giusta il n. I della LF del 25 set. 2015 (Fondazioni di previdenza a favore del personale), in vigore dal 1° apr. 2016 ([RU 2016 935](https://fedlex.data.admin.ch/eli/oc/2016/163); [FF 2014 5295](https://fedlex.data.admin.ch/eli/fga/2014/1295)[5673](https://fedlex.data.admin.ch/eli/fga/2014/1500)).
 [^89a-8]: Nuovo testo giusta il n. II 1 della LF dell’11 dic. 2009 (Misure per agevolare la partecipazione al mercato del lavoro dei lavoratori anziani), in vigore dal 1° gen. 2011 ([RU 2010 4427](https://fedlex.data.admin.ch/eli/oc/2010/622); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
 [^89a-9]: Nuovo testo giusta il n. I della LF del 25 set. 2016 (Fondazioni di previdenza a favore del personale), in vigore dal 1° apr. 2016 ([RU 2016 935](https://fedlex.data.admin.ch/eli/oc/2016/163); [FF 2014 5295](https://fedlex.data.admin.ch/eli/fga/2014/1295)[5673](https://fedlex.data.admin.ch/eli/fga/2014/1500)).
-[^89a-10]: Introdotta dall’all. n. 2 della LF del 18 mar. 2011 (6<sup>a</sup> revisione AI, primo pacchetto di misure) ([RU 2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799); [FF 2010 1603](https://fedlex.data.admin.ch/eli/fga/2010/340)). Nuovo testo giusta il n. 1 della LF del 19 giugno 2015 (Conguaglio della previdenza professionale in caso di divorzio), in vigore dal 1° gen. 2017 ([RU 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [FF 2013 4151](https://fedlex.data.admin.ch/eli/fga/2013/942)).
-[^89a-11]: Introdotto dal n. 1 della LF del 19 giu. 2015 (Conguaglio della previdenza professionale in caso di divorzio), in vigore dal 1° gen. 2017 ([RU 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [FF 2013 4151](https://fedlex.data.admin.ch/eli/fga/2013/942)).
-[^89a-12]: Nuovo testo giusta l’all. n. 1 della LF del 18 giu. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4635](https://fedlex.data.admin.ch/eli/oc/2004/711); [FF 2003 5557](https://fedlex.data.admin.ch/eli/fga/2003/1054)).
-[^89a-13]: Introdotto dal n. 1 della LF del 19 giu. 2015 (Conguaglio della previdenza professionale in caso di divorzio), in vigore dal 1° gen. 2017 ([RU 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [FF 2013 4151](https://fedlex.data.admin.ch/eli/fga/2013/942)).
-[^89a-14]: Introdotto dal n. I della LF del 20 mar. 2015 (Mantenimento del figlio), in vigore dal 1° gen. 2022 ([RU 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728), [2020 5](https://fedlex.data.admin.ch/eli/oc/2020/3); FF **2014** 529).
-[^89a-15]: Introdotto dall’all. n. 1 della LF del 23 giu. 2006 (Nuovo numero d’assicurato dell’AVS), in vigore dal 1° dic. 2007 ([RU 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 471](https://fedlex.data.admin.ch/eli/fga/2006/52)).
-[^89a-16]: Nuovo testo giusta il n. II 1 della LF del 19 mar. 2010 (Riforma strutturale), in vigore dal 1° gen. 2012 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+[^89a-10]: Introdotta dall’all. n. 1 della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^89a-11]: Introdotta dall’all. n. 2 della LF del 18 mar. 2011 (6<sup>a</sup> revisione AI, primo pacchetto di misure) ([RU 2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799); [FF 2010 1603](https://fedlex.data.admin.ch/eli/fga/2010/340)). Nuovo testo giusta il n. 1 della LF del 19 giugno 2015 (Conguaglio della previdenza professionale in caso di divorzio), in vigore dal 1° gen. 2017 ([RU 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [FF 2013 4151](https://fedlex.data.admin.ch/eli/fga/2013/942)).
+[^89a-12]: Introdotto dal n. 1 della LF del 19 giu. 2015 (Conguaglio della previdenza professionale in caso di divorzio), in vigore dal 1° gen. 2017 ([RU 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [FF 2013 4151](https://fedlex.data.admin.ch/eli/fga/2013/942)).
+[^89a-13]: Nuovo testo giusta l’all. n. 1 della LF del 18 giu. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4635](https://fedlex.data.admin.ch/eli/oc/2004/711); [FF 2003 5557](https://fedlex.data.admin.ch/eli/fga/2003/1054)).
+[^89a-14]: Introdotto dal n. 1 della LF del 19 giu. 2015 (Conguaglio della previdenza professionale in caso di divorzio), in vigore dal 1° gen. 2017 ([RU 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [FF 2013 4151](https://fedlex.data.admin.ch/eli/fga/2013/942)).
+[^89a-15]: Introdotto dal n. I della LF del 20 mar. 2015 (Mantenimento del figlio), in vigore dal 1° gen. 2022 ([RU 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728), [2020 5](https://fedlex.data.admin.ch/eli/oc/2020/3); FF **2014** 529).
+[^89a-16]: Introdotto dall’all. n. 1 della LF del 23 giu. 2006 (Nuovo numero d’assicurato dell’AVS), in vigore dal 1° dic. 2007 ([RU 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 471](https://fedlex.data.admin.ch/eli/fga/2006/52)).
 [^89a-17]: Nuovo testo giusta il n. II 1 della LF del 19 mar. 2010 (Riforma strutturale), in vigore dal 1° gen. 2012 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
-[^89a-18]: Nuovo testo giusta il n. II della LF del 20 dic. 2006 (Cambiamento dell’istituto di previdenza), in vigore dal 1° mag. 2007 ([RU 2007 1803](https://fedlex.data.admin.ch/eli/oc/2007/263); [FF 2005 5283](https://fedlex.data.admin.ch/eli/fga/2005/954)[5295](https://fedlex.data.admin.ch/eli/fga/2005/956)).
-[^89a-19]: Nuovo testo giusta il n. II 1 della LF del 19 mar. 2010 (Riforma strutturale), in vigore dal 1° gen. 2012 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
-[^89a-20]: Abrogato dal n. II 1 della LF del 19 mar. 2010 (Riforma strutturale), con effetto dal 1° gen. 2012 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
-[^89a-21]: Nuovo testo giusta il n. II 1 della LF del 17 dic. 2010 (Finanziamento degli istituti di previdenza degli enti di diritto pubblico), in vigore dal 1° gen. 2012 ([RU 2011 3385](https://fedlex.data.admin.ch/eli/oc/2011/457); [FF 2008 7339](https://fedlex.data.admin.ch/eli/fga/2008/1439)).
-[^89a-22]: Nuovo testo giusta l’all. n. 1 della LF del 19 giu 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746), [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
-[^89a-23]: Introdotto dall’all. n. I della LF del 25 giu. 1982 sulla previdenza professionale per la vecchiaia, i superstiti e l’invalidità ([RU 1983 797](https://fedlex.data.admin.ch/eli/oc/1983/797_797_797); [FF 1976 I 113](https://fedlex.data.admin.ch/eli/fga/1976/1_149_117_113)). Nuovo testo giusta l’all. n. 1 della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP); n. 6, 7, 10 a 12, 14 (ad eccezione dell’art. 66 cpv. 4), 15, 17 a 20 e 23 in vigore dal 1° apr. 2004; n. 3 a 5, 8, 9, 13, 14 (art. 66 cpv. 4) e 16 in vigore dal 1° gen. 2005; n. 1, 21 e 22 in vigore dal 1° gen. 2006 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2416](https://fedlex.data.admin.ch/eli/fga/2000/556)).
-[^89a-24]: Introdotto dal n. I della LF del 25 set. 2015 (Fondazioni di previdenza a favore del personale), in vigore dal 1° apr. 2016 ([RU 2016 935](https://fedlex.data.admin.ch/eli/oc/2016/163); [FF 2014 5295](https://fedlex.data.admin.ch/eli/fga/2014/1295)[5673](https://fedlex.data.admin.ch/eli/fga/2014/1500)).
-[^89a-25]: Introdotto dal n. I della LF del 25 set. 2015 (Fondazioni di previdenza a favore del personale), in vigore dal 1° apr. 2015 ([RU 2016 935](https://fedlex.data.admin.ch/eli/oc/2016/163); [FF 2014 5295](https://fedlex.data.admin.ch/eli/fga/2014/1295)[5673](https://fedlex.data.admin.ch/eli/fga/2014/1500)).
+[^89a-18]: Nuovo testo giusta il n. II 1 della LF del 19 mar. 2010 (Riforma strutturale), in vigore dal 1° gen. 2012 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+[^89a-19]: Nuovo testo giusta l’all. n. 1 della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^89a-20]: Nuovo testo giusta l’all. n. 1 della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^89a-21]: Nuovo testo giusta il n. II 1 della LF del 19 mar. 2010 (Riforma strutturale), in vigore dal 1° gen. 2012 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+[^89a-22]: Abrogato dal n. II 1 della LF del 19 mar. 2010 (Riforma strutturale), con effetto dal 1° gen. 2012 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+[^89a-23]: Nuovo testo giusta il n. II 1 della LF del 17 dic. 2010 (Finanziamento degli istituti di previdenza degli enti di diritto pubblico), in vigore dal 1° gen. 2012 ([RU 2011 3385](https://fedlex.data.admin.ch/eli/oc/2011/457); [FF 2008 7339](https://fedlex.data.admin.ch/eli/fga/2008/1439)).
+[^89a-24]: Nuovo testo giusta l’all. n. 1 della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^89a-25]: Nuovo testo giusta l’all. n. 1 della LF del 19 giu 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746), [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^89a-26]: Introdotto dall’all. n. I della LF del 25 giu. 1982 sulla previdenza professionale per la vecchiaia, i superstiti e l’invalidità ([RU 1983 797](https://fedlex.data.admin.ch/eli/oc/1983/797_797_797); [FF 1976 I 113](https://fedlex.data.admin.ch/eli/fga/1976/1_149_117_113)). Nuovo testo giusta l’all. n. 1 della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP); n. 6, 7, 10 a 12, 14 (ad eccezione dell’art. 66 cpv. 4), 15, 17 a 20 e 23 in vigore dal 1° apr. 2004; n. 3 a 5, 8, 9, 13, 14 (art. 66 cpv. 4) e 16 in vigore dal 1° gen. 2005; n. 1, 21 e 22 in vigore dal 1° gen. 2006 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2416](https://fedlex.data.admin.ch/eli/fga/2000/556)).
+[^89a-27]: Introdotto dal n. I della LF del 25 set. 2015 (Fondazioni di previdenza a favore del personale), in vigore dal 1° apr. 2016 ([RU 2016 935](https://fedlex.data.admin.ch/eli/oc/2016/163); [FF 2014 5295](https://fedlex.data.admin.ch/eli/fga/2014/1295)[5673](https://fedlex.data.admin.ch/eli/fga/2014/1500)).
+[^89a-28]: Introdotto dal n. I della LF del 25 set. 2015 (Fondazioni di previdenza a favore del personale), in vigore dal 1° apr. 2015 ([RU 2016 935](https://fedlex.data.admin.ch/eli/oc/2016/163); [FF 2014 5295](https://fedlex.data.admin.ch/eli/fga/2014/1295)[5673](https://fedlex.data.admin.ch/eli/fga/2014/1500)).
 
 ### Titolo secondo<sup>bis</sup>: Delle collette pubbliche
 
 [^book1-tit2bis-1]
 
-[^book1-tit2bis-1]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParL; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)). Introdotto dal n. I 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
+[^book1-tit2bis-1]: Introdotto dal n. I 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)). Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParL; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
 
 ### A. Difetto di amministrazione
 
@@ -2061,13 +2090,17 @@ Le pretese di previdenza professionale acquisite durante il matrimonio fino al p
 [^123-1]: Nuovo testo giusta il n. 1 della LF del 19 giu. 2015 (Conguaglio della previdenza professionale in caso di divorzio), in vigore dal 1° gen. 2017 ([RU 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [FF 2013 4151](https://fedlex.data.admin.ch/eli/fga/2013/942)).
 [^123-2]: [RS 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
 
-### III. Conguaglio delle rendite d’invalidità versate prima dell’età di pensionamento stabilita dal regolamento
+### III. Conguaglio delle rendite d’invalidità versate prima dell’età di riferimento stabilita dal regolamento
+
+[^book2-part1-tit4-chap3-lvlD-lvlIII-1]
+
+[^book2-part1-tit4-chap3-lvlD-lvlIII-1]: Nuova espr. giusta l’all. n. 1 della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
 
 #### Art. 124
 
 [^124-1]
 
-<sup>1</sup> Se, al momento del promovimento della procedura di divorzio, un coniuge percepisce una rendita d’invalidità e non ha ancora raggiunto l’età di pensionamento stabilita dal regolamento, l’importo che gli spetterebbe conformemente all’articolo 2 capoverso 1<sup>ter</sup> della legge del 17 dicembre 1993[^124-2] sul libero passaggio in caso di soppressione della rendita d’invalidità vale come prestazione d’uscita.
+<sup>1</sup> Se, al momento del promovimento della procedura di divorzio, un coniuge percepisce una rendita d’invalidità e non ha ancora raggiunto l’età di riferimento stabilita dal regolamento, l’importo che gli spetterebbe conformemente all’articolo 2 capoverso 1<sup>ter</sup> della legge del 17 dicembre 1993[^124-2] sul libero passaggio in caso di soppressione della rendita d’invalidità vale come prestazione d’uscita.
 
 <sup>2</sup> Le disposizioni sul conguaglio delle prestazioni d’uscita si applicano per analogia.
 
@@ -2076,13 +2109,13 @@ Le pretese di previdenza professionale acquisite durante il matrimonio fino al p
 [^124-1]: Nuovo testo giusta il n. 1 della LF del 19 giu. 2015 (Conguaglio della previdenza professionale in caso di divorzio), in vigore dal 1° gen. 2017 ([RU 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [FF 2013 4151](https://fedlex.data.admin.ch/eli/fga/2013/942)).
 [^124-2]: [RS 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
 
-### IV. Conguaglio delle rendite d’invalidità versate dopo l’età di pensionamento stabilita dal regolamento o di rendite di vecchiaia
+### IV. Conguaglio delle rendite d’invalidità versate dopo l’età di riferimento stabilita dal regolamento o di rendite di vecchiaia
 
 #### Art. 124a
 
 [^124a-1]
 
-<sup>1</sup> Se, al momento del promovimento della procedura di divorzio, un coniuge percepisce una rendita d’invalidità e ha già raggiunto l’età di pensionamento stabilita dal regolamento, oppure percepisce una rendita di vecchiaia, il giudice decide secondo equità sulla divisione della rendita. A tal fine, tiene conto in particolare della durata del matrimonio e dei bisogni di previdenza di entrambi i coniugi.
+<sup>1</sup> Se, al momento del promovimento della procedura di divorzio, un coniuge percepisce una rendita d’invalidità e ha già raggiunto l’età di riferimento stabilita dal regolamento, oppure percepisce una rendita di vecchiaia, il giudice decide secondo equità sulla divisione della rendita. A tal fine, tiene conto in particolare della durata del matrimonio e dei bisogni di previdenza di entrambi i coniugi.
 
 <sup>2</sup> La parte di rendita assegnata al coniuge creditore è convertita in una rendita vitalizia. Quest’ultima gli è versata dall’istituto di previdenza del coniuge debitore o è trasferita nella sua previdenza.
 
@@ -2511,7 +2544,7 @@ Sono applicabili le disposizioni relative all’aiuto all’incasso e agli antic
 
 [^176a-1]: Introdotto dal n. I della LF del 20 mar. 2015 (Mantenimento del figlio), in vigore dal 1° gen. 2017 ([RU 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [FF 2014 489](https://fedlex.data.admin.ch/eli/fga/2014/98)).
 
-### b. Diffida ai debitori**
+### b. Diffida ai debitori
 
 [^book2-part1-tit5-lvlK-lvlII-lvl4-lvlb-1]
 
@@ -4893,7 +4926,8 @@ L’autorità di protezione dei minori esamina se occorra disporre una rappresen
 
 - 1\. il procedimento concerne il ricovero del figlio;
 - 2\. gli interessati propongono conclusioni differenti in merito all’autorità parentale o a questioni importanti concernenti le relazioni personali.
-- [tab] <sup>3</sup> Il curatore del figlio può proporre conclusioni e presentare impugnazioni.
+
+<sup>3</sup> Il curatore del figlio può proporre conclusioni e presentare impugnazioni.
 
 [^314abis-1]: Introdotto dal n. I 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
 
@@ -5020,7 +5054,7 @@ Il giudice è competente a modificare le misure giudiziarie relative all’attri
 
 <sup>2</sup> Negli altri casi è competente l’autorità di protezione dei minori.[^315b-2]
 
-[^315b-1]: Nuovo testo giusta il n. I 4 della LF del 26 giu. 1998, in vigore dal 1° gen. 2000 ([RU 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149); [FF 1996 I 1](https://fedlex.data.admin.ch/eli/fga/1996/1_1_1_1)).
+[^315b-1]: Introdotto dal n. I 4 della LF del 26 giu. 1998, in vigore dal 1° gen. 2000 ([RU 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149); [FF 1996 I 1](https://fedlex.data.admin.ch/eli/fga/1996/1_1_1_1)).
 [^315b-2]: Nuovo testo giusta il n. I 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
 
 ### VIII. Vigilanza sugli affiliati
@@ -5897,7 +5931,9 @@ Se l’istituzione di una curatela appare manifestamente sproporzionata rispetto
 
 <sup>3</sup> L’autorità di protezione degli adulti può privare l’interessato dell’accesso a dati beni senza limitarne l’esercizio dei diritti civili.
 
-<sup>4</sup> Se vieta all’interessato di disporre di un fondo, ne ordina la menzione nel registro fondiario.
+<sup>4</sup> ...[^395-1]
+
+[^395-1]: Abrogato dal n. I della LF 16 dic. 2026 (Comunicazione di misure di protezione degli adulti), con effetto dal 1° gen. 2024 ([RU 2023 84](https://fedlex.data.admin.ch/eli/oc/2023/84); [FF 2016 4585](https://fedlex.data.admin.ch/eli/fga/2016/1115), [4599](https://fedlex.data.admin.ch/eli/fga/2016/1117)).
 
 ### C. Curatela di cooperazione
 
@@ -6492,10 +6528,48 @@ Se necessario, l’autorità di protezione degli adulti ordina che l’interessa
 
 #### Art. 449c
 
-L’autorità di protezione degli adulti comunica all’ufficio dello stato civile se:
+[^449c-1]
 
-- 1\. sottopone una persona a curatela generale a causa di durevole incapacità di discernimento;
-- 2\. per una persona durevolmente incapace di discernimento prende effetto un mandato precauzionale.
+<sup>1</sup>
+
+Qualora ordini, modifichi o revochi misure, l’autorità di protezione degli adulti comunica senza indugio la sua decisione, non appena essa è esecutiva, alle autorità seguenti:
+
+- 1\.
+
+  all’ufficio dello stato civile se:
+
+  - a. ha sottoposto una persona a curatela generale,
+  - b. ha ordinato una misura che rende necessario il consenso del rappresentante legale conformemente all’articolo 260 capoverso 2, o
+  - c. per una persona durevolmente incapace di discernimento ha preso effetto un mandato precauzionale;
+
+- 2\.
+
+  al Comune di domicilio se:
+
+  - a. ha sottoposto una persona a curatela, o
+  - b. per una persona durevolmente incapace di discernimento ha preso effetto un mandato precauzionale;
+
+- 3\.
+
+  all’ufficio delle esecuzioni del domicilio dell’interessato se:
+
+  - a. per una persona minorenne ha istituito una tutela o una curatela secondo l’articolo 325,
+  - b. per una persona maggiorenne ha istituito una curatela che conferisce al curatore poteri di amministrazione dei beni oppure revoca o limita l’esercizio dei diritti civili dell’interessato, o
+  - c. per una persona durevolmente incapace di discernimento ha preso effetto un mandato precauzionale;
+
+- 4\.
+
+  all’autorità per il rilascio dei documenti d’identità conformemente alla legge federale del 22 giugno 2001[^449c-2] sui documenti d’identità dei cittadini svizzeri se:
+
+  - a. per una persona minorenne ha istituito una tutela, oppure ha limitato l’autorità parentale in relazione alla domanda di rilascio di documenti d’identità, o
+  - b. per una persona maggiorenne ha istituito una curatela che ne limita l’esercizio dei diritti civili in relazione alla domanda di rilascio di documenti d’identità;
+
+- 5\. all’ufficio del registro fondiario, in quanto notificazione per una menzione, se per una persona ha istituito una curatela che ne limita la capacità di disporre di un fondo o la priva di tale capacità.
+
+<sup>2</sup> In caso di cambiamento dell’autorità di protezione degli adulti competente, spetta alla nuova autorità provvedere alle pertinenti comunicazioni.
+
+[^449c-1]: Nuovo testo giusta il n. I della LF 16 dic. 2026 (Comunicazione di misure di protezione degli adulti), in vigore dal 1° gen. 2024 ([RU 2023 84](https://fedlex.data.admin.ch/eli/oc/2023/84); [FF 2016 4585](https://fedlex.data.admin.ch/eli/fga/2016/1115), [4599](https://fedlex.data.admin.ch/eli/fga/2016/1117)).
+[^449c-2]: [RS 143.1](https://fedlex.data.admin.ch/eli/cc/2002/441)
 
 ### Sezione seconda: Davanti all’autorità giudiziaria di reclamo
 
@@ -6591,7 +6665,9 @@ Per il resto si applicano per analogia le disposizioni del diritto processuale c
 
 <sup>1</sup> L’autorità di protezione degli adulti è tenuta alla discrezione, salvo che interessi preponderanti vi si oppongano.
 
-<sup>2</sup> Chi rende verosimile un interesse può chiedere all’autorità di protezione degli adulti se sussiste una misura di protezione degli adulti e quali ne siano gli effetti.
+<sup>2</sup> Chi rende verosimile un interesse può chiedere all’autorità di protezione degli adulti se sussiste una misura di protezione degli adulti e quali ne siano gli effetti. Il Consiglio federale provvede affinché le relative informazioni siano trasmesse in modo semplice, rapido e uniforme. A tal fine emana un’ordinanza.[^451-1]
+
+[^451-1]: Secondo e terzo per. introdotti dal n. I della LF 16 dic. 2026 (Comunicazione di misure di protezione degli adulti), in vigore dal 1° gen. 2024 ([RU 2023 84](https://fedlex.data.admin.ch/eli/oc/2023/84); [FF 2016 4585](https://fedlex.data.admin.ch/eli/fga/2016/1115), [4599](https://fedlex.data.admin.ch/eli/fga/2016/1117)).
 
 ### B. Effetto delle misure nei confronti dei terzi
 
@@ -10117,9 +10193,9 @@ L’estensione dei diritti di passaggio, quali i sentieri nei campi e nei boschi
 
 ### III. Spostamento della servitù
 
-[^book4-part2-tit21-chap1-lvlC-lvlII-lvlIII-1]
+[^book4-part2-tit21-chap1-lvlC-lvlIII-1]
 
-[^book4-part2-tit21-chap1-lvlC-lvlII-lvlIII-1]: Nuovo testo giusta il n. I 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
+[^book4-part2-tit21-chap1-lvlC-lvlIII-1]: Nuovo testo giusta il n. I 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
 
 #### Art. 742
 
@@ -12003,7 +12079,7 @@ Chi in buona fede ha ricevuto una cosa mobile a titolo di proprietà o di un dir
 
 <sup>3</sup> Del resto la restituzione ha luogo secondo le norme relative ai diritti del possessore di buona fede.
 
-[^934-1]: <sup>Nuovo testo</sup> giusta <sup>il n. I della LF del 4 ott. 2002 (Articolo di principio sugli animali),</sup> <sup>in vigore dal 1° apr. 2003 (</sup>[<sup>RU</sup> <sup>2003</sup> <sup>463</sup>](https://fedlex.data.admin.ch/eli/oc/2003/100)<sup>;</sup> [<sup>FF</sup> <sup>2002</sup> <sup>3734</sup>](https://fedlex.data.admin.ch/eli/fga/2002/591)<sup>[5207](https://fedlex.data.admin.ch/eli/fga/2002/895)).</sup>
+[^934-1]: Nuovo testo giusta il n. I della LF del 4 ott. 2002 (Articolo di principio sugli animali), in vigore dal 1° apr. 2003 ([RU 2003 463](https://fedlex.data.admin.ch/eli/oc/2003/100); [FF 2002 3734](https://fedlex.data.admin.ch/eli/fga/2002/591)[5207](https://fedlex.data.admin.ch/eli/fga/2002/895)).
 [^934-2]: [RS 444.1](https://fedlex.data.admin.ch/eli/cc/2005/317)
 [^934-3]: Introdotto dall’art. 32 n. 1 della L del 20 giu. 2003 sul trasferimento dei beni culturali, in vigore dal 1° giu. 2005 ([RU 2005 1869](https://fedlex.data.admin.ch/eli/oc/2005/317); [FF 2002 457](https://fedlex.data.admin.ch/eli/fga/2002/93)).
 
@@ -12908,7 +12984,7 @@ Ai procedimenti pendenti al momento dell’entrata in vigore della modifica del 
 
 Nei processi di divorzio pendenti al momento dell’entrata in vigore della modifica del presente Codice del 19 dicembre 2003[^u1-7c-2] e che devono essere giudicati da un’istanza cantonale si applica il termine di separazione previsto dalla legge nuova.
 
-[^u1-7c-1]: Nuovo testo giusta il n. I della LF del 19 dic. 2003 (Termine di separazione nel diritto del divorzio), in vigore dal 1° giu. 2004 ([RU 2004 2161](https://fedlex.data.admin.ch/eli/oc/2004/254); [FF 2003 7101](https://fedlex.data.admin.ch/eli/fga/2003/1406)[5066](https://fedlex.data.admin.ch/eli/fga/2003/893)).
+[^u1-7c-1]: Introdotto dal n. I della LF del 19 dic. 2003 (Termine di separazione nel diritto del divorzio), in vigore dal 1° giu. 2004 ([RU 2004 2161](https://fedlex.data.admin.ch/eli/oc/2004/254); [FF 2003 7101](https://fedlex.data.admin.ch/eli/fga/2003/1406)[5066](https://fedlex.data.admin.ch/eli/fga/2003/893)).
 [^u1-7c-2]: [RU 2004 2161](https://fedlex.data.admin.ch/eli/oc/2004/254)
 
 ### 4. Previdenza professionale

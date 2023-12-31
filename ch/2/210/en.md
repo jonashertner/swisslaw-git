@@ -4,11 +4,11 @@ title: Swiss Civil Code of 10 December 1907
 short: CC
 eli: "https://fedlex.data.admin.ch/eli/cc/24/233_245_233"
 language: en
-version: 2023-09-01
+version: 2024-01-01
 adopted: 1907-12-10
 in_force: 1912-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/24/233_245_233/20230901/en/xml/fedlex-data-admin-ch-eli-cc-24-233_245_233-20230901-en-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/24/233_245_233/20230901/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/24/233_245_233/20240101/en/xml/fedlex-data-admin-ch-eli-cc-24-233_245_233-20240101-en-xml-11.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/24/233_245_233/20240101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/24/233_245_233/20230901/en"
 
 English is not an official language of the Swiss Confederation. This translation is provided for information purposes only and has no legal force.
 
-of 10 December 1907 (Status as of 1 September 2023)
+of 10 December 1907 (Status as of 1 January 2024)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -1405,7 +1405,10 @@ If the planned system of organisation proves inadequate, if the foundation lacks
 
 <sup>2</sup> The supervisory authority must ensure that the foundation’s assets are used for their declared purpose.
 
+<sup>3</sup> Beneficiaries or creditors of the foundation, the founder, donors and current and former members of the foundation board who have an interest in ensuring that the administration of the foundation complies with the law and the foundation charter may appeal to the supervisory authority against acts or omissions of the foundation’s governing bodies.[^84-2]
+
 [^84-1]: Inserted by No I of the FA of 8 Oct. 2004 (Law on Foundations), in force since 1 Jan. 2006 ([AS 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [BBl 2003 8153](https://fedlex.data.admin.ch/eli/fga/2003/1402)[8191](https://fedlex.data.admin.ch/eli/fga/2003/1404)).
+[^84-2]: Inserted by No I of the FA of 17 Dec. 2021 (Strengthening Switzerland as a Foundation Location), in force since 1 Jan. 2024 ([AS 2022 452](https://fedlex.data.admin.ch/eli/oc/2022/452); [BBl 2021 485](https://fedlex.data.admin.ch/eli/fga/2021/485), [1169](https://fedlex.data.admin.ch/eli/fga/2021/1169)).
 
 ### C<sup>bis</sup>. Imminent insolvency and overindebtedness
 
@@ -1436,7 +1439,11 @@ The board of trustees must separately notify the supervisory authority annually 
 
 ### D. Modification of the foundation
 
-### I. Reorganisation
+### I. Reorganisation at the request of the supervisory authority
+
+[^book1-tit2-chap3-lvlD-lvlI-1]
+
+[^book1-tit2-chap3-lvlD-lvlI-1]: Amended by No I of the FA of 17 Dec. 2021 (Strengthening Switzerland as a Foundation Location), in force since 1 Jan. 2024 ([AS 2022 452](https://fedlex.data.admin.ch/eli/oc/2022/452); [BBl 2021 485](https://fedlex.data.admin.ch/eli/fga/2021/485), [1169](https://fedlex.data.admin.ch/eli/fga/2021/1169)).
 
 #### Art. 85
 
@@ -1446,13 +1453,11 @@ At the request of the supervisory authority and having heard the board of truste
 
 [^85-1]: Amended by No I of the FA of 8 Oct. 2004 (Law on Foundations), in force since 1 Jan. 2006 ([AS 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [BBl 2003 8153](https://fedlex.data.admin.ch/eli/fga/2003/1402)[8191](https://fedlex.data.admin.ch/eli/fga/2003/1404)).
 
-### II. Amendment of objects
+### II. Amendment of objects at the request of the supervisory authority or the board of trustees
 
-### 1. Request by the supervisory authority or the board of trustees
+[^book1-tit2-chap3-lvlD-lvlII-1]
 
-[^book1-tit2-chap3-lvlD-lvlII-lvl1-1]
-
-[^book1-tit2-chap3-lvlD-lvlII-lvl1-1]: Amended by No I of the FA of 8 Oct. 2004 (Law of Foundations), in force since 1 Jan. 2006 ([AS 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [BBl 2003 8153](https://fedlex.data.admin.ch/eli/fga/2003/1402)[8191](https://fedlex.data.admin.ch/eli/fga/2003/1404)).
+[^book1-tit2-chap3-lvlD-lvlII-1]: Amended by No I of the FA of 17 Dec. 2021 (Strengthening Switzerland as a Foundation Location), in force since 1 Jan. 2024 ([AS 2022 452](https://fedlex.data.admin.ch/eli/oc/2022/452); [BBl 2021 485](https://fedlex.data.admin.ch/eli/fga/2021/485), [1169](https://fedlex.data.admin.ch/eli/fga/2021/1169)).
 
 #### Art. 86
 
@@ -1462,26 +1467,34 @@ At the request of the supervisory authority and having heard the board of truste
 
 [^86-1]: Amended by No I of the FA of 8 Oct. 2004 (Law of Foundations), in force since 1 Jan. 2006 ([AS 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [BBl 2003 8153](https://fedlex.data.admin.ch/eli/fga/2003/1402)[8191](https://fedlex.data.admin.ch/eli/fga/2003/1404)).
 
-### 2. At the founder’s request or in accordance with his testamentary disposition
+### III. Amendment of objects or organisational form as a result of a reservation by the founder
+
+[^book1-tit2-chap3-lvlD-lvlIII-1]
+
+[^book1-tit2-chap3-lvlD-lvlIII-1]: Amended by No I of the FA of 17 Dec. 2021 (Strengthening Switzerland as a Foundation Location), in force since 1 Jan. 2024 ([AS 2022 452](https://fedlex.data.admin.ch/eli/oc/2022/452); [BBl 2021 485](https://fedlex.data.admin.ch/eli/fga/2021/485), [1169](https://fedlex.data.admin.ch/eli/fga/2021/1169)).
 
 #### Art. 86a
 
 [^86a-1]
 
-<sup>1</sup> The competent federal or cantonal authority shall amend the objects of the foundation at the founder’s request or in accordance with his or her testamentary disposition, provided that the charter reserves the right to amend the objects and that at least ten years have elapsed since the foundation was established or since the last amendment requested by the founder.
+<sup>1</sup> The competent federal or cantonal authority shall amend the objects of the foundation or its organisational form at the founder’s request or in accordance with his or her testamentary disposition, provided that the charter reserves the right to amend the objects or the organisational form and that at least ten years have elapsed since the foundation was established or since the last amendment to the objects or the organisational form was requested by the founder. The limitation periods run independently of each other.[^86a-2]
 
-<sup>2</sup> Where the foundation pursues public or charitable objects within the meaning of Art. 56 lit. g of the Federal Act of 14 December 1990 on Direct Federal Taxation[^86a-2], such new objects must likewise be public or charitable.
+<sup>2</sup> Where the foundation pursues public or charitable objects within the meaning of Article 56 letter g of the Federal Act of 14 December 1990 on Direct Federal Taxation[^86a-3], such new objects must likewise be public or charitable.
 
-<sup>3</sup> The right to amend a foundation’s objects is neither transferable nor heritable. If the founder is a legal entity, the right extinguishes at the latest 20 years after the establishment of the foundation.
+<sup>3</sup> The right to amend a foundation’s objects or organisational form is neither transferable nor heritable.[^86a-4] If the founder is a legal entity, the right extinguishes at the latest 20 years after the establishment of the foundation.
 
-<sup>4</sup> Joint founders may only jointly request an amendment of the foundation’s objects.
+<sup>4</sup> Joint founders may only jointly request an amendment of the foundation’s objects or organisational form.[^86a-5]
 
-<sup>5</sup> The probate authority shall inform the competent authority of any testamentary disposition concerning the amendment of the foundation’s objects.
+<sup>5</sup> The probate authority shall inform the competent authority of any testamentary disposition concerning the amendment of the foundation’s objects or organisational form.[^86a-6]
 
 [^86a-1]: Inserted by No I of the FA of 8 Oct. 2004 (Law of Foundations), in force since 1 Jan. 2006 ([AS 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [BBl 2003 8153](https://fedlex.data.admin.ch/eli/fga/2003/1402)[8191](https://fedlex.data.admin.ch/eli/fga/2003/1404)).
-[^86a-2]: [SR 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+[^86a-2]: Amended by No I of the FA of 17 Dec. 2021 (Strengthening Switzerland as a Foundation Location), in force since 1 Jan. 2024 ([AS 2022 452](https://fedlex.data.admin.ch/eli/oc/2022/452); [BBl 2021 485](https://fedlex.data.admin.ch/eli/fga/2021/485), [1169](https://fedlex.data.admin.ch/eli/fga/2021/1169)).
+[^86a-3]: [SR 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+[^86a-4]: Amended by No I of the FA of 17 Dec. 2021 (Strengthening Switzerland as a Foundation Location), in force since 1 Jan. 2024 ([AS 2022 452](https://fedlex.data.admin.ch/eli/oc/2022/452); [BBl 2021 485](https://fedlex.data.admin.ch/eli/fga/2021/485), [1169](https://fedlex.data.admin.ch/eli/fga/2021/1169)).
+[^86a-5]: Amended by No I of the FA of 17 Dec. 2021 (Strengthening Switzerland as a Foundation Location), in force since 1 Jan. 2024 ([AS 2022 452](https://fedlex.data.admin.ch/eli/oc/2022/452); [BBl 2021 485](https://fedlex.data.admin.ch/eli/fga/2021/485), [1169](https://fedlex.data.admin.ch/eli/fga/2021/1169)).
+[^86a-6]: Amended by No I of the FA of 17 Dec. 2021 (Strengthening Switzerland as a Foundation Location), in force since 1 Jan. 2024 ([AS 2022 452](https://fedlex.data.admin.ch/eli/oc/2022/452); [BBl 2021 485](https://fedlex.data.admin.ch/eli/fga/2021/485), [1169](https://fedlex.data.admin.ch/eli/fga/2021/1169)).
 
-### III. Minor amendments to the charter
+### IV. Minor amendments to the charter
 
 #### Art. 86b
 
@@ -1489,7 +1502,17 @@ At the request of the supervisory authority and having heard the board of truste
 
 Having heard the board of trustees, the supervisory authority may make minor amendments to the foundation charter provided these are objectively justified and do not impair the rights of any third party.
 
-[^86b-1]: Inserted by No I of the FA of 8 Oct. 2004 (Law of Foundations), in force since 1 Jan. 2006 ([AS 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [BBl 2003 8153](https://fedlex.data.admin.ch/eli/fga/2003/1402)[8191](https://fedlex.data.admin.ch/eli/fga/2003/1404)).
+[^86b-1]: Inserted by No I of the FA of 8 Oct. 2004 (Law of Foundations) ([AS 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [BBl 2003 8153](https://fedlex.data.admin.ch/eli/fga/2003/1402)[8191](https://fedlex.data.admin.ch/eli/fga/2003/1404)). Amended by No I of the FA of 17 Dec. 2021 (Strengthening Switzerland as a Foundation Location), in force since 1 Jan. 2024 ([AS 2022 452](https://fedlex.data.admin.ch/eli/oc/2022/452); [BBl 2021 485](https://fedlex.data.admin.ch/eli/fga/2021/485), [1169](https://fedlex.data.admin.ch/eli/fga/2021/1169)).
+
+### V. Form of the amendments
+
+#### Art. 86c
+
+[^86c-1]
+
+Amendments to the foundation charter in accordance with Articles 85–86*b* shall be subject to a ruling from the competent federal or cantonal authority from the supervisory authority. A public deed is not required for the amendments.
+
+[^86c-1]: Inserted by No I of the FA of 17 Dec. 2021 (Strengthening Switzerland as a Foundation Location), in force since 1 Jan. 2024 ([AS 2022 452](https://fedlex.data.admin.ch/eli/oc/2022/452); [BBl 2021 485](https://fedlex.data.admin.ch/eli/fga/2021/485), [1169](https://fedlex.data.admin.ch/eli/fga/2021/1169)).
 
 ### E. Family and ecclesiastical foundations
 
@@ -1560,32 +1583,33 @@ For employee benefits schemes providing old age, survivors’ and invalidity pen
 
 - 1\.[^89a-9] the definition and principles of occupational pension arrangements and the insurable salary or income (Art. 1, 33*a* and 33*b*);
 - 2\.[^89a-10] the requirement of being subject to OASI (Art. 5 para. 1);
+- 2*a*.[^89a-11] the drawing of retirement benefits (Art. 13 para. 2, Art. 13*a* and 13*b*),
 - 3\. the beneficiaries in the case of survivors’ benefits (Art. 20*a*);
-- 3*a*.[^89a-11] the adjustment of the invalidity pension following the equitable division of occupational pensions (Art. 24 para. 5);
-- 3*b*.[^89a-12] the provisional continuation of insurance and of the entitlement to benefits on the reduction or termination of the invalidity pension (Art. 26*a*);
-- 4\.[^89a-13] the adjustment of plan benefits to inflation (Art. 36 para. 2–4);
-- [tab] 4*a*.[^89a-14] the agreement on a lump sum payment (Art. 37*a*);
-- 4*b*.[^89a-15] the measures in the case of neglect of maintenance obligations (Art. 40);
+- 3*a*.[^89a-12] the adjustment of the invalidity pension following the equitable division of occupational pensions (Art. 24 para. 5);
+- 3*b*.[^89a-13] the provisional continuation of insurance and of the entitlement to benefits on the reduction or termination of the invalidity pension (Art. 26*a*);
+- 4\.[^89a-14] the adjustment of plan benefits to inflation (Art. 36 para. 2–4);
+- [tab] 4*a*.[^89a-15] the agreement on a lump sum payment (Art. 37*a*);
+- 4*b*.[^89a-16] the measures in the case of neglect of maintenance obligations (Art. 40);
 - 5\. the prescription of claims and the safekeeping of insurance documents (Art. 41);
-- 5*a*.[^89a-16] the use, processing and disclosure of the OASI number (Art. 48 para. 4, Art. 85*a* lit. f and Art. 86*a* para. 2 lit. b<sup>bis</sup>);
+- 5*a*.[^89a-17] the use, processing and disclosure of the OASI number (Art. 48 para. 4, Art. 85*a* lit. f and Art. 86*a* para. 2 lit. b<sup>bis</sup>);
 - 6\. liability (Art. 52);
-- 7\.[^89a-17] the licensing and duties of the supervisory bodies (Art. 52*a*–52*e*);
-- 8\.[^89a-18] the integrity and loyalty of the persons responsible, transactions with close associates and conflicts of interest (Art. 51*b*, 51*c* and 53*a*);
+- 7\.[^89a-18] the licensing and duties of the supervisory bodies (Art. 52*a*–52*e*);
+- 8\.[^89a-19] the integrity and loyalty of the persons responsible, transactions with close associates and conflicts of interest (Art. 51*b*, 51*c* and 53*a*);
 - 9\. partial or total liquidation (Art. 53*b*–53*d*);
-- 10\.[^89a-19] termination of contracts (Art. 53*e*);
-- 11\. the guarantee fund (Art. 56 para. 1 lit. c and para. 2–5, Art. 56*a*, 57 and 59);
-- 12\.[^89a-20] supervision and oversight (Art. 61–62*a* and 64–64*c*);
-- 13\.[^89a-21] ...
-- 14\.[^89a-22] financial security (Art. 65 para. 1, 3 and 4, Art. 66 para. 4, Art. 67 and Art. 72*a*–72*g*);
+- 10\.[^89a-20] termination of contracts (Art. 53*e*–53*f*);
+- 11\.[^89a-21] the guarantee fund (Art. 56 para. 1 let. c and i and para. 2–5, Art. 56*a*, 57 and 59);
+- 12\.[^89a-22] supervision and oversight (Art. 61–62*a* and 64–64*c*);
+- 13\.[^89a-23] ...
+- 14\.[^89a-24] financial security (Art. 65 para. 1, 3 and 4, Art. 66 para. 4, Art. 67 and Art. 72*a*–72*g*);
 - 15\. transparency (Art. 65*a*);
-- 16\. reserves (Art. 65*b*);
+- 16\.[^89a-25] reserves and fluctuation reserves (Art. 65*b*);
 - 17\. insurance contracts between occupational benefits schemes and insurance institutions (Art. 68 para. 3 and 4);
-- 18\.[^89a-23] asset management (Art. 71) and the shareholder’s requirement to vote (Art. 71*a* and 71*b*);
+- 18\.[^89a-26] asset management (Art. 71) and the shareholder’s requirement to vote (Art. 71*a* and 71*b*);
 - 19\. legal recourse (Art. 73 and 74);
 - 20\. criminal provisions (Art. 75–79);
 - 21\. buy-in (Art. 79*b*);
 - 22\. insurable salary and income (Art. 79*c*);
-- 23\. provision of information to insured persons (Art. 86*b*).[^89a-24]
+- 23\. provision of information to insured persons (Art. 86*b*).[^89a-27]
 
 <sup>7</sup>
 
@@ -1600,7 +1624,7 @@ For employee benefits schemes providing old age, survivors’ and invalidity pen
 - 7\. supervision and oversight (Art. 61–62*a* and 64–64*b*);
 - 8\. legal recourse (Art. 73 and 74);
 - 9\. criminal provisions (Art. 75–79);
-- 10\. tax treatment (Art. 80, 81 para. 1 and 83).[^89a-25]
+- 10\. tax treatment (Art. 80, 81 para. 1 and 83).[^89a-28]
 
 <sup>8</sup>
 
@@ -1608,7 +1632,7 @@ For employee benefits schemes under paragraph 7, the following provisions also a
 
 - 1\. they manage their assets so that security, an adequate yield on investments and the required liquidity for their tasks are guaranteed.
 - 2\. the supervisory authority shall rule on partial liquidation matters related to employer-sponsored welfare funds with discretionary benefits at the request of the foundation board.
-- 3\. they shall respect the principles of equal treatment and fairness *mutatis mutandis*.[^89a-26]
+- 3\. they shall respect the principles of equal treatment and fairness *mutatis mutandis*.[^89a-29]
 
 [^89a-1]: Inserted by No II of the FA of 21 March 1958, in force since 1 July 1958 ([AS 1958 379](https://fedlex.data.admin.ch/eli/oc/1958/379_389_393); [BBl 1956 II 825](https://fedlex.data.admin.ch/eli/fga/1956/2_825_845_)). Originally Art. 89<sup>bis</sup>, until the entry into force of the FA of 19 Dec. 2008 (Adult Protection Law, Law of Persons and Law of Children), in force since 1 Jan. 2013 ([AS 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [BBl 2006 7001](https://fedlex.data.admin.ch/eli/fga/2006/899)).
 [^89a-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
@@ -1620,22 +1644,25 @@ For employee benefits schemes under paragraph 7, the following provisions also a
 [^89a-8]: Amended by No I of the FA of 25 Sept. 2015 (Employee Benefits Schemes), in force since 1 April 2016 ([AS 2016 935](https://fedlex.data.admin.ch/eli/oc/2016/163); [BBl 2014 6143](https://fedlex.data.admin.ch/eli/fga/2014/1295)[6649](https://fedlex.data.admin.ch/eli/fga/2014/1500)).
 [^89a-9]: Amended by No II 1 of the FA of 11 Dec. 2009 (Measures to Facilitate the Employment of Older Persons), in force since 1 Jan. 2011 ([AS 2010 4427](https://fedlex.data.admin.ch/eli/oc/2010/622); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
 [^89a-10]: Amended by No I of the FA of 25 Sept. 2015 (Employee Benefits Schemes), in force since 1 April 2016 ([AS 2016 935](https://fedlex.data.admin.ch/eli/oc/2016/163); [BBl 2014 6143](https://fedlex.data.admin.ch/eli/fga/2014/1295)[6649](https://fedlex.data.admin.ch/eli/fga/2014/1500)).
-[^89a-11]: Inserted by Annex No 2 of the FA of 18 March 2011 (6th InvI Revision, first set of measures) ([AS 2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799); [BBl 2010 1817](https://fedlex.data.admin.ch/eli/fga/2010/340)). Amended by No I of the FA of 19 June 2015 (Equitable Division of Pensions on Divorce), in force since 1 Jan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
-[^89a-12]: Inserted by No I of the FA of 19 June 2015 (Equitable Division of Pensions on Divorce), in force since 1 Jan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
-[^89a-13]: Amended by Annex No 1 of the FA of 18 June 2004, in force since 1 Jan. 2005 ([AS 2004 4635](https://fedlex.data.admin.ch/eli/oc/2004/711); [BBl 2003 6399](https://fedlex.data.admin.ch/eli/fga/2003/1054)).
-[^89a-14]: Inserted by No I of the FA of 19 June 2015 (Equitable Division of Pensions on Divorce), in force since 1 Jan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
-[^89a-15]: Inserted by No I of the FA of 20 March 2015 (Child Maintenance), in force since 1 Jan. 2022 ([AS 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728), [2020 5](https://fedlex.data.admin.ch/eli/oc/2020/3); [BBl 2014 529](https://fedlex.data.admin.ch/eli/fga/2014/98)).
-[^89a-16]: Inserted by Annex No 1 of the FA of 23 June 2006 (New OASI Insurance Number), in force since 1 Dec. 2007 ([AS 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [BBl 2006 501](https://fedlex.data.admin.ch/eli/fga/2006/52)).
-[^89a-17]: Amended by No II 1 of the FA of 19 March 2010 (OPA Structural Reform), in force since 1 Jan. 2012 ([AS 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+[^89a-11]: Inserted by Annex No 1 of the FA of 17 Dec. 2021 (OASI 21), in force since 1 Jan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^89a-12]: Inserted by Annex No 2 of the FA of 18 March 2011 (6th InvI Revision, first set of measures) ([AS 2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799); [BBl 2010 1817](https://fedlex.data.admin.ch/eli/fga/2010/340)). Amended by No I of the FA of 19 June 2015 (Equitable Division of Pensions on Divorce), in force since 1 Jan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
+[^89a-13]: Inserted by No I of the FA of 19 June 2015 (Equitable Division of Pensions on Divorce), in force since 1 Jan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
+[^89a-14]: Amended by Annex No 1 of the FA of 18 June 2004, in force since 1 Jan. 2005 ([AS 2004 4635](https://fedlex.data.admin.ch/eli/oc/2004/711); [BBl 2003 6399](https://fedlex.data.admin.ch/eli/fga/2003/1054)).
+[^89a-15]: Inserted by No I of the FA of 19 June 2015 (Equitable Division of Pensions on Divorce), in force since 1 Jan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
+[^89a-16]: Inserted by No I of the FA of 20 March 2015 (Child Maintenance), in force since 1 Jan. 2022 ([AS 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728), [2020 5](https://fedlex.data.admin.ch/eli/oc/2020/3); [BBl 2014 529](https://fedlex.data.admin.ch/eli/fga/2014/98)).
+[^89a-17]: Inserted by Annex No 1 of the FA of 23 June 2006 (New OASI Insurance Number), in force since 1 Dec. 2007 ([AS 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [BBl 2006 501](https://fedlex.data.admin.ch/eli/fga/2006/52)).
 [^89a-18]: Amended by No II 1 of the FA of 19 March 2010 (OPA Structural Reform), in force since 1 Jan. 2012 ([AS 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
-[^89a-19]: Amended by No II of the FA of 20 Dec. 2006 (Change of Employee Benefits Scheme), in force since 1 May 2007 ([AS 2007 1803](https://fedlex.data.admin.ch/eli/oc/2007/263)1805; [BBl 2005 5941](https://fedlex.data.admin.ch/eli/fga/2005/954)[5953](https://fedlex.data.admin.ch/eli/fga/2005/956)).
-[^89a-20]: Amended by No II 1 of the FA of 19 March 2010 (OPA Structural Reform), in force since 1 Jan. 2012 ([AS 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
-[^89a-21]: Repealed by No II 1 of the FA of 19 March 2010 (OPA Structural Reform), with effect from 1 Jan. 2012 ([AS 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
-[^89a-22]: Amended by No II 1 of the FA of 17 Dec. 2010 (Funding of benefits schemes for public corporations), in force since 1 Jan. 2012 ([AS 2011 3385](https://fedlex.data.admin.ch/eli/oc/2011/457); [BBl 2008 8411](https://fedlex.data.admin.ch/eli/fga/2008/1439)).
-[^89a-23]: Amended by Annex No 1 of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
-[^89a-24]: Inserted by Annex No 1 of the FA of 25 June 1982 on Old Age, Survivors’ and Disability Insurance ([AS 1983 797](https://fedlex.data.admin.ch/eli/oc/1983/797_797_797); [BBl 1976 I 149](https://fedlex.data.admin.ch/eli/fga/1976/1_149_117_113)). Amended by Annex No 1 of the FA of 3 Oct. 2003 (1<sup>st</sup> revision of OPA), No 6, 7, 10–12, 14 (with the exception of Art. 66 para. 4), 15, 17–20 and 23 in force since 1 April 2004, No 3–5, 8, 9, 13, 14 (Art. 66 para. 4) and 16 in force since 1 Jan. 2005, No 1, 21 and 22 in force since 1 Jan. 2006 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
-[^89a-25]: Inserted by No I of the FA of 25 Sept. 2015 (Employee Benefits Schemes), in force since 1 April 2016 ([AS 2016 935](https://fedlex.data.admin.ch/eli/oc/2016/163); [BBl 2014 6143](https://fedlex.data.admin.ch/eli/fga/2014/1295)[6649](https://fedlex.data.admin.ch/eli/fga/2014/1500)).
-[^89a-26]: Inserted by No I of the FA of 25 Sept. 2015 (Employee Benefits Schemes), in force since 1 April 2016 ([AS 2016 935](https://fedlex.data.admin.ch/eli/oc/2016/163); [BBl 2014 6143](https://fedlex.data.admin.ch/eli/fga/2014/1295)[6649](https://fedlex.data.admin.ch/eli/fga/2014/1500)).
+[^89a-19]: Amended by No II 1 of the FA of 19 March 2010 (OPA Structural Reform), in force since 1 Jan. 2012 ([AS 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+[^89a-20]: Amended by Annex No 1 of the FA of 17 June 2022 (Modernisation of Supervision), in force since 1 Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^89a-21]: Amended by Annex No 1 of the FA of 17 June 2022 (Modernisation of Supervision), in force since 1 Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^89a-22]: Amended by No II 1 of the FA of 19 March 2010 (OPA Structural Reform), in force since 1 Jan. 2012 ([AS 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+[^89a-23]: Repealed by No II 1 of the FA of 19 March 2010 (OPA Structural Reform), with effect from 1 Jan. 2012 ([AS 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+[^89a-24]: Amended by No II 1 of the FA of 17 Dec. 2010 (Funding of benefits schemes for public corporations), in force since 1 Jan. 2012 ([AS 2011 3385](https://fedlex.data.admin.ch/eli/oc/2011/457); [BBl 2008 8411](https://fedlex.data.admin.ch/eli/fga/2008/1439)).
+[^89a-25]: Amended by Annex No 1 of the FA of 17 June 2022 (Modernisation of Supervision), in force since 1 Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^89a-26]: Amended by Annex No 1 of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^89a-27]: Inserted by Annex No 1 of the FA of 25 June 1982 on Old Age, Survivors’ and Disability Insurance ([AS 1983 797](https://fedlex.data.admin.ch/eli/oc/1983/797_797_797); [BBl 1976 I 149](https://fedlex.data.admin.ch/eli/fga/1976/1_149_117_113)). Amended by Annex No 1 of the FA of 3 Oct. 2003 (1<sup>st</sup> revision of OPA), No 6, 7, 10–12, 14 (with the exception of Art. 66 para. 4), 15, 17–20 and 23 in force since 1 April 2004, No 3–5, 8, 9, 13, 14 (Art. 66 para. 4) and 16 in force since 1 Jan. 2005, No 1, 21 and 22 in force since 1 Jan. 2006 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^89a-28]: Inserted by No I of the FA of 25 Sept. 2015 (Employee Benefits Schemes), in force since 1 April 2016 ([AS 2016 935](https://fedlex.data.admin.ch/eli/oc/2016/163); [BBl 2014 6143](https://fedlex.data.admin.ch/eli/fga/2014/1295)[6649](https://fedlex.data.admin.ch/eli/fga/2014/1500)).
+[^89a-29]: Inserted by No I of the FA of 25 Sept. 2015 (Employee Benefits Schemes), in force since 1 April 2016 ([AS 2016 935](https://fedlex.data.admin.ch/eli/oc/2016/163); [BBl 2014 6143](https://fedlex.data.admin.ch/eli/fga/2014/1295)[6649](https://fedlex.data.admin.ch/eli/fga/2014/1500)).
 
 ### Title Two<sup>bis</sup>: Collective Assets
 
@@ -2093,13 +2120,17 @@ In the event of divorce, any occupational pension assets accrued during the marr
 [^123-1]: Amended by No I of the FA of 19 June 2015 (Equitable Division of Pensions on Divorce), in force since 1 Jan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
 [^123-2]: [SR 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
 
-### III. Equitable division of invalidity pension prior to statutory retirement age
+### III. Equitable division of invalidity pension prior to statutory reference age
+
+[^book2-part1-tit4-chap3-lvlD-lvlIII-1]
+
+[^book2-part1-tit4-chap3-lvlD-lvlIII-1]: Term in accordance with Annex No 1 of the FA of 17 Dec. 2021 (OASI 21), in force since 1 Jan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)). This amendment has been made in the provisions specified in the AS.
 
 #### Art. 124
 
 [^124-1]
 
-<sup>1</sup> If, at the point at which divorce proceedings commence, a spouse is drawing an invalidity pension prior to the statutory retirement age, the amount to which he or she would be entitled under Article 2 paragraph 1<sup>ter</sup> of the Vested Benefits Act of 17 December 1993[^124-2] following cancellation of the invalidity pension counts as the termination benefits.
+<sup>1</sup> If, at the point at which divorce proceedings commence, a spouse is drawing an invalidity pension prior to the statutory reference age, the amount to which he or she would be entitled under Article 2 paragraph 1<sup>ter</sup> of the Vested Benefits Act of 17 December 1993[^124-2] following cancellation of the invalidity pension counts as the termination benefits.
 
 <sup>2</sup> The provisions on the equitable division of termination benefits apply *mutatis mutandis*.
 
@@ -2108,13 +2139,13 @@ In the event of divorce, any occupational pension assets accrued during the marr
 [^124-1]: Amended by No I of the FA of 19 June 2015 (Equitable Division of Pensions on Divorce), in force since 1 Jan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
 [^124-2]: [SR 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
 
-### IV. Equitable division in the case of invalidity pensions after statutory retirement age and in the case of retirement pensions
+### IV. Equitable division in the case of invalidity pensions after statutory reference age and in the case of retirement pensions
 
 #### Art. 124a
 
 [^124a-1]
 
-<sup>1</sup> If, at the point at which divorce proceedings commence, a spouse is drawing an invalidity pension after the statutory retirement age or drawing a retirement pension, the court decides at its own discretion how the pension is to be divided. In doing so it primarily takes into account the duration of the marriage and the pension requirements of each spouse.
+<sup>1</sup> If, at the point at which divorce proceedings commence, a spouse is drawing an invalidity pension after the statutory reference age or drawing a retirement pension, the court decides at its own discretion how the pension is to be divided. In doing so it primarily takes into account the duration of the marriage and the pension requirements of each spouse.
 
 <sup>2</sup> The share of the pension awarded to the spouse entitled thereto is converted into a life-long pension. This is paid to the entitled spouse by the liable spouse’s occupational pension fund or is transferred to the entitled spouse’s own occupational pension fund.
 
@@ -5945,7 +5976,9 @@ If establishing a deputyship is clearly a disproportionate measure due the exten
 
 <sup>3</sup> Without limiting the capacity of the client to act, the adult protection authority may prohibit him or her from accessing individual assets.
 
-<sup>4</sup> If the adult protection authority prohibits the client from disposing of heritable property, it must arrange for a note to be made in the land register.
+<sup>4</sup> …[^395-1]
+
+[^395-1]: Repealed by No I of the FA of 16 Dec. 2016 (Notification of Adult Protection Measures), with effect from 1 Jan. 2024 ([AS 2023 84](https://fedlex.data.admin.ch/eli/oc/2023/84); [BBl 2016 5161](https://fedlex.data.admin.ch/eli/fga/2016/1115), [5175](https://fedlex.data.admin.ch/eli/fga/2016/1117)).
 
 ### C. Advisory deputyship
 
@@ -6266,7 +6299,7 @@ If a person suffering from a mental disorder who has entered an institution volu
 - 1\. is a risk to his or her own life or limb; or
 - 2\. is a serious risk to the life or the physical integrity of others.
 
-<sup>2</sup> At the end of the three day period, the patient may leave the institution unless he or she is subject to an enforceable hospitalisation order.
+<sup>2</sup> At the end of the three-day period, the patient may leave the institution unless he or she is subject to an enforceable hospitalisation order.
 
 <sup>3</sup> The patient shall be notified in writing that he or she may petition the court.
 
@@ -6311,7 +6344,7 @@ The hospitalisation order shall contain at least the following information:
 
 <sup>4</sup> A copy of the hospitalisation order shall be given to the patient; a further copy shall be given to the institution on the patient's admission.
 
-<sup>5</sup> The doctor shall if possible notify a person closely related to the patient in writing on his or her committal and on the rights of appeal.
+<sup>5</sup> The doctor shall, if possible, notify a person closely related to the patient in writing on his or her committal and on the rights of appeal.
 
 ### C. Regular review
 
@@ -6540,10 +6573,48 @@ If necessary, the adult protection authority shall order that the client be repr
 
 #### Art. 449c
 
-The adult protection authority shall notify the civil register office if:
+[^449c-1]
 
-- 1\. it makes a person subject to a general deputyship due to permanent loss of the capacity of judgement;
-- 2\. an advance care directive become effective for a person permanently lacking capacity of judgement.
+<sup>1</sup>
+
+The adult protection authority shall immediately notify the following authorities of its decisions relating to ordering, amending or revoking measures as soon as such decisions are enforceable:
+
+- 1\.
+
+  the civil register office if:
+
+  - a. the adult protection authority has made a person subject to a general deputyship,
+  - b. the adult protection authority has issued an order that makes the consent of the legal representative in accordance with Article 260 paragraph 2 necessary, or
+  - c. an advance care directive has become effective for a person permanently lacking capacity of judgement;
+
+- 2\.
+
+  the commune of residence if:
+
+  - a. the adult protection authority has made a person subject to a deputyship, or
+  - b. an advance care directive has become effective for a person permanently lacking capacity of judgment;
+
+- 3\.
+
+  the debt enforcement office at the domicile of the person concerned if:
+
+  - a. the adult protection authority has established a guardianship or a deputyship for a minor in accordance with Article 325,
+  - b. the adult protection authority has established a deputyship for an adult which includes powers to manage assets or which revokes or restricts the capacity to act, or
+  - c. an advance care directive has become effective for a person permanently lacking capacity of judgment;
+
+- 4\.
+
+  the issuing authority in accordance with the Identity Documents Act of 22 June 2001[^449c-2] if the adult protection authority:
+
+  - a. has established a guardianship for a minor or restricted parental responsibility in relation to applying for the issue of an identity document, or
+  - b. has established a deputyship for an adult that restricts capacity to act in relation to applying for the issue of an identity document;
+
+- 5\. the land register office as a request for a notation if the adult protection authority has established a deputyship for a person which restricts or revokes that person’s capacity to dispose of immovable property.
+
+<sup>2</sup> In the event of a change in the adult protection authority responsible, the new authority shall be responsible for the relevant notifications.
+
+[^449c-1]: Amended by No I of the FA of 16 Dec. 2016 (Notification of Adult Protection Measures), in force since 1 Jan. 2024 ([AS 2023 84](https://fedlex.data.admin.ch/eli/oc/2023/84); [BBl 2016 5161](https://fedlex.data.admin.ch/eli/fga/2016/1115), [5175](https://fedlex.data.admin.ch/eli/fga/2016/1117)).
+[^449c-2]: [SR 143.1](https://fedlex.data.admin.ch/eli/cc/2002/441)
 
 ### Sub-section Two: Before the Appellate Authority
 
@@ -6639,7 +6710,9 @@ In addition, the provisions of the Civil Procedure Ordinance apply *mutatis muta
 
 <sup>1</sup> The adult protection authority is subject to a duty of confidentiality in the absence of overriding interests.
 
-<sup>2</sup> Any person who shows a credible interest may request the adult protection authority to provide information on the existence and the effects of an adult protection measure.
+<sup>2</sup> Any person who shows a credible interest may request the adult protection authority to provide information on the existence and the effects of an adult protection measure. The Federal Council shall ensure that the relevant information is provided quickly in a simple and standardised form. It shall issue an ordinance to this end.[^451-1]
+
+[^451-1]: Second and third sentences inserted by No I of the FA of 16 Dec. 2016 (Notification of Adult Protection Measures), in force since 1 Jan. 2024 ([AS 2023 84](https://fedlex.data.admin.ch/eli/oc/2023/84); [BBl 2016 5161](https://fedlex.data.admin.ch/eli/fga/2016/1115), [5175](https://fedlex.data.admin.ch/eli/fga/2016/1117)).
 
 ### B. Effect of the measures on third parties
 
@@ -9067,7 +9140,7 @@ The rules for computing, interrupting and suspending adverse possession time lim
 The following may apply for measures to be ordered:
 
 - 1\. any person with a legitimate interest;
-- 2\. the land register at the location of the immovable property.
+- 2\. the land register office at the location of the immovable property.
 
 <sup>4</sup> The ordering of measures does not interrupt the period required to obtain extraordinary adverse possession.
 
@@ -9079,7 +9152,7 @@ The following may apply for measures to be ordered:
 
 [^666b-1]
 
-If a legal entity or other rights holder that is recorded in the land register as the owner no longer has the required management bodies, and person with a legitimate interest or the land register at the location of the immovable property may apply to the court for the required measures relating to the immovable property to be ordered.
+If a legal entity or other rights holder that is recorded in the land register as the owner no longer has the required management bodies, and person with a legitimate interest or the land register office at the location of the immovable property may apply to the court for the required measures relating to the immovable property to be ordered.
 
 [^666b-1]: Inserted by No I 1 of the FA of 11 Dec. 2009 (Register Mortgage Certificates and other amendments to Property Law), in force since 1 Jan. 2012 ([AS 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [BBl 2007 5283](https://fedlex.data.admin.ch/eli/fga/2007/756)).
 
@@ -11432,7 +11505,7 @@ On the issue of a mortgage certificate, a person may be granted a power of attor
 
 <sup>1</sup> Where the legal relationship changes to the advantage of the debtor, in particular through the repayment of the debt, the debtor may request the creditor to agree to an amendment being recorded in the land register.
 
-<sup>2</sup> In the case of a mortgage certificate on paper, the land register shall note the amendment on the document of title.
+<sup>2</sup> In the case of a mortgage certificate on paper, the land register office shall note the amendment on the document of title.
 
 <sup>3</sup> In the absence of such an entry or the note on the document of title, the effect of the change in the legal relationship has no effect on an acquirer of the mortgage certificate acting in good faith.
 
@@ -11520,7 +11593,7 @@ If the creditor fails to come forward within this period and if an investigation
 
 #### Art. 861
 
-<sup>1</sup> The mortgage certificate on paper is issued by the land register issued.
+<sup>1</sup> The mortgage certificate on paper is issued by the land register office.
 
 <sup>2</sup> It must be signed by the land registrar in order to be valid. Other requirements as to form shall be imposed by the Federal Council.
 
@@ -12127,7 +12200,7 @@ A possessor fulfilling the requirements of adverse possession may count his or h
 
 <sup>3</sup> The land register may be kept on paper or electronically.[^942-1]
 
-<sup>4</sup> Where the land register is kept electronically, legal effect attaches to such data as are properly stored in the system and legible in letters and figures or displayed on plans by means of the technical capabilities of the devices and equipment used by the land register.[^942-2]
+<sup>4</sup> Where the land register is kept electronically, legal effect attaches to such data as are properly stored in the system and legible in letters and figures or displayed on plans by means of the technical capabilities of the devices and equipment used by the land register office.[^942-2]
 
 [^942-1]: Inserted by Annex 1 of the FA of 19 Dec. 2003 on Electronic Signatures, in force since 1 Jan. 2005 ([AS 2004 5085](https://fedlex.data.admin.ch/eli/oc/2004/788); [BBl 2001 5679](https://fedlex.data.admin.ch/eli/fga/2001/889)).
 [^942-2]: Inserted by Annex 1 of the FA of 19 Dec. 2003 on Electronic Signatures, in force since 1 Jan. 2005 ([AS 2004 5085](https://fedlex.data.admin.ch/eli/oc/2004/788); [BBl 2001 5679](https://fedlex.data.admin.ch/eli/fga/2001/889)).
@@ -12237,7 +12310,7 @@ The Federal Council regulates:
 
 - 1\. the authorisation procedure;
 - 2\. the scope and technical details of the electronic land register, particularly the procedure by which entries become effective;
-- 3\. whether and on what conditions electronic communication with the land register is permissible;
+- 3\. whether and on what conditions electronic communication with the land register office is permissible;
 - 4\. whether and on what conditions the public will be given access to unrestricted data recorded in the main register;
 - 5\. data access, the logging of retrieval requests and conditions for the withdrawal of user entitlements in the event of abuse;
 - 6\. data protection;
@@ -12484,7 +12557,7 @@ A priority notice in the land register does not preclude the registration of a r
 
 <sup>1</sup> The state authority or another public body must arrange for a public law restriction on ownership ordered in respect of a specific property that imposes a permanent restriction on use or power of disposal or duty relating to the property on the owner to be noted in the land register.
 
-<sup>2</sup> Where the restriction on ownership ceases to apply, the state authority or the other public body must arrange for the note to be deleted from the land register. If the state authority or the other public body fails to act, the land register may delete the note *ex officio*.
+<sup>2</sup> Where the restriction on ownership ceases to apply, the state authority or the other public body must arrange for the note to be deleted from the land register. If the state authority or the other public body fails to act, the land register office may delete the note *ex officio*.
 
 <sup>3</sup> The Federal Council shall stipulate the areas of cantonal law in which restrictions on ownership must be noted in the land register. The cantons may provide for additional notes. They shall draw up a list of circumstances requiring a note, which must be passed on to the Confederation.
 
@@ -12878,7 +12951,7 @@ The legal effects of circumstances which occurred while the previous law was sti
 
 [^u1-6bbis-1]
 
-Existing associations in accordance with Article 61 paragraph 2 must meet the requirements specified in Articles 61*a* und 69 paragraph 2 within 18 months of the Amendment of 19 March 2021 coming into force. Existing associations in accordance with Article 61 paragraph 2 number 3 must also be entered in the commercial register within this period.
+Existing associations in accordance with Article 61 paragraph 2 must meet the requirements specified in Articles 61*a* and 69 paragraph 2 within 18 months of the Amendment of 19 March 2021 coming into force. Existing associations in accordance with Article 61 paragraph 2 number 3 must also be entered in the commercial register within this period.
 
 [^u1-6bbis-1]: Inserted by Annex 1 No 1 of the FA of 19 March 2021, in force since 1 Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 
