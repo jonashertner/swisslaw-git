@@ -4,13 +4,13 @@ number: "811.111"
 title: Verordnung über die beruflichen Tätigkeiten im Gesundheitswesen
 short: "Gesundheitsverordnung, GesV"
 language: de
-version: 2023-01-01
-valid_until: 2023-12-31
-version_adopted: 2022-11-23
+version: 2024-01-01
+valid_until: 2025-12-31
+version_adopted: 2023-11-22
 adopted: 2001-10-24
 in_force: 2002-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/811.111"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2748/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2956/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2748/pdf_file"
 
 (Gesundheitsverordnung, GesV)
 
-vom 24.10.2001 (Stand 01.01.2023)
+vom 24.10.2001 (Stand 01.01.2024)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -46,49 +46,47 @@ beschliesst:
 
 **Bewilligungspflichtige Tätigkeiten**
 
-<sup>1</sup> Eine Berufsausübungsbewilligung benötigen folgende Gesundheitsfachpersonen (Fachpersonen), die ihre Tätigkeit in eigener fachlicher Verantwortung ausüben
+<sup>1</sup> Eine Berufsausübungsbewilligung benötigen folgende Gesundheitsfachpersonen (Fachpersonen), die ihre Tätigkeit in eigener fachlicher Verantwortung ausüben:
 
 - a Ärztinnen und Ärzte,
 - b Zahnärztinnen und Zahnärzte,
 - c Apothekerinnen und Apotheker,
 - d Chiropraktorinnen und Chiropraktoren,
 - e Psychotherapeutinnen und Psychotherapeuten,
-- f Hebammen und Entbindungspfleger,
-- g diplomierte Pflegefachfrauen und diplomierte Pflegefachmänner,
+- f Hebammen,
+- g Pflegefachfrauen und Pflegefachmänner,
 - h Physiotherapeutinnen und Physiotherapeuten,
 - i Ergotherapeutinnen und Ergotherapeuten,
-- k Augenoptikerinnen und Augenoptiker,
+- k …
+- k1 Optometristinnen und Optometristen,
 - l Drogistinnen und Drogisten,
 - m Ernährungsberaterinnen und Ernährungsberater,
 - n Podologinnen und Podologen,
 - o Dentalhygienikerinnen und Dentalhygieniker,
 - p Rettungssanitäterinnen und Rettungssanitäter,
-- q Heilpraktikerinnen und Heilpraktiker,
-- r Homöopathinnen und Homöopathen,
-- s Akupunkteurinnen und Akupunkteure,
-- t Therapeutinnen und Therapeuten der traditionellen chinesischen Medizin (Therapeutinnen und Therapeuten der TCM),
-- u Osteopathinnen und Osteopathen.
+- q–t …
+- u Osteopathinnen und Osteopathen,
+- v medizinische Masseurinnen und Masseure,
+- w Naturheilpraktikerinnen und Naturheilpraktiker.
 
 #### Art. 3
 
 **Nachweis der Bewilligungsvoraussetzungen**
 
-<sup>1</sup> Die Gesuchstellerin oder der Gesuchsteller hat zur Erlangung der Berufsausübungsbewilligung folgende Unterlagen bei der zuständigen Stelle der Gesundheits-, Sozial- und Integrationsdirektion (GSI) (im Folgenden zuständige Stelle) einzureichen
+<sup>1</sup> Die Gesuchstellerin oder der Gesuchsteller hat zur Erlangung der Berufsausübungsbewilligung folgende Unterlagen bei der zuständigen Stelle der Gesundheits-, Sozial- und Integrationsdirektion (GSI) (im Folgenden zuständige Stelle) einzureichen:
 
-- a einen anerkannten Fähigkeitsausweis,
-- b einen Ausweis über die Absolvierung der verlangten praktischen Tätigkeit nach Ausbildungsabschluss,
-- c ein Handlungsfähigkeitszeugnis,
-- d ein Arztzeugnis, das sich über den Gesundheitszustand im Hinblick auf die Berufsausübung ausspricht,
-- e einen Auszug aus dem Zentralstrafregister.
+- a einen anerkannten Fähigkeitsausweis, sofern dieser nicht bereits in einem im Bundesrecht vorgesehenen Register aufgeführt wird,
+- b–d …
+- e einen Strafregisterauszug.
 - f–g …
 
 <sup>2</sup> Die zuständige Stelle kann bei Bedarf weitere Unterlagen verlangen.
 
 <sup>3</sup> Über die Anerkennung von Diplomen, Ausbildungsabschlüssen, Fähigkeitsausweisen und praktischen Tätigkeiten entscheidet die zuständige Stelle.
 
-<sup>4</sup> Ist die Fachperson bereits Inhaberin einer Berufsausübungsbewilligung eines anderen Kantons, wird die Bewilligung nach den Bestimmungen des Bundesgesetzes vom 6. Oktober 1995 über den Binnenmarkt (Binnenmarktgesetz, BGBM[^3-1]) anerkannt.
+<sup>4</sup> Ist die Fachperson bereits Inhaberin oder Inhaber einer Berufsausübungsbewilligung eines anderen Kantons, wird die Bewilligung nach den Bestimmungen des Bundesgesetzes vom 6. Oktober 1995 über den Binnenmarkt (Binnenmarktgesetz, BGBM[^3-1]) anerkannt.
 
-[^3-1]: SR 943.021
+[^3-1]: SR [943.02](https://db.clex.ch/link/Bund/943.02/de)
 
 #### Art. 4
 
@@ -180,10 +178,7 @@ beschliesst:
 
 #### Art. 10
 
-<sup>1</sup> Inhaberinnen und Inhaber einer Berufsausübungsbewilligung haben der zuständigen Stelle innert 30 Tagen zu melden
-
-- a das Praxisdomizil sowie dessen Änderung,
-- b die definitive Aufgabe der beruflichen Tätigkeit.
+<sup>1</sup> Inhaberinnen und Inhaber einer Berufsausübungsbewilligung haben die in Artikel 20 Absatz 1 GesG genannten Angaben aktuell zu halten. Wesentliche Änderungen sind der zuständigen Stelle innert 14 Tagen zu melden.
 
 <sup>2</sup> Inhaberinnen und Inhaber einer Betriebsbewilligung haben der zuständigen Stelle innert 30 Tagen zu melden
 
@@ -200,7 +195,7 @@ beschliesst:
 
 **Gesundheitsamt**
 
-<sup>1</sup> Das Gesundheitsamt ist die zuständige Stelle für die Erteilung der Berufsausübungsbewilligungen für die in Artikel 2 Absatz 1 genannten Gesundheitsfachpersonen.
+<sup>1</sup> Das Gesundheitsamt (GA) ist die zuständige Stelle für die Erteilung der Berufsausübungsbewilligungen für die in Artikel 2 Absatz 1 genannten Gesundheitsfachpersonen.
 
 <sup>2</sup> Es ist die zuständige Stelle für die Erteilung der Betriebsbewilligung für folgende Betriebe:
 
@@ -211,23 +206,23 @@ beschliesst:
 <sup>3</sup> Es ist die zuständige Stelle gemäss GesG für
 
 - a die Inspektion der Einrichtungen und Räumlichkeiten,
-- b den Ausschluss von der Notfalldienstpflicht, die ersatzweise Regelung des ambulanten Notfalldienstes und den Erlass von Verfügungen bei Streitigkeiten aus der Notfalldienstpflicht gemäss Artikel 30a GesG,
+- b die ersatzweise Regelung des ambulanten Notfalldiensts und den Erlass von Verfügungen bei Streitigkeiten aus der Notfalldienstpflicht gemäss Artikel 30a bis 30d GesG,
 - c die Anordnung administrativer Massnahmen gemäss Artikel 17, 17a, 17b und 19a GesG,
 - d die Entgegennahme von Mitteilungen und die Führung des Registers gemäss Artikel 20 GesG,
-- e die Entgegennahme der Informationen gemäss Artikel 49a GesG.
+- e die Entgegennahme der Informationen gemäss Artikel 49a GesG,
+- f die Erteilung von Bewilligungen gemäss Artikel 25 Absatz 3 GesG.
 
 <sup>4</sup> Es ist die zuständige Stelle für die Erteilung folgender bundesrechtlicher Bewilligungen:
 
-- a Bewilligung für den Versandhandel mit Arzneimitteln (Art. 27 Abs. 4 des Bundesgesetzes vom 15. Dezember 2000 über Arzneimittel und Medizinprodukte [Heilmittelgesetz, HMG][^14a-1]),
+- a Bewilligung für den Versandhandel mit Arzneimitteln (Art. 27 Abs. 4 HMG),
 - b Bewilligung für Betriebe, die Blut oder labile Blutprodukte nur lagern (Art. 34 Abs. 4 HMG),
-- c Bewilligung für die Herstellung von Arzneimitteln nach Formula magistralis, Formula officinalis, Formula hospitalis oder nach eigener Formel (Art. 6 der Verordnung des Bundesrates vom 17. Oktober 2001 über die Bewilligungen im Arzneimittelbereich [Arzneimittel-Bewilligungsverordnung, AMBV][^14a-2]),
-- d Ermächtigung von Beraterinnen und Beratern von Familienplanungsstellen, im Rahmen ihrer Tätigkeit die «Pille danach» abzugeben (Art. 25c der Verordnung des Bundesrates vom 17. Oktober 2001 über die Arzneimittel [Arzneimittelverordnung, VAM][^14a-3]).
+- c Bewilligung für die Herstellung von Arzneimitteln nach Formula magistralis, Formula officinalis, Formula hospitalis oder nach eigener Formel (Art. 6 der Verordnung des Bundesrates vom 17. Oktober 2001 über die Bewilligungen im Arzneimittelbereich [Arzneimittel-Bewilligungsverordnung, AMBV][^14a-1]),
+- d Ermächtigung von Beraterinnen und Beratern von Familienplanungsstellen, im Rahmen ihrer Tätigkeit die «Pille danach» abzugeben (Art. 25c der Verordnung des Bundesrates vom 17. Oktober 2001 über die Arzneimittel [Arzneimittelverordnung, VAM][^14a-2]).
 
 <sup>5</sup> Es ist für alle Berufsgruppen gemäss dieser Verordnung die zuständige Stelle für die Entbindung von der Schweigepflicht gemäss Artikel 8 Absatz 2 und Artikel 27 Absatz 2 GesG.
 
-[^14a-1]: SR [812.21](https://db.clex.ch/link/Bund/812.21/de)
-[^14a-2]: SR [812.212.1](https://db.clex.ch/link/Bund/812.212.1/de)
-[^14a-3]: SR [812.212.21](https://db.clex.ch/link/Bund/812.212.21/de)
+[^14a-1]: SR [812.212.1](https://db.clex.ch/link/Bund/812.212.1/de)
+[^14a-2]: SR [812.212.21](https://db.clex.ch/link/Bund/812.212.21/de)
 
 ## 2 Besondere Bestimmungen
 
@@ -342,13 +337,13 @@ beschliesst:
 
 [^24-1]: SR 935.81
 
-### 2.6 Hebammen und Entbindungspfleger
+### 2.6 Hebammen
 
 #### Art. 25
 
 **Tätigkeit**
 
-<sup>1</sup> Hebammen und Entbindungspfleger sind berechtigt,
+<sup>1</sup> Hebammen sind berechtigt,
 
 - a Schwangere zu beraten, zu überwachen und sie auf die Geburt vorzubereiten,
 - b die Geburt zu leiten,
@@ -359,17 +354,19 @@ beschliesst:
 
 **Bewilligungsvoraussetzungen**
 
-<sup>1</sup> Die Erteilung einer Berufsausübungsbewilligung setzt voraus, dass die Gesuchstellerinnen und Gesuchsteller im Besitz eines gemäss der Interkantonalen Vereinbarung vom 18. Februar 1993 über die Anerkennung von Ausbildungsabschlüssen anerkannten Diploms sind.
+<sup>1–2</sup> …
 
-<sup>2</sup> Sie haben nachzuweisen, dass sie seit Erlangen des Diploms während mindestens zwei Jahren ihren Beruf unter fachlicher Aufsicht ausgeübt haben. Das GA kann eine gleichwertige berufliche Tätigkeit im Ausland im Umfang von höchstens einem Jahr anerkennen.
+<sup>3</sup> Die Bewilligungsvoraussetzungen richten sich nach Artikel 12 des Bundesgesetzes vom 30. September 2016 über die Gesundheitsberufe (Gesundheitsberufegesetz, GesBG)[^26-1].
 
-### 2.7 Diplomierte Pflegefachfrauen und diplomierte Pflegefachmänner
+[^26-1]: SR [811.21](https://db.clex.ch/link/Bund/811.21/de)
+
+### 2.7 Pflegefachfrauen und Pflegefachmänner
 
 #### Art. 27
 
 **Tätigkeit**
 
-<sup>1</sup> Diplomierte Pflegefachfrauen und diplomierte Pflegefachmänner sind berechtigt,
+<sup>1</sup> Pflegefachfrauen und Pflegefachmänner sind berechtigt,
 
 - a die Pflege von Patientinnen und Patienten zu planen und auszuführen,
 - b Patientinnen und Patienten in ihrem Wohlbefinden und bei Präventionsmassnahmen zu unterstützen,
@@ -381,9 +378,9 @@ beschliesst:
 
 **Bewilligungsvoraussetzungen**
 
-<sup>1</sup> Die Erteilung einer Berufsausübungsbewilligung setzt voraus, dass die Gesuchstellerinnen und Gesuchsteller im Besitz eines gemäss der Interkantonalen Vereinbarung vom 18. Februar 1993 über die Anerkennung von Ausbildungsabschlüssen anerkannten Diploms sind.
+<sup>1–2</sup> …
 
-<sup>2</sup> Sie haben nachzuweisen, dass sie ihren Beruf seit Erlangen des Diploms während mindestens zwei Jahren unter fachlich-pflegerischer Aufsicht ausgeübt haben. Das GA kann eine gleichwertige berufliche Tätigkeit im Ausland im Umfang von höchstens einem Jahr anerkennen.
+<sup>3</sup> Die Bewilligungsvoraussetzungen richten sich nach Artikel 12 GesBG.
 
 ### 2.8 Physiotherapeutinnen und Physiotherapeuten
 
@@ -399,9 +396,9 @@ beschliesst:
 
 **Bewilligungsvoraussetzungen**
 
-<sup>1</sup> Die Erteilung einer Berufsausübungsbewilligung setzt voraus, dass die Gesuchstellerinnen und Gesuchsteller im Besitz eines gemäss der Interkantonalen Vereinbarung vom 18. Februar 1993 über die Anerkennung von Ausbildungsabschlüssen anerkannten Diploms sind.
+<sup>1–2</sup> …
 
-<sup>2</sup> Sie haben nachzuweisen, dass sie seit Erlangen des Diploms während mindestens zwei Jahren ihren Beruf unter fachlicher Aufsicht ausgeübt haben. Das GA kann eine gleichwertige berufliche Tätigkeit im Ausland im Umfang von höchstens einem Jahr anerkennen.
+<sup>3</sup> Die Bewilligungsvoraussetzungen richten sich nach Artikel 12 GesBG.
 
 ### 2.9 Ergotherapeutinnen und Ergotherapeuten
 
@@ -418,57 +415,39 @@ beschliesst:
 
 **Bewilligungsvoraussetzungen**
 
-<sup>1</sup> Die Erteilung einer Berufsausübungsbewilligung setzt voraus, dass die Gesuchstellerinnen und Gesuchsteller im Besitz eines gemäss der Interkantonalen Vereinbarung vom 18. Februar 1993 über die Anerkennung von Ausbildungsabschlüssen anerkannten Diploms sind.
+<sup>1–2</sup> …
 
-<sup>2</sup> Sie haben nachzuweisen, dass sie seit Erlangen des Diploms während mindestens zwei Jahren ihren Beruf unter fachlicher Aufsicht ausgeübt haben. Das GA kann eine gleichwertige berufliche Tätigkeit im Ausland im Umfang von höchstens einem Jahr anerkennen.
+<sup>3</sup> Die Bewilligungsvoraussetzungen richten sich nach Artikel 12 GesBG.
 
-### 2.10 Augenoptikerinnen und Augenoptiker
+### 2.10
 
-#### Art. 33
+#### Art. 33–34
+
+**…**
+
+### 2.10a Optometristinnen und Optometristen
+
+#### Art. 34a
 
 **Tätigkeit**
 
-<sup>1</sup> Augenoptikerinnen und Augenoptiker sind berechtigt
+<sup>1</sup> Optometristinnen und Optometristen sind zur Durchführung von optometrischen Messungen berechtigt.
 
-- a Brillen, Kontaktlinsen und andere Sehhilfen nach ärztlicher Verordnung oder auf Grund optometrischer Messungen, die von einer dazu berechtigten Person vorgenommen worden sind, anzufertigen, anzupassen und abzugeben,
-- b die für die Anpassung, das Tragen und das Pflegen von Kontaktlinsen üblichen Heilmittel abzugeben.
-
-<sup>2</sup> Der Umfang der bewilligten Tätigkeit richtet sich nach der Art des Fähigkeitsausweises. Die Berufsausübungsbewilligung nennt den Umfang der bewilligten Tätigkeit.
-
-<sup>3</sup> …
-
-#### Art. 34
-
-**Optometrische Messungen und Anpassungen von Kontaktlinsen**
-
-<sup>1</sup> Optometrische Messungen und Anpassungen von Kontaktlinsen dürfen nur von Augenoptikerinnen und Augenoptikern durchgeführt werden, die im Besitz der entsprechenden Fähigkeitsausweise gemäss Artikel 36 Absatz 2 Buchstabe b sind.
-
-<sup>2</sup> Augenoptikerinnen und Augenoptiker, welche die höhere Fachausbildung absolvieren, dürfen optometrische Messungen und Anpassungen von Kontaktlinsen unter fachlicher Aufsicht und Verantwortung einer Person nach Absatz 1 vornehmen.
-
-<sup>3</sup> Optometrische Messungen und Anpassungen von Kontaktlinsen sind in einem abgetrennten Raum, der die dafür erforderlichen Einrichtungen aufweist, durchzuführen.
-
-<sup>4</sup> Bei Kindern unter sechzehn Jahren dürfen erstmalige optometrische Messungen und erstmalige Anpassungen von Kontaktlinsen erst nach vorgängiger augenärztlicher Untersuchung durchgeführt werden.
-
-<sup>5</sup> …
+<sup>2</sup> Die selbstständige Abgabe und Anpassung von Kontaktlinsen ist Optometristinnen und Optometristen vorbehalten.
 
 #### Art. 35
 
 **Aufzeichnungen**
 
-<sup>1</sup> Über die nach ärztlicher Verordnung oder auf Grund einer optometrischen Messung angefertigten Brillen, anderen Sehhilfen und angepassten Kontaktlinsen ist eine Dokumentation zu erstellen. In den Aufzeichnungen ist namentlich anzugeben, wann und durch wen optometrischen Messungen und Anpassungen von Kontaktlinsen vorgenommen wurden.
+<sup>1</sup> Über die nach ärztlicher Verordnung oder auf Grund einer optometrischen Messung angefertigten Brillen und anderen Sehhilfen sowie angepassten Kontaktlinsen ist eine Dokumentation zu erstellen. In den Aufzeichnungen ist namentlich anzugeben, wann und durch wen optometrischen Messungen und Anpassungen von Kontaktlinsen vorgenommen wurden.
 
 #### Art. 36
 
 **Bewilligungsvoraussetzungen**
 
-<sup>1</sup> Die Erteilung einer Berufsausübungsbewilligung setzt voraus, dass die Gesuchstellerinnen und Gesuchsteller im Besitz eines vom GA anerkannten Fähigkeitsausweises sind.
+<sup>1–2</sup> …
 
-<sup>2</sup> Anerkannt werden
-
-- a der eidgenössische Fähigkeitsausweis für gelernte Augenoptikerinnen und Augenoptiker, der zur Anfertigung und zum Verkauf von Brillen und anderen Sehhilfen berechtigt,
-- b der Ausweis Bachelor of Science in Optometrie (Optometristin oder Optometrist FH) oder das eidgenössische Diplom über die bestandene höhere Fachprüfung für Augenoptikerinnen und Augenoptiker, das
-  - 1\. mit Prüfungsdatum vor 1981 zur Durchführung von Refraktionsbestimmungen berechtigt,
-  - 2\. mit Prüfungsdatum ab 1981 zur Durchführung von Refraktionsbestimmungen und zur Anpassung von Kontaktlinsen berechtigt.
+<sup>3</sup> Die Bewilligungsvoraussetzungen richten sich nach Artikel 12 GesBG.
 
 ### 2.11 Drogistinnen und Drogisten
 
@@ -506,9 +485,11 @@ beschliesst:
 
 **Bewilligungsvoraussetzungen**
 
-<sup>1</sup> Die Erteilung einer Berufsausübungsbewilligung setzt voraus, dass die Gesuchstellerinnen und Gesuchsteller im Besitz eines gemäss der Interkantonalen Vereinbarung vom 18. Februar 1993 über die Anerkennung von Ausbildungsabschlüssen anerkannten Diploms sind.
+<sup>1</sup> Die Erteilung einer Berufsausübungsbewilligung setzt voraus, dass die Gesuchstellerinnen und Gesuchsteller im Besitz eines gemäss der Interkantonalen Vereinbarung vom 18. Februar 1993 über die Anerkennung von Ausbildungsabschlüssen (Diplomanerkennungsvereinbarung)[^40-1] anerkannten Diploms sind.
 
-<sup>2</sup> Sie haben nachzuweisen, dass sie ihren Beruf seit Erlangen des Diploms während mindestens zwei Jahren unter fachlicher Aufsicht ausgeübt haben. Das GA kann eine gleichwertige berufliche Tätigkeit im Ausland im Umfang von höchstens einem Jahr anerkennen.
+<sup>2</sup> …
+
+[^40-1]: BSG [439.18-1](https://www.belex.sites.be.ch/data/439.18-1/de)
 
 ### 2.13 Ernährungsberaterinnen und Ernährungsberater
 
@@ -525,9 +506,9 @@ beschliesst:
 
 **Bewilligungsvoraussetzungen**
 
-<sup>1</sup> Die Erteilung einer Berufsausübungsbewilligung setzt voraus, dass die Gesuchstellerinnen und Gesuchsteller im Besitz eines gemäss der Interkantonalen Vereinbarung vom 18. Februar 1993 über die Anerkennung von Ausbildungsabschlüssen anerkannten Diploms sind.
+<sup>1–2</sup> …
 
-<sup>2</sup> Sie haben nachzuweisen, dass sie seit Erlangen des Diploms während mindestens zwei Jahren ihren Beruf unter fachlicher Aufsicht ausgeübt haben. Das GA kann eine gleichwertige berufliche Tätigkeit im Ausland im Umfang von höchstens einem Jahr anerkennen.
+<sup>3</sup> Die Bewilligungsvoraussetzungen richten sich nach Artikel 12 GesBG.
 
 ### 2.14 Podologinnen und Podologen
 
@@ -597,119 +578,31 @@ beschliesst:
 
 <sup>1</sup> Die Erteilung einer Berufsausübungsbewilligung setzt voraus, dass die Gesuchstellerinnen und Gesuchsteller über ein Diplom als diplomierte Dentalhygienikerin HF oder als diplomierter Dentalhygieniker HF oder über ein gemäss der Interkantonalen Vereinbarung vom 18. Februar 1993 über die Anerkennung von Ausbildungsabschlüssen anerkanntes Diplom verfügen.
 
-<sup>2</sup> Sie haben nachzuweisen, dass sie seit Erlangen des Diploms während mindestens zwei Jahren ihren Beruf unter fachlicher Aufsicht ausgeübt haben. Das GA kann eine gleichwertige berufliche Tätigkeit im Ausland im Umfang von höchstens einem Jahr anerkennen.
+<sup>2</sup> …
 
-### 2.16 Heilpraktikerinnen und Heilpraktiker
+### 2.16
 
-#### Art. 47
+#### Art. 47–48
 
-**Tätigkeit**
+**…**
 
-<sup>1</sup> Heilpraktikerinnen und Heilpraktiker sind zur Vorbeugung, Feststellung und Behandlung von Krankheiten, Verletzungen und anderen gesundheitlichen Störungen auf der Basis folgender Verfahren berechtigt:
+### 2.17
 
-- a Phytotherapie,
-- b physikalische Anwendungen der Heilpraktik von Licht, Wasser, Luft, Erde, Wärme, Kälte, Bewegung und Ruhe,
-- c Homöopathie, beschränkt auf die Anwendung potenzierter Arzneimittel im Bereich der funktionellen Tiefpotenztherapie,
-- d manuelle Therapien unter Ausschluss von Manipulationen mit Impuls,
-- e Ableiteverfahren.
+#### Art. 49–50
 
-#### Art. 48
+**…**
 
-**Bewilligungsvoraussetzungen**
+### 2.18
 
-<sup>1</sup> Die Erteilung einer Berufsausübungsbewilligung setzt voraus, dass die Gesuchstellerinnen und Gesuchsteller über eine vom GA anerkannte Ausbildung verfügen.
+#### Art. 51–52
 
-<sup>2</sup> Vorausgesetzt wird in der Regel eine mindestens dreijährige Fachausbildung, die hinreichende Kenntnisse in den folgenden Gebieten vermittelt:
+**…**
 
-- a Grundwissen in Anatomie, Physiologie, Pathologie, Hygiene, Psychosomatik, Heilkräuterkunde, System und Gesetzgebung des Gesundheitswesens,
-- b Anamnese, Gesprächsführung mit der Patientin oder dem Patienten,
-- c klinische Untersuchungsmethoden sowie Erkennen und Differentialdiagnose ansteckender Krankheiten gemäss Epidemiengesetzgebung,
-- d Therapieformen der Heilpraktik gemäss Artikel 47 Absatz1.
+### 2.19
 
-<sup>3</sup> Die Gesuchstellerinnen und Gesuchsteller haben nachzuweisen, dass sie ihren Beruf seit Abschluss der Ausbildung während mindestens sechs Monaten unter fachlicher Aufsicht ausgeübt haben.
+#### Art. 53–54
 
-<sup>4</sup> Die Fachkommission natürliche Heilmethoden erarbeitet zuhanden der GSI Richtlinien zur Beurteilung der Ausbildung.
-
-<sup>5</sup> Das GA kann andere Ausbildungsgänge anerkennen, wenn diese mindestens gleichwertig sind.
-
-### 2.17 Homöopathinnen und Homöopathen
-
-#### Art. 49
-
-**Tätigkeit**
-
-<sup>1</sup> Homöopathinnen und Homöopathen sind zur Vorbeugung, Feststellung und Behandlung von Krankheiten, Verletzungen und anderen gesundheitlichen Störungen nach den Lehren der Homöopathie berechtigt.
-
-#### Art. 50
-
-**Bewilligungsvoraussetzungen**
-
-<sup>1</sup> Die Erteilung einer Berufsausübungsbewilligung setzt voraus, dass die Gesuchstellerinnen und Gesuchsteller über einen vom GA anerkannten Ausbildungsabschluss verfügen.
-
-<sup>2</sup> Vorausgesetzt wird in der Regel eine mindestens dreijährige Fachausbildung, die hinreichende Kenntnisse in den folgenden Gebieten vermittelt:
-
-- a Grundwissen in Anatomie, Physiologie, Pathologie, Hygiene und Psychosomatik, System und Gesetzgebung des Gesundheitswesens,
-- b Anamnese, Symptomatologie, Hierarchisierung und Repertorisation nach den Regeln der Homöopathie.
-
-<sup>3</sup> Die Gesuchstellerinnen und Gesuchsteller haben nachzuweisen, dass sie ihren Beruf seit Abschluss der Ausbildung während mindestens sechs Monaten unter fachlicher Aufsicht ausgeübt haben.
-
-<sup>4</sup> Die Fachkommission natürliche Heilmethoden erarbeitet zuhanden der GSI Richtlinien zur Beurteilung der Ausbildung.
-
-<sup>5</sup> Das GA kann andere Ausbildungsgänge anerkennen, wenn diese mindestens gleichwertig sind.
-
-### 2.18 Akupunkteurinnen und Akupunkteure
-
-#### Art. 51
-
-**Tätigkeit**
-
-<sup>1</sup> Akupunkteurinnen und Akupunkteure sind zur Vorbeugung, Feststellung und Behandlung von Krankheiten, Verletzungen und anderen gesundheitlichen Störungen mittels der Setzung von Akupunkturnadeln berechtigt.
-
-#### Art. 52
-
-**Bewilligungsvoraussetzungen**
-
-<sup>1</sup> Die Erteilung einer Berufsausübungsbewilligung setzt voraus, dass die Gesuchstellerinnen und Gesuchsteller über eine vom GA anerkannte Ausbildung verfügen.
-
-<sup>2</sup> Vorausgesetzt wird in der Regel eine mindestens dreijährige Fachausbildung, die hinreichende Kenntnisse in den folgenden Gebieten vermittelt:
-
-- a Grundwissen in Anatomie, Physiologie, Pathologie, Hygiene und Psychosomatik, System und Gesetzgebung des Gesundheitswesens,
-- b Anamnese, Befunderhebung, Meridiansysteme, Elementenlehre, Punktlokalisation und saubere Nadeltechnik nach den Regeln der Akupunktur.
-
-<sup>3</sup> Die Gesuchstellerinnen und Gesuchsteller haben nachzuweisen, dass sie ihren Beruf seit Abschluss der Ausbildung während mindestens sechs Monaten unter fachlicher Aufsicht ausgeübt haben.
-
-<sup>4</sup> Die Fachkommission natürliche Heilmethoden erarbeitet zuhanden der GSI Richtlinien zur Beurteilung der Ausbildung.
-
-<sup>5</sup> Das GA kann andere Ausbildungsgänge anerkennen, wenn diese mindestens gleichwertig sind.
-
-### 2.19 Therapeutinnen und Therapeuten der TCM
-
-#### Art. 53
-
-**Tätigkeit**
-
-<sup>1</sup> Therapeutinnen und Therapeuten der TCM sind berechtigt zur
-
-- a Vorbeugung, Feststellung und Behandlung von Krankheiten, Verletzungen und anderen gesundheitlichen Störungen nach den Regeln der TCM,
-- b Ausübung der Akupunktur, wenn die erforderlichen Kenntnisse und Fähigkeiten im Rahmen der Ausbildung erworben wurden.
-- c …
-
-#### Art. 54
-
-**Bewilligungsvorraussetzungen**
-
-<sup>1</sup> Die Erteilung einer Berufsausübungsbewilligung setzt voraus, dass die Gesuchstellerinnen und Gesuchsteller über eine vom GA anerkannte Ausbildung verfügen.
-
-<sup>2</sup> Vorausgesetzt wird in der Regel eine mindestens dreijährige Fachausbildung, die hinreichende Kenntnisse in den folgenden Gebieten vermittelt:
-
-- a Grundwissen in Anatomie, Physiologie, Pathologie, Hygiene, Psychosomatik und Heilkräuterkunde, System und Gesetzgebung des Gesundheitswesens,
-- b Anamnese, Feststellung von Krankheiten, Verletzungen und anderen gesundheitlichen Störungen, Meridiansysteme, Elementenlehre und Therapieformen nach den Regeln der TCM.
-
-<sup>3</sup> Die Gesuchstellerinnen und Gesuchsteller haben nachzuweisen, dass sie ihren Beruf seit Abschluss der Ausbildung während mindestens sechs Monaten unter fachlicher Aufsicht ausgeübt haben.
-
-<sup>4</sup> Die Fachkommission natürliche Heilmethoden erarbeitet zu Handen der GSI Richtlinien zur Beurteilung der Ausbildung.
-
-<sup>5</sup> Das GA kann andere Ausbildungsgänge anerkennen, wenn diese mindestens gleichwertig sind.
+**…**
 
 ### 2.20 Osteopathinnen und Osteopathen
 
@@ -728,9 +621,42 @@ beschliesst:
 
 **Bewilligungsvoraussetzungen**
 
-<sup>1</sup> Die Erteilung einer Berufsausübungsbewilligung setzt voraus, dass die Gesuchstellerinnen und Gesuchsteller über ein interkantonales Diplom nach Artikel 2 des Reglements der kantonalen Gesundheitsdirektorinnen und -direktoren (GDK) vom 23. November 2006 für die interkantonale Prüfung von Osteopathinnen und Osteopathen in der Schweiz[^56-1] verfügen.
+<sup>1</sup> …
 
-[^56-1]: BSG 439.182.6
+<sup>2</sup> Die Bewilligungsvoraussetzungen richten sich nach Artikel 12 GesBG.
+
+### 2.21 Medizinische Masseurinnen und Masseure
+
+#### Art. 56a
+
+**Tätigkeit**
+
+<sup>1</sup> Medizinische Masseurinnen und Masseure sind zur Durchführung von passiven physikalischen Heilanwendungen berechtigt, soweit die Behandlungsmethode keine ärztlichen, chiropraktischen oder physiotherapeutischen Fachkenntnisse voraussetzt.
+
+#### Art. 56b
+
+**Bewilligungsvoraussetzungen**
+
+<sup>1</sup> Die Erteilung einer Berufsausübungsbewilligung setzt voraus, dass die Gesuchstellerinnen und Gesuchsteller über einen eidgenössischen Fachausweis oder einen Fachausweis nach den Richtlinien des Schweizerischen Roten Kreuzes als medizinische Masseurin oder als medizinischer Masseur oder einen vom Schweizerischen Roten Kreuz als gleichwertig anerkannten ausländischen Fähigkeitsausweis verfügen.
+
+### 2.22 Naturheilpraktikerinnen und Naturheilpraktiker
+
+#### Art. 56c
+
+**Tätigkeit**
+
+<sup>1</sup> Die Bewilligung berechtigt zur Ausübung der naturheilpraktischen Methoden, die Teil der Fachrichtungsschwerpunkte sind.
+
+#### Art. 56d
+
+**Bewilligungsvoraussetzungen**
+
+<sup>1</sup> Die Erteilung einer Berufsausübungsbewilligung setzt voraus, dass die Gesuchstellerinnen und Gesuchsteller über das eidgenössische Diplom als Naturheilpraktikerin oder Naturheilpraktiker mit folgendem Fachrichtungsschwerpunkt verfügen:
+
+- a Ayurveda-Medizin,
+- b Homöopathie,
+- c Traditionelle Chinesische Medizin,
+- d Traditionelle Europäische Naturheilkunde.
 
 ## 3 Heilmittelversorgung
 
@@ -767,7 +693,7 @@ beschliesst:
 
 <sup>3</sup> Die nach Absatz 2 Buchstabe e hergestellten Arzneimittel sind dem GA unter Angabe von Bezeichnung, Zusammensetzung und Beschriftung zu melden.
 
-<sup>4</sup> Sie können vom GA befugt oder beauftragt werden, gesundheitsvorsorgliche Leistungen zu erbringen.
+<sup>4</sup> Öffentliche Apotheken können vom GA befugt oder beauftragt werden, gesundheitsvorsorgliche Leistungen zu erbringen.
 
 #### Art. 59
 
@@ -1034,7 +960,7 @@ beschliesst:
 
 **Endabrechnung aus Leistungsverträgen**
 
-<sup>1</sup> Das Gesundheitsamt verfügt die Endabrechnungen aus den Leistungsverträgen nach Artikel 4 Absatz 2 GesG spätestens ein Jahr nach Vertragsende.
+<sup>1</sup> Das GA verfügt die Endabrechnungen aus den Leistungsverträgen nach Artikel 4 Absatz 2 GesG spätestens ein Jahr nach Vertragsende.
 
 ## 5 Übergangs- und Schlussbestimmungen
 
@@ -1092,6 +1018,54 @@ beschliesst:
 #### Art. T1-1
 
 <sup>1</sup> Spitex-Organisationen, die nach Artikel 5 Buchstabe d neu der Bewilligungspflicht unterstehen, haben bis spätestens 30. Juni 2011 ein Gesuch um Erteilung einer Betriebsbewilligung beim ALBA einzureichen.
+
+## T2 Übergangsbestimmungen der Änderung vom 22.11.2023
+
+#### Art. T2-1
+
+**Augenoptikerinnen und Augenoptiker**
+
+<sup>1</sup> Die Bewilligungen für Augenoptikerinnen und Augenoptiker, die vor dem Inkrafttreten dieser Änderung zu optometrischen Messungen und Anpassungen von Kontaktlinsen berechtigt gewesen sind, bleiben gültig und entsprechen neu einer Bewilligung als Optometristin oder Optometrist.
+
+<sup>2</sup> Für sie gelten neu dieselben Bestimmungen wie für Optometristinnen und Optometristen.
+
+#### Art. T2-2
+
+**Heilpraktikerinnen und Heilpraktiker**
+
+<sup>1</sup> Die vor dem Inkrafttreten dieser Änderung erteilten Bewilligungen für Heilpraktikerinnen und Heilpraktiker bleiben gültig und entsprechen neu einer Bewilligung als Naturheilpraktikerin oder Naturheilpraktiker.
+
+<sup>2</sup> Für sie gelten neu dieselben Bestimmungen wie für Naturheilpraktikerinnen und Naturheilpraktiker.
+
+#### Art. T2-3
+
+**Homöopathinnen und Homöopathen**
+
+<sup>1</sup> Die vor dem Inkrafttreten dieser Änderung erteilten Bewilligungen für Homöopathinnen und Homöopathen bleiben gültig und entsprechen neu einer Bewilligung als Naturheilpraktikerin oder Naturheilpraktiker.
+
+<sup>2</sup> Für sie gelten neu dieselben Bestimmungen wie für Naturheilpraktikerinnen und Naturheilpraktiker.
+
+#### Art. T2-4
+
+**Akupunkteurinnen und Akupunkteure**
+
+<sup>1</sup> Die vor dem Inkrafttreten dieser Änderung erteilten Bewilligungen für Akupunkteurinnen und Akupunkteure bleiben gültig und entsprechen neu einer Bewilligung als Naturheilpraktikerin oder Naturheilpraktiker.
+
+<sup>2</sup> Für sie gelten neu dieselben Bestimmungen wie für Naturheilpraktikerinnen und Naturheilpraktiker.
+
+#### Art. T2-5
+
+**Therapeutinnen und Therapeuten der TCM**
+
+<sup>1</sup> Die vor dem Inkrafttreten dieser Änderung erteilten Bewilligungen für Therapeutinnen und Therapeuten der TCM bleiben gültig und entsprechen neu einer Bewilligung als Naturheilpraktikerin oder Naturheilpraktiker.
+
+<sup>2</sup> Für sie gelten neu dieselben Bestimmungen wie für Naturheilpraktikerinnen und Naturheilpraktiker.
+
+#### Art. T2-6
+
+**Medizinische Masseurinnen und Masseure**
+
+<sup>1</sup> Medizinische Masseurinnen und Masseure, die vor dem Inkrafttreten dieser Änderung in eigener fachlicher Verantwortung tätig gewesen sind, müssen spätestens zwei Jahre nach deren Inkrafttreten über eine Bewilligung verfügen.
 
 Bern, 24. Oktober 2001
 
