@@ -4,11 +4,11 @@ title: "Verordnung vom 7. November 2018 über Geldspiele (Geldspielverordnung, V
 short: VGS
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/796"
 language: de
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2018-11-07
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/796/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2018-796-20230901-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/796/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/796/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2018-796-20240101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/796/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/796/20230901/de"
 
 (Geldspielverordnung, VGS)
 
-vom 7. November 2018 (Stand am 1. September 2023)
+vom 7. November 2018 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -1232,6 +1232,16 @@ Die Spielbank oder die Veranstalterin von Grossspielen trägt folgende Angaben �
 <sup>3</sup> Die Spielbank oder die Veranstalterin von Grossspielen sorgt für die korrekte Führung des Registers.
 
 <sup>4</sup> Gesperrte Personen können den Eintrag im Register von sie betreffenden Daten bei der Spielbank oder der Veranstalterin von Grossspielen bestreiten.
+
+#### Art. 85a
+
+**Weitergabe von Daten und Übertragung von Zuständigkeiten bei der Einstellung der Tätigkeit einer Spielbank oder einer Veranstalterin von Grossspielen**[^85a-1]
+
+<sup>1</sup> Übt eine Spielbank oder eine Veranstalterin von Grossspielen ihre Tätigkeit nicht mehr aus, so werden ihre im Register der gesperrten Personen eingetragenen Daten an die am nächsten gelegene Spielbank beziehungsweise an die Veranstalterin von Lotterien und Sportwetten weitergegeben, deren Sitz am nächsten liegt.
+
+<sup>2</sup> Anträge auf Aufhebung der Spielsperre nach Artikel 81 BGS werden von der Spielbank oder der Veranstalterin von Lotterien und Sportwetten bearbeitet, an welche die Daten weitergegeben wurden.
+
+[^85a-1]: Eingefügt durch Ziff. I der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 799](https://fedlex.data.admin.ch/eli/oc/2023/799)).
 
 #### Art. 86
 

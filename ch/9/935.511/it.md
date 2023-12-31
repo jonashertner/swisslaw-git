@@ -4,11 +4,11 @@ title: Ordinanza del 7 novembre 2018 sui giochi in denaro (OGD)
 short: OGD
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/796"
 language: it
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2018-11-07
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/796/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2018-796-20230901-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/796/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/796/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2018-796-20240101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/796/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/796/20230901/it"
 
 (OGD)
 
-del 7 novembre 2018 (Stato 1° settembre 2023)
+del 7 novembre 2018 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -1234,6 +1234,16 @@ Per le persone escluse dal gioco secondo l’articolo 80 LGD, la casa da gioco o
 <sup>3</sup> La casa da gioco e l’organizzatore di giochi di grande estensione provvedono a una tenuta corretta del registro.
 
 <sup>4</sup> Le persone escluse dal gioco possono contestare presso la casa da gioco o presso l’organizzatore di giochi di grande estensione l’iscrizione nel registro di dati che le riguardano.
+
+#### Art. 85a
+
+**Trasmissione dei dati e competenza in caso di cessazione dell’attività di una casa da gioco o di un organizzatore di giochi di grande estensione**[^85a-1]
+
+<sup>1</sup> Se una casa da gioco o un organizzatore di giochi di grande estensione cessa la propria attività, i dati che ha iscritto nel registro delle persone escluse sono trasmessi alla casa da gioco o all’organizzatore di lotterie e scommesse sportive avente la sede più vicina.
+
+<sup>2</sup> Le richieste di revoca dell’esclusione dal gioco secondo l’articolo 81 LGD sono trattate dalla casa da gioco o dall’organizzatore di lotterie e scommesse sportive cui sono stati trasmessi i dati.
+
+[^85a-1]: Introdotto dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 799](https://fedlex.data.admin.ch/eli/oc/2023/799)).
 
 #### Art. 86
 

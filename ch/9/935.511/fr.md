@@ -4,11 +4,11 @@ title: "Ordonnance du 7 novembre 2018 sur les jeux d'argent (OJAr)"
 short: OJAr
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/796"
 language: fr
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2018-11-07
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/796/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2018-796-20230901-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/796/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/796/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2018-796-20240101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/796/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/796/20230901/fr"
 
 (OJAr)
 
-du 7 novembre 2018 (État le 1<sup>er</sup> septembre 2023)
+du 7 novembre 2018 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -1230,6 +1230,16 @@ Les maisons de jeu et les exploitants de jeux de grande envergure introduisent d
 <sup>3</sup> Les maisons de jeux et les exploitants de jeux de grande envergure veillent à la bonne tenue du registre.
 
 <sup>4</sup> Les personnes exclues des jeux peuvent contester auprès de la maison de jeu ou de l’exploitant de jeux de grande envergure, l’inscription dans le registre des données qui les concernent.
+
+#### Art. 85a
+
+**Transmission des données et compétence en cas de cessation d’activité d’une maison de jeu ou d’un exploitant de jeux de grande envergure**[^85a-1]
+
+<sup>1</sup> Si une maison de jeu ou un exploitant de jeux de grande envergure cesse d’exercer son activité, les données qu’il a introduites dans le registre des exclusions sont transmises respectivement à la maison de jeu la plus proche ou à l’exploitant de loteries et de paris sportifs dont le siège est le plus proche.
+
+<sup>2</sup> Les demandes de levée de l’exclusion au sens de l’art. 81 LJAr sont traitées par la maison de jeu ou l’exploitant de loteries et de paris sportifs auquel les données ont été transmises.
+
+[^85a-1]: Introduit par le ch. I de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 799](https://fedlex.data.admin.ch/eli/oc/2023/799)).
 
 #### Art. 86
 
