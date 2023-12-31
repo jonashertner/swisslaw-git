@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 19. Dezember 2008 über die Verlagerung des alpenqueren
 short: GVVG
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/727"
 language: de
-version: 2022-01-01
+version: 2024-01-01
 adopted: 2008-12-19
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/727/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2009-727-20220101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/727/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/727/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2009-727-20240101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/727/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/727/20220101/de"
 
 (Güterverkehrsverlagerungsgesetz, GVVG)
 
-vom 19. Dezember 2008 (Stand am 1. Januar 2022)
+vom 19. Dezember 2008 (Stand am 1. Januar 2024)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -106,15 +106,17 @@ Der Reinertrag der Alpentransitbörse wird insbesondere für Massnahmen zur Erre
 
 #### Art. 8
 
-**Förderung des Schienengüterverkehrs**
+**Förderung des Schienengüterverkehrs**[^8-1]
 
-<sup>1</sup> Damit das Verlagerungsziel erreicht wird, kann der Bund Förderungsmassnahmen beschliessen. Dabei wird in erster Linie der unbegleitete kombinierte Verkehr über grosse Distanzen gefördert. Diese Massnahmen dürfen keine diskriminierenden Auswirkungen auf die schweizerischen und ausländischen Transportunternehmen im Güterverkehr haben.
+<sup>1</sup> Damit das Verlagerungsziel erreicht wird, kann der Bund Fördermassnahmen beschliessen. Dabei wird in erster Linie der unbegleitete kombinierte Verkehr gefördert. Diese Massnahmen dürfen keine diskriminierenden Auswirkungen auf die schweizerischen und ausländischen Transportunternehmen im Güterverkehr haben.
 
-<sup>2</sup> Die Höhe der durchschnittlichen Abgeltung pro transportierter Sendung hat von Jahr zu Jahr abzunehmen. ...[^8-1]
+<sup>2</sup> Im unbegleiteten kombinierten Verkehr hat die Höhe der durchschnittlichen Abgeltung pro transportierte Sendung von Jahr zu Jahr abzunehmen.
 
-<sup>3</sup> Der begleitete kombinierte Verkehr (Rollende Landstrasse) darf nur ergänzend zum unbegleiteten kombinierten Verkehr gefördert werden.
+<sup>3</sup> Der begleitete kombinierte Verkehr (Rollende Landstrasse) kann bis Ende 2028 gefördert werden.
 
-[^8-1]: Zweiter Satz eingefügt durch Ziff. I 1 des BG vom 25. Sept. 2020 über die Unterstützung des öffentlichen Verkehrs in der Covid-19-Krise, in Kraft vom 26. Sept. 2020 bis zum 31. Dez. 2021 ([AS 2020 3825](https://fedlex.data.admin.ch/eli/oc/2020/708); [BBl 2020 6713](https://fedlex.data.admin.ch/eli/fga/2020/1731)).
+<sup>4</sup> Der Bund kann sich im Jahr nach Einstellung des Betriebs der Rollenden Landstrasse an den Liquidationskosten der Betreiberin beteiligen.
+
+[^8-1]: Fassung gemäss Ziff. I des BG vom 16. Juni 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 726](https://fedlex.data.admin.ch/eli/oc/2023/726); [BBl 2022 2456](https://fedlex.data.admin.ch/eli/fga/2022/2456)).
 
 #### Art. 9
 
@@ -140,4 +142,4 @@ Das Verkehrsverlagerungsgesetz vom 8. Oktober 1999[^10-1] wird aufgehoben.
 
 Datum des Inkrafttretens: 1. Januar 2010[^11-1]
 
-[^11-1]: BRB vom 4. Nov. 2009 (AS **2009** 5952)
+[^11-1]: BRB vom 4. Nov. 2009

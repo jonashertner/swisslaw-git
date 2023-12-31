@@ -4,11 +4,11 @@ title: "Legge federale del 19 dicembre 2008 concernente il trasferimento dalla s
 short: LTrasf
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/727"
 language: it
-version: 2022-01-01
+version: 2024-01-01
 adopted: 2008-12-19
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/727/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2009-727-20220101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/727/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/727/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2009-727-20240101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/727/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/727/20220101/it"
 
 (Legge sul trasferimento del traffico merci, LTrasf)
 
-del 19 dicembre 2008 (Stato 1° gennaio 2022)
+del 19 dicembre 2008 (Stato 1° gennaio 2024)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -106,15 +106,17 @@ I proventi netti della borsa dei transiti alpini sono utilizzati in particolare 
 
 #### Art. 8
 
-**Promovimento del trasporto di merci per ferrovia**
+**Promovimento del trasporto di merci per ferrovia**[^8-1]
 
-<sup>1</sup> Per il raggiungimento dell’obiettivo di trasferimento, la Confederazione può adottare misure di promovimento. In tale ambito è promosso in primo luogo il traffico combinato non accompagnato su lunghe distanze. Tali misure non possono avere effetti discriminatori nei confronti delle imprese di trasporto svizzere o estere nel traffico merci.
+<sup>1</sup> Per il raggiungimento dell’obiettivo di trasferimento, la Confederazione può adottare misure di promovimento. In tale ambito è promosso in primo luogo il traffico combinato non accompagnato. Tali misure non possono avere effetti discriminatori nei confronti delle imprese di trasporto svizzere o estere nel traffico merci.
 
-<sup>2</sup> L’importo dell’indennità media per invio trasportato deve ridursi di anno in anno. ...[^8-1]
+<sup>2</sup> Nel traffico combinato non accompagnato l’importo dell’indennità media per invio trasportato si riduce di anno in anno.
 
-<sup>3</sup> Il traffico combinato accompagnato (strada viaggiante) può essere promosso solo a titolo complementare rispetto al traffico combinato non accompagnato.
+<sup>3</sup> Il traffico combinato accompagnato (strada viaggiante) può essere promosso sino alla fine del 2028.
 
-[^8-1]: Per. introdotto dal n. I 1 della LF del 25 set. 2020 sul sostegno ai trasporti pubblici nella crisi della COVID-19, in vigore dal 26 set. 2020 al 31 dic. 2021 ([RU 2020 3825](https://fedlex.data.admin.ch/eli/oc/2020/708); [FF 2020 5907](https://fedlex.data.admin.ch/eli/fga/2020/1731)).
+<sup>4</sup> Nell’anno successivo alla cessazione dell’esercizio della strada viaggiante la Confederazione può partecipare ai costi di liquidazione del gestore.
+
+[^8-1]: Nuovo testo giusta il n. I della LF del 16 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 726](https://fedlex.data.admin.ch/eli/oc/2023/726); [FF 2022 2456](https://fedlex.data.admin.ch/eli/fga/2022/2456)).
 
 #### Art. 9
 
@@ -140,4 +142,4 @@ La legge dell’8 ottobre 1999[^10-1] sul trasferimento del traffico è abrogata
 
 Data dell’entrata in vigore: 1° gennaio 2010[^11-1]
 
-[^11-1]: DCF del 4 nov. 2009 (RU **2009** 5952).
+[^11-1]: DCF del 4 nov. 2009.

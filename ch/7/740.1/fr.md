@@ -4,11 +4,11 @@ title: "Loi fédérale du 19 décembre 2008 sur le transfert de la route au rail
 short: LTTM
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/727"
 language: fr
-version: 2022-01-01
+version: 2024-01-01
 adopted: 2008-12-19
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/727/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2009-727-20220101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/727/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/727/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2009-727-20240101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/727/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/727/20220101/fr"
 
 (Loi sur le transfert du transport de marchandises, LTTM)
 
-du 19 décembre 2008 (Etat le 1<sup>er</sup> janvier 2022)
+du 19 décembre 2008 (État le 1<sup>er</sup> janvier 2024)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -106,15 +106,17 @@ Le produit net de la Bourse du transit alpin sert notamment à financer des mesu
 
 #### Art. 8
 
-**Promotion du transport ferroviaire de marchandises**
+**Promotion du transport ferroviaire de marchandises**[^8-1]
 
-<sup>1</sup> Afin que l’objectif du transfert soit atteint, la Confédération peut adopter des mesures de promotion. Elle encouragera en premier lieu le trafic combiné non accompagné sur grandes distances. Ces mesures ne doivent pas avoir d’effets discriminatoires sur les entreprises suisses ou étrangères pratiquant le transport de marchandises.
+<sup>1</sup> Afin que l’objectif du transfert soit atteint, la Confédération peut adopter des mesures de promotion. Elle encourage en premier lieu le transport combiné non accompagné. Ces mesures ne doivent pas avoir d’effets discriminatoires sur les entreprises suisses ou étrangères pratiquant le transport de marchandises.
 
-<sup>2</sup> Le montant moyen des indemnités accordées par envoi transporté doit diminuer chaque année. ...[^8-1]
+<sup>2</sup> Dans le transport combiné non accompagné, le montant moyen des indemnités accordées par envoi transporté doit diminuer chaque année.
 
-<sup>3</sup> La promotion du trafic combiné accompagné (chaussée roulante) ne doit être réalisée qu’en complément de celle du trafic combiné non accompagné.
+<sup>3</sup> Le transport combiné accompagné (chaussée roulante) peut être encouragé jusqu’à la fin de 2028.
 
-[^8-1]: Phrase introduite par le ch. I 1 de la LF du 25 sept. 2020 sur le soutien des transports publics durant la crise du COVID-19, en vigueur du 26 sept. 2020 au 31 déc. 2021 ([RO 2020 3825](https://fedlex.data.admin.ch/eli/oc/2020/708); [FF 2020 6493](https://fedlex.data.admin.ch/eli/fga/2020/1731)).
+<sup>4</sup> L’année qui suit la cessation de l’exploitation de la chaussée roulante, la Confédération peut participer aux frais de liquidation de l’exploitant.
+
+[^8-1]: Nouvelle teneur selon le ch. I de la LF du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 726](https://fedlex.data.admin.ch/eli/oc/2023/726); [FF 2022 2456](https://fedlex.data.admin.ch/eli/fga/2022/2456)).
 
 #### Art. 9
 
@@ -140,4 +142,4 @@ La loi du 8 octobre 1999 sur le transfert du trafic[^10-1] est abrogée.
 
 Date de l’entrée en vigueur: 1<sup>er</sup> janvier 2010[^11-1]
 
-[^11-1]: ACF du 4 nov. 2009 (RO **2009** 5952).
+[^11-1]: ACF du 4 nov. 2009
