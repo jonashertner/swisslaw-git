@@ -4,13 +4,13 @@ number: "153.011.5"
 title: Ordonnance sur les données secondaires de communication
 short: ODSC
 language: fr
-version: 2020-01-01
-valid_until: 2023-12-31
-version_adopted: 2019-11-20
+version: 2024-01-01
+valid_until: 2026-08-31
+version_adopted: 2023-10-25
 adopted: 2019-11-20
 in_force: 2020-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/153.011.5"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1781/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2892/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1781/pdf_file"
 
 (ODSC)
 
-du 20.11.2019 (état au 01.01.2020)
+du 20.11.2019 (état au 01.01.2024)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -74,7 +74,7 @@ arrête:
 
 <sup>2</sup> Elles doivent être détruites au plus tard trois mois après la fin de l’évaluation ou après le terme du délai de conservation prévu à l’alinéa 1.
 
-<sup>3</sup> Dans des cas particuliers, le Conseil-exécutif peut décider de prolonger la durée de conservation de certaines catégories de données résultant de l'utilisation de l'infrastructure électronique (al. 1, lit. b) pour assurer la sécurité des informations et des prestations. La Direction de la magistrature peut prendre cette décision pour des données qui sont traitées à l'aide des applications spécialisées des autorités judiciaires et du Ministère public.
+<sup>3</sup> Dans des cas particuliers, le Conseil-exécutif peut décider de prolonger la durée de conservation de certaines catégories de données résultant de l'utilisation de l'infrastructure électronique (al. 1, lit. b) pour assurer la sécurité des informations et des prestations. La Direction administrative de la magistrature peut prendre cette décision pour des données qui sont traitées à l'aide des applications spécialisées des autorités judiciaires et du Ministère public.
 
 #### Art. 5
 

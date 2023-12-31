@@ -4,13 +4,13 @@ number: "153.011.5"
 title: Randdatenverordnung
 short: RDV
 language: de
-version: 2020-01-01
-valid_until: 2023-12-31
-version_adopted: 2019-11-20
+version: 2024-01-01
+valid_until: 2026-08-31
+version_adopted: 2023-10-25
 adopted: 2019-11-20
 in_force: 2020-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/153.011.5"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1781/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2892/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1781/pdf_file"
 
 (RDV)
 
-vom 20.11.2019 (Stand 01.01.2020)
+vom 20.11.2019 (Stand 01.01.2024)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -74,7 +74,7 @@ beschliesst:
 
 <sup>2</sup> Sie sind spätestens drei Monate nach Abschluss der Auswertung oder nach Ablauf der Aufbewahrungsfristen nach Absatz 1 zu vernichten.
 
-<sup>3</sup> Der Regierungsrat kann im Einzelfall für bestimmte Kategorien von Daten über die Nutzung der elektronischen Infrastruktur (Abs. 1 Bst. b) aus Gründen der Informations- und Dienstleistungssicherheit längere Aufbewahrungsfristen beschliessen. Die Justizleitung kann dies für Daten beschliessen, die mit Fachapplikationen der Gerichtsbehörden und der Staatsanwaltschaft bearbeitet werden.
+<sup>3</sup> Der Regierungsrat kann im Einzelfall für bestimmte Kategorien von Daten über die Nutzung der elektronischen Infrastruktur (Abs. 1 Bst. b) aus Gründen der Informations- und Dienstleistungssicherheit längere Aufbewahrungsfristen beschliessen. Die Justizverwaltungsleitung kann dies für Daten beschliessen, die mit Fachapplikationen der Gerichtsbehörden und der Staatsanwaltschaft bearbeitet werden.
 
 #### Art. 5
 
