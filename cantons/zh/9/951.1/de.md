@@ -4,11 +4,11 @@ number: "951.1"
 title: Kantonalbankgesetz (ZKBG)
 short: ZKBG
 language: de
-version: "2022-07-01"
-nachtrag: "117"
-valid_until: 2024-01-01
+version: "2024-01-01"
+nachtrag: "123"
+valid_until: 2025-01-01
 adopted: 1997-09-28
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-951_1-1997_09_28-1998_01_01-117.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-951_1-1997_09_28-1998_01_01-123.html"
 text: pdf
 ---
 
@@ -24,15 +24,13 @@ Erster Abschnitt: Allgemeines
 
 § 1. Die Zürcher Kantonalbank ist eine selbstständige Anstalt des kantonalen Rechts mit Sitz in Zürich.
 
-[^t-1]: OS 54, 353.
-
-#### § 2
-
 **Zweck**
 
-<sup>1</sup> Die Bank hat den Zweck, zur Lösung der volkswirtschaftlichen und sozialen Aufgaben im Kanton beizutragen. Sie unterstützt eine umweltverträgliche Entwicklung im Kanton.
+§ 2.<sup>20</sup> <sup>1</sup> Die Bank hat den Zweck, zur Lösung der volkswirtschaftlichen, sozialen und ökologischen Aufgaben des Kantons beizutragen, und unterstützt damit eine nachhaltige Entwicklung.
 
-<sup>2</sup> Sie befriedigt die Anlage- und Finanzierungsbedürfnisse durch eine auf Kontinuität ausgerichtete Geschäftspolitik. Dabei berücksichtigt sie insbesondere die Anliegen der kleinen und mittleren Unternehmungen, der Arbeitnehmerinnen und der Arbeitnehmer, der Landwirtschaft und der öffentlichrechtlichen Körperschaften. Sie fördert das Wohneigentum und den preisgünstigen Wohnungsbau.
+<sup>2</sup> Sie befriedigt die Anlage- und Finanzierungsbedürfnisse durch eine auf Kontinuität ausgerichtete Geschäftspolitik. Dabei berücksichtigt sie insbesondere die Anliegen der kleinen und mittleren Unternehmungen, der Arbeitnehmerinnen und der Arbeitnehmer, der Landwirtschaft und der öffentlich-rechtlichen Körperschaften. Sie fördert das Wohneigentum und den preisgünstigen Wohnungsbau sowie die Erreichung der Treibhausgasneutralität.
+
+[^t-1]: OS 54, 353.
 
 #### § 3
 
@@ -66,11 +64,11 @@ Weitere eigene Mittel beschafft sich die Bank durch die Äufnung von Reserven so
 
 <sup>3</sup> Die Bank entschädigt den Kanton jährlich für die Staatsgarantie. Die Entschädigung wird als Aufwand verbucht.
 
-<sup>4</sup> Der Bankrat erlässt ein Reglement über die Entschädigung, welches vom Kantonsrat zu genehmigen ist.
-
 **1**
 
-- 1\. 7. 22 - 117
+- 1\. 1. 24 - 123
+
+<sup>4</sup> Der Bankrat erlässt ein Reglement über die Entschädigung, welches vom Kantonsrat zu genehmigen ist.
 
 <sup>5</sup> Die Entschädigung wird bei der Berechnung des mittelfristigen Ausgleichs der Rechnung des Kantons nicht berücksichtigt.
 
@@ -87,6 +85,8 @@ Weitere eigene Mittel beschafft sich die Bank durch die Äufnung von Reserven so
 <sup>2</sup> Sie schliesst keine Eigengeschäfte ab, bei denen unverhältnismässige Risiken eingegangen werden.
 
 <sup>3</sup> Sie betreibt eine Pfandleihkasse.
+
+<sup>4</sup> Sie trägt aktiv dazu bei, die kantonalen Klimaziele zu erreichen, insbesondere bei energetischen Gebäudesanierungen.<sup>19</sup>
 
 **Geschäftsbereich**
 
@@ -162,11 +162,13 @@ Weitere eigene Mittel beschafft sich die Bank durch die Äufnung von Reserven so
 
 - 7\. die Überwachung der Einhaltung der Entschädigungsregelung für die Mitglieder des Bankrats.
 
-<sup>4</sup> Die Kommission verfügt über die Informationsrechte der Aufsichtskommissionen gemäss Kantonsratsgesetz[^12-1]. Die Bank erteilt der Kommission die Auskünfte und gibt ihr die Unterlagen heraus, die sie zur Erfüllung ihrer Aufgaben benötigt.<sup>17</sup>
-
 **3**
 
-- 1\. 7. 22 - 117 § 13.<sup>16</sup>
+- 1\. 1. 24 - 123
+
+<sup>4</sup> Die Kommission verfügt über die Informationsrechte der Aufsichtskommissionen gemäss Kantonsratsgesetz[^12-1]. Die Bank erteilt der Kommission die Auskünfte und gibt ihr die Unterlagen heraus, die sie zur Erfüllung ihrer Aufgaben benötigt.<sup>17</sup>
+
+§ 13.<sup>16</sup>
 
 [^12-1]: LS 171.1.
 
@@ -236,13 +238,15 @@ Weitere eigene Mittel beschafft sich die Bank durch die Äufnung von Reserven so
 
 - 3\. ein Risiko-Management-Ausschuss, 4.<sup>14</sup> ein IT-Ausschuss.
 
-<sup>3</sup> Die Mitglieder des Bankpräsidiums dürfen dem Prüfungsausschuss nicht angehören.
-
 **5**
 
-- 1\. 7. 22 - 117 § 16.<sup>15</sup> <sup>1</sup> Das Bankpräsidium besteht aus der Präsidentin oder dem Präsidenten und den beiden Vizepräsidentinnen oder Vizepräsidenten des Bankrates.<sup>8</sup>
+- 1\. 1. 24 - 123
+
+<sup>3</sup> Die Mitglieder des Bankpräsidiums dürfen dem Prüfungsausschuss nicht angehören.
 
 **Bankpräsidium**
+
+§ 16.<sup>15</sup> <sup>1</sup> Das Bankpräsidium besteht aus der Präsidentin oder dem Präsidenten und den beiden Vizepräsidentinnen oder Vizepräsidenten des Bankrates.<sup>8</sup>
 
 <sup>2</sup> Die Amtsdauer beträgt vier Jahre. Wiederwahl ist möglich. Vollendet ein Mitglied des Bankpräsidiums während einer Amtsdauer das 65. Altersjahr, so endet seine Amtszeit mit Ablauf der Amtsdauer. Im Übrigen besteht für die Mitglieder des Bankpräsidiums keine Amtszeitbeschränkung.<sup>10</sup>
 
@@ -310,6 +314,10 @@ Die Bank wird durch die Mitglieder des Bankpräsidiums und der Generaldirektion 
 
 § 25.<sup>15</sup> Die Mitglieder der Organe der Bank haften der Bank und dem Kanton sowie den Gläubigerinnen und den Gläubigern nachrangiger Verbindlichkeiten nach den Bestimmungen des Aktienrechts (Art. 752–760 OR[^hSiebterAbschnittH-1]. Ansprüche aus dieser Haftung sind beim Verwaltungsgericht geltend zu machen. Kanton und Bank werden dabei vom Kantonsrat vertreten.
 
+**7**
+
+- 1\. 1. 24 - 123
+
 [^hSiebterAbschnittH-1]: SR 220.
 
 ### Achter Abschnitt: Gewinnverteilung
@@ -318,11 +326,9 @@ Die Bank wird durch die Mitglieder des Bankpräsidiums und der Generaldirektion 
 
 § 26.<sup>15</sup> Aus dem Bilanzgewinn oder dafür gebildeten Reserven kann dem Kanton für die Bereitstellung des Dotationskapitals eine Dividende ausgerichtet werden.
 
-**7**
-
-- 1\. 7. 22 - 117 § 26 a.<sup>14</sup> Der Kanton verwendet die Dividende zunächst zur Bestreitung der Kapitalkosten für die Refinanzierung des Dotationskapitals. Vom verbleibenden Betrag steht ein Drittel den politischen Gemeinden im Verhältnis zur Einwohnerzahl zu.
-
 **Verwendung der Dividende**
+
+§ 26 a.<sup>14</sup> Der Kanton verwendet die Dividende zunächst zur Bestreitung der Kapitalkosten für die Refinanzierung des Dotationskapitals. Vom verbleibenden Betrag steht ein Drittel den politischen Gemeinden im Verhältnis zur Einwohnerzahl zu.
 
 ### Neunter Abschnitt: Personalvorsorge
 
@@ -368,6 +374,10 @@ Die Bank wird durch die Mitglieder des Bankpräsidiums und der Generaldirektion 
 
 <sup>18</sup> Fassung gemäss G vom 15. November 2021 (OS 77, 249; ABl 2020-06-12). In Kraft seit 1. Juli 2022.
 
+<sup>19</sup> Eingefügt durch G vom 27. März 2023 (OS 78, 411; ABl 2022-12-02). In Kraft seit 1. Januar 2024.
+
+<sup>20</sup> Fassung gemäss G vom 27. März 2023 (OS 78, 411; ABl 2022-12-02). In Kraft seit 1. Januar 2024.
+
 **9**
 
-- 1\. 7. 22 - 117
+- 1\. 1. 24 - 123
