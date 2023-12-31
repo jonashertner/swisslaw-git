@@ -1,27 +1,31 @@
 ---
 canton: TG
 number: "211.24"
-title: Verordnung des Obergerichts zum Kindes- und Erwachsenenschutz
-short: "Kindes- und Erwachsenenschutzverordnung, KESV"
+title: Kindes- und Erwachsenenschutzverordnung
+short: KESV
 language: de
-version: 2023-06-17
-valid_until: 2023-12-31
-version_adopted: 2023-06-12
+version: 2024-01-01
+valid_until: 2024-12-31
+version_adopted: 2024-07-11
 adopted: 2012-10-22
 in_force: 2013-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/211.24"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2666/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2823/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung des Obergerichts zum Kindes- und Erwachsenenschutz
+# Kindes- und Erwachsenenschutzverordnung
 
 KESV
 
-(Kindes- und Erwachsenenschutzverordnung, KESV)
+(KESV)
 
-vom 22.10.2012 (Stand 17.06.2023)
+vom 22.10.2012 (Stand 01.01.2024)
+
+Erlassen vom Obergericht gestützt auf § 3 Abs. 1 Satz 2, § 11c Abs. 2, § 16a Abs. 2, § 16d Abs. 2, § 51 und § 83 des Einführungsgesetzes zum Schweizerischen Zivilgesetzbuch (EG ZGB)[^ingress-1].
+
+[^ingress-1]: RB [210.1](https://www.rechtsbuch.tg.ch/data/210.1/de)
 
 ## 1. Organisation der Kindes- und Erwachsenenschutzbehörden
 
@@ -33,7 +37,7 @@ vom 22.10.2012 (Stand 17.06.2023)
 
 - 1\. für den Bezirk Arbon — 440 %
 - 2\. für den Bezirk Frauenfeld — 550 %
-- 3\. für den Bezirk Kreuzlingen — 370 %
+- 3\. für den Bezirk Kreuzlingen — 400 %
 - 4\. für den Bezirk Münchwilen — 350 %
 - 5\. für den Bezirk Weinfelden — 410 %
 
@@ -43,10 +47,10 @@ vom 22.10.2012 (Stand 17.06.2023)
 
 <sup>1</sup> Der gesamte Beschäftigungsgrad der Fachsekretariate der Kindes- und Erwachsenenschutzbehörde beträgt:
 
-- 1\. für den Bezirk Arbon — 600 %
-- 2\. für den Bezirk Frauenfeld — 680 %
-- 3\. für den Bezirk Kreuzlingen — 490 %
-- 4\. für den Bezirk Münchwilen — 480 %
+- 1\. für den Bezirk Arbon — 660 %
+- 2\. für den Bezirk Frauenfeld — 780 %
+- 3\. für den Bezirk Kreuzlingen — 530 %
+- 4\. für den Bezirk Münchwilen — 540 %
 - 5\. für den Bezirk Weinfelden — 740 %
 
 #### § 2a
