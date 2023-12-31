@@ -4,13 +4,13 @@ number: "962.11"
 title: Strafprozessverordnung
 short: StPV
 language: de
-version: 2023-01-01
-valid_until: 2023-12-31
-version_adopted: 2022-12-06
+version: 2024-01-01
+valid_until: 2024-10-31
+version_adopted: 2023-10-10
 adopted: 2010-11-23
 in_force: 2011-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/962.11"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3417/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3651/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3417/pdf_file"
 
 (StPV)
 
-vom 23.11.2010 (Stand 01.01.2023)
+vom 23.11.2010 (Stand 01.01.2024)
 
 Die Regierung des Kantons St.Gallen
 
@@ -173,7 +173,8 @@ als Verordnung:[^ingress-2]
 - h) dem Gemeindepräsidium bei Widerhandlungen im Bereich der Sozialhilfe, der Hundepolizei, des Gastwirtschaftswesens, des Bau- und Strassenwesens und des Umwelt- und Gewässerschutzes;
 - i) der zuständigen Kindes- und Erwachsenenschutzbehörde:
   - 1\. wenn Kindes- und Erwachsenenschutzmassnahmen notwendig erscheinen;
-  - 2\. wenn eine Person, die als Beiständin oder Beistand ernannt wurde, angeschuldigt ist wegen eines strafbaren Verhaltens, das die verbeiständete Person beeinträchtigen könnte.
+  - 2\. wenn eine Person, die als Beiständin oder Beistand ernannt wurde, angeschuldigt ist wegen eines strafbaren Verhaltens, das die verbeiständete Person beeinträchtigen könnte;
+- j) dem Konkursamt oder dem zuständigen Betreibungsamt, wenn dieses Anzeige wegen eines Konkurs- oder Betreibungsdelikts erstattet hat.
 
 <sup>2</sup> Wird eine solche Widerhandlung durch Bussenerhebung auf der Stelle geahndet und erscheinen nichtstrafrechtliche Massnahmen als notwendig, macht die Polizei dem zuständigen Departement, Gemeinde- oder Schulratspräsidium Mitteilung.
 
