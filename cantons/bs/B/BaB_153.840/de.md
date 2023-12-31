@@ -3,22 +3,21 @@ canton: BS
 number: BaB 153.840
 title: Gebührenreglement der Zentralen Dienste
 language: de
-version: 2020-01-01
-valid_until: 2023-12-31
-version_adopted: 2019-11-12
+version: 2024-01-01
+version_adopted: 2023-10-31
 adopted: 2014-02-04
 in_force: 2014-04-25
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/BaB%20153.840"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5799/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6078/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Gebührenreglement der Zentralen Dienste
 
-Gebührenreglement | Basel: Bürgergemeinde
+Bürgerrat / Verwaltung
 
-Vom 4. Februar 2014 (Stand 1. Januar 2020)
+Vom 4. Februar 2014 (Stand 1. Januar 2024)
 
 Der Bürgerrat der Stadt Basel,
 
@@ -39,10 +38,10 @@ beschliesst:
 <sup>1</sup> Im Verfahren der ordentlichen Einbürgerung erheben die Zentralen Dienste folgende Gebühren:
 
 - a) von ausländischen Bürgerrechtsbewerbenden ab 25 Jahren
-  - aa) Einzelpersonen — CHF 950
-  - ab) Ehepaare, eingetragene Paare, Familien, Einzelperson mit Kind oder Kindern — CHF 1'100
+  - aa) Einzelpersonen — CHF 800
+  - ab) Ehepaare, eingetragene Paare, Familien, Einzelperson mit Kind oder Kindern — CHF 950
 - b) von ausländischen Bürgerrechtsbewerbenden unter 25 Jahren — CHF 700
-- c) von Schweizer Bürgerrechtsbewerbenden — CHF 200
+- c) von Schweizer Bürgerrechtsbewerbenden — CHF 150
 - d) …
 
 #### § 2
@@ -56,15 +55,15 @@ beschliesst:
 
 #### § 3
 
-**Sprachnachweis fide**
+**fide-Test**
 
-<sup>1</sup> Die Zentralen Dienste führen den Sprachnachweis fide durch. Für diesen Sprachnachweis werden folgende Teilnahmegebühren erhoben:
+<sup>1</sup> Die Zentralen Dienste führen den fide-Test durch. Für diesen Sprachnachweis werden folgende Teilnahmegebühren erhoben:
 
 - a) Teilnahmegebühr beide Teile — CHF 250
 - b) Teilnahmegebühr Sprechen und Verstehen — CHF 170
 - c) Teilnahmegebühr Lesen und Schreiben — CHF 120
 
-<sup>2</sup> Bei Rückzug der Anmeldung bis zwei Wochen vor dem Durchführungstermin wird eine Bearbeitungsgebühr von CHF 30 erhoben. Bei späterem Rückzug der Anmeldung oder bei Nichterscheinen zum Durchführungstermin erfolgt keine Rückerstattung der Teilnahmegebühren.
+<sup>2</sup> Bei Rückzug der Anmeldung bis 20 Tage vor dem Durchführungstermin wird eine Bearbeitungsgebühr von CHF 100 erhoben. Bei späterem Rückzug der Anmeldung oder bei Nichterscheinen zum Durchführungstermin erfolgt keine Rückerstattung der Teilnahmegebühren. Die Anmeldung ist verbindlich und muss sofort bei Erhalt der Rechnung bezahlt werden.
 
 #### § 3a
 
@@ -86,7 +85,7 @@ beschliesst:
 
 **Vorauszahlungspflicht**
 
-<sup>1</sup> Die in diesem Reglement genannten Gebühren für die ordentliche Einbürgerung und den Sprachnachweis fide sind im Voraus zu bezahlen.
+<sup>1</sup> Die in diesem Reglement genannten Gebühren für die ordentliche Einbürgerung und den fide-Test sind im Voraus zu bezahlen.
 
 #### § 5
 
@@ -95,7 +94,7 @@ beschliesst:
 <sup>1</sup> Es werden folgende weitere Gebühren erhoben für:
 
 - a) jede zusätzliche Vorladung vor die Einbürgerungskommission
-  - 1\. infolge Rückstellung von Gesuchen ausländischer Bürgerrechtsbewerbenden über 25 Jahren — CHF 450
+  - 1\. infolge Rückstellung von Gesuchen ausländischer Bürgerrechtsbewerbenden ab 25 Jahren — CHF 300
   - 2\. infolge Rückstellung von Gesuchen ausländischer Bürgerrechtsbewerbenden unter 25 Jahren — CHF 300
   - 3\. infolge Fernbleiben ohne triftigen Grund oder ohne vorherige Abmeldung — CHF 300
 - b) die zusätzliche Schulung durch Organe der Bürgergemeinde — CHF 100
@@ -119,8 +118,10 @@ beschliesst:
 
 <sup>1</sup> Wird das Einbürgerungsgesuch von der oder dem Gesuchstellenden zurückgezogen, wird folgender Betrag zurückerstattet:
 
-- a) bei ausländischen Bürgerrechtsbewerbenden über 25 Jahren — CHF 450
-- b) bei ausländischen Bürgerrechtsbewerbenden unter 25 Jahren — CHF 300
+- a) bei ausländischen Bürgerrechtsbewerbenden ab 25 Jahren
+  - 1\. Einzelperson — CHF 300
+  - 2\. Ehepaare, eingetragene Paare, Familien, Einzelperson mit Kind/ern — CHF 350
+- b) bei ausländischen Bürgerrechtsbewerbenden unter 25 Jahren — CHF 250
 - c) bei Schweizer Bürgerrechtsbewerbenden — CHF 100
 
 ## IV. Übergangs- und Schlussbestimmungen
@@ -136,6 +137,12 @@ beschliesst:
 **Übergangsbestimmung zur Änderung vom 12. November 2019**
 
 <sup>1</sup> Die Gebühren für die ordentliche Einbürgerung gemäss § 1 gelten für alle Gesuche, die ab dem 1. Januar 2020 bei der Bürgergemeinde eingehen.
+
+#### § 10
+
+**Übergangsbestimmung zur Änderung vom 31. Oktober 2023**
+
+<sup>1</sup> Die Gebühren gelten für alle Gesuche und Anmeldungen zum fide-Test, die ab dem 1. Januar 2024 bei der Bürgergemeinde eingehen.
 
 Schlussbestimmung
 
