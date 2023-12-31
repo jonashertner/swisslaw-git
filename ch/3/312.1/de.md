@@ -4,11 +4,11 @@ title: "Schweizerische Jugendstrafprozessordnung vom 20. März 2009 (Jugendstraf
 short: JStPO
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/226"
 language: de
-version: 2015-01-01
+version: 2024-01-01
 adopted: 2009-03-20
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/226/20150101/de/xml/fedlex-data-admin-ch-eli-cc-2010-226-20150101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/226/20150101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/226/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2010-226-20240101-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/226/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/226/20150101/de"
 
 (Jugendstrafprozessordnung, JStPO)
 
-vom 20. März 2009 (Stand am 1. Januar 2015)
+vom 20. März 2009 (Stand am 1. Januar 2024)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -154,23 +154,24 @@ Gerichtliche Befugnisse im Jugendstrafverfahren haben:
 
 **Ablehnung**
 
-- [tab] <sup>1</sup> Die oder der urteilsfähige beschuldigte Jugendliche und die gesetzliche Vertretung können innert zehn Tagen seit Eröffnung des Strafbefehls (Art. 32) beziehungsweise Zustellung der Anklageschrift (Art. 33) verlangen, dass die Jugendrichterin oder der Jugendrichter, die oder der bereits die Untersuchung geführt hat, im Hauptverfahren nicht mitwirkt. Die Ablehnung bedarf keiner Begründung.
-- [tab] <sup>2</sup> Die oder der urteilsfähige beschuldigte Jugendliche und die gesetzliche Vertretung werden im Strafbefehl oder in der Anklageschrift auf dieses Ablehnungsrecht aufmerksam gemacht.
+<sup>1</sup> Die oder der urteilsfähige beschuldigte Jugendliche und die gesetzliche Vertretung können innert zehn Tagen seit Eröffnung des Strafbefehls (Art. 32) beziehungsweise Zustellung der Anklageschrift (Art. 33) verlangen, dass die Jugendrichterin oder der Jugendrichter, die oder der bereits die Untersuchung geführt hat, im Hauptverfahren nicht mitwirkt. Die Ablehnung bedarf keiner Begründung.
+
+<sup>2</sup> Die oder der urteilsfähige beschuldigte Jugendliche und die gesetzliche Vertretung werden im Strafbefehl oder in der Anklageschrift auf dieses Ablehnungsrecht aufmerksam gemacht.
 
 #### Art. 10
 
 **Gerichtsstand**
 
-<sup>1</sup> Für die Strafverfolgung ist die Behörde des Ortes zuständig, an dem die oder der beschuldigte Jugendliche bei Eröffnung des Verfahrens den gewöhnlichen Aufenthalt hat.
+<sup>1</sup> Für die Strafverfolgung ist die Behörde des Ortes zuständig, an dem die oder der beschuldigte Jugendliche bei Eröffnung des Verfahrens den gewöhnlichen Aufenthalt hat. Für die Strafverfolgung im Bereich des Ordnungsbussenverfahrens ist die Behörde des Ortes zuständig, an dem die Straftat begangen worden ist.[^10-1]
 
 <sup>2</sup>
 
 Fehlt ein gewöhnlicher Aufenthalt in der Schweiz, so ist folgende Behörde zuständig:
 
-- a. bei Taten im Inland die Behörde am Ort der Begehung;
+- a.[^10-2] bei Taten im Inland die Behörde des Ortes, an dem die Straftat begangen worden ist;
 - b. bei Taten im Ausland die Behörde des Heimatortes oder, für die ausländische Jugendliche oder den ausländischen Jugendlichen, die Behörde des Ortes, wo sie oder er wegen der Tat erstmals angehalten wurde.
 
-<sup>3</sup> Übertretungen werden am Ort ihrer Begehung verfolgt. Ergeben sich Anhaltspunkte dafür, dass Schutzmassnahmen angeordnet oder geändert werden müssen, so ist die Strafverfolgung der Behörde jenes Ortes zu übertragen, an dem die oder der Jugendliche den gewöhnlichen Aufenthalt hat.
+<sup>3</sup> Die Behörde des Ortes, an dem die Straftat begangen worden ist, nimmt die dringend notwendigen Ermittlungshandlungen vor.[^10-3]
 
 <sup>4</sup>
 
@@ -178,7 +179,7 @@ Die zuständige schweizerische Behörde kann auf Ersuchen der ausländischen Beh
 
 - a. die oder der Jugendliche den gewöhnlichen Aufenthalt in der Schweiz hat oder das Schweizer Bürgerrecht besitzt;
 - b. die oder der Jugendliche im Ausland eine auch nach schweizerischem Recht strafbare Tat begangen hat; und
-- c. die Voraussetzungen für die Strafverfolgung nach den Artikeln 4–7 des Strafgesetzbuches[^10-1] (StGB) nicht erfüllt sind.
+- c. die Voraussetzungen für die Strafverfolgung nach den Artikeln 4–7 des Strafgesetzbuches[^10-4] (StGB) nicht erfüllt sind.
 
 <sup>5</sup> Die zuständige Behörde wendet bei der Strafverfolgung nach Absatz 4 sowie nach den Artikeln 4–7 StGB ausschliesslich schweizerisches Recht an.
 
@@ -186,7 +187,10 @@ Die zuständige schweizerische Behörde kann auf Ersuchen der ausländischen Beh
 
 <sup>7</sup> Kompetenzkonflikte zwischen den Kantonen entscheidet das Bundesstrafgericht.
 
-[^10-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^10-1]: Zweiter Satz eingefügt durch Anhang 1 Ziff. 6 des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^10-2]: Fassung gemäss Anhang 1 Ziff. 6 des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^10-3]: Fassung gemäss Anhang 1 Ziff. 6 des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^10-4]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
 #### Art. 11
 
@@ -457,13 +461,17 @@ Der Strafbefehl wird eröffnet:
 Gegen den Strafbefehl können bei der Untersuchungsbehörde innert 10 Tagen schriftlich Einsprache erheben:
 
 - a. die oder der urteilsfähige beschuldigte Jugendliche und die gesetzliche Vertretung;
-- b. die Privatklägerschaft hinsichtlich des Zivilpunktes sowie hinsichtlich der Kosten- und Entschädigungsfolge;
+- b.[^32-1] die Privatklägerschaft;
 - c. weitere Verfahrensbeteiligte, soweit sie in ihren Interessen betroffen sind;
 - d. die Jugendstaatsanwaltschaft, sofern das kantonale Recht dies vorsieht.
 
-<sup>6</sup> Im Übrigen richtet sich das Verfahren nach den Artikeln 352–356 StPO[^32-1].
+<sup>5bis</sup> Die Privatklägerschaft kann einen Strafbefehl hinsichtlich der ausgesprochenen Sanktion nicht anfechten.[^32-2]
 
-[^32-1]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+<sup>6</sup> Im Übrigen richtet sich das Verfahren nach den Artikeln 352–356 StPO[^32-3].
+
+[^32-1]: Fassung gemäss Anhang 1 Ziff. 6 des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^32-2]: Eingefügt durch Anhang 1 Ziff. 6 des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^32-3]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
 
 ### 3. Abschnitt: Anklageerhebung
 
@@ -584,8 +592,12 @@ Zum Ergreifen von Rechtsmitteln sind legitimiert:
 
 **Beschwerde**
 
-- [tab] <sup>1</sup> Die Zulässigkeit der Beschwerde und die Beschwerdegründe richten sich nach Artikel 393 StPO[^39-1].
-- [tab] <sup>2</sup> Die Beschwerde ist überdies zulässig gegen:
+<sup>1</sup> Die Zulässigkeit der Beschwerde und die Beschwerdegründe richten sich nach Artikel 393 StPO[^39-1].
+
+<sup>2</sup>
+
+Die Beschwerde ist überdies zulässig gegen:
+
 - a. die vorsorgliche Anordnung von Schutzmassnahmen;
 - b. die Anordnung der Beobachtung;
 - c. den Entscheid über die Einschränkung der Akteneinsicht;

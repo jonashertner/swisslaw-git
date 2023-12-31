@@ -4,11 +4,11 @@ title: "Legge federale del 20 marzo 2009 di diritto processuale penale minorile 
 short: PPMin
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/226"
 language: it
-version: 2015-01-01
+version: 2024-01-01
 adopted: 2009-03-20
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/226/20150101/it/xml/fedlex-data-admin-ch-eli-cc-2010-226-20150101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/226/20150101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/226/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2010-226-20240101-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/226/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/226/20150101/it"
 
 (Procedura penale minorile, PPMin)
 
-del 20 marzo 2009 (Stato 1° gennaio 2015)
+del 20 marzo 2009 (Stato 1° gennaio 2024)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -162,16 +162,16 @@ Fungono da autorità giudicanti nel procedimento penale minorile:
 
 **Foro**
 
-<sup>1</sup> Per il perseguimento penale è competente l’autorità del luogo in cui il minore imputato dimora abitualmente al momento dell’apertura del procedimento.
+<sup>1</sup> Per il perseguimento penale è competente l’autorità del luogo in cui il minore imputato dimora abitualmente al momento dell’apertura del procedimento. Per il perseguimento penale nella procedura in materia di multe disciplinari è competente l’autorità del luogo in cui è stato commesso il reato.[^10-1]
 
 <sup>2</sup>
 
 Se il minore imputato non dimora abitualmente in Svizzera, è competente:
 
-- a. per i fatti commessi in Svizzera, l’autorità del luogo in cui il fatto è stato commesso;
+- a.[^10-2] per i fatti commessi in Svizzera, l’autorità del luogo in cui è stato commesso il reato;
 - b. per i fatti commessi all’estero, l’autorità del luogo d’origine oppure, se si tratta di un minore straniero, l’autorità del luogo in cui egli è stato fermato per la prima volta a causa del fatto contestatogli.
 
-<sup>3</sup> Le contravvenzioni sono perseguite nel luogo in cui sono state commesse. Qualora, sulla scorta di determinati elementi, si riveli necessario ordinare o modificare misure protettive, il perseguimento penale dev’essere rimesso all’autorità del luogo in cui il minore dimora abitualmente.
+<sup>3</sup> L’autorità del luogo in cui è stato commesso il reato compie gli atti d’indagine urgentemente necessari.[^10-3]
 
 <sup>4</sup>
 
@@ -179,7 +179,7 @@ L’autorità svizzera competente può assumersi il perseguimento penale su rich
 
 - a. il minore dimora abitualmente in Svizzera o è cittadino svizzero;
 - b. il minore ha commesso all’estero un fatto punibile anche secondo il diritto svizzero; e
-- c. i presupposti per il perseguimento penale secondo gli articoli 4–7 del Codice penale[^10-1] (CP) non sono adempiuti.
+- c. i presupposti per il perseguimento penale secondo gli articoli 4–7 del Codice penale[^10-4] (CP) non sono adempiuti.
 
 <sup>5</sup> Per il perseguimento penale conformemente al capoverso 4, nonché secondo gli articoli 4–7 CP, l’autorità competente applica esclusivamente il diritto svizzero.
 
@@ -187,7 +187,10 @@ L’autorità svizzera competente può assumersi il perseguimento penale su rich
 
 <sup>7</sup> I conflitti di competenza tra Cantoni sono decisi dal Tribunale penale federale.
 
-[^10-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^10-1]: Secondo per. introdotto dall’all. 1 n. 6 della LF del 17 giu. 2022, in vigore dal 1° gen. 2024 ([RU 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 5523](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^10-2]: Nuovo testo giusta l’all. 1 n. 6 della LF del 17 giu. 2022, in vigore dal 1° gen. 2024 ([RU 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 5523](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^10-3]: Nuovo testo giusta l’all. 1 n. 6 della LF del 17 giu. 2022, in vigore dal 1° gen. 2024 ([RU 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 5523](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^10-4]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
 #### Art. 11
 
@@ -374,7 +377,7 @@ L’autorità inquirente è competente per ordinare:
 <sup>3</sup> L’autorità giudicante presso la quale la causa è pendente è competente per ordinare i provvedimenti coercitivi previsti dalla legge.
 
 [^26-1]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^26-2]: Nuovo testo giusta il n. 2 dell’all. alla LF del 13 dic. 2013 sullʼinterdizione di esercitare unʼattività e sul divieto di avere contatti e di accedere ad aree determinate, in vigore dal 1° gen. 2015 ([RU 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355); [FF 2012 7765](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
+[^26-2]: Nuovo testo giusta l’all. n. 2 della LF del 13 dic. 2013 sullʼinterdizione di esercitare unʼattività e sul divieto di avere contatti e di accedere ad aree determinate, in vigore dal 1° gen. 2015 ([RU 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355); [FF 2012 7765](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
 [^26-3]: [RS 311.1](https://fedlex.data.admin.ch/eli/cc/2006/551)
 
 #### Art. 27
@@ -458,13 +461,17 @@ Il decreto d’accusa è notificato:
 Il decreto d’accusa può essere impugnato entro dieci giorni con opposizione scritta all’autorità inquirente da:
 
 - a. il minore imputato capace di discernimento e il suo rappresentante legale;
-- b. l’accusatore privato, per quanto concerne gli aspetti civili nonché le spese e indennità;
+- b.[^32-1] l’accusatore privato;
 - c. altri partecipanti al procedimento, se il decreto tocca i loro interessi;
 - d. il pubblico ministero minorile, se il diritto cantonale lo prevede.
 
-<sup>6</sup> Per il rimanente, la procedura è retta dagli articoli 352–356 CPP[^32-1].
+<sup>5bis</sup> L’accusatore privato non può impugnare un decreto d’accusa riguardo alla sanzione inflitta.[^32-2]
 
-[^32-1]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+<sup>6</sup> Per il rimanente, la procedura è retta dagli articoli 352–356 CPP[^32-3].
+
+[^32-1]: Nuovo testo giusta l’all. 1 n. 6 della LF del 17 giu. 2022, in vigore dal 1° gen. 2024 ([RU 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 5523](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^32-2]: Introdotto dall’all. 1 n. 6 della LF del 17 giu. 2022, in vigore dal 1° gen. 2024 ([RU 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 5523](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^32-3]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
 
 ### Sezione 3: Promozione dell’accusa
 
@@ -584,14 +591,19 @@ b. il suo rappresentante legale o, in sua assenza, l’autorità civile.
 
 **Reclamo**
 
-- [tab] <sup>1</sup> L’ammissibilità del reclamo e i motivi di reclamo sono retti dall’articolo 393 CPP[^39-1].
-- [tab] <sup>2</sup> Il reclamo può inoltre essere interposto contro:
+<sup>1</sup> L’ammissibilità del reclamo e i motivi di reclamo sono retti dall’articolo 393 CPP[^39-1].
+
+<sup>2</sup>
+
+Il reclamo può inoltre essere interposto contro:
+
 - a. la disposizione in via cautelare di misure protettive;
 - b. la disposizione di misure d’osservazione;
 - c. la decisione circa la limitazione dell’esame degli atti;
 - d. la disposizione della carcerazione preventiva e della carcerazione di sicurezza;
 - e. altre decisioni ordinatorie procedurali, purché comportino un pregiudizio irreparabile.
-- [tab] <sup>3</sup> La decisione sul reclamo spetta alla giurisdizione di reclamo; nel caso di reclami contro la disposizione della carcerazione preventiva e della carcerazione di sicurezza, la decisione spetta al giudice dei provvedimenti coercitivi.
+
+<sup>3</sup> La decisione sul reclamo spetta alla giurisdizione di reclamo; nel caso di reclami contro la disposizione della carcerazione preventiva e della carcerazione di sicurezza, la decisione spetta al giudice dei provvedimenti coercitivi.
 
 [^39-1]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
 
@@ -774,4 +786,4 @@ Le leggi federali qui appresso sono modificate come segue:
 
 ...[^annexu1-lvlu1-1]
 
-[^annexu1-lvlu1-1]: Le modifiche possono essere consultate alla [RU 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226).
+[^annexu1-lvlu1-1]: Le mod. possono essere consultate alla [RU 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226).

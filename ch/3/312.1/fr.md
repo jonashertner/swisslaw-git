@@ -4,11 +4,11 @@ title: "Loi fédérale du 20 mars 2009 sur la procédure pénale applicable aux 
 short: PPMin
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/226"
 language: fr
-version: 2015-01-01
+version: 2024-01-01
 adopted: 2009-03-20
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/226/20150101/fr/xml/fedlex-data-admin-ch-eli-cc-2010-226-20150101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/226/20150101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/226/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2010-226-20240101-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/226/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/226/20150101/fr"
 
 (Procédure pénale applicable aux mineurs, PPMin)
 
-du 20 mars 2009 (Etat le 1<sup>er</sup> janvier 2015)
+du 20 mars 2009 (État le 1<sup>er</sup> janvier 2024)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -162,16 +162,16 @@ Les autorités judiciaires suivantes ont des attributions judiciaires dans le ca
 
 **For**
 
-<sup>1</sup> La poursuite des infractions ressortit à l’autorité du lieu où le prévenu mineur a sa résidence habituelle lors de l’ouverture de la procédure.
+<sup>1</sup> La poursuite des infractions ressortit à l’autorité du lieu où le prévenu mineur a sa résidence habituelle lors de l’ouverture de la procédure. La procédure relative aux amendes d’ordre ressortit à l’autorité du lieu où l’infraction a été commise.[^10-1]
 
 <sup>2</sup>
 
 Si le prévenu mineur n’a pas de résidence habituelle en Suisse, est compétente:
 
-- a. lorsque l’infraction a été commise en Suisse, l’autorité du lieu de commission de l’acte;
+- a.[^10-2] lorsque l’infraction a été commise en Suisse, l’autorité du lieu où elle a été commise;
 - b. lorsque l’infraction a été commise à l’étranger, l’autorité du lieu d’origine du prévenu mineur ou, s’il est étranger, l’autorité du lieu où il a été appréhendé pour la première fois en raison de l’infraction.
 
-<sup>3</sup> Les contraventions sont poursuivies au lieu où elles ont été commises. Si des indices laissent supposer qu’il convient d’ordonner ou de modifier des mesures de protection, l’action pénale est déléguée à l’autorité du lieu où le prévenu mineur a sa résidence habituelle.
+<sup>3</sup> L’autorité du lieu où l’infraction a été commise effectue les actes d’instruction urgents.[^10-3]
 
 <sup>4</sup>
 
@@ -179,7 +179,7 @@ L’autorité suisse compétente peut se charger de la poursuite pénale sur req
 
 - a. le prévenu mineur a sa résidence habituelle en Suisse ou il est de nationalité suisse;
 - b. il a commis à l’étranger une infraction réprimée également par le droit suisse;
-- c. les conditions d’une poursuite en vertu des art. 4 à 7 du code pénal (CP)[^10-1] ne sont pas remplies.
+- c. les conditions d’une poursuite en vertu des art. 4 à 7 du code pénal (CP)[^10-4] ne sont pas remplies.
 
 <sup>5</sup> L’autorité compétente applique exclusivement le droit suisse si le prévenu mineur est poursuivi en vertu de l’al. 4 ou des art. 4 à 7 CP.
 
@@ -187,7 +187,10 @@ L’autorité suisse compétente peut se charger de la poursuite pénale sur req
 
 <sup>7</sup> Le Tribunal pénal fédéral tranche s’il y a conflit de compétence entre les cantons.
 
-[^10-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^10-1]: Phrase introduite par l’annexe 1 ch. 6 de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^10-2]: Nouvelle teneur selon l’annexe 1 ch. 6 de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^10-3]: Nouvelle teneur selon l’annexe 1 ch. 6 de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^10-4]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
 #### Art. 11
 
@@ -374,8 +377,8 @@ L’autorité d’instruction est compétente pour ordonner:
 <sup>3</sup> Lorsqu’une autorité judiciaire est saisie, elle est compétente pour ordonner les mesures de contrainte prévues par la loi.
 
 [^26-1]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^26-2]: Nouvelle teneur selon le ch. 2 de l’annexe à la LF du 13 déc. 2013 sur l’interdiction d’exercer une activité, l’interdiction de contact et l’interdiction géographique, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355); [FF 2012 8151](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
-[^26-3]: RS **311****.****1**
+[^26-2]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 13 déc. 2013 sur l’interdiction d’exercer une activité, l’interdiction de contact et l’interdiction géographique, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355); [FF 2012 8151](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
+[^26-3]: [RS 311.1](https://fedlex.data.admin.ch/eli/cc/2006/551)
 
 #### Art. 27
 
@@ -458,13 +461,17 @@ L’ordonnance pénale est notifiée:
 Peuvent faire opposition par écrit à l’ordonnance pénale, dans les dix jours:
 
 - a. le prévenu mineur capable de discernement et ses représentants légaux;
-- b. la partie plaignante, en ce qui concerne les aspects civils et les frais et indemnités;
+- b.[^32-1] la partie plaignante;
 - c. les autres participants à la procédure, s’ils sont touchés dans leurs intérêts;
 - d. le ministère public des mineurs, si le droit cantonal le prévoit.
 
-<sup>6</sup> Au surplus, la procédure est régie par les art. 352 à 356 CPP[^32-1].
+<sup>5bis</sup> La partie plaignante ne peut pas attaquer la sanction prononcée dans l’ordonnance pénale.[^32-2]
 
-[^32-1]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+<sup>6</sup> Au surplus, la procédure est régie par les art. 352 à 356 CPP[^32-3].
+
+[^32-1]: Nouvelle teneur selon l’annexe 1 ch. 6 de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^32-2]: Introduit par l’annexe 1 ch. 6 de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^32-3]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
 
 ### Section 3 Mise en accusation
 
@@ -597,7 +604,7 @@ De plus, le recours est recevable contre:
 - d. la détention provisoire et la détention pour des motifs de sûreté;
 - e. les autres prononcés rendus par la direction de la procédure, lorsqu’il en résulte un préjudice irréparable.
 
-<sup>3</sup> La compétence de statuer sur les recours appartient à l'autorité de recours; en cas de recours contre la détention provisoire ou la détention pour des motifs de sûreté, elle appartient au tribunal des mesures de contrainte.
+<sup>3</sup> La compétence de statuer sur les recours appartient à l’autorité de recours; en cas de recours contre la détention provisoire ou la détention pour des motifs de sûreté, elle appartient au tribunal des mesures de contrainte.
 
 [^39-1]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
 
@@ -707,7 +714,7 @@ Le canton dans lequel le jugement a été rendu supporte:
 
 <sup>1</sup> Les procédures pendantes et les mesures d’exécution en cours à l’entrée en vigueur de la présente loi se poursuivent devant les autorités compétentes selon le nouveau droit à moins que les dispositions qui suivent en disposent autrement.
 
-<sup>2</sup> Les conflits de compétences entre autorités d’un même canton sont tranchés par l'autorité cantonale de recours des mineurs; ceux qui opposent des autorités de cantons différents sont tranchés par le Tribunal pénal fédéral. Ce prononcé n’est pas attaquable séparément par la voie du recours.
+<sup>2</sup> Les conflits de compétences entre autorités d’un même canton sont tranchés par l’autorité cantonale de recours des mineurs; ceux qui opposent des autorités de cantons différents sont tranchés par le Tribunal pénal fédéral. Ce prononcé n’est pas attaquable séparément par la voie du recours.
 
 #### Art. 49
 
@@ -766,7 +773,7 @@ Lorsque l’ancien droit s’applique après l’entrée en vigueur de la prése
 
 <sup>2</sup> Le Conseil fédéral fixe la date de l’entrée en vigueur.
 
-Date de l'entrée en vigueur: 1<sup>er</sup> janvier 2011[^54-1]
+Date de l’entrée en vigueur: 1<sup>er</sup> janvier 2011[^54-1]
 
 [^54-1]: ACF du 31 mars 2010
 
@@ -778,6 +785,6 @@ Annexe
 
 Les lois fédérales mentionnées ci-après sont modifiées comme suit:
 
-...[^annexu1-lvlu1-1]
+…[^annexu1-lvlu1-1]
 
 [^annexu1-lvlu1-1]: Les mod. peuvent être consultées au [RO 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226)
