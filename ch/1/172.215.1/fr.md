@@ -4,11 +4,11 @@ title: "Ordonnance du 17 février 2010 sur l'organisation du Département fédé
 short: Org DFF
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/98"
 language: fr
-version: 2022-01-01
+version: 2024-01-01
 adopted: 2010-02-17
 in_force: 2010-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/98/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2010-98-20220101-fr-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/98/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/98/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2010-98-20240101-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/98/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/98/20220101/fr"
 
 (Org DFF)
 
-du 17 février 2010 (État le 1<sup>er</sup> janvier 2022)
+du 17 février 2010 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -117,11 +117,11 @@ Le DFF observe les principes généraux régissant l’activité administrative 
 
 ## Chapitre 2 Unités administratives de l’administration fédérale centrale
 
-### Section 1 Secrétariat général, délégué fédéral au plurilinguisme, délégué fédéral à la cybersécurité et chargé de mission Administration numérique suisse auprès de la Confédération et des cantons
+### Section 1 Secrétariat général, délégué fédéral au plurilinguisme, et chargé de mission Administration numérique suisse auprès de la Confédération et des cantons
 
 [^chap2-sec1-1]
 
-[^chap2-sec1-1]: Nouvelle teneur selon l’annexe ch. 3 de l’O du 25 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5893](https://fedlex.data.admin.ch/eli/oc/2020/989)).
+[^chap2-sec1-1]: Nouvelle teneur selon le ch. II 5 de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
 
 #### Art. 5
 
@@ -136,7 +136,7 @@ Le Secrétariat général (SG) assume les fonctions définies à l’art. 42 LOG
 - d<sup>bis</sup>.[^5-3] il décide s’il convient de reprendre les avoirs en déshérence proposés à la Confédération en vertu de l’art. 54, al. 2, de l’ordonnance du 30 avril 2014 sur les banques[^5-4];
 - e.[^5-5] il assure l’exécution des tâches visées à l’art. 3 ainsi que le conseil juridique général au niveau du département;
 - f. il fournit aux unités administratives du DFF des prestations de soutien dans le domaine de la traduction;
-- g.[^5-6] ...
+- g.[^5-6] …
 - h.[^5-7] il exécute les tâches incombant au DFF en lien avec la reconnaissance des organes de médiation visée aux art. 84 et 85 de la loi fédérale du 15 juin 2018 sur les services financiers[^5-8].
 
 [^5-1]: Nouvelle teneur selon le ch. II 2 de l’O du 27 août 2014, en vigueur depuis le 1<sup>er</sup> oct. 2014 ([RO 2014 2987](https://fedlex.data.admin.ch/eli/oc/2014/504)).
@@ -161,20 +161,15 @@ Le Secrétariat général (SG) assume les fonctions définies à l’art. 42 LOG
 
 #### Art. 6a
 
-**Délégué fédéral à la cybersécurité**[^6a-1]
+[^6a-1]
 
-<sup>1</sup> Le délégué fédéral à la cybersécurité dirige le Centre national pour la cybersécurité (NCSC). Le NCSC est rattaché administrativement au SG.[^6a-2]
-
-<sup>2</sup> Le délégué est directement soumis aux instructions du chef du département.
-
-[^6a-1]: Introduit par le ch. I de l’O du 18 fév. 2015 ([RO 2015 615](https://fedlex.data.admin.ch/eli/oc/2015/94)). Nouvelle teneur selon le ch. I de l’O du 27 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4103](https://fedlex.data.admin.ch/eli/oc/2019/718)).
-[^6a-2]: Nouvelle teneur selon l’annexe ch. 3 de l’O du 25 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5893](https://fedlex.data.admin.ch/eli/oc/2020/989)).
+[^6a-1]: Introduit par le ch. I de l’O du 18 fév. 2015 ([RO 2015 615](https://fedlex.data.admin.ch/eli/oc/2015/94)). Abrogé par le ch. II 5 de l’O du 22 nov. 2023, avec effet au 1<sup>er</sup> janv. 2024 ([RO 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
 
 #### Art. 6b
 
 **Chargé de mission Administration numérique suisse auprès de la Confédération et des cantons**[^6b-1]
 
-<sup>1</sup> Le chargé de mission Administration numérique suisse auprès de la Confédération et des cantons assure la direction opérationnelle de l’organisation « Cyberadministration suisse ». Cette organisation est rattachée administrativement au SG.
+<sup>1</sup> Le chargé de mission Administration numérique suisse auprès de la Confédération et des cantons assure la direction opérationnelle de l’organisation «Cyberadministration suisse». Cette organisation est rattachée administrativement au SG.
 
 <sup>2</sup> Le chargé de mission Administration numérique suisse auprès de la Confédération et des cantons met en œuvre la stratégie suisse de cyberadministration.
 
@@ -292,7 +287,7 @@ Les unités suivantes sont subordonnées à l’AFF:
 
 - b. la Monnaie fédérale (Swissmint).[^9-5]
 
-<sup>4</sup> ...[^9-6]
+<sup>4</sup> …[^9-6]
 
 [^9-1]: Nouvelle teneur selon l’annexe ch. 4 de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
 [^9-2]: Introduite par le ch. I de l’O du 1<sup>er</sup> juil. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 2241](https://fedlex.data.admin.ch/eli/oc/2015/416)).
@@ -314,7 +309,7 @@ L’Office fédéral du personnel (OFPER) poursuit les objectifs suivants:
 - a. il crée les bases permettant à la Confédération de mener une politique du personnel et une politique de prévoyance prospectives;
 - b. il assure l’utilisation efficace et économique des ressources financières et humaines;
 - c.[^10-1] il encourage au sein de l’administration fédérale l’égalité entre hommes et femmes;
-- d.[^10-2] ...
+- d.[^10-2] …
 - e.[^10-3] il assure une formation et un perfectionnement du personnel adaptés aux besoins et axés sur la pratique, à l’exception de la formation spécialisée.
 
 <sup>2</sup>
@@ -476,7 +471,7 @@ L’OFIT assume les tâches suivantes:
 
 **Dispositions particulières**
 
-<sup>1</sup> ...[^18-1]
+<sup>1</sup> …[^18-1]
 
 <sup>2</sup> L’OFIT facture ses services à ses clients et veille à garantir la transparence des coûts vis-à-vis du DFF.[^18-2]
 
@@ -545,7 +540,7 @@ L’OFCL assume les tâches particulières suivantes:
 [^20-1]: Nouvelle teneur selon le ch. I de l’O du 17 août 2011, en vigueur depuis le 1<sup>er</sup> sept. 2011 ([RO 2011 3787](https://fedlex.data.admin.ch/eli/oc/2011/535)).
 [^20-2]: [[RO 2001 100](https://fedlex.data.admin.ch/eli/oc/2001/18), [2006 4291](https://fedlex.data.admin.ch/eli/oc/2006/657)IV, **2010** 2631 annexe 4. [RO 2014 2887](https://fedlex.data.admin.ch/eli/oc/2014/496)art. 46]. Voir actuellement l’O du 9 déc. 2014 ([RS 933.01](https://fedlex.data.admin.ch/eli/cc/2014/496)).
 
-### Section 9 ...
+### Section 9 …
 
 #### Art. 20a
 
@@ -555,7 +550,7 @@ L’OFCL assume les tâches particulières suivantes:
 
 ## Chapitre 3 Unités de l’administration fédérale décentralisée
 
-### Section 1 ...
+### Section 1 …
 
 #### Art. 21 et 22
 
@@ -668,6 +663,6 @@ Annexe
 
 ## Modification du droit en vigueur
 
-...[^annexu1-lvlu1-1]
+…[^annexu1-lvlu1-1]
 
 [^annexu1-lvlu1-1]: Les mod. peuvent être consultées au [RO 2010 635](https://fedlex.data.admin.ch/eli/oc/2010/98).

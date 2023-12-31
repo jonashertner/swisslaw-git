@@ -4,11 +4,11 @@ title: Organisationsverordnung vom 17. Februar 2010 für das Eidgenössische Fin
 short: OV-EFD
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/98"
 language: de
-version: 2022-01-01
+version: 2024-01-01
 adopted: 2010-02-17
 in_force: 2010-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/98/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2010-98-20220101-de-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/98/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/98/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2010-98-20240101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/98/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/98/20220101/de"
 
 (OV-EFD)
 
-vom 17. Februar 2010 (Stand am 1. Januar 2022)
+vom 17. Februar 2010 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -117,11 +117,11 @@ Das EFD beachtet die allgemeinen Grundsätzen der Verwaltungstätigkeit (Art. 11
 
 ## 2. Kapitel: Verwaltungseinheiten der zentralen Bundesverwaltung
 
-### 1. Abschnitt: **Generalsekretariat, Delegierte oder Delegierter für Mehrsprachigkeit, Delegierte oder Delegierter für Cybersicherheit und Beauftragte oder Beauftragter des Bundes und der Kantone für die digitale Verwaltung** Schweiz
+### 1. Abschnitt: Generalsekretariat, Delegierte oder Delegierter für Mehrsprachigkeit, und Beauftragte oder Beauftragter des Bundes und der Kantone für die digitale Verwaltung Schweiz
 
 [^chap2-sec1-1]
 
-[^chap2-sec1-1]: Fassung gemäss Anhang Ziff. 3 der V vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5893](https://fedlex.data.admin.ch/eli/oc/2020/989)).
+[^chap2-sec1-1]: Fassung gemäss Ziff. II 5 der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
 
 #### Art. 5
 
@@ -161,14 +161,9 @@ Das Generalsekretariat (GS) übt die Funktionen nach Artikel 42 RVOG aus und nim
 
 #### Art. 6a
 
-**Delegierte oder Delegierter des Bundes für Cybersicherheit**[^6a-1]
+[^6a-1]
 
-<sup>1</sup> Die oder der Delegierte des Bundes für Cybersicherheit führt das Nationale Zentrum für Cybersicherheit (NCSC). Dieses ist administrativ dem Generalsekretariat zugeordnet.[^6a-2]
-
-<sup>2</sup> Die oder der Delegierte untersteht direkt dem Weisungsrecht des Departementsvorstehers oder der Departementsvorsteherin.
-
-[^6a-1]: Eingefügt durch Ziff. I der V vom 18. Febr. 2015 ([AS 2015 615](https://fedlex.data.admin.ch/eli/oc/2015/94)). Fassung gemäss Ziff. I der V vom 27. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4103](https://fedlex.data.admin.ch/eli/oc/2019/718)).
-[^6a-2]: Fassung gemäss Anhang Ziff. 3 der V vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5893](https://fedlex.data.admin.ch/eli/oc/2020/989)).
+[^6a-1]: Eingefügt durch Ziff. I der V vom 18. Feb. 2015 ([AS 2015 615](https://fedlex.data.admin.ch/eli/oc/2015/94)). Aufgehoben durch Ziff. II 5 der V vom 22. Nov. 2023, mit Wirkung seit 1. Jan. 2024 ([AS 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
 
 #### Art. 6b
 

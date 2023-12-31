@@ -4,11 +4,11 @@ title: "Ordinanza del 17 febbraio 2010 sull'organizzazione del Dipartimento fede
 short: Org-DFF
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/98"
 language: it
-version: 2022-01-01
+version: 2024-01-01
 adopted: 2010-02-17
 in_force: 2010-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/98/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2010-98-20220101-it-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/98/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/98/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2010-98-20240101-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/98/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/98/20220101/it"
 
 (Org-DFF)
 
-del 17 febbraio 2010 (Stato 1° gennaio 2022)
+del 17 febbraio 2010 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -117,11 +117,11 @@ Il DFF osserva i principi generali dell’attività amministrativa (art. 11 OLOG
 
 ## Capitolo 2: Unità amministrative dell’Amministrazione federale centrale
 
-### Sezione 1: Segreteria generale, delegato federale al plurilinguismo, delegato federale alla cibersicurezza e incaricato della Confederazione e dei Cantoni per l’amministrazione digitale Svizzera
+### Sezione 1: Segreteria generale, delegato federale al plurilinguismo e incaricato della Confederazione e dei Cantoni per l’amministrazione digitale Svizzera
 
 [^chap2-sec1-1]
 
-[^chap2-sec1-1]: Nuovo testo giusta l’all n. 3 dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5893](https://fedlex.data.admin.ch/eli/oc/2020/989)).
+[^chap2-sec1-1]: Nuovo testo giusta il n. II 5 dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
 
 #### Art. 5
 
@@ -161,14 +161,9 @@ La Segreteria generale (SG) esercita le funzioni secondo l’articolo 42 LOGA e 
 
 #### Art. 6a
 
-**Delegato federale alla cibersicurezza**[^6a-1]
+[^6a-1]
 
-<sup>1</sup> Il delegato federale alla cibersicurezza dirige il Centro nazionale per la cibersicurezza (NCSC). Il NCSC è aggregato a livello amministrativo alla SG.[^6a-2]
-
-<sup>2</sup> Il delegato è direttamente subordinato alle istruzioni del capo del Dipartimento.
-
-[^6a-1]: Introdotto dal n. I dell’O del 18 feb. 2015 ([RU 2015 615](https://fedlex.data.admin.ch/eli/oc/2015/94)). Nuovo testo giusta il n. I dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4103](https://fedlex.data.admin.ch/eli/oc/2019/718)).
-[^6a-2]: Nuovo testo giusta l’all n. 3 dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5893](https://fedlex.data.admin.ch/eli/oc/2020/989)).
+[^6a-1]: Introdotto dal n. I dell’O del 18 feb. 2015 ([RU 2015 615](https://fedlex.data.admin.ch/eli/oc/2015/94)). Abrogato dal n. II 5 dell’O del 22 nov. 2023, con effetto dal 1° gen. 2024 ([RU 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
 
 #### Art. 6b
 
