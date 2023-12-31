@@ -4,13 +4,13 @@ number: "154.21"
 title: Gesetz über das Arbeitsverhältnis des Staatspersonals
 short: Personalgesetz; PG
 language: de
-version: 2018-05-05
-valid_until: 2023-12-31
-version_adopted: 2018-02-22
+version: 2024-01-01
+valid_until: 2025-11-13
+version_adopted: 2024-02-29
 adopted: 1994-09-01
 in_force: 1995-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/154.21"
-pdf: "https://bgs.zg.ch/api/de/versions/1811/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2593/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,11 +19,11 @@ pdf: "https://bgs.zg.ch/api/de/versions/1811/pdf_file"
 
 (Personalgesetz; PG)
 
-Vom 1. September 1994 (Stand 5. Mai 2018)
+Vom 1. September 1994 (Stand 1. Januar 2024)
 
 Der Kantonsrat des Kantons Zug,
 
-gestützt auf § 41 Abs. 1 Bst. b der Kantonsverfassung[^ingress-1],
+gestützt auf § 41 Abs. 1 Bst. b der Verfassung des Kantons Zug (Kantonsverfassung, KV) vom 31. Januar 1894[^ingress-1],
 
 beschliesst:
 
@@ -136,7 +136,7 @@ beschliesst:
 
 <sup>2</sup> Die Arbeitsverträge von Mitarbeiterinnen und Mitarbeitern, deren Anstellung nach den Vorschriften der Kantonsverfassung der Bestätigung durch den Kantonsrat bedarf, werden mit entsprechendem Vorbehalt abgeschlossen.
 
-<sup>3</sup> Der Arbeitsvertrag kann in besonderen Fällen, namentlich bei Ausbildungs- und Praktikumsverhältnissen sowie Aushilfen oder Hilfskräften, hinsichtlich Beendigung des Arbeitsverhältnisses, Arbeitszeit, Besoldung und Ferien von diesem Gesetz abweichen.
+<sup>3</sup> Der Arbeitsvertrag kann in besonderen Fällen, namentlich bei Ausbildungs- und Praktikumsverhältnissen sowie Aushilfen oder Hilfskräften, hinsichtlich Arbeitszeit, Entlöhnung, Ferien und Beendigung des Arbeitsverhältnisses von diesem Gesetz abweichen.
 
 #### § 5
 
@@ -183,7 +183,7 @@ beschliesst:
 
 #### § 9
 
-**Kündigung seitens der Mitarbeiterin/des Mitarbeiters**
+**Kündigung seitens der Mitarbeiterin oder des Mitarbeiters**
 
 <sup>1</sup> Während der Probezeit kann das Arbeitsverhältnis jederzeit gekündigt werden, und zwar unter Einhaltung der folgenden Kündigungsfristen:
 
@@ -196,9 +196,11 @@ beschliesst:
 - b) 4 Monate ab dem 7. Dienstjahr
 - c) 6 Monate ab dem 15. Dienstjahr.
 
-<sup>3</sup> Die Lehrkräfte der kantonalen Schulen können das Arbeitsverhältnis unter Einhaltung einer Kündigungsfrist von sechs Monaten jeweils nur auf Ende eines Schulhalbjahres kündigen. Beim Vorliegen besonderer Umstände können im Arbeitsvertrag andere Kündigungstermine oder Kündigungsfristen vorgesehen werden.
+<sup>3</sup> Die Lehrpersonen der kantonalen Schulen können das Arbeitsverhältnis unter Einhaltung einer Kündigungsfrist von 6 Monaten jeweils auf Ende eines Schulhalbjahres kündigen. Beim Vorliegen besonderer Umstände können im Arbeitsvertrag andere Kündigungstermine oder Kündigungsfristen vorgesehen werden.
 
-<sup>4</sup> Die Leiterinnen und Leiter der Ämter und Abteilungen gemäss Gesetz über die Organisation der Staatsverwaltung können das Arbeitsverhältnis unter Einhaltung einer Kündigungsfrist von sechs Monaten kündigen. Dieser Kündigungsregelung können weitere Mitarbeiterinnen und Mitarbeiter in besonderen Funktionen unterstellt werden.
+<sup>4</sup> Die Leiterinnen und Leiter der Ämter gemäss Gesetz über die Organisation der Staatsverwaltung[^9-1] können das Arbeitsverhältnis unter Einhaltung einer Kündigungsfrist von 6 Monaten kündigen. Dieser Kündigungsregelung können weitere Mitarbeiterinnen und Mitarbeiter in besonderen Funktionen unterstellt werden.
+
+[^9-1]: BGS 153.1
 
 #### § 10
 
@@ -206,13 +208,13 @@ beschliesst:
 
 <sup>1</sup> Der Kanton kann das Arbeitsverhältnis unter Einhaltung der für die Mitarbeiterinnen und Mitarbeiter geltenden Kündigungsfristen und Kündigungstermine kündigen.
 
-<sup>2</sup> Den Lehrkräften der kantonalen Schulen kann nur auf Ende des Schuljahres gekündigt werden. Beim Vorliegen besonderer Umstände können im Arbeitsvertrag andere Kündigungstermine und Kündigungsfristen vorgesehen werden.
+<sup>2</sup> …
 
 <sup>3</sup> Vor der Kündigung ist den Mitarbeiterinnen und Mitarbeitern das rechtliche Gehör zu gewähren. Die Kündigung ist zu begründen.
 
-<sup>4</sup> Bevor eine Kündigung ausgesprochen wird, ist die Angemessenheit weniger weitreichender Massnahmen zu erwägen wie förmliche Erteilung eines Verweises, Gehaltskürzung, Aufschub oder Verweigerung der Treue- und Erfahrungszulage, Zuweisung anderer Arbeit, Versetzung an eine andere Stelle (Funktionsänderung) oder Androhung der Entlassung.
+<sup>4</sup> Bevor eine Kündigung ausgesprochen wird, ist die Angemessenheit weniger weitreichender Massnahmen zu erwägen wie förmliche Erteilung eines Verweises, Lohnkürzung, Zuweisung anderer Arbeit, Versetzung an eine andere Stelle (Funktionsänderung) oder Androhung der Entlassung.
 
-<sup>5</sup> Die förmliche Erteilung eines Verweises sowie die Zuweisung anderer Arbeit fallen in die Zuständigkeit der Leiterinnen oder Leiter der Ämter und Abteilungen; für die Androhung der Entlassung sind die Direktionen zuständig.
+<sup>5</sup> …
 
 #### § 10bis
 
@@ -230,10 +232,14 @@ beschliesst:
 
 <sup>1</sup> Die Kündigung seitens des Kantons ist unter Vorbehalt einer gerechtfertigten fristlosen Entlassung aus wichtigen Gründen nichtig, wenn sie nach Ablauf der Probezeit während folgender Sperrfristen ausgesprochen wird:
 
-- a) während sowie 4 Wochen vor und nach einer mindestens 7 Tage dauernden obligatorischen Dienstleistung (z.B. Militär-, Feuerwehr- und Zivilschutzdienst, Zivildienst, militärischer Frauendienst, Rotkreuzdienst, Beförderungsdienste);
+- a) während sowie 4 Wochen vor und nach einer mindestens 7 Tage dauernden obligatorischen Dienstleistung (z. B. Militär-, Feuerwehr- und Zivilschutzdienst, Zivildienst, Rotkreuzdienst, Beförderungsdienste);
 - b) während einer mit Zustimmung des Kantons ausgeübten freiwilligen gemeinnützigen Dienstleistung;
 - c) während 30 Tagen im 1. Dienstjahr, während 90 Tagen im 2. bis 5. Dienstjahr und während 180 Tagen ab dem 6. Dienstjahr im Falle unverschuldeter ganzer oder teilweiser Arbeitsunfähigkeit wegen Krankheit oder Unfall;
-- d) während der Schwangerschaft einer Mitarbeiterin und in den 16 Wochen nach der Niederkunft.
+- d) während der Schwangerschaft einer Mitarbeiterin und in den 16 Wochen nach der Niederkunft;
+- e) während des infolge Hospitalisierung des Neugeborenen verlängerten Anspruchs auf Mutterschaftsentschädigung;
+- f) während des Anspruchs auf Betreuungsurlaub nach § 24b Arbeitszeitverordnung[^11-1], längstens aber während 6 Monaten ab dem Tag, an dem die Rahmenfrist zu laufen beginnt.
+
+[^11-1]: BGS 154.214
 
 #### § 12
 
@@ -260,7 +266,7 @@ beschliesst:
 
 <sup>1</sup> Eine missbräuchliche Kündigung begründet Anspruch auf Entschädigung.
 
-<sup>2</sup> Die Entschädigung beträgt vom 1. bis 3. Dienstjahr drei Monatsgehälter, für jedes weitere Dienstjahr ein zusätzliches Monatsgehalt, höchstens jedoch neun Monatsgehälter. Ein angefangenes zählt dabei als volles Dienstjahr. Bemessungsgrundlage ist das im Zeitpunkt der Kündigung massgebende Jahresgehalt einschliesslich Teuerungszulage, Sozialzulagen sowie Treue- und Erfahrungszulage.
+<sup>2</sup> Die Entschädigung wird unter Würdigung der Dauer des Arbeitsverhältnisses, der Schwere der Verfehlung des Kantons bzw. der kündigenden Stelle, des Anlasses der Kündigung, eines allfälligen Mitverschuldens der Mitarbeiterin oder des Mitarbeiters und des Vorgehens bei der Kündigung festgesetzt, darf aber den Betrag nicht übersteigen, der dem Lohn der Mitarbeiterin oder des Mitarbeiters für 9 Monate entspricht. Bemessungsgrundlage ist der im Zeitpunkt der Kündigung massgebende Jahreslohn einschliesslich Teuerungszulage sowie Sozialzulagen.
 
 <sup>3</sup> Ein Anspruch auf Fortführung des Arbeitsverhältnisses kann aus einer missbräuchlichen Kündigung nicht abgeleitet werden. Beschwerden wegen missbräuchlicher Kündigung haben keine aufschiebende Wirkung.
 
@@ -294,17 +300,17 @@ beschliesst:
 
 <sup>3</sup> Der Anspruch auf Schadenersatz besteht unabhängig von einem allfälligen Anspruch auf Entschädigung wegen missbräuchlicher Kündigung.
 
-<sup>4</sup> Ein Anspruch auf Fortführung des Arbeitsverhältnisses kann aus einer ungerechtfertigten fristlosen Kündigung nicht abgeleitet werden. Beschwerden wegen ungerechtfertigter fristloser Entlassung haben keine aufschiebendeWirkung.
+<sup>4</sup> Ein Anspruch auf Fortführung des Arbeitsverhältnisses kann aus einer ungerechtfertigten fristlosen Kündigung nicht abgeleitet werden. Beschwerden wegen ungerechtfertigter fristloser Entlassung haben keine aufschiebende Wirkung.
 
 #### § 18
 
 **Ungerechtfertigtes Nichtantreten oder Verlassen der Arbeitsstelle**
 
-<sup>1</sup> Tritt die Mitarbeiterin/der Mitarbeiter ohne wichtigen Grund die Arbeitsstelle nicht an oder wird die Arbeitsstelle ohne wichtigen Grund fristlos verlassen, so hat der Kanton Anspruch auf eine Entschädigung, die einem Viertel des Gehalts für einen Monat entspricht, ferner auf Ersatz des weiteren Schadens.
+<sup>1</sup> Tritt die Mitarbeiterin oder der Mitarbeiter ohne wichtigen Grund die Arbeitsstelle nicht an oder wird die Arbeitsstelle ohne wichtigen Grund fristlos verlassen, so hat der Kanton Anspruch auf eine Entschädigung, die einem Viertel des Lohns für einen Monat entspricht, ferner auf Ersatz des weiteren Schadens.
 
-<sup>2</sup> Bemessungsgrundlage ist das Jahresgehalt einschliesslich Teuerungszulage, Sozialzulagen sowie Treue- und Erfahrungszulage.
+<sup>2</sup> Bemessungsgrundlage ist der Jahreslohn einschliesslich Teuerungszulage sowie Sozialzulagen.
 
-<sup>3</sup> Ist dem Kanton ein geringerer Schaden als ein Viertel des Monatsgehalts entstanden, so ist die Entschädigung entsprechend herabzusetzen.
+<sup>3</sup> Ist dem Kanton ein geringerer Schaden als ein Viertel des Monatslohns entstanden, so ist die Entschädigung entsprechend herabzusetzen.
 
 ### 3.5. Einvernehmliche Auflösung
 
@@ -320,9 +326,9 @@ beschliesst:
 
 **Zeitpunkt der Beendigung**
 
-<sup>1</sup> Das Arbeitsverhältnis endigt mit dem Ende des Monats, für Lehrerinnen und Lehrer mit dem Ende des Schulhalbjahres, in welchem das 65. Altersjahr erfüllt wird.
+<sup>1</sup> Das Arbeitsverhältnis endigt mit dem Ende des Monats, für Lehrpersonen mit dem Ende des Schulhalbjahres, in welchem das 65. Altersjahr erfüllt wird.
 
-<sup>2</sup> Im Einzelfall können Angestellte auf deren Wunsch hin längstens bis zur Erfüllung des 70. Altersjahrs weiter beschäftigt werden. Dies setzt das Einverständnis des Arbeitgebenden voraus.
+<sup>2</sup> Mitarbeiterinnen und Mitarbeiter können auf ihren Wunsch hin längstens bis zur Erfüllung des 70. Altersjahrs weiter beschäftigt werden. Dies setzt das Einverständnis des Arbeitgebenden voraus.
 
 ### 3.7. Vorzeitige Pensionierung
 
@@ -330,9 +336,9 @@ beschliesst:
 
 **Vorzeitiger Altersrücktritt**
 
-<sup>1</sup> Die Arbeitnehmenden können sich ab dem Beginn des auf die Vollendung des 58. Altersjahrs folgenden Monats vorzeitig altershalber pensionieren lassen.
+<sup>1</sup> Mitarbeiterinnen und Mitarbeiter können sich ab dem Beginn des auf die Vollendung des 58. Altersjahrs folgenden Monats vorzeitig altershalber pensionieren lassen.
 
-<sup>2</sup> Mitarbeitende, die sich vorzeitig pensionieren lassen, haben bis zum Erreichen der ordentlichen AHV-Altersgrenze oder bis zum Bezug einer IV-Rente gegenüber dem Kanton Anspruch auf eine Überbrückungsrente, sofern sie mindestens 10 Jahre ununterbrochen beim Kanton Zug tätig waren. Die Überbrückungsrente beträgt 90 Prozent der maximalen AHV-Altersrente. Der ausgerichtete Gesamtbetrag darf die Summe von drei Jahresüberbrückungsrenten nicht übersteigen; erfolgt die vorzeitige Pensionierung mehr als drei Jahre vor der AHV-Altersgrenze, wird dieser Maximalbetrag gleichmässig auf die Bezugsdauer aufgeteilt. Bei Teilzeitbeschäftigten reduziert sich die Überbrückungsrente anteilsmässig.
+<sup>2</sup> Mitarbeiterinnen und Mitarbeiter, die sich vorzeitig pensionieren lassen, haben bis zum Erreichen der ordentlichen AHV-Altersgrenze oder bis zum Bezug einer IV-Rente gegenüber dem Kanton Anspruch auf eine Überbrückungsrente, sofern sie mindestens 10 Jahre ununterbrochen beim Kanton Zug tätig waren. Die Überbrückungsrente beträgt 90 Prozent der maximalen AHV-Altersrente. Der ausgerichtete Gesamtbetrag darf die Summe von 3 Jahresüberbrückungsrenten nicht übersteigen; erfolgt die vorzeitige Pensionierung mehr als 3 Jahre vor der AHV-Altersgrenze, wird dieser Maximalbetrag gleichmässig auf die Bezugsdauer aufgeteilt. Bei Teilzeitbeschäftigten reduziert sich die Überbrückungsrente anteilsmässig.
 
 <sup>3</sup> Die Überbrückungsrente wird nach Massgabe des durchschnittlichen Beschäftigungsumfangs während der gesamten Anstellungsdauer beim Kanton Zug berechnet.
 
@@ -340,11 +346,11 @@ beschliesst:
 
 **Versetzung in den Ruhestand**
 
-<sup>1</sup> Sofern sachliche Gründe es erfordern, kann eine Mitarbeiterin/ein Mitarbeiter ausnahmsweise vor dem Erreichen der Altersgrenze unter Einhaltung der Kündigungsfrist und des Kündigungstermins in den Ruhestand versetzt werden. Es besteht Anspruch auf das rechtliche Gehör und auf Begründung der Verfügung.
+<sup>1</sup> Sofern sachliche Gründe es erfordern, kann eine Mitarbeiterin oder ein Mitarbeiter ausnahmsweise vor dem Erreichen der Altersgrenze unter Einhaltung der Kündigungsfrist und des Kündigungstermins in den Ruhestand versetzt werden. Es besteht Anspruch auf das rechtliche Gehör und auf Begründung der Verfügung.
 
 <sup>2</sup> Die dadurch entstehende Schmälerung der Vorsorgeleistungen kann durch Einlagen des Kantons in die Pensionskasse ganz oder teilweise ausgeglichen werden.
 
-<sup>3</sup> Die Versetzung in den Ruhestand ist missbräuchlich, wenn Verfahrensvorschriften verletzt werden oder wenn sie sich nicht auf sachliche Gründe stützen lässt. Sie begründet den gleichen Entschädigungsanspruch wie die missbräuchliche Kündigung.
+<sup>3</sup> Die Versetzung in den Ruhestand ist missbräuchlich, wenn Verfahrensvorschriften verletzt werden oder wenn sie sich nicht auf sachliche Gründe stützen lässt. Sie begründet einen Entschädigungsanspruch, der analog zur Entschädigung bei missbräuchlicher Kündigung (§ 14 Abs. 2) festzusetzen ist.
 
 ### 3.8. Dauernde volle Arbeitsunfähigkeit
 
@@ -354,13 +360,13 @@ beschliesst:
 
 <sup>1</sup> Das Arbeitsverhältnis endet mit dem Anspruch auf die volle Invalidenrente gemäss Pensionskassengesetz.
 
-### 3.9. Abgangsentschädigung und Entlassungsrente
+### 3.9. Abgangsentschädigung
 
 #### § 24
 
 **Abgangsentschädigung**
 
-<sup>1</sup> Wird das Arbeitsverhältnis seitens des Kantons gekündigt, ohne dass die Mitarbeiterin/derMitarbeiter durch schuldhaftes Verhalten zur Auflösung des Arbeitsverhältnisses begründeten Anlass gibt, ferner bei vorzeitiger Versetzung in den Ruhestand sowie bei Tod während des Arbeitsverhältnisses besteht Anspruch auf eine Abgangsentschädigung. Voraussetzung ist, ausser im Todesfall, dass die Mitarbeiterin/der Mitarbeiter im Zeitpunkt der Beendigung des Arbeitsverhältnisses das 45. Altersjahr überschritten und das Arbeitsverhältnis mindestens 10 Jahre ununterbrochen bestanden hat.
+<sup>1</sup> Wird das Arbeitsverhältnis seitens des Kantons gekündigt, ohne dass die Mitarbeiterin oder der Mitarbeiter durch schuldhaftes Verhalten zur Auflösung des Arbeitsverhältnisses begründeten Anlass gibt, ferner bei vorzeitiger Versetzung in den Ruhestand sowie bei Tod während des Arbeitsverhältnisses, besteht Anspruch auf eine Abgangsentschädigung. Voraussetzung ist, ausser im Todesfall, dass die Mitarbeiterin oder der Mitarbeiter im Zeitpunkt der Beendigung des Arbeitsverhältnisses das 45. Altersjahr überschritten und das Arbeitsverhältnis mindestens 10 Jahre ununterbrochen bestanden hat.
 
 <sup>2</sup> Der Anspruch besteht unabhängig von anderen Leistungen aus dem Arbeitsverhältnis.
 
@@ -368,9 +374,9 @@ beschliesst:
 
 **Höhe und Auszahlung**
 
-<sup>1</sup> Die Abgangsentschädigung beträgt nach 10 Dienstjahren ein Monatsgehalt und erhöht sich mit jedem weiteren vollendeten Dienstjahr um ein Monatsgehalt bis auf 6 Monatsgehälter nach 15 oder mehr Dienstjahren. Bemessungsgrundlage ist das Jahresgehalt einschliesslich Teuerungszulage, Sozialzulagen sowie Treue- und Erfahrungszulage.
+<sup>1</sup> Die Abgangsentschädigung beträgt nach 10 Dienstjahren einen Monatslohn und erhöht sich mit jedem weiteren vollendeten Dienstjahr um einen Monatslohn bis auf 6 Monatslöhne nach 15 oder mehr Dienstjahren. Bemessungsgrundlage ist der Jahreslohn einschliesslich Teuerungszulage sowie Sozialzulagen.
 
-<sup>2</sup> Im Todesfall beträgt die Abgangsentschädigung bis zum erfüllten 12. Dienstjahr 3 Monatsgehälter und erhöht sich mit jedem weiteren vollendeten Dienstjahr um ein Monatsgehalt bis auf 6 Monatsgehälter nach 15 oder mehr Dienstjahren. Die Abgangsentschädigung ist dem Ehegatten, der eingetragenen Partnerin oder dem eingetragenen Partner, den minderjährigen oder noch in Ausbildung befindlichen Kindern oder weiteren Personen, denen gegenüber eine gesetzliche Unterstützungspflicht bestand, in der genannten Reihenfolge auszurichten.
+<sup>2</sup> Im Todesfall beträgt die Abgangsentschädigung bis zum erfüllten 12. Dienstjahr 3 Monatslöhne und erhöht sich mit jedem weiteren vollendeten Dienstjahr um einen Monatslohn bis auf 6 Monatslöhne nach 15 oder mehr Dienstjahren. Die Abgangsentschädigung ist dem Ehegatten, der eingetragenen Partnerin oder dem eingetragenen Partner, den minderjährigen oder noch in Ausbildung befindlichen Kindern oder weiteren Personen, denen gegenüber eine gesetzliche Unterstützungspflicht bestand, in der genannten Reihenfolge auszurichten.
 
 #### § 26
 
@@ -380,7 +386,7 @@ beschliesst:
 
 **Abgangsentschädigung an Richterinnen und Richter sowie an die Landschreiberin oder den Landschreiber**
 
-<sup>1</sup> Die vom Volk gewählten hauptamtlichen Richterinnen und Richter haben beim Ausscheiden aus dem Amt vor Vollendung des 65. Altersjahrs infolge unverschuldeter Nichtwiederwahl zulasten der Staatskasse Anspruch auf eine Abgangsentschädigung in Form einer teilweisen Gehaltsfortzahlung. Diese beträgt 6 Monatsgehälter. Bemessungsgrundlage ist das zuletzt bezogene Bruttogehalt einschliesslich Teuerungszulage, Sozialzulagen, Treue- und Erfahrungszulagen sowie die Präsidial- und Abteilungszulagen.
+<sup>1</sup> Die vom Volk gewählten hauptamtlichen Richterinnen und Richter haben beim Ausscheiden aus dem Amt vor Vollendung des 65. Altersjahrs infolge unverschuldeter Nichtwiederwahl Anspruch auf eine Abgangsentschädigung in Form einer teilweisen Lohnfortzahlung. Diese beträgt 6 Monatslöhne. Bemessungsgrundlage ist der zuletzt bezogene Bruttolohn einschliesslich Teuerungszulage, Sozialzulagen sowie Präsidial- und Abteilungszulagen.
 
 <sup>1a</sup> Die Abgangsentschädigung entfällt mit dem Bezug einer Pensionskassenrente.
 
@@ -453,7 +459,7 @@ beschliesst:
 
 <sup>2</sup> Soweit die einwandfreie Aufgabenerfüllung und der ordnungsgemässe Betriebsablauf nicht beeinträchtigt werden, können die Mitarbeiterinnen und Mitarbeiter die wöchentliche Normalarbeitszeit um eine Stunde verlängern. Zum Ausgleich besteht im betreffenden Jahr Anspruch auf eine arbeitsfreie Woche.
 
-<sup>3</sup> Mitarbeiterinnen und Mitarbeiter mit einem gesetzlichen Ferienanspruch von mehr als 4 Wochen, ausgenommen Jugendliche bis zum vollendeten 20. Altersjahr und Lehrlinge, können ferner die wöchentliche Normalarbeitszeit um eine Stunde verkürzen. Zum Ausgleich werden die Ferien um eine Woche gekürzt.
+<sup>3</sup> Mitarbeiterinnen und Mitarbeiter mit einem gesetzlichen Ferienanspruch von mindestens 25 Tagen, ausgenommen Jugendliche bis zum vollendeten 20. Altersjahr und Lehrlinge, können ferner die wöchentliche Normalarbeitszeit um eine Stunde verkürzen. Zum Ausgleich werden die Ferien um fünf Tage gekürzt.
 
 <sup>4</sup> Der Regierungsrat kann weitere Massnahmen zur Flexibilisierung der Arbeitszeitgestaltung treffen.
 
@@ -465,7 +471,7 @@ beschliesst:
 
 <sup>2</sup> Anspruch auf zeitliche Kompensation bzw., soweit eine solche nicht möglich ist, auf stundenweise Vergütung besteht nur, wenn die Überstundenarbeit zum Voraus angeordnet oder nachträglich genehmigt wird.
 
-<sup>3</sup> Mitarbeiterinnen und Mitarbeiter, die höher als in der 19. Gehaltsklasse eingereiht sind, haben, soweit die Überstundenarbeit nicht durch Freizeit kompensiert werden kann, keinen Anspruch auf Vergütung.
+<sup>3</sup> Mitarbeiterinnen und Mitarbeiter, deren Lohn betragsmässig dem Minimum der Lohnklasse 20 entspricht oder höher ist, haben, soweit die Überstundenarbeit nicht durch Freizeit kompensiert werden kann, keinen Anspruch auf Vergütung.
 
 #### § 32
 
@@ -475,7 +481,7 @@ beschliesst:
 
 <sup>2</sup> Vor einer Funktionsänderung ist der Mitarbeiterin/dem Mitarbeiter das rechtliche Gehör zu gewähren. Die Funktionsänderung ist zu begründen.
 
-<sup>3</sup> Eine mit der Zuweisung einer anderen Stelle oder Arbeit verbundene Besoldungsreduktion kann nur unter Einhaltung der Kündigungsfrist und des Kündigungstermins angeordnet werden.
+<sup>3</sup> Eine mit der Zuweisung einer anderen Stelle oder Arbeit verbundene Lohnreduktion kann nur unter Einhaltung der Kündigungsfrist und des Kündigungstermins angeordnet werden.
 
 #### § 33
 
@@ -505,31 +511,19 @@ beschliesst:
 
 #### § 37
 
-**Fort- und Weiterbildung**
+**Aus-, Fort- und Weiterbildung**
 
-<sup>1</sup> Die Mitarbeiterinnen und Mitarbeiter sind verpflichtet, die zur Erfüllung ihrer Aufgaben notwendigen Fähigkeiten nach bestem Können weiterzuentwickeln und auf neue Erkenntnisse und Methoden auszurichten. Sie können zur Teilnahme an Fort- und Weiterbildungskursen verpflichtet werden.
+<sup>1</sup> Die Mitarbeiterinnen und Mitarbeiter sind verpflichtet, sich die zur Erfüllung ihrer Aufgaben notwendigen Fähigkeiten anzueignen bzw. diese nach bestem Können weiterzuentwickeln und auf neue Erkenntnisse und Methoden auszurichten. Sie können zur Teilnahme an Aus-, Fort- und Weiterbildungsgängen verpflichtet werden.
+
+<sup>2</sup> Der Regierungsrat legt die Bedingungen für die Aus-, Fort- und Weiterbildung, die Voraussetzungen und den Umfang einer allfälligen Kostenbeteiligung durch den Kanton sowie der Rückzahlungsverpflichtung durch die Mitarbeiterinnen und Mitarbeiter in einer Verordnung fest.
 
 #### § 37bis
 
-**Ausbildungskosten**
-
-<sup>1</sup> Der Kanton kann die zur Ausübung einer bestimmten Funktion notwendigen Ausbildungskosten übernehmen.
+**…**
 
 #### § 37ter
 
-**Verpflichtungszeit, Rückzahlungsverpflichtung**
-
-<sup>1</sup> Bei einem von der oder dem Mitarbeitenden verursachten Abbruch der Ausbildung sowie bei Austritt aus dem Staatsdienst vor Beendigung derselben sind die während der Ausbildung bezahlten Ausbildungskosten und Ausbildungsspesen sowie die Lohn- und Sozialkosten dem Kanton voll zurückzuerstatten.
-
-<sup>2</sup> Bei unverschuldetem Abbruch der Ausbildung seitens der oder des Mitarbeitenden besteht keine Rückzahlungspflicht.
-
-<sup>3</sup> Bei Austritt aus dem Staatsdienst innerhalb von drei Jahren nach Beendigung der Ausbildung sind die während der Ausbildung vom Kanton übernommenen Ausbildungskosten und Ausbildungsspesen sowie die Lohn- und Sozialkosten anteilmässig zurückzuerstatten. Der Regierungsrat regelt die Höhe der Rückerstattungspflicht.
-
-- a) …
-- b) …
-- c) …
-
-<sup>4</sup> Der Regierungsrat kann auf die Rückerstattung ausnahmsweise ganz oder teilweise verzichten.
+**…**
 
 #### § 38
 
@@ -539,7 +533,7 @@ beschliesst:
 
 ## 5. Rechte der Mitarbeiterinnen und Mitarbeiter
 
-### 5.1. Besoldung im Allgemeinen
+### 5.1. Entlöhnung im Allgemeinen
 
 #### § 39
 
@@ -549,276 +543,82 @@ beschliesst:
 
 #### § 40
 
-**Zusammensetzung der Besoldung**
+**Zusammensetzung der Entlöhnung**
 
-<sup>1</sup> Die Besoldung setzt sich wie folgt zusammen:
+<sup>1</sup> Die Entlöhnung setzt sich wie folgt zusammen:
 
-- 1\. Jahresgehalt, bestehend aus:
-  - a) Grundgehalt (12⁄13 des Jahresgehaltes)
-  - b) 13. Monatsgehalt (1⁄13 des Jahresgehaltes)
+- 1\. Jahreslohn, bestehend aus:
+  - a) Grundlohn (12⁄13 des Jahreslohns)
+  - b) 13. Monatslohn (1⁄13 des Jahreslohns)
 - 2\. Teuerungszulage
 - 3, Familienzulage
 - 4\. Kinderzulage
-- 5\. Treue- und Erfahrungszulage.
+- 5\. …
 
-<sup>2</sup> Das Gehalt bildet in der Regel die Entschädigung für die gesamte im Dienste des Kantons geleistete Arbeit. Bei Teilzeitarbeit oder Beginn oder Ende des Arbeitsverhältnisses während des Jahres besteht der Besoldungsanspruch anteilsmässig nach Massgabe des Teilpensums bzw. der Beschäftigungsdauer. Dasselbe gilt auch für andere gesetzliche Vergütungen.
+<sup>2</sup> Der Lohn bildet in der Regel die Entschädigung für die gesamte im Dienste des Kantons geleistete Arbeit. Bei Teilzeitarbeit oder bei Beginn oder Ende des Arbeitsverhältnisses während des Jahres besteht der Lohnanspruch anteilsmässig nach Massgabe des Teilpensums bzw. der Beschäftigungsdauer. Dasselbe gilt auch für andere gesetzliche Vergütungen.
 
 #### § 41
 
 **Auszahlung**
 
-<sup>1</sup> Das Grundgehalt einschliesslich Teuerungszulage sowie die Familien- und Kinderzulage werden monatlich, das 13. Monatsgehalt im November und die Treue- und Erfahrungszulage im Juni und Dezember je zur Hälfte ausbezahlt.
+<sup>1</sup> Der Grundlohn einschliesslich Teuerungszulage sowie die Familien- und Kinderzulage werden monatlich, der 13. Monatslohn im November ausbezahlt.
 
 #### § 42
 
 **Anrechnung von Naturalien**
 
-<sup>1</sup> Von der Besoldung wird der Wert der Naturalbezüge (Wohnung, Verpflegung, Heizung usw.) in Abzug gebracht.
+<sup>1</sup> Vom Lohn wird der Wert der Naturalbezüge (Wohnung, Verpflegung, Heizung und dgl.) in Abzug gebracht.
 
 <sup>2</sup> Der Regierungsrat setzt den Wert der Naturalbezüge fest.
 
 #### § 43
 
-**Besoldungsanspruch der Lehrerinnen und Lehrer der kantonalen Schulen**
+**Lohnanspruch der Lehrpersonen der kantonalen Schulen**
 
-<sup>1</sup> Dauert das Arbeitsverhältnis von Anfang bis Ende des ordentlichen Schuljahres, so beginnt der Besoldungsanspruch am 1. August und endet am 31. Juli.
+<sup>1</sup> Dauert das Arbeitsverhältnis von Anfang bis Ende des ordentlichen Schuljahres, so beginnt der Lohnanspruch am 1. August und endet am 31. Juli.
 
-<sup>2</sup> Dauert das Arbeitsverhältnis von Anfang bis Ende eines Schulhalbjahres, so besteht Anspruch auf Besoldung vom 1. August bis 31. Januar bzw. 1. Februar bis 31. Juli.
+<sup>2</sup> Dauert das Arbeitsverhältnis von Anfang bis Ende eines Schulhalbjahres, so besteht Anspruch auf Lohn vom 1. August bis zum 31. Januar bzw. vom 1. Februar bis zum 31. Juli.
 
-<sup>3</sup> In allen anderen Fällen beginnt der Besoldungsanspruch mit der Aufnahme der Unterrichtstätigkeit und endet mit dem letzten Schultag vor der Beendigung, wobei Anspruch auf finanzielle Abgeltung entsprechend dem Anteil Ferientage besteht.
+<sup>3</sup> In allen anderen Fällen beginnt der Lohnanspruch mit der Aufnahme der Unterrichtstätigkeit und endet mit dem letzten Schultag vor der Beendigung, wobei Anspruch auf finanzielle Abgeltung entsprechend dem Anteil Ferientage besteht.
 
 <sup>4</sup> Für Schulen, deren Schuljahr bezüglich Beginn oder Dauer mit dem ordentlichen Schuljahr nicht übereinstimmt, bleiben abweichende Regelungen vorbehalten.
 
-### 5.2. Gehaltsanspruch
+### 5.2. Lohnanspruch
 
 #### § 44
 
-**Gehaltsklassen und Funktionsgruppen**
+**Lohnklassen mit Minimal- und Maximalwerten**
 
-<sup>1</sup> Für die einzelnen Funktionsgruppen bestehen folgende Gehaltsklassen (Jahresgehalt):
+<sup>1</sup> …
 
-- a) 4. Klasse: Franken 48 140 bis 63 749
-  - 1\. Büroangestellte/Büroangestellter
-  - 2\. Betriebsangestellte/Betriebsangestellter
-- b) 5. Klasse: Franken 51 349 bis 67 688
-  - 1\. Büroangestellte/Büroangestellter
-  - 2\. Betriebsangestellte/Betriebsangestellter
-- c) 6. Klasse: Franken 54 706 bis 71 773
-  - 1\. Betriebsangestellte/Betriebsangestellter
-  - 2\. Handwerkerin/Handwerker
-  - 3\. Technische Angestellte/Technischer Angestellter
-  - 4\. Verwaltungsangestellte/Verwaltungsangestellter
-- d) 7. Klasse: Franken 58 206 bis 76 003
-  - 1\. Betriebsangestellte/Betriebsangestellter
-  - 2\. Handwerkerin/Handwerker
-  - 3\. Vorarbeiterin/Vorarbeiter
-  - 4\. Technische Angestellte/Technischer Angestellter
-  - 5\. Verwaltungsangestellte/Verwaltungsangestellter
-- e) 8. Klasse: Franken 61 853 bis 80 380
-  - 1\. Handwerkerin/Handwerker
-  - 2\. Vorarbeiterin/Vorarbeiter
-  - 3\. Technische Angestellte/Technischer Angestellter
-  - 4\. Sekretärin/Sachbearbeiterin / Sekretär/Sachbearbeiter
-- f) 9. Klasse: Franken 65 499 bis 84 902
-  - 1\. Handwerkerin/Handwerker
-  - 2\. Vorarbeiterin/Vorarbeiter
-  - 3\. Technische Angestellte/Technischer Angestellter
-  - 4\. Gefängnisaufseherin/Gefängnisaufseher
-  - 5\. Sekretärin/Sachbearbeiterin / Sekretär/Sachbearbeiter
-  - 6\. Meisterin/Meister
-- g) 10. Klasse: Franken 69 438 bis 89 716
-  - 1\. Vorarbeiterin/Vorarbeiter
-  - 2\. Technische Angestellte/Technischer Angestellter
-  - 3\. Gefängnisaufseherin/Gefängnisaufseher
-  - 4\. Sekretärin/Sachbearbeiterin / Sekretär/Sachbearbeiter
-  - 5\. Meisterin/Meister
-  - 6\. Polizeisoldatin/Polizeisoldat
-- h) 11. Klasse: Franken 73 670 bis 94 676
-  - 1\. Gefängnisaufseherin/Gefängnisaufseher
-  - 2\. Sekretärin/Sachbearbeiterin / Sekretär/Sachbearbeiter
-  - 3\. Meisterin/Meister
-  - 4\. Polizeisoldatin/Polizeisoldat
-  - 5\. Polizeigefreite/Polizeigefreiter
-  - 6\. Technische Sachbearbeiterin/Technischer Sachbearbeiter
-  - 7\. Technikerin/Techniker
-  - 8\. Kontrollangestellte/Kontrollangestellter
-- i) 12. Klasse: Franken 78 191 bis 99 927
-  - 1\. Sekretärin/Sachbearbeiterin / Sekretär/Sachbearbeiter in besonderer Stellung
-  - 2\. Meisterin/Meister
-  - 3\. Meisterin/Meister in besonderer Stellung
-  - 4\. Polizeigefreite/Polizeigefreiter
-  - 5\. Polizeikorporalin/Polizeikorporal
-  - 6\. Technische Sachbearbeiterin/Technischer Sachbearbeiter
-  - 7\. Technikerin/Techniker
-  - 8\. Kontrollangestellte/Kontrollangestellter
-  - 9\. Einschätzungsexpertin/Einschätzungsexperte
-  - 10\. Sozialarbeiterin/Sozialarbeiter
-- j) 13. Klasse: Franken 83 005 bis 105 325
-  - 1\. Sekretärin/Sachbearbeiterin / Sekretär/Sachbearbeiter in besonderer Stellung
-  - 2\. Meisterin/Meister in besonderer Stellung
-  - 3\. Polizeikorporalin/Polizeikorporal
-  - 4\. Polizeiwachtmeisterin/Polizeiwachtmeister
-  - 5\. Technische Sachbearbeiterin/Technischer Sachbearbeiter
-  - 6\. Technikerin/Techniker
-  - 7\. Kontrollangestellte/Kontrollangestellter
-  - 8\. Einschätzungsexpertin/Einschätzungsexperte
-  - 9\. Dipl. Sozialarbeiterin/Dipl. Sozialarbeiter
-- k) 14. Klasse: Franken 88 111 bis 110 868
-  - 1\. Sekretärin/Sachbearbeiterin / Sekretär/Sachbearbeiter in besonderer Stellung
-  - 2\. Meisterin/Meister in besonderer Stellung
-  - 3\. Polizeiwachtmeisterin/Polizeiwachtmeister
-  - 4\. Polizeiwachtmeisterin/Polizeiwachtmeister mit besonderer Aufgabe
-  - 5\. Technische Sachbearbeiterin/Technischer Sachbearbeiter
-  - 6\. Technikerin/Techniker
-  - 7\. Kontrollangestellte/Kontrollangestellter
-  - 8\. Einschätzungsexpertin/Einschätzungsexperte
-  - 9\. Dipl. Sozialarbeiterin/Dipl. Sozialarbeiter
-  - 10\. Adjunktin/Adjunkt
-  - 11\. Abteilungsleiterin/Abteilungsleiter
-- l) 15. Klasse: Franken 93 508 bis 116 557
-  - 1\. Meisterin/Meister in besonderer Stellung
-  - 2\. Polizeiwachtmeisterin/Polizeiwachtmeister mit besonderer Aufgabe
-  - 3\. Polizeifeldweibel
-  - 4\. Technische Sachbearbeiterin/Technischer Sachbearbeiter
-  - 5\. Technikerin/Techniker
-  - 6\. Dipl. Ingenieurin oder Architektin/Dipl. Ingenieur oder Architekt
-  - 7\. Kontrollangestellte/Kontrollangestellter
-  - 8\. Einschätzungsexpertin/Einschätzungsexperte
-  - 9\. Dipl. Sozialarbeiterin/Dipl. Sozialarbeiter
-  - 10\. Dipl. Sozialarbeiterin/Dipl. Sozialarbeiter in besonderer Stellung
-  - 11\. Adjunktin/Adjunkt
-  - 12\. Abteilungsleiterin/Abteilungsleiter
-  - 13\. Lehrerin/Lehrer der Berufswahlschule
-- m) 16. Klasse: Franken 99 198 bis 122 392
-  - 1\. Polizeifeldweibel
-  - 2\. Polizeiadjutantin/Polizeiadjutant
-  - 3\. Technische Sachbearbeiterin/Technischer Sachbearbeiter
-  - 4\. Technikerin/Techniker
-  - 5\. Dipl. Ingenieurin oder Architektin/Dipl. Ingenieur oder Architekt
-  - 6\. Kontrollangestellte/Kontrollangestellter
-  - 7\. Einschätzungsexpertin/Einschätzungsexperte
-  - 8\. Einschätzungsexpertin/Einschätzungsexperte in besonderer Stellung
-  - 9\. Bücherexpertin/Bücherexperte
-  - 10\. Dipl. Sozialarbeiterin/Dipl. Sozialarbeiter in besonderer Stellung
-  - 11\. Adjunktin/Adjunkt
-  - 12\. Abteilungsleiterin/Abteilungsleiter
-  - 13\. Berufsberaterin/Berufsberater
-  - 14\. Lehrerin/Lehrer der Berufswahlschule
-  - 15\. Berufsschullehrerin/Berufsschullehrer
-  - 16\. Hauptlehrerin/Hauptlehrer der Weiterbildungsschule
-- n) 17. Klasse: Franken 105 179 bis 128 665
-  - 1\. Polizeiadjutantin/Polizeiadjutant
-  - 2\. Dipl. Ingenieurin oder Architektin/Dipl. Ingenieur oder Architekt
-  - 3\. Einschätzungsexpertin/Einschätzungsexperte in besonderer Stellung
-  - 4\. Bücherexpertin/Bücherexperte
-  - 5\. Dipl. Sozialarbeiterin/Dipl. Sozialarbeiter in besonderer Stellung
-  - 6\. Adjunktin/Adjunkt
-  - 7\. Abteilungsleiterin/Abteilungsleiter
-  - 8\. Berufsberaterin/Berufsberater
-  - 9\. Lehrerin/Lehrer der Berufswahlschule
-  - 10\. Berufsschullehrerin/Berufsschullehrer
-  - 11\. Hauptlehrerin/Hauptlehrer der Weiterbildungsschule
-- o) 18. Klasse: Franken 111 452 bis 135 521
-  - 1\. Dipl. Ingenieurin oder Architektin/Dipl. Ingenieur oder Architekt
-  - 2\. Bücherexpertin/Bücherexperte
-  - 3\. Adjunktin/Adjunkt in besonderer Stellung
-  - 4\. Abteilungsleiterin/Abteilungsleiter
-  - 5\. Berufsberaterin/Berufsberater
-  - 6\. Berufsberaterin/Berufsberater in besonderer Stellung
-  - 7\. Lehrerin/Lehrer der Berufswahlschule
-  - 8\. Berufsschullehrerin/Berufsschullehrer
-  - 9\. Hauptlehrerin/Hauptlehrer der Weiterbildungsschule
-  - 10\. Hauptlehrerin/Hauptlehrer der Kantonsschule
-  - 11\. Wissenschaftliche Mitarbeiterin/Wissenschaftlicher Mitarbeiter
-  - 12\. Gerichtsschreiberin/Gerichtsschreiber
-- p) 19. Klasse: Franken 118 016 bis 142 961
-  - 1\. Dipl. Ingenieurin oder Architektin/Dipl. Ingenieur oder Architekt
-  - 2\. Bücherexpertin/Bücherexperte
-  - 3\. Berufsberaterin/Berufsberater in besonderer Stellung
-  - 4\. Lehrerin/Lehrer der Berufswahlschule
-  - 5\. Berufsschullehrerin/Berufsschullehrer
-  - 6\. Berufsschullehrerin/Berufsschullehrer mit Hochschulabschluss
-  - 7\. Hauptlehrerin/Hauptlehrer der Weiterbildungsschule mit Hochschulabschluss
-  - 8\. Hauptlehrerin/Hauptlehrer der Kantonsschule
-  - 9\. Wissenschaftliche Mitarbeiterin/Wissenschaftlicher Mitarbeiter
-  - 10\. Gerichtsschreiberin/Gerichtsschreiber
-  - 11\. Staatsanwältin/Staatsanwalt
-  - 12\. Chefbeamtin/Chefbeamter
-- q) 20. Klasse: Franken 124 872 bis 150 985
-  - 1\. Dipl. Ingenieurin oder Architektin/Dipl. Ingenieur oder Architekt
-  - 2\. Bücherexpertin/Bücherexperte in besonderer Stellung
-  - 3\. Berufsschullehrerin/Berufsschullehrer mit Hochschulabschluss
-  - 4\. Hauptlehrerin/Hauptlehrer der Weiterbildungsschule mit Hochschulabschluss
-  - 5\. Hauptlehrerin/Hauptlehrer der Kantonsschule mit Hochschulabschluss
-  - 6\. Wissenschaftliche Mitarbeiterin/Wissenschaftlicher Mitarbeiter
-  - 7\. Gerichtsschreiberin/Gerichtsschreiber
-  - 8\. Vorsteherin/Vorsteher Gerichtskanzlei
-  - 9\. Staatsanwältin/Staatsanwalt
-  - 10\. Chefbeamtin/Chefbeamter
-- r) 21. Klasse: Franken 132 021 bis 159 738
-  - 1\. Dipl. Ingenieurin oder Architektin/Dipl. Ingenieur oder Architekt
-  - 2\. Bücherexpertin/Bücherexperte in besonderer Stellung
-  - 3\. Berufsschullehrerin/Berufsschullehrer mit Hochschulabschluss
-  - 4\. Hauptlehrerin/Hauptlehrer der Kantonsschule mit Hochschulabschluss
-  - 5\. Wissenschaftliche Mitarbeiterin/Wissenschaftlicher Mitarbeiter
-  - 6\. Gerichtsschreiberin/Gerichtsschreiber
-  - 7\. Vorsteherin/Vorsteher Gerichtskanzlei
-  - 8\. Staatsanwältin/Staatsanwalt
-  - 9\. Chefbeamtin/Chefbeamter
-- s) 22. Klasse: Franken 139 460 bis 169 220
-  - 1\. Wissenschaftliche Mitarbeiterin/Wissenschaftlicher Mitarbeiter
-  - 2\. Gerichtsschreiberin/Gerichtsschreiber
-  - 3\. Vorsteherin/Vorsteher Gerichtskanzlei
-  - 4\. Staatsanwältin/Staatsanwalt
-  - 5\. Leitende Staatsanwältin/Leitender Staatsanwalt
-  - 6\. Chefbeamtin/Chefbeamter
-- t) 23. Klasse: Franken 147 192 bis 179 577
-  - 1\. Vorsteherin/Vorsteher Gerichtskanzlei
-  - 2\. Gerichtsschreiber/Gerichtsschreiberin
-  - 3\. Leitende Staatsanwältin/Leitender Staatsanwalt
-  - 4\. Staatsanwältin/Staatsanwalt
-  - 5\. Chefbeamtin/Chefbeamter
-- u) 24. Klasse: Franken 155 506 bis 190 809
-  - 1\. Vorsteherin/Vorsteher Gerichtskanzlei
-  - 2 Staatsanwältin/Staatsanwalt
-  - 3 Leitende Staatsanwältin/Leitender Staatsanwalt
-  - 4 Oberstaatsanwältin/Oberstaatsanwalt
-  - 5\. Chefbeamtin/Chefbeamter in besonderer Stellung
-- v) 25. Klasse: Franken 164 259 bis 202 918
-  - 1\. Leitende Staatsanwältin/Leitender Staatsanwalt
-  - 2\. Oberstaatsanwältin/Oberstaatsanwalt
-  - 3\. Chefbeamtin/Chefbeamter in besonderer Stellung
-- w) 26. Klasse: Franken 173 596 bis 215 901
-  - 1\. Oberstaatsanwältin/Oberstaatsanwalt
-  - 2\. Chefbeamtin/Chefbeamter in besonderer Stellung
+<sup>1<sup>bis</sup></sup> Der Jahreslohn einschliesslich des 13. Monatslohns wird bei einem Beschäftigungsgrad von 100 Prozent im Rahmen folgender Lohnklassen festgesetzt:
 
-<sup>2</sup> Die Vorsteherinnen und Vorsteher der kantonalen Schulen werden ein bis drei Klassen höher eingereiht als die Lehrerinnen und Lehrer der betreffenden Anstalten.
-
-<sup>3</sup> Funktionen, für welche dieses Gesetz keine besondere Regelung vorsieht, werden entsprechend dem Aufgaben- und Verantwortungsbereich in eine der Gehaltsklassen eingereiht.
-
-<sup>4</sup> In besonderen Fällen kann das Gehalt auch ohne Klasseneinreihung in Form eines Monatsgehalts, Tages- oder Stundenlohnes festgesetzt werden.
-
-#### § 45
-
-**Gehälter der Richterinnen und Richter, der Landschreiberin oder des Landschreibers, der oder des Datenschutzbeauftragten sowie der Ombudsperson**
-
-<sup>1</sup> Das Jahresgehalt der vom Volk gewählten hauptamtlichen Richterinnen und Richter des Kantonsgerichts entspricht bei der Aufnahme der Amtstätigkeit dem Maximum der 23. Gehaltsklasse, nach 6 Amtsjahren demjenigen der 24. Gehaltsklasse, nach 12 Amtsjahren demjenigen der 25. Gehaltsklasse und nach 18 Amtsjahren demjenigen der 26. Gehaltsklasse.
-
-<sup>2</sup> Die Präsidentin/der Präsident des Strafgerichts sowie die Vorsitzenden einer Abteilung des Kantonsgerichts erhalten eine Zulage von 5 Prozent, die Präsidentin/der Präsident des Kantonsgerichts eine solche von 10 Prozent des jeweiligen Jahresgehaltes. Eine Kumulation der Zulagen ist ausgeschlossen.
-
-<sup>3</sup> Das Jahresgehalt der vom Volk gewählten hauptamtlichen Richterinnen und Richter des Obergerichts und des Verwaltungsgerichts beträgt Fr. 230 489.–.
-
-<sup>4</sup> Das Jahresgehalt der Präsidentin oder des Präsidenten des Obergerichts und des Verwaltungsgerichts beträgt Fr. 237 783.–.
-
-<sup>5</sup> Das Jahresgehalt der Landschreiberin oder des Landschreibers entspricht im Minimum der ersten Stufe der obersten Gehaltsklasse und im Maximum dem Gehalt der Präsidentin oder des Präsidenten des Obergerichts und des Verwaltungsgerichts. In diesem Rahmen wird das Gehalt vom Regierungsrat festgelegt.
-
-<sup>6</sup> Das Jahresgehalt der oder des Datenschutzbeauftragten und der Ombudsperson entspricht bei der Aufnahme der Amtstätigkeit dem Maximum der 22. Gehaltsklasse, nach 6 Amtsjahren demjenigen der 23. Gehaltsklasse und nach 12 Amtsjahren demjenigen der 24. Gehaltsklasse.
-
-#### § 46
-
-**Gehaltsstufen**
-
-<sup>1</sup> Jede Gehaltsklasse besteht aus zehn Gehaltsstufen. Die erste Stufe entspricht dem Minimum der Gehaltsklasse. Die weiteren Stufen erhöhen sich jeweils um den neunten Teil der Differenz zwischen dem Klassenmaximum und dem Klassenminimum. Die zehnte Stufe entspricht dem Maximum der Gehaltsklasse.
+<table>
+<tr><th>Lohnklasse</th><th>Minimalwert (Franken)</th><th>Maximalwert (Franken)</th></tr>
+<tr><td>LK 4</td><td>48 140</td><td>68 652</td></tr>
+<tr><td>LK 5</td><td>51 349</td><td>72 895</td></tr>
+<tr><td>LK 6</td><td>54 706</td><td>77 294</td></tr>
+<tr><td>LK 7</td><td>58 206</td><td>81 849</td></tr>
+<tr><td>LK 8</td><td>61 853</td><td>86 563</td></tr>
+<tr><td>LK 9</td><td>65 499</td><td>91 433</td></tr>
+<tr><td>LK 10</td><td>69 438</td><td>96 617</td></tr>
+<tr><td>LK 11</td><td>73 670</td><td>101 958</td></tr>
+<tr><td>LK 12</td><td>78 191</td><td>107 614</td></tr>
+<tr><td>LK 13</td><td>83 005</td><td>113 427</td></tr>
+<tr><td>LK 14</td><td>88 111</td><td>119 396</td></tr>
+<tr><td>LK 15</td><td>93 508</td><td>125 523</td></tr>
+<tr><td>LK 16</td><td>99 198</td><td>131 807</td></tr>
+<tr><td>LK 17</td><td>105 179</td><td>138 563</td></tr>
+<tr><td>LK 18</td><td>111 452</td><td>145 946</td></tr>
+<tr><td>LK 19</td><td>118 016</td><td>153 958</td></tr>
+<tr><td>LK 20</td><td>124 872</td><td>162 599</td></tr>
+<tr><td>LK 21</td><td>132 021</td><td>172 026</td></tr>
+<tr><td>LK 22</td><td>139 460</td><td>182 236</td></tr>
+<tr><td>LK 23</td><td>147 192</td><td>193 391</td></tr>
+<tr><td>LK 24</td><td>155 506</td><td>205 487</td></tr>
+<tr><td>LK 25</td><td>164 259</td><td>218 527</td></tr>
+<tr><td>LK 26</td><td>173 597</td><td>232 509</td></tr>
+</table>
 
 <sup>2</sup> …
 
@@ -826,51 +626,83 @@ beschliesst:
 
 <sup>4</sup> …
 
+#### § 44bis
+
+**Referenzfunktionen, Einreihungsplan und Lohneinreihung**
+
+<sup>1</sup> Die Referenzfunktionen, der Einreihungsplan und die Lohneinreihung werden vom Regierungsrat, vom Obergericht und vom Verwaltungsgericht auf dem Verordnungsweg geregelt.
+
+<sup>2</sup> Referenzfunktionen sind in Struktur und Arbeitswert ähnliche Funktionen, welche zusammenfassend, abstrahiert und personenunabhängig beschrieben werden.
+
+<sup>3</sup> Eine Referenzfunktion legt unter anderem die Anforderungen an die berufliche Stellung, an die Ausbildung sowie an die berufliche Erfahrung der Stelleninhaberinnen und Stelleninhaber der Funktionen fest, die dieser Referenzfunktion zugeordnet sind.
+
+<sup>4</sup> Im Einreihungsplan wird jede Referenzfunktion einem Lohnband zugeordnet, das mehrere Lohnklassen umfasst.
+
+<sup>5</sup> Für die Lehrpersonen der kantonalen Schulen, Teile des Hochschulpersonals (Mitglieder der Hochschulleitung, Dozierende, Lehrbeauftragte, wissenschaftliche Mitarbeitende und wissenschaftliche Assistierende), die Mitarbeiterinnen und Mitarbeiter der Polizei mit hoheitlicher polizeilicher Gewalt und die gewählten Behörden gemäss § 45 dieses Gesetzes werden keine Referenzfunktionen definiert.
+
+<sup>6</sup> In besonderen Fällen kann der Lohn auch ohne Zuteilung zu einer Referenzfunktion in Form eines Monats-, Tages- oder Stundenlohns festgesetzt werden.
+
+#### § 45
+
+**Löhne der Richterinnen und Richter, der Landschreiberin oder des Landschreibers, der oder des Datenschutzbeauftragten sowie der Ombudsperson**
+
+<sup>1</sup> Der Jahreslohn der vom Volk gewählten hauptamtlichen Richterinnen und Richter des Kantonsgerichts entspricht bei der Aufnahme der Amtstätigkeit dem Maximum der 23. Lohnklasse, nach 6 Amtsjahren demjenigen der 24. Lohnklasse, nach 12 Amtsjahren demjenigen der 25. Lohnklasse und nach 18 Amtsjahren demjenigen der 26. Lohnklasse.
+
+<sup>2</sup> Die Vorsitzenden einer Abteilung des Kantonsgerichts erhalten eine Zulage von 5 Prozent, die Präsidentin bzw. der Präsident des Strafgerichts eine solche von 7,5 Prozent und die Präsidentin bzw. der Präsident des Kantonsgerichts eine solche von 10 Prozent des jeweiligen Jahreslohns. Eine Kumulation der Zulagen ist ausgeschlossen.
+
+<sup>3</sup> Der Jahreslohn der vom Volk gewählten hauptamtlichen Richterinnen und Richter des Obergerichts und des Verwaltungsgerichts beträgt 252'000 Franken.
+
+<sup>4</sup> Die Präsidentin oder der Präsident des Obergerichts und des Verwaltungsgerichts erhalten eine Zulage von 5 Prozent des jeweiligen Jahreslohns.
+
+<sup>5</sup> Der Jahreslohn der Landschreiberin oder des Landschreibers entspricht mindestens dem Minimum der 26. Lohnklasse und im Maximum dem Lohn der Präsidentin oder des Präsidenten des Obergerichts und des Verwaltungsgerichts. In diesem Rahmen wird der Lohn vom Regierungsrat festgelegt.
+
+<sup>6</sup> Der Jahreslohn der oder des Datenschutzbeauftragten und der Ombudsperson entspricht bei der Aufnahme der Amtstätigkeit dem Maximum der 22. Lohnklasse, nach 6 Amtsjahren demjenigen der 23. Lohnklasse und nach 12 Amtsjahren demjenigen der 24. Lohnklasse.
+
+<sup>7</sup> Bei der Festlegung der massgebenden Amtsjahre sind Ausbildung, Berufserfahrung und die ausserberufliche Erfahrung, soweit diese für die Arbeit von Nutzen sind, sowie Fähigkeit und Eignung zu berücksichtigen. Die Dauer gleichwertiger Tätigkeit innerhalb oder ausserhalb des Staatsdienstes kann angemessen angerechnet werden.
+
+#### § 46
+
+**…**
+
 #### § 47
 
-**Anfangsgehalt**
-
-<sup>1</sup> Das Anfangsgehalt entspricht in der Regel der ersten Stufe der untersten für die Funktion massgebenden Gehaltsklasse.
-
-<sup>2</sup> Bei der Besoldungseinreihung sind Ausbildung, Berufserfahrung und die ausserberufliche Erfahrung, soweit diese für die Arbeit von Nutzen sind, sowie Fähigkeit und Eignung zu berücksichtigen. Die Dauer gleichwertiger Tätigkeit innerhalb oder ausserhalb des Staatsdienstes kann angemessen angerechnet werden.
-
-<sup>3</sup> Bei Funktionen, die eine längere Einarbeitung und spezifische Erfahrung voraussetzen, kann für eine angemessene Einführungszeit ohne Bindung an die für die Funktion massgebende Gehaltsklasse eine tiefere Gehaltsklasse festgesetzt werden.
+**…**
 
 #### § 48
 
-**Beförderung**
+**Individuelle Lohnerhöhung und Einmalzulagen**
 
-<sup>1</sup> Aus der Einreihung einer Funktion in mehrere Gehaltsklassen kann kein Anspruch auf Aufstieg in eine höhere Gehaltsklasse abgeleitet werden.
+<sup>1</sup> Aus der Zuordnung einer Referenzfunktion auf ein Lohnband gemäss Einreihungsplan kann kein Anspruch auf einen Lohnanstieg abgeleitet werden.
 
-<sup>2</sup> Gute Leistungen sowie besondere Befähigung und Eignung können durch Beförderung in eine höhere Gehaltsstufe oder Gehaltsklasse abgegolten werden. Die Nichtbeförderung kann nicht angefochten werden.
+<sup>2</sup> Gute Leistungen sowie besondere Befähigung und Eignung können durch eine individuelle Lohnerhöhung innerhalb des für die Referenzfunktion massgebenden Lohnbands oder mit einer Einmalzulage honoriert werden.
 
-<sup>3</sup> Besonderen Verhältnissen bei einzelnen Funktionsgruppen (z.B. Lehrerschaft, Polizeikorps) kann durch Festlegung bestimmter Beförderungsmechanismen Rechnung getragen werden. Mangelhafte Leistung, Fähigkeit und Eignung sind in jedem Fall Beförderungshindernisse.
+<sup>3</sup> Besonderen Verhältnissen bei einzelnen Personalkategorien (z. B. Lehrpersonen, Hochschulpersonal, Polizeikorps) kann durch Festlegung bestimmter Mechanismen für die individuelle Lohnerhöhung Rechnung getragen werden. Mangelhafte Leistung, Fähigkeit und Eignung sind in jedem Fall Hindernisse für eine Lohnerhöhung.
 
 <sup>4</sup> Sinngemäss können auch Hilfskräften Lohnaufbesserungen gewährt werden.
 
-<sup>5</sup> Der Regierungsrat bzw. in ihrem Zuständigkeitsbereich die Gerichte legen fest, welche Gesamtsumme für Beförderungen zur Verfügung steht, und bestimmen, wie diese unter den Direktionen, der Staatskanzlei und den Gerichten aufgeteilt wird. Sie berücksichtigen dabei die allgemeine Wirtschaftslage und den Finanzhaushalt und können zu dessen Sanierung auch bei Funktionsgruppen mit Beförderungsmechanismen Beförderungen aussetzen. Der Kantonsrat genehmigt mit dem Budget abschliessend die Beförderungssumme.
+<sup>5</sup> Der Regierungsrat bzw. in ihrem Zuständigkeitsbereich die Gerichte legen fest, welche Gesamtsumme für individuelle Lohnerhöhungen und Einmalzulagen zur Verfügung steht, und bestimmen, wie diese unter den Direktionen, der Staatskanzlei und den Gerichten aufgeteilt wird. Sie berücksichtigen dabei die allgemeine Wirtschaftslage und den Finanzhaushalt und können zu dessen Sanierung auch bei Personalkategorien mit bestimmten Mechanismen für die individuelle Lohnerhöhung diese Lohnerhöhungen aussetzen. Der Kantonsrat genehmigt mit dem Budget abschliessend die Summe für individuelle Lohnerhöhungen und Einmalzulagen.
 
 #### § 49
 
-**Ausserordentliche Gehaltserhöhungen und Zuwendungen**
+**Markt- oder Funktionszulage**
 
-<sup>1</sup> Um dem Kanton besonders geeignete Mitarbeiterinnen und Mitarbeiter in wichtiger Stellung zu gewinnen oder zu erhalten, kann das Gehalt ausnahmsweise bis zu einem Viertel des Maximums der höchsten für die Funktion massgebenden Gehaltsklasse erhöht werden.
+<sup>1</sup> Damit der Kanton besonders geeignete Mitarbeiterinnen und Mitarbeiter in wichtiger Stellung zu gewinnen oder zu erhalten vermag, kann ausnahmsweise eine Marktzulage ausgerichtet werden. Die Zulage beträgt maximal 25 Prozent des Höchstsatzes des für die entsprechende Referenzfunktion massgebenden Lohnbands.
 
-<sup>2</sup> Die Erfüllung besonderer Aufträge, ausserordentliche Leistungen sowie wertvolle Anregungen zu Verbesserungen organisatorischer, technischer oder anderer Art können durch einmalige Zuwendungen belohnt werden.
+<sup>2</sup> Für die Übernahme von zusätzlichen Aufgaben oder Funktionen kann eine Funktionszulage ausgerichtet werden.
 
 #### § 50
 
-**Gehaltskürzung**
+**Lohnkürzung**
 
-<sup>1</sup> Bei ungenügender Leistung, Fähigkeit oder Eignung können unter Einhaltung der Kündigungsfristen und -termine jederzeit Gehaltserhöhungen ganz oder teilweise rückgängig gemacht sowie die Versetzung in eine tiefere Gehaltsstufe oder Gehaltsklasse angeordnet werden. Dabei besteht keine Bindung an die Funktionseinreihung.
+<sup>1</sup> Bei ungenügender Leistung, Fähigkeit oder Eignung können unter Einhaltung der Kündigungsfristen und -termine jederzeit Lohnerhöhungen ganz oder teilweise rückgängig gemacht werden oder der Lohn innerhalb des Lohnbands für die entsprechende Referenzfunktion herabgesetzt werden bzw. bei Mitarbeiterinnen und Mitarbeitern, für welche keine Referenzfunktionen definiert sind, der Lohn innerhalb der aktuellen Lohnklasse oder auch in tiefere Lohnklassen herabgesetzt werden.
 
 #### § 51
 
 **Anpassung an die Preisentwicklung**
 
-<sup>1</sup> Das Gehalt basiert auf einem Landesindex der Konsumentenpreise von 100,4 Indexpunkten per Ende Oktober 2008 (Basis Dezember 2010 = 100).
+<sup>1</sup> Der Lohn basiert auf dem Stand des Landesindex der Konsumentenpreise von 100,4 Indexpunkten per Ende Oktober 2008 (Basis Dezember 2010 = 100).
 
-<sup>2</sup> Der Regierungsrat kann die Gehälter jeweils auf Jahresanfang unter Vorbehalt der Budgetgenehmigung durch den Kantonsrat ganz oder teilweise der Teuerung anpassen. Dabei können Teuerungseffekte, die auf fiskal- oder umweltpolitische Massnahmen des Bundes zurückzuführen sind, ausgeklammert werden.
+<sup>2</sup> Der Regierungsrat kann die Löhne jeweils auf Jahresanfang unter Vorbehalt der Budgetgenehmigung durch den Kantonsrat ganz oder teilweise der Teuerung anpassen. Dabei können Teuerungseffekte, die auf fiskal- oder umweltpolitische Massnahmen des Bundes zurückzuführen sind, ausgeklammert werden.
 
 ### 5.3. Zulagen, Dienstaltersgeschenk und besondere Vergütungen
 
@@ -878,7 +710,7 @@ beschliesst:
 
 **Familien- und Kinderzulage**
 
-<sup>1</sup> Verheiratete oder in eingetragener Partnerschaft lebende Mitarbeiterinnen und Mitarbeiter erhalten eine jährliche Familienzulage von Fr. 2200.–, sofern folgende Voraussetzungen kumulativ erfüllt sind:
+<sup>1</sup> Verheiratete oder in eingetragener Partnerschaft lebende Mitarbeiterinnen und Mitarbeiter erhalten eine jährliche Familienzulage von 2200 Franken, sofern folgende Voraussetzungen kumulativ erfüllt sind:
 
 - a) die Mitarbeiterin oder der Mitarbeiter muss Kinder- oder Ausbildungszulagen nach dem Bundesgesetz über die Familienzulagen (Familienzulagengesetz)[^52-1] beziehen;
 - b) die Mitarbeiterin oder der Mitarbeiter muss ganz oder vorwiegend für den finanziellen Unterhalt der Familie oder der eingetragenen Partnerschaft aufkommen;
@@ -892,46 +724,41 @@ beschliesst:
 
 <sup>5</sup> Umstände, die zu einer Änderung der Zulagenberechtigung führen, sind sofort nach deren Eintritt zu melden. Was durch die Verletzung dieser Meldepflicht zuviel bezogen wurde, ist zurückzuerstatten.
 
-[^52-1]: BGS [836.2](https://db.clex.ch/link/Bund/836.2/de)
+[^52-1]: SR [836.2](https://db.clex.ch/link/Bund/836.2/de)
 
 #### § 53
 
-**Treue- und Erfahrungszulage**
-
-<sup>1</sup> Den Mitarbeiterinnen und Mitarbeitern, die sich bewährt haben, wird ab dem Kalenderjahr, in welchem sie das 3. Dienstjahr erfüllen, eine Treue- und Erfahrungszulage ausgerichtet. Das erste Kalenderjahr des Arbeitsverhältnisses wird als erfülltes Dienstjahr angerechnet, wenn der Diensteintritt in der ersten Jahreshälfte erfolgt ist.
-
-<sup>2</sup> Die Zulage entspricht 1/15 des Monatsgehaltes pro erfülltes Dienstjahr, höchstens aber einem vollen Monatsgehalt ab dem Kalenderjahr, in welchem das 15. Dienstjahr erfüllt wird. Bemessungsgrundlage bildet das im Juni beziehungsweise im Dezember des jeweiligen Kalenderjahres bezogene Gehalt einschliesslich Teuerungs- und Sozialzulagen, jedoch ohne Berücksichtigung des 13. Monatsgehaltes.
-
-<sup>3</sup> Die Dauer gleichwertiger Tätigkeit im öffentlichen Dienst innerhalb des Kantons kann ganz oder teilweise angerechnet werden.
+**…**
 
 #### § 54
 
 **Dienstaltersgeschenk**
 
-<sup>1</sup> Mitarbeiterinnen und Mitarbeitern, die sich bewährt haben, wird nach 25 und 35 Dienstjahren ein Dienstaltersgeschenk in Höhe eines Monatsgehalts ausgerichtet. Massgebend ist das durchschnittliche effektive Monatsgehalt der letzten fünf Dienstjahre einschliesslich des Monats des Dienstjubiläums. Berechnungsgrundlage bildet das jeweilige Gehalt einschliesslich Teuerungs- sowie Familien- und Kinderzulagen, jedoch ohne Berücksichtigung des 13. Monatslohns und der Treue- und Erfahrungszulage.
+<sup>1</sup> Mitarbeiterinnen und Mitarbeiter, die sich bewährt haben, erhalten ein Dienstaltersgeschenk. Nach 10 und 15 Dienstjahren beträgt das Dienstaltersgeschenk je einen Viertel eines Monatslohns. Nach 20 Dienstjahren wird alle 5 Jahre ein Dienstaltersgeschenk in der Höhe von je einem halben Monatslohn ausgerichtet. Massgebend ist der durchschnittliche effektive Monatslohn der letzten 2 Dienstjahre einschliesslich des Monats des Dienstjubiläums. Berechnungsgrundlage bildet der jeweilige Lohn einschliesslich Teuerungs- sowie Familien- und Kinderzulagen, jedoch ohne Berücksichtigung des 13. Monatslohns.
 
-<sup>2</sup> Soweit der Dienst es gestattet, kann die Hälfte des Dienstaltersgeschenkes als Urlaub bezogen werden.
+<sup>2</sup> Soweit der Dienst es gestattet, kann das Dienstaltersgeschenk vollständig als Urlaub bezogen werden. Eine Kombination des Bezugs des Dienstaltersgeschenks in Form einer Lohnzahlung und in Form von Urlaub ist nicht möglich.
 
-<sup>3</sup> Beim Ausscheiden nach 30 Dienstjahren wird das zweite Dienstaltersgeschenk anteilsmässig ausgerichtet.
+<sup>3</sup> …
 
 #### § 55
 
-**Altersentlastung der Lehrerinnen und Lehrer**
+**Entlastung der Lehrpersonen**
 
-<sup>1</sup> Lehrkräften mit einem vollen Unterrichtspensum an kantonalen Schulen allein oder an kantonalen und gemeindlichen Schulen zusammen wird ab dem Schuljahr, in welchem sie das 55. Altersjahr erfüllen, das Pensum um 90 Minuten und ab dem Schuljahr, in welchem sie das 60. Altersjahr erfüllen, um weitere 45 Minuten gekürzt.
+<sup>1</sup> Lehrpersonen an den kantonalen Schulen werden pro Schuljahr folgende Entlastungen an ihr Pensum angerechnet:
 
-<sup>2</sup> Lehrkräfte mit Teilpensum an kantonalen Schulen allein oder an kantonalen und gemeindlichen Schulen zusammen haben ab dem Schuljahr, in welchem sie das 55. bzw. das 60. Altersjahr erfüllen, denselben Anspruch auf Altersentlastung wie die Lehrkräfte mit vollem Unterrichtspensum, wenn das Teilpensum während mindestens 3 Schuljahren vor dem Zeitpunkt der Altersentlastung dem infolge Alters reduzierten Vollpensum entsprochen hat.
+- 1\. ab dem Schuljahr, in welchem sie das 50. Altersjahr erfüllen, eine Lektion;
+- 2\. ab dem Schuljahr, in welchem sie das 55. Altersjahr erfüllen, zwei zusätzliche Lektionen;
+- 3\. ab dem Schuljahr, in welchem sie das 60. Altersjahr erfüllen, eine weitere Lektion.
 
-<sup>3</sup> Lehrkräfte im Teilpensum, welche die Voraussetzungen von Abs. 2 nicht erfüllen, haben unter Vorbehalt von Abs. 4 Anspruch auf Altersentlastung wie folgt:
+<sup>2</sup> Die Entlastungen werden anteilsmässig entsprechend dem Pensum entrichtet.
 
-- a) bei einem Teilpensum von mindestens 3/4 des Vollpensums denselben wie Lehrer im Vollpensum;
-- b) bei einem Teilpensum von weniger als 3/4, mindestens aber der Hälfte des Vollpensums ab dem Schuljahr, in welchem das 55. Altersjahr erfüllt wird, eine Lektion und ab dem Schuljahr, in welchem das 60. Altersjahr erfüllt wird, eine weitere Lektion.
+<sup>3</sup> …
 
-<sup>4</sup> Zum Zwecke des Ausgleichs der im Verhältnis zu den Teilpensen zu hohen Altersentlastung durch Reduktion des Teilpensums um 45 Min., 1 Std. 30 Min. oder 2 Std. 15 Min. wird der Lohn entsprechend gekürzt.
+<sup>4</sup> …
 
-<sup>5</sup> Zusätzliche Unterrichtszeit (Überzeit) wird nur bis zur Höhe des vor der Altersentlastung ausgeübten Pensums vergütet. Darüber hinausgehende Unterrichtszeit muss kompensiert werden.
+<sup>5</sup> …
 
-<sup>6</sup> Ist eine Lehrerin oder ein Lehrer mit Anspruch auf Altersentlastung an einer oder mehreren gemeindlichen sowie an kantonalen Schulen beschäftigt, so haben die Gemeinden und der Kanton die Kosten der Altersentlastung entsprechend dem Beschäftigungsgrad zu übernehmen.
+<sup>6</sup> …
 
 #### § 56
 
@@ -966,54 +793,85 @@ beschliesst:
 
 **Krankheit und Unfall**
 
-<sup>1</sup> Unbefristet angestellte Mitarbeiterinnen und Mitarbeiter haben, wenn sie ohne grobes Selbstverschulden durch Krankheit oder Unfall an der Arbeitsleistung nachweisbar verhindert sind, Anspruch auf Gehaltsfortzahlung. Während der ersten 12 Monate wird die volle Besoldung ausgerichtet. Bei längerdauernder Arbeitsunfähigkeit besteht Anspruch auf 80 Prozent der Besoldung während weiterer 12 Monate, längstens aber bis zur Beendigung des Arbeitsverhältnisses.
+<sup>1</sup> Unbefristet angestellte Mitarbeiterinnen und Mitarbeiter haben, wenn sie ohne grobes Selbstverschulden durch Krankheit oder Unfall an der Arbeitsleistung nachweisbar verhindert sind, Anspruch auf Lohnfortzahlung. Während der ersten 12 Monate wird der volle Lohn ausgerichtet. Bei länger dauernder Arbeitsunfähigkeit besteht Anspruch auf 80 Prozent des Lohns während weiterer 12 Monate, längstens aber bis zur Beendigung des Arbeitsverhältnisses.
 
-<sup>2</sup> Befristet angestellte Mitarbeiterinnen und Mitarbeiter haben, wenn sie ohne grobes Selbstverschulden durch Krankheit oder Unfall an der Arbeitsleistung nachweisbar verhindert sind, Anspruch auf volle Besoldung während eines Viertels der vertraglichen Dauer des Arbeitsverhältnisses, längstens aber bis zur Beendigung des Arbeitsverhältnisses.
+<sup>2</sup> Befristet angestellte Mitarbeiterinnen und Mitarbeiter haben, wenn sie ohne grobes Selbstverschulden durch Krankheit oder Unfall an der Arbeitsleistung nachweisbar verhindert sind, Anspruch auf vollen Lohn während eines Viertels der vertraglichen Dauer des Arbeitsverhältnisses, längstens aber bis zur Beendigung des Arbeitsverhältnisses.
 
 <sup>3</sup> Beim Vorliegen besonderer Umstände, vor allem in Härtefällen oder bei sehr langer Dienstzeit, kann eine längerdauernde Lohnfortzahlung bewilligt werden.
 
-<sup>4</sup> Bei nachweisbarer Arbeitsunfähigkeit wegen Berufsunfalls oder Berufskrankheit ohne grobes Selbstverschulden besteht Anspruch auf volle Besoldung bis zur Wiederaufnahme der Arbeit, längstens aber bis zur Beendigung des Arbeitsverhältnisses.
+<sup>4</sup> Bei nachweisbarer Arbeitsunfähigkeit wegen Berufsunfalls oder Berufskrankheit ohne grobes Selbstverschulden besteht Anspruch auf vollen Lohn bis zur Wiederaufnahme der Arbeit, längstens aber bis zur Beendigung des Arbeitsverhältnisses.
 
 #### § 58bis
 
 **Pflichten bei Krankheit und Unfall**
 
-<sup>1</sup> Absenzen wegen Krankheit oder Unfall sind den Leiterinnen bzw. den Leitern der Ämter und Abteilungen sofort zu melden. Dauert die Abwesenheit länger als drei Tage, ist ein Arztzeugnis einzureichen, das sich über den Grad und die voraussichtliche Dauer der Arbeitsunfähigkeit ausspricht. Wird der Aufforderung zur Einreichung eines Arztzeugnisses keine Folge geleistet, kann die Gehaltszahlung gesperrt werden.
+<sup>1</sup> Absenzen wegen Krankheit oder Unfall sind den Leiterinnen bzw. den Leitern der Ämter und Abteilungen sofort zu melden. Dauert die Abwesenheit länger als 3 Tage, ist ein Arztzeugnis einzureichen, das sich über den Grad und die voraussichtliche Dauer der Arbeitsunfähigkeit ausspricht.
 
-<sup>2</sup> In begründeten Fällen können weitere Arztzeugnisse verlangt sowie Untersuchungen durch die Kantonsärztin bzw. den Kantonsarzt oder durch Spezialärztinnen bzw. Spezialärzte angeordnet werden.
+<sup>2</sup> In begründeten Fällen können Mitarbeiterinnen und Mitarbeiter verpflichtet werden,
+
+- a) Arztzeugnisse früher als zu dem in Abs. 1 genannten Zeitpunkt einzureichen oder weitere Arztzeugnisse beizubringen;
+- b) sich einer vertrauensärztlichen Untersuchung durch die Kantonsärztin bzw. den Kantonsarzt oder durch eine bzw. einen vom Personalamt bezeichnete Ärztin bzw. bezeichneten Arzt zu unterziehen.
+
+<sup>3</sup> Wird gesundheitlich beeinträchtigten Mitarbeiterinnen und Mitarbeitern über den Kanton oder dessen Versicherer (namentlich Pensionskasse, Unfallversicherung und dgl.) zwecks Unterstützung der Wiedereingliederung in den Arbeitsprozess oder Verhinderung der Invalidität ein Case Management angeboten, so sind sie im Rahmen der Treuepflicht zur Teilnahme und Mitwirkung verpflichtet.
+
+<sup>4</sup> Mitarbeiterinnen und Mitarbeiter unterstützen die zumutbaren Bemühungen zur Wiedereingliederung in den Arbeitsprozess kooperativ und aktiv, insbesondere durch die Umsetzung der mit den vorgesetzten Stellen vereinbarten Massnahmen.
+
+<sup>5</sup> Die Lohn- bzw. Lohnfortzahlung kann gekürzt oder eingestellt werden, wenn die betroffenen Mitarbeiterinnen und Mitarbeiter ohne zureichende Gründe
+
+- a) ärztliche Zeugnisse nicht oder nicht rechtzeitig einreichen;
+- b) die Durchführung einer vertrauensärztlichen Untersuchung verweigern, verzögern oder bei dieser nicht mitwirken;
+- c) die Teilnahme oder Mitwirkung an einem Case Management verweigern; oder
+- d) in anderer Weise ihren Mitwirkungspflichten bei der Wiedereingliederung in den Arbeitsprozess nicht nachkommen.
 
 #### § 59
 
 **Abtretung von Versicherungs- und Ersatzansprüchen**
 
-<sup>1</sup> Im Umfang der krankheits- oder unfallbedingten Gehaltsfortzahlung gehen die Ansprüche der Mitarbeiterin oder des Mitarbeiters gegenüber einer staatlichen Sozialversicherung, einer vom Kanton abgeschlossenen Unfall- oder Krankenversicherung sowie gegenüber haftpflichtigen Dritten auf den Kanton über.
+<sup>1</sup> Im Umfang der krankheits- oder unfallbedingten Lohnfortzahlung gehen die Ansprüche der Mitarbeiterin oder des Mitarbeiters gegenüber einer staatlichen Sozialversicherung, einer vom Kanton abgeschlossenen Unfall- oder Krankenversicherung sowie gegenüber haftpflichtigen Dritten auf den Kanton über.
+
+<sup>2</sup> Werden wegen Krankheit oder Unfall Renten der obligatorischen Unfallversicherung, der Invalidenversicherung oder der Militärversicherung zugesprochen, hat der Kanton das Recht, den Lohn, den er trotz vollständiger oder teilweiser Arbeitsunfähigkeit geleistet hat, bis zum Betrag der für die entsprechende Periode nachzuzahlenden Renten beim Versicherer zurückzufordern.
 
 #### § 60
 
 **Mutterschaftsurlaub**
 
-<sup>1</sup> Den Mitarbeiterinnen wird ein bezahlter Mutterschaftsurlaub gewährt. Dieser beträgt:
+<sup>1</sup> Den Mitarbeiterinnen wird unabhängig vom Anspruch auf Mutterschaftsentschädigung ein bezahlter Mutterschaftsurlaub gewährt. Dieser dauert
 
 - a) 16 Wochen, wenn am Tag der Niederkunft das Arbeitsverhältnis mindestens 2 Jahre bestanden hat;
-- b) 8 Wochen in den übrigen Fällen.
+- b) 8 Wochen, wenn am Tag der Niederkunft das Arbeitsverhältnis noch nicht 2 Jahre bestanden hat;
+- c) für neu eintretende Mitarbeiterinnen vom vertraglich festgelegten Beginn des Arbeitsverhältnisses bis zum 56. Tag nach der Niederkunft, wenn die Niederkunft kurz vor Beginn des Arbeitsverhältnisses erfolgte.
+
+<sup>1<sup>bis</sup></sup> Bei Hospitalisierung des Neugeborenen besteht zusätzlich Anspruch auf bezahlten Mutterschaftsurlaub während der verlängerten Dauer der Ausrichtung der Mutterschaftsentschädigung.
 
 <sup>2</sup> Der Mutterschaftsurlaub beginnt in der Regel frühestens 4 Wochen vor der voraussichtlichen Niederkunft.
 
 <sup>3</sup> …
 
-<sup>4</sup> Wird der Mutterschaftsurlaub nicht voll beansprucht, so entsteht kein Anspruch auf Entschädigung.
+<sup>4</sup> Endet der bezahlte Mutterschaftsurlaub, bevor der Anspruch auf Mutterschaftsentschädigung nach dem Bundesgesetz über den Erwerbsersatz für Dienstleistende, bei Mutterschaft und bei Vaterschaft (Erwerbsersatzgesetz)[^60-1] ausgeschöpft ist, wird den Mitarbeiterinnen unter Vorbehalt von Abs.1<sup>bis</sup> zusätzlich bis zur Beendigung des Anspruchs auf Mutterschaftsentschädigung ein unbezahlter Urlaub gewährt, der nicht auf die Ferien angerechnet wird. Ein vollständiger bzw. teilweiser Verzicht auf den unbezahlten Urlaub bzw. eine vorzeitige Wiederaufnahme der Arbeit hat den Verlust des Anspruchs auf Mutterschaftsentschädigung zur Folge und bedarf einer schriftlichen Erklärung der Mitarbeiterin.
 
-<sup>5</sup> Soweit der Mutterschaftsurlaub in die Ferien fällt, werden diese angerechnet. Dabei darf jedoch der Anspruch auf 4 Wochen Ferien pro Kalenderjahr bis zum vollendeten 49. Altersjahr bzw. 5 Wochen Ferien pro Kalenderjahr ab dem 50. Altersjahr nicht geschmälert werden.
+<sup>5</sup> Soweit der Mutterschaftsurlaub in die Ferien fällt, werden diese angerechnet. Dabei darf jedoch der Ferienanspruch gemäss § 62 dieses Gesetzes nicht geschmälert werden.
+
+[^60-1]: SR [834.1](https://db.clex.ch/link/Bund/834.1/de)
+
+#### § 60bis
+
+**Vaterschaftsurlaub**
+
+<sup>1</sup> Der Mitarbeiter, der im Zeitpunkt der Geburt eines Kindes dessen rechtlicher Vater ist oder dies innerhalb der folgenden 6 Monate wird, hat Anspruch auf einen bezahlten Vaterschaftsurlaub von 2 Wochen.
+
+<sup>2</sup> Der Vaterschaftsurlaub muss innert 6 Monaten nach der Geburt des Kindes bezogen werden.
+
+<sup>3</sup> Er kann wochen- oder tageweise bezogen werden.
 
 #### § 61
 
 **Obligatorische Dienstleistung**
 
-<sup>1</sup> Während einer obligatorischen Dienstleistung (z.B.Militär-, Feuerwehr- und Zivilschutzdienst, Zivildienst, militärischer Frauendienst, Rotkreuzdienst, Beförderungsdienste) beziehen die Mitarbeiterinnen und Mitarbeiter die volle Besoldung.
+<sup>1</sup> Während einer obligatorischen Dienstleistung (namentlich Militär-, Feuerwehr- und Zivilschutzdienst, Zivildienst, Rotkreuzdienst, Beförderungsdienste) beziehen die Mitarbeiterinnen und Mitarbeiter den vollen Lohn.
 
 <sup>2</sup> Die Erwerbsausfallentschädigung fällt in die Staatskasse.
 
-<sup>3</sup> Die Besoldung während freiwilligen Beförderungsdiensten kann, soweit sie die Erwerbsausfallentschädigung übersteigt, ganz oder teilweise zurückgefordert werden, wenn das Arbeitsverhältnis seitens der Mitarbeiterin oder des Mitarbeiters innert kurzer Zeit nach Beendigung des Dienstes gekündigt wird.
+<sup>3</sup> Der Lohn während freiwilligen Beförderungsdiensten kann, soweit er die Erwerbsausfallentschädigung übersteigt, ganz oder teilweise zurückgefordert werden, wenn das Arbeitsverhältnis seitens der Mitarbeiterin oder des Mitarbeiters innert kurzer Zeit nach Beendigung des Dienstes gekündigt wird.
 
 <sup>4</sup> Mitarbeiterinnen und Mitarbeiter, die vorwiegend zu ihrer eigenen Ausbildung beim Kanton tätig sind, wie Praktikanten, Auditoren und Volontäre, beziehen lediglich die Erwerbsausfallentschädigung. Der Anspruch der Lehrlinge richtet sich nach Abs. 1 und 2.
 
@@ -1023,10 +881,13 @@ beschliesst:
 
 **Ferien**
 
-<sup>1</sup> Pro Kalenderjahr besteht folgender Anspruch auf bezahlte Ferien:
+<sup>1</sup> Mitarbeiterinnen und Mitarbeiter haben pro Kalenderjahr folgenden Anspruch auf bezahlte Ferien:
 
-- a) bis zum vollendeten 49. Altersjahr 4 Arbeitswochen;
-- b) vom 50. Altersjahr an sowie für Jugendliche bis zum vollendeten 20. Altersjahr und Lehrlinge 5 Arbeitswochen.
+- a) 25 Tage bis und mit dem Kalenderjahr, in welchem sie das 20. Altersjahr erreichen;
+- b) 23 Tage ab Beginn des Kalenderjahres, in welchem sie das 21. Altersjahr erreichen;
+- c) 25 Tage ab Beginn des Kalenderjahres, in welchem sie das 30. Altersjahr erreichen;
+- d) 28 Tage ab Beginn des Kalenderjahres, in welchem sie das 50. Altersjahr erreichen;
+- e) 30 Tage ab Beginn des Kalenderjahres, in welchem sie das 60. Altersjahr erreichen.
 
 <sup>2</sup> Die Ferien der Lehrpersonen richten sich nach dem Schuljahr.
 
@@ -1052,7 +913,7 @@ beschliesst:
 
 <sup>1</sup> Leistung, Fähigkeit, Eignung und Verhalten der Mitarbeiterinnen und Mitarbeiter sind in angemessenen Zeitabständen zu beurteilen.
 
-<sup>2</sup> Die periodischen Mitarbeitergespräche bilden die Grundlage für eine Standortbestimmung, für die Beurteilung der Fort- und Weiterbildungsbedürfnisse, die Laufbahnplanung sowie für die fähigkeitsbezogene Funktionszuweisung und leistungsgerechte Entlöhnung.
+<sup>2</sup> Die periodischen Mitarbeitergespräche bilden die Grundlage für eine Standortbestimmung, für die Beurteilung der Fort- und Weiterbildungsbedürfnisse, für die Laufbahnplanung sowie für die fähigkeitsbezogene Funktionszuweisung und für den leistungsgerechten Lohn.
 
 ### 5.7. Mitspracherecht
 
@@ -1094,7 +955,7 @@ beschliesst:
 
 #### § 70
 
-**Rechtsschutz und Verfahren**
+**Anwendbares Recht und Verfahren**
 
 <sup>1</sup> Bei öffentlich-rechtlichen Arbeitsverhältnissen richtet sich die Rechtspflege nach dem Gesetz über den Rechtsschutz in Verwaltungssachen (Verwaltungsrechtspflegegesetz)[^70-1].
 
@@ -1135,6 +996,16 @@ beschliesst:
 <sup>7</sup> …
 
 <sup>8</sup> § 27 Abs. 1 dieses Gesetzes (in Kraft seit 1. Januar 1995) gilt weiterhin bis zum Ende der Amtsperiode 2013–2018 am 31. Dezember 2018 für die Mitglieder der Gerichte bzw. bis zum Ende der Legislatur 2015–2018 am 31. Dezember 2018 für die Landschreiberin bzw. den Landschreiber, die im Zeitpunkt des Inkrafttretens dieser Gesetzesänderung im Amt sind.
+
+<sup>9</sup> Führt die Zuordnung von Mitarbeiterinnen und Mitarbeitern bzw. ihrer Funktionen zu den entsprechenden Referenzfunktionen mit Inkrafttreten des neuen Lohnsystems (§ 44 ff. dieses Gesetzes) dazu, dass ihr bisheriger Lohn über dem Maximalwert des für die entsprechende Referenzfunktion vorgesehenen Lohnbands liegt, so erfolgt keine Lohnreduktion (Besitzstandswahrung). Vorbehalten bleiben Lohnanpassungen nach Massgabe des neuen Lohnsystems aufgrund späterer Funktionsänderungen.
+
+<sup>10</sup> Führt die Zuordnung von Mitarbeiterinnen und Mitarbeitern bzw. ihrer Funktionen zu den entsprechenden Referenzfunktionen mit Inkrafttreten des neuen Lohnsystems (§ 44 ff. dieses Gesetzes) dazu, dass ihr bisheriger Lohn unter dem Minimalwert des für die entsprechende Referenzfunktion vorgesehenen Lohnbands liegt, so ist ihr Lohn auf eine innerhalb des entsprechenden Lohnbands liegende Lohnhöhe anzuheben.
+
+<sup>11</sup> Mitarbeiterinnen und Mitarbeiter, die bereits vor Inkrafttreten des neuen Lohnsystems (§ 44 ff. dieses Gesetzes) Anspruch auf die Treue- und Erfahrungszulage und auch auf Kinder- oder Ausbildungszulagen nach dem Bundesgesetz über die Familienzulagen (Familienzulagengesetz)[^72-1] und/oder auf Kinder- und Familienzulage nach § 52 dieses Gesetzes hatten, haben weiterhin Anspruch auf den vor Inkrafttreten auf die vorgenannten Sozialzulagen entfallenden Anteil an der Treue- und Erfahrungszulage (Besitzstandswahrung). Dieser Anspruch auf den auf die Sozialzulagen entfallenden Anteil an der Treue- und Erfahrungszulage erlischt zeitgleich mit dem Ende des Anspruchs auf Kinder- oder Ausbildungszulagen nach Familienzulagengesetz bzw. dem Ende des Anspruchs auf Kinder- und Familienzulage nach § 52 dieses Gesetzes.
+
+<sup>12</sup> Für Mitarbeiterinnen und Mitarbeiter, die innert 5 Jahren nach Inkrafttreten der neuen Regelung über das Dienstaltersgeschenk (§ 54 dieses Gesetzes) ihr 25., 30. oder 35. Dienstjahr erreichen, gelten die bisherigen Regelungen zum Dienstaltersgeschenk inklusive des bisherigen § 19 Abs. 1 Personalverordnung betreffend die anteilige Ausrichtung des zweiten Dienstaltersgeschenks nach Erreichen des 30. Dienstjahrs (befristete Besitzstandswahrung).
+
+[^72-1]: SR [836.2](https://db.clex.ch/link/Bund/836.2/de)
 
 #### § 73
 
