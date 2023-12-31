@@ -4,11 +4,11 @@ title: Ordinanza del 31 ottobre 2007 sugli assegni familiari (OAFami)
 short: OAFami
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/52"
 language: it
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2007-10-31
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/52/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2008-52-20230901-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/52/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/52/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2008-52-20240101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/52/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/52/20230901/it"
 
 (OAFami)
 
-del 31 ottobre 2007 (Stato 1° settembre 2023)
+del 31 ottobre 2007 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -438,23 +438,25 @@ I seguenti servizi sono autorizzati ad accedere al registro degli assegni famili
 
 #### Art. 18h
 
-**Protezione dei dati e sicurezza informatica**
+**Protezione dei dati e sicurezza delle informazioni[^18h-1]**
 
 <sup>1</sup>
 
-La protezione dei dati e la sicurezza informatica sono retti:
+La protezione dei dati e la sicurezza delle informazioni sono rette:[^18h-2]
 
-- a.[^18h-1] dall’ordinanza del 31 agosto 2022[^18h-2] sulla protezione dei dati;
-- b.[^18h-3] l’ordinanza del 27 maggio 2020[^18h-4] sui ciber-rischi ;
-- c.[^18h-5] ...
+- a.[^18h-3] dall’ordinanza del 31 agosto 2022[^18h-4] sulla protezione dei dati;
+- b.[^18h-5] dall’ordinanza dell’8 novembre 2023[^18h-6] sulla sicurezza delle informazioni;
+- c.[^18h-7] ...
 
 <sup>2</sup> L’Ufficio centrale di compensazione, i servizi di cui all’articolo 21*c* LAFam e i datori di lavoro adottano le misure organizzative e tecniche necessarie a garantire la sicurezza dei dati.
 
-[^18h-1]: Nuovo testo giusta l’all. 2 n. II 121 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^18h-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^18h-3]: Nuovo testo giusta l’all. n. 18 dell’O del 25 nov. 2020 sulla trasformazione digitale e l’informatica, in vigore dal 1° gen. 2021 ([RU 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
-[^18h-4]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^18h-5]: Abrogata dall’all. n. 32 dell’O del 24 feb. 2021, con effetto dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^18h-1]: Nuovo testo giusta l’all. 2 n. II 40 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^18h-2]: Nuovo testo giusta l’all. 2 n. II 40 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^18h-3]: Nuovo testo giusta l’all. 2 n. II 121 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^18h-4]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^18h-5]: Nuovo testo giusta l’all. 2 n. II 40 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^18h-6]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^18h-7]: Abrogata dall’all. n. 32 dell’O del 24 feb. 2021, con effetto dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 18i
 

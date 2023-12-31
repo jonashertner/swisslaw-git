@@ -4,11 +4,11 @@ title: Verordnung vom 31. Oktober 2007 über die Familienzulagen (Familienzulage
 short: FamZV
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/52"
 language: de
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2007-10-31
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/52/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2008-52-20230901-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/52/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/52/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2008-52-20240101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/52/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/52/20230901/de"
 
 (Familienzulagenverordnung, FamZV)
 
-vom 31. Oktober 2007 (Stand am 1. September 2023)
+vom 31. Oktober 2007 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -433,23 +433,25 @@ Die folgenden Stellen haben mittels Abrufverfahren Zugang zum Familienzulagenreg
 
 #### Art. 18h
 
-**Datenschutz und Informatiksicherheit**
+**Datenschutz und Informationssicherheit[^18h-1]**
 
 <sup>1</sup>
 
-Der Datenschutz und die Informatiksicherheit richten sich nach:
+Der Datenschutz und die Informationssicherheit richten sich nach:[^18h-2]
 
-- a.[^18h-1] der Datenschutzverordnung vom 31. August 2022[^18h-2];
-- b.[^18h-3] der Cyberrisikenverordnung vom 27. Mai 2020[^18h-4];
-- c.[^18h-5] …
+- a.[^18h-3] der Datenschutzverordnung vom 31. August 2022[^18h-4];
+- b.[^18h-5] der Informationssicherheitsverordnung vom 8. November 2023[^18h-6];
+- c.[^18h-7] …
 
 <sup>2</sup> Die Zentrale Ausgleichsstelle, die Stellen nach Artikel 21*c* FamZG und die Arbeitgeber treffen die notwendigen organisatorischen und technischen Massnahmen zur Sicherung der Daten.
 
-[^18h-1]: Fassung gemäss Anhang 2 Ziff. II 121 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^18h-2]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^18h-3]: Fassung gemäss Anhang Ziff. 18 der V vom 25. Nov. 2020 über die digitale Transformation und die Informatik, in Kraft seit 1. Jan. 2021 ([AS 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
-[^18h-4]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^18h-5]: Aufgehoben durch Anhang Ziff. 32 der V vom 24. Febr. 2021, mit Wirkung seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^18h-1]: Fassung gemäss Anhang 2 Ziff. II 40 der Informationssicherheitsverordnung vom 8. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^18h-2]: Fassung gemäss Anhang 2 Ziff. II 40 der Informationssicherheitsverordnung vom 8. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^18h-3]: Fassung gemäss Anhang 2 Ziff. II 121 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^18h-4]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^18h-5]: Fassung gemäss Anhang 2 Ziff. II 40 der Informationssicherheitsverordnung vom 8. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^18h-6]: [SR 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^18h-7]: Aufgehoben durch Anhang Ziff. 32 der V vom 24. Febr. 2021, mit Wirkung seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 18i
 

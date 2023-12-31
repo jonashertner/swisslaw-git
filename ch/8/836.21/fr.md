@@ -4,11 +4,11 @@ title: Ordonnance du 31 octobre 2007 sur les allocations familiales (OAFam)
 short: OAFam
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/52"
 language: fr
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2007-10-31
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/52/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2008-52-20230901-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/52/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/52/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-52-20240101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/52/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/52/20230901/fr"
 
 (OAFam)
 
-du 31 octobre 2007 (État le 1<sup>er</sup> septembre 2023)
+du 31 octobre 2007 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -433,23 +433,25 @@ Les services suivants ont accès au registre des allocations familiales par une 
 
 #### Art. 18h
 
-**Protection des données et sécurité informatique**
+**Protection des données et sécurité de l’information[^18h-1]**
 
 <sup>1</sup>
 
-La protection des données et la sécurité informatique sont régies par les dispositions suivantes:
+La protection des données et la sécurité de l’information sont régies par les dispositions suivantes:[^18h-2]
 
-- a.[^18h-1] l’ordonnance du 31 août 2022 sur la protection des données[^18h-2];
-- b.[^18h-3] l’ordonnance du 27 mai 2020 sur les cyberrisques[^18h-4];
-- c.[^18h-5] …
+- a.[^18h-3] l’ordonnance du 31 août 2022 sur la protection des données[^18h-4];
+- b.[^18h-5] l’ordonnance du 8 novembre 2023 sur la sécurité de l’information[^18h-6];
+- c.[^18h-7] …
 
 <sup>2</sup> La Centrale de compensation, les services cités à l’art. 21*c* LAFam et les employeurs prennent les mesures organisationnelles et techniques nécessaires pour sécuriser les données.
 
-[^18h-1]: Nouvelle teneur selon l’annexe 2 ch. II 121 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^18h-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^18h-3]: Nouvelle teneur selon l’annexe ch. 18 de l’O du 25 nov. 2020 sur la coordination de la transformation numérique et la gouvernance de l’informatique dans l’administration fédérale, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
-[^18h-4]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^18h-5]: Abrogée par l’annexe ch. 32 de l’O du 24 fév. 2021, avec effet au 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^18h-1]: Nouvelle teneur selon l’annexe 2 ch. II 40 de l’O du 8 nov. 2023 sur la sécurité de l’information, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^18h-2]: Nouvelle teneur selon l’annexe 2 ch. II 40 de l’O du 8 nov. 2023 sur la sécurité de l’information, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^18h-3]: Nouvelle teneur selon l’annexe 2 ch. II 121 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^18h-4]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^18h-5]: Nouvelle teneur selon l’annexe 2 ch. II 40 de l’O du 8 nov. 2023 sur la sécurité de l’information, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^18h-6]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^18h-7]: Abrogée par l’annexe ch. 32 de l’O du 24 fév. 2021, avec effet au 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 18i
 
