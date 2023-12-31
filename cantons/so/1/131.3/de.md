@@ -3,20 +3,20 @@ canton: SO
 number: "131.3"
 title: Verzeichnis der solothurnischen Gemeinden
 language: de
-version: 2023-09-01
-valid_until: 2023-12-31
-version_adopted: 2023-05-10
+version: 2024-01-01
+valid_until: 2024-12-31
+version_adopted: 2023-09-13
 adopted: 1997-10-28
 in_force: 1997-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/131.3"
-pdf: "https://bgs.so.ch/api/de/versions/5400/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5425/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verzeichnis der solothurnischen Gemeinden
 
-Vom 28.10.1997 (Stand 01.09.2023)
+Vom 28.10.1997 (Stand 01.01.2024)
 
 Der Kantonsrat von Solothurn
 
@@ -70,6 +70,7 @@ beschliesst:
   - 3\. …
   - 4\. Kriegstetten
   - 5\. Oekingen
+  - 6\. Hüniken
 - h) Bezirk Gäu
   - 1\. Oberbuchsiten
 - i) Bezirk Olten
@@ -113,7 +114,7 @@ beschliesst:
   - 11\. …
   - 12\. Lüsslingen-Nennigkofen
   - 13 Lüterkofen-Ichertswil
-  - 14\. Lüterswil-Gächliwil
+  - 14\. …
   - 15\. …
   - 16\. …
   - 17\. …
@@ -132,7 +133,7 @@ beschliesst:
   - 9\. …
   - 10\. …
   - 11\. Horriwil
-  - 12\. Hüniken
+  - 12\. …
   - 13\. …
   - 14\. Lohn-Ammannsegg
   - 15\. Luterbach
@@ -272,7 +273,7 @@ beschliesst:
   - 10\. …
   - 11\. …
   - 12\. Horriwil
-  - 13\. Hüniken
+  - 13\. …
   - 14\. …
   - 15\. Lohn
   - 16\. Luterbach
@@ -381,7 +382,7 @@ beschliesst:
   - 5\. …
   - 6\. Luterbach (Luterbach)
   - 7\. Subingen (Subingen)
-  - 7\.<sup>bis</sup> Wasseramt West - Bucheggberg (Biberist, Biezwil, Buchegg, Drei Höfe: Ortsteile Heinrichswil und Hersiwil, Gerlafingen, Halten, Horriwil, Kriegstetten, Lohn-Ammannsegg, Lüsslingen-Nennigkofen, Lüterkofen-Ichertswil, Lüterswil-Gächliwil, Messen, Obergerlafingen, Oekingen, Recherswil, Schnottwil, Unterramsern)
+  - 7\.<sup>bis</sup> Wasseramt West - Bucheggberg (Biberist, Biezwil, Buchegg, Drei Höfe: Ortsteile Heinrichswil und Hersiwil, Gerlafingen, Halten, Horriwil, Kriegstetten, Lohn-Ammannsegg, Lüsslingen-Nennigkofen, Lüterkofen-Ichertswil, Messen, Obergerlafingen, Oekingen, Recherswil, Schnottwil, Unterramsern)
   - 8\. Zuchwil (Zuchwil)
 - c) Bezirk Thal
   - 1\. Aedermannsdorf (Aedermannsdorf)
@@ -455,7 +456,7 @@ beschliesst:
 <sup>1</sup> Im Kanton Solothurn bestehen folgende christkatholische Kirchgemeinden:
 
 - a) Bezirke Solothurn, Lebern, Bucheggberg und Wasseramt
-  - 1\. Solothurn (Aeschi, Balm bei Günsberg, Bellach, Biberist, Biezwil, Bolken, Buchegg, Deitingen, Derendingen, Drei Höfe, Etziken, Feldbrunnen-St. Niklaus, Flumenthal, Gerlafingen, Günsberg, Halten, Horriwil, Hubersdorf, Hüniken, Kammersrohr, Kriegstetten, Langendorf, Lohn-Ammannsegg, Lommiswil, Luterbach, Lüterkofen-Ichertswil, Lüterswil-Gächliwil, Lüsslingen-Nennigkofen, Messen, Oberdorf, Obergerlafingen, Oekingen, Recherswil, Riedholz, Rüttenen, Schnottwil, Solothurn, Subingen, Unterramsern, Zuchwil)
+  - 1\. Solothurn (Aeschi, Balm bei Günsberg, Bellach, Biberist, Biezwil, Bolken, Buchegg, Deitingen, Derendingen, Drei Höfe, Etziken, Feldbrunnen-St. Niklaus, Flumenthal, Gerlafingen, Günsberg, Halten, Horriwil, Hubersdorf, Hüniken, Kammersrohr, Kriegstetten, Langendorf, Lohn-Ammannsegg, Lommiswil, Luterbach, Lüterkofen-Ichertswil, Lüsslingen-Nennigkofen, Messen, Oberdorf, Obergerlafingen, Oekingen, Recherswil, Riedholz, Rüttenen, Schnottwil, Solothurn, Subingen, Unterramsern, Zuchwil)
   - 2\. Grenchen/Bettlach/Selzach (Bettlach, Grenchen, Selzach)
 - b) Bezirke Thal, Gäu, Olten und Gösgen
   - 1\. Region Olten (Aedermannsdorf, Balsthal, Boningen, Dulliken, Egerkingen, Fulenbach, Gunzgen, Hauenstein-Ifenthal, Hägendorf, Härkingen, Herbetswil, Holderbank, Kappel, Kestenholz, Laupersdorf, Matzendorf, Mümliswil-Ramiswil, Neuendorf, Niederbuchsiten, Oberbuchsiten, Oensingen, Olten, Rickenbach, Starrkirch-Wil, Trimbach, Wangen bei Olten, Welschenrohr-Gänsbrunnen, Winznau, Wisen, Wolfwil)
@@ -476,8 +477,8 @@ beschliesst:
 - b) Bezirk Bucheggberg
   - 1\. Aetingen-Mühledorf (Buchegg: Ortsteile Aetigkofen, Aetingen, Brügglen, Hessigkofen, Küttigkofen, Kyburg-Buchegg, Mühledorf und Tscheppach, Unterramsern)
   - 2\. Lüsslingen (Lüsslingen-Nennigkofen, Lüterkofen-Ichertswil)
-  - 3\. Messen (Bernische Gemeinden Fraubrunnen: Ortsteile Etzelkofen und Mülchi, Rapperswil: Ortsteil Ruppoldsried; solothurnische Gemeinden Lüterswil-Gächliwil: Ortsteil Gächliwil, Messen)
-  - 4\. Oberwil (Bernische Gemeinde Oberwil bei Büren; solothurnische Gemeinden Biezwil, Buchegg: Ortsteile Bibern und Gossliwil, Lüterswil-Gächliwil: Ortsteil Lüterswil, Schnottwil)
+  - 3\. Messen (Bernische Gemeinden Fraubrunnen: Ortsteile Etzelkofen und Mülchi, Rapperswil: Ortsteil Ruppoldsried; solothurnische Gemeinden Buchegg: Ortsteil Gächliwil, Messen)
+  - 4\. Oberwil (Bernische Gemeinde Oberwil bei Büren; solothurnische Gemeinden Biezwil, Buchegg: Ortsteile Bibern, Gossliwil und Lüterswil, Schnottwil)
 - c) Bezirk Wasseramt
   - 1\. Biberist-Gerlafingen (Biberist, Gerlafingen, Lohn-Ammannsegg, Obergerlafingen)
   - 2\. Wasseramt (Aeschi, Bolken, Deitingen, Derendingen, Drei Höfe, Etziken, Halten, Horriwil, Hüniken, Kriegstetten, Luterbach, Oekingen, Recherswil, Subingen, Zuchwil)
