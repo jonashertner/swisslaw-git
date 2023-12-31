@@ -4,11 +4,11 @@ title: "Loi fédérale du 19 mars 2010 sur l'organisation des autorités pénale
 short: LOAP
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/444"
 language: fr
-version: 2023-07-01
+version: 2024-01-01
 adopted: 2010-03-19
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/444/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-2010-444-20230701-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/444/20230701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/444/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2010-444-20240101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/444/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/444/20230701/fr"
 
 (Loi sur l’organisation des autorités pénales, LOAP)[^t-1]\*
 
-du 19 mars 2010 (État le 1<sup>er</sup> juillet 2023)
+du 19 mars 2010 (État le 1<sup>er</sup> janvier 2024)
 
 [^t-1]: <sup>\*</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -599,9 +599,11 @@ Ne peuvent être en même temps juges au Tribunal pénal fédéral:
 
 <sup>3</sup> Ils ne peuvent exercer aucune fonction officielle pour un État étranger ni accepter des titres ou des décorations octroyés par des autorités étrangères.
 
-<sup>4</sup> Ils ne peuvent pas représenter des tiers à titre professionnel devant les tribunaux.
+<sup>4</sup> Ils ne peuvent pas représenter des tiers à titre professionnel devant les tribunaux. Pour les juges suppléants cette règle ne s’applique que devant le Tribunal pénal fédéral.[^44-1]
 
 <sup>5</sup> Les juges à plein temps ne peuvent exercer aucune fonction au service d’un canton ni exercer aucune autre activité lucrative. Ils ne peuvent pas non plus être membres de la direction, de l’administration, de l’organe de surveillance ou de l’organe de révision d’une entreprise commerciale.
+
+[^44-1]: Nouvelle teneur selon l’annexe 1 ch. 3 de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 45
 

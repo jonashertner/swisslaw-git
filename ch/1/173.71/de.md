@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 19. März 2010 über die Organisation der Strafbehörde
 short: StBOG
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/444"
 language: de
-version: 2023-07-01
+version: 2024-01-01
 adopted: 2010-03-19
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/444/20230701/de/xml/fedlex-data-admin-ch-eli-cc-2010-444-20230701-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/444/20230701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/444/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2010-444-20240101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/444/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/444/20230701/de"
 
 (Strafbehördenorganisationsgesetz, StBOG)
 
-vom 19. März 2010 (Stand am 1. Juli 2023)
+vom 19. März 2010 (Stand am 1. Januar 2024)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -597,9 +597,11 @@ Dem Bundesstrafgericht dürfen nicht gleichzeitig als Richter oder Richterinnen 
 
 <sup>3</sup> Sie dürfen keine amtliche Funktion für einen ausländischen Staat ausüben und keine Titel und Orden ausländischer Behörden annehmen.
 
-<sup>4</sup> Sie dürfen Dritte nicht berufsmässig vor Gericht vertreten.
+<sup>4</sup> Sie dürfen nicht berufsmässig Dritte vor Gericht vertreten. Für nebenamtliche Richter und Richterinnen gilt dieses Verbot nur vor dem Bundesstrafgericht.[^44-1]
 
 <sup>5</sup> Richter und Richterinnen mit einem vollen Pensum dürfen kein Amt eines Kantons bekleiden und keine andere Erwerbstätigkeit ausüben. Sie dürfen auch nicht als Mitglied der Geschäftsleitung, der Verwaltung, der Aufsichtsstelle oder der Revisionsstelle eines wirtschaftlichen Unternehmens tätig sein.
+
+[^44-1]: Fassung gemäss Anhang 1 Ziff. 3 des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 45
 

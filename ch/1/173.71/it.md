@@ -4,11 +4,11 @@ title: "Legge federale del 19 marzo 2010 sull'organizzazione delle autorità pen
 short: LOAP
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/444"
 language: it
-version: 2023-07-01
+version: 2024-01-01
 adopted: 2010-03-19
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/444/20230701/it/xml/fedlex-data-admin-ch-eli-cc-2010-444-20230701-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/444/20230701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/444/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2010-444-20240101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/444/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/444/20230701/it"
 
 (Legge sull’organizzazione delle autorità penali, LOAP)
 
-del 19 marzo 2010 (Stato 1° luglio 2023)
+del 19 marzo 2010 (Stato 1° gennaio 2024)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -597,9 +597,11 @@ Non possono esercitare nel medesimo tempo la funzione di giudice del Tribunale p
 
 <sup>3</sup> Non possono esercitare alcuna funzione ufficiale per uno Stato estero né accettare titoli o decorazioni conferiti da autorità estere.
 
-<sup>4</sup> Non possono esercitare professionalmente la rappresentanza in giudizio.
+<sup>4</sup> Non possono esercitare professionalmente la rappresentanza in giudizio. Per i giudici non di carriera tale divieto si applica soltanto dinanzi al Tribunale penale federale.[^44-1]
 
 <sup>5</sup> I giudici a tempo pieno non possono esercitare alcuna funzione al servizio di un Cantone né altre attività lucrative. Non possono neppure essere membri della direzione, dell’amministrazione, dell’ufficio di vigilanza o dell’ufficio di revisione di un’impresa commerciale.
+
+[^44-1]: Nuovo testo giusta l’all. 1 n. 3 della LF del 17 giu. 2022, in vigore dal 1° gen. 2024 ([RU 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 5523](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 45
 
