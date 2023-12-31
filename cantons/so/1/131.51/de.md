@@ -4,13 +4,12 @@ number: "131.51"
 title: Verordnung über die Harmonisierung amtlicher Register
 short: RegV
 language: de
-version: 2015-01-01
-valid_until: 2023-12-31
-version_adopted: 2014-11-05
+version: 2024-01-01
+version_adopted: 2022-09-07
 adopted: 2008-03-12
 in_force: 2008-09-01
 url: "https://bgs.so.ch/app/de/texts_of_law/131.51"
-pdf: "https://bgs.so.ch/api/de/versions/4357/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5314/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.so.ch/api/de/versions/4357/pdf_file"
 
 (RegV)
 
-Vom 12.03.2008 (Stand 01.01.2015)
+Vom 12.03.2008 (Stand 01.01.2024)
 
 Der Kantonsrat von Solothurn
 
@@ -76,9 +75,9 @@ beschliesst:
 
 **Personalien der Schweizer Staatsangehörigen**
 
-<sup>1</sup> Als Grundlage der Erfassung der Schweizer Bürger und Bürgerinnen im Einwohnerregister dient ausschliesslich das Zivilstandsregister (Infostar/Heimatschein).
+<sup>1</sup> Als Grundlage der Erfassung der Schweizer Bürger und Bürgerinnen im Einwohnerregister dient ausschliesslich das schweizerische Zivilstandsregister (Infostar).
 
-<sup>2</sup> Die Personalien der Schweizer Staatsangehörigen sind so ins Einwohnerregister zu übernehmen, wie sie vom zuständigen Zivilstandsamt mitgeteilt werden.
+<sup>2</sup> Die Personalien der Schweizer Staatsangehörigen sind so ins Einwohnerregister zu übernehmen, wie sie in Infostar erfasst sind.
 
 <sup>3</sup> Zivilstandsereignisse, welche sich im Ausland ereignet haben, sind erst ins Einwohnerregister zu übertragen, wenn sie in der Schweiz anerkannt sind und vom Zivilstandsamt mitgeteilt werden.
 
