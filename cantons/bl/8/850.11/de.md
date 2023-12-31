@@ -4,13 +4,13 @@ number: "850.11"
 title: Sozialhilfeverordnung
 short: SHV
 language: de
-version: 2023-04-01
-valid_until: 2023-12-31
-version_adopted: 2022-11-29
+version: 2024-01-01
+valid_until: 2024-12-31
+version_adopted: 2023-12-12
 adopted: 2001-09-25
 in_force: 2002-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/850.11"
-pdf: "https://bl.clex.ch/api/de/versions/3460/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3788/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,16 +19,16 @@ pdf: "https://bl.clex.ch/api/de/versions/3460/pdf_file"
 
 (SHV)
 
-Vom 25.09.2001 (Stand 01.04.2023)
+Vom 25.09.2001 (Stand 01.01.2024)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
-gestützt auf § 74 Abs. 2 der Kantonsverfassung[^ingress-1] sowie gestützt auf die §§ 4c Abs. 3, 6 Abs. 3, 7 Abs. 3, 11 Abs. 4, 18 Abs. 1, 33 Abs. 4, 34 Abs. 2 und 42a Abs. 8 des Sozialhilfegesetzes (SHG) vom 21. Juni 2001[^ingress-2],
+gestützt auf § 74 Abs. 2 der Verfassung des Kantons Basel-Landschaft vom 17. Mai 1984[^ingress-1] und das Gesetz über die Sozial- und die Jugendhilfe (Sozialhilfegesetz, SHG) vom 21. Juni 2001[^ingress-2],
 
 beschliesst:
 
 [^ingress-1]: [SGS 100](https://bl.clex.ch/data/100/de/art74)
-[^ingress-2]: [SGS 850](https://bl.clex.ch/data/850/de/art4c)
+[^ingress-2]: [SGS 850](https://bl.clex.ch/data/850/de)
 
 ## 1 Allgemeine Bestimmungen
 
@@ -179,9 +179,9 @@ beschliesst:
 
 **Verfahren bei Zahnarztkosten**
 
-<sup>1</sup> Für Unterstützungen an die Aufwendungen für Zahnbehandlungen und Zahnsanierungen gemäss § 13 Bst. c und d ist der Sozialhilfebehörde ein Kostenvoranschlag einzureichen.
+<sup>1</sup> Für Unterstützungen an die Aufwendungen für Zahnbehandlungen und Zahnsanierungen gemäss § 13 Bst. c und d und § 14 kAV ist der Sozialhilfebehörde vor der Durchführung der Behandlung ein Kostenvoranschlag einzureichen. Ausgenommen sind die Fälle notfallmässig vorzunehmender, schmerzstillender Zahnbehandlungen.
 
-<sup>2</sup> Die Sozialhilfebehörde reicht den Kostenvoranschlag der zuständigen zahnärztlichen Person zur Plausibilitätsprüfung ein.
+<sup>2</sup> Die Sozialhilfebehörde entscheidet über die Gesuche bis CHF 300.– direkt. Höhere Kostenvoranschläge reicht die Sozialhilfebehörde der zuständigen zahnärztlichen Person zur Plausibilitätsprüfung ein. Die zahnärztliche Person erstattet der Sozialhilfebehörde Bericht nach Massgabe des Vertrags gemäss Abs. 3.
 
 <sup>3</sup> Die Finanz- und Kirchendirektion und die Volkswirtschafts- und Gesundheitsdirektion bestimmen gemeinsam die für die Sozialhilfebehörden zuständigen zahnärztlichen Personen aus dem Kreis der im Kanton praktizierenden Zahnärztinnen und Zahnärzte. Sie schliessen mit diesen einen Vertrag mit mindestens folgendem Inhalt ab:
 
