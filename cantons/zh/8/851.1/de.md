@@ -4,11 +4,10 @@ number: "851.1"
 title: Sozialhilfegesetz (SHG)
 short: SHG
 language: de
-version: "2023-01-01"
-nachtrag: "119"
-valid_until: 2024-01-01
+version: "2024-01-01"
+nachtrag: "123"
 adopted: 1981-06-14
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-851_1-1981_06_14-1982_01_01-119.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-851_1-1981_06_14-1982_01_01-123.html"
 text: pdf
 ---
 
@@ -66,7 +65,7 @@ A. Allgemeine Bestimmungen
 
 **1**
 
-- 1\. 1. 23 - 119 § 3 c.[^3-1] <sup>1</sup> Um die Eingliederung der Hilfesuchenden und ihre finanzielle Unabhängigkeit zu fördern, arbeiten die Sozialhilfeorgane mit anderen Leistungserbringern zusammen. Dazu gehören insbesondere die Organe der Arbeitslosenversicherung, der Invalidenversicherung und der Berufsberatung sowie private Organisationen.
+- 1\. 1. 24 - 123 § 3 c.[^3-1] <sup>1</sup> Um die Eingliederung der Hilfesuchenden und ihre finanzielle Unabhängigkeit zu fördern, arbeiten die Sozialhilfeorgane mit anderen Leistungserbringern zusammen. Dazu gehören insbesondere die Organe der Arbeitslosenversicherung, der Invalidenversicherung und der Berufsberatung sowie private Organisationen.
 
 **e. Interinstitutionelle Zusammenarbeit**
 
@@ -160,7 +159,7 @@ Die Ursachen einer Notlage sind zu ermitteln und nach Möglichkeit zu beseitigen
 
 **3**
 
-- 1\. 1. 23 - 119 d.[^hBBehördenundihre-2] Vertretung der Gemeinde in Strafverfahren wegen unrechtmässiger Erwirkung von Sozialhilfeleistungen.
+- 1\. 1. 24 - 123 d.[^hBBehördenundihre-2] Vertretung der Gemeinde in Strafverfahren wegen unrechtmässiger Erwirkung von Sozialhilfeleistungen.
 
 <sup>2</sup> Die Fürsorgebehörde arbeitet mit andern öffentlichen und privaten sozialen Institutionen zusammen.
 
@@ -261,7 +260,7 @@ Wer für seinen Lebensunterhalt und den seiner Familienangehörigen mit gleichem
 
 **5**
 
-- 1\. 1. 23 - 119
+- 1\. 1. 24 - 123
 
 <sup>2</sup> Sobald ein Wechsel zu einer günstigeren Versicherung möglich und zumutbar ist, sind die Sozialhilfeorgane verpflichtet, die Sozialhilfebeziehenden zu einem Wechsel anzuhalten und gegebenenfalls bei einem Wechsel zu unterstützen.
 
@@ -341,7 +340,7 @@ Die wirtschaftliche Hilfe kann weder verpfändet noch abgetreten werden. Sie dar
 
 **7**
 
-- 1\. 1. 23 - 119
+- 1\. 1. 24 - 123
 
 <sup>2</sup> Die Fürsorgebehörde kann von Sozial- oder Privatversicherungen sowie von haftpflichtigen oder anderen Dritten verlangen, dass rückwirkende Leistungen im rückerstattungspflichtigen Umfang direkt an die Fürsorgebehörde ausbezahlt werden.
 
@@ -431,7 +430,7 @@ Die wirtschaftliche Hilfe kann weder verpfändet noch abgetreten werden. Sie dar
 
 **9**
 
-- 1\. 1. 23 - 119
+- 1\. 1. 24 - 123
 
 - b. der Hilfeempfänger aus Erbschaft, Lotteriegewinn oder anderen nicht auf eigene Arbeitsleistung zurückzuführenden Gründen in finanziell günstige Verhältnisse gelangt; in Fällen eigener Arbeitsleistung nur dann, wenn diese zu derart günstigen Verhältnissen führt, dass ein Verzicht auf Rückerstattung, unter Berücksichtigung der Gründe des Hilfebezugs, als unbillig erscheint,
 
@@ -514,7 +513,7 @@ Die Aufenthaltsgemeinde ist zur Hilfeleistung verpflichtet, solange die Wohngeme
 
 <sup>2</sup> Wenn die Eltern keinen gemeinsamen zivilrechtlichen Wohnsitz haben, teilt es den Wohnsitz jenes Elternteils, bei dem es wohnt.
 
-<sup>3</sup> Es hat einen eigenen Wohnsitz a. am Sitz der KESB gemäss § 41 des Einführungsgesetzes zum Kindes- und Erwachsenenschutzrecht vom 25. Juni 2012[^34-3],
+<sup>3</sup> Es hat einen eigenen Wohnsitz a. am Sitz der KESB gemäss § 41 des Einführungsgesetzes zum Kindes- und Erwachsenenschutzrecht vom 25. Juni 2012,
 
 - b. am Ort nach § 34, wenn es erwerbstätig und in der Lage ist, für seinen Lebensunterhalt selber aufzukommen,
 
@@ -526,7 +525,7 @@ Die Aufenthaltsgemeinde ist zur Hilfeleistung verpflichtet, solange die Wohngeme
 
 **11**
 
-- 1\. 1. 23 - 119 § 38.[^34-4] <sup>1</sup> Der Wohnsitz endet mit dem Wegzug aus der Gemeinde.
+- 1\. 1. 24 - 123 § 38.[^34-3] <sup>1</sup> Der Wohnsitz endet mit dem Wegzug aus der Gemeinde.
 
 **e. Beendigung26**
 
@@ -542,8 +541,7 @@ Die Aufenthaltsgemeinde ist zur Hilfeleistung verpflichtet, solange die Wohngeme
 
 [^34-1]: Fassung gemäss Einführungsgesetz zum Kindes- und Erwachsenenschutzrecht vom 25. Juni 2012 (OS 67, 443; ABl 2011, 2567). In Kraft seit 1. Januar 2013.
 [^34-2]: Fassung gemäss G über die Anpassung des kantonalen Rechts an das Partnerschaftsgesetz des Bundes vom 9. Juli 2007 (OS 62, 429; ABl 2006, 1703). In Kraft seit 1. Januar 2008.
-[^34-3]: LS 232.3.
-[^34-4]: Fassung gemäss Gesetz vom 4. Dezember 1994 (OS 53, 43). In Kraft seit 1. Februar 1995 (OS 53, 45).
+[^34-3]: Fassung gemäss Gesetz vom 4. Dezember 1994 (OS 53, 43). In Kraft seit 1. Februar 1995 (OS 53, 45).
 
 #### § 40
 
@@ -600,12 +598,12 @@ Bei Widerhandlung gegen das Verbot der Abschiebung bleibt die fehlbare Gemeinde 
 
 <sup>2</sup> Ausnahmsweise können Beiträge für andere Einrichtungen geleistet werden, die der Betreuung von Hilfebedürftigen dienen.
 
-<sup>3</sup> Die Beitragsgewährung richtet sich nach § 19 des Gesetzes über Invalideneinrichtungen für erwachsene Personen[^46-1].[^46-2]
+<sup>3</sup> Die Art der Beitragsgewährung richtet sich nach den Bestimmungen des Gesetzes über den selbstbestimmten Leistungsbezug durch Menschen mit Behinderung vom 28. Februar 2022 (SLBG)[^46-1].[^46-2]
 
 <sup>4</sup> Beiträge nach diesem Gesetz sind ausgeschlossen, wenn eine andere kantonale Rechtsgrundlage für Beitragsleistungen besteht.
 
-[^46-1]: LS 855.2.
-[^46-2]: Fassung gemäss Gesetz über Invalideneinrichtungen für erwachsene Personen vom 1. Oktober 2007 (OS 62, 584; ABl 2007, 864). In Kraft seit 1. Januar 2008.
+[^46-1]: LS 831.5.
+[^46-2]: Fassung gemäss Selbstbestimmungsgesetz vom 28. Febuar 2022 (OS 78, 81; ABl 2021-04-09). In Kraft seit 1. Januar 2024. 1. 1. 24 - 123 19
 [^46-3]: Fassung gemäss G vom 15. Juni 2020 (OS 76, 228; ABl 2019-09-20). In Kraft seit 1. Juli 2021.
 
 ### G. Schweigepflicht, Informationen, Auskünfte und Observation
@@ -628,7 +626,7 @@ Bei Widerhandlung gegen das Verbot der Abschiebung bleibt die fehlbare Gemeinde 
 
 **13**
 
-- 1\. 1. 23 - 119 § 47 b.[^hGSchweigepflicht-2] <sup>1</sup> Die Verwaltungsbehörden des Kantons und seiner Gemeinden sowie die mit der Erfüllung öffentlicher Aufgaben betrauten Organisationen und Personen sind verpflichtet, den Sozialhilfeorganen von sich aus mitzuteilen, wenn nach Wahrnehmungen in ihrer amtlichen Tätigkeit ein konkreter und für den Fall erheblicher Verdacht auf unrechtmässige Erwirkung von Sozialhilfeleistungen besteht. Die Gerichte und Notariate sowie die Ombudsstellen und Datenschutzbeauftragten von Kanton und Gemeinden sind unter den gleichen Voraussetzungen ermächtigt, den Sozialhilfeorganen von sich aus Mitteilung zu machen.
+- 1\. 1. 24 - 123 § 47 b.[^hGSchweigepflicht-2] <sup>1</sup> Die Verwaltungsbehörden des Kantons und seiner Gemeinden sowie die mit der Erfüllung öffentlicher Aufgaben betrauten Organisationen und Personen sind verpflichtet, den Sozialhilfeorganen von sich aus mitzuteilen, wenn nach Wahrnehmungen in ihrer amtlichen Tätigkeit ein konkreter und für den Fall erheblicher Verdacht auf unrechtmässige Erwirkung von Sozialhilfeleistungen besteht. Die Gerichte und Notariate sowie die Ombudsstellen und Datenschutzbeauftragten von Kanton und Gemeinden sind unter den gleichen Voraussetzungen ermächtigt, den Sozialhilfeorganen von sich aus Mitteilung zu machen.
 
 **Informationen an Sozialhilfeorgane**
 
@@ -702,7 +700,7 @@ Bei Widerhandlung gegen das Verbot der Abschiebung bleibt die fehlbare Gemeinde 
 
 **15**
 
-- 1\. 1. 23 - 119
+- 1\. 1. 24 - 123
 
 <sup>3</sup> Die Sozialhilfeorgane können Spezialistinnen und Spezialisten mit der Observation beauftragen. Diese unterstehen der gleichen Sorgfalts- und Schweigepflicht wie die auftraggebenden Sozialhilfeorgane.
 
@@ -718,7 +716,7 @@ Bei Widerhandlung gegen das Verbot der Abschiebung bleibt die fehlbare Gemeinde 
 [^hGSchweigepflicht-2]: Eingefügt durch G vom 12. Juli 2010 (OS 66, 839; ABl 2009, 1834). In Kraft seit 1. Januar 2012.
 [^hGSchweigepflicht-3]: Fassung gemäss G vom 13. Januar 2020 (OS 75, 337; ABl 2019-04-12). In Kraft seit 1. Juli 2020.
 [^hGSchweigepflicht-4]: Eingefügt durch G vom 15. Juni 2020 (OS 76, 228; ABl 2019-09-20). In Kraft seit 1. Juli 2021.
-[^hGSchweigepflicht-5]: Fassung gemäss G vom 30. Mai 2022 (OS 77, 551; ABl 2022-01-28). In Kraft seit 1. Januar 2023. 1. 1. 23 - 119 19
+[^hGSchweigepflicht-5]: Fassung gemäss G vom 30. Mai 2022 (OS 77, 551; ABl 2022-01-28). In Kraft seit 1. Januar 2023.
 
 ### H. Strafbestimmungen und Parteirechte
 
@@ -802,7 +800,7 @@ Gemeinden, die bisher die Armenfürsorge gemeinsam besorgt haben, regeln ihren Z
 
 **17**
 
-- 1\. 1. 23 - 119
+- 1\. 1. 24 - 123
 
 [^55-1]: In Kraft seit 1. Januar 1982 (OS 48, 264).
 
@@ -812,4 +810,5 @@ Die Informationen nach §§ 47 a–47 d sowie die Auskünfte auf Ersuchen nach �
 
 ## Weitere Fussnoten
 
+- [3] LS 855.2.
 - [26] Formale Anpassung der Marginalien gemäss G vom 12. Juli 2010 (OS 66, 839; ABl 2009, 1834). In Kraft seit 1. Januar 2012.
