@@ -4,7 +4,7 @@ number: "172.315.3"
 title: RÈGLEMENT du 28.11.2008 relatif à la rémunération de certains collaborateurs et magistrats de l’Etat de Vaud (RRCM)
 short: RRCM
 language: fr
-version: 2017-06-01
+version: 2024-01-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/172.315.3?id=634c03e6-075e-42fe-863e-81abe0b41d4d"
 ---
 
@@ -178,6 +178,6 @@ Annexes [^14-1]
 
 1
 
-[Echelle des salaires avril 2017](https://prestations.vd.ch/pub/blv-publication/api/actes/634c03e6-075e-42fe-863e-81abe0b41d4d/annexes/1?dmev=01.06.2017)
+[Echelle des salaires 2024](https://prestations.vd.ch/pub/blv-publication/api/actes/634c03e6-075e-42fe-863e-81abe0b41d4d/annexes/1?dmev=01.01.2024)
 
 [^14-1]: Modif. 1 du 16.12.2009: Modification Annexes, Ann. 1; entrée en vigueur au 01.01.2010 · Modif. 3 du 26.04.2017: Modification Annexes, Ann. 1; entrée en vigueur au 01.06.2017 · Modif. 4 du 31.01.2024: Modification Annexes, Ann. 1; entrée en vigueur au 01.01.2024 · Modif. 5 du 21.05.2025: Modification Annexes, Ann. 1; entrée en vigueur au 01.01.2025
