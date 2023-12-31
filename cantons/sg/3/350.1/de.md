@@ -4,13 +4,12 @@ number: "350.1"
 title: "Einführungsgesetz zur Bundesgesetzgebung über die Alters-, Hinterlassenen- und Invalidenversicherung"
 short: EG-AHV
 language: de
-version: 2012-06-26
-valid_until: 2023-12-31
-version_adopted: 2012-06-26
+version: 2024-01-01
+version_adopted: 2023-08-08
 adopted: 1994-01-13
 in_force: 1995-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/350.1"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/1174/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3541/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/1174/pdf_file"
 
 (EG-AHV)
 
-vom 13.01.1994 (Stand 26.06.2012)
+vom 13.01.1994 (Stand 01.01.2024)
 
 Der Grosse Rat des Kantons St.Gallen
 
@@ -202,9 +201,13 @@ als Gesetz:[^ingress-3]
 
 **Alters- und Hinterlassenenversicherung**
 
-<sup>1</sup> Der Staat übernimmt den Mindestbeitrag für Versicherte, denen die Bezahlung nach der Bundesgesetzgebung über die Alters- und Hinterlassenenversicherung[^14-1] erlassen worden ist.
+<sup>1</sup> Die politischen Gemeinden übernehmen den Mindestbeitrag für Versicherte, denen die Bezahlung nach der Bundesgesetzgebung über die Alters- und Hinterlassenenversicherung[^14-1] erlassen worden ist.
 
-<sup>2</sup> Die politische Gemeinde, in welcher der beitragspflichtige Versicherte wohnt, bezeichnet die zuständige Stelle, die vor Erlass des Mindestbeitrags an die Alters- und Hinterlassenenversicherung angehört wird.[^14-2]
+<sup>1<sup>bis</sup></sup> Die während eines Jahres erlassenen Mindestbeiträge werden proportional auf die politischen Gemeinden verteilt. Der Anteil der politischen Gemeinden ergibt sich aus dem Anteil der in der Gemeinde wohnhaften Sozialhilfebeziehenden im Alter von 20 bis 65 Jahren an den Sozialhilfebeziehenden aller politischen Gemeinden gemäss der Erhebung der Fachstelle für Statistik für das Vorjahr.
+
+<sup>1<sup>ter</sup></sup> Die Sozialversicherungsanstalt stellt der politischen Gemeinde jeweils im Januar des Folgejahres ihren Anteil in Rechnung.
+
+<sup>2</sup> Die politische Gemeinde, in welcher die oder der beitragspflichtige Versicherte wohnt, bezeichnet die zuständige Stelle, die vor Erlass des Mindestbeitrags an die Alters- und Hinterlassenenversicherung angehört wird.[^14-2]
 
 [^14-1]: Art. 11 Abs. 2 des BG über die Alters- und Hinterlassenenversicherung vom 20. Dezember 1946, SR [831.10](https://db.clex.ch/link/Bund/831.10/de).
 [^14-2]: Art. 11 Abs. 2 des BG über die Alters- und Hinterlassenenversicherung vom 20. Dezember 1946, SR [831.10](https://db.clex.ch/link/Bund/831.10/de).
