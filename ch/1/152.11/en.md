@@ -3,11 +3,11 @@ sr: "152.11"
 title: Ordinance of 8 September 1999 to the Federal Act on Archiving (Archiving Ordinance)
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/371"
 language: en
-version: 2023-09-01
+version: 2024-01-01
 adopted: 1999-09-08
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/371/20230901/en/xml/fedlex-data-admin-ch-eli-cc-1999-371-20230901-en-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/371/20230901/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/371/20240101/en/xml/fedlex-data-admin-ch-eli-cc-1999-371-20240101-en-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/371/20240101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Archiving Ordinance)
 
-of 8 September 1999 (Status as of 1 September 2023)
+of 8 September 1999 (Status as of 1 January 2024)
 
 The Swiss Federal Council,
 
@@ -521,7 +521,7 @@ Annex 3[^t-3]
 
 ## List of Archive Records with Extended Retention Periods
 
-[^t-3]: Amended by No I of the FDHA O of 21 Nov. 2022, in force since 1 Jan. 2023 ([AS 2022 710](https://fedlex.data.admin.ch/eli/oc/2022/710)).
+[^t-3]: Amended by No I of the FDHA O of 25 Oct. 2023, in force since 1 Jan. 2024 ([AS 2023 638](https://fedlex.data.admin.ch/eli/oc/2023/638)).
 
 (Art. 12 para. 1 ArchA)
 
