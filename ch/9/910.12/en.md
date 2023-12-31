@@ -3,11 +3,11 @@ sr: "910.12"
 title: Ordinance of 28 May 1997 on the Protection of Designations of Origin and Geographical Indications for Agricultural Products and Processed Agricultural Products (PDO/PGI Ordinance)
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/1198_1198_1198"
 language: en
-version: 2023-09-01
+version: 2024-01-01
 adopted: 1997-05-28
 in_force: 1997-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/1198_1198_1198/20230901/en/xml/fedlex-data-admin-ch-eli-cc-1997-1198_1198_1198-20230901-en-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/1198_1198_1198/20230901/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/1198_1198_1198/20240101/en/xml/fedlex-data-admin-ch-eli-cc-1997-1198_1198_1198-20240101-en-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/1198_1198_1198/20240101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (PDO/PGI Ordinance)
 
-of 28 May 1997 (Status as of 1 September 2023)
+of 28 May 1997 (Status as of 1 January 2024)
 
 [^t-1]: Amended by No I of the O of 16 Sept. 2016, in force since 1 Jan. 2017 ([AS 2016 3281](https://fedlex.data.admin.ch/eli/oc/2016/558)).
 
@@ -226,12 +226,14 @@ It may also contain the following information:
 
 - a. specific elements of the labelling;
 - b. a description of any specific shape of the product;
-- c. elements of the packaging, where the applicant group is able to justify that the packaging is necessary in order to ensure product quality, as well as to guarantee traceability or control in the defined geographical area.[^7-4]
+- c. elements of the packaging, where the applicant group is able to justify that the packaging is necessary in order to ensure product quality, as well as to guarantee traceability or control in the defined geographical area;
+- d.[^7-4] the requirement that the processing, pre-packaging and labelling be checked by one or more certification bodies in accordance with paragraph 1 letter e.[^7-5]
 
 [^7-1]: Amended by No I of the O of 16 Sept. 2016, in force since 1 Jan. 2017 ([AS 2016 3281](https://fedlex.data.admin.ch/eli/oc/2016/558)).
 [^7-2]: Amended by No I of the O of 29 Oct. 2014, in force since 1 Jan. 2015 ([AS 2014 3903](https://fedlex.data.admin.ch/eli/oc/2014/667)).
 [^7-3]: Repealed by No I of the O of 14 Nov. 2007, with effect from 1 Jan. 2008 ([AS 2007 6109](https://fedlex.data.admin.ch/eli/oc/2007/815)).
-[^7-4]: Inserted by No I of the O of 26 Nov. 2003 ([AS 2003 4867](https://fedlex.data.admin.ch/eli/oc/2003/716)). Amended by No I of the O of 14 Nov. 2007, in force since 1 Jan. 2008 ([AS 2007 6109](https://fedlex.data.admin.ch/eli/oc/2007/815)).
+[^7-4]: Inserted by No I of the O of 1 Nov. 2023, in force since 1 Jan. 2024 ([AS 2023 697](https://fedlex.data.admin.ch/eli/oc/2023/697)).
+[^7-5]: Inserted by No I of the O of 26 Nov. 2003 ([AS 2003 4867](https://fedlex.data.admin.ch/eli/oc/2003/716)). Amended by No I of the O of 14 Nov. 2007, in force since 1 Jan. 2008 ([AS 2007 6109](https://fedlex.data.admin.ch/eli/oc/2007/815)).
 
 #### Art. 8
 
@@ -353,11 +355,36 @@ The following amendments to the product specification shall be decided under the
 [^14-1]: Amended by No I of the O of 29 Oct. 2014, in force since 1 Jan. 2015 ([AS 2014 3903](https://fedlex.data.admin.ch/eli/oc/2014/667)).
 [^14-2]: Inserted by No I of the O of 29 Oct. 2014, in force since 1 Jan. 2015 ([AS 2014 3903](https://fedlex.data.admin.ch/eli/oc/2014/667)).
 
-## Section 2*a* Cancellation Procedure
+## Section 2*a*: Temporary Suspension of Individual Provisions of the Product Specification
 
 [^sec2a-1]
 
-[^sec2a-1]: Inserted by No I of the O of 26 Nov. 2003, in force since 1 Jan. 2004 ([AS 2003 4867](https://fedlex.data.admin.ch/eli/oc/2003/716)).
+[^sec2a-1]: Inserted by No I of the O of 1 Nov. 2023, in force since 1 Jan. 2024 ([AS 2023 697](https://fedlex.data.admin.ch/eli/oc/2023/697)).
+
+#### Art. 14a
+
+<sup>1</sup>
+
+The Federal Department of Economic Affairs, Education and Research (EAER) may in the following cases authorise by means of an ordinance a temporary suspension of individual provisions of the product specification that are set out in Article 7 paragraph 1 letters c and d:
+
+- a. in the case of extraordinary natural events that prevent compliance with specific points of the product specification for a specific period;
+- b. in response to official decisions based on federal or canton law, in particular relating to public or plant health, that prevent compliance with specific points of the product specification for a specific period.
+
+<sup>2</sup> The group shall apply to FOAG for a temporary suspension. The application must be accompanied by proof that the application has been approved by the representatives’ meeting of the group.
+
+<sup>3</sup> The group must prove that temporary suspension will have no direct effects on the principal physical, chemical, microbiological and organoleptic properties of the products or on its specific shape.
+
+<sup>4</sup> It must prove that appropriate measures are being taken to inform the public or the end consumers of the temporary suspension of the provisions.
+
+<sup>5</sup> The EAER may stipulate additional terms and conditions for the temporary suspension of provisions. In particular, it may restrict the suspension to part of the geographical area.
+
+<sup>6</sup> The temporary suspension may not last for more than one year; it may only be extended on the same grounds on one occasion*.*
+
+## Section 2*b* Cancellation Procedure
+
+[^sec2b-1]
+
+[^sec2b-1]: Originally section a. Inserted by No I of the O of 26 Nov. 2003, in force since 1 Jan. 2004 ([AS 2003 4867](https://fedlex.data.admin.ch/eli/oc/2003/716)).
 
 #### Art. 15
 
@@ -375,7 +402,7 @@ FOAG shall cancel the registration of a protected name:
 
 <sup>3</sup> Cancellation of the registration shall be published in the Swiss Official Gazette of Commerce.
 
-[^15-1]: Repealed by No I 10 of the O of 7 Dec. 1998 ([AS 1999 303](https://fedlex.data.admin.ch/eli/oc/1999/35)). Amended by No I of the O of 26 Nov. 2003, in force since 1 Jan. 2004 ([AS 2003 4867](https://fedlex.data.admin.ch/eli/oc/2003/716)).
+[^15-1]: Amended by No I of the O of 26 Nov. 2003, in force since 1 Jan. 2004 ([AS 2003 4867](https://fedlex.data.admin.ch/eli/oc/2003/716)).
 [^15-2]: Inserted by No I of the O of 29 Oct. 2014, in force since 1 Jan. 2015 ([AS 2014 3903](https://fedlex.data.admin.ch/eli/oc/2014/667)).
 [^15-3]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
 [^15-4]: Amended by Annex No 5 of the O of 14 Dec. 2018, in force since 1 Feb. 2019 ([AS 2019 155](https://fedlex.data.admin.ch/eli/oc/2019/23)).
@@ -443,7 +470,8 @@ No reference may be made to the use of a product with a protected name as an ing
 
 - a. the processed product contains other ingredients or components that are comparable with those with protected names; or
 - b. the ingredient or component does not add any essential characteristic to the processed product.[^17-3]
-- [tab] <sup>5</sup> In cases that are not prohibited by paragraph 4, if reference is made to the use of a product with a protected name, the graphical representation of a designation under Article 16*a* must not give the erroneous impression that the protected name is that of the processed product itself and not simply that of an ingredient or component.[^17-4]
+
+<sup>5</sup> In cases that are not prohibited by paragraph 4, if reference is made to the use of a product with a protected name, the graphical representation of a designation under Article 16*a* must not give the erroneous impression that the protected name is that of the processed product itself and not simply that of an ingredient or component.[^17-4]
 
 [^17-1]: Inserted by No I of the O of 29 Oct. 2014 ([AS 2014 3903](https://fedlex.data.admin.ch/eli/oc/2014/667)). Repealed by No I of the O of 11 Nov. 2020, with effect from 1 Jan. 2021 ([AS 2020 5445](https://fedlex.data.admin.ch/eli/oc/2020/950)).
 [^17-2]: Amended by No I of the O of 14 Nov. 2007, in force since 1 Jan. 2008 ([AS 2007 6109](https://fedlex.data.admin.ch/eli/oc/2007/815)).
@@ -474,12 +502,11 @@ No reference may be made to the use of a product with a protected name as an ing
 
 <sup>1bis</sup> …[^18-2]
 
-<sup>2</sup> The Federal Department of Economic Affairs, Education and Research[^18-3] shall lay down the minimum requirements for control procedures.[^18-4]
+<sup>2</sup> The EAER shall lay down the minimum requirements for control procedures.[^18-3]
 
 [^18-1]: Amended by No I of the O of 16 Sept. 2016, in force since 1 Jan. 2017 ([AS 2016 3281](https://fedlex.data.admin.ch/eli/oc/2016/558)).
 [^18-2]: Inserted by No I of the O of 11 Nov. 2020 ([AS 2020 5445](https://fedlex.data.admin.ch/eli/oc/2020/950)). Repealed by No I of the O of 3 Nov. 2021, with effect from 1 Jan. 2022 ([AS 2021 681](https://fedlex.data.admin.ch/eli/oc/2021/681)).
-[^18-3]: The name of this administrative unit was amended in application of Art. 16 para. 3 of the Publications Ordinance of 17 Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) on 1 Jan. 2013.
-[^18-4]: Inserted by No I 10 of the O of 7 Dec. 1998, in force since 1 Jan. 1999 ([AS 1999 303](https://fedlex.data.admin.ch/eli/oc/1999/35)).
+[^18-3]: Inserted by No I 10 of the O of 7 Dec. 1998 ([AS 1999 303](https://fedlex.data.admin.ch/eli/oc/1999/35)). Amended by No I of the O of 1 Nov. 2023, in force since 1 Jan. 2024 ([AS 2023 697](https://fedlex.data.admin.ch/eli/oc/2023/697))
 
 #### Art. 19
 
@@ -503,14 +530,15 @@ FOAG shall grant authorisation in response to a request, provided the certificat
   - 3\. complying with the directives issued by FOAG on the basis of Article 21*a* paragraph 5 in the event of irregularities,
   - 4\.[^19-3] complying with the provisions of the Data Protection Act of 25 September 2020[^19-4].
 
-<sup>3</sup> The certification bodies must also meet the requirements stipulated by the Federal Department of Economic Affairs, Education and Research on the basis of Article 18 paragraph 2.
+<sup>3</sup> The certification bodies must also meet the requirements stipulated by the EAER on the basis of Article 18 paragraph 2.[^19-5]
 
-- [tab] <sup>4</sup> FOAG may suspend or withdraw authorisation if the certification body fails to meet the requirements and conditions. It shall inform the Swiss Accreditation Service about the decision without delay.
+<sup>4</sup> FOAG may suspend or withdraw authorisation if the certification body fails to meet the requirements and conditions. It shall inform the Swiss Accreditation Service about the decision without delay.
 
 [^19-1]: Amended by No I of the O of 11 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 5445](https://fedlex.data.admin.ch/eli/oc/2020/950)).
 [^19-2]: [SR 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
 [^19-3]: Amended by Annex 2 No II 125 of the Data Protection Ordinance of 31 Aug. 2022, in force since 1 Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^19-4]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^19-5]: Amended by No I of the O of 1 Nov. 2023, in force since 1 Jan. 2024 ([AS 2023 697](https://fedlex.data.admin.ch/eli/oc/2023/697)).
 
 #### Art. 19a
 
@@ -605,7 +633,7 @@ FOAG’s monitoring activities include in particular:
 In doing so, FOAG shall verify in particular whether the certification body has and applies written procedures and templates for the following duties:
 
 - a. devising a risk-based strategy for the control of businesses;
-- b. exchanging information with other certification bodies or their third party agents and with the authorities entrusted with enforcement;
+- b. exchanging information with other certification bodies or their third-party agents and with the authorities entrusted with enforcement;
 - c. applying and following up the measures taken under Article 21*a* paragraph 5 in the event of irregularities or infringements;
 - d.[^21b-2] complying with the provisions of the Data Protection Act of 25 September 2020[^21b-3].
 

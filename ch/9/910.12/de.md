@@ -3,11 +3,11 @@ sr: "910.12"
 title: "Verordnung vom 28. Mai 1997 über den Schutz von Ursprungsbezeichnungen und geografischen Angaben für landwirtschaftliche Erzeugnisse, verarbeitete landwirtschaftliche Erzeugnisse, waldwirtschaftliche Erzeugnisse und verarbeitete waldwirtschaftliche Erzeugnisse (GUB/GGA-Verordnung)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/1198_1198_1198"
 language: de
-version: 2023-09-01
+version: 2024-01-01
 adopted: 1997-05-28
 in_force: 1997-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/1198_1198_1198/20230901/de/xml/fedlex-data-admin-ch-eli-cc-1997-1198_1198_1198-20230901-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/1198_1198_1198/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/1198_1198_1198/20240101/de/xml/fedlex-data-admin-ch-eli-cc-1997-1198_1198_1198-20240101-de-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/1198_1198_1198/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1997/1198_1198_1198/20230901/de"
 
 (GUB/GGA-Verordnung)[^t-1]
 
-vom 28. Mai 1997 (Stand am 1. September 2023)
+vom 28. Mai 1997 (Stand am 1. Januar 2024)
 
 [^t-1]: Fassung gemäss Ziff. I der V vom 16. Sept. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 3281](https://fedlex.data.admin.ch/eli/oc/2016/558)).
 
@@ -224,12 +224,14 @@ Es kann auch folgende Angaben enthalten:
 
 - a. die spezifischen Elemente der Kennzeichnung;
 - b. die Beschreibung einer allfälligen besonderen Form des Erzeugnisses;
-- c. die Elemente der Aufmachung, wenn die gesuchstellende Gruppierung begründen kann, dass die Aufmachung zur Wahrung der Produktequalität sowie zur Gewährleistung der Rückverfolgbarkeit oder der Kontrolle im abgegrenzten geografischen Gebiet erfolgen muss.[^7-4]
+- c. die Elemente der Aufmachung, wenn die gesuchstellende Gruppierung begründen kann, dass die Aufmachung zur Wahrung der Produktequalität sowie zur Gewährleistung der Rückverfolgbarkeit oder der Kontrolle im abgegrenzten geografischen Gebiet erfolgen muss;
+- d.[^7-4] die Verpflichtung, die Aufbereitung, Vorverpackung und Etikettierung durch eine oder mehrere Zertifizierungsstellen nach Absatz 1 Buchstabe e kontrollieren zu lassen.[^7-5]
 
 [^7-1]: Fassung gemäss Ziff. I der V vom 16. Sept. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 3281](https://fedlex.data.admin.ch/eli/oc/2016/558)).
 [^7-2]: Fassung gemäss Ziff. I der V vom 29. Okt. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 3903](https://fedlex.data.admin.ch/eli/oc/2014/667)).
 [^7-3]: Aufgehoben durch Ziff. I der V vom 14. Nov. 2007, mit Wirkung seit 1. Jan. 2008 ([AS 2007 6109](https://fedlex.data.admin.ch/eli/oc/2007/815)).
-[^7-4]: Eingefügt durch Ziff. I der V vom 26. Nov. 2003 ([AS 2003 4867](https://fedlex.data.admin.ch/eli/oc/2003/716)). Fassung gemäss Ziff. I der V vom 14. Nov. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6109](https://fedlex.data.admin.ch/eli/oc/2007/815)).
+[^7-4]: Eingefügt durch Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 697](https://fedlex.data.admin.ch/eli/oc/2023/697)).
+[^7-5]: Eingefügt durch Ziff. I der V vom 26. Nov. 2003 ([AS 2003 4867](https://fedlex.data.admin.ch/eli/oc/2003/716)). Fassung gemäss Ziff. I der V vom 14. Nov. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6109](https://fedlex.data.admin.ch/eli/oc/2007/815)).
 
 #### Art. 8
 
@@ -351,11 +353,36 @@ Folgende Änderungen des Pflichtenheftes werden im vereinfachten Verfahren entsc
 [^14-1]: Fassung gemäss Ziff. I der V vom 29. Okt. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 3903](https://fedlex.data.admin.ch/eli/oc/2014/667)).
 [^14-2]: Eingefügt durch Ziff. I der V vom 29. Okt. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 3903](https://fedlex.data.admin.ch/eli/oc/2014/667)).
 
-## Abschnitt 2*a*: Löschungsverfahren
+## 2*a*. Abschnitt: Vorübergehende Aussetzung einzelner Bestimmungen des Pflichtenhefts
 
 [^sec2a-1]
 
-[^sec2a-1]: Eingefügt durch Ziff. I der V vom 26. Nov. 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4867](https://fedlex.data.admin.ch/eli/oc/2003/716)).
+[^sec2a-1]: Eingefügt durch Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 697](https://fedlex.data.admin.ch/eli/oc/2023/697)).
+
+#### Art. 14a
+
+<sup>1</sup>
+
+Das Eidgenössische Departement für Wirtschaft, Bildung und Forschung (WBF) kann in folgenden Fällen auf dem Verordnungsweg eine vorübergehende Aussetzung einzelner Bestimmungen des Pflichtenhefts, die in Artikel 7 Absatz 1 Buchstaben c und d aufgeführt sind, bewilligen:
+
+- a. bei aussergewöhnlichen Naturereignissen, welche die Erfüllung bestimmter Punkte des Pflichtenhefts während eines bestimmten Zeitraums verhindern;
+- b. bei Behördenentscheiden, die sich auf eidgenössisches oder kantonales Recht stützen, namentlich im Bereich Gesundheit oder Pflanzengesundheit, welche die Einhaltung der Bestimmungen des Pflichtenhefts während eines bestimmten Zeitraums verhindern.
+
+<sup>2</sup> Die Gruppierung reicht beim BLW das Gesuch um vorübergehende Aussetzung ein. Dem Gesuch ist der Nachweis, dass das Gesuch von der Vertreterversammlung der Gruppierung angenommen wurde, beizulegen.
+
+<sup>3</sup> Die Gruppierung muss nachweisen, dass die vorübergehende Aussetzung keine direkten Auswirkungen auf die physischen, chemischen, mikrobiologischen oder organoleptischen Haupteigenschaften des Produkts oder auf seine besondere Form hat.
+
+<sup>4</sup> Sie muss nachweisen, dass geeignete Massnahmen getroffen werden, um die Öffentlichkeit oder die Endkonsumentinnen und -konsumenten über die vorübergehend ausgesetzten Bestimmungen zu informieren.
+
+<sup>5</sup> Das WBF kann weitere Bedingungen und Auflagen für die vorübergehende Aussetzung von Bestimmungen festlegen. Es kann namentlich die Aussetzung auf einen Teil des geografischen Gebiets beschränken.
+
+<sup>6</sup> Die vorübergehende Aussetzung darf nicht mehr als ein Jahr dauern; sie kann aus demselben Grund nur einmal in Folge verlängert werden*.*
+
+## 2*b*. Abschnitt: Löschungsverfahren
+
+[^sec2b-1]
+
+[^sec2b-1]: Ursrpünglich: Abschnitt 2*a*. Eingefügt durch Ziff. I der V vom 26. Nov. 2003, in Kraft seit 1. Jan. 2015 ([AS 2003 4867](https://fedlex.data.admin.ch/eli/oc/2003/716)).
 
 #### Art. 15
 
@@ -373,7 +400,7 @@ Das BLW löscht die Eintragung einer geschützten Bezeichnung:
 
 <sup>3</sup> Die Löschung der Eintragung wird im schweizerischen Handelsamtsblatt veröffentlicht.
 
-[^15-1]: Aufgehoben durch Ziff. I 10 der V vom 7. Dez. 1998 ([AS 1999 303](https://fedlex.data.admin.ch/eli/oc/1999/35)). Fassung gemäss Ziff. I der V vom 26. Nov. 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4867](https://fedlex.data.admin.ch/eli/oc/2003/716)).
+[^15-1]: Fassung gemäss Ziff. I der V vom 26. Nov. 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4867](https://fedlex.data.admin.ch/eli/oc/2003/716)).
 [^15-2]: Eingefügt durch Ziff. I der V vom 29. Okt. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 3903](https://fedlex.data.admin.ch/eli/oc/2014/667)).
 [^15-3]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
 [^15-4]: Fassung gemäss Anhang Ziff. 5 der V vom 14. Dez. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 155](https://fedlex.data.admin.ch/eli/oc/2019/23)).
@@ -473,12 +500,11 @@ In der Sachbezeichnung eines verarbeiteten Erzeugnisses oder in deren Nähe darf
 
 <sup>1bis</sup> …[^18-2]
 
-<sup>2</sup> Das Eidgenössische Departement für Wirtschaft, Bildung und Forschung[^18-3] legt die Mindestanforderungen an die Kontrolle fest.[^18-4]
+<sup>2</sup> Das WBF legt die Mindestanforderungen an die Kontrolle fest.[^18-3]
 
 [^18-1]: Fassung gemäss Ziff. I der V vom 16. Sept. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 3281](https://fedlex.data.admin.ch/eli/oc/2016/558)).
 [^18-2]: Eingefügt durch Ziff. I der V vom 11. Nov. 2020 ([AS 2020 5445](https://fedlex.data.admin.ch/eli/oc/2020/950)). Aufgehoben durch Ziff. I der V vom 3. Nov. 2021, mit Wirkung seit 1. Jan. 2022 ([AS 2021 681](https://fedlex.data.admin.ch/eli/oc/2021/681)).
-[^18-3]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) auf den 1. Jan. 2013 angepasst.
-[^18-4]: Eingefügt durch Ziff. I 10 der V vom 7. Dez. 1998, in Kraft seit 1. Jan. 1999 ([AS 1999 303](https://fedlex.data.admin.ch/eli/oc/1999/35)).
+[^18-3]: Eingefügt durch Ziff. I 10 der V vom 7. Dez. 1998 ([AS 1999 303](https://fedlex.data.admin.ch/eli/oc/1999/35)). Fassung gemäss Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 697](https://fedlex.data.admin.ch/eli/oc/2023/697)).
 
 #### Art. 19
 
@@ -502,7 +528,7 @@ Das BLW erteilt die Zulassung auf Gesuch hin, wenn die Zertifizierungsstelle:
   - 3\. Befolgung der vom BLW gestützt auf Artikel 21*a* Absatz 5 erlassenen Weisungen im Falle von Unregelmässigkeiten;
   - 4\.[^19-3] Einhaltung der Vorschriften des Datenschutzgesetzes vom 25. September 2020[^19-4].
 
-<sup>3</sup> Die Zertifizierungsstellen müssen zudem die vom Eidgenössischen Departement für Wirtschaft, Bildung und Forschung gestützt auf Artikel 18 Absatz 2 festgelegten Anforderungen erfüllen.
+<sup>3</sup> Die Zertifizierungsstellen müssen zudem die vom WBF nach Artikel 18 Absatz 2 festgelegten Anforderungen erfüllen.[^19-5]
 
 <sup>4</sup> Das BLW kann die Zulassung sistieren oder entziehen, wenn die Zertifizierungsstelle die Anforderungen und die Auflagen nicht erfüllt. Es informiert die Schweizerische Akkreditierungsstelle umgehend über den Entscheid.
 
@@ -510,6 +536,7 @@ Das BLW erteilt die Zulassung auf Gesuch hin, wenn die Zertifizierungsstelle:
 [^19-2]: [SR 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
 [^19-3]: Fassung gemäss Anhang 2 Ziff. II 125 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^19-4]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^19-5]: Fassung gemäss Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 697](https://fedlex.data.admin.ch/eli/oc/2023/697)).
 
 #### Art. 19a
 

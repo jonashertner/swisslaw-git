@@ -3,11 +3,11 @@ sr: "910.12"
 title: "Ordinanza del 28 maggio 1997 sulla protezione delle denominazioni di origine e delle indicazioni geografiche dei prodotti agricoli, dei prodotti agricoli trasformati, dei prodotti silvicoli e dei prodotti silvicoli trasformati (Ordinanza DOP/IGP)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/1198_1198_1198"
 language: it
-version: 2023-09-01
+version: 2024-01-01
 adopted: 1997-05-28
 in_force: 1997-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/1198_1198_1198/20230901/it/xml/fedlex-data-admin-ch-eli-cc-1997-1198_1198_1198-20230901-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/1198_1198_1198/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/1198_1198_1198/20240101/it/xml/fedlex-data-admin-ch-eli-cc-1997-1198_1198_1198-20240101-it-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/1198_1198_1198/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1997/1198_1198_1198/20230901/it"
 
 (Ordinanza DOP/IGP)[^t-1]
 
-del 28 maggio 1997 (Stato 1° settembre 2023)
+del 28 maggio 1997 (Stato 1° gennaio 2024)
 
 [^t-1]: Nuovo testo giusta il n. I dell’O del 16 set. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3281](https://fedlex.data.admin.ch/eli/oc/2016/558)).
 
@@ -223,12 +223,14 @@ Esso può pure comprendere le indicazioni seguenti:
 
 - a. gli elementi specifici dell’etichettatura;
 - b. la descrizione di un’eventuale forma particolare del prodotto;
-- c. gli elementi relativi al confezionamento se il raggruppamento richiedente può giustificare che questo, al fine di salvaguardare la qualità del prodotto nonché di garantirne la tracciabilità o il controllo, deve essere effettuato nell’area geografica determinata.[^7-4]
+- c. gli elementi relativi al confezionamento se il raggruppamento richiedente può giustificare che questo, al fine di salvaguardare la qualità del prodotto nonché di garantirne la tracciabilità o il controllo, deve essere effettuato nell’area geografica determinata;
+- d.[^7-4] l’obbligo di fare controllare la fabbricazione, il preconfezionamento e l’etichettatura da uno o più organismi di certificazione di cui al capoverso 1 lettera e.[^7-5]
 
 [^7-1]: Nuovo testo giusta il n. I dell’O del 16 set. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3281](https://fedlex.data.admin.ch/eli/oc/2016/558)).
 [^7-2]: Nuovo testo giusta il n. I dell’O del 29 ott. 2014, in vigore dal 1° gen. 2015 ([RU 2014 3903](https://fedlex.data.admin.ch/eli/oc/2014/667)).
 [^7-3]: Abrogata dal n. I dell’O del 14 nov. 2007, con effetto dal 1° gen. 2008 ([RU 2007 6109](https://fedlex.data.admin.ch/eli/oc/2007/815)).
-[^7-4]: Introdotto dal n. I dell’O del 26 nov. 2003 ([RU 2003 4867](https://fedlex.data.admin.ch/eli/oc/2003/716)). Nuovo testo giusta il n. I dell’O del 14 nov. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6109](https://fedlex.data.admin.ch/eli/oc/2007/815)).
+[^7-4]: Introdotta dal n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 697](https://fedlex.data.admin.ch/eli/oc/2023/697)).
+[^7-5]: Introdotto dal n. I dell’O del 26 nov. 2003 ([RU 2003 4867](https://fedlex.data.admin.ch/eli/oc/2003/716)). Nuovo testo giusta il n. I dell’O del 14 nov. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6109](https://fedlex.data.admin.ch/eli/oc/2007/815)).
 
 #### Art. 8
 
@@ -350,11 +352,36 @@ Le seguenti modifiche dell’elenco degli obblighi sono oggetto di una procedura
 [^14-1]: Nuovo testo giusta il n. I dell’O del 29 ott. 2014, in vigore dal 1° gen. 2015 ([RU 2014 3903](https://fedlex.data.admin.ch/eli/oc/2014/667)).
 [^14-2]: Introdotto dal n. I dell’O del 29 ott. 2014, in vigore dal 1° gen. 2015 ([RU 2014 3903](https://fedlex.data.admin.ch/eli/oc/2014/667)).
 
-## Sezione 2*a*: Procedura di cancellazione
+## Sezione 2*a*: Sospensione temporanea di determinate disposizioni dell’elenco degli obblighi
 
 [^sec2a-1]
 
-[^sec2a-1]: Introdotto dal n. I dell’O del 26 nov. 2007, in vigore dal 1° gen. 2004 ([RU 2003 4867](https://fedlex.data.admin.ch/eli/oc/2003/716)).
+[^sec2a-1]: Introdotto dal n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 697](https://fedlex.data.admin.ch/eli/oc/2023/697)).
+
+#### Art. 14a
+
+<sup>1</sup>
+
+Il Dipartimento federale dell’economia, della formazione e della ricerca (DEFR) può autorizzare, con un’ordinanza, una sospensione temporanea di determinate disposizioni dell’elenco degli obblighi elencate all’articolo 7 capoverso 1 lettere c e d nei casi seguenti:
+
+- a. eventi naturali eccezionali a causa dei quali è impossibile adempiere determinati punti dell’elenco degli obblighi per un determinato periodo;
+- b. decisioni delle autorità fondate sul diritto federale o cantonale, segnatamente in ambito sanitario o fitosanitario, a causa delle quali è impossibile rispettare delle disposizioni dell’elenco degli obblighi per un determinato periodo.
+
+<sup>2</sup> Il raggruppamento presenta all’UFAG la domanda di sospensione temporanea. Questa deve essere corredata della prova che è stata accolta dall’assemblea dei rappresentanti del raggruppamento.
+
+<sup>3</sup> Deve dimostrare che la sospensione temporanea non ha alcun effetto diretto sulle principali caratteristiche fisiche, chimiche, microbiologiche od organolettiche del prodotto né sulla sua forma distintiva.
+
+<sup>4</sup> Deve dimostrare che saranno prese misure adeguate per informare il pubblico o il consumatore finale sulle disposizioni sospese temporaneamente.
+
+<sup>5</sup> Il DEFR può fissare ulteriori condizioni e oneri in relazione alla sospensione temporanea delle disposizioni. In particolare può limitare la sospensione a una parte dell’area geografica.
+
+<sup>6</sup> La sospensione temporanea non può avere una durata superiore a un anno e può essere rinnovata soltanto una volta consecutivamente per lo stesso motivo.
+
+## Sezione 2*b*: Procedura di cancellazione
+
+[^sec2b-1]
+
+[^sec2b-1]: Originaria Sez. 2*a*. Introdotto dal n. I dell’O del 26 nov. 2007, in vigore dal 1° gen. 2004 ([RU 2003 4867](https://fedlex.data.admin.ch/eli/oc/2003/716)).
 
 #### Art. 15
 
@@ -473,11 +500,10 @@ Sono parimenti vietati:
 
 <sup>1bis</sup> ... [^18-1]
 
-<sup>2</sup> Il Dipartimento federale dell’economia, della formazione e della ricerca[^18-2] stabilisce le esigenze minime relative al controllo.[^18-3]
+<sup>2</sup> Il DEFR stabilisce le esigenze minime relative al controllo.[^18-2]
 
 [^18-1]: Introdotto dal n. I dell’O dell’11 nov. 2020 ([RU 2020 5445](https://fedlex.data.admin.ch/eli/oc/2020/950)). Abrogato dal n. I dell’O del 3 nov. 2021, con effetto dal 1° gen. 2022 ([RU 2021 681](https://fedlex.data.admin.ch/eli/oc/2021/681)).
-[^18-2]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° gen. 2013.
-[^18-3]: Introdotto dal n. I 10 dell’O del 7 dic. 1998, in vigore dal 1° gen. 1999 ([RU 1999 303](https://fedlex.data.admin.ch/eli/oc/1999/35)).
+[^18-2]: Introdotto dal n. I 10 dell’O del 7 dic. 1998 ([RU 1999 303](https://fedlex.data.admin.ch/eli/oc/1999/35)). Nuovo testo giusta il n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 697](https://fedlex.data.admin.ch/eli/oc/2023/697)).
 
 #### Art. 19
 
@@ -501,7 +527,7 @@ L’UFAG rilascia loro su richiesta l’autorizzazione se:
   - 3\. osservanza delle misure adottate dall’UFAG in virtù dell’articolo 21*a* capoverso 5 nel caso di irregolarità,
   - 4\.[^19-3] rispetto delle disposizioni della legge federale del 25 settembre 2020[^19-4] sulla protezione dei dati.
 
-<sup>3</sup> Gli organismi di certificazione devono inoltre adempiere le esigenze stabilite in virtù dell’articolo 18 capoverso 2 dal Dipartimento federale dell’economia, della formazione e della ricerca.
+<sup>3</sup> Gli organismi di certificazione devono inoltre adempiere le esigenze stabilite in virtù dell’articolo 18 capoverso 2 dal DEFR.[^19-5]
 
 <sup>4</sup> L’UFAG può sospendere o revocare l’autorizzazione di un organismo di certificazione se questo non soddisfa le esigenze e gli oneri. Informa immediatamente della sua decisione il Servizio d’accreditamento svizzero.
 
@@ -509,6 +535,7 @@ L’UFAG rilascia loro su richiesta l’autorizzazione se:
 [^19-2]: [RS 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
 [^19-3]: Nuovo testo giusta l’all. 2 n. II 125 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^19-4]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^19-5]: Nuovo testo giusta il n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 697](https://fedlex.data.admin.ch/eli/oc/2023/697)).
 
 #### Art. 19a
 

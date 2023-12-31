@@ -3,11 +3,11 @@ sr: "910.12"
 title: "Ordonnance du 28 mai 1997 concernant la protection des appellations d'origine et des indications géographiques des produits agricoles, des produits agricoles transformés, des produits sylvicoles et des produits sylvicoles transformés (Ordonnance sur les AOP et les IGP)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/1198_1198_1198"
 language: fr
-version: 2023-09-01
+version: 2024-01-01
 adopted: 1997-05-28
 in_force: 1997-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/1198_1198_1198/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-1997-1198_1198_1198-20230901-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/1198_1198_1198/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/1198_1198_1198/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-1997-1198_1198_1198-20240101-fr-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/1198_1198_1198/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1997/1198_1198_1198/20230901/fr"
 
 (Ordonnance sur les AOP et les IGP)[^t-1]
 
-du 28 mai 1997 (État le 1<sup>er</sup> septembre 2023)
+du 28 mai 1997 (État le 1<sup>er</sup> janvier 2024)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du 16 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 3281](https://fedlex.data.admin.ch/eli/oc/2016/558)).
 
@@ -224,19 +224,21 @@ Il peut également comprendre:
 
 - a. les éléments spécifiques de l’étiquetage;
 - b. la description de la forme distinctive du produit si elle existe;
-- c. les éléments relatifs au conditionnement, lorsque le groupement demandeur peut justifier que le conditionnement doit avoir lieu dans l’aire géographique délimitée afin de sauvegarder la qualité du produit et d’assurer la traçabilité ou le contrôle.[^7-3]
+- c. les éléments relatifs au conditionnement, lorsque le groupement demandeur peut justifier que le conditionnement doit avoir lieu dans l’aire géographique délimitée afin de sauvegarder la qualité du produit et d’assurer la traçabilité ou le contrôle;
+- d.[^7-3] l’obligation de faire contrôler la préparation, le préemballage et l’étiquetage par un ou plusieurs organismes de certification visés à l’al. 1, let. e.[^7-4]
 
 [^7-1]: Nouvelle teneur selon le ch. I de l’O du 16 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 3281](https://fedlex.data.admin.ch/eli/oc/2016/558)).
 [^7-2]: Abrogée par le ch. I de l’O du 14 nov. 2007, avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 6109](https://fedlex.data.admin.ch/eli/oc/2007/815)).
-[^7-3]: Introduit par le ch. I de l’O du 26 nov. 2003 ([RO 2003 4867](https://fedlex.data.admin.ch/eli/oc/2003/716)). Nouvelle teneur selon le ch. I de l’O du 14 nov. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6109](https://fedlex.data.admin.ch/eli/oc/2007/815)).
+[^7-3]: Introduite par le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 697](https://fedlex.data.admin.ch/eli/oc/2023/697)).
+[^7-4]: Introduit par le ch. I de l’O du 26 nov. 2003 ([RO 2003 4867](https://fedlex.data.admin.ch/eli/oc/2003/716)). Nouvelle teneur selon le ch. I de l’O du 14 nov. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6109](https://fedlex.data.admin.ch/eli/oc/2007/815)).
 
 #### Art. 8
 
 **Consultation**[^8-1]
 
-L’OFAG invite également les autorités cantonales et fédérales concernées à donner leur avis.
+L’OFAG invite les autorités cantonales et fédérales concernées à donner leur avis.
 
-[^8-1]: Nouvelle teneur selon l’annexe ch. 5 de l’O du 14 déc. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 155](https://fedlex.data.admin.ch/eli/oc/2019/23)).
+[^8-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 697](https://fedlex.data.admin.ch/eli/oc/2023/697)).
 
 #### Art. 8a
 
@@ -350,11 +352,36 @@ Les modifications suivantes du cahier des charges font l’objet d’une procéd
 [^14-1]: Nouvelle teneur selon le ch. I de lֹ’O du 29 oct. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 3903](https://fedlex.data.admin.ch/eli/oc/2014/667)).
 [^14-2]: Introduit par le ch. I de lֹ’O du 29 oct. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 3903](https://fedlex.data.admin.ch/eli/oc/2014/667)).
 
-## Section 2*a* Procédure de radiation
+## Section 2*a* Suspension temporaire de certaines dispositions du cahier des charges
 
 [^sec2a-1]
 
-[^sec2a-1]: Introduit par le ch. I de l’O du 26 nov. 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4867](https://fedlex.data.admin.ch/eli/oc/2003/716)).
+[^sec2a-1]: Introduite par le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 697](https://fedlex.data.admin.ch/eli/oc/2023/697)).
+
+#### Art. 14a
+
+<sup>1</sup>
+
+Le Département fédéral de l’économie, de la formation et de la recherche (DEFR) peut autoriser par voie d’ordonnance une suspension temporaire de certaines dispositions du cahier des charges énumérées à l’art. 7, al. 1, let. c et d, dans les cas suivants:
+
+- a. événements naturels exceptionnels empêchant de remplir certains points du cahier des charges pendant une période déterminée;
+- b. décisions des autorités fondées sur le droit fédéral ou cantonal, notamment dans le domaine sanitaire ou phytosanitaire, qui empêchent le respect des dispositions du cahier des charges pendant une période déterminée.
+
+<sup>2</sup> Le groupement dépose auprès de l’OFAG la demande de suspension temporaire. Cette dernière est assortie de la preuve qu’elle a été acceptée par l’assemblée des représentants du groupement.
+
+<sup>3</sup> Le groupement doit démontrer que la suspension temporaire n’a pas d’effet direct sur les principales caractéristiques physiques, chimiques, microbiologiques ou organoleptiques du produit ni sur sa forme distinctive.
+
+<sup>4</sup> Il doit démontrer que des mesures appropriées seront mises en place pour informer le public ou le consommateur final sur les dispositions suspendues temporairement.
+
+<sup>5</sup> Le DEFR peut fixer d’autres conditions et charges relatives à la suspension temporaire des dispositions. Il peut notamment limiter la suspension à une partie de l’aire géographique.
+
+<sup>6</sup> La durée de la suspension temporaire ne peut pas excéder un an et ne peut être renouvelée qu’une fois consécutivement pour la même raison.
+
+## Section 2*b* Procédure de radiation
+
+[^sec2b-1]
+
+[^sec2b-1]: Anciennement sec. 2*a*. Introduit par le ch. I de l’O du 26 nov. 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4867](https://fedlex.data.admin.ch/eli/oc/2003/716)).
 
 #### Art. 15
 
@@ -372,7 +399,7 @@ L’OFAG radie l’enregistrement d’une dénomination protégée:
 
 <sup>3</sup> La radiation est publiée dans la Feuille officielle suisse du commerce.
 
-[^15-1]: Abrogé par le ch. I 10 de l’O du 10 déc. 1998 ([RO 1999 303](https://fedlex.data.admin.ch/eli/oc/1999/35)). Nouvelle teneur selon le ch. I de l’O du 26 nov. 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4867](https://fedlex.data.admin.ch/eli/oc/2003/716)).
+[^15-1]: Nouvelle teneur selon le ch. I de l’O du 26 nov. 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4867](https://fedlex.data.admin.ch/eli/oc/2003/716)).
 [^15-2]: Introduite par le ch. I de lֹ’O du 29 oct. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 3903](https://fedlex.data.admin.ch/eli/oc/2014/667)).
 [^15-3]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
 [^15-4]: Nouvelle teneur selon l’annexe ch. 5 de l’O du 14 déc. 2018, en vigueur depuis le 1er fév. 2019 (RO 2019 155).
@@ -424,7 +451,7 @@ L’al. 1 vaut notamment:
 - b. si elle est traduite;
 - c. si elle est accompagnée d’une formule telle que «genre», «type», «méthode», «façon», «imitation», «selon la recette» ou d’une expression similaire;
 - d. si la provenance du produit est indiquée;
-- e.[^17-1] ...
+- e.[^17-1] …
 
 <sup>3</sup>
 
@@ -472,11 +499,10 @@ Toute référence à l’utilisation d’un produit bénéficiant d’une dénom
 
 <sup>1bis</sup> …[^18-1]
 
-<sup>2</sup> Le Département fédéral de l’économie, de la formation et de la recherche[^18-2] fixe les exigences minimales relatives au contrôle.[^18-3]
+<sup>2</sup> Le DEFR fixe les exigences minimales relatives au contrôle.[^18-2]
 
 [^18-1]: Introduit par le ch. I de l’O du 11 nov. 2020 ([RO 2020 5445](https://fedlex.data.admin.ch/eli/oc/2020/950)). Abrogé par le ch. I de l’O du 3 nov. 2021, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 681](https://fedlex.data.admin.ch/eli/oc/2021/681)).
-[^18-2]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2013 en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
-[^18-3]: Introduit par le ch. I 10 de l’O du 10 déc. 1998, en vigueur depuis le 1<sup>er</sup> janv. 1999 ([RO 1999 303](https://fedlex.data.admin.ch/eli/oc/1999/35)).
+[^18-2]: Introduit par le ch. I 10 de l’O du 10 déc. 1998 ([RO 1999 303](https://fedlex.data.admin.ch/eli/oc/1999/35)). Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 697](https://fedlex.data.admin.ch/eli/oc/2023/697)).
 
 #### Art. 19
 
@@ -500,7 +526,7 @@ L’OFAG octroie l’autorisation sur demande, si les organismes de certificatio
   - 3\. observation des directives édictées par l’OFAG en vertu de l’art. 21*a*, al. 5, en cas d’irrégularités,
   - 4\.[^19-3] respect des dispositions de la loi fédérale du 25 septembre 2020 sur la protection des données[^19-4].
 
-<sup>3</sup> Les organismes de certification doivent en outre satisfaire aux exigences fixées par le Département fédéral de l’économie, de la formation et de la recherche en vertu de l’art. 18, al. 2.
+<sup>3</sup> Les organismes de certification doivent en outre satisfaire aux exigences fixées par le DEFR en vertu de l’art. 18, al. 2.[^19-5]
 
 <sup>4</sup> L’OFAG peut suspendre ou retirer l’autorisation d’un organisme de certification si celui-ci ne satisfait pas aux exigences et charges. Il informe immédiatement le Service d’accréditation Suisse de sa décision.
 
@@ -508,6 +534,7 @@ L’OFAG octroie l’autorisation sur demande, si les organismes de certificatio
 [^19-2]: [RS 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
 [^19-3]: Nouvelle teneur selon l’annexe 2 ch. II 125 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^19-4]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^19-5]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 697](https://fedlex.data.admin.ch/eli/oc/2023/697)).
 
 #### Art. 19a
 
@@ -584,7 +611,7 @@ L’activité de surveillance de l’OFAG comprend notamment:
 
 <sup>3</sup> Dans le cadre de son activité de surveillance, il veille à ce que les exigences des art. 19 et 19*a*, al. 2, soient respectées.
 
-<sup>4</sup> ...[^21a-2]
+<sup>4</sup> …[^21a-2]
 
 <sup>5</sup> Il peut édicter des instructions à l’intention des organismes de certification. Les instructions comprennent également un catalogue destiné à l’harmonisation des procédures des organismes de certification en cas d’irrégularités.
 
@@ -638,7 +665,7 @@ L’activité de surveillance de l’OFAG comprend notamment:
 
 <sup>3</sup> L’ancien art. 17*a* est applicable à toutes les dénominations enregistrées, pour lesquelles le délai transitoire n’est pas échu.
 
-[^23-1]: Abrogé par le ch. III al. 2 ch. 2 de l’O du 27 mars 2002 ([RO 2002 573](https://fedlex.data.admin.ch/eli/oc/2002/131)). Nouvelle teneur selon le ch. I de l’O du 14 nov. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6109](https://fedlex.data.admin.ch/eli/oc/2007/815)).
+[^23-1]: Nouvelle teneur selon le ch. I de l’O du 14 nov. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6109](https://fedlex.data.admin.ch/eli/oc/2007/815)).
 
 #### Art. 23a
 
@@ -664,7 +691,7 @@ Les produits des dénominations enregistrées peuvent être étiquetés selon l�
 
 **Modification du droit en vigueur**
 
-…[^24-1]
+...[^24-1]
 
 [^24-1]: La mod. peut être consultée au [RO 1997 1198](https://fedlex.data.admin.ch/eli/oc/1997/1198_1198_1198).
 
