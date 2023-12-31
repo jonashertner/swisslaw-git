@@ -4,13 +4,12 @@ number: "210.370"
 title: "Ordinanza sulle tasse notarili *"
 short: OTNot
 language: it
-version: 2018-01-01
-corrected: 2020-12-09
-version_adopted: 2017-11-07
+version: 2024-01-01
+version_adopted: 2023-12-19
 adopted: 2000-12-05
 in_force: 2001-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/210.370"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/2836/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3348/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/2836/pdf_file"
 
 (OTNot)
 
-del 05.12.2000 (stato 01.01.2018)
+del 05.12.2000 (stato 01.01.2024)
 
 emanata dal Governo il 5 dicembre 2000
 
@@ -49,7 +48,7 @@ ai sensi dell'articolo 49 della legge sul notariato[^ingress-1]
 
 <sup>2</sup> Su richiesta del notaio e del debitore d'imposta, la tassa viene fissata in via definitiva dal Presidente della Commissione notarile.
 
-<sup>3</sup> Per la procedura giusta i capoversi 1 e 2 si applica per analogia la legge sulla giustizia amministrativa[^2-1]
+<sup>3</sup> Per la procedura giusta i capoversi 1 e 2 si applica per analogia la legge sulla giustizia amministrativa[^2-1].
 
 [^2-1]: CSC [370.100](https://www.gr-lex.gr.ch/data/370.100/it)
 
@@ -248,9 +247,19 @@ ai sensi dell'articolo 49 della legge sul notariato[^ingress-1]
 - e) Atto pubblico relativo a un contratto di fusione di fondazioni di famiglia e fondazioni ecclesiastiche: da fr. 500.– a fr. 1000.–, in caso di valore della fondazione superiore a 200 000 franchi in aggiunta l'1‰ del valore eccedente i 200 000 franchi.
 - f) Atto pubblico relativo all'accertamento concernente un trasferimento di un fondo: da fr. 200.– a fr. 2000.–
 
+#### Art. 18b
+
+**8. Diritto della società cooperativa**
+
+<sup>1</sup>
+
+- a) Atto pubblico relativo alla costituzione di una società cooperativa: fr. 1000.–
+- b) Costituzione e attestazione di un contratto di conferimento in natura: stessa tariffa come all'articolo 15 e all'articolo 16 lettera a
+- c) Atto pubblico relativo a una decisione di modificazione dello statuto: da fr. 500.– a fr. 2000.–
+
 #### Art. 19
 
-**8. Ulteriore diritto obbligazionario**
+**9. Ulteriore diritto obbligazionario**
 
 <sup>1</sup>
 
@@ -264,7 +273,7 @@ ai sensi dell'articolo 49 della legge sul notariato[^ingress-1]
 
 #### Art. 19a
 
-**9. Atto pubblico esecutivo**
+**10. Atto pubblico esecutivo**
 
 <sup>1</sup>
 

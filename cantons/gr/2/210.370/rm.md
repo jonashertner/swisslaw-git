@@ -4,13 +4,12 @@ number: "210.370"
 title: "Ordinaziun davart las taxas da notariat *"
 short: OTNot
 language: rm
-version: 2018-01-01
-corrected: 2020-12-09
-version_adopted: 2017-11-07
+version: 2024-01-01
+version_adopted: 2023-12-19
 adopted: 2000-12-05
 in_force: 2001-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/210.370"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2836/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3348/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2836/pdf_file"
 
 (OTNot)
 
-dals 05-12-2000 (versiun dals 01-01-2018)
+dals 05-12-2000 (versiun dals 01-01-2024)
 
 sa basond sin l'art. 49 da la lescha davart il notariat[^ingress-1]
 
@@ -49,7 +48,7 @@ relaschada da la regenza ils 5 da december 2000
 
 <sup>2</sup> Sin dumonda da la persuna da notariat e da la partida ch'è obligada da pajar fixescha la presidenta u il president da la cumissiun da notariat definitivamain la taxa.
 
-<sup>3</sup> Per las proceduras tenor ils alineas 1 e 2 po vegnir applitgada la lescha davart la giurisdicziun administrativa[^2-1] confurm al senn
+<sup>3</sup> Per las proceduras tenor ils alineas 1 e 2 po vegnir applitgada la lescha davart la giurisdicziun administrativa[^2-1] confurm al senn.
 
 [^2-1]: DG [370.100](https://www.gr-lex.gr.ch/data/370.100/rm)
 
@@ -248,9 +247,19 @@ relaschada da la regenza ils 5 da december 2000
 - e) Document public davart il contract da fusiun da fundaziuns da famiglia e da fundaziuns ecclesiasticas: fr. 500.– fin 1000.–. Da la valur sur 200 000 francs, sche la valur da la fundaziun surpassa 200 000 francs: supplementarmain 1‰.
 - f) Document public davart la constataziun concernent il transferiment d'in bain immobigliar: fr. 200.– fin 2000.–.
 
+#### Art. 18b
+
+**8. dretg d'associaziuns**
+
+<sup>1</sup>
+
+- a) Document public davart la constituziun d'ina associaziun: fr. 1000.–
+- b) Elavuraziun e documentaziun publica d'in contract davart valurs en natiralias: medema taxa sco en l'artitgel 15 ed en artitgel 16 litera a
+- c) Document public davart in conclus da midar ils statuts: fr. 500.– fin fr. 2000.–
+
 #### Art. 19
 
-**8. ulteriur dretg d'obligaziuns**
+**9. ulteriur dretg d'obligaziuns**
 
 <sup>1</sup>
 
@@ -266,7 +275,7 @@ relaschada da la regenza ils 5 da december 2000
 
 #### Art. 19a
 
-**9. document public exequibel**
+**10. document public exequibel**
 
 <sup>1</sup>
 

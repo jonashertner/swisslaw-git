@@ -4,13 +4,12 @@ number: "210.370"
 title: Verordnung über die Notariatsgebühren
 short: NotGebV
 language: de
-version: 2018-01-01
-corrected: 2020-12-09
-version_adopted: 2017-11-07
+version: 2024-01-01
+version_adopted: 2023-12-19
 adopted: 2000-12-05
 in_force: 2001-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/210.370"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/2836/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3348/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/2836/pdf_file"
 
 (NotGebV)
 
-Vom 05.12.2000 (Stand 01.01.2018)
+Vom 05.12.2000 (Stand 01.01.2024)
 
 Gestützt auf Art. 49 des Notariatsgesetzes[^ingress-1]
 
@@ -49,7 +48,7 @@ von der Regierung erlassen am 5. Dezember 2000
 
 <sup>2</sup> Auf Verlangen der Notariatsperson und der zahlungspflichtigen Partei setzt der Präsident der Notariatskommission die Gebühr abschliessend fest.
 
-<sup>3</sup> Für die Verfahren gemäss Absatz 1 und 2 ist das Gesetz über das Verwaltungsrechtspflegegesetz[^2-1] sinngemäss anwendbar.
+<sup>3</sup> Für die Verfahren gemäss Absatz 1 und 2 ist das Gesetz über die Verwaltungsrechtspflege[^2-1] sinngemäss anwendbar.
 
 [^2-1]: BR [370.100](https://www.gr-lex.gr.ch/data/370.100/de)
 
@@ -248,9 +247,19 @@ von der Regierung erlassen am 5. Dezember 2000
 - e) Öffentliche Urkunde über den Fusionsvertrag von Familien- und kirchlichen Stiftungen: Fr. 500.– bis 1000.–, bei einem Stiftungswert über 200 000 Franken vom Mehrwert über 200 000 Franken zusätzlich: 1‰
 - f) Öffentliche Urkunde über die Feststellung betreffend einer Grundstücksübertragung: Fr. 200.– bis 2000.–
 
+#### Art. 18b
+
+**8. Genossenschaftsrecht**
+
+<sup>1</sup>
+
+- a) Öffentliche Urkunde über die Errichtung einer Genossenschaft: Fr. 1000.–
+- b) Errichtung und Beurkundung eines Sacheinlagevertrages: gleiche Gebühr wie Artikel 15 und Artikel 16 Litera a
+- c) Öffentliche Urkunde über einen Statutenänderungsbeschluss: Fr. 500.– bis Fr. 2000.–
+
 #### Art. 19
 
-**8. Übriges Obligationenrecht**
+**9. Übriges Obligationenrecht**
 
 <sup>1</sup>
 
@@ -264,7 +273,7 @@ von der Regierung erlassen am 5. Dezember 2000
 
 #### Art. 19a
 
-**9. Vollstreckbare öffentliche Urkunde**
+**10. Vollstreckbare öffentliche Urkunde**
 
 <sup>1</sup>
 
