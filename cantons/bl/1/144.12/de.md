@@ -3,20 +3,20 @@ canton: BL
 number: "144.12"
 title: Dienstordnung der Bau- und Umweltschutzdirektion
 language: de
-version: 2023-07-01
-valid_until: 2023-12-31
-version_adopted: 2023-06-27
+version: 2024-01-01
+valid_until: 2025-12-31
+version_adopted: 2023-12-05
 adopted: 2018-10-23
 in_force: 2019-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/144.12"
-pdf: "https://bl.clex.ch/api/de/versions/3712/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3785/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Dienstordnung der Bau- und Umweltschutzdirektion
 
-Vom 23.10.2018 (Stand 01.07.2023)
+Vom 23.10.2018 (Stand 01.01.2024)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -251,9 +251,14 @@ beschliesst:
 - f. Lärmschutz;
 - g. Abteilung öffentlicher Verkehr.
 
-<sup>3</sup> Die funktionalen Einheiten sind zugleich die Fachstellen im Sinne der Bundesgesetzgebung über die Raumplanung, die Fuss- und Wanderwege, den Natur- und Heimatschutz bezüglich Denkmalpflege sowie den Lärmschutz.
+<sup>3</sup> Die funktionalen Einheiten sind zugleich die Fachstellen im Sinne des Bundesrechts betreffend die Raumplanung[^15-2], die Fuss- und Wanderwege[^15-3], die Velowege[^15-4] bezüglich der Velowegnetze für die Freizeit, den Natur- und Heimatschutz[^15-5] bezüglich Denkmalpflege sowie den Lärmschutz[^15-6].
 
 [^15-1]: [SGS 149.5](https://bl.clex.ch/data/149.5/de)
+[^15-2]: [SR 700](https://db.clex.ch/link/Bund/700/de)
+[^15-3]: [SR 704](https://db.clex.ch/link/Bund/704/de)
+[^15-4]: [SR 705](https://db.clex.ch/link/Bund/705/de)
+[^15-5]: [SR 451](https://db.clex.ch/link/Bund/451/de)
+[^15-6]: [SR 814.41](https://db.clex.ch/link/Bund/814.41/de)
 
 #### § 16
 
@@ -451,12 +456,14 @@ beschliesst:
 - b. Durchführen von Strassenverkehrserhebungen, Ausarbeiten von verkehrstechnischen Grundlagen sowie Erarbeiten von Massnahmen an der Verkehrsinfrastruktur zur Verbesserung des Verkehrsflusses und zur Erhöhung der Verkehrssicherheit;
 - c. Durchführen von hydrologischen Erhebungen, Ausarbeiten von Grundlagen für den Wasserbau und Erarbeiten von Massnahmen zur Verbesserung des Hochwasserschutzes und zur Fortführung der Revitalisierungen;
 - d. Planen, Realisieren, Unterhalten und Erhalten der Kantonsstrassen (inkl. kantonale Hochleistungsstrassen);
-- e. Planen und Realisieren der kantonalen Radrouten;
+- e. Planen und Realisieren der kantonalen Radrouten als Velowegnetze für den Alltag gemäss dem Bundesgesetz über Velowege (Veloweggesetz) vom 18. März 2022[^25-1];
 - f. Planen, Realisieren und Erhalten (Erneuern und Verändern) der Verkehrsinfrastruktur für den öffentlichen Verkehr auf Strasse und Schiene (Vorortsbahnen);
 - g. Planen, Realisieren und Unterhalten der öffentlichen Gewässer;
 - h. fachspezifische Berichte zu Baugesuchen, Nutzungsplanungen und Grundstücksmutationen in Bezug auf die bestehenden und geplanten Verkehrsinfrastrukturen und Gewässer;
 - i. Erteilen von Bewilligungen im Zusammenhang mit der Sondernutzung von Kantonsstrassen und Gewässern;
 - j. Fachberatung und Einsätze als technischer Betrieb im Ereignisfall für die Anlagen der Kantonsstrassen (inkl. kantonale Hochleistungsstrassen) und Gewässer im Rahmen des kantonalen Bevölkerungsschutzes;
 - k. Evaluieren, Beschaffen und Bewirtschaften der Fahrzeugflotte der kantonalen Verwaltung.
+
+[^25-1]: [SR 705](https://db.clex.ch/link/Bund/705/de)
 
 GS 2018.067
