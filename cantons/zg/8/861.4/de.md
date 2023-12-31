@@ -4,13 +4,12 @@ number: "861.4"
 title: Gesetz über die Sozialhilfe im Kanton Zug
 short: "Sozialhilfegesetz, SHG"
 language: de
-version: 2018-01-01
-valid_until: 2023-12-31
-version_adopted: 2017-11-28
+version: 2024-01-01
+version_adopted: 2023-05-04
 adopted: 1982-12-16
 in_force: 1984-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/861.4"
-pdf: "https://bgs.zg.ch/api/de/versions/1747/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2504/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,11 +18,11 @@ pdf: "https://bgs.zg.ch/api/de/versions/1747/pdf_file"
 
 (Sozialhilfegesetz, SHG)
 
-Vom 16. Dezember 1982 (Stand 1. Januar 2018)
+Vom 16. Dezember 1982 (Stand 1. Januar 2024)
 
 Der Kantonsrat des Kantons Zug,
 
-gestützt auf § 41 Abs. 1 Bst. b der Kantonsverfassung[^ingress-1],
+gestützt auf § 41 Abs. 1 Bst. b der Verfassung des Kantons Zug (Kantonsverfassung, KV) vom 31. Januar 1894[^ingress-1],
 
 beschliesst:
 
@@ -59,7 +58,7 @@ beschliesst:
 
 <sup>2</sup> Die zuständigen Stellen fördern die Selbsthilfe und die Eigenständigkeit.
 
-<sup>3</sup> Wenn der Empfänger die ihm zumutbare Mitwirkung verweigert, kann die Sozialhilfe eingeschränkt oder unterbrochen werden.
+<sup>3</sup> Wenn die Empfängerin oder der Empfänger die ihr bzw. ihm zumutbare Mitwirkung verweigert, kann die Sozialhilfe eingeschränkt oder unterbrochen werden.
 
 #### § 4
 
@@ -83,7 +82,7 @@ beschliesst:
 
 **Schweigepflicht und Zeugnisverweigerungsrecht**
 
-<sup>1</sup> Mitglieder der Sozialbehörden und Sozialarbeiter haben über Wahrnehmungen, die sie in ihrer amtlichen oder beruflichen Eigenschaft gemacht haben und die nicht zur Veröffentlichung bestimmt sind, gegenüber Unberechtigten zu schweigen. In gerichtlichen Verfahren steht ihnen ein Zeugnisverweigerungsrecht zu.
+<sup>1</sup> Mitglieder der Sozialbehörden sowie Sozialarbeiterinnen und Sozialarbeiter haben über Wahrnehmungen, die sie in ihrer amtlichen oder beruflichen Eigenschaft gemacht haben und die nicht zur Veröffentlichung bestimmt sind, gegenüber Unberechtigten zu schweigen. In gerichtlichen Verfahren steht ihnen ein Zeugnisverweigerungsrecht zu.
 
 <sup>2</sup> Im Übrigen gelten die Bestimmungen des Schweizerischen Strafgesetzbuches, des Beamtenrechts, des Gemeindegesetzes sowie der Straf- und der Zivilprozessordnung.
 
@@ -125,7 +124,7 @@ beschliesst:
 
 <sup>1</sup> Der zuständige Gemeinderat ist die Sozialbehörde der Gemeinde.
 
-<sup>2</sup> Er kann Aufgaben und Kompetenzen der Sozialbehörde einer Kommission übertragen. Der Vorsteher des Sozialwesens steht ihr von Amtes wegen vor.
+<sup>2</sup> Er kann Aufgaben und Kompetenzen der Sozialbehörde einer Kommission übertragen. Die Vorsteherin oder der Vorsteher des Sozialwesens steht ihr von Amtes wegen vor.
 
 #### § 12
 
@@ -193,7 +192,7 @@ beschliesst:
 
 <sup>2</sup> Die Hilfe kann auch in Empfehlungen und Ermahnungen bestehen.
 
-<sup>3</sup> Die Sozialdienste vermitteln Hilfe durch spezialisierte Institutionen, wenn zu erwarten ist, dass dadurch dem Hilfesuchenden besser geholfen werden kann.
+<sup>3</sup> Die Sozialdienste vermitteln Hilfe durch spezialisierte Institutionen, wenn zu erwarten ist, dass dadurch den Hilfesuchenden besser geholfen werden kann.
 
 #### § 15bis
 
@@ -209,10 +208,10 @@ beschliesst:
 
 <sup>5</sup> Ausgesteuerte arbeitslose Personen dürfen im Rahmen von Integrationsmassnahmen nur dann direkt bei Privatunternehmungen platziert werden, wenn
 
-- a) der Arbeitgeber zu diesem Zweck kein bestehendes Arbeitsverhältnis auflöst;
+- a) die Arbeitgeberin oder der Arbeitgeber zu diesem Zweck kein bestehendes Arbeitsverhältnis auflöst;
 - b) der Arbeitsvertrag bei einer Probezeit von in der Regel drei bis maximal sechs Monaten für mindestens ein Jahr abgeschlossen wird;
 - c) höchstens während der Probezeit ein Soziallohn entrichtet wird;
-- d) der Arbeitgeber nach der Probezeit einen branchenüblichen Lohn bezahlt.
+- d) die Arbeitgeberin oder der Arbeitgeber nach der Probezeit einen branchenüblichen Lohn bezahlt.
 
 <sup>6</sup> In begründeten Einzelfällen können die zuweisenden Gemeinden während höchstens drei Monaten nach Ablauf der Probezeit einen Beitrag von insgesamt maximal 30% des branchenüblichen Lohnes bezahlen, sofern der betroffene Wirtschaftsverband damit einverstanden ist.
 
@@ -232,7 +231,7 @@ beschliesst:
 
 **Darlehen**
 
-<sup>1</sup> Bei einer vorübergehenden Notlage kann die Sozialbehörde zur Sicherung des Lebensunterhaltes des Hilfesuchenden ein Darlehen ausrichten.
+<sup>1</sup> Bei einer vorübergehenden Notlage kann die Sozialbehörde zur Sicherung des Lebensunterhaltes der Hilfesuchenden oder des Hilfesuchenden ein Darlehen ausrichten.
 
 <sup>2</sup> Verzinsbarkeit, Rückzahlungen und Sicherheitsleistungen sind vertraglich festzulegen.
 
@@ -244,7 +243,7 @@ beschliesst:
 
 <sup>1</sup> Wer in Schulden geraten ist oder aus anderen Gründen seine Einkünfte nicht zweckmässig verwendet, kann bei der Sozialbehörde eine Einkommensverwaltung beantragen.
 
-<sup>2</sup> Die Sozialbehörde kann die Schuldner mit Zustimmung des Hilfesuchenden anweisen, ihre Zahlungen ganz oder teilweise dem Einkommensverwalter zu leisten.
+<sup>2</sup> Die Sozialbehörde kann die Schuldnerinnen und Schuldner mit Zustimmung der Hilfesuchenden oder des Hilfesuchenden anweisen, ihre Zahlungen ganz oder teilweise der Einkommensverwaltung zu leisten.
 
 ## 4. Unterstützung Bedürftiger
 
@@ -256,9 +255,9 @@ beschliesst:
 
 <sup>1</sup> Wer für seinen Lebensunterhalt und den seiner Familienangehörigen mit gleichem Wohnsitz nicht hinreichend oder nicht rechtzeitig aus eigenen Mitteln aufkommen kann, hat Anspruch auf Unterstützung. Vorbehalten bleibt § 17.
 
-<sup>2</sup> Unterstützung kann auch dann gewährt werden, wenn der Hilfesuchende über Vermögenswerte verfügt, deren Realisierung nicht möglich oder nicht zumutbar ist (§ 29).
+<sup>2</sup> Unterstützung kann auch dann gewährt werden, wenn die Hilfesuchende oder der Hilfesuchende über Vermögenswerte verfügt, deren Realisierung nicht möglich oder nicht zumutbar ist (§ 29).
 
-<sup>3</sup> Bestehen erhebliche vermögensrechtliche Ansprüche gegen Dritte, ist die Unterstützung davon abhängig zu machen, dass die Ansprüche dem unterstützenden Gemeinwesen abgetreten werden. Bestehen die Vermögenswerte des Hilfesuchenden in Grundstücken, ist die Forderung des unterstützenden Gemeinwesens grundpfandrechtlich sicherzustellen.
+<sup>3</sup> Bestehen erhebliche vermögensrechtliche Ansprüche gegen Dritte, ist die Unterstützung davon abhängig zu machen, dass die Ansprüche dem unterstützenden Gemeinwesen abgetreten werden. Bestehen die Vermögenswerte der Hilfesuchenden oder des Hilfesuchenden in Grundstücken, ist die Forderung des unterstützenden Gemeinwesens grundpfandrechtlich sicherzustellen.
 
 #### § 20
 
@@ -305,25 +304,83 @@ beschliesst:
 
 **Verpfändung und Abtretung**
 
-<sup>1</sup> Unterstützungen dürfen vom Empfänger weder verpfändet noch abgetreten werden.
+<sup>1</sup> Unterstützungen dürfen von der Empfängerin oder dem Empfänger weder verpfändet noch abgetreten werden.
 
 #### § 23
 
 **Auskunfts- und Meldepflicht**
 
-<sup>1</sup> Wer um Unterstützung nachsucht, hat über seine Verhältnisse wahrheitsgetreu Auskunft zu geben und die zur Abklärung erforderlichen Unterlagen einzureichen.
+<sup>1</sup> Wer um Unterstützung nachsucht, hat über seine Verhältnisse wahrheitsgetreu Auskunft zu geben und die zur Abklärung erforderlichen Daten und Unterlagen zur Verfügung zu stellen.
 
-<sup>2</sup> Er hat erhebliche Änderungen in seinen Verhältnissen unverzüglich zu melden.
+<sup>1a</sup> Die Abklärungen erfolgen ausschliesslich betreffend
 
-<sup>3</sup> Die Sozialbehörden sind berechtigt, nötigenfalls bei Dritten Auskünfte einzuholen, in der Regel nach Orientierung des Betroffenen.
+- a) die Person;
+- b) die Wohn- und Familienverhältnisse;
+- c) die Einkommens- und Vermögensverhältnisse;
+- d) die Erwerbstätigkeit;
+- e) gesundheitliche Einschränkungen.
+
+<sup>2</sup> Hilfesuchende haben erhebliche Änderungen in ihren Verhältnissen unverzüglich zu melden.
+
+<sup>2a</sup> Die Sozialdienste können die Hilfesuchenden auffordern, die Sozialdienste zur Einholung der für die Abklärung der Verhältnisse erforderlichen Daten und Unterlagen zu ermächtigen, insbesondere wenn die Hilfesuchenden nicht in der Lage sind, diese Daten und Unterlagen selbst beizubringen.
+
+<sup>3</sup> Die Sozialdienste sind berechtigt, nötigenfalls, insbesondere wenn Zweifel an der Richtigkeit oder Vollständigkeit der Daten oder Unterlagen bestehen, bei Dritten Auskünfte einzuholen.
+
+#### § 23a
+
+**Datenbeschaffung und Datenbekanntgabe**
+
+<sup>1</sup> Die Sozialdienste sind berechtigt, die zur Abklärung der Verhältnisse der Hilfesuchenden erforderlichen Daten über einen elektronischen Zugriff aus den kantonalen Personenregistern abzurufen. Der Regierungsrat bestimmt die Personendaten, die von den Sozialdiensten im Abrufverfahren bezogen werden dürfen.
+
+<sup>2</sup> Die Sozialdienste sind ferner berechtigt, zur Abklärung der Verhältnisse der Hilfesuchenden bei kantonalen und kommunalen Stellen weitere erforderliche Daten und Unterlagen, insbesondere Verfügungen, einzuholen.
+
+<sup>3</sup> Die Stellen nach Abs. 2 sind ungeachtet einer allfälligen Geheimhaltungspflicht verpflichtet,
+
+- a) den Sozialdiensten die erforderlichen Daten und Unterlagen kostenlos und nach Möglichkeit in elektronischer Form zur Verfügung zu stellen;
+- b) den Sozialdiensten von sich aus Mitteilung zu machen, wenn sie Kenntnis von Tatsachen erlangen, welche den Anspruch nach diesem Gesetz beeinflussen können.
+
+#### § 23b
+
+**Weitere Massnahmen zur Abklärung der Verhältnisse**
+
+<sup>1</sup> Die Sozialdienste können weitere Massnahmen zur Abklärung der Verhältnisse der Hilfesuchenden vornehmen oder von Dritten vornehmen lassen, wenn der begründete Verdacht besteht, dass Hilfesuchende unrechtmässig Leistungen bezogen haben, beziehen oder zu beziehen versuchen. Dritte unterliegen der gleichen Sorgfalts- und Schweigepflicht wie die Sozialarbeiterinnen und Sozialarbeiter gemäss § 7.
+
+<sup>2</sup> Weitere Massnahmen sind unangemeldete Besuche am Wohnort und Observationen.
+
+<sup>3</sup> Das Betreten der Wohnung bedarf der Einwilligung der betroffenen Person.
+
+<sup>4</sup> Unangemeldete Besuche am Arbeitsort sind nicht zulässig.
+
+#### § 23c
+
+**Observation**
+
+<sup>1</sup> Die Anordnung einer Observation setzt neben dem begründeten Verdacht auf einen unrechtmässigen Leistungsbezug voraus, dass die Abklärungen sonst aussichtslos wären oder unverhältnismässig erschwert würden. Die Anordnung von Observationen erfolgt durch das für die Sozialhilfe zuständige Mitglied der Sozialbehörde; eine Delegation ist ausgeschlossen.
+
+<sup>2</sup> Hilfesuchende dürfen nur observiert werden,
+
+- a) wenn sie sich an einem allgemein zugänglichen Ort befinden; oder
+- b) wenn sie sich an einem Ort befinden, der von einem allgemein zugänglichen Ort aus frei einsehbar ist.
+
+<sup>3</sup> Bei Observationen können Bild- und Tonträger eingesetzt und damit Aufzeichnungen gemacht werden. Der Gebrauch von technischen Instrumenten zur Standortbestimmung oder von Fluggeräten ist nicht erlaubt.
+
+<sup>4</sup> Es können Spezialistinnen und Spezialisten, insbesondere Privatdetekteien, mit der Observation beauftragt werden. Diese unterliegen der gleichen Sorgfalts- und Schweigepflicht wie die Sozialarbeiterinnen und Sozialarbeiter gemäss § 7.
+
+<sup>5</sup> Eine Observation darf an höchstens 30 Tagen innerhalb von sechs Monaten ab dem ersten Observationstag stattfinden. Dieser Zeitraum kann um höchstens weitere sechs Monate verlängert werden, wenn hinreichende Gründe dafür bestehen. Eine erneute Observation kann angeordnet werden, wenn sich ein neuer begründeter Verdacht ergibt.
+
+<sup>6</sup> Bestätigt sich der begründete Verdacht auf einen unrechtmässigen Leistungsbezug, so informiert die für die Anordnung zuständige Stelle zeitnah vor dem Erlass einer Verfügung die betroffene Hilfe suchende Person über den Grund, die Art, die Dauer und die Ergebnisse der durchgeführten Observation und gibt ihr Gelegenheit zur Stellungnahme.
+
+<sup>7</sup> Bestätigt sich der begründete Verdacht auf einen unrechtmässigen Leistungsbezug nicht, so erlässt die für die Anordnung zuständige Stelle mit Abschluss der Observation eine Verfügung. Die Verfügung beinhaltet den Grund, die Art, die Dauer und die Ergebnisse der erfolgten Observation und ist selbstständig anfechtbar.
+
+<sup>8</sup> Der Regierungsrat regelt die Aufbewahrung und Vernichtung der Observationsakten sowie das Verfahren zur Einsichtnahme in die Observationsakten.
 
 #### § 24
 
 **Verwandtenunterstützung**
 
-<sup>1</sup> Die Sozialbehörde prüft, ob gemäss Art. 328 und 329 ZGB Verwandte zur Unterstützung des Hilfesuchenden verpflichtet sind.
+<sup>1</sup> Die Sozialbehörde prüft, ob gemäss Art. 328 und 329 ZGB Verwandte zur Unterstützung der Hilfesuchenden oder des Hilfesuchenden verpflichtet sind.
 
-<sup>2</sup> Wo die Voraussetzungen gegeben sind und es die Verhältnisse rechtfertigen, hat sie die Pflichtigen zur Hilfe aufzufordern und zwischen ihnen und dem Hilfesuchenden zu vermitteln.
+<sup>2</sup> Wo die Voraussetzungen gegeben sind und es die Verhältnisse rechtfertigen, hat sie die Pflichtigen zur Hilfe aufzufordern und zwischen ihnen und der Hilfesuchenden oder dem Hilfesuchenden zu vermitteln.
 
 <sup>3</sup> Nötigenfalls ist die Verwandtenunterstützung bei der zuständigen Behörde geltend zu machen.
 
@@ -343,7 +400,7 @@ beschliesst:
 
 <sup>3</sup> Unterstützungen, die durch unwahre oder unvollständige Angaben erwirkt wurden, sind mit Zins zurückzuerstatten. Der Zinssatz richtet sich nach Art. 104 Abs. 1 OR.
 
-<sup>4</sup> Der Hilfesuchende ist über die Rückerstattungspflicht zu unterrichten.
+<sup>4</sup> Hilfesuchende sind über die Rückerstattungspflicht zu unterrichten.
 
 #### § 26
 
@@ -353,7 +410,7 @@ beschliesst:
 
 - a) mit Ablauf von 10 Jahren seit der letzten Unterstützung in den Fällen von § 25 Abs.1 Bst. a, c, d und e;
 - b) mit Ablauf von 25 Jahren seit der letzten Unterstützung im Falle von § 25 Abs. 1 Bst. b;
-- c) mit Ablauf von drei Jahren seit dem Tode des Empfängers, sofern dieser vor Ablauf der genannten Fristen stirbt. Die Rückerstattungspflicht beschränkt sich auf die empfangene Erbschaft.
+- c) mit Ablauf von drei Jahren seit dem Tode der Empfängerin oder des Empfängers, sofern diese bzw. dieser vor Ablauf der genannten Fristen stirbt. Die Rückerstattungspflicht beschränkt sich auf die empfangene Erbschaft.
 
 <sup>2</sup> Bei Unterstützungen, die durch unwahre oder unvollständige Angaben erlangt wurden, tritt keine Verwirkung ein.
 
@@ -365,8 +422,8 @@ beschliesst:
 
 <sup>1</sup> Die Einwohnergemeinden haben folgende Aufgaben:
 
-- a) Sie unterstützen ihre hilfebedürftigen Einwohner, soweit diese nicht an ihrem Heimatort wohnende Bürger sind;
-- b) sie sorgen für Aufenthalter in Notfällen (Art. 13, 20 und 21 ZUG[^27-1]);
+- a) Sie unterstützen ihre hilfebedürftigen Einwohnerinnen und Einwohner, soweit diese nicht an ihrem Heimatort wohnende Bürgerinnen bzw. Bürger sind;
+- b) sie sorgen für Aufenthalterinnen und Aufenthalter in Notfällen (Art. 13, 20 und 21 ZUG[^27-1]);
 - c) …
 - d) sie beanspruchen familienrechtliche Unterhalts- und Unterstützungsbeiträge (Art. 289 Abs. 2, 328/329 ZGB und § 24);
 - e) sie machen Rückerstattungsforderungen geltend (§ 25).
@@ -379,7 +436,7 @@ beschliesst:
 
 <sup>1</sup> Die Bürgergemeinden haben folgende Aufgaben:
 
-- a) Sie unterstützen ihre hilfebedürftigen, an ihrem Heimatort wohnenden Bürger;
+- a) Sie unterstützen ihre hilfebedürftigen, an ihrem Heimatort wohnenden Bürgerinnen und Bürger;
 - b) sie beanspruchen familienrechtliche Unterhalts- und Unterstützungsbeiträge (Art. 289 Abs. 2, 328/329 ZGB und § 24);
 - c) sie machen Rückerstattungsforderungen geltend (§ 25).
 
@@ -403,7 +460,7 @@ beschliesst:
 - d) sie entscheidet Streitigkeiten unter den Gemeinden über die innerkantonale Zuständigkeit;
 - e) …
 - f) …
-- g) sie ist zuständig für den Verkehr mit dem Bund und, soweit rechtlich zulässig, mit ausländischen Behörden hinsichtlich unterstützungsbedürftiger Kantonsbürger im Ausland und unterstützungsbedürftiger Ausländer in der Schweiz.
+- g) sie ist zuständig für den Verkehr mit dem Bund und, soweit rechtlich zulässig, mit ausländischen Behörden hinsichtlich unterstützungsbedürftiger Kantonsbürgerinnen und Kantonsbürger im Ausland und unterstützungsbedürftiger Ausländerinnen und Ausländer in der Schweiz.
 
 #### § 31
 
@@ -430,8 +487,8 @@ beschliesst:
 - a) …
 - b) …
 - c) …
-- d) der zuständigen Stelle die Notfall-Unterstützung für Zuger Kantonsbürger, die sich weniger als 3 Monate im Ausland aufhalten und dort hilfsbedürftig werden;
-- e) dem Ausland den heimatlichen Anteil an die Unterstützungskosten für dort wohnhafte Zuger Kantonsbürger, soweit bundesrechtlich keine andere Regelung vorgesehen ist.
+- d) der zuständigen Stelle die Notfall-Unterstützung für Zuger Kantonsbürgerinnen und Kantonsbürger, die sich weniger als 3 Monate im Ausland aufhalten und dort hilfsbedürftig werden;
+- e) dem Ausland den heimatlichen Anteil an die Unterstützungskosten für dort wohnhafte Zuger Kantonsbürgerinnen und Kantonsbürger, soweit bundesrechtlich keine andere Regelung vorgesehen ist.
 
 <sup>2</sup> …
 
@@ -504,7 +561,7 @@ beschliesst:
 
 **Unrechtmässiges Erwirken von Leistungen**
 
-<sup>1</sup> Wer gegenüber Vertretern von Sozialdiensten unwahre oder unvollständige Angaben macht, Tatsachen oder veränderte Verhältnisse verschweigt oder sich in anderer Weise einen Vorteil zu verschaffen versucht, in der Absicht, für sich oder andere Leistungen nach diesem Gesetz unrechtmässig zu erwirken, wird mit Busse bestraft.
+<sup>1</sup> Wer gegenüber Vertreterinnen und Vertretern von Sozialdiensten unwahre oder unvollständige Angaben macht, Tatsachen oder veränderte Verhältnisse verschweigt oder sich in anderer Weise einen Vorteil zu verschaffen versucht, in der Absicht, für sich oder andere Leistungen nach diesem Gesetz unrechtmässig zu erwirken, wird mit Busse bestraft.
 
 <sup>2</sup> Besondere Strafbestimmungen bleiben vorbehalten.
 
