@@ -4,11 +4,11 @@ title: Bundespersonalverordnung vom 3. Juli 2001 (BPV)
 short: BPV
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/319"
 language: de
-version: 2023-01-01
+version: 2024-01-01
 adopted: 2001-07-03
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/319/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2001-319-20230101-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/319/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/319/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2001-319-20240101-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/319/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/319/20230101/de"
 
 (BPV)
 
-vom 3. Juli 2001 (Stand am 1. Januar 2023)
+vom 3. Juli 2001 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -911,18 +911,23 @@ Die Auflösung des Arbeitsverhältnisses gilt als verschuldet, wenn:
 
 #### Art. 35
 
-**Beschäftigung über das ordentliche Rücktrittsalter hinaus**[^35-1]
+**Beschäftigung über das AHV-Referenzalter hinaus**[^35-1]
 
 ### (Art. 10 Abs. 2 BPG)
 
-<sup>1</sup> Die zuständige Stelle nach Artikel 2 kann nach Beendigung des Arbeitsverhältnisses infolge Erreichens der Altersgrenze nach Artikel 21 des Bundesgesetzes vom 20. Dezember 1946[^35-2] über die Alters- und Hinterlassenenversicherung (AHVG) im Einvernehmen mit der betroffenen Person ein neues Arbeitsverhältnis begründen. Artikel 52*a* BPV ist nicht anwendbar.
+[^35-2]
 
-<sup>2</sup> Weibliche Angestellte haben nach Beendigung des Arbeitsverhältnisses infolge Erreichens der Altersgrenze nach Artikel 21 AHVG Anspruch auf ein neues Arbeitsverhältnis zu den gleichen Anstellungsbedingungen bis längstens zum 65. Altersjahr. Der Anspruch ist spätestens sechs Monate vor der Beendigung des Arbeitsverhältnisses bei der zuständigen Stelle geltend zu machen.
+<sup>1</sup> Die zuständige Stelle nach Artikel 2 kann nach Beendigung des Arbeitsverhältnisses infolge Erreichens des Referenzalters nach Artikel 21 des Bundesgesetzes vom 20. Dezember 1946[^35-3] über die Alters- und Hinterlassenenversicherung (AHVG) im Einvernehmen mit der betroffenen Person ein neues Arbeitsverhältnis begründen. Artikel 52*a* dieser Verordnung ist nicht anwendbar.[^35-4]
+
+<sup>2</sup> …[^35-5]
 
 <sup>3</sup> Die Arbeitsverhältnisse nach Absatz 1 enden ohne Kündigung spätestens am Ende des Monats, in dem die Angestellten das 70. Altersjahr vollenden.
 
 [^35-1]: Fassung gemäss Ziff. I der V vom 13. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 3803](https://fedlex.data.admin.ch/eli/oc/2019/693)).
-[^35-2]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
+[^35-2]: Fassung gemäss Anhang Ziff. 1 der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^35-3]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
+[^35-4]: Fassung gemäss Anhang Ziff. 1 der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^35-5]: Aufgehoben durch Anhang Ziff. 1 der V vom 30. Aug. 2023, mit Wirkung seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 ## 4. Kapitel: Leistungen des Arbeitgebers
 
@@ -1130,22 +1135,24 @@ Der Teuerungsausgleich wird ausgerichtet auf:
 
 <sup>1</sup> Der Bundesrat bestimmt nach Verhandlungen mit den Personalverbänden den Umfang der Reallohnerhöhung und den Zeitpunkt, in dem sie wirksam wird. Er kann Angestellte bestimmter Lohnklassen von einer Reallohnerhöhung ausschliessen, wenn es die Situation auf dem Arbeitsmarkt rechtfertigt, oder eine abgestufte Reallohnerhöhung nach Lohnklassen vornehmen.
 
-<sup>2</sup> Anspruch auf eine Reallohnerhöhung haben Angestellte, die im Zeitpunkt, in dem die Erhöhung wirksam wird, in einem ungekündigten Arbeitsverhältnis stehen oder infolge freiwilligem vorzeitigem Altersrücktritt oder Übertritt zu einer anderen Verwaltungseinheit nach Artikel 1 Absatz 1 gekündigt haben.
+<sup>2</sup> Anspruch auf eine Reallohnerhöhung haben Angestellte, die im Zeitpunkt, in dem die Erhöhung wirksam wird, in einem ungekündigten Arbeitsverhältnis stehen oder infolge freiwilligen Altersrücktritts vor Erreichen des Referenzalters nach Artikel 21 AHVG[^44a-2] oder Übertritt zu einer anderen Verwaltungseinheit nach Artikel 1 Absatz 1 gekündigt haben.[^44a-3]
 
 <sup>3</sup>
 
 Keine Reallohnerhöhung erhalten Angestellte:
 
 - a. denen bei tieferer Funktionsbewertung der bisherige Lohn nominal garantiert ist; oder
-- b. deren Lohn den Höchstbetrag der Lohnklasse 38 erreicht hat.[^44a-2]
+- b. deren Lohn den Höchstbetrag der Lohnklasse 38 erreicht hat.[^44a-4]
 
-<sup>4</sup> Die Reallohnerhöhung wird auf dem Lohn nach Artikel 36 und den Funktionszulagen nach Artikel 46 ausgerichtet. Die Höchstbeträge der Lohnklassen 1–37 erhöhen sich jeweils im Umfang der Reallohnerhöhungen.[^44a-3]
+<sup>4</sup> Die Reallohnerhöhung wird auf dem Lohn nach Artikel 36 und den Funktionszulagen nach Artikel 46 ausgerichtet. Die Höchstbeträge der Lohnklassen 1–37 erhöhen sich jeweils im Umfang der Reallohnerhöhungen.[^44a-5]
 
 <sup>5</sup> Ein zum gleichen Zeitpunkt des Inkrafttretens einer Reallohnerhöhung ausgerichteter Teuerungsausgleich nach Artikel 44 wird vor der Reallohnerhöhung vollzogen.
 
 [^44a-1]: Eingefügt durch Ziff. I der V vom 1. Mai 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
-[^44a-2]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5395](https://fedlex.data.admin.ch/eli/oc/2020/936)).
-[^44a-3]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5395](https://fedlex.data.admin.ch/eli/oc/2020/936)).
+[^44a-2]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
+[^44a-3]: Fassung gemäss Anhang Ziff. 1 der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^44a-4]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5395](https://fedlex.data.admin.ch/eli/oc/2020/936)).
+[^44a-5]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5395](https://fedlex.data.admin.ch/eli/oc/2020/936)).
 
 #### Art. 45
 
@@ -1516,18 +1523,21 @@ Bei Krankheit oder Unfall während Dienstreisen im Ausland übernimmt der Arbeit
 
 <sup>1</sup> Bei der Geburt eines oder mehrerer Kinder besteht für die Angestellte ein Anspruch auf einen bezahlten Mutterschaftsurlaub von vier Monaten. Muss ein Neugeborenes unmittelbar nach der Geburt ununterbrochen während mindestens zwei Wochen im Spital verweilen, so verlängert sich dieser Urlaub um die Dauer der Hospitalisierung, höchstens aber auf insgesamt 154 Tage.[^60-3]
 
-<sup>2</sup> Die Angestellte kann den Mutterschaftsurlaub maximal zwei Wochen vor der errechneten Geburt antreten.[^60-4]
+<sup>1<sup>bis</sup></sup> Stirbt der rechtliche Vater oder der rechtliche andere Elternteil während der sechs Monate nach der Geburt des Kindes, so hat die Angestellte Anspruch auf zusätzlich zwanzig Arbeitstage Mutterschaftsurlaub zum vollen Lohn mit Sozialzulagen. Diese zwanzig Arbeitstage können innerhalb einer Rahmenfrist von sechs Monaten ab dem Tag nach dem Tod wochen- oder tageweise bezogen werden.[^60-4]
 
-<sup>3</sup> Während den ersten vier Monaten des Mutterschaftsurlaubs werden der Angestellten der volle Lohn und die Sozialzulagen ausgerichtet. Verlängert sich der Urlaub infolge Hospitalisierung des Neugeborenen, so wird ihr während der Verlängerung lediglich die Mutterschaftsentschädigung nach dem Erwerbsersatzgesetz vom 25. September 1952[^60-5] ausbezahlt.[^60-6]
+<sup>2</sup> Die Angestellte kann den Mutterschaftsurlaub maximal zwei Wochen vor der errechneten Geburt antreten.[^60-5]
+
+<sup>3</sup> Während den ersten vier Monaten des Mutterschaftsurlaubs werden der Angestellten der volle Lohn und die Sozialzulagen ausgerichtet. Verlängert sich der Urlaub infolge Hospitalisierung des Neugeborenen, so wird ihr während der Verlängerung lediglich die Mutterschaftsentschädigung nach dem Erwerbsersatzgesetz vom 25. September 1952[^60-6] ausbezahlt.[^60-7]
 
 <sup>4</sup> Kantonale Regelungen bleiben vorbehalten.
 
 [^60-1]: Fassung gemäss Ziff. I 2 der V vom 10. Juni 2005 über die Einführung der Mutterschaftsentschädigung im Bundespersonalrecht, in Kraft seit 1. Juli 2007 ([AS 2005 2479](https://fedlex.data.admin.ch/eli/oc/2005/423)).
 [^60-2]: Fassung gemäss Ziff. I der V vom 3. Dez. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 843](https://fedlex.data.admin.ch/eli/oc/2021/843)).
 [^60-3]: Fassung gemäss Ziff. I der V vom 3. Dez. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 843](https://fedlex.data.admin.ch/eli/oc/2021/843)).
-[^60-4]: Fassung gemäss Ziff. I der V vom 3. Dez. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 843](https://fedlex.data.admin.ch/eli/oc/2021/843)).
-[^60-5]: [SR 834.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10262)
-[^60-6]: Fassung gemäss Ziff. I der V vom 3. Dez. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 843](https://fedlex.data.admin.ch/eli/oc/2021/843)).
+[^60-4]: Eingefügt durch Ziff. II der V vom 22. Nov. 2023 (Taggelder für den hinterlassenen Elternteil), in Kraft seit 1. Jan. 2024 ([AS 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
+[^60-5]: Fassung gemäss Ziff. I der V vom 3. Dez. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 843](https://fedlex.data.admin.ch/eli/oc/2021/843)).
+[^60-6]: [SR 834.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10262)
+[^60-7]: Fassung gemäss Ziff. I der V vom 3. Dez. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 843](https://fedlex.data.admin.ch/eli/oc/2021/843)).
 
 #### Art. 60a
 
@@ -1559,7 +1569,16 @@ Bei Krankheit oder Unfall während Dienstreisen im Ausland übernimmt der Arbeit
 
 <sup>2</sup> In eingetragenen Partnerschaften besteht bei der Geburt eines oder mehrerer Kinder der Partnerin oder des Partners für die andere Partnerin oder den anderen Partner der Anspruch auf einen bezahlten Urlaub von zwanzig Tagen gleichermassen.
 
+<sup>3</sup> Stirbt die Mutter am Tag der Niederkunft oder während der 97 Tage danach, so hat der rechtliche Vater oder der rechtliche andere Elternteil Anspruch auf 4 Monate zusätzlichen Urlaub. Dieser Urlaub muss einen Tag nach dem Tod der Mutter angetreten und am Stück bezogen werden. Es wird der volle Lohn mit Sozialzulagen ausgerichtet.[^60b-2]
+
+<sup>4</sup> Stirbt die Mutter am Tag der Niederkunft oder während der 97 Tage danach und muss ein Neugeborenes unmittelbar nach der Geburt ununterbrochen während mindestens zwei Wochen im Spital verweilen, so gilt Artikel 60 Absätze 1 und 3 sinngemäss.[^60b-3]
+
+<sup>5</sup> Die Rahmenfrist von sechs Monaten nach Absatz 1 wird während des Bezugs eines Urlaubs nach Absatz 3 oder 4 unterbrochen.[^60b-4]
+
 [^60b-1]: Eingefügt durch Ziff. I der V vom 12. Mai 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 285](https://fedlex.data.admin.ch/eli/oc/2021/285)).
+[^60b-2]: Eingefügt durch Ziff. II der V vom 22. Nov. 2023 (Taggelder für den hinterlassenen Elternteil), in Kraft seit 1. Jan. 2024 ([AS 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
+[^60b-3]: Eingefügt durch Ziff. II der V vom 22. Nov. 2023 (Taggelder für den hinterlassenen Elternteil), in Kraft seit 1. Jan. 2024 ([AS 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
+[^60b-4]: Eingefügt durch Ziff. II der V vom 22. Nov. 2023 (Taggelder für den hinterlassenen Elternteil), in Kraft seit 1. Jan. 2024 ([AS 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
 
 #### Art. 60c
 
@@ -2406,7 +2425,7 @@ Vereinbaren der Arbeitgeber und die angestellte Person eine Fortsetzung des Anst
 
 ### (Art. 32*k* BPG)
 
-<sup>1</sup> Personen, die sich vor dem Rentenalter nach Artikel 21 AHVG[^88f-2] pensionieren lassen, können eine Überbrückungsrente beziehen.[^88f-3]
+<sup>1</sup> Personen, die sich vor dem Erreichen des Referenzalters nach Artikel 21 AHVG[^88f-2] pensionieren lassen, können eine Überbrückungsrente beziehen.[^88f-3]
 
 <sup>1bis</sup>
 
@@ -2443,7 +2462,7 @@ Tätigkeiten mit einer andauernd hohen physischen oder psychischen Belastung nac
 
 [^88f-1]: Fassung gemäss Ziff. I der V vom 20. Juni 2014, in Kraft seit 1. Aug. 2014 ([AS 2014 2171](https://fedlex.data.admin.ch/eli/oc/2014/367)).
 [^88f-2]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
-[^88f-3]: Fassung gemäss Ziff. I der V vom 15. Nov. 2017, in Kraft seit 1. Juli 2018 ([AS 2017 6209](https://fedlex.data.admin.ch/eli/oc/2017/689)).
+[^88f-3]: Fassung gemäss Anhang Ziff. 1 der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 [^88f-4]: Eingefügt durch Ziff. I der V vom 15. Nov. 2017, in Kraft seit 1. Juli 2018 ([AS 2017 6209](https://fedlex.data.admin.ch/eli/oc/2017/689)).
 [^88f-5]: Eingefügt durch Ziff. I der V vom 15. Nov. 2017, in Kraft seit 1. Juli 2018 ([AS 2017 6209](https://fedlex.data.admin.ch/eli/oc/2017/689)).
 [^88f-6]: Eingefügt durch Ziff. I der V vom 15. Nov. 2017, in Kraft seit 1. Juli 2018 ([AS 2017 6209](https://fedlex.data.admin.ch/eli/oc/2017/689)).
@@ -2687,6 +2706,31 @@ Als Eigengeschäft gilt jedes Rechtsgeschäft:
 <sup>2</sup> Sie können namentlich die Annahme von geringfügigen und sozial üblichen Vorteilen und von Einladungen sowie die Eigenschäfte strenger regeln oder untersagen.
 
 [^94d-1]: Eingefügt durch Ziff. I der V vom 15. Aug. 2012, in Kraft seit 15. Sept. 2012 ([AS 2012 4483](https://fedlex.data.admin.ch/eli/oc/2012/525)).
+
+#### Art. 94e
+
+**Auszug aus dem Strafregister und dem Betreibungsregister**[^94e-1]
+
+### (Art. 20*a* BPG)
+
+<sup>1</sup> Der Arbeitgeber kann von Bewerberinnen und Bewerbern sowie von Angestellten alle fünf Jahre oder aus wichtigen Gründen jederzeit einen Auszug aus dem Strafregister oder Betreibungsregister verlangen.
+
+<sup>2</sup> Die Kosten für die Auszüge trägt der Arbeitgeber.
+
+[^94e-1]: Eingefügt durch Anhang 8 Ziff. II 2 der V vom 8. Nov. 2023 über die Personensicherheitsprüfungen, in Kraft seit 1. Jan. 2024 ([AS 2023 736](https://fedlex.data.admin.ch/eli/oc/2023/736)).
+
+#### Art. 94f
+
+**Prüfung der Vertrauenswürdigkeit**[^94f-1]
+
+### (Art. 20*b* BPG)
+
+<sup>1</sup> Eine Prüfung der Vertrauenswürdigkeit von Bewerberinnen und Bewerbern sowie Angestellten kann unter den Voraussetzungen nach Artikel 11 der Verordnung vom 8. November 2023[^94f-2] über die Personensicherheitsprüfungen (VPSP) durchgeführt werden.
+
+<sup>2</sup> Die Funktionenliste, die Prüfstufen und das Verfahren der Prüfung sind in der VPSP geregelt.
+
+[^94f-1]: Eingefügt durch Anhang 8 Ziff. II 2 der V vom 8. Nov. 2023 über die Personensicherheitsprüfungen, in Kraft seit 1. Jan. 2024 ([AS 2023 736](https://fedlex.data.admin.ch/eli/oc/2023/736)).
+[^94f-2]: [SR 128.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40162)
 
 #### Art. 95
 
@@ -3010,19 +3054,20 @@ Zudem muss mindestens eine der folgenden Bedingungen erfüllt sein:
 
 <sup>3</sup>
 
-Der Arbeitgeber kann aus triftigen Gründen zusätzlich zur vorzeitigen Teil- oder Vollpensionierung die folgenden Leistungen erbringen:
+Der Arbeitgeber kann aus triftigen Gründen zusätzlich zu den Renten nach den Absätzen 1 und 2 die folgenden Leistungen erbringen:[^105b-2]
 
 - a. eine Beteiligung an den Kosten für die Weiterführung der Vorsorge nach Artikel 88*d*<sup>bis</sup> Absatz 3;
-- b. eine Beteiligung am Einkauf zur Erhöhung der Altersrente nach Artikel 32*a* VRAB[^105b-2];
-- c.[^105b-3] vollständige oder teilweise Übernahme der auf das Renteneinkommen entfallenden Beiträge nach Artikel 28 der Verordnung vom 31. Oktober 1947[^105b-4] über die Alters- und Hinterlassenenversicherung, längstens aber bis zum Erreichen der Altersgrenze nach Artikel 21 AHVG[^105b-5];
-- d.[^105b-6] …
+- b. eine Beteiligung am Einkauf zur Erhöhung der Altersrente nach Artikel 32*a* VRAB[^105b-3];
+- c.[^105b-4] vollständige oder teilweise Übernahme der auf das Renteneinkommen entfallenden Beiträge nach Artikel 28 der Verordnung vom 31. Oktober 1947[^105b-5] über die Alters- und Hinterlassenenversicherung, längstens aber bis zum Erreichen des Referenzalters nach Artikel 21 AHVG[^105b-6];
+- d.[^105b-7] …
 
 [^105b-1]: Fassung gemäss Ziff. I der V vom 12. Okt. 2016, in Kraft seit 1. Dez. 2016 ([AS 2016 3637](https://fedlex.data.admin.ch/eli/oc/2016/611)).
-[^105b-2]: [SR 172.220.141.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5392)
-[^105b-3]: Fassung gemäss Ziff. I der V vom 2. Dez. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4507](https://fedlex.data.admin.ch/eli/oc/2016/734)).
-[^105b-4]: [SR 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
-[^105b-5]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
-[^105b-6]: Aufgehoben durch Ziff. I der V vom 22. Nov. 2017, mit Wirkung seit 1. Jan. 2018 ([AS 2017 6737](https://fedlex.data.admin.ch/eli/oc/2017/753)).
+[^105b-2]: Fassung gemäss Anhang Ziff. 1 der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^105b-3]: [SR 172.220.141.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5392)
+[^105b-4]: Fassung gemäss Anhang Ziff. 1 der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^105b-5]: [SR 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
+[^105b-6]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
+[^105b-7]: Aufgehoben durch Ziff. I der V vom 22. Nov. 2017, mit Wirkung seit 1. Jan. 2018 ([AS 2017 6737](https://fedlex.data.admin.ch/eli/oc/2017/753)).
 
 #### Art. 105c
 
@@ -3421,6 +3466,23 @@ Angestellte in den Lohnklassen 31 und höher, deren Stelle beim Inkrafttreten de
 Der Lohn von Angestellten, deren Funktion aus Gründen, die nicht bei ihnen liegen, tiefer bewertet oder denen eine tiefer bewertete Funktion zugewiesen wird und die beim Inkrafttreten der Änderung vom 12. Mai 2021 das 55. Altersjahr vollendet haben, wird nicht an die neue Lohnklasse angepasst.
 
 [^116k-1]: Eingefügt durch Ziff. I der V vom 12. Mai 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 285](https://fedlex.data.admin.ch/eli/oc/2021/285)).
+
+#### Art. 116l
+
+**Übergangsbestimmungen zur Änderung vom 30. August 2023**[^116l-1]
+
+<sup>1</sup> Weibliche Angestellte haben nach Beendigung des Arbeitsverhältnisses infolge Erreichens des in Buchstabe a Buchstaben a–d der Übergangsbestimmungen der Änderung vom 17. Dezember 2021[^116l-2] des AHVG[^116l-3] festgelegten Referenzalters Anspruch auf ein neues Arbeitsverhältnis zu den gleichen Anstellungsbedingungen bis längstens zum 65. Altersjahr. Der Anspruch ist spätestens sechs Monate vor der Beendigung des Arbeitsverhältnisses bei der zuständigen Stelle geltend zu machen.
+
+<sup>2</sup> Anspruch auf eine Reallohnerhöhung nach Artikel 44*a* Absatz 2 haben weibliche Angestellte infolge freiwilligen Altersrücktritts vor dem Erreichen des in Buchstabe a Buchstaben a–d der Übergangsbestimmungen der Änderung vom 17. Dezember 2021 des AHVG festgelegten Referenzalters.
+
+<sup>3</sup> Weibliche Angestellte, die sich vor dem Erreichen des in Buchstabe a Buchstaben a–d der Übergangsbestimmungen der Änderung vom 17. Dezember 2021 des AHVG festgelegten Referenzalters pensionieren lassen, können eine Überbrückungsrente nach Artikel 88*f* Absatz 1 beziehen.
+
+<sup>4</sup> Der Arbeitgeber kann aus triftigen Gründen zusätzlich zu den Renten nach Artikel 105*b* Absätze 1 und 2 die auf das Renteneinkommen der weiblichen Angestellten entfallenden Beiträge nach Artikel 28 der Verordnung vom 31. Oktober 1947[^116l-4] über die Alters- und Hinterlassenenversicherung vollständig oder teilweise übernehmen, längstens aber bis zum Erreichen des in Buchstabe a Buchstaben a–d der Übergangsbestimmungen der Änderung vom 17. Dezember 2021 des AHVG festgelegten Referenzalters.
+
+[^116l-1]: Eingefügt durch Anhang Ziff. 1 der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^116l-2]: [AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92)
+[^116l-3]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
+[^116l-4]: [SR 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
 
 #### Art. 117
 

@@ -4,11 +4,11 @@ title: Ordonnance du 3 juillet 2001 sur le personnel de la Confédération (OPer
 short: OPers
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/319"
 language: fr
-version: 2023-01-01
+version: 2024-01-01
 adopted: 2001-07-03
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/319/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2001-319-20230101-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/319/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/319/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2001-319-20240101-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/319/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/319/20230101/fr"
 
 (OPers)
 
-du 3 juillet 2001 (État le 1<sup>er</sup> janvier 2023)
+du 3 juillet 2001 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -92,7 +92,7 @@ Le Conseil fédéral est compétent pour conclure, modifier et résilier les rap
 - e. des vice-chanceliers de la Confédération;
 - f. des chefs de mission;
 - g.[^2-3] du délégué à la transformation numérique et à la gouvernance de l’informatique;
-- h.[^2-4] ...
+- h.[^2-4] …
 
 <sup>1bis</sup> Le chef de département est compétent pour conclure, modifier et résilier les rapports de travail des suppléants des secrétaires d’État, des directeurs d’office et des secrétaires généraux des départements.[^2-5]
 
@@ -172,7 +172,7 @@ Dans les cas suivants, il peut demander à l’employé de rembourser les frais 
 
 <sup>5bis</sup> Pour le remboursement des frais visés à l’al. 4<sup>bis</sup>, les délais courent à partir du jour suivant la fin de la période d’essai.[^4-7]
 
-<sup>6</sup> ...[^4-8]
+<sup>6</sup> …[^4-8]
 
 [^4-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mai 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
 [^4-2]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mai 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
@@ -450,7 +450,7 @@ Le service chargé des questions du personnel est l’Office fédéral du person
 - d.[^18-4] il définit l’aménagement des systèmes centralisés d’information concernant le personnel de l’administration fédérale et gère ces systèmes; il peut autoriser l’utilisation de systèmes spécifiques aux départements;
 - e. il fournit des instruments de gestion des ressources humaines et financières;
 - f. il coordonne la mise en œuvre des mesures en faveur de l’égalité des chances et de l’égalité de traitement entre femmes et hommes;
-- g.[^18-5] ...
+- g.[^18-5] …
 - h.[^18-6] il coordonne la mise en œuvre des mesures en faveur de l’emploi et de l’intégration des handicapés;
 - i. il assure le controlling stratégique;
 - j. il élabore les bases des rapports destinés au Conseil fédéral et à l’Assemblée fédérale (art. 21);
@@ -614,9 +614,9 @@ Dans la mesure où l’accomplissement de tâches impliquant l’exercice de la 
 - c. par le DFAE, pour le personnel affecté à la représentation de la Suisse à l’étranger;
 - d. par le DFF, pour les membres du corps des gardes-frontière;
 - e. par les départements, pour le personnel du département qui représente la Suisse lors de négociations internationales;
-- f.[^23-2] ...
+- f.[^23-2] …
 
-<sup>2</sup> ...[^23-3]
+<sup>2</sup> …[^23-3]
 
 <sup>3</sup> Si l’accès à un poste est limité, l’autorité compétente en vertu de l’art. 2 le signale dans la mise au concours (art. 22).
 
@@ -632,7 +632,7 @@ Dans la mesure où l’accomplissement de tâches impliquant l’exercice de la 
 
 <sup>1</sup> Si la fonction l’exige, l’autorité compétente en vertu de l’art. 2 peut subordonner l’engagement à des conditions telles que l’âge, la formation préalable ou la capacité d’exercice des droits civils.
 
-<sup>2</sup> ...[^24-1]
+<sup>2</sup> …[^24-1]
 
 <sup>3</sup> Si les activités d’une personne touchent à la sécurité, son engagement après la conclusion du contrat de travail ou le maintien à son poste peuvent être subordonnés à une évaluation médicale de ses aptitudes. Le DFF établit en collaboration avec les départements une liste des activités concernées et fixe la fréquence de cette évaluation.[^24-2]
 
@@ -859,7 +859,7 @@ La résiliation du contrat de travail est considérée comme due à une faute de
 - c.[^31-2] l’employé soumis à la discipline des transferts du DFAE renonce de son propre gré à la nationalité suisse;
 - d. l’employé soumis à la discipline des transferts refuse de donner suite à un transfert.
 
-<sup>2</sup> ...[^31-3]
+<sup>2</sup> …[^31-3]
 
 [^31-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mai 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
 [^31-2]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6737](https://fedlex.data.admin.ch/eli/oc/2017/753)).
@@ -908,18 +908,23 @@ La résiliation du contrat de travail est considérée comme due à une faute de
 
 #### Art. 35
 
-**Activité allant au-delà de l’âge ordinaire de la retraite**[^35-1]
+**Activité allant au-delà de l’âge de référence AVS**[^35-1]
 
 ### (art. 10, al. 2, LPers)
 
-<sup>1</sup> Lorsque les rapports de travail ont pris fin parce que l’employé atteint l’âge de la retraite au sens de l’art. 21 de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants (LAVS)[^35-2], l’autorité compétente visée à l’art. 2 peut, en accord avec la personne concernée, établir de nouveaux rapports de travail. L’art. 52*a* OPers n’est pas applicable.
+[^35-2]
 
-<sup>2</sup> Les employées dont les rapports de travail ont pris fin parce qu’elles ont atteint l’âge de la retraite au sens de l’art. 21 LAVS ont droit à l’établissement de nouveaux rapports de travail aux mêmes conditions d’engagement jusqu’à ce qu’elles aient atteint l’âge de 65 ans au maximum. La demande doit être faite auprès du service compétent au plus tard six mois avant la fin des rapports de travail.
+<sup>1</sup> Lorsque les rapports de travail ont pris fin parce que l’employé atteint l’âge de référence fixé à l’art. 21 de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants (LAVS)[^35-3], l’autorité compétente visée à l’art. 2 peut, en accord avec la personne concernée, établir de nouveaux rapports de travail. L’art 52*a* de la présente ordonnance n’est pas applicable.[^35-4]
+
+<sup>2</sup> …[^35-5]
 
 <sup>3</sup> Les rapports de travail de durée indéterminée visés à l’al. 1 prennent fin sans résiliation à la fin du mois au cours duquel l’employé atteint l’âge de 70 ans.
 
 [^35-1]: Nouvelle teneur selon le ch. I de l’O du 13 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3803](https://fedlex.data.admin.ch/eli/oc/2019/693)).
-[^35-2]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
+[^35-2]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^35-3]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
+[^35-4]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^35-5]: Abrogé par l’annexe ch. 1 de l’O du 30 août 2023, avec effet au 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 ## Chapitre 4 Prestations de l’employeur
 
@@ -1108,11 +1113,11 @@ La compensation du renchérissement est versée sur:
 - f. l’allocation spéciale;
 - g. l’allocation liée au marché de l’emploi;
 - h.[^44-2] les allocations complétant l’allocation familiale;
-- i.[^44-3] ...
+- i.[^44-3] …
 
 <sup>3</sup> Les montants maximaux fixés pour le salaire (art. 36) et pour l’indemnité de résidence (art. 43) sont majorés en fonction du renchérissement,
 
-<sup>4</sup> ...[^44-4]
+<sup>4</sup> …[^44-4]
 
 [^44-1]: Introduite par le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 616](https://fedlex.data.admin.ch/eli/oc/2022/616)).
 [^44-2]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5395](https://fedlex.data.admin.ch/eli/oc/2020/936)).
@@ -1127,22 +1132,24 @@ La compensation du renchérissement est versée sur:
 
 <sup>1</sup> Après avoir négocié avec les associations du personnel, le Conseil fédéral fixe le montant de l’augmentation du salaire réel et le moment auquel elle prend effet. Il peut ne pas accorder l’augmentation du salaire réel aux employés rangés dans certaines classes de salaire lorsque la situation prévalant sur le marché du travail justifie une telle mesure, ou moduler le montant de l’augmentation du salaire réel en fonction des classes de salaire.
 
-<sup>2</sup> Ont droit à une augmentation de leur salaire réel les employés dont les rapports de travail ne sont pas résiliés au moment où l’augmentation devient effective, ou dont les rapports de travail son résiliés par suite du départ de l’employé à la retraite anticipée volontaire ou de son engagement auprès d’une autre unité administrative au sens de l’art. 1, al. 1.
+<sup>2</sup> Ont droit à une augmentation de leur salaire réel les employés dont les rapports de travail ne sont pas résiliés au moment où l’augmentation devient effective, ou dont les rapports de travail sont résiliés par suite du départ à la retraite volontaire de l’employé avant l’âge de référence fixé à l’art. 21 LAVS[^44a-2], ou de son engagement auprès d’une autre unité administrative au sens de l’art. 1, al. 1.[^44a-3]
 
 <sup>3</sup>
 
 N’ont pas droit à une augmentation de leur salaire réel les employés:
 
 - a. occupant une fonction moins bien évaluée que précédemment, mais dont le salaire antérieur a été maintenu nominalement, ou
-- b. dont le salaire a atteint le montant maximal de la classe de salaire 38.[^44a-2]
+- b. dont le salaire a atteint le montant maximal de la classe de salaire 38.[^44a-4]
 
-<sup>4</sup> L’augmentation du salaire réel est versée sur le salaire visé à l’art. 36 et sur la prime de fonction visée à l’art. 46. Les montants maximaux des classes de salaire 1 à 37 sont modifiés en fonction de l’augmentation du salaire réel.[^44a-3]
+<sup>4</sup> L’augmentation du salaire réel est versée sur le salaire visé à l’art. 36 et sur la prime de fonction visée à l’art. 46. Les montants maximaux des classes de salaire 1 à 37 sont modifiés en fonction de l’augmentation du salaire réel.[^44a-5]
 
 <sup>5</sup> La compensation du renchérissement au sens de l’art. 44 versée au moment de l’entrée en vigueur d’une augmentation du salaire réel est calculée sur la base des montants précédant ladite augmentation.
 
 [^44a-1]: Introduit par le ch. I de l’O du 1<sup>er</sup> mai 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
-[^44a-2]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5395](https://fedlex.data.admin.ch/eli/oc/2020/936)).
-[^44a-3]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5395](https://fedlex.data.admin.ch/eli/oc/2020/936)).
+[^44a-2]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
+[^44a-3]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^44a-4]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5395](https://fedlex.data.admin.ch/eli/oc/2020/936)).
+[^44a-5]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5395](https://fedlex.data.admin.ch/eli/oc/2020/936)).
 
 #### Art. 45
 
@@ -1318,7 +1325,7 @@ Le montant des allocations complétant l’allocation familiale correspond à la
 
 <sup>6</sup> L’autorité compétente en vertu de l’art. 2 peut ranger jusqu’à 2 % des postes des classes de salaire 1 à 30 dans la classe supérieure à celle que prévoit l’évaluation ordinaire de la fonction, à condition que cette mesure soit fondée sur un élargissement de la fonction lié aux qualités particulières de la personne engagée.[^52-3]
 
-<sup>7</sup> ...[^52-4]
+<sup>7</sup> …[^52-4]
 
 <sup>7bis</sup> Lorsque la condition d’affectation d’une fonction à une classe supérieure prévue à l’al. 6 n’est plus remplie, l’autorité compétente en vertu de l’art. 2 modifie la classe de salaire et le salaire dans le contrat de travail. L’art. 52*a* n’est pas applicable.[^52-5]
 
@@ -1399,11 +1406,11 @@ Les organes chargés de l’évaluation des fonctions dans l’administration f�
 
 <sup>2</sup> Au terme de ce délai, l’employeur verse à l’employé 90 % du salaire pendant douze mois.
 
-<sup>3</sup> ...[^56-2]
+<sup>3</sup> …[^56-2]
 
 <sup>4</sup> Les prestations visées aux al. 1 et 2 sont allouées à condition qu’un certificat médical soit produit et que les ordres du médecin soient suivis. L’autorité compétente en vertu de l’art. 2 peut demander que l’employé soit examiné par un médecin-conseil ou par le service médical.[^56-3]
 
-<sup>5</sup> ...[^56-4]
+<sup>5</sup> …[^56-4]
 
 <sup>6</sup> Si, dans le cadre d’une mesure de réadaptation au sens de l’art. 11a, des placements à l’essai sont effectués dans une autre fonction que celle convenue par contrat, le droit au salaire est déterminé selon les al. 1 et 2.[^56-5]
 
@@ -1515,18 +1522,21 @@ L’employeur prend en charge les frais non couverts par les assurances privées
 
 <sup>1</sup> Lors de la naissance d’un ou de plusieurs enfants, l’employée a droit à un congé maternité payé de quatre mois. Si un nouveau-né doit être hospitalisé de façon ininterrompue durant deux semaines au moins immédiatement après sa naissance, le congé est prolongé d’une durée équivalente à celle de l’hospitalisation, mais dure au total 154 jours au plus.[^60-3]
 
-<sup>2</sup> L’employée peut prendre son congé maternité deux semaines au plus avant la date présumée de l’accouchement.[^60-4]
+<sup>1bis</sup> Si le père ou le deuxième parent reconnu sur le plan juridique décède dans les six mois qui suivent la naissance de l’enfant, l’employée a droit à 20 jours ouvrés supplémentaires de congé maternité ainsi qu’au versement du salaire intégral et des allocations sociales. Ces 20 jours ouvrés peuvent être pris sous forme de semaines ou de jours séparés dans les six mois à compter du jour qui suit le décès.[^60-4]
 
-<sup>3</sup> Durant les quatre premiers mois du congé maternité, le salaire intégral et les allocations sociales sont versés à l’employée. Si le congé est prolongé en raison de l’hospitalisation du nouveau-né, seule l’allocation de maternité prévue par la loi fédérale du 25 septembre 1952 sur les allocations pour perte de gain[^60-5] est versée à l’employée durant cette période.[^60-6]
+<sup>2</sup> L’employée peut prendre son congé maternité deux semaines au plus avant la date présumée de l’accouchement.[^60-5]
+
+<sup>3</sup> Durant les quatre premiers mois du congé maternité, le salaire intégral et les allocations sociales sont versés à l’employée. Si le congé est prolongé en raison de l’hospitalisation du nouveau-né, seule l’allocation de maternité prévue par la loi fédérale du 25 septembre 1952 sur les allocations pour perte de gain[^60-6] est versée à l’employée durant cette période.[^60-7]
 
 <sup>4</sup> Les réglementations cantonales sont réservées.
 
 [^60-1]: Nouvelle teneur selon le ch. I 2 de l’O du 10 juin 2005 portant introduction de l’allocation de maternité dans la législation sur le personnel de la Confédération, en vigueur depuis le 1<sup>er</sup> juil. 2005 ([RO 2005 2479](https://fedlex.data.admin.ch/eli/oc/2005/423)).
 [^60-2]: Nouvelle teneur selon le ch. I de l’O du 3 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 843](https://fedlex.data.admin.ch/eli/oc/2021/843)).
 [^60-3]: Nouvelle teneur selon le ch. I de l’O du 3 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 843](https://fedlex.data.admin.ch/eli/oc/2021/843)).
-[^60-4]: Nouvelle teneur selon le ch. I de l’O du 3 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 843](https://fedlex.data.admin.ch/eli/oc/2021/843)).
-[^60-5]: [RS 834.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10262)
-[^60-6]: Nouvelle teneur selon le ch. I de l’O du 3 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 843](https://fedlex.data.admin.ch/eli/oc/2021/843)).
+[^60-4]: Introduit par le ch. II de l’O du 22 nov. 2023 (Indemnités journalières pour le parent survivant), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
+[^60-5]: Nouvelle teneur selon le ch. I de l’O du 3 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 843](https://fedlex.data.admin.ch/eli/oc/2021/843)).
+[^60-6]: [RS 834.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10262)
+[^60-7]: Nouvelle teneur selon le ch. I de l’O du 3 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 843](https://fedlex.data.admin.ch/eli/oc/2021/843)).
 
 #### Art. 60a
 
@@ -1558,7 +1568,16 @@ L’employeur prend en charge les frais non couverts par les assurances privées
 
 <sup>2</sup> À la naissance d’un ou de plusieurs enfants de son partenaire enregistré, l’autre partenaire a également droit à un congé payé de 20 jours ouvrés.
 
+<sup>3</sup> Si la mère décède le jour de l’accouchement ou dans les 97 jours qui suivent, le père ou le deuxième parent reconnu sur le plan juridique a droit à quatre mois supplémentaires de congé. Ce congé commence le jour qui suit le décès de la mère et doit être pris en une fois. Le salaire intégral et les allocations sociales lui sont versés.[^60b-2]
+
+<sup>4</sup> Si la mère décède le jour de l’accouchement ou dans les 97 jours qui suivent et que le nouveau‑né doit être hospitalisé de façon ininterrompue durant au moins deux semaines immédiatement après sa naissance, l’art. 60, al. 1 et 3, s’applique par analogie.[^60b-3]
+
+<sup>5</sup> Le délai-cadre de six mois prévu à l’al. 1 est interrompu pendant la période où le droit au congé visé à l’al. 3 ou 4 est exercé.[^60b-4]
+
 [^60b-1]: Introduit par le ch. I de l’O du 12 mai 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 285](https://fedlex.data.admin.ch/eli/oc/2021/285)).
+[^60b-2]: Introduit par le ch. II de l’O du 22 nov. 2023 (Indemnités journalières pour le parent survivant), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
+[^60b-3]: Introduit par le ch. II de l’O du 22 nov. 2023 (Indemnités journalières pour le parent survivant), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
+[^60b-4]: Introduit par le ch. II de l’O du 22 nov. 2023 (Indemnités journalières pour le parent survivant), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
 
 #### Art. 60c
 
@@ -1608,7 +1627,7 @@ L’enfant est réputé gravement atteint dans sa santé:
 
 <sup>1</sup> Si l’employé décède, ses survivants reçoivent un sixième de son salaire annuel.
 
-<sup>2</sup> ...[^62-1]
+<sup>2</sup> …[^62-1]
 
 [^62-1]: Abrogé par le ch. I de l’O du 13 nov. 2019, avec effet au 1<sup>er</sup> janv. 2020 ([RO 2019 3803](https://fedlex.data.admin.ch/eli/oc/2019/693)).
 
@@ -1756,7 +1775,7 @@ Lorsque les heures d’appoint et les heures supplémentaires ne peuvent être c
 
 <sup>1</sup> Un congé payé est accordé pour les jours fériés qui tombent un jour ouvrable.
 
-<sup>2</sup> Sont considérés comme jours fériés entiers le Nouvel an, la Saint-Berchtold, le Vendredi Saint, le lundi de Pâques, l’Ascension, le lundi de Pentecôte, la Fête nationale, Noël et la Saint-Etienne. Les 24 et 31 décembre sont des demi-jours fériés.
+<sup>2</sup> Sont considérés comme jours fériés entiers le Nouvel an, la Saint-Berchtold, le Vendredi Saint, le lundi de Pâques, l’Ascension, le lundi de Pentecôte, la Fête nationale, Noël et la Saint-Étienne. Les 24 et 31 décembre sont des demi-jours fériés.
 
 <sup>3</sup> Pour les autres jours fériés officiels du lieu de travail tombant un jour ouvrable et où les employés ne travaillent pas, le temps de travail réglementaire doit être rattrapé en cours d’année ou compensé par des jours de vacances.
 
@@ -1786,7 +1805,7 @@ L’employé a droit à:
 
 <sup>3</sup> Les vacances doivent être prises pendant l’année civile au cours de laquelle le droit aux vacances prend naissance. Si cela est impossible pour des raisons d’exploitation majeures ou en raison d’un accident ou d’une maladie, elles doivent être prises l’année suivante.
 
-<sup>4</sup> ...[^67-3]
+<sup>4</sup> …[^67-3]
 
 [^67-1]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6737](https://fedlex.data.admin.ch/eli/oc/2017/753)).
 [^67-2]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mai 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
@@ -1915,7 +1934,7 @@ Le DFF fixe les indemnités versées pour:
 
 La prime de fidélité consiste:
 
-- a.[^73-2] ...
+- a.[^73-2] …
 - b. en la moitié du salaire mensuel après 10 années et 15 années de travail;
 - c. en un salaire mensuel après chaque nouvelle tranche de 5 années de travail.[^73-3]
 
@@ -1953,7 +1972,7 @@ La prime de fidélité consiste:
 
 Afin d’améliorer les conditions de travail ou l’organisation individuelle du travail, l’employeur peut soutenir des équipements collectifs en faveur du personnel, notamment:
 
-- a.[^75-2] ...
+- a.[^75-2] …
 - b. l’exploitation de restaurants du personnel, de cafétérias et d’autres équipements permettant au personnel de se ressourcer;
 - c. l’achat de logements d’habitation.
 
@@ -2102,7 +2121,7 @@ Les indemnités visées à l’art. 19, al. 4, LPers peuvent être versées lors
 - g. aux collaborateurs personnels des chefs de départements;
 - h. à d’autres cadres supérieurs, dans des cas particuliers;
 - i. aux employés dans le contrat de travail desquels est fixée une condition d’engagement visée à l’art. 26, al. 6;
-- j.[^78-6] ...
+- j.[^78-6] …
 - k. au personnel de la DDC.
 
 <sup>2bis</sup> Les indemnités visées aux al. 1 et 2 peuvent également être versées lorsque la cessation des rapports de travail intervient d’un commun accord.[^78-7]
@@ -2163,7 +2182,7 @@ Aucune indemnité n’est versée aux personnes:
 
 <sup>6</sup> L’indemnité versée aux employés qui ont refusé une retraite anticipée selon l’art. 105*a* ne doit pas dépasser le coût total des prestations offertes selon l’art. 105*b*.[^79-7]
 
-<sup>7</sup> ...[^79-8]
+<sup>7</sup> …[^79-8]
 
 [^79-1]: Nouvelle teneur selon le ch. I de l’O du 22 déc. 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2005 3](https://fedlex.data.admin.ch/eli/oc/2005/2)).
 [^79-2]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6737](https://fedlex.data.admin.ch/eli/oc/2017/753)).
@@ -2231,7 +2250,7 @@ Sont prises en compte, au titre des économies résultant du séjour à l’étr
 
 <sup>2</sup> L’adaptation au pouvoir d’achat, à la hausse ou à la baisse, porte sur tout ou partie du salaire, sur les allocations complétant l’allocation familiale visées à l’art. 51*a*, sur les indemnités forfaitaires allouées pour le travail de relations publiques et sur l’indemnité de couverture des frais sur le lieu de travail.[^83-1]
 
-<sup>3</sup> ...[^83-2]
+<sup>3</sup> …[^83-2]
 
 [^83-1]: Nouvelle teneur selon le ch. I de l’O du 13 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3803](https://fedlex.data.admin.ch/eli/oc/2019/693)).
 [^83-2]: Introduit par l’annexe ch. 2 de l’O du 31 oct. 2007 sur les allocations familiales, ([RO 2008 145](https://fedlex.data.admin.ch/eli/oc/2008/52)). Abrogé par le ch. I de l’O du 6 mars 2009, avec effet au 1<sup>er</sup> janv. 2009 ([RO 2009 1137](https://fedlex.data.admin.ch/eli/oc/2009/184)).
@@ -2326,9 +2345,9 @@ On entend par organisations internationales au sens de la présente disposition:
 
 <sup>2</sup> Si aucune compensation du renchérissement n’est versée à un employé en vertu de l’art. 52*a* ou si le salaire de cet employé est réduit en vertu de l’art. 56, al. 2, le salaire assurable précédent reste inchangé jusqu’à ce que la compensation du renchérissement soit à nouveau versée ou que le droit au salaire en cas de maladie ou d’accident s’éteigne.[^88a-2]
 
-<sup>3</sup> ...[^88a-3]
+<sup>3</sup> …[^88a-3]
 
-<sup>4</sup> ...[^88a-4]
+<sup>4</sup> …[^88a-4]
 
 [^88a-1]: Nouvelle teneur selon le ch. II 3 de l’O du 21 mai 2008 modifiant le droit fédéral à la suite du changement de régime de prévoyance de PUBLICA, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2181](https://fedlex.data.admin.ch/eli/oc/2008/319)).
 [^88a-2]: Nouvelle teneur selon le ch. I de l’O du 13 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3803](https://fedlex.data.admin.ch/eli/oc/2019/693)).
@@ -2405,7 +2424,7 @@ Lorsque l’employeur et la personne employée conviennent de maintenir les rela
 
 ### (art. 32*k* LPers)
 
-<sup>1</sup> L’employé qui prend une retraite avant l’âge fixé à l’art. 21 LAVS[^88f-2] peut percevoir une rente transitoire.[^88f-3]
+<sup>1</sup> L’employé qui part à la retraite avant d’avoir atteint l’âge de référence fixé à l’art. 21 LAVS[^88f-2] peut percevoir une rente transitoire.[^88f-3]
 
 <sup>1bis</sup>
 
@@ -2442,13 +2461,13 @@ Les activités continuellement très pénibles sur le plan physique ou psychique
 
 [^88f-1]: Nouvelle teneur selon le ch. I de l’O du 20 juin 2014, en vigueur depuis le 1<sup>er</sup> août 2014 ([RO 2014 2171](https://fedlex.data.admin.ch/eli/oc/2014/367)).
 [^88f-2]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
-[^88f-3]: Nouvelle teneur selon le ch. I de l’O du 15 nov. 2017, en vigueur depuis le 1<sup>er</sup> juil. 2018 ([RO 2017 6209](https://fedlex.data.admin.ch/eli/oc/2017/689)).
+[^88f-3]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 [^88f-4]: Introduit par le ch. I de l’O du 15 nov. 2017, en vigueur depuis le 1<sup>er</sup> juil. 2018 ([RO 2017 6209](https://fedlex.data.admin.ch/eli/oc/2017/689)).
 [^88f-5]: Introduit par le ch. I de l’O du 15 nov. 2017, en vigueur depuis le 1<sup>er</sup> juil. 2018 ([RO 2017 6209](https://fedlex.data.admin.ch/eli/oc/2017/689)).
 [^88f-6]: Introduit par le ch. I de l’O du 15 nov. 2017, en vigueur depuis le 1<sup>er</sup> juil. 2018 ([RO 2017 6209](https://fedlex.data.admin.ch/eli/oc/2017/689)).
 [^88f-7]: Nouvelle teneur selon le ch. I de l’O du 12 juin 2015, en vigueur depuis le 1<sup>er</sup> août 2015 ([RO 2015 2243](https://fedlex.data.admin.ch/eli/oc/2015/417)).
 
-### Section 3 ...
+### Section 3 …
 
 #### Art. 88gà 88j
 
@@ -2456,7 +2475,7 @@ Les activités continuellement très pénibles sur le plan physique ou psychique
 
 [^88g88j-1]: Abrogés par l’art. 7 de l’O du 20 fév. 2013 sur la retraite des membres des catégories particulières de personnel, avec effet au 1<sup>er</sup> juil. 2013 ([RO 2013 771](https://fedlex.data.admin.ch/eli/oc/2013/154)). Voir toutefois les disp. trans. à l’art. 8 de cette O.
 
-### Section 4 ...
+### Section 4 …
 
 #### Art. 88k
 
@@ -2687,6 +2706,31 @@ Par opération pour compte propre, on entend toute transaction juridique:
 
 [^94d-1]: Introduit par le ch. I de l’O du 15 août 2012, en vigueur depuis le 15 sept. 2012 ([RO 2012 4483](https://fedlex.data.admin.ch/eli/oc/2012/525)).
 
+#### Art. 94e
+
+**Extrait du casier judiciaire et du registre des poursuites**[^94e-1]
+
+### (art. 20*a* LPers)
+
+<sup>1</sup> L’employeur peut exiger des candidats et de ses employés qu’ils produisent un extrait de leur casier judiciaire ou du registre des poursuites tous les cinq ans ou, pour de justes motifs, en tout temps.
+
+<sup>2</sup> L’employeur prend à sa charge les coûts des extraits.
+
+[^94e-1]: Introduit par l’annexe 8 ch. II 2 de l’O du 8 nov. 2023 sur les contrôles de sécurité relatifs aux personnes, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 736](https://fedlex.data.admin.ch/eli/oc/2023/736)).
+
+#### Art. 94f
+
+**Contrôle de loyauté**[^94f-1]
+
+### (art. 20*b* LPers)
+
+<sup>1</sup> Les candidats et les employés peuvent être soumis à un contrôle de loyauté aux conditions fixées à l’art. 11 de l’ordonnance du 8 novembre 2023 sur les contrôles de sécurité relatifs aux personnes (OCSP)[^94f-2].
+
+<sup>2</sup> La liste des fonctions, les degrés de contrôle et la procédure du contrôle sont régis par l’OCSP.
+
+[^94f-1]: Introduit par l’annexe 8 ch. II 2 de l’O du 8 nov. 2023 sur les contrôles de sécurité relatifs aux personnes, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 736](https://fedlex.data.admin.ch/eli/oc/2023/736)).
+[^94f-2]: [RS 128.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40162)
+
 #### Art. 95
 
 **Devoirs particuliers du personnel affecté à l’étranger**
@@ -2761,7 +2805,7 @@ L’exercice du droit de grève est interdit aux membres des catégories de pers
 L’employé qui a manqué à ses obligations professionnelles par négligence s’expose aux mesures disciplinaires suivantes:
 
 - a. avertissement;
-- b.[^99-1] ...
+- b.[^99-1] …
 - c. changement du domaine d’activité.
 
 <sup>3</sup>
@@ -3009,19 +3053,20 @@ En outre, au moins l’une des conditions suivantes doit être remplie:
 
 <sup>3</sup>
 
-L’employeur peut, pour des raisons pertinentes, fournir les prestations suivantes en sus de la retraite anticipée partielle ou complète:
+L’employeur peut, pour des raisons pertinentes, fournir les prestations suivantes en sus des rentes visées aux al. 1 et 2:[^105b-2]
 
 - a. une participation aux coûts de maintien de la prévoyance selon l’art. 88*d*<sup>bis</sup>, al. 3;
-- b. une participation au rachat visant à augmenter la rente de vieillesse selon l’art. 32*a* RPEC[^105b-2];
-- c.[^105b-3] une prise en charge complète ou partielle des cotisations sur le revenu tiré des rentes selon l’art. 28 du règlement du 31 octobre 1947 sur l’assurance-vieillesse et survivants[^105b-4], mais au plus tard jusqu’à l’âge donnant droit à une rente de vieillesse au sens de l’art. 21 LAVS[^105b-5];
-- d.[^105b-6] ...
+- b. une participation au rachat visant à augmenter la rente de vieillesse selon l’art. 32*a* RPEC[^105b-3];
+- c.[^105b-4] une prise en charge complète ou partielle des cotisations sur le revenu tiré des rentes selon l’art. 28 du règlement du 31 octobre 1947 sur l’assurance-vieillesse et survivants[^105b-5], mais au plus tard jusqu’à l’âge de référence fixé à l’art. 21 LAVS[^105b-6];
+- d.[^105b-7] …
 
 [^105b-1]: Nouvelle teneur selon le ch. I de l’O du 12 oct. 2016, en vigueur depuis le 1<sup>er</sup> déc. 2016 ([RO 2016 3637](https://fedlex.data.admin.ch/eli/oc/2016/611)).
-[^105b-2]: [RS 172.220.141.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5392)
-[^105b-3]: Nouvelle teneur selon le ch. I de l’O du 2 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4507](https://fedlex.data.admin.ch/eli/oc/2016/734)).
-[^105b-4]: [RS 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
-[^105b-5]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
-[^105b-6]: Abrogée par le ch. I de l’O du 22 nov. 2017, avec effet au 1<sup>er</sup> janv. 2018 ([RO 2017 6737](https://fedlex.data.admin.ch/eli/oc/2017/753)).
+[^105b-2]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^105b-3]: [RS 172.220.141.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5392)
+[^105b-4]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^105b-5]: [RS 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
+[^105b-6]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
+[^105b-7]: Abrogée par le ch. I de l’O du 22 nov. 2017, avec effet au 1<sup>er</sup> janv. 2018 ([RO 2017 6737](https://fedlex.data.admin.ch/eli/oc/2017/753)).
 
 #### Art. 105c
 
@@ -3080,7 +3125,7 @@ L’employeur peut aussi fournir à l’employé âgé de 60 ans révolus les pr
 
 Des raisons d’exploitation ou de politique du personnel existent notamment si:
 
-- a.[^106-4] ...
+- a.[^106-4] …
 - b. la suppression du poste est prévue;
 - c. le règlement durable de la succession de l’employé l’exige;
 - d. l’initiation à une nouvelle technique, une nouvelle organisation ou un nouveau processus ne semble plus rationnelle, pour des raisons objectives ou personnelles.
@@ -3131,7 +3176,7 @@ Des raisons d’exploitation ou de politique du personnel existent notamment si:
 
 <sup>3</sup> Le suivi est effectué sur la base de données impersonnelles, portant sur toutes les fonctions et toutes les classes. Sont considérées comme des données impersonnelles les observations d’ordre général rendues anonymes qui concernent l’application des dispositions sur l’entretien avec le collaborateur, sur l’évaluation personnelle et sur la rémunération.
 
-<sup>4</sup> ...[^108-1]
+<sup>4</sup> …[^108-1]
 
 <sup>5</sup> Le comité de suivi peut instituer un comité paritaire pour le traitement des cas particuliers. Ce comité peut comprendre des personnes qui ne font pas partie du comité de suivi. Le comité paritaire formule des recommandations à l’intention du comité de suivi.
 
@@ -3183,7 +3228,7 @@ Les commissions du personnel émettent un avis à l’intention des organes de d
 
 #### Art. 113
 
-**...[^113-1]**
+**…[^113-1]**
 
 ### (art. 34 LPers)
 
@@ -3227,7 +3272,7 @@ Le DFAE peut, en accord avec le DFF, édicter des dispositions dérogatoires app
 - [tab] o<sup>ter</sup>.[^114-6] art. 75*b*: droit au remboursement des coûts de l’accueil extrafamilial des enfants;
 - p.[^114-7] art. 78, al. 2, let. k: versement d’indemnités au personnel de la DDC;
 - q.[^114-8] art. 78, al. 2<sup>bis</sup>: indemnités au personnel de la DDC pour cessation des rapports de travail intervenue d’un commun accord;
-- [tab] r. et s.[^114-9] ...
+- [tab] r. et s.[^114-9] …
 
 <sup>3</sup> La situation personnelle du personnel envoyé à l’étranger est prise en compte dans la détermination du montant de l’indemnité et dans la définition des mesures visées aux art. 63 et 81 à 88. Dans ses dispositions d’exécution le DFAE détermine, en accord avec le DFF, si et dans quelle mesure il y a lieu de prendre en considération des personnes accompagnantes autres que les membres de la famille; il fixe les modalités.
 
@@ -3365,7 +3410,7 @@ Au début du congé de préretraite au sens de l’art. 34, une indemnité équi
 
 <sup>2</sup> Si, après l’entrée en vigueur de la modification du 1<sup>er</sup> mai 2013, l’employé quitte une unité administrative selon l’art. 1 et est réengagé par celle-ci, le nombre d’années de travail effectuées précédemment n’est plus pris en compte pour le calcul de la prime de fidélité.
 
-<sup>3 et <sup>4</sup></sup> ...[^116e-2]
+<sup>3 et <sup>4</sup></sup> …[^116e-2]
 
 [^116e-1]: Introduit par le ch. I de l’O du 1<sup>er</sup> mai 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
 [^116e-2]: Abrogés par le ch. I de l’O du 22 nov. 2017, avec effet au 1<sup>er</sup> janv. 2018 ([RO 2017 6737](https://fedlex.data.admin.ch/eli/oc/2017/753)).
@@ -3422,6 +3467,23 @@ Si la fonction des employés âgés de 55 ans révolus ou plus lors de l’entr�
 
 [^116k-1]: Introduit par le ch. I de l’O du 12 mai 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 285](https://fedlex.data.admin.ch/eli/oc/2021/285)).
 
+#### Art. 116l
+
+**Dispositions transitoires relatives à la modification du 30 août 2023**[^116l-1]
+
+<sup>1</sup> L’employée dont les rapports de travail ont pris fin parce qu’elle a atteint l’âge de référence fixé à la let. a, let. a à d, des dispositions transitoires de la modification du 17 décembre 2021[^116l-2] de la LAVS[^116l-3] a droit à l’établissement de nouveaux rapports de travail aux mêmes conditions d’engagement jusqu’à ce qu’elle ait atteint l’âge de 65 ans. Elle doit faire valoir son droit auprès du service compétent au plus tard six mois avant la fin des rapports de travail.
+
+<sup>2</sup> A droit à une augmentation de son salaire réel au sens de l’art. 44*a*, al. 2, l’employée dont les rapports de travail sont résiliés par suite de son départ à la retraite volontaire avant l’âge de référence fixé à la let. a, let. a à d, des dispositions transitoires de la modification du 17 décembre 2021 de la LAVS.
+
+<sup>3</sup> L’employée qui part à la retraite avant d’avoir atteint l’âge de référence fixé à la let. a, let. a à d, des dispositions transitoires de la modification du 17 décembre 2021 de la LAVS, peut percevoir une rente transitoire au sens de l’art. 88*f*, al. 1.
+
+<sup>4</sup> En sus des rentes visées à l’art. 105*b*, al. 1 et 2, l’employeur peut fournir, pour des raisons pertinentes, une prise en charge complète ou partielle des cotisations sur le revenu tiré des rentes de l’employée selon l’art. 28 du règlement du 31 octobre 1947 sur l’assurance-vieillesse et survivants[^116l-4], mais au plus tard jusqu’à l’âge de référence fixé à la let. a, let. a à d, des dispositions transitoires de la modification du 17 décembre 2021 de la LAVS.
+
+[^116l-1]: Introduit par l’annexe ch. 1 de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^116l-2]: [RO 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92)
+[^116l-3]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
+[^116l-4]: [RS 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
+
 #### Art. 117
 
 **Entrée en vigueur**
@@ -3457,7 +3519,7 @@ Annexe 2[^t-2]
 - c. indemnité de résidence selon les art. 43 et 114, al. 2, let. d;
 - d. compensation du renchérissement selon les art. 44, al. 2, let. a, b, e à g, et 114, al. 2, let. e;
 - e. prime de fonction selon les art. 46 et 114, al. 2, let. f, et selon l’art. 17 OPers-PDHH;
-- f. ...
+- f. …
 - g. allocation spéciale selon les art. 48 et 115, let. e;
 - h. prime de prestations selon l’art. 49;
 - i. allocation liée au marché de l’emploi selon l’art. 50;

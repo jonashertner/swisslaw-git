@@ -4,11 +4,11 @@ title: Ordinanza del 3 luglio 2001 sul personale federale (OPers)
 short: OPers
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/319"
 language: it
-version: 2023-01-01
+version: 2024-01-01
 adopted: 2001-07-03
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/319/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2001-319-20230101-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/319/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/319/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2001-319-20240101-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/319/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/319/20230101/it"
 
 (OPers)
 
-del 3 luglio 2001 (Stato 1° gennaio 2023)
+del 3 luglio 2001 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -904,22 +904,22 @@ La risoluzione del rapporto di lavoro è considerata come dovuta a una colpa del
 
 [^34a-1]
 
-[^34a-1]: Introdotto dal n. II 3 dell’O del 21 mag. 2008 concernente modifiche del diritto federale in seguito al cambiamento di primato presso PUBLICA ([RU 2008 2181](https://fedlex.data.admin.ch/eli/oc/2008/319)). Abrogato dall’art. 7 dell’O del 20 feb. 2013 concernente il pensionamento in particolari categorie di personale, con effetto dal 1° lug. 2013 ([RU 2013 771](https://fedlex.data.admin.ch/eli/oc/2013/154)). Vedi tuttavia le disp. trans. all’art. 8 di detta mod.
+**Art. 35**[^34a-2] Impiego oltre l’età di riferimento AVS
 
-#### Art. 35
+(art. 10 cpv. 2 LPers)[^34a-3]
 
-**Impiego oltre l’età ordinaria di pensionamento**[^35-1]
+<sup>1</sup> Dopo la fine del rapporto di lavoro a seguito del raggiungimento dell’età di riferimento secondo l’articolo 21 della legge federale del 20 dicembre 1946[^34a-4] su l’assicurazione per la vecchiaia e per i superstiti (LAVS), l’autorità competente secondo l’articolo 2 può costituire, d’accordo con la persona interessata, un nuovo rapporto di lavoro. L’articolo 52*a* non è applicabile.[^34a-5]
 
-### (art. 10 cpv. 2 LPers)
-
-<sup>1</sup> Dopo la fine del rapporto di lavoro a seguito del raggiungimento del limite d’età secondo l’articolo 21 della legge federale del 20 dicembre 1946[^35-2] su l’assicurazione per la vecchiaia e per i superstiti (LAVS), l’autorità competente secondo l’articolo 2 può costituire, d’accordo con la persona interessata, un nuovo rapporto di lavoro. L’articolo 52*a* non è applicabile.
-
-<sup>2</sup> Dopo la fine del rapporto di lavoro a seguito del raggiungimento del limite d’età secondo l’articolo 21 LAVS, l’impiegata ha diritto a un nuovo rapporto di lavoro alle stesse condizioni di assunzione fino al 65° anno d’età al massimo. La domanda deve essere presentata all’autorità competente al più tardi sei mesi prima della fine del rapporto di lavoro.
+<sup>2</sup> *...* [^34a-6]
 
 <sup>3</sup> Il rapporto di lavoro di cui al capoverso 1 termina senza disdetta al più tardi alla fine del mese in cui l’impiegato compie il 70° anno d’età.
 
-[^35-1]: Nuovo testo giusta il n. I dell’O del 13 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3803](https://fedlex.data.admin.ch/eli/oc/2019/693)).
-[^35-2]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
+[^34a-1]: Introdotto dal n. II 3 dell’O del 21 mag. 2008 concernente modifiche del diritto federale in seguito al cambiamento di primato presso PUBLICA ([RU 2008 2181](https://fedlex.data.admin.ch/eli/oc/2008/319)). Abrogato dall’art. 7 dell’O del 20 feb. 2013 concernente il pensionamento in particolari categorie di personale, con effetto dal 1° lug. 2013 ([RU 2013 771](https://fedlex.data.admin.ch/eli/oc/2013/154)). Vedi tuttavia le disp. trans. all’art. 8 di detta mod.
+[^34a-2]: Nuovo testo giusta il n. I dell’O del 13 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3803](https://fedlex.data.admin.ch/eli/oc/2019/693)).
+[^34a-3]: Nuovo testo giusta l’all. n. 1 dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^34a-4]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
+[^34a-5]: Nuovo testo giusta l’all. n. 1 dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^34a-6]: Abrogato dall’all. n. 1 dell’O del 30 ago. 2023, con effetto dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 ## Capitolo 4: Prestazioni del datore di lavoro
 
@@ -1127,22 +1127,24 @@ La compensazione del rincaro è versata su:
 
 <sup>1</sup> Dopo aver negoziato con le associazioni del personale, il Consiglio federale decide in merito all’entità e al momento dell’entrata in vigore dell’aumento reale dello stipendio. Può escludere gli impiegati appartenenti a determinate classi di stipendio dal versamento dell’aumento reale dello stipendio, sempre che lo giustifichi la situazione del mercato del lavoro, oppure può disporre un aumento reale differenziato a seconda delle classi di stipendio.
 
-<sup>2</sup> Hanno diritto all’aumento reale dello stipendio gli impiegati il cui rapporto di lavoro, al momento in cui l’aumento prende effetto, non è disdetto oppure è disdetto a seguito di pensionamento anticipato volontario o di passaggio a un’altra unità amministrativa di cui all’articolo 1 capoverso 1.
+<sup>2</sup> Hanno diritto all’aumento reale dello stipendio gli impiegati il cui rapporto di lavoro, al momento in cui l’aumento prende effetto, non è disdetto oppure è disdetto a seguito di pensionamento volontario prima del raggiungimento dell’età di riferimento secondo l’articolo 21 LAVS[^44a-2] o di passaggio a un’altra unità amministrativa di cui all’articolo 1 capoverso 1.[^44a-3]
 
 <sup>3</sup>
 
 Non hanno diritto all’aumento reale dello stipendio gli impiegati:
 
 - a. ai quali, in caso di valutazione inferiore della funzione, è garantito in termini nominali lo stipendio attuale; o
-- b. il cui stipendio ha raggiunto l’importo massimo della classe di stipendio 38.[^44a-2]
+- b. il cui stipendio ha raggiunto l’importo massimo della classe di stipendio 38.[^44a-4]
 
-<sup>4</sup> L’aumento reale dello stipendio è versato sullo stipendio secondo l’articolo 36 e sull’indennità di funzione secondo l’articolo 46. Gli importi massimi delle classi di stipendio 1–37 aumentano in funzione dell’aumento reale dello stipendio.[^44a-3]
+<sup>4</sup> L’aumento reale dello stipendio è versato sullo stipendio secondo l’articolo 36 e sull’indennità di funzione secondo l’articolo 46. Gli importi massimi delle classi di stipendio 1–37 aumentano in funzione dell’aumento reale dello stipendio.[^44a-5]
 
 <sup>5</sup> Se è versata al momento dell’entrata in vigore di un aumento reale dello stipendio, la compensazione del rincaro secondo l’articolo 44 è calcolata prima di detto aumento.
 
 [^44a-1]: Introdotto dal n. I dell’O del 1° mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
-[^44a-2]: Nuovo testo giusta n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5395](https://fedlex.data.admin.ch/eli/oc/2020/936)).
-[^44a-3]: Nuovo testo giusta n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5395](https://fedlex.data.admin.ch/eli/oc/2020/936)).
+[^44a-2]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
+[^44a-3]: Nuovo testo giusta l’all. n. 1 dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^44a-4]: Nuovo testo giusta n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5395](https://fedlex.data.admin.ch/eli/oc/2020/936)).
+[^44a-5]: Nuovo testo giusta n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5395](https://fedlex.data.admin.ch/eli/oc/2020/936)).
 
 #### Art. 45
 
@@ -1513,18 +1515,21 @@ In caso di malattia o infortunio durante i viaggi di servizio all’estero, il d
 
 <sup>1</sup> Alla nascita di uno o più figli, l’impiegata ha diritto a un congedo di maternità pagato di quattro mesi. Se un neonato deve rimanere in ospedale per un periodo ininterrotto di almeno due settimane immediatamente dopo la nascita, tale congedo viene prolungato della durata dell’ospedalizzazione, ma ammonta al massimo complessivamente a 154 giorni.[^60-3]
 
-<sup>2</sup> L’impiegata può iniziare il congedo di maternità al massimo due settimane prima della data prevista per la nascita.[^60-4]
+<sup>1bis</sup> Se il padre legale o l’altro genitore legale muore nei sei mesi dopo la nascita del figlio, l’impiegata ha diritto a 20 giorni lavorativi di congedo di maternità supplementari con l’intero stipendio e gli assegni sociali. Questi 20 giorni lavorativi possono essere riscossi in settimane o in giorni entro un termine quadro di sei mesi a decorrere dal giorno successivo al decesso.[^60-4]
 
-<sup>3</sup> Durante i primi quattro mesi del congedo di maternità, all’impiegata vengono versati l’intero stipendio e gli assegni sociali. Se il congedo viene prolungato a causa dell’ospedalizzazione del neonato, durante la proroga all’impiegata è versata soltanto l’indennità di maternità conformemente alle legge del 25 settembre 1952[^60-5] sulle indennità di perdita di guadagno.[^60-6]
+<sup>2</sup> L’impiegata può iniziare il congedo di maternità al massimo due settimane prima della data prevista per la nascita.[^60-5]
+
+<sup>3</sup> Durante i primi quattro mesi del congedo di maternità, all’impiegata vengono versati l’intero stipendio e gli assegni sociali. Se il congedo viene prolungato a causa dell’ospedalizzazione del neonato, durante la proroga all’impiegata è versata soltanto l’indennità di maternità conformemente alle legge del 25 settembre 1952[^60-6] sulle indennità di perdita di guadagno.[^60-7]
 
 <sup>4</sup> Sono fatti salvi i disciplinamenti cantonali.
 
 [^60-1]: Nuovo testo giusta il n. I 2 dell’O del 10 giu. 2005 concernente l’introduzione dell’indennità di maternità nella legislazione sul personale federale, in vigore dal 1° lug. 2005 ([RU 2005 2479](https://fedlex.data.admin.ch/eli/oc/2005/423)).
 [^60-2]: Nuovo testo giusta il n. I dell’O del 3 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2021 843](https://fedlex.data.admin.ch/eli/oc/2021/843)).
 [^60-3]: Nuovo testo giusta il n. I dell’O del 3 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2021 843](https://fedlex.data.admin.ch/eli/oc/2021/843)).
-[^60-4]: Nuovo testo giusta il n. I dell’O del 3 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2021 843](https://fedlex.data.admin.ch/eli/oc/2021/843)).
-[^60-5]: [RS 834.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10262)
-[^60-6]: Nuovo testo giusta il n. I dell’O del 3 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2021 843](https://fedlex.data.admin.ch/eli/oc/2021/843)).
+[^60-4]: Introdotto dal n. II dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
+[^60-5]: Nuovo testo giusta il n. I dell’O del 3 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2021 843](https://fedlex.data.admin.ch/eli/oc/2021/843)).
+[^60-6]: [RS 834.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10262)
+[^60-7]: Nuovo testo giusta il n. I dell’O del 3 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2021 843](https://fedlex.data.admin.ch/eli/oc/2021/843)).
 
 #### Art. 60a
 
@@ -1556,7 +1561,16 @@ In caso di malattia o infortunio durante i viaggi di servizio all’estero, il d
 
 <sup>2</sup> Nelle unioni domestiche registrate, alla nascita di uno o più figli del partner l’altro partner ha ugualmente diritto a un congedo pagato di venti giorni.
 
+<sup>3</sup> Se la madre muore il giorno del parto o nei 97 giorni successivi, il padre legale o l’altro genitore legale ha diritto a quattro mesi di congedo supplementari. Il congedo deve essere preso in una sola volta a decorrere dal giorno successivo al decesso della madre. Sono versati l’intero stipendio e gli assegni sociali.[^60b-2]
+
+<sup>4</sup> Se la madre muore il giorno del parto o nei 97 giorni successivi e il neonato deve rimanere in ospedale per un periodo ininterrotto di almeno due settimane immediatamente dopo la nascita, si applica per analogia l’articolo 60 capoversi 1 e 3.[^60b-3]
+
+<sup>5</sup> Il termine quadro di sei mesi di cui al capoverso 1 è interrotto durante la fruizione del congedo di cui ai capoversi 3 o 4.[^60b-4]
+
 [^60b-1]: Introdotto dal n. I dell’O del 12 mag. 2021, in vigore dal 1° gen. 2022 ([RU 2021 285](https://fedlex.data.admin.ch/eli/oc/2021/285)).
+[^60b-2]: Introdotto dal n. II dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
+[^60b-3]: Introdotto dal n. II dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
+[^60b-4]: Introdotto dal n. II dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
 
 #### Art. 60c
 
@@ -2402,7 +2416,7 @@ Se il datore di lavoro e l’impiegato convengono il proseguimento del rapporto 
 
 ### (art. 32*k* LPers)
 
-<sup>1</sup> Le persone che vanno in pensione prima di raggiungere l’età di pensionamento di cui all’articolo 21 LAVS[^88f-2] possono ottenere una rendita transitoria.[^88f-3]
+<sup>1</sup> Le persone che vanno in pensione prima di raggiungere l’età di riferimento secondo l’articolo 21 LAVS[^88f-2] possono ottenere una rendita transitoria.[^88f-3]
 
 <sup>1bis</sup>
 
@@ -2439,7 +2453,7 @@ Un persistente elevato carico fisico o psichico secondo il capoverso 1bis letter
 
 [^88f-1]: Nuovo testo giusta il n. I dell’O del 20 giu. 2014, in vigore dal 1° ago. 2014 ([RU 2014 2171](https://fedlex.data.admin.ch/eli/oc/2014/367)).
 [^88f-2]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
-[^88f-3]: Nuovo testo giusta il n. I dell’O del 15 nov. 2017, in vigore dal 1° lug. 2018 ([RU 2017 6209](https://fedlex.data.admin.ch/eli/oc/2017/689)).
+[^88f-3]: Nuovo testo giusta l’all. n. 1 dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 [^88f-4]: Introdotto dal n. I dell’O del 15 nov. 2017, in vigore dal 1° lug. 2018 ([RU 2017 6209](https://fedlex.data.admin.ch/eli/oc/2017/689)).
 [^88f-5]: Introdotto dal n. I dell’O del 15 nov. 2017, in vigore dal 1° lug. 2018 ([RU 2017 6209](https://fedlex.data.admin.ch/eli/oc/2017/689)).
 [^88f-6]: Introdotto dal n. I dell’O del 15 nov. 2017, in vigore dal 1° lug. 2018 ([RU 2017 6209](https://fedlex.data.admin.ch/eli/oc/2017/689)).
@@ -2681,6 +2695,31 @@ Un conflitto d’interesse può sussistere in particolare se:
 <sup>2</sup> Possono disciplinare in maniera più severa o vietare l’accettazione di vantaggi esigui conformi agli usi sociali o di inviti, nonché gli affari per conto proprio.
 
 [^94d-1]: Introdotto dal n. I dell’O del 15 ago. 2012, in vigore dal 15 sei. 2012 ([RU 2012 4483](https://fedlex.data.admin.ch/eli/oc/2012/525)).
+
+#### Art. 94e
+
+**Estratto del casellario giudiziale e del registro delle esecuzioni**[^94e-1]
+
+### (art. 20*a* LPers)
+
+<sup>1</sup> Ogni cinque anni o per motivi gravi il datore di lavoro può esigere in qualsiasi momento dai candidati a un impiego e dagli impiegati che presentino un estratto del casellario giudiziale o del registro delle esecuzioni.
+
+<sup>2</sup> I costi per gli estratti sono assunti dal datore di lavoro.
+
+[^94e-1]: Introdotto dall’all. 8 n. II 2 dell’O dell’8 nov. 2023 sui controlli di sicurezza relativi alle persone, in vigore dal 1° gen. 2024 ([RU 2023 736](https://fedlex.data.admin.ch/eli/oc/2023/736)).
+
+#### Art. 94f
+
+**Verifica dell’affidabilità**[^94f-1]
+
+### (art. 20*b* LPers)
+
+<sup>1</sup> Una verifica dell’affidabilità dei candidati a un impiego e degli impiegati può essere eseguita alle condizioni menzionate nell’articolo 11 dell’ordinanza dell’8 novembre 2023[^94f-2] sui controlli di sicurezza relativi alle persone (OCSP).
+
+<sup>2</sup> L’elenco delle funzioni, i livelli di controllo e la procedura di controllo sono disciplinati nell’OCSP.
+
+[^94f-1]: Introdotto dall’all. 8 n. II 2 dell’O dell’8 nov. 2023 sui controlli di sicurezza relativi alle persone, in vigore dal 1° gen. 2024 ([RU 2023 736](https://fedlex.data.admin.ch/eli/oc/2023/736)).
+[^94f-2]: [RS 128.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40162)
 
 #### Art. 95
 
@@ -3004,19 +3043,20 @@ Inoltre, almeno una delle seguenti condizioni deve essere adempiuta:
 
 <sup>3</sup>
 
-Per motivi validi, in aggiunta al pensionamento anticipato parziale o integrale, il datore di lavoro può fornire le prestazioni seguenti:
+Per motivi validi, in aggiunta alle rendite di cui ai capoversi 1 e 2, il datore di lavoro può fornire le prestazioni seguenti:[^105b-2]
 
 - a. partecipazione ai costi per la continuazione della previdenza secondo l’articolo 88*d*<sup>bis</sup> capoverso 3;
-- b. partecipazione al riscatto finalizzato all’aumento della rendita di vecchiaia secondo l’articolo 32*a* RPIC[^105b-2];
-- c.[^105b-3] assunzione completa o parziale dei contributi dovuti sul reddito in forma di rendita secondo l’articolo 28 dell’ordinanza del 31 ottobre 1947[^105b-4] sull’as-sicurazione per la vecchiaia e per i superstiti, ma al massimo fino al raggiungimento del limite d’età secondo l’articolo 21 LAVS[^105b-5];
-- d.[^105b-6] ...
+- b. partecipazione al riscatto finalizzato all’aumento della rendita di vecchiaia secondo l’articolo 32*a* RPIC[^105b-3];
+- c.[^105b-4] assunzione completa o parziale dei contributi dovuti sul reddito in forma di rendita secondo l’articolo 28 dell’ordinanza del 31 ottobre 1947[^105b-5] sull’assicurazione per la vecchiaia e per i superstiti, ma al massimo fino al raggiungimento dell’età di riferimento secondo l’articolo 21 LAVS[^105b-6];
+- d.[^105b-7] ...
 
 [^105b-1]: Nuovo testo giusta il n. I dell’O del 12 ott. 2016, in vigore dal 1° dic. 2016 ([RU 2016 3637](https://fedlex.data.admin.ch/eli/oc/2016/611)).
-[^105b-2]: [RS 172.220.141.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5392)
-[^105b-3]: Nuovo testo giusta il n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4507](https://fedlex.data.admin.ch/eli/oc/2016/734)).
-[^105b-4]: [RS 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
-[^105b-5]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
-[^105b-6]: Abrogata n. I dell’O del 22 nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6737](https://fedlex.data.admin.ch/eli/oc/2017/753)).
+[^105b-2]: Nuovo testo giusta l’all. n. 1 dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^105b-3]: [RS 172.220.141.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5392)
+[^105b-4]: Nuovo testo giusta l’all. n. 1 dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^105b-5]: [RS 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
+[^105b-6]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
+[^105b-7]: Abrogata n. I dell’O del 22 nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6737](https://fedlex.data.admin.ch/eli/oc/2017/753)).
 
 #### Art. 105c
 
@@ -3415,6 +3455,23 @@ Gli impiegati delle classi di stipendio 31 e oltre, il cui posto al momento dell
 Lo stipendio di impiegati che all’entrata in vigore della modifica del 12 maggio 2021 hanno compiuto il 55° anno d’età, la cui funzione viene inquadrata in una classe inferiore di stipendio o ai quali è assegnata una funzione inquadrata in una classe inferiore di stipendio per motivi ad essi non riconducibili, non viene adeguato alla nuova classe di stipendio.
 
 [^116k-1]: Introdotto dal n. I dell’O del 12 mag. 2021, in vigore dal 1° gen. 2022 ([RU 2021 285](https://fedlex.data.admin.ch/eli/oc/2021/285)).
+
+#### Art. 116l
+
+**Disposizioni transitorie della modifica del 30 agosto 2023**[^116l-1]
+
+<sup>1</sup> Dopo la fine del rapporto di lavoro a seguito del raggiungimento dell’età di riferimento stabilita alla lettera a delle disposizioni transitorie della modifica del 17 dicembre 2021[^116l-2] della LAVS[^116l-3], l’impiegata ha diritto a un nuovo rapporto di lavoro alle stesse condizioni di assunzione fino al 65° anno d’età al massimo. La domanda deve essere presentata all’autorità competente al più tardi sei mesi prima della fine del rapporto di lavoro.
+
+<sup>2</sup> L’impiegata il cui rapporto di lavoro è disdetto a seguito di pensionamento anticipato volontario prima del raggiungimento dell’età di riferimento stabilita alla lettera a delle disposizioni transitorie della modifica del 17 dicembre 2021 della LAVS ha diritto all’aumento reale dello stipendio secondo l’articolo 44*a* capoverso 2.
+
+<sup>3</sup> L’impiegata che va in pensione prima di raggiungere l’età di riferimento stabilita alla lettera a delle disposizioni transitorie della modifica del 17 dicembre 2021 della LAVS può ottenere una rendita transitoria secondo l’articolo 88*f* capoverso 1.
+
+<sup>4</sup> Per motivi validi, in aggiunta alle rendite di cui all’articolo 105*b* capoversi 1 e 2, il datore di lavoro può assumere completamente o parzialmente i contributi dell’impiegata dovuti sul reddito in forma di rendita secondo l’articolo 28 dell’ordinanza del 31 ottobre 1947[^116l-4] sull’assicurazione per la vecchiaia e per i superstiti, ma al massimo fino al raggiungimento dell’età di riferimento stabilita alla lettera a delle disposizioni transitorie della modifica del 17 dicembre 2021 della LAVS.
+
+[^116l-1]: Introdotto dall’all. n. 1 dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^116l-2]: [RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92)
+[^116l-3]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
+[^116l-4]: [RS 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
 
 #### Art. 117
 
