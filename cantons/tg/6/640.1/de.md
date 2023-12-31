@@ -4,13 +4,13 @@ number: "640.1"
 title: Gesetz über die Staats- und Gemeindesteuern
 short: Steuergesetz; StG
 language: de
-version: 2023-01-01
-valid_until: 2023-12-31
-version_adopted: 2022-11-22
+version: 2024-01-01
+valid_until: 2024-06-30
+version_adopted: 2023-11-14
 adopted: 1992-09-14
 in_force: 1993-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/640.1"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2769/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2770/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ StG
 
 (Steuergesetz; StG)
 
-vom 14.09.1992 (Stand 01.01.2023)
+vom 14.09.1992 (Stand 01.01.2024)
 
 ## 1. Teil: Staatssteuern
 
@@ -608,11 +608,11 @@ vom 14.09.1992 (Stand 01.01.2023)
 <sup>2</sup> Vom Reineinkommen werden abgezogen:
 
 - 1\. für nicht selbständig besteuerte, für in Ausbildung stehende oder erwerbsunfähige Kinder, für deren Unterhalt der Steuerpflichtige aufkommt,
-  - a. je Kind — Fr. 7'200
-  - b. der Abzug erhöht sich für jedes in Ausbildung stehende Kind nach Vollendung des 16. Altersjahres auf — Fr. 8'200
-  - c. und nach Vollendung des 20. Altersjahres bis höchstens zum vollendeten 26. Altersjahr auf — Fr. 10'300
+  - a. je Kind — Fr. 7'300
+  - b. der Abzug erhöht sich für jedes in Ausbildung stehende Kind nach Vollendung des 16. Altersjahres auf — Fr. 8'300
+  - c. und nach Vollendung des 20. Altersjahres bis höchstens zum vollendeten 26. Altersjahr auf — Fr. 10'400
 - 2\. für erwerbsunfähige und unterstützungsbedürftige Personen, für deren Unterhalt der Steuerpflichtige zur Hauptsache aufkommt; der Abzug kann nicht beansprucht werden für den Ehegatten und für Kinder, für die ein Abzug nach Abs. 2 Ziff. 1 gewährt wird, — Fr. 2'700
-- 3\. von im AHV-Alter stehenden, erwerbsunfähigen oder verwitweten Steuerpflichtigen Fr. 4'100; beträgt das Reineinkommen mehr als Fr. 16'400, bei Steuerpflichtigen in ungetrennter Ehe mehr als Fr. 23'600, ermässigt sich der Abzug je Fr. 1'000 Mehreinkommen um Fr. 200
+- 3\. von im AHV-Alter stehenden, erwerbsunfähigen oder verwitweten Steuerpflichtigen Fr. 4'200; beträgt das Reineinkommen mehr als Fr. 16'700, bei Steuerpflichtigen in ungetrennter Ehe mehr als Fr. 24'000, ermässigt sich der Abzug je Fr. 1'000 Mehreinkommen um Fr. 200
 - 4\.–5. …
 
 <sup>3</sup> Die Sozialabzüge werden nach den Verhältnissen am Ende der Steuerperiode oder der Steuerpflicht festgesetzt.
@@ -635,14 +635,14 @@ vom 14.09.1992 (Stand 01.01.2023)
 
 <sup>1</sup> Die einfache Steuer vom Einkommen beträgt:
 
-- 1\. Fr. 0 bis Fr. 12'000 und 2 % für den Mehrbetrag
-- 2\. Fr. 46 bis Fr. 14'300 und 3 % für den Mehrbetrag
-- 3\. Fr. 109 bis Fr. 16'400 und 4 % für den Mehrbetrag
-- 4\. Fr. 189 bis Fr. 18'400 und 5 % für den Mehrbetrag
-- 5\. Fr. 294 bis Fr. 20'500 und 6 % für den Mehrbetrag
-- 6\. Fr. 1'218 bis Fr. 35'900 und 7 % für den Mehrbetrag
-- 7\. Fr. 4'445 bis Fr. 82'000 und 7.5 % für den Mehrbetrag
-- 8\. Fr. 9'837.50 bis Fr. 153'900 und 8 % für den Mehrbetrag
+- 1\. Fr. 0 bis Fr. 12'100 und 2 % für den Mehrbetrag
+- 2\. Fr. 48 bis Fr. 14'500 und 3 % für den Mehrbetrag
+- 3\. Fr. 111 bis Fr. 16'600 und 4 % für den Mehrbetrag
+- 4\. Fr. 195 bis Fr. 18'700 und 5 % für den Mehrbetrag
+- 5\. Fr. 300 bis Fr. 20'800 und 6 % für den Mehrbetrag
+- 6\. Fr. 1'236 bis Fr. 36'400 und 7 % für den Mehrbetrag
+- 7\. Fr. 4'519 bis Fr. 83'300 und 7.5 % für den Mehrbetrag
+- 8\. Fr. 10'001.50 bis Fr. 156'400 und 8 % für den Mehrbetrag
 
 <sup>2</sup> Für Ehegatten, die in rechtlich und tatsächlich ungetrennter Ehe leben, sowie für verwitwete, gerichtlich oder tatsächlich getrennt lebende, geschiedene und ledige Steuerpflichtige, die mit Kindern oder unterstützungsbedürftigen Personen im gleichen Haushalt zusammenleben und deren Unterhalt zur Hauptsache bestreiten, wird der Steuersatz ermittelt, indem das steuerbare Einkommen durch den Divisor 2,0 geteilt wird. Massgebend sind die Verhältnisse am Ende der Steuerperiode oder der Steuerpflicht.
 
