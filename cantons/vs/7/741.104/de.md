@@ -4,13 +4,13 @@ number: "741.104"
 title: "Reglement über den Tarif der Gebühren und Kosten im Bereich der Zulassung von Personen und Fahrzeugen zum Strassenverkehr *"
 short: RTarVZV
 language: de
-version: 2023-04-01
-valid_until: 2023-12-31
-version_adopted: 2023-03-22
+version: 2024-01-01
+valid_until: 2025-06-30
+version_adopted: 2023-11-22
 adopted: 2021-12-15
 in_force: 2022-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/741.104"
-pdf: "https://lex.vs.ch/api/de/versions/3201/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3246/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://lex.vs.ch/api/de/versions/3201/pdf_file"
 
 (RTarVZV)
 
-vom 15.12.2021 (Stand 01.04.2023)
+vom 15.12.2021 (Stand 01.01.2024)
 
 Der Staatsrat des Kantons Wallis
 
@@ -72,7 +72,10 @@ beschliesst:
   - 3\. Kategorie C, CE, Unterkategorie C1, D1 — Fr. 135
   - 4\. Kategorie D — Fr. 180
   - 5\. zusätzliche praktische Prüfung, welche zum Erstellen der Bewilligung für gewerbsmässige Transporte für Inhaber der Führerausweiskategorien B oder C, der Unterkategorien B1 oder C1 oder der Spezialkategorie F gefordert wird — Fr. 90
-- h) Theorieprüfung CZV — Fr. 60
+- h) Theorieprüfung CZV
+  - 1\. Teil 1 — Fr. 60
+  - 2\. Teil 2 — Fr. 30
+  - 3\. Teil 3 — Fr. 30
 - i) besondere Prüfungen: für nachfolgende besondere Prüfungen, die von der Behörde angeordnet werden, wird eine Gebühr zwischen Fr. 30 und Fr. 180 je nach Umfang der Leistung erhoben, wenn die Gebühr dafür nicht in diesem Reglement vorgesehen ist: erneute theoretische und/oder praktische Prüfung, Kontrollfahrt, praktische Führerprüfung mit einem an eine Behinderung angepassten Fahrzeug, Fahreignungstest, praktische Führerprüfung der Kategorien G oder M, jede andere besondere Prüfung;
 - j) theoretische, praktische oder besondere Prüfung, für die keine Abmeldung 7 Werktage vor dem vorgesehenen Datum erfolgte: für die gewünschte oder angeordnete Prüfung vorgesehene Gebühr;
 - k) fristgerechte Annullierung einer praktischen Prüfung — Fr. 20

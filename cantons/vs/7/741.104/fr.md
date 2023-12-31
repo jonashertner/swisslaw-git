@@ -4,13 +4,13 @@ number: "741.104"
 title: "Règlement fixant le tarif des émoluments et des frais en matière d'admission des personnes et des véhicules à la circulation routière"
 short: RTarOAC
 language: fr
-version: 2023-04-01
-valid_until: 2023-12-31
-version_adopted: 2023-03-22
+version: 2024-01-01
+valid_until: 2025-06-30
+version_adopted: 2023-11-22
 adopted: 2021-12-15
 in_force: 2022-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/741.104"
-pdf: "https://lex.vs.ch/api/fr/versions/3201/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3246/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/3201/pdf_file"
 
 (RTarOAC)
 
-du 15.12.2021 (état 01.04.2023)
+du 15.12.2021 (état 01.01.2024)
 
 Le Conseil d'Etat du canton du Valais
 
@@ -72,7 +72,10 @@ arrête:
   - 3\. catégorie C, CE, sous-catégories C1, D1 — Fr. 135
   - 4\. catégorie D — Fr. 180
   - 5\. examen complémentaire pratique exigé pour la délivrance de l'autorisation d'effectuer des transports à titre professionnel aux titulaires d'un permis de conduire des catégories B ou C, des sous-catégories B1 ou C1 ou de la catégorie spéciale F — Fr. 90
-- h) examen théorique OACP — Fr. 60
+- h) examen théorique OACP
+  - 1\. Partie 1 — Fr. 60
+  - 2\. Partie 2 — Fr. 30
+  - 3\. Partie 3 — Fr. 30
 - i) examens particuliers: pour les examens particuliers suivants ordonnés par l'autorité, il sera perçu un émolument fixé entre Fr. 30 et Fr. 180 selon l'importance de la prestation, si l'émolument pour cette dernière n'est pas prévu dans le présent règlement: nouvel examen théorique et/ou pratique, course de contrôle, examen pratique de conduite d’un véhicule adapté à un handicap, test psychotechnique, examen pratique des catégories G ou M, tout autre examen particulier;
 - j) examen théorique, pratique ou particulier non décommandé 7 jours ouvrables avant le jour fixé: émolument prévu pour l'examen sollicité ou ordonné;
 - k) annulation dans le délai fixé d'un rendez-vous pour un examen pratique — Fr. 20
