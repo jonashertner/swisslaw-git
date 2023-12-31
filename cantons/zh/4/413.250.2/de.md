@@ -4,11 +4,11 @@ number: "413.250.2"
 title: Verordnung über die Aufnahme in die Maturitätsschulen im Anschluss an die Sekundarstufe und nach Abschluss der beruflichen Grundbildung (VAM)
 short: VAM
 language: de
-version: "2022-08-01"
-nachtrag: "118"
-valid_until: 2024-01-01
+version: "2024-01-01"
+nachtrag: "123"
+valid_until: 2026-01-01
 adopted: 2019-04-03
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-413_250_2-2019_04_03-2022_08_01-118.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-413_250_2-2019_04_03-2022_08_01-123.html"
 text: pdf
 ---
 
@@ -56,7 +56,7 @@ FMS: Fachmittelschule, HMS: Handelsmittelschule, IMS: Informatikmittelschule, BM
 
 **1**
 
-1.10. 22 - 118
+- 1\. 1. 24 - 123
 
 <sup>2</sup> In die 1. Klasse der IMS oder der FMS werden Schülerinnen und Schüler zugelassen, die das 18. Altersjahr vor dem 1. August des Eintrittsjahres nicht vollendet haben.
 
@@ -154,7 +154,7 @@ Zur Aufnahmeprüfung werden Schülerinnen und Schüler zugelassen, welche a. die
 
 **3**
 
-1.10. 22 - 118 § 14. <sup>1</sup> Folgende Schulen führen einheitliche Aufnahmeprüfungen durch:
+- 1\. 1. 24 - 123 § 14. <sup>1</sup> Folgende Schulen führen einheitliche Aufnahmeprüfungen durch:
 
 **Einheitliche Aufnahmeprüfungen**
 
@@ -264,7 +264,7 @@ Die Prüfungskommissionen legen die Prüfungstermine fest und veröffentlichen d
 
 **5**
 
-1.10. 22 - 118 § 24. Die Prüfung umfasst die folgenden Prüfungsteile:
+- 1\. 1. 24 - 123 § 24. Die Prüfung umfasst die folgenden Prüfungsteile:
 
 **b. Prüfungsfachbereiche im Allgemeinen**
 
@@ -334,13 +334,17 @@ Die Prüfungskommissionen legen die Prüfungstermine fest und veröffentlichen d
 
 Die Schulleitung erklärt die Prüfung als nicht bestanden, wenn eine Schülerin oder ein Schüler anlässlich der Prüfung unerlaubte Hilfsmittel verwendet, zu verwenden versucht oder sonstige Unredlichkeiten begeht.
 
-#### § 30
-
 **Prüfungsergebnis a. Allgemeines**
 
-<sup>1</sup> Die Leitungen der Prüfungskommissionen legen mit den Leitungen der Fachkommissionen die Bewertungsskala fest.
+§ 30.[^29-1] <sup>1</sup> Die Leitungen der Prüfungskommissionen legen mit den Leitungen der Fachkommissionen die Bewertungsskalen fest.
 
-<sup>2</sup> Die Lehrpersonen der verschiedenen Maturitätsschulen bewerten die Prüfungsleistungen. Sekundarlehrpersonen wirken nach Vorgaben des Mittelschul- und Berufsbildungsamtes als Expertinnen und Experten mit.
+<sup>2</sup> Für die Aufnahmeprüfungen gemäss § 14 Abs. 1 lit. a gilt eine einheitliche Bewertungsskala.
+
+<sup>3</sup> Für die Aufnahmeprüfungen gemäss § 14 Abs. 1 lit. b werden separate Bewertungsskalen erstellt.
+
+<sup>4</sup> Die Lehrpersonen der verschiedenen Maturitätsschulen bewerten die Prüfungsleistungen. Sekundarlehrpersonen wirken nach Vorgaben des Mittelschul- und Berufsbildungsamtes als Expertinnen und Experten mit.
+
+[^29-1]: Fassung gemäss RRB vom 4. Oktober 2023 (OS 78, 466; ABl 2023-10-20). In Kraft seit 1. Januar 2024. 1. 1. 24 - 123 15
 
 #### § 31
 
@@ -360,15 +364,11 @@ Die Schulleitung erklärt die Prüfung als nicht bestanden, wenn eine Schülerin
 
 Die Vorleistungen werden berücksichtigt beim Entscheid über die Aufnahme von Schülerinnen und Schülern, die a. im Zeitpunkt der Anmeldung die 2. oder 3. Klasse einer öffentlichen zürcherischen Sekundarstufe in der Abteilung A besuchen und b. die für die Berechnung der Vorleistungsnote massgebenden Fachbereiche gemäss § 33 in der Anforderungsstufe I besuchen, sofern Anforderungsstufen geführt werden.
 
-#### § 33
-
-**d. Berechnung der Vorleistungsnote**
-
-<sup>1</sup> Die Vorleistungsnote wird zu je einem Fünftel aus den Noten der Fachbereiche Deutsch, Mathematik, Französisch, Englisch sowie «Natur und Technik» berechnet. Massgebend ist das Zeugnis des ersten Semesters des Schuljahres, in dem die Anmeldung erfolgt.
-
 **7**
 
-1.10. 22 - 118
+- 1\. 1. 24 - 123 § 33. <sup>1</sup> Die Vorleistungsnote wird zu je einem Fünftel aus den Noten der Fachbereiche Deutsch, Mathematik, Französisch, Englisch sowie «Natur und Technik» berechnet. Massgebend ist das Zeugnis des ersten Semesters des Schuljahres, in dem die Anmeldung erfolgt.
+
+**d. Berechnung der Vorleistungsnote**
 
 <sup>2</sup> Die Vorleistungsnote für die Aufnahmeprüfung in die IMS wird berechnet aus den Noten des Zeugnisses des zweiten Semesters des Schuljahres, das der Aufnahmeprüfung vorangeht.
 
@@ -450,6 +450,10 @@ Nach bestandener Prüfung erfolgt der Schuleintritt a. bei Kurzgymnasien, HMS, I
 
 - b. bei den BMS im anschliessenden oder dem darauf folgenden Schuljahr.
 
+**9**
+
+- 1\. 1. 24 - 123
+
 ### C. Aufnahme ohne Aufnahmeprüfung
 
 #### § 43
@@ -460,11 +464,11 @@ Nach bestandener Prüfung erfolgt der Schuleintritt a. bei Kurzgymnasien, HMS, I
 
 <sup>2</sup> Ihr Promotionsstand wird übernommen, und eine Repetition wird berücksichtigt.
 
-**9**
-
-1.10. 22 - 118 § 44. <sup>1</sup> Schülerinnen und Schüler der 3. Klasse (11. Schuljahr) einer öffentlichen gymnasialen Maturitätsschule mit Anschluss an die 6. Klasse der Primarschule können prüfungsfrei in ein Kurzgymnasium übertreten, wenn sie an ihrer angestammten Schulabteilung repetieren könnten.
+#### § 44
 
 **b. nach der 3. Klasse**
+
+<sup>1</sup> Schülerinnen und Schüler der 3. Klasse (11. Schuljahr) einer öffentlichen gymnasialen Maturitätsschule mit Anschluss an die 6. Klasse der Primarschule können prüfungsfrei in ein Kurzgymnasium übertreten, wenn sie an ihrer angestammten Schulabteilung repetieren könnten.
 
 <sup>2</sup> Die Aufnahme gilt als Repetition. Eine Versetzung ins Provisorium am Ende des ersten Semesters der 3. Klasse wird berücksichtigt.
 
@@ -482,11 +486,13 @@ Nach bestandener Prüfung erfolgt der Schuleintritt a. bei Kurzgymnasien, HMS, I
 
 Schülerinnen und Schüler, die in einem anderen Kanton das Zulassungsverfahren für eine öffentliche gymnasiale Maturitätsschule im Anschluss an die Sekundarstufe erfolgreich durchlaufen haben, werden prüfungsfrei aufgenommen.
 
+[^46-1]: Fassung gemäss RRB vom 4. Oktober 2023 (OS 78, 466; ABl 2023-10-20). In Kraft seit 1. Januar 2024. 1. 1. 24 - 123 15
+
 #### § 47
 
 **HMS**
 
-<sup>1</sup> Schülerinnen und Schüler ab der 3. Klasse (11. Schuljahr) einer öffentlichen gymnasialen Maturitätsschule mit Anschluss an die 6. Klasse der Primarschule sowie Schülerinnen und Schüler einer öffentlichen gymnasialen Maturitätsschule im Anschluss an die Sekundarstufe werden prüfungsfrei in die HMS aufgenommen, sofern sie am Ende des Schuljahres vor dem Übertritt promoviert worden sind.
+<sup>1</sup> Schülerinnen und Schüler ab der 2. Klasse (10. Schuljahr) einer öffentlichen gymnasialen Maturitätsschule mit Anschluss an die 6. Klasse der Primarschule sowie Schülerinnen und Schüler einer öffentlichen gymnasialen Maturitätsschule im Anschluss an die Sekundarstufe werden prüfungsfrei in die HMS aufgenommen, sofern sie am Ende des Schuljahres vor dem Übertritt promoviert worden sind.[^46-1]
 
 <sup>2</sup> Schülerinnen und Schüler, die in einem anderen Kanton das Zulassungsverfahren für eine öffentliche HMS erfolgreich durchlaufen haben, werden prüfungsfrei aufgenommen.
 
@@ -528,25 +534,29 @@ Schülerinnen und Schüler, die in einem anderen Kanton das Zulassungsverfahren 
 
 <sup>2</sup> Liegt das EFZ im Zeitpunkt des Entscheides über die prüfungsfreie Zulassung gemäss Abs. 1 lit. b nicht vor, wird auf die bis zum Ende des ersten Semesters des letzten Schuljahres vorliegenden Noten der beruflichen Grundbildung gemäss Art. 16 Abs. 1 Bst. b des Bundesgesetzes vom 13. Dezember 2002 über die Berufsbildung (Berufsbildungsgesetz, BBG[^49-2] abgestellt. Die Berechnung der Noten erfolgt in Übereinstimmung mit der Berechnung der Noten im Qualifikationsverfahren nach Massgabe der jeweiligen Bildungsverordnung gemäss Art. 19 BBG.
 
-**b. Ausrichtung Wirtschaft und Dienstleistungen, Typ Wirtschaft**
+**11**
 
-§ 50 a.[^49-3] <sup>1</sup> Schülerinnen und Schüler werden prüfungsfrei in die BMS zum Erwerb der BM 2 mit Ausrichtung Wirtschaft und Dienstleistungen, Typ Wirtschaft, aufgenommen, wenn sie innerhalb der letzten zwei Kalenderjahre die berufliche Grundbildung Kauffrau/Kaufmann EFZ, E-Profil, mit einem Durchschnitt von mindestens 4,5 der Fachnoten Standardsprache, erste Fremdsprache, zweite Fremdsprache sowie Wirtschaft und Gesellschaft I und II abgeschlossen haben.
+- 1\. 1. 24 - 123 § 50 a.[^49-3] <sup>1</sup> Schülerinnen und Schüler werden prüfungsfrei in die BMS zum Erwerb der BM 2 mit Ausrichtung Wirtschaft und Dienstleistungen, Typ Wirtschaft, aufgenommen, wenn sie innerhalb der letzten zwei Kalenderjahre die berufliche Grundbildung Kauffrau/Kaufmann EFZ, E-Profil, mit einem Durchschnitt von mindestens 4,5 der Fachnoten Standardsprache, erste Fremdsprache, zweite Fremdsprache sowie Wirtschaft und Gesellschaft I und II abgeschlossen haben.
+
+**b. Ausrichtung Wirtschaft und Dienstleistungen, Typ Wirtschaft**
 
 <sup>2</sup> Liegen im Zeitpunkt des Entscheides über die prüfungsfreie Zulassung die entsprechenden EFZ-Fachnoten noch nicht vor, wird auf die letzte Semesterzeugnisnote des jeweiligen Faches abgestellt. Das Fach Wirtschaft und Gesellschaft zählt doppelt.
 
-**11**
+[^49-1]: Fassung gemäss RRB vom 4. Mai 2022 (OS 77, 341; ABl 2022-05-13). In Kraft seit 1. August 2022.
+[^49-2]: SR 412.10.
+[^49-3]: Eingefügt durch RRB vom 4. Mai 2022 (OS 77, 341; ABl 2022-05-13). In Kraft seit 1. August 2022.
 
-1.10. 22 - 118 § 51. Schülerinnen und Schüler, die in einem anderen Kanton das Zulassungsverfahren für eine öffentliche BMS erfolgreich durchlaufen haben, werden prüfungsfrei aufgenommen.
+#### § 51
 
 **Ausserkantonales Zulassungsverfahren für die BMS8**
 
+Schülerinnen und Schüler, die in einem anderen Kanton das Zulassungsverfahren für eine öffentliche BMS erfolgreich durchlaufen haben, werden prüfungsfrei aufgenommen.
+
 **Anmeldung**
 
-§ 51 a.[^49-3] Für die Anmeldung zur Aufnahme ohne Aufnahmeprüfung gilt der Termin gemäss § 15 Abs. 1 lit. c.
+§ 51 a.[^51-1] Für die Anmeldung zur Aufnahme ohne Aufnahmeprüfung gilt der Termin gemäss § 15 Abs. 1 lit. c.
 
-[^49-1]: Fassung gemäss RRB vom 4. Mai 2022 (OS 77, 341; ABl 2022-05-13). In Kraft seit 1. August 2022. 1.10. 22 - 118 15
-[^49-2]: SR 412.10.
-[^49-3]: Eingefügt durch RRB vom 4. Mai 2022 (OS 77, 341; ABl 2022-05-13). In Kraft seit 1. August 2022.
+[^51-1]: Eingefügt durch RRB vom 4. Mai 2022 (OS 77, 341; ABl 2022-05-13). In Kraft seit 1. August 2022.
 
 ### 3. Abschnitt: Aufnahme nach Beginn der 1. Klasse
 
@@ -622,11 +632,13 @@ Die Schulleitung des Mathematisch-Naturwissenschaftlichen Gymnasiums Rämibühl 
 
 <sup>2</sup> Aufnahmen, die gestützt auf ein Abkommen erfolgen, bleiben vorbehalten.
 
-#### § 61
+**13**
+
+- 1\. 1. 24 - 123 § 61. Schülerinnen und Schüler, die freiwillig aus der Maturitätsschule ausgetreten sind, legen bei einem Wiedereintritt in der Regel eine ausserordentliche Aufnahmeprüfung nach Anordnung der Schulleitung
 
 **Wiedereintritt**
 
-Schülerinnen und Schüler, die freiwillig aus der Maturitätsschule ausgetreten sind, legen bei einem Wiedereintritt in der Regel eine ausserordentliche Aufnahmeprüfung nach Anordnung der Schulleitung ab. Eine Repetition und Provisorien werden angerechnet.
+- ab. Eine Repetition und Provisorien werden angerechnet.
 
 ### 4. Abschnitt: Besondere Bestimmungen
 
@@ -637,10 +649,6 @@ Schülerinnen und Schüler, die freiwillig aus der Maturitätsschule ausgetreten
 <sup>1</sup> Schülerinnen und Schüler aus ausländischen Bildungssystemen müssen ihre Vorbildung belegen.
 
 <sup>2</sup> Die Schulleitung beurteilt die Gleichwertigkeit der Vorbildung. Sie kann verlangen, dass die Schülerinnen oder Schüler eine Aufnahmeprüfung ablegen, oder diese als Hospitantinnen oder Hospitanten aufnehmen.
-
-**13**
-
-1.10. 22 - 118
 
 <sup>3</sup> Für die Aufnahme von Schülerinnen und Schülern aus dem italienischen Schulsystem ins Liceo artistico gelten §§ 25 und 53.
 
