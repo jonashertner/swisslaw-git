@@ -4,13 +4,12 @@ number: "610.111"
 title: Ausführungsbestimmungen über den Vollzug des Finanzhaushaltsgesetzes durch den Kanton
 short: AB FHG
 language: de
-version: 2021-10-01
-valid_until: 2023-12-31
-version_adopted: 2021-09-21
+version: 2024-01-01
+version_adopted: 2023-12-05
 adopted: 2012-11-27
 in_force: 2013-01-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/610.111"
-pdf: "http://gdb.ow.ch/api/de/versions/1723/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1845/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "http://gdb.ow.ch/api/de/versions/1723/pdf_file"
 
 (AB FHG)
 
-vom 27.11.2012 (Stand 01.10.2021)
+vom 27.11.2012 (Stand 01.01.2024)
 
 Der Regierungsrat des Kantons Obwalden,
 
@@ -85,7 +84,7 @@ beschliesst:
 - b. vor der Bestätigung der materiellen Richtigkeit eines Beleges wird geprüft, ob die Rechnung korrekt auf den Kanton ausgestellt wurde, ob die auf dem Beleg verrechnete Leistung dem Auftrag entsprechend richtig erfolgt ist; geprüft wird auch der verrechnete Preis sowie die Berechtigung von Zuschlägen und Abzügen; bei Zahlungen ohne Gegenleistung erfolgt die materielle Prüfung aufgrund der Rechtsgrundlagen;
 - c. vor der Bestätigung der formellen Richtigkeit wird geprüft, ob der Beleg ordnungsgemäss erstellt ist und zwingend folgende Angaben enthält:
   - 1\. Name, Vorname und vollständige Adresse des Begünstigten bzw. des Kontoinhabers,
-  - 2\. Gültige Kontoverbindung im IBAN-Format,
+  - 2\. Gültige Kontoverbindung im IBAN-Format (QR-IBAN),
   - 3\. Auszahlungsbetrag;
 - d. vor der Bestätigung der rechnerischen Richtigkeit wird geprüft, ob die Rechenvorgänge stimmen und allfällige Rabatte und Skonti abgezogen worden sind.
 
@@ -100,9 +99,11 @@ beschliesst:
 - e. das Entgelt für die Leistung;
 - f. den anwendbaren Steuersatz und den vom Entgelt geschuldeten Steuerbetrag; schliesst das Entgelt die Steuer ein, so genügt die Angabe des anwendbaren Steuersatzes.
 
-<sup>4</sup> Die Rechnungen werden innerhalb der vereinbarten Zahlungsfrist beglichen. Die Auszahlung erfolgt in der Regel einmal wöchentlich, jeweils am Donnerstag. Rechnungen, die bis am Dienstagmorgen bei der Finanzverwaltung eingehen, werden für den Zahllauf vom Donnerstag berücksichtigt, wenn die Zahlungsfälligkeit gegeben ist.
+<sup>4</sup> Die Rechnungen werden innerhalb der vereinbarten Zahlungsfrist beglichen. Die Auszahlung erfolgt in der Regel einmal wöchentlich, jeweils am Freitag. Rechnungen, die im Kreditorenworkflow bis am Donnerstagabend korrekt kontiert und schlussvisiert sind, werden für den Zahllauf am darauffolgenden Freitag berücksichtigt, wenn die Zahlungsfälligkeit gegeben ist.
 
 <sup>5</sup> Die materielle, formelle und rechnerische Richtigkeit wird von den Anweisungsberechtigten auf dem Beleg bzw. der Verfügung mit einem Visum bestätigt. Der Beleg bzw. die Verfügung ist departementsintern gegenzuzeichnen, in der Regel durch die sachbearbeitende oder eine zweite, anweisungsberechtigte Person, sofern er nicht der Departementsvorsteherin oder dem Departementsvorsteher zum Endvisum nach Art. 6 dieser Ausführungsbestimmungen vorgelegt werden muss.
+
+<sup>6</sup> Damit Rechnungsbelege korrekt durch den Kreditorenworkflowprozess laufen, ist bei der Leistungsbestellung der Leistungserbringerin oder dem Leistungserbringer zwingend die Referenz-Nummer anzugeben. Belege können der Finanzverwaltung entweder per E-Mail oder per Post zugestellt werden, vorbehalten bleibt Art. 8 dieser Ausführungsbestimmungen. Elektronische Belege müssen im PDF-Format übermittelt werden. Die gleichzeitige Zustellung desselben Belegs per E-Mail und per Post ist zwingend zu unterlassen.
 
 #### Art. 6
 
@@ -111,7 +112,7 @@ beschliesst:
 <sup>1</sup> Die Departementsvorsteherin oder der Departementsvorsteher können darüber hinaus allgemein oder in besonderen Fällen verlangen, dass ihnen Belege zum Endvisum vorgelegt werden. In jedem Fall aber müssen der Departementsvorsteherin oder dem Departementsvorsteher zum Endvisum vorgelegt werden:
 
 - a. Zahlungsanweisungen zugunsten der Amtsleiterinnen und Amtsleiter sowie der Departementssekretärinnen und -sekretäre selbst (d. h. insbesondere Spesenabrechnungen);
-- b. Zahlungsanweisungen betreffend Feierlichkeiten, Empfänge und Ehrenkosten;
+- b. …
 - c. Zahlungsanweisungen für gebundene und frei bestimmbare Ausgaben über Fr. 10 000.– im Einzelfall; vorbehalten bleiben weitergehende Ermächtigungen durch die Departementsvorsteherin oder den Departementsvorsteher, welche dem Finanzdepartement und der Finanzkontrolle gemäss Art. 4 Abs. 2 dieser Ausführungsbestimmungen gemeldet werden müssen.
 
 <sup>2</sup> Zahlungsanweisungen zugunsten der Visumsberechtigten selbst (d. h. insbesondere Spesenabrechnungen) müssen der vorgesetzten Person zum Endvisum vorgelegt werden. Davon ausgenommen sind Zahlungsanweisungen zugunsten der Regierungsräte und des Landschreibers.
@@ -120,11 +121,11 @@ beschliesst:
 
 #### Art. 7
 
-**Büromaterial und -mobiliar, Druckaufträge sowie Informatikbeschaffung**
+**Büromobiliar und Informatikbeschaffung**
 
-<sup>1</sup> Die Bestellung von Büromaterial oder Büromaschinen erfolgt über die von der Materialzentrale bezeichneten Lieferanten. Druckaufträge müssen den Anforderungen des „Corporate Designs“ entsprechen.
+<sup>1</sup> …
 
-<sup>2</sup> Die Bestellung von Büromobiliar hat in Absprache mit der Abteilung Hochbau und Energie zu erfolgen.
+<sup>2</sup> Die Bestellung von Büromobiliar hat in Absprache mit dem Hochbauamt zu erfolgen.
 
 <sup>3</sup> Für die Informatikbeschaffung, ausgenommen diejenige der Schulen, ist das Informatikleistungszentrum Obwalden/Nidwalden (ILZ) zuständig. Ebenso müssen in der Regel die Peripherie-Geräte (Kabel, Maus, Stecker, Tablet, Smartphones usw.) über das ILZ bezogen oder der Bezug mit dem ILZ abgestimmt werden.
 
@@ -132,21 +133,17 @@ beschliesst:
 
 **Gehalts- und Spesenabrechnungen**
 
-<sup>1</sup> Die Auszahlung erfolgt in der Regel am 25. des Monats. Ist der 25. des Monats kein Bank-Valutatag, erfolgt die Auszahlung am vorhergehenden Valuta-Tag. Damit variable Lohnbelege in der Lohnverarbeitung des entsprechenden Monats berücksichtigt werden, müssen diese bis zum 15. des Monats bei der Finanzverwaltung eintreffen.
+<sup>1</sup> Die Auszahlung erfolgt in der Regel am 25. des Monats. Ist der 25. des Monats kein Bank-Valutatag, erfolgt die Auszahlung am vorhergehenden Valuta-Tag. Damit variable Lohnbelege (keine Spesenabrechnungen) in der Lohnverarbeitung des entsprechenden Monats berücksichtigt werden, müssen diese bis zum 15. des Monats bei der Finanzverwaltung eintreffen.
 
-<sup>2</sup> Spesenabrechnungen werden in der Regel quartalsweise mit den Formularen des Personalamtes abgerechnet. Amtsstellen mit weitergehenden Anforderungen können in Absprache mit der Finanzverwaltung eigene Spesenabrechnungsformulare benützen.
+<sup>2</sup> Für Spesenabrechnungen müssen die Formulare des Personalamtes verwendet werden. Der abzurechnende Spesenbeleg ist zusammen mit den dazugehörenden Kaufquittungen und weiteren Nachweisen in einer PDF-Datei zusammenzufassen und digital einzureichen. Die Finanzverwaltung kann Abweichungen davon festlegen.
 
-<sup>3</sup> Die Spesenabrechnungen für das letzte Quartal des Jahres müssen gemäss besonderer Weisung anfangs Januar bei der Finanzverwaltung eintreffen.
+<sup>2a</sup> Die Kontierung, Visierung sowie Auszahlung der Spesen erfolgt grundsätzlich über den Kreditorenworkflow der Kreditorenbuchhaltung. Für Auswertungs- sowie Kontrollzwecke sind die Spesenarten Reisekosten und Halbtax separat und detailliert im Kreditorenworkflow zu erfassen.
 
-<sup>4</sup> Bei Vereinbarungen mit unselbstständig erwerbenden Dritten gilt bezüglich der Abrechnung mit den Sozialversicherungen:
+<sup>3</sup> Die letzten Spesenabrechnungen des Jahres müssen den Kreditorenworkflowprozess bis am 20. Januar des neuen Jahres durchlaufen haben, damit der Aufwand in das richtige Buchhaltungsjahr verbucht werden kann.
 
-- a. bei Entschädigungen unter dem jährlichen AHV-Freibeitrag werden die Abzüge nur getätigt, wenn das Personalamt sowie die Finanzverwaltung eine entsprechende Mitteilung erhalten;
-- b. bei Entschädigungen über dem jährlichen AHV-Freibetrag müssen die Sozialabgaben zwingend abgerechnet werden; in den Vereinbarungen muss darauf hingewiesen werden;
-- c. sobald bei einem Einsatz acht Stunden pro Kalenderwoche erreicht werden, erfolgt die Versicherung gegen Nichtbetriebsunfall;
-- d. bei Entschädigungen von Personen mit öffentlich-rechtlichen Verträgen wird die Krankentaggeld-Versicherung abgerechnet. Bei zivilrechtlichen Verträgen (unter einem Jahr) oder bei Einsätzen ohne schriftlichen Vertrag erfolgt keine Krankentaggeld-Versicherung;
-- e. Die Versicherungspflicht bei der Pensionskasse erfolgt bei Erreichen des Minimalbeitrages und ab einem Arbeitsverhältnis von mehr als drei Monaten gemäss dem Vorsorgereglement der Personalversicherungskasse Obwalden.
+<sup>4</sup> Bei Angestellten mit einem Lohn unter dem jährlichen AHV-Freibetrag werden die Sozialversicherungsbeiträge nur abgerechnet, wenn das Personalamt eine entsprechende Mitteilung erhält.
 
-<sup>5</sup> Bei Auftragsleistungen an selbstständig Erwerbende ist eine aktuelle Bestätigung über die selbstständige Erwerbstätigkeit ihrer Ausgleichskasse zu verlangen. Die Sozialabzüge sind durch diese selbst vorzunehmen.
+<sup>5</sup> Selbstständigerwerbende, welche in einem Auftragsverhältnis mit dem Kanton stehen, haben eine aktuelle Bestätigung ihrer Ausgleichskasse beizubringen, wonach sie über die Beträge an die Sozialversicherungen direkt abrechnen.
 
 ### 1.5. Finanzvermögen
 
@@ -308,6 +305,8 @@ Geändert durch:
 
 \- Nachtrag vom 10. April 2018, in Kraft seit 1. Juli 2018 (OGS 2018, 6),
 
-\- AB über das Interne Kontrollsystem IKS vom 21. September 2021, in Kraft seit 1. Oktober 2021 (OGS 2021, 31)
+\- AB über das Interne Kontrollsystem IKS vom 21. September 2021, in Kraft seit 1. Oktober 2021 (OGS 2021, 31),
+
+\- Nachtrag vom 5. Dezember 2023, in Kraft seit 1. Januar 2024 (OGS 2023, 36)
 
 OGS 2012, 71
