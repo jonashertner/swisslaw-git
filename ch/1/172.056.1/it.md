@@ -4,11 +4,11 @@ title: Legge federale del 21 giugno 2019 sugli appalti pubblici (LAPub)
 short: LAPub
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/126"
 language: it
-version: 2022-01-01
+version: 2024-01-01
 adopted: 2019-06-21
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/126/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2020-126-20220101-it-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/126/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/126/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2020-126-20240101-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/126/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/126/20220101/it"
 
 (LAPub)
 
-del 21 giugno 2019 (Stato 1° gennaio 2022)
+del 21 giugno 2019 (Stato 1° gennaio 2024)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -1246,8 +1246,8 @@ Allegato 4[^t-1]
 
 [^annex4-lvlu1-1]
 
-[^t-1]: Aggiornato dal n. I dell’O del 17 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2021 899](https://fedlex.data.admin.ch/eli/oc/2021/899)).
-[^annex4-lvlu1-1]: I valori soglia espressi in franchi svizzeri sono applicabili per gli anni 2022 e 2023.
+[^t-1]: Aggiornato dal n. I delle O del 17 dic. 2021 ([RU 2021 899](https://fedlex.data.admin.ch/eli/oc/2021/899)) e dell’8 dic. 2023, in vigore dal 1° gen. 2024 ([RU 2023 786](https://fedlex.data.admin.ch/eli/oc/2023/786)).
+[^annex4-lvlu1-1]: I valori soglia espressi in franchi svizzeri sono applicabili per gli anni 2024 e 2025.
 
 ### 1 Valori soglia per gli appalti pubblici che rientrano nell’ambito di applicazione dei trattati internazionali
 

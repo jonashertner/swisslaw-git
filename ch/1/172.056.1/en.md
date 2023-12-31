@@ -4,11 +4,11 @@ title: Federal Act of 21 June 2019 on Public Procurement (PPA)
 short: PPA
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/126"
 language: en
-version: 2022-01-01
+version: 2024-01-01
 adopted: 2019-06-21
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/126/20220101/en/xml/fedlex-data-admin-ch-eli-cc-2020-126-20220101-en-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/126/20220101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/126/20240101/en/xml/fedlex-data-admin-ch-eli-cc-2020-126-20240101-en-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/126/20240101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (PPA)
 
-of 21 June 2019 (Status as of 1 January 2022)
+of 21 June 2019 (Status as of 1 January 2024)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -1057,7 +1057,7 @@ The repeal and amendment of other legislative instruments are covered in Annex 7
 
 **Transitional provision**
 
-Award procedures initiated before the entry into force of this Act will be completed under existing law.
+Award procedures initiated before this Act comes into force shall be completed in accordance with the previous law.
 
 #### Art. 63
 
@@ -1065,7 +1065,7 @@ Award procedures initiated before the entry into force of this Act will be compl
 
 <sup>1</sup> This Act is subject to an optional referendum.
 
-<sup>2</sup> The Federal Council will determine the commencement date.
+<sup>2</sup> The Federal Council shall determine the commencement date.
 
 Commencement date: 1 January 2021[^63-1]
 
@@ -1240,16 +1240,16 @@ The services listed below are deemed to be services within the scope of internat
 
 Other services
 
-Annex 4*[^t-1]*
+Annex 4[^t-1]
 
 (Art. 8 para. 4, 16 and 20 para. 1)
 
-## Threshold values****
+## Threshold values
 
 [^annex4-lvlu1-1]
 
-[^t-1]: Revised by No I of the O of 17 Dec. 2021, in force since 1 Jan. 2022 ([AS 2021 899](https://fedlex.data.admin.ch/eli/oc/2021/899)).
-[^annex4-lvlu1-1]: The threshold values in Swiss francs apply for the years 2022 and 2023.
+[^t-1]: Revised by No I of the O of 8 Dec. 2023, in force since 1 Jan. 2024 ([AS 2023 786](https://fedlex.data.admin.ch/eli/oc/2023/786)).
+[^annex4-lvlu1-1]: The threshold values in Swiss francs apply for the years 2024 and 2025.
 
 ### 1 Thresholds for procurements within the scope of international treaties
 

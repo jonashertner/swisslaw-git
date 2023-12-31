@@ -4,11 +4,11 @@ title: Bundesgesetz vom 21. Juni 2019 über das öffentliche Beschaffungswesen (
 short: BöB
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/126"
 language: de
-version: 2022-01-01
+version: 2024-01-01
 adopted: 2019-06-21
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/126/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2020-126-20220101-de-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/126/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/126/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2020-126-20240101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/126/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/126/20220101/de"
 
 (BöB)
 
-vom 21. Juni 2019 (Stand am 1. Januar 2022)
+vom 21. Juni 2019 (Stand am 1. Januar 2024)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -1246,8 +1246,8 @@ Anhang 4[^t-1]
 
 [^annex4-lvlu1-1]
 
-[^t-1]: Bereinigt gemäss Ziff. I der V vom 17. Dez. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 899](https://fedlex.data.admin.ch/eli/oc/2021/899)).
-[^annex4-lvlu1-1]: Die Schwellenwerte in Schweizerfranken gelten für die Jahre 2022 und 2023.
+[^t-1]: Bereinigt gemäss Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 786](https://fedlex.data.admin.ch/eli/oc/2023/786)).
+[^annex4-lvlu1-1]: Die Schwellenwerte in Schweizerfranken gelten für die Jahre 2024 und 2025.
 
 ### 1 Schwellenwerte für Beschaffungen im Staatsvertragsbereich
 

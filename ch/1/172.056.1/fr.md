@@ -4,11 +4,11 @@ title: Loi fédérale du 21 juin 2019 sur les marchés publics (LMP)
 short: LMP
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/126"
 language: fr
-version: 2022-01-01
+version: 2024-01-01
 adopted: 2019-06-21
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/126/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-126-20220101-fr-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/126/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/126/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-126-20240101-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/126/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/126/20220101/fr"
 
 (LMP)
 
-du 21 juin 2019 (État le 1<sup>er</sup> janvier 2022)
+du 21 juin 2019 (État le 1<sup>er</sup> janvier 2024)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -187,7 +187,8 @@ La présente loi ne s’applique pas:
   - 2\. passés conformément aux procédures ou conditions particulières fixées dans un accord international relatif au stationnement de troupes ou à la mise en œuvre conjointe d’un projet par les pays signataires,
   - 3\. passés conformément aux procédures ou conditions particulières d’une organisation internationale ou cofinancés par des dons, des prêts ou d’autres aides au niveau international dans des cas où les procédures ou conditions applicables seraient incompatibles avec la présente loi,
   - 4\. passés dans le cadre de la coopération internationale, si une procédure locale équivalente est appliquée dans l’État bénéficiaire;
-  - i. aux institutions de prévoyance de droit public de la Confédération.
+
+- i. aux institutions de prévoyance de droit public de la Confédération.
 
 <sup>2</sup> L’adjudicateur établit une documentation sur l’adjudication de chaque marché entrant dans l’une des catégories mentionnées à l’al. 1, let. h.
 
@@ -1242,8 +1243,8 @@ Annexe 4[^t-1]
 
 [^annex4-lvlu1-1]
 
-[^t-1]: Mise à jour par le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 899](https://fedlex.data.admin.ch/eli/oc/2021/899)).
-[^annex4-lvlu1-1]: Les valeurs seuils en francs suisses sont valables pour les années 2022 et 2023.
+[^t-1]: Mise à jour par le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 786](https://fedlex.data.admin.ch/eli/oc/2023/786)).
+[^annex4-lvlu1-1]: Les valeurs seuils en francs suisses sont valables pour les années 2024 et 2025.
 
 ### 1 Valeurs seuils applicables aux marchés soumis aux accords internationaux
 
@@ -1345,7 +1346,7 @@ II
 
 Les actes mentionnés ci-après sont modifiés comme suit:
 
-...[^annex7-lvlu1-2]
+…[^annex7-lvlu1-2]
 
 [^annex7-lvlu1-1]: [[RO 1996 508](https://fedlex.data.admin.ch/eli/oc/1996/508_508_508), [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)appendice ch. 3, [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 11, [2007 5635](https://fedlex.data.admin.ch/eli/oc/2007/775)art. 25 ch. 1, [2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799)annexe ch. 1 [6515](https://fedlex.data.admin.ch/eli/oc/2011/902)art. 26 ch. 1, [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)ch. I 2, [2015 773](https://fedlex.data.admin.ch/eli/oc/2015/140), [2017 7563](https://fedlex.data.admin.ch/eli/oc/2017/820)annexe ch. II 1, [2019 4101](https://fedlex.data.admin.ch/eli/oc/2019/717)art. 1]
 [^annex7-lvlu1-2]: Les mod. peuvent être consultées au [RO 2020 641](https://fedlex.data.admin.ch/eli/oc/2020/126).
