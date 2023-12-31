@@ -4,13 +4,12 @@ number: "811.11"
 title: Steuerverordnung
 short: StV
 language: de
-version: 2022-01-01
-valid_until: 2023-12-31
-version_adopted: 2021-12-07
+version: 2024-01-01
+version_adopted: 2023-12-05
 adopted: 1998-10-20
 in_force: 1999-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/811.11"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3309/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3565/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3309/pdf_file"
 
 (StV)
 
-vom 20.10.1998 (Stand 01.01.2022)
+vom 20.10.1998 (Stand 01.01.2024)
 
 Die Regierung des Kantons St.Gallen
 
@@ -768,6 +767,14 @@ als Verordnung:[^ingress-2]
 <sup>1</sup> Als Leistungen Dritter, die von den Anlagekosten abgerechnet werden, gelten auch Entschädigungen für einen Minderwert, soweit sie nicht mit der Einkommenssteuer erfasst wurden oder werden.
 
 ### Fünfter Abschnitt: Erbschafts- und Schenkungssteuern
+
+#### Art. 68a
+
+**Konkubinatspartner (Art. 153 Abs. 1 Bst. a und Art. 154 Abs. 1 Bst. a StG)[^68a-1]**
+
+<sup>1</sup> Als Konkubinatspartner gilt eine Person, die mit dem Erblasser oder Schenker während mindestens fünf Jahren vor der steuerbaren Zuwendung im gemeinsamen Haushalt mit gleichem steuerrechtlichem Wohnsitz gelebt hat.
+
+[^68a-1]: Die Bestimmung wird nach dem Gliederungstitel «Fünfter Abschnitt: Erbschafts- und Schenkungssteuern» eingefügt.
 
 #### Art. 69
 
