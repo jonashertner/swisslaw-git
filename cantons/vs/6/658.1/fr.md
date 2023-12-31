@@ -4,13 +4,12 @@ number: "658.1"
 title: "Loi d'application de la loi fédérale sur l'impôt fédéral direct"
 short: LALIFD
 language: fr
-version: 2012-10-12
-corrected: 2020-05-05
-version_adopted: 2012-09-14
+version: 2024-01-01
+version_adopted: 2022-03-11
 adopted: 1997-09-24
 in_force: 1997-09-24
 url: "https://lex.vs.ch/app/fr/texts_of_law/658.1"
-pdf: "https://lex.vs.ch/api/fr/versions/1931/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3158/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/1931/pdf_file"
 
 (LALIFD)
 
-du 24.09.1997 (état 12.10.2012)
+du 24.09.1997 (état 01.01.2024)
 
 Le Grand Conseil du canton du Valais
 
@@ -104,11 +103,11 @@ ordonne:
 
 **Commission de recours en matière fiscale**
 
-<sup>1</sup> La Commission cantonale de recours en matière d'impôts cantonaux et communaux au sens de l'article 219a de la loi fiscale du 10 mars 1976 fonctionne en qualité de Commission cantonale de recours en matière d'impôt fédéral direct.
+<sup>1</sup> La Cour de droit fiscal du Tribunal cantonal connaît des recours en matière d’impôt fédéral direct.
 
-<sup>2</sup> Dans les limites posées par le droit fédéral, son organisation et son fonctionnement, ainsi que la procédure et les frais, sont régis par les articles 150 à 153 de la loi fiscale du 10 mars 1976.
+<sup>2</sup> Dans les limites posées par le droit fédéral, son organisation et son fonctionnement, ainsi que la procédure et les frais, sont régis par la loi fiscale, la loi sur la procédure et la juridiction administratives, la loi sur l'organisation de la Justice et la loi fixant le tarif des frais et dépens devant les autorités judiciaires ou administratives.
 
-<sup>3</sup> La commission cantonale de recours en matière d'impôt statue comme autorité précédant immédiatement le Tribunal fédéral.
+<sup>3</sup> La Cour de droit fiscal du Tribunal cantonal statue comme autorité précédant le Tribunal fédéral.
 
 #### Art. 9
 

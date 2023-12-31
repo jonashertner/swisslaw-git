@@ -4,20 +4,21 @@ number: "658.1"
 title: Ausführungsgesetz zum Bundesgesetz über die direkte Bundessteuer
 short: AGDBG
 language: de
-version: 2012-10-12
-corrected: 2020-05-05
-version_adopted: 2012-09-14
+version: 2024-01-01
+version_adopted: 2022-03-11
 adopted: 1997-09-24
 in_force: 1997-09-24
 url: "https://lex.vs.ch/app/de/texts_of_law/658.1"
-pdf: "https://lex.vs.ch/api/de/versions/1931/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3158/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Ausführungsgesetz zum Bundesgesetz über die direkte Bundessteuer
 
-vom 24.09.1997 (Stand 12.10.2012)
+(AGDBG)
+
+vom 24.09.1997 (Stand 01.01.2024)
 
 Der Grosse Rat des Kantons Wallis
 
@@ -102,11 +103,11 @@ verordnet:
 
 **Steuerrekurskommission**
 
-<sup>1</sup> Die kantonale Steuerrekurskommission für die Kantons- und Gemeindesteuern im Sinne von Artikel 219a des kantonalen Steuergesetzes vom 10. März 1976 amtet auch als Steuerrekurskommission für die direkte Bundessteuer.
+<sup>1</sup> Die steuerrechtliche Abteilung des Kantonsgerichts ist zuständig für Verwaltungsgerichtsbeschwerden betreffend die direkte Bundessteuer.
 
-<sup>2</sup> Ihre Organisation und Tätigkeit sowie das Verfahren und die Kosten sind innerhalb der bundesrechtlichen Schranken in den Artikeln 150 bis 153 des kantonalen Steuergesetzes vom 10. März 1976 geregelt.
+<sup>2</sup> Ihre Organisation und Tätigkeit sowie das Verfahren und die Kosten sind innerhalb der bundesrechtlichen Schranken im Steuergesetz, im Gesetz über das Verwaltungsverfahren und die Verwaltungsrechtspflege, im Gesetz über die Rechtspflege und im Gesetz betreffend den Tarif der Kosten und Entschädigungen vor Gerichts- oder Verwaltungsbehörden geregelt.
 
-<sup>3</sup> Die kantonale Steuerrekurskommission entscheidet als unmittelbar dem Bundesgericht vorangehende Instanz.
+<sup>3</sup> Die steuerrechtliche Abteilung des Kantonsgerichts entscheidet als dem Bundesgericht vorangehende Instanz.
 
 #### Art. 9
 
