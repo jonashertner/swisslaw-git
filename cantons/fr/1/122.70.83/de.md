@@ -3,13 +3,12 @@ canton: FR
 number: "122.70.83"
 title: Verordnung über die Pensionierung der Beamtinnen und Beamten mit Polizeibefugnissen
 language: de
-version: 2023-10-31
-valid_until: 2023-12-31
-version_adopted: 2023-10-31
+version: 2024-01-01
+version_adopted: 2023-10-09
 adopted: 2021-12-07
 in_force: 2022-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/122.70.83"
-pdf: "https://bdlf.fr.ch/api/de/versions/7846/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8443/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/7846/pdf_file"
 
 Pensionierung der Beamtinnen und Beamten mit Polizeibefugnissen – V
 
-vom 07.12.2021 (Fassung in Kraft getreten am 31.10.2023)
+vom 07.12.2021 (Fassung in Kraft getreten am 01.01.2024)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -40,11 +39,19 @@ beschliesst:
 
 <sup>1</sup> Den Status von Beamtinnen und Beamten mit Polizeibefugnissen im Sinne dieser Verordnung haben:
 
-- a) die Polizeibeamtinnen und -beamten im Sinne von Artikel 8 Abs. 1 Bst. a des Gesetzes vom 15. November 1990 über die Kantonspolizei;
-- b) die polizeilichen Sicherheitsassistentinnen und Sicherheitsassistenten, die im Sinne von Artikel 4 der Verordnung vom 31. Oktober 2023 über die Hilfspolizistinnen und Hilfspolizisten der Kantonspolizei bewaffnet sind, sowie ihre Chefinnen und Chefs, mit Ausnahme der anderen polizeilichen Sicherheitsassistentinnen und Sicherheitsassistenten, deren Bewaffnung die Kommandantin oder der Kommandant gemäss Artikel 4 Abs. 2 der genannten Verordnung bewilligen kann;
-- b1) die spezialisierten Beamtinnen und Beamten der Gerichtspolizei, die im Sinne von Artikel 7 der Verordnung vom 31. Oktober 2023 über die Hilfspolizistinnen und Hilfspolizisten der Kantonspolizei bewaffnet sind, mit Ausnahme der anderen spezialisierten Beamtinnen und Beamten der Gerichtspolizei, deren Bewaffnung die Kommandantin oder der Kommandant gemäss Artikel 7 Abs. 2 der genannten Verordnung bewilligen kann;
-- c) die Mitarbeiterinnen und Mitarbeiter der Freiburger Strafanstalt, die im Sinne von Artikel 32 Abs. 2 des Gesetzes vom 7. Oktober 2016 über den Straf- und Massnahmenvollzug mit der Aufsicht und Betreuung der Gefangenen beauftragt sind;
-- d) die Wildhüterinnen-Fischereiaufseherinnen/Wildhüter-Fischereiaufseher im Sinne von Artikel 10 Abs. 2 der Verordnung vom 16. Dezember 2003 über die Aufsicht über die Tier- und Pflanzenwelt und über die Jagd und die Fischerei (AufsV).
+- a) die Polizeibeamtinnen und -beamten im Sinne von Artikel 8 Abs. 1 Bst. a des Gesetzes vom 15. November 1990 über die Kantonspolizei[^1-1];
+- b) die polizeilichen Sicherheitsassistentinnen und Sicherheitsassistenten, die im Sinne von Artikel 4 der Verordnung vom 31. Oktober 2023 über die Hilfspolizistinnen und Hilfspolizisten der Kantonspolizei[^1-2] bewaffnet sind, sowie ihre Chefinnen und Chefs, mit Ausnahme der anderen polizeilichen Sicherheitsassistentinnen und Sicherheitsassistenten, deren Bewaffnung die Kommandantin oder der Kommandant gemäss Artikel 4 Abs. 2 der genannten Verordnung[^1-3] bewilligen kann;
+- b1) die spezialisierten Beamtinnen und Beamten der Gerichtspolizei, die im Sinne von Artikel 7 der Verordnung vom 31. Oktober 2023 über die Hilfspolizistinnen und Hilfspolizisten der Kantonspolizei[^1-4] bewaffnet sind, mit Ausnahme der anderen spezialisierten Beamtinnen und Beamten der Gerichtspolizei, deren Bewaffnung die Kommandantin oder der Kommandant gemäss Artikel 7 Abs. 2 der genannten Verordnung[^1-5] bewilligen kann;
+- c) die Mitarbeiterinnen und Mitarbeiter der Freiburger Strafanstalt, die im Sinne von Artikel 32 Abs. 2 des Gesetzes vom 7. Oktober 2016 über den Straf- und Massnahmenvollzug[^1-6] mit der Aufsicht und Betreuung der Gefangenen beauftragt sind;
+- d) die Wildhüterinnen-Fischereiaufseherinnen/Wildhüter-Fischereiaufseher im Sinne der Artikel 27 ff. der Verordnung vom 9. Oktober 2023 über die Aufsicht über die Tier- und Pflanzenwelt und über die Jagd und die Fischerei (AufsV)[^1-7].
+
+[^1-1]: SGF [551.1](https://bdlf.fr.ch/data/551.1/de)
+[^1-2]: SGF [551.23](https://bdlf.fr.ch/data/551.23/de)
+[^1-3]: SGF [551.23](https://bdlf.fr.ch/data/551.23/de)
+[^1-4]: SGF [551.23](https://bdlf.fr.ch/data/551.23/de)
+[^1-5]: SGF [551.23](https://bdlf.fr.ch/data/551.23/de)
+[^1-6]: SGF [340.1](https://bdlf.fr.ch/data/340.1/de)
+[^1-7]: SGF [922.21](https://bdlf.fr.ch/data/922.21/de)
 
 #### Art. 2
 
@@ -62,15 +69,20 @@ beschliesst:
 
 **Höchstalter für die Pensionierung**
 
-<sup>1</sup> Das Höchstalter für die Pensionierung der Beamtinnen und Beamten mit Polizeibefugnissen, die ab 1. Januar 2019 angestellt wurden und nicht von den Übergangsmassnahmen im Sinne von Artikel 29c PKG profitieren, liegt bei 62 Jahren.
+<sup>1</sup> Das Höchstalter für die Pensionierung der Beamtinnen und Beamten mit Polizeibefugnissen, die ab 1. Januar 2019 angestellt wurden und nicht von den Übergangsmassnahmen im Sinne von Artikel 29c PKG[^3-1] profitieren, liegt bei 62 Jahren.
 
-<sup>2</sup> Das Höchstalter für die Pensionierung der Beamtinnen und Beamten mit Polizeibefugnissen, die vor dem 31. Dezember 2018 angestellt wurden, am 1. Januar 2022 noch nicht 45 Jahre alt sind und nicht von den Übergangsmassnahmen im Sinne von Artikel 29c PKG profitieren, liegt bei 62 Jahren.
+<sup>2</sup> Das Höchstalter für die Pensionierung der Beamtinnen und Beamten mit Polizeibefugnissen, die vor dem 31. Dezember 2018 angestellt wurden, am 1. Januar 2022 noch nicht 45 Jahre alt sind und nicht von den Übergangsmassnahmen im Sinne von Artikel 29c PKG[^3-2] profitieren, liegt bei 62 Jahren.
 
-<sup>3</sup> Das Höchstalter für die Pensionierung der Beamtinnen und Beamten mit Polizeibefugnissen, die vor dem 31. Dezember 2018 angestellt wurden, am 1. Januar 2022 älter als 45 Jahre sind und von den Übergangsmassnahmen im Sinne von Artikel 29c PKG profitieren, liegt bei 60 Jahren.
+<sup>3</sup> Das Höchstalter für die Pensionierung der Beamtinnen und Beamten mit Polizeibefugnissen, die vor dem 31. Dezember 2018 angestellt wurden, am 1. Januar 2022 älter als 45 Jahre sind und von den Übergangsmassnahmen im Sinne von Artikel 29c PKG[^3-3] profitieren, liegt bei 60 Jahren.
 
-<sup>4</sup> Das Höchstalter für die Pensionierung der Inhaberinnen und Inhaber der Funktion Chef/in Gefangenenbegleiter/in und Gefangenenbegleiter/in, die vor dem 31. Dezember 2018 angestellt wurden, am 1. Januar 2022 älter als 45 Jahre sind und von den Übergangsmassnahmen im Sinne von Artikel 29c PKG profitieren, liegt neu bei 62 statt wie bisher bei 65 Jahren.
+<sup>4</sup> Das Höchstalter für die Pensionierung der Inhaberinnen und Inhaber der Funktion Chef/in Gefangenenbegleiter/in und Gefangenenbegleiter/in, die vor dem 31. Dezember 2018 angestellt wurden, am 1. Januar 2022 älter als 45 Jahre sind und von den Übergangsmassnahmen im Sinne von Artikel 29c PKG[^3-4] profitieren, liegt neu bei 62 statt wie bisher bei 65 Jahren.
 
 <sup>5</sup> Ab dem Folgemonat des Monats, in dem die Beamtinnen und Beamten mit Polizeibefugnissen das Höchstalter für die Pensionierung nach den Absätzen 1-4 erreichen, wird das Dienstverhältnis von Rechts wegen beendet.
+
+[^3-1]: SGF [122.73.1](https://bdlf.fr.ch/data/122.73.1/de)
+[^3-2]: SGF [122.73.1](https://bdlf.fr.ch/data/122.73.1/de)
+[^3-3]: SGF [122.73.1](https://bdlf.fr.ch/data/122.73.1/de)
+[^3-4]: SGF [122.73.1](https://bdlf.fr.ch/data/122.73.1/de)
 
 #### Art. 4
 
@@ -80,7 +92,9 @@ beschliesst:
 
 <sup>2</sup> Bei der freiwilligen Pensionierung zwischen 58 und 60 Jahren ist keine Teilpensionierung möglich.
 
-<sup>3</sup> Für die freiwillige Pensionierung zwischen 60 und 62 Jahren ist Artikel 37 des Reglements vom 17. Dezember 2002 über das Staatspersonal (StPR) massgebend.
+<sup>3</sup> Für die freiwillige Pensionierung zwischen 60 und 62 Jahren ist Artikel 37 des Reglements vom 17. Dezember 2002 über das Staatspersonal (StPR)[^4-1] massgebend.
+
+[^4-1]: SGF [122.70.11](https://bdlf.fr.ch/data/122.70.11/de)
 
 ## 3 Altersleistungen für die Beamtinnen und Beamten mit Polizeibefugnissen nach Art. 3 Abs. 1, 2 und 4
 
@@ -88,7 +102,7 @@ beschliesst:
 
 **Beteiligung des Arbeitgebers Staat am Einkauf der versicherungstechnischen Kürzung – Grundsätze**
 
-<sup>1</sup> Die Beamtinnen und Beamten mit Polizeibefugnissen erhalten einen finanziellen Beitrag des Arbeitgebers Staat, um die versicherungstechnische Kürzung des Umwandlungssatzes gemäss den technischen Anhängen des RPP zwischen dem ordentlichen Pensionsalter von 65 Jahren nach StPG und dem Höchstalter für die Pensionierung von 62 Jahren zu kompensieren.
+<sup>1</sup> Die Beamtinnen und Beamten mit Polizeibefugnissen erhalten einen finanziellen Beitrag des Arbeitgebers Staat, um die versicherungstechnische Kürzung des Umwandlungssatzes gemäss den technischen Anhängen des RPP zwischen dem ordentlichen Pensionsalter von 65 Jahren nach StPG[^5-1] und dem Höchstalter für die Pensionierung von 62 Jahren zu kompensieren.
 
 <sup>2</sup> Die finanzielle Beteiligung besteht in:
 
@@ -102,6 +116,8 @@ beschliesst:
 <sup>5</sup> Für Beamtinnen und Beamten mit Polizeibefugnissen mit weniger als dreizehn Dienstjahren bei Erreichen des Höchstalters für die Pensionierung wird die finanzielle Beteiligung progressiv und proportional berechnet (1/13 pro Jahr).
 
 <sup>6</sup> Die finanzielle Beteiligung des Arbeitsgebers Staat wird der PKSPF zum Zeitpunkt der Pensionierung der Beamtin oder des Beamten mit Polizeibefugnissen von der Anstellungsbehörde überwiesen, welche die entsprechenden Ausgaben in ihren ordentlichen Voranschlag einstellt.
+
+[^5-1]: SGF [122.70.1](https://bdlf.fr.ch/data/122.70.1/de)
 
 #### Art. 6
 
@@ -147,9 +163,11 @@ beschliesst:
 
 **Rückerstattung des AHV-Vorschusses bei freiwilliger Pensionierung zwischen 58 Jahren und dem Höchstalter für die Pensionierung von 62 Jahren**
 
-<sup>1</sup> Bei freiwilliger Pensionierung zwischen 58 und dem Höchstalter für die Pensionierung von 62 Jahren beteiligt sich der Staat an der Finanzierung der Rückerstattung des von der PKSPF in Anwendung von Artikel 45 RPP gewährten AHV-Vorschusses. Die Bedingungen dieser Beteiligung werden in Artikel 37 Abs. 2 und 3 StPR geregelt.
+<sup>1</sup> Bei freiwilliger Pensionierung zwischen 58 und dem Höchstalter für die Pensionierung von 62 Jahren beteiligt sich der Staat an der Finanzierung der Rückerstattung des von der PKSPF in Anwendung von Artikel 45 RPP gewährten AHV-Vorschusses. Die Bedingungen dieser Beteiligung werden in Artikel 37 Abs. 2 und 3 StPR [^10-1]geregelt.
 
 <sup>2</sup> Die Beteiligung an der Rückerstattung des AHV-Vorschusses beläuft sich auf 90 % der maximalen AHV-Rente. Dieser Betrag wird proportional zur Zahl der Monate gekürzt, die der Person beim Eintritt in den freiwilligen Ruhestand bis zum Alter von 60 Jahren fehlen.
+
+[^10-1]: SGF [122.70.11](https://bdlf.fr.ch/data/122.70.11/de)
 
 ## 4 Altersleistungen für die Beamtinnen und Beamten mit Polizeibefugnissen nach Art. 3 Abs. 3
 
@@ -163,8 +181,10 @@ beschliesst:
 
 **Rückerstattung des AHV-Vorschusses bei freiwilliger Pensionierung zwischen 58 und 60 Jahren**
 
-<sup>1</sup> Bei freiwilliger Pensionierung zwischen 58 und dem Höchstalter für die Pensionierung von 60 Jahren beteiligt sich der Staat an der Finanzierung der Rückerstattung des von der PKSPF in Anwendung von Artikel 45 RPP gewährten AHV-Vorschusses. Die Bedingungen dieser Beteiligung werden in Artikel 37 Abs. 2 und 3 StPR geregelt.
+<sup>1</sup> Bei freiwilliger Pensionierung zwischen 58 und dem Höchstalter für die Pensionierung von 60 Jahren beteiligt sich der Staat an der Finanzierung der Rückerstattung des von der PKSPF in Anwendung von Artikel 45 RPP gewährten AHV-Vorschusses. Die Bedingungen dieser Beteiligung werden in Artikel 37 Abs. 2 und 3 StPR[^12-1] geregelt.
 
 <sup>2</sup> Die Beteiligung an der Rückerstattung des AHV-Vorschusses beläuft sich auf 90 % der maximalen AHV-Rente. Dieser Betrag wird proportional zur Zahl der Monate gekürzt, die der Person beim Eintritt in den freiwilligen Ruhestand bis zum Alter von 60 Jahren fehlen.
+
+[^12-1]: SGF [122.70.11](https://bdlf.fr.ch/data/122.70.11/de)
 
 2021\_164

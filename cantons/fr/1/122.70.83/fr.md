@@ -3,13 +3,12 @@ canton: FR
 number: "122.70.83"
 title: Ordonnance concernant les conditions de retraite des agents et agentes de la force publique
 language: fr
-version: 2023-10-31
-valid_until: 2023-12-31
-version_adopted: 2023-10-31
+version: 2024-01-01
+version_adopted: 2023-10-09
 adopted: 2021-12-07
 in_force: 2022-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/122.70.83"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7846/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8443/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/7846/pdf_file"
 
 Retraite agents et agentes de la force publique – O
 
-du 07.12.2021 (version entrée en vigueur le 31.10.2023)
+du 07.12.2021 (version entrée en vigueur le 01.01.2024)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -40,11 +39,19 @@ Arrête:
 
 <sup>1</sup> Ont le statut d'agents et agentes de la force publique au sens de la présente ordonnance:
 
-- a) les agents et agentes de police au sens de l'article 8 al. 1 let. a de la loi du 15 novembre 1990 sur la Police cantonale;
-- b) les assistants et assistantes de sécurité publique qui sont armés au sens de l'article 4 de l'ordonnance du 31 octobre 2023 sur les agents et agentes auxiliaires de la Police cantonale et leurs chef-fe-s, à l'exclusion des autres assistants et assistantes de sécurité publique autorisés à être armés par le commandant ou la commandante selon l'article 4 al. 2 de l'ordonnance précitée;
-- b1) les agents et agentes de police judiciaire spécialisés qui sont armés au sens de l'article 7 de l'ordonnance du 31 octobre 2023 sur les agents et agentes auxiliaires de la Police cantonale, à l'exclusion des autres agents et agentes de police judiciaire spécialisés autorisés à être armés par le commandant ou la commandante selon l'article 7 al. 2 de l'ordonnance précitée;
-- c) les collaborateurs et collaboratrices de l'Etablissement de détention fribourgeois chargés de la surveillance et de l'encadrement au sens de l'article 32 al. 2 de la loi du 7 octobre 2016 sur l'exécution des peines et des mesures;
-- d) les garde-faune, au sens de l'article 10 al. 2 de l'ordonnance du 16 décembre 2003 sur la surveillance de la faune et de la flore, de la chasse et de la pêche (OSurv).
+- a) les agents et agentes de police au sens de l'article 8 al. 1 let. a de la loi du 15 novembre 1990 sur la Police cantonale[^1-1];
+- b) les assistants et assistantes de sécurité publique qui sont armés au sens de l'article 4 de l'ordonnance du 31 octobre 2023 sur les agents et agentes auxiliaires de la Police cantonale[^1-2] et leurs chef-fe-s, à l'exclusion des autres assistants et assistantes de sécurité publique autorisés à être armés par le commandant ou la commandante selon l'article 4 al. 2 de l'ordonnance précitée[^1-3];
+- b1) les agents et agentes de police judiciaire spécialisés qui sont armés au sens de l'article 7 de l'ordonnance du 31 octobre 2023 sur les agents et agentes auxiliaires de la Police cantonale[^1-4], à l'exclusion des autres agents et agentes de police judiciaire spécialisés autorisés à être armés par le commandant ou la commandante selon l'article 7 al. 2 de l'ordonnance précitée[^1-5];
+- c) les collaborateurs et collaboratrices de l'Etablissement de détention fribourgeois chargés de la surveillance et de l'encadrement au sens de l'article 32 al. 2 de la loi du 7 octobre 2016 sur l'exécution des peines et des mesures[^1-6];
+- d) les garde-faune, au sens des articles 27 et suivants de l'ordonnance du 9 octobre 2023 sur la surveillance de la faune et de la flore, de la chasse et de la pêche (OSurv)[^1-7].
+
+[^1-1]: RSF [551.1](https://bdlf.fr.ch/data/551.1/fr)
+[^1-2]: RSF [551.23](https://bdlf.fr.ch/data/551.23/fr)
+[^1-3]: RSF [551.23](https://bdlf.fr.ch/data/551.23/fr)
+[^1-4]: RSF [551.23](https://bdlf.fr.ch/data/551.23/fr)
+[^1-5]: RSF [551.23](https://bdlf.fr.ch/data/551.23/fr)
+[^1-6]: RSF [340.1](https://bdlf.fr.ch/data/340.1/fr)
+[^1-7]: RSF [922.21](https://bdlf.fr.ch/data/922.21/fr)
 
 #### Art. 2
 
@@ -62,15 +69,20 @@ Arrête:
 
 **Âge limite de la retraite**
 
-<sup>1</sup> Pour les agents et agentes de la force publique engagés dès le 1<sup>er</sup> janvier 2019, qui ne bénéficient pas des mesures transitoires au sens de l'article 29c LCP, l'âge limite de la retraite est fixé à 62 ans.
+<sup>1</sup> Pour les agents et agentes de la force publique engagés dès le 1<sup>er</sup> janvier 2019, qui ne bénéficient pas des mesures transitoires au sens de l'article 29c LCP[^3-1], l'âge limite de la retraite est fixé à 62 ans.
 
-<sup>2</sup> Pour les agents et agentes de la force publique engagés avant le 31 décembre 2018 et âgés de moins de 45 ans au 1er janvier 2022, qui ne bénéficient pas des mesures transitoires au sens de l'article 29c LCP, l'âge limite de la retraite est fixé à 62 ans.
+<sup>2</sup> Pour les agents et agentes de la force publique engagés avant le 31 décembre 2018 et âgés de moins de 45 ans au 1er janvier 2022, qui ne bénéficient pas des mesures transitoires au sens de l'article 29c LCP[^3-2], l'âge limite de la retraite est fixé à 62 ans.
 
-<sup>3</sup> Pour les agents et agentes de la force publique engagés avant le 31 décembre 2018 et âgés de plus de 45 ans au 1<sup>er</sup> janvier 2022, qui bénéficient des mesures transitoires au sens de l'article 29c LCP, l'âge limite de la retraite est fixé à 60 ans.
+<sup>3</sup> Pour les agents et agentes de la force publique engagés avant le 31 décembre 2018 et âgés de plus de 45 ans au 1<sup>er</sup> janvier 2022, qui bénéficient des mesures transitoires au sens de l'article 29c LCP[^3-3], l'âge limite de la retraite est fixé à 60 ans.
 
-<sup>4</sup> Pour les titulaires de la fonction de chef/fe convoyeur/euse et de convoyeur/euse engagés avant le 31 décembre 2018 et âgés de plus de 45 ans au 1<sup>er</sup> janvier 2022, qui bénéficient des mesures transitoires au sens de l'article 29c LCP, l'âge limite de la retraite passe de 65 à 62 ans.
+<sup>4</sup> Pour les titulaires de la fonction de chef/fe convoyeur/euse et de convoyeur/euse engagés avant le 31 décembre 2018 et âgés de plus de 45 ans au 1<sup>er</sup> janvier 2022, qui bénéficient des mesures transitoires au sens de l'article 29c LCP[^3-4], l'âge limite de la retraite passe de 65 à 62 ans.
 
 <sup>5</sup> Dès le mois suivant celui au cours duquel l'agent ou l'agente de la force publique a atteint l'âge limite de la retraite fixé aux alinéas 1 à 4, les rapports de service cessent de plein droit.
+
+[^3-1]: RSF [122.73.1](https://bdlf.fr.ch/data/122.73.1/fr)
+[^3-2]: RSF [122.73.1](https://bdlf.fr.ch/data/122.73.1/fr)
+[^3-3]: RSF [122.73.1](https://bdlf.fr.ch/data/122.73.1/fr)
+[^3-4]: RSF [122.73.1](https://bdlf.fr.ch/data/122.73.1/fr)
 
 #### Art. 4
 
@@ -80,7 +92,9 @@ Arrête:
 
 <sup>2</sup> La retraite volontaire entre 58 et 60 ans ne peut pas être partielle.
 
-<sup>3</sup> La retraite volontaire entre 60 et 62 ans est régie conformément à l'article 37 du règlement du personnel de l'Etat du 17 décembre 2002 (RPers).
+<sup>3</sup> La retraite volontaire entre 60 et 62 ans est régie conformément à l'article 37 du règlement du personnel de l'Etat du 17 décembre 2002 (RPers)[^4-1].
+
+[^4-1]: RSF [122.70.11](https://bdlf.fr.ch/data/122.70.11/fr)
 
 ## 3 Prestations de retraite pour les agents et agentes de la force publique selon l'article 3 al. 1, 2 et 4
 
@@ -88,7 +102,7 @@ Arrête:
 
 **Participation de l'Etat-employeur au rachat de la réduction actuarielle – Principes**
 
-<sup>1</sup> Les agents et agentes de la force publique bénéficient d'une participation financière de l'Etat-employeur afin de compenser la baisse actuarielle du taux de conversion fixé par les annexes techniques du RRP, entre l'âge limite ordinaire de 65 ans selon la LPers et l'âge limite de 62 ans.
+<sup>1</sup> Les agents et agentes de la force publique bénéficient d'une participation financière de l'Etat-employeur afin de compenser la baisse actuarielle du taux de conversion fixé par les annexes techniques du RRP, entre l'âge limite ordinaire de 65 ans selon la LPers[^5-1] et l'âge limite de 62 ans.
 
 <sup>2</sup> La participation financière se compose comme suit:
 
@@ -102,6 +116,8 @@ Arrête:
 <sup>5</sup> La participation financière est calculée d'une manière progressive et proportionnelle pour les agents et agentes de la force publique ayant moins de treize années de service à l'âge limite de la retraite (1/13ème par année).
 
 <sup>6</sup> La participation financière de l'Etat-employeur est versée à la Caisse de prévoyance du personnel de l'Etat (ci-après: CPPEF) au moment de la retraite de l'agent ou de l'agente de la force publique par l'autorité d'engagement, qui inscrit les dépenses à cet effet dans son budget ordinaire.
+
+[^5-1]: RSF [122.70.1](https://bdlf.fr.ch/data/122.70.1/fr)
 
 #### Art. 6
 
@@ -147,9 +163,11 @@ Arrête:
 
 **Remboursement de l'avance AVS en cas de retraite volontaire entre 58 ans et l'âge limite de 62 ans**
 
-<sup>1</sup> En cas de retraite volontaire entre 58 ans et l'âge limite de 62 ans, l'Etat participe au financement du remboursement de l'avance AVS consentie par la CPPEF, en vertu de l'article 45 RRP. Les conditions de cette participation sont celles qui sont fixées à l'article 37 al. 2 et 3 RPers.
+<sup>1</sup> En cas de retraite volontaire entre 58 ans et l'âge limite de 62 ans, l'Etat participe au financement du remboursement de l'avance AVS consentie par la CPPEF, en vertu de l'article 45 RRP. Les conditions de cette participation sont celles qui sont fixées à l'article 37 al. 2 et 3 RPers[^10-1].
 
 <sup>2</sup> La participation au remboursement de l'avance AVS est égale à 90 % de la rente maximale AVS, montant réduit proportionnellement par mois d'anticipation du départ volontaire à la retraite avant l'âge de 60 ans.
+
+[^10-1]: RSF [122.70.11](https://bdlf.fr.ch/data/122.70.11/fr)
 
 ## 4 Prestations de retraite pour les agents et agentes de la force publique selon l'article 3 al. 3
 
@@ -163,8 +181,10 @@ Arrête:
 
 **Remboursement de l'avance AVS en cas de retraite volontaire entre 58 et 60 ans**
 
-<sup>1</sup> En cas de retraite volontaire entre 58 ans et l'âge limite de 60 ans, l'Etat participe au financement du remboursement de l'avance AVS consentie par la CPPEF en vertu de l'article 45 RRP. Les conditions de cette participation sont celles qui sont fixées à l'article 37 al. 2 et 3 RPers.
+<sup>1</sup> En cas de retraite volontaire entre 58 ans et l'âge limite de 60 ans, l'Etat participe au financement du remboursement de l'avance AVS consentie par la CPPEF en vertu de l'article 45 RRP. Les conditions de cette participation sont celles qui sont fixées à l'article 37 al. 2 et 3 RPers[^12-1].
 
 <sup>2</sup> La participation au remboursement de l'avance AVS est égale à 90 % de la rente maximale AVS, montant réduit proportionnellement par mois d'anticipation du départ volontaire à la retraite avant l'âge de 60 ans.
+
+[^12-1]: RSF [122.70.11](https://bdlf.fr.ch/data/122.70.11/fr)
 
 2021\_164
