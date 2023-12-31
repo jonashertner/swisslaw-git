@@ -4,13 +4,13 @@ number: "162.711.1"
 title: Organisationsreglement der Staatsanwaltschaft
 short: OrR StAw
 language: de
-version: 2023-02-01
-valid_until: 2023-12-31
-version_adopted: 2022-12-06
+version: 2024-01-01
+valid_until: 2025-07-31
+version_adopted: 2023-11-07
 adopted: 2010-10-15
 in_force: 2011-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/162.711.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2776/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2963/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2776/pdf_file"
 
 (OrR StAw)
 
-vom 15.10.2010 (Stand 01.02.2023)
+vom 15.10.2010 (Stand 01.01.2024)
 
 Die Generalstaatsanwaltschaft des Kantons Bern,
 
@@ -44,6 +44,8 @@ beschliesst:
 <sup>4</sup> Wo in diesem Reglement von leitenden Staatsanwältinnen und Staatsanwälten die Rede ist, gelten die Bestimmungen auch für die leitenden Jugendanwältinnen und Jugendanwälte.
 
 <sup>5</sup> Wo in diesem Reglement von Staatsanwältinnen und Staatsanwälten die Rede ist, gelten die Bestimmungen auch für die Jugendanwältinnen und Jugendanwälte.
+
+<sup>6</sup> Wo in diesem Reglement von Assistenzstaatsanwältinnen und Assistenzstaatsanwälten die Rede ist, gelten die Bestimmungen auch für die Assistenzjugendanwältinnen und Assistenzjugendanwälte.
 
 [^1-1]: SR 312.1
 
@@ -72,7 +74,9 @@ beschliesst:
 - e einer leitenden Jugendanwältin oder einem leitenden Jugendanwalt,
 - f einer stellvertretenden leitenden Jugendanwältin oder einem stellvertretenden leitenden Jugendanwalt,
 - g Staatsanwältinnen und Staatsanwälten,
-- h Jugendanwältinnen und Jugendanwälten.
+- h Jugendanwältinnen und Jugendanwälten,
+- i Assistenzstaatsanwältinnen und Assistenzstaatsanwälten,
+- k Assistenzjugendanwältinnen und Assistenzjugendanwälten.
 
 <sup>2</sup> Sie beschäftigt zudem
 
@@ -151,7 +155,7 @@ beschliesst:
 
 <sup>2</sup> Sie oder er ist verantwortlich für die fachgerechte und effiziente Strafverfolgung und die Zuteilung der personellen, finanziellen und sachlichen Mittel.
 
-<sup>3</sup> Sie oder er ist Mitglied der Justizleitung und kann sich dort nur bei zwingender Abwesenheit vertreten lassen.
+<sup>3</sup> Sie oder er ist Mitglied der Justizverwaltungsleitung und kann sich dort nur bei zwingender Abwesenheit vertreten lassen.
 
 #### Art. 12
 
@@ -165,11 +169,12 @@ beschliesst:
 
 #### Art. 13
 
-**Staatsanwältinnen und Staatsanwälte, juristische Sekretärinnen und Sekretäre**
+**Staatsanwältinnen und Staatsanwälte, Assistenzstaatsanwältinnen und Assistenzstaatsanwälte, juristische Sekretärinnen und Sekretäre**
 
 <sup>1</sup> Die Generalstaatsanwältin oder der Generalstaatsanwalt ernennt nach Bedarf
 
 - a der Generalstaatsanwaltschaft zugeordnete Staatsanwältinnen und Staatsanwälte,
+- a1 Assistenzstaatsanwältinnen und Assistenzstaatsanwälte,
 - b juristische Sekretärinnen und Sekretäre.
 
 <sup>2</sup> Diese unterstützen die Generalstaatsanwaltschaft in der Vertretung der Anklage vor Ober- und Bundesgericht und in ihnen besonders zugeordneten Fachbereichen.
@@ -189,7 +194,7 @@ beschliesst:
 - a berät die Generalstaatsanwältin oder den Generalstaatsanwalt,
 - b unterstützt die leitenden Staatsanwältinnen oder die leitenden Staatsanwälte der regionalen und der kantonalen Staatsanwaltschaften,
 - c ist Ansprechpartner für alle Mitarbeiterinnen und Mitarbeiter,
-- d ist Ansprechpartner für die Stabsstelle für Ressourcen der Justizleitung, für die externen Erbringerinnen und Erbringer vereinbarter Leistungen und für die Fachstellen der kantonalen Verwaltung.
+- d ist Ansprechpartner für die Stabsstelle für Ressourcen der Justizverwaltungsleitung, für die externen Erbringerinnen und Erbringer vereinbarter Leistungen und für die Fachstellen der kantonalen Verwaltung.
 
 #### Art. 15
 
@@ -260,7 +265,7 @@ beschliesst:
 
 **Jahrestagung der Staatsanwaltschaft**
 
-<sup>1</sup> Die Generalstaatsanwaltschaft lädt wenigstens einmal jährlich alle Staatsanwältinnen und Staatsanwälte zu einer Tagung ein.
+<sup>1</sup> Die Generalstaatsanwaltschaft lädt wenigstens einmal jährlich alle Staatsanwältinnen und Staatsanwälte, die Assistenzstaatsanwältinnen und Assistenzstaatsanwälte sowie die juristischen Sekretärinnen und Sekretäre zu einer Tagung ein.
 
 <sup>2</sup> Die Tagung dient insbesondere
 
@@ -328,11 +333,21 @@ beschliesst:
 
 <sup>5</sup> Die Staatsanwältinnen und Staatsanwälte werden in der Aufgabenerfüllung unterstützt durch Assistentinnen und Assistenten. Sie sind diesen gegenüber weisungsbefugt.
 
+#### Art. 24a
+
+**Assistenzstaatsanwältinnen und Assistenzstaatsanwälte**
+
+<sup>1</sup> Die Assistenzstaatsanwältinnen und Assistenzstaatsanwälte sind verantwortlich für die fachgerechte und effiziente Bearbeitung der ihnen zugewiesenen Strafsachen.
+
+<sup>2</sup> Sie können im Pikettdienst beigezogen werden.
+
 #### Art. 25
 
 **Gruppenbildung**
 
 <sup>1</sup> Mehrere Staatsanwältinnen und Staatsanwälte und mehrere Assistentinnen und Assistenten bilden zusammen eine Gruppe.
+
+<sup>1a</sup> Assistenzstaatsanwältinnen und Assistenzstaatsanwälte sind grundsätzlich keiner Gruppe zugeordnet.
 
 <sup>2</sup> Sie behandeln innerhalb der Gruppe insbesondere
 
@@ -356,7 +371,7 @@ beschliesst:
 <sup>3</sup> Die Kanzlei ist insbesondere zuständig für
 
 - a die Triage und Erfassung der Geschäfte,
-- b den Erlass von Strafbefehlen ohne vorherige Untersuchung unter der Verantwortung einer dafür bezeichneten Staatsanwältin oder eines dafür bezeichneten Staatsanwalts,
+- b den Erlass von Strafbefehlen ohne vorherige Untersuchung unter der Verantwortung einer dafür bezeichneten Staatsanwältin oder eines dafür bezeichneten Staatsanwalts sowie einer dafür bezeichneten Assistenzstaatsanwältin oder eines dafür bezeichneten Assistenzstaatsanwaltes,
 - c das Rechnungswesen,
 - d den Empfang,
 - e die Betreuung der Praktikantinnen, Praktikanten und Lernenden,
@@ -375,7 +390,7 @@ beschliesst:
 
 **Konferenz der regionalen oder der kantonalen Staatsanwältinnen und Staatsanwälte**
 
-<sup>1</sup> Die leitende Staatsanwältin oder der leitende Staatsanwalt lädt periodisch, in der Regel einmal pro Monat, die Staatsanwältinnen und Staatsanwälte, die Kanzleichefin oder den Kanzleichef sowie eine Vertretung der Assistentinnen und Assistenten zu einer Konferenz ein.
+<sup>1</sup> Die leitende Staatsanwältin oder der leitende Staatsanwalt lädt periodisch, in der Regel einmal pro Monat, die Staatsanwältinnen und Staatsanwälte, die Assistenzstaatsanwältinnen und Assistenzstaatsanwälte, die Kanzleichefin oder den Kanzleichef sowie eine Vertretung der Assistentinnen und Assistenten zu einer Konferenz ein.
 
 <sup>2</sup> Die Konferenz dient
 

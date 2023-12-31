@@ -4,13 +4,13 @@ number: "162.711.1"
 title: Règlement d’organisation du Ministère public
 short: RO MP
 language: fr
-version: 2023-02-01
-valid_until: 2023-12-31
-version_adopted: 2022-12-06
+version: 2024-01-01
+valid_until: 2025-07-31
+version_adopted: 2023-11-07
 adopted: 2010-10-15
 in_force: 2011-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/162.711.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2776/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2963/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2776/pdf_file"
 
 (RO MP)
 
-du 15.10.2010 (état au 01.02.2023)
+du 15.10.2010 (état au 01.01.2024)
 
 Le Parquet général du canton de Berne,
 
@@ -44,6 +44,8 @@ arrête:
 <sup>4</sup> Les dispositions du présent règlement qui s’appliquent aux procureurs et procureures en chef s’appliquent aussi aux procureurs et procureures des mineurs en chef.
 
 <sup>5</sup> Les dispositions du présent règlement qui s’appliquent aux procureurs et procureures s’appliquent aussi aux procureurs et procureures des mineurs.
+
+<sup>6</sup> Les dispositions du présent règlement qui s’appliquent aux procureurs-assistants et procureures-assistantes s’appliquent aussi aux procureurs-assistants et procureures-assistantes des mineurs.
 
 [^1-1]: RS 312.1
 
@@ -72,7 +74,9 @@ arrête:
 - e d’un procureur ou d’une procureure des mineurs en chef,
 - f d’un suppléant ou d’une suppléante du procureur ou de la procureure des mineurs en chef,
 - g de procureurs ou procureures,
-- h de procureurs ou procureures des mineurs.
+- h de procureurs ou procureures des mineurs,
+- i de procureurs-assistants ou procureures-assistantes,
+- k de procureurs-assistants ou procureures-assistantes des mineurs.
 
 <sup>2</sup> De plus, il emploie:
 
@@ -151,7 +155,7 @@ arrête:
 
 <sup>2</sup> Il ou elle assume la responsabilité du professionnalisme et de l’efficacité de la poursuite pénale et de l’allocation des ressources en personnel, financières et matérielles.
 
-<sup>3</sup> Il ou elle est membre de la Direction de la magistrature. Il ou elle ne peut s’y faire représenter qu’en cas d’absence pour raison impérative.
+<sup>3</sup> Il ou elle est membre de la Direction administrative de la magistrature. Il ou elle ne peut s’y faire représenter qu’en cas d’absence pour raison impérative.
 
 #### Art. 12
 
@@ -165,11 +169,12 @@ arrête:
 
 #### Art. 13
 
-**Procureurs ou procureures, secrétaires juristes**
+**Procureurs et procureures, procureurs-assistants et procureures-assistantes, secrétaires juristes**
 
 <sup>1</sup> Le procureur général ou la procureure générale nomme, selon les besoins
 
 - a des procureurs et procureures subordonnés au Parquet général,
+- a1 des procureurs-assistants et procureures-assistantes,
 - b des secrétaires juristes.
 
 <sup>2</sup> Ceux-ci apportent leur appui au Parquet général pour représenter l’accusation devant la Cour suprême ou devant le Tribunal fédéral, ainsi que dans des domaines qui leur sont plus particulièrement attribués.
@@ -189,7 +194,7 @@ arrête:
 - a conseille le procureur général ou la procureure générale,
 - b apporte son appui aux procureurs ou procureures en chef des ministères publics cantonaux ou régionaux,
 - c est l‘interlocuteur de tous les collaborateurs et collaboratrices,
-- d est l’interlocuteur de l’état-major des ressources de la direction de la magistrature, des fournisseurs externes de prestations convenues et des services spécialisés de l’administration cantonale.
+- d est l’interlocuteur de l’état-major des ressources de la Direction administrative de la magistrature, des fournisseurs externes de prestations convenues et des services spécialisés de l’administration cantonale.
 
 #### Art. 15
 
@@ -260,7 +265,7 @@ arrête:
 
 **Réunion annuelle du Ministère public**
 
-<sup>1</sup> Une fois par an au moins, le Parquet général convoque à une réunion tous les procureurs et procureures.
+<sup>1</sup> Une fois par an au moins, le Parquet général convoque à une réunion tous les procureurs et procureures, les procureurs-assistants et procureures-assistantes et les secrétaires juridiques.
 
 <sup>2</sup> La réunion permet notamment
 
@@ -328,11 +333,21 @@ arrête:
 
 <sup>5</sup> Pour accomplir leurs tâches, les procureurs et procureures reçoivent l’appui d’assistants et assistantes, à qui ils peuvent donner des instructions.
 
+#### Art. 24a
+
+**Procureurs-assistants et procureures-assistantes**
+
+<sup>1</sup> Les procureurs-assistants et procureures-assistantes sont responsables du professionnalisme et de l’efficacité du traitement des affaires pénales qui leur sont confiées.
+
+<sup>2</sup> Il peut être fait appel à eux dans le service de garde.
+
 #### Art. 25
 
 **Formation de groupes**
 
 <sup>1</sup> Ensemble, plusieurs procureurs et procureures et plusieurs assistants et assistantes forment un groupe.
+
+<sup>1a</sup> Les procureurs-assistants et procureures-assistantes ne sont en principe rattachés à aucun groupe.
 
 <sup>2</sup> Au sein du groupe, ils ou elles organisent notamment
 
@@ -356,7 +371,7 @@ arrête:
 <sup>3</sup> La chancellerie est notamment responsable des tâches suivantes:
 
 - a le tri et la saisie des affaires,
-- b le prononcé d’ordonnances pénales sans instruction préalable sous la responsabilité du procureur ou de la procureure désigné ou désignée pour ce faire,
+- b le prononcé d’ordonnances pénales sans instruction préalable sous la responsabilité du procureur, de la procureure, du procureur-assistant ou de la procureure-assistante désigné ou désignée pour ce faire,
 - c la comptabilité,
 - d l’accueil,
 - e l’encadrement des stagiaires et des apprenants et apprenantes,
@@ -375,7 +390,7 @@ arrête:
 
 **Conférence des procureurs et procureures régionaux ou cantonaux**
 
-<sup>1</sup> Périodiquement, une fois par mois en général, le procureur ou la procureure en chef convoque à une conférence les procureurs et procureures, le chef ou la cheffe de chancellerie ainsi qu’une représentation des assistants et assistantes.
+<sup>1</sup> Périodiquement, une fois par mois en général, le procureur ou la procureure en chef convoque à une conférence les procureurs et procureures, les procureurs-assistants et procureures-assistantes, le chef ou la cheffe de chancellerie ainsi qu’une représentation des assistants et assistantes.
 
 <sup>2</sup> La conférence permet
 
