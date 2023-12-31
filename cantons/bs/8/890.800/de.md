@@ -4,13 +4,12 @@ number: "890.800"
 title: Vertrag zwischen dem Kanton Basel-Stadt und den Gemeinden Bettingen und Riehen betreffend die Aufgabenteilung im Bereich Asyl
 short: Asylvertrag
 language: de
-version: 2017-01-01
-valid_until: 2023-12-31
-version_adopted: 2016-02-23
+version: 2024-01-01
+version_adopted: 2023-08-22
 adopted: 2023-08-22
 in_force: 2024-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/890.800"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5969/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6194/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Asylvertrag | Sozialhilfe / Sozialbeiträge[^t-1]
 
 (Asylvertrag)
 
-Vom 23. Februar 2016 (Stand 1. Januar 2017)
+Vom 22. August 2023 (Stand 1. Januar 2024)
 
 In Bezug auf die Aufgabenteilung im Asylbereich zwischen dem Kanton Basel-Stadt und den Gemeinden Bettingen und Riehen vereinbaren
 
@@ -29,12 +28,14 @@ In Bezug auf die Aufgabenteilung im Asylbereich zwischen dem Kanton Basel-Stadt 
 
 und
 
-\2. die Einwohnergemeinde Bettingen und die Einwohnergemeinde Riehen, nachstehend Gemeinden genannt,
+\2. die Einwohnergemeinde Bettingen und die Einwohnergemeinde Riehen, nachstehend Gemeinden genannt, beide vertreten durch den Gemeinderat, handelnd unter dem Vorbehalt der Genehmigung durch die Gemeindeversammlung Bettingen bzw. durch den Einwohnerrat Riehen,
 
-beide vertreten durch den Gemeinderat, handelnd unter dem Vorbehalt der Genehmigung durch die Gemeindeversammlung Bettingen bzw. durch den Einwohnerrat Riehen, gestützt auf § 23 Sozialhilfegesetz vom 29. Juni 2000[^ingress-1] was folgt:
+gestützt auf § 22 Sozialhilfegesetz vom 29. Juni 2000[^ingress-1], § 21 Abs. 3 lit. i Gemeindeordnung der Einwohnergemeinde Riehen vom 27. Februar 2002[^ingress-2] und § 12 Abs. 1 Ziff. 5 Gemeindeordnung der Einwohnergemeinde Bettingen vom 26. April 2016[^ingress-3] was folgt:
 
-[^t-1]: Dieser Erlass trägt ein Doppeldatum und zwar 23.02.2016/25.02.2016. Systembedingt kann nur ein Datum angezeigt werden.
-[^ingress-1]: SG [890.100](https://www.gesetzessammlung.bs.ch/data/890.100/de).
+[^t-1]: Dieser Erlass trägt ein Dreifachdatum und zwar 22.08.2023, 18.03.2024 und 20.03.2024. Systembedingt kann nur ein Datum angezeigt werden.
+[^ingress-1]: SG [890.100](https://www.gesetzessammlung.bs.ch/data/890.100/de)
+[^ingress-2]: [RiE 111.100](https://www.gesetzessammlung.bs.ch/data/RiE%20111.100/de)
+[^ingress-3]: [BeE 111.100](https://www.gesetzessammlung.bs.ch/data/BeE%20111.100/de)
 
 ## A. Allgemeines
 
@@ -42,7 +43,12 @@ beide vertreten durch den Gemeinderat, handelnd unter dem Vorbehalt der Genehmig
 
 **Gegenstand**
 
-<sup>1</sup> Dieser Vertrag regelt die innerkantonale Aufgabenteilung zwischen dem Kanton Basel-Stadt und den Gemeinden Bettingen und Riehen betreffend die Unterbringung, Betreuung und Sozialhilfeunterstützung von vorläufig Aufgenommenen und Flüchtlingen mit Status B oder F, welche im Kanton Basel-Stadt wohnen, die finanzielle Beteiligung der Gemeinden sowie die innerkantonale Koordination und Zusammenarbeit zwischen dem Kanton und den Gemeinden.
+<sup>1</sup> Dieser Vertrag regelt die innerkantonale Aufgabenteilung zwischen dem Kanton und den Gemeinden Bettingen und Riehen betreffend die Unterbringung, Betreuung und Sozialhilfeunterstützung sämtlicher Personen aus dem Asylbereich, die finanzielle Beteiligung der Gemeinden an der jährlichen kantonalen Asylrechnung sowie die innerkantonale Koordination und Zusammenarbeit zwischen dem Kanton und den Gemeinden.
+
+<sup>2</sup> Personen aus dem Asylbereich umfassen alle Personen, die dem Kanton nach den Vorgaben des Asylgesetzes (AsylG) vom 26. Juni 1998[^1-1] und des Bundesgesetzes über die Ausländerinnen und Ausländer und über die Integration (Ausländer- und Integrationsgesetz, AIG) vom 16. Dezember 2005[^1-2] vom Bund zugewiesen werden.
+
+[^1-1]: SR [142.31](https://db.clex.ch/link/Bund/142.31/de).
+[^1-2]: SR [142.20](https://db.clex.ch/link/Bund/142.20/de).
 
 ## B. Aufgaben von Kanton und Gemeinden
 
@@ -50,34 +56,32 @@ beide vertreten durch den Gemeinderat, handelnd unter dem Vorbehalt der Genehmig
 
 #### § 2
 
-**Zuständigkeit der Sozialhilfe Basel**
+**Zuständigkeit**
 
-<sup>1</sup> Die Sozialhilfe Basel ist in der Regel für die Sozialhilfeunterstützung, die Unterbringung und die Betreuung von Personen aus dem Asylbereich zuständig, welche im Kanton Basel-Stadt wohnen.
+<sup>1</sup> Der Kanton ist für die Sozialhilfeunterstützung, die Unterbringung und die Betreuung von Personen aus dem Asylbereich im Sinne von § 1 Abs. 2 zuständig.
 
-<sup>2</sup> In Ausnahmefällen kann zum Wohle unterstützter Personen aus dem Asylbereich mit dem Wohnsitzwechsel in die Gemeinden auch ein Wechsel der sozialhilferechtlichen Zuständigkeit einhergehen. Die Sozialhilfe Basel und die Gemeinden verständigen sich vorgängig gemeinsam über einen solchen Wechsel.
+<sup>2</sup> In Ausnahmefällen kann zum Wohle Einzelner mit einem Wohnsitzwechsel von der Stadt in die Gemeinden auch ein Wechsel der sozialhilferechtlichen Zuständigkeit einhergehen. Der Kanton und die Gemeinden verständigen sich vorgängig gemeinsam im Einzelfall über einen solchen Wechsel.
 
 #### § 3
 
-**Dienstleistungen der Sozialhilfe Basel**
+**Dienstleistungen des Kantons**
 
-<sup>1</sup> Folgende Leistungen werden von der Sozialhilfe Basel erbracht:
+<sup>1</sup> Folgende Leistungen für Personen aus dem Asylbereich im Sinne von § 1 Abs. 2 werden vom Kanton erbracht:
 
-- a) Administration und Logistik,
-- b) Erstaufnahme der vom Bund an den Kanton Basel-Stadt zugewiesenen Personen aus dem Asylbereich,
-- c) Sozialhilfeunterstützung, Betreuung und Unterbringung von Personen im Verfahren, deren Asylentscheid noch nicht vorliegt (Asylsuchende mit Ausweis N), von vorläufig Aufgenommenen und Flüchtlingen mit Status B oder F mit Wohnsitz im Kanton Basel-Stadt – ausgenommen Personen gemäss § 2 Abs. 2,
-- d) Sozialhilfeunterstützung, spezifische Betreuung und Unterbringung von besonders verletzlichen Personen,
-- e) Sozialhilfeunterstützung, spezifische Betreuung und Unterbringung von unbegleiteten minderjährigen Asylsuchenden (UMA),
-- f) Arbeitsintegration über die Fachstelle Integration von allen vorläufig Aufgenommenen und Flüchtlingen aller Status,
-- g) Rückkehrberatung und Rückkehrhilfe von abgewiesenen Asylsuchenden,
+- a) Administration und Logistik;
+- b) Erstaufnahme;
+- c) Sozialhilfeunterstützung, Betreuung und Unterbringung mit Ausnahme von Personen gemäss § 2 Abs. 2;
+- d) Sozialhilfeunterstützung, spezifische Betreuung und Unterbringung von besonders verletzlichen Personen;
+- e) Sozialhilfeunterstützung, spezifische Betreuung und Unterbringung von unbegleiteten minderjährigen Asylsuchenden (UMA);
+- f) Arbeitsintegration und soziale Integration von Personen aus dem Asylbereich mit geregeltem Aufenthalt in der Schweiz (Nothilfebeziehende gelten als ungeregelte Aufenthalterinnen und Aufenthalter);
+- g) Rückkehrberatung und Rückkehrhilfe von abgewiesenen Asylsuchenden;
 - h) Unterbringung und Versorgung von Nothilfebeziehenden.
 
 #### § 4
 
-**Zuweisung von Flüchtlingen und vorläufig Aufgenommenen an die Gemeinden**
+**Zuweisung Personen aus dem Asylbereich an die Gemeinden**
 
-<sup>1</sup> Können die Gemeinden Wohnraum anbieten, kann die Sozialhilfe Basel den Gemeinden nach Rücksprache geeignete Flüchtlinge mit Status B oder F und vorläufig Aufgenommene zuweisen, die selbstständig wohnen und den Alltag ohne speziellen Betreuungsaufwand meistern können.
-
-<sup>2</sup> Die sozialhilferechtliche Zuständigkeit richtet sich nach § 2.
+<sup>1</sup> Können die Gemeinden Wohnraum anbieten, kann der Kanton den Gemeinden nach Rücksprache geeignete Personen aus dem Asylbereich zuweisen, die selbstständig wohnen und im Alltag ohne speziellen Betreuungsaufwand zurechtkommen. Ausgenommen davon sind Personen, deren Asylverfahren noch nicht abgeschlossen ist, sowie Nothilfebeziehende.
 
 ### 2. Gemeinden
 
@@ -85,17 +89,17 @@ beide vertreten durch den Gemeinderat, handelnd unter dem Vorbehalt der Genehmig
 
 **Zuständigkeit**
 
-<sup>1</sup> Die Gemeinden bemühen sich um die Beschaffung von Wohnraum und beteiligen sich an der sozialen Integration der den Gemeinden zugewiesenen Flüchtlinge und vorläufig Aufgenommenen.
+<sup>1</sup> Die Gemeinden bemühen sich um die Beschaffung von Wohnraum und beteiligen sich an der sozialen Integration der den Gemeinden zugewiesenen Personen aus dem Asylbereich.
 
-<sup>2</sup> Sie sind zuständig für die Sozialhilfeunterstützung von bedürftigen Flüchtlingen und vorläufig Aufgenommenen mit Wohnsitz in den Gemeinden gemäss § 2 Abs. 2.
+<sup>2</sup> Die Zuständigkeit der Gemeinden für die Sozialhilfeunterstützung von Personen aus dem Asylbereich mit Wohnsitz in den Gemeinden richtet sich nach § 2 Abs. 2.
 
 #### § 6
 
 **Wohnraum in den Gemeinden**
 
-<sup>1</sup> Die Gemeinden suchen und vermitteln Wohnraum an die Sozialhilfe Basel.
+<sup>1</sup> Die Gemeinden suchen und vermitteln Wohnraum an den Kanton.
 
-<sup>2</sup> Die Wohnungen werden von der Sozialhilfe Basel gemietet.
+<sup>2</sup> Wohnungen oder Liegenschaften werden vom Kanton gemietet.
 
 <sup>3</sup> Sollte es zu einer akuten Notlage im Asylbereich kommen, bieten die Gemeinden Hand für weitergehende Massnahmen des Kantons zur Wohnraumbeschaffung auf ihrem Gemeindegebiet. Die Gemeinden werden möglichst frühzeitig in die kantonale Notfallplanung einbezogen.
 
@@ -103,9 +107,9 @@ beide vertreten durch den Gemeinderat, handelnd unter dem Vorbehalt der Genehmig
 
 **Ansprechstelle Asyl der Gemeinden**
 
-<sup>1</sup> Die Gemeinden betreiben in Absprache mit dem Kanton eine Ansprechstelle Asyl, welche die soziale Integration der den Gemeinden zugewiesenen Flüchtlinge und vorläufig Aufgenommenen fördert und der ansässigen Bevölkerung für Anliegen zur Verfügung zu steht.
+<sup>1</sup> Die Gemeinden betreiben eine Ansprechstelle Asyl, welche die soziale Integration der den Gemeinden zugewiesenen Personen aus dem Asylbereich fördert und der ansässigen Bevölkerung als Kontaktstelle zur Verfügung steht.
 
-<sup>2</sup> Sie kann gemeinsam mit sozialen Institutionen und Kirchen Projekte zur sozialen Integration lancieren und vermitteln sowie Arbeitseinsätze und Tagesbeschäftigungen in Zusammenarbeit mit der Fachstelle Integration der Sozialhilfe Basel organisieren und vermitteln.
+<sup>2</sup> Sie können gemeinsam mit sozialen Institutionen und Kirchen Projekte zur sozialen Integration lancieren und vermitteln sowie Arbeitseinsätze und Tagesbeschäftigungen in Zusammenarbeit mit der Fachstelle Arbeitsintegration der Sozialhilfe Basel-Stadt organisieren und vermitteln.
 
 ## C. Finanzielle Beteiligung der Gemeinden
 
@@ -113,14 +117,14 @@ beide vertreten durch den Gemeinderat, handelnd unter dem Vorbehalt der Genehmig
 
 **Kostenbeteiligung**
 
-<sup>1</sup> Die Gemeinden beteiligen sich jährlich proportional zu ihrer Bevölkerung an der kantonalen Asylabrechnung.
+<sup>1</sup> Die Gemeinden beteiligen sich jährlich proportional zu ihrer Bevölkerung an der kantonalen Asylrechnung.
 
-<sup>2</sup> Die kantonale Asylabrechnung beinhaltet
+<sup>2</sup> Die kantonale Asylrechnung beinhaltet:
 
-- a) den Ausgabenüberschuss des Departements für Wirtschaft, Soziales und Umwelt (WSU): die Kosten für Asylsuchende im Verfahren (Status N), Flüchtlinge (Status B oder F), vorläufig Aufgenommene (Status F) und Nothilfebeziehende des WSU in den Bereichen Unterbringung, Betreuung und Integration, abzüglich aller Bundespauschalen. Die Asylkosten der anderen Departemente werden nicht berücksichtigt.
-- b) die Kosten der Gemeinden Bettingen und Riehen für die soziale Integration von Flüchtlingen und vorläufig Aufgenommenen in den Gemeinden sowie für die Sozialhilfekosten bei Ausnahmefällen gemäss § 2 Abs. 2.
+- a) den Ausgabenüberschuss des Departements für Wirtschaft, Soziales und Umwelt (WSU): die Kosten für Personen aus dem Asylbereich des WSU in den Bereichen Unterbringung, Betreuung und Integration, abzüglich aller in diesen Bereichen ausbezahlten Bundespauschalen (Kosten für Personen aus dem Asylbereich, die in anderen Departementen anfallen, werden hier nicht berücksichtigt);
+- b) die Kosten der Gemeinden Bettingen und Riehen für die soziale Integration von Personen aus dem Asylbereich in den Gemeinden sowie für die Sozialhilfekosten bei Ausnahmefällen gemäss § 2 Abs. 2.
 
-<sup>3</sup> Die Sozialhilfe Basel stellt den Gemeinden die Kosten jeweils nach Abschluss der Jahresrechnung Asyl in Rechnung (Berechnung Kostenanteil der Gemeinden siehe Anhang).
+<sup>3</sup> Der Kanton stellt den Gemeinden die Kosten jeweils nach Abschluss der Jahresrechnung Asyl in Rechnung (Berechnung Kostenanteil der Gemeinden siehe Anhang).
 
 <sup>4</sup> Sollte den Gemeinden im Asylbereich eine übermässige finanzielle Belastung - auch aufgrund anderer Kosten - entstehen, verhandeln der Kanton und die Gemeinden neu.
 
@@ -134,13 +138,13 @@ beide vertreten durch den Gemeinderat, handelnd unter dem Vorbehalt der Genehmig
 
 <sup>2</sup> Sie hat folgende Aufgaben:
 
-- a) Austausch über die Entwicklung betreffend Flüchtlingssituation und Wohnraumbedarf,
-- b) Austausch über die Kostenentwicklung im Asylbereich und über allfällige strategische Veränderungen,
-- c) Beratung und Genehmigung der Asylabrechnung von WSU und Gemeinden,
-- d) Koordination der Kommunikation gegen innen und aussen,
-- e) Information über die Massnahmen zur Wohnraumbeschaffung,
-- f) Absprache von Transfers von anerkannten Flüchtlingen und vorläufig Aufgenommen in die Gemeinden (inkl. Wohnraumbeschaffung),
-- g) Informeller Austausch, auch Einzelfall bezogen,
+- a) Austausch über die Entwicklung betreffend Flüchtlingssituation und Wohnraumbedarf;
+- b) Austausch über die Kostenentwicklung im Asylbereich und über allfällige strategische Veränderungen;
+- c) Beratung und Genehmigung der Asylrechnung von WSU und Gemeinden;
+- d) Koordination der Kommunikation gegen innen und aussen;
+- e) Information über die Massnahmen zur Wohnraumbeschaffung;
+- f) Absprache von Transfers von anerkannten Flüchtlingen, Personen mit Schutzstatus S und vorläufig Aufgenommen in die Gemeinden (inkl. Wohnraumbeschaffung);
+- g) Informeller Austausch, auch Einzelfall bezogen;
 - h) Jährliche Berichterstattung an den Regierungsrat und die Gemeinderäte.
 
 #### § 10
@@ -149,7 +153,7 @@ beide vertreten durch den Gemeinderat, handelnd unter dem Vorbehalt der Genehmig
 
 <sup>1</sup> Die Arbeitsgruppe Asyl setzt sich wie folgt zusammen:
 
-- a) Das Departement für Wirtschaft, Soziales und Umwelt delegiert eine Person (Sozialhilfe/ Asylkoordination).
+- a) Das WSU delegiert eine Person (Sozialhilfe/ Asylkoordination).
 - b) Der Gemeinderat Riehen delegiert eine Person aus dem Sozialbereich und eine Person aus dem Liegenschaftsbereich.
 - c) Der Gemeinderat Bettingen delegiert eine Person.
 
@@ -159,9 +163,9 @@ beide vertreten durch den Gemeinderat, handelnd unter dem Vorbehalt der Genehmig
 
 **Organisation**
 
-<sup>1</sup> Die Arbeitsgruppe trifft sich mindestens einmal im Quartal.
+<sup>1</sup> Die Arbeitsgruppe trifft sich nach Bedarf, aber mindestens einmal im Jahr.
 
-<sup>2</sup> Die Organisation und Leitung der Sitzung wird jährlich alternierend durch den Kanton bzw. die Gemeinden übernommen.
+<sup>2</sup> Die Organisation und Leitung der Sitzung wird alternierend durch den Kanton bzw. die Gemeinden übernommen.
 
 ## E. Schlussbestimmungen
 
@@ -171,7 +175,7 @@ beide vertreten durch den Gemeinderat, handelnd unter dem Vorbehalt der Genehmig
 
 <sup>1</sup> Der Vertrag wird auf unbestimmte Zeit abgeschlossen.
 
-<sup>2</sup> Er kann von jedemVertragspartnern mit eingeschriebenem Brief und unter Beachtung einer Kündigungsfrist von sechs Monaten auf das Ende eines Kalenderjahres gekündigt werden, erstmals per Ende 2018.
+<sup>2</sup> Er kann von jedem Vertragspartner mit eingeschriebenem Brief und unter Beachtung einer Kündigungsfrist von sechs Monaten auf das Ende eines Kalenderjahres gekündigt werden, erstmals per Ende 2024.
 
 <sup>3</sup> Kündigt eine der Gemeinden diesen Vertrag, gilt er für die andere Gemeinde weiter.
 
@@ -185,44 +189,46 @@ beide vertreten durch den Gemeinderat, handelnd unter dem Vorbehalt der Genehmig
 
 <sup>2</sup> Die Vertragspartner verpflichten sich, während der Dauer der Vereinbarung zu Änderungen Hand zu bieten, die auf Grund veränderter Verhältnisse dringend notwendig sind.
 
-*Wirksamkeit*
+*Inkrafttreten*
 
-Dieser Vertrag wird publiziert. Er wird nach allseitiger Unterzeichnung und Genehmigung per 1. Januar 2017 wirksam.
+Dieser Vertrag ist zu publizieren; er tritt nach allseitiger Unterzeichnung und Genehmigung rückwirkend auf den 1. Januar 2024 in Kraft. Auf den gleichen Zeitpunkt wird der Vertrag zwischen dem Kanton Basel-Stadt und den Gemeinden Bettingen und Riehen betreffend die Aufgabenteilung im Bereich Asyl (Asylvertrag) vom 23. Februar 2016 aufgehoben.
 
-Basel, 23. Februar 2016
+Basel, 22. August 2023
 
 Im Namen des Regierungsrats des Kantons Basel-Stadt
 
-Der Präsident: Dr. Guy Morin
+Der Regierungspräsident i.V.: Lukas Engelberger
 
 Die Staatsschreiberin: Barbara Schüpbach-Guggenbühl
 
-Bettingen, 25. Februar 2016
+Bettingen, 18. März 2024
 
 Im Namen des Gemeinderats Bettingen
 
-Der Präsident: Patrick Götsch
+Der Präsident: Nikolai Iwangoff Brodmann
 
 Die Gemeindeverwalterin: Katharina Näf Widmer
 
-Genehmigt durch die Gemeindeversammlung Bettingen am 26. April 2016
+Genehmigt durch die Gemeindeversammlung Bettingen am 10. Dezember 2023
 
 Im Namen der Gemeindeversammlung Bettingen
 
-Der Präsident: Patrick Götsch
+Der Präsident: Nikolai Iwangoff Brodmann
 
 Die Gemeindeverwalterin: Katharina Näf Widmer
 
-Riehen, 23. Februar 2016 Im Namen des Gemeinderats Riehen
+Riehen, 20. März 2024
 
-Der Präsident: Hansjörg Wilde
+Im Namen des Gemeinderats Riehen
 
-Der Gemeindeverwalter: Andreas Schuppli
+Die Präsidentin: Christine Kaufmann
 
-Genehmigt durch den Einwohnerrat Riehen am 25. Mai 2016
+Der Generalsekretär: Patrick Breitenstein
 
-Der Präsident: Christian Griss
+Genehmigt durch den Einwohnerrat Riehen am 31. Januar 2024
 
-Die Ratssekretärin: Katja Christ
+Der Präsident: Martin Leschhorn Strebel
 
-KB 04.08.2016
+Der Ratssekretär: David Studer Matter
+
+KB 27.03.2024
