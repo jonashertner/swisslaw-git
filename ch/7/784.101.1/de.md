@@ -4,11 +4,11 @@ title: Verordnung vom 9. März 2007 über Fernmeldedienste (FDV)
 short: FDV
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/166"
 language: de
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2007-03-09
 in_force: 2007-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/166/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2007-166-20230901-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/166/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/166/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2007-166-20240101-de-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/166/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/166/20230901/de"
 
 (FDV)
 
-vom 9. März 2007 (Stand am 1. September 2023)
+vom 9. März 2007 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -254,7 +254,7 @@ Die Anbieterinnen von Fernmeldediensten müssen:
 Sie müssen für jeden der angebotenen Dienste mindestens:
 
 - a.[^10e-2] die tatsächlich erreichte Datenübertragungsrate, die Verzögerung und bei Mobilfunkverbindungen die Signalstärke messen und veröffentlichen;
-- b.[^10e-3] …
+- b.[^10e-3] die vertraglich vereinbarte Datenübertragungsrate, Schwankungen in der Verzögerung und den Verlust von Datenpaketen beim Transport messen und veröffentlichen.
 
 <sup>3</sup> Die Informationen über die Qualität müssen Vergleiche zwischen den Angeboten der verschiedenen Anbieterinnen erlauben. Sie müssen auch in Form von geografischen Karten veröffentlicht werden.
 
@@ -266,7 +266,7 @@ Sie müssen für jeden der angebotenen Dienste mindestens:
 
 [^10e-1]: Eingefügt durch Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 [^10e-2]: In Kraft seit 1. Sept. 2021, wobei die Veröffentlichung erst ab 1. Jan. 2022 erfolgen muss ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
-[^10e-3]: Tritt am 1. Jan. 2024 in Kraft ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^10e-3]: In Kraft seit 1. Jan. 2024, wobei die Veröffentlichung erst ab 1. April 2024 erfolgen muss ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
 #### Art. 10f
 
@@ -358,6 +358,24 @@ Die Nettokosten der Grundversorgung entsprechen den Aufwendungen einer effizient
 
 <sup>3</sup> Die für die Berechnung verwendeten Daten müssen abgestützt sein, das heisst sie müssen transparent sein und aus zuverlässigen Quellen stammen. Zu diesem Zweck sind die Fachempfehlungen zur Rechnungslegung (FER), international anerkannte Accountingstandards (IAS) oder vergleichbare international anerkannte Rechnungslegungsvorschriften anzuwenden.
 
+### 1*a**.* Abschnitt: Geltungsbereich
+
+[^chap3-sec1a-1]
+
+[^chap3-sec1a-1]: Eingefügt durch Ziff. I der V vom 16. Dez. 2022, in Kraft seit 1. Jan. 2024 ([AS 2022 849](https://fedlex.data.admin.ch/eli/oc/2022/849)).
+
+#### Art. 14a
+
+**Grundsatz**
+
+Der 2. und der 3. Abschnitt finden auf Verträge zwischen der Grundversorgungskonzessionärin und ihren Kundinnen und Kunden Anwendung, die ausdrücklich zur Erfüllung der Grundversorgungspflichten abgeschlossen werden.
+
+#### Art. 14b
+
+**Subsidiarität**
+
+Die Grundversorgungskonzessionärin kann auf den Abschluss eines Vertrags nach Artikel 14*a* verzichten, wenn für die betreffende Kundin oder den betreffenden Kunden ein vergleichbares Angebot auf dem Markt verfügbar ist. Erbringt sie gegenüber der Kundin oder dem Kunden dennoch ein Angebot so darf sie die Kosten im Hinblick auf eine Abgeltung nach Artikel 19 Absatz 1 FMG nicht anrechnen.
+
 ### 2. Abschnitt: Pflichten der Grundversorgungskonzessionärin
 
 #### Art. 15
@@ -369,9 +387,15 @@ Die Nettokosten der Grundversorgung entsprechen den Aufwendungen einer effizient
 Die Grundversorgung umfasst die folgenden Dienste:
 
 - a. den öffentlichen Telefondienst, der das Führen von nationalen und internationalen Telefongesprächen in Echtzeit mit einer Nummer[^15-1] ermöglicht;
-- b. den öffentlichen Telefondienst, der das Führen von nationalen und internationalen Telefongesprächen in Echtzeit mit drei Nummern ermöglicht;
-- c. einen Eintrag im Verzeichnis des öffentlichen Telefondienstes bei Beanspruchung eines Dienstes nach Buchstabe a oder b; Haushalte haben Anspruch auf zwei Einträge;
-- d.[^15-2] den Zugangsdienst zum Internet mit einer garantierten Übertragungsrate von 10/1 Mbit/s;
+- b.[^15-2] …
+- c.[^15-3] einen Eintrag im Verzeichnis des öffentlichen Telefondienstes bei Beanspruchung des Dienstes nach Buchstabe a; Haushalte haben Anspruch auf zwei Einträge;
+- d.[^15-4]
+
+  den Zugangsdienst zum Internet mit einer der folgenden spezifizierten Übertragungsraten:
+
+  - 1\. 10 Mbit/s für den Download und 1 Mbit/s für den Upload,
+  - 2\. 80 Mbit/s für den Download und 8 Mbit/s für den Upload;
+
 - e.
 
   die folgenden Dienste für Hörbehinderte:
@@ -379,44 +403,28 @@ Die Grundversorgung umfasst die folgenden Dienste:
   - 1\. Bereitstellen eines Transkriptionsdienstes für Hörbehinderte, der auch Notrufe abdeckt, sowie eines SMS-Vermittlungsdienstes, die beide rund um die Uhr verfügbar sind,
   - 2\. Bereitstellen eines Vermittlungsdienstes über Videotelefonie, der von Montag bis Freitag von 8 bis 21 Uhr und Samstag, Sonntag sowie an vom Bundesrecht anerkannten Feiertagen von 10 bis 17 Uhr verfügbar ist;
 
-- f.[^15-3] den Verzeichnis- und Vermittlungsdienst für Sehbehinderte und Personen mit eingeschränkter Mobilität: Zugang zu den Verzeichnisdaten der Kundinnen und Kunden aller Anbieterinnen des öffentlichen Telefondienstes in der Schweiz über eine Sprachauskunft in den drei Amtssprachen und durch das Bereitstellen eines Vermittlungsdienstes rund um die Uhr; sofern die Grundversorgungskonzessionärin einen Kommunikationsherstellungsdienst anbietet, ermöglicht der Vermittlungsdienst auch die Verbindung zu Kundinnen und Kunden, die nach Artikel 11 Absatz 4 nicht in einem Verzeichnis eingetragen, aber damit einverstanden sind, im Rahmen eines Kommunikationsherstellungsdienstes erreicht zu werden.[^15-4]
+- f.[^15-5] den Verzeichnis- und Vermittlungsdienst für Sehbehinderte und Personen mit eingeschränkter Mobilität: Zugang zu den Verzeichnisdaten der Kundinnen und Kunden aller Anbieterinnen des öffentlichen Telefondienstes in der Schweiz über eine Sprachauskunft in den drei Amtssprachen und durch das Bereitstellen eines Vermittlungsdienstes rund um die Uhr; sofern die Grundversorgungskonzessionärin einen Kommunikationsherstellungsdienst anbietet, ermöglicht der Vermittlungsdienst auch die Verbindung zu Kundinnen und Kunden, die nach Artikel 11 Absatz 4 nicht in einem Verzeichnis eingetragen, aber damit einverstanden sind, im Rahmen eines Kommunikationsherstellungsdienstes erreicht zu werden.[^15-6]
 
 <sup>2</sup> Die Grundversorgungskonzessionärin ist verpflichtet, diese Dienste während der ganzen Dauer der Konzession zu erbringen.
 
 <sup>3</sup> Das BAKOM bezeichnet die einzuhaltenden Spezifikationen für die Grundversorgungsdienste. Diese Spezifikationen richten sich nach international harmonisierten Normen.
 
 [^15-1]: Ausdruck gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
-[^15-2]: Fassung gemäss Ziff. I der V vom 30. Okt. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 3487](https://fedlex.data.admin.ch/eli/oc/2019/636)).
-[^15-3]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
-[^15-4]: Fassung gemäss Ziff. I der V vom 2. Dez. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 13](https://fedlex.data.admin.ch/eli/oc/2017/4)).
+[^15-2]: Aufgehoben durch Ziff. I der V vom 16. Dez. 2022, mit Wirkung seit 1. Jan. 2024 ([AS 2022 849](https://fedlex.data.admin.ch/eli/oc/2022/849)).
+[^15-3]: Fassung gemäss Ziff. I der V vom 16. Dez. 2022, in Kraft seit 1. Jan. 2024 ([AS 2022 849](https://fedlex.data.admin.ch/eli/oc/2022/849)).
+[^15-4]: Fassung gemäss Ziff. I der V vom 16. Dez. 2022, in Kraft seit 1. Jan. 2024 ([AS 2022 849](https://fedlex.data.admin.ch/eli/oc/2022/849)).
+[^15-5]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^15-6]: Fassung gemäss Ziff. I der V vom 2. Dez. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 13](https://fedlex.data.admin.ch/eli/oc/2017/4)).
 
 #### Art. 16
 
 **Anschluss**[^16-1]
 
-<sup>1</sup> Die in Artikel 15 Absatz 1 genannten Dienste sind mittels eines Anschlusses bis zum Netzabschlusspunkt im Innern der Wohn- und der Geschäftsräume der Kundin oder des Kunden bereitzustellen.
+<sup>1</sup> Die Dienste nach Artikel 15 Absatz 1 sind mittels eines Anschlusses bis zum Netzabschlusspunkt im Innern der Wohn- oder Geschäftsräume der Kundin oder des Kunden bereitzustellen. Die Grundversorgungskonzessionärin bestimmt, welche technologische Lösung sie einsetzt.
 
-<sup>2</sup>
+<sup>2</sup> Das BAKOM bestimmt die Spezifikationen für den Netzabschlusspunkt aufgrund international harmonisierter Normen.
 
-Erlaubt der Anschluss die Bereitstellung des Dienstes nach Artikel 15 Absatz 1 Buchstabe d aus technischen oder ökonomischen Gründen nicht, so kann die Grundversorgungskonzessionärin in Ausnahmefällen:
-
-- a. den Leistungsumfang reduzieren; oder
-- b. auf die Bereitstellung des Dienstes verzichten, wenn ein Alternativangebot zu vergleichbaren Bedingungen auf dem Markt verfügbar ist.
-
-<sup>3</sup>
-
-Die Grundversorgungskonzessionärin ist verpflichtet, dem BAKOM über die Ausnahmefälle nach Absatz 2 und insbesondere über die nachstehenden Angaben jährlich Bericht zu erstatten:
-
-- a. jährliche Anzahl der Leistungsreduktionen und Angebotsverzichte;
-- b Grund für die Leistungsreduktion oder den Angebotsverzicht;
-- c. von der Leistungsreduktion oder vom Angebotsverzicht betroffener Ort;
-- d. Umfang der Leistungsreduktion.
-
-<sup>4</sup> Das BAKOM kann die Angaben nach Absatz 3 in anonymisierter Form publizieren.
-
-<sup>5</sup> Es bezeichnet die einzuhaltenden Spezifikationen für den Netzabschlusspunkt. Diese richten sich nach international harmonisierten Normen.
-
-[^16-1]: Fassung gemäss Ziff. I der V vom 2. Dez. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 13](https://fedlex.data.admin.ch/eli/oc/2017/4)).
+[^16-1]: Fassung gemäss Ziff. I der V vom 16. Dez. 2022, in Kraft seit 1. Jan. 2024 ([AS 2022 849](https://fedlex.data.admin.ch/eli/oc/2022/849)).
 
 #### Art. 17
 
@@ -434,31 +442,64 @@ Die Grundversorgungskonzessionärin ist verpflichtet, dem BAKOM über die Ausnah
 
 #### Art. 18
 
-**Anschlüsse ausserhalb des Siedlungsgebiets**[^18-1]
+**Mindestvertragsdauer und Kostenbeteiligung**[^18-1]
 
-<sup>1</sup> Verlangt eine Kundin oder ein Kunde, dass an einem fernmeldetechnisch erschlossenen Ort ausserhalb des Siedlungsgebiets eine andere Technik als die von der Grundversorgungskonzessionärin angebotene verwendet wird, so hat sie oder er denjenigen Teil der Kosten selbst zu tragen, der die Kosten für das Erstellen eines Anschlusses nach Artikel 16 übersteigt.
+<sup>1</sup> Die Grundversorgungskonzessionärin kann die Erstellung oder Umrüstung eines Anschlusses zur Erbringung der Dienste nach Artikel 15 Absatz 1 verweigern, wenn die Kundin oder der Kunde eine von ihr festgelegte Mindestvertragsdauer nicht akzeptiert. Diese endet spätestens mit dem Ablauf der Grundversorgungskonzession.
 
-<sup>2</sup> Verursacht das Erstellen eines Anschlusses nach Artikel 16 an fernmeldetechnisch nicht erschlossenen Orten ausserhalb des Siedlungsgebiets Kosten von mehr als 20 000 Franken, so kann die Kundin oder der Kunde verpflichtet werden, den Teil der Kosten, der 20 000 Franken übersteigt, zu übernehmen.
+<sup>2</sup> Sie kann die Erstellung oder Umrüstung auch verweigern, wenn dabei Kosten von mehr als 12 700 Franken anfallen und die Kundin oder der Kunde den Teil der Kosten nicht übernimmt, der diesen Betrag übersteigt.
 
-<sup>3</sup> Verursacht das Erstellen eines Anschlusses ausserhalb des Siedlungsgebiets Kosten von mehr als 20 000 Franken, so kann die Grundversorgungskonzessionärin eine Mindestvertragsdauer vorschreiben. Diese darf die Dauer der Grundversorgungskonzession nicht übersteigen.
+<sup>3</sup> Leistet die Kundin oder der Kunde eine Kostenbeteiligung, so darf die Grundversorgungskonzessionärin keine Mindestvertragsdauer vorsehen.
 
-<sup>4</sup> Bei einer finanziellen Beteiligung der Kundin oder des Kunden darf der Leistungsumfang nicht nach Artikel 16 Absatz 2 Buchstabe a reduziert werden.
+[^18-1]: Fassung gemäss Ziff. I der V vom 16. Dez. 2022, in Kraft seit 1. Jan. 2024 ([AS 2022 849](https://fedlex.data.admin.ch/eli/oc/2022/849)).
 
-[^18-1]: Fassung gemäss Ziff. I der V vom 2. Dez. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 13](https://fedlex.data.admin.ch/eli/oc/2017/4)).
+#### Art. 19
 
-#### Art. 19 und 20
+**Reduktion des Leistungsumfangs**[^19-1]
 
-[^1920-1]
+<sup>1</sup> Ermöglicht der Anschluss die Erbringung des Zugangsdienstes zum Internet nach Artikel 15 Absatz 1 Buchstabe d aus technischen oder ökonomischen Gründen nicht, so kann die Grundversorgungskonzessionärin in Ausnahmefällen den Leistungsumfang dieses Dienstes reduzieren.
 
-[^1920-1]: Aufgehoben durch Ziff. I der V vom 2. Dez. 2016, mit Wirkung seit 1. Jan. 2018 ([AS 2017 13](https://fedlex.data.admin.ch/eli/oc/2017/4)).
+<sup>2</sup> Bei einer finanziellen Beteiligung der Kundin oder des Kunden nach Artikel 18 Absatz 2 darf der Leistungsumfang nicht reduziert werden.
 
-#### Art. 21
+[^19-1]: Fassung gemäss Ziff. I der V vom 16. Dez. 2022, in Kraft seit 1. Jan. 2024 ([AS 2022 849](https://fedlex.data.admin.ch/eli/oc/2022/849)).
 
-**Qualität der Grundversorgung**
+#### Art. 19a
+
+**Berichterstattung über Angebotsverzichte und Reduktionen des Leistungsumfangs**[^19a-1]
 
 <sup>1</sup>
 
-Die Grundversorgungskonzessionärin misst die Qualität der Grundversorgungsangebote nach den folgenden Kriterien und erstattet dem BAKOM jährlich Bericht:
+Die Grundversorgungskonzessionärin ist verpflichtet, dem BAKOM über die Angebotsverzichte nach Artikel 14*b* und die Ausnahmefälle nach Artikel 19 jährlich Bericht zu erstatten, insbesondere mit den nachstehenden Angaben:
+
+- a. Anzahl der Angebotsverzichte und Leistungsreduktionen;
+- b. Grund für den Angebotsverzicht oder die Leistungsreduktion;
+- c. vom Angebotsverzicht oder von der Leistungsreduktion betroffener Ort;
+- d. Umfang der Leistungsreduktion.
+
+<sup>2</sup> Das BAKOM kann die Angaben nach Absatz 1 in anonymisierter Form publizieren.
+
+[^19a-1]: Eingefügt durch Ziff. I der V vom 16. Dez. 2022, in Kraft seit 1. Jan. 2024 ([AS 2022 849](https://fedlex.data.admin.ch/eli/oc/2022/849)).
+
+#### Art. 20
+
+**Anspruchsberechtigung und Bereitstellungsbedingungen**[^20-1]
+
+<sup>1</sup> Die Grundversorgungskonzessionärin entscheidet innerhalb von 45 Tagen nach Eingang des Gesuchs, ob sie einen Anschluss nach Artikel 16 bereitstellen wird. Will sie auf einen Vertragsabschluss nach Artikel 14*a* verzichten, so prüft sie, ob ein von einer anderen Anbieterin betriebener Anschluss vorhanden ist, und vergewissert sich in diesem Fall, dass diese Anbieterin ein vergleichbares Angebot im Sinne von Artikel 14*b* bereitstellen kann. Die angefragte Anbieterin muss die Anfrage der Grundversorgungskonzessionärin innerhalb von 15 Tagen beantworten.
+
+<sup>2</sup> Verursacht die Bereitstellung des Anschlusses nach Artikel 16 Kosten, die über die in Artikel 18 Absatz 2 genannten Kosten hinausgehen, so muss die Grundversorgungskonzessionärin der interessierten Person innert 90 Tagen nach Erhalt der benötigen Informationen kostenlos eine Offerte zustellen; die verwendete Technologie muss angegeben werden.
+
+<sup>3</sup> Die Grundversorgungskonzessionärin muss den Dienst innerhalb von zwölf Monaten nach Unterzeichnung des Vertrages bereitstellen. Sind keine Tiefbauarbeiten erforderlich, beträgt die Frist sechs Monate.
+
+<sup>4</sup> Bei Uneinigkeit über die Höhe der Mehrkosten kann das BAKOM auf Kosten der interessierten Person eine unabhängige Fachperson mit der Überprüfung beauftragen. Im Falle eines offensichtlichen Missbrauchs durch die Grundversorgungskonzessionärin trägt diese die Kosten des Gutachtens.
+
+[^20-1]: Fassung gemäss Ziff. I der V vom 16. Dez. 2022, in Kraft seit 1. Jan. 2024 ([AS 2022 849](https://fedlex.data.admin.ch/eli/oc/2022/849)).
+
+#### Art. 21
+
+**Qualität der Grundversorgung**[^21-1]
+
+<sup>1</sup>
+
+Die Grundversorgungskonzessionärin misst die Qualität der Grundversorgungsangebote und erstattet dem BAKOM jährlich Bericht. Es gelten die folgenden Qualitätskriterien:
 
 - a.
 
@@ -475,27 +516,27 @@ Die Grundversorgungskonzessionärin misst die Qualität der Grundversorgungsange
   - 1\. Verfügbarkeit des Dienstes,
   - 2\. Verbindungsaufbauzeit,
   - 3\. Sprachübertragungsqualität,
-  - 4\. Häufigkeit des erfolglosen Verbindungsaufbaus infolge von Netzüberlastung oder Netzfehlern,
-  - 5\. Abrechnungsgenauigkeit;
+  - 4\. Häufigkeit des erfolglosen Verbindungsaufbaus infolge von Netzüberlastung oder Netzfehlern;
 
 - c.
 
   betreffend den Zugangsdienst zum Internet:
 
   - 1\. Verfügbarkeit des Dienstes,
-  - 2\. Datenübertragungsqualität;
+  - 2\. Datenübertragungsrate,
+  - 3\. Datenübertragungszeit,
+  - 4\. Datenübertragungsqualität;
 
-- d. Reaktionszeiten der Dienste für Menschen mit einer Behinderung.[^21-1]
+- d. die Reaktionszeit der Dienste für Menschen mit einer Behinderung;
+- e. die Abrechnungsgenauigkeit der Rechnung.
 
 <sup>2</sup> Das BAKOM regelt die technischen Einzelheiten und setzt die Zielwerte der Qualitätskriterien fest. Es orientiert sich dabei an den Fortschritten im Bereich der Qualität und berücksichtigt die technologische Entwicklung.
 
-<sup>3</sup> Die Grundversorgungskonzessionärin muss dem BAKOM den Zutritt zu den Anlagen gewähren, damit dieses kontrollieren kann, ob die Zielwerte der Qualitätskriterien erreicht werden.[^21-2]
+<sup>3</sup> Die Grundversorgungskonzessionärin muss dem BAKOM Zugang zu den Messanlagen und den Rohdaten der Messergebnisse gewähren, damit dieses kontrollieren kann, ob die Zielwerte der Qualitätskriterien erreicht werden.
 
-<sup>4</sup> Das BAKOM kann eine unabhängige Fachperson damit beauftragen zu kontrollieren, ob die Zielwerte der Qualitätskriterien erreicht werden. Die Ergebnisse dieser Untersuchung können veröffentlicht werden.[^21-3]
+<sup>4</sup> Das BAKOM kann eine unabhängige Fachperson damit beauftragen zu kontrollieren, ob die Zielwerte der Qualitätskriterien erreicht werden. Die Ergebnisse dieser Untersuchung können veröffentlicht werden.
 
-[^21-1]: Fassung gemäss Ziff. I der V vom 2. Dez. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 13](https://fedlex.data.admin.ch/eli/oc/2017/4)).
-[^21-2]: Fassung gemäss Ziff. I der V vom 5. Nov. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
-[^21-3]: Fassung gemäss Ziff. I der V vom 5. Nov. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
+[^21-1]: Fassung gemäss Ziff. I der V vom 16. Dez. 2022, in Kraft seit 1. Jan. 2024 ([AS 2022 849](https://fedlex.data.admin.ch/eli/oc/2022/849)).
 
 #### Art. 22
 
@@ -506,18 +547,35 @@ Die Grundversorgungskonzessionärin misst die Qualität der Grundversorgungsange
 Es gelten folgende Preisobergrenzen (ohne Mehrwertsteuer):
 
 - a. öffentlicher Telefondienst mit einer Nummer (Art. 15 Abs. 1 Bst. a) mit ein oder zwei Einträgen im Verzeichnis (Art. 15 Abs. 1 Bst. c), einschliesslich Anschluss (Art. 16): 23.45 Franken pro Monat;
-- b. Zugangsdienst zum Internet (Art. 15 Abs. 1 Bst. d), einschliesslich Anschluss (Art. 16): 45 Franken pro Monat;
-- c. öffentlicher Telefondienst mit einer Nummer (Art. 15 Abs. 1 Bst. a) mit ein oder zwei Einträgen im Verzeichnis (Art. 15 Abs. 1 Bst. c) und Zugangsdienst zum Internet (Art. 15 Abs. 1 Bst. d), einschliesslich Anschluss (Art. 16): 55 Franken pro Monat;
-- d. öffentlicher Telefondienst mit drei Nummern (Art. 15 Abs. 1 Bst. b): zusätzlich zum Betrag nach Buchstabe a oder c: 16.55 Franken pro Monat;
-- e. Bereitstellung der Angebote nach den Buchstaben a–d: einmalig 40 Franken bei Abschluss des Vertrags sowie bei einem vom Kunden oder von der Kundin verlangten Wechsel zwischen diesen Angeboten;
-- f. nationale Verbindungen im Rahmen des öffentlichen Telefondienstes (Art. 15 Abs. 1 Bst. a und b) zu Festnetzanschlüssen, verrechnet nach Anzahl Sekunden und aufgerundet auf die nächsten 10 Rappen: 7,5 Rappen pro Minute;
-- g. Inanspruchnahme des Transkriptionsdienstes (Art. 15 Abs. 1 Bst. e Ziff. 1), verrechnet nach Anzahl Sekunden und aufgerundet auf die nächsten 10 Rappen: 3,4 Rappen pro Minute.
+- b.
 
-<sup>2</sup> Die Preisobergrenzen gelten auch für Leistungen, die über die Anschlüsse nach Artikel 18 erbracht werden.
+  Zugangsdienst zum Internet:
 
-<sup>3</sup> Die Grundversorgungskonzessionärin meldet dem BAKOM alle Änderungen ihrer Tarife mindestens 30 Tage vor deren Einführung.
+  - 1\. mit einer spezifizierten Übertragungsrate von 10/1 Mbit/s (Art. 15 Abs. 1 Bst. d Ziff. 1), einschliesslich Anschluss (Art. 16): 45 Franken pro Monat,
+  - 2\. mit einer spezifizierten Übertragungsrate von 80/8 Mbit/s (Art. 15 Abs. 1 Bst. d Ziff. 2), einschliesslich Anschluss (Art. 16): 60 Franken pro Monat;
 
-[^22-1]: Fassung gemäss Ziff. I der V vom 2. Dez. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 13](https://fedlex.data.admin.ch/eli/oc/2017/4)).
+- c.
+
+  öffentlicher Telefondienst mit einer Nummer (Art. 15 Abs. 1 Bst. a) mit ein oder zwei Einträgen im Verzeichnis (Art. 15 Abs. 1 Bst. c) und Zugangsdienst zum Internet:
+
+  - 1\. mit einer spezifizierten Übertragungsrate von 10/1 Mbit/s (Art. 15 Abs. 1 Bst. d Ziff. 1), einschliesslich Anschluss (Art. 16): 50 Franken pro Monat,
+  - 2\. mit einer spezifizierten Übertragungsrate von 80/8 Mbit/s (Art. 15 Abs. 1 Bst. d Ziff. 2), einschliesslich Anschluss (Art. 16): 65 Franken pro Monat;
+
+- d. Bereitstellung der Angebote nach den Buchstaben a–c: einmalig 40 Franken bei Abschluss des Vertrags; ein Wechsel zwischen diesen Angeboten muss kostenlos sein;
+- e. nationale Verbindungen im Rahmen des öffentlichen Telefondienstes (Art. 15 Abs. 1 Bst. a) zu Festnetzanschlüssen, verrechnet nach Anzahl Sekunden und aufgerundet auf die nächsten 10 Rappen: 7.5 Rappen pro Minute;
+- f. Inanspruchnahme des Transkriptionsdienstes (Art. 15 Abs. 1 Bst. e Ziff. 1), verrechnet nach Anzahl Sekunden und aufgerundet auf die nächsten 10 Rappen: 3.4 Rappen pro Minute.
+
+<sup>2</sup> Die Grundversorgungskonzessionärin meldet dem BAKOM alle Änderungen ihrer Tarife mindestens 30 Tage vor deren Einführung.
+
+[^22-1]: Fassung gemäss Ziff. I der V vom 16. Dez. 2022, in Kraft seit 1. Jan. 2024 ([AS 2022 849](https://fedlex.data.admin.ch/eli/oc/2022/849)).
+
+#### Art. 22a
+
+**Versand der Papierrechnung**[^22a-1]
+
+Der periodische Versand der Papierrechnung muss für diejenigen Kundinnen und Kunden kostenlos sein, die keinen Zugangsdienst zum Internet (Art. 15 Abs. 1 Bst. d) beziehen.
+
+[^22a-1]: Eingefügt durch Ziff. I der V vom 16. Dez. 2022, in Kraft seit 1. Jan. 2024 ([AS 2022 849](https://fedlex.data.admin.ch/eli/oc/2022/849)).
 
 #### Art. 23
 
@@ -972,7 +1030,7 @@ Es kann der Beauftragten die Schlichtungsaufgabe übertragen, wenn die Beauftrag
 
 <sup>5</sup> Das BAKOM genehmigt die Ernennung der für die Schlichtungsstelle verantwortlichen natürlichen Person.
 
-[^42-1]: [SR 172.056.11](https://fedlex.data.admin.ch/eli/cc/2020/127)
+[^42-1]: [[AS 1996 518](https://fedlex.data.admin.ch/eli/oc/1996/518_518_518); [1997 2779](https://fedlex.data.admin.ch/eli/oc/1997/2779_2779_2779)Anhang Ziff. II 5; [2002 886](https://fedlex.data.admin.ch/eli/oc/2002/157), [1759](https://fedlex.data.admin.ch/eli/oc/2002/264); [2006 1667](https://fedlex.data.admin.ch/eli/oc/2006/259), [5613](https://fedlex.data.admin.ch/eli/oc/2006/829)Art. 30 Abs. 2 Ziff. 1; [2009 6149](https://fedlex.data.admin.ch/eli/oc/2009/752)Ziff. I und II; **2010** 3175 Anhang 3 Ziff. 2; **2015** 775; **2017** 5161 Anhang 2 Ziff. II 3. [AS 2020 691](https://fedlex.data.admin.ch/eli/oc/2020/127)Art. 31 Abs. 1 Ziff. 1]. Siehe heute: die V vom 12. Febr. 2020 ([SR 172.056.11](https://fedlex.data.admin.ch/eli/cc/2020/127)).
 
 #### Art. 43
 
@@ -1844,9 +1902,11 @@ Die Anbieterinnen von Internetzugängen betreiben eine Stelle, die Meldungen üb
 
 #### Art. 96c
 
-**Vollzug**
+**Vollzug**[^96c-1]
 
-Das BAKOM vollzieht die Bestimmungen dieses Abschnitts in Zusammenarbeit mit dem Nationalen Zentrum für Cybersicherheit.
+Das BAKOM vollzieht die Bestimmungen dieses Abschnitts in Zusammenarbeit mit dem Bundesamt für Cybersicherheit.
+
+[^96c-1]: Fassung gemäss Ziff. II 12 der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
 
 ### 5. Abschnitt: Sicherheit von Netzen und Diensten der Mobilfunkkonzessionärinnen
 
@@ -2025,11 +2085,9 @@ Die Verordnung des UVEK vom 15. Dezember 1997[^106a-2] über Fernmeldeanschlüss
 
 #### Art. 108a
 
-**Übergangsbestimmung zur Änderung vom 2. Dezember 2016**[^108a-1]
+[^108a-1]
 
-Die Grundversorgungskonzessionärin muss bis 31. Dezember 2021 auf Ersuchen der Kundinnen und Kunden am Netzabschlusspunkt analoge und ISDN-Schnittstellen (ISDN: Integrated Services Digital Network) bereitstellen. Sie darf dafür keine Kosten in Rechnung stellen.
-
-[^108a-1]: Eingefügt durch Ziff. I der V vom 2. Dez. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 13](https://fedlex.data.admin.ch/eli/oc/2017/4)).
+[^108a-1]: Eingefügt durch Ziff. I der V vom 2. Dez. 2016 ([AS 2017 13](https://fedlex.data.admin.ch/eli/oc/2017/4)). Aufgehoben durch Ziff. I der V vom 16. Dez. 2022, mit Wirkung seit 1. Jan. 2024 ([AS 2022 849](https://fedlex.data.admin.ch/eli/oc/2022/849)).
 
 #### Art. 108b
 

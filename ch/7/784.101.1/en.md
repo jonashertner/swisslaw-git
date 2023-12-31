@@ -4,11 +4,11 @@ title: Ordinance of 9 March 2007 on Telecommunications Services (OTS)
 short: OTS
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/166"
 language: en
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2007-03-09
 in_force: 2007-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/166/20230901/en/xml/fedlex-data-admin-ch-eli-cc-2007-166-20230901-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/166/20230901/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/166/20240101/en/xml/fedlex-data-admin-ch-eli-cc-2007-166-20240101-en-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/166/20240101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (OTS)
 
-of 9 March 2007 (Status as of 1 September 2023)
+of 9 March 2007 (Status as of 1 January 2024)
 
 The Swiss Federal Council,
 
@@ -39,7 +39,7 @@ In this Ordinance:
 - a. *user* means any person who uses the services of a provider of telecommunications services;
 - b. *customer* means any person who has concluded a contract with a telecommunications service provider pertaining to the use of those services;
 - c.[^1-1] ...
-- d.[^1-2] *access price* price for access to the services and facilities of dominant providers in accordance with Article 11 paragraph 1 TCA.
+- d.[^1-2] *access price* means the price for access to the services and facilities of dominant providers in accordance with Article 11 paragraph 1 TCA.
 
 [^1-1]: Repealed by No I of the O of 18 Nov. 2020, with effect from 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 [^1-2]: Inserted by No I of the O of 14 March 2014, in force since 1 July 2014 ([AS 2014 729](https://fedlex.data.admin.ch/eli/oc/2014/158)).
@@ -258,7 +258,7 @@ Telecommunications service providers must:
 For each service offered, they must as a minimum:
 
 - a.[^10e-2] measure and publish the data transmission rate effectively achieved, the delay and in the case of mobile communications connections, the signal strength;
-- b.[^10e-3] ...
+- b.[^10e-3] measure and publish the contractually agreed data transmission rate, variations in delay and the loss of data packets during transmission.
 
 <sup>3</sup> The information on quality must allow comparisons to be made between the offers of the various providers. They must also be published in the form of geographical maps.
 
@@ -270,7 +270,7 @@ For each service offered, they must as a minimum:
 
 [^10e-1]: Inserted by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 [^10e-2]: In force since 1 Sept. 2021, with publication required from 1 Jan. 2022 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
-[^10e-3]: Comes into force on 1 Jan. 2024 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^10e-3]: In force since 1 Jan. 2024, with publication required from 1 April 2024 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
 #### Art. 10f
 
@@ -362,6 +362,24 @@ The net costs of the universal service are equivalent to the expenses incurred b
 
 <sup>3</sup> The data used for the calculation must be supported, i.e. it must be transparent and must derive from dependable sources. For this purpose, the professional recommendations on the presentation of accounts (FER), the internationally recognised accounting standards (IAS) or comparable internationally recognised accounting guidelines must be applied.
 
+### Section 1*a* Scope of Application
+
+[^chap3-sec1a-1]
+
+[^chap3-sec1a-1]: Inserted by No I of the O of 16 Dec. 2022, in force since 1 Jan. 2024 ([AS 2022 849](https://fedlex.data.admin.ch/eli/oc/2022/849)).
+
+#### Art. 14a
+
+**Principles**
+
+Sections 2 and 3 apply to contracts between the universal service licensee and its customers that are expressly concluded in order to fulfil universal service obligations.
+
+#### Art. 14b
+
+**Subsidiarity**
+
+The universal service licensee may choose not conclude a contract under Article 14*a* if the customer concerned is offered a comparable service in the market. If it nevertheless provides the customer with a service, it may not claim compensation for the costs under Article 19 paragraph 1 TCA.
+
 ### Section 2 Obligations of the Universal Service Licensee
 
 #### Art. 15
@@ -373,54 +391,44 @@ The net costs of the universal service are equivalent to the expenses incurred b
 The universal service comprises the following services:
 
 - a. a public telephony service that permits the conduct of national and international telephone conversations in real time with one number[^15-1];
-- b. a public telephony service that permits the conduct of national and international telephone conversations in real time with three numbers;
-- c. an entry in the directory for the public telephony service for persons using a service mentioned in letters a or b; households are entitled to two entries;
-- d.[^15-2] an internet access service with a guaranteed transmission rate of 10/1 Mbit/s;
+- b.[^15-2] …
+- c.[^15-3] an entry in the directory for the public telephony service for persons using the service mentioned in letter a; households are entitled to two entries;
+- d.[^15-4]
+
+  an internet access service with one of the following specified transmission rates:
+
+  - 1\. 10 Mbit/s for downloading and 1 Mbit/s for uploading,
+  - 2\. 80 Mbit/s for downloading and 8 Mbit/s for uploading;
+
 - e.
 
-  the following services for the hearing impaired:
+  the following services for the hearing-impaired:
 
-  - 1\. provision of a transcription service for the hearing impaired including emergency calls and an SMS relay service, both of which are available round the clock,
+  - 1\. provision of a transcription service for the hearing-impaired including emergency calls and an SMS relay service, both of which are available round the clock,
   - 2\. provision of an operator service by video telephony that is available from Monday to Friday from 8am to 9pm, and on Saturday, Sunday and on public holidays recognized by federal law from 10am to 5pm;
 
-- f.[^15-3] directory and operator service for the visually impaired and people with limited mobility: access to directory data of the customers of all providers of services forming part of the public telephony service in Switzerland via a speech-based information service in the three official languages and provision of an operator service around the clock; provided the universal service licensee offers a communication establishment service this operator service also enables a connection to customers who are not entered in a directory in accordance with Article 11 paragraph 4 but who consent to be contacted as part of a communication establishment service.[^15-4]
+- f.[^15-5] directory and operator service for the visually impaired and people with limited mobility: access to directory data of the customers of all providers of services forming part of the public telephony service in Switzerland via a speech-based information service in the three official languages and provision of an operator service around the clock; provided the universal service licensee offers a communication establishment service this operator service also enables a connection to customers who are not entered in a directory in accordance with Article 11 paragraph 4 but who consent to be contacted as part of a communication establishment service.[^15-6]
 
 <sup>2</sup> The universal service licensee is obliged to provide these services for the full term of the licence.
 
 <sup>3</sup> OFCOM shall fix the specifications applicable to the services of the universal service. These specifications shall be based on harmonised international standards.
 
 [^15-1]: Term in accordance with No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)). This amendment has been made throughout the text.
-[^15-2]: Amended by No I of the O of 30 Oct. 2019, in force since 1 Jan. 2020 ([AS 2019 3487](https://fedlex.data.admin.ch/eli/oc/2019/636)).
-[^15-3]: Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
-[^15-4]: Amended by No I of the O of 2 Dec. 2016, in force since 1 Jan. 2018 ([AS 2017 13](https://fedlex.data.admin.ch/eli/oc/2017/4)).
+[^15-2]: Repealed by No I of the O of 16 Dec. 2022, with effect from 1 Jan. 2024 ([AS 2022 849](https://fedlex.data.admin.ch/eli/oc/2022/849)).
+[^15-3]: Amended by No I of the O of 16 Dec. 2022, in force since 1 Jan. 2024 ([AS 2022 849](https://fedlex.data.admin.ch/eli/oc/2022/849)).
+[^15-4]: Amended by No I of the O of 16 Dec. 2022, in force since 1 Jan. 2024 ([AS 2022 849](https://fedlex.data.admin.ch/eli/oc/2022/849)).
+[^15-5]: Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^15-6]: Amended by No I of the O of 2 Dec. 2016, in force since 1 Jan. 2018 ([AS 2017 13](https://fedlex.data.admin.ch/eli/oc/2017/4)).
 
 #### Art. 16
 
 **Connection**[^16-1]
 
-<sup>1</sup> The services mentioned in Article 15 paragraph 1 shall be provided by means of a connection up to the network termination point within the customer’s residence or business premises.
+<sup>1</sup> The services in accordance with Article 15 paragraph 1 shall be provided by means of a connection up to the network termination point within the customer’s residence or business premises. The universal service licensee shall decide on the technological solution that it uses.
 
-<sup>2</sup>
+<sup>2</sup> OFCOM shall decide on the specifications of the network termination point based on internationally harmonised standards.
 
-If the connection does not permit the provision of the service mentioned Article 15 paragraph 1 letter d for technical or economic reasons, the universal service licensee may in exceptional cases:
-
-- a. reduce the scope of the service; or
-- b. forego providing the service if an alternative offer is available on the market on comparable terms.
-
-<sup>3</sup>
-
-The universal service licensee must notify OFCOM each year of exceptional cases in terms of paragraph 2, providing the following details in particular:
-
-- a. annual number of instances in which the scope of the service was reduced or the service was not provided;
-- b the reasons why the scope of the service was reduced or the service was not provided;
-- c. the place where the scope of the service was reduced or the service was not provided;
-- d. the extent of the reduction in the scope of the service.
-
-<sup>4</sup> OFCOM may publish the details in paragraph 3 in anonymised form.
-
-- [tab] <sup>5</sup> It shall designate the specifications for the network termination point that must be complied with. These shall be based on internationally harmonised standards.
-
-[^16-1]: Amended by No I of the O of 2 Dec. 2016, in force since 1 Jan. 2018 ([AS 2017 13](https://fedlex.data.admin.ch/eli/oc/2017/4)).
+[^16-1]: Amended by No I of the O of 16 Dec. 2022, in force since 1 Jan. 2024 ([AS 2022 849](https://fedlex.data.admin.ch/eli/oc/2022/849)).
 
 #### Art. 17
 
@@ -438,31 +446,64 @@ The universal service licensee must notify OFCOM each year of exceptional cases 
 
 #### Art. 18
 
-**Connections outside the residential area**[^18-1]
+**Minimum contractual term and sharing costs**[^18-1]
 
-<sup>1</sup> If a customer requests that a different technology from that offered by the universal service licensee be used in a location served by the telecommunications network that is outside the residential area, then the customer must pay the portion of the costs that exceeds the cost of installing a connection in accordance with Article 16.
+<sup>1</sup> The universal service licensee may refuse to install or upgrade a connection to provide the services under Article 15 paragraph 1 if the customer does not accept its minimum contractual term. The term shall end at the latest on expiry of the universal service licence.
 
-<sup>2</sup> When the installation of a connection in accordance with Article 16 in locations not served by the telecommunications network outside the residential area costs more than 20,000 francs, the customer may be required to pay the portion of the costs that exceeds 20,000 francs.
+<sup>2</sup> The universal service licensee may also refuse to install or upgrade a connection if the cost of doing so exceeds 12,700 francs and the customer refuses to pay the costs in excess of this amount.
 
-<sup>3</sup> If the installation of a connection outside the residential area costs more than 20,000 francs, the universal service licensee may stipulate a minimum contractual term. This term may not exceed that of the universal service licence.
+<sup>3</sup> If the customer pays a share of the costs, the universal service licensee may not require a minimum contractual term.
 
-<sup>4</sup> Where the customer pays a share of the costs, the scope of the service may not be reduced in accordance with Article 16 paragraph 2 letter a.
+[^18-1]: Amended by No I of the O of 16 Dec. 2022, in force since 1 Jan. 2024 ([AS 2022 849](https://fedlex.data.admin.ch/eli/oc/2022/849)).
 
-[^18-1]: Amended by No I of the O of 2 Dec. 2016, in force since 1 Jan. 2018 ([AS 2017 13](https://fedlex.data.admin.ch/eli/oc/2017/4)).
+#### Art. 19
 
-#### Art. 19 and 20
+**Reduction in the extent of service**[^19-1]
 
-[^1920-1]
+<sup>1</sup> If the connection is unable to provide the internet access service under Article 15 paragraph 1 letter d for technical or financial reasons, the universal service licensee may by way of exception reduce the scope of this service.
 
-[^1920-1]: Repealed by No I of the O of 2 Dec. 2016, with effect from 1 Jan. 2018 ([AS 2017 13](https://fedlex.data.admin.ch/eli/oc/2017/4)).
+<sup>2</sup> If the customer pays a share of the costs in accordance with Article 18 paragraph 2, the extent of service may not be reduced.
 
-#### Art. 21
+[^19-1]: Amended by No I of the O of 16 Dec. 2022, in force since 1 Jan. 2024 ([AS 2022 849](https://fedlex.data.admin.ch/eli/oc/2022/849)).
 
-**Quality of the universal service**
+#### Art. 19a
+
+**Reporting refusals of offers and reductions in the extent of service**[^19a-1]
 
 <sup>1</sup>
 
-The universal service licensee shall assess the quality of the universal service offered according to the following criteria, and submit a report thereon each year to OFCOM:
+The universal service licensee shall submit a report to OFCOM every year on refusals of offers under Article 14*b* and exceptions under Article 19; the report shall contain the following information in particular:
+
+- a. the number of offers refused and of reductions in service;
+- b. the reason for the offer being refused or for the reduction in service;
+- c. the location affected by the offer being refused or by the reduction in service;
+- d. the extent of the reduction in service.
+
+<sup>2</sup> OFCOM may publish the information in paragraph 1 in anonymised form.
+
+[^19a-1]: Inserted by No I of the O of 16 Dec. 2022, in force since 1 Jan. 2024 ([AS 2022 849](https://fedlex.data.admin.ch/eli/oc/2022/849)).
+
+#### Art. 20
+
+**Eligibility and conditions of provision**[^20-1]
+
+<sup>1</sup> The universal service licensee shall decide within 45 days of receipt of the request whether it will provide a connection in accordance with Article 16. If it intends not to conclude a contract under Article 14*a*, it shall verify whether another connection operated by a different provider is available and shall ascertain in such a case whether this provider can provide a comparable offer in terms of Article 14*b*. The requested provider must respond to the universal service licensee’s request within 15 days.
+
+<sup>2</sup> If providing the connection in accordance with Article 16 gives rise to costs in excess of the amount specified in Article 18 paragraph 2, the universal service licensee must provide the person interested with an offer free of charge and within 90 days of receiving the required information; the technology used must be specified.
+
+<sup>3</sup> The universal service licensee must provide the service within twelve months of signature of the contract. If no civil engineering work is required, the period shall be six months.
+
+<sup>4</sup> In the event of any disagreement as to the amount of the additional costs, OFCOM may instruct an independent specialist to conduct a review at the expense of the person interested. In the event of any clearly improper conduct by the universal service licensee, it shall bear the costs of the review.
+
+[^20-1]: Amended by No I of the O of 16 Dec. 2022, in force since 1 Jan. 2024 ([AS 2022 849](https://fedlex.data.admin.ch/eli/oc/2022/849)).
+
+#### Art. 21
+
+**Quality of the universal service**[^21-1]
+
+<sup>1</sup>
+
+The universal service licensee shall assess the quality of the universal service offered and submit a report thereon each year to OFCOM. The following criteria apply:
 
 - a.
 
@@ -479,27 +520,27 @@ The universal service licensee shall assess the quality of the universal service
   - 1\. availability of the service,
   - 2\. connection set-up time,
   - 3\. voice transmission quality,
-  - 4\. unsuccessful call ratio for connection set-up as a result of network congestion or network fault,
-  - 5\. billing accuracy;
+  - 4\. unsuccessful call ratio for connection set-up as a result of network congestion or network fault;
 
 - c.
 
   concerning the internet access service:
 
   - 1\. availability of the service,
-  - 2\. data transmission quality;
+  - 2\. data transmission rate,
+  - 3\. data transmission time,
+  - 4\. data transmission quality;
 
-- d. response times for services for persons with disabilities.[^21-1]
+- d. response times for services for persons with disabilities;
+- e. billing accuracy.
 
 <sup>2</sup> OFCOM shall regulate the technical details and set the target performance values for the quality criteria. In this context it shall be guided by advances in quality and take technical developments into account.
 
-<sup>3</sup> The universal service licensee must guarantee OFCOM access to its installations so that the latter can check whether the target performance values for the quality criteria are being met.[^21-2]
+<sup>3</sup> The universal service licensee must guarantee OFCOM access to the measuring equipment and the raw data of the measurement results so that the latter can check whether the target performance values for the quality criteria are being met.
 
-<sup>4</sup> OFCOM may appoint an independent expert to determine whether the target performance values for the quality criteria are being met. The findings of such an investigation may be published.[^21-3]
+<sup>4</sup> OFCOM may appoint an independent expert to determine whether the target performance values for the quality criteria are being met. The findings of such an investigation may be published.
 
-[^21-1]: Amended by No I of the O of 2 Dec. 2016, in force since 1 Jan. 2018 ([AS 2017 13](https://fedlex.data.admin.ch/eli/oc/2017/4)).
-[^21-2]: Amended by No I of the O of 5 Nov. 2014, in force since 1 Jan. 2015 ([AS 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
-[^21-3]: Amended by No I of the O of 5 Nov. 2014, in force since 1 Jan. 2015 ([AS 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
+[^21-1]: Amended by No I of the O of 16 Dec. 2022, in force since 1 Jan. 2024 ([AS 2022 849](https://fedlex.data.admin.ch/eli/oc/2022/849)).
 
 #### Art. 22
 
@@ -510,18 +551,35 @@ The universal service licensee shall assess the quality of the universal service
 The following maximum prices apply (excluding value-added tax):
 
 - a. public telephony service with one number (Art. 15 para. 1 let. a) with either one or two entries in the directory (Art. 15 para. 1 let. c), including connection (Art. 16): 23.45 francs per month;
-- b. internet access service (Art. 15 para. 1 let. d), including connection (Art. 16): 45 francs per month;
-- c. public telephony service with one number (Art. 15 para. 1 let. a) with either one or two entries in the directory (Art. 15 para. 1 let. c) and internet access service (Art. 15 para. 1 let. d), including connection (Art. 16): 55 francs per month;
-- d. public telephony service with three numbers (Art. 15 para. 1 let. b): in addition to the amount under letter a or c: 16.55 francs per month;
-- e. offering services in accordance with letters a–d: a non-recurring fee of 40 francs on conclusion of the contract and on changing between the services offered at the customer’s request;
-- f. national connections as part of public telephony service (Art. 15 para. 1 let. a and b) to fixed-network connections charged according to the number of seconds and rounded up to the next 10 cents: 7.5 cents per minute;
-- g. use of the transcription service (Art. 15 para. 1 let. e no 1), charged according to the number of seconds and rounded up to the next 10 cents: 3.4 cents per minute.
+- b.
 
-<sup>2</sup> The maximum prices also apply to services that are provided via connections in accordance with Article 18.
+  internet access service:
 
-<sup>3</sup> The universal service licensee shall report to OFCOM all changes to its tariffs no less than 30 days before they are due to take effect.
+  - 1\. with a specified transmission rate of 10/1 Mbit/s (Art. 15 para. 1 let. d No 1), including connection (Art. 16): 45 francs per month,
+  - 2\. with a specified transmission rate of 80/8 Mbit/s (Art. 15 para. 1 let. d No 2), including connection (Art. 16): 60 francs per month;
 
-[^22-1]: Amended by No I of the O of 2 Dec. 2016, in force since 1 Jan. 2018 ([AS 2017 13](https://fedlex.data.admin.ch/eli/oc/2017/4)).
+- c.
+
+  public telephony service with one number (Art. 15 para. 1 let. a) with either one or two entries in the directory (Art. 15 para. 1 let. c) and an internet access service:
+
+  - 1\. with a specified transmission rate of 10/1 Mbit/s (Art. 15 para. 1 let. d No 1), including connection (Art. 16): 50 francs per month,
+  - 2\. with a specified transmission rate of 80/8 Mbit/s (Art. 15 para. 1 let. d No 2), including connection (Art. 16): 65 francs per month;
+
+- d. offering services in accordance with letters a–c: a non-recurring fee of 40 francs on conclusion of the contract; changing between the services offered must be free of charge;
+- e. national connections as part of public telephony service (Art. 15 para. 1 let. a) to fixed-network connections charged according to the number of seconds and rounded up to the next 10 cents: 7.5 cents per minute;
+- f. use of the transcription service (Art. 15 para. 1 let. e no 1), charged according to the number of seconds and rounded up to the next 10 cents: 3.4 cents per minute.
+
+<sup>2</sup> The universal service licensee shall report to OFCOM all changes to its tariffs no less than 30 days before they are due to take effect.
+
+[^22-1]: Amended by No I of the O of 16 Dec. 2022, in force since 1 Jan. 2024 ([AS 2022 849](https://fedlex.data.admin.ch/eli/oc/2022/849)).
+
+#### Art. 22a
+
+**Billing by post**[^22a-1]
+
+Regular billing by post must be offered free of charge to customers not provided with an internet access service (Art. 15 para. 1 let. d).
+
+[^22a-1]: Inserted by No I of the O of 16 Dec. 2022, in force since 1 Jan. 2024 ([AS 2022 849](https://fedlex.data.admin.ch/eli/oc/2022/849)).
 
 #### Art. 23
 
@@ -905,7 +963,7 @@ Provided the possibility of disputing their bill exists, customers may require t
 
 <sup>2</sup> No surcharges may be added to prices regulated in paragraph 1 and Article 39*a* for connections to numbers of type 0800, 00800, 084x, 0878, 090x and short numbers under Articles 29–32 and 54 TSRO.
 
-[^39b-1]: Inserted by No I of the O of 5 Nov. 2014 ([AS 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)). Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021
+[^39b-1]: Inserted by No I of the O of 5 Nov. 2014 ([AS 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)). Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 [^39b-2]: [SR 784.104](https://fedlex.data.admin.ch/eli/cc/1997/2879_2879_2879)
 [^39b-3]: [SR 942.211](https://fedlex.data.admin.ch/eli/cc/1978/2081_2081_2081)
 
@@ -978,7 +1036,7 @@ It may transfer the task of dispute resolution if the Agent:
 
 <sup>5</sup> OFCOM approves the appointment of the natural person responsible for the dispute resolution service.
 
-[^42-1]: [SR 172.056.11](https://fedlex.data.admin.ch/eli/cc/2020/127)
+[^42-1]: [[[AS 1996 518](https://www.fedlex.admin.ch/eli/oc/1996/518_518_518/de)](https://fedlex.data.admin.ch/eli/oc/1996/518_518_518); [[1997 2779](https://www.fedlex.admin.ch/eli/oc/1997/2779_2779_2779/de)](https://fedlex.data.admin.ch/eli/oc/1997/2779_2779_2779)annex No II 5; [[2002 886](https://www.fedlex.admin.ch/eli/oc/2002/157/de)](https://fedlex.data.admin.ch/eli/oc/2002/157), [[1759](https://www.fedlex.admin.ch/eli/oc/2002/264/de)](https://fedlex.data.admin.ch/eli/oc/2002/264); [[2006 1667](https://www.fedlex.admin.ch/eli/oc/2006/259/de)](https://fedlex.data.admin.ch/eli/oc/2006/259), [[5613](https://www.fedlex.admin.ch/eli/oc/2006/829/de)](https://fedlex.data.admin.ch/eli/oc/2006/829)art. 30 para. 2 No 1; [[2009 6149](https://www.fedlex.admin.ch/eli/oc/2009/752/de)](https://fedlex.data.admin.ch/eli/oc/2009/752)No I and II; **2010** 3175 annex 3 No 2; [2015 775](https://www.fedlex.admin.ch/eli/oc/2015/141/de); [2017 5161](https://www.fedlex.admin.ch/eli/oc/2017/568/de)annex 2 No II 3. [[AS 2020 691](https://www.fedlex.admin.ch/eli/oc/2020/127/de)](https://fedlex.data.admin.ch/eli/oc/2020/127)art. 31 para. 1 No 1]. See now: the O of 12 Febr. 2020 ([SR 1](https://www.fedlex.admin.ch/eli/cc/2020/127/de)[72.056.11](https://www.fedlex.admin.ch/eli/cc/2020/127/de)).
 
 #### Art. 43
 
@@ -1299,7 +1357,7 @@ The dominant provider of the public telephony service shall provide at least the
 - c. access to the value-added services 08xx and 09xx;
 - d. the physical connection between the telecommunication installations of different providers as required for the connection of services.
 
-<sup>3</sup> In addition to minute and call-based access prices, the dominant provider shall offer capacity-based access prices (capacity based charges) based on the maximum bandwidth used by the interconnection partner.[^61-1]
+<sup>3</sup> In addition to minute and call-based access prices, the dominant provider shall offer capacity-based access prices (capacity-based charges) based on the maximum bandwidth used by the interconnection partner.[^61-1]
 
 <sup>4</sup>
 
@@ -1698,11 +1756,12 @@ When technically feasible with justifiable outlay, telecommunications service pr
 
 #### Art. 89
 
-**Data protection legislation**
+**Data protection legislation**[^89-1]
 
-Provided this Ordinance does not contain any special regulations, the Federal Act of 19 June 1992[^89-1] on Data Protection applies.
+Provided this Ordinance does not contain any special regulations, the Federal Act of 25 September 2020[^89-2] on Data Protection applies.
 
-[^89-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^89-1]: Amended by Annex 2 No II 87 of the Data Protection Ordinance of 31 Aug. 2022, in force since 1 Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^89-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 #### Art. 89a
 
@@ -1736,7 +1795,7 @@ Internet access providers shall inform their customers about the options for pro
 
 <sup>1</sup>
 
-Telecommunications service providers may enlisted to support the bodies referred to in Article 47 paragraph 1 TCA in order to provide the following telecommunications services:
+Telecommunications service providers may be enlisted to support the bodies referred to in Article 47 paragraph 1 TCA in order to provide the following telecommunications services:
 
 - a. voice and data transmission services via fixed and mobile communications networks;
 - b. services to alert the population and facilitate the related incident communication.
@@ -1849,9 +1908,11 @@ The internet access providers shall operate a contact point to receive reports o
 
 #### Art. 96c
 
-**Enforcement**
+**Enforcement**[^96c-1]
 
 OFCOM shall enforce the provisions of this Section in cooperation with the National Cyber Security Centre.
+
+[^96c-1]: Amended by No II 12 of the O of 22 Nov. 2023, in force since 1 Jan. 2024 ([AS 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
 
 ### Section 5 Security of Mobile Telephony Licensees’ Networks and Services
 
@@ -2030,11 +2091,9 @@ The DETEC Ordinance of 15 December 1997[^106a-2] on Telecommunications Services 
 
 #### Art. 108a
 
-**Transitional provision to the Amendment of 2 December 2016**[^108a-1]
+[^108a-1]
 
-If requested by the customers, the universal service licensee must by 31 December 2021 provide analogue and ISDN interfaces (ISDN: Integrated Services Digital Network) at the network termination point. It may not impose any charge for doing so.
-
-[^108a-1]: Inserted by No I of the O of 2 Dec. 2016, in force since 1 Jan. 2018 ([AS 2017 13](https://fedlex.data.admin.ch/eli/oc/2017/4)).
+[^108a-1]: Inserted by No I of the O of 2 Dec. 2016 ([AS 2017 13](https://fedlex.data.admin.ch/eli/oc/2017/4)). Repealed by No I of the O of 16 Dec. 2022, with effect from 1 Jan. 2024 ([AS 2022 849](https://fedlex.data.admin.ch/eli/oc/2022/849)).
 
 #### Art. 108b
 

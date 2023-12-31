@@ -4,11 +4,11 @@ title: Ordinanza del 9 marzo 2007 sui servizi di telecomunicazione (OST)
 short: OST
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/166"
 language: it
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2007-03-09
 in_force: 2007-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/166/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2007-166-20230901-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/166/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/166/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2007-166-20240101-it-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/166/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/166/20230901/it"
 
 (OST)
 
-del 9 marzo 2007 (Stato 1° settembre 2023)
+del 9 marzo 2007 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -273,8 +273,8 @@ I fornitori di servizi di telecomunicazione devono:
 
 Per ciascuno dei servizi offerti devono almeno:
 
-- a. misurare e pubblicare la velocità effettiva di trasmissione dei dati, la latenza, e per i collegamenti di radiocomunicazione mobile la potenza del segnale;
-- b. misurare e pubblicare la velocità di trasmissione dei dati stipulata per contratto, le variazioni nella latenza e la perdita di pacchetti di dati durante la trasmissione.[^10e-2]
+- a.[^10e-2] misurare e pubblicare la velocità effettiva di trasmissione dei dati, la latenza, e per i collegamenti di radiocomunicazione mobile la potenza del segnale;
+- b.[^10e-3] misurare e pubblicare la velocità di trasmissione dei dati stipulata per contratto, le variazioni nella latenza e la perdita di pacchetti di dati durante la trasmissione.
 
 <sup>3</sup> Le informazioni sulla qualità devono consentire confronti tra le offerte dei vari fornitori. Devono essere pubblicate sotto forma di carte geografiche.
 
@@ -285,7 +285,8 @@ Per ciascuno dei servizi offerti devono almeno:
 <sup>6</sup> Le informazioni ai sensi del presente articolo devono essere pubblicate su un sito Internet liberamente accessibile. L’UFCOM può prevedere che le pubblicazioni debbano essere effettuate sullo stesso sito Internet.
 
 [^10e-1]: Introdotto dal n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
-[^10e-2]: Nuovo testo giusta dal n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)). Il tenore del cpv. 2 lett. a deve essere pubblicate soltanto il 1° gen. 2022 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^10e-2]: In vigore dal 1° set. 2021, le informazioni devono essere pubblicate soltanto dal 1° gen. 2022 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^10e-3]: In vigore dal 1° gen. 2024, le informazioni devono essere pubblicate soltanto dal 1° apr. 2024 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
 #### Art. 10f
 
@@ -377,6 +378,24 @@ Il costo netto del servizio universale corrisponde alle spese sostenute da un fo
 
 <sup>3</sup> I dati utilizzati per il calcolo devono avere un fondamento, ossia essere trasparenti e provenire da fonti sicure. A tale scopo, vanno applicate le Raccomandazioni per la prestazione dei conti (RPC), la Norma contabile internazionale (*International* *Accounting* *Standards*, IAS) o le prescrizioni analoghe riconosciute sul piano internazionale nel settore contabile.
 
+### Sezione 1*a*: Campo di applicazione
+
+[^chap3-sec1a-1]
+
+[^chap3-sec1a-1]: Introdotta dal n. I dell’O del 16 dic. 2022, in vigore dal 1° gen. 2024 ([RU 2022 849](https://fedlex.data.admin.ch/eli/oc/2022/849)).
+
+#### Art. 14a
+
+**Principio**
+
+Le sezioni 2 e 3 si applicano ai contratti tra il concessionario del servizio universale e i suoi clienti, conclusi espressamente per adempiere gli obblighi legati al servizio universale.
+
+#### Art. 14b
+
+**Sussidiarietà**
+
+Il concessionario del servizio universale può rinunciare alla stipula di un contratto secondo l’articolo 14*a* se per il cliente in questione è disponibile un’offerta comparabile sul mercato. Se nondimeno fornisce un servizio al cliente, non può conteggiare i costi ai fini di un’indennità ai sensi dell’articolo 19 capoverso 1 LTC.
+
 ### Sezione 2: Obblighi del concessionario del servizio universale
 
 #### Art. 15
@@ -388,9 +407,15 @@ Il costo netto del servizio universale corrisponde alle spese sostenute da un fo
 Il servizio universale comprende le seguenti prestazioni:
 
 - a. il servizio telefonico pubblico che permette di effettuare e ricevere, in tempo reale, chiamate telefoniche nazionali e internazionali utilizzando un solo numero[^15-1];
-- b. il servizio telefonico pubblico che permette di effettuare e ricevere, in tempo reale, chiamate telefoniche nazionali e internazionali utilizzando tre numeri telefonici;
-- c. un’iscrizione nell’elenco del servizio telefonico pubblico in caso di utilizzo di uno dei servizi di cui alla lettera a o b; le economie domestiche hanno diritto a due iscrizioni;
-- d.[^15-2] il servizio di accesso a Internet che garantisca una velocità di trasmissione di 10/1 Mbit/s;
+- b.[^15-2] ...
+- c.[^15-3] un’iscrizione nell’elenco del servizio telefonico pubblico in caso di utilizzo di uno dei servizi di cui alla lettera a; le economie domestiche hanno diritto a due iscrizioni;
+- d.[^15-4]
+
+  il servizio di accesso a Internet con una delle seguenti velocità di trasmissione specificate:
+
+  - 1\. 10 Mbit/s per il download e 1 Mbit/s per l’upload,
+  - 2\. 80 Mbit/s per il download e 8 Mbit/s per l’upload;
+
 - e.
 
   i seguenti servizi per audiolesi:
@@ -398,44 +423,28 @@ Il servizio universale comprende le seguenti prestazioni:
   - 1\. la messa a disposizione, 24 ore su 24, di un servizio di trascrizione, che tratta anche le chiamate d’emergenza, e di un servizio di intermediazione di messaggi brevi (SMS),
   - 2\. la messa a disposizione di un servizio di intermediazione tramite videotelefonia, attivo da lunedì a venerdì dalle 8 alle 21 e dalle 10 alle 17 il sabato, la domenica e nei giorni riconosciuti come festivi dal diritto federale;
 
-- f.[^15-3] il servizio di elenco e di commutazione per ipovedenti e persone con difficoltà motorie: accesso, sotto forma di servizio informazioni nelle tre lingue ufficiali, ai dati elenco dei clienti di tutti i fornitori del servizio telefonico pubblico in Svizzera e messa a disposizione di un servizio di commutazione, 24 ore su 24; se il concessionario del servizio universale offre un servizio di collegamento, il servizio di commutazione permette inoltre di stabilire la comunicazione con i clienti non iscritti nell’elenco ma disponibili a essere raggiunti nell’ambito di un servizio di collegamento secondo l’articolo 11 capoverso 4.[^15-4]
+- f.[^15-5] il servizio di elenco e di commutazione per ipovedenti e persone con difficoltà motorie: accesso, sotto forma di servizio informazioni nelle tre lingue ufficiali, ai dati elenco dei clienti di tutti i fornitori del servizio telefonico pubblico in Svizzera e messa a disposizione di un servizio di commutazione, 24 ore su 24; se il concessionario del servizio universale offre un servizio di collegamento, il servizio di commutazione permette inoltre di stabilire la comunicazione con i clienti non iscritti nell’elenco ma disponibili a essere raggiunti nell’ambito di un servizio di collegamento secondo l’articolo 11 capoverso 4.[^15-6]
 
 <sup>2</sup> Il concessionario del servizio universale è tenuto a fornire queste prestazioni durante tutta la durata della concessione.
 
 <sup>3</sup> L’UFCOM determina i dati tecnici applicabili alle prestazioni del servizio universale. Essi si fondano sulle norme internazionali armonizzate.
 
 [^15-1]: Nuova espr. giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)). Di detta mod. é tenuto conto in tutto il presente testo.
-[^15-2]: Nuovo testo giusta il n. I dell’O del 30 ott. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3487](https://fedlex.data.admin.ch/eli/oc/2019/636)).
-[^15-3]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
-[^15-4]: Nuovo testo giusta il n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2018 ([RU 2017 13](https://fedlex.data.admin.ch/eli/oc/2017/4)).
+[^15-2]: Abrogato dal n. I dell’O del 16 dic. 2022, con effetto dal 1° gen. 2024 ([RU 2022 849](https://fedlex.data.admin.ch/eli/oc/2022/849)).
+[^15-3]: Nuovo testo giusta il n. I dell’O del 16 dic. 2022, in vigore dal 1° gen. 2024 ([RU 2022 849](https://fedlex.data.admin.ch/eli/oc/2022/849)).
+[^15-4]: Nuovo testo giusta il n. I dell’O del 16 dic. 2022, in vigore dal 1° gen. 2024 ([RU 2022 849](https://fedlex.data.admin.ch/eli/oc/2022/849)).
+[^15-5]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^15-6]: Nuovo testo giusta il n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2018 ([RU 2017 13](https://fedlex.data.admin.ch/eli/oc/2017/4)).
 
 #### Art. 16
 
 **Collegamento**[^16-1]
 
-<sup>1</sup> Le prestazioni di cui all’articolo 15 capoverso 1 devono essere fornite mediante un collegamento fino al punto terminale di rete all’interno dei locali abitativi o commerciali del cliente.
+<sup>1</sup> Le prestazioni di cui all’articolo 15 capoverso 1 devono essere fornite mediante un collegamento fino al punto terminale di rete all’interno dei locali abitativi o commerciali del cliente. Il concessionario del servizio universale determina quale soluzione tecnologica utilizzare.
 
-<sup>2</sup>
+<sup>2</sup> L’UFCOM determina le specifiche per il punto terminale di rete sulla base di norme armonizzate a livello internazionale.
 
-Se, per motivi tecnici o economici, il collegamento non permette di fornire il servizio di cui all’articolo 15 capoverso 1 lettera d, il concessionario del servizio universale può eccezionalmente:
-
-- a ridurre la portata della prestazione; o
-- b. rinunciare a fornire il servizio se il mercato offre un’alternativa a condizioni paragonabili.
-
-<sup>3</sup>
-
-Il concessionario del servizio universale è tenuto a presentare ogni anno all’UFCOM un rapporto sui casi eccezionali di cui al capoverso 2 e in particolare sui seguenti dati:
-
-- a. il numero annuo di casi in cui sono state ridotte le prestazioni e si è rinunciato a fornire il servizio;
-- b. il motivo che ha condotto alla riduzione delle prestazioni o alla rinuncia a fornire il servizio;
-- c. il luogo toccato dalla riduzione delle prestazioni o dalla rinuncia a fornire il servizio;
-- d. la portata della riduzione delle prestazioni.
-
-<sup>4</sup> L’UFCOM può pubblicare in forma anonima i dati di cui al capoverso 3.
-
-<sup>5</sup> L’UFCOM determina i dati tecnici applicabili al punto terminale di rete. Essi si fondano sulle norme internazionali armonizzate.
-
-[^16-1]: Nuovo testo giusta il n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2018 ([RU 2017 13](https://fedlex.data.admin.ch/eli/oc/2017/4)).
+[^16-1]: Nuovo testo giusta il n. I dell’O del 16 dic. 2022, in vigore dal 1° gen. 2024 ([RU 2022 849](https://fedlex.data.admin.ch/eli/oc/2022/849)).
 
 #### Art. 17
 
@@ -453,31 +462,64 @@ Il concessionario del servizio universale è tenuto a presentare ogni anno all�
 
 #### Art. 18
 
-**Collegamenti al di fuori dei centri abitati**[^18-1]
+**Durata minima del contratto e partecipazione ai costi**[^18-1]
 
-<sup>1</sup> Se chiede che in un luogo servito da una tecnica di telecomunicazione situato al di fuori del centro abitato venga utilizzata una tecnica di collegamento diversa da quella offerta dal concessionario del servizio universale, il cliente deve assumersi la parte dei costi che eccede il costo per l’allestimento di un collegamento secondo l’articolo 16.
+<sup>1</sup> Il concessionario del servizio universale può rifiutare l’allestimento o l’adattamento di un collegamento per la fornitura di prestazioni di cui all’articolo 15 capoverso 1 se il cliente non accetta la durata minima del contratto stabilita dal concessionario. Il contratto termina al più tardi alla scadenza della concessione del servizio universale.
 
-<sup>2</sup> Se l’allestimento di un collegamento secondo l’articolo 16 in un luogo non servito da una tecnica di telecomunicazione situato al di fuori del centro abitato genera costi superiori a 20 000 franchi, il cliente può essere obbligato ad assumere la parte dei costi che eccede i 20 000 franchi.
+<sup>2</sup> Può rinunciare all’allestimento o all’adattamento anche nel caso in cui risultino costi superiori a 12 700 franchi e il cliente non voglia assumere la parte dei costi che eccede tale importo.
 
-<sup>3</sup> Se l’allestimento di un collegamento al di fuori dei centri abitati genera costi superiori a 20 000 franchi, il concessionario del servizio universale può prescrivere una durata minima del contratto. Essa non può superare la durata della concessione per il servizio universale.
+<sup>3</sup> Se il cliente partecipa ai costi, il concessionario del servizio universale non può prevedere una durata minima del contratto.
 
-<sup>4</sup> In caso di partecipazione finanziaria del cliente la portata della prestazione non può essere ridotta in virtù dell’articolo 16 capoverso 2 lettera a.
+[^18-1]: Nuovo testo giusta il n. I dell’O del 16 dic. 2022, in vigore dal 1° gen. 2024 ([RU 2022 849](https://fedlex.data.admin.ch/eli/oc/2022/849)).
 
-[^18-1]: Nuovo testo giusta il n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2018 ([RU 2017 13](https://fedlex.data.admin.ch/eli/oc/2017/4)).
+#### Art. 19
 
-#### Art. 19 e 20
+**Riduzione della portata della prestazione**[^19-1]
 
-[^1920-1]
+<sup>1</sup> Se, per motivi tecnici o economici, il collegamento non permette di fornire il servizio di accesso a Internet di cui all’articolo 15 capoverso 1 lettera d, in casi eccezionali il concessionario del servizio universale può ridurre la portata della prestazione di tale servizio.
 
-[^1920-1]: Abrogati dal n. I dell’O del 2 dic. 2016, con effetto dal 1° gen. 2018 ([RU 2017 13](https://fedlex.data.admin.ch/eli/oc/2017/4)).
+<sup>2</sup> In caso di partecipazione finanziaria del cliente secondo l’articolo 18 capoverso 2, la portata della prestazione non può essere ridotta.
 
-#### Art. 21
+[^19-1]: Nuovo testo giusta il n. I dell’O del 16 dic. 2022, in vigore dal 1° gen. 2024 ([RU 2022 849](https://fedlex.data.admin.ch/eli/oc/2022/849)).
 
-**Criteri qualitativi**
+#### Art. 19a
+
+**Resoconto sui casi in cui si è rinunciato a fornire il servizio e in cui è stata ridotta la portata delle prestazioni**[^19a-1]
 
 <sup>1</sup>
 
-Il concessionario del servizio universale valuta la qualità delle prestazioni del servizio universale in base ai seguenti criteri e ne rende conto all’UFCOM in un rapporto annuale:
+Il concessionario del servizio universale è tenuto a presentare ogni anno all’UFCOM un rapporto sui casi in cui si è rinunciato a fornire il servizio ai sensi dell’articolo 14*b* e sui casi eccezionali di cui all’articolo 19, in particolare con i seguenti dati:
+
+- a. il numero di casi in cui si è rinunciato a fornire il servizio e in cui sono state ridotte le prestazioni;
+- b. il motivo che ha condotto alla rinuncia a fornire il servizio o alla riduzione delle prestazioni;
+- c. il luogo toccato dalla rinuncia a fornire il servizio o dalla riduzione delle prestazioni;
+- d. la portata della riduzione delle prestazioni.
+
+<sup>2</sup> L’UFCOM può pubblicare in forma anonima i dati di cui al capoverso 1.
+
+[^19a-1]: Introdotto dal n. I dell’O del 16 dic. 2022, in vigore dal 1° gen. 2024 ([RU 2022 849](https://fedlex.data.admin.ch/eli/oc/2022/849)).
+
+#### Art. 20
+
+**Idoneità e modalità di messa a disposizione**[^20-1]
+
+<sup>1</sup> Il concessionario del servizio universale decide entro un termine di 45 giorni dal ricevimento della domanda se mettere a disposizione il collegamento ai sensi dell’articolo 16. Se intende rinunciare alla stipula di un contratto ai sensi dell’articolo 14*a*, esamina l’esistenza di un collegamento gestito da un altro fornitore e, all’occorrenza, verifica se tale fornitore possa mettere a disposizione un’offerta comparabile ai sensi dell’articolo 14*b*. Il fornitore sollecitato è tenuto a rispondere alla domanda del concessionario del servizio universale entro 15 giorni.
+
+<sup>2</sup> Se la messa a disposizione del collegamento ai sensi dell’articolo 16 genera costi superiori a quelli di cui all’articolo 18 capoverso 2, il concessionario del servizio universale deve fornire gratuitamente un preventivo alla persona interessata entro 90 giorni dopo aver ricevuto le informazioni richieste; la tecnologia utilizzata deve essere precisata.
+
+<sup>3</sup> Il concessionario del servizio universale deve mettere a disposizione il servizio entro 12 mesi dalla stipula del contratto. Se non è necessario alcun lavoro del genio civile, il termine è di sei mesi.
+
+<sup>4</sup> In caso di disaccordo in merito all’importo dei costi aggiuntivi, l’UFCOM può avvalersi della collaborazione di un perito indipendente, a spese della persona interessata, per procedere alla verifica. In caso di abuso manifesto da parte del concessionario del servizio universale, le spese della perizia sono a suo carico.
+
+[^20-1]: Nuovo testo giusta il n. I dell’O del 16 dic. 2022, in vigore dal 1° gen. 2024 ([RU 2022 849](https://fedlex.data.admin.ch/eli/oc/2022/849)).
+
+#### Art. 21
+
+**Qualità del servizio universale**[^21-1]
+
+<sup>1</sup>
+
+Il concessionario del servizio universale valuta la qualità delle prestazioni del servizio universale e redige ogni anno un rapporto all’attenzione dell’UFCOM. I criteri di qualità sono i seguenti:
 
 - a.
 
@@ -494,26 +536,27 @@ Il concessionario del servizio universale valuta la qualità delle prestazioni d
   - 1\. la disponibilità del servizio,
   - 2\. il tempo necessario a stabilire la comunicazione,
   - 3\. la qualità della trasmissione vocale,
-  - 4\. la frequenza dei tentativi infruttuosi di stabilire la comunicazione causati dal sovraccarico o da errori della rete,
-  - 5\. l’esattezza della fatturazione;
+  - 4\. la frequenza dei tentativi infruttuosi di stabilire la comunicazione causati dal sovraccarico o da errori della rete;
 
 - c.
 
-  per l’accesso a Internet:
+  per il servizio di accesso a Internet:
 
   - 1\. la disponibilità del servizio,
-  - 2\. la qualità della trasmissione dei dati;
-  - d. tempi di reazione dei servizi destinati ai disabili.[^21-1]
+  - 2\. la velocità di trasmissione dei dati,
+  - 3\. il termine per la trasmissione dei dati,
+  - 4\. la qualità della trasmissione dei dati;
 
-<sup>2</sup> L’UFCOM disciplina i dettagli tecnici e stabilisce i valori di riferimento per i criteri qualitativi. Esso tiene conto dell’evoluzione della qualità e dei progressi tecnologici.
+- d. i tempi di reazione dei servizi destinati ai disabili;
+- e. l’esattezza della fatturazione.
 
-<sup>3</sup> Il concessionario del servizio universale è tenuto a garantire all’UFCOM l’accesso agli impianti affinché esso possa controllare che i valori di riferimento per i criteri qualitativi siano stati effettivamente raggiunti.[^21-2]
+<sup>2</sup> L’UFCOM disciplina i dettagli tecnici e definisce i valori di riferimento per i criteri qualitativi. Esso tiene conto dell’evoluzione della qualità e dei progressi tecnologici.
 
-<sup>4</sup> Per controllare che i criteri qualitativi abbiano raggiunto i valori di riferimento, l’UFCOM può avvalersi della collaborazione di un perito indipendente. I risultati di questa perizia possono essere resi pubblici.[^21-3]
+<sup>3</sup> Il concessionario del servizio universale è tenuto a garantire all’UFCOM l’accesso agli impianti di misurazione e ai dati grezzi dei risultati delle misurazioni affinché esso possa controllare che i valori di riferimento per i criteri qualitativi siano stati effettivamente raggiunti.
 
-[^21-1]: Nuovo testo giusta il n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2018 ([RU 2017 13](https://fedlex.data.admin.ch/eli/oc/2017/4)).
-[^21-2]: Nuovo testo giusta il n. I dell’O del 5 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
-[^21-3]: Nuovo testo giusta il n. I dell’O del 5 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
+<sup>4</sup> Per controllare che i criteri qualitativi abbiano raggiunto i valori di riferimento, l’UFCOM può avvalersi della collaborazione di un perito indipendente. I risultati di questa perizia possono essere resi pubblici.
+
+[^21-1]: Nuovo testo giusta il n. I dell’O del 16 dic. 2022, in vigore dal 1° gen. 2024 ([RU 2022 849](https://fedlex.data.admin.ch/eli/oc/2022/849)).
 
 #### Art. 22
 
@@ -523,19 +566,36 @@ Il concessionario del servizio universale valuta la qualità delle prestazioni d
 
 Vigono i seguenti limiti massimi di prezzo (IVA esclusa):
 
-- a. servizio telefonico pubblico con un solo numero (art. 15 cpv. 1 lett. a) e una o due iscrizioni nell’elenco (art. 15 cpv. 1 lett. c), inclusi il collegamento (art. 16): 23,45 franchi al mese;
-- b. servizio di accesso a Internet (art. 15 cpv. 1 lett. d), incluso il collegamento (art. 16): 45 franchi al mese;
-- c. servizio telefonico pubblico con un solo numero (art. 15 cpv. 1 lett. a), una o due iscrizioni nell’elenco (art. 15 cpv. 1 lett. c) e un servizio di accesso a Internet (art. 15 cpv. 1 lett. d), inclusi il collegamento (art. 16): 55 franchi al mese;
-- d. servizio telefonico pubblico con tre numeri telefonici (art. 15 cpv. 1 lett. b): 16,55 franchi al mese oltre all’importo previsto alla lettera a o c;
-- e. fornitura delle prestazioni di cui alle lettere a–d: una tassa unica di 40 franchi al momento della stipula del contratto o se il cliente chiede di passare a un’altra delle prestazioni summenzionate;
-- f. comunicazioni nazionali stabilite nel quadro del servizio telefonico pubblico (art. 15 cpv. 1 lett. a e b) verso collegamenti fissi, fatturate al secondo e arrotondate ai successivi 10 centesimi: 7,5 centesimi al minuto;
-- g. utilizzazione del servizio di trascrizione (art. 15 cpv. 1 lett. e n.1), fatturato al secondo e arrotondato ai successivi 10 centesimi: 3,4 centesimi al minuto.
+- a. servizio telefonico pubblico con un solo numero (art. 15 cpv. 1 lett. a) e una o due iscrizioni nell’elenco (art. 15 cpv. 1 lett. c), incluso il collegamento (art. 16): 23,45 franchi al mese;
+- b.
 
-<sup>2</sup> I limiti massimi di prezzo vigono anche per le prestazioni che sono fornite mediante i collegamenti di cui all’articolo 18.
+  servizio di accesso a Internet:
 
-<sup>3</sup> Il concessionario del servizio universale notifica all’UFCOM tutti i cambiamenti delle sue tariffe almeno 30 giorni prima della loro introduzione.
+  - 1\. con una velocità di trasmissione specificata di 10/1 Mbit/s (art. 15 cpv. 1 lett. d n. 1), incluso il collegamento (art. 16): 45 franchi al mese,
+  - 2\. con una velocità di trasmissione specificata di 80/8 Mbit/s (art. 15 cpv. 1 lett d n. 2), incluso il collegamento (art. 16): 60 franchi al mese;
 
-[^22-1]: Nuovo testo giusta il n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2018 ([RU 2017 13](https://fedlex.data.admin.ch/eli/oc/2017/4)).
+- c.
+
+  servizio telefonico pubblico con un solo numero (art. 15 cpv. 1 lett. a), una o due iscrizioni nell’elenco (art. 15 cpv. 1 lett. c) e un servizio di accesso a Internet:
+
+  - 1\. con una velocità di trasmissione specificata di 10/1 Mbit/s (art. 15 cpv. 1 lett. d n. 1), incluso il collegamento (art. 16): 50 franchi al mese,
+  - 2\. con velocità di trasmissione specificata di 80/8 Mbit/s (art. 15 cpv. 1 lett. d n. 2), incluso il collegamento (art. 16): 65 franchi al mese;
+
+- d. fornitura delle prestazioni di cui alle lettere a–c: una tassa unica di 40 franchi al momento della stipula del contratto; il passaggio a un’altra delle prestazioni summenzionate deve essere gratuito;
+- e. comunicazioni nazionali stabilite nel quadro del servizio telefonico pubblico (art. 15 cpv. 1 lett. a) verso collegamenti fissi, fatturate al secondo e arrotondate ai successivi 10 centesimi: 7,5 centesimi al minuto;
+- f. utilizzazione del servizio di trascrizione (art. 15 cpv. 1 lett. e n. 1), fatturato al secondo e arrotondato ai successivi 10 centesimi: 3,4 centesimi al minuto.
+
+<sup>2</sup> Il concessionario del servizio universale notifica all’UFCOM tutti i cambiamenti delle sue tariffe almeno 30 giorni prima della loro introduzione.
+
+[^22-1]: Nuovo testo giusta il n. I dell’O del 16 dic. 2022, in vigore dal 1° gen. 2024 ([RU 2022 849](https://fedlex.data.admin.ch/eli/oc/2022/849)).
+
+#### Art. 22a
+
+**Invio della fattura cartacea**[^22a-1]
+
+L’invio periodico della fattura cartacea deve essere gratuito per i clienti che non dispongono di un servizio di accesso a Internet (art. 15 cpv. 1 lett. d).
+
+[^22a-1]: Introdotto dal n. I dell’O del 16 dic. 2022, in vigore dal 1° gen. 2024 ([RU 2022 849](https://fedlex.data.admin.ch/eli/oc/2022/849)).
 
 #### Art. 23
 
@@ -991,7 +1051,7 @@ Può incaricare un delegato di esercitare il compito che spetta all’organo di 
 
 <sup>5</sup> L’UFCOM approva la nomina della persona fisica designata quale responsabile dell’organo di conciliazione.
 
-[^42-1]: [RS 172.056.11](https://fedlex.data.admin.ch/eli/cc/2020/127)
+[^42-1]: [[RU 1996 518](https://fedlex.data.admin.ch/eli/oc/1996/518_518_518); [1997 2432](https://fedlex.data.admin.ch/eli/oc/1997/2432_2432_2432), [2779](https://fedlex.data.admin.ch/eli/oc/1997/2779_2779_2779)all. n. II 5; [2002 886](https://fedlex.data.admin.ch/eli/oc/2002/157), [1759](https://fedlex.data.admin.ch/eli/oc/2002/264); [2006 1667](https://fedlex.data.admin.ch/eli/oc/2006/259), [5613](https://fedlex.data.admin.ch/eli/oc/2006/829)art. 30 cpv. 2 n. 1; [2009 6149](https://fedlex.data.admin.ch/eli/oc/2009/752); [2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)all. 3 n. 2; [2015 775](https://fedlex.data.admin.ch/eli/oc/2015/141); [2017 5161](https://fedlex.data.admin.ch/eli/oc/2017/568)all. 2 n. II 3. [RU 2020 691](https://fedlex.data.admin.ch/eli/oc/2020/127)art. 31 cpv. 2]. Vedi ora l’O del 12 feb. 2020 sugli appalti pubblici ([RS 172.056.11](https://fedlex.data.admin.ch/eli/cc/2020/127))
 
 #### Art. 43
 
@@ -1867,9 +1927,11 @@ I fornitori di servizi di accesso a Internet gestiscono un servizio che riceve l
 
 #### Art. 96c
 
-**Esecuzione**
+**Esecuzione**[^96c-1]
 
-L’UFCOM esegue le disposizioni della presente sezione in collaborazione con il Centro nazionale per la cibersicurezza.
+L’UFCOM esegue le disposizioni della presente sezione in collaborazione con l’Ufficio federale della cibersicurezza.
+
+[^96c-1]: Nuovo testo giusta il n. II 12 dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
 
 ### Sezione 5: Sicurezza delle reti e dei servizi dei concessionari di radiocomunicazione mobile
 
@@ -2048,11 +2110,9 @@ L’ordinanza del DATEC del 15 dicembre 1997[^106a-2] sui collegamenti di teleco
 
 #### Art. 108a
 
-**Disposizioni transitorie relative alla modifica del 2 dicembre 2016**[^108a-1]
+[^108a-1]
 
-Sino al 31 dicembre 2021 il concessionario del servizio universale deve fornire ai clienti che lo richiedono un’interfaccia analogica o un’interfaccia ISDN (*Integrated Services Digital Network*) al punto terminale di rete. In tale caso non può addebitare alcun costo.
-
-[^108a-1]: Introdotto dal n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2018 ([RU 2017 13](https://fedlex.data.admin.ch/eli/oc/2017/4)).
+[^108a-1]: Introdotto dal n. I dell’O del 2 dic. 2016 ([RU 2017 13](https://fedlex.data.admin.ch/eli/oc/2017/4)). Abrogato dal n. I dell’O del 16 dic. 2022, con effetto dal 1° gen. 2024 ([RU 2022 849](https://fedlex.data.admin.ch/eli/oc/2022/849)).
 
 #### Art. 108b
 

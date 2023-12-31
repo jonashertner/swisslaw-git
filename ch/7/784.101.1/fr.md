@@ -4,11 +4,11 @@ title: Ordonnance du 9 mars 2007 sur les services de télécommunication (OST)
 short: OST
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/166"
 language: fr
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2007-03-09
 in_force: 2007-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/166/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2007-166-20230901-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/166/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/166/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-166-20240101-fr-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/166/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/166/20230901/fr"
 
 (OST)
 
-du 9 mars 2007 (État le 1<sup>er</sup> septembre 2023)
+du 9 mars 2007 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -253,7 +253,7 @@ Les fournisseurs de services de télécommunication doivent:
 Ils doivent au minimum, pour chaque service fourni:
 
 - a.[^10e-2] mesurer et publier le débit de transmission de données effectivement atteint, la latence et, pour les communications de téléphonie mobile, la puissance du signal;
-- b. [^10e-3] …
+- b.[^10e-3] mesurer et publier le débit de transmission de données convenu par contrat, les variations de latence et la perte de paquets de données lors de la transmission.
 
 <sup>3</sup> Les informations sur la qualité doivent permettre des comparaisons entre les offres des différents fournisseurs. Elles doivent aussi être publiées sous forme de cartes géographiques.
 
@@ -264,8 +264,8 @@ Ils doivent au minimum, pour chaque service fourni:
 <sup>6</sup> Les informations mentionnées dans le présent article doivent être publiées sur une page Internet librement accessible. L’OFCOM peut prévoir que les informations doivent être publiées sur la même page Internet.
 
 [^10e-1]: Introduit par le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
-[^10e-2]: En vigueur depuis le 1<sup>er</sup> sept. 2021, mais les informations ne doivent être publiées qu’à partir du 1<sup>er</sup> janvier 2022 ([RO 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
-[^10e-3]: Entre en vigueur le 1<sup>er</sup> janv. 2024 ([RO 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^10e-2]: En vigueur depuis le 1<sup>er</sup> sept. 2021, mais les informations ne doivent être publiées qu’à partir du 1<sup>er</sup> janv. 2022 ([RO 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^10e-3]: En vigueur depuis le 1<sup>er</sup> janv. 2024, mais les informations ne doivent être publiées qu’à partir du 1<sup>er</sup> avr. 2024 ([RO 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
 #### Art. 10f
 
@@ -357,6 +357,24 @@ Le coût net du service universel correspond aux dépenses consenties par un fou
 
 <sup>3</sup> Les données utilisées pour le calcul doivent être étayées, c’est-à-dire être transparentes et provenir de sources fiables. À cette fin, les recommandations relatives à l’établissement et à la présentation des comptes (RPC), les «international accounting standards» (IAS) ou des prescriptions similaires reconnues sur le plan international s’appliquent.
 
+### Section 1*a* Champ d’application
+
+[^chap3-sec1a-1]
+
+[^chap3-sec1a-1]: Introduite par le ch. I de l’O du 16 déc. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 849](https://fedlex.data.admin.ch/eli/oc/2022/849)).
+
+#### Art. 14a
+
+**Principe**
+
+Les sections 2 et 3 s’appliquent aux contrats conclus entre le concessionnaire du service universel et ses clients visant spécifiquement à remplir les obligations de service universel.
+
+#### Art. 14b
+
+**Subsidiarité**
+
+Le concessionnaire du service universel peut renoncer à la conclusion d’un contrat au sens de l’art. 14*a* si une offre comparable est disponible pour le client sur le marché. S’il fournit néanmoins une offre au client, il ne peut pas facturer les coûts au titre de la compensation prévue par l’art. 19, al. 1, LTC.
+
 ### Section 2 Obligations du concessionnaire du service universel
 
 #### Art. 15
@@ -368,9 +386,15 @@ Le coût net du service universel correspond aux dépenses consenties par un fou
 Le service universel comprend les services suivants:
 
 - a. le service téléphonique public qui permet de faire et de recevoir, en temps réel, des appels téléphoniques nationaux et internationaux avec un numéro[^15-1];
-- b. le service téléphonique public qui permet de faire et de recevoir, en temps réel, des appels téléphoniques nationaux et internationaux avec trois numéros d’appel;
-- c. une inscription dans l’annuaire du service téléphonique public en cas d’utilisation d’un service visé à la let. a ou b; les ménages ont droit à deux inscriptions;
-- d.[^15-2] le service d’accès à Internet garantissant un débit de transmission de 10/1 Mbit/s;
+- b.[^15-2] …
+- c.[^15-3] une inscription dans l’annuaire du service téléphonique public en cas d’utilisation du service visé à la let. a; les ménages ont droit à deux inscriptions;
+- d.[^15-4]
+
+  le service d’accès à Internet avec l’un des débits de transmission spécifiés suivants:
+
+  - 1\. 10 Mbit/s en téléchargement et 1 Mbit/s en téléversement,
+  - 2\. 80 Mbit/s en téléchargement et 8 Mbit/s en téléversement;
+
 - e.
 
   les services pour malentendants suivants:
@@ -378,44 +402,28 @@ Le service universel comprend les services suivants:
   - 1\. la mise à disposition, 24 heures sur 24, d’un service de transcription traitant également les appels d’urgence ainsi que d’un service de relais des messages courts (SMS),
   - 2\. la mise à disposition d’un service de relais par vidéo-téléphonie de 8 h à 21 h du lundi au vendredi et de 10 h à 17 h le samedi, le dimanche et les jours fériés selon le droit fédéral;
 
-- f.[^15-3] le service d’annuaire et de commutation pour malvoyants et personnes à mobilité réduite: l’accès, sous la forme d’un service de renseignements dans les trois langues officielles, aux données d’annuaires des clients de tous les fournisseurs du service téléphonique public en Suisse et la mise à disposition d’un service de commutation 24 heures sur 24; pour autant que le concessionnaire du service universel offre un service d’établissement de communications, le service de commutation permet aussi d’atteindre les clients qui ne sont pas inscrits dans l’annuaire mais qui consentent à être atteints dans le cadre d’un service d’établissement de communications au sens de l’art. 11, al. 4.[^15-4]
+- f.[^15-5] le service d’annuaire et de commutation pour malvoyants et personnes à mobilité réduite: l’accès, sous la forme d’un service de renseignements dans les trois langues officielles, aux données d’annuaires des clients de tous les fournisseurs du service téléphonique public en Suisse et la mise à disposition d’un service de commutation 24 heures sur 24; pour autant que le concessionnaire du service universel offre un service d’établissement de communications, le service de commutation permet aussi d’atteindre les clients qui ne sont pas inscrits dans l’annuaire mais qui consentent à être atteints dans le cadre d’un service d’établissement de communications au sens de l’art. 11, al. 4.[^15-6]
 
 <sup>2</sup> Le concessionnaire du service universel est tenu de fournir ces prestations pendant toute la durée de la concession.
 
 <sup>3</sup> L’OFCOM fixe les spécifications applicables aux prestations du service universel. Ces spécifications se basent sur les normes internationales harmonisées.
 
 [^15-1]: Nouvelle expression selon le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)). Il a été tenu compte de cette mod. dans tout le texte.
-[^15-2]: Nouvelle teneur selon le ch. I de l’O du 30 oct. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3487](https://fedlex.data.admin.ch/eli/oc/2019/636)).
-[^15-3]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
-[^15-4]: Nouvelle teneur selon le ch. I de l’O du 2 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 13](https://fedlex.data.admin.ch/eli/oc/2017/4)).
+[^15-2]: Abrogée par le ch. I de l’O du 16 déc. 2022, avec effet au 1<sup>er</sup> janv. 2024 ([RO 2022 849](https://fedlex.data.admin.ch/eli/oc/2022/849)).
+[^15-3]: Nouvelle teneur selon le ch. I de l’O du 16 déc. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 849](https://fedlex.data.admin.ch/eli/oc/2022/849)).
+[^15-4]: Nouvelle teneur selon le ch. I de l’O du 16 déc. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 849](https://fedlex.data.admin.ch/eli/oc/2022/849)).
+[^15-5]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^15-6]: Nouvelle teneur selon le ch. I de l’O du 2 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 13](https://fedlex.data.admin.ch/eli/oc/2017/4)).
 
 #### Art. 16
 
 **Raccordement**[^16-1]
 
-<sup>1</sup> Les prestations énumérées à l’art. 15, al. 1, doivent être fournies à l’intérieur des locaux d’habitation et des locaux commerciaux du client au moyen d’un raccordement jusqu’au point de terminaison du réseau.
+<sup>1</sup> Les services visés à l’art. 15, al. 1, doivent être fournis à l’intérieur des locaux d’habitation et des locaux commerciaux du client au moyen d’un raccordement jusqu’au point de terminaison du réseau. Le concessionnaire du service universel détermine à quelle solution technique il recourt.
 
-<sup>2</sup>
+<sup>2</sup> L’OFCOM fixe les spécifications applicables au point de terminaison du réseau en se basant sur des normes internationales harmonisées.
 
-Si, pour des raisons techniques ou économiques, le raccordement ne permet pas de fournir le service visé à l’art. 15, al. 1, let. d, le concessionnaire du service universel peut, dans des cas exceptionnels:
-
-- a. réduire l’étendue des prestations, ou
-- b. renoncer à fournir le service s’il existe sur le marché une offre substitutive à des conditions comparables.
-
-<sup>3</sup>
-
-Le concessionnaire du service universel doit remettre chaque année à l’OFCOM un rapport sur les cas exceptionnels visés à l’al. 2 faisant état notamment:
-
-- a. du nombre annuel de cas de réduction des prestations et de renonciation à fournir le service;
-- b. du motif ayant conduit à la réduction des prestations ou à la renonciation à fournir le service;
-- c. du lieu concerné par la réduction des prestations ou la renonciation à fournir le service;
-- d. de l’étendue de la réduction des prestations.
-
-<sup>4</sup> L’OFCOM peut publier les données mentionnées à l’al. 3 sous une forme anonymisée.
-
-<sup>5</sup> Il fixe les spécifications applicables au point de terminaison du réseau. Ces spécifications se basent sur les normes internationales harmonisées.
-
-[^16-1]: Nouvelle teneur selon le ch. I de l’O du 2 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 13](https://fedlex.data.admin.ch/eli/oc/2017/4)).
+[^16-1]: Nouvelle teneur selon le ch. I de l’O du 16 déc. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 849](https://fedlex.data.admin.ch/eli/oc/2022/849)).
 
 #### Art. 17
 
@@ -433,31 +441,64 @@ Le concessionnaire du service universel doit remettre chaque année à l’OFCOM
 
 #### Art. 18
 
-**Raccordements hors des zones habitées**[^18-1]
+**Durée de contrat minimale et participation aux coûts**[^18-1]
 
-<sup>1</sup> Si, dans un lieu situé hors des zones habitées desservi par une technique de télécommunication, un client demande à utiliser une autre technique que celle offerte par le concessionnaire du service universel, il prend en charge la partie des frais excédant les frais d’établissement d’un raccordement selon l’art. 16.
+<sup>1</sup> Le concessionnaire du service universel peut refuser d’établir ou d’adapter un raccordement pour la fourniture des services visés à l’art. 15, al. 1, si le client n’accepte pas une durée de contrat minimale fixée par le concessionnaire. Celle-ci prend fin au plus tard à l’échéance de la concession de service universel.
 
-<sup>2</sup> Si, dans un lieu situé hors des zones habitées non desservi par une technique de télécommunication, l’établissement d’un raccordement selon l’art. 16 occasionne des frais dépassant 20 000 francs, le client peut être obligé de prendre en charge le montant excédant cette somme.
+<sup>2</sup> Le concessionnaire du service universel peut également refuser d’établir ou d’adapter un raccordement si les coûts occasionnés dépassent 12’700 francs et que le client ne prend pas en charge la part des coûts qui dépasse ce montant.
 
-<sup>3</sup> Si l’établissement d’un raccordement hors des zones habitées occasionne des frais dépassant 20 000 francs, le concessionnaire du service universel peut prescrire une durée de contrat minimale. Celle-ci ne peut dépasser la durée de la concession de service universel.
+<sup>3</sup> Si le client participe aux coûts, le concessionnaire du service universel ne peut pas prévoir de durée de contrat minimale.
 
-<sup>4</sup> Lorsque le client participe au financement, l’étendue des prestations ne peut pas être réduite en vertu de l’art. 16, al. 2, let. a.
+[^18-1]: Nouvelle teneur selon le ch. I de l’O du 16 déc. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 849](https://fedlex.data.admin.ch/eli/oc/2022/849)).
 
-[^18-1]: Nouvelle teneur selon le ch. I de l’O du 2 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 13](https://fedlex.data.admin.ch/eli/oc/2017/4)).
+#### Art. 19
 
-#### Art. 19 et 20
+**Réduction de l’étendue des prestations**[^19-1]
 
-[^1920-1]
+<sup>1</sup> Si, pour des raisons techniques ou économiques, le raccordement ne permet pas de fournir le service d’accès à Internet visé à l’art. 15, al. 1, let. d, le concessionnaire du service universel peut, dans des cas exceptionnels, réduire l’étendue des prestations.
 
-[^1920-1]: Abrogés par le ch. I de l’O du 2 déc. 2016, avec effet au 1<sup>er</sup> janv. 2018 ([RO 2017 13](https://fedlex.data.admin.ch/eli/oc/2017/4)).
+<sup>2</sup> S’il y a participation financière du client au sens de l’art. 18, al. 2, l’étendue des prestations ne peut pas être réduite.
 
-#### Art. 21
+[^19-1]: Nouvelle teneur selon le ch. I de l’O du 16 déc. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 849](https://fedlex.data.admin.ch/eli/oc/2022/849)).
 
-**Qualité du service universel**
+#### Art. 19a
+
+**Rapport sur les renonciations à fournir le service et sur les réductions de l’étendue des prestations**[^19a-1]
 
 <sup>1</sup>
 
-Le concessionnaire du service universel mesure la qualité des offres du service universel en fonction des critères suivants et établit chaque année un rapport à l’attention de l’OFCOM:
+Le concessionnaire du service universel doit remettre chaque année à l’OFCOM un rapport sur les renonciations à fournir le service effectuées en vertu de l’art. 14*b* et les cas exceptionnels visés à l’art. 19, faisant état notamment:
+
+- a. du nombre de cas de renonciations à fournir le service et de réductions des prestations;
+- b. du motif ayant conduit à la renonciation à fournir le service ou à la réduction des prestations;
+- c. du lieu concerné par la renonciation à fournir le service ou par la réduction des prestations;
+- d. de l’étendue de la réduction des prestations.
+
+<sup>2</sup> L’OFCOM peut publier les données mentionnées à l’al. 1 sous une forme anonymisée.
+
+[^19a-1]: Introduit par le ch. I de l’O du 16 déc. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 849](https://fedlex.data.admin.ch/eli/oc/2022/849)).
+
+#### Art. 20
+
+**Éligibilité et modalités de la mise à disposition**[^20-1]
+
+<sup>1</sup> Le concessionnaire du service universel dispose d’un délai de 45 jours à compter de la réception de la demande pour déterminer s’il entend fournir le raccordement visé à l’art. 16. S’il veut renoncer à la conclusion d’un contrat au sens de l’art. 14*a*, il examine si un raccordement exploité par un autre fournisseur est disponible et s’assure, dans ce cas, que ce fournisseur peut mettre à disposition une offre comparable au sens de l’art. 14*b*. Le fournisseur sollicité est tenu de répondre dans un délai de 15 jours à la demande du concessionnaire du service universel.
+
+<sup>2</sup> Si la mise à disposition du raccordement visé à l’art. 16 engendre des coûts supérieurs à ceux mentionnés à l’art. 18, al. 2, le concessionnaire du service universel doit fournir gratuitement un devis à la personne intéressée dans les 90 jours dès l’obtention des informations nécessaires; la technologie utilisée doit être précisée.
+
+<sup>3</sup> Le concessionnaire du service universel doit mettre le service à disposition dans un délai de 12 mois une fois le contrat signé. Si aucun travail de génie civil n’est nécessaire, le délai est de 6 mois.
+
+<sup>4</sup> En cas de désaccord sur le montant des coûts excédentaires, l’OFCOM peut mandater un expert indépendant, aux frais de la personne intéressée, pour procéder à la vérification. En cas d’abus manifeste du concessionnaire du service universel, les frais de l’expertise sont à sa charge.
+
+[^20-1]: Nouvelle teneur selon le ch. I de l’O du 16 déc. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 849](https://fedlex.data.admin.ch/eli/oc/2022/849)).
+
+#### Art. 21
+
+**Qualité du service universel**[^21-1]
+
+<sup>1</sup>
+
+Le concessionnaire du service universel mesure la qualité des offres du service universel et établit chaque année un rapport à l’attention de l’OFCOM. Les critères de qualité sont les suivants:
 
 - a.
 
@@ -474,27 +515,27 @@ Le concessionnaire du service universel mesure la qualité des offres du service
   - 1\. disponibilité du service,
   - 2\. durée d’établissement de la communication,
   - 3\. qualité de transmission de la parole,
-  - 4\. fréquence des échecs de l’établissement de la communication dus à une surcharge du réseau ou à un défaut de ce dernier,
-  - 5\. précision de la facturation;
+  - 4\. fréquence des échecs de l’établissement de la communication dus à une surcharge du réseau ou à un défaut de ce dernier;
 
 - c.
 
   concernant le service d’accès à Internet:
 
   - 1\. disponibilité du service,
-  - 2\. qualité de transmission des données;
+  - 2\. débits de transmission des données,
+  - 3\. délai de transmission des données,
+  - 4\. qualité de transmission des données;
 
-- d. temps de réponse des services pour personnes handicapées.[^21-1]
+- d. le temps de réponse des services pour personnes handicapées;
+- e. la précision de la facturation.
 
-<sup>2</sup> L’OFCOM règle les détails techniques et fixe les valeurs à atteindre concernant les différents critères de qualité. Il tient compte de l’évolution de la qualité et des progrès technologiques.
+<sup>2</sup> L’OFCOM règle les détails techniques et définit les valeurs à atteindre concernant les différents critères de qualité. Il tient compte de l’évolution de la qualité et des progrès technologiques.
 
-<sup>3</sup> Le concessionnaire du service universel est tenu de garantir à l’OFCOM l’accès aux installations de manière à ce que celui-ci puisse contrôler le respect des valeurs à atteindre concernant les critères de qualité.[^21-2]
+<sup>3</sup> Le concessionnaire du service universel est tenu de garantir à l’OFCOM l’accès aux installations de mesure et aux données brutes des résultats de mesure de manière que celui-ci puisse contrôler le respect des valeurs à atteindre concernant les critères de qualité.
 
-<sup>4</sup> L’OFCOM peut mandater un expert indépendant afin de contrôler le respect des valeurs à atteindre concernant les critères de qualité. Les résultats de cette expertise peuvent être publiés.[^21-3]
+<sup>4</sup> L’OFCOM peut mandater un expert indépendant afin de contrôler le respect des valeurs à atteindre concernant les critères de qualité. Les résultats de cette expertise peuvent être publiés.
 
-[^21-1]: Nouvelle teneur selon le ch. I de l’O du 2 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 13](https://fedlex.data.admin.ch/eli/oc/2017/4)).
-[^21-2]: Nouvelle teneur selon le ch. I de l’O du 5 nov. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
-[^21-3]: Nouvelle teneur selon le ch. I de l’O du 5 nov. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
+[^21-1]: Nouvelle teneur selon le ch. I de l’O du 16 déc. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 849](https://fedlex.data.admin.ch/eli/oc/2022/849)).
 
 #### Art. 22
 
@@ -504,19 +545,36 @@ Le concessionnaire du service universel mesure la qualité des offres du service
 
 Les prix plafonds suivants (taxe sur la valeur ajoutée non comprise) sont applicables:
 
-- a. service téléphonique public avec un numéro (art. 15, al. 1, let. a) et une ou deux inscriptions dans l’annuaire (art. 15, al. 1, let. c), y compris le raccordement (art. 16): 23 fr. 45 par mois;
-- b. service d’accès à Internet (art. 15, al. 1, let. d), y compris le raccordement (art. 16): 45 francs par mois;
-- c. service téléphonique public avec un numéro (art. 15, al. 1, let. a) et une ou deux inscriptions dans l’annuaire (art. 15, al. 1, let. c) et service d’accès à Internet (art. 15, al. 1, let. d), y compris le raccordement (art. 16): 55 francs par mois;
-- d. service téléphonique public avec trois numéros d’appel (art. 15, al. 1, let. b): 16 fr. 55 par mois en plus du montant prévu à la let. a ou c;
-- e. mise à disposition des offres visées aux let. a à d: taxe unique de 40 francs lors de la conclusion du contrat et lorsque le client demande à passer d’une offre à l’autre;
-- f. communications nationales établies dans le cadre du service téléphonique public (art. 15, al. 1, let. a et b) en direction des raccordements fixes, facturées à la seconde et arrondies aux 10 centimes supérieurs: 7,5 centimes par minute;
-- g. utilisation du service de transcription (art. 15, al. 1, let. e, ch. 1), facturée à la seconde et arrondie aux 10 centimes supérieurs: 3,4 centimes par minute.
+- a. service téléphonique public avec un numéro (art. 15, al. 1, let. a) et une ou deux inscriptions dans l’annuaire (art. 15, al. 1, let. c), y compris le raccordement (art. 16): 23.45 francs par mois;
+- b.
 
-<sup>2</sup> Les prix plafonds sont également applicables aux prestations fournies au moyen des raccordements relevant de l’art. 18.
+  service d’accès à Internet:
 
-<sup>3</sup> Le concessionnaire du service universel annonce à l’OFCOM toute modification de ses tarifs 30 jours au moins avant son introduction.
+  - 1\. avec un débit de transmission spécifié de 10/1 Mbit/s (art. 15, al. 1, let. d, ch. 1), y compris le raccordement (art. 16): 45 francs par mois,
+  - 2\. avec un débit de transmission spécifié de 80/8 Mbit/s (art. 15, al. 1, let. d, ch. 2), y compris le raccordement (art. 16): 60 francs par mois;
 
-[^22-1]: Nouvelle teneur selon le ch. I de l’O du 2 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 13](https://fedlex.data.admin.ch/eli/oc/2017/4)).
+- c.
+
+  service téléphonique public avec un numéro (art. 15, al. 1, let. a) et une ou deux inscriptions dans l’annuaire (art. 15, al. 1, let. c) et service d’accès à Internet:
+
+  - 1\. avec un débit de transmission spécifié de 10/1 Mbit/s (art. 15, al. 1, let. d, ch. 1), y compris le raccordement (art. 16): 50 francs par mois,
+  - 2\. avec un débit de transmission spécifié de 80/8 Mbit/s (art. 15, al. 1, let. d, ch. 2), y compris le raccordement (art. 16): 65 francs par mois;
+
+- d. mise à disposition des offres visées aux let. a à c: taxe unique de 40 francs à la conclusion du contrat; le changement d’une offre à l’autre doit être gratuit;
+- e. communications nationales établies dans le cadre du service téléphonique public (art. 15, al. 1, let. a) en direction des raccordements fixes, facturées à la seconde et arrondies aux 10 centimes supérieurs: 7,5 centimes par minute;
+- f. utilisation du service de transcription (art. 15, al. 1, let. e, ch. 1), facturée à la seconde et arrondie aux 10 centimes supérieurs: 3,4 centimes par minute.
+
+<sup>2</sup> Le concessionnaire du service universel annonce à l’OFCOM toute modification de ses tarifs 30 jours au moins avant son introduction.
+
+[^22-1]: Nouvelle teneur selon le ch. I de l’O du 16 déc. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 849](https://fedlex.data.admin.ch/eli/oc/2022/849)).
+
+#### Art. 22a
+
+**Envoi de la facture papier**[^22a-1]
+
+L’envoi périodique de la facture papier doit être gratuit pour le client qui ne dispose d’aucun accès à Internet (art. 15 al. 1 let. d).
+
+[^22a-1]: Introduit par le ch. I de l’O du 16 déc. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 849](https://fedlex.data.admin.ch/eli/oc/2022/849)).
 
 #### Art. 23
 
@@ -977,7 +1035,7 @@ Il peut charger un délégataire d’exercer la tâche incombant à l’organe d
 
 <sup>5</sup> L’OFCOM approuve la nomination de la personne physique désignée en tant que personne responsable de l’organe de conciliation.
 
-[^42-1]: [RS 172.056.11](https://fedlex.data.admin.ch/eli/cc/2020/127)
+[^42-1]: [[RO 1996 518](https://fedlex.data.admin.ch/eli/oc/1996/518_518_518); [1997 2779](https://fedlex.data.admin.ch/eli/oc/1997/2779_2779_2779)ch. II 5; [2002 886](https://fedlex.data.admin.ch/eli/oc/2002/157)[1759](https://fedlex.data.admin.ch/eli/oc/2002/264); [2006 1667](https://fedlex.data.admin.ch/eli/oc/2006/259)[5613](https://fedlex.data.admin.ch/eli/oc/2006/829)art. 30 al. 2 ch. 1; [2009 6149](https://fedlex.data.admin.ch/eli/oc/2009/752); [2010 1565](https://fedlex.data.admin.ch/eli/oc/2010/222)[3175](https://fedlex.data.admin.ch/eli/oc/2010/427)annexe 3 ch. 2; [2015 775](https://fedlex.data.admin.ch/eli/oc/2015/141); [2017 5161](https://fedlex.data.admin.ch/eli/oc/2017/568)annexe 2 ch. II 3. [RO 2020 691](https://fedlex.data.admin.ch/eli/oc/2020/127)art. 31 al. 1 ch. 1]. Voir actuellement l’O du 12 février 2020 ([RS 172.056.11](https://fedlex.data.admin.ch/eli/cc/2020/127)).
 
 #### Art. 43
 
@@ -1847,9 +1905,11 @@ Les fournisseurs d’accès à Internet exploitent un service qui recueille les 
 
 #### Art. 96c
 
-**Exécution**
+**Exécution**[^96c-1]
 
-L’OFCOM exécute les dispositions de la présente section en collaboration avec le Centre national pour la cybersécurité.
+L’OFCOM exécute les dispositions de la présente section en collaboration avec l’Office fédéral de la cybersécurité.
+
+[^96c-1]: Nouvelle teneur selon le ch. II 12 de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
 
 ### Section 5 Sécurité des réseaux et des services des concessionnaires de radiocommunication mobile
 
@@ -2028,11 +2088,9 @@ L’ordonnance du DETEC du 15 décembre 1997 sur les raccordements de télécomm
 
 #### Art. 108a
 
-**Disposition transitoire relative à la modification du 2 décembre 2016**[^108a-1]
+[^108a-1]
 
-Jusqu’au 31 décembre 2021, le concessionnaire du service universel doit fournir à tout client qui le demande une interface analogique ou une interface RNIS (réseau numérique à intégration de services) au point de terminaison du réseau. Il ne peut pas facturer de frais pour cela.
-
-[^108a-1]: Introduit par le ch. I de l’O du 2 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 13](https://fedlex.data.admin.ch/eli/oc/2017/4)).
+[^108a-1]: Introduit par le ch. I de l’O du 2 déc. 2016 ([RO 2017 13](https://fedlex.data.admin.ch/eli/oc/2017/4)). Abrogé par le ch. I de l’O du 16 déc. 2022, avec effet au 1<sup>er</sup> janv. 2024 ([RO 2022 849](https://fedlex.data.admin.ch/eli/oc/2022/849)).
 
 #### Art. 108b
 
